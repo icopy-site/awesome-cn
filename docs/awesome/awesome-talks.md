@@ -3,7 +3,7 @@
 ## Awesome talks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-在线提供了大量的屏幕录像，用户组聚会记录和会议演讲. 我试图让自己每周至少观看两次新的演讲，并且我已经这样做了一段时间. 我创建了这个我非常喜欢看的在线谈话清单. 每当我看完另一个值得做的“很棒的”演讲时，我也会更新此列表. 建议总是通过请求请求得到赞赏. 因此，事不宜迟..
+在线提供了大量的屏幕录像，用户组聚会记录和会议演讲. 我努力让自己每周至少观看两次新的演讲，并且我已经这样做了一段时间. 我创建了这个我非常喜欢看的在线谈话清单. 每当我看完另一个值得做的“很棒的”演讲时，我也会更新此列表. 建议总是通过请求请求得到赞赏. 因此，事不宜迟..
 
 （无特定顺序）
 
@@ -147,6 +147,8 @@
 * [Implementing Programmer Anarchy](https://vimeo.com/79866978) **弗雷德·乔治** [54:55]
 * [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) 由** Michael Feathers ** [52:02]
 * [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) 由** Mary Poppendieck ** [01:06:38]
+* [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) 作者：** JB Rainsberger ** [00:07:42]
+
 
 #### Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) 由** Stuart Brown ** [46:00]

@@ -185,6 +185,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Apple Just Shipped Web Components to Production and You Probably Missed It](https://dev.to/ionic/apple-just-shipped-web-components-to-production-and-you-probably-missed-it-57pf)
 - [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
+- [How Web Components Are Used at GitHub and Salesforce](https://thenewstack.io/how-web-components-are-used-at-github-and-salesforce/)
 - [Implementing a Design Language System with Stencil.js](https://medium.com/@Danetag/implementing-a-design-language-system-with-stencil-js-515432918eb5)
 - [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 - [ING Open-Sources Lion, Its White-Label Web Component Library – Q&A with Thomas Allmer](https://www.infoq.com/articles/ing-open-sources-lion-web-component/)
@@ -218,7 +219,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) -用于编写和渲染着色器的Web组件.
 - [`<trix-editor>`](https://github.com/basecamp/trix) -用于日常写作的富文本编辑器自定义元素.
 - [`<vime-player>`](https://github.com/vime-js/vime) -可定制，可扩展，可访问且与框架无关的媒体播放器.
-- [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) -带 [web vitals](https://github.com/GoogleChrome/web-vitals) 使用自定义元素快速进入您的页面.
+- [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - 带来 [web vitals](https://github.com/GoogleChrome/web-vitals) 使用自定义元素快速进入您的页面.
 
 ### Component Libraries
 
@@ -287,8 +288,8 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
 - [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 - [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
-- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) 通过 [@viljamis](https://twitter.com/viljamis)
-- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) 通过 [@maxlynch](https://twitter.com/maxlynch)
+- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) 经过 [@viljamis](https://twitter.com/viljamis)
+- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) 经过 [@maxlynch](https://twitter.com/maxlynch)
 
 ## Libraries
 
@@ -329,7 +330,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) -带有各种示例的基准Web组件技术.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) -出于不同基准目的，在不同的Web组件库中构建了相同的todo应用程序.
+- [web-components-todo](https://wc-todo.firebaseapp.com/) -为基准测试目的，在不同的Web组件库中构建了相同的todo应用程序.
 
 ## Frameworks
 
@@ -441,25 +442,25 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ### Presentations
 
-- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 通过 [@lostinbrittany](https://twitter.com/lostinbrittany)
-- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 通过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
-- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) 通过 [@salem_cobalt](https://twitter.com/salem_cobalt)
-- [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) 通过 [@PowersBenny](https://twitter.com/PowersBenny)
-- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) 通过 [@Martine_Dowden](https://twitter.com/Martine_Dowden)
-- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 通过 [@samjulien](https://twitter.com/samjulien)
-- [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) 通过 [@serhiikulykov](https://twitter.com/serhiikulykov)
-- [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) 通过 [@brianbouril](https://twitter.com/brianbouril) 和 [@danciupuliga](https://twitter.com/danciupuliga)
-- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 通过 [@LeonieWatson](https://twitter.com/LeonieWatson)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-通过-bashmish-FrontMania-2018.pdf) 通过 [@bashmish](https://twitter.com/bashmish)
-- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
+- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 经过 [@lostinbrittany](https://twitter.com/lostinbrittany)
+- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 经过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
+- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) 经过 [@salem_cobalt](https://twitter.com/salem_cobalt)
+- [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) 经过 [@PowersBenny](https://twitter.com/PowersBenny)
+- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) 经过 [@Martine_Dowden](https://twitter.com/Martine_Dowden)
+- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 经过 [@samjulien](https://twitter.com/samjulien)
+- [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) 经过 [@serhiikulykov](https://twitter.com/serhiikulykov)
+- [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) 经过 [@brianbouril](https://twitter.com/brianbouril) 和 [@danciupuliga](https://twitter.com/danciupuliga)
+- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 经过 [@LeonieWatson](https://twitter.com/LeonieWatson)
+- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-经过-bashmish-FrontMania-2018.pdf) 经过 [@bashmish](https://twitter.com/bashmish)
+- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 经过 [@vogloblinsky](https://twitter.com/vogloblinsky)
+- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) 经过 [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ### Talks
 
-- [Better Apps: Delivering Universal UI Patterns as Web Components](https://youtu.be/mtHf7crZZIQ) 通过 [@janmiksovsky](https://twitter.com/janmiksovsky)
-- [Custom Web Shadow Elements, or Whatever…](https://vimeo.com/364370506) 通过 [@aerotwist](https://twitter.com/aerotwist)
-- [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) 通过 [@justinfagnani](https://twitter.com/justinfagnani)
-- [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) 通过 [@diervo](https://twitter.com/diervo)
+- [Better Apps: Delivering Universal UI Patterns as Web Components](https://youtu.be/mtHf7crZZIQ) 经过 [@janmiksovsky](https://twitter.com/janmiksovsky)
+- [Custom Web Shadow Elements, or Whatever…](https://vimeo.com/364370506) 经过 [@aerotwist](https://twitter.com/aerotwist)
+- [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) 经过 [@justinfagnani](https://twitter.com/justinfagnani)
+- [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) 经过 [@diervo](https://twitter.com/diervo)
 
 ## Usage Metrics
 

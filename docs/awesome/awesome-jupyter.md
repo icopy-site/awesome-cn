@@ -62,7 +62,7 @@
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) -基于小部件和WebGL的Jupyter中的Python 3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) -交互式小部件以2D和3D形式显示图像.
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊目的交互式图表的基础结构.
-- [jupyter-manim](https://github.com/krassowski/jupyter-manim) -显示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
+- [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 展示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) -Jupyter笔记本中的Google Maps交互式可视化库.
 - [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js进行交互式数据可视化.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) -一键将pandas DataFrame复制到剪贴板.
@@ -79,6 +79,7 @@
 
 - [Binder](http://mybinder.org) -将GitHub仓库变成交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) -Bookbook将目录中的一组笔记本转换为HTML或PDF，从而保留了笔记本内部和之间的交叉引用.
+- [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) -JupyterHub扩展，可在任何框架（Voilà，Streamlit，Plotly Dash等）中托管经过身份验证的脚本或笔记本.
 - [Jupytext](https://github.com/mwouts/jupytext) -使用文本格式（例如Python或Markdown文件）转换和同步笔记本，这些文本格式在版本控制下效果很好.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) -CLI搜索本地Jupyter笔记本.
 - [nbconvert](https://nbconvert.readthedocs.io) -将笔记本转换为其他格式.
@@ -116,7 +117,7 @@
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) -扩展了将笔记本发布到 [Kyso](https://kyso.io) Jupyterlab开发的平台.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) -JupyterLab中的笔记本模板.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) -扩展功能，可实时编辑LaTeX文档.
-- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似于IDE的功能（代码导航，悬停建议，lint，诊断，无内核自动完成等）
+- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似于IDE的功能（代码导航，悬停建议，linter，诊断，无内核自动完成等）
 - [nb_black](https://github.com/dnanhkhoa/nb_black) -扩展以保持Python代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) -在JupyterLab中探索CPython字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) -通过输入文件名的一部分在JupyterLab中快速打开文件.
@@ -125,7 +126,7 @@
 - [sql](https://github.com/pbugnion/jupyterlab-sql) -JupyterLab的SQL GUI.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) -扩展显示系统指标.
 - [templates](https://github.com/timkpaine/jupyterlab_templates) -支持Jupyter Notebook模板.
-- [theme-darcula](https://github.com/telamonian/theme-darcula) -Jupyterlab的Darcula主题.
+- [theme-darcula](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) -提供笔记本目录的扩展程序.
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) -JupyterLab的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) -显示变量及其值的变量检查器扩展.
@@ -175,13 +176,13 @@
 - [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) -可作为Jupyter内核使用的所有编程语言的列表.
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
-- [Try Jupyter](https://try.jupyter.org) - Try Jupyter in your browser.
+- [Try Jupyter](https://try.jupyter.org) -在浏览器中尝试Jupyter.
 
 ## Community Resources
 
 -会议演讲- [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - [jupyter-map](https://elc.github.io/jupyter-map/) -使用Jupyter的大学机构地图.
--网格- [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
+- 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 -GitHub-主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 -GitHub-搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
@@ -211,4 +212,4 @@
 
 ## Contributing
 
-永远欢迎您的贡献！ 请看看 [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) 第一.
+永远欢迎您的贡献！ 请看看 [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) 第一的.

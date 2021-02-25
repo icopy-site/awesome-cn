@@ -213,6 +213,7 @@
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 - [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
 - [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
+- [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
 
 ## Projects
 
@@ -220,32 +221,32 @@
   <tr>
     <td>Name</td>
     <td>网址</td>
-    <td>资源</td>
+    <td>来源</td>
   </tr>
   <tr>
     <td>创建社会形象</td>
     <td>https://createsocialimages.com</td>
-    <td><a href="https://github.com/pshihn/csi">资源</a></td>
+    <td><a href="https://github.com/pshihn/csi">来源</a></td>
   </tr>
   <tr>
     <td>DevWeb内容防火墙</td>
     <td>https://devwebfeed.appspot.com</td>
-    <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">资源</a></td>
+    <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">来源</a></td>
   </tr>
   <tr>
     <td>RX节拍器</td>
     <td>https://rx-metronome.web.app</td>
-    <td><a href="https://github.com/ydubinskyi/rx-metronome">资源</a></td>
+    <td><a href="https://github.com/ydubinskyi/rx-metronome">来源</a></td>
   </tr>
   <tr>
     <td>磁盘扫描</td>
     <td>https://manzdev.github.io/scandisk-2.0/</td>
-    <td><a href="https://github.com/ManzDev/scandisk-2.0">资源</a></td>
+    <td><a href="https://github.com/ManzDev/scandisk-2.0">来源</a></td>
   </tr>
   <tr>
     <td>网络技能</td>
     <td>https://andreasbm.github.io/web-skills/</td>
-    <td><a href="https://github.com/andreasbm/web-skills">资源</a></td>
+    <td><a href="https://github.com/andreasbm/web-skills">来源</a></td>
   </tr>
 </table>
 
@@ -265,7 +266,7 @@
 
 ## Other awesome resources
 
-**如果您需要更多很棒的资源，请检查 [awesome](https://github.com/sindresorhus/awesome) 清单！**
+**如果您需要更多很棒的资源，请检查 [awesome](https://github.com/sindresorhus/awesome) 列表！**
 
 ---
 

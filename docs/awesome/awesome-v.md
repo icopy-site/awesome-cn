@@ -128,6 +128,11 @@
 
 - [vgram](https://github.com/dariotarantini/vgram) -电报机器人库.
 
+### Discord
+
+- [viscord](https://github.com/vlang/viscord) -用于连接到Discord网关的漂亮基本库.
+- [discord.v](https://github.com/Terisback/discord.v) -用户友好的Discord机器人库.
+
 ### IRC
 
 - [vitric](https://github.com/m-242/vitric) -透明的IRC库.
@@ -156,6 +161,7 @@
 
 - [range](https://github.com/Delta456/range) -V中Python的range（）的功能.
 - [random](https://github.com/Delta456/random) -用V编写的通用随机库.
+- [vdotenv](https://github.com/zztkm/vdotenv) -支持加载环境变量的.env文件.
 
 ## Other
 

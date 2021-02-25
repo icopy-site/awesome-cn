@@ -35,7 +35,7 @@
 
 ## Programming in general
 
-那里有很多编程语言. 在本部分中，您可以找到任何编程语言，包括Python，C，Java. 此外，许多YouTube工作者都讲授这些语言的框架. 不仅是编程语言，而且还有更通用的编程内容. 您可以找到实用教程或理论教程.
+那里有很多编程语言. 在本部分中，您可以找到任何编程语言，包括Python，C，Java. 此外，许多YouTube工作者都讲授这些语言的框架. 不仅是编程语言，还有更通用的编程内容. 您可以找到实用教程或理论教程.
 
 [<img align="left" height="94px" width="94px" alt="Tech With Tim channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
 
@@ -313,6 +313,12 @@ Content about: Java, Python, C#/C++ \
 [**NullPointer Exception**](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容约：理论，数据
 特色播放列表：“数据结构简介”，“排序算法讲座/可视化”，“面向对象程序设计简介”.
+
+[<img align="left" height="94px" width="94px" alt="dotNET channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng6MXFVH96Z90UBQ0SZIhcOleaQAg6if8DB2-Ho=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/dotNET)
+
+[**dotNET**](https://www.youtube.com/c/dotNET) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: .NET, ASP.NET, C# \
+Featured playlists: `Desktop and .NET Code 101`, `ASP.NET Core 101`, `DevOps for .NET`, `C# Language Highlights`, `C# Advanced`, `and more`.
 
 
 ## Web development
@@ -734,7 +740,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 
 [**RealTutsGML**](https://www.youtube.com/c/RealTutsGML) \
 内容有关：Java，GameMaker Studio \
-特色播放列表：“ Java基本编程”，“酷游戏制作者教程”，“初学者Java游戏开发”，“ Java平台游戏编程”.
+Featured playlists: `Java Basic Programming`, `Cool Game Maker Tutorials`, `Beginner Java Game Development`, `Java Platform Game Programming`.
 
 [<img align="left" height="94px" width="94px" alt="Mark Rise channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLVHrXv3qfNCv7Qu9LX7x92XuCnNu8p4pQMd2YXA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w)
 
@@ -785,7 +791,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
 内容约：GODOT
-特色播放列表：“ Godot 3教程”，“在Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者游戏制作教程”.
+精选播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者创建游戏指南”.
 
 [<img align="left" height="94px" width="94px" alt="HeartBeast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
 
@@ -891,7 +897,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 ## Software in general
 
-此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
+此类别中列出的YouTubers可能不是编程教程或很酷的设计卡，但每天都有所有人使用其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
 
 [<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
@@ -998,7 +1004,7 @@ Content about: Adobe Illustrator, Illustrations \
 [<img align="left" height="94px" width="94px" alt="Logos By Nick channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwl3FUpFqnMH4rJ7tnSjuFqpn0gNvSRgrlWXmQxNw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/logosbynick)
 
 [**Logos By Nick**](https://www.youtube.com/c/logosbynick) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-Content about: Inkscape, Gimp \
+内容约：Inkscape，Gimp
 精选播放列表：“ Inkscape入门教程”，“ GIMP教程”，“ Inkscape字体教程”，“ Inkscape徽标设计教程”.
 
 
