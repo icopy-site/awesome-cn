@@ -211,7 +211,7 @@
 - [commudle](https://github.com/gdgnewdelhi/commudle) -社区管理应用程序（使用Rails 5.2）.
 - [contribulator](https://github.com/24pullrequests/contribulator) -一个开源项目查找器应用程序-使用Rails 5.1
 - [coursemology2](https://github.com/Coursemology/coursemology2) -学习平台应用程序（使用Rails 5.2）.
-- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - A carpooling app - using Rails 5.0 (archived).
+- [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) -拼车应用-使用Rails 5.0（已存档）.
 - [crabgrass-core](https://0xacab.org/riseuplabs/crabgrass) -维权团体的协作平台（使用Rails 4.2）.
 - [crowdAI](https://github.com/crowdAI/crowdai)  -应对数据科学挑战的应用程序（使用Rails 5.2）.  -- [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) -众筹平台-使用Rails 3.2
@@ -221,7 +221,7 @@
 - [dev.to](https://github.com/thepracticaldev/dev.to)  -专门用于Web开发的社交平台应用程序（使用Rails 5.2）.  -- [:earth_africa:](https://dev.to)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -药物基因相互作用平台-使用Rails 5.1
 - [diaper](https://github.com/rubyforgood/diaper)  -尿布银行的库存管理应用程序（使用Rails 6.0）.  -- [:earth_africa:](https://diaper.app/)
-- [diaspora](https://github.com/diaspora/diaspora) - A social networking app - using Rails 5.1 - [:earth_africa:](https://diasporafoundation.org)
+- [diaspora](https://github.com/diaspora/diaspora) -社交网络应用-使用Rails 5.1- [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse)  -社区讨论的平台（使用Rails 6.0）.  -- [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) -农场管理应用程序（使用Rails 4.2）.
 - [postal](https://github.com/postalhq/postal) -邮件传递平台（使用Rails 5.2）.
@@ -268,11 +268,11 @@
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -自行车比赛组织应用程序（使用Rails 5.2）.
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -援助人员的信息提供者应用程序（使用Rails 4.0）.
 - [redmine](https://github.com/edavis10/redmine)  -一个项目管理应用程序（使用Rails 5.2）.  -- [:earth_africa:](http://demo.redmine.org)
-- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) -一个市场应用程序-（使用Rails 4.0）.
+- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
 - [reservations](https://github.com/YaleSTC/reservations)  -库存管理应用程序（使用Rails 6.0）.  -- [:earth_africa:](http://yalestc.github.io/reservations)
 - [rletters](https://github.com/rletters/rletters)  -研究人员期刊文章数据库的前端（使用Rails 6.0）.  -- [:earth_africa:](http://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org)  -gem托管平台（使用Rails 6.0）.  -- [:earth_africa:](https://rubygems.org)
-- [sanataro](https://github.com/kaznum/sanataro)  -帐户跟踪器（使用Rails 4.2）.  -- [:earth_africa:](http://sanataro.herokuapp.com)
+- [sanataro](https://github.com/kaznum/sanataro) - An account tracker (using Rails 4.2). - [:earth_africa:](http://sanataro.herokuapp.com)
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) -一个数字资产管理应用程序-使用Rails 5.1
 - [selfstarter](https://github.com/apigy/selfstarter) -众筹应用程序（使用Rails 4.0）.
 - [sharetribe](https://github.com/sharetribe/sharetribe)  -点对点市场平台（使用Rails 5.2）.  -- [:earth_africa:](https://www.sharetribe.com)
@@ -292,109 +292,141 @@
 
 ## Gems
 
--[rails] [link_rails_source]-完整的Web开发框架- [rubygems](https://rubygems.org/gems/rails)
+&gt; [：red_circle：]：宝石的RubyGems链接
+
+-[rails] [link_rails_source]-完整的Web开发框架 [:red_circle:](https://rubygems.org/gems/rails)
 
 &gt;“ rails” gem的直接依赖项：
 
-- [actioncable](https://github.com/rails/rails/tree/master/actioncable) -将websocket与Rails应用集成的瑰宝- [rubygems](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
-- [actionmailbox](https://github.com/rails/rails/tree/master/actionmailbox) -在Rails应用程序中处理传入电子邮件的瑰宝- [rubygems](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
-- [actionmailer](https://github.com/rails/rails/tree/master/actionmailer) -在Rails应用程序中撰写，传递和测试电子邮件的瑰宝- [rubygems](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-- [actionpack](https://github.com/rails/rails/tree/master/actionpack) -在Rails应用程序中管理请求和响应的瑰宝- [rubygems](https://rubygems.org/gems/actionpack)
-- [actiontext](https://github.com/rails/rails/tree/master/actiontext) -将富文本编辑器集成到Rails应用程序中的瑰宝- [rubygems](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
-- [actionview](https://github.com/rails/rails/tree/master/actionview) -在Rails应用程序中处理视图模板的瑰宝- [rubygems](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
-- [activejob](https://github.com/rails/rails/tree/master/activejob) -在Rails应用程序中处理后台作业的瑰宝- [rubygems](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
-- [activemodel](https://github.com/rails/rails/tree/master/activemodel) -定义一组在Rails应用程序的模型类中使用的接口的宝石- [rubygems](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
-- [activerecord](https://github.com/rails/rails/tree/master/activerecord) -在Rails应用程序中将模型类与关系数据库连接的瑰宝- [rubygems](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-- [activestorage](https://github.com/rails/rails/tree/master/activestorage) -用于在Rails应用程序中处理文件上传到云存储提供商的工具- [rubygems](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
-- [activesupport](https://github.com/rails/rails/tree/master/activesupport) -提供一些扩展以支持Rails应用程序的宝石- [rubygems](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
-- [railties](https://github.com/rails/rails/tree/master/railties) -处理在Rails应用程序中协同工作的宝石和引擎的宝石- [rubygems](https://rubygems.org/gems/railties)
+- [actioncable](https://github.com/rails/rails/tree/master/actioncable) -将websocket与Rails应用集成的瑰宝 [:red_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+- [actionmailbox](https://github.com/rails/rails/tree/master/actionmailbox) -在Rails应用程序中处理传入电子邮件的瑰宝 [:red_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+- [actionmailer](https://github.com/rails/rails/tree/master/actionmailer) -在Rails应用程序中撰写，传递和测试电子邮件的瑰宝 [:red_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+- [actionpack](https://github.com/rails/rails/tree/master/actionpack) -在Rails应用程序中管理请求和响应的瑰宝 [:red_circle:](https://rubygems.org/gems/actionpack)
+- [actiontext](https://github.com/rails/rails/tree/master/actiontext) -将富文本编辑器集成到Rails应用程序的瑰宝 [:red_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+- [actionview](https://github.com/rails/rails/tree/master/actionview) -在Rails应用程序中处理视图模板的瑰宝 [:red_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+- [activejob](https://github.com/rails/rails/tree/master/activejob) -在Rails应用程序中处理后台作业的瑰宝 [:red_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+- [activemodel](https://github.com/rails/rails/tree/master/activemodel) -定义用于在Rails应用程序的模型类中使用的一组接口的gem [:red_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+- [activerecord](https://github.com/rails/rails/tree/master/activerecord) -在Rails应用程序中将模型类与关系数据库连接的瑰宝 [:red_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+- [activestorage](https://github.com/rails/rails/tree/master/activestorage) -在Rails应用程序中处理文件上传到云存储提供商的瑰宝 [:red_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+- [activesupport](https://github.com/rails/rails/tree/master/activesupport) -提供一些扩展以支持Rails应用程序的宝石 [:red_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+- [railties](https://github.com/rails/rails/tree/master/railties) -处理在Rails应用程序中一起使用的宝石和引擎的宝石 [:red_circle:](https://rubygems.org/gems/railties)
 
 &gt;其他可以与Rails一起使用的宝石
 
-- [ace-rails-ap](https://github.com/codykrieger/ace-rails-ap)  -将ajax.org cloud9编辑器集成到Rails资产管道中的宝石.  -- [rubygems](https://rubygems.org/gems/ace-rails-ap)
-- [action_policy](https://github.com/palkan/action_policy)  -处理授权的工具.  -- [rubygems](https://rubygems.org/gems/action_policy)
-- [active_decorator](https://github.com/amatsuda/active_decorator)  -保持视图和助手面向对象的瑰宝.  -- [rubygems](https://rubygems.org/gems/active_decorator)
-- [active_enum](https://github.com/adzap/active_enum) -提供枚举类的宝石- [rubygems](https://rubygems.org/gems/active_enum)
-- [activeadmin](https://github.com/activeadmin/activeadmin)  -提供管理面板的宝石.  -- [rubygems](https://rubygems.org/gems/activeadmin)
-- [activity_notification](https://github.com/simukappu/activity_notification)  -集成用户活动通知的宝石.  -- [rubygems](https://rubygems.org/gems/activity_notification)
-- [aggregate_root](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root)  -处理事件来源的瑰宝.  -- [rubygems](https://rubygems.org/gems/aggregate_root)
-- [ahoy_email](https://github.com/ankane/ahoy_email)  -提供邮件分析的工具.  -- [rubygems](https://rubygems.org/gems/ahoy_email)
-- [algoliasearch-rails](https://github.com/algolia/algoliasearch-rails)  -整合Algolia搜索的瑰宝.  -- [rubygems](https://rubygems.org/gems/algoliasearch-rails)
-- [annotate](https://github.com/ctran/annotate_models)  -用来用架构和路由信息注释rails类的gem.  -- [rubygems](https://rubygems.org/gems/annotate)
-- [anycable-rails](https://github.com/anycable/anycable-rails)  -处理websocket服务器的宝石.  -- [rubygems](https://rubygems.org/gems/anycable-rails)
-- [apipie-rails](https://github.com/apipie/apipie-rails)  -REST API文档工具.  -- [rubygems](https://rubygems.org/gems/apipie-rails)
-- [auther](https://github.com/bkuhlmann/auther)  -提供简单的，基于表单的身份验证的gem.  -- [rubygems](https://rubygems.org/gems/auther)
-- [autoprefixer-rails](https://github.com/ai/autoprefixer-rails)  -可以在样式表中添加供应商前缀的宝石.  -- [rubygems](https://rubygems.org/gems/autoprefixer-rails)
+- [ace-rails-ap](https://github.com/codykrieger/ace-rails-ap) -将ajax.org cloud9编辑器集成到Rails资产管道中的宝石. [:red_circle:](https://rubygems.org/gems/ace-rails-ap)
+- [action_policy](https://github.com/palkan/action_policy) -处理授权的工具. [:red_circle:](https://rubygems.org/gems/action_policy)
+- [active_decorator](https://github.com/amatsuda/active_decorator) -保持视图和助手面向对象的瑰宝. [:red_circle:](https://rubygems.org/gems/active_decorator)
+- [active_enum](https://github.com/adzap/active_enum) -提供枚举类的宝石 [:red_circle:](https://rubygems.org/gems/active_enum)
+- [activeadmin](https://github.com/activeadmin/activeadmin) -提供管理面板的宝石. [:red_circle:](https://rubygems.org/gems/activeadmin)
+- [activerecord-analyze](https://github.com/pawurb/activerecord-analyze) -将EXPLAIN ANALYZE添加到Rails Active Record查询对象的宝石. [:red_circle:](https://rubygems.org/gems/activerecord-analyze)
+- [activerecord-import](https://github.com/zdennis/activerecord-import) -使用ActiveRecord处理批量数据插入的宝石. [:red_circle:](https://rubygems.org/gems/activerecord-import)
+- [activerecord-pg_enum](https://github.com/alassek/activerecord-pg_enum) -将PostgreSQL枚举类型与Rails枚举功能集成在一起的宝石. [:red_circle:](https://rubygems.org/gems/activerecord-pg_enum)
+- [activerecord-postgis-adapter](https://github.com/rgeo/activerecord-postgis-adapter) -用于PostGIS的ActiveRecord连接适配器. [:red_circle:](https://rubygems.org/gems/activerecord-postgis-adapter)
+- [activerecord-postgres_enum](https://github.com/bibendi/activerecord-postgres_enum) -可以将迁移和schema.rb支持添加到PostgreSQL枚举数据类型的宝石. [:red_circle:](https://rubygems.org/gems/activerecord-postgres_enum)
+- [activerecord-sqlserver-adapter](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) -用于SQL Server的ActiveRecord连接适配器. [:red_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
+- [activerecord-typedstore](https://github.com/byroot/activerecord-typedstore) -用类型定义实现`ActiveRecord :: Store`的gem. [:red_circle:](https://rubygems.org/gems/activerecord-typedstore)
+- [activity_notification](https://github.com/simukappu/activity_notification) -集成用户活动通知的宝石. [:red_circle:](https://rubygems.org/gems/activity_notification)
+- [aggregate_root](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root) -处理事件来源的瑰宝. [:red_circle:](https://rubygems.org/gems/aggregate_root)
+- [ahoy_email](https://github.com/ankane/ahoy_email) -提供邮件分析的工具. [:red_circle:](https://rubygems.org/gems/ahoy_email)
+- [algoliasearch-rails](https://github.com/algolia/algoliasearch-rails) -整合Algolia搜索的瑰宝. [:red_circle:](https://rubygems.org/gems/algoliasearch-rails)
+- [annotate](https://github.com/ctran/annotate_models) -用来用架构和路由信息注释rails类的gem. [:red_circle:](https://rubygems.org/gems/annotate)
+- [anycable-rails](https://github.com/anycable/anycable-rails) -处理websocket服务器的宝石. [:red_circle:](https://rubygems.org/gems/anycable-rails)
+- [apipie-rails](https://github.com/apipie/apipie-rails) -REST API文档工具. [:red_circle:](https://rubygems.org/gems/apipie-rails)
+- [auther](https://github.com/bkuhlmann/auther) -提供简单的，基于表单的身份验证的gem. [:red_circle:](https://rubygems.org/gems/auther)
+- [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) -可以在样式表中添加供应商前缀的宝石. [:red_circle:](https://rubygems.org/gems/autoprefixer-rails)
 - [avo](https://github.com/avo-hq/avo) -基于配置的免维护可扩展Ruby on Rails管理面板. [rubygems](https://rubygems.org/gems/avo)
-- [better_errors](https://github.com/BetterErrors/better_errors)  -提供更好错误页面的工具.  -- [rubygems](https://rubygems.org/gems/better_errors)
-- [brakeman](https://github.com/presidentbeef/brakeman)  -扫描安全漏洞代码的宝藏.  -- [rubygems](https://rubygems.org/gems/brakeman)
-- [breadcrumbs_on_rails](https://github.com/weppos/breadcrumbs_on_rails)  -创建和管理面包屑式导航的瑰宝.  -- [rubygems](https://rubygems.org/gems/breadcrumbs_on_rails)
-- [bulma-rails](https://github.com/joshuajansen/bulma-rails)  -Bulma的包装器，Bulma是基于flexbox的CSS框架.  -- [rubygems](https://rubygems.org/gems/bulma-rails)
-- [cancancan](https://github.com/cancancommunity/cancancan)  -处理授权的宝石.  -- [rubygems](https://rubygems.org/gems/cancancan)
-- [caxlsx_rails](https://github.com/caxlsx/caxlsx_rails)  -生成实体关系图的宝石.  -- [rubygems](https://rubygems.org/gems/caxlsx_rails)
-- [counter_culture](https://github.com/magnusvk/counter_culture)  -提供计数器缓存的宝石.  -- [rubygems](https://rubygems.org/gems/counter_culture)
-- [devise](https://github.com/heartcombo/devise)  -提供身份验证的宝石.  -- [rubygems](https://rubygems.org/gems/devise)
-- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)  -介绍OAuth2提供程序功能的瑰宝.  -- [rubygems](https://rubygems.org/gems/doorkeeper)
-- [draper](https://github.com/drapergem/draper)  -添加演示逻辑的宝石.  -- [rubygems](https://rubygems.org/gems/draper)
--factory_bot_rails-用于在Rails中进行测试的夹具替换- [rubygems](https://rubygems.org/gems/factory_bot_rails) - [source code](https://github.com/thoughtbot/factory_bot_rails)
-- [filestack-rails](https://github.com/filestack/filestack-rails)  -集成Filestack的宝石.  -- [rubygems](https://rubygems.org/gems/filestack-rails)
-- [formtastic](https://github.com/formtastic/formtastic)  -具有语义丰富且可访问的标记的Rails表单构建器gem.  -- [rubygems](https://rubygems.org/gems/formtastic)
-- [friendly_id](https://github.com/norman/friendly_id)  -用来处理子弹和永久链接的宝石.  -- [rubygems](https://rubygems.org/gems/friendly_id)
-- [geokit-rails](https://github.com/geokit/geokit-rails)  -将Geokit集成到Rails应用程序中的宝石.  -- [rubygems](https://rubygems.org/gems/geokit-rails)
-- [good_job](https://github.com/bensheldon/good_job)  -提供基于Postgres的ActiveJob后端的宝石.  -- [rubygems](https://rubygems.org/gems/good_job)
-- [gretel](https://github.com/kzkn/gretel)  -生成面包屑的工具.  -- [rubygems](https://rubygems.org/gems/gretel)
-- [groupdate](https://github.com/ankane/groupdate)  -用于管理时间数据的宝石.  -- [rubygems](https://rubygems.org/gems/groupdate)
-- [hotwire-rails](https://github.com/hotwired/hotwire-rails)  -将Hotwire集成到Rails应用程序中的瑰宝.  -- [rubygems](https://rubygems.org/gems/hotwire-rails)
-- [image_optim_rails](https://github.com/toy/image_optim_rails)  -处理图像优化的宝石.  -- [rubygems](https://rubygems.org/gems/image_optim_rails)
-- [js-routes](https://github.com/railsware/js-routes)  -生成所有Rails路线作为JavaScript助手的工具.  -- [rubygems](https://rubygems.org/gems/js-routes)
-- [kaminari](https://github.com/kaminari/kaminari)  -提供分页的宝石.  -- [rubygems](https://rubygems.org/gems/kaminari)
-- [lockbox](https://github.com/ankane/lockbox)  -处理加密的宝石.  -- [rubygems](https://rubygems.org/gems/lockbox)
-- [lograge](https://github.com/roidrage/lograge)  -在Rails应用中自定义记录器的瑰宝.  -- [rubygems](https://rubygems.org/gems/lograge)
-- [mailkick](https://github.com/ankane/mailkick)  -处理邮件退订的工具.  -- [rubygems](https://rubygems.org/gems/mailkick)
-- [metka](https://github.com/jetrockets/metka)  -使用Postgresql数组列管理标签的gem.  -- [rubygems](https://rubygems.org/gems/metka)
-- [money-rails](https://github.com/RubyMoney/money-rails)  -将Money宝石集成到Rails应用程序中的宝石.  -- [rubygems](https://rubygems.org/gems/money-rails)
-- [paloma](https://github.com/gnclmorais/paloma)  -在Rails应用程序中管理页面特定JavaScript的工具.  -- [rubygems](https://rubygems.org/gems/paloma)
-- [pgcli-rails](https://github.com/mattbrictson/pgcli-rails)  -替换了rails：dbconsole命令来管理Postgresql.  -- [rubygems](https://rubygems.org/gems/pgcli-rails)
-- [premailer-rails](https://github.com/fphilipe/premailer-rails)  -处理电子邮件样式的瑰宝.  -- [rubygems](https://rubygems.org/gems/premailer-rails)
-- [prerender_rails](https://github.com/prerender/prerender_rails)  -可以预渲染JavaScript渲染页面的宝石.  -- [rubygems](https://rubygems.org/gems/prerender_rails)
-- [rails-erd](https://github.com/voormedia/rails-erd)  -生成实体关系图的宝石.  -- [rubygems](https://rubygems.org/gems/rails-erd)
-- [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)  -用于将全局设置作为键值对管理的gem.  -- [rubygems](https://rubygems.org/gems/rails-settings-cached)
-- [rails_admin](https://github.com/sferik/rails_admin)  -创建和管理Rails应用程序管理面板的瑰宝.  -- [rubygems](https://rubygems.org/gems/rails_admin)
-- [rails_event_store](https://github.com/RailsEventStore/rails_event_store) -在Rails中实现事件存储的瑰宝- [rubygems](https://rubygems.org/gems/rails_event_store)
-- [rails_semantic_logger](https://github.com/rocketjob/rails_semantic_logger)  -可以为Rails应用提供替代日志记录方法的工具.  -- [rubygems](https://rubygems.org/gems/rails_semantic_logger)
-- [ranked-model](https://github.com/mixonic/ranked-model)  -处理行排序的宝石.  -- [rubygems](https://rubygems.org/gems/ranked-model)
-- [ransack](https://github.com/activerecord-hackery/ransack)  -提供搜索功能的宝石.  -- [rubygems](https://rubygems.org/gems/ransack)
-- [react-rails](https://github.com/reactjs/react-rails)  -将React.js与Rails应用集成的瑰宝.  -- [rubygems](https://rubygems.org/gems/react-rails)
-- [redisWebManager](https://github.com/OpenGems/redis_web_manager)  -Web界面，可让您轻松管理Redis实例.  -- [rubygems](https://rubygems.org/gems/redis_web_manager)
-- [reform-rails](https://github.com/trailblazer/reform-rails)  -使用Rails应用程序包装“ Reform gem”（一种表单验证工具）的宝石.  -- [rubygems](https://rubygems.org/gems/reform-rails)
-- [rodauth-rails](https://github.com/janko/rodauth-rails)  -用于包装Rails应用程序身份验证处理程序Rodauth的宝石.  -- [rubygems](https://rubygems.org/gems/rodauth-rails)
-- [rollup](https://github.com/ankane/rollup) -在Rails中处理时间序列数据的工具- [rubygems](https://rubygems.org/gems/rollups)
-- [route_translator](https://github.com/enriclluelles/route_translator)  -处理路线转换的工具.  -- [rubygems](https://rubygems.org/gems/route_translator)
-- [rspec-rails](https://github.com/rspec/rspec-rails)  -测试框架.  -- [rubygems](https://rubygems.org/gems/rspec-rails)
-- [rubocop-rails](https://github.com/rubocop-hq/rubocop-rails)  -代码样式检查工具.  -- [rubygems](https://rubygems.org/gems/rubocop-rails)
-- [scenic](https://github.com/scenic-views/scenic)  -一个管理数据库视图的工具.  -- [rubygems](https://rubygems.org/gems/scenic)
-- [searchkick](https://github.com/ankane/searchkick)  -提供搜索功能的宝石.  -- [rubygems](https://rubygems.org/gems/searchkick)
-- [select2-rails](https://github.com/argerim/select2-rails)  -将Select2库集成到Rails应用程序中的瑰宝.  -- [rubygems](https://rubygems.org/gems/select2-rails)
-- [simple_form](https://github.com/heartcombo/simple_form)  -处理表格的宝石.  -- [rubygems](https://rubygems.org/gems/simple_form)
-- [solidus](https://github.com/solidusio/solidus)  -Spree gem的一个分支，这是一个开放源代码电子商务平台.  -- [rubygems](https://rubygems.org/gems/solidus)
-- [sorbet-rails](https://github.com/chanzuckerberg/sorbet-rails/)  -将Sorbet宝石集成到Rails应用程序中的宝石.  -- [rubygems](https://rubygems.org/gems/sorbet-rails)
-- [spree](https://github.com/spree/spree)  -开源电子商务平台.  -- [rubygems](https://rubygems.org/gems/spree)
-- [spring](https://github.com/rails/spring)  -可以预加载Rails应用程序的宝石.  -- [rubygems](https://rubygems.org/gems/spring)
-- [sprockets](https://github.com/rails/sprockets)  -用来编译和提供网络资产的宝石.  -- [rubygems](https://rubygems.org/gems/sprockets)
-- [stimulus-rails](https://github.com/hotwired/stimulus-rails)  -将Stimulus.js集成到Rails应用程序中的宝石.  -- [rubygems](https://rubygems.org/gems/stimulus-rails)
-- [tinymce-rails](https://github.com/spohlenz/tinymce-rails)  -将Tinymcece集成到Rails应用程序中的瑰宝.  -- [rubygems](https://rubygems.org/gems/tinymce-rails)
-- [trove](https://github.com/ankane/trove)  -处理机器学习模型部署的瑰宝.  -- [rubygems](https://rubygems.org/gems/trove)
-- [turbo-rails](https://github.com/hotwired/turbo-rails)  -将Turbo.js集成到Rails应用程序中的瑰宝.  -- [rubygems](https://rubygems.org/gems/turbo-rails)
-- [view_component](https://github.com/github/view_component)  -介绍视图组件的瑰宝.  -- [rubygems](https://rubygems.org/gems/view_component)
-- [webpacker](https://github.com/rails/webpacker)  -使用Webpack捆绑Web资产的瑰宝.  -- [rubygems](https://rubygems.org/gems/webpacker)
-- [zeitwerk](https://github.com/fxn/zeitwerk)  -处理线程安全代码加载的宝石.  -- [rubygems](https://rubygems.org/gems/zeitwerk)
+- [better_errors](https://github.com/BetterErrors/better_errors) -提供更好错误页面的工具. [:red_circle:](https://rubygems.org/gems/better_errors)
+- [brakeman](https://github.com/presidentbeef/brakeman) -扫描安全漏洞代码的宝藏. [:red_circle:](https://rubygems.org/gems/brakeman)
+- [breadcrumbs_on_rails](https://github.com/weppos/breadcrumbs_on_rails) -创建和管理面包屑式导航的瑰宝. [:red_circle:](https://rubygems.org/gems/breadcrumbs_on_rails)
+- [bulma-rails](https://github.com/joshuajansen/bulma-rails) -Bulma的包装器，Bulma是基于flexbox的CSS框架. [:red_circle:](https://rubygems.org/gems/bulma-rails)
+- [cancancan](https://github.com/cancancommunity/cancancan) -处理授权的宝石. [:red_circle:](https://rubygems.org/gems/cancancan)
+- [carrierwave](https://github.com/carrierwaveuploader/carrierwave) -处理文件上传的宝石. [:red_circle:](https://rubygems.org/gems/carrierwave)
+- [caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) -生成实体关系图的宝石. [:red_circle:](https://rubygems.org/gems/caxlsx_rails)
+- [counter_culture](https://github.com/magnusvk/counter_culture) -提供计数器缓存的宝石. [:red_circle:](https://rubygems.org/gems/counter_culture)
+- [devise](https://github.com/heartcombo/devise) -提供身份验证的宝石. [:red_circle:](https://rubygems.org/gems/devise)
+- [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) -介绍OAuth2提供程序功能的瑰宝. [:red_circle:](https://rubygems.org/gems/doorkeeper)
+- [draper](https://github.com/drapergem/draper) -添加演示逻辑的宝石. [:red_circle:](https://rubygems.org/gems/draper)
+- [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) -用于在Rails中测试的夹具替换 [:red_circle:](https://rubygems.org/gems/factory_bot_rails)
+- [filestack-rails](https://github.com/filestack/filestack-rails) -集成Filestack的宝石. [:red_circle:](https://rubygems.org/gems/filestack-rails)
+- [formtastic](https://github.com/formtastic/formtastic) -具有语义丰富且可访问的标记的Rails表单构建器gem. [:red_circle:](https://rubygems.org/gems/formtastic)
+- [friendly_id](https://github.com/norman/friendly_id) -用来处理子弹和永久链接的宝石. [:red_circle:](https://rubygems.org/gems/friendly_id)
+- [frozen_record](https://github.com/byroot/frozen_record) -提供类似ActiveRecord的界面以查询静态YAML文件的工具. [:red_circle:](https://rubygems.org/gems/frozen_record)
+- [geokit-rails](https://github.com/geokit/geokit-rails) -将Geokit集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/geokit-rails)
+- [good_job](https://github.com/bensheldon/good_job) -提供基于Postgres的ActiveJob后端的宝石. [:red_circle:](https://rubygems.org/gems/good_job)
+- [gretel](https://github.com/kzkn/gretel) -生成面包屑的工具. [:red_circle:](https://rubygems.org/gems/gretel)
+- [groupdate](https://github.com/ankane/groupdate) -用于管理时间数据的宝石. [:red_circle:](https://rubygems.org/gems/groupdate)
+- [hotwire-rails](https://github.com/hotwired/hotwire-rails) -将Hotwire集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/hotwire-rails)
+- [image_optim_rails](https://github.com/toy/image_optim_rails) -处理图像优化的宝石. [:red_circle:](https://rubygems.org/gems/image_optim_rails)
+- [js-routes](https://github.com/railsware/js-routes) -生成所有Rails路线作为JavaScript助手的工具. [:red_circle:](https://rubygems.org/gems/js-routes)
+- [kaminari](https://github.com/kaminari/kaminari) -提供分页的宝石. [:red_circle:](https://rubygems.org/gems/kaminari)
+- [kt-paperclip](https://github.com/kreeti/kt-paperclip) -处理文件上传的宝石. [:red_circle:](https://rubygems.org/gems/kt-paperclip)
+- [lockbox](https://github.com/ankane/lockbox) -处理加密的宝石. [:red_circle:](https://rubygems.org/gems/lockbox)
+- [lograge](https://github.com/roidrage/lograge) -在Rails应用中自定义记录器的瑰宝. [:red_circle:](https://rubygems.org/gems/lograge)
+- [mailkick](https://github.com/ankane/mailkick) -处理邮件退订的工具. [:red_circle:](https://rubygems.org/gems/mailkick)
+- [marginalia](https://github.com/basecamp/marginalia) -可以将注释附加到ActiveRecord的SQL查询的工具. [:red_circle:](https://rubygems.org/gems/marginalia)
+- [metka](https://github.com/jetrockets/metka) -使用Postgresql数组列管理标签的gem. [:red_circle:](https://rubygems.org/gems/metka)
+- [money-rails](https://github.com/RubyMoney/money-rails) -将Money宝石集成到Rails应用程序中的宝石. [:red_circle:](https://rubygems.org/gems/money-rails)
+- [paloma](https://github.com/gnclmorais/paloma) -在Rails应用程序中管理页面特定JavaScript的工具. [:red_circle:](https://rubygems.org/gems/paloma)
+- [pgcli-rails](https://github.com/mattbrictson/pgcli-rails) -替换了rails：dbconsole命令来管理Postgresql. [:red_circle:](https://rubygems.org/gems/pgcli-rails)
+- [premailer-rails](https://github.com/fphilipe/premailer-rails) -处理电子邮件样式的瑰宝. [:red_circle:](https://rubygems.org/gems/premailer-rails)
+- [prerender_rails](https://github.com/prerender/prerender_rails) -可以预渲染JavaScript渲染页面的宝石. [:red_circle:](https://rubygems.org/gems/prerender_rails)
+- [rails-erd](https://github.com/voormedia/rails-erd) -生成实体关系图的宝石. [:red_circle:](https://rubygems.org/gems/rails-erd)
+- [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) -用于将全局设置作为键值对管理的gem. [:red_circle:](https://rubygems.org/gems/rails-settings-cached)
+- [rails_admin](https://github.com/sferik/rails_admin) -创建和管理Rails应用程序管理面板的瑰宝. [:red_circle:](https://rubygems.org/gems/rails_admin)
+- [rails_event_store](https://github.com/RailsEventStore/rails_event_store) -在Rails中实现事件存储的瑰宝 [:red_circle:](https://rubygems.org/gems/rails_event_store)
+- [rails_semantic_logger](https://github.com/rocketjob/rails_semantic_logger) -可以为Rails应用程序提供替代日志记录方法的工具. [:red_circle:](https://rubygems.org/gems/rails_semantic_logger)
+- [ranked-model](https://github.com/mixonic/ranked-model) -处理行排序的宝石. [:red_circle:](https://rubygems.org/gems/ranked-model)
+- [ransack](https://github.com/activerecord-hackery/ransack) -提供搜索功能的宝石. [:red_circle:](https://rubygems.org/gems/ransack)
+- [react-rails](https://github.com/reactjs/react-rails) -将React.js与Rails应用集成的瑰宝. [:red_circle:](https://rubygems.org/gems/react-rails)
+- [redisWebManager](https://github.com/OpenGems/redis_web_manager) -Web界面，可让您轻松管理Redis实例. [:red_circle:](https://rubygems.org/gems/redis_web_manager)
+- [reform-rails](https://github.com/trailblazer/reform-rails) -使用Rails应用程序包装“ Reform gem”（一种表单验证工具）的宝石. [:red_circle:](https://rubygems.org/gems/reform-rails)
+- [rgeo-activerecord](https://github.com/rgeo/rgeo-activerecord) -提供基于RGeo的空间适配器使用的常用工具的工具. [:red_circle:](https://rubygems.org/gems/rgeo-activerecord)
+- [rodauth-rails](https://github.com/janko/rodauth-rails) -用于包装Rails应用程序身份验证处理程序Rodauth的宝石. [:red_circle:](https://rubygems.org/gems/rodauth-rails)
+- [rollup](https://github.com/ankane/rollup) -在Rails中处理时间序列数据的宝石 [:red_circle:](https://rubygems.org/gems/rollups)
+- [route_translator](https://github.com/enriclluelles/route_translator) -处理路线转换的工具. [:red_circle:](https://rubygems.org/gems/route_translator)
+- [rspec-rails](https://github.com/rspec/rspec-rails) -测试框架. [:red_circle:](https://rubygems.org/gems/rspec-rails)
+- [rubocop-rails](https://github.com/rubocop-hq/rubocop-rails) -代码样式检查工具. [:red_circle:](https://rubygems.org/gems/rubocop-rails)
+- [scenic](https://github.com/scenic-views/scenic) -一个管理数据库视图的工具. [:red_circle:](https://rubygems.org/gems/scenic)
+- [searchkick](https://github.com/ankane/searchkick) -提供搜索功能的宝石. [:red_circle:](https://rubygems.org/gems/searchkick)
+- [select2-rails](https://github.com/argerim/select2-rails) -将Select2库集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/select2-rails)
+- [sequel-activerecord_connection](https://github.com/janko/sequel-activerecord_connection) -允许Sequel重用ActiveRecord连接的宝石. [:red_circle:](https://rubygems.org/gems/sequel-activerecord_connection)
+- [simple_form](https://github.com/heartcombo/simple_form) -处理表格的宝石. [:red_circle:](https://rubygems.org/gems/simple_form)
+- [solidus](https://github.com/solidusio/solidus) -Spree gem的一个分支，这是一个开放源代码电子商务平台. [:red_circle:](https://rubygems.org/gems/solidus)
+- [sorbet-rails](https://github.com/chanzuckerberg/sorbet-rails) -将Sorbet宝石集成到Rails应用程序中的宝石. [:red_circle:](https://rubygems.org/gems/sorbet-rails)
+- [spree](https://github.com/spree/spree) -开源电子商务平台. [:red_circle:](https://rubygems.org/gems/spree)
+- [spring](https://github.com/rails/spring) -可以预加载Rails应用程序的宝石. [:red_circle:](https://rubygems.org/gems/spring)
+- [sprockets](https://github.com/rails/sprockets) -用来编译和提供网络资产的宝石. [:red_circle:](https://rubygems.org/gems/sprockets)
+- [stimulus-rails](https://github.com/hotwired/stimulus-rails) -将Stimulus.js集成到Rails应用程序中的宝石. [:red_circle:](https://rubygems.org/gems/stimulus-rails)
+- [tinymce-rails](https://github.com/spohlenz/tinymce-rails) -将Tinymcece集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/tinymce-rails)
+- [transloadit-rails](https://github.com/transloadit/rails-sdk) -集成Transloadit的文件上传和编码服务的瑰宝. [:red_circle:](https://rubygems.org/gems/transloadit-rails)
+- [trove](https://github.com/ankane/trove) -处理机器学习模型部署的瑰宝. [:red_circle:](https://rubygems.org/gems/trove)
+- [turbo-rails](https://github.com/hotwired/turbo-rails) -将Turbo.js集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/turbo-rails)
+- [view_component](https://github.com/github/view_component) -介绍视图组件的瑰宝. [:red_circle:](https://rubygems.org/gems/view_component)
+- [webpacker](https://github.com/rails/webpacker) -使用Webpack捆绑Web资产的瑰宝. [:red_circle:](https://rubygems.org/gems/webpacker)
+- [zeitwerk](https://github.com/fxn/zeitwerk) -处理线程安全代码加载的宝石. [:red_circle:](https://rubygems.org/gems/zeitwerk)
 
 [返回页首] [link_toc]
 
 ## Starters/Boilerplates
 
-- [Rails Devise GraphQL](https://github.com/zauberware/rails-devise-graphql)  -Rails 6样板创建您的下一个Saas产品. 预装了graphQL，devise，JWT，CanCanCan，RailsAdmin，Rubocop，Rspec等.
-- [Rails Template](https://github.com/mattbrictson/rails-template)  -Rails 6项目的应用模板； 预载了有关TDD，安全性，部署和开发人员生产力的最佳实践.
+- [default_rails_template](https://github.com/infinum/default_rails_template) -用于生成新的Rails应用程序的默认模板.
+- [docker-Rails-Template](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) -全新配置的“ rails new”，已预先配置为与Docker一起运行.
+- [docker-rails](https://github.com/ledermann/docker-rails)
+- [jumpstart(excid3)](https://github.com/excid3/jumpstart) -默认情况下，轻松启动具有一系列功能的新Rails应用程序.
+- [jumpstart(thomasvanholder)](https://github.com/thomasvanholder/jumpstart) -用于设置Rails 6，Tailwind 2.0和Devise的模板.
+- [kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) -与Tailwind CSS捆绑在一起的个人专用快速Rails 6应用程序模板.
+- [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  -Rails 6样板创建您的下一个Saas产品. 预装了graphQL，devise，JWT，CanCanCan，RailsAdmin，Rubocop，Rspec等.
+- [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template)  -Rails 6项目的应用模板； 预载了有关TDD，安全性，部署和开发人员生产力的最佳实践.
+- [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) -MVP Ready Rails-下一个Rails应用程序的模板
+- [rails-template(ackama)](https://github.com/ackama/rails-template)  -Rails 6.1项目的应用模板； 预载了有关TDD，安全性，部署和开发人员生产力的最佳实践.
+- [rails-template(astrocket)](https://github.com/astrocket/rails-template) -Rails 6.0的模板+ Kubernetes + Webpacker +刺激+ TailwindCSS +让我们加密.
+- [rails-template(dao42)](https://github.com/dao42/rails-template) -适用于高级Rails开发人员的最佳，最新和最快的Rails 6.x模板.
+- [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) -通过Le Wagon最佳实践快速开始Rails开发.
+- [rails-templates(nimblehq)](https://github.com/nimblehq/rails-templates) -我们的项目中使用了经过优化的Rails模板.
+- [rails-vue-template](https://github.com/scottrobertson/rails-vue-template) -有关如何使用Webpacker在Rails中将VueJS用作单页应用程序的示例.
+- [rails_new](https://github.com/lockstep/rails_new)  -经过精心设计的模板，用于构建现代Rails应用程序. 几分钟即可上手，而不是几个小时.
+- [suspenders](https://github.com/thoughtbot/suspenders) -具有我们默认默认设置的Rails模板，可以部署到Heroku.
+- [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) -Vue.js + Rails入门套件GitHub模板，用于开发混合移动应用程序.
 
 ## Other Rails Tools
 

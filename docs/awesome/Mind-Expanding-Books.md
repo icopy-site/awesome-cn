@@ -21,11 +21,11 @@
 ## Startups and Business
  | 姓名| 作者|  Goodreads评分| 出版年份|  
 |------|--------|------------------|----------------|  
- | 恶血：硅谷创业公司的秘密和谎言约翰·卡雷鲁| [4.41](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
- | 永不分开克里斯·沃斯| [4.40](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
  | 鞋狗：耐克创作者的回忆录| 菲尔·奈特| [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
  | 一生的旅程：沃尔特迪斯尼公司首席执行官15年的经验教训|世界银行罗伯特·伊格尔（Robert Iger），乔尔·洛威尔（Joel Lovell）| [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
+ | 恶血：硅谷创业公司的秘密和谎言约翰·卡雷鲁| [4.4](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
  | 复合效应|  Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
+ | 永不分开克里斯·沃斯| [4.39](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
  | 未能成功：印度第一家电子商务公司的故事| Business Wire  K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
  | 高产出管理| 安迪·格罗夫| [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
  | 胜过魔鬼：自由与成功的秘诀拿破仑山| [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
@@ -51,7 +51,7 @@
  | 好主意从何而来？ 史蒂文·约翰逊| [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
  | 传递幸福：获取利润，激情和目标的途径谢东| [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  | 创新者的困境| 克莱顿山克里斯滕森| [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
- | 影响者：领导变革的新科学| 约瑟夫·格兰尼（Joseph Grenny），克里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
+ | 影响者：领导变革的新科学| 约瑟夫·格兰尼（Joseph Grenny），凯里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
  | 重新审视电子神话：为什么大多数小型企业不起作用以及如何处理| 迈克尔·格伯| [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
  | 完成事情：无压力的生产力艺术大卫·艾伦| [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
  | 失去童贞：我如何生存，玩乐并发家致富理查德·布兰森| [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
@@ -383,7 +383,7 @@
 ## Shakespeare
  | 姓名| 作者|  Goodreads评分| 出版年份|  
 |------|--------|------------------|----------------|  
- | 莎士比亚思考：学生演员，导演和其他想让吟游诗人感到自在的人的入门指南| 巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
+ | 莎士比亚思考：学生演员，导演和其他想让吟游诗人自在的人的入门指南| 巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
  | 哈姆雷特与复仇 Eleanor Prosser | [4.50](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) | 1971 |  
  | 莎士比亚的格律艺术| 乔治·赖特| [4.39](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) | 1991 |  
  | 炼狱中的哈姆雷特| 斯蒂芬·格林布拉特| [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |  
@@ -539,7 +539,7 @@
  | 如何不死：发现科学证明可以预防和逆转疾病的食物医学博士Michael Greger | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
  | 克服重力：一种系统的方法来锻炼体操和体重（第二版）| 史蒂文·洛| [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 |
  | 有罪的条件| 保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
- | 饮食与跑步：我不可能参加的超马拉松大赛| 斯科特·尤雷克（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
+ | 饮食与跑步：我不可能参加的超马拉松大赛| 史考特·尤里克（Scott Jurek），史蒂夫·弗里德曼（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
  |  8周达到最佳健康状态| 安德鲁·威尔| [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 
 ## Design

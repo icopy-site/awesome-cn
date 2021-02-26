@@ -102,6 +102,7 @@
 -  [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) -添加`text-decoration-color`实用程序.
 -  [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) -为可视隐藏滚动条添加了“ scrollbar-hide”类.
 -  [Downwind CSS Easings](https://github.com/downwindcss/easings) -扩展了“转换计时功能”实用程序.
+-  [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) -添加用于内容占位符图像的实用程序.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
@@ -153,7 +154,7 @@
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) -Tailwind CSS的颜色浏览器.
 -  [TailwindInk](https://tailwind.ink/) -AI调色板生成器，受Tailwind CSS调色板训练.
--  [Gradient Designer](https://gradient-designer.csspost.com/) - Generate gradients for Tailwind 2.0+.
+-  [Gradient Designer](https://gradient-designer.csspost.com/) -为Tailwind 2.0+生成渐变.
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.
@@ -171,10 +172,10 @@
 -  [tailzilla.app](https://tailzilla.app) -Tailwind CSS的在线游乐场.
 -  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) -Tailwind类的前缀工具.
 -  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) -通过建议最匹配的类将CSS转换为Tailwind CSS.
--  [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
--  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
--  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
--  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
+- 🔼 [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
+- 🔼 [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
+- 🔼 [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
+- 🔼 [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gatsby的Tailwind CSS集成.

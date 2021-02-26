@@ -18,7 +18,7 @@
 ## Frameworks
 
 * [Bistro](https://github.com/facebook/bistro)  -用于批处理和流分析的通用数据处理引擎. 它基于一种新颖的数据模型，该模型通过*函数*表示数据，并通过*列操作*处理数据，这与传统方法（如MapReduce或SQL）中仅具有设置操作相反.
-* [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  -分布式处理和实时分析的平台. 与大数据生态系统中的许多流行技术（Kafka，HDFS，Spark等）集成
+* [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  -分布式处理和实时分析的平台. 与大数据生态系统中的许多流行技术集​​成（Kafka，HDFS，Spark等）
 * [Apache Hadoop](http://hadoop.apache.org/)  -分布式处理的框架. 集成MapReduce（并行处理），YARN（作业调度）和HDFS（分布式文件系统）.
 * [Tigon](https://github.com/caskdata/tigon) -高吞吐量实时流处理框架.
 * [Pachyderm](http://pachyderm.io/) -Pachyderm是基于Docker和Kubernetes构建的数据存储平台，可提供可重现的数据处理和分析.
@@ -30,13 +30,13 @@
 * [AMPLab SIMR](http://databricks.github.io/simr/) -在Hadoop MapReduce v1上运行Spark.
 * [Apache APEX](https://apex.apache.org/) -用于大数据流和批处理的统一企业平台.
 * [Apache Beam](https://beam.apache.org/) -用于定义和执行数据处理工作流的统一模型和特定于语言的SDK集.
-* [Apache Crunch](http://crunch.apache.org/) -一个简单的Java API，用于执行诸如在简单MapReduce上实现乏味的加入和数据聚合之类的任务.
+* [Apache Crunch](http://crunch.apache.org/) -一个简单的Java API，用于执行诸如在简单MapReduce上实现的连接和数据聚合之类的任务.
 * [Apache DataFu](http://incubator.apache.org/projects/datafu.html) -LinkedIn开发的Hadoop和Pig用户定义功能集合.
 * [Apache Flink](http://flink.apache.org/) -高性能的运行时和自动程序优化.
 * [Apache Gearpump](http://gearpump.apache.org/) -基于Akka的实时大数据流引擎.
 * [Apache Gora](http://gora.apache.org/) -内存中数据模型和持久性的框架.
 * [Apache Hama](http://hama.apache.org/) -BSP（批量同步并行）计算框架.
-* [Apache MapReduce](https://wiki.apache.org/hadoop/MapReduce/) -用于在集群上使用并行分布式算法处理大型数据集的编程模型.
+* [Apache MapReduce](https://wiki.apache.org/hadoop/MapReduce/) - programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
 * [Apache Pig](https://pig.apache.org/) -用于表达Hadoop数据分析程序的高级语言.
 * [Apache REEF](http://reef.apache.org/) -可保留的评估程序执行框架，以简化和统一大数据系统的较低层.
 * [Apache S4](http://incubator.apache.org/projects/s4.html) -流处理框架，实现S4.
@@ -50,7 +50,7 @@
 * [Cascalog](http://cascalog.org/) -数据处理和查询库.
 * [Cheetah](http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf) -基于MapReduce的高​​性能，自定义数据仓库.
 * [Concurrent Cascading](http://www.cascading.org/) -Hadoop上的数据管理/分析框架.
-* [Damballa Parkour](https://github.com/damballa/parkour) -用于Clojure的MapReduce库.
+* [Damballa Parkour](https://github.com/damballa/parkour) -Clojure的MapReduce库.
 * [Datasalt Pangool](https://github.com/datasalt/pangool) -替代MapReduce范例.
 * [DataTorrent StrAM](https://www.datatorrent.com/) -实时引擎旨在以尽可能不受阻碍的方式实现分布式，异步，实时内存中大数据计算，同时将开销降至最低，并且不会影响性能.
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) -Hadoop增强功能，可消除单点故障.
@@ -129,7 +129,7 @@
 
 您可以在Daniel Abadi教授的博客上了解有关此区别的更多信息： [Distinguishing two major types of Column Stores](http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html).
 
-* [Apache Accumulo](http://accumulo.apache.org/) -基于Hadoop的分布式键/值存储.
+* [Apache Accumulo](http://accumulo.apache.org/) -基于Hadoop构建的分布式键/值存储.
 * [Apache Cassandra](http://cassandra.apache.org/) -受BigTable启发的面向列的分布式数据存储.
 * [Apache HBase](http://hbase.apache.org/) -受BigTable启发的面向列的分布式数据存储.
 * [Baidu Tera](https://github.com/baidu/tera) -受BigTable启发的互联网规模的数据库.
@@ -144,7 +144,7 @@
 
 ## Key-value Data Model
 
-* [Aerospike](http://www.aerospike.com/)  -NoSQL闪存优化的内存. 开源和“已对C语言中的服务器代码（不是J​​ava或Erlang）进行了精确调整，以避免上下文切换和内存复制.”
+* [Aerospike](http://www.aerospike.com/)  -NoSQL闪存优化的内存. 开源和“对C语言中的服务器代码（不是J​​ava或Erlang）进行了精确调整，以避免上下文切换和内存复制.”
 * [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) -分布式键/值存储，Dynamo纸的实现.
 * [Badger](https://open.dgraph.io/post/badger/) -以Go语言原生编写的快速，简单，高效且持久的键值存储.
 * [Bolt](https://github.com/boltdb/bolt) -Go的嵌入式键值数据库.
@@ -153,14 +153,14 @@
 * [Edis](https://github.com/cbd/edis) -是Redis的协议兼容服务器替代品.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) -专门用于从Hadoop导出数据的分布式数据库.
 * [EventStore](https://geteventstore.com/) -分布式时间序列数据库.
-* [GhostDB](https://github.com/jakekgrog/GhostDB) -分布式，内存中的通用键值数据存储，可在任何规模上提供微秒级的性能.
+* [GhostDB](https://github.com/jakekgrog/GhostDB) -分布式，内存中通用的键值数据存储，可在任何规模上提供微秒级的性能.
 * [Graviton](https://github.com/deroproject/graviton) -一个纯Go（lang）中的简单，快速，版本控制，认证，可嵌入的键值存储数据库.
 * [GridDB](https://github.com/griddb/griddb_nosql) -适用于按时间序列存储的传感器数据.
-* [HyperDex](https://github.com/rescrv/HyperDex) -具有多种功能的可伸缩的下一代键值和文档存储，包括一致性，容错性和高性能.
-* [Ignite](https://ignite.apache.org/index.html) -是内存中的键值数据存储，提供了完全符合SQL的数据访问权限，可以选择由磁盘存储支持.
+* [HyperDex](https://github.com/rescrv/HyperDex) -具有各种功能（包括一致性，容错性和高性能）的可扩展的下一代键值和文档存储.
+* [Ignite](https://ignite.apache.org/index.html) -是一个内存中的键值数据存储，提供了完全的SQL兼容数据访问，可以选择由磁盘存储支持.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) -是一个简单的持久数据存储，具有非常低的延迟和高吞吐量.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) -分布式键/值存储系统.
-* [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) -Oracle公司的分布式键值数据库.
+* [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) -由Oracle Corporation提供的分布式键值数据库.
 * [Redis](https://redis.io/) -在内存键值数据存储区中.
 * [Riak](https://github.com/basho/riak) -分散的数据存储.
 * [Storehaus](https://github.com/twitter/storehaus) -通过Twitter与异步键值存储一起使用的库.
@@ -177,10 +177,10 @@
 * [Apache Giraph](http://giraph.apache.org/) -基于Hadoop的Pregel的实现.
 * [Apache Spark Bagel](http://spark.apache.org/docs/0.7.3/bagel-programming-guide.html) -实现Pregel（Spark的一部分）.
 * [ArangoDB](https://www.arangodb.com/) -多模型分布式数据库.
-* [DGraph](https://github.com/dgraph-io/dgraph) -可扩展，分布式，低延迟，高吞吐量的图形数据库，旨在提供Google生产级别的规模和吞吐量，并具有足够低的延迟以服务于TB级结构化数据的实时用户查询.
+* [DGraph](https://github.com/dgraph-io/dgraph) -可扩展，分布式，低延迟，高吞吐量的图形数据库，旨在提供Google生产级别的规模和吞吐量，并具有足够低的延迟以服务于数TB的结构化数据.
 * [EliasDB](https://github.com/krotik/eliasdb) -不需要任何第三方库的基于轻量级图的数据库.
 * [Facebook TAO](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) -TAO是分布式数据存储，在Facebook上广泛用于存储和服务社交图.
-* [GCHQ Gaffer](https://github.com/gchq/Gaffer) -GCHQ的Gaffer是一个框架，可以轻松存储节点和边具有统计信息的大规模图形.
+* [GCHQ Gaffer](https://github.com/gchq/Gaffer) -GCHQ的Gaffer是一个框架，可轻松存储其中节点和边具有统计信息的大规模图形.
 * [Google Cayley](https://github.com/cayleygraph/cayley) -开源图形数据库.
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) -图形处理框架.
 * [GraphLab PowerGraph](https://turi.com/products/create/docs/) -核心C ++ GraphLab API和在GraphLab API之上构建的高性能机器学习和数据挖掘工具包的集合.
@@ -191,7 +191,7 @@
 * [JanusGraph](http://janusgraph.org) -开源的分布式图形数据库
   具有用于存储后端的多个选项（Bigtable，HBase，Cassandra等）
   和索引后端（Elasticsearch，Solr，Lucene）.
-* [MapGraph](https://www.blazegraph.com/mapgraph-technology/) -GPU上的大规模并行图处理.
+* [MapGraph](https://www.blazegraph.com/mapgraph-technology/) -在GPU上进行大规模并行图处理.
 * [Microsoft Graph Engine](https://github.com/Microsoft/GraphEngine) -分布式内存数据处理引擎，以强类型的内存键值存储和通用分布式计算引擎为基础.
 * [Neo4j](https://neo4j.com/) -图形数据库完全用Java编写.
 * [OrientDB](http://orientdb.com/) -文档和图形数据库.
@@ -216,17 +216,17 @@
 * [SQream DB](http://sqream.com/) -由GPU驱动的大数据数据库，专为分析和数据仓库而设计，具有符合ANSI-92的SQL，适用于10TB至1PB的数据集.
 * [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) -Google的云产品得到了他们在Dremel上的开拓性工作的支持.
 * [Amazon Redshift](https://aws.amazon.com/redshift/) -亚马逊的云产品，也基于列式数据存储后端.
-* [IndexR](https://github.com/shunfei/indexr) -一种开源的柱状存储格式，用于大数据的快速实时分析.
+* [IndexR](https://github.com/shunfei/indexr) -一种开源的列式存储格式，用于大数据的快速实时分析.
 * [LocustDB](https://github.com/cswinter/LocustDB) -实验分析数据库，旨在为商品硬件的查询性能设置新标准. 
 
 ## NewSQL Databases
 
 * [Actian Ingres](http://www.actian.com/products/operational-databases/) -商业支持的开源SQL关系数据库管理系统.
-* [ActorDB](https://github.com/biokoda/actordb) -具有KV存储可伸缩性的分布式SQL数据库，同时保留了关系数据库的查询功能.
+* [ActorDB](https://github.com/biokoda/actordb) -具有KV存储可扩展性的分布式SQL数据库，同时保留了关系数据库的查询功能.
 * [Amazon RedShift](http://aws.amazon.com/redshift/) -基于PostgreSQL的数据仓库服务.
 * [BayesDB](https://github.com/probcomp/BayesDB) -面向统计的SQL数据库.
 * [Bedrock](http://bedrockdb.com/) -在SQLite之上构建的简单，模块化，网络化和分布式事务层.
-* [CitusDB](https://www.citusdata.com/) -通过分片和复制扩展PostgreSQL.
+* [CitusDB](https://www.citusdata.com/) - scales out PostgreSQL through sharding and replication.
 * [Cockroach](https://github.com/cockroachdb/cockroach) -可扩展，地理复制，事务性数据存储.
 * [Comdb2](https://github.com/bloomberg/comdb2) -基于乐观并发控制技术构建的集群RDBMS.
 * [Datomic](http://www.datomic.com/) -旨在支持可扩展，灵活和智能应用程序的分布式数据库.
@@ -239,11 +239,11 @@
 * [InfiniSQL](http://www.infinisql.org/) -无限可扩展的RDBMS.
 * [KarelDB](https://github.com/rayokota/kareldb) -由Apache Kafka支持的关系数据库.
 * [Map-D](https://www.mapd.com/) -GPU内存数据库，大数据分析和可视化平台.
-* [MemSQL](http://www.memsql.com/) -内存中的SQL数据库，具有优化的Flash列式存储.
+* [MemSQL](http://www.memsql.com/) -内存中的SQL数据库，具有优化的Flash列存储.
 * [NuoDB](http://www.nuodb.com/) -符合SQL / ACID的分布式数据库.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) -具有持久性和可恢复性的内存中关系数据库管理系统.
 * [Pivotal GemFire XD](http://gemfirexd.docs.pivotal.io/latest/)  -低延迟，内存中的分布式SQL数据存储. 提供内存中表数据的SQL接口，可持久存储在HDFS中.
-* [SAP HANA](https://hana.sap.com/abouthana.html) -是一个内存，面向列的关系数据库管理系统.
+* [SAP HANA](https://hana.sap.com/abouthana.html) -是一个内存中，面向列的关系数据库管理系统.
 * [SenseiDB](http://senseidb.github.io/sensei/) -分布式，实时，半结构化数据库.
 * [Sky](http://skydb.io/) -用于行为数据的灵活，高性能分析的数据库.
 * [SymmetricDS](http://www.symmetricds.org/) -用于文件和数据库同步的开源软件.
@@ -260,7 +260,7 @@
 * [InfluxDB](https://www.influxdata.com/) -分布式时间序列数据库.
 * [IronDB](https://www.circonus.com/irondb/) -可扩展的通用时间序列数据库.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) -与OpenTSDB相似，但允许使用Cassandra.
-* [M3DB](http://m3db.github.io/m3/m3db/) -分布式时间序列数据库，可用于长时间保留实时度量.
+* [M3DB](http://m3db.github.io/m3/m3db/) -分布式时间序列数据库，可用于长时间保留实时指标.
 * [Newts](https://opennms.github.io/newts/) -基于Apache Cassandra的时间序列数据库.
 * [TDengine](https://github.com/taosdata/TDengine/) -C语言中的时间序列数据库，利用IoT的独特功能来提高读写吞吐量并减少存储数据所需的空间
 * [OpenTSDB](http://opentsdb.net) -在HBase之上的分布式时间序列数据库.
@@ -276,7 +276,7 @@
 * [Timely](https://github.com/NationalSecurityAgency/timely) Timely是一个时间序列数据库应用程序，可提供对Accumulo和Grafana的时间序列数据的安全访问.
 * [SiriDB](https://github.com/transceptor-technology/siridb-server) 具有集群功能的高度可扩展，健壮和快速的开源时间序列数据库.
 * [Thanos](https://github.com/improbable-eng/thanos) -Thanos是一组组件，用于使用多个（现有）Prometheus部署来创建具有无限存储容量的高可用性指标系统.
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)  -与Prometheus兼容的快速，可扩展且资源有效的开源TSDB. 包括单节点和集群版本
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)  -与Prometheus兼容的快速，可扩展且资源有效的开源TSDB. 包括单节点和群集版本
 
 ## SQL-like processing
 
@@ -297,7 +297,7 @@
 * [Invantive SQL](https://documentation.invantive.com/2017R2/invantive-sql-grammar/invantive-sql-grammar-17.30.html) -在线和本地使用的SQL引擎，集成了本地数据复制和70多个连接器.
 * [PipelineDB](https://www.pipelinedb.com/) -开源关系数据库，可在流上连续运行SQL查询，并将结果增量存储在表中.
 * [Pivotal HDB](https://pivotal.io/pivotal-hdb) -用于Hadoop的类似SQL的数据仓库系统.
-* [RainstorDB](http://rainstor.com/products/rainstor-database/) -用于存储PB级结构化和半结构化数据量的数据库.
+* [RainstorDB](http://rainstor.com/products/rainstor-database/) -用于存储PB级结构化和半结构化数据的数据库.
 * [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) -是Spark和Shark的查询优化框架.
 * [SparkSQL](https://databricks.com/blog/2014/03/26/spark-sql-manipulating-structured-data-using-spark-2.html) -使用Spark操纵结构化数据.
 * [Splice Machine](https://www.splicemachine.com/) -具有ACID事务的全功能SQL-on-Hadoop RDBMS.
@@ -331,7 +331,7 @@
 * [Pinterest Secor](https://github.com/pinterest/secor) -是实现Kafka日志持久性的服务.
 * [Linkedin Gobblin](https://github.com/linkedin/gobblin) -linkedin的通用数据摄取框架.
 * [Skizze](https://github.com/skizzehq/skizze) -草图数据存储区，用于处理使用概率数据结构进行计数和草图绘制时遇到的所有问题.
-* [StreamSets Data Collector](https://github.com/streamsets/datacollector) -使用简单易用的IDE连续获取大数据.
+* [StreamSets Data Collector](https://github.com/streamsets/datacollector) -使用易于使用的IDE连续获取大数据.
 * [Alooma](https://www.alooma.com/integrations/mysql) -数据管道即服务，可将MySQL等数据源移入数据仓库.
 * [RudderStack](https://github.com/rudderlabs/rudder-server) -用go编写的开源客户数据基础结构（细分，mParticle替代品）.
 
@@ -341,7 +341,7 @@
 * [Apache Avro](http://avro.apache.org/) -数据序列化系统.
 * [Apache Curator](http://curator.apache.org/) -Apache ZooKeeper的Java库.
 * [Apache Karaf](http://karaf.apache.org/) -在任何OSGi框架之上运行的OSGi运行时.
-* [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
+* [Apache Thrift](http://thrift.apache.org//) -构建二进制协议的框架.
 * [Apache Zookeeper](http://zookeeper.apache.org/) -用于流程管理的集中服务.
 * [Google Chubby](https://research.google.com/archive/chubby.html) -松耦合的分布式系统的锁定服务.
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
@@ -362,6 +362,7 @@
 * [Apache Oozie](http://oozie.apache.org/) -工作流程作业计划程序.
 * [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) -用于本地，云和HDInsight的基于云的管道编排
 * [Chronos](http://mesos.github.io/chronos/) -分布式容错调度程序.
+* [Cronicle](https://github.com/jhuckaby/Cronicle) -分布式，易于安装，基于NodeJS的任务计划程序
 * [Dagster](https://github.com/dagster-io/dagster) -用于机器学习，分析和ETL的数据协调器.
 * [Linkedin Azkaban](https://azkaban.github.io/) -批处理工作流作业计划程序.
 * [Schedoscope](https://github.com/ottogroup/schedoscope) -Scala DSL，用于Hadoop作业的敏捷调度.
@@ -384,10 +385,10 @@
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast可为模型训练和模型服务提供一致的特征数据视图.
 * [GraphLab Create](https://dato.com/products/create/) -Python中的机器学习平台，其中包含大量ML工具包，数据工程和部署工具.
 * [H2O](https://github.com/h2oai/h2o-3/)  -使用Hadoop进行统计，机器学习和数学运行时.  R和Python.
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub)  -用于图形结构化数据的无监督机器学习库. 蟒蛇
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub)  -用于图形结构化数据的无监督机器学习库.  Python
 * [Keras](https://github.com/fchollet/keras) -受Torch启发的直观神经网络API，运行在Theano和Tensorflow之上.
-* [Lambdo](https://github.com/johnsonc/lambdo) -Lambdo是一种工作流引擎，通过统一特征工程和机器学习操作来显着简化分析过程.
-* [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  -用于图结构化数据的子采样库. 蟒蛇
+* [Lambdo](https://github.com/johnsonc/lambdo) -Lambdo是一个工作流引擎，通过统一特征工程和机器学习操作来显着简化分析过程.
+* [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  -用于图结构化数据的子采样库.  Python
 * [Mahout](http://mahout.apache.org/) -Apache支持的Hadoop机器学习库.
 * [MLbase](http://www.mlbase.org/) -用于BDAS堆栈的分布式机器学习库.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) -适用于iOS和Mac OS X的快速多层感知器神经网络库.
@@ -396,7 +397,7 @@
 * [MonkeyLearn](https://monkeylearn.com/)  -文本挖掘变得容易. 从文本中提取和分类数据.
 * [ND4J](https://github.com/deeplearning4j/nd4j)  -JVM的矩阵库.  Numpy for Java. 
 * [nupic](https://github.com/numenta/nupic) -Numenta智能计算平台：一个受大脑启发的机器智能平台，以及基于皮层学习算法的生物精确的神经网络.
-* [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [PredictionIO](http://predictionio.incubator.apache.org/index.html) -Hadoop，Mahout和Cascading上的机器学习服务器.
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -PyTorch几何图形的时间扩展库.
 * [RL4J](https://github.com/deeplearning4j/rl4j)  -Java和Scala的强化学习. 包括Deep-Q学习和A3C算法，并与Open AI的Gym集成. 在Deeplearning4j生态系统中运行. 
 * [SAMOA](http://samoa.incubator.apache.org/) -分布式流机器学习框架.
@@ -475,7 +476,7 @@
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) -在Pivotal HD / HAWQ和PostgreSQL上使用R.
 * [Rakam](https://github.com/rakam-io/rakam) -由Postgresql，Kinesis和PrestoDB支持的开源实时自定义分析平台. 
 * [Qubole](https://www.qubole.com/) -自动扩展Hadoop集群，内置数据连接器.
-* [SnappyData](https://github.com/SnappyDataInc/snappydata) -用于实时运营分析的分布式内存数据存储，在单个集成集群中构建基于Spark的流分析，OLTP（在线事务处理）和OLAP（在线分析处理）.
+* [SnappyData](https://github.com/SnappyDataInc/snappydata) -用于实时操作分析的分布式内存数据存储，在单个集成集群中构建基于Spark的流分析，OLTP（在线事务处理）和OLAP（在线分析处理）.
 * [Snowplow](https://github.com/snowplow/snowplow) -由Hadoop，Kinesis，Redshift和Postgres支持的企业级Web和事件分析.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) -Spark的R前端.
 * [Splunk](https://www.splunk.com/) -用于机器生成的数据的分析器.
@@ -498,7 +499,7 @@
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) -是用Java编写的实时搜索/索引系统.
 * [MG4J](http://mg4j.di.unimi.it/)  -MG4J（用于Java的千兆字节管理）是用于以Java编写的大型文档集合的全文本搜索引擎. 它是高度可定制的，高性能的，并提供最新功能和新的研究算法.
 * [Sphinx Search Server](http://sphinxsearch.com/) -全文搜索引擎.
-* [Vespa](http://vespa.ai/)  -是用于对大型数据集进行低延迟计算的引擎. 它存储和索引您的数据，以便可以在投放时对数据进行查询，选择和处理.
+* [Vespa](http://vespa.ai/)  -是用于对大型数据集进行低延迟计算的引擎. 它存储和索引您的数据，以便可以在服务时执行对数据的查询，选择和处理.
 * [Facebook Faiss](https://github.com/facebookresearch/faiss)  -是用于高效相似性搜索和密集矢量聚类的库. 它包含的算法可搜索任意大小的向量集，最多可搜索到不适合RAM的向量. 它还包含用于评估和参数调整的支持代码.  Faiss用C ++编写，带有完整的Python / numpy包装器.
 * [Annoy](https://github.com/spotify/annoy)  -是具有Python绑定的C ++库，用于搜索空间中与给定查询点接近的点. 它还会创建大型的基于文件的只读数据结构，这些数据结构被映射到内存中，以便许多进程可以共享相同的数据.
 * [Weaviate](https://github.com/semi-technologies/weaviate) -Weaviate是基于GraphQL的语义搜索引擎，具有内置（单词）嵌入.
@@ -536,7 +537,7 @@
 
 ## Embedded Databases
 
-* [Actian PSQL](http://www.actian.com/products/operational-databases/) -Pervasive Software开发的符合ACID的DBMS，针对嵌入应用程序进行了优化.
+* [Actian PSQL](http://www.actian.com/products/operational-databases/) -由Pervasive Software开发的符合ACID的DBMS，针对嵌入应用程序进行了优化.
 * [BerkeleyDB](https://www.oracle.com/database/berkeley-db/index.html) -一个软件库，可为键/值数据提供高性能的嵌入式数据库.
 * [HanoiDB](https://github.com/krestenkrab/hanoidb) -Erlang LSM BTree存储.
 * [LevelDB](https://github.com/google/leveldb) -由Google编写的快速键值存储库，提供了从字符串键到字符串值的有序映射.
@@ -548,6 +549,7 @@
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) -云中的商业智能平台.
 * [Blazer](https://github.com/ankane/blazer) -商业智能变得简单.
 * [Chartio](https://chartio.com) -精益的商业智能平台，以可视化和探索您的数据.
+* [Count](https://count.co) -使用SQL或拖放功能的基于笔记本的分析和可视化平台.
 * [datapine](https://www.datapine.com/) -云中的自助式商业智能工具.
 * [GoodData](https://www.gooddata.com/) -数据产品和嵌入式分析平台.
 * [Jaspersoft](https://www.jaspersoft.com/) -强大的商务智能套件.
@@ -556,7 +558,7 @@
 * [intermix.io](https://intermix.io/) -Amazon Redshift的性能监控
 * [Metabase](https://github.com/metabase/metabase) -向公司中的每个人提供商业智能和分析的最简单，最快的方法.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) -商业智能软件和平台.
-* [Microstrategy](https://www.microstrategy.com/) -用于商业智能，移动智能和网络应用程序的软件平台.
+* [Microstrategy](https://www.microstrategy.com/) -商业智能，移动智能和网络应用程序的软件平台.
 * [Numeracy](https://numeracy.co/) -快速，干净的SQL客户端和商业智能.
 * [Pentaho](http://www.pentaho.com/) -商业智能平台.
 * [Qlik](http://www.qlik.com/us/) -商业智能和分析平台.
@@ -575,7 +577,7 @@
 * [Arbor](https://github.com/samizdatco/arbor) -使用Web Worker和jQuery的图形可视化库.
 * [Banana](https://github.com/LucidWorks/banana)  -可视化存储在Solr中的日志和带时间戳的数据. 基巴纳港口.
 * [Bloomery](https://github.com/ufukomer/bloomery) -Impala的Web UI.
-* [Bokeh](http://bokeh.pydata.org/en/latest/) -一个功能强大的Python交互式可视化库，该库针对现代Web浏览器进行演示，目标是以D3.js样式优雅，简洁地构造新颖的图形，而且还可以通过超大型或流式传输提供高性能的交互性数据集.
+* [Bokeh](http://bokeh.pydata.org/en/latest/) -一个功能强大的Python交互式可视化库，该库针对现代Web浏览器进行演示，目标是以D3.js样式优雅，简洁地构建新颖的图形，同时还可以通过超大型或流式传输提供这种高性能的交互性数据集.
 * [C3](http://c3js.org/) -基于D3的可重用图表库
 * [CartoDB](https://github.com/CartoDB/cartodb) -具有强大的前端编辑功能和强大的API的地理空间数据库的开源或免费增值托管.
 * [chartd](http://chartd.co/) -仅带有img标签的自适应视网膜兼容图表.
@@ -584,15 +586,16 @@
 * [Crossfilter](http://square.github.io/crossfilter/)  -JavaScript库，用于在浏览器中浏览大型多元数据集. 与dc.js和d3.js配合良好.
 * [Cubism](https://github.com/square/cubism) -用于时间序列可视化的JavaScript库.
 * [Cytoscape](http://cytoscape.github.io/) -用于可视化复杂网络的JavaScript库.
-* [DC.js](http://dc-js.github.io/dc.js/)  -建立尺寸图，以与使用d3.js渲染的交叉过滤器一起正常工作. 非常适合将图表/其他元数据连接到D3中的悬停事件.
+* [DC.js](http://dc-js.github.io/dc.js/)  -建立尺寸图以与使用d3.js渲染的交叉过滤器一起使用. 非常适合将图表/其他元数据连接到D3中的悬停事件.
 * [D3](https://d3js.org/) -用于处理文档的javaScript库.
 * [D3.compose](https://github.com/CSNW/d3.compose) -从可重复使用的图表和组件组成复杂的，数据驱动的可视化文件.
 * [D3Plus](http://d3plus.org) -d3.js的一组相当强大的可重用图表和样式.
-* [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) -用于启动程序和材料设计的基于插件的高性能React图表.
+* [Dash](https://github.com/plotly/dash)  -适用于Python，R，Julia和Jupyter的分析型Web应用程序. 基于plotly构建，不需要JS
+* [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) -用于Bootstrap和Material Design的基于插件的高性能React图表.
 * [Echarts](https://github.com/ecomfe/echarts) -百度企业图表.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) -动态HTML5可视化.
 * [FnordMetric](https://metrictools.org/) -编写返回SVG图表而不是表的SQL查询
-* [Frappe Charts](https://frappe.io/charts) -GitHub启发的简单，现代的SVG图表，零依赖.
+* [Frappe Charts](https://frappe.io/charts) -GitHub启发的简单且现代的SVG图表，零依赖.
 * [Freeboard](https://github.com/Freeboard/freeboard) -用于物联网和其他Web混搭的笔源实时仪表板构建器.
 * [Gephi](https://github.com/gephi/gephi)  -屡获殊荣的开源平台，用于可视化和处理大型图形和网络连接. 它就像Photoshop，但用于图形. 适用于Windows和Mac OSX.
 * [Google Charts](https://developers.google.com/chart/) -简单的图表API.
@@ -605,7 +608,7 @@
 * [Matplotlib](https://github.com/matplotlib/matplotlib) -使用Python进行绘图.
 * [Metricsgraphic.js](https://metricsgraphicsjs.org/) -建立在D3之上的库，该库针对时间序列数据进行了优化
 * [NVD3](http://nvd3.org/) -d3.js的图表组件.
-* [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
+* [Peity](https://github.com/benpickles/peity) -渐进式SVG条形图，折线图和饼图.
 * [Plot.ly](https://plot.ly/)  -易于使用的Web服务，可快速创建从热图到直方图的复杂图表. 使用Plotly的在线电子表格上传数据以创建图表并设置样式. 分叉他人的地块.
 * [Plotly.js](https://github.com/plotly/plotly.js) 绘图功能强大的开源javascript图形库.
 * [Recline](https://github.com/okfn/recline) -简单而强大的库，用于以纯Javascript和HTML构建数据应用程序.
@@ -636,7 +639,7 @@
 * [NoSQL Comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) -Cassandra，MongoDB，CouchDB，Redis，Riak，HBase，Couchbase，Neo4j，Hypertable，ElasticSearch，Accumulo，VoltDB和Scalaris比较.
 * [Monitoring Kafka performance](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome) -监视Apache Kafka的指南，包括用于度量标准收集的本机方法.
 * [Monitoring Hadoop performance](https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome) -监视Hadoop的指南，其中概述了Hadoop体系结构以及用于收集指标的本机方法.
-* [Monitoring Cassandra performance](https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/?ref=awesome) -监控Cassandra的指南，包括指标收集的本地方法.
+* [Monitoring Cassandra performance](https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/?ref=awesome) - Guide to monitoring Cassandra, including native methods for metrics collection.
 
 ## Interesting Papers
 
@@ -688,10 +691,10 @@ Twitter上的数据分析.
 * [Fundamentals of Stream Processing: Application Design, Systems, and Analytics](http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/fundamentals-stream-processing-application-design-systems-and-analytics) -该综合的动手指南结合了流处理中的基本构建块和新兴研究，非常适合应用程序设计人员，系统构建人员，分析开发人员以及该领域的学生和研究人员.
 * [Stream Data Processing: A Quality of Service Perspective](http://www.springer.com/us/book/9780387710020) -提出了适用于流和复杂事件处理的新范例.
 * [Unified Log Processing](https://www.manning.com/books/event-streams-in-action) -统一日志处理是在企业中实施事件流（Kafka或Kinesis）的统一日志的实用指南
-* [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action) -Kafka Streams in Action教您在流向Kafka平台的数据上实现流处理所需的一切知识，使您可以集中精力从数据中获取更多信息，而无需花费时间或精力.
+* [Kafka Streams in Action](https://www.manning.com/books/kafka-streams-in-action) -Kafka Streams in Action教您在流向Kafka平台的数据上实现流处理所需的一切知识，使您可以专注于从数据中获取更多信息而无需花费时间或精力.
 * [Big Data](https://www.manning.com/books/big-data) -大数据教您使用一种架构来构建大数据系统，该架构利用了集群硬件以及专门用于捕获和分析Web规模数据的新工具.
-* [Spark in Action](https://www.manning.com/books/spark-in-action) & [Spark in Action 2nd Ed.](https://www.manning.com/books/spark-in-action-second-edition)  -Spark in Action教您使用Spark有效处理批处理和流数据所需的理论和技能. 完全更新为Spark 2.0.
-* [Kafka in Action](https://www.manning.com/books/kafka-in-action) -《行动中的卡夫卡》快速介绍了与卡夫卡合作的各个方面，您确实需要从中受益.
+* [Spark in Action](https://www.manning.com/books/spark-in-action) & [Spark in Action 2nd Ed.](https://www.manning.com/books/spark-in-action-second-edition)  -Spark in Action可以教您使用Spark有效处理批处理和流式数据所需的理论和技能. 完全更新为Spark 2.0.
+* [Kafka in Action](https://www.manning.com/books/kafka-in-action) -《行动中的卡夫卡》快速介绍了与卡夫卡合作的各个方面，您需要真正获得其好处.
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) -“行动中的融合”教您建立功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
 * [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) -Reactive Data Handling是由Manuel Bernhardt选择的五个精选章节的集合，向您介绍构建能够处理大数据负载实时处理的反应式应用程序-免费电子书！ 
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) -有关一般数据工程和专门针对Azure平台的书 
@@ -722,6 +725,7 @@ Twitter上的数据分析.
 -社区检测 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).
 -决策树文件 [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
 -欺诈检测文件 [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
--梯度提升论文 [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
+-梯度增强论文 [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 -蒙特卡洛树搜索文件 [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 -卡夫卡 [awesome-kafka](https://github.com/monksy/awesome-kafka).
+- [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).

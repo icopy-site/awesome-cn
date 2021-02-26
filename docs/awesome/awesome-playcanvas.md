@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;该列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -89,6 +89,7 @@
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
 - [Megopoly](https://playmegopoly.com/) -免费玩休闲策略棋盘游戏，您可以在其中投资虚拟财产.
 - [Monopoly](https://benbean.tech/monopoly-io/) -在3D视频游戏中重新创建了经典的桌游.
+- [Nitro Knights](https://gamedistribution.com/games/nitro-knights) -未来派的格斗游戏.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
 - [Star Stable](https://www.starstable.com/en/register) -流行的马游戏角色注册门户.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) -在魔法岛上的双翼飞机上捡拾宝石.

@@ -5,7 +5,14 @@
 
 开发人员可能会有用的精选图表和dataviz资源列表. 专注于针对不同用例的相关且当前处于活动状态的JavaScript图表库. 在每个类别中按字母顺序排列.
 
-*受到<a href="https://github.com/sindresorhus/awesome">真棒</a>事物的启发*
+*灵感来自<a href="https://github.com/sindresorhus/awesome">真棒</a>.*
+
+
+带给你 
+
+[![ZingChart](https://github.com/zingchart/awesome-charting/blob/assets/assets/zingchart-logo-full-color.svg?raw=true)](https://www.zingchart.com)
+
+一个声明式，高效且简单的JavaScript库，用于构建响应式图表
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
@@ -22,7 +29,7 @@
 
 ## Free and Open Source Libraries
 * [apexcharts.js](https://github.com/apexcharts/apexcharts.js) -具有简单API的JavaScript图表库.
-* [Billboard.js](https://naver.github.io/billboard.js/) -跟踪D3的C3的分支更加紧密.
+* [Billboard.js](https://naver.github.io/billboard.js/) -跟踪D3的C3叉更加紧密.
 * [C3.js](http://c3js.org/) -基于D3的可重用图表库.
 * [Chart.js](http://www.chartjs.org/) -包括核心图表类型的微型库（11kb！）.
 * [Charts.css](https://chartscss.org/) -CSS数据可视化框架.
@@ -35,7 +42,7 @@
 * [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) -企业级图表库.
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) -由WebGL支持的3D图形查看器（three.js）
 * [lightweight-charts](https://github.com/tradingview/lightweight-charts) -使用HTML5画布构建的财务轻量级图表
-* [Morris.js](http://morrisjs.github.io/morris.js) -简单的API，可绘制折线图，​​条形图，面积图和甜甜圈图
+* [Morris.js](http://morrisjs.github.io/morris.js) -呈现折线图，条形图，面积图和甜甜圈图的简单API
 * [Plotly](https://github.com/plotly/plotly.js) -建立在d3和stack.gl之上，允许用户创建基本图表和SVG地图.
 * [Plottable](https://github.com/palantir/plottable) -具有OOP样式语法的库以构建图表.
 * [QuickChart](https://github.com/typpo/quickchart) -呈现静态图表图像的Web API.
@@ -54,7 +61,7 @@
 
 ## Framework-Specific Libraries
 ### Angular
-* [Angular-Chart](http://jtblin.github.io/angular-chart.js)-简单的API，可绘制折线图，​​条形图，面积图和甜甜圈图
+* [Angular-Chart](http://jtblin.github.io/angular-chart.js)-呈现折线图，条形图，面积图和甜甜圈图的简单API
 * [n3-charts](https://github.com/n3-charts/line-chart) -用AngularJS编写的易于使用的库，用D3渲染图表.
 * [Angular-scale](https://github.com/kirillstepkin/scale) -用于创建折线图的简单轻量库
 
@@ -64,7 +71,7 @@
 ### jQuery
 * [Flot](http://www.flotcharts.org/)  -jQuery的JavaScript图表库. 包含有用的图表类型，但看起来可能不再处于活动开发中.
 * [jqPlot](http://www.jqplot.com)  -用于绘制图表的开源jQuery插件. 包含许多常用功能，但这些项目可能使用不同的命名约定.
-* [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) -大量的SVG，Canvas和VML中的图表类型呈现.
+* [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) -在SVG，Canvas和VML中渲染大量图表类型.
 * [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) -用于创建折线图的简单轻量库
 
 ### Lit-html
@@ -84,9 +91,9 @@
 
 ## Data Visualization Resources
 * [Dataviz Catalogue](http://datavizcatalogue.com)  -想知道哪种图表类型最好的地方.  Severino Ribecca的一个项目.
-* [Evergreen Data](http://stephanieevergreen.com) -更有效地展示数据的信息和意见.
-* [Flowing Data](http://flowingdata.com) -由前《纽约时报》的内森·丘（Nathan Yau）提供的有关地图，可视化，统计和设计的资源.
-* [Junk Charts](http://junkcharts.typepad.com) -Dataviz评论家（兼哥伦比亚大学教授）Kaiser Fung分解了数据可视化，以找出问题所在，并提出了改善方法的建议.
+* [Evergreen Data](http://stephanieevergreen.com) -有关更有效地呈现数据的信息和意见.
+* [Flowing Data](http://flowingdata.com) -由前《纽约时报》的内森·丘（Nathan Yau）提供的有关地图，可视化，统计数据和设计的资源.
+* [Junk Charts](http://junkcharts.typepad.com) -Dataviz评论家（兼哥伦比亚大学教授）Kaiser Fung分解了数据可视化，以找出问题所在，并提出了使它们变得更好的方法.
 * [The Functional Art](http://www.thefunctionalart.com) -著名的数据可视化作者和Aberto Cairo教授关于dataviz趋势和最佳实践的博客.
 * [Visualizing Data](http://www.visualisingdata.com) -Dataviz顾问Andy Kirk汇编了有关图表和可视化的示例，资源和参考资料.
-* [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) -之前世界经济论坛的莫里兹·斯特凡纳（Moritz Stefaner）关于信息可视化和设计的思想性文章.
+* [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) -之前世界经济论坛的莫里茨·斯特凡纳（Moritz Stefaner）关于信息可视化和设计的思想性文章.

@@ -70,6 +70,7 @@
 - [Curlew](https://curlew.sourceforge.io/) -多媒体转换器.
 - [Pitivi](http://www.pitivi.org/) -美丽而强大的视频编辑器.
 - [Podcasts](https://wiki.gnome.org/Apps/Podcasts) -听您喜欢的播客.
+- [Spot](https://github.com/xou816/spot) -Spotify客户端.
 
 ### Graphics
 
