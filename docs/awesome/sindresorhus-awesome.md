@@ -322,7 +322,7 @@
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
-- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) -基于证据的软件系统研究.
+- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) -学习开发自己的搜索引擎.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) -在量子计算机上利用量子力学和量子位的计算.
@@ -461,7 +461,7 @@
 
 ## Learn
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) -互动教程.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
@@ -626,7 +626,7 @@
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) -“物联网”连接协议.
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
-- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -Node.js CLI框架.
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) -低开销，跨平台的3D图形和计算API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) -排版语言.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) -经济学家的入门工具包.
@@ -701,6 +701,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) -将信贷申请人分类为风险类别的方法.
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) -基于Python的开源IT配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) -在网上对生物数据进行交互式可视化.
+- [QR Code](https://github.com/aureooms/awesome-qr-code#readme) -一种矩阵条形码，可用于存储和共享少量信息.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) -使基于植物的生活方式变得容易且易于使用.
 
 ## Related
@@ -708,5 +709,5 @@
 - [All Awesome Lists](https://github.com/topics/awesome) -GitHub上的所有超赞列表.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可以深入研究真棒列表.

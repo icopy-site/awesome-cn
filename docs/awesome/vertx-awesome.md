@@ -20,7 +20,7 @@
 
 ## Books
 
-* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉，托马斯·塞吉斯蒙特和朱利安·越
+* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉（Julien Ponge），托马斯·塞吉斯蒙特（Thomas Segismont）和朱利安·越（Julien Viet）
 * [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) 由克莱门特·埃斯科菲耶（ClémentEscoffier）
 * [Vert.x in Action](https://www.manning.com/books/vertx-in-action) 通过朱利安蓬吉
 
@@ -44,7 +44,7 @@
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) -用于JVM的实时客户端服务器框架，支持WebSocket和具有跨浏览器后备功能的服务器发送事件.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) -在Vert.x上运行View应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) -使您仅使用路由处理程序注释即可快速轻松地设置支持Vert.x的服务器.
-* [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，旨在构建具有Java，Kotlin语言支持的模块化，易于测试的JVM应用程序，该应用程序是根据最佳的Java库和标准精制而成的.
+* [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，旨在构建具有Java，Kotlin语言支持的模块化，易于测试的JVM应用程序，该应用程序是根据最佳的Java库和标准精制而成.
 * [Donkey](https://github.com/AppsFlyer/donkey) -为简化易用性和性能而构建的现代Clojure HTTP服务器和客户端.
 
 ## Authentication Authorisation
@@ -75,7 +75,7 @@
   * [SirixDB](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) -非阻塞SirixDB HTTP服务器.
   * [DGraph](https://github.com/aesteve/vertx-dgraph-client)  -有关如何构建Vert.x gRPC兼容客户端的示例. 此处定位 [dgraph](https://dgraph.io)
   * [RxFirestore](https://github.com/pjgg/rxfirestore) -以反应方式编写的非阻塞Firestore SDK.
-  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) -顶级的纯功能和反应式MongoDB客户端 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect) . 全面支持重试，后备和恢复操作.
+  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) -在之上具有纯功能性和反应性的MongoDB客户端 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect) . 全面支持重试，后备和恢复操作.
 
 * [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) -MySQL和MongoDB的非阻塞POJO映射.
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) -一个Vert.x客户端，用于接入MySQL复制流.
@@ -210,13 +210,13 @@
 
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的Vert.x微服务.
 * [Resilience4j](https://github.com/resilience4j/resilience4j)  -Resilience4j是为Java8和功能编程设计的容错库.  Resilience4j提供用于断路，速率限制，隔离，自动重试，响应缓存和度量标准测量的模块.
-* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包. 利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中组件，从而在整个体系结构上提供了理论上线性的可伸缩性.
+* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包. 利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
 * [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) -ServiceComb Java Chassis是一个软件开发套件（SDK），用于在Java中快速开发微服务，提供服务注册，服务发现，动态路由和服务管理功能.
 
 ## Search Engines
 
 * [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) -绿色x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理的服务.
-* [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) -绿色x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理的服务. 重新设计 [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service). Heavy usage of DTOs over eventbus and no more JsonObjects. Added support for ES plugins.
+* [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) -绿色x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理的服务. 重新设计 [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) . 通过事件总线大量使用DTO，而不再使用JsonObjects. 添加了对ES插件的支持.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) -具有事件总线代理的Vert.x 3 Solr服务.
 
 ## Template Engines
@@ -241,7 +241,7 @@
 * [Vert.x Beans](https://github.com/rworsnop/vertx-beans) -将Vert.x对象作为bean注入到Spring应用程序中.
 * [QBit](https://github.com/advantageous/qbit)  -QBit可用于Spring DI和Spring Boot（当然还有Vert.x）. 允许您在同一应用程序中使用QBit，Vert.x，Spring DI和Spring Boot.
 * [Vert.x Eclipse SISU](https://github.com/cstamas/vertx-sisu) -与Vert.x集成 [Eclipse SISU](https://www.eclipse.org/sisu/) DI container.
-* [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) -Vert.x Verticle工厂，该工厂利用Spring获取和配置Verticles.
+* [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) - A Vert.x Verticle Factory that makes use of Spring to obtain and configure Verticles.
 * [Glue](https://github.com/vinscom/glue)  -久经考验的编程和基于Java和Vert.x的应用程序的配置模型. 受到ATG Nucleus的启发，它使用简单的属性文件提供了强大的基于层的配置管理.
 
 ## Testing
@@ -252,7 +252,7 @@
 
 * [Vert.x health check](https://github.com/vert-x3/vertx-health-check) -允许在Vert.x项目中进行远程运行状况检查.
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) -一个用于Maven Vert.x项目热部署的Maven插件.
-* [slush-vertx](https://www.npmjs.com/package/slush-vertx) - A template driven Vert.x project generator for different languages and build tools.
+* [slush-vertx](https://www.npmjs.com/package/slush-vertx) -模板驱动的Vert.x项目生成器，用于不同的语言和构建工具.
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet)  -用于Vert.x的Visual Studio代码（多语言）插件. 也可以从 [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
 * [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) -基于浏览器的Vert.x应用程序的项目启动器和项目模板.
 * [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) -用于Vert.x应用程序的简单livereload服务器.
@@ -296,6 +296,7 @@
 * [Chime](https://github.com/LisiLisenok/Chime) -在Vert.x事件总线上工作的时间计划程序，允许使用_cron-style_和_interval_定时器进行计划.
 * [Vert.x Cron](https://github.com/diabolicallabs/vertx-cron)  -安排cron规格的事件. 具有事件总线和可观察的版本.
 * [Vert.x CronUtils](https://github.com/NoEnv/vertx-cronutils)  -用于vertx调度程序的cron-utils的抽象. 支持Unix，Cron4j和Quartz样式表达式.
+* [Vert.x Scheduler](https://github.com/zero88/vertx-scheduler) -基于纯Vert.x内核的轻量级可插入调度程序，无需任何外部库，即可使用_cron-style_和_interval_计时器进行调度，并在同步和异步任务上都具有详细的_monitor_.
 * [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config)  -允许在标准JSON配置和（类型安全的）配置Java bean之间进行映射. 还允许通过JSR 303验证配置bean.
 * [Vert.x Async](https://github.com/gchauvet/vertx-async) -将caolan / async nodejs模块移植到Vert.x框架，该框架为常见的异步模式提供了辅助方法.
 * [Vert.x JOLT](https://github.com/lusoalex/vertx-jolt)  -基于原始bazaarvoice JOLT项目的JSON到JSON转换工具. 有助于将不同的json结构转换为预期的json格式.
@@ -319,7 +320,7 @@
 - [Issues](https://github.com/vert-x3/issues/issues) -Vert.x核心问题跟踪器.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) -包含有关Vert.x的有用信息.
 - [Blog](http://vertx.io/blog/) -官方的Vert.x博客，其中包含许多教程和其他信息.
-- [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) -2017 Vert.x演讲和演示的列表.
+- [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations.
 
 ## Articles
 

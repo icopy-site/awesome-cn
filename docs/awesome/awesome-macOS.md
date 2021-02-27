@@ -101,7 +101,7 @@
 ### Email Utilities
 
 - [Airmail](http://airmailapp.com/) -为El Capitan设计的快速电子邮件客户端.
-- [MailMate](https://freron.com/) -高级IMAP电子邮件客户端，具有广泛的键盘控制和Markdown支持.
+- [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
 - [Mailplane](https://mailplaneapp.com/) -Google Mail，收件箱，日历和通讯录的紧密集成客户端.
 
 
@@ -110,7 +110,7 @@
 - [ForkLift](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059) -文件管理器和FTP / SFTP / WebDAV / Amazon S3客户端.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) -Finder的强大双窗格浏览器替代品.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) -额外的quicklook插件列表，可在Finder中预览更多文件类型.
-- [TotalFinder](http://totalfinder.binaryage.com/) -Finder的强大替代品.
+- [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/)  -向Finder添加有用的功能.  ！[免费软件] [免费软件图标]
 
 
@@ -191,14 +191,14 @@
 
 - [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  -实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和语音录制.  ！[免费软件] [免费软件图标]
-- [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
+- [mac2imgur](https://github.com/mileswd/mac2imgur)  -将图像和屏幕截图上传到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
 - [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等.！[免费软件] [免费软件图标]
 - [Transmission](https://www.transmissionbt.com/)  -简单，轻巧，多平台的torrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
 
 
 ### Terminal
 
-- [iTerm 2](https://www.iterm2.com/)  -终端仿真器.  [！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
+- [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 
 
 ### Utilities
@@ -219,7 +219,7 @@
 - [CommandQ](https://clickontyler.com/commandq/) -切勿再次意外退出应用程序.
 - [ControlPlane](http://www.controlplaneapp.com/)  -根据您所在的位置或所做的工作来自动运行任务.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
 - [DaisyDisk](https://daisydiskapp.com/) -分析磁盘使用情况并释放磁盘空间.
-- [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
+- [Deliveries](http://junecloud.com/software/mac/deliveries.html) -美丽而简单的包裹跟踪.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor)  -在Mac上轻松禁用或启用监视器.  [！[开源软件] [OSS图标]]（https://github.com/Eun/DisableMonitor）！[免费软件] [免费软件图标]
 - [Dozer](https://github.com/Mortennn/Dozer)  -隐藏MacOS菜单栏项目.  [！[开源软件] [OSS图标]]（https://github.com/Mortennn/Dozer）！[免费软件] [免费软件图标]
 - [EtreCheck](http://etrecheck.com)  -输出系统信息和配置，以获取Apple支持专业人员的更多信息.  [！[开源软件] [OSS图标]]（https://github.com/etresoft/EtreCheck）！[免费软件] [免费软件图标]
@@ -251,7 +251,7 @@
 - [Noizio](http://noiz.io/) -环境声音均衡器，可放松或提高生产率.
 - [Notational Velocity](http://notational.net/)  -在最小的GUI中存储，检索和同步笔记.  [！[开源软件] [OSS图标]]（https://github.com/scrod/nv/）！[免费软件] [免费软件图标]
 - [Noti](https://noti.center/)  -在Mac上（通过PushBullet）接收Android通知.  [！[开源软件] [OSS图标]]（https://github.com/jariz/Noti/）！[免费软件] [免费软件图标]
-- [Numi](http://numi.io/)  -美丽的计算器应用程序.  ！[免费软件] [免费软件图标]
+- [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/)  -多功能实用程序，用于验证磁盘和文件，运行清理和系统维护任务，配置隐藏选项等.  ！[免费软件] [免费软件图标]
 - [Paparazzi](http://derailer.org/paparazzi/)  -制作网页截图的小型实用程序.  ！[免费软件] [免费软件图标]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) -世界上最快的NTFS驱动程序.
@@ -292,7 +292,8 @@
 - [Phoenix](https://github.com/kasper/phoenix)  -可使用JavaScript编写脚本的轻量级窗口和应用程序管理器.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
 - [Rectangle](https://rectangleapp.com/)  -无需使用鼠标即可轻松组织窗口.  [！[开源软件] [OSS图标]]（https://github.com/rxhanson/Rectangle）！[免费软件] [免费软件图标]
 - [Stay](https://cordlessdog.com/stay/) -当显示改变时，调整窗口大小/位置.
-- [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ![Freeware][Freeware Icon]
+- [Swish](https://highlyopinionated.co/swish/) -使用触控板手势控制窗口和应用程序.
+- [yabai](https://github.com/koekeishiya/yabai)  -具有焦点的平铺窗口管理器跟随鼠标.  [！[开源软件] [OSS图标]]（https://github.com/koekeishiya/yabai）！[免费软件] [免费软件图标]
 
 ### Others
 
@@ -438,4 +439,4 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 
 [chitchat]：https：//github.com/stonesam92/ChitChat
 [OSS图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+[免费软件图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

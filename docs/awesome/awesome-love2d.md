@@ -9,13 +9,13 @@
 ## 3D
 *以3D为中心的图书馆*
 
-* [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+* [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) -LÖVE的绝佳3D引擎.
 * [anim9](https://github.com/excessive/anim9) -3D骨骼动画库（设计用于IQM和IQE）
 * [Brinevector3D](https://github.com/flamendless/brinevector3D) -启用FFI的3D矢量库（x，y，z）
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) -Lua的3D碰撞检测库.
 * [IQE](https://github.com/excessive/iqe) -Quake导出导出器（文本）
 * [IQM](https://github.com/excessive/iqm-exm) -Inter-Quake模型加载器（二进制）
-* [love-gltf](https://gitlab.com/Alloyed/love-gltf)  -gltf资产加载器和测试渲染器； 支持骨骼动画和变形目标 
+* [love-gltf](https://gitlab.com/Alloyed/love-gltf)  -gltf资产加载器和测试渲染器； 支持骨骼动画和变形目标
 * [Lovox](https://github.com/tjakka5/Lovox) -用于体素的伪3D库
 * [g3d](https://github.com/groverburger/g3d) -LÖVE的简单3D引擎.
 * [model_renderer](https://github.com/xiejiangzhi/model_renderer) -love2d的简单3d模型渲染器
@@ -39,6 +39,8 @@
 * [skeletor](https://github.com/pelevesque/skeletor) -2D骨骼动画系统
 * [Walt](https://github.com/davisdude/Walt) -动画库
 * [Lump](https://github.com/sixFingers/lump) -Adobe Flash动画运行时
+* [lovanim](https://github.com/patrixr/love-animation) -最小的有状态动画库
+* [SYSL-Text](https://github.com/SystemLogoff/SYSL-Text) -基于标签的文本动画和自动包装库
 
 ## Camera
 *视口和相机库*
@@ -50,18 +52,16 @@
 * [STALKER-X](https://github.com/adnzzzzZ/STALKER-X) -STALKER-X是LÖVE的摄像头模块
 
 ## Development
-*开发辅助库，可丰富您的开发经验*
+*Development assisting Libraries, that enrich your development experience*
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) -小型FPS绘图工具
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) -基于FPSGraph的小型OO FPS图形实用性
-* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
+* [Lovebird](https://github.com/rxi/lovebird) -基于浏览器的调试控制台
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) -内联控制台式调试器实用程序
 * [lurker](https://github.com/rxi/lurker) -在正在运行的游戏中自动交换已更改的Lua文件
 * [LÖVE API](https://github.com/love2d-community/love-api) -Lua表中LÖVE的完整API文档
 * [LÖVE Build](https://github.com/nhartland/love-build) -GitHub Action用于自动跨平台构建
-* [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) -使用TypeScript编写LÖVE游戏
-* [MakeLove](https://github.com/instilledbee/MakeLove) -通过实时监视更改自动为项目创建创建（仅限Windows）
-* [boon](https://github.com/camchenry/boon) -LÖVE的跨平台构建工具
+* [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - Write LÖVE games with TypeScript
 * [lovelier](https://github.com/patrixr/lovelier) -带有Moonscript支持的Love2D实时重新加载器
 
 ## Drawing
@@ -208,7 +208,7 @@
 *在第三方商店中分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) -包装LÖVE游戏以在Snappy商店中分发的模板
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages； 一局=一局
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可运行在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上的AppImage. 一局=一局
 
 ## Serialization
 *保存游戏和存储库*
@@ -288,7 +288,7 @@
 * [Lily](https://github.com/MikuAuahDark/lily) -异步资产加载程序
 * [luasteam](https://github.com/uspgamedev/luasteam) -Steamworks API的Lua绑定
 * [Luvent](https://github.com/ejmr/Luvent) -简单的事件驱动编程
-* [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) -在Windows / Mac / Linux上打开文件选择器 
+* [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) -在Windows / Mac / Linux上打开文件选择器
 * [nativefs](https://github.com/megagrump/nativefs) -在LÖVE允许的路径之外读写文件
 * [Optikon](https://optikon.co.uk/) -所见即所得的视觉水平设计师
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) -LÖVE的粒子编辑
@@ -345,6 +345,13 @@
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) -支持语法突出显示，自动完成和构建系统.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) -提供Lua代码的整理和静态分析.
 
+## Game Distribution Tools <a id="game-distribution"></a>
+*以一种或另一种方式自动化游戏发布的工具*
+* [boon](https://github.com/camchenry/boon) -支持Windows，macOS，Linux的多平台，易于使用的工具.
+* [love-export](https://github.com/dmoa/love-export)  -快速，简单的命令行工具，可为您构建二进制文件. 支持Windows，MacOS和Linux.
+* [love-release](https://github.com/MisterDA/love-release)  -一个可以自动分发游戏的Lua脚本. 支持Windows，macOS，Debian，Linux.
+* [makelove](https://github.com/pfirsich/makelove) -先进的多平台工具，可融合您用Python 3编写的游戏.通过AppImage支持Windows和Linux.
+
 ## Contributing
 
 请参阅 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
@@ -352,7 +359,7 @@
 ## Other Awesome Lists
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) -像这样的清单，但更笼统，涵盖了Lua的所有用途
-* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) -专为LÖVE设计的着色器集合
+* [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) -精选的PICO-8资源，教程，工具等
 
-其他很棒的清单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
+其他很棒的清单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.

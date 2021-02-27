@@ -7,7 +7,6 @@
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
- <a href='https://ko-fi.com/S6S315DNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
 
@@ -268,7 +267,7 @@ Code
 *： 然后： [OpenRA](http://www.openra.net/) -OpenRA是一种免费/免费的实时策略游戏引擎.
 *：money_with_wings： [OpenXRay](https://github.com/OpenXRay/xray-16) -STALKER游戏系列中使用的社区修改X射线引擎.
 *： 然后： [Origamijs](http://origamijs.com/docs) -使用HTML5 Canvas创建的轻量级库.
-* ：钱袋子： [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
+* ：钱袋子： [PICO-8](http://www.lexaloffle.com/pico-8.php) -用于制作，共享和玩小游戏和其他计算机程序的幻想控制台.
 *： 然后： [p2.js](http://schteppe.github.io/p2.js/) -JavaScript 2D物理库
 *： 然后： [Panda3D](https://www.panda3d.org/) -用于Python和C ++程序的3D渲染和游戏开发的框架.
 *： 然后： [PandaJS](http://www.pandajs.net/) -开源HTML5引擎.
@@ -342,7 +341,7 @@ Audio
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.
 *： 然后： [jfxr](http://jfxr.frozenfractal.com) -Bfxr音效生成器的JavaScript端口.
 *： 然后： [LMMS](https://lmms.io/) -跨平台音乐制作软件.
-* ：自由： [MadTracker](http://www.madtracker.org/main.php)  -强大而有效的音乐制作方法. 全面的VST™，ASIO™和ReWire™支持确保了多功能性和兼容性.
+* ：自由： [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 *： 然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) -Mac / Linux / Windows平台的开源跟踪器.
 *： 然后： [musagi](http://www.drpetter.se/project_musagi.html) -开源，相当大和复杂的音乐编辑器和合成器
 *： 然后： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) -开源MIDI音序器.
@@ -386,7 +385,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)
