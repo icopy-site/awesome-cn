@@ -8,7 +8,7 @@
 
 目标是建立一个由社区驱动的非常知名的资源分类集合.
 
-随时欢迎分享，建议和贡献！ 请看看 [contribution guidelines](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) 第一.
+随时欢迎分享，建议和贡献！ 请看看 [contribution guidelines](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) 第一的.
 
 谢谢大家 [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
@@ -18,7 +18,7 @@
 - [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 - [Front End Newsletter](http://frontendnewsletter.com/) . 每周免费的最佳前端相关新闻，文章，项目等新闻通讯.  JavaScript，React，Angular，Ember，Polymer，Meteor，RxJS，Elm等. [Archive](http://frontendnewsletter.com/issues).
 - [Dev Tips](https://umaar.com/dev-tips/) . 每周在收件箱中以gif形式提供开发人员提示.
-- [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
+- [Friday Front-end](https://zendev.com/friday-frontend.html) . 每个星期五有15篇很棒的前端文章，教程和公告.  CSS / SCSS，JavaScript和其他很棒的部分. [Archive](https://zendev.com/category/friday-frontend.html)
 - [Unreadit/Frontend](https://unread.it/n/frontend/) . 最佳前端开发新闻来自最佳subreddits.
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads) . 手工整理的与用户界面开发相关的文章，教程，意见和工具的列表.
 
@@ -36,12 +36,12 @@
 
 ### JavaScript
 
-- [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript新闻和文章的每周一次免费电子邮件摘要. [Archive](https://javascriptweekly.com/issues).
+- [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次向电子通讯发送电子邮件，其中包括针对设计人员和开发人员的有用提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 每隔一周就会向您的收件箱发送一个快速的JavaScript提示.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计新闻，重点关注工具.
 - [ES.next News](http://esnextnews.com/) . 每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
-- [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+- [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 很棒的浏览器端JavaScript库，资源和闪亮的东西的集合.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 最好的TypeScript链接每个星期都在您的包装盒中.
 - [JSter](http://jster.net/blog) . 每两周一次没有任何精挑细选的JavaScript链接到您的邮箱的列表. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
 - [Best of JavaScript](https://weekly.bestofjs.org/) 关于与Node.js和Web平台相关的最受欢迎的开源项目的每周排名.
@@ -109,11 +109,11 @@
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的HTML5和Web平台技术综述.  CSS 3，Canvas，WebSockets，WebGL，Native Client等.
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 有关HTML5游戏开发的每周新闻.
-- [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯，作为过去一周内添加到Phaser网站的所有新内容（游戏发行，教程，视频等）的摘要.
+- [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
 ### SVG
 
-- [SVG Weekly](https://tinyletter.com/svgweekly) . 每周电子邮件关注可伸缩矢量图形（SVG），共享教程，工具，实验，演讲和数据.
+- [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
 
 ### GraphQL
 
@@ -130,7 +130,8 @@
 - [LLVM Weekly](http://llvmweekly.org) . 每周简讯，涵盖LLVM，Clang和相关项目的发展.
 - [Discover dev](https://www.discoverdev.io) . 每周摘要来自网络的最佳工程博客. [Archive](https://www.discoverdev.io/archive).
 - [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/) . 每两周进行一次深入的代码审查相关文章.
-- [Active forks](https://activeforks.net). A weekly newsletter for open source enthusiats with a list of repositories and their recently active forks.
+- [Active forks](https://activeforks.net) . 每周一次的开源热情通讯，其中包含存储库列表及其最近活跃的分支.
+- [BaseClass](https://www.baseclass.io/) . 每两周一次的新闻通讯，将在5分钟内解释基本的计算主题.
 
 ### ObjectiveC
 
@@ -144,7 +145,7 @@
 
 ### Node.js
 
-- [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
+- [Node Weekly](https://nodeweekly.com/) .  Node.js新闻和文章的每周一次免费电子邮件摘要.
 - [npm Weekly](https://www.npmjs.com/npm-weekly) . 我们正在研究，思考和谈论NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter) . 每周最受欢迎的Node.js新闻，文章和软件包概述.
 
@@ -174,7 +175,7 @@
 
 - [Ruby Weekly](https://rubyweekly.com/) . 每周一次免费的Ruby新闻和文章电子邮件摘要.
 - [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) .  Ruby发帖人 [Thoughtbot](https://thoughtbot.com)
-- [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周内从Rails中获取有趣的提交，拉取请求和更多内容的信息，每个星期五都发送到您的收件箱.
+- [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周内从Rails中获取有趣的提交，拉取请求和更多内容的信息，每个星期五都发送到您的收件箱中.
 - [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) . 很棒的Ruby宝石，工具，框架和软件的集合.
 
@@ -369,7 +370,7 @@
 - [Startup Digest](https://www.startupdigest.com/reading-lists) . 根据您的兴趣定制来自世界各地的精选阅读材料.
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每个星期三都会为您带来一个崭新的鼓舞人心的早晨套路.
 - [wpMail.me](http://wpmail.me/) . 每周一次的免费WordPress新闻快讯，汇总了WordPress新闻和文章. [Archive](http://wpmail.me/newsletters/).
-- [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  《清晰思考》时事通讯几乎不提供思考练习，对您的日常生活有所帮助. 它是用爱和钦佩而创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
+- [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 - [Better Dev Link](https://betterdev.link) . 每周新闻通讯收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从Google进行搜索的链接（例如如何执行x，y，z），而是更多关于编程中的问题解决方法.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的仓库，可以在GitHub上以您喜欢的编程语言跟踪趋势项目. 每天或每周一次以GitHub通知的形式进行更新.
 - [HN Mail](https://hnmail.io) . 可自定义的每周新闻，根据您的兴趣提供Hacker News故事.
@@ -403,7 +404,7 @@
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自Reddit上最佳帖子的技术爱好者硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳Reddit帖子的有关创业，增长，投资和创业的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity是面向技术专业人员（程序员，开发人员，设计师等）的每周简讯. 每个问题都包含与生产力相关的工具，文章和其他资源的简短列表，这些工具可以帮助各个与技术相关领域的工作者提高生产力.
-- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周新闻通讯集中于最新的移动，Web，AI，UI / UX，作业/载具以及与开发人员和行业相关的任何内容.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周新闻通讯重点关注移动，Web，AI，UI / UX，作业/载具以及与开发人员和行业相关的任何事物的最新动态.
 - [Trending Projects](https://www.trendingprojects.com/) 每周电子邮件，展示GitHub上的热门项目.
 
 ## License

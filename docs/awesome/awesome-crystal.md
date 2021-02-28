@@ -11,12 +11,12 @@
 
 Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]]（https://crystal-ann.com）以获得更多信息.
 
-欢迎捐款. 请快速浏览一下 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) 第一.
+欢迎捐款. 请快速浏览一下 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) 第一的.
 
 
 ## Algorithms and Data structures
  * [bisect](https://github.com/spider-gazelle/bisect) -将值插入已排序的数组
- * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) 实作
+ * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) 执行
  * [crie](https://github.com/c910335/crie) -编译时特里
  * [CrOTP](https://github.com/philnash/crotp) -两因素验证的HOTP和TOTP实施
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) -执行链表
@@ -73,7 +73,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [oq](https://github.com/Blacksmoke16/oq)  -高性能，可移植的jq包装器，以方便使用和输出JSON以外的其他格式； 使用 [jq](https://github.com/stedolan/jq) 过滤器以转换数据.
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) -一个简单且可自定义的进度条
  * [tablo](https://github.com/hutou/tablo) -灵活的终端表生成器
- * [tallboy](https://github.com/epoch/tallboy) -生成支持跨多个列的单元格的ASCII字符表
+ * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) -静态代码分析工具
@@ -83,7 +83,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Crystar](https://github.com/naqvis/crystar) -Tar存档格式的读者和作家
  * [Gzip](https://crystal-lang.org/api/Gzip.html) -gzip格式的读者（Crystal stdlib）
  * [polylines.cr](https://github.com/BuonOmo/polylines.cr) —压缩一系列坐标
- * [snappy](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
+ * [snappy](https://github.com/naqvis/snappy) -用于Crystal的Snappy压缩格式读取器/写入器
  * [Zip](https://crystal-lang.org/api/Zip.html) -zip格式的读者（Crystal stdlib）
  * [Zlib](https://crystal-lang.org/api/Zlib.html) -zlib格式的读者（Crystal stdlib）
  * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
@@ -175,9 +175,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) -调解员和观察员模式事件库
  * [Athena Negotiation](https://github.com/athena-framework/negotiation) -与框架无关的内容协商库
  * [device_detector](https://github.com/creadone/device_detector) -通过用户代理字符串检测设备的分片
- * [Exception Page](https://github.com/crystal-loot/exception_page) -Crystal Web库和框架的特殊例外页面
+ * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql](https://github.com/graphql-crystal/graphql) -类型安全 [GraphQL](http://graphql.org) 服务器实施
- * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) 实作
+ * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) 执行
  * [kemal-session](https://github.com/kemalcr/kemal-session) -凯末尔的交易时段
  * [mochi](https://github.com/andrewc910/mochi) -受Devise支持的身份验证分片：可验证，可确认，可邀请等
  * [motion.cr](https://github.com/andrewc910/motion.cr) -面向对象的Amber前端库
@@ -237,7 +237,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [runic-lang](https://github.com/runic-lang) -设计玩具语言
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
+ * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
  * [Log](https://crystal-lang.org/api/Log.html) -日志记录实用程序（Crystal stdlib）
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) 客户库
 
@@ -254,6 +254,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) -易于使用的有限状态机用于Crystal类
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) -具有更好JSON :: Any的递归哈希
+ * [anyolite](https://github.com/Anyolite/anyolite) -具有简单绑定的完整mruby解释器，可在项目中轻松支持脚本编写
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Croc，CNPJ和CEP等巴西Burocracia的无依赖碎片
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
@@ -377,7 +378,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
@@ -454,8 +455,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) -巴西
- * [ja.crystal-lang.org](http://ja.crystal-lang.org/) -日文
- * [kr.crystal-lang.org](https://kr.crystal-lang.org/) -韩文
+ * [ja.crystal-lang.org](http://ja.crystal-lang.org/) - 日本人
+ * [kr.crystal-lang.org](https://kr.crystal-lang.org/) - 韩国人
  * [ru.crystal-lang.org](http://ru.crystal-lang.org/) -俄语
  * [tw.crystal-lang.org](http://tw.crystal-lang.org/) - 中国传统
 
@@ -498,13 +499,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -Crystal语法高亮显示，编译，格式化命令，摘要
  * 我来了
-   * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
+   * [vim-crystal](https://github.com/vim-crystal/vim-crystal) -对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) -对Slang模板引擎的Vim文件类型支持
  * Visual Studio代码
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) -`cr`和`ecr`文件的格式化程序，linter和语法突出显示
 
 ## LSP Language Server Protocol Implementations
- * [crystalline](https://github.com/elbywan/crystalline) -Crystalline是用Crystal语言编写的语言服务器协议的实现.
+ * [crystalline](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language.
  * [scry](https://github.com/crystal-lang-tools/scry) -用于Crystal实现代码分析的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins

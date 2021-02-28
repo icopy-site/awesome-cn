@@ -43,7 +43,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 -逐步回归
 -多元自适应回归样条
 -局部估计的散点图平滑
--分类
+- 分类
   -k最近邻居
   -支持向量机
   -决策树
@@ -80,7 +80,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 -k-均值
 -支持向量机
 -Apriori
--输入
+- 在
 - 网页排名
 -AdaBoost
 -kNN
@@ -524,6 +524,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) -具有神秘编程语言的数据科学
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) -进化算法博客
 - [Jingles](https://jinglescode.github.io/) -审查并从学术论文中提取关键概念
+- [nbshare](https://www.nbshare.io/notebooks/data-science/) -数据科学笔记本
 
 
 
@@ -689,8 +690,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)                     | 八步成为数据科学家的视觉指南 [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)                                                              |
 | [<img src="https://i.imgur.com/W2t2Roz.png" width="150" />](https://i.imgur.com/FxsL3b8.png)                                                                                                                                                 | 所需技能的思维导图（[img](https://i.imgur.com/FxsL3b8.png))                                                                                                                                                                                          |
 | [<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)                                                                                               | 斯瓦米·钱德拉塞卡兰（Swami Chandrasekaran） [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).                                                                                                                                            |
-| [<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png)                                                                                                                                                 | 通过 [@kzawadz](https://twitter.com/kzawadz) 通过 [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)                                                                                                                                      |
-| [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                 | 通过 [Data Science Central](http://www.datasciencecentral.com/)                                                                                                                                                                                                |
+| [<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png)                                                                                                                                                 | 经过 [@kzawadz](https://twitter.com/kzawadz) 通过 [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)                                                                                                                                      |
+| [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                 | 经过 [Data Science Central](http://www.datasciencecentral.com/)                                                                                                                                                                                                |
 | [<img src="https://i.imgur.com/b9xYdZB.jpg" width="150" />](https://i.imgur.com/aoz1BJy.jpg)                                                                                                                                                 | 从 [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) 由伯克利科学评论.  |
 | [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                 | 数据科学大战：R与Python
 | [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                 | 如何选择统计或机器学习技术|
@@ -725,9 +726,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Open Data Philly](https://www.opendataphilly.org/) 将人们与费城的数据联系起来
 - [grouplens.org](https://grouplens.org/datasets/) 电影样本（带有评级），书籍和Wiki数据集
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
-- [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 通过 [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
+- [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 经过 [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
-- [ClimateData.us](http://www.climatedata.us/) （有关： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
+- [ClimateData.us](http://www.climatedata.us/) （有关的： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [MapLight](http://maplight.org/data)  -免费提供各种数据，供公众免费使用. 点击下面的数据集以了解更多信息
 - [GHDx](http://ghdx.healthdata.org/) -健康指标与评估研究所-来自世界各地的健康和人口统计数据集目录，包括IHME结果

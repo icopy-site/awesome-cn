@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [awesome-link]：https://github.com/sindresorhus/awesome
-[awesome-badge]：https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis链接]：https://travis-ci.org/awesome-css-group/awesome-css
 [travis-徽章]：https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
 [HitCounter-link]：http://hits.dwyl.io/awesome-css-group/awesome-css
@@ -135,25 +135,25 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## CSS Development at Large-Scale Websites
 
-* [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) 通过 [Max Luster](https://twitter.com/maxluster)
+* [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) 经过 [Max Luster](https://twitter.com/maxluster)
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) 由Shaun Bent
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) 史蒂夫·迈内特（Steve Mynett）
-* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) 通过 [Mark Otto](https://twitter.com/mdo)
+* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) 经过 [Mark Otto](https://twitter.com/mdo)
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) 保罗·戴维斯（Paul Davis）
-* [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) 通过 [Ian Feather](https://twitter.com/ianfeather)
-* [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 通过 [Jacob Thornton](https://twitter.com/fat)
+* [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) 经过 [Ian Feather](https://twitter.com/ianfeather)
+* [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 经过 [Jacob Thornton](https://twitter.com/fat)
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
-* [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) 通过 [Bob通过 Grace](https://twitter.com/bob通过grace)
+* [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) 经过 [Bob经过 Grace](https://twitter.com/bob经过grace)
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Code Style Guidelines :book:
 
-* [idiomatic CSS](https://github.com/necolas/idiomatic-css) 通过 [Nicolas Gallagher](https://twitter.com/necolas)
-* [CSS Styleguide](https://github.com/grvcoelho/css) 通过 [Guilherme Rv Coelho](https://github.com/grvcoelho)
-* [CSS Guidelines](http://cssguidelin.es/) 通过 [Harry Roberts](https://twitter.com/csswizardry)
-* [Sass Guidelines](https://sass-guidelin.es/) 通过 [Hugo Giraudel](https://twitter.com/HugoGiraudel)
-* [Code Guide](http://codeguide.co/) 通过 [Mark Otto](https://twitter.com/mdo)
+* [idiomatic CSS](https://github.com/necolas/idiomatic-css) 经过 [Nicolas Gallagher](https://twitter.com/necolas)
+* [CSS Styleguide](https://github.com/grvcoelho/css) 经过 [Guilherme Rv Coelho](https://github.com/grvcoelho)
+* [CSS Guidelines](http://cssguidelin.es/) 经过 [Harry Roberts](https://twitter.com/csswizardry)
+* [Sass Guidelines](https://sass-guidelin.es/) 经过 [Hugo Giraudel](https://twitter.com/HugoGiraudel)
+* [Code Guide](http://codeguide.co/) 经过 [Mark Otto](https://twitter.com/mdo)
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) 通过ThinkUp
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) 由Google
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) 通过WorldPress
@@ -224,6 +224,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [react-with-styles](https://github.com/airbnb/react-with-styles)
 * [styled-jsx](https://github.com/zeit/styled-jsx)
 * [styled-components](https://github.com/styled-components/styled-components)
+* [stylin](https://github.com/sultan99/stylin)
 
 这里有一个 [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
@@ -257,11 +258,11 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 *编程时要听的东西.*
 
-* [CSS Podcast](https://thecsspodcast.libsyn.com/) -来自Google的开发者倡导者Una Kravets和Adam Argyle轻松地将CSS的复杂方面分解为易于理解的章节，涵盖了从可访问性到z-index的所有内容.
+* [CSS Podcast](https://thecsspodcast.libsyn.com/) -Google的开发者倡导者Una Kravets和Adam Argyle轻松地将CSS的复杂方面分解为易于消化的情节，涵盖了从可访问性到z-index的所有内容.
 * [Shop Talk Show](http://shoptalkshow.com/) -与Chris Coyier和Dave Rupert进行的有关前端Web设计，开发和UX的实时播客.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
 * [The Web Ahead](http://5by5.tv/webahead/) -与世界专家就不断变化的技术和网络的未来进行对话.
-* [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发方面寻找最优秀，最聪明，最聪明的创造力人士.
+* [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发中寻找最优秀，最聪明，最聪明的创造力人士.
 * [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展. 赶上.” 该播客以及随附的博客都是关于使您保持最新的开源技术的最新信息.
 * [Syntax](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 
@@ -274,10 +275,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) -@ Autoprefixer，http：//easings.net和@PostCSS的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5和CSS Freak教授. 临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5和CSS Freak教授. 临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
 * [Hugo Giraudel](https://twitter.com/HugoGiraudel) - CSS goblin & Sass hacker at @edenspiekermann.
-* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，财产势利者，Foodie.
+* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，房地产势利者，Foodie.
 * [Heydon Pickering](https://twitter.com/heydonworks)  -适度食用大米. 还是UX设计师，作者，@ smashingmag编辑器和程序员.
 * [Adam Morse](https://twitter.com/mrmrs_) -倡导用户和开源.
 * [Donovan Hutchinson](https://twitter.com/donovanh)  -设计师，开发人员，作家. 偶尔在http://Hop.ie上发布博客，目前正在构建@cssanimation.

@@ -180,6 +180,7 @@
 ### Editor plugins
 
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) -用于Vim的V工具，包括自动格式化.
+- [sublime-v](https://github.com/onerbs/sublime-v) -V编程语言的功能齐全的Sublime Text 3软件包.
 
 ### GitHub actions
 

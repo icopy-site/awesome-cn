@@ -16,8 +16,8 @@ _awesome_ Common Lisp库的精选列表.
 另有说明. 带有：star：的标记非常普遍且
 坚信他们成为社区标准. 你不会错
 他们.  Quicklisp，BordeauxThreads和
-这样. 标有a的库是我们喜欢并想要
-promote here at the Awesome-cl list. They proved solid, they may solve
+这样的. 标有a的库是我们喜欢并想要
+在Awesome-cl列表中进行推广. 他们证明是可靠的，他们可能会解决
 一个比社区标准更好的问题，但事实并非如此
 普遍存在，或不被认为是稳定的. 例如，我们更喜欢
 Cl-Who上的喷丝板.
@@ -42,8 +42,8 @@ Audio
 
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
-* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境. 从零开始设计软件合成器或声音插件很有用. 它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
-* [cl-collider](https://github.com/byulparan/cl-collider) - 一个
+* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境. 从零开始设计软件合成器或声音插件很有用. 它也是一种合成工具，可在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
+* [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端. 用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统. 包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包. 它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
@@ -416,7 +416,7 @@ CLOS扩展
 ---------------
 
 * ：星星： [closer-mop](http://cliki.net/closer-mop)  -兼容性层，可纠正许多缺少或不正确的MOP功能.  [Expat] [14].
-* [defclass-std](https://github.com/EuAndreh/defclass-std)  -用于快速编写DEFCLASS表单的快捷方式宏.  [LLGPL] [8].
+* [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8].
 * [specialization-store](https://github.com/markcox80/specialization-store/)  -基于类型的通用功能. 简化的BSD许可变体.
 * [filtered-functions](https://github.com/pcostanza/filtered-functions)  -允许使用任意谓词来选择和应用方法.  [MIT] [200].
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
@@ -443,7 +443,7 @@ Iteration
   与迭代不同，它不需要代码遍历并且更容易
   延长.  [Artistic License 2.0] [51].
 * [series](https://github.com/tokenrove/series/wiki)  -功能样式，完全没有任何运行时损失.  [MIT] [200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优点（请参见“数据结构”部分），正如同一作者所写. 在Quicklisp中作为`misc-extensions`的一部分. 公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁而可扩展的迭代工具，具有与FSet很好地集成的优势（请参见“数据结构”部分），正如同一作者所写. 在Quicklisp中作为`misc-extensions`的一部分. 公共区域.
 * [trivial-do](https://github.com/yitzchak/trivial-do/)  -Common Lisp的其他dolist样式宏.  [MIT] [200].
 * [doplus](https://bitbucket.org/alessiostalla/doplus/wiki/Home) –另一个可扩展的迭代库，类似于：for.
 * [snakes](https://github.com/BnMcGn/snakes)  -Common Lisp的Python样式生成器. 包括一个itertools端口.  [Apache2] [89].
@@ -550,7 +550,7 @@ Beginner
 --------
 
 * [Land of Lisp](http://landoflisp.com/) -Common Lisp的有趣游戏导向介绍.
-* [Practical Common Lisp] [206]-Common Lisp的一个很好的介绍性文字，并附有实际示例.
+* [Practical Common Lisp][206] - A good introductory text to Common Lisp, with practical examples.
 
 Intermediate
 ------------
@@ -568,7 +568,7 @@ Advanced
 其他书
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由肯·福布斯（Ken Forbus）和约翰·德克莱尔（Johan de Kleer）提供，由麻省理工学院出版社（MIT Press）免费提供-这是一本独特的标准人工智能教科书，结合了科学与工程，理论和工艺来描述AI推理系统的构造，并包括说明思想的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由肯·福布斯（Ken Forbus）和约翰·德克莱尔（Johan de Kleer）提供，由麻省理工学院出版社（MIT Press）免费提供-这是一本独特的标准人工智能教科书，它结合了科学与工程，理论和工艺来描述AI推理系统的构造，并包括说明思想的代码.
 
 Community
 ---------
@@ -676,7 +676,7 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的网络框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -用于构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
+* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
@@ -800,7 +800,7 @@ Monitoring
 
 * [prometheus.cl](https://github.com/deadtrickster/prometheus.cl)  -Prometheus.io客户端.  Grafana仪表板，用于SBCL和Hunchentoot指标（内存，线程，每秒请求数……）.  [MIT] [200].
 * [cl-sentry-client](https://github.com/mmontone/cl-sentry-client)  -Common Lisp（基于云的错误监视系统）的Sentry客户端.  [MIT] [200].
-
+* [rollbar.lisp](https://github.com/adventuring/rollbar.lisp) -接口 [Rollbar.com](https://rollbar.com/)，一个错误跟踪软件.
 
 
 第三方API
@@ -866,7 +866,7 @@ Others
   图形中常用的矩阵. 它提供了一些数值
   功能也可以，但这些不是重点. 图书馆是
   大量优化，所以它不是由漂亮
-  码.  [Artistic License 2.0] [51].
+  代码.  [Artistic License 2.0] [51].
 * [clem](https://github.com/slyrus/clem)  -矩阵库.  [BSD_2Clause] [17].
 
 Statistics
@@ -1078,7 +1078,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) -适用于Jupyter笔记本的Common Lisp内核 [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
 * [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)  -用于Jupyter的Common Lisp内核以及用于构建Jupyter内核的库，该库基于Robert Dodier的Maxima-Jupyter，该库基于Frederic Peschanski的cl-jupyter.  [MIT] [200].
-* [Darkmatter](https://github.com/tamamu/darkmatter) - 一个
+* [Darkmatter](https://github.com/tamamu/darkmatter) - 一种
   笔记本样式的通用Lisp环境.  [MIT] [200].
 
 ## REPLs ##
@@ -1159,7 +1159,7 @@ Caching
 * [clache](https://github.com/html/clache)  -常规缓存设施.  [LLGPL] [8].
 
 
-压缩/解压
+压缩/解压缩
 ---------------------------
 
 * [chipz](https://github.com/froydnj/chipz)  -减压库.  [3子BSD] [15].
@@ -1253,7 +1253,7 @@ Lisp核心.
   （替换 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
   因此，在许多实施方式中都可以使用.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) -类似于POSIX的系统上的轻量级操作系统界面（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
-* [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一个
+* [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一种
   实用程序集合，以帮助使用路径名
   操作.  [Artistic License 2.0] [51].
 * [ppath](https://github.com/fourier/ppath) -普通Lisp
@@ -1325,7 +1325,7 @@ Plotting
 * [vgplot](https://github.com/volkers/vgplot) -的接口
   gnuplot绘图实用程序，旨在类似于
   八度或matlab的绘图命令.  [GPL3] [2].
-* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
+* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一种
    lispy，无结构的Gnuplot库. 与它
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
 * [kai](https://github.com/komi1230/kai)  -Common Lisp的高级绘图仪库. 包装纸 [Plotly](https://plotly.com/javascript/)  JS库.  [MIT] [200].
