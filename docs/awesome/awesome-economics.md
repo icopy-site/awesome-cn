@@ -73,7 +73,7 @@ Writing
 
 Computing
 
-* [Stata](http://www.stata.com/) - An industry standard for statistical computations in economics. Free alternatives:
+* [Stata](http://www.stata.com/)  -经济学中统计计算的行业标准. 免费替代品：
   - [IPython](http://ipython.org/)  -基于Python的环境. 计量经济学分析是使用免费软件包完成的：statsmodels，SciPy，NumPy，pandas.
   - [RStudio](https://www.rstudio.com/)  -基于R的环境.  R是统计学家中的标准语言，因此R存储库通常包含其他语言无法提供的专用库.
 * [Matlab](http://www.mathworks.com/products/matlab/)  -经济学建模和数值优化的行业标准. 免费替代品：
@@ -110,15 +110,16 @@ Reviews
   - [EconAcademics.org](http://econacademics.org/)
   - [Economist's View](http://economistsview.typepad.com/) -马克·托马
   - [Grasping Reality](http://delong.typepad.com/) - Brad DeLong
-  - [Marginal Revolution](http://marginalrevolution.com/) -泰勒·科恩（Tyler Cowen）和亚历克斯·塔巴洛克（Alex Tabarrok）
+  - [Marginal Revolution](http://marginalrevolution.com/) -泰勒·科恩（Tyler Cowen）和亚历克斯·塔巴罗克（Alex Tabarrok）
   - [VOX CEPR](http://www.voxeu.org/) -CEPR成员
 * [Economics Blog Search](https://cse.google.com/cse/publicurl?cx=002720237717066476899:i_zfef5fawa) -针对上述博客的基于Google的搜索服务.
 * [AEA Blog Directory](https://www.aeaweb.org/rfe/showCat.php?cat_id=96) -主要经济博客列表.
-* [StackExchange Economics](http://economics.stackexchange.com/) -一个问答网站，您可以在那里提问和回答问题.
+* [StackExchange Economics](http://economics.stackexchange.com/) - A Q&A website where you can ask and answer questions.
  * Reddit-流行的新闻聚合器. 有许多与经济学有关的部分，例如：
   - [/r/GoodEconomics/](https://www.reddit.com/r/GoodEconomics/) -有关经济问题的部分作品.
   - [/r/EconPapers/](https://www.reddit.com/r/EconPapers/) -讨论经济论文.
-
+* Discord-流行的聊天平台
+  - [Academic Economics](https://discord.gg/n9V7hjNtPV) -一个设有讨论经济问题并帮助成员进行练习的房间的社区
 
 ## Career
 

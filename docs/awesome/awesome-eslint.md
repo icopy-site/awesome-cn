@@ -139,7 +139,7 @@
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释的规则（包括@example中的JavaScript）.
 -罗达斯
   - [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起毛规则.
-  - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
+  - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
   - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
   - [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) （用于Lodash和Underscore.js）
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -Mongodb本机Node.js驱动程序添加规则.
@@ -148,6 +148,7 @@
 
 ### Misc
 
+- [Diff](https://github.com/paleite/eslint-plugin-diff)  -仅在更改的行上运行ESLint. 还支持CI！
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) -有关ESLint指令注释的最佳做法（`/ * eslint-disable * /`等）.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) -用于整理ESLint插件的ESLint插件.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  -其他规则.
@@ -199,7 +200,7 @@
 - [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) -来自的规则 [`.editorconfig`](https://editorconfig.org/).
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) -确保JavaScript文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) -易于自动修复的导入排序.
-- [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) -针对ESLint的开关案例特定的插入规则.
+- [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 - [padding](https://github.com/mu-io/eslint-plugin-padding) -允许/禁止语句之间的填充.
 
 ### Testing Tools

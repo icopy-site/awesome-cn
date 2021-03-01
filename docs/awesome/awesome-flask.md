@@ -27,23 +27,23 @@
 #### RESTful API + Swagger/OpenAPI Documentation Support
 
 - [Connexion](https://connexion.readthedocs.io) -基于Flask构建的基于OpenAPI的开源REST框架.
-- [Flask-Rebar](https://github.com/plangrid/flask-rebar) -结合烧瓶 [marshmallow](https://marshmallow.readthedocs.io/)和 [OpenAPI](https://www.openapis.org/) 用于强大的REST服务.
+- [Flask-Rebar](https://github.com/plangrid/flask-rebar) -结合烧瓶 [marshmallow](https://marshmallow.readthedocs.io/)， 和 [OpenAPI](https://www.openapis.org/) 用于强大的REST服务.
 - [Flask-RESTX](https://flask-restx.readthedocs.io) -社区驱动 [Flask-RESTPlus](https://flask-restplus.readthedocs.io/) 使用Flask可以轻松构建和记录RESTful API.
 
 #### Swagger/OpenAPI Documentation Support
 
 - [Flask-APISpec](https://flask-apispec.readthedocs.io/) -自动记录REST API.
-- [SAFRS: Python OpenAPI & JSON:API Framework](https://github.com/thomaxxl/safrs) -SAFRS是* S * ql * A * lchemy * F * lask- * R * est * * S * wagger的首字母缩写，旨在帮助开发人员为SQLAlchemy数据库对象和关系创建自文档化JSON API.
+- [SAFRS: Python OpenAPI & JSON:API Framework](https://github.com/thomaxxl/safrs) -SAFRS是* S * ql * A * lchemy * F * lask- * R * est * * S * wagger的首字母缩写，旨在帮助开发人员为SQLAlchemy数据库对象和关系创建自记录JSON API.
 
 ### Auth
 
 #### Basic Auth and Session-based (for HTML Endpoints)
 
-- [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io) -身份验证.
+- [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io) - 验证.
 - [Flask-Login](https://flask-login.readthedocs.io/) -帐户管理和身份验证.
-- [Flask Principal](https://pythonhosted.org/Flask-Principal/) -授权.
+- [Flask Principal](https://pythonhosted.org/Flask-Principal/) - 授权.
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) -帐户管理，身份验证，授权.
-- [Flask-SimpleLogin](https://github.com/flask-extensions/flask_simplelogin) -身份验证.
+- [Flask-SimpleLogin](https://github.com/flask-extensions/flask_simplelogin) - 验证.
 - [Flask-User](https://flask-user.readthedocs.io) -帐户管理，身份验证，授权.
 
  &gt;对Flask-User和Flask-Security之间的差异感到好奇吗？ 查看烧瓶用户 [FAQ](https://flask-user.readthedocs.io/en/latest/faq.html).
@@ -91,7 +91,7 @@
 - [Flask-Migrate](https://flask-migrate.readthedocs.io) -通过Alembic处理SQLAlchemy数据库迁移.
 
 <!--lint ignore double-link-->
- &gt;对Alembic，Flask-Alembic，Flask-Migrate和Flask-DB之间的差异感到好奇吗？ 评论 [this item](https://github.com/nickjj/flask-db#differences-between-alembic-flask-migrate-flask-alembic-and-flask-db) 从Flask-DB的常见问题解答中获取.
+ &gt;对Alembic，Flask-Alembic，Flask-Migrate和Flask-DB之间的差异感到好奇吗？ 审查 [this item](https://github.com/nickjj/flask-db#differences-between-alembic-flask-migrate-flask-alembic-and-flask-db) 从Flask-DB的常见问题解答中获取.
 
 #### Other Tools
 
@@ -169,6 +169,7 @@
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) -Flask路由的速率限制功能.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) -用于Jinja2模板的Moment.js日期和时间格式帮助器.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) -分页支持.
+- [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) -用于Python子进程API的RESTful / HTTP包装器，因此您可以将任何命令行工具转换为RESTful API服务.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) -生成站点地图.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) -Socket.IO集成.
 
@@ -179,7 +180,7 @@
 - [Project Website](https://palletsprojects.com/p/flask/) -Flask官方网站.
 <!--lint ignore double-link-->
 - [Documentation](https://flask.palletsprojects.com) -有关所有Flask版本的综合文档.
-- [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) -构建一个名为Flaskr的基本博客应用程序.
+- [Flaskr Tutorial](https://flask.palletsprojects.com/tutorial/) - Build a basic blog application called Flaskr.
 - [Source Code](https://github.com/pallets/flask) -托管在GitHub上.
 
 ### External Resources
@@ -221,7 +222,7 @@
 ### Podcasts
 
 - [TalkPython](https://talkpython.fm/) -领先的Python播客，包含Flask上的几集内容.
-- [Podcast Init](https://www.pythonpodcast.com/) -流行的Python播客，有时会邀请Flask来宾参加.
+- [Podcast Init](https://www.pythonpodcast.com/) -流行的Python播客，有时会邀请Flask来宾.
 - [Python Bytes](https://pythonbytes.fm/) -另一个不时讨论Flask的Python播客.
 - [Full Stack Python's Best Python Podcasts Page](https://www.fullstackpython.com/best-python-podcasts.html) -活动的特定于Python的播客列表.
 
@@ -301,7 +302,7 @@ Compute:
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) -简单，快速的应用程序开发框架，其中包括详细的安全性，为模型自动生成CRUD，Google图表等等.
 - [flask-base](http://hack4impact.github.io/flask-base/) -包括SQLAlchemy，Redis，用户身份验证等.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) -集成的SQLAlchemy，身份验证和Bootstrap前端.
-- [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) -带有uWSGI和Nginx的Docker映像，用于在单个容器中运行的Python中的Flask应用程序.
+- [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) -在单个容器中运行带有uWSGI和Nginx for Flask应用程序的Docker映像.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) -Flask JWT后端和带有Material UI的React / Redux前端的样板应用程序.
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) -带有Flask的Angular 6，Bootstrap 4和REST API中的原型数据库驱动的Web应用程序.
 - [Flask-VueJS](https://github.com/marcuxyz/flask-vuejs) -将Flask应用程序与VueJS连接.
@@ -320,7 +321,7 @@ Compute:
 - [Security Monkey](https://github.com/Netflix/security_monkey) -监视AWS，GCP，OpenStack和GitHub组织的资产及其随时间的变化.
 - [SecureDrop](https://github.com/freedomofpress/securedrop) -开源举报人提交系统，媒体组织可以使用该系统安全地接受匿名来源的文档并与之进行通信.
 - [SimpleLogin](https://github.com/simple-login/app) -使用电子邮件别名保护您的在线身份.
-- [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) -Git托管服务（签出 [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
+- [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) -Git托管服务（签出 [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) 以及）.
 - [Timesketch](https://github.com/google/timesketch) -协作取证时间表分析.
 
 ---

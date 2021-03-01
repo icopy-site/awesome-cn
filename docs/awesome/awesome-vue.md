@@ -41,12 +41,12 @@
 - [WebTechSurvey.com](https://webtechsurvey.com/technology/vue.js) -使用Vue.js Javascript框架创建的大量网站.
 - [Vue Mastery](https://www.vuemastery.com/) -Vue开发人员的终极学习资源
 - [Vue 3 Video Playlist](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) -惊人的Vue 3教程和实验
-- [Vue.js Workshops](https://public.vuejsworkshops.com) -通过构建3个应用程序，在浏览器中学习Vue 2：登陆页面，Todos应用程序和Podcast聚合器.（Vue.js，Vue-Router，Vuex，Vue-Axios，Vue-Apollo）
+- [Vue.js Workshops](https://public.vuejsworkshops.com) -通过构建3个应用程序，在浏览器中学习Vue 2：登陆页面，Todos App和Podcasts聚合器.（Vue.js，Vue-Router，Vuex，Vue-Axios，Vue-Apollo）
  - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) -各种Vue 2和3教程和文章.
 
 ### Job Portal
 
-- [Vue.js Jobs - VueJobs](https://vuejobs.com/) -一个Vue.js工作门户网站，可为您所有的Vue.js工作招聘或雇用.
+- [Vue.js Jobs - VueJobs](https://vuejobs.com/) -一个Vue.js工作门户网站，可为您所有的Vue.js工作招聘或被录用.
 - [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) -300个VueJS面试问答
 - [Prokarman Resume Builder](https://prokarman.com/) -一个免费的简历生成器，可为您的梦想工作制作简历.
 
@@ -332,7 +332,7 @@
 - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) Vue.js拖放组件可将文件无服务器上传到AWS S3
 - [**easy-vue**](https://github.com/TIGERB/easy-vue) 一个简单的示例，使用vue通过vue 2.0，vuex 2.0，vue-router 2.0，vue-infinite-scroll 2.0，vue-progressbar 2.0实现了简单的Web [TIGERB](https://github.com/tigerb)
 - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) 经过 [Metric Loop](https://metricloop.com/blog)
-- [vue-memo](https://github.com/akifo/vue-memo) 一个简单的演示版本，包含Vue.js（&gt; 2.x.），vue-router（&gt; 2.x.），vuex（&gt; 2.x.），vuex-router-sync @ next（&gt; 3.x.）和Firebase（&gt; 3.6.x）通过 [akifo](https://github.com/akifo)
+- [vue-memo](https://github.com/akifo/vue-memo) 一个简单的演示版本，使用Vue.js（&gt; 2.x.），vue-router（&gt; 2.x.），vuex（&gt; 2.x.），vuex-router-sync @ next（&gt; 3.x.）和Firebase（&gt; 3.6.x）通过 [akifo](https://github.com/akifo)
 - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) 基于Vue 2.0的基于JSON的简历 [ChangJoo Park](https://github.com/ChangJoo-Park/)
 - [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) 使用`Phoenix Framework`，** Vue **和** Vue Router **（[_**demo**_](https://phoenix-vue-auth.herokuapp.com))
 - [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) 经过 [@shershen08](https://github.com/shershen08)
@@ -463,7 +463,7 @@
 - [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) 由Packt的Aneeta Sharma撰写.  （2018年5月）
 - [The Vue Handbook](https://vuehandbook.com) 由Flavio Copes提供.  （2018年7月）
 - [ASP.NET Core 2 and Vue.js](https://www.amazon.com/dp/1788839463) 由Packt的Stuart Ratcliffe提供.  （2018年7月）
-- [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue) 由Code House的Caio Incau撰写.  （2017年9月）
+- [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue) 密码屋的Caio Incau  （2017年9月）
 - [Getting to Know Vue.js](https://www.apress.com/us/book/9781484237809) 由Apress的Brett Nelson撰写.  （2018年8月）
 - [Vue: Build & Deploy](https://leanpub.com/vue-book) 由Leanpub的Daniel Schmitz撰写.  （2018年9月）
 - [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) 由Packt的James J. Ye.  （2018年10月）
@@ -813,7 +813,7 @@
 - [sunpos](https://sunpos.ru)  -太阳位置，仰角，方位角，黄道/赤道坐标和日出/日落时间（朱利安日）计算和转换实用程序. 使用纯JS，Vuejs和i18n Vuejs本地化插件对网站进行编程. 可视化是使用D3.js创建的.
 - [U3xyz](https://u3xyz.com) -基于vue ssr的个人博客.
 - [27.ua](https://27.ua) -乌克兰的互联网大卖场
-- [Chess Guardian](http://vitomd.com/vue-chess-guardian/) -在您自己的游戏中回答国际象棋的位置问题.
+- [Chess Guardian](http://vitomd.com/vue-chess-guardian/) -从您自己的游戏中回答国际象棋位置问题.
 - [Blackjack Break](https://blackjackbreak.com) -二十一点的快速游戏
 - [GameVix](https://www.gamevix.com/)  -与他人交换您使用过的视频游戏光盘，无忧. 具有材料设计的PWA.
 - [VivifyScrum](https://app.vivifyscrum.com)  -交付团队的敏捷项目管理应用程序. 可定制的Scrum和看板.
@@ -833,7 +833,7 @@
 - [Scrumpy](https://scrumpy.io/) -敏捷团队的精美项目管理工具
 - [Spektrum](https://spektrummedia.com/) -Spektrum Media Agency网站
 - [SPK](https://www.spk.rocks/) SPK生态系统网站
-- [IDDEF](https://www.iddef.org/) ☪️重视人类的网页，CMS，CRM和捐赠以及所有电子商务页面的协会联合会均使用Vue.js，Vuex和纯JavaScript设计 
+- [IDDEF](https://www.iddef.org/) Value️重视人类的网页，CMS，CRM和捐赠以及所有电子商务页面的协会联合会均使用Vue.js，Vuex和纯JavaScript设计 
 - [Configuration File Management](http://www.configapp.com/) -一种管理配置文件的简单方法
 - [Roast](https://roastandbrew.coffee/) 该应用程序旨在帮助咖啡爱好者在学习Laravel + Vue.js的同时找到下一杯咖啡.
 - [YBR](https://yangonbusreport.org)  -集中的YBS公共电子投诉管理系统.  （全SPA）
@@ -1030,7 +1030,7 @@ _表格/数据网格_
 - [el-data-table](https://github.com/FEMessage/el-data-table) -基于element-ui，轻松实现结队
 - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) -用于Bootstrap的基于插件的高性能Vue数据网格.
 - [vue-ads-table-tree](https://github.com/arnedesmedt/vue-ads-table-tree)  -具有过滤，排序和分页功能的vue Table组件. 行可以具有子行，因此可以构建树结构. 它还支持异步调用以从后端加载行. 它是使用CSS框架“ tailwindcss”构建
-- [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) -数据透视表的Vue组件
+- [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table
 - [vue-teible](https://github.com/hiendv/teible) -用于Web的轻巧灵活的表组件：zap：
 - [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) -具有过滤，排序，编辑，分组，数据导出和其他功能的Vue数据网格.
 - [vue-jqxpivotgrid](https://github.com/jqwidgets/vue/tree/master/pivotgrid) -具有枢轴设计器的Vue枢轴数据网格，钻取单元格，枢轴功能.
@@ -1403,6 +1403,7 @@ _在日历中显示不可编辑的事件_
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar)  -这是一个基于Vue的组件，提供了显示每日事件的全日历功能. 这 [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) -VueJS轻型包装组件，用于 [jquery ui datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) -易于使用的组件，用于显示某人的日程表，以帮助进行采访安排或访问安排.
+- [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro)  -阴历的Vue组件. 使用calendar.js进行日期操作.
 
 #### Map
 
@@ -2111,7 +2112,7 @@ _组件集+响应式布局系统_
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) -⚡轻巧且可自定义的组件库，可帮助您快速构建可访问的Vue应用程序和站点.
 - [vue-canvas](https://github.com/loo41/vuc) -Vue画布组件 [vuc-identify](http://vuc.tianchenyong.top)
 - [oruga](https://github.com/oruga-ui/oruga) -没有CSS框架依赖性的Vue.js的UI组件.
-- [Wave UI](https://github.com/antoniandre/wave-ui)  -面向Vue.js的新兴UI框架，但只有光明的一面.  ☀️
+- [Wave UI](https://github.com/antoniandre/wave-ui)  -面向Vue.js的新兴UI框架，但只有一面.  ☀️
 - [vectre](https://github.com/vectrejs/vectre) -基于以下内容的轻量级，简单且响应迅速的组件框架 [Spectre CSS](https://picturepan2.github.io/spectre/)
 - [element3](https://github.com/kkbjs/element3) -用于Web的Vue.js 3.0 UI工具包基于element-ui
 - [superBVue](https://github.com/superbvue/SuperBVue) -Web的Vue 3 UI组件基于boostrap v5
@@ -2622,7 +2623,7 @@ _国际化/ L10n /本地化/翻译_
 - [vue-event-manager](https://github.com/pagekit/vue-event-manager) -Vue.js的全局事件管理器.
 - [vue-geb](https://github.com/vouill/vue-geb) -使用Observables的全局事件总线.
 - [vue-bus](https://github.com/fffixed/vue-bus) -适用于Vue.js 2的微型简单中央事件总线插件.
-- [vue-simple-events](https://github.com/VeryWow/vue-simple-events) - Yet another event management plugin, but WITHOUT Vue instance
+- [vue-simple-events](https://github.com/VeryWow/vue-simple-events) -另一个事件管理插件，但没有Vue实例
 - [vue-option-events](https://github.com/Cweili/vue-option-events) -将Vue.js 1事件选项和\ $ emit带到Vue.js 2.
 - [vue-emit](https://github.com/denisinvader/vue-emit) -辅助函数，用于从功能组件中发出事件.
 - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) -具有自动订阅控制的Vue.js应用程序的简单全局事件总线.
@@ -2644,7 +2645,7 @@ _LocalStorage等_
 - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Vue.js应用程序的浏览器存储
 - [vue-warehouse](https://github.com/bazzite/vue-warehouse) 用于Vue.js和Nuxt.js的跨浏览器存储，具有基于Store.js的插件支持和易扩展性.
 - [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) -具有强类型的Vue.js的反应性localStorage / sessionStorage插件.
-- [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage) -组合api，用于将反应性数据持久化并重新水化到vue 3的本地存储中.
+- [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage) -组合api，用于将反应性数据持久化并重新水化到vue 3的本地存储.
 
 #### State Management
 
@@ -3044,7 +3045,7 @@ _文本编辑器插件_
 - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets) -Vue组件文件的Atom代码段.
 - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile) -保存时自动编译vue文件.
 - [lint-sass-vue@atom.io](https://github.com/fsblemos/lint-sass-vue) -Atom.io包，用于在.vue文件中添加Sass / SCSS.
-- [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) -适用于JavaScript和组件的Atom代码段，包括生命周期挂钩，指令，属性，vuex，vue-router和vue-i18n支持.
+- [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) -用于javascript和组件的Atom代码段，包括生命周期挂钩，指令，属性，vuex，vue-router和vue-i18n支持.
 - [vue2-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue2-autocomplete) -Atom的Vue.js 2.0+自动完成功能.
 
 ##### Sublime Text

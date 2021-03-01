@@ -20,7 +20,21 @@
 	要加入R Discord服务器，请单击下面的discoRd徽章.<br>
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
+<br>
+</div>
+<br>
 
+<div align="center">
+
+黑人的命也是命.
+<br>
+请考虑捐赠给 [Black Girls Code](https://www.blackgirlscode.com/donations.html) 今天.
+<br>
+<br>
+对亚裔美国人的种族主义和仇恨犯罪必须结束.
+<br>
+请考虑制作一个 [donation in support of Asian communites](https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html) 今天.
+<br>
 </div>
 
 <br>
@@ -132,17 +146,17 @@
 - [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) -本书旨在指导那些完全不熟悉R的人员使用R.作者：Derek L. Sonderegger.
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  -本书介绍了统计学习方法. 作者：Gareth James，Daniela Witten，Trevor Hastie和Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) -本书专为希望加深对R语言的理解的R程序员以及其他语言的经验丰富的程序员而想了解R的不同之处和特殊之处. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) 作者：Hadley Wickham.
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) -对R的介绍源于一组原始的笔记，这些笔记描述了1990年2月由Bill Venables和David M. Smith在阿德莱德大学任教的S和S-Plus环境.
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) -对R的介绍源于一组原始的注释，这些注释描述了1990年2月由阿德莱德大学的Bill Venables和David M. Smith撰写的S和S-Plus环境.
 - [Answering Questions with Data](https://crumplab.github.io/statistics/)  -这是一本免费的教科书，供心理学专业的本科生入门. 该教科书的编写考虑了数学恐惧症，并试图减少与算术计算相关的恐惧症. 作者：Matthew JC Crump.
 - [Data Science in Education Using R](https://datascienceineducation.com/)  -本书主要是关于学习将R用作教育中数据科学的工具. 作者：Ryan A. Estrellado，Emily A. Bovee，Jesse Mostipak，Joshua M. Rosenberg和Isabella C.Velásquez.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)  -高效的R编程是要在给定的时间内增加R可以完成的工作量. 它与计算效率和程序员效率有关. 作者：Colin Gillespie，Robin Lovelace.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)  -本书涵盖了构建Shiny应用程序的过程，该应用程序随后将被发送到生产环境. 作者：Colin Fay，SébastienRochette，Vincent Guyader，Cervan Girard.
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索性技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)  -本书是关于利用计算机的功能来处理地理数据. 它教授一系列的空间技能，包括阅读，书写和处理地理数据； 制作静态和交互式地图； 应用地理计算来解决现实世界中的问题； 并模拟地理现象. 作者：罗宾·洛夫莱斯（Robin Lovelace），雅库布·诺沃萨德（Jakub Nowosad），珍妮丝·穆恩谢（Jannes Muenchow）.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)  -本书提供了ggplot2的动手入门，其中包含许多示例代码和图形. 它还说明了ggplot2所基于的语法. 作者：Hadley Wickham.
 - [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) -这本电子书旨在帮助您开始使用R中的字符串进行操作.作者：Gaston Sanchez.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)  -Happy Git就如何安装Git以及如何使其在GitHub和RStudio IDE中与GitHub顺利运行提供了可靠的指导，开发了一些涵盖您最常见任务的关键工作流程，并将Git和GitHub集成到您的日常工作中R和R Markdown. 作者：珍妮·布赖恩（Jenny Bryan），STAT 545 TA，吉姆·海斯特（Jim Hester）.
-- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用插入符号构建算法，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. 作者：Rafael A. Irizarry教授.
+- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用插入符号进行算法构建，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. . 作者：Rafael A. Irizarry教授.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  -本文档简要介绍了R.它强调了您需要了解的才能在任何上下文中使用该语言. 作者：罗伯特·希曼斯教授.
 - [JavaScript for R](https://book.javascript-for-r.com/)  -这项工作的最终目的是向读者展示邀请JavaScript进入其数据科学工作流程可以带来的许多巨大好处. 作者：约翰·科恩（John Coene）.
 - [Learning Statistics with R](https://learningstatisticswithr.com/)  -使用R学习统计涵盖了入门统计课的内容，通常是针对本科心理学学生而讲授的，重点是R统计软件的使用. 作者：Danielle Navarro.
@@ -187,7 +201,7 @@
 - [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) -在线课程“使用R进行数据分析和可视化”的主题.
 - [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) -主题包括时间序列，使用ggraph和tidytext分析单词关系以及tidymodel.
 - [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA) -加州大学伯克利分校的R Bootcamp播放列表包括有关R基础知识，处理数据，执行计算，编程，图形，工作流和统计信息的视频.
-- [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)  -主题包括EDA图形化，数据处理，动画映射，可视化，文本挖掘，时间序列，预测，回归，自举，软件包开发，网络图，ANOVA，JSON，模拟，生存分析和测度. 请点击 [here](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) 有关详细的TidyTuesday屏幕录像注释.
+- [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)  -主题包括EDA图形化，数据处理，动画映射，可视化，文本挖掘，时间序列，预测，回归，自举，软件包开发，网络图，ANOVA，JSON，模拟，生存分析和测度. 点击 [here](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) 有关详细的TidyTuesday屏幕录像注释.
 - [Dean Attali](https://www.youtube.com/c/DAattali/videos) -Shiny，包括一些调试Shiny的视频.
 - [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) -主题包括数值计算，生成随机游动，马尔可夫链，对分类变量进行编码，概率，相关图，特征工程，时间序列，二进制分类器，模型，数据表，混淆矩阵，机器学习，地理编码，摘要统计和模拟.
 - [IDG TECHtalk](https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv) -“用R做更多”播放列表包括有关闪亮，data.table，获取API数据，将Git和Github与R一起使用，编写自己的程序包，在R代码中运行Python，RStudio插件和键盘快捷键，仪表板和Flexdashboard的教程.
@@ -196,7 +210,7 @@
 - [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures/featured) -主题包括描述性统计，方差分析，自举，线性回归，双变量分析和概率分布.
 - [Numyard](https://www.youtube.com/c/TheLearnR/videos) -主题包括使用数据框，循环，基本数学，向量，列表，创建函数，数据类型和随机采样.
 - [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) -主题包括粘贴功能，应用族功能，while和for循环，条件语句，可视化，删除NA和合并数据.
-- [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) -R播放列表包括有关使用dplyr处理数据，使用ggplot2和ggThemeAssist可视化数据，数据类型和结构，重要的r函数，使用lubridate处理日期时间，使用forcat克服因素，使用stringer处理文本的视频. 
+- [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) -R播放列表中的视频包括有关使用dplyr处理数据，使用ggplot2和ggThemeAssist可视化数据，数据类型和结构，重要的基本r函数，使用lubridate处理日期时间，使用forcat克服因素，使用stringer处理文本的视频. 
 - [Shiny Developer Series](https://www.youtube.com/c/ShinyDeveloperSeries/videos) -Shiny Developer Series的目标是展示不断增长的Shiny生态系统中的创新应用程序和软件包，以及背后的才华横溢的开发人员！ 
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG) -R Programming for Beginners播放列表包括有关数据科学，图表，数据可视化，算法，业务分析，回归，随机森林，SVM，聚类，时间序列，建模和分析技术的视频.
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) -有关如何解决使用R时将遇到的常见问题的简短而详细的教程的集合.主题包括数据格式设置，数据重新排序，字符串和ggplot2.

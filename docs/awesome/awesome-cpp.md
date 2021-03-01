@@ -17,7 +17,7 @@
 * C ++通用框架和库.
 
 * [abseil-cpp](https://github.com/abseil/abseil-cpp)  -Abseil C ++通用库.  [Apache2]
-* [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
+* [Apache C++ Standard Library](http://stdcxx.apache.org/)  -STDCXX，算法，容器，迭代器和其他基本组件的集合.  [已退休] [Apache2]
 * [APR](http://apr.apache.org/)  -Apache可移植运行时. 另一个跨平台实用程序函数库.  [Apache2]
 * [ASL](http://stlab.adobe.com/)  -Adobe Source Libraries提供了经过同行评审的可移植C ++源库.  [麻省理工学院]
 * [Boost](https://github.com/boostorg)  ：zap：-大量的通用C ++库.  [促进] [website](http://www.boost.org/)
@@ -25,7 +25,7 @@
 * [C++ Workflow](https://github.com/sogou/workflow)  -C ++并行计算和异步网络引擎.  [Apache2]
 * [Cinder](https://libcinder.org/)  -社区开发的免费开放源代码库，用于提供专业质量的创意编码.  [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  -一个小的仅标头的库，它将各种功能从最新的C ++标准向后移植到C ++ 03及更高版本.  [麻省理工学院]
-* [Dlib](https://github.com/davisking/dlib) ：zap：-使用C ++制作现实世界中的机器学习和数据分析应用程序的工具包 [website](http://dlib.net/)
+* [Dlib](https://github.com/davisking/dlib) ：zap：-使用C ++制作现实世界中的机器学习和数据分析应用程序的工具包[提升] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  -电子艺术标准模板库.  [BSD]
 * [ETL](https://github.com/ETLCPP/etl)  -嵌入式模板库.  [麻省理工学院]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp)  -企业应用程序开发框架.  [Apache2]
@@ -49,7 +49,7 @@
 * [Ultimate++](http://www.ultimatepp.org/)  -C ++跨平台快速应用程序开发框架.  [BSD]
 * [uSTL](http://msharov.github.io/ustl/)  -小型STL库.  [麻省理工学院]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/)  -用于开发Windows应用程序和UI组件的C ++库.  [上市]
-* [Yomm2](https://github.com/jll63/yomm2)  -快速，正交，开放式多种方法. 取代 [Yomm11](https://github.com/jll63/yomm11) [促进]
+* [Yomm2](https://github.com/jll63/yomm2)  -快速，正交，开放式多种方法. 取代 [Yomm11](https://github.com/jll63/yomm11) [Boost]
 
 ## Artificial Intelligence
 
@@ -120,7 +120,7 @@
 * [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
 ## Chemistry
-*Chemistry, Geochemistry, Biochemistry*
+*化学，地球化学，生物化学*
 
 * [d-SEAMS](https://github.com/d-SEAMS/seams-core)  -带有Nix的C ++和Lua中的分子动力学轨迹分析引擎. 它是分子模拟的递延结构阐明分析的首字母缩写.  [GPL] [website](https://dseams.info)
 * [gromacs](https://github.com/gromacs/gromacs)  -消息传递并行分子动力学实现.  [GPL] [website](http://gromacs.org)
@@ -172,7 +172,7 @@
 * [Minizip](https://github.com/nmoinvaz/minizip)  -Zlib具有最新的错误修复程序，支持PKWARE磁盘扩展，AES加密和IO缓冲.  [zlib]
 * [smaz](https://github.com/antirez/smaz)  -小字符串压缩库.  [BSD]
 * [Snappy](https://google.github.io/snappy/)  -快速压缩器/解压缩器.  [BSD]
-* [ZLib](http://zlib.net/)  -用于数据流的非常紧凑的压缩库.  [zlib]
+* [ZLib](http://zlib.net/) - A very compact compression library for data streams. [zlib]
 * [zlib-ng](https://github.com/Dead2/zlib-ng)  -用于“下一代”系统的zlib. 直接替换，并进行了一些认真的优化.  [zlib]
 * [zstd](https://github.com/facebook/zstd)  -Zstandard-快速实时压缩算法. 由Facebook开发.  [BSD]
 * [ZZIPlib](http://zziplib.sourceforge.net/)  -提供对ZIP归档文件的读取访问权限.  [MPL / LGPL]
@@ -228,7 +228,7 @@
 * [iniparser](https://github.com/ndevilla/iniparser)  -INI文件解析器.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
-* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供了一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
 * [toml++](https://github.com/marzer/tomlplusplus)  -C ++ 17及更高版本的仅标头TOML解析器和序列化器.  [麻省理工学院] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
@@ -842,6 +842,11 @@
 * [TinyXML++](https://github.com/rjpcomputing/ticpp)  -TinyXML的全新接口，使用了许多C ++优势. 模板，异常和更好的错误处理.  [麻省理工学院]
 * [Xerces-C++](http://xerces.apache.org/xerces-c/)  -用C ++的可移植子集编写的验证XML解析器.  [Apache2]
 
+## Yaml
+
+* [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)  -单头YAML 1.0 C ++ 11序列化器/解串器.  [麻省理工学院]
+* [yaml-cpp](https://github.com/jbeder/yaml-cpp) -C ++中的YAML解析器和发射器[MIT]
+
 ## Miscellaneous
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
@@ -948,7 +953,7 @@
 * [KDevelop](https://www.kdevelop.org/) -免费的开源IDE.
 * [Microsoft Visual Studio](https://www.visualstudio.com/) -来自Microsoft的IDE.
 * [Microsoft Visual Studio Code](https://code.visualstudio.com/)  ：zap：-来自Microsoft的开源IDE.  [麻省理工学院]
-* [NetBeans](https://netbeans.org/) -一个IDE，主要使用Java开发，也可以使用其他语言（特别是PHP，C / C ++和HTML5）进行开发.
+* [NetBeans](https://netbeans.org/) -一个IDE，主要使用Java开发，也可以使用其他语言（尤其是PHP，C / C ++和HTML5）开发.
 * [Qt Creator](http://www.qt.io/developers/) ：zap：-跨平台的C ++，JavaScript和QML IDE，它是Qt SDK的一部分.
 * [rtags](https://github.com/Andersbakken/rtags) -用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
 * [Xcode](https://developer.apple.com/xcode/) -由Apple开发.
