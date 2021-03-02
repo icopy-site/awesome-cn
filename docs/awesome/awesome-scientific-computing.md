@@ -7,8 +7,8 @@
 &gt;用于科学计算和数值分析的有用资源.
 
 科学计算和数值分析是旨在提供
-借助以下方法解决科学各个领域的大规模问题的方法
-电脑. 典型的问题是常微分方程和偏微分方程（ODE，
+借助以下方法解决来自科学各个领域的大规模问题的方法
+电脑. 典型的问题是常微分方程和偏微分方程（ODE），
 PDE），离散化和线性代数问题的解
 them.
 
@@ -18,15 +18,15 @@ them.
 
 ## Basic linear algebra
 
-- [BLAS](https://www.netlib.org/blas/) -用于执行基本矢量和矩阵运算的标准构件.
+- [BLAS](https://www.netlib.org/blas/) -用于执行基本向量和矩阵运算的标准构建块.
   （Fortran，公共领域， [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
-- [OpenBLAS](https://www.openblas.net) -基于GotoBLAS2的优化BLAS库.
+- [OpenBLAS](https://www.openblas.net) -基于GotoBLAS2的优化的BLAS库.
   （C和汇编，BSD， [GitHub](https://github.com/xianyi/OpenBLAS))
-- [BLIS](https://github.com/flame/blis) -类似于BLAS的高性能密集线性代数库.
+- [BLIS](https://github.com/flame/blis) -高性能的类似于BLAS的密集线性代数库.
   （C，BSD，GitHub）
 - [LAPACK](https://www.netlib.org/lapack/) -求解线性方程组，线性最小二乘，特征值问题等的例程.
   （Fortran，BSD， [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) -用于线性代数的C ++模板库.
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) -线性代数的C ++模板库.
   （C ++，MPL 2， [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) -高性能manycore线性代数库，专注于稀疏系统.
   （C ++，BSD， [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -38,9 +38,9 @@ them.
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) -由PDE建模的科学应用的并行解决方案.
   （C，2句BSD， [GitLab](https://gitlab.com/petsc/petsc))
-- [DUNE Numerics](https://www.dune-project.org) -使用基于网格的方法求解PDE的工具箱.
+- [DUNE Numerics](https://www.dune-project.org) -使用基于网格的方法解决PDE的工具箱.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
-- [SciPy](https://www.scipy.org) -用于统计，优化，积分，线性代数等的Python模块
+- [SciPy](https://www.scipy.org) -统计，优化，积分，线性代数等的Python模块
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) -使用Python进行科学计算所需的基本软件包.
   （Python，BSD， [GitHub](https://github.com/numpy/numpy))
@@ -56,9 +56,9 @@ them.
   （C ++，LGPL 2.1， [GitHub](https://github.com/dealii/dealii))
 - [Netgen/NGSolve](https://ngsolve.org) -高性能多物理场有限元软件.
   （C ++，LGPL 2.1， [GitHub](https://github.com/NGSolve/netgen))
-- [Firedrake](https://www.firedrakeproject.org) -使用有限元方法的PDE自动化解决方案.
+- [Firedrake](https://www.firedrakeproject.org) -使用有限元方法自动求解PDE的系统.
   （Python，LGPL 3， [GitHub](https://github.com/firedrakeproject/firedrake))
-- [MOOSE](https://mooseframework.inl.gov/) -多物理场面向对象的仿真环境.
+- [MOOSE](https://mooseframework.inl.gov/) -面向对象的多物理场仿真环境.
   （C ++，LGPL 2.1， [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) -用于有限元方法的免费，轻量级，可扩展的C ++库.
   （C ++，LGPL 2.1， [GitHub](https://github.com/mfem/mfem))
@@ -81,7 +81,7 @@ them.
   （Python，麻省理工学院，GitHub）
 - [CGAL](https://www.cgal.org) -计算几何的算法.
   （C ++，混合的LGPL / GPL， [GitHub](https://github.com/CGAL/cgal))
-- [pygalmesh](https://github.com/nschloe/pygalmesh) -CGAL的3D网格化功能的Python界面.
+- [pygalmesh](https://github.com/nschloe/pygalmesh) -用于CGAL的3D网格化功能的Python界面.
   （Python，GPL 3，GitHub）
 - [mshr](https://bitbucket.org/fenics-project/mshr/) -FEniCS的网格生成组件.
   （Python，GPL 3，Bitbucket）
@@ -97,13 +97,13 @@ them.
   （MATLAB，GPL 3）
 - [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) -一种可扩展且鲁棒的四边形方法.
   （C ++，BSD， [GitHub](https://github.com/hjwdzh/QuadriFlow))
-- [trimesh](https://trimsh.org/) -加载和使用三角网格，重点放在水密表面上.
+- [trimesh](https://trimsh.org/) -加载和使用三角形网格，重点放在水密表面上.
   （Python，麻省理工学院， [GitHub](https://github.com/mikedh/trimesh))
-- [dmsh](https://github.com/nschloe/dmsh) -由distmesh启发的非结构三角形网格的简单生成器.
+- [dmsh](https://github.com/nschloe/dmsh) -受distmesh启发，用于非结构化三角形网格的简单生成器.
   （Python，GPL 3，GitHub）
 - [pmp-library](https://www.pmp-library.org/) -多边形网格处理库.
   （C ++，MIT，雇主免责声明， [GitHub](https://github.com/pmp-library/pmp-library/))
-- [Mmg](https://www.mmgtools.org/) -健壮，开放源代码和多学科的软件，可用于重新设计.
+- [Mmg](https://www.mmgtools.org/) -强大，开放源代码和多学科的软件，可用于重新定型.
   （C，LGPL 3， [GitHub](https://github.com/MmgTools/mmg))
 - [meshplex](https://github.com/nschloe/meshplex)  -单工网格的快速工具.  （Python，GPL 3，GitHub）
 - [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) -在野外强大的四面体啮合.
@@ -132,7 +132,7 @@ them.
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) -大型，稀疏，非对称线性方程组的直接解.
   （C，主要是BSD， [GitHub](https://github.com/xiaoyeli/superlu))
-- [KryPy](https://github.com/andrenarchy/krypy) -Krylov子空间方法，用于求解线性代数系统.
+- [KryPy](https://github.com/andrenarchy/krypy) -用于线性代数系统求解的Krylov子空间方法.
   （Python，麻省理工学院，GitHub）
 - [PyAMG](https://pyamg.github.io) -Python中的代数多重网格求解器.
   （Python，麻省理工学院， [GitHub](https://github.com/pyamg/pyamg))
@@ -153,18 +153,18 @@ them.
   （Python，麻省理工学院， [GitHub](https://github.com/pyvista/pyvista))
 - [vedo](https://vedo.embl.es) -用于基于VTK对3D对象进行科学分析和可视化的库.
   （Python，麻省理工学院， [GitHub](https://github.com/marcomusy/vedo))
-- [yt](https://yt-project.org/) -用于分析和可视化体积数据的工具包.
+- [yt](https://yt-project.org/) -用于体积数据分析和可视化的工具包.
   （Python，BSD， [GitHub](https://github.com/yt-project/yt))
-- [F3D](https://kitware.github.io/F3D/) -带有科学可视化工具的跨平台，快速，简约的3D查看器.
+- [F3D](https://kitware.github.io/F3D/) -具有科学可视化工具的跨平台，快速，简约的3D查看器.
   （C ++，BSD， [GitLab](https://gitlab.kitware.com/f3d/f3d))
 - [TTK](https://topology-tool-kit.github.io/) -拓扑数据分析和可视化.
   （C ++ / Python，BSD， [GitHub](https://github.com/topology-tool-kit/ttk)).
 
 ## Other libraries and tools
 
-- [FFTW](http://www.fftw.org) -一维或多维的离散傅立叶变换，具有任意输入大小，实数和复数.
+- [FFTW](http://www.fftw.org) -在一个或多个维度上的离散傅立叶变换，具有任意输入大小，实数和复数.
   （C，GPL2， [GitHub](https://github.com/FFTW/fftw3))
-- [Qhull](http://www.qhull.org) -凸包，Delaunay三角剖分，Voronoi图，关于点的半空间交点等.
+- [Qhull](http://www.qhull.org) -凸包，Delaunay三角剖分，Voronoi图，围绕某个点的半空间交点等.
   （C / C ++， [custom open source license](http://www.qhull.org/COPYING.txt),
   [GitHub](https://github.com/qhull/qhull/))
 - [GSL](https://www.gnu.org/software/gsl/) -随机数生成器，特殊函数和最小二乘拟合等.
@@ -177,7 +177,7 @@ them.
   （Python，[自定义开源
   许可]（https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications），
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) -适用于Python的精确求和和点积.
+- [accupy](https://github.com/nschloe/accupy) -适用于Python的准确的总和和点积.
   （Python，GPL 3，GitHub）
 - [SLEPc](https://slepc.upv.es) -特征值问题计算的可扩展库.
   （C，2句BSD， [GitLab](https://gitlab.com/slepc/slepc))
@@ -191,12 +191,14 @@ them.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
   （C / MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
-- [preCICE](https://www.precice.org/) -用于分区多物理场模拟（FSI，CHT等）的耦合库.
+- [preCICE](https://www.precice.org/) -用于分区多物理场仿真（FSI，CHT等）的耦合库.
   （C ++，LGPL 3， [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) -有效地计算正交多项式.
   （Python，GPL 3，GitHub）
 - [pyGAM](https://pygam.readthedocs.io/en/latest/) -Python中的通用加性模型.
   （Python，Apache 2.0， [GitHub](https://github.com/dswah/pyGAM))
+- [Dedalus](https://dedalus-project.org/) -用频谱方法求解偏微分方程.
+  （Python，GPL 3， [GitHub](https://github.com/DedalusProject/dedalus))
 
 ## Community
 

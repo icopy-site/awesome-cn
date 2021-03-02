@@ -22,7 +22,7 @@
 ## Dynamic type checkers
 
 - [beartype](https://github.com/beartype/beartype) -纯Python中难以置信的`O（1）`运行时类型检查. 
-- [pytypes](https://github.com/Stewori/pytypes) -提供了丰富的实用程序，用于运行时类型检查.
+- [pytypes](https://github.com/Stewori/pytypes) -提供了一组丰富的实用程序，用于运行时类型检查.
 - [pydantic](https://github.com/samuelcolvin/pydantic)  -使用Python类型提示进行数据解析. 支持数据类.
 - [typeguard](https://github.com/agronholm/typeguard) -另一个运行时类型检查器.
 - [typical](https://github.com/seandstewart/typical/)  -使用类型提示进行数据解析和自动类型强制. 支持数据类，标准类，函数签名等.
@@ -32,7 +32,6 @@
 - [Typeshed](https://github.com/python/typeshed) -具有静态类型的Python库存根的集合.
 - [django-stubs](https://github.com/typeddjango/django-stubs) -存根 [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) -存根 [DRF](https://github.com/encode/django-rest-framework).
-- [numpy-stubs](https://github.com/numpy/numpy-stubs) -[NumPy]的存根.
 <!--lint disable double-link-->
 - [dry-python/returns](https://github.com/dry-python/returns) -存根 [returns](https://github.com/dry-python/returns).
 <!--lint enable double-link-->
@@ -44,7 +43,7 @@
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) -存根 [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) -存根 [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes)  -输入WSGI应用程序实现者. 这些不是存根文件，它们是您标记为支持的接口，以帮助您对WSGI一致性进行类型检查.
-- [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) -[NumPy]的存根， [pandas](https://github.com/pandas-dev/pandas)和 [Matplotlib](https://github.com/matplotlib/matplotlib).
+- [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) -[NumPy]的存根， [pandas](https://github.com/pandas-dev/pandas)， 和 [Matplotlib](https://github.com/matplotlib/matplotlib).
 
 ## Backports and improvements
 
@@ -59,7 +58,7 @@
 
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最自以为是的python linter.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) -用于集成mypy的flake8插件.
-- [flake8-pyi](https://github.com/ambv/flake8-pyi) -Flake8插件，提供类型提示存根文件的专业化.
+- [flake8-pyi](https://github.com/ambv/flake8-pyi) -Flake8插件，提供类型提示存根文件的专业化功能.
 - [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) -flake8插件，用于验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) -flake8插件，用于检查函数定义中是否存在类型注释.
 
@@ -71,12 +70,12 @@
 
 ### Working with types
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至将草稿类型注释直接添加到您的Python代码中.
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到Python代码中.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) -pytype工具链的一部分，将存根文件应用于源代码.
 - [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.
 - [retype](https://github.com/ambv/retype) -另一个将存根应用于代码的工具.
-- [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) -从protobuf生成mypy存根的工具.
+- [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) -从protobufs生成mypy存根的工具.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) -将经过mypy注释的静态类型的Python模块编译为CPython C扩展.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) -Typeing_inspect模块定义了实验性API，用于对Python标准键入模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) -用于处理类型化对象和JSON的库.
@@ -85,14 +84,14 @@
 
 - [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) -插件 [PynamoDB](https://github.com/pynamodb/PynamoDB) 支持.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) -插件 [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) 支持.
-- [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) -插件已集成到mypy中.
+- [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) -插件已经集成到mypy中.
 - [loguru-mypy](https://github.com/kornicameister/loguru-mypy) -插件 [loguru](https://github.com/Delgan/loguru) 支持.
 
 
 ## Integrations
 
 - [mypy-PyCharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) -Mypy集成的PyCharm.
-- [vim-mypy](https://github.com/Integralist/vim-mypy) -Mypy与Vim集成.
+- [vim-mypy](https://github.com/Integralist/vim-mypy) -Vipy的Mypy集成.
 - [linter-mypy](https://atom.io/packages/linter-mypy) -用于Atom的Mypy集成.
 - [emacs-flycheck-mypy](https://github.com/lbolla/emacs-flycheck-mypy) -用于Emacs的Mypy集成.
 
@@ -133,13 +132,13 @@
 
 - [1-minute guide to real constants in Python](https://sobolevn.me/2018/07/real-python-contants) -有关`Final`常量和继承的完整教程.
 - [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) -有关“文字”类型的完整教程.
-- [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) -有关django类型检查的完整教程.
+- [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) -有关Django类型检查的完整教程.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) -有关测试mypy类型的完整教程.
 - [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) -截至2018年5月.
 
 ## Communities
 
-- [python/typing](https://gitter.im/python/typing) -官方打字聊天.
+- [python/typing](https://gitter.im/python/typing) -官方输入Gitter聊天.
 <!--lint disable awesome-list-item-->
 -[TypedDjango]-官方组织聊天室.
 <!--lint enable awesome-list-item-->

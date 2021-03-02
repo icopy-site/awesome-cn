@@ -7,7 +7,7 @@
 [![Build Status](https://api.travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
 精选的Crystal代码和资源的精选列表. 受启发 [awesome](https://github.com/sindresorhus/awesome) 和 [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness).
-我们的目标是使项目对社区而言基本上是稳定且有用的.
+目标是使项目对于社区而言大部分是稳定且有用的.
 
 Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]]（https://crystal-ann.com）以获得更多信息.
 
@@ -18,26 +18,26 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [bisect](https://github.com/spider-gazelle/bisect) -将值插入已排序的数组
  * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) 执行
  * [crie](https://github.com/c910335/crie) -编译时特里
- * [CrOTP](https://github.com/philnash/crotp) -两因素验证的HOTP和TOTP实施
- * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) -执行链表
- * [crystaledge](https://github.com/unn4m3d/crystaledge) -一个纯矢量数学库
+ * [CrOTP](https://github.com/philnash/crotp) -用于两因素身份验证的HOTP和TOTP实现
+ * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) -链表的实现
+ * [crystaledge](https://github.com/unn4m3d/crystaledge) -一个纯向量数学库
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) -通用算法库
  * [crystalline](https://github.com/jtomschroeder/crystalline) -容器和算法的集合
  * [edits.cr](https://github.com/tcrouch/edits.cr) -编辑距离算法的集合
- * [fzy](https://github.com/hugopl/fzy) -出色的Fzy项目模糊查找器算法的Crystal端口
+ * [fzy](https://github.com/hugopl/fzy) -很棒的Fzy项目模糊查找器算法的Crystal端口
  * [graphlb](https://github.com/mettuaditya/graphlb) -图数据结构和算法的收集
  * [haversine](https://github.com/geocrystal/haversine) -Haversine公式的实现
  * [kd_tree](https://github.com/geocrystal/kd_tree) -“ K维树”和“ N最近邻居”的实现
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) -K稳定的全球唯一ID
  * [markov](https://github.com/mccallofthewild/markov) -建立马尔可夫链并运行马尔可夫过程
- * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实现多集
+ * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实施多套
  * [qr-code](https://github.com/spider-gazelle/qr-code) -QR码生成器
  * [radix](https://github.com/luislavena/radix) -基数树实施
 
 ## Blockchain
  * [Axentro](https://github.com/Axentro/Axentro) -定制的区块链平台
  * [Cocol](https://github.com/cocol-project/cocol) -最小的区块链测试平台
- * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) -公私钥密码术中使用的椭圆曲线
+ * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) -公钥-私钥加密中使用的椭圆曲线
 
 ## C bindings
  * [clang.cr](https://github.com/crystal-lang/clang.cr) -Libclang绑定
@@ -47,15 +47,15 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) -的绑定 [Duktape](https://github.com/svaarala/duktape) JavaScript引擎
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) -的绑定 [libgphoto2](http://www.gphoto.org/) 图书馆
  * [icu.cr](https://github.com/olbat/icu.cr) -的绑定 [ICU](http://site.icu-project.org/) 图书馆
- * [libnotify.cr](https://github.com/splattael/libnotify.cr) -Libnotify绑定
+ * [libnotify.cr](https://github.com/splattael/libnotify.cr) -Libnotify的绑定
  * [pcap.cr](https://github.com/maiha/pcap.cr) -libpcap的绑定
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) -对OpenBSD的`pledge（2）`的绑定
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) -libssh2库的绑定
- * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) -绑定syslog
+ * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) -syslog的绑定
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) -libxdo的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
- * [crystal-memcached](https://github.com/comandeo/crystal-memcached) -Memcached客户端的实现
+ * [crystal-memcached](https://github.com/comandeo/crystal-memcached) -实施memcached客户端
 
 ## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) -用于编写命令行界面的强大DSL
@@ -67,23 +67,23 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Phreak](https://github.com/shinzlet/phreak) -采用OptionParser风格的高度灵活的Crystal CLI构建器
 
 ## CLI Utils
- * [climate](https://github.com/Sija/climate.cr) -微型工具，可让您的CLI输出彩色
+ * [climate](https://github.com/Sija/climate.cr) -微小的工具，可让您的CLI输出变色
  * [cride](https://github.com/j8r/cride) -轻量级的CLI文本编辑器/ IDE
  * [lff](https://github.com/mkdika/lff-cr) -命令行中简单明了的大文件查找器实用程序
  * [oq](https://github.com/Blacksmoke16/oq)  -高性能，可移植的jq包装器，以方便使用和输出JSON以外的其他格式； 使用 [jq](https://github.com/stedolan/jq) 过滤器以转换数据.
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) -一个简单且可自定义的进度条
  * [tablo](https://github.com/hutou/tablo) -灵活的终端表生成器
- * [tallboy](https://github.com/epoch/tallboy) - Generate ASCII character tables with support for spanning cells over multiple columns
+ * [tallboy](https://github.com/epoch/tallboy) -生成支持跨多个列的单元格的ASCII字符表
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) -静态代码分析工具
- * [linguist.cr](https://github.com/microgit-com/linguist.cr) -根据Github的Linguist使用多种方法查找文件中使用的编程语言
+ * [linguist.cr](https://github.com/microgit-com/linguist.cr) -根据Github的Linguist，使用多种方法查找文件中使用的编程语言
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) -Tar存档格式的读者和作家
  * [Gzip](https://crystal-lang.org/api/Gzip.html) -gzip格式的读者（Crystal stdlib）
  * [polylines.cr](https://github.com/BuonOmo/polylines.cr) —压缩一系列坐标
- * [snappy](https://github.com/naqvis/snappy) -用于Crystal的Snappy压缩格式读取器/写入器
+ * [snappy](https://github.com/naqvis/snappy) -适用于Crystal的Snappy压缩格式读取器/写入器
  * [Zip](https://crystal-lang.org/api/Zip.html) -zip格式的读者（Crystal stdlib）
  * [Zlib](https://crystal-lang.org/api/Zlib.html) -zlib格式的读者（Crystal stdlib）
  * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
@@ -132,7 +132,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [cryomongo](https://github.com/elbywan/cryomongo) -MongoDB驱动程序
  * [crystal-db](https://github.com/crystal-lang/crystal-db) -通用数据库API
  * [crystal-ldap](https://github.com/spider-gazelle/crystal-ldap) -LDAP客户端
- * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) -用于水晶的MySQL连接器
+ * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) -适用于Crystal的MySQL连接器
  * [crystal-pg](https://github.com/will/crystal-pg) -Postgres司机
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) -功能齐全的Redis客户端
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) -RethinkDB / RebirthDB的驱动程序
@@ -148,10 +148,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [debug.cr](https://github.com/Sija/debug.cr) -`pp！-style调试的`debug！（…）`宏
 
 ## Dependency Injection
- * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) -强大的依赖注入服务容器框架
+ * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) -强大的依赖项注入服务容器框架
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) -轻巧的DI容器
  * [HardWire](https://github.com/jerometwell/hardwire) -编译时非侵入式依赖项注入系统.
- * [syringe](https://github.com/Bonemind/syringe) -用于晶体的简单且基本的依赖注入碎片
+ * [syringe](https://github.com/Bonemind/syringe) -用于晶体的简单且基本的依赖项注入碎片
 
 ## Email
  * [carbon](https://github.com/luckyframework/carbon) -有趣，可测试且基于适配器的电子邮件库
@@ -184,8 +184,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [multi-auth](https://github.com/msa7/multi_auth) -标准化的多提供商OAuth2身份验证（受omniauth启发）
  * [praetorian](https://github.com/ilanusse/praetorian) -受Pundit启发的极简主义授权库
  * [Shield](https://github.com/grottopress/shield) -* Lucky *框架的全面安全性
- * [shrine.cr](https://github.com/jetrockets/shrine.cr)  -用于Crystal应用程序的文件附件工具包. 受神殿红宝石启发
- * [tourmaline](https://github.com/watzon/tourmaline) -松散地基于API的电报机器人框架 [telegraf.js](https://telegraf.js.org/)
+ * [shrine.cr](https://github.com/jetrockets/shrine.cr)  -用于Crystal应用程序的文件附件工具包. 受神殿红宝石的启发
+ * [tourmaline](https://github.com/watzon/tourmaline) -松散地基于API的电报bot框架 [telegraf.js](https://telegraf.js.org/)
 
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) -绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
@@ -195,10 +195,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) -绑定到 [Dear ImGui](https://github.com/ocornut/imgui)，即时模式图形用户界面库
- * [Iu](https://github.com/grkek/iu) -基于 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有来自的自定义元素和修改的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
+ * [Iu](https://github.com/grkek/iu) -基于的UI框架 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有来自的自定义元素和修改的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，内置对许多流行的UI库（如Bootstrap）的支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) -解析DOCX Word
@@ -206,15 +206,15 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [myhtml](https://github.com/kostya/myhtml) -包含CSS选择器的快速HTML5解析器
 
 ## HTTP
- * [Cable](https://github.com/cable-cr/cable) -水晶的ActionCable“端口”，与框架无关，与ActionCable JS客户端100％兼容
+ * [Cable](https://github.com/cable-cr/cable) -面向Crystal的ActionCable“端口”，与框架无关，与ActionCable JS客户端100％兼容
  * [cossack](https://github.com/crystal-community/cossack) -简单灵活的HTTP客户端
  * [crest](https://github.com/mamantoha/crest) -简单的HTTP和REST客户端，灵感来自Ruby的RestClient gem
  * [crul](https://github.com/porras/crul) -命令行HTTP客户端
- * [digest-auth](https://github.com/spider-gazelle/digest-auth) -摘要身份验证
- * [halite](https://github.com/icyleaf/halite) -具有可链接的REST API，内置会话和记录器的Crystal HTTP请求
- * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) -通过路由安装多个服务器（又称URL映射）
+ * [digest-auth](https://github.com/spider-gazelle/digest-auth) -摘要式验证
+ * [halite](https://github.com/icyleaf/halite) -具有可链接REST API，内置会话和记录器的Crystal HTTP请求
+ * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) -通过路由挂载多台服务器（又名URL映射）
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) -HTTP参数（反）序列化，适用于URL查询和URL编码的表单
- * [http-protection](https://github.com/rogeriozambon/http-protection) -防范典型的网络攻击
+ * [http-protection](https://github.com/rogeriozambon/http-protection) -防范典型的Web攻击
  * [http2](https://github.com/ysbaddaden/http2) -HTTP / 2协议实现
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) -HTTP客户端（Crystal stdlib）
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) -HTTP服务器（Crystal stdlib）
@@ -225,7 +225,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) -使用DSL创建SVG图像
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读写PNG图像
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -查理编程语言
@@ -234,7 +234,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [LinCAS-lang](https://github.com/LinCAS-lang) -用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) -用于前端Web的令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) -一种实用，动态的语言，旨在尽可能轻松高效地进行书写和理解
- * [runic-lang](https://github.com/runic-lang) -设计玩具语言
+ * [runic-lang](https://github.com/runic-lang) -设计中的玩具语言
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
@@ -254,13 +254,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Misc
  * [aasm.cr](https://github.com/veelenga/aasm.cr) -易于使用的有限状态机用于Crystal类
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) -具有更好JSON :: Any的递归哈希
- * [anyolite](https://github.com/Anyolite/anyolite) -具有简单绑定的完整mruby解释器，可在项目中轻松支持脚本编写
- * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Croc，CNPJ和CEP等巴西Burocracia的无依赖碎片
+ * [anyolite](https://github.com/Anyolite/anyolite) -具有简单绑定的完整mruby解释器，允许在项目中轻松编写脚本
+ * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Burocracias（例如CPF，CNPJ和CEP）的毫无依赖的碎片
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
- * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -Crystal的Web框架，在Github上最受欢迎
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github出演
  * [crz](https://github.com/dhruvrajvanshi/crz) -功能编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) -表情符号库
  * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) -libgphoto2的Web API
@@ -274,7 +274,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [retriable.cr](https://github.com/Sija/retriable.cr) -简单的DSL重试失败的代码块
  * [simple_retry](https://github.com/spider-gazelle/simple_retry) -重试失败代码块的简单工具
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) -水晶碎片包装了rbsec / sslscan实用程序
- * [version_tools](https://github.com/anicholson/crystal-version-tools) -版本相关的行为，在编译时指定
+ * [version_tools](https://github.com/anicholson/crystal-version-tools) -与版本有关的行为，在编译时指定
  * [wafalyzer](https://github.com/NeuraLegion/wafalyzer) -Web应用程序防火墙（WAF）检测器-分片+ CLI
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) -文件名清理
 
@@ -284,7 +284,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) -XMPP / Jabber库
  * [Crirc](https://github.com/Meoowww/Crirc) -IRC协议实施（客户端，服务器，机器人）
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) -DNS协议实现和解析器
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  -JSON套接字客户端和服务器实现. 受到启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  -JSON套接字客户端和服务器实现. 受启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) -MQTT客户端
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) -具有版本1、2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) -快速IRC解析器/生成器
@@ -320,7 +320,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Project Generators
  * [crystal_lib](https://github.com/crystal-lang/crystal_lib) -用于本机库的自动绑定生成器
- * [fez](https://github.com/jwoertink/fez) -凯末尔应用程序生成器
+ * [fez](https://github.com/jwoertink/fez) -凯末尔（Kemal）应用程序生成器
  * [libgen](https://github.com/olbat/libgen) -使用JSON / YAML文件配置的自动绑定生成器
 
 ## Queues and Messaging
@@ -334,12 +334,12 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Scheduling
  * [crystime](https://gitlab.com/crystallabs/crystime) -高级时间，日历，时间表和提醒库
- * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) -运行定期任务
+ * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) -执行定期任务
  * [tasker](https://github.com/spider-gazelle/tasker) -包括时区感知的cron作业在内的高精度调度程序
 
 ## Science and Data analysis
  * [alea](https://github.com/nin93/alea) -可重复采样，CDF和其他实用程序以处理概率分布
- * [ishi](https://github.com/toddsundsted/ishi) -带有小型API和gnuplot支持的明智默认值的图形绘图软件包
+ * [ishi](https://github.com/toddsundsted/ishi) -带有小型API和gnuplot支持的明智默认值的图形绘图程序包
  * [linalg](https://github.com/konovod/linalg) -受MATLAB和SciPy.linalg启发的线性代数库
  * [num.cr](https://github.com/crystal-data/num.cr) -支持N维数据的数值计算库
  * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
@@ -355,7 +355,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [secrets-env](https://github.com/spider-gazelle/secrets-env) -扩展ENV模块以读取docker / kubernetes机密和其他编排工具注入的值.
 
 ## System
- * [baked_file_system](https://github.com/schovi/baked_file_system) -虚拟文件系统实施
+ * [baked_file_system](https://github.com/schovi/baked_file_system) -虚拟文件系统的实现
  * [hardware](https://github.com/crystal-community/hardware) -获取正在运行的操作系统及其进程的CPU，内存和网络信息
 
 ## Task management
@@ -363,14 +363,14 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [sam](https://github.com/imdrasil/sam.cr) -另一个具有名称间隔和参数系统的类似Rake的任务管理器
 
 ## Template Engine
- * [crinja](https://github.com/straight-shoota/crinja) -实现 [Jinja2 template engine](http://jinja.pocoo.org/)
+ * [crinja](https://github.com/straight-shoota/crinja) -的实现 [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) 水晶用
- * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) -编译使用普通晶体表达式的时间模板语言（Crystal stdlib）
+ * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) -编译使用纯水晶表达式的时间模板语言（Crystal stdlib）
  * [Jbuilder](https://github.com/shootingfly/jbuilder) -受jbuilder启发，使用Builder风格的DSL生成JSON对象
  * [Kilt](https://github.com/jeromegn/kilt) -模板引擎的抽象层
- * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁的模板语言
+ * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁，模板化的语言
  * [teeplate](https://github.com/mosop/teeplate) -用于渲染多个模板文件的库
- * [Water](https://github.com/shootingfly/water) -用纯水晶编写HTML的库
+ * [Water](https://github.com/shootingfly/water) -用于以纯水晶编写HTML的库
 
 ## Testing
  * [Athena Spec](https://github.com/athena-framework/spec) -常见/有帮助 [Spec](https://crystal-lang.org/api/Spec.html) 兼容的测试工具
@@ -381,10 +381,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [microtest](https://github.com/Ragmaanir/microtest) -专注于断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
- * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
+ * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
- * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库. 受启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
- * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用于与`Time.now`进行嘲讽的库. 受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [vcr](https://github.com/spoved/vcr.cr) -水晶的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  -页面对象库. 受到Ruby的启发 [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) -用于存根HTTP :: Client请求的库
 
@@ -405,14 +405,14 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [mollie.cr](https://github.com/tilishop/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API包装器（信用卡，PayPal，Apple Pay，Sofort，Klarna等）
  * [office365](https://github.com/PlaceOS/office365) -Microsoft Graph API包装器
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
- * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
+ * [raven.cr](https://github.com/sija/raven.cr) -Raven是以下产品的客户 [Sentry](https://github.com/getsentry/sentry)
  * [stripe.cr](https://github.com/confact/stripe.cr) -条纹api包装器
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) -用于访问Twitter API的库
  * [web_finger](https://github.com/toddsundsted/web_finger) -WebFinger（https://tools.ietf.org/html/rfc7033）客户端
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) -与您的YNAB数据进行交互的库
 
 ## Validation
- * [accord](https://github.com/neovintage/accord) -共享的Crystal对象验证库
+ * [accord](https://github.com/neovintage/accord) -水晶对象的共享验证库
  * [Athena Validator](https://github.com/athena-framework/validator) -强大而灵活的验证框架
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
  * [validator](https://github.com/Nicolab/crystal-validator) -数据检查和验证
@@ -421,10 +421,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架
  * [Athena](https://github.com/athena-framework/athena) -由可重用的独立组件组成的网络框架
  * [grip](https://github.com/grip-framework/grip) -用于编写功能强大的Web应用程序的微框架
- * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架. 受Sinatra启发
+ * [kemal](https://github.com/kemalcr/kemal)  -闪电般快速，超级简单的Web框架. 受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
  * [runcobo](https://github.com/runcobo/runcobo) -具有简单，直观和一致的DSL的api框架，使用jbuilder呈现json
- * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) -基于组件的MVC Web框架，可实现良好的代码结构，模块化和性能
+ * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) -基于组件的MVC Web框架，可针对具有良好代码结构，模块化和性能的晶体
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架
 
 ## Community
@@ -472,7 +472,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Invidious](https://github.com/iv-org/invidious) -Invidious是YouTube的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) -具有简单统计信息的网址缩短器
  * [quicktype](https://quicktype.io/) -从JSON，JSON Schema，GraphQL和TypeScript生成模型和序列化器
- * [shards.info](http://shards.info/)  -列出了其中包含Crystal代码的GitHub上所有存储库的Web服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
+ * [shards.info](http://shards.info/)  -列出其中包含Crystal代码的GitHub上所有存储库的Web服务. 资料来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) -调试解析器和格式化程序的帮助器工具
@@ -485,11 +485,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [DPPM](https://github.com/DFabric/dppm) -一种以包形式安装和管理应用程序的简单通用方法（主要是Linux）
 
 ## Editor Plugins
+ * Acme：
+   * [acmecrystal](https://github.com/ilanpillemer/acmecrystal) -重新格式化Acme中的水晶代码
  *原子
    * [crystal-tools](https://atom.io/packages/crystal-tools) -启用Crystal编译器中的内置工具
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -Atom中的Crystal语言支持
  *埃马克斯
-   * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) -对Emacs的Crystal语言支持
+   * [crystal-mode](https://melpa.org/#/crystal-mode) -对Emacs的Crystal语言支持（[crystal-lang-tools/emacs-crystal-mode](https://github.com/crystal-lang-tools/emacs-crystal-mode))
  *盖尼
    * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) -水晶支持 [Geany editor](https://www.geany.org/).
  * Spacemacs
