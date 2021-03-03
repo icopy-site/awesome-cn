@@ -51,7 +51,7 @@
 
 - [HN-top](https://github.com/BafS/hn-top) -一个简单的命令，用于列出来自hacker-news的最新新闻.
 - [vast](https://github.com/lydiandy/vast) -一个简单的vlang工具，可将v源文件生成为AST json文件.
-- [symlinker](https://github.com/serkonda7/symlinker) -用于管理符号链接的小型Linux工具.
+- [symlinker](https://github.com/serkonda7/symlinker) -一个用于管理符号链接的小型Linux工具.
 - [runner](https://github.com/Naheel-Azawy/runner) -一种工具，用于自动运行/编译以各种编程语言编写的代码.
 - [vcredits](https://github.com/zakuro9715/vcredits) -从依赖项的LICENSE文件中创建CREDITS的工具.
 - [vspect](https://github.com/zakuro9715/vspect) -检查vlang源文件的工具.
@@ -70,7 +70,7 @@
 
 - [vargs](https://github.com/nedpals/vargs)  -V库，用于解析类似argv的数组的参数.  （存档）
 - [progressbar](https://github.com/Waqar144/progressbar) -易于使用的V库，可在cli中创建进度条.
-- [boxx](https://github.com/thecodrr/boxx) -创建高度可定制的接线盒，看起来也很棒！ 
+- [boxx](https://github.com/thecodrr/boxx) -创建高度可定制的接线盒，它们看起来也很棒！ 
 - [lol](https://github.com/0xLeif/lol) -lolcat的V版本（文本/字符Rainbowizer）.
 
 ### Text processing
@@ -97,11 +97,12 @@
 
 - [vex](https://github.com/nedpals/vex) -受Express和Sinatra启发，用V编写的Web框架.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  -V的内置Web框架. 由Vorum使用.
-- [validate](https://github.com/endeveit/v-validate) -一个简单的库来验证V中的字符串.
+- [validate](https://github.com/endeveit/v-validate) -一个简单的库，用于验证V中的字符串.
 - [valval](https://github.com/taojy123/valval) -用V编写的Web框架，由vweb改进.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) -用V编写的基本JSON-RPC 2.0兼容服务器.
 - [pico.v](https://github.com/S-YOU/pico.v) -V中基于picoev和picohttpparser的Web服务器.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) -用于vweb的简约Xbox Live身份验证器.
+- [vcurrency](https://github.com/mehtaarn000/vcurrency) -API包装器（用V编写） [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 
 ### Database clients
 
@@ -147,7 +148,7 @@
 
 ### User Interface toolkits
 
-- [V UI](https://github.com/vlang/ui) -适用于Windows，macOS，Linux，Android，iOS和Web的集成跨平台UI工具包.
+- [V UI](https://github.com/vlang/ui) -适用于Windows，macOS，Linux，Android，iOS和Web的集成的跨平台UI工具包.
 - [vgtk3](https://github.com/vgtk/vgtk3) -V中GTK3的包装.
 - [vig](https://github.com/nsauzede/vig) -的绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) -的绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
@@ -168,7 +169,7 @@
 ### Syntax highlighting
 
 - [v-vim](https://github.com/ollykel/v-vim) -支持Vim中的V语法突出显示.
-- [vim-v](https://github.com/cheap-glitch/vim-v) -V编程语言的高质量语法突出显示.
+- [vim-v](https://github.com/cheap-glitch/vim-v) -V编程语言的高品质语法突出显示.
 - [vscode-vlang](https://github.com/0x9ef/vscode-vlang) -Visual Studio Code的V语言扩展.
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) -V语法高亮显示 [Kate](https://kate-editor.org/).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) -V语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
@@ -180,7 +181,7 @@
 ### Editor plugins
 
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) -用于Vim的V工具，包括自动格式化.
-- [sublime-v](https://github.com/onerbs/sublime-v) -V编程语言的功能齐全的Sublime Text 3软件包.
+- [sublime-v](https://github.com/onerbs/sublime-v) -用于V编程语言的功能齐全的Sublime Text 3软件包.
 
 ### GitHub actions
 

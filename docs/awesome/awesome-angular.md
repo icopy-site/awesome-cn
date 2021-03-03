@@ -125,12 +125,12 @@
 
 * [Official Angular Material Design (GitHub)](https://github.com/angular/material2)
 * [md2](https://www.npmjs.com/package/md2) 基于Angular2的Material Design组件，指令和服务是手风琴，自动完成，折叠，Colorpicker，Datepicker，Dialog（Modal），菜单，Multiselect，Select，Switch，Tabs，Tags（Chips），Toast和Tooltip.
-* [ng2-material](https://www.npmjs.com/package/ng2-material) 一组基于@ angular2-material / core的material2示例和其他组件（数据表，对话框等）
+* [ng2-material](https://www.npmjs.com/package/ng2-material) 在@ angular2-material / core顶部构建的一组material2示例和其他组件（数据表，对话框等）
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) 基于Material Design Lite的Angular 2组件，指令和样式
 * [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext（旋转木马，网格，灯箱，selectfield，粘性页眉等）
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) Angular 2环绕Materialize库
 * [Material Light](https://github.com/YagoLopez/material-light) 轻巧，快速且易于使用的Angular 2+材质设计组件（尤其是用于移动UI）. 有几种选择，但是我认为这具有附加值和优势（有关详细信息，请阅读Readme.md）. 还有一个在线演示，以供实际操作.  （仍缺少API文档，但仍在处理中）.
-* [Blox Material](https://github.com/src-zone/material) 一个轻量级的Angular Material Design库，基于Google的Web材质组件.
+* [Blox Material](https://github.com/src-zone/material) 一个轻量级的Angular Material Design库，它基于Google的Web材质组件.
 * [Material Web Components](https://trimox.github.io/angular-mdc-web)  Angular的材质Web组件. 网上设想的对材料设计的忠实而准确的表示.
 * [MDBootstrap](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) 内置Angular 7，Bootstrap 4和TypeScript功能强大的UI KIT，可提供一组平滑的响应式页面模板，布局，组件和小部件，以快速构建响应式，移动优先的网站和应用程序.
 
@@ -152,7 +152,7 @@
 
 ###### Components
 
-组件是使用影子DOM创建封装视觉行为的指令. 组件通常用于创建UI窗口小部件或将应用程序分解为较小的组件.
+组件是一个指令，它使用影子DOM创建封装的视觉行为. 组件通常用于创建UI窗口小部件或将应用程序分解为较小的组件.
 
 ##### View
 
@@ -165,7 +165,7 @@
 
 ##### Change detection
 
-每个组件都有一个更改检测器，负责检查其模板中定义的绑定.
+每个组件都有一个变更检测器，负责检查其模板中定义的绑定.
 
 ##### Dependency Injection
 
@@ -183,7 +183,7 @@ WebWorker中的大多数核心角度框架.
 
 ##### HTTP
 
-The HttpClient offers a simplified client HTTP API for Angular applications that rests on the XMLHttpRequest interface exposed by browsers. Additional benefits of HttpClient include testability features, typed request and response objects, request and response interception, Observable apis, and streamlined error handling.
+ HttpClient为Angular应用程序提供了简化的客户端HTTP API，该API基于浏览器公开的XMLHttpRequest接口.  HttpClient的其他好处包括可测试性功能，类型化的请求和响应对象，请求和响应拦截，可观察的api和简化的错误处理.
 
 * [Official HttpClient](https://angular.io/guide/http)
 
@@ -298,7 +298,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) 曼宁出版物
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙玛（Ankit Sharma）`
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙尔玛（Ankit Sharma）`
 
 #### On-Site Training
 
@@ -343,7 +343,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托（Hristo Georgiev）
+*赫里斯托·格奥尔基耶夫
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -363,7 +363,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular2-Meteor](https://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
-* [ng-sapphiredb](https://github.com/SapphireDb/ng-sapphiredb)  -SapphireDb的客户端实现，这是一个通过实时数据同步轻松开发应用程序的框架，并且是针对asp.net核心和ef核心的Firebase实时数据库/ firestore的自托管替代方案. 查看文档以获取更多详细信息： [Documentation](https://sapphire-db.com)
+* [ng-sapphiredb](https://github.com/SapphireDb/ng-sapphiredb)  -SapphireDb的客户端实现，该框架可通过实时数据同步轻松开发应用程序，并为asp.net核心和ef核心提供自托管替代Firebase实时数据库/ firestore的工具. 查看文档以获取更多详细信息： [Documentation](https://sapphire-db.com)
 * [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) -Angular 2+的官方CKEditor 5 RTF编辑器组件
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) -Angular 2+的官方CKEditor 4 RTF编辑器组件
@@ -426,8 +426,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Schematics
 
 * [Cypress](https://github.com/briebug/cypress-schematic)：将赛普拉斯添加到Angular CLI应用程序
-* [Jest](https://github.com/briebug/jest-schematic)：配置Angular以Jest代替Karma + Jasmine执行单元测试
-* [Prettier](https://github.com/schuchard/prettier-schematic)：添加Prettier和预提交钩子以格式化Angular应用程序中的暂存文件
+* [Jest](https://github.com/briebug/jest-schematic)：将Angular配置为使用Jest而不是Karma + Jasmine来执行单元测试
+* [Prettier](https://github.com/schuchard/prettier-schematic)：添加用于在Angular应用程序中格式化暂存文件格式的Prettier和预提交钩子
 * [Tailwind CSS](https://github.com/ngneat/tailwind)：将Tailwind CSS添加到Angular应用程序
 * [Threejs](https://github.com/JohnnyDevNull/ng-three-template)：新的three.js入门应用
 
@@ -445,11 +445,11 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Auth Components
 
-* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) -集成同构权限管理库的模块 [CASL](https://github.com/stalniy/casl) 使用Angular2 +
-* [ng2-permission](https://github.com/JavadRasouli/ng2-permission)  -为您的angular 4+应用程序提供功能齐全的基于权限的访问控制. 这个模块的灵感来自 [`angular-permission`](https://github.com/Narzerus/angular-permission).
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL](https://github.com/stalniy/casl) 使用Angular2 +
+* [ng2-permission](https://github.com/JavadRasouli/ng2-permission)  -为您的Angle 4+应用程序提供功能齐全的基于权限的访问控制. 这个模块的灵感来自 [`angular-permission`](https://github.com/Narzerus/angular-permission).
 * [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) -用于“ firebase”身份验证的Angular Material UI组件
-* [ngx-auth](https://github.com/fulls1z3/ngx-auth) -@ fulls1z3的Angular身份验证实用程序
-* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
+* [ngx-auth](https://github.com/fulls1z3/ngx-auth) -通过@ fulls1z3用于Angular的身份验证实用程序
+* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) -适用于您的Angle（Angular 2，Angular 4,5+）应用程序的基于权限和角色的访问控制（兼容AOT，惰性模块）
 
 
 
@@ -457,19 +457,19 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) -用于云中图像和视频管理的Angular2 SDK
 * [ng-s-resource](https://github.com/hiyali/ng-s-resource) -简化了Angular 4+的RESTful HTTP资源生成器.
-* [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) -用于Angular 2及更高版本的Restangular.
+* [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) -用于Angular 2和更高版本的Restangular.
 
 
 #### Calendars
 
 * [angular-calendar](https://github.com/mattlewis92/angular-calendar) -角度6.0和更高版本的灵活日历组件，可以在月，周或日视图上显示事件.
-* [ng-data-picker](https://github.com/hiyali/ng-data-picker) -基于Angular 4+的数据选择器（例如iOS本机日期时间选择器）
+* [ng-data-picker](https://github.com/hiyali/ng-data-picker) -基于Angular 4+的数据选择器（如iOS本机日期时间选择器）
 * [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) Angular的全日历模块
 
 #### Charts
 
 * [@ctrl/ngx-chartjs](https://github.com/TypeCtrl/ngx-chartjs) -Angular的功能性Chart.js包装器
-* [dl-chart](https://github.com/Chtau/dlChart) -简单而轻巧的图表库，无外部依赖
+* [dl-chart](https://github.com/Chtau/dlChart) -没有外部依赖的简单轻量级的图表库
 * [ng2-charts](https://github.com/valor-software/ng2-charts) 基于Chart.js的Angular2精美图表
 * [ngx-charts](https://github.com/swimlane/ngx-charts) -Angular2及更高版本的声明式图表框架！
 * [ngx-f2](https://github.com/hamdiwanis/ngx-f2) -面向antv f2移动图表的Angular2 +包装器
@@ -478,7 +478,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Drag/Drop
 
 * [angular2-grid](https://github.com/BTMorton/angular2-grid) 基于angular2的基于网格的拖放/调整大小的插件指令.
-* [ng2-dragula](https://github.com/valor-software/ng2-dragula) 拖放是如此简单，很痛！
+* [ng2-dragula](https://github.com/valor-software/ng2-dragula) 拖放是如此简单，令人心痛！
 
 #### Editor Components
 
@@ -494,7 +494,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) -为任何元素或组件提供文件删除功能
 * [file-droppa](https://github.com/chenyukunJoshHub/fileDroppa) 简单文件拖放和带有文件列表的上载组件
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) 易于使用的文件上传指令
-* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader)  Angular库用于上传文件. 它支持：文件上载和预览（通过灯箱另外预览图像），验证，图像裁剪，拖放以及多语言支持.
+* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader)  Angular库，用于上传文件. 它支持：文件上载和预览（通过灯箱另外预览图像），验证，图像裁剪，拖放以及多语言支持.
 * [ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) -高度可定制的组件，用于处理文件删除和选择.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) -Angular7 +包装器 [flow.js](https://github.com/flowjs/flow.js) 用于文件上传
 
@@ -502,17 +502,17 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [@ctrl/ngx-emoji-mart](https://github.com/TypeCtrl/ngx-emoji-mart) -用于Angular的可定制的类似Slack的表情符号选择器
 * [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) 角度4+输入蒙版
-* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Web应用程序的Angular 2 Multiselect下拉组件
+* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) 用于Web应用程序的Angular 2 Multiselect下拉组件
 * [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2输入掩码指令
 * [ng-fveh](https://github.com/guilhermewaess/ng-fveh) -表单验证错误帮助程序-一些帮助您进行表单验证的帮助程序：)
-* [ng-select](https://github.com/ng-select/ng-select) 角度ng-select-在一个UI中全选，多选和自动完成
+* [ng-select](https://github.com/ng-select/ng-select) 角度ng-select-在一个UI中进行全选，多选和自动完成
 * [ng2-dropdown](https://github.com/pleerock/ngx-dropdown) angular2和bootstrap 3的下拉菜单
-* [ng2-radio-group](https://github.com/pleerock/ngx-select-controls) 收音机和复选框输入以及收音机输入组的Angular2指令
+* [ng2-radio-group](https://github.com/pleerock/ngx-select-controls) 广播和复选框输入以及广播输入组的Angular2指令
 * [ng2-select](https://github.com/valor-software/ng2-select) 基于Angular2的选择框替换
 * [ngx-color](https://github.com/scttcper/ngx-color) -来自Sketch，Photoshop，Chrome，Github，Twitter等的拾色器
 * [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) -用于Angular X（4+）的信用卡指令和表单验证程序包.
 * [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) -可定制的Angular组件，其中包含带有国家标志的下拉菜单
-* [ngx-flexible-select](https://github.com/andreysyagrovskiy/ngx-flexible-select) -最灵活和定制的选择
+* [ngx-flexible-select](https://github.com/andreysyagrovskiy/ngx-flexible-select) -最灵活和自定义的选择
 * [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) -基于json输入的任意级别的角递归形式.
 
 #### Icons
@@ -525,34 +525,34 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [@ctrl/ngx-rightclick](https://github.com/TypeCtrl/ngx-rightclick) -Angular的上下文菜单服务
 * [angular-clickable-click](https://github.com/DanielKucal/angular-clickable-click) -使用标准的（click）输出在元素上设置指针光标，并允许禁用此类事件
-* [angular-esc](https://github.com/DanielKucal/angular-esc) -添加由Escape键触发的（（esc）`输出
+* [angular-esc](https://github.com/DanielKucal/angular-esc) -添加由Escape键触发的`（esc）`输出
 * [ngx-konami](https://github.com/lauthieb/ngx-konami) -在Angular 2+应用程序中添加复活节彩蛋的简单指令
 
 #### Layout Components
 
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) fullPage.js（全屏滚动库）的官方组件.
 * [angular-split](https://github.com/bertrandg/angular-split) 角剖分组件
-* [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) -Angular2的无限滚动指令（基于Observable）
-* [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) -根据各种布局类型（例如Angular的砌体）排列无限的卡片元素.
+* [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) -Angular2的无限滚动指令（基于Observables）
+* [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) -根据各种布局类型（例如Angular的砖石结构）排列无限的纸牌元素.
 * [ng2-card](https://github.com/c-bata/ng2-card) -Angular2的卡片视图组件
 * [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components将您的组件添加到工作表窗口中并反复
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) -Angular2的可刷卡组件
-* [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop)  -轻巧，受材料设计启发的**按钮，可滚动至页面顶部**.  _无依赖性.  Pure Angular！_（兼容性：Angular 9，Ivy，Universal，`ng add`）
-* [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Angular中基于可观察的虚拟滚动实现
+* [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop)  -轻巧，受材料设计启发的**按钮，可滚动至页面顶部**.  _没有依赖项.  Pure Angular！_（兼容性：Angular 9，Ivy，Universal，`ng add`）
+* [od-virtualscroll](https://github.com/dinony/od-virtualscroll) 在Angular中基于可观察的虚拟滚动实现
 
 #### Loaders
 
-* [@kken94/ngx-progress](https://github.com/kKen94/ngx-progress)  Angular最强大，可定制的进度条
-* [angular-epic-spinners](https://github.com/hackafro/angular-epic-spinners) 可重复使用的旋转器组件
-* [angular2-busy](https://github.com/devyumao/angular2-busy) 在任何承诺或任何Observable的订阅上显示繁忙/加载指标
+* [@kken94/ngx-progress](https://github.com/kKen94/ngx-progress)  Angular最强大，可自定义的进度条
+* [angular-epic-spinners](https://github.com/hackafro/angular-epic-spinners) 可重复使用的旋转器组件，用于角钢
+* [angular2-busy](https://github.com/devyumao/angular2-busy) 在任何承诺或任何Observable的订阅上显示繁忙/正在加载的指标
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) -@johannesjo的Angular 2加载按钮
 * [isLoading? service](https://gitlab.com/service-work/is-loading) -用于Angular应用程序的简单灵活的加载指示器服务.
 * [ng-spinners](https://github.com/JoshK2/ng-spinners) -纯CSS角度微调器组件的惊人集合.
 * [ng2-progress-bar](https://github.com/pleerock/ngx-progress-bar) 用于angular2和bootstrap 3的简单进度栏
-* [ngx-config](https://github.com/fulls1z3/ngx-config) -@ fulls1z3的Angular配置实用程序（包括Angular Universal加载程序）
-* [ngx-img-fallback](https://github.com/VadimDez/ngx-img-fallback) 在图片错误上加载占位符图片
-* [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) -纳米级进度条，具有逼真的trick流动画.
+* [ngx-config](https://github.com/fulls1z3/ngx-config) -@ fulls1z3用于Angular（包括Angular Universal加载器）的配置实用程序
+* [ngx-img-fallback](https://github.com/VadimDez/ngx-img-fallback) 在图片错误时加载占位符图片
+* [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) -纳米级进度栏，具有逼真的trick流动画.
 
 
 #### Maps
@@ -566,7 +566,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Notifications
 
 * [ng-snotify](https://github.com/artemsky/ng-snotify/) -Angular 4通知中心
-* [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) 用于与Angular 2结合使用的sweetalert2的包装.
+* [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) sweetalert2的包装器，可与Angular 2一起使用.
 * [ngx-popper](https://github.com/MrFrankel/ngx-popper) -工具提示管理，popper.js的包装器（https://popper.js.org/）
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) -通知/吐司
 
@@ -580,18 +580,19 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard)  Cookie / sessionStorage / localStorage的包装，用于angular2. 如果所有都不可用，请使用内存中的存储器.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) 使用ES6 Proxies for Angular 2编写的localStorage和sessionStorage包装器
 * [ngx-store](https://github.com/zoomsphere/ngx-store) -用于管理`localStorage`，`sessionStorage`和cookie的复杂库，允许观看数据更改，基于构建器模式提供装饰器和API
+* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -功能强大，自动且经过优化的Angular 2缓存系统，可满足所有需求！
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) -通过在客户端上自动缓存远程请求来加快它们的速度.
-* [ngx-cache](https://github.com/fulls1z3/ngx-cache) -@ fulls1z3的Angular缓存实用程序（包括浏览器和服务器平台实现）
+* [ngx-cache](https://github.com/fulls1z3/ngx-cache) -@ fulls1z3用于Angular的缓存实用程序（包括浏览器和服务器平台实现）
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) -Angular的存储和状态管理
 
 #### Tables
 
-* [ag-grid](https://www.ag-grid.com/) 用于纯Javascript的高级Datagrid / AngularJS 1.x / AngularJS 2 / Web组件
+* [ag-grid](https://www.ag-grid.com/) 适用于纯Javascript的高级Datagrid / AngularJS 1.x / AngularJS 2 / Web组件
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) 类似于Excel的数据网格/电子表格
 * [ng2-smart-table](https://github.com/akveo/ng2-smart-table) 具有排序，过滤，分页和添加/编辑/删除功能的智能数据表库.
 * [ng2-table](https://github.com/valor-software/ng2-table) 用于Angular2应用程序的简单表扩展，具有排序，过滤，分页...
 * [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table)  -Angular Firebase可排序表. 能够使用自己的Firebase查询工具过滤和排序数据.
-* [ngx-datatable](https://github.com/swimlane/ngx-datatable) 专为Angular2及更高版本设计的功能丰富但轻巧的数据表！
+* [ngx-datatable](https://github.com/swimlane/ngx-datatable) 专为Angular2及更高版本而设计的功能丰富但轻巧的数据表！
 
 
 #### UI Libraries
@@ -600,8 +601,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [@ngx-kit/sula](https://github.com/ngx-kit/sula) -一组用于Angular的主题组件.
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
-* [Element Angular](https://github.com/ElemeFE/element-angular) -基于Angular 2构建的元素设计组件
-* [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) -超过60个用于Angular的高性能，轻量级，模块化和响应式UI组件.
+* [Element Angular](https://github.com/ElemeFE/element-angular) -建立在Angular 2之上的元素设计组件
+* [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) -超过60个用于Angular的高性能，轻便，模块化和响应式UI组件.
 * [Nebular](https://github.com/akveo/nebular) -一组用于复杂Angular应用程序的基本（主题，UI套件，身份验证，安全性）模块
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) -基于Ant Design Mobile和Angular的企业级移动UI组件.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) -基于Ant Design和Angular的企业级UI组件.
@@ -619,7 +620,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [@angular-material-extensions/contacts](https://github.com/angular-material-extensions/contacts) -Angular Library通过材料设计来管理联系人和用户
 * [@angular-material-extensions/faq](https://github.com/angular-material-extensions/faq)  -使用材料设计构建的Angular Library，以便为每个项目提供可重复使用的常见问题（常见问题）组件. 询问，回答和列出
-* [@angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) -**自动完成**输入组件和使用角材料设计构建的Google地图的指令
+* [@angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) -带有角材料设计的Google地图的“自动完成”输入组件和指令
 * [@angular-material-extensions/link-preview](https://github.com/angular-material-extensions/link-preview) -Angular开源UI库可预览Web链接
 * [@angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) -Angular UI库，用于说明和验证材质设计中“密码”的强度
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) 具有材料设计的高级角组件.
@@ -629,7 +630,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 ##### Bootstrap Based
 
-* [@firebaseui/ng-bootstrap](https://github.com/firebaseui/ng-bootstrap) -用于@ fire-bootstrap的`firebase``authentication`的Angular Bootstrap UI库
+* [@firebaseui/ng-bootstrap](https://github.com/firebaseui/ng-bootstrap) -由@ ng-bootstrap提供支持的Firebase身份验证的Angular Bootstrap UI库
 * [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Bootstrap 4（角形）的材料设计
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4组件和在Angular 2中使用的指令
 * [ng-bootstrap](https://ng-bootstrap.github.io) -ui-bootstrap团队针对Bootstrap 4的Angular 4指令
@@ -637,7 +638,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) 对Bootstrap使用Angular 2指令进行实验.
 * [ng2-modal](https://github.com/pleerock/ngx-modal) angular2和bootstrap 3的模态窗口
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) angular2和bootstrap 3的分页控制
-* [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs控件用于angular2和bootstrap 3
+* [ng2-tabs](https://github.com/pleerock/ngx-tabs) Angular2和Bootstrap 3的Tabs控件
 
 #### UX Components
 
@@ -651,27 +652,27 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-markdown](https://github.com/evanplaice/ng2-markdown) Angular2 Markdown Web组件
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF查看器组件
 * [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) Angular 2的非常小巧和安全的img
-* [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) -角度通用旋转木马.
+* [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) -角形通用旋转木马.
 * [ngx-siema](https://github.com/lexzhukov/ngx-siema) -轻巧，简单的轮播，无依赖性.
 
 #### Misc Components
 
 * [@ngx-context](https://github.com/ng-turkey/ngx-context) -角度上下文：路由器出口和嵌套组件树的轻松属性绑定.
-* [Angular SizeObserver](https://gitlab.com/service-work/size-observer) -根据DOM元素的显示大小（而不是浏览器屏幕大小）设置样式.
+* [Angular SizeObserver](https://gitlab.com/service-work/size-observer) -根据DOM元素的显示大小（而不是浏览器屏幕大小）来设置DOM样式.
 * [angular2-simple-countdown](https://github.com/previousdeveloper/angular2-simple-countdown) -具有多种语言的简单倒数angular2指令
-* [ng-chat](https://github.com/rpaschoal/ng-chat) -用于Angular应用程序的简单的facebook / linkedin类似聊天模块
+* [ng-chat](https://github.com/rpaschoal/ng-chat) -用于Angular应用程序的简单的facebook / linkedin相似聊天模块
 * [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) ：rocket：将Google表格用作您的（只读）后端！
 * [ng-katex](https://github.com/garciparedes/ng-katex) 角模块使用KaTeX库增强的TeX语法编写漂亮的数学表达式
-* [ng-wormhole](https://github.com/topaxi/ng-wormhole) -在DOM中的其他位置渲染组件
+* [ng-wormhole](https://github.com/topaxi/ng-wormhole) -在DOM中的其他地方渲染组件
 * [ng2-adsense](https://github.com/scttcper/ng2-adsense) -简易AdSense for Angular应用程序
-* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) -头像组件，可根据您拥有的有关用户的信息来生成/获取头像.
+* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) -虚拟形象组件，可以根据您拥有的有关用户的信息来生成/获取虚拟形象.
 * [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) -用于监视角度变化检测性能的库.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) -简单，轻松，性能倒计时
 * [ngx-i18n-router](https://github.com/fulls1z3/ngx-i18n-router) -@ fulls1z3的Angular路由国际化实用程序
 * [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) -用于linkifyjs的Angular V6包装器-用于以纯文本查找链接并将其<a>通过linkifyjs</a>转换为HTML<a>标签的库</a>
-* [ngx-meta](https://github.com/fulls1z3/ngx-meta) -@ fulls1z3提供的用于Angular（带有服务器端渲染）的动态页面标题和元标记实用程序
+* [ngx-meta](https://github.com/fulls1z3/ngx-meta) -@ fulls1z3提供的用于Angular（带有服务器端渲染）的动态页面标题和元标签实用程序
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) -角奖轮组件！
-* [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb)  -零配置面包屑解决方案. 适用于Angular 6及更高版本的轻型，可配置和反应性面包屑.
+* [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb)  -零配置面包屑解决方案. 适用于Angular 6及更高版本的轻量，可配置和反应性面包屑.
   
 ### JAM Stack
 
@@ -692,7 +693,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Universal Seed Projects
 
 * [universal-starter](https://github.com/angular/universal-starter) -@ Angular-Class的Angular 2通用入门套件
-* [ng-seed/universal](https://github.com/ng-seed/universal) -用于Angular Universal应用程序的种子项目，通过@提供服务器端渲染（SSR），Webpack，开发/生产模式，DLL，AoT编译，HMR，SCSS编译，延迟加载，配置，缓存，i18n，SEO和TSLint / codelyzer fulls1z3
+* [ng-seed/universal](https://github.com/ng-seed/universal) -Angular Universal应用程序的种子项目，其中包含服务器端渲染（SSR），Webpack，开发/生产模式，DLL，AoT编译，HMR，SCSS编译，延迟加载，配置，缓存，i18n，SEO和TSLint / codelyzer fulls1z3
 * [angular-universal](https://github.com/enten/angular-universal) -Angular CLI支持的适用于Angular Universal 100％的快速，不受限制的极简主义入门套件
 * [angular-universal-heroku-starter](https://github.com/Alex61NN5/angular-universal-heroku-starter) -具有服务器端渲染（SSR）的Angular 7通用入门套件，可轻松部署到Heroku
 ---
@@ -700,7 +701,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 ### Angular 2 in TypeScript
 
 &gt; TypeScript使您可以按照自己想要的方式编写JavaScript.
-&gt; TypeScript是JavaScript的类型化超集，可编译为普通JavaScript.
+&gt; TypeScript是JavaScript的类型化超集，可编译为纯JavaScript.
 
 #### TypeScript General Resources
 
@@ -713,7 +714,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Angular Seed](https://mgechev.github.io/angular-seed/) Angular应用程序的种子项目
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) 使用TypeScript和SystemJS加载器的最小Angular2游乐场
-* [Angular Lab](https://github.com/rol和jitsu/angular-lab) 使用以下简单的Angular 2+设置 [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)，以及单元和e2e测试 [Travis CI](https://travis-ci.org) 和 [Saucelabs](https://saucelabs.com).
+* [Angular Lab](https://github.com/rol和jitsu/angular-lab) 一个简单的Angular 2+设置，使用 [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)，以及单元测试和e2e测试 [Travis CI](https://travis-ci.org) 和 [Saucelabs](https://saucelabs.com).
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0示例组件
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular-firebase)
 * [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) 基于Angular2的实际示例 [Rails tutorial](https://www.railstutorial.org/).
@@ -721,30 +722,30 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular 2 Starter](https://github.com/antonybudianto/angular-starter) -具有Gulp工作流程和Travis CI的Simple Angular 2 Starter
 * [Angular 2 Leaflet Starter](https://github.com/haoliangyu/ngx-leaflet-starter) -基于Angular 2和Leaflet的地图应用启动器
 * [Angular 2 MapboxGL Starter](https://github.com/haoliangyu/ngx-mapboxgl-starter) -另一个基于Angular 2和MapboxGL JS的地图应用入门
-* [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) -使用2向或1向重新连接WebSocket通信的简单计数器
-* [ng2-start](https://github.com/cebor/ng2-start) -最小化设置以开始创建angular2应用程序
-* [ng-kitchen-sink](https://github.com/born2net/Angular-kitchen-sink) -最终的Angular 2引导单页应用程序-涉及Angular的所有关键和高级方面
+* [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) -使用2路或1路重新连接网络套接字通信的简单计数器
+* [ng2-start](https://github.com/cebor/ng2-start) -最小设置以开始创建angular2应用程序
+* [ng-kitchen-sink](https://github.com/born2net/Angular-kitchen-sink) -最终的Angular 2引导程序单页应用程序-涉及Angular的所有关键和高级方面
 * [ng-skeleton](https://github.com/born2net/ng-skeleton) -具有ngrx，引导程序和两因素身份验证的终极Angular种子
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) 使用TypeScript / Sass / Npm任务的最小Angular2演示
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) -准备使用基于Angular 2和AdminLTE引导主题的仪表板控制面板种子项目.
-* [ngx-admin](https://github.com/akveo/ngx-admin) -基于Nebular框架的管理模板（Angular 4 +，Bootstrap 4+）
+* [ngx-admin](https://github.com/akveo/ngx-admin) -基于Nebular框架（Angular 4 +，Bootstrap 4+）的管理模板
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
-* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程，演示了此单元
+* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程.
   和完整的代码覆盖率
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) -使用Webpack构建的Tour of Heroes官方打字稿教程
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) -配置了Angular2，TypeScript和Webpack的简单入门工具.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) -具有AoT编译，延迟加载和摇树功能的Angular Webpack Starter
-* [Reaper](https://github.com/Xamber/Reaper) -没有2269依赖项的Angular 2 Webpack入门样板
+* [Reaper](https://github.com/Xamber/Reaper) -没有2269依赖项的Angular 2 Webpack Starter Boilerplate
 * [famn](https://github.com/implustech/famn) -用于客户端和服务器端的Angular 2 + FeathersJS应用程序框架
 * [Angular NPM Module Seed](https://github.com/davguij/angular-npm-module-seed) -开发Angular模块并将其发布到NPM的起点.
-* [Angular2 D3v4 Seed](https://github.com/gp187/angular2-d3v4-graph) -图表，图形，面积和视图移植种子项目的Angular2 D3v4实现
+* [Angular2 D3v4 Seed](https://github.com/gp187/angular2-d3v4-graph) -图表，图形，区域和视图移植种子项目的Angular2 D3v4实现
 * [ng-seed/spa](https://github.com/ng-seed/spa) -@ fulls1z3提供的针对具有Webpack，开发/生产模式，DLL，AoT编译，HMR，SCSS编译，延迟加载，配置，缓存，i18n，SEO和TSLint / codelyzer的Angular应用程序的种子项目
 * [Reboard](https://github.com/ksiabani/reboard) -带有ngx图表的Angular 4 + Material 2入门仪表板，基于生成器ngx-rocket（Typescript，SASS，Webpack，Jasmine + Karma，量角器，TSLint，Codelyzer，Stylelint，ngx-translate，Lodash，Angular Flex-Layout）
 * [Angular5 + Redux + Graphql + MySQL quickstart](https://github.com/rafaesc/fullstack-graphql-angular) -具有Angular CLI + Redux + Express + GraphQL + Sequelize的简单全栈GraphQL应用程序（支持MySQL，Postgres，Sqlite和MSSQL）.
-* [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) -Angular 5 + Firebase +一个非常好的路由器/模块结构，使其非常容易
+* [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) -Angular 5 + Firebase +一个非常好的路由器/模块结构，使您自己变得如此简单
 * [angular-app-example](https://github.com/daixianceng/angular-app-example) -最新的Angular +材质+ Sass主题+更漂亮的功能，仪表板应用程序示例
 * [NG-MATERO](https://github.com/ng-matero/ng-matero) -此Ng-Matero是用Material组件制成的Angular管理模板.
-* [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) -一个用于为Angular创建开源库的入门项目
+* [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) -用于为Angular创建开源库的入门项目
 * [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) -完整的Angular 10，NgRx，Angular CLI和Angular Material入门项目
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
@@ -766,7 +767,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Angular 2 in Cordova
 
-Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的API的流行移动应用程序开发框架.
+Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定的API的流行的移动应用程序开发框架.
 
 * [Cordova Framework](https://cordova.apache.org/) Apache Cordova的官方网站
 * [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Apache Cordova的官方文档
@@ -786,8 +787,8 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 * [Dart](https://www.dartlang.org/) Dart官方网站
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad使您可以在零安装，零配置的环境中在线玩Dart.
 * [Dart Organization (GitHub)](https://github.com/dart-lang) Dart的官方GitHub组织
-* [Pub](https://pub.dartlang.org/) Dart编程语言的软件包的存储库.
-* [Dartisans](https://plus.google.com/communities/114566943291919232850) Dart Google+官方社区
+* [Pub](https://pub.dartlang.org/) Dart编程语言的软件软件包的存储库.
+* [Dartisans](https://plus.google.com/communities/114566943291919232850) Dart官方Google+社区
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) Dart Slack官方频道.
 
 #### Dart Seed Projects
@@ -804,7 +805,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 ### Angular 2 in Traceur
 
-&gt; Traceur是JavaScript.next-to-to-day-of-day编译器
+&gt; Traceur是JavaScript.next-to-to-day-to-day编译器
 
 #### Traceur General Resources
 
@@ -847,7 +848,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 #### Babel Plugins
 
-* [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
+* [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Angular2的Babel预设
 * [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) rtts_assert的实验babel变压器插件
 
 ---
@@ -888,7 +889,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 ##### NativeScript General Resources
 
-* [NativeScript](https://www.nativescript.org/) NativeScript官方网站
+* [NativeScript](https://www.nativescript.org/) NativeScript的官方网站
 * [Using NativeScript](https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
 
 #### NativeScript Seed Projects
@@ -919,8 +920,8 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 ### Angular 2 in Haxe
 
- &gt; Haxe是基于现代，高级，严格类型的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式的开源工具包. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”，以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe），“在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以与javascript和pyhton（或java / php / node-可以在以后选择/缩放时更改）共享客户端中编译的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的功能.
-&gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...可以通过更少的打字，更防错，更稳定的方式本地访问即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
+ &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe）“可在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
+&gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...所有这些都可以通过本机实现，而无需打字，更防错，更稳定，即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
 
 ##### Haxe General Resources
 
@@ -961,7 +962,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 ### Angular 2 components with Bit
 
- &gt; Bit是一个开放源代码虚拟存储库（代码库），旨在使组件易于在应用程序中管理和使用. 您可以在处理任何项目时将任何上下文中的任何Angular组件快速导出到位分布式Scope.  Bit的重新使用组件环境减少了为导出每个新组件而配置构建和测试环境的开销.  Scope是一个虚拟组件存储库，用于存储，组织，管理和测试您的组件. 一旦在示波器上建模，就可以轻松地在任何Angular应用程序中找到和使用您的组件. 组件可以组织在一起，仍然可以修改和单独使用，而无需引入整个库.
+ &gt; Bit是一个开放源代码虚拟存储库（代码库），旨在使组件易于在应用程序中管理和使用. 您可以在处理任何项目时将任何上下文中的任何Angular组件快速导出到位分布式Scope.  Bit的重新使用组件环境减少了为导出每个新组件而配置构建和测试环境的开销.  Scope是一个虚拟组件存储库，用于存储，组织，管理和测试您的组件. 一旦在Scope上建模，就可以轻松地在任何Angular应用程序中找到和使用您的组件. 组件可以组织在一起，仍然可以修改和单独使用，而无需引入整个库.
 
 ##### Bit Resources
 
@@ -973,7 +974,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 #### Security
 
- *因此，您认为使用AngularJS安全吗？ 再想一想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
+ *因此，您认为使用AngularJS是安全的吗？ 再想一想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
   ##### 验证
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
@@ -991,7 +992,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 ---
 
-请享用 - [**PatrickJS**](https://twitter.com/PatrickJS__)
+enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
 
 ---
 

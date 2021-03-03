@@ -1,15 +1,5 @@
 <div class="github-widget" data-repo="MaximAbramchuck/awesome-interview-questions"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-&gt;精选的技术面试问题清单.
-
-[What makes for an awesome list?](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/awesome.md)
-
-请阅读 [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
-
----	
-
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com">	
@@ -20,12 +10,18 @@
 			<b>秘密管理，面向开发人员</b>	
 			<div>不再为分散的环境变量而烦恼，一起破解自制工具，</div>
 			<div>并避免使用访问控制. 使您的团队和服务器与多普勒保持同步.</div>
+			</br>
 		</a>	
 	</p>	
 </div>	
 
----
+## Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+&gt;精选的技术面试问题清单.
+
+[What makes for an awesome list?](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/awesome.md)
+
+请阅读 [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
 
 
 
@@ -179,6 +175,8 @@
 
 * [23 Beginner Level Ionic Framework Questions](http://www.codeandyou.com/p/ionic-interview-questions.html)
 * [12 Essential Ionic Interview Questions](https://www.toptal.com/ionic/interview-questions)
+* [45 Ionic Interview Questions](https://www.javatpoint.com/ionic-interview-questions)
+* [Most Asked Ionic Interview Questions](https://www.maheshbhusanoor.com/article/ionic-interview-questions-answers.html)
 
 ### iOS
 
@@ -207,6 +205,7 @@
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
 * [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 * [21 Essential Java Interview Questions](http://www.toptal.com/java/interview-questions)
+* [Top 30 Core Java Interview Questions](https://www.janbasktraining.com/blog/core-java-interview-questions-answers/)
 * [29 Essential Java Interview Questions from Adeva](https://adevait.com/java/interview-questions)
 * [A collection of Java interview questions and answers to them](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
@@ -375,6 +374,7 @@
 ### SharePoint
 
 * [Sharepoint Interview Question For Developer](http://www.rajeshg.me/2013/05/sharepoint-developer-2010-interview.html)
+* [Top SharePoint Interview Questions and Answers](https://intellipaat.com/blog/interview-question/sharepoint-interview-questions/)
 
 ### Shell
 
@@ -390,7 +390,7 @@
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 
 ### WordPress
-* [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+* [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 * [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
 ### TypeScript
@@ -523,9 +523,6 @@
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
 * [Answers to Front End Developer Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/README.md)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
-* [An Annotated List of Frontend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-frontend-candidates/)
-* [An Annotated List of Backend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-backend-candidates/)
-* [An Annotated List of DevOps Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-devops-candidates/)
 
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
@@ -537,6 +534,8 @@
 
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 * [Top 50 Data Structure Interview Questions from Career Guru](http://career.guru99.com/top-50-data-structure-interview-questions/)
+* [What is Data Structure? | Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
+
 
 ## Networks
 
@@ -553,11 +552,11 @@
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
 * [66 Job Interview Questions for Data Scientists](http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
-* [An Annotated List of Data Scientist Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-data-scientist/)
 * [Top 45 Data Science Interview Questions You Must Prepare In 2019](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 * [Top 30 data science interview questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 * [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
+* [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 
 ### License
 
