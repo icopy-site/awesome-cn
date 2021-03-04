@@ -21,7 +21,7 @@
 
 ## Dynamic type checkers
 
-- [beartype](https://github.com/beartype/beartype) -纯Python中难以置信的`O（1）`运行时类型检查. 
+- [beartype](https://github.com/beartype/beartype) -纯Python中难以置信的`O（1）`运行时类型检查.
 - [pytypes](https://github.com/Stewori/pytypes) -提供了一组丰富的实用程序，用于运行时类型检查.
 - [pydantic](https://github.com/samuelcolvin/pydantic)  -使用Python类型提示进行数据解析. 支持数据类.
 - [typeguard](https://github.com/agronholm/typeguard) -另一个运行时类型检查器.
@@ -65,20 +65,31 @@
 ### Testing
 
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) -Pytest的Mypy静态类型检查器插件.
-- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) -Pytest插件，用于测试mypy类型，存根和插件.
+- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 - [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) -Pytest插件来测试mypy静态类型分析.
 
 ### Working with types
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到Python代码中.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) -pytype工具链的一部分，将存根文件应用于源代码.
-- [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
-- [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.
 - [retype](https://github.com/ambv/retype) -另一个将存根应用于代码的工具.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) -从protobufs生成mypy存根的工具.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) -将经过mypy注释的静态类型的Python模块编译为CPython C扩展.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) -Typeing_inspect模块定义了实验性API，用于对Python标准键入模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) -用于处理类型化对象和JSON的库.
+
+### Helper tools to add annotations to existing code
+
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的Python代码中.
+- [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) -pytest的MonkeyType插件.
+- [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
+- [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.
+<!--lint disable double-link-->
+- [pyre infer](https://github.com/facebook/pyre-check)  -Pyre具有强大的功能，可将代码库迁移为键入格式. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项提取文件或目录，对使用的类型进行有根据的猜测，然后将注释应用于文件.
+<!--lint enable double-link-->
+- [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) -正在进行中的工具，用于使用其Python类型注释AST的节点.
+- [Typilus](https://github.com/typilus/typilus)  -用于预测Python类型的深度学习算法. 也可以作为 [GitHub action](https://github.com/typilus/typilus-action)
+- [Type4Py](https://github.com/saltudelft/type4py) -适用于Python的基于深度相似性学习的类型推断.
+
 
 ### Mypy plugins
 

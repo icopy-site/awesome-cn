@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的优秀利基工作委员会清单.
+精选的优秀利基工作委员会的清单.
 
 
 
@@ -17,6 +17,7 @@
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/)  -加密工作是人才与机会相遇的地方. 我们的目标是将充满激情的区块链和加密货币开发商与重视其才能和专业知识的公司联系起来.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) -区块链和加密货币工作的主要工作委员会
+* [Blockchain Works](https://blockchain.works-hub.com/) -通过``Blockchain Works&#39;&#39;发现**最佳**区块链机会和文章**
 
 ## Cloud
 
@@ -42,6 +43,7 @@
 
 * [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Jobs](https://kubejobs.io) -精心挑选和策划的Kubernetes工作.
+* [Kube Careers](https://kube.careers) —亲自挑选Kubernetes职位，明确薪资范围，并直接适用于公司.
 
 ## Gaming
 
@@ -60,7 +62,7 @@
 
 ### Full-Stack
 
-* [Full-Stack Developer Jobs](https://fullstackjob.com/) -全栈开发人员工作板
+* [Full-Stack Developer Jobs](https://fullstackjob.com/) -全栈开发人员的工作板
 
 ### Functional
 
@@ -109,6 +111,9 @@
 
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
+### Scala
+* [Scala Jobs](https://ScalaJobs.dev)
+
 ### WebAssembly
 
 * [WebAssembly Jobs](https://webassemblyjobs.com/)
@@ -123,7 +128,7 @@
 
 ### Aggregator
 
-* [Career Vault](https://careervault.io/) 每隔几个小时从900多家公司中刮除数千个远程工作
+* [Career Vault](https://careervault.io/) -每隔几个小时从900多家公司中刮除数千个远程工作
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
@@ -154,7 +159,7 @@
 
 * [GermanTech Jobs](https://germantechjobs.de/) -德国专用技术工作委员会
 * [SwissDev Jobs](https://swissdevjobs.ch/) -想要在瑞士工作的欧盟软件开发人员的工作
-* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) -瑞士的开发人员和IT工作 
+* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) -瑞士的开发人员和IT职位 
 
 ### United Kingdom
 
