@@ -24,8 +24,9 @@ Famously...
 ## Data Structures and Algorithms
 
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) -一种算法，可通过始终选择当前外观最佳的选项而无需过多考虑过去和将来的决策来找到解决方案.
+- [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing)  -从解决方案的丘陵“景观”中的某个地方开始，您将沿着最陡峭的上升方向前进，直到到达山顶. 不过，您可能会错过更高的丘陵. 
 - [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/)  -一种优先队列，并提及以色列臭名昭著的无组织队列. 当项目“已经等待朋友”时，可以在这里“插入行”.
-- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)）-与一叠煎饼一样，您只能从此数据结构的顶部添加和删除项目.
+- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Like with a stack of pancakes you can only add and remove items from the top of this data structure.
 - [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure) ）-分层组织的数据结构. 从_root_项将其他项_branch out_到_nodes_和_leaves_.
 - [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)）-在此数据结构中，项目始终总是在末尾添加，而在前端则被删除，就好像这些项目在排队等候一样.
 
@@ -55,7 +56,7 @@ Famously...
 ## Libraries and Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney)  -一个JavaScript库，实现用于并行计算的actor模型. 该术语是指同时也是演员的乔治·克鲁尼（George Clooney）.
-- [uppy](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of _upload_ and _puppy_. It even comes with a crash recovery plugin called _Golden Retriever_.
+- [uppy](https://github.com/transloadit/uppy)  -以狗为主题的上传器组件. 该名称是_upload_和_puppy_的混合体. 它甚至附带一个名为_Golden Retriever_的崩溃恢复插件.
 
 ## Machine Learning
 
@@ -82,7 +83,7 @@ Famously...
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) -网络/应用程序的中心部分，它极大地限制了吞吐量/性能，因此最好将其删除.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) -名称说明其外观的不同案例样式.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)）-一项隐藏功能，尤其是在视频游戏中，涉及复活节彩蛋狩猎.
-- [Floating point number](https://floating-point-gui.de/formats/fp/) -通过让基数点_float_而不是固定在适当的位置，此表示形式可以用数量有限的数字对大小不同的数字进行编码.
+- [Floating point number](https://floating-point-gui.de/formats/fp/) -通过让基数点_float_而不是固定在适当的位置，此表示形式可以用数量有限的数字对数量非常不同的数字进行编码.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) -在软件体系结构中（像在实际体系结构中一样），框架提供了基于该指南的基本结构，并限制了进一步的开发.
 - [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)）-程序的一部分，尝试查找并回收不再使用的内存垃圾.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) -积木和乐高积木不共享相同的界面，但您始终可以将它们粘合在一起.

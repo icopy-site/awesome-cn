@@ -14,17 +14,18 @@
 - [Ardour](https://ardour.org/)  -数字音频工作站（DAW）.  （[GNU GPLv2](https://ardour.org/copying.html))
 - [Libre.fm](https://libre.fm/)  -免费流式传输，下载，混音和共享音乐.  （[GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/)  -完整的数字音频工作站.  （[GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
-- [mStream](http://mstream.io/)  -用于在多个设备上同步和流式传输音乐的软件套件.  （[GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
+- [mStream](http://mstream.io/)  -用于在多个设备之间同步和流传输音乐的软件套件.  （[GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 - [Nuclear Music Player](https://nuclear.js.org/)  -流音乐播放器，可自动从免费资源中查找音乐.  （[GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
 
 ### Command Line Tools
 
 - [asciinema](https://asciinema.org/)  -终端会话记录器.  （[GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
-- [Cygwin](http://cygwin.com/)  -Windows的类Unix环境，提供对Linux系统上常见的许多工具的访问.  （[GNU GPLv3](https://cygwin.com/COPYING))
+- [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 - [Logdissect](https://github.com/dogoncouch/logdissect/)  -CLI工具和Python API，用于分析日志文件和其他数据.  （[MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  -通过SSH，Telnet，SCP和rlogin协议以及原始套接字连接进行连接的远程终端仿真器.  （[MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](https://ranger.github.io/)  -用于GNU / Linux的最小，轻巧和美观的文件浏览器. 它运行在终端窗口中，因此非常适合i3之类的窗口管理器.  vi键绑定允许执行快速操作，包括重命名和删除.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
-- [GNU stow](https://www.gnu.org/software/stow/)  -GNU Stow是一个symlink服务器场管理器，它采用位于文件系统上单独目录中的不同软件和/或数据包，并使它们看起来安装在同一位置.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+- [GNU stow](https://www.gnu.org/software/stow/)  -GNU Stow是一个symlink服务器场管理器，它采用位于文件系统上不同目录中的不同软件和/或数据包，并使它们看起来安装在同一位置.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+- [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) -用于管理软件项目中的i18n密钥的开源工具.
 
 ### Communication
 
@@ -35,8 +36,8 @@
 - [Matrix](https://matrix.org/)  -分散，持久和可互操作的通信的开放标准.  （[Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 - [Mattermost](https://mattermost.com/)  -开源，私有云替代Slack.  （[Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/)  -基于Web的安全电子邮件服务.  （[MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
-- [Ring](https://ring.cx/)  -通过分布式服务进行电话，电话会议和媒体共享.  （[GNU GPLv3](https://ring.cx/en/about/practical))
-- [Signal](https://signal.org/)  -私人消息传递，并要求桌面，Android和iOS.  （[GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
+- [Ring](https://ring.cx/)  -通过分布式服务的电话，电话会议和媒体共享.  （[GNU GPLv3](https://ring.cx/en/about/practical))
+- [Signal](https://signal.org/)  -私人消息传递和呼叫桌面，Android和iOS.  （[GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
 - [Tox](https://tox.chat/)  -具有语音，视频和屏幕共享功能的加密和分布式消息传递平台.  （[GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 - [Tutanota](https://tutanota.com/)  -免费加密的电子邮件，支持企业帐户.  （[GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
@@ -56,14 +57,14 @@
 - [ExifCleaner](https://exifcleaner.com/)  -GUI应用程序，通过简单的拖放操作即可从图像和视频中删除exif元数据.  （[MIT](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
 - [GIMP](http://www.gimp.org/)  -图像处理软件.  （[GNU GPLv3](https://www.gimp.org/about/COPYING))
 - [Inkscape](https://inkscape.org)  -适用于所有平台的专业矢量图形编辑器.  （[GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
-- [Krita](https://krita.org)  -艺术家制作的绘画程序.  （[GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
+- [Krita](https://krita.org)  -由艺术家制作的绘画程序.  （[GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
 - [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 - [Piskel](http://www.piskelapp.com/)  -在线精灵编辑器.  （[Apache License 2.0](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
 
 ### IDEs
 
-- [Eclipse](https://www.eclipse.org/eclipseide/)  -可扩展的IDE，支持最新的Java版本以及其他语言.  （[EPL](http://www.eclipse.org/legal/epl-v10.html))
-- [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)  -Java / Android IDE，旨在最大程度地提高开发人员的生产力.  （[Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
+- [Eclipse](https://www.eclipse.org/eclipseide/)  -支持最新Java版本以及其他语言的可扩展IDE.  （[EPL](http://www.eclipse.org/legal/epl-v10.html))
+- [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)  -Java / Android IDE，旨在最大程度地提高开发人员的工作效率.  （[Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 
 ### Office
 
@@ -75,14 +76,15 @@
 - [Debian](https://www.debian.org/)  -最早的类UNIX操作系统之一，致力于将非自由软件排除在其系统之外.  （[DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
 - [Devuan](https://devuan.org/)  -不带systemd的Debian分支.  （[Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/)  -FSF认可的Debian衍生产品.  （多个许可证）
-- [LineageOS](https://lineageos.org/)  -手机和平板电脑的Android发行版，以及CyanogenMod的后继产品.  （多个许可证）
+- [LineageOS](https://lineageos.org/)  -适用于手机和平板电脑的Android发行版，以及CyanogenMod的后继产品.  （多个许可证）
 
 ### Other
 
 - [Disroot](https://disroot.org/)  -此列表中许多服务的托管版本.  （多个许可证）
-- [OpenMapTiles](https://openmaptiles.org/)  -一套开放源代码工具，用于以50多种语言自托管OpenStreetMap地图. 它为GIS程序提供栅格以及矢量切片，WMS和WMTS服务，支持JavaScript查看器和移动SDK.  （[BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
+- [OpenMapTiles](https://openmaptiles.org/)  -一套开源工具，用于以50多种语言自托管OpenStreetMap地图. 它为GIS程序提供栅格以及矢量图块，WMS和WMTS服务，支持JavaScript查看器和移动SDK.  （[BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 - [ZeroNet](https://zeronet.io/)  -使用比特币加密技术和BitTorrent网络的分散式网站.  （[GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
-- [Simple Mobile Tools](https://simplemobiletools.github.io/) -带有可自定义小部件的Android应用，无需烦人的广告和不必要的权限.
+- [Simple Mobile Tools](https://simplemobiletools.github.io/) -具有可自定义小部件的Android应用，无需烦人的广告和不必要的权限.
+- [IP2Trace](https://github.com/ip2location/ip2location-traceroute)  -跟踪路由工具，可使用IP2Location数据库显示地理位置信息.  （[MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
 ### Payments
 
@@ -113,14 +115,14 @@
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)  -开源macOS应用程序，可让您从菜单栏或使用键盘快捷键（⌥⌘G）快速切换灰度滤镜.  （[MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 - [Markdownify](https://markdownify.js.org)  -最小的Markdown编辑器.  （[MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 - [Sandman](https://alexanderepstein.github.io/Sandman/)  -让您知道何时关闭计算机并根据计算出的睡眠周期进入睡眠状态.  （[MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
-- [Search Deflector](https://spikespaz.com/search-deflector)  -一个小程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  （[MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
-- [Wireshark](https://www.wireshark.org/)  -用于网络故障排除和分析的数据包分析器.  （[GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
+- [Search Deflector](https://spikespaz.com/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  （[MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
+- [Wireshark](https://www.wireshark.org/)  -数据包分析器，用于网络故障排除和分析.  （[GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
   
 ### Video
 
 - [NewPipe](https://newpipe.schabi.org/)  -适用于Android的轻量级YouTube前端.  （[GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
 - [Kodi](https://kodi.tv/)  -家庭影院软件和娱乐中心.  （[GNU GPLv2](https://github.com/xbmc/xbmc/blob/master/README.md))
-- [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
+- [VLC](http://www.videolan.org/vlc/)  -支持多种音频和视频格式的多媒体播放器.  （[GNU GPLv3](http://www.videolan.org/videolan/))
 - [youtube-dl](https://rg3.github.io/youtube-dl/)  -功能丰富的命令行程序，可从YouTube和其他视频网站下载视频.  （[Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 - [MPV](https://mpv.io/)  -具有脚本支持的可定制多媒体播放器.  （[GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
   
@@ -144,7 +146,7 @@
 - [MediaWiki](https://www.mediawiki.org)  -Wiki软件，可以组织和提供大量频繁访问的数据.  （[GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [MetaGer](https://metager.de/en)  -由非营利组织创建的私有搜索引擎，其服务器使用绿色电力.  （[GNU AGPLv3](https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE))
 - [Neocities](https://neocities.org/)  -适用于现代世界的地理城市.  （[BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
-- [NotABug.org](https://notabug.org/)  -用于免费许可项目的协作平台.  （[MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
+- [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org)  -由用户创建并在开放许可下发布的世界地图.  （[GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube)  -分散式视频流服务.  （[GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Phabricator](https://phacility.com/phabricator/)  -使用PHP构建的代码管理平台（类似于GitLab）.  （[Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))
@@ -155,7 +157,7 @@
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/)  -安全，高效且可扩展的Web服务器.  （[Apache License 2.0](http://www.apache.org/licenses/))
-- [lighttpd](http://www.lighttpd.net/)  -针对速度至关重要的环境进行了优化，同时保持符合标准，安全且灵活.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
+- [lighttpd](http://www.lighttpd.net/)  -针对速度至关重要的环境进行了优化，同时保持了符合标准，安全和灵活的状态.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/)  -HTTP和反向代理服务器，邮件代理服务器和通用TCP / UDP代理服务器.  （[2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware
@@ -172,10 +174,10 @@
 
 ### Hardware Resources
 
-- [disaster.radio](https://disaster.radio/) -建立在免费软件和负担得起的开放硬件上的离网太阳能供电的远程网格网络.
+- [disaster.radio](https://disaster.radio/) -以免费软件和负担得起的开放硬件为基础的离网太阳能供电的远程网状网络.
 - [h-node](https://h-node.org/) -与完全免费的操作系统一起使用的硬件数据库.
 - [Linux Preloaded](https://linuxpreloaded.com/) -精心挑选的来自许多地区的供应商清单，这些供应商出售预先安装有免费软件的计算机.
-- [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) -有资格获得自由软件基金会的RYF认证.
+- [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) -符合获得自由软件基金会RYF认证的要求.
 
 ## Resources
 
@@ -183,7 +185,7 @@
 
 - [Free Software](https://en.wikipedia.org/wiki/Free_software) -关于自由软件的维基百科条目.
 - ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) -学术文章，介绍了对自由软件及其可持续性的经济分析.
-- [Software Freedom](https://devuan.org/os/free-software) -简短，简单的解释，为什么Devuan中的自由软件很重要.
+- [Software Freedom](https://devuan.org/os/free-software) -简短，简单的说明，为什么Devuan中的自由软件很重要.
 
 ### Blogs
 
@@ -202,7 +204,7 @@
 ### Events
 
 - [LibrePlanet](https://libreplanet.org/) -关于免费软件的年度会议.
-- [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) -每年在全球范围内庆祝自由软件，以提高人们对自由软件及其美德的认识.
+- [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) -每年在全球范围内举行的自由软件庆祝活动，旨在提高人们对自由软件及其美德的认识.
 
 ### Licensing
 
@@ -213,9 +215,9 @@
 
 - [April](https://www.april.org/) -促进和捍卫自由软件.
 - [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) -促进通过技术获取知识.
-- [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
+- [Framasoft](https://framasoft.org/) -致力于全球推广免费软件，创新项目以及共享与合作世界的网络.
 - [Free Software Foundation](https://www.fsf.org/) -非营利组织，其全球使命是促进计算机用户自由.
-- [Free Software Movement Karnataka](https://fsmk.org/) -印度班加罗尔的小组，他们传播有关自由软件的知识.
+- [Free Software Movement Karnataka](https://fsmk.org/) -印度班加罗尔的小组，他们传播有关自由软件的意识.
 - [Free Software Movement of India](http://fsmi.in/) -印度自由软件组织联盟.
 - [FSF India](http://gnu.org.in/) -FSF的印度姐妹站点.
 - [FSFE](https://fsfe.org/) -FSF的欧洲姊妹站点.
@@ -227,7 +229,7 @@
 - [Software Freedom Conservancy](https://sfconservancy.org/) -有助于促进，改善，开发和捍卫自由，自由和开源软件项目的慈善机构.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) -免费，免费和开源软件创建者的免费法律服务提供商.
 - [Snowdrift.coop](https://snowdrift.coop/) -公共产品的人群匹配.
-- [TuxFamily](https://www.tuxfamily.org/) -免费项目免费托管和其他服务.
+- [TuxFamily](https://www.tuxfamily.org/) -免费项目的免费托管和其他服务.
 
 ### Other Lists
 

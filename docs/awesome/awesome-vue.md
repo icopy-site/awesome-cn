@@ -700,6 +700,8 @@
 - [Trooveo](https://github.com/joek85/trooveo) -搜索，收听YouTube视频（仅音频），没有YouTube Api.
 - [Yacht](https://github.com/Selfhostedpro/Yacht) -使用Vuetify的Docker容器管理Webui，轻松管理Docker容器和项目.
 - [Antares SQL](https://github.com/Fabio286/antares) -使跨平台的SQL客户端变得简单而完整.
+- [Bagisto](https://github.com/bagisto/bagisto) -为所有人建立和扩展业务的免费和开源Laravel电子商务框架.
+
 ### Commercial Products
 
 - [Wijmo](http://wijmo.com/products/wijmo-5/) -带有VueJS支持的UI控件的集合.
@@ -720,8 +722,7 @@
 - [vREST NG](https://ng.vrest.io) -使用VueJS和Element UI构建的用于自动化API测试的企业应用程序.
 - [ScaleChamp](https://www.scalechamp.com) -具有Hetzner，AWS，Linode，IBM，Azure，Scaleway，阿里云，DigitalOcean，GCP和UpCloud支持的多云托管数据库提供商
 - [Coloban](https://www.coloban.com) -包含聊天，看板，甘特图，通话，屏幕共享等功能的多合一项目管理工具.
-- [NxShell](https://github.com/nxshell/nxshell) -基于Electron和VueJS的SSH易于使用的新终端.
-- [Bagisto](https://github.com/bagisto/bagisto) -为所有人建立和扩展业务的免费和开源Laravel电子商务框架. 
+- [NxShell](https://github.com/nxshell/nxshell) -基于Electron和VueJS的SSH易于使用的新终端. 
 
 ### Apps/Websites
 
