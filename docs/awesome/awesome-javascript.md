@@ -17,7 +17,7 @@
 * [Bower](https://github.com/bower/bower) -Web的程序包管理器.
 * [component](https://github.com/componentjs/component) -客户端软件包管理，用于构建更好的Web应用程序.
 * [spm](https://github.com/spmjs/spm) -全新的静态软件包管理器.
-* [jam](https://github.com/caolan/jam) -使用针对浏览器且与RequireJS兼容的存储库的软件包管理器.
+* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [jspm](https://github.com/jspm/jspm-cli) -无摩擦的浏览器包管理.
 * [Ender](https://github.com/ender-js/Ender) -无图书馆图书馆.
 * [volo](https://github.com/volojs/volo) -从模板创建前端项目，添加依赖项，并自动生成结果项目.
@@ -130,9 +130,10 @@
 
 ## MVC Frameworks and Libraries
 
-* [angular.js](https://github.com/angular/angular.js) -增强了针对Web应用程序的HTML.
+* [angular.js](https://github.com/angular/angular.js)  -增强了针对Web应用程序的HTML.  （已弃用）
+* [angular](https://github.com/angular/angular) -Angular是一个开发平台，用于使用Typescript / JavaScript和其他语言来构建移动和桌面Web应用程序.
 * [aurelia](http://aurelia.io) -适用于移动设备，台式机和网络的JavaScript客户端框架.
-* [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
+* [backbone](https://github.com/jashkenas/backbone) -为您的JS应用提供一些具有模型，视图，集合和事件的主干.
 * [ember.js](https://github.com/emberjs/ember.js) -用于创建雄心勃勃的Web应用程序的JavaScript框架.
 * [meteor](https://github.com/meteor/meteor) -超简单，无处不在的数据库，在线数据，纯JavaScript网络框架.
 * [ractive](https://github.com/ractivejs/ractive) -下一代DOM操作.
@@ -151,7 +152,7 @@
 * [thorax](https://github.com/walmartlabs/thorax) -加强骨干.
 * [chaplin](https://github.com/chaplinjs/chaplin) -使用Backbone.js库的JavaScript应用程序体系结构.
 * [marionette](https://github.com/marionettejs/backbone.marionette) -Backbone.js的复合应用程序库，旨在简化大规模JavaScript应用程序的构建.
-* [ripple](https://github.com/ripplejs/ripple) -建立反应式视图的微小基础.
+* [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
 * [rivets](https://github.com/mikeric/rivets) -轻巧而强大的数据绑定+模板解决方案.
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     * [derby-awesome](https://github.com/russll/awesome-derby) -令人敬畏的德比组件的集合
@@ -166,6 +167,7 @@
 * [Alpine.js](https://github.com/alpinejs/alpine) -以较低的成本为您提供大型框架（如Vue或React）的反应性和声明性.
 * [inferno](https://github.com/infernojs/inferno) -一个非常快的，类似于React的JavaScript库，用于构建现代用户界面.
 * [FoalTS](https://foalts.org) -优雅而全面的Node.JS框架，用于构建Web应用程序（TypeScript）.
+* [Lucia](https://github.com/aidenybai/lucia) -用于小型Web应用程序的3kb库.
 
 ## Node-Powered CMS Frameworks
 
@@ -303,7 +305,7 @@
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
-* [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+* [coddoc](http://doug-martin.github.io/coddoc/) 是一个jsdoc解析库.  Coddoc的不同之处在于，它很容易扩展，通过允许用户使用coddoc.addTagHandler和coddoc.addCodeHandler来添加标签和代码解析器.  coddoc还解析要在API中使用的源代码.
 * [sphinx](http://www.sphinx-doc.org/) 一个易于创建智能，精美文档的工具
 * [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
@@ -372,6 +374,7 @@
 * [date-fns](https://github.com/date-fns/date-fns) -现代的JavaScript日期实用程序库.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) -建立在Google地图之上的浏览器倒计时.
 * [dayjs](https://github.com/iamkun/dayjs) -具有相同现代API的Day.js 2KB不可变日期库替代Moment.js.
+* [luxon](https://github.com/moment/luxon) -Luxon是一个使用JavaScript处理日期和时间的库.
 
 ## String
 *字符串库.*
@@ -396,7 +399,7 @@
 * [odometer](https://github.com/HubSpot/odometer) -轻松平滑地过渡数字.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) -用于数字，货币和货币格式的轻量级JavaScript库-完全可本地化，零依赖性.
 * [money.js](https://github.com/josscrowcroft/money.js) -一个很小的（1kb）JavaScript货币转换库，用于Web和nodeJS.
-* [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
+* [Fraction.js](https://github.com/infusion/Fraction.js) -用于JavaScript的有理数库.
 * [Complex.js](https://github.com/infusion/Complex.js) -JavaScript的复杂数字库.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) -JavaScript的多项式库.
 * [Quaternion.js](https://github.com/infusion/Quaternion.js) -JavaScript的四元数库
@@ -544,7 +547,7 @@
 *用于指示负载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) -创建Google Material Design进度线性条.
-* [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度栏.
+* [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
@@ -577,7 +580,7 @@
 * [keymaster](https://github.com/madrobby/keymaster) -一个简单的微库，用于定义和分配键盘快捷键.
 * [Keypress](https://github.com/dmauro/Keypress) -键盘输入捕获实用程序，其中任何键都可以是修饰键.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) -一个用于绑定键盘组合的JavaScript库，而不会造成键代码和键组合冲突的困扰.
-* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
+* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) -jQuery Hotkeys使您可以在代码中的任何地方监视键盘事件，从而支持几乎任何按键组合.
 * [jwerty](https://github.com/keithamus/jwerty) -出色的键盘事件处理.
 
 
@@ -702,7 +705,7 @@
 ## Modals and Popups
 
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) -注重性能的轻便且响应迅速的灯箱脚本.
-* [jquery-popbox](https://github.com/gristmill/jquery-popbox) -jQuery PopBox UI元素.
+* [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) -带有用于弹出窗口的新模式概念的jQuery插件.
 * [vex](https://github.com/HubSpot/vex) -高度可配置且易于设置样式的现代对话框库.
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal)  -扩展默认的Bootstrap Modal类. 响应式，可堆叠，ajax等.
@@ -740,7 +743,7 @@
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) -contextMenu管理器.
 * [Slideout](https://github.com/mango/slideout) -用于移动Web应用程序的响应式触摸滑出导航菜单.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) -与touchSwipe库一起使用的滑动式滑动菜单.
-* [mmenu](https://github.com/FrDH/jQuery.mmenu) -适用于应用程序外观的最佳jQuery插件，带有可滑动的子菜单，适用于您的网站和Web应用程序.
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) -适用于应用程序外观的最佳jQuery插件，带有可滑动的子菜单，适用于您的网站和webapp的上下菜单.
 
 
 ## Table/Grid
@@ -796,9 +799,9 @@
 
 ## Video/Audio
 
- * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有出色的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
+ * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -网页上的HTML5视频播放器
  <https://flowplayer.org/>
@@ -846,7 +849,7 @@
 * [Anime.js](http://animejs.com) -JavaScript动画引擎http://animejs.com.
 * [Mo.js](http://mojs.io) -Web http://mojs.io的运动图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) -用于创建粒子的轻量级JavaScript库.
-* [tsParticles](https://github.com/matteobruni/tsparticles) -带有错误修复和许多新功能的particles.js的新的和改进的版本
+* [tsParticles](https://github.com/matteobruni/tsparticles) -具有错误修复和许多新功能的particles.js的新改进版
 * [particles-bg](https://github.com/lindelof/particles-bg) -轻巧的Rea​​ct粒子动画背景组件.
 
 ## Image Processing
@@ -868,7 +871,7 @@
 
 ## Generators
 
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的静态网站生成器.
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的静态站点生成器.
 * [Gridsome](https://github.com/gridsome/gridsome) -Vue供电的静态站点生成器.
 
 ## SDK
@@ -896,7 +899,7 @@ http://www.listjs.com
 * [survey.js](https://github.com/surveyjs/surveyjs)  -JavaScript Survey Engine. 它使用JSON来提供调查元数据和结果.  http://surveyjs.org/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) -可帮助您确定在任何给定时间最适合使用哪种本机JavaScript方法的资源
 * [Clipboard.js](https://clipboardjs.com/) -不使用Flash或使用Framework的“复制到剪贴板”.
-* [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
+* [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
 * [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
 * [iooxa](https://github.com/iooxa/article) -互动式科学写作，反应性文档和可解释性说明的组成部分.
@@ -916,7 +919,7 @@ http://www.listjs.com
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) -易于阅读，快速参考的JS最佳实践，可接受的编码标准和Web上的链接.
 * [JSbooks](https://github.com/revolunet/JSbooks) -免费的JavaScript电子书目录.
 * [Superhero.js](http://superherojs.com) -有关创建，测试和维护大型JavaScript代码库的资源的集合.
-* [SJSJ](https://github.com/HugoGiraudel/SJSJ) -简化的JavaScript行话是一种由社区驱动的尝试，用几个简单的词来解释流行语的数量，这些流行语使当前的JavaScript生态系统成为可能.
+* [SJSJ](https://github.com/HugoGiraudel/SJSJ) -简化的JavaScript行话是一种由社区驱动的尝试，用几个简单的词来解释使当前JavaScript生态系统流行的流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) -有关发布JavaScript开放源代码库的一系列步骤的综合指南.
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) -从各种各样的用户排名在线教程中在线学习Javascript.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) -JavaScript中实用，平衡的FP.

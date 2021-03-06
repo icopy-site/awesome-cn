@@ -43,8 +43,9 @@
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) -Virtualenv包装器.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) -自定义您 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在iTerm2中.
-- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) -通过在使用提示时提示提示来记住缩写.
+- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) -当您可以使用提示时，通过显示提示来记住缩写.
 
 ## Docker
 
-- [Ubuntu LTS container](https://hub.docker.com/r/dideler/fish-shell)
+- [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
+- [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)

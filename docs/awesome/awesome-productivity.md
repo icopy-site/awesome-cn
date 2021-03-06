@@ -1,87 +1,99 @@
 <div class="github-widget" data-repo="jyguyomarch/awesome-productivity"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;精选生产力资源的精选清单.
+&gt;精选的令人愉悦的生产力资源清单.
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 
 
 ## Websites
 
-- [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - 使用这些提示驯服您的Outlook，以便更接近令人敬畏的_Inbox Zero_.
-- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - 关于如何实现GTD的教程 [Remember the Milk](https://www.rememberthemilk.com).
-- [Inbox Zero](http://www.43folders.com/izero) - 严格的电子邮件管理方法，旨在始终保持收件箱（几乎）为空.
-- [Lifehacker](http://lifehacker.com/) - 用于完成工作的提示，技巧和下载的首选博客.
-- [Pomodoro Technique](http://pomodorotechnique.com/) - 以25分钟的包裹完成任务，并在更短的时间内完成更多工作.
-- [r/Productivity](https://www.reddit.com/r/productivity/) - 生产力subreddit.
-- [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - 一个小技巧，一直保持我的桌面清洁多年.
-- [The Bullet Journal](http://bulletjournal.com/) - 一种笔和纸方法，将简单的笔记本变成高效的生产力工具.
-- [Zen Habits](https://zenhabits.net/) -  Leo Babauta的博客，主题包括简化生活.
-- [ShortLib](https://shortlib.com/) - 为Windows，Mac和Linux收集数百个快捷方式.
+- [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) –使用这些技巧驯服您的Outlook，以便更接近真棒_Inbox Zero_.
+- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) –有关如何通过以下方式实现GTD的教程 [Remember the Milk](https://www.rememberthemilk.com).
+- [Inbox Zero](http://www.43folders.com/izero) –严格的电子邮件管理方法，旨在始终保持收件箱（几乎）为空.
+- [Lifehacker](http://lifehacker.com/) –有关如何完成工作的技巧，窍门和下载的博客.
+- [Pomodoro Technique](http://pomodorotechnique.com/) –将您的任务分成25分钟一包，并在更短的时间内完成更多工作.
+- [r/Productivity](https://www.reddit.com/r/productivity/) -生产力subreddit.
+- [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) –多年来一直使我的桌面保持清洁的一个小窍门.
+- [The Bullet Journal](http://bulletjournal.com/) –一种笔和纸的方法，可以将简单的笔记本变成高效的生产力工具.
+- [Zen Habits](https://zenhabits.net/) – Leo Babauta撰写的博客，主题涉及简化生活.
+- [ShortLib](https://shortlib.com/) -数百种适用于Windows，Mac和Linux的快捷方式的集合.
 
 ## Online Courses
 
 ## Books
 
-- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) 作者：David Allen  - 一种非常简单有效的时间管理方法.
-- [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) 作者：Kory Kogon，Adam Merrill，Leena Rinne  - 一种全面的生产力方法，涉及优先级，调度，技术和能源管理.
+- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) David Allen着-一种非常简单有效的时间管理方法.
+- [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) 作者：Kory Kogon，Adam Merrill和Leena Rinne，这是一种涉及优先级，计划，技术和能源管理的全方位生产力方法.
 
 ## Tools and Apps
 
 ### File Management
 
-- [Box](https://www.box.com) - 面向企业客户的非常好的云存储解决方案.
-- [Dropbox](https://www.dropbox.com) - 简单，优雅和多功能（PC，Mac，Android ......）云存储解决方案.
-- [Google Drive](https://www.google.ca/drive/) - 云存储解决方案深度集成在Google生态系统中.
-- [OneDrive](https://onedrive.live.com) - 面向Windows用户的最佳云存储解决方案.
-- [Mega](https://mega.nz/) - 非常慷慨（50G起步）和高度安全的云存储解决方案.
+- [Box](https://www.box.com) –非常适合企业客户的云存储解决方案.
+- [Dropbox](https://www.dropbox.com) –简单，优雅，功能多样（PC，Mac，Android ...）的云存储解决方案.
+- [Google Drive](https://www.google.ca/drive/) –深度集成在Google生态系统中的云存储解决方案.
+- [OneDrive](https://onedrive.live.com) –适用于Windows用户的最佳云存储解决方案.
+- [Mega](https://mega.nz/) –非常慷慨的（一口气提供50G）和高度安全的云存储解决方案.
 
 ### Note Management
 
-- [Evernote](https://evernote.com/) -  Evernote基本上可以成为你的第二脑，并为你记住一切.
-- [Google Keep](http://www.google.com/keep/) - 与Google产品紧密集成的简单便捷的Note管理系统.
-- [Inkdrop](https://www.inkdrop.info/) -  Markdown爱好者的跨平台笔记应用程序.
-- [OneNote](https://www.onenote.com/) - 非常好的Note管理解决方案，但最适合Windows用户.
-- [Preserver](https://github.com/hsbalar/preserver) - 基于Electron的Notes组织者桌面应用程序.
-- [Simplenote](https://simplenote.com/)   - 轻盈，干净，自由.  Simplenote现在可用于iOS，Android，Mac，Windows，Linux和Web.
-- [Standard Notes](https://standardnotes.org/) - 一个简单的私人笔记应用程序.
-- [WorkFlowy](https://workflowy.com/) - 嵌套公告列表的基于Web的概述应用程序.
-- [Notion](https://www.notion.so/) - 用于笔记，任务，维基和列表的一体化非常可定制的工作区.
-
+- [Evernote](https://evernote.com/) – Evernote基本上可以成为您的第二脑，为您记住所有内容.
+- [Google Keep](http://www.google.com/keep/) –美观，简单的记事管理系统，与Google产品紧密集成.
+- [Inkdrop](https://www.inkdrop.info/) – Markdown爱好者的跨平台笔记应用程序.
+- [OneNote](https://www.onenote.com/) –非常好的Note管理解决方案，但最适合Windows用户.
+- [Preserver](https://github.com/hsbalar/preserver) –基于Electron的Notes Organizer桌面应用程序.
+- [Simplenote](https://simplenote.com/)  –轻便，干净且免费. 现在，Simplenote可用于iOS，Android，Mac，Windows，Linux和Web.
+- [Standard Notes](https://standardnotes.org/) –一个简单且私人的笔记应用程序.
+- [WorkFlowy](https://workflowy.com/) –用于嵌套公告列表的基于Web的大纲应用程序.
+- [Notion](https://www.notion.so/) –一个用于笔记，任务，Wiki和列表的非常可定制的一体化工作空间.
 
 ### Task Management
 
-- [Airtable](https://airtable.com/) - 混合电子表格和数据库，以帮助组织工作.
-- [Any.do](http://www.any.do/) - 简单的界面，包含功能，目前最喜欢的待办事项列表管理器 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
-- [Hitask](https://hitask.com) - 团队的简单项目和任务管理.
-- [KanbanFlow](https://kanbanflow.com) - 使用番茄钟技术的看板方法任务板.
-- [OmniFocus](https://www.omnigroup.com/omnifocus) - 适用于Mac OS X和iOS的基于Getting Things Done的任务管理器.
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - 您的菜单栏/托盘的番茄钟应用程序.
-- [Remember the Milk](https://www.rememberthemilk.com) - 擅长管理待办事项和基于位置的任务的标签.
-- [Taskade](https://taskade.com) - 团队的简单协作任务列表.
-- [Taskwarrior](http://taskwarrior.org/)   - 开源命令行任务管理器.  灵活，快速，高效，不引人注目.
-- [Timing](https://timingapp.com/)   -  Mac的自动时间和生产力跟踪.  帮助您保持正常工作，并确保如果您按小时计费，则不会丢失计费时间.
-- [Todo.txt](http://todotxt.com/)   - 厌倦了使用复杂的应用来组织你的任务？  Todo.txt是一种使用单个`.txt`文件来帮助您完成工作的技术.
-- [Todoist](https://todoist.com/) - 强大的跨平台生产力工具.
-- [Topydo](https://www.topydo.org) - 使用todo.txt格式的强大待办事项列表应用程序，位于todo.txt CLI和Taskwarrior之间.
-- [Trello](https://trello.com) - 看板方法任务板.
-- [VivifyScrum](https://www.vivifyscrum.com)   - 为交付团队提供敏捷项目管理应用程序.  可定制的Scrum和看板.
-- [Wunderlist](https://www.wunderlist.com/) - 具有iOS和Android，Windows，OS X和Linux应用程序的跨平台，桌面和移动待办事项列表管理器.
+- [Airtable](https://airtable.com/) –电子表格和数据库的混合，以帮助组织工作.
+- [Amazing Marvin](https://www.amazingmarvin.com/) -马文（Marvin）结合了行为心理学的原理，以帮助消除拖延症，控制自己的情绪并完成待办事项清单.
+- [Any.do](http://www.any.do/) –简单的界面，包含许多功能，目前是最受欢迎的待办事项列表管理器，位于 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
+- [Hitask](https://hitask.com) –便于团队进行项目和任务管理.
+- [KanbanFlow](https://kanbanflow.com) –具有Pomodoro技术的看板方法任务板.
+- [OmniFocus](https://www.omnigroup.com/omnifocus) –适用于Mac OS X和iOS的基于“完成工作”的任务管理器.
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) –菜单栏/托盘的Pomodoro应用程序.
+- [Remember the Milk](https://www.rememberthemilk.com) –擅长管理待办事项和基于位置的任务的标签.
+- [Taskade](https://taskade.com) –团队的简单协作任务列表.
+- [Taskwarrior](http://taskwarrior.org/)  –一个开源命令行任务管理器. 灵活，快速，高效且不引人注目.
+- [Timing](https://timingapp.com/)  – Mac的自动时间和生产力跟踪. 帮助您保持工作进度，并确保按小时计费不会浪费可计费时间.
+- [Todo.txt](http://todotxt.com/)  –厌倦了使用复杂的应用来组织您的任务？  Todo.txt是一种使用单个`.txt`文件来帮助您完成工作的技术.
+- [Todoist](https://todoist.com/) –强大的跨平台生产力工具.
+- [Topydo](https://www.topydo.org) –使用todo.txt格式的功能强大的待办事项列表应用程序，位于todo.txt CLI和Taskwarrior之间.
+- [Trello](https://trello.com) –看板方法任务板.
+- [VivifyScrum](https://www.vivifyscrum.com)  –交付团队的敏捷项目管理应用程序. 可定制的Scrum和看板.
+- [Wunderlist](https://www.wunderlist.com/) –跨平台，桌面和移动待办事项列表管理器，具有适用于iOS和Android，Windows，OS X和Linux的应用程序.
 
 ### Habit Trackers
 
-- [everydayCheck](https://everydaycheck.com) - 通过每天做事来养成新的习惯.
-- [Habitica](https://habitica.com) - 在角色扮演游戏（以前称为_HabitRPG_）中完成现实生活中的每日目标.
-- [HabitBull](http://www.habitbull.com/) - 高级习惯跟踪器.
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits) - 用于创建和维护良好习惯的Android应用程序.
-- [Waka Time](https://wakatime.com/) - 开源插件，用于准确了解编码的时间.
+- [everydayCheck](https://everydaycheck.com) –每天做事养成新习惯.
+- [Habitica](https://habitica.com) –在角色扮演游戏（以前称为_HabitRPG_）中完成您的现实日常目标.
+- [HabitBull](http://www.habitbull.com/) –高级习惯跟踪器.
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) –一个用于创建和维护良好习惯的Android应用程序.
+- [Waka Time](https://wakatime.com/) –开源插件，可准确了解您花费了多长时间进行编码.
 
 ### Task Automation
 
-- [AutoIt](https://www.autoitscript.com/) - 用于Windows自动化Windows GUI的小工具，但它也可用于其他目的.
-- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) -  AutoHotKey是一款免费的开源宏创建和自动化软件，适用于Windows，允许用户自动执行重复性任务.
-- [IFTTT](https://ifttt.com) - 允许您在Web服务之间创建条件语句链（称为_recipes_），以使Web为您工作并提高您的工作效率.
-- [Qbserve](https://qotoqot.com/qbserve/) -  Mac时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈.
-- [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文敏感的自定义任务的Android应用程序（_e.g._当您到家时自动打开wifi）.
-- [Zapier](https://zapier.com/) - 自动化工具，允许您连接数百个Web服务并在流程之间创建自动化.
+- [AutoIt](https://www.autoitscript.com/) – Windows的小型工具，用于自动执行Windows GUI，但也可以用于其他目的.
+- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey是用于Windows的免费，开源宏创建和自动化软件，允许用户自动执行重复性任务.
+- [IFTTT](https://ifttt.com) –允许您在Web服务之间创建条件语句链（称为_recipes_），以使Web为您服务并提高生产率.
+- [Qbserve](https://qotoqot.com/qbserve/) – Mac时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈.
+- [Tasker](http://tasker.dinglisch.net/) –可以执行上下文相关的自定义任务的Android应用程序（__例如，_到家后会自动打开wifi）.
+- [Zapier](https://zapier.com/) –自动化工具，使您可以连接数百个Web服务并在流程之间创建自动化.
+
+### Password Manager
+
+- [LastPass](https://lastpass.com) -免费的密码管理器，可在线存储加密的密码.
+
+### Knowledge Management
+
+- [Obie.ai](https://obie.ai/) -将所有知识和文档集中到一处的AI平台.
+
+### Miscellaneous
+
+- [ShareX](https://getsharex.com/) -屏幕捕获，文件共享和生产力工具.

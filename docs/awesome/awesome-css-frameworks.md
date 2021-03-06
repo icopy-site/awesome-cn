@@ -16,7 +16,7 @@
 
 ## Base / Reset / Normalize
 
-- [**normalize.css**](http://necolas.github.io/normalize.css/) -支持HTML5的CSS重置替代品.  
+- [**normalize.css**](http://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
   | #CSS
@@ -31,7 +31,7 @@
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) -可扩展，可扩展，基于Sass的OOCSS框架，适用于大型且持久的UI项目.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) -可扩展，可扩展，基于Sass的OOCSS框架，适用于大型和持久的UI项目.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -46,9 +46,13 @@
   [Repo](https://github.com/filipelinhares/ress)
   | #CSS
 
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) -仅对Chrome，Firefox和Safari进行标准化（不支持Edge或Internet Explorer）.  
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) -仅对Chrome，Firefox和Safari标准化（不支持Edge或Internet Explorer）.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
+  | #CSS
+
+- [**Natural Selection**](https://github.com/frontaid/natural-selection) -最佳做法CSS选择器的集合.  
+  ![](https://img.shields.io/github/stars/frontaid/natural-selection.svg?style=social&label=Star)
   | #CSS
 
 
@@ -59,6 +63,12 @@
 - [**Water.css**](https://watercss.netlify.com/) -只需添加CSS样式集，即可使简单的网站变得更好.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo](https://github.com/kognise/water.css)
+  | #CSS
+
+- [**MVP.css**](https://andybrewer.github.io/mvp/) -HTML元素的简约样式表.  
+  ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
+  [Docs](https://andybrewer.github.io/mvp/#docs),
+  [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
 
 - [**sakura**](https://oxal.org/projects/sakura/) -最小的无类CSS框架/主题.  
@@ -78,7 +88,7 @@
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
   
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css) -CSS图书馆，用于语义HTML标记，没有类，属性等.  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) -用于语义HTML标记的CSS库，没有类，属性等.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/),
   [Repo](https://github.com/igoradamenko/awsm.css)
@@ -96,7 +106,7 @@
   [Repo](https://github.com/yahoo/pure/)
   | #CSS
 
-- [**Milligram**](http://milligram.io) -极简CSS框架.  
+- [**Milligram**](http://milligram.io) -极简主义的CSS框架.  
   ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
   [Docs](http://milligram.io/#getting-started),
   [Repo](https://github.com/milligram/milligram)
@@ -115,7 +125,7 @@
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
 
-- [**Chota**](https://jenil.github.io/chota/) -很小的CSS框架.  
+- [**Chota**](https://jenil.github.io/chota/) -真正的小型CSS框架.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
   | #CSS
@@ -164,13 +174,6 @@
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
-- [**Tachyons**](http://tachyons.io) -无需编写CSS，即可快速构建和设计新的UI.  
-  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
-  [Demo](http://tachyons.io/gallery/),
-  [Docs](http://tachyons.io/docs/),
-  [Repo](https://github.com/tachyons-css/tachyons/)
-  | #CSS
-
 - [**Primer**](https://primer.style/) -支持GitHub前端设计的CSS框架.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://styleguide.github.com/primer/),
@@ -197,7 +200,7 @@
   [Repo](https://github.com/patternfly/patternfly)
   | #SCSS #LESS
 
-- [**Base**](http://getbase.org) -坚固可靠的响应式HTML / CSS框架.  
+- [**Base**](http://getbase.org) -坚如磐石的响应式HTML / CSS框架.  
   ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
   [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
   [Repo](https://github.com/getbase/base)
@@ -252,13 +255,23 @@
   | #SCSS
 
 
-## Specialized
+## Utility-based
 
 - [**Tailwind CSS**](https://tailwindcss.com) -实用程序优先的CSS框架，用于快速的UI开发.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
   [Repo](https://github.com/tailwindcss/tailwindcss)
   | #CSS
+
+- [**Tachyons**](http://tachyons.io) -无需编写CSS，即可快速构建和设计新的UI.  
+  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
+  [Demo](http://tachyons.io/gallery/),
+  [Docs](http://tachyons.io/docs/),
+  [Repo](https://github.com/tachyons-css/tachyons/)
+  | #CSS
+
+
+## Specialized
 
 - [**NES.css**](https://nostalgic-css.github.io/NES.css/) -NES样式的CSS框架.  
   ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
@@ -271,13 +284,13 @@
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
-- [**Gutenberg**](https://github.com/BafS/Gutenberg) -可以正确打印网络的现代框架.  
+- [**Gutenberg**](https://github.com/BafS/Gutenberg) -可以正确打印Web的现代框架.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/),
   [Repo](https://github.com/BafS/Gutenberg)
   | #SCSS
 
-- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) -按照Edward Tufte的讲义对网页进行样式设置.  
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) -像Edward Tufte的讲义一样为您的网页设置样式.  
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
   [Repo](https://github.com/edwardtufte/tufte-css)
   | #CSS
@@ -288,11 +301,17 @@
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
+- [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) -创建MS-DOS接口的库.  
+  ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social&label=Star)
+  [Demo](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
+  [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
+  | #SCSS
+
 
 ## Toolkits
 
-工具箱更接近于库而不是框架.
-它们没有提供实际的样式，但是提供了可在CSS预处理器中使用的实用程序（例如mixins）.
+工具箱离框架更近，而离框架更近.
+它们不提供实际的样式，而是提供可在CSS预处理器中使用的实用程序（例如mixins）.
 
 - [**Bourbon**](https://www.bourbon.io/) -轻量级Sass工具集.  
   ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
@@ -304,7 +323,7 @@
 
 ## Stalled Development
 
-超过一年或尚未正式开发的框架已过时.
+超过一年或尚未正式开发的框架已被弃用.
 我们将其保留在这里以供参考/启发，并希望能有所复兴.
 
 <details>
