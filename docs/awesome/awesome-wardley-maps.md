@@ -97,11 +97,16 @@
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html)  -我们如何充分利用技术来支持医疗保健？  2018年7月19日.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315)  -由Cynefin告知的具有Wardley映射的特定于上下文的成熟度模型.  2018年5月11日.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f)  -使用Wardley地图建立路线图.  2018年1月9日.
-- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) -2017年9月11日.
-- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b)  -学说和学说阶段.  2017年5月25日.
-- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) -2017年5月12日.
+- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a)  -西蒙·沃德利（Simon Wardley）.  2017年9月11日.
+- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b)  -西蒙·沃德利（Simon Wardley）的学说和学说阶段.  2017年5月25日.
+- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693)  -西蒙·沃德利（Simon Wardley）.  2017年5月12日.
+- [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629)  -詹姆斯·厄克特（James Urquhart）.  2017年3月24日.
+- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270)  -詹姆斯·厄克特（James Urquhart）.  2017年2月4日. 
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974)  -先锋，定居者和城市规划师（Wardley PST）.  2017年1月31日.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9)  -我未来的和谐设计师生涯.  2017年1月17日.
+- [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6)  -您如何从James Urquhart的零组件和价值关系中提取价值.  2017年1月12日.
+- [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb)  -James Urquhart从价值链构建沃德利地图，以实现“实时业务自动化”.  2016年12月30日.
+- [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8)  -James Urquhart使用数据流的基本架构探索价值链.  2016年12月22日.
 - [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) -2016年12月3日.
 - [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) -2016年12月1日.
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) -2016年11月30日.
@@ -156,12 +161,12 @@
 
 ### Doctrine Assessement
 
-- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
+- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) -基于Google表单和Google表格.
 
 ## Events
 
 - [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) -2020年10月13日全天免费在线活动.
-- [Map Camp](https://www.map-camp.com/) -在跟随Map Camp [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
+- [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
 ## Workshops
 

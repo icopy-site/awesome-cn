@@ -27,7 +27,7 @@
 -[Axon！[c]]（https://axoniq.io/）-一个端到端的开发和基础架构平台，用于在JVM上轻松开发和运行任何DDD，CQRS和事件源应用程序.
 - [Ballerina](https://ballerina.io) -云原生编程语言.
 - [Dapr](https://dapr.io) -开源运行时，可使用任何编程语言编写高性能的微服务.
-- [Eclipse Microprofile](https://microprofile.io/) -一个开放的论坛，通过跨多个实现进行创新并以标准化为目标在感兴趣的公共领域进行协作，从而为微服务架构优化Enterprise Java.
+- [Eclipse Microprofile](https://microprofile.io/) -一个开放论坛，通过跨多个实现进行创新并以标准化为目标在感兴趣的公共领域进行协作，从而为微服务架构优化Enterprise Java.
 - [Erlang/OTP](https://github.com/erlang/otp) -用于构建对高可用性有要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) -用于JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) -Flogo是一个开放源代码框架，可简化构建高效，现代的无服务器功能和边缘微服务的过程.
@@ -56,7 +56,7 @@
 
 - [CoAP](http://coap.technology/impls.html) -受限的应用程序协议实现.
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
-- [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
+- [Hprose](http://github.com/hprose) -一个非常新颖的RPC库，现在支持25种以上的语言.
 
 ### C
 
@@ -72,7 +72,7 @@
 - [AnyRPC](https://github.com/sgieseking/anyrpc) -提供了一个通用系统，可与许多不同的远程过程调用标准一起使用，包括：JSON-RPC，XML-RPC，MessagePack-RPC.
 - [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) -Cap&#39;n Proto C ++ RPC实现.
 - [C++ Micro Services](http://cppmicroservices.org/) -类似于OSGi的C ++动态模块系统和服务注册表.
-- [Enduro/X](https://github.com/endurox-dev/endurox/) - XATMI based service framework for GNU/Linux.
+- [Enduro/X](https://github.com/endurox-dev/endurox/) -用于GNU / Linux的基于XATMI的服务框架.
 - [Pion](https://github.com/splunk/pion) -用于构建轻量级HTTP接口的C ++框架.
 - [Pistache](https://github.com/oktal/pistache) -用C ++编写的高性能REST工具包.
 - [Poco](http://pocoproject.org/) -用于构建基于网络的应用程序和服务器的C ++类库.
@@ -157,7 +157,7 @@
 - [Airlift](https://github.com/airlift/airlift) -用Java构建REST服务的框架.
 - [Armeria](https://line.github.io/armeria/) -基于Java 8，Netty，Thrift和gRPC构建的开源异步HTTP / 2 RPC / REST客户端/服务器库.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) -高性能线程间消息传递库.
-- [Dropwizard](https://dropwizard.github.io/) -用于开发对ops友好的高性能RESTful Web服务的Java框架.
+- [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
 - [Dubbo](https://github.com/apache/dubbo) -阿里巴巴开源的基于Java的高性能RPC框架.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) -用于基于Feign或Retrofit作为客户端以及使用JAX-RS服务定义的Dropwizard / Jersey定义和创建RESTish / RPC服务器和客户端的库.
 - [Ja-micro](https://github.com/Sixt/ja-micro) -用于构建微服务的轻量级Java框架（与go-micro兼容）.
@@ -182,7 +182,7 @@
 - [Finatra](http://twitter.github.io/finatra/) -建立在Twitter服务器和Finagle上的快速，可测试的Scala HTTP服务.
 - [Http4s](http://http4s.org/) -用于HTTP的最小，惯用的Scala界面
 - [Play](https://www.playframework.com/) -Java和Scala的高速Web框架.
-- [Scalatra](http://scalatra.org/) - Simple, accessible and free web micro-framework.
+- [Scalatra](http://scalatra.org/) -简单，可访问且免费的Web微框架.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) -用于在Scala中构建servlet应用程序的微型Web框架.
 - [Squbs](http://paypal.github.io/squbs/) -一套组件，可在大规模，托管的云环境中实现Akka和Akka HTTP应用程序/服务的标准化和可操作性.
 
@@ -191,7 +191,7 @@
 - [Actionhero](http://www.actionherojs.com/) -具有集成集群功能和延迟任务的多传输Node.js API服务器.
 - [Baucis](https://github.com/wprl/baucis) -建立和维护可扩展的HATEOAS / Level 3 REST API.
 - [BeeMS](https://github.com/umuplus/beems) -基于Bee Queue的极简工具包，用于构建快速，分散，可扩展和容错的微服务.
-- [ClaudiaJS](https://claudiajs.com/) -易于将Node.js项目部署到AWS Lambda和API网关.
+- [ClaudiaJS](https://claudiajs.com/) - Easy to deploy Node.js projects to AWS Lambda and API Gateway.
 - [Cote](https://github.com/dashersw/cote) -用于构建零配置微服务的Node.js库.
 - [Express](http://expressjs.com/) -适用于Node.js的快速，简单，极简的Web框架
 - [Fastify](https://www.fastify.io/) -适用于Node.js的Fastify，快速且低开销的Web框架.
@@ -207,7 +207,7 @@
 - [Restify](http://restify.com/) -专为使您能够构建正确的REST Web服务而构建的Node.js模块.
 - [Seneca](http://senecajs.org/) -用于Node.js的微服务工具包
 - [Serverless](https://github.com/serverless/serverless) -构建和维护在AWS Lambda和API网关（以前称为JAWS）上运行的Web，移动和IoT应用程序.
-- [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是过多地关注技术细节，从而简化了使用TypeScript的无服务器微服务的开发.
+- [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是将精力放在技术细节上，从而简化了使用TypeScript的无服务器微服务的开发.
 
 ### Perl
 
@@ -219,7 +219,7 @@
 - [API Platform](https://api-platform.com/) -Symfony之上具有JSON-LD，Schema.org和Hydra支持的API优先的Web框架.
 - [Fat-Free](https://fatfreeframework.com/) -一个功能强大但易于使用的PHP微框架.
 - [Flight](https://github.com/mikecao/flight) -可扩展的微框架.
-- [Hyperf](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
+- [Hyperf](https://github.com/hyperf/hyperf) -Hyperf是基于Swoole 4.5+的高性能和灵活的PHP CLI框架，由最先进的协程服务器和大量经过测试的组件提供支持.
 - [Lumen](https://lumen.laravel.com/) -惊人的快速微框架.
 - [Phalcon](https://phalconphp.com/) -作为C扩展提供的全栈PHP框架.
 - [Slim](http://www.slimframework.com/) -微框架，可帮助您快速编写简单但功能强大的Web应用程序和API.
@@ -240,7 +240,7 @@
 - [Tornado](http://www.tornadoweb.org/) -Web框架和异步网络库.
 - [Twisted](https://twistedmatrix.com/trac/) -事件驱动的网络编程引擎.
 - [Web.py](https://github.com/webpy/webpy/) -适用于Python的简约Web框架.
-- [Zappa](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
+- [Zappa](https://github.com/Miserlou/Zappa) -用于构建和部署无服务器Python事件驱动的Web应用程序的框架.
 
 ### Ruby
 
@@ -249,7 +249,7 @@
 - [Praxis](https://github.com/rightscale/praxis) -设计和实现API的框架.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) -Rails仅作为API.
 - [Scorched](https://github.com/wardrop/Scorched) -Ruby的轻量级Web框架.
-- [Sinatra](http://www.sinatrarb.com/) -Sinatra是一种DSL，可用于以最少的精力在Ruby中快速创建Web应用程序.
+- [Sinatra](http://www.sinatrarb.com/) -Sinatra是一种DSL，可用于以最少的工作量在Ruby中快速创建Web应用程序.
 
 ### Rust
 
@@ -270,7 +270,7 @@
 
 &gt;注意 [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) 组件目前未分类.
 
-- [Amalgam8](https://github.com/amalgam8) -用于多语言微服务的基于内容的路由结构.
+- [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
 - [Ambassador](https://www.getambassador.io) -用于基于Envoy的微服务的Kubernetes本地API网关.
 - [Annon](https://github.com/nebo15/annon.api) -具有以Elixir编写的内置API管理，身份验证和状态页面的开源API网关.
 - [APIcast](https://github.com/3scale/APIcast)  -APIcast是在NGINX之上构建的API网关. 它是Red Hat 3scale API管理平台的一部分.
@@ -314,7 +314,7 @@
 - [Microconfig](https://microconfig.io) -现代和简单的微服务配置管理方式.
 - [Microphone](https://github.com/rogeralsing/Microphone) -轻巧的.NET框架，可在Consul或Etcd群集之上使用Web Api或NancyFx运行自托管REST服务.
 - [Nacos](https://github.com/alibaba/nacos) -易于使用的动态服务发现，配置和服务管理平台.
-- [Registrator](https://github.com/gliderlabs/registrator)  -Docker的服务注册表网桥. 支持可插拔服务注册表，当前包括Consul，Etcd和SkyDNS 2.
+- [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 - [Shaman](https://github.com/nanopack/shaman) -小型，轻量，由api驱动的DNS服务器.
 - [SkyDNS](https://github.com/skynetservices/skydns)  -用于发布和发现基于etcd的服务的分布式服务. 它利用DNS查询来发现可用的服务.
 - [SmartStack](https://github.com/airbnb/smartstack-cookbook) -Airbnb的自动服务发现和注册框架.
@@ -336,7 +336,7 @@
 - [Hazelcast](http://hazelcast.org/)  -开源内存数据网格. 允许您在服务器，群集和地理位置之间分布数据和计算，并管理非常大的数据集或很高的数据摄取率. 技术成熟.
 - [Helix](http://helix.apache.org/) -通用群集管理框架，用于自动管理托管在节点群集上的分区，复制和分布式资源.
 - [Ignite](http://ignite.apache.org/) -高性能，集成和分布式内存平台，用于实时计算和处理大规模数据集，比传统的基于磁盘或闪存的技术快几个数量级.
-- [Libp2p](https://libp2p.io/) -用于构建对等网络应用程序的协议框架和协议套件.
+- [Libp2p](https://libp2p.io/) - A framework and suite of protocols for building peer-to-peer network applications.
 - [Marathon](https://mesosphere.github.io/marathon/) -在Apache Mesos之上大规模部署和管理容器（包括Docker）.
 - [Mesos](https://mesos.apache.org/) -从计算机（物理或虚拟）中提取CPU，内存，存储和其他计算资源，使容错和弹性的分布式系统易于构建和有效运行.
 - [Nomad](https://www.nomadproject.io/) -分布式，高可用性，数据中心感知的调度程序.
@@ -349,7 +349,7 @@
 
 - [Celery](https://github.com/celery/celery)  -基于分布式消息传递的异步任务队列/作业队列. 专注于实时操作并支持调度.
 - [Chronos](https://github.com/mesos/chronos) -Mesos的容错作业调度程序，可处理依赖关系和基于ISO8601的调度.
-- [Dkron](http://dkron.io/) -分布式容错作业调度系统.
+- [Dkron](http://dkron.io/) - Distributed, fault tolerant job scheduling system.
 - [Fenzo](https://github.com/Netflix/Fenzo) -用于Mesos框架的可扩展调度程序.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler)  -用于企业级工作负载自动化的开源解决方案. 它用于启动可执行文件和Shell脚本并自动运行数据库过程.
 - [Rundeck](http://rundeck.org/)  -作业计划程序和Runbook自动化. 启用对现有脚本和工具的自助服务访问.
@@ -394,7 +394,7 @@
 
 ### Monitoring & Debugging
 
-- [Beats](https://www.elastic.co/products/beats) -用于Elasticsearch和Logstash的轻型托运人.
+- [Beats](https://www.elastic.co/products/beats) - Lightweight shippers for Elasticsearch & Logstash.
 - [Collectd](https://collectd.org/) -系统统计信息收集守护程序.
 - [Elastalert](https://github.com/yelp/elastalert) -为Elasticsearch轻松灵活地发出警报.
 - [Ganglia](http://ganglia.info/) -用于高性能计算系统（例如集群和网格）的可伸缩分布式监视系统.
@@ -453,7 +453,7 @@
 - [Cap’n Proto](https://capnproto.org/) -快速的数据交换格式和基于功能的RPC系统.
 - [CBOR](http://cbor.io/) -以多种语言实现的CBOR标准（RFC 7049）.
 - [Cereal](http://uscilab.github.io/cereal/) -用于序列化的C ++ 11库.
-- [Cheshire](https://github.com/dakrone/cheshire) -Clojure JSON和JSON SMILE编码/解码.
+- [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE encoding/decoding.
 - [Etch](http://etch.apache.org/) -用于构建和使用网络服务的跨平台，语言和独立于传输的框架.
 - [Fastjson](https://github.com/alibaba/fastjson) -快速JSON处理器.
 - [Ffjson](https://github.com/pquerna/ffjson) -Go更快的JSON序列化.
@@ -471,13 +471,13 @@
 - [Apache Hive](https://hive.apache.org/) -建立在Hadoop之上的数据仓库基础架构.
 - [Apache Cassandra](http://cassandra.apache.org) -面向列并提供高可用性，没有单点故障.
 - [Apache HBase](http://hbase.apache.org) -大数据的Hadoop数据库.
-- [Aerospike ![c]](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
+-[Aerospike！[c]]（http://www.aerospike.com/）-高性能NoSQL数据库，可大规模提供速度.
 - [ArangoDB](https://www.arangodb.com/) -具有用于文档，图形和键值的灵活数据模型的分布式免费和开放源数据库.
 - [AtlasDB](https://github.com/palantir/atlasdb) -在键值存储之上的事务层.
 - [ClickHouse](https://clickhouse.yandex/) -面向列的数据库管理系统，允许实时生成分析数据报告.
 -[CockroachDB！[c]]（https://www.cockroachlabs.com/）-以Google Spanner为模型的云原生SQL数据库.
 - [Couchbase](http://www.couchbase.com/) -为提高性能，可伸缩性和简化管理而设计的分布式数据库.
-- [Crate ![c]](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
+-[Crate！[c]]（https://crate.io/）-具有NoSQL优点的可扩展SQL数据库.
 - [Datomic](http://www.datomic.com/) -完全可交易的，可用于云的分布式数据库.
 - [Druid](http://druid.io/) -快速的面向列的分布式数据存储.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) -开源的分布式，可伸缩且高度可用的搜索服务器.
@@ -487,10 +487,12 @@
 -[MemSQL！[c]]（http://www.memsql.com/）-高性能的内存数据库，将分布式系统的水平可伸缩性与对SQL的熟悉结合在一起.
 - [OpenTSDB](http://opentsdb.net) -在Apache HBase之上编写的可扩展和分布式时间序列数据库.
 - [Parquet](https://github.com/apache/parquet-format) -列型存储格式可用于Hadoop生态系统中的任何项目，而不管选择数据处理框架，数据模型还是编程语言.
+- [Pilosa](https://github.com/pilosa/pilosa) -开源的分布式位图索引，可极大地加速跨多个海量数据集的查询.
 - [Reborn](https://github.com/reborndb/reborn) -完全兼容redis协议的分布式数据库.
 - [RethinkDB](http://rethinkdb.com/) -开源，可扩展的数据库，使构建实时应用程序更加容易.
 - [Secure Scuttlebutt](https://github.com/ssbc/docs) -消息源的P2P数据库.
 - [Tachyon](http://tachyon-project.org/) -以内存为中心的分布式存储系统，可在整个群集框架之间以内存速度实现可靠的数据共享.
+- [TiKV](https://github.com/tikv) -分布式事务键值数据库.
 - [Voldemort](https://github.com/voldemort/voldemort) -Amazon DynamoDB的开源克隆
 -[VoltDB！[c]]（https://www.voltdb.com/）-符合内存中ACID的分布式数据库.
 
@@ -502,9 +504,9 @@
 - [Mountebank](http://www.mbtest.org/) -跨平台的多协议测试使导线加倍.
 - [Pact](https://docs.pact.io) -用于HTTP API和非HTTP异步消息传递系统的合同测试框架.
 - [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) -TDD达到软件体系结构级别.
-- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [VCR](https://github.com/vcr/vcr)  -记录测试套件的HTTP交互，并在以后的测试运行期间重播它们，以进行快速，确定性和准确的测试. 请参阅端口列表以了解其他语言的实现.
 - [Wilma](https://github.com/epam/Wilma) -结合了HTTP / HTTPS服务存根和透明代理解决方案.
-- [WireMock](http://wiremock.org/)  -用于存根和模拟Web服务的灵活库. 与通用模拟工具不同，它通过创建一个实际的HTTP服务器来工作，您的被测代码可以像真实的Web服务一样连接到该服务器.
+- [WireMock](http://wiremock.org/)  -用于存根和模拟Web服务的灵活库. 与通用模拟工具不同，它通过创建一个实际的HTTP服务器来工作，被测试的代码可以像真实的Web服务一样连接到该服务器.
 - [Hoverfly](https://github.com/spectolabs/hoverfly) -面向开发人员和测试人员的轻量级服务虚拟化/ API仿真工具.
 
 ## Continuous Integration & Delivery
@@ -562,7 +564,7 @@
 
 ### CoAP
 
-- [RFC7252](http://coap.technology/spec.html) -约束应用协议（CoAP）是一种专门的Web传输协议，可与物联网中的受约束节点和受约束网络一起使用.
+- [RFC7252](http://coap.technology/spec.html) -约束应用协议（CoAP）是一种专用的Web传输协议，可与物联网中的受约束节点和受约束网络一起使用.
 
 ### RPC
 
@@ -610,11 +612,11 @@
 
 - [JSON Schema](http://json-schema.org/) -词汇表，可用于注释和验证JSON文档.
 - [LOV](http://lov.okfn.org/) -链接的开放词汇表.
-- [Schema.org](http://schema.org/) -协作性社区活动，其任务是创建，维护和促进Internet，网页，电子邮件等中的结构化数据的架构.
+- [Schema.org](http://schema.org/) -协作性社区活动，其任务是创建，维护和促进Internet，网页，电子邮件以及其他内容中的结构化数据架构.
 
 ### Unicode
 
-- [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/)  -Unicode联盟.  Unicode标准版本8.0.0（（加利福尼亚州山景城：Unicode联盟，2015年.ISBN978-1-936213-10-8）.
+- [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/)  -Unicode联盟.  Unicode标准版本8.0.0（CA，Mountain View，CA：Unicode联盟，2015年.ISBN978-1-936213-10-8）.
 - [RFC3629](https://tools.ietf.org/html/rfc3629) -UTF-8，ISO 10646的转换格式.
 
 ## Organization Design / Team Dynamics
@@ -670,7 +672,7 @@
 ## Emerging Technologies
 
 - [Holochain](https://holochain.org/)  -分布式应用程序的框架，允许您构建不受网络限制的应用程序. 这意味着每个用户都可以控制自己的数据，并且不能将其出售或暴露给第三方.
-- [Ops](https://ops.city/) -免费的开源工具，可将现有的Linux应用程序作为unikernel构建，运行和部署.
+- [Ops](https://ops.city/) -免费的开放源代码工具，用于将现有的Linux应用程序作为unikernels构建，运行和部署.
 - [SAFE Network](https://safenetwork.tech/)  -通过日常计算机的备用容量，SAFE用分散的，自治的网络代替了现有Web的易受攻击的结构. 一种安全的方法，每个人都可以使用.
 - [Solid](https://solid.inrupt.com/)  -使用户和组织能够将其数据与使用该数据的应用程序分开. 它使人们可以同时使用不同的应用查看相同的数据. 它为创造力，解决问题和商业活动开辟了崭新的途径.
 - [Unison](https://www.unisonweb.org/) -基于简单思想的开源函数式编程语言，具有很大的意义：代码是内容寻址的，并且是不变的.
