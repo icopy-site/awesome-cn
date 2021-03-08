@@ -29,7 +29,7 @@
 
 ## Stub packages
 
-- [Typeshed](https://github.com/python/typeshed) -具有静态类型的Python库存根的集合.
+- [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - [django-stubs](https://github.com/typeddjango/django-stubs) -存根 [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) -存根 [DRF](https://github.com/encode/django-rest-framework).
 <!--lint disable double-link-->
@@ -65,7 +65,7 @@
 ### Testing
 
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) -Pytest的Mypy静态类型检查器插件.
-- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) -Pytest插件，用于测试mypy类型，存根和插件。
 - [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) -Pytest插件来测试mypy静态类型分析.
 
 ### Working with types
@@ -79,7 +79,7 @@
 
 ### Helper tools to add annotations to existing code
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的Python代码中.
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到Python代码中.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) -pytest的MonkeyType插件.
 - [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.
@@ -146,6 +146,7 @@
 - [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) -有关Django类型检查的完整教程.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) -有关测试mypy类型的完整教程.
 - [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) -截至2018年5月.
+- [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) -用MonkeyType注释现有的Python Django代码库.
 
 ## Communities
 

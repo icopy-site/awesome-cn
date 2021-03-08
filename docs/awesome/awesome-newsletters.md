@@ -42,7 +42,7 @@
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计时事通讯，重点关注工具.
 - [ES.next News](http://esnextnews.com/) . 每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 很棒的浏览器端JavaScript库，资源和闪亮的东西的集合.
-- [TypeScript Weekly](https://www.typescript-weekly.com/) . 最好的TypeScript链接每周都在您的包装盒中.
+- [TypeScript Weekly](https://www.typescript-weekly.com/) . 最好的TypeScript链接每个星期都在您的包装盒中.
 - [JSter](http://jster.net/blog) . 每两周一次没有任何精挑细选的JavaScript链接到您的邮箱的列表. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
 - [Best of JavaScript](https://weekly.bestofjs.org/) 关于与Node.js和Web平台相关的最受欢迎的开源项目的每周排名.
 
@@ -95,7 +95,7 @@
 - [UI Movement](https://uimovement.com) . 仅在您的收件箱中提供最佳的UI设计灵感.
 - [Designer News](https://www.designernews.co) . 设计社区相遇的地方.
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章将来自品牌，艺术和图形设计界的最好的现代表达和创新相结合.
-- [Hack Design](https://hackdesign.org) . 对于做神奇事情的人来说，这是一个易于遵循的设计课程.
+- [Hack Design](https://hackdesign.org) . 针对做奇事的人的易于遵循的设计课程.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI动画时事通讯可让您及时了解最佳的Web动画，动作设计和UX资源.
@@ -108,12 +108,12 @@
 ### HTML5
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的HTML5和Web平台技术综述.  CSS 3，Canvas，WebSockets，WebGL，Native Client等.
-- [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 有关HTML5游戏开发的每周新闻.
+- [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 关于HTML5游戏开发的每周新闻.
 - [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
 
 ### SVG
 
-- [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
+- [SVG Weekly](https://tinyletter.com/svgweekly) . 每周一封电子邮件，重点关注可缩放矢量图形（SVG），共享教程，工具，实验，演讲和数据.
 
 ### GraphQL
 
@@ -186,7 +186,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的PHP库和资源的精选列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 有关现代PHP和Laravel的双周刊.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Laravel社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周用西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周以西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 一个免费的两周一期的新闻通讯，用于整理精彩的文章，视频和新闻.
 
 ### Python
@@ -239,6 +239,7 @@
 ### Java
 
 - [Awesome Java Newsletter](https://java.libhunt.com/newsletter) . 精选的Java框架，库和软件的清单.
+- [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/). Keep up-to-date with the main developments in the Java world through this weekly guide.
 
 ### Kotlin
 
@@ -263,7 +264,7 @@
 
 ### Vim
 
-- [Vim Weekly](http://www.vimweekly.com/) . 每周一，我们都会发送5条提示，帮助您提高vim的工作效率，您可以将其视为每天的提示！
+- [Vim Weekly](http://www.vimweekly.com/) . 每周一，我们都会发送5条提示，这些信息可以帮助您提高vim的生产力，您可以将其视为每天的一条提示！
 - [Mastering Vim Quickly](https://masteringvim.com/) . 最好的Vim资料，每周一次.
 
 ## Databases
@@ -341,7 +342,7 @@
 
 - [Inside Bitcoin](https://inside.com/bitcoin) . 跟踪有关比特币和加密货币的趋势，新闻和分析.
 - [Crypto Weekly](https://cryptoweekly.co/) . 每周都会向您的收件箱发送最佳的加密货币新闻和见解.
-- [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 无需牛市的区块链技术-每周进行一次的区块链现实研究，对技术的偏向很高.
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 无需牛市的区块链技术-每周进行一次区块链现实研究，对技术的偏向很高.
 
 ## Technology in General
 
@@ -372,7 +373,7 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每个星期三都会为您带来一个崭新的鼓舞人心的早晨活动.
 - [wpMail.me](http://wpmail.me/) . 每周一次的免费WordPress新闻快讯，汇总了WordPress新闻和文章. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  《清晰思考》时事通讯为您提供很少的反思练习，可以帮助您解决日常生活中的问题. 它是用爱和钦佩而创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周新闻通讯收集旨在提高一般编程知识的链接. 目的不包括读者可以从Google即时搜索的链接（例如，如何执行x，y，z），而是更多关于编程中的问题解决方法.
+- [Better Dev Link](https://betterdev.link) . 每周新闻通讯收集旨在提高一般编程知识的链接. 目的不包括读者可以从Google即时搜索到的链接（例如，如何执行x，y，z），而是更多关于编程中的问题解决方法.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的仓库，可以在GitHub上使用您喜欢的编程语言跟踪趋势项目. 每天或每周一次以GitHub通知的形式进行更新.
 - [HN Mail](https://hnmail.io) . 可自定义的每周新闻，根据您的兴趣提供Hacker News故事.
 - [Senior Mindset](https://seniormindset.com) . 以高级软件工程师的心态获取一系列精选论文.
@@ -385,11 +386,11 @@
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/) . 由世界上最著名的安全专家之一布鲁斯·施耐尔（Bruce Schneier）策划的以安全为中心的每月新闻通讯.
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) .  tl;博士网络安全新闻简讯，包括新闻，开心角，您的每周网络猫等等. 它是每个星期天发送的.
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa) . 每日摘要10条信息安全新闻，这些新闻不一定会引起足够的关注.
-- [tl;dr sec](https://tldrsec.com/) . 每周汇总最佳安全工具，博客文章和会议讨论，涵盖AppSec，云和容器安全，DevSecOps等.
+- [tl;dr sec](https://tldrsec.com/) . 每周汇总最佳安全工具，博客文章和会议讨论，涵盖AppSec，云和容器安全性，DevSecOps等.
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/) . 面向企业家的免费每周新闻，内容精选最佳，必须阅读文章，如何指导，技巧和窍门，资源，事件等.
+- [Founder Weekly](http://www.founderweekly.com/) . 面向企业家的免费每周新闻通讯，精选了精选内容，必须阅读文章，指南，技巧和窍门，资源，事件等.
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简讯，其中包含有关WebRTC的所有最新新闻和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 每周的新闻通讯通常会引起人们对Web Audio API，Web MIDI API或Web上的声音的兴趣.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇的数据集的每周新闻.

@@ -552,6 +552,7 @@
 	- [database-js](https://github.com/mlaanderson/database-js) -具有类似JDBC的连接的多个数据库的包装器.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) -使用JavaScript和JSON文件填充MongoDB数据库.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) -使用普通SQL查询PostgreSQL，MySQL和SQLite3，而不会冒着注入SQL的风险.
+	- [pg-mem](https://github.com/oguimbal/pg-mem) -用于测试的内存PostgreSQL实例.
 
 ### Testing
 

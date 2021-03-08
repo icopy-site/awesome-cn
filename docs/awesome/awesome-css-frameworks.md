@@ -16,7 +16,7 @@
 
 ## Base / Reset / Normalize
 
-- [**normalize.css**](http://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
+- [**normalize.css**](http://necolas.github.io/normalize.css/) -支援HTML5的CSS重置替代品.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
   | #CSS
@@ -141,13 +141,6 @@
   [Repo](https://github.com/twbs/bootstrap)
   | #SCSS
 
-- [**Semantic UI**](https://semantic-ui.com) -用户界面是网络的语言.  
-  *注意：该项目似乎处于非活动状态，但是有一个活动的fork称为 [Fomantic UI](https://github.com/fomantic/fomantic-ui/).*  
-  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
-  [Docs](https://semantic-ui.com/introduction/getting-started.html),
-  [Repo](https://github.com/semantic-org/semantic-ui)
-  | #LESS
-
 - [**Bulma**](http://bulma.io) -基于Flexbox的现代CSS框架.  
   ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
   [Demo](http://bulma.io/expo/),
@@ -185,6 +178,12 @@
   [Docs](http://www.carbondesignsystem.com/components/overview),
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
+
+- [**Fomantic-UI**](https://fomantic-ui.com/) -简洁的HTML，直观的javascript和简化的调试功能，可快速构建精美的网站.  
+  ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
+  [Docs](https://fomantic-ui.com/introduction/getting-started.html),
+  [Repo](https://github.com/fomantic/fomantic-ui/)
+  | #LESS
 
 - [**Blaze UI**](https://www.blazeui.com) -开源模块化工具包，为可扩展和可维护的基础快速构建网站提供了良好的结构.  
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
@@ -328,6 +327,12 @@
 
 <details>
   <summary><strong>显示部分</strong></summary>
+
+- [**Semantic UI**](https://semantic-ui.com) -用户界面是网络的语言.  
+  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
+  [Docs](https://semantic-ui.com/introduction/getting-started.html),
+  [Repo](https://github.com/semantic-org/semantic-ui)
+  | #LESS
 
 - [**Material Design Lite**](https://getmdl.io) -HTML / CSS / JS中的Material Design组件.  
   ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)

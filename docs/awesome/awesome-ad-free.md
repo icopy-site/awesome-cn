@@ -88,9 +88,6 @@
 - [Etherpad](https://etherpad.wikimedia.org/) -实时协作文档编辑.
 - [ProtectedText](https://www.protectedtext.com/) -具有存储功能且没有注册的在线加密记事本.
 
-### Video
-
-- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/)  -由MediaGoblin支持的视频和图像共享服务.  （**_[Site is shutting down.](https://twitter.com/GoblinRefuge/status/1345556196715991040)_**)
 
 ## Resources
 
@@ -109,7 +106,7 @@
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) -以广告为例，探讨有意识的成功而非偶然的成功的想法.
 - [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) -常见的广告批评概述.
 - [Human Ad Block: A Tutorial](https://maxlath.eu/posts/ad-blocker-humain/) -公开禁止广告的创新方式.
-- [Public Spaces](http://www.perezhiguera.com/publicspaces) -艺术家想像一下，如果我们能拥有一个现实生活中的广告拦截器，那会是什么样子.
+- [Public Spaces](http://www.perezhiguera.com/publicspaces) -艺术家想像一下，如果我们能拥有一个现实生活中的广告拦截器，那将会是什么样.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) -一个博客作者的故事，他选择了一种更好的谋生手段.
 - [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) -支付无广告服务费用更高.
 - [What If There Were No Ads](https://www.huffingtonpost.com/tom-j-hidvegi/what-if-there-were-no-ads_b_4458530.html) -在无广告的世界中描述的日常生活.
@@ -147,6 +144,7 @@
 - [No More Ads](https://nomoreads.org)  -有关无广告互联网的实用建议.  （[Wayback Machine archive](http://web.archive.org/web/20190121234844/https://nomoreads.org/))
 - [Voltra](https://voltra.co/) -无DRM的音乐收听和发现软件，直接支持艺术家.
 - [Art Not Ads](http://artnotads.org)  -艺术家创造城市景观的变化，而不是自己去追求广告.  （[Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))
+- [Goblin Refuge](https://goblinrefuge.com/mediagoblin/)  -由MediaGoblin支持的视频和图像共享服务.  （[Wayback Machine archive](https://web.archive.org/web/20190512071500/https://goblinrefuge.com/mediagoblin/))
 
 ## License
 

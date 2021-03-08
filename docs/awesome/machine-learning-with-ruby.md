@@ -13,18 +13,18 @@
 
 [机器学习] [ml]是[计算科学] [cs]的领域-
 通常嵌套在[AI] [ai]研究下-具有许多实用性
-由于产生的算法的能力
+由于产生算法的能力
 系统地实施特定解决方案而无需明确
 程序员的指令. 显然，许多算法都需要定义
 [features] [fe]的取值或较大的[training set] [ts]数据来推导
-从解决.
+解决之道.
 
-该精选列表包括[_awesome _] [awesome]个库，
+该精选列表包含[_awesome _] [awesome]个库，
 [机器学习] [ml]的数据源，教程和演示文稿
 利用[Ruby] [ruby]编程语言.
 
 此列表中的许多有用资源来自开发
-[Ruby科学基金会] [sciruby]，我们的[贡献者] [贡献者]和
+[The Ruby Science Foundation] [sciruby]，我们的[贡献者] [贡献者]和
 我们自己在各种ML应用程序上的日常工作.
 
 ：sparkles：每个 [contribution](https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md) 不客气！ 通过拉添加链接
@@ -78,7 +78,7 @@ the word using the `#RubyML` hash tag!
   通用分类器模块，允许贝叶斯和其他类型的分类.
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
-  Ruby评分API [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) （预测模型标记语言）.
+  的Ruby评分API [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) （预测模型标记语言）.
 - [rblearn](https://github.com/himkt/rblearn) -特征提取和交叉验证库.
 - [data_modeler](https://github.com/giuse/data_modeler) -
   使用机器学习对数据建模. 足够的测试范围，快速入门的示例，完整的文档. 从1.0.0开始生产.
@@ -95,12 +95,12 @@ the word using the `#RubyML` hash tag!
   示例和实用程序.
 - [Deep NeuroEvolution](https://github.com/giuse/DNE) -
   基于的实验设置 [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
-  使用进化算法寻求深度神经网络（而不是训练）. 应用到
+  寻求使用进化算法的深度神经网络（而不是训练）. 应用到
   [OpenAI Gym](https://github.com/openai/gym) 使用 [PyCall](https://github.com/mrkn/pycall.rb).
 - [rumale](https://github.com/yoshoku/rumale) -
   Ruby中的Machine Learninig工具包，具有广泛的已实现算法
   （SVM，逻辑回归，线性回归，随机森林等）和
-  类似于Python中[Scikit-Learn] [scikit]的接口.
+  与Python中的[Scikit-Learn] [scikit]类似的接口.
 - [eps](https://github.com/ankane/eps) -带出口的贝叶斯分类和线性回归
   使用 [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend 使用 [GSL][gsl].
 
@@ -118,10 +118,10 @@ the word using the `#RubyML` hash tag!
   基于JRuby的前馈神经网络
   [brains](https://github.com/jedld/brains).
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
-  框架，包括前馈和循环神经网络的纯Ruby实现
-   （完全连接）. 可以使用神经进化训练（自然进化策略算法）.
+  包含前馈和循环神经网络的纯Ruby实现的框架
+   （完全连接）. 可使用神经进化训练（自然进化策略算法）.
 - [rann](https://github.com/mikecmpbll/rann) -
-  带有反向支持的灵活Ruby ANN实现
+  带有反向支持的灵活Ruby ANN实现（通过时间，用于循环
   网络），梯度检查，adagrad和并行批处理执行.
 
 ### Deep learning
@@ -196,7 +196,7 @@ the word using the `#RubyML` hash tag!
   Ruby的实现 [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   （潜在Dirichlet分配），用于自动主题建模和文档聚类.
 - [maxent_string_classifier](https://github.com/mccraigmccraig/maxent_string_classifier) -
-  基于OpenNLP Maxent框架的字符串数据的JRuby最大熵分类器.
+  基于OpenNLP Maxent框架的用于字符串数据的JRuby最大熵分类器.
 - [omnicat](https://github.com/mustafaturan/omnicat) -
   用于文本分类的通用机架框架.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
@@ -205,13 +205,13 @@ the word using the `#RubyML` hash tag!
 
 ### Gradient boosting
 
-- [xgboost](https://github.com/PairOnAir/xgboost-ruby) —
+- [xgboost](https://github.com/PairOnAir/xgboost-ruby) -
   XGBoost的Ruby绑定.
   <sup>[[dep: XGBoost](#xgboost)]</sup>
-- [xgb](https://github.com/ankane/xgb) —
+- [xgb](https://github.com/ankane/xgb) -
   XGBoost的Ruby绑定.
   <sup>[[dep: XGBoost](#xgboost)]</sup>
-- [lightgbm](https://github.com/ankane/lightgbm) —
+- [lightgbm](https://github.com/ankane/lightgbm) -
   LightGBM的Ruby绑定.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
 
@@ -223,8 +223,8 @@ the word using the `#RubyML` hash tag!
 
 ## Data structures
 
-如果您要实现自己的ML算法，您可能会感兴趣
-有效地存储功能集. 寻找合适
+如果您要实现自己的ML算法，那么您可能会感兴趣
+有效地存储您的功能集. 寻找合适
 [data structures](https://github.com/arbox/data-science-with-ruby#data-structures)
 在[使用Ruby的数据科学] [ds-with-ruby]列表中.
 
@@ -245,7 +245,7 @@ the word using the `#RubyML` hash tag!
     和 [Yusaku Hatanaka ](https://twitter.com/hatappi)
     <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
           [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
-  -_如何在Ruby on Rails中使用经过训练的Keras和TensorFlow机器学习模型_ [Denis Sellu](https://twitter.com/denis_sellu)
+  - _How to use trained Keras and TensorFlow machine learning models within Ruby on Rails_ by [Denis Sellu](https://twitter.com/denis_sellu)
     <sup>[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 - 2017
   -_JRuby上的科学计算_ by [Prasun Anand](https://twitter.com/prasun_anand)
@@ -256,7 +256,7 @@ the word using the `#RubyML` hash tag!
    -_是食物吗？ 机器学习入门_ [Matthew Mongeau](https://twitter.com/halogenandtoast)
     <sup>[[video](https://www.youtube.com/watch?v=8G709hKkthY) |
           [slides](https://www.slideshare.net/halogenandtoast/is-it-food)]</sup>
-  -_Bayes是BAE_ [Richard Schneeman](https://twitter.com/schneems)
+  -_Bayes是BAE_，作者是 [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
           [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
   -_Ruby圆桌会议：Ruby中的机器学习 [RubyThursday](https://rubythursday.com/)
@@ -266,7 +266,7 @@ the word using the `#RubyML` hash tag!
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
   -_深度学习：Ruby开发人员简介_ by [Geoffrey Litt](https://twitter.com/geoffreylitt)
     <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
-  -_我如何使纯Ruby word2vec程序快3倍以上 [Kei Sawada](https://twitter.com/remore)
+  -_我如何使纯Ruby word2vec程序快3倍以上_ [Kei Sawada](https://twitter.com/remore)
     <sup>[[slides](https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster)]</sup>
   -_Dōmoarigatō，Roboto先生：使用Ruby进行机器学习_ by [Eric Weinstein](https://twitter.com/ericqweinstein)
     <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) |
@@ -297,14 +297,14 @@ the word using the `#RubyML` hash tag!
           [code](https://github.com/hexgnu/sentiment_analyzer)]</sup>
   -_使用Ruby的推荐系统_ [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
-  - _Detecting Faces with Ruby: FFI in a Nutshell_ by [Marc Berszick]()
+  -_用Ruby检测人脸：坚果壳中的FFI_作者：[Marc Berszick]（）
     <sup>[[post](https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/)]</sup>
 - 2012
-  -_使用Ruby进行机器学习，第一部分 [Vasily Vasinov](https://twitter.com/vasinov)
+  -_使用Ruby进行机器学习，第1部分_，作者： [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](https://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
   -_Ruby中的递归神经网络_ [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
-  -_使用机器学习的推荐引擎和JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
+  -_使用机器学习的推荐引擎，以及JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=hsZcrlbBg_0)]</sup>
   -_实用机器学习和Rails_ by [Andrew Cantino](https://twitter.com/tectonic)
     和 [Ryan Stout](https://twitter.com/ryanstout)
@@ -326,7 +326,7 @@ the word using the `#RubyML` hash tag!
   -_Ruby中的支持向量机（SVM）_ [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
 - 2007
-  -_Ruby中的决策树学习_ [Ilya Grigorik](https://twitter.com/igrigorik)
+  -_在Ruby中进行决策树学习_ [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
 ## Projects and Code Examples
@@ -335,6 +335,8 @@ the word using the `#RubyML` hash tag!
   葡萄酒质量评估采用不同的算法进行聚类.
 - [simple_ga](https://github.com/giuse/simple_ga) -
   Ruby中遗传算法的基本（工作）演示.
+- [Handwritten Digits Recognition](https://github.com/jdrzj/handwritten-digits-recognition) -
+  使用神经网络和Ruby进行手写数字识别.
 
 ## Heroku buildpacks
 
@@ -389,12 +391,12 @@ the word using the `#RubyML` hash tag!
 - [Ruby NLP](https://github.com/diasks2/ruby-nlp) -
   最新的NLP Ruby库集合.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing) -
-  NLP相关资源的一般列表（主要不是Ruby程序员）.
+  NLP相关资源的一般列表（大多数不适用于Ruby程序员）.
 - [Scientific Ruby](http://sciruby.com/) -
   Ruby的线性代数，可视化和科学计算.
 - [iRuby](https://github.com/SciRuby/iruby) -Jupyter的IRuby内核（以前为IPython）.
 - [Kiba](https://github.com/thbar/kiba) -
-  轻巧 [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) （提取，转换，加载）管道.
+  轻 [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) （提取，转换，加载）管道.
 - [Awesome OCR](https://github.com/kba/awesome-ocr) -
   大量的OCR（光学字符识别）资源.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) -
@@ -407,11 +409,11 @@ the word using the `#RubyML` hash tag!
 ## License
 
 [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-Ruby的“很棒的ML” [Andrei Beliankou](https://github.com/arbox) 和
+Ruby的“很棒的ML”，作者： [Andrei Beliankou](https://github.com/arbox) 和
 [Contributors][contributors].
 
 在法律允许的范围内，将CC0与
-“具有Ruby的Awesome ML”放弃了所有版权以及相关或邻近的权利
+“带有Ruby的Awesome ML”放弃了所有版权以及相关或邻近的权利
 到“使用Ruby的真棒ML”.
 
 您应该已经收到了CC0法律代码的副本以及此副本

@@ -128,14 +128,14 @@
 - [Wmail](https://github.com/Thomas101/wmail) -非官方的Gmail和Google收件箱应用.
 - [Boostnote](https://github.com/BoostIO/Boostnote) -针对开发人员的Markdown注释和代码段应用程序.
 - [Before Dawn](https://github.com/muffinista/before-dawn) -屏幕保护程序工具.
-- [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
+- [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
 - [Hain](https://github.com/appetizermonster/hain) -Windows启动器.
 - [Catify](https://github.com/MeoBeoI/Catify) -Spotify的实用程序.
 - [Minira](https://github.com/jenslind/minira) -菜单栏中的JIRA问题.
 - [Ansel](https://github.com/m0g/ansel) -图片管理器.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) -检查CI服务器的构建状态.
 - [Tockler](https://github.com/MayGo/tockler) -跟踪您的时间.
-- [Mattermost](https://github.com/mattermost/desktop) -最重要的客户.
+- [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) -非官方的中型应用程序.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) -图像查看器.
@@ -201,6 +201,7 @@
 - [Mouseless](https://github.com/ueberdosis/mouseless) -键盘快捷键训练和查找.
 - [Glyphfinder](https://github.com/ueberdosis/glyphfinder) -Unicode字符搜索.
 - [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) -跨平台代码编辑器.
+- [Yana](https://github.com/lukasbach/yana) -具有丰富文本注释，嵌套注释组织和全局搜索的笔记本应用程序.
 
 ### Closed Source
 
@@ -217,7 +218,7 @@
 - [MockingBot](https://mockingbot.com) -用于设计应用程序的原型工具.
 - [Caret](http://caret.io) -Markdown编辑器.
 - [Wantedly Chat](https://www.wantedly.com/chat)  -业务团队聊天.  *（日本人）*
-- [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
+- [Remember](https://rememberapp.co.kr)  -名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) -官方的MongoDB应用程序.
 - [Freeter](https://freeter.io) -自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) -官方的WhatsApp应用程序.
@@ -274,7 +275,7 @@
 ### For Electron
 
 - [electron-builder](https://github.com/electron-userland/electron-builder) -创建安装程序.
-- [devtron](https://github.com/electron/devtron) - Official DevTools extension.
+- [devtron](https://github.com/electron/devtron) -官方的DevTools扩展.
 - [electron-packager](https://github.com/electron-userland/electron-packager) -打包并分发您的应用.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) -添加了有用的调试功能.
 - [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) -检查Electron是否正在开发中.
