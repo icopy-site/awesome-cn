@@ -29,6 +29,7 @@
 - [Discord Server](https://discord.gg/RSaMRzg)
 - [Facebook](https://www.facebook.com/playcanvas/)
 - [HTML5GameDevs Forum](https://www.html5gamedevs.com/tags/playcanvas/)
+- [Openbase](https://openbase.com/js/playcanvas)
 - [Reddit](https://www.reddit.com/r/PlayCanvas/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 
@@ -71,24 +72,24 @@
 - [Adidas ZX Game](https://zx-game.de) -品牌节奏动作游戏（德语）.
 - [Ally Racing](https://www.allyracer.com/) -盟友银行（Ally Bank）复古NASCAR赛车广告游戏.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
-- [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777促销网站.
+- [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777的促销网站.
 - [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计数据和事实.
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -适用于流行手机游戏的交互式3D广告.
+- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -用于流行手机游戏的交互式3D广告.
 - [DOOH Invaders](https://vimeo.com/136313614) -世界上最大的太空侵略者克隆在戛纳电影节上亮相.
 - [Ride Along 2](https://vimeo.com/152996271) -使用WebGL宣传好莱坞电影.
-- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) -在伦敦的皮卡迪利广场上推广橄榄球世界杯.
+- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) -在伦敦的皮卡迪利广场（Piccadilly Circus）推广橄榄球世界杯.
 
 ## Browser Games
 
-- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) -来自BBC的户外冒险游戏.
+- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) -来自BBC的这场游戏中的户外探险.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) -通过迪士尼的Moana学习编程基础知识.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) -引导鸟类穿过尽可能多的管道.
-- [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) -仔细选择大功率UPS，以击败敌对船只.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) -从几何形状建造的程式化无尽流道.
+- [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) -仔细选择电源UPS，以击败敌对船只的浪潮.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) -从几何形状建造的程式化无休止的流道.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) -3D教育中心.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
 - [Megopoly](https://playmegopoly.com/) -免费玩休闲策略棋盘游戏，您可以在其中投资虚拟财产.
-- [Monopoly](https://benbean.tech/monopoly-io/) -在3D视频游戏中重新创建了经典的桌游.
+- [Monopoly](https://benbean.tech/monopoly-io/) -在3D视频游戏中重新制作了经典的桌游.
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) -未来派的格斗游戏.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
 - [Star Stable](https://www.starstable.com/en/register) -流行的马游戏角色注册门户.
@@ -112,7 +113,7 @@
 - [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) -iMessage的多人游戏.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) -点球大战.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) -头对头篮球比赛.
-- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) -从鲍勃头顶射出水果.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) -从鲍勃头顶上射出水果.
 - [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) -沙盒体素构建游戏.
 
 ## Automotive
@@ -122,7 +123,7 @@
 - [BMW i8](http://car.playcanvas.com) -汽车可视化仪.
 - [DAB Motors](https://dabmotors.com/configurator/) -摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) -摩托车配置器.
-- [Infiniti Experience](https://beijing.infiniti-experience.com/) -探索2020英菲尼迪系列（中文）.
+- [Infiniti Experience](https://beijing.infiniti-experience.com/) -探索2020年的英菲尼迪系列（中文）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) -探索起亚最新的汽车产品线.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) -越野车配置器.
 
@@ -132,7 +133,7 @@
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) -交互式3D家具配置器.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) -电梯配置器.
 - [Elfa Closets](http://elfa.com/sv-se/planner) -壁橱配置器.
-- [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) -自动检重秤可视化仪.
+- [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) -检重秤的可视化仪.
 - [iPhone 6](http://phone.playcanvas.com) -iPhone可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) -壁橱配置器.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) -窗口配置器.
@@ -140,7 +141,7 @@
 
 ## AR/VR/XR
 
-- [Neon Bubblegum](https://www.rtz23.de/) -Karsten Weil的演示场景样式基于WebXR的主页.
+- [Neon Bubblegum](https://www.rtz23.de/) -演示场景样式基于WebXR的Karsten Weil主页.
 - [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) -用于VR交互实验的沙盒.
 
 ## Contributing

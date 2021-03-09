@@ -18,13 +18,13 @@
 - [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 - [Front End Newsletter](http://frontendnewsletter.com/) . 免费的每周新闻通讯，提供与前端相关的最佳新闻，文章，项目等.  JavaScript，React，Angular，Ember，Polymer，Meteor，RxJS，Elm等. [Archive](http://frontendnewsletter.com/issues).
 - [Dev Tips](https://umaar.com/dev-tips/) . 每周在收件箱中以gif形式提供开发人员提示.
-- [Friday Front-end](https://zendev.com/friday-frontend.html) . 每个星期五有15篇很棒的前端文章，教程和公告. 有关CSS / SCSS，JavaScript和其他很棒内容的部分. [Archive](https://zendev.com/category/friday-frontend.html)
+- [Friday Front-end](https://zendev.com/friday-frontend.html) . 每个星期五有15篇很棒的前端文章，教程和公告. 有关CSS / SCSS，JavaScript和其他很棒内容的部分. [Archive](https://zendev.com/category/friday-frontend.html).
 - [Unreadit/Frontend](https://unread.it/n/frontend/) . 最佳前端开发新闻来自最佳subreddits.
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads) . 手工整理的与用户界面开发相关的文章，教程，意见和工具的列表.
 
 ### General Web Development
 
-- [Weekend Reading](https://tinyletter.com/assaf) . 关于Web开发，设计和启动寿命的每周电子邮件.
+- [Weekend Reading](https://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
 - [Web Development Reading List](https://wdrl.info) . 本新闻通讯分享了Web开发中的最新文章.
 - [Fullweb Weekly](http://fullweb.io/) . 全栈Web开发人员的每周新闻. 它每周向您发送有关Web前端和后端，开发人员和用户体验的前5个链接.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周新闻通讯，讨论围绕Web平台的有趣话题和热门话题. [Archive](https://ponyfoo.com/weekly/history).
@@ -36,15 +36,16 @@
 
 ### JavaScript
 
-- [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
+- [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript新闻和文章的每周一次免费电子邮件摘要. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次向电子通讯发送电子邮件，其中包含针对设计人员和开发人员的有用提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 每隔一周就会向您的收件箱发送一个快速的JavaScript提示.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计时事通讯，重点关注工具.
 - [ES.next News](http://esnextnews.com/) . 每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
-- [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 很棒的浏览器端JavaScript库，资源和闪亮的东西的集合.
+- [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 最好的TypeScript链接每个星期都在您的包装盒中.
 - [JSter](http://jster.net/blog) . 每两周一次没有任何精挑细选的JavaScript链接到您的邮箱的列表. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
-- [Best of JavaScript](https://weekly.bestofjs.org/) 关于与Node.js和Web平台相关的最受欢迎的开源项目的每周排名.
+- [Best of JavaScript](https://weekly.bestofjs.org/) . 关于与Node.js和Web平台相关的最受欢迎的开源项目的每周排名.
+- [JavaScript Kicks](https://javascriptkicks.com/) . 每周发送一次的JavaScript开发人员社区中最受好评的文章清单.
 
 #### React
 
@@ -62,7 +63,7 @@
 
 #### EmberJS
 
-- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) 来自Ember.js学习团队的更新.
+- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) . 来自Ember.js学习团队的更新.
 - [Ember Weekly](https://www.emberweekly.com/) .  Ember.js最新消息，技巧和代码直接发送到您的收件箱.
 
 #### VueJS
@@ -96,7 +97,7 @@
 - [Designer News](https://www.designernews.co) . 设计社区相遇的地方.
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章将来自品牌，艺术和图形设计界的最好的现代表达和创新相结合.
 - [Hack Design](https://hackdesign.org) . 针对做奇事的人的易于遵循的设计课程.
-- [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精选的资源.
+- [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI动画时事通讯可让您及时了解最佳的Web动画，动作设计和UX资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章，视频，书评以及与网络动画和动作设计的奇妙世界相关的其他商品！
@@ -109,7 +110,7 @@
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的HTML5和Web平台技术综述.  CSS 3，Canvas，WebSockets，WebGL，Native Client等.
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 关于HTML5游戏开发的每周新闻.
-- [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
+- [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯，作为过去一周内添加到Phaser网站的所有新内容（游戏发行，教程，视频等）的摘要.
 
 ### SVG
 
@@ -145,7 +146,7 @@
 
 ### Node.js
 
-- [Node Weekly](https://nodeweekly.com/) .  Node.js新闻和文章的每周一次免费电子邮件摘要.
+- [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
 - [npm Weekly](https://www.npmjs.com/npm-weekly) . 我们正在研究，思考和谈论NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter) . 每周最受欢迎的Node.js新闻，文章和软件包概述.
 
@@ -239,7 +240,7 @@
 ### Java
 
 - [Awesome Java Newsletter](https://java.libhunt.com/newsletter) . 精选的Java框架，库和软件的清单.
-- [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/). Keep up-to-date with the main developments in the Java world through this weekly guide.
+- [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/) . 通过本每周指南，可以了解Java世界的主要发展动态.
 
 ### Kotlin
 
@@ -319,7 +320,7 @@
 ## Mobile
 
 - [Mobile Web Weekly](https://mobiledevweekly.com/) . 每周都会对影响面向移动Web的Web开发人员的发行版，文章和链接进行汇总.
-- [Android Weekly](https://androidweekly.net/) 免费电子报，可帮助您在Android开发方面保持领先水平.
+- [Android Weekly](https://androidweekly.net/) . 免费电子报，可帮助您在Android开发方面保持领先水平.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) . 精选的Android软件包和资源的精选列表.
 - [Weekly Xamarin](http://weeklyxamarin.com) .  Xamarin开发.
 - [Flutter Weekly](https://flutterweekly.net/) . 扑迷每周为扑迷提供时事通讯.
@@ -347,7 +348,7 @@
 ## Technology in General
 
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR是每日精选的新闻通讯，其中包含技术上最有趣的故事的链接和摘要.
-- [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
+- [Barista.io](https://www.barista.io/) . 每天通过电子邮件发送来自网络的人群精选文章，以掌握当今最受欢迎的技术新闻.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) . 每个工作日有4条关于（主要是面向研究的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) . 由Adrian Colyer选择，每个工作日早晨，来自CS世界的有趣/有影响力/重要的论文.
 - [TechMeme](https://www.techmeme.com/) .  Techmeme是近乎实时的汇总，过滤，可存档的摘要，涵盖了新事物并引发了技术对话.
@@ -407,7 +408,7 @@
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳Reddit帖子的有关创业，成长，投资和创业的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity是面向技术专业人员（程序员，开发人员，设计师等）的每周简讯. 每个问题都包括与生产力相关的工具，文章和其他资源的简短列表，这些工具可以帮助各个与技术相关领域的工作者提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周新闻通讯，重点关注移动，Web，AI，UI / UX，作业/载具以及与开发人员和行业相关的任何事物的最新动态.
-- [Trending Projects](https://www.trendingprojects.com/) 每周的电子邮件，展示GitHub上的热门项目.
+- [Trending Projects](https://www.trendingprojects.com/) . 每周的电子邮件，展示GitHub上的热门项目.
 
 ## License
 

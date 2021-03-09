@@ -15,7 +15,7 @@
 
 此列表汇总了与人文科技主题直接相关的开源项目. 请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
- &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望它们对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，请在安装任何东西之前正确告知您自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
+ &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望它们对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
 
 
 如果您的项目在此列表中，则您有权自豪地佩戴我们的人文技术徽章. 看 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
@@ -26,7 +26,7 @@
 
 我们的使命是： [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
 
-我们很高兴邀请您参加我们 [Humane Tech Community Forum](https://community.humanetech.com) 阅读更多有关有趣的人文科技主题的信息，参加我们的讨论，并成为一名真正的：heart：_Humane Tech Activist！_
+我们很高兴邀请您参加我们 [Humane Tech Community Forum](https://community.humanetech.com) 要了解有关有趣的人文科技主题的更多信息，参加我们的讨论，并成为一名真正的：heart：_Humane Tech Activist！_
 
 您也可以通过以下方式跟随我们 [@humanetech@mastodon.social](https://mastodon.social/@humanetech).
 
@@ -93,7 +93,7 @@
 - [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) -根据其代码为您的iOS应用生成隐私权政策.
 - [Reveal Frame Component](https://vwochnik.github.io/reveal-frame-component/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vwochnik/reveal-frame-component)  -注重隐私的iFrame占位符（JS脚本）. 仅在用户同意后加载.
 - [FreedomBox](https://freedombox.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://salsa.debian.org/freedombox-team/plinth) -易于管理，面向隐私的家庭服务器.
-- [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/etesync) -安全，端到端加密和尊重隐私的联系人，日历和任务同步.
+- [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/etesync) -安全，端到端加密和隐私保护，确保您的联系人，日历和任务的同步.
 - [Image Scrubber](https://github.com/everestpipkin/image-scrubber) -基于浏览器的工具，用于匿名化照片和清理EXIF元数据.
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展程序，可模拟内容交付网络以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
@@ -151,8 +151,8 @@
 - [umami](https://umami.is/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mikecao/umami) -一种简单，快速的网站分析工具，可替代Google Analytics（分析）.
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) -免费的实时日志文件分析器，以获取高级统计信息.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  -公平的网络分析. 在您的用户完全控制其数据时获得见解.
-- [Kindmetrics](https://kindmetrics.io)  [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) -使用Crystal制作的注重隐私的网站分析-托管在欧盟.
-
+- [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) -使用Crystal制作的注重隐私的网站分析-托管在欧盟.
+- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此具有隐私友好性.
 
 ## Blocklists
 
@@ -257,7 +257,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) -加强记忆力丧失者与亲近者之间关系的应用程序.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) -用于创建和维护良好习惯的Android应用.
 - [If me](https://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) -精神健康体验社区，鼓励人们与亲人分享他们的故事.
-- [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，可提醒您在使用计算机时休息一下.
+- [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，提醒您在使用计算机时要休息一下.
 - [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) -跨平台，可扩展且注重隐私的自动化时间跟踪器.
 - [Red Moon](https://github.com/LibreShift/red-moon) -夜间电话使用的android屏幕过滤器应用程序.
 - [Workrave](https://workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) -协助恢复和预防重复性劳损（RSI）的计划.

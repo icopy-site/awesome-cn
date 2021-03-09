@@ -206,6 +206,7 @@
 -  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) -尾风CSS类名称在一个文件中.
 -  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) -Tailwind CSS类名称，变体和指令速查表.
 
+
 ## UI Libraries, Components & Templates
 
 **传奇**：官方资源·库·组件·模板
@@ -246,6 +247,7 @@
 -  [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
 -  [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
 -  [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
+-  [Windi CSS](https://github.com/windicss/windicss) -Tailwind CSS的按需编译器.
 
 ## Starters & Themes
 
