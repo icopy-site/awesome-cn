@@ -15,22 +15,22 @@
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) -用于构建客户端Web应用程序的Rust / WebAssembly框架.
-- [Live demo](https://yew-todomvc.netlify.com) -todomvc演示.
+- [Live demo](https://yew-todomvc.netlify.com) -Todomvc演示.
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) -官方回购中包含的较小示例.
 - [API Docs](https://docs.rs/yew) -docs.rs上的文档.
 - [Website](https://yew.rs/) - 官方网站.
-- [Chatroom](https://discord.gg/VQck8X4) -非常活跃，是提问的好地方.
+- [Chatroom](https://discord.gg/VQck8X4) -非常活跃，是问问题的好地方.
 - [Reddit](https://www.reddit.com/r/yew_web/) -专用Sub Reddit.
 - [Financial Contribute](https://opencollective.com/yew) -成为财务贡献者，并帮助我们维持我们的社区.
 - [Yewtify](https://github.com/yewstack/yewtify) -为Yew框架提供Vuetify组件.
 
 ## Projects
 
-- [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) -使用Rust + Yew + WebAssembly构建的示例现实世界应用程序.
-- [webapp.rs](https://github.com/saschagrunert/webapp.rs) -使用Yew构建完全用Rust编写的Web应用程序.
+- [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) -使用Rust + Yew + WebAssembly构建的示例性真实世界应用程序.
+- [webapp.rs](https://github.com/saschagrunert/webapp.rs) -由Yew构建的完全用Rust编写的Web应用程序.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) -易于测试且工作正常的Rust代码以及博客文章以对其进行解释.
-- [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
-- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) -演示如何将yew用于编译为WebAssembly并捆绑为轻量级（〜2mb）桌面应用程序的todomvc [web-view](https://github.com/Boscop/web-view)作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 也有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+- [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) -完全用Rust编写的网络应用，用于傻瓜派对游戏.
+- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) -演示如何将yew用于可编译为WebAssembly并捆绑为轻量级（〜2mb）桌面应用程序的todomvc [web-view](https://github.com/Boscop/web-view)，作为Electron的替代品， [web-view](https://github.com/Boscop/web-view) 也有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) -该项目展示了如何使用Yew组件内部的React组件创建Web应用程序.
 - [Kirk](https://github.com/stkevintan/Kirk) -只是Rust WebAssembly博客.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) -玩具项目，以学习可以部署到Web的Rust和async.
@@ -46,24 +46,24 @@
 - [Daydream](https://github.com/MTRNord/Daydream) -用Rust编写的小型Matrix网络客户端.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) -与Yew进行的简单WebRTC聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建全栈应用程序.
-- [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在此Rust / Yew / WebAssembly应用中练习识别和弦.
+- [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在这个Rust / Yew / WebAssembly应用中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) -使用Rust，Wasm和Yew编写的单页应用程序（SPA）.
-- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到配对编程合作伙伴. 用红豆杉前端写在Rust中.
+- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到结对编程的合作伙伴. 用红豆杉前端写在Rust中.
 - [yew-octicons](https://github.com/io12/yew-octicons) -在Yew项目中使用Octicons的简单界面.
-- [Pipe](https://github.com/pipe-fun/pipe) -这是一个Rust / Wasm客户端Web应用程序，它是一个任务控制中心.
+- [Pipe](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) -在线将您的标记转换为Yew宏，这也是Yew制作的.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) -具有ASCII艺术奖励的儿童可配置的Hangman游戏.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用Yew，Rust为后端API提供支持.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) -用Rust和Yew实现的2048游戏并编译为Wasm.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) -我通过Yew / Wasm用Rust编写的个人网站.
-- [KeyPress](https://github.com/rayylee/keypress) -Rust WebAssembly网站示例，用于为中文练习英语.
-
+- [KeyPress](https://github.com/rayylee/keypress) -Rust WebAssembly网站示例，用于练习中文的英语.
+- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) -Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于Yew最新的钩子和功能API的示例，其代码风格非常类似于React Function Component.
 ## Templates
 
 - [Create Yew App](https://github.com/jetli/create-yew-app) -通过运行一个命令“ npx create-yew-app my-app”来设置现代的Yew网络应用.
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) -用于启动与Yesm-pack一起使用的Yew项目的模板.
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) -使用wasm-bindgen和wasm-pack启动Yew项目的最小模板.
-- [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) -带有Yew-Router和Parcel应用程序的出色Yew.
+- [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) -使用Yew-Router和Parcel应用程序的超赞Yew.
 
 ## Crates
 
@@ -93,15 +93,15 @@
 ### Wasm
 
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) -促进WebAssembly模块和JavaScript之间的高层交互.
-- [stdweb](https://github.com/koute/stdweb) -提供与Web API的Rust绑定，并允许Rust和JavaScript之间具有高度的互操作性.
+- [stdweb](https://github.com/koute/stdweb) -提供Rust到Web API的绑定，并允许Rust和JavaScript之间的高度互操作性.
 
 ## Tooling
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
-- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件以加速CI / CD来安装“ wasm-pack”.
+- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件来安装`wasm-pack`，以加快CI / CD的速度.
 - [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加快CI / CD的速度.
 - [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
-- [Trunk](https://github.com/thedodd/trunk) -构建，捆绑并将Rust Wasm应用程序发送到Web.
+- [Trunk](https://github.com/thedodd/trunk) -生成，捆绑并将Rust Wasm应用程序发送到网络.
 - [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) -WebAssembly的编译器基础结构和工具链库，用于减小.wasm文件大小的`wasm-opt`工具.
 
@@ -130,7 +130,7 @@
 
 ## Alternatives
 
-紫杉团队热爱与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项令人兴奋的新技术的潜力.
+紫杉团队喜欢与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项令人兴奋的新技术的全部潜力.
 
 - [Draco](https://github.com/utkarshkukreti/draco) -用于通过WebAssembly构建客户端Web应用程序的Rust库.
 - [Percy](https://github.com/chinedufn/percy) -用于使用Rust + WebAssembly构建同构Web应用程序的模块化工具包.
@@ -142,4 +142,4 @@
 
 - [Awesome Rust and WebAssembly](https://github.com/rustwasm/awesome-rust-and-webassembly) -很棒的Rust和WebAssembly项目，库，工具和资源的列表.
 - [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm) -收集有关WebAssembly生态系统的很棒的东西.
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) -精选的Rust代码和资源列表.
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) -Rust代码和资源的精选列表.

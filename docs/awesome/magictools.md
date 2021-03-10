@@ -31,7 +31,7 @@ Graphics
 * ：自由： [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/)  -卡通用户界面资产包. 它以分层的psd文件的形式出现.
 * ：自由： [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) -一套420个RPG图标，免费用于商业用途.
 * ：自由： [Blender 3D models](https://www.blender-models.com/) -3D模型，粒子系统/效果
-*：money_with_wings： [CGTextures](http://www.textures.com) - A large collection of textures.
+*：money_with_wings： [CGTextures](http://www.textures.com) -大量的纹理.
 *：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) -由社区驱动的市场，将独立游戏开发人员与才华横溢的资产创建者联系起来.
 * ：自由： [Games-Icons Set](http://game-icons.net/) -您的游戏的免费图标.
 * ：自由： [Google Poly](https://poly.google.com/)  -具有可旋转预览的3D模型的可搜索数据库.  （仅可重新混合的模型可供下载.）
@@ -214,6 +214,7 @@ Code
 *： 然后： [gameplay](http://gameplay3d.io/)  -用C ++编写的免费，开源，跨平台2D + 3D游戏框架. 它面向开发台式机和手机游戏的独立游戏开发商.
 *：money_with_wings： [GameSalad](https://gamesalad.com/) -适用于Mac和Windows的游戏创建引擎.
 *： 然后： [GB Studio](https://www.gbstudio.dev/) -一个免费且易于使用的复古冒险游戏创建者，用于您喜欢的手持视频游戏系统.
+*： 然后： [GDevelop](https://gdevelop-app.com/) -专为所有人设计的开源，跨平台2D游戏引擎-可扩展，快速且易于学习.
 *： 然后： [ggez](http://ggez.rs/) -Rust库可轻松创建好游戏.
 *： 然后： [Gideros](http://giderosmobile.com/) -跨平台框架，可使用Lua编程语言为iOS，Android创建移动应用和游戏.
 *： 然后： [Glide Engine](https://github.com/cocoatoucher/Glide) -使用Swift编程语言在iOS，macOS和tvOS上制作2d游戏的引擎，并附有实际示例和教程.
@@ -344,9 +345,9 @@ Audio
 *： 然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) -适用于Mac / Linux / Windows平台的开源跟踪器.
 *： 然后： [musagi](http://www.drpetter.se/project_musagi.html) -开源，相当大和复杂的音乐编辑器和合成器
 *： 然后： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) -开源MIDI音序器.
-* ：自由： [Soundation](https://soundation.com/) - Online Professional music studio.
-* ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) -小型，快速且功能强大的模块化合成器，具有基于模式的音序器（跟踪器）.
-* ：钱袋子： [Resemble](https://www.resemble.ai/unity) -类似于Unity中的语音克隆引擎
+* ：自由： [Soundation](https://soundation.com/) -在线专业音乐工作室.
+* ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+* ：钱袋子： [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 
 棋盘游戏
 -----------

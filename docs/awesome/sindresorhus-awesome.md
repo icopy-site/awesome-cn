@@ -173,7 +173,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用程序而设计的现代编程语言，在这些应用程序中，可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
@@ -449,7 +449,7 @@
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) -文本编辑器字体.
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) -以动画图像而闻名的图像格式.
 - [Music](https://github.com/ciconia/awesome-music#readme)
@@ -527,7 +527,7 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
-- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) -建立主要关注社会影响的组织，该组织至少部分是自筹资金.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) -如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) -以开发人员为用户的产品. 
 
@@ -706,6 +706,7 @@
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) -在网络上对生物数据进行交互式可视化.
 - [QR Code](https://github.com/aureooms/awesome-qr-code#readme) -一种矩阵条形码，可用于存储和共享少量信息.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) -使基于植物的生活方式变得容易且易于使用.
+- [Translations](https://github.com/mbiesiad/awesome-translations#readme) -将文本的含义从一种语言转移到另一种语言.
 
 ## Related
 
