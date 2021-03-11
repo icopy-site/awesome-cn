@@ -115,7 +115,7 @@
 ### Uncategorized
 
 - [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)  -R包data.table和dplyr的详细比较. 作者：Atrebas.
-- [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)  -快速介绍data.table. 主要目的是介绍data.table语法，显示如何执行基本但必不可少的数据整理任务. 作者：Atrebas.
+- [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)  -快速介绍data.table. 主要目的是介绍data.table语法，以显示如何执行基本但必不可少的数据整理任务. 作者：Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) -作者：科林·费伊（Colin Fay）.
 - [R - discoRd server](https://discord.gg/88uG5UVyE2) -具有以下基于主题的渠道的专用discoRd服务器：“ R-Main”（用于更一般性的讨论），“ R-Share”（用于炫耀您的数据视觉效果），“ General R Help”（用于询问问题和共享学习资源）以及“ Topical”帮助/讨论有关统计，dbi，tidymodels，闪亮，自然科学，社会科学，贝叶斯，gis和金融的问题. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) -Reddit subreddit专注于实现用于统计和数据科学的R编程语言.
@@ -152,10 +152,9 @@
 - [Data Science in Education Using R](https://datascienceineducation.com/)  -本书主要涉及学习将R用作教育中的数据科学工具. 作者：Ryan A. Estrellado，Emily A. Bovee，Jesse Mostipak，Joshua M. Rosenberg和Isabella C.Velásquez.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)  -高效的R编程是要在给定的时间内增加使用R可以完成的工作量. 它与计算效率和程序员效率有关. 作者：Colin Gillespie，Robin Lovelace.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)  -本书涵盖了构建Shiny应用程序的过程，该应用程序随后将被发送到生产环境. 作者：Colin Fay，SébastienRochette，Vincent Guyader，Cervan Girard.
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书涵盖了使用R汇总数据的基本探索性技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)  -本书是关于利用计算机的功能来处理地理数据. 它教授一系列空间技能，包括阅读，编写和处理地理数据； 制作静态和交互式地图； 应用地理计算来解决现实世界中的问题； 并为地理现象建模. 作者：Robin Lovelace，Jakub Nowosad，Jannes Muenchow.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)  -本书提供了ggplot2的动手入门，其中包含许多示例代码和图形. 它还说明了ggplot2所基于的语法. 作者：哈德利·威克姆（Hadley Wickham）.
-- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) -这本电子书旨在帮助您开始使用R中的字符串进行操作.作者：Gaston Sanchez.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)  -Happy Git就如何安装Git以及如何使其在GitHub和RStudio IDE中与GitHub一起顺利运行提供了可靠的指导，开发了一些涵盖您最常见任务的关键工作流程，并将Git和GitHub集成到您的日常工作中， R和R Markdown. 作者：詹妮·布赖恩（Jenny Bryan），STAT 545 TA，吉姆·海斯特（Jim Hester）.
 - [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用脱字符的算法构建，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. . 作者：Rafael A. Irizarry教授.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  -本文档简要介绍了R.它强调了您需要了解的才能在任何上下文中使用该语言. 作者：罗伯特·希曼斯（Robert Hijmans）教授.
@@ -171,7 +170,7 @@
 - [R Cookbook, 2nd Edition](https://rc2e.com/index.html)  -本书包含如何使用的食谱，每种食谱都可以解决一个特定的问题. 该食谱包括对该解决方案的快速介绍，然后进行讨论，以期对解决方案进行解压缩，并为您提供有关其工作原理的一些见解. 作者：James（JD）Long和Paul Teetor.
 - [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R. You will learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) 作者：Garrett Grolemund和Hadley Wickham.
 - [R Packages](http://r-pkgs.had.co.nz/)  -在本书中，您将学习如何将代码转换成其他人可以轻松下载和使用的程序包. 作者：哈德利·威克姆（Hadley Wickham）.
-- [R Programming for Data Science](https://leanpub.com/rprogramming)  -本书使用与业界领先的约翰霍普金斯大学数据科学专业知识相同的材料，为您带来R编程的基础知识. 作者：彭杰.
+- [R Programming for Data Science](https://leanpub.com/rprogramming)  -本书使用与业界领先的约翰霍普金斯大学数据科学专业知识相同的材料，为您带来R编程的基础知识. 作者：罗杰·彭（Roger Peng）.
 - [R Tutorial – Be a Data Science rock star with R](https://data-flair.training/blogs/r-tutorial/)  -R编程语言之旅，探讨其不同和基本概念. 该R DataFlair教程系列旨在帮助初学者入门R，并有丰富的R编程技能和丰富的语言经验.
 - [Statistical Inference via Data Science](https://moderndive.com/)  -旨在以一种像数据科学家，统计学家，数据记者和其他研究人员一样的方式，对使用数据进行数据分析和回答问题的实践作一个温和的介绍. 作者：切斯特·伊斯梅（Chester Ismay）和阿尔伯特·金（Albert Y. Kim）.
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)  -本书着重于文本的监督或预测建模，使用文本数据对我们周围的世界进行预测. 作者：Emil Hvitfeldt和Julia Silge.
@@ -187,7 +186,7 @@
 &gt;实践社区是一群对他们所做的事情有关注或激情并在与他们定期互动时学习如何做得更好的人.
 
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) -TidyTuesday是针对R生态系统的每周数据项目，重点在于理解如何汇总和排列数据以制作有意义的图表.
-- [R for Data Science (R4DS) Online Learning Community](https://www.rfordatasci.com/)  -由Jessie Mostipak（@kierisi）创立，旨在为学习者和导师创建一个支持性和响应性的在线空间，以供Garrett Grolemund和Hadley Wickham通过R for Data Science本书来收集和工作. 成长为各个技能水平的R学习者社区，共同努力以提高他们的技能.
+- [R for Data Science (R4DS) Online Learning Community](https://www.rfordatasci.com/)  -由Jessie Mostipak（@kierisi）创立，旨在为学习者和导师提供一个支持性和响应性的在线空间，以供Garrett Grolemund和Hadley Wickham撰写《 R for Data Science》一书. 成长为各个技能水平的R学习者社区，共同努力以提高他们的技能.
 
 ## Podcasts 
 
@@ -205,13 +204,13 @@
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)  -主题包括EDA图形化，数据处理，动画映射，可视化，文本挖掘，时间序列，预测，回归，自举，软件包开发，网络图，ANOVA，JSON，模拟，生存分析和测度. 点击 [here](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) 有关详细的TidyTuesday截屏注释.
 - [Dean Attali](https://www.youtube.com/c/DAattali/videos) -Shiny，包括一些调试Shiny的视频.
 - [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) -主题包括数值计算，生成随机游动，马尔可夫链，对分类变量进行编码，概率，相关图，特征工程，时间序列，二进制分类器，模型，数据表，混淆矩阵，机器学习，地理编码，摘要统计和模拟.
-- [IDG TECHtalk](https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv) -“用R做更多”播放列表包括有关闪亮，data.table，获取API数据，将Git和Github与R配合使用，编写自己的程序包，在R代码中运行Python，RStudio插件和键盘快捷键，仪表板和Flexdashboard的教程.
+- [IDG TECHtalk](https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv) -使用R播放列表进行更多操作，包括有关闪亮的data.table，获取API数据，将Git和Github与R一起使用，编写自己的程序包，在R代码中运行Python，RStudio插件和键盘快捷键，仪表板和Flexdashboard的教程.
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) -主题包括预测文本建模，归因缺失数据，整理模型，情感分析，多项式分类，主成分分析，数据预处理和重采样以及多项式分类.
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos) -不同专家就各种各样的话题进行了深入的讨论.
 - [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures/featured) -主题包括描述性统计，方差分析，自举，线性回归，双变量分析和概率分布.
 - [Numyard](https://www.youtube.com/c/TheLearnR/videos) -主题包括使用数据框，循环，基本数学，向量，列表，创建函数，数据类型和随机采样.
 - [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) -主题包括粘贴功能，应用族功能，while和for循环，条件语句，可视化，删除NA和合并数据.
-- [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) -R播放列表中的视频包括有关使用dplyr处理数据，使用ggplot2和ggThemeAssist可视化数据，数据类型和结构，重要的r函数，使用lubridate处理日期时间，使用forcat克服因素，使用stringer处理文本的视频. 
+- [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) -R播放列表包括有关视频的视频，这些视频包括使用dplyr处理数据，使用ggplot2和ggThemeAssist可视化数据，数据类型和结构，重要的基本r函数，使用lubridate处理日期时间，使用forcat克服因素，使用stringer处理文本. 
 - [Shiny Developer Series](https://www.youtube.com/c/ShinyDeveloperSeries/videos) -Shiny Developer Series的目标是展示不断增长的Shiny生态系统中的创新应用程序和软件包，以及背后的才华横溢的开发人员！ 
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG) -R Programming for Beginners播放列表包括有关数据科学，图表，数据可视化，算法，业务分析，回归，随机森林，SVM，聚类，时间序列，建模和分析技术的视频.
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) -有关如何解决使用R时将遇到的常见问题的简短而详细的教程的集合.主题包括数据格式设置，数据重新排序，字符串和ggplot2.

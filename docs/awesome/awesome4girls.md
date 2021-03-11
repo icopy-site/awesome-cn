@@ -43,17 +43,23 @@
 
     Js-Girls是为期1天的讲习班，专门为希望学习Javascript的女孩而设计.
 
-  - [Js4Girls](https://raw.githubusercontent.com/Webschool-io/js4girls) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [Js4Girls](https://raw.githubusercontent.com/Webschool-io/js4girls) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     巴西的一项倡议，是在没有男性的环境中向女性提供免费的javascript类.
 
-  - [JsLadies BR](https://raw.githubusercontent.com/jsladiesbr) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [JsLadies BR](https://raw.githubusercontent.com/jsladiesbr) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     一个面向对Web开发和javascript感兴趣的女性的小组，提供公开和免费的会议，研讨会和讲座.
 
   - [NodeGirls](https://nodegirls.com/)
 
      Node Girls举办为期1天的免费Node.js研讨会. 在经验丰富的女性指导者的支持下，它们为学习编码的妇女提供了一个友好的环境.
+
+### PHP
+
+  - [PHPWomen](https://phpwomen.org/)
+
+    一个包容各方的全球用户组，在PHP社区内提供了一个支持网络.
 
 ### Python
 
@@ -64,12 +70,6 @@
   - [PyLadies](http://www.pyladies.com/)
 
     一个国际指导小组，致力于帮助更多女性成为Python开源社区的积极参与者和领导者.
-
-### PHP
-
-  - [PHPWomen](https://phpwomen.org/)
-
-    一个包容各方的全球用户组，在PHP社区内提供了一个支持网络.
 
 ### R
 
@@ -123,7 +123,7 @@
 
     在旧金山赞助的晚宴上，来自各地的女性被邀请与女性科技界的知名演讲者分享经验. 这些活动还提供了社交网络以及赞助公司的潜在招募. 它已经由100多家公司主办，并且每月有数次活动.
 
-  - [Byte Girl](http://bytegirl.com.br/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [Byte Girl](http://bytegirl.com.br/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
      Byte Girl是一项非营利性，开放性活动，由志愿者组织，专注于喜欢科技的女性. 其目标是通过分享专业技术知识和经验的专业人士的演讲来赋予妇女权力.
 
@@ -132,7 +132,7 @@
     ByteHacks是9月1日至2日在Thoughtworks纽约市举办的24小时黑客马拉松比赛，旨在鼓励各个年龄段和技能的女性组成团队，并创建对社会产生积极影响的技术项目.
     黑客马拉松将举办研讨会，技术讲座，导师，赞助商和免费食品. 无论您是设计师，企业家，艺术家还是编码员，ByteHacks都欢迎您. 我们甚至还有Adafruit创始人兼首席执行官Limor Fried的主题演讲.
 
-  - [Code Girl](http://www.codegirl.com.br/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [Code Girl](http://www.codegirl.com.br/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
      Code Girl是一项活动，旨在激发人们讨论如何克服技术行业女性所面临的挑战. 此次活动的特色是女性演讲者，其目的是激励行业内的女性.
 
@@ -140,15 +140,11 @@
 
      Czechitas是一家位于捷克共和国的非营利组织，组织各种活动，课程和夏令营，以帮助妇女，女孩和儿童探索IT领域. 这些活动涵盖了编程，Web开发，图形设计，数字营销和数据分析等主题.
 
-  - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
-
-    科技界女性峰会激励，教育并联系科技行业中的女性.
-
   - [Geek Girls Carrots](http://gocarrots.org) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
     Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
 
-  - [Girls4Tech](https://girls4tech.ebanx.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [Girls4Tech](https://girls4tech.ebanx.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
      Girls 4 Tech是一门在线编程课程，完全免费，由女性制作. 该语言是可访问的，不需要任何先验知识，并且对所有人开放.
 
@@ -156,7 +152,7 @@
 
     女编码员联盟（以前称为Ladies Who Code，成立于2011年6月）是一个聚会，着重于编码，黑客和协作学习. 该小组每月至少在纽约市和波士顿开会一次. 聚会着重于演讲，技术问题和构想，偶尔还会有女性演讲者参加.
 
-  - [RodAda Hacker](http://rodadahacker.org/)  - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [RodAda Hacker](http://rodadahacker.org/)  - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink about existing technology.
 
@@ -269,122 +265,17 @@
 
     麻省理工学院的妇女技术计划是一个为期四周的夏季计划，向高中毕业生介绍工程学和计算机科学. 该计划旨在增强来自历史上代表性不足，服务不足的社区以及家庭中第一个上大学的学生的能力. 
 
-### Linux/OpenSource
+### Chatrooms
 
-  在开放源代码组织背后的项目.
+  在线聊天室，例如松弛团队，gitter，IRC等.
 
-  - [Debian Women](https://www.debian.org/women/)
+  - [Systers](https://anitab.org/systers/)
 
-    Debian妇女项目成立于2004年5月.我们通过积极地与感兴趣的妇女接触并鼓励她们更多地参与Debian，以寻求平衡和多样化的Debian项目.
+     Anita Borg Institute成员社区. 它提供了一个空间来讨论开源项目并为之做出贡献，参与活动以及讨论技术的任何方面.
 
-  - [Fedora Women](https://fedoraproject.org/wiki/Women)
+  - [Women in Tech](http://witchat.github.io/)
 
-    Fedora Women是一个旨在联系和帮助有兴趣使用Fedora并为其做出贡献的女性的项目.
-
-  - [KDE Women](https://community.kde.org/KDE_Women)
-
-     KDE Women是KDE社区中的一群妇女. 我们在这里帮助增加开放源代码中的女性人数，并互相支持.
-
-  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
-
-    这是一个面向女性的Linux社区. 它旨在为女性Linux用户提供技术和社会支持，尽管鼓励男性提供帮助和帮助.
-
-  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
-
-     Ubuntu Women Project成立于2006年，旨在通过指导和启发来促进女性贡献者和社区参与.  Ubuntu Women Team拥有许多项目，我们试图通过这些项目提高Ubuntu各个领域中女性的知名度，我们邀请您提供帮助.
-
-### Conferences/Talks
-
-  带来主题的会议.
-
-  - [AlterConf](https://alterconf.com/)
-
-     AlterConf是一个旅行会议系列，为处于边缘地位的人们以及在技术和游戏行业中为他们提供支持的人们提供安全的机会.
-
-  - [Ela Conf](http://elaconf.com) *地方：* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
-
-    A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
-
-  - [European Women In Technology](http://www.europeanwomenintech.com)
-
-    旨在激发和联系从事科技行业的女性的会议. 它提供了由行业先驱提供的交互式面板和深入讨论会. 男女都可以参加会议，讨论与技术领导力中的女性，女性创始人，弥合性别差距，非技术性科技女性以及激励后代女孩进入该领域有关的问题.
-
-  - [Female Founders Conference](http://www.femalefoundersconference.org/)
-
-    由加速器Y Combinator组织的年度会议，针对女性创始人和企业家. 该活动以讲座和小组讨论为特色，包括女性创始人分享经验并提供创业指导的会议.
-
-  - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
-
-     “技术催化剂中的女孩”的亮点是启发女性领导人的主题演讲. 这次会议还为与会者提供了真正的交流机会，一个交流思想和与其他启发女性的联系的平台. 我们将在有意义的研讨会和晚间娱乐中分层活动，包括启动鸡尾酒会.
-
-  - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
-
-    这项年度免费活动是在全球范围内举行的唯一一次面向技术女性的会议，为所有人提供参加和参加的机会，无论是身体上还是虚拟上，都消除了所有参与障碍. 代表们分别或集体出席会议，讨论，合作和庆祝技术女性的贡献.
-
-  - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
-
-     Grace Hopper庆祝计算中的女性是世界上最大的女性技术专家聚会. 它由Anita Borg研究所制作，并与ACM合作展示.
-
-  - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
-
-    约翰逊妇女技术大会（JWiT）由康奈尔大学约翰逊管理学院的学生组织. 该活动旨在吸引学生和专业人士，其内容包括精彩的小组讨论，宝贵的社交活动，收入前的沥青比赛等.
-
-  - [Lesbians Who Tech](http://lesbianswhotech.org//)
-
-    科技界的女同志是科技界（及热爱她们的人）中或周围的酷儿女性社区.
-
-  - [She's Geeky](http://shesgeeky.org/)
-
-    * unConference *供各种女性怪胎共享，连接，联网，学习，启发并获得很多乐趣.
-
-  - [SheSharp](http://www.shesharp.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
-
-    一个希腊人社区，致力于促进妇女对科技的参与. 它的主要活动包括免费研讨会，对有兴趣的人开放的聚会，与其他技术社区和塞萨洛尼基当地分会的伙伴关系.
-
-  - [SWE](http://societyofwomenengineers.swe.org/)
-
-    女工程师协会（SWE）是一个非营利性的教育和服务组织，它使妇女能够在工程领域取得成功和进步，并因其在工程师和领导者方面做出的改变人生的贡献而受到认可. 它促进了女工程师的年度会议.
-
-  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
-
-    为妇女而设的技术培训是一项为期一天的活动，旨在通过教育，资源筹集和建立网络来提高妇女的技术水平. 此次活动将重点关注新技术进步，网络安全以及针对初创企业和私人公司的不同融资渠道. 该活动将为妇女提供资源和机会，以提高其数字素养，并成功竞争和打破工作环境中的性别不平衡.
-    该活动的目的是消除技术中的恐惧因素并赋予妇女权力.
-
-  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    妇女会议的任务是促进，交流和扩大妇女在工作场所及其他地方的影响. 在一年一度的无党派，非营利性会议上，它聚集了成千上万活跃的专业人员，以在社区中建立联系，更新和寻找灵感.
-
-  - [We RISE](https://werise.tech/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    我们崛起的全部目的在于培养和展示技术方面的女性. 在两天的时间里，《我们崛起》邀请了来自世界各地的妇女和盟友来做出色的工作.
-
-  - [WECode](http://www.wecodeharvard.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-     WECode是“每年2月在哈佛大学举行的由学生主持的最大的计算机科学女性会议.我们的任务是在全球范围内扩展技术女性的技能，网络和社区.我们将女性聚集了两天，以期分享有关技术和创新的想法和对话.” 请于2月27日和2月28日在https://live.cs50.net/wecode上直播.
-
-  - [WITI](http://www.witi.com/)
-
-     WITI是一家全球领先的组织，致力于帮助精通技术的女性实现其职业目标.  WITI为妇女举办活动和峰会.
-
-  - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
-
-    科技女性峰会是专门为IT女性设计的特别活动. 该活动包括炉边聊天，两个小组演讲，午餐和社交活动.
-
-  - [Women in Tech Summit Series](http://womenintechsummit.net/)
-
-     “科技界女性峰会”是一系列活动，旨在激发，教育和联系科技行业中的女性，从学生到高级管理人员的各个层次. 活动在丹佛，费城，罗利·达勒姆和华盛顿特区举行
-
-  - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    来自各个渠道（管理，销售，营销，技术和运营）的女性领导人齐心协力，互相学习，建立了新的关系.
-
-  - [Women Who Tech](http://womenwhotech.com/)
-
-    Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
-
-  - [Write/Speak/Code](http://www.writespeakcode.com/)
-
-    编写/讲话/编码的使命是使女性软件开发人员有能力成为思想领导者，会议发言人和开源贡献者. 他们在美国各地举行会议和活动.
+    为从事技术工作的女性聊天和互相支持提供了一个安全，保密的空间.
 
 ### Communities/Groups
 
@@ -430,17 +321,131 @@
 
     妇女非营利组织（WHFNP）是一个志愿者社区，旨在提高妇女在技术上的技能，支持妇女的发展并提供探索开源的机会. 该小组将技术熟练的女性与开放源代码项目配对，这些项目正在为非营利组织，慈善机构和个人开发，以产生积极的社会影响.
 
-### Chatrooms
+### Conferences/Talks
 
-  在线聊天室，例如松弛团队，gitter，IRC等.
+  带来主题的会议.
 
-  - [Systers](https://anitab.org/systers/)
+  - [AlterConf](https://alterconf.com/)
 
-     Anita Borg Institute成员社区. 它提供了一个空间来讨论开源项目并为之做出贡献，参与活动以及讨论技术的任何方面.
+     AlterConf是一个旅行会议系列，为处于边缘地位的人们以及在技术和游戏行业中为他们提供支持的人们提供安全的机会.
 
-  - [Women in Tech](http://witchat.github.io/)
+  - [Ela Conf](http://elaconf.com) *地方：* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
-    为从事技术工作的女性聊天和互相支持提供了一个安全，保密的空间.
+    A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
+
+  - [European Women In Technology](http://www.europeanwomenintech.com)
+
+    旨在激发和联系从事科技行业的女性的会议. 它提供了由行业先驱提供的交互式面板和深入讨论会. 男女都可以参加会议，讨论与技术领导力中的女性，女性创始人，弥合性别差距，非技术性科技女性以及激励后代女孩进入该领域有关的问题.
+
+  - [Female Founders Conference](http://www.femalefoundersconference.org/)
+
+    由加速器Y Combinator组织的年度会议，针对女性创始人和企业家. 该活动以讲座和小组讨论为特色，包括女性创始人分享经验并提供创业指导的会议.
+
+  - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
+
+     “技术催化剂中的女孩”的亮点是启发女性领导人的主题演讲. 这次会议还为与会者提供了真正的交流机会，一个交流思想和与其他启发女性的联系的平台. 我们将在有意义的研讨会和晚间娱乐中分层活动，包括启动鸡尾酒会.
+
+  - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
+
+    这项年度免费活动是在全球范围内举行的唯一一次面向技术女性的会议，为所有人提供参加和参加的机会，无论是身体上还是虚拟上，都消除了所有参与障碍. 代表们分别或集体出席会议，讨论，合作和庆祝技术女性的贡献.
+
+  - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
+
+     Grace Hopper庆祝计算中的女性是世界上最大的女性技术专家聚会. 它由Anita Borg研究所制作，并与ACM合作展示.
+
+  - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
+
+    约翰逊妇女技术大会（JWiT）由康奈尔大学约翰逊管理学院的学生组织. 该活动旨在吸引学生和专业人士，其内容包括精彩的小组讨论，宝贵的社交活动，收入前的沥青比赛等.
+
+  - [Lesbians Who Tech](http://lesbianswhotech.org//)
+
+    科技界的女同志是科技界（及热爱她们的人）中或周围的酷儿女性社区.
+
+  - [She's Geeky](http://shesgeeky.org/)
+
+    * unConference *供各种女性怪胎共享，连接，联网，学习，启发并获得很多乐趣.
+
+  - [SheSharp](http://www.shesharp.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
+
+    一个希腊人社区，致力于促进妇女对科技的参与. 它的主要活动包括免费研讨会，对有兴趣的人开放的聚会，与其他技术社区和塞萨洛尼基当地分会的伙伴关系.
+
+  - [SWE](http://societyofwomenengineers.swe.org/)
+
+    女工程师协会（SWE）是一个非营利性的教育和服务组织，它使妇女能够在工程领域取得成功和进步，并因其在工程师和领导者方面做出的改变人生的贡献而受到认可. 它促进了女工程师的年度会议.
+
+  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
+
+    为妇女而设的技术培训是一项为期一天的活动，旨在通过教育，资源筹集和建立网络来提高妇女的技术水平. 此次活动将重点关注新技术进步，网络安全以及针对初创企业和私人公司的不同融资渠道. 该活动将为妇女提供资源和机会，以提高其数字素养，并成功竞争和打破工作环境中的性别不平衡.
+    该活动的目的是消除技术中的恐惧因素并赋予妇女权力.
+
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    妇女会议的任务是促进，交流和扩大妇女在工作场所及其他地方的影响. 在一年一度的无党派，非营利性会议上，它聚集了成千上万活跃的专业人员，以在社区中建立联系，更新和寻找灵感.
+
+  - [We RISE](https://werise.tech/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    我们崛起的全部目的在于培养和展示技术方面的女性. 在两天的时间里，《我们崛起》邀请了来自世界各地的妇女和盟友来做出色的工作.
+
+  - [WECode](http://www.wecodeharvard.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+     WECode是“每年2月在哈佛大学举行的由学生主持的最大的计算机科学女性会议.我们的任务是在全球范围内扩展技术女性的技能，网络和社区.我们将女性聚集了两天，以期分享有关技术和创新的想法和对话.” 请于2月27日和2月28日在https://live.cs50.net/wecode上直播.
+
+  - [WITI](http://www.witi.com/)
+
+     WITI是一家全球领先的组织，致力于帮助精通技术的女性实现其职业目标.  WITI为妇女举办活动和峰会.
+
+  - [Women in Tech Summit Series](http://womenintechsummit.net/)
+
+     “科技界女性峰会”是一系列活动，旨在激发，教育和联系科技行业中的女性，从学生到高级管理人员的各个层次. 活动在丹佛，费城，罗利·达勒姆和华盛顿特区举行
+
+  - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    来自各个渠道（管理，销售，营销，技术和运营）的女性领导人齐心协力，互相学习，建立了新的关系.
+
+  - [Women Who Tech](http://womenwhotech.com/)
+
+    Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
+
+  - [Write/Speak/Code](http://www.writespeakcode.com/)
+
+    编写/讲话/编码的使命是使女性软件开发人员有能力成为思想领导者，会议发言人和开源贡献者. 他们在美国各地举行会议和活动.
+
+### Hackerspace/Makerspace
+
+  具有黑客/制造者文化的协作空间，用于设施的制造，学习，探索和共享知识.
+
+
+  - [Maria Lab](https://www.programaria.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    它是一个黑客空间/创客空间，致力于在安全环境中以女性授权的方式进行教学和传播. 玛丽亚实验室（Maria Lab）促进女性的多样性和联合.
+
+  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    这是第一个全女性黑客空间，该空间位于伯克利，其目标是探索文化黑客/制造者，并在动手研讨会上了解企业家精神，设计和DIY工艺. 这些工作坊可能会面向各种性别的妈妈或孩子们.
+  
+### Linux/OpenSource
+
+  在开放源代码组织背后的项目.
+
+  - [Debian Women](https://www.debian.org/women/)
+
+    Debian妇女项目成立于2004年5月.我们通过积极地与感兴趣的妇女接触并鼓励她们更多地参与Debian，以寻求平衡和多样化的Debian项目.
+
+  - [Fedora Women](https://fedoraproject.org/wiki/Women)
+
+    Fedora Women是一个旨在联系和帮助有兴趣使用Fedora并为其做出贡献的女性的项目.
+
+  - [KDE Women](https://community.kde.org/KDE_Women)
+
+     KDE Women是KDE社区中的一群妇女. 我们在这里帮助增加开放源代码中的女性人数，并互相支持.
+
+  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
+
+    这是一个面向女性的Linux社区. 它旨在为女性Linux用户提供技术和社会支持，尽管鼓励男性提供帮助和帮助.
+
+  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
+
+     Ubuntu Women Project成立于2006年，旨在通过指导和启发来促进女性贡献者和社区参与.  Ubuntu Women Team拥有许多项目，我们试图通过这些项目提高Ubuntu各个领域中女性的知名度，我们邀请您提供帮助.
 
 ### Mentorship
 
@@ -458,18 +463,6 @@
 
     这是一个社会企业，使妇女有能力在科技行业留下自己的印记. 我们认为，当妇女在技术发展中享有平等的代表权时，我们会为最需要的人加速创新.
 
-### Hackerspace/Makerspace
-  具有黑客/制造者文化的协作空间，用于设施的制造，学习，探索和共享知识.
-
-
-  - [Maria Lab](https://www.programaria.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    它是一个黑客空间/创客空间，致力于在安全环境中以女性授权的方式进行教学和传播. 玛丽亚实验室（Maria Lab）促进女性的多样性和联合.
-
-  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    这是第一个全女性黑客空间，该空间位于伯克利，其目标是探索文化黑客/制造者，并在动手研讨会上了解企业家精神，设计和DIY工艺. 这些工作坊可能会面向各种性别的妈妈或孩子们.
-
 ## Other Initiatives
 
 ### Awards
@@ -482,27 +475,16 @@
 
      Ada奖是由位于布鲁塞尔的国际NGO数字领导力研究所发起的，其使命是弥合全球的性别差距和数字鸿沟. 该奖项旨在表彰技术领域杰出的女孩和妇女，以及在欧洲，非洲及其他地区支持她们的组织.
 
-### Speakers
-
-  - [CallbackWomen](http://www.callbackwomen.com/)
-
-     CallbackWomen的使命是在专业程序员大会的讲台上从根本上扩大性别多样性. 提案征集（CFP）通过Twitter分享：https：//twitter.com/callbackwomen.
-
-  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
-
-    鉴于在巴西举行的活动中（特别是技术方面）发言的妇女人数仍然很少，因此创建了一个电子表格以使这些妇女具有知名度并鼓励其他人开始活动.
-    Mulheres Palestrantes是一个项目，该项目保留了一系列女性，这些女性通常谈论与编程，设计，企业家精神和技术相关的主题，该项目源于试图以更直观的方式来组织工作表的数据，以方便访问，减少重复并促进研究.
-
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
-    Code it Like a Girl is a digital media collective that creates content intended to inspire people who self-identify as female to follow their dreams. From technology news and how-to’s to remarkable stories of people all around the world, articles on feminism or just whatever we feel like talking-writing-filming about, we’ll be sharing our POV on anything that can be proven empowering, valuable, informative or entertaining to our audience.
+    像女孩一样编码是一个数字媒体团体，其创建的内容旨在激发自我认同为女性的人们追随自己的梦想. 从技术新闻和操作方法，到世界各地非凡的故事，关于女权主义的文章或我们喜欢谈论写作，拍摄电影的任何事物，我们将在任何可以证明被授权，有价值，有益于我们的听众.
 
   - [Global Fund for Women](http://ignite.globalfundforwomen.org/about)
 
      IGNITE讲述了在科学，技术，工程和数学领域处于领先和创新地位的妇女和女孩的故事. 该项目还强调了技术上的性别差距，并倡导妇女和女童增加获得和控制技术的机会.
 
-  - [InspirAda na Computação](https://inspiradanacomputacao.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [InspirAda na Computação](https://inspiradanacomputacao.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     协作博客，旨在在计算，科学和技术领域向女性发出声音. 该博客旨在共享内容，以激发女性对科技领域的兴趣. 它促进了对技术知识的获取，并因此带来了机会均等.
 
@@ -514,7 +496,7 @@
 
     他们的目标是使女孩和妇女有机会接触经验和制造技术，无论他们来自哪个社会阶层，她们的知识来源或任何被视为限制的事物.
 
-  - [PrograMaria](http://www.programaria.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> -*语言：仅PT-BR *
+  - [PrograMaria](http://www.programaria.org/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
      PrograMaria是一项倡议，旨在使更多的女孩和妇女参与技术和编程领域. 内容产生和事件产生于三个支柱：启发，讨论和学习.
 
@@ -562,7 +544,18 @@
 
     技术领域的女性是一个商业组织，致力于帮助具有适当资质和经验的女性寻找信息技术的职业机会.
 
-### Organisation toolkits
+### Speakers
+
+  - [CallbackWomen](http://www.callbackwomen.com/)
+
+     CallbackWomen的使命是在专业程序员大会的讲台上从根本上扩大性别多样性. 提案征集（CFP）通过Twitter分享：https：//twitter.com/callbackwomen.
+
+  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    鉴于在巴西举行的活动中（特别是技术方面）发言的妇女人数仍然很少，因此创建了一个电子表格以使这些妇女具有知名度并鼓励其他人开始活动.
+    Mulheres Palestrantes是一个项目，该项目保留了一系列女性，这些女性通常谈论与编程，设计，企业家精神和技术相关的主题，该项目源于试图以更直观的方式来组织工作表的数据，以方便访问，减少重复并促进研究.
+
+## Organisation toolkits
 
   如果您尝试组织自己的事件，这些资源可能会有所帮助.
 

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Fuzzing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) 绒毛测试是一种自动化的软件测试技术，涉及提供无效，意外或随机数据作为计算机程序的输入. 然后监视程序是否存在异常，例如崩溃，内置代码断言失败或潜在的内存泄漏. 通常，模糊器用于测试采用结构化输入的程序. 
+> [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) 或模糊测试是一种自动化的软件测试技术，涉及提供无效，意外或随机数据作为计算机程序的输入. 然后监视程序是否存在异常，例如崩溃，内置代码断言失败或潜在的内存泄漏. 通常，模糊器用于测试采用结构化输入的程序. 
 
 精选的超赞Fuzzing安全测试参考列表. 此外，还有免费提供的学术论文，工具等的集合.
 
@@ -15,7 +15,7 @@
 ## Books
 - [The Fuzzing Book](https://www.fuzzingbook.org/) (2019)
 - [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - 
-实际上，该文档是一篇论文，但它包含的内容比任何其他书籍都重要和重要.
+实际上，该文档是一篇论文，但它包含的内容比任何其他书籍都更为重要和重要.
 - [Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/) (2018)
 - [Fuzzing: Brute Force Vulnerability Discovery, 1st Edition](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/) (2007)
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
@@ -23,12 +23,12 @@
 
 ## Talks
 - [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8)，黑帽欧洲2016
-- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0)，NYU Talk 2018
+- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0)，NYU Talk 2018年
 - [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo)，NDC会议2018
 
 ## Papers
-为了实现明确的范围，我选择将有关绒毛的出版物纳入最后的4篇论文集.
-从2008年1月到2019年7月举行的主要安全会议等.
+为了达到明确的范围，我选择将有关绒毛的出版物纳入最后的4篇论文集.
+从2008年1月到2019年7月举行的主要安全会议和其他会议.
 它包括（i）网络和分布式系统安全研讨会（NDSS），（ii）IEEE研讨会
 安全和隐私（S＆P），（iii）USENIX安全研讨会（USEC），以及（iv）ACM计算机和通信安全（CCS）会议.
 
@@ -151,11 +151,12 @@
 - [zzuf](https://github.com/samhocevar/zzuf) -透明的应用程序输入模糊器.
 ### Binary
 - [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时工具和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
-- [WinAFL](https://github.com/googleprojectzero/winafl) -AFL的分支，用于模糊Windows二进制文件.
+- [WinAFL](https://github.com/googleprojectzero/winafl) -AFL的一个分支，用于模糊Windows二进制文件.
 - [libFuzzer](http://llvm.org/docs/LibFuzzer.html) -用于覆盖率指导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
-- [Driller](https://github.com/shellphish/driller) -实现 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) . 此实现基于AFL构建，其中angr用作符号跟踪器.
+- [Driller](https://github.com/shellphish/driller) -的实现 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) . 此实现基于AFL构建，其中angr用作符号跟踪器.
 - [shellphish fuzzer](https://github.com/shellphish/fuzzer) -AFL的Python接口，可轻松注入测试用例和其他功能.
-- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) -一种基于二进制的模糊测试工具，该工具通过利用一种称为灰盒conolic测试的新颖技术，改进了基于经典覆盖率的模糊测试.
+- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) -一种基于二进制的模糊测试工具，该工具通过利用一种称为灰匣子conolic测试的新技术，改进了基于经典coverage的模糊测试.
+- [Jazzer](https://github.com/CodeIntelligenceTesting/jazzer)  -Java虚拟机的覆盖率指导的进程内模糊器. 它基于libFuzzer，可以直接应用于已编译的应用程序.
 ### Web, JavaScript
 - [jsfunfuzz](https://github.com/MozillaSecurity/funfuzz) -JavaScript引擎模糊器.
 - [IFuzzer](https://github.com/vspandan/IFuzzer) -使用遗传编程的进化解释器模糊器.
@@ -182,10 +183,11 @@
 - [certfuzz](https://github.com/CERTCC/certfuzz) -它包含CMU CERT基本模糊框架（BFF）和CERT故障观察引擎（FOE）的源代码.
 - [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) -自动化安全测试平台，可通过查找硬件和软件系统中的漏洞来防止零日攻击.
 - [Blackhat USA 2018 AFL workshop training materials](https://github.com/wrauner/afl-fuzzing-training) -来自三星研究院的@wrauner.
+- [CI Fuzz](https://code-intelligence.com) -与CI / CD无关的平台，用于对本机应用程序和Java Web应用程序进行基于反馈的模糊测试.
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/cpuu/awesome-fuzzing/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/cpuu/awesome-fuzzing/blob/master/contributing.md) 第一的.
 
 
 ## License

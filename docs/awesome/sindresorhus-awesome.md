@@ -444,6 +444,7 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
 - [Contexture](https://github.com/ltchris/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB之类的不同后备数据存储中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库处理变得更加容易的一切.
+- [Grakn](https://github.com/graknlabs/awesome#readme) -逻辑数据库将大型和复杂的数据网络组织为一个知识体系.
 
 ## Media
 
@@ -586,6 +587,7 @@
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) -负载测试和性能评估工具.
 - [k6](https://github.com/k6io/awesome-k6#readme) -开源，以开发人员为中心的性能监控和负载测试解决方案.
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) -Node.js库，可通过单个API自动化Chromium，Firefox和WebKit.
+- [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) -如何开始和建立软件测试职业.
 
 ## Miscellaneous
 

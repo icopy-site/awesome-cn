@@ -93,6 +93,7 @@
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) -未来派的格斗游戏.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
 - [Star Stable](https://www.starstable.com/en/register) -流行的马游戏角色注册门户.
+- [Stickman Climb](https://poki.com/en/g/stickman-climb) -基于物理的益智游戏.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) -在魔法岛上的双翼飞机上捡拾宝石.
 - [Town Star](https://gala.games) -由Farmville 2的创意总监制作的在线农业游戏.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) -巫毒娃娃模拟器.

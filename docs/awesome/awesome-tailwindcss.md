@@ -57,7 +57,7 @@
 
 **传奇**：官方插件·主题·实用程序·变体·组件·已弃用
 
--  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) -为美丽的印刷默认设置添加了一个`prose`类.
+-  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) -为漂亮的印刷默认设置添加一个`prose`类.
 -  [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) -添加了可组合的宽高比实用程序.
 -  [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) -提供实用程序，用于在固定数量的行之后以可视方式截断文本.
 -  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) -向表单元素添加更好的默认样式.
@@ -237,6 +237,7 @@
 -  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.
 -  [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 -  [Mamba UI](https://mambaui.com) -免费的Tailwind CSS组件，部分和模板.
+-  [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) -Vue.js和Tailwind CSS的日期范围选择器组件.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的着陆页模板.

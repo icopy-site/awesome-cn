@@ -104,17 +104,17 @@
 ### Set Theory
 
 * [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) -IvoDüntsch，GüntherGediga
-* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) -威廉·艾·韦斯（William AR Weiss）
+* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) -威廉·阿·韦斯
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/) -西尔文·鲍里尔（Sylvain Poirier）
 * [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic
 
-* [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) -Michael Genesereth，Eric Kao（斯坦福大学）
+* [Introduction to Logic](https://pdfs.semanticscholar.org/6967/f52773d9c2ccfc94658657a5761e0f00e95a.pdf) -Michael Genesereth，Eric Kao（斯坦福大学）
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) -PD Magnus（奥尔巴尼大学）
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) -Stefan Bilaniuk（特伦特大学）
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴威斯（Jon Barwise），约翰·埃特肯迪（John Etchemendy）
-* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -赫尔穆特·施威根伯格（Helmut Schwichtenberg）
+* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -赫尔穆特·施维奇滕贝格（Helmut Schwichtenberg）
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺（Miguel Palomino）
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) -爱德华·尼尔森
@@ -160,10 +160,10 @@
 ## Number Theory
 
 * [Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf) -威廉·斯坦
-* [Elementary Number Theory](http://www.iiserpune.ac.in/~ayan/MTH312/%28127%29.pdf) -W. Edwin Clark（南佛罗里达大学）
+* [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) -W. Edwin Clark（南佛罗里达大学）
 * [A Course on Number Theory](http://www.maths.qmul.ac.uk/~pjc/notes/nt.pdf) -彼得·卡梅隆（Peter J.Cameron）
 * [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/ntb-v2.pdf) -维克多·肖普（Victor Shoup）
-* [Number Theory: A Contemporary Introduction](http://math.uga.edu/~pete/4400FULL.pdf) -皮特·克拉克（Pete L.Clark）
+* [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) -皮特·克拉克（Pete L.Clark）
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) -利奥·摩泽（Leo Moser）
 * [Yet Another Introductary Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt/) -乔纳森·波里兹（Jonathan A.Poritz）
 * [Elementary Number Theory](https://napocaro.files.wordpress.com/2015/02/david_m-_burton_elementary_number_theory_sixth_bookfi-org.pdf) -大卫·伯顿（David M.Burton）
@@ -224,7 +224,7 @@
 * [Linear Algebra](http://joshua.smcvt.edu/linalg.html) -吉姆·赫芬（Jim Hefferon）
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) -基思·马修斯（Keith Matthews）
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) -罗伯·布雷泽（Rob Breezer）
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) -David Cherney，Tom Denton，Andrew Waldron
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) -大卫·切尔尼（David Cherney），汤姆·丹顿（Tom Denton），安德鲁·沃尔德隆（Andrew Waldron）
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) -Ray M Bowen，CC Wang
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) -Ray M Bowen，CC Wang
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) -史蒂芬·博伊德（史丹佛大学），利文·范登伯格（UCLA）
@@ -253,7 +253,7 @@
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) -卡尔·瓦格纳（田纳西大学）
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) -Mitchel T. Keller，William T. Trotter
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) -彼得·卡梅隆（Peter J.Cameron）
-* [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) -菲利普·弗拉霍莱特（Philippe Flajolet），罗伯特·塞奇威克（Robert Sedgewick）
+* [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) -Philippe Flajolet，Robert Sedgewick
 * [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) -赫伯特·威尔夫
 
 ### Graph Theory
@@ -337,8 +337,8 @@
 * [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) -劳伦斯·巴格特（Lawrence Baggett）
 * [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) -约翰·埃德曼（John M.Erdman）
-* [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) -威尔弗雷德·卡普兰（Wilfred Kaplan），唐纳德·J·刘易斯（Donald J. Lewis）
-* [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) -威尔弗雷德·卡普兰（Wilfred Kaplan），唐纳德·J·刘易斯（Donald J. Lewis）
+* [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) -威尔弗雷德·卡普兰（Wilfred Kaplan），唐纳德·J·刘易斯（Donald J.Lewis）
+* [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) -威尔弗雷德·卡普兰（Wilfred Kaplan），唐纳德·J·刘易斯（Donald J.Lewis）
 * [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) -亨伯克尔（JH Heinbockel）
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) -马特·鲍尔金斯（Matt Boelkins）
 * [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) -乔治·伯格曼（George M.Bergman）
@@ -359,7 +359,7 @@
 * [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) -John P.D&#39;Angelo（伊利诺伊大学）
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) -Matthias Beck，Gerald Marchesi，Dennis Pixton，Lucas Sabalka
 * [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) -史蒂芬·克兰兹（Steven G.Krantz）
-* [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) -查尔斯·沃克登（Charles Walkden）
+* [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) -查尔斯·沃尔登（Charles Walkden）
 * [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) -克里斯蒂安·伯格
 * [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) -RB Ash，WP Novinger
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) -克里斯特·本纽维茨（Christer Bennewitz）

@@ -6,9 +6,9 @@
 
 [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) 仍然是远古时代最具未来主义意义的数据格式.
 
- XML兴衰.  JSON只是泛滥成灾.  YAML是一个中毒的圣杯.  ** CSV的优势将胜过所有人.**
+ XML兴衰成败.  JSON只是泛滥成灾.  YAML是一个中毒的圣杯.  ** CSV的优势将胜过所有人.**
 
-当最后的蟑螂呼出最后一口气时，她的垂死之举将是在CSV文件中刮擦其去世日期以备后代之用.
+当最后的蟑螂呼吸到最后一口气时，她的垂死之举将是在后代的CSV文件中记录其死亡日期.
 
 
 
@@ -33,7 +33,7 @@
 - [CSVfix](https://code.google.com/p/csvfix/) -用于处理CSV数据的工具.
 - [Tad](https://www.tadviewer.com) -快速免费的跨平台CSV查看器.
 - [Nvd3-tags](http://blog.tryolabs.com/2015/02/27/nvd3-tags-a-tiny-library-for-making-charts-from-csv-data/) -一个用于从csv数据制作图表的小型库.
-- [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) -强大的内置设备，可处理CSV（[example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
+- [Powershell: Import-CSV](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/import-csv) -强大的内置处理CSV的工具（[example](https://gist.github.com/dfinke/786ba9edae1b0265ada10b36a7a11ba9)).
 - [CSV Tools](https://onlinecsvtools.com/) -有用的CSV实用程序的集合.
 - [graph-cli](https://github.com/mcastorina/graph-cli) -灵活的命令行工具，可从CSV数据创建图形.
 - [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) -在线工具，用于从CSV数据创建插入/更新/删除等.
@@ -53,7 +53,7 @@
 
 ## Generate Table Schema
 
-- [CSV Schema](https://csv-schema.surge.sh/) —在浏览器中分析CSV文件并生成数据库表架构
+- [CSV Schema](https://csv-schema.surge.sh/) —分析CSV文件并生成数据库表架构，所有这些都在浏览器中
 -想要：此类别中的更多工具.
 
 
@@ -72,7 +72,7 @@
 ### CSV <-> JSON
 
 - [Agnes](http://www.secretgeek.net/agnes/twoWay.html) -两种方式将Csv转换为Json **.
-- [csv2json](https://www.csvjson.com/csv2json) -在线工具，可将CSV或TSV格式的数据转换为JSON， [vice versa](https://www.csvjson.com/json2csv).
+- [csv2json](https://www.csvjson.com/csv2json) -在线工具，可将CSV或TSV格式的数据转换为JSON和 [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) -简单，隐私友好且离线优先的在线csv至json转换器.
 
 
@@ -83,10 +83,10 @@
 > [David Wengier](https://twitter.com/davidwengier/status/1159606464220000257)
 
 
-- [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/) -马丁·芬纳.
+- [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/) -马丁·芬纳（Martin Fenner）.
 - [In Praise of CSV](https://usopendata.org/2015/03/10/csv) -Waldo Jaquith.
 - [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) -Leon Bambrick ***.
-- [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) -Thomas Burette.
+- [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) -托马斯·伯雷特（Thomas Burette）.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) -杰西·多纳特（Jesse Donat）.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) -罗纳德·邓肯.
 
@@ -97,6 +97,7 @@
 - [Reference data in csv](https://datahub.io/collections/reference-data) -CSV和JSON格式的易于使用的参考数据.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) -以主题为中心的公共领域中高质量开放数据集的列表.
 - [United Nations data](https://data.un.org) -来自联合国的数据
+- [Fake Name Generator](https://www.fakenamegenerator.com/order.php) -批量生成带有其他身份数据的假名以进行测试.
 
 ## Conferences
 
@@ -105,7 +106,7 @@
 
 ## Standards
 
- &gt;关于标准的妙处在于，有太多可供选择的标准.<br />  —（可能）格蕾丝·霍珀（Grace Hopper）.
+ &gt;关于标准的妙处在于，有太多可供选择的标准.<br />  —（可能）格蕾丝·霍珀.
 
 - [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)）-“ *逗号分隔值（CSV）文件的通用格式和MIME类型*”.
   - [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
@@ -135,9 +136,9 @@ See [Code of Conduct](https://github.com/secretGeek/awesomeCSV/blob/master/code-
 
 ## Footnotes
 
- `*`<span id='footnote1' ></span> 我是的作者 [NimbleText](https://NimbleText.com/Live) . 当然，我把它放在第一位. 如果我个人不评价它，我将不会花费太多时间来进行改进.
+ *<span id='footnote1' ></span> 我是的作者 [NimbleText](https://NimbleText.com/Live) . 当然，我把它放在第一位. 如果我不亲自对其进行评分，我将不会花费太多时间进行改进.
 
- `**`<span id='footnote2' ></span> 我写了`agnes`，但并不真正认可它供其他人使用（因此尚未将源代码迁移到GitHub）. 它很慢且没有流媒体. 我会去`papa-parse`. 从好的方面来说，“ agnes”拥有比大多数工具更全面的测试套件和更简单的api.
+ `**`<span id='footnote2' ></span> 我写了`agnes`，但并没有真正认可它供其他人使用（因此尚未将源代码迁移到GitHub）. 它很慢且不流媒体. 我会去`papa-parse`. 从好的方面来说，“ agnes”拥有比大多数工具更全面的测试套件和更简单的api.
 
  ***<span id='footnote3' ></span> 我也是.
 
