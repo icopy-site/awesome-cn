@@ -24,7 +24,6 @@
 
 ### Package managers
 
-- [vpkg](https://github.com/vpkg-project/vpkg) -V的替代软件包管理器.
 - [vpm](https://github.com/yue-best-practices/vpm) -用V编写的V语言包管理工具.
 
 ### Editors

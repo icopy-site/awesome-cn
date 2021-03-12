@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="zhaopuming/awesome-d"></div>
+<div class="github-widget" data-repo="dlang-community/awesome-d"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
@@ -77,14 +77,14 @@
 * [infognition](http://www.infognition.com/company.html)  -Infognition是一家自筹资金且自立的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几种以D编写的开源视频相关的应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
 * [libmir](https://github.com/libmir) -D的数字图书馆开发团队
 * [sociomantic labs](https://www.sociomantic.com)  -总部位于柏林的公司，专门从事在线广告的实时出价. 的主要赞助商 [annual D language conference](http://dconf.org) . 已将其代码库的大部分开源为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
-* [Symmetry Investments](http://symmetryinvestments.com/) -Symmetry Investments LP是一家投资管理公司，截至2018年12月31日，其管理的资产约为47亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/kaleidicassociates/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm), and various other projects.
+* [Symmetry Investments](http://symmetryinvestments.com/) -Symmetry Investments LP是一家投资管理公司，截至2018年12月31日，其管理的资产约为47亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/kaleidicassociates/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
 * [HuntLabs](https://www.huntlabs.net)  -使用DLang的技术小组. 具有纯D语言实现，可以快速开发服务器端应用程序并构建分布式系统服务.
 
 ## Books
 * D相关书籍.*您可以在 [Books](http://wiki.dlang.org/Books) D Wiki页面.
 * [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) -* D编程语言*作者：Andrei Alexandrescu.
 * [Programming in D](http://ddili.org/ders/d.en/index.html)  -AliÇehreli撰写的关于D语言编程的非常详尽的书，涵盖了语言的许多领域. 有一个免费的在线版本，适合初学者. 
-* [D Cookbook](http://www.packtpub.com/application-development/d-cookbook) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+* [D Cookbook](http://www.packtpub.com/application-development/d-cookbook)  -包含大量实用任务的配方参考指南，简要说明了这些任务，以使用D编程语言开发和扩展用户的功能. 亚当·鲁佩（Adam D.Ruppe）着. 这是一个有趣 [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
 * [Learning D](https://www.packtpub.com/application-development/learning-d) -本书适用于具有C族语言背景的人士，他们希望学习如何将其知识和经验应用于D.（...）本书将帮助您快速掌握该语言并避免常见问题.将C族的经验转化为D时出现的陷阱.
 * [D Web Development](https://www.packtpub.com/web-development/d-web-development) -无论您是D世界的新手，还是已经在D中开发应用程序的人，或者如果您想利用D的功能进行Web开发，那么这本书都是您的理想选择.
 
@@ -170,7 +170,7 @@
 *集成开发环境.*
 
 * [Mono-D](https://github.com/aBothe/Mono-D) -适用于的AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) . 有配音支持.
-* [Visual D](https://github.com/dlang/visuald) -D编程语言的Visual Studio扩展.
+* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://ddt-ide.github.io/) -D编程语言的Eclipse插件.
 * [DCD](https://github.com/Hackerpilot/DCD)  -用于D编程语言的独立自动完成程序. 可以与vim，emacs，sublime text，textadept和zeus等编辑器一起使用. 看 [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [Dexed](https://github.com/Akira13641/dexed) -用于D编程语言，其编译器，工具和库的IDE.
@@ -298,7 +298,7 @@
 * [tkD](https://github.com/nomad-software/tkd) -基于Tcl / Tk的D编程语言的GUI工具包.
 * [dqml](https://github.com/filcuc/dqml) -用于D编程语言的Qt Qml绑定.
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) -D绑定 [Sciter](http://sciter.com) -跨平台HTML / CSS / script桌面UI工具包.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) -动态绑定 [libui](https://github.com/andlabs/libui)
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui)
 
 *注意*：您还可以在以下位置找到GUI库列表 [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries)，但现在并不是所有的库都处于积极维护状态.
 

@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="MaximAbramchuck/awesome-interview-questions"></div>
+<div class="github-widget" data-repo="DopplerHQ/awesome-interview-questions"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">	
 	<p>	
@@ -7,8 +7,8 @@
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>秘密管理，面向开发人员</b>	
-			<div>不再为分散的环境变量而烦恼，一起破解自制工具，</div>
+			<b>将所有环境变量集中在一处</b>	
+			<div>不再为分散的API密钥而烦恼，一起破解自制工具，</div>
 			<div>并避免使用访问控制. 使您的团队和服务器与多普勒保持同步.</div>
 			</br>
 		</a>	
@@ -19,9 +19,9 @@
 
 &gt;精选的技术面试问题清单.
 
-[What makes for an awesome list?](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/awesome.md)
+[What makes for an awesome list?](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/awesome.md)
 
-请阅读 [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
+请阅读 [contribution guidelines](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
 
 
 

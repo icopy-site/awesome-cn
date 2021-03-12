@@ -1,10 +1,10 @@
-<div class="github-widget" data-repo="beaorn/awesome-agriculture"></div>
+<div class="github-widget" data-repo="brycejohnston/awesome-agriculture"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Agriculture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;精选的用于农业，农业和园艺业的出色开源技术列表.
+&gt;精选的用于农业，农业和园艺的很棒的开源技术列表.
 
-[Agriculture](https://en.wikipedia.org/wiki/Agriculture) 是种植植物和牲畜以用作食品和材料的科学和艺术.
+[Agriculture](https://en.wikipedia.org/wiki/Agriculture) 是种植用于食物和材料的动植物的科学和艺术.
 
 欢迎捐款！ 请按照 [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md).
 
@@ -19,11 +19,11 @@
 - [agroclimatology](https://github.com/brycejohnston/agroclimatology) -用于与NASA（POWER）农业气候网络资源进行交互的Ruby客户端.
 - [bomrang](https://github.com/ropensci/bomrang) -R.的澳大利亚政府气象局数据
 - [evapotranspiration](https://github.com/brycejohnston/evapotranspiration) -用于计算参考作物蒸散量（ETo）的Ruby库.
-- [frostline](https://github.com/waldoj/frostline) -用于USDA植物抗性区的数据集，API和python解析器.
+- [frostline](https://github.com/waldoj/frostline) -USDA植物抗性区的数据集，API和python解析器.
 - [GSODR](https://github.com/ropensci/GSODR) -R中的全球每日汇总天气数据.
-- [iem](https://github.com/akrherz/iem) -使爱荷华州环境Mesonet运行的代码.
-- [PyETo](https://github.com/woodcrafty/PyETo) -用于计算参考/潜在蒸散量（ETo）的Python包.
-- [pyTSEB](https://github.com/hectornieto/pyTSEB) -使用遥感数据估算蒸散量的python两源能量平衡模型.
+- [iem](https://github.com/akrherz/iem) -使爱荷华环境Mesonet运行的代码.
+- [PyETo](https://github.com/woodcrafty/PyETo) -用于计算参考/潜在蒸散量（ETo）的Python软件包.
+- [pyTSEB](https://github.com/hectornieto/pyTSEB) -python两源能量平衡模型，用于利用遥感数据估算蒸散量.
 - [soilDB](https://github.com/ncss-tech/soilDB) -R库，用于简化对NCSS土壤数据库的访问.
 
 ## Crop Modeling, Phenotyping, and Pathology
@@ -33,15 +33,15 @@
 ## Datasets, Machine Learning and AI
 
 - [agridat](https://github.com/kwstat/agridat) -R包提供了来自农业实验的广泛数据集.
-- [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) -基于遥感数据的深高斯过程，用于作物产量的预测.
-- [CWFID](https://github.com/cwfid/dataset) -数据集，包括田野图像，植被分割蒙版和农作物/杂草植物类型注释.
-- [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) -基于深度学习的分析教程（主要针对生物相关主题）.
+- [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) -基于遥感数据的深高斯过程，用于作物单产的预测.
+- [CWFID](https://github.com/cwfid/dataset) -包括野外图像，植被分割蒙版和农作物/杂草植物类型注释的数据集.
+- [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) -基于深度学习的教程（主要）基于生物学相关主题.
 - [PlantCV](https://github.com/danforthcenter/plantcv) -使用计算机视觉的植物表型分析软件.
 - [TERRA REF](https://terraref.org) -&gt;高粱育种试验中的1PB公共领域高分辨率传感器数据（[data publication](https://doi.org/10.5061/dryad.4b8gtht99) 带有大文件 [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103&origin_path=%2F))
 
 ## Data Standardization, Interoperability and APIs
 
-- [AgGateway’s ADAPT Toolkit](https://adaptframework.org) -开源项目，提供工具来简化种植者，其机器及其合作伙伴之间的通信.
+- [AgGateway’s ADAPT Toolkit](https://adaptframework.org) -开源项目，提供工具来简化种植者，他们的机器及其合作伙伴之间的通信.
 - [agworld_api_client](https://github.com/agworld/agworld_api_client) -符合jsonapi.org定义的规范的示例Agworld API Ruby客户端库.
 - [agx-ruby](https://github.com/brycejohnston/agx-ruby) -Proagrica的agX平台API的Ruby客户端.
 - [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) -包含aWhere的API平台代码示例.
@@ -88,7 +88,7 @@
 - [Farm Hack](https://farmhack.org/tools) -建立和修改我们自己的工具的全球农民社区.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -开源技术生态系统，可实现并促进透明度，网络化实验，教育和超本地化生产.
 - [OpenMinder](https://github.com/autogrow/openminder) -RaspberryPi的开源Rootzone监视，API和开源帽子.
-- [ROS Agriculture](http://rosagriculture.org/) -开源社区，专注于使用机器人操作系统为农民提供机器人工具. 
+- [ROS Agriculture](http://rosagriculture.org/) -开源社区，重点是使用机器人操作系统为农民提供机器人工具. 
 
 ## Knowledgebases and Learning Resources
 
@@ -100,7 +100,7 @@
 - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) -与Copernicus Sentinel Satellites的数据相关的很棒的工具，教程和API的精选列表.
 - [Raster Vision](https://github.com/azavea/raster-vision) -航空/卫星影像的深度学习.
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) -处理用于农业目的的高分辨率卫星图像的软件系统.
-- [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) -参考清单，常见的植被指数在多光谱，高光谱和无人机图像中的应用.
+- [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) -参考清单，用于多光谱，高光谱和UAV图像的常见植被指数的应用.
 
 ## License
 
