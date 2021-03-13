@@ -22,6 +22,19 @@
 		<a href="https://retool.com/?utm_campaign=sindresorhus">
 			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
 		</a>
+		<br>
+		<br>
+		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-node&utm_source=github">
+			<div>
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
+			</div>
+			<b>将所有环境变量集中在一处</b>
+			<div>
+				<sub>不再为分散的API密钥而烦恼，一起破解自制工具，</sub>
+				<br>
+				<sup>并避免使用访问控制.</sup> <sup>使您的团队和服务器与多普勒保持同步.</sup>
+			</div>
+		</a>
 	</p>
 	<br>
 	<br>
@@ -69,7 +82,7 @@
 - [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
-- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC在Web上通过p2p管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
+- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
 - [NodeOS](https://github.com/NodeOS/NodeOS) -由npm支持的第一个操作系统.
 - [YodaOS](https://github.com/yodaos-project/yodaos) -AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) -机器学习框架.
@@ -108,7 +121,7 @@
 - [Live Server](https://github.com/tapio/live-server) -具有livereload功能的开发HTTP服务器.
 - [bcat](https://github.com/kessler/node-bcat) -将命令输出到Web浏览器.
 - [normit](https://github.com/pawurb/normit) -在您的终端中使用语音合成功能进行Google翻译.
-- [fkill](https://github.com/sindresorhus/fkill-cli)  -令人难以置信的杀死进程. 跨平台.
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [pjs](https://github.com/danielstjules/pjs)  -可移植的JavaScript. 从终端快速过滤，映射和缩小.
 - [license-checker](https://github.com/davglass/license-checker) -检查应用程序依赖项的许可证.
 - [browser-run](https://github.com/juliangruber/browser-run) -在浏览器环境中轻松运行代码.
@@ -135,7 +148,7 @@
 - [auto-install](https://github.com/siddharthkp/auto-install) -在编码时自动安装依赖项.
 - [lessmd](https://github.com/linuxenko/lessmd) -在终端中降价.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) -找出哪些依赖性使您减速.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- [localtunnel](https://github.com/localtunnel/localtunnel) -将您的本地主机暴露给世界.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) -通过SVG分享终端会话.
 - [gtop](https://github.com/aksakalli/gtop) -终端的系统监控仪表板.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成主题.
@@ -151,7 +164,7 @@
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，其重点是通过自动计算和相反的参数顺序实现的灵活功能组合. 避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
-- [Mout](https://github.com/mout/mout) -其他现有解决方案之间最大的区别是实用程序库，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) -功能性反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
@@ -289,7 +302,7 @@
 - [LoopBack](https://github.com/strongloop/loopback) -用于创建REST API并轻松连接到后端数据源的强大框架.
 - [Meteor](https://github.com/meteor/meteor)  -超简单，无处不在的数据库，在线数据，纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](https://github.com/restify/node-restify) -使您能够构建正确的REST Web服务.
-- [ThinkJS](https://github.com/thinkjs/thinkjs) -具有ES2015 +支持，WebSockets，REST API的框架.
+- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) -用于为TCP套接字，WebSocket和HTTP客户端制作可重用和可伸缩API的框架.
 - [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
@@ -333,7 +346,7 @@
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) -完全重新设计的文件系统API，方便日常使用.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) -`fs`模块的额外方法.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) -找到npm软件包的根目录.
-- [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+- [filehound](https://github.com/nspragg/filehound) -用于搜索文件系统的灵活流畅的界面.
 - [move-file](https://github.com/sindresorhus/move-file) -移动文件，甚至可以跨设备使用.
 - [tempy](https://github.com/sindresorhus/tempy) -获取随机的临时文件或目录路径.
 
@@ -506,7 +519,7 @@
 - [yazl](https://github.com/thejoshwolfe/yazl) - 压缩.
 - [yauzl](https://github.com/thejoshwolfe/yauzl) -解压缩.
 - [Archiver](https://github.com/archiverjs/node-archiver) -用于生成档案的流接口，支持ZIP和TAR.
-- [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+- [pako](https://github.com/nodeca/pako) -高速zlib端口到纯js（放气，放气，gzip）.
 - [tar-stream](https://github.com/mafintosh/tar-stream)  -流式tar解析器和生成器. 另请参阅 [tar-fs](https://github.com/mafintosh/tar-fs).
 - [decompress](https://github.com/kevva/decompress) -解压模块，开箱即用，支持tar，tar.gz和zip文件.
 
@@ -559,8 +572,8 @@
 - [AVA](https://github.com/avajs/ava) -未来的测试跑步者.
 - [Mocha](https://github.com/mochajs/mocha) -功能丰富的测试框架，使异步测试变得简单而有趣.
 - [nyc](https://github.com/bcoe/nyc) -基于伊斯坦布尔的代码覆盖工具，可与子流程一起使用.
-- [tap](https://github.com/isaacs/node-tap) -TAP测试框架.
-- [tape](https://github.com/substack/tape) - TAP-producing test harness.
+- [tap](https://github.com/isaacs/node-tap) - TAP test framework.
+- [tape](https://github.com/substack/tape) -生产TAP的测试装置.
 - [power-assert](https://github.com/power-assert-js/power-assert) -通过标准的assert接口提供描述性断言消息.
 - [Mochify](https://github.com/mantoni/mochify.js) -TDD与Browserify，Mocha，PhantomJS和WebDriver.
 - [trevor](https://github.com/vdemedes/trevor) -针对多个版本的Node.js运行测试，而无需手动切换版本或推送至Travis CI.
@@ -646,7 +659,7 @@
 
 ### Natural language processing
 
-- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [retext](https://github.com/wooorm/retext) -可扩展的自然语言系统.
 - [franc](https://github.com/wooorm/franc) -检测文字的语言.
 - [leven](https://github.com/sindresorhus/leven) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [natural](https://github.com/NaturalNode/natural) -自然语言设施.
@@ -726,7 +739,7 @@
 - [hasha](https://github.com/sindresorhus/hasha)  -哈希变得简单. 获取缓冲区/字符串/流/文件的哈希.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) -使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) -仅运行一次功能.
-- [mem](https://github.com/sindresorhus/mem) -记忆功能-一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续的函数调用.
+- [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - [import-fresh](https://github.com/sindresorhus/import-fresh) -在绕过缓存的同时导入模块.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) -从字符串/缓冲区/流中剥离UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) -获取系统区域设置.
@@ -736,7 +749,7 @@
 - [file-type](https://github.com/sindresorhus/file-type) -检测缓冲区的文件类型.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) -速率限制器，使节流变得容易.
 - [ow](https://github.com/sindresorhus/ow) -对人类的功能参数验证.
-- [webworker-threads](https://github.com/audreyt/node-webworker-threads) -带有本地线程的轻量级Web Worker API实现.
+- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) -访问系统剪贴板（复制/粘贴）.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) -使从二进制文件发布和安装Node.js C ++插件变得容易.
 - [opencv](https://github.com/peterbraden/node-opencv)  -用于OpenCV的绑定. 事实计算机视觉库.
@@ -765,7 +778,7 @@
 
 ### Tutorials
 
-- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
+- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) -Node.js最佳实践中排名最高的内容的摘要和整理，提供多种语言.
 - [Nodeschool](https://github.com/nodeschool) -通过互动课程学习Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) -Node.js简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) -如何使用流编写Node.js程序.
@@ -839,7 +852,7 @@
 ### Cheatsheets
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
-- [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) -回答有关流的常见问题，包括分页，事件等.
+- [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 - [Strong Node.js](https://github.com/jesusprubio/strong-node) -用于Node.js Web服务的源代码安全性分析的清单.
 
 ### Tools

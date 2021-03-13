@@ -32,6 +32,19 @@
 		<a href="https://retool.com/?utm_campaign=sindresorhus">
 			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="230"/>
 		</a>
+		<br>
+		<br>
+		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-electron&utm_source=github">
+			<div>
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
+			</div>
+			<b>将所有环境变量集中在一处</b>
+			<div>
+				<sub>不再为分散的API密钥而烦恼，一起破解自制工具，</sub>
+				<br>
+				<sup>并避免使用访问控制.</sup> <sup>使您的团队和服务器与多普勒保持同步.</sup>
+			</div>
+		</a>
 	</p>
 </div>
 
@@ -90,7 +103,7 @@
 - [Yoda](https://github.com/whoisandie/yoda) -浏览和下载YouTube视频.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) -用于现场电子音乐表演的MIDI循环器和合成器.
 - [Toby](https://github.com/frankhale/toby) -YouTube播放器.
-- [Kaku](https://github.com/EragonJ/Kaku) - 音乐播放器.
+- [Kaku](https://github.com/EragonJ/Kaku) - Music player.
 - [Markn](https://github.com/minodisk/markn) -Markdown查看器.
 - [Shiba](https://github.com/rhysd/Shiba) -带有棉绒的实时降价预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) -您菜单栏中的YouTube音乐播放器.
@@ -122,26 +135,26 @@
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) -自动保存暂存器.
 - [Hawkpass](https://github.com/kalpetros/hawkpass) -密码生成器.
-- [Gokotta](https://github.com/Zhangdroid/Gokotta) - 音乐播放器.
+- [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
 - [Shake](https://github.com/lumios/shake) -日本地震预警通知者.
 - [Fog](https://github.com/vitorgalvao/fog) -非官方的播客Podcast应用.
 - [Wmail](https://github.com/Thomas101/wmail) -非官方的Gmail和Google收件箱应用.
 - [Boostnote](https://github.com/BoostIO/Boostnote) -针对开发人员的Markdown注释和代码段应用程序.
 - [Before Dawn](https://github.com/muffinista/before-dawn) -屏幕保护程序工具.
-- [Active Collab](https://github.com/nurtext/active-collab-desktop) - Unofficial Active Collab app.
+- [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
 - [Hain](https://github.com/appetizermonster/hain) -Windows启动器.
-- [Catify](https://github.com/MeoBeoI/Catify) -Spotify的实用程序.
+- [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 - [Minira](https://github.com/jenslind/minira) -菜单栏中的JIRA问题.
 - [Ansel](https://github.com/m0g/ansel) -图片管理器.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) -检查CI服务器的构建状态.
 - [Tockler](https://github.com/MayGo/tockler) -跟踪您的时间.
-- [Mattermost](https://github.com/mattermost/desktop) - Mattermost client.
+- [Mattermost](https://github.com/mattermost/desktop) -最重要的客户.
 - [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) -非官方的中型应用程序.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) -图像查看器.
 - [Crypter](https://github.com/HR/Crypter) -安全的加密客户端.
 - [YakYak](https://github.com/yakyak/yakyak) -非官方的Google Hangouts应用.
-- [Museeks](https://github.com/KeitIG/museeks) - 音乐播放器.
+- [Museeks](https://github.com/KeitIG/museeks) - Music player.
 - [VOX](https://github.com/fresk-nc/VOX) -非官方的VOX音乐播放器.
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
 - [Marky](https://github.com/vesparny/marky) -Markdown编辑器.

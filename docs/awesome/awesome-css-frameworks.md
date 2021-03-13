@@ -88,7 +88,7 @@
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
   
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css) -用于语义HTML标记的CSS库，没有类，属性等.  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/),
   [Repo](https://github.com/igoradamenko/awsm.css)
@@ -118,12 +118,6 @@
   [Docs](https://picnicss.com/documentation),
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
-
-- [**Wing**](https://kbrsh.github.io/wing/) -专为极简主义者设计的漂亮CSS框架.  
-  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
-  [Docs](https://kbrsh.github.io/wing/#installation),
-  [Repo](https://github.com/kbrsh/wing)
-  | #Stylus
 
 - [**Chota**](https://jenil.github.io/chota/) -真正的小型CSS框架.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
@@ -245,12 +239,6 @@
   ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
-  | #SCSS
-
-- [**Propeller**](https://propeller.in) -基于Google的Material Design标准和Bootstrap的前端响应框架.  
-  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
-  [Docs](https://propeller.in/get-started/),
-  [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
 
@@ -378,9 +366,11 @@
   [Repo](https://github.com/mobi-css/mobi.css)
   | #CSS
 
-- [**Pills**](http://arkpod.in/pills/) -适用于人类的简单响应式CSS网格.  
-  ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
-  [Repo](https://github.com/rohitkrai03/pills)
+- [**Wing**](https://kbrsh.github.io/wing/) -专为极简主义者设计的漂亮CSS框架.  
+  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Docs](https://kbrsh.github.io/wing/#installation),
+  [Repo](https://github.com/kbrsh/wing)
+  | #Stylus
 
 - [**Cutestrap**](https://www.cutestrap.com) -Sassy，自以为是的CSS框架，是Bootstrap的微小替代方案.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
@@ -392,10 +382,10 @@
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
 
-- [**Kube**](https://imperavi.com/kube/) -专业开发人员和设计师的Web框架.  
-  ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
-  [Docs](https://imperavi.com/kube/docs/),
-  [Repo](https://github.com/imperavi/kube)
+- [**Propeller**](https://propeller.in) -基于Google的Material Design标准和Bootstrap的前端响应框架.  
+  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
+  [Docs](https://propeller.in/get-started/),
+  [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
 - [**Concise CSS**](http://concisecss.com)  -放弃膨胀. 停止绊倒您的课程. 简明扼要.  
@@ -404,17 +394,13 @@
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
 
-- [**Scooter**](http://dropbox.github.io/scooter/) -Dropbox网站的SCSS框架和UI库.  
-  ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
-  [Repo](https://github.com/dropbox/scooter)
-
 - [**Responsive Boilerplate**](http://responsivebp.com) -强大，易于访问，对开发人员友好的框架，用于构建响应式网站.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
   [Docs](http://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
 
-- [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
+- [**Centurion**](https://www.centurionframework.com) -基于Web的框架，用于快速制作原型和构建较大的Web项目.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
   [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
   [Repo](https://github.com/justinhough/Centurion)

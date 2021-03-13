@@ -145,7 +145,7 @@
 * [canjs](https://github.com/canjs/canjs) -可以做JS，更好，更快，更容易.
 * [react](https://facebook.github.io/react/)  -用于构建用户界面的库. 它是声明性的，高效的并且非常灵活. 与虚拟DOM一起使用.
 * [hyperapp](https://github.com/hyperapp/hyperapp) -用于构建前端应用程序的1kb JavaScript库.
-* [preact](https://github.com/developit/preact)  -使用相同的ES6 API的快速3kb React替代方案. 组件和虚拟DOM.
+* [preact](https://github.com/developit/preact)  -具有相同ES6 API的快速3kb React替代方案. 组件和虚拟DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) -使用JavaScript构建真正的本机跨平台iOS和Android应用程序.
 * [react-native](https://github.com/facebook/react-native) -使用React构建本机应用程序的框架.
 * [riot](https://github.com/riot/riot) -类似React的库，但体积很小.
@@ -318,7 +318,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) -强大的CSV库，支持解析CSV文件/字符串以及导出到CSV.
-* [jBinary](https://github.com/jDataView/jBinary) -具有用于描述文件类型和数据结构的声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
+* [jBinary](https://github.com/jDataView/jBinary) -使用声明性语法描述文件类型和数据结构的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -JavaScript PDF生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) -JavaScript中的PDF阅读器.
@@ -647,7 +647,7 @@
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) -快速且功能齐全的自动完成库.
 * [tag-it](https://github.com/aehlke/tag-it) -一个jQuery UI插件，用于处理多标签字段以及标签建议/自动完成功能.
-* [At.js](https://github.com/ichord/At.js) -将GitHub提及提及自动完成功能添加到您的应用程序.
+* [At.js](https://github.com/ichord/At.js) -向您的应用程序添加GitHub，例如提及自动完成功能.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) -用于HTML5占位符属性的JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) -通过CSS3效果使输入字段的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
@@ -663,6 +663,7 @@
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) -完整的拖放事件日历（jQuery插件）.
 * [rome](https://github.com/bevacqua/rome)  -可自定义的日期（和时间）选择器. 无依赖关系的可选用户界面.
 * [datedropper](https://github.com/felicegattuso/datedropper) -datedropper是一个jQuery插件，它提供了一种快速简便的方法来管理输入字段的日期.
+* [Date Range Picker](https://github.com/dangrossman/daterangepicker) -创建一个下拉菜单，用户可以从中选择日期范围.
 
 
 ### Select
@@ -743,7 +744,7 @@
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) -contextMenu管理器.
 * [Slideout](https://github.com/mango/slideout) -用于移动Web应用程序的响应式触摸滑出导航菜单.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) -与touchSwipe库一起使用的滑动式滑动菜单.
-* [mmenu](https://github.com/FrDH/jQuery.mmenu) -适用于应用程序外观的最佳jQuery插件，带有可滑动的子菜单，适用于您的网站和webapp的上下菜单.
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) -适用于应用程序外观的最佳jQuery插件，带有可滑动的子菜单，适用于您的网站和Web应用程序.
 
 
 ## Table/Grid
@@ -799,7 +800,7 @@
 
 ## Video/Audio
 
- * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
+ * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有出色的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
@@ -849,7 +850,7 @@
 * [Anime.js](http://animejs.com) -JavaScript动画引擎http://animejs.com.
 * [Mo.js](http://mojs.io) -Web http://mojs.io的运动图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) -用于创建粒子的轻量级JavaScript库.
-* [tsParticles](https://github.com/matteobruni/tsparticles) -具有错误修复和许多新功能的particles.js的新改进版
+* [tsParticles](https://github.com/matteobruni/tsparticles) -带有错误修复和许多新功能的particles.js的新的和改进的版本
 * [particles-bg](https://github.com/lindelof/particles-bg) -轻巧的Rea​​ct粒子动画背景组件.
 
 ## Image Processing
@@ -871,7 +872,7 @@
 
 ## Generators
 
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的静态站点生成器.
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的静态网站生成器.
 * [Gridsome](https://github.com/gridsome/gridsome) -Vue供电的静态站点生成器.
 
 ## SDK
@@ -891,7 +892,7 @@
 * [BitSet.js](https://github.com/infusion/BitSet.js) -JavaScript位向量实现
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  -警惕！ 一个快乐的小jquery插件，用于在您的网站上隐藏剧透.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) -振动API包装器
-* [list.js](https://github.com/javve/list.js)  -为表格，列表和各种HTML元素增加了搜索，排序，过滤器和灵活性. 构建为不可见并可以在现有HTML上使用.
+* [list.js](https://github.com/javve/list.js)  -为表格，列表和各种HTML元素增加了搜索，排序，过滤器和灵活性. 构建为不可见并可以在现有HTML上运行.
 http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) -MixItUp-筛选和排序插件.
 * [grid](https://github.com/hootsuite/grid) -用于二维，可调整大小和响应式列表的拖放库.
@@ -919,7 +920,7 @@ http://www.listjs.com
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) -易于阅读，快速参考的JS最佳实践，可接受的编码标准和Web上的链接.
 * [JSbooks](https://github.com/revolunet/JSbooks) -免费的JavaScript电子书目录.
 * [Superhero.js](http://superherojs.com) -有关创建，测试和维护大型JavaScript代码库的资源的集合.
-* [SJSJ](https://github.com/HugoGiraudel/SJSJ) -简化的JavaScript行话是一种由社区驱动的尝试，用几个简单的词来解释使当前JavaScript生态系统流行的流行语.
+* [SJSJ](https://github.com/HugoGiraudel/SJSJ) -简化的JavaScript行话是一种由社区驱动的尝试，用几个简单的词来解释流行语的数量，这些流行语使当前的JavaScript生态系统成为可能.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) -有关发布JavaScript开放源代码库的一系列步骤的综合指南.
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) -从各种各样的用户排名在线教程中在线学习Javascript.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) -JavaScript中实用，平衡的FP.

@@ -21,7 +21,21 @@
 		<a href="https://retool.com/?utm_campaign=sindresorhus">
 			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
 		</a>
+		<br>
+		<br>
+		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
+			</div>
+			<b>将所有环境变量集中在一处</b>
+			<div>
+				<sub>不再为分散的API密钥而烦恼，一起破解自制工具，</sub>
+				<br>
+				<sup>并避免使用访问控制.</sup> <sup>使您的团队和服务器与多普勒保持同步.</sup>
+			</div>
+		</a>
 	</p>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -234,7 +248,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) -应用框架.
-- [Redux](https://github.com/brillout/awesome-redux#readme) -JavaScript应用程序的状态容器.
+- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) -模块捆绑器.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) -模块捆绑器.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) -CSS预处理器.
@@ -526,7 +540,7 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
-- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) -建立主要关注社会影响的组织，该组织至少部分是自筹资金.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) -如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) -以开发人员为用户的产品.
 

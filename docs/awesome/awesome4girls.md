@@ -99,7 +99,7 @@
   - [Hexagon UX](https://hexagonux.com/)
 
     Hexagon旨在建立一个支持性社区，以促进妇女的多样性，支持，赋权和指导.
-    首届Hexagon UX活动于2013年10月在Google总部举行，与会者在其中创建了代表自己或进入UX旅程的“故事卡”.
+    The first Hexagon UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
   - [Ladies that UX](http://ladiesthatux.com/)
 
@@ -142,7 +142,7 @@
 
   - [Geek Girls Carrots](http://gocarrots.org) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
-    Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
+     Geek Girls Carrots是一家全球性基层组织，专注于科技领域的女性和女性企业家. 胡萝卜通过增加女性对新技术的参与来改变IT行业的当前状况. 团队内部的多样性有助于促进公司的创新和更好的经济成果.  GGC通过不断的团体支持，相互激励和友好的个人成长环境，创建了一个国际社区.
 
   - [Girls4Tech](https://girls4tech.ebanx.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -150,7 +150,7 @@
 
   - [League of Women Coders](http://lwc.tech/)
 
-    女编码员联盟（以前称为Ladies Who Code，成立于2011年6月）是一个聚会，着重于编码，黑客和协作学习. 该小组每月至少在纽约市和波士顿开会一次. 聚会着重于演讲，技术问题和构想，偶尔还会有女性演讲者参加.
+    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
 
   - [RodAda Hacker](http://rodadahacker.org/)  - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -187,7 +187,7 @@
 
   - [ACM-W](https://women.acm.org/)
 
-    计算机协会的“计算机领域的女性计划”在国际上支持，庆祝和倡导妇女在计算领域的各个方面的全面参与，为ACM成员提供了广泛的计划和服务，并在更广泛的社区中开展工作以促进这一目标.技术女性的贡献.
+    计算机协会的“计算机领域的女性计划”在国际上支持，庆祝和倡导妇女在计算领域的各个方面的全面参与，为ACM成员提供广泛的计划和服务，并在更大的社区中开展工作以促进技术女性的贡献.
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
@@ -235,19 +235,19 @@
 
   - [Girls Teaching Girls to Code](https://www.girlsteachinggirlstocode.org/)
     
-     《女孩教女孩编写代码》是一个计划，该计划将追求计算机科学和工程学学位的妇女与想要学习并将新技能应用于CS相关项目的高中女孩联系起来.  GTC每年都会举办一次沉浸式的代码训练营以及一些较小的活动，例如研讨会和办公室巡回演出. 
+    女孩教学女孩代码是一个计划，旨在将追求计算机科学和工程学位的妇女与想要学习并将新技能应用到CS相关项目的高中女孩联系起来.  GTC每年都会举办一次沉浸式的代码训练营，并举办小型活动，例如研讨会和办公室巡游. 
 
   - [Girls Who Code](http://girlswhocode.com/)
 
-    我们是一家全国性的非营利性组织，致力于缩小技术和工程领域的性别差距.暑假编码女孩计划是为期7周的密集计算机科学课程，在技术公司和大学中设有教室.
+    我们是一家全国性的非营利性组织，致力于缩小技术和工程领域的性别差距.暑假编码女孩计划是为期7周的计算机科学密集课程，将技术公司和大学的课堂嵌入其中.
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
-    哈克布赖特学院（Hackbright Academy）是一家领先的女性软件工程学院，于2012年在旧金山成立.该学院每年毕业的女工程师人数都超过了斯坦福大学和加州大学伯克利分校.
+    哈克布赖特学院（Hackbright Academy）是一所领先的女性软件工程学院，于2012年在旧金山成立.该学院每年毕业的女工程师人数都超过了斯坦福大学和加州大学伯克利分校.
 
   - [Ladies Learning Code](http://ladieslearningcode.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
 
-    我们是一个非营利性组织，其使命是通过动手，社交和协作方式学习技术技能，从而成为妇女和青年成为热情的建设者（不仅仅是消费者）的领先资源.
+    我们是一个非营利性组织，其使命是通过动手，社交和协作方式学习技术技能，成为妇女和青年成为热情的建设者（不仅仅是消费者）的领先资源.
 
   - [Minas Program](http://minasprogramam.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
@@ -275,7 +275,7 @@
 
   - [Women in Tech](http://witchat.github.io/)
 
-    为从事技术工作的女性聊天和互相支持提供了一个安全，保密的空间.
+    一个为从事技术工作的女性聊天和互相支持的女性提供的安全，保密的空间.
 
 ### Communities/Groups
 
@@ -315,15 +315,19 @@
 
   - [San Francisco Women in Tech](https://www.meetup.com/SanFranciscoWomenandDiversityInTech/)
     
-    San Francisco Women in Tech is a Meetup group with over 3200 members for women in San Francisco and Silicon Valley to network and learn about new technologies and opportunities in a context that values diversity in the industry. 
+    旧金山科技女性组织是一个聚会组织，在旧金山和硅谷有3200多名女性会员，可以在重视行业多样性的背景下交流和了解新技术和机会. 
 
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
-    妇女非营利组织（WHFNP）是一个志愿者社区，旨在提高妇女在技术上的技能，支持妇女的发展并提供探索开源的机会. 该小组将技术熟练的女性与开放源代码项目配对，这些项目正在为非营利组织，慈善机构和个人开发，以产生积极的社会影响.
+    妇女非营利组织（WHFNP）是一个志愿者社区，旨在提高女性的技术技能，支持其发展并提供探索开源的机会. 该小组将技术熟练的女性与开放源代码项目配对，这些项目正在为非营利组织，慈善机构和个人开发，以产生积极的社会影响.
 
 ### Conferences/Talks
 
-  带来主题的会议.
+  以演讲，研讨会，网络和其他活动为特色的会议.
+
+  - [ACT-W](https://act-w.org/)
+
+    由ChickTech主办的ACT-W：促进技术Womxn的职业发展是一个充满动感的会议，有才华的womxn和盟友可以建立技能，发展社区并加速其职业发展道路. 会议的所有收益都将用于ChickTech的计划，该计划为当地的高中生womxn提供STEM教育，并传播ChickTech的影响力，为所有人创造包容性文化. 
 
   - [AlterConf](https://alterconf.com/)
 
@@ -347,7 +351,7 @@
 
   - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
 
-    这项年度免费活动是在全球范围内举行的唯一一次面向技术女性的会议，为所有人提供参加和参加的机会，无论是身体上还是虚拟上，都消除了所有参与障碍. 代表们分别或集体出席会议，讨论，合作和庆祝技术女性的贡献.
+    这项年度免费活动是在全球范围内举行的唯一一次面向技术女性的会议，为所有人提供参加和参加的机会，无论是身体上的还是实质上的参加，都消除了所有参与障碍. 代表们分别或集体出席会议，讨论，合作和庆祝技术女性的贡献.
 
   - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
 
@@ -380,7 +384,7 @@
 
   - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    妇女会议的任务是促进，交流和扩大妇女在工作场所及其他地方的影响. 在一年一度的无党派，非营利性会议上，它聚集了成千上万活跃的专业人员，以在社区中建立联系，更新和寻找灵感.
+    妇女会议的任务是促进，交流和扩大妇女在工作场所及其他地方的影响. 在一年一度的无党派，非营利性会议上，它聚集了成千上万活跃的专业人士，以在社区中建立联系，更新和寻找灵感.
 
   - [We RISE](https://werise.tech/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -388,7 +392,7 @@
 
   - [WECode](http://www.wecodeharvard.com/) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-     WECode是“每年2月在哈佛大学举行的由学生主持的最大的计算机科学女性会议.我们的任务是在全球范围内扩展技术女性的技能，网络和社区.我们将女性聚集了两天，以期分享有关技术和创新的想法和对话.” 请于2月27日和2月28日在https://live.cs50.net/wecode上直播.
+     WECode是“每年2月在哈佛大学举行的由学生主持的最大的计算机科学女性会议.我们的任务是在全球范围内扩展技术女性的技能，网络和社区.我们在两天的时间里将女性聚集在一起分享有关技术和创新的想法和对话.” 请于2月27日和2月28日在https://live.cs50.net/wecode上直播.
 
   - [WITI](http://www.witi.com/)
 
@@ -473,7 +477,7 @@
 
   - [The Ada Awards](http://adaawards.com/)
 
-     Ada奖是由位于布鲁塞尔的国际NGO数字领导力研究所发起的，其使命是弥合全球的性别差距和数字鸿沟. 该奖项旨在表彰技术领域杰出的女孩和妇女，以及在欧洲，非洲及其他地区支持她们的组织.
+     Ada奖是由位于布鲁塞尔的国际NGO数字领导力研究所发起的，其使命是弥合全球性别差距和数字鸿沟. 该奖项旨在表彰技术领域杰出的女孩和妇女，以及在欧洲，非洲及其他地区支持她们的组织.
 
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - * 地点： * <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
