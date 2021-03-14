@@ -8,6 +8,7 @@
 <p align="center">
     <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
+    <a href="https://liberapay.com/liberapay/donate"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="Donate"/></a>
 </p>
 
 精选的游戏开发资源清单，以使“神奇”发生.
@@ -99,7 +100,7 @@ Graphics
 * ：钱袋子： [Spine](http://esotericsoftware.com/) -Spine致力于2D动画，可提供高效的工作流程，以创建出色的动画并将其集成到您的游戏中.
 * ：钱袋子： [Spriter](http://www.brashmonkey.com/spriter.htm) -用于精灵动画的现代工具.
 *： 然后： [DragonBones](http://dragonbones.com) -Flash的开源2D骨架动画解决方案
-* ：钱袋子： [Mixamo](https://www.mixamo.com/#/) -3D人形模型的自动自动装配和动画制作工具，
+* ：钱袋子： [Mixamo](https://www.mixamo.com/#/) -3D人形模型的自动装配和动画制作工具，
 
 #### Vector/Image Editor
 
@@ -185,7 +186,7 @@ Code
 *： 然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 *： 然后： [Chipmunk2D](https://chipmunk-physics.net/) -快速，轻量的2D游戏物理库.
 *： 然后： [Cinder](https://libcinder.org/) -Cinder是社区开发的免费开放源代码库，用于使用C ++进行专业质量的创意编码.
-* ：自由： [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) -Cocos Creator，一个支持Cocos2d-js的免费跨平台游戏开发编辑器，可帮助开发人员构建2D和3D游戏场景，快速高效地编辑游戏UI和其他游戏资源.
+* ：自由： [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) -Cocos Creator是支持Cocos2d-js的免费跨平台游戏开发编辑器，可帮助开发人员构建2D和3D游戏场景，快速高效地编辑游戏UI和其他游戏资源.
 *： 然后： [Cocos2D](https://github.com/los-cocos/cocos) -用于游戏和多媒体的图形库，用于python语言
 *： 然后： [Cocos2d-x](http://cocos2d-x.org/)  -C ++ OpenGL 2D和3D游戏引擎. 使用C ++，但具有JS和Lua绑定. 定位到所有主要的移动平台和操作系统. 其他工具CocoStudio和Cocos Code IDE.
 *：money_with_wings： [Construct 2](https://www.scirra.com/)  -HTML5游戏制造商，这意味着您实际上并不是在编写JavaScript. 取而代之的是，您使用动作，事件和条件来完成繁重的工作.
@@ -244,7 +245,7 @@ Code
 *： 然后： [LimeJS](http://www.limejs.com/) -HTML5游戏框架，可为所有现代触摸屏和
 *： 然后： [LITIengine](http://litiengine.com/)  -2D Java游戏引擎. 它提供了使用纯Java创建基于图块的2D游戏的所有基础结构
 *： 然后： [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
-* ：自由： [LuaStudio](http://scormpool.com/luastudio) -用于使用Lua / LuaJIT，兼容的iOS，Android，Mac和Windows设备制作2D / 3D游戏的跨平台框架/开发工具.
+* ：自由： [LuaStudio](http://scormpool.com/luastudio) -跨平台框架/开发工具，可使用Lua / LuaJIT，兼容的iOS，Android，Mac和Windows设备制作2D / 3D游戏.
 * ：自由： [Lumberyard](https://aws.amazon.com/pt/lumberyard/) -Amazon Lumberyard是深度集成的免费AAA游戏引擎
 *： 然后： [LumixEngine](https://github.com/nem0/LumixEngine) -基于C ++构建的3D游戏引擎.
 *： 然后： [Lums](https://github.com/lums-proj/Lums)  -用C ++ 11编写的2D / 3D框架. 非常高效和现代. 仍在大力发展中.
@@ -303,7 +304,7 @@ Code
 *： 然后： [Urho3D](http://urho3d.github.io/) -跨平台渲染和游戏引擎.
 *： 然后： [ursina](https://www.ursinaengine.org/) -由python和panda3d驱动的游戏引擎.
 *： 然后： [Vassal](http://www.vassalengine.org/)  -Vassal是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编. 在Internet上或通过电子邮件实时播放.  Vassal在所有平台上运行，并且是免费的开源软件.
-*： 然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，这些项目使在浏览器中创建Minecraft之类的3D voxel游戏比以往更加容易.
+*： 然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，可让您比以往更轻松地在浏览器中创建3D体素游戏（如Minecraft）.
 *： 然后： [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 *： 然后： [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) -RPG Maker风格游戏的开源编辑器
 *： 然后： [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) -用于构建应用和游戏的3D Javacript框架
@@ -335,7 +336,7 @@ Audio
 * ：自由： [Audiosauna](http://www.audiosauna.com/) -使用内置的合成器和现场效果，将您的Web浏览器转变为快速灵活的音乐制作工作室.
 * ：自由： [Audiotool](http://www.audiotool.com/app) -在线音乐制作人.
 * ：自由： [Bfxr](http://www.bfxr.net/) -为电脑游戏制作音效的工具.
-* ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -特里·卡瓦纳（Terry Cavanagh）制作的在线（以及台式机）音乐制作人. 简单，直观，具有鲜明的复古声音.
+* ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -特里·卡瓦纳（Terry Cavanagh）制作的在线（以及桌面）音乐制作人. 简单，直观，具有鲜明的复古声音.
 * ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线声音效果生成器
 * ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows跟踪器，用于为NES / Famicom系统制作音乐.
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.

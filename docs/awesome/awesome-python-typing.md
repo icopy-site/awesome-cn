@@ -29,7 +29,7 @@
 
 ## Stub packages
 
-- [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+- [Typeshed](https://github.com/python/typeshed) -具有静态类型的Python库存根的集合.
 - [django-stubs](https://github.com/typeddjango/django-stubs) -存根 [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) -存根 [DRF](https://github.com/encode/django-rest-framework).
 <!--lint disable double-link-->
@@ -58,14 +58,16 @@
 
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最自以为是的python linter.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) -用于集成mypy的flake8插件.
-- [flake8-pyi](https://github.com/ambv/flake8-pyi) -Flake8插件，提供类型提示存根文件的专业化功能.
+- [flake8-pyi](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
 - [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) -flake8插件，用于验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) -flake8插件，用于检查函数定义中是否存在类型注释.
+- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) -用于检查输入导入是否受到适当保护的插件.
+- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) -flake8插件，可帮助确定将哪些导入放入类型检查块中，以及一旦导入被移动后如何调整类型注释.
 
 ### Testing
 
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) -Pytest的Mypy静态类型检查器插件.
-- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) -Pytest插件，用于测试mypy类型，存根和插件。
+- [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) -Pytest插件，用于测试mypy类型，存根和插件.
 - [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) -Pytest插件来测试mypy静态类型分析.
 
 ### Working with types

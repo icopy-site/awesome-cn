@@ -21,6 +21,7 @@
 * [Brilliant](https://brilliant.org/courses/#math-foundational)
 * [WooTube](https://misterwootube.com/)
 * [Mathigon](https://mathigon.org/)
+* [Calculus.org](http://calculus.org/)
 
 ## Learn to Learn
 
@@ -118,7 +119,7 @@
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺（Miguel Palomino）
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) -爱德华·尼尔森
-* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) -乔伊·莫里斯（Joy Morris），戴夫·莫里斯（Dave Morris）
+* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) -乔·莫里斯（Joy Morris），戴夫·莫里斯（Dave Morris）
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) -特德·桑德斯特伦（Ted Sundstrom）
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -杰里米·阿维格德（Jeremy Avigad），罗伯特·刘易斯（Robert Y.Lewis）和弗洛里斯·范·多恩（Floris van Doorn）
 * [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
@@ -224,7 +225,7 @@
 * [Linear Algebra](http://joshua.smcvt.edu/linalg.html) -吉姆·赫芬（Jim Hefferon）
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) -基思·马修斯（Keith Matthews）
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) -罗伯·布雷泽（Rob Breezer）
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) -大卫·切尔尼（David Cherney），汤姆·丹顿（Tom Denton），安德鲁·沃尔德隆（Andrew Waldron）
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) -David Cherney，Tom Denton，Andrew Waldron
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) -Ray M Bowen，CC Wang
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) -Ray M Bowen，CC Wang
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) -史蒂芬·博伊德（史丹佛大学），利文·范登伯格（UCLA）
@@ -253,7 +254,7 @@
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) -卡尔·瓦格纳（田纳西大学）
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) -Mitchel T. Keller，William T. Trotter
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) -彼得·卡梅隆（Peter J.Cameron）
-* [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) -Philippe Flajolet，Robert Sedgewick
+* [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) -菲利普·弗拉霍莱特（Philippe Flajolet），罗伯特·塞奇威克（Robert Sedgewick）
 * [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) -赫伯特·威尔夫
 
 ### Graph Theory
@@ -359,7 +360,7 @@
 * [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) -John P.D&#39;Angelo（伊利诺伊大学）
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) -Matthias Beck，Gerald Marchesi，Dennis Pixton，Lucas Sabalka
 * [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) -史蒂芬·克兰兹（Steven G.Krantz）
-* [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) -查尔斯·沃尔登（Charles Walkden）
+* [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) -查尔斯·沃克登（Charles Walkden）
 * [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) -克里斯蒂安·伯格
 * [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) -RB Ash，WP Novinger
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) -克里斯特·本纽维茨（Christer Bennewitz）

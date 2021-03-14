@@ -10,7 +10,7 @@
 
 他们为什么很棒？
 
-1.他们要么不受财政审查的影响，要么不实行财政审查.
+1.他们要么不受金融审查的影响，要么不实行金融审查.
 2.他们通过本地比特币地址接受比特币，不需要钱包使用 [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 3.他们不 [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
@@ -18,7 +18,7 @@
 
 ## Self-Hosted Bitcoin Payment Processors
 
-自托管支付处理器在您的服务器上运行，可为您提供对整个支付流程和资金的完全控制. 没有第三方的参与-极大地提高了您和您的客户的防审查性，隐私性和安全性. 
+自托管支付处理器在您的服务器上运行，可为您提供对整个支付流程和资金的完全控制. 没有第三方的参与-极大地提高了您和您的客户的审查审查抵抗力，隐私和安全性. 
 
  | 处理器| 费用| 闪电| 直接到您的钱包| 转换为菲亚特| 要求|
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
@@ -27,6 +27,7 @@
 | [CryptoWoo](https://www.cryptowoo.com/)  | 每年$ 34-$ 99 | 没有是的没有 PHP 5.6 +，Wordpress 4.3 +，WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com)  | 没有费用| 是的是的没有 1 GB RAM，10 GB存储，Docker |
 | [LnMe](https://github.com/bumi/lnme)  | 没有费用| 是的是的没有 LND节点|
+| [BTCPyment](https://github.com/nickfarrow/BTCPyment)  | 没有费用| 是的是的没有 Python和比特币节点. 闪电节点和Woocommerce可选|
 
 ## Hosted Bitcoin Payment Processors
 
@@ -42,17 +43,17 @@
 
 ### Custodial
 
- ⚠以下处理者使用他们自己的钱包来接收付款. 他们不仅收集有关付款的数据，而且对资金拥有完全控制权.
+ ⚠以下处理者使用他们自己的钱包来接收付款. 他们不仅收集有关付款的数据，而且对资金有完全控制权.
 
  | 处理器| 费用| 闪电| 直接到您的钱包| 转换为菲亚特| 要求|
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Confirmo](https://confirmo.net/)  |  0.8％| 没有没有是的有关企业/网站的信息. 可能需要某些文件.  |
 | [CoinGate](https://coingate.com/accept-bitcoin)  |  1％（商家）+一些 [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee)  （客户）| 是的没有是的需要 [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq) ，正式翻译成英文.  |
-| [CoinPayments](https://www.coinpayments.net/)  |  0.5％| 是的没有没有提款可能需要多种形式的身份证明，并且需要结清任何未偿金额.  |
+| [CoinPayments](https://www.coinpayments.net/)  |  0.5％| 是的没有没有提款可能需要多种形式的身份证明，并且需要结清任何未偿还的款项.  |
 | [GloBee](https://globee.com/)  |  1％（最低发票$ 10）| 是的没有通过 [Luno](https://www.luno.com) 和 [Uphold](https://uphold.com/)  | 有关企业/网站的信息. 可能需要某些文件.  |
 | [OpenNode](https://www.opennode.co/)  |  1％| 是的没有是的需要 [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
 | [Strike](https://strike.acinq.co/)  |  1％| 仅| 没有没有对于公司，是公司名称和实际地址.  |
-| [Coinremitter](https://coinremitter.com/)  |  0.23％+ 0.0001 | 没有没有没有没有
+| [Coinremitter](https://coinremitter.com/)  |  0.23％+ 0.0001 | 不不不不
 | [Utrust](https://utrust.com/)  |  1％| 没有没有是的需要某些文件.  |
 | [NOWPayments](https://nowpayments.io/)  |  ≤0.5％| 没有没有没有 KYC / AML程序适用于某些客户，钱包地址和选定资产.  |
 
@@ -69,4 +70,4 @@
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-[[Donate](https://mynode.alexkaul.com/gh-donate)] 谢谢您的支持！ 
+[[Donate](https://mynode.alexkaul.com/gh-donate)] 感谢您的支持！ 

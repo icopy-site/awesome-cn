@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/denolib/awesome-deno/master/deno-logo.png" align="right" width="100">](https://deno.land)
 
-Deno是使用V8且内置于Rust的JavaScript和TypeScript的简单，现代且安全的运行时.
+Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且安全的运行时.
 
 此列表是最好的Deno模块和资源的集合.
 
@@ -54,7 +54,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [camelcase](https://github.com/denolib/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
 - [coffee](https://github.com/irandeno/coffee) -Deno配置-一种类型安全，易于使用的Deno配置管理器.
 - [colors](https://deno.land/std/fmt/colors.ts) -用于Deno的基本控制台颜色库.
-- [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+- [computed_types](https://github.com/neuledge/computed-types) -Joi喜欢Typescript和Deno的验证器.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) -在执行长任务时，在终端中显示微调框.
 - [cliffy](https://github.com/c4spar/deno-cliffy) -用于构建交互式命令行工具的完整解决方案.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) -一个简单的CSV解析器.
@@ -107,8 +107,9 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [evt](https://github.com/garronej/evt) -输入EventEmitter的安全替代品.
 - [expect](https://github.com/allain/expect) -编写笑话的助手，如deno中的期望测试.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) -基于极简主义的Deno命令行参数解析器.
+- [forwarded](https://github.com/deno-libs/forwarded) -“转发的”图书馆的Deno端口.
 - [fossil](https://github.com/matteocrippa/fossil) -值类型验证套件.
-- [gardens](https://github.com/partheseas/gardens) -到处都是JavaScript的有用的日志记录实用程序.
+- [gardens](https://github.com/partheseas/gardens) -到处都是JavaScript的有用日志记录实用程序.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) -读取或写入yaml内插env变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) -轻松创建验证.
 - [gentleRpc](https://github.com/timonson/gentleRpc) -用于Deno和浏览器的JSON-RPC 2.0 TypeScript库.
@@ -117,7 +118,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [lazy](https://github.com/luvies/lazy) -类似于linq的惰性求值迭代模块.
 - [log](https://github.com/denoland/deno_std/tree/master/log) -用于Deno的日志记录模块.
 - [marked](https://github.com/denolib/marked/) -Markdown到HTML转换器.
-- [maze_generator](https://github.com/thewizardbear/maze_generator) -用于生成，求解，分析和显示迷宫的Javascript模块.
+- [maze_generator](https://github.com/mjrlowe/maze_generator) -用于生成，求解，分析和显示迷宫的Javascript模块.
 - [merlin](https://github.com/crewdevio/merlin) -deno️的测试和基准测试框架
 - [microraptor](https://github.com/matteocrippa/microraptor) -轻量级框架，可通过验证轻松进行网络路由.
 - [ms](https://github.com/denolib/ms) -轻松地将各种时间格式转换为毫秒.
@@ -146,6 +147,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [status](https://github.com/denosaurs/status) -用于Deno的HTTP代码和状态实用程序.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) -由超级代理驱动的库，用于测试Deno HTTP服务器.
 - [superoak](https://github.com/asos-craigmorten/superoak) -通过SuperDeno简化了Oak的HTTP断言.
+-[terminal_images）（https://github.com/mjrlowe/terminal_images）-一个Deno模块和CLI工具，用于在终端中显示图像. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) -Time.ts-简便的Deno时区操作
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) -普罗米修斯客户.
@@ -176,7 +178,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 - [commands](https://github.com/buttercubz/commands) -为节点js和deno创建命令快捷方式
 - [clone](https://github.com/ekaragodin/clone) -用于方便克隆的简单实用程序.
-- [decense](https://github.com/vinliao/decense) -使用一个“ deno run”命令生成许可证.
+- [decense](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 - [dedep](https://github.com/egoist/dedep) -管理依赖版本.
 - [denoget](https://github.com/syumai/denoget) -Denoget安装可执行的Deno脚本.
 - [denoify](https://github.com/garronej/denoify) -对于希望支持Deno但又不想编写和维护端口的NPM模块作者.
@@ -207,7 +209,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [starter](https://github.com/denorg/starter) -带有GitHub Actions CI的Deno模块入门模板
 - [task-runner](https://github.com/jinjor/deno-task-runner) -像npm脚本一样编写任务.
-- [trex](https://github.com/crewdevio/Trex) -像npm一样的deno软件包管理.
+- [trex](https://github.com/crewdevio/Trex) -像npm的deno一样的软件包管理.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) -Deno语言服务插件，在编辑器内的TypeScript文件中提供智能感知.
 - [udd](https://github.com/hayd/deno-udd) -更新Deno依赖项：将导入语句更新为最新发布的版本.
 - [velociraptor](https://github.com/umbopepato/velociraptor) -Deno的npm风格脚本执行器.
@@ -238,6 +240,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Creating a Web Application using Deno](https://www.loginradius.com/engineering/blog/a-webapp-in-deno/)
 - [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
+- [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 
 ## Presentations
 

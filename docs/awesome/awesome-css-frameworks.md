@@ -88,7 +88,7 @@
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
   
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) -用于语义HTML标记的CSS库，没有类，属性等.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/),
   [Repo](https://github.com/igoradamenko/awsm.css)
@@ -173,7 +173,7 @@
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
 
-- [**Fomantic-UI**](https://fomantic-ui.com/) -简洁的HTML，直观的javascript和简化的调试功能，可快速构建精美的网站.  
+- [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.  
   ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/fomantic/fomantic-ui/)
@@ -321,23 +321,6 @@
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
-
-- [**Material Design Lite**](https://getmdl.io) -HTML / CSS / JS中的Material Design组件.  
-  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
-  [Demo](https://getmdl.io/showcase/index.html),
-  [Docs](https://getmdl.io/started/index.html),
-  [Repo](https://github.com/google/material-design-lite)
-
-- [**Skeleton**](http://getskeleton.com) -简单，响应式样板.  
-  ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
-  [Demo](http://getskeleton.com/#examples),
-  [Docs](http://getskeleton.com/#grid),
-  [Repo](https://github.com/dhg/Skeleton/)
-
-- [**Compass**](http://compass-style.org) -开源CSS创作框架.  
-  ![](https://img.shields.io/github/stars/Compass/compass.svg?style=social&label=Star)
-  [Docs](http://compass-style.org/help/),
-  [Repo](https://github.com/Compass/compass)
 
 - [**Flexbox Grid**](http://flexboxgrid.com) -基于CSS3 flexbox的网格.  
   ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
