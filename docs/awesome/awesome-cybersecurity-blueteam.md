@@ -118,7 +118,7 @@
 
 也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
-- [CanaryTokens](https://github.com/thinkst/canarytokens)  -自托管的honeytoken生成器和报告仪表板； 演示版本可从以下网站获得 [CanaryTokens.org](https://canarytokens.org/).
+- [CanaryTokens](https://github.com/thinkst/canarytokens)  -自托管的honeytoken生成器和报告仪表板； 演示版本可在 [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) -可持续的多合一蜜罐和honeytoken编排器，用于资源贫乏的蓝色团队.
 
 ### Tarpits
@@ -242,7 +242,7 @@
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理的SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
 
 ### Service and performance monitoring
 
@@ -265,7 +265,7 @@
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
 - [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由资产上安装的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
-- [MozDef](https://github.com/mozilla/MozDef) -使安全事件处理过程自动化，并促进事件处理程序的实时活动.
+- [MozDef](https://github.com/mozilla/MozDef) -自动执行安全事件处理流程，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
@@ -292,6 +292,7 @@
 
 ### Threat signature packages and collections
 
+- [ESET's Malware IoCs](https://github.com/eset/malware-ioc) -由ESET的各种调查得出的危害指标（IOC）.
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) -收集Snort和YARA规则以检测使用FireEye自己的Red Team工具进行的攻击，该方法在FireEye于2020年12月披露漏洞后首次发布.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) -收集各种语言的IoC，以检测后门的SolarWinds Orion NMS活动和相关漏洞.
 - [YARA Rules](https://github.com/Yara-Rules/rules) -满足IT安全研究人员需要具有一个存储库的项目，在该存储库中，将对不同的Yara签名进行编译，分类和保持最新.

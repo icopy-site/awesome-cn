@@ -109,14 +109,14 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [habitus](https://github.com/cloud66-oss/habitus) -Docker的构建流程工具，作者： [@cloud66](https://github.com/cloud66)
 - [kompose](https://github.com/kubernetes/kompose) -从Docker Compose转到Kubernetes
 - [Maestro](https://github.com/toscanini/maestro) ：skull：-Maestro提供了轻松启动，编排和管理多个Docker容器（作为单个单元）的功能， [@tascanini](https://github.com/toscanini)
-- [percheron](https://github.com/ashmckenzie/percheron) ：skull：-通过强大的组织能力和智能来组织您的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
-- [podman-compose](https://github.com/containers/podman-compose) -[@containers] [containers]使用podman运行docker-compose.yml的脚本
+- [percheron](https://github.com/ashmckenzie/percheron) ：skull：-通过强大的才智来组织您的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
 - [plash](https://github.com/ihucos/plash) -容器运行和构建引擎-在docker内部运行.
+- [podman-compose](https://github.com/containers/podman-compose) -[@containers] [containers]使用podman运行docker-compose.yml的脚本
 - [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull：-具有幂等特性的Docker组合工具，用于部署由多个容器组成的应用程序. 经过[@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly).
 - [rocker](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker)  ：skull：-扩展的Dockerfile构建器支持多个FROM，MOUNTS，模板等 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly).
-- [Stacker](https://github.com/stacker/stacker-cli)  -Docker撰写模板.  Stacker在Docker Compose之上提供了一个抽象层，并提供了更好的DX（开发人员体验）.
-- [Stitchocker](https://github.com/alexaandrov/stitchocker)  -轻巧，快捷的命令行实用程序，可方便地将docker-compose多个容器服务分组. 经过 [@alexaandrov](https://github.com/alexaandrov)
 - [Smalte](https://github.com/roquie/smalte)  –在Docker容器中动态配置需要静态配置的应用程序. 经过 [@roquie](https://github.com/roquie)
+- [Stacker](https://github.com/stacker/stacker-cli)  -Docker撰写模板.  Stacker在Docker Compose之上提供了一个抽象层，并提供了更好的DX（开发人员体验）.
+- [Stitchocker](https://github.com/alexaandrov/stitchocker)  -轻巧，快速的命令行实用程序，可方便地将docker-compose多个容器服务分组. 经过 [@alexaandrov](https://github.com/alexaandrov)
 - [Zodiac](https://github.com/CenturyLinkLabs/zodiac)  ：skull：-一个轻量级的工具，可轻松部署和回滚dockerized应用程序. 由[@CenturyLinkLabs] [centurylinklabs]
 
 ### Deployment and Infrastructure
@@ -140,11 +140,11 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Autoheal](https://github.com/willfarrell/docker-autoheal) -自动监视并重新启动不健康的Docker容器.
 - [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将来自Docker引擎的性能计数器，配置更改和生命周期事件流式传输到Axibase时间序列数据库中，以汇总仪表盘并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征. 由[@Google] [google]创建
-- [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) -根据Docker容器资源的使用情况/统计信息监视和发送警报
 - [Docker-Flow-Monitor](https://github.com/docker-flow/docker-flow-monitor) -当[@ docker-flow] [docker-flow]自动更新或部署新服务时，重新配置Prometheus
 - [Dockerana](https://github.com/dockerana/dockerana) ：skull：-Graphite和Grafana的打包版本，专门针对Docker的指标.
 - [DockProc](https://gitlab.com/n0r1sk/dockproc) -在过程级别监视容器的I / O.
+- [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Dozzle](https://github.com/amir20/dozzle) -通过浏览器或移动设备实时监视容器日志. [@amir20](https://github.com/amir20)
 - [Dynatrace](https://www.dynatrace.com/technologies/docker-monitoring/) ：heavy_dollar_sign：-监视容器化的应用程序，而无需安装代理或修改运行命令
 - [Glances](https://github.com/nicolargo/glances) -由Python用以下语言编写的跨平台基于curses的系统监视工具 [@nicolargo](https://github.com/nicolargo)
@@ -154,7 +154,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
 - [NexClipper](https://github.com/NexClipper/NexClipper) -NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere和Kubernetes的容器监视和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
-- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地监控Docker主机和容器，进行日志记录和警报. 设置5分钟. 内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
+- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地进行Docker主机和容器监视，日志记录和警报. 设置5分钟. 内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) -监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  -Zabbix模块，提供发现运行中的容器，CPU /内存/ blk IO /网络容器指标的信息. 还支持系统化Docker和LXC执行驱动程序. 它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（〜10倍）.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) -使用zabbix LLD功能自动监视容器.
@@ -171,7 +171,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Orchestration
 
 - [athena](https://github.com/athena-oss/athena) -具有插件架构的自动化平台，可让您轻松创建和共享服务.
-- [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，在多个主机之间复制容器等 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
+- [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，在多个主机之间复制容器，以及通过以下操作 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
 - [CloudSlang](https://github.com/CloudSlang/cloud-slang) -CloudSlang是用于创建Docker流程自动化的工作流引擎
 - [clusterdock](https://github.com/clusterdock/clusterdock) -Docker容器编排，以测试长期运行的集群部署
 - [ContainerShip](https://github.com/containership/containership) ：skull：-一个简单的容器管理平台
@@ -188,7 +188,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Mesos](https://github.com/apache/mesos) -用于容器，VM和物理主机的资源/作业调度程序 [@apache](https://mesos.apache.org/)
 - [Nebula](https://github.com/nebula-orchestrator) -旨在管理大规模分布式集群的Docker编排工具.
 - [Nomad](https://github.com/hashicorp/nomad)  -轻松部署任何规模的应用程序. 分布式的，高度可用的，支持数据中心的调度程序，作者： [@hashicorp](https://github.com/hashicorp)
-- [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) ：skull：-一个开源项目，使[@CenturyLinkLabs] [centurylinklabs]的拖放操作像部署拖放一样简单.
+- [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) ：skull：-一个开源项目，使部署复杂的容器化应用程序像[@CenturyLinkLabs] [centurylinklabs]的拖放操作一样容易.
 - [Rancher](https://github.com/rancher/rancher) -一个开源项目，为[@rancher] [rancher]在生产中操作Docker提供了完整的平台.
 - [Swarm-cronjob](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/swarm-cronjob) -在Swarm上基于时间的时间表创建作业 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max)
 
@@ -218,8 +218,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [h2o-proxy](https://github.com/zchee/h2o-proxy)  ：skull：-Docker容器的自动H2O反向代理.  [jwilder / nginx-proxy] [nginxproxy]的替代方法是 [@zchee](https://github.com/zchee)
 - [Let's Encrypt Nginx-proxy Companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion)  -用于nginx代理的轻量级随身容器. 它允许自动创建/更新“加密我们的证书”. 经过 [@JrCs](https://github.com/JrCs)
 - [muguet](https://github.com/mattallty/muguet)  ：skull：-用于Docker环境的DNS服务器和反向代理. 经过 [@mattallty](https://github.com/mattallty)
--[nginx-proxy] [nginxproxy]-[@jwilder] [jwilder]使用docker-gen为Docker容器提供的自动nginx代理
 - [Nginx Proxy Manager](https://github.com/jc21/nginx-proxy-manager)  -精美的Web界面，用于通过SSL代理基于Web的服务. 经过 [@jc21](https://github.com/jc21)
+-[nginx-proxy] [nginxproxy]-[@jwilder] [jwilder]使用docker-gen为Docker容器提供的自动nginx代理
 - [Swarm Ingress Router](https://github.com/tpbowden/swarm-ingress-router)  ：skull：-根据标签将DNS名称路由到Swarm服务. 经过 [@tpbowden](https://github.com/tpbowden/)
 - [Swarm Router](https://github.com/flavioaiello/swarm-router)  -一种基于“零配置”服务名称的路由器，适用于docker群模式，具有全新，更安全的方法. 经过 [@flavioaiello](https://twitter.com/flavioaiello)
 - [Træfɪk](https://github.com/containous/traefik) -用于Docker，Mesos，Consul，Etcd的自动化反向代理和负载平衡器... [@EmileVauge](https://github.com/emilevauge)
@@ -307,8 +307,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
 - [dockdash](https://github.com/byrnedo/dockdash) 详细统计信息. 由[@byrnedo] 
 - [Docker-mon](https://github.com/icecrime/docker-mon) ：skull：-通过基于控制台的Docker监视 [@icecrime](https://github.com/icecrime)
-- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) -DockSTARTer可帮助您开始在Docker上运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
 - [dockly](https://github.com/lirantal/dockly) -用于通过以下方式管理Docker容器的交互式外壳UI [@lirantal](https://github.com/lirantal)
+- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) -DockSTARTer可帮助您开始在Docker上运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
 - [docui](https://github.com/skanehira/docui)  -用于管理Docker容器的交互式外壳UI. 在Windows中也可以使用. 由[@skanehira]
 - [dry](https://github.com/moncho/dry) -用于Docker容器的交互式CLI [@moncho](https://github.com/moncho)
 - [lazydocker](https://github.com/jesseduffield/lazydocker)  -管理所有泊坞窗的懒惰方式. 用于docker和docker-compose的简单终端UI，使用gocui库用Go编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
@@ -325,7 +325,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [goinside](https://github.com/iamsoorena/goinside)  -轻松进入正在运行的docker容器. 经过 [@iamsoorena](https://github.com/iamsoorena)
 - [ns-enter](https://github.com/jpetazzo/nsenter) -：skull：不再使用ssh，请通过[@jpetazzo] [jpetazzo]输入容器的名称空间
 - [Pdocker](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/g31s/Pdocker) -通过以下方式管理和维护用于个人项目的Docker的简单工具： [@https://github.com/veggiemonk/awesome-docker/blob/master/g31s](https://github.com/veggiemonk/awesome-docker/blob/master/g31s)
-- [proco](https://github.com/shiwaforce/poco)  -Proco将使用简单的YAML配置文件帮助您组织和管理任何复杂程度的Docker，Docker-Compose，Kubernetes项目，从而缩短从查找项目到在本地环境中初始化项目的路线. 经过 [@shiwaforce](https://github.com/shiwaforce)
+- [proco](https://github.com/shiwaforce/poco)  -Proco将使用简单的YAML配置文件帮助您组织和管理任何复杂程度的Docker，Docker-Compose，Kubernetes项目，以缩短从查找项目到在本地环境中初始化项目的路线. 经过 [@shiwaforce](https://github.com/shiwaforce)
 - [reg](https://github.com/genuinetools/reg) -[@genuinetools] [genuinetools]的Docker注册表v2命令行客户端
 - [scuba](https://github.com/JonathonReinhart/scuba) -通过以下方式透明地使用Docker容器来封装软件构建环境 [@JonathonReinhart](https://github.com/JonathonReinhart)
 - [skopeo](https://github.com/containers/skopeo) -使用远程图像注册中心-通过[@containers] [containers]检索信息，图像和签名内容
@@ -348,8 +348,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Container Web TTY](https://github.com/wrfly/container-web-tty) -通过Web-tty连接您的容器 [@wrfly](https://github.com/wrfly)
 - [Docker Compose UI](https://github.com/francescou/docker-compose-ui)  -通过HTTP管理docker-compose.  docker-compose-ui在Docker容器中运行，安装主机docker套接字并公开RESTful API和AngularJS GUI
 - [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) -通过Docker Registry HTTP API v2的Web界面 [@klausmeyer](https://github.com/klausmeyer)
-- [Docker Registry UI](https://github.com/atcol/docker-registry-ui) -通过以下方式轻松实现私有/本地Docker Registry集成的Web UI [@atcol](https://github.com/atcol)
 - [Docker Registry UI (Joxit)](https://github.com/Joxit/docker-registry-ui) -最简单，最干净的私人注册表用户界面 [@Joxit](https://github.com/Joxit)
+- [Docker Registry UI](https://github.com/atcol/docker-registry-ui) -通过以下方式轻松实现私有/本地Docker Registry集成的Web UI [@atcol](https://github.com/atcol)
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) -私有Docker Registry v2的Web UI，身份验证服务和事件记录器 [@mkuchin](https://github.com/mkuchin)
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) -在Docker Swarm上可视化Docker服务（用于运行演示）.
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) ：skull：-用于Docker的简单Web接口，具有许多功能 [@Electrofenster](https://github.com/Electrofenster/)
@@ -360,7 +360,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Portainer](https://github.com/portainer/portainer) -用于管理Docker主机或Docker Swarm集群的轻量级管理UI [@portainer](https://github.com/portainer)
 - [Rapid Dashboard](https://github.com/ozlerhakan/rapid) -通过以下方式使用Docker Remote API的简单查询仪表板 [@ozlerhakan](https://github.com/ozlerhakan/)
 - [Seagull](https://github.com/tobegit3hub/seagull)  -友好的Web UI来监视docker守护程序. 经过 [@tobegit3hub](https://github.com/tobegit3hub)
-- [Swarmpit](https://github.com/swarmpit/swarmpit)  -Swarmpit为您的Docker Swarm集群提供了简单易用的界面. 您可以管理堆栈，服务，机密，卷，网络等.
+- [Swarmpit](https://github.com/swarmpit/swarmpit)  -Swarmpit为您的Docker Swarm集群提供了简单易用的界面. 您可以管理堆栈，服务，机密信息，卷，网络等.
 - [Swirl](https://github.com/cuigh/swirl) -Swirl是Docker的Web管理工具，专注于群体集群. [@cuigh](https://github.com/cuigh/)
 - [Theia](https://github.com/eclipse-theia/theia) -可扩展的平台，可使用最新的Web技术开发功能全面的多语言云和桌面IDE类产品.
 - [Yacht](https://github.com/SelfhostedPro/Yacht)  ：construction：-用于docker的Web UI，其重点在于模板和易用性，以使部署尽可能容易. 经过 [@SelfhostedPro](https://github.com/SelfhostedPro)
@@ -376,7 +376,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Chaperone](https://github.com/garywiz/chaperone)  -为docker容器设计的单个PID1进程. 将用户管理，日志管理，启动，僵尸收获全部打包在一个小程序包中. 经过 [@garywiz](https://github.com/garywiz)
 - [ckron](https://github.com/nicomt/ckron) -用于docker的cron式作业调度程序，作者： [@nicomt](https://github.com/nicomt)
 - [CoreOS][coreos] - Linux for Massive Server Deployments
-- [distroless](https://github.com/GoogleContainerTools/distroless) -通过[@GoogleContainerTools] [googlecontainertools]减去操作系统的以语言为中心的docker映像
+- [distroless](https://github.com/GoogleContainerTools/distroless) -通过[@GoogleContainerTools] [googlecontainertools]，以语言为中心的docker映像（减去操作系统）
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) -[@gliderlabs] [gliderlabs]使用Alpine Linux的超小型Docker基本映像_（5MB）_
 - [docker-gen](https://github.com/jwilder/docker-gen) -通过[@jwilder] [jwilder]从docker容器元数据生成文件
 - [dockerize](https://github.com/jwilder/dockerize) -通过[@jwilder] [jwilder]简化docker容器中正在运行的应用程序的实用程序
@@ -384,8 +384,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [is-docker](https://github.com/sindresorhus/is-docker) -通过[@sindresorhus] [sindresorhus]检查进程是否在Docker容器中运行
 - [lstags](https://github.com/ivanilves/lstags) -通过跨注册表同步Docker映像 [@ivanilves](https://github.com/ivanilves)
 - [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) -[@NVIDIA] [nvidia]的Docker的NVIDIA容器运行时
-- [sue](https://github.com/theAkito/sue)  -以与运行sue的用户不同的用户身份执行程序. 这是ncopa / su-exec的可维护替代方法，后者是更好的tianon / gosu. 与原始的gosu相比，它要好得多（性能更高，尺寸更小），但比用纯C语言编写的su-exec更加易于维护. [@theAkito](https://github.com/theAkito)
-- [su-exec](https://github.com/ncopa/su-exec)  -这是一个简单的工具，可以简单地以不同的特权执行程序. 该程序将直接执行，而不是像su和sudo一样作为子代运行，从而避免了TTY和信号问题. 为什么要重塑gosu？ 这项功能与gosu差不多，但只有10kb，而不是1.8MB. 经过 [ncopa](https://github.com/ncopa)
+- [su-exec](https://github.com/ncopa/su-exec)  -这是一个简单的工具，可以简单地以不同的特权执行程序. 该程序将直接执行，而不像su和sudo一样以子级运行，从而避免了TTY和信号问题. 为什么要重塑gosu？ 这项功能与gosu大致相同，但只有10kb，而不是1.8MB. 经过 [ncopa](https://github.com/ncopa)
+- [sue](https://github.com/theAkito/sue)  -以与运行sue的用户不同的用户身份执行程序. 这是ncopa / su-exec的可维护替代方法，后者是更好的tianon / gosu. 与原始的gosu相比，它要好得多（更高的性能，更小的尺寸），但是，与用纯C语言编写的su-exec相比，维护起来要容易得多. [@theAkito](https://github.com/theAkito)
 - [supercronic](https://github.com/aptible/supercronic) -与crontab兼容的作业执行程序，专门设计用于在以下容器中运行 [@aptible](https://github.com/aptible/)
 - [TrivialRC](https://github.com/vorakl/TrivialRC) -容器的简约运行时配置系统和流程管理器 [@vorakl](https://github.com/vorakl)
 
@@ -422,7 +422,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [SkinnyWhale](https://github.com/djosephsen/skinnywhale) ：skull：-Skinnywhale帮助您制作更小（以兆字节为单位）的Docker容器.
 - [Smith](https://github.com/oracle/smith) -Micocontainer Builder，可以在构建映像后执行多阶段构建[Oracle] [oracle]
 - [Whaler](https://github.com/P3GLEG/Whaler) -通过以下方式将Docker映像反转为Dockerfile的程序 [@P3GLEG](https://github.com/P3GLEG/).
-- [Whales](https://github.com/Gueils/whales) -通过以下方式自动对应用程序进行泊坞窗管理的工具 [@icalialabs](https://github.com/IcaliaLabs).
+- [Whales](https://github.com/Gueils/whales) -一种工具，可通过 [@icalialabs](https://github.com/IcaliaLabs).
 
 ### Dockerfile
 
@@ -467,9 +467,10 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) -Amazon EC2容器注册表（ECR）是一个完全托管的Docker容器注册表，使开发人员可以轻松存储，管理和部署Docker容器映像.
 - [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/services/container-registry/) -将Docker私有注册表作为一流的Azure资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  -在裸机或云上运行Docker引擎的裸机必备操作系统. 经过 [@RedCoolBeans](https://github.com/RedCoolBeans)
-- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/)  -全面管理的软件包管理SaaS，对公共和私有Docker注册管理机构（以及许多其他服务，包括Kubernetes生态系统的Helm图表）提供一流的支持. 具有慷慨的免费层，并且对于开源完全免费.
-- [Cycle.io :heavy_dollar_sign:](https://cycle.io/) -裸金属容器托管.
 - [cleanreg](https://github.com/hcguersoy/cleanreg) -一个小工具，可从实现API v2的Docker注册表中删除映像清单，并通过以下方式将其引用给GC [@hcguersoy](https://github.com/hcguersoy)
+- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/)  -全面管理的软件包管理SaaS，对公共和私有Docker注册管理机构（以及许多其他服务，包括Kubernetes生态系统的Helm图表）提供一流的支持. 具有慷慨的免费层，并且对于开源完全免费.
+- [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/) - Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.
+- [Cycle.io :heavy_dollar_sign:](https://cycle.io/) -裸金属容器托管.
 - [Dist :heavy_dollar_sign:](https://www.dist.cloud/product/container-registry/) -基于私有云的Docker容器注册表
 - [Docker Hub](https://hub.docker.com/) 由Docker Inc.提供
 -[Docker Registry v2] [分发]-用于打包，运送，存储和交付内容的Docker工具集
@@ -480,7 +481,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) -Artifact Repository Manager，也可以用作私有Docker Registry
 - [Kraken](https://github.com/uber/kraken) -Uber的高度可扩展的P2P docker注册表，能够在几秒钟内分发TB的数据.
 - [Portus](https://github.com/SUSE/Portus) -Docker注册表（v2）的授权服务和前端 [@SUSE](https://github.com/SUSE)
-- [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/) - Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.
 - [Quay.io :heavy_dollar_sign:](https://quay.io/) （CoreOS的一部分）-私有Docker存储库的安全托管
 - [Rescoyl](https://github.com/noteed/rescoyl) -私有Docker注册表（免费和开源） [@noteed](https://github.com/noteed)
 - [Sonatype Nexus](https://www.sonatype.com/nexus/repository-oss) -具有通用支持的存储库，也适用于Docker映像
@@ -527,13 +527,13 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Ouroboros](https://github.com/pyouroboros/ouroboros) ：skull：-使用通知自动更新正在运行的Docker容器
 - [Popper](https://github.com/systemslab/popper) -Github动作工作流（HCL语法）执行引擎.
 - [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) -专为持续交付而设计的Yahoo OpenSource构建平台.
-- [Skipper](https://github.com/Stratoscale/skipper) -通过以下方式轻松地对您的Git存储库进行docker化 [@Stratoscale](https://github.com/Stratoscale)
+- [Skipper](https://github.com/Stratoscale/skipper) -通过以下方式轻松地将您的Git存储库泊坞窗 [@Stratoscale](https://github.com/Stratoscale)
 - [SwarmCI](https://github.com/ghostsquad/swarmci) -在Docker Swarm中创建一个分布式的隔离任务管道.
 - [Watchtower](https://github.com/containrrr/watchtower) -自动更新正在运行的Docker容器
 
 ### Development Environment
 
-- [batect](https://github.com/batect/batect) -将构建和测试环境作为代码工具：Dockerized的构建和测试环境可通过以下方式轻松实现 [@charleskorn](https://github.com/charleskorn)
+- [batect](https://github.com/batect/batect) -将构建和测试环境作为代码工具：Dockerized的构建和测试环境使 [@charleskorn](https://github.com/charleskorn)
 - [Binci](https://github.com/binci/binci)  -容器化您的开发工作流程.  （以前是DevLab，由 [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 - [Boot2Docker](https://github.com/boot2docker/boot2docker) -适用于OSX和Windows的Docker
 - [construi](https://github.com/lstephen/construi) -通过以下方式在Docker定义的环境中运行您的构建 [@lstephen](https://github.com/lstephen)
@@ -544,12 +544,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DIP](https://github.com/bibendi/dip)  -CLI实用程序，用于直接配置和与docker-compose配置的应用程序进行交互. 经过 [@bibendi](https://github.com/bibendi)
 - [DLite](https://github.com/nlf/dlite)  ：skull：-在OSX上使用Docker的最简单方法，不需要VM. 经过 [@nlf](https://github.com/nlf)
 - [dobi](https://github.com/dnephin/dobi)  -用于Docker应用程序的构建自动化工具. 经过 [@dnephin](https://github.com/dnephin)
-- [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  -生成管理是与pip一起安装的python应用程序. 该应用程序通过配置一个描述如何构建，测试，运行或发布容器化解决方案的yaml文件，使基于Docker的构建系统管理变得容易.
-- [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)  -一组bash命令，用于简化典型的docker dev-ops. 在代码存储库中创建典型的帮助程序脚本（例如“ build.sh”和“ deploy.sh”）的替代方法. 经过 [@NandoQuintana](https://github.com/nandoquintana).
+- [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)  -一组bash命令，用于简化典型的docker dev-ops. 在代码存储库中创建典型的帮助程序脚本（如“ build.sh”和“ deploy.sh”）的替代方法. 经过 [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) ：skull：-在OS X上使用Docker的高效开发环境，作者： [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)  -从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境. 经过 [@Ph3nol](https://github.com/ph3nol)
 - [Docker-sync](https://github.com/EugenMayer/docker-sync) -大大提高了性能（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ），当在Mac OS X / Windows和Linux上使用Docker进行开发时，同时将代码共享给容器. 经过 [@EugenMayer](https://github.com/EugenMayer)
 - [docker-vm](https://github.com/shyiko/docker-vm) -通过boot2docker（由Vagrant支持）的简单透明的替代方法 [@shyiko](https://github.com/shyiko)
+- [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  -生成管理是与pip一起安装的python应用程序. 该应用程序通过配置一个描述如何构建，测试，运行或发布容器化解决方案的yaml文件，使基于Docker的构建系统管理变得容易.
 - [Dusty](https://github.com/gamechanger/dusty) -OS X上的托管Docker开发环境
 - [Eclipse Che](https://github.com/eclipse/che) -具有Docker运行时，云IDE，下一代Eclipse IDE的开发人员工作区服务器
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI)  -用项目专用的Docker容器替换本地安装的Node，Go，.... 经过 [@EnvCLI](https://github.com/EnvCLI)
@@ -564,11 +564,11 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [caduc](https://github.com/tjamet/caduc) -docker垃圾收集器清理了您近期未使用过的东西
 - [Docker Clean](https://github.com/ZZROTDesign/docker-clean) -清理Docker容器，映像和卷的脚本 [@zzrotdesign](https://github.com/ZZROTDesign)
+- [docker_gc](https://github.com/pdacity/docker_gc)  -用于自动删除未使用的Docker Swarm对象的图像. 也可以像Docker Service一样工作 [@pdacity](https://github.com/pdacity)
 - [Docker-cleanup](https://github.com/meltwater/docker-cleanup) ：skull：-通过自动清除Docker映像，容器和卷 [@meltwater](https://github.com/meltwater)
 - [docker-custodian](https://github.com/Yelp/docker-custodian)  -保持Docker主机整洁. 经过 [@Yelp](https://github.com/Yelp)
 - [docker-garby](https://github.com/konstruktoid/docker-garby) -Docker垃圾回收脚本 [@konstruktoid](https://github.com/konstruktoid).
 - [docker-gc](https://github.com/spotify/docker-gc) ：skull：-一项cron作业，将通过[@spotify] [spotify]删除旧的已停止容器和未使用的图像
-- [docker_gc](https://github.com/pdacity/docker_gc)  -用于自动删除未使用的Docker Swarm对象的图像. 也可以像Docker Service一样工作 [@pdacity](https://github.com/pdacity)
 - [sherdock](https://github.com/rancher/sherdock) ：skull：-由[@rancher] [rancher]根据正则表达式自动生成图像的GC
 
 ### Serverless
@@ -602,7 +602,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [FuGu](https://github.com/mattes/fugu) ：skull：-Docker在没有编排的情况下运行包装器 [@mattes](https://github.com/mattes)
 - [Shutit](https://github.com/ianmiell/shutit) -通过以下工具构建和维护复杂的Docker部署的工具 [@ianmiell](https://github.com/ianmiell)
 - [subuser](https://github.com/subuser-security/subuser) -使在Docker中安全且可移植地运行图形桌面应用程序变得容易
-- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的强大功能+ Docker Swarm的简单性=基础架构（作为Code和DevOps的最佳实践）. 经过 [@Thomvaill](https://github.com/Thomvaill)
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的强大功能+ Docker Swarm的简单性=基础架构是Code和DevOps的最佳实践. 经过 [@Thomvaill](https://github.com/Thomvaill)
 - [Terraform cloud-init config](https://github.com/christippett/terraform-cloudinit-container-server) -Terraform模块，用于将单个Docker映像或docker-compose.yaml文件部署到任何Cloud™VM
 - [Turbo](https://github.com/ramitsurana/turbo)  -适用于Docker的简单而强大的实用程序. 由[@ramitsurana] [ramitsurana]
 - [udocker](https://github.com/indigo-dc/udocker) -一种在批处理或交互式系统中执行简单docker容器而无需root特权的工具 [@inidigo-dc](https://github.com/indigo-dc)
@@ -617,7 +617,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [CodeShip](https://www.cloudbees.com/products/codeship) ：heavy_dollar_sign：-使用已建立的Docker工作流程，同时使用专用于速度和安全性的托管平台使测试和部署任务自动化.
 - [ConcourseCI](https://concourse-ci.org) ：heavy_dollar_sign：-针对开发人员和DevOps团队面向管道的CI SaaS平台.
 - [Semaphore CI](https://semaphoreci.com/) ：heavy_dollar_sign：—一种高性能的云解决方案，可轻松构建，测试和运送容器以进行生产.
-- [Shippable](https://app.shippable.com/) ：heavy_dollar_sign：-为开发人员和DevOps团队使用的SaaS平台，可大大减少构建，测试和部署代码到生产所需的时间.
+- [Shippable](https://app.shippable.com/) ：heavy_dollar_sign：-为开发人员和DevOps团队使用的SaaS平台，可显着减少构建，测试和部署代码到生产所需的时间.
 - [TravisCI](https://travis-ci.org/) ：heavy_dollar_sign：-一个免费的github项目为开发人员和Devops设计了持续集成的Saas平台.
 
 ### CaaS
@@ -653,16 +653,16 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - **[Valuable Docker Links](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/) **有关docker的高质量文章！  **必看**
 - [Become a Docker Power User with Visual Studio Code](https://www.thebyte.io/become-docker-power-user-with-vs-code) -：heavy_dollar_sign：一个培训课程，可帮助您使用Visual Studio Code成为Docker Power用户
 - [Cloud Native Landscape](https://github.com/cncf/landscape)
-- [Docker Newsletter](https://www.docker.com/newsletter-subscription) Docker时事通讯以进行定期更新
-- [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
-- [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
+- [Docker Certification](https://intellipaat.com/docker-training-course/) ：heavy_dollar_sign：将通过动手项目和案例研究来帮助您学习Docker容器化，运行Docker容器，映像创建，Dockerfile，Docker编排，安全最佳实践等，并有助于清除Docker Certified Associate.
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
-- [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
 - [Docker dev bookmarks](https://www.bookmarks.dev/search?q=docker) -使用标签 [docker](https://www.bookmarks.dev/tagged/docker)
+- [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
+- [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
+- [Docker Newsletter](https://www.docker.com/newsletter-subscription) Docker时事通讯以进行定期更新
 - [Docker packaging guide for Python](https://pythonspeed.com/docker/) -有关适用于Python的Docker封装的一系列详细文章.
 - [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
 - [Learn Docker](https://blog.coursesity.com/best-docker-tutorials/) -学习Docker-精选的顶级在线Docker教程和课程列表.
-- [Docker Certification](https://intellipaat.com/docker-training-course/) ：heavy_dollar_sign：将通过动手项目和案例研究来帮助您学习Docker容器化，运行Docker容器，映像创建，Dockerfile，Docker编排，安全最佳实践等，并有助于清除Docker Certified Associate.
+- [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
 
 
 ## Awesome Lists
@@ -671,7 +671,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Awesome Compose](https://github.com/docker/awesome-compose) -Docker Compose示例
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 由[@ramitsurana] [ramitsurana]
 - [Awesome Linux Container](https://github.com/Friz-zy/awesome-linux-containers) 关于容器比这个仓库更笼统 [@Friz-zy](https://github.com/Friz-zy).
-- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 可以通过以经典方式运行（在本地设置本地Web服务器并从此处运行应用程序）或在Docker容器中本地托管的免费软件网络服务和Web应用程序的列表. 经过 [@Kickball](https://github.com/Kickball)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 可以通过以经典方式运行（在本地设置本地Web服务器并从此处运行应用程序）或在Docker容器中本地托管的自由软件网络服务和Web应用程序的列表. 经过 [@Kickball](https://github.com/Kickball)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) 经过 [@n1trux](https://github.com/n1trux)
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) SaaS和本地应用程序列表 [@cjbarber](https://github.com/cjbarber)
 

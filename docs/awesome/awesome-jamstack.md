@@ -37,7 +37,7 @@
 ## General
 
 - [Jamstack](https://jamstack.org/)
-- [Jamstack resources](https://jamstack.org/resources/) - Videos and articles about Jamstack.
+- [Jamstack resources](https://jamstack.org/resources/) -有关Jamstack的视频和文章.
 - [the New Dynamic](https://www.thenewdynamic.org/)  -在我们的目录中选择工具以与Jamstack一起使用. 浏览我们的展示柜并获得启发.
 
 ## Chats
@@ -111,13 +111,14 @@
 - [Strapi](https://strapi.io) -开源Headless CMS前端开发人员喜欢.
 - [Flotiq](https://flotiq.com) -轻松无忧的CMS.
 - [TreacleWP](https://www.treaclewp.com) -WordPress API托管.
+- [Agility CMS](https://agilitycms.com) -开发人员和内容编辑人员两全其美.
 ## API
 
 ### Authentication
 
 - [Auth0](https://auth0.com/) -单点登录和基于令牌的身份验证.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) -带来一整套的身份验证功能，并由 [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) -带有JWT和其他功能的身份提供者的REST API用户管理系统，用于您的Web端. 
+- [Jexia UMS](https://jexia.com) -带有JWT和其他功能的身份提供者的REST API用户管理系统，用于您的Web端.
 
 ### Comments
 
@@ -187,15 +188,15 @@
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
 - [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台. 为Jamstack提供各种流行语言和媒体窗口小部件的SDK，使您可以轻松管理媒体，CDN，存储，转换等.
-- [imgix](https://www.imgix.com/)  -无服务器图像传送和管理服务.  imgix连接到您的图像存储位置（例如S3，GCS，Web文件夹），并使用简单而强大的URL参数来转换，优化和智能地传递您的图像.
-- [Elastictable](https://www.elastictable.com) -建立在AWS之上的后端即服务解决方案，该解决方案无法提高在线业务的成功率. 
+- [imgix](https://www.imgix.com/)  -无服务器图像传送和管理服务.  imgix连接到图像的存储位置（例如S3，GCS，Web文件夹），并使用简单而强大的URL参数来转换，优化和智能地传递图像.
+- [Elastictable](https://www.elastictable.com) -建立在AWS之上的后端即服务解决方案，该解决方案无法提高在线业务的成功率.
 - [Stormkit](https://stormkit.io)  -适用于由AWS提供支持的现代javascript应用程序的强大的无服务器基础架构. 它与您的git flow集成，并无缝构建，部署和扩展您的应用程序.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
-- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) -马特·比尔曼（Matt Biilmann）.
+- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
 - [Rise of the Jamstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
 - [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
@@ -203,7 +204,7 @@
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) -凯尔·马修斯（Kyle Mathews）.
 - [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) -Jamstack Conf.
-- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) -艾哈迈德·阿威斯.
+- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) -艾哈迈德·阿威斯（Ahmad Awais）.
 - [React vs Vue, Gatsby vs Gridsome - building the same site](https://www.youtube.com/watch?v=H19fF7ITtaI) -Ondrej Polesny.
 - [WTF is Jamstack?](https://youtu.be/ReSvk5MQek4) -Ondrej Polesny.
 

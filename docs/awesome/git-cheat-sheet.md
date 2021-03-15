@@ -17,8 +17,9 @@ Git和Git Flow速查表 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/
 5. [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 6. [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md)
 7. [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-pt_BR.md)
+8. [Korean Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ko.md)
 
-Git备忘单让您免于全心学习所有命令.
+Git备忘单可让您免于全心学习所有命令.
 
 自由贡献，更新语法错误. 您也可以自由添加语言文件.
 
@@ -172,7 +173,7 @@ $ git commit -m&#39;这里的消息&#39;
 
 ##### Commit skipping the staging area and adding message:
 ```
-$ git commit -am&#39;消息在这里&#39;
+$ git commit -am&#39;在这里留言&#39;
 ```
 
 ##### Commit to some previous date:
@@ -333,7 +334,7 @@ $ git checkout<branch>
 
 ##### Checkout single file from different branch
 ```
- $ git checkout<branch>  -<filename>
+ $ git checkout<branch>  --<filename>
 ```
 
 ##### Create and switch new branch:
@@ -504,7 +505,7 @@ $ git branch-合并
 ```
 
 ##### Rebase your current HEAD onto &lt;branch&gt;:<br>
-<em><sub>不要改变发布的提交！</sub></em>
+<em><sub>不要对已发布的提交进行重新设置！</sub></em>
 
 ```
 $ git rebase<branch>

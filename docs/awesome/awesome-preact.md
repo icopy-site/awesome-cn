@@ -34,6 +34,7 @@
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) -使用Redux示例的服务器端渲染.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) -PWA专注于原始性能，服务器端渲染，预渲染，redux，express，汇总.
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) -由Parcel提供支持的绝对最小的Preact入门项目.
+- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) -功能齐全的Preact Chrome扩展入门套件
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) -Preact的URL路由器.
@@ -43,7 +44,7 @@
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装器.
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) -一个（800b gzip）标头，将在滚动Preact时显示/隐藏.
-- [Preact Progress](https://github.com/lukeed/preact-progress) -Preact的简单轻量级（约590字节gzip）进度条组件.
+- [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
 - [Preact Compat](https://git.io/preact-compat) -使用带有Preact *（的任何React库[full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) -通用渲染.
 - [Preact Markup](https://git.io/preact-markup) -将HTML和自定义元素呈现为JSX和组件.
@@ -127,7 +128,7 @@
 - [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：
 - [**Periodic Weather**](https://use-the-platform.com/periodic-weather/) _([GitHub Project](https://github.com/vaneenige/periodic-weather/)）_：晴天：
 - [**Rugby News Board**](http://nbrugby.com) _[(GitHub Project)](https://github.com/rugby-board/rugby-board-node)_
-- [**Preact Gallery**](https://preact.gallery/) an 8KB photo gallery PWA built using Preact.
+- [**Preact Gallery**](https://preact.gallery/) 使用Preact构建的8KB照片库PWA.
 - [**Rainbow Explorer**](https://use-the-platform.com/rainbow-explorer/) Preact应用程序将现实生活中的颜色转换为数字颜色_（[Github project](https://github.com/vaneenige/rainbow-explorer))_.
 - [**YASCC**](https://carlosqsilva.github.io/YASCC/#/) 另一个SoundCloud客户端_（[Github project](https://github.com/carlosqsilva/YASCC))_.
 - [**Journalize**](https://preact-journal.herokuapp.com/) 使用preact的14k脱机日记PWA.  _（[Github project](https://github.com/jpodwys/preact-journal))_.

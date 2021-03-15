@@ -31,7 +31,7 @@
 * [dedupe](https://github.com/seriousManual/dedupe) -从阵列中删除重复项.
 * [array-range](https://github.com/mattdesl/array-range) -创建具有给定范围的新数组.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) -通过使用严格等式进行比较，从其他数组中排除所有值，从而返回仅包含第一个数组中唯一值的数组.
-* [filled-array](https://github.com/sindresorhus/filled-array) -返回由指定输入填充的数组
+* [filled-array](https://github.com/sindresorhus/filled-array) -返回一个填充有指定输入的数组
 * [map-array](https://github.com/parro-it/map-array) -将对象键和值映射到数组中.
 * [in-array](https://github.com/jonschlinkert/in-array) -如果数组中存在任何传递的值，则返回true-比使用indexOf更快.
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) -有效地从无序数组中删除元素，而无需进行拼接.
@@ -51,12 +51,12 @@
 * [to-no-case](https://github.com/ianstormtaylor/to-no-case) -从字符串中删除现有的案例.
 * [to-pascal-case](https://github.com/ianstormtaylor/to-pascal-case) -将字符串转换为Pascal大小写.
 * [to-sentence-case](https://github.com/ianstormtaylor/to-sentence-case) -将字符串转换为句子大小写.
-* [to-snake-case](https://github.com/ianstormtaylor/to-snake-case) -将字符串转换为蛇案.
+* [to-snake-case](https://github.com/ianstormtaylor/to-snake-case) -将字符串转换为蛇形保护套.
 * [to-space-case](https://github.com/ianstormtaylor/to-space-case) -将字符串转换为空格.
 * [to-title-case](https://github.com/ianstormtaylor/to-title-case) -将字符串转换为标题大小写.
-* [node-slug](https://github.com/dodo/node-slug) -甚至是utf-8字符.
+* [node-slug](https://github.com/dodo/node-slug) -甚至会拖入utf-8字符.
 * [rtrim](https://github.com/sergejmueller/rtrim) -从字符串末尾去除空格-或其他字符.
-* [slice.js](https://github.com/hustcc/slice.js) -Javascript库，可让python slice样式吸引String.substring / Array.slice.
+* [slice.js](https://github.com/hustcc/slice.js) -Javascript库，以python slice样式增强String.substring / Array.slice.
 * [strip-ansi](https://github.com/chalk/strip-ansi) -去除ANSI转义码.
 * [striptags](https://github.com/ericnorris/striptags) -Node.js中PHP的strip_tags的实现.
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) -从字符串中解析下一个JSON值，允许在值之后添加多余的字符.
@@ -79,13 +79,13 @@
 * [filter-obj](https://github.com/sindresorhus/filter-obj) -将对象键和值过滤到新对象中.
 * [object-values](https://github.com/sindresorhus/object-values) -获取对象的值.
 * [object-pairs](https://github.com/eush77/object-pairs) -将对象转换为[键，值]对的列表，以进行映射，迭代或其他目的.
-* [zipmap](https://github.com/landau/zipmap)  -返回一个映射，其中键映射到相应的值.  zipmap还接受对象或对的单个值.
+* [zipmap](https://github.com/landau/zipmap)  -返回一个映射，其中的键映射到相应的值.  zipmap还接受对象或对的单个值.
 * [just-pluck](https://github.com/jarofghosts/just-pluck) -没有疯狂的采摘.
 * [deep-equal](https://github.com/substack/node-deep-equal) -Node的assert.deepEqual（）算法作为独立模块.
 * [deep-assign](https://github.com/sindresorhus/deep-assign) -递归Object.assign（）.
 * [set-value](https://github.com/jonschlinkert/set-value) -创建嵌套值和任何中间点符号（`&#39;abc&#39;`）路径.
 * [get-value](https://github.com/jonschlinkert/get-value) -使用属性路径（abc）从对象获取嵌套值.
-* [has-value](https://github.com/jonschlinkert/has-value)  -如果存在值，则返回true；如果为空，则返回false. 使用点表示法（`&#39;abc&#39;`）路径处理深度嵌套的值.
+* [has-value](https://github.com/jonschlinkert/has-value)  -如果存在值，则返回true；如果为空，则返回false. 使用点表示法（&#39;abc&#39;`）路径处理深层嵌套的值.
 * [has-key-deep](https://github.com/ryanaghdam/has-key-deep)  -深度搜索对象的键. 可以通过提供键数组或使用点符号来搜索键.
 * [flatkeys](https://github.com/ricardobeat/flatkeys) -使用自定义分隔符将对象键层次结构展平为字符串列表.
 * [flatten-obj](https://github.com/watson/flatten-obj) -将具有深层嵌套节点的对象文字转换为简单的键/值对象.
@@ -100,12 +100,12 @@
 
 ### Function
 
-* [compose-function](https://github.com/stoeffel/compose-function) -从较小的函数`f（g（x））`组成一个新函数.
+* [compose-function](https://github.com/stoeffel/compose-function) -由较小的函数f（g（x））组成一个新函数.
 * [curry](https://github.com/dominictarr/curry) -咖喱功能，没有任何太聪明的地方.
 * [once](https://github.com/isaacs/once) -一次运行一个功能.
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) -将上下文绑定到对象中的所有函数，包括深层嵌套的函数.
 * [identity-function](https://github.com/substack/identity-function) -始终返回输入参数. 
-* [mem](https://github.com/sindresorhus/mem) -一种优化技术，用于通过缓存具有相同输入的调用结果来加快连续函数的调用.
+* [mem](https://github.com/sindresorhus/mem) -一种优化技术，用于通过缓存具有相同输入的调用结果来加快连续函数调用的速度.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) -节流/反跳功能.
 * [compose-tiny](https://github.com/hipstersmoothie/compose-tiny) -一个非常微小且快速的撰写功能.
 
@@ -116,18 +116,18 @@
 * [is-odd](https://github.com/jonschlinkert/is-odd)  -判断数字是否为奇数的好方法（避免出现类型问题）. 在幕后使用`is-number`.
 * [easy-math.js](https://github.com/kingzez/easy-math.js) -一个很小的简单数学库，包括加法，乘法，减法和除法.
 * [my-prime](https://github.com/jinnatul/my-prime) -判断数字是否为质数的好方法.
-* [fun-gcd](https://github.com/zubayerhimel/fun-gcd) -一个微型数学库，使用欧几里得算法获得两个数字的gcd
+* [fun-gcd](https://github.com/zubayerhimel/fun-gcd) -一个很小的数学库，可以使用欧几里得算法获得两个数字的gcd
 
 ### Stream
-* [through2](https://github.com/rvagg/through2) -围绕Node stream2的微型包装器.
-* [through2-filter](https://github.com/brycebaril/through2-filter) -一个through2，用于为流创建Array.prototype.filter模拟.
-* [through2-map](https://github.com/brycebaril/through2-map) -一个through2为流创建一个Array.prototype.map模拟.
-* [stream-spigot](https://github.com/brycebaril/node-stream-spigot) -可读流生成器，可用于测试或将简单功能转换为可读流.
-* [concat-stream](https://github.com/maxogden/concat-stream) -可写流，其将字符串或数据连接起来并使用结果调用回调.
+* [through2](https://github.com/rvagg/through2) -围绕Node Streams2的微型包装器进行转换，以避免显式的子类化噪声.
+* [through2-filter](https://github.com/brycebaril/through2-filter) -一个through2，用于为流创建一个Array.prototype.filter模拟.
+* [through2-map](https://github.com/brycebaril/through2-map) -一个through2，用于为流创建Array.prototype.map模拟.
+* [stream-spigot](https://github.com/brycebaril/node-stream-spigot) -可读流生成器，可用于测试简单功能或将简单功能转换为可读流.
+* [concat-stream](https://github.com/maxogden/concat-stream) -可写流，其将字符串或数据连接起来并调用结果回调.
 * [JSONStream](https://github.com/dominictarr/JSONStream) -流JSON.parse和stringify
-* [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) -一个小的基于承诺的包装器，用于through2.
+* [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) -一个小的基于诺言的包装，用于through2.
 * [pump](https://github.com/mafintosh/pump) -将流连接在一起，如果其中之一关闭，则关闭所有流.
-* [split](https://github.com/dominictarr/split) -分解流并将其重新组合，以使每一行都是一块.
+* [split](https://github.com/dominictarr/split) -分解流并重新组装它，以使每一行都是一块.
 * [is-stream](https://github.com/sindresorhus/is-stream) -检查某物是否是Node.js流.
 * [syncthrough](https://github.com/mcollina/syncthrough) -同步转换您的数据.
 
@@ -137,7 +137,7 @@
 * [pify](https://github.com/sindresorhus/pify) -承诺回调样式的函数.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) -与`Promise.all`类似，但对象属性除外.
 * [sleep-promise](https://github.com/brummelte/sleep-promise) -在指定的延迟后解决承诺.
-* [is-promise](https://github.com/then/is-promise) -测试对象是否看起来像一个promises-a + promise.
+* [is-promise](https://github.com/then/is-promise) -测试一个对象是否看起来像一个promises-a + promise.
 
 ### File System
 
@@ -155,7 +155,7 @@
 * [insert-css](https://github.com/substack/insert-css) -将一串CSS插入头部
 * [dom-element-value](https://github.com/crysalead-js/dom-element-value) -DOM元素值获取器/设置器.
 * [image-promise](https://github.com/bfred-it/image-promise)  -加载一个或多个`<img> 承诺中的`s.
-* [get-media-size](https://github.com/bfred-it/get-media-size) -获得任何`img` /`video` /`svg` /`canvas`标签或画布上下文的原始大小.
+* [get-media-size](https://github.com/bfred-it/get-media-size) -获取任何`img` /`video` /`svg` /`canvas`标签或画布上下文的原始大小.
 * [document-ready](https://github.com/bendrucker/document-ready) -适用于现代浏览器的文档就绪侦听器.
 * [copee](https://github.com/styfle/copee) -将文本从浏览器复制到剪贴板...本机！
 
@@ -204,7 +204,7 @@
 ## Small modules rockstars to follow
 
 这些人被用来开发遵循单一职责理念的出色NPM模块.
-关注他们以发现新的出色模块：
+关注他们，发现新的出色模块：
 
 [![Sindre Sorhus](https://avatars.githubusercontent.com/u/170270?s=130)](https://github.com/sindresorhus) | [![James Halliday](https://avatars1.githubusercontent.com/u/12631?s=130)](https://github.com/substack) | [![Eugene Sharygin](https://avatars3.githubusercontent.com/u/4472489?s=130)](https://github.com/eush77) | [![Isaac Z. Schlueter](https://avatars3.githubusercontent.com/u/9287?s=130)](https://github.com/isaacs) | [![Jon Schlinkert](https://avatars1.githubusercontent.com/u/383994?s=130)](https://github.com/jonschlinkert) | [![Dominic Tarr](https://avatars3.githubusercontent.com/u/259374?s=130)](https://github.com/dominictarr)
 ---|---|---|---|---|---
@@ -217,7 +217,7 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/parro-it/awesome-micro-npm-packages/blob/master/contributing.md) 第一的.
 
 
 ## License

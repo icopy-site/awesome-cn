@@ -1,16 +1,16 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-该页面可通过以下网站轻松阅读 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+此页面可作为易于阅读的网站访问： [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Intro
 
-此列表最初是的克隆 [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) 由Karan Bhangui和George Stocker提供.
+此列表最初是的克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 由Karan Bhangui和George Stocker提供.
 
-该列表已由Victor Felder移至GitHub，以进行协作更新和维护. 它已成长为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有160,000+颗星，6000 +个提交，1600 +个贡献者和39,000+个分叉.
+该列表已由Victor Felder移至GitHub，以进行协作更新和维护. 它已成长为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有160,000+颗星，6000 +提交，1600 +贡献者和39,000+叉.
 
-The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组织回购组织管理，该组织致力于促进免费电子书的创建，发行，归档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
+The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组织回购组织管理，该组织致力于促进免费电子书的创建，发行，存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
 
 
 ### How To Contribute
@@ -131,4 +131,4 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 
 ## License
 
-此存储库中包含的每个文件均根据 [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE).
+此存储库中包含的每个文件均根据以下条款获得许可： [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE).
