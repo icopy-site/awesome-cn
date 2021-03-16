@@ -120,7 +120,7 @@
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
-- [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -170,14 +170,14 @@
 - [bugbag react ui kit](https://bumbag.style/) -Bumbag是一个友好的React UI套件，适用于MVP或大规模应用.
 - [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
 - [ChatUI](https://github.com/alibaba/ChatUI) -会话式UI的UI设计语言和React库
-- [react-spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
+- [react-spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) -Adobe的库和工具集合，可帮助您建立适应性强，可访问性强的用户体验
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) -React的选择组件
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -使用React轻松美观地拖放列表
-- [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行反应
+- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应的断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
@@ -219,6 +219,7 @@
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) -适用于React的Google跟踪代码管理器模块.
 - [react-device-detect](https://github.com/duskload/react-device-detect) -检测设备的反应.
 - [react-colorful](https://github.com/omgovich/react-colorful) -一个很小的（2,5 KB），无依赖项，快速且可访问的颜色选择器组件.
+- [react-modal](https://github.com/reactjs/react-modal) -React的可访问模式对话框组件.
 
 ##### React for Command Line
 
@@ -268,7 +269,7 @@
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
-- [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
+- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
 - [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
 - [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 - [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
@@ -331,7 +332,7 @@
 - [react-masonry-css](https://github.com/paulcollett/react-masonry-css) -由CSS提供支持的快速砌体布局，无依赖
 - [react-captcha](https://github.com/appleboy/react-recaptcha) -适用于Google的react.js reCAPTCHA
 - [reaptcha](https://github.com/sarneeh/reaptcha) -干净，现代，简单的Google reCAPTCHA React包装器
-- [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
+- [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) -适用于React的reCAPTCHA桥
 - [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) -用于React的官方CKEditor 4 RTF编辑器组件
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) -用于React的官方CKEditor 5 RTF编辑器组件
 
@@ -801,6 +802,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

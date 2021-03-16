@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="RayBB/awesome-social-enterprise"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Social Enterprise [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-潜入社会企业世界的资源  
+资源深入社会企业的世界  
 
 &gt;社会企业是主要“关注社会影响”并且至少部分“自筹资金”的组织.
 
@@ -9,9 +9,9 @@
 <details>
   <summary>ant我为什么做这个</summary>
   
-  当我在埃克德学院（Eckerd College）时，我一再碰到社会企业的概念. 首先，参加一门名为“技术，社会与环境”的课程，然后通过与一家社会企业的CTO会面，最后参加一门名为“社会企业家”的课程. 我走过的每一步都更爱上了社会企业的概念. 但是，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
+  当我在埃克德学院（Eckerd College）时，我一再碰到社会企业的概念. 首先，开设一门名为“技术，社会与环境”的课程，然后通过与一家社会企业的首席技术官会面，最后参加一门名为“社交企业家”的课程. 我走过的每一步都更爱上了社会企业的概念. 但是，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
   
-  最终，我设定了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 每周摘要与“社会企业家”相关的内容. 可以，但是我仍然觉得自己错过了某些东西. 几年过去了，我发现自己参与了一个名为“ [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+  最终，我设定了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 每周摘要与“社会企业家”相关的内容. 这样做还可以，但我仍然觉得自己错过了某些东西. 几年过去了，我发现自己参与了一个名为“ [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
   
 </details>
 
@@ -54,16 +54,16 @@ Wikipedia是探索和查找相关主题的好地方.
   *关于为什么存在与非营利有关的社会企业的务实讨论.
 * (2008) [_Evolution of the social enterprise industry_](https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) 由社会企业家协会
   *学术性较差，但有与社会企业有关的事件的详细历史记录.
-*（2010年）《社会企业和社会企业家精神的构想》，作者雅克·德福尼（Jacques Defourny）
+*（2010年）《社会企业和社会企业家的观念》，作者雅克·德福尼（Jacques Defourny）
   *美国和欧洲社会企业之间的平行.
-*（2014）_社会企业–经济和社会福利领域的新现象？_莱昂德罗·塞普尔维达（Leandro Sepulveda）
+*（2014）_社会企业–经济和社会福利领域的新现象？_ Leandro Sepulveda
   *英国社会企业的历史.
 
 ### Books 📚
+
  | 标题| 作者| 年份| 注意事项
 |-------|--------|------|-------|
  | 社会企业家精神：每个人都需要知道的戴维·伯恩斯坦|  2010 | 很好地介绍了社会企业家精神. 简短有趣，对常见问题有很多不错的答案.  |
-|       |        |      |       |
 
 ## Podcasts 🎧
 * [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/)  -谈论社会企业结构并采访经营它们的人. 由社会企业家和工程师主持 [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
@@ -72,11 +72,11 @@ Wikipedia是探索和查找相关主题的好地方.
 未来学习
 * [Social Enterprise Program](https://www.futurelearn.com/programs/social-enterprise)
   *由米德尔塞克斯大学商学院和金达尔社会创新中心+创业计划.
-  *免费，三门课程，共九周.
+  *免费，共三周，共九周.
   * 根据 [this](https://doi.org/10.3390/su12083247) 在论文中，这些课程非常有影响力，并帮助创办了许多社会企业.
 
 [Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
-*几门免费课程，例如：_筹款简介_，筹款策略_和成立非营利委员会_.
+*几门免费课程，例如：_筹款简介_，筹款策略_和成立非营利委员会_
 
 edX   
 * [Business and Impact Planning for Social Enterprises](https://www.edx.org/course/business-and-impact-planning-for-social-enterprise) -麻省理工学院.
@@ -90,7 +90,7 @@ Coursera
 *提供免费和付费课程，以帮助个人创造社会变革.
 
 ## Fellowships
-* [Year Here](https://yearhere.org/) -为期一年的社会企业奖学金，以在伦敦建立组织.
+* [Year Here](https://yearhere.org/) -一年的社会企业研究金，用于在伦敦建立一个组织.
 * [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) -一年的研究金，目的是为个人配备解决社区问题的工具.
 
 ## Institutions 🏫
@@ -112,11 +112,12 @@ Coursera
 
 ### Videos 📽
 * [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) -关于社会企业家的斯科尔基金会视频.
-* [Muhammad Yunus's Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) -尤努斯（Yunus）创立了格莱en银行（Grameen Bank），这是社会企业的典范.
+* [Muhammad Yunus's Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) -尤努斯（Yunus）建立了格莱en银行（Grameen Bank），这是社会企业的典范.
 * [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I) -社会企业的快速和容易的概述.
 * [How social entrepreneurship will change the world](https://www.youtube.com/watch?v=KrQuGTvwl0s) -埃里卡·温格（Erica Wenger）关于社会企业的鼓舞人心的TEDx演讲.
 
 ### Movies 🎥
+
  | 标题| 年份| 注意事项
 |-------|------|-------|
  | 社会转变|  2018 | 四名年轻人横渡加拿大，采访社会企业家.  |
@@ -157,7 +158,7 @@ Coursera
 
 ### Consultants
 * [CSED](https://csedottawa.ca) -位于加拿大的非营利组织，帮助发展，创办和发展社会企业.
-* [Common Good Solutions](https://commongoodsolutions.ca) -位于加拿大的B-corp，帮助政府，社区组织和企业家.
+* [Common Good Solutions](https://commongoodsolutions.ca) -总部位于加拿大的B-corp，帮助政府，社区组织和企业家.
 
 ## People 🧑
 
@@ -216,7 +217,9 @@ Coursera
 ## [Contributing](https://github.com/RayBB/awesome-social-enterprise/blob/master/CONTRIBUTING.md)
 
 ### Todo
-*在添加这些书和文章之前，请先阅读以下内容：
+*在添加它们之前，请阅读以下书籍和文章：
   *肖恩·洛尼（Shaun Loney）的问题解决军
   * Teresa Chahine撰写的《社会企业家精神》
-  *萨拉·卡尔沃（Sara Calvo）开展的大规模教育，以实现可持续发展和社会企业的成长 
+  *萨拉·卡尔沃（Sara Calvo）进行的关于可持续发展和社会企业成长的大规模教育 
+
+<script async data-id="1fc566b4-8dda-4926-ad18-22bb88e42ecc" src="https://tinyads.io/e"></script>

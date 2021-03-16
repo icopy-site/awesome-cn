@@ -5,7 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-这是有关机器人技术的各种书籍，课程和其他资源的列表. 这是一种尝试，它希望将有用的资料集中在一个地方，供希望了解该领域的每个人使用.
+这是有关机器人技术的各种书籍，课程和其他资源的列表. 这是一种尝试，旨在将有用的资料收集在一个地方，以供每个想要进一步了解该领域的人使用.
 
 
 ### Courses ###
@@ -22,7 +22,7 @@
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **库尔塞拉**
 * [QUT Robot Academy](https://robotacademy.net.au/) ** QUT **
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) ** QUT **
-* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **有**
+* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **和**
 * [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) ** edX **
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **斯坦福大学**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **斯坦福大学**
@@ -63,13 +63,13 @@
 机器人模拟器
 
 [**ROS**](http://www.ros.org/)
-机器人操作系统（ROS）是用于编写机器人软件的灵活框架. 它是工具，库和约定的集合，旨在简化跨各种机器人平台创建复杂而强大的机器人行为的任务.
+机器人操作系统（ROS）是用于编写机器人软件的灵活框架. 它是工具，库和约定的集合，旨在简化跨各种机器人平台创建复杂且健壮的机器人行为的任务.
 
 [**ROS2**](https://index.ros.org/doc/ros2/)
-ROS2是ROS的新版本，它对设计进行了根本性的更改，并对旧ROS版本进行了改进.
+ROS2是ROS的新版本，它对设计进行了根本性的更改，并对旧版ROS进行了改进.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
- RobWork是C ++库的集合，用于仿真和控制机器人系统.  RobWork用于研究和教育以及实际的机器人应用.
+ RobWork是用于仿真和控制机器人系统的C ++库的集合.  RobWork用于研究和教育以及实际的机器人应用.
 
 [**MRPT**](http://www.mrpt.org/)
 移动机器人编程工具包为开发人员提供了可移植且经过测试的应用程序和库，涵盖了常见机器人研究领域中采用的数据结构和算法.
@@ -84,7 +84,7 @@ Java和Jython中的2D / 3D模拟器.
 通用室内/室外3D模拟器.
 
 [**Carmen**](http://carmen.sourceforge.net/)
- CARMEN是用于移动机器人控制的开源软件集合.  CARMEN是一款模块化软件，旨在提供基本的导航原语，包括：基座和传感器控制，记录，避障，定位，路径规划和地图绘制.
+ CARMEN是用于移动机器人控制的开源软件集合.  CARMEN是一款模块化软件，旨在提供基本的导航原语，包括：基座和传感器控制，测井，避障，定位，路径规划和地图绘制.
 
 [**Peekabot**](http://www.peekabot.org/)
  Peekabot是用C ++编写的用于机器人技术的实时网络3D可视化工具. 其目的是简化机器人专家每天所面临的可视化需求.
@@ -96,13 +96,13 @@ Java和Jython中的2D / 3D模拟器.
 机器人模拟器，3D，可用的源代码，Lua脚本，C / C ++，Python，Java，Matlab，URBI的API，2个物理引擎，完整的运动学求解器.
 
 [**Webots**](https://www.cyberbotics.com/overview)
-Webots是用于对移动机器人进行建模，编程和仿真的开发环境.
+Webots是一个用于对移动机器人进行建模，编程和仿真的开发环境.
 
 [**Drake**](http://drake.mit.edu/)
 非线性动力学系统的计划，控制和分析工具箱.
 
 [**Neurorobotics Platform (NRP)**](https://neurorobotics.net/)
-可通过Internet访问的仿真系统，可以仿真由尖峰神经网络控制的机器人.
+Internet上可访问的仿真系统，允许仿真由尖峰神经网络控制的机器人.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
 适用于机器人和传感器应用程序的免费软件工具
@@ -124,6 +124,9 @@ Webots是用于对移动机器人进行建模，编程和仿真的开发环境.
 
 [**RBDL**](https://github.com/rbdl/rbdl)
 开源（zlib）C ++ libray用于正向和反向动力学和运动学. 还支持触点和循环.
+
+[**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+开源Unity包，教程和其他资源的中央存储库，展示了如何使用Unity进行机器人模拟. 包括对ROS集成的新支持.
 
 ### Papers ###
 * [基于优化的控制器的设计和实现
@@ -184,17 +187,17 @@ DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga
 * [PAL Robotics](http://pal-robotics.com)
 * [Aldebaran Robotics](https://www.aldebaran.com/en) 的创造者 [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
 * [ABB Robotics](http://new.abb.com/products/robotics) 最大的工业机器人制造商
-* [KUKA Robotics](http://www.kuka-robotics.com/en/) 针对工厂自动化的工业机器人的主要制造商
+* [KUKA Robotics](http://www.kuka-robotics.com/en/) 面向工厂自动化的工业机器人的主要制造商
 * [FANUC](http://www.fanucamerica.com/) 具有最大安装基础的工业机器人制造商
 * [Rethink Robotics](http://www.rethinkrobotics.com/) 协作机器人的创造者 [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) 满足商业和工业需求的无人机行业领导者.
 * [The construct sim](http://www.theconstructsim.com/)  一个基于云的工具，用于构建现代的，面向未来的机器人仿真.
-* [Fetch Robotics](http://www.fetchrobotics.com/) 一家位于加利福尼亚州圣何塞的机器人初创公司，为电子商务实现和研发机器人的发展创造了未来.
-* [Festo Robotics](https://www.festo.com/) Festo以制造像动物一样运动的移动机器人而闻名，例如SmartBird，海j，蝴蝶和袋鼠等海鸥.
+* [Fetch Robotics](http://www.fetchrobotics.com/) 加利福尼亚州圣何塞市的一家机器人初创公司，为电子商务实现和研发机器人的发展创造了未来.
+* [Festo Robotics](https://www.festo.com/) Festo以制造像动物一样运动的移动机器人而闻名，例如SmartBird，海el，蝴蝶和袋鼠等海鸥.
 
 
 ### Misc ###
-* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) IEEE Spectrum杂志的机器人部分
+* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) IEEE Spectrum杂志的机器人技术部分
 * [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) 麻省理工学院技术评论杂志的机器人部分
 * [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
@@ -205,7 +208,7 @@ DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 * [Linorobot](https://linorobot.org/) 一套兼容DIY ROS的机器人
-* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) -解决和可视化网络中的六足机器人逆运动学和步态
+* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) -解决和可视化六足机器人在网络中的逆运动学和步态
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) -Python中各种机器人算法的实现
 
 ### Related awesome lists ###

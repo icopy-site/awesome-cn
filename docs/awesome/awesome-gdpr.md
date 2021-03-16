@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/bakke92/awesome-gdpr/master/GDPR.png" align="right" width="300">](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
-通用数据保护条例（GDPR）是关于欧盟和欧洲经济区内所有个人的数据保护和隐私的条例. 该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
+通用数据保护条例（GDPR）是针对欧盟和欧洲经济区内所有个人的数据保护和隐私权的条例. 该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
 
 
 ## Legal text
@@ -53,26 +53,27 @@
 ## Organisations / Projects
 * [Electronic Frontier Foundation](https://www.eff.org/) -非营利组织捍卫数字隐私，言论自由和创新.
 * [International Association of Privacy Professionals](https://iapp.org/) -隐私专业人员的资源.
-* [Privacy International](https://www.privacyinternational.org) -挑战政府和公司的慈善机构，他们想了解有关个人，团体和整个社会的所有知识.
+* [Privacy International](https://www.privacyinternational.org) -慈善机构挑战了想要了解个人，团体和整个社会的一切的政府和公司.
 * [NOYB](https://noyb.eu/) -将重要问题引起DPA注意，在民事法院执行法律或直接与公司联系的组织.
 * [GDPR.eu](https://gdpr.eu/) -研究GDPR的组织和个人的资源（非官方网站）.
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) -有关了解和改善隐私和安全性可用性的研究.
 * [EPIC](https://epic.org/) -电子隐私信息中心.
 * [Future of Privacy Forum](https://fpf.org/) -促进隐私权领导和奖学金的催化剂，推进有原则的数据实践以支持新兴技术.
-* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) -引导网络发挥其全部潜力.
+* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) -引领网络发挥其全部潜力.
 
 ## Publications
 * [GDPR Today](https://www.gdprtoday.org/) -来自开放权利小组的隐私新闻.
 * [Spread Privacy](https://spreadprivacy.com/) -DuckDuckGo博客.
 * [Freedom To Tinker](https://freedom-to-tinker.com/) -普林斯顿大学CITP博客，该中心是研究公共生活中的数字技术的研究中心.
 * [pdpEcho](https://pdpecho.com/) -由Gabriela Zanfir-Fortuna提供的有关个人数据保护和隐私的所有内容.
-* [GDPRhub](https://gdprhub.eu/) -免费开放的Wiki，任何人都可以在欧洲找到并分享GDPR见解.
+* [GDPRhub](https://gdprhub.eu/) -免费开放的Wiki，任何人都可以在欧洲找到并分享GDPR的见解.
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
 * [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme)
 * [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme)
+* [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
