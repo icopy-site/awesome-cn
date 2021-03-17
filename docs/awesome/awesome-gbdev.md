@@ -45,6 +45,10 @@
   - [Demos](#demos)
 - [Reverse Engineering](#reverse-engineering)
   - [Game Disassemblies](#game-disassemblies)
+- [Game Boy Camera](#game-boy-camera)
+  - [Retrieving Images](#retrieving-images)
+  - [Changing the camera's behavior](#changing-the-cameras-behavior)
+  - [Post-processing](#post-processing)
 - [Related projects](#related-projects)
   - [Directories](#directories)
   - [Websites](#websites)
@@ -244,7 +248,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Gambatte](https://github.com/sinamas/gambatte) -跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) -整个Game Boy的可播放的电路级仿真.
 - [gbe-plus](https://github.com/shonumi/gbe-plus) -最近重写的仿真器，它在保留晦涩的附件（例如IR链接，移动网络GB，条形码男孩，GB打印机，本地和在线GB串行链接电缆等）上付出了巨大的努力
-- [Emulicious](https://emulicious.net/) -提供准确的仿真，并包括强大的工具，例如通过ASM和C对ASM和C进行探查器和源代码级调试 [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
+- [Emulicious](https://emulicious.net/) - Provides accurate emulation and includes powerful tools such as a profiler and source-level debugging for ASM and C via a [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
 
 [Complete list of open source emulators](EMULATORS.md)
 
@@ -259,7 +263,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy Development Kit的一小部分资源和工具.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) -一种用于Game Boy编程的IDE，使用一种类似于C的语言称为GBL，具有许多其他功能，如图块和地图提取，WLA-DX组装等.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 - [mgbdis](https://github.com/mattcurrie/mgbdis) -具有RGBDS兼容输出的Game Boy ROM拆装器.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) -用于检查和修改ROM​​标头数据（包括徽标）的在线工具.
 - [romusage](https://github.com/bbbbbr/romusage)  -命令行工具，用于从.map，.noi或ihx文件估计Game Boy ROM的使用（可用空间）. 与GBDK-2020和RGBDS一起使用.
@@ -474,7 +478,32 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Tetris](https://github.com/osnr/tetris) -基于Jeff Frohwein的原始分解.
 - [FX Hammer](https://github.com/DevEd2/FXHammer-Disasm)
 - [Harvest Moon 3](https://github.com/sanqui/hm3)
-- [RedPlusPlus](https://github.com/TheFakeMateo/RedPlusPlus)  -升级至神奇宝贝Red. 修复了多个错误并添加了许多新功能.
+
+## Game Boy Camera
+
+### Retrieving images
+
+游戏男孩打印机仿真（例如，从相机中检索图像）：
+
+- [Arduino Gameboy Printer Emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator) -通过游戏机链接电缆模拟游戏机打印机. 
+- [ESP8266 Game Boy Printer](https://github.com/applefreak/esp8266-gameboy-printer) -一种模仿Gameboy打印机的设备，可让您使用由ESP8266提供支持的WiFi检索图像.
+- [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator) -GameBoy打印机仿真器，可通过WiFi连接提供接收到的数据.
+- [Game Boy WiFi Printer - D1 Mini Shield](https://github.com/cristofercruz/gbp-esp-shield-pcb) -Game Boy打印机接口护板，用于D1 mini / mini Pro ESP8266板. 
+- [Game Boy Printer Sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) -游戏男孩和打印机之间的嗅探数据包通信.
+
+### Changing the camera's behavior
+
+改善和/或操纵相机质量和行为的方法：
+
+- [Game Boy Camera Canon EF Lens Mount](http://ekeler.com/game-boy-camera-canon-ef-mount)
+- [Game Boy Camera to Canon Lens mount](https://www.thingiverse.com/thing:4337362) -基于上述内容.
+- [game-boy-camera-frame-replacer](https://github.com/cristofercruz/game-boy-camera-frame-replacer) -处理相机的ROM以包含自定义帧
+
+### Post processing
+
+- [Game Boy Printer Paper Simulation](https://github.com/mofosyne/GameboyPrinterPaperSimulation) -生成数字印刷图像的印刷图像.
+- [Game Boy Printer Web](https://github.com/HerrZatacke/gb-printer-web) -适用于Game Boy相机的Gallery应用：从导出或墨盒转储中导入图片，并选择调色板.
+- [lbcam](https://lbcam.xyz/) -用网络摄像头模拟Game Boy Camera.
 
 ## Related projects
 
@@ -486,7 +515,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Ostrich](https://github.com/PumpMagic/ostrich) -用Swift编写的Game Boy音响系统玩家.
 - [mGB](https://github.com/trash80/mGB) -Game Boy盒带程序，使Game Boy可以充当受MIDI支持的完整声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) -演示使用两个未公开记录的Game Boy Color寄存器，分别称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
-- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
+- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) -基于Arduino的Game Boy弹药筒读取器和写入器.
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -Brainf * ck口译员.
 - [gbfk](https://github.com/elseyf/gbfk) -Brainf * ck解释器，带有输入.
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) -修补程序，用于在原始硬件上播放时为Game Boy游戏添加保存状态支持.
@@ -501,7 +530,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
  -在2017年制作Game Boy游戏：“ Sheep It！” 事后[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
 - [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是很显然，有些公司设法利用了支票系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) -用于与LSDj保存格式（.sav），歌曲文件（.lsdsng）等交互的实用程序库.
-- [lsdpatch](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+- [lsdpatch](https://github.com/jkotlinski/lsdpatch) -用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) -使用STAT中断进行有趣的视频操作的一些小实验.
 - [gbos](https://github.com/ekimekim/gbos) -Game Boy的基本操作系统.
 - [Work Master OS](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8&sandbox=1) -俄罗斯多任务操作系统.

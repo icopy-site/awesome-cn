@@ -65,7 +65,6 @@
 * [SRE vs. DevOps vs. Cloud Native: The Server Cage Match](https://devops.com/sre-devops-cloud-native-server-cage-match/)
 * [SRE: What’s The Big Idea?](https://youtu.be/8dfYLRAWn_c)
 * [Building the SRE Culture at LinkedIn](https://engineering.linkedin.com/blog/2017/05/building-the-sre-culture-at-linkedin)
-* [SRE white paper by RackN](https://rackn.com/sre-white-paper/)
 * [Podcast #111 – SRE: Occasionally Maintaining Infrastructure That You Hate](https://stackoverflow.blog/2017/06/12/podcast-111-sre-occasionally-maintaining-infrastructure-hate/)
 * [Splicing SRE DNA Sequences in the Biggest Software Company on the Planet](https://www.usenix.org/conference/srecon16europe/program/presentation/splicing-sre-dna-sequences-biggest-software-company)
 * [Why should your app get SRE support? - CRE life lessons](https://cloudplatform.googleblog.com/2017/06/why-should-your-app-get-SRE-support-CRE-life-lessons.html)
@@ -158,7 +157,6 @@
 * [Antifragile Systems and Teams](http://www.oreilly.com/webops-perf/free/antifragile-systems-and-teams.csp)
 * [How to Monitoring the SRE Golden Signals (E-Book)](https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook/)
 * [Incident Management for Operations](http://shop.oreilly.com/product/0636920036159.do)
-* [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
 * [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 * [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
 * [What is SRE?](https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/)
@@ -365,7 +363,6 @@
 
 
 ## Service Level Agreement
-* [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
 * [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues)
 * [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 * [Making a point with SLAs](https://blog.serverdensity.com/making-a-point-with-slas/)
@@ -457,7 +454,6 @@
 * [rachelbythebay](https://rachelbythebay.com/w/) -技术博客文章.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) -有关SRE，软件工程和微服务的各种博客文章.
 * [SysAdvent](https://sysadvent.blogspot.com) -12月的每一天都有一篇文章，到25日为止.
-* [Operations for Developers](http://some.ops4devs.info/) -供开发人员增强其操作技能的资源集合.
 * [Stephen Thorne's Blog](https://medium.com/@jerub) -关于SRE的博客文章
 * [Increment](https://increment.com/) -有关团队如何大规模构建和操作软件系统的数字杂志.
 * [GopherSRE](http://www.gophersre.com/) -有关Go和SRE的博客文章.
@@ -481,7 +477,6 @@
 * [SRE Tech Talks](https://developers.google.com/events/sre/) -Google主持的SRE讲座.
 * [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) -应对Web规模系统可靠性挑战的个人的团体.
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) -一群热衷于可靠，高性能的软件系统的人.
-* [Front Range Site Reliability Engineering](https://www.meetup.com/site-reliability/) -在Boulder / Denver / Golden / DTC / FoCo地区的SRE聚会.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) -在慕尼黑啤酒节城市的更大区域举行SRE聚会.
 * [ADDO - All Day DevOps](https://www.alldaydevops.com/) -24小时的会议，完全在线且免费.
 * [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) -在光影之城的SRE聚会.
