@@ -67,6 +67,7 @@
 ### Functional
 
 * [Functional Jobs](https://www.functionaljobs.com/) -功能程序员的工作板
+* [Functional Works](https://functional.works-hub.com/) -发现本地和远程功能编程的机会
 
 ### Go
 

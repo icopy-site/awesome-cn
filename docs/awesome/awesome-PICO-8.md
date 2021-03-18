@@ -9,7 +9,7 @@
 
  精选的PICO-8资源，教程，工具等. 受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 你可能还喜欢 [awesome-lua](https://github.com/LewisJEllis/awesome-lua) 和 [awesome-love2d](https://github.com/JanWerder/awesome-love2d).
 
-  PICO-8是一款幻想游戏机，用于制作，共享和玩小游戏和其他计算机程序. 当您打开它时，机器会向您打个招呼的shell，您可以输入以下内容的子集： [Lua](https://www.lua.org/) 命令并提供简单的内置工具来创建自己的盒带.
+  PICO-8是一款幻想游戏机，用于制作，共享和玩小游戏和其他计算机程序. 当您打开它时，机器会向您打个招呼的shell，您可以输入以下内容的一部分 [Lua](https://www.lua.org/) 命令并提供简单的内置工具来创建自己的盒带.
 
 
 
@@ -26,14 +26,14 @@
 - [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 - [#pico8 on Freenode](https://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
-- [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
+- [Pico-8 Wiki](https://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack Team](https://slofile.com/slack/pico-8) -PICO-8闲聊.
 - [Discord Server](https://discord.gg/EwQ86eq) -PICO-8 Discord聊天.
 
 ## DemoScene
 
 - [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
-- [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
+- [Pico-8 demos on Pouet](https://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
 - [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
 - [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
 
@@ -84,7 +84,8 @@
 - [midi2pico](https://github.com/gamax92/midi2pico) -MIDI到PICO-8转换器.
 - [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) -一个简单干净的模板，可修复全屏，鼠标问题，并且看起来不错.
 - [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) -用于生成填充模式的简单帮助器工具.
-- [Depict](https://bikibird.itch.io/depict) -使用PICO-8颜色将图像转换为抖动图像，并将其减小为最大尺寸128 x 128. 
+- [Depict](https://bikibird.itch.io/depict) -使用PICO-8颜色将图像转换为抖动图像，并将其减小为最大尺寸128 x 128.
+- [picoCAD](https://johanpeitz.itch.io/picocad) -一个PICO-8程序，用于构建和构造lowpoly 3D模型.
 
 ## Text Editors Language Support
 
@@ -117,11 +118,6 @@
 ## Articles & Posts
 
 - [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
-- [Clear Code](http://blog.jvscott.net/post/128051478244/clear-code) -有关如何编写更好的pico-8代码的3部分系列.
-
-## Podcasts
-
-- [pico chat](http://pico.electrobureau.com/) -关于Pico-8和其他小型游戏的一口大小的播客.
 
 ## Talks
 

@@ -237,7 +237,7 @@
 - [WhatsApp](https://www.whatsapp.com/download/) -官方的WhatsApp应用程序.
 - [CatLight](https://catlight.io) -构建状态通知程序.
 - [Automint](http://automint.in) -汽车业务CRM.
-- [Discord](https://discordapp.com) -游戏玩家的语音和文字聊天.
+- [Discord](https://discord.com) -语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) -游戏编辑器，用于为Cocos2D-x创建网络游戏和本机游戏.
 - [Inkdrop](https://www.inkdrop.info) -黑客Markdown笔记本.
 - [Exodus](https://www.exodus.io) -保护，管理和交换比特币和以太坊等区块链资产.

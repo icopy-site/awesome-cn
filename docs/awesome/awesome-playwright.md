@@ -17,8 +17,9 @@
 - [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) -Playwright的浏览器版本可在Amazon Linux 2上运行.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) -GitHub动作，用于安装所有必需的依赖项.
 - [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) -Pytest插件，用于将Playwright页面与固定装置一起使用.
-- [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) -用于在Heroku Dyno上运行Playwright的Heroku buildpack.
+- [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) -Heroku buildpack，用于在Heroku Dyno上运行Playwright.
 - [playwright-test](https://github.com/microsoft/playwright-test) -官方与Playwright建立跨浏览器的端到端测试套件.
+- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) -Playwright的自定义命令，用于使用axe-core运行辅助功能（a11y）检查.
 
 ## Language Support
 
@@ -33,7 +34,7 @@
 - [Try Playwright](https://try.playwright.tech) -用于运行Playwright测试的交互式游乐场.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -通过选择Shadow DOM根目录来扩展选择器引擎.
 - [playwright-video](https://github.com/qawolf/playwright-video) -记录您的Chromium浏览器会话.
-- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) -围绕Playwright的API封装.
+- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) -围绕Playwright的Fluent API包装器.
 - [headless-testing](https://headlesstesting.com) -将您的Playwright测试与云中的浏览器连接.
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) -Jest的实用程序功能可以执行基于期望的检查.
 - [eslint-plugin-jest-playwright](https://github.com/playwright-community/eslint-plugin-jest-playwright) -ESLint全局变量，用于Jest Playwright.
@@ -46,7 +47,7 @@
 - [playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) -结合测试流行站点的Jest Playwright工具示例.
 - [playwright-demos](https://github.com/nmanikiran/playwright-demos) -用于抓取和UI测试/自动测试工作流程的Playwright演示.
 - [VS Code](https://github.com/microsoft/vscode) -Playwright用于在其Web版本上运行跨浏览器测试.
-- [TypeScript](https://github.com/microsoft/TypeScript) -Playwright用于跨浏览器测试typescript.js.
+- [TypeScript](https://github.com/microsoft/TypeScript) -在所有浏览器中都使用Playwright测试typescript.js.
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) -Playwright用于跨浏览器运行基准测试.
 - [Blockstack](https://github.com/blockstack/ux) -Playwright用于运行跨浏览器的UI测试.
 - [xterm.js](https://github.com/xtermjs/xterm.js) -Playwright用于运行跨浏览器集成测试.
@@ -59,4 +60,4 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/master/CONTRIBUTING.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/mxschmitt/awesome-playwright/blob/master/CONTRIBUTING.md) 第一的.

@@ -145,7 +145,7 @@
 * [canjs](https://github.com/canjs/canjs) -可以做JS，更好，更快，更容易.
 * [react](https://facebook.github.io/react/)  -用于构建用户界面的库. 它是声明性的，高效的并且非常灵活. 与虚拟DOM一起使用.
 * [hyperapp](https://github.com/hyperapp/hyperapp) -用于构建前端应用程序的1kb JavaScript库.
-* [preact](https://github.com/developit/preact)  -具有相同ES6 API的快速3kb React替代方案. 组件和虚拟DOM.
+* [preact](https://github.com/developit/preact)  -使用相同的ES6 API的快速3kb React替代方案. 组件和虚拟DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) -使用JavaScript构建真正的本机跨平台iOS和Android应用程序.
 * [react-native](https://github.com/facebook/react-native) -使用React构建本机应用程序的框架.
 * [riot](https://github.com/riot/riot) -类似React的库，但体积很小.
@@ -198,7 +198,7 @@
 * [Pug](https://github.com/pugjs/pug)  -强大，优雅，功能丰富的Node.js模板引擎.  （原名翡翠）
 * [EJS](https://github.com/mde/ejs) -有效的JavaScript模板.
 * [xtemplate](https://github.com/xtemplate/xtemplate) -用于节点和浏览器的可扩展模板引擎库
-* [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
+* [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量级，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
 * [swig](https://github.com/paularmstrong/swig) -（已存档）一个简单，功能强大且可扩展的Node.js和基于浏览器的JavaScript模板引擎.
 * [EHTML](https://github.com/Guseyn/EHTML) -HTML框架，该框架不允许您编写JavaScript代码.
 
@@ -318,7 +318,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) -强大的CSV库，支持解析CSV文件/字符串以及导出到CSV.
-* [jBinary](https://github.com/jDataView/jBinary) -使用声明性语法描述文件类型和数据结构的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
+* [jBinary](https://github.com/jDataView/jBinary) -具有用于描述文件类型和数据结构的声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -JavaScript PDF生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) -JavaScript中的PDF阅读器.
@@ -469,6 +469,7 @@
 * [DOMPurify](https://github.com/cure53/DOMPurify) -用于HTML，MathML和SVG的仅DOM，超快速，超耐性XSS消毒剂.
 * [js-xss](https://github.com/leizongmin/js-xss) -使用白名单指定的配置对不受信任的HTML进行清理（以防止XSS）.
 * [xss-filters](https://github.com/yahoo/xss-filters) -Yahoo提供的安全XSS过滤器.
+* [sanitize-html](https://github.com/apostrophecms/sanitize-html) -sanitize-html提供了带有清晰API的简单HTML清理器.
 
 
 ## Log
@@ -540,14 +541,14 @@
 ## Code highlighting
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) -JavaScript语法荧光笔.
-* [PrismJS](https://github.com/PrismJS/prism) -轻巧，健壮，优雅的语法高亮显示.
+* [PrismJS](https://github.com/PrismJS/prism) -轻巧，健壮，优雅的语法突出显示.
 
 
 ## Loading Status
 *用于指示负载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) -创建Google Material Design进度线性条.
-* [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
+* [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度栏.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
@@ -647,7 +648,7 @@
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) -快速且功能齐全的自动完成库.
 * [tag-it](https://github.com/aehlke/tag-it) -一个jQuery UI插件，用于处理多标签字段以及标签建议/自动完成功能.
-* [At.js](https://github.com/ichord/At.js) -向您的应用程序添加GitHub，例如提及自动完成功能.
+* [At.js](https://github.com/ichord/At.js) -将GitHub提及提及自动完成功能添加到您的应用程序.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) -用于HTML5占位符属性的JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) -通过CSS3效果使输入字段的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
@@ -679,7 +680,7 @@
 * [flow.js](https://github.com/flowjs/flow.js) -一个JavaScript库，可通过HTML5 File API提供多个同时，稳定，容错和可恢复/可重启的文件上传.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) -带有进度条，拖放，直接到S3上传的多文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  -一组用于处理文件的JavaScript工具. 多重上传，拖放和分块文件上传. 图片：通过EXIF裁剪，调整大小和自动定向.
-* [plupload](https://github.com/moxiecode/plupload) -一种用于处理文件上传的JavaScript API，它支持多种文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
+* [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
 * [filepond](https://github.com/pqina/filepond) -一个JavaScript库，可以上传您扔给它的任何内容，优化图像以加快上传速度，并提供出色的，可访问的，柔滑的流畅用户体验.
 
 ### Other
@@ -802,7 +803,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有出色的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -网页上的HTML5视频播放器
  <https://flowplayer.org/>

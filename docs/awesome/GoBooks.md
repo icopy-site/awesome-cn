@@ -28,7 +28,7 @@
 
 <img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>
 
-这本随书包含最初专门为此活动编写的材料，以及Google＆Go团队在知识共享署名3.0许可下的内容以及在BSD许可下许可的代码.
+这本随书包含最初专门为此活动编写的材料，以及Google＆Go团队在知识共享署名3.0许可下的内容，以及在BSD许可下获得许可的代码.
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
@@ -92,7 +92,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <a href="http://shop.oreilly.com/product/0636920046516.do"><img src="http://akamaicovers.oreilly.com/images/0636920046516/lrg.jpg" width="120px"/></a>
 
-本动手指南非常适合熟悉编程基础知识的初学者，它简单介绍了Google的通用编程语言Go. 作者Caleb Doxsey在每一章中都提供了分步说明和练习，以介绍该语言的核心功能，以帮助您练习所学的知识.
+本动手指南非常适合熟悉编程基础知识的初学者，它简单介绍了Google的通用编程语言Go. 作者Caleb Doxsey在每一章中都提供了分步说明和练习，以介绍该语言的核心功能，以帮助您练习所学知识.
 
 ### [Get Programming with Go](https://www.manning.com/books/get-programming-with-go?utm_source=nathany&utm_medium=affiliate&utm_campaign=book_youngman_get_9_17_18&a_aid=nathany&a_bid=53f68821)
 
@@ -154,15 +154,15 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
 
-Dive into key topics in network architecture and Go, such as data serialization, application level protocols, character sets and encodings. This book covers network architecture and gives an overview of the Go language as a primer, covering the latest Go release.
+深入研究网络体系结构和Go中的关键主题，例如数据序列化，应用程序级别协议，字符集和编码. 本书涵盖了网络体系结构，并概述了Go语言作为入门知识，涵盖了最新的Go版本.
 
-除了基础知识外，Go的网络编程还涵盖了关键的网络和安全问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
+除了基础知识之外，Go的网络编程还涵盖了关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
 
-本书将带您了解并发的历史，Go的使用方式，Go与其他语言的不同之处以及Go并发核心的功能和结构. 本书的每一步，都将提供真实，可用的示例，并详细说明所使用的方法. 最终，您将在Go中设计一个安全，数据一致，高性能的并发应用程序感到自在.
+This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
@@ -206,7 +206,7 @@ Dive into key topics in network architecture and Go, such as data serialization,
 
 Go中的动手依赖注入为您带来了一段旅程，教会您如何使用Go中可用的各种方法重构现有代码以采用依赖注入（DI）.
 
-本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，而另一些是非常规的，例如即时注入或配置注入. 每种方法都将详细说明，重点在于它们的优点和缺点，然后逐步说明如何应用该方法. 通过大量示例，您将学习如何利用DI将代码转换为简单灵活的代码.
+本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，而另一些是非常规的，例如即时注入或配置注入. 每种方法都会详细说明，重点在于它们的优点和缺点，然后逐步说明如何应用该方法. 通过大量示例，您将学习如何利用DI将代码转换为简单灵活的代码.
 
 Go中的动手依赖注入采用务实的方法，并着重于代码，用户体验以及如何通过增量更改获得长期利益.
 
@@ -247,7 +247,7 @@ code.
 
 <img src="http://akamaicovers.oreilly.com/images/9781783981304/lrg.jpg" width="120px"/>
 
-本书将带您了解使用惯用的REST实践设计，构建和部署Web服务的最重要方面，重点是速度，安全性和灵活性. 首先，您将使用HTTP包在Go中构建第一个API. 您将研究设计和构建应用程序，包括流行的设计结构，例如Model-View-Controller. 您还将了解将代码部署到登台和开发的方法. 最后，您将了解如何使用Go中的安全功能来防止SQL注入和敏感数据泄露.
+This book will take you through the most important aspects of designing, building, and deploying a web service utilizing idiomatic REST practices with a focus on speed, security, and flexibility. You will begin by building your first API in Go using the HTTP package. You will look at designing and building your application including popular design structures like Model-View-Controller. You will also understand methods for deploying code to staging and development. Finally, you will see how the security features in Go can be used for protection against SQL injection, and sensitive data compromise.
 
 ### [Level Up Your Web Apps With Go](https://learnable.com/books/level-up-your-web-apps-with-go)
 
@@ -255,7 +255,7 @@ code.
 
 本书为您提供了在Web应用程序中使用Go所需的全部功能. 您将学习基本概念-语言结构，标准库和Go工具-然后处理并发概念，测试方法和包结构等更高级的功能.
 
-At each step, you’ll get advice for better coding in Go. You’ll see how to structure projects, how to use concurrency effectively, and best practices for testing—as well as many other hints and tips gleaned from real world experience of developing web applications with Go.
+在每个步骤中，您都会获得有关在Go中进行更好的编码的建议. 您将看到如何构建项目，如何有效地使用并发以及进行测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
@@ -324,6 +324,14 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 本书是一本动手指南，其中包含许多有趣的DIY项目，它们将向您展示如何构建嵌入式应用程序. 您将学习如何对传感器进行编程，以及如何与Arduino UNO和Arduino Nano IoT 33等微控制器一起使用.接下来的章节将向您展示如何使用各种流行的设备（例如LED，7段）开发多个真实世界的嵌入式项目.显示和计时器. 接下来，您将继续构建交互式原型，例如交通信号灯系统，非接触式洗手计时器等. 随着您的前进，您将创建天气警报系统的IoT原型，并将这些警报显示在TinyGo WASM仪表板上. 最后，您将构建一个家庭自动化项目，该项目在TinyGo WASM仪表板上显示统计信息.
 
 在这本微控制器书的最后，您将具备使用TinyGo的功能构建实际嵌入式项目所需的技能.
+
+### [Mastering Go, 2nd edition](https://www.packtpub.com/programming/mastering-go-second-edition)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51qLY7bIGAL._SX403_BO1,204,203,200_.jpg" width="120px"/>
+
+本书面向希望将Go知识提升到更高水平的业余和中级Go程序员，以及希望学习Go而又无需再次学习`for`循环的工作原理的其他编程语言的资深开发人员.
+
+该书介绍了相对较小但完整的Go程序，这些程序说明了所介绍的概念. 这有两个主要优点：首先，当您尝试学习一种技术时，您不必查看无尽的代码清单；其次，您可以在创建自己的应用程序和实用程序时将此代码用作起点.
 
 Resources
 ====
