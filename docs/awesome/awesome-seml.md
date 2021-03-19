@@ -70,7 +70,7 @@
 如何在生产环境中部署和操作模型.
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
-- [Building Continuous Integration Services for Machine Learning](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdfhttp://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf) 
+- [Building Continuous Integration Services for Machine Learning](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf) 
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 
@@ -90,7 +90,7 @@
 
 ## Social Aspects
 
-如何组织团队和项目以确保有效的协作和问责制.
+如何组织团队和项目，以确保有效的协作和问责制.
 
 - [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf) 
 - [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
@@ -109,10 +109,10 @@
 
 工具可以使您的生活更轻松.
 
-我们仅共享提供大量免费研究软件包的开源工具或商业平台.
+我们仅共享开源工具或提供大量免费研究软件包的商业平台.
 
 - [Airflow](https://airflow.apache.org/) -以编程方式创作，安排和监视工作流程.
-- [Archai](https://github.com/microsoft/archai) -神经结构搜索.
+- [Archai](https://github.com/microsoft/archai) -神经体系结构搜索.
 - [Data Version Control (DVC)](https://dvc.org/) -DVC是数据和ML实验管理工具.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) -强大的可视化功能有助于理解机器学习数据集.
 - [FairLearn](https://fairlearn.github.io/) -评估和改善机器学习模型公平性的工具包.
@@ -120,13 +120,13 @@
 - [Great Expectations](https://github.com/great-expectations/great_expectations) -与管道集成的数据验证和测试.
 - [HParams](https://github.com/PetrochukM/HParams) -针对机器学习项目的配置管理的周到方法.
 - [Kubeflow](https://www.kubeflow.org/) -为想要构建和试验ML管道的数据科学家提供的平台.
-- [Label Studio](https://github.com/heartexlabs/label-studio) -具有标准化输出格式的多类型数据标记和注释工具.
+- [Label Studio](https://github.com/heartexlabs/label-studio) -具有标准化输出格式的多类型数据标签和注释工具.
 - [LiFT](https://github.com/linkedin/LiFT) -Linkedin公平性工具包.
 - [MLFlow](https://mlflow.org/) -管理ML生命周期，包括实验，部署和中央模型注册表.
-- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)  -简化并自动化模型卡的生成； 用于模型文档.
+- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)  -简化并自动生成模型卡； 用于模型文档.
 - [Neptune.ai](https://neptune.ai/) -实验跟踪工具将组织和协作带入了数据科学项目.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -类似于Sklearn的框架，用于深度学习项目中的超参数调整和AutoML.
-- [OpenML](https://www.openml.org) -开展包容性运动，以建立一个开放的，有组织的在线机器学习生态系统.
+- [OpenML](https://www.openml.org) -一项包容性运动，旨在建立一个开放的，有组织的在线机器学习生态系统.
 - [Robustness Metrics](https://github.com/google-research/robustness_metrics) -轻量级模块，用于评估分类模型的鲁棒性.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) -Spark的ML库，其中包含常见的学习算法和实用程序.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) -TensorFlow的可视化工具包.

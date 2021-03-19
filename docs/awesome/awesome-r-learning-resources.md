@@ -60,7 +60,7 @@
 
 ### Joining Data
 
-- [Joining Data in R with dplyr](https://rpubs.com/williamsurles/293454)  -DataCamp上的“使用dplyr连接R中的数据”中的课程笔记. 主题包括变异联接，过滤联接和设置操作，组装数据，高级联接. 作者：威廉·萨尔斯（William Surles）.
+- [Joining Data in R with dplyr](https://rpubs.com/williamsurles/293454)  -DataCamp上的“使用dplyr连接R中的数据”中的课程笔记. 主题包括变异联接，过滤联接和设置操作，组装数据，高级联接. 作者：William Surles.
 
 ### Math
 
@@ -162,7 +162,7 @@
 - [Learning Statistics with R](https://learningstatisticswithr.com/)  -使用R学习统计涵盖了入门统计课程的内容，这通常是针对本科心理学学生的课程，重点是R统计软件的使用. 作者：丹妮尔·纳瓦罗（Danielle Navarro）.
 - [Mastering Shiny](https://mastering-shiny.org/)  -这是Mastering Shiny的在线版本，目前正在早期开发中，计划于2020年下半年发布. 这本书是对 [Shiny online documentation](https://shiny.rstudio.com/) 旨在帮助应用程序作者更深入地了解Shiny. 作者：哈德利·威克姆（Hadley Wickham）.
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with R as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with R. Author: Bruno Rodrigues.
-- [Practical Data Science with R](https://github.com/louisville-rstats/ebooks/blob/master/Practical%20Data%20Science%20with%20R%20-%20Nina%20Zumel%20John%20Mount.pdf)  -本书的目的是从务实，面向实践的角度介绍数据科学. 本书着重于数据科学的过程，从项目的计划阶段到数据收集和探索，再到建模，最后到部署和结果共享. 作者：妮娜·祖梅尔（Nina Zumel）和约翰·芒特（John Mount）.
+- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r-second-edition#toc)  -本书的目的是从务实，面向实践的角度介绍数据科学. 本书着重于数据科学的过程，从项目的计划阶段到数据收集和探索，再到建模，最后到部署和结果共享. 作者：妮娜·祖梅尔（Nina Zumel）和约翰·芒特（John Mount）.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)  -本文的重点是回归和方差分析的实践. 目的是了解可用的方法，更重要的是何时应使用这些方法. 作者：朱利安·法拉威（Julian Faraway）.
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) -该系列练习回顾了作者演讲中讨论的一些内容，并介绍了有关在R中处理数据的其他一些基本概念.作者：Charles DiMaggio，PhD.
 - [Quantitative Politics with R](http://qpolr.com/qpolr.pdf) -本书的目的是为R提供一个易于访问的R简介.
@@ -177,7 +177,7 @@
 - [Text Mining with R](https://www.tidytextmining.com/) -本书介绍了使用tidytext包和R中的其他整洁工具进行文本挖掘的方法.作者：Julia Silge和David Robinson.
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) -本书适合那些希望学习R语言开发软件的人.作者：Norman Matloff.
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) -《 R之书：编程和统计学第一门课程》的目的是提供相对温和但内容丰富的统计软件环境R知识，以及一些常见的统计分析，以便读者可能有扎实的基础，最终可以成为专家. [Exercise solutions](https://nostarch.com/bookofr) 作者：蒂尔曼·戴维斯（Tilman M. Davies）.
-- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) -关于R中的故障点，奇数，陷阱和故障的书.作者：帕特里克·伯恩斯（Patrick Burns）.
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) -关于R中的故障点，奇数，陷阱和故障的书.作者：Patrick Burns.
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) -R语言作者编写的R简介.
 - [Tidy Modeling with R](https://www.tmwr.org/) -本书是使用R编程语言的新软件集进行模型构建的指南.
 
@@ -186,7 +186,7 @@
 &gt;实践社区是一群对他们所做的事情有关注或激情并在与他们定期互动时学习如何做得更好的人.
 
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) -TidyTuesday是针对R生态系统的每周数据项目，重点在于理解如何汇总和排列数据以制作有意义的图表.
-- [R for Data Science (R4DS) Online Learning Community](https://www.rfordatasci.com/)  -由Jessie Mostipak（@kierisi）创立，旨在为学习者和导师提供一个支持性和响应性的在线空间，以供Garrett Grolemund和Hadley Wickham撰写《 R for Data Science》一书. 成长为各个技能水平的R学习者社区，共同努力以提高他们的技能.
+- [R for Data Science (R4DS) Online Learning Community](https://www.rfordatasci.com/)  -由Jessie Mostipak（@kierisi）创立，旨在为学习者和导师创建一个支持性和响应性的在线空间，以供Garrett Grolemund和Hadley Wickham通过R for Data Science本书来收集和工作. 成长为各个技能水平的R学习者社区，共同努力以提高他们的技能.
 
 ## Podcasts 
 
@@ -204,13 +204,13 @@
 - [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)  -主题包括EDA图形化，数据处理，动画映射，可视化，文本挖掘，时间序列，预测，回归，自举，软件包开发，网络图，ANOVA，JSON，模拟，生存分析和测度. 点击 [here](https://github.com/dgrtwo/data-screencasts/tree/master/screencast-annotations) 有关详细的TidyTuesday截屏注释.
 - [Dean Attali](https://www.youtube.com/c/DAattali/videos) -Shiny，包括一些调试Shiny的视频.
 - [Dragonfly Statistics](https://www.youtube.com/c/DragonflyStatistics/videoss) -主题包括数值计算，生成随机游动，马尔可夫链，对分类变量进行编码，概率，相关图，特征工程，时间序列，二进制分类器，模型，数据表，混淆矩阵，机器学习，地理编码，摘要统计和模拟.
-- [IDG TECHtalk](https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv) -使用R播放列表进行更多操作，包括有关闪亮的data.table，获取API数据，将Git和Github与R一起使用，编写自己的程序包，在R代码中运行Python，RStudio插件和键盘快捷键，仪表板和Flexdashboard的教程.
+- [IDG TECHtalk](https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv) -“用R做更多”播放列表包括有关闪亮，data.table，获取API数据，将Git和Github与R配合使用，编写自己的程序包，在R代码中运行Python，RStudio插件和键盘快捷键，仪表板和Flexdashboard的教程.
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) -主题包括预测文本建模，归因缺失数据，整理模型，情感分析，多项式分类，主成分分析，数据预处理和重采样以及多项式分类.
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos) -不同专家就各种各样的话题进行了深入的讨论.
 - [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures/featured) -主题包括描述性统计，方差分析，自举，线性回归，双变量分析和概率分布.
 - [Numyard](https://www.youtube.com/c/TheLearnR/videos) -主题包括使用数据框，循环，基本数学，向量，列表，创建函数，数据类型和随机采样.
 - [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) -主题包括粘贴功能，应用族功能，while和for循环，条件语句，可视化，删除NA和合并数据.
-- [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) -R播放列表包括有关视频的视频，这些视频包括使用dplyr处理数据，使用ggplot2和ggThemeAssist可视化数据，数据类型和结构，重要的基本r函数，使用lubridate处理日期时间，使用forcat克服因素，使用stringer处理文本. 
+- [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) -R播放列表中的视频包括有关使用dplyr处理数据，使用ggplot2和ggThemeAssist可视化数据，数据类型和结构，重要的r函数，使用lubridate处理日期时间，使用forcat克服因素，使用stringer处理文本的视频. 
 - [Shiny Developer Series](https://www.youtube.com/c/ShinyDeveloperSeries/videos) -Shiny Developer Series的目标是展示不断增长的Shiny生态系统中的创新应用程序和软件包，以及背后的才华横溢的开发人员！ 
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG) -R Programming for Beginners播放列表包括有关数据科学，图表，数据可视化，算法，业务分析，回归，随机森林，SVM，聚类，时间序列，建模和分析技术的视频.
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) -有关如何解决使用R时将遇到的常见问题的简短而详细的教程的集合.主题包括数据格式设置，数据重新排序，字符串和ggplot2.

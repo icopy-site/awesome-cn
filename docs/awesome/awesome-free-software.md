@@ -250,6 +250,9 @@
 - [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 - [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
+### Documentaries
+- 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
+
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

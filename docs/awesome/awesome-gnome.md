@@ -6,11 +6,11 @@
 
 &gt; GNOME桌面环境的_awesome_应用，扩展，模块，主题和工具的精选列表.
 
-[GNOME](https://www.gnome.org/) 是Linux和Unixes的桌面环境，旨在使用户掌控一切. 它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
+[GNOME](https://www.gnome.org/) 是Linux和Unixes的桌面环境，旨在让用户掌控一切. 它在其应用程序中使用GTK，在其官方桌面外壳中使用Clutter和JavaScript.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
+&gt;带有！[GNOME Core] [GNOME Core]标记的项目是GNOME项目正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
 
-&gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://circle.gnome.org/) 旨在展示GNOME的最佳应用程序和库的计划.
+&gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://circle.gnome.org/) 旨在展示适用于GNOME的最佳应用程序和库的计划.
 
 
 
@@ -26,7 +26,7 @@
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader)  -从Google字体获取字体.  ！[GNOME圈子] [GNOME圈子]
 - [Tangram](https://github.com/sonnyp/Tangram)  -将您的Web应用程序分组为一个应用程序.  ！[GNOME圈子] [GNOME圈子]
 - [Eolie](https://gitlab.gnome.org/World/eolie) -使用垂直标签的Web浏览器.
-- [Midori](https://www.midori-browser.org/) -轻巧快速的网络浏览器.
+- [Midori](https://www.midori-browser.org/) -轻巧，快速的网络浏览器.
 - [Geary](https://wiki.gnome.org/Apps/Geary) -现代邮件客户端，最初由Yorba创建.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) -RSS / Atom提要阅读器.
 - [Cawbird](https://ibboard.co.uk/cawbird/) -Twitter客户端.
@@ -39,7 +39,7 @@
 - [NFO Viewer](https://github.com/otsaloma/nfoview) -用于NFO文件的简单查看器，击败了具有预设字体和编码设置以及可单击的超链接支持的文本编辑器.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) -个人文档管理器，用于扫描的文档和PDF.
 - [Foliate](https://github.com/johnfactotum/foliate) -简单现代的电子书阅读器.
-- [Pdftag](https://github.com/arrufat/pdftag) -简单的PDF元数据编辑器.
+- [Pdftag](https://github.com/arrufat/pdftag) -用于PDF的简单元数据编辑器.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) -提取，合并，旋转和重新排列PDF文档页面的简单应用程序.
 - [Marker](https://github.com/fabiocolacio/Marker) -带有集成预览器的Markdown编辑器.
 
@@ -108,6 +108,7 @@
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) -烹饪应用.
 - [RecApp](https://github.com/amikha1lov/RecApp) -用户友好的开源截屏程序.
 - [Sunflower](http://sunflower-fm.org) -小型且高度可定制的双面板文件管理器.
+- [Kooha](https://github.com/SeaDve/Kooha) -一个简单的屏幕录像机.
 
 ### Security and Privacy
 
@@ -149,12 +150,12 @@
 - [Notes](https://github.com/maoschanz/notes-extension-gnome) -可定制的便签.
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/)  -基于类别的应用程序菜单.  ！[GNOME Classic] [GNOME Core]
-- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)  -提供快速访问文件夹的菜单.  ！[GNOME Classic] [GNOME Core]
-- [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) -类似Windows7的应用程序菜单，灵感来自Zorin OS中的菜单.
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/)  -适用于应用程序的基于类别的菜单.  ！[GNOME经典] [GNOME核心]
+- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)  -提供快速访问文件夹的菜单.  ！[GNOME经典] [GNOME核心]
+- [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) -受Zorin OS启发的类似Windows7的应用程序菜单.
 
 ### Applets
-- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) -使您可以停用GNOME锁定屏幕的Applet.
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) -可让您停用GNOME锁定屏幕的小程序.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) -状态菜单显示您的可移动驱动器.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) -天气小程序.
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) -环境噪音小程序.
@@ -162,11 +163,11 @@
 - [Desk Changer](https://github.com/BigE/desk-changer/) -壁纸幻灯片小程序.
 - [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) -表情符号选择器小程序.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) -todo.txt的界面.
-- [Time ++](https://extensions.gnome.org/extension/1238/time/) -一个todo.txt管理器，时间跟踪器，计时器，秒表，番茄和闹钟.
+- [Time ++](https://extensions.gnome.org/extension/1238/time/) -todo.txt管理器，时间跟踪器，计时器，秒表，番茄和闹钟.
 - [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) -KDE Con​​nect实施.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) -用于管理Docker容器的扩展
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) -Appindicator系统.
-- [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) -在所有gnome安装中，同步gnome shell键盘绑定，调整设置和扩展及其配置.
+- [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) -在所有gnome安装程序之间同步gnome shell键盘绑定，调整设置和扩展及其配置.
 
 
 ### Windows
@@ -186,7 +187,7 @@
 - [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) -先进的全屏应用切换器.
 
 ### Visual Changes
-- [Blyr](https://github.com/yozoon/gnome-shell-extension-blyr) -将模糊效果应用于概览和顶部面板背景.
+- [Blyr](https://github.com/yozoon/gnome-shell-extension-blyr) -对总览图和顶部面板背景应用模糊效果.
 - [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) -使某些UI元素透明.
 - [Compiz alike windows effect](https://github.com/hermes83/compiz-alike-windows-effect) -向窗户添加摇摆效果.
 
@@ -197,7 +198,7 @@
 
 ### Themes
 
- &gt; **注意：** GNOME并不正式支持主题，并且自定义gtk样式表无法在所有应用程序中进行测试. 这意味着某些应用程序可能在此处遇到某些主题方面的问题. 您可以使用命令行，dconf或Tweaks来更改GTK主题，但这也意味着如果有任何问题，这些片段将保留给您:)
+ &gt; **注意：** GNOME并不正式支持主题，并且自定义gtk样式表无法在所有应用程序中进行测试. 这意味着某些应用程序可能对此处的某些主题有疑问. 您可以使用命令行，dconf或Tweaks来更改GTK主题，但这也意味着如果有任何问题，这些片段将保留给您:)
 
 - [Oomox](https://github.com/themix-project/oomox) -生成Numix和Materia主题的不同颜色.
 
@@ -223,7 +224,7 @@
 #### Skeumorphic
 
 - [Greybird](https://github.com/shimmerproject/Greybird/)  -官方的Xubuntu主题.  （GTK）
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes)  -变形灰色主题，是zuki-theme套件的一部分.  （GTK与Zuki-Shell一起用于shell主题）.
+- [Zukitwo](https://github.com/lassekongo83/zuki-themes)  -拟变灰色主题，是zuki-theme套件的一部分.  （GTK，与Zuki-Shell一起用于shell主题）.
 
 ### Icons
 
@@ -239,7 +240,7 @@
 
 #### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) -图标受macOS和Material Design指南的启发.
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) -受macOS和Material Design指南启发的图标.
 
 #### Homogeneous Icons
 
@@ -283,7 +284,7 @@
 
 ### Libraries
 
-- [libdazzle](https://git.gnome.org/browse/libdazzle) -GObject和Gtk +的随附库，提供了各种新功能.
+- [libdazzle](https://git.gnome.org/browse/libdazzle) -GObject和Gtk +的伴侣库，提供了各种新功能.
 
 ### Examples
 
@@ -291,7 +292,7 @@
 
 ### Documentations
 
-- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) -完美的起点，开始为GNOME做贡献.
+- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) -完美的起点，开始为GNOME做出贡献.
 - [GNOME Developer Center](https://developer.gnome.org/) -包含所有官方GNOME文档.
 - [Valadoc](https://valadoc.org/) - Documentation about Vala.
 - [GJS Documentation](https://gjs-docs.gnome.org/) -JavaScript GTK绑定的文档.

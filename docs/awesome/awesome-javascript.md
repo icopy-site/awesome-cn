@@ -505,6 +505,7 @@
 * [FarFetch](https://github.com/WebsiteBeaver/far-fetch) -简洁的现代Fetch API包装器，带有简洁的文件上传功能.
 * [Optic](https://github.com/opticdev/optic) -Optic自动记录和测试您的API.
 * [SWR](https://github.com/vercel/swr) -React Hooks库用于远程数据获取.
+* [React Query](https://github.com/tannerlinsley/react-query) -用于在React中获取，缓存和更新异步数据的钩子.
 
 ## Streaming
 
@@ -620,7 +621,7 @@
 * [sly](https://github.com/darsain/sly) -JavaScript库，用于基于项目导航的单向滚动.
 * [vegas](https://github.com/jaysalvat/vegas)  -一个jQuery插件，可将精美的全屏背景添加到您的网页. 它甚至允许幻灯片放映.
 * [Sequence](https://github.com/IanLunn/Sequence) -CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
-* [reveal.js](https://github.com/hakimel/reveal.js) -使用HTML轻松创建漂亮的演示文稿的框架.
+* [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 * [impress.js](https://github.com/impress/impress.js) -这是一个展示框架，它基于现代浏览器中CSS3转换和转换的功能，并受到prezi.com背后思想的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -Strut-Impress.js和Bespoke.js演示文稿编辑器
@@ -901,7 +902,7 @@ http://www.listjs.com
 * [survey.js](https://github.com/surveyjs/surveyjs)  -JavaScript Survey Engine. 它使用JSON来提供调查元数据和结果.  http://surveyjs.org/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) -可帮助您确定在任何给定时间最适合使用哪种本机JavaScript方法的资源
 * [Clipboard.js](https://clipboardjs.com/) -不使用Flash或使用Framework的“复制到剪贴板”.
-* [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+* [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
 * [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
 * [iooxa](https://github.com/iooxa/article) -互动式科学写作，反应性文档和可解释性说明的组成部分.

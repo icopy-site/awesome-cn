@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="git-tips/tips"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## git-tips
- &gt; git-tips的集合，要添加您的提示吗？ 查看 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
+ &gt; git-tips的集合，要添加您的提示吗？ 退房 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
 
 [English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | [Polski](https://github.com/mbiesiad/tips)
 
@@ -9,7 +9,7 @@
 
 * [git-tip](https://www.npmjs.com/package/git-tip)  -方便的CLI，可最佳利用这些技巧.  （[Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
-PS：所有这些命令均在git版本2.7.4（Apple Git-66）上进行了测试.
+PS：所有这些命令都在git版本2.7.4（Apple Git-66）上进行了测试.
 
 <!-- @doxie.inject start toc -->
 <!-- Don’t remove or change the comment above – that can break automatic updates. -->
@@ -52,7 +52,7 @@ git fetch origin &amp;&amp; git reset --hard origin / master &amp;&amp; git clea
 
 ## List of all files till a commit
 ```sh
-git ls-tree-仅名称-r<commit-ish>
+git ls-tree --name-only -r<commit-ish>
 ```
 
 ## Git reset first commit
@@ -62,7 +62,7 @@ git update-ref -d头
 
 ## Reset: preserve uncommitted local changes
 ```sh
-git reset --keep<commit>
+git reset-保持<commit>
 ```
 
 ## List all the conflicted files
@@ -280,7 +280,7 @@ git stash
 
 __Alternatives:__
 ```sh
-git stash保存
+git stash push
 ```
 
 ## Saving current state of unstaged changes to tracked files
@@ -296,7 +296,7 @@ git stash --keep-index
 
 
 ```sh
-git stash save --keep-index
+git stash push --keep-index
 ```
 
 ## Saving current state including untracked files
@@ -307,17 +307,23 @@ git stash -u
 
 __Alternatives:__
 ```sh
-git stash save -u
+git stash push -u
 ```
 
 
 ```sh
-git stash save --include-untracked
+git stash push --include-untracked
 ```
 
 ## Saving current state with message
 ```sh
-git stash保存<message>
+git stash push -m<message>
+```
+
+
+__Alternatives:__
+```sh
+git stash push-消息<message>
 ```
 
 ## Saving current state of all files (ignored, untracked, and tracked)
@@ -333,7 +339,7 @@ git stash --all
 
 
 ```sh
-git stash save --all
+git stash push-全部
 ```
 
 ## Show list of all saved stashes
@@ -354,7 +360,7 @@ git stash pop
 
 __Alternatives:__
 ```sh
-git stash apply stash @ {0} &amp;&amp; git stash drop存放stash @ {0}
+git stash apply stash @ {0} &amp;&amp; git stash drop藏匿@ {0}
 ```
 
 ## Delete all stored stashes
@@ -365,12 +371,12 @@ git隐藏
 
 __Alternatives:__
 ```sh
-git隐藏<stash@{n}>
+git藏起来<stash@{n}>
 ```
 
 ## Grab a single file from a stash
 ```sh
- git结帐<stash@{n}> -<file_path>
+ git结帐<stash@{n}> --<file_path>
 ```
 
 
@@ -391,7 +397,7 @@ git ls-files-其他
 
 ## Show all ignored files
 ```sh
-git ls文件--others -i --exclude-standard
+git ls-files --others -i --exclude-standard
 ```
 
 ## Create new working tree from a repository (git 2.5)
@@ -483,7 +489,7 @@ git archive master --format = zip --output = master.zip
 git add --all &amp;&amp; git commit --amend --no-edit
 ```
 
-## Prunes references to remote branches that have been deleted in the remote.
+## Prunes references to remove branches that have been deleted in the remote.
 ```sh
 git fetch -p
 ```
@@ -492,6 +498,11 @@ git fetch -p
 __Alternatives:__
 ```sh
 git remote prune起源
+```
+
+## Delete local branches that has been squash and merged in the remote.
+```sh
+ git branch -vv |  grep&#39;：走了]&#39;|  awk&#39;{print<!-- @doxie.inject start -->  }&#39;|  xargs git分支-D
 ```
 
 ## Retrieve the commit hash of the initial revision.
@@ -619,12 +630,12 @@ git clean -X -f
 
 ## Restore deleted file.
 ```sh
- git结帐<deleting_commit> -<file_path>
+ git结帐<deleting_commit> --<file_path>
 ```
 
 ## Restore file to a specific commit-hash
 ```sh
- git结帐<commit-ish> -<file_path>
+ git结帐<commit-ish> --<file_path>
 ```
 
 ## Always rebase instead of merge on pull.
@@ -666,7 +677,7 @@ git name-rev-仅名称<SHA-1>
 
 ## Dry run. (any command that supports dry-run flag should do.)
 ```sh
-git clean -fd --dry运行
+git clean -fd --dry-run
 ```
 
 ## Marks your commit as a fix of a previous commit.
@@ -701,7 +712,7 @@ git status-忽略
 
 ## Commits in Branch1 that are not in Branch2
 ```sh
-git log分支1 ^分支2
+git log Branch1 ^ Branch2
 ```
 
 ## List n last commits
@@ -918,12 +929,12 @@ git rev-list --count<branch-name>
 
 ## Alias: git undo
 ```sh
-git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev-ref HEAD)@{${1-1}}; }; f'
+ git config --global alias.undo&#39;！f（）{git reset --hard $（git rev-parse --abbrev-ref HEAD）@ {$ {1-1}};  };  F&#39;
 ```
 
 ## Add object notes
 ```sh
-git notes add -m&#39;上一次提交的注释....
+git notes add -m&#39;关于上一次提交的注释....
 ```
 
 ## Show all the git-notes
@@ -977,14 +988,9 @@ git config [--global] --edit
  git怪-L<start>  ，<end>
 ```
 
-## List all Git variable.
+## Show a Git logical variable.
 ```sh
-git var -l
-```
-
-## Show a Git specific variable.
-```sh
-你走了<variable>
+git var -l |<variable>
 ```
 
 ## Preformatted patch file.

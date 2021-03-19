@@ -189,7 +189,7 @@ them.
   （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) -Python中的小波变换.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
-- [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
+- [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.
   （C / MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://www.precice.org/) -用于分区多物理场仿真（FSI，CHT等）的耦合库.
   （C ++，LGPL 3， [GitHub](https://github.com/precice/))
@@ -204,9 +204,10 @@ them.
 
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) -StackExchange网络上的计算科学.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) -MATH 676：科学计算中的有限元方法.
-- [Nick Higham's blog](https://nhigham.com/) -通常在MATLAB上提供一般计算建议.
+- [Nick Higham's blog](https://nhigham.com/) -通常在MATLAB上，提供一般的计算建议.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) -关于逼近理论/实践和科学计算的36个视频讲座.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) -科学计算的壮举.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) -解决线性代数问题的免费软件列表.
 - [NA Digest](https://www.netlib.org/na-digest-html/) -收集与数值分析有关的主题和实践者的文章.
 - [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) -一天一则关于计算数学的推文.
+- [Discord: Numerical Software](https://discord.com/invite/hnTJ5MRX2Y) -数字软件上的Discord消息传递服务器.
