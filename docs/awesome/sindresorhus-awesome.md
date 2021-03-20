@@ -187,7 +187,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用程序而设计的现代编程语言，在这些应用程序中，可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
@@ -727,3 +727,4 @@
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可深入研究Awesome列表.
+- [Awesome Viewer](http://awesome.digitalbunker.dev) -以上所有Awesome列表的可视化工具.

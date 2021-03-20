@@ -179,6 +179,7 @@
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
 -  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
+-  [Windy](https://usewindy.com) -浏览器扩展程序，可将HTML元素转换为Tailwind CSS.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gatsby的Tailwind CSS集成.

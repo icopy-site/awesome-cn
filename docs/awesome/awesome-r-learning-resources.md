@@ -160,7 +160,7 @@
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  -本文档简要介绍了R.它强调了您需要了解的才能在任何上下文中使用该语言. 作者：罗伯特·希曼斯（Robert Hijmans）教授.
 - [JavaScript for R](https://book.javascript-for-r.com/)  -这项工作的最终目的是向读者展示邀请JavaScript进入其数据科学工作流程所能获得的许多巨大好处. 作者：约翰·科恩（John Coene）.
 - [Learning Statistics with R](https://learningstatisticswithr.com/)  -使用R学习统计涵盖了入门统计课程的内容，这通常是针对本科心理学学生的课程，重点是R统计软件的使用. 作者：丹妮尔·纳瓦罗（Danielle Navarro）.
-- [Mastering Shiny](https://mastering-shiny.org/)  -这是Mastering Shiny的在线版本，目前正在早期开发中，计划于2020年下半年发布. 这本书是对 [Shiny online documentation](https://shiny.rstudio.com/) 旨在帮助应用程序作者更深入地了解Shiny. 作者：哈德利·威克姆（Hadley Wickham）.
+- [Mastering Shiny](https://mastering-shiny.org/)  -这是Mastering Shiny的在线版本，目前正在早期开发中，计划于2020年下半年发布. 这本书是对 [Shiny online documentation](https://shiny.rstudio.com/) 旨在帮助应用程序作者更深入地了解Shiny. 作者：哈德利·威克姆（Hadley Wickham）. [Mastering Shiny Exercise solutions](https://mastering-shiny-solutions.org/index.html)
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with R as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with R. Author: Bruno Rodrigues.
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r-second-edition#toc)  -本书的目的是从务实，面向实践的角度介绍数据科学. 本书着重于数据科学的过程，从项目的计划阶段到数据收集和探索，再到建模，最后到部署和结果共享. 作者：妮娜·祖梅尔（Nina Zumel）和约翰·芒特（John Mount）.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)  -本文的重点是回归和方差分析的实践. 目的是了解可用的方法，更重要的是何时应使用这些方法. 作者：朱利安·法拉威（Julian Faraway）.

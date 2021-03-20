@@ -39,7 +39,7 @@
 * [Crawl Track](http://www.crawltrack.net/)  -另一个旧的分析工具.  `©``SaaS`
 * [Sitespect](https://www.sitespect.com/)  -全套Web应用程序分析工具，包括A / B测试.  `©``SaaS`
 * [Rakam](https://rakam.io/)  -自定义分析平台，可让您创建自己的分析服务. 与任何数据源（Web，移动，IoT等）集成，使用SQL分析数据并创建仪表板.  （[Source Code](https://github.com/rakam-io/rakam)）Apache-2.0`` Java`
-* [Metabase](https://www.metabase.com) -开源分析/ BI工具`©`SaaS`
+* [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io)  -会话重播用户分析.  `©``SaaS`
 * [Glassbox](https://glassboxdigital.com/)  -客户体验和会话记录分析.  `©``SaaS`
 * [Redash](https://redash.io/) -开源分析/ BI工具`©`SaaS`
@@ -59,7 +59,6 @@
 * [KISSS](https://kis3.dev)  -非常简约（KISS）网站统计工具.  （[Source Code](https://github.com/kis3/kis3)）`MIT`` Go`
 
 ## Endpoints
-* [Rudder](https://rudderlabs.com/)  -客户数据基础设施软件，用于从应用程序和网站收集，存储，处理事件数据并将其路由到数十种营销工具和分析平台（Segment等人的开源替代品）.  （[Source Code](https://github.com/rudderlabs/rudder-server/)）`SSPL-1.0``Go`
 * [Census](https://getcensus.com/)  -将客户数据从云数据仓库同步到SaaS应用程序（如Salesforce，Marketo，HubSpot，Zendesk等）的最简单方法.人口普查是一种运营分析平台，可将数据仓库与所有您喜欢的应用程序同步. 通过保持客户数据同步，使您的客户成功，销售和营销团队在同一页面上. 不需要任何工程支持，只需SQL.  SaaS
 * [RudderStack](https://rudderstack.com/)  -仓库优先的客户数据平台（CDP），可在您的数据仓库上构建CDP.  RudderStack使您可以轻松地收集，统一，转换和存储您的客户数据，并将其安全地路由到各种常见的，流行的营销，销售和产品工具（Segment等人的开源替代品）.  （[Source Code](https://github.com/rudderlabs/rudder-server/)）`AGPL-3.0``Go`
 * [Snowplow](http://snowplowanalytics.com/)  -用于包含大量数据的Web应用程序的分析工具. 将来自您的网站，移动应用程序，桌面应用程序和服务器端系统的每个事件都存储在您自己的数据仓库中，并可以实时进行操作.  （[Source Code](https://github.com/snowplow/)）Apache-2.0 Scala实时
@@ -74,18 +73,12 @@
 * [GoatCounter](https://www.goatcounter.com)  -简单的网络统计，无需跟踪个人数据；  SaaS`自托管`（[Source Code](https://github.com/zgoat/goatcounter)）`EUPL-1.2``Go`
 * [Simple Analytics](https://simpleanalytics.io/) -为开发人员提供简单，干净和友好的分析服务©©SaaS
 * [Nibspace](https://nibspace.com/) -负担得起的，轻量级的，对隐私友好的网站分析`©`SaaS`
-* [GoatCounter](https://www.goatcounter.com)  -无需跟踪个人数据的网络分析； 可 [self-hosted](https://github.com/zgoat/goatcounter)，或使用SaaS.
-* [Kindmetrics](https://kindmetrics.io)  -干净，简单的分析，以隐私为中心，是开源的，并且可以自行托管. 不跟踪个人数据.
-* [Plausible Analytics](https://plausible.io/) -轻巧和 [open source](https://github.com/plausible-insights/plausible) 网站分析. 不使用Cookie，也不跟踪个人数据.  Google Analytics（分析）的一种隐私友好型替代方案.  （[Source Code](https://github.com/plausible/analytics/)）`万用药
-* [GoatCounter](https://www.goatcounter.com)  -简单的网络统计，无需跟踪个人数据；  SaaS`自托管`（[Source Code](https://github.com/zgoat/goatcounter)）`EUPL-1.2``Go`
-* [Simple Analytics](https://simpleanalytics.io/) -为开发人员提供简单，干净和友好的分析服务©©SaaS
-* [Nibspace](https://nibspace.com/) -负担得起的，轻量级的，对隐私友好的网站分析`©`SaaS`
 * [Metrical](https://metrical.xyz/)  -面向所有人的隐私优先的网络分析工具.  `©``SaaS`
 * [Shynet](https://github.com/milesmcc/shynet)  -无需Cookie或JS即可使用的现代，隐私友好且详细的Web分析. 专为自托管而设计.  Apache-2.0 Python
 * [Umami](https://umami.is/)  -Umami是一种简单易用的自托管Web分析解决方案. 我们的目标是为您提供更友好，注重隐私的Google Analytics（分析）替代方案，以及免费的开源替代付费解决方案的方案.  （[Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)）`与`Node.js`
 * [Koko Analytics](https://www.kokoanalytics.com/)  -适用于WordPress的隐私友好型开源分析插件.  （[Source Code](https://github.com/ibericode/koko-analytics/)）`GPL-3.0``PHP`
 * [Offen](https://www.offen.dev/)  -Offen是一种公平开放的网络分析工具. 在您的用户完全访问其数据时获得见解. 轻巧，自托管且免费.  （[Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)）`Apache-2.0``Go / Docker`
-* [Freshlytics](https://github.com/sheshbabu/freshlytics)  -尊重隐私，无cookie和低资源使用率分析平台. 麻省理工学院Docker / Nodejs
+* [Freshlytics](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
 * [Kindmetrics](https://kindmetrics.io/)  -清洁注重隐私的网站分析.  （[Source Code](https://github.com/kindmetrics/kindmetrics)）`与`水晶`
 * [Ackee](https://ackee.electerious.com)  -适用于那些关心隐私的人的自托管分析工具.  （[Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)）`与`Node.js`
 * [piratepx](https://www.piratepx.com/)  -仅针对您的个人或独立项目的一点分析见解.  100％免费和开源.  （[Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)）`与`Node.js`
@@ -104,7 +97,7 @@
 * [Popcorn Metrics](http://www.popcornmetrics.com/)  -可视化编辑器，用于捕获事件并发送到其他平台.  `©``SaaS`
 * [Segment](https://segment.com/)  -帮助您将多个应用程序分析工具与一段代码集成在一起.  `©``SaaS`
 * [Iteratively](https://iterative.ly/)  -跨团队和平台一致地捕获清洁产品分析.  `©``SaaS`
-* [Analytics npm package](https://getanalytics.io/)  -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览量，自定义事件和识别用户. 可在浏览器和node.js中使用.  `©``SaaS`
+* [Analytics npm package](https://getanalytics.io/)  -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览，自定义事件并识别用户. 可在浏览器和node.js中使用.  `©``SaaS`
 
 ## Mobile analytics
 
@@ -112,7 +105,7 @@
 
 * [Upsight](http://www.upsight.com/)  -针对开发人员的移动应用分析工具.  `©``SaaS`
 * [Appsflyer](http://www.appsflyer.com/)  -具有分析功能的多合一营销工具.  `©``SaaS`
-* [Amazon Pinpoint](https://aws.amazon.com/pinpoint/) - Amazons multi-platform, basic mobile analytics tool. `©` `SaaS`
+* [Amazon Pinpoint](https://aws.amazon.com/pinpoint/)  -亚马逊的多平台基本移动分析工具.  `©``SaaS`
 * [Tapstream](https://tapstream.com/)  -用户生命周期分析.  `©``SaaS`
 * [Honeytracks](https://honeytracks.com/)  -游戏的移动应用分析.  `©``SaaS`
 * [Apsalar](https://apsalar.com/)  -适用于大型应用商店的分析工具.  `©``SaaS`
@@ -144,7 +137,7 @@
 
 * [Adjust](http://adjust.com/)  -具有复杂分析和活动跟踪的开源SDK.  `©``SaaS`
 * [Clickmeter](https://clickmeter.com)  -分析工具，可帮助您跟踪营销活动.  `©``SaaS`
-* [HasOffers Mobile app tracking](http://www.mobileapptracking.com/) - attribution analytics platform. `©` `SaaS`
+* [HasOffers Mobile app tracking](http://www.mobileapptracking.com/)  -归因分析平台.  `©``SaaS`
 
 ## Social media analytics
 
