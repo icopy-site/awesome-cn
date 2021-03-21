@@ -10,7 +10,7 @@
   如果您知道D中有趣的lib / app，请通过问题或请求请求告诉我:-).
   
 
-	- Basic Information
+	- 基本信息
 	-文件
 	-语言相关 
 	-其他语言的编译器
@@ -20,7 +20,8 @@
 	- GUI
 	- 你
 	-游戏
-	- 视频
+	-国际化（i18n）/全球化
+	- Video
 	- 图像处理
 	-最终用户应用程序（AppImages，Flatpaks，Snaps ...）
 	-科学
@@ -33,7 +34,7 @@
 
 *官方网站网址.*
 
-* [dlang.org](https://dlang.org) - Official website for D.
+* [dlang.org](https://dlang.org) -D的官方网站.
 * [wiki.dlang.org](https://wiki.dlang.org) -D的官方Wiki.
 * [code.dlang.org](https://code.dlang.org) -D的官方库/模块注册表.
 * [Github Organization](https://github.com/dlang) -D. Repo的官方GitHub组织，用于所有官方D工具和代码.
@@ -48,7 +49,7 @@
 
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) -回答D问题的流量最高的站点.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) -流量比论坛少，但可能更容易搜索.
-* [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) -如何在D中完成许多基本操作的示例.
+* [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) -如何在D中执行许多基本操作的示例.
 
 ## People
 
@@ -57,7 +58,7 @@
 * [Walter Bright](https://www.walterbright.com/) -D. Walter Bright的父亲是D编程语言的创建者和第一个实现者，并且已经实现了其他几种语言的编译器.
 * [Andrei Alexandrescu, PhD](https://erdani.com/)  -C ++专家.  《 D编程语言》和《现代C ++设计》的作者.  Andrei与Walter Bright共同设计了D的许多重要功能，并编写了D标准库的很大一部分.  Andrei是高级C ++编程和算法的培训师，现在正在组织中积极宣传D.
 * [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
-* **您**-如果您在D中做了一些有趣的事情，请添加您的信息.正是您，这些使D变得如此出色的人. 
+* **您**-如果您在D中做了一些有趣的事情，请添加您的信息.正是您，使D变得如此出色的人. 
 
 ## Events
 
@@ -69,7 +70,7 @@
 
 * [D Programming Language](https://github.com/dlang) -官方组织，托管DMD，Phobos和其他官方工具和库.
 * [LDC Developers](https://github.com/ldc-developers) -最不发达国家相关项目.
-* [DerelictOrg](https://github.com/DerelictOrg)  -托管所有Derelict绑定（包括OpenGL和其他与多媒体/游戏相关的库绑定）的GitHub组织.  （OpenGL 3，Bgfx，ENet，SDL 2，GLFW 3，OpenGLES，免费映像，Assimp3，libtheora，libogg，libvorbis，SFML 2，libpq，PhysicsFS，Open Dynamics Engine，Lua，DevIL，OpenAL，ALURE）.
+* [DerelictOrg](https://github.com/DerelictOrg)  -托管所有Derelict绑定（包括OpenGL和其他与多媒体/游戏相关的库绑定）的GitHub组织.  （OpenGL 3，Bgfx，ENet，SDL 2，GLFW 3，OpenGLES，免费图像，Assimp3，libtheora，libogg，libvorbis，SFML 2，libpq，PhysicsFS，Open Dynamics Engine，Lua，DevIL，OpenAL，ALURE）.
 * [DlangScience](https://github.com/DlangScience) -D的科学图书馆和工具的联络中心和第一站.
 * [Circular Studios](https://github.com/Circular-Studios)  -我们是罗彻斯特理工学院的游戏开发人员，致力于开发游戏和游戏技术. 主持人 [Dash](https://github.com/Circular-Studios/Dash)，用D语言编写的3D游戏引擎以及其他相关的库.
 * [d-gamedev-team](https://github.com/d-gamedev-team) -一个与gamedev相关的仓库的组织，其中包括一个名为D gamedev的工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
@@ -78,7 +79,7 @@
 * [libmir](https://github.com/libmir) -D的数字图书馆开发团队
 * [sociomantic labs](https://www.sociomantic.com)  -总部位于柏林的公司，专门从事在线广告的实时出价. 的主要赞助商 [annual D language conference](http://dconf.org) . 已将其代码库的大部分开源为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](https://symmetryinvestments.com/) -Symmetry Investments LP是一家投资管理公司，截至2018年12月31日，其管理的资产约为47亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
-* [HuntLabs](https://www.huntlabs.net)  -使用DLang的技术小组. 具有纯D语言实现，可快速开发服务器端应用程序并构建分布式系统服务.
+* [HuntLabs](https://www.huntlabs.net)  -使用DLang的技术小组. 具有纯D语言实现，可以快速开发服务器端应用程序并构建分布式系统服务.
 
 ## Books
 * D相关书籍.*您可以在 [Books](https://wiki.dlang.org/Books) D Wiki页面.
@@ -86,7 +87,7 @@
 * [Programming in D](https://ddili.org/ders/d.en/index.html)  -AliÇehreli撰写的关于D语言编程的非常详尽的书，涵盖了语言的许多领域. 有一个免费的在线版本，适合初学者. 
 * [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  -包含大量实用任务的配方参考指南，简要说明了这些任务，以使用D编程语言开发和扩展用户的功能. 亚当·鲁佩（Adam D.Ruppe）着. 这是一个有趣 [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
 * [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) -本书适用于具有C族语言背景的人士，他们希望学习如何将其知识和经验应用于D.（...）本书将帮助您快速掌握该语言并避免常见问题.将C族的经验转化为D时出现的陷阱.
-* [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) -无论您是D语言世界的新手，还是已经在D语言中开发应用程序的人，或者如果您想利用D语言的功能进行Web开发，那么这本书都是您的理想选择.
+* [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) -无论您是D世界的新手，还是已经在D中开发应用程序的人，或者如果您想利用D的功能进行Web开发，那么这本书都是您的理想选择.
 
 ## Tutorials
 * D相关教程.*
@@ -113,7 +114,7 @@
 * [This week in D](https://dpldocs.info/this-week-in-d/Blog.html) -每周在D社区中进行的活动概述和简短的建议列，以帮助您充分利用D编程语言. 
 * [Planet D](http://planet.dsource.org) -由弗拉基米尔·潘捷列夫（Vladimir Panteleev）维护的D特定博客的合著者.
 * [D Idioms](https://p0nce.github.io/d-idioms/) -一个很棒的博客，提供有关D编程的许多有用习语.
-* [GTK-D coding](https://gtkdcoding.com/) -有关如何使用GtkD来构建GUI应用程序的简单示例.
+* [GTK-D coding](https://gtkdcoding.com/) -有关如何使用GtkD构建GUI应用程序的简单示例.
 * [Tasty D](https://tastyminerals.github.io/tasty-blog/) -有关学习D编程语言和各种D语言琐事的博客.
 
 ## Articles
@@ -140,7 +141,7 @@
 * [dmd](https://github.com/dlang/dmd)  -D编程语言的参考编译器. 稳定，快速构建，非常适合学习和快速制作原型/开发. 当前，前端是用D实现的，并在dmd，lcd和gdc之间共享，后端是用C ++实现的.
 * [ldc](https://github.com/ldc-developers/ldc)  -基于LLVM的D编译器. 使用DMD前端和LLVM后端. 生成速度比dmd慢，但生成的代码比DMD更优化. 它支持LLVM的所有目标平台.
 * [gdc](https://github.com/D-Programming-GDC/GDC)  -GNU D编译器. 使用DMD前端和GCC后端. 由于使用了GCC，目前定位于大多数平台. 在大多数情况下，生成的代码运行速度比DMD快，与LDC相当. 正在与官方GCC工具链集成.
-* [sdc](https://github.com/snazzy-d/SDC)  -愚蠢的D编译器. 用D写.每天变得更聪明.
+* [sdc](https://github.com/snazzy-d/SDC)  -愚蠢的D编译器. 每天用D写.变得越来越聪明.
 * [dil](https://code.google.com/p/dil/)  -用于D编程语言的编译器. 用D写的.
 
 
@@ -181,7 +182,7 @@
 * [Dlang IDE](https://github.com/buggins/dlangide) -基于D语言的IDE [DlangUI](https://github.com/buggins/dlangui) . 这是一个纯D实现.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) -集成了各种D开发工具的Vim插件
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]-使用serve-d的Visual Studio Code扩展
-* [ide-d](https://atom.io/packages/ide-d) -使用serve-d进行D的Atom扩展
+* [ide-d](https://atom.io/packages/ide-d) -使用serve-d的D的Atom扩展
 
 <br/>
 
@@ -222,7 +223,7 @@
 *网络库*
 * [hunt-net](https://github.com/huntlabs/hunt-net) -用于D编程语言的高性能网络库，事件驱动的异步实现（IOCP / kqueue / epoll）.
 * [hunt-http](https://github.com/huntlabs/hunt-http) -D的HTTP / 1和HTTP / 2协议库.
-* [hunt-stomp](https://github.com/huntlabs/hunt-stomp) -D中的用于Websocket协议库的STOMP.
+* [hunt-stomp](https://github.com/huntlabs/hunt-stomp) -D中的Websocket协议库实现的STOMP.
 * [libasync](https://github.com/etcimon/libasync) -异步对象的跨平台事件循环库
 * [libhttp2](https://github.com/etcimon/libhttp2) -D中的HTTP / 2库，从nghttp2转换而来
 * [collie](https://github.com/huntlabs/collie) -用dlang编写的异步事件驱动的网络框架，例如D中的netty框架.
@@ -233,13 +234,12 @@
 * [vibe.d](https://vibed.org/) -用D编写的不会妨碍您的异步I / O Web框架.
 * [arsd](https://github.com/adamdruppe/arsd) -Adam D. Ruppe的网络框架.
 * [cmsed](https://github.com/rikkimax/Cmsed) -Vibe的组件库，用作CMS.
-* [Diamond](https://diamondmvc.org/) -基于vibe.d的全栈Web框架，目标是针对小型和大型项目的企业开发和高性能Web解决方案.
 
 * RPC库*
 * [grpc](https://github.com/huntlabs/grpc-dlang) -用于D编程语言的grpc，基于hunt-http库.
 * [kissrpc](https://github.com/huntlabs/kissrpc) -快速，轻便，基于Flatbuffers的rpc框架.
-* [Hprose](https://github.com/hprose/hprose-d) -面向D的非常新颖的RPC库，现在支持25种以上的语言.
-* [Apache Thrift](https://thrift.apache.org/)  -轻巧，独立于语言的功能强大的RPC框架.  Thrift为数据传输，数据序列化，代码生成和应用程序级处理提供了干净的抽象.  [Dub package](https://code.dlang.org/packages/apache-thrift)
+* [Hprose](https://github.com/hprose/hprose-d) -D的一个非常新颖的RPC库，它现在支持25种以上的语言.
+* [Apache Thrift](https://thrift.apache.org/) - A lightweight, language-independent, featureful RPC framework.  Thrift provides clean abstractions for data transport, data serialization, code generation, and application level processing.  [Dub package](https://code.dlang.org/packages/apache-thrift)
 
 *Gossip*
 
@@ -270,7 +270,7 @@
 
 * [orange](https://github.com/jacob-carlborg/orange) -通用序列化器（当前仅支持XML）
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) -Phobos XML序列化的候选者
-* [dom.d]-基于Javascript在浏览器中提供的xml / html DOM
+* arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) -基于Javascript在浏览器中提供的xml / html DOM
 
 ## Database clients
 *用于关系数据库和nosql数据库的C blienct的客户端和绑定.
@@ -279,7 +279,7 @@
 * [hunt-database](https://github.com/huntlabs/hunt-database) -寻找D编程语言的数据库抽象层，支持PostgreSQL / MySQL / SQLite.
 * [vibe.d](https://github.com/vibe-d/vibe.d)  -Vibe.d对Redis和MongoDB具有非常稳定的内部支持. 很快，数据库驱动程序将被分为独立的项目.
 * [mysql-native](https://github.com/mysql-d/mysql-native) -在本机D中实现的MySQL客户端.
-* [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
+* [ddb](https://github.com/pszturmaj/ddb)  -D2的数据库访问. 当前仅支持PostgreSQL.
 * [arsd](https://github.com/adamdruppe/arsd)  -亚当·鲁珀（Adam D.Ruppe）的图书馆； 除Web后端外，它还支持使用database.d，sqlite.d，mysql.d和postgres.d访问数据库.
 * [ddbc](https://github.com/buggins/ddbc)  -DDBC是D语言的数据库连接器（类似于JDBC）.  HibernateD（见下文）使用ddbc进行数据库抽象.
 * [hibernated](https://github.com/buggins/hibernated) -HibernateD是D的ORM（类似于 [Hibernate](http://hibernate.org/)).
@@ -289,7 +289,7 @@
 ## Command Line
 * [hunt-console](https://github.com/huntlabs/hunt-console) -创建Hunt控制台更容易创建功能强大的命令行应用程序. 
 * [tilix](https://github.com/gnunn1/tilix) -使用GTK + 3的Linux平铺终端模拟器.
-* [scriptlike](https://github.com/Abscissa/scriptlike) -实用程序库，可帮助在D中编写类似脚本的程序.
+* [scriptlike](https://github.com/Abscissa/scriptlike) -实用程序库，有助于在D中编写类似脚本的程序.
 * [todod](https://github.com/BlackEdder/todod)  -Todod是基于命令行的待办事项列表管理器. 它还支持基于以下内容的shell交互： [linenoise](https://github.com/antirez/linenoise).
 * [d-colorize](https://code.dlang.org/packages/colorize) -红宝石库的一个端口 [colorize](https://github.com/fazibear/colorize) . 它添加了一些方法来使用ANSI转义序列更容易地在控制台上设置颜色，背景色和文本效果.
 * [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) -亚当·鲁佩（Adam Ruppe）的一部分 [arsd](https://github.com/adamdruppe/arsd) 库支持控制台上的光标和颜色操作.
@@ -325,6 +325,31 @@
 
 *与游戏开发相关的C库的绑定.
 
+* BindBC库-与-betterC兼容，使用@@ nogc绑定 [bindbc-loader](https://github.com/BindBC/bindbc-loader):
+	* OpenGL- [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)
+	* GLFW 3- [bindbc-glfw](https://github.com/BindBC/bindbc-glfw)
+	* SDL 2- [bindbc-sdl](https://github.com/BindBC/bindbc-sdl)
+	* SDL2_gfx- [bindbc-sdlgfx](https://github.com/aferust/bindbc-sdlgfx)
+	* SFML 2- [bindbc-sfml](https://github.com/BindBC/bindbc-sfml)
+	* Imgui-立即用户界面- [bindbc-imgui](https://github.com/Inochi2D/bindbc-imgui)
+	*核-即时用户界面- [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
+	* raylib- [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
+	* bgfx- [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
+	* WegGPU- [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* Zstandard-压缩- [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
+	* nanomsg-next-gen- [bindbc-nng](https://github.com/darkridder/bindbc-nng)
+	* OpenAL-音频引擎- [bindbc-openal](https://github.com/BindBC/bindbc-openal)
+	* SoLoud-音频引擎- [bindbc-soloud](https://github.com/gecko0307/bindbc-soloud)
+	* KiWi-小部件库- [bindbc-kiwi](https://github.com/aferust/bindbc-kiwi)
+	* NanoVG-矢量绘图引擎- [bindbc-nanovg](https://github.com/aferust/bindbc-nanovg)
+	* Blend2D-由JIT编译器提供支持的2D矢量图形- [bindbc-blend2d](https://github.com/kdmult/bindbc-blend2d)
+	* 月亮 - [bindbc-lua](https://github.com/BindBC/bindbc-lua)
+	* JoyShockLibrary- [bindbc-jsl](https://github.com/ZILtoid1991/bindbc-JSL)
+	*牛顿动力学-物理引擎- [bindbc-newton](https://github.com/gecko0307/bindbc-newton)
+	* FreeImage- [bindbc-freeimage](https://github.com/BindBC/bindbc-freeimage)
+	* Assimp5- [bindbc-assimp](https://github.com/Sobaya007/bindbc-assimp)
+	* Freetype- [bindbc-freetype](https://github.com/BindBC/bindbc-freetype)
+	* Harfbuzz-文字整形引擎- [bindbc-harfbuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
 * [DerelictOrg](https://github.com/DerelictOrg) -一个托管所有废弃绑定的GitHub组织，其中包括：
 	* OpenGL 3（DerelictGL3）， 
 	* Bgfx（DerelictBgfx）， 
@@ -364,6 +389,10 @@
 * [Atrium](https://github.com/gecko0307/atrium) -FPS游戏，使用OpenGL基于物理的拼图.
 * [Backgammony](https://github.com/jonathanballs/backgammony) -使用Gtk构建的用于Linux的步步高GUI.
 
+## Internationalization
+
+* [bindbc-icu](https://github.com/shoo/bindbc-icu) -Unicode ICU库的bindbc绑定.
+
 ## Video applications
 
 * [DerelictGL3](https://github.com/DerelictOrg/DerelictGL3) -用于D编程语言的到OpenGL的动态绑定.
@@ -382,6 +411,7 @@
 ## Machine Learning
 
 * [vectorflow](https://github.com/Netflix/vectorflow) -Nexflix的开源深度学习框架.
+* [bindbc-onnxruntime](https://github.com/lempiji/bindbc-onnxruntime) -与Microsoft的跨平台，高性能ML推理和训练加速器的bindbc绑定
 
 ## Parallel computing
 
@@ -399,13 +429,17 @@
 * [mir-random](https://github.com/libmir/mir-random) -高级随机数生成器.
 * [decimals](https://github.com/rumbu13/decimal) -D的十进制库.
 
+### Language Processing
+
+* [bindbc-mecab](https://github.com/lempiji/bindbc-mecab) -bindbc MeCab绑定（日语的词性和形态分析仪）
+
 ## Text Processing
 
 * [hunt-markdown](https://github.com/huntlabs/hunt-markdown)  -用于D编程语言的markdown解析和渲染库. 支持commonMark.
-* [eBay's TSV utilities](https://github.com/eBay/tsv-utils/)  -对TSV文件的过滤，统计，采样，联接和其他操作. 非常快，特别适合大型数据集.
+* [eBay's TSV utilities](https://github.com/eBay/tsv-utils/)  -对TSV文件进行过滤，统计，采样，联接和其他操作. 非常快，特别适合大型数据集.
 
 ## Logging
-*请小心打印*
+*Print with care.*
 
 - [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) -Phobos即将推出的标准伐木设施
 - [dlogg](https://github.com/NCrashed/dlogg) -使用延迟和延迟日志记录并发应用程序和守护程序， [logrotate](https://linux.die.net/man/8/logrotate) 支持.
@@ -413,7 +447,7 @@
 ## Configuration
 *解析配置文件*
 
-- [sdlang](https://github.com/Abscissa/SDLang-D) -用于D的SDL（简单声明性语言）库.
+- [sdlang](https://github.com/Abscissa/SDLang-D) -用于D的SDL（简单声明语言）库.
 - [D:YAML](https://github.com/dlang-community/D-YAML) -D编程语言的YAML解析器和发射器.
 - [inifile-D](https://github.com/burner/inifiled) -D的编译时ini文件解析器和writter生成器
 

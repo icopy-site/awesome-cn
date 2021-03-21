@@ -7,18 +7,18 @@
 ## What is this about?
 
 在过去的十年中，函数式编程由于其强大的功能而获得了新的发现.
-声明性特征，有人说对并行计算非常有效
-并用于 [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
+声明性特征，有人会说这对于并行计算非常有效
+和整个使用 [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
 
 此仓库收集了有关函数式编程的一些资料，例如博客文章，论文，视频，
 工具等，并旨在阐明其背后的一些理论主题.
 
- 想要贡献？  请参阅 [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) 第一.
+想要贡献吗？ 请参阅 [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) 第一的.
 
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
-尽管有这个名字，这篇文章实际上阐明了一些有关函数式编程的概念，解释了一些FP的历史以及FPs在命令性语言上的实现，并讨论了声明式编程的所有麻烦以及为什么它在上一期如此流行几年.
+尽管有名称，该帖子实际上阐明了有关函数式编程的一些概念，解释了一些FP的历史以及FPs在命令性语言上的实现，并讨论了声明式编程的所有麻烦以及为什么它在上一期如此流行.数年.
 - [A Monad in Practicality - Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 - [A Monad in Practicality - First Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
@@ -37,23 +37,24 @@
 
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) -从类别理论的角度出发，包含文章，讨论和工具的wiki-lab，这是FP背后的主要数学运算.
-- [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) -Wikibooks很好地概述了应用于Haskell的类别理论.
+- [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) -Wikibooks对应用于Haskell的类别理论进行了很好的概述.
 - [Haskell Wiki](https://wiki.haskell.org/Haskell)
 
 ### Books
+- [Learn you a Haskell](http://learnyouahaskell.com/)  -图书，但您也可以免费在线阅读. 非常适合初学者.
 - [The Little Prover](https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false) -谈论
-一个称为JBob的定理证明者，用LISP编写证明.
+定理证明者叫JBob，用LISP编写证明.
 - [Isabelle/HOL - A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf) -关于在Isabelle / HOL中实施逻辑形式主义的书.
 - [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) -一本专注于标准ML的教学类型，递归思维和其他重要主题的书. 
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page) -以非常数学的方式向您介绍编程设计. 
 - [How to Design Programs](http://www.htdp.org/) / [Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 - [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
 - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) -关于Haskell的完美第二本书，其中深入探讨了示例和应用场景，旨在教Haskell如何工作以及如何正确应用它. 
-- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) -使用实际场景从第一原理学功能编程.
+- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) -使用实际场景从第一原理开始进行功能编程.
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) -专注于讨论研究，论文的社区
- 和学术界的热门话题.  高科技的讨论水平.
-- [FP Complete](https://www.fpcomplete.com/)  -社区致力于帮助公司和学生学习和实施Haskell中的函数式编程.  最著名的Haskell学习中心之一的房东： [School of Haskell](https://www.schoolofhaskell.com/school)
+和学术界的热门话题. 高科技的讨论水平.
+- [FP Complete](https://www.fpcomplete.com/)  -社区致力于帮助公司和学生在Haskell中学习和实施函数式编程. 最著名的Haskell学习中心之一的房东： [School of Haskell](https://www.schoolofhaskell.com/school)
 - [Haskellers](http://www.haskellers.com/) -Haskell程序员的集合点
 - [ElixirLangMoscow](http://elixir-lang.moscow/) -俄罗斯长生不老药社区
 
@@ -62,7 +63,7 @@
 - [Hidden complexities of tail-call/tail-recursion optimization](http://lambda-the-ultimate.org/classic/message1532.html)
 
 ### Videos
-- [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) -关于
+- [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) -的说明
 微软研究员布莱恩·贝克曼（Brian Beckman）是函数式编程中最晦涩的主题之一.
 - [Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ) -西蒙·佩顿·琼斯（Simon Peyton Jones）
 对他的创作太谦虚了.
@@ -70,7 +71,7 @@
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 - [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://www.youtube.com/watch?v=9SBR_SnrEiI)
-- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) -有关Kotlin的LiveVideo课程：功能编程，面向对象和在Kotlin中构建Android应用.
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) -关于Kotlin的LiveVideo课程：功能编程，面向对象和在Kotlin中构建Android应用.
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) -Haskell的一位创作者的系列演讲
@@ -80,32 +81,32 @@
 
 ### Platforms
 
- -[Paqmind.com] –学习和改进编程的指南和挑战.  所有内容均面向CS和FP.
+ -[Paqmind.com] –学习和改进编程的指南和挑战. 所有内容均面向CS和FP.
 
 ### Tools
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) -基于高阶逻辑的通用证明助手	
 
 ### Repos
-- [Idris Koans](https://github.com/idris-hackers/idris-koans)  -伊德里斯教学项目.  依赖类型的通用函数编程
-- [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) -一个功能性Javascript研讨会.
+- [Idris Koans](https://github.com/idris-hackers/idris-koans)  -伊德里斯教学项目. 依赖类型的通用功能编程
+- [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) -一个功能性Javascript工作坊.
 - [J-Bob](https://github.com/the-little-prover/j-bob) -《小小证明者》一书中的证明助手
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) -有关Haskell的视频，讲座和课程的列表.
 - [Intro SML](http://www.it.dtu.dk/introSML/) -书上的代码，更正和信息：`使用SML编程简介`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) -JavaScript中的功能编程资源列表.
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) -为FP提供词汇表的项目，使FP的学习更加容易.
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) -为FP提供词汇表的项目，并使FP的学习更加容易.
 - [Bow](https://github.com/bow-swift/bow) -在Swift中用于类型函数编程的同伴库.
 - [Parsing With Haskell Parser Combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) -使用Haskell解析器组合器进行解析的分步指南.
 
 ### People
 
-- [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/)  -Haskell语言和格拉斯哥Haskell编译器的创建者之一.  微软研究员.
+- [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/)  -Haskell语言和Glasgow Haskell编译器的创建者之一. 微软研究员.
 - [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/)  -爱丁堡大学理论计算机科学教授，著名论文《类型的命题》的作者.  Java泛型类型背后的主要人物之一.
 - [Matthias Felleisen](http://www.ccs.neu.edu/home/matthias/) -许多书籍的作者，例如“如何设计程序”和“小计划者”.
-- [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) -微软前软件架构师，功能编程研究员，就FP，软件设计和响应式编程进行了演讲.
+- [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) -前Microsoft的软件架构师，功能编程研究人员，就FP，软件设计和响应式编程进行了讲座.
 - [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Lucas Viola](http://lucasviola.github.io) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Lucas Viola](http://lucasviola.github.io) 放弃了此作品的所有版权以及相关或邻近的权利.

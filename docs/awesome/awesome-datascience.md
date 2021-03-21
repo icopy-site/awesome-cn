@@ -17,12 +17,12 @@
 
  | 友情链接预览|
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出框框思考，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索的能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出框框思考，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学结合了数据的许多方面，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 在那些日子里，具有物理学和数学背景的人涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代的人才，而主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
-| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家及其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
+| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
 
 ## Learn Data Science
@@ -181,7 +181,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [SciPy](https://www.scipy.org/)  |  SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera课程|
 | [Data Science Toolbox](http://datasciencetoolbox.org/)  | 博客|
-| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言提供支持.  |
+| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.  |
 | [Datadog](https://www.datadoghq.com/)  | 大规模数据科学的解决方案，代码和开发人员.  |
 | [Variance](http://variancecharts.com/)  | 无需编写JavaScript即可构建强大的Web数据可视化|
 | [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite软件开发工具包（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.  |
@@ -217,16 +217,16 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Trains](https://github.com/allegroai/trains)  | 自动魔术实验管理器，用于AI的版本控制和DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有功能存储的开源数据密集型机器学习平台. 摄取和管理用于在线（MySQL群集）和离线（Apache Hive）访问的功能，大规模培训和提供模型.  |
 | [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB是面向开发人员的可解释AutoML框架. 借助MindsDB，您可以仅用一行代码即可构建，训练和使用最新的ML模型.  |
-| [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
+| [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.  |
 | [CML](https://github.com/iterative/cml)  | 一个开放源代码工具包，用于在数据科学项目中使用持续集成. 使用GitHub Actions＆GitLab CI在类似于生产的环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视报告.  |
-| [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|
+| [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|英特尔®开发人员专区
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于Python的推论统计，假设检验和回归框架|
 | [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库|
 | [spaCy](https://spacy.io/)  | 高效的自然语言处理工具包|
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio是基于Web的电子表格应用程序，与Python编程语言完全集成.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)| Python数据科学手册：Jupyter Notebooks中的全文|
-| [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
+| [Shapley](https://github.com/benedekrozemberczki/shapley)  | 一个数据驱动的框架，用于量化机器学习集合中分类器的价值.  |
 | [DAGsHub](https://dagshub.com)  | 一个基于开源工具构建的平台，用于数据，模型和管道管理.  |
 
 
@@ -277,6 +277,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 * [GPyTorch](https://github.com/cornellius-gp/gpytorch)
 * [pyro](https://github.com/uber/pyro)
 * [Catalyst](https://github.com/catalyst-team/catalyst)
+* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
 ### tensorflow
 * [TensorFlow](https://github.com/tensorflow/tensorflow)
 * [TensorLayer](https://github.com/zsdonghao/tensorlayer)
@@ -455,8 +456,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Sean J. Taylor](http://seanjtaylor.com/) -个人网页
 - [Drew Conway](http://drewconway.com/) -个人网页
 - [Hilary Mason](https://hilarymason.com/) -个人网页
-- [Noah Iliinsky](http://complexdiagrams.com/) -个人博客
-- [Matt Harrison](http://hairysun.com/) -个人博客
+- [Noah Iliinsky](http://complexdiagrams.com/) - Personal Blog
+- [Matt Harrison](http://hairysun.com/) - Personal Blog
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) -AllThings数据场景
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
@@ -470,7 +471,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science Report](http://datasciencereport.com/) MDS，Inc.帮助建立数据科学，高级分析，大数据架构和高性能软件工程领域的职业
 - [Louis Dorard](http://www.louisdorard.com/blog/) 对网络和数据都钟情的技术人员
 - [Machine Learning Mastery](http://machinelearningmastery.com/) 帮助专业程序员自信地应用机器学习算法来解决复杂的问题.
-- [Daniel Forsyth](http://www.danielforsyth.me/) -个人博客
+- [Daniel Forsyth](http://www.danielforsyth.me/) - Personal Blog
 - [Data Science Weekly](https://www.datascienceweekly.org/) -每周新闻博客
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) -数据科学博客
 - [R Bloggers](https://www.r-bloggers.com/) -R博客
@@ -479,9 +480,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [另一个数据博客](http://yet-another-data-blog.blogspot.com.tr/) 另一个数据博客
 - [Spenczar](http://spenczar.com/)  _Twitch_的一位数据科学家. 我负责整个数据管道，从跟踪到模型构建再到报告.
 - [KD Nuggets](http://www.kdnuggets.com/) 数据挖掘，分析，大数据，数据，科学而不是博客门户
-- [Meta Brown](http://www.metabrown.com/blog/) -个人博客
+- [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://www.datascientists.net/) 正在建立数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业界，政府机构和我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构和我们生活的影响.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) -大告示
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) -关于统计计算和可视化的思考
@@ -529,6 +530,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) -进化算法博客
 - [Jingles](https://jinglescode.github.io/) -审查并从学术论文中提取关键概念
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) -数据科学笔记本
+- [Deep and Shallow](https://deep-and-shallow.com/) -数据科学中的所有事物
 
 
 
@@ -579,7 +581,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [deeplearning4j](https://twitter.com/deeplearning4j) | |
 | [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，RelateIQ副总裁.  |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
-| [Drew Conway](https://twitter.com/drewconway)  | 数据书呆子，黑客，冲突学生.  |
+| [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
 | [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   |  @ _GrubHub_关于数据和熊猫的工作|
@@ -608,10 +610,10 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动化任务并改善决策. 企业家，前首席数据科学家@LinkedIn. 机器学习，ProductRei，网络|
 | [Prash Chan](https://twitter.com/MDMGeek)  |  @ IBM解决方案架构师，主数据管理，数据质量和数据治理Blogger. 数据科学，Hadoop，大数据和云.  |
 | [Quora Data Science](https://twitter.com/q_datascience)   |  Quora的数据科学主题|
-| [R-Bloggers](https://twitter.com/Rbloggers)  | 来自R博客圈，数据科学会议和（！）数据科学家的推特博客文章.  |
+| [R-Bloggers](https://twitter.com/Rbloggers)  | 来自R博客圈，数据科学会议和（！）的面向Twitter的Tweet博客文章，供数据科学家使用.  |
 | [Rand Hindi](https://twitter.com/randhindi) |  |
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
-| [Recep Erol](https://twitter.com/EROLRecep) | Data Science geek @ UALR |
+| [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学专家@ UALR |
 | [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家，遗传学家，硬件爱好者|
 | [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook数据科学团队. 关键字：实验，因果推理，统计，机器学习，经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
@@ -712,7 +714,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [data.gov](https://catalog.data.gov/dataset) -美国政府公开数据的所在地
 - [United States Census Bureau](http://www.census.gov/)
 - [usgovxml.com](http://usgovxml.com/)
-- [enigma.com](http://enigma.com/) -浏览公共数据世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
+- [enigma.com](http://enigma.com/) -浏览公共数据的世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)
@@ -729,7 +731,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
 - [Open Data Philly](https://www.opendataphilly.org/) 将人们与费城的数据联系起来
 - [grouplens.org](https://grouplens.org/datasets/) 电影样本（带有评级），书籍和Wiki数据集
-- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) -包含有利于机器学习的数据集
 - [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 经过 [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) （有关的： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
@@ -802,7 +804,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 <script>
    window.dataLayer = window.dataLayer ||  [];
   函数gtag（）{dataLayer.push（arguments）;}
-  gtag（&#39;js&#39;，new Date（））;
+  gtag('js', new Date());
 
   gtag（&#39;config&#39;，&#39;G-YL0RV0E5XZ&#39;）;
 </script>
