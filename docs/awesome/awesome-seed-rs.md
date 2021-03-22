@@ -10,7 +10,7 @@
     </a>
 </p>
 
-&gt;与种子相关的精选精彩清单
+&gt;与种子相关的超赞产品精选列表
 
 [Seed](https://seed-rs.org/) 是一个开源Rust框架，用于创建在WebAssembly中运行的快速可靠的Web应用程序.
 
@@ -55,11 +55,12 @@
 
 - [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) -显示有关AdEx广告协议的付款渠道网络的精选信息.
 - [Kavik.cz](https://github.com/MartinKavik/kavik.cz) -开源个人网站.
-- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev)  -一个相对简单的开源个人博客. 建立在 [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs)和 [`Diesel`](https://diesel.rs).
+- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev)  -一个相对简单的开源个人博客. 建造在 [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs)， 和 [`Diesel`](https://diesel.rs).
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) -种子的官方网站.
 - [WeightRS](https://gitlab.com/mkroehnert/weightrs) -简约和隐私友好的渐进式Web应用程序，用于跟踪您的体重.
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) -基本的音乐创作应用程序.
-- [Play Seed](https://play-seed.dev) -有关Play Seed的网站，用于演示Seed应用程序的游乐场.
+- [Play Seed](https://play-seed.dev) -有关Play Seed的网站，用于演示Seed应用的操场.
+- [Typesync](https://typesync.rutrum.net)  -测试歌曲歌词的打字速度. 用途 [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs)， 和 [`Diesel`](https://diesel.rs).
 
 ## Libraries
 
@@ -69,4 +70,4 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/seed-rs/awesome-seed-rs/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/seed-rs/awesome-seed-rs/blob/master/contributing.md) 第一的.

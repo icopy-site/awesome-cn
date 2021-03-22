@@ -7,7 +7,7 @@
   
   我创建了此列表，以便将来需要时可以轻松找到. 大多数文档和链接是从 [D forum](https://forum.dlang.org)， 这 [D wiki](https://wiki.dlang.org)和 [D package repository](https://code.dlang.org) . 探索GitHub还可以帮助托管许多libs.
   
-  如果您知道D中有趣的lib / app，请通过问题或请求请求告诉我:-).
+  如果您知道D中有趣的lib / app，请通过以下方式告诉我们 [GitHub issues](https://github.com/dlang-community/awesome-d/issues) 或者 [edit this file](https://github.com/dlang-community/awesome-d/edit/master/README.md).
   
 
 	- 基本信息
@@ -352,7 +352,7 @@
 	* Harfbuzz-文字整形引擎- [bindbc-harfbuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
 * [DerelictOrg](https://github.com/DerelictOrg) -一个托管所有废弃绑定的GitHub组织，其中包括：
 	* OpenGL 3（DerelictGL3）， 
-	* Bgfx（DerelictBgfx）， 
+	* Bgfx (DerelictBgfx), 
 	* ENet（DerelictENet），  
 	* SDL 2（DerelictSDL2）， 
 	* GLFW 3（DerelictGLFW3）， 
@@ -439,7 +439,7 @@
 * [eBay's TSV utilities](https://github.com/eBay/tsv-utils/)  -对TSV文件进行过滤，统计，采样，联接和其他操作. 非常快，特别适合大型数据集.
 
 ## Logging
-*Print with care.*
+*请小心打印*
 
 - [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) -Phobos即将推出的标准伐木设施
 - [dlogg](https://github.com/NCrashed/dlogg) -使用延迟和延迟日志记录并发应用程序和守护程序， [logrotate](https://linux.die.net/man/8/logrotate) 支持.

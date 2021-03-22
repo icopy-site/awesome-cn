@@ -18,15 +18,14 @@
 * [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) -欧盟发行的手册.
 * EDPS： [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) -欧盟数据保护主管的概况介绍.
   
-## Privacy by Design - Guides for developers (art. 15)
+## Privacy by Design - Guides for developers (art. 25)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
 
-## Data Protection Impact Assessments (DPIA, art. 25)
-* [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
-* [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
-* [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
-* [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
+## Security (art. 32)
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) -十大Web应用程序安全风险.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) -精简收集有关特定应用程序安全性主题的高价值信息.
+* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) -用于匿名敏感个人数据的开源软件.
 
 ## Incident management (art. 33 and 34)
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
@@ -35,10 +34,11 @@
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 * [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) -罚款和处罚概述.
 
-## Security (art. 32)
-* [OWASP Top 10](https://owasp.org/www-project-top-ten/) -十大Web应用程序安全风险.
-* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) -精简收集有关特定应用程序安全性主题的高价值信息.
-* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) -用于匿名敏感个人数据的开源软件.
+## Data Protection Impact Assessments (DPIA, art. 35)
+* [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
+* [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
+* [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
+* [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) -EDPS检查软件.

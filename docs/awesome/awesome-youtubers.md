@@ -35,7 +35,7 @@
 
 ## Programming in general
 
-有很多编程语言. 在本部分中，您可以找到任何编程语言，包括Python，C，Java. 此外，许多YouTube工作者都讲授这些语言的框架. 不仅编程语言，而且还有更多通用的编程内容. 您可以找到实用教程或理论教程.
+有很多编程语言. 在本部分中，您可以找到任何编程语言，包括Python，C，Java. 此外，许多YouTube工作者都讲授这些语言的框架. 不仅是编程语言，而且还有更通用的编程内容. 您可以找到实用教程或理论教程.
 
 [<img align="left" height="94px" width="94px" alt="Tech With Tim channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
 
@@ -162,7 +162,7 @@ Content about: C, C#, C++ \
 
 [**Java Brains**](https://www.youtube.com/c/JavaBrainsChannel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容约：Spring，Java
-Featured playlists: `Spring Framework Courses playlists`, `Spring Boot Microservices - Full Course playlists`, `Java EE Courses playlists`.
+特色播放列表：“ Spring Framework课程播放列表”，“ Spring Boot微服务-完整课程播放列表”，“ Java EE课程播放列表”.
 
 [<img align="left" height="94px" width="94px" alt="IAmTimCorey channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxRGfv1YCCh9tamNue4H4J1Ih_5i9hlr5cVtrGd=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/IAmTimCorey)
 
@@ -290,7 +290,7 @@ Content about: C#, .NET, Azure, AWS, General Programming \
 [<img align="left" height="94px" width="94px" alt="Andreas Kling channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngQe82aB9iyW0oPVNvK9C5P8S5amy4J8vNNgc0lNg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasKling)
 
 [**Andreas Kling**](https://www.youtube.com/c/AndreasKling) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容关于：黑客\
+Content about: Hacking \
 特色播放列表：“浏览器黑客”，“ DevTools黑客”，“ OS黑客”，“ SerenityOS”，“仿真器黑客”.  \
 <br/>
 
@@ -319,6 +319,12 @@ Content about: Java, Python, C#/C++ \
 [**dotNET**](https://www.youtube.com/c/dotNET) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: .NET, ASP.NET, C# \
 Featured playlists: `Desktop and .NET Code 101`, `ASP.NET Core 101`, `DevOps for .NET`, `C# Language Highlights`, `C# Advanced`, `and more`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngnH3h5aKC8bRNmvSvgomJi7Bj1-JPWxaf7V5kH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot)
+
+[**kudvenkat**](https://www.youtube.com/c/Csharp-video-tutorialsBlogspot) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: SQL Server, C#, ASP.NET, Design patterns \
+Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutorial for beginners`, `c# tutorial for beginners`, `ASP.NET tutorial for beginners`.
 
 
 ## Web development
@@ -635,6 +641,19 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 特色播放列表：“抽象代数”，“学习Python播放列表”，“关于学习的视频”，“更多科学主题”.  \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngK_x_ibq6xRq-NExEjxP7EnPSYDhUbDHoacpgF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+
+[**Abdul Bari**](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+内容约：算法
+精选播放列表：“算法”.  \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjxmp9I5SL4FJUX1HWlg0k3jZVimZ6aNmuhPDJL=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+
+[**mycodeschool**](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) \
+内容有关：C / C ++语言，数据结构，算法\
+特色播放列表：“排序算法”，“数据结构”，“ C / C ++中的指针”，“通过C编程简介”.
+
 
 ## Machine learning
 
@@ -719,7 +738,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 [<img align="left" height="94px" width="94px" alt="ScriptersWar channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxHXU1KlWM0ZLoRVEhO0OkVoj7YGndylnAZYkTxdg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ScriptersWar)
 
 [**ScriptersWar**](https://www.youtube.com/c/ScriptersWar) \
-内容有关：JavaScript，HTML5 \
+Content about: JavaScript, HTML5 \
 精选播放列表：“如何制作HTML5游戏：初学者JS指南JavaScript教程”，“更多视频”.  \
 <br/>
 
@@ -796,7 +815,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [<img align="left" height="94px" width="94px" alt="HeartBeast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
 
 [**HeartBeast**](https://www.youtube.com/user/uheartbeast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容有关：GODOT，2D，GameMaker \
+Content about: GODOT, 2D, GameMaker \
 特色播放列表：“ Godot Engine教程”，“ Godot中的基于资源的库存教程”，“ 2D Hack-n-Slash课程（完整课程）”，“ GameMaker Platform教程”.
 
 [<img align="left" height="94px" width="94px" alt="Meth Meth Method channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy1coScVH3_bUoljtyvGxH7jpeS73tNanRpBxHZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MethMethMethod)
@@ -827,13 +846,13 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**CodeCommand**](https://www.youtube.com/c/CodeCommand) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：道德黑客，安全性\
-特色播放列表：“网络安全-渗透测试课程（攻击性安全）”，“ Kali Linux教程|发行说明”. 渗透测试方法|`.
+特色播放列表：“网络安全-渗透测试课程（进攻性安全）”，“ Kali Linux教程| 渗透测试方法|`.
 
 [<img align="left" height="94px" width="94px" alt="LiveOverflow channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx0I11HLzaCk0XKTy0lF5w7Na4AO_0pxVjc8zkIHg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LiveOverflowCTF)
 
 [**LiveOverflow**](https://www.youtube.com/c/LiveOverflowCTF) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：道德黑客
-精选播放列表：“浏览器利用”，“硬件安全研究/移动设备”，“二进制利用”.  \
+Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="NullByte channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwX8qUlbr3ikiGsK_1TEe5i6ALRLhVXfDieN2ni=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
@@ -959,7 +978,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [<img align="left" height="94px" width="94px" alt="How to Graphic Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
 
 [**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Adobe Illustrator, Illustrations \
+内容关于：Adobe Illustrator，插图\
 特色播放列表：“ Adob​​e Illustrator CC平面插图教程”，“徽标创建教程播放列表”，“针对初学者的Adobe Illustrator CC”，“更多Adobe Illustrator播放列表”.
 
 [<img align="left" height="94px" width="94px" alt="ArmaganVideos channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz0yGLAogfKCoU7YgR_8bUj0q4c2WlDkcCozlT49w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/armaganvideos)
