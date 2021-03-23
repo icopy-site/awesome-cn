@@ -61,6 +61,7 @@
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) -基本的音乐创作应用程序.
 - [Play Seed](https://play-seed.dev) -有关Play Seed的网站，用于演示Seed应用的操场.
 - [Typesync](https://typesync.rutrum.net)  -测试歌曲歌词的打字速度. 用途 [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs)， 和 [`Diesel`](https://diesel.rs).
+- [CalcuPi](https://divykj.github.io/CalcuPi) -漂亮的蒙特卡洛模拟，用于近似pi的值.
 
 ## Libraries
 

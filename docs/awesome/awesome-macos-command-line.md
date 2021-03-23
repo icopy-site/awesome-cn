@@ -246,7 +246,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily格鲁吉亚
 默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFontSize 16
 默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2FixedFontFamily Menlo
-默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
+默认设置为com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
 ```
 
 #### Develop Menu and Web Inspector
@@ -500,7 +500,7 @@ defaults write com.apple.dock mru-spaces -bool true && \
 ```
 
 #### Icon Bounce
-全局设置当相应应用程序时Dock图标是否应该弹跳
+Global setting whether Dock icons should bounce when the respective application
 需要您的关注.
 ```sh
 ## Enable (Default)
@@ -1042,7 +1042,7 @@ cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Ve
 cp -v /应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMono- *〜/库/字体
 ```
 
-在较旧的OS版本中，您需要下载并安装Xcode 8 Beta，以便
+在较旧的OS版本中，您需要下载并安装Xcode 8 beta版才能执行此操作
 工作. 之后，它们应在所有应用程序中可用.
 ```sh
 cp -v /系统/应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMono- *〜/库/字体
@@ -1171,12 +1171,25 @@ sudo systemsetup -setartfreeze在
 #### Chime When Charging
 连接MagSafe时播放iOS充电声音.
 ```sh
+## Up to macOS 10.12 (Sierra)
+
 ## Enable
 默认写com.apple.PowerChime ChimeOnAllHardware -bool true &amp;&amp; \
 打开/System/Library/CoreServices/PowerChime.app
 
 ## Disable (Default)
 默认写com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \
+杀死所有力量
+```
+```sh
+## From macOS 10.13 (High Sierra) on
+
+## Enable (Default)
+默认写com.apple.PowerChime ChimeOnNoHardware -bool false &amp;&amp; \
+打开/System/Library/CoreServices/PowerChime.app
+
+## Disable
+默认写com.apple.PowerChime ChimeOnNoHardware -bool true &amp;&amp; \
 杀死所有力量
 ```
 
@@ -1605,7 +1618,7 @@ sudo spctl --master-禁用
 默认写com.apple.screensaver askForPasswordDelay -int 0
 
 ## Disable (Integer = lock delay in seconds)
-defaults write com.apple.screensaver askForPasswordDelay -int 10
+默认写com.apple.screensaver askForPasswordDelay -int 10
 ```
 
 #### Screensaver Password
@@ -1624,7 +1637,7 @@ defaults write com.apple.screensaver askForPasswordDelay -int 10
 
 tccutil命令管理隐私数据库，该数据库存储决策
 用户已确定应用程序是否可以访问个人数据. 您需要关闭
-在运行这些命令中的任何命令之前，除Terminal以外的所有应用程序.
+在运行这些命令中的任何命令之前，除终端外的所有应用程序.
 
 ```sh
 ## Full Reset for All Applications
@@ -1828,7 +1841,7 @@ sudo / Applications / Install \ OS \ X \ El \ Capitan.app/Contents/Resources/cre
 sudo / Applications / Install \ OS \ X \ Yosemite.app/Contents/Resources/createinstallmedia --volume / Volumes / USB --applicationpath / Applications / Install \ OS \ X \ Yosemite.app
 ```
 
-*为了在擦除驱动器之前进行确认，请从驱动器中删除`–nointeraction`.
+*为了在擦除驱动器之前进行确认，请从驱动器中删除`--nointeraction`.
   命令.
  *可选的“ –-downloadassets”标志是macOS 10.14（Mojave）中的新增功能. 它
   下载安装过程中可能需要的资产，例如更新.
@@ -1938,7 +1951,7 @@ qlmanage -p /路径/到/文件
 通过Apple Remote Desktop或VNC远程登录Mac时，您是
 有时需要在连接到
 苹果电脑. 尽管您可以禁用此行为，但明确建议您不要
-除非您确定没有其他人会关闭此功能，否则请关闭此功能.
+除非您确定没有其他人会关闭此功能，否则请关闭此功能
 不在时可以物理访问Mac.
 ```sh
 ## Disable

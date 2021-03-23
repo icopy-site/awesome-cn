@@ -83,6 +83,7 @@
 
 - [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
 - [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Coding Challenges](https://github.com/alexgurr/react-coding-challenges/)
 
 #### React Tools
 
@@ -120,7 +121,8 @@
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
-- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
+- [Blits](https://blitzjs.com) -Fullstack React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -177,7 +179,7 @@
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) -React的选择组件
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -使用React轻松美观地拖放列表
-- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行反应
 - [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应的断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
@@ -259,7 +261,7 @@
 - [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) -通过将JSON定义映射到您公开的React组件，从JSON构造React元素.
 - [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
 - [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
-- [react-helmet](https://github.com/nfl/react-helmet) -React的文档主管
+- [react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [ClearX](https://github.com/Autodesk/clearx)  -零学习曲线的快速，轻松状态管理.  ClearX为您的React应用程序提供了极大的灵活性来分离关注点
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
 - [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
@@ -269,7 +271,7 @@
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
-- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
+- [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
 - [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 - [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
@@ -307,7 +309,7 @@
 - [react-topcoat by @arnemart](https://github.com/arnemart/react-topcoat) -用于面漆的React组分的集合
 - [reactdown](https://github.com/andreypopp/reactdown) -使用markdown语法编写React组件
 - [react-jade](https://github.com/ForbesLindesay/react-jade) -将Jade编译为React JavaScript
-- [jade-react](https://github.com/duncanbeevers/jade-react) -将Jade模板编译为React.DOM表达式
+- [jade-react](https://github.com/duncanbeevers/jade-react) - Compile Jade templates to React.DOM expressions
 - [gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react) -使用Gulp将Jade模板编译为React已淘汰的JSX
 - [sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs) -使用npm反应SBT插件
 - [scalajs-react](https://github.com/japgolly/scalajs-react) -Scala.js与Facebook的React之间有罪
@@ -462,7 +464,7 @@
 - [reaviz](https://github.com/reaviz/reaviz) -基于D3.js的React数据可视化库
 - [react-vis](https://github.com/uber/react-vis) -一个React可视化库，设计时考虑了以下原则：React友好，高级且可自定义，富有表现力且具有行业优势.
 - [nivo](https://github.com/plouc/nivo) -它在D3和React库的基础上提供了丰富的数据可视化组件集.
-- [vx](https://github.com/hshoff/vx)  -可重用的底层可视化组件的集合. 它结合了D3的强大功能来生成可视化效果，并结合了React用于更新DOM的优势.
+- [vx](https://github.com/hshoff/vx)  -可重用的底层可视化组件的集合. 它结合了D3的强大功能来生成可视化效果，并结合了React用于更新DOM的好处.
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) -一个非常简单的ECharts包装器，用于React.
 - [Chartify](https://github.com/kis/chartify) -React插件，用于使用CSS构建图表.
 - [Semiotic](https://github.com/nteract/semiotic) -结合了React和D3的数据可视化框架.
@@ -802,6 +804,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本将JSX转换为JS，甚至Flux尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

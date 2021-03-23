@@ -114,7 +114,7 @@
 - [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) -演示如何使用JAX执行SGD和Momentum的内部损失优化，使用梯度的外部损失优化以及使用进化策略进行外部损失优化.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) -使用JAX轻松，干净地实现自动差分变异推理（ADVI）.
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) -训练对不同分辨率的输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法确定特定损失的最佳组合.
-- [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/book1/intro/jax_intro.ipynb) -Colab介绍了语言的各个方面，并将它们应用于简单的ML问题.
+- [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/book1/supplements/jax_intro.ipynb) -Colab介绍了语言的各个方面，并将它们应用于简单的ML问题.
 
 <a name="community" />
 

@@ -42,7 +42,7 @@
 - [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451)  Alex Tellez，Max Pumperla，Michal Malohlava.  （2017）
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，阿比舍克·辛格（Abhishek Singh）.  （2016年）
 - [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) 达伦·库克（Darren Cook）.  （2016年）
-- [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) 托马斯·丁斯莫尔（Thomas Dinsmore）.  （2016年）
+- [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) 托马斯·丁斯摩尔（Thomas Dinsmore）.  （2016年）
 - [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/) 布拉德利·埃夫隆（Bradley Efron），特雷弗·哈斯蒂（Trevor Hastie）.  （2016年）
 - [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials) 约书亚·威利（Joshua F.  （2016年）
 - [Spark in Action](https://www.manning.com/books/spark-in-action)  Petar Zecevic，Marko Bonacci.  （2016年）
@@ -50,18 +50,19 @@
 
 ## Research Papers
 
+- [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) 蒂莫西·马奎尔（Timothy J. Maguire），斯科特·OC·蒙德尔（Scott OC Mundle）.  （2020年）
 - [Predicting Risk of Delays in Postal Deliveries with Neural Networks and Gradient Boosting Machines](https://www.diva-portal.org/smash/get/diva2:1467609/FULLTEXT01.pdf)  MatildaSöderholm.  （2020年）
 - [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  马尔卡·塔克（Malkar Tackle）.  （2020年）
 - [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf) . 艾琳·莱德尔（Erin LeDell），塞巴斯蒂安·普里耶（Sebastien Poirier）.  （2020年）
 - [Single-cell mass cytometry on peripheral blood identifies immune cell subsets associated with primary biliary cholangitis](https://www.nature.com/articles/s41598-020-69358-4) 金成章，布莱恩·朱兰（Brian D.  （2020年）
-- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.Polley），埃米拉·希梅利斯（Hermella Shimelis），悉达多·亚达夫（Siddhartha Yadav），弗格斯·J·库什（Fergus J.Couch）.  （2020年）
+- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.  （2020年）
 - [Innovative deep learning artificial intelligence applications for predicting relationships between individual tree height and diameter at breast height](https://doi.org/10.1186/s40663-020-00226-3) 伊尔卡·埃坎利（İlkerErcanlı）.  （2020年）
 - [An Open Source AutoML Benchmark](https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf)  Peter Gijsbers，Erin LeDell，Sebastien Poirier，Janet Thomas，Berndt Bischl，Joaquin Vanschoren.  （2019）
 - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803) 塞巴斯蒂安·拉什卡（Sebastian Raschka），约书亚·帕特森（Joshua Patterson），科里·诺莱特（Corey Nolet）.  （2019）
-- [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970) 费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
-- [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)  费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
+- [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970) 费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉尔·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
+- [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)  费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉·赫尔南德斯（Emilio Del-Moral-Hernandez）.  （2018）
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，Etiowo Code，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
-- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
+- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf) 乔治·阿尔弗雷多·斯佩迪卡托（Giorgio Alfredo Spedicato），克里斯托弗·杜唐（Christophe Dutang）和莱昂纳多·佩特里尼（Leonardo Petrini）.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergii Stirenko，Yuri Gordienko.  （2017）
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14)  AndrésArévalo，JaimeNiño，德国人Hernandez，Javier Sandoval，DiegoLeón，ArbeyAragón.  （2017）
 - [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407) 雅各布·W·卡明加，海伦娜·C·比斯比，杜克·V·勒，涅rv乐队，保罗·J·哈马加.  （2017）
@@ -73,15 +74,15 @@
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)  Janis Tiemann，Johannes Pillmann，Christian Wietfeld.  （2017）
 - [Inferring passenger types from commuter eigentravel matrices](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20) 埃里卡·菲尔·T·莱加拉（Erika Fille T.  （2017）
 - [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657) 克里斯托弗·克劳斯（Christopher Krauss），宣安·杜（Anna Xuan Anh），尼古拉斯·赫克（Nicolas Huckb）.  （2016年）
-- [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true) 西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.  （2016年）
+- [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true) 西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.Carvalho），吉尔赫姆·拉莫斯（Guilherme N.Ramos）.  （2016年）
 - [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG. Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016年）
 - [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016年）
 - [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N.Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O.Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G.Gorgoulis.  （2016年）
-- [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) 斯特凡妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016年）
+- [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) 斯蒂芬妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016年）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) 斯坦尼斯瓦夫·格鲁什奇津斯克（KrzysztofUrbański）.  （2016年）
 - [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) 艾琳·莱戴尔（Erin LeDell）.  （2015年）
-- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) 罗杰欧·诺曼（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
-- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) 吉尔斯·卢佩（Gilles Louppe）.  （2014年）
+- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) 罗杰欧·诺曼德（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
+- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) 吉尔斯·卢佩（Gilles Louppe）  （2014年）
 
 ## Benchmarks
 

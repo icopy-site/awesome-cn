@@ -114,6 +114,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [garn-validator](https://github.com/jupegarnica/garn-validator) -轻松创建验证.
 - [gentleRpc](https://github.com/timonson/gentleRpc) -用于Deno和浏览器的JSON-RPC 2.0 TypeScript库.
 - [gql](https://github.com/deno-libs/gql) -通用GraphQL HTTP中间件.
+- [graphql-tag](https://github.com/deno-libs/graphql-tag) -来自模板文字的GraphQL模式AST. 
 - [http](https://github.com/denoland/deno_std/tree/master/http) -包括文件服务器的HTTP模块.
 - [invert-kv](https://github.com/denorg/invert-kv) -在Deno中反转键/值对.
 - [lazy](https://github.com/luvies/lazy) -类似于linq的惰性求值迭代模块.
@@ -165,8 +166,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 ## Registries
 
 - [crux.land](https://crux.land/) -一种免费的注册表服务，用于托管小型（&lt;10kB）单面脚本.
-- [Deno PKG](https://denopkg.com/) -在您的Deno项目中使用来自GitHub的代码的更简单方法.
-- [nest.land](https://nest.land) -一个由区块链驱动的不可变的Deno软件包注册表. 
+- [Deno PKG](https://denopkg.com/) -在您的Deno项目中使用GitHub中的代码的更简便方法.
+- [nest.land](https://nest.land) -一个由区块链驱动的不可变的Deno软件包注册中心. 
 
 ## Showcases
 
@@ -187,7 +188,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denoliver](https://github.com/joakimunge/denoliver) -具有实时重新加载功能的简单，无依赖的文件服务器.
 - [denomander](https://github.com/siokas/denomander) -Deno命令行界面灵感来自commander.js.
 - [denon](https://github.com/denosaurs/denon)  -守护程序脚本运行程序，例如nodemon. 内置并用于Deno.
-- [denopkg](https://github.com/denopkg/denopkg.com) -在您的Deno项目中使用来自GitHub的代码的更简单方法.
+- [denopkg](https://github.com/denopkg/denopkg.com) -在您的Deno项目中使用GitHub中的代码的更简便方法.
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) -用于安装和运行Deno的跨平台Makefile.

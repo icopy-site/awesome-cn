@@ -243,6 +243,7 @@
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
+* [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
 
 ### jQuery
 
@@ -284,7 +285,6 @@
 ### Objective-C
 
 * [Interview Qs for Objective-C and Swift](http://insights.dice.com/2015/07/21/interview-qs-objective-c-swift/)
-* [iOS/ObjC Interview Questions](http://andras.palfi.hu/iosobjc-interview-questions/)
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 
 ### PHP
@@ -303,7 +303,7 @@
 ### Python
 
 * [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
-* [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
+* [20 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 * [11 Essential Python Interview Questions from Toptal](http://www.toptal.com/python/interview-questions)
 * [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
