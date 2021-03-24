@@ -245,6 +245,7 @@
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的着陆页模板.
 -  [Resume](https://github.com/mohusman360/mohusman360.github.io) -使用Tailwind CSS的简单简历.
+-  [Resume](https://github.com/Thomashighbaugh/resume) -使用Tailwind CSS构建的风格化简历模板，具有漂亮的英雄图案背景和自定义字体.
 -  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) -使用React＆Tailwind CSS构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) -使用Vue 3和Tailwind CSS构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) -使用Nuxt.js和Tailwind CSS构建的免费目标网页模板.

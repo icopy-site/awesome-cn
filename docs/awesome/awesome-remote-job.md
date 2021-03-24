@@ -108,6 +108,7 @@
   1. [Your Commute Is Killing You](https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html)
   1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
   1. [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
+  1. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -124,7 +125,7 @@
   1. [The Remote Jobseeker’s Handbook](https://cobyism.com/remotejobseeker/).
      Coby Chapple（GitHub），2016年.
   1. [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/).
-     韦德·福斯特（Wapi Foster）（扎比尔），2015年.
+     韦德·福斯特（韦德·福斯特（Zapier）），2015年.
   1. [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
      斯科特·伯克恩（Scott Berkun），2013年.
 
@@ -302,7 +303,7 @@
   1. [BRYTER](https://bryter.io/)  -决策自动化的无代码平台；  Kotlin，打字稿，Vue.js，k8s
   1. [Buffer](https://buffer.com/journey/)  -帮助管理社交媒体的工具.  PHP，CodeIgniter，MongoDB，Memcache，Backbone.js，React.js，Grunt.js，LESS和Python.
   1. [Bugfender](https://bugfender.com/)  -Bugfender是适用于多个平台（包括iOS和Android）的远程记录器. 它存储由您的应用程序创建的日志，并将它们发送到我们的服务器，从而创建一个远程控制台，您可以在其中实时查看日志. 远程公司设在巴塞罗那.
-  1. [ButterCloud](http://www.buttercloud.com/)  -由网络和应用开发人员组成的小组. 我们帮助初创公司和中小型企业构建，维护和发展他们的产品.
+  1. [ButterCloud](http://www.buttercloud.com/)  -一支由网络和应用开发人员组成的小组. 我们帮助初创公司和中小型企业构建，维护和发展他们的产品.
   1. [Cadasta](https://cadasta.org/about-us-3/careers-2/)  -用于绘制全球土地和资源权利的安全平台.  100％的远程团队；  Python，Django，JavaScript，PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) -Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs)  -符合HIPAA的医疗保健云计算. 总部位于威斯康星州麦迪逊.  Docker，Go，Python.
@@ -572,7 +573,7 @@
   1. [Noisli](https://www.noisli.com/) -Noisli提供了一系列不同的环境声音，这些声音可以组合起来以增强创造力和注意力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) -`return&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产率（也与其他活动兼容）.
   1. [Qbserve](https://qotoqot.com/qbserve/) -时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈（Mac）.
-  1. [Realtime Board](https://realtimeboard.com/) -分布式永久虚拟白板.
+  1. [Miro](https://miro.com) （fka Realtime Board）-分布式永久虚拟白板.
   1. [Teleport Sundial](https://sundial.teleport.org) -管理分布式团队的位置和时区.
   1. [Timing](https://timingapp.com/)  -Mac的自动时间和生产力跟踪. 帮助您保持工作进度（在远程工作时尤其重要）. 此外，如果您按小时计费（Mac），还可以确保不会浪费可计费时间.
 

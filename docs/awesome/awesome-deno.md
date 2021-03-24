@@ -52,9 +52,10 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) -格式化字节（Uint8Array，ArrayBufferView等）输出，在调试IO功能时很有用.
 - [cac](https://github.com/cacjs/cac) -用于构建命令行应用程序的简单但功能强大的框架.
 - [camelcase](https://github.com/denolib/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
+- [chart](https://github.com/maximousblk/chart) -控制台ASCII折线图，无依赖性.
 - [coffee](https://github.com/irandeno/coffee) -Deno配置-一种类型安全，易于使用的Deno配置管理器.
 - [colors](https://deno.land/std/fmt/colors.ts) -用于Deno的基本控制台颜色库.
-- [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
+- [computed_types](https://github.com/neuledge/computed-types) -Joi喜欢Typescript和Deno的验证器.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) -在执行长任务时，在终端中显示微调框.
 - [cliffy](https://github.com/c4spar/deno-cliffy) -用于构建交互式命令行工具的完整解决方案.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) -一个简单的CSV解析器.
@@ -92,7 +93,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) -从segmentio / xml-parser移植的Deno XML解析器.
 - [denodb](https://github.com/eveningkid/denodb) -用于Deno的MySQL，SQLite，MariaDB，PostgreSQL和MongoDB ORM.
 - [denotrain](https://github.com/Caesar2011/denotrain) -带有中间件支持的多合一Web框架，例如Express或Fastify forNode.js.
-- [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.
+- [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [dinoenv](https://deno.land/x/dinoenv) -小型库，用于使用deno管理环境变量.
 - [djwt](https://github.com/timonson/djwt) -根据JWT和JWS规范在Deno上制作JSON Web令牌（JWT）.
 - [dndb](https://github.com/denyncrawford/dndb) -为Deno编写的持久性和可嵌入的NoSQL数据库引擎. 

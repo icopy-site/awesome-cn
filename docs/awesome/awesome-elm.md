@@ -111,7 +111,7 @@
 ### Miscellaneous videos
 
 * [Dillon Kearns: Types Without Borders | 2018](https://www.youtube.com/watch?v=memIRXFSNkU) -elm-conf 2018讨论使用GraphQL等外部模式的端到端类型安全.
-* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) -在React.js Conf 2016上发表了有关Elm教授JavaScript世界的知识以及JS开发人员为何应考虑尝试的演讲.
+* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) -在React.js Conf 2016上发表了有关Elm教授JavaScript世界的知识以及JS开发人员为什么应该考虑尝试JavaScript的演讲.
 * [Richard Feldman: Introduction to Elm | 2016](https://www.youtube.com/watch?v=3_M2G9U51GA) -演讲，对Elm进行了广泛，高层次的介绍.
 * [Amitai Burstein: Frontend with Guarantees | 2016](https://www.youtube.com/watch?v=FgaoOgJ5CAU) -来自You Gotta Love Frontend 2016的演讲
 * [Jessica Kerr: Adventures in Elm | 2016](https://www.youtube.com/watch?v=cgXhMc8M4X4) -在GOTO Chicago 2016上谈论函数式编程与Elm的结合.
@@ -153,7 +153,7 @@
 
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) -理查德·费尔德曼（Richard Feldman）和泰莎·凯利（Tessa Kelly）.
 * [The Changelog 218](https://changelog.com/podcast/218) -Elm与Evan Czaplicki和Richard Feldman
-* [The Changelog 191](https://changelog.com/podcast/191/) -与理查德·费尔德曼（Richard Feldman）合作的Elm和函数式编程.
+* [The Changelog 191](https://changelog.com/podcast/191/) -与Richard Feldman一起进行Elm和函数式编程.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) -Elm与Richard Feldman和Srinivas Rao.
 * [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) -Elm和Evan Czaplicki和Richard Feldman.
 * [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) -Elm与Richard Feldman和Evan Czaplicki.
@@ -201,7 +201,6 @@
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) -为Elm生成OpenApi类型.
 * [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) -在Elm和TypeScript之间建立编码器/解码器.
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) -从Elm生成TypeScript定义（“ Elm TS Interop”是对此的改进版本）.
-* [Elm JSON Interop](https://github.com/pravdomil/elm-json-interop) -从Elm文件生成JSON编码器/解码器和TypeScript定义.
 * [Quicktype](https://github.com/quicktype/quicktype) -从JSON生成JSON解码器和编码器
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) -根据JSON模式规范生成Elm类型，JSON解码器，JSON编码器和模糊测试
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) -从Haskell生成榆木类型
