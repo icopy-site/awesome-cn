@@ -236,7 +236,7 @@
 #### Material Icons
 
 - [Paper](https://snwh.org/paper) -材质图标主题.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) -材质图标主题，最初基于Paper.
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
@@ -294,8 +294,10 @@
 
 - [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) -完美的起点，开始为GNOME做出贡献.
 - [GNOME Developer Center](https://developer.gnome.org/) -包含所有官方GNOME文档.
-- [Valadoc](https://valadoc.org/) - Documentation about Vala.
+- [GTK Documentation](https://docs.gtk.org) -官方GTK文档.
+- [Valadoc](https://valadoc.org/) -有关Vala的文档.
 - [GJS Documentation](https://gjs-docs.gnome.org/) -JavaScript GTK绑定的文档.
+- [GJS Guide](https://gjs.guide/) -GJS指南.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) -用Python编写GTK + 3应用程序的介绍.
 
 [GNOME核心]：https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg

@@ -39,6 +39,7 @@
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) -存根 [grpc](https://github.com/grpc/grpc).
 - [boto3-stubs](https://github.com/vemel/mypy_boto3_builder) -存根 [boto3](https://github.com/boto/boto3).
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) -存根 [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+- [lxml-stubs](https://github.com/lxml/lxml-stubs) -存根 [lxml](https://lxml.de).
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) -存根 [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) -存根 [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) -存根 [Pythonista](http://omz-software.com/pythonista/docs/ios/).
@@ -62,7 +63,7 @@
 - [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) -flake8插件，用于验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) -flake8插件，用于检查函数定义中是否存在类型注释.
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) -用于检查输入导入是否受到适当保护的插件.
-- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) -flake8插件，可帮助确定将哪些导入放入类型检查块中，以及一旦导入被移动后如何调整类型注释.
+- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) -flake8插件，可帮助确定将哪些导入放入类型检查块中，以及一旦导入移动后如何调整类型注释.
 
 ### Testing
 
@@ -81,7 +82,7 @@
 
 ### Helper tools to add annotations to existing code
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到Python代码中.
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的Python代码中.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) -pytest的MonkeyType插件.
 - [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.

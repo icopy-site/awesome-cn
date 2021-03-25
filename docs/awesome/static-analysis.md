@@ -127,7 +127,7 @@ This project would not be possible without the generous support of our sponsors.
 
 <h2 id="c">C</h2>
 
-- [Astrée](https://www.absint.com/astree/index.htm)  ：copyright：-Astrée自动证明C / C ++应用程序中没有运行时错误和无效的并发行为. 对于浮点计算来说，这是一种声音，非常快速且异常精确. 该分析仪还检查MISRA / CERT / CWE / Adaptive Autosar编码规则，并支持ISO 26262，DO-178C A级和其他安全标准的鉴定.  Jenkins和Eclipse插件可用.
+- [Astrée](https://www.absint.com/astree/index.htm)  ：copyright：-Astrée自动证明C / C ++应用程序中没有运行时错误和无效的并发行为. 对于浮点计算而言，这是一种声音，非常快速且异常精确. 该分析仪还检查MISRA / CERT / CWE / Adaptive Autosar编码规则，并支持ISO 26262，DO-178C A级和其他安全标准的鉴定.  Jenkins和Eclipse插件可用.
 - [CBMC](http://www.cprover.org/cbmc) -用于C程序，用户定义的断言，标准断言，多个coverage度量分析的有界模型检查器.
 - [clang-tidy](http://clang.llvm.org/extra/clang-tidy) -lang静态分析.
 - [clazy](https://github.com/KDE/clazy)  -基于Clang框架的面向Qt的静态代码分析器.  clazy是一个编译器插件，允许clang理解Qt语义. 您会收到50多个与Qt相关的编译器警告，从不必要的内存分配到API的滥用，包括用于自动重构的修复程序.
@@ -149,7 +149,7 @@ This project would not be possible without the generous support of our sponsors.
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 分析几乎所有支持C11 / C18和C ++ 17的平台的代码.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，零除，越界数组访问以及某些其他运行时错误.
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) -在编译时使用LLVM分析C / C ++代码.
 - [splint](http://splint.org) -注释辅助的静态程序检查器.
 - [SVF](http://svf-tools.github.io/SVF) -静态工具，可对C和C ++程序进行可伸缩且精确的过程间依存关系分析.
@@ -160,14 +160,14 @@ This project would not be possible without the generous support of our sponsors.
 
 - [.NET Analyzers](https://github.com/DotNetAnalyzers) -使用.NET编译器平台开发分析器（诊断和代码修复）的组织.
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
-- [Code Analysis Rule Collection](https://carc.codeplex.com) ：warning：-包含一组基于Microsoft .NET编译器平台“ Roslyn”构建的诊断，代码修复和重构.
+- [Code Analysis Rule Collection](https://carc.codeplex.com) ：warning：-包含一组在Microsoft .NET编译器平台“ Roslyn”上构建的诊断，代码修复和重构.
 - [code-cracker](http://code-cracker.github.io) :warning: - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) :warning: - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 - [Designite](http://www.designite-tools.com) ：copyright：-Designite支持检测各种体系结构，设计和实现的气味，计算各种代码质量指标以及趋势分析.
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) -Gendarme将检查包含ECMA CIL格式（Mono和.NET）代码的程序和库.
 - [Infer#](https://github.com/microsoft/infersharp) - InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 - [NDepend](http://www.ndepend.com) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
-- [Puma Scan](https://pumasecurity.io) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 - [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) -与VS集成的基于Roslyn的静态分析器集合.
 - [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) -.NET编译器平台（“ Roslyn”）诊断分析器和代码修复.
@@ -175,7 +175,7 @@ This project would not be possible without the generous support of our sponsors.
 
 <h2 id="cpp">C ++</h2>
 
-- [Astrée](https://www.absint.com/astree/index.htm)  ：copyright：-Astrée自动证明C / C ++应用程序中没有运行时错误和无效的并发行为. 对于浮点计算来说，这是一种声音，非常快速且异常精确. 该分析仪还检查MISRA / CERT / CWE / Adaptive Autosar编码规则，并支持ISO 26262，DO-178C A级和其他安全标准的鉴定.  Jenkins和Eclipse插件可用.
+- [Astrée](https://www.absint.com/astree/index.htm)  ：copyright：-Astrée自动证明C / C ++应用程序中没有运行时错误和无效的并发行为. 对于浮点计算而言，这是一种声音，非常快速且异常精确. 该分析仪还检查MISRA / CERT / CWE / Adaptive Autosar编码规则，并支持ISO 26262，DO-178C A级和其他安全标准的鉴定.  Jenkins和Eclipse插件可用.
 - [CBMC](http://www.cprover.org/cbmc) -用于C程序，用户定义的断言，标准断言，多个coverage度量分析的有界模型检查器.
 - [clang-tidy](http://clang.llvm.org/extra/clang-tidy) -lang静态分析.
 - [clazy](https://github.com/KDE/clazy)  -基于Clang框架的面向Qt的静态代码分析器.  clazy是一个编译器插件，允许clang理解Qt语义. 您会收到50多个与Qt相关的编译器警告，从不必要的内存分配到API的滥用，包括用于自动重构的修复程序.
@@ -197,7 +197,7 @@ This project would not be possible without the generous support of our sponsors.
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 分析几乎所有支持C11 / C18和C ++ 17的平台的代码.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，零除，越界数组访问以及某些其他运行时错误.
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) -在编译时使用LLVM分析C / C ++代码.
 - [splint](http://splint.org) -注释辅助的静态程序检查器.
 - [SVF](http://svf-tools.github.io/SVF) -静态工具，可对C和C ++程序进行可伸缩且精确的过程间依存关系分析.
@@ -253,7 +253,7 @@ This project would not be possible without the generous support of our sponsors.
 
 <h2 id="erlang">Erlang</h2>
 
-- [dialyzer](https://erlang.org/doc/man/dialyzer.html)  -DIALYZER，一种用于ERlang程序的差异分析仪.  Dialyzer是一种静态分析工具，可在单个Erlang模块或整个（一组）应用程序中识别软件差异，例如确定的类型错误，由于编程错误而变得无效或无法访问的代码以及不必要的测试.
+- [dialyzer](https://erlang.org/doc/man/dialyzer.html)  -DIALYZER，一种用于ERlang程序的差异分析仪.  Dialyzer是一种静态分析工具，可在单个Erlang模块或整个（组）应用程序中识别软件差异，例如确定的类型错误，由于编程错误而变得无效或无法访问的代码以及不必要的测试.
  Dialyzer从调试编译的BEAM字节码或Erlang源代码开始分析. 报告差异的文件和行号以及有关差异的指示.  Dialyzer的分析基于成功类型的概念，该概念允许发出声音警告（无误报）.
 - [elvis](https://github.com/inaka/elvis) -Erlang样式审阅者.
 - [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) - A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
@@ -351,7 +351,7 @@ This project would not be possible without the generous support of our sponsors.
 - [JBMC](https://www.cprover.org/jbmc) -Java的有界模型检查器（字节码），验证用户定义的断言，标准断言和若干覆盖率度量分析.
 - [NullAway](https://github.com/uber/NullAway)  -具有低构建时间开销的基于类型的空指针检查器； 一个 [Error Prone](http://errorprone.info/) 插入.
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) - Checks dependencies for known, publicly disclosed, vulnerabilities.
-- [qulice](https://www.qulice.com) ：warning：-组合了一些（预配置）静态分析工具（checkstyle，PMD，Findbugs等）.
+- [qulice](https://www.qulice.com) ：warning：-结合了一些（预配置）静态分析工具（checkstyle，PMD，Findbugs等）.
 - [Soot](https://soot-oss.github.io/soot) -用于分析和转换Java和Android应用程序的框架.
 - [Spoon](http://spoon.gforge.inria.fr)  -Spoon是一个元编程库，用于分析和转换Java源代码（包括Java 9、10、11、12、13、14）. 它解析源文件以构建具有强大分析和转换API的精心设计的AST. 可以集成在Maven和Gradle中.
 - [SpotBugs](https://spotbugs.github.io)  -SpotBugs是FindBugs的继任者. 静态分析工具，用于查找Java代码中的错误.
@@ -422,7 +422,7 @@ This project would not be possible without the generous support of our sponsors.
 - [churn-php](https://github.com/bmitch/churn-php) -帮助发现良好的重构候选人.
 - [dephpend](https://github.com/mihaeu/dephpend) -依赖性分析工具.
 - [deprecation-detector](https://github.com/sensiolabs-de/deprecation-detector) -查找不推荐使用的（Symfony）代码的用法.
-- [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依赖性的规则.
+- [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依存关系的规则.
 - [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) -检测PHP代码中的设计模式.
 - [EasyCodingSt和ard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-和-php-cs-fixer-in-3-lines) - 结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 - [GrumPHP](https://github.com/phpro/grumphp) -每次提交时检查代码.
@@ -541,7 +541,7 @@ This project would not be possible without the generous support of our sponsors.
 <h2 id="rust">锈</h2>
 
 - [C2Rust](https://c2rust.com)  -C2Rust可帮助您将符合C99的代码迁移到Rust. 编译器（或编译器）生成不安全的Rust代码，该代码紧密地镜像了输入的C代码.
-- [cargo udeps](https://github.com/est31/cargo-udeps)  -在Cargo.toml中找到未使用的依赖项. 它要么打印出列出未使用的板条箱的“未使用的板条箱”行，要么打印出一条未使用板条箱的行.
+- [cargo udeps](https://github.com/est31/cargo-udeps)  -在Cargo.toml中找到未使用的依赖项. 它要么打印出列出该板条箱的“未使用的板条箱”行，要么打印出一条未使用任何板条箱的行.
 - [cargo-audit](https://rustsec.org) -审核Cargo.lock，以将带有安全漏洞的板条箱报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
 - [cargo-deny](https://embarkstudios.github.io/cargo-deny)  -用于减少依赖关系的货运插件. 它也可以用作命令行，Rust板条箱或CI的Github操作. 它检查有效的许可证信息，重复的板条箱，安全漏洞等.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
@@ -556,7 +556,7 @@ This project would not be possible without the generous support of our sponsors.
 - [Rust Language Server](https://github.com/rust-lang-nursery/rls) -支持“转到定义”，符号搜索，重新格式化和代码完成等功能，并支持重命名和重构.
 - [rust-analyzer](https://rust-analyzer.github.io) -支持“转到定义”，类型推断，符号搜索，重新格式化和代码完成等功能，并支持重命名和重构.
 - [rust-audit](https://github.com/Shnatsel/rust-audit)  -审核Rust二进制文件中的已知错误或安全漏洞. 通过将有关依赖关系树（Cargo.lock）的数据以JSON格式嵌入到已编译的可执行文件的专用链接器部分中，可以进行此操作.
-- [rustfix](https://github.com/rust-lang/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy提供的建议）提出的建议.
+- [rustfix](https://github.com/rust-lang/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy所提供的皮棉）提出的建议.
 - [rustfmt](https://github.com/rust-lang/rustfmt) -根据样式指南格式化Rust代码的工具.
 
 
@@ -645,12 +645,12 @@ This project would not be possible without the generous support of our sponsors.
 - [Codacy](https://www.codacy.com) ：copyright：-代码分析可以更快地发布更好的代码.
 - [Code Inspector](https://www.code-inspector.com) ：copyright：-支持10多种语言的代码质量和技术债务管理平台.
 - [Code Intelligence](https://www.code-intelligence.com) ：copyright：-与CI / CD无关的DevSecOps平台，结合了行业领先的模糊引擎，可用于发现错误并可视化代码覆盖率
-- [Codeac](https://www.codeac.io/?ref=awesome-static-analysis)  ：copyright：-自动代码审查工具与GitHub，Bitbucket和GitLab（甚至是自托管）集成. 适用于JavaScript，TypeScript，Python，Ruby，Go，PHP，Java，Docker等.  （免费开源）
+- [Codeac](https://www.codeac.io/?ref=awesome-static-analysis)  ：copyright：-自动化代码审查工具与GitHub，Bitbucket和GitLab集成（甚至是自托管）. 适用于JavaScript，TypeScript，Python，Ruby，Go，PHP，Java，Docker等.  （免费开源）
 - [codeburner](http://groupon.github.io/codeburner) ：warning：-提供一个统一的界面来对发现的问题进行排序并采取行动.
 - [codechecker](https://codechecker.readthedocs.io/en/latest) -具有Web GUI的Clang静态分析器的缺陷数据库和查看器扩展.
 - [CodeFactor](https://codefactor.io) ：copyright：-在GitHub或BitBucket上针对仓库的自动代码分析.
 - [CodeFlow](https://www.getcodeflow.com)  ：copyright：-自动化的代码分析工具来处理技术深度. 与Bitbucket和Gitlab集成.  （对于开源项目免费）
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：copyright：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码遵循（您的）预定义的设计和样式指南以及最佳编码实践.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：版权所有：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码遵循（您的）预定义的设计和样式指南以及最佳编码实践.
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) ：copyright：-由安全性驱动的自动SAST代码检查，支持15种以上的语言，并包括安全性培训.
 - [codeql](https://github.com/github/codeql) -深入的代码分析-带有VSCode插件支持的几种语言的语义查询和数据流.
 - [Coderrect](https://coderrect.com/)  ：copyright：-用于多线程软件的高级静态分析器. 支持OpenMP，Pthread，std :: thread和GPU / CUDA.
@@ -662,7 +662,7 @@ This project would not be possible without the generous support of our sponsors.
 - [cqc](https://github.com/xcatliu/cqc) ：warning：-检查js，jsx，vue，css，less，scss，sass和styl文件的代码质量.
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner)  -用于ruby编写的Web应用程序的静态分析安全扫描程序. 它支持Sinatra，Padrino和Ruby on Rails框架.
 - [DeepCode](https://www.deepcode.ai)  ：copyright：-DeepCode基于AI查找错误，安全漏洞，性能和API问题.  DeepCode的分析速度使我们能够实时分析您的代码，并在您单击IDE中的“保存”按钮时提供结果. 支持的语言是Java，C / C ++，JavaScript，Python和TypeScript. 与GitHub，BitBucket和Gitlab的集成.
-- [DeepSource](https://deepsource.io)  ：copyright：-深入的静态分析，以发现错误风险，安全性，反模式，性能，文档和样式等垂直方面的问题. 与GitHub，GitLab和Bitbucket的本地集成. 小于5％的误报率.
+- [DeepSource](https://deepsource.io)  ：copyright：-深入的静态分析，以发现垂直于bug风险，安全性，反模式，性能，文档和样式的问题. 与GitHub，GitLab和Bitbucket的本地集成. 小于5％的误报率.
 - [Depends](https://github.com/multilang-depends/depends) -分析Java，C / C ++，Ruby的代码元素的全面依赖关系.
 - [DevSkim](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 - [Embold](https://embold.io) :copyright: - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
@@ -799,6 +799,7 @@ This project would not be possible without the generous support of our sponsors.
 <h2 id="configfile">配置文件</h2>
 
 - [dotenv-linter](https://dotenv-linter.readthedocs.io/en/latest) -像魅力一样整理dotenv文件.
+- [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/)  -适用于.env文件的闪电般快速的林特. 写在锈
 - [gixy](https://github.com/yandex/gixy)  ：warning：-分析Nginx配置的工具. 主要目标是防止配置错误并自动进行缺陷检测.
 
 
@@ -825,7 +826,7 @@ This project would not be possible without the generous support of our sponsors.
 - [collector](https://github.com/banyanops/collector) ：warning：-在容器内运行任意脚本，并收集有用的信息.
 - [dagda](https://github.com/eliasgranderubio/dagda) -对Docker映像/容器中的已知漏洞执行静态分析.
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) ：warning：-整理和验证Dockerfile标签.
-- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践的Docker映像.
+- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践Docker映像.
 - [kube-score](https://kube-score.com) -Kubernetes对象定义的静态代码分析.
 - [KubeLinter](https://github.com/stackrox/kube-linter) -KubeLinter是一个静态分析工具，用于检查Kubernetes YAML文件和Helm图表，以确保其中表示的应用程序遵循最佳实践.
 - [kubeval](https://kubeval.instrumenta.dev) -验证您的Kubernetes配置文件并支持多个Kubernetes版本.
@@ -915,7 +916,7 @@ This project would not be possible without the generous support of our sponsors.
 
 <h2 id="security">安全/ SAST</h2>
 
-- [Attackflow Extension](https://www.attackflow.com/Extension) ：copyright：-用于Visual Studio的Attackflow插件，它使开发人员无需任何先验知识就可以在源代码中实时发现关键的安全错误.
+- [Attackflow Extension](https://www.attackflow.com/Extension) ：copyright：-适用于Visual Studio的Attackflow插件，它使开发人员无需任何先验知识就可以在源代码中实时发现关键的安全错误.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) -一个SAST工具，用于检测git repos中的硬编码机密，例如密码，api密钥和令牌.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  -iblessing是iOS安全利用工具包. 它可以用于逆向工程，二进制分析和漏洞挖掘.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) -整理npm或yarn锁定文件以分析和检测安全问题

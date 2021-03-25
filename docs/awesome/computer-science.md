@@ -57,7 +57,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
  **过程**. 学生可以按顺序或不按顺序单独或分组学习课程.
 -我们建议您在Core CS中进行所有课程，仅当您确定以前已经学习过这些材料时才跳过课程.
 -为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
- -高级CS课程为选修课. 选择一个您想成为专家的学科（例如高级编程），并选择该标题下的所有课程. 您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
+ -高级CS课程为选修课. 选择一个您想成为专家的学科（例如，高级编程），并选择该标题下的所有课程. 您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
 
 *不要无视您在每门课程开始时所签署的行为准则*！
 
@@ -103,7 +103,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学领域. 从以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料. 如果您想进一步完成该课程，则计算机科学很可能适合您！
+本课程将向您介绍计算机科学领域. 从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料. 如果您想进一步完成该课程，则计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -138,8 +138,8 @@ Lisp家庭语言（通过球拍）
 
 课程持续时间| 努力先决条件| 讨论
 :-- | :--: | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周每周8-10个小时| 无| [chat](https://discord.gg/RfqAmGJ)
-[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周| 每周8-10个小时| 如何编码：简单数据 [chat](https://discord.gg/kczJzpm)
+[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)  |  7周每周8-10个小时| 无| [chat](https://discord.gg/RfqAmGJ)
+[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)  |  6周| 每周8-10个小时| 如何编码：简单数据 [chat](https://discord.gg/kczJzpm)
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5周| 每周4-8个小时| 如何编码（[Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周每周4-8个小时| 编程语言，A部分| [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周每周4-8个小时| 编程语言，B部分| [chat](https://discord.gg/8EZUVbA)
@@ -383,7 +383,7 @@ CMOS技术
 ### Advanced applications
 
 这些Coursera专业化课程均以Capstone项目结束.
-根据课程的不同，您可能可以将Capstone用作该计算机科学课程的最终项目.
+根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
 因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
@@ -404,7 +404,7 @@ CMOS技术
 OSS University是**以项目为中心的**.
 我们鼓励您为每门课程做作业和考试，但真正重要的是您是否可以*利用*您的知识来解决实际问题.
 
-在掌握了所有核心CS和与您相关的高级CS的各个部分之后，您应该考虑一个可以使用所学知识解决的问题.
+阅读完所有核心CS和与您相关的高级CS的各个部分后，您应该考虑一个可以使用所学知识解决的问题.
 真实的项目工作不仅在简历上看起来很棒，而且该项目还将“验证”并“巩固”您的知识.
 您可以创建全新的内容，也可以通过以下网站找到需要帮助的现有项目
 [CodeTriage](https://www.codetriage.com/)
@@ -450,7 +450,7 @@ or
 
 ## Congratulations
 
-完成上述课程的要求后，您将获得与计算机科学相同的完整学士学位的学位. 恭喜你！
+完成上述课程的要求后，您将完成与计算机科学相同的学士学位. 恭喜你！
 
 接下来是什么？ 可能性是无限的和重叠的：
 
