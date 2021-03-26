@@ -421,7 +421,7 @@
 - [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate) -通过使用Vuex作为状态管理来启动大规模，灵活的Vue.js应用程序的样板- [Arun Redhu](https://arunredhu.in)
 - [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 - [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
-- [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) 带有SASS / TS / SFC短绒的样板完整的类型安全性，包括vuex和带有`vuex-module-decorators`，`vue-property-decorator`的漂亮vue组件
+- [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) 带有sass / ts / sfc短绒的样板. 完整的类型安全性，包括vuex和带有`vuex-module-decorators`，`vue-property-decorator`的漂亮vue组件
 - [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - 经过 [@acidjazz](https://github.com/acidjazz)
 - [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 - [TO](https://github.com/snturk/to) -社交媒体应用程序，可让您仅发布文本.
@@ -705,7 +705,7 @@
 - [Wijmo](http://wijmo.com/products/wijmo-5/) -带有VueJS支持的UI控件的集合.
 - [ChatWoot](https://www.chatwoot.com/) -通过Facebook Messenger进行Livechat和代理协作.
 - [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue) -具有多个布局和laravel版本的VueJS管理模板.
-- [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) - Team collab-app moving effortlessly between talking, planning & doing
+- [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) -团队合作应用在谈话，计划和做事之间毫不费力地移动
 - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) -用于教育代理商和大学的CRM和销售自动化.
 - [Pragmatic v2.0](https://1.envato.market/LYWqL) -使用Vue.js和Element构建的响应式和可配置管理模板.
 - [Moonitor](https://moonitor.io/) -台式机的加密货币跟踪器.
@@ -1969,7 +1969,7 @@ _显示图片_
 - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) -vue.js中基于zxcvbn的密码强度计.
 - [vue-float-label](https://github.com/bkzl/vue-float-label) -Vue.js的浮动标签模式.
 - [vue-longpress](https://github.com/javisperez/vuelongpress) -一个VueJS（2.x）按钮组件，要求您按住以确认给定的操作.
-- [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) -适用于Google Maps Places API的Vue.js（2.x）自动建议组件.
+- [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) -Google Maps Places API的Vue.js（2.x）自动建议组件.
 - [vue-default-value](https://github.com/termosa/vue-default-value) -Vue.js 2.x指令为可编辑元素设置默认值，而不会影响模型状态
 - [vue-model-autoset](https://github.com/outluch/vue-model-autoset) -一个Vue.js插件，可解决通过v-model指令观察动态添加的属性时的Vue限制
 - [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) -Ladda的简单实现（[1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)）不到90行代码，没有任何依赖关系.
@@ -2025,6 +2025,9 @@ _显示图片_
 - [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) -在Vue项目中建立反应性2D图形场景.
 - [vue-scratchable](https://github.com/sebastianwachter/vue-scratchable) -一个Vue.js包装器组件，可将所有内容变成有趣的刮刮卡.
 - [vue-rough](https://github.com/dneustadt/vue-rough) -Rough.js的组件，这是一个图形库，可让您以粗略的手绘风格绘制.
+- [vue3-signature](https://github.com/WangShayne/vue3-signature) -Vue 3的电子签名组件
+- [vue-signature](https://github.com/WangShayne/vue-signature) -Vue2.x的电子签名组件
+
 
 #### Link Preview
 
@@ -2493,7 +2496,7 @@ _将DOM节点移至目标DOM节点_
 - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) -将进度条与所有请求联系在一起的拦截器，很明显，正在加载某些内容.
 - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) -Vue.js 2.0指令可检测图像加载.
 - [vue-visible](https://github.com/javisperez/vue-visible) -VueJS（2.x）的v可见指令，类似于v-show但具有可见性.
-- [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) -用于检测容器大小调整的组件（基于事件）
+- [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) -用于检测容器大小的组件（基于事件）
 - [v-blur](https://github.com/ndelvalle/v-blur) -Vue指令动态模糊元素
 - [vue-async-methods](https://github.com/mokkabonna/vue-async-methods) -帮助程序实用程序，用于基于承诺的方法
 - [vue-openseadragon](https://github.com/braceslab/vue-openseadragon) -Vue.js的OpenSeaDragon组件（缩放和平移）
@@ -2867,7 +2870,7 @@ _用于构建/编译/捆绑/加载资产的实用工具_
 
 #### Migration
 
-- [vue-backbone](https://github.com/mikeapr4/vue-backbone) -有助于Backbone集成的Vue.js插件.
+- [vue-backbone](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration.
 - [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) -将Vue.js SFC转换为composition api语法.
 
 #### Web Sockets

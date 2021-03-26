@@ -49,7 +49,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
@@ -138,14 +138,18 @@
 - [htconvert](https://github.com/lukechilds/htconvert) -将.htaccess重定向转换为nginx.conf重定向.
 - [SAWS](https://github.com/donnemartin/saws) -增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) -功能齐全的S3客户端.
-- [lstags](https://github.com/ivanilves/lstags) -跨不同的注册表同步Docker映像.
 - [pm2](https://pm2.io/runtime/) -Node.js的生产流程管理器.
-- [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
-- [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose界面.
-- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
+
+### Docker
+
+- [lstags](https://github.com/ivanilves/lstags) -跨注册表同步图像.
+- [dockly](https://github.com/lirantal/dockly) -交互式管理容器.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose界面.
 - [docker-shell](https://github.com/Trendyol/docker-shell) -简单的交互式docker界面.
+- [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) -将自述文件推送到容器注册表.
 
 ### Release
 
@@ -306,7 +310,7 @@
 - [brightness-cli](https://github.com/kevva/brightness-cli) -更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) -将Yank终端输出到剪贴板.
 - [screensaver](https://github.com/gillstrom/screensaver) -启动屏幕保护程序.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) -在您的本地计算机上下载并安装Google Web字体.
 - [neofetch](https://github.com/dylanaraps/neofetch) -系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) -系统监控工具.
 
@@ -315,7 +319,7 @@
 - [cmdchallenge](https://cmdchallenge.com/) -通过用户提交的解决方案提出小型外壳挑战.
 - [explainshell](http://www.explainshell.com/) -键入命令行摘要以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) -通过命令行即时编码答案.
-- [how2](https://github.com/santinic/how2) -查找在UNIX bash命令行上进行操作的最简单方法（howdoi的Nodejs实现）.
+- [how2](https://github.com/santinic/how2) -找到在UNIX bash命令行上进行操作的最简单方法（howdoi的Nodejs实现）.
 - [The Fuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令.
 - [tldr](https://github.com/tldr-pages/tldr) -简化且由社区驱动的手册页.
 - [Wat](https://github.com/dthree/wat) -即时，集中，社区构建的文档.
@@ -323,6 +327,8 @@
 - [navi](https://github.com/denisidoro/navi) -交互式备忘单工具.
 
 ## Data Manipulation
+
+- [visidata](https://github.com/saulpw/visidata) -用于数据发现和整理的电子表格多功能工具.
 
 ### Processors
 
@@ -358,7 +364,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -402,7 +408,7 @@
 - [fasd](https://github.com/clvv/fasd) -命令行生产力增强器，受自动跳转，z和v的启发，提供了对文件和目录的快速访问.
 - [pm](https://github.com/Angelmmiguel/pm) -在Shell上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) -z是新的j，哟.
-- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker为您提供了一个不错的UI，可以选择您感兴趣的文件.
+- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker将为您提供一个不错的UI，以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成.
 - [goto](https://github.com/iridakos/goto) -具有自动完成功能的Shell的目录别名.
 - [z.lua](https://github.com/skywind3000/z.lua) -`cd`命令，可以学习您的习惯.
@@ -425,7 +431,7 @@
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) -：tv：命令行的漂亮GitHub客户端.
 - [Gistup](https://github.com/mbostock/gistup) -从终端创建要点，然后使用git进行更新.
 - [git commander](https://github.com/golbin/git-commander) -带有简单终端界面的git工具.
-- [git-stats](https://github.com/IonicaBizau/git-stats) -：four_leaf_clover：一个类似GitHub的贡献日历，但在本地，包含所有git提交.
+- [git-stats](https://github.com/IonicaBizau/git-stats) -：four_leaf_clover：类似于GitHub的贡献日历，但在本地，包含所有git提交.
 - [hub](https://github.com/github/hub) -git的命令行包装，使您在GitHub上更好.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) -从命令行编辑GitHub标签.

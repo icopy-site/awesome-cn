@@ -19,7 +19,7 @@
 
 ## Sponsors
 
-This project would not be possible without the generous support of our sponsors.
+没有我们的赞助者的慷慨支持，这个项目是不可能的.
 
 <table>
   <tr>
@@ -211,7 +211,7 @@ This project would not be possible without the generous support of our sponsors.
 
 <h2 id="coffeescript">CoffeeScript</h2>
 
-- [coffeelint](http://www.coffeelint.org) ：warning：-样式检查器，可帮助确保CoffeeScript代码干净且一致.
+- [coffeelint](http://www.coffeelint.org) :warning: - A style checker that helps keep CoffeeScript code clean and consistent.
 
 
 <h2 id="crystal">水晶</h2>
@@ -256,7 +256,7 @@ This project would not be possible without the generous support of our sponsors.
 - [dialyzer](https://erlang.org/doc/man/dialyzer.html)  -DIALYZER，一种用于ERlang程序的差异分析仪.  Dialyzer是一种静态分析工具，可在单个Erlang模块或整个（组）应用程序中识别软件差异，例如确定的类型错误，由于编程错误而变得无效或无法访问的代码以及不必要的测试.
  Dialyzer从调试编译的BEAM字节码或Erlang源代码开始分析. 报告差异的文件和行号以及有关差异的指示.  Dialyzer的分析基于成功类型的概念，该概念允许发出声音警告（无误报）.
 - [elvis](https://github.com/inaka/elvis) -Erlang样式审阅者.
-- [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) - A tool to do a basic scan of Erlang source code and report any function calls that may cause Erlang source code to be insecure.
+- [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) -一种对Erlang源代码进行基本扫描并报告可能导致Erlang源代码不安全的函数调用的工具.
 
 
 <h2 id="fsharp">F#</h2>
@@ -343,14 +343,14 @@ This project would not be possible without the generous support of our sponsors.
 - [Doop](https://bitbucket.org/yanniss/doop)  -Doop是一个以指针分析算法为中心的，用于Java / Android程序静态分析的声明性框架.  Doop提供了各种各样的分析，还提供了周围的脚手架来进行端到端的分析（事实生成，处理，统计等）.
 - [Error-prone](https://errorprone.info) -捕获常见的Java错误作为编译时错误.
 - [fb-contrib](http://fb-contrib.sourceforge.net) ：warning：-具有附加错误检测器的FindBugs插件.
-- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  -检测并禁止调用特定的方法/类/字段（例如从没有字符集的文本流中读取）.  Maven / Gradle / Ant兼容.
+- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) - Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 - [google-java-format](https://github.com/google/google-java-format) -Google样式重新格式化.
 - [HuntBugs](https://github.com/amaembo/huntbugs) ：warning：-基于Procyon编译器工具的字节码静态分析器工具，旨在取代FindBugs.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) ：copyright：-捆绑了许多针对Java和Kotlin的检查，其中包括用于重构，格式化等的工具.
 - [JArchitect](https://www.jarchitect.com) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
 - [JBMC](https://www.cprover.org/jbmc) -Java的有界模型检查器（字节码），验证用户定义的断言，标准断言和若干覆盖率度量分析.
 - [NullAway](https://github.com/uber/NullAway)  -具有低构建时间开销的基于类型的空指针检查器； 一个 [Error Prone](http://errorprone.info/) 插入.
-- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) - Checks dependencies for known, publicly disclosed, vulnerabilities.
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) -检查依赖项是否存在已知的，公开披露的漏洞.
 - [qulice](https://www.qulice.com) ：warning：-结合了一些（预配置）静态分析工具（checkstyle，PMD，Findbugs等）.
 - [Soot](https://soot-oss.github.io/soot) -用于分析和转换Java和Android应用程序的框架.
 - [Spoon](http://spoon.gforge.inria.fr)  -Spoon是一个元编程库，用于分析和转换Java源代码（包括Java 9、10、11、12、13、14）. 它解析源文件以构建具有强大分析和转换API的精心设计的AST. 可以集成在Maven和Gradle中.
@@ -407,7 +407,7 @@ This project would not be possible without the generous support of our sponsors.
 
 <h2 id="nim">他</h2>
 
-- [DrNim](https://nim-lang.org/docs/drnim.html) - DrNim combines the Nim frontend with the Z3 proof engine in order to allow verify / validate software written in Nim.
+- [DrNim](https://nim-lang.org/docs/drnim.html) -DrNim将Nim前端与Z3证明引擎结合在一起，以允许使用Nim编写的验证/验证软件.
 - [nimfmt](https://github.com/FedericoCeratto/nimfmt) -Nim代码格式化程序/ linter /样式检查器
 
 
@@ -435,7 +435,7 @@ This project would not be possible without the generous support of our sponsors.
 - [PHP Assumptions](https://github.com/rskuipers/php-assumptions) ：警告：-检查弱假设.
 - [PHP Coding Standards Fixer](https://cs.symfony.com) -根据PSR-1，PSR-2和Symfony标准等标准修复代码.
 - [PHP Insights](https://phpinsights.com)  -从您的控制台进行即时PHP质量检查. 分析代码质量和编码样式，并对代码体系结构及其复杂性进行概述.
-- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) -用于PHP的静态代码分析器.
+- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) - A Static Code Analyzer for PHP.
 - [PHP Refactoring Browser](http://qafoolabs.github.io/php-refactoring-browser) -重构助手.
 - [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) -根据语义版本建议下一个版本.
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) -用PHP编写的PHP解析器.
@@ -529,7 +529,7 @@ This project would not be possible without the generous support of our sponsors.
 - [RuboCop](https://docs.rubocop.org/rubocop) -基于社区Ruby样式指南的Ruby静态代码分析器.
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) -Ruby类交互式依赖图生成器.
 - [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) ：warning：-Ruby的静态代码分析.
-- [rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter.
+- [rubycritic](https://github.com/whitesmith/rubycritic) -Ruby代码质量报告程序.
 - [rufo](https://github.com/ruby-formatter/rufo) -一种自以为是的ruby格式化程序，旨在通过命令行作为文本编辑器插件使用，以便在保存或按需自动格式化文件时使用.
 - [Saikuro](https://metricfu.github.io/Saikuro) ：warning：-一个Ruby循环复杂度分析器.
 - [SandiMeter](https://rubygems.org/gems/sandi_meter) ：warning：-用于检查Ruby代码中Sandi Metz规则的静态分析工具.
@@ -688,7 +688,7 @@ This project would not be possible without the generous support of our sponsors.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) -凭借其70多个嵌入式Linter，Mega-Linter可以处理任何类型的项目，
  可以在任何CI系统或本地运行的高级报告，
  具有辅助的安装和配置，能够应用格式和修复
-- [multilint](https://github.com/adamchainz/multilint) -围绕着“ flake8”，“ isort”和“ modernize”的包装器.
+- [multilint](https://github.com/adamchainz/multilint) - A wrapper around `flake8`, `isort` and `modernize`.
 - [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查.
 - [NodeJSScan](https://opensecurity.in) -NodeJsScan是用于Node.js应用程序的静态安全代码扫描程序.
 - [oclint](http://oclint.org) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷.
@@ -755,10 +755,15 @@ This project would not be possible without the generous support of our sponsors.
 
 
 
+<h2 id="ansible">Ansible</h2>
+
+- [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
+
+
 <h2 id="binary">二进制文件</h2>
 
 - [angr](https://github.com/angr/angr) -二进制代码分析工具，也支持符号执行.
-- [binbloom](https://github.com/quarkslab/binbloom)  -该项目的目的是分析原始二进制固件并自动确定其某些功能. 该工具基本上与所有体系结构兼容，只是对其进行简单的统计.
+- [binbloom](https://github.com/quarkslab/binbloom)  -分析原始二进制固件，并确定诸如字节顺序或加载地址之类的功能. 该工具与所有体系结构兼容.
 加载地址：binbloom可以解析原始二进制固件并确定其加载地址. 字节序：binbloom可以使用启发式方法来确定固件的字节序.  UDS数据库：binbloom可以解析原始二进制固件，并检查其是否包含包含UDS命令ID的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) ：copyright：-分析源代码和二进制文件以获取可重用代码，必要许可证和潜在安全方面的工具.
@@ -812,6 +817,7 @@ This project would not be possible without the generous support of our sponsors.
 - [checkov](https://www.checkov.io) -用于Terraform文件的静态分析工具（tf&gt; = v0.12），可防止在构建时云配置错误.
 - [cookstyle](https://docs.chef.io/cookstyle.html) -Cookstyle是基于RuboCop Ruby衬棉工具的衬棉工具，适用于厨师食谱.
 - [foodcritic](http://www.foodcritic.io) -检查主厨食谱中常见问题的皮棉工具.
+- [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) -检查您的人偶清单是否符合样式指南.
 - [terraform-compliance](https://terraform-compliance.com) -针对Terraform的轻量级，专注于合规性和安全性的BDD测试框架.
 - [terrascan](https://github.com/cesar-rodriguez/terrascan) -收集用于Terraform模板的静态代码分析的安全性和最佳实践测试.
@@ -827,6 +833,7 @@ This project would not be possible without the generous support of our sponsors.
 - [dagda](https://github.com/eliasgranderubio/dagda) -对Docker映像/容器中的已知漏洞执行静态分析.
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) ：warning：-整理和验证Dockerfile标签.
 - [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践Docker映像.
+- [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
 - [kube-score](https://kube-score.com) -Kubernetes对象定义的静态代码分析.
 - [KubeLinter](https://github.com/stackrox/kube-linter) -KubeLinter是一个静态分析工具，用于检查Kubernetes YAML文件和Helm图表，以确保其中表示的应用程序遵循最佳实践.
 - [kubeval](https://kubeval.instrumenta.dev) -验证您的Kubernetes配置文件并支持多个Kubernetes版本.
@@ -865,9 +872,14 @@ This project would not be possible without the generous support of our sponsors.
 - [Spectral](https://stoplight.io/open-source/spectral) -灵活的JSON / YAML linter，不支持OpenAPI v2 / v3和AsyncAPI v2.
 
 
+<h2 id="kubernetes">州长</h2>
+
+- [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
+
+
 <h2 id="latex">乳胶</h2>
 
-- [ChkTeX](http://www.nongnu.org/chktex) - A linter for LaTex which catches some typographic errors LaTeX oversees.
+- [ChkTeX](http://www.nongnu.org/chktex) -用于LaTex的短绒棉布，可捕获LaTeX监督的某些印刷错误.
 - [lacheck](https://www.ctan.org/pkg/lacheck) -查找LaTeX文档中常见错误的工具.
 - [TeXLab](https://texlab.netlify.app) -TeX / LaTeX的语言服务器协议实现，包括棉绒功能.
 
@@ -919,6 +931,7 @@ This project would not be possible without the generous support of our sponsors.
 - [Attackflow Extension](https://www.attackflow.com/Extension) ：copyright：-适用于Visual Studio的Attackflow插件，它使开发人员无需任何先验知识就可以在源代码中实时发现关键的安全错误.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) -一个SAST工具，用于检测git repos中的硬编码机密，例如密码，api密钥和令牌.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  -iblessing是iOS安全利用工具包. 它可以用于逆向工程，二进制分析和漏洞挖掘.
+- [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) -整理npm或yarn锁定文件以分析和检测安全问题
 - [njsscan](https://opensecurity.in) -静态应用程序测试（SAST）工具，可以使用来自libsast的简单模式匹配器和可识别语法的语义代码模式搜索工具semgrep在node.js应用程序中找到不安全的代码模式.
 - [Oversecured](https://oversecured.com)  ：copyright：-一个移动应用程序漏洞扫描程序，专为安全研究人员和漏洞赏金黑客使用. 它还允许将集成到企业的DevOps流程中.
@@ -947,6 +960,11 @@ This project would not be possible without the generous support of our sponsors.
 - [haml-lint](https://github.com/sds/haml-lint) -用于编写干净且一致的HAML的工具.
 - [slim-lint](https://github.com/sds/slim-lint) -用于分析Slim模板的可配置工具.
 - [yamllint](https://yamllint.readthedocs.io) -检查YAML文件的语法有效性，键重复和外观问题，例如行长，尾随空格和缩进.
+
+
+<h2 id="terraform">地貌</h2>
+
+- [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
 
 
 <h2 id="translation">翻译</h2>

@@ -34,7 +34,7 @@
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) -3D量子态可视化工具，能够模拟多达22个量子位.
 - [Quantum Computing UK](https://quantumcomputinguk.org/) -免费的Qiskit教程和代码存储库.
 - [Quantum Computing for the Very Curious](https://quantum.country/qcvc) -随笔，介绍迈克尔·尼尔森（Michael Nielsen）和安迪·马图沙克（Andy Matuschak）的量子计算.
-- [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) -易于阅读的知识库，其中包含基本的量子计算概念.
+- [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - Easy to read knowledge base, rich of basic Quantum Computing concepts.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) -四个量子位光子量子模拟器和计算机.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) -量子机器学习算法的解释.
@@ -78,7 +78,7 @@
 - [Qrack](https://vm6502q.readthedocs.io) -高性能LGPL许可的C ++量子模拟器库，文档和测试代码.
 - [Quantum++](https://github.com/vsoftco/qpp) -高性能的现代C ++ 11量子计算库.
 - [Quantum Inspire](https://www.quantum-inspire.com/) -QuTech在模拟器或量子硬件上运行量子算法的平台.
-- [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
+- [Quantum Programming Studio](https://quantum-circuit.com/) -基于Web的量子编程IDE和模拟器.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) -用于量子计算的嵌入式，可扩展的功能性编程语言.
 - [Qurry](https://github.com/LSaldyt/Qurry) -基于功能和概率范例的量子概率编程语言.
 - [QuTiP](http://qutip.org/docs/latest/index.html) -Python中的量子工具箱，用于模拟开放量子系统的动力学.
@@ -89,7 +89,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google Quantum Computing Team的成员.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享他们的研究和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
@@ -119,6 +119,7 @@
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) -用对话方法解释有效解决方案的量子计算.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) -使用大学计算机科学专业的学生可以使用的方法来解释量子计算.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) -通过其实际实现的角度解释量子计算.
+- [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) -针对高中生，本科生和公众的免费提供的量子计算教科书.
 
 ## Popular Science
 - [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)  -量子计算和计算复杂性理论的可爱介绍. 该课程面向最广泛的目标受众，并包含一些与哲学相关的主题.

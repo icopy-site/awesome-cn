@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选的超赞清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -27,8 +27,8 @@
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) -JupyterLab是Jupyter的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) -基于Nix的框架，用于定义声明性和可复制的Jupyter环境.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) -单元魔术，用于浏览器通知单元完成.
-- [kaggle/docker-python](https://github.com/kaggle/docker-python) -Kaggle Python泊坞窗图片，包括数据集和软件包.
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace) -Docker映像，其中包括Jupyter（Lab）和各种用于数据科学/机器学习的软件包.
+- [kaggle/docker-python](https://github.com/kaggle/docker-python) -Kaggle Python泊坞窗图片，其中包含数据集和软件包.
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) -Docker映像，其中包括Jupyter（Lab）和用于数据科学/机器学习的各种软件包.
 - [nteract](https://github.com/nteract/nteract) -本机台式机笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) -本机台式机笔记本前端.
 - [voila](https://github.com/voila-dashboards/voila) -笔记本作为交互式独立Web应用程序.
@@ -40,18 +40,18 @@
 - [IllumiDesk](https://github.com/IllumiDesk/illumidesk) -基于Docker的JupyterHub + LTI + nbgrader发行版，用于教育.
 - [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) -在Jupyter中使用彩色网格练习Python.
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) -Jupyter的Google驱动器.
-- [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) -在Open edX XBlock中获取并显示部分或整个Jupyter Notebook.
-- [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) -自动为创建为Jupyter笔记本的学生作业评分，并将分数写入Open edX成绩簿中.
+- [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) -在Open edX XBlock中获取并显示Jupyter Notebook的一部分或整个Jupyter Notebook.
+- [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) -自动为创建为Jupyter笔记本的学生作业评分，并将分数写在Open edX成绩簿中.
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) -通过Edx进行身份验证.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) -创建自动评估的练习.
-- [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) -将git信息库单向同步到本地路径.
+- [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) -将git储存库单向同步到本地路径.
 - [nbgrader](https://github.com/jupyter/nbgrader) -分配和分级Jupyter笔记本.
 - [nbtutor](https://github.com/lgpage/nbtutor) -可视化Python代码执行（逐行）.
 
 ## Visualization
 
 - [Altair](https://github.com/altair-viz/altair) -基于Python的声明式可视化库，基于 [Vega](http://vega.github.io/vega) 和 [Vega-Lite](https://github.com/vega/vega-lite).
-- [Bokeh](https://bokeh.pydata.org/en/latest/) -交互式可视化库，面向现代Web浏览器进行演示.
+- [Bokeh](https://bokeh.pydata.org/en/latest/) -针对现代Web浏览器进行演示的交互式可视化库.
 - [bqplot](https://github.com/bloomberg/bqplot) -Jupyter基于图形的交互式绘图框架的语法.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) -Jupyter笔记本电脑的原型网络可视化前端.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) -Jupyter笔记本中用于Leaflet.js地图的交互式可视化库.
@@ -59,7 +59,7 @@
 - [ipytree](https://github.com/QuantStack/ipytree/) -Jupyter的树UI元素.
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) -Jupyter中的视频/音频流.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) -Jupyter的UI小部件.
-- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) -基于小部件和WebGL的Jupyter中的Python 3D绘图.
+- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) -基于小部件和WebGL在Jupyter中进行Python的3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) -交互式小部件以2D和3D形式显示图像.
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊目的交互式图表的基础结构.
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 展示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
@@ -112,12 +112,13 @@
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) -显示drawio / mxgraph图的扩展.
 - [elyra](https://github.com/elyra-ai/elyra) -用于在本地或远程创建和运行笔记本（或Python脚本）管道的可视化编辑器.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) -用于在JupyterLab中导航到变量或函数的定义的扩展.
-- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) -Google Drive集成扩展.
-- [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) -在JupyterLab内部通过电子邮件发送笔记本及其内容.
+- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) -Google云端硬盘集成扩展.
+- [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) -通过JupyterLab发送电子邮件给笔记本及其内容.
+- [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) -从Jupyterlab文件浏览器执行脚本的扩展.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) -扩展了将笔记本发布到 [Kyso](https://kyso.io) Jupyterlab开发的平台.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) -JupyterLab中的笔记本模板.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) -扩展功能，可实时编辑LaTeX文档.
-- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似于IDE的功能（代码导航，悬停建议，linter，诊断，无内核自动完成等）
+- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似于IDE的功能（代码导航，悬停建议，lint，诊断，无内核自动完成等）
 - [nb_black](https://github.com/dnanhkhoa/nb_black) -扩展以保持Python代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) -在JupyterLab中探索CPython字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) -通过输入文件名的一部分在JupyterLab中快速打开文件.
@@ -139,15 +140,15 @@
 - [nbval](https://github.com/computationalmodelling/nbval) -用于验证Jupyter笔记本的Py.test插件.
 - [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) -用于生成Jupyter笔记本的Sphinx扩展.
 - [nosebook](https://github.com/bollwyvl/nosebook) -鼻子插件，用于查找和运行IPython笔记本作为鼻子测试.
-- [treebeard](https://github.com/treebeardtech/treebeard) -用于测试/安排Jupyter笔记本的GitHub Action
-- [treon](https://github.com/ReviewNB/treon) -易于使用的Jupyter Notebook测试框架.
+- [treebeard](https://github.com/treebeardtech/treebeard) -用于测试/安排Jupyter笔记本的GitHub动作.
+- [treon](https://github.com/ReviewNB/treon) -适用于Jupyter Notebook的易于使用的测试框架.
 
 ## Domain-Specific Projects
 
 - [ArcGIS](https://developers.arcgis.com/python/) -由Web GIS支持的用于处理地图和地理空间数据的库.
 - [GenePattern Notebook](http://genepattern-notebook.org) -将基因组分析与交互式笔记本集成在一起.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) -探索性地理空间分析的扩展.
-- [Jupylet](https://github.com/nir/jupylet) -在Jupyter笔记本电脑中交互式创建2D和3D游戏，图形，现场音乐和声音.
+- [Jupylet](https://github.com/nir/jupylet) -在Jupyter笔记本电脑中交互式地创建2D和3D游戏，图形，现场音乐和声音.
 - [lolviz](https://github.com/parrt/lolviz) -用于列表，列表，字典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) -基于Jupyter的金融研究平台.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) -在Jupyter笔记本中运行的VPython 3D引擎.
@@ -156,19 +157,19 @@
 
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/) -模型，笔记本和仪表板的多用户协作和一键式部署.
 - [Azure Notebooks](https://notebooks.azure.com) -在Microsoft Azure上的云中运行的Jupyter笔记本.
-- [CoCalc](https://cocalc.com) -具有17种受支持的内核类型，课程管理，LaTeX文档编写，同步文档编辑以及与SageMath计算机代数系统集成的笔记本.
+- [CoCalc](https://cocalc.com) -具有17种受支持的内核类型，课程管理，LaTeX文档创作，同步文档编辑以及与SageMath计算机代数系统集成的笔记本.
 - [DataScience.com](https://www.datascience.com) -企业数据科学平台.
 - [Deepnote](https://www.deepnote.com) -与Jupyter兼容的数据科学笔记本，具有实时协作，版本控制和易于部署的功能.
 - [Domino Data Lab](https://www.dominodatalab.com) -具有集成协作工具，环境管理和计算网格的数据科学平台.
 - [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) -在Google Cloud Platform上配置了支持GPU的机器学习框架的托管JupyterLab笔记本实例.
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) -使用Google Cloud Dataproc的Jupyter和JupyterLab for Apache Spark.
 - [Google Colaboratory](https://colab.research.google.com) -基于云的Jupyter环境，旨在进行机器学习教育和研究.
-- [Gryd](https://gryd.us) -支持多种语言的简单，托管，即用型，基于云的Jupyter笔记本.
+- [Gryd](https://gryd.us) -简单，可管理，随时可用的基于云的Jupyter笔记本，支持多种语言.
 - [Kyso](https://kyso.io) -数据科学平台，用于将Jupyter笔记本发布和共享为数据博客和Web应用程序.
 - [Naas](https://naas.ai) -具有魔术调度/通知功能和资产/依赖关系/秘密管理的JupyterLab环境.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) -为与Wikimedia Wiki交互而定制的Jupyter笔记本部署.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) -云中基于JupyterLab的数据科学环境.
-- [Spell.run](https://spell.run) -机器学习和深度学习的端到端平台.
+- [Spell.run](https://spell.run) -用于机器学习和深度学习的端到端平台.
 
 
 ## Official Resources and Documentation
@@ -197,7 +198,7 @@
 - [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) -涵盖科学计算的笔记本集合.
 - [List of Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 - [List of Jupyter notebooks II](https://github.com/jupyter-naas/awesome-notebooks)
-- [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) -文章和 [video](https://www.youtube.com/watch?v=K4QN27IKr0g) 从笔记本电脑发展出一种简洁的软件架构.
+- [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) -文章和 [video](https://www.youtube.com/watch?v=K4QN27IKr0g) 从笔记本电脑发展出一种精巧的软件体系结构.
 - [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
 - [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks)
 - [JupyterLab - Your Personal Data Science Workbench](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) -在Full Stack Quants伦敦谈论JupyterLab.

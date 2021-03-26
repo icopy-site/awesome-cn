@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Substrate [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-&gt;真棒列表是社区策划的真棒列表.
+&gt;令人敬畏的列表是社区策划的令人敬畏的事情的列表.
 
 [Substrate](https://substrate.io/) 是用于构建可升级，模块化和高效的框架
 区块链 Substrate是一个开源库 [Rust](https://www.rust-lang.org/) 编码
@@ -13,10 +13,10 @@
 ## Official Resources
 
 - [Developer Hub](https://substrate.dev/) -开发人员门户.
-  - [Tutorials](https://substrate.dev/tutorials) -指导练习，帮助您入门.
-  - [Knowledge Base](https://substrate.dev/knowledgebase) -有关的深入文档
+  - [Tutorials](https://substrate.dev/tutorials) -有指导性的练习，可以帮助您入门.
+  - [Knowledge Base](https://substrate.dev/knowledgebase) -与以下内容有关的深入文档
     基材开发.
-  - [Recipes](https://substrate.dev/recipes) -解决常见问题的工作代码示例.
+  - [Recipes](https://substrate.dev/recipes) -解决常见问题的有效代码示例.
   - [Reference Docs](https://substrate.dev/rustdocs) -Rustdoc API文档.
 - [Seminar](https://substrate.dev/seminar) -协作学习
   [Crowdcast](https://www.crowdcast.io/e/substrate-seminar).
@@ -85,7 +85,7 @@
 
 - [Build Substrate in a few minutes at a low cost](https://medium.com/@yangWao/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066) - 指导
   使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 到
-  减少基材的建造时间； 由基板社区成员撰写 [Matej Nemček](https://medium.com/@yangWao).
+  减少基材的建造时间； 由Substrate社区成员撰写 [Matej Nemček](https://medium.com/@yangWao).
 
 ## Frameworks
 
@@ -111,9 +111,9 @@
 - [Pallet](https://github.com/substrate-developer-hub/substrate-pallet-template) -轻松创建
   可插拔的区块链功能.
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) -新
-  基于Cumulus的Substrate节点，可以进行黑客攻击（有关更多信息，请参见Frameworks下的&#39;Cumulus&#39;）.
+  Cumulus-based Substrate node, ready for hacking (see 'Cumulus' under Frameworks for more info).
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - 使用
-  Polkadot-JS API和 [React](https://reactjs.org/) 为基于基板的链构建前端.
+  Polkadot-JS API和 [React](https://reactjs.org/) 为基于底物的链构建前端.
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) -的模板
   包括放样和治理功能的基板节点.
 
@@ -123,7 +123,7 @@
   维护了Substrate运行时模块的集合.
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - 分散式
   自治组织（DAO），用于管理赏金计划.
-- [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) -受Keybase启发
+- [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) -Keybase启发
   身份管理.
 - [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) -分配
   开发链的资源.
@@ -137,18 +137,18 @@
   [Supercomputing Systems AG](https://www.scs.ch/).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) -的半官方JavaScript库
   基于基质的链.
-- [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) -由维护
+- [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) -维护者
   [Polkascan Foundation](https://polkascan.org/).
-- [Go Substrate RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) -由维护
+- [Go Substrate RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) -维护者
   [Centrifuge](https://centrifuge.io/).
-- [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) -由维护
+- [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) -维护者
   [Usetech](https://usetech.com/blockchain/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) -由Usetech维护.
 - [Substrate .NET Standard API](https://github.com/dotmog/SubstrateNetApi) 在
   [nuget](https://www.nuget.org/packages/SubstrateNetApi/)， 和
   [Unity 3D integration example](https://github.com/darkfriend77/Unity3DExample) -
   维护者 [DOTMog](https://dotmog.com/).
-- [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) -由维护 [Nodle.io](https://github.com/NodleCode)
+- [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) -维护者 [Nodle.io](https://github.com/NodleCode)
 
 ## Ecosystem Tools
 
@@ -157,7 +157,7 @@
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) -的浏览器扩展
   与基于基质的链进行交互.
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/en/build-tools-index#tools) - 这是
-  **非常有用的**列表，可用于开发w / Polkadot和
+  **非常有用的**列表，可用于开发带有Polkadot和
   任何基础链，包括区块浏览器，钱包，网络监控和报告，
   客户，基准测试，模糊测试，分叉，SCALE编解码器，CLI工具等等.
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) -与REST服务同时运行
@@ -179,13 +179,13 @@
   和用于调试基于基板的链的库，包括
   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election),
   这是用于预测提名的股权证明选举的工具.
-- [`sup`](https://github.com/clearloop/sup) -用于生成或升级
+- [`sup`](https://github.com/clearloop/sup) -用于生成或升级文件的命令行工具
   基板节点.
-- [Substrate Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) -_非正式_
+- [Substrate Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) -_非官方_
   与官方Substrate Developer Hub资源一起使用的实用程序.
-- [Subscan](https://www.subscan.io/) -基于基质的链的多网络资源管理器.
+- [Subscan](https://www.subscan.io/) -用于基于基板的链的多网络资源管理器.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - 一套
-  Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
+  Dockerfiles和GitHub Actions可自动构建和推送基于Substrate的链的Docker映像.
 - [Halva](https://github.com/halva-suite/halva) -改善体验的工具链
   在底材上进行显影.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) -注入底物
@@ -193,30 +193,30 @@
 - [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) -一套用于
   通过快速旋转和拆卸来管理由基质驱动的平行链网络.
 - [Redspot](https://github.com/patractlabs/redspot) - 一种
-  [Truffle](https://www.trufflesuite.com/truffle)类工具，用于FRAME的智能合约
+  [Truffle](https://www.trufflesuite.com/truffle)类似工具，用于FRAME的智能合约
   合同托盘.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) -一个示范
-  基于Substrate基元构建的安全，方便且灵活的热钱包架构.
+  建立在Substrate原语上的安全，方便和灵活的热钱包架构.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) -基于Python的水龙头
   发展宗旨.
 - [Hydra](https://github.com/Joystream/hydra) -用于底物节点的GraphQL框架
   [hosted playground](https://indexer-kusama.joystream.app/graphql) . 看看很棒
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
-- [Substrate Graph](https://github.com/playzero/substrate-graph) -GraphQL索引器
+- [Substrate Graph](https://github.com/playzero/substrate-graph) -用于的GraphQL索引器
   基于基质的链.
 - [Megaclite](https://github.com/patractlabs/megaclite) -Polkadot的零知识工具
   生态系统.
-- [Europa](https://github.com/patractlabs/europa) -用于底物运行时执行的沙箱
+- [Europa](https://github.com/patractlabs/europa) -用于Substrate运行时执行的沙箱
   环境.
-- [Jupiter](https://github.com/patractlabs/jupiter) -用于为
+- [Jupiter](https://github.com/patractlabs/jupiter) -用于为以下内容编写的智能合约的测试网
   FRAME合同托盘.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) -要解析的脚本
-  并输出给定​​Kusama或Polkadot地址的赌注奖励并交叉引用
-  每日价格数据
+  并输出给定​​Kusama或Polkadot地址的赌注奖励，并将它们交叉引用
+  每日价格数据.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) -简单的CLI工具可启动
   本地Polkadot测试网络.
-- [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) -一组有用
-  用于使用Polkadot {JS} API的Substrate的JavaScript实用程序. 还
+- [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) -一套有用
+  适用于使用Polkadot {JS} API的Substrate的JavaScript实用程序. 还
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) -图
   FRAME托盘的基准输出.
@@ -230,7 +230,16 @@
   FRAME协会托盘.
 - [Aleph.im](https://aleph.im) -可扩展，去中心化的数据库，文件存储和计算
   为底物链等提供服务.
-- [`subsee`](https://github.com/ascjones/subsee) -CLI，用于检查衬底节点的元数据是否为JSON.
+- [`subsee`](https://github.com/ascjones/subsee) -CLI，用于检查作为JSON的基板节点的元数据.
+
+### Substrate Mobile Engineering Tools / Libraries
+
+- [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) -
+用于React Native的Rust库
+- [Polkadot-Dart](https://github.com/substrate-developer-hub/awesome-substrate/blob/master/Pocket4D/Polkadot-Dart) -Dart Substrate API
+- [PolkaWallet SDK](https://github.com/polkawallet-io/sdk)-Flutter SDK for Substrate-based App
+- [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) -iOS Substrate工具
+- [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) -Android Substrate工具
 
 ## Alternative Implementations
 
@@ -252,13 +261,13 @@
 - [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) -参考实施
   用Rust写的.
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) -由LimeChain维护.
-- [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) -由维护
+- [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) -维护者
   Polkadot-JS.
-- [Go](https://github.com/itering/scale.go) -由维护 [Itering](https://www.itering.com/).
+- [Go](https://github.com/itering/scale.go) -维护者 [Itering](https://www.itering.com/).
 - [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) -由Soramitsu维护.
-- [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) -由维护
+- [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) -维护者
   [Robonomics Network](https://robonomics.network/).
-- [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) -由维护
+- [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) -维护者
   [Emerald](https://emerald.cash/).
 - [Ruby](https://github.com/itering/scale.rb) -通过迭代维护.
 - [Python](https://github.com/polkascan/py-scale-codec) -由Polkascan基金会维护.

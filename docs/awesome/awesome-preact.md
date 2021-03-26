@@ -44,7 +44,7 @@
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装器.
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) -一个（800b gzip）标头，将在滚动Preact时显示/隐藏.
-- [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
+- [Preact Progress](https://github.com/lukeed/preact-progress) -Preact的简单轻量级（约590字节gzip）进度条组件.
 - [Preact Compat](https://git.io/preact-compat) -使用带有Preact *（的任何React库[full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) -通用渲染.
 - [Preact Markup](https://git.io/preact-markup) -将HTML和自定义元素呈现为JSX和组件.
@@ -86,6 +86,7 @@
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) -基于Redux的轻量级状态容器，具有单个存储且没有reducer.
+- [Unistore](https://github.com/developit/unistore) -350b / 650b状态容器，具有用于Preact＆React的组件操作.
 - [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，该组件受elm的启发很大.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
@@ -95,7 +96,7 @@
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) -使Preact组件可以访问产生的虚拟dom进行测试.
-- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -预先模拟反应-测试-利用酶.
+- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -模拟反应-测试-利用酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) -简单而完整的Preact DOM测试实用程序，可鼓励良好的测试实践.
 
 ### Articles
@@ -115,7 +116,7 @@
 - [Hueify](https://github.com/kvartborg/hueify) -飞利浦色相灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) -足球数据mnmlist方式.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) -使用Preact和PouchDB构建的渐进式Web应用程序.
-- [Code and Comment](https://github.com/code-and-comment/code-and-comment) -将评论添加到Github中的文件的应用程序（[demo](https://code-and-comment.github.io/code-and-comment/)).
+- [Code and Comment](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
 - [**Play.cash**](https://play.cash) ：notes：_（[GitHub Project](https://github.com/feross/play.cash))_
 - [**Songsterr**](https://www.songsterr.com)  从10.0 alpha开始在生产中使用Preact X
 - [**BitMidi**](https://bitmidi.com/)  免费MIDI文件_（的Wayback机[GitHub Project](https://github.com/feross/bitmidi.com))_

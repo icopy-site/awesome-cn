@@ -17,12 +17,12 @@
 
  | 友情链接预览|
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索的能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出框框思考，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出思路，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学结合了数据的许多方面，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 在那些日子里，具有物理学和数学背景的人涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代的人才，而主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
-| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
+| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家及其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
 
 ## Learn Data Science
@@ -51,7 +51,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
   -C4.5算法
 -合奏学习
 -提升
-- Bagging
+-套袋
 -随机森林
 -AdaBoost
 
@@ -148,6 +148,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
+- [Realtime deployment](https://www.microprediction.com/python-1) 有关Python时间序列模型部署的教程.
 
 ### Free Courses
 
@@ -156,6 +157,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) -成为人工智能专家的路线图
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) -凸优化（凸分析的基础;最小二乘，线性和二次程序，半定规划，极小极大值，极值体积和其他问题;最优性条件，对偶理论...）
+
 
 ## Toolboxes - Environment
 
@@ -181,7 +183,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [SciPy](https://www.scipy.org/)  |  SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera课程|
 | [Data Science Toolbox](http://datasciencetoolbox.org/)  | 博客|
-| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.  |
+| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言提供支持.  |
 | [Datadog](https://www.datadoghq.com/)  | 大规模数据科学的解决方案，代码和开发人员.  |
 | [Variance](http://variancecharts.com/)  | 无需编写JavaScript即可构建强大的Web数据可视化|
 | [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite软件开发工具包（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.  |
@@ -217,7 +219,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Trains](https://github.com/allegroai/trains)  | 自动魔术实验管理器，用于AI的版本控制和DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有功能存储的开源数据密集型机器学习平台. 摄取和管理用于在线（MySQL群集）和离线（Apache Hive）访问的功能，大规模培训和提供模型.  |
 | [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB是面向开发人员的可解释AutoML框架. 借助MindsDB，您可以仅用一行代码即可构建，训练和使用最新的ML模型.  |
-| [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
+| [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.  |
 | [CML](https://github.com/iterative/cml)  | 一个开放源代码工具包，用于在数据科学项目中使用持续集成. 使用GitHub Actions＆GitLab CI在类似于生产的环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视报告.  |
 | [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|英特尔®开发人员专区
@@ -428,13 +430,13 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Mining Massive Datasets](http://www.mmds.org/) -在线课程包含的免费电子书
 - [Pandas in Action](https://www.manning.com/books/pandas-in-action) -抢先体验
 - [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
-- [Genetic algorithms in search, optimization, and machine learning](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) -免费下载
-- [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) -免费下载
-- [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) -免费下载
-- [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) -免费下载
-- [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) -免费下载
-- [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) -免费下载
-- [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) -免费下载
+- [Genetic algorithms in search, optimization, and machine learning](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) - Free Download
+- [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
+- [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
+- [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
+- [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download
+- [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) - Free Download
+- [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) -斯蒂芬·博伊德的凸优化书-免费下载
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) -抢先体验
 - [R for Data Science](https://r4ds.had.co.nz/)
@@ -482,7 +484,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [KD Nuggets](http://www.kdnuggets.com/) 数据挖掘，分析，大数据，数据，科学而不是博客门户
 - [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://www.datascientists.net/) 正在建立数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构和我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业界，政府机构和我们生活的影响.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) -大告示
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) -关于统计计算和可视化的思考
@@ -585,7 +587,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   |  @ _GrubHub_关于数据和熊猫的工作|
-| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD的共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
+| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
 | [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio的首席科学家，奥克兰大学，斯坦福大学和莱斯大学的统计学兼职教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家|
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel的居住数据科学家.  |
@@ -682,6 +684,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [The Data Science Game](http://www.datasciencegame.com/)
 - [InnoCentive](https://www.innocentive.com/)
 - [TuneedIT](http://tunedit.org/challenges)
+- [Microprediction](https://www.microprediction.com/python-1)
 
 
 ## Fun
@@ -714,7 +717,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [data.gov](https://catalog.data.gov/dataset) -美国政府公开数据的所在地
 - [United States Census Bureau](http://www.census.gov/)
 - [usgovxml.com](http://usgovxml.com/)
-- [enigma.com](http://enigma.com/) -浏览公共数据的世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
+- [enigma.com](http://enigma.com/) -浏览公共数据世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)

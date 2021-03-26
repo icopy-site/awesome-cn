@@ -49,8 +49,9 @@
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) -Orocos运动学和动力学C ++库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) -适用于Vortex Lite和OpenSplice的简单DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 - [Webots](https://cyberbotics.com) -ROS 2的机器人模拟器. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
-- [LGSVL](https://www.lgsvlsimulator.com/) -仿真软件可加速安全无人驾驶汽车的开发.
+- [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) -这是用于Unity中机器人仿真的工具，教程，资源和文档的中央存储库.
+- [Foxglove Studio](https://github.com/foxglove/studio) -用于机器人技术的集成可视化和诊断工具（即将推出对ROS 2的支持）.
 
 ### Interactivity
 
@@ -313,7 +314,7 @@
 -在基于嵌入式异构平台的混合关键机器人系统上集成ROS和ROS2
 -迈向ROS 2微控制器元交叉编译
 -适用于ROS 2.0的Node.js客户端和Web Bridge就绪
-- RCLAda: the Ada client library for ROS2
+-RCLAda：ROS2的Ada客户端库
 
 ### Embedded World Conference 2018
 
