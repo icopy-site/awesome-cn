@@ -30,7 +30,7 @@
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+- [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -89,6 +89,7 @@
 - [grip](https://github.com/joeyespo/grip) -在提交之前预览具有GitHub样式的markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -ncurses中的基本转换和位操纵器.
 - [foy](https://github.com/zaaack/foy) -轻量级通用任务运行器/构建工具.
+- [just](https://github.com/casey/just) -类似`make`的现代命令执行器.
 
 ### Text Editors
 
@@ -100,7 +101,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -140,7 +141,7 @@
 - [s3cmd](https://github.com/s3tools/s3cmd) -功能齐全的S3客户端.
 - [pm2](https://pm2.io/runtime/) -Node.js的生产流程管理器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Docker
@@ -275,7 +276,7 @@
 - [teleconsole](https://www.teleconsole.com/) -共享您的UNIX终端.
 - [tmate](https://tmate.io/) -即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) -安全，简单的终端共享.
-- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [OverTime](https://github.com/diit/overtime-cli) -远程团队的时间重叠表.
 
 ### Network Utilities
 
@@ -441,7 +442,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) -并排管理多个git repos以保持理智.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) -确保语义提交消息.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) -在Github仓库之间同步标签.
@@ -499,7 +500,7 @@
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
-- [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单. 获取文本或标准输入的哈希值.
+- [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) -从命令行直接进行快速数学运算.

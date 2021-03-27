@@ -81,7 +81,7 @@
 * [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
-* [Gralig](http://gralig.com/) - A modest, grayish CSS library.
+* [Gralig](http://gralig.com/) -适度的灰色CSS库.
 * [Halfmoon](https://www.gethalfmoon.com/) -具有内置暗模式的响应式前端框架.
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) -轻量级（12k，未缩小），但有用的CSS框架以及灵活的Grid，Hero等.
 * [inuit.css](http://inuitcss.com/) -强大，可扩展，基于Sass的BEM，OOCSS框架.
@@ -93,7 +93,7 @@
 * [Semantic UI](http://semantic-ui.com/) -使用人类友好的HTML的强大框架.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) -面向新十年的功能丰富的CSS框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) -轻巧，响应迅速的现代CSS框架.
-* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于通过嵌套flexbox简化和加快您的生活.
+* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于通过嵌套flexbox来使您的生活更轻松，更快.
 * [Tachyons](http://tachyons.io/) -适用于人类的功能CSS.
 * [Tacit](https://yegor256.github.io/tacit/) -平面设计技能为零的虚拟人的CSS框架.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) -实用程序优先的CSS框架，用于快速UI开发.
@@ -121,6 +121,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Reset and Normalize
 
+- [Reseter.css](https://github.com/krishdevdb/reseter.css)  -未来派CSS重置/规范化器. 重新定义而不是保留.
 - [Normalize](https://github.com/necolas/normalize.css) -一组CSS规则，可在HTML元素的默认样式中提供更好的跨浏览器一致性.
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -将OpenType功能（连字，字距调整等）添加到Normalize.css.
 - [MiniReset.css](https://github.com/jgthms/minireset.css) -小型的现代CSS重置.
@@ -245,7 +246,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Can I use](https://caniuse.com/) -浏览器对CSS，HTML5和其他前端Web技术的支持.
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -一个CSS小书签，使用选择器查找错误的标记，无论您在何处编写错误的HTML，它都在喜剧无衬线字体中显示难看的粉红色错误消息
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML，它都在喜剧无衬线中显示难看的粉红色错误消息
 * [xpath-to-selector](https://github.com/steambap/xpath-to-selector) -将xpath转换为CSS选择器.
 
 
@@ -260,7 +261,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由安娜·德本纳姆（Anna Debenham）和布拉德·弗罗斯特（Brad Frost）主持的关于风格指南的一小批访谈.
 * [The Web Ahead](http://5by5.tv/webahead/) -与世界专家就不断变化的技术和网络的未来进行对话.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发中寻找最优秀，最聪明，最聪明的创造力人士.
-* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展. 赶上.” 该播客以及随附的博客都是关于使您保持最新的开源技术的最新信息.
+* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展. 赶上.” 该播客以及随附的博客都是关于使您保持最新的开放源代码技术的最新信息.
 * [Syntax](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -272,10 +273,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) -@ Autoprefixer，http：//easings.net和@PostCSS的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5和CSS Freak教授. 临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5和CSS Freak教授. 临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
 * [Hugo Giraudel](https://twitter.com/HugoGiraudel) -@edenspiekermann的CSS妖精和Sass黑客.
-* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，财产势利者，美食家.
+* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，房地产势利者，Foodie.
 * [Heydon Pickering](https://twitter.com/heydonworks)  -适量的大米消费者. 还是UX设计师，作者，@ smashingmag编辑器和程序员.
 * [Adam Morse](https://twitter.com/mrmrs_) -倡导用户和开源.
 * [Donovan Hutchinson](https://twitter.com/donovanh)  -设计师，开发人员，作家. 偶尔在http://Hop.ie上发布博客，目前正在构建@cssanimation.
@@ -348,7 +349,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Tutorials :clapper:
 
-* [CSS Diner](https://flukeout.github.io/) –用于学习CSS选择的交互式游戏化教程.
+* [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) -从Mozilla学习CSS网格的简单教程.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) -检查动画.
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) -热门推荐资源.
