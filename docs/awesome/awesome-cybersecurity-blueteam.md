@@ -4,9 +4,9 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性，并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
-衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) for more details. This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 许多网络安全专业人员通过向地方，州和联邦警务机构提供服务或与这样做的类似机构合作，有意或无意地助长了种族主义国家暴力. 这种恶魔最常见的情况是通过强制性的就业机制在缺乏食物，住房或医疗保健的威胁下发生. 尽管该列表可以公开获得，但维护者的意图是并希望该列表支持那些致力于对抗如此大规模的平庸邪恶的人们和组织.
 
@@ -24,7 +24,7 @@
 - [Clevis](https://github.com/latchset/clevis) -用于自动解密的可插入框架，通常用作Tang客户端.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) -用Python编写的可扩展网络取证分析框架，可快速开发插件以支持剖析网络数据包捕获.
 - [Dev-Sec.io](https://dev-sec.io/) -服务器强化框架，提供各种基线安全配置的Ansible，Chef和Puppet实现.
-- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) -可编写脚本的PDF文件分析器.
+- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
 - [PyREBox](https://talosintelligence.com/pyrebox) -基于QEMU的Python可编写脚本的反向工程沙箱.
 - [Watchtower](https://containrrr.dev/watchtower/) -用于自动化Docker容器基础映像更新的基于容器的解决方案，可提供无人值守的升级体验.
 
@@ -61,6 +61,7 @@
 - [KubeSec](https://kubesec.io/) -Kubernetes清单的静态分析器可以作为Kuberenetes准入控制器或自己的云服务在本地运行.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
 - [Polaris](https://polaris.docs.fairwinds.com/) -通过针对代码提交，Kubernetes接纳请求或集群中已在运行的实时资源运行测试来验证Kubernetes最佳实践. 
+- [kube-forensics](https://github.com/keikoproj/kube-forensics) -允许群集管理员转储正在运行的Pod及其所有容器的当前状态，以便安全专业人员可以执行脱机取证分析.
 - [kube-hunter](https://kube-hunter.aquasec.com/) -开源工具，可以从外部（“攻击者的视图”）或集群内部运行一组测试（“猎人”）以解决Kubernetes集群中的安全问题.
 
 ## Communications security (COMSEC)
@@ -69,6 +70,8 @@
 
 - [GPG Sync](https://github.com/firstlookmedia/gpgsync) -在组织或团队的所有成员之间集中和自动化OpenPGP公钥分发，吊销和更新.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) -新颖的实验性遗传算法，可针对国家/地区级别的检查员发展基于数据包处理的检查规避策略，以增加否则会被阻止的内容的可用性.
+- [GlobaLeaks](https://www.globaleaks.org/) -免费的开源软件，使任何人都可以轻松设置和维护安全的举报平台.
+- [SecureDrop](https://securedrop.org/) - Open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 
 ## DevSecOps
 
@@ -93,7 +96,7 @@
 
 - [DynInst](https://dyninst.org/dyninst) -用于二进制检测，分析和修改的工具，对二进制修补很有用.
 - [DynamoRIO](https://dynamorio.org/) -运行时代码操纵系统，该程序在执行时支持程序任何部分上的代码转换，并实现为进程级虚拟机.
-- [Egalito](https://egalito.org/) - Binary recompiler and instrumentation framework that can fully disassemble, transform, and regenerate ordinary Linux binaries designed for binary hardening and security research.
+- [Egalito](https://egalito.org/) -二进制重新编译器和工具框架，可以完全反汇编，转换和重新生成用于二进制强化和安全性研究的普通Linux二进制文件.
 - [Valgrind](https://www.valgrind.org/) -用于构建动态分析工具的仪器框架.
 
 ### Compliance testing and reporting
@@ -124,14 +127,14 @@
 ### Tarpits
 
 - [Endlessh](https://github.com/skeeto/endlessh) -缓慢地发送无休止的横幅的SSH tarpit.
-- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -回答ARP请求中未使用的IP空间的程序，创建伪造的计算机，这些伪造的计算机非常缓慢地响应其他请求，从而减慢扫描程序，蠕虫等的速度.
+- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -响应ARP请求以获取未使用IP空间的程序，其伪造的计算机的外观会非常缓慢地响应进一步的请求，从而减慢扫描程序，蠕虫等的速度.
 
 ## Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) -组合蜜罐，文件系统监视器和警报系统，旨在保护Linux和Windows操作系统.
 - [chkrootkit](http://chkrootkit.org/) -在GNU / Linux系统上本地检查rootkit的迹象.
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) -适用于Windows系统的免费工具，旨在提醒您存在可能通过网络进行通信的恶意软件.
-- [Fail2ban](https://www.fail2ban.org/) - Intrusion prevention software framework that protects computer servers from brute-force attacks.
+- [Fail2ban](https://www.fail2ban.org/) -入侵防御软件框架，可保护计算机服务器免受暴力攻击.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) -完全开源和免费的，功能丰富的基于主机的入侵检测系统（HIDS）.
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) -符合POSIX的Bash脚本，可扫描主机以查找各种恶意软件迹象.
 
@@ -182,6 +185,7 @@
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) -意大利GNU / Linux实时发行版，预打包了许多数字取证和证据收集工具.
 - [Security Onion](https://securityonion.net/) -免费和开源的GNU / Linux发行版，用于入侵检测，企业安全监视和日志管理.
+- [Qubes OS](https://qubes-os.org/) -在Xen虚拟机管理程序项目之上构建的桌面环境，该环境在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制以限制任何成功的恶意软件利用范围.
 
 ## Phishing awareness and reporting
 
@@ -202,7 +206,7 @@
 
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) -使系统看起来像是APT攻击的受害者的工具集.
 - [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行以测试安全性控制.
-- [BadBlood](https://www.secframe.com/badblood/) -用数据填充测试（非生产）Windows域，使安全分析人员和工程师可以练习使用工具来了解并指定如何保​​护Active Directory.
+- [BadBlood](https://www.secframe.com/badblood/) -用数据填充测试（非生产）Windows域，使安全分析人员和工程师能够练习使用工具来理解并指定保护Active Directory的条件.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) -模块化，菜单驱动的跨平台工具，用于为Blue Team演练和传感器/警报映射构建可重复的，延迟的，分布式的安全事件.
 - [Metta](https://github.com/uber-common/metta) -自动化的信息安全准备工具进行对抗性仿真.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) -生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
@@ -226,7 +230,7 @@
 
 - [ChopShop](https://github.com/MITRECND/chopshop) -协助分析人员创建和执行基于APT的基于Pynids的解码器和检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) -恶意网络流量检测系统.
-- [Moloch](https://github.com/aol/moloch) - Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
+- [Moloch](https://github.com/aol/moloch) -增强您当前的安全基础架构，以标准PCAP格式存储和索引网络流量，从而提供快速的索引访问.
 - [OwlH](https://www.owlh.net/) -通过可视化Suricata，Zeek和Moloch生命周期来帮助大规模管理网络IDS.
 - [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) -用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等.
 - [Respounder](https://github.com/codeexpress/respounder) -检测网络上是否存在响应者LLMNR / NBT-NS / MDNS中毒器.
@@ -237,20 +241,20 @@
 - [Tsunami](https://github.com/google/tsunami-security-scanner) -具有可扩展插件系统的通用网络安全扫描程序，可高度自信地检测高严重性漏洞. 
 - [VAST](https://github.com/tenzir/vast) -免费的开源网络遥测引擎，用于数据驱动的安全调查.
 - [Wireshark](https://www.wireshark.org) -免费和开源的数据包分析器，可用于网络故障排除或法医网络流分析.
-- [Zeek](https://zeek.org/) -专注于安全监控的强大网络分析框架，以前称为Bro.
+- [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
 
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理的SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
 
 ### Service and performance monitoring
 
 也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
 - [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
-- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
+- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户蜂拥而至.
 - [Nagios](https://nagios.org) -流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) -免费且功能丰富的网络监视系统，支持多种配置，多种警报机制（电子邮件，XMPP，SMS）以及多种数据收集方法（SNMP，HTTP，JDBC等）.
 - [osquery](https://github.com/facebook/osquery) -适用于macOS，Windows和Linux的操作系统检测框架，将操作系统公开为可以使用类似SQL的语法查询的高性能关系数据库.
@@ -270,7 +274,7 @@
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
-- [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
+- [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，该工具提供基于主机的调查功能.
 
 ## Threat intelligence
@@ -295,7 +299,7 @@
 
 - [ESET's Malware IoCs](https://github.com/eset/malware-ioc) -由ESET的各种调查得出的危害指标（IOC）.
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) -收集Snort和YARA规则以检测使用FireEye自己的Red Team工具进行的攻击，该方法在FireEye于2020年12月披露漏洞后首次发布.
-- [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) -收集各种语言的IoC，以检测后门SolarWinds Orion NMS活动和相关漏洞.
+- [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) -收集各种语言的IoC，以检测后门的SolarWinds Orion NMS活动和相关漏洞.
 - [YARA Rules](https://github.com/Yara-Rules/rules) -满足IT安全研究人员需要具有一个存储库的项目，在该存储库中，将对不同的Yara签名进行编译，分类和保持最新.
 
 ## Tor Onion service defenses

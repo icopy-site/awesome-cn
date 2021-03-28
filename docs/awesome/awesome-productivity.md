@@ -24,8 +24,8 @@
 
 ## Books
 
-- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) 由Cal Newport撰写-深入工作是能够专注而又不会分散对认知要求很高的任务的能力.
-- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) David Allen着-一种非常简单有效的时间管理方法.
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) 由Cal Newport撰写-深入工作是指能够在不分散注意力的情况下专注于对认知要求很高的任务的能力.
+- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) 作者：Kory Kogon，Adam Merrill和Leena Rinne，这是一种涉及优先级，计划，技术和能源管理的全方位生产力方法.
 
 ## Tools and Apps
@@ -62,11 +62,12 @@
 - [KanbanFlow](https://kanbanflow.com) –具有Pomodoro技术的看板方法任务板.
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) –基于Wunderlist技术的基于Microsoft云的任务管理应用程序.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) –适用于Mac OS X和iOS的基于“完成工作”的任务管理器.
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – A pomodoro app for your menubar/tray.
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) –菜单栏/托盘的Pomodoro应用程序.
 - [Remember the Milk](https://www.rememberthemilk.com) –擅长管理待办事项和基于位置的任务的标签.
 - [Taskade](https://taskade.com) –团队的简单协作任务列表.
 - [Taskwarrior](http://taskwarrior.org/)  –一个开源命令行任务管理器. 灵活，快速，高效且不引人注目.
 - [Timing](https://timingapp.com/)  – Mac的自动时间和生产力跟踪. 帮助您保持工作进度，并确保按小时计费不会浪费可计费时间.
+- [Tinido](https://tinido.com/) –一个美丽而简单的任务管理应用程序，通过在与GitHub个人资料中找到的任务图相似的贡献图中显示完成的任务，您还可以为您提供见解.
 - [Todo.txt](http://todotxt.com/)  –厌倦了使用复杂的应用来组织您的任务？  Todo.txt是一种使用单个`.txt`文件来帮助您完成工作的技术.
 - [Todoist](https://todoist.com/) –强大的跨平台生产力工具.
 - [Topydo](https://github.com/topydo/topydo) –使用todo.txt格式的功能强大的待办事项列表应用程序，位于todo.txt CLI和Taskwarrior之间.

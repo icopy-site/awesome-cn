@@ -80,7 +80,7 @@
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的站点在每次推送到GitHub时自动部署，如GitHub Pages，Netlify等上所示.
+- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的网站在每次推送到GitHub时自动部署，如GitHub Pages，Netlify和其他网站上所示.
 - [Disqus](https://disqus.com/) -带有嵌套回复，多种登录方法和电子邮件通知的易于嵌入的注释.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -Facebook为您的网站嵌入的评论.
 - [IntenseDebate Comments](http://www.intensedebate.com/) -具有嵌套回复，多种登录方法和电子邮件通知的可嵌入评论.
@@ -98,7 +98,7 @@
 - [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 - [MailThis](http://mailthis.to/) -通过电子邮件以可选附件的形式提交简单表格.
 - [Simple Form](https://getsimpleform.com/) -带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
-- [Brisk Forms](https://github.com/stevensona/briskforms) -免费表单提交服务通过电子邮件发送您的回复，同时保持电子邮件地址的私密性，并且是开源的.
+- [Brisk Forms](https://github.com/stevensona/briskforms) -免费表单提交服务通过电子邮件发送回复，同时保持电子邮件地址的私密性，并且是开源的.
 - [99 Inbound](https://www.99inbound.com) -通过电子邮件/闲置通知和第三方应用程序集成（例如MailChimp）形成端点服务
 - [Getform](http://getform.io/) -通过电子邮件和集成为设计人员和开发人员提供表单后端平台.
 - [Form.taxi](https://form.taxi/) -后端通过电子邮件通知，文件上传和符合GDPR的数据处理功能，轻松，可靠地处理表单提交.
@@ -112,7 +112,7 @@
 - [123 Contact Form](http://www.123contactform.com/)  -连接到其他在线服务，例如MailChimp，Salesforce和Google Drive. 它还与付款处理程序集成，并包括安全性和分析功能.
 - [FormAssembly](http://www.formassembly.com/) -允许您构建任何形式的表单，其中可以包括复杂的分支逻辑和多个页面.
 - [FormSite](https://www.formsite.com/) -带有付款和表单管理的表单生成器.
-- [FormStack](https://www.formstack.com/) -具有A / B测试，部分提交，分析和集成的表格.
+- [FormStack](https://www.formstack.com/) -具有A / B测试，部分提交，分析和集成的表单.
 - [Sheetsu](https://sheetsu.com/) -发布并获取您的数据到Google Spreadsheet.
 - [Typeform](http://www.typeform.com/) -可以嵌入的令人敬畏的表格.
 - [Wufoo](http://www.wufoo.com/) -免费或付费-您可以使用表单设计器构建的表单，包括通知，报告和付款.
@@ -167,7 +167,7 @@
 
 - [Ecwid](https://www.ecwid.com/) -嵌入式购物车.
 - [FoxyCart](http://www.foxycart.com/) -添加带有基本html代码的购物车.
-- [SnipCart](https://snipcart.com/) -包括几行代码，以组成一个完整的在线商店.
+- [Snipcart](https://snipcart.com/) -包括几行代码，以组成一个完整的在线商店.
 - [Gumroad](https://gumroad.com/) -一站式销售您的作品的解决方案.
 - [Payhip](https://payhip.com/) -销售数字下载和会员资格的可嵌入方式
 - [Moltin](https://moltin.com/) -将电子商务功能添加到任何东西.
