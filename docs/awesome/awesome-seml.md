@@ -51,6 +51,7 @@
 
 - [10 Best Practices for Deep Learning](https://nanonets.com/blog/10-best-practices-deep-learning/#track-model-experiments)
 - [Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement](https://dl.acm.org/doi/abs/10.1145/1882471.1882479) 
+- [Fairness On The Ground: Applying Algorithmic FairnessApproaches To Production Systems](https://scontent-amt2-1.xx.fbcdn.net/v/t39.8562-6/159714417_1180893265647073_4215201353052552221_n.pdf?_nc_cat=111&ccb=1-3&_nc_sid=ae5e01&_nc_ohc=6WFnNMmyp68AX95bRHk&_nc_ht=scontent-amt2-1.xx&oh=7a548f822e659b7bb2f58a511c30ee19&oe=606F33AD)🎓
 - [How do you manage your Machine Learning Experiments?](https://medium.com/@hadyelsahar/how-do-you-manage-your-machine-learning-experiments-ab87508348ac)
 - [Machine Learning Testing: Survey, Landscapes and Horizons](https://arxiv.org/pdf/1906.10742.pdf) 
 - [Nitpicking Machine Learning Technical Debt](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
