@@ -122,7 +122,7 @@
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
 - [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
-- [Blits](https://blitzjs.com) -Fullstack React框架
+- [Blitz](https://blitzjs.com) -Fullstack React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -464,7 +464,7 @@
 - [reaviz](https://github.com/reaviz/reaviz) -基于D3.js的React数据可视化库
 - [react-vis](https://github.com/uber/react-vis) -一个React可视化库，设计时考虑了以下原则：React友好，高级且可自定义，富有表现力且具有行业优势.
 - [nivo](https://github.com/plouc/nivo) -它在D3和React库的基础上提供了丰富的数据可视化组件集.
-- [vx](https://github.com/hshoff/vx)  -可重用的底层可视化组件的集合. 它结合了D3的强大功能来生成可视化效果，并结合了React用于更新DOM的好处.
+- [vx](https://github.com/hshoff/vx)  -可重用的底层可视化组件的集合. 它结合了D3的强大功能来生成可视化效果，并结合了React用于更新DOM的优势.
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) -一个非常简单的ECharts包装器，用于React.
 - [Chartify](https://github.com/kis/chartify) -React插件，用于使用CSS构建图表.
 - [Semiotic](https://github.com/nteract/semiotic) -结合了React和D3的数据可视化框架.
@@ -804,6 +804,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本将JSX转换为JS，甚至Flux尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

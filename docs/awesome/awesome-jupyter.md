@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开放源代码Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -61,7 +61,7 @@
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) -Jupyter的UI小部件.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) -基于小部件和WebGL在Jupyter中进行Python的3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) -交互式小部件以2D和3D形式显示图像.
-- [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊目的交互式图表的基础结构.
+- [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊用途的交互图的基础结构.
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 展示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) -Jupyter笔记本中的Google Maps交互式可视化库.
 - [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js进行交互式数据可视化.
@@ -81,6 +81,7 @@
 - [Bookbook](https://github.com/takluyver/bookbook) -Bookbook将目录中的一组笔记本转换为HTML或PDF，从而保留了笔记本内部和之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) -JupyterHub扩展，可在任何框架（Voilà，Streamlit，Plotly Dash等）中托管经过身份验证的脚本或笔记本.
 - [Jupytext](https://github.com/mwouts/jupytext) -使用文本格式（例如Python或Markdown文件）转换和同步笔记本，这些文本格式在版本控制下效果很好.
+- [jut](https://github.com/kracekumar/jut) -CLI，可在终端中很好地显示笔记本.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) -CLI搜索本地Jupyter笔记本.
 - [nbconvert](https://nbconvert.readthedocs.io) -将笔记本转换为其他格式.
 - [nbdev](https://github.com/fastai/nbdev) -使用Jupyter作为开发工具，将Python软件包开发，打包并分发到PyPI [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) 环境.

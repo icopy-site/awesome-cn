@@ -6,7 +6,7 @@
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
-衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) for more details. This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 许多网络安全专业人员通过向地方，州和联邦警务机构提供服务或与这样做的类似机构合作，有意或无意地助长了种族主义国家暴力. 这种恶魔最常见的情况是通过强制性的就业机制在缺乏食物，住房或医疗保健的威胁下发生. 尽管该列表可以公开获得，但维护者的意图是并希望该列表支持那些致力于对抗如此大规模的平庸邪恶的人们和组织.
 
@@ -24,7 +24,7 @@
 - [Clevis](https://github.com/latchset/clevis) -用于自动解密的可插入框架，通常用作Tang客户端.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) -用Python编写的可扩展网络取证分析框架，可快速开发插件以支持剖析网络数据包捕获.
 - [Dev-Sec.io](https://dev-sec.io/) -服务器强化框架，提供各种基线安全配置的Ansible，Chef和Puppet实现.
-- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
+- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) -可编写脚本的PDF文件分析器.
 - [PyREBox](https://talosintelligence.com/pyrebox) -基于QEMU的Python可编写脚本的反向工程沙箱.
 - [Watchtower](https://containrrr.dev/watchtower/) -用于自动化Docker容器基础映像更新的基于容器的解决方案，可提供无人值守的升级体验.
 
@@ -50,19 +50,32 @@
 
 - [Checkov](https://www.checkov.io/) -Terraform的静态分析（以基础结构作为代码），以帮助检测到CIS策略违规并防止云安全配置错误.
 - [Falco](https://falco.org/) -行为活动监视器，旨在通过审核Linux内核并通过运行时数据（例如Kubernetes指标）进行充实，以检测容器化应用程序，主机和网络数据包流中的异常活动.
-- [Istio](https://istio.io/) -开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，执行策略和汇总遥测数据.
 - [Kata Containers](https://katacontainers.io/) -使用感觉和性能类似容器的轻型虚拟机来保护容器运行时，但是使用硬件虚拟化技术作为第二防御层，可以提供更强的工作负载隔离.
 - [Prowler](https://github.com/toniblyx/prowler) -基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) -开源的多云安全审核工具，可对云环境进行安全状态评估.
 - [gVisor](https://github.com/google/gvisor) -用Go编写的应用程序内核，它实现了Linux系统表面的很大一部分，以在应用程序和主机内核之间提供隔离边界.
 
+### Distributed observability and tracing
+
+- [OpenTelemetry](https://opentelemetry.io/) -云原生软件的可观察性框架，包括用于将应用程序性能指标导出到跟踪后端的工具，API和SDK的集合（以前由OpenTracing和OpenCensus项目维护）.
+- [Jaeger](https://www.jaegertracing.io/) -分布式跟踪平台后端，用于对基于微服务的分布式系统进行监视和故障排除.
+- [Zipkin](https://zipkin.io/) -分布式跟踪系统后端，有助于收集解决服务体系结构中的延迟问题所需的时序数据.
+
 ### Kubernetes
 
-- [KubeSec](https://kubesec.io/) -Kubernetes清单的静态分析器可以作为Kuberenetes准入控制器或自己的云服务在本地运行.
+- [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
+- [Linkerd](https://linkerd.io/) - Ultra light Kubernetes-specific service mesh that adds observability, reliability, and security to Kubernetes applications without requiring any modification of the application itself.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
 - [Polaris](https://polaris.docs.fairwinds.com/) -通过针对代码提交，Kubernetes接纳请求或集群中已在运行的实时资源运行测试来验证Kubernetes最佳实践. 
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) -允许群集管理员转储正在运行的Pod及其所有容器的当前状态，以便安全专业人员可以执行脱机取证分析.
 - [kube-hunter](https://kube-hunter.aquasec.com/) -开源工具，可以从外部（“攻击者的视图”）或集群内部运行一组测试（“猎人”）以解决Kubernetes集群中的安全问题.
+
+### Service meshes
+
+也可以看看 [ServiceMesh.es](https://servicemesh.es/).
+
+- [Consul](https://consul.io/) -在动态，分布式基础架构上连接和配置应用程序的解决方案，并通过Consul Connect使用自动TLS加密和基于身份的授权实现安全的服务到服务通信.
+- [Istio](https://istio.io/) -开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，执行策略和汇总遥测数据.
 
 ## Communications security (COMSEC)
 
@@ -71,14 +84,14 @@
 - [GPG Sync](https://github.com/firstlookmedia/gpgsync) -在组织或团队的所有成员之间集中和自动化OpenPGP公钥分发，吊销和更新.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) -新颖的实验性遗传算法，可针对国家/地区级别的检查员发展基于数据包处理的检查规避策略，以增加否则会被阻止的内容的可用性.
 - [GlobaLeaks](https://www.globaleaks.org/) -免费的开源软件，使任何人都可以轻松设置和维护安全的举报平台.
-- [SecureDrop](https://securedrop.org/) - Open source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+- [SecureDrop](https://securedrop.org/) -可以安装媒体组织和NGO的开源举报人提交系统，以安全地接受匿名来源的文档.
 
 ## DevSecOps
 
 也可以看看 [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [Bane](https://github.com/genuinetools/bane) -用于Docker容器的自定义更好的AppArmor配置文件生成器.
-- [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
+- [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将机密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明地保护使用Linux容器管理平台（如Docker和Kubernetes）部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就好像是数据一样，从而发现整个代码库中的漏洞.
@@ -157,7 +170,7 @@
 也可以看看 [Security Orchestration, Automation, and Response (SOAR)](#security-orchestration-automation-and-response-soar).
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) -建立在Viper上的可编写脚本的数字取证和事件响应（DFIR）工具包.
-- [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) -网络安全事件管理平台，可轻松创建，跟踪和报告网络安全事件.
+- [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
 - [Rekall](http://www.rekall-forensic.com/) -先进的法证和事件响应框架.
 - [TheHive](https://thehive-project.org/) -可扩展的免费安全事件响应平台，旨在简化SOC，CSIRT和CERT的工作，并与MISP紧密集成.
 - [threat_note](https://github.com/defpoint/threat_note) -Defence Point Security构建的Web应用程序，使安全研究人员能够添加和检索与他们的研究相关的指标.
@@ -241,20 +254,20 @@
 - [Tsunami](https://github.com/google/tsunami-security-scanner) -具有可扩展插件系统的通用网络安全扫描程序，可高度自信地检测高严重性漏洞. 
 - [VAST](https://github.com/tenzir/vast) -免费的开源网络遥测引擎，用于数据驱动的安全调查.
 - [Wireshark](https://www.wireshark.org) -免费和开源的数据包分析器，可用于网络故障排除或法医网络流分析.
-- [Zeek](https://zeek.org/) - Powerful network analysis framework focused on security monitoring, formerly known as Bro.
+- [Zeek](https://zeek.org/) -专注于安全监控的强大网络分析框架，以前称为Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
 
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理的SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
 
 ### Service and performance monitoring
 
 也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
 - [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
-- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户蜂拥而至.
+- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
 - [Nagios](https://nagios.org) -流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) -免费且功能丰富的网络监视系统，支持多种配置，多种警报机制（电子邮件，XMPP，SMS）以及多种数据收集方法（SNMP，HTTP，JDBC等）.
 - [osquery](https://github.com/facebook/osquery) -适用于macOS，Windows和Linux的操作系统检测框架，将操作系统公开为可以使用类似SQL的语法查询的高性能关系数据库.
@@ -272,7 +285,7 @@
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -自动执行安全事件处理流程，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
-- [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
+- [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还生成其结果的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，该工具提供基于主机的调查功能.
@@ -307,7 +320,7 @@
 也可以看看 [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [OnionBalance](https://onionbalance.readthedocs.io/) -提供负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性.
-- [Vanguards](https://github.com/mikeperry-tor/vanguards) -第3版Onion Service Guard发现缓解攻击脚本（旨在最终包含在Tor核心中）.
+- [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
 
 ## Transport-layer defenses
 

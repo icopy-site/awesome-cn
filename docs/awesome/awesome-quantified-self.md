@@ -7,7 +7,7 @@
 
 &gt;精心策划了很棒的“量化自我”资源列表.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（心理和身体）方面将技术纳入人的日常生活方面的技术的运动.
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术整合到有关人们日常生活各个方面的数据采集中的运动.
 
 欢迎捐款. 通过拉取请求添加链接或创建问题以开始讨论.
 
@@ -48,9 +48,9 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 ## Talks
 
-- [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) -加里·沃尔夫（Tary）的特德（Ted）关于量化自我的演讲.
+- [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) -加里·沃尔夫（Tary）的特德（Ted）关于“量化自我”运动的演讲.
 - [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) -劳伦·科斯坦蒂尼（Lauren Costantini）探索了量化自我时代对人类的意义.
-- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) -克里斯·丹西（Chris Dancy，“地球上最连通的人”）的主题演讲，探讨了技术如何通过关注他收集的有关他的生活的数据帮助他成为一个更好的人.
+- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) -克里斯·丹西（Chris Dancy，“地球上最连通的人”）的主题演讲，探讨了技术如何通过关注他收集的有关他的生活的数据来帮助他成为一个更好的人.
 
 ## Applications and Platforms
 
@@ -58,7 +58,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Runkeeper](http://runkeeper.com/) -户外健身活动追踪器（iOS和Android）.
 - [Endomondo](https://www.endomondo.com/) -运动和健康统计跟踪器（iOS和Android）.
 - [Runtastic](https://www.runtastic.com/) -跑步，骑自行车和健身GPS追踪器（iOS和Android）.
-- [Strava](https://www.strava.com/) -运动活动跟踪和社交网络.
+- [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) -跟踪锻炼，力量训练和其他健身锻炼（iOS，Web）
 
 ### Places & Travel
@@ -101,6 +101,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Vora](https://getvora.com/) -禁食追踪器（iOS和Android）.
 - [Bitesnap](https://www.getbitesnap.com/) -由计算机视觉支持的基于图像的食物记录应用程序（iOS和Android）.
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514)  -记录咖啡因的摄入量，并在数据库内部和Apple Health同步.  （iOS）
+- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) -具有Apple Watch支持（iOS和Apple Watch）的超高效咖啡因跟踪器应用程序.
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) -基于网络的目标设定和跟踪软件（iOS和Android）.
@@ -226,7 +227,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Wellness FX](https://www.wellnessfx.com/) -血液分析和健康检查.
 - [Human API](http://humanapi.co/) -健康数据集成平台.
 - [DNA land](http://dna.land/) -DNA归因和科学研究.
-- [GenetiConcept](https://geneticoncept.com) - Genetic testing for health, drug interactions, fitness and nutrition.
+- [GenetiConcept](https://geneticoncept.com) -对健康，药物相互作用，适应性和营养进行基因检测.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) -有关自我上传的遗传数据的综合遗传报告.
 
 ## Open Source Projects

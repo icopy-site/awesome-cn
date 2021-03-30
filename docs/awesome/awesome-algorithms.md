@@ -13,7 +13,6 @@
 *您应该用来学习经典算法的网站*
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) -用于了解图形遍历算法如何工作的交互式可视化
-* [Algomation](http://www.algomation.com/) -生动活泼的算法展示.
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) -数据结构教程.
 
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) -数十种动画算法（带有代码），您也可以创建自己的动画算法.
@@ -111,7 +110,7 @@
     * [by @faheel](https://github.com/faheel/Algos)
     * [by @sslotin](http://github.com/sslotin/algo)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
-* 去
+* 走
     * [by @arnauddri](https://github.com/arnauddri/algorithms)
     * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
 * Java
@@ -176,7 +175,7 @@
 * [Codeforces ](http://codeforces.com/) -唯一的竞赛Web 2.0平台
 * [Codefights](https://codefights.com/) -主动编程并解决您的下一次技术面试
 * [CodeMarshal](https://algo.codemarshal.org/) -现实世界在线竞赛！
-* [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
+* [CodeWars](http://www.codewars.com/) -提供支持以多种语言解决多种语言算法的支持的网站.
 * [CoderByte](http://www.coderbyte.com/)  -一个体面的网站，从初学者到高级都面临算法挑战. 支持大多数流行的语言，例如C ++，python，javascript，ruby.
 * [Firecode](https://www.firecode.io/) -Firecode.io使用机器学习算法以及精选的真实世界面试问题，解决方案和充满活力的学习者社交社区，为您的下一次编码面试做好准备.
 * [Coding Blocks](https://hack.codingblocks.com/app/) -基于数学，数据结构，各种算法存在问题的网站，并且进行编码竞赛.
@@ -192,7 +191,7 @@
 * [PKU JudgeOnline](http://poj.org/) -中国在线法官.
 * [ProjectEuler](https://projecteuler.net/) -可以使用算法解决的数学问题（或者只是一支铅笔，取决于您已经知道的多少）.
 * [Rosalind](http://rosalind.info/problems/locations/) -通过解决问题来学习生物信息学和程序设计的平台.
-* [ShareCode.io ](https://sharecode.io/) -在线裁判和比赛主持人在存档中有很多算法问题，可以练习.
+* [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
 * [Snakify](https://snakify.org/) -具有100多种算法问题和逐步调试器的入门Python课程（来自俄罗斯）.
 * [SPOJ](http://www.spoj.com/) -更多问题.
 * [TopCoder](https://www.topcoder.com/) -图形设计，数据科学和开发中的许多问题和现实世界/物有所值的问题.

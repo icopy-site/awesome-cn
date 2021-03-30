@@ -8,7 +8,7 @@
 
 ## Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/PatrickJS/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/PatrickJS/awesome-angular)
 
-很棒的清单 [Angular](https://angular.io/) 种子库，入门，样板，示例，教程，组件，模块，视频以及Angular生态系统中的其他任何内容. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
+很棒的清单 [Angular](https://angular.io/) 种子存储库，入门，样板，示例，教程，组件，模块，视频以及Angular生态系统中的任何其他内容. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
 
 &gt;如果您正在寻找AngularJS（版本1.xx），请访问https://github.com/gianarb/awesome-angularjs
 
@@ -129,7 +129,7 @@
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) 基于Material Design Lite的Angular 2组件，指令和样式
 * [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext（旋转木马，网格，灯箱，selectfield，粘性页眉等）
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) Angular 2环绕Materialize库
-* [Material Light](https://github.com/YagoLopez/material-light) 轻巧，快速且易于使用的Angular 2+材质设计组件（尤其是用于移动UI）. 有几种选择，但是我认为这具有附加价值和优势（有关详细信息，请阅读Readme.md）. 还有一个在线演示，以供实际操作.  （仍缺少API文档，但仍在处理中）.
+* [Material Light](https://github.com/YagoLopez/material-light) 轻巧，快速且易于使用的Angular 2+材质设计组件（尤其是用于移动UI）. 有几种选择，但是我认为这具有附加值和优势（有关详细信息，请阅读Readme.md）. 还有一个在线演示，以供实际操作.  （仍缺少API文档，但仍在处理中）.
 * [Blox Material](https://github.com/src-zone/material) 一个轻量级的Angular Material Design库，它基于Google的Web材质组件.
 * [Material Web Components](https://trimox.github.io/angular-mdc-web)  Angular的材质Web组件. 网上设想的对材料设计的忠实而准确的表示.
 * [MDBootstrap](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) 内置Angular 7，Bootstrap 4和TypeScript功能强大的UI KIT，可提供一组平滑的响应式页面模板，布局，组件和小部件，以快速构建响应式，移动优先的网站和应用程序.
@@ -297,7 +297,7 @@ WebWorker中的大多数核心角度框架.
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) 曼宁出版物
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉尔·夏尔马`
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙尔玛（Ankit Sharma）`
 
 #### On-Site Training
 
@@ -313,7 +313,7 @@ WebWorker中的大多数核心角度框架.
 
 #### Approach and Explanation
 
-*维克多·萨夫金（Victor Savkin）
+*维克多·萨夫金
 
   * [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
   * [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
@@ -342,7 +342,7 @@ WebWorker中的大多数核心角度框架.
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*克里斯托·赫尔乔夫
+*赫里斯托·乔治·耶夫（Hristo Georgiev）
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -370,6 +370,7 @@ WebWorker中的大多数核心角度框架.
 #### Decorators
 
 * [segal-decorators](https://github.com/danrevah/segal-decorators) 一堆有用的Web装饰器！
+* [ng-portal](https://github.com/nigrosimone/ng-portal) Angular应用程序中的组件属性连接.
 
 #### Site Templates
 
@@ -383,6 +384,7 @@ WebWorker中的大多数核心角度框架.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) 一堆有用的角度和其他有用的管道！
 * [ngx-order-pipe](https://github.com/VadimDez/ngx-order-pipe) Angular4 +的OrderBy管道-按字段排序收集
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2管道将camelCase字符串转换为人类可读的字符串
+* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) 角度应用的通用管道.
 
 #### Generators
 
@@ -579,10 +581,11 @@ WebWorker中的大多数核心角度框架.
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard)  Cookie / sessionStorage / localStorage的包装，用于angular2. 如果所有都不可用，请使用内存中的存储器.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) 使用ES6 Proxies for Angular 2编写的localStorage和sessionStorage包装器
 * [ngx-store](https://github.com/zoomsphere/ngx-store) -用于管理`localStorage`，`sessionStorage`和cookie的复杂库，允许观看数据更改，基于构建器模式提供装饰器和API
-* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -功能强大，自动且经过优化的Angular 2缓存系统，可满足所有需求！
+* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -一个功能强大，自动且经过优化的Angular 2缓存系统，可随处使用！
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) -通过在客户端上自动缓存远程请求来加快它们的速度.
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) -@ fulls1z3的Angular缓存实用程序（包括浏览器和服务器平台实现）
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) -Angular的存储和状态管理
+* [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) -在Angular应用程序中缓存HTTP请求.
 
 #### Tables
 
@@ -665,7 +668,7 @@ WebWorker中的大多数核心角度框架.
 * [ng-wormhole](https://github.com/topaxi/ng-wormhole) -在DOM中的其他地方渲染组件
 * [ng2-adsense](https://github.com/scttcper/ng2-adsense) -简易AdSense for Angular应用程序
 * [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) -虚拟形象组件，可以根据您拥有的有关用户的信息来生成/获取虚拟形象.
-* [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) -用于监视角度变化检测性能的库.
+* [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) -简单，轻松，性能倒计时
 * [ngx-i18n-router](https://github.com/fulls1z3/ngx-i18n-router) -@ fulls1z3的Angular路由国际化实用程序
 * [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) -用于linkifyjs的Angular V6包装器-用于以纯文本查找链接并将其<a>通过linkifyjs</a>转换为HTML<a>标签的库</a>
@@ -730,7 +733,7 @@ WebWorker中的大多数核心角度框架.
 * [ngx-admin](https://github.com/akveo/ngx-admin) -基于Nebular框架（Angular 4 +，Bootstrap 4+）的管理模板
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程，演示了此单元
-  和完整的代码覆盖率
+  and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) -使用Webpack构建的Tour of Heroes官方打字稿教程
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) -配置了Angular2，TypeScript和Webpack的简单入门工具.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) -具有AoT编译，延迟加载和摇树功能的Angular Webpack Starter
@@ -919,7 +922,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 ### Angular 2 in Haxe
 
- &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”，以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe），“在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
+ &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe）“可在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
 &gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...所有这些都可以通过本机实现，而无需打字，更防错，更稳定，即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
 
 ##### Haxe General Resources
@@ -991,7 +994,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 ---
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
+请享用 - [**PatrickJS**](https://twitter.com/PatrickJS__)
 
 ---
 

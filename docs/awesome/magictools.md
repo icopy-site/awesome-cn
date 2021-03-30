@@ -71,7 +71,7 @@ Graphics
 * ：自由： [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 *： 然后： [Pngyu](http://nukesaq88.github.io/Pngyu/) -简单的PNG图像文件压缩工具.
 *： 然后： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)  — Mac和Windows. 与“另存为网络”的比较
-*：money_with_wings： [TinyPNG](https://tinypng.com/) -用于PNG图像的高级有损压缩，可保留完整的Alpha透明度.
+*：money_with_wings： [TinyPNG](https://tinypng.com/) -用于PNG图像的高级有损压缩，可保留完整的alpha透明度.
 
 #### Texture Tools
 
@@ -142,7 +142,7 @@ Graphics
 
 #### Terrain Generators
 
-* ：自由： [Artifex Terra](http://www.artifexterra.com/) -地形编辑器，可轻松，复杂地进行风景画和编辑
+* ：自由： [Artifex Terra](http://www.artifexterra.com/) -地形编辑器，用于轻松而复杂的风景画和编辑
 * ：自由： [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) -快速直观地创建高质量，逼真的地形
 *： 然后： [DEM Net Elevation API](https://elevationapi.com) -从真实数据生成实时3D纹理地形-导出高度/法线贴图，glTF，OBJ，STL
 *： 然后： [Fracplanet](https://sourceforge.net/projects/fracplanet/) -分形行星和地形生成器
@@ -186,7 +186,7 @@ Code
 *： 然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 *： 然后： [Chipmunk2D](https://chipmunk-physics.net/) -快速，轻量的2D游戏物理库.
 *： 然后： [Cinder](https://libcinder.org/) -Cinder是社区开发的免费开放源代码库，用于使用C ++进行专业质量的创意编码.
-* ：自由： [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) -Cocos Creator是支持Cocos2d-js的免费跨平台游戏开发编辑器，可帮助开发人员构建2D和3D游戏场景，快速高效地编辑游戏UI和其他游戏资源.
+* ：自由： [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) -Cocos Creator，一个支持Cocos2d-js的免费跨平台游戏开发编辑器，可帮助开发人员构建2D和3D游戏场景，快速高效地编辑游戏UI和其他游戏资源.
 *： 然后： [Cocos2D](https://github.com/los-cocos/cocos) -用于游戏和多媒体的图形库，用于python语言
 *： 然后： [Cocos2d-x](http://cocos2d-x.org/)  -C ++ OpenGL 2D和3D游戏引擎. 使用C ++，但具有JS和Lua绑定. 定位到所有主要的移动平台和操作系统. 其他工具CocoStudio和Cocos Code IDE.
 *：money_with_wings： [Construct 2](https://www.scirra.com/)  -HTML5游戏制造商，这意味着您实际上并不是在编写JavaScript. 取而代之的是，您使用动作，事件和条件来完成繁重的工作.
@@ -223,21 +223,21 @@ Code
 *： 然后： [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 *： 然后： [Grid](http://www.planimeter.org/grid-sdk/) -Lua的多人优先游戏引擎.
 * [Havok Vision](http://www.havok.com/vision-engine/) -跨平台的游戏引擎，提供了功能强大且用途广泛的多平台运行时技术.
-*： 然后： [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
+*： 然后： [HaxeFlixel](http://haxeflixel.com/) -轻松，免费创建跨平台游戏.
 *： 然后： [Heaps](https://heaps.io/) -用于高性能游戏的跨平台图形.
 * [Hive3D](http://www.eyelead.com/hive/) -实时协作3D引擎.
 *： 然后： [Horde3D](http://www.horde3d.org/) -小型开源3D渲染引擎.
 *： 然后： [iio.js](https://github.com/iioinc/iio.js) -一个JavaScript库，可加快HTML5 Canvas应用程序的创建和部署
 *： 然后： [ImpactJS](http://impactjs.com/) -Impact是一个JavaScript游戏引擎，可让您为台式机和移动浏览器开发出色的HTML5游戏.
 * ：自由： [Inform7](http://inform7.com/) -基于自然语言的交互式小说设计系统.
-*： 然后： [Ink](http://www.inklestudios.com/ink/) -用于编写交互式叙述的脚本语言.
+*： 然后： [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 *： 然后： [Irrlicht](http://irrlicht.sourceforge.net/) -用C ++编写的开源高性能实时3D引擎.
 *： 然后： [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *： 然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) -面向冒险的Java开发人员的3D开源游戏引擎.
 * ：自由： [JPCT](http://www.jpct.net/) -jPCT是用于桌面Java和Google的Android的3D引擎.
 *： 然后： [Juno](https://github.com/digitsensitive/juno) -用TypeScript编写的干净轻巧的2D游戏框架
 *： 然后： [Juno](https://github.com/rxi/juno) -在Lua中制作具有大块像素的2D游戏的框架
-*： 然后： [Kivent](http://kivent.org/) -Kivy的2D游戏框架.
+*： 然后： [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 *： 然后： [Kivy](http://kivy.org) -用于为Linux，Windows，OS X，Android和iOS创建应用和游戏的跨平台Python框架
 *： 然后： [KogGE](https://korge.soywiz.com)  -Kotlin的现代多平台游戏引擎. 使用Kotlin可以立即为JVM，JavaScript，Android和iOS编写游戏.
 *： 然后： [KiwiJS](http://www.kiwijs.org/)  -一个有趣且友好的开源HTML5游戏引擎. 有人称它为HTML5游戏引擎的WordPress
@@ -245,7 +245,7 @@ Code
 *： 然后： [LimeJS](http://www.limejs.com/) -HTML5游戏框架，可为所有现代触摸屏和
 *： 然后： [LITIengine](http://litiengine.com/)  -2D Java游戏引擎. 它提供了使用纯Java创建基于图块的2D游戏的所有基础结构
 *： 然后： [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
-* ：自由： [LuaStudio](http://scormpool.com/luastudio) -跨平台框架/开发工具，可使用Lua / LuaJIT，兼容的iOS，Android，Mac和Windows设备制作2D / 3D游戏.
+* ：自由： [LuaStudio](http://scormpool.com/luastudio) -用于使用Lua / LuaJIT，兼容的iOS，Android，Mac和Windows设备制作2D / 3D游戏的跨平台框架/开发工具.
 * ：自由： [Lumberyard](https://aws.amazon.com/pt/lumberyard/) -Amazon Lumberyard是深度集成的免费AAA游戏引擎
 *： 然后： [LumixEngine](https://github.com/nem0/LumixEngine) -基于C ++构建的3D游戏引擎.
 *： 然后： [Lums](https://github.com/lums-proj/Lums)  -用C ++ 11编写的2D / 3D框架. 非常高效和现代. 仍在大力发展中.
@@ -261,6 +261,7 @@ Code
 *： 然后： [nCine](https://ncine.github.io/) -强调性能的跨平台2D游戏引擎，用C ++ 11编写，可以选择用Lua编写脚本.
 * ：自由： [NodeBox](https://www.nodebox.net/) -创建生成设计的Python工具家族.
 *： 然后： [nuklear](https://github.com/vurtun/nuklear) -用ANSI C编写的简约即时模式GUI工具包.
+*： 然后： [ÖbEngine](https://github.com/Sygmei/ObEngine) -在SFML之上具有Lua脚本的2D游戏引擎！
 *： 然后： [ODE](http://www.ode.org/) -ODE是用于模拟刚体动力学的开源高性能库.
 *： 然后： [Ogre3D](http://www.ogre3d.org/) -是用C ++编写的面向场景的实时，灵活的3D渲染引擎（与游戏引擎相对）.
 *： 然后： [OpenFL](http://www.openfl.org/) -用于制作多平台游戏的开源Haxe引擎.
@@ -274,7 +275,7 @@ Code
 *： 然后： [PandaJS](http://www.pandajs.net/) -开源HTML5引擎.
 *： 然后： [Phaser](http://phaser.io/) -免费和快速的2D游戏框架，用于为桌面和移动Web浏览器制作HTML5游戏，支持Canvas和WebGL渲染.
 *： 然后： [phina.js](http://phinajs.com/) -一个JavaScript游戏库，可轻松创建游戏和工具.
-*： 然后： [Piston](http://www.piston.rs/) -用Rust编写的模块化开源游戏引擎.
+*： 然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 *：money_with_wings： [Pixel Vision 8](https://twitter.com/PixelVision8) -一个旨在模拟您喜欢的8位控制台的框架.
 *： 然后： [PixiJS](http://www.pixijs.com/)  -是新来的HTML5游戏渲染器-于2013年初首次发布.该引擎的主要吸引力在于它使用WebGL来提高性能. 如果不支持WebGL，则引擎将退回到标准画布.
 *： 然后： [Planck.js](http://piqnt.com/planck.js/) -用于跨平台HTML5游戏开发的2D JavaScript物理引擎.
@@ -283,7 +284,7 @@ Code
 *： 然后： [Processing](https://www.processing.org/) -处理是一种针对艺术家，设计师，研究人员的编程语言，开发环境.
 *： 然后： [PuzzleScript](http://www.puzzlescript.net/) -开源HTML5益智游戏引擎.
 *： 然后： [PyGame](http://pygame.org/hifi.html) -Python中的2D游戏引擎.
-*： 然后： [QICI](http://www.qiciengine.com/) -用于创建HTML5游戏的高效的基于Web的工具.
+*： 然后： [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
 * ：钱袋子： [RPGMaker](http://www.rpgmakerweb.com/) -用于开发角色扮演游戏的一系列程序.
 *： 然后： [Rajawali](https://github.com/Rajawali/Rajawali) -Android OpenGL ES 2.0 / 3.0引擎
 *： 然后： [raylib](https://www.raylib.com/) -一个简单易用的库，用于享受视频游戏编程，并通过OpenGL（1.1、2.1、3.3或ES 2.0）加速硬件
@@ -304,7 +305,7 @@ Code
 *： 然后： [Urho3D](http://urho3d.github.io/) -跨平台渲染和游戏引擎.
 *： 然后： [ursina](https://www.ursinaengine.org/) -由python和panda3d驱动的游戏引擎.
 *： 然后： [Vassal](http://www.vassalengine.org/)  -Vassal是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编. 在Internet上或通过电子邮件实时播放.  Vassal在所有平台上运行，并且是免费的开源软件.
-*： 然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，可让您比以往更轻松地在浏览器中创建3D体素游戏（如Minecraft）.
+*： 然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，这些项目使在浏览器中创建Minecraft之类的3D voxel游戏比以往更加容易.
 *： 然后： [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 *： 然后： [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) -RPG Maker风格游戏的开源编辑器
 *： 然后： [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) -用于构建应用和游戏的3D Javacript框架
@@ -336,19 +337,19 @@ Audio
 * ：自由： [Audiosauna](http://www.audiosauna.com/) -使用内置的合成器和现场效果，将您的Web浏览器转变为快速灵活的音乐制作工作室.
 * ：自由： [Audiotool](http://www.audiotool.com/app) -在线音乐制作人.
 * ：自由： [Bfxr](http://www.bfxr.net/) -为电脑游戏制作音效的工具.
-* ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -特里·卡瓦纳（Terry Cavanagh）制作的在线（以及桌面）音乐制作人. 简单，直观，具有鲜明的复古声音.
+* ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -特里·卡瓦纳（Terry Cavanagh）制作的在线（以及台式机）音乐制作人. 简单，直观，具有鲜明的复古声音.
 * ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线声音效果生成器
 * ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows跟踪器，用于为NES / Famicom系统制作音乐.
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.
 *： 然后： [jfxr](http://jfxr.frozenfractal.com) -Bfxr音效生成器的JavaScript端口.
 *： 然后： [LMMS](https://lmms.io/) -跨平台音乐制作软件.
-* ：自由： [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
+* ：自由： [MadTracker](http://www.madtracker.org/main.php)  -强大而有效的音乐制作方法. 全面的VST™，ASIO™和ReWire™支持确保了多功能性和兼容性.
 *： 然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) -适用于Mac / Linux / Windows平台的开源跟踪器.
 *： 然后： [musagi](http://www.drpetter.se/project_musagi.html) -开源，相当大和复杂的音乐编辑器和合成器
 *： 然后： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) -开源MIDI音序器.
 * ：自由： [Soundation](https://soundation.com/) -在线专业音乐工作室.
-* ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
-* ：钱袋子： [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
+* ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) -小型，快速且功能强大的模块化合成器，具有基于模式的音序器（跟踪器）.
+* ：钱袋子： [Resemble](https://www.resemble.ai/unity) -类似于Unity中的语音克隆引擎
 
 棋盘游戏
 -----------
@@ -386,7 +387,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门图表”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

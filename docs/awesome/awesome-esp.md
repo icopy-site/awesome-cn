@@ -11,18 +11,18 @@
 <a href="http://espressif.com/en/products/hardware/esp32/overview"><img src="https://pbs.twimg.com/profile_images/863510403120222208/rjVOiTe3.jpg" alt="ESP32" align="left" style="margin-right: 25px" height=150></a>
 &gt;两者 [ESP8266](http://espressif.com/en/products/hardware/esp8266ex/overview) 和 [ESP32](http://espressif.com/en/products/hardware/esp32/overview) 是上海的制造商乐鑫系统有限公司生产的具有完整TCP / IP堆栈和微控制器功能的低成本Wi-Fi微芯片.
 > <br/>
-&gt;看 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) 有关如何为该列表做出贡献的信息.
+&gt;请参阅 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) 有关如何为该列表做出贡献的信息.
 > <br/><br/>
-
+---
 <!--lint disable no-repeat-punctuation-->
 <!--lint disable remark-lint-double-link-->
 
 ## Firmware
-- [Espressif AT](http://bbs.espressif.com/) -ESP8266的默认香草固件.
-- [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) -ESP8266基于eLua的固件.
-- [ESPBasic](http://www.esp8266basic.com/) -BASIC固件，可轻松进行无线编程，适用于8266.
+- [Espressif AT](http://bbs.espressif.com/) -ESP8266的默认原始固件.
+- [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) -用于ESP8266的基于eLua的固件.
+- [ESPBasic](http://www.esp8266basic.com/) -用于8266的BASIC固件，可轻松进行无线编程.
 - [MicroPython](https://github.com/micropython/micropython/) -为ESP8266和32实现Python3的实现.
-- [ESP32](https://github.com/luc-github/ESP3D) -用于ESP32和8266的3D打印机的实验性固件.
+- [ESP32](https://github.com/luc-github/ESP3D) -用于ESP32和8266的3D打印机的实验固件.
 - [Frankenstein](https://github.com/nekromant/esp8266-frankenstein) -具有ESP8266强大功能的快速脏固件.
 - [MongooseOS](https://github.com/cesanta/mongoose-os)  -具有C和JS的特定于IoT的固件. 适用于ESP32 / 8266.
 - [DeviceHive](https://devicehive.com/) -作为DeviceHive IoT数据平台客户端的固件，仅适用于8266.
@@ -36,7 +36,7 @@
 - [ESP-Open-SDK](https://github.com/pfalcon/esp-open-sdk) -ESP8266的开放SDK.
 - [ESPTool-ck](https://github.com/igrr/esptool-ck) -用于在ESP8266中刷新的CLI工具.
 - [ESPTool-gui](https://github.com/Rodmg/esptool-gui) -基于ESPTool-ck的Flash GUI工具.
-- [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) -NodeMCU操作系统的官方刷新工具.
+- [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) -NodeMCU为其操作系统提供的官方刷新工具.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) -适用于32/8266的仅lua的SDK.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) -在8266中用于文件系统上传的Arduino插件.
 - [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
@@ -46,19 +46,19 @@
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) -针对其他设备中的两个ESP的多协议MQTT网关的实现.
 - [ESPHome](https://esphome.io/) -通过简单但功能强大的配置文件和家庭自动化系统控制ESP的功能齐全的系统.
 - [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) -Sonoff设备（和其他8266设备）的备用固件，允许通过Apple的Homekit进行控制.
-- [DoorsignEPD](https://github.com/jamct/DoorsignEPD) -使用ESP32的带有电子纸显示屏的智能门牌.
+- [DoorsignEPD](https://github.com/jamct/DoorsignEPD) -使用ESP32的带电子纸显示屏的智能门牌.
 - [EPaperWeatherDisplay](https://github.com/henri98/esp32-e-paper-weatherdisplay) -使用ESP32的非常可爱的电子墨水天气显示.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) -用于ESP32的功能齐全的家庭农业自动化软件.
-- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) -公民科学项目，使用移动和固定站通过ESP32和智能手机测量空气质量.
+- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) -公民科学项目，该项目使用移动站和固定站通过ESP32和智能手机测量空气质量.
 
 ### InfoSec
-- [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) -能够显示BLE设备并从中收集数据的管理设备，所有操作都在一个漂亮的屏幕界面中进行.
+- [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) -可以显示BLE设备并从中收集数据的管理设备，所有操作都在一个漂亮的屏幕界面中进行.
 - [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) -用于WiFi和蓝牙的综合攻防工具套件.
 - [ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) -一个库，可以为两个ESP生成具有网络流量的.pcap文件.
 - [WiFi Satellite](https://hackaday.io/project/28831-wifi-satellite-34c3) -巨大的Wifi“卫星”，可以使用14个ESP32监视所有14个2.4Ghz通道.
-- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) -使用ESP8266的Wifi网络非常酷的伪干扰（取消身份验证）.
+- [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) -使用ESP8266的Wifi网络非常酷的伪干扰（解除身份验证）.
 - [PacketMonitor](https://github.com/spacehuhn/PacketMonitor32)  -漂亮的OLED监视器，用于WiFi通道中的数据包活动. 每个ESP有两个版本.
-- [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) -具有无线功能的按键喷射器，与Rubber Ducky相似，但更加出色.
+- [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) -具有无线功能的按键喷射器，与Rubber Ducky相似，但功能更强大.
 - [ESP8266 Beacon Spam](https://github.com/spacehuhn/esp8266_beaconSpam)  -想混淆别人吗？ 此设备会创建数百个伪造的WiFi网络.
 - [DeauthDetector](https://github.com/spacehuhn/DeauthDetector)  -如果检测到WiFi取消身份验证攻击，就会发光的小型设备. 与最后六个项目由同一个人制作.
 
@@ -69,7 +69,7 @@
 ### LoRa
 
 - [Meshtastic](https://www.meshtastic.org/) -ESP32 LoRA板作为安全的，较长的电池寿命，网状GPS通信器.
-- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi和蓝牙驱动，启用LoRaWAN，电池供电的迷你Paxcounter，基于廉价的ESP32 LoRa IoT板构建
+- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi和蓝牙驱动，启用LoRaWAN，电池供电的迷你Paxcounter，基于便宜的ESP32 LoRa IoT板构建
 - [Disaster Radio](https://disaster.radio/) -由太阳驱动的抗灾通讯网络
 
 ### Others
@@ -79,7 +79,7 @@
 - [StickWatch](https://github.com/eggfly/StickWatch) -使用ESP32的基于M5Stick的智能手表模块.
 - [DroneBridge](https://github.com/DroneBridge/ESP32) -DroneBridge的实现，ESP32上用于无人机和无人机的信号链路.
 ## Libraries
-- [Wasm3](https://github.com/wasm3/wasm3) -专为嵌入式设备设计的闪电般的WebAssembly解释器，与两个ESP兼容.
+- [Wasm3](https://github.com/wasm3/wasm3) -专为嵌入式设备而设计的，闪电般的WebAssembly解释器，与两种ESP兼容.
 - [Homie8266](https://github.com/marvinroger/homie-esp8266) -8266的Homie协议的框架实现.
 - [ESP-Dash](https://github.com/ayushsharma82/ESP-DASH)  -用于在8266/32中创建远程仪表盘的美观，快速的框架. 无需互联网.
 - [ESP_mqtt](https://github.com/tuanpmt/esp_mqtt) -用于ESP8266的MQTT帮助程序库.
@@ -99,11 +99,11 @@
 - [ESPHelper/32](https://github.com/ItKindaWorks/ESPHelper32) -32的ESPHelper库的端口.
 - [ESP8266Wifi](https://github.com/ekstrand/ESP8266wifi) -8266的简单Arduino Wifi库.
 - [WiFiESP](https://github.com/bportaluri/WiFiEsp) -用于Wifi管理的Arduino库，用于8266开发板的客户端/服务器.
-- [TinyGSM](https://github.com/vshymanskyy/TinyGSM) -一个快速简单的Arduino库，用于与GSM模块进行交互，该模块还可以通过AT命令控制8266.
+- [TinyGSM](https://github.com/vshymanskyy/TinyGSM) -一个快速简单的Arduino库，用于与GSM模块交互，该模块还可以通过AT命令控制8266.
 - [mJS](https://github.com/cesanta/mjs) -MongooseOS使用的轻量级受限JS引擎，与32和8266兼容.
 - [ESPUI](https://github.com/s00500/ESPUI) -一个简单的库，用于为两个ESP制作交互式Web界面.
 - [ESP32 ePaper](https://github.com/loboris/ESP32_ePaper_example) -功能齐全的库，可将ePaper模块与ESP32一起使用.
-- [TinyUPnP](https://github.com/ofekp/TinyUPnP) -轻巧的UPnP IGD库，用于在8266和32上自动进行端口转发.
+- [TinyUPnP](https://github.com/ofekp/TinyUPnP) -轻量级的UPnP IGD库，用于在8266和32上进行自动端口转发.
 - [Esp32SSHClient](https://github.com/J-Rios/Arduino-esp32sshclient) -在ESP32中实现SSH客户端的库.
 - [painlessMesh](https://github.com/gmag11/painlessMesh) -一个负责使用ESP8266和ESP32硬件创建简单网状网络的细节的库.
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) -的Arduino库 [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)，由定义的无连接WiFi通信协议 [Espressif](https://github.com/espressif).

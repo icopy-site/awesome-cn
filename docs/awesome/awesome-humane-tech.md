@@ -32,7 +32,7 @@
 
 ## Humane design
 
-人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
+人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分. [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
 
 - [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
 - [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
@@ -98,6 +98,7 @@
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展程序，可模拟内容交付网络以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) -适用于Android的基于HTTPS和Tor的DNS，DNSCrypt客户端，防火墙和连接跟踪器.
+- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) -Databunker是基于网络的，自托管的，符合GDPR要求的，用于个人数据的安全存储.
 
 ## Tracking
 
@@ -152,7 +153,7 @@
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) -免费的实时日志文件分析器，以获取高级统计信息.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  -公平的网络分析. 在您的用户完全控制其数据时获得见解.
 - [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) -使用Crystal制作的注重隐私的网站分析-托管在欧盟.
-- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此具有隐私友好性.
+- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此对隐私友好.
 
 ## Blocklists
 
@@ -203,7 +204,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) -将Twitter，YouTube，Instagram和Google Maps请求重定向到对隐私友好的替代方案.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) -可将Twitter，YouTube链接到Nitter，Invidious并委托给另一个应用程序的应用程序.
 - [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FreeTubeApp/FreeTube) -适用于Windows，MacOS和Linux的专用YouTube客户端.
-- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamNewPipe/NewPipe) - A libre lightweight streaming YouTube alternative for Android.
+- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamNewPipe/NewPipe) -适用于Android的免费轻量级YouTube替代流.
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) -浏览器扩展程序可以保留在“最新推文”时间轴上，减少“参与度”，降低UI强度.
 - [Barinsta](https://barinsta.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/austinhuang0131/barinsta) -适用于Android的自由，替代和轻量级的Instagram客户端.
 - [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) -电子应用程序，以确保您的社交媒体帐户仅显示您最近的历史记录中的帖子.
@@ -336,7 +337,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 ## Related awesomeness
 
-- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) -在本地托管和管理应用程序，而不是从SaaS提供商那里租用.
+- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) -精选的分散式，P2P以及分布式平台和应用程序列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) -精选的对等资源列表.
 - [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) -精选的用于行动主义的出色数字工具.
