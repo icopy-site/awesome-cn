@@ -7,10 +7,10 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
-现在我们变得非常大，与最初的想法不同.
-收集各种类别的高级软件. 随意**星级**和**叉子**.
+现在，我们变得非常庞大，并且与最初的想法有所不同.
+Here we collect awesome macOS software in various categories. Feel free to **star** and **fork**.
 
-有什么意见，建议吗？ [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) . 我们热爱PR ：）在打开其中的内容之前，请先查看贡献准则. 跟着 [awesome](https://github.com/sindresorhus/awesome) 列表.
+Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) 我们喜欢公关:)请看一下 [contributing](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) 打开一个之前的指导原则. 跟着 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 **Explanation**
 
@@ -52,7 +52,7 @@
 
 #### Office
 
-* [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software office software. Software is tested and used daily by a large and devoted user community. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
+* [LibreOffice](https://www.libreoffice.org)  -LibreOffice是免费的开源软件办公软件. 每天都有庞大的专用用户社区对软件进行测试和使用.  [！[开源软件] [OSS图标]]（https://www.libreoffice.org/about-us/source-code/）！[免费软件] [免费软件图标]
 * [OpenOffice](http://www.openoffice.org/download/index.html)  -与其他主要办公套件兼容，Apache OpenOffice可免费下载，使用和分发.  [！[开源软件] [OSS图标]]（http://openoffice.apache.org/source.html）！[免费软件] [免费软件图标]
 * [WPS](https://www.wps.com/mac)  -是一个跨平台的办公软件套件.  ！[免费软件] [免费软件图标]
 * [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) 分开的文档.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/pages/id409201541?mt=12）
@@ -107,10 +107,10 @@
 
 #### Ebooks
 
-* [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
+* [Calibre](http://calibre-ebook.com/)  -在多个平台上运行的免费和开放源代码的电子书计算机软件应用程序套件，允许用户管理电子书集以及创建，编辑和阅读电子书.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/kovidgoyal/calibre）
 * [Clearview](http://www.thecanoesoft.com/clearview/) -用于PDF，EPUB（无DRM），CHM和MOBI的选项卡式电子书阅读器.
 * [iChm](https://github.com/NSGod/ichm)  -CHM（Microsoft编译的HTML帮助）文件的电子书阅读器.  [！[开源软件] [OSS图标]]（https://github.com/NSGod/ichm）！[免费软件] [免费软件图标]
-* [Kindle App](https://www.amazon.com/l/16571048011) -Kindle的亚马逊官方阅读应用程序.
+* [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
 * [Klib](http://klib.me/)  -管理Kindle和iBooks高光的新方法.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id1196268448?mt=12&amp;at=1000lv4R&amp;ct=klib_me）
 * [Scribus](https://www.scribus.net/)  -专业的排版和发布软件，支持EPS和SVG导入/导出，以及PDF支持.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/scribus/）！[免费软件] [免费软件图标]
 * [Sigil](https://sigil-ebook.com/)  -多平台EPUB电子书编辑器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Sigil-Ebook/Sigil）
@@ -119,7 +119,7 @@
 
 * [Leaf](http://www.rockysandstudio.com/) -出色的新闻阅读器，致力于帮助您享受每日新闻并轻松管理您的订阅.
 * [NetNewsWire](https://ranchero.com/netnewswire/)  -这是一个适用于macOS的免费开放源供稿阅读器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/brentsimmons/NetNewsWire）
-* [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
+* [ReadKit](http://readkitapp.com/)  -支持所有主要提供商的Mac后期客户端：Instapaper，Pocket和Readability. 甚至，ReadKit也是一个功能齐全的RSS阅读器.
 * [Reeder 4](http://reederapp.com/)  -Feedbin，Feedly和Feed Wrangler等新闻阅读器.  ！[免费软件] [免费软件图标]
 * [Vienna](http://viennarss.github.io/) -适用于Mac OS X的RSS / Atom阅读器.[！[开源软件] [OSS图标]！[免费] [免费软件]]（https://github.com/ViennaRSS/vienna-rss）
 * [Feedy](https://krillapps.com/feedy/)  -适用于Mac的优雅，轻巧的RSS客户端和新闻阅读器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&amp;mt=12）
@@ -144,13 +144,13 @@
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Deco IDE](https://www.decoide.org)  -用于构建React Native应用程序的最佳IDE.  [！[开源软件] [OSS图标]]（https://github.com/decosoftware/deco-ide）！[免费软件] [免费软件图标]
 * [Eclipse](https://www.eclipse.org)  -流行的开源IDE，主要用于Java，但具有对多种语言和平台的插件支持.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
-* [Espresso](http://espressoapp.com/)  -Mac版网络编辑器又回来了. 对于制作令人愉快，创新和快速的网站的人们.
+* [Espresso](http://espressoapp.com/)  -Mac版网络编辑器又回来了. 对于那些制作令人愉快，创新和快速的网站的人.
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/)  -管理已安装的JetBrains工具，下载新工具并打开最近的项目.  ！[免费软件] [免费软件图标]
   * [AppCode](https://www.jetbrains.com/objc/) -适用于iOS / macOS开发的智能IDE
   * [CLion](https://www.jetbrains.com/clion/)  -强大的C和C ++ IDE.  （**对学生免费**）
   * [DataGrip](http://www.jetbrains.com/datagrip/)  -用于数据库和SQL的跨平台IDE.  **免费**（学生），请检查 [here](https://www.jetbrains.com/student/) 有关更多信息.
   * [GoLand](https://www.jetbrains.com/go/) -为Go开发提供符合人体工程学的环境.
-  * [IntelliJ IDEA](https://www.jetbrains.com/idea/)  -强大的JVM语言IDE.  （**对学生免费**）
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages. (**Free** for Students)
   * [PyCharm](https://www.jetbrains.com/pycharm/) -强大的Python IDE，具有专业版和社区版.
   * [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
   * [WebStorm](http://www.jetbrains.com/webstorm/)  -JetBrains最聪明的JavaScript IDE.  **免费**（学生），请检查 [here](https://www.jetbrains.com/student/) 有关更多信息.
@@ -164,7 +164,7 @@
 
 #### Developer Utilities
 
-* [BetterRename](http://www.publicspace.net/BetterRename/)  -市场上功能最强大，最完整的Mac文件重命名应用程序.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/better-rename-9/id414209656）
+* [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/better-rename-9/id414209656)
 * [Beyond Compare](http://www.scootersoftware.com/)  -使用简单，功能强大的命令比较文件和文件夹，这些命令专注于您感兴趣的差异，而忽略您不感兴趣的差异.  ！[免费软件] [免费软件图标]
 * [Bidbar](https://www.getbidbar.com) -从菜单栏中管理bash命令，并使用键盘快捷键运行它们.
 * [Cacher](https://www.cacher.io/) -具有Gist同步，VSCode / Atom / Sublime软件包和Mac / Windows / Linux / Web客户端的基于云的，团队支持的代码段管理器.
@@ -176,7 +176,7 @@
 * [EnvPane](https://github.com/hschmidt/EnvPane)  -OS X首选项窗格中的环境变量.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hschmidt/EnvPane）
 * [FinderGo](https://github.com/onmyway133/FinderGo)  -从Finder快速打开终端.  [！[免费软件] [免费软件图标]！[开源软件] [OSS图标]]（https://github.com/onmyway133/FinderGo）
 * [Finicky](https://johnste.github.io/finicky/)  -允许您设置规则的应用程序，该规则决定为打开默认浏览器的每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
-* [Gas Mask](https://github.com/2ndalpha/gasmask) -适用于Mac OS X的简单主机文件管理器.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/2ndalpha/gasmask）
+* [Gas Mask](https://github.com/2ndalpha/gasmask) -适用于Mac OS X的简单主机文件管理器.[！[开源软件] [OSS图标]！[免费] [免费软件]]（https://github.com/2ndalpha/gasmask）
 * [Gemini](https://macpaw.com/gemini) -智能重复文件查找器.
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/)  -快速，聪明的开源十六进制编辑器.  [！[开源软件] [OSS图标]]（https://github.com/ridiculousfish/HexFiend/）！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https ：//itunes.apple.com/app/hex-fiend/id1342896380）
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane)  -系统首选项窗格，用于管理主机文件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/specialunderwear/Hosts.prefpane）
@@ -194,7 +194,7 @@
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) -支持SSH，Telnet或其他协议的终端仿真.
 * [Site Sucker](https://ricks-apps.com/osx/sitesucker/)  -SiteSucker是Macintosh应用程序，可以从Internet自动下载网站.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12）
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) -易于使用的代码段管理器.
-* [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.
+* [Solarized](http://ethanschoonover.com/solarized)  -干净漂亮的色彩主题. 与iTerm，JetBrains产品，Vim等兼容.
 * [StarUML](http://staruml.io) -强大的UML应用.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) -从Objective-C到Swift的代码转换器以及Xcode和Finder扩展.
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/)  -免费和开源应用程序，用于主机管理和切换.  [！[开源软件] [OSS图标]]（https://github.com/oldj/SwitchHosts）！[免费软件] [免费软件图标]
@@ -205,6 +205,7 @@
 * [Visual Paradigm](https://www.visual-paradigm.com/) -用于敏捷，EA TOGAF ADM流程管理的多合一UML，SysML，BPMN建模平台.
 * [Woodpecker](http://www.woodpeck.cn)  -在Mac上查看iOS应用的沙盒文件，UserDefaults，钥匙串项目.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/woodpecker/id1333548463）
 * [WWDC](https://github.com/insidegui/WWDC)  -Mac OS非官方的WWDC应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/insidegui/WWDC）
+* [Xcodes](https://github.com/RobotsAndPencils/XcodesApp)  -安装并在多个版本的Xcode之间切换.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/RobotsAndPencils/XcodesApp）
 * [zeplin](https://www.zeplin.io/)  -用于设计人员和开发人员之间工作的协作工具.  ！[免费软件] [免费软件图标]
 * [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086) -.nib到.xib转换器[！[App Store] [app-store图标]]（https://apps.apple.com/by/app/nib-unlocker/id1475697086?mt=12）
 #### Regular Expression Editors
@@ -218,8 +219,8 @@
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)  -免费的开源本机Apple OS X应用程序，用于测试HTTP / REST端点.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)  -最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
 * [Paw](https://paw.cloud/) -高级HTTP客户端.
-* [Postman](https://www.getpostman.com) -强大的GUI平台，从构建API请求到测试，文档编制和共享，使您的API开发更快，更轻松.
-* [Katalon Studio](https://www.katalon.com)  -简化API，Web，移动自动化测试免费. 强壮的. 跨平台. 来自160个国家/地区的自动化测试人员，带有YouTube频道和GitHub存储库.！[免费软件] [免费软件图标]
+* [Postman](https://www.getpostman.com) -强大的GUI平台，从构建API请求到测试，文档编制和共享，使您的API开发更快，更轻松.！[免费软件] [免费软件图标]
+* [Katalon Studio](https://www.katalon.com)  -简化API，Web，移动自动化测试免费. 强大的. 跨平台. 来自160个国家/地区的自动化测试人员，带有YouTube频道和GitHub存储库.！[免费软件] [免费软件图标]
 
 #### Network Analysis
 
@@ -228,7 +229,7 @@
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) -具有世界地图的网络监视器，用于可视化网络连接.
 * [mitmproxy](https://mitmproxy.org/)  -面向渗透测试人员和软件开发人员的交互式拦截HTTP代理.  [！[开源软件] [OSS图标]]（https://github.com/james-proxy/james）！[免费软件] [免费软件图标]
 * [Proxie](https://proxieapp.com/)  -HTTP调试代理.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/cellist/id897814548）
-* [Proxyman](https://proxyman.app)  -适用于macOS的现代，直观的HTTP调试代理.  ！[免费软件] [免费软件图标]
+* [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org)  -世界上最广泛使用的网络协议分析器.  [！[开源软件] [OSS图标]]（https://github.com/wireshark/wireshark）！[免费软件] [免费软件图标]
 
 #### Command Line Tools
@@ -238,7 +239,7 @@
 * [ack](https://beyondgrep.com)  -像grep这样的工具，针对程序员进行了优化.  ！[免费软件] [免费软件图标]
 * [alacritty](https://github.com/jwilm/alacritty)  -跨平台，GPU加速的终端仿真器.  [！[开源软件] [OSS图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
 * [archey-osx](http://obihann.github.io/archey-osx/) -OS X的archey脚本.[！[开源软件] [OSS图标]]（https://github.com/obihann/archey-osx）！[免费软件] [免费软件图标]
-* [asciinema](https://github.com/asciinema/asciinema)  -轻松记录终端会话并在终端以及Web浏览器中重播它们.  [！[开源软件] [OSS图标]]（https://github.com/asciinema/asciinema）！[免费软件] [免费软件图标]
+* [asciinema](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) ![Freeware][Freeware Icon]
 * [autojump](https://github.com/wting/autojump/wiki)  -将cd替换为智能的自动跳转功能，可从命令行轻松浏览目录.  [！[开源软件] [OSS图标]]（https://github.com/wting/autojump）！[免费软件] [免费软件图标]
 * [bash-it](https://github.com/Bash-it/bash-it)  -oh-my-zsh为bash的无耻剥夺.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [bat](https://github.com/sharkdp/bat)  -具有语法高亮和Git集成的`cat（1）`克隆.  [！[开源软件] [OSS图标]]（https://github.com/sharkdp/bat）！[免费软件] [免费软件图标]
@@ -254,7 +255,7 @@
 * [htop](https://github.com/hishamhm/htop)  -htop是用于Unix系统的交互式文本模式进程查看器. 它旨在成为一个更好的“顶级”.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hishamhm/htop）
 * [httpie](https://httpie.org) -现代命令行HTTP客户端–具有直观UI，JSON支持，语法突出显示，类似wget的下载，扩展等的用户友好的curl替代方案.[！[开源软件] [OSS图标]]（https://github.com .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
 * [hyper](https://hyper.is)  -建立在网络技术上的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
-* [iTerm2](http://www.iterm2.com) -iTerm2是OS X的绝佳终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
+* [iTerm2](http://www.iterm2.com) -iTerm2是OS X的出色终端仿真器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)  -通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
 * [job](https://github.com/liujianping/job)  -求职，将您的短期命令作为一项长期工作.  [！[开源软件] [OSS图标]]（https://github.com/liujianping/job）！[免费软件] [免费软件图标]
 * [kitty](https://github.com/kovidgoyal/kitty)  -跨平台，快速，功能齐全的基于GPU的终端仿真器.  [！[开源软件] [OSS图标]]（https://github.com/kovidgoyal/kitty）！[免费软件] [免费软件图标]
@@ -272,17 +273,18 @@
 * [Serial](https://www.decisivetactics.com/products/serial/) -适用于Mac的全功能串行终端.
 * [shallow-backup](https://github.com/alichtman/shallow-backup)  -轻松创建已安装的应用程序，点文件等的文本文档.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher)  -一种类似于ack的代码搜索工具，着重于速度.  [！[开源软件] [OSS图标]]（https://github.com/ggreer/the_silver_searcher）！[免费软件] [免费软件图标]
-* [spaceship](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software][OSS Icon]](https://github.com/denysdovhan/spaceship-prompt) ![Freeware][Freeware Icon]
+* [spaceship](https://github.com/denysdovhan/spaceship-prompt)  -宇航员的Zsh提示.  [！[开源软件] [OSS图标]]（https://github.com/denysdovhan/spaceship-prompt）！[免费软件] [免费软件图标]
 * [Taskbook](https://github.com/klaussinani/taskbook)  -命令行栖息地的任务，公告板和注释.  [！[开源软件] [OSS图标]]（https://github.com/klaussinani/taskbook）！[免费软件] [免费软件图标]
 * [Terminus](https://github.com/Eugeny/terminus)  -受Type Hyper启发的免费终端工具，使用TypeScript构建.  [！[开源软件] [OSS图标]]（https://github.com/Eugeny/terminus）！[免费软件] [免费软件图标]
 * [Termius](https://www.termius.com/)  -免费的终端工具，可与Windows平台上的xshell相提并论.  ！[免费软件] [免费软件图标]
 * [TextQL](https://github.com/dinedal/textql)  -针对CSV或TSV等结构化文本执行SQL.  [！[开源软件] [OSS图标]]（https://github.com/dinedal/textql）！[免费软件] [免费软件图标]
 * [tmux](https://github.com/tmux/tmux)  -“终端多路复用器”，它使多个终端（或窗口）可以从单个终端进行访问和控制.  tmux旨在成为BNU许可的简单，现代的替代程序，例如GNU屏幕.  [！[开源软件] [OSS图标]]（https://github.com/tmux/tmux）
-* [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily. [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator)  -轻松管理复杂的tmux会话.  [！[开源软件] [OSS图标]]（https://github.com/tmuxinator/tmuxinator）
 * [trash](https://github.com/sindresorhus/trash)  -将文件和目录移到回收站.  ！[开源软件] [OSS图标]
-* [VisiData](https://visidata.org)  -用于发现和整理数据的终端电子表格多功能工具.  [！[开源软件] [OSS图标]]（https://github.com/saulpw/visidata）！[免费软件] [免费软件图标]
+* [VisiData](https://visidata.org) - Terminal spreadsheet multitool for discovering and arranging data. [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) ![Freeware][Freeware Icon]
 * [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
-* [xxh](https://github.com/xxh/xxh)  -无论您通过SSH到哪里，都可以带上自己喜欢的外壳.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/zsh/）！[免费软件] [免费软件图标]
+* [xcodes](https://github.com/RobotsAndPencils/xcodes)  -用于在多个版本的Xcode之间安装和切换的命令行工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/RobotsAndPencils/xcodes）
+* [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
 
 #### Frameworks For Hybrid Applications
 
@@ -291,7 +293,7 @@
 * [Electrino](https://github.com/pojala/electrino)  -使用系统自己的Web浏览器引擎，基于Web技术构建的应用程序的桌面运行时.  [！[开源软件] [OSS图标]]（https://github.com/pojala/electrino）！[免费软件] [免费软件图标]
 * [Electron](http://electron.atom.io)  -使用JavaScript，HTML和CSS构建跨平台的桌面应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/electron/electron）
 * [ionic](http://ionicframework.com/)  -使用Angular和开放式网络技术构建出色的本机和渐进式Web应用程序. 一个可以在所有内容上运行的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/driftyco/ionic）！[免费软件] [免费软件图标]
-* [MacGap](http://macgapproject.github.io/) - Provides a lightweight JavaScript API for OS X integration, such as displaying native notifications or writing data to a file. [![Open-Source Software][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [MacGap](http://macgapproject.github.io/)  -提供用于OS X集成的轻量级JavaScript API，例如显示本机通知或将数据写入文件.  [！[开源软件] [OSS图标]]（https://github.com/MacGapProject）！[免费软件] [免费软件图标]
 * [nw.js](http://nwjs.io)  -使用HTML和JavaScript构建桌面应用程序. 它使您可以直接从DOM调用所有的`Node.js`模块，并提供一种使用所有Web技术编写应用程序的新方式.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nwjs/nw.js）
 * [Qt](https://www.qt.io) -跨平台的应用程序框架.
 * [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native)  -使用React Native构建Ubuntu桌面应用程序.  [！[开源软件] [OSS图标]]（https://github.com/CanonicalLtd/react-native）！[免费软件] [免费软件图标]
@@ -311,7 +313,7 @@
 * [GitKraken](https://www.gitkraken.com/) -适用于Windows，Mac和Linux的最受欢迎的Git GUI.
 * [GitX-dev](https://rowanj.github.io/gitx/) -的叉子 [Pieter's](https://github.com/pieter/gitx)  OS X的不错的git GUI.包括分支/标签边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 * [Hub](https://hub.github.com/)  -Git的命令行包装，使您在GitHub上更好.  [！[开源软件] [OSS图标]]（https://github.com/github/hub）！[免费软件] [免费软件图标]
-* [OhMyStar](https://ohmystarapp.com/) 管理，探索和共享您的Github Stars的美丽而有效的方式.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/us/app/ohmystar2/id1218642292）
+* [OhMyStar](https://ohmystarapp.com/) Beautiful and efficient way to manage, explore and share your Github Stars. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292)
 * [SmartGit](http://www.syntevo.com/smartgit/) -Git客户的支持.
 * [SourceTree](https://www.sourcetreeapp.com/)  -适用于Windows或Mac的免费Git＆Mercurial客户端.  ！[免费软件] [免费软件图标]
 * [Sublime Merge](https://www.sublimemerge.com/) -来自Sublime Text制造商的Git客户.
@@ -324,7 +326,7 @@
 * [Parallels](http://www.parallels.com/)  -功能强大，易于使用的VM. 每个新的Mac OS没有免费升级.
 * [Vagrant](https://www.vagrantup.com) - Tool for building and distributing development environments. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
 * [Veertu](https://veertu.com)  -Mac上最轻的VM. 在Mac上运行VM的响应式，沙盒式和本机方式.  ！[免费软件] [免费软件图标]
-* [Virtual Box](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization product. ![Freeware][Freeware Icon]
+* [Virtual Box](http://www.virtualbox.org)  -强大的x86和AMD64 / Intel64虚拟化产品.  ！[免费软件] [免费软件图标]
 * [VMware Fusion](http://www.vmware.com/) -由VMware开发的功能强大的商业VM.
 
 #### Databases
@@ -333,7 +335,7 @@
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) -跨平台的数据库工具，可在Microsoft家庭内部部署和云数据平台（例如MSSQL Server）上使用！[免费软件] [免费软件图标]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) -更快，更好，更稳定的Redis桌面管理器.[！[开源软件] [OSS图标]]（https://directory.apache.org/sources.html）！[免费软件] [免费软件图标]
 * [Base 2](http://menial.co.uk/base/) -用于创建，设计，编辑和浏览SQLite 3数据库文件的应用程序.
-* [Beekeeper Studio](https://www.beekeeperstudio.io) -流畅的SQL编辑器和数据库管理器[！[开源软件] [OSS图标]]（https://github.com/beekeeper-studio/beekeeper-studio）！[免费软件] [免费软件]
+* [Beekeeper Studio](https://www.beekeeperstudio.io) -平滑的SQL编辑器和数据库管理器[！[开源软件] [OSS图标]]（https://github.com/beekeeper-studio/beekeeper-studio）！[免费软件] [免费软件]
 * [Bdash](https://github.com/bdash-app/bdash) -现代SQL客户端应用程序，支持MySQL，PostgreSQL（Redshift）和BigQuery.[！[开源软件] [OSS图标]]（https://github.com/bdash-app/bdash）！[免费软件] [免费软件图标]
 * [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin)  -强大的Chrome应用程序可管理您的MySQL.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yoichiro/chrome_mysql_admin）
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor)  -核心数据编辑器可让您轻松查看，编辑和分析应用程序的数据.  [！[开源软件] [OSS图标]]（https://github.com/luin/medis）！[免费软件] [免费软件图标]
@@ -443,9 +445,9 @@
 * [Licecap](http://www.cockos.com/licecap/)  -记录屏幕并导出到GIF. 您可以在录制过程中随时更改录制区域.  [！[开源软件] [OSS图标]]（https://github.com/justinfrankel/licecap）！[免费软件] [免费软件图标]
 * [Lightshot](https://app.prntscr.com/)  -拍摄可自定义屏幕截图的最快方法.  ！[免费软件] [免费软件图标]
 * [Monosnap](https://monosnap.com/)  -制作屏幕截图. 画上它. 拍摄视频并共享文件. 快速，简便，免费.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/monosnap/id540348655）
-* [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
+* [ScreenShot PSD](http://txtlabs.com/)  -将屏幕捕获为分层PSD，以方便编辑.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/us/app/screenshot-psd/id489880259）
 * [Skitch](https://evernote.com/skitch/)  -具有强大注释功能的屏幕捕获应用程序.  ！[免费软件] [免费软件图标]
-* [Snip](http://snip.qq.com/)  -在QQ邮件上共享捕获的图像的应用程序.  ！[免费软件] [免费软件图标]
+* [Snip](http://snip.qq.com/)  -共享在QQ邮件上捕获的图像的应用程序.  ！[免费软件] [免费软件图标]
 * [Snipaste](https://www.snipaste.com)  -简单但功能强大的剪裁工具.  ！[免费软件] [免费软件图标]
 * [Teampaper Snap](http://teampaper.me/snap/)  -让您的截图说出来.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/monosnap/id1199502670）
 * [Xnip](http://xnipapp.com/)  -方便的截图应用程序.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572）！[免费软件] [免费软件图标]
@@ -467,7 +469,7 @@
 * [ImageOptim](https://imageoptim.com/mac)  -压缩图像并删除EXIF信息.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/ImageOptim/ImageOptim）
 * [iPic](https://en.toolinbox.net/iPic/)  -在支持Markdown的情况下轻松上传图像.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id1101244278?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPic_me）
 * [JPEGmini](http://www.jpegmini.com/)  -在不影响画质的情况下将图像尺寸减小多达80％.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/jpegmini-lite/id525742250）！[免费软件] [免费软件图标]
-* [Mark Man](http://getmarkman.com/) -快速测量和规格.
+* [Mark Man](http://getmarkman.com/) - Measure & Spec Fast.
 * [Nucleo](https://nucleoapp.com/)  -图标经理. 导入，导出，自定义和转换图标库.
 * [Preset Brewery](https://www.presetbrewery.com) -将Lightroom预设转换为Adobe Camera Raw的工具.
 * [Resize Master](http://www.boltnev.com/resizemaster/)  -快速，轻松地批量调整图像大小并为图像加水印.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/resize-master/id1025306797）
@@ -478,7 +480,7 @@
 * [svgus](http://www.svgs.us/)  -组织，清理和转换您的SVG.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/svgsus/id1106867065）
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)  -压缩图像的开源工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/kyleduo/TinyPNG4Mac）
 * [Tropy](https://tropy.org/)  -研究照片管理.  [！[开源软件] [OSS图标]]（https://github.com/tropy/tropy）！[免费软件] [免费软件图标]
-* [PicGo](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
+* [PicGo](https://github.com/Molunerfinn/PicGo)  -支持常见的CDN映像托管工具.  [！[开源软件] [OSS图标]]（https://github.com/Molunerfinn/PicGo）
 * [Assetizr](https://assetizr.com)  -调整图像大小并针对Web和移动应用程序对其进行优化.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/de/app/assetizr/id1449126727?l=zh&amp;mt=12）
 * [AppIconBuilder](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12) -导出用于多平台的图标[！[App Store] [app-store Icon]]（https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12）
 * [uPic](https://github.com/gee1k/uPic)  -macOS本机应用程序，功能强大的简洁映像托管客户端.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/gee1k/uPic）
@@ -495,7 +497,7 @@
 * [Gitter](https://gitter.im)  -适用于开发人员和GitHub用户的即时消息传递和聊天室系统. 对Markdown语法的支持对开发人员友好.
 * [Keybase](https://keybase.io/)  -为所有人保护群组，文件和聊天！  [！[开源软件] [OSS图标]]（https://github.com/keybase）！[免费软件] [免费软件图标]
 * [Krisp](https://krisp.ai/) -由AI驱动的降噪应用程序，可在通话过程中使背景噪声静音.
-* [LimeChat](http://limechat.net/mac/) -Mac OS X的开源IRC客户端.[！[开源软件] [OSS图标]！[免费] [免费软件]]（https://github.com/psychs/limechat）
+* [LimeChat](http://limechat.net/mac/) -Mac OS X的开源IRC客户端.[！[开源软件] [OSS图标]！[免费软件] [免费软件]]（https://github.com/psychs/limechat）
 * [Messenger For Mac](https://fbmacmessenger.rsms.me/)  -适用于Mac的第三方Facebook Messenger.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/rsms/fb-mac-messenger）
 * [Muzzle](https://muzzleapp.com/) -一个简单的Mac应用程序，可在屏幕共享时使令人尴尬的通知静音.
 * [Rambox](http://rambox.pro/)  -消息和电子邮件应用程序，将常见的Web应用程序合并为一个.  [！[开源软件] [OSS图标]]（https://github.com/saenzramiro/rambox）！[免费软件] [免费软件图标]
@@ -515,7 +517,7 @@
 #### Email Clients
 
 * [Airmail](http://airmailapp.com)  -快速的电子邮件客户端. 对于Mac OS和iOS.
-* [Foxmail](http://www.foxmail.com/mac/en)  -快速的电子邮件客户端.  ！[免费软件] [免费软件图标]
+* [Foxmail](http://www.foxmail.com/mac/en) - Fast email client. ![Freeware][Freeware Icon]
 * [MailTags](https://smallcubed.com/mt/) -使用标签来组织电子邮件和计划.
 * [N1](https://www.nylas.com/)  -可扩展的开源邮件应用程序，对开发人员免费，对Pro免费，每月7美元.  ！[开源软件] [OSS图标]
 * [Nylas Mail](https://nylas.com/nylas-mail/)  -建立在现代网络上的可扩展桌面邮件应用程序.  [！[开源软件] [OSS图标]]（https://github.com/nylas/nylas-mail）！[免费软件] [免费软件图标]
@@ -548,8 +550,8 @@
 * [Carol](https://github.com/AnaghSharma/Carol)  -适用于macOS的最小和优美的歌词应用程序.  [！[开源软件] [OSS图标]]（https://github.com/AnaghSharma/Carol）！[免费软件] [免费软件图标]
 * [Cog](http://cogx.org/)  -免费的开源音频播放器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://bitbucket.org/mamburu/cog/）
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  -免费的跨平台视频编辑，颜色分级，视频效果和音频编辑软件.
-* [Elmedia Player](https://mac.eltima.com/media-player.html) -该媒体播放器是一款超级通用的应用程序，适用于您可能想到的任何文件格式：FLV，MP4，AVI，MOV，DAT，MKV，MP3，FLAC，M4V以及所有其他格式均受支持.
-* [Gifski](https://github.com/sindresorhus/gifski-app)  -将视频转换为高质量的GIF.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/no/app/gifski/id1351639930 ？mt = 12）
+* [Elmedia Player](https://mac.eltima.com/media-player.html) -该媒体播放器是一款超级通用的应用程序，适用于您可能会想到的任何文件格式：FLV，MP4，AVI，MOV，DAT，MKV，MP3，FLAC，M4V以及所有其他格式均受支持.
+* [Gifski](https://github.com/sindresorhus/gifski-app)  -将视频转换为高质量的GIF.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https://itunes.apple.com/no/app/gifski/id1351639930 ？mt = 12）
 * [HandBrake](https://handbrake.fr/)  -用于将视频从几乎任何格式转换为广泛支持的现代编解码器的工具.  [！[开源软件] [OSS图标]]（https://github.com/HandBrake/HandBrake）
 * [Hydrogen](http://hydrogen-music.org/)  -针对GNU / Linux的专业但简单直观的基于模式的鼓编程.  [！[开源软件] [OSS图标]]（https://github.com/hydrogen-music/hydrogen）
 * [iFFmpeg](http://www.iffmpeg.com/)  -适用于macOS的综合媒体工具. 使所有人都可以访问高质量的视频编码.
@@ -558,11 +560,11 @@
 * [LMMS](https://www.lmms.io)  LMMS以前是“ Linux MultiMedia Studio”，是一种功能强大的数字音频工作站，其设计类似于FL Studio（以前的Fruity Loops）.  [！[开源软件] [OSS图标]]（https://github.com/lmms/lmms）！[免费软件] [免费软件图标]
 * [LosslessCut](https://github.com/mifi/lossless-cut)  -跨平台工具，可使用ffmpeg快速无损地修整视频和音频.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mifi/lossless-cut）
 * [LyricsX](https://github.com/ddddxxx/LyricsX)  -iTunes，Spotify和Vox的歌词.  [！[开源软件] [OSS图标]]（https://github.com/ddddxxx/LyricsX）[！[App Store] [app-store图标]]（https://itunes.apple.com/我们/ app / lyricsx / id1254743014？mt = 12）！[免费软件] [免费软件图标]
-* [Metadatics](http://markvapps.com/metadatics)  -高级音频元数据编辑器.  [！[App Store] [app-Store图标]]（https://itunes.apple.com/us/app/tincta/id448340648）
+* [Metadatics](http://markvapps.com/metadatics) - Advanced Audio Metadata Editor. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/tincta/id448340648)
 * [Mixxx](http://mixxx.org/)  -最先进的免费DJ软件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mixxxdj/mixxx）
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/)  -电影电影和在线观看离线下载软件，借助百度云进行离线下载和在线播放.  [！[开源软件] [OSS图标]]（https://github.com/EvilCult/moviecatcher）
 * [mpv](https://www.mpv.io/)  -免费，开放源代码和跨平台的媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/mpv-player/mpv）！[免费软件] [免费软件图标]
-* [MuseScore](https://musescore.org/) - Free, open-source music notation software. [![Open-Source Software][OSS Icon]](https://github.com/musescore/MuseScore) ![Freeware][Freeware Icon]
+* [MuseScore](https://musescore.org/)  -免费的开源音乐注释软件.  [！[开源软件] [OSS图标]]（https://github.com/musescore/MuseScore）！[免费软件] [免费软件图标]
 * [Natron](https://natrongithub.github.io/)  -开源合成软件. 基于节点图. 在功能上类似于The Foundry的Adobe After Effects和Nuke.  [！[开源软件] [OSS图标]]（https://github.com/MrKepzie/Natron）
 * [Perian](http://perian.org/#download)  -（**不再积极开发**）~~让QuickTime播放所有免费插件的常见格式~~.  [！[开源软件] [OSS图标]]（https://github.com/MaddTheSane/perian）
 * [Playback](https://mafintosh.github.io/playback/)  -实验视频播放器.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/mafintosh/playback）
@@ -609,7 +611,7 @@
 
 ## Input Methods
 
-* [Kawa](https://github.com/utatti/kawa) -更好的OS X输入源切换器.[！[开源软件] [OSS图标]]（https://github.com/utatti/kawa）！[免费软件] [免费软件图标]
+* [Kawa](https://github.com/utatti/kawa) -更好的OS X输入源切换器.[！[开源软件] [OSS图标]]（https://github.com/utatti/kawa）！[免费软件] [免费软件]
 * [Rocket](http://matthewpalmer.net/rocket/)  -使用Slack样式的快捷方式可以更快，更轻松地输入表情符号.  ！[免费软件] [免费软件图标]
 * [Touch Emoji](https://github.com/lessmess-dev/touch-emoji)  -适用于MacBook Pro Touch Bar的表情符号选择器.  [！[开源软件] [OSS图标]]（https://github.com/lessmess-dev/touch-emoji）
 * [Type2Phone](https://www.houdah.com/type2Phone/)  -使用Mac作为iPhone，iPad和Apple TV的键盘.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/type2phone-bluetooth-keyboard/id472717129）
@@ -618,7 +620,7 @@
 
 * [Brave](https://brave.com/)  -注重隐私和速度的Web浏览器.  [！[开源软件] [OSS图标]]（https://github.com/brave/）！[免费软件] [免费软件图标]
 * [Chrome](https://www.google.com/chrome/) -Chrome，由Google开发！[免费软件] [免费软件图标]
-* [Chromium](https://www.chromium.org/Home)  -Google提供的免费开源网络浏览器项目，用于提供Google Chrome浏览器的源代码.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://chromium.googlesource.com/chromium/src/）
+* [Chromium](https://www.chromium.org/Home)  -Google提供的免费开源网络浏览器项目，用于提供Google Chrome的源代码.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://chromium.googlesource.com/chromium/src/）
 * [Microsoft Edge](https://www.microsoft.com/edge) — Microsoft Edge，基于Chromium，但由MS构建！[免费软件] [免费软件图标]
 * [Firefox](https://www.firefox.com/)  -认识Firefox Quantum. 由Mozilla Foundation开发的快速，免费的开源Web浏览器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://hg.mozilla.org/）
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
@@ -643,7 +645,7 @@
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) -简单的实用程序，它将扫描您的计算机以查找容易受到dylib劫持或被劫持的应用程序.
 * [KextViewer](https://objective-see.com/products/kextviewr.html) -查看OS内核中加载的所有模块.
 * [KnockKnock](https://objective-see.com/products/knockknock.html) -查看Mac上永久安装的内容.
-* [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]
+* [LinkLiar](http://halo.github.io/LinkLiar)  -适用于macOS的链接层MAC欺骗GUI.  [！[开源软件] [OSS图标]]（https://github.com/halo/LinkLiar）！[免费软件] [免费软件图标]
 * [LockDown](https://objective-see.com/products/lockdown.html)  -El Capitan的开源工具，用于审核和修复安全配置设置.  [！[开源软件] [OSS图标]]（https://bitbucket.org/objective-see/lockdown）！[免费软件] [免费软件图标]
 * [LuLu](https://objective-see.com/products/lulu.html)  -是免费的macOS防火墙，旨在阻止未经授权的（传出）网络流量.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/)  -Malwarebytes消除了Mac恶意软件不断增长的威胁，因此您受到了保护，计算机保持运行顺畅. 对于Mac而言，网络安全足够智能.  ！[免费软件] [免费软件图标]
@@ -662,7 +664,7 @@
 * [ShadowsocksX](http://shadowsocks.org/)  -安全的socks5代理，旨在保护您的互联网流量.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/shadowsocks/shadowsocks）
 * [Shimo](https://www.shimovpn.com/) -Mac的VPN客户端.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite)  -适用于macOS的基于规则的代理应用程序.  [！[开源软件] [OSS图标]]（https://github.com/shadowsocks）！[免费软件] [免费软件图标]
-* [Surge](https://nssurge.com/) -适用于iOS 9的Web开发人员工具和代理实用程序.[！[App Store] [app-store图标]]（https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637 ）
+* [Surge](https://nssurge.com/) -适用于iOS 9的Web开发人员工具和代理工具.[！[App Store] [app-store图标]]（https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637 ）
 * [tinc](https://www.tinc-vpn.org)  -安全的网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [Tunnelbear](https://www.tunnelbear.com)  -真正简单的VPN，可安全私密地浏览网页. 使用适用于Mac，PC，iOS，Android和Chrome的应用程序解除对世界各地网站的阻止.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) -OS X上用于OpenVPN的免费开源图形用户界面.！[免费软件] [免费软件图标]
@@ -679,7 +681,7 @@
 * [CopyQ](https://hluk.github.io/CopyQ)  -具有高级功能的剪贴板管理器.  [！[开源软件] [OSS图标]]（https://github.com/hluk/CopyQ）！[免费软件] [免费软件图标]
 * [iPaste](https://en.toolinbox.net/iPaste)  -轻巧高效的剪贴板工具.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_me）
 * [Paste](http://pasteapp.me)  -智能剪贴板历史记录和摘要管理器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235）
-* [PasteBot](https://tapbots.com/pastebot/)  -强大的剪贴板管理器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/pastebot/id1179623856）
+* [PasteBot](https://tapbots.com/pastebot/) - Powerful clipboard manager. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pastebot/id1179623856)
 * [Flycut](https://github.com/TermiT/Flycut)  -干净，简单的剪贴板管理器，适用于开发人员.  [！[开源软件] [OSS图标]]（https://github.com/TermiT/Flycut）！[免费软件] [免费软件图标]
 * [Maccy](https://maccy.app/)  -适用于macOS的轻量级剪贴板管理器.  [！[开源软件] [OSS图标]]（https://github.com/p0deje/Maccy）！[免费软件] [免费软件图标]
 
@@ -696,10 +698,11 @@
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384)  -具有多房间支持的菜单栏中的Philips Hue照明管理.  [！[App Store] [app-store Icon]]（https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384）！[免费软件] [免费软件图标]
 * [iGlance](https://github.com/Moneypulation/iGlance)  -状态栏的macOS系统监视器.  [！[开源软件] [OSS图标]]（https://github.com/Moneypulation/iGlance）[！[免费软件] [免费软件]]（https://github.com/Moneypulation/iGlance）
 * [Itsycal](https://www.mowglii.com/itsycal/)  -Mac菜单栏的小日历.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/sfsam/itsycal）
-* [MeetingBar](https://meetingbar.onrender.com) -您的日历会议的菜单栏应用[！[开源软件] [OSS图标]！[免费软件] [免费软件]]（https://github.com/leits/MeetingBar）
+* [MeetingBar](https://meetingbar.onrender.com) -日历会议的菜单栏应用程序[！[开源软件] [OSS图标]！[免费软件] [免费软件]]（https://github.com/leits/MeetingBar）
 * [Streaker](https://github.com/jamieweavis/streaker)  -GitHub贡献条纹跟踪菜单栏应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jamieweavis/streaker）
 * [Vanilla](http://vanilla.matthewpalmer.net)  -在Mac上隐藏菜单栏图标.  ！[免费软件] [免费软件图标]
 * [Jiffy](https://sindresorhus.com/jiffy)  -在GIPHY上发现并共享最好的GIF.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/id1502527999）
+* [Xbar](https://xbarapp.com/)  -将任何脚本或程序的输出放入macOS菜单栏（BitBar重新启动）.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/matryer/xbar）
 
 #### File Organization Tools
 
@@ -717,10 +720,10 @@
 * [AirServer](http://www.airserver.com/Download) -适用于Mac，PC和Xbox One的最先进的屏幕镜像软件接收器.
 * [ControlPlane](http://www.controlplaneapp.com/)  -管理Mac的配置配置文件. 根据许多可用的证据来源确定您的位置或所从事的工作，然后根据您的偏好自动重新配置Mac.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven)  -统一macOS DNS，以便使用glibc的应用程序可以使用本机堆栈解析DNS. 主要用于VPN.  [！[开源软件] [OSS图标]]（https://github.com/greenboxal/dns-heaven）！[免费软件] [免费软件图标]
-* [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
+* [HTTrack](http://www.httrack.com)  -用于下载整个网站和脱机浏览的有用工具.  ！[免费软件] [免费软件图标]
 * [Lungo](https://sindresorhus.com/lungo)  -防止Mac进入睡眠状态.  [！[App Store] [app-store Icon]]（https://apps.apple.com/us/app/lungo/id1263070803）
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) -适用于Mac的缓存清理器[！[开源软件] [OSS图标]]（https://github.com/kaunteya/MacCacheCleaner）！[免费软件] [免费软件]
-* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) -macOS的Google助手[！[开源软件] [OSS图标]]（https://github.com/vanshg/MacAssistant）！[免费软件] [免费软件]
+* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) -适用于macOS [！[开源软件] [OSS图标]]（https://github.com/vanshg/MacAssistant）的Google助手！[免费软件] [免费软件图标]
 * [Manta](https://getmanta.app/)  -带有精美和可自定义模板的灵活发票桌面应用程序.  [！[开源软件] [OSS图标]]（https://github.com/hql287/Manta）！[免费软件] [免费软件图标]
 * [Memo](http://memo-app.net/)  -简单而优雅的应用程序. 使用Touch ID更快地解锁备忘录.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id1212409035）
 * [Numi](http://numi.io/)  -适用于Mac的美丽计算器应用程序.  ！[免费软件] [免费软件图标]
@@ -747,7 +750,7 @@
 
 #### Productivity
 
-* [1440 Minutes Left Today](https://1440app.com/) - Keep a track of how many minutes you have left until the day is over, right in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819)
+* [1440 Minutes Left Today](https://1440app.com/)  -在选单列中，追踪到一天结束还剩多少分钟.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/us/app/1440/id1483764819）
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterTouchTool](https://boastr.net)  -强大的功能强大的应用程序，可让您为Magic Mouse，Macbook触控板，Magic Trackpad以及普通鼠标的鼠标手势配置许多手势.  ！[免费软件] [免费软件图标]
 * [Choosy](https://www.choosyosx.com) -UI，URL API和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
@@ -756,7 +759,7 @@
 * [HazeOver](https://hazeover.com) 该应用可使您的后台应用窗口变暗，这样您就可以将更多精力放在主要任务上！  [！[App Store] [app-store Icon]]（https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12）
 * [Hungrymark](https://zhengying.github.io/hungrymark) -有用的应用程序，可为您的文件，文件夹和网站添加书签，并通过菜单栏[！[App Store] [app-store Icon]]快速访问您的书签（https://apps.apple.com/us/app/hungrymark/ id1482778901？l = zh-TW＆mt = 12）
 * [iCMD](https://icmd.app) -模糊菜单栏搜索和vim / easymotion仿真，可在每个本机MacOS应用程序中全局使用.
-* [Karabiner](https://pqrs.org/osx/karabiner/) -OS X强大而稳定的键盘定制程序.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/tekezo/Karabiner）
+* [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/tekezo/Karabiner)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) -根据来自键盘，菜单，位置，添加的设备等的触发器自动执行常规操作.
 * [Keytty](http://keytty.com)  -保持双手在键盘上的应用程序. 轻击几下即可移动，单击，滚动，拖动等等.
 * [Lazy](https://www.lazy-app.com/) -键盘驱动命令可直接从Mac管理周围环境.
@@ -788,7 +791,7 @@
 * [Magnet](http://magnet.crowdcafe.com/)  -使您的工作空间井井有条的窗口管理器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/id441258766）
 * [Moom](http://manytricks.com/moom/) -允许您使用鼠标或键盘轻松地将窗口或窗口缩放或缩放到另一个显示器.
 * [Rectangle](https://rectangleapp.com)  -基于Swift编写的基于Spectacle的窗口管理应用程序.  [！[开源软件] [OSS图标]]（https://github.com/rxhanson/Rectangle）！[免费软件] [免费软件图标]
-* [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
+* [ShiftIt](https://github.com/fikovnik/ShiftIt)  -在OSX中管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) -强大的以键盘为中心的窗口管理.
 * [Slate](https://github.com/jigish/slate)  -类似于Divvy和SizeUp的窗口管理应用程序（更好和免费的除外！）.  （**需要配置文件**）[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jigish/slate）
 * [Total Spaces](http://totalspaces.binaryage.com/)  -提供类似于ubuntu的窗口管理. 为工作区创建热键，使您可以轻松移动.
@@ -819,14 +822,14 @@
 #### Quality of Life Improvements
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/)  -按住⌘键可获得当前应用程序所有活动快捷键的列表. 就这么简单.  ！[免费软件] [免费软件图标]
-* [f.lux](https://justgetflux.com/)  -使计算机显示屏的颜色适应一天中的时间.  ！[免费软件] [免费软件图标]
+* [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
 * [Grayscale Mode](https://grayscalemode.com/)  -开源macOS应用程序，可让您从菜单栏或使用键盘快捷键（⌥⌘G）快速切换灰度滤镜.  [！[开源软件] [OSS图标]]（https://github.com/rkbhochalya/grayscale-mode）！[免费软件] [免费软件图标]
-* [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
+* [KeyCastr](https://github.com/keycastr/keycastr)  -开源按键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [NightOwl](https://nightowl.kramser.xyz/)  -通过一天中的时间或使用菜单栏或键盘快捷键自动在macOS Mojave的浅色和深色主题之间切换.  ！[免费软件] [免费软件图标]
 * [One Switch](https://fireball.studio/oneswitch) -Mac菜单栏应用程序，可向Mac的菜单栏添加各种开关.
 * [Shifty](http://shifty.natethompson.io)  -一个macOS菜单栏应用程序，可让您更好地控制Night Shift.  [！[开源软件] [OSS图标]]（https://github.com/thompsonate/Shifty）
 * [Snap](http://indragie.com/snap)  -快速启动应用程序. 轻松快捷的管理.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id418073146）
-* [Shareful](https://sindresorhus.com/shareful)  -通过复制，保存和打开操作增强系统共享菜单.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/id1522267256）
+* [Shareful](https://sindresorhus.com/shareful)  -通过复制，保存和打开操作来增强系统共享菜单.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/id1522267256）
 
 #### System Related Tools
 
@@ -847,7 +850,7 @@
 * [Juice](https://github.com/brianmichel/Juice)  -使您的电池信息更有趣.  [！[开源软件] [OSS图标]]（https://github.com/brianmichel/Juice）！[免费软件] [免费软件图标]
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)  -替代咖啡因，在Mac中更好地支持黑暗模式.  [！[开源软件] [OSS图标]]（https://github.com/newmarcel/KeepingYouAwake）
 * [Monity](http://www.monityapp.com/) -OS X的系统监视小部件.
-* [Mounty](http://enjoygineering.com/mounty/)  -微型工具，以读写模式在Mac OS X 10.9+下重新安装受写保护的NTFS卷.  ！[免费软件] [免费软件图标]
+* [Mounty](http://enjoygineering.com/mounty/)  -微型工具，以读写模式在Mac OS X 10.9+下重新装入受写保护的NTFS卷.  ！[免费软件] [免费软件图标]
 * [NitroShare](https://nitroshare.net/)  -跨平台网络文件传输实用程序.  [！[开源软件] [OSS图标]]（https://github.com/nitroshare/nitroshare-desktop）！[免费软件] [免费软件图标]
 * [Noti](https://noti.center/)  -在Mac上（通过Pushbullet）接收Android通知.  [！[开源软件] [OSS图标]]（https://github.com/jariz/Noti）！[免费软件] [免费软件图标]
 * [OmniDiskSweeper](https://www.omnigroup.com/more)  -根据大小显示驱动器上的文件. 它可用于查找和删除未使用的文件.  ！[免费软件] [免费软件图标]
@@ -868,6 +871,7 @@
 ## Remote Login Software
 
 * [AnyDesk](https://anydesk.com) -提供跨多台计算机的远程访问.
+* [Microsoft Remote Deskto‪p](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)  -连接到管理员可以使用的远程PC或虚拟应用程序和桌面.  ！[免费软件] [免费软件图标]
 * [RealVNC](https://www.realvnc.com) -跨台式机和移动设备进行远程访问的最佳原始软件.
 * [TeamViewer](https://www.teamviewer.com/en)  -专有的计算机软件包，用于远程控制，桌面共享，在线会议，网络会议和计算机之间的文件传输.  ！[免费软件] [免费软件图标]
 
@@ -886,7 +890,7 @@
 
 ## Third Party App Markets
 
-如果您遇到提供盗版软件或破解软件的网站，请发布 [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17) . 我们喜欢应用，但只喜欢真实的应用.  :)
+If you come across websites offering pirated software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17) . 我们喜欢应用，但只喜欢真实的应用.  :)
 
 * [Setapp](https://setapp.com) -一套套件中适用于Mac的最佳应用程序.
 

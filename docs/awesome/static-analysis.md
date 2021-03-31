@@ -422,7 +422,7 @@
 - [churn-php](https://github.com/bmitch/churn-php) -帮助发现良好的重构候选人.
 - [dephpend](https://github.com/mihaeu/dephpend) -依赖性分析工具.
 - [deprecation-detector](https://github.com/sensiolabs-de/deprecation-detector) -查找不推荐使用的（Symfony）代码的用法.
-- [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依赖性的规则.
+- [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依存关系的规则.
 - [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) -检测PHP代码中的设计模式.
 - [EasyCodingSt和ard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-和-php-cs-fixer-in-3-lines) - 结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 - [GrumPHP](https://github.com/phpro/grumphp) -每次提交时检查代码.
@@ -530,7 +530,7 @@
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) -Ruby类交互式依赖图生成器.
 - [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) ：warning：-Ruby的静态代码分析.
 - [rubycritic](https://github.com/whitesmith/rubycritic) -Ruby代码质量报告程序.
-- [rufo](https://github.com/ruby-formatter/rufo) -一种自以为是的ruby格式化程序，旨在通过命令行作为文本编辑器插件使用，以便在保存或按需自动格式化文件时使用.
+- [rufo](https://github.com/ruby-formatter/rufo) -一个自以为是的ruby格式化程序，旨在通过命令行作为文本编辑器插件使用，以便在保存或按需自动格式化文件时使用.
 - [Saikuro](https://metricfu.github.io/Saikuro) ：warning：-一个Ruby循环复杂度分析器.
 - [SandiMeter](https://rubygems.org/gems/sandi_meter) ：warning：-用于检查Ruby代码中Sandi Metz规则的静态分析工具.
 - [Sorbet](https://sorbet.org) -专为Ruby设计的快速，强大的类型检查器.
@@ -541,7 +541,7 @@
 <h2 id="rust">锈</h2>
 
 - [C2Rust](https://c2rust.com)  -C2Rust可帮助您将符合C99的代码迁移到Rust. 编译器（或编译器）生成不安全的Rust代码，该代码紧密地镜像了输入的C代码.
-- [cargo udeps](https://github.com/est31/cargo-udeps)  -在Cargo.toml中找到未使用的依赖项. 它要么打印出列出该板条箱的“未使用的板条箱”行，要么打印出一条未使用任何板条箱的行.
+- [cargo udeps](https://github.com/est31/cargo-udeps)  -在Cargo.toml中找到未使用的依赖项. 它要么打印出列出未使用的板条箱的“未使用的板条箱”行，要么打印出一条未使用板条箱的行.
 - [cargo-audit](https://rustsec.org) -审核Cargo.lock，以将带有安全漏洞的板条箱报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
 - [cargo-deny](https://embarkstudios.github.io/cargo-deny)  -用于减少依赖关系的货运插件. 它也可以用作命令行，Rust板条箱或CI的Github操作. 它检查有效的许可证信息，重复的板条箱，安全漏洞等.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
@@ -596,7 +596,7 @@
 
 <h2 id="tcl">Tcl</h2>
 
-- [Frink](https://catless.ncl.ac.uk/Programs/Frink) -Tcl格式化和静态检查程序（可以美化该程序，将其最小化，混淆或仅对其进行完整性检查）.
+- [Frink](http://catless.ncl.ac.uk/Programs/Frink) -Tcl格式化和静态检查程序（可以美化该程序，将其最小化，混淆或仅对其进行完整性检查）.
 - [Nagelfar](https://sourceforge.net/projects/nagelfar) -Tcl的静态语法检查器.
 - [tclchecker](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) - A static syntax analysis module (as part of [TDK](https://github.com/ActiveState/tdk)).
 
@@ -662,7 +662,7 @@
 - [cqc](https://github.com/xcatliu/cqc) ：warning：-检查js，jsx，vue，css，less，scss，sass和styl文件的代码质量.
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner)  -用于ruby编写的Web应用程序的静态分析安全扫描程序. 它支持Sinatra，Padrino和Ruby on Rails框架.
 - [DeepCode](https://www.deepcode.ai)  ：copyright：-DeepCode基于AI查找错误，安全漏洞，性能和API问题.  DeepCode的分析速度使我们能够实时分析您的代码，并在您单击IDE中的“保存”按钮时提供结果. 支持的语言是Java，C / C ++，JavaScript，Python和TypeScript. 与GitHub，BitBucket和Gitlab的集成.
-- [DeepSource](https://deepsource.io)  ：copyright：-深入的静态分析，以发现错误风险，安全性，反模式，性能，文档和样式等垂直方面的问题. 与GitHub，GitLab和Bitbucket的本地集成. 小于5％的误报率.
+- [DeepSource](https://deepsource.io)  ：copyright：-深入的静态分析，以发现垂直于bug风险，安全性，反模式，性能，文档和样式的问题. 与GitHub，GitLab和Bitbucket的本地集成. 小于5％的误报率.
 - [Depends](https://github.com/multilang-depends/depends) -分析Java，C / C ++，Ruby的代码元素的全面依赖关系.
 - [DevSkim](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 - [Embold](https://embold.io) :copyright: - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
@@ -692,7 +692,7 @@
 - [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查.
 - [NodeJSScan](https://opensecurity.in) -NodeJsScan是用于Node.js应用程序的静态安全代码扫描程序.
 - [oclint](http://oclint.org) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷.
-- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互式地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析人员能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
+- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析人员能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
 - [pfff](https://github.com/facebookarchive/pfff/wiki/Main) -Facebook的工具，用于多种语言的代码分析，可视化或保留样式的源转换.
 - [PMD](https://pmd.github.io) -Java，Salesforce Apex，Javascript，PLSQL，XML，XSL等的源代码分析器.
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) -Web组件的静态分析框架.
@@ -772,7 +772,7 @@
 加载地址：binbloom可以解析原始二进制固件并确定其加载地址. 字节序：binbloom可以使用启发式方法来确定固件的字节序.  UDS数据库：binbloom可以解析原始二进制固件，并检查其是否包含包含UDS命令ID的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) ：copyright：-分析源代码和二进制文件以获取可重用代码，必要许可证和潜在安全方面的工具.
-- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface会向您显示二进制文件的大小配置文件，以便您了解正在占用内部空间的空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloaty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
+- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface会向您显示二进制文件的大小配置文件，以便您了解正在占用内部空间的空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloatty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 - [Ghidra](https://ghidra-sre.org) -国家安全局研究局开发的软件逆向工程（SRE）工具套件，用于支持网络安全使命
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) ：copyright：-二进制代码分析工具.
@@ -838,7 +838,7 @@
 - [collector](https://github.com/banyanops/collector) ：warning：-在容器内运行任意脚本，并收集有用的信息.
 - [dagda](https://github.com/eliasgranderubio/dagda) -对Docker映像/容器中的已知漏洞执行静态分析.
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) ：warning：-整理和验证Dockerfile标签.
-- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践的Docker映像.
+- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践Docker映像.
 - [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
 - [kube-score](https://kube-score.com) -Kubernetes对象定义的静态代码分析.
 - [KubeLinter](https://github.com/stackrox/kube-linter) -KubeLinter是一个静态分析工具，用于检查Kubernetes YAML文件和Helm图表，以确保其中表示的应用程序遵循最佳实践.

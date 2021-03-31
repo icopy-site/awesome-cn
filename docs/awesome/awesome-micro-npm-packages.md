@@ -60,6 +60,8 @@
 * [strip-ansi](https://github.com/chalk/strip-ansi) -去除ANSI转义码.
 * [striptags](https://github.com/ericnorris/striptags) -Node.js中PHP的strip_tags的实现.
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) -从字符串中解析下一个JSON值，允许在值之后添加多余的字符.
+* [pluralize](https://github.com/DaniAkash/pluralizer) -一个很小的库，可以将单词复数
+
 
 ### Date & Time
 

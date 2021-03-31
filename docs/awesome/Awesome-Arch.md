@@ -16,7 +16,7 @@
 
 &gt; Linux发行版受到Arch Linux的强烈启发.
 
-- [Arch Linux 32](https://www.archlinux32.org/) - The community maintained continuation of 32-bit support for Arch Linux.
+- [Arch Linux 32](https://www.archlinux32.org/) -社区维护了对Arch Linux的32位支持.
 - [Arch Linux ARM](https://archlinuxarm.org/) -用于ARM计算机的Linux发行版.
 
 ### Not Linux
@@ -47,7 +47,7 @@
 - [Ctlos Linux](https://ctlos.github.io/) -基于Arch Linux的发行版.
 - [MagpieOS](https://github.com/magpie-linux) -获得Arch的全新体验.
 - [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) -基于Manjaro / Arch Linux的发行版.
-- [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻便，便携式和灵活的Linux.
+- [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻巧，便携式和灵活的Linux.
 - [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) -基于Arch Linux的简单GNU / Linux发行版，可为您提供带有i3窗口管理器的稳定Arch Linux.
 - [Qubes OS (Archlinux Template)](https://www.qubes-os.org/doc/building-archlinux-template/) -专注于安全性的桌面操作系统，旨在通过隔离（非官方Archlinux模板）提供安全性.
 
@@ -61,7 +61,7 @@
 - [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) -_（Data Rescue）_-基于Arch Linux的发行版. 
 - [LinHES](http://www.linhes.org/) -_（MythTV）_-尝试使GNU / Linux和MythTV的安装尽可能简单.
 - [UBOS](https://ubos.net/) -_（服务器）_-一种Linux发行版，旨在极大地减少建立和维护通用网络服务所需的时间.
-- [TalkingArch](https://talkingarch.tk/) -_（辅助）_-Arch Linux实时ISO映像的重制版，已修改为包括针对盲人和视障用户的语音和盲文输出.
+- [TalkingArch](https://talkingarch.tk/) -_（辅助）_-Arch Linux实时ISO映像的重制，已修改为包括针对盲人和视障用户的语音和盲文输出.
 - [Archphile](https://archphile.org/) -_（Raspberry Pi / ARM / Audio）_-嵌入式板的另一种Linux音频发行版.
 - [BBQLinux](http://bbqlinux.org/) -_（Android开发人员）_-专为Android开发人员设计的用户友好型Linux发行版.
 它具有构建AOSP或基于AOSP的发行版（如LineageOS或OmniROM）所需的一切.
@@ -95,7 +95,7 @@
 
 ### Search and download
 
-- [Auracle](https://github.com/falconindy/auracle) （C ++）-用于Arch Linux用户存储库的灵活命令行客户端.
+- [Auracle](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
 - [pbget](https://xyne.archlinux.ca/projects/pbget/) （Python）-从Git，ABS和AUR中检索PKGBUILD和本地源文件，以获取makepkg.
 - [repoctl](https://github.com/cassava/repoctl) （开始）-轻松管理本地Arch Linux存储库.
 - [yaah](https://projects.metalgamer.eu/yaah) （重击）-Archlinux用户存储库（AUR）的帮助程序.
@@ -138,6 +138,7 @@
 
 ### Other
 
+- [arch-audit](https://gitlab.com/ilpianista/arch-audit) -基于Arch安全团队数据的pkg-audit之类的实用程序.
 - [aur-talk](https://github.com/GermainZ/aur-talk) -提取和显示AUR软件包注释的脚本.
 - [aurvote-utils](https://github.com/jadenPete/aurvote-utils) -一组用于管理AUR投票的实用程序.
 - [haskell-aur](https://hackage.haskell.org/package/aur) -用于访问Aurweb RPC接口的Haskell库.

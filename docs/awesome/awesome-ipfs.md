@@ -8,7 +8,7 @@
 
 &gt;有用的资源 [IPFS](https://ipfs.io) 并在其之上构建事物
 
- _此列表适用于项目，工具或几乎与IPFS相关的所有事物，它们都很棒**. 这是针对已经很棒的产品的-如果您计划使用IPFS做一些很酷的事情，则应该构建它，然后在此处链接它. 如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [our IPFS Discuss Forums](https://discuss.ipfs.io)._
+ _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**. 这是针对已经很棒的产品的-如果您计划使用IPFS做一些很酷的事情，则应该构建它，然后在此处链接它. 如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
 
 
@@ -172,17 +172,19 @@
 - [DWS](https://dws.datochain.com/) -使用DWS部署现代静态网站，并在IPFS上享受安全且分散的存储.
 - [Eternum](https://www.eternum.io/) -使用易于使用的API的付费固定服务.
 - [Fission](https://fission.codes) -由IPFS支持的应用程序和网站托管，包括DNS自动化，身份和端到端加密.
+- [Fleek](http://fleek.co/) -开放的Web开发平台，用于在IPFS，Filecoin和Internet计算机上构建，托管和存储站点和应用程序. [Source](https://github.com/FleekHQ)
 - [Monaparty](https://www.monaparty.me/)  -基于Monacoin和Counterparty的代币资产平台. 绑定到用户资产的内容由IPFS托管.
 - [Peergos](https://peergos.org)  -您的私人社交空间. 存储和编辑文档和媒体. 与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) -通过Pinata的REST API和IPFS工具包构建和管理您的dapp.
 - [Robonomics Network](https://robonomics.network/) -以太坊网络基础设施，用于将网络物理系统集成到智能城市和工业4.0中
 - [Sharp Photos](https://www.sharpphotos.io/) -私有的端到端加密云照片存储.
+- [Space](https://space.storage/) -IPFS和Textile上的用户拥有的，加密的和开放源代码的个人文件存储和共享，以及Filecoin中的分散备份. [Source](https://github.com/FleekHQ/space-web)
 - [Temporal](https://temporal.cloud) -可扩展的IPFS基础结构，具有免费的入门包，具有交钥匙API，工具包和存储.
 - [Unstoppable Domains](https://unstoppabledomains.com) -区块链上的域名
 
 ## Tools
 
-- [Almonit Browser Extension](https://almonit.com/#/extension/) -解决了ENS域，这使用户可以访问.eth网站，同时提供最大程度的分散性. [Source](https://github.com/almonit/almonit-plugin)
+- [Almonit Browser Extension](https://almonit.com/#/extension/) -解析ENS域，这使用户可以在访问.eth网站的同时最大程度地分散权力. [Source](https://github.com/almonit/almonit-plugin)
 - [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监视以太坊区块链的当前区块号，并设置警报（通过特定的区块高度）（使用浏览器中的PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) -捐赠ipfs网关以缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -Dillo Web浏览器的IPFS集成.
@@ -226,7 +228,7 @@
 - [pinbot](https://github.com/whyrusleeping/pinbot) -通过IRC的引脚内容
 - [Public gateway status checker](https://ipfs.fooock.com/) -Web应用程序，用于检查IPFS网关的公共状态，包括等待时间和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) -ShareX是文件上传和处理工具，具有与IPFS的自定义集成
-- [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
+- [Siderus Orion](https://orion.siderus.io) -易于使用的适用于macOS，Windows和Linux的IPFS桌面客户端 [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) -适用于Android的完整节点
 - [Tellit](https://gitlab.com/terceranexus6/tellit) -在使用密钥对或密码上传文件之前，先对其进行加密
 - [wbipfs](https://github.com/wabarc/wbipfs) -命令行工具和Go软件包界面，用于将网页回溯到IPFS.
