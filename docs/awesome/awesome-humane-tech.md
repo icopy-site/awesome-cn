@@ -32,7 +32,7 @@
 
 ## Humane design
 
-人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分. [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
+人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
 
 - [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
 - [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
@@ -99,6 +99,7 @@
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) -适用于Android的基于HTTPS和Tor的DNS，DNSCrypt客户端，防火墙和连接跟踪器.
 - [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) -Databunker是基于网络的，自托管的，符合GDPR要求的，用于个人数据的安全存储.
+- [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) -旨在阻止未知传出连接的防火墙，以保护您的隐私和Mac.
 
 ## Tracking
 
@@ -111,7 +112,7 @@
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) -将Facebook活动与网络活动的其余部分隔离开，以防止跟踪.
 - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) -将您的Google活动与其他网络活动隔离开，以防止跟踪.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) -浏览器扩展程序，可从URL查询字符串中剥离Google Analytics（分析）（UTM）令牌.
-- [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) -阻止超声波跟踪应用程序的音频防火墙.
+- [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
 - [Blokada](https://blokada.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/blokadaorg/blokada) -适用于Android的紧凑，快速的广告拦截器，适用于所有应用，无需root用户.
 - [Better](https://better.fyi/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) -适用于iPhone，iPad和Mac上Safari浏览器的隐私工具，可阻止行为广告和跟踪器.
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) -创建具有良好默认设置的Firefox配置文件的工具.
@@ -153,7 +154,7 @@
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) -免费的实时日志文件分析器，以获取高级统计信息.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  -公平的网络分析. 在您的用户完全控制其数据时获得见解.
 - [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) -使用Crystal制作的注重隐私的网站分析-托管在欧盟.
-- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此对隐私友好.
+- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此具有隐私友好性.
 
 ## Blocklists
 
@@ -255,7 +256,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) -更改您的在线习惯，设定目标，尝试干预措施，查看进度.
 - [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -Redshift会根据周围环境调整屏幕的色温.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -Safe Eyes是Linux用户用来减少和预防重复性拉伤（RSI）的工具.
-- [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) -加强记忆力丧失者与亲近者之间关系的应用程序.
+- [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) - App to strengthen relationship between people with memory loss and people close to them.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) -用于创建和维护良好习惯的Android应用.
 - [If me](https://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) -精神健康体验社区，鼓励人们与亲人分享他们的故事.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，提醒您在使用计算机时要休息一下.
@@ -264,9 +265,9 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Workrave](https://workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) -协助恢复和预防重复性劳损（RSI）的计划.
 - [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rkbhochalya/grayscale-mode) -一个macOS菜单栏应用程序，可让您更好地控制灰度模式.
 - [FitoTrack <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/jannis/FitoTrack) -面向隐私的Android健身追踪器，用于记录和查看您的锻炼情况.
-- [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
+- [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OpenTracksApp/OpenTracks) -完全尊重您的隐私的运动跟踪应用程序.
 - [Winddown](https://github.com/schneefux/vscode-winddown)  -编写代码并保持健康. 鼓励您休息的VS Code扩展.
-- [dijo](https://github.com/NerdyPepper/dijo) -在您的终端上运行的可编写脚本的习惯跟踪器.
+- [dijo](https://github.com/NerdyPepper/dijo) -在终端中运行的可编写脚本的习惯跟踪器.
 - [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/goldencheetah/goldencheetah) -面向骑自行车者，跑步者和铁人三项运动员的性能软件，可从许多设备上读取信息.
 - [gammastep](https://gitlab.com/chinstrap/gammastep) -Linux工具，可根据环境调整屏幕的色温.
 
@@ -338,7 +339,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 ## Related awesomeness
 
-- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - Locally hosting and managing applications instead of renting from SaaS providers.
+- [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) -在本地托管和管理应用程序，而不是从SaaS提供商那里租用.
 - [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) -精选的分散式，P2P以及分布式平台和应用程序列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) -精选的对等资源列表.
 - [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) -精选的用于行动主义的出色数字工具.

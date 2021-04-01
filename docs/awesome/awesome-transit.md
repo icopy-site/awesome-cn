@@ -19,7 +19,7 @@
 - [OpenMobilityData](https://openmobilitydata.org/)  （以前的TransitFeeds）-来自世界各地的GTFS / GTFS实时数据Feed列表. 如果您想获取某个代理商的实时数据，这是一个很好的起点.
 - [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) -免费的，在线的，自定进度的课程，用于学习GTFS和实时GTFS.
 - [Open Transit Data Toolkit](http://transitdatatoolkit.com/) -一系列帮助人们利用开放式公交数据的课程.
-- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb)  -MBTA为GTFS static创建的交互式教程. 一个 [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) 可在GitHub以及 [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
+- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb)  -MBTA为GTFS static创建的交互式教程. 一个 [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) 可在GitHub以及 [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) Jupyter笔记本.
 
 
 ### Community
@@ -216,7 +216,7 @@
 - [GTFSTK](https://github.com/araichev/gtfstk)  -一个Python 3工具包，用于分析内存中的GTFS数据. 使用Pandas和Shapely来提高速度. 被取代 [GTFS Kit](https://github.com/mrcagney/gtfs_kit).
 - [Make GTFS](https://github.com/mrcagney/make_gtfs) -一个Python库，用于根据基本路线信息制作GTFS供稿.
 - [Mapzen GTFS](https://github.com/transitland/mapzen-gtfs) -一个Python GTFS库，它支持读取单个GTFS表或构造一个图表来表示Feed中的每个代理商.
-- [multigtfs](https://github.com/tulsawebdevs/django-multi-gtfs) -导入和导出GTFS的Django应用程序.
+- [multigtfs](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
 - [partridge](https://github.com/remix/partridge) -基于pandas DataFrames的快速，宽容的Python GTFS阅读器.
 
 #### R
@@ -283,6 +283,7 @@
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - 一个 [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 通过完成验证 [Good Tables](http://goodtables.okfnlabs.org/) . 包括数据包，模式，测试，并以东南昆士兰州GTFS数据为例.
 - [Web GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) -基于网络的GTFS验证器，可同时运行 [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的GTFS文件上.
 - [gtfs-validator](https://github.com/MobilityData/gtfs-validator) -以Java实作的开放原始码GTFS验证器，由Apache v2.0授权，并由 [MobilityData](https://mobilitydata.org/).
+- [gtfs-validator-api](https://github.com/cal-itp/gtfs-validator-api) -该python软件包是MobilityData / gtfs-validator的一个瘦包装，该包装处理生成的中间文件并查找gtfs-validator的输出文件，因此可以为其指定特定名称或以字符串形式返回.
 - [GTFSVTOR](https://github.com/mecatran/gtfsvtor) -以Java实作的开放原始码GTFS验证器，并由GPLv3授权 [Mecatran](https://www.mecatran.com/).
 - [Transport Validator](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/) . 由 [French National Access Point](https://transport.data.gouv.fr/validation/).
 
@@ -371,7 +372,7 @@
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) -（正在开发中-请参见 [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)）个人乘客*轨迹*的数据.
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) -GTFS传输网络的扩展，其中包含包含UrbanLabs LLC和San Francisco County Transportation Authority开发的性能数据的其他文件.
 - [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) -公交ITS数据交换规范（TIDES）是一项提议的工作，旨在为历史公交ITS数据（包括AVL，APC和AFC数据）创建标准数据结构，API和数据管理工具.
-- [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) -似乎正在为汽车共享和运输网络公司（TNC）/乘车共享制定数据标准.
+- [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 - [City of Los Angeles Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification)  -一种格式，用于为服务提供商和市政当局以及移动性实施实时数据共享，测量和监管. 旨在确保政府具有执行，评估和管理提供者的能力.
 - [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) -由 [International Parking Institute (IPI)](https://www.parking.org/)， 这 [British Parking Association (BPA)](http://www.britishparking.co.uk/)和 [European Parking Association (EPA)](http://www.europeanparking.eu/) ，APDS是一个非营利性组织，其使命是开发，促进，管理和维护统一的全球标准，该标准将使组织能够在全球各个平台之间共享停车数据.  APDS版本1.0文档是 [here](https://www.allianceforparkingdatastandards.org/resources).
 - [Mobility as a Service API](http://maas-api.org/) -一组定义了MaaS兼容API的开放文档和测试套件（例如， [MaaS Transport Service Provider Booking API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
@@ -392,7 +393,7 @@
 
 - [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) -免费的，在线的，自定进度的课程，用于学习GTFS和实时GTFS.
 - [Open Transit Data Toolkit](http://transitdatatoolkit.com/) -一系列帮助人们利用开放式公交数据的课程.
-- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb)  -MBTA为GTFS static创建的交互式教程. 一个 [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) 可在GitHub以及 [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
+- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb)  -MBTA为GTFS static创建的交互式教程. 一个 [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) 可在GitHub以及 [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) Jupyter笔记本.
 - [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) -有关如何设置自己的基于Web的地图绘制应用程序的视频教程，无需任何编码经验. 
 
 #### Blog posts
@@ -426,7 +427,7 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) have waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) 放弃了此作品的所有版权以及相关或邻近的权利.
 
 ## About
 

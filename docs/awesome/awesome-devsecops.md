@@ -34,19 +34,19 @@
 
 ### Podcasts
 
-- [Absolute AppSec](https://absoluteappsec.com/) -_Seth Law和Ken Johnson_-讨论当前事件以及与应用程序安全性相关的特定主题.
-- [Application Security Podcast](https://podcast.securityjourney.com/) -_安全之旅_-就特定的应用程序安全性概念采访行业专家.
+- [Absolute AppSec](https://absoluteappsec.com/) -_Seth Law＆Ken Johnson_-有关当前事件和与应用程序安全性相关的特定主题的讨论.
+- [Application Security Podcast](https://podcast.securityjourney.com/) -_安全之旅_-与行业专家就特定的应用程序安全性概念进行访谈.
 - [BeerSecOps](https://blog.aquasec.com/devsecops-podcasts) -_Aqua Security_-打破了开发，安全和运营的孤岛，讨论了涵盖这些主题领域的主题.
-- [DevSecOps Podcast Series](https://soundcloud.com/owasp-podcast) -_OWASP_-与思想领袖和实践者进行讨论，以将安全性集成到开发生命周期中.
+- [DevSecOps Podcast Series](https://soundcloud.com/owasp-podcast) -_OWASP_-与思想领袖和实践者进行的讨论，旨在将安全性集成到开发生命周期中.
 - [The Secure Developer](https://www.mydevsecops.io/the-secure-developer-podcast) -_Snyk_-有关软件开发人员的安全工具和最佳做法的讨论.
 
 ### Secure Development Guidelines
 
-- [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) -_OWASP_-安全要求和控件的框架，以帮助开发人员设计和开发安全的Web应用程序.
+- [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) -_OWASP_-安全要求和控件的框架，可帮助开发人员设计和开发安全的Web应用程序.
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) -_CERT_-用于C，C ++，Java和Android开发的安全开发标准的集合.
-- [Proactive Controls](https://owasp.org/www-project-proactive-controls/) -_OWASP_-OWASP列出了在每个软件开发项目中应实施的十大控件.
+- [Proactive Controls](https://owasp.org/www-project-proactive-controls/) -_OWASP_-OWASP列出应在每个软件开发项目中实施的十大控件.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) -_Mozilla_-包含用于安全Web应用程序开发的特定安全开发标准的指南.
-- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) -_OWASP_-核对清单，以验证是否遵循安全开发标准.
+- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) -_OWASP_-核对清单，以验证是否遵循了安全的开发标准.
 
 ### Secure Development Lifecycle Framework
 
@@ -68,7 +68,7 @@
 - [Secure Code Warrior](https://www.securecodewarrior.com/) -_安全代码战士_-游戏化和动手的安全开发培训，并支持课程，评估和锦标赛.
 - [SecureFlag](https://www.secureflag.com/platform.html) -_OWASP_-针对开发人员和构建/发布工程师的动手安全编码培训.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为软件工程师提供安全培训.
-- [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为员工提供安全培训.
+- [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) -_Pager Duty_-由PagerDuty创建并开源的演示文稿，用于为员工提供安全培训.
 - [Web Security Academy](https://portswigger.net/web-security) -_PortSwigger_-用于学习和利用常见Web漏洞的一组材料和实验室.
 
 ### Wikis
@@ -79,30 +79,30 @@
 
 ### Dependency Management
 
-开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带了开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的软件包来帮助管理开源软件包中的漏洞.
+开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带了开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的程序包来帮助管理开源程序包中的漏洞.
 
-- [Dependabot](https://dependabot.com/) -_GitHub_-自动扫描GitHub存储库中的漏洞，并创建合并请求中的合并请求.
+- [Dependabot](https://dependabot.com/) -_GitHub_-自动扫描GitHub信息库中的漏洞，并创建合并请求中的合并请求.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
-- [Dependency-Track](https://dependencytrack.org/) -_OWASP_-随时间监视多个项目中易受攻击的依赖项的数量和严重性.
+- [Dependency-Track](https://dependencytrack.org/) -_OWASP_-随着时间的推移，监视多个项目中易受依赖项的数量和严重性.
 - [JFrog XRay](https://jfrog.com/xray/) -_JFrog_-对JFrog Artifactory中存储的工件的安全性和合规性分析.
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) -_WhiteSource_-使用CLI或git仓库应用程序自动监视和更新多种框架和语言的软件依赖关系.
-- [Requires.io](https://requires.io/) -_Olivier Mansion和Alexis Tabary_-针对Python项目的自动化漏洞依赖项监视和升级.
+- [Requires.io](https://requires.io/) -_Olivier Mansion和Alexis Tabary_-针对Python项目的自动化易受漏洞依赖项监视和升级.
 - [Snyk Open Source](https://snyk.io/) -_Snyk_-使用Snyk的专用漏洞数据库自动进行漏洞依赖项监视和升级.
 
 ### Dynamic Analysis
 
-动态分析安全测试（DAST）是黑盒安全测试的一种形式，其中安全扫描程序与正在运行的应用程序实例进行交互，以模拟恶意活动以查找常见漏洞.  DAST工具通常用于渗透测试的初始阶段，并且可以发现漏洞，例如跨站点脚本，SQL注入，跨站点请求伪造和信息泄露.
+动态分析安全测试（DAST）是黑盒安全测试的一种形式，其中安全扫描程序与正在运行的应用程序实例进行交互，以模拟恶意活动以查找常见漏洞.  DAST工具通常用于渗透测试的初始阶段，并且可以发现诸如跨站点脚本，SQL注入，跨站点请求伪造和信息泄露之类的漏洞.
 
-- [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全扫描.
+- [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全性扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) -_PortSwigger_-BurpSuite的Web应用程序漏洞扫描程序已由渗透测试人员广泛使用，并通过CI / CD集成进行了修改，并可以持续监控多个Web应用程序.
-- [Gauntlt](https://github.com/gauntlt/gauntlt) -_Gauntlt_-一个行为驱动的开发框架，可以使用通用安全工具运行安全扫描，并使用Gherkin语法定义测试输出.
+- [Gauntlt](https://github.com/gauntlt/gauntlt) -_Gauntlt_-一个行为驱动的开发框架，可以使用通用安全工具运行测试扫描，并使用Gherkin语法定义测试输出.
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) -_SSL Labs_-自动扫描SSL / TLS配置问题.
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) -_OWASP_-开源Web应用程序漏洞扫描程序，包括用于CI / CD集成的API.
 
 ### Infrastructure as Code Analysis
 
-基础架构即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础架构得到持续加固，而且还提供了机会来静态和动态地分析基础架构定义，以查找易受攻击的依赖项，硬编码的机密，不安全的配置以及安全配置中的意外更改. 以下工具有助于进行此分析.
+基础架构即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础结构得到持续加固，而且还提供了机会来静态和动态地分析基础结构定义，以查找易受攻击的依赖项，硬编码的机密，不安全的配置以及安全配置中的意外更改. 以下工具有助于进行此分析.
 
 <!-- omit in toc -->
 #### Cloud Formation
@@ -111,17 +111,18 @@
 
 <!-- omit in toc -->
 #### Containers
-- [Anchore Engine](https://anchore.com/opensource/)  -_Anchore，Inc_-对CVE的Docker映像进行深度检查，并检查自定义策略. 他们的企业产品背后的引擎，这些产品与注册表，协调器和CI / CD产品集成在一起.
-- [Clair](https://github.com/quay/clair) -_Quay_-扫描App容器和Docker容器以查看公开的漏洞.
+- [Anchore Engine](https://anchore.com/opensource/)  -_Anchore，Inc_-对CVE的Docker映像进行深度检查并根据自定义策略进行检查. 他们的企业产品背后的引擎，这些产品与注册表，协调器和CI / CD产品集成在一起.
+- [Clair](https://github.com/quay/clair) -_Quay_-扫描App容器和Docker容器以查看公开泄漏的漏洞.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) -_ElíasGrande_-将Docker容器中安装的OS和软件依赖版本与公共漏洞数据库进行比较，并执行病毒扫描.
 - [Hadolint](https://github.com/hadolint/hadolint) -_Hadolint_-根据已知规则检查Dockerfile并验证RUN语句中的内联bash代码.
-- [Snyk Container](https://snyk.io/product/container-vulnerability-management/) -_Snyk_-在CI / CD期间或通过连续监视扫描Docker和Kubernetes应用程序的安全漏洞.
-- [Trivy](https://github.com/aquasecurity/trivy) -_Aqua Security_-容器的简单而全面的漏洞扫描程序.
+- [Snyk Container](https://snyk.io/product/container-vulnerability-management/) -_Snyk_-在CI / CD期间或通过连续监视扫描Docker和Kubernetes应用程序以查找安全漏洞.
+- [Trivy](https://github.com/aquasecurity/trivy) -_Aqua Security_-用于容器的简单而全面的漏洞扫描程序.
 
 <!-- omit in toc -->
 #### Terraform
 - [Checkov](https://github.com/bridgecrewio/checkov) -_Bridgecrew_-扫描Terraform，AWS CloudFormation和Kubernetes模板以获取不安全的配置.
-- [Regula](https://github.com/fugue/regula) -_Fugue_-在部署之前评估Terraform基础架构代码是否存在潜在的安全性错误配置和合规性违规.
+- [Regula](https://github.com/fugue/regula) -_Fugue_-在部署之前，评估Terraform基础架构代码是否存在潜在的安全错误配置和合规性违规.
+- [Terraform Compliance](https://terraform-compliance.com/) -_terraform-compliance_-针对terraform的轻量级，安全性和合规性测试框架，可为您的基础结构代码启用否定测试功能.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) -_Cesar Rodriguez_-扫描Terraform模板以获得最佳实践安全配置.
 - [Tfsec](https://github.com/liamg/tfsec) -_Liam Galvin_-扫描Terraform模板以了解安全性配置错误以及是否违反AWS，Azure和GCP安全性最佳做法.
 
@@ -133,10 +134,10 @@
 
 ### Intentionally Vulnerable Applications
 
-当开发安全测试和工具以提供可以运行测试并确保它们正确失败的位置时，容易受到攻击的应用程序通常很有用. 这些应用程序对于了解如何将常见漏洞引入应用程序并让您练习利用这些漏洞的技能也很有用.
+在开发安全性测试和工具以提供一个地方可以运行测试并确保它们正确失败时，容易受到攻击的应用程序通常很有用. 这些应用程序对于了解如何将常见漏洞引入应用程序并让您练习利用这些漏洞的技能也很有用.
 
-- [Bad SSL](https://github.com/chromium/badssl.com)  -_The Chromium Project_-一个容器，运行许多SSL / TLS配置不佳的Web服务器. 对于测试工具很有用.
-- [Cfngoat](https://github.com/bridgecrewio/cfngoat)  -_Bridgecrew_-云形成模板，用于在AWS中创建故意不安全的服务堆栈. 非常适合作为上述代码分析工具来测试云形成基础架构.
+- [Bad SSL](https://github.com/chromium/badssl.com)  -_The Chromium Project_-一个运行许多Web服务器的容器，这些Web服务器的SSL / TLS配置不佳. 对于测试工具很有用.
+- [Cfngoat](https://github.com/bridgecrewio/cfngoat)  -_Bridgecrew_-云形成模板，用于在AWS中创建故意不安全的服务堆栈. 作为上面的代码分析工具，测试Cloud Forming Infrastructure的理想选择.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) -_Ryan Dewhurst_-一个Web应用程序，它提供了一个安全的环境来理解和利用常见的Web漏洞.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) -_OWASP_-包含OWASP十大安全漏洞及更多内容的Web应用程序.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) -_OWASP_-一个Node.js Web应用程序，用于演示并提供解决常见安全漏洞的方法.
@@ -144,13 +145,13 @@
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
-仅在发布之前测试和加强我们的软件是不够的. 我们还必须监视生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全缺陷. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
+仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全漏洞. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
 
 - [Csper](https://csper.io/report-uri) -_Csper_-一组内容安全策略工具，可以测试策略，监视CSP报告以及提供指标和警报.
 
 ### Secrets Management
 
-我们编写的软件需要使用机密信息（密码，API密钥，证书，数据库连接字符串）来访问资源，但是我们无法在代码库中存储机密信息，因为这会使他们容易受到攻击. 机密管理工具提供了一种安全存储，访问和管理机密的方法.
+我们编写的软件需要使用机密信息（密码，API密钥，证书，数据库连接字符串）来访问资源，但是我们无法在代码库中存储机密信息，因为这会使他们容易受到攻击. 机密管理工具提供了一种安全地存储，访问和管理机密的方法.
 
 - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) -_Ansible_-将机密安全存储在Ansible管道中.
 - [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) -_Amazon AWS_-在AWS中安全存储机密.
@@ -158,18 +159,18 @@
 - [BlackBox](https://github.com/StackExchange/blackbox) -_StackExchange_-加密代码存储库中的凭据.
 - [Chef Vault](https://github.com/chef/chef-vault) -_厨师_-在厨师内部安全存储机密.
 - [CredStash](https://github.com/fugue/credstash) -_Fugue_-使用KMS和DynamoDB在AWS中安全存储机密.
-- [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) -_Cyber​​Ark_-应用程序的机密管理，包括机密轮换和审核.
+- [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) -_Cyber​​Ark_-应用程序的秘密管理，包括秘密轮换和审核.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) -_Docker_-存储和管理对Docker群中机密的访问.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -_Amazon AWS_-扫描git存储库，以查找代码内或提交消息中提交的机密.
 - [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
-- [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) -_Google云平台_-在GCP中安全存储机密.
+- [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) -_Google Cloud Platform_-在GCP中安全存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) -_HashiCorp_-通过UI，CLI或HTTP API安全存储机密.
 - [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核秘密.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) -_Mozilla_-加密存储在YAML，JSON，ENV，INI和BINARY文件中的密钥.
 
 ### Static Analysis
 
-静态分析安全测试（SAST）工具扫描软件中的漏洞，而无需执行目标软件. 通常，静态分析将扫描源代码以查找安全缺陷，例如使用不安全的功能，硬编码的机密和配置问题.  SAST工具通常以IDE插件和CLI的形式出现，可以集成到CI / CD管道中.
+静态分析安全测试（SAST）工具可扫描软件中的漏洞，而无需执行目标软件. 通常，静态分析将扫描源代码以查找安全缺陷，例如使用不安全的功能，硬编码的机密和配置问题.  SAST工具通常以IDE插件和CLI的形式出现，可以集成到CI / CD管道中.
 
 <!-- omit in toc -->
 #### Multi-Language Support
@@ -179,7 +180,7 @@
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) -_Hawkeyesec_-用于项目安全性，漏洞和一般风险突出显示的模块化CLI工具.
 - [LGTM](https://lgtm.com/) -_Semmle_-使用自定义或内置CodeQL查询来扫描和监视代码中的安全漏洞.
 - [RIPS](https://www.ripstech.com/) -_RIPS Technologies_-针对PHP，Java和Node.js项目的自动化静态分析.
-- [SonarLint](https://www.sonarlint.org/) -_SonarSource_-一个IDE插件，突出显示潜在的安全性安全问题，代码质量问题和错误. 
+- [SonarLint](https://www.sonarlint.org/) -_SonarSource_-一个IDE插件，突出显示了潜在的安全性安全问题，代码质量问题和错误. 
 - [SonarQube](https://www.sonarqube.org/) -_SonarSource_-扫描代码以发现安全性和质量问题，并支持多种语言.
 
 <!-- omit in toc -->
@@ -238,7 +239,7 @@
 
 ### Threat Modelling
 
-威胁建模是一项工程实践，旨在识别威胁，漏洞和攻击媒介，这些威胁，脆弱性和攻击媒介构成了有价证券的风险. 基于对威胁的了解，我们可以设计，实施和验证安全控制措施以缓解威胁. 以下工具列表可帮助进行威胁建模.
+威胁建模是一项工程实践，旨在识别威胁，漏洞和攻击媒介，这些威胁，脆弱性和攻击媒介构成了有价证券的风险. 基于对威胁的了解，我们可以设计，实施和验证安全控制措施以缓解威胁. 以下工具列表可协助进行威胁建模.
 
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) -_Practical DevSecOps_-威胁建模资源的精选列表.
 - [SecuriCAD](https://www.foreseeti.com/) -_Forseeti_-处理IT基础架构的建模和攻击模拟.

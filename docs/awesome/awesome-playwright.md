@@ -13,7 +13,7 @@
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) -用于运行Playwright的玩笑适配器.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) -增强了Node.js的End 2 End测试框架.
 - [QA Wolf](https://github.com/qawolf/qawolf) -创建浏览器测试的速度提高了10倍.
-- [playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda) -支持在AWS Lambda和Google Cloud Functions上运行Microsoft的Playwright.
+- [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) -支持在AWS Lambda和Google Cloud Functions上运行Microsoft的Playwright.
 - [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) -Playwright的浏览器版本可在Amazon Linux 2上运行.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) -GitHub动作，用于安装所有必需的依赖项.
 - [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) -Pytest插件，用于将Playwright页面与固定装置一起使用.

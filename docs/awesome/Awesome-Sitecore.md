@@ -120,7 +120,7 @@
 
 ## Deployment
 
-- [PostDeploySteps](https://github.com/jst-cyr/NonlinearPostDeploySteps)  -发布部署步骤以与TDS一起使用.  1）触发后部署步骤的TDS示例项目；  2）示例Web项目，显示部署步骤中的拉动；  3）可以添加到解决方案中的DeployStep类库.
+- [PostDeploySteps](https://github.com/jst-cyr/NonlinearPostDeploySteps) - Post deploy steps for use with TDS. 1) TDS Example project that triggers the post deploy step; 2) Sample web project to show pulling in the deploy step; 3) DeployStep class library that you can add to your solution.
 - [Sitecore Devops with AppVeyor](https://github.com/steviemcg/Sitecore.Devops.AppVeyor) -示例解决方案，显示了如何开发开源Sitecore模块并将其与AppVeyor挂钩，AppVeyor是托管在云中的持续交付解决方案.
 
 
@@ -129,7 +129,7 @@
 - [Expand Descendants Command](https://github.com/ParTech/Expand-Descendants-Command#expand-descendants-command) -该模块添加了一个命令，该命令允许用户扩展Sitecore内容树中某个项目的所有后代.
 - [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) -登录屏幕和Sitecore标头功能区上特定于环境的样式（和文本）.
 - [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) -防止Sitecore用户绕过插入选项.
-- [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) - Allows "scope to this" functionality a la Visual Studio on the Sitecore Content Editor tree.
+- [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) -允许在Sitecore内容编辑器树上使用Visual Studio的“此功能”.
 - [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) -提高了设备​​编辑器的生产率，显示了如果将数据源设置为该特定组件，并从弹出的单击中预览该数据源.
 - [DmsGutters](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) -内容编辑器可显示已测试和个性化的项目.
 - [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) -验证是否可以基于插入选项将项目移动到新位置.
@@ -179,6 +179,7 @@
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) -将自定义Sitecore链接提供程序从非Helix转换为Helix的演示.
 - [Elision](https://github.com/sitecore-elision) -实现Helix原理的开源Sitecore加速器.
 - [Helixify](https://github.com/konabos/Konabos.Helixify) -该模块旨在为任何Sitecore项目增加即时Helix兼容性.
+- [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) -Avanade的Sitecore框架遵循Helix模块化体系结构设计原则.
 
 ## Icons
 
@@ -310,6 +311,7 @@
 ## Testing
 
 - [Sitecore FakeDb](https://github.com/sshushliapin/Sitecore.FakeDb)  -Sitecore的单元测试框架，可在内存中创建和操作Sitecore内容. 它旨在最大程度地减少测试内容初始化的工作，同时专注于最少的测试数据，而不是全面的内容树表示.
+- [Minq](https://github.com/valtech/minq) -对Sitecore和Sitecore MVC的可模拟，LINQable支持.
 
 ## Templates
 

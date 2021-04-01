@@ -15,10 +15,11 @@ android安全相关资源的集合.
 10. [Virustotal](https://www.virustotal.com/) -最大128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) -不免费
 12. [AppCritique](https://appcritique.boozallen.com) -上传您的Android APK，并获得全面的免费安全评估.
-13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  -用于移动应用程序安全性测试的Android和iOS移动应用程序的企业工具. 实验室自动功能可对云中的真实设备进行动态和静态分析，从而在几分钟内返回结果. 不免费
+13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  -用于移动应用程序安全性测试的Android和iOS移动应用程序的企业工具. 实验室自动功能可对云中的真实设备进行动态和静态分析，从而在数分钟内返回结果. 不免费
 14. [AMAaaS](https://amaaas.com)  -免费的Android恶意软件分析服务. 裸机服务具有针对Android应用程序的静态和动态分析的功能. 的产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).
 15. [App Detonator](https://appdetonator.run/)  -引爆APK二进制文件以提供源代码级别的详细信息，包括应用程序作者，签名，构建和清单信息.  3分析/天免费配额.
 16. [BitBaan](https://malab.bitbaan.com/)
+17. [Pithus](https://beta.pithus.org/)  -开源APK分析器. 目前仍处于Beta中，目前仅限于静态分析. 可以使用Yara规则搜寻恶意软件. 更多 [here](https://beta.pithus.org/about/).
 15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) -2019年10月31日日落〜
 4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
 6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) -不免费~~
@@ -79,7 +80,7 @@ android安全相关资源的集合.
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)-用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
-3. [House](https://github.com/nccgroup/house)-房屋：带有Web GUI的运行时移动应用程序分析工具包，该工具包由Frida支持，用Python编写.
+3. [House](https://github.com/nccgroup/house)-房屋：带有Web GUI的运行时移动应用程序分析工具包，该工具包由Frida提供支持，用Python编写.
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) -移动安全框架是一种智能的，多合一的开源移动应用程序（Android / iOS）自动笔测试框架，能够执行静态，动态分析和Web API测试.
 5. [AppUse](https://appsec-labs.com/AppUse/) –为渗透测试定制的构建
 6. [Droidbox](https://github.com/pjlantz/droidbox)
@@ -107,11 +108,11 @@ android安全相关资源的集合.
 32. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
 33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool)  -用于从Android APK提取静态和动态功能的工具. 它结合了各种著名的Android应用程序分析工具，例如DroidBox，FlowDroid，Strace，AndroGuard或VirusTotal分析.
 34. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) -是功能强大的网络界面，可帮助您在运行时操作Android和iOS应用
-3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) -（linux发行版）以前它曾经是 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
+3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) -（Linux发行版）以前它曾经是 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（Android逆向工程）不再处于主动开发状态~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
-33. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) –用于恶意软件分析的自定义图片~~
+33. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) –用于恶意软件分析的自定义图像~~
 
 ### Reverse Engineering
 
@@ -124,7 +125,7 @@ android安全相关资源的集合.
 7. [Android Framework for Exploitation](https://github.com/appknox/AFE)
 8. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 9. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) –使设备上的任何应用程序都可调试（使用cydia基板）.
-11. [Dex2Jar](https://github.com/pxb1988/dex2jar) - dex to jar converter
+11. [Dex2Jar](https://github.com/pxb1988/dex2jar) -dex到jar转换器
 12. [Enjarify](https://github.com/google/enjarify) -Google的dex到jar转换器
 13. [Dedexer](https://sourceforge.net/projects/dedexer/)
 14. [Fino](https://github.com/sysdream/fino)
@@ -144,7 +145,7 @@ android安全相关资源的集合.
 31. [Jadx](https://github.com/skylot/jadx)
 32. [Dwarf](https://github.com/iGio90/Dwarf) -逆向工程的GUI
 33. [Andromeda](https://github.com/secrary/Andromeda) -另一个基本的命令行逆向工程工具
-34. [apk-mitm](https://github.com/shroudedcode/apk-mitm) -一个CLI应用程序，可准备Android APK文件进行HTTPS检查
+34. [apk-mitm](https://github.com/shroudedcode/apk-mitm) -一个CLI应用程序，可准备Android APK文件以进行HTTPS检查
 35. [Noia](https://github.com/0x742/noia) -简单的Android应用程序沙箱文件浏览器工具
 36. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) -Java反编译器~~
 34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
@@ -235,7 +236,7 @@ android安全相关资源的集合.
 
 1. [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 2. [Android Malware Github repo](https://github.com/ashishb/android-malware)
-3. [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) -包含1260个恶意软件样本，这些样本被分为49个不同的恶意软件家族，免费用于研究目的.
+3. [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) -包含1260个恶意软件样本，这些样本被分为49个不同的恶意软件家族，可免费用于研究目的.
 4. [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) -由VirusTotal提供支持，并非免费
 6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)

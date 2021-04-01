@@ -23,10 +23,9 @@
 - [BareTail](https://www.baremetalsoft.com/baretail/) -将tail linux命令带到Windows，彩色线条和REGEX搜索以及其他功能的加载.
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) -我们都必须弄乱代理，这使得在使用Test / Prod / localhost代理时更加容易.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) -适用于PrintScreen不够大的情况.
-- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) -每次填写大表格都会很烦人，使用虚拟数据可以加快填写速度.
+- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) -根据字段类型建议值.
 - [Check All](https://chrispederick.com/work/web-developer/)  -“全选”通常不可用. 为什么不带自己的呢？
-- [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) -方便的扩展名，可用于保存经常使用的常见代码段（Jira表，测试数据等），以便于键入.
 - [Xmind](http://www.xmind.net/) -最好的（免费）思维导图工具，用于记录测试.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) -开源测试用例管理系统
 - [Fluxguard](https://fluxguard.com) -屏幕截图像​​素和DOM更改比较和回归.
@@ -41,12 +40,12 @@
 - [Yslow](http://yslow.org/) -根据Yahoo!的性能规则分析网页缓慢的原因.
 
 ## Books
-- [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) -为什么您可能希望将您的公司迁移到敏捷领域，并提供有关如何做到这一点的实用建议.
+- [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) -为什么您可能希望将您的公司迁移到敏捷领域，并提供有关如何做的实用建议.
 - [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7)  -关于如何改进测试以及为什么要进行测试的出色说明性示例. 很好的证据来证明自己的观点！
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) -我去为刚接触测试的人预定书.
-- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
+- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) -如何为希望过渡到敏捷测试人员的人员提供指导，以及作者在其敏捷团队中的工作方式.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) -一本关于构造探索性测试和设计测试的非常好的书.
-- [The Domain Testing Workbook](https://amzn.to/2Az4l90) -深入研究当今使用的最常见的测试技术，即域测试（也称为边界分析和等效类划分），其中包括许多示例，这些示例将变得更好.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) -深入研究当今使用的最常见的测试技术，即域测试（也称为边界分析和等效类划分），并通过许多示例使其变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) -一本关于可用性测试的非常有用的书.
 - [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) -关于软件测试的最好的书之一，分成几小节课，这些课现在与出版时一样适用.
 - [UI is Communication](https://amzn.to/2vbiALY) -如何制作直观的用户界面（UI和可用性测试）.
@@ -81,7 +80,7 @@
 - [The Original](https://github.com/sindresorhus/awesome) -超赞列表的超赞列表.
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) -学习编码，适合那些希望转向自动化的人
 - [Application Security](https://github.com/paragonie/awesome-appsec) -令人难以置信的广泛性，但您会发现一些符合要求的东西.
-- [Selenium](https://github.com/christian-bromann/awesome-selenium) -如果您知道自己想要什么，比搜索Google更好.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium) -如果您知道要搜索的内容，则比搜索Google更好.
 - [Security](https://github.com/sbilly/awesome-security) -这主要集中在基础架构上，但是如果您要测试一系列系统，这将非常有用.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) -免费软件测试和验证资源列表.
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) -精选的（相对较新的）与黄瓜和黄瓜相关的真棒资源.

@@ -7,7 +7,7 @@
 
 &gt;精心策划了很棒的“量化自我”资源列表.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术整合到有关人们日常生活各个方面的数据采集中的运动.
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（心理和身体）方面将技术纳入人的日常生活方面的技术的运动.
 
 欢迎捐款. 通过拉取请求添加链接或创建问题以开始讨论.
 
@@ -50,7 +50,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 - [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) -加里·沃尔夫（Tary）的特德（Ted）关于“量化自我”运动的演讲.
 - [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) -劳伦·科斯坦蒂尼（Lauren Costantini）探索了量化自我时代对人类的意义.
-- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) -克里斯·丹西（Chris Dancy，“地球上最连通的人”）的主题演讲，探讨了技术如何通过关注他收集的有关他的生活的数据来帮助他成为一个更好的人.
+- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) -克里斯·丹西（Chris Dancy，“地球上最连通的人”）的主题演讲，探讨了技术如何通过关注他收集的有关他的生活的数据帮助他成为一个更好的人.
 
 ## Applications and Platforms
 
@@ -222,7 +222,6 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Enlis](https://www.enlis.com/personal_edition.html) -用于组织和分析您的基因组数据的软件.
 - [DNA Fit](https://www.dnafit.com/) -有关健身和营养的遗传信息.
 - [Family Tree DNA](https://www.familytreedna.com/) -对血统，家族史和家谱的基因检测.
-- [uBiome](http://ubiome.com/) -微生物组测序启动.
 - [Inside Tracker](https://www.insidetracker.com/) -基于科学的血液分析，以提高性能和健康状况.
 - [Wellness FX](https://www.wellnessfx.com/) -血液分析和健康检查.
 - [Human API](http://humanapi.co/) -健康数据集成平台.

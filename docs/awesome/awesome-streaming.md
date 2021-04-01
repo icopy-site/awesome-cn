@@ -51,7 +51,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-用于构建管道以管理连续数据流的轻量级库； 支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java]-Java的完全可嵌入的数据流引擎和流处理API.
-- [Tributary](https://github.com/timkpaine/tributary)  [Python]-用于构造数据流图的python库. 支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性评估的非循环图和功能性流.
+- [Tributary](https://github.com/timkpaine/tributary) [Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
 ### Streaming Application
 
@@ -76,7 +76,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 - [Apache Kafka](https://github.com/apache/kafka) [Scala / Java]-分布式，分区，复制的提交日志服务，该服务提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java]-具有非常灵活的消息传递模型和直观的客户端API的分布式pub-sub消息传递平台.
-- [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模，高可靠性和高吞吐量的各种异构源系统和目标系统之间的数据流.
+- [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模可靠性和高吞吐量的各种异构源系统和目标系统之间的数据流.
 - [camus](https://github.com/linkedin/camus) [Java]-Linkedin的Kafka-&gt; HDFS管道.
 - [databus](https://github.com/linkedin/databus) [Java]-Linkedin的与源无关的分布式更改数据捕获系统.
 - [flume](https://github.com/apache/flume) [Java]-分布式，可靠且可用的服务，用于有效地收集，聚集和移动大量日志数据.
@@ -104,7 +104,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C]-一个开放源代码关系数据库，该数据库在流上连续运行SQL查询，并将结果增量存储在表中.
 - [squall](https://github.com/epfldata/squall) [Java]-Squall在Storm之上执行SQL查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java]-实时计算系统上的连续查询语言.
-- [KSQL](https://github.com/confluentinc/ksql) [Java]-用于Apache Kafka的流SQL引擎.
+- [ksqlDB](https://github.com/confluentinc/ksql) [Java]-：云原生，源可用 [database](https://ksqldb.io/) 专为流处理应用而构建
 
 
 ### Benchmark
