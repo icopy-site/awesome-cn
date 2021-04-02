@@ -48,10 +48,10 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [monix](https://github.com/monix/monix) [Scala]-高性能的Scala / Scala.js库，用于编写异步和基于事件的程序.
 - [Streamline](https://github.com/hortonworks/streamline)  [Java]-Hortonworks的Stream Analytics Framework，被设计为诸如Storm之类的现有流解决方案的包装. 旨在允许用户拖放流组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]-Airbnb的实时数据分析和警报.
-- [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
+- [Swave](https://github.com/sirthias/swave) [Scala]-适用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-用于构建管道以管理连续数据流的轻量级库； 支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java]-Java的完全可嵌入的数据流引擎和流处理API.
-- [Tributary](https://github.com/timkpaine/tributary) [Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
+- [Tributary](https://github.com/timkpaine/tributary) <i>[Python] - A python library for constructing dataflow graphs.</i> <b>[Python]-用于构造数据流图的python库。</b> <i>Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.</i><b>支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性评估的非循环图和功能性流。</b>
 
 ### Streaming Application
 
@@ -94,7 +94,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [Apache Samoa](https://github.com/apache/incubator-samoa) [Java]-分布式流机器学习（ML）框架，其中包含针对分布式流ML算法的编程抽象.
 - [DataSketches](https://github.com/DataSketches/sketches-core) [Java]-Yahoo!的草图库.
 - [streamDM](https://github.com/huawei-noah/streamDM) [Scala]-使用华为的Spark Streaming挖掘大数据流.
-- [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python]-提供一个网络服务器，以快速设置和评估针对上下文多臂匪徒（cMAB）问题的可能解决方案.
+- [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 - [StormCV](https://github.com/sensorstorm/StormCV) [Java]-通过添加特定于计算机视觉（CV）的操作和数据模型，可以将Apache Storm用于视频处理.
 - [trident-ml](https://github.com/pmerienne/trident-ml) [Java]-基于Trident的实时在线机器学习库.
 - [yurita](https://github.com/paypal/yurita) [Scala]-基于Paypal的Spark结构化流构建的异常检测框架.
@@ -104,7 +104,8 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C]-一个开放源代码关系数据库，该数据库在流上连续运行SQL查询，并将结果增量存储在表中.
 - [squall](https://github.com/epfldata/squall) [Java]-Squall在Storm之上执行SQL查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java]-实时计算系统上的连续查询语言.
-- [ksqlDB](https://github.com/confluentinc/ksql) [Java]-：云原生，源可用 [database](https://ksqldb.io/) 专为流处理应用而构建
+- [ksqlDB](https://github.com/confluentinc/ksql) [Java]-原生云，源可用 [database](https://ksqldb.io/) 专为流处理应用而构建
+- [Materialize](https://materialize.com) [Rust]-源可用的流SQL引擎，用于维护对来自消息代理和数据库的数据的物化视图.
 
 
 ### Benchmark

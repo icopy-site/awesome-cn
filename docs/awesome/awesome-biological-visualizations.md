@@ -31,6 +31,7 @@
 - [GeneMANIA](http://genemania.org/) -帮助预测基因和基因集的功能.
 - [Mutaframe](http://deogen2.mutaframe.com/) -可视化人类基因组的变体.
 - [Coessentiality](http://coessentiality.net) -共同模块的全基因组年鉴将功能分配给未表征的基因.
+- [Gosling](https://gosling.js.org) -基于语法的工具包，用于可扩展的交互式基因组学数据可视化.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) -探索基因组接触矩阵和轨迹的工具.
@@ -41,17 +42,17 @@
 
 ## Metagenomics
 - [Metaviz](http://metaviz.cbcb.umd.edu/) -宏基因组数据的交互式统计和视觉分析.
-- [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/) -探索如何在500多个疟原虫寄生虫中表达基因.
+- [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/) -探索如何在500多个疟原虫的寄生虫中表达基因.
 
 ## Epigenomics
-- [Epiviz](http://epiviz.cbcb.umd.edu/4/) -用于功能基因组学数据的交互式视觉分析.
-- [GIVe](https://mcf7.givengine.org/) -表观基因组和基因组的相互作用.
-- [WashU Epigenome Browser](http://epigenomegateway.wustl.edu/) -在整个基因组的一部分或全部，特定基因集或途径以及元数据的背景下，显示许多基于测序的数据集.
+- [Epiviz](http://epiviz.cbcb.umd.edu/4/) -用于功能基因组学数据的交互式可视化分析.
+- [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
+- [WashU Epigenome Browser](http://epigenomegateway.wustl.edu/) -在整个基因组或部分基因组，特定基因组或途径以及元数据的背景下，显示许多基于测序的数据集.
 - [Clustergrammer CCLE Explorer](https://maayanlab.github.io/CCLE_Clustergrammer/) -使用Clustergrammer按来源组织浏览癌细胞系百科全书（CCLE）中癌细胞系的相对mRNA表达数据.
-- [Peax](https://github.com/Novartis/peax) -使用无监督的深度表示学习对表观基因组数据进行交互式视觉模式探索.
+- [Peax](https://github.com/Novartis/peax) -使用无监督的深度表示学习在表观基因组数据中进行交互式视觉模式探索.
 
 ## Proteomics
-- [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) - A platform for understanding cancer mutations in the context of 3D protein structure.
+- [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) -在3D蛋白结构的背景下了解癌症突变的平台.
 - [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) -蛋白质和核酸结构的可视化和图像生成.
 - [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) -大规模可视化 
 大分子结构数据.
@@ -63,7 +64,7 @@
 - [AlzMap](https://alzmap.org/) -阿尔茨海默氏病的空间转录组学.
 - [Loom Viewer](http://loom.linnarssonlab.org/dataset/cells/osmFISH/osmFISH_SScortex_mouse_all_cells.loom/NrBEoXQGhYDYoAYLRARigZlRgTDpAtAgFhRnSyg0Wrt1rUVuAHYlCYAOD5AzOo3qNmMAJy8ctaeWAYS0jvNoNqotpO6TSioZgmqmLCTJhNt0ebPCpgAWkQA6RJjgkxYxLkwlMrAKxIjr5wbv7~iKxcaLj~0AIkULhK~DAscpwZxGZJ_LIgigB2AK4ANqVKHIbquqi10LVKsgIl5RxyybFQPIGYGAi4yey4PGjDArjsaAgYaBOJaDy4A3i0C4G4EgbUEmiJmIwYmMnm2E0QQA) -用于共享，浏览和可视化以Loom文件格式存储的单单元格数据的工具.
 - [TissUUmaps](https://tissuumaps.research.it.uu.se/) -大规模空间基因表达和组织形态学数据的交互式可视化.
-- [Giotto Viewer](http://spatialgiotto.rc.fas.harvard.edu/giotto.viewer.html) -基于Web的可视化软件包，用于空间转录组数据.
+- [Giotto Viewer](http://spatialgiotto.rc.fas.harvard.edu/giotto.viewer.html) -用于空间转录组数据的基于Web的可视化程序包.
 
 
 ## (Non-spatial) Transcriptomics
@@ -83,15 +84,15 @@
 
 ### Gene expression matrices
 - [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) -跨物种的单细胞基因表达.
-- [MORPHEUS](https://software.broadinstitute.org/morpheus/) -多功能矩阵可视化和分析软件.
+- [MORPHEUS](https://software.broadinstitute.org/morpheus/) -多功能的矩阵可视化和分析软件.
 - [Clustergrammer](https://maayanlab.cloud/clustergrammer/) -将高维数据可视化为交互式分层聚类的热图.
 
 ## Microscopy
 - [IONpath MIBItracker](https://www.ionpath.com/mibitracker/) -幻灯片和图像数据.
-- [Avivator](http://avivator.gehlenborglab.org/) -轻量级的“含电池” WebGL查看器，用于以生物格式Zarr或OME-TIFF格式进行远程成像数据.
+- [Avivator](http://avivator.gehlenborglab.org/) -轻巧的“含电池” WebGL查看器，用于以Bio-Formats Zarr或OME-TIFF格式进行远程成像数据.
 
 ## Connectomics
-- [neuroglancer](https://hemibrain-dot-neuroglancer-demo.appspot.com/#!gs://neuroglancer-janelia-flyem-hemibrain/v1.0/neuroglancer_demo_states/kc_apl_mpn1.json) -用于可视化苍蝇大脑中神经元连通性的详细地图的工具.
+- [neuroglancer](https://hemibrain-dot-neuroglancer-demo.appspot.com/#!gs://neuroglancer-janelia-flyem-hemibrain/v1.0/neuroglancer_demo_states/kc_apl_mpn1.json) -用于可视化苍蝇大脑中神经元连通性的高度详细地图的工具.
 - [Allen Mouse Brain Connectivity Atlas](http://connectivity.brain-map.org/) -小鼠大脑中神经连接的高分辨率图.
 - [FlyWire](https://flywire.ai/) -人与人之间的合作，以绘制飞行连接图.
 

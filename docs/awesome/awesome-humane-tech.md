@@ -348,7 +348,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) -精选的自由软件（如自由软件）.
 - [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free) -精选的网络上流行服务的无广告替代方案列表.
 - [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) -（F）OSS的精选清单/专有软件和服务的联合替代品.
-- [Awesome Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology) -维持稳定气候，能源供应和自然资源的项目.
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) -维护稳定的气候，能源供应和自然资源的项目.
 
 另外，请访问这些网站，以找到您现在可能正在使用的垄断性，侵犯隐私的软件的绝佳替代品：
 
