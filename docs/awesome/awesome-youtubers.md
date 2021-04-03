@@ -445,7 +445,7 @@ Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`
 [<img align="left" height="94px" width="94px" alt="LevelUpTuts channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
 
 [**LevelUpTuts**](https://www.youtube.com/c/LevelUpTuts) \
-内容有关：前端，网页设计，CMS \
+内容有关：前端，Web设计，CMS \
 特色播放列表：“设计教程播放列表”，“ CMS教程播放列表”，“ HTML和CSS教程”，“ React.js视频”等等.
 
 [<img align="left" height="94px" width="94px" alt="Programming with Mosh channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymy6xr9_W7GTkPW1ov2OyxzvNCOE-ff1d7VK36Cg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/programmingwithmosh)
@@ -810,12 +810,12 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
 内容约：GODOT
-特色播放列表：“ Godot 3教程”，“在Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者游戏制作教程”.
+特色播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者游戏制作教程”.
 
 [<img align="left" height="94px" width="94px" alt="HeartBeast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
 
 [**HeartBeast**](https://www.youtube.com/user/uheartbeast) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: GODOT, 2D, GameMaker \
+内容有关：GODOT，2D，GameMaker \
 特色播放列表：“ Godot Engine教程”，“ Godot中的基于资源的库存教程”，“ 2D Hack-n-Slash课程（完整课程）”，“ GameMaker Platform教程”.
 
 [<img align="left" height="94px" width="94px" alt="Meth Meth Method channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy1coScVH3_bUoljtyvGxH7jpeS73tNanRpBxHZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MethMethMethod)
@@ -829,7 +829,7 @@ Content about: GODOT, 2D, GameMaker \
 
 [**Clear Code**](https://www.youtube.com/c/ClearCode) \
 内容约：Python \
-特色播放列表：“ Pygame基础知识”，“在Pygame中创建Pong”，“通过制作Flappy Bird来学习pygame”，“ Google Godot中的恐龙赛跑者”.
+特色播放列表：“ Pygame基础知识”，“在Pygame中创建Pong”，“通过制作Flappy Bird来学习pygame”，“在Godot中使用Google恐龙赛跑者”.
 
 
 ## Security
@@ -852,7 +852,7 @@ Content about: GODOT, 2D, GameMaker \
 
 [**LiveOverflow**](https://www.youtube.com/c/LiveOverflowCTF) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：道德黑客
-Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`, `Binary Exploitation`. \
+精选播放列表：“浏览器利用”，“硬件安全研究/移动设备”，“二进制利用”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="NullByte channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwX8qUlbr3ikiGsK_1TEe5i6ALRLhVXfDieN2ni=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
@@ -909,7 +909,7 @@ Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`,
 [<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
 
 [**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-有关的内容：将硬件与其他概念联网，并提供有益的视觉效果. 在A +和Net +上也有速成班.  \
+Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
 特色播放列表：“信息技术”，“ CompTIA认证”.  \
 <br/>
 
@@ -1025,6 +1025,12 @@ Featured playlists: `Browser Exploitation`, `Hardware Security Research/Mobile`,
 [**Logos By Nick**](https://www.youtube.com/c/logosbynick) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容约：Inkscape，Gimp
 特色播放列表：“ Inkscape入门教程”，“ GIMP教程”，“ Inkscape字体教程”，“ Inkscape徽标设计教程”.
+
+[<img align="left" height="94px" width="94px" alt="Mohamed Achraf channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNoBbN8dcRvQmBgN4oTSZVTnb-KDu41GJWStY-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MohamedAchraf)
+
+[**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+内容关于：Adobe Illustrator \
+特色播放列表：“徽标设计过程”，“ Adob​​e Illustrator技巧和窍门”，“角色设计”，“插画家Speedarts”.
 
 
 ## Audio and video

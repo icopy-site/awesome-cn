@@ -28,7 +28,7 @@
 - [DEV.to](https://dev.to/t/storybook)
 - [Brand's materials](https://github.com/storybookjs/brand) -您的文章材料和有关Storybook的讨论.
 - [Design system](https://storybooks-official.netlify.com) -故事书的网站设计系统.
-- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) -用于将故事书部署为静态站点的软件包.
+- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) -用于将您的故事书部署为静态站点的软件包.
 - [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) -故事书文档的自定义DocBlock.
 
 ## Tutorials
@@ -36,7 +36,7 @@
 - [Learn Storybook](https://www.learnstorybook.com/) -一组用于学习故事书的教程.
 - [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development) -有关如何使用Storybook工具作为模板并推动开发工作的方法的教程.
 - [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) -有关如何在使用Create React App生成的应用程序中添加Storybook的教程.
-- [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) -有关如何创建组件以及如何在Storybook中对其进行公开的教程.
+- [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) -有关如何创建组件以及如何将它们显示在故事书中的教程.
 - [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) -有关如何将Storybook的暗模式切换与React组件集成的教程.
 
 ## Presentations
@@ -48,9 +48,9 @@
 
 ## Blog posts
 
-- [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o) -一组有用的技巧，可帮助您管理Storybook项目.
+- [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o) -一组有用的提示，可帮助您管理Storybook项目.
 - [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111) -世界一流的设计系统基础架构.
-- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf) -漂亮的文档，立即.
+- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf) -精美的文档，立竿见影.
 - [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a) -将故事变成生动的文档.
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) -有关迄今为止最大版本的功能展示.
 - [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) -故事书中提供的可访问性测试工具的全面概述.
@@ -64,12 +64,14 @@
 ## Examples
 
 - [Storybook Design System](https://storybooks-official.netlify.com)
+- [Decathlon Design System (Vitamin)](https://decathlon.github.io/vitamin-web)
 - [GitHub Design System](https://primer.github.io/storybook/)
 - [Airbnb (react-dates)](https://airbnb.io/react-dates/)
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
 - [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example)
+- [Apideck Components](https://www.apideck.design/)
 
 ## Addons
 
@@ -77,7 +79,7 @@
 
 ## Contributing
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/lauthieb/awesome-storybook/blob/master/CONTRIBUTING.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/lauthieb/awesome-storybook/blob/master/CONTRIBUTING.md) 第一的.
 
 ## License
 

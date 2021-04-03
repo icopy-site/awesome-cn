@@ -62,6 +62,7 @@
 ### Serialization
 
 - [vproto](https://github.com/emily33901/vproto) -V中的Protobuf编译器和运行时.
+- [v-toxml](https://github.com/radare/v-toxml) -V的XML序列化库.
 
 ## Libraries
 

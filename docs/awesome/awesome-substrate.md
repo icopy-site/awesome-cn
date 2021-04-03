@@ -59,7 +59,7 @@
 - [UTXO Workshop](https://github.com/substrate-developer-hub/utxo-workshop) -使用底物
   实施类似比特币的链.
 - [Cumulus Wokshop](https://substrate.dev/cumulus-workshop/#/) -使用Cumulus建立平行链.
-- [Enterprise Sample](https://github.com/substrate-developer-hub/substrate-enterprise-sample) - 一种
+- [Enterprise Sample](https://github.com/substrate-developer-hub/substrate-enterprise-sample) - 一个
   功能齐全的样本，使用供应链用例来展示Substrate丰富
   能力.
 
@@ -93,7 +93,7 @@
   构建底物运行时.
 - [ink!](https://github.com/paritytech/ink) -适用于底物链的智能合约语言.
 - [Cumulus](https://github.com/paritytech/cumulus) -简化的兼容Polkadot的平行链.
-- [Bridges](https://github.com/paritytech/parity-bridges-common) -一系列工具
+- [Bridges](https://github.com/paritytech/parity-bridges-common) - A collection of tools for
   跨链通信.
 - [Frontier](https://github.com/paritytech/frontier) -基板的端到端以太坊仿真
   链.
@@ -111,7 +111,7 @@
 - [Pallet](https://github.com/substrate-developer-hub/substrate-pallet-template) -轻松创建
   可插拔的区块链功能.
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) -新
-  Cumulus-based Substrate node, ready for hacking (see 'Cumulus' under Frameworks for more info).
+  基于Cumulus的Substrate节点，可以进行黑客攻击（有关更多信息，请参见Frameworks下的&#39;Cumulus&#39;）.
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - 使用
   Polkadot-JS API和 [React](https://reactjs.org/) 为基于底物的链构建前端.
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) -的模板
@@ -129,6 +129,7 @@
   开发链的资源.
 - [Commodities](https://github.com/danforbes/pallet-nft) -定义和实现不可替代
   令牌接口.
+- [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) -Chainlink进给托盘和示例节点，显示了如何集成到基板链.
 
 ## Client Libraries
 
@@ -192,7 +193,7 @@
   [IPFS](https://ipfs.io/).
 - [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) -一套用于
   通过快速旋转和拆卸来管理由基质驱动的平行链网络.
-- [Redspot](https://github.com/patractlabs/redspot) - 一种
+- [Redspot](https://github.com/patractlabs/redspot) - 一个
   [Truffle](https://www.trufflesuite.com/truffle)类似工具，用于FRAME的智能合约
   合同托盘.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) -一个示范

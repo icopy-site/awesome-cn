@@ -104,7 +104,7 @@
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -虚拟家庭助理.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) -专为开发人员设计的云计算平台.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -Google的移动SDK，可使用Dart编写的单个代码库构建本机iOS和Android应用.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) -开源的家庭自动化，将本地控制和隐私放在首位.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) -适用于开发人员和公司的云平台.
@@ -116,6 +116,7 @@
 - [ESP](https://github.com/agucova/awesome-esp#readme) -具有WiFi和广泛的IoT应用的低成本微控制器.
 - [Deno](https://github.com/denolib/awesome-deno#readme) -使用V8并内置于Rust的JavaScript和TypeScript的安全运行时.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) -在1980年代和1990年代初期流行的基于x86的个人计算机的操作系统.
+- [Nix](https://github.com/nix-community/awesome-nix#readme) -Linux和其他Unix系统的软件包管理器，使软件包管理可靠且可重复.
 
 ## Programming Languages
 
@@ -248,7 +249,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) -应用框架.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+- [Redux](https://github.com/brillout/awesome-redux#readme) -JavaScript应用程序的状态容器.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) -模块捆绑器.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) -模块捆绑器.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) -CSS预处理器.
@@ -304,7 +305,7 @@
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) -Python Web应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) -Python Web应用程序框架.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) -用于在代码中定义云基础架构的开源软件开发框架.
-- [IAM](https://github.com/kdeldycke/awesome-iam#readme) -用户帐户，身份验证和授权.
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## Computer Science
 
@@ -317,7 +318,7 @@
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) -苹果机器学习框架的模型.
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) -使用Java，R，Python和Scala中的API编写的开源分布式机器学习平台.
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) -从实验到生产级机器学习.
-	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) -通过机器学习解决财务问题.
+	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) -自动区分和XLA编译结合在一起，用于高性能机器学习研究.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
@@ -672,7 +673,7 @@
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言。
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
@@ -693,7 +694,7 @@
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) -编程和设计社区的会议和见面演讲者.
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) -所有人都可以玩的台式游戏机.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) -为个人程序员或开源项目的开发提供资金.
-- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) -寄生虫和宿主-病原体的相互作用.
 - [Food](https://github.com/jzarca01/awesome-food#readme) -GitHub上与食品相关的项目.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) -软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) -开始接受比特币.

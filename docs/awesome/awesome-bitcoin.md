@@ -12,13 +12,13 @@
 * [Nigiri](https://github.com/vulpemventures/nigiri/)  -CLI与Electrs和Esplora一起快速启动一个比特币regtest框. 包括水龙头和推动命令.
 * [Nigiri in Travis](https://github.com/vulpemventures/nigiri-travis) -Travis模板，用于将Nigiri添加到您的Travis（或Github Action）管道中.
 * [hal](https://github.com/stevenroose/hal) -比特币CLI瑞士军刀（基于rust-bitcoin）.
-* [BitKey](https://bitkey.io) -实时USB，可进行隔空交易和比特币瑞士军刀.
+* [BitKey](https://bitkey.io) -实时USB，用于无记名交易和比特币瑞士军刀.
 * [Pycoin](https://github.com/richardkiss/pycoin) -基于Python的比特币和替代硬币实用程序库.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) -比特币命令行工具.
 * [txwatcher](https://github.com/tsileo/txwatcher) -一个小的Python实用程序，可让您通过Blockchain Websocket API监视比特币地址并执行自定义回调.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) -一组简单的程序，可以生成比特币钱包，创建和签名交易以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
-* [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) -绕过缺口限制，在您的比特币高清钱包中查找所有使用的地址.
+* [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) -绕过差距限制，在您的比特币高清钱包中查找所有使用的地址.
 * [LibreSelery](https://github.com/protontypes/libreselery) -自动将比特币分配给您的项目贡献者，并将其依赖项集成到GitHub Actions中. 
 
 ## Blockchain API and Web services
@@ -94,7 +94,7 @@
 
 ## Scala libraries
 &gt;请注意，您也可以使用 [Java libraries](#java-libraries) 在斯卡拉.
-* [Bitcoin-S](https://bitcoin-s.org) -用于比特币应用程序的Scala / JVM工具包，包括比特币数据结构，交易签名，强类型化的`bitcoind` / Eclair RPC客户端等.
+* [Bitcoin-S](https://bitcoin-s.org) -用于比特币应用程序的Scala / JVM工具包，包括比特币数据结构，交易签名，强类型化的“ bitcoind” / Eclair RPC客户端等.
 
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) -用于.NET框架的综合比特币库.
@@ -103,7 +103,7 @@
 
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
-* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) -虚拟人的比特币脚本.
+* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) -傻瓜的比特币脚本.
 * [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
@@ -121,7 +121,7 @@
 ## Full nodes
 * [btcd](https://github.com/btcsuite/btcd/) -自2013年以来，基于Go的完整节点.
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) -基于bitcoin-ruby-blockchain的比特币节点.
-* [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) -比特币的Javascript实现.
+* [Fullnode](https://github.com/moneybutton/yours-bitcoin) -比特币的Javascript实现.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) -通过BitPay链接到node.js的bitcoind.
 * [Bitcore](https://github.com/bitpay/bitcore) -以前只是一个Nodejs库，现在是一个完整节点.
 

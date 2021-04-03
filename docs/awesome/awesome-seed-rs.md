@@ -59,9 +59,10 @@
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) -种子的官方网站.
 - [WeightRS](https://gitlab.com/mkroehnert/weightrs) -简约和隐私友好的渐进式Web应用程序，用于跟踪您的体重.
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) -基本的音乐创作应用程序.
-- [Play Seed](https://play-seed.dev) -有关Play Seed的网站，用于演示Seed应用的操场.
+- [Play Seed](https://play-seed.dev) -有关Play Seed的网站，用于演示Seed应用程序的游乐场.
 - [Typesync](https://typesync.rutrum.net)  -测试歌曲歌词的打字速度. 用途 [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs)， 和 [`Diesel`](https://diesel.rs).
 - [CalcuPi](https://divykj.github.io/CalcuPi) -漂亮的蒙特卡洛模拟，用于近似pi的值.
+- [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) -纸牌游戏《情书》的知识追踪器.
 
 ## Libraries
 
