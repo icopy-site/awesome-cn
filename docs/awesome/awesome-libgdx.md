@@ -6,9 +6,9 @@
 
 > <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
-> [libGDX](https://libgdx.com/) 是一个相对较低级别的，免费的，开源的，用Java编写的跨平台游戏开发框架.
+> [libGDX](https://libgdx.com/) 是一个用Java编写的相对较低水平，免费，开放源代码的跨平台游戏开发框架.
 >
-&gt;此列表是精选资源的精选集合，这些资源，工具，教程和项目均使用 [libGDX](https://libgdx.com/) 游戏框架，可帮助开发人员制作_awesome_游戏，并符合 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+&gt;此列表是精选资源的精选集合，这些资源，工具，教程和项目均使用 [libGDX](https://libgdx.com/) 游戏框架，可帮助开发人员制作与_awesome__兼容的游戏 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -24,7 +24,7 @@
 
 ## Resources
 
-_可在libGDX代码中使用以增强框架功能的资源._
+_可用于libGDX代码中以增强框架功能的资源._
 
 ### Algorithms and AI
 - [gdx-ai](https://github.com/libgdx/gdx-ai) -具有转向行为，编队运动，寻路，行为树和有限状态机的人工智能框架.
@@ -50,15 +50,15 @@ _可在libGDX代码中使用以增强框架功能的资源._
 - [gdx-firebase](https://github.com/TomGrill/gdx-firebase) -适用于Firebase的跨平台（仅限于台式机/ Android）API.
 - [gdx-gameanalytics](https://github.com/MrStahlfelge/gdx-gameanalytics)  -libGDX的Game Analytics REST API客户端实现. 适用于所有后端.
 - [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) -轻松集成游戏服务，例如Google Play游戏，Apple Game Center等.
-- [gdx-pay](https://github.com/libgdx/gdx-pay) -提供InApp购买的跨平台API.
+- [gdx-pay](https://github.com/libgdx/gdx-pay) -提供用于InApp购买的跨平台API.
 - [steamworks4j](https://github.com/code-disaster/steamworks4j) -精简包装，允许Java应用程序访问Steamworks C ++ API.
 
 ### Setup and Deployment
-- [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) -libGDX的现代设置工具，使用当前的Gradle 5.x系列.
+- [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) -libGDX的现代安装工具，使用当前的Gradle 5.x系列.
 - [Packr](https://github.com/libGDX/packr) -打包您的JAR，资产和JVM，以在Windows，Linux和macOS上分发.
 
 ### User Interface
-- [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) -从轻量级的.ttf字体文件动态生成所需大小的BitmapFonts.
+- [Freetype](https://github.com/libgdx/libgdx/wiki/Gdx-freetype) -从轻量级的.ttf字体文件中即时生成所需大小的BitmapFonts.
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) -为本地对话框提供跨平台支持.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) -免费的Scene2D GUI外观.
 - [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) -允许开发人员在其游戏中添加控制台（类似于源游戏中的功能）.
@@ -95,14 +95,15 @@ _针对新手和经验丰富的开发人员的教程.
 
 ### Getting Started
 
-- [Official libGDX Wiki](https://github.com/libgdx/libgdx/wiki) -包含大量信息的官方libGDX Wiki.
-- [Tann's Hello libGDX](http://tann.space/HelloLibgdx/) -对于初学者的优秀指南，介绍如何从头开始创建游戏.
+- [Official libGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official libGDX wiki that contains a huge amount of information.
+- [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) -有关从头开始制作完整的Android游戏的视频教程系列.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) -有关创建初始屏幕以在游戏窗口加载之前显示的视频教程.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) -有关使用libGDX制作游戏启动器的视频教程.
-- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) -通过Gradle命令使用JPackage部署libGDX游戏的教程.
-- [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) -有关使用JSON存储数据的一般教程.
+- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) -有关通过Gradle命令使用JPackage部署libGDX游戏的教程.
+- [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) -有关使用JSON存储数据的常规教程.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) -通过示例讨论不同进度条设计技术的利弊.
 - [libGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) -官方非官方教程的大清单.
+<!-- - [Tann's Hello libGDX](http://tann.space/HelloLibgdx/)  -对于初学者的优秀指南，介绍如何从头开始创建游戏.  -&gt;
 
 ### Advanced
 
@@ -114,20 +115,20 @@ _针对新手和经验丰富的开发人员的教程.
 
 ## Assets
 
-_收集免费的优质资产，使您的游戏更上一层楼.
+_收集免费和高质量的资产，使您的游戏更上一层楼.
 
 - [Kenney Assets](https://kenney.nl/) -从2D和3D艺术作品到音效，为您的游戏提供优质资产.
 - [OpenGameArt.org](https://opengameart.org/) -提供各种开放内容资产的存储库.
 - [Game-Icons.net](http://game-icons.net/) -包含大量酷炫游戏相关图形的存储库.
 - [bfxr.net](https://www.bfxr.net/) -只需按几个按钮即可快速创建独特的音效，非常适合制作原型.
-- [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
+- [freesound.org](https://freesound.org/) -巨大的音频片段，样本，录音，哔哔声协作数据库.
 
 
 ## Community
 
 _与其他libGDX开发人员联系以进行协作并获得帮助._
 
-- [Discord](https://discord.gg/4S8pQqc)  -每天与社区中的各种领导人进行积极的聊天.  **推荐的**
+- [Discord](https://discord.gg/4S8pQqc)  -每天与社区中的各种领导人进行积极的聊天.  **受到推崇的**
 - [Reddit](https://www.reddit.com/r/libgdx/)  -libGDX的非官方subreddit. 活动不多.
 
 
@@ -140,7 +141,7 @@ _其他可能对libGDX开发人员有用的列表._
 - [Java](https://github.com/akullpp/awesome-java) -精选的Java框架，库和软件清单.
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin) -精选的Kotlin相关内容的精选清单.
 - [Magic Tools](https://github.com/ellisonleao/magictools) -使神奇发生的游戏开发资源列表.
-- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)  -包容性游戏设计的直接参考，以确保尽可能多的人对游戏充满乐趣.  **推荐的**
+- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)  -包容性游戏设计的直接参考，以确保尽可能多的人对游戏充满乐趣.  **受到推崇的**
 
 
 ---
@@ -148,7 +149,7 @@ _其他可能对libGDX开发人员有用的列表._
 
 ## Contributing
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/rafaskb/awesome-libgdx/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/rafaskb/awesome-libgdx/blob/master/contributing.md) 第一的.
 
 
 

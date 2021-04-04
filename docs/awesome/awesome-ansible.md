@@ -42,16 +42,17 @@
 &gt;视频教程和Ansible培训.
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) -Ansible官方YouTube频道.
-- [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) -Cloud Academy简介Ansible.
-- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) -杰夫·杰林（Jeff Geerling）拍摄的精彩视频系列《 Ansible》.
+- [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) -Cloud Academy的Ansible简介.
+- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) -杰夫·杰林（Jeff Geerling）制作的有关安西布尔（Ansible）的精彩视频系列.
 - [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) -Ansible上的视频教程.
 - [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) -Red Hat提供的有关Ansible必需品的免费视频教室.
+- [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1) -有关Ansible的免费视频课程，包括后续的实验室.
 
 ## Tools
 
 &gt;用于和使用Ansible的工具.
 
-- [Ansible Tower](https://www.ansible.com/products/tower)  -红帽的Ansible Tower可帮助您扩展IT自动化，管理复杂的部署并提高生产率. 将Ansible的功能扩展到整个团队.
+- [Ansible Tower](https://www.ansible.com/products/tower)  -Red Hat的Ansible Tower可帮助您扩展IT自动化，管理复杂的部署并提高生产率. 将Ansible的功能扩展到整个团队.
 - [AWX](https://github.com/ansible/awx)  -AWX提供了基于Web的用户界面，REST API和基于Ansible构建的任务引擎. 这是AWX的商业衍生产品Tower的上游项目.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) -检查Playbooks是否有可能改进的最佳做法和行为.
 - [Ansible Later](https://github.com/thegeeklab/ansible-later)  -另一个最佳做法扫描仪. 检查Playbooks和Roles是否有可能得到改进的最佳实践和行为.
@@ -60,7 +61,7 @@
 - [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) -ARA记录Ansible Playbook运行，并使记录的数据对用户和系统可用且直观.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) -使用Mitogen大大加快Ansible的速度.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) -分子有助于Ansible角色的开发和测试.
-- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) -此预配器可用于通过具有Ansible的Packer自动执行VM映像创建.
+- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) -此预配器可用于通过具有Ansible的Packer来自动创建VM映像.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) -将所有Excel电子表格都转换为Ansible库存.
 - [terraform.py](https://github.com/mantl/terraform.py) -Ansible动态清单脚本，用于解析Terraform状态文件.
 
@@ -80,5 +81,5 @@
 - [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) -Ansible剧本，用于使用Docker守护程序设置可自我更新的，经过强化的Debian / Ubuntu计算机.
 - [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) -这些角色可帮助您强化基于Linux的操作系统以及MySQl，NginX和SSH服务器/服务.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -将Docker Swarm集群配置并部署到开发环境和生产环境. 基础架构作为Code和DevOps最佳实践.
-- [Openstack Ansible](https://github.com/openstack/openstack-ansible) -用于部署的Ansible Playbook [OpenStack](https://www.openstack.org/).
-- [DebOps](https://docs.debops.org/en/master/) -基于Debian的Ansible Playbook的广泛集合.
+- [Openstack Ansible](https://github.com/openstack/openstack-ansible) -用于部署的Ansible Playbooks [OpenStack](https://www.openstack.org/).
+- [DebOps](https://docs.debops.org/en/master/) -大量基于Debian的Ansible Playbooks.
