@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-所有数字每天都会更新，包括所有浏览器扩展的总体使用情况，上次发布日期和GitHub存储库中的星号！ 欢迎贡献，但首先请看<a href="./contributing.md">贡献</a>
+所有数字每天都会更新，其中包括所有浏览器扩展的总体使用情况，上次发布日期和GitHub存储库中的星号！ 欢迎贡献，但首先请看<a href="./contributing.md">贡献</a>
 
 <br>
 <br>
@@ -68,7 +68,7 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 安装次数：10000 | 星级：1019 | 最后更新：2018年2月22日
 
 
-代码折叠-有选择地隐藏和显示代码部分的功能-在许多文本编辑器和IDE中都是无价的功能. 现在，开发人员可以在GitHub上通过Web浏览源代码的同时使用相同样式的代码折叠. 适用于任何类型的缩进空格或制表符.
+代码折叠-有选择地隐藏和显示代码部分的功能-在许多文本编辑器和IDE中都是无价的功能. 现在，开发人员可以在GitHub上的Web上遍历源代码的同时利用相同样式的代码折叠. 适用于任何类型的缩进空格或制表符.
 
 安装次数：2173 | 星级：227 | 最近更新：2019年4月10日
 
@@ -76,11 +76,6 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 在GitHub.com上为代码视图设置自定义标签大小
 
 安装数量：727 | 星级：59 | 最后更新：2019年5月6日
-
-
-GitHub.com的黑暗模式
-
-安装次数：29 | 星级：16 | 最近更新：2020年12月5日
 
 
 轻松浏览已在GitHub上编辑的文件中的更改.

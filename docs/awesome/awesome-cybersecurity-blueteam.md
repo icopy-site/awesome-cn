@@ -91,7 +91,7 @@
 也可以看看 [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [Bane](https://github.com/genuinetools/bane) -用于Docker容器的自定义更好的AppArmor配置文件生成器.
-- [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将机密安全地存储在Git / Mercurial / Subversion中.
+- [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明地保护使用Linux容器管理平台（如Docker和Kubernetes）部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就好像是数据一样，从而发现整个代码库中的漏洞.
@@ -191,8 +191,11 @@
 
 ### Firewall appliances or distributions
 
-- [OPNsense](https://opnsense.org/) -基于FreeBSD的防火墙和路由平台.
-- [pfSense](https://www.pfsense.org/) -防火墙和路由器FreeBSD分发.
+也可以看看 [Wikipedia: List of router and firewall distributions](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
+
+- [IPFire](https://www.ipfire.org/) -从IPCop派生的基于GNU / Linux的增强型路由器和防火墙分发.
+- [OPNsense](https://opnsense.org/) - Hardened FreeBSD based firewall and routing platform forked from pfSense.
+- [pfSense](https://www.pfsense.org/) -从m0n0wall派生的FreeBSD防火墙和路由器分布.
 
 ## Operating System distributions
 
@@ -260,7 +263,7 @@
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理的SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
 
 ### Service and performance monitoring
 
@@ -285,7 +288,7 @@
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -自动执行安全事件处理流程，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
-- [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还生成其结果的独立HTML报告.
+- [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，该工具提供基于主机的调查功能.
@@ -320,7 +323,7 @@
 也可以看看 [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [OnionBalance](https://onionbalance.readthedocs.io/) -提供负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性.
-- [Vanguards](https://github.com/mikeperry-tor/vanguards) - Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).
+- [Vanguards](https://github.com/mikeperry-tor/vanguards) -第3版Onion Service Guard发现缓解攻击脚本（旨在最终包含在Tor核心中）.
 
 ## Transport-layer defenses
 

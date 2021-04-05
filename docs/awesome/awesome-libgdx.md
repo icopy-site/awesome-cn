@@ -35,6 +35,10 @@ _可用于libGDX代码中以增强框架功能的资源._
 - [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) -添加了Scene2D按钮输入支持，用户可配置的按钮映射以及LWJGL2的热插拔功能.
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx)  -使用SDL的强大游戏手柄实现. 在相同的映射，隆隆声和热插拔下支持数百个控制器.
 
+### Editors
+- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) -带有libGDX运行时的复杂2D世界和场景的可视编辑器.
+- [Spine](http://esotericsoftware.com/) -基于骨骼的动画工具，专门针对游戏的2D动画.
+
 ### Entity Component System (ECS)
 - [Artemis-odb](https://github.com/junkdog/artemis-odb) -基于Java的高性能实体组件系统框架.
 - [Ashley](https://github.com/libgdx/ashley) -受Ash＆Artemis启发的Java实体系统.
@@ -76,7 +80,6 @@ _可用于libGDX代码中以增强框架功能的资源._
 - [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) -libGDX的屏幕管理器，支持各种过渡效果
 - [Particle Park](https://github.com/raeleus/Particle-Park) -带有实时预览的可下载粒子效果展示.
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) -ShapeRenderer的高性能替代方案，可避免批量冲洗.
-- [Spine](http://esotericsoftware.com/) -基于骨骼的动画工具，专门针对游戏的2D动画.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) -GLTF 3D文件格式支持（导入/导出），PBR着色器和其他高级渲染.
 - [libgdx-graph](https://github.com/marcinsc/libgdx-graph) -提供用于设计渲染管线和着色器的GUI，以及可轻松将其合并到游戏中的库. [Guide here](https://www.youtube.com/channel/UCzbGLy819RyOkKb_kmV2kCA) 
 
