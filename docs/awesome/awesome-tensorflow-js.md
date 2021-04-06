@@ -58,11 +58,15 @@ TensorFlow.js是一个开源软件库，用于使用JavaScript开发机器学习
 
 ### Books
 
-- [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) -学习使用TensorFlow.js来构建直接在浏览器中运行的深度学习模型，掌握深度学习的所有基础知识并探索高级概念，例如重新培训现有模型以进行转移学习和图像生成，Shanqing Cai，Stanley Bileschi和Eric D尼尔森和弗朗索瓦·乔莱特
+- [Deep Learning with JavaScript](https://www.manning.com/books/deep-learning-with-javascript) -学习使用TensorFlow.js构建直接在浏览器中运行的深度学习模型，掌握深度学习的所有基础知识，并探索高级概念，例如重新培训现有模型以进行转移学习和图像生成，方法由Cai Shanqing，Stanley Bileschi，Eric D尼尔森和弗朗索瓦·乔莱特
 
 - [Hands-On Machine Learning with TensorFlow.js](https://www.amazon.com/Hands-Machine-Learning-TensorFlow-js-applications/dp/1838821732) -Kai Sasaki使用TensorFlow.js库构建与Web技术集成的ML应用程序的指南.
 
-- [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) -在本指南中，作者 [Gant Laborde](https://github.com/gantman) 为广泛的技术受众（包括数据科学家，工程师，Web开发人员，学生和研究人员）提供TensorFlow.js基础知识的动手，端到端方法.
+- [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) -在本指南中，作者 [Gant Laborde](https://github.com/gantman) 为广泛的技术受众（包括数据科学家，工程师，Web开发人员，学生和研究人员）提供TensorFlow.js基础的动手，端到端方法.
+
+- [Practical TensorFlow.js](https://www.apress.com/gp/book/9781484262726) -Juan De Dios Santos Rivera的Web应用程序开发中的深度学习.
+
+- [Practical Machine Learning in JavaScript](https://www.apress.com/gp/book/9781484264171) -用于Web开发人员的TensorFlow.js，作者是Charlie Gerard.
 
 
 ### Blog & Posts

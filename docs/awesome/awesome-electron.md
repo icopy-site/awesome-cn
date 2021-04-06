@@ -8,7 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
+**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
 
 <br>
 
@@ -130,7 +130,7 @@
 - [DTCP](https://github.com/alchen/DTCP) -Twitter客户端.
 - [Inbox](https://github.com/fgnass/inbox-app) -非官方的Google收件箱应用.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) -鸣叫录音播放器.
-- [Snippet Bar](https://github.com/teesloane/snippet-bar) -复制并重新使用菜单栏中的文本片段.
+- [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) -非官方的微信应用程序.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) -自动保存暂存器.
@@ -143,7 +143,7 @@
 - [Before Dawn](https://github.com/muffinista/before-dawn) -屏幕保护程序工具.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
 - [Hain](https://github.com/appetizermonster/hain) -Windows启动器.
-- [Catify](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
+- [Catify](https://github.com/MeoBeoI/Catify) -Spotify的实用程序.
 - [Minira](https://github.com/jenslind/minira) -菜单栏中的JIRA问题.
 - [Ansel](https://github.com/m0g/ansel) -图片管理器.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) -检查CI服务器的构建状态.
@@ -215,6 +215,7 @@
 - [Glyphfinder](https://github.com/ueberdosis/glyphfinder) -Unicode字符搜索.
 - [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) -跨平台代码编辑器.
 - [Yana](https://github.com/lukasbach/yana) -具有丰富文本注释，嵌套注释组织和全局搜索的笔记本应用程序.
+- [SpaceEye](https://github.com/KYDronePilot/SpaceEye) -桌面背景的实时卫星图像.
 
 ### Closed Source
 

@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/bakke92/awesome-gdpr/master/GDPR.png" align="right" width="300">](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
-通用数据保护条例（GDPR）是针对欧盟和欧洲经济区内所有个人的数据保护和隐私权的条例. 该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
+通用数据保护条例（GDPR）是关于欧盟和欧洲经济区内所有个人的数据保护和隐私的条例. 该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
 
 
 ## Legal text
@@ -21,6 +21,7 @@
 ## Privacy by Design - Guides for developers (art. 25)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
+* [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) -来自ENISA的假名化技术报告.
 
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) -十大Web应用程序安全风险.
@@ -42,7 +43,8 @@
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) -EDPS检查软件.
-* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) -每个国家/地区数据保护级别的地图.
+* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) -（CNIL）每个国家/地区数据保护级别的地图. 
+* [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) -（DLA Piper）比较世界各地的数据保护法律.
  
 ## Data Protection Authorities 
 * [European Data Protection Board](https://edpb.europa.eu/) -EDPB.

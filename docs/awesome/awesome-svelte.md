@@ -69,11 +69,11 @@ _关于Svelte框架的研究和研究.
 
 ### Preprocessing
 
-- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) -用于PostCSS，SCSS，Less，Stylus，Coffeescript，TypeScript，Pug等的预处理器.
+- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) -用于PostCSS，SCSS，Less，手写笔，Coffeescript，TypeScript，Pug等的预处理器.
 - [MDSveX](https://github.com/pngwn/MDsveX) -用于MDX降价的预处理器.
 - [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) -用markdown语法编写Svelte组件.
 - [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) -更少的预处理器.
-- [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) -对模块化CSS的预处理器支持.
+- [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) -模块化CSS的预处理器支持.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) -使用PostCSS在Svelte组件中预处理样式.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) -Sass的预处理器.
 
@@ -87,6 +87,7 @@ _关于Svelte框架的研究和研究.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) -材质UI组件.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -IBM Carbon Design System的精简实施.
 - [attractions](https://github.com/illright/attractions) -非常酷和现代的UI套件
+- [svelte-chota](https://github.com/AlexxNB/svelte-chota) -使用Chota（超轻量级CSS框架）构建的组件库
 
 ### UI Components
 
@@ -103,20 +104,20 @@ _表和数据网格.
 _烤面包机/小吃店-通过无模式的临时小弹出窗口通知用户.
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) -可以在任何JS应用程序中使用的Toast通知组件.
-- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) -一个自定义组件，添加了图标和徽章，可用于显示例如未读邮件的数量等.
+- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) -一个自定义组件，其中添加了图标和徽章，可用于显示例如未读邮件的数量等.
 
 #### Icons
 
 - [svelte-fa](https://github.com/Cweili/svelte-fa) -Tiny FontAwesome 5组件.
 - [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) -简单的图标组件.
-- [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) -很棒的SVG图标组件，内置有Font Awesome图标.
+- [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) -很棒的SVG图标组件，内置了Font Awesome图标.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) -图标组件.
 
 #### Calendar
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) -围绕FullCalendar的组件包装器.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) -FullCalendar周围的组件包装.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) -轻巧的日期选择器，带有精美的动画和独特的UX.
 
 #### Maps
@@ -131,7 +132,7 @@ _让用户创建和编辑数据._
 
 ##### Checkbox
 
-_切换/打开/关闭切换/复选框.
+_Switch / on / off toggle / checkbox._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) -复选框组件（超酷动画，可自定义）.
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) -具有样式的基本切换组件.
@@ -152,18 +153,22 @@ _切换/打开/关闭切换/复选框.
 _移动版UI框架.
 
 - [Svelte Native](https://svelte-native.technology/) -通过Nativescript控制本地组件.
-- [Framework7](https://framework7.io/svelte/) -用于构建iOS和Android应用的全功能HTML框架.
+- [Framework7](https://framework7.io/svelte/) -用于构建iOS和Android应用程序的全功能HTML框架.
 
 #### Routers
 
-_对于单页应用程序（SPA）以及更多.
+_对于单页应用程序（SPA）以及更多._
 
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router)  -路由器将路由添加到您的单页应用程序（SPA）. 包括本地化，防护和嵌套布局.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) -具有SSR支持的声明性Svelte路由库.
-- [tinro](https://github.com/AlexxNB/tinro) -小型，无依赖和高度声明性的路由器.
-- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) -针对单页应用程序（SPA）进行了优化，具有基于哈希的路由并支持参数.
+- [tinro](https://github.com/AlexxNB/tinro) -小型，无依赖且声明性强的路由器.
+- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) -通过基于哈希的路由和对参数的支持，针对单页应用程序（SPA）进行了优化.
 
 ### UI Utilities
+
+#### Grid
+
+- [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) -受Bootstrap启发的响应式网格系统.
 
 #### Form
 
@@ -176,7 +181,7 @@ _对于单页应用程序（SPA）以及更多.
 #### Portal
 
 - [svelte-portal](https://github.com/romkor/svelte-portal) -用于在父组件的DOM之外进行渲染的组件.
-- [svelte-teleport](https://github.com/nasso/svelte-teleport) -在DOM中传送元素的组件.
+- [svelte-teleport](https://github.com/nasso/svelte-teleport) -在整个DOM中传送元素的组件.
 
 ### Scaffold
 
@@ -191,11 +196,11 @@ _仅在浏览器中渲染Svelte应用程序.
 - [svelte-component-template](https://github.com/YogliB/svelte-component-template) -建立可共享组件的基础.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) -基于官方模板的PWA入门模板.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) -集成Redux-Toolkit的入门模板.
-- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) -启动了TS的入门模板，并且ESLint和Prettier一起工作.
+- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) -激活了TS的入门模板，并且ESLint和Prettier一起工作.
 
 #### Universal
 
-_SSR框架.
+_SSR框架._
 
 - [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) -默认的Sapper模板，可用于汇总.
 - [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) -默认的Sapper模板，可用于Webpack.
@@ -209,10 +214,10 @@ _SSR框架.
 
 ### Lint
 
-_Lint and format your code._
+_整理代码并设置其格式._
 
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) -用于组件的ESLint插件.
-- [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) -使用更漂亮的格式格式化组件.
+- [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) -使用更漂亮的格式来格式化您的组件.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) -检查您的代码.
 
 ### Docs
@@ -235,7 +240,7 @@ _文本编辑器插件._
 #### Visual Studio Code
 
 - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) -为您的组件提供语法突出显示和丰富的智能感知.
-- [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) -精简VS代码的3个摘要.
+- [Svelte 3 Snippets](https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-svelte-snippets) -精简VS代码的3个代码段.
 
 #### Atom
 
@@ -248,8 +253,8 @@ _文本编辑器插件._
 
 #### Vim
 
-- [vim-svelte](https://github.com/evanleck/vim-svelte) -Svelte 3组件的Vim语法突出显示和缩进.
-- [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) -语法突出显示并支持Vim.
+- [vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+- [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) -语法突出显示和对Vim的支持.
 - [coc-svelte](https://github.com/coc-extensions/coc-svelte) -语法突出显示并支持（Neo）Vim.
 
 #### JetBrains
