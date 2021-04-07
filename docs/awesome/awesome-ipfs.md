@@ -50,7 +50,7 @@
 - [edChain](https://www.edchain.io/)  -EdChain是一个用于教育和职业的全球网络. 它使用区块链和分布式Web技术来提供教育内容，甚至可以提供给没有宽带互联网的用户. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) -通过以太坊和IPFS买卖文件的网站. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) -第一个基于以太坊和IPFS的完全去中心化的就业市场平台. [Source](https://github.com/madvas/ethlance)
-- [Everforo](https://www.everforo.com) -Everforo是建立在IPFS之上的下一代在线社区团体.
+- [Everforo](https://www.everforo.com) -Everforo是建立在IPFS之上的下一代在线社区团体。
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) -在ipfs中重新托管git仓库的脚本.
 - [Global Upload](https://globalupload.io/) -IPFS的文件传输服务，将文件上传到分布式Web的未来.
 - [gogo.tattoo](http://gogo.tattoo)  -Gogo纹身项目使用IPFS，DLT和其他现代技术，为纹身艺术家和穿戴者提供了其作品集的坚不可摧的终生记录.  gogo.tattoo应用程序已经具有直接将作品共享到IPFS的功能.
@@ -69,7 +69,7 @@
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -一个使用windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  -IPFS图像上传器和查看器.  Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带有TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
-- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) -一个web3论坛.您可以从该论坛中获得新的想法，报告，讨论，尽管您可能处于网络受限的区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
+- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) -一个web3论坛.您可以从该论坛中获得新的想法，报告，讨论，尽管您可能处于网络受限的区域，但是ipfs会快速更新所有内容. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
 - [IPFS-FPS](http://ipfs-fps.zil.sh/)  -完全分散的第一人称射击游戏. 使用Unity，Fleek，势不可挡的Domans和Pinata构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建您的Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
@@ -186,6 +186,7 @@
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) -解析ENS域，这使用户可以在访问.eth网站的同时最大程度地分散权力. [Source](https://github.com/almonit/almonit-plugin)
 - [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监视以太坊区块链的当前区块号，并设置警报（通过特定的区块高度）（使用浏览器中的PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) -用于URL集成的IPFS的Bubble（无代码平台）插件
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) -捐赠ipfs网关以缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -Dillo Web浏览器的IPFS集成.
 - [galacteek](https://galacteek.github.io) -用于分布式Web的基于Qt5的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)
@@ -219,6 +220,7 @@
 - [ipfsecret](https://github.com/shlemph/ipfsecret) -使用秘密密码加密和解密IPFS文件
 - [ipget](https://github.com/ipfs/ipget) -：satellite：用于IPFS的wget：通过IPFS检索文件并将其保存在本地.
 - [IPLD Explorer](https://explore.ipld.io) -在舒适的浏览器中探索默克尔森林 [Source](https://github.com/ipfs-shipyard/ipld-explorer)
+- [ipns-pin](https://github.com/justicenode/node-ipns-pin) -通过ipns固定内容的命令行工具.
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  -用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本. 这应该可以在尚未为其编写扩展名并支持用户脚本的任何浏览器上使用.
 - [iprfc](https://github.com/RTradeLtd/iprfc) -IETF RFC下载器，可将RFC存储在IPFS上，并用RTradeLtd / Lens对其进行索引.
 - [ipscend](https://github.com/diasdavid/ipscend) -用于在IPFS中托管Web应用和静态网站的工具

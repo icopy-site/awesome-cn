@@ -85,14 +85,14 @@
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
 - [Dependency-Track](https://dependencytrack.org/) -_OWASP_-随着时间的推移，监视多个项目中易受依赖项的数量和严重性.
 - [JFrog XRay](https://jfrog.com/xray/) -_JFrog_-对JFrog Artifactory中存储的工件的安全性和合规性分析.
-- [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
+- [NPM Audit](https://docs.npmjs.com/cli/audit) -_NPM_-npm CLI中内置的节点程序包的漏洞程序包审核.
 - [Renovate](https://renovate.whitesourcesoftware.com/) -_WhiteSource_-使用CLI或git仓库应用程序自动监视和更新多种框架和语言的软件依赖关系.
 - [Requires.io](https://requires.io/) -_Olivier Mansion和Alexis Tabary_-针对Python项目的自动化易受漏洞依赖项监视和升级.
 - [Snyk Open Source](https://snyk.io/) -_Snyk_-使用Snyk的专用漏洞数据库自动进行漏洞依赖项监视和升级.
 
 ### Dynamic Analysis
 
-动态分析安全测试（DAST）是黑盒安全测试的一种形式，其中安全扫描程序与正在运行的应用程序实例进行交互，以模拟恶意活动以查找常见漏洞.  DAST工具通常用于渗透测试的初始阶段，并且可以发现诸如跨站点脚本，SQL注入，跨站点请求伪造和信息泄露之类的漏洞.
+Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
 
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全性扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) -_PortSwigger_-BurpSuite的Web应用程序漏洞扫描程序已由渗透测试人员广泛使用，并通过CI / CD集成进行了修改，并可以持续监控多个Web应用程序.
@@ -104,10 +104,13 @@
 
 基础架构即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础结构得到持续加固，而且还提供了机会来静态和动态地分析基础结构定义，以查找易受攻击的依赖项，硬编码的机密，不安全的配置以及安全配置中的意外更改. 以下工具有助于进行此分析.
 
+#### Multi-Platform
+- [Checkov](https://github.com/bridgecrewio/checkov) -_Bridgecrew_-扫描Terraform，AWS CloudFormation和Kubernetes模板以获取不安全的配置.
+- [KICS](https://github.com/Checkmarx/kics) -_Checkmarx_-在开发周期的早期发现安全漏洞，合规性问题和基础架构配置错误.
+
 <!-- omit in toc -->
 #### Cloud Formation
 - [Cfn Nag](https://github.com/stelligent/cfn_nag) -_Stelligent_-扫描AWS CloudFormation模板以获取不安全的配置.
-- [Checkov](https://github.com/bridgecrewio/checkov) -_Bridgecrew_-扫描Terraform，AWS CloudFormation和Kubernetes模板以获取不安全的配置.
 
 <!-- omit in toc -->
 #### Containers
@@ -120,7 +123,6 @@
 
 <!-- omit in toc -->
 #### Terraform
-- [Checkov](https://github.com/bridgecrewio/checkov) -_Bridgecrew_-扫描Terraform，AWS CloudFormation和Kubernetes模板以获取不安全的配置.
 - [Regula](https://github.com/fugue/regula) -_Fugue_-在部署之前，评估Terraform基础架构代码是否存在潜在的安全错误配置和合规性违规.
 - [Terraform Compliance](https://terraform-compliance.com/) -_terraform-compliance_-针对terraform的轻量级，安全性和合规性测试框架，可为您的基础结构代码启用否定测试功能.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) -_Cesar Rodriguez_-扫描Terraform模板以获得最佳实践安全配置.
@@ -128,7 +130,6 @@
 
 <!-- omit in toc -->
 #### Kubernetes
-- [Checkov](https://github.com/bridgecrewio/checkov) -_Bridgecrew_-扫描Terraform，AWS CloudFormation和Kubernetes模板以获取不安全的配置.
 - [Kube-Score](https://github.com/zegl/kube-score) -_Gustav Westling_-扫描Kubernetes对象定义以了解安全性和性能配置错误.
 - [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) -_ControlPlane_-kubesec.io的插件，用于对Kubernetes资源执行安全风险分析.
 
@@ -145,7 +146,7 @@
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
-仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全漏洞. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
+仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全缺陷. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
 
 - [Csper](https://csper.io/report-uri) -_Csper_-一组内容安全策略工具，可以测试策略，监视CSP报告以及提供指标和警报.
 

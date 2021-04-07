@@ -4,7 +4,7 @@
 
 精选的优秀公司列表，这些公司免费向开源和公共项目提供其工具和服务.
 
-**注意：尽管有许多公司拥有免费的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
+**注意：尽管有许多公司拥有出色的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
 
 
 
@@ -16,7 +16,7 @@
 ## Code Quality
 
 - [Better Code Hub](https://bettercodehub.com/) -源代码可维护性分析.
-- [Codacy](https://www.codacy.com/) -自动代码审查和分析.
+- [Codacy](https://www.codacy.com/) -自动化的代码审查和分析.
 - [Code Climate](https://codeclimate.com/) -自动代码审查和健康分析.
 - [codebeat](https://codebeat.co/) -针对手机和网络的自动代码审查.
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
@@ -29,12 +29,13 @@
 - [SensioLabsInsight](https://insight.sensiolabs.com/) -PHP的自动代码审查.
 - [Scrutinizer](https://scrutinizer-ci.com/) -持续的代码质量分析.
 - [Sider](https://sider.review/) -自动代码审查.
+- [SonarCloud](https://sonarcloud.io/) -连续代码检查.
 - [StyleCI](https://styleci.io/) -PHP代码样式审查.
 
 ## Continuous Integration
 
 - [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
-- [Bitrise](https://www.bitrise.io/) -托管的CI / CD（适用于Android和iOS），公共项目免费.
+- [Bitrise](https://www.bitrise.io/) -托管的CI / CD，适用于Android和iOS，公共项目免费.
 - [CircleCI](https://circleci.com/) -基于Docker的构建，支持自定义工作流.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [Codeship](https://codeship.com/) -持续集成，交付和部署.
@@ -43,12 +44,12 @@
 - [Sauce Labs](https://saucelabs.com/) -跨浏览器测试，Selenium测试和移动测试.
 - [Semaphore](https://semaphoreci.com/) -快速自动化的CI / CD.
 - [Shippable](https://www.shippable.com/) -DevOps自动化.
-- [Travis-CI](https://travis-ci.org/) -开源的自动CI / CD.
+- [Travis-CI](https://travis-ci.org/) -用于开放源代码的自动化CI / CD.
 
 ## Dependency Management
 
-- [Dependabot](https://dependabot.com/) -Ruby，Python，JavaScript和PHP的依赖关系更新.
-- [Greenkeeper](https://greenkeeper.io/) -NPM软件包的自动化依赖管理（在GitHub上）.
+- [Dependabot](https://dependabot.com/) -自动化的Ruby，Python，JavaScript和PHP依赖关系更新.
+- [Greenkeeper](https://greenkeeper.io/) -NPM软件包的自动化依赖关系管理（在GitHub上）.
 - [pyup.io](https://pyup.io/) -Python依赖管理.
 - [Snyk](https://snyk.io/) -持续的依赖项漏洞评估.
 - [Tachikoma.io](http://tachikoma.io/) -依赖关系更新即服务.
@@ -101,11 +102,12 @@
 
 ## Miscellaneous
 
-- [Algolia](https://www.algolia.com) -`requires-approval`搜索为服务API.
+- [Algolia](https://www.algolia.com/for-open-source/) -`requires-approval`搜索为服务API.
 - [Apiary](https://apiary.io/) `requires-approval`-API设计，开发和文档平台.
-- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) “需要批准”-团队（Jira，Confluence，Bamboo，HipChat）的生产力工具.
+- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval`-团队（Jira，Confluence，Bamboo，HipChat）的生产力工具.
 - [Auth0](https://auth0.com/) `requires-approval`-基于SSO和基于令牌的身份验证.
 - [BackHub](https://backhub.co/) -自动化的GitHub存储库备份.
+- [Beamdock](https://beamdock.com) -`requires-approval`-帮助您收集用户反馈，功能请求，安排与用户的面试会话并通知客户有关功能推出的信息.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval`-跨浏览器测试工具.
 - [Cloud9](https://c9.io/) -基于云的开发环境.
 - [Codota](https://www.codota.com/) -AI对编程助手.
@@ -113,24 +115,25 @@
 - [Helpmonks](https://helpmonks.com/) `requires-approval`-协作团队的电子邮件收件箱.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval``non-commercial`-专门创建智能开发工具的软件供应商.
 - [Libraries.io](https://libraries.io/) -开源发现服务.
+- [LoginRadius](https://www.loginradius.com/)  `requires-approval`-身份验证和SSO变得简单.
 - [Mailman 3](https://mailman3.com/) `requires-approval`-分布式团队的邮件列表.
 - [Mailtrap](https://mailtrap.io/) `requires-approval`-伪造的SMTP测试服务器.
 - [Netlify](https://www.netlify.com) `requires-approval`-托管静态网站.
-- [Sourcegraph](https://sourcegraph.com/) -智能源代码透明性.
+- [Sourcegraph](https://sourcegraph.com/) -智能的源代码透明性.
 - [Siteleaf](https://www.siteleaf.com/) -静态网站的CMS.
-- [testmail.app](https://testmail.app/) `requires-approval`-使用无限的邮箱和GraphQL API自动进行端到端电子邮件测试.
+- [testmail.app](https://testmail.app/) `requires-approval`-使用无限的邮箱和GraphQL API自动执行端到端电子邮件测试.
 - [Transloadit](https://transloadit.com/) `requires-approval`-用于文件上传和编码的API.
-- [Zulip](https://zulip.com) `requires-approval`-为分布式团队聊天.
+- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
 
 ## Contributing
 
-请看 [contributor guidelines](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CONTRIBUTING.md) 和 [code of conduct](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CODE-OF-CONDUCT.md) 有关详细信息.
+请参阅 [contributor guidelines](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CONTRIBUTING.md) 和 [code of conduct](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CODE-OF-CONDUCT.md) 有关详细信息.
 
 ## Tags
 
 ### `requires-approval`
 
-尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但还有一些公司需要更多验证. 这些公司都标有“需要批准”标签，表明需要申请程序才能充分利用其开源利益.
+尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但仍有其他公司需要更多验证. 这些公司都标有“ requires-approval”标签，表明需要利用其开源优势的申请流程.
 
 ### `non-commercial`
 

@@ -6,7 +6,7 @@
 
 [![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
 
-&gt;精选的MongoDB资源，库，工具和应用程序精选列表
+&gt;精选的MongoDB资源，库，工具和应用程序精选清单
 
 受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 随时通过以下方式改进此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
@@ -21,17 +21,18 @@
 
  - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
- - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) -有关MongoDB设计模式的系列文章以及每个设计模式的常见用例以及真实示例.
+ - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) -有关MongoDB设计模式的系列文章，以及带有实际示例的每种设计模式的常见用例.
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) -规模101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) -您需要/必须了解的有关索引的所有信息
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
- - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/)  -MongoDB公司提供的高级MongoDB提示和技巧. 工程师
- - [Builder Book](https://builderbook.org/book) -了解如何从头开始构建完整的JavaScript Web应用程序
+ - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/)  -由MongoDB Inc.提供的高级MongoDB提示和技巧. 工程师
+ - [Builder Book](https://builderbook.org) -了解如何从头开始构建完整的JavaScript Web应用程序
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) -基本介绍
+ - [Saas Boilerplate Book](https://builderbook.org/book) -了解如何从头开始构建可用于生产环境的SaaS Web应用
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
@@ -81,11 +82,11 @@
 
 ### Java
  - [Jongo](https://github.com/bguerout/jongo) -在Java中像在Mongo Shell中一样进行查询
- - [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) -JPA for NoSQL数据存储的功能强大且简单
+ - [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) -JPA for NoSQL数据存储的强大功能和简单性
  - [mongo-java-driver](https://github.com/mongodb/mongo-java-driver) -官方Java驱动程序
  - [mongo-queue-java](https://github.com/yonderblue/mongo-queue-java) -MongoDB之上的Java消息队列
  - [mongoFS](https://github.com/dbuschman7/mongoFS) -GridFS的增强，以允许更多的特性和功能
- - [Mongojack](https://github.com/mongojack/mongojack) -基于Jackson，可让您轻松将mongo对象作为POJO处理
+ - [Mongojack](https://github.com/mongojack/mongojack) -基于Jackson，可让您轻松将mongo对象作为POJO进行处理
  - [Morphia](https://github.com/MorphiaOrg/morphia) -Java ODM
  - [Morphium](https://github.com/sboesebeck/morphium) -Java ODM和缓存层
  - [Mungbean](https://github.com/jannehietamaki/mungbean) -JVM上运行的语言的社区驱动程序
@@ -93,7 +94,7 @@
 
 ### JavaScript
  - [Camo](https://github.com/scottwrobinson/camo) -用于类Mongo的数据库的基于类的ES6 ODM
- - [DeriveJS](https://github.com/yuval-a/derivejs) -使用Javascript代理实现透明数据库持久性的反应式ODM
+ - [DeriveJS](https://github.com/yuval-a/derivejs) -使用Javascript代理实现透明DB持久性的反应式ODM
  - [MEAN.JS](https://github.com/meanjs/mean) -基于MongoDB，Express，AngularJS和Node.js的完整堆栈
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) -基于MongoDB，Express，React和Node.js的完整堆栈
  - [Meteor](https://github.com/meteor/meteor) -基于MongoDB的实时/响应式客户端-服务器框架，具有许多功能
@@ -121,11 +122,11 @@
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) -围绕本机PHP Mongo PECL扩展的包装程序，以提供其他功能
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) -建立在laravel-mongodb之上的存储库实现
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) -Laravel雄辩的模型和查询生成器
- - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) -仓库实施
+ - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) -储存库实施
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) -基于PHP Mongo PECL扩展的ODM
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) -基于PHPMongo ODM的迁移工具
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) -官方PHP驱动程序
- - [yadm](https://github.com/formapro/yadm) -快速无模式ODM
+ - [yadm](https://github.com/formapro/yadm) -快速的无模式ODM
 
 ### Python
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) -Flask扩展，为Flask添加了PyMongo支持
@@ -139,7 +140,7 @@
  - [μMongo](https://github.com/Scille/umongo) -基于棉花糖的独立于驱动程序的（异步/同步）ODM
 
 ### R
- - [mongolite](https://github.com/jeroen/mongolite) -R的快速简单客户端
+ - [mongolite](https://github.com/jeroen/mongolite) -快速简单的R客户端
 
 ### Ruby
  - [awesome_explain](https://github.com/sandboxws/awesome_explain) -解释Mongoid查询的简单全局方法
@@ -157,7 +158,7 @@
 ## Tools
 ### Administration
  - [mongoctl](https://github.com/mongolab/mongoctl) -使用JSON配置管理MongoDB服务器和副本集
- - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) -生成随机数据集并设置基准
+ - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) -生成随机数据集并对您的设置进行基准测试
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) -三种精巧的Python脚本可用于集合和索引
  - [mtools](https://github.com/rueckstiess/mtools) -收集脚本以设置测试环境并可视化日志文件
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) -用于从GridFS提供文件的Nginx模块
@@ -177,7 +178,7 @@ Services:
  - [mongo-connector](https://github.com/yougov/mongo-connector) -流复制到Elasticsearch，Solr或MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) -PostgreSQL外部数据包装器
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) -Hadoop连接器
- - [Mongolastic](https://github.com/ozlerhakan/mongolastic) -从MongoDB到Elasticsearch的迁移工具（反之亦然）
+ - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) -多原版复制
 
 ### Deployment
@@ -194,7 +195,7 @@ Services:
  - [Mongotron](http://mongotron.io/) -使用Electron构建的跨平台和开源客户端
  - [NoSQLBooster](https://nosqlbooster.com) -功能丰富但易于使用的跨平台IDE（以前为MongoBooster）
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) -跨平台，自托管且易于使用的管理工具（以前为Mongoclient）
- - [QueryAssist](https://queryassist.com) -强大的现代GUI工具，跨平台且易于使用
+ - [QueryAssist](https://queryassist.com) -现代化且功能强大的GUI工具，跨平台且易于使用
  - [Robo 3T](https://github.com/Studio3T/robomongo) -免费的，本机且跨平台的以外壳为中心的GUI（以前称为Robomongo）
  - [Studio 3T](https://studio3t.com/) -跨平台的GUI，稳定而强大（以前为MongoChef）
  - [TablePlus](https://tableplus.com/) -macOS上的本机轻量级GUI
@@ -231,7 +232,7 @@ Services:
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) -MongoDB Shell增强功能
 
 ### Web
- - [adminMongo](https://github.com/mrvautin/adminMongo) -基于Web的用户界面来处理连接和数据库需求
+ - [adminMongo](https://github.com/mrvautin/adminMongo) -基于Web的用户界面，可处理连接和数据库需求
  - [mongo-express](https://github.com/mongo-express/mongo-express) -使用Express构建的基于Web的管理界面
  - [mongoadmin](https://github.com/thomasst/mongoadmin) -使用Django构建的管理界面
  - [Mongoku](https://github.com/huggingface/Mongoku) -Web的MongoDB客户端

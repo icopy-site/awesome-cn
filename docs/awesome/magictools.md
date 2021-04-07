@@ -71,7 +71,7 @@ Graphics
 * ：自由： [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 *： 然后： [Pngyu](http://nukesaq88.github.io/Pngyu/) -简单的PNG图像文件压缩工具.
 *： 然后： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)  — Mac和Windows. 与“另存为网络”的比较
-*：money_with_wings： [TinyPNG](https://tinypng.com/) -用于PNG图像的高级有损压缩，可保留完整的alpha透明度.
+*：money_with_wings： [TinyPNG](https://tinypng.com/) -用于PNG图像的高级有损压缩，可保留完整的Alpha透明度.
 
 #### Texture Tools
 
@@ -120,7 +120,7 @@ Graphics
 * ：自由： [project one](http://p1.untergrund.net)  -Commodore 64的图片转换器和编辑器，涵盖了此计算机的不同图形模式. 仅Windows
 * ：钱袋子： [PXL8](http://www.pxl8.it) -正在开发的跨平台（Windows，Mac，Linux）像素艺术编辑器，旨在消除干扰
 * ：钱袋子： [PyxelEdit](http://pyxeledit.com/) -像素艺术编辑器旨在使制作图集，关卡和动画变得轻松有趣.
-* ：自由： [REXPaint](https://www.gridsagegames.com/rexpaint/) -功能强大且用户友好的ASCII艺术编辑器.
+* ：自由： [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 *： 然后： [rx](https://rx.cloudhead.io/) -现代简约的像素编辑器
 * ：自由： [Tilemancer](https://led.itch.io/tilemancer) -专为像素艺术游戏设计的快速程序创建器.
 * ：自由： [Timanthes](http://csdb.dk/release/?id=75871) -Windows上运行的Commodore 64计算机的像素艺术编辑器
@@ -230,7 +230,7 @@ Code
 *： 然后： [iio.js](https://github.com/iioinc/iio.js) -一个JavaScript库，可加快HTML5 Canvas应用程序的创建和部署
 *： 然后： [ImpactJS](http://impactjs.com/) -Impact是一个JavaScript游戏引擎，可让您为台式机和移动浏览器开发出色的HTML5游戏.
 * ：自由： [Inform7](http://inform7.com/) -基于自然语言的交互式小说设计系统.
-*： 然后： [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
+*： 然后： [Ink](http://www.inklestudios.com/ink/) -用于编写交互式叙述的脚本语言.
 *： 然后： [Irrlicht](http://irrlicht.sourceforge.net/) -用C ++编写的开源高性能实时3D引擎.
 *： 然后： [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *： 然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) -面向冒险的Java开发人员的3D开源游戏引擎.
@@ -252,6 +252,7 @@ Code
 *： 然后： [LÖVE](http://love2d.org) -Lua 2D游戏引擎.
 *： 然后： [MINX](https://github.com/GearChicken/MINX) -用C ++编写的开源2D游戏框架（具有XNA的风格）
 *： 然后： [MOAI](http://getmoai.com/) -跨平台框架，旨在为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
+*： 然后： [macrosquad](https://github.com/not-fl3/macroquad) -Rust中的跨平台游戏引擎.
 *： 然后： [Magnum](http://magnum.graphics/) -用C ++ 11编写的轻量级模块化2D / 3D图形/游戏引擎
 *： 然后： [Matter.js](http://brm.io/matter-js/) -Web的2D物理引擎.
 *： 然后： [MelonJS](http://melonjs.org) -开源的轻量级HTML5游戏引擎.
