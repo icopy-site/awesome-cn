@@ -71,6 +71,7 @@
 - [Pitivi](http://www.pitivi.org/) -美丽而强大的视频编辑器.
 - [Podcasts](https://wiki.gnome.org/Apps/Podcasts) -听您喜欢的播客.
 - [Spot](https://github.com/xou816/spot) -Spotify客户端.
+- [Clapper](https://github.com/Rafostar/clapper) -简单现代的媒体播放器.
 
 ### Graphics
 

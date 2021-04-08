@@ -33,7 +33,7 @@ Material-UI设计的官方项目和资源.
 
 ## Theming
 
-这些实用程序可以帮助您自定义主题以及在浏览器中进行更改的功能.
+这里有一些实用程序，可以帮助您自定义主题以及在浏览器中进行更改的功能.
 
 - [Create Material-UI Theme](https://github.com/react-theming/create-mui-theme) -通过Material Design Color Tool创建Material-UI主题的在线工具.
 - [Material-UI Theme Generator](https://cimdalli.github.io/mui-theme-generator/) -Material-UI主题/调色板生成器.
@@ -69,7 +69,7 @@ Material-UI设计项目系列.
 - [Material-UI Image](https://mui.wertarbyte.com/#material-ui-image) -具有加载动画的材质样式图像.
 - [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) -用于Material-UI的平面设计分页组件.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) -Material-UI的调度程序/日历组件.
-- [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) -Material-UI的图表，使用各种系列类型（包括条形，线条，面积，散点图，饼图等）可视化数据.
+- [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) -Material-UI的图表，可使用各种系列类型（包括条形，线形，面积，散点图，饼图等）可视化数据.
 - [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) -扩展的Material-UI卡组件，以显示Medium博客.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) -扩展的Material-UI卡组件，以显示GitHub存储库.
 - [React molecule-components](https://github.com/alexandre-lelain/components-extra) -根据Material-UI反应分子成分.
@@ -79,10 +79,10 @@ Material-UI设计项目系列.
 
 使用Material-UI设计构建的成熟应用程序列表.
 
-- [bethesda.net](https://bethesda.net/) -Bethesda的官方网站，Fallout，DOOM，Dishonored，Skyrim，Wolfenstein，The Elder Scrolls的发行者，等等.
+- [bethesda.net](https://bethesda.net/) -Bethesda的官方网站，《 Fallout》，《 DOOM》，《耻辱》，《天际》，《德军总部》，《上古卷轴》的发行商等等.
 - [NEO Tracker](https://neotracker.io/) -NEO区块链资源管理器和钱包.
 - [TagSpaces](https://www.tagspaces.org/) -离线，开源的文件管理器.
-- [Builder Book](https://builderbook.org/) -开源Web应用程序，用于编写和托管文档或出售书籍.
+- [Builder Book](https://builderbook.org/) -教您如何构建全栈，可用于生产环境的Web应用程序的书籍.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) -开源Web应用程序，可让您搜索npm注册表并浏览软件包的详细信息.
 - [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) -一个在线应用程序，用于生成部署无服务器堆栈所需的AWS IAM权限.
 
@@ -94,6 +94,7 @@ Material-UI设计项目系列.
 - [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) -使用Material-UI表单提交示例轻松创建React App.
 - [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) -用于React和Material-UI的入门工具包.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) -使用Material-UI的Gatsby入门模板.
+- [saas](https://github.com/async-labs/saas)  -用于构建自己的SaaS产品的样板； 使用TypeScript，React，Express，Material-UI构建.
 
 ## Contributing
 

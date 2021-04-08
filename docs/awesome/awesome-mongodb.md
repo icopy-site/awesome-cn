@@ -32,7 +32,7 @@
  - [Builder Book](https://builderbook.org) -了解如何从头开始构建完整的JavaScript Web应用程序
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) -基本介绍
- - [Saas Boilerplate Book](https://builderbook.org/book) -了解如何从头开始构建可用于生产环境的SaaS Web应用
+ - [SaaS Boilerplate Book](https://builderbook.org/book) -了解如何从头开始构建可用于生产环境的SaaS Web应用
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']

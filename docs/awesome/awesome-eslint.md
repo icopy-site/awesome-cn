@@ -83,7 +83,7 @@
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) -将功能或模块标记为已弃用，并在使用时获得棉绒消息.
 - [deprecation](https://github.com/gund/eslint-plugin-deprecation) -确定使用
   jsdoc`@ deprecated`函数.
-- [disable](https://github.com/mradionov/eslint-plugin-disable) -使用文件路径模式和内联注释禁用指定的插件.
+- [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
 
 ### Embedded
 
@@ -150,6 +150,7 @@
 
 - [Diff](https://github.com/paleite/eslint-plugin-diff)  -仅在更改的行上运行ESLint. 还支持CI！
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) -有关ESLint指令注释的最佳做法（`/ * eslint-disable * /`等）.
+- [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) -在评论中加强良好的写作风格.
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) -为.eslintrc.js文件提供`defineConfig`函数.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) -用于整理ESLint插件的ESLint插件.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  -杂项规则.
@@ -169,7 +170,7 @@
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) -ESLint规则可禁用突变并在JavaScript和TypeScript中提升fp.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) -禁用JavaScript中的所有变异.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
-- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) -通过报告将“ this”与“ bind”一起使用或在构造函数中设置状态来鼓励使用类属性.
+- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) -通过报告将this与`bind`一起使用或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -现在是2019年，您仍然使用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
@@ -220,7 +221,7 @@
 - 是
   - [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) -嘲笑的规则.
   - [Enforcing consistent formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) -开玩笑的格式设置规则.
-  - [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
+  - [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) -开玩笑的异步整理规则.
   - [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) -为Jest-DOM整理规则.
 - Mocha
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) -上等摩卡规则.

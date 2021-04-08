@@ -45,7 +45,7 @@
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) -我去为刚接触测试的人预定书.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) -如何为希望过渡到敏捷测试人员的人员提供指导，以及作者在其敏捷团队中的工作方式.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) -一本关于构造探索性测试和设计测试的非常好的书.
-- [The Domain Testing Workbook](https://amzn.to/2Az4l90) -深入研究当今使用的最常见的测试技术，即域测试（也称为边界分析和等效类划分），并通过许多示例使其变得更好.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) -深入研究当今使用的最常见的测试技术，即域测试（也称为边界分析和等效类划分），其中包括许多示例，这些示例将变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) -一本关于可用性测试的非常有用的书.
 - [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) -关于软件测试的最好的书之一，分成几小节课，这些课现在与出版时一样适用.
 - [UI is Communication](https://amzn.to/2vbiALY) -如何制作直观的用户界面（UI和可用性测试）.
@@ -65,6 +65,7 @@
 - [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
+- [Automation Panda](https://automationpanda.com/)
 
 ## Newsletters
 - [Software Testing Weekly](https://softwaretestingweekly.com/) -精选每个星期五发布的最佳软件测试新闻和工具的摘要.

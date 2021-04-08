@@ -17,16 +17,17 @@
 - [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) -如何编写跨平台的Node.js代码.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) -在Microsoft平台上使用Node.js的提示，技巧和资源.
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) -出色的教程，涵盖了编写跨平台代码时出现的许多常见问题：路径创建，脚本执行，换行符.
+- [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) -适用于大多数终端和大多数操作系统的所有字符.
 
 ## Applications
 
 ### Development environment
 
 - [Node.js](https://nodejs.org/en/download/) -适用于各种平台的Node.js安装程序.
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) -在Windows计算机上管理Node.js的多个安装.
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) -在Windows计算机上管理Node.js的多次安装.
 - [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) -适用于macOS / Linux的节点版本管理器.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) -在Windows上升级npm.
-- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) -使用npm安装Windows的C ++构建工具.
+- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) -使用npm安装适用于Windows的C ++生成工具.
 
 ### Continuous integration
 
@@ -34,11 +35,11 @@
 - [Travis](https://travis-ci.org/)  -Windows / macOS / Linux.  OSS项目免费.
 - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)  -Windows / macOS / Linux. 具有10个并行作业的OSS项目免费.
 - [Github Action](https://github.com/features/actions)  -Windows / macOS / Linux.  GitHub Actions使自动化所有软件工作流程变得容易.
-- [Gitlab CI](https://docs.gitlab.com/ee/ci/)  -Windows / macOS / Linux.  GitLab CI / CD是GitLab内置的用于软件开发的工具.
+- [Gitlab CI](https://docs.gitlab.com/ee/ci/)  -Windows / macOS / Linux.  GitLab CI / CD是内置在GitLab中的用于软件开发的工具.
 
 ### Virtualization
 
-- [ievms](https://github.com/amichaelparker/ievms)  -Microsoft提供的免费虚拟机映像的自动安装程序，用于在多个版本的IE上进行测试. 这些图像对于跨平台测试各种技术很有用，但是请确保您已阅读并理解Microsoft的许可.
+- [ievms](https://github.com/amichaelparker/ievms)  -微软提供的免费虚拟机映像的自动安装程序，用于在多个版本的IE上进行测试. 这些图像对于跨平台测试各种技术很有用，但是请确保您已阅读并理解Microsoft的许可.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) -用于运行x86虚拟机的通用软件.
 - [Docker](https://www.docker.com/) -借助专用工具生态系统，在通用操作系统上创建，部署和管理虚拟化应用程序容器的软件平台.
 
@@ -69,9 +70,9 @@
 - [execa](https://github.com/sindresorhus/execa) -child_process.{execFile，exec}`的跨平台实现.
 - [gulp-execa](https://github.com/ehmicky/gulp-execa) -Gulp.js中的跨平台命令执行.
 - [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) -child_process.spawn（）的跨平台实现.
-- [shelljs](https://github.com/shelljs/shelljs) -跨平台的Unix shell命令.
+- [shelljs](https://github.com/shelljs/shelljs) -跨平台的Unix Shell命令.
 - [node-windows](https://github.com/coreybutler/node-windows) -Windows对Node.js脚本（守护程序，事件日志，UAC等）的支持.
-- [log-symbols](https://github.com/sindresorhus/log-symbols) -Windows后备的各种日志级别的彩色符号.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) -具有Windows后备功能的各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) -具有Windows后备功能的Unicode符号.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) -跨平台复制/粘贴.
 
@@ -87,12 +88,12 @@
 ### Filesystem
 
 - [rimraf](https://github.com/isaacs/rimraf) / [del](https://github.com/sindresorhus/del)  -删除文件和文件夹. 跨平台.
-- [make-dir](https://github.com/sindresorhus/make-dir) -跨平台的`mkdir -p`.
+- [make-dir](https://github.com/sindresorhus/make-dir) -跨平台的“ mkdir -p”.
 - [readdirp](https://github.com/paulmillr/readdirp) -fs.readdir（）的递归版本.
 - [cpy](https://github.com/sindresorhus/cpy)  -复制文件. 跨平台.
 - [chokidar](https://github.com/paulmillr/chokidar) -改进了跨平台文件观看.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -改进了fs模块，尤其是在Windows上.
-- [fs-extra](https://github.com/jprichardson/node-fs-extra) -将`graceful-fs`与更好的JSON文件读取和Promise相结合.
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) -将`graceful-fs`与更好的JSON文件读取和Promise结合在一起.
 - [any-path](https://github.com/bcoe/any-path) -从对象获取值时，请交替使用Windows和POSIX路径.
 - [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) -跨平台`/ dev / null`.
 
@@ -126,7 +127,7 @@
 
 - [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) -默认情况下，“ cmd.exe”在Windows上不显示Unicode字符.
 - [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) -Windows和Linux之间的`child_process.spawn（）`行为不一致.
-- [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) -根据所使用的shell，例如bash vs. dash，`child_process.exec（）`具有不一致的退出行为.
+- [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) -根据所使用的外壳，例如bash与破折号，`child_process.exec（）`具有不一致的退出行为.
 
 ## See also
 
@@ -137,7 +138,7 @@
 如果您发现错误或想添加更多信息，请_不要犹豫
 [submit an issue on GitHub](https://github.com/bcoe/awesome-cross-platform-nodejs/blob/master/../../issues).
 
-不论个人背景，欢迎大家. 我们强制执行
+不论个人背景，欢迎每个人. 我们强制执行
 [Code of conduct](https://github.com/bcoe/awesome-cross-platform-nodejs/blob/master/CODE_OF_CONDUCT.md) 为了促进积极和
 包容的环境.
 
@@ -146,7 +147,7 @@
 这个项目是用❤️完成的. 回馈的最简单方法是通过加注星标和
 在线共享.
 
-如果文档不清楚或有错字，请单击页面的“编辑”.
+If the documentation is unclear or has a typo, please click on the page's `Edit`
 按钮（铅笔图标）并建议更正.
 
 如果您想帮助我们解决错误或添加更多信息，请检查
@@ -156,11 +157,11 @@ our [guidelines](https://github.com/bcoe/awesome-cross-platform-nodejs/blob/mast
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://twitter.com/benjamincoe"><img src="https://avatars3.githubusercontent.com/u/194609?v=4" width="100px;" alt="Benjamin E. Coe"/><br /><sub><b>Benjamin E. Coe</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Code">💻</a> <a href="#ideas-bcoe" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Documentation">📖</a></td><td align="center"><a href="https://twitter.com/ehmicky"><img src="https://avatars2.githubusercontent.com/u/8136211?v=4" width="100px;" alt="ehmicky"/><br /><sub><b>ehmicky</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Code">💻</a> <a href="#ideas-ehmicky" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Documentation">📖</a></td><td align="center"><a href="https://sindresorhus.com"><img src="https://avatars1.githubusercontent.com/u/170270?v=4" width="100px;" alt="Sindre Sorhus"/><br /><sub><b>Sindre Sorhus</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Code">💻</a> <a href="#ideas-sindresorhus" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Documentation">📖</a></td><td align="center"><a href="https://fb.com/RemoveU"><img src="https://avatars1.githubusercontent.com/u/19208123?v=4" width="100px;" alt="Hongarc"/><br /><sub><b>Hongarc</b></sub></a><br /><a href="#design-Hongarc" title="Design">🎨</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Hongarc" title="Documentation">📖</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Hongarc" title="Code">💻</a></td><td align="center"><a href="https://kentcdodds.com"><img src="https://avatars0.githubusercontent.com/u/1500684?v=4" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#ideas-kentcdodds" title="Ideas, Planning, & Feedback">🤔</a></td><td align="center"><a href="https://nz.linkedin.com/in/jsonc11"><img src="https://avatars0.githubusercontent.com/u/5185660?v=4" width="100px;" alt="Jason Cooke"/><br /><sub>杰森·库克（Jason Cooke）</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Jason-Cooke" title="文献资料"></a></td><td align="center"><img src="https://avatars0.githubusercontent.com/u/3322693?v=4" width="100px;" alt="Aron Hafner"/><br /><sub>阿伦·哈夫纳</sub><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=alonalon" title="文献资料"></a></td></tr><tr><td align="center"><img src="https://avatars0.githubusercontent.com/u/43875468?v=4" width="100px;" alt="ShPelles"/><br /><sub>洞穴</sub><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ShPelles" title="文献资料"></a></td><td align="center"><img src="https://avatars1.githubusercontent.com/u/1182395?v=4" width="100px;" alt="Xiaodan Mao"/><br /><sub><b>Xiaodan Mao</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Frederick-S" title="Documentation"></a></td><td align="center"><a href="https://raw.githubusercontent.com/jamestalmage"><img src="https://avatars0.githubusercontent.com/u/4082216?v=4" width="100px;" alt="James Talmage"/><br /><sub>詹姆斯·塔尔玛奇</sub><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=jamestalmage" title="文献资料"></a></td><td align="center"><img src="https://avatars3.githubusercontent.com/u/3357643?v=4" width="100px;" alt="Sylvain PONTOREAU"/><br /><sub>西尔万·庞托</sub><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=spontoreau" title="文献资料"></a></td><td align="center"><img src="https://avatars1.githubusercontent.com/u/229881?v=4" width="100px;" alt="Steven"/><br /><sub><b>Steven</b></sub></a><br /><a href="#ideas-styfle" title="Ideas, Planning, & Feedback">🤔</a></td></tr></table>
+<table><tr><td align="center"><a href="https://twitter.com/benjamincoe"><img src="https://avatars3.githubusercontent.com/u/194609?v=4" width="100px;" alt="Benjamin E. Coe"/><br /><sub><b>Benjamin E. Coe</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Code">💻</a> <a href="#ideas-bcoe" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Documentation">📖</a></td><td align="center"><a href="https://twitter.com/ehmicky"><img src="https://avatars2.githubusercontent.com/u/8136211?v=4" width="100px;" alt="ehmicky"/><br /><sub><b>ehmicky</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Code">💻</a> <a href="#ideas-ehmicky" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Documentation">📖</a></td><td align="center"><a href="https://sindresorhus.com"><img src="https://avatars1.githubusercontent.com/u/170270?v=4" width="100px;" alt="Sindre Sorhus"/><br /><sub><b>Sindre Sorhus</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Code">💻</a> <a href="#ideas-sindresorhus" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Documentation">📖</a></td><td align="center"><a href="https://fb.com/RemoveU"><img src="https://avatars1.githubusercontent.com/u/19208123?v=4" width="100px;" alt="Hongarc"/><br /><sub><b>Hongarc</b></sub></a><br /><a href="#design-Hongarc" title="Design">🎨</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Hongarc" title="Documentation">📖</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Hongarc" title="Code">💻</a></td><td align="center"><a href="https://kentcdodds.com"><img src="https://avatars0.githubusercontent.com/u/1500684?v=4" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#ideas-kentcdodds" title="Ideas, Planning, & Feedback">🤔</a></td><td align="center"><a href="https://nz.linkedin.com/in/jsonc11"><img src="https://avatars0.githubusercontent.com/u/5185660?v=4" width="100px;" alt="Jason Cooke"/><br /><sub>杰森·库克（Jason Cooke）</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Jason-Cooke" title="文献资料"></a></td><td align="center"><img src="https://avatars0.githubusercontent.com/u/3322693?v=4" width="100px;" alt="Aron Hafner"/><br /><sub>阿伦·哈夫纳（Aron Hafner）</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=alonalon" title="文献资料"></a></td></tr><tr><td align="center"><img src="https://avatars0.githubusercontent.com/u/43875468?v=4" width="100px;" alt="ShPelles"/><br /> <sub>ShPelles</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ShPelles" title="文献资料"></a></td><td align="center"><img src="https://avatars1.githubusercontent.com/u/1182395?v=4" width="100px;" alt="Xiaodan Mao"/><br /><sub><b>Xiaodan Mao</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Frederick-S" title="Documentation"></a></td><td align="center"><a href="https://raw.githubusercontent.com/jamestalmage"><img src="https://avatars0.githubusercontent.com/u/4082216?v=4" width="100px;" alt="James Talmage"/><br /><sub>詹姆士·塔尔玛奇（James Talmage）</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=jamestalmage" title="文献资料"></a></td><td align="center"><img src="https://avatars3.githubusercontent.com/u/3357643?v=4" width="100px;" alt="Sylvain PONTOREAU"/><br /><sub>西尔万·庞托（Sylvain PONTOREAU）</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=spontoreau" title="文献资料"></a></td><td align="center"><img src="https://avatars1.githubusercontent.com/u/229881?v=4" width="100px;" alt="Steven"/><br /><sub><b>Steven</b></sub></a><br /><a href="#ideas-styfle" title="Ideas, Planning, & Feedback">🤔</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-该项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规范.
+该项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规格.
 
 ## License
 

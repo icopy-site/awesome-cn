@@ -205,7 +205,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) -将Twitter，YouTube，Instagram和Google Maps请求重定向到对隐私友好的替代方案.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) -可将Twitter，YouTube链接到Nitter，Invidious并委托给另一个应用程序的应用程序.
 - [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FreeTubeApp/FreeTube) -适用于Windows，MacOS和Linux的专用YouTube客户端.
-- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamNewPipe/NewPipe) -适用于Android的免费轻量级YouTube替代流.
+- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamNewPipe/NewPipe) -适用于Android的免费的轻量级YouTube流媒体替代方案.
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) -浏览器扩展程序可以保留在“最新推文”时间轴上，减少“参与度”，降低UI强度.
 - [Barinsta](https://barinsta.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/austinhuang0131/barinsta) -适用于Android的自由，替代和轻量级的Instagram客户端.
 - [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) -电子应用程序，以确保您的社交媒体帐户仅显示您最近的历史记录中的帖子.
@@ -214,6 +214,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) -用Rust编写的私有Reddit前端.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) -一种自动将YouTube频道镜像到PeerTube频道的机器人.
 - [Watomatic](https://github.com/adeekshith/watomatic) -自动回复WhatsApp，因此您可以停止使用它.
+- [Lingva Translate](https://lingva.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TheDavidDelta/lingva-translate) -Google翻译的另一种前端.
 
 ## Freedom
 
@@ -267,7 +268,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [FitoTrack <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/jannis/FitoTrack) -面向隐私的Android健身追踪器，用于记录和查看您的锻炼情况.
 - [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OpenTracksApp/OpenTracks) -完全尊重您的隐私的运动跟踪应用程序.
 - [Winddown](https://github.com/schneefux/vscode-winddown)  -编写代码并保持健康. 鼓励您休息的VS Code扩展.
-- [dijo](https://github.com/NerdyPepper/dijo) -在终端中运行的可编写脚本的习惯跟踪器.
+- [dijo](https://github.com/NerdyPepper/dijo) -在您的终端上运行的可编写脚本的习惯跟踪器.
 - [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/goldencheetah/goldencheetah) -面向骑自行车者，跑步者和铁人三项运动员的性能软件，可从许多设备上读取信息.
 - [gammastep](https://gitlab.com/chinstrap/gammastep) -Linux工具，可根据环境调整屏幕的色温.
 

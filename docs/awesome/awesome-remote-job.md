@@ -143,6 +143,7 @@
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) -位置过滤器-&gt; *远程*
   1. [Daily Remote](https://dailyremote.com) 筛选并查找每个角色的远程作业！
+  1. [Diversify Tech](https://www.diversifytech.co/job-board) -公司在多元化和包容性工作方面保持透明 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Find Bacon](https://findbacon.com) -设计和开发工作
@@ -165,7 +166,6 @@
   1. [Larajobs](https://larajobs.com/?location=&remote=1) –工匠就业联系
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) –过滤器-&gt;“ *远程*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
-  1. [Nonprofit Remote](https://nonprofitremote.com/) -远程工作者，志愿者和非营利组织连接的地方.
   1. [Power to Fly](https://powertofly.com/jobs/) -特定于女性
   1. [Remote Game Jobs](https://remotegamejobs.com/) -寻找游戏行业中的远程工作和人才.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) -仓库上市公司，提供西班牙合同的全职远程工作
@@ -199,7 +199,7 @@
   1. [Meerkad](https://meerkad.com/) -由来自最流行的远程工作委员会，公司网站，Facebook组，Twitter搜索，Reddit，StackOverflow，HackerNews，Dribbble，Behance以及许多其他项目的社区工作精心挑选和策划  
   1. [Remote.io](https://www.remote.io/) -远程工作（主要是技术）的工作板和聚集器.
   1. [Remote 4 Me](https://remote4me.com/) -从事技术和非技术领域远程工作的聚合器.
-  1. [Remote Leaf](https://remoteleaf.com) -从40多个远程工作委员会，1500多个公司职业页面，Twitter提要，Linkedin，Reddit，Hacker News Hiring手工挑选的远程工作，并仅发送适用于您的职位.
+  1. [Remote Leaf](https://remoteleaf.com) -从40多个远程工作委员会，1500多个公司职业页面，Twitter提要，Linkedin，Reddit，Hacker News Hiring手工挑选的远程工作，仅发送适用于您的职位.
   1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Theo](https://theojobs.com/) -所有远程设计工作，一处.
@@ -217,11 +217,11 @@
   1. [Coworking in the Sun](https://www.coworkinginthesun.com/) -西班牙特内里费岛的集体办公空间
   1. [Hive Arena](https://hivearena.com/coworking/) -韩国首尔的共享办公空间
   1. [HubBOG](https://hubbog.com/)  -协同工作空间+启动加速器. 哥伦比亚波哥大
-  1. [Mokrin House](https://www.mokrinhouse.com/) -塞尔维亚农村地区的集体办公空间
+  1. [Mokrin House](https://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
   1. [Nest Copenhagen](https://nestcopenhagen.dk/) -丹麦哥本哈根的集体空间
   1. [NoHatDigital](https://www.nohatdigital.com/mansionpage/) -在墨西哥收集空间
   1. [Nomad House](https://nomadhouse.io) -全球游牧住房网络
-  1. [Roam](https://www.roam.co/) - Global network of coliving spaces
+  1. [Roam](https://www.roam.co/) -大肠杆菌空间的全球网络
   1. [Sende](https://sende.co/) -西班牙北部的集体办公空间
   1. [Sun Desk](https://www.sun-desk.com/) -摩洛哥Taghazout的集体办公空间
   1. [Talent Garden](https://talentgarden.org/coworking/) -联合办公空间主要在意大利，但在其他一些国家也可以使用
@@ -234,7 +234,7 @@
   1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/)  -从您的州所得税中减去每年用于学生贷款支付的金额. 州外居民必须在2015年之后获得学士学位或副学士学位才能有资格.
   1. [Tulsa Remote](https://tulsaremote.com/) -从塔尔萨（Tulsa）获得10,000美元现金.
   1. [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/)  -每年最多可从佛蒙特州获得$ 5,000的工作津贴. 每个人在该计划的生命周期内不得超过10,000美元.
-  1. [Remote Shoals](https://remoteshoals.com/)  -远程工作？ 从Shoals手中获得10,000美元，以完成您的工作.
+  1. [Remote Shoals](https://remoteshoals.com/)  -远程工作？ 从Shoals手中获得10,000美元，以完成工作.
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) -在编程面试中需要发挥作用的所有内容
@@ -268,7 +268,7 @@
   1. [Free People Move Podcast](https://teleport.org/podcast/) -大多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
-  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，高效，自由放养的工人.
+  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，生产性和自由放养的工人.
   1. [Wide Teams](https://www.wideteams.com/) -每集与远程工作者进行一对一的面谈，了解工作流程和做法
 
 
@@ -347,8 +347,8 @@
   1. [Findify](https://findify.io/)  -由机器学习和大数据支持的电子商务搜索. 团队遍布欧洲.
   1. [General Assembly](https://generalassemb.ly/careers) -针对技术，商业和设计的体育和在线教育.
   1. [Ghost](https://ghost.org/about/#careers) -发布平台.
-  1. [Giant Swarm](https://www.giantswarm.io/careers) -Giant Swarm的托管微服务基础架构使企业能够大规模运行敏捷，有弹性的分布式系统，同时消除与管理复杂的基础架构相关的任务
-  1. [Gigster](https://gigster.com/)  -审查了全球前5％自由职业者的网络. 下午，开发，销售职位可用.
+  1. [Giant Swarm](https://www.giantswarm.io/careers) -Giant Swarm的托管微服务基础架构使企业能够大规模运行敏捷，灵活，分布式的系统，同时消除与管理复杂基础基础架构有关的任务
+  1. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
   1. [Gitbook](https://jobs.gitbook.com/)  -基于git发布工具链.  JavaScript，node.js，Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) -GitHub的竞争对手.
@@ -382,7 +382,7 @@
   1. [journy.io](https://angel.co/company/journy-io/jobs) -客户数据平台.
   1. [Judge.me](https://judge.me/)  -电子商务审查平台. 我们的公司遍布四大洲.
   1. [Keepsafe](https://www.getkeepsafe.com) -移动优先的隐私产品，使世界更容易选择隐私.
-  1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
+  1. [Khan Academy](https://www.khanacademy.org/careers)  -EdTech. 专注于K-12 STEM的非营利组织. 更少，React，Flux，Backbone，jQuery，Python，Google App Engine，Swift和Objective-C.
   1. [Knack](https://www.knack.com/jobs)  -方便的在线数据库，可帮助客户简化业务流程并自动化工作流程. 该产品是DIY，无代码/低代码. 该公司是100％偏远地区.
   1. [LaterPay](https://www.laterpay.net/)  -（微）付款支持器. 德国慕尼黑.  Python，JavaScript，AWS.
   1. [LaunchPotato](https://launchpotato.com/careers) -位于佛罗里达州德拉海滩的创业工作室.
@@ -534,7 +534,7 @@
   1. [Fleep](https://fleep.io/) -开发团队的内部聊天和协作工具
   1. [Floobits](https://floobits.com)  -带有屏幕共享的远程配对编程. 与Sublime，IntelliJ，Atom等集成
   1. [Flowdock](https://www.flowdock.com/)  –基于浏览器的团队聊天. 与GitHub，Jira，Jenkins等集成
-  1. [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
+  1. [Gather](https://gather.town/) -Gather是一个视频通话空间，可让多个人并行进行单独的对话，就像在现实生活中一样轻松地进出这些对话.
   1. [IRCCloud](https://www.irccloud.com) –具有永久存储的基于浏览器的IRC客户端.
   1. [Jitsi](https://jitsi.org) -多平台开源视频会议
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是分布式团队的在线开源工作场所.
@@ -546,7 +546,7 @@
   1. [Skype](https://www.skype.com/) –视频通话.
   1. [Slack](https://slack.com/) –具有大量集成选项的文本，语音和视频聊天系统，包括 [ScreenHero](https://screenhero.com)，一种实时的高清屏幕共享系统，可进行团队协作
   1. [Talky](https://talky.io/) -群组的真正简单的视频聊天和屏幕共享
-  1. [TeamHub](https://teamhub.app/) -直接在IDE内部实时报告状态和进度
+  1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
   1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) —沉浸式视频通话的提示
   1. [Twist](https://twist.com/) —一个交流平台，长时间的讨论和随意的消息传递和谐相处.
   1. [Whereby](https://whereby.com) –基于浏览器的无插件群组视频通话.
