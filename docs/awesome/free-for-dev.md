@@ -134,7 +134,7 @@
   * [Cloudmersive](https://cloudmersive.com/) — Utility API平台，可完全访问扩展的API库，包括文档转换，病毒扫描等，每月可调用800次.
   * [Colaboratory](https://colab.research.google.com) —带有Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [Collect2](https://collect2.com)  —创建一个API端点以测试，自动化和连接Webhook. 免费计划允许两个数据集，2000条记录，1个转发器和1个警报.
-  * [Conversion Tools](https://conversiontools.io/) - Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and number of conversions per day.
+  * [Conversion Tools](https://conversiontools.io/)  -用于文件，图像，视频，音频，电子书的在线文件转换器.  REST API可用. 适用于Node.js，PHP，Python的库. 支持文件最大为50 GB（用于付费计划）. 免费套餐受文件大小和每天的转换次数限制.
   * [CurlHub](https://curlhub.io)  —用于检查和调试API调用的代理服务. 免费计划包括每月10,000个请求.
   * [CurrencyScoop](https://currencyscoop.com)  -金融科技应用程序的实时货币数据API. 免费计划包括每月5000次通话.
   * [Datapane](https://datapane.com) -用于在Python中构建交互式报表以及将Python脚本和Jupyter Notebook作为自助工具部署的API.
@@ -199,7 +199,7 @@
   * [Unixtime](https://unixtime.co.za) -免费的API，可将Unixtime转换为DateTime，反之亦然.
   * [Vattly](https://vattly.com/)  -高可用性，快速和安全的VAT验证API，可提供完整的欧盟覆盖范围. 每天10次免费API调用.
   * [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
-  * [wit.ai](https://wit.ai/) —适用于开发人员的NLP.
+  * [wit.ai](https://wit.ai/) — NLP for developers.
   * [wolfram.com](http://wolfram.com/language/) —在云中内置基于知识的算法.
   * [wrapapi.com](https://wrapapi.com/)  —将任何网站转换为参数化的API. 每月30k API调用.
   * [Zenscrape](https://zenscrape.com/web-scraping-api)  —具有无头浏览器，住宅IP和简单定价的Web抓取API. 每月1000次免费API调用，为学生和非营利组织提供额外的免费信用.
@@ -244,7 +244,7 @@
   * [Miro](https://miro.com/)  -适用于分布式团队的可扩展，安全，跨设备和企业就绪的团队协作白板. 有免费增值计划.
   * [Notion](https://www.notion.so/)  -概念是一个记笔记和协作应用程序，具有降价支持，还集成了任务，Wiki和数据库. 该公司将该应用程序描述为一个多功能的工作空间，用于记笔记，项目管理和任务管理. 除了跨平台应用程序之外，还可以通过大多数Web浏览器进行访问.
   * [Nuclino](https://www.nuclino.com)  -一个轻量级的协作式Wiki，适用于您团队的所有知识，文档和注释. 免费计划，具有所有基本功能，最多50个项目，总存储空间为5GB.
-  * [Pendulums](https://pendulums.io/) - Pendulums is a free time tracking tool which helps you to manage your time in a better manner with an easy to use interface and useful statistics.
+  * [Pendulums](https://pendulums.io/) -Pendulums是一个免费的时间跟踪工具，可通过易于使用的界面和有用的统计信息帮助您更好地管理时间.
   * [Raindrop.io](https://raindrop.io)  -适用于macOS，Windows，Android，iOS和Web的私有安全书签应用程序. 免费的无限书签和协作.
   * [element.io](https://element.io/)  —基于Matrix的去中心化开放源代码通信工具. 群组聊天，直接消息传递，加密的文件传输，语音和视频聊天，以及与其他服务的轻松集成.
   * [Rocket.Chat](https://rocket.chat/) -团队共享的收件箱，安全，无限且开源.
@@ -268,6 +268,7 @@
   * [shtab.app](https://shtab.app/) -项目管理服务，可在办公室进行协作，并通过基于AI的跟踪器实现远程透明.
   * [Zulip](https://zulip.com/)  —通过独特的类似电子邮件的线程模型进行实时聊天. 免费计划包括10,000条搜索历史记录消息和高达5 GB的文件存储空间. 它还提供了可自我托管的开源版本.
   * [Automate.io](https://automate.io)  -具有200多个应用程序集成的简单和复杂的自动化工作流工具.  300个每月动作和5个机器人程序是免费
+  * [robocorp.com](https://robocorp.com)  -用于为Automation Ops供电的开源堆栈. 试用云功能并免费实施简单的自动化. 机器人工作240分钟/月，运行10次助手，存储100 MB. 
 
 ## CMS
 
@@ -502,7 +503,6 @@
   * [elastic.co](https://www.elastic.co/solutions/apm)  — JS开发人员的即时性能见解. 免费提供24小时数据保留
   * [freeboard.io](https://freeboard.io/)  —公共项目免费. 物联网（IoT）项目的仪表板
   * [freshworks.com](https://www.freshworks.com/website-monitoring/) —每隔1分钟监控50个URL，并免费提供10个全局位置和5个公共状态页面
-  * [ghostinspector.com](https://ghostinspector.com/)  —免费的网站和Web应用程序监视. 单用户，每月100次测试运行
   * [gitential.com](https://gitential.com)  —软件开发分析平台. 免费：无限的公共存储库，无限的用户，私人存储库的免费试用. 适用于企业的本地版本.
   * [Grafana Cloud](https://grafana.com/products/cloud/)  -Grafana Cloud是可组合的可观察性平台，将指标和日志与Grafana集成在一起. 免费：3个用户，10个仪表板，100个警报，Prometheus和Graphite中的指标存储（10,000系列，保留14天），Loki中的日志存储（50 GB日志，保留14天）
   * [healthchecks.io](https://healthchecks.io)  —监视您的cron作业和后台任务. 免费，最多20张支票.
@@ -719,7 +719,7 @@
 
 ## BaaS
 
-  * [ably.com](https://www.ably.com)  -用于实时消息传递，推送通知和事件驱动的API创建的API. 免费计划每月有300万条消息，100个并发连接，100个并发通道.
+  * [ably.com](https://www.ably.com) - APIs for realtime messaging, push notifications, and event-driven API creation. Free plan has 3m messages/mo, 100 concurrent connections, 100 concurrent channels.
   * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
   * [backendless.com](https://backendless.com/) —移动和Web Baas，具有1 GB的可用文件存储空间，每月推送通知50000，表中有1000个数据对象.
   * [blockspring.com](https://www.blockspring.com/)  —云功能. 每月免费运行500万次
@@ -839,7 +839,6 @@
    * [InfluxDB](https://www.influxdata.com/) —时间序列数据库，最多可提供3MB / 5分钟的写入，30MB / 5分钟的读取和10,000个基数序列
    * [Quickmetrics](https://www.quickmetrics.io/) —包含带有仪表板的时间序列数据库，每天最多可释放10,000个事件，并且总共提供5个指标.
    * [restdb.io](https://restdb.io/)  -快速，简单的NoSQL云数据库服务. 使用restdb.io，您可以获得架构，关系，自动REST API（带有类似MongoDB的查询）以及用于处理数据的高效多用户管理UI. 免费计划允许每秒3个用户，2500条记录和1个API请求.
-   * [Unbounded](https://www.unbounded.cloud/)  -使用Javascript作为查询语言的NoSQL DBaaS. 免费套餐永久允许每月每月50,000次读写.
    * [Freedb](https://freedb.tech)  -免费的MySQL云数据库，可通过PhpMyAdmin进行远程访问. 免费套餐允许数据库存储高达100Mb.  **如果超过100Mb的数据库将被删除，而不会发出任何警告.**
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
@@ -927,7 +926,7 @@
    * [easyDB.io](https://easydb.io/)  —一键式托管数据库提供程序. 它们为开发目的提供了您选择的编程语言的数据库. 该数据库是临时数据库，将在24或72小时后在免费层上删除.
    * [embed.ly](https://embed.ly/)  —提供用于将媒体嵌入网页，响应式图像缩放，从网页中提取元素的API. 免费，每月最多5,000个URL，每秒15个请求
    * [filestack.com](https://www.filestack.com/) —文件选择器，转换和交付，可免费使用250个文件，500个转换和3 GB带宽
-   * [gumlet.com](https://www.gumlet.com/)  —图像调整服务. 它还可以优化图像并通过CDN进行传送. 免费套餐包括1 GB带宽，并且在1年中每月都有不限数量的图像处理.
+   * [gumlet.com](https://www.gumlet.com/) — Image resize-as-a-service. It also optimizes images and performs delivery via CDN. Free tier includes 1 GB bandwidth and unlimited number of image processing every month for 1 year.
    * [image-charts.com](https://www.image-charts.com/) —带有水印的无限图像图表生成
    * [jsonbin.io](https://jsonbin.io/) —免费的JSON数据存储服务，非常适合小型Web应用程序，网站，移动应用程序.
    * [kraken.io](https://kraken.io/) —用于网站性能即服务的图像优化，免费计划最大1 MB文件大小
@@ -1202,7 +1201,7 @@
   * [Framacloud](https://degooglisons-internet.org/en/list/) —由法国非营利组织提供的免费/自由开源软件和SaaS列表 [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) —从GitHub检索所有令人惊叹的超赞功能……必看
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) —供开发人员使用的免费和开源软件中心.
-  * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program)  —获得为Microsoft 365平台构建解决方案所需的免费沙盒，工具和其他资源. 订阅为期90天 [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
+  * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program)  —获得为Microsoft 365平台构建解决方案所需的免费沙盒，工具和其他资源. 订阅为期90天 [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5)  （不包括Windows）可更新. 如果您正在开发中（使用遥测数据和算法进行测量），它将进行更新.
   * [RedHat for Developers](https://developers.redhat.com)  —专为开发人员免费访问Red Hat产品，包括RHEL，OpenShift，CodeReady等. 仅个人计划. 还提供免费电子书供参考.
   * [smsreceivefree.com](https://smsreceivefree.com/) —提供免费的临时和一次性电话号码.
   * [simplebackups.io](https://simplebackups.io/)  —直接存储到云存储提供程序（AWS，DigitalOcean，Backblaze ...）中的服务器和数据库（MySQL，PostgreSQL，MongoDB）的备份自动化服务. 提供1个备份的免费计划.

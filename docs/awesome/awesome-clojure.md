@@ -72,7 +72,7 @@
 
 ## Build Automation and Package management
 
-*用于项目构建自动化和包/依赖管理的库.*
+*用于项目构建自动化和程序包/依赖关系管理的库.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
@@ -83,7 +83,7 @@
 
 ## Version Control Management
 
-*用于与VCS软件交互的代码实用工具*
+*用于与VCS软件进行交互的代码实用工具*
 
   * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
@@ -114,7 +114,7 @@
   * [clj-http](https://github.com/dakrone/clj-http) ：Apache HttpComponents客户端包装
   * [http-kit](https://github.com/http-kit/http-kit) ：简单的高性能事件驱动的HTTP客户端和服务器
   * [ring](https://github.com/ring-clojure/ring) ：HTTP服务器抽象
-  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨JVM /节点/浏览器的HTTP的统一异步客户端接口
+  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨JVM / Node /浏览器的HTTP的统一，异步客户端接口
   * [aleph](https://github.com/clj-commons/aleph) ：基于Netty的异步客户端/服务器，默认设置为HTTP，TCP和UDP
 
 ## Database
@@ -203,7 +203,7 @@
 
 ## GraphQL API
 
-*用于开发GraphQL API的库.
+*用于开发GraphQL API的库.*
 
   * [Lacinia](https://lacinia.readthedocs.io/en/latest/)
 
@@ -342,7 +342,7 @@
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
-  * [buran](https://github.com/alekseysotnikov/buran) -RSS / Atom feed的消费者和生产者
+  * [buran](https://github.com/alekseysotnikov/buran) -RSS / Atom提要的消费者和生产者
   
 ## Exceptions and Error Handling
   * [Ex](https://github.com/mpenet/ex)
@@ -363,6 +363,7 @@
 ## Editor Plugins
 
   * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva)
+  * [clojure-lsp (multiple editors)](https://github.com/clojure-lsp/clojure-lsp)
   * [CIDER (Emacs)](https://github.com/clojure-emacs/cider)
   * [smartparens (Emacs)](https://github.com/Fuco1/smartparens)
   * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters)
@@ -460,7 +461,7 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure进行的Light Table，Datomic和Game开发的介绍
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure的Light Table，Datomic和Game开发的介绍
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)

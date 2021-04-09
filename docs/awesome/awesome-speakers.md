@@ -25,13 +25,13 @@ https://twitter.com/mazibayo
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnayoOleru" height="70px" width="70px" align="left" alt="" />
 
 ** Anayo Oleru ** \
-主题：JavaScript，Node.js，TypeScript，测试，React，Redux，React Native，开放源代码，Dialogflow，PWA \
+主题：JavaScript，Node.js，TypeScript，测试，React，Redux，React Native，开放源代码，PWAs \
 https://twitter.com/AnayoOleru
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/codebeast" height="70px" width="70px" align="left" alt="" />
 
 **克里斯蒂安·恩旺巴** \
-主题：JavaScript，React，Vue，Angular，渐进式Web应用，CSS，标准\
+主题：JavaScript，React，Vue，Angular，PWA，CSS，标准\
 https://twitter.com/codebeast
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ireaderinokun" height="70px" width="70px" align="left" alt="" />
@@ -43,13 +43,13 @@ https://twitter.com/ireaderinokun
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/unicodeveloper" height="70px" width="70px" align="left" alt="" />
 
 ** Otemuyiwa繁荣** \
-主题：JavaScript，React，Vue，Angular，渐进式Web应用程序，PHP，Laravel \
+主题：JavaScript，React，Vue，Angular，PWA，PHP，Laravel \
 https://twitter.com/unicodeveloper
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/developerayo" height="70px" width="70px" align="left" alt="" />
 
 ** Shodipo Ayomide ** \
-主题：PHP，JavaScript，React，Vue.js，渐进式Web应用程序，测试，开源，Web性能\
+主题：PHP，JavaScript，React，Vue.js，PWA，测试，开源，性能\
 https://twitter.com/developerayo
 
 ## South Africa 🇿🇦
@@ -70,7 +70,7 @@ https://twitter.com/riggaroo
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ashrith_kulai" height="70px" width="70px" align="left" alt="" />
 
-**阿什里斯·古来** \
+**阿什里斯·库莱（Ashrith Kulai）** \
 主题：渐进式Web应用程序，聚合物，Web组件，Web性能，构建工具\
 https://twitter.com/ashrith_kulai
 
@@ -255,7 +255,7 @@ https://twitter.com/markdalgleish
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/philnash" height="70px" width="70px" align="left" alt="" />
 
 **菲尔·纳什** \
-主题：JavaScript，Web开发，渐进式Web Apps \
+Topics: JavaScript, Web Development, Progressive Web Apps\
 https://twitter.com/philnash
 
 ## Europe
@@ -746,7 +746,7 @@ https://twitter.com/opinionatedpie
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/johnbrett_" height="70px" width="70px" align="left" alt="" />
 
-**John Brett**\
+**约翰·布雷特** \
 主题：JavaScript，hapi，Nomad Work，Bitcoin \
 [https://twitter.com/johnbrett\_](https://twitter.com/johnbrett_)
 
@@ -1169,7 +1169,7 @@ https://twitter.com/simalexan
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slobodan_" height="70px" width="70px" align="left" alt="" />
 
 ** Slobodan Stojanovic ** \
-主题：无服务器，脱机Web，聊天机器人\
+Topics: Serverless, Offline Web, Chat Bots\
 [https://twitter.com/slobodan\_](https://twitter.com/slobodan_)
 
 ## Spain 🇪🇸
@@ -1392,7 +1392,7 @@ https://twitter.com/lady_ada_king
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cirpo" height="70px" width="70px" align="left" alt="" />
 
-**亚历山德罗·辛纳利** \
+**亚历山德罗·辛纳利（Alessandro Cinelli）** \
 主题：JavaScript \
 https://twitter.com/cirpo
 
@@ -1441,7 +1441,7 @@ https://twitter.com/chris_noring
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/areaweb" height="70px" width="70px" align="left" alt="" />
 
 **克里斯蒂亚诺·拉斯塔利（Cristiano Rastelli）** \
-Topics: CSS, CSS in JS\
+主题：CSS，JS中的CSS \
 https://twitter.com/areaweb
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/dan_abramov" height="70px" width="70px" align="left" alt="" />
@@ -1776,8 +1776,8 @@ https://twitter.com/bitandbang
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="" />
 
-**艾迪·奥斯曼（Addy Osmani）** \
-Topics: Chrome DevTools, Performance\
+**Addy Osmani**\
+主题：Chrome DevTools，性能\
 https://twitter.com/addyosmani
 
 ### Omaha
@@ -1867,7 +1867,7 @@ https://twitter.com/shanselman
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
 
 **杰西海滩** \
-Topics: Accessibility, React\
+主题：可访问性，React \
 https://twitter.com/jessebeach
 
 ### Salt Lake City
@@ -2022,7 +2022,7 @@ https://twitter.com/ladyleet
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
 
-**海梅·洛佩兹（Jaime Lopez）** \
+**Jaime Lopez**\
 主题：iOS，Swift，软件体系结构，开发过程\
 https://twitter.com/DevWithTheHair
 

@@ -54,6 +54,7 @@
 * [Maple](https://www.maplesoft.com/products/Maple/)
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
+* [Free Math](https://freemathapp.org)
 
 ## Questions and Answers
 
@@ -119,9 +120,9 @@
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺（Miguel Palomino）
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) -爱德华·尼尔森
-* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) -乔·莫里斯（Joy Morris），戴夫·莫里斯（Dave Morris）
+* [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) -乔伊·莫里斯（Joy Morris），戴夫·莫里斯（Dave Morris）
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) -特德·桑德斯特伦（Ted Sundstrom）
-* [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -杰里米·阿维格德（Jeremy Avigad），罗伯特·刘易斯（Robert Y.Lewis）和弗洛里斯·范·多恩（Floris van Doorn）
+* [Logic and Proof](http://leanprover.github.io/logic_and_proof/) -Jeremy Avigad，Robert Y.Lewis和Floris van Doorn
 * [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
 * [Open Logic Textbook](http://builds.openlogicproject.org/) -共同努力，列出了主要贡献者 [here](https://openlogicproject.org/people/)
 
@@ -190,7 +191,7 @@
 * [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) -S. Burris，HP Sankappanavar
 * [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) -罗伯特·阿什
 * [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) -赫伯特·霍克斯，威廉·A·卢比，弗兰克·C·图顿（1910）
-* [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) -赫伯特·霍克斯（Herbert E.Hawkes），威廉·A·卢比（William A.Luby），弗兰克·C·图顿（Frank C.Touton）（1911）
+* [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) -赫伯特·霍克斯，威廉·A·卢比，弗兰克·C·图顿（1911）
 * [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) -克里斯塔（G. Chrystal）（1904）
 * [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) -克里斯塔尔（1900）
 * [Understanding Algebra](https://jamesbrennan.org/algebra) -詹姆斯·W·布伦南
