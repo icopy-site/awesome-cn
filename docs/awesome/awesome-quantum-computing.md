@@ -16,9 +16,9 @@
 
 ## Learning
 
-- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -大卫·坎普（David Kemp）的量子门计算交互式学习.
+- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -戴维·肯普（David Kemp）的量子门计算交互式学习.
 - [CNOT](https://cnot.io/) -易于理解，逐步介绍了量子计算概念.
-- [Chris Ferrie](https://csferrie.medium.com/) -澳大利亚悉尼大学教授，《量子计算》（婴儿）（以及更多）的作者，以及有关“中等”的出色量子计算讲座.
+- [Chris Ferrie](https://csferrie.medium.com/) -澳大利亚悉尼的大学教授，《量子计算》（婴儿）（以及更多）的作者，以及关于介质的出色《量子计算》讲座.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -Rigetti Computing SDK的教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) -有关光子连续变量量子计算方法的背景信息，以及Xanadu SDK的教程.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) -演示和教育资源，以及对D-Wave量子计算机的访问.
@@ -34,11 +34,12 @@
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) -3D量子态可视化工具，能够模拟多达22个量子位.
 - [Quantum Computing UK](https://quantumcomputinguk.org/) -免费的Qiskit教程和代码存储库.
 - [Quantum Computing for the Very Curious](https://quantum.country/qcvc) -随笔，介绍迈克尔·尼尔森（Michael Nielsen）和安迪·马图沙克（Andy Matuschak）的量子计算.
-- [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - Easy to read knowledge base, rich of basic Quantum Computing concepts.
+- [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) -易于阅读的知识库，其中包含基本的量子计算概念.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) -四个量子位光子量子模拟器和计算机.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) -量子机器学习算法的解释.
-- [Quirk](http://algassert.com/quirk) -基于浏览器的拖放式量子电路模拟器，可实时反应，模拟和设置动画.
+- [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
+- [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit)  -非常易于访问的面向计算/编程的教程. 它从矩阵的基础一直到grover的算法. 也有随附的视频介绍了这些教程.
 - [The Quantum Quest](https://www.quantum-quest.nl/) -针对高中生设计的有关量子计算原理的入门网络课程.
 
 ## MOOCs
@@ -102,7 +103,7 @@
 - [Quantum Zeitgeist](https://quantumzeitgeist.com/) -涵盖量子计算以及质量控制公司和职业方面的最新消息. 
 - [Q# Blog](https://devblogs.microsoft.com/qsharp/) -Microsoft Quantum开发更新. 
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) -斯科特·亚伦森（Scott Aaronson）关于量子计算的思想.
-- [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware. 
+- [The Quantum Aviary](https://thequantumaviary.blogspot.com/) -没有大肆宣传量子硬件发展的博客. 
 - [The Quantum Daily](https://thequantumdaily.com/) -提供有关量子计算的最新新闻的插座，为研究科学家和好奇的周日报纸读者提供文章.
 
 ## Books
@@ -150,7 +151,7 @@
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) -用于量子计算的问答站点.
 - [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) -讨论许多量子计算主题的社区.
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) -关于矩阵的量子编程聊天，与语言无关，不需要专业知识.
-- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) -用于量子研究讨论的Facebook小组.
+- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
 - [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) -用于Rigetti和量子计算讨论的Slack Channel.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) -Xanadu和Strawberry Fields光子/ CV量子计算讨论的松弛通道.

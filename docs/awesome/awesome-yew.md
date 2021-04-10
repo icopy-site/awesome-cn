@@ -45,10 +45,10 @@
 - [Freecell](https://github.com/Stigjb/freecell) -用Rust和Yew编写的耐心游戏.
 - [Daydream](https://github.com/MTRNord/Daydream) -用Rust编写的小型Matrix网络客户端.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) -与Yew进行的简单WebRTC聊天.
-- [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建全栈应用程序.
+- [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建完整的堆栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在这个Rust / Yew / WebAssembly应用中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) -使用Rust，Wasm和Yew编写的单页应用程序（SPA）.
-- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到结对编程合作伙伴. 用红豆杉前端写在Rust中.
+- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到结对编程的合作伙伴. 用红豆杉前端写在Rust中.
 - [yew-octicons](https://github.com/io12/yew-octicons) -在Yew项目中使用Octicons的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) -这是一个Rust / Wasm客户端Web应用程序，它是一个任务控制中心.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) -在线将您的标记转换为Yew宏，这也是Yew制作的.
@@ -78,6 +78,7 @@
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) -紫杉的Patternfly组件.
 - [yew-feather](https://github.com/pedrodesu/yew-feather) -紫杉的羽毛图标组件.
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder)  -使用docker-compose为Yew构建Tailwind CSS. 还支持中继.
+- [yew-components](https://github.com/angular-rust/yew-components) -Yew框架的材料设计组件.
 
 ### Components
 

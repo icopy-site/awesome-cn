@@ -43,6 +43,7 @@
 * [Desmos](https://www.desmos.com/calculator)
 * [Math Words](http://www.mathwords.com/)
 * [Wolfram Alpha](http://www.wolframalpha.com/)
+* [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
 * [Unit Converter](https://unitconverter.net)
@@ -471,7 +472,7 @@
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) -道格拉斯·阿诺德（明尼苏达大学）
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) -里奇韦·斯科特（L.Ridgway Scott）
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) -JM McDonough（肯塔基大学）
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -阿森·纳里曼扬（Alsen Narimanyan），阿尔弗雷德·施密特（Alfred Schmidt）
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -阿尔弗雷德·施密特（Alfred Schmidt），阿森·纳里曼扬（Arsen Narimanyan）
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) -道格拉斯·威廉·哈德（Douglas Wilhelm Harder）
 
 

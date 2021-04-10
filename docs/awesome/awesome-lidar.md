@@ -6,7 +6,7 @@
 
 &gt;精湛的激光雷达传感器及其应用的精选清单.
 
-[LIDAR](https://en.wikipedia.org/wiki/Lidar)是一种遥感传感器，使用激光以〜cm的精度测量周围环境. 感官数据通常称为点云，这意味着以3D或2D形式的数据点集. 该列表包含硬件，数据集，点云处理算法，点云框架，模拟器等.
+[LIDAR](https://en.wikipedia.org/wiki/Lidar)是一种遥感传感器，它使用激光以〜cm的精度测量周围环境. 感觉数据通常被称为点云，这意味着以3D或2D形式的数据点集. 该列表包含硬件，数据集，点云处理算法，点云框架，模拟器等.
 
 欢迎捐款！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) 我们的准则.
 
@@ -20,7 +20,7 @@
 
 ## Manufacturers
 
-- [Velodyne](https://velodynelidar.com/)  -Velodyne是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
+- [Velodyne](https://velodynelidar.com/)  -Velodyne是机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
 - [Ouster](https://ouster.com/)  -激光雷达制造商，专门从事数字旋转激光雷达.  Ouster的总部位于美国旧金山.
@@ -56,28 +56,28 @@
 - [Blickfeld](https://www.blickfeld.com/) -Blickfeld是总部位于德国慕尼黑的用于自主移动性和物联网的固态激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
   - [GitHub organization :octocat:](https://github.com/Blickfeld)
-- [Neuvition](https://www.neuvition.com/) -Neuvition是一家总部位于中国吴江的固态激光雷达制造商.
+- [Neuvition](https://www.neuvition.com/) -Neuvition是一家位于中国吴江的固态激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
 
 ## Datasets
 
-- [Ford Dataset](https://avdata.ford.com/)  -数据集带有时间戳，并包含来自所有传感器的原始数据，校准值，姿态轨迹，地面真实姿态和3D地图. 数据与机器人操作系统（ROS）兼容.
+- [Ford Dataset](https://avdata.ford.com/)  -数据集带有时间戳，包含来自所有传感器的原始数据，校准值，姿态轨迹，地面真实姿态和3D地图. 数据与机器人操作系统（ROS）兼容.
   - [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) -数据集具有2D语义分割，3D点云，3D边界框和车辆总线数据的功能.
   - [Paper :newspaper:](https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf)
 - [Waymo Open Dataset](https://waymo.com/open/) -数据集包含激光雷达和相机数据的独立生成的标签，而不仅仅是投影.
-- [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. 
+- [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) -牛津机器人汽车数据集包含100多次重复的，经过一年多的时间捕获的贯穿英国牛津的一致路线. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，该机器人在法国的Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）配备了十一个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，该汽车在法国的Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）配备了十一个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
 - [NuScenes](https://www.nuscenes.org/) -用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) -由配备激光雷达和摄像头的福特Fusion车队收集的公共数据集.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) -广泛的公共数据集，主要侧重于计算机视觉应用，但还包含LIDAR点云.
 - [Semantic KITTI](http://semantic-kitti.org/) -用于语义和全景场景分割的数据集.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
-- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) -在恶劣天气条件（雪天）下自动驾驶的大型公共数据集.
+- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) -公共大型数据集，用于在不利天气条件（下雪天气）下进行自动驾驶.
   - [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50)  -多伦多大学，autoronto的自动驾驶汽车数据集，其中包含GPS / IMU，3D LIDAR和单眼相机数据. 它可以用于3D行人检测.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
@@ -110,7 +110,7 @@
 - [Autoware](https://www.autoware.ai/) -在自动驾驶汽车的学术和研究应用中流行的框架.
   - [GitLab repository :octocat:](https://gitlab.com/autowarefoundation/autoware.ai)
   - [Paper :newspaper:](https://www.researchgate.net/profile/Takuya_Azumi/publication/327198306_Autoware_on_Board_Enabling_Autonomous_Vehicles_with_Embedded_Systems/links/5c9085da45851564fae6dcd0/Autoware-on-Board-Enabling-Autonomous-Vehicles-with-Embedded-Systems.pdf)
-- [Baidu Apollo](https://apollo.auto/) -Apollo是一个流行的框架，可加快自动驾驶汽车的开发，测试和部署.
+- [Baidu Apollo](https://apollo.auto/) -Apollo是一个流行的框架，可加速自动驾驶汽车的开发，测试和部署.
   - [GitHub repository :octocat:](https://github.com/ApolloAuto/apollo)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ApolloAuto)
 
@@ -118,7 +118,7 @@
 
 ### Basic matching algorithms
 - [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) -特征匹配应用（ICP）的必备算法.
-- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) -最近的大规模并行特征匹配（NDT）方法.
+- [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) -最新的大规模并行特征匹配（NDT）方法.
 
 ### Semantic segmentation
 - [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) -具有完全卷积网络的快速准确的LiDAR语义分割.
@@ -129,7 +129,7 @@
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=iIhttRSMqjE)
 - [Frustum PointNets :newspaper:](https://arxiv.org/pdf/1711.08488.pdf) -用于从RGB-D数据进行3D对象检测的Frustum PointNets.
   - [GitHub repository :octocat:](https://github.com/charlesq34/frustum-pointnets)
-- [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) -基于扫描的LiDAR点云语义分割：一项实验研究2020.
+- [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) -基于扫描的LiDAR点云语义分割：一项实验研究IV 2020.
   - [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
 
@@ -137,7 +137,7 @@
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) -LOAM：激光雷达里程表和实时映射.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) -用于ROS兼容UGV的轻巧且经过地面优化的激光雷达测距和制图（LeGO-LOAM）系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) -Cartographer是与ROS兼容的系统，可跨多个平台和传感器配置在2D和3D中提供实时同时定位和制图（SLAM）.
+- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) -Cartographer是与ROS兼容的系统，可跨多个平台和传感器配置提供2D和3D实时实时同时定位和映射（SLAM）.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) -基于LiDAR的语义SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
@@ -156,19 +156,19 @@
   - [GitHub repository :octocat:](https://github.com/peiyunh/opcseg)
 - [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf)  -Di Feng，Lars Rosenbaum，Fabian Timm，Klaus Dietmayer. 第30届IEEE智能车辆研讨会，2019年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
-- [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) -胡佩云，Jason Ziglar，David Held，Deva Ramanan，2019年.
+- [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) -胡佩云，杰森·齐格拉（Jason Ziglar），戴维·赫尔德（David Held），德瓦·拉曼南（Deva Ramanan），2019年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
   - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
 
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) -跨平台通用机器人模拟器（以前称为V-REP）.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
-- [OSRF Gazebo](http://gazebosim.org/) -基于OGRE的通用机器人模拟器，兼容ROS / ROS2.
+- [OSRF Gazebo](http://gazebosim.org/) -基于OGRE的通用机器人模拟器，与ROS / ROS2兼容.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
 - [CARLA](https://carla.org/)  -用于汽车应用的基于虚幻引擎的模拟器. 与Autoware，百度Apollo和ROS / ROS2兼容.
   - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
-- [LGSVL](https://www.lgsvlsimulator.com/)  -基于Unity Engine的汽车应用模拟器. 与Autoware，百度Apollo和ROS / ROS2兼容.
+- [LGSVL](https://www.lgsvlsimulator.com/)  -用于汽车应用的基于Unity Engine的模拟器. 与Autoware，百度Apollo和ROS / ROS2兼容.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
 - [AirSim](https://microsoft.github.io/AirSim)  -基于虚幻引擎的无人机和汽车模拟器. 与ROS兼容.
@@ -193,5 +193,8 @@
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) -一种将航空激光雷达扫描中的点云数据转换为用于3D打印的实体网格的工具.
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) -Unity的点云导入器/渲染器.
 - [Bpy :octocat:](https://github.com/uhlik/bpy) -用于Blender，Point Cloud可视化工具的Point cloud导入器/渲染器/编辑器.
-- [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) -日立汽车工业实验室的点云和图像语义分割编辑器.
+- [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) -日立汽车工业实验室的点云和图像语义分割编辑器，点云注释器/标签.
+- [3D Bounding Box Annotation Tool :octocat:](https://github.com/walzimmer/3d-bat) -3D BAT：基于半自动，基于Web的3D注释工具箱，用于全环绕，多模式数据流，点云注释器/标记.
+  - [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 - [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) -Blender插件可导入多个库的重建结果.

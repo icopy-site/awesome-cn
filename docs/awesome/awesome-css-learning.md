@@ -4,7 +4,7 @@
 
 &gt;仅限于最佳CSS学习资源的出色列表
 
-这个清单主要是关于 [CSS](https://developer.mozilla.org/docs/Web/CSS)  –语言和模块. 与命名约定，架构范式，框架，预处理器，后处理器，JS-in-JS或当今CSS生态系统的其他方面无关.
+这个清单主要是关于 [CSS](https://developer.mozilla.org/docs/Web/CSS)  –语言和模块. 与命名约定，架构范例，框架，预处理器，后处理器，CSS-in-JS或当今CSS生态系统的其他方面无关.
 
 *请阅读 [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/.github/contributing.md) 在捐款之前.*
 
@@ -24,9 +24,9 @@
 ## Fundamental concepts
 
 - [The cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade) -本文介绍了级联是什么以及它如何影响您.
-- [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)  -了解特异性和继承对掌握CSS很重要. 本文将有所帮助.
+- [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)  -了解特异性和继承性对掌握CSS很重要. 本文将对您有所帮助.
 - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) -一篇文章，解释了网络布局的基础.
-  -也请参阅有关的详细信息 [box-sizing](https://css-tricks.com/box-sizing/) 属性.
+  -也请参阅有关的详细信息 [box-sizing](https://css-tricks.com/box-sizing/) 财产.
 
 ## CSS units
 
@@ -55,7 +55,7 @@
 
 ### Classic layouting
 
-- [Floats](https://tympanus.net/codrops/css_reference/float/) -有关如何使用（清除）浮动内容的详细信息.
+- [Floats](https://tympanus.net/codrops/css_reference/float/) -有关如何使用（清除）浮动的深入信息.
 - [Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) -仔细研究与CSS定位布局方法有关的一些鲜为人知的事情.
 - [inline-block](https://iamsteve.me/blog/entry/inline_block) -显示在什么情况下使用显示属性“ inline-block”进行布局是有意义的.
 
@@ -67,7 +67,7 @@
 - [Flexbox Defense](http://www.flexboxdefense.com) -浏览器中的塔防游戏，以有趣的方式了解Flexbox.
 - [Flexbox Froggy](https://flexboxfroggy.com) -通过有趣的青蛙和睡莲游戏学习Flexbox的所有基础知识.
 - [Flexbugs](https://github.com/philipwalton/flexbugs) -社区策划的flexbox问题列表以及针对这些问题的跨浏览器解决方法.
-- [Flexbox Zombies](https://flexboxzombies.com) -由故事情节驱动的培训课程，您可以在其中使用Flexbox和cross来搜寻僵尸.
+- [Flexbox Zombies](https://flexboxzombies.com) -由故事情节驱动的培训课程，您可以使用Flexbox和a来搜寻僵尸.
 - [What the Flexbox?](https://flexbox.io/) -一个简单的免费20视频课程，将帮助您掌握CSS Flexbox！
 
 ### Grid
@@ -82,7 +82,7 @@
 ## Animation
 
 - [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) -介绍CSS转换和CSS（2D）转换.
-- [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/css-transitions) -还解决了从链接和事件到硬件加速和动画功能的高级主题.
+- [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/all-you-need-to-know-about-css-transitions/) -还解决了从链接和事件到硬件加速和动画功能的高级主题.
 - [CSS 3D transforms](https://3dtransforms.desandro.com) -多页教程，包括卡片翻转和轮播效果等示例.
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) -赋予关键帧CSS动画的概念.
 - [animatable](http://leaverou.github.io/animatable/) -精美的小页面，展示了可以设置动画的CSS属性. 
@@ -91,7 +91,7 @@
 
 ## Related
 
-[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) -仅限于最佳JavaScript学习资源的一小部分清单.
+[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) -仅限于最好的JavaScript学习资源的一小部分清单.
 
 ## License
 

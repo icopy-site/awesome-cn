@@ -122,6 +122,7 @@
 - [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)  -快速介绍data.table. 主要目的是介绍data.table语法，以显示如何执行基本但必不可少的数据整理任务. 作者：Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) -作者：科林·费伊（Colin Fay）.
 - [From base R to stringr](https://stringr.tidyverse.org/articles/from-base.html)  -此小插图将Stringer函数与其等效的R基准进行比较，以帮助用户从使用R基准过渡到Stringr. 作者：萨拉·斯托德（Sara Stoudt）.
+- [Help me help you: creating reproducible examples](https://www.youtube.com/watch?v=5gqksthQ0cM)  -做一个伟大的代表既是一门艺术，也是一门科学，这次网络研讨会将涵盖这两个方面.  Reprex使有关代码的对话对所有人而言都更加高效和令人愉悦. 每当您向某人寻求帮助，报告软件错误或提出新功能时，就会出现这种情况.  reprex软件包（https://reprex.Tidyverse.org）使准备R代码作为reprex特别容易，以便在https：//community.rstudio.com、https：// github等网站上共享. com或https://stackoverflow.com. 作者：珍妮·布莱恩（Jenny Bryan）.
 - [R - discoRd server](https://discord.gg/88uG5UVyE2) -具有以下基于主题的渠道的专用discoRd服务器：“ R-Main”（用于更一般性的讨论），“ R-Share”（用于炫耀您的数据视觉效果），“ General R Help”（用于询问问题和共享学习资源）以及“ Topical”帮助/讨论有关统计，dbi，tidymodels，闪亮，自然科学，社会科学，贝叶斯，gis和金融的问题. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) -Reddit subreddit专注于实现用于统计和数据科学的R编程语言.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) -Reddit subreddit专注于使用R进行统计计算.
@@ -132,7 +133,7 @@
 ## Blogs
 
 - [Alex Cookson](https://www.alexcookson.com/)  -Alex Cookson喜欢对R概念进行漂亮的可视化和易于阅读的演练. 他对书籍，电影和音乐剧等媒体数据特别感兴趣.
-- [Avery Robbins](https://www.avery-robbins.com)  -艾弗里·罗宾斯（Avery Robbins）喜欢学习和分享有益或使自己受益的有益事物. 该网站是他积极从事此工作的工具：分享有用的知识，想法和技巧.
+- [Avery Robbins](https://www.avery-robbins.com)  -艾利·罗宾斯（Avery Robbins）热爱学习和分享有益于他的个人有益或令人敬畏的事物. 该网站是他积极从事此工作的工具：分享有用的知识，想法和技巧.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/)  -Tony ElHabr对能源市场和体育分析充满热情. 他的博客提供了详细的教程，项目说明和演示.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) -CédricScherer是一名经过培训的计算生态学家，并且是一位心地善良的数据可视化设计师，具有9年以上的假设驱动研究经验，并且在数据整理，统计分析，模型开发和数据可视化方面具有很强的技能.
 - [Data Imaginist](https://www.data-imaginist.com/) -Thomas Lin Pedersen是一名由数据科学家转为软件工程师，致力于改善研究人员与其产生的数据的交互.
@@ -175,14 +176,14 @@
 - [R Cookbook, 2nd Edition](https://rc2e.com/index.html)  -本书包含如何使用的食谱，每种食谱都可以解决一个特定的问题. 该食谱包括对该解决方案的快速介绍，然后进行讨论，以期对解决方案进行解压缩，并为您提供有关其工作原理的一些见解. 作者：James（JD）Long和Paul Teetor.
 - [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R. You will learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it. [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) 作者：Garrett Grolemund和Hadley Wickham.
 - [R Packages](http://r-pkgs.had.co.nz/)  -在本书中，您将学习如何将代码转换成其他人可以轻松下载和使用的程序包. 作者：哈德利·威克姆（Hadley Wickham）.
-- [R Programming for Data Science](https://leanpub.com/rprogramming)  -本书使用与业界领先的约翰霍普金斯大学数据科学专业知识相同的材料，为您带来R编程的基础知识. 作者：彭杰.
+- [R Programming for Data Science](https://leanpub.com/rprogramming)  -本书使用与业界领先的约翰霍普金斯大学数据科学专业知识相同的材料，为您带来R编程的基础知识. 作者：罗杰·彭（Roger Peng）.
 - [R Tutorial – Be a Data Science rock star with R](https://data-flair.training/blogs/r-tutorial/)  -R编程语言之旅，探讨其不同和基本概念. 该R DataFlair教程系列旨在帮助初学者入门R，并有丰富的R编程技能和丰富的语言经验.
 - [Statistical Inference via Data Science](https://moderndive.com/)  -旨在以一种像数据科学家，统计学家，数据记者和其他研究人员一样的方式，对使用数据进行数据分析和回答问题的实践作一个温和的介绍. 作者：切斯特·伊斯梅（Chester Ismay）和阿尔伯特·金（Albert Y. Kim）.
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)  -本书着重于文本的监督或预测建模，使用文本数据对我们周围的世界进行预测. 作者：Emil Hvitfeldt和Julia Silge.
 - [Text Mining with R](https://www.tidytextmining.com/) -本书介绍了使用tidytext包和R中的其他整洁工具进行文本挖掘的方法.作者：Julia Silge和David Robinson.
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) -本书适合那些希望学习R语言开发软件的人.作者：Norman Matloff.
 - [The Book of R](https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf) -《 R之书：编程和统计学第一门课程》的目的是提供相对温和但内容丰富的统计软件环境R知识，以及一些常见的统计分析，以便读者可能有扎实的基础，最终可以成为专家. [Exercise solutions](https://nostarch.com/bookofr) 作者：蒂尔曼·戴维斯（Tilman M. Davies）.
-- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) -关于R中的故障点，奇数，陷阱和故障的书.作者：Patrick Burns.
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) -关于R中的故障点，奇数，陷阱和故障的书.作者：帕特里克·伯恩斯（Patrick Burns）.
 - [The R Language](https://stat.ethz.ch/R-manual/R-patched/doc/html/) -R语言作者编写的R简介.
 - [Tidy Modeling with R](https://www.tmwr.org/) -本书是使用R编程语言的新软件集进行模型构建的指南.
 
