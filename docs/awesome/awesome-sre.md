@@ -117,7 +117,7 @@
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
 * [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
-* [New to an SRE team?](https://web.archive.org/web/20181229031420/http://anthonycaiafa.com/2016/04/27/new-to-a-team/)
+* [New to an SRE team?](https://www.linkedin.com/pulse/new-sre-team-anthony-caiafa/)
 * [The Systems Engineering Side of Site Reliability Engineering](https://www.usenix.org/publications/login/june15/hixson)
 * [Graduating from Bootcamp and interested in becoming a Site Reliability Engineer?](https://medium.com/@tammybutow/graduating-from-bootcamp-and-interested-in-becoming-a-site-reliability-engineer-b69a38ce858b)
 * [So you want to be a Site Reliability Engineer?](https://www.loomsystems.com/single-post/2016/03/23/So-you-want-to-be-a-Site-Reliability-Engineer)
@@ -126,7 +126,7 @@
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
-* [站点非可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
+* [站点不可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
@@ -463,7 +463,7 @@
 * [FireHydrant Blog](https://www.firehydrant.io/blog) -有关复杂系统，事件响应和SRE最佳实践的帖子.
 
 ## Newsletters
-* [DevOpsLinks](https://faun.dev) -关于SRE，SysAdmin和DevOps新闻，工具，教程和观点的每周新闻.
+* [DevOpsLinks](https://faun.dev) -有关SRE，SysAdmin和DevOps新闻，工具，教程和观点的每周新闻.
 * [KubeWeekly](https://kubeweekly.io/)  -有关Kubernetes的所有内容的每周新闻通讯.  KubeWeekly由Bob Killen，Chris Short，Craig Box，Kim McMahon和Michael Hausenblas策划
 * [SRE Weekly](https://sreweekly.com/) -每周站点可靠性简讯.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) -每周的系统工程和运营新闻以及行业内部人士的见解.

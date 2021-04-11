@@ -57,7 +57,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
  **过程**. 学生可以按顺序或不按顺序单独或分组学习课程.
 -我们建议您在Core CS中进行所有课程，仅当您确定以前已经学习过这些材料时才跳过课程.
 -为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
- -高级CS课程为选修课. 选择一个您想成为专家的学科（例如，高级编程），并选择该标题下的所有课程. 您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
+ -高级CS课程为选修课. 选择一个您想成为专家的学科（例如高级编程），并选择该标题下的所有课程. 您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
 
 *不要无视您在每门课程开始时所签署的行为准则*！
 
@@ -103,7 +103,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学领域. 从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料. 如果您想进一步完成该课程，则计算机科学很可能适合您！
+本课程将向您介绍计算机科学领域. 从以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料. 如果您想进一步完成该课程，则计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -175,7 +175,7 @@ Lisp家庭语言（通过球拍）
 除了选修数学外，学生还必须完成以下有关离散数学的课程.
 
 **涵盖的主题**：
-离散数学
+`discrete mathematics`
 数学证明
 基本统计
 `O-notation`
@@ -184,7 +184,7 @@ Lisp家庭语言（通过球拍）
 
 课程持续时间| 努力注意事项先决条件| 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ）|  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). Students struggling can consider the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一的. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ）|  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一的. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
@@ -223,7 +223,7 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ）|  6周| 每周7到13个小时|  -| 类似于C的编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6周| 每周12-18个小时|  -| 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从南德到俄罗斯方块第一部分| [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12周| 每周6个小时|  -| 算法， [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) 有用| [chat](https://discord.gg/wZNgpep)
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12周| 每周6-10个小时|  -| 算法， [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) 有用| [chat](https://discord.gg/wZNgpep)
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) |  8周| 每周4–12小时| [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)<br>[Interactive Problems](https://gaia.cs.umass.edu/kurose_ross/interactive/index.php)  | 代数，概率，基本CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
@@ -233,7 +233,7 @@ Lisp家庭语言（通过球拍）
 `排序和搜索`
 随机算法
 `图搜索`
-`shortest paths`
+“最短路径”
 数据结构
 贪婪算法
 `最小的生成树`
@@ -315,7 +315,7 @@ Lisp家庭语言（通过球拍）
 调试理论与实践
 面向目标的编程
 并行计算
-面向对象的分析与设计
+`object-oriented analysis and design`
 `UML`
 大型软件架构与设计
 还有更多
@@ -323,7 +323,7 @@ Lisp家庭语言（通过球拍）
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--: 
 [Parallel Programming](https://www.coursera.org/learn/parprog1) |  4周每周6-8个小时|  Scala编程
-[Compilers](https://www.edx.org/course/compilers)  |  9周每周6-8个小时| 没有
+[Compilers](https://www.edx.org/course/compilers)  |  9周每周6-8个小时| 没有任何
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) |  14周|  -|  --
 [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf) ）* |  12周|  -|  --
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周| 每周6个小时|  Python，面向对象的编程
@@ -383,7 +383,7 @@ CMOS技术
 ### Advanced applications
 
 这些Coursera专业化课程均以Capstone项目结束.
-根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
+根据课程的不同，您可能可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
 因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
@@ -391,11 +391,11 @@ CMOS技术
 :-- | :--: | :--: | :--:
 [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics)  |  26周| 每周2-5个小时| 大学一年级物理，线性代数，微积分， [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)  |  30周| 每周2-5个小时| 机器学习
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30周| 每周3-5个小时| 没有
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30周| 每周3-5个小时| 没有任何
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things)  |  30周| 每周1-5小时| 强大的编程
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing)  |  30周| 每周2-6个小时|  C ++程式设计
 [Fullstack Open](https://fullstackopen.com/en)  |  12周| 每周6个小时| 程式设计
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)  |  43周| 每周1-6个小时| 没有
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)  |  43周| 每周1-6个小时| 没有任何
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala)  |  29周| 每周4-5个小时| 一年编程经验
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development)  |  6个月| 每周5小时| 程序设计，交互设计
 
@@ -450,7 +450,7 @@ or
 
 ## Congratulations
 
-完成上述课程的要求后，您将完成与计算机科学相同的学士学位. 恭喜你！
+完成上述课程的要求后，您将获得与计算机科学相同的完整学士学位的学位. 恭喜你！
 
 接下来是什么？ 可能性是无限的和重叠的：
 
@@ -473,7 +473,7 @@ or
 1.复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登上您的个人帐户.
 了解如何复制木板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
-现在您已经有了我们的正式董事会的副本，您只需在学习过程中将卡片传递到“正在做”或“完成”栏中即可.
+现在您已经有了我们的官方董事会的副本，您只需在学习过程中将卡片传递到“正在做”栏或“完成”栏即可.
 
 我们还有**标签**，可帮助您在整个过程中进行更多控制.
 每个标签的含义是：
@@ -487,7 +487,7 @@ or
 带有“ Section”标签的卡片仅用于帮助“完成”列的组织.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示他们的进度.
+该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team

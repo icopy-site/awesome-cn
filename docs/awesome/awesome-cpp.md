@@ -49,7 +49,7 @@
 * [Ultimate++](http://www.ultimatepp.org/)  -C ++跨平台快速应用程序开发框架.  [BSD]
 * [uSTL](http://msharov.github.io/ustl/)  -小型STL库.  [麻省理工学院]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/)  -用于开发Windows应用程序和UI组件的C ++库.  [上市]
-* [Yomm2](https://github.com/jll63/yomm2)  -快速，正交，开放式多种方法. 取代 [Yomm11](https://github.com/jll63/yomm11) [Boost]
+* [Yomm2](https://github.com/jll63/yomm2)  -快速，正交，开放式多种方法. 取代 [Yomm11](https://github.com/jll63/yomm11) [促进]
 
 ## Artificial Intelligence
 
@@ -228,7 +228,7 @@
 * [iniparser](https://github.com/ndevilla/iniparser)  -INI文件解析器.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
-* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供了一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [simpleini](https://github.com/brofield/simpleini)  -跨平台C ++库，提供简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
 * [toml++](https://github.com/marzer/tomlplusplus)  -C ++ 17及更高版本的仅标头TOML解析器和序列化器.  [麻省理工学院] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
@@ -335,7 +335,7 @@
 * [microprofile](https://github.com/jonasmr/microprofile)  -具有用于多个平台的网络视图的探查器.  [无牌]
 * [MinUnit](https://github.com/siu/minunit)  -用于C的最小单元测试框架，它独立包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) -用于C ++接缝和模拟对象的Eclipse CDT插件.
-* [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)  -用于基准测试的简单，低开销的跨平台计时器类.  [zLib] [website](http://www.plflib.org/nanotimer.htm)
+* [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. [zLib] [website](http://www.plflib.org/nanotimer.htm)
 * [Nonius](https://github.com/libnonius/nonius)  -一个C ++微型基准测试框架.  [CC]
 * [Remotery](https://github.com/Celtoys/Remotery)  -带有Web Viewer的单个C文件分析器.  [Apache2]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp)  -用于C ++的轻量级单元测试框架.  [MIT / X联盟许可证]
@@ -349,7 +349,7 @@
 
 * [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  -字体配置和自定义库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 * [FreeType](https://www.freetype.org/)  -FreeType是免费提供的用于渲染字体的软件库.  [FTL和GPLv2]
-* [otfcc](https://github.com/caryll/otfcc)  -用于解析和写入OpenType字体文件的AC库和实用程序.  [Apache-2.0]
+* [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 
 ## Game Engine
 
@@ -500,7 +500,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -使用JSONPointer，JSONPatch，JSONPath和JMESPath的JSON和类似JSON二进制格式的C ++仅标头库.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.
+* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-struct](https://github.com/jorgen/json_struct)  -往返于C ++结构的高性能，单头JSON解析器.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
@@ -516,8 +516,9 @@
 * [sajson](https://github.com/chadaustin/sajson)  -用于C ++ 11的轻量级，高性能的JSON解析器.  [麻省理工学院]
 * [simdjson](https://github.com/lemire/simdjson)  -极快的JSON库，可以每秒解析千兆字节的JSON.  [Apache-2.0]
 * [taoJSON](https://github.com/taocpp/json)  -零依赖C ++仅标头的JSON库.  [麻省理工学院]
-* [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
+* [ujson](https://bitbucket.org/awangk/ujson)  -µjson是一个小型C ++ 11，UTF-8，JSON库.  [麻省理工学院]
 * [YAJL](https://github.com/lloyd/yajl) -C中的快速流式JSON解析库.[ISC]
+* [yyjson](https://github.com/ibireme/yyjson) -用ANSI C编写的高性能JSON库.[MIT]
 
 ## Logging
 
@@ -578,17 +579,17 @@
 * [linalg.h](https://github.com/sgorsten/linalg)  -单头，公共领域，C ++的短向量数学库.  [无牌]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  -多精度整数和有理数算法密码库.  [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser)  -muParser是用C ++编写的可扩展高性能数学表达式解析器库.  [麻省理工学院]
-* [LibTomMath](https://github.com/libtom/libtommath) -完全用C编写的免费开放源代码可移植数字理论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
+* [LibTomMath](https://github.com/libtom/libtommath) -完全用C编写的免费开源可移植数论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h)  -精益线性数学库，主要用于图形编程.  [WTFPL]
 * [lp_solve](https://sourceforge.net/projects/lpsolve)  -用于制定和解决线性编程问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS)  -基于GotoBLAS2 1.13 BSD版本的优化BLAS库.  [BSD 3句] [website](http://www.openblas.net/)
-* [PCG-rand](https://www.pcg-random.org/)  -PCG是用于随机数生成的一系列简单，快速，节省空间的，统计上良好的算法. 与许多通用RNG不同，它们也很难预测.  [Apache]
+* [PCG-rand](https://www.pcg-random.org/)  -PCG是用于随机数生成的一系列简单，快速，节省空间的统计上好的算法. 与许多通用RNG不同，它们也很难预测.  [Apache]
 * [QuantLib](https://github.com/lballabio/quantlib)  -一个免费/开源的数量金融库.  [修改后的BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats)  -统计分布函数的C ++仅标头库.  [Apache2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine)  -快速的符号操作库，用C ++重写了SymPy的核心.  [麻省理工学院]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  -一个AC库，用于解析和评估字符串中的数学表达式.  [zlib]
 * [Vc](https://github.com/VcDevel/Vc)  -C ++的SIMD矢量类.  [BSD]
-* [Versor](http://versor.mat.ucsb.edu/) -用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
+* [Versor](http://versor.mat.ucsb.edu/) -一个用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
 * [Wykobi](http://www.wykobi.com/)  -高效，强大且易于使用的面向C ++ 2D / 3D的计算几何例程的C ++库.  [麻省理工学院]
 * [xtensor](https://github.com/QuantStack/xtensor)  -受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3句] [website](http://quantstack.net/xtensor)
 
@@ -726,7 +727,7 @@
 
 ## Robotics
 
-* [MOOS-IvP](http://moos-ivp.org) -一组开放源代码的C ++模块，用于在机器人平台（尤其是自动驾驶的海上航行器）上提供自治.
+* [MOOS-IvP](http://moos-ivp.org) -一组开放源代码的C ++模块，用于在机器人平台（尤其是自动驾驶的海上航行器）上提供自主权.
 * [MRPT](http://www.mrpt.org/)  -移动机器人编程工具包.  [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) -点云库是一个独立的，大规模的，开放的项目，用于2D / 3D图像和点云处理[BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)  -一个完整的C ++库，用于机器人运动学，运动计划和控制.  [BSD]
@@ -745,7 +746,7 @@
 
 ## Scripting
 
-* [AngelScript](https://www.angelcode.com/angelscript/)  -AngelScript是一种面向游戏的解释/编译脚本语言.  [zlib]
+* [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. [zlib]
 * [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html)  -一个C ++库，可实现C ++和Python编程语言之间的无缝互操作性.  [促进]
 * [cppimport](https://github.com/tbenthompson/cppimport)  -直接从Python导入C ++文件！  [麻省理工学院]
 * [CppSharp](https://github.com/mono/CppSharp)  -将C / C ++ API粘合到高级语言的工具和库.  [麻省理工学院]
@@ -852,7 +853,7 @@
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在一定时间和最少示例输入的情况下自动发现错误.  [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -替代C的字符串库，它的功能更强大，并且没有缓冲区溢出超限问题. 还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  -受Python内置函数和itertools库启发的基于范围的for循环插件.  [BSD-2-Clause]
@@ -921,7 +922,7 @@
 * [Ideone](http://ideone.com/) -一种在线编译器和调试工具，可让您编译源代码并以60多种编程语言在线执行.
 * [repl.it](https://repl.it) -针对教育者，学习者和开发人员的强大而简单的工具和平台.
 * [Rextester](http://rextester.com/runcode) -在线编译器，提供多个编译器（Clang，GCC，MSVC）和多个编辑器.
-* [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
+* [Try It Online](https://tio.run/) -TIO是一系列在线口译员，他们提供越来越多的实用和休闲编程语言.
 * [Wandbox](http://melpon.org/wandbox/) -带有Boost的在线Clang / GCC编译器.
 * [paiza.io](https://paiza.io/en) -具有多个文件支持功能，Github（gist）集成和协作编辑的在线C / C ++编译器.
 

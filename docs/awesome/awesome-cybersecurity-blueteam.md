@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此清单在很大程度上偏向 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -55,18 +55,23 @@
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) -开源的多云安全审核工具，可对云环境进行安全状态评估.
 - [gVisor](https://github.com/google/gvisor) -用Go编写的应用程序内核，它实现了Linux系统表面的很大一部分，以在应用程序和主机内核之间提供隔离边界.
 
-### Distributed observability and tracing
+### Distributed monitoring
 
-- [OpenTelemetry](https://opentelemetry.io/) -云原生软件的可观察性框架，包括用于将应用程序性能指标导出到跟踪后端的工具，API和SDK的集合（以前由OpenTracing和OpenCensus项目维护）.
+也可以看看 [§ Service and performance monitoring](#service-and-performance-monitoring).
+
+- [Coretex](https://cortexmetrics.io/) -为Prometheus提供水平可扩展，高可用性，多租户的长期存储.
 - [Jaeger](https://www.jaegertracing.io/) -分布式跟踪平台后端，用于对基于微服务的分布式系统进行监视和故障排除.
+- [OpenTelemetry](https://opentelemetry.io/) -云原生软件的可观察性框架，包括用于将应用程序性能指标导出到跟踪后端的工具，API和SDK的集合（以前由OpenTracing和OpenCensus项目维护）.
+- [Prometheus](https://prometheus.io/) -最初在SoundCloud上构建的开源系统监视和警报工具包.
 - [Zipkin](https://zipkin.io/) -分布式跟踪系统后端，有助于收集解决服务体系结构中的延迟问题所需的时序数据.
 
 ### Kubernetes
 
 - [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
-- [Linkerd](https://linkerd.io/) - Ultra light Kubernetes-specific service mesh that adds observability, reliability, and security to Kubernetes applications without requiring any modification of the application itself.
+- [Linkerd](https://linkerd.io/) -特定于Kubernetes的超轻服务网格，可为Kubernetes应用程序增加可观察性，可靠性和安全性，而无需对应用程序本身进行任何修改.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
 - [Polaris](https://polaris.docs.fairwinds.com/) -通过针对代码提交，Kubernetes接纳请求或集群中已在运行的实时资源运行测试来验证Kubernetes最佳实践. 
+- [certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) -该实用程序可将TLS证书的到期日作为Prometheus指标公开.
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) -允许群集管理员转储正在运行的Pod及其所有容器的当前状态，以便安全专业人员可以执行脱机取证分析.
 - [kube-hunter](https://kube-hunter.aquasec.com/) -开源工具，可以从外部（“攻击者的视图”）或集群内部运行一组测试（“猎人”）以解决Kubernetes集群中的安全问题.
 
@@ -194,7 +199,7 @@
 也可以看看 [Wikipedia: List of router and firewall distributions](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
 
 - [IPFire](https://www.ipfire.org/) -从IPCop派生的基于GNU / Linux的增强型路由器和防火墙分发.
-- [OPNsense](https://opnsense.org/) - Hardened FreeBSD based firewall and routing platform forked from pfSense.
+- [OPNsense](https://opnsense.org/) -从pfSense派生的基于FreeBSD的强化防火墙和路由平台.
 - [pfSense](https://www.pfsense.org/) -从m0n0wall派生的FreeBSD防火墙和路由器分布.
 
 ## Operating System distributions
@@ -247,7 +252,7 @@
 - [ChopShop](https://github.com/MITRECND/chopshop) -协助分析人员创建和执行基于APT的基于Pynids的解码器和检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) -恶意网络流量检测系统.
 - [Moloch](https://github.com/aol/moloch) -增强您当前的安全基础架构，以标准PCAP格式存储和索引网络流量，从而提供快速的索引访问.
-- [OwlH](https://www.owlh.net/) -通过可视化Suricata，Zeek和Moloch生命周期来帮助大规模管理网络IDS.
+- [OwlH](https://www.owlh.net/) - Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.
 - [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) -用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等.
 - [Respounder](https://github.com/codeexpress/respounder) -检测网络上是否存在响应者LLMNR / NBT-NS / MDNS中毒器.
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
@@ -348,7 +353,7 @@
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) -禁用许多危险Windows功能的实用程序.
 - [NotRuler](https://github.com/sensepost/notruler) -检测客户端规则和由VBScript启用的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时使用的攻击工具.
-- [PlumHound](https://github.com/PlumHound/PlumHound) -通过利用其寻路引擎来识别Active Directory安全漏洞，可以在连续的安全生命周期中更有效地使用BloodHoundAD.
+- [PlumHound](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
 - [Sandboxie](https://www.sandboxie.com/) -免费和开放源代码的通用Windows应用程序沙箱实用程序.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) -针对Microsoft的Windows主机的根证书存储进行审核 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) -从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
