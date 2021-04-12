@@ -14,7 +14,7 @@
 
 ### Learning
 
-* [Nix Notes](https://github.com/noteed/nix-notes) -有关Nix的简短注释的集合，每个简短注释都有助于同一虚拟机映像.
+* [Nix Notes](https://github.com/noteed/nix-notes) -有关Nix的简短注释的集合，每个简短注释都构成了相同的虚拟机映像.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) -最好的学习方法，并附有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) -有关Nix的简短笔记集.
 * [nix.dev](https://nix.dev/) -为开发人员准备的明智指南，说明如何使用Nix生态系统完成任务.
@@ -48,6 +48,7 @@
 * [Nixery](https://github.com/google/nixery) -兼容Docker的容器注册表，可通过Nix临时构建映像.
 * [NixOps](https://github.com/NixOS/nixops) -官方的Nix部署工具，与AWS，Hetzner等兼容.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) -使用Nix进行简单的无头VM配置（类似于Vagrant）.
+* [pushnix](https://github.com/arnarg/pushnix) -简单的cli实用程序，可推送NixOS配置并使用ssh触发重建.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) -一组旨在部署NixOS的Terraform模块.
 * [terranix](https://terranix.org) -使用Nix和NixOS模块系统编写您的Terraform代码.
 
@@ -55,6 +56,7 @@
 
 * [comma](https://github.com/Shopify/comma)  -快速运行任何二进制文件； 将“ nix run”和“ nix-index”包装在一起.
 * [nixfmt](https://github.com/serokell/nixfmt) -用于Nix代码的格式化程序，旨在轻松应用统一样式.
+* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) -用于nixpkgs的Nix代码格式化程序.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) -解释两个Nix派生为何不同的工具.
 * [nix-index](https://github.com/bennofs/nix-index) -快速找到带有特定文件的Nix软件包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) -用于更新源校验和的通用工具.

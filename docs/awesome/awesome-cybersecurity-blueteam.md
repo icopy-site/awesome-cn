@@ -59,7 +59,7 @@
 
 也可以看看 [§ Service and performance monitoring](#service-and-performance-monitoring).
 
-- [Coretex](https://cortexmetrics.io/) -为Prometheus提供水平可扩展，高可用性，多租户的长期存储.
+- [Cortex](https://cortexmetrics.io/) -为Prometheus提供水平可扩展，高可用性，多租户的长期存储.
 - [Jaeger](https://www.jaegertracing.io/) -分布式跟踪平台后端，用于对基于微服务的分布式系统进行监视和故障排除.
 - [OpenTelemetry](https://opentelemetry.io/) -云原生软件的可观察性框架，包括用于将应用程序性能指标导出到跟踪后端的工具，API和SDK的集合（以前由OpenTracing和OpenCensus项目维护）.
 - [Prometheus](https://prometheus.io/) -最初在SoundCloud上构建的开源系统监视和警报工具包.

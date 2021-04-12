@@ -297,7 +297,7 @@ WebWorker中的大多数核心角度框架.
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) 曼宁出版物
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙尔玛（Ankit Sharma）`
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) 安吉·沙玛（Ankit Sharma）
 
 #### On-Site Training
 
@@ -313,7 +313,7 @@ WebWorker中的大多数核心角度框架.
 
 #### Approach and Explanation
 
-*维克多·萨夫金
+*维克多·萨夫金（Victor Savkin）
 
   * [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
   * [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
@@ -342,7 +342,7 @@ WebWorker中的大多数核心角度框架.
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托·乔治·耶夫（Hristo Georgiev）
+*赫里斯托·格奥尔基耶夫
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -371,6 +371,7 @@ WebWorker中的大多数核心角度框架.
 
 * [segal-decorators](https://github.com/danrevah/segal-decorators) 一堆有用的Web装饰器！
 * [ng-portal](https://github.com/nigrosimone/ng-portal) Angular应用程序中的组件属性连接.
+* [ng-lock](https://www.npmjs.com/package/ng-lock) 角装饰器，用于在任务运行时锁定功能和用户界面.
 
 #### Site Templates
 
@@ -581,7 +582,7 @@ WebWorker中的大多数核心角度框架.
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard)  Cookie / sessionStorage / localStorage的包装，用于angular2. 如果所有都不可用，请使用内存中的存储器.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) 使用ES6 Proxies for Angular 2编写的localStorage和sessionStorage包装器
 * [ngx-store](https://github.com/zoomsphere/ngx-store) -用于管理`localStorage`，`sessionStorage`和cookie的复杂库，允许观看数据更改，基于构建器模式提供装饰器和API
-* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -一个功能强大，自动且经过优化的Angular 2缓存系统，可随处使用！
+* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -功能强大，自动且经过优化的Angular 2缓存系统，可满足所有需求！
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) -通过在客户端上自动缓存远程请求来加快它们的速度.
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) -@ fulls1z3的Angular缓存实用程序（包括浏览器和服务器平台实现）
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) -Angular的存储和状态管理
@@ -651,7 +652,6 @@ WebWorker中的大多数核心角度框架.
 #### Viewers
 
 * [egjs-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) -可靠，灵活且可扩展的Angular传送带.
-* [ng2-markdown](https://github.com/evanplaice/ng2-markdown) Angular2 Markdown Web组件
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF查看器组件
 * [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) Angular 2的非常小巧和安全的img
 * [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) -角形通用旋转木马.
@@ -732,7 +732,7 @@ WebWorker中的大多数核心角度框架.
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) -准备使用基于Angular 2和AdminLTE引导主题的仪表板控制面板种子项目.
 * [ngx-admin](https://github.com/akveo/ngx-admin) -基于Nebular框架（Angular 4 +，Bootstrap 4+）的管理模板
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
-* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程，演示了此单元
+* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程.
   and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) -使用Webpack构建的Tour of Heroes官方打字稿教程
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) -配置了Angular2，TypeScript和Webpack的简单入门工具.
@@ -976,7 +976,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 #### Security
 
- *因此，您认为使用AngularJS是安全的吗？ 再想一想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
+ *因此，您认为使用AngularJS是安全的吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
   ##### 验证
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)

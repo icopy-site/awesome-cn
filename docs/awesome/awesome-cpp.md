@@ -91,6 +91,7 @@
 * [Maximilian](https://github.com/micknoise/Maximilian)  -C ++音频和音乐DSP库.  [麻省理工学院]
 * [OpenAL](http://www.openal.org/)  -开放音频库-跨平台音频API.  [BSD / LGPL /商业]
 * [miniaudio](https://github.com/dr-soft/miniaudio)  -单文件音频播放和捕获库.  [无牌]
+* [ni-media](https://github.com/NativeInstruments/ni-media)  -用于读取和写入音频文件的C ++库.  [麻省理工学院]
 * [Opus](http://opus-codec.org/)  -完全开放，免版税，功能广泛的音频编解码器.  [BSD]
 * [PortAudio](http://www.portaudio.com/)  -PortAudio是一个免费的，跨平台的开源音频I / O库.  [麻省理工学院]
 * [SELA](https://github.com/sahaRatul/sela)  -简单的无损音频.  [和]

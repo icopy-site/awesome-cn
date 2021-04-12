@@ -28,6 +28,9 @@
 - [playwright-sharp](https://github.com/microsoft/playwright-sharp) - Official Playwright port to .NET with C#.
 - [playwright-java](https://github.com/microsoft/playwright-java) -Java的正式Playwright端口.
 - [playwright-go](https://github.com/mxschmitt/playwright-go) -Golang的Playwright端口.
+- [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) -Ruby的Playwright端口.
+- [playwright-cr](https://github.com/naqvis/playwright-cr) -水晶的Playwright端口.
+- [playwright-rust](https://github.com/octaltree/playwright-rust) -用于Rust的Playwright端口.
 
 ## Utils
 

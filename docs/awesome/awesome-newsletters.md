@@ -28,7 +28,7 @@
 - [Web Development Reading List](https://wdrl.info) . 本新闻通讯分享了Web开发中的最新文章.
 - [Fullweb Weekly](http://fullweb.io/) . 全栈Web开发人员的每周新闻. 它每周向您发送有关Web前端和后端，开发人员和用户体验的前5个链接.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周新闻通讯，讨论围绕Web平台的有趣话题和热门话题. [Archive](https://ponyfoo.com/weekly/history).
-- [Dev Awesome](https://devawesome.io/) . 每两周在收件箱中获取最新的编程新闻，凉爽的库和生产率提示.
+- [Dev Awesome](https://devawesome.io/). Get the latest programming news, cool libraries and productivity tips in your inbox every two weeks.
 - [Insnippets](https://insnippets.com) . 带有TL; DR的每日新闻通讯，其中包含有关Web开发，Devops和分布式系统的有趣主题的信息.
 - [JAMstacked](https://jamstack.email/) . 有关不断发展的JAMstack生态系统的电子邮件更新.
 - [FreeCodeCamp](https://www.freecodecamp.org) . 每周从FreeCodeCamp学习平台中选择五篇文章，视频或整个课程.
@@ -36,7 +36,7 @@
 
 ### JavaScript
 
-- [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
+- [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript新闻和文章的每周一次免费电子邮件摘要. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次向电子通讯发送电子邮件，其中包含针对设计人员和开发人员的有用提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 每隔一周就会向您的收件箱发送一个快速的JavaScript提示.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计时事通讯，重点关注工具.
@@ -71,6 +71,10 @@
 - [Vue.js Newsletter](https://news.vuejs.org) . 每周精选的Vue.js新闻.
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers) . 每周精选最好的文章，最新新闻和最酷的Vue项目的出版物.
 - [VueDose](https://vuedose.tips) . 有关忙碌的开发人员的Vue生态系统的提示和技巧. 每周出版.
+
+#### Svelte
+
+- [Svelte News Weekly](https://svelte.news/weekly) . 为Svelte爱好者精心策划的新闻通讯，每周精选新闻.
 
 ### Data Visualization
 
@@ -127,7 +131,7 @@
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) . 每周接收来自行业内部人士的编程新闻和见解.
 - [Programming Digest](https://programmingdigest.net/) . 面向软件工程师的每周通讯，其中包含前5个链接. [Archive](https://programmingdigest.net/digests).
 - [Morning Cup of Coding](https://morningcupofcoding.com) . 每日新闻通讯，其中包含编程所有领域的长篇技术文章.
-- [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三发送一封电子邮件，其中包含来自的新软件开发提示 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从git到职业生涯到网站开发再到个人发展和团队合作.
+- [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip from [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从git到职业生涯到网站开发再到个人发展和团队合作.
 - [LLVM Weekly](http://llvmweekly.org) . 每周简讯，涵盖LLVM，Clang和相关项目的发展.
 - [Discover dev](https://www.discoverdev.io) . 每周摘要来自网络的最佳工程博客. [Archive](https://www.discoverdev.io/archive).
 - [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/) . 每两周进行一次深入的代码审查相关文章.
@@ -330,7 +334,7 @@
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
-- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
+- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/) . 免费的每周新闻通讯，精选与数据科学相关的新闻，文章和工作.
 - [Data Eng Weekly](https://dataengweekly.com) . 您的每周数据工程新闻（以前是Hadoop每周新闻）. [Archive](https://dataengweekly.com/archive.html).
 - [Data Elixir](https://dataelixir.com/) . 每周一期的新闻通讯，介绍来自网络的最佳数据科学新闻和资源. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
@@ -338,7 +342,7 @@
 - [Machine Learnings](http://subscribe.machinelearnings.co/) . 每周有关ML和AI新闻的摘要.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来有关人工智能，机器人技术和神经技术的最新信息.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破，应用和失败之处. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
-- [AI Digest](https://aidigest.net/) . 每周新闻通讯，以了解人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收有关机器学习专业人员策划的开源框架，教程和文章的更新. 获得有关机器学习可解释性，可再现性，模型评估，特征分析及其他方面的最佳实践，工具和技术的见解.
 
 ## Blockchain / Cryptocurrencies
@@ -402,7 +406,7 @@
 - [Changelog Nightly](https://changelog.com/nightly) . 每天晚上10点（美国东部时间）的一封电子邮件，在GitHub上发布了最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和Web应用程序的目录.
-- [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
+- [lkml.wtf](https://lkml.wtf/) . 每周一次的Linux Kernel Mailing List线程综述，但讽刺得多.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的，独特的“彩票”新闻通讯，其中选择了一个订阅者，并将其电子邮件提交发送给所有其他订阅者. 主题在主题和质量上都有所不同.
 - [tl;dr Marketing](https://tldrmarketing.com/) . 面向数字营销者的每周新闻，涵盖有关SEO，PPC和社交媒体的新闻.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业策划知识，灵感和背景故事. 每个星期一和星期四都发送到您的收件箱.
