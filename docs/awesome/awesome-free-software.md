@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-此列表中的软件以允许任何人出于任何目的使用，修改和共享该软件的条款进行分发. 最受欢迎的两个许可证是 [MIT License](https://choosealicense.com/licenses/mit/) 和 [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)， 但这有 [many other licenses](https://choosealicense.com/appendix/) 授予这些权限.
+此列表中的软件以允许任何人出于任何目的使用，修改和共享该软件的条款进行分发. 最受欢迎的两个许可证是 [MIT License](https://choosealicense.com/licenses/mit/) 和 [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)， 但是这里有 [many other licenses](https://choosealicense.com/appendix/) 授予这些权限.
 
 
 
@@ -24,7 +24,7 @@
 - [Logdissect](https://github.com/dogoncouch/logdissect/)  -CLI工具和Python API，用于分析日志文件和其他数据.  （[MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  -通过SSH，Telnet，SCP和rlogin协议以及原始套接字连接进行连接的远程终端仿真器.  （[MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](https://ranger.github.io/)  -用于GNU / Linux的最小，轻巧和美观的文件浏览器. 它运行在终端窗口中，因此非常适合i3之类的窗口管理器.  vi键绑定允许执行快速操作，包括重命名和删除.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
-- [GNU stow](https://www.gnu.org/software/stow/)  -GNU Stow是一个symlink服务器场管理器，它采用位于文件系统上不同目录中的不同软件和/或数据包，并使它们看起来安装在同一位置.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+- [GNU stow](https://www.gnu.org/software/stow/)  -GNU Stow是一个symlink服务器场管理器，它采用位于文件系统上不同目录中的不同软件和/或数据包，并使它们看上去安装在同一位置.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 - [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) -用于管理软件项目中的i18n密钥的开源工具.
 
 ### Communication
@@ -50,6 +50,7 @@
 ### File Sharing
 
 - [qBittorrent](https://www.qbittorrent.org/)  -易于使用的BitTorrent客户端.  （[GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
+- [Sharry](https://eikek.github.io/sharry/)  -方便的文件共享Web应用程序，使您可以上传文件并获取一个可以共享的URL.  （[GNU GPLv3+](https://github.com/eikek/sharry/blob/master/LICENSE.txt))
 
 ### Graphics
 
@@ -145,8 +146,8 @@
 - [MediaGoblin](http://mediagoblin.org/)  -适用于所有类型媒体的发布平台.  （[GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org)  -Wiki软件，可以组织和提供大量频繁访问的数据.  （[GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [MetaGer](https://metager.de/en)  -由非营利组织创建的私有搜索引擎，其服务器使用绿色电力.  （[GNU AGPLv3](https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE))
-- [Neocities](https://neocities.org/)  -适用于现代世界的地理城市.  （[BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
-- [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
+- [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
+- [NotABug.org](https://notabug.org/)  -用于免费许可项目的协作平台.  （[MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org)  -由用户创建并在开放许可下发布的世界地图.  （[GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube)  -分散式视频流服务.  （[GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Phabricator](https://phacility.com/phabricator/)  -使用PHP构建的代码管理平台（类似于GitLab）.  （[Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))

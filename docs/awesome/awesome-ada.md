@@ -102,7 +102,7 @@
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中的本书，从初学者到高级概念，并附带源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -一本书，从Ada 95的初学者到高级概念，并附带源文件.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
@@ -173,7 +173,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了全面的工具集（IDE，调试器，库，动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -186,7 +186,7 @@
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) -基于CodingGround引擎构建的在线编译器.
 - [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) -提供多个版本的GNAT进行测试的在线编译器.
-- [compiler-explorer](https://godbolt.org/) -从您的Web浏览器以交互方式运行GNAT FSF编译器，并与程序集交互.
+- [compiler-explorer](https://godbolt.org/) -从您的Web浏览器以交互方式运行GNAT FSF编译器，并与程序集进行交互.
 
 ## Edit
 
@@ -244,7 +244,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并证明的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲的东西.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何OS的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
@@ -304,12 +304,12 @@
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了一种与Java统一表达语言（EL）接近的简单表达语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) -Ada Server Faces允许使用与Java Server Faces相同的模式创建Web应用程序（请参阅JSR 252，JSR 314和JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) -Ada Servlet允许使用与Java Servlet相同的模式创建Web应用程序（请参阅JSR 154，JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持在给定OpenAPI规范的情况下自动生成API客户端库，服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持自动生成API客户端库，服务器存根和给定OpenAPI规范的文档.
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架. 它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) -Ahven是用于Ada编程的简单单元测试库和框架.
-语言. 它以JUnit和AUnit的一些想法为基础而松散地建模.
+语. 它以JUnit和AUnit的一些想法为基础而松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) -Ada单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) -Ada中的行为驱动开发.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) -支持使用Tcl脚本进行功能测试.
@@ -331,7 +331,7 @@
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) -针对GCC定制的Ada合格评定测试套件.
-- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) -对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
@@ -429,7 +429,7 @@
 - [xia](https://github.com/simonjwright/xia) -XPath 1.0的Ada实现.
 
 #### Format Readers and Writers
-- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config软件包组成，该软件包可以读取和修改来自称为“ ini”文件的各种配置文件的信息.
+- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件中的信息.
 - [protobuf-ada](https://github.com/persan/protobuf-ada) -针对Google协议缓冲区的实验性Ada代码生成支持.
 - [ada-yaml](https://github.com/yaml/AdaYaml) -Ada中的实验性YAML 1.3实现.
 - [json-ada](https://github.com/onox/json-ada) -用于解析JSON的Ada 2012库.
@@ -462,15 +462,15 @@
 #### Web
 - [template-parser](https://github.com/AdaCore/templates-parser) -AWS模板引擎.
 
-### Computer Graphics
+#### Graphics and Multimedia
 - [orka](https://github.com/onox/orka) -Ada 2012中的OpenGL 4.6渲染内核.
-- [opengl-ada](https://github.com/flyx/OpenGLAda) -用于OpenGL和GLFW的厚Ada绑定.
+- [opengl-ada](https://github.com/flyx/OpenGLAda) -适用于OpenGL和GLFW的厚Ada绑定.
 - [adagl](https://github.com/godunko/adagl) -多平台Ada / OpenGL绑定（移植到本机/ OpenGL，A2JS / WebGL和WASM / WebGL）.
 - [sdlada](https://github.com/Lucretia/sdlada) -2012年对SDL 2的绑定.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) -存在与NanoVG的绑定.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) -适用于Ada 2005的FreeType绑定.
 
-### General Purpose Computing
+#### General Purpose Computing
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) -CUDA / Ada是绑定到NVIDIA CUDA并行计算平台和编程模型的Ada.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) -用于OpenCL主机API的Ada绑定.
 

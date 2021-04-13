@@ -33,6 +33,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实施多套
  * [qr-code](https://github.com/spider-gazelle/qr-code) -QR码生成器
  * [radix](https://github.com/luislavena/radix) -基数树实施
+ * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) 用于空间索引
 
 ## Blockchain
  * [Axentro](https://github.com/Axentro/Axentro) -定制的区块链平台
@@ -58,7 +59,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) -实施memcached客户端
 
 ## CLI Builders
- * [admiral](https://github.com/jwaldrip/admiral.cr) -用于编写命令行界面的强大DSL
+ * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
  * [clicr](https://github.com/j8r/clicr) -一个简单的声明性命令行界面生成器
  * [clim](https://github.com/at-grandpa/clim) -苗条的命令行界面构建器
  * [commander](https://github.com/mrrooijen/commander) -命令行界面构建器
@@ -167,7 +168,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Examples and funny stuff
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) -控制台二十一点
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -GOF模式的示例
- * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实施
+ * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
  * [exercism-crystal](https://github.com/exercism/crystal) -锻炼运动
  * [try.cr](https://github.com/maiha/try.cr) -尝试monad
 
@@ -175,7 +176,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) -调解员和观察员模式事件库
  * [Athena Negotiation](https://github.com/athena-framework/negotiation) -与框架无关的内容协商库
  * [device_detector](https://github.com/creadone/device_detector) -通过用户代理字符串检测设备的分片
- * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+ * [Exception Page](https://github.com/crystal-loot/exception_page) -Crystal Web库和框架的特殊例外页面
  * [graphql](https://github.com/graphql-crystal/graphql) -类型安全 [GraphQL](http://graphql.org) 服务器实施
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) 执行
  * [kemal-session](https://github.com/kemalcr/kemal-session) -凯末尔的交易时段
@@ -219,6 +220,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) -HTTP客户端（Crystal stdlib）
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) -HTTP服务器（Crystal stdlib）
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) -HTTP WebSocket客户端（Crystal stdlib）
+ * [link-header](https://github.com/spider-gazelle/link-header) -HTTP链接头解析器
  * [ntlm](https://github.com/spider-gazelle/ntlm) -NTLM身份验证
  * [proxy-fetcher.cr](https://github.com/nbulaj/proxy-fetcher.cr) -代理列表获取和验证库
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) 客户
@@ -381,9 +383,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [microtest](https://github.com/Ragmaanir/microtest) -专注于断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
- * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
+ * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
- * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用于与`Time.now`进行嘲讽的库. 受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用于与`Time.now`进行嘲讽的库. 受启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -水晶的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  -页面对象库. 受到Ruby的启发 [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) -用于存根HTTP :: Client请求的库
@@ -476,7 +478,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) -调试解析器和格式化程序的帮助器工具
- * [crystal-base](https://github.com/ruivieira/crystal-base) -用于Crystal开发的CentOS基本docker映像
+ * [crystal-base](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) 文档集生成器
  * [public_suffix](https://github.com/toddsundsted/public_suffix) -旨在简化公共后缀列表（https://publicsuffix.org/）的小型图书馆
 
@@ -507,7 +509,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) -`cr`和`ecr`文件的格式化程序，linter和语法突出显示
 
 ## LSP Language Server Protocol Implementations
- * [crystalline](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language.
+ * [crystalline](https://github.com/elbywan/crystalline) -Crystalline是用Crystal语言编写的语言服务器协议的实现.
  * [scry](https://github.com/crystal-lang-tools/scry) -用于Crystal实现代码分析的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins

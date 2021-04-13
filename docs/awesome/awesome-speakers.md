@@ -190,7 +190,7 @@ https://twitter.com/smkamranqadri
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/narainsagar" height="70px" width="70px" align="left" alt="" />
 
-**纳兰·萨加尔（Narain Sagar）** \
+**纳兰·萨加尔** \
 主题：Angular，JavaScript，TypeScript，Node.js，Docker，持续集成，工具，自动化测试\
 https://twitter.com/narainsagar
 
@@ -255,7 +255,7 @@ https://twitter.com/markdalgleish
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/philnash" height="70px" width="70px" align="left" alt="" />
 
 **菲尔·纳什** \
-Topics: JavaScript, Web Development, Progressive Web Apps\
+主题：JavaScript，Web开发，渐进式Web Apps \
 https://twitter.com/philnash
 
 ## Europe
@@ -321,12 +321,6 @@ https://twitter.com/glnnrys
 ** Jan Hruby ** \
 主题：React，Redux，JS中的CSS，React Native，无服务器，GraphQL \
 https://twitter.com/mrozilla
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="" />
-
-** JuhoVepsäläinen** \
-主题：3D图形，业务，React，Webpack，写作\
-https://twitter.com/bebraw
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/karlhorky" height="70px" width="70px" align="left" alt="" />
 
@@ -444,17 +438,49 @@ https://twitter.com/tereza_sokol
 
 ### Helsinki
 
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="" />
+
+** Eemeli Aro ** \
+主题：开源，React，YAML \
+https://twitter.com/eemeli_aro
+
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="" />
 
 ** Juha Lindstedt ** \
 主题：JavaScript，RE：DOM，渐进式Web应用程序，性能，标准，CSS，Node.js \
 https://twitter.com/pakastin
 
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="" />
+
+** Juha Linnanen ** \
+主题：React Native，TypeScript，GraphQL \
+https://twitter.com/plrdev
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="" />
+
+** Juha-Matti Santala ** \
+主题：社区建设，文档，JavaScript，编程\
+https://twitter.com/Hamatti
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
+
+** MaaretPyhäjärvi** \
+主题：测试\
+https://twitter.com/maaretp
+
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="" />
 
 ** Varya Stepanova ** \
 主题：JS中的CSS，样式指南，视觉回归测试\
 https://twitter.com/varya_en
+
+### Rautalampi
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="" />
+
+** JuhoVepsäläinen** \
+主题：3D图形，业务，JavaScript，React，Webpack，写作\
+https://twitter.com/bebraw
 
 ## France 🇫🇷
 
@@ -1100,7 +1126,7 @@ https://twitter.com/sericaia
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/daviddias" height="70px" width="70px" align="left" alt="" />
 
-**大卫·迪亚斯** \
+**David Dias**\
 主题：IPFS，点对点，JavaScript，Node.js \
 https://twitter.com/daviddias
 
@@ -1169,7 +1195,7 @@ https://twitter.com/simalexan
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slobodan_" height="70px" width="70px" align="left" alt="" />
 
 ** Slobodan Stojanovic ** \
-Topics: Serverless, Offline Web, Chat Bots\
+主题：无服务器，脱机Web，聊天机器人\
 [https://twitter.com/slobodan\_](https://twitter.com/slobodan_)
 
 ## Spain 🇪🇸
@@ -1213,7 +1239,7 @@ https://twitter.com/erikras
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
 
 **穆罕默德·艾哈桑·阿亚兹** \
-主题：JavaScript，Angular，Node.js，Ionic，Firebase，Stencil，渐进式Web Apps \
+Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
 https://twitter.com/muhd_ahsanayaz
 
 ## Switzerland 🇨🇭
@@ -1447,7 +1473,7 @@ https://twitter.com/areaweb
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/dan_abramov" height="70px" width="70px" align="left" alt="" />
 
 **和阿布拉莫夫** \
-主题：JavaScript，React，Redux，工具\
+Topics: JavaScript, React, Redux, Tooling\
 https://twitter.com/dan_abramov
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Folletto" height="70px" width="70px" align="left" alt="" />
@@ -1467,6 +1493,12 @@ https://twitter.com/gerardsans
 ** Gojko Adzic ** \
 主题：测试，需求，无服务器\
 https://twitter.com/gojkoadzic
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jevakallio" height="70px" width="70px" align="left" alt="" />
+
+** JaniEväkallio** \
+主题：自我开发，编程\
+https://twitter.com/jevakallio
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MicheleBertoli" height="70px" width="70px" align="left" alt="" />
 
@@ -1776,7 +1808,7 @@ https://twitter.com/bitandbang
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="" />
 
-**Addy Osmani**\
+**艾迪·奥斯曼（Addy Osmani）** \
 主题：Chrome DevTools，性能\
 https://twitter.com/addyosmani
 
@@ -2022,7 +2054,7 @@ https://twitter.com/ladyleet
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
 
-**Jaime Lopez**\
+**海梅·洛佩兹（Jaime Lopez）** \
 主题：iOS，Swift，软件体系结构，开发过程\
 https://twitter.com/DevWithTheHair
 
@@ -2089,7 +2121,7 @@ https://twitter.com/carolcode
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fembernardo" height="70px" width="70px" align="left" alt="" />
 
 **费尔南达·伯纳多（Fernanda Bernardo）** \
-主题：CSS，JavaScript，HTML \
+Topics: CSS, JavaScript, HTML\
 https://twitter.com/fembernardo
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/JoaoVictor_AC" height="70px" width="70px" align="left" alt="" />

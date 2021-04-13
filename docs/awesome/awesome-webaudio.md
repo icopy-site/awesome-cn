@@ -33,12 +33,12 @@
 - [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) -使用Web Audio和Canvas的交互式可导航音频可视化.
 - [Audiojs](https://github.com/audiojs/audio) -使您能够更轻松地存储，读取和写入PCM音频数据的对象.
 - [Tuna](https://github.com/Theodeus/tuna) -音频效果库.
-- [Rythm.js](https://okazari.github.io/Rythm.js/) -一个使您的页面跳舞的JavaScript库.
+- [Rythm.js](https://okazari.github.io/Rythm.js/) -一个使页面跳动的JavaScript库.
 - [Howler.js](https://github.com/goldfire/howler.js) -全面的库，具有HTML5音频的后备功能.
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) -使用Web Audio API和ECharts在圆形波形中进行音频可视化的JS库.
 - [Wad](https://github.com/rserota/wad)  -网络音频DAW. 使用Web Audio API进行动态声音合成. 您的耳朵就像jQuery.
 - [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) -将Web音频功能添加到广告素材编码库的扩展 [p5.js](https://p5js.org/).
-- [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) -一个JavaScript库，可通过在Webaudio API上进行一些简洁的抽象来使用机器学习模型并在浏览器中生成音乐.
+- [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) -一个JavaScript库，通过在Webaudio API上进行一些简洁的抽象，可以使用机器学习模型并在浏览器中生成音乐.
 - [soundfont-player](https://www.npmjs.com/package/soundfont-player) -使用WebAudio API播放MIDI声音的soundfont加载器/播放器.
 
 ### Utilities
@@ -62,26 +62,27 @@
 - [GridSound](https://gridsound.github.io) -进行中的DAW（数字音频工作站）.
 - [Learning Music](https://learningmusic.ableton.com/) -学习音乐制作的基础知识.
 - [Super Oscillator](https://github.com/lukehorvat/super-oscillator) -用于Web的交互式3D音乐合成器.
-- [AudioNodes](https://audionodes.com) -模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等.
-- [waveform-playlist](https://github.com/naomiaro/waveform-playlist)  -具有画布波形预览的多轨Web音频编辑器和播放器. 设置提示，淡入淡出并及时移动多个音轨. 录制音轨或提供音频注释. 将您的混音导出到AudioBuffer或WAV！ 受Audacity启发的项目.
+- [AudioNodes](https://audionodes.com) -具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等的模块化音频制作套件.
+- [waveform-playlist](https://github.com/naomiaro/waveform-playlist)  -具有画布波形预览的多轨Web音频编辑器和播放器. 设置提示，淡入淡出并及时移动多个音轨. 记录音轨或提供音频注释. 将您的混音导出到AudioBuffer或WAV！ 受Audacity启发的项目.
 - [SoundCycle](https://github.com/scriptify/soundcycle) -基于Web音频的Loopstation，适用于具有效果和不同循环模式的音乐家.
 - [DSP.audio Worklet Editor](https://dsp.audio/editor/)  -在线音频Worklet编辑器，可与采样器，MIDI和分析器进行素描和协作. 类似于JSFiddle，但用于DSP.
-- [AudioMass](https://audiomass.co/) -免费，开源，基于Web的音频和波形编辑器.
+- [AudioMass](https://audiomass.co/) -免费，开放源代码，基于Web的音频和波形编辑器.
 - [Csound IDE](https://ide.csound.com/) 用于的Web IDE [CSound programming language](https://en.wikipedia.org/wiki/Csound).
 - [jamhub](https://github.com/fletcherist/jamhub) -低延迟的远程音乐协作和卡纸.
 - [Web Audio Metronome](https://github.com/cwilso/metronome) -使用Web音频计划程序和setTimeout计划程序的节拍器应用程序
+- [EarSketch](https://earsketch.gatech.edu/landing/#/) -免费的教育编程环境，可通过音乐创作和混音来教授Python和Javascript
 
 ## Resources
 
 ### Tutorials
 
-- [WebAudio School](https://github.com/mmckegg/web-audio-school) -一系列学习WebAudio的自营研讨会.
+- [WebAudio School](https://github.com/mmckegg/web-audio-school) -一系列自学式的学习WebAudio的研讨会.
 - [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) -旨在使那些了解一些JavaScript和基本音频原理的人易于理解的参考.
 - [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) -WebAudio简介.
-- [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) -越来越多的带有CodePen链接的轻型代码示例.
+- [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) -越来越多的带有CodePen链接的轻型代码示例集.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) -各种AudioNode的性能和有效利用资源的策略（自WAC2016起）.
-- [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) -本教程将通过编写代码以合成简单的打击乐声音（来自WAC2016）来介绍Web音频编程的基础.
-- [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) -由音频程序员YouTube频道主持的Dan Tramte的视频教程播放列表.
+- [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) -本教程将通过编写代码来合成简单的打击乐声音（来自WAC2016），介绍Web音频编程的基础.
+- [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) -由音频程序员YouTube频道托管的Dan Tramte的视频教程播放列表.
 
 ### Books
 
@@ -90,7 +91,7 @@
 
 ### Newsletters
 
-- [Web Audio Weekly Newsletter](https://www.webaudioweekly.com) -每周回顾网络音频中发生的情况.
+- [Web Audio Weekly Newsletter](https://www.webaudioweekly.com) -每周检查Web音频中发生的情况.
 
 ### Community
 
@@ -98,7 +99,7 @@
 
 ## Obsolete
 
-自2019年1月以来没有活动或正式死亡的项目.
+自2019年1月以来没有活动的项目或正式死亡.
 
 - [Gibberish](https://github.com/gibber-cc/gibberish) -一个JavaScript DSP库，它使用代码生成技术创建JIT优化的音频回调.
 - [lissajous](https://github.com/kylestetz/lissajous) -用于程序化音频性能的工具.
@@ -113,19 +114,19 @@
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) -Karplus-Strong吉他合成的JavaScript / Web Audio实现.
 - [osc-msg](https://github.com/mohayonao/osc-msg) -具有容错功能的OSC消息解码器/编码器.
 - [Pizzicato](https://github.com/alemangui/pizzicato) -一个旨在简化浏览器中声音的创建和处理的库.
-- [Mooog](https://github.com/mattlima/mooog) -受jQuery和混合表启发的简化AudioNodes使用的工具.
+- [Mooog](https://github.com/mattlima/mooog) -受jQuery和混合表启发的简化AudioNode的工具.
 - [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) -用于网络音频的简单ADSR信封生成器.
 - [audio contour](https://github.com/danigb/audio-contour) -5级音频包络发生器.
 - [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) -记录音频输入（Web Audio API AudioNode对象）并编码为音频文件图像（Blob对象）的库.
 - [audiolet](https://github.com/oampo/Audiolet) -一个JavaScript库，用于在浏览器中进行实时音频合成和合成.
-- [playnote](https://github.com/createbits/playnote) -在浏览器中以复杂的音符间隔和音阶演奏您喜欢的乐器.
+- [playnote](https://github.com/createbits/playnote) -使用复杂的音符间隔和音阶在浏览器中弹奏您喜欢的乐器.
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) -一个用于记录/导出Web Audio API节点输出的插件.
 - [resampler](https://github.com/notthetup/resampler) -用于重新采样音频的实用程序.
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) –检测歌曲或音频样本的BPM.
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) -Web Audio API常用的实用程序功能.
 - [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators) -Web Audio自定义振荡器的集合.
-- [midi-ports](https://github.com/AndrejHronco/midi-ports) -方便的资料库，使与连接的MIDI设备一起使用更容易.
-- [Midi Logger](http://outputchannel.com/midi-logger/) -此Midi Logger将所有Midi输入输出到浏览器以进行调试.
+- [midi-ports](https://github.com/AndrejHronco/midi-ports) -方便的资料库，使使用连接的MIDI设备更容易.
+- [Midi Logger](http://outputchannel.com/midi-logger/) -此Midi Logger会将所有Midi输入输出到您的浏览器以进行调试.
 - [Code Player](https://github.com/jcppman/code-player) -一个实验性应用，可让您的代码为您歌唱.
 - [Web Audio Modules](https://www.webaudiomodules.org/) -用于Web浏览器的合成器和音频效果处理器（API和实现）.
 

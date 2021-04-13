@@ -20,7 +20,7 @@ _awesome_ Common Lisp库的精选列表.
 在Awesome-cl列表中进行推广. 他们证明是可靠的，他们可能会解决
 一个比社区标准更好的问题，但事实并非如此
 普遍存在，或不被认为是稳定的. 例如，我们更喜欢
-Cl-Who上的喷丝板.
+Cl-Who的喷丝板.
 
 添加新的东西！ 见 [contributing](#contributing) 用于向中添加内容的部分
 list.
@@ -47,7 +47,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端. 用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统. 包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包. 它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在以更健壮，更具表现力，连贯性，反射性和柔和的方式实现其中的大部分功能. 通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在以更健壮，更具表现力，连贯性，反射性和柔韧性的方式实现大部分音乐. 通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定. 公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
 古老版本的通用音乐（2.12.0版），大概是最后一个
@@ -122,11 +122,11 @@ ORMs
 ----
 
 * ：星星： [clsql](http://www.cliki.net/CLSQL)  -具有Common Lisp接口的SQL数据库.  [LLGPL] [8].
-*  [mito](https://github.com/fukamachi/mito) -带有迁移，关系和PostgreSQL支持[LLGPL] [8]的Common Lisp的ORM. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个用于使用授权的mixin类； [mito-attachment](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
+*  [mito](https://github.com/fukamachi/mito) -带有迁移，关系和PostgreSQL支持[LLGPL] [8]的Common Lisp的ORM. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个用于使用授权的mixin类； [mito-attachment](https://github.com/fukamachi/mito-attachment)，RDBMS外部用于文件管理的混合类.
 * [cl-dbi](https://github.com/fukamachi/cl-dbi)  -Common Lisp的独立于数据库的接口.  [LLGPL] [8].
   * [dbd-oracle](https://github.com/sergadin/dbd-oracle)  -用于CL-DBI的Oracle数据库驱动程序.  [LLGPL] [8].
 * [crane](https://github.com/eudoxia0/crane)  -另一个ORM.  [Expat] [14].
-* [datafly](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
+* [datafly](https://github.com/fukamachi/datafly)  -轻量级的数据库库.  [3子BSD] [15].
 * [sxql](https://github.com/fukamachi/sxql)  -用于生成SQL的DSL.  [3子BSD] [15].
 
 持久对象数据库
@@ -187,7 +187,7 @@ Tools
 * [sycamore](https://github.com/ndantam/sycamore)  -快速，纯功能的数据结构库.  [BSD_3Clause] [15].
 * [genhash](https://github.com/pnathan/genhash)  –使用通用方法中的API实现哈希表. 公共区域.
 * [cl-ctrie](https://github.com/danlentz/cl-ctrie) -
-无锁，并发，键/值索引，具有高效的内存映射持久性和快速的瞬态存储模型.  [MIT] [200].
+lock-free, concurrent, key/value index with efficient memory-mapped persistence and fast transient storage models. [MIT][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  -数据结构和算法（主要是字典和序列，具有某些统计功能）的可移植集合.  [BSD] [15].
 * [listopia](https://github.com/Dimercel/listopia)  -受Haskell的Data.List启发的列表处理库.  [LLGPL] [8].
 * [hash-set](https://github.com/samebchase/hash-set/) -在CL哈希表顶部实现哈希集的便捷库[The Unlicense] [5]
@@ -262,18 +262,11 @@ Docker映像
 ================
 
 * [Xelf](http://xelf.me/)  -可扩展的游戏库. 在Quicklisp上不可用.  [GNU LGPL2.1] [11].
-* [Trial](https://github.com/shirakumo/trial) -试用版是OpenGL
-  高度注重模块化的游戏引擎. 应该是
-  提供有用的零散工具的大工具包，您可以从中
-  创建一个游戏.  [Artistic License 2.0] [47].
-* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) 和
-  [cl-out123](https://shirakumo.github.io/cl-out123)，绑定
-  分别用于libmpg123和libout123的库，让您快速
-  易于使用的mp3解码和跨平台音频
-  输出.  [Artistic License 2.0] [47].
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及收听鼠标和键盘输入.
-* [cl-gamepad](https://shirakumo.github.io/cl-gamepad)  -在Windows，Mac OS和Linux上访问游戏手柄和操纵杆.  [Artistic License 2.0] [51].
-* [virality](https://github.com/bufferswap/ViralityEngine) -用Common Lisp [Expat] [14]编写的基于组件的游戏引擎.
+* [Trial](https://github.com/shirakumo/trial)  -试用版是OpenGL游戏引擎，主要关注模块化. 它应该提供一个有用的零组件的大型工具包，您可以从中创建游戏.  [zlib] [33].
+* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) 和 [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 和 libout123 respectively, giving you fast 和 easy to use mp3 decoding 和 cross-platform audio output. [zlib][33].
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/)  –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及聆听鼠标和键盘输入.  [MIT] [200].
+* [cl-gamepad](https://shirakumo.github.io/cl-gamepad)  -在Windows，Mac OS和Linux上访问游戏手柄和操纵杆.  [zlib] [33].
+* [virality](https://github.com/bufferswap/ViralityEngine) -用Common Lisp [MIT] [200]编写的基于组件的游戏引擎.
 
 Graphics
 ========
@@ -309,10 +302,12 @@ GUI
 
 有关GUI工具包的概述和教程，请参见 [the Cookbook/GUI](https://lispcookbook.github.io/cl-cookbook/gui.html).
 
-* [LispWork's CAPI](http://www.lispworks.com/products/capi.html)  -具有移动运行时的便携式GUI工具包. 专有，但带有免费版本.
+* [LispWork's CAPI](http://www.lispworks.com/products/capi.html) - A portable GUI toolkit, with mobile runtime. Proprietary, but comes with a free version.
 *  [Qtools](https://github.com/Shinmera/qtools/)  -基于CommonQt的Qt工具包.  [Artistic许可2.0] [51]另外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件）， [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 * ：星星： [CommonQt](https://github.com/commonqt/commonqt)  -通过QtSmoke为Qt4的Common Lisp绑定.  [FreeBSD] [39].
 * ：星星： [ltk](http://www.peter-herth.de/ltk/)  -Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
+  * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) -为tkdocs教程提供LTk示例.
+  * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/) - A wrapper around the tklib/plotchart library to work with LTk. This includes over 20 different chart types (xy-plots, gantt charts, 3d-bar charts etc...).
 * [IUP](https://github.com/lispnik/iup/) -YFC绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA之前的版本）.  IUP是跨平台的（Windows，macOS，GNU / Linux，带有新的Android，iO，Cocoa和Web Assembly驱动程序），具有许多小部件，具有小的api，并且正在积极开发中.
 * [nodgui](https://notabug.org/cage/nodgui)  -基于Ltk的Tk工具箱的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
 * [cl-cffi-gtk](https://github.com/Ferada/cl-cffi-gtk/)  -绑定GTK + 3.  [GNU LGPL2.1] [11].
@@ -337,9 +332,9 @@ Implementations
 ===============
 
 * ：星星： [SBCL](http://www.sbcl.org/index.html)  -CMUCL的叉子； 编译为机器代码.  [符合标准] [13]. 公有领域，[Expat] [14]和[3-clause BSD] [15]下的某些部分.
-* ：星星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/) - Clozure Common Lisp; compiler-only implementation, generates native code.  [LLGPL][8].
+* ：星星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)  -Clozure普通Lisp； 仅限编译器的实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)  -可嵌入的普通Lisp； 编译为C.[GNU LGPL2.1] [11].
-* [ABCL](https://common-lisp.net/project/armedbear/)  -武装熊常见口齿不清； 针对JVM，编译为字节码.  [标准符合性] [4]. 具有[Classpath异常] [3]的[GNU GPL3] [2].
+* [ABCL](https://common-lisp.net/project/armedbear/)  -武装熊常见的口齿不清； 针对JVM，编译为字节码.  [标准符合性] [4]. 具有[Classpath异常] [3]的[GNU GPL3] [2].
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  -卡内基梅隆大学实施. 公共区域.
 * [GNU CLISP](http://www.clisp.org/)  -GNU实现； 包含一个编译器和一个解释器.  [标准符合性] [6].  [GNU GPL3] [2].
 * [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可使用LLVM与C ++库和程序无缝地互操作，以编译为本机代码. 这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
@@ -468,15 +463,15 @@ Lambda速记
 ------------------------------------
 
 * [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  -Common Lisp到ISO Prolog实施的通用接口.  [MIT] [200].
-* [Screamer](https://github.com/nikodemus/screamer) -增加普通
+* [Screamer](https://github.com/nikodemus/screamer) - augment Common
   Lisp具有Prolog和
-  constraint logic programming
+  约束逻辑程序设计
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
   解决欧拉计划难题.  [MIT] [200].
 * [Screamer+](https://github.com/yakovzaytsev/screamer-plus)  -提高SCREAMER的表现力.  [MIT] [200].
 * [Temperance](https://github.com/sjl/temperance)  -逻辑编程.  [MIT] [200]. 注重性能，同时考虑一般游戏.
 
-Reactive programming
+反应式编程
 --------------------
 
 * [Cells](https://github.com/kennytilton/cells)  -数据流编程范例的实现，类似于CLOS的反应式电子表格. 用来建一个 [algebra learning system](http://tiltontec.com/) . 和 [documentation](https://github.com/stefano/cells-doc/) .  Lisp LGPL.
@@ -563,7 +558,7 @@ Advanced
 --------
 
  * [Lake Over Lambda] [156]-一本有关高级宏技术的书. 所有八章都可以在印刷版本中找到.
-* [Common Lisp中的面向对象编程：CLOS程序员指南] [21]-一本关于CLOS的古老但非常详尽的书.
+* [Common Lisp中的面向对象编程：CLOS程序员指南] [21]-一本关于CLOS的老书，但非常详尽.
 * [人工智能编程范例：Common Lisp中的案例研究] [157]-一本有关编程AI的书，涵盖了一些高级Lisp.
 
 其他书籍
@@ -601,7 +596,7 @@ Community
 
 * [linux-packaging](https://gitlab.com/ralt/linux-packaging)  -使用单个ASDF声明为您的应用程序构建.deb，.rpm或.pkg软件包. 在引擎盖下使用fpm.  [MIT] [200].
 * [qldeb](https://github.com/ralt/qldeb) -Quicklisp系统到debian软件包，以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义s表达式创建一个debian软件包）和介绍 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) . 两者[MIT] [200].
-* [ql-to-deb](https://github.com/dimitri/ql-to-deb) -  Update cl-* debian packages from Quicklisp releases. WTFPL.
+* [ql-to-deb](https://github.com/dimitri/ql-to-deb)  -从Quicklisp版本中更新cl- * debian软件包.  WTFPL.
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎无需费力就可以将基于quicklisp的Common Lisp代码编译为.deb中的buildapp二进制文件.  [MIT] [200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  -用于（命令行）常见lisp应用程序的“自制”公式构建器. 公共区域.
 * [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) -一个BuildStream项目，用于为Common Lisp应用程序构建基于Flatpak的运行时环境.
@@ -652,7 +647,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-*  [easy-routes](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT][200].
+*  [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统. 它支持基于HTTP方法的分派，从URL路径中提取参数，装饰器，从路由名称中生成URL等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 * [hunchentoot-auth](https://github.com/slyrus/hunchentoot-auth)  -使用密码实施用户身份验证.  [BSD] [207].
@@ -666,7 +661,7 @@ HTTP服务器
   和OpenID. 在撰写本文时，它支持来自以下方面的身份验证：
    Google，Twitter，LinkedIn，StackExchange，Reddit和Github.  [Apache2.0] [51].
 * [clack-pretend](https://github.com/BnMcGn/clack-pretend) -测试
-  and debugging tool for clack. [Apache2.0][89].
+  和用于调试的调试工具.  [Apache2.0] [89].
 * [hermetic](https://github.com/eudoxia0/hermetic)  -基于Clack的Web应用程序的安全性.  [Expat] [14].
 * [live-reload](https://github.com/knobo/live-reload)  -实时重新加载原型以进行敲击.  [LLGPL] [8].
 * [clack-static-asset-middleware](https://github.com/fisxoj/clack-static-asset-middleware)  -用于破解的缓存破坏静态资产中间件.  [MIT] [200].
@@ -677,7 +672,7 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的Web框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -用于构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
+* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -RESTful Web框架.  Web服务器不可知. 目前支持Hunchentoot和Clack. 路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
@@ -853,7 +848,7 @@ Others
 * [linear-programming](https://neil-lindquist.github.io/linear-programming/)  –用于解决线性编程问题的库.  [MIT] [200].
 * [avm](https://github.com/takagi/avm)  -具有多线程和CUDA支持的高效且富有表现力的数组矢量数学库.  [MIT] [200].
 * [array-operations](https://github.com/bendudson/array-operations)  -用于处理Common Lisp数组并使用它们执行数值计算的函数和宏的集合.  [MIT] [200].
-* [cl-geometry](https://github.com/Ramarren/cl-geometry/)  -Common Lisp的二维计算几何系统.  [MIT] [200].
+* [cl-geometry](https://github.com/Ramarren/cl-geometry/) - a system for two dimensional computational geometry for Common Lisp. [MIT][200].
 * [Vellum](https://github.com/sirherrbatka/vellum)  -Common Lisp的数据帧.  BSD_2条款.
 * [rtg-math](https://github.com/cbaggers/rtg-math/)  -选择以Lisp（2、3和4分量矢量，3x3和4x4矩阵，四元数，球面和极坐标）实时图形最常需要的数学例程.  BSD_2条款.
 
@@ -928,7 +923,7 @@ Utils
   具有复杂事件过滤的多个处理程序
   系统.  [Artistic License 2.0] [51].
 * [cl-flow](https://github.com/borodust/cl-flow/)  -数据丰富的计算树库，用于非阻塞并发Common Lisp.  [MIT] [200].
-* [event-glue](https://github.com/orthecreedence/event-glue)  -简单的事件抽象. 没有依赖关系. 它可以在需要通用事件处理系统的任何地方使用.  [MIT] [200].
+* [event-glue](https://github.com/orthecreedence/event-glue) - simple eventing abstraction. No dependencies. It can be used anywhere you need a generic event handling system. [MIT][200].
 
 
 作业处理
@@ -956,7 +951,7 @@ Scripting
 
 *  [Roswell](https://github.com/roswell/roswell#scripting-with-roswell) -
   Lisp安装程序和脚本环境（帮助程序，启动器，
-  installer) and more. [MIT][200].
+  安装程序）等.  [MIT] [200].
 * [cl-all](https://github.com/shinmera/cl-all)  -在多个实现中运行Lisp代码段的脚本. 这使您可以快速比较实施行为和差异.  [Artistic License 2.0] [51].
 * [clawk](https://github.com/sharplispers/clawk)  -嵌入到Common Lisp中的AWK实现，用于在文件中搜索行并在其字段上执行指定的操作.  BSD风格.
 * [ScriptL](https://github.com/rpav/ScriptL)  -使Lisp像Shell脚本一样！ 或者，实时编码的远程函数需要外壳程序. 在REPL中编写命令，然后在Shell中立即运行它.  [LLGPL] [8].
@@ -1143,7 +1138,7 @@ Tools
 * [CLUnit](https://github.com/tgutu/clunit)  -单元测试库.  [Expat] [14].
 * [Rove](https://github.com/fukamachi/rove)  -Rove是Common Lisp应用程序的单元测试框架. 它旨在成为以下产品的继任者 [Prove](https://github.com/fukamachi/prove) .  [3子BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) -可扩展
-  和交叉兼容的测试框架. 有了测试依存关系，
+  和交叉兼容的测试框架. 有了测试依存关系
   条件，装置和重新启动.  [Artistic License 2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库. 也可以检查一下

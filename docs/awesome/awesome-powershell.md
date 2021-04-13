@@ -157,7 +157,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 ## Podcasts
 
-* [PowerScripting](https://powershell.org/podcast/) -乔恩·沃尔兹（Jon Walz）和哈尔·罗滕伯格（Hal Rottenberg）举办的每周表演.
+* [PowerScripting](https://powershell.org/category/podcast/) -乔恩·沃尔兹（Jon Walz）和哈尔·罗滕伯格（Hal Rottenberg）举办的每周表演.
 * [The PowerShell News Podcast](https://powershellnews.podbean.com/) -此播客是PowerShell上的最新新闻.
 
 ## Security
@@ -198,7 +198,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 ## Themes
 
-* [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) -可以通过一个命令启用许多精美的主题（包括许多很棒的电力线主题）.
+* [Oh-My-Posh](https://github.com/jandedobbeleer/oh-my-posh) -可以通过一个命令启用许多精美的主题（包括许多很棒的电力线主题）.
 * [PoshColor](https://github.com/JustABearOz/PoshColor) -从常见命令输出颜色，并支持自定义主题.
 * [Powerline](https://github.com/Jaykul/PowerLine) -用于更丰富的输出和提示的PowerShell类.
 * [Starship](https://github.com/starship/starship) -对于任何shell的最小，快速，可高度自定义的提示.
@@ -218,7 +218,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 * [PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017](https://www.youtube.com/watch?v=D15vh-ryJGk)  -PowerShell的发明者谈论“可帮助您自动化和管理混合云的最新，最酷的PowerShell功能”. 专注于PowerShell社区.
 * [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) -快速入门系列适用于以前没有使用PowerShell的IT专业人员，并且希望快速学习它.
-* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请参加高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
+* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请参加此高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
 * [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) -通过对PowerShell版本5.0中一些令人兴奋的新功能的描述.
 * [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) -视频集全面演示了PowerShell开源项目如何在Linux上运行.
 * [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) -PowerShell开源项目及其在Linux上的运行方式的简要介绍.

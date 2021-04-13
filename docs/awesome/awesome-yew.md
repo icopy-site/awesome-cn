@@ -32,7 +32,7 @@
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) -完全用Rust编写的网络应用，用于傻瓜派对游戏.
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) -演示如何将yew用于可编译为WebAssembly并捆绑为轻量级（〜2mb）桌面应用程序的todomvc [web-view](https://github.com/Boscop/web-view)，作为Electron的替代品， [web-view](https://github.com/Boscop/web-view) 也有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) -该项目展示了如何使用Yew组件内部的React组件创建Web应用程序.
-- [Kirk](https://github.com/stkevintan/Kirk) -只是Rust WebAssembly博客.
+- [Kirk](https://github.com/stkevintan/Kirk) - Just A Rust WebAssembly Blog.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) -玩具项目，以学习可以部署到Web的Rust和async.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) -Rust中具有网络功能的简单卡拉OK播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) -紫杉（Rust）手机游戏《我爱色相》的克隆.
@@ -45,7 +45,7 @@
 - [Freecell](https://github.com/Stigjb/freecell) -用Rust和Yew编写的耐心游戏.
 - [Daydream](https://github.com/MTRNord/Daydream) -用Rust编写的小型Matrix网络客户端.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) -与Yew进行的简单WebRTC聊天.
-- [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建完整的堆栈应用程序.
+- [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在这个Rust / Yew / WebAssembly应用中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) -使用Rust，Wasm和Yew编写的单页应用程序（SPA）.
 - [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到结对编程的合作伙伴. 用红豆杉前端写在Rust中.
@@ -58,6 +58,7 @@
 - [website-wasm](https://github.com/kamiyaa/website-wasm) -我通过Yew / Wasm用Rust编写的个人网站.
 - [KeyPress](https://github.com/rayylee/keypress) -Rust WebAssembly网站示例，用于练习中文的英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) -Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于Yew最新的钩子和功能API的示例，其代码风格非常类似于React Function Component.
+- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) -与Yew一起显示d3图表.
 ## Templates
 
 - [Create Yew App](https://github.com/jetli/create-yew-app) -通过运行一个命令“ npx create-yew-app my-app”来设置现代的Yew网络应用.
@@ -82,7 +83,7 @@
 
 ### Components
 
-- [Yew Form](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+- [Yew Form](https://github.com/jfbilodeau/yew_form) -使用Yew简化处理表格的组件.
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) -紫杉类组件，当父组件更改宽度/高度时会发出事件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) -用于虚拟滚动/滚动窗口的红豆杉组件.
 
@@ -101,7 +102,7 @@
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件来安装`wasm-pack`，以加快CI / CD的速度.
-- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加快CI / CD的速度.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加速CI / CD.
 - [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
 - [Trunk](https://github.com/thedodd/trunk) -生成，捆绑并将Rust Wasm应用程序发送到网络.
 - [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.

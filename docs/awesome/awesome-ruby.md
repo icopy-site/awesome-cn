@@ -13,7 +13,7 @@
 
 社区驱动的很棒的Ruby库，工具，框架和软件的分类集合. 构建现代应用程序和Web应用程序必不可少的Ruby.
 
-随时欢迎分享，建议和贡献！ 请看看 [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
+随时欢迎分享，建议和贡献！ 请看看 [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) 第一的.
 
 谢谢大家 [contributors](https://github.com/markets/awesome-ruby/graphs/contributors)，您真棒，没有您，这将是不可能的！
 
@@ -66,7 +66,7 @@
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
 * [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) -用于Ruby对象的快速JSON：API序列化器.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) -JSONAPI :: Resources或“ JR”为开发符合JSON API规范的服务器提供了框架.
-* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种轻松的方法来构建现代JSON API，而无需花费太多或更少的学习时间.
+* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种轻松的方法来构建现代JSON API，而无需花太多时间或很少学习.
 * [Jsonite](https://github.com/crepe/jsonite) -适用于您的API的小型，符合HAL的JSON演示程序.
 * [Pliny](https://github.com/interagent/pliny) -带有意见的模板Sinatra应用程序，用于在Ruby中编写出色的API.
 * [rabl](https://github.com/nesquena/rabl) -具有json，bson，xml，plist和msgpack支持的通用红宝石模板.
@@ -111,7 +111,7 @@
 * [acl9](https://github.com/be9/acl9) -Acl9是基于角色的授权系统，可提供简洁的DSL来保护Rails应用程序的安全.
 * [AccessGranted](https://github.com/chaps-io/access-granted) -用于Rails的基于多角色和白名单的授权gem.
 * [ActionPolicy](https://github.com/palkan/action_policy)  -Ruby和Rails应用程序的授权框架. 可组合，可扩展和高性能.
-* [CanCanCan](https://github.com/CanCanCommunity/cancancan) -延续CanCan，这是Ruby on Rails的授权宝石.
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Consul](https://github.com/makandra/consul) -Ruby on Rails的基于范围的授权解决方案.
 * [Pundit](https://github.com/elabs/pundit) -通过OO设计和纯Ruby类进行的最小授权.
 
@@ -152,6 +152,7 @@
 * [Main](https://github.com/ahoward/main) -用于快速生成命令行程序的类工厂和DSL.
 * [Optimist](https://github.com/ManageIQ/optimist) -用于Ruby的命令行选项解析器，它让您望而却步.
 * [Rake](https://github.com/ruby/rake) -Ruby的类似make的构建实用程序.
+* [Runfile](https://github.com/DannyBen/runfile)  -轻松地为每个项目构建命令行应用程序. 耙式设计，内部采用Docopt.
 * [Slop](https://github.com/leejarvis/slop) -简单的轻量级选项解析.
 * [Terrapin](https://github.com/thoughtbot/terrapin) -小型命令行库（以前为可卡因）.
 * [Thor](http://whatisthor.com) -用于构建功能强大的命令行界面的工具包.
@@ -232,7 +233,7 @@
 * [Best-Ruby](https://github.com/franzejr/best-ruby) -Ruby技巧，惯用Ruby，重构和最佳实践.
 * [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)  -编写快速的Ruby. 收集常见的Ruby习惯用法.
 * [Fundamental Ruby](https://github.com/khusnetdinov/ruby.fundamental)  -带有示例的基本编程红宝石. 线程，设计模式，数据结构，OOP SOLID原理，算法.
-* [Rails style guide](https://github.com/bbatsov/rails-style-guide) - Community-driven Rails best practices and style for Rails 3 and 4.
+* [Rails style guide](https://github.com/bbatsov/rails-style-guide) -社区驱动的Rails 3和4的最佳实践和风格.
 * [RSpec style guide](https://github.com/andreareginato/betterspecs) -更好的规格{红宝石的rspec准则}.
 * [Ruby Operators](http://ruby-operators.herokuapp.com/) -一个网页，显示了不同Ruby运算符的真棒名称.
 * [Ruby style guide](https://github.com/bbatsov/ruby-style-guide) -社区驱动的Ruby编码风格.
@@ -268,12 +269,14 @@
 * [Hanami::Utils](https://github.com/hanami/utils) -用于Hanami和Ruby应用程序的轻量级非猴子补丁类实用程序.
 * [Ruby Facets](https://github.com/rubyworks/facets) -通用方法扩展和Ruby的标准添加的首屈一指的集合.
 * 属性
-  * [ActiveAttr](https://github.com/cgriego/active_attr) - What ActiveModel left out.
+  * [ActiveAttr](https://github.com/cgriego/active_attr) -ActiveModel遗漏了什么.
   * [FastAttributes](https://github.com/applift/fast_attributes) -FastAttributes将属性及其类型添加到类中.
   * [Virtus](https://github.com/solnic/virtus) -普通旧式Ruby对象的类固醇属性.
   * [AttrExtras](https://github.com/barsoom/attr_extras) -使用attr_initialize之类的方法从Ruby中提取一些样板.
 *哈希
   * [Hashie](https://github.com/intridea/hashie) -扩展哈希并使其更有用的工具的集合.
+* 细绳
+  * [string_pattern](https://github.com/MarioRuiz/string_pattern) -生成提供简单模式的字符串.
 * [Trick Bag](https://github.com/keithrbennett/trick_bag) -各种Ruby类和方法，以简化和增强您的代码.
 
 ## Country Data
@@ -294,6 +297,8 @@
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb)  -使用加密哈希构建自己的区块链； 区块链，区块链，区块链一次突破一个世界.
+* [Ciri](https://github.com/ciri-ethereum/ciri) -以太坊的Ruby实现.
+* [MoneyTree](https://github.com/GemHQ/money-tree) -比特币高清钱包（分层确定性）BIP32的Ruby实现.
 * [Peatio](https://github.com/rubykube/peatio) -大多数高级加密货币开源资产交换.
 
 ## Dashboards
@@ -304,7 +309,7 @@
 
 ## Data Processing and ETL
 
-* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器不仅支持“经典​​” CSV，而且还支持CSV数值，“ CSV &lt;3 JSON”，“ CSV &lt;3 YAML”，制表符，空格或固定宽度字段（FWF）等更多口味和方言.
+* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器支持“经典​​” CSV，但也支持CSV数字，`CSV &lt;3 JSON`，`CSV &lt;3 YAML`，制表符，空格或固定宽度字段（FWF）以及许多更多口味和方言.
 * [Kiba](http://www.kiba-etl.org) -Ruby的轻量级数据处理/ ETL框架.
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) -它提供了Snowball算法以用于阻止目的.
 
@@ -333,7 +338,7 @@
 
 ## Database Tools
 
-* [connection_pool](https://github.com/mperham/connection_pool) -Ruby的通用连接池，可以与任何东西一起使用，例如Redis，Dalli等.
+* [connection_pool](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) -数据库清理程序是用于在Ruby中清理数据库的一组策略.
 * [Database Consistency](https://github.com/djezzzl/database_consistency) -一种简单的方法来检查应用程序约束和数据库约束是否同步.
 * [Foreigner](https://github.com/matthuhiggins/foreigner) -将外键助手添加到迁移中，并将外键正确地转储到schema.rb.
@@ -373,7 +378,7 @@
 ## Debugging Tools
 
 * [Byebug](https://github.com/deivid-rodriguez/byebug) -一个易于使用的，功能丰富的Ruby 2调试器.
-* [did_you_mean](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
+* [did_you_mean](https://github.com/yuki24/did_you_mean) -将类，方法和属性建议添加到错误消息中.
 * [Pry Byebug](https://github.com/deivid-rodriguez/pry-byebug) -通过byebug撬导航命令.
 * [pry-rails](https://github.com/rweng/pry-rails)  -避免重复自己，使用撬轨而不是将初始化程序复制到每个轨项目. 这是一个小宝石，可导致Rails控制台打开撬动. 因此，这取决于撬动.
 * [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) -显示文件中每一行代码的结果.
@@ -408,7 +413,7 @@
 
 * [Diffy](https://github.com/samg/diffy) -与Ruby轻松区分.
 * [gemdiff](https://github.com/teeparham/gemdiff)  -查找宝石的源存储库. 打开，比较和更新过时的gem版本.
-* [JsonCompare](https://github.com/a2design-inc/json-compare) -返回两个JSON文件之间的差异.
+* [JsonCompare](https://github.com/a2design-inc/json-compare) - Returns the difference between two JSON files.
 
 ## Documentation
 
@@ -612,7 +617,7 @@
 * [MiniMagick](https://github.com/minimagick/minimagick) -用于ImageMagick或GraphicsMagick命令行的红宝石包装.
 * [Phasion](https://github.com/westonplatter/phashion) -围绕pHash的Ruby包装器，pHash是用于检测重复的多媒体文件的感知哈希库.
 * [PSD.rb](https://github.com/layervault/psd.rb) -轻松解析Ruby中的Photoshop文件.
-* [RMagick](https://github.com/rmagick/rmagick) -RMagick是Ruby和ImageMagick之间的接口.
+* [RMagick](https://github.com/rmagick/rmagick) - RMagick is an interface between Ruby and ImageMagick.
 * [ruby-vips](https://github.com/jcupitt/ruby-vips) -libvips图像处理库的绑定.
 * [Skeptick](https://github.com/maxim/skeptick) -Skeptick是用于构建和运行ImageMagick命令的通用DSL.
 
@@ -640,7 +645,7 @@
 ## IRB
 
 * [Clipboard](https://github.com/janlelis/clipboard) -访问Linux，MacOS和Windows上的系统剪贴板.
-* [irbtools](https://github.com/janlelis/irbtools) -改进了Ruby的IRB.
+* [irbtools](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
 * [Looksee](https://github.com/oggy/looksee)  -用于说明对象的祖先和方法查找路径的工具. 方便探索陌生的代码库.
 * [Pry](https://github.com/pry/pry) -Ruby的标准IRB Shell的强大替代品.
 * [rib](http://rib.godfat.org) -轻巧且可扩展的IRB替代品.
@@ -822,7 +827,7 @@
 
 * [Kaminari](https://github.com/amatsuda/kaminari) -基于范围和引擎的，干净，功能强大，可自定义和复杂的分页器，适用于现代Web应用程序框架和ORM.
 * [order_query](https://github.com/glebm/order_query) -键集分页库，用于高效查找相对于当前记录的下一个或上一个记录，例如无限滚动.
-* [Pagy](https://github.com/ddnexus/pagy)  -Pagy是终极的分页宝石，在每个基准和比较中均胜过其他分页. 有关更多详细信息，请参见 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+* [Pagy](https://github.com/ddnexus/pagy)  -Pagy是最终的分页宝石，在每个基准和比较中均胜过其他分页. 有关更多详细信息，请参见 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 * [will_paginate](https://github.com/mislav/will_paginate) -与Ruby on Rails，Sinatra，Merb，DataMapper和Sequel集成的分页库.
 
 ## PDF
@@ -839,7 +844,7 @@
 
 ## Performance Monitoring
 
-* [Instrumental](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
+* [Instrumental](https://github.com/expectedbehavior/instrumental_agent) -使用以下工具实时衡量您的应用程序 [Instrumental](http://instrumentalapp.com).
 * [New Relic](https://github.com/newrelic/rpm) -通过New Relic应用程序监视和故障排除查找并修复Ruby错误.
 * [RoRvsWild](https://github.com/BaseSecrete/rorvswild) -对Rails开发人员的性能和异常监视.
 * [Scout](https://github.com/scoutapp/scout_apm_ruby) -Scout Ruby应用程序监视代理.
@@ -857,6 +862,7 @@
 * [God](https://github.com/mojombo/god) -一个易于配置，易于扩展的用Ruby编写的监视框架.
 * [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails) -可安装的Rails插件，用于检查Rails应用程序使用的服务（数据库，缓存，Sidekiq，Redis等）的运行状况.
 * [Procodile](https://github.com/adamcooke/procodile) -在Mac和Linux上，从Procfile在后台（和前台）运行进程.
+* [RedisWebManager](https://github.com/OpenGems/redis_web_manager) -Web界面，可让您轻松管理Redis实例（请参阅密钥，使用的内存，已连接的客户端等）.
 
 ## Processes
 
@@ -940,14 +946,14 @@
 *绑定
   * [PyCall](https://github.com/mrkn/pycall.rb) -从Ruby语言调用Python函数.
   * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) -Ruby的OpenCV包装器.
-* Classifiers
-  * [classifier-reborn](https://github.com/jekyll/classifier-reborn) -分类器的活动分支，以及允许贝叶斯分类和其他类型分类的通用模块.
+*分类器
+  * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 *数据分析/结构
   * [daru](https://github.com/v0dro/daru) -一个用于在纯Ruby中存储，分析，处理和可视化数据的库.
   * [Daru::View](https://github.com/SciRuby/daru-view) -一个库，可在Jupyter Notebook和Web应用程序上轻松进行交互式绘图.
   * [Rgl](https://github.com/monora/rgl) -图形数据结构和算法的框架.
 *数值数组
-  * [NMatrix](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+  * [NMatrix](https://github.com/sciruby/nmatrix) -用于Ruby的快速数值线性代数库.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) -用于Ruby的N维数值数组.
   * [mdarray](https://github.com/rbotafogo/mdarray) -受NumPy启发，为JRuby实现的多维数组.
 * [Red Data Tools](https://github.com/red-data-tools) -Ruby的数据处理工具.
@@ -1043,7 +1049,7 @@
 ## Template Engine
 
 * [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
-* [Haml](https://github.com/haml/haml) -HTML抽象标记语言.
+* [Haml](https://github.com/haml/haml) - HTML Abstraction Markup Language.
 * [Liquid](https://github.com/Shopify/liquid) -面向客户的安全模板语言，可用于灵活的Web应用程序.
 * [Mustache](https://github.com/mustache/mustache) -无逻辑的Ruby模板.
 * [Slim](https://github.com/slim-template/slim) -一种模板语言，其目标是将语法简化为基本部分而又不会变得晦涩难懂.
@@ -1062,6 +1068,7 @@
   * [Capybara](https://github.com/teamcapybara/capybara) -Web应用程序的验收测试框架.
   * [Cucumber](https://github.com/cucumber/cucumber) -首先与领域专家交谈，然后与代码交谈的BDD.
   * [Cutest](https://github.com/djanowski/cutest) -Ruby中的隔离测试.
+  * [Fix](https://github.com/fixrb/fix) -Ruby的规范框架.
   * [Howitzer](https://github.com/strongqa/howitzer) -基于Ruby的验收测试框架
   * [minitest](https://github.com/seattlerb/minitest) -minitest提供了一整套测试工具，支持TDD，BDD，模拟和基准测试.
   * [Mocha](https://github.com/freerange/mocha) -Mocha是Ruby的模拟和存根库.
@@ -1090,6 +1097,7 @@
 * 额外
   * [Appraisal](https://github.com/thoughtbot/appraisal) -评估与捆绑程序和rake集成在一起，以针对不同版本的依赖项测试您的库.
   * [CQL](https://github.com/enkessler/cql) -CQL是一个用于对Cucumber样式测试套件进行查询的库.
+  * [cuke_modeler](https://github.com/enkessler/cuke_modeler) -用于.feature文件的建模库，该库是位于gherkin宝石之上的摘要层，为构建其他与Gherkin相关的工具提供了稳定的基础.
   * [gitarro](https://github.com/openSUSE/gitarro) -针对您的GitHub Pull Requests运行，重新触发，处理所有类型和与操作系统无关的测试.
   * [Knapsack](https://github.com/ArturT/knapsack) -RSpec，Cucumber，Minitest，Spinach和Turnip跨CI节点的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) -Mutant是Ruby的突变测试工具.
@@ -1155,7 +1163,7 @@
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) -用于网络抓取的Ruby gem.
 * [Spidr](https://github.com/postmodern/spidr)  -通用的Ruby Web爬虫库，可以对站点，多个域，某些链接或无限地进行爬虫.  Spidr设计为快速且易于使用.
 * [Upton](https://github.com/propublica/upton) -包含电池的框架，可轻松进行网页抓取.
-* [Wombat](https://github.com/felipecsl/wombat) -具有优雅DSL的Web抓取工具，可以解析来自网页的结构化数据.
+* [Wombat](https://github.com/felipecsl/wombat) -具有优雅DSL的Web抓取工具，该DSL可以分析来自网页的结构化数据.
 
 ## Web Frameworks
 
