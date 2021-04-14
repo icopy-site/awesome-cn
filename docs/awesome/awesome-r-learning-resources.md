@@ -65,6 +65,7 @@
 ### Math
 
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html)  -描述性统计信息教程，用于以汇总数据的方式提供对数据中包含的信息的洞察力. 作者：Salvatore S. Mangiafico.
+- [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/)  -本文介绍了如何计算R中的主要描述统计信息以及如何以图形方式显示它们. 作者-Antoine Soetewey.
 - [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)  -讨论关键数学主题以掌握成为更好的数据科学家的文章. 作者：Tirthajyoti Sarkar.
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) -作者：NIST / SEMATECH.
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2) /）-用于绘制数据分布的教程. 作者：Winston Chang.

@@ -39,9 +39,10 @@
 - [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) -一个关于德国妇女运动历史的互动门户.
 - [Docupedia](https://docupedia.de/) -当代历史研究中的术语，方法和辩论.
 - [leo bw](https://www.leo-bw.de/) -巴登-符腾堡州国家档案馆平台.
+- [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) -在纳粹时代受迫害的音乐家百科全书.
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/) -包含超过2,000位德语作者的10,000幅作品.
 - [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) -超过180万种图形媒体（照片，地图，图纸）.
-- [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) -自1947年以来，SPIEGEL档案馆.
+- [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) -自1947年以来SPIEGEL档案.
 - [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) -手稿，文件，地图和文学作品.
 - [Uni Frankfurt](http://sammlungen.ub.uni-frankfurt.de/) -罕见的版画，手稿，遗赠等.
 - [Zefys](http://zefys.staatsbibliothek-berlin.de/) -历史悠久的德国报纸.
@@ -68,7 +69,7 @@
 
 ### North America
 
-- [Ad\*Access](https://repository.duke.edu/dc/adaccess) -1911年至1955年之间，超过7,000个美国和加拿大广告涵盖了五个产品类别-美容与卫生，广播，电视，运输和第二次世界大战宣传.
+- [Ad\*Access](https://repository.duke.edu/dc/adaccess) -1911年至1955年之间，超过7,000个美国和加拿大广告涵盖了五个产品类别-美容和卫生，广播，电视，运输和第二次世界大战宣传.
 - [Chronicling America](https://chroniclingamerica.loc.gov/) -1777-1963年间美国历史悠久的报纸.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) -超过94,000张地图和相关图像.
 - [Digital Public Library of America](https://dp.la/)

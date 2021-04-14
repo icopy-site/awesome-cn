@@ -13,6 +13,7 @@
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java]-大数据流和批处理的统一平台.
+- [Apache Ballista](https://github.com/apache/arrow/tree/master/rust/ballista) [Rust]-由Apache Arrow支持的分布式计算平台.
 - [Apache Flink](https://github.com/apache/flink) [Java]-高吞吐量，低延迟的数据流处理系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java]-来自Twitter的实时，分布式，容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
@@ -48,10 +49,10 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [monix](https://github.com/monix/monix) [Scala]-高性能的Scala / Scala.js库，用于编写异步和基于事件的程序.
 - [Streamline](https://github.com/hortonworks/streamline)  [Java]-Hortonworks的Stream Analytics Framework，被设计为诸如Storm之类的现有流解决方案的包装. 旨在允许用户拖放流组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]-Airbnb的实时数据分析和警报.
-- [Swave](https://github.com/sirthias/swave) [Scala]-适用于Scala的轻量级Reactive Streams基础结构工具包.
+- [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-用于构建管道以管理连续数据流的轻量级库； 支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java]-Java的完全可嵌入的数据流引擎和流处理API.
-- [Tributary](https://github.com/timkpaine/tributary) <i>[Python] - A python library for constructing dataflow graphs.</i> <b>[Python]-用于构造数据流图的python库。</b> <i>Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.</i><b>支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性评估的非循环图和功能性流。</b>
+- [Tributary](https://github.com/timkpaine/tributary)  [Python]-用于构造数据流图的python库. 支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性评估的非循环图和功能性流.
 
 ### Streaming Application
 
@@ -76,7 +77,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 - [Apache Kafka](https://github.com/apache/kafka) [Scala / Java]-分布式，分区，复制的提交日志服务，该服务提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java]-具有非常灵活的消息传递模型和直观的客户端API的分布式pub-sub消息传递平台.
-- [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模可靠性和高吞吐量的各种异构源系统和目标系统之间的数据流.
+- [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模，高可靠性和高吞吐量的各种异构源系统和目标系统之间的数据流.
 - [camus](https://github.com/linkedin/camus) [Java]-Linkedin的Kafka-&gt; HDFS管道.
 - [databus](https://github.com/linkedin/databus) [Java]-Linkedin的与源无关的分布式更改数据捕获系统.
 - [flume](https://github.com/apache/flume) [Java]-分布式，可靠且可用的服务，用于有效地收集，聚集和移动大量日志数据.
@@ -138,7 +139,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 ### Readings
 
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
-2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 由泰勒·阿基道（Tyler Akidau）设计. 
+2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 泰勒·阿基道（Tyler Akidau）着. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) 乔什·菲舍尔（Josh Fischer）和王宁（Ning Wang）
 

@@ -84,6 +84,7 @@
 - [Kauri](https://kauri.io)  -在IPFS和以太坊之上构建的，基于Web3技术的基于社区的知识平台. 学习，分享和策划最新和高质量的技术文章和系列.
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -Dolphin File Manager的服务菜单，用于将文件上传到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) -防审查的死人开关 [Source](https://github.com/nomasters/killcord)
+- [La Marque](https://marque.la/)  -从手机生成和固定内容. 通过验证从其他人收到的图像来验证“ La Marque”资产.
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) -基于Pandoc的标记编辑器/预览器/转换器，已移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) -Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来.
 - [OpenBazaar](https://www.openbazaar.org/) -这个新版本（v2.0）建立在IPFS之上，即使买家离线，现在也可以访问Openbazaar商店.
@@ -185,7 +186,7 @@
 ## Tools
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) -解析ENS域，这使用户可以在访问.eth网站的同时最大程度地分散权力. [Source](https://github.com/almonit/almonit-plugin)
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监视以太坊区块链的当前区块号，并设置警报（通过特定的区块高度）（使用浏览器中的PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监控以太坊区块链的当前区块号，并设置警报（通过特定的区块高度）（使用浏览器中的PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) -用于URL集成的IPFS的Bubble（无代码平台）插件
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) -捐赠ipfs网关以缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -Dillo Web浏览器的IPFS集成.
@@ -224,7 +225,7 @@
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  -用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本. 这应该可以在尚未为其编写扩展名并支持用户脚本的任何浏览器上使用.
 - [iprfc](https://github.com/RTradeLtd/iprfc) -IETF RFC下载器，可将RFC存储在IPFS上，并用RTradeLtd / Lens对其进行索引.
 - [ipscend](https://github.com/diasdavid/ipscend) -用于在IPFS中托管Web应用和静态网站的工具
-- [mahuta](https://github.com/ConsenSys/Mahuta) -Mahuta是您的微服务体系结构的即插即用服务，允许在IPFS上收集，存储和索引数据，并提供搜索功能（全文，查询）.
+- [mahuta](https://github.com/ConsenSys/Mahuta) -Mahuta是针对您的微服务架构的即插即用服务，允许在IPFS上收集，存储和索引数据，并提供搜索功能（全文，查询）.
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) -Multiverse是一种分散的版本控制系统，可实现对等软件开发.
 - [orbit-db](https://github.com/orbitdb/orbit-db) -OrbitDB是一个无服务器的分布式对等数据库，使用IPFS作为其数据存储，并使用IPFS Pubsub来自动将数据库与对等同步.
 - [pinbot](https://github.com/whyrusleeping/pinbot) -通过IRC的引脚内容

@@ -152,7 +152,7 @@
 * [thorax](https://github.com/walmartlabs/thorax) -加强骨干.
 * [chaplin](https://github.com/chaplinjs/chaplin) -使用Backbone.js库的JavaScript应用程序体系结构.
 * [marionette](https://github.com/marionettejs/backbone.marionette) -Backbone.js的复合应用程序库，旨在简化大规模JavaScript应用程序的构建.
-* [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
+* [ripple](https://github.com/ripplejs/ripple) -建立反应式视图的微小基础.
 * [rivets](https://github.com/mikeric/rivets) -轻巧而强大的数据绑定+模板解决方案.
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     * [derby-awesome](https://github.com/russll/awesome-derby) -令人敬畏的德比组件的集合
@@ -198,7 +198,7 @@
 * [Pug](https://github.com/pugjs/pug)  -强大，优雅，功能丰富的Node.js模板引擎.  （原名翡翠）
 * [EJS](https://github.com/mde/ejs) -有效的JavaScript模板.
 * [xtemplate](https://github.com/xtemplate/xtemplate) -用于节点和浏览器的可扩展模板引擎库
-* [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量级，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
+* [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
 * [swig](https://github.com/paularmstrong/swig) -（已存档）一个简单，功能强大且可扩展的Node.js和基于浏览器的JavaScript模板引擎.
 * [EHTML](https://github.com/Guseyn/EHTML) -HTML框架，该框架不允许您编写JavaScript代码.
 
@@ -301,7 +301,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn) 建立手册. 它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox) 是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供了JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox) 是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -318,7 +318,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) -强大的CSV库，支持解析CSV文件/字符串以及导出到CSV.
-* [jBinary](https://github.com/jDataView/jBinary) -具有用于描述文件类型和数据结构的声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
+* [jBinary](https://github.com/jDataView/jBinary) -具有声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存），用于描述文件类型和数据结构.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -JavaScript PDF生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) -JavaScript中的PDF阅读器.
@@ -542,17 +542,17 @@
 ## Code highlighting
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) -JavaScript语法荧光笔.
-* [PrismJS](https://github.com/PrismJS/prism) -轻巧，健壮，优雅的语法突出显示.
+* [PrismJS](https://github.com/PrismJS/prism) -轻巧，健壮，优雅的语法高亮显示.
 
 
 ## Loading Status
 *用于指示负载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) -创建Google Material Design进度线性条.
-* [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度栏.
+* [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -网站范围内的微小且美观的进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条. 没有jQuery.
@@ -571,7 +571,7 @@
 * [validate.js](https://github.com/rickharrison/validate.js) -受CodeIgniter启发的轻量级JavaScript表单验证库.
 * [validatr](https://github.com/jaymorrow/validatr/) -跨浏览器HTML5表单验证.
 * [FormValidation](http://formvalidation.io/)  -验证表单字段的最佳jQuery插件. 以前是BootstrapValidator.
-* [is.js](https://github.com/arasatasaygin/is.js) -检查类型，正则表达式，状态，时间等.
+* [is.js](https://github.com/arasatasaygin/is.js) - Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js)  -多功能验证库. 支持同步和异步验证.
 * [Funval](https://github.com/neuledge/funval) -使用函数接口（支持TypeScript）进行数据验证.
 
@@ -580,7 +580,7 @@
 
 * [mousetrap](https://github.com/ccampbell/mousetrap) -用于处理JavaScript中的键盘快捷键的简单库.
 * [keymaster](https://github.com/madrobby/keymaster) -一个简单的微库，用于定义和分配键盘快捷键.
-* [Keypress](https://github.com/dmauro/Keypress) -键盘输入捕获实用程序，其中任何键都可以是修饰键.
+* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) -一个用于绑定键盘组合的JavaScript库，而不会造成键代码和键组合冲突的困扰.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) -jQuery Hotkeys使您可以在代码中的任何地方监视键盘事件，从而支持几乎任何按键组合.
 * [jwerty](https://github.com/keithamus/jwerty) -出色的键盘事件处理.
@@ -621,7 +621,7 @@
 * [sly](https://github.com/darsain/sly) -JavaScript库，用于基于项目导航的单向滚动.
 * [vegas](https://github.com/jaysalvat/vegas)  -一个jQuery插件，可将精美的全屏背景添加到您的网页. 它甚至允许幻灯片放映.
 * [Sequence](https://github.com/IanLunn/Sequence) -CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
-* [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+* [reveal.js](https://github.com/hakimel/reveal.js) -使用HTML轻松创建漂亮的演示文稿的框架.
 * [impress.js](https://github.com/impress/impress.js) -这是一个展示框架，它基于现代浏览器中CSS3转换和转换的功能，并受到prezi.com背后思想的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -Strut-Impress.js和Bespoke.js演示文稿编辑器
@@ -666,6 +666,7 @@
 * [rome](https://github.com/bevacqua/rome)  -可自定义的日期（和时间）选择器. 无依赖关系的可选用户界面.
 * [datedropper](https://github.com/felicegattuso/datedropper) -datedropper是一个jQuery插件，它提供了一种快速简便的方法来管理输入字段的日期.
 * [Date Range Picker](https://github.com/dangrossman/daterangepicker) -创建一个下拉菜单，用户可以从中选择日期范围.
+* [Duet Date Picker](https://github.com/duetds/date-picker) -Duet Design System的可访问日期选择器的开源版本WCAG 2.1可访问性投诉
 
 
 ### Select
@@ -681,7 +682,7 @@
 * [flow.js](https://github.com/flowjs/flow.js) -一个JavaScript库，可通过HTML5 File API提供多个同时，稳定，容错和可恢复/可重启的文件上传.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) -带有进度条，拖放，直接到S3上传的多文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  -一组用于处理文件的JavaScript工具. 多重上传，拖放和分块文件上传. 图片：通过EXIF裁剪，调整大小和自动定向.
-* [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
+* [plupload](https://github.com/moxiecode/plupload) -一种用于处理文件上传的JavaScript API，它支持多种文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
 * [filepond](https://github.com/pqina/filepond) -一个JavaScript库，可以上传您扔给它的任何内容，优化图像以加快上传速度，并提供出色的，可访问的，柔滑的流畅用户体验.
 
 ### Other
@@ -804,7 +805,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有出色的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -网页上的HTML5视频播放器
  <https://flowplayer.org/>
@@ -894,7 +895,7 @@
 * [BitSet.js](https://github.com/infusion/BitSet.js) -JavaScript位向量实现
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  -警惕！ 一个快乐的小jquery插件，用于在您的网站上隐藏剧透.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) -振动API包装器
-* [list.js](https://github.com/javve/list.js)  -为表格，列表和各种HTML元素增加了搜索，排序，过滤器和灵活性. 构建为不可见并可以在现有HTML上运行.
+* [list.js](https://github.com/javve/list.js)  -为表格，列表和各种HTML元素增加了搜索，排序，过滤器和灵活性. 构建为不可见并可以在现有HTML上使用.
 http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) -MixItUp-筛选和排序插件.
 * [grid](https://github.com/hootsuite/grid) -用于二维，可调整大小和响应式列表的拖放库.

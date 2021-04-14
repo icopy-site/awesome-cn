@@ -32,7 +32,7 @@
 
 ## Humane design
 
-人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
+人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分. [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
 
 - [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
 - [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
@@ -341,7 +341,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 ## Related awesomeness
 
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) -在本地托管和管理应用程序，而不是从SaaS提供商那里租用.
-- [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized) -精选的分散式，P2P以及分布式平台和应用程序列表.
+- [Awesome Decentralized](https://github.com/croqaz/awesome-decentralized) -精选的分散式，P2P以及分布式平台和应用程序列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) -精选的对等资源列表.
 - [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) -精选的用于行动主义的出色数字工具.
 - [Awesome Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) -精选清单，用于建立更具同情心的工程文化.

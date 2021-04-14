@@ -51,7 +51,6 @@
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式.
 - [Superlint](https://github.com/supermind/superlint) -JavaScript Supermind样式.
 - [XO](https://github.com/sindresorhus/xo) -JavaScript幸福风格的短毛猫❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) -通用JavaScript小工具和格式化程序.
 - [Healthier](https://github.com/KidkArolis/healthier) -标准的代码风格不可知版本，是Prettier的完美伴侣.
 
 ## Plugins
@@ -83,7 +82,7 @@
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) -将功能或模块标记为已弃用，并在使用时获得棉绒消息.
 - [deprecation](https://github.com/gund/eslint-plugin-deprecation) -确定使用
   jsdoc`@ deprecated`函数.
-- [disable](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
+- [disable](https://github.com/mradionov/eslint-plugin-disable) -使用文件路径模式和内联注释禁用指定的插件.
 
 ### Embedded
 
@@ -113,7 +112,7 @@
 -ES5
   - [Babel](https://github.com/babel/eslint-plugin-babel) -添加了内置规则的替代，以包括Babel功能.
   - [import](https://github.com/benmosher/eslint-plugin-import) -整理ES2015 +导入/导出语法，并防止文件路径和导入名称拼写错误.
-- 流动
+- 流
   - [Flow](https://github.com/gajus/eslint-plugin-flowtype) -流型起毛规则.
   - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) -将Flow作为ESLint插件运行.
 - [HTML](https://github.com/yeonjuan/html-eslint) -用于HTML的ESLint插件.
@@ -193,6 +192,7 @@
 
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) -检查`innerHTML`，`outerHTML`等.
+- [pii](https://github.com/shiva-hack/eslint-plugin-pii)  -检查并强制执行代码的PII符合性. 即，注释或字符串文字中没有电子邮件地址，生日，IP地址或电话号码.
 -ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) -与安全性相关的规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) -尝试在代码库最终投入生产之前检测它们中的XSS问题.

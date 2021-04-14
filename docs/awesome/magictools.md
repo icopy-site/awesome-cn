@@ -76,7 +76,7 @@ Graphics
 #### Texture Tools
 
 * ：钱袋子： [FilterForge](https://www.filterforge.com/) -Adobe Photoshop的插件，可让您构建自己的滤镜.
-* ：自由： [Live Normal](https://tenebrislab.github.io/livenormal/)  -一款Android和iOS应用，可随时随地生成无缝材料. 拍摄照片后，“实时法线”将创建可平铺的纹理并生成纹理图，以供您选择的PBR引擎使用.
+* ：自由： [Live Normal](https://tenebrislab.github.io/livenormal/)  -一款Android和iOS应用，可随时随地生成无缝材料. 拍摄照片后，“实时法线”将创建可平铺的纹理，并生成可用于您选择的PBR引擎的纹理贴图.
 * ：钱袋子： [PixPlant](http://www.pixplant.com/) -PixPlant是一款智能3D纹理工具，可从照片创建高质量的法线，位移，镜面贴图和无缝纹理.
 * ：钱袋子： [STG](http://www.seamlesstexturegenerator.com/) -用于快速，轻松地从照片创建专业的无缝平铺纹理的工具.
 
@@ -142,7 +142,7 @@ Graphics
 
 #### Terrain Generators
 
-* ：自由： [Artifex Terra](http://www.artifexterra.com/) -地形编辑器，用于轻松而复杂的风景画和编辑
+* ：自由： [Artifex Terra](http://www.artifexterra.com/) -地形编辑器，可轻松，复杂地进行风景画和编辑
 * ：自由： [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) -快速直观地创建高质量，逼真的地形
 *： 然后： [DEM Net Elevation API](https://elevationapi.com) -从真实数据生成实时3D纹理地形-导出高度/法线贴图，glTF，OBJ，STL
 *： 然后： [Fracplanet](https://sourceforge.net/projects/fracplanet/) -分形行星和地形生成器
@@ -199,6 +199,7 @@ Code
 *： 然后： [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) -从具有纹理，法线贴图，glTF，OBJ，STL支持的真实数据生成地形
 *： 然后： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) -现代的跨平台低级图形库，支持Direct3D11，Direct3D12，OpenGL / GLES和Vulkan.
 *： 然后： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
+*： 然后： [E.B.U.R.P](http://pents90.github.io/eburp/) -八位通用角色扮演引擎
 *： 然后： [ENGi](https://github.com/ajhager/engi) -用于Go的多平台2D游戏库.
 *： 然后： [engo](https://engoengine.github.io/) -Engo是用Go语言编写的开源2D游戏引擎.
 *： 然后： [Ebiten](https://ebiten.org/) -Go中已死的简单2D游戏库.
@@ -259,7 +260,7 @@ Code
 * ：自由： [Monkey2](http://monkeycoder.co.nz/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.
 *： 然后： [Monogame](http://www.monogame.net/) -Microsoft XNA 4 Framework的开源实现.
 *： 然后： [Nakama](https://github.com/heroiclabs/nakama) -用于社交和实时游戏和应用程序的分布式服务器.
-*： 然后： [nCine](https://ncine.github.io/) -强调性能的跨平台2D游戏引擎，用C ++ 11编写，可以选择用Lua编写脚本.
+*： 然后： [nCine](https://ncine.github.io/) -跨平台的2D游戏引擎，着重于性能，使用C ++ 11编写，可以选择用Lua编写脚本.
 * ：自由： [NodeBox](https://www.nodebox.net/) -创建生成设计的Python工具家族.
 *： 然后： [nuklear](https://github.com/vurtun/nuklear) -用ANSI C编写的简约即时模式GUI工具包.
 *： 然后： [ÖbEngine](https://github.com/Sygmei/ObEngine) -在SFML之上具有Lua脚本的2D游戏引擎！
@@ -388,7 +389,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门图表”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

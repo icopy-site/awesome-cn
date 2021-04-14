@@ -203,6 +203,7 @@
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 * [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 * [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
+* [iOS Static vs Dynamic Dispatch](https://medium.com/flawless-app-stories/static-vs-dynamic-dispatch-in-swift-a-decisive-choice-cece1e872d)
 
 ### Java
 
@@ -248,6 +249,7 @@
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 * [JavaScript Modern Interview Code Challenges 2021](https://github.com/sadanandpai/javascript-code-challenges)
+* [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
 ### jQuery
 
@@ -322,6 +324,7 @@
 * [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 * [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 * [100 Python Interview Questions - Quick Refresher](https://www.techbeamers.com/python-interview-questions-programmers/)
+* [Top 100 Python Interview Questions from Edureka (2020)](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
 ### Ruby on Rails
 
@@ -393,6 +396,7 @@
 * [Swift Programming Language Interview Questions And Answers from mycodetips.com](http://mycodetips.com/swift-ios/swift-programming-language-interview-questions-answers-987.html)
 * [Your top 10 Swift questions answered](http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html)
 * [Swift interview questions and answers on Swift 5 by Raywenderlich](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
+* [Dynamic keyword in Swift](https://cocoacasts.com/what-does-the-dynamic-keyword-mean-in-swift-3)
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)

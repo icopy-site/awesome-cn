@@ -177,7 +177,7 @@
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
 - [react-draggable](https://github.com/mzabriskie/react-draggable) -反应可拖动组件
-- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
+- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -用于React的可调整大小且可拖动的组件
 - [react-resizable](https://github.com/strml/react-resizable) -一个简单的React组件，可以通过手柄调整其大小
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -用于React的可调整大小的组件
 - [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) -简约的搜寻框
@@ -185,11 +185,11 @@
 - [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小，可锚定，可滚动的嵌套组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
-- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) -轻巧的按键组件包装，用于React组件
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
@@ -199,7 +199,7 @@
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
 - [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
-- [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
+- [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) -轻松在React组件上应用倾斜悬停效果
@@ -259,7 +259,7 @@
 - [react-desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的OS X和Windows UI组件
 - [Reapop](https://github.com/LouisBarranqueiro/reapop) -一个React＆Redux通知系统
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
@@ -355,7 +355,7 @@
 ##### Forms
 
 - [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal](https://github.com/jquense/react-formal) -更好的React表单验证和价值管理，提供最少的接线
+- [react-formal](https://github.com/jquense/react-formal) - Better form validation and value management for React, Provides minimal wiring
 - [react-forms](https://github.com/prometheusresearch/react-forms) -React的表单库
 - [valuelink](https://github.com/Volicon/valuelink) -具有扩展的React链接的全功能双向数据绑定
 - [wingspan-forms](https://github.com/wingspan/wingspan-forms) -Facebook React的动态表单库
@@ -378,6 +378,7 @@
 - [react-reactive-form](https://github.com/bietkul/react-reactive-form) -React中的角状反应形式
 - [unform](https://github.com/Rocketseat/unform) -ReactJS表单库可创建具有嵌套字段，验证等更多内容的不受控制的表单结构！
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) -高效，灵活和可扩展的表格，易于使用的验证
+- [Formily](https://github.com/alibaba/formily) -高性能，可扩展和打字稿友好
 
 ##### Autocomplete
 
@@ -552,7 +553,7 @@
 - [redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) -Redux的声明性副作用
 - [redux-observable](https://github.com/redux-observable/redux-observable) -用于Redux的RxJS中间件
 - [redux-analytics](https://github.com/markdalgleish/redux-analytics) -Redux的分析中间件
-- [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
+- [redux-undo](https://github.com/omnidan/redux-undo) -高阶reducer将撤销/重做功能添加到redux状态容器
 - [redux-search](https://github.com/bvaughn/redux-search) -用于客户端搜索的Redux绑定
 - [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) -模拟商店，用于测试Redux异步操作创建者和中间件
 - [redux-immutable](https://github.com/gajus/redux-immutable) -创建与Immutable.js状态一起使用的Redux CombineReducers的等效功能
@@ -778,12 +779,12 @@
 - [mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
 - [overreacted](https://github.com/gaearon/overreacted.io) -Dan Abramov的个人博客
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) -为浏览器重新实现了Winamp 2
-- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+- [dnote](https://github.com/dnote/dnote) -具有多设备同步和Web界面的命令行笔记本
 
 ---
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
