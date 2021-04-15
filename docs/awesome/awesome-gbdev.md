@@ -243,7 +243,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [BGB](https://bgb.bircd.org/)  -强大的仿真器和调试器. 提供准确的硬件仿真.
 - [SameBoy](https://github.com/LIJI32/SameBoy) -精确的仿真器，具有各种强大的调试功能.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) -Rust中的研究项目和仿真器.
-- [mGBA](https://github.com/mgba-emu/mgba) -现代的跨平台GBA模拟器，该模拟器还运行GB / GBC游戏.
+- [mGBA](https://github.com/mgba-emu/mgba) -现代化的跨平台GBA模拟器，该模拟器还运行GB / GBC游戏.
 - [Binjgb](https://github.com/binji/binjgb)  -通过大多数测试的5Kloc模拟器.  *倒带功能. 使用WebAssembly在浏览器中运行.
 - [Gambatte](https://github.com/sinamas/gambatte) -跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) -整个Game Boy的可播放的电路级仿真.
@@ -314,7 +314,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - **[gb asm tutorial](https://eldred.fr/gb-asm-tutorial)**-分步教程，建立一些ROM并附带其解释.
 - [ASMSchool](http://gameboy.mongenel.com/asmschool.html) -Duo的一组有关GB / GBC汇编中的编码和反汇编的课程.
 - [hardware.inc](https://github.com/tobiasvl/hardware.inc) -标准包含文件，其中包含用于RGBDS项目的Game Boy硬件定义.
-- [Assembly tutorial by David Pello](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador%20[La%20decadence].html)  -学习如何为gb生成有效的asm代码的好文档. 对许多重要主题的简要说明. 许多带有注释源代码的示例.
+- [Assembly tutorial by David Pello](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador_la_decadence.html)  -学习如何为gb生成有效的asm代码的好文档. 对许多重要主题的简要说明. 许多带有注释源代码的示例.
 - [assemblydigest](https://github.com/assemblydigest/gameboy) -探索Game Boy编程技术：
   - [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
   - [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
@@ -367,7 +367,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### C
 
-- [8-Bit Wonderland](https://web.archive.org/web/20191106010059/http://belial.blarzwurst.de/gbpaper/paper.pdf) -关于Game Boy的工作原理以及如何开始为其开发有效代码的引人入胜的入门文档.
+- [8-Bit Wonderland](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) -关于Game Boy的工作原理以及如何开始为其开发有效代码的引人入胜的入门文档.
 - [Grooves Game Boy Programming](https://github.com/gbdk-salvage/grooves-game-boy-programming) -有关在Game Boy游戏中实现各种游戏机制的完整课程.
 - [How to Write a Simple Side Scrolling Game](http://pastebin.com/F3tHLj68) -旧的（但仍然有用）教程.
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
@@ -384,8 +384,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线播放（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的所有非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
-- [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要是在1999年至2001年之间开发的.该游戏从未找到发行商，并最终被取消了. 最近发布了完整的源代码，开发工具和工作流程.
+- [Homebrew Hub](https://gbhh.avivace.com) -为Game Boy制作的每一种非官方的自制软件都可以在线玩（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示程序，补丁程序，hackrom通过多年的热情工作.
 
 ### ASM
 
@@ -443,7 +442,8 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Dino's Offline Adventure](https://github.com/gingemonster/DinosOfflineAdventure) -Google Chrome离线游戏的克隆版本.
 - [dino-gb](https://github.com/rnegron/dino-gb) -Chrome游戏的另一个副本.
 - [Evoland.gb](https://github.com/flozz/evoland.gb) -Evoland一级港口.
-- [Petris](https://github.com/bbbbbr/Petris) -身材匀称的宠物的益智游戏，适用于Game Boy Color（游戏男孩颜色）（[itch.io](https://bbbbbr.itch.io/petris)).
+- [Petris](https://github.com/bbbbbr/Petris) -身材匀称的宠物的益智游戏，适用于Game Boy Color（[itch.io](https://bbbbbr.itch.io/petris)).
+- [Infinity](https://github.com/gb-archive/infinity-gbc)  -由Affinix Software开发的RPG，主要是在1999年至2001年之间开发的.该游戏从未找到发行商，并最终被取消了. 最近发布了完整的源代码，开发工具和工作流程.
 
 ### Demos
 
@@ -453,7 +453,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
 - [Roboto Demo](https://github.com/naavis/roboto-demo)
 - [matrix-rain-gb](https://github.com/wtjones/matrix-rain-gb) -汇编程序中的矩阵数字雨效果.
-- [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) -一个技术演示，演示了如何破解Game Boy LCD控制器，使Game Boy Color可以播放彩色全动态视频以及音乐.
+- [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) -一个技术演示，演示了如何破解Game Boy LCD控制器以使Game Boy Color可以播放彩色全动态视频以及音乐.
 - [GBVideoPlayer2](https://github.com/LIJI32/GBVideoPlayer2) -以上演示的第二次迭代，提高了分辨率，添加了“立体声PCM音频”，并引入了视频压缩*.
 
 ## Reverse Engineering
@@ -516,7 +516,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Ostrich](https://github.com/PumpMagic/ostrich) -用Swift编写的Game Boy音响系统玩家.
 - [mGB](https://github.com/trash80/mGB) -Game Boy盒带程序，使Game Boy可以充当受MIDI支持的完整声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) -演示使用两个未公开记录的Game Boy Color寄存器，分别称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
-- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) -基于Arduino的Game Boy弹药筒读取器和写入器.
+- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) -基于Arduino的Game Boy墨盒读写器.
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -Brainf * ck口译员.
 - [gbfk](https://github.com/elseyf/gbfk) -Brainf * ck解释器，带有输入.
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) -修补程序，用于在原始硬件上播放时为Game Boy游戏添加保存状态支持.
@@ -529,7 +529,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) -它是什么以及如何使用它制作作弊代码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) -绕过Nintendo徽标检查.
  -在2017年制作Game Boy游戏：“ Sheep It！” 事后[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
-- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然，有些公司设法利用了支票系统.
+- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然有些公司设法利用了支票系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) -用于与LSDj保存格式（.sav），歌曲文件（.lsdsng）等交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) -用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) -使用STAT中断进行有趣的视频操作的一些小实验.

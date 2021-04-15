@@ -102,7 +102,7 @@
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -一本书，从Ada 95的初学者到高级概念，并附带源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中的本书，从初学者到高级概念，并附带源文件.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
@@ -143,7 +143,7 @@
 - [adacore-blog](https://blog.adacore.com/) -深入了解AdaCore生态系统.
 - [ada-europe](http://www.ada-europe.org/) -Ada-Europe是一个国际组织，旨在促进Ada的使用.
 - [acm-sig-ada](https://www.sigada.org/) -关于Ada的特别兴趣小组.
-- [ada-resource-association](http://www.adaic.org/community/) -自1990年以来，Ada资源协会的主要任务是“确保Ada用户的持续成功并促进Ada在软件行业的使用”.
+- [ada-resource-association](http://www.adaic.org/community/) -自1990年以来，Ada资源协会的主要任务是“确保Ada用户的持续成功并促进Ada在软件行业中的使用”.
 - [ada-information-clearinghouse](http://www.adaic.org/) -有关Ada编程语言的新闻和资源.
 - [ada-planet](https://www.laeran.pl/profile/adaplanet) -来自Ada编程语言世界的News Aggregator.
 
@@ -173,7 +173,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了全面的工具集（IDE，调试器，库，动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -216,6 +216,8 @@
 - [ravenadm](https://github.com/jrmarino/ravenadm) -Ravenports的管理工具http://www.ravenports.com.
 - [synth](https://github.com/jrmarino/synth) -用于实时系统的下一个D / Ports构建工具（Portmaster和Portupgrade工具的替代方案）.
 - [ada4cmake](https://github.com/mosteo/ada4cmake) -CMake宏，可用于简单的拼写项目.
+- [cmake-ada-offa](https://github.com/offa/cmake-ada) -Ada语言对CMake的支持.
+- [cmake-ada-cho3](https://github.com/cho3/cmake-ada) -对Ada的CMake语言支持，PLplot跨平台支持代码的分支.
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) -使用Travis CI自动进行SPARK正式验证.
@@ -244,7 +246,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并证明的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲的东西.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何OS的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
@@ -263,7 +265,7 @@
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) -这是GNAT组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) -这是GNAT组件集合的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) -这是GNAT组件集合的DB模块.
-- [gnatcoll-json](https://github.com/persan/gnatcoll-json) -这是一组用于编写JSON接口的帮助程序，其中包含大多数Ada运行时组件的JSON解析.
+- [gnatcoll-json](https://github.com/persan/gnatcoll-json) -这是一组用于编写JSON接口的帮助程序，它包含大多数Ada运行时组件的JSON解析.
 - [gneiss](https://github.com/Componolit/gneiss)  -Gneiss是一个接口集合，可与基于组件的系统的应用程序一起使用. 它旨在易于携带/与平台无关，并与 [ada-runtime](https://github.com/Componolit/ada-runtime).
 - [lace](https://github.com/charlie5/lace) -一组Ada组件，允许在Ada中进行3D模拟，游戏和GUI.
 
@@ -331,7 +333,7 @@
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) -针对GCC定制的Ada合格评定测试套件.
-- [acats-grading](https://github.com/simonjwright/ACATS-grading) -对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
@@ -441,7 +443,7 @@
 - [generic-image-decoder](https://github.com/zertovitch/gid) -Ada的多格式图像解码器库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理学，最常见）的访问例程库.
 - [ada-toml](https://github.com/pmderodat/ada-toml) -TOML解析器为“是”.
@@ -493,9 +495,9 @@
 - [ssprep](https://github.com/persan/ssprep.git) -类似于jinja的可扩展模板引擎，但使用 [template-parser](https://github.com/AdaCore/templates-parser) 并用于命令行.
 - [licensing](https://github.com/mosteo/licensing) -Ada的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) -易于使用的日志记录工具，可输出到Ada程序中的控制台.
-- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，该实用程序从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
+- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，它从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
 - [cstrings](https://github.com/mosteo/cstrings) -便利子程序，可与C字符串进行交互.
-- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -用于将在Ada合格评定机构上共享的CVS存储库导入Git存储库的工具.
+- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -将在Ada合格评定机构上共享的CVS存储库导入Git存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  -用于透明处理Ada应用程序中的数据和配置文件访问的库和工具. 支持MacOSX，Linux和Windows.
 - [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) -提供GCC“规范”文件以应对SDK策略更改.    
 - [ux-strings](https://github.com/Blady-Com/UXStrings) -Unicode扩展字符串.
@@ -569,7 +571,7 @@
 - [hunter](https://github.com/thindil/hunter) -用于Linux的图形（GtkAda）文件管理器.
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -垃圾桶查找器是一种邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及已知邮件的管理.
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -垃圾搜索器是一种邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及已知邮件的管理.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) -由SPARK / Ada验证的权威DNS服务器.
@@ -597,7 +599,7 @@
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) -Ada2JS是Matreshka的实验性开源编译器组件.
 - [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  -SofCheck AdaMagic是针对C和/或C ++的ACATS验证和认证的Ada编译器（用于微调的4个命令行开关）.  ObjectAda和其他几种商业编译器与AdaMagic共享引擎.  MapuSoft发行AdaMagic作为AppCOE的组成部分.
 - [cappulada](https://github.com/Componolit/Cappulada) -有一个C ++的绑定生成器.
-- [asis2xml](https://github.com/simonjwright/asis2xml) -将Ada来源的ASIS表示形式转换为XML，从而使使用（例如）XSLT开发报告和转换工具变得更加容易.
+- [asis2xml](https://github.com/simonjwright/asis2xml) -将Ada来源的ASIS表示形式转换为XML，以便更轻松地使用（例如）XSLT开发报告和转换工具.
 
 #### Shells, Interpreters and Emulators
 - [sparforte](http://sparforte.com/)  -SPARforte编程语言是一种类似于Ada的脚本语言，以前称为业务用户外壳程序（布什）. 可以用作交互式UNIX Shell替换.

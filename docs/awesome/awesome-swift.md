@@ -12,7 +12,7 @@
 
  |  iOS应用| 太棒了 Linux | 项目| 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1053 |  2021年4月2日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1054 |  2021年4月14日
 
 
 
@@ -688,7 +688,7 @@
 *与图像相关的库的有趣列表..* [back to top](#readme) 
 
 * [Agrume](https://github.com/JanGorman/Agrume) -柠檬般新鲜的iOS图像查看器.
-* [AlamofireImage](https://github.com/Alamofire/AlamofireImage) -AlamofireImage是Alamofire的图像组件库.
+* [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 * [APNGKit](https://github.com/onevcat/APNGKit) -在iOS中以APNG格式播放的高性能和令人愉悦的方式.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) -具有多种预定义过渡样式的图像幻灯片查看器，并具有轻松创建新过渡的功能.
 * [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) -iPhone / iPad照片库查看器，可用于查看大量（或较小！）照片.
@@ -731,7 +731,7 @@
 * [UIImageColors](https://github.com/jathu/UIImageColors) -用于UIImage的iTunes样式的颜色提取器.
 * [Viewer](https://github.com/3lvis/Viewer) -具有本地和远程视频和图像支持的图像查看器（或灯箱）.
 * [Vulcan](https://github.com/jinSasaki/Vulcan) -具有优先级的多图像下载器.
-* [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
+* [YPImagePicker](https://github.com/Yummypets/YPImagePicker) -适用于iOS的类似Instagram的图像选择器和滤镜.
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) -裁剪任何形状的图像.
 
 ### Key Value Coding
@@ -785,7 +785,7 @@
 * [NorthLayout](https://github.com/banjun/NorthLayout) -使用具有扩展语法的视觉格式语言（VFL）进行布局的快速路径.
 * [PureLayout](https://github.com/PureLayout/PureLayout) -适用于iOS和OS X自动布局的终极API.
 * [SnapKit](https://github.com/SnapKit/SnapKit) -适用于iOS和OS X的自动布局DSL.
-* [Swiftstraints](https://github.com/Skyvive/Swiftstraints) -强大的自动布局框架，可让您在一行代码中编写约束.
+* [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints) -TinyConstraints是使Auto Layout更适合人类使用的语法糖.
 
 ### Localization
@@ -796,8 +796,8 @@
 * [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) -使用IBLocalizable直接在Interface Builder中本地化视图.
 * [L10n-swift](https://github.com/Decybel07/L10n-swift) -具有“即时”更改语言并支持任何语言的复数形式功能的应用程序的本地化.
 * [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) -通过远程管理对应用程序进行实时动态本地化，因此您无需重新提交应用程序即可管理维护和部署翻译.
-* [Localize](https://github.com/andresilvagomez/Localize) -使用Localizable.strings中的正则表达式对应用程序进行本地化.
-* [Localize-Swift](https://github.com/marmelroy/Localize-Swift) -使用Localizable.strings中的正则表达式对应用程序进行本地化.
+* [Localize](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
+* [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)  -删除字符串插值中的“ Optional（...）”和“ nil”. 易于多元化.
 * [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) -一种为所有Localizable.strings键自动生成“枚举”的工具（如果这些字符串包含printf格式的占位符（如“％@”），则具有适当的关联值）.
 * [Translatio](https://github.com/andrealufino/Translatio) -超级轻量级​​的库，可帮助您甚至在情节提要中直接定位字符串.
@@ -832,7 +832,7 @@
 [back to top](#readme) 
 
 * [Cluster](https://github.com/efremidze/Cluster) -简单的地图注释聚类.
-* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) -FlyoverKit使您可以轻松地在MKMapView上呈现令人惊叹的360°立交视图，同时保持完整的配置可能性.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) -FlyoverKit使您能够以零的努力在MKMapView上呈现令人惊叹的360°立交桥视图，同时保持完整的配置可能性.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) -使使用地理模型和计算相交，重叠，投影等更加容易.
 * [LocoKit](https://github.com/sobri909/LocoKit) -iOS的位置和活动记录框架.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  -使用任何自定义视图作为带有精美动画的MKMapView的自定义标注视图. 使用任何图像作为注释视图.
@@ -860,7 +860,7 @@
 * [Conduit](https://github.com/mindbody/Conduit) -强大的网络API网络.
 * [Connectivity](https://github.com/rwbutler/Connectivity) -通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠.
 * [Dots](https://github.com/iAmrSalman/Dots) -轻量级并发网络框架.
-* [Dratini](https://github.com/kevin0571/Dratini) - A neat network layer.
+* [Dratini](https://github.com/kevin0571/Dratini) -整洁的网络层.
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) -易于使用的iOS OAuth 2库.
 * [Just](https://github.com/dduan/Just) ：penguin：-HTTP for Humans（一个python请求样式的HTTP库）.
 * [Malibu](https://github.com/hyperoslo/Malibu) -建立在Promise上的网络库.
@@ -950,7 +950,7 @@
 [back to top](#readme) 
 
 * [AnyLint](https://github.com/Flinesoft/AnyLint) ：penguin：-通过组合Swift和正则表达式的功能来替换任何内容.
-* [IBLinter](https://github.com/IBDecodable/IBLinter) -用于Interface Builder的linter工具.
+* [IBLinter](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 * [swift-mod](https://github.com/ra1028/swift-mod) -一种在代码生成和格式化之间进行中介的Swift代码修改工具.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) -一个验证库，其灵感来自Ruby On Rails Active Record验证的清晰性.
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) -用于重新格式化Swift代码的代码库和命令行格式化工具.
@@ -1040,7 +1040,7 @@
 * [Cuckoo](https://github.com/Brightify/Cuckoo) -第一个无样板的模拟框架.
 * [Mocker](https://github.com/WeTransfer/Mocker) -模拟Alamofire和URLSession请求，而无需修改代码实现
 * [Mockingbird](https://github.com/Farfetch/mockingbird) -通过使用HTTP / HTTPS轻松模拟任何系统来简化软件测试，允许团队针对不完整，不稳定或仅重现计划案例的服务进行测试和开发.
-* [Mockingjay](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease.
+* [Mockingjay](https://github.com/kylef/Mockingjay) -一个优雅的库，可以轻松地处理HTTP请求.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) -一个简单的模拟框架，灵感来自著名的Java Mockito.
 * [MockSwift](https://github.com/leoture/MockSwift) -使用属性包装器功能的模拟框架.
 
@@ -1103,7 +1103,7 @@
 * [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) -简单，可自定义的视图，可有效收集iOS应用中的国家/地区信息.
 * [CustomSegue](https://github.com/phimage/CustomSegue) -具有幻灯片和交叉淡入淡出效果的OSX情节提要的自定义序列.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) -一个库，用于重新创建iOS 10 Apple Music，现在正在播放过渡.
-* [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
+* [DockProgress](https://github.com/sindresorhus/DockProgress) -在macOS应用程序的Dock图标中显示进度.
 * [Dodo](https://github.com/evgenyneu/Dodo) -适用于iOS的消息栏.
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) -适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) -适用于iOS的Material Design下拉列表.
@@ -1131,7 +1131,7 @@
 * [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) -小部件和帮助程序库，可在iOS上构建即时搜索功能.
 * [KALoader](https://github.com/Kirillzzy/KALoader) -漂亮的动画占位符，用于显示数据加载.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) -一个UINavigationController子类，该子类支持带有隐藏或显示的弹出交互式UINavigationBar.
-* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) -嵌入式通用库可帮助您管理导航栏样式，并在为所有方向推动或弹出视图控制器时使过渡动画在不同导航栏样式之间变得平滑.
+* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) -嵌入式通用库可帮助您管理导航栏样式，并在按或弹出所有方向的视图控制器时使过渡动画在不同导航栏样式之间变得平滑.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) -一个UITextView子类，它添加了对多行占位符的支持.
 * [LeeGo](https://github.com/wangshengjia/LeeGo) -以制作乐高积木的方式进行声明式，可配置和高度可重用的UI开发.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) -一个命令行工具，可自动生成所有依赖项的Plist.
@@ -1141,7 +1141,7 @@
 * [Magnetic](https://github.com/efremidze/Magnetic) -SpriteKit浮动气泡选取器（受Apple Music启发）.
 * [Mandoline](https://github.com/blueapron/Mandoline) -一个iOS选择器视图，可满足您的所有“拾取”需求.
 * [MantleModal](https://github.com/canalesb93/MantleModal) -一个简单的模态资源，它使用UIScrollView允许用户通过向下拖动来关闭模态.
-* [Material](https://github.com/CosmicMind/Material) -通过Material（一种用于Google Material Design和Apple Flat UI的动画和图形框架）来表达您的创造力.
+* [Material](https://github.com/CosmicMind/Material) -通过Material（一种用于Google的Material Design和Apple的Flat UI的动画和图形框架）来表达您的创造力.
 * [Material Components for iOS](https://github.com/material-components/material-components-ios) -模块化和可自定义的Material Design UI组件.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) -材料设计组件.
 * [MediaBrowser](https://github.com/younatics/MediaBrowser) -简单的iOS照片和视频浏览器，带有可选的网格视图，标题和选择.
@@ -1179,6 +1179,7 @@
 * [Toaster](https://github.com/devxoul/Toaster) -通知敬酒.
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) -带有一行代码的轻型触摸可视化库.
 * [Twinkle](https://github.com/piemonte/Twinkle) -使iOS应用程序中的元素闪烁的简单方法.
+* [TZSignalBarStrength](https://github.com/TrianglZ/TZSignalBarStrength) -TZSignalStrengthView是易于使用的UI组件，可帮助显示带有添加的可自定义填充动画的信号条.
 * [UIPheonix](https://github.com/MKGitHub/UIPheonix) -用于可重用组件/控件驱动的应用程序的简单，灵活，动态和高度可扩展的UI框架+概念.
 * [UltraDrawerView](https://github.com/super-ultra/UltraDrawerView) -轻巧，快速且可自定义的Drawer View实现，与Apple Maps，Stocks等相同.
 * [URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) -自动缓存确认为“开放图协议”的对象，并将其显示为URL嵌入式卡.
@@ -1186,7 +1187,7 @@
 * [Windless](https://github.com/ParkGwangBeom/Windless) -无风可轻松实现不可见的布局加载视图.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) -代表不同标签的iOS文本字段.
 * [YMTreeMap](https://github.com/yahoo/YMTreeMap) -基于Squarified的Treemap / Heatmap布局引擎.
-* [YNSearch](https://github.com/younatics/YNSearch) -很棒的完全可自定义的搜索视图，例如Pinterest.
+* [YNSearch](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
 
 #### Alert
 *显示警报，操作表，通知，弹出窗口的库. [back to top](#readme) 
@@ -1257,7 +1258,7 @@
 #### Cards
 [back to top](#readme) 
 
-* [CardNavigation](https://github.com/james01/CardNavigation) -导航控制器，将其视图控制器显示为交互式纸牌.
+* [CardNavigation](https://github.com/james01/CardNavigation) - A navigation controller that displays its view controllers as an interactive stack of cards.
 * [CardParts](https://github.com/intuit/CardParts) -针对iOS开发人员的基于UIKit的基于卡片的反应式UI框架.
 * [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) -Shazam Discover UI和Tinder之间的结合，该结合使用UICollectionView构建.
 
@@ -1294,7 +1295,7 @@
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) -用于显示数字的标签视图，这些数字可以使用称为数字补间或数字变形的技术进行过渡或设置动画.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) -UILabel，图像从左或从右放置.
 * [Translucid](https://github.com/Ekhoo/Translucid) -轻量级库，用于将图像设置为文本背景.
-* [TriLabelView](https://github.com/mukeshthawani/TriLabelView) -适用于iOS的三角形角标签视图.
+* [TriLabelView](https://github.com/mukeshthawani/TriLabelView) - A triangle shaped corner label view for iOS.
 
 #### Menu
 [back to top](#readme) 
@@ -1305,7 +1306,7 @@
 * [FanMenu](https://github.com/exyte/fan-menu) -具有基于金刚鹦鹉的圆形布局的菜单.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) -交互式视图过渡，以显示具有流动和弹跳效果的菜单.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) -菜单式断头台.
-* [HHFloatingView](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
+* [HHFloatingView](https://github.com/hemangshah/HHFloatingView) -为您的应用程序提供易于使用和设置的浮动视图.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) -可自定义的iOS交互式侧面菜单.
 * [KWDrawerController](https://github.com/Kawoou/KWDrawerController) -抽屉视图控制器，易于使用.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) -基于Medium iOS应用程序的菜单.
@@ -1403,7 +1404,7 @@
 * [Cards XI](https://github.com/PaoloCuscela/Cards) -很棒的iOS 11 AppStore的名片视图.
 * [EasyTransitions](https://github.com/marcosgriselli/EasyTransitions) -创建自定义交互式UIViewController过渡的简单方法.
 * [Hero](https://github.com/HeroTransitions/Hero) -适用于iOS的优雅过渡库.
-* [ImageTransition](https://github.com/shtnkgm/ImageTransition) -ImageTransition是一个库，用于在过渡期间平滑地对图像进行动画处理.
+* [ImageTransition](https://github.com/shtnkgm/ImageTransition) -ImageTransition是一个库，可在过渡期间使图像平滑动画.
 * [Jelly](https://github.com/SebastianBoldt/Jelly) -Jelly仅用几行代码即可提供自定义视图控制器转换.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) -自定义的交互式过渡，例如Apple Music iOS App.
 * [PanSlip](https://github.com/k-lpmg/PanSlip) -使用PanGesture关闭UIViewController和UIView上的视图.
@@ -1424,12 +1425,12 @@
 
 * [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) -轻松将分页与CollectionView中的虚拟视图集成在一起的方法，使Instagram Discover耗时数分钟.
-* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+* [Blueprints](https://github.com/zenangst/Blueprints) -一个框架，旨在使您在使用集合视图流程布局时更轻松.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) -集合视图的布局，使您的单元格反弹.
 * [CardsLayout](https://github.com/filletofish/CardsLayout) -精美的卡片设计自定义CollectionView布局.
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) -易于使用的收藏视图布局，可制作类似卡片的动画.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) -一种轻量级的UICollectionViewLayout，可将其单元格分页并居中.
-* [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) -UICollectionViewCell，当它处于Selected状态时带有复选框，未选中时则为空圆圈-类似于Photos.app“选择”模式.
+* [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) -UICollectionViewCell，当它处于Selected状态时带有复选框，未选中时为空圆圈-类似于Photos.app“选择”模式.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) -UICollectionViewLayout子类将其项目显示为类似于“ App Store功能”选项卡的项目行，但没有嵌套的UITableView / UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) -跨多个UICollectionView拖放数据.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView)  -优雅的屏幕幻灯片库. 对于制作横幅视图，产品展示，欢迎/指南页面，屏幕/ ViewController滑块非常有用.
@@ -1481,7 +1482,7 @@
 * [OnboardKit](https://github.com/NikolaKirev/OnboardKit) -为您的iOS应用程序提供可自定义的用户入门.
 * [PaperOnboarding](https://github.com/Ramotion/paper-onboarding) -PaperOnboarding是一种材质设计UI滑块.
 * [SuggestionsKit](https://github.com/huemae/SuggestionsKit) -用于教育用户有关应用程序功能的库.
-* [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) -一个iOS框架，允许开发人员创建美好的入门体验.
+* [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - An iOS framework that allows developers to create beautiful onboarding experiences.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) -在应用中创建出色的演练体验的最简单方法.
 
 ### Utility
@@ -1529,7 +1530,7 @@
 * [swift-protobuf](https://github.com/apple/swift-protobuf) ：penguin：-使用Google的协议缓冲区的插件和运行时库.
 * [Swiftbot](https://github.com/noppefoxwolf/Swiftbot) -在松弛状态下运行快速代码.
 * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) -超过500个本机扩展的便捷集合，可提高您的生产力.
-* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) -一种为所有情节提要，场景和Segues常量自动生成“枚举”的工具，以及适当的便捷访问器.
+* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) -一种自动为您的所有Storyboard，Scenes和Segues常量以及适当的便捷访问器生成“枚举”的工具.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) -它从URL进行预览，获取所有信息，例如标题，相关文本和图像.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML)  -一个命令行工具和Swift Package，可从您的Swift源代码生成UML类. 也可以作为Xcode源代码编辑器扩展使用.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) -随机数据的微型生成器.
@@ -1541,7 +1542,7 @@
 * [Then](https://github.com/devxoul/Then) -用于初始化程序的超级甜蜜语法糖.
 * [TSAO](https://github.com/lilyball/swift-tsao) -类型安全关联对象.
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) -用于将任何可编码值编码为URLQueryItem数组的编码器.
-* [UTIKit](https://github.com/cockscomb/UTIKit) - an UTI (Uniform Type Identifier) wrapper.
+* [UTIKit](https://github.com/cockscomb/UTIKit) -UTI（统一类型标识符）包装器.
 * [Vaccine](https://github.com/zenangst/Vaccine) -使您的应用程序免于重新编译-减少.
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) -一个微框架，用于将[弱自我]和保护语句封装在闭包中.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) -在应用更新后展示类似于页面，数字和主题演讲的新功能.
@@ -1580,7 +1581,7 @@
 
 * [BMPlayer](https://github.com/BrikerMan/BMPlayer)  -基于AVPlayer的iOS视频播放器，支持水平，垂直屏幕. 支持调整音量，弯曲度和滑动搜索.
 * [Cabbage](https://github.com/VideoFlint/Cabbage) -基于AVFoundation的视频合成框架.
-* [Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+* [Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi) -使用OpenGLES覆盖Alpha通道视频动画播放器视图.
 * [MMPlayerView](https://github.com/MillmanY/MMPlayerView) -在视图和过渡播放器上自定义AVPlayerLayer，效果不错，例如YouTube和Facebook.
 * [MobilePlayer](https://github.com/sahin/mobileplayer-ios) -适用于iOS的功能强大且完全可自定义的媒体播放器.
 * [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) -导出和转码媒体.

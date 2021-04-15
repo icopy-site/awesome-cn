@@ -14,7 +14,7 @@
 
 ### Learning
 
-* [Nix Notes](https://github.com/noteed/nix-notes) -有关Nix的简短注释的集合，每个简短注释都构成了相同的虚拟机映像.
+* [Nix Notes](https://github.com/noteed/nix-notes) -有关Nix的简短注释的集合，每个简短注释都有助于同一虚拟机映像.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) -最好的学习方法，并附有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) -有关Nix的简短笔记集.
 * [nix.dev](https://nix.dev/) -为开发人员准备的明智指南，说明如何使用Nix生态系统完成任务.
@@ -32,6 +32,7 @@
 ## Installation Media
 
 * [nixos-generators](https://github.com/nix-community/nixos-generators) -进行NixOS配置并构建多种不同的映像类型，包括VirtualBox VM，Azure映像和安装ISO.
+* [nixos-up](https://github.com/samuela/nixos-up) -超级容易的NixOS安装程序，可以从安装ISO使用.
 
 ## Channel History
 

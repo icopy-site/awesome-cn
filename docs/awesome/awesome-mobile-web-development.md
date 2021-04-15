@@ -12,27 +12,34 @@
 
 ## Articles and Documentation
 
-- [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) - How to prevent 300 ms delay on tap.
+- [300ms Tap Delay, Gone Away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away) -如何防止点击延迟300毫秒.
 - [60 FPS on Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web) -如何建立一个真正快速的移动网站（通过Flipboard）.
 - [Adaptive loading: improving web performance on slow devices](https://web.dev/adaptive-loading-cds-2019/) -如何针对特定的硬件和网络限制优化站点.
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) -关于在移动网络上实现快速动画的案例研究（由Yelp撰写）.
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) -您需要了解的有关表单自动填充的所有信息.
+- [Back/forward cache](https://web.dev/bfcache/) -如何优化网站以浏览历史记录.
+- [Benchmarking the global 5G experience](https://www.opensignal.com/2021/02/03/benchmarking-the-global-5g-experience) -关于5G网络普及化的案例研究.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) -如何设置Cache-Control以获得最佳响应时间.
 - [CSS fix for 100vh in mobile WebKit](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/) -如何解决移动WebKit中100vh的问题.
 - [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26) -有关Galaxy Fold的Web开发的建议.
 - [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe) -关于OLED显示器上深色主题的问题及其处理方法.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) -如何处理iPhone X上的“缺口”.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) -有关移动Web开发的高级概述.
+- [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg) -关于2FA的其他安全措施.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) -该图显示了在哪些情况下JavaScript可能不可用.
+- [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/) -高性能Web应用程序的开启模式.
 - [Get Started with Remote Debugging Android Devices](https://github.com/myshov/awesome-mobile-web-development/blob/master/ https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) -使用Chrome DevTools在Adroid上调试您的网络应用.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) -编写有关移动Web开发的好文章.
+- [Hiding Videos on the Mobile Web](https://dougsillars.com/2020/01/06/hiding-videos-on-the-mbile-web/) -如何隐藏视频而不影响移动流量.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) -概述了移动网站上的负面行为.
-- [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) -您可以使用网络应用执行的操作以延长电池寿命.
+- [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) - What you can do with web app to achieve better battery life.
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) -关于2fa的自动完成属性.
+- [Interaction Media Features and Their Potential (for Incorrect Assumptions](https://css-tricks.com/interaction-media-features-and-their-potential-for-incorrect-assumptions/) -检测各种输入设备时.
 - [Learn AMP by Example](https://ampbyexample.com) -重点介绍代码和实时示例的“加速移动页面”动手介绍.
 - [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6) -建立功能电话网页的最佳做法.
 - [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/) -有关使用Mobile Safari衡量网络性能的建议.
 - [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) -在针对Messenger的优化网站上.
+- [Mobile Performance Inequality Gap](https://infrequently.org/2021/03/the-performance-inequality-gap/) -为什么您需要关心廉价智能手机的性能.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) -有关移动搜索UX的系列文章.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) -有点过时了，但对于W3C的移动网站的最佳做法仍然有用.
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) -W3C提供的有关移动Web应用程序的最佳做法列表.
@@ -90,7 +97,7 @@
 - [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) -杰克·阿奇博尔德（Jake Archibald）简要介绍了如何使用流和服务工作者以及其他新的API优化Web应用程序和网站.
 - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) -杰克·阿奇博尔德（Jake Archibald）介绍服务人员.
 - [Mobile Web Performance](https://www.youtube.com/watch?v=_y5IzI_tpTw) -Estelle Weyl在您的网站上如何实现最佳移动体验.
-- [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) -如何在网站上审核性能问题，作者Paul Lewis.
+- [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) -如何在网站上审核性能问题，作者：保罗·刘易斯（Paul Lewis）.
 
 
 ## Auditing Tools
