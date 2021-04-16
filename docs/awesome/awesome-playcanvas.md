@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;该列表是精选的使用PlayCanvas引擎的出色资源，工具，教程和项目的集合，以帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -40,6 +40,7 @@
 - [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/) -PlayCanvas培训系列.
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) -使用PlayCanvas建立基本的演示.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) -大量的官方PlayCanvas教程.
+- [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) -使用PlayCanvas和Substance为车辆配置器创建高端艺术品.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) -Pirron One的PlayCanvas主题博客.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) -制作简单的基于物理的游戏的教程.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) -简短的PlayCanvas教程的YouTube播放列表.
@@ -144,6 +145,10 @@
 
 - [Neon Bubblegum](https://www.rtz23.de/) -演示场景样式基于WebXR的Karsten Weil主页.
 - [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) -用于VR交互实验的沙盒.
+
+## Virtual Events
+
+- [Party Space](https://www.party.space/) -虚拟事件平台.
 
 ## Contributing
 

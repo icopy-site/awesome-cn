@@ -37,7 +37,7 @@
 
 ### C++
 
-- [Brayns](https://github.com/BlueBrain/Brayns)  -可以执行射线追踪神经元渲染的简约可视化工具. 射线追踪可以帮助突出显示神经回路中细胞彼此接触以及正在形成突触的区域，从而使人们更好地了解单个细胞以及随后的大脑功能.
+- [Brayns](https://github.com/BlueBrain/Brayns)  -可以执行射线追踪神经元渲染的简约可视化工具. 射线追踪可以帮助突出显示神经回路中细胞彼此接触以及正在形成突触的区域，从而可以更好地了解单个细胞以及随后的大脑功能.
 
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) -图书馆展示了一套主要针对神经影像的基于Web的3D可视化工具集.
@@ -52,12 +52,12 @@
 
 ### Ebooks
 - [Neuroscience Online](http://nba.uth.tmc.edu/neuroscience/m/index.htm)  -涵盖神经科学的开放式电子教科书和交互式课件. 由休斯敦德克萨斯大学医学院神经生物学和抗血管病学系提供.
-- [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) - Text which provides an in-depth introduction to the main ideas in the computational cognitive neuroscience, a field which aims to understand the brain by using biologically based computational models.
+- [Computational Cognitive Neuroscience](https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main) -提供有关计算认知神经科学主要思想的深入介绍的文本，该领域旨在通过使用基于生物学的计算模型来了解大脑.
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch)  -涵盖计算和理论神经科学的开放式电子教科书. 由洛桑联邦理工学院（EPFL）提供.
 
 ### Blogs
 
-- [Neuroskeptic](https://www.discovermagazine.com/author/neuroskeptic) - [Discover magazine](http://discovermagazine.com/)的神经科学博客通过一个批判性镜头介绍了神经科学，精神病学和心理学的最新发展.
+- [Neuroskeptic](https://www.discovermagazine.com/author/neuroskeptic) - [Discover magazine](http://discovermagazine.com/)'s neuroscience blog which offers a look at the latest developments in neuroscience, psychiatry and psychology through a critical lens.
 - [The Neurocritic](http://neurocritic.blogspot.in/) -在人脑成像，认知神经科学和心理药理学领域，最关键的是最近引起轰动的最新发现.
 - [The scicurious brain](https://blogs.scientificamerican.com/scicurious-brain/) -维护者 [Scientific American](https://blogs.scientificamerican.com/)，此博客通常在一个条目中涵盖一篇研究论文.
 - [Action Potential](http://blogs.nature.com/actionpotential) -由《自然》杂志的神经科学编辑主持的论坛.
@@ -71,6 +71,7 @@ MOOC可以在学院或大学的课程中使用，也可以使用较少的结构.
 - [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) -介绍哺乳动物神经系统，重点是人脑的结构和功能.
 - [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) -介绍基本的计算方法，以了解神经系统的功能并确定其功能.
 - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) -探索人类中枢神经系统的功能组织和神经生理学，同时提供了解人类行为的神经生物学框架.
+- [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) -Jupyter笔记本，用于为期三周的计算机神经科学暑期班. 
 
 ### Communities
 - [Quora](https://www.quora.com/topic/Neuroscience-1) -Quora上的Neuroscience主题通常由专家回答从基本到高级的问题.

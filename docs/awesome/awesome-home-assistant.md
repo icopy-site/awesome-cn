@@ -11,11 +11,11 @@
   <a href="https://awesome-ha.com"><strong>https://awesome-ha.com</strong></a>
 </div>
 
-家庭助理是一个开源的家庭自动化系统，可以将本地控制和
-隐私第一. 由全球修补匠和DIY社区提供支持
+家庭助理是一个开源的家庭自动化系统，可将本地控制和
+隐私至上. 由全球修补匠和DIY社区提供支持
 爱好者. 非常适合在Raspberry Pi或本地服务器上运行.
 
-如果您想对外观产生印象，
+如果您想在外观上留下印象，
 你应该看看 [Home Assistant online demo](https://demo.home-assistant.io).
 
 很棒的家庭助理是精选的很棒的清单
@@ -31,9 +31,9 @@
 
 ## How to use
 
-令人敬畏的家庭助理对于那些试图使每个人自动化的人们来说是一个很棒的清单
-他们家的一面. 使您的房屋自动化是一个漫长，艰辛且从未完成的工作
-通常需要大量修补的任务.
+很棒的家庭助理对于那些试图使每个人自动化的人来说是一个很棒的清单
+他们家的一面. 使您的房屋自动化是一个漫长而艰辛的过程，并且从未完成
+task that usually involves a lot of tinkering.
 
 您可以通过以下方式浏览列表：
 
@@ -47,17 +47,17 @@
 的优点和缺点. 重要的是要知道，没有错，或者就在这里，
 每种技术都会安装** SAME ** Home Assistant.
 
-Home Assistant当前_推荐Home Assistant操作系统的安装方法.
+Home Assistant当前正在_推荐Home Assistant操作系统的安装方法.
 
 - [Home Assistant OS](https://www.home-assistant.io/getting-started/) -使用托管环境进行安装（推荐方法）.
 - [Home Assistant Container](https://www.home-assistant.io/docs/installation/docker/) -在Docker上安装.
 - [Home Assistant Supervised](https://github.com/home-assistant/supervised-installer/blob/master/README.md) -为专家安装半托管环境.
-- [Home Assistant Core](https://www.home-assistant.io/docs/installation/virtualenv/) -使用Python虚拟环境手动安装.
+- [Home Assistant Core](https://www.home-assistant.io/docs/installation/virtualenv/) -使用Python虚拟环境进行手动安装.
 
 ## In case you need help
 
 _有多种方法可以与家庭助理社区联系.
-有任何疑问，需要帮助，想请求功能，
+无论您有任何疑问，需要帮助，想请求功能，
 或只是说“嗨”.
 
 ### Official Channels
@@ -76,10 +76,10 @@ _有多种方法可以与家庭助理社区联系.
 
 ## Public Configurations
 
- _有人将其完整的Home Assistant配置存储在GitHub上. 他们是
+ _有人将完整的Home Assistant配置存储在GitHub上. 他们是
 令人敬畏的学习资源和巨大的灵感来源._
 
-- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) -可能是记录最全的配置.
+- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) -可能是最有据可查的配置.
 - [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) -也称为Tinkerer共享他的配置文件.
 - [geekofweek](https://github.com/geekofweek/homeassistant) -拥有300多种自动化功能.
 - [Isabella Gross Alström](https://github.com/isabellaalstrom/home-assistant-config) -Hass.io，Intel NUC，Ubuntu，Docker，Lovelace UI.
@@ -87,7 +87,7 @@ _有多种方法可以与家庭助理社区联系.
 - [stanvx](https://github.com/stanvx/Home-Assistant-Configuration) -使用AppDaemon和HA平面图的完整设置.
 - [Vasiley](https://github.com/Vasiley/Home-Assistant-Main) -运行两个可以协同工作的实例.
 - [Alok Saboo](https://github.com/arsaboo/homeassistant-config)  -也称为arsaboo. 定期更新.
-- [Aaron Bach](https://github.com/bachya/smart-home)  -也称为bachya. 定期更新，包括众多Dockerized服务.
+- [Aaron Bach](https://github.com/bachya/smart-home)  -也称为bachya. 定期更新，并包含众多Dockerized服务.
 - [James McCarthy](https://github.com/JamesMcCarthy79/Home-Assistant-Config) -充分记录的YAML和Node-RED中的3个实例和自动化.
 - [Franck Nijhof](https://github.com/frenck/home-assistant-config) -基于Hass.io，与其他配置结构非常不同.
 - [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) -基于Hass.io，专注于触摸屏使用.
@@ -99,7 +99,7 @@ _有多种方法可以与家庭助理社区联系.
 ## Add-ons
 
 _附加组件是可以与其他应用程序和服务一起运行
-家庭助理.  Home Assistant操作系统和受监管的安装类型，
+家庭助理.  Home Assistant操作系统和受监督的安装类型，
 提供主管，该主管能够运行和管理这些加载项._
 
 ### Official Add-ons
@@ -108,18 +108,18 @@ _由家庭助理团队创建和维护.
 
 - [DuckDNS](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) -使用“加密”更新您的Duck DNS IP地址并生成SSL.
 - [File editor](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) -基于浏览器的配置文件编辑器.
-- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) -快速可靠的MQTT经纪人.
+- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) - Fast and reliable MQTT broker.
 - [Terminal & SSH](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) -允许使用Web终端或SSH客户端远程登录.
 - [Samba](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) -使用Windows网络共享访问您的配置文件.
-- [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) -带有SSL终止的反向代理.
+- [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) -具有SSL终止的反向代理.
 - [deCONZ](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md) -使用Dresden Elektronik的ConBee或RaspBee硬件控制ZigBee网络.
 - [TellStick](https://github.com/home-assistant/hassio-addons/blob/master/tellstick/DOCS.md) -运行TellStick和TellStick Duo服务.
-- [Ada](https://github.com/home-assistant/hassio-addons/blob/master/ada/DOCS.md) -Ada是由Almond提供支持的语音助手，它是开放的并且可以保护隐私.
+- [Ada](https://github.com/home-assistant/hassio-addons/blob/master/ada/DOCS.md) -Ada是由Almond提供支持的语音助手，该助手是开放的并且可以保护隐私.
 - [Almond](https://github.com/home-assistant/hassio-addons/blob/master/almond/DOCS.md) -开放的，保留隐私的虚拟助手.
 - [HomeMatic](https://github.com/home-assistant/hassio-addons/blob/master/homematic/DOCS.md) -基于OCCU的HomeMatic中央.
 - [Let's Encrypt](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md)  -从Let&#39;s Encrypt获得免费的SSL证书； 开放和自动的证书颁发机构（CA）.
 - [MariaDB](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md) -开源关系数据库（MySQL的分支）.
-- [OpenZWave](https://github.com/home-assistant/hassio-addons/blob/master/zwave/DOCS.md) -将Z-Wave USB记忆棒与QT OpenZWave守护程序一起使用.
+- [OpenZWave](https://github.com/home-assistant/hassio-addons/blob/master/zwave/DOCS.md) -在QT OpenZWave守护程序中使用Z-Wave USB记忆棒.
 
 ### Third Party Add-ons
 
@@ -129,66 +129,66 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 - [UniFi Controller](https://github.com/hassio-addons/addon-unifi) -UniFi控制器允许您使用Web浏览器管理UniFi网络.
 - [Node-RED](https://github.com/hassio-addons/addon-node-red) -物联网的基于流的编程.
 - [Plex Media Server](https://github.com/hassio-addons/addon-plex) -您录制的媒体井井有条，可随时播放.
-- [IDE](https://github.com/hassio-addons/addon-ide) -基于Cloud9 IDE的基于Web的高级IDE.
+- [IDE](https://github.com/hassio-addons/addon-ide) -基于Cloud9 IDE的高级基于Web的IDE.
 - [Dasshio](https://github.com/danimtb/dasshio) -轻松使用您的Amazon Dash Button.
-- [InfluxDB](https://github.com/hassio-addons/addon-influxdb) -可扩展的数据存储，用于度量标准，事件和实时分析.
-- [Grafana](https://github.com/hassio-addons/addon-grafana) -开放平台，可进行漂亮的分析和监控.
+- [InfluxDB](https://github.com/hassio-addons/addon-influxdb) -用于指标，事件和实时分析的可扩展数据存储.
+- [Grafana](https://github.com/hassio-addons/addon-grafana) -开放的平台，可进行漂亮的分析和监控.
 - [Tor](https://github.com/hassio-addons/addon-tor) -保护您的隐私并通过Tor访问您的实例.
 - [Spotify Connect](https://github.com/hassio-addons/addon-spotify-connect) -Spotify Connect客户端，用于在Home Assistant设备上播放音乐.
-- [zigbee2mqtt](https://github.com/danielwelch/hassio-zigbee2mqtt) -Zigbee到MQTT桥，摆脱您专有的Zigbee桥.
+- [zigbee2mqtt](https://github.com/danielwelch/hassio-zigbee2mqtt) -从Zigbee到MQTT的桥，摆脱您专有的Zigbee桥.
 - [AppDaemon](https://github.com/hassio-addons/addon-appdaemon) -Python应用程序和HADashboard.
 - [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin) -集中管理所有Sonoff-Tasmota设备.
 - [Aircast](https://github.com/hassio-addons/addon-aircast) -适用于您的Chromecast播放器的AirPlay功能.
-- [AirSonos](https://github.com/hassio-addons/addon-airsonos) -您的Sonos播放器的AirPlay功能.
+- [AirSonos](https://github.com/hassio-addons/addon-airsonos) -适用于您的Sonos播放器的AirPlay功能.
 - [Dropbox Sync](https://github.com/danielwelch/hassio-dropbox-sync) -将您的备份快照上传到Dropbox.
 - [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) -基于浏览器的实时日志查看实用程序.
-- [Tautulli](https://github.com/hassio-addons/addon-tautulli) -监视并从您的Plex服务器获取统计信息.
+- [Tautulli](https://github.com/hassio-addons/addon-tautulli) -监控并从您的Plex服务器获取统计信息.
 - [motionEye](https://github.com/hassio-addons/addon-motioneye) -适用于您的摄像机的简单，优雅且功能丰富的CCTV / NVR.
 - [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) -创建包含实时代码，方程式，可视化和说明文字的文档.
 - [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) -将快照备份到Google云端硬盘.
 - [ADB](https://github.com/hassio-addons/addon-adb) -Android调试桥服务器程序.
 - [Glances](https://github.com/hassio-addons/addon-glances) -用Python编写的跨平台系统监视工具.
 - [Matrix](https://github.com/hassio-addons/addon-matrix) -安全，分散的通讯平台.
-- [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) -具有家长控制功能的全网络广告和跟踪器阻止DNS服务器.
+- [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) -具有家长控制的全网络广告和跟踪器阻止DNS服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) -Traccar是现代的GPS跟踪平台.
 - [Home Panel](https://github.com/hassio-addons/addon-home-panel) -触摸兼容的Web前端，用于控制房屋.
 - [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) -完整且易于配置的解决方案，用于将快照备份到Google云端硬盘.
-- [Grocy](https://github.com/hassio-addons/addon-grocy)  -冰箱外的ERP！ 您家的杂货和家庭管理解决方案.
+- [Grocy](https://github.com/hassio-addons/addon-grocy)  -冰箱外的ERP！ 适用于您家的杂货和家庭管理解决方案.
 
 ## Lovelace User Interface
 
-_Home Assistant前端已经很漂亮了，但是您可以对其进行自定义
+_Home Assistant前端已经很漂亮了，但是您可以对其进行自定义，以
 适合您的需求或更好地品尝.
 
 - [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) -官方文件.
 -  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) -DrZzs对Lovelace UI的精彩介绍.
 - [Share the Love](https://sharethelove.io) -Lovelace的自定义卡演示和配置示例.
--  [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) -JuanMTech为初学者提供的优秀分步视频.
+-  [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) -JuanMTech为初学者提供的优秀循序渐进视频.
 - [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) -在前端使用Font Awesome中的免费图标.
 
 ### Themes
 
-_这与外观有关，请应用一些样式.
+_这与外观有关，请应用一些样式._
 
 -  [Themes Tutorial](https://www.youtube.com/watch?v=3Xpd4zB2eRM) -关于如何配置主题的快速教程/示例.
-- [Midnight](https://community.home-assistant.io/t/midnight-theme/28598?u=frenck) -Marcel Hoffs的黑暗主题.
+- [Midnight](https://community.home-assistant.io/t/midnight-theme/28598?u=frenck) -马塞尔·霍夫斯（Marcel Hoffs）的黑暗主题.
 - [Dark Cyan](https://community.home-assistant.io/t/dark-cyan-theme/28594?u=frenck) -Ryoen Deprouw的深蓝色主题.
 - [Grey Night](https://community.home-assistant.io/t/grey-night-theme/30848?u=frenck) -ksya设计的带有灰色调的深色主题.
 - [Dark Red](https://community.home-assistant.io/t/dark-red-theme/28592?u=frenck) -Ryoen Deprouw设计的带有红色调的深色主题.
 - [Halloween](https://community.home-assistant.io/t/halloween-theme/30872?u=frenck) -Mahasri Kalavala上色的南瓜.
 - [Black and Green](https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck) -GreenTurtwig的深色主题配淡绿色调.
-- [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) -以Anup Surendran的主题为您的前端增添复古感.
-- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -Reua以绿色为重点的轻碳主题.
+- [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) -以Anup Surendran的主题为您的前端增添复古气息.
+- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -轻巧的碳纤维主题，搭配Reua的绿色配饰.
 - [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) -JuanMTech制作的20个主题（包括指南）.
 - [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) -方便的ZIP文件中的13个主题.
 - [Slate](https://github.com/seangreen2/slate_theme) -接近香草的深色主题来自seangreen2.
 - [Synthwave](https://github.com/bbbenji/synthwave-hass) -受现代Synthwave乐队的封面作品影响的主题.
-- [Google Home Theme](https://github.com/liri/lovelace-themes) - Two themes (light and dark) matching the design of Google Home Hub.
+- [Google Home Theme](https://github.com/liri/lovelace-themes) -与Google Home Hub的设计相匹配的两个主题（浅色和深色）.
 
 ### Custom Lovelace UI Cards
 
 _Lovelace允许人们在其上构建自定义卡片，您可以
-轻松添加到您的实例中.
+轻松添加到您的实例中._
 
 - [Auto-Entities Card](https://github.com/thomasloven/lovelace-auto-entities) -动态添加实体：魔术.
 - [Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card) -使用来自canvas-gauges.com的超赞量规.
@@ -212,8 +212,8 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) -小米吸尘器（及其他）的详细卡片.
 - [Simple Weather Card](https://github.com/kalkih/simple-weather-card) -简约的气象卡，灵感来自Google Material Design.
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
-- [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
-- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可以为您的家庭仪表板增添色彩.
+- [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状态.
+- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添趣味.
 - [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -显示以下服务中即将发布的剧集和电影：Plex，Kodi，Radarr，Sonarr和Trakt.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
 - [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) -显示电池实体的电池电量.
@@ -222,12 +222,12 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Home Feed Card](https://github.com/gadgetchnnel/lovelace-home-feed-card) -以供稿样式显示持久性通知，日历事件和实体的组合.
 - [Config Template Card](https://github.com/custom-cards/config-template-card) -允许在Lovelace中使用模板.
 - [RGB Light Card](https://github.com/bokub/rgb-light-card) -彩色按钮可控制RGB灯.
-- [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) -LG TV WebOS的遥控器.
+- [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) -LG TV WebOS的远程控制.
 - [Restriction Card](https://github.com/iantrich/restriction-card) -提供对其中定义的Lovelace卡的限制的卡.
 
 ### Alternative Dashboards
 
-- [TileBoard](https://github.com/resoai/TileBoard) -一个简单但可高度配置的仪表板.
+- [TileBoard](https://github.com/resoai/TileBoard) -一个简单但高度可配置的仪表板.
 
 ## Custom Components
 
@@ -246,29 +246,30 @@ _由社区创建的Home Assistant的其他组件.
 - [iCloud3](https://github.com/gcobb321/icloud3) -具有许多功能的iCloud设备跟踪器组件的改进版本.
 - [HACS](https://hacs.netlify.com/) -这是您的自定义集成（组件）和插件（lovelace元素）需求的管理器.
 - [breaking_changes](https://github.com/custom-components/breaking_changes) -根据加载的组件显示当前发布版本中潜在的Breaking_changes的组件.
-- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) -昼夜节律照明可以使您的变色灯与全天正常自然发生的天空色温缓慢同步.
-- [HASS Aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells.
+- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) -昼夜节律照明可将您的变色灯与全天正常自然发生的天空色温缓慢同步.
+- [HASS Aarlo](https://github.com/twrecked/hass-aarlo)  -异步Arlo集成. 类似于Arlo网站； 监视所有基站，摄像机和门铃的事件和状态.
+- [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) -这种自定义集成提供了一种无需扎根就可以呈现小米（和Roborock）吸尘器地图实时视图的方法.
 
 ## DIY
 
  _自己做; 而不是购买家庭自动化硬件或解决方案，您
 也可以自己建造它们！
 
-- [ESPHome](https://esphome.io/) -使用YAML对ESP8266开发板和ESP32开发板进行编程.
-- [Magic Cards](https://github.com/maddox/magic-cards) -RFID扫描卡，您可以编程以执行任何操作.
+- [ESPHome](https://esphome.io/) -使用YAML编程ESP8266开发板和ESP32开发板.
+- [Magic Cards](https://github.com/maddox/magic-cards) -RFID可扫描卡，您可以编程以执行任何操作.
 - [Sonoff Tasmota](https://github.com/arendst/Sonoff-Tasmota) -用于ESP8266开发板和设备的固件.
 
 ### DIY Gateways
 
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) -用于IR，RF，BLE，MiFlora，SMS和许多传感器的灵活MQTT网关.
 - [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) -使用MQTT的Milight / LimitlessLED设备的备用集线器.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) -Zigbee到MQTT桥，摆脱您专有的Zigbee桥.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) -从Zigbee到MQTT的桥，摆脱您专有的Zigbee桥.
 
 ### DIY Projects
 
-- [HA SwitchPlate](https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck) -LCD触摸屏墙壁开关更换.
+- [HA SwitchPlate](https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck) -更换液晶触摸屏墙壁开关.
 -  [DIY Multisensor](https://www.youtube.com/watch?v=jpjfVc-9IrQ) -$ 15，温度，湿度，光线，运动和RGB LED，无需焊接.
-- [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) -采用可在WiFi上使用的廉价RGB灯泡.
+- [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) -使用可在WiFi上使用的廉价RGB灯泡.
 - [433mhz/IR Bidirectional Gateway](https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck) -使用ESP8266和MQTT与IR和433mhz双向通信.
 - [esp8266MQTTBlinds](https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck) -使用ESP8266，伺服器和MQTT自动化百叶窗.
 - [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) -具有多个DIY项目的Hackster频道.
@@ -281,11 +282,11 @@ _由社区创建的Home Assistant的其他组件.
 
 ## Online Resources
 
-_指向Home Assistant的各种用户的链接，这些用户定期发布Home Assistant重点内容.
+_指向Home Assistant的各种用户的链接，这些用户定期发布以Home Assistant为重点的内容.
 
 ### Blogs
 
-- [DIY Futurism](https://diyfuturism.com/) -布拉德（Brad）为新用户发布了很好的说明文章.
+- [DIY Futurism](https://diyfuturism.com/) - Brad posts articles with great instructions for new users.
 - [Phil Hawthorne](https://philhawthorne.com/homeautomation) -家庭助理播客的共同主持人.
 - [Smart Home Hobby](https://smarthomehobby.com/) -提供预算友好的指南和信息.
 - [Self Hosted Home](https://selfhostedhome.com/) -有关DIY家庭自动化项目和自助服务的文章.
@@ -317,7 +318,7 @@ _通勤，做早饭或在健身房锻炼时获得灵感！_
 
 ### Twitter
 
-_一次获取280个字符的最新新闻和更新！_
+_每次更新280个字符，以获取最新新闻和更新！_
 
 - [@home_assistant](https://twitter.com/home_assistant) -开源的家庭自动化，将本地控制和隐私放在首位.
 - [@hass_devs](https://twitter.com/hass_devs) -有关贡献者的Home Assistant开发的最新消息.
@@ -331,20 +332,20 @@ _一次获取280个字符的最新新闻和更新！_
 
 ## Uncategorized
 
-_有价值的链接，不属于以上任何类别（至今！）.
+_有价值的链接，不属于以上任何类别（至今！）._
 
-- [Room Assistant](https://github.com/mKeRix/room-assistant) -陪同客户处理多个房间中的传感器.
+- [Room Assistant](https://github.com/mKeRix/room-assistant) -一个同伴客户，可以处理多个房间中的传感器.
 - [Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) -iPhone / iPad / iOS应用程序可远程控制和监视您的房屋.
 - [Mi Flora via MQTT daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) -通过MQTT收集和传输Xiaomi Mi Flora植物传感器数据.
 - [hassctl](https://github.com/dale3h/hassctl) -简单的命令行实用程序，可帮助调试您的配置.
 - [rhasspy](https://github.com/rhasspy/rhasspy) -用于开发自定义语音助手的工具包.
 - [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) -高度可配置的Android Kiosk浏览器和应用启动器.
 - [Hassio Vagrant](https://github.com/hassio-addons/hassio-vagrant) -为开发附加组件而创建的原始游民箱.
-- [AppDaemon](https://github.com/AppDaemon/appdaemon) -AppDaemon是一个松耦合，多线程，沙盒化的Python执行环境，用于编写自动化应用程序.
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) -AppDaemon是一个松耦合的，多线程的，沙盒化的Python执行环境，用于编写自动化应用程序.
 - [Developer Documentation](https://developers.home-assistant.io/) -官方开发人员文档.
 - [HASS Configurator](https://github.com/danielperna84/hass-configurator) -基于浏览器的配置文件编辑器.
 - [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) -用于RESTful开关的Node.js服务，以控制Docker容器.
-- [Python Amazon Dash](https://github.com/Nekmo/amazon-dash)  -入侵您的Amazon Dash以运行您想要的. 没有焊工.
+- [Python Amazon Dash](https://github.com/Nekmo/amazon-dash)  -破解您的Amazon Dash以运行您想要的. 没有焊工.
 - [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) -HomeKit到MQTT的桥梁.
 - [Home Assistant Device Database](https://www.hadevices.com/) -支持/确认的工作设备数据库.
 - [Jinja Scripts for Curious Minds](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers) -一堆Jinja2脚本可帮助您更好地理解它.
@@ -368,13 +369,13 @@ _Home Assistant不是唯一的家庭自动化框架，在这里
 
 ## Other Awesome Lists
 
-_其他很棒而危险的清单
+_其他很棒的清单也可以在危险的地方找到
 interwebs._
 
 - [awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) -精选的超赞SmartHome /家庭自动化产品清单.
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) -精选的超棒物联网项目和资源列表.
 - [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) -精选的开源物联网框架，库和软件列表.
-- [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -精选的Amazon Alexa平台资源清单.
+- [awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -精选的Amazon Alexa平台资源列表.
 - [awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt#readme) -与MQTT相关的内容的精选列表.
 - [awesome-sefhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) -精选的超赞自托管软件列表.
 
@@ -393,17 +394,17 @@ interwebs._
 
 ## Trademark Legal Notice
 
-此真棒列表未创建，开发，关联，支持，维护
+该真棒列表未创建，开发，关联，支持，维护
 或由家庭助理认可.
 
 所有产品名称，徽标，品牌，商标和注册商标均为
 各自所有者的财产. 所有公司，产品和服务名称
-此列表中使用的仅用于识别目的.
+此列表中使用的仅用于标识目的.
 
-这些名称，徽标，商标和品牌的使用并不表示认可.
+使用这些名称，徽标，商标和品牌并不表示认可.
 
 ## License
 
-Distributed under the Creative Commons Attribution 4.0 license.
-See [LICENSE](https://github.com/frenck/awesome-home-assistant/blob/master/LICENSE.md) 对于
+根据知识共享署名4.0许可分发.
+See [LICENSE](https://github.com/frenck/awesome-home-assistant/blob/master/LICENSE.md) 为了
 完整的许可证.

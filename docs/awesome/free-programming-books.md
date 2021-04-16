@@ -98,6 +98,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 
 ### Interactive Programming Resources
 
++ [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ru.md)
 

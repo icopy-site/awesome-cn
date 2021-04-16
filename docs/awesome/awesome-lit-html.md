@@ -2,9 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Lit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;精选的lit-html和LitElement资源列表.
+&gt;精选的很棒的Lit资源列表.
 
-[lit-html](https://lit-html.polymer-project.org) —用于JavaScript的高效，可表达，可扩展的HTML模板库.
+[Lit](https://github.com/Polymer/lit-html) —一个简单的库，用于构建快速，轻量级的Web组件.
+
+它的核心是样板杀手组件基类，它提供了反应状态，作用域样式和声明性模板系统，这些模板系统在大小，速度和表现力方面都领先于包装.
 
 
 
@@ -93,7 +95,7 @@
 - [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) -一种用于通过Web组件对结果进行突变测试的方案，以使其可视化.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用LitElement构建的Adobe Spectrum设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
@@ -220,7 +222,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>URL</td>
+    <td>网址</td>
     <td>来源</td>
   </tr>
   <tr>
