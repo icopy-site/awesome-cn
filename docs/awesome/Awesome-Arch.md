@@ -44,10 +44,10 @@
 - [Namib GNU/Linux](https://www.namiblinux.org/) -基于Arch Linux发行版（并与之兼容）的桌面操作系统.
 - [ArchEX](http://archex.exton.net/)  -基于Arch Linux的新的（190612）Linux live DVD. 大学校长的座右铭是KISS（Keep It Simple Stupid.
 - [Arch XFerience](https://www.xferience.org/) -基于Arch Linux的现代OS，具有大量软件包和功能，可用于日常操作.
-- [Ctlos Linux](https://ctlos.github.io/) -基于Arch Linux的发行版.
+- [Ctlos Linux](https://ctlos.github.io/) - Arch Linux based distro.
 - [MagpieOS](https://github.com/magpie-linux) -获得Arch的全新体验.
 - [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) -基于Manjaro / Arch Linux的发行版.
-- [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻巧，便携式和灵活的Linux.
+- [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻便，便携式和灵活的Linux.
 - [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) -基于Arch Linux的简单GNU / Linux发行版，可为您提供带有i3窗口管理器的稳定Arch Linux.
 - [Qubes OS (Archlinux Template)](https://www.qubes-os.org/doc/building-archlinux-template/) -专注于安全性的桌面操作系统，旨在通过隔离（非官方Archlinux模板）提供安全性.
 
@@ -57,11 +57,11 @@
 
 - [BlackArch Linux](https://blackarch.org/) -_（安全性/取证）_-基于Arch Linux的发行版，专门用于渗透测试人员和安全研究人员.
 - [ArchStrike](https://archstrike.org/) -_（安全性）_-基于Arch Linux的面向安全专业人员和研究人员的发行版.
-- [SystemRescueCd](http://www.system-rescue-cd.org/) -_（Data Rescue）_-可引导CD-ROM或USB驱动器上的基于Arch的Linux系统，旨在在崩溃后修复系统和数据.
+- [SystemRescueCd](http://www.system-rescue-cd.org/) -_（Data Rescue）_-可引导CD-ROM或USB驱动器上的基于Arch的Linux系统，用于在崩溃后修复系统和数据.
 - [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) -_（Data Rescue）_-基于Arch Linux的发行版. 
 - [LinHES](http://www.linhes.org/) -_（MythTV）_-尝试使GNU / Linux和MythTV的安装尽可能简单.
 - [UBOS](https://ubos.net/) -_（服务器）_-一种Linux发行版，旨在极大地减少建立和维护通用网络服务所需的时间.
-- [TalkingArch](https://talkingarch.tk/) -_（辅助）_-Arch Linux实时ISO映像的重制，已修改为包括针对盲人和视障用户的语音和盲文输出.
+- [TalkingArch](https://talkingarch.tk/) -_（辅助）_-Arch Linux实时ISO映像的重制版，已修改为包括针对盲人和视障用户的语音和盲文输出.
 - [Archphile](https://archphile.org/) -_（Raspberry Pi / ARM / Audio）_-嵌入式板的另一种Linux音频发行版.
 - [BBQLinux](http://bbqlinux.org/) -_（Android开发人员）_-专为Android开发人员设计的用户友好型Linux发行版.
 它具有构建AOSP或基于AOSP的发行版（如LineageOS或OmniROM）所需的一切.
@@ -88,14 +88,14 @@
 
 &gt;为方便Linux Arch的安装而专门创建的安装程序.
 
-- [Anarchy](https://anarchyinstaller.org/) -简单直观的Arch Linux安装程序.
+- [Anarchy](https://anarchyinstaller.gitlab.io) -简单直观的Arch Linux安装程序.
 - [Archfi](https://github.com/MatMoul/archfi) -在正式的Arch Linux安装介质上启动后，只需一个简单的bash脚本向导即可安装Arch Linux.
 
 ## AUR Helpers
 
 ### Search and download
 
-- [Auracle](https://github.com/falconindy/auracle) (C++) - A flexible command line client for Arch Linux's User Repository.
+- [Auracle](https://github.com/falconindy/auracle) （C ++）-用于Arch Linux用户存储库的灵活命令行客户端.
 - [pbget](https://xyne.archlinux.ca/projects/pbget/) （Python）-从Git，ABS和AUR中检索PKGBUILD和本地源文件，以获取makepkg.
 - [repoctl](https://github.com/cassava/repoctl) （开始）-轻松管理本地Arch Linux存储库.
 - [yaah](https://projects.metalgamer.eu/yaah) （重击）-Archlinux用户存储库（AUR）的帮助程序.
@@ -163,6 +163,30 @@
 <noscript><a href="https://liberapay.com/PandaFoss/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 我需要你的支持！  ❤️
+
+## Contributors ✨
+
+感谢这些优秀的人（[emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://raw.githubusercontent.com/klorophatu"><img src="https://avatars.githubusercontent.com/u/52282861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>klorophatu</b></sub></a><br /><a href="#content-klorophatu" title="Content">🖋</a></td>
+    <td align="center"><a href="https://telesto.ai"><img src="https://avatars.githubusercontent.com/u/28736871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandor Magyar</b></sub></a><br /><a href="#content-nandor-magyar" title="Content">🖋</a></td>
+    <td align="center"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+该项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规格. 欢迎任何形式的捐助！
 
 ## License
 

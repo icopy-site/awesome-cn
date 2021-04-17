@@ -12,11 +12,11 @@
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
 - [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，其摘要与相应的箱式和线式得分保持一致.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
-- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码和必需的语料库，这些代码和所需的语料库用于构建“学习”如何为语义Web三元组生成英语传记的系统.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在最新的端到端（E2E），数据驱动的NLG方法上，该方法可以从不对齐的数据中共同学习句子规划和表面实现.
+- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
-- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引荐表达生成.
-- [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728,321份传记. 它旨在评估文本生成算法. 对于每篇文章，我们都提供第一段和信息框（均标记化）.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
+- [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/)  -该数据集从Wikipedia收集了728,321份传记. 它旨在评估文本生成算法.
 - [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) -模式指导对话（SGD）数据集由人类和虚拟助手之间超过20k的带注释的多域，面向任务的对话组成.
 - [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.

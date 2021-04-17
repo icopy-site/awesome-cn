@@ -297,6 +297,7 @@
 - [Make an Heart clicker with vue.js and firebase](https://dev.to/venatus/tutorial-make-an-heart-clicker-with-vue-js-and-firebase-3npe)
 - [Building an E-Commerce app with Vue.js, Vuex & Axios](https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/) 德文·拉索尔（2020年11月）
 - [Vue.js Debugging: A Guide to Fixing Your Frontend](https://snipcart.com/blog/vuejs-debugging)  -了解Vue.js调试的基础知识. 本指南将引导您完成有关如何修复应用程序前端的教程.
+- [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
 ### Examples
 
@@ -1292,7 +1293,7 @@ _叠加/模态/警报/对话框/灯箱/弹出窗口_
 - [vue2-siema](https://github.com/sainf/vue2-siema) -非常小的Siema传送带/滑块库的插件包装.
 - [vue-flux](https://github.com/deulos/vue-flux) -带有20个炫酷过渡的图像滑块.
 - [vue-glide](https://github.com/antonreshetov/vue-glide) -Vue滑块和转盘组件位于顶部 [Glide.js](https://github.com/glidejs/glide)
-- [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) - Vue component for [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
+- [vue-owl-carousel](https://github.com/s950329/vue-owl-carousel) -查看组件 [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [vueper-slides](https://github.com/antoniandre/vueper-slides) -适用于Vue JS的触摸式便捷响应式幻灯片/轮播.
 - [Hooper](https://github.com/baianat/hooper) -针对Vue优化的可自定义的可访问轮播滑块
 - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) -Vue的简单图片库组件，可在下方显示带有缩略图的大图像
@@ -2843,7 +2844,7 @@ _用于构建/编译/捆绑/加载资产的实用工具_
 #### Miscellaneous
 
 - [vue-super](https://github.com/rpkilby/vue-super) -一个简单的插件，可以调用父组件上的方法.
-- [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) -Vue mixin，可将道具映射到本地数据.
+- [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
 - [vue-inject](https://github.com/jpex-js/vue-inject) -Vue 2.x组件的依赖注入
 - [vue-deepset](https://github.com/bhoriuchi/vue-deepset) -在Vue 1.x和2.x中使用v-model与Vue / Vuex对象/状态中的深层嵌套字段进行交互
 - [vue-gaspard](https://github.com/lucaperret/vue-gaspard) -Vue.js的DOM帮助器插件

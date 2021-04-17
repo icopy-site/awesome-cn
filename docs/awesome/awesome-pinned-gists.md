@@ -18,7 +18,7 @@
 - [bird-box](https://github.com/matchai/bird-box) -更新固定要点，以包含Twitter用户的最新推文.
 - [waka-box](https://github.com/matchai/waka-box) -更新固定的要点，以包含您的每周WakaTime统计信息.
 - [waka-box-go](https://github.com/YouEclipse/waka-box-go)  -waka-box的Golang实现. 更新固定的要点，以包含您的每周WakaTime统计信息.
-- [strava-box](https://github.com/JohnPhamous/strava-box) -更新固定的要点，以包含Strava的YTD锻炼指标.
+- [strava-box](https://github.com/JohnPhamous/strava-box) -更新固定要点，以包含Strava的YTD锻炼指标.
 - [music-box](https://github.com/jacc/music-box) -更新固定要点，以包含您在Last.fm上的每周收听报告.
 - [spotify-box](https://github.com/izayl/spotify-box) -更新固定要点，以在Spotify上包含您每周的热门曲目.
 - [netease-music-box](https://github.com/Leecason/netease-music-box) -更新固定要点，以包含您在网易云音乐上的每周收听报告.
@@ -30,16 +30,17 @@
 - [covid-box](https://github.com/puf17640/covid-box) -更新要点，以包含全球或特定国家的冠状病毒统计信息.
 - [shortcut-box](https://github.com/artemnovichkov/shortcut-box) -更新固定要点以包含随机的IDE快捷方式
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) -更新固定要领以显示您的最新YouTube视频
-- [book-box](https://github.com/amorriscode/book-box) -更新固定的要点以包含您的最新读物
-- [goodreads-box](https://github.com/mdluo/goodreads-box) -更新固定的要点，以显示您当前正在阅读的书和Goodreads上的进度.
+- [book-box](https://github.com/amorriscode/book-box) -更新固定要点，以包含您从Goodreads获得的最新读物
+- [goodreads-box](https://github.com/mdluo/goodreads-box) -更新固定要领，以显示您当前正在阅读的书籍和在Goodreads上的进度.
 - [toggl-box](https://github.com/tobimori/toggl-box) -更新固定的要点以包含您的每周Toggl时间跟踪统计信息
 - [steam-box](https://github.com/YouEclipse/steam-box) -更新固定的要点，以包含您的Steam播放时间排行榜.
 - [codestats-box](https://github.com/Ancientwood/codestats-box) -更新固定要点，以包含您的每日Code :: Stats.
 - [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  -codestats-box的Python实现. 更新固定的要点，以包含您的Code :: Stats统计信息.
-- [typeracer-box](https://github.com/tobimori/typeracer-box) -更新固定要领以包含最新的TypeRacer比赛
+- [typeracer-box](https://github.com/tobimori/typeracer-box) -更新固定要领以包含您最新的TypeRacer比赛
 - [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) -更新固定的要点，以包含您的Chess.com评分.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) -更新固定要领，以显示您最新的dev.to博客文章.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) -更新固定要领，以显示您的中级统计信息和最新文章.
+- [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) -更新固定的要点以包含随机的Hitokoto.
 
 ## GitHub
 
@@ -58,7 +59,7 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/matchai/awesome-pinned-gists/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/matchai/awesome-pinned-gists/blob/master/contributing.md) 第一的.
 
 ## License
 

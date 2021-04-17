@@ -40,7 +40,7 @@
 ### Acquisition
 
 * [22120](https://github.com/c9fe/22120)  -一种非基于WARC的工具，可连接到chrome浏览器并存档您浏览的所有内容，以使其可用于脱机重播.  *（开发中）*
-* [ArchiveBox](https://github.com/pirate/ArchiveBox)  -使用wget，chrome无头浏览器和其他方法（以前称为“书签存档器”）维护RSS提要，书签和链接的附加存档的工具.  *（开发中）*
+* [ArchiveBox](https://github.com/pirate/ArchiveBox)  -一种使用wget，chrome无头浏览器和其他方法（以前称为“书签存档器”）维护RSS提要，书签和链接的附加存档的工具.  *（开发中）*
 * [archivenow](https://github.com/oduwsdl/archivenow) - 一种 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将Web资源推送到按需Web存档中.  *（稳定的）*
 * [Brozzler](https://github.com/internetarchive/brozzler)  -使用实际浏览器（Chrome或Chrome）的分布式Web搜寻器（爬虫），以获取页面和嵌入的URL并提取链接.  *（稳定的）*
 * [Cairn](https://github.com/wabarc/cairn)  -用于保存网页的npm软件包和CLI工具.  *（稳定的）*
@@ -99,6 +99,7 @@
 * [har2warc](https://github.com/webrecorder/har2warc) -转换HTTP存档（HAR）-&gt; Web存档（WARC）格式（Python）.
 * [httpreserve.info](http://httpreserve.info/)  -用于返回网页状态或将其保存到Internet存档的服务. 使用GET（Golang包）通过浏览器或CURL通过命令行返回JSON.  *（稳定的）*
 * [HTTPreserve Workbench](https://github.com/httpreserve/workbench)  -用于描述以简单JSON输出编码的网页状态的工具和API，该JSON输出描述了当前状态以及wayback.org上的最早和最新链接. 将网页保存到Internet存档. 审核URI列表，并输出包含上述数据的CSV（Golang）.  *（开发中）*
+* [httrack2warc](https://github.com/nla/httrack2warc) -将HTTrack归档文件转换为WARC格式（Java）.
 * [MementoMap](https://github.com/oduwsdl/MementoMap)  -概述Web档案馆馆藏（Python）的工具.  *（开发中）*
 * [MemGator](https://github.com/oduwsdl/MemGator)  -Memento聚合器CLI和服务器（Golang）.  *（稳定的）*
 * [node-cdxj](https://github.com/N0taN3rd/node-cdxj) - [CDXJ](https://github.com/oduwsdl/ORS/wiki/CDXJ) 文件解析器（Node.js）.  *（稳定的）*
@@ -119,7 +120,7 @@
 * [Warcat](https://github.com/chfoo/warcat)  -用于处理Web ArChive（WARC）文件（Python）的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) -流式WARC / ARC库，用于快速Web归档IO（Python）.
 * [warctools](https://github.com/internetarchive/warctools) -与ARC和WARC文件一起使用的库（Python）.
-* [webarchive](https://github.com/richardlehane/webarchive) -用于ARC和WARC Web存档格式（Golang）的Golang阅读器.
+* [webarchive](https://github.com/richardlehane/webarchive) -ARC和WARC Web存档格式（Golang）的Golang阅读器.
 
 ### Analysis
 
