@@ -59,6 +59,8 @@
 - [KeyPress](https://github.com/rayylee/keypress) -Rust WebAssembly网站示例，用于练习中文的英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) -Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于Yew最新的钩子和功能API的示例，其代码风格非常类似于React Function Component.
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) -与Yew一起显示d3图表.
+- [Oxfeed](https://github.com/sanpii/oxfeed) -用Rust编写的Feed阅读器，带有一个红豆杉前端.
+
 ## Templates
 
 - [Create Yew App](https://github.com/jetli/create-yew-app) -通过运行一个命令“ npx create-yew-app my-app”来设置现代的Yew网络应用.
@@ -102,7 +104,7 @@
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件来安装`wasm-pack`，以加快CI / CD的速度.
-- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加速CI / CD.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加快CI / CD的速度.
 - [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
 - [Trunk](https://github.com/thedodd/trunk) -生成，捆绑并将Rust Wasm应用程序发送到网络.
 - [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.

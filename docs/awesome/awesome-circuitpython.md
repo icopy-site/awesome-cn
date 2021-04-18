@@ -8,6 +8,12 @@
 
 &gt;精选的很棒的CircuitPython指南，视频，库，框架，软件和资源的列表.
 
+
+
+https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov
+
+
+
 [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) 是MicroPython的Adafruit分支，旨在简化低成本微控制器的实验和培训. 它不需要任何前期桌面软件下载，因此比以往任何时候都更容易进行原型设计. 使用CircuitPython，您可以编写简洁的Python代码来控制硬件，而不必使用复杂的底层语言（例如C或C ++）（Arduino用于编程的语言）. 对初学者来说很棒！
 
 
@@ -114,7 +120,7 @@
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) -完整列出传感器，LCD，显示器，机器人技术，分线板等.
 
-[python.digikey.com](http://python.digikey.com) -Digi-Key电子设备在其站点上的一个位置列出了所有Python支持的板，包括CircuitPython和MicroPython板.
+[python.digikey.com](http://python.digikey.com) -Digi-Key电子产品在其站点上的一个位置列出了所有Python支持的板，包括CircuitPython和MicroPython板.
 
 ## Newsletter
 
@@ -134,7 +140,7 @@
 - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) -Codecademy与Adafruit合作提供的课程.
 - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) -CircuitPython在Texas Instruments计算器上运行.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
-- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) -IEEE Spectrum杂志上有关针对制造商的Python编程语言的文章.
+- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) -IEEE Spectrum杂志针对制造商的Python编程语言的文章.
 - [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) -4-H品牌版本已获得美国农业部（USDA）的认可，这是首款同时获得4-H批准的CircuitPython供电板！
 - [CircuitPython in Space](https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/) - _CircuitPython provides an approachable and logical means of conducting science with hardware. Paired with low-cost hardware shown to work in space, we can enable an new generation to question and explore the unknown. With the necessary “satellite stuff” already baked in, students can spend their time trying something new rather than reinventing the wheel_.
 - [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) -在CircuitPython和IoT设备PyPortal上扰乱自己的播客.
@@ -174,7 +180,7 @@
 
 ## Podcasts
 
-- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) -来自CircuitPython的Discord聊天空间的音频，会议通常是美国东部时间星期一下午2点，这是音频版本 [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016)，Pocket Casts， [Spotify](https://adafru.it/spotify)， 和 [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
+- [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) -来自CircuitPython的Discord聊天空间的音频，会议通常是美国东部时间下午2点，这是音频版本 [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016)，Pocket Casts， [Spotify](https://adafru.it/spotify)， 和 [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 - [Python on hardware weekly video cast](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2)  -硬件上Python的奇妙世界！ 这是我们关于Python和电子产品的视频新闻播客！ 该消息来自Python社区，不和谐社区，Adafruit社区等等. 这是每周新闻的一部分，然后我们向工程师询问一个片段，这是其中的视频片段！ 该视频播客已打开 [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)）， 和 [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 - [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/)
 
@@ -205,8 +211,8 @@
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) -妮娜·扎哈连科（Nina Zakharenko）
 - [Hanselminutes Technology Podcast – Learning CircuitPython with Scott Shawcroft](https://blog.adafruit.com/2019/09/13/hanselminutes-technology-podcast-learning-circuitpython-with-scott-shawcroft-shanselman-circuitpython-tannewt-hanselminutes-adafruit/)
 - [PyCon2019 Keynote: Python on Hardware – Nina Zakharenko](https://blog.adafruit.com/2019/05/06/pycon2019-keynote-python-on-hardware-nina-zakharenko-pythonhardware-pycon2019-circuitpython-python-circuitplaygroundexpress-nnja/)
-- [MicroPython & the Internet of Things](https://youtu.be/EvGhPmPPzko) -MicroPython和物联网，作者Damien George在GOTO 2016上
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) -通过开源，激情和指导改变生活，凯特尼·雷姆博尔（Kattni Rembor）在Pyohio 2019上的主题演讲
+- [MicroPython & the Internet of Things](https://youtu.be/EvGhPmPPzko) -MicroPython和物联网，作者达米安·乔治（Damien George）在GOTO 2016上
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) -通过开源，热情和指导改变生活，凯特妮·雷姆博尔（Kattni Rembor）在Pyohio 2019上的主题演讲
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) -CircuitPython：PyCon Canada上的Dave Astels在硬件上使用Python
 - [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) -PyCon Australia的Stacy Morse用CircuitPython照明宏观照片
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) -在FOSSASIA峰会上由Ayan Pahwa编写的适用于使用MicroPython和CircuitPython的所有人的嵌入式编程

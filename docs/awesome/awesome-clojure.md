@@ -39,7 +39,7 @@
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure)：仅在访问时才计算其值
   * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子持续存在于磁盘上
   * [Durable Queue](https://github.com/Factual/durable-queue)：队列在磁盘上持久存在
-  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/集合/列表（将条目连续存储在内存中），; writtern在Java中，但是测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/集合/列表（将条目连续存储在内存中），; writtern在Java中，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
@@ -69,6 +69,7 @@
   * [mount](https://github.com/tolitius/mount)
   * [Integrant](https://github.com/weavejester/integrant)
   * [clip](https://github.com/juxt/clip)
+  * [piotr-yuxuan/closeable-map](https://github.com/piotr-yuxuan/closeable-map)
 
 ## Build Automation and Package management
 
@@ -465,7 +466,7 @@
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关core.async，传感器，瞬变，逻辑编程和“每日功能”系列的更高级的视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关core.async，传感器，瞬变，逻辑编程和“每日功能”系列的更多高级视频.
 
 ## Websites
 

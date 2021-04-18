@@ -55,10 +55,10 @@
 - [Preact Cycle](https://git.io/preact-cycle) -Preact的功能反应范例.
 - [Preact Layout](https://download.github.io/preact-layout/) -小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) -的Preact插件 [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 使用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) -整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过Preact通过 [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) -MUI CSS Preact库.
-- [Preact MDL](https://git.io/preact-mdl) - 使用 [MDL](https://getmdl.io) 作为Preact组件.
+- [Preact MDL](https://git.io/preact-mdl) - 用 [MDL](https://getmdl.io) 作为Preact组件.
 - [Preact Photon](https://git.io/preact-photon) -使用构建漂亮的桌面用户界面 [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) -创建没有class关键字的preact组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) -用于创建元素的类似于超脚本的语法.
@@ -90,13 +90,13 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，该组件受elm的启发很大.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 使用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head)  -用来操纵`的钩子<head> DOM部分. 它有一个带有核心preact支持的子包（使用`preact / hooks`）.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) -使Preact组件可以访问产生的虚拟dom进行测试.
-- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -模拟反应-测试-利用酶.
+- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -预先模拟反应-测试-利用酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) -简单而完整的Preact DOM测试实用程序，可鼓励良好的测试实践.
 
 ### Articles
@@ -110,7 +110,7 @@
 
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) -用于将Hacker News建立为PWA的Preact的演示.
-- [TodoMVC](https://github.com/developit/preact-todomvc)  -TodoMVC已在Preact中完成. 小于6kb，且速度很快.
+- [TodoMVC](https://github.com/developit/preact-todomvc)  -TodoMVC已在Preact中完成. 小于6kb，速度很快.
 - [Colors App](https://github.com/lukeed/colors-app)  -PWA用于复制流行调色板中的值. 支持HEX，RGB和HSL格式.
 - [Tracks](https://github.com/jordic/tracks_preact/)  -PWA一般用于跟踪事物.  Gdrive同步.
 - [Hueify](https://github.com/kvartborg/hueify) -飞利浦色相灯的简单控制器.
@@ -123,7 +123,7 @@
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact提高了速度.
 - [**ESBench**](http://esbench.com) 是使用Preact构建的.
 - [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
-- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃子：
+- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
 - [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
 - [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
 - [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：
@@ -140,6 +140,7 @@
 - [**GHFresh**](https://code2k.github.io/ghfresh/) 监控GitHub存储库版本-使用Preact进行预渲染. 使用Preact Compat，TypeScript，Material-UI和Redux Toolkit构建.  _（[GitHub Project](https://github.com/code2k/ghfresh))_.
 - [**Passwords Fountain**](https://passwords-fountain.com/) -新颖，高性能的密码管理器界面，可在任何地方使用_（[Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
 - [**macOS Web**](https://macos.now.sh) -使用Preact和Vite _（构建的macOS Big Sur Desktop Web体验[Github project](https://github.com/PuruVJ/macos-web))_
+- [**Cinemate**](https://cinemate.me)  -使用Preact和TypeScript构建的电影推荐系统. 用Rust编写的后端.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) -用于构建用户界面的声明性，高效且灵活的JavaScript库.
