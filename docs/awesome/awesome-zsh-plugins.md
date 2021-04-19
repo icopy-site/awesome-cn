@@ -454,7 +454,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [clipboard](https://github.com/zpm-zsh/clipboard)  -添加了跨平台的帮助器功能来访问系统剪贴板. 适用于macOS，X11（和Wayland）和Cygwin.
 * [cmd-architect](https://github.com/psprint/zsh-cmd-architect) -根据历史记录构建命令，并在出现提示时移动，删除，添加命令段以及使用多字查询搜索历史记录.
 * [cmd-status](https://github.com/BlaineEXE/zsh-cmd-status) -报告命令的状态，包括返回码和持续时间.
-* [code-review](https://github.com/xorkevin/code-review-zsh) - Launches `git difftool` on `git merge-base target_branch base_branch` and `target_branch`.
+* [code-review](https://github.com/xorkevin/code-review-zsh) -在`git merge-base target_branch base_branch`和`target_branch`上启动`git difftool`.
 * [code-stats](https://gitlab.com/code-stats/code-stats-zsh) -计算按键次数并将统计信息记录到 [Code::Stats](https://codestats.net/).
 * [colored-man-pages-mod](https://github.com/zuxfoucault/colored-man-pages_mod) -来自 [ohmyzsh/ohmyzsh/plugins/colored-man-pages](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh) . 给`man`输出着色.
 * [colored-man-pages](https://github.com/ael-code/zsh-colored-man-pages) -为“ man”页面着色.
@@ -610,6 +610,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [hadoop-plugin](https://github.com/valek/zsh-hadoop-plugin) -为hadoop功能添加了一些方便的别名.
 * [hanami](https://github.com/davydovanton/hanami-zsh) -适用于的ZSH插件 [hanami](http://hanamirb.org) 项目.
 * [hangul](https://github.com/gomjellie/zsh-hangul)  -当应该输入英文时，自动将韩文（한글，韩文）转换为英文. 您必须输入英文，但是如果输入韩文，则会自动更正.
+* [hbt](https://github.com/lzambarda/hbt) -基于过去命令用法的启发式ZSH建议系统.
 * [hints](https://github.com/joepvd/zsh-hints) -在编辑缓冲区的正下方显示glob和参数标志以及其他不可完成的信息.
 * [hipchat](https://github.com/robertzk/hipchat.zsh) -从外壳发送hipchat消息.
 * [hist](https://github.com/marlonrichert/zsh-hist) -在ZSH中编辑您的历史记录，而无需离开命令行.
@@ -662,7 +663,8 @@ ztheme是ZSH的小型快速主题引擎.
 * [kubectx (ptavares)](https://github.com/ptavares/zsh-kubectx) -安装和装载 [kubectx](https://github.com/ahmetb/kubectx).
 * [kubectx (unixorn)](https://github.com/unixorn/kubectx-zshplugin) -自动安装 [kubectx](https://github.com/ahmetb/kubectx) 和`kubens`.
 * [kubernetes](https://github.com/Dbz/zsh-kubernetes) - 添加 [kubernetes](https://kubernetes.io) 辅助函数和别名.
-* [lando](https://github.com/JoshuaBedford/lando-zsh) -别名功能的集合，可在其中使用CLI [Lando](https://docs.lando.dev) 无需键入lando即可访问它们.
+* [lando (joshuabedford)](https://github.com/JoshuaBedford/lando-zsh) -别名功能的集合，可在其中使用CLI [Lando](https://docs.lando.dev) 无需键入lando即可访问它们.
+* [lando (mannuel)](https://github.com/mannuel/lando-alias-zsh) -为各种添加别名 [Lando](https://docs.lando.dev/basics/usage.html#default-commands/) 命令.
 * [laradock-workspace](https://github.com/rluders/laradock-workspace-zsh) -提供一个接口 [Laradock](http://laradock.io/)的工作区.
 * [laravel-au](https://github.com/Saleh7/laravel-au-zsh-plugin) -为Laravel 6添加别名.
 * [laravel-sail](https://github.com/ariaieboy/laravel-sail) -添加“ sail”命令的快捷方式.
@@ -696,7 +698,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [monthrename](https://github.com/NotTheDr01ds/zsh-plugin-monthrename) -将月份名称重命名为文件名中的数字.
 * [morpho](https://github.com/psprint/zsh-morpho) -用纯ZSH编写的终端屏幕保护程序，以及屏幕保护程序框架.
 * [mouse-status](https://github.com/gryffyn/mouse-status) -根据状态码更改鼠标颜色，使用libratbag.
-* [msf](https://github.com/sathish09/zsh_plugins/tree/master/msf) -Metasploit处理程序插件，可轻松启动处理程序.
+* [msf](https://github.com/sathish09/zsh_plugins/tree/master/msf) - Metasploit handler plugin for starting handlers easily.
 * [mvn-contexts](https://github.com/artemy/zsh-mvn-contexts) -允许在Maven配置之间快速切换.
 * [mylocation](https://github.com/fALKENdk/mylocation) -一个插件，可根据您的IP地址显示您的当前位置.
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -为mysql表添加颜色.

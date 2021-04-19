@@ -33,7 +33,7 @@
 
 ##### React General Tutorials
 
-- [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
@@ -44,13 +44,13 @@
 ##### React Hooks
 
 - [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 - [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
 - [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Easy to understand React Hook recipes](https://usehooks.com/)
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [Build a React chat app with Hooks, a pragmatic example](https://www.cometchat.com/tutorials/building-a-chat-app-with-react-hooks-a-pragmatic-example/)
-- [React Hooks Youtube Playlist](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
+- [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 
 ##### React and TypeScript
 
@@ -185,9 +185,9 @@
 - [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小，可锚定，可滚动的嵌套组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
-- [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
@@ -199,7 +199,7 @@
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
 - [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
-- [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
+- [qrcode.react](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) -轻松在React组件上应用倾斜悬停效果
@@ -259,7 +259,7 @@
 - [react-desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的OS X和Windows UI组件
 - [Reapop](https://github.com/LouisBarranqueiro/reapop) -一个React＆Redux通知系统
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
@@ -289,7 +289,7 @@
 - [react-backbone](https://github.com/jhudson8/react-backbone) -骨干感知mixins做出反应
 - [NestedReact](https://github.com/Volicon/NestedReact/) -与Backbone Views和NestedTypes模型透明集成
 - [backbone-reaction](https://github.com/jhudson8/backbone-reaction) -反应，骨干，然后一些
-- [react.backbone](https://github.com/usepropeller/react.backbone) -用于React的插件使骨干迁移更容易
+- [react.backbone](https://github.com/usepropeller/react.backbone) - Plugin for React to make Backbone migration easier
 - [reactbone](https://github.com/andrejewski/reactbone) -React Backbone扩展
 - [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) -与主干和主干分页器一起使用的React组件
 - [react-events](https://github.com/jhudson8/react-events) -React组件的声明式托管事件绑定
@@ -354,31 +354,16 @@
 
 ##### Forms
 
-- [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal](https://github.com/jquense/react-formal) - Better form validation and value management for React, Provides minimal wiring
-- [react-forms](https://github.com/prometheusresearch/react-forms) -React的表单库
-- [valuelink](https://github.com/Volicon/valuelink) -具有扩展的React链接的全功能双向数据绑定
-- [wingspan-forms](https://github.com/wingspan/wingspan-forms) -Facebook React的动态表单库
-- [newforms](https://github.com/insin/newforms) -React的同构表单处理
-- [formjs](https://github.com/zackify/formjs) -Reactjs的表单生成器
-- [react-form-builder](https://github.com/quri/react-form-builder) -React.js的表单生成器
-- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) -用于使用JSON-Schema进行响应的动态表单组件
-- [tcomb-form](https://github.com/gcanti/tcomb-form) -UI库，用于开发较少编写代码的表单
-- [formsy-react](https://github.com/christianalfoni/formsy-react) -React JS的表单输入生成器和验证器
-- [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/) -荒谬的简单形式
-- [Winterfell](https://github.com/andrewhathaway/Winterfell) -在React中生成基于JSON的复杂，经过验证和可扩展的表单
-- [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) -利用元数据动态创建Redux-Forms
-- [uniforms](https://github.com/vazco/uniforms) -一堆React组件和帮助程序，可轻松生成和验证表单
-- [formik](https://github.com/jaredpalmer/formik) -React中的形式，没有眼泪
-- [NeoForm](https://github.com/zero-plus-x/neoform) -用于表单状态管理和验证的模块化HOC
+- [formik](https://github.com/jaredpalmer/formik) -在React中构建表格，没有眼泪
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) -React Hooks用于表单验证
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) -一个用于从JSON模式构建Web表单的React组件
-- [List View Select](https://github.com/JamesWatling/react-native-list-view-select) -具有本机组件的React Native的可切换选择框
-- [Final Form 🏁](https://github.com/final-form/react-final-form) -
-- [formland](https://github.com/indix/formland) -一个简单，超灵活，可扩展的基于配置的表单生成器
-- [react-reactive-form](https://github.com/bietkul/react-reactive-form) -React中的角状反应形式
-- [unform](https://github.com/Rocketseat/unform) -ReactJS表单库可创建具有嵌套字段，验证等更多内容的不受控制的表单结构！
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) -高效，灵活和可扩展的表格，易于使用的验证
-- [Formily](https://github.com/alibaba/formily) -高性能，可扩展和打字稿友好
+- [react-final-form](https://github.com/final-form/react-final-form) -用于React的基于高性能订阅的表单状态管理
+- [unform](https://github.com/Rocketseat/unform) -适用于React表单的以性能为中心的API
+- [formily](https://github.com/alibaba/formily) -阿里巴巴集团统一表格解决方案
+- [uniforms](https://github.com/vazco/uniforms) -一个React库，用于从任何模式构建表单
+- [formsy-react](https://github.com/formsy/formsy-react/) -React的表单输入构建器和验证器
+- [react-formal](https://github.com/jquense/react-formal) -用于React的复杂HTML表单管理
+
 
 ##### Autocomplete
 
@@ -754,7 +739,11 @@
 
 #### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
 
+#### [React Conf 2017 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
+
 #### [React.js Amsterdam 2018 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm)
+
+#### [React Amsterdam 2019 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc)
 
 #### Video Tutorials
 
@@ -785,6 +774,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux都尚未发布. 现在，React是主流，发生了很多事情. 请不要尝试将此列表用作广告板或公开宣传您的实验的地方. 请只在这里提供完全免费的资源. 不要犹豫，建议为过时的项目和文章清理PR，并提供新的贡献. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

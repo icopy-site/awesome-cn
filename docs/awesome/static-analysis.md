@@ -105,7 +105,6 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [abaplint](https://abaplint.org) -用TypeScript编写的ABAP的Linter.
 - [abapOpenChecks](https://docs.abapopenchecks.org) -通过新的和可自定义的检查功能增强了SAP Code Inspector.
-- [dialyxir](https://github.com/jeremyjh/dialyxir) -混合任务以简化Elixir项目中Dialyzer的使用.
 
 
 <h2 id="ada">有</h2>
@@ -242,6 +241,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="elixir">长生不老药</h2>
 
 - [credo](https://github.com/rrrene/credo) -静态代码分析工具，专注于代码一致性和教学.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) -混合任务以简化Elixir项目中Dialyzer的使用.
 - [sobelow](https://github.com/nccgroup/sobelow) -Phoenix框架的安全性静态分析.
 
 
@@ -253,7 +253,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 <h2 id="erlang">Erlang</h2>
 
-- [dialyzer](https://erlang.org/doc/man/dialyzer.html)  -DIALYZER，一种用于ERlang程序的差异分析仪.  Dialyzer是一种静态分析工具，可在单个Erlang模块或整个（一组）应用程序中识别软件差异，例如确定的类型错误，由于编程错误而变得无效或无法访问的代码以及不必要的测试.
+- [dialyzer](https://erlang.org/doc/man/dialyzer.html)  -DIALYZER，一种用于ERlang程序的差异分析仪.  Dialyzer是一种静态分析工具，可在单个Erlang模块或整个（组）应用程序中识别软件差异，例如确定的类型错误，由于编程错误而变得无效或无法访问的代码以及不必要的测试.
 Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from Erlang source code. The file and line number of a discrepancy  is reported along with an indication of what the discrepancy is about.  Dialyzer bases its analysis on the concept of success typings,  which allows for sound warnings (no false positives).
 - [elvis](https://github.com/inaka/elvis) -Erlang样式审阅者.
 - [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) -一种对Erlang源代码进行基本扫描并报告可能导致Erlang源代码不安全的函数调用的工具.
@@ -376,7 +376,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [retire.js](http://retirejs.github.io/retire.js) -扫描程序检测已知漏洞的JavaScript库的使用.
 - [RSLint](http://rslint.org/) -用Rust编写的（WIP）JavaScript linter，旨在尽可能快，可自定义且易于使用.
 - [tern](https://ternjs.net) -一个JavaScript代码分析器，可提供深入的跨编辑器语言支持.
-- [TypL](https://typl.dev) -使用TypL，您只需编写完全标准的JS，然后该工具即可通过强大的推断功能来识别类型.
+- [TypL](https://typl.dev) -使用TypL，您只需编写完全标准的JS，然后该工具即可通过强大的推断功能来确定您的类型.
 - [xo](https://github.com/xojs/xo)  -固执己见，但可配置的ESLint包装器，其中包含很多东西. 强制执行严格且易读的代码.
 - [yardstick](https://github.com/calmh/yardstick) ：warning：-Javascript代码指标.
 
@@ -541,7 +541,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 <h2 id="rust">锈</h2>
 
 - [C2Rust](https://c2rust.com)  -C2Rust可帮助您将符合C99的代码迁移到Rust. 编译器（或编译器）生成不安全的Rust代码，该代码紧密地镜像了输入的C代码.
-- [cargo udeps](https://github.com/est31/cargo-udeps)  -在Cargo.toml中找到未使用的依赖项. 它要么打印出列出未使用的板条箱的“未使用的板条箱”行，要么打印出一条未使用板条箱的行.
+- [cargo udeps](https://github.com/est31/cargo-udeps)  -在Cargo.toml中找到未使用的依赖项. 它要么打印出列出该板条箱的“未使用的板条箱”行，要么打印出一条未使用任何板条箱的行.
 - [cargo-audit](https://rustsec.org) -审核Cargo.lock，以将带有安全漏洞的板条箱报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
 - [cargo-deny](https://embarkstudios.github.io/cargo-deny)  -用于减少依赖关系的货运插件. 它也可以用作命令行，Rust板条箱或CI的Github操作. 它检查有效的许可证信息，重复的板条箱，安全漏洞等.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
@@ -555,8 +555,8 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html)  -基于Viper验证基础架构的Rust静态验证程序. 默认情况下，Prusti会通过证明unreachable！（）和panic！（）之类的语句不可访问来验证是否存在恐慌.
 - [Rust Language Server](https://github.com/rust-lang-nursery/rls) -支持“转到定义”，符号搜索，重新格式化和代码完成等功能，并支持重命名和重构.
 - [rust-analyzer](https://rust-analyzer.github.io) -支持“转到定义”，类型推断，符号搜索，重新格式化和代码完成等功能，并支持重命名和重构.
-- [rust-audit](https://github.com/Shnatsel/rust-audit)  -审核Rust二进制文件中的已知错误或安全漏洞. 通过将有关依赖关系树（Cargo.lock）的数据以JSON格式嵌入到已编译的可执行文件的专用链接器部分中，可以进行此操作.
-- [rustfix](https://github.com/rust-lang/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy提供的建议）提出的建议.
+- [rust-audit](https://github.com/Shnatsel/rust-audit)  -审核Rust二进制文件中的已知错误或安全漏洞. 通过将有关依赖关系树（Cargo.lock）的数据以JSON格式嵌入到已编译的可执行文件的专用链接器部分中，可以工作.
+- [rustfix](https://github.com/rust-lang/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy所提供的皮棉）提出的建议.
 - [rustfmt](https://github.com/rust-lang/rustfmt) -根据样式指南格式化Rust代码的工具.
 - [warnalyzer](https://github.com/est31/warnalyzer) -显示多箱Rust项目中未使用的代码
 
@@ -651,7 +651,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [codechecker](https://codechecker.readthedocs.io/en/latest) -具有Web GUI的Clang静态分析器的缺陷数据库和查看器扩展.
 - [CodeFactor](https://codefactor.io) ：copyright：-在GitHub或BitBucket上针对仓库的自动代码分析.
 - [CodeFlow](https://www.getcodeflow.com)  ：copyright：-自动化的代码分析工具来处理技术深度. 与Bitbucket和Gitlab集成.  （对于开源项目免费）
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：版权所有：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码遵循（您的）预定义的设计和样式指南以及最佳编码实践.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：copyright：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码遵循（您的）预定义的设计和样式指南以及最佳编码实践.
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) ：copyright：-由安全性驱动的自动SAST代码检查，支持15种以上的语言，并包括安全性培训.
 - [codeql](https://github.com/github/codeql) -深入的代码分析-带有VSCode插件支持的几种语言的语义查询和数据流.
 - [Coderrect](https://coderrect.com/)  ：copyright：-用于多线程软件的高级静态分析器. 支持OpenMP，Pthread，std :: thread和GPU / CUDA.
@@ -693,7 +693,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查.
 - [NodeJSScan](https://opensecurity.in)  -基于libsast和semgrep的Node.js应用程序的静态安全代码扫描程序，它基于njsscan cli工具构建. 它具有一个UI，其中包含有关应用程序安全状态的各种仪表板.
 - [oclint](http://oclint.org) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷.
-- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析人员能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
+- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析师能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
 - [pfff](https://github.com/facebookarchive/pfff/wiki/Main) -Facebook的工具，用于多种语言的代码分析，可视化或保留样式的源转换.
 - [PMD](https://pmd.github.io) - A source code analyzer for Java, Salesforce Apex, Javascript, PLSQL, XML, XSL and others.
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) -Web组件的静态分析框架.
@@ -773,7 +773,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 加载地址：binbloom可以解析原始二进制固件并确定其加载地址. 字节序：binbloom可以使用启发式方法来确定固件的字节序.  UDS数据库：binbloom可以解析原始二进制固件，并检查其是否包含包含UDS命令ID的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) ：copyright：-分析源代码和二进制文件以获取可重用代码，必要许可证和潜在安全方面的工具.
-- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface会向您显示二进制文件的大小配置文件，以便您了解正在占用内部空间的空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloatty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
+- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface会向您显示二进制文件的大小配置文件，以便您了解正在占用内部空间的空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloaty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 - [Ghidra](https://ghidra-sre.org) -国家安全局研究局开发的软件逆向工程（SRE）工具套件，用于支持网络安全使命
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) ：copyright：-二进制代码分析工具.
@@ -947,7 +947,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [Oversecured](https://oversecured.com)  ：copyright：-一个移动应用程序漏洞扫描程序，专为安全研究人员和漏洞赏金黑客使用. 它还允许将集成到企业的DevOps流程中.
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) ：copyright：-容器本机应用程序保护，以提供对容器化应用程序的可见性和控制.
 - [tfsec](https://github.com/tfsec/tfsec)  -Terraform静态分析工具，可通过在构建时检查云配置错误来防止潜在的安全问题，并直接与HCL解析器集成以获得更好的结果. 检查是否违反了AWS，Azure和GCP安全最佳实践建议.
-- [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  -带有可扩展插件系统的通用网络安全扫描程序，用于以高置信度检测高严重性的类似于RCE的漏洞. 可以添加用于发现漏洞的自定义检测器（例如，开放的API）.
+- [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  -带有可扩展插件系统的通用网络安全扫描程序，用于以高置信度检测类似RCE的高严重性漏洞. 可以添加用于发现漏洞的自定义检测器（例如，开放的API）.
 
 
 <h2 id="smart-contracts">智能合约</h2>

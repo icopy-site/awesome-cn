@@ -39,7 +39,7 @@
 - [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) -NodeMCU为其操作系统提供的官方刷新工具.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) -适用于32/8266的仅lua的SDK.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) -在8266中用于文件系统上传的Arduino插件.
-- [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
+- [PlatformIO](https://github.com/platformio/platformio-core) -同时支持ESP32和ESP8266的跨平台IDE和调试器.
 
 ## Projects
 ### Smart Home and IoT
@@ -70,7 +70,7 @@
 
 - [Meshtastic](https://www.meshtastic.org/) -ESP32 LoRA板作为安全的，较长的电池寿命，网状GPS通信器.
 - [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi和蓝牙驱动，启用LoRaWAN，电池供电的迷你Paxcounter，基于便宜的ESP32 LoRa IoT板构建
-- [Disaster Radio](https://disaster.radio/) -由太阳驱动的抗灾通讯网络
+- [Disaster Radio](https://disaster.radio/) -由太阳驱动的抗灾通信网络
 
 ### Others
 - [SoftRF](https://github.com/lyusupov/SoftRF) -可以在无人机项目中使用的DIY航空近距离感知系统.
@@ -109,3 +109,4 @@
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) -的Arduino库 [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)，由定义的无连接WiFi通信协议 [Espressif](https://github.com/espressif).
 - [go-mcu](https://github.com/matiasinsaurralde/go-mcu) -Golang软件包，用于与基于NodeMCU的板进行交互.
 - [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) -具有自动配置多个PM2.5，CO2和环境传感器的ESP32 / 8266库.
+- [Dhyara](https://github.com/neel/dhyara) -使用ESP Now制作移动自组织网络（MANET）的AC / C ++库.
