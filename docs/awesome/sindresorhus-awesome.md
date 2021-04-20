@@ -91,7 +91,7 @@
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) -P2P超媒体协议.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) -移动开发工具.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) -云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) -信用卡大小的计算机，旨在教孩子们编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) -跨平台的GUI应用程序框架.
@@ -188,7 +188,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用程序而设计的现代编程语言，在这些应用程序中，可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
@@ -306,6 +306,7 @@
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) -Python Web应用程序框架.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) -用于在代码中定义云基础架构的开源软件开发框架.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Chalice](https://github.com/chalice-dev/awesome-chalice#readme) -用于在AWS Lambda上进行无服务器应用开发的Python框架.
 
 ## Computer Science
 
@@ -318,7 +319,7 @@
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) -苹果机器学习框架的模型.
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) -使用Java，R，Python和Scala中的API编写的开源分布式机器学习平台.
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) -从实验到生产级机器学习.
-	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) -通过机器学习解决财务问题.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) -自动区分和XLA编译结合在一起，用于高性能机器学习研究.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
@@ -673,7 +674,7 @@
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言。
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.

@@ -52,6 +52,8 @@
 
 #### ODMs
 
+- [Beanie](https://github.com/roman-right/beanie) -基于MongoDB的异步Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/)
+and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的数据和架构迁移.
 - [MongoEngine](http://mongoengine.org/) -用于从Python使用MongoDB的文档对象映射器（认为是ORM，但适用于文档数据库）.
 - [Motor](https://motor.readthedocs.io/) -MongoDB的异步Python驱动程序.
 - [ODMantic](https://art049.github.io/odmantic/) -与AsyncIO MongoDB ODM集成 [Pydantic](https://pydantic-docs.helpmanual.io/). 
@@ -124,7 +126,7 @@
 ### Tutorials
 
 - [Demystifying Authentication with FastAPI and a Frontend](https://kernelpanic.io/demystifying-authentication-with-fastapi-and-a-frontend/) -添加基于令牌的身份验证.
-- [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) -使用Cloud Run和SQL实例将Dockerized Python应用程序部署到Google Cloud Platform的简短指南.
+- [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
 - [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) -Docker化FastAPI应用程序.
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) -使用Test-Driven Development使用FastAPI，Postgres，Pytest和Docker开发和测试异步API.
@@ -208,7 +210,7 @@ Compute:
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql) -全栈的现代Web应用程序生成器，其中包括FastAPI，PostgreSQL，Docker，Celery，Vue前端，自动HTTPS等（由FastAPI的创建者开发， [Sebastián Ramírez](https://github.com/tiangolo)).
 - [FastAPI and Tortoise ORM](https://github.com/prostomarkeloff/fastapi-tortoise) -带有FastAPI（作为Web框架）和Tortoise-ORM（用于通过数据库工作而毫不费力）的强大，简单的Web API模板.
 - [FastAPI Model Server Skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) -骨架应用程序，可为生产准备就绪的机器学习模型提供服务.
-- [cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
+- [cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) -使用FastAPI快速部署spaCy模型.
 - [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) -使用以下内容的FastAPI项目的Cookiecutter模板：机器学习，诗歌，Azure管道和pytest.
 - [openapi-python-client](https://github.com/triaxtec/openapi-python-client) -从OpenAPI生成现代的FastAPI Python客户端（通过FastAPI）.
 - [Pywork](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) 生成器以构建FastAPI应用.
@@ -231,6 +233,7 @@ Compute:
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) -使用FastAPI和Celery与RabbitMQ进行任务队列，使用Redis进行Celery后端以及使用Flower监视Celery任务的最小示例.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) -基于FastAPI的JSON-RPC服务器.
 - [Mailer](https://github.com/rclement/mailer) -静态网站的简单死信邮件微服务.
+- [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal)  -在开放政策之上的实时授权更新； 使用FastAPI，Typer和FastAPI WebSocket发布/订阅构建.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)
 - [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) -使用Websockets，Asyncio和FastAPI / Starlette的简单Redis Streams支持的聊天应用程序.

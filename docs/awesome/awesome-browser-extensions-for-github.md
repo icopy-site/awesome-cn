@@ -25,7 +25,7 @@
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
 
-Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
+在GitHub上收到新通知时显示通知，并提供对弹出式窗口中所有通知的快速访问.
 
 安装次数：208 | 星级：51 | 最近更新：2021年1月21日
 
@@ -35,7 +35,7 @@ Shows notifications when you get a new notification on GitHub and provides quick
 安装次数：14 | 星级：3 | 最后更新：2020年7月7日
 
 
-GitHub的下一级代码导航.
+Next level code navigation for GitHub.
 
 安装数量：119 | 星级：17 | 最近更新：2021年3月25日
 
@@ -73,6 +73,11 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 简单而谨慎的扩展，增强了GitHub的搜索功能，使您可以比以往更快地搜索存储库和人员.
 
 安装次数：10000 | 星级：1019 | 最后更新：2018年2月22日
+
+
+ GitHub提供的页面仅在拉取请求的URL末尾显示带有.diff的差异. 此浏览器扩展程序通过在该页面上使用daff可以更轻松地查看csv差异.
+
+安装次数：n / a | 星级：n / a | 最近更新：不适用
 
 
 代码折叠-有选择地隐藏和显示代码部分的功能-在许多文本编辑器和IDE中都是无价的功能. 现在，开发人员可以在GitHub上的Web上遍历源代码的同时利用相同样式的代码折叠. 适用于任何类型的缩进空格或制表符.
@@ -200,7 +205,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 安装次数：6000 | 星级：905 | 最近更新：2018年12月25日
 
 
-在不同类别中过滤您的拉取请求/问题，可大大提高您的生产率. 还建议使用新的趋势存储库.
+将您的拉取请求/问题过滤到不同的类别中，从而极大地提高了生产力. 还建议使用新的趋势存储库.
 
 安装次数：67 | 星数：83 | 最近更新：2020年3月5日
 
@@ -222,7 +227,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 安装数量：332968 | 星级：21154 | 最近更新：2021年3月30日
 
 
-将GitHub的UI恢复为经典外观（在2020年6月23日更新之前具有平坦，圆形和更多空白的设计）.
+将GitHub的用户界面恢复为经典外观（在2020年6月23日更新之前具有平坦，圆形和更多空白的设计）.
 
 安装次数：n / a | 星级：n / a | 最近更新：不适用
 

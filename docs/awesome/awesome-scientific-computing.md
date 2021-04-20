@@ -39,7 +39,7 @@ them.
 - [PETSc](https://www.mcs.anl.gov/petsc/) -由PDE建模的科学应用的并行解决方案.
   （C，2句BSD， [GitLab](https://gitlab.com/petsc/petsc))
 - [DUNE Numerics](https://www.dune-project.org) -使用基于网格的方法解决PDE的工具箱.
-  （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
+  (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) -统计，优化，积分，线性代数等的Python模块
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) -使用Python进行科学计算所需的基本软件包.
@@ -191,7 +191,7 @@ them.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.
   （C / MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
-- [preCICE](https://www.precice.org/) -用于分区多物理场仿真（FSI，CHT等）的耦合库.
+- [preCICE](https://precice.org/) -用于分区多物理场仿真（FSI，CHT等）的耦合库.
   （C ++，LGPL 3， [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) -有效地计算正交多项式.
   （Python，GPL 3，GitHub）
@@ -199,6 +199,8 @@ them.
   （Python，Apache 2.0， [GitHub](https://github.com/dswah/pyGAM))
 - [Dedalus](https://dedalus-project.org/) -用频谱方法求解偏微分方程.
   （Python，GPL 3， [GitHub](https://github.com/DedalusProject/dedalus))
+- [PyGMO](https://esa.github.io/pygmo/) -大规模并行优化.
+  （Python / C ++，MPL 2， [GitHub](https://github.com/esa/pygmo2))
 
 ## Community
 

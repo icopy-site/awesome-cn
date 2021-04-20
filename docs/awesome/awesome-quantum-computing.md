@@ -29,6 +29,7 @@
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) -Jupyter笔记本仅演示了如何使用Qiskit.
 - [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) -使用qiskit对20种不同的量子算法进行简要调查.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) -量子算法的完整目录. 
+- [Quantum Algorithms](https://quantumalgorithms.org/) -关于量子算法的开源讲座笔记，重点是机器学习和数据分析.
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) -向没有量子力学背景的人讲授斯坦福课程，教授量子计算.
 - [Quantum Computing Foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/) -Microsoft学习涵盖Azure量子和量子计算元素的学习路径.
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) -3D量子态可视化工具，能够模拟多达22个量子位.
@@ -38,7 +39,7 @@
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) -四个量子位光子量子模拟器和计算机.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) -量子机器学习算法的解释.
-- [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
+- [Quirk](http://algassert.com/quirk) -基于浏览器的拖放式量子电路模拟器，可实时反应，模拟和设置动画.
 - [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit)  -非常易于访问的面向计算/编程的教程. 它从矩阵的基础一直到grover的算法. 也有随附的视频介绍了这些教程.
 - [The Quantum Quest](https://www.quantum-quest.nl/) -针对高中生设计的有关量子计算原理的入门网络课程.
 
@@ -147,11 +148,11 @@
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) -用于Qiskit和量子计算讨论的Slack Channel.
 - [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) -讨论《量子计算和量子信息》一书. 
 - [Pennylane Discussion Forum](https://discuss.pennylane.ai/) -使用模拟和短期硬件的量子机器学习论坛.
-- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) -讨论量子计算的宽松渠道.
+- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) -用于量子计算的问答站点.
 - [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) -讨论许多量子计算主题的社区.
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) -关于矩阵的量子编程聊天，与语言无关，不需要专业知识.
-- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
+- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) -用于量子研究讨论的Facebook小组.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
 - [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) -用于Rigetti和量子计算讨论的Slack Channel.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) -Xanadu和Strawberry Fields光子/ CV量子计算讨论的松弛通道.

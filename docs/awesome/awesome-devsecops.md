@@ -46,7 +46,7 @@
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) -_CERT_-用于C，C ++，Java和Android开发的安全开发标准的集合.
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) -_OWASP_-OWASP列出应在每个软件开发项目中实施的十大控件.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) -_Mozilla_-包含用于安全Web应用程序开发的特定安全开发标准的指南.
-- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) -_OWASP_-核对清单，以验证是否遵循了安全的开发标准.
+- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - A checklist to verify that secure development standards have been followed.
 
 ### Secure Development Lifecycle Framework
 
@@ -65,11 +65,13 @@
 - [Cybrary](https://www.cybrary.it/) -_Cybrary_-基于订阅的在线课程，其中包含网络安全和DevSecOps的专用类别.
 - [PentesterLab](https://pentesterlab.com/) -_PentesterLab_-动手练习以了解和利用简单和高级的Web漏洞.
 - [Practical DevSecOps](https://www.practical-devsecops.com) -_实用DevSecOps_-使用基于浏览器的先进实验室，向具有实际DevSecOps的行业专家学习DevSecOps的概念，工具和技术.
+- [SafeStack](https://academy.safestack.io/) -_SafeStack_-针对软件开发团队的安全培训，旨在供个人和小型团队以及大型组织使用.
 - [Secure Code Warrior](https://www.securecodewarrior.com/) -_安全代码战士_-游戏化和动手的安全开发培训，并支持课程，评估和锦标赛.
 - [SecureFlag](https://www.secureflag.com/platform.html) -_OWASP_-针对开发人员和构建/发布工程师的动手安全编码培训.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为软件工程师提供安全培训.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) -_Pager Duty_-由PagerDuty创建并开源的演示文稿，用于为员工提供安全培训.
 - [Web Security Academy](https://portswigger.net/web-security) -_PortSwigger_-用于学习和利用常见Web漏洞的一组材料和实验室.
+- [WeHackPuple](https://wehackpurple.com/) -_WeHackPurple_-在线课程，教授应用程序安全性理论和动手技术课程.
 
 ### Wikis
 
@@ -92,7 +94,7 @@
 
 ### Dynamic Analysis
 
-Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
+动态分析安全测试（DAST）是黑盒安全测试的一种形式，其中安全扫描程序与正在运行的应用程序实例进行交互，以模拟恶意活动以查找常见漏洞.  DAST工具通常用于渗透测试的初始阶段，并且可以发现诸如跨站点脚本，SQL注入，跨站点请求伪造和信息泄露之类的漏洞.
 
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全性扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) -_PortSwigger_-BurpSuite的Web应用程序漏洞扫描程序已由渗透测试人员广泛使用，并通过CI / CD集成进行了修改，并可以持续监控多个Web应用程序.
@@ -124,7 +126,7 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 <!-- omit in toc -->
 #### Terraform
 - [Regula](https://github.com/fugue/regula) -_Fugue_-在部署之前，评估Terraform基础架构代码是否存在潜在的安全错误配置和合规性违规.
-- [Terraform Compliance](https://terraform-compliance.com/) -_terraform-compliance_-针对terraform的轻量级，安全性和合规性测试框架，可为您的基础结构代码启用否定测试功能.
+- [Terraform Compliance](https://terraform-compliance.com/) -_terraform-compliance_-针对terraform的轻型，安全性和合规性测试框架，可为您的基础结构代码启用否定测试功能.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) -_Cesar Rodriguez_-扫描Terraform模板以获得最佳实践安全配置.
 - [Tfsec](https://github.com/liamg/tfsec) -_Liam Galvin_-扫描Terraform模板以了解安全性配置错误以及是否违反AWS，Azure和GCP安全性最佳做法.
 
@@ -146,7 +148,7 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
-仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全缺陷. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
+仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全漏洞. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
 
 - [Csper](https://csper.io/report-uri) -_Csper_-一组内容安全策略工具，可以测试策略，监视CSP报告以及提供指标和警报.
 

@@ -101,6 +101,7 @@
 -  [Downwind CSS Easings](https://github.com/downwindcss/easings) -扩展了“转换时机功能”实用程序.
 -  [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) -添加了用于内容占位符图像的实用程序.
 -  [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) -暴露“无滚动条”以可视地隐藏滚动条.
+-  [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) -添加强调色实用程序.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
@@ -112,7 +113,7 @@
 -  [Marker](https://github.com/RadishIO/tailwindcss-marker)  -提供用于样式列表和`的实用程序<summary> `标记.
 -  [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) -添加默认情况下Tailwind CSS没有的伪类和伪元素的变体.
 -  [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
--  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 成分.
+-  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 -  [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) -添加了“响应嵌入”组件.
 -  [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) -根据Bootstrap的表添加表组件.
 -  [Card](https://github.com/NathanHeffley/tailwindcss-card) -添加卡组件.
@@ -215,14 +216,14 @@
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
--  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
+- 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的付费，对开发人员友好的模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的现成可使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
 -  [Meraki UI Components](https://merakiui.com) -美丽的Tailwind CSS组件，支持RTL语言.
--  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) -越来越多的文本/图像卡集合.
+-  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 -  [Tailwind Templates](https://www.tailwindtemplates.io) -模板和组件的集合.
 -  [Treact](https://treact.owaiskhan.me) -使用Tailwind CSS构建的React UI模板和组件.
 -  [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) -使用Tailwind CSS的管理模板.
@@ -238,7 +239,7 @@
 -  [Windstrap](https://windstrap.netlify.app) -带Bootstrap JS的Tailwind CSS.
 -  [WickedBlocks](https://blocks.wickedtemplates.com/) -收集了超过120个使用Tailwind CSS构建的布局块和组件.
 -  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.
--  [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
+-  [Kometa UI Kit](https://kitwind.io/products/kometa/components) -使用Tailwind CSS构建的免费多功能UI套件.
 -  [Mamba UI](https://mambaui.com) -免费的Tailwind CSS组件，部分和模板.
 -  [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) -Vue.js和Tailwind CSS的日期范围选择器组件.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
@@ -249,9 +250,9 @@
 -  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) -使用React＆Tailwind CSS构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) -使用Vue 3和Tailwind CSS构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) -使用Nuxt.js和Tailwind CSS构建的免费目标网页模板.
--  [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
--  [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
--  [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
+- 📚 [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
+- 📚 [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
+- 📚 [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
 
 ## Starters & Themes
 
@@ -272,7 +273,7 @@
 -  [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) -使用Tailwind CSS和TypeScript的Gatsby启动程序.
 -  [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的盖茨比初学者.
 -  [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) -使用Tailwind CSS和自以为是的东西的盖茨比初学者.
--  [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) -使用Tailwind CSS的CRA样板.
+-  [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
 -  [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) -使用CSS Nano的CRA样板.
 -  [Dogpatch](https://github.com/jack-pallot/dogpatch) -使用Webpack，Vue，Babel和Tailwind CSS的WordPress入门工具.
 -  [Next.js Starter](https://github.com/oddstronaut/tailwind-next) -使用Tailwind CSS的Next.js样板.
@@ -300,6 +301,7 @@
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) -英雄联盟玩家的统计网站.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) -使用Svelte＆Tailwind CSS的电子商务店面.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) -使用Vue + Moltin + Tailwind CSS的书店.
+- [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) -使用React.js + Tailwind CSS的Ubuntu桌面.
 
 ## Learning
 
@@ -308,7 +310,7 @@
 -  [Plugin Examples](https://github.com/tailwindlabs/tailwindcss-plugin-examples) -官方插件示例.
 -  [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) -使用CSS自定义属性和Tailwind CSS切换主题.
 -  [Acquia](https://github.com/opdavies/rebuilding-acquia) -使用Vue.js和Tailwind CSS重建了Acquia的托管仪表板.
--  [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - Navbar made with Vue.js and Tailwind CSS.
+-  [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) -使用Vue.js和Tailwind CSS制作的Navbar.
 -  [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) -使用Tailwind CSS进行切换.
 -  [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) -由Cruip使用Tailwind CSS Boilerplate构建的“打开”着陆页模板.
 -  [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) -如何使用Jest测试Tailwind CSS插件.
@@ -339,7 +341,7 @@
 -  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
 -  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中构建Vue.js组件.
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
--  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
+-  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
 -  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
