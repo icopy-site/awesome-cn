@@ -466,19 +466,16 @@
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关core.async，传感器，瞬变，逻辑编程和“每日功能”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关core.async，传感器，瞬变，逻辑编程和“每日功能”系列的更高级的视频.
 
 ## Websites
 
   * [Clojure](http://clojure.org/)
   * [Clojure Slack](http://clojurians.net/)
   * [clojuredocs](http://clojuredocs.org)
-  * [crossclj](https://crossclj.info/)
   * [clojure-doc](http://clojure-doc.org/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
-  * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
-  * [Try Clojure](http://www.tryclj.com/)
 
 ## Twitter
 

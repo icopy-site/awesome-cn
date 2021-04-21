@@ -46,7 +46,7 @@
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) -_CERT_-用于C，C ++，Java和Android开发的安全开发标准的集合.
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) -_OWASP_-OWASP列出应在每个软件开发项目中实施的十大控件.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) -_Mozilla_-包含用于安全Web应用程序开发的特定安全开发标准的指南.
-- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - A checklist to verify that secure development standards have been followed.
+- [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) -_OWASP_-核对清单，以验证是否遵循了安全的开发标准.
 
 ### Secure Development Lifecycle Framework
 
@@ -144,7 +144,7 @@
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) -_Ryan Dewhurst_-一个Web应用程序，它提供了一个安全的环境来理解和利用常见的Web漏洞.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) -_OWASP_-包含OWASP十大安全漏洞及更多内容的Web应用程序.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) -_OWASP_-一个Node.js Web应用程序，用于演示并提供解决常见安全漏洞的方法.
-- [Terragoat](https://github.com/bridgecrewio/terragoat)  -_Bridgecrew_-Terraform模板，用于在AWS，Azure和GCP中创建故意不安全的服务堆栈. 非常适合作为上述代码分析工具来测试Terraform基础结构.
+- [Terragoat](https://github.com/bridgecrewio/terragoat) - _Bridgecrew_ - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
@@ -157,7 +157,8 @@
 我们编写的软件需要使用机密信息（密码，API密钥，证书，数据库连接字符串）来访问资源，但是我们无法在代码库中存储机密信息，因为这会使他们容易受到攻击. 机密管理工具提供了一种安全地存储，访问和管理机密的方法.
 
 - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) -_Ansible_-将机密安全存储在Ansible管道中.
-- [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) -_Amazon AWS_-在AWS中安全存储机密.
+- [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) -_Amazon AWS_-在AWS中创建和管理加密密钥.
+- [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) -_Amazon AWS_-将可检索的应用程序密钥安全存储在AWS中.
 - [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/) -_Microsoft Azure_-将机密安全存储在Azure中.
 - [BlackBox](https://github.com/StackExchange/blackbox) -_StackExchange_-加密代码存储库中的凭据.
 - [Chef Vault](https://github.com/chef/chef-vault) -_厨师_-在厨师内部安全存储机密.

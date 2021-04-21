@@ -225,7 +225,8 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
   - [GBDK-2020](https://github.com/Zal0/gbdk-2020/)  -具有更新的SDCC工具链（支持ROM库），错误修复，文档和其他改进的现代化GBDK. 支持Windows，Linux和macOS.
   - [gbdk-osx](https://github.com/x43x61x69/gbdk-osx) -为macOS上的最新编译器修补了GBDK 2.96a.
   - [gbdk-n](https://github.com/rotmoset/gbdk-n)  -旨在更新gbdk库以使其与新版本的SDCC兼容，并为构建rom提供帮助. 不支持ROM库，因此将ROM大小限制为32K.
-  
+- [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) -完整的套件（IDE，编译器，编程语言，资源编辑器），用于为8/16位系列的计算机（包括Game Boy和Game Boy Color）开发游戏/演示.
+
 #### Experimental/Proof of Concepts
 
 - [RGBDS-Live](https://daid.github.io/rgbds-live/) -浏览器内编码环境，可试用RGBDS.
@@ -268,7 +269,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) -用于检查和修改ROM​​标头数据（包括徽标）的在线工具.
 - [romusage](https://github.com/bbbbbr/romusage)  -命令行工具，用于从.map，.noi或ihx文件估计Game Boy ROM的使用（可用空间）. 与GBDK-2020和RGBDS一起使用.
 - [awake](https://github.com/devdri/awake) -Game Boy反编译器.
-- [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) -用Node.js编写的用于文本操作和Game Boy ROM的翻译的工具集.
+- [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) -用Node.js编写的用于文本操作和Game Boy ROM的翻译工具集.
 
 #### Graphics utilities
 
@@ -384,7 +385,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -为Game Boy制作的每一种非官方的自制软件都可以在线玩（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示程序，补丁程序，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) -为Game Boy制作的每一种非官方的自制软件都可以在线玩（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的所有非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 
 ### ASM
 
@@ -516,7 +517,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Ostrich](https://github.com/PumpMagic/ostrich) -用Swift编写的Game Boy音响系统玩家.
 - [mGB](https://github.com/trash80/mGB) -Game Boy盒带程序，使Game Boy可以充当受MIDI支持的完整声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) -演示使用两个未公开记录的Game Boy Color寄存器，分别称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
-- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) -基于Arduino的Game Boy墨盒读写器.
+- [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) -基于Arduino的Game Boy弹药筒读取器和写入器.
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -Brainf * ck口译员.
 - [gbfk](https://github.com/elseyf/gbfk) -Brainf * ck解释器，带有输入.
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) -修补程序，用于在原始硬件上播放时为Game Boy游戏添加保存状态支持.
@@ -529,7 +530,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) -它是什么以及如何使用它制作作弊代码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) -绕过Nintendo徽标检查.
  -在2017年制作Game Boy游戏：“ Sheep It！” 事后[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
-- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然有些公司设法利用了支票系统.
+- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是很显然，有些公司设法利用了支票系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) -用于与LSDj保存格式（.sav），歌曲文件（.lsdsng）等交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) -用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) -使用STAT中断进行有趣的视频操作的一些小实验.

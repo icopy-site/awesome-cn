@@ -186,7 +186,7 @@ them.
 - [pyMOR](https://pymor.org/) -使用Python减少模型订单.
   （Python，2句BSD， [GitHub](https://github.com/pymor/pymor/))
 - [cvxpy](https://www.cvxpy.org/) -凸优化问题的建模语言.
-  （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
+  （Python，Apache 2.0， [GitHub](https://github.com/cvxpy/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) -Python中的小波变换.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.

@@ -74,7 +74,7 @@
 
 #### Svelte
 
-- [Svelte News Weekly](https://svelte.news/weekly) . 为Svelte爱好者精心策划的新闻通讯，每周精选新闻.
+- [Svelte News Weekly](https://svelte.news/weekly) . 精挑细选的Svelte爱好者通讯，每周精选新闻.
 
 ### Data Visualization
 
@@ -271,7 +271,7 @@
 
 ### Vim
 
-- [Vim Weekly](http://www.vimweekly.com/) . 每周一，我们都会发送5条提示，这些信息可以帮助您提高vim的生产力，您可以将其视为每天的一条提示！
+- [Vim Weekly](http://www.vimweekly.com/) . 每周一，我们都会发送5条提示，帮助您提高vim的工作效率，您可以将其视为每天的提示！
 - [Mastering Vim Quickly](https://masteringvim.com/) . 最好的Vim资料，每周一次.
 
 ## Databases
@@ -334,7 +334,7 @@
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
-- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/) . 免费的每周新闻通讯，精选与数据科学相关的新闻，文章和工作.
+- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/) . 免费每周新闻通讯，精选与数据科学相关的新闻，文章和工作.
 - [Data Eng Weekly](https://dataengweekly.com) . 您的每周数据工程新闻（以前是Hadoop每周新闻）. [Archive](https://dataengweekly.com/archive.html).
 - [Data Elixir](https://dataelixir.com/) . 每周一期的新闻通讯，介绍来自网络的最佳数据科学新闻和资源. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
@@ -349,7 +349,7 @@
 
 - [Inside Bitcoin](https://inside.com/bitcoin) . 跟踪有关比特币和加密货币的趋势，新闻和分析.
 - [Crypto Weekly](https://cryptoweekly.co/) . 每周都会向您的收件箱发送最佳的加密货币新闻和见解.
-- [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 无需牛市的区块链技术-每周进行一次的区块链现实研究，对技术的偏向很高.
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 无需牛市的区块链技术-每周进行一次区块链现实研究，对技术的偏向很高.
 
 ## Technology in General
 
@@ -406,8 +406,8 @@
 - [Changelog Nightly](https://changelog.com/nightly) . 每天晚上10点（美国东部时间）的一封电子邮件，在GitHub上发布了最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和Web应用程序的目录.
-- [lkml.wtf](https://lkml.wtf/) . 每周一次的Linux Kernel Mailing List线程综述，但讽刺得多.
-- [Kleroteria](https://www.kleroteria.org) . 一个免费的，独特的“彩票”新闻通讯，其中选择了一个订阅者，并将其电子邮件提交发送给所有其他订阅者. 主题在主题和质量上都有所不同.
+- [lkml.wtf](https://lkml.wtf/) . 每周一次的Linux Kernel Mailing List线程综述，但更多的是讽刺.
+- [Kleroteria](https://www.kleroteria.org) . 一个免费的，独特的“彩票”通讯，在其中选择一个订阅者，并将其电子邮件提交发送给所有其他订阅者. 主题在主题和质量上都有所不同.
 - [tl;dr Marketing](https://tldrmarketing.com/) . 面向数字营销者的每周新闻，涵盖有关SEO，PPC和社交媒体的新闻.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业策划知识，灵感和背景故事. 每个星期一和星期四都发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自Reddit上最佳帖子的技术爱好者硬件和软件新闻.
@@ -415,6 +415,7 @@
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity是面向技术专业人员（程序员，开发人员，设计师等）的每周简讯. 每个问题都包括与生产力相关的工具，文章和其他资源的简短列表，这些工具可以帮助各个与技术相关领域的工作者提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周新闻通讯重点关注最新的移动，Web，AI，UI / UX，作业/载具以及与开发人员和行业相关的任何内容.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周的电子邮件，展示GitHub上的热门项目.
+- [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在Softwaretalks通讯中，我们每个星期四发送有关软件工程的文章.  （对于波斯用户）.
 
 ## License
 

@@ -6,7 +6,7 @@
 
 [![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
 
-&gt;精选的MongoDB资源，库，工具和应用程序精选清单
+> A curated list of awesome MongoDB resources, libraries, tools and applications
 
 受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 随时通过以下方式改进此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
@@ -129,6 +129,7 @@
  - [yadm](https://github.com/formapro/yadm) -快速的无模式ODM
 
 ### Python
+ - [Beanie](https://github.com/roman-right/beanie) -基于的异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，支持开箱即用的迁移
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) -Flask扩展，为Flask添加了PyMongo支持
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) -惯用且友好但功能强大的ODM（无模式）
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) -在PyMongo之上的ODM
@@ -178,7 +179,7 @@ Services:
  - [mongo-connector](https://github.com/yougov/mongo-connector) -流复制到Elasticsearch，Solr或MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) -PostgreSQL外部数据包装器
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) -Hadoop连接器
- - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+ - [Mongolastic](https://github.com/ozlerhakan/mongolastic) -从MongoDB到Elasticsearch的迁移工具（反之亦然）
  - [MongoMultiMaster](https://github.com/rick446/mmm) -多原版复制
 
 ### Deployment

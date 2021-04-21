@@ -63,6 +63,7 @@
 - [Typesync](https://typesync.rutrum.net)  -测试歌曲歌词的打字速度. 用途 [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs)， 和 [`Diesel`](https://diesel.rs).
 - [CalcuPi](https://divykj.github.io/CalcuPi) -漂亮的蒙特卡洛模拟，用于近似pi的值.
 - [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) -纸牌游戏《情书》的知识追踪器.
+- [Whatlang.org](https://whatlang.org/) -whatlang（语言识别库）的交互式演示.
 
 ## Libraries
 

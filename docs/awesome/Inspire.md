@@ -3,17 +3,17 @@
 Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 
-在任何Web项目中设计和构建现代前端都是一个漫长而艰巨的过程. 以下是可以帮助您的链接集合. 请享用！
+在任何Web项目中设计和构建现代前端都是一个漫长而艰巨的过程. 这是一系列可以帮助您的链接. 享受！
 
 ## Concept
-<h5>这些站点很好地了解了可能采用的布局和样式路径.</h5>
+<h5>通过这些站点可以很好地了解可能采用的布局和样式路径.</h5>
 
-* [TheBestDesigns](https://www.thebestdesigns.com/) -网上精选站点的一般列表.
+* [TheBestDesigns](https://www.thebestdesigns.com/) -来自网络的精选站点的常规列表.
 * [Awwwards](http://www.awwwards.com/) -各种风格的真棒网站.
 * [Dribbble](https://dribbble.com/) -来自一群才华横溢的人的图标，涂鸦，网站等等的快照.
 * [Siiimple](https://siiimple.com/) -另一个网站列表，但简单得多.
 * [Httpster](http://httpster.net/) -精选的Internet上最佳站点列表.
-* [SaaS Pages](https://saaspages.xyz) -对Netlify页面的检查特别是为您带来灵感.
+* [SaaS Pages](https://saaspages.xyz) -专门检查Netlify的页面，以带给您启发.
 * [siteInspire](http://www.siteinspire.com/) - 获得灵感.
 * [Designer News](https://www.designernews.co/) -来自“网络”的最佳设计/开发链接.
 * [CSS Winner](http://www.csswinner.com/) -审查了很棒的网站列表.
@@ -26,7 +26,7 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 ## Creation
 <h5>这些站点非常适合为该站点构建基本框架.</h5>
 
-*颜色
+* 颜色
   * [ColorsWall](https://colorswall.com/) -存放调色板的地方.
   * [Coolors](https://coolors.co/) -超级快速的配色方案生成器.
   * [Kuler](https://color.adobe.com/) -轻松为您的网站创建或查看自定义色样.
@@ -37,8 +37,8 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 * [Bootstrap](http://getbootstrap.com) -用于构建现代网站和Web应用程序的非常流行的框架.
   * [Bootswatch](http://bootswatch.com) -Bootstrap的免费主题列表.
 * [iconscout.com](https://iconscout.com) -在一个地方获取高质量的图标，插图和股票照片.
-* [Iconmonstr](http://iconmonstr.com) -免费，简单的图标集合.
-* [Ionicons](http://ionicons.com) -大量免费图标.
+* [Iconmonstr](http://iconmonstr.com) -一组免费，简单的图标.
+* [Ionicons](http://ionicons.com) -另一个免费图标的大集合.
 * [Subtle Patterns](http://subtlepatterns.com) -为您的项目提供大量免费背景的档案.
 * [Google Fonts](https://www.google.com/fonts) -大量免费，易于使用的网络字体.
 * [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20) -在您的源代码中添加一些性感的复活节彩蛋.
@@ -51,10 +51,10 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
   * [AllTheFreeStock](http://allthefreestock.com/) -所有免费库存图片，视频，声音和图标都集中在一个位置.
   * [TheStocks.im](http://thestocks.im) -很棒的图片网站的集合.
   * [Unsplash](https://unsplash.com) -免费的高品质库存图片.
-* [MinWiz](https://minwiz.com/) -用于最小，可行，美观，可投入生产的网站的入门套件.
+* [MinWiz](https://minwiz.com/) -入门套件，可用于最少，可行，美观，可投入生产的网站.
 
 ## Tools
-<h5>每个画家都需要一支刷子. 好吧...大多数.</h5>
+<h5>每个画家都需要一支刷子. 好吧...大多数都可以.</h5>
 
 * [Sublime Text](https://www.sublimetext.com) -一个非常受开发人员欢迎的文本编辑器.
   *主题
@@ -66,8 +66,9 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 * [Hyper](https://hyper.is) -美观，可扩展的命令行界面
 * [FileZilla](https://filezilla-project.org) -对于那些在终端中担心FTP的人.
 * [WinSCP](http://winscp.net) -将文件上传到MEAN堆栈或VPS服务器.
-* [Sketch](http://www.sketchapp.com/) [仅限OS X]-专业的矢量图形应用程序.
+* [Sketch](http://www.sketchapp.com/) [仅适用于OS X]-专业的矢量图形应用程序.
 * [Taskade](https://www.taskade.com/) [仅适用于OS X]-创建漂亮的任务列表和轮廓.
+* [DevSession](https://devsession.js.org/) -从本地目录打开协作式在线IDE.
 
 ## Collaborate
 <h5>与团队合作？ 这些链接适合您.</h5>
@@ -76,7 +77,7 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 * [Gist](https://gist.github.com)  -与他人快速共享代码和文本. 就像一个小型存储库.
 * [Scratchpad](http://scratchpad.io) -一个简单的RTC工具，用于对网站进行编码和预览.
 * [Red Pen](https://redpen.io) -分享您的设计并无缝获得反馈.
-* [Invoice Ninja](https://www.invoiceninja.com) -开源发票平台.
+* [Invoice Ninja](https://www.invoiceninja.com) -开源进销存平台.
 
 ## Backends
 <h5>每个出色的Web应用程序都需要一个出色的后端.</h5>
@@ -88,26 +89,26 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 * [Hasura](https://hasura.io) -快速构建和部署应用程序后端的平台.
 
 ## Testing
-<h5>在您启动之前，这些都是确保您的网站准备就绪成为明星的好工具.</h5>
+<h5>在您启动之前，这些都是确保您的网站准备就绪以成为明星的好工具.</h5>
 
-* [Checkbot](https://www.checkbot.io) -用于测试您的网站的浏览器扩展程序遵循50多个SEO，速度和安全性最佳做法.
+* [Checkbot](https://www.checkbot.io) -用于测试您的网站的浏览器扩展程序遵循50多种SEO，速度和安全性最佳做法.
 * [Placehold](http://placehold.it) -生成任意大小的自定义占位符图像.
 * [Browserling](https://www.browserling.com/) -跨浏览器测试您的网站.
 * [CodePen](http://codepen.io) -浏览器中的免费Web编辑器.
 * [WooRank](https://www.woorank.com/)  -SEO元素，W3验证和许多其他变量的审查工具. 免费的基本服务.
 * [Yslow](http://yslow.org) -用于分析和查找导致网站加载速度缓慢的多种原因的修复程序的工具.
 * [Hurl.it](https://www.hurl.it/) -在浏览器中发出HTTP请求.
-* [Localtunnel](http://localtunnel.me) -打开本地主机端口.
+* [Localtunnel](http://localtunnel.me) -向世界打开本地主机端口.
 * [Postman](https://www.getpostman.com/) -发出HTTP请求，生成模拟服务器和制作API文档的工具.
 
 ## Good Reads
-<h5>需要在业余时间阅读一些东西吗？</h5>
+<h5>需要在闲暇时阅读的东西吗？</h5>
 
 * [Smashing Magazine](http://www.smashingmagazine.com) -一本有关数字设计的杂志.
 * [CSS-Tricks](https://css-tricks.com/) -很棒的博客，介绍与CSS相关的所有内容.
 * [Codrops](http://tympanus.net/codrops/) -为现代Web开发人员和设计师提供了大量的设计技术.
 * [Insert HTML](http://www.inserthtml.com) -博客，介绍了针对Web开发人员的当前和即将到来的技术.
-* [1stWebDesign](http://www.1stwebdesigner.com/blog/) -有关Web开发和设计的简单博客.
+* [1stWebDesign](http://www.1stwebdesigner.com/blog/) -一个关于Web开发和设计的简单博客.
 * [A List Apart](http://alistapart.com) -客座博客和有关从编码到业务实践的主题的全书.
 * [GoodUI](http://goodui.org) -绝对不错.
 * [Mentor](http://www.mentor.so/) -从其他设计师和开发人员那里获得随机建议.
