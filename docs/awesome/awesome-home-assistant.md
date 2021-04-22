@@ -108,7 +108,7 @@ _由家庭助理团队创建和维护.
 
 - [DuckDNS](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) -使用“加密”更新您的Duck DNS IP地址并生成SSL.
 - [File editor](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) -基于浏览器的配置文件编辑器.
-- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) - Fast and reliable MQTT broker.
+- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) -快速可靠的MQTT经纪人.
 - [Terminal & SSH](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) -允许使用Web终端或SSH客户端远程登录.
 - [Samba](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) -使用Windows网络共享访问您的配置文件.
 - [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) -具有SSL终止的反向代理.
@@ -147,7 +147,7 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 - [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) -创建包含实时代码，方程式，可视化和说明文字的文档.
 - [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) -将快照备份到Google云端硬盘.
 - [ADB](https://github.com/hassio-addons/addon-adb) -Android调试桥服务器程序.
-- [Glances](https://github.com/hassio-addons/addon-glances) -用Python编写的跨平台系统监视工具.
+- [Glances](https://github.com/hassio-addons/addon-glances) - A cross-platform system monitoring tool written in Python.
 - [Matrix](https://github.com/hassio-addons/addon-matrix) -安全，分散的通讯平台.
 - [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) -具有家长控制的全网络广告和跟踪器阻止DNS服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) -Traccar是现代的GPS跟踪平台.
@@ -178,7 +178,7 @@ _这与外观有关，请应用一些样式._
 - [Halloween](https://community.home-assistant.io/t/halloween-theme/30872?u=frenck) -Mahasri Kalavala上色的南瓜.
 - [Black and Green](https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck) -GreenTurtwig的深色主题配淡绿色调.
 - [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) -以Anup Surendran的主题为您的前端增添复古气息.
-- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -轻巧的碳纤维主题，搭配Reua的绿色配饰.
+- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -轻巧的碳纤维主题，搭配Reua的绿色调.
 - [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) -JuanMTech制作的20个主题（包括指南）.
 - [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) -方便的ZIP文件中的13个主题.
 - [Slate](https://github.com/seangreen2/slate_theme) -接近香草的深色主题来自seangreen2.
@@ -212,7 +212,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) -小米吸尘器（及其他）的详细卡片.
 - [Simple Weather Card](https://github.com/kalkih/simple-weather-card) -简约的气象卡，灵感来自Google Material Design.
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
-- [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状态.
+- [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
 - [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添趣味.
 - [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -显示以下服务中即将发布的剧集和电影：Plex，Kodi，Radarr，Sonarr和Trakt.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
@@ -224,6 +224,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [RGB Light Card](https://github.com/bokub/rgb-light-card) -彩色按钮可控制RGB灯.
 - [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) -LG TV WebOS的远程控制.
 - [Restriction Card](https://github.com/iantrich/restriction-card) -提供对其中定义的Lovelace卡的限制的卡.
+- [Vacuum Card](https://github.com/denysdovhan/vacuum-card) —用于控制吸尘器机器人的卡到卡.
 
 ### Alternative Dashboards
 
@@ -286,7 +287,7 @@ _指向Home Assistant的各种用户的链接，这些用户定期发布以Home 
 
 ### Blogs
 
-- [DIY Futurism](https://diyfuturism.com/) - Brad posts articles with great instructions for new users.
+- [DIY Futurism](https://diyfuturism.com/) -布拉德（Brad）为新用户发布了很好的说明文章.
 - [Phil Hawthorne](https://philhawthorne.com/homeautomation) -家庭助理播客的共同主持人.
 - [Smart Home Hobby](https://smarthomehobby.com/) -提供预算友好的指南和信息.
 - [Self Hosted Home](https://selfhostedhome.com/) -有关DIY家庭自动化项目和自助服务的文章.
@@ -341,7 +342,7 @@ _有价值的链接，不属于以上任何类别（至今！）._
 - [rhasspy](https://github.com/rhasspy/rhasspy) -用于开发自定义语音助手的工具包.
 - [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) -高度可配置的Android Kiosk浏览器和应用启动器.
 - [Hassio Vagrant](https://github.com/hassio-addons/hassio-vagrant) -为开发附加组件而创建的原始游民箱.
-- [AppDaemon](https://github.com/AppDaemon/appdaemon) -AppDaemon是一个松耦合的，多线程的，沙盒化的Python执行环境，用于编写自动化应用程序.
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
 - [Developer Documentation](https://developers.home-assistant.io/) -官方开发人员文档.
 - [HASS Configurator](https://github.com/danielperna84/hass-configurator) -基于浏览器的配置文件编辑器.
 - [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) -用于RESTful开关的Node.js服务，以控制Docker容器.

@@ -10,7 +10,7 @@
 
 ## :tipping_hand_woman: About this List
 
-这是关于**很棒资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：heart_eyes：
+这是关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：heart_eyes：
 
  ** Prisma是开源ORM **. 它具有类型安全性，并为TypeScript和Node.js自动生成了查询生成器，从而使数据库访问变得容易.
 
@@ -29,16 +29,29 @@
 
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
-- [@prisma-tools/nexus](https://prisma-tools.ahmedelywa.com/nexus/features)
-- [@prisma-tools/graphql-modules](https://prisma-tools.ahmedelywa.com/graphql-modules)
-- [@prisma-tools/sdl](https://prisma-tools.ahmedelywa.com/sdl)
-- [@prisma-tools/select](https://prisma-tools.ahmedelywa.com/select)
-- [@prisma-tools/delete](https://prisma-tools.ahmedelywa.com/delete)
-- [@prisma-tools/schema](https://prisma-tools.ahmedelywa.com/schema)
-- [@prisma-tools/admin](https://prisma-tools.ahmedelywa.com/admin/generator)
+- [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
+- [CRUD generator for nexus](https://paljs.com/generator/nexus)
+- [CRUD generator for graphql-modules](https://paljs.com/generator/graphql-modules)
+- [CRUD generator for sdl-first approach](https://paljs.com/generator/sdl)
+- [Prisma Select - solution for N + 1 issue](https://paljs.com/plugins/select)
+- [Prisma Delete - workaround missing cascade deletes function in prisma migration](https://paljs.com/plugins/delete)
+- [Prisma schema - convert schema.prisma file to javascript object or from Snake case to Camel case](https://paljs.com/cli/schema)
+- [Prisma admin React component](https://paljs.com/prisma-admin)
 - [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 - [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
 - [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest)
+- [Documentation Generator](https://github.com/pantharshit00/prisma-docs-generator)
+- [Schematics to add Prisma support to a NestJS application](https://github.com/marcjulian/nestjs-prisma)
+- [Prisma Schema SDL](https://github.com/amplication/prisma-schema-dsl)
+- [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
+- [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
+- [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
+
+### :gear: Schema Visualization Tools
+
+- [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd)
+- [prisma-uml](https://github.com/emyann/prisma-uml)
+- [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 
 ## :thinking: How Tos
 
@@ -79,9 +92,11 @@
 
 ## :space_invader: Projects Using Prisma
 
+- [Calendso](https://github.com/calendso/calendso)
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) -使用NestJS和Prisma构建的Restful API的Crud（用途 [NestJSX CRUD](https://github.com/nestjsx/crud))
 
 ## Prisma 1
 
@@ -90,7 +105,7 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一的.
 
 ## License
 

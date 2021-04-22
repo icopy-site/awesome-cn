@@ -27,6 +27,7 @@
 - **[BioJulia](https://github.com/BioJulia)**-Julia编程语言的生物信息学和计算生物学基础设施. [ [web](https://biojulia.net) ]
 - **[Rust-Bio](https://github.com/rust-bio/rust-bio)**-对生物信息学有用的算法和数据结构的Rust实现. [ [paper-2016](http://bioinformatics.oxfordjournals.org/content/early/2015/10/06/bioinformatics.btv573.short?rss=1) ]
 - **[SeqAn](https://github.com/seqan/seqan3)**-用于序列分析的现代C ++库.
+- **[(Poly)merase](https://github.com/TimothyStiles/poly)**-用于工程有机体的Go库和命令行实用程序.
 
 ## Data Tools
 
@@ -186,7 +187,7 @@
 
 ### Genome Browsers / Gene Diagrams
 
-以下工具可用于可视化基因组数据或构建基因组数据的定制可视化，包括来自DNA-Seq，RNA-Seq和ChIP-Seq，变体等的序列数据.
+以下工具可用于可视化基因组数据或构建基因组数据的自定义可视化，包括来自DNA-Seq，RNA-Seq和ChIP-Seq，变体等的序列数据.
 
 - **[Squiggle](https://github.com/Lab41/squiggle)**-易于使用的DNA序列可视化工具，可将FASTA文件转换为基于浏览器的可视化. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30247632) | [web](https://squiggle.readthedocs.io/en/latest/) ]
 - **[biodalliance](https://github.com/dasmoth/dalliance) **-可嵌入的基因组查看器. 来自各种来源的集成数据，并且可以直接从流行的基因组文件格式（包括bigWig，BAM和VCF）加载数据.
@@ -248,7 +249,7 @@
 - [RNA-seqlopedia](http://rnaseq.uoregon.edu/) -RNA-seqlopedia概述了RNA-seq以及进行成功的RNA-seq实验所需的选择.
 - [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) -为RNA序列计算分析提供了绝佳的路线图，包括挑战/障碍和需要注意的事项，以及如何将RNA序列数据与其他数据类型集成在一起.
 - [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39]-Lior Pachter博士分享了著名RNA序列分析软件CuffDiff和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
-- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) -分析所需的RNA-seq生物信息学工具在Wikipedia上的详尽列表，涵盖质量，控制，比对，剪接分析和可视化等分析流程的所有部分.
+- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) -分析所需的RNA-seq生物信息学工具在Wikipedia上的详尽列表，涵盖了质量控制，比对，剪接分析和可视化等分析流程的所有部分.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)进行RNA序列分析时有关各种步骤和注意事项的说明.
 
 ### ChIP-Seq
@@ -257,7 +258,7 @@
 
 ### YouTube Channels and Playlists
 
-- [Current Topics in Genome Analysis 2016](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/) -在NIH上举行的十四次精彩系列讲座，内容涉及基因组学的当前主题，从序列分析到测序技术，甚至还有更多翻译主题，例如基因组医学.
+- [Current Topics in Genome Analysis 2016](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/) -在NIH举行的十四次精彩系列讲座，内容涉及基因组学的当前主题，从序列分析到测序技术，甚至还有更多翻译主题，例如基因组医学.
 - [GenomeTV](https://www.youtube.com/user/GenomeTV) -“ GenomeTV是NHGRI官方视频资源的集合，包括演讲，新闻纪录片，会议的完整视频集，这些视频集涉及基因组研究的研究，问题和临床应用.”
 - [Leading Strand](https://www.youtube.com/user/LeadingStrand)  -冷泉港实验室（CSHL）会议的主题演讲. 更多关于 [The Leading Strand](http://theleadingstrand.cshl.edu/).
 - [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) -“我们的研讨会专门针对GBM的关键交叉领域，深入研究将深刻塑造未来的&#39;出血边缘&#39;技术和方法.”
@@ -266,15 +267,15 @@
 
 ### Blogs
 
-- [ACGT](http://www.acgt.me/) -基思·布拉德南（Keith Bradnam）博士写道：“有关生物学，基因组学以及假生物使用丙烯醛的假冒对人类的持续威胁的思想”.
+- [ACGT](http://www.acgt.me/) -基思·布拉德南（Keith Bradnam）博士写道：“有关生物学，基因组学以及伪造生物信息素的丙烯醛对人类的持续威胁的思想.”
 - [Opiniomics](http://www.opiniomics.org/) -Mick Watson博士撰写有关生物信息学，基因组和生物学的文章.
 - [Bits of DNA](https://liorpachter.wordpress.com/) -Lior Pachter博士撰写了有关计算生物学的评论和评论.
 - [it is NOT junk](http://www.michaeleisen.org/blog/) -迈克尔·艾森（Michael Eisen）博士撰写了“关于基因组，DNA，进化，开放科学，棒球和其他重要事物的博客”
 
 ### Miscellaneous
 
-- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) -精心策划的基因组学论文，以加快了解基因组学，RNA序列，统计（用于基因组学），软件开发等领域.
-- [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) -“本文介绍了数百个免费视频课程的目录，这些课程对那些希望扩展其生物信息学和计算生物学知识的人来说是必不可少的.这些课程分为11个学科领域，以大学部门为蓝本，并附有评论和职业建议. ”
+- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) -精心策划的基因组学论文，以加快掌握基因组学，RNA序列，统计（用于基因组学），软件开发等方面的知识.
+- [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) -“本文介绍了数百个免费视频课程的目录，这些课程对那些希望扩展其生物信息学和计算生物学知识的人来说是必不可少的.这些课程分为11个学科领域，以大学部门为蓝本，并附带评论和职业建议. ”
 - [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) -林肯·斯坦因（Lincoln D. Stein）的轶事，有关Perl编程语言在人类基因组计划中的重要性.
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) -引文链接和关于计算生物学和生物信息学中使用的各种方法的简短教育文章的链接.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) -由Keith Crandall和Claus White策划的工具集合，旨在整理PeerJ中最有趣，创新和相关的生物信息学工具文章.

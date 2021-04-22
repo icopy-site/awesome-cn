@@ -6,7 +6,7 @@
 
 > <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
-> [libGDX](https://libgdx.com/) 是一个用Java编写的相对较低水平，免费，开放源代码的跨平台游戏开发框架.
+> [libGDX](https://libgdx.com/) 是一个相对较低级别的，免费的，开源的，用Java编写的跨平台游戏开发框架.
 >
 &gt;此列表是精选资源的精选集合，这些资源，工具，教程和项目均使用 [libGDX](https://libgdx.com/) 游戏框架，可帮助开发人员制作与_awesome__兼容的游戏 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 >
@@ -98,7 +98,8 @@ _针对新手和经验丰富的开发人员的教程.
 
 ### Getting Started
 
-- [Official libGDX Wiki](https://github.com/libgdx/libgdx/wiki) - Official libGDX wiki that contains a huge amount of information.
+- [Official libGDX Wiki](https://github.com/libgdx/libgdx/wiki) -包含大量信息的官方libGDX Wiki.
+- [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) -对于初学者的优秀指南，介绍如何从头开始创建游戏.
 - [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) -有关从头开始制作完整的Android游戏的视频教程系列.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) -有关创建初始屏幕以在游戏窗口加载之前显示的视频教程.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) -有关使用libGDX制作游戏启动器的视频教程.
@@ -106,11 +107,10 @@ _针对新手和经验丰富的开发人员的教程.
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) -有关使用JSON存储数据的常规教程.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) -通过示例讨论不同进度条设计技术的利弊.
 - [libGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) -官方非官方教程的大清单.
-<!-- - [Tann's Hello libGDX](http://tann.space/HelloLibgdx/)  -对于初学者的优秀指南，介绍如何从头开始创建游戏.  -&gt;
 
 ### Advanced
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) -有关为libGDX项目启用代码热交换以提高生产力的视频教程.
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) -详细介绍了如何使用Pixmaps创建蒙版.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) -使用RoboVM在2019年部署到iOS.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) -像素完美的平滑滚动.

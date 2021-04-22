@@ -257,7 +257,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [aasm.cr](https://github.com/veelenga/aasm.cr) -易于使用的有限状态机用于Crystal类
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) -具有更好JSON :: Any的递归哈希
  * [anyolite](https://github.com/Anyolite/anyolite) -具有简单绑定的完整mruby解释器，允许在项目中轻松编写脚本
- * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Burocracias（例如CPF，CNPJ和CEP）的毫无依赖的碎片
+ * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Croc，CNPJ和CEP等巴西Burocracia的可靠的碎片
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
@@ -296,6 +296,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [OAuth](https://crystal-lang.org/api/OAuth.html) -OAuth使用者（Crystal stdlib）
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) -OAuth2客户端（Crystal stdlib）
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) -绑定到libssl（Crystal stdlib）
+ * [stomp](https://github.com/spider-gazelle/stomp) -STOMP协议
  * [telnet.cr](https://github.com/spider-gazelle/telnet.cr) -Telnet协议
  * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) -复制transfer.sh以上传文件
 

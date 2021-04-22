@@ -23,17 +23,18 @@ Famously...
 
 ## Data Structures and Algorithms
 
+- [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) -暴力实际上几乎总是一种解决方案，但不是一个非常聪明的解决方案.
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) -一种算法，可通过始终选择当前外观最佳的选项而无需过多考虑过去和将来的决策来找到解决方案.
 - [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing)  -从解决方案的丘陵“景观”中的某个地方开始，您将沿着最陡峭的上升方向前进，直到到达山顶. 不过，您可能会错过更高的丘陵. 
 - [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/)  -一种优先队列，并提及以色列臭名昭著的无组织队列. 当项目“已经等待朋友”时，可以在这里“插入行”.
-- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - Like with a stack of pancakes you can only add and remove items from the top of this data structure.
+- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)）-与一叠煎饼一样，您只能从此数据结构的顶部添加和删除项目.
 - [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure) ）-分层组织的数据结构. 从_root_项将其他项_branch out_到_nodes_和_leaves_.
 - [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)）-在此数据结构中，项目始终总是在末尾添加，而在前端则被删除，就好像这些项目在排队等候一样.
 
 ## Design Patterns and Anti Patterns
 
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) -通过将自己的接口包装在现有类的周围，从而允许具有不兼容接口的类一起工作.
-- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) -类似于建筑中的外墙，外墙是一个对象，可充当掩盖更复杂的基础结构的前端界面.
+- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises)  -除非有错误，否则表示将来可用的结果. 就像现实中一样，诺言有时会被兑现.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) -编程的反面模式，只需一次更改，即可在代码库中的任何地方疯狂地添加代码.
 
