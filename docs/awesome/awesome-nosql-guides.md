@@ -38,6 +38,7 @@
 - [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/dataguide/intro/comparing-database-types) -总体上很好地概述了数据库，以及NoSQL数据库类型如何不同并可能会有用.
 - [The NoSQL Ecosystem](https://www.aosabook.org/en/nosql.html) -由“开放源代码应用程序的体系结构”一书中的Adam Marcus撰写的一章，该章主要面向需要更深入地了解如何构建这些系统的系统架构师.
 - [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/)  -NoSQL数据库的高层概述，以及它们与SQL数据库技术和术语的比较. 用作Amazon AWS服务的登陆页面，用于键值（Amazon DynamoDB），文档（Amazon DocumentDB），图形（Amazon Neptune），内存（Amazon ElastiCache）和搜索引擎（Amazon Elasticsearch）数据库的NoSQL选项.
+- [SQL vs. NoSQL Databases: What's the Difference (2019) - Upwork](https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference) -比较SQL和NoSQL数据库的说明，并就哪种数据库解决方案适合您的用例提供一些建议.
 
 
 ## Data Structures and Modeling
@@ -72,15 +73,15 @@
 - [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra (32:02)](https://www.youtube.com/watch?v=S20XMQyvANY) -了解图形数据库如何成为关键人物，以探索谁是避税天堂中与公司相关的主要人物，其中包括50多个国家/地区的140名政客.
 - [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) -讨论对数据建模的基础知识以及应采取的方法.
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) -与Neo4j直接相关，但可能适用于任何图形数据库.
-- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) -图形数据建模的简介，并且是Thomas Frisendal所著的“用于NoSQL和SQL的图形数据建模”一书的简介.
+- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - Brief introduction to graph data modeling and is an introduction to the book "Graph Data Modeling for NoSQL and SQL" by Thomas Frisendal.
 
 
 ## Criticisms and Debates
 
 - [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) -反对针对NoSQL数据库的九种批评，因为它们适用于CouchDB，但也可能适用于其他批评.
-- [Thank You for Your Help NoSQL, but We Got It from Here (2020)](https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/) - Argument that NoSQL databases have pushed the evolution of databases given the problem of scaling, but now NewSQL has addressed those concerns (from the perspective of MemSQL).
+- [Thank You for Your Help NoSQL, but We Got It from Here (2020)](https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/) －鉴于扩展性问题，NoSQL数据库已经推动了数据库的发展，但是现在NewSQL已经解决了这些问题（从MemSQL的角度来看）.
 - [The Five Stages of NoSQL (2016)](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) -选择和使用NoSQL数据库的阶段反映了悲伤的五个阶段.
-- [The Biggest Challenges of Moving to NoSQL (2017)](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) -通过迁移到NoSQL所面临的挑战，经久不衰的发展带来了速度，可伸缩性和开发人员的喜悦.
+- [The Biggest Challenges of Moving to NoSQL (2017)](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) -通过迁移到NoSQL所面临的挑战，经久不衰所带来的好处是速度，可伸缩性和开发人员的喜悦.
 
 
 ## Miscellaneous

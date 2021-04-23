@@ -14,7 +14,7 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
 ## ASP.NET Core Community Standup: "ASP.NET Core updates in .NET 6" (April 20, 2021).
 [<img src="https://pbs.twimg.com/media/EzXvEMmVkAApGxk?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
- -.NET 6中为ASP.NET Core开发人员提供了许多令人兴奋的新功能！ 快来丹尼尔·罗斯（Daniel Roth）聆听所有相关信息，并在聊天中实时提问.
+ -.NET 6中为ASP.NET Core开发人员提供了许多令人兴奋的新功能！ 快来丹尼尔·罗斯（Daniel Roth）聆听所有相关信息，并在聊天中实时提出您的问题.
 -特辑：丹尼尔·罗斯（Daniel Roth）.
 - [live.dot.net](https://dotnet.microsoft.com/live).
 
@@ -41,7 +41,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor University](http://blazor-university.com/) -非官方文档网站.
 * [Demo](https://blazor-demo.github.io/) -官方基本演示网站.
 * [Documentation](https://docs.microsoft.com/aspnet/core/blazor) -官方文档，由Microsoft提供.
-* [eShopOnBlazor](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=86400) 将传统的ASP.NET Web窗体应用程序迁移到Blazor（Microsoft体系结构示例）.
+* [eShopOnBlazor](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor, sample by Microsoft Architecture.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - 常问问题.
 * [GitHub repository](https://github.com/dotnet/aspnetcore) - ![GitHub stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet/aspnetcore?style=flat-square&cacheSeconds=86400) 官方的Blazor存储库（这是ASP.NET Core存储库）.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) -“ Hello World”示例.
@@ -62,7 +62,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [BlazorGraphApi](https://github.com/wmgdev/BlazorGraphApi) - ![stars](https://img.shields.io/github/stars/wmgdev/BlazorGraphApi?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/wmgdev/BlazorGraphApi?style=flat-square&cacheSeconds=86400) 具有AD身份验证的Blazor Server应用，使用以下身份代表已登录用户的身分调用MS Graph API [Microsoft.Identity.Web](https://github.com/AzureAD/microsoft-identity-web).
 * [Blorc.OpenIdConnect](https://github.com/WildGums/Blorc.OpenIdConnect) - ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square&cacheSeconds=86400) 在Blazor上使用OpenID Connect的正确方法.
 * [Blazor-WASM-AzureAD-gRPC](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square&cacheSeconds=86400) Blazor WASM，Azure AD，REST和gRPC.
-* [Blazor-WASM-Auth0-gRPC](https://github.com/StefH/BlazorWasmGrpcWithAuth0) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAuth0?style=flat-square&cacheSeconds=86400) Blazor WASM， [Auth0](https://auth0.com), REST & gRPC.
+* [Blazor-WASM-Auth0-gRPC](https://github.com/StefH/BlazorWasmGrpcWithAuth0) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAuth0?style=flat-square&cacheSeconds=86400) Blazor WASM， [Auth0](https://auth0.com)，REST和gRPC.
 * [Blazor WebAssembly and Azure Active Directory](https://github.com/waelkdouh/BlazorWebAssemblyAADImplicitGrantFlow) - ![last commit](https://img.shields.io/github/last-commit/waelkdouh/BlazorWebAssemblyAADImplicitGrantFlow?style=flat-square&cacheSeconds=86400) 使用Azure Active Directory保护的Blazor WebAssembly应用程序. 此源代码与有关Medium的文章有关： [Securing a Blazor WebAssembly application with Azure Active Directory](https://medium.com/@waelkdouh/securing-a-blazor-webassembly-application-with-azure-active-directory-7822148f332b).
 * [Blazor Authentication Extension for Azure Static Web Apps](https://github.com/anthonychu/blazor-auth-static-web-apps/tree/main/sample) - ![last commit](https://img.shields.io/github/last-commit/anthonychu/blazor-auth-static-web-apps?style=flat-square&cacheSeconds=86400) Azure静态Web应用程序的Blazor身份验证扩展.
 * [Quiz manager secured by Auth0](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square&cacheSeconds=86400) 该存储库包含一个Blazor WebAssembly应用程序，该应用程序实现了一个简单的测验管理器，该测验管理器由 [Auth0](https://auth0.com/) . 下一篇文章介绍了实现的详细信息： [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
@@ -418,7 +418,8 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square&cacheSeconds=86400)  Generators.Blazor是用于提高Blazor性能的源代码生成器. 该项目还包含用于检测Blazor应用程序中常见问题的分析器.
 
 ## Videos
-* [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8) - ![duration](https://img.shields.io/badge/Duration:%20-79%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube)  2021年4月20日-.NET 6中为ASP.NET Core开发人员提供了许多令人兴奋的新功能！ 快来丹尼尔·罗斯（Daniel Roth）聆听所有相关信息，并在聊天中实时提问. [Community links](https://www.theurlist.com/aspnet-standup-2021-04-20).
+* [Upgrading to .NET 6](https://www.youtube.com/watch?v=5FN4Dzkj-M0) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) 2021年4月21日-该视频向您展示如何将现有的.NET 5 Blazor应用程序升级到.NET 6 Preview3.它还演示如何升级测试以使用最新版本的bunit 1.0.19并演示新的热点. .NET 6中的重新加载功能-对工程经验的巨大改进. [Source code](https://github.com/hassanhabib/OtripleS.Portal) ![stars](https://img.shields.io/github/stars/hassanhabib/OtripleS.Portal?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hassanhabib/OtripleS.Portal?style=flat-square&cacheSeconds=86400).
+* [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8) - ![duration](https://img.shields.io/badge/Duration:%20-79%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube)  2021年4月20日-.NET 6中为ASP.NET Core开发人员提供了许多令人兴奋的新功能！ 快来丹尼尔·罗斯（Daniel Roth）聆听所有相关信息，并在聊天中实时提出您的问题. [Community links](https://www.theurlist.com/aspnet-standup-2021-04-20).
 * [WebAPI vs gRPC in Blazor Train](https://www.youtube.com/watch?v=0fAjA6BVVFI) - ![duration](https://img.shields.io/badge/Duration:%20-22%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) April 16, 2021 - Carl Franklin shows you how to use gRPC in your Blazor apps as an alternative to a more common API layer. You can download all files at[blazortrain.com](https://blazortrain.com/).
 * [ASP.NET Community Standup - Exploring Oqtane with Shaun Walker](https://www.youtube.com/watch?v=livNmRqDnMI&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-82%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube) 2021年4月13日-在本届Blazor社区演讲中，我们与Shaun Walker坐下来讨论Oqtane的所有问题. [Community links](https://www.theurlist.com/april-community-links).
 * [Blazor WebAssembly : Cookie Expiration & API Authorization](https://www.youtube.com/watch?v=QOFwpmjEW7g) - ![duration](https://img.shields.io/badge/Duration:%20-18%20min-%230094FF?style=flat-square&cacheSeconds=maxAge&logo=youtube)  2021年4月7日-该视频显示了如何设置Cookie身份验证的身份验证属性. 您可以将其设置为IsPersistent以使cookie保持活动状态，即使在关闭浏览器之后也是如此. 您还可以将其ExpiredUtc属性设置为cookie的到期日期.
@@ -596,6 +597,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 
 ## Articles
 * [Will .NET 6 fix Blazor Prerendering?](https://jonhilton.net/blazor-prerendering-net6) -2021年4月19日-.NET 6是否可以修复Blazor Prerendering？
+* [.NET 6 Gets Blazor WebView Controls for WPF, WinForms](https://visualstudiomagazine.com/articles/2021/04/09/blazorwebview.aspx) -2021年4月9日-.NET 6获取用于WPF，WinForms的Blazor WebView控件.
 * [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/) -2021年4月8日-.NET 6 Preview 3现在可用，其中包括对ASP.NET Core的许多重大改进.
 * [Excluding Files from PWA Asset Cache](https://codyanhorn.tech/blog/blazor/2021/03/24/Blazor-Excluding-Files-from-PWA-Asset-Cache.html) -2021年3月24日-本文介绍了如何从渐进式Web应用程序资产缓存中排除文件.
 * [AWS Previews Deployment Tool for .NET Web Apps, Blazor WebAssembly](https://visualstudiomagazine.com/articles/2021/03/19/aws-net-deploy.aspx) -2021年3月19日-亚马逊网络服务（AWS）宣布了开发人员预览版，以简化在云平台​​上部署.NET Web应用程序的过程，随着诸如Docker和无服务器之类的技术的加入，这种情况变得越来越复杂.NET生态系统.
@@ -612,7 +614,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) -2021年2月17日-.NET 6 Preview 1中的ASP.NET Core更新.
 * [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) -2021年2月17日-宣布.NET 6 Preview 1.
 * [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop)  -2021年2月17日-桌面版Blazor. 本文探讨了如何使Blazor Web应用程序在桌面上运行.
-* [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) - February 16, 2021 - Blazor Component Testing, by Ed Charbeneau.
+* [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) -2021年2月16日-Ed Charbeneau撰写的Blazor Component Testing.
 * [Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1)](https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api) -2021年2月5日，-Blash：使用Blazor Wasm，Web API，SignalR和Twitter API（第1部分）制作的Twitter仪表板，由Round The Code提供.
 * [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) -2021年2月3日-.NET 6桌面开发选项：WPF，WinForms，UWP，.NET MAUI，Blazor ...
 * [Improvements to the new Razor editor in Visual Studio](https://devblogs.microsoft.com/aspnet/improvements-to-the-new-razor-editor-in-visual-studio/) -2021年1月26日-Microsoft的Daniel Roth对Visual Studio中新的Razor编辑器进行了改进.
@@ -861,7 +863,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 
 ## E-Books
 * [Blazor WebAssembly Succinctly](https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly) - August 31, 2020 - Blazor is a framework for creating SPA webpages with either client-side or server-side architectures, using Razor technology written with the C# language. Because client-side Blazor with WebAssembly executes entirely on a user's browser, it’s very fast for many applications. In Blazor WebAssembly Succinctly, Michael Washington will take readers through the core elements of Blazor and then explore additional features by building a sample application. Free e-book.
-* [Blazor Succinctly](https://www.syncfusion.com/ebooks/blazor-succinctly) -2020年4月16日-有关Blazor框架的免费电子书.
+* [Blazor Succinctly](https://www.syncfusion.com/ebooks/blazor-succinctly) - April 16, 2020 - A free e-book for starting with the Blazor framework.
 * [Blazor, A Beginners Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) -2020年3月18日-免费的Blazor框架入门电子书. [Examples source code](https://github.com/EdCharbeneau/BlazorBookExamples).
 * [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) -适用于ASP.NET Web窗体开发人员的Blazor，这是Microsoft提供的免费电子书.
 * [Using CSLA 5: Blazor and WebAssembly](https://store.lhotka.net/using-csla-5-blazor-and-webassembly)  -本书涵盖了新的Blazor UI框架，包括如何创建服务器端和客户端WebAssembly项目，如何实现身份验证和授权以及如何使用数据绑定. 然后介绍CSLA .NET如何支持Blazor，包括逐步介绍完整的示例应用程序.

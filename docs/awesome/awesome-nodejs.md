@@ -82,7 +82,7 @@
 - [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
-- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
+- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC在Web上通过p2p管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
 - [NodeOS](https://github.com/NodeOS/NodeOS) -由npm支持的第一个操作系统.
 - [YodaOS](https://github.com/yodaos-project/yodaos) -AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) -机器学习框架.
@@ -164,7 +164,7 @@
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，其重点是通过自动计算和相反的参数顺序实现的灵活功能组合. 避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
-- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](https://github.com/mout/mout) -其他现有解决方案之间最大的区别是实用程序库，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) -功能性反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
@@ -412,7 +412,7 @@
 - [lwip](https://github.com/EyalAr/lwip) -不需要ImageMagick的轻型图像处理器.
 - [pica](https://github.com/nodeca/pica)  -纯JS中的高质量和快速调整大小（lanczos3）. 当不允许像素化时，可替代canvas drawImage（）.
 - [jimp](https://github.com/oliver-moran/jimp) -使用纯JavaScript进行图像处理.
-- [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的大小.
+- [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的尺寸.
 - [qrcode](https://github.com/soldair/node-qrcode) -QR码和条形码生成器.
 
 ### Text
@@ -503,7 +503,7 @@
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) -解析，格式化，存储和验证电话号码.
 - [ref](https://github.com/TooTallNate/ref) -在缓冲区中读/写结构化二进制数据.
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) -读/写Excel XLSX.
-- [Chevrotain](https://github.com/SAP/chevrotain) -非常快速且功能丰富的JavaScript解析器构建工具包.
+- [Chevrotain](https://github.com/Chevrotain/chevrotain) -非常快速且功能丰富的JavaScript解析器构建工具包.
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) -验证和解析XML.
 
 ### Humanize
@@ -786,7 +786,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少量简单的库和核心Node.js模块来构建和部署真实的实时Web应用程序.
 
 ### Discovery
 

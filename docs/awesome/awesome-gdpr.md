@@ -26,7 +26,6 @@
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) -十大Web应用程序安全风险.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) -精简收集有关特定应用程序安全性主题的高价值信息.
-* [ARX - Data Anonymization Tool](https://arx.deidentifier.org/) -用于匿名敏感个人数据的开源软件.
 
 ## Incident management (art. 33 and 34)
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
@@ -68,7 +67,7 @@
 * [Spread Privacy](https://spreadprivacy.com/) -DuckDuckGo博客.
 * [Freedom To Tinker](https://freedom-to-tinker.com/) -普林斯顿大学CITP博客，该中心是研究公共生活中的数字技术的研究中心.
 * [pdpEcho](https://pdpecho.com/) -由Gabriela Zanfir-Fortuna提供的有关个人数据保护和隐私的所有内容.
-* [GDPRhub](https://gdprhub.eu/) -免费开放的Wiki，任何人都可以在欧洲找到并分享GDPR的见解.
+* [GDPRhub](https://gdprhub.eu/) -免费开放的Wiki，任何人都可以在欧洲找到并分享GDPR见解.
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)

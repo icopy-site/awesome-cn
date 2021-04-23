@@ -8,7 +8,7 @@
 
 请快速浏览一下 [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md) 第一的. 谢谢大家 [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ; 你摇滚！
 
-如果您在此处看到的游乐场不适用于当前版本的Xcode或不合适，请提交请求以改进此文件或考虑对其进行更新，谢谢！
+如果您在此处看到的操场不适用于当前版本的Xcode或不合适，请提交请求以改进此文件或考虑对其进行更新，谢谢！
 
 ### Downloading all the playgrounds
 
@@ -116,6 +116,7 @@
 ## WWDC Students Submissions
 *学生为WWDC奖学金提交的运动场*
 
+- [2021](https://github.com/wwdc/2021)
 - [2020](https://github.com/wwdc/2020)
 - [2019](https://github.com/wwdc/2019)
 - [2018](https://github.com/wwdc/2018)

@@ -11,7 +11,7 @@
 
 </div>
 
-开源，以开发人员为中心的性能监控和负载测试解决方案， <a href="https://k6.io/">k6</a> .
+开源的，以开发人员为中心的性能监控和负载测试解决方案， <a href="https://k6.io/">k6</a> .
 
 
 想要帮助使此列表更好吗？ 是的，太棒了！ 在开始之前，请先看一下我们 [code of conduct](https://github.com/k6io/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/k6io/awesome-k6/blob/master/contributing.md).
@@ -44,11 +44,11 @@
 - [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) -作为Jenkins构建的一部分运行k6负载测试.
 - [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) -作为GitHub Actions构建的一部分运行k6负载测试.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) -作为Azure DevOps管道的一部分运行k6负载测试.
-- [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) -作为Bitbucket管道构建的一部分，运行k6负载测试.
+- [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) -在Bitbucket管道构建中运行k6负载测试.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) -使用k6的websocket性能测试的示例.
 - [k6-typescript-template](https://github.com/k6io/template-typescript) -将TypeScript与k6配合使用的模板.
 - [k6-es6](https://github.com/MStoykov/k6-es6) -使用Webpack，Babel和Browserify使大多数ES6代码在k6中工作的示例项目.
-- [example-data-generation](https://github.com/k6io/example-data-generation) -使用fakerr为k6生成真实数据.
+- [example-data-generation](https://github.com/k6io/example-data-generation) -使用fakerr为k6生成真实的数据.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances)  -.NET混沌工程研讨会. 使用Simmy和k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) -使用cronjobs在Kubernetes中连续运行k6测试.
 
@@ -60,8 +60,8 @@
 - [postman-to-k6](https://github.com/loadimpact/postman-to-k6) -用于将Postman集合转换为k6测试脚本的工具.
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) -用于将Swagger / OpenAPI规范转换为k6测试脚本的工具.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) -用于将JMeter测试用例转换为k6测试脚本的工具.
-- [jslib.k6.io](https://jslib.k6.io/) -适用于k6脚本的实用工具库.
-- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) -Marketplace扩展，可直接从您的IDE运行k6.
+- [jslib.k6.io](https://jslib.k6.io/) -适用于k6脚本的实用程序库.
+- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) -Marketplace扩展，可直接从IDE运行k6.
 
 
 ## CI
@@ -71,4 +71,4 @@
 ## Stacks
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) -使用k6，Grafana和InfluxDB进行负载测试堆栈.
-- [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) -开源堆栈，可很好地用于运行负载测试，存储结果并在仪表板上可视化这些结果.
+- [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) -开源堆栈，非常适合运行负载测试，存储结果并在仪表板上可视化这些结果.

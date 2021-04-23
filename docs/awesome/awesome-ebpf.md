@@ -4,7 +4,7 @@
 
 &gt;与eBPF相关的杰出项目的精选列表.
 
-就像_Berkeley Packet Filter_一样，BPF是一个内核内部虚拟机，运行从用户空间传递的程序. 最初在BSD上实现，然后在Linux（现在是旧的）“经典BPF”或cBPF机器上使用tcpdump之类的工具来过滤内核中的数据包，以避免对用户空间的无用复制. 最近，Linux中的BPF基础结构已被完全重做，并赋予了“扩展的BPF”（即eBPF）以生命，它获得了新的功能（安全性和终止检查，程序的JIT编译，持久性映射，标准库，硬件卸载）支持等），现在用于许多任务.  eBPF带来了性能，可编程性和灵活性的几个示例，但仅在极低级别（XDP）上处理数据包，跟踪和监视系统上的事件或对cgroup实施访问控制.
+就像_Berkeley Packet Filter_一样，BPF是一个内核内部虚拟机，运行从用户空间传递的程序. 最初在BSD上实现，然后在Linux（现在是旧的）“经典BPF”或cBPF机器上使用tcpdump之类的工具来过滤内核中的数据包，以避免对用户空间的无用复制. 最近，Linux中的BPF基础结构已被完全重做，并赋予了“扩展的BPF”（即eBPF）以生命，它获得了新功能（安全性和终止检查，程序的JIT编译，持久性映射，标准库，硬件卸载）支持等），现在用于许多任务.  eBPF带来了性能，可编程性和灵活性的几个示例，但仅在极低级别（XDP）上处理数据包，跟踪和监视系统上的事件或对cgroup实施访问控制.
 
 Recently [Cilium](https://cilium.io) 推出了一个有关eBPF的出色网站，名为 [ebpf.io](https://ebpf.io/) . 它的作用类似于此列表， [an introduction to eBPF](https://ebpf.io/what-is-ebpf) 并链接到 [related projects](https://ebpf.io/projects).
 
@@ -113,7 +113,7 @@ Recently [Cilium](https://cilium.io) 推出了一个有关eBPF的出色网站，
   - [Network Performance Workshop](http://netdevconf.org/1.2/session.html?jesper-performance-workshop) -有关XDP内部和预期发展的其他提示.
   - [XDP – eXpress Data Path, Used for DDoS protection](http://people.netfilter.org/hawk/presentations/OpenSourceDays2017/XDP_DDoS_protecting_osd2017.pdf) -有关XDP的详细信息和用例，以及基准测试结果，用于基准测试的代码段以及使用eBPF / XDP（基于IP黑名单方案）进行基本DDoS保护的代码段.
   - [Memory vs. Networking, Provoking and fixing memory bottlenecks](http://people.netfilter.org/hawk/presentations/MM-summit2017/MM-summit2017-JesperBrouer.pdf) -有关XDP开发人员当前面临的内存问题的高级详细信息.
-  - [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek)  -如何为普通人入门eBPF和XDP. 朱莉娅·埃文斯（Julia Evans）也总结了 [her blog](http://jvns.ca/blog/2017/04/07/xdp-bpf-tutorial/).
+  - [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek)  -如何为普通人入门eBPF和XDP. 朱莉娅·埃文斯（Julia Evans）也对 [her blog](http://jvns.ca/blog/2017/04/07/xdp-bpf-tutorial/).
   - [XDP now with REDIRECT](http://people.netfilter.org/hawk/presentations/LLC2018/XDP_LLC2018_redirect.pdf) -更新XDP，尤其是重定向操作.
 
 - [XDP workshop -- Introduction, experience, and future development (Video)](http://netdevconf.org/1.2/session.html?herbert-xdp-workshop)
@@ -154,6 +154,7 @@ Recently [Cilium](https://cilium.io) 推出了一个有关eBPF的出色网站，
 - [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) -开始使用密件抄送和eBPF的许多增量步骤，主要集中在跟踪和监视上.
 - [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) -附带密件抄送，但针对17个“课程”中的Python位.
 - [Building BPF applications with libbpf-bootstrap](https://nakryiko.com/posts/libbpf-bootstrap/) -使用CO-RE，全局变量和环形缓冲区等功能，帮助生成最小或高级模板来引导您自己的应用程序（地图和程序的内核端和用户空间管理）.
+- [How I ended up writing opensnoop in pure C using eBPF](https://bolinfest.github.io/opensnoop-native/) -首先，仅使用bpf（）syscall，然后使用libbpf库，以及可重现的代码示例，详细介绍如何编写eBPF程序.
 - [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) -涉及使用多个BPF工具进行跟踪.
 - [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) -使用perf和bcc程序对ping请求和答复进行故障排除.
 - [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) -由Netronome操作：一些与网络相关的eBPF用例的教程，包括eBPF卸载入门指南.
@@ -292,7 +293,7 @@ Recently [Cilium](https://cilium.io) 推出了一个有关eBPF的出色网站，
 
 ## Development and Community
 
-- [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  -BPF补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身在每次发行时都合并到Linus的树中.
+- [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  -BPF补丁降落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身在每次发行时都合并到Linus的树中.
 - [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) -关于对BPF的贡献.
 - [The netdev mailing list](http://lists.openwall.net/netdev/)  -Linux内核网络堆栈开发的邮件列表. 所有补丁都发送到此处进行审查和包含.
 - [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) -专门用于XDP编程的邮件列表（用于体系结构或寻求帮助）.

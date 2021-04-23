@@ -34,6 +34,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [qr-code](https://github.com/spider-gazelle/qr-code) -QR码生成器
  * [radix](https://github.com/luislavena/radix) -基数树实施
  * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) 用于空间索引
+ * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) -符合Hash ducktype的Splay Tree实现
 
 ## Blockchain
  * [Axentro](https://github.com/Axentro/Axentro) -定制的区块链平台
@@ -59,7 +60,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) -实施memcached客户端
 
 ## CLI Builders
- * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+ * [admiral](https://github.com/jwaldrip/admiral.cr) -用于编写命令行界面的强大DSL
  * [clicr](https://github.com/j8r/clicr) -一个简单的声明性命令行界面生成器
  * [clim](https://github.com/at-grandpa/clim) -苗条的命令行界面构建器
  * [commander](https://github.com/mrrooijen/commander) -命令行界面构建器
@@ -146,7 +147,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [queryit](https://github.com/hugopl/queryit) -基于终端的无安装SQL查询运行程序.
 
 ## Debugging
- * [debug.cr](https://github.com/Sija/debug.cr) -`pp！-style调试的`debug！（…）`宏
+* [backtracer.cr](https://github.com/Sija/backtracer.cr) -Shard旨在协助将回溯解析为结构化形式
+* [debug.cr](https://github.com/Sija/debug.cr) -`pp！-style调试的`debug！（…）`宏
 
 ## Dependency Injection
  * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) -强大的依赖项注入服务容器框架
@@ -168,7 +170,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Examples and funny stuff
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) -控制台二十一点
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -GOF模式的示例
- * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+ * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实施
  * [exercism-crystal](https://github.com/exercism/crystal) -锻炼运动
  * [try.cr](https://github.com/maiha/try.cr) -尝试monad
 
@@ -274,6 +276,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [pinger](https://github.com/spider-gazelle/pinger) -在不需要sudo的情况下Ping IP地址和DNS条目
  * [port_midi](https://github.com/jimm/crystal_port_midi) -PortMIDI跨平台MIDI I / O库的Crystal C绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) -简单的DSL重试失败的代码块
+ * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) -用于构建Serf处理程序的框架，具有一组有用的内置功能
  * [simple_retry](https://github.com/spider-gazelle/simple_retry) -重试失败代码块的简单工具
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) -水晶碎片包装了rbsec / sslscan实用程序
  * [version_tools](https://github.com/anicholson/crystal-version-tools) -与版本有关的行为，在编译时指定
@@ -338,7 +341,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Scheduling
  * [crystime](https://gitlab.com/crystallabs/crystime) -高级时间，日历，时间表和提醒库
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) -执行定期任务
- * [tasker](https://github.com/spider-gazelle/tasker) -包括时区感知的cron作业在内的高精度调度程序
+ * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ## Science and Data analysis
  * [alea](https://github.com/nin93/alea) -可重复采样，CDF和其他实用程序以处理概率分布
@@ -514,5 +517,5 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [scry](https://github.com/crystal-lang-tools/scry) -用于Crystal实现代码分析的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins
- * [crun](https://github.com/Val/crun) -Crystal Run：shebang水晶包装纸
+ * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
  * [crystal-zsh](https://github.com/veelenga/crystal-zsh) -.oh-my-zsh插件
