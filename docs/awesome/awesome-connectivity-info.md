@@ -23,9 +23,9 @@
 **[`^        back to top        ^`](#)**
 
 - [ITU Measuring digital development: Facts and figures](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx) -（2020）测量数字发展包含最重要的ICT指标的快照，包括对当年的估算. 
-- [Network Readiness Index](https://networkreadinessindex.org/) -（2019）涵盖来自Portulans Institute的121个经济体的网络就绪指数
-- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2018）针对移动互联网采用的四个推动因素对国家进行衡量：基础设施，可负担性，消费者就绪程度和内容.
-- [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) -（2017）负担得起的互联网接入联盟的互联网负担能力指数（[A4AI](https://a4ai.org)).
+-网络就绪指数-（[2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)）来自Portulans Institute的涵盖121个经济体的网络就绪指数
+- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2019）针对移动互联网采用的四个推动因素对国家进行衡量：基础设施，可负担性，消费者就绪程度和内容.
+- [A4AI Affordability Drivers Index](https://a4ai.org/affordability-report/data/?_year=2020&indicator=INDEX) -（负担得起的互联网接入联盟（2020）的互联网负担能力指数（[A4AI](https://a4ai.org)).
 -A4AI移动宽带数据成本-（[Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)）宽带数据价格（预付费1GB移动设备）占人均GNI的百分比.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) -（2020）衡量互联网连通性与可用性，可承受性，相关性和就绪性的指数.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) -（2017）根据供应，需求，经验和潜力衡量的50个国家的“数字化转型”状态快照.
@@ -52,7 +52,7 @@
 - [Greg's Cable Map](http://cablemap.info/)
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) -国际电联的地面光纤和微波网络在线地图.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) -有些国家有些过时但仍然有用的移动网络覆盖图.
-- [Hurricane Electric 3D map](http://he.net/3d-map/) -水下电缆，飓风现场指示点（POP）和路线的交互式3D地图.
+- [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) -（2019）提供最准确的移动覆盖地图，目前覆盖加纳，尼日利亚，卢旺达，乌干达，坦桑尼亚和赞比亚.
 - [nperf Mobile coverage maps](https://www.nperf.com/en/map) -基于从以下位置收集的数据进行移动覆盖 [nperf app](https://www.nperf.com/en/nperf-applications/).
 
@@ -61,7 +61,7 @@
 **[`^        back to top        ^`](#)**
 
 -来自GSMA的移动性别差距报告-（[2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
--Mozilla Internet运行状况报告-（[2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
+-Mozilla Internet运行状况报告-（[2020](https://2020.internethealthreport.org/)) ([2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
 -宽带委员会：宽带状况-（[2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 -国际电联衡量信息社会-（[2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
@@ -82,7 +82,8 @@
 
 **[`^        back to top        ^`](#)**
 
--GSMA移动经济-西非]（[2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
+- [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy)：非洲1800亿美元的互联网经济未来-IFC / Google赞助的有关非洲互联网经济的报告
+-GSMA移动经济-西非（[2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
 -GSMA移动经济-撒哈拉以南非洲（[2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 - [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
 - [GSMA Mobile Economy - Asia Pacific](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf) (2020)
@@ -98,10 +99,10 @@
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
+- [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) -（2018年2月）监管和政策建议，以促进发展中国家的移动宽带覆盖.
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/) -有关Facebook使用情况的人口统计信息.
 - [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) -在各个国家/地区流行的移动应用排名.
-- [Global Stats by StatCounter](http://gs.statcounter.com/) -随着时间的推移，浏览器市场份额（按浏览器，地区和操作系统）
+- [Global Stats by StatCounter](http://gs.statcounter.com/) -随着时间的推移，浏览器市场份额（按浏览器，地区和操作系统）.
 - [Global Mobile Suppliers Association](https://gsacom.com/) -有关LTE和5G采用情况的各种报告.
 - [Social Bakers Regional Reports](https://www.socialbakers.com/resources/reports/) -有关社交媒体使用的国家/地区报告.
 - [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) -HRSL数据集在人口分布图中提供了前所未有的准确性.

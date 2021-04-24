@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种可帮助您检查环境，识别即将发生的变化并正确选择操作的技术. 通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建自己的世界的可视化表示，玩假设游戏，并选择支持它的方向和最佳措施.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种可帮助您检查环境，识别即将发生的变化并正确选择操作的技术. 通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建世界的视觉表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
 
 这是有用的Wardley映射资源和示例的列表. 简短网址： [list.wardleymaps.com](https://list.wardleymaps.com) . 欢迎捐款！ [Contribution guidelines](https://list.wardleymaps.com/contributing) 用于将某些东西添加到列表中. 
 
@@ -33,7 +33,7 @@
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -西蒙·沃德利（Simon Wardley）的博客.
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) -通过以下方式创建和使用Wardley Map的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF / iPad / Kindle.
-- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) -孙子（Sun Tzu），博伊德（Boyd）和沃德利（Wardley）关于态势感知，OODA“环路”和沃德利的制图 [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
+- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) -孙子（Sun Tzu），博伊德（Boyd）和沃德利（Wardley）关于态势感知，OODA“环路”和沃德利（Wardley）的制图 [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) -第2.3章.
 
 ## Videos
@@ -104,7 +104,7 @@
 - [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270)  -詹姆斯·厄克特（James Urquhart）.  2017年2月4日. 
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974)  -先锋，定居者和城市规划师（Wardley PST）.  2017年1月31日.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9)  -我未来的和谐设计师生涯.  2017年1月17日.
-- [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6)  -您如何从James Urquhart的零组件和价值关系中提取价值.  2017年1月12日.
+- [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6)  -如何通过James Urquhart从混杂的组件和价值关系中提取价值.  2017年1月12日.
 - [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb)  -James Urquhart从价值链构建沃德利地图，以实现“实时业务自动化”.  2016年12月30日.
 - [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8)  -James Urquhart使用数据流的基本架构探索价值链.  2016年12月22日.
 - [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) -2016年12月3日.
@@ -133,7 +133,6 @@
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具. 有关更新，请遵循 [@MapsAsCode](https://twitter.com/MapsAsCode) 在Twitter上. 提供托管版本 [here](https://onlinewardleymaps.com/) . 在线文件 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 - [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps)  -在Visual Studio Code中渲染和编辑Wardley映射.  VSCode扩展利用了OnlineWardleyMaps.com的引擎. 在线文件 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 - [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) -在Jupyter Notebook中生成Wardley地图的插件.
-- [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具. 提供托管版本 [here](https://atlas2.wardleymaps.com/).
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript)  -注意MapScript是建立在Observable之上的. 阅读他们 [Terms of Service](https://observablehq.com/terms-of-service) .  MapScript [feature requests](https://mapscript.canny.io/feature-requests) . 提供托管版本 [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) -从基于HCL的地图描述文件生成SVG格式的Wardley地图.
 

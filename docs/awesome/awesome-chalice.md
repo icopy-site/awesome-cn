@@ -24,7 +24,7 @@
 - [AWS AutoGluon](https://github.com/awslabs/autogluon) -自动化机器学习培训和部署.
 - [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python) -一套适用于AWS Lambda的实用程序，可简化采用最佳做法，例如跟踪，结构化日志记录，异步自定义指标，参数和机密管理，幂等等等.
 - [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) -CDK可以部署Chalice应用程序，或者Chalice可以部署CDK应用程序.
-- [AWS Solutions Constructs Patterns](https://aws.amazon.com/solutions/constructs/patterns/) -可以链接在一起的CDK的建筑模式.
+- [AWS Solutions Constructs Patterns](https://aws.amazon.com/solutions/constructs/patterns/) -CDK的体系结构模式可以链接在一起.
 - [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications) -无服务器AWS应用程序. 
 - [DynamoDB Global Tables](https://aws.amazon.com/dynamodb/global-tables/) -NoSQL数据库.
 - [Aurora Serverless Global Database 2](https://aws.amazon.com/rds/aurora/serverless/) -OLTP数据库.
@@ -60,6 +60,8 @@
 - [Netflix Metaflow S3](https://github.com/Netflix/metaflow/blob/master/metaflow/datatools/s3.py) -实现20吉比特S3吞吐量.
 - [Slack Bolt](https://github.com/slackapi/bolt-python) -通过Slack的内置Chalice支持启用AWS ChatOps.
 - [Troposphere](https://github.com/cloudtools/troposphere) -使用Python编写CloudFormation.
+- [Scepter](https://github.com/Sceptre/sceptre) -CloudFormation部署库.
+- [taskcat](https://github.com/aws-quickstart/taskcat) -来自AWS的CloudFormation测试库.
 - [PyCognito](https://github.com/pvizeli/pycognito) -管理和使用Cognito用户池.
 - [mrjob](https://github.com/Yelp/mrjob) -在您的EMR群集上运行MapReduce作业.
 
@@ -80,7 +82,7 @@
 - [aws-chalice-swagger](https://github.com/samuelkhtu/aws-chalice-swagger) -如何使用Swagger支持.
 - [Lambda Multi-threading in Chalice](https://github.com/vumdao/multithread-in-lambda) -跨Lambda核心映射/缩小.
 - [aws-chalice-boilerplate](https://github.com/GabrielTavares99/aws-chalice-boilerplate) -如何使用`chalice.cli.CLIFactory`.
-- [chalice_dockerized](https://github.com/vanderlvoff/chalice_dockerized) -对您的应用程序进行Docker化.
+- [chalice_dockerized](https://github.com/vanderlvoff/chalice_dockerized) -Docker化您的应用程序.
 - [Chalice-GraphQL](https://github.com/jrbeilke/chalice-graphql) -添加GraphQL API.
 - [chalice-extended-action](https://github.com/jayef0/chalice-extended-action) -使用GitHub Actions进行部署.
 - [pytest-chalice](https://github.com/studio3104/pytest-chalice) -Py.test固定装置.
@@ -148,16 +150,21 @@
 - [AWS Serverless Financial Functions](https://github.com/awslabs/aws-serverless-financial-functions)
 
 ## Related Awesome Lists
+- [Awesome AWS](https://github.com/donnemartin/awesome-aws#readme)
+- [Awesome Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme)
+- [Awesome Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
+- [Awesome AppSync](https://github.com/aws/aws-appsync-community#readme)
 - [Awesome IAM](https://github.com/kdeldycke/awesome-iam#readme)
 - [Awesome CDK](https://github.com/kolomied/awesome-cdk#readme)
-- [Awesome AWS](https://github.com/donnemartin/awesome-aws#readme)
-- [Awesome Cloud Security](https://github.com/RyanJarv/awesome-cloud-sec#readme)
-- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
-- [Awesome Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme)
+- [Awesome CloudFormation](https://github.com/aws-cloudformation/awesome-cloudformation#readme)
+- [Awesome EC2 Spot](https://github.com/nadaahm/awesome-ec2-spot)
+- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs#readme)
 - [Awesome EKS](https://github.com/realvz/awesome-eks#readme)
+- [Awesome Lambda Layers](https://github.com/mthenw/awesome-layers)
 - [Awesome AWS Research](https://github.com/randyridgley/awesome-aws-research#readme)
+- [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
+- [Awesome Cloud Security](https://github.com/RyanJarv/awesome-cloud-sec#readme)
 - [AWSome Websites](https://github.com/StanForever/AWSome-websites)
-- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
 - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 
 <img src="https://ga-beacon.appspot.com/UA-191636151-1/awesome-chalice?useReferer&pixel">

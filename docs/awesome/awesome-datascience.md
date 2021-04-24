@@ -17,8 +17,8 @@
 
  | 友情链接预览|
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出思路，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学结合了数据的许多方面，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索的能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出框框思考，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的许多方面的组合，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 在那些日子里，具有物理学和数学背景的人涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代的人才，而主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
@@ -219,7 +219,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Trains](https://github.com/allegroai/trains)  | 自动魔术实验管理器，用于AI的版本控制和DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有功能存储的开源数据密集型机器学习平台. 摄取和管理用于在线（MySQL群集）和离线（Apache Hive）访问的功能，大规模培训和提供模型.  |
 | [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB是面向开发人员的可解释AutoML框架. 借助MindsDB，您可以仅用一行代码即可构建，训练和使用最新的ML模型.  |
-| [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
+| [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.  |
 | [CML](https://github.com/iterative/cml)  | 一个开放源代码工具包，用于在数据科学项目中使用持续集成. 使用GitHub Actions＆GitLab CI在类似于生产的环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视报告.  |
 | [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|英特尔®开发人员专区
@@ -386,6 +386,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Science at Home](https://datascienceathome.com/)
@@ -393,15 +395,14 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Skeptic](https://dataskeptic.com/)
 - [Data Stories](http://datastori.es/)
 - [Datacast](https://jameskle.com/writes/category/Datacast)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
 - [Learning Machines 101](http://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
+- [Not So Standard Deviations](https://nssdeviations.com/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [DataTalks.Club](https://anchor.fm/datatalksclub)
 
 
 ## Books
@@ -484,7 +485,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [KD Nuggets](http://www.kdnuggets.com/) 数据挖掘，分析，大数据，数据，科学而不是博客门户
 - [Meta Brown](http://www.metabrown.com/blog/) - Personal Blog
 - [Data Scientist](https://www.datascientists.net/) 正在建立数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业界，政府机构和我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构和我们生活的影响.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) -大告示
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) -关于统计计算和可视化的思考
@@ -587,7 +588,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   |  @ _GrubHub_关于数据和熊猫的工作|
-| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
+| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD的共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
 | [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio的首席科学家，奥克兰大学，斯坦福大学和莱斯大学的统计学兼职教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家|
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel的居住数据科学家.  |
@@ -607,7 +608,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify的数据科学家，开发人员|
 | [Monica Rogati](https://twitter.com/mrogati)  | 数据@ Jawbone. 在LinkedIn上将数据转换为故事和产品. 文本挖掘，应用机器学习，推荐系统. 前游戏者，前机器编码器； 命名者.  |
-| [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍的作者：http://www.oreilly.com/pub/au/4419 |
+| [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍的作者：http：//www.oreilly.com/pub/au/4419 |
 | [Paul Miller](https://twitter.com/PaulMiller)  | 云计算/大数据/开放数据分析师和顾问. 作家，演讲者和主持人.  Gigaom研究分析师.  |
 | [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动化任务并改善决策. 企业家，前首席数据科学家@LinkedIn. 机器学习，ProductRei，网络|
 | [Prash Chan](https://twitter.com/MDMGeek)  |  @ IBM解决方案架构师，主数据管理，数据质量和数据治理Blogger. 数据科学，Hadoop，大数据和云.  |

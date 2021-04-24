@@ -16,7 +16,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [GitHub repository](https://github.com/prometheus/prometheus) -Prometheus的源代码，问题讨论和协作.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) -Prometheus官方文档.
 - [Blog](https://prometheus.io/blog/) -Prometheus官方博客.
-- [Official Prometheus demo](https://demo.do.prometheus.io) -由Cloud Alchemy Ansible角色管理的Prometheus官方演示站点，每天使用来自 [Prometheus repository](https://github.com/prometheus/demo-site).
+- [Official Prometheus demo](https://demo.do.prometheus.io) -由Cloud Alchemy Ansible角色管理的Prometheus官方演示站点，每天使用来自以下位置的配置进行更新 [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
 - [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) -使用Mateo Burillo的最终指南Prometheus进行Kubernetes监视.
@@ -27,50 +27,50 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) -演练介绍了如何使用Blackbox Exporter检查SSH是否由Brian Brazil响应.
 - [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) -使用Docker和Prometheus监控您的GitHub Repos.
 - [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) -Luc Juggery在Prometheus中的Docker守护程序指标.
-- [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) -简单的教程，由Austin Miller使用Grafana，AlertManager和PagerTree创建Prometheus监视堆栈.
-- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) -Prometheus的初学者友好介绍，作者： [yolossn](https://github.com/yolossn).
+- [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/2017/12/01/prometheus-tutorial/) -由奥斯汀·米勒（Austin Miller）使用Grafana，AlertManager和PagerTree创建Prometheus监视堆栈的简单教程.
+- [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) -通过以下方式对Prometheus进行了友好的入门介绍： [yolossn](https://github.com/yolossn).
 
 ## Books
-- [Monitoring with Prometheus](https://www.prometheusbook.com/) -詹姆斯·特恩布尔（James Turnbull）用普罗米修斯（Prometheus）进行监视.
-- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -Prometheus：由Brian Brian执导.
-- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) -Joel Bastos和PedroAraújo撰写的使用Prometheus进行动手基础设施监控，并由Brian Brian评论.
+- [Monitoring with Prometheus](https://www.prometheusbook.com/) -James Turnbull的Prometheus监控
+- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -普罗米修斯（Prometheus）：《布莱恩·巴西（Brian Brazil）》.
+- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) -Joel Bastos和PedroAraújo撰写的《使用Prometheus进行动手基础设施监控》，Brian Brazil进行了评论.
 
 ## Videos
 - [PromCon Online 2020](https://www.youtube.com/playlist?list=PLoz-W_CUquUm0r6nxziK9B9LnmNntzctE) -PromCon Online-2020年7月14日至16日.
 - [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) -PromCon慕尼黑-2019年11月7日至8日，PromCon EU 2019.
-- [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监控简介-Julius Volz.
+- [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：使用Prometheus进行系统和服务监控的简介-Julius Volz.
 - [Explain it Like I'm Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) -Monitorama PDX，2019年-Dave Cadwallader.
 - [Prometheus Deep Dive](https://www.youtube.com/watch?v=Me-kZi4xkEs) -KubeCon-2017-GitLab：Prometheus深潜-Ben Kochie.
 - [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) -PromCon慕尼黑-2018年8月9日至10日-慕尼黑PromCon 2018的谈话录音.
-- [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) -比利时Devoxx-2017年11月7日-FabianStäber.
-- [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17-18日-柏林PromCon 2017的谈话录音.
+- [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) -比利时Devoxx-2017年11月7日-法比安·史塔伯（FabianStäber）.
+- [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17日至18日-柏林PromCon 2017的谈话录音.
 - [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) -PromCon 2017：最佳实践和野兽陷阱-Julius Volz.
-- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) -Cloud Native Con-2017-使用Prometheus进行计数-Brian Brazil，稳健的感知力.
-- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -Cloud Native Con-2017-了解和扩展Prometheus AlertManager-Lee Calcote，SolarWinds.
+- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) -Cloud Native Con-2017-使用Prometheus进行计数-Brian Brazil，稳健的洞察力.
+- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -Cloud Native Con-2017-了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote.
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) -Devoxx-2017年5月17日在英国Devoxx-Marco Pas.
-- [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) -比利时Devoxx-2016年11月8日-FabianStäber.
+- [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) -比利时Devoxx-2016年11月8日-法比安·史塔伯（FabianStäber）.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) -Docker-2016年10月14日-Julius Volz.
-- [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) -PromCon Berlin-2016年8月25日至26日-柏林PromCon 2016的谈话录音.
-- [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) -FOSDEM 2016-2016年1月31日-Brian Brian.
+- [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) -PromCon Berlin-2016年8月25-26日-柏林PromCon 2016谈话录音.
+- [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) -FOSDEM 2016-2016年1月31日-布赖恩·巴西（Brian Brazil）.
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -PromCon 2016：Prometheus时间序列数据库-BjörnRabenstein.
 - [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) -PromCon 2016-所以你想写一个出口商-Brian Brazil.
 
 ## Podcasts and interviews
-- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -朱莉叶斯·沃尔兹（Julius Volz）在FLOSS每周TWiT.tv节目中.
+- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -Julius Volz在FLOSS每周TWiT.tv节目中.
 - [Prometheus and Service Monitoring](https://changelog.com/podcast/168) -Changelog播客中的Julius Volz.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
 ## Presentations
-- [Prometheus Overview](http://www.slideshare.net/brianbrazil/prometheus-overview) -布赖恩·巴西（Brian Brazil）的普罗米修斯主义理想的监视.
+- [Prometheus Overview](http://www.slideshare.net/brianbrazil/prometheus-overview) -布赖恩·巴西（Brian Brazil）的普罗米修斯（Promethean）监视理想.
 - [System Monitoring with Prometheus](http://www.slideshare.net/brianbrazil/devops-ireland-systems-monitoring-with-prometheus) -布赖恩·巴西（Brian Brazil）在都柏林Devops爱尔兰聚会上.
-- [OMG! Prometheus](https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0) -Fitbit网站运营公司的Benjamin Staffin向他的团队解释了Prometheus的情况.
+- [OMG! Prometheus](https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0) -Fitbit网站运营部的Benjamin Staffin向他的团队解释了Prometheus的案情.
 - [Deploying Prometheus](https://fosdem.org/2017/schedule/event/deploying_prometheus_at_wikimedia_foundation/attachments/slides/1773/export/events/attachments/deploying_prometheus_at_wikimedia_foundation/slides/1773/Prometheus_at_WMF_Fosdem_2017.pdf) -Filippo Giunchedi，2017年FOSDEM维基媒体基金会.
 
 ## Blog posts and opinions
 - [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud) -Prometheus概述和Soundcloud的第一手经验.
 - [Monitor Docker Containers with Prometheus](http://5pi.de/2015/01/26/monitor-docker-containers-with-prometheus/) -使用Prometheus监视Docker容器.
 - [Prometheus and Kubernetes: A Perfect Match](https://www.weave.works/prometheus-kubernetes-perfect-match/) -_Prometheus和Kubernetes_系列中的3之1.
-- [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) -_Prometheus和Kubernetes_系列的3之2.
+- [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) -_Prometheus和Kubernetes_系列中第3部分的第2部分.
 - [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) -_Prometheus和Kubernetes_系列的第3部分.
 - [Robust Perception](https://www.robustperception.io/tag/prometheus/) -Brian Bazil撰写的有关Prometheus的多篇博客文章.
 - [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) -Grig Gheorghiu对Prometheus的初步体验.
@@ -82,23 +82,23 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus Blog Series (Part 4): Instrumenting code in Go and Java](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) -Pierre Vincent撰写的_Prometheus Blog Series_系列的第4部分.
 - [Horizontal Pod Autoscaling in Kubernetes with Prometheus](https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/) -Louise的Prometheus在Kubernetes中进行水平Pod自动缩放.
 - [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) -Aliaksandr Valialkin面向初学者的PromQL教程.
-- [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) -普罗米修斯储存：Aliaksandr Valialkin所著的人类技术术语.
+- [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) -普罗米修斯储存库：Aliaksandr Valialkin所著的人类技术术语.
 - [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) -解决警报动荡和Alertmanager中的重复项 [Ali Sattari](https://github.com/ali-sattari).
-- [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) -Atibhi Agrawal为Prometheus贡献.
+- [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) -由Atibhi Agrawal为Prometheus贡献.
 
 ## Deployment tools
-- [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，由ntk148v_来容器化，配置和部署Prometheus生态系统.
+- [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，用于通过ntk148v_来容器化，配置和部署Prometheus生态系统.
 - [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) -负责管理Prometheus，Alertmanager，Grafana和CommonPrometheus出口商的角色.
-- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -Ansible剧本，用于安装Prometheus监控系统，出口商，例如：node，snmp，blackbox，从而由Ernestas Poskus_生成警报管理器和推送网关.
-- [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署GoogleCloud Marketplace上列出的Prometheus解决方案_by GoogleCloudPlatform_.
-- [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes上创建/配置/管理Prometheus集群.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统，出口商（例如：节点，snmp，黑匣子）的Ansible剧本，由Ernestas Poskus_制作警报管理器和推送网关.
+- [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署由GoogleCloudPlatform_在Google Cloud Marketplace上列出的Prometheus解决方案.
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes顶部创建/配置/管理Prometheus集群.
 
 ## Dashboards
 - [Grafana](https://prometheus.io/docs/visualization/grafana/) -Grafana是Prometheus_提供的开源指标分析和可视化套件_tutorial.
 - [Prometheus Monitoring with Grafana](http://logz.io/blog/prometheus-monitoring/) -由logz.io_使用Grafana _tutorial进行Prometheus监视.
 
 ## Exporters
-以下列表包含了由Proxeus维护的所有官方Prometheus出口商 [Prometheus GitHub 或者ganization](https://github.com/prometheus) . 有关包括任何非官方出口商在内的出口商的完整列表，请参见 [prometheus.io](https://prometheus.io/docs/instrumenting/exp或者ters/) 或者 [exp或者terhub.io](https://exp或者terhub.io) f或者 a curated list of Prometheus exp或者ters.
+以下列表包含了由Proxeus维护的所有官方Prometheus出口商 [Prometheus GitHub 或者ganization](https://github.com/prometheus) . 有关包括非官方出口商在内的出口商的完整列表，请参见 [prometheus.io](https://prometheus.io/docs/instrumenting/exp或者ters/) 或者 [exp或者terhub.io](https://exp或者terhub.io) f或者 a curated list of Prometheus exp或者ters.
 
 ### Databases
 - [Consol exporter](https://github.com/prometheus/consul_exporter) -领事指标的导出器.
@@ -115,7 +115,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [AWS CloudWatch exporter](https://github.com/prometheus/cloudwatch_exporter) -Amazon AWS CloudWatch指标的导出器.
 - [Collectd exporter](https://github.com/prometheus/collectd_exporter) -收集指标的导出器.
 - [Graphite exporter](https://github.com/prometheus/graphite_exporter) -石墨指标的导出器.
-- [InfluxDB](https://github.com/prometheus/influxdb_exporter) -InfluxDB指标的导出器.
+- [InfluxDB](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
 - [JMX exporter](https://github.com/prometheus/jmx_exporter) -JMX指标的导出器.
 - [SNMP exporter](https://github.com/prometheus/snmp_exporter) -SNMP指标的导出器.
 - [StatsD exporter](https://github.com/prometheus/statsd_exporter) -StatsD指标的导出器.
@@ -125,14 +125,15 @@ Prometheus是一个开源系统监视和警报工具包.
 
 ## Alertmanager
 - [Monitoring mixins](https://monitoring.mixins.dev) -社区管理的警报，记录规则和Grafana仪表板束.
-- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) -普罗米修斯警报规则的真棒列表.
+- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) -很棒的普罗米修斯警报规则列表.
 - [Karma](https://github.com/prymitive/karma) -Prometheus Alertmanager的警报仪表板.
 
 ## Proxies
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) -使用选择器策略将传入的请求转发到部署为彼此的HA副本的多个Prometheus实例中的一个.
 - [Promxy](https://github.com/jacksontj/promxy) -对Prometheus HA对中的数据进行重复数据删除.
-- [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
+- [Trickster](https://github.com/tricksterproxy/trickster) -用于HTTP应用程序的HTTP反向代理/缓存和用于时间序列数据库的仪表板查询加速器.
 - [exporter_proxy](https://github.com/mrichar1/exporter_proxy) -适用于Prometheus出口商的小巧，简单的纯Python反向代理，具有TLS支持.
+- [PromQL Guard](https://github.com/kfdm/promql-guard) -在Prometheus之上提供了一个瘦代理，该代理可以检查和重写PromQL查询，这样即使使用共享的Prometheus服务器，租户也只能看到允许的数据.
 
 ## High Availability
 - [Cortex](https://github.com/cortexproject/cortex) -水平可扩展，高可用性，多租户的长期Prometheus.

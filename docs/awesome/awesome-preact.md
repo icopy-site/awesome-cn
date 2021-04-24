@@ -11,14 +11,14 @@
 - [Real Apps](https://preactjs.com/about/we-are-using)
 
 ### Community
-- [Slack](https://preact-slack.now.sh) （讨论论坛）
+- [Slack](https://chat.preactjs.com/) （讨论论坛）
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
 - [Github](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) -在几秒钟内构建一个Preact Progressive Web App.
-- [Vite](https://github.com/vitejs/vite) -用于Preact，Vue或React的快速本机ESM驱动的Web开发构建工具.
+- [Vite](https://github.com/vitejs/vite) -用于Preact，Vue或React的快速本地ESM驱动的Web开发构建工具.
 - [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact进行快速开发.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired) -结合使用Preact和create-react-app而不弹出.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) -它会删除Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
@@ -87,7 +87,7 @@
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) -基于Redux的轻量级状态容器，具有单个存储且没有reducer.
 - [Unistore](https://github.com/developit/unistore) -350b / 650b状态容器，具有用于Preact＆React的组件操作.
-- [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，该组件受elm的启发很大.
+- [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，受到elm的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
 - [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
@@ -110,7 +110,7 @@
 
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) -用于将Hacker News建立为PWA的Preact的演示.
-- [TodoMVC](https://github.com/developit/preact-todomvc)  -TodoMVC已在Preact中完成. 小于6kb，速度很快.
+- [TodoMVC](https://github.com/developit/preact-todomvc)  -TodoMVC已在Preact中完成. 小于6kb，且速度很快.
 - [Colors App](https://github.com/lukeed/colors-app)  -PWA用于复制流行调色板中的值. 支持HEX，RGB和HSL格式.
 - [Tracks](https://github.com/jordic/tracks_preact/)  -PWA一般用于跟踪事物.  Gdrive同步.
 - [Hueify](https://github.com/kvartborg/hueify) -飞利浦色相灯的简单控制器.
