@@ -122,7 +122,7 @@
 * [CleanArchitecture (SPA)](https://github.com/JasonGT/CleanArchitecture) -解决方案模板，用于按照“干净架构”的原理使用Angular 8和ASP.NET Core 3创建单页应用（SPA）
 * [DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate) -基于的样板项目模板 [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore)
 * [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju)  -具有出色架构风格的dotnet新模板！ 提高生产力，以基于六边形，干净或事件来源的体系结构样式设计分层的应用程序. 它支持多种数据访问框架（MongoDB，EntityFramework，Dapper或Kafka），并且是完全可测试的.
-* [EISK](https://github.com/EISK/eisk.webapi) -为开发人员资源提供简单的用例，以在.NET Core的基础上构建可扩展的应用程序， [architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures) （DDD，洋葱架构等）
+* [EISK](https://github.com/EISK/eisk.webapi) -为开发人员资源提供简单的用例，以在.NET Core的基础上构建可扩展的应用程序 [architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures) （DDD，洋葱架构等）
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) -Microsoft ASP.NET Core JavaScript服务.
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) -一个基于jQuery的HTML5小部件库，用于构建现代Web应用程序. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
 * [QuickApp](https://github.com/emonney/QuickApp) -具有完整登录，用户和角色管理的ASP.NET Core / Angular4启动项目模板.
@@ -327,7 +327,7 @@
 ### Exceptions
 * [Demystifier](https://github.com/benaadams/Ben.Demystifier) -对堆栈跟踪的高性能了解（使错误日志更高效）.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) -出色的.NET客户端
-* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) -GlobalExceptionHandlerDotNet允许您将ASP.NET Core应用程序管道中的异常处理配置为约定，而不是在每个控制器操作中显式处理它们.
+* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) -GlobalExceptionHandlerDotNet允许您将异常处理配置为与ASP.NET Core应用程序管道的约定，而不是在每个控制器动作中显式处理它们.
 * [Sentry](https://github.com/getsentry/sentry-dotnet) -.NET SDK for Sentry，这是一个开放源代码错误跟踪，可以帮助开发人员实时监控和修复崩溃.
 
 ### Functional Programming
@@ -385,7 +385,7 @@
 ### IOC
 * [AutoDI](https://github.com/Keboo/AutoDI) -使用IL编织的超快速编译时依赖项注入.
 * [Autofac](https://github.com/autofac/Autofac) -上瘾的.NET IoC容器.
-* [Castle.Windsor](https://github.com/castleproject/Windsor) 温莎城堡（Castle Windsor）是可用于.NET的同类最佳，成熟的Inversion of Control容器.
+* [Castle.Windsor](https://github.com/castleproject/Windsor) 温莎城堡是可用于.NET的同类最佳，成熟的Inversion of Control容器.
 * [DryIoc](https://github.com/dadhi/DryIoc) -用于.NET的快速，小型，功能齐全的IoC容器.
 * [Grace](https://github.com/ipjohnson/Grace) -Grace是一个功能丰富的依赖注入容器，在设计时考虑了易用性和性能.
 * [Inyector](https://github.com/davidrevoledo/Inyector) -AspNetCore的依赖注入自动化
@@ -436,7 +436,7 @@
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 * [SmtpServer](https://github.com/cosullivan/SmtpServer) -创建您自己的SMTP服务器的库.
-* [StrongGrid](https://github.com/Jericho/StrongGrid)  -SendGrid v3 API的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人，管理列表和细分，为列表创建自定义字段等.还包括一个用于SendGrid Webhooks的解析器.
+* [StrongGrid](https://github.com/Jericho/StrongGrid)  -SendGrid v3 API的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人，管理列表和细分，为列表创建自定义字段等.还包括一个SendGrid Webhooks解析器.
 
 ### Mathematics
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) -用于.NET Core和.NET Framework的可扩展单元转换库.
@@ -509,7 +509,7 @@
   * [FormHelper](https://github.com/SinanBozkus/FormHelper)  -ASP.NET Core的表单和验证帮助器. 表单助手可帮助您创建Ajax表单和验证，而无需编写任何JavaScript代码.  （与流利验证兼容）.
   * [Guard](https://github.com/safakgur/guard) -高性能，可扩展的参数验证库.
   * [Valit](https://github.com/valit-stack/Valit)  -对.NET Core的简单验证. 您的代码周围不再有if语句. 改写漂亮干净的流利的验证器！
-* [Vanara](https://github.com/dahall/Vanara) -一组用于Windows的.NET库，通过支持的包装程序实现对许多本机Windows API的PInvoke调用.
+* [Vanara](https://github.com/dahall/Vanara) -一组用于Windows的.NET库，通过支持的包装程序实现了对许多本机Windows API的PInvoke调用.
 * [warden-stack](https://github.com/warden-stack)  -针对您的应用程序，资源和基础架构的“运行状况检查”. 保持您的守望者在手表上.
 * [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) -ASP.NET Core渐进式Web应用程序.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
@@ -574,6 +574,7 @@
 
 ### Queue and Messaging
 * [emitter](https://emitter.io/)  -连接所有设备的免费开源实时消息服务. 此发布-订阅消息传递API是为提高速度和安全性而构建的.
+* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) -一个易于使用的.NET API for RabbitMQ.
 * [EventStore](https://github.com/EventStore/EventStore) -具有JavaScript中复杂事件处理功能的开源功能数据库.
 * [Foundatio](https://github.com/exceptionless/Foundatio#queues) -具有内存，redis和azure实现的通用接口.
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET.
@@ -722,7 +723,7 @@
 * [NuKeeper](https://github.com/NuKeeperDotNet/NuKeeper) -自动更新.NET项目中的nuget软件包.
 * [NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) -使用GUI创建，更新和部署Nuget软件包.
 * [NugetVisualizer](https://github.com/sepharg/NugetVisualizer) -为一组给定的git存储库或文件夹可视化所有nuget软件包及其对应的版本.
-* [OctoLinker](https://github.com/OctoLinker/browser-extension) -使用适用于GitHub的OctoLinker浏览器扩展，有效浏览`projects.json`文件.
+* [OctoLinker](https://github.com/OctoLinker/browser-extension) -使用GitHub的OctoLinker浏览器扩展有效浏览`projects.json`文件.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) -的“ PowerShell”标签完成 [dotnet CLI](https://github.com/dotnet/cli).
 * [Rin](https://github.com/mayuki/Rin)  -用于ASP.NET Core的请求/响应检查器中间件. 像Glimpse.
 * [scoop](https://github.com/lukesampson/scoop) -Windows的命令行安装程序.
@@ -810,7 +811,7 @@
   * [GenVue](https://github.com/herbat73/GenVue) -一个可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈的私有文件
   * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) -如何使用Azure Active Directory进行身份验证在Microsoft Azure上的多租户应用程序中管理用户身份.
   * [JustA.ML](https://github.com/mustakimali/JustA.ML)  -一个Web应用程序，可让您在用ASP.NET Core 2.0编写的设备之间共享文件/ URL /文本. 开源，生活在 [https://justa.ml](https://justa.ml)
-  * [MegaMine](https://github.com/Nootus/MegaMine) -开源采矿解决方案，可帮助矿工提取金，石英，花岗岩等.此解决方案使用ASP.NET Core和AngularJS构建，并通过微服务方式利用多个轻量级组件.
+  * [MegaMine](https://github.com/Nootus/MegaMine) -开源采矿解决方案，可帮助矿工提取金，石英，花岗岩等.此解决方案使用ASP.NET Core和AngularJS构建，并以微服务的方式利用多个轻量级组件.
   * [MusicStore](https://github.com/dotnet/aspnetcore/tree/master/src/MusicStore) -使用MVC和实体框架的示例MusicStore应用程序.
   * [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) -具有.NET Core Preview 2的NLayerAppV3 N层体系结构.
   * [NorthwindTraders](https://github.com/JasonGT/NorthwindTraders) -Northwind Traders是使用ASP.NET Core和Entity Framework Core构建的示例应用程序.

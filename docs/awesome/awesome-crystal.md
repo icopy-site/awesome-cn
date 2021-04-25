@@ -70,6 +70,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## CLI Utils
  * [climate](https://github.com/Sija/climate.cr) -微小的工具，可让您的CLI输出变色
+ * [coin](https://github.com/caian-org/coin) -通过命令行执行货币转换的命令行应用程序 [Fixer API](https://fixer.io)
  * [cride](https://github.com/j8r/cride) -轻量级的CLI文本编辑器/ IDE
  * [lff](https://github.com/mkdika/lff-cr) -命令行中简单明了的大文件查找器实用程序
  * [oq](https://github.com/Blacksmoke16/oq)  -高性能，可移植的jq包装器，以方便使用和输出JSON以外的其他格式； 使用 [jq](https://github.com/stedolan/jq) 过滤器以转换数据.
@@ -160,7 +161,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [carbon](https://github.com/luckyframework/carbon) -有趣，可测试且基于适配器的电子邮件库
  * [crystal-email](https://github.com/arcage/crystal-email) -简单的电子邮件发送库
  * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) -符合RFC的电子邮件验证器
- * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) -简单的Sendgrid客户
+ * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
 
 ## Environment Management
  * [asdf-crystal](https://github.com/marciogm/asdf-crystal) -用于asdf版本管理器的插件
@@ -201,7 +202,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Iu](https://github.com/grkek/iu) -基于的UI框架 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有来自的自定义元素和修改的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) -解析DOCX Word
@@ -259,7 +260,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [aasm.cr](https://github.com/veelenga/aasm.cr) -易于使用的有限状态机用于Crystal类
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) -具有更好JSON :: Any的递归哈希
  * [anyolite](https://github.com/Anyolite/anyolite) -具有简单绑定的完整mruby解释器，允许在项目中轻松编写脚本
- * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Croc，CNPJ和CEP等巴西Burocracia的可靠的碎片
+ * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Burocracias（例如CPF，CNPJ和CEP）的毫无依赖的碎片
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
@@ -341,7 +342,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Scheduling
  * [crystime](https://gitlab.com/crystallabs/crystime) -高级时间，日历，时间表和提醒库
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) -执行定期任务
- * [tasker](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+ * [tasker](https://github.com/spider-gazelle/tasker) -包括时区感知的cron作业在内的高精度调度程序
 
 ## Science and Data analysis
  * [alea](https://github.com/nin93/alea) -可重复采样，CDF和其他实用程序以处理概率分布
@@ -517,5 +518,5 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [scry](https://github.com/crystal-lang-tools/scry) -用于Crystal实现代码分析的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins
- * [crun](https://github.com/Val/crun) - Crystal Run : shebang wrapper for Crystal
+ * [crun](https://github.com/Val/crun) -Crystal Run：shebang水晶包装纸
  * [crystal-zsh](https://github.com/veelenga/crystal-zsh) -.oh-my-zsh插件

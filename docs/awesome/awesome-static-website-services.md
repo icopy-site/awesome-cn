@@ -30,7 +30,7 @@
 ## Images
 
 - [Flickr](https://www.flickr.com/) -Yahoo在线照片托管.
-- [Cloudinary](https://cloudinary.com/) -图片托管，操作和交付.
+- [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
 
 ## Maps
 
@@ -71,6 +71,7 @@
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) -他们BlueMix托管平台和开放源代码的一部分，与它们的Watson AI生态系统很好地联系在一起
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/)  -使用您选择的语言编写功能即服务，并将其部署到全球数据中心网络. 所有网络，包括智能路由和负载平衡，都由StackPath通过专用骨干网进行管理.
 - [Zeit Now](https://zeit.co/now#features) -Zeit Now使人们可以使用他们选择的语言编写功能即服务，并作为monorepo的一部分进行部署.
+- [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#features) -全栈静态应用托管，包括无服务器功能，身份验证，CDN等
 
 ## GraphQL
 
@@ -80,7 +81,7 @@
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的网站在每次推送到GitHub时自动部署，如GitHub Pages，Netlify和其他网站上所示.
+- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的站点在每次推送到GitHub时自动部署，如GitHub Pages，Netlify等上所示.
 - [Disqus](https://disqus.com/) -带有嵌套回复，多种登录方法和电子邮件通知的易于嵌入的注释.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -Facebook为您的网站嵌入的评论.
 - [IntenseDebate Comments](http://www.intensedebate.com/) -具有嵌套回复，多种登录方法和电子邮件通知的可嵌入评论.
@@ -94,11 +95,11 @@
 #### Really Simple Forms
 
 - [Formspree](http://formspree.io/) -从您的静态网站上的表单接收电子邮件.
-- [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
-- [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
+- [elFormo](https://www.elformo.com/) -简单的表格处理和通过电子邮件的回复检索.
+- [Flipmail](http://flipmail.co/) -简单的表格处理和通过电子邮件的回复检索.
 - [MailThis](http://mailthis.to/) -通过电子邮件以可选附件的形式提交简单表格.
 - [Simple Form](https://getsimpleform.com/) -带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
-- [Brisk Forms](https://github.com/stevensona/briskforms) -免费表单提交服务通过电子邮件发送回复，同时保持电子邮件地址的私密性，并且是开源的.
+- [Brisk Forms](https://github.com/stevensona/briskforms) -免费表单提交服务通过电子邮件发送您的回复，同时保持电子邮件地址的私密性，并且是开源的.
 - [99 Inbound](https://www.99inbound.com) -通过电子邮件/闲置通知和第三方应用程序集成（例如MailChimp）形成端点服务
 - [Getform](http://getform.io/) -通过电子邮件和集成为设计人员和开发人员提供表单后端平台.
 - [Form.taxi](https://form.taxi/) -后端通过电子邮件通知，文件上传和符合GDPR的数据处理功能，轻松，可靠地处理表单提交.
@@ -220,6 +221,7 @@ Self-hosted:
 ## Related Lists
 
 - [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting)
+- [Awesome Azure Static Web Apps](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ----
 

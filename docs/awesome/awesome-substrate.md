@@ -32,7 +32,7 @@
   奇偶校验赞助的链.
 - [`subport`](https://github.com/paritytech/subport/issues) -支持资料库.
 - [Parity Blog](https://www.parity.io/blog/) -了解底物生态系统中的更新.
-- [Parity Events](https://www.parity.io/events/) - 即将举行的活动.
+- [Parity Events](https://www.parity.io/events/) - 接下来的活动.
 - [Twitter](https://twitter.com/substrate_io) -跟着我们保持最新.
 - [Polkassembly](https://polkassembly.io/) -在草间和波卡多上进行讨论和投票的地方
   治理.
@@ -59,7 +59,7 @@
 - [UTXO Workshop](https://github.com/substrate-developer-hub/utxo-workshop) -使用底物
   实施类似比特币的链.
 - [Cumulus Wokshop](https://substrate.dev/cumulus-workshop/#/) -使用Cumulus建立平行链.
-- [Enterprise Sample](https://github.com/substrate-developer-hub/substrate-enterprise-sample) - 一个
+- [Enterprise Sample](https://github.com/substrate-developer-hub/substrate-enterprise-sample) - 一种
   功能齐全的样本，使用供应链用例来展示Substrate丰富
   能力.
 
@@ -80,11 +80,12 @@
   [Stateless.Money](https://www.stateless.money/).
 - [Substrate Migrations](https://github.com/apopiak/substrate-migrations) -过去的运行时列表
   带有注释和示例的存储迁移.
+- [OnFinality](https://onfinality.io) -对基于共享的Substrate的存档节点的免费和公共API服务.
 
 ### Community Resources - Guides
 
 - [Build Substrate in a few minutes at a low cost](https://medium.com/@yangWao/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066) - 指导
-  使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 到
+  使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 至
   减少基材的建造时间； 由Substrate社区成员撰写 [Matej Nemček](https://medium.com/@yangWao).
 
 ## Frameworks
@@ -93,7 +94,7 @@
   构建底物运行时.
 - [ink!](https://github.com/paritytech/ink) -适用于底物链的智能合约语言.
 - [Cumulus](https://github.com/paritytech/cumulus) -简化的兼容Polkadot的平行链.
-- [Bridges](https://github.com/paritytech/parity-bridges-common) - A collection of tools for
+- [Bridges](https://github.com/paritytech/parity-bridges-common) -一系列工具
   跨链通信.
 - [Frontier](https://github.com/paritytech/frontier) -基板的端到端以太坊仿真
   链.
@@ -129,7 +130,8 @@
   开发链的资源.
 - [Commodities](https://github.com/danforbes/pallet-nft) -定义和实现不可替代
   令牌接口.
-- [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) -Chainlink进给托盘和示例节点，显示了如何集成到基板链.
+- [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) -Chainlink Feed托盘和示例节点
+  展示了如何与底物链整合.
 
 ## Client Libraries
 
@@ -193,11 +195,11 @@
   [IPFS](https://ipfs.io/).
 - [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) -一套用于
   通过快速旋转和拆卸来管理由基质驱动的平行链网络.
-- [Redspot](https://github.com/patractlabs/redspot) - 一个
+- [Redspot](https://github.com/patractlabs/redspot) - 一种
   [Truffle](https://www.trufflesuite.com/truffle)类似工具，用于FRAME的智能合约
   合同托盘.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) -一个示范
-  建立在Substrate原语上的安全，方便和灵活的热钱包架构.
+  secure, convenient, and flexible hot wallet architecture built on Substrate primitives.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) -基于Python的水龙头
   发展宗旨.
 - [Hydra](https://github.com/Joystream/hydra) -用于底物节点的GraphQL框架
@@ -205,6 +207,8 @@
   [docs](https://github.com/Joystream/hydra/tree/master/docs).
 - [Substrate Graph](https://github.com/playzero/substrate-graph) -用于的GraphQL索引器
   基于基质的链.
+- [SubQuery](https://subquery.network) -GraphQL索引器和查询服务，使用户能够
+   轻松创建索引数据源并免费在线托管它们.
 - [Megaclite](https://github.com/patractlabs/megaclite) -Polkadot的零知识工具
   生态系统.
 - [Europa](https://github.com/patractlabs/europa) -用于Substrate运行时执行的沙箱

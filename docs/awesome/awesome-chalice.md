@@ -163,6 +163,7 @@
 - [Awesome Lambda Layers](https://github.com/mthenw/awesome-layers)
 - [Awesome AWS Research](https://github.com/randyridgley/awesome-aws-research#readme)
 - [Awesome AWS Security](https://github.com/jassics/awesome-aws-security)
+- [AWS Security Arsenal](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 - [Awesome Cloud Security](https://github.com/RyanJarv/awesome-cloud-sec#readme)
 - [AWSome Websites](https://github.com/StanForever/AWSome-websites)
 - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)

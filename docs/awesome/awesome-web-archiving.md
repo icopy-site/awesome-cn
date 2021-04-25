@@ -83,6 +83,7 @@
 ### Search & Discovery
 
 * [Mink](https://github.com/machawk1/mink) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/) 扩展，用于在浏览和集成实时存档的Web导航时查询Memento聚合器.  *（稳定的）*
+* [playback](https://github.com/wabarc/playback) -用于从中搜索已存档网页的工具包 [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) 超越.  *（开发中）*
 * [SecurityTrails](https://securitytrails.com/)  -用于WHOIS和DNS记录的基于Web的存档.  REST API是免费提供的. 
 * [Tempas v1](http://tempas.L3S.de/v1) -基于以下内容的时间Web存档搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ）标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) -基于1996年至2013年从德国网络中提取的链接和锚文本对时间网络档案进行搜索（结果不限于德语页面，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ）.  *（稳定的）*
@@ -116,11 +117,11 @@
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz)  -用于级联GZIP文件（和`* .warc.gz`）的可拆分Hadoop InputFormat.  *（稳定的）*
 * [jwarc](https://github.com/iipc/jwarc) -使用类型安全API（Java）读写WARC文件.
 * [Jwat](https://sbforge.org/display/JWAT/JWAT)  -用于读取/写入/验证WARC / ARC / GZIP文件（Java）的库和工具.  *（稳定的）*
-* [node-warc](https://github.com/N0taN3rd/node-warc) -解析WARC文件或使用以下任一文件创建WARC文件 [Electron](https://electron.atom.io/) or [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （Node.js）.  *（稳定的）*
+* [node-warc](https://github.com/N0taN3rd/node-warc) -解析WARC文件或使用以下任一文件创建WARC文件 [Electron](https://electron.atom.io/) 或者 [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （Node.js）.  *（稳定的）*
 * [Warcat](https://github.com/chfoo/warcat)  -用于处理Web ArChive（WARC）文件（Python）的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) -流式WARC / ARC库，用于快速Web归档IO（Python）.
 * [warctools](https://github.com/internetarchive/warctools) -与ARC和WARC文件一起使用的库（Python）.
-* [webarchive](https://github.com/richardlehane/webarchive) -ARC和WARC Web存档格式（Golang）的Golang阅读器.
+* [webarchive](https://github.com/richardlehane/webarchive) -用于ARC和WARC Web存档格式（Golang）的Golang阅读器.
 
 ### Analysis
 
@@ -160,7 +161,7 @@
 * [IIPC Blog](https://netpreserveblog.wordpress.com/)
 * [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) -的Web归档圆桌会议的非官方博客 [Society of American Archivists](https://www2.archivists.org/) 由Web归档圆桌会议的成员维护.
 * [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) -一本开放源代码的书，提供了有关Web归档研究以及一些案例研究的概念性概述.
-* [WS-DL Blog](https://ws-dl.blogspot.com/) -Web科学和数字图书馆研究小组的博客，涉及各种与Web归档相关的主题，学术工作和学术旅行报告.
+* [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archining related topics, scholarly work, and academic trip reports.
 * [DSHR's Blog](https://blog.dshr.org/) -大卫·罗森塔尔（David Rosenthal）定期审查并总结在“数字保存”领域所做的工作.
 * [UK Web Archive Blog](https://blogs.bl.uk/webarchive/)
 
