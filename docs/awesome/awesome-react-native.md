@@ -336,7 +336,7 @@ Workshops - May 12th-13th, 2020
 * [react-native-masked-text ★392](https://github.com/benhurott/react-native-masked-text) -用于React Native的简单蒙版文本和输入文本组件.
 * [react-native-accordion ★390](https://github.com/naoufal/react-native-accordion) -React Native的手风琴组件
 * [react-native-invertible-scroll-view ★388](https://github.com/exponentjs/react-native-invertible-scroll-view) -用于React Native的可逆ScrollView
-* [react-native-message-bar ★384](https://github.com/KBLNY/react-native-message-bar) -一个模块，用于通过屏幕顶部/底部的动画消息栏呈现通知，高度可定制，用于React Native（Android和iOS）项目.
+* [react-native-message-bar ★384](https://github.com/KBLNY/react-native-message-bar) -一个模块，用于通过屏幕顶部/底部的动画消息栏显示通知，高度可定制，用于React Native（Android和iOS）项目.
 * [react-native-fit-image ★383](https://github.com/huiseoul/react-native-fit-image) -自适应图像组件，非常适合自己.
 * [react-native-text-input-mask ★383](https://github.com/ivanzotov/react-native-text-input-mask) -适用于Android和iOS的文本输入掩码，本机实现RedMadRobot库
 * [react-native-alphabetlistview ★372](https://github.com/sunnylqm/react-native-alphabetlistview) -一个带有侧边栏的ListView，可基于johanneslumpe的react-native-selectablesectionlistview直接跳转到各个部分
@@ -670,7 +670,7 @@ Workshops - May 12th-13th, 2020
 * [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) -一个React Native Loader组件，使用Airbnb的Lottie制作漂亮的加载器动画.
 * [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) -React-Native组件可为Android和IOS输入确认代码
 * [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) -响应本机模块以选择项目选择器模态.
-* [rn-material-textinput](https://github.com/akshit5230/React-Native-Material-TextInput) -一个简单的TextInput包装器，可在iOS和Android中使用可自定义的样式和Animated标签对材料进行样式设置.
+* [rn-material-textinput](https://github.com/akshit5230/React-Native-Material-TextInput) -一个简单的TextInput包装器，可在iOS和Android中使用可自定义的样式和Animated标签进行材料样式设置.
 * [rn-action-picker](https://github.com/akshit5230/rn-action-picker)  -适用于iOS和Android的简单动作选择器. 呈现iOS中的本机ActionSheetIOS组件和Android中的自定义ActionSheet相似组件.
 * [rn-collapsible-section](https://github.com/akshit5230/React-Native-Collapsible-Section)  -具有可自定义的节体和子正文的可折叠节/节列表. 同时支持iOS和Android.
 * [view-on-steroids](https://github.com/vko-online/pane) -具有内联样式的React-Native View组件
@@ -716,7 +716,7 @@ Workshops - May 12th-13th, 2020
 * [react-native-simple-slider ★3](https://github.com/NesChaiyapon/react-native-simple-slider) -这是一个用于响应本机的简单javascript滑块组件
 * [react-native-header-scroll-view ★3](https://github.com/jonsamp/react-native-header-scroll-view) -iOS风格的大标题滚动视图.
 * [react-native-navigation-buttons ★2](https://github.com/shayne/react-native-navigation-buttons) -React Native Navigator的iOS导航按钮
-* [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) -一个React Native组件，可在所需组件上显示热点，以帮助引导您的用户完成入职流程或将他们引导至新的UI元素
+* [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) -一个React Native组件，在所需组件上显示热点，以帮助引导您的用户完成入门流程或将他们引导至新的UI元素
 * [react-native-pointer-interactions ★2](https://github.com/thefunbots/react-native-pointer-interactions) -将iPad鼠标和触控板的交互功能暴露给React Native. 
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) -react-native的自定义导航栏
 * [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) -支持小吃店，横幅和对话框的应用内消息编排
@@ -763,7 +763,7 @@ Workshops - May 12th-13th, 2020
 
 ### Analytics
 
-* [react-native-fabric ★1097](https://github.com/corymsmith/react-native-fabric) -一个针对本机的Fabric，Crashlytics和Answers的React本机库
+* [react-native-fabric ★1097](https://github.com/corymsmith/react-native-fabric) -用于结构，崩溃和答案的React Native库
 * [react-native-google-analytics-bridge ★1071](https://github.com/idehub/react-native-google-analytics-bridge)  -适用于React Native的本机Google Analytics（分析）桥梁. 使用iOS和Android上的官方库.
 * [react-native-google-analytics ★325](https://github.com/lwansbrough/react-native-google-analytics) -适用于React Native的Google Analytics（分析）！
 * [react-native-mixpanel ★307](https://github.com/davodesign84/react-native-mixpanel) -用于Mixpanel跟踪的React Native包装器
@@ -913,7 +913,7 @@ Workshops - May 12th-13th, 2020
 * [react-native-keychain ★992](https://github.com/oblador/react-native-keychain) -React Native的钥匙串访问
 * [react-native-touch-id ★902](https://github.com/naoufal/react-native-touch-id) -使用本地Touch ID弹出窗口来响应本地身份验证.
 * [react-native-contacts ★882](https://github.com/rt2zz/react-native-contacts) -反应本机联系人（android＆ios）
-* [react-native-communications ★871](https://github.com/anarchicknight/react-native-communications) -在React Native中轻松呼叫，发送电子邮件，发送短信或向iMessage发送消息
+* [react-native-communications ★871](https://github.com/anarchicknight/react-native-communications) -在React Native中轻松地打电话，发电子邮件，发短信或向iMessage发送消息
 * [react-native-onesignal ★871](https://github.com/geektimecoil/react-native-onesignal) -用于OneSignal推送通知服务的React Native库（iOS + Android）
 * [react-native-in-app-utils ★743](https://github.com/chirag04/react-native-in-app-utils) -用于处理应用内付款的React-native包装器.
 * [react-native-image-resizer ★636](https://github.com/bamlab/react-native-image-resizer) -使用React Native重新缩放本地图像文件.
@@ -990,7 +990,7 @@ Workshops - May 12th-13th, 2020
 * [react-native-webview-bridge ★1112](https://github.com/alinz/react-native-webview-bridge) -React Native WebView Javascript Bridge
 * [react-native-safari-view ★387](https://github.com/naoufal/react-native-safari-view) -Safari View Controller的React Native包装器
 * [react-native-webview-android ★305](https://github.com/lucasferreira/react-native-webview-android) -简单的React Native Android模块可在您的应用程序中使用Android的WebView
-* [react-native-for-web ★247](https://github.com/KodersLab/react-native-for-web)  -一组类和React组件，可在浏览器中使您的react-native应用程序正常工作.  （显然有一些限制）
+* [react-native-for-web ★247](https://github.com/KodersLab/react-native-for-web)  -一组类和React组件，以使您的本地应用在浏览器中正常工作.  （显然有一些限制）
 * [react-native-browser ★107](https://github.com/PrestoDoctor/react-native-browser) -基于TOWebViewController的功能齐全的Web浏览器模块，用于React Native应用
 * [react-native-webview-crosswalk ★88](https://github.com/jordansexton/react-native-webview-crosswalk) -Android上用于React Native的Crosswalk的WebView
 * [react-native-turbolinks ★72](https://github.com/lazaronixon/react-native-turbolinks) -React Native适配器，用于使用Turbolinks 5构建混合应用程序
@@ -1123,7 +1123,7 @@ Workshops - May 12th-13th, 2020
 * [react-native-android-vitamio ★72](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
 * [react-native-linkedin-login ★69](https://github.com/jodybrewster/react-native-linkedin-login) -Linkedin登录以响应本机应用程序
 * [react-native-twitter-signin ★140](https://github.com/GoldenOwlAsia/react-native-twitter-signin) -使用客户端Twitter帐户登录以响应您的本机应用程序
-* [react-native-spring-scrollview ★64](https://github.com/bolan9999/react-native-spring-scrollview) -React Native Spring ScrollView V2是用于React Native的高性能跨平台原生ScrollView弹跳（iOS和Android）
+* [react-native-spring-scrollview ★64](https://github.com/bolan9999/react-native-spring-scrollview) -React Native Spring ScrollView V2是适用于React Native的高性能跨平台原生ScrollView滚动（iOS和Android）
 * [react-native-instagram-oauth ★63](https://github.com/watzak/react-native-instagram-oauth) -react-native instagram登录
 * [react-native-digits ★60](https://github.com/fixt/react-native-digits) -在React Native中使用的数字包装器
 * [react-native-realtimemessaging-android ★53](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) -适用于React-Native Android的Realtime Framework Cloud Messaging发布/订阅客户端
@@ -1257,7 +1257,7 @@ Useful React Native tooling.
 * [Rhinos-app ★81](https://github.com/rhinos-app/rhinos-app-dev) -建立在react-native-web上的跨平台React Native样板（iOS，Android，Web）.
 * [react-native-web-boilerplate ★72](https://github.com/agrcrobles/react-native-web-boilerplate) -React-native-web无状态hmr样板
 * [react-native-boilerplate ★61](https://github.com/pcofilada/react-native-boilerplate) -使用React Native和Redux进行移动开发的简单样板
-* [react-native-easy-starter ★50](https://github.com/HarishJangra/react-native-easy-starter) -使用最新的react和react-native的React-native入门工具包 [0.60.5](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#v0605)，轻松状态管理，挂钩工作流程，hermes，codepush即用型自定义挂钩，react-native-paper，contextapi，主题支持等（android + ios）
+* [react-native-easy-starter ★50](https://github.com/HarishJangra/react-native-easy-starter) -使用最新的react和react-native的React-native入门工具包 [0.60.5](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#v0605)，轻松状态管理，挂钩工作流，hermes，codepush即用型自定义挂钩，react-native-paper，contextapi，主题支持等（android + ios）
 * [react-native-web-workspace ★58](https://github.com/agrcrobles/react-native-web-workspace) -在monorepo中进行反应的跨平台应用程序
 * [🍞 Baker ★46](http://baker.thebakery.io/) -坚定的MVP工具包，可帮助您使用React Native和Parse Server快速构建疯狂的移动应用程序
 * [React-Native-Starter-Pack ★40](https://github.com/iSimar/React-Native-Starter-Pack) -React Native 0.34 + React-Redux（带有Redux-Storage）+ Native Base +代码推送
@@ -1281,7 +1281,7 @@ Useful React Native tooling.
 * [Shoutem UI ★3802](https://github.com/shoutem/ui) -适用于Shoutem的React Native的完整UI工具包.
 * [Panza ★243](https://github.com/bmcmahen/panza) -用于本机的无状态，功能性，跨平台的ui组件的集合.
 * [BlankApp UI ★78](https://github.com/blankapp/ui) -React Native的高度可定制和主题化组件.
-* [react-native-easy-app ★82](https://github.com/chende008/react-native-easy-app) -React Native一站式解决方案.
+* [react-native-easy-app ★220](https://github.com/chende008/react-native-easy-app) -React Native一站式解决方案.
 * [React Native Common ★49](https://github.com/rghorbani/react-native-common) -用于React Native的UI和API组件库.
 * [react-native-colibri ★5](https://github.com/nidorx/react-native-colibri) -响应本机通用UI组件.
 * [Statek ★3](https://statek.dev) -用于React＆React Native的简单和反应状态管理库
@@ -1372,10 +1372,10 @@ Useful React Native tooling.
 * [Premier League ★25](https://github.com/ennioma/react-native-premier-league)
 * [Roxie ★23](https://github.com/venepe/react-native-roxie) -声音处理和蓝牙硬件控制.
 * [Roverz ★21](https://github.com/mongrov/roverz) -适用于iOS和Android的Rocket.Chat的本机移动聊天客户端库.
-* [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) -适用于MMS文本爆破应用程序的iOS客户端，具有类似功能 [ionic version](https://github.com/SeshApp/text-blast-ionic) 为了比较
+* [Text Blast ★18](https://github.com/SeshApp/text-blast-react-native) -适用于MMS文本爆炸应用程序的iOS客户端，具有类似功能 [ionic version](https://github.com/SeshApp/text-blast-ionic) 为了比较
 * [NewYorkTimesTopStories ★14](https://github.com/vidyuthd/NYTimesTopStories-React-Native) -使用react-native为android编写的api阅读NewYorkTimes的Topstories.
 * [Quick-Sample ★14](https://github.com/innFactory/react-native-quick-sample) -一个小而简单的示例应用程序，具有导航，数据持久性，redux，listview和动画.
-* [iGap Plus ★13](https://github.com/RooyeKhat-Media/iGap-Plus)  -iGap +是跨平台的消息传递应用程序（当前为Android，iOS和Windows UWP），并使用所有最新的现代技术创建.  iGap +旨在轻松支持Web，macOS和linux等其他平台.
+* [iGap Plus ★13](https://github.com/RooyeKhat-Media/iGap-Plus)  -iGap +是跨平台的邮件应用程序（当前为Android，iOS和Windows UWP），并使用所有最新的现代技术创建.  iGap +旨在轻松支持Web，macOS和linux等其他平台.
 * [Posters_Galore_Android ★11](https://github.com/marmelab/Posters_Galore_Android) -使用Redux和REST API的实验性Android应用程序
 * [react-native-medium-clap-animation ★11](https://github.com/saketkumar95/react-native-medium-clap-animation) -React Native中的中拍动画
 * [HupuApp ★9](https://github.com/MelonRice/ReactNative-HupuJRS)  -第三方Hupu应用程式（<http://bbs.hupu.com/>  ）客户端使用React Native（Android和iOS）实现.
@@ -1401,7 +1401,7 @@ Useful React Native tooling.
 * [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) -针对github gist的React本机移动应用程序
 * [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) -简约和时尚的歌词搜索应用程序.
 * [TensorFlow.js Starter](https://github.com/t73liu/tfjs-starter) -使用MobileNet预测图像类别的TensorFlow.js入门应用程序. [Blog post](https://t73liu.github.io/posts/experimenting-with-tfjs/) 以获得更多背景信息.
-* [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) -浏览无尽的哈佛美术馆收藏.
+* [Art Museum](https://github.com/pedrobern/react-native-art-museums-app) -浏览无尽的哈佛艺术博物馆藏品.
 * [NMF.earth ★14](https://github.com/NotMyFaultEarth/nmf-app)  -计算，了解并减少您的碳足迹. 适用于Android和iOS，可使用Expo，Redux Toolkit和Typescript.
 * [Nyxo ★12](https://github.com/hello-nyxo/nyxo-app)  -睡眠跟踪器和睡眠教练应用程序. 适用于Android和iOS.
 * [Post Card App ★1](https://github.com/adarsh0d/postcardApp)  -创建旧风格的明信片，并在whatsapp上共享为图像. 内置Expo，可用于android.

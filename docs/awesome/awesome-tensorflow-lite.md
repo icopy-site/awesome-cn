@@ -97,7 +97,7 @@
 * [Tensorflow detection model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) -在COCO，KITTI，AVA v2.1，iNaturalist Species数据集上进行了预训练.
 
 ## Ideas and Inspiration
-* [E2E TFLite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials)  -签出此仓库以获取示例应用创意，并为您的教程项目寻求帮助. 一旦项目完成，TensorFlow Lite模型，示例代码和教程的链接将被添加到这个很棒的列表中.
+* [E2E TFLite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials)  -签出此仓库以获取示例应用程序构想，并为您的教程项目寻求帮助. 一旦项目完成，TensorFlow Lite模型，示例代码和教程的链接将被添加到这个很棒的列表中.
 
 ## ML Kit examples
 [ML Kit](https://developers.google.com/ml-kit) 是一种移动SDK，可将Google的ML专业知识带给移动开发人员.
@@ -146,7 +146,9 @@
 * 2018-03-30 - [Using TensorFlow Lite on Android](https://blog.tensorflow.org/2018/03/using-tensorflow-lite-on-android.html)）-劳伦斯·莫罗尼（Laurence Moroney）.
 
 ### Books
-* 2020-04-06 [Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter](https://www.packtpub.com/product/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/9781789611212)：构建可扩展的现实世界项目，以在Android和iOS上实现端到端的神经网络（[GitHub](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects)）-Anubhav Singh（[@xprilion](https://github.com/xprilion)）和Rimjhim Bhadan[@Rimjhim28](https://github.com/Rimjhim28)).
+* 2021-12-01 [AI and Machine Learning On-Device Development](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/) （早期访问）-劳伦斯·莫罗尼（Laurence Moroney（[@lmoroney](https://twitter.com/lmoroney)).
+* 2020-10-01 [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) -劳伦斯·莫罗尼（Laurence Moroney）（[@lmoroney](https://twitter.com/lmoroney)).
+* 2020-04-06 [Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter](https://www.packtpub.com/product/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/9781789611212)：构建可扩展的现实世界项目，以在Android和iOS上实现端到端的神经网络（[GitHub](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects)）-Anubhav Singh（[@xprilion](https://github.com/xprilion)）和Rimjhim Bhadani（[@Rimjhim28](https://github.com/Rimjhim28)).
 * 2019-12-01 [TinyML](http://shop.oreilly.com/product/0636920254508.do) -皮特·沃登（Pete Warden）（[@petewarden](https://twitter.com/petewarden)）和Daniel Situnayake（[@dansitu](https://twitter.com/dansitu)).
 * 2019-10-01 [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.practicaldeeplearning.ai/) -通过Anirudh Koul（[@AnirudhKoul](https://twitter.com/AnirudhKoul)), Siddha Ganju ([@SiddhaGanju](https://twitter.com/SiddhaGanju)）和Meher Kasam（[@MeherKasam](https://twitter.com/MeherKasam)).
 

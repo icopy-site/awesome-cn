@@ -3,7 +3,7 @@
 很棒的飞镖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
-精选的Dart框架，库和软件的精选列表. 列表中的项目会得到积极维护，有据可查，在Dart社区中很受欢迎. 受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
+精选的Dart框架，库和软件的精选列表. 列表中的项目会得到积极维护，有据可查，并且在Dart社区中很受欢迎. 受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 ### Contributing
 
@@ -33,6 +33,7 @@
      *有许多为书架写的软件包. 按照惯例，它们以 [shelf_](https://pub.dartlang.org/search?q=shelf_).
 * [Vane](https://github.com/Scorpiion/Vane) -具有内置服务器运行时环境和中间件系统的框架.
 * [Rikulo Stream](https://github.com/rikulo/stream) -具有请求路由，过滤，模板引擎，WebSocket，MVC设计模式和基于文件的静态资源的轻量级Web服务器.
+* [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
 ## Game Development
 
@@ -96,7 +97,7 @@
 
 ## ORM
 
-* [Objectory](https://github.com/vadimtsushko/objectory) -Objectory提供类型化，经过检查的环境，以建模，保存和查询MongoDb上持久存储的数据.
+* [Objectory](https://github.com/vadimtsushko/objectory) -Objectory提供类型化，经过检查的环境，以建模，保存和查询MongoDb上保留的数据.
 
 ## Image
 
@@ -122,10 +123,10 @@
 * [js2dart](https://github.com/vojtajina/js2dart) -将Javascript代码编译为Dart.
 * [Stagehand](https://github.com/dart-lang/stagehand) -受Web Starter Kit和Yeoman等工具启发的项目脚手架生成器.
 * [Crossdart](https://crossdart.info) -来自Pub的软件包的交叉引用源代码.
-* [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) -在Github上的Dart项目中添加了“转到声明”和“查找用法”功能（在树状视图和拉取请求中）.
+* [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) -在Github上的Dart项目中添加了“转到声明”和“查找用法”功能（在树形视图和拉取请求中）.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) -一个gulp插件，用于使用dart2js将Dart代码编译为JavaScript.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) -Dart到JavaScript编译器，旨在创建惯用的，可读的JavaScript输出.
-* [json2dart](https://javiercbk.github.io/json_to_dart) -给定一个json，它会生成dart类以解析并生成具有给定结构的json.
+* [json2dart](https://javiercbk.github.io/json_to_dart) -给定一个json，它将生成要分析的dart类，并生成具有给定结构的json.
 * [webdev_proxy](https://github.com/Workiva/webdev_proxy) -周围的代理包装 [webdev](https://github.com/dart-lang/webdev) 这增加了对将404重新路由到索引的支持，从而允许在本地运行时基于HTML推式的路由.
 
 ## Tutorials
@@ -153,7 +154,7 @@
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) -JetBrains的Dart插件，用于WebStorm，IntelliJ IDEA，PhpStorm，PyCharm和RubyMine.
 * [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) -Sublime Text 3飞镖包.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) -Dart语言的Emacs模式.
-* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
+* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) -Vim中Dart的语法突出显示.
 * [Atom Plugin](https://atom.io/packages/atom-dart) -对Atom的Dart支持.
 * [VSCode Plugin](https://dartcode.org/) -Dart对Visual Studio Code的支持.
 * [DartPad](https://dartpad.dartlang.org/) -在线轻量级编辑器.

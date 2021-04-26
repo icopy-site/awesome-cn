@@ -222,7 +222,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.  |
 | [CML](https://github.com/iterative/cml)  | 一个开放源代码工具包，用于在数据科学项目中使用持续集成. 使用GitHub Actions＆GitLab CI在类似于生产的环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视报告.  |
-| [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|英特尔®开发人员专区
+| [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于Python的推论统计，假设检验和回归框架|
 | [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库|
 | [spaCy](https://spacy.io/)  | 高效的自然语言处理工具包|
@@ -608,7 +608,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify的数据科学家，开发人员|
 | [Monica Rogati](https://twitter.com/mrogati)  | 数据@ Jawbone. 在LinkedIn上将数据转换为故事和产品. 文本挖掘，应用机器学习，推荐系统. 前游戏者，前机器编码器； 命名者.  |
-| [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍的作者：http：//www.oreilly.com/pub/au/4419 |
+| [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍的作者：http://www.oreilly.com/pub/au/4419 |
 | [Paul Miller](https://twitter.com/PaulMiller)  | 云计算/大数据/开放数据分析师和顾问. 作家，演讲者和主持人.  Gigaom研究分析师.  |
 | [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动化任务并改善决策. 企业家，前首席数据科学家@LinkedIn. 机器学习，ProductRei，网络|
 | [Prash Chan](https://twitter.com/MDMGeek)  |  @ IBM解决方案架构师，主数据管理，数据质量和数据治理Blogger. 数据科学，Hadoop，大数据和云.  |

@@ -21,7 +21,7 @@
 	- 你
 	-游戏
 	-国际化（i18n）/全球化
-	- Video
+	- 视频
 	- 图像处理
 	-最终用户应用程序（AppImages，Flatpaks，Snaps ...）
 	-科学
@@ -58,7 +58,7 @@
 * [Walter Bright](https://www.walterbright.com/) -D. Walter Bright的父亲是D编程语言的创建者和第一个实现者，并且已经实现了其他几种语言的编译器.
 * [Andrei Alexandrescu, PhD](https://erdani.com/)  -C ++专家.  《 D编程语言》和《现代C ++设计》的作者.  Andrei与Walter Bright共同设计了D的许多重要功能，并编写了D标准库的很大一部分.  Andrei是高级C ++编程和算法的培训师，现在正在组织中积极宣传D.
 * [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
-* **您**-如果您在D中做了一些有趣的事情，请添加您的信息.正是您，使D变得如此出色的人. 
+* **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome. 
 
 ## Events
 
@@ -73,7 +73,7 @@
 * [DerelictOrg](https://github.com/DerelictOrg)  -托管所有Derelict绑定（包括OpenGL和其他与多媒体/游戏相关的库绑定）的GitHub组织.  （OpenGL 3，Bgfx，ENet，SDL 2，GLFW 3，OpenGLES，免费图像，Assimp3，libtheora，libogg，libvorbis，SFML 2，libpq，PhysicsFS，Open Dynamics Engine，Lua，DevIL，OpenAL，ALURE）.
 * [DlangScience](https://github.com/DlangScience) -D的科学图书馆和工具的联络中心和第一站.
 * [Circular Studios](https://github.com/Circular-Studios)  -我们是罗彻斯特理工学院的游戏开发人员，致力于开发游戏和游戏技术. 主持人 [Dash](https://github.com/Circular-Studios/Dash)，用D语言编写的3D游戏引擎以及其他相关的库.
-* [d-gamedev-team](https://github.com/d-gamedev-team) -一个与gamedev相关的仓库的组织，其中包括一个名为D gamedev的工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
+* [d-gamedev-team](https://github.com/d-gamedev-team) -一个与gamedev相关的仓库的组织，包括一个名为D gamedev的工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling)  -以D为主要语言的职业建筑公司. 托管他们的开源项目.
 * [infognition](http://www.infognition.com/company.html)  -Infognition是一家自筹资金且自立的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几种以D编写的开源视频相关的应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们还正在移植其主要产品-[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
 * [libmir](https://github.com/libmir) -D的数字图书馆开发团队
@@ -85,8 +85,8 @@
 * D相关书籍.*您可以在 [Books](https://wiki.dlang.org/Books) D Wiki页面.
 * [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) -* D编程语言*作者：Andrei Alexandrescu.
 * [Programming in D](https://ddili.org/ders/d.en/index.html)  -AliÇehreli撰写的关于D语言编程的非常详尽的书，涵盖了语言的许多领域. 有一个免费的在线版本，适合初学者. 
-* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  -包含大量实用任务的配方参考指南，简要说明了这些任务，以使用D编程语言开发和扩展用户的功能. 亚当·鲁佩（Adam D.Ruppe）着. 这是一个有趣 [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
-* [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) -本书适用于具有C族语言背景的人士，他们希望学习如何将其知识和经验应用于D.（...）本书将帮助您快速掌握该语言并避免常见问题.将C族的经验转化为D时出现的陷阱.
+* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  -包含大量实用任务的配方参考指南，简要说明了这些任务，以使用D编程语言开发和扩展用户的功能. 亚当·鲁佩（Adam D.Ruppe） 这是一个有趣 [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+* [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) -本书适用于具有C族语言背景的人士，他们希望学习如何将其知识和经验应用于D.（...）将C族的经验转化为D时出现的陷阱.
 * [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) -无论您是D世界的新手，还是已经在D中开发应用程序的人，或者如果您想利用D的功能进行Web开发，那么这本书都是您的理想选择.
 
 ## Tutorials
@@ -249,6 +249,10 @@
 
 * [hunt-cache](https://github.com/huntlabs/hunt-cache) -D语言通用缓存库，使用基数，redis和memcached.
 
+*静态网站生成器*
+
+* [DSSG](https://github.com/kambrium/dssg) -具有不同方法的静态站点生成器.
+
 ## Data serialization
 * Json，XML，protobuf和其他数据序列化库.
 
@@ -304,7 +308,7 @@
 *用于处理图形用户界面应用程序的库.
 
 * [DLangUI](https://github.com/buggins/dlangui)  -用于D编程语言的跨平台GUI. 我个人的喜好，因为它是用D（不是绑定）编写的，并且是跨平台的.  DLangUI在IDE中也有很好的展示 [DLangIDE](https://github.com/buggins/dlangide).
-* [GtkD](https://github.com/gtkd-developers/GtkD)  -GtkD是GTK +的D绑定和OO包装.  GtkD被积极维护，并且当前是D的最稳定的GUI库.
+* [GtkD](https://github.com/gtkd-developers/GtkD)  -GtkD是GTK +的D绑定和OO包装.  GtkD被积极维护，并且目前是D的最稳定的GUI库.
 * [DWT](https://github.com/d-widget-toolkit/dwt)  -用于创建跨平台GUI应用程序的库.  GWT是Java SWT库到D的移植.DWT被提升为D的半标准GUI库，但是不幸的是，它尚未赶上流行.
 * [tkD](https://github.com/nomad-software/tkd) -基于Tcl / Tk的D编程语言的GUI工具包.
 * [dqml](https://github.com/filcuc/dqml) -用于D编程语言的Qt Qml绑定.

@@ -1,7 +1,8 @@
 <div class="github-widget" data-repo="ohenley/awesome-ada"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<br/><br/>
 <div align="center">
-	<img width="400px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
+	<img width="400px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.png" alt="Awesome">
 </div>
 
 <br><br>
@@ -246,7 +247,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并证明的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲的东西.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何OS的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
@@ -306,7 +307,7 @@
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了一种与Java统一表达语言（EL）接近的简单表达语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) -Ada Server Faces允许使用与Java Server Faces相同的模式创建Web应用程序（请参阅JSR 252，JSR 314和JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) -Ada Servlet允许使用与Java Servlet相同的模式创建Web应用程序（请参阅JSR 154，JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持自动生成API客户端库，服务器存根和给定OpenAPI规范的文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持在给定OpenAPI规范的情况下自动生成API客户端库，服务器存根和文档.
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架. 它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test, Testing
@@ -496,7 +497,7 @@
 - [ssprep](https://github.com/persan/ssprep.git) -类似于jinja的可扩展模板引擎，但使用 [template-parser](https://github.com/AdaCore/templates-parser) 并用于命令行.
 - [licensing](https://github.com/mosteo/licensing) -Ada的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) -易于使用的日志记录工具，可输出到Ada程序中的控制台.
-- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，该实用程序从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
+- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，它从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
 - [cstrings](https://github.com/mosteo/cstrings) -便利子程序，可与C字符串进行交互.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -用于将在Ada合格评定机构上共享的CVS存储库导入Git存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  -用于透明处理Ada应用程序中的数据和配置文件访问的库和工具. 支持MacOSX，Linux和Windows.
@@ -543,7 +544,7 @@
 - [sensortile](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) -该项目显示了如何初始化SensorTile，以及如何通过BLE将Sensor数据从SensorTile发送到合适的主机.
 
 #### Libraries
-- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单窗口小部件工具套件.
+- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单小部件工具套件.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) -GESTE是Sprite和Tile 2D渲染引擎，旨在在微控制器上运行.
 - [sancta](https://github.com/mosteo/sancta) -SANCTA多机器人任务分配库.
