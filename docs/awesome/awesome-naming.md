@@ -34,8 +34,8 @@ Famously...
 ## Design Patterns and Anti Patterns
 
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) -通过将自己的接口包装在现有类的周围，从而允许具有不兼容接口的类一起工作.
-- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
-- [Promise](https://en.wikipedia.org/wiki/Futures_and_promises)  -除非有错误，否则表示将来可用的结果. 就像现实中一样，诺言有时会被兑现.
+- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) -类似于建筑中的外墙，外墙是一个对象，可充当掩盖更复杂的基础结构的前端界面.
+- [Promise](https://en.wikipedia.org/wiki/Futures_and_promises)  -除非有错误，否则表示将来可用的结果. 就像现实一样，诺言有时会被兑现.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) -编程的反面模式，只需一次更改，即可在代码库中的任何地方疯狂地添加代码.
 
 ## Functions
@@ -57,6 +57,7 @@ Famously...
 ## Libraries and Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney)  -一个JavaScript库，实现用于并行计算的actor模型. 该术语是指同时也是演员的乔治·克鲁尼（George Clooney）.
+- [Uglify](https://github.com/mishoo/UglifyJS)  -JavaScript缩小器. 删除所有使代码易于阅读的代码，并使代码变得更小.
 - [uppy](https://github.com/transloadit/uppy)  -以狗为主题的上传器组件. 该名称是_upload_和_puppy_的混合体. 它甚至附带一个名为_Golden Retriever_的崩溃恢复插件.
 
 ## Machine Learning
@@ -82,9 +83,9 @@ Famously...
 
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) -描述竞争数据库意识形态的首字母缩略词（又名SQL vs. NoSQL）. 
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) -网络/应用程序的中心部分，它极大地限制了吞吐量/性能，因此最好将其删除.
-- [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) -名称说明其外观的不同案例样式.
+- [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - Different case styles where the name illustrates its appearance.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)）-一项隐藏功能，尤其是在视频游戏中，涉及复活节彩蛋狩猎.
-- [Floating point number](https://floating-point-gui.de/formats/fp/) -通过让基数点_float_而不是固定在适当的位置，此表示形式可以用数量有限的数字对数量非常不同的数字进行编码.
+- [Floating point number](https://floating-point-gui.de/formats/fp/) -通过让基数点_float_而不是固定在适当的位置，此表示形式可以用数量有限的数字对大小不同的数字进行编码.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) -在软件体系结构中（像在实际体系结构中一样），框架提供了基于该指南的基本结构，并限制了进一步的开发.
 - [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)）-程序的一部分，尝试查找并回收不再使用的内存垃圾.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) -积木和乐高积木不共享相同的界面，但您始终可以将它们粘合在一起.

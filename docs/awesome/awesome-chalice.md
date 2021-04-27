@@ -20,11 +20,11 @@
 ## AWS Projects
 为您的应用增压.
 
-- [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -将Pandas与每个主要的AWS数据后端集成.
+- [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -AWS上的Pandas-与Athena，Glue，Redshift，Timestream，QuickSight，Chime，CloudWatchLogs，DynamoDB，EMR，SecretManager，PostgreSQL，MySQL，SQLServer和S3（Parquet，CSV，JSON和EXCEL）轻松集成.
 - [AWS AutoGluon](https://github.com/awslabs/autogluon) -自动化机器学习培训和部署.
 - [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python) -一套适用于AWS Lambda的实用程序，可简化采用最佳做法，例如跟踪，结构化日志记录，异步自定义指标，参数和机密管理，幂等等等.
 - [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) -CDK可以部署Chalice应用程序，或者Chalice可以部署CDK应用程序.
-- [AWS Solutions Constructs Patterns](https://aws.amazon.com/solutions/constructs/patterns/) -CDK的体系结构模式可以链接在一起.
+- [AWS Solutions Constructs Patterns](https://aws.amazon.com/solutions/constructs/patterns/) -可以链接在一起的CDK的建筑模式.
 - [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications) -无服务器AWS应用程序. 
 - [DynamoDB Global Tables](https://aws.amazon.com/dynamodb/global-tables/) -NoSQL数据库.
 - [Aurora Serverless Global Database 2](https://aws.amazon.com/rds/aurora/serverless/) -OLTP数据库.
@@ -36,7 +36,7 @@
 每个SDK都在一个地方.
 
 - [AWS SDK for Python (boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) -有关异步版本，请参见`aioboto3`.
-- [AWS X-Ray SDK for Python](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-python.html) -使用`from aws_xray_sdk.core import import patch_all; patch_all（）;`的仪器.
+- [AWS X-Ray SDK for Python](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-python.html) -使用来自from aws_xray_sdk.core的仪器import patch_all; patch_all（）;`.
 - [AWS IoT SDK for Python](https://github.com/aws/aws-iot-device-sdk-python-v2) -可以通过Kinesis Streams与Chalice交谈. 
 - [AWS C Common Runtime](https://github.com/awslabs/aws-c-common) -与AWS CRT Python模块一起使用.
 - [AWS Encryption SDK for Python](https://github.com/aws/aws-encryption-sdk-python/) -在您的应用程序逻辑中进行硬加密.
@@ -82,7 +82,7 @@
 - [aws-chalice-swagger](https://github.com/samuelkhtu/aws-chalice-swagger) -如何使用Swagger支持.
 - [Lambda Multi-threading in Chalice](https://github.com/vumdao/multithread-in-lambda) -跨Lambda核心映射/缩小.
 - [aws-chalice-boilerplate](https://github.com/GabrielTavares99/aws-chalice-boilerplate) -如何使用`chalice.cli.CLIFactory`.
-- [chalice_dockerized](https://github.com/vanderlvoff/chalice_dockerized) -Docker化您的应用程序.
+- [chalice_dockerized](https://github.com/vanderlvoff/chalice_dockerized) -对您的应用程序进行Docker化.
 - [Chalice-GraphQL](https://github.com/jrbeilke/chalice-graphql) -添加GraphQL API.
 - [chalice-extended-action](https://github.com/jayef0/chalice-extended-action) -使用GitHub Actions进行部署.
 - [pytest-chalice](https://github.com/studio3104/pytest-chalice) -Py.test固定装置.

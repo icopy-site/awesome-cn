@@ -30,7 +30,9 @@
 - [Coax](https://raw.githubusercontent.com/microsoft/coax) -通过简单的方法将RL论文转换为代码. <img src="https://img.shields.io/github/stars/microsoft/coax?style=social" align="center">
 - [SymJAX](https://raw.githubusercontent.com/SymJAX/SymJAX) -符号CPU / GPU / TPU编程. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 - [mcx](https://raw.githubusercontent.com/rlouf/mcx) -表达和编译概率程序以进行性能推断. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
-
+- [Distrax](https://raw.githubusercontent.com/deepmind/distrax) -重新实现TensorFlow概率，其中包含概率分布和双射器. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
+- [cvxpylayers](https://raw.githubusercontent.com/cvxgrp/cvxpylayers) -构造可微凸优化层. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
+- [TensorLy](https://raw.githubusercontent.com/tensorly/tensorly) -张量学习变得简单. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 
 <a name="new-libraries" />
 
@@ -40,6 +42,7 @@
 
 -神经网络图书馆
     - [FedJAX](https://raw.githubusercontent.com/google/fedjax) -以Optax和Haiku为基础的JAX联合学习. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    - [Equivariant MLP](https://raw.githubusercontent.com/mfinzi/equivariant-MLP) -构造等变神经网络层. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) -图书馆实施 [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) 用于蛋白质机器学习应用. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) -在JAX中标准化流. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) -使用JAX的`scikit-learn`内核矩阵. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
@@ -64,7 +67,7 @@
 - [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - 实施 [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370).
 - [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) -使用JAX标准化流.
 - [kalman-jax](https://github.com/AaltoML/kalman-jax) -使用迭代卡尔曼滤波和平滑的马尔可夫（即时间）高斯过程的近似推断.
-- [GPJax](https://github.com/thomaspinder/GPJax) -JAX中的高斯过程.
+- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 - [jaxns](https://github.com/Joshuaalbert/jaxns) -在JAX中嵌套采样.
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) -正式的Haiku实施 [NFNets](https://arxiv.org/abs/2102.06171).
 - [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - 实施 [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).

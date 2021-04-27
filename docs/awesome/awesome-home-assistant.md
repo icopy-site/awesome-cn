@@ -33,7 +33,7 @@
 
 很棒的家庭助理对于那些试图使每个人自动化的人来说是一个很棒的清单
 他们家的一面. 使您的房屋自动化是一个漫长而艰辛的过程，并且从未完成
-task that usually involves a lot of tinkering.
+通常需要大量修补的任务.
 
 您可以通过以下方式浏览列表：
 
@@ -127,7 +127,7 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 
 - [SSH & Web Terminal](https://github.com/hassio-addons/addon-ssh) -带有大量预加载有用工具的SSH和基于Web的终端.
 - [UniFi Controller](https://github.com/hassio-addons/addon-unifi) -UniFi控制器允许您使用Web浏览器管理UniFi网络.
-- [Node-RED](https://github.com/hassio-addons/addon-node-red) -物联网的基于流的编程.
+- [Node-RED](https://github.com/hassio-addons/addon-node-red) - Flow-based programming for the Internet of Things.
 - [Plex Media Server](https://github.com/hassio-addons/addon-plex) -您录制的媒体井井有条，可随时播放.
 - [IDE](https://github.com/hassio-addons/addon-ide) -基于Cloud9 IDE的高级基于Web的IDE.
 - [Dasshio](https://github.com/danimtb/dasshio) -轻松使用您的Amazon Dash Button.
@@ -178,10 +178,10 @@ _这与外观有关，请应用一些样式._
 - [Halloween](https://community.home-assistant.io/t/halloween-theme/30872?u=frenck) -Mahasri Kalavala上色的南瓜.
 - [Black and Green](https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck) -GreenTurtwig的深色主题配淡绿色调.
 - [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) -以Anup Surendran的主题为您的前端增添复古气息.
-- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -轻巧的碳纤维主题，搭配Reua的绿色调.
+- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -轻巧的碳纤维主题，搭配Reua的绿色配饰.
 - [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) -JuanMTech制作的20个主题（包括指南）.
 - [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) -方便的ZIP文件中的13个主题.
-- [Slate](https://github.com/seangreen2/slate_theme) -接近香草的深色主题来自seangreen2.
+- [Slate](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanila looks from seangreen2.
 - [Synthwave](https://github.com/bbbenji/synthwave-hass) -受现代Synthwave乐队的封面作品影响的主题.
 - [Google Home Theme](https://github.com/liri/lovelace-themes) -与Google Home Hub的设计相匹配的两个主题（浅色和深色）.
 
@@ -225,6 +225,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) -LG TV WebOS的远程控制.
 - [Restriction Card](https://github.com/iantrich/restriction-card) -提供对其中定义的Lovelace卡的限制的卡.
 - [Vacuum Card](https://github.com/denysdovhan/vacuum-card) —用于控制吸尘器机器人的卡到卡.
+- [Purifier Card](https://github.com/denysdovhan/purifier-card) —用于控制空气净化器的卡.
 
 ### Alternative Dashboards
 
@@ -342,7 +343,7 @@ _有价值的链接，不属于以上任何类别（至今！）._
 - [rhasspy](https://github.com/rhasspy/rhasspy) -用于开发自定义语音助手的工具包.
 - [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) -高度可配置的Android Kiosk浏览器和应用启动器.
 - [Hassio Vagrant](https://github.com/hassio-addons/hassio-vagrant) -为开发附加组件而创建的原始游民箱.
-- [AppDaemon](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) -AppDaemon是一个松耦合的，多线程的，沙盒化的Python执行环境，用于编写自动化应用程序.
 - [Developer Documentation](https://developers.home-assistant.io/) -官方开发人员文档.
 - [HASS Configurator](https://github.com/danielperna84/hass-configurator) -基于浏览器的配置文件编辑器.
 - [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) -用于RESTful开关的Node.js服务，以控制Docker容器.
@@ -400,7 +401,7 @@ interwebs._
 
 所有产品名称，徽标，品牌，商标和注册商标均为
 各自所有者的财产. 所有公司，产品和服务名称
-此列表中使用的仅用于标识目的.
+此列表中使用的仅用于识别目的.
 
 使用这些名称，徽标，商标和品牌并不表示认可.
 
