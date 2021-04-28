@@ -25,7 +25,7 @@
 * [DeepL](https://github.com/uinput/deeplator) -优于Google，Microsoft和Facebook的在线翻译器.
 * [Taiga](https://github.com/benhutchins/docker-taiga) -敏捷项目管理工具.
 * [Kanboard](https://github.com/kanboard/kanboard) - Minimalistic Kanban Board.
-* [kanban](https://gitlab.com/leanlabsio/kanban) -有关GitLab问题的免费，开源，自托管看板.
+* [kanban](https://gitlab.com/leanlabsio/kanban) - Free, open source, self-hosted, Kanban board for GitLab issues.
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) -具有Docker的简单自托管Gitlab服务器.
 * [Gogs](https://github.com/gogs/gogs) -建立一个简单，稳定和可扩展的自托管Git服务，该服务可以通过最轻松的方式进行设置.
 * [Wekan](https://github.com/wekan/wekan) -基于流星的看板.
@@ -127,7 +127,7 @@
 * [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code) -进入DARPA大挑战赛的汽车的斯坦福密码.
 * [astrobee](https://github.com/nasa/astrobee) -Astrobee是一种自由飞行的机器人，旨在作为国际空间站（ISS）内部的有效载荷进行操作.
 * [CARMAPlatform](https://github.com/usdot-fhwa-stol/CARMAPlatform) -启用协作式自动驾驶插件.
-* [Automotive Grade Linux](https://www.automotivelinux.org/) -汽车级Linux是一个协作性开源项目，它将汽车制造商，供应商和技术公司召集在一起，以加快开发和采用用于联网汽车的完全开放的软件堆栈.
+* [Automotive Grade Linux](https://www.automotivelinux.org/) -汽车级Linux是一个协作性开源项目，它将汽车制造商，供应商和技术公司召集在一起，以加速开发和采用针对互联汽车的完全开放的软件堆栈.
 * [PX4](https://github.com/PX4/Firmware) -无人机和其他无人驾驶车辆的开源飞行控制软件.
 * [KubOS](https://github.com/kubos/kubos) -用于卫星的开源软件堆栈.
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) -TUM Roborace Team软件堆栈-路径跟踪控制，速度控制，曲率控制和状态估计.
@@ -191,7 +191,7 @@
 * [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) -运行测试并将结果发送到GitLab.
 * [colcon-core](https://github.com/colcon/colcon-core) -命令行工具，可改善构建，测试和使用多个软件包的工作流程.
 * [gitlab-release](https://gitlab.com/alelec/gitlab-release) - Simple python3 script to upload files (from ci) to the current projects release (tag).
-* [clang](https://github.com/llvm-mirror/clang) -这是C语言系列（C，C ++，Objective-C和Objective-C ++）的编译器前端，它是LLVM编译器基础结构项目的一部分.
+* [clang](https://github.com/llvm-mirror/clang) -这是C系列语言（C，C ++，Objective-C和Objective-C ++）的编译器前端，它是LLVM编译器基础结构项目的一部分.
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) -通过virtualenv将python要求捆绑在catkin包中.
 * [pyenv](https://github.com/pyenv/pyenv) -简单的Python版本管理.
 * [aptly](https://github.com/aptly-dev/aptly) -Debian仓库管理工具.
@@ -283,6 +283,7 @@
 
 
 ## Simulation
+* [AI2-THOR](https://github.com/allenai/ai2thor) -具有Unity后端的Python框架，为基于家庭的机器人代理提供交互，导航和操作支持，包括200多个自定义场景，1500多个自定义注释对象和200多个动作.
 * [Drake](https://github.com/RobotLocomotion/drake) -Drake旨在模拟甚至非常复杂的机器人动力学.
 * [Webots](https://github.com/cyberbotics/webots) -Webots是与其他设备兼容的开源机器人模拟器 [ROS](http://wiki.ros.org/webots_ros) 和 [ROS2](http://wiki.ros.org/webots_ros2).
 * [lgsv](https://github.com/lgsvl/simulator) -LG电子美国研发中心为自动驾驶汽车开发商开发了基于HDRP Unity的多机器人模拟器.
@@ -361,7 +362,7 @@
 * [opem](https://github.com/ECSIM/opem) -开源PEMFC仿真工具（OPEM）是用于评估质子交换膜燃料电池性能的建模工具.
 * [pvlib-python](https://github.com/pvlib/pvlib-python) -社区支持的工具，提供了一组功能和类来模拟光伏能源系统的性能.
 * [WireViz](https://github.com/formatc1702/WireViz) -轻松记录电缆，线束和连接器引脚分布的工具.
-* [Horizon](https://github.com/horizon-eda/horizon) -EDA是一种电子设计自动化软件包，支持用于印刷电路板设计的集成端到端工作流程，包括零件管理和原理图输入.
+* [Horizon](https://github.com/horizon-eda/horizon) -EDA是一种电子设计自动化软件包，支持集成的端到端工作流程，用于印刷电路板设计，包括零件管理和原理图输入.
 * [tigl](https://github.com/DLR-SC/tigl) -TiGL几何图形库可用于计算和处理CPACS文件中存储的飞机几何图形.
 * [foxBMS](https://github.com/foxBMS/foxbms) -一个免费，开放和灵活的开发环境来设计电池管理系统.
 * [cadCAD](https://github.com/cadCAD-org/cadCAD) -一个Python软件包，可通过仿真协助设计，测试和验证复杂系统的过程，并支持Monte Carlo方法，A / B测试和参数扫描.
@@ -402,7 +403,7 @@
 * [morefusion](https://github.com/wkentaro/morefusion) -基于体积融合的6D姿势估计的多对象推理.
 
 ### Machine Learning
-* [DLIB](https://github.com/davisking/dlib) -用于在C ++中制作现实世界中的机器学习和数据分析应用程序的工具包.
+* [DLIB](https://github.com/davisking/dlib) -用于在C ++中制作真实世界的机器学习和数据分析应用程序的工具包.
 * [fastai](https://github.com/fastai/fastai) -fastai库使用现代最佳实践简化了快速而准确的神经网络的训练.
 * [tpot](https://github.com/EpistasisLab/tpot) -一种Python自动化机器学习工具，可使用遗传编程来优化机器学习管道.
 * [deap](https://github.com/DEAP/deap) -Python中的分布式进化算法.
@@ -411,7 +412,7 @@
 * [Tensorflow Federated](https://github.com/tensorflow/federated) -TensorFlow Federated（TFF）是一个开源框架，用于机器学习和其他对分散数据的计算.
 * [finn](https://github.com/Xilinx/finn) -在FPGA上进行快速，可扩展的量化神经网络推理.
 * [neuropod](https://github.com/uber/neuropod) -Neuropod是一个提供统一界面的库，用于从C ++和Python的多个框架中运行深度学习模型.
-* [leela-zero](https://github.com/leela-zero/leela-zero) -这是Alpha Go Zero论文“精通无人类知识的围棋游戏”中描述的系统的忠实重新实现.
+* [leela-zero](https://github.com/leela-zero/leela-zero) -这是Alpha Go Zero论文“精通无人类知识的棋局”中描述的系统的忠实重新实现.
 * [Trax](https://github.com/google/trax) -深度学习库，专注于序列模型和强化学习.
 * [mlflow](https://github.com/mlflow/mlflow) -简化机器学习开发的平台，包括跟踪实验，将代码打包成可重复的运行以及共享和部署模型.
 * [Netron](https://github.com/lutzroeder/Netron) -用于神经网络，深度学习和机器学习模型的可视化工具.
@@ -482,8 +483,8 @@
 * [hyperpose](https://github.com/tensorlayer/hyperpose) -HyperPose：用于实时人体姿态估计的灵活库.
 * [fawkes](https://github.com/Shawn-Shan/fawkes) -针对面部识别系统的隐私保护工具.
 * [anonymizer](https://github.com/understand-ai/anonymizer) -匿名器，用于混淆面部和车牌.
-* [opendatacam](https://github.com/opendatacam/opendatacam) -仅保存被调查的元数据，特别是对象移动的路径或特定点处计数对象的数量.
-* [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) -TensorFlow实现，用于在给定多个车载摄像机的图像的情况下计算语义分割的鸟瞰图（BEV）图像.
+* [opendatacam](https://github.com/opendatacam/opendatacam) -仅保存被调查的元数据，特别是对象移动的路径或特定点上已计数对象的数量.
+* [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) -考虑到多个车载摄像头的图像，TensorFlow实现用于计算语义分割的鸟瞰图（BEV）图像.
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) -FlowNet 2.0的Pytorch实施：深度网络的光流量估算的发展.
 * [Simd](https://github.com/ermig1979/Simd) -使用SIMD的C ++图像处理和机器学习库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM .
 * [AliceVision](https://github.com/alicevision/AliceVision) -摄影测量计算机视觉框架，提供3D重建和相机跟踪算法. 
@@ -509,12 +510,12 @@
 * [CSF](https://github.com/jianboqi/CSF) -基于布料模拟的LiDAR点云地面滤波/分割（稀土萃取）方法.
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) -高度可配置的LaserScan / PointCloud2过滤器，可从测量中动态删除机器人的3D身体.
 * [grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping.
-* [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) -以机器人为中心的海拔地图，可用于崎terrain的地形导航.
+* [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) -以机器人为中心的海拔地图，用于崎rough的地形导航.
 * [rangenet_lib](https://github.com/PRBonn/rangenet_lib) -包含有关RangeNet ++推理如何与TensorRT和C ++接口一起使用的简单用法说明.
 * [pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) -将3D点云转换为2D激光扫描.
 * [octomap](https://github.com/OctoMap/octomap) -基于八进制的高效概率3D映射框架.
 * [pptk](https://github.com/heremaps/pptk) -HEREMaps的点处理工具包.
-* [gpu-voxels](https://www.gpu-voxels.org/) -GPU-Voxels是基于CUDA的库，可在各种类型的3D传感器的动画3D模型与实时点云之间进行高分辨率的体积碰撞检测.
+* [gpu-voxels](https://www.gpu-voxels.org/) -GPU-Voxels是基于CUDA的库，可在各种类型的3D传感器的动画3D模型和实时点云之间进行高分辨率的体积碰撞检测.
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) -利用现代3D图形工具的新体素层使导航环境表示现代化.
 * [LAStools](https://github.com/LAStools/LAStools) -屡获殊荣的软件，可实现高效的LiDAR处理.
 * [PCDet](https://github.com/sshaoshuai/PCDet) -一种基于PyTorch的通用代码库，用于从点云进行3D对象检测.
@@ -567,7 +568,7 @@
 * [se2lam](https://github.com/izhengfan/se2lam) -通过融合里程表和视觉技术对地面车辆进行SE（2）本地化和制图.
 * [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) -mmWave变速箱基于ML的定位方法-具有高精度和高能效.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) -ROS软件包，使用PCL提供3 DoF和6 DoF本地化，并允许使用OctoMap更新动态地图.
-* [eagleye](https://github.com/MapIV/eagleye) -  An open-source software for vehicle localization utilizing GNSS and IMU.
+* [eagleye](https://github.com/MapIV/eagleye) -利用GNSS和IMU进行车辆定位的开源软件.
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) -SGP4卫星位置库的Python版本.
 * [PROJ](https://github.com/OSGeo/PROJ) -制图投影和坐标转换库.
 * [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) -为视觉（惯性）里程表实现常用的轨迹评估方法.
@@ -686,7 +687,7 @@
 * [rmf_core](https://github.com/osrf/rmf_core) -rmf_core软件包提供了机器人中间件框架（RMF）的集中功能.
 * [OpEn](https://github.com/alphaville/optimization-engine) -面向下一代机器人技术和自治系统的快速，准确的嵌入式优化解决方案.
 * [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) -该项目为非线性模型预测控制（NMPC）提供了基于延续/ GMRES方法（C / GMRES方法）的求解器，并为NMPC提供了自动代码生成器.
-* [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
+* [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) -该存储库包含多种用于生成全局赛道的方法.
 * [toppra](https://github.com/hungpham2511/toppra) -用于计算受运动学和动态约束的机器人的时间最优路径参数化的库.
 * [tinyspline](https://github.com/msteinbeck/tinyspline) -TinySpline是一个小型但功能强大的库，用于插值，转换和查询任意NURBS，B样条曲线和Bézier曲线.
 * [dual quaternions ros](https://github.com/Achllle/dual_quaternions_ros) -双四元数SLERP的ROS python软件包.
@@ -881,7 +882,7 @@
 ### Embedded Operation System
 * [vxworks7-ros2-build](https://github.com/Wind-River/vxworks7-ros2-build) -构建系统，以自动构建VxWorks 7和ROS2.
 * [Yocto](https://git.yoctoproject.org/) -制作工具和过程，使它们能够为嵌入式软件创建独立于嵌入式硬件基础体系结构的Linux发行版.
-* [Automotive Graded Linux](https://www.automotivelinux.org/software) -一个协作的开源项目，该项目将汽车制造商，供应商和技术公司召集在一起，为汽车应用程序构建了基于Linux的开放软件平台，该平台可以作为事实上的行业标准.
+* [Automotive Graded Linux](https://www.automotivelinux.org/software) -一个协作的开源项目，该项目将汽车制造商，供应商和技术公司召集在一起，为汽车应用构建基于Linux的开放软件平台，该平台可以作为事实上的行业标准.
 * [bitbake](https://github.com/openembedded/bitbake) -通用任务执行引擎，可在复杂的任务间相关性约束内工作的同时，有效地并行运行shell和Python任务.
 * [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux.
 * [Xen](https://wiki.debian.org/Xen) -开源（GPL）1型或裸机管理程序.
@@ -974,7 +975,7 @@
 * [pymmw](https://github.com/m6c7l/pymmw) -这是一个由Python脚本组成的工具箱，可与TI的IWR1443 mmWave传感设备的评估模块（BoosterPack）进行交互.
 * [ti_mmwave_rospkg](https://github.com/radar-lab/ti_mmwave_rospkg) -TI mmWave雷达ROS驱动程序（具有传感器融合和混合功能）.
 * [pacmod3](https://github.com/astuff/pacmod3) -此ROS节点旨在允许用户使用PACMod线控驱动系统（版本3）控制车辆.
-* [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) -这些是用于将RealSense相机（D400系列）与ROS2结合使用的软件包.
+* [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) -这些是用于将RealSense摄像头（D400系列）与ROS2结合使用的软件包.
 * [sick_scan](https://github.com/SICKAG/sick_scan) -该堆栈为SICK TiM系列激光扫描仪提供了ROS2驱动程序.
 * [ouster_example](https://github.com/ouster-lidar/ouster_example) -用于连接和配置OS1，读取和可视化数据以及与ROS接口的示例代码.
 * [ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) -这些是Ouster OS-1 3D激光雷达的ROS2驱动程序的实现.
@@ -1022,7 +1023,7 @@
 * [OpenTitan](https://github.com/lowRISC/opentitan)  -将使企业，平台提供商和芯片制造商的“硅根目录”设计和实施更加透明，可信赖和安全.  lowRISC CIC将OpenTitan作为一个协作项目进行管理，以产生高质量的开放IP实例化为全功能产品.
 * [bandit](https://github.com/PyCQA/bandit) -旨在查找Python代码中常见安全问题的工具.
 * [hardening](https://github.com/konstruktoid/hardening) -使Ubuntu服务器更安全的快速方法.
-* [Passbolt](https://github.com/passbolt/passbolt_docker) -Passbolt是一个免费的开源密码管理器，允许团队成员安全地存储和共享凭据.
+* [Passbolt](https://github.com/passbolt/passbolt_docker) - Passbolt is a free and open source password manager that allows team members to store and share credentials securely.
 * [gopass](https://github.com/gopasspw/gopass) -用Go编写的命令行密码管理器.
 * [pass](https://www.passwordstore.org/) -标准的Unix密码管理器.
 * [Vault](https://github.com/hashicorp/vault)  -用于安全访问机密的工具. 秘密是您想要严格控制访问权限的所有内容，例如API密钥，密码，证书等.
@@ -1031,7 +1032,7 @@
 
 
 ## Datasets
-* [Papers With Code](https://www.paperswithcode.com/datasets) - Thousands of machine learning datasets provided by Papers With Code.
+* [Papers With Code](https://www.paperswithcode.com/datasets) -Papers With Code提供的成千上万个机器学习数据集.
 * [KITTI-360](https://github.com/autonomousvision/kitti360Scripts) -该大型数据集包含73.2 km的行驶距离中的320k图像和100k激光扫描.
 * [waymo_ros](https://github.com/YonoHub/waymo_ros) - This is a ROS package to connect Waymo open dataset to ROS.
 * [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) -Waymo开放数据集由Waymo自动驾驶汽车在各种条件下收集的高分辨率传感器数据组成.
@@ -1042,7 +1043,7 @@
 * [utbm_robocar_dataset](https://github.com/epan-utbm/utbm_robocar_dataset) -具有用于自动驾驶的多个传感器的EU长期数据集.
 * [DBNet](https://github.com/driving-behavior/DBNet) -用于驾驶行为学习的大规模数据集.
 * [argoverse-api](https://github.com/argoai/argoverse-api) -Argoverse数据集的官方GitHub存储库.
-* [DDAD](https://github.com/TRI-ML/DDAD) -TRI（丰田研究所）提出的新的自动驾驶基准，用于在挑战性和多样化的城市条件下进行远距离（最大250m）和密集深度估算.
+* [DDAD](https://github.com/TRI-ML/DDAD) -TRI（丰田研究所）提出的新的自动驾驶基准，用于在挑战性和多样的城市条件下进行远距离（最大250m）和密集深度估算.
 * [pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) -Hesai＆Scale提供的用于自动驾驶的公共大型数据集.
 * [a2d2_to_ros](https://gitlab.com/MaplessAI/external/a2d2_to_ros) -用于将A2D2数据集转换为ROS数据包的实用程序.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) -带有计算机视觉和深度学习注释的卫星图像训练数据集列表.

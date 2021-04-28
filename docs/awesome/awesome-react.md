@@ -147,7 +147,7 @@
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
+- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快更轻松地进行Web开发
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [Fluent UI](https://github.com/microsoft/fluentui) -一组用于构建Microsoft Web体验的React组件
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) -用React构建的Bootstrap组件
@@ -155,7 +155,7 @@
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui/) -适用于您的React应用程序的简单，模块化和可访问的UI组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) -官方的语义-UI-React集成
-- [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment
+- [evergreen](https://github.com/segmentio/evergreen) -按部门划分的Evergreen React UI框架
 - [grommet](https://github.com/grommet/grommet) -基于反应的框架，可在整齐的程序包中提供可访问性，模块化，响应性和主题化
 - [rebass](https://github.com/rebassjs/rebass) -反应使用样式系统构建的原始UI组件
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
@@ -167,7 +167,7 @@
 - [react-spectrum](https://github.com/adobe/react-spectrum) -Adobe的库和工具集合，可帮助您建立适应性强，可访问性强的用户体验
 - [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
-- [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
+- [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) -使用Bumbag构建可访问且主题化的React应用程序
 
@@ -358,7 +358,6 @@
 - [formsy-react](https://github.com/formsy/formsy-react/) -React的表单输入构建器和验证器
 - [react-formal](https://github.com/jquense/react-formal) -用于React的复杂HTML表单管理
 
-
 ##### Autocomplete
 
 - [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) -符合WAI-ARIA的React自动完成功能（已归档，只读）
@@ -487,6 +486,7 @@
 - [realm-js](https://github.com/realm/realm-js) -Realm是一个移动数据库：SQLite和键值存储的替代方法
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) -React Native iOS和Android的设备信息
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) -一个工具集，用于在React Native中运行React Web应用程序并处理它们之间的通信.
+- [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) -简单的库，用于在React Native中解压缩.zip，.rar，.cbz，.cbr文件.
 
 ### Redux
 

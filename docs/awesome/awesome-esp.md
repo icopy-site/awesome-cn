@@ -38,7 +38,7 @@
 - [ESPTool-gui](https://github.com/Rodmg/esptool-gui) -基于ESPTool-ck的Flash GUI工具.
 - [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) -NodeMCU为其操作系统提供的官方刷新工具.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) -适用于32/8266的仅lua的SDK.
-- [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) -在8266中用于文件系统上传的Arduino插件.
+- [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - An Arduino plugin for filesystem uploads in the 8266.
 - [PlatformIO](https://github.com/platformio/platformio-core) -同时支持ESP32和ESP8266的跨平台IDE和调试器.
 
 ## Projects
@@ -64,15 +64,16 @@
 
 ### Biomedical
 - [HeartyPatch](https://heartypatch.protocentral.com/) -使用ESP32的可穿戴BLE和WiFi连接的ECG-HR补丁.
-- [HealthyPi v4](https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged) -一款出色的开源生命体征监测器，可以监测ESP32所运行的ECG，呼吸，脉搏血氧饱和度和体温.
+- [HealthyPi v4](https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged) -一款出色的开源生命体征监护仪，可以监控EG32的ECG，呼吸，脉搏血氧饱和度和体温.
 
 ### LoRa
 
-- [Meshtastic](https://www.meshtastic.org/) -ESP32 LoRA板作为安全的，较长的电池寿命，网状GPS通信器.
+- [Meshtastic](https://www.meshtastic.org/) -ESP32 LoRA板作为安全的，长电池寿命的网状GPS通信器.
 - [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi和蓝牙驱动，启用LoRaWAN，电池供电的迷你Paxcounter，基于便宜的ESP32 LoRa IoT板构建
-- [Disaster Radio](https://disaster.radio/) -由太阳驱动的抗灾通信网络
+- [Disaster Radio](https://disaster.radio/) -由太阳驱动的抗灾通讯网络
 
 ### Others
+- [Open SmartWatch](https://open-smartwatch.github.io/) -带有GPS，惯性单元和超酷3D打印表壳的FOSS智能手表.
 - [SoftRF](https://github.com/lyusupov/SoftRF) -可以在无人机项目中使用的DIY航空近距离感知系统.
 - [Retro ESP32](https://github.com/retro-esp32/RetroESP32) -适用于Odroid Go（带有ESP32）的超酷启动器，它可以模拟多个复古控制台.
 - [PedalinoMini](https://github.com/alf45tar/PedalinoMini) -ESP32内置的无线MIDI踏板控制器，适用于吉他手.

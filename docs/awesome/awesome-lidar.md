@@ -49,7 +49,7 @@
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) -Innoviz技术/专门从事固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
-- [Quanenergy](https://quanergy.com/)  -Quanenergy Systems /固态和机械LIDAR传感器/提供制图，工业自动化，运输和安全领域的端到端解决方案. 总部位于美国加利福尼亚州森尼韦尔.
+- [Quanenergy](https://quanergy.com/)  -Quanenergy Systems /固态和机械LIDAR传感器/提供制图，工业自动化，运输和安全方面的端到端解决方案. 总部位于美国加利福尼亚州森尼韦尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
 - [Cepton](https://www.cepton.com/index.html)  -Cepton（Cepton Technologies，Inc.）/无摩擦和无镜设计的先驱，自行开发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
@@ -70,7 +70,7 @@
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) -牛津机器人汽车数据集包含100多次重复的，经过一年多的时间捕获的贯穿英国牛津的一致路线. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，该汽车在法国的Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）配备了十一个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是在法国Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）中，使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，配备了11个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
 - [NuScenes](https://www.nuscenes.org/) -用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) -由配备激光雷达和摄像头的福特Fusion车队收集的公共数据集.
@@ -191,6 +191,8 @@
 
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) -一种将航空激光雷达扫描中的点云数据转换为用于3D打印的实体网格的工具.
+- [CloudCompare](https://cloudcompare.org/) -CloudCompare是免费的跨平台点云编辑器软件.
+  - [GitHub repository :octocat:](https://github.com/CloudCompare)
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) -Unity的点云导入器/渲染器.
 - [Bpy :octocat:](https://github.com/uhlik/bpy) -用于Blender，Point Cloud可视化工具的Point cloud导入器/渲染器/编辑器.
 - [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) -日立汽车工业实验室的点云和图像语义分割编辑器，点云注释器/标签.

@@ -65,6 +65,7 @@
  - [Awsome Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
  - [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
  - [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
+ - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
  
 
 ## Books
@@ -72,11 +73,11 @@
 #### Computer Vision
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) -西蒙·京东（Simon JD Prince）2012
 * [Computer Vision: Theory and Application](http://szeliski.org/Book/) -里克·塞利斯基（Rick Szeliski）2010
-* [Computer Vision: A Modern Approach (2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) -大卫·福赛斯（David Forsyth）和让·庞塞（Jean Ponce）2011
+* [Computer Vision: A Modern Approach (2nd edition)](http://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X/ref=dp_ob_title_bk) -大卫·福赛斯（David Forsyth）和让·庞塞（Jean Ponce），2011年
 * [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/) -理查德·哈特利（Richard Hartley）和安德鲁·齐瑟曼（Andrew Zisserman）2004
 * [Computer Vision](http://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) -Linda G.Shapiro 2001
-* [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) -斯蒂芬·E·帕尔默（Stephen E.Palmer）1999
-* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) -克里斯汀·格劳曼（Kristen Grauman）和巴斯蒂安·莱贝（Bastian Leibe），2011年
+* [Vision Science: Photons to Phenomenology](http://www.amazon.com/Vision-Science-Phenomenology-Stephen-Palmer/dp/0262161834/) -斯蒂芬·E·帕尔默（1999）
+* [Visual Object Recognition synthesis lecture](http://www.morganclaypool.com/doi/abs/10.2200/S00332ED1V01Y201103AIM011) -克里斯汀·格劳曼（Kristen Grauman）和巴斯蒂安·莱贝（Bastian Leibe）2011
 * [Computer Vision for Visual Effects](http://cvfxbook.com/) -理查德·拉德克（Richard J.Radke），2012年
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) -Reinhard，E.，Heidrich，W.，Debevec，P.，Pattanaik，S.，Ward，G.，Myszkowski，K 2010.
 * [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) -贾斯汀·所罗门（Justin Solomon）2015
@@ -93,7 +94,7 @@
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) -克里斯托弗·毕晓普（Christopher M. Bishop）1995
 * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) -达芙妮·科勒（Daphne Koller）和尼尔·弗里德曼（Nir Friedman），2009年
 * [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·E·哈特（Peter E.
-* [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) 汤姆·米切尔（Tom M.Mitchell），1997年
+* [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) -汤姆·米切尔（Tom M.Mitchell），1997年
 * [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) -卡尔·爱德华·拉斯穆森（Carl Edward Rasmussen）和克里斯托弗·基·威廉姆斯（KI Williams），2005年
 * [Learning From Data](https://work.caltech.edu/telecourse.html)-Yaser S.Abu-Mostafa，Malik Magdon-Ismail和Hsuan-Tien Lin 2012
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) -迈克尔·尼尔森（Michael Nielsen）2014
@@ -314,7 +315,7 @@
   * David G. Lowe，“尺度不变关键点的独特图像特征”，《国际计算机视觉杂志》，第60卷，第2期（2004年），第91-110页.
 * [SIFT++](http://www.robots.ox.ac.uk/~vedaldi/code/siftpp.html)
 * [BRISK](http://www.asl.ethz.ch/people/lestefan/personal/BRISK)
-  * Stefan Leutenegger，Margarita Chli和Roland Siegwart，“风险：二进制鲁棒不变可扩展关键点”，ICCV 2011
+  * Stefan Leutenegger，Margarita Chli和Roland Siegwart，“ BRISK：二进制鲁棒不变可扩展关键点”，ICCV 2011
 * [SURF](http://www.vision.ee.ethz.ch/~surf/)
    * Herbert Bay，Andreas Ess，Tinne Tuytelaars，Luc Van Gool，“ SURF：加快了鲁棒的功能”，《计算机视觉与图像理解（CVIU）》，第1卷.  110，No.3，pp.346--359，2008年
 * [FREAK](http://www.ivpe.com/freak.htm)
@@ -356,9 +357,9 @@ BM3D，KSVD，
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
      * W. T. Freeman和C. Liu. 用于超分辨率和纹理合成的马尔可夫随机场. 摘自A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011年
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
-     * KI Kim和Y. Kwon，“使用稀疏回归和先验自然图像的单图像超分辨率”，IEEE Trans. 模式分析和机器智能，第一卷.  32号 6，第1127-1133页，2010年.
+     * KI Kim和Y. Kwon，“使用稀疏回归和自然图像先验的单图像超分辨率”，IEEE Trans. 模式分析和机器智能，第一卷.  32号 6，第1127-1133页，2010年.
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
-     * T. Peleg和M. Elad，基于稀疏表示的单图像超分辨率统计预测模型，IEEE图像处理事务，第1卷.  23，No.6，Pages 2569-2582，2014年6月
+     * T. Peleg和M. Elad，基于稀疏表示的单图像超分辨率统计预测模型，《 IEEE Transactions on Image Processing》，第1卷.  23，No.6，Pages 2569-2582，2014年6月
  * [Sparse Coding for Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
     * R.Zeyde，M.Elad和M.Protter，使用稀疏表示法，曲线和曲面进行单幅图像放大，法国阿维尼翁，2010年6月24日至30日（也出现在计算机上的讲义中，科学-LNCS）.
  * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
@@ -368,7 +369,7 @@ BM3D，KSVD，
  * [Deformable Patches](https://sites.google.com/site/yuzhushome/single-image-super-resolution-using-deformable-patches)
     *  Yu Zhu, Yanning Zhang and Alan Yuille, Single Image Super-resolution using Deformable Patches, CVPR 2014
  * [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
-    * Chao Dong，Chen Change Loy，何凯明，唐小鸥，学习深度卷积网络以实现图像超分辨率，在ECCV 2014中
+    *董冬，Chen Change Loy，何凯明，唐小鸥，学习深度卷积网络以实现图像超分辨率，在ECCV 2014中
  * [A+: Adjusted Anchored Neighborhood Regression](http://www.vision.ee.ethz.ch/~timofter/ACCV2014_ID820_SUPPLEMENTARY/index.html)
      * R. Timofte，V.De Smet和L. Van Gool.  A +：经过调整的锚定邻域回归以实现快速超分辨率，ACCV 2014
  * [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
@@ -765,9 +766,9 @@ BM3D，KSVD，
 ## Blogs
  * [Learn OpenCV](http://www.learnopencv.com/) -萨蒂亚·马利克（Satya Mallick）
  * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) -Tomasz Malisiewicz
- * [Computer vision for dummies](http://www.visiondummy.com/) -文森特·斯普鲁伊特（Vincent Spruyt）
+ * [Computer vision for dummies](http://www.visiondummy.com/) -文森特·斯普鲁特（Vincent Spruyt）
  * [Andrej Karpathy blog](http://karpathy.github.io/) -安德烈·卡帕蒂（Andrej Karpathy）
- * [AI Shack](http://aishack.in/) -Utkarsh Sinha
+ * [AI Shack](http://aishack.in/) -乌特卡什·辛哈（Utkarsh Sinha）
  * [Computer Vision Talks](http://computer-vision-talks.com/) -尤金·赫维琴雅（Eugene Khvedchenya）
  * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) -Jason Chin（西安大略大学）
 

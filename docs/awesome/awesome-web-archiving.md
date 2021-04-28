@@ -138,7 +138,7 @@
 * [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) -浏览器扩展：页面上的链接收割机.
 * [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) -浏览器扩展：打开多个URL，还从文本中提取URL.
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) -浏览器扩展：在浏览器标签之间切换.
-* [FlameShot](https://github.com/lupoDharkael/flameshot) -在Ubuntu上的屏幕截图和注释.
+* [FlameShot](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
 * [PlayOnLinux](https://www.playonlinux.com/en/) -用于在Ubuntu上运行Xenu和Notepad ++.
 * [PlayOnMac](https://www.playonmac.com/en/) -用于在macOS上运行Xenu和Notepad ++.
 * [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots)  -内置Windows，可进行部分屏幕捕获和注释. 在macOS上，您可以使用Command + Shift + 4（用于部分截屏的键盘快捷键）.
@@ -161,7 +161,7 @@
 * [IIPC Blog](https://netpreserveblog.wordpress.com/)
 * [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) -的Web归档圆桌会议的非官方博客 [Society of American Archivists](https://www2.archivists.org/) 由Web归档圆桌会议的成员维护.
 * [The Web as History](http://www.ucl.ac.uk/ucl-press/browse-books/the-web-as-history) -一本开放源代码的书，提供了有关Web归档研究以及一些案例研究的概念性概述.
-* [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archining related topics, scholarly work, and academic trip reports.
+* [WS-DL Blog](https://ws-dl.blogspot.com/) -Web科学和数字图书馆研究小组的博客，涉及各种与Web归档相关的主题，学术工作和学术旅行报告.
 * [DSHR's Blog](https://blog.dshr.org/) -大卫·罗森塔尔（David Rosenthal）定期审查并总结在“数字保存”领域所做的工作.
 * [UK Web Archive Blog](https://blogs.bl.uk/webarchive/)
 
@@ -180,5 +180,6 @@
 ### Twitter
 
 * [@NetPreserve](https://twitter.com/NetPreserve) -IIPC官方手柄.
+* [@WebSciDL](https://twitter.com/WebSciDL) -ODU Web科学和数字图书馆研究小组.
 * [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
 * [#WebArchiveWednesday](https://twitter.com/hashtag/webarchivewednesday)

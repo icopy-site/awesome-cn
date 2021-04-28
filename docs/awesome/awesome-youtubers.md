@@ -92,7 +92,7 @@ Content about: C, C#, C++ \
 
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：算法，各种编程语言\
-特色播放列表：“代码的本质：通过处理模拟自然系统”，“学习处理：对图像，动画和交互进行编程的初学者指南”.
+Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVWXu5Yu4c2Cp9dUrzbmaAF117DVADvaOXLtjJ3Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeeksLesson)
 
@@ -156,7 +156,7 @@ Content about: C, C#, C++ \
 
 [**sentdex**](https://www.youtube.com/c/sentdex) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容有关：用于AI和金融的Python \
-特色播放列表：“ Python编程财务”，“使用Python进行机器学习”，“从头开始用Python绘制的神经网络”.
+精选播放列表：“ Python编程财务”，“使用Python进行机器学习”，“从头开始使用Python进行神经网络处理”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlKpaj19DmFWS8cuYfwKNHY-k9vBmNlH0N72rGKQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaBrainsChannel)
 
@@ -332,10 +332,17 @@ Featured playlists: `Design Patterns tutorial for beginners`, `SQL Server tutori
 Content about: C#, Swift, Kotlin \
 Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotlin Course`, `Xamarin Forms Lists Course`, `and more`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh02l6XSxqL7YSJYxbio_WW9Nk9ujDzG0BHY21m=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+
+[**javidx9**](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+内容有关：C ++，理论，游戏开发\
+特色播放列表：“从头开始的NES仿真器”，“有趣的编程”，“自己编写代码！”.  \
+<br/>
+
 
 ## Web development
 
- Web开发包括前端开发：最基本的（HTML，CSS和JavaScript）以及最现代的框架（React.js，Vue.js，Angular）. 它还包括后端开发主题，例如Node.js，GraphQL，SQL以及更基本的东西，例如DNS，URL，部署. 您还可以找到以Web开发人员身份从事自由职业的人员以及其他相关人员.
+ Web开发包括前端开发：最基本的（HTML，CSS和JavaScript）以及最现代的框架（React.js，Vue.js，Angular）. 它还包括后端开发主题，例如Node.js，GraphQL，SQL以及更基本的东西，例如DNS，URL，部署. 您还可以找到以网站开发人员的身份从事自由职业以及其他相关工作.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
@@ -816,7 +823,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
 内容约：GODOT
-特色播放列表：“ Godot 3教程”，“在Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者游戏制作教程”.
+特色播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者游戏制作教程”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
 
@@ -835,7 +842,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**Clear Code**](https://www.youtube.com/c/ClearCode) \
 内容约：Python \
-特色播放列表：“ Pygame基础知识”，“在Pygame中创建Pong”，“通过制作Flappy Bird来学习pygame”，“ Google Godot中的恐龙赛跑者”.
+特色播放列表：“ Pygame基础知识”，“在Pygame中创建Pong”，“通过制作Flappy Bird来学习pygame”，“在Godot中使用Google恐龙赛跑者”.
 
 
 ## Security
@@ -852,7 +859,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**CodeCommand**](https://www.youtube.com/c/CodeCommand) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：道德黑客，安全性\
-特色播放列表：“网络安全-渗透测试课程（攻击性安全）”，“ Kali Linux教程| 渗透测试方法|`.
+特色播放列表：“网络安全-渗透测试课程（进攻性安全）”，“ Kali Linux教程| 渗透测试方法|`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx0I11HLzaCk0XKTy0lF5w7Na4AO_0pxVjc8zkIHg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LiveOverflowCTF)
 
@@ -1193,7 +1200,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 徽章的创建没有遵循任何设计结构，尽管 [awesome-youtubers logo](https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) 的灵感来自 [awesome logo](https://github.com/sindresorhus/awesome/blob/mainhttps://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) 和 [awesome-nodejs logo](https://github.com/sindresorhus/awesome-nodejs/blob/masterhttps://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) . 这两个播放图标是在 [YouTube logo](https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q) . 这只是一种代表，我并没有使用YouTube徽标本身.
 
-位于每个YouTuber姓名行最右侧的upvote和downvote图标取自 [flaticon.com](https://www.flaticon.com) ; 更具体地说，它们是由 [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) 团队（此图标的所有功劳都归功于他们.谢谢！）. 我通过仅更改颜色来修改了它们（绿色表示上投票，红色表示下票.在.svg文件中手动进行了更改）.
+位于每个YouTuber姓名行最右侧的upvote和downvote图标取自 [flaticon.com](https://www.flaticon.com) ; 更具体地说，它们是由 [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) 团队（此图标的所有功劳都归功于他们.谢谢！）. 我通过仅更改颜色来修改了它们（绿色代表上投票，红色代表下投票.请在.svg文件中手动进行此操作）.
 
 列表样式受到以下方面的极大启发 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)， 由...制作 [mhxion](https://github.com/mhxion) . 我认为这个存储库是我的灵感 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在此文件中使用相同的表格样式也看起来不错，而且有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
 
