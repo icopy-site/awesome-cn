@@ -114,7 +114,7 @@
 ### Utilities
 
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)  -开源macOS应用程序，可让您从菜单栏或使用键盘快捷键（⌥⌘G）快速切换灰度滤镜.  （[MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
-- [Markdownify](https://markdownify.js.org)  -最小的Markdown编辑器.  （[MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
+- [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 - [Sandman](https://alexanderepstein.github.io/Sandman/)  -让您知道何时关闭计算机并根据计算出的睡眠周期进入睡眠状态.  （[MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  （[MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/)  -数据包分析器，用于网络故障排除和分析.  （[GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
@@ -134,6 +134,7 @@
 
 ### Web Applications
 
+- [Cloverleaf](https://cloverleaf.app)  -一个开源应用程序，可替换您的密码管理器，而无需将密码存储在任何地方.  （[MIT](https://github.com/cloverleaf/web/blob/master/LICENSE))
 - [Dnote](https://www.getdnote.com/)  -具有多设备同步和Web界面的简单命令行笔记本.  （[GNU AGPLv3](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 - [Etherpad](http://etherpad.org/)  -实时协作文档编辑.  （[Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/)  -用于构建和运行在线出版物的可入侵平台.  （[MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
@@ -146,7 +147,7 @@
 - [MediaGoblin](http://mediagoblin.org/)  -适用于所有类型媒体的发布平台.  （[GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org)  -Wiki软件，可以组织和提供大量频繁访问的数据.  （[GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [MetaGer](https://metager.de/en)  -由非营利组织创建的私有搜索引擎，其服务器使用绿色电力.  （[GNU AGPLv3](https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE))
-- [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
+- [Neocities](https://neocities.org/)  -适用于现代世界的地理城市.  （[BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [NotABug.org](https://notabug.org/)  -用于免费许可项目的协作平台.  （[MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org)  -由用户创建并在开放许可下发布的世界地图.  （[GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube)  -分散式视频流服务.  （[GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
