@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开放源代码Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -64,6 +64,7 @@
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊用途的交互图的基础结构.
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 展示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) -Jupyter笔记本中的Google Maps交互式可视化库.
+- [lux](https://github.com/lux-org/lux) -每当在笔记本中打印数据框时，建议使用一组可视化效果.
 - [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js进行交互式数据可视化.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) -一键将pandas DataFrame复制到剪贴板.
 - [pyecharts](https://github.com/pyecharts/pyecharts) -的Python界面 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.

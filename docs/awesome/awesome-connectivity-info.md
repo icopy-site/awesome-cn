@@ -26,12 +26,12 @@
 -网络就绪指数-（[2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)）来自Portulans Institute的涵盖121个经济体的网络就绪指数
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2019）针对移动互联网采用的四个推动因素对国家进行衡量：基础设施，可负担性，消费者就绪程度和内容.
 - [A4AI Affordability Drivers Index](https://a4ai.org/affordability-report/data/?_year=2020&indicator=INDEX) -（负担得起的互联网接入联盟（2020）的互联网负担能力指数（[A4AI](https://a4ai.org)).
--A4AI移动宽带数据成本-（[Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)）宽带数据价格（预付费1GB移动设备）占人均GNI的百分比.
+-A4AI移动宽带数据成本-（[2020](https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni))([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)）宽带数据价格（预付费1GB移动设备）占人均GNI的百分比.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) -（2020）衡量互联网连通性与可用性，可承受性，相关性和就绪性的指数.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) -（2017）根据供应，需求，经验和潜力衡量的50个国家的“数字化转型”状态快照.
 - [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) -《 2017-2022年预测与趋势》白皮书.
 - [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) -（2010）交互式信息图表工具，展示了全球宽带部署的状况以及宽带的监管格局.
-- [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) -（2016）按国家/地区划分的互联网用户，来自国际电联，联合国人口司，印度互联网和移动协会（IAMAI）和世界银行数据.
+- [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) -（2016）按国家/地区划分的互联网用户，由国际电联，联合国人口司，印度互联网和移动协会（IAMAI）以及世界银行的数据推算得出.
 - [Internet World Stats](https://www.internetworldstats.com/) -根据尼尔森和国际电联的统计数据汇编的互联网用户.
 - [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) -（2017）基于三大支柱的综合指数：ICT接入，ICT使用和ICT技能.
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
@@ -102,7 +102,7 @@
 - [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) -（2018年2月）监管和政策建议，以促进发展中国家的移动宽带覆盖.
 - [Facebook Audience Insights](https://www.facebook.com/ads/audience-insights/) -有关Facebook使用情况的人口统计信息.
 - [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) -在各个国家/地区流行的移动应用排名.
-- [Global Stats by StatCounter](http://gs.statcounter.com/) -随着时间的推移，浏览器市场份额（按浏览器，地区和操作系统）.
+- [Global Stats by StatCounter](http://gs.statcounter.com/) -随着时间的推移，浏览器市场份额（按浏览器，地区和操作系统划分）.
 - [Global Mobile Suppliers Association](https://gsacom.com/) -有关LTE和5G采用情况的各种报告.
 - [Social Bakers Regional Reports](https://www.socialbakers.com/resources/reports/) -有关社交媒体使用的国家/地区报告.
 - [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) -HRSL数据集在人口分布图中提供了前所未有的准确性.
