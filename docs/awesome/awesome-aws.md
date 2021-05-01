@@ -10,7 +10,7 @@
 
 精选的AWS库，开放源代码存储库，指南，博客和其他资源的精选列表.
 
-受启发 [awesome](https://github.com/sindresorhus/awesome) 清单.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 ## The Fiery Meter of AWSome
 
@@ -20,13 +20,13 @@
 *回购1000颗以上的星星：：fire :: fire :: fire :: fire：
 *带2000颗以上星星的仓库：：fire :: fire :: fire :: fire :: fire：
 
-不在“ AWSome的火热仪”上的回购仍然很棒，请参阅 [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).
+不在“ AWSome的火热仪”上的存储库仍然很棒，请参阅 [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).
 
 ### `awesome-aws` Python Module
 
 [![Build Status](https://travis-ci.org/donnemartin/awesome-aws.svg?branch=master)](https://travis-ci.org/donnemartin/awesome-aws) [![Codecov](https://img.shields.io/codecov/c/github/donnemartin/awesome-aws.svg)](https://codecov.io/github/donnemartin/awesome-aws) [![PyPI version](https://badge.fury.io/py/awesome-aws.svg)](http://badge.fury.io/py/awesome-aws)
 
-Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/master/awesome) 定期扫描存储库 [Awesome AWS](https://github.com/donnemartin/awesome-aws) 来保持“ AWSome火热仪”的准确性.
+Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/master/awesome) 定期扫描存储库 [Awesome AWS](https://github.com/donnemartin/awesome-aws) 来保持“ AWSome的火热仪”的准确性.
 
 ## Contributing
 
@@ -280,7 +280,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 
 ## Open Source Repos
 
- * AWS和社区开源项目，按服务分组. 看到 [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) 更多细节.*
+ * AWS和社区开源项目，按服务分组. 看 [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) 更多细节.*
 
 <br/>
 <p align="center">
@@ -316,15 +316,15 @@ AWS存储库：
 * [achiku/jungle :fire::fire::fire:](https://github.com/achiku/jungle) -EC2和ELB cli的操作应该更简单.
 * [dbcli/athenacli :fire:](https://github.com/dbcli/athenacli) -适用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) -增压的AWS命令行界面.
-* [timkay/aws :fire::fire:](https://github.com/timkay/aws) -通过命令行轻松访问Amazon EC2，S3，SQS，ELB和SDB.
-* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) -Go中EC2，IAM和S3的强大CLI.
+* [timkay/aws :fire::fire:](https://github.com/timkay/aws) -轻松地通过命令行访问Amazon EC2，S3，SQS，ELB和SDB.
+* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) -Go中用于EC2，IAM和S3的强大CLI.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) -用Go编写的用于安全存储AWS凭证的工具.
 
 ### CloudFormation
 
 AWS存储库：
 
-* [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) -在代码中定义云基础架构的框架.
+* [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) -用于在代码中定义云基础架构的框架.
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) -自定义资源示例.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) -自定义资源框架.
 * [cfn-python-lint :fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) -用于整理/验证CloudFormation的工具.
@@ -414,7 +414,7 @@ AWS存储库：
 * [amazon-cognito-developer-authentication-sample](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) -身份验证样本.
 * [amazon-cognito-dotnet](https://github.com/aws/amazon-cognito-dotnet) -同步.NET的SDK.
 * [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) -同步iOS版SDK.
-* [amazon-cognito-js :fire::fire:](https://github.com/aws/amazon-cognito-js) -同步SDK for JavaScript.
+* [amazon-cognito-js :fire::fire:](https://github.com/aws/amazon-cognito-js) -同步JavaScript的SDK.
 * [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) -消费流样本.
 * [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) -Node.js的示例应用程序.
 
@@ -463,7 +463,7 @@ AWS存储库：
 * [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) -导入和导出示例.
 * [dynamodb-online-index-violation-detector](https://github.com/awslabs/dynamodb-online-index-violation-detector) -查找在线GSI的哈希键和范围键上的违规行为.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) -Kinesis接口，用于使用和处理DynamoDB流中的数据.
-* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) -轻量级python应用程序.
+* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) -轻量级的python应用程序.
 * [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) -Titan的存储后端.
 * [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) -在多个项目和表之间执行原子写入和隔离读取.
 * [logstash-input-dynamodb](https://github.com/awslabs/logstash-input-dynamodb) -Logstash输入插件.
@@ -471,14 +471,14 @@ AWS存储库：
 社区回购：
 
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) -使用Lambda自动扩展DynamoDB配置容量.
-* [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) -存储机密信息，加密后处于静止状态.
+* [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) -存储机密信息，静态加密.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) -提供自动缩放.
 
 ### Elastic Beanstalk
 
 AWS存储库：
 
-* [aws-eb-glassfish-dockerfiles](https://github.com/aws/aws-eb-glassfish-dockerfiles) -GlassFish码头工人文件.
+* [aws-eb-glassfish-dockerfiles](https://github.com/aws/aws-eb-glassfish-dockerfiles) -GlassFish泊坞窗文件.
 * [aws-eb-python-dockerfiles](https://github.com/aws/aws-eb-python-dockerfiles) -Python docker文件.
 * [eb-demo-php-simple-app :fire:](https://github.com/awslabs/eb-demo-php-simple-app) -简单的PHP应用程序.
 * [eb-docker-multiple-ports](https://github.com/awslabs/eb-docker-multiple-ports) -使用Docker映像的简单Node.js和Tomcat应用程序.
@@ -486,10 +486,10 @@ AWS存储库：
 * [eb-docker-virtual-hosting](https://github.com/awslabs/eb-docker-virtual-hosting) -使用Docker映像的简单PHP，Tomcat和Nginx应用程序.
 * [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) -样品快递应用程序.
 * [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) -Express框架和Bootstrap Node.js示例应用程序.
-* [eb-node-express](https://github.com/awslabs/eb-node-express) -开发人员指南中引用的示例应用.
+* [eb-node-express](https://github.com/awslabs/eb-node-express) -《开发人员指南》中引用的示例应用程序.
 * [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) -说明工作人员角色的Python应用程序.
-* [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) -使用Flask和Bootstrap的Python注册表单应用.
-* [eb-python-flask](https://github.com/awslabs/eb-python-flask) -简单的Python和Flask应用.
+* [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) -带有Flask和Bootstrap的Python注册表单应用.
+* [eb-python-flask](https://github.com/awslabs/eb-python-flask) -简单的Python和Flask应用程序.
 * [eb-wif-sample](https://github.com/awslabs/eb-wif-sample) -带有Web Identity Federation的示例登录应用程序.
 
 社区回购：
@@ -511,7 +511,7 @@ AWS存储库：
 * [evannuil/aws-snapshot-tool :fire::fire:](https://github.com/evannuil/aws-snapshot-tool) -自动执行EBS快照和旋转.
 * [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way)  -在EC2上以艰难的方式引导Kubernetes. 没有脚本.
 * [mirakui/ec2ssh :fire::fire:](https://github.com/mirakui/ec2ssh) -SSH配置管理器.
-* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) -容器化块存储QoS SLA，跨可用区和环境的分层和复制策略以及可预测和可扩展的性能.
+* [openebs/openebs :fire::fire::fire::fire::fire:](https://github.com/openebs/openebs) -容器化块存储QoS SLA，跨可用区和环境的分层和副本策略，以及可预测和可扩展的性能.
 * [skavanagh/EC2Box :fire::fire:](https://github.com/skavanagh/EC2Box) -基于Web的SSH控制台，可同时管理多个实例.
 * [wbailey/claws :fire:](https://github.com/wbailey/claws) -具有Capistrano集成的CLI驱动的控制台.
 
@@ -520,7 +520,7 @@ AWS存储库：
 AWS存储库：
 
 * [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers.
-* [amazon-ecs-amazon-efs](https://github.com/awslabs/amazon-ecs-amazon-efs) -保留来自容器的数据.
+* [amazon-ecs-amazon-efs](https://github.com/awslabs/amazon-ecs-amazon-efs) -持久保存容器中的数据.
 * [amazon-ecs-init :fire:](https://github.com/aws/amazon-ecs-init) -开发RPM以支持Amazon ECS容器代理.
 * [blox :fire::fire::fire:](https://github.com/blox/blox) -用于在ECS上构建自定义调度程序的开源工具.
 * [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) -在ECS上进行蓝绿色部署.
@@ -602,7 +602,7 @@ AWS存储库：
 * [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) -与其他AWS和非AWS服务集成的库.
 * [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) -样本数据可视化应用程序.
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) -学习运动学发展.
-* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者库.
+* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者图书馆.
 * [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) -提供缩放流的功能.
 * [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) -流利的插件.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) -DynamoDB流适配器.
@@ -627,7 +627,7 @@ AWS存储库：
 * [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) -Python无服务器微框架.
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) -使用grunt-aws-lambda插件来帮助您进行开发和测试.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) -使用SQS和ECS扩展Lambda.
-* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) -实时文件处理参考架构.
+* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) -用于实时文件处理的参考体系结构.
 * [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) -用于创建IoT后端的参考架构.
 * [lambda-refarch-mobilebackend :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) -用于创建移动后端的参考体系结构.
 * [lambda-refarch-webapp :fire::fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) -用于创建Web应用程序的参考体系结构.
@@ -641,8 +641,8 @@ AWS存储库：
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) -没有服务器的聊天应用程序.
 * [danilop/LambdAuth :fire::fire::fire::fire:](https://github.com/danilop/LambdAuth) -示例身份验证服务.
 * [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) -在Lambda上执行Go的快速，干净的方法.
-* [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可简化AWS Lambda的部署，更新和测试功能.
-* [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) -Lambda支持的，高度分布式的负载测试工具.
+* [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可让您更轻松地部署，更新和测试AWS Lambda的功能.
+* [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) -Lambda驱动的，高度分布式的负载测试工具.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) -通过Lambda自动化Chrome.
 * [grycap/scar :fire::fire::fire:](https://github.com/grycap/scar) -在AWS Lambda中从Docker映像中透明地执行容器.
 * [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) -用于无服务器应用程序的轻量级Web框架.
@@ -694,7 +694,7 @@ AWS存储库：
 * [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) -与示例应用程序一起使用的食谱.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) -用于演示简单食谱的食谱.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) -一个示例Node.JS应用.
-* [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) -Windows的食谱.
+* [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) -适用于Windows的食谱.
 * [todo-sample-app-cookbooks](https://github.com/awslabs/todo-sample-app-cookbooks) -与todo-sample-app相关的自定义食谱.
 
 社区回购：
@@ -745,18 +745,18 @@ AWS存储库：
 * [minio/mc :fire::fire::fire::fire:](https://github.com/minio/mc) -用于文件系统和云存储的Minio Client.
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) -与S3兼容的对象存储服务器.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) -通过Python并行上传/下载到S3.
-* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) -用于各种云存储提供商（例如S3）的Rsync.
+* [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) -适用于各种云存储提供商（例如S3）的Rsync.
 * [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) -S3磁盘使用率（du）实用程序.
 * [peak/s5cmd :fire::fire::fire:](https://github.com/peak/s5cmd) -具有通配符和批处理命令支持的快速S3和本地文件系统执行工具.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) -Gulp插件.
-* [rlmcpherson/s3gof3r :fire::fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) -快速，并发的流访问，包括CLI.
+* [rlmcpherson/s3gof3r :fire::fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) -快速，并行，流式访问，包括CLI.
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) -CLI工具，可用于创建分布式，分散式和版本化的存储库.
 * [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) -允许Linux和Mac OS X通过FUSE挂载S3存储桶.
 * [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) -用于管理S3和CloudFront的CLI.
 * [schickling/git-s3 :fire::fire:](https://github.com/schickling/git-s3) -将git repo部署到存储桶中.
 * [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) -CarrierWave适配器.
 * [spring-projects/aws-maven :fire::fire:](https://github.com/spring-projects/aws-maven) -适用于S3的Maven Wagon.
-* [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) -安装用于本地文件系统的存储桶.
+* [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) -将存储桶安装在本地文件系统上以供使用.
 * [mishudark/s3-parallel-put :fire::fire:](https://github.com/mishudark/s3-parallel-put) -支持并行上传的CLI.
 * [waynehoover/s3_direct_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) -使用CORS直接上传到Amazon S3
 * [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) -Clojure的客户端库.
@@ -824,7 +824,7 @@ AWS存储库：
 社区回购：
 
 * [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) -用于管理的规则引擎，用于查询，过滤和对资源的操作的yaml中的DSL.
-* [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) -AWS Chef食谱的开发存储库.
+* [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) -AWS Chef Cookbook的开发资料库.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) -用于管理资源的工具，包括EC2，EBS，RDS和Route53.
 * [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) -RSpec测试您的资源.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) -使用Vagrant管理您的EC2和VPC实例.
@@ -835,7 +835,7 @@ AWS存储库：
 AWS存储库：
 
 * [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) -SHA256代理兼容性容器.
-* [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) -匿名注册令牌自动售货机.
+* [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) -用于匿名注册的令牌自动售货机.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) -用于身份注册的令牌自动售货机.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) -TLS / SSL协议的实现.
 
@@ -846,7 +846,7 @@ AWS存储库：
 * [bridgecrewio/checkov :fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) -Terraform静态分析，验证安全性最佳做法.
 * [cloudsploit/scans :fire::fire::fire::fire:](https://github.com/cloudsploit/scans) -检测安全风险.
 * [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) -安全审核工具.
-* [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) -在S3存储桶中查找有趣文件的安全工具.
+* [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) -用于在S3存储桶中查找有趣文件的安全工具.
 * [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) -作为Lambda函数运行的SSH证书颁发机构.
 * [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) -监视策略更改并针对不安全的配置发出警报.
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) -实施所有权和数据安全性的工具.
@@ -859,11 +859,11 @@ AWS存储库：
 
 AWS存储库：
 
-*回购随附的博客，培训活动和会议.
+*回购随附的博客，培训活动和会议.*
 
 * [aws-arch-backoff-simulator :fire:](https://github.com/awslabs/aws-arch-backoff-simulator) -适用于AWS架构博客的抖动和退避模拟器.
 * [aws-big-data-blog :fire::fire::fire:](https://github.com/awslabs/aws-big-data-blog) -来自AWS大数据博客的示例.
-* [aws-demo-php-simple-app](https://github.com/awslabs/aws-demo-php-simple-app) -来自AWS Blogs的PHP应用程序.
+* [aws-demo-php-simple-app](https://github.com/awslabs/aws-demo-php-simple-app) -来自AWS博客的PHP应用程序.
 * [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) -来自AWS Mobile SDK博客的示例.
 * [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) -来自自定进度的实验室的Android Snake游戏.
 * [aws-quickstart](https://github.com/aws-quickstart/) -AWS快速入门的官方存储库.
@@ -876,7 +876,7 @@ AWS存储库：
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) -来自re：Invent 2014的可扩展站点管理示例.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) -re：Invent 2015中的大规模指标分析.
 * [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) -2015年re：Invent 2015的安全分析样本.
-* [todo-sample-app](https://github.com/awslabs/todo-sample-app) -RailsConf 2014中的简单“ Todo”应用程序.
+* [todo-sample-app](https://github.com/awslabs/todo-sample-app) -RailsConf 2014上的简单“ Todo”应用程序.
 
 社区回购：
 
@@ -890,12 +890,12 @@ AWS存储库：
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) -超文本应用程序语言的Java客户端.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) -用于验证AWS服务JSON模型文件的工具.
 * [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) -示例跨平台视频转码器应用程序.
-* [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -连接云的kegerator，将实时传感器数据流式传输到AWS.
+* [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -与云连接的kegerator，可将实时传感器数据流式传输到AWS.
 
 社区回购：
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) -基于Node.js / ImageMagick的图像缩略图服务.
-* [cdkpatterns/serverless :fire::fire::fire:](https://github.com/cdk-patterns/serverless) -AWS CDK中内置的可部署的无服务器架构模式.
+* [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) -AWS CDK中内置的可部署的无服务器架构模式.
 * [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) -高可用性，水平可扩展的排队和通知服务.
 * [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) -AWS上的开源PaaS.
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) -在单个网页上显示所有AWS资源.
@@ -913,14 +913,14 @@ AWS存储库：
 * [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) -用于应用程序部署和云管理的Web界面.
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) -使用自动缩放和文档最佳做法的工具.
 * [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) -弹性工具，可帮助应用程序容忍随机实例故障.
-* [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) -服务注册表，用于弹性的中间层负载平衡和故障转移.
+* [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) -用于稳定的中间层负载平衡和故障转移的服务注册表.
 * [Netflix/EVCache :fire::fire::fire::fire:](https://github.com/Netflix/EVCache) -分布式内存数据存储.
 * [Netflix/Fenzo :fire::fire::fire:](https://github.com/Netflix/Fenzo) -Mesos框架的可扩展调度程序.
 * [Netflix/ice :fire::fire::fire::fire::fire:](https://github.com/Netflix/ice) -使用和成本监控工具.
 * [Netflix/ribbon :fire::fire::fire::fire::fire:](https://github.com/Netflix/ribbon) -带有内置软件负载平衡器的远程过程调用库.
 * [Netflix/SimianArmy :fire::fire::fire::fire::fire:](https://github.com/Netflix/SimianArmy) -使您的云以最佳形式运行的工具.
-* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) -边缘服务，提供动态路由，监视，弹性，安全性等.
-* [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash)  -开源的LaunchRock替代方案. 建立漂亮的启动页面.
+* [Netflix/zuul :fire::fire::fire::fire::fire:](https://github.com/Netflix/zuul) -提供动态路由，监视，弹性，安全性等的边缘服务.
+* [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash)  -开源LaunchRock替代品. 建立漂亮的启动页面.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) -用于管理资源以构建基础结构的Puppet模块.
 * [mhart/react-server-routing-example :fire::fire:](https://github.com/mhart/react-server-routing-example) -React中的示例通用客户端/服务器路由和数据.
 * [Similarweb/finala :fire::fire::fire:](https://github.com/similarweb/finala) -资源云扫描仪，可以分析和报告浪费和未使用的资源，以减少不必要的支出.
@@ -930,7 +930,7 @@ AWS存储库：
 
 ## Guides, Books, Documentation, and Training
 
-*使用方法，培训，白皮书，文档和案例研究.
+*使用方法，培训，白皮书，文档和案例研究.*
 
 <br/>
 <p align="center">
@@ -975,8 +975,8 @@ AWS指南：
 
 ### Books
 
-*行动中的Amazon Web Services [Manning](https://www.manning.com/books/amazon-web-services-in-action) 要么 [Amazon.com](http://amzn.com/1617292885)
-*运行中的AWS Lambda [Manning](https://www.manning.com/books/aws-lambda-in-action) 要么 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+*行动中的Amazon Web Services [Manning](https://www.manning.com/books/amazon-web-services-in-action) 或者 [Amazon.com](http://amzn.com/1617292885)
+*运行中的AWS Lambda [Manning](https://www.manning.com/books/aws-lambda-in-action) 或者 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ### Whitepapers
 
@@ -1087,7 +1087,7 @@ AWS博客：
 
 AWS Tweeps：
 
-* [@awscloud](https://twitter.com/awscloud) -官方Twitter Feed.
+* [@awscloud](https://twitter.com/awscloud) -官方Twitter供稿.
 * [@AWS_Partners](https://twitter.com/AWS_Partners)
 * [@AWSIdentity](https://twitter.com/AWSIdentity)
 * [@AWSMarketplace](https://twitter.com/AWSMarketplace)
@@ -1186,14 +1186,14 @@ AWS会议：
 * EC2使用率同比增长95％.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * S3数据传输同比增长120％.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
     * S3可容纳数万亿个对象，并经常以每秒150万个请求的速度达到峰值.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*数据库服务使用量同比增长127％.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+*数据库服务的使用同比增长了127％.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
     * 10亿美元的年收入运行率业务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *每天新增200万个EBS卷.[4](https://www.youtube.com/watch?v=OuyUbvtgfDk)</sup>
 *客户已经启动了超过1500万个Hadoop集群.[3](http://www.forbes.com/sites/benkepes/2014/11/25/scale-beyond-comprehension-some-aws-numbers/)</sup>
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会增加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1201,7 +1201,7 @@ AWS会议：
 
 ### Services in Plain English
 
-* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) -娱乐和教育，是社区的贡献.
+* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) -娱乐和教育，对社区的贡献.
 
 ### Compute Services
 
@@ -1216,14 +1216,14 @@ AWS会议：
 * [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) -在多个EC2实例之间自动分配传入流量.
 * [Lambda](https://aws.amazon.com/lambda/) -运行代码以响应事件并自动管理EC2实例.
 * [Lightsail](https://amazonlightsail.com/) -启动和管理简单的虚拟专用服务器.
-* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) -创建逻辑隔离的EC2实例集，可以使用VPN连接将其连接到现有网络.
+* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) -创建逻辑上隔离的EC2实例集，可以使用VPN连接将其连接到现有网络.
 
 ### Networking Services
 
 * [Direct Connect](https://aws.amazon.com/directconnect/) -提供与AWS的专用连接，以实现更快，更便宜的数据吞吐量.
 * [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) -在多个EC2实例之间自动分配传入流量.
 * [Route 53](https://aws.amazon.com/route53/) -提供高可用性和可扩展的域名系统（DNS）Web服务.
-* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) -创建逻辑隔离的EC2实例集，可以使用VPN连接将其连接到现有网络.
+* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) -创建逻辑上隔离的EC2实例集，可以使用VPN连接将其连接到现有网络.
 
 ### Enterprise Applications
 
@@ -1239,11 +1239,11 @@ AWS会议：
 * [Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) -托管在EC2和S3上运行的Hadoop和Spark框架.
 * [Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) -Managed Elasticsearch，一个流行的开源搜索和分析引擎.
 * [Glue](https://aws.amazon.com/glue/) -准备数据并将其加载到数据存储中.
-* [Kinesis](https://aws.amazon.com/kinesis/) -提供大型分布式数据流的实时数据处理.
+* [Kinesis](https://aws.amazon.com/kinesis/) -在大型的分布式数据流上提供实时数据处理.
 * [Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) -在流数据上编写标准的SQL查询，而无需学习任何新的编程技能.
 * [Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) -捕获流数据并将其自动加载到S3和Redshift中.
 * [Quicksight](https://aws.amazon.com/quicksight/) -提供云驱动的商业智能，成本仅为传统BI解决方案的1/10.
-* [Redshift](https://aws.amazon.com/redshift/) -通过列存储和多节点计算提供PB级的数据仓库.
+* [Redshift](https://aws.amazon.com/redshift/) -通过列存储和多节点计算提供PB级数据仓库.
 
 ### Artificial Intelligence
 
@@ -1256,23 +1256,23 @@ AWS会议：
 
 * [CloudFormation](https://aws.amazon.com/cloudformation/) -提供用于提供其他资源的基于文件的界面.
 * [CloudTrail](https://aws.amazon.com/cloudtrail/) -提供所有活动的日志.
-* [CloudWatch](https://aws.amazon.com/cloudwatch/) -从EC2开始提供对AWS云资源和应用程序的监视.
+* [CloudWatch](https://aws.amazon.com/cloudwatch/) -从EC2开始，提供对AWS云资源和应用程序的监视.
 * [Command Line Interface (CLI)](https://aws.amazon.com/cli/) -提供CLI来管理所有服务.
 * [Config](https://aws.amazon.com/config/) -提供所有资源的详细视图.
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) -基于Web的界面，用于管理所有服务.
 * [OpsWorks](https://aws.amazon.com/opsworks/) -使用Chef提供EC2服务的配置.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) -您对服务健康状况的个性化看法.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，然后他们可以在个性化门户中访问所需的产品.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，最终用户可以在个性化门户中访问所需的产品.
 
 ### Security and Identity Services
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) -使您轻松配置，管理和部署SSL / TLS证书以与AWS服务一起使用.
 * [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全的合规性要求.
-* [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中设置新的独立目录.
+* [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中建立新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) -隐式服务，用于对各种服务的访问进行身份验证的身份验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) -自动化安全评估服务，可帮助改善AWS上部署的应用程序的安全性和合规性.
 * [Key Management Service (KMS)](https://aws.amazon.com/kms/) -一项托管服务，使您可以轻松创建和控制用于加密数据的加密密钥.
-* [Shield](https://aws.amazon.com/shield/) -托管DDoS保护.
+* [Shield](https://aws.amazon.com/shield/) -托管的DDoS保护.
 * [WAF](https://aws.amazon.com/waf/) -监视和管理CloudFront分布的Web应用程序防火墙服务.
 
 ### Internet of Things Service
@@ -1284,8 +1284,8 @@ AWS会议：
 * [API Gateway](https://aws.amazon.com/api-gateway/) -用于发布，维护和保护Web服务API的服务.
 * [Cognito](https://aws.amazon.com/cognito/) -提供用户身份和数据同步.
 * [Device Farm](https://aws.amazon.com/device-farm/) -适用于物理设备上的iOS，Android和Fire OS应用程序的应用程序测试服务.
-* [Mobile Analytics](https://aws.amazon.com/mobileanalytics/) -收集，可视化和了解应用使用数据的服务.
-* [Mobile Hub](https://aws.amazon.com/mobile/) -提供集成控制台，可帮助您构建，测试和监视您的移动应用程序.
+* [Mobile Analytics](https://aws.amazon.com/mobileanalytics/) -用于收集，可视化和了解应用使用数据的服务.
+* [Mobile Hub](https://aws.amazon.com/mobile/) -提供一个集成控制台，可帮助您构建，测试和监视您的移动应用程序.
 * [Pinpoint](https://aws.amazon.com/pinpoint/) -针对移动应用的定向推送通知.
 * [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) -为应用程序提供托管的多协议“推送”消息.
 
@@ -1293,7 +1293,7 @@ AWS会议：
 * [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) -为EC2提供持久的块级存储卷.
 * [Elastic File System (EFS)](https://aws.amazon.com/efs/) -用于EC2实例的文件存储服务.
 * [Glacier](https://aws.amazon.com/glacier/) -提供低成本，长期存储选项，用于归档数据.
-* [Import/Export](https://aws.amazon.com/importexport/) -使用便携式存储设备进行传输，加快将大量数据移入和移出AWS的速度.
+* [Import/Export](https://aws.amazon.com/importexport/) -加快使用便携式存储设备进行传输将大量数据移入和移出AWS的速度.
 * [Simple Storage Service (S3)](https://aws.amazon.com/s3/) -提供基于Web服务的存储.
 * [Storage Gateway](https://aws.amazon.com/storagegateway/) -具有基于云的备份的iSCSI块存储虚拟设备.
 
@@ -1302,9 +1302,9 @@ AWS会议：
 * [Aurora](https://aws.amazon.com/rds/aurora/) -与MySQL和PostgreSQL兼容的关系数据库，具有改进的性能.
 * [DynamoDB](https://aws.amazon.com/dynamodb/) -提供由SSD支持的可扩展，低延迟的NoSQL在线数据库服务.
 * [ElastiCache](https://aws.amazon.com/elasticache/) -为Web应用程序（Memcached，Redis）提供内存中缓存.
-* [Redshift](https://aws.amazon.com/redshift/) -通过列存储和多节点计算提供PB级的数据仓库.
+* [Redshift](https://aws.amazon.com/redshift/) -通过列存储和多节点计算提供PB级数据仓库.
 * [Relational Database Service (RDS)](https://aws.amazon.com/rds/) -提供具有MySQL，Oracle，SQL Server，PostgreSQL和MariaDB支持的可伸缩数据库服务器.
-* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) -可帮助您将数据库架构从Oracle或Microsoft SQL Server数据库转换为RDS MySQL数据库实例或Aurora数据库集群的应用程序.
+* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) -该应用程序可帮助您将数据库架构从Oracle或Microsoft SQL Server数据库转换为RDS MySQL数据库实例或Aurora数据库集群.
 * [SimpleDB](https://aws.amazon.com/simpledb/) -允许开发人员对结构化数据运行查询.
 
 ### Application Services
@@ -1316,8 +1316,8 @@ AWS会议：
 * [Flexible Payments Service (FPS)](https://payments.amazon.com/developer) -提供小额付款的界面.
 * [Simple Email Service (SES)](https://aws.amazon.com/ses/) -提供批量和交易电子邮件发送.
 * [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) -为应用程序提供托管的多协议“推送”消息.
-* [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) -为Web应用程序提供托管的消息队列.
-* [Simple Workflow (SWF)](https://aws.amazon.com/swf/) -用于构建可伸缩，弹性应用程序的工作流服务.
+* [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) -提供Web应用程序的托管消息队列.
+* [Simple Workflow (SWF)](https://aws.amazon.com/swf/) -用于构建可扩展的，有弹性的应用程序的工作流服务.
 * [Step Functions](https://aws.amazon.com/step-functions/) -协调分布式应用程序的组件.
 
 ### Developer Tools
@@ -1331,7 +1331,7 @@ AWS会议：
 
 ### Miscellaneous Services
 
-* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) -为卖家提供程序化Web服务，以使用Amazon Fulfillment将商品运入和运出Amazon.
+* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) -为卖家提供程序化Web服务，以使用Amazon Fulfillment来往/从Amazon运送商品.
 * [Mechanical Turk](https://www.mturk.com/mturk/welcome) -管理分散在许多人中的小型工作单元.
 * [Partner Network (APN)](https://aws.amazon.com/partners/) -为合作伙伴提供技术信息以及销售和市场支持，以增加商机.
 * [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) -提供对产品数据和电子商务功能的访问.
@@ -1348,11 +1348,11 @@ AWS会议：
 
 请随时与我联系，讨论任何问题，问题或评论.
 
-我的联系方式可以在我 [GitHub page](https://github.com/donnemartin).
+我的联系信息可以在我 [GitHub page](https://github.com/donnemartin).
 
 ## License
 
- *根据开放源代码许可，我正在向您提供此存储库中的代码和资源. 因为这是我的个人存储库，所以您获得的代码和资源的许可证是我而非我的雇主（Facebook）提供的.*
+ *我正在根据开放源代码许可向您提供此存储库中的代码和资源. 因为这是我的个人存储库，所以您获得的代码和资源的许可证是我而非我的雇主（Facebook）提供的.*
 
     版权所有2017 Donne Martin
 

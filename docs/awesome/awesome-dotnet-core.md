@@ -150,7 +150,7 @@
 * [BTCPayServer](https://github.com/btcpayserver/btcpayserver) -与Bitpay API兼容的跨平台，自托管服务器.
 * [Meadow](https://github.com/MeadowSuite/Meadow) -集成的以太坊实施和工具套件，专注于Solidity测试和开发.
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) -用于.NET框架的综合比特币库.
-* [NBlockchain](https://github.com/danielgerlag/NBlockchain) -用于构建支持区块链的应用程序的.NET标准库
+* [NBlockchain](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
 * [NBXplorer](https://github.com/dgarage/NBXplorer) -比特币和Altcoin轻量级区块浏览器.
 * [NEO](https://github.com/neo-project/neo) -智慧经济的开放网络.
 * [Nethereum](https://github.com/Nethereum) -将以太坊的热爱带到.NET.
@@ -183,7 +183,7 @@
 * [vsts-agent](https://github.com/Microsoft/vsts-agent/blob/master/README.md) -Visual Studio Team Services构建和发布代理.
 
 ### Bundling and Minification
-* [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
+* [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier) -Visual Studio扩展，可让您配置JS，CSS和HTML文件的捆绑和最小化.
 * [JavaScriptViewEngine](https://github.com/pauldotknopf/JavaScriptViewEngine)  -ASP.NET MVC ViewEngine，用于在JavaScript环境中呈现标记. 是React和Angular服务器端渲染的理想选择.
 * [Smidge](https://github.com/Shazwazza/Smidge/) -用于ASP.NET Core的轻量级运行时CSS / JavaScript文件压缩，组合，压缩和管理库.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin)  -包含一组标记缩小符的.NET库. 该项目的目的是通过减少HTML，XHTML和XML代码的大小来提高Web应用程序的性能.
@@ -278,7 +278,7 @@
   * [mysql-connector-net](https://github.com/mysql/mysql-connector-net/tree/8.0) -Connector / Net是用于MySQL的完全托管的ADO.NET驱动程序.
   * [MySqlConnector](https://github.com/mysql-net/MySqlConnector) -用于.NET和.NET Core的异步MySQL连接器.
 * Neo4j
-  * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) -.NET的Neo4j Bolt驱动程序.
+  * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt driver for .NET.
   * [Neo4jClient](https://github.com/Readify/Neo4jClient) -Neo4j的.NET客户端绑定.
 * [npgsql](https://github.com/npgsql/npgsql) - .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) -为.NET启用Linq的文档数据库.
@@ -327,7 +327,7 @@
 ### Exceptions
 * [Demystifier](https://github.com/benaadams/Ben.Demystifier) -对堆栈跟踪的高性能了解（使错误日志更高效）.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) -出色的.NET客户端
-* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) -GlobalExceptionHandlerDotNet允许您将ASP.NET Core应用程序管道中的异常处理配置为约定，而不是在每个控制器操作中显式处理它们.
+* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) -GlobalExceptionHandlerDotNet允许您将异常处理配置为与ASP.NET Core应用程序管道的约定，而不是在每个控制器动作中显式处理它们.
 * [Sentry](https://github.com/getsentry/sentry-dotnet) -.NET SDK for Sentry，这是一个开放源代码错误跟踪，可以帮助开发人员实时监控和修复崩溃.
 
 ### Functional Programming
@@ -493,14 +493,14 @@
 * [readline](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
 * [ReflectionMagic](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
 * [Relinq](https://github.com/re-motion/Relinq) -使用re-linq，现在比以往任何时候都更容易创建功能齐全的LINQ提供程序.
-* [Remote.Linq](https://github.com/6bee/Remote.Linq) -远程Linq是一个小巧易用但功能强大的库，可将LINQ表达树转换为强类型，可序列化的表达树，反之亦然.
+* [Remote.Linq](https://github.com/6bee/Remote.Linq) -远程Linq是一个小型易用但功能强大的库，可将LINQ表达树转换为强类型可序列化的表达树，反之亦然.
 * [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) -HTML到Markdown转换器库.
 * [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) -PdfReport.Core是代码优先报告引擎，它建立在iTextSharp.LGPLv2.Core和EPPlus.Core库的顶部.
 * [Scientist](https://github.com/github/Scientist.net)  -.NET库，用于精心重构关键路径. 它是GitHub的Ruby Scientist库的端口.
 * [Scrutor](https://github.com/khellang/Scrutor) -Microsoft.Extensions.DependencyInjection的程序集扫描扩展.
-* [Sheller](https://github.com/twitchax/Sheller) - A .NET library that makes shelling out commands super easy and fluent.
+* [Sheller](https://github.com/twitchax/Sheller) -一个.NET库，使shell命令超级简单和流畅.
 * [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET) -string.Format的可扩展替代.
-*股票
+* Stocks
   * [Trady](https://github.com/lppkarl/Trady) -方便的库，用于计算技术指标，它的目标是成为一个自动交易系统，提供股票数据馈送，指标计算，策略建立和自动交易.
 * [System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core) -System Linq Dynamic功能的.NET Standard（.NET Core）版本.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) -Units.NET为您提供所有常用的度量单位以及它们之间的转换.
@@ -535,7 +535,7 @@
   * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) -用于插入更新删除读取（CRUD）操作的EntityFrameworkCore批量批处理扩展
   * [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)  -实体框架实用程序| 批量运营| 批量删除批量更新| 查询缓存| 查询过滤器| 查询未来| 查询包括| 审计.
   * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) -当您的SQL查询违反SqlServer，MySql或PostgreSQL中的数据库约束时，请对EntityFrameworkCore使用类型化的异常.
-  * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - Trigger events for EF.
+  * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) -触发EF事件.
   * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx) -EF操作的反应性“热”可观察物.
   * [Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL) -PostgreSQL的实体框架核心提供程序.
   * [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) -轻松获取任何实体的主键（包括组合键）.
@@ -560,7 +560,7 @@
 * [RepoDb](https://github.com/mikependon/RepoDb) -用于.NET的混合ORM库.
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) -轻便，简单，快速的基于约定的POCO ORM.
 * [SqlFu](https://github.com/sapiens/SqlFu) -快速，通用的Micro-ORM.
-* [SmartSql](https://github.com/Ahoo-Wang/SmartSql) -SmartSql = MyBatis +缓存（内存| Redis）+ ZooKeeper + R / W拆分+动态存储库....
+* [SmartSql](https://github.com/Ahoo-Wang/SmartSql) -SmartSql = MyBatis +缓存（内存| Redis）+ ZooKeeper +读/写拆分+动态存储库....
 * [SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting SQL based implementations for .NET.
 
 ### Profiling
@@ -620,7 +620,7 @@
 * [octokit.net](https://github.com/octokit/octokit.net) -适用于.NET的GitHub API客户端库.
 * [PreStorm](https://github.com/jshirota/PreStorm) -用于ArcGIS Server的并行REST客户端.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
-* [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd](https://github.com/etsy/statsd) server.
+* [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd](https://github.com/etsy/statsd) 服务器.
 * [tweetinvi](https://github.com/linvi/tweetinvi) - Intuitive .NET C# library to access the Twitter REST and STREAM API.
 
 ### Security
@@ -633,7 +633,7 @@
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) -适用于ASP.NET Core的reCAPTCHA 2.0.
 * [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) -Roslyn分析仪，旨在帮助对.NET应用程序进行安全审核.
 * [OwaspHeaders](https://github.com/GaProgMan/OwaspHeaders.Core) -用于注入Owasp的.NET Core中间件建议使用HTTP标头，以提高安全性.
-* [Security](https://github.com/aspnet/Security) -中间件，用于Web应用程序的安全性和授权.
+* [Security](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
 * [SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) -小型包装，允许将安全标头添加到ASP.NET Core网站.
 
 ### Searching
@@ -654,7 +654,7 @@
 * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) -扩展的.ml Xml序列化器.
 * [Jil](https://github.com/kevin-montrose/Jil) -建立在Sigil上的快速.NET JSON（De）Serializer.
 * MessagePack 
-  * [msgpack-cli](https://github.com/msgpack/msgpack-cli) -公共语言基础结构的MessagePack实现/ [msgpack.org](http://msgpack.org).
+  * [msgpack-cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
   * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 * [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) -面向.NET的流行的高性能JSON框架.
 * [protobuf-net](https://github.com/mgravell/protobuf-net/) -惯用.NET的协议缓冲区库.
@@ -729,11 +729,12 @@
 * [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 * [ShareX](https://github.com/ShareX/ShareX)  -免费和开放源代码程序，可让您捕获或记录屏幕的任何区域并通过按一下键进行共享. 它还允许将图像，文本或其他类型的文件上传到您可以选择的80多个受支持的目的地. [https://getsharex.com](https://getsharex.com)
 * [SharpLab](https://github.com/ashmind/SharpLab) -.NET代码游乐场，显示中间步骤和代码编译结果. [https://sharplab.io](https://sharplab.io)
+* [SmartCode](https://github.com/Ahoo-Wang/SmartCode)  – SmartCode = IDataSource-&gt; IBuildTask-&gt; IOutput =&gt;构建所有内容！！！  （包括[代码生成器]）
 * [sourcelink](https://github.com/dotnet/sourcelink) -SourceLink是一种语言和源代码控制不可知系统，可为二进制文件提供一流的源代码调试体验.
 * [System.CommandLine](https://github.com/dotnet/command-line-api) -System.CommandLine，一组用于命令行解析，调用和呈现终端输出的库.
+* [Typin](https://github.com/adambajguz/Typin) -易于使用的声明性框架，用于交互式CLI应用程序和基于CliFx的命令行工具（直接模式）.
 * [X.Web.Sitemap](https://github.com/dncuug/X.Web.Sitemap) –用于.NET和.NET Core的简单站点地图生成器
 * [X.Web.RSS](https://github.com/dncuug/X.Web.RSS) –用于.NET和.NET Core的简单RSS Feed生成器
-* [SmartCode](https://github.com/Ahoo-Wang/SmartCode)  – SmartCode = IDataSource-&gt; IBuildTask-&gt; IOutput =&gt;构建所有内容！！！  （包括[代码生成器]）
 
 ### Web Framework
 * WebAssembly

@@ -21,6 +21,8 @@
 - [Questions](https://www.digitalocean.com/community/questions)
 - [Projects](https://www.digitalocean.com/community/projects)
 - [Meetups](https://www.meetup.com/pro/digitalocean/)
+- [DigitalOcean Lovers](https://www.linkedin.com/groups/8876623/) -一个针对DigitalOcean的用户和爱好者的LinkedIn组.
+- 
 
 ## Configuration management
 

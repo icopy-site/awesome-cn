@@ -17,12 +17,12 @@
 
  | 友情链接预览|
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出思路，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索的能力以及迭代解决方案的能力结合在一起. 他们天生就是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出思路，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学结合了数据的许多方面，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 在那些日子里，具有物理学和数学背景的人涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代的人才，而主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 在那些日子里，具有物理学和数学背景的人涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代人才，主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
-| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家及其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
+| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
 
 ## Learn Data Science
@@ -103,6 +103,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://science.iit.edu/programs/graduate/master-data-science)
 
+## Intensive Programs
+- [S2DS](https://s2ds.org/)
+
 ## MOOC's
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
@@ -175,7 +178,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Datalab from Google](https://cloud.google.com/datalab/docs/)  | 使用Python和SQL等熟悉的语言轻松交互地浏览，可视化，分析和转换数据.  |
 | [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/)  | 是一个个人的，可移植的Hadoop环境，其中包含许多交互式Hadoop教程.  |
 | [R](http://www.r-project.org/)  | 是用于统计计算和图形的免费软件环境.  |
-| [RStudio](https://www.rstudio.com)  |  IDE – R的强大用户界面.它是免费的开放源代码，可在Windows，Mac和Linux上运行.  |
+| [RStudio](https://www.rstudio.com)  |  IDE – R的强大用户界面.它是免费和开放源代码，可在Windows，Mac和Linux上运行.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 完全免费的企业就绪Python发行版，用于大规模数据处理，预测分析和科学计算|
 | [Pandas GU](https://github.com/adamerose/pandasgui) | Pandas GUI |
 | [Scikit-Learn](http://scikit-learn.org/stable/)  |  Python中的机器学习
@@ -222,7 +225,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.  |
 | [CML](https://github.com/iterative/cml)  | 一个开放源代码工具包，用于在数据科学项目中使用持续集成. 使用GitHub Actions＆GitLab CI在类似于生产的环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视报告.  |
-| [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|
+| [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|英特尔®开发人员专区
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于Python的推论统计，假设检验和回归框架|
 | [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库|
 | [spaCy](https://spacy.io/)  | 高效的自然语言处理工具包|
@@ -452,7 +455,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ## Bloggers
 
 - [Wes McKinney](http://wesmckinney.com/archives.html) -韦斯·麦金尼档案馆.
-- [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网站.
+- [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网络.
 - [Greg Reda](http://www.gregreda.com/) -格雷格·雷达（Greg Reda）个人博客
 - [Kevin Davenport](http://kldavenport.com/) -凯文·达文波特个人博客
 - [Julia Evans](http://jvns.ca/) -递归中心校友

@@ -49,7 +49,7 @@
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) -Orocos运动学和动力学C ++库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) -适用于Vortex Lite和OpenSplice的简单DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 - [Webots](https://cyberbotics.com) -ROS 2的机器人模拟器. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
-- [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
+- [LGSVL](https://www.lgsvlsimulator.com/) -仿真软件，可加速安全无人驾驶汽车的开发.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) -这是用于Unity中机器人仿真的工具，教程，资源和文档的中央存储库.
 - [Foxglove Studio](https://github.com/foxglove/studio) -用于机器人技术的集成可视化和诊断工具（即将推出对ROS 2的支持）.
 
@@ -79,7 +79,7 @@
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) -用于将ROS2与OpenCV接口的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) -用于ROS2的通用键盘Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) -简单的操纵杆伸缩机器人. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
-- [navigation](https://github.com/ros2/navigation) -ROS2导航堆栈. ![navigation](https://img.shields.io/github/stars/ros2/navigation.svg)
+- [navigation](https://github.com/ros-planning/navigation2/) -ROS2导航堆栈. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
 - [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) -ROS 2的原始ROS1诊断程序的分支版本（当前仅诊断程序更新）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
 - [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) -原始ROS机器人状态发布器的分叉版本，所有修改都可以在ROS2生态系统中进行编译. ![robot_state_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
 - [common_interfaces](https://github.com/ros2/common_interfaces) -一组包含通用接口文件（.msg和.srv）的软件包. ![common_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
@@ -104,6 +104,8 @@
 - [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) -包含Micro XRCE-DDS代理的Docker映像.
 - [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) -Micro XRCE-DDS实现了客户端-服务器协议，以使资源受限的设备（客户端）能够参与DDS通信.
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) -使用Micro XRCE-DDS Agent的ROS 2软件包.
+- [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) 是一种可扩展且性能卓越的协议，可以透明地用于与之交互 [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) 以及 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/).
+- [Eclipse Zenoh-Plugin-DDS](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - 这是一个 [zenoh](https://zenoh.io) 该插件可通过zenoh透明地路由ROS2 / DDS数据. 这通常用于 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) 通过无线网络或Internet. 
 
 ### "System" bindings
 
@@ -241,7 +243,7 @@
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) -ROS弹性软件包的状态.
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) -ROS2 Ardent软件包的状态.
 - [ROS2 Buildfarm](http://build.ros2.org) -构建信息（詹金斯构建农场）.
-- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) -ROS 2命令行界面的备忘单.
+- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
 
 ## Community
 

@@ -98,7 +98,7 @@
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展程序，可模拟内容交付网络以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) -适用于Android的基于HTTPS和Tor的DNS，DNSCrypt客户端，防火墙和连接跟踪器.
-- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) -Databunker是基于网络的，自托管的，符合GDPR要求的，用于个人数据的安全存储.
+- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) -Databunker是基于网络的，自托管的，符合GDPR要求的个人数据安全存储.
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) -旨在阻止未知传出连接的防火墙，以保护您的隐私和Mac.
 
 ## Tracking
@@ -112,7 +112,7 @@
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) -将Facebook活动与网络活动的其余部分隔离开，以防止跟踪.
 - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) -将您的Google活动与其他网络活动隔离开，以防止跟踪.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) -浏览器扩展程序，可从URL查询字符串中剥离Google Analytics（分析）（UTM）令牌.
-- [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) - An audio firewall to block ultrasound tracking applications.
+- [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) -阻止超声波跟踪应用程序的音频防火墙.
 - [Blokada](https://blokada.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/blokadaorg/blokada) -适用于Android的紧凑，快速的广告拦截器，适用于所有应用，无需root用户.
 - [Better](https://better.fyi/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) -适用于iPhone，iPad和Mac上Safari浏览器的隐私工具，可阻止行为广告和跟踪器.
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) -创建具有良好默认设置的Firefox配置文件的工具.
@@ -133,7 +133,7 @@
 - [re:consent](https://cliqz.com/en/magazine/re-consent) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/re-consent) -浏览器插件，用于查看/更改您对网站进行数据处理的同意.
 - [Trackless](https://github.com/ascorbic/trackless) -在您的网站上添加GDPR友好的Google Analytics（分析）选择加入/退出按钮.
 - [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humanswitch/consentcookie) -可自定义的脚本，允许用户根据情况选择加入Cookie.
-- [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) -帮助遵守欧盟数据保护和隐私规则.
+- [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) - Help for compliance to EU data protection & privacy rules.
 - [Klaro](https://klaro.kiprotect.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/KIProtect/klaro) -一个简单而强大的工具，用于管理网站上的用户同意.
 
 ## Analytics
@@ -214,7 +214,12 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) -用Rust编写的私有Reddit前端.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) -一种自动将YouTube频道镜像到PeerTube频道的机器人.
 - [Watomatic](https://github.com/adeekshith/watomatic) -自动回复WhatsApp，因此您可以停止使用它.
+
+## Translation
+
 - [Lingva Translate](https://lingva.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TheDavidDelta/lingva-translate) -Google翻译的另一种前端.
+- [LibreTranslate](https://libretranslate.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/uav4geo/LibreTranslate) -自托管的机器翻译API，没有限制，与专有服务没有关系.
+- [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/argosopentech/argos-translate) -开源神经机器翻译.
 
 ## Freedom
 
@@ -257,7 +262,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) -更改您的在线习惯，设定目标，尝试干预措施，查看进度.
 - [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -Redshift会根据周围环境调整屏幕的色温.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -Safe Eyes是Linux用户用来减少和预防重复性拉伤（RSI）的工具.
-- [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) - App to strengthen relationship between people with memory loss and people close to them.
+- [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) -加强记忆力丧失者与亲近者之间关系的应用程序.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) -用于创建和维护良好习惯的Android应用.
 - [If me](https://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) -精神健康体验社区，鼓励人们与亲人分享他们的故事.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，提醒您在使用计算机时要休息一下.
@@ -269,7 +274,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OpenTracksApp/OpenTracks) -完全尊重您的隐私的运动跟踪应用程序.
 - [Winddown](https://github.com/schneefux/vscode-winddown)  -编写代码并保持健康. 鼓励您休息的VS Code扩展.
 - [dijo](https://github.com/NerdyPepper/dijo) -在您的终端上运行的可编写脚本的习惯跟踪器.
-- [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/goldencheetah/goldencheetah) -面向骑自行车者，跑步者和铁人三项运动员的性能软件，可从许多设备上读取信息.
+- [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/goldencheetah/goldencheetah) -面向骑自行车者，跑步者和铁人三项运动员的性能软件，可从许多设备上读取.
 - [gammastep](https://gitlab.com/chinstrap/gammastep) -Linux工具，可根据环境调整屏幕的色温.
 
 ## Mindfulness
@@ -308,8 +313,8 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Hack the Media](https://github.com/nemild/hack-the-media) -媒体素养指南，重点介绍我们的媒体资源如何提供有缺陷的世界观.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nemild/hack-the-media/master/software-engineers-media-guide.md) -面向软件工程师的媒体素养指南.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) -分析您自己数据的Facebook副本.
-- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) -所有可能的方式，网站都可能泄漏HTTP请求.
-- [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
+- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
+- [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) -将透明度引入在线跟踪-由Cliqz和Ghostery构建.
 - [Awful AI](https://github.com/daviddao/awful-ai) -精选列表，用于跟踪当前对AI的可怕使用-希望提高人们的知名度.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam-3-0/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) -附加组件，可实时显示第一方和第三方站点之间的Web请求.
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) -Princeton Web透明度和问责制项目，一个隐私度量框架.
@@ -369,4 +374,4 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [aschrijver](https://github.com/aschrijver) （维护者）和其他贡献者已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [aschrijver](https://github.com/aschrijver) (the maintainer) and other contributors have waived all copyright and related or neighboring rights to this work.
