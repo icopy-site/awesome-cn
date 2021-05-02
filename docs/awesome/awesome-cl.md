@@ -264,7 +264,7 @@ Docker映像
 * [Xelf](http://xelf.me/)  -可扩展的游戏库. 在Quicklisp上不可用.  [GNU LGPL2.1] [11].
 * [Trial](https://github.com/shirakumo/trial)  -试用版是OpenGL游戏引擎，主要关注模块化. 它应该提供一个有用的零组件的大型工具包，您可以从中创建游戏.  [zlib] [33].
 * [cl-mpg123](https://shirakumo.github.io/cl-mpg123) 和 [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 和 libout123 respectively, giving you fast 和 easy to use mp3 decoding 和 cross-platform audio output. [zlib][33].
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/)  –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及聆听鼠标和键盘输入.  [MIT] [200].
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/)  –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及收听鼠标和键盘输入.  [MIT] [200].
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad)  -在Windows，Mac OS和Linux上访问游戏手柄和操纵杆.  [zlib] [33].
 * [virality](https://github.com/bufferswap/ViralityEngine) -用Common Lisp [MIT] [200]编写的基于组件的游戏引擎.
 
@@ -338,7 +338,7 @@ Implementations
 * [ABCL](https://common-lisp.net/project/armedbear/)  -武装熊常见的口齿不清； 针对JVM，编译为字节码.  [标准符合性] [4]. 具有[Classpath异常] [3]的[GNU GPL3] [2].
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  -卡内基梅隆大学实施. 公共区域.
 * [GNU CLISP](http://www.clisp.org/)  -GNU实现； 包含一个编译器和一个解释器.  [标准符合性] [6].  [GNU GPL3] [2].
-* [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可使用LLVM与C ++库和程序无缝地互操作，以编译为本机代码. 这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
+* [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可以使用LLVM与C ++库和程序无缝地互操作，以编译为本地代码. 这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
 * [Corman Lisp](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT][200].
 
 Proprietary:
@@ -666,7 +666,7 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的Web框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -用于构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
+* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -RESTful Web框架.  Web服务器不可知. 目前支持Hunchentoot和Clack. 路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
@@ -740,7 +740,7 @@ Javascript
 * [SmackJack](https://github.com/aarvid/SmackJack)  -使用parenscript生成javascript和hunchentoot（目前）作为Web服务器的Ajax Common Lisp库. 还允许服务器端lisp函数调用客户端脚本.  [MIT] [200].
 * [Panic](https://github.com/michaeljforster/panic) ，一个React的Parenscript库. 不在Quicklisp中.  [MIT] [200]. 它 [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 * [remote-js](https://github.com/ceramic/remote-js)  -将JavaScript从Common Lisp发送到浏览器.  [MIT] [200].
-* [sigil](https://github.com/burtonsamograd/sigil) -的旁白
+* [sigil](https://github.com/BnMcGn/sigil) -的旁白
  Javascript命令行编译器和REPL.  [MIT] [200].
 
 也可以看看
@@ -877,7 +877,7 @@ Utils
 * ：星星： [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)  -可移植的共享状态并发.  [Expat] [14].
 * ：星星： [lparallel](https://github.com/lmj/lparallel)  -用于并行编程的库.  [3子BSD] [15].
 * [lfarm](https://github.com/lmj/lfarm)  -在机器之间分配工作（在并行和usocket之上）.  [BSD_3Clause] [15]
-* [calispel](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)类口香糖的类似渠道. 使用阻塞功能时，可以选择缓冲的通道和“ CSP select”语句.  ISC样式.
+* [calispel](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)类口香糖的类似渠道. 使用阻塞功能时，可以选择缓冲的通道和“ CSP select”语句.  ISC风格.
    -“它是完整，灵活且易于使用的.我推荐Calispel胜过Lparallel和ChanL.”  @Ambrevar. [discussion](https://github.com/CodyReichert/awesome-cl/issues/290)
 * [chanl](https://github.com/zkat/chanl)  -基于通道的可移植并发.  [Expat] [14]，部分内容位于[3-clause BSD] [15]下.
 * [cl-async](https://github.com/orthecreedence/cl-async)  -用于通用，无阻塞编程的库.  [Expat] [14].

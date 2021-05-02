@@ -40,7 +40,7 @@
 - [Wagtail Froala](https://github.com/jaydensmith/wagtailfroala) -扩展Wagtail以在RichTextField / RichTextBlock中使用Froala WYSIWYG编辑器.
 - [Wagtail Medium Editor](https://github.com/dperetti/Django-wagtailmedium) -可定制的Wagtail媒体编辑器，具有链接锚点支持.
 - [WagtailDraftail](https://github.com/springload/wagtaildraftail) – Wagtail的Draft.js编辑器，基于 [Draftail](https://github.com/springload/draftail) 和 [draftjs_exporter](https://github.com/springload/draftjs_exporter).
-- [wagtail-readinglevel](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail插件，用于确定输入到富文本字段中的文本的阅读级别.
+- [wagtail-readinglevel](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail插件，用于确定输入到富文本字段的文本的阅读级别.
 
 ### Widgets
 
@@ -56,7 +56,7 @@
 
 ### StreamField
 
-- [Wagtail FontAwesome](https://gitlab.com/alexgleason/wagtailfontawesome) - Add FontAwesome icons to StreamField.
+- [Wagtail FontAwesome](https://gitlab.com/alexgleason/wagtailfontawesome) -将FontAwesome图标添加到StreamField.
 - [Wagtail Commonblocks](https://github.com/springload/wagtailblocks) -Wa的通用StreamField块.
 - [Wagtail SVGmap](https://github.com/City-of-Helsinki/wagtail-svgmap) -通过内嵌SVG用于Wa的ImageMap功能.
 - [Wagtail ClearStream](https://github.com/heymonkeyriot/wagtailclearstream) -使Wagtail的StreamField更具模块化的应用程序.
@@ -105,7 +105,7 @@
 ### Security
 
 - [wagtailenforcer](https://github.com/springload/wagtailenforcer) -如果您需要在Wagtail网站上实施安全协议，那么您来对地方了.
-- [wagtail-yubikey](https://github.com/ahopkins/wagtail-yubikey) -在Wagtail管理面板上启用YubiKey两因素身份验证。
+- [wagtail-yubikey](https://github.com/ahopkins/wagtail-yubikey) -在Wagtail管理面板上启用YubiKey两因素身份验证.
 - [wagtail-2fa](https://github.com/labd/wagtail-2fa) -通过与django-otp集成，在Wagtail中添加两因素身份验证.
 
 ### Media
@@ -149,10 +149,11 @@
 - [Wagtail Error Pages](https://gitlab.com/alexgleason/wagtailerrorpages) -Wa的漂亮，智能，可自定义的错误页面.
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) -适用于Wagtail的特定于站点的主题加载器.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) –更容易共享Wa尾草稿.
-- [Wagtail Gridder](https://github.com/wharton/wagtailgridder) -网格卡布局类似于Google图像搜索结果，并扩展了卡详细信息区域.
+- [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 - [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) -Wagtail的InlinePanel的直接替代品，适用于大量内联（可与拖放支持配合使用）.
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) -Wa的日历应用程序.
 - [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) -使用实际的URL配置和django视图扩展Wagtail页面.
+- [Wagtail Transfer](https://github.com/wagtail/wagtail-transfer) -Wagtail的官方扩展，允许在Wagtail项目的多个实例之间传输内容
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) -在Wagtail实例之间导入/导出页面.
 - [Wagtail Import/Export Tool](https://github.com/berkalpyakici/wagtail-import-export-tool) -重构 [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) . 此工具支持导入/导出在导入/导出页面上使用的图像，文档和摘要.
 - [Wagtail Tag Manager](https://github.com/jberghoef/wagtail-tag-manager) -Wagtail附加组件，使脚本和标签的管理更加容易且符合GDPR要求.
@@ -161,7 +162,7 @@
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) -Mixin支持在管理面板中进行拖放排序.
 - [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) -内容旁边的实时页面预览.
 - [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) –为简化开发人员的简历而创建的Wagtail项目.
-- [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) -使用可自定义的映射系统将Google Docs或Docx中的内容导入StreamFields.
+- [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 - [Wagtail Trash](https://github.com/Frojd/wagtail-trash) -将页面放在可以恢复而不是永久删除的垃圾桶中.
 
 ## Tools
@@ -223,7 +224,7 @@
 - [The Zen of Wagtail – Wagtail Space 2017](https://youtu.be/ObM2pUgY-bs?t=16m38s) 作者：马特·韦斯特科特（Matt Westcott）.
 - [Plone to Wagtail – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=2m57s) 由Coen van der Kamp撰写.
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=24m9s) by Simon de Haan.
-- [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
+- [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) 钟凯文（Kevin Chung）撰写.
 - [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) 由Thibaud Colas撰写. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
 - [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) 作者：马特·韦斯科特（Matt Wescott）.
 - [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) 丽莎·亚当斯（Lisa Adams）着.
@@ -235,11 +236,11 @@
 - [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) 由Codie Roelf撰写.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) 由Daniele Procida.
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) 迈克尔·范·泰林根（Michael van Tellingen）着. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
-- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) 拉杰夫·J·塞巴斯蒂安（Rajeev J Sebastian）.
+- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) 拉杰夫·J·塞巴斯蒂安（Rajeev J Sebastian）撰写.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) 通过拉斯. [Code](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) 由Maarten Kling撰写.
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆·戴森（Tom Dyson）撰写.
-- [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Lacey Williams Henschel.
+- [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔（Lacey Williams Henschel）撰写.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 瑞安·沙利文（Ryan Sullivan）.
 - [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗伊夫（Codie Roelf）创作.
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
@@ -257,7 +258,7 @@
 - [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) 由Duco Doctor.
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) 克里斯·亚当斯（Chris Adams）撰写.
 -[[WIP] Wagtail – Wagtail Space 2019中（丰富文本）创作经验的未来]（Thibaud Colas）（https://youtu.be/MAzZ2lhMhzM?t=4067）.
-- [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）.
+- [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) 由Lisa Adams和Codie Roelf撰写.
 - [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) 由Coen van der Kamp和Lucas Moeskops撰写.
 - [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) 由拉斯·范·德·科克霍夫（Lars van de Kerkhof）设计.
 - [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) 由Kees Hink撰写. [Code](https://github.com/fourdigits/wagtail_textract).
@@ -265,7 +266,7 @@
 - [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) 由Janneke Janssen撰写. [Code](https://github.com/LUKKIEN/wagtail-marketing-addons).
 - [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) 由Arifin Ibne Matin撰写.
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) 由Daniele Procida.
-- [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) 由亚瑟·拜耳（Arthur Bayr）撰写.
+- [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) 作者：亚瑟·拜尔（Arthur Bayr）.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) 作者：布莱恩·史密斯（Brian Smith）和埃里克·谢尔曼（Eric Sherman）. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
 - [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) 蒂莫西·艾伦（Timothy Allen）着.
 - [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) 文斯·萨尔维诺（Vince Salvino）着.
@@ -274,7 +275,7 @@
 - [Everyone can fly a flag – Wagtail Space US 2019](https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6) 由威尔·巴顿（Will Barton）撰写. [Slides](https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit).
 - [Architecting for a multi-domain site – Wagtail Space US 2019](https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7) 本·比彻（Ben Beecher）撰写. [Slides](https://slides.com/benbeecher/mds/).
 - [Contributions can be more than code – Wagtail Space US 2019](https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8) 由Kalob Taulien撰写.
-- [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) 由Naomi Morduch Toubman撰写. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/).
+- [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) by Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/).
 - [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
 - [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11) 汤姆·戴森（Tom Dyson）撰写.
 

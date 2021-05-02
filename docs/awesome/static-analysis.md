@@ -15,7 +15,7 @@
 
 &gt;静态程序分析是对没有实际执行程序的情况下执行的计算机软件的分析， [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
 
- &gt;近年来，作为一名程序员，我要做的最重要的事情是积极地进行静态代码分析. 与我所防止的数百个严重错误相比，更有价值的是关于我查看软件可靠性和代码质量的方式的观念转变.  - [John Carmack (Creator of Doom)](https://www.gamasutra.com/view/news/128836/InDepth_Static_Code_Analysis.php)
+ &gt;近年来，作为一名程序员，我要做的最重要的事情是积极地进行静态代码分析. 与我所预防的数百个严重错误相比，更有价值的是关于我查看软件可靠性和代码质量的方式的观念转变.  - [John Carmack (Creator of Doom)](https://www.gamasutra.com/view/news/128836/InDepth_Static_Code_Analysis.php)
 
 ## Sponsors
 
@@ -149,7 +149,7 @@
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 分析几乎所有支持C11 / C18和C ++ 17的平台的代码.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，零除，越界数组访问以及某些其他运行时错误.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) -在编译时使用LLVM分析C / C ++代码.
 - [splint](http://splint.org) -注释辅助的静态程序检查器.
 - [SVF](http://svf-tools.github.io/SVF) -静态工具，可对C和C ++程序进行可伸缩且精确的过程间依存关系分析.
@@ -197,7 +197,7 @@
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 分析几乎所有支持C11 / C18和C ++ 17的平台的代码.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，零除，越界数组访问以及某些其他运行时错误.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) -在编译时使用LLVM分析C / C ++代码.
 - [splint](http://splint.org) -注释辅助的静态程序检查器.
 - [SVF](http://svf-tools.github.io/SVF) -静态工具，可对C和C ++程序进行可伸缩且精确的过程间依存关系分析.
@@ -222,6 +222,7 @@
 
 <h2 id="dart">镖</h2>
 
+- [Dart Code Metrics](https://pub.dev/packages/dart_code_metrics)  -Dart的其他短毛绒. 报告代码指标，检查反模式，并为Dart分析器提供其他规则.
 - [effective_dart](https://pub.dev/packages/effective_dart) -与有效飞镖中的准则相对应的短绒规则
 - [lint](https://github.com/passsy/dart-lint)  -针对Dart和Flutter项目的一套以社区为中心的，有条理的皮棉规则. 像书呆子，但更严格
 - [Linter for dart](https://dart-lang.github.io/linter) -Dart风格的短毛绒.
@@ -415,7 +416,7 @@
 <h2 id="ocaml">迷彩</h2>
 
 - [Sys](https://github.com/PLSysSec/sys)  -用于在（浏览器）代码中查找错误的静态/符号工具. 它使用LLVM AST查找未初始化的内存访问之类的错误.
-- [VeriFast](https://github.com/verifast/verifast)  -用于模块化形式验证单线程和多线程C和Java程序的正确性的工具，该工具带有以分隔逻辑编写的前置条件和后置条件. 为了表达丰富的规范，程序员可以定义归纳数据类型，这些数据类型上的原始递归纯函数以及抽象分隔逻辑谓词.
+- [VeriFast](https://github.com/verifast/verifast)  -一种用于对单线程和多线程C和Java程序的正确性进行模块化形式验证的工具，该工具带有以分隔逻辑编写的前置条件和后置条件. 为了表达丰富的规范，程序员可以定义归纳数据类型，这些数据类型上的原始递归纯函数以及抽象分隔逻辑谓词.
 
 
 <h2 id="php">的PHP</h2>
@@ -489,7 +490,7 @@
 - [mccabe](https://pypi.org/project/mccabe) -检查McCabe的复杂性.
 - [mypy](http://www.mypy-lang.org) -静态类型检查器，旨在结合经常使用的鸭子类型和静态类型的优点 [MonkeyType](https://github.com/Instagram/MonkeyType).
 - [py-find-injection](https://github.com/uber/py-find-injection) ：warning：-查找Python代码中的SQL注入漏洞.
-- [PyCodeQual](https://pycodequ.al)  ：copyright：-PyCodeQual为您提供有关复杂性和错误风险的见解. 它将自动评论添加到您的请求中.
+- [PyCodeQual](https://pycodequ.al)  ：copyright：-PyCodeQual为您提供有关复杂性和错误风险的见解. 它将自动评论添加到您的请求请求中.
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) -（以前是Pep8`）根据PEP 8中的某些样式约定检查Python代码.
 - [pydocstyle](http://www.pydocstyle.org) -检查是否符合Python文档字符串约定.
 - [pyflakes](https://pypi.org/project/pyflakes) -检查Python源文件是否有错误.
@@ -524,7 +525,7 @@
 - [flog](https://ruby.sadi.st/Flog.html)  ：warning：-Flog在易于阅读的疼痛报告中报告了遭受最多折磨的代码. 分数越高，代码所处的痛苦就越大.
 - [laser](https://github.com/michaeledgar/laser) ：warning：-Ruby代码的静态分析和样式分析.
 - [pelusa](https://github.com/codegram/pelusa) -静态分析Lint型工具，可改善您的OO Ruby代码.
-- [Querly](https://github.com/soutaro/querly) - Pattern Based Checking Tool for Ruby.
+- [Querly](https://github.com/soutaro/querly) -用于Ruby的基于模式的检查工具.
 - [Railroader](https://railroader.org) ：warning：-针对Ruby on Rails应用程序的开源静态分析安全漏洞扫描程序.
 - [rails_best_practices](https://rails-bestpractices.com) -用于Rails项目的代码度量工具
 - [reek](https://github.com/troessner/reek) -用于Ruby的代码气味检测器.
@@ -653,7 +654,7 @@
 - [codechecker](https://codechecker.readthedocs.io/en/latest) -具有Web GUI的Clang静态分析器的缺陷数据库和查看器扩展.
 - [CodeFactor](https://codefactor.io) ：copyright：-在GitHub或BitBucket上针对仓库的自动代码分析.
 - [CodeFlow](https://www.getcodeflow.com)  ：copyright：-自动化的代码分析工具来处理技术深度. 与Bitbucket和Gitlab集成.  （对于开源项目免费）
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：copyright：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码遵循（您的）预定义的设计和样式指南以及最佳编码实践.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：copyright：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码遵循（您）预定义的设计和样式准则以及最佳编码实践.
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) ：copyright：-由安全性驱动的自动SAST代码检查，支持15种以上的语言，并包括安全性培训.
 - [codeql](https://github.com/github/codeql) -深入的代码分析-带有VSCode插件支持的几种语言的语义查询和数据流.
 - [Coderrect](https://coderrect.com/)  ：copyright：-用于多线程软件的高级静态分析器. 支持OpenMP，Pthread，std :: thread和GPU / CUDA.
@@ -731,10 +732,10 @@
 - [SmartDec Scanner](https://smartdecscanner.com) :copyright: - SAST tool which is capable of identifying vulnerabilities and undocumented features. The analyzer scans the source code and executables without debug info (i.e. binaries). Supports: Java/Scala/Kotlin, PHP, C#, JavaScript, TypeScript, VBScript, HTML5, Python, Perl, C/C++, Objective-C/Swift, PL/SQL, T-SQL, ABAP, 1C, Apex, Go, Ruby, Groovy, Delphi, VBA, Visual Basic 6, Solidity, Vyper, COBOL.
 - [Snyk](https://snyk.io) ：copyright：-漏洞扫描程序，用于node.js应用程序的依赖项（对于开源项目免费）.
 - [SonarCloud](https://sonarcloud.io)  ：copyright：-基于多语言云的静态代码分析. 历史，趋势，安全热点，请求请求分析等. 免费提供开源.
-- [SonarLint for Visual Studio](https://vs.sonarlint.org) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供即时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
+- [SonarLint for Visual Studio](https://vs.sonarlint.org) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供实时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
 - [SonarQube](http://www.sonarqube.org) -SonarQube是管理代码质量的开放平台.
 - [Sonatype](https://www.sonatype.com) ：copyright：-报告常见依赖项中的已知漏洞，并建议更新软件包以最大程度地减少重大更改
-- [Soto Platform](https://www.hello2morrow.com/products/sotograph)  ：copyright：-静态分析工具套件，由Sotoarc（架构分析），Sotograph（质量分析）和Sotoreport（质量报告）三个组件组成. 帮助发现架构与实现之间的差异，违反接口的行为（例如，对子系统私有部分的外部访问，对所有类，文件，程序包和子系统的检测，它们之间存在周期性关系等）Sotograph产品系列可在Windows和Linux上运行. 
+- [Soto Platform](https://www.hello2morrow.com/products/sotograph)  ：copyright：-静态分析工具套件，由Sotoarc（架构分析），Sotograph（质量分析）和Sotoreport（质量报告）三个组件组成. 帮助发现架构与实现之间的差异，违反接口的行为（例如，对子系统私有部分的外部访问，对所有类，文件，程序包和子系统的检测，它们之间存在周期性关系，等等）. 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: - Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [standard](http://standardjs.com) -一个npm模块，用于检查Javascript样式指南问题.
 - [Super-Linter](https://github.com/github/super-linter) -结合了多个linter，以作为GitHub Action安装.
@@ -747,7 +748,7 @@
 - [TscanCode](https://github.com/Tencent/TscanCode) - A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.
 - [Undebt](https://github.com/Yelp/undebt) -基于语言的工具，可基于简单的模式定义进行大规模，自动，可编程的重构.
 - [Understand](https://www.scitools.com) ：copyright：-代码可视化工具，可为Ada，VHDL等提供代码分析，标准测试，指标，图形，依赖性分析等功能.
-- [Unibeautify](https://unibeautify.com)  -带有GitHub应用程序的通用代码美化器. 支持HTML，CSS，JavaScript，TypeScript，JSX，Vue，C ++，Go，Objective-C，Java，Python，PHP，GraphQL，Markdown等.
+- [Unibeautify](https://unibeautify.com) - Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more.
 - [Upsource](https://www.jetbrains.com/upsource) ：copyright：-具有Java，PHP，JavaScript和Kotlin的静态代码分析和代码感知导航的代码审查工具.
 - [Veracode](http://www.veracode.com/products/static-analysis-sast/static-code-analysis)  ：copyright：-在不需要源代码的情况下查找二进制文件和字节码中的缺陷. 支持所有主要的编程语言：Java，.NET，JavaScript，Swift，Objective-C，C，C ++等.
 - [Violations Lib](https://github.com/tomasbjerre/violations-lib)  -用于从静态代码分析中解析报告文件的Java库. 由许多Jenkins，Maven和Gradle插件使用.
@@ -779,7 +780,7 @@
 加载地址：binbloom可以解析原始二进制固件并确定其加载地址. 字节序：binbloom可以使用启发式方法来确定固件的字节序.  UDS数据库：binbloom可以解析原始二进制固件，并检查其是否包含包含UDS命令ID的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) ：copyright：-分析源代码和二进制文件以获取可重用代码，必要许可证和潜在安全方面的工具.
-- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface会向您显示二进制文件的大小配置文件，以便您了解正在占用内部空间的空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloaty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
+- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface会向您显示二进制文件的大小配置文件，以便您了解正在占用内部空间的空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloatty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 - [Ghidra](https://ghidra-sre.org) -国家安全局研究局开发的软件逆向工程（SRE）工具套件，用于支持网络安全使命
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) ：copyright：-二进制代码分析工具.
@@ -920,7 +921,7 @@
 - [FlowDroid](https://github.com/secure-software-engineering/FlowDroid) -适用于Android应用程序的静态污点分析工具.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  -iblessing是iOS安全利用工具包. 它可以用于逆向工程，二进制分析和漏洞挖掘.
 - [Oversecured](https://oversecured.com)  ：copyright：-一个移动应用程序漏洞扫描程序，专为安全研究人员和漏洞赏金黑客使用. 它还允许将集成到企业的DevOps流程中.
-- [paprika](https://github.com/GeoffreyHecht/paprika) ：warning：-一个工具包，用于检测已分析的Android应用程序中的某些代码异味.
+- [paprika](https://github.com/GeoffreyHecht/paprika) ：warning：-一个工具包，用于检测已分析的Android应用程序中的某些代码味道.
 - [qark](https://github.com/linkedin/qark) ：warning：-查找一些与安全相关的Android应用程序漏洞的工具.
 - [redex](https://fbredex.com)  -Redex提供了一个用于读取，写入和分析.dex文件的框架，以及使用该框架来改进字节码的一组优化过程. 由Redex优化的APK应该更小，更快.
 

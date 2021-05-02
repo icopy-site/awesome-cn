@@ -466,7 +466,7 @@ AWS存储库：
 * [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) -轻量级的python应用程序.
 * [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) -Titan的存储后端.
 * [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) -在多个项目和表之间执行原子写入和隔离读取.
-* [logstash-input-dynamodb](https://github.com/awslabs/logstash-input-dynamodb) -Logstash输入插件.
+* [logstash-input-dynamodb :fire:](https://github.com/awslabs/logstash-input-dynamodb) -Logstash输入插件.
 
 社区回购：
 

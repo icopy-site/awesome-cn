@@ -61,6 +61,7 @@
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) -与Yew一起显示d3图表.
 - [Oxfeed](https://github.com/sanpii/oxfeed) -用Rust编写的Feed阅读器，带有一个红豆杉前端.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  -与待办事项列表实用程序集成的笔记本应用程序. 由Rust，WebAssembly，Yew和Trunk开发.
+- [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) -具有Actix-web，Yew，Bulma CSS和Diesel的Full Stack Rust应用程序（Connect5游戏）.
 
 ## Templates
 
@@ -98,8 +99,8 @@
 
 ### Wasm
 
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between WebAssembly modules and JavaScript.
-- [stdweb](https://github.com/koute/stdweb) -提供Rust到Web API的绑定，并允许Rust和JavaScript之间的高度互操作性.
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) -促进WebAssembly模块和JavaScript之间的高层交互.
+- [stdweb](https://github.com/koute/stdweb) - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 
 ## Tooling
 
