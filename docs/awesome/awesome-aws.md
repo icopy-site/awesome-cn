@@ -602,7 +602,7 @@ AWS存储库：
 * [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) -与其他AWS和非AWS服务集成的库.
 * [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) -样本数据可视化应用程序.
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) -学习运动学发展.
-* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者图书馆.
+* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者库.
 * [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) -提供缩放流的功能.
 * [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) -流利的插件.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) -DynamoDB流适配器.
@@ -627,7 +627,7 @@ AWS存储库：
 * [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) -Python无服务器微框架.
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) -使用grunt-aws-lambda插件来帮助您进行开发和测试.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) -使用SQS和ECS扩展Lambda.
-* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) -用于实时文件处理的参考体系结构.
+* [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) -实时文件处理参考架构.
 * [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) -用于创建IoT后端的参考架构.
 * [lambda-refarch-mobilebackend :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) -用于创建移动后端的参考体系结构.
 * [lambda-refarch-webapp :fire::fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) -用于创建Web应用程序的参考体系结构.
@@ -843,7 +843,7 @@ AWS存储库：
 
 * [AdRoll/hologram :fire::fire::fire:](https://github.com/AdRoll/hologram) -在开发人员笔记本电脑上轻松轻松地获得凭证.
 * [alex/letsencrypt-aws :fire::fire::fire:](https://github.com/alex/letsencrypt-aws) -自动提供和更新证书.
-* [bridgecrewio/checkov :fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) -Terraform静态分析，验证安全性最佳做法.
+* [bridgecrewio/checkov :fire::fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) -Terraform静态分析，验证安全性最佳做法.
 * [cloudsploit/scans :fire::fire::fire::fire:](https://github.com/cloudsploit/scans) -检测安全风险.
 * [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) -安全审核工具.
 * [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) -用于在S3存储桶中查找有趣文件的安全工具.

@@ -12,7 +12,7 @@
 
 ## Alternatives
 
-广告支持的网站，软件和出版物的替代方法.
+广告支持的网站，软件和出版物的替代方案.
 
 ### Blogs
 
@@ -60,7 +60,7 @@
 - [Armstrong Economics](https://www.armstrongeconomics.com/uncategorized/no-advertising/) -有关市场和全球经济的教育性博客.
 - [Common Dreams](https://www.commondreams.org/) -渐进新闻网站.
 - [Consumerist](https://consumerist.com/) -消费者新闻和信息的独立来源.
-- [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
+- [Ello](https://ello.co/) -不出售用户数据的创作者和艺术家的媒体平台.
 - [Popular Resistance](https://popularresistance.org/) -独立，非暴力和多样化的运动，以终止集中财富的力量，并在公司贪婪之前满足人类的需求.
 - [RealSport](https://realsport101.com/)  -球迷在足球，篮球，板球，电子竞技，赛车和大多数其他体育活动上写文章. 该网站致力于保持无弹出窗口，虚假新闻，点击诱饵和广告的体验.
 - [The Conversation](https://theconversation.com/) -由大学资助的高质量，经过验证的解释性新闻.
@@ -88,6 +88,9 @@
 - [Etherpad](https://etherpad.wikimedia.org/) -实时协作文档编辑.
 - [ProtectedText](https://www.protectedtext.com/) -具有存储功能且没有注册的在线加密记事本.
 
+### Web Apps
+
+- [Cloverleaf](https://cloverleaf.app) -一个开源应用程序，可替换您的密码管理器，而无需将密码存储在任何地方.
 
 ## Resources
 
@@ -104,9 +107,9 @@
 - [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 - [Clean City Law: Secrets of São Paulo Uncovered by Outdoor Advertising Ban](https://99percentinvisible.org/article/clean-city-law-secrets-sao-paulo-uncovered-outdoor-advertising-ban/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) -以广告为例，探讨有意识的成功而非偶然的成功的想法.
-- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) -常见的广告批评概述.
+- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
 - [Human Ad Block: A Tutorial](https://maxlath.eu/posts/ad-blocker-humain/) -公开禁止广告的创新方式.
-- [Public Spaces](http://www.perezhiguera.com/publicspaces) -艺术家想像一下，如果我们能拥有一个现实生活中的广告拦截器，那将会是什么样.
+- [Public Spaces](http://www.perezhiguera.com/publicspaces) -艺术家想像一下，如果我们能拥有一个现实生活中的广告拦截器，那会是什么样子.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) -一个博客作者的故事，他选择了一种更好的谋生手段.
 - [Vote With Your Wallet, Not Your Ad Blocker](http://practicaltypography.com/vote-with-your-wallet.html) -支付无广告服务费用更高.
 - [What If There Were No Ads](https://www.huffingtonpost.com/tom-j-hidvegi/what-if-there-were-no-ads_b_4458530.html) -在无广告的世界中描述的日常生活.

@@ -23,7 +23,7 @@
 
 **为什么要使用盖茨比和WordPress？**
 
- WordPress是**世界上使用最广泛的CMS之一，因此许多人已经知道如何使用它. 在性能是关键的环境中，基于PHP的模板的典型前端方法正变得越来越成问题. 已经存在将WordPress用作通过JavaScript进行普通API调用的无头CMS的方法，但是还存在缺点，必须向服务器发出请求并根据响应进行呈现. 这增加了加载时间.  **相反，Gatsby会在编译时预先渲染整个站点**，因此用户会在第一个请求上获得**准备充分的静态站点**，从而使其成为“最佳性能方法”之一. 另一个巨大的好处是**安全性**，因为您的WordPress实例可以在任何地方，甚至可以在本地，而且您不需要将其公开给用户.  **因此，静态的Gatsby网站是不可入侵的.**在下面的资源中查找利弊的进一步论据.
+ WordPress是**世界上使用最广泛的CMS之一，因此许多人已经知道如何使用它. 在性能是关键的环境中，基于PHP的模板的典型前端方法正变得越来越成问题. 已经存在将WordPress用作通过JavaScript进行普通API调用的无头CMS的方法，但是还存在缺点，必须向服务器发出请求并根据响应进行呈现. 这增加了加载时间.  **相反，Gatsby会在编译时预先渲染整个网站**，因此用户会在他们的第一个请求上获得**准备充分的静态网站**，从而使其成为**最佳性能**之一. 另一个巨大的好处是**安全性**，因为您的WordPress实例可以在任何地方，甚至可以在本地，而且您不需要将其公开给用户.  **因此，静态的Gatsby网站是不可入侵的.**在下面的资源中查找利弊的进一步论据.
 
 <!-- TOC -->
 <!-- /TOC -->
@@ -84,12 +84,12 @@
 **与WPGraphQL一起使用其他插件的扩展**
 
 - [QL Search](https://github.com/funkhaus/ql-search) -将SearchWP集成到WPGraphQL中的扩展.
-- [WPGraphQL Content Blocks](https://github.com/Quartz/wp-graphql-content-blocks) - This FREE plugin from the folks at QZ.com exposes a way to query HTML content from WordPress Posts and Pages as “Blocks” (not related to Gutenberg) to bring more structure to your queried content.
+- [WPGraphQL Content Blocks](https://github.com/Quartz/wp-graphql-content-blocks) -这个免费的插件来自QZ.com的人们，提供了一种从WordPress帖子和页面中以“块”（与Gutenberg不相关）查询HTML内容的方法，以使您查询的内容更具结构性.
 - [WPGraphQL Enable All Post Types (DalkMania)](https://github.com/DalkMania/wp-graphql-cpt) -这个来自@DalkMania的免费插件会自动将所有已注册的帖子类型添加到WPGraphQL架构中.
 - [WPGraphQL Enable All Post Types (TylerBarnes)](https://github.com/TylerBarnes/wp-graphql-enable-all-post-types) -这个来自@tylbar的免费插件会自动将所有注册的帖子类型添加到WPGraphQL架构中.
-- [WPGraphQL Google Schema](https://github.com/izzygld/wp-graphql-google-schema) - This FREE plugin from @izzygld261 adds Google Schema support to WPGraphQL.
+- [WPGraphQL Google Schema](https://github.com/izzygld/wp-graphql-google-schema) -这个来自@ izzygld261的免费插件将Google Schema支持添加到WPGraphQL.
 - [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) -通过GraphQL公开ACF块
-- [WPGraphQL MB (MetaBox)](https://github.com/DalkMania/wp-graphql-mb) -来自@DalkMania的这个免费插件使用以下命令添加了所有已注册的metabox [metabox.io](https://metabox.io/) WPGraphQL模式.
+- [WPGraphQL MB (MetaBox)](https://github.com/DalkMania/wp-graphql-mb) -来自@DalkMania的免费插件可使用以下方式添加所有已注册的metabox [metabox.io](https://metabox.io/) WPGraphQL模式.
 - [WPGraphQL MetaBox Relationships](https://github.com/hsimah-services/wp-graphql-mb-relationships) -来自@hsimah的免费插件增加了对 [metabox.io](https://metabox.io/) 到WPGraphQL的“关系”字段（当还使用他的wp-graphql-metabox插件时）.
 - [WPGraphQL Polls](https://github.com/andrenoberto/wp-graphql-polls) -这个来自@andrenosouza的免费插件，使您可以通过GraphQL查询和变异与WP-Polls插件中的数据进行交互.
 - [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) -使用来自Polylang插件的语言数据扩展WPGraphQL模式.
@@ -101,7 +101,7 @@
 - [WPGraphQL for Custom Post Type UI](https://github.com/wp-graphql/wp-graphql-custom-post-type-ui) -这个免费的插件将设置添加到“自定义帖子类型” UI中，使您可以设置CPTUI注册的哪些帖子类型和分类法应显示在WPGraphQL架构中.
 - [WPGraphQL for FacetWP](https://github.com/hsimah-services/wp-graphql-facetwp) -这个来自@hsimah的免费插件公开了WPGraphQL查询的过滤器，以允许使用FacetWP进行多面搜索.
 - [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) -这个来自@harness_up的@KellenMace的免费插件将@gravityforms数据公开给WPGraphQL，使您可以查询表单，字段，条目等.
-- [WPGraphQL for Metabox](https://github.com/hsimah-services/wp-graphql-metabox) -这个来自@hsimah的免费插件将使用流行的http://MetaBox.io注册的字段暴露给WPGraphQL Schema.
+- [WPGraphQL for Metabox](https://github.com/hsimah-services/wp-graphql-metabox) - This FREE plugin from @hsimah exposes fields registered using the popular http://MetaBox.io to the WPGraphQL Schema.
 - [WPGraphQL for Ninja Forms](https://github.com/toriphes/wp-graphql-ninja-forms) -这个免费的插件将Ninja Forms插件创建的表单暴露给WPGraphQL Schema，并允许通过GraphQL Mutations提交表单.
 - [WPGraphQL for Posts 2 Posts](https://github.com/harness-software/wp-graphql-posts-to-posts) -这个来自@harness_up的@KellenMace的免费插件会自动为您的所有Posts 2 Posts连接创建GraphQL连接.
 - [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) -这个来自@moon_meister的免费插件将SEOPress管理的数据公开到WPGraphQL架构，从而允许SEO数据用于无头的应用程序.
@@ -151,7 +151,7 @@
 ## Paid Tutorials / Courses
 付费课程列表.
 
--请提供使用当前堆栈的最新版本的已知资源.
+- 2021.01: [Building a Headless WordPress Site with Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby) -本课程是逐步使用gatsby-source-wordpress插件来创建具有帖子，页面，类别，标签，帖子导航和其他功能的功能全面的无头WordPress盖茨比WordPress网站的分步指南.
 
 
 ## Starters
@@ -180,7 +180,7 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，亨里克·沃思（Henrik Wirth）放弃了所有版权和
+在法律允许的范围内，Henrik Wirth放弃了所有版权和
 相关或邻接权.
 
 <!--- unicorn --->

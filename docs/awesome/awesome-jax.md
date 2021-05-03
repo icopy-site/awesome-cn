@@ -43,6 +43,7 @@
 -神经网络图书馆
     - [FedJAX](https://raw.githubusercontent.com/google/fedjax) -以Optax和Haiku为基础的JAX联合学习. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
     - [Equivariant MLP](https://raw.githubusercontent.com/mfinzi/equivariant-MLP) -构造等变神经网络层. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
+    - [jax-resnet](https://raw.githubusercontent.com/n2cholas/jax-resnet/) -Flax中ResNet变体的实现和检查点. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) -图书馆实施 [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) 用于蛋白质机器学习应用. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) -在JAX中标准化流. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) -使用JAX的`scikit-learn`内核矩阵. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
@@ -67,7 +68,7 @@
 - [Big Transfer (BiT)](https://github.com/google-research/big_transfer) - 实施 [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370).
 - [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) -使用JAX标准化流.
 - [kalman-jax](https://github.com/AaltoML/kalman-jax) -使用迭代卡尔曼滤波和平滑的马尔可夫（即时间）高斯过程的近似推断.
-- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
+- [GPJax](https://github.com/thomaspinder/GPJax) -JAX中的高斯过程.
 - [jaxns](https://github.com/Joshuaalbert/jaxns) -在JAX中嵌套采样.
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) -正式的Haiku实施 [NFNets](https://arxiv.org/abs/2102.06171).
 - [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - 实施 [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
@@ -78,7 +79,7 @@
 
 - [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM) -JAX，它在DeepMind中的使用，以及工程师，科学家和JAX核心团队之间的讨论.
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) -在JAX中从零开始的简单神经网络.
-- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) -JAX的核心设计，它如何推动新研究以及如何开始使用它.
+- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX's core design, how it's powering new research, and how you can start using it.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) -使用NumPyro进行贝叶斯建模的简介.
 - [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) -中的JAX简介演示文稿 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) -通过演示演示TPU主机访问.

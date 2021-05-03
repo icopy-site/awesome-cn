@@ -104,7 +104,7 @@
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -虚拟家庭助理.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) -专为开发人员设计的云计算平台.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -Google的移动SDK，可使用Dart编写的单个代码库构建本机iOS和Android应用.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) -开源的家庭自动化，将本地控制和隐私放在首位.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) -适用于开发人员和公司的云平台.
@@ -235,7 +235,7 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) -功能性和反应性JavaScript框架.
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) -应用框架.
@@ -271,7 +271,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) -确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -浏览器中具有JavaScript，CSS，SVG等的动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，用于更快，更轻松的Web开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) -可集成到网络应用程序中的独立功能.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) -应用框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) -在确保一致性和速度的规则的指导下，收集可重复使用的组件.
@@ -305,7 +305,7 @@
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) -Python Web应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) -Python Web应用程序框架.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) -用于在代码中定义云基础架构的开源软件开发框架.
-- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) -用户帐户，身份验证和授权.
 - [Chalice](https://github.com/chalice-dev/awesome-chalice#readme) -用于在AWS Lambda上进行无服务器应用开发的Python框架.
 
 ## Computer Science
@@ -456,9 +456,10 @@
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
-- [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB之类的不同后备数据存储中提取查询/过滤器和结果/聚合.
+- [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库处理变得更加容易的一切.
 - [Grakn](https://github.com/graknlabs/awesome#readme) -逻辑数据库将大型和复杂的数据网络组织为一个知识体系.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) -开源，分布式，宽列存储，NoSQL数据库管理系统.
 
 ## Media
 
