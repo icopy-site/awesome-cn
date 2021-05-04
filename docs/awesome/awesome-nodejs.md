@@ -82,7 +82,7 @@
 - [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
-- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC在Web上通过p2p管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
+- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
 - [NodeOS](https://github.com/NodeOS/NodeOS) -由npm支持的第一个操作系统.
 - [YodaOS](https://github.com/yodaos-project/yodaos) -AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) -机器学习框架.
@@ -299,7 +299,7 @@
 - [Koa](https://github.com/koajs/koa) -由Express背后的团队设计的框架，旨在为Web应用程序和API提供更小，更富表现力和更强大的基础.
 - [Express](https://github.com/expressjs/express) -Web应用程序框架，为构建单页和多页以及混合Web应用程序提供了一组强大的功能.
 - [Feathers](https://github.com/feathersjs/feathers) -本着Express精神构建的微服务框架.
-- [LoopBack](https://github.com/strongloop/loopback) -用于创建REST API并轻松连接到后端数据源的强大框架.
+- [LoopBack](https://github.com/strongloop/loopback-next) -用于创建REST API并轻松连接到后端数据源的强大框架.
 - [Meteor](https://github.com/meteor/meteor)  -超简单，无处不在的数据库，在线数据，纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](https://github.com/restify/node-restify) -使您能够构建正确的REST Web服务.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
@@ -315,7 +315,7 @@
 - [Nest](https://github.com/nestjs/nest) -基于角度的框架，用于构建高效且可扩展的服务器端应用程序.
 - [Zeronode](https://github.com/sfast/zeronode) -可靠和容错的微服务的最小构建块.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) -用于使用TypeScript使用类和装饰器创建GraphQL API的现代框架.
-- [Tinyhttp](https://github.com/talentlessguy/tinyhttp) -现代化，快速的类似Express的Web框架.
+- [Tinyhttp](https://github.com/talentlessguy/tinyhttp) -类似于Express的现代快速Web框架.
 - [Marble.js](https://github.com/marblejs/marble) -基于TypeScript和RxJS的用于构建服务器端应用程序的功能性响应框架.
 
 ### Documentation
@@ -412,7 +412,7 @@
 - [lwip](https://github.com/EyalAr/lwip) -不需要ImageMagick的轻型图像处理器.
 - [pica](https://github.com/nodeca/pica)  -纯JS中的高质量和快速调整大小（lanczos3）. 当不允许像素化时，可替代canvas drawImage（）.
 - [jimp](https://github.com/oliver-moran/jimp) -使用纯JavaScript进行图像处理.
-- [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的尺寸.
+- [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的大小.
 - [qrcode](https://github.com/soldair/node-qrcode) -QR码和条形码生成器.
 
 ### Text
@@ -786,7 +786,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少量简单的库和核心Node.js模块来构建和部署真实的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少数简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
 
 ### Discovery
 

@@ -18,7 +18,7 @@
     - [Flax](https://raw.githubusercontent.com/google/flax) -以灵活性和清晰度为中心. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
     - [Haiku](https://raw.githubusercontent.com/deepmind/dm-haiku) -专注于简单性，由DeepMind的Sonnet作者创建. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
     - [Objax](https://raw.githubusercontent.com/google/objax) -具有类似于PyTorch的面向对象设计. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
-    - [Elegy](https://poets-ai.github.io/elegy/)  -用于Jax生态系统的与框架无关的Trainer界面. 支持亚麻，Haiku和Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
+    - [Elegy](https://poets-ai.github.io/elegy/) - A framework-agnostic Trainer interface for the Jax ecosystem. Supports Flax, Haiku, and Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
     - [Trax](https://raw.githubusercontent.com/google/trax) -“包含电池”的深度学习库专注于为常见工作负载提供解决方案. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://raw.githubusercontent.com/deepmind/jraph) -轻量级图神经网络库. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
     - [Neural Tangents](https://raw.githubusercontent.com/google/neural-tangents) -用于指定有限和_infinite_宽度的神经网络的高级API. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
@@ -72,6 +72,7 @@
 - [jaxns](https://github.com/Joshuaalbert/jaxns) -在JAX中嵌套采样.
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) -正式的Haiku实施 [NFNets](https://arxiv.org/abs/2102.06171).
 - [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - 实施 [Second Order Optimization Made Practical](https://arxiv.org/abs/2002.09018).
+- [JAX (Flax) RL](https://github.com/ikostrikov/jax-rl) -强化学习算法的实现.
 
 <a name="videos" />
 
@@ -79,7 +80,7 @@
 
 - [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM) -JAX，它在DeepMind中的使用，以及工程师，科学家和JAX核心团队之间的讨论.
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) -在JAX中从零开始的简单神经网络.
-- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX's core design, how it's powering new research, and how you can start using it.
+- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) -JAX的核心设计，它如何推动新研究以及如何开始使用它.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) -使用NumPyro进行贝叶斯建模的简介.
 - [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) -中的JAX简介演示文稿 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) -通过演示演示TPU主机访问.

@@ -19,7 +19,7 @@
 
 - [ClimateWorks](https://www.climateworks.org/)  -一个非政府组织与慈善家合作解决气候危机. 他们力求确保投资发挥最大的作用.
 
-- [Climworks](http://climeworkspioneers.refr.cc/philsturgeon)  -Climeworks直接空气捕获技术从空气中捕获二氧化碳，将二氧化碳与地热发电厂使用的水混合，然后将其泵入地下. 通过自然过程，CO 2与玄武岩发生反应，并在几年之内永久且安全地变成石头. 冰岛是全球数个为我们的开拓进程提供理想条件的地区之一. 每月订阅可抵消您的一小部分足迹，并支持此早期技术的发展.
+- [Climworks](http://climeworkspioneers.refr.cc/philsturgeon)  -Climeworks直接空气捕获技术从空气中捕获二氧化碳，将二氧化碳与地热能源厂使用的水混合，然后将其泵入地下. 通过自然过程，CO 2与玄武岩发生反应，并在几年之内永久且安全地变成石头. 冰岛是全球数个为我们的开拓进程提供理想条件的地区之一. 每月订阅可抵消您的一小部分足迹，并支持此早期技术的发展.
 - [Cool Earth](https://www.coolearth.org/) -该慈善机构旨在通过减少雨林流失造成的碳排放来应对气候变化.
 - [Ecologi](https://ecologi.com/?r=5d01f2ed12ae7a358b75fdd7)  -从您的沙发上帮助地球，每月只需不到一瓶便宜的葡萄酒. 观看您自己的森林成活并抵消您的全部足迹，每月只需$ 6.50 /€6. 然后让您的朋友，家人，企业，甚至您的狗签约！
 - [Ecosia](https://www.ecosia.org)  -种植树木的搜索引擎. 广告收入的50％以上直接用于植树.
@@ -45,19 +45,19 @@
 ## Clothing
 - [4ocean](https://www.4ocean.com/)  -Oeko-tex认证的，无残忍的可定制亚麻服装品牌. 所有包装均不含塑料.
 - [Adidas Parley](https://adidas.com/parley)  -鞋，服装和配件由回收的海洋塑料废料制成. 藏品中的每一件都至少由75％的可拦截塑料垃圾制成.
-- [Allbirds](https://www.allbirds.com/) -我们的鞋是用美利奴羊毛制成的，由经FSC认证的经桉树认证的桉树林制成的天丝，可回收的塑料瓶（用于鞋带），由蓖麻子油制成的&#39;Sweetfoam&#39;鞋底和 [ProForest](https://proforest.net/en)保护的甘蔗. 对于我们的羊毛跑步者，每双7.6千克，我们的工艺所消耗的能量比典型的合成鞋所用的材料少60％. 我们抵消了其余部分，使Allbirds成为碳中和业务.
+- [Allbirds](https://www.allbirds.com/) -我们的鞋是用美利奴羊毛制成的，由经FSC认证的经桉树认证的桉树林制成的天丝，再生塑料瓶（用于鞋带），由蓖麻子油制成的“甜泡沫”鞋底和 [ProForest](https://proforest.net/en)保护的甘蔗. 对于我们的羊毛跑步者，每双7.6千克，我们的工艺所消耗的能量比典型的合成鞋所用的材料少60％. 我们抵消了其余部分，使Allbirds成为碳中和业务.
 
 - [Alternative Apparel](https://www.alternativeapparel.com/) -低冲击性染料和消费后回收的聚酯符合公平劳工协会的指导方针.
 - [Arvin  Goods](https://www.arvingoods.com/)  -通过可持续的供应链流程制造时尚袜子的品牌. 他们从生产过程中去除了多余的水-留下了更多的水供社区饮用！
 - [Bam - Bamboo Clothing](https://bambooclothing.co.uk/)  -竹制服装公司完全致力于除碳排放以外的可持续发展，他们的目标是实现零化学污染，零垃圾填埋，零供应商（及其供应商及其供应商...）毁林和零浪费水. 他们有运动服，休闲服，内衣，生日礼物卡和整件衣服.
 
-- [Boody Eco Wear Essentials](https://boody.co.uk) -日常必需品由防过敏和透气的FSC认证竹纤维粘胶纤维制成，经Ecocert认证为OEKO-TEX 100有机.
+- [Boody Eco Wear Essentials](https://boody.co.uk) -日常必需品由防过敏和透气性经FSC认证的竹粘胶纤维制成，经Ecocert认证的OEKO-TEX 100有机.
 
 - [Cariuma](https://cariuma.com/) - Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon _negative_, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
 - [Dabchy](https://www.dabchy.com/) -突尼斯二手服装市场.
 - [For Days](https://www.fordays.com/) - Subscription service that provides clothing with a zero-waste approach. When you sign up you purchase a membership and receive an organic cotton shirt - each time you want to purchase another article you send them back any old item to swap them out.
 - [Knowledge Cotton Apparel](https://knowledgecottonapparel.com) -由经认证的碳中和运输并通过可回收包装发送的，由经过认证的有机棉，再生的PET，亚麻，羊毛，天丝和再生的尼龙制成的服装.
-- [Kushel](https://www.kushel.de) - Our bathrobes and towels are made from reforested beech wood and organic cotton, made in Portugal. Sourced from FSC-certified reforested forestry operations in Europe without irrigation. This mix needs 90% less water and emits 44% less CO2. By planting 2 trees for each towel and by compensating the carbon emissions and blue-water usage, we are a climate & resource positive textile brand, and the first certified B corporation in Germany.
+- [Kushel](https://www.kushel.de)  -我们的浴袍和毛巾由葡萄牙造的重新造林的榉木和有机棉制成. 源自欧洲未经FSC认证的重新造林林业业务. 这种混合物所需的水减少了90％，二氧化碳排放量减少了44％. 通过为每条毛巾种植2棵树并补偿碳排放量和蓝色水的使用量，我们成为气候和资源利好的纺织品品牌，并且是德国第一家获得认证的B公司.
 
 - [Linen Fox](https://linenfoxclothes.com) -小批量可定制的Oeko-tex认证亚麻服装，无塑料包装.
 - [Loop A Life - 100% Circular Fashion](https://loopalife.com/)  -这个圆形纺织品屡获殊荣的品牌设定了以下新标准：服装采用当地原始打捞材料制成，不使用任何化学药品进行回收利用，不产生废水，在报废时回收自己的产品，研究和开发开发圆形产品的新方法. 他们组织当地的分类运动，工作坊，收集运动，并为其他时装公司的循环过渡提供便利. 与传统制造相比，每件毛衣可节省500升水，60mJ能源，使用零化学药品，并至少节省6kg的CO2排放量.
@@ -104,7 +104,7 @@
 ## Documentaries
 - [Artifishial](https://www.patagonia.com/artifishal.html)  -Artifishal是一部有关人，河流以及为野生鱼类和支持它们的环境的未来而战的电影. 它探索了野生鲑鱼走向灭绝的滑坡，鱼类孵化场和养鱼场构成的威胁以及我们对自然的持续丧失.
 - [Before the Flood](https://www.imdb.com/title/tt5929776/) -了解气候变化如何影响我们的环境，以及社会可以采取哪些措施来防止地球上濒临灭绝的物种，生态系统和本地社区的灭绝.
-- [Biggest Little Farm](https://www.biggestlittlefarmmovie.com/)  -最大的小农场记述了约翰和莫莉·切斯特（John and Molly Chester）八年的追求，他们将居住在200英亩贫瘠农田和梦想与大自然和谐相处的城市进行交易. 通过顽强的毅力和拥抱自然冲突所提供的机会，切斯特大学释放并发现了一种生物多样化的生活设计，这种设计远远超出了他们的农场，其季节和我们最疯狂的想象力. 最大的小农场以令人惊叹的电影摄影，迷人的动物以及紧迫大自然的呼吁而发出的紧迫信息，为我们所有人提供了更美好的生活和更健康的地球的重要蓝图.
+- [Biggest Little Farm](https://www.biggestlittlefarmmovie.com/)  -最大的小农场记述了约翰和莫莉·切斯特（John and Molly Chester）为期8年的追求，他们将居住在200英亩贫瘠农田和梦想与大自然和谐相处的城市进行交易. 通过顽强的毅力和拥抱自然冲突所提供的机会，切斯特大学释放并发现了一种生物多样化的生活设计，这种设计远远超出了他们的农场，其季节和我们最疯狂的想象力. 最大的小农场以令人惊叹的电影摄影，迷人的动物以及紧迫大自然的呼吁而发出的紧迫信息，为我们所有人提供了更美好的生活和更健康的地球的重要蓝图.
 
 - [Blue Planet II](https://www.imdb.com/title/tt6769208/) -大卫·阿滕伯勒（David Attenborough）在这部广受好评的纪录片中重返世界海洋，该纪录片拍摄了深处稀有和不寻常的生物，并记录了我们的海洋所面临的问题，包括表明塑料废物如何破坏了海洋生物.
 
@@ -122,11 +122,11 @@
 - [The Coconut Revolution](https://www.imdb.com/title/tt0479000/)  -这是一个现代故事，讲述了土著人民在战胜西方殖民势力方面的非凡胜利. 一个太平洋岛国与大型矿业公司力拓锌（RTZ）武装起来，尽管遭到了军事占领和封锁，但仍获胜.
 - [The Power of Community: How Cuba Survived Peak Oil](https://www.imdb.com/title/tt0814275/)  -一个社区如何在石油世界末日中生存下来的好例子. 由于石油危机，古巴人处于饥饿的边缘-平均每个古巴人损失了20磅. 古巴人民开垦了无处不在的土地，并开始在上面种菜，从而帮助他们从下而上避免了灾难. 在这里，我们看到了恢复丢失的知识以确保社区生存的重要性.
 - [Virunga](https://www.imdb.com/title/tt3455224/) -一群勇敢的人冒着生命危险保护最后的山地大猩猩.
-- [Where the Heck is Donlin?](https://vimeo.com/64608183)  -Donlin金矿位于阿拉斯加西南部的布什深处，是阿拉斯加历史上最大的拟建金矿. 但是，绝大多数阿拉斯加居民不熟悉其发展和影响的细节.  Bjorn和Kim注意到缺乏可用数据以及对该提案缺乏了解，因此采用了实地考察模型的调查研究，并着手从源头上探索一些未解决的问题. 他们通过拟议的矿山足迹完成了一个三部分，由人力驱动的1000英里长的荒野探险，他们与他们遇到的人们进行了永久废物储存，生存渔业的意义以及大型矿山的能源需求等问题的接触，以及农村居民面临的挑战等.
+- [Where the Heck is Donlin?](https://vimeo.com/64608183)  -Donlin金矿位于阿拉斯加西南部的布什深处，是阿拉斯加历史上最大的拟建金矿. 但是，绝大多数阿拉斯加居民不熟悉其发展和影响的细节.  Bjorn和Kim注意到缺乏可用数据以及对该提案缺乏了解，因此采用了实地考察模型的调查研究，并着手从源头上探索一些未解决的问题. 他们通过拟议的矿山足迹完成了一个三部分，由人类驱动的1000英里野外探险，他们与他们遇到的人们进行了永久废物存储，生计渔业的意义以及大型矿山的能源需求等问题的接触，以及农村居民面临的挑战等.
 
 ## Finance
 - [Abundance Investment](https://www.abundanceinvestment.com/)  -丰富的项目为社会和环境有益的项目提供了众筹市场. 通过ISA或养老金，对拥有您的价值的一系列企业进行直接投资.
-- [Amalgamated Bank](https://amalgamatedbank.com/)  -来自认证B公司的个人和商业银行业务. 它们在我们的贷款中不含化石燃料，由100％可再生能源提供动力，在提供可负担得起的银行服务渠道以及成为移民和工人权益的拥护者方面拥有悠久而自豪的历史.  _否_是FDIC成员，但是GABV（全球价值银行联盟）的一部分.
+- [Amalgamated Bank](https://amalgamatedbank.com/)  -来自认证B公司的个人和商业银行业务. 它们在我们的贷款中不含化石燃料，由100％可再生能源提供动力，并且在提供可负担得起的银行服务机会以及成为移民和工人权利的拥护者方面拥有悠久而自豪的历史.  _否_是FDIC成员，但是GABV（全球价值银行联盟）的一部分.
 
 - [Aspiration](https://www.aspiration.com/)  -Aspiration提供具有社会意识的可持续现金管理服务和投资产品，因此您可以在使世界变得更美好的同时赚钱. 而且，与大型银行不同，我们不会使用您的存款来为石油管道提供资金，也不会将您的费用变成对与您不利的政客的竞选捐款.**
 - [Beneficial State Bank](https://beneficialstatebank.com/)  -从价格合理的个人和家庭支票帐户，可帮助您保持步伐正常，到可以帮助您发展组织的商业和非营利性财务工具. 该银行是B Corp，FDIC成员，并且是GABV（全球价值银行联盟）的一部分.  Stop The Money管道推荐.
@@ -141,11 +141,11 @@
 - [Global Alliance for Banking on Values](https://www.gabv.org/)  -全球价值银行联盟（GABV）是来自世界各地的银行业领导者网络，致力于推动银行业的积极变革. 他们的目标是改变银行体系，使其更加透明，支持经济，社会和环境的可持续发展，并由为实体经济服务的各种银行机构组成.
 
 - [Good Money Week](https://goodmoneyweek.com/) -帮助您找到银行，养老金，储蓄和投资的可持续和道德选择.
-- [Hargreaves Lansdown Responsible Investment](https://www.hl.co.uk/)  -Hargreaves Lansdown是金融界的知名人物，提供储蓄帐户和养老金. 他们将使您可以投资几乎任何东西，但他们汇总了“负责任的投资”基金清单，以帮助您将某些想法转交给财务头脑.  “负责任的投资”一词通常被用作笼统描述在考虑社会，环境或其他负责任标准的情况下管理的基金，因此无论您使用HL或不是.
+- [Hargreaves Lansdown Responsible Investment](https://www.hl.co.uk/)  -Hargreaves Lansdown是金融界的知名人物，提供储蓄帐户和养老金. 他们将使您可以投资几乎任何东西，但他们汇总了“负责任的投资”基金清单，以帮助您将某些想法转交给财务头脑.  “负责任的投资”一词通常被用作笼统描述在考虑社会，环境或其他负责任标准的情况下管理的基金，因此无论是使用HL还是使用HL，都可以通过此列表进行筛选以找到对您有利的基金.不是.
 - [Market Forces AU: Sustainable Banks](https://www.marketforces.org.au/info/compare-bank-table/)  -找出哪些银行有化石燃料融资记录，而没有这些记录. 每个机构都分为几类，清楚地定义了那些为化石燃料提供资金的机构和那些目前没有为该行业提供资金的记录的机构. 重要的是，您可以采取行动并与列出的每个银行，信用合作社和建筑协会联系.
 - [NextEnergy Solar Fund](https://www.nextenergysolarfund.com/)  -NextEnergy Solar Fund是一家专业投资公司，投资于英国和意大利的太阳能发电厂，目的是通过RPI相关的股息来确保有吸引力的股东回报. 该公司通过收购农业，工业和商业场所的太阳能发电厂来实现这一目标. 通过ISA或SIPP在英国常用交易平台（例如HL / Fidelity / etc）上进行投资.
 - [Stop the Money Pipeline](https://www.stopthemoneypipeline.com/) - Banks, insurance companies, and asset managers are funding, insuring and investing in the climate crisis. Stopping this money pipeline is one of the most important ways we can address the climate emergency.
-- [Thrive Renewables](https://www.thriverenewables.co.uk/)  -兴旺的可再生能源将人们连接到可持续能源. 我们为个人和企业提供可访问的机会，以投资于清洁能源项目，这些项目可带来财务，环境和社会效益. 在该行业拥有25年以上的经验，我们拥有广泛的专业联系网络，并且一直在寻找能够增强我们的产品组合，符合我们的投资标准并具有产生财务，环境和社会回报潜力的新项目.
+- [Thrive Renewables](https://www.thriverenewables.co.uk/)  -兴旺的可再生能源将人们连接到可持续能源. 我们为个人和企业提供可访问的机会，以投资于清洁能源项目，这些项目可带来财务，环境和社会效益. 在该行业拥有25年以上的经验，我们拥有广泛的专业联系网络，并且一直在寻找能够增强我们的投资组合，符合我们的投资标准并具有产生财务，环境和社会回报潜力的新项目.
 - [Tomorrow One Bank](https://www.tomorrow.one)  -德国银行认为，我们星球的未来比进入机场VIP休息室更为重要. 跳过额外的保险产品和燃油折扣，并获得一个专注于气候保护的高级账户.
 - [TreeCard](https://www.treecard.org/) -TreeCard-种植树木的木制借记卡.
 - [Trine - Solar Crowd-investing](https://www.trine.com/)  -投资于将清洁能源带入新兴市场的太阳能项目. 当地的太阳能合作伙伴将在地面上分销和管理太阳能产品. 如果贷款成功，您将获得投资和利息作为回报.
@@ -157,14 +157,14 @@
 - [NotCo](https://notco.com)  -The Not Company是一家食品技术公司，仅使用植物就可以重塑以动物为基础的食品. 与传统食品公司不同，该公司使用技术以自然，可持续和可负担的方式重现我们喜欢吃的相同产品，使其保持功能性，易用性和令人垂涎的美味. 他们使用人工智能建立了成千上万种植物的图书馆，并找到了如何使用它们，以重现我们喜爱产品的相同味道，气味，功能，外观和感觉. 所有基于工厂.
 - [All Plants - Vegan Prepared Meals](https://allplants.com/)  -获得由厨师烹制并直接送到您家门口的超级美味和100％植物性餐. 两个人吃六顿饭，每顿饭要5英镑，真是太神奇了. 用 [this referral link](https://allplants.mention-me.com/me/referee/registerko/48827185/206943008/er/796b4fb5d581862f565aa73f01fe733b8576831c/fe/cw?epr=1) 从您的第一个盒子上减掉10英镑. 我们将在下一个礼盒中获得10英镑的折扣，因此我们将节省下来的钱用于 [Offset Earth](https://offset.earth/philsturgeon). 
 - [Bees Wrap](https://www.beeswrap.com/) -停止使用保鲜膜，开始使用由蜂蜡和有机荷荷巴油制成的可重复使用的可循环包装材料.
-- [Boulder Food Rescue](https://www.boulderfoodrescue.org/)  -我们促进健康食品的可持续再分配，否则将通过自行车浪费给低收入社区. 我们与社区合作，以促进他们自己的食物重新分配，并建立分散的系统，以绕过食物获取的壁垒. 我们的工作设想了一个人人都有平等获得健康食品的世界.
+- [Boulder Food Rescue](https://www.boulderfoodrescue.org/)  -我们促进健康食品的可持续再分配，否则将通过自行车浪费给低收入社区. 我们与社区合作，以促进他们自己的食物重新分配，并建立分散的系统，以绕过食物获取的障碍. 我们的工作设想了一个人人都有平等获得健康食品的世界.
 - [City Harvest](https://www.cityharvest.org/)  -City Harvest是纽约市最大的粮食救援组织. 他们营救食物并将其运送到数百个食品储藏室，汤厨房和其他社区伙伴.
 - [EIT Food](https://www.eitfood.eu/) -EIT Food是欧洲领先的食品创新计划，致力于使食品体系更加可持续，健康和受到消费者的信赖.
 - [Farm Drop](https://www.farmdrop.com/) -第二天在伦敦运送本地和独立生产商的食品和日用品.
 - [Food Cloud](https://food.cloud/) -FoodCloud是一家社会企业，通过软件平台将有多余食物的企业与当地社区中需要它的慈善机构联系起来.
 - [Foodsharing.de](https://foodsharing.de/) -如果您位于德国，请加入foodsharing.de上的当地食品救援小组.
 - [Forkful](https://www.forkful.app/)  -可持续，营养丰富的饮食对您和地球都同样有益. 借助我们强大的食谱搜索功能，您可以一目了然地查看数千种食谱的营养益处和对环境的影响，使您能够做出令人敬畏的决定.
-- [Geev](https://corporate.geev.com/)  -一种在线应用程序，用于在人与人之间交换食物和东西. 轻松地讨论，相遇并赋予物体和食物第二次生命. 您付出的越多，当您想要获得某物时，人们就会越信任您.
+- [Geev](https://corporate.geev.com/)  -在线应用程序，可在人与人之间交换食物和东西. 轻松地讨论，相遇并赋予物体和食物第二次生命. 您付出的越多，当您想要获得某物时，人们就会越信任您.
 - [Giki](https://gikibadges.com/) - The Giki app provides accessible, independent, transparent information to help people change habits to live more sustainably. Our 14 badges cover sustainability, health and fairness.
 - [Green Ease](http://www.greenease.co/)  -Greenease Business可让厨师更新和跟踪他们的农场，在应用程序上推出特价商品，并搜索农场新鲜产品. 有兴趣将新鲜的当地食品带给所有人的农场/供应商，可以登录以验证谁在购买食品，并列出他们的产品，以供厨师和餐馆搜索.
 - [Grocy](https://grocy.info/)  -Grocy是适用于您的家庭的基于Web的自托管杂货和家庭管理解决方案. 扫描条形码，跟踪您的购买，自动化和优化购物清单，通过跟踪下一次即将发生的事情，计划用餐等来减少浪费.
@@ -186,9 +186,9 @@
 - [Seafood Watch](https://www.seafoodwatch.org/)  -《海鲜观察》建议以促进健康海洋的方式进行捕捞或养殖的海鲜. 他们建议最好的选择，好的替代方法和避免的事情.
 - [The Rotten Fruit Box](https://therottenfruitbox.com/)  -来自西班牙和葡萄牙的100％天然冻干水果零食被运送给您. 否则，您正在享用的水果会被闲置并掉在地上. 我们还认为，“腐烂”这个名称有助于引起人们对严重食物浪费问题的关注. 我们的冷冻干果零食袋美味可口，健康，100％纯天然，具有长的保存期限，是家庭，工作，办公室，上学，露营或几乎任何地方的理想选择. 帮助减少食物浪费. 帮助当地的小农.  100％可堆肥包装随本地邮政服务一起提供，因为它是最低的碳足迹选择.
 - [Tight5 farm](https://tight5.farm) -通过货运自行车交付，我们的超大果岭，新芽和烹饪药草在超极简主义水耕垂直种植单元中以可持续的生产规模进行种植
-- [Too Good To Go](https://toogoodtogo.co.uk/)  -轻松，可持续地出售您的剩余食物！ 节省美味的食物，消除食物浪费. 找到您最喜欢的食物并去救它.
+- [Too Good To Go](https://toogoodtogo.co.uk/)  -轻松，可持续地出售您的剩余食物！ 节省美味的食物，与食物浪费作斗争. 找到您最喜欢的食物并去救它.
 - [We Are Phenix](https://wearephenix.com/en/)  -以较低的价格从本地企业购买未售出的商品. 将过期的产品出售给客户，捐赠给慈善机构，将有机废物再用作动物食品等等. 每天可节省10万多餐，我们正朝着实现零食物浪费的目标迈进.  
-- [The Felix Project](https://thefelixproject.org/)  -伦敦的慈善机构，收集无法出售的新鲜，营养食品. 将这些多余的食物提供给慈善机构和学校，以便它们提供健康的饭菜并帮助我们社会中最弱势的人. 减少食物浪费和贫困.
+- [The Felix Project](https://thefelixproject.org/)  -伦敦的慈善机构，收集无法出售的新鲜，营养食品. 将这些多余的食物提供给慈善机构和学校，使他们可以提供健康的饭菜并帮助我们社会中最弱势的人. 减少食物浪费和贫困.
 - [OddBox](https://www.oddbox.co.uk)  -减少食物浪费的英国认证BCorp. 直接从农场收集被超市拒绝的食物，然后送到您家. 使用此链接（https://mention-me.com/m/ol/qd4ho-0d5026f88d），在您的第一个盒子上折价10英镑. 我将用这10英镑从Ecologi植树.
 ## Footprint Calculators
 - [Carbon Analytics](https://www.co2analytics.com/) -链接Xero帐户以评估公司的每笔采购，计算燃料，电力采购，运输等方面的碳影响，以及供应链影响.
@@ -250,7 +250,7 @@
 - [RazorPit](https://www.razorpit.com/)  -清洁并削尖您的剃须刀片，使它们的使用寿命平均延长6倍. 他们说他们的客户达到60-150，可以每年为您节省120欧元的刀片服务器费用.
 - [Smartliners](https://smartlinerpads.com/) -使用有机棉垫来减少卫生垃圾对环境的影响.
 - [Smol](https://smolproducts.com/)  -零塑料洗碗机和洗衣片订购. 包含儿童锁，它们已通过FSC认证，价格仅为传统品牌的一半，并且不残忍动物.
-- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -永远不用担心Sonny再次用完厕纸，Sonny是一种可持续的替代品，可提供湿巾和纸张，以改善卫生状况，并保护地球.
+- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -永远不用担心Sonny再次用完厕纸，Sonny是一种可持续的替代品，可提供湿巾和纸质，以提高卫生水平，并使地球更绿色.
 - [The Cheeky Panda](https://www.thecheekypanda.co.uk) -100％的竹纸巾采用零塑料，可再生塑料擦拭布和通过世界土地信托组织（World Land Trust）进行碳平衡处理.
 - [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/)  -根据EPA的说法，一棵硬木树可生产约45公斤的厕纸，每天可生产约8300万个厕纸. 竹厕纸的生产需要较少的能源，五分之一的水，在更少的土地上可以生产更多的纤维，比其他植物和树木多产生30-35％的氧气，并且可以减少大约相同量的二氧化碳. 另外，生产过程要求将水和其他材料收集，再利用和再循环. 最后，我们将利润的25％用于阻止森林砍伐和全球变暖.
 - [The Good Roll](https://www.thegoodroll.nl)  -邮购由消费后的再生纸制成的100％树木友好型卫生纸.  “好辊”销售净利润的50％用于在东非安装安全马桶.
@@ -294,7 +294,7 @@
 - [Democracy Now!](https://www.democracynow.org/topics/climate_change)  -由获奖记者艾米·古德曼（Amy Goodman）和胡安·冈萨雷斯（JuanGonzález）主持的每日全球独立新闻. 我们的报道包括打破每日新闻头条，并通过各种声音与世界上最紧迫问题的前线人们进行深入采访. 免于政府资助，企业赞助，承销或广告收入.
 - [Good](https://www.good.is/planet) -涵盖重大问题，“使目标具有传染性”的好消息.
 - [Heated](https://heated.world/)  -每天星期一至星期四在您的收件箱顶部显示有关气候危机的原始报告和分析. 新闻应该为您提供有效应对这场危机所需的知识.
-- [iPanda](http://en.ipanda.com/) iPanda提供有关大熊猫放生，大熊猫交配和繁殖，新生小熊猫的首次亮相等事件的新闻和现场广播.还努力传播有关保护大熊猫和其他稀有野生物种的知识. ，提高全世界观众对环境保护的认识.
+- [iPanda](http://en.ipanda.com/) iPanda提供有关大熊猫放生，大熊猫交配和繁殖，新生小熊猫的首次亮相等事件的新闻和现场广播.还努力传播有关保护大熊猫和其他稀有野生动物物种的知识. ，提高全世界观众对环境保护的认识.
 - [Metabolic](https://metabolic.nl/news) -在荷兰的可持续发展咨询机构，在全球范围内跟踪和报告气候行动，循环经济，减少消费等.
 - [State of the Planet](https://blogs.ei.columbia.edu/category/climate/)  -哥伦比亚大学地球研究所的消息. 哥伦比亚大学的地球研究所将物理，社会科学，教育和实际解决方案的研究相结合，以帮助引导世界走上可持续发展之路.
 - [The Cleanest Line](https://www.patagonia.com/blog/) -巴塔哥尼亚（Patagonia）的博客，介绍了他们在政治参与方面为绿色空间环境保护所做的努力，全球罢工，他们为各种社区的太阳能提供补贴以及其他各种气候行动的努力.
@@ -307,12 +307,12 @@
 - [How to Save a Planet](https://gimletmedia.com/shows/howtosaveaplanet)  -由Gimlet Media播出的每周播客，问的主要问题是：我们需要做些什么来解决气候危机，以及如何完成它？ 记者亚历克斯·布伦伯格（Alex Blumberg）和科学家兼政策专家书呆子艾亚娜·伊丽莎白·约翰逊（Ayana Elizabeth Johnson）博士与有影响力的人们进行了交谈，并努力弄清楚如何打造我们想要的未来，每集应对与气候危机有关的一个不同主题.
 - [People Fixing the World - BBC World Service](https://www.bbc.co.uk/programmes/p04grdbc)  -解决世界问题的绝妙解决方案. 我们与有想法的人见面，以使世​​界变得更美好，并调查他们是否工作.
 - [Sustainababble](http://www.sustainababble.fish/)  -每周进行一次有关环境的播客，无论是出于困惑还是出于困惑. 您的房东Ol和Dave应该是如何拯救地球的专家. 但是，为什么一切都变得如此混乱？ 每个星期，他们都试图接近启蒙运动. 他们可能会失败. 他们筛选了最恶劣的环保产品，揭露了真正的环保人士与不幸的无能者.
-- [TIL Climate Podcast](https://climate.mit.edu/users/tilclimate-podcast)  -此MIT播客细分了气候变化背后的科学，技术和政策，它如何影响我们以及我们可以采取的措施. 每个快速的插曲都向您提供气候变化的内容，原因和方式（由真正的科学家提供），以帮助我们为我们的未来做出明智的决定.
+- [TIL Climate Podcast](https://climate.mit.edu/users/tilclimate-podcast)  -此MIT播客细分了气候变化背后的科学，技术和政策，它如何影响我们以及我们可以采取的措施. 每个快速的插曲都向您提供气候变化的内容，原因和方式（由真正的科学家提供），以帮助我们为未来做出明智的决定.
 - [Talking Headways: A Book Club for the Future of Transportation](https://streetsblog.libsyn.com/)  -我们探索可持续交通，城市规划，城市生活，经济发展以及激发我们兴趣的其他事物的交集. 关于城市流动性和城市规划的最新趋势的主要且几乎是强制性的信息资源.
 - [The Climate Fix](https://theclimatefix.com/) -我们着眼于致力于可持续解决方案的人员和组织，帮助他们与人才和投资建立联系，并给人们带来解决气候问题和解决气候问题的希望.
 - [The Energy Transition Show](https://xenetwork.org/ets/) -与能源专家克里斯·内尔德（Chris Nelder）畅谈世界从化石燃料到可再生能源的过渡.
 - [The Yikes Podcast](https://radiopublic.com/the-yikes-podcast-6nKDQq) -气候变化，人权和目前混乱不堪的事实可能真是令人不知所措，但我们希望提供一个聊天的空间，并在其中找到希望.
-- [You've Been Warmed](https://www.youvebeenwarmed.com/) -通过采访顶尖科学家，企业家，活动家和政治家，我们试图找到上述所有问题的答案，同时发现我们为保护地球而奋斗的领导人.
+- [You've Been Warmed](https://www.youvebeenwarmed.com/) -通过采访顶尖科学家，企业家，活动家和政治家，我们寻求找到以上所有答案，同时发现了我们为保护地球而奋斗的领导人.
 - [Green Pulse](https://omny.fm/shows/green-pulse-1) -《海峡时报》（新加坡新闻媒体）分析了从生物多样性保护到气候变化的环境变化的节拍.
 ## Politics
 - [EU: Right to Repair](https://repair.eu/)  -屏幕破裂，电池电量不足，充电端口损坏...我们想修复它们，但由于维修费用太高，困难或不可能，最终我们还是购买了新的智能手机. 减少产品的使用寿命可能会推动销售，但这是以消费者，工人和地球为代价的. 要求欧盟要求制造商设计可维修的智能手机，并向所有维修人员和消费者提供备件和维修信息，从而赋予人们维修权.
@@ -327,7 +327,7 @@
 - [U.K. Double Tree Cover](https://act.friendsoftheearth.uk/petition/tell-uk-government-double-tree-cover)  -几个世纪以来，英国开垦了森林，使之成为欧洲森林中最低的林地. 如果政府认真保护气候，则需要将丢失的树木重新带回.
 - [U.S. Gas-powered car free by 2040](https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars)  -众议院和参议院均提出了联邦立法，这可能从根本上改变美国应对气候危机的方式.  《零排放车辆法》将在2040年之前消除在美国销售汽油动力乘用车的情况.
 - [U.S. Save the "Clean Power Plan"](https://www.nrdc.org/save-clean-power-plan)  -化石燃料发电厂占美国碳足迹的近40％. 清洁电力计划要求对这些发电厂的这种气候变暖污染设定限制，特别是到2030年至少要达到2005年水平的32％. 到2030年，《清洁能源计划》可以为美国节省200亿美元与气候相关的成本，并带来高达340亿美元的健康收益.
-- [UK Government: Act now on the Climate Emergency](https://secure.greenpeace.org.uk/page/s/declare-climate-emergency)  -既然议会宣布了气候紧急状态，我们就需要您采取行动. 首先，这意味着要禁止英国所有新的石油和天然气生产，包括压裂，到2030年使可再生能源增长三倍，种植7亿棵树，实行飞行常客税，到2030年终止所有新汽油和柴油汽车的销售，以及更多的.
+- [UK Government: Act now on the Climate Emergency](https://secure.greenpeace.org.uk/page/s/declare-climate-emergency)  -既然议会宣布了气候紧急状态，我们就需要您采取行动. 首先，这意味着要禁止英国所有新的石油和天然气生产，包括压裂，到2030年将可再生能源增加三倍，种植7亿棵树，征收飞行常客税，到2030年终止所有新汽油和柴油汽车的销售，以及更多的.
 
 - [US Damn Removal](https://www.change.org/t/dam-removal-en-us) - [70 percent of the dams in the United States](https://www.ussdams.org/our-news/americas-aging-dams-in-need-of-repair/) are now more than 50 years old, with almost 2,000 of them rated as "high-hazard". About [1,000 dams have failed](https://apnews.com/75b1cd657f3e4fa3be6adaf968eb7df4) 在过去的40年中，有34人丧生，现在，许多人已经不足以应付剧烈的降雨和气候变化带来的洪水.
 由于水坝导致野生鲑鱼种群灭绝，它们的唯一好处是水力发电，但按照现代标准，水坝的效率低下. 例如，佐治亚州的图加洛大坝摧毁了597英亩的温带雨林，产生了45兆瓦的电能，相当于增加了6千瓦屋顶太阳能电池板的7500户家庭. 我们应该尽快拆除这些水坝，因为当它们的合同到期或更快时，而不是浪费纳税人的钱来经营它们或试图恢复它们. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
@@ -363,7 +363,7 @@
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive)  -您可以从家里获得可再生供暖费用的钱. 您可以要求提供生物质锅炉，太阳能热水，热泵. 付款是根据您的供暖系统产生的可再生热量计算的，为期7年.
 - [Ecotricity](https://www.ecotricity.co.uk/)  -100％绿色电力. 他们从风车和太阳车队中产生1/5的能量，其余的则从其他绿色发电机中购买. 他们还将客户的账单转变为绿色能源的新来源，从而始终提供更多的绿色电力.
 - [Electricity Map](https://www.electricitymap.org/)  -一张地图，显示世界上许多国家的能源消耗，可再生能源渗透率和碳排放量. 如果您所在的国家/地区不包括在内，则可以贡献一个数据源.
-- [Good Energy](https://www.goodenergy.co.uk/)  -英国为数不多的能源供应商之一，这些能源供应商通过自己的风力发电场和太阳能发电场生产可再生能源，并从小型独立的可再生能源发电机购买可再生能源. 从当地农民和社区能源计划到可持续的企业，这些企业产生自己的电力并将多余的电力出售. 真正的可再生能源供应商，不仅是燃煤发电+抵消信用.
+- [Good Energy](https://www.goodenergy.co.uk/)  -英国为数不多的能源供应商之一，这些能源供应商通过自己的风电场和太阳能发电场生产可再生能源，并从小型独立的可再生能源发电商那里购买可再生能源. 从当地农民和社区能源计划到可持续的企业，这些企业产生自己的电力并向他们出售多余的电力. 真正的可再生能源供应商，不仅是燃煤发电+抵消信用.
 - [Green-E](https://www.green-e.org/)  -寻找您附近的可再生能源提供商.  Green-e认证的可再生能源和碳补偿产品符合北美最严格的环境和消费者保护标准. 您可以在下面搜索适用于您的家庭或企业的经认证的绿色电力和可再生能源证书计划，以及碳补偿产品，以抵消驾驶和飞行等活动中的排放. 作为第三方认证机构，Green-e®不会出售可再生能源或补偿产品，但会向那些这样做的零售商提供这些链接.
 - [Non-domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/non-domestic-renewable-heat-incentive) -非国内可再生热激励措施可帮助企业，公共部门和非营利组织负担安装可再生热技术的费用.
 - [Project Sunroof](https://www.google.com/get/sunroof)  -找出是否可以省钱切换到太阳能电池板. 该Google项目使用Google Earth图像来分析您的屋顶形状和当地的天气模式，以创建个性化的太阳能计划. 调整电费账单以微调您的储蓄估算和建议的家用太阳能电池板数量，然后根据结果比较太阳能电池板的贷款，租赁和购买选项.
@@ -371,7 +371,7 @@
 - [UK Carbon Intensity](https://carbonintensity.org.uk/)  -由牛津大学和国家电网ESO提供的官方支持的开放API，提供了每半小时英国每单位用电量排放多少碳的快照. 还带有预测，区域分解以及一些出色的图表和可重复使用的小部件. 他们还有 [an app](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/).
 ## Transportation
 - [Biking vs. Driving Calculator](https://bicycleuniverse.com/car-free-millionaire/)  -骑自行车可以使你成为百万富翁！ 您为自己的汽车支付的费用超出了您的想象. 一个典型的无车驾驶35年的美国人，即使根据通货膨胀因素进行调整，也可以节省近100万美元，即使他们经常为出租车，公共汽车和乘车出行付费. 使用计算器查找在特定情况下可以节省的金额.
-- [BlaBlaCar](https://www.blablacar.com/) -世界领先的长途拼车平台，在欧洲和墨西哥大部分地区都可以使用.
+- [BlaBlaCar](https://www.blablacar.com/) -世界领先的长途拼车平台，在欧洲和墨西哥大部分地区都可使用.
 - [British Heart Foundation - Toxic Air Campaign](https://www.bhf.org.uk/toxicair)  -空气污染是有毒的. 现在就加入我们，要求改变. 仅仅生活在英国受灾最严重的地区，就可能像每年吸烟超过150支香烟一样致命. 英国心脏基金会呼吁英国政府更新当前的空气质量限值，以符合世界卫生组织的建议.
 
 - [Change How You Travel from Climate Choice](https://climatechoice.co/change-how-you-travel)  -排放到我们大气中的温室气体中有26％来自车辆和飞机的生产和使用. 看看您现在能做什么，并了解更改旅行的好处.
@@ -381,7 +381,7 @@
 
 - [Cycle to Work Scheme Ireland](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx) -根据该计划，您的雇主可以为您购买自行车和安全设备，每辆自行车和安全设备最高为€1,000.
 - [Cycle to Work Scheme UK](https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp) -该计划允许员工免税地购买自行车和设备，据称可节省高达42％的总价值.
-- [DHL GoGreen](https://www.dpdhl.com/en/responsibility/environment-and-solutions.html)  -GoGreen解决方案包括标准化产品和定制解决方案，可帮助客户开发自己的环保业务模型和绿色供应链. 通过我们的碳报告，气候中和产品和绿色优化，我们为客户提供了透明度，抵消了不可避免的排放，并确定了客户减少排放和浪费的方式. 这些优化措施可实现大多数公司无法自行实现的节省潜力.
+- [DHL GoGreen](https://www.dpdhl.com/en/responsibility/environment-and-solutions.html)  -GoGreen解决方案包括标准化产品和定制解决方案，可帮助客户开发自己的环保业务模型和绿色供应链. 通过我们的碳报告，气候中和产品和绿色优化，我们为客户提供透明度，抵消不可避免的排放，并确定客户减少排放和浪费的方式. 这些优化措施可实现大多数公司无法自行实现的节省潜力.
 
 - [Pod Point](https://pod-point.com) -电动汽车充电领域的英国领导者，为家庭，工作场所和商业组织提供了创新的解决方案.
 - [Poparide](https://www.poparide.com/)  -在加拿大各城市之间搭便车或填补座位. 开车中有3个人可能比某些大型火车更有效率，并且是飞行影响的1/5.
@@ -392,7 +392,7 @@
 - [Waze Carpool](https://www.waze.com/carpool) -选择开车或乘车，并根据一天中的路线和时间与其他人相匹配.
 - [Workhorse - Electric Delivery Vehicles](https://workhorse.com/)  -全电动设计，采用复合技术，续航里程达100英里，预计它将比传统的送货车更经济. 我们目前的送货车E-100和E-GEN的行驶距离超过400万英里，并被世界上一些主要的包裹送货公司所使用.
 ## Travel
-- [BlaBlaCar](https://www.blablacar.com/) -世界领先的长途拼车平台，在欧洲和墨西哥大部分地区都可以使用.
+- [BlaBlaCar](https://www.blablacar.com/) -世界领先的长途拼车平台，在欧洲和墨西哥大部分地区都可使用.
 - [Change How You Travel from Climate Choice](https://climatechoice.co/change-how-you-travel)  -排放到我们大气中的温室气体中有26％来自车辆和飞机的生产和使用. 看看您现在能做什么，并了解更改旅行的好处.
 - [EcoBnB](https://ecobnb.com/)  -寻找以可持续性为重点的旅行住宿. 大多数地区都使用可再生能源来发电，您不会找到一次性塑料的负载，它们会回收80％以上的废物，等等.
 - [Flight Free (UK)](https://flightfree.co.uk/) - Aviation is the fastest growing contributor to greenhouse gas emissions at a time when we desperately need to reduce them. Pledge to go flight free in 2020.
@@ -412,7 +412,7 @@
 
 - [Stay Grounded](https://stay-grounded.org/) -由150多个成员组织组成的全球网络，其中包括地方机场反对派和气候正义团体，非政府组织，工会，促进航空替代品的举措（如夜行列车）以及支持与抵消项目或生物燃料种植园作斗争的社区的组织
 - [Tentrr](https://www.tentrr.com/)  -露营用AirBnB，您可自行携带装备到自然土地的全套露营地. 土地保护很昂贵. 使用Tentrr Landtrust，您的合格信托可以收到专业安装的，设备齐全的签名营地. 它是您保护工作的即时收益源.
-- [The Travel Foundation](https://www.thetravelfoundation.org.uk/)  -在这里寻找并非一直都是塑料的酒店. 该慈善机构将旅行企业，供应商，社区团体，政府，地方当局等聚集在一起，以制定切实可行的解决方案，以最大程度地提高旅游收益，并最大程度地减少目的地旅游业的负面影响.
+- [The Travel Foundation](https://www.thetravelfoundation.org.uk/)  -在这里寻找并非一直都是塑料的酒店. 该慈善机构将旅行企业，供应商，社区团体，政府，地方当局等聚集在一起，以制定切实可行的解决方案，以最大程度地提高旅游收益并最大程度地减少目的地旅游业的负面影响.
 ## Volunteering
 - [Citizens Climate Lobby](https://citizensclimatelobby.org/) -如果您是英语，经济学或综合科学专业的学生，​​则可能应该考虑自愿参加“公民气候大厅”活动，该组织致力于通过政策应对气候变化.
 - [Clean Trails](https://www.cleantrails.org/join)  -一步一步地，我们的目标是消除浪费在公共土地上的所有小径上的浪费. 我们相信，可以通过教育，鼓励户外用户并使其与我们原始的地方重新建立联系，以积极积极的方式做到这一点.
@@ -438,7 +438,7 @@
 - [Bio Bean](https://www.bio-bean.com/) -世界上最大的咖啡渣回收商，Bio Bean将用过的咖啡渣回收为可持续产品，例如用于燃烧的咖啡原木和其他生物质燃料.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) -由植物（甘蔗）材料代替化石燃料制成.
 - [Blue Jeans Go Green](https://bluejeansgogreen.org/) -寄送您用过的牛仔裤，将其转变成天然棉纤维隔热材料，其中一些用于帮助全国各地的建筑工作.
-- [Boulder Food Rescue](https://www.boulderfoodrescue.org/)  -我们促进健康食品的可持续再分配，否则将通过自行车浪费给低收入社区. 我们与社区合作，以促进他们自己的食物重新分配，并建立分散的系统，以绕过食物获取的壁垒. 我们的工作设想了一个人人都有平等获得健康食品的世界.
+- [Boulder Food Rescue](https://www.boulderfoodrescue.org/)  -我们促进健康食品的可持续再分配，否则将通过自行车浪费给低收入社区. 我们与社区合作，以促进他们自己的食物重新分配，并建立分散的系统，以绕过食物获取的障碍. 我们的工作设想了一个人人都有平等获得健康食品的世界.
 - [Burying Food Scraps](https://www.youtube.com/watch?v=yQFB9M2UdK0)  -堆肥可能很耗时，昂贵，而且如果处理不当，实际上会产生大量甲烷. 如果您的花园里有一些空间，该视频将展示如何简单地掩埋食物残渣是一种快速简单的解决方案，可以消除浪费并改善土壤质量.
 
 - [Circular Berlin](http://circular.berlin/)  -总部位于柏林的非营利组织，通过研究，社区建设和实用计划发展地方循环经济议程. 很好地概述了柏林正在发生的事件和倡议.
@@ -449,7 +449,7 @@
 - [EU: Right to Repair](https://repair.eu/)  -屏幕破裂，电池电量不足，充电端口损坏...我们想修复它们，但由于维修费用太高，困难或不可能，最终我们还是购买了新的智能手机. 减少产品的使用寿命可能会推动销售，但这是以消费者，工人和地球为代价的. 要求欧盟要求制造商设计可维修的智能手机，并向所有维修人员和消费者提供备件和维修信息，从而赋予人们维修权.
 
 - [Food Cloud](https://food.cloud/) -FoodCloud是一家社会企业，通过软件平台将有多余食物的企业与当地社区中需要它的慈善机构联系起来.
-- [Geev](https://corporate.geev.com/)  -一种在线应用程序，用于在人与人之间交换食物和东西. 轻松地讨论，相遇并赋予物体和食物第二次生命. 您付出的越多，当您想要获得某物时，人们就会越信任您.
+- [Geev](https://corporate.geev.com/)  -在线应用程序，可在人与人之间交换食物和东西. 轻松地讨论，相遇并赋予物体和食物第二次生命. 您付出的越多，当您想要获得某物时，人们就会越信任您.
 - [GrowNYC Food Scrap Collection Schedule](https://www.grownyc.org/compost/locations) -交互式地图，其中包含纽约市超过150个居民食物残渣运送场.
 - [Kaiyo](https://kaiyo.com/)  -买卖二手家具，以防止其进入垃圾填埋场. 他们甚至会来拿起它！  _我用它摆脱了没人愿意买的大沙发，沙发要在街上走了，他们给了我一张支票.
 - [Karma](https://new.karma.life/)  -一家瑞典公司，允许餐馆以较低的价格出售剩余食物. 它使您可以少花钱买食物，并避免浪费食物.
@@ -465,11 +465,12 @@
 
 - [Pure Waste](https://www.purewaste.org/) -总部设在赫尔辛基，利用废料制造100％的再生服装.
 - [Recycle Now](https://www.recyclenow.com/) -找出在哪里可以回收几乎所有东西，包括喷雾剂，旧手机，软塑料，并获得有关如何减少浪费的建议.
+- [ReNu Furniture](https://renufurniture.co.uk/) - Prevent landfill waste and buy second-hand, upcycled and handmade furniture easily with ReNu Furniture. Based in Brighton and covering the UK southeast, this start up will manage the collection, delivery and payments for every furniture sale - they even plant a tree for every delivery to offset carbon emissions. 
 - [Repair Café](https://repaircafe.org/)  -维修咖啡厅是免费的聚会场所，它们全都用于维修（一起）. 您会找到工具和材料，以帮助您修理衣服，家具，电器，自行车，陶器，器具，玩具等. 您还将找到具有各个领域维修技能的专业志愿者. 修理你的东西，或者只是喝杯咖啡. 它们是全球性的，并且该网站是多语言的.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) -他们从餐馆，农场和其他食品供应商那里收集未使用的多余食物，然后将其重新分配成美味和营养的食物，以供纽约人服务不到位.
-- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -永远不用担心Sonny再次用完厕纸，Sonny是一种可持续的替代品，可提供湿巾和纸张，以改善卫生状况，并保护地球.
+- [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -永远不用担心Sonny再次用完厕纸，Sonny是一种可持续的替代品，可提供湿巾和纸质，以提高卫生水平，并使地球更绿色.
 - [The Rotten Fruit Box](https://therottenfruitbox.com/)  -来自西班牙和葡萄牙的100％天然冻干水果零食被运送给您. 否则，您正在享用的水果会被闲置并掉在地上. 我们还认为，“腐烂”这个名称有助于引起人们对严重食物浪费问题的关注. 我们的冷冻干果零食袋美味可口，健康，100％纯天然，具有长的保存期限，是家庭，工作，办公室，上学，露营或几乎任何地方的理想选择. 帮助减少食物浪费. 帮助当地的小农.  100％可堆肥包装随本地邮政服务一起提供，因为它是最低的碳足迹选择.
-- [Too Good To Go](https://toogoodtogo.co.uk/)  -轻松，可持续地出售您的剩余食物！ 节省美味的食物，消除食物浪费. 找到您最喜欢的食物并去救它.
+- [Too Good To Go](https://toogoodtogo.co.uk/)  -轻松，可持续地出售您的剩余食物！ 节省美味的食物，与食物浪费作斗争. 找到您最喜欢的食物并去救它.
 - [Vegware](https://vegware.co.uk/) -餐巾纸，提包，色拉盒，寿司盘，餐具，一次性咖啡杯，全部由使用可再生，低碳，回收或再生材料制成的植物制成，并在可以接受的情况下设计成可与食物残渣进行商业堆肥的.
 - [What is my lamp worth?](https://www.watismijnlampwaard.nl/)  -找到废弃电器和节能灯泡的最近收集点. 该站点可帮助您负责任地回收，捐赠，维修或出售电器和灯.
 

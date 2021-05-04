@@ -75,12 +75,12 @@
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
 * [Golang Developer Jobs](https://golangjob.xyz)
+* [Golang Works](https://golang.works-hub.com/) -本地和远程Golang机会，文章和开源.
 
 ### JavaScript
 
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
-* [Ember Job Board](https://jobs.emberjs.com/)
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
@@ -133,7 +133,6 @@
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
-* [remotebond](https://remotebond.com/)
 
 ## Startups
 
@@ -154,7 +153,7 @@
 
 ### Canada
 
-* [Work in Tech](https://www.workintech.ca/) -多伦多滑铁卢地区走廊工作
+* [Work in Tech](https://www1.communitech.ca/jobs) -探索滑铁卢地区及其他地区的机会 
 
 ### Europe
 

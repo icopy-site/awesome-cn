@@ -27,7 +27,7 @@
 -[Axon！[c]]（https://axoniq.io/）-一个端到端的开发和基础架构平台，用于在JVM上轻松开发和运行任何DDD，CQRS和事件源应用程序.
 - [Ballerina](https://ballerina.io) -云原生编程语言.
 - [Dapr](https://dapr.io) -开源运行时，可使用任何编程语言编写高性能的微服务.
-- [Eclipse Microprofile](https://microprofile.io/) -一个开放论坛，通过跨多个实现进行创新并以标准化为目标在感兴趣的公共领域进行协作，从而为微服务架构优化Enterprise Java.
+- [Eclipse Microprofile](https://microprofile.io/) -一个开放的论坛，通过跨多个实现进行创新并以标准化为目标在感兴趣的公共领域进行协作，从而为微服务架构优化Enterprise Java.
 - [Erlang/OTP](https://github.com/erlang/otp) -用于构建对高可用性有要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) -用于JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) -Flogo是一个开放源代码框架，可简化构建高效，现代的无服务器功能和边缘微服务的过程.
@@ -120,6 +120,7 @@
 - [Go kit](https://github.com/go-kit/kit) -用于现代企业中的微服务的分布式编程工具包.
 - [go-api-boilerplate](https://github.com/vardius/go-api-boilerplate) -使用最佳做法，DDD，CQRS，ES，gRPC转到Server / API样板
 - [Go-micro](https://github.com/micro/go-micro) -分布式系统开发框架.
+- [go-zero](https://github.com/tal-tech/go-zero) -Web和rpc分布式系统开发框架.
 - [Gopencils](https://github.com/bndr/gopencils) -通过Go轻松使用REST API.
 - [Gorilla](http://www.gorillatoolkit.org/) -用于Go编程语言的Web工具包.
 - [Iris](https://github.com/kataras/iris) -用于Go的快速，简单和高效的微型Web框架.
@@ -207,7 +208,7 @@
 - [Restify](http://restify.com/) -专为使您能够构建正确的REST Web服务而构建的Node.js模块.
 - [Seneca](http://senecajs.org/) -用于Node.js的微服务工具包
 - [Serverless](https://github.com/serverless/serverless) -构建和维护在AWS Lambda和API网关（以前称为JAWS）上运行的Web，移动和IoT应用程序.
-- [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是将精力放在技术细节上，从而简化了使用TypeScript的无服务器微服务的开发.
+- [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是过多地关注技术细节，从而简化了使用TypeScript的无服务器微服务的开发.
 
 ### Perl
 
@@ -219,7 +220,7 @@
 - [API Platform](https://api-platform.com/) -Symfony之上具有JSON-LD，Schema.org和Hydra支持的API优先的Web框架.
 - [Fat-Free](https://fatfreeframework.com/) -一个功能强大但易于使用的PHP微框架.
 - [Flight](https://github.com/mikecao/flight) -可扩展的微框架.
-- [Hyperf](https://github.com/hyperf/hyperf) -Hyperf是基于Swoole 4.5+的高性能和灵活的PHP CLI框架，由最先进的协程服务器和大量经过测试的组件提供支持.
+- [Hyperf](https://github.com/hyperf/hyperf) -Hyperf是基于Swoole 4.5+的高性能和灵活的PHP CLI框架，由最新的协程服务器和大量经过测试的组件提供支持.
 - [Lumen](https://lumen.laravel.com/) -惊人的快速微框架.
 - [Phalcon](https://phalconphp.com/) -作为C扩展提供的全栈PHP框架.
 - [Slim](http://www.slimframework.com/) -微框架，可帮助您快速编写简单但功能强大的Web应用程序和API.
@@ -249,7 +250,7 @@
 - [Praxis](https://github.com/rightscale/praxis) -设计和实现API的框架.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) -Rails仅作为API.
 - [Scorched](https://github.com/wardrop/Scorched) -Ruby的轻量级Web框架.
-- [Sinatra](http://www.sinatrarb.com/) -Sinatra是一种DSL，可用于以最少的工作量在Ruby中快速创建Web应用程序.
+- [Sinatra](http://www.sinatrarb.com/) -Sinatra是一种DSL，可用于以最少的精力在Ruby中快速创建Web应用程序.
 
 ### Rust
 
@@ -335,7 +336,7 @@
 
 - [Hazelcast](http://hazelcast.org/)  -开源内存数据网格. 允许您在服务器，群集和地理位置之间分布数据和计算，并管理非常大的数据集或很高的数据摄取率. 技术成熟.
 - [Helix](http://helix.apache.org/) -通用群集管理框架，用于自动管理托管在节点群集上的分区，复制和分布式资源.
-- [Ignite](http://ignite.apache.org/) -高性能，集成和分布式内存平台，用于实时计算和处理大规模数据集，比传统的基于磁盘或闪存的技术快几个数量级.
+- [Ignite](http://ignite.apache.org/) -高性能，集成的分布式内存平台，用于实时处理和处理大规模数据集，比传统的基于磁盘或闪存的技术快几个数量级.
 - [Libp2p](https://libp2p.io/) - A framework and suite of protocols for building peer-to-peer network applications.
 - [Marathon](https://mesosphere.github.io/marathon/) -在Apache Mesos之上大规模部署和管理容器（包括Docker）.
 - [Mesos](https://mesos.apache.org/) -从计算机（物理或虚拟）中提取CPU，内存，存储和其他计算资源，使容错和弹性的分布式系统易于构建和有效运行.
@@ -580,7 +581,7 @@
 ### Security
 
 - [OIDCONN](http://openid.net/connect/)  -OpenID Connect 1.0是OAuth 2.0协议之上的简单身份层. 它允许客户端根据授权服务器执行的身份验证来验证最终用户的身份，并以可互操作且类似于REST的方式获取有关最终​​用户的基本配置文件信息.
-- [PASETO](https://paseto.io/)  -Paseto是您对JOSE（JWT，JWE，JWS）所钟爱的一切，而没有困扰JOSE标准的许多设计缺陷. <sup>草稿</sup>
+- [PASETO](https://paseto.io/)  -Paseto是您对JOSE（JWT，JWE，JWS）所钟爱的一切，而没有困扰JOSE标准的许多设计缺陷. <sup>草案</sup>
 - [RFC5246](https://tools.ietf.org/html/rfc5246) -传输层安全性（TLS）协议版本1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) -TLS扩展.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) -数据报传输层安全性版本1.2.
@@ -593,7 +594,7 @@
 
 ### Service Discovery
 
-- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)  -JSON超文本应用程序语言（HAL）是一种标准，用于建立用于表达超媒体控件（例如，链接）和JSON的约定. <sup>草稿</sup>
+- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)  -JSON超文本应用程序语言（HAL）是一种标准，该标准建立了使用JSON表达超媒体控件（例如链接）的约定. <sup>草案</sup>
 - [Hydra](http://www.hydra-cg.com/) -可互操作，超媒体驱动的Web API的规范.
 - [OpenAPI](https://github.com/OAI/openapi-specification/) -OpenAPI规范（OAS）为REST API定义了标准的，与编程语言无关的接口描述，使人和计算机都可以发现和理解服务的功能，而无需访问源代码，附加文档或检查网络交通.
 - [WADL](http://www.w3.org/Submission/wadl/) -Web应用程序描述语言规范.
@@ -612,11 +613,11 @@
 
 - [JSON Schema](http://json-schema.org/) -词汇表，可用于注释和验证JSON文档.
 - [LOV](http://lov.okfn.org/) -链接的开放词汇表.
-- [Schema.org](http://schema.org/) -协作性社区活动，其任务是创建，维护和促进Internet，网页，电子邮件以及其他内容中的结构化数据架构.
+- [Schema.org](http://schema.org/) -协作性社区活动，其任务是创建，维护和促进Internet，网页，电子邮件等中的结构化数据的架构.
 
 ### Unicode
 
-- [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/)  -Unicode联盟.  Unicode标准版本8.0.0（CA，Mountain View，CA：Unicode联盟，2015年.ISBN978-1-936213-10-8）.
+- [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/)  -Unicode联盟.  Unicode标准版本8.0.0（（加利福尼亚州山景城：Unicode联盟，2015年.ISBN978-1-936213-10-8）.
 - [RFC3629](https://tools.ietf.org/html/rfc3629) -UTF-8，ISO 10646的转换格式.
 
 ## Organization Design / Team Dynamics

@@ -86,8 +86,7 @@
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) -通过迪士尼的Moana学习编程基础知识.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) -引导鸟类穿过尽可能多的管道.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) -仔细选择电源UPS，以击败敌对船只的浪潮.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) -从几何形状建造的程式化无尽流道.
-- [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) -3D教育中心.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) -从几何形状建造的程式化无休止的流道.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
 - [Megopoly](https://playmegopoly.com/) -免费玩休闲策略棋盘游戏，您可以在其中投资虚拟财产.
 - [Monopoly](https://benbean.tech/monopoly-io/) -在3D视频游戏中重新制作了经典的桌游.

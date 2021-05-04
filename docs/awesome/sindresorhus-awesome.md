@@ -91,7 +91,7 @@
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) -P2P超媒体协议.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) -移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) -云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) -信用卡大小的计算机，旨在教孩子们编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) -跨平台的GUI应用程序框架.
@@ -265,7 +265,7 @@
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) -创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) -UI组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) -有助于了解页面速度和用户体验的指标.
+- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) -用于创建在WebAssembly中运行的Web应用程序的Rust框架.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) -确保网站某些性能指标的技术.
@@ -306,7 +306,6 @@
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) -Python Web应用程序框架.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) -用于在代码中定义云基础架构的开源软件开发框架.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) -用户帐户，身份验证和授权.
-- [Chalice](https://github.com/chalice-dev/awesome-chalice#readme) -用于在AWS Lambda上进行无服务器应用开发的Python框架.
 
 ## Computer Science
 
