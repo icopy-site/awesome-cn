@@ -42,6 +42,7 @@
 - [The National Grid ESO](https://www.nationalgrideso.com/news/introducing-our-carbon-intensity-app)  -监控组成您的电力供应的发电类型，并查看何时将是最清洁的用电时间. 查看发电的碳影响水平，您所在地区与英国其他地区的比较情况，并在脱碳记录中断时得到通知.
 - [Trine - Solar Crowd-investing](https://www.trine.com/)  -投资于将清洁能源带入新兴市场的太阳能项目. 当地的太阳能合作伙伴将在地面上分销和管理太阳能产品. 如果贷款成功，您将获得投资和利息作为回报.
 - [We Mean Business](https://www.wemeanbusinesscoalition.org/) -一个旨在促进商业行动并推动政策雄心以加速零碳转型的联盟.
+- [Tradewater](https://tradewater.us/)  -在释放到大气中之前发现并销毁最有力的温室气体. 这些是旧的制冷剂，除非收集和销毁，否则它们会泄漏到大气中. 工作是通过出售碳补偿来资助的. 您可以订阅以抵消您的碳排放量. 
 ## Clothing
 - [4ocean](https://www.4ocean.com/)  -Oeko-tex认证的，无残忍的可定制亚麻服装品牌. 所有包装均不含塑料.
 - [Adidas Parley](https://adidas.com/parley)  -鞋，服装和配件由回收的海洋塑料废料制成. 藏品中的每一件都至少由75％的可拦截塑料垃圾制成.
@@ -464,8 +465,8 @@
 - [Precious Plastic](https://preciousplastic.com/)  -开源社区，他们共享创建塑料切碎机，注射器和单张印刷机的说明，因此您可以从废旧塑料中创建任何想要的东西. 从邻居那里收集塑料，清洁，切碎， [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/) ，并创建您可以想象的任何东西！ 你可以 [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) 如果使它们不在您的驾驶室之外，也是如此.
 
 - [Pure Waste](https://www.purewaste.org/) -总部设在赫尔辛基，利用废料制造100％的再生服装.
-- [Recycle Now](https://www.recyclenow.com/) -找出在哪里可以回收几乎所有东西，包括喷雾剂，旧手机，软塑料，并获得有关如何减少浪费的建议.
-- [ReNu Furniture](https://renufurniture.co.uk/) - Prevent landfill waste and buy second-hand, upcycled and handmade furniture easily with ReNu Furniture. Based in Brighton and covering the UK southeast, this start up will manage the collection, delivery and payments for every furniture sale - they even plant a tree for every delivery to offset carbon emissions. 
+- [Recycle Now](https://www.recyclenow.com/) - Find out where to recycle pretty much anything, including aerosols, old mobile phones, soft plastics, and get advice on how to reduce waste too.
+- [ReNu Furniture](https://renufurniture.co.uk/)  -防止垃圾填埋，并使用ReNu Furniture轻松购买二手，升级后的和手工制作的家具. 该公司位于布莱顿，业务覆盖英国东南部，将管理每笔家具销售的收款，交付和付款-他们甚至为每次交付种植一棵树，以抵消碳排放. 
 - [Repair Café](https://repaircafe.org/)  -维修咖啡厅是免费的聚会场所，它们全都用于维修（一起）. 您会找到工具和材料，以帮助您修理衣服，家具，电器，自行车，陶器，器具，玩具等. 您还将找到具有各个领域维修技能的专业志愿者. 修理你的东西，或者只是喝杯咖啡. 它们是全球性的，并且该网站是多语言的.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) -他们从餐馆，农场和其他食品供应商那里收集未使用的多余食物，然后将其重新分配成美味和营养的食物，以供纽约人服务不到位.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) -永远不用担心Sonny再次用完厕纸，Sonny是一种可持续的替代品，可提供湿巾和纸质，以提高卫生水平，并使地球更绿色.

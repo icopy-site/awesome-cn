@@ -53,8 +53,8 @@
 *用于实现身份验证和授权的插件和库.
 
 - ：草莓： [Acl plugin](https://github.com/cakephp/acl/) -将ACL作为数据库方法进行管理.
-- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) -允许使用 [HybridAuth](https://github.com/hybridauth/hybridauth) CakePHP与图书馆上的社交标志.
 - ：草莓： [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) -一个用于使用JSON Web令牌进行身份验证的插件.
+- ：草莓： [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) -一个插件，可让您使用Facebook / Google / Twitter等社交提供程序进行身份验证，方法是使用 [SocialConnect/auth](https://github.com/SocialConnect/auth) 图书馆的社会标志.
 - ：草莓： [Authentication plugin](https://github.com/cakephp/authentication) -官方的CakePHP身份验证中间件插件.
 - ：草莓： [Authorization plugin](https://github.com/cakephp/authorization) -官方CakePHP授权栈.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)  -使用SOAP或OData服务针对Navision®服务进行身份验证的插件. 它包括NTLM身份验证等.
@@ -256,7 +256,7 @@
 - ：草莓： [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) -允许设置表格的默认顺序.
 - ：草莓： [Muffin/Sti plugin](https://github.com/UseMuffin/Sti) -CakePHP的单表继承. 
 - ：草莓： [Muffin/Trash plugin](https://github.com/usemuffin/trash) -CakePHP的软删除行为.
-- [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) -保留相关模型的选定字段的行为.
+- [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) -PHPExcel的ORM包装器.
 - ：草莓： [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) -单表继承（STI）插件.
 - ：草莓： [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
@@ -288,7 +288,7 @@
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -用于构建的Crud侦听器 [JSON API](https://jsonapi.org/) 兼容的API.
-- ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+- ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
 - ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  -此插件会根据您现有的模型和路线自动构建Swagger UI文档. 还可以使用redoc选项.
 
 ## Search

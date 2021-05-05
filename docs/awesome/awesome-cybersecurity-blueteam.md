@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性，并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -48,7 +48,7 @@
 
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
-- [Checkov](https://www.checkov.io/) -Terraform的静态分析（以基础结构作为代码），有助于检测CIS策略违规并防止云安全配置错误.
+- [Checkov](https://www.checkov.io/) -Terraform的静态分析（以基础结构作为代码），以帮助检测到CIS策略违规并防止云安全配置错误.
 - [Falco](https://falco.org/) -行为活动监视器，旨在通过审核Linux内核并通过运行时数据（例如Kubernetes指标）进行充实，以检测容器化应用程序，主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) -使用感觉和性能类似容器的轻型虚拟机来保护容器运行时，但是使用硬件虚拟化技术作为第二防御层，可以提供更强的工作负载隔离.
 - [Prowler](https://github.com/toniblyx/prowler) -基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和强化.
@@ -68,13 +68,15 @@
 ### Kubernetes
 
 - [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
+- [Kyverno](https://kyverno.io/) -为Kubernetes设计的策略引擎.
 - [Linkerd](https://linkerd.io/) -特定于Kubernetes的超轻服务网格，可为Kubernetes应用程序增加可观察性，可靠性和安全性，而无需对应用程序本身进行任何修改.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
 - [Polaris](https://polaris.docs.fairwinds.com/) -通过针对代码提交，Kubernetes接纳请求或集群中已在运行的实时资源运行测试来验证Kubernetes最佳实践. 
 - [certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) -该实用程序可将TLS证书的到期日作为Prometheus指标公开.
-- [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) -允许将经常错过的Kubernetes事件导出到各种输出，以便可以将它们用于可观察性或警报目的.
+- [k-rail](https://github.com/cruise-automation/k-rail) -Kubernetes的工作量策略实施工具.
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) -允许群集管理员转储正在运行的Pod及其所有容器的当前状态，以便安全专业人员可以执行脱机取证分析.
-- [kube-hunter](https://kube-hunter.aquasec.com/) -开源工具，可从外部（“攻击者的视图”）或集群内部运行一组测试（“猎人”）以解决Kubernetes集群中的安全问题.
+- [kube-hunter](https://kube-hunter.aquasec.com/) -开源工具，可以从外部（“攻击者的视图”）或集群内部运行一组测试（“猎人”）以解决Kubernetes集群中的安全问题.
+- [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) -允许将经常错过的Kubernetes事件导出到各种输出，以便可以将它们用于可观察性或警报目的.
 
 ### Service meshes
 
@@ -146,7 +148,7 @@
 ### Tarpits
 
 - [Endlessh](https://github.com/skeeto/endlessh) -缓慢地发送无休止的横幅的SSH tarpit.
-- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -响应ARP请求以获取未使用IP空间的程序，其伪造的计算机的外观会非常缓慢地响应其他请求，从而减慢扫描程序，蠕虫等的速度.
+- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -响应ARP请求以获取未使用IP空间的程序，其伪造的计算机的外观会非常缓慢地响应进一步的请求，从而减慢扫描程序，蠕虫等的速度.
 
 ## Host-based tools
 
@@ -199,7 +201,7 @@
 
 也可以看看 [Wikipedia: List of router and firewall distributions](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
 
-- [IPFire](https://www.ipfire.org/) -从IPCop派生的基于GNU / Linux的增强型路由器和防火墙分发.
+- [IPFire](https://www.ipfire.org/) -从IPCop派生的基于GNU / Linux的强化路由器和防火墙分发.
 - [OPNsense](https://opnsense.org/) -从pfSense派生的基于FreeBSD的强化防火墙和路由平台.
 - [pfSense](https://www.pfsense.org/) -从m0n0wall派生的FreeBSD防火墙和路由器分布.
 
@@ -207,7 +209,7 @@
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) -意大利GNU / Linux实时发行版，预打包了许多数字取证和证据收集工具.
 - [Security Onion](https://securityonion.net/) -免费和开源的GNU / Linux发行版，用于入侵检测，企业安全监视和日志管理.
-- [Qubes OS](https://qubes-os.org/) -在Xen虚拟机管理程序项目之上构建的桌面环境，该环境在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制，以限制任何成功的恶意软件利用范围.
+- [Qubes OS](https://qubes-os.org/) -在Xen虚拟机管理程序项目之上构建的桌面环境，该环境在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制以限制任何成功的恶意软件利用范围.
 
 ## Phishing awareness and reporting
 
@@ -291,7 +293,7 @@
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
 - [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由资产上安装的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
-- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有各种内置集成的分析功能，包括Jupyter Notebook.
+- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -自动执行安全事件处理流程，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.

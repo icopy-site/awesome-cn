@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="git-tips/tips"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## git-tips
- &gt; git-tips的集合，要添加您的提示吗？ 退房 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
+ &gt; git-tips的集合，要添加您的提示吗？ 查看 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
 
 [English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | [Polski](https://github.com/mbiesiad/tips)
 
@@ -152,6 +152,11 @@ git push来源：<remote_branchname>
 
 ```sh
 git分支-dr<remote/branch>
+```
+
+## Create local tag
+```sh
+git标签<tag-name>
 ```
 
 ## Delete local tag
@@ -345,6 +350,10 @@ git stash push-全部
 ## Show list of all saved stashes
 ```sh
 git存储列表
+```
+
+```sh
+git stash show -p<stash@{n}>
 ```
 
 ## Apply any stash without deleting from the stashed list
@@ -823,6 +832,10 @@ __Alternatives:__
  git分支<branch-name> &amp;&amp; git结帐<branch-name>
 ```
 
+```sh
+git开关-c<branch-name>
+```
+
 ## Ignore file mode changes on commits
 ```sh
 git config core.fileMode错误
@@ -1021,7 +1034,7 @@ git request-pull v1.0 https：//git.ko.xz/project master：for-linus
 
 ## List references in a remote repository
 ```sh
-git ls-远程git：//git.kernel.org/pub/scm/git/git.git
+git ls-remote git：//git.kernel.org/pub/scm/git/git.git
 ```
 
 ## Backup untracked files.
@@ -1048,6 +1061,11 @@ git status --short-分支
 ## Checkout a commit prior to a day ago
 ```sh
 git checkout master @ {昨天}
+```
+
+## Push the current branch to the same name on the remote repository
+```sh
+git push origin HEAD
 ```
 
 ## Push a new local branch to remote repository and track
