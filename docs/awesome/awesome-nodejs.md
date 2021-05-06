@@ -5,6 +5,7 @@
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
 	</div>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -35,7 +36,20 @@
 				<sup>并避免使用访问控制.</sup> <sup>使您的团队和服务器与多普勒保持同步.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+			</div>
+			<b>您的应用程序，可用于企业.</b>
+			<div>
+				<sub>只需几行代码即可开始向企业客户销售.</sub>
+				<br>
+				<sup>在几分钟（而不是几个月）内添加一次登录（以及更多）.</sup>
+			</div>
+		</a>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
@@ -82,7 +96,7 @@
 - [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
-- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
+- [webcat](https://github.com/mafintosh/webcat) -使用WebRTC在Web上通过p2p管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
 - [NodeOS](https://github.com/NodeOS/NodeOS) -由npm支持的第一个操作系统.
 - [YodaOS](https://github.com/yodaos-project/yodaos) -AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) -机器学习框架.
@@ -118,10 +132,10 @@
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
 - [David](https://github.com/alanshaw/david) -告诉您软件包npm依赖项何时过时.
 - [http-server](https://github.com/indexzero/http-server) -简单的零配置命令行HTTP服务器.
-- [Live Server](https://github.com/tapio/live-server) -具有livereload功能的开发HTTP服务器.
+- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 - [bcat](https://github.com/kessler/node-bcat) -将命令输出到Web浏览器.
 - [normit](https://github.com/pawurb/normit) -在您的终端中使用语音合成功能进行Google翻译.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+- [fkill](https://github.com/sindresorhus/fkill-cli)  -令人难以置信的杀死进程. 跨平台.
 - [pjs](https://github.com/danielstjules/pjs)  -可移植的JavaScript. 从终端快速过滤，映射和缩小.
 - [license-checker](https://github.com/davglass/license-checker) -检查应用程序依赖项的许可证.
 - [browser-run](https://github.com/juliangruber/browser-run) -在浏览器环境中轻松运行代码.
@@ -315,7 +329,7 @@
 - [Nest](https://github.com/nestjs/nest) -基于角度的框架，用于构建高效且可扩展的服务器端应用程序.
 - [Zeronode](https://github.com/sfast/zeronode) -可靠和容错的微服务的最小构建块.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) -用于使用TypeScript使用类和装饰器创建GraphQL API的现代框架.
-- [Tinyhttp](https://github.com/talentlessguy/tinyhttp) -类似于Express的现代快速Web框架.
+- [Tinyhttp](https://github.com/talentlessguy/tinyhttp) -现代化，快速的类似Express的Web框架.
 - [Marble.js](https://github.com/marblejs/marble) -基于TypeScript和RxJS的用于构建服务器端应用程序的功能性响应框架.
 
 ### Documentation
@@ -444,7 +458,7 @@
 
 ### Math
 
-- [ndarray](https://github.com/scijs/ndarray) -多维数组.
+- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
 - [mathjs](https://github.com/josdejong/mathjs) -广泛的数学库.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) -固定一个数字.
 - [algebra](https://github.com/fibo/algebra) -代数结构.
@@ -543,13 +557,13 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) -Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
 -ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize)  -多方ORM. 支持PostgreSQL，SQLite，MySQL等.
+	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) -Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -适用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM. 类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -用于使用诺言的本机SQL的PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -572,7 +586,7 @@
 - [AVA](https://github.com/avajs/ava) -未来的测试跑步者.
 - [Mocha](https://github.com/mochajs/mocha) -功能丰富的测试框架，使异步测试变得简单而有趣.
 - [nyc](https://github.com/bcoe/nyc) -基于伊斯坦布尔的代码覆盖工具，可与子流程一起使用.
-- [tap](https://github.com/isaacs/node-tap) - TAP test framework.
+- [tap](https://github.com/isaacs/node-tap) -TAP测试框架.
 - [tape](https://github.com/substack/tape) -生产TAP的测试装置.
 - [power-assert](https://github.com/power-assert-js/power-assert) -通过标准的assert接口提供描述性断言消息.
 - [Mochify](https://github.com/mantoni/mochify.js) -TDD与Browserify，Mocha，PhantomJS和WebDriver.
@@ -580,7 +594,7 @@
 - [loadtest](https://github.com/alexfernandez/loadtest) -使用自动化API为您的Web应用程序运行负载测试.
 - [Sinon.JS](https://github.com/sinonjs/sinon) -测试间谍，存根和模拟.
 - [navit](https://github.com/nodeca/navit) -PhantomJS / SlimerJS包装器可简化浏览器测试脚本.
-- [Nock](https://github.com/pgte/nock) -HTTP模拟和期望.
+- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) -代码测试堆栈.
 - [toxy](https://github.com/h2non/toxy) -可入侵的HTTP代理，可模拟故障情况和网络状况.
 - [hook-std](https://github.com/sindresorhus/hook-std) -钩并修改stdout / stderr.
@@ -721,7 +735,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈·̑̑ෆ⃛（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·༝·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ“`.
 - [nerds](https://github.com/SkyHacks/nerds) -从“哈利·波特”，“星球大战”和“神奇宝贝”等讨厌的话题中获取数据.
 
 ### Serialization
@@ -739,17 +753,17 @@
 - [hasha](https://github.com/sindresorhus/hasha)  -哈希变得简单. 获取缓冲区/字符串/流/文件的哈希.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) -使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) -仅运行一次功能.
-- [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+- [mem](https://github.com/sindresorhus/mem) -记忆功能-一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续的函数调用.
 - [import-fresh](https://github.com/sindresorhus/import-fresh) -在绕过缓存的同时导入模块.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) -从字符串/缓冲区/流中剥离UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) -获取系统区域设置.
-- [ssh2](https://github.com/mscdex/ssh2) -SSH2客户端和服务器模块.
+- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 - [adit](https://github.com/markelog/adit) -SSH隧道变得简单.
 - [import-lazy](https://github.com/sindresorhus/import-lazy) -延迟导入模块.
 - [file-type](https://github.com/sindresorhus/file-type) -检测缓冲区的文件类型.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) -速率限制器，使节流变得容易.
 - [ow](https://github.com/sindresorhus/ow) -对人类的功能参数验证.
-- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
+- [webworker-threads](https://github.com/audreyt/node-webworker-threads) -带有本地线程的轻量级Web Worker API实现.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) -访问系统剪贴板（复制/粘贴）.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) -使从二进制文件发布和安装Node.js C ++插件变得容易.
 - [opencv](https://github.com/peterbraden/node-opencv)  -用于OpenCV的绑定. 事实计算机视觉库.
@@ -786,7 +800,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少数简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少量简单的库和核心Node.js模块来构建和部署真实的实时Web应用程序.
 
 ### Discovery
 
@@ -852,7 +866,7 @@
 ### Cheatsheets
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
-- [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+- [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) -回答有关流的常见问题，包括分页，事件等.
 - [Strong Node.js](https://github.com/jesusprubio/strong-node) -用于Node.js Web服务的源代码安全性分析的清单.
 
 ### Tools

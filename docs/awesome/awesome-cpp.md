@@ -60,6 +60,7 @@
 * [Genann](https://github.com/codeplea/genann) -C语言中的简单神经网络库.
 * [MXNet](https://github.com/apache/incubator-mxnet)  -具有动态，可感知突变的Dataflow Dep Scheduler的轻型，便携式，灵活的分布式/移动深度学习； 适用于Python，R，Julia，Scala，Go，Javascript等 [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) -具有强大GPU加速功能的Python中的张量和动态神经网络. [website](https://pytorch.org)
+* [flashlight](https://github.com/flashlight/flashlight)  -Flashlight是一个完全用C ++编写的快速，灵活的机器学习库.  [BSD]
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation)  -（3D）导航网格生成器和探路器，主要用于游戏.  [zlib]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) -使用数据流图进行数值计算的开源软件库[Apache]
 * [oneDNN](https://github.com/oneapi-src/oneDNN)  -深度学习应用程序的开源跨平台性能库.  [Apache] [website](https://01.org/onednn)
@@ -71,7 +72,7 @@
 ## Asynchronous Event Loop
 
 * [Asio](https://github.com/chriskohlhoff/asio/)  -用于网络和底层I / O编程的跨平台C ++库，使用现代C ++方法为开发人员提供一致的异步模型.  [促进] [website](http://think-async.com/)
-* [Boost.Asio](http://think-async.com/)  -用于网络和底层I / O编程的跨平台C ++库.  [促进]
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)  -C ++中Actor模型的开源实现.  [BSD-3-Clause] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)  -功能齐全的高性能事件循环，在libevent之后进行松散建模，但没有限制和错误.  [BSD和GPL]
 * [libevent](http://libevent.org/)  -事件通知库.  [BSD]
@@ -372,7 +373,7 @@
 * [Panda3D](https://github.com/panda3d/panda3d)  -游戏引擎，用于Python和C ++程序的3D渲染和游戏开发的框架.  [修改后的BSD] [website](https://www.panda3d.org/)
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)  -olcPixelGameEngine的官方发行版，这是javidx9的YouTube视频和项目中使用的工具.  [OLC3]
 * [Polycode](https://github.com/ivansafrin/Polycode)  -用于C ++中的创意代码的跨平台框架（带有Lua绑定）.  [麻省理工学院] [website](http://polycode.org/)
-* [raylib](https://github.com/raysan5/raylib)  -一个简单易用的库，可享受视频游戏编程的乐趣.  [zlib / libpng] [website](http://www.raylib.com/)
+* [raylib](https://github.com/raysan5/raylib)  -一个简单易用的库，可享受电子游戏编程的乐趣.  [zlib / libpng] [website](http://www.raylib.com/)
 * [Spring](https://github.com/spring/spring)  -强大的免费跨平台RTS游戏引擎.  [GPLv2 / GPLv3] [website](https://springrts.com/)
 * [Torque2D](https://github.com/GarageGames/Torque2D)  -为2D游戏开发而构建的开源和跨平台C ++引擎.  [麻省理工学院] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D)  -为3D游戏开发而构建的开源C ++引擎.  [麻省理工学院] [website](https://www.garagegames.com/products/torque-3d)
@@ -526,7 +527,7 @@
 
 * [Blackhole](https://github.com/3Hren/blackhole)  -基于属性的日志记录框架，该框架旨在快速，模块化和高度可定制.  [麻省理工学院]
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html)  -设计成非常模块化和可扩展的.  [促进]
-* [Easylogging++](https://github.com/easylogging/easyloggingpp)  -用于C ++ 11（或更高版本）应用程序的超轻量级高性能日志记录库.  [麻省理工学院] [website](https://muflihun.github.io/easyloggingpp)
+* [Easylogging++](https://github.com/easylogging/easyloggingpp)  -适用于C ++ 11（或更高版本）应用程序的超轻量级高性能日志记录库.  [麻省理工学院] [website](https://muflihun.github.io/easyloggingpp)
 * [G3log](https://github.com/KjellKod/g3log)  -带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) -Google日志记录模块的C ++实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)  -C ++类库，用于灵活地记录到文件，系统日志，IDSA和其他目标.  [LGPL]
@@ -591,7 +592,7 @@
 * [SymEngine](https://github.com/symengine/symengine)  -快速的符号操作库，用C ++重写了SymPy的核心.  [麻省理工学院]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  -一个AC库，用于解析和评估字符串中的数学表达式.  [zlib]
 * [Vc](https://github.com/VcDevel/Vc)  -C ++的SIMD矢量类.  [BSD]
-* [Versor](http://versor.mat.ucsb.edu/) -用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
+* [Versor](http://versor.mat.ucsb.edu/) -一个用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
 * [Wykobi](http://www.wykobi.com/)  -高效，强大且易于使用的面向C ++ 2D / 3D的计算几何例程的C ++库.  [麻省理工学院]
 * [xtensor](https://github.com/QuantStack/xtensor)  -受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3句] [website](http://quantstack.net/xtensor)
 
@@ -706,7 +707,7 @@
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)  -使用clang进行C ++反射.  [麻省理工学院]
 * [CPFG](https://github.com/cpgf/cpgf)  -一个C ++ 03库，用于反射，回调和脚本绑定.  [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)  -使用clang进行C ++反射.  [麻省理工学院]
-* [Magic Enum](https://github.com/Neargye/magic_enum)  -仅标头的C ++ 17库为枚举（向字符串，从字符串，迭代）枚举提供了静态反射，可与任何枚举类型一起使用，而无需任何宏或样板代码.  [麻省理工学院]
+* [Magic Enum](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. [MIT]
 * [magic_get](https://github.com/apolukhin/magic_get)  -std :: tuple类似用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)  -C ++中的仅标头，非侵入性且无宏的运行时反射系统.  [麻省理工学院]
 * [Nameof](https://github.com/Neargye/nameof)  -仅标头的C ++ 17库提供了nameof宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [麻省理工学院]
@@ -729,7 +730,7 @@
 
 ## Robotics
 
-* [MOOS-IvP](http://moos-ivp.org) -一组开放源代码的C ++模块，用于在机器人平台（尤其是自动驾驶的海上航行器）上提供自主权.
+* [MOOS-IvP](http://moos-ivp.org) -一组开放源代码的C ++模块，用于在机器人平台（尤其是自动驾驶的海上航行器）上提供自治.
 * [MRPT](http://www.mrpt.org/)  -移动机器人编程工具包.  [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) -点云库是一个独立的，大规模的，开放的项目，用于2D / 3D图像和点云处理[BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)  -一个完整的C ++库，用于机器人运动学，运动计划和控制.  [BSD]
@@ -816,8 +817,8 @@
 ## Web Application Framework
 
 * [Civetweb](https://github.com/civetweb/civetweb)  -提供易于使用，功能强大的C / C ++嵌入式Web服务器，并具有可选的CGI，SSL和Lua支持.  [麻省理工学院]
-* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)  -使用现代异步C ++ API设计以本机代码进行基于云的客户端-服务器通信的Microsoft项目.  [麻省理工学院]
-* [CppCMS](http://cppcms.com/)  -免费的高性能Web开发框架（而非CMS）.  [LGPLv3]
+* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. [MIT]
+* [CppCMS](http://cppcms.com/)  -免费的高性能Web开发框架（不是CMS）.  [LGPLv3]
 * [Crow](https://github.com/ipkn/crow)  -Crow是C ++微型网络框架（受Python Flask启发）.  [BSD]
 * [Cutelyst](https://github.com/cutelyst/cutelyst)  -使用Catalyst（Perl）框架的简单方法，在Qt之上构建的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon)  -基于C ++ 14/17的高性能HTTP应用程序框架.  [麻省理工学院]
@@ -827,12 +828,12 @@
 * [lwan](https://github.com/lpereira/lwan)  -实验性，可扩展的高性能HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)  -轻巧，零依赖的框架可创建高性能的Web服务.  [Apache-2.0] [website](https://oatpp.io/)
 * [Pistache](http://pistache.io/)  -Pistache是​​用纯C ++ 11编写的C ++ REST框架，没有外部依赖关系.  [Apache2]
-* [QDjango](https://github.com/jlaine/qdjango/)  -用C ++编写并在Qt库之上构建的Web框架. 在可能的情况下，它会尝试遵循django的API，因此也沿用了它的名称.  [LGPL]
+* [QDjango](https://github.com/jlaine/qdjango/)  -用C ++编写并在Qt库之上构建的Web框架. 在可能的情况下，它尝试遵循django的API，因此取其名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)  -基于C ++和Qt的高速，全栈Web应用程序框架，支持HTTP和WebSocket协议（带有O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
 * [Wt](http://www.webtoolkit.eu/wt)  -用于开发Web应用程序的C ++库.  [GPL /商业]
 
 ## XML
- * XML是废话. 真的. 没有任何借口.  XML对于人类而言是令人讨厌的解析，即使对于计算机而言，它也是一种灾难. 那种可怕的废话根本没有理由存在.  -Linus Torvalds *
+ * XML是废话. 真的. 没有任何借口.  XML对于人类来说很讨厌解析，即使对于计算机也无法解析. 那种可怕的废话根本没有理由存在.  -莱纳斯·托瓦尔兹（Linus Torvalds）*
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  -属性树解析器/生成器，可用于解析XML / JSON / INI / Info文件.  [促进]
 * [Expat](http://www.libexpat.org/) -用C语言编写的XML解析器库.
@@ -904,7 +905,7 @@
 
 * [8cc](https://github.com/rui314/8cc) -小型C编译器.
 * [c](https://github.com/ryanmjacobs/c)  -一次性编译并执行C“脚本”！  [麻省理工学院]
-* [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. [NCSA]
+* [Clang](http://clang.llvm.org/)  -用于LLVM的AC编译器. 支持C ++ 11/14 / 1z C11. 由LLVM团队开发.  [NCSA]
 * [GCC](https://gcc.gnu.org/)  -GNU编译器集合. 支持C ++ 11/14 / 1z C11和OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)  -一个非常老的C编译器. 支持C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) -由Intel开发.
@@ -949,9 +950,9 @@
 * [CodeLite](http://codelite.org/)  -另一个跨平台的免费C和C ++ IDE.  [GPL2，插件例外]
 * [color_coded](https://github.com/jeaye/color_coded)  -用于基于libclang突出显示的vim插件.  [麻省理工学院]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) -便携式C / C ++ / C ++ 11 IDE.
-* [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
+* [Eclipse CDT](http://www.eclipse.org/cdt/) -基于Eclipse平台的功能齐全的C和C ++ IDE.
 * [Geany](http://www.geany.org/)  -小型，快速，跨平台的IDE.  [GPL]
-* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
+* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -来自IBM的一系列计算机集成开发环境.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) -由libclang支持的Emacs的AC / C ++次要模式.
 * [juCi++](https://gitlab.com/cppit/jucipp)  -具有libclang集成的跨平台，轻量级C ++ IDE.  [麻省理工学院]
 * [KDevelop](https://www.kdevelop.org/) -一个免费的开源IDE.

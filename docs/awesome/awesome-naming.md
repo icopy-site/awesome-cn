@@ -6,7 +6,7 @@
 Famously...
 <!-- lint enable no-repeat-punctuation -->
 
-&gt;计算机科学中只有两件难事：缓存失效和命名.
+> There are only two hard things in Computer Science: cache invalidation and naming things.
 > 
 &gt;-菲尔·卡尔顿
 
@@ -57,7 +57,7 @@ Famously...
 ## Libraries and Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney)  -一个JavaScript库，实现用于并行计算的actor模型. 该术语是指同时也是演员的乔治·克鲁尼（George Clooney）.
-- [Uglify](https://github.com/mishoo/UglifyJS)  -JavaScript缩小器. 删除所有使代码易于阅读的代码，并使代码变得更小.
+- [Uglify](https://github.com/mishoo/UglifyJS)  -JavaScript缩小器. 删除使代码易于阅读且美观的所有内容.
 - [uppy](https://github.com/transloadit/uppy)  -以狗为主题的上传器组件. 该名称是_upload_和_puppy_的混合体. 它甚至附带一个名为_Golden Retriever_的崩溃恢复插件.
 
 ## Machine Learning
@@ -77,15 +77,16 @@ Famously...
 ## Theoretical Computer Science
 
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem)  -在具有友好关系的人的网络中寻找共同的朋友群体的问题. 或更笼统的是，找到完整的子图.
-- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) -没有玩家且几乎没有规则的游戏，但是却产生了惊人的复杂性.
+- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) -一个游戏世界，展示了非常简单的成分如何带来惊人的复杂性.
+- [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) -在某些形式语言中，任何足够长的字符串都可以重复其子字符串被抽出，并且结果仍然使用相同的形式语言.
 
 ## Other
 
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) -描述竞争数据库意识形态的首字母缩略词（又名SQL vs. NoSQL）. 
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) -网络/应用程序的中心部分，它极大地限制了吞吐量/性能，因此最好将其删除.
-- [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - Different case styles where the name illustrates its appearance.
+- [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) -名称说明其外观的不同案例样式.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)）-一项隐藏功能，尤其是在视频游戏中，涉及复活节彩蛋狩猎.
-- [Floating point number](https://floating-point-gui.de/formats/fp/) -通过让基数点_float_而不是固定在适当的位置，此表示形式可以用数量有限的数字对大小不同的数字进行编码.
+- [Floating point number](https://floating-point-gui.de/formats/fp/) -通过让基数点_float_而不是固定在适当的位置，此表示形式可以用数量有限的数字对数量非常不同的数字进行编码.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) -在软件体系结构中（像在实际体系结构中一样），框架提供了基于该指南的基本结构，并限制了进一步的开发.
 - [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)）-程序的一部分，尝试查找并回收不再使用的内存垃圾.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) -积木和乐高积木不共享相同的界面，但您始终可以将它们粘合在一起.

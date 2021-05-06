@@ -602,7 +602,7 @@ AWS存储库：
 * [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) -与其他AWS和非AWS服务集成的库.
 * [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) -样本数据可视化应用程序.
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) -学习运动学发展.
-* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者库.
+* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者图书馆.
 * [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) -提供缩放流的功能.
 * [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) -流利的插件.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) -DynamoDB流适配器.
@@ -691,7 +691,7 @@ AWS存储库：
 * [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) -简单的PHP应用程序.
 * [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) -一个示例Rails应用程序.
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) -Elasticsearch示例食谱.
-* [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) -与示例应用程序一起使用的食谱.
+* [opsworks-example-cookbooks ](https://github.com/awslabs/opsworks-example-cookbooks) -与示例应用程序一起使用的食谱.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) -用于演示简单食谱的食谱.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) -一个示例Node.JS应用.
 * [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) -适用于Windows的食谱.

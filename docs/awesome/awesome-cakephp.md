@@ -198,7 +198,7 @@
 *其他插件和库.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) -使您能够将控制器操作作为单个类进行管理.
-- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
+- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -将枚举列表支持添加到您的应用程序的插件.
 - ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
@@ -301,7 +301,7 @@
 - ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.
 
 ## Security
-*Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
+*有关安全性的插件和信息，可防止漏洞并防御XSS等.
 
 - ：草莓： [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) -在不涉及数据库的情况下将Brute Force Protection添加到安装中的简单方法.
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
@@ -386,9 +386,9 @@
 ## Development Environment
 *用于创建沙盒开发环境的软件和工具.
 
-- [Cakebox](https://github.com/alt3/cakebox) -由CakePHP 3.x控制台提供支持的Vagrant开发环境.
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) -.gitignore文件建议.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) -用于分解多个CakePHP 3.x Vanilla Dev Environments的工具.
+- [Devilbox](https://devilbox.readthedocs.io/en/latest/) -可自动设置（CakePHP）应用程序的docker开发环境，其中包括许多工具.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) -在docker容器环境中的CakePHP.
 - [Mixer](https://github.com/CakeDC/mixer) -一个发现和管理CakePHP插件的插件.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) -该软件包在NetBeans 8.1+中提供对CakePHP的支持.

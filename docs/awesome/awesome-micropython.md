@@ -296,7 +296,7 @@
 
 * [Grove_OLED](https://github.com/dda/MicroPython/blob/master/Grove_OLED.py) -SeeedStudio的Grove OLED Display 1.12“ v1.0使用的SSD1327驱动程序.
 * [micropython-oled](https://bitbucket.org/thesheep/micropython-oled) -单色OLED显示器，PCD8544，SH1106，SSD1306，UC1701X的驱动程序集合.
-* [micropython-ssd1327](https://github.com/mcauser/micropython-ssd1327) - Driver for SSD1327 128x128 4-bit greyscale OLED displays.
+* [micropython-ssd1327](https://github.com/mcauser/micropython-ssd1327) -SSD1327 128x128 4位灰度OLED显示器的驱动程序.
 * [micropython-ssd1351](https://github.com/rdagger/micropython-ssd1351) -SSD1351 OLED显示器的驱动程序.
 * [MicroPython_SSD1306](https://github.com/AnthonyKNorman/MicroPython_SSD1306) -适用于SSD1306 OLED 128x64显示器的ESP8266驱动程序.
 * [Official SSD1306](https://github.com/micropython/micropython/tree/master/drivers/display) -SSD1306 128x64 OLED显示器的驱动程序.
@@ -457,6 +457,7 @@
 #### Soil Moisture
 
 * [micropython-chirp](https://github.com/robberwick/micropython-chirp) -Chirp土壤湿度传感器的驱动程序.
+* [MicroPython-MiFlora](https://github.com/matthias-bs/MicroPython-MiFlora) -小米Mi Flora（又称花卉护理）BLE植物传感器（土壤湿度/电导率/光强度/温度）.
 
 #### Temperature Analog
 
@@ -533,17 +534,17 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -尼古拉斯·托勒维（Nicholas H. Tollervey）  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
 * [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  -尤里·玛格达（Yury Magda）.  ISBN 9781090900937.
-* [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  -雅各·贝宁戈（Jacob Beningo）.  ISBN 9781789958034.
+* [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  -雅各布·贝宁戈（Jacob Beningo）.  ISBN 9781789958034.
 
 ## Frameworks
 
 * [micrOS](https://github.com/BxNxM/micrOS) -基于MicroPython的IoT框架.
-* [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) -适用于MicroPython和CPython的灵活的数据记录器应用程序.
+* [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ## Resources
 

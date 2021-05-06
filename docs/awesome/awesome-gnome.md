@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/) 是Linux和Unixes的桌面环境，旨在让用户掌控一切. 它在其应用程序中使用GTK，在其官方桌面外壳中使用Clutter和JavaScript.
 
-&gt;带有！[GNOME Core] [GNOME Core]标记的项目是GNOME项目正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
+&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式的一部分维护和分发的扩展.
 
 &gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://circle.gnome.org/) 旨在展示适用于GNOME的最佳应用程序和库的计划.
 
@@ -151,7 +151,7 @@
 - [Notes](https://github.com/maoschanz/notes-extension-gnome) -可定制的便签.
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/)  -适用于应用程序的基于类别的菜单.  ！[GNOME经典] [GNOME核心]
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)  -提供快速访问文件夹的菜单.  ！[GNOME经典] [GNOME核心]
 - [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) -受Zorin OS启发的类似Windows7的应用程序菜单.
 
@@ -237,7 +237,7 @@
 #### Material Icons
 
 - [Paper](https://snwh.org/paper) -材质图标主题.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) -材质图标主题，最初基于Paper.
 
 #### Flat Icons
 
@@ -285,7 +285,9 @@
 
 ### Libraries
 
-- [libdazzle](https://git.gnome.org/browse/libdazzle) -GObject和Gtk +的伴侣库，提供了各种新功能.
+- [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/) -包含官方GNOME模式和小部件（GTK4）的库
+- [libdazzle](https://gitlab.gnome.org/GNOME/libdazzle)  -GObject和Gtk +的伴侣库，提供了各种新功能.  （GTK3）
+- [libhandy](https://gitlab.gnome.org/GNOME/libhandy) -现代自适应GNOME应用程序（GTK3）的构建块
 
 ### Examples
 

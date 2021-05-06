@@ -8,7 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
+**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
 
 <br>
 
@@ -130,7 +130,7 @@
 - [DTCP](https://github.com/alchen/DTCP) -Twitter客户端.
 - [Inbox](https://github.com/fgnass/inbox-app) -非官方的Google收件箱应用.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) -鸣叫录音播放器.
-- [Snippet Bar](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
+- [Snippet Bar](https://github.com/teesloane/snippet-bar) -复制并重新使用菜单栏中的文本片段.
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) -非官方的微信应用程序.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) -自动保存暂存器.
@@ -276,13 +276,11 @@
 - [generator-electron](https://github.com/sindresorhus/generator-electron) -搭建应用样板.
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) -全面的样板甚至可以生成安装程序- [szwacz](https://github.com/szwacz).
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) -基于React和Webpack的样板.
-- [descjop](https://github.com/karad/lein_template_descjop) -用于创建应用程序的ClojureScript样板.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) -克隆仓库以尝试一个简单的应用程序.
 - [bozon](https://github.com/railsware/bozon) -脚手架，运行，测试和打包您的应用.
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue) -使用Vue和通用插件轻松构建您的应用程序.
-- [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) -使用Next.js构建您的应用程序的样板.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) -专注于安全性的样板，用于使用React，Redux，Webpack和i18next创建应用程序.
 - [angular-electron](https://github.com/maximegris/angular-electron) -通过Angular，Electron，TypeScript，SASS和Hot Reload快速启动.
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)  -基于Vite的Electron应用程序的安全样板.  TypeScript + Vue / React / Angular / Svelte / Vanilla.
 
 ## Tools
 
@@ -356,7 +354,7 @@
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) -浏览器窗口和主进程之间的透明异步远程处理.
 - [trilogy](https://github.com/citycide/trilogy) -TypeScript SQLite数据库层，同时支持本机C ++和纯JavaScript后端.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) -屏蔽广告和跟踪器.
-- [electronmon](https://github.com/catdad/electronmon) -在开发过程中对进程外的应用程序进行监视和重新加载.
+- [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) -所有平台的默认菜单，易于扩展，并支持i18n.
 - [electronegativity](https://github.com/doyensec/electronegativity) -识别配置错误和安全反模式.
 

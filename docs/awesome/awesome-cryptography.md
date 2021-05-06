@@ -42,7 +42,7 @@
 
 #### Hash functions
 
-- [MD5](https://en.wikipedia.org/wiki/MD5)  -广泛使用的哈希函数产生128位哈希值.  MD5最初被设计为用作加密哈希函数，但已发现它具有广泛的漏洞. 它仍然可以用作校验和，以验证数据完整性，但只能防止意外损坏.
+- [MD5](https://en.wikipedia.org/wiki/MD5)  -广泛使用的哈希函数可产生128位哈希值.  MD5最初被设计为用作加密哈希函数，但已发现它具有广泛的漏洞. 它仍然可以用作校验和，以验证数据完整性，但只能防止意外损坏.
 - [SHA1](https://en.wikipedia.org/wiki/SHA-1)  -由美国国家安全局（NSA）设计的加密哈希函数.  SHA-1产生一个160位的哈希值，称为消息摘要.  SHA-1不再被认为能对付资金雄厚的对手.
 - [SHA2](https://en.wikipedia.org/wiki/SHA-2)  -由国家安全局（NSA）设计的哈希函数集.  SHA-256和SHA-512是分别使用32位和64位字计算的新颖哈希函数. 它们使用不同的移位量和加性常数，但是它们的结构实际上是相同的，只是轮数不同.
 
@@ -61,21 +61,21 @@
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) -本书仅供专业密码学家参考.
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) -从现代计算机科学的角度编写的入门级加密技术.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) -有关OpenSSL的书.
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - Developer-friendly book on modern cryptography (hashes, MAC codes, symmetric and asymmetric ciphers, key exchange, elliptic curves, digital signatures) with lots of code examples.
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com) -有关现代加密技术（哈希，MAC代码，对称和非对称密码，密钥交换，椭圆曲线，数字签名）的开发人员友好型书籍，其中包含许多代码示例.
 - [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) -本书教您应用密码技术来理解和应用系统和应用程序各个级别的安全性.
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) -剑桥大学计算机安全教授Ross Anderson撰写了一本非常特别的教科书.
-- [Serious Cryptography](https://nostarch.com/seriouscrypto) -让-菲利普·奥马森（Jean-Philippe Aumasson）实用介绍现代加密.
+- [Serious Cryptography](https://nostarch.com/seriouscrypto) -让-菲利普·奥马森（Jean-Philippe Aumasson）实用介绍现代加密技术.
 - [The Code Book](https://simonsingh.net/books/the-code-book/)  -本书摘录了密码学的历史，涵盖了古代和较新的密码学方法. 最后有练习，而这些练习的解决方案将获得$ 10.000的奖励.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) -本书提供了有关计算机和Internet安全各个主题的综合指南.
 - [Understanding Cryptography](http://www.crypto-textbook.com/)  -这本书经常被忽视，对初学者来说是一个福音. 在每章的末尾包含大量练习，目的是加强概念和巩固思想.
 
 ### Courses
 
-- [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) -This paper attempts to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break algorithms, by Bruce Schneier.
-- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  -从使用信用卡付款到使用电话，日常生活中都存在密码学. 了解有关制作和打破计算难题的所有信息.
+- [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) -本文试图以布鲁斯·施耐尔（Bruce Schneier）的方式组织现有的块密码密码分析文献，使学生可以学习密码分析技术和破解算法的方法.
+- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  -从使用信用卡付款到使用电话，日常生活中都存在密码学. 了解有关在计算中制造难题和打破难题的所有知识.
 - [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) -该演讲将涵盖广泛部署的系统中的加密漏洞，以及最小的监督如何导致灾难.
 - [Cryptography](https://www.coursera.org/learn/cryptography) -马里兰大学公园大学的密码学实用课程.
-- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  -本课程说明密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性，以及如何将此知识应用于实际应用.
+- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography) - This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  -本课程首先详细讨论具有共享密钥的两个方如何在强大的对手窃听和篡改流量时安全地进行通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
 - [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) -本在线课程将介绍加密技术如何成为安全性的基石，以及如何通过使用加密技术（例如密码，公钥或私钥）来保护私钥或敏感信息免受未经授权的访问.
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) -可汗学院（Khan Academy）的密码学课程.
@@ -93,7 +93,7 @@
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) -跨平台文件加密实用程序.
 - [blackbox](https://github.com/StackExchange/blackbox) -将机密安全存储在Git / Mercurial / Subversion中.
-- [certbot](https://github.com/certbot/certbot)  -以前是Let&#39;s Encrypt Client，是EFF的工具，用于从Let&#39;s Encrypt获取证书，并（可选）在服务器上自动启用HTTPS. 它也可以充当使用ACME协议的任何其他CA的客户端.
+- [certbot](https://github.com/certbot/certbot)  -以前是Let&#39;s Encrypt Client，它是EFF的工具，用于从Let&#39;s Encrypt获取证书，并（可选）在服务器上自动启用HTTPS. 它也可以充当使用ACME协议的任何其他CA的客户端.
 - [Coherence](https://github.com/liesware/coherence/) -用于现代Web应用程序的加密服务器.
 - [cryptomator](https://github.com/cryptomator/cryptomator) -云中文件的多平台透明客户端加密.
 - [Databunker](https://databunker.org/) -建立符合GDPR和CCPA的基于API的个人数据或PII存储服务.
@@ -128,7 +128,7 @@
 - [NaCl](https://nacl.cr.yp.to/) -用于网络通信，加密，解密，签名等的高速库
 - [OpenSSL](https://github.com/openssl/openssl) -TLS / SSL和加密库.
 - [PolarSSL](https://tls.mbed.org/) -PolarSSL使开发人员在其（嵌入式）产品中轻松包含加密和SSL / TLS功能，从而以最小的代码占用空间简化了该功能.
-- [RHash](https://github.com/rhash/RHash) -伟大的实用工具，用于计算哈希和.
+- [RHash](https://github.com/rhash/RHash) -计算哈希和的强大工具.
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) -C中的小型便携式AES128.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) -TLS / SSL的小型，快速，可移植实施，用于将嵌入式设备连接到云.
@@ -282,7 +282,7 @@ algorithm.
 
 ### Objective-C
 
-- [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) -AES，MD5，SHA1，SHA224，SHA256，SHA384，SHA512，Base64，十六进制.
+- [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
 - [ObjC Themis](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP)  -ObjectivePGP是针对iOS和macOS的OpenPGP协议的实现.  OpenPGP是使用最广泛的电子邮件加密标准.
 - [RNCryptor](https://github.com/RNCryptor/RNCryptor) -适用于iOS和Mac的CCCryptor（AES加密）包装.
@@ -306,7 +306,7 @@ algorithm.
 - [django-cryptography](https://github.com/georgemarshall/django-cryptography) -在Django中轻松加密数据.
 - [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
 - [paramiko](http://www.paramiko.org/) -SSHv2协议的Python实现，同时提供客户端和服务器功能.
-- [Privy](https://github.com/ofek/privy) -一个简单，快速的库，可以正确地密码保护您的数据.
+- [Privy](https://github.com/ofek/privy) -一个简单，快速的库，可以正确地用密码保护您的数据.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) -低级加密原语的自包含Python软件包.
 - [PyElliptic](https://github.com/yann2192/pyelliptic)  -Python OpenSSL包装器. 适用于具有ECC，AES，HMAC和Blowfish的现代密码学.
 - [pynacl](https://github.com/pyca/pynacl) -将Python绑定到网络和密码学（NaCl）库.
@@ -384,6 +384,7 @@ algorithm.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) -密码学堆栈交换是软件开发人员，数学家和其他对密码学感兴趣的人的问答网站.
 - [Cryptohack](https://cryptohack.org/) -类似于Cryptopals的平台，具有许多交互式密码学挑战.
 - [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，逐渐将难度提高到抽象代数.
+- [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) -在Reddit上讨论的最活跃的加密货币的仪表板.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) -密码学概述.
 - [IACR](https://www.iacr.org/) -国际密码学研究协会是一个非营利性的科学组织，其目的是进一步研究密码学及相关领域.
 - [Learn Cryptography](https://learncryptography.com/) -致力于帮助人们了解他们日常使用的密码系统的方式和原因，而无需实现保护和保护其隐私的工作.

@@ -6,7 +6,7 @@
 
 [<p align="center"><img src="https://awesome.re/badge.svg" height=20></p>](https://raw.githubusercontent.com/sindresorhus/awesome)
 
-[Material-UI](https://material-ui.com/) 是一个React组件库，用于更快，更轻松地进行Web开发. 它遵循 [Material Design](https://material.io/design/introduction/) 来自Google.
+[Material-UI](https://material-ui.com/) 是一个React组件库，用于更快，更轻松地进行Web开发. 它跟随 [Material Design](https://material.io/design/introduction/) 来自Google.
 
 
 
@@ -69,11 +69,13 @@ Material-UI设计项目系列.
 - [Material-UI Image](https://mui.wertarbyte.com/#material-ui-image) -具有加载动画的材质样式图像.
 - [Material-UI Flat Pagination](https://github.com/szmslab/material-ui-flat-pagination) -用于Material-UI的平面设计分页组件.
 - [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) -Material-UI的调度程序/日历组件.
-- [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) -Material-UI的图表，可使用各种系列类型（包括条形，线形，面积，散点图，饼图等）可视化数据.
+- [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) -Material-UI的图表，可使用多种系列类型（包括条形，线形，面积，散点图，饼图等）可视化数据.
 - [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) -扩展的Material-UI卡组件，以显示Medium博客.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) -扩展的Material-UI卡组件，以显示GitHub存储库.
 - [React molecule-components](https://github.com/alexandre-lelain/components-extra) -根据Material-UI反应分子成分.
 - [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) -使用无限嵌套的菜单直接替换MUI的MenuItem，并在悬停时打开.
+- [React-planet](https://github.com/innFactory/react-planet) -创建看起来像行星的圆形菜单.
+
 
 ## Applications
 
@@ -95,6 +97,7 @@ Material-UI设计项目系列.
 - [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) -用于React和Material-UI的入门工具包.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) -使用Material-UI的Gatsby入门模板.
 - [saas](https://github.com/async-labs/saas)  -用于构建自己的SaaS产品的样板； 使用TypeScript，React，Express，Material-UI构建.
+- [create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) -准备使用的样板开始大型反应项目.
 
 ## Contributing
 
