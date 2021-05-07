@@ -7,7 +7,7 @@
 
 由社区驱动的有用的Scala库，框架和软件列表. 这不是所有库的目录，只是您探索的起点. 受启发 [awesome-python](https://github.com/vinta/awesome-python) . 其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.
 
-也很棒 [Scaladex](https://index.scala-lang.org/), the searchable, tagged, and centralized index of Scala libraries.
+也很棒 [Scaladex](https://index.scala-lang.org/)，Scala库的可搜索，标记和集中索引.
 
 拥有500多名观星者的项目以粗体显示.
 
@@ -43,7 +43,7 @@
 [**casbah**](https://github.com/mongodb/casbah)  |  Casbah现在正式停产（EOL）.  | ![GitHub stars](https://img.shields.io/github/stars/mongodb/casbah) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mongodb/casbah)
 [clickhouse-scala-client](https://github.com/crobox/clickhouse-scala-client)  | 具有活动流支持的Clickhouse Scala客户端| ![GitHub stars](https://img.shields.io/github/stars/crobox/clickhouse-scala-client) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/crobox/clickhouse-scala-client)
 [couchbase-jvm-clients](https://github.com/couchbase/couchbase-jvm-clients)  | 用于JVM客户端的Couchbase Monorepo：Java，Scala，io-core…| ![GitHub stars](https://img.shields.io/github/stars/couchbase/couchbase-jvm-clients) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/couchbase/couchbase-jvm-clients)
-[couchdb-scala](https://github.com/beloglazov/couchdb-scala) | A purely functional Scala client for CouchDB | ![GitHub stars](https://img.shields.io/github/stars/beloglazov/couchdb-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/beloglazov/couchdb-scala)
+[couchdb-scala](https://github.com/beloglazov/couchdb-scala)  | 用于CouchDB的纯功能性Scala客户端| ![GitHub stars](https://img.shields.io/github/stars/beloglazov/couchdb-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/beloglazov/couchdb-scala)
 [d4s](https://github.com/PlayQ/d4s)  |  Dynamo数据库数据库完成Scala方式| ![GitHub stars](https://img.shields.io/github/stars/PlayQ/d4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PlayQ/d4s)
 [**doobie**](https://github.com/tpolecat/doobie)  |  Scala的功能性JDBC层.  | ![GitHub stars](https://img.shields.io/github/stars/tpolecat/doobie) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tpolecat/doobie)
 [**elastic4s**](https://github.com/sksamuel/elastic4s)  |  Elasticsearch Scala客户端-反应性，非阻塞性​​，类型安全，HTTP客户端| ![GitHub stars](https://img.shields.io/github/stars/sksamuel/elastic4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/elastic4s)
@@ -113,7 +113,7 @@
 [pagelets](https://github.com/splink/pagelets)  |  Play框架的模块，用于构建高度模块化的应用程序| ![GitHub stars](https://img.shields.io/github/stars/splink/pagelets) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/splink/pagelets)
 [reactive](https://github.com/nafg/reactive)  | 一个简单的FRP库和在其上构建的Web UI框架| ![GitHub stars](https://img.shields.io/github/stars/nafg/reactive) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nafg/reactive)
 [**scalajs-react**](https://github.com/japgolly/scalajs-react)  |  Facebook在Scala.JS上的React | ![GitHub stars](https://img.shields.io/github/stars/japgolly/scalajs-react) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/japgolly/scalajs-react)
-[**scalatra**](https://github.com/scalatra/scalatra)  | 受Sinatra启发的Tiny Scala高性能，异步Web框架|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/scalatra/scalatra) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalatra/scalatra)
+[**scalatra**](https://github.com/scalatra/scalatra) | Tiny Scala high-performance, async web framework, inspired by Sinatra | ![GitHub stars](https://img.shields.io/github/stars/scalatra/scalatra) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalatra/scalatra)
 [**skinny-framework**](https://github.com/skinny-framework/skinny-framework)  |  ：monorail：“ Scala on Rails”-用于在Scala中快速开发的完整的Web应用程序框架| ![GitHub stars](https://img.shields.io/github/stars/skinny-framework/skinny-framework) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/skinny-framework/skinny-framework)
 [suzaku](https://github.com/suzaku-io/suzaku)  |  Scala的Suzaku Web UI框架| ![GitHub stars](https://img.shields.io/github/stars/suzaku-io/suzaku) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/suzaku-io/suzaku)
 [**unfiltered**](https://github.com/unfiltered/unfiltered)  |  Scala中用于服务HTTP请求的工具包| ![GitHub stars](https://img.shields.io/github/stars/unfiltered/unfiltered) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/unfiltered/unfiltered)
@@ -196,6 +196,7 @@
 [**gatling**](https://github.com/gatling/gatling)  | 现代负载测试作为代码|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/gatling/gatling) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gatling/gatling)
 [minitest](https://github.com/monix/minitest)  |  Scala和Scala.js的超轻量测试库| ![GitHub stars](https://img.shields.io/github/stars/monix/minitest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monix/minitest)
 [mockito-scala](https://github.com/mockito/mockito-scala)  | 用于Scala语言的Mockito | ![GitHub stars](https://img.shields.io/github/stars/mockito/mockito-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mockito/mockito-scala)
+[munit](https://github.com/scalameta/munit)  | 具有可操作错误和可扩展API的Scala测试库| ![GitHub stars](https://img.shields.io/github/stars/scalameta/munit) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/munit)
 [**scalacheck**](https://github.com/typelevel/scalacheck)  | 基于属性的Scala测试| ![GitHub stars](https://img.shields.io/github/stars/typelevel/scalacheck) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/scalacheck)
 [scalameter](https://github.com/scalameter/scalameter)  | 用于JVM平台的微基准测试和性能回归测试框架.  | ![GitHub stars](https://img.shields.io/github/stars/scalameter/scalameter) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameter/scalameter)
 [ScalaMock](https://github.com/paulbutcher/ScalaMock)  | 本机Scala模拟框架| ![GitHub stars](https://img.shields.io/github/stars/paulbutcher/ScalaMock) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/paulbutcher/ScalaMock)
@@ -204,6 +205,7 @@
 [scalive](https://github.com/xitrum-framework/scalive)  | 无需任何预先设置即可将Scala REPL连接到正在运行的JVM进程| ![GitHub stars](https://img.shields.io/github/stars/xitrum-framework/scalive) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xitrum-framework/scalive)
 [**specs2**](https://github.com/etorreborre/specs2)  |  Scala的软件规格| ![GitHub stars](https://img.shields.io/github/stars/etorreborre/specs2) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/etorreborre/specs2)
 [stryker4s](https://github.com/stryker-mutator/stryker4s)  |  Scala的变异测试. 工作进行中... | ![GitHub stars](https://img.shields.io/github/stars/stryker-mutator/stryker4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/stryker-mutator/stryker4s)
+[weaver-test](https://github.com/disneystreaming/weaver-test)  | 一个可以并行运行所有内容的测试框架.  | ![GitHub stars](https://img.shields.io/github/stars/disneystreaming/weaver-test) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/disneystreaming/weaver-test)
 [testcontainers-scala](https://github.com/testcontainers/testcontainers-scala)  | 用于在Scala中测试的Docker容器| ![GitHub stars](https://img.shields.io/github/stars/testcontainers/testcontainers-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/testcontainers/testcontainers-scala)
 [utest](https://github.com/com-lihaoyi/utest)  |  Scala的简单测试框架 ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/utest) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/utest)
 
@@ -476,7 +478,7 @@
 [YahooFinanceScala](https://github.com/openquant/YahooFinanceScala)  | 非阻塞Yahoo Finance Scala客户| ![GitHub stars](https://img.shields.io/github/stars/openquant/YahooFinanceScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openquant/YahooFinanceScala)
 [ostinato](https://github.com/marianogappa/ostinato)  | 在服务器（Scala）和浏览器（ScalaJS）上运行的象棋库.  | ![GitHub stars](https://img.shields.io/github/stars/marianogappa/ostinato) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/marianogappa/ostinato)
 [pdf4s](https://github.com/outr/pdf4s)  | 简化的包装器，可在Scala中创建PDF ![GitHub stars](https://img.shields.io/github/stars/outr/pdf4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/pdf4s)
-[play-swagger](https://github.com/iheartradio/play-swagger)  |  Swagger Spec播放器框架生成器| ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
+[play-swagger](https://github.com/iheartradio/play-swagger) | Swagger spec generator for play framework | ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
 [powerscala](https://github.com/outr/powerscala) | Powerful framework providing many useful utilities and features on top of the Scala language. | ![GitHub stars](https://img.shields.io/github/stars/outr/powerscala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/powerscala)
 [PPrint](https://github.com/com-lihaoyi/PPrint)  |  Scala中漂亮打印的值，类型和类型签名| ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/PPrint)
 [**pureconfig**](https://github.com/pureconfig/pureconfig)  | 免样板库，用于加载配置文件| ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
@@ -516,7 +518,7 @@
 [lolhttp](https://github.com/criteo/lolhttp)  |  Scala的HTTP服务器和客户端库.  | ![GitHub stars](https://img.shields.io/github/stars/criteo/lolhttp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/criteo/lolhttp)
 [**requests-scala**](https://github.com/com-lihaoyi/requests-scala)  | 流行的Python Requests HTTP客户端的Scala端口：灵活，直观和易于使用.  | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/requests-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/requests-scala)
 [RosHTTP](https://github.com/hmil/RosHTTP)  | 统一的Scala.js + Scala HTTP客户端API | ![GitHub stars](https://img.shields.io/github/stars/hmil/RosHTTP) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hmil/RosHTTP)
-[**scalaj-http**](https://github.com/scalaj/scalaj-http)  |  HttpURLConnection的简单scala包装器. 包含OAuth.  | ![GitHub stars](https://img.shields.io/github/stars/scalaj/scalaj-http) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaj/scalaj-http)
+[**scalaj-http**](https://github.com/scalaj/scalaj-http) | Simple scala wrapper for HttpURLConnection.  OAuth included. | ![GitHub stars](https://img.shields.io/github/stars/scalaj/scalaj-http) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaj/scalaj-http)
 [scalaxb](https://github.com/eed3si9n/scalaxb)  |  scalaxb是Scala的XML数据绑定工具.  | ![GitHub stars](https://img.shields.io/github/stars/eed3si9n/scalaxb) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eed3si9n/scalaxb)
 [**spray**](https://github.com/spray/spray)  | 一套用于在Akka之上构建和使用RESTful Web服务的Scala库：轻量级，异步，无阻塞，基于actor，可测试| ![GitHub stars](https://img.shields.io/github/stars/spray/spray) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray)
 [**sttp**](https://github.com/softwaremill/sttp)  | 您一直想要的Scala HTTP客户端！  | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/sttp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/sttp)
@@ -757,7 +759,7 @@
 * https://manuel.bernhardt.io/blog
 
 ## Company Blogs
-* [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
+* [Functional Works / Learn](https://functional.works-hub.com/learn/) -通过职能工程维护的优质资源
 * http://allaboutscala.com/
 * http://enear.github.io/
 * https://blog.knoldus.com/tag/scala/

@@ -3,7 +3,7 @@
 ## Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
-A curated collection of resources covering [Apache JMeter](https://jmeter.apache.org/) 以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等.
+精选的资源涵盖 [Apache JMeter](https://jmeter.apache.org/) 以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等.
 
 <!--lint ignore double-link-->
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/jmeter-logo.svg?sanitize=true" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
@@ -79,7 +79,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 
 - [Taurus](https://gettaurus.org/) -自动化友好的连续测试框架.
 - [Performance testing framework](https://github.com/serputko/performance-testing-framework) -使用Apache JMeter进行后端负载测试和使用sitespeed.io + webpagetest私有实例进行前端负载测试的框架.
-- [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) -在线Web应用程序/仪表板，用于运行，监视和分析使用JMeter进行的负载测试的结果.
+- [JMeter Load Testing Center](https://github.com/innogames/ltc) -在线Web应用程序/仪表板，用于运行，监视和分析使用JMeter进行的负载测试的结果.
 
 ### Conversion
 
@@ -139,6 +139,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
     - [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) -在Amazon EC2上自动运行Apache JMeter.
     - [gee](https://github.com/kowalcj0/gee) -JMeter-EC2项目的修改版本.
     - [os-jmeter-aws](https://github.com/OrdnanceSurvey/os-jmeter-aws) -在多个AWS实例上运行JMeter，在ELK中查看结果.
+    - [kangal](https://github.com/hellofresh/kangal) -Kubernetes and Go自动加载程序解决方案，可使用多个负载生成器在Kubernetes集群中运行性能测试.
     - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
     - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
     - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)

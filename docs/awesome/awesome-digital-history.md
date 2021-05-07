@@ -15,6 +15,9 @@
 ### Austria
 
 - [ANNO](https://anno.onb.ac.at/) -在线奥地利报纸.
+- [Digitarium](https://digitarium-app.acdh-dev.oeaw.ac.at/) -历史悠久的维也纳文学的数字版本.
+- [Österreichische Mediathek](https://www.mediathek.at/) -奥地利档案馆，提供来自文化和当代历史的录音和录像.
+- [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) -它基于Felix Czeike撰写的维也纳历史词典，目前有50,156篇贡献和12,510张图像.
 
 ### Europe
 
@@ -24,6 +27,7 @@
 - [Mapire](https://mapire.eu/) -互动式历史地图.
 - [Monasterium](https://www.monasterium.net/mom/home) -来自欧洲各地的事迹.
 - [Project Gutenberg](https://www.gutenberg.org/) -超过60,000本免费电子书的图书馆.
+- [Visual Archive Southeastern Europe](http://gams.uni-graz.at/context:vase) -来自东南欧的历史和当代视觉材料.
 
 ### France
 
@@ -32,7 +36,7 @@
 
 ### Germany
 
-- [Archivportal](https://www.archivportal-d.de/) -德国档案馆搜索引擎.
+- [Archivportal](https://www.archivportal-d.de/) - German archives search engine.
 - [Bavarikon](https://www.bavarikon.de/) -收集巴伐利亚地图，地点，报纸等.
 - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) -超过1200万个对象.
 - [Digitale Sammlungen](https://www.digitale-sammlungen.de/) -慕尼黑数字化中心收藏.
@@ -42,7 +46,7 @@
 - [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) -在纳粹时代受迫害的音乐家百科全书.
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/) -包含超过2,000位德语作者的10,000幅作品.
 - [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) -超过180万种图形媒体（照片，地图，图纸）.
-- [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) -自1947年以来SPIEGEL档案.
+- [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) -自1947年以来，SPIEGEL档案馆.
 - [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) -手稿，文件，地图和文学作品.
 - [Uni Frankfurt](http://sammlungen.ub.uni-frankfurt.de/) -罕见的版画，手稿，遗赠等.
 - [Zefys](http://zefys.staatsbibliothek-berlin.de/) -历史悠久的德国报纸.
@@ -93,7 +97,7 @@
 - [E-Periodica](https://www.e-periodica.ch/) -瑞士期刊.
 - [e-rara](https://www.e-rara.ch/) -瑞士图书馆数字化稀有书籍的平台.
 - [histHub](https://histhub.ch/) -搜索引擎，用于所有主要的标准化数据API.
-- [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) - Encyclopedia on Swiss history.
+- [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) -关于瑞士历史的百科全书.
 - [HSSO](https://hsso.ch/) -瑞士在线历史统计.
 - [impresso](https://impresso-project.ch/) -瑞士国家图书馆，卢森堡国家图书馆，NeueZürcherZeitung，Le Temps，瓦莱州政府档案馆和瑞士经济档案馆的历史报纸收藏.
 - [Industriekultur](https://industriekultur.ch/) -瑞士国家文物清单.
@@ -102,14 +106,15 @@
 - [Le Temps](https://www.letempsarchives.ch/) -洛桑公报和日内瓦日刊的档案.
 - [map.geo.admin.ch](https://map.geo.admin.ch/) -通过瑞士地图穿越时空.
 - [MEMOBASE](http://www.memobase.ch/) -提供来自67个瑞士存储机构的415&#39;634视听文档的访问权限.
+- [swisscollections](https://swisscollections.ch/) -元搜索引擎，用于瑞士图书馆和档案馆中的历史和现代馆藏.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) -联邦委员会向议会报告过去几年的收支情况.
 
 ## Learning
 
 - [AdFontes](https://www.adfontes.uzh.ch/) -关于在存档中使用源的简介.
 - [Clio Guide](https://guides.clio-online.de/) -有关历史科学的数字资源手册.
-- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) -为历史学家（教师和学生，档案管理员和博物馆策展人，教授以及业余爱好者）提供的网络介绍，他们希望制作在线历史著作，或者希望在这种重要的新媒介上进一步发展自己已经开始的项目.
-- [HIST3814o](http://workbook.craftingdigitalhistory.ca/) -卡尔顿大学（Shale Graham）的肖恩·格雷厄姆（Shawn Graham）的数字历史方法和阅读.
+- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) -为历史学家（教师和学生，档案管理员和博物馆策展人，教授以及业余爱好者）提供的网络介绍，他们希望制作在线历史著作，或者在这种重要的新媒介上进一步发展和改进他们已经开始的项目.
+- [HIST3814o](http://workbook.craftingdigitalhistory.ca/) -卡尔顿大学（Shale Graham）的肖恩·格雷厄姆（Shawn Graham）在《数字历史》中的方法和阅读.
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) -东北大学的卡梅隆·布列文（Cameron Blevins）在《数字历史》中的方法和读物.
 - [Local Linkages](https://locallinkages.org/) -如何对过去的问题进行框架化，确定答案的来源，将其置于上下文中以及以数字形式在线呈现历史解释.
 - [The CTP Book](https://comp-think.github.io/) -一本向具有人文背景的人教授计算思维和编程技能的书.

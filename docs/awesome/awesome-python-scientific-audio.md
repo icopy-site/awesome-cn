@@ -22,7 +22,6 @@
 * [pySox](https://github.com/rabitt/pysox) [:octocat:](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) -袜子包装.
 * [stempeg](https://github.com/faroit/stempeg) [:octocat:](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) -读/写STEMS多流音频.
 * [tinytag](https://github.com/devsnd/tinytag) [:octocat:](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) -读取MP3，OGG，FLAC和Wave文件的音乐元数据.
-* [audiomate](https://github.com/ynop/audiomate) [:octocat:](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) -加载不同类型的音频数据集.
 
 #### Transformations - General DSP
 
@@ -125,14 +124,15 @@
 
 * [TimeSide (Beta)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat:](https://github.com/Parisson/TimeSide/tree/dev) -高级音频分析，成像，代码转换，流式传输和标记.
 
-#### Audio related APIs and Datasets
+#### Audio Dataset and Dataloaders
 
 * [beets](http://beets.io/) [:octocat:](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) -音乐图书馆经理和 [MusicBrainz](https://musicbrainz.org/) 标签.
-* [dsdtools](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) -解析并处理 [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
+* [musdb](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) -解析并处理MUSDB18数据集.
 * [medleydb](http://medleydb.readthedocs.io) [:octocat:](https://github.com/marl/medleydb) -解析 [medleydb](http://medleydb.weebly.com/) 音频和注释.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat:](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) -包装 [Soundcloud API](https://developers.soundcloud.com/).
 * [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
-
+* [audiomate](https://github.com/ynop/audiomate) [:octocat:](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) -加载不同类型的音频数据集.
+* [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat:](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) -音乐信息检索（MIR）数据集的通用加载器.
 #### Wrappers for Audio Plugins
 
 * [VamPy Host](https://code.soundsoftware.ac.uk/projects/vampy-host) [:package:](https://pypi.python.org/pypi/vamp) -接口编译的鞋面插件.
@@ -154,7 +154,7 @@
 
 ## Scientific Papers
 
-* [Python for audio signal processing](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) -John C.Glover，Victor Lazzarini和Joseph Timoney，2011年Linux音频会议.
+* [Python for audio signal processing](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) -John C. Glover，Victor Lazzarini和Joseph Timoney，2011年Linux音频会议.
 * [librosa: Audio and Music Signal Analysis in Python](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf), [Video](https://www.youtube.com/watch?v=MhOdbtPhbLU) -Brian McFee，Colin Raffel，Dawen Liang，Daniel PW Ellis，Matt McVicar，Eric Battenberg，Oriol Nieto，Scipy 2015.
 * [pyannote.audio: neural building blocks for speaker diarization](https://arxiv.org/abs/1911.01255), [Video](https://www.youtube.com/watch?v=37R_R82lfwA) -HervéBredin，Yinqing Qing，Juan Manuel Coria，Gregory Gelly，Pavel Korshunov，Marvin Lavechin，Diego Fustes，Hadien Titeux，Wassim Bouaziz，Marie-Philippe Gill，ICASSP 2020.
 
@@ -166,7 +166,7 @@
 
 ## Related lists
 
-已经有 [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) 但是它不是最新的，并且包含了太多特别感兴趣的软件包，这些软件包大多数与科学应用无关. [Awesome-Python](https://github.com/vinta/awesome-python) 是大型精选的python软件包列表. 但是，音频部分很小.
+已经有 [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) 但是它不是最新的，并且包含了很多特别感兴趣的软件包，这些软件包大多数与科学应用无关. [Awesome-Python](https://github.com/vinta/awesome-python) 是大型精选的python软件包列表. 但是，音频部分很小.
 
 ## Contributing
 
