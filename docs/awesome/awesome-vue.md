@@ -445,7 +445,7 @@
 - [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it)  -一场适合4至8名玩家的聚会游戏（理想情况下！），您可以通过绘画和标题对短语进行变异，以与您的朋友一起构成有趣的场景. 该项目是如何使用Vue构建点对点游戏的示例.
 - [vue3-webpack](https://github.com/boussadjra/vue3-webpack) 查看3 + webpack 4入门.
 - [laravel-vue-3-starter](https://github.com/boussadjra/laravel-vue-3-starter) 使用Laravel 8和Vue 3的预配置项目.
-- [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
+- [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) -使用Vue 2 + Vuetify + Swiper构建的刷卡示例.
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) -使用Vue 2 + Vuex + Vuetify构建的简单Todo PWA.
 - [Vue Todo PWA](https://github.com/davidgaroro/vue-todo-pwa) -使用Vue 3 + Vuex + Bootstrap 5构建的简单Todo PWA.
 - [Vue simulating](https://github.com/GoodManWEN/GoodManWEN.github.io)  -使用Deepin发行版主题模拟Linux系统GUI的网站. 使用vue + tailwindcss + animate.css.
@@ -1000,7 +1000,7 @@
 - [Vue A11y project](https://github.com/vue-a11y) -Vue.js社区项目，以改善Web可访问性.
 - [vue-skip-to](https://github.com/vue-a11y/vue-skip-to) -它可以帮助仅使用键盘的人跳到最重要的地方.
 - [vue-axe](https://github.com/vue-a11y/vue-axe) -Vue.js应用程序的可访问性审核.
-- [vue-announcer](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
+- [vue-announcer](https://github.com/vue-a11y/vue-announcer) -使用Vue宣布对屏幕阅读器有用的任何信息的简单方法.
 - [eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y) -用于.vue中元素的可访问性规则的静态AST检查器
 - [vue-focus-lock](https://github.com/theKashey/vue-focus-lock)  -这是陷阱！ 焦点锁定.  A11y util，用于确定焦点.
 - [vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) -可访问的国际化日历视图.
@@ -1579,7 +1579,7 @@ _在日历中显示不可编辑的事件_
 - [vue-easteregg](https://github.com/ddgll/vue-easteregg) -轻松为您的Vue应用添加一个Easteregg（默认使用konami代码）
 - [vue-barcode-scanner](https://github.com/noomerzx/vue-barcode-scanner)
 - [vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs) -用于跟踪和可视化鼠标活动的Vue指令
-- [vue-maze](https://github.com/meganetaaan/vue-maze) -作为Vue.js组件制作的迷宫游戏
+- [vue-maze](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
 - [vue-drag-verify](https://github.com/AshleyLv/vue-drag-verify) -这是一个Vue组件，可以滑动以解锁以进行登录或注册.
 - [vue-balloon](https://github.com/kevinwarne/vue-balloon)  -Vue组件，用于在页面一角创建固定的，可缩放的容器. 类似于gmail中使用的邮件撰写包装器.
 - [vue-sticker](https://github.com/KamilOcean/vue-sticker) -任何方向的贴纸效果
@@ -1732,7 +1732,7 @@ _日期/日期时间/时间选择器_
 - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker)  -Vue 2.x的下拉时间选择器（小时|分钟|秒），具有灵活的时间格式支持.  ：clock7：（返回并在2019年充电：电池:)
 - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker)  -一个简单的Vue.js datepicker组件. 支持禁用日期，内联模式，翻译.
 - [vuedt](https://github.com/nkoehring/vuedt) -疯狂的轻量级（&lt;5kb！）具有i18n支持的Vuejs日期和时间选择器组件，漂亮的动画，并且没有太多的模糊感.
-- [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) 的Vue.js组件 [flatpickr](https://github.com/chmln/flatpickr) datetime picker
+- [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) 的Vue.js组件 [flatpickr](https://github.com/chmln/flatpickr) 日期时间选择器
 - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) -vue.js的Jalaali日历和日期选择器2.
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) -受材料设计启发的Vue日期选择器组件
 - [vue-monthly-picker](https://github.com/ittus/vue-monthly-picker) -仅适用于月份和年份选择器的Vue.js组件
@@ -1797,7 +1797,7 @@ _日期/日期时间/时间选择器_
 ##### Drag and Drop
 
 - [vuedraggable](https://github.com/SortableJS/Vue.Draggable)  -Vue组件，允许与View-Model同步进行拖放排序. 基于Sortable.js.
-- [vue-dragula](https://github.com/Astray-git/vue-dragula) -拖放非常简单，很疼.
+- [vue-dragula](https://github.com/Astray-git/vue-dragula) - Drag and drop so simple it hurts.
 - [vue2-dragula](https://github.com/kristianmandrup/vue2-dragula) -`Vue2`的`vue-dragula`叉子，有很多改进.
 - [awe-dnd](https://github.com/hilongjw/vue-dragging) -使用Vue的可排序列表指令.
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) -Vue2组件，用于可拖动和可调整大小的元素.
@@ -1850,7 +1850,7 @@ _让用户在输入时选择标签/其他内容_
 
 - [vue-color](https://github.com/xiaokaike/vue-color) -适用于Sketch，Photoshop，Chrome等的Vue拾色器.
 - [vue-swatches](https://github.com/saintplay/vue-swatches) -帮助用户选择美丽的色彩！
-- [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) -简约的颜色选择器，着重于尺寸，可访问性和性能.
+- [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.
 - [vue-color-picker-board](https://github.com/shlomnissan/vue-color-picker-board) -为人类设计的Vue拾色器组件！
 - [verte](https://github.com/baianat/verte) -完整的Vue.js颜色选择器组件.
 
@@ -1920,6 +1920,7 @@ _开关/开/关切换/复选框
 - [element-tiptap](https://github.com/Leecason/element-tiptap) 使用Vet.js的Tiptap和Element UI的WYSIWYG RTF编辑器
 - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) -34Kb轻巧的所见即所得编辑器，没有第三方插件.
 - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) -Vue.js的官方CKEditor 4 RTF编辑器组件.
+- [vue-quill](https://github.com/vueup/vue-quill) -✒️基于Quill Editor的Vue 3富文本编辑器组件.
 
 ##### Image Manipulation
 
@@ -2286,7 +2287,7 @@ _处理用户事件（滚动，单击，击键等）_
 - [vue-mq](https://github.com/AlexandreBonaventure/vue-mq) -提供一些有用的工具，以语义和移动优先的API（Vue 2.x）快速设置响应式设计
 - [VueResizeSensor](https://github.com/SeregPie/VueResizeSensor) -支持调整大小事件的容器.
 - [vue-breakpoint-component](https://github.com/adi518/vue-breakpoint-component) -用于的无渲染组件
-  composing CSS breakpoint state.
+  组成CSS断点状态.
 - [fine-mq](https://github.com/nash403/fine-mq) -一个很好的API，可以轻松地以及与VueJS作为插件的一流集成来管理JS中的媒体查询.
 - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) -使用ResizeObserver创建响应组件.
 - [vue-screen-size](https://github.com/johndatserakis/vue-screen-size) -轻松轻松地访问屏幕的宽度和高度.
@@ -2992,7 +2993,7 @@ _与服务或其他框架集成_
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) -适用于Electron的Vue CLI插件，无需使用Electron Builder的必需配置.
 - [vue-cli-plugin-codeceptjs-puppeteer](https://github.com/codecept-js/vue-cli-plugin-codeceptjs-puppeteer) -安装CodeceptJS和Puppeteer进行增压的2端测试 
 - [vue-cli-plugin-kami](https://github.com/KamiMeow/vue-cli-plugin-kami) -具有工作架构的Vue CLI插件，可快速启动您的应用
-- [vue-cli-plugin-auto-alias](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) -Vue CLI插件可自动设置别名
+- [vue-cli-plugin-auto-alias](https://github.com/BryanAdamss/vue-cli-plugin-auto-alias) - Vue CLI Plugin to automatically sets aliase
 - [vue-cli-plugin-clean](https://github.com/DevTony101/vue-cli-plugin-clean) -Vue CLI插件可通过添加一些常用工具和模式来帮助您清理并快速设置Vue应用
 - [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) -Vue CLI插件可模拟http请求
 - [vue-cli-plugin-ci](https://github.com/P0ppoff/vue-cli-plugin-ci) -Vue CLI插件以生成CI代理配置文件以使用CI启动项目

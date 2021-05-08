@@ -179,7 +179,7 @@
 -  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) -通过建议最匹配的类将CSS转换为Tailwind CSS.
 -  [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
--  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
+-  [Tailwind Shift](https://github.com/awssat/tailwind-shift) - Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0.
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Windy](https://usewindy.com) -浏览器扩展程序，可将HTML元素转换为Tailwind CSS.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
@@ -216,10 +216,10 @@
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
-- 📚 [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
+-  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的付费，对开发人员友好的模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
--  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的现成可使用Tailwind CSS块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
 -  [Meraki UI Components](https://merakiui.com) -美丽的Tailwind CSS组件，支持RTL语言.
@@ -250,9 +250,9 @@
 -  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) -使用React＆Tailwind CSS构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) -使用Vue 3和Tailwind CSS构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) -使用Nuxt.js和Tailwind CSS构建的免费目标网页模板.
-- 📚 [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
-- 📚 [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
-- 📚 [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
+-  [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
+-  [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
+-  [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
 
 ## Starters & Themes
 
@@ -292,6 +292,7 @@
 -  [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue路由器和Tailwind CSS的入门模板.
 -  [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
 -  [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.
+-  [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) -使用Jekyll和Tailwind CSS进行生产，SEO友好，性能卓越的着陆网站样板.
 
 ## Open-Source Projects
 

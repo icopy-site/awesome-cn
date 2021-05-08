@@ -113,6 +113,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 
 免费播客和截屏节目：
 
++ [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fi.md)

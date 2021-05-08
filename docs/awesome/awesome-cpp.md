@@ -99,7 +99,7 @@
 * [SoLoud](https://github.com/jarikomppa/soloud)  -简单，便携式的游戏音频引擎.  [zlib]
 * [Speex](http://www.speex.org/)  -用于言论自由的免费编解码器. 被Opus淘汰.  [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic)  -在C ++中轻松高效地进行音频合成.  [无牌]
-* [Vorbis](http://xiph.org/vorbis/)  -Ogg Vorbis是一种完全开放的，非专有的，免专利和免专利费的通用压缩音频格式.  [BSD]
+* [Vorbis](http://xiph.org/vorbis/)  -Ogg Vorbis是一种完全开放的，非专有的，免专利和免版税的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  -具有净室实现的公共域，仅标头的MP3解码器.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  -Verovio是一个快速，轻便的音乐符号雕刻库.  [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，并使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
@@ -373,7 +373,7 @@
 * [Panda3D](https://github.com/panda3d/panda3d)  -游戏引擎，用于Python和C ++程序的3D渲染和游戏开发的框架.  [修改后的BSD] [website](https://www.panda3d.org/)
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)  -olcPixelGameEngine的官方发行版，这是javidx9的YouTube视频和项目中使用的工具.  [OLC3]
 * [Polycode](https://github.com/ivansafrin/Polycode)  -用于C ++中的创意代码的跨平台框架（带有Lua绑定）.  [麻省理工学院] [website](http://polycode.org/)
-* [raylib](https://github.com/raysan5/raylib)  -一个简单易用的库，可享受电子游戏编程的乐趣.  [zlib / libpng] [website](http://www.raylib.com/)
+* [raylib](https://github.com/raysan5/raylib)  -一个简单易用的库，可享受视频游戏编程的乐趣.  [zlib / libpng] [website](http://www.raylib.com/)
 * [Spring](https://github.com/spring/spring)  -强大的免费跨平台RTS游戏引擎.  [GPLv2 / GPLv3] [website](https://springrts.com/)
 * [Torque2D](https://github.com/GarageGames/Torque2D)  -为2D游戏开发而构建的开源和跨平台C ++引擎.  [麻省理工学院] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D)  -为3D游戏开发而构建的开源C ++引擎.  [麻省理工学院] [website](https://www.garagegames.com/products/torque-3d)
@@ -413,7 +413,7 @@
 * [Blend2D](https://github.com/blend2d/blend2d)  -由JIT编译器提供支持的2D矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  -用于实时图形应用程序开发的现代C ++ 14库.  [麻省理工学院]
 * [Cairo](http://www.cairographics.org/)  -支持多个输出设备的2D图形库.  [LGPL2或Mozilla MPL]
-* [C-Turtle](https://github.com/walkerje/C-Turtle)  -充当CImg包装器的C ++ 11纯标题龟图形库.  [麻省理工学院]
+* [C-Turtle](https://github.com/walkerje/C-Turtle)  -用作CImg包装器的仅C ++ 11头乌龟图形库.  [麻省理工学院]
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  -现代的跨平台低级3D图形库.  [Apache2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)  -一组用于使用C ++编写DirectX 11.x代码的帮助程序类.  [麻省理工学院]
 * [GLFW](https://github.com/glfw/glfw)  -一个简单的跨平台OpenGL争用库.  [zlib / libpng]
@@ -503,7 +503,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -使用JSONPointer，JSONPatch，JSONPath和JMESPath的JSON和类似JSON二进制格式的C ++仅标头库.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-struct](https://github.com/jorgen/json_struct)  -往返于C ++结构的高性能，单头JSON解析器.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
@@ -560,6 +560,7 @@
 * [sofia-ml](https://code.google.com/p/sofia-ml/)  -用于机器学习的快速增量算法套件.  [Apache2]
 * [VLFeat](https://github.com/vlfeat/vlfeat)  -VLFeat开源库实现了流行的计算机视觉算法，这些算法专门用于图像理解以及局部特征提取和匹配.  [BSD-2-Clause] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost)  -适用于Python，R，Java，Scala，C ++等的可扩展，便携式和分布式梯度增强（GBDT，GBRT或GBM）库. 在单机，Hadoop，Spark，Flink和DataFlow上运行.  [Apache2]
+* [ncnn](https://github.com/Tencent/ncnn)  -针对移动平台进行了优化的高性能神经网络推理计算框架.  [BSD]
 
 ## Math
 
@@ -644,7 +645,7 @@
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)  -快速可靠的ARQ协议，可帮助应用程序减少网络延迟.  [麻省理工学院]
 * [libcurl](http://curl.haxx.se/libcurl/)  -多协议文件传输库.  [MIT / X衍生许可证]
 * [libhttpserver](https://github.com/etr/libhttpserver)  -用于创建嵌入式Rest HTTP服务器（以及更多）的C ++库.  [LGPL2.1]
-* [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)  -GNU libmicrohttpd是一个小型C库，应该可以轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
+* [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)  -GNU libmicrohttpd是一个小的C库，应该可以轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)  -用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
 * [libquic](https://github.com/devsisters/libquic)  -从Chromium的QUIC实施中提取的QUIC协议库.  [BSD]
 * [librdkafka](https://github.com/edenhill/librdkafka)  -适用于C和C ++的Apache Kafka客户端库.  [BSD-2-Clause]
@@ -730,7 +731,7 @@
 
 ## Robotics
 
-* [MOOS-IvP](http://moos-ivp.org) -一组开放源代码的C ++模块，用于在机器人平台（尤其是自动驾驶的海上航行器）上提供自治.
+* [MOOS-IvP](http://moos-ivp.org) -一组开放源代码的C ++模块，用于在机器人平台（尤其是自动驾驶的海上航行器）上提供自主权.
 * [MRPT](http://www.mrpt.org/)  -移动机器人编程工具包.  [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) -点云库是一个独立的，大规模的，开放的项目，用于2D / 3D图像和点云处理[BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)  -一个完整的C ++库，用于机器人运动学，运动计划和控制.  [BSD]
@@ -818,7 +819,7 @@
 
 * [Civetweb](https://github.com/civetweb/civetweb)  -提供易于使用，功能强大的C / C ++嵌入式Web服务器，并具有可选的CGI，SSL和Lua支持.  [麻省理工学院]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. [MIT]
-* [CppCMS](http://cppcms.com/)  -免费的高性能Web开发框架（不是CMS）.  [LGPLv3]
+* [CppCMS](http://cppcms.com/)  -免费的高性能Web开发框架（而非CMS）.  [LGPLv3]
 * [Crow](https://github.com/ipkn/crow)  -Crow是C ++微型网络框架（受Python Flask启发）.  [BSD]
 * [Cutelyst](https://github.com/cutelyst/cutelyst)  -使用Catalyst（Perl）框架的简单方法，在Qt之上构建的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon)  -基于C ++ 14/17的高性能HTTP应用程序框架.  [麻省理工学院]
@@ -833,7 +834,7 @@
 * [Wt](http://www.webtoolkit.eu/wt)  -用于开发Web应用程序的C ++库.  [GPL /商业]
 
 ## XML
- * XML是废话. 真的. 没有任何借口.  XML对于人类来说很讨厌解析，即使对于计算机也无法解析. 那种可怕的废话根本没有理由存在.  -莱纳斯·托瓦尔兹（Linus Torvalds）*
+ * XML是废话. 真的. 没有任何借口.  XML对于人类来说很讨厌解析，即使对于计算机也无法解析. 那种可怕的废话根本没有理由存在.  -Linus Torvalds *
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  -属性树解析器/生成器，可用于解析XML / JSON / INI / Info文件.  [促进]
 * [Expat](http://www.libexpat.org/) -用C语言编写的XML解析器库.

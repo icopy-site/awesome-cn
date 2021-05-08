@@ -81,7 +81,7 @@
 #### ODMs
 
 - [Flask-MongoEngine](https://flask-mongoengine.readthedocs.io) -桥接Flask和MongoEngine以与MongoDB一起使用.
-- [Flask-PyMongo](https://flask-pymongo.readthedocs.io) -Bridges Flask和PyMongo与MongoDB一起工作.
+- [Flask-PyMongo](https://flask-pymongo.readthedocs.io) -Bridges Flask和PyMongo与MongoDB一起使用.
 
 #### Migrations
 
@@ -132,6 +132,7 @@
 ### Email
 
 - [Flask-Mail](https://pythonhosted.org/Flask-Mail/) -提供简单的电子邮件发送功能.
+- [Flask-Mailman](https://pypi.org/project/flask-mailman/) -Flask的`django.mail`端口.
 
 ### Forms
 
@@ -196,7 +197,6 @@
 ### Community
 
 - [Discord](https://discord.com/invite/t6rrQZH) - Pallets Projects community on Discord (use the `#get-help` channel for Flask support).
-- [Flask Jobs](https://flaskjobs.com) -致力于Flask的工作委员会.
 - IRC Channel - Chat with other Flask users on IRC channel `#pocoo` on FreeNode.
 - [Mailing List](https://mail.python.org/mailman/listinfo/flask) -Flask和Pallets项目的一般讨论（flask@python.org）.
 - [Reddit](https://www.reddit.com/r/flask/) -Flask subreddit.
@@ -222,7 +222,7 @@
 ### Podcasts
 
 - [TalkPython](https://talkpython.fm/) -领先的Python播客，包含Flask上的几集内容.
-- [Podcast Init](https://www.pythonpodcast.com/) -流行的Python播客，有时会邀请Flask来宾.
+- [Podcast Init](https://www.pythonpodcast.com/) -流行的Python播客，有时会邀请Flask来宾参加.
 - [Python Bytes](https://pythonbytes.fm/) -另一个不时讨论Flask的Python播客.
 - [Full Stack Python's Best Python Podcasts Page](https://www.fullstackpython.com/best-python-podcasts.html) -活动的特定于Python的播客列表.
 

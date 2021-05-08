@@ -13,7 +13,7 @@
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java]-大数据流和批处理的统一平台.
-- [Apache Ballista](https://github.com/apache/arrow/tree/master/rust/ballista) [Rust]-由Apache Arrow支持的分布式计算平台.
+- [Apache Ballista](https://github.com/apache/arrow-datafusion/tree/master/ballista) [Rust]-由Apache Arrow支持的分布式计算平台.
 - [Apache Flink](https://github.com/apache/flink) [Java]-高吞吐量，低延迟的数据流处理系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java]-来自Twitter的实时，分布式，容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
@@ -52,7 +52,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-用于构建管道以管理连续数据流的轻量级库； 支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java]-Java的完全可嵌入的数据流引擎和流处理API.
-- [Tributary](https://github.com/timkpaine/tributary)  [Python]-用于构造数据流图的python库. 支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性评估的非循环图和功能性流.
+- [Tributary](https://github.com/timkpaine/tributary)  [Python]-用于构造数据流图的python库. 支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性计算的非循环图和函数性currying流.
 
 ### Streaming Application
 
@@ -88,14 +88,14 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [nsq](https://github.com/nsqio/nsq) [运行]-实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
 - [RudderStack](https://github.com/rudderlabs/rudder-server) [开始]-开源客户数据基础架构（细分市场，mparticle替代产品）.
 - [suro](https://github.com/Netflix/suro) [Java]-数据管道服务，用于收集，聚集和调度包括日志数据在内的大量应用程序事件.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]-连续的大数据摄取基础结构，可从大量端点读取和写入，包括S3，JDBC，Hadoop，Kafka，Cassandra等.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector-oss) [Java]-连续的大数据摄取基础结构，可从大量端点读取和写入，包括S3，JDBC，Hadoop，Kafka，Cassandra等.
 
 ### Online Machine Learning 
 
 - [Apache Samoa](https://github.com/apache/incubator-samoa) [Java]-分布式流机器学习（ML）框架，其中包含针对分布式流ML算法的编程抽象.
 - [DataSketches](https://github.com/DataSketches/sketches-core) [Java]-Yahoo!的草图库.
 - [streamDM](https://github.com/huawei-noah/streamDM) [Scala]-使用华为的Spark Streaming挖掘大数据流.
-- [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
+- [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python]-提供一个网络服务器，以快速设置和评估针对上下文多臂匪徒（cMAB）问题的可能解决方案.
 - [StormCV](https://github.com/sensorstorm/StormCV) [Java]-通过添加特定于计算机视觉（CV）的操作和数据模型，可以将Apache Storm用于视频处理.
 - [trident-ml](https://github.com/pmerienne/trident-ml) [Java]-基于Trident的实时在线机器学习库.
 - [yurita](https://github.com/paypal/yurita) [Scala]-基于Paypal的Spark结构化流构建的异常检测框架.
@@ -106,8 +106,8 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [squall](https://github.com/epfldata/squall) [Java]-Squall在Storm之上执行SQL查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java]-实时计算系统上的连续查询语言.
 - [ksqlDB](https://github.com/confluentinc/ksql) [Java]-原生云，源可用 [database](https://ksqldb.io/) 专为流处理应用而构建
-- [Materialize](https://materialize.com) [Rust]-源可用的流SQL引擎，用于维护对来自消息代理和数据库的数据的物化视图.
-
+- [Materialize](https://materialize.com) [Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
+- [Siddhi](https://github.com/siddhi-io/siddhi) [Java]-一种云原生的流和复杂事件处理引擎，该引擎理解流SQL查询，以便捕获来自各种数据源的事件，对其进行处理，检测复杂条件并实时将输出发布到各个端点.
 
 ### Benchmark
 
@@ -139,7 +139,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 ### Readings
 
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
-2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 泰勒·阿基道（Tyler Akidau）着. 
+2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 由泰勒·阿基道（Tyler Akidau）设计. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) 乔什·菲舍尔（Josh Fischer）和王宁（Ning Wang）
 
