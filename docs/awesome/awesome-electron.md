@@ -260,6 +260,7 @@
 - [Coloban](https://www.coloban.com) -具有聊天，看板，甘特图，通话，屏幕共享等功能的多合一项目管理工具.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Nota](https://nota.md) -专为本地Markdown文件设计的专业写作应用程序.
+- [Lotus](https://getlotus.app) -轻松掌握GitHub通知.
 
 ### Samples
 
