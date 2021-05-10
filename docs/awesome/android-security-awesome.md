@@ -52,7 +52,7 @@ android安全相关资源的集合.
 9. [Android Decompiler](https://www.pnfsoftware.com/) –不免费
 10. [PSCout](http://pscout.csl.toronto.edu/) -使用静态分析从Android OS源代码中提取权限规范的工具
 11. [Amandroid](http://amandroid.sireum.org/)
-12. [SmaliSCA](https://github.com/dorneanu/smalisca) -Smali静态代码分析
+12. [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) -扫描并比较CFG与恶意应用程序的CFG
 14. [Madrolyzer](https://github.com/maldroid/maldrolyzer) -提取可操作的数据，例如C＆C，电话号码等.
 15. [SPARTA](https://www.cs.washington.edu/sparta)  -验证（证明）应用满足信息流安全政策； 建立在 [Checker Framework](https://types.cs.washington.edu/checker-framework/)
@@ -66,7 +66,8 @@ android安全相关资源的集合.
 23. [Quark-Engine](https://github.com/quark-engine/quark-engine) -忽略不清的Android恶意软件计分系统
 24. [One Step Decompiler](https://github.com/b-mueller/apkx) -懒惰的Android APK反编译
 25. [APKLeaks](https://github.com/dwisiswant0/apkleaks) -扫描APK文件以获取URI，端点和机密.
-26. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
+26. [Mobile Audit](https://github.com/mpast/mobileAudit) -用于执行静态分析并检测Android APK中恶意软件的Web应用程序.
+27. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
 ### App Vulnerability Scanners
 

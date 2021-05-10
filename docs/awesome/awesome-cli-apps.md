@@ -49,7 +49,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
@@ -76,7 +76,7 @@
 ### Books
 
 - [epr](https://github.com/wustho/epr) -epub阅读器.
-- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - 圣经.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) -类似于Spritz的Speedreader.
 
 ## Development
@@ -85,7 +85,7 @@
 - [cgasm](https://github.com/bnagy/cgasm) -提供x86汇编文档.
 - [legit](https://github.com/captainsafia/legit) -生成开放源代码许可证作为文件或文件头.
 - [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义LICENSE文件.
-- [rebound](https://github.com/shobrook/rebound) -当您遇到编译器错误时，Fetch Stack Overflow将在您的终端中显示.
+- [rebound](https://github.com/shobrook/rebound) -当您遇到编译器错误时，获取堆栈溢出会在您的终端中产生.
 - [grip](https://github.com/joeyespo/grip) -在提交之前预览具有GitHub样式的markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -ncurses中的基本转换和位操纵器.
 - [foy](https://github.com/zaaack/foy) -轻量级通用任务运行器/构建工具.
@@ -101,7 +101,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -390,7 +390,7 @@
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) -Unix权限的瑞士军刀
 - [rclone](https://github.com/ncw/rclone) -与各种云提供商（Dropbox，Google Drive，Onedrive等）之间进行文件同步.
 - [transmission-cli](https://transmissionbt.com) -您的命令行的Torrent客户端.
-- [ffsend](https://github.com/timvisee/ffsend) -的功能齐全的CLI [Firefox Send](https://send.firefox.com/) -简单和私人的文件共享.
+- [ffsend](https://github.com/timvisee/ffsend) -的功能齐全的CLI [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) –流洪流客户端.
 - [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
 - [google-drive-upload](https://github.com/labbots/google-drive-upload) -上传/与Google云端硬盘同步.
@@ -410,7 +410,7 @@
 - [fasd](https://github.com/clvv/fasd) -命令行生产力增强器，受自动跳转，z和v的启发，提供了对文件和目录的快速访问.
 - [pm](https://github.com/Angelmmiguel/pm) -在Shell上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) -z是新的j，哟.
-- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker为您提供了一个不错的UI，可以选择您感兴趣的文件.
+- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker将为您提供一个不错的UI，以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成.
 - [goto](https://github.com/iridakos/goto) -具有自动完成功能的Shell的目录别名.
 - [z.lua](https://github.com/skywind3000/z.lua) -`cd`命令，可以学习您的习惯.
@@ -428,6 +428,8 @@
 
 ## Version Control
 
+- [SnowFS](https://github.com/snowtrack/snowfs) -用于二进制文件的快速，可扩展的版本控制系统.
+
 ### Git
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) -：tv：命令行的漂亮GitHub客户端.
@@ -443,7 +445,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [gita](https://github.com/nosarthur/gita) -并排管理多个git repos以保持理智.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) -确保语义提交消息.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) -在Github仓库之间同步标签.

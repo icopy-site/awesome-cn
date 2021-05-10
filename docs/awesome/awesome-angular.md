@@ -250,8 +250,6 @@ WebWorker中的大多数核心角度框架.
 
 * [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-* [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
-* [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
@@ -297,7 +295,7 @@ WebWorker中的大多数核心角度框架.
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) 曼宁出版物
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) 安吉·沙玛（Ankit Sharma）
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙尔玛（Ankit Sharma）`
 
 #### On-Site Training
 
@@ -342,7 +340,7 @@ WebWorker中的大多数核心角度框架.
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托·格奥尔基耶夫
+*赫里斯托·乔治·耶夫（Hristo Georgiev）
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -521,6 +519,7 @@ WebWorker中的大多数核心角度框架.
 
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) 用于Fontawesome的Angular2组件和指令
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) 一个小的指令，使字体很棒，甚至更易于使用.
+* [ngx-icon-blur](https://github.com/wadie/ngx-icon-blur) 可用于创建图标的毛玻璃效果的Angular组件.
 
 
 #### Keyboard Mouse
@@ -695,7 +694,7 @@ WebWorker中的大多数核心角度框架.
 #### Universal Seed Projects
 
 * [universal-starter](https://github.com/angular/universal-starter) -@ Angular-Class的Angular 2通用入门套件
-* [ng-seed/universal](https://github.com/ng-seed/universal) -Angular Universal应用程序的种子项目，其中包含服务器端渲染（SSR），Webpack，开发/生产模式，DLL，AoT编译，HMR，SCSS编译，延迟加载，配置，缓存，i18n，SEO和TSLint / codelyzer fulls1z3
+* [ng-seed/universal](https://github.com/ng-seed/universal) -用于Angular Universal应用程序的种子项目，其功能包括@ fulls1z3
 * [angular-universal](https://github.com/enten/angular-universal) -Angular CLI支持的适用于Angular Universal 100％的快速，不受限制的极简主义入门套件
 * [angular-universal-heroku-starter](https://github.com/Alex61NN5/angular-universal-heroku-starter) -具有服务器端渲染（SSR）的Angular 7通用入门套件，可轻松部署到Heroku
 ---
@@ -836,7 +835,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 #### Babel Seed Projects
 
-* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) 使用以下框架构建的Angular 2骨架应用程序 [Babel](https://babeljs.io/) 和 [Browserify](http://browserify.org/).
+* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) 使用内置的Angular 2骨架应用 [Babel](https://babeljs.io/) 和 [Browserify](http://browserify.org/).
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) 使用Webpack / Babel构建的全栈骨架Angular 2应用程序.
 * [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) 使用Babel，Webpack和Gulp构建的Angular 2 ES6骨架应用程序.
 * [angular-babel-seed](https://github.com/rbnlffl/angular-babel-seed) 带有ES6的超级简单的Angular快速入门
@@ -922,7 +921,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 ### Angular 2 in Haxe
 
- &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe）“可在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
+ &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”，以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe），“在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
 &gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...所有这些都可以通过本机实现，而无需打字，更防错，更稳定，即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
 
 ##### Haxe General Resources

@@ -133,9 +133,9 @@
 
 ## Samples
 * Khronos [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
-*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*萨莎·威廉姆斯（Sascha Willems） [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *（不完整）Sascha Willems [samples port](https://github.com/jvm-graphics-labs/Vulkan) 去科特林
-*  Sascha Willems's [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  -使用glTF 2.0模型的Vulkan基于物理的渲染.  [麻省理工学院]
+*萨莎·威廉姆斯（Sascha Willems） [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  -使用glTF 2.0模型的Vulkan基于物理的渲染.  [麻省理工学院]
 *  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 * 谷歌
     *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
@@ -149,7 +149,7 @@
 *  [LunarG's Samples](https://github.com/LunarG/VulkanSamples)
 *  [vkcube](https://github.com/krh/vkcube) -krh的“ vkcube”示例，可在X，Wayland和VT控制台下使用
 drm/kms.
-*  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) -Stardust示例应用程序使用Vulkan图形API有效地渲染了动画粒子云. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 *  [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) -Overv的教程移植到 [SharpVk](https://github.com/FacticiusVir/SharpVk) [和]
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)  -VFPR-Vulkan Forward Plus渲染器.  [和]
@@ -183,7 +183,7 @@ drm/kms.
 
 *低水平
    *  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)  -易于集成AMD的Vulkan内存分配库.  [麻省理工学院]
-      *  [VulkanMemoryAllocator-Hpp] (https://github.com/malte-v/VulkanMemoryAllocator-Hpp) - C++ Bindings for VMA, like Vulkan-HPP
+      * [VulkanMemoryAllocator-Hpp]（https://github.com/malte-v/VulkanMemoryAllocator-Hpp）-VMA的C ++绑定，如Vulkan-HPP
    *  [Fossilize](https://github.com/Themaister/Fossilize)  -各种持久性Vulkan对象类型的序列化格式.  [麻省理工学院]
    *  [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap)  -C ++实用程序库，可通过自动执行实例，物理设备，设备和交换链创建来快速启动Vulkan开发.  [麻省理工学院]
    *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)  -使用C ++ 11的Vulkan抽象库，用于内存，资源管理，类型和线程安全以及系统独立性.  [Apache]
@@ -220,7 +220,7 @@ drm/kms.
    *  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) -C ++跨平台3D图形SDK，可加快Vulkan和GLES的开发速度. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 
 *其他API互操作和实现
-   *  [visor](https://github.com/baldurk/visor)  -Vulkan可忽略软件光栅器.  [和]
+   *  [visor](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
    *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12)  -D3D12的Vulkan API.  [Apache许可2.0]
    *  [rostkatze](https://github.com/msiglreith/rostkatze) -安装在D3D12上的Vulkan的C ++实现[Apache License 2.0]
    *  [VK9](https://github.com/disks86/VK9) -使用Vulkan的Direct3D 9兼容性层
@@ -229,6 +229,7 @@ drm/kms.
    *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)  -在iOS和macOS上运行Vulkan.  [Apache-2.0]
    *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink)  -在Mesa项目的一部分Vulkan之上的OpenGL实现.  [麻省理工学院]
    *  [glo / OpenGL Overload](https://github.com/g-truc/glo) -在Vulkan之上的OpenGL实现.
+   *  [gfx-portability](https://github.com/gfx-rs/portability) -在Metal和D3D12上的Vulkan可移植性实现，基于 [gfx-rs](https://github.com/gfx-rs/gfx/).
 
 *光线追踪
    *  [vRt](https://github.com/world8th/vRt)  -基于Vulkan API（&gt; = 1.1）的统一光线跟踪库.  [LGPL-3.0]
@@ -244,7 +245,7 @@ drm/kms.
 
 ## Bindings
 *  [ash](https://github.com/MaikKlein/ash) 生锈的火山绑定.  [我的]
-*  [gfx-rs](https://github.com/gfx-rs/gfx)  -用于Rust的高性能，无绑定图形API.  [Apache许可2.0]
+*  [gfx-rs](https://github.com/gfx-rs/gfx)  -用于Rust的低开销的类似于Vulkan的GPU API.  [Apache许可2.0]
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) -火山的Lua绑定.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) -自动生成的Vulkan D绑定.
 *  [ErupteD](https://github.com/ParticlePeter/ErupteD) -Vulkan的另一个自动生成的D绑定.

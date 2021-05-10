@@ -57,7 +57,7 @@
 [memcontinuationed](https://github.com/Atry/memcontinuationed)  |  Scala的Memcached客户端| ![GitHub stars](https://img.shields.io/github/stars/Atry/memcontinuationed) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Atry/memcontinuationed)
 [morpheus](https://github.com/outworkers/morpheus)  | 用于SQL数据库的反应性类型安全Scala驱动程序| ![GitHub stars](https://img.shields.io/github/stars/outworkers/morpheus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outworkers/morpheus)
 [neo4akka](https://github.com/outr/neo4akka)  |  Neo4j Scala客户端使用Akka-Http ![GitHub stars](https://img.shields.io/github/stars/outr/neo4akka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/neo4akka)
-[neotypes](https://github.com/neotypes/neotypes)  | 用于neo4j的Scala轻型，类型安全的异步驱动程序| ![GitHub stars](https://img.shields.io/github/stars/neotypes/neotypes) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neotypes/neotypes)
+[neotypes](https://github.com/neotypes/neotypes)  | 用于neo4j的Scala轻型，类型安全的异步驱动程序|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/neotypes/neotypes) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neotypes/neotypes)
 [**phantom**](https://github.com/outworkers/phantom)  | 用于Cassandra / Datastax Enterprise的模式安全，类型安全，反应式Scala驱动程序| ![GitHub stars](https://img.shields.io/github/stars/outworkers/phantom) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outworkers/phantom)
 [pulsar4s](https://github.com/sksamuel/pulsar4s)  | 适用于Apache Pulsar的惯用，类型安全和反应式Scala客户端| ![GitHub stars](https://img.shields.io/github/stars/sksamuel/pulsar4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/pulsar4s)
 [**quill**](https://github.com/getquill/quill)  |  Scala的编译时语言集成查询 ![GitHub stars](https://img.shields.io/github/stars/getquill/quill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/getquill/quill)
@@ -246,7 +246,7 @@
 
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
-[fm-flatfile](https://github.com/frugalmechanic/fm-flatfile)  | 用于读取平面文件数据（CSV / TSV / XLS / XLSX）的Scala库| ![GitHub stars](https://img.shields.io/github/stars/frugalmechanic/fm-flatfile) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/frugalmechanic/fm-flatfile)
+[fm-flatfile](https://github.com/frugalmechanic/fm-flatfile)  |  Scala库，用于读取平面文件数据（CSV / TSV / XLS / XLSX）| ![GitHub stars](https://img.shields.io/github/stars/frugalmechanic/fm-flatfile) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/frugalmechanic/fm-flatfile)
 [kantan.csv](https://github.com/nrinaudo/kantan.csv)  |  Scala的CSV处理库| ![GitHub stars](https://img.shields.io/github/stars/nrinaudo/kantan.csv) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nrinaudo/kantan.csv)
 [**scala-csv**](https://github.com/tototoshi/scala-csv)  |  Scala的CSV读取器/写入器| ![GitHub stars](https://img.shields.io/github/stars/tototoshi/scala-csv) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tototoshi/scala-csv)
 [spata](https://github.com/fingo/spata)  | 用于Scala的功能性，基于流的CSV解析器| ![GitHub stars](https://img.shields.io/github/stars/fingo/spata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fingo/spata)
@@ -291,7 +291,7 @@
 [onnx-scala](https://github.com/EmergentOrder/onnx-scala)  | 用于Scala中的类型化，功能性深度学习的ONNX（开放神经网络交换）API和后端（3）| ![GitHub stars](https://img.shields.io/github/stars/EmergentOrder/onnx-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/EmergentOrder/onnx-scala)
 [openmole](https://github.com/openmole/openmole)  | 使用高吞吐量计算探索仿真模型的工作流引擎| ![GitHub stars](https://img.shields.io/github/stars/openmole/openmole) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openmole/openmole)
 [Optimus](https://github.com/vagmcs/Optimus)  |  Optimus是Scala的数学编程库.  | ![GitHub stars](https://img.shields.io/github/stars/vagmcs/Optimus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vagmcs/Optimus)
-[OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home)  | 解决运筹学问题的Scala工具包|
+[OscaR](https://bitbucket.org/oscarlib/oscar/wiki/Home)  | 解决运筹学问题的Scala工具箱|英特尔®开发人员专区
 [units](https://github.com/nestorpersist/units)  |  Scala度量单位类型| ![GitHub stars](https://img.shields.io/github/stars/nestorpersist/units) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nestorpersist/units)
 [**attic-predictionio**](https://github.com/apache/attic-predictionio)  |  PredictionIO，面向开发人员和ML工程师的机器学习服务器.  | ![GitHub stars](https://img.shields.io/github/stars/apache/attic-predictionio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/attic-predictionio)
 [rings](https://github.com/PoslavskySV/rings)  | 环：用于多项式环的高效JVM库 ![GitHub stars](https://img.shields.io/github/stars/PoslavskySV/rings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/PoslavskySV/rings)
@@ -323,7 +323,7 @@
 [spark-deployer](https://github.com/KKBOX/spark-deployer)  | 轻松部署Spark集群.  | ![GitHub stars](https://img.shields.io/github/stars/KKBOX/spark-deployer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/KKBOX/spark-deployer)
 [sparkplug](https://github.com/indix/sparkplug)  |  Spark包使用基于SQL的规则“塞住”数据中的漏洞 ![GitHub stars](https://img.shields.io/github/stars/indix/sparkplug) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/indix/sparkplug)
 [**sparta**](https://github.com/Stratio/sparta)  | 基于Spark流的实时分析和数据管道 ![GitHub stars](https://img.shields.io/github/stars/Stratio/sparta) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Stratio/sparta)
-[**summingbird**](https://github.com/twitter/summingbird)  | 带有缩放和风暴的流式MapReduce |英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/twitter/summingbird) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/summingbird)
+[**summingbird**](https://github.com/twitter/summingbird)  | 带有缩放和风暴的流式MapReduce ![GitHub stars](https://img.shields.io/github/stars/twitter/summingbird) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/summingbird)
 [**Vegas**](https://github.com/vegas-viz/Vegas)  |  Scala + Spark缺少的MatPlotLib ![GitHub stars](https://img.shields.io/github/stars/vegas-viz/Vegas) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vegas-viz/Vegas)
 
 ### Command Line Interfaces
@@ -368,7 +368,7 @@
 [REScala](https://github.com/rescala-lang/REScala)  |  REScala-OO应用中的反应式编程| ![GitHub stars](https://img.shields.io/github/stars/rescala-lang/REScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rescala-lang/REScala)
 [**RxScala**](https://github.com/ReactiveX/RxScala)  |  RxScala – Scala的Reactive Extensions –使用可观察的序列组成异步和基于事件的程序的库| ![GitHub stars](https://img.shields.io/github/stars/ReactiveX/RxScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ReactiveX/RxScala)
 [scala.frp](https://github.com/dylemma/scala.frp)  |  Scala的函数式反应式编程 ![GitHub stars](https://img.shields.io/github/stars/dylemma/scala.frp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/dylemma/scala.frp)
-[**scala.rx**](https://github.com/lihaoyi/scala.rx)  |  Scala中的函数式反应性编程的实验库| ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/scala.rx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/scala.rx)
+[**scala.rx**](https://github.com/lihaoyi/scala.rx)  |  Scala中的函数式反应性编程的实验库|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/scala.rx) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/scala.rx)
 [**zio**](https://github.com/zio/zio)  |  ZIO —一种用于Scala中异步和并发编程的类型安全，可组合的库| ![GitHub stars](https://img.shields.io/github/stars/zio/zio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zio/zio)
 [SynapseGrid](https://github.com/Primetalk/SynapseGrid)  |  SynapseGrid是用于构建动态低延迟数据流系统的框架.  | ![GitHub stars](https://img.shields.io/github/stars/Primetalk/SynapseGrid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Primetalk/SynapseGrid)
 [vertx-lang-scala](https://github.com/vert-x3/vertx-lang-scala)  | 适用于Scala的Vert.x | ![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-lang-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vert-x3/vertx-lang-scala)
@@ -382,7 +382,7 @@
 ---- | ----------- | ---------------
 [airframe](https://github.com/wvlet/airframe)  |  Scala的基本构建块| ![GitHub stars](https://img.shields.io/github/stars/wvlet/airframe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/wvlet/airframe)
 [cableguy](https://github.com/akozhemiakin/cableguy)  | 另一个Scala依赖注入库| ![GitHub stars](https://img.shields.io/github/stars/akozhemiakin/cableguy) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akozhemiakin/cableguy)
-[izumi](https://github.com/7mind/izumi)  |  Scala工具链的面向生产力的轻量级花式产品集合|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
+[izumi](https://github.com/7mind/izumi)  |  Scala工具链的面向生产力的轻量级花式产品集合| ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
 [**macwire**](https://github.com/softwaremill/macwire)  | 轻量级和非介入式Scala依赖注入库| ![GitHub stars](https://img.shields.io/github/stars/softwaremill/macwire) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/macwire)
 [scala-guice](https://github.com/codingwell/scala-guice)  |  Google Guice的Scala扩展| ![GitHub stars](https://img.shields.io/github/stars/codingwell/scala-guice) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/codingwell/scala-guice)
 [scaldi](https://github.com/scaldi/scaldi)  | 轻量级Scala依赖注入库| ![GitHub stars](https://img.shields.io/github/stars/scaldi/scaldi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scaldi/scaldi)
@@ -435,7 +435,7 @@
 [lamma](https://github.com/maxcellent/lamma)  | 用于Scala的Lamma时间表生成器是一个专业的时间表生成库，用于定期时间表，例如固定收益息票支付，股票衍生工具固定日期生成等. ![GitHub stars](https://img.shields.io/github/stars/maxcellent/lamma) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/maxcellent/lamma)
 [larray](https://github.com/xerial/larray)  |  Scala和Java的大型堆外数组和mmap文件| ![GitHub stars](https://img.shields.io/github/stars/xerial/larray) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/xerial/larray)
 [log4s](https://github.com/Log4s/log4s)  | 适用于Scala的高性能SLF4J包装器.  | ![GitHub stars](https://img.shields.io/github/stars/Log4s/log4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Log4s/log4s)
-[izumi](https://github.com/7mind/izumi)  |  Scala工具链的面向生产力的轻量级花式产品集合|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
+[izumi](https://github.com/7mind/izumi)  |  Scala工具链的面向生产力的轻量级花式产品集合| ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
 [**Monocle**](https://github.com/optics-dev/Monocle)  |  Scala的光学库| ![GitHub stars](https://img.shields.io/github/stars/optics-dev/Monocle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/optics-dev/Monocle)
 [**nscala-time**](https://github.com/nscala-time/nscala-time)  | 基于scala-time的Joda Time的新Scala包装器| ![GitHub stars](https://img.shields.io/github/stars/nscala-time/nscala-time) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nscala-time/nscala-time)
 [logging](https://github.com/nestorpersist/logging)  |  Scala日志记录库| ![GitHub stars](https://img.shields.io/github/stars/nestorpersist/logging) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nestorpersist/logging)
@@ -568,7 +568,7 @@
 [mdoc](https://github.com/scalameta/mdoc)  |  Scala的Typechecked降价文档| ![GitHub stars](https://img.shields.io/github/stars/scalameta/mdoc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/mdoc)
 [sbt-api-mappings](https://github.com/ThoughtWorksInc/sbt-api-mappings)  | 一个Sbt插件，用于填充常见Scala库的apiMappings.  | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/sbt-api-mappings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/sbt-api-mappings)
 [sbt-apidoc](https://github.com/valydia/sbt-apidoc)  |  apidocjs https://apidocjs.com到sbt的端口，用于记录REST Api | ![GitHub stars](https://img.shields.io/github/stars/valydia/sbt-apidoc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/valydia/sbt-apidoc)
-[**sbt-assembly**](https://github.com/sbt/sbt-assembly)  | 部署胖JAR. 重新启动进程.  （哥打哈拉港/ assembly-sbt）| ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-assembly) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-assembly)
+[**sbt-assembly**](https://github.com/sbt/sbt-assembly)  | 部署胖JAR. 重新启动进程.  （codahale / assembly-sbt港口）| ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-assembly) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-assembly)
 [sbt-buildinfo](https://github.com/sbt/sbt-buildinfo)  | 我知道这一点，因为build.sbt知道这一点.  | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-buildinfo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-buildinfo)
 [sbt-ci-release](https://github.com/olafurpg/sbt-ci-release)  |  sbt插件可自动实现Travis CI发行的Sonatype版本| ![GitHub stars](https://img.shields.io/github/stars/olafurpg/sbt-ci-release) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/olafurpg/sbt-ci-release)
 [sbt-classfinder](https://github.com/ruippeixotog/sbt-classfinder)  |  SBT插件，用于检索有关项目中的类和特征的运行时信息| ![GitHub stars](https://img.shields.io/github/stars/ruippeixotog/sbt-classfinder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ruippeixotog/sbt-classfinder)
@@ -699,7 +699,7 @@
 
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
-[skuber](https://github.com/hagay3/skuber)  | 无| ![GitHub stars](https://img.shields.io/github/stars/hagay3/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hagay3/skuber)
+[skuber](https://github.com/hagay3/skuber)  |  Scala Kubernetes客户端库| ![GitHub stars](https://img.shields.io/github/stars/hagay3/skuber) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hagay3/skuber)
 
 ## Learning Scala
 
@@ -709,12 +709,12 @@
 ## Books
 * [Essential Scala](https://underscore.io/books/essential-scala/) Noel Welsh和Dave Gurnell撰写-Essential Scala的目标读者是第一次接触Scala的经验丰富的开发人员.
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling) 通过Debasish Ghosh
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) 通过山姆·哈利迪
-* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) Paul Chiusano和Runar Bjarnason
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) 由山姆·哈利迪（Sam Halliday）
+* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) 保罗·奇萨诺（Paul Chiusano）和朗纳·比格纳森（Runar Bjarnason）
 * [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/scala/fp-book/learning-functional-programming-in-scala/) 阿尔文·亚历山大（Alvin Alexander）
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) Daniela Sfregola编写的-Scala的教程驱动简介
 * [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala) 加布里埃尔·沃尔佩（Gabriel Volpe）
-* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) 马丁·奥德斯基（Martin Odersky），莱克斯·斯普恩（Lex Spoon）和比尔·文纳斯（Bill Venners）
+* [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) 马丁·奥德斯基（Martin Odersky），Lex Spoon和比尔·文纳斯（Bill Venners）
 * [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) -使用反应式编程的概念来构建在多个节点上运行的分布式系统
 * [Scala Cookbook](http://scalacookbook.com) 阿尔文·亚历山大（Alvin Alexander）
 * [Scala for the Impatient](https://horstmann.com/scala/) 作者：Cay Horstmann-涵盖了Scala的大多数功能，并提供了简短易懂的说明.

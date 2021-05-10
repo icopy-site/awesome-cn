@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性，并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关令人反感的TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -93,6 +93,7 @@
 - [Geneva (Genetic Evasion)](https://censorship.ai/) -新颖的实验性遗传算法，可针对国家/地区级别的检查员发展基于数据包处理的检查规避策略，以增加否则会被阻止的内容的可用性.
 - [GlobaLeaks](https://www.globaleaks.org/) -免费的开源软件，使任何人都可以轻松设置和维护安全的举报平台.
 - [SecureDrop](https://securedrop.org/) -可以安装媒体组织和NGO的开源举报人提交系统，以安全地接受匿名来源的文档.
+- [Teleport](https://goteleport.com/) -允许工程师和安全专业人员在所有环境中统一对SSH服务器，Kubernetes群集，Web应用程序和数据库的访问.
 
 ## DevSecOps
 
@@ -106,7 +107,7 @@
 - [DefectDojo](https://www.defectdojo.org/) -为DevOps和持续安全集成而构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) -在日常连续集成过程中的Pentest应用程序会构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
-- [SOPS](https://github.com/mozilla/sops) -加密文件的编辑器，该文件支持YAML，JSON，ENV，INI和二进制格式，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
+- [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式的加密文件的编辑器，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
 - [Snyk](https://snyk.io/) -查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动测试过程中提供详细的报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) -适用于容器和其他工件的简单而全面的漏洞扫描程序，适用于连续集成管道.
@@ -201,7 +202,7 @@
 
 也可以看看 [Wikipedia: List of router and firewall distributions](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
 
-- [IPFire](https://www.ipfire.org/) -从IPCop派生的基于GNU / Linux的强化路由器和防火墙分发.
+- [IPFire](https://www.ipfire.org/) -从IPCop派生的基于GNU / Linux的增强型路由器和防火墙分发.
 - [OPNsense](https://opnsense.org/) -从pfSense派生的基于FreeBSD的强化防火墙和路由平台.
 - [pfSense](https://www.pfsense.org/) -从m0n0wall派生的FreeBSD防火墙和路由器分布.
 
@@ -277,7 +278,7 @@
 
 也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
-- [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
+- [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
 - [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
 - [Nagios](https://nagios.org) -流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) -免费且功能丰富的网络监视系统，支持多种配置，多种警报机制（电子邮件，XMPP，SMS）以及多种数据收集方法（SNMP，HTTP，JDBC等）.
@@ -356,7 +357,7 @@
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) -禁用许多危险Windows功能的实用程序.
 - [NotRuler](https://github.com/sensepost/notruler) -检测客户端规则和由VBScript启用的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时使用的攻击工具.
-- [PlumHound](https://github.com/PlumHound/PlumHound) - More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.
+- [PlumHound](https://github.com/PlumHound/PlumHound) -通过利用其寻路引擎来识别Active Directory安全漏洞，可以在连续的安全生命周期中更有效地使用BloodHoundAD.
 - [Sandboxie](https://www.sandboxie.com/) -免费和开放源代码的通用Windows应用程序沙箱实用程序.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) -针对Microsoft的Windows主机的根证书存储进行审核 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) -从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
