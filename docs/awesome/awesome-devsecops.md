@@ -23,6 +23,10 @@
 
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) -_Pager Duty_-在组织内进行安全培训的准则.
 
+### Books
+
+- [Alice and Bob Learn Application Security](https://www.wiley.com/en-gb/Alice+and+Bob+Learn+Application+Security-p-9781119687405) -_Tanya Janca_-任何寻求从系统开发生命周期的开始就将最佳安全实践纳入软件开发的人的可访问且全面的资源.
+
 ### Communities
 
 - [MyDevSecOps](https://www.mydevsecops.io/) -_Snyk_-一个运行会议，博客，播客和专用于DevSecOps的Slack工作区的社区.
@@ -62,12 +66,13 @@
 
 ### Training
 
+- [Application Security Education](https://github.com/duo-labs/appsec-education) -_Duo Security_-Duo应用程序安全团队创建的培训材料，包括入门和高级培训演示以及动手实验.
 - [Cybrary](https://www.cybrary.it/) -_Cybrary_-基于订阅的在线课程，其中包含网络安全和DevSecOps的专用类别.
 - [PentesterLab](https://pentesterlab.com/) -_PentesterLab_-动手练习以了解和利用简单和高级的Web漏洞.
 - [Practical DevSecOps](https://www.practical-devsecops.com) -_实用DevSecOps_-使用基于浏览器的先进实验室，向具有实际DevSecOps的行业专家学习DevSecOps的概念，工具和技术.
 - [SafeStack](https://academy.safestack.io/) -_SafeStack_-针对软件开发团队的安全培训，旨在供个人和小型团队以及大型组织使用.
 - [Secure Code Warrior](https://www.securecodewarrior.com/) -_安全代码战士_-游戏化和动手的安全开发培训，并支持课程，评估和锦标赛.
-- [SecureFlag](https://www.secureflag.com/platform.html) -_OWASP_-针对开发人员和构建/发布工程师的动手安全编码培训.
+- [SecureFlag](https://www.secureflag.com/platform.html) - _OWASP_ - Hands-on secure coding training for Developers and Build/Release Engineers.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为软件工程师提供安全培训.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) -_Pager Duty_-由PagerDuty创建并开源的演示文稿，用于为员工提供安全培训.
 - [Web Security Academy](https://portswigger.net/web-security) -_PortSwigger_-用于学习和利用常见Web漏洞的一组材料和实验室.
@@ -81,7 +86,7 @@
 
 ### Dependency Management
 
-开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带了开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的程序包来帮助管理开源程序包中的漏洞.
+开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带有开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的程序包来帮助管理开源程序包中的漏洞.
 
 - [Dependabot](https://dependabot.com/) -_GitHub_-自动扫描GitHub信息库中的漏洞，并创建合并请求中的合并请求.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
@@ -126,7 +131,7 @@
 <!-- omit in toc -->
 #### Terraform
 - [Regula](https://github.com/fugue/regula) -_Fugue_-在部署之前，评估Terraform基础架构代码是否存在潜在的安全错误配置和合规性违规.
-- [Terraform Compliance](https://terraform-compliance.com/) -_terraform-compliance_-针对terraform的轻型，安全性和合规性测试框架，可为您的基础结构代码启用否定测试功能.
+- [Terraform Compliance](https://terraform-compliance.com/) -_terraform-compliance_-针对terraform的轻量级，安全性和合规性测试框架，可为您的基础结构代码启用否定测试功能.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) -_Cesar Rodriguez_-扫描Terraform模板以获得最佳实践安全配置.
 - [Tfsec](https://github.com/liamg/tfsec) -_Liam Galvin_-扫描Terraform模板以了解安全性配置错误以及是否违反AWS，Azure和GCP安全性最佳做法.
 
@@ -144,11 +149,11 @@
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) -_Ryan Dewhurst_-一个Web应用程序，它提供了一个安全的环境来理解和利用常见的Web漏洞.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) -_OWASP_-包含OWASP十大安全漏洞及更多内容的Web应用程序.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) -_OWASP_-一个Node.js Web应用程序，用于演示并提供解决常见安全漏洞的方法.
-- [Terragoat](https://github.com/bridgecrewio/terragoat) - _Bridgecrew_ - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
+- [Terragoat](https://github.com/bridgecrewio/terragoat)  -_Bridgecrew_-Terraform模板，用于在AWS，Azure和GCP中创建故意不安全的服务堆栈. 非常适合作为上述代码分析工具来测试Terraform基础结构.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
-仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全漏洞. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
+It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
 
 - [Csper](https://csper.io/report-uri) -_Csper_-一组内容安全策略工具，可以测试策略，监视CSP报告以及提供指标和警报.
 
@@ -166,11 +171,23 @@
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) -_Cyber​​Ark_-应用程序的秘密管理，包括秘密轮换和审核.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) -_Docker_-存储和管理对Docker群中机密的访问.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -_Amazon AWS_-扫描git存储库，以查找代码内或提交消息中提交的机密.
-- [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
+- [Gopass](https://github.com/gopasspw/gopass)  -_Gopass_-依赖Git和gpg的团队的密码管理器. 管理加密文件和存储库中的机密.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) -_Google Cloud Platform_-在GCP中安全存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) -_HashiCorp_-通过UI，CLI或HTTP API安全存储机密.
-- [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核秘密.
+- [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核机密.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) -_Mozilla_-加密存储在YAML，JSON，ENV，INI和BINARY文件中的密钥.
+
+### Secrets Scanning
+
+即使回购是私有的，源代码控制也不是存储机密信息（例如凭据，API密钥或令牌）的安全位置. 秘密扫描工具可以扫描和监视git存储库以及对秘密的拉取请求，并且可以用于防止提交秘密，或者查找和删除已经提交给源代码控制的秘密.
+
+- [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) -_Microsoft_-可以作为任务在Azure DevOps管道中运行的凭据扫描工具.
+- [GitGuardian](https://www.gitguardian.com/) -_GitGuardian_-一种基于Web的解决方案，可扫描和监视公共和私有git存储库中的秘密.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) -_Zachary Rice_-Gitleaks是一种SAST工具，用于检测git存储库中的硬编码机密，例如密码，api密钥和令牌.
+- [git-secrets](https://github.com/awslabs/git-secrets)  -_AWS Labs_-扫描提交，提交消息并合并秘密. 对AWS秘密模式的本机支持，但可以配置为支持其他模式.
+- [Nightfall](https://nightfall.ai/solutions/product/github) -_Nightfall_-一个基于Web的平台，可监视多个SDLC工具（包括GitHub存储库）中敏感数据的泄露.
+- [Repo-supervisor](https://github.com/auth0/repo-supervisor) -_Auth0_-可作为CLI，Docker容器或AWS Lambda运行的秘密扫描工具.
+- [truffleHog](https://github.com/trufflesecurity/truffleHog) -_Truffle安全性--在git存储库中搜索秘密，深入挖掘提交历史记录和分支.
 
 ### Static Analysis
 

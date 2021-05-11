@@ -7,8 +7,8 @@
 
 精选Dash（plotly）资源的精选列表
 
-> [Dash](https://plot.ly/products/dash/) 是用于构建Web应用程序的高效Python框架.
- &gt; Dash写在Flask，Plotly.js和React.js之上，是使用纯Python中具有高度自定义用户界面的数据可视化应用程序构建的理想选择. 它特别适合使用Python处理数据的任何人.
+> [Dash](https://plot.ly/products/dash/) 是用于构建Web应用程序的高效Python框架。
+ &gt; Dash写在Flask，Plotly.js和React.js之上，是使用纯Python使用高度自定义用户界面构建数据可视化应用程序的理想选择. 它特别适合使用Python处理数据的任何人.
 
 
 ## Tutorials
@@ -33,7 +33,7 @@
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-- [Dash Bio Components](https://dash.plot.ly/dash-bio) -生物信息学组件套件，可以更轻松地分析和可视化生物信息学数据，并在Dash应用程序中与它们进行交互.
+- [Dash Bio Components](https://dash.plot.ly/dash-bio) -生物信息学组件套件，可以更轻松地分析和可视化生物信息学数据，并在Dash应用程序中与之交互.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) -使用Dash进行图像注释和图像处理的模块.
 - [Awesome React Components](https://github.com/brillout/awesome-react-components) -React.js组件的目录可能很有趣，可以包装到Dash组件中.
 - [Awesome React](https://github.com/enaqx/awesome-react) -开发React.js组件的有用资源.
@@ -45,12 +45,13 @@
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
 - [mydcc](https://github.com/jimmybow/mydcc) -Dash核心组件的扩展.
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) -Dash的Material-ui组件的StratoDem Analytics实现.
-- [sd-range-slider](https://github.com/StratoDem/sd-range-slider) -范围滑块破折号组件.
+- [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
 - [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) -适用于Django的Plotly Dash分支.
 - [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) -在Plotly Dash的react-flexbox-grid周围包装.
 - [dash-color-picker](https://github.com/vivekvs1/dash-color-picker) -反应颜色周围的包装纸.
 - [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) -围绕react-duallist进行包装.
 - [dash-bootstrap-components](https://dash-bootstrap-components.opensource.asidatascience.com/) -基于Bootstrap的布局引擎，默认样式和高级组件.
+- [dash-uploader](https://github.com/np-8/dash-uploader)  -上载Dash的组件. 支持大数据文件.
 
 ## App Examples
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) -随着时间的推移以及链接的可视化信息，探索石油和天然气的生产. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)

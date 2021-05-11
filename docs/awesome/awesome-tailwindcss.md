@@ -189,8 +189,8 @@
 -  [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) -快速的Tailwind CSS文档搜索应用程序.
 -  [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) -用于将Tailwind CSS集成到Angular-CLI项目中的CLI工具.
 -  [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) -Vue CLI插件，可将Tailwind CSS添加到项目中.
--  [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) -尾风CSS的Figma套件.
--  [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) -集成了Tailwind CSS的Figma插件.
+-  [Tailwind CSS Figma Kit](https://github.com/ecklf/tailwindcss-figma-kit) -尾风CSS的Figma套件.
+-  [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) -集成了Tailwind CSS的Figma插件.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带PurgeCSS和现代CSS（预设环境1）的NuxtJS的Tailwind CSS模块.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -Preact的Tailwind CSS集成.
 -  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) -NPM库，提供对Tailwind CSS类进行排序的实用程序.
@@ -219,7 +219,7 @@
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的付费，对开发人员友好的模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
--  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的现成可使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
 -  [Meraki UI Components](https://merakiui.com) -美丽的Tailwind CSS组件，支持RTL语言.
@@ -270,7 +270,7 @@
 -  [Gulp Starter](https://github.com/simonswiss/tailwind-starter) -使用Tailwind CSS的Gulp启动器.
 -  [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) -使用Tailwind CSS的盖茨比初学者.
 -  [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) -使用Tailwind CSS的盖茨比初学者.
--  [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) -使用Tailwind CSS和TypeScript的Gatsby启动程序.
+-  [Gatsby Starter + TypeScript](https://github.com/ecklf/gatsby-typescript-tailwind) -使用Tailwind CSS和TypeScript的Gatsby启动程序.
 -  [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的盖茨比初学者.
 -  [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) -使用Tailwind CSS和自以为是的东西的盖茨比初学者.
 -  [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) - CRA boilerplate using Tailwind CSS.
