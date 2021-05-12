@@ -26,7 +26,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 但是在世界各地的学习者社区的支持下.
 
 它是根据本科计算机科学专业的学位要求减去通识教育（non-CS）要求而设计的，
-因为假设大多数遵循此课程的人已经在CS领域以外接受了教育.
+as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 这些课程本身是世界上最好的课程，通常来自哈佛，普林斯顿，麻省理工学院等，
 但专门选择满足以下条件.
 
@@ -46,7 +46,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：供学生验证，巩固和展示其知识的项目，供世界各地的同行评估
 
- **期间**. 如果您精心计划并每周花大约20个小时学习，则大约2年内即可完成学习. 学习者可以使用 [this spreadsheet](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/edit#gid=1428855662) 估计他们的结束日期. 如果您制作个人副本，则可以在“课程数据”表中输入实际的课程完成日期，并获取更新的课程完成估算.
+ **期间**. 如果您精心计划并每周花大约20个小时学习，则大约2年内即可完成学习. 学习者可以使用 [this spreadsheet](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/edit#gid=1428855662) 估计他们的结束日期. 进行复印，然后在“时间轴”表中输入您的开始日期和每周的预期小时数. 在学习课程时，您可以在“课程数据”表中输入实际的课程完成日期，并获取更新的课程完成估算.
 
  **成本**. 所有或几乎所有课程资料都是免费提供的. 但是，有些课程可能会为要评分的作业/测试/项目收取费用.
 请注意， [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) 和 [edX](https://courses.edx.org/financial-assistance/) 提供经济援助.
@@ -175,7 +175,7 @@ Lisp家庭语言（通过球拍）
 除了选修数学外，学生还必须完成以下有关离散数学的课程.
 
 **涵盖的主题**：
-`discrete mathematics`
+离散数学
 数学证明
 基本统计
 `O-notation`
@@ -306,7 +306,7 @@ Lisp家庭语言（通过球拍）
 但是学生应该选择与他们打算进入的领域相关的“每门”课程.
 
 然后，高级CS研究应以以下专业领域之一结束 [Advanced applications](#advanced-applications).
-如果采取了专业化的最高标准，则可以充当 [Final project](#final-project)（如果该课程的荣誉守则允许）.
+如果采取了专业化的最高标准，则可以充当 [Final project](#final-project), if permitted by the Honor Code of the course.
 如果没有，或者如果学生选择不参加Capstone，则需要完成一个单独的Final项目来完成本课程.
 
 ### Advanced programming
@@ -314,8 +314,8 @@ Lisp家庭语言（通过球拍）
 **涵盖的主题**：
 调试理论与实践
 面向目标的编程
-并行计算
-`object-oriented analysis and design`
+`parallel computing`
+面向对象的分析与设计
 `UML`
 大型软件架构与设计
 还有更多
@@ -352,7 +352,7 @@ CMOS技术
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits)  |  10周| 每周6个小时| [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-architecture-2)  |  10周| 每周6个小时| 计算结构1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-organization-2)  |  10周| 每周6个小时| 计算结构2
 
@@ -473,7 +473,7 @@ or
 1.复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登上您的个人帐户.
 了解如何复制木板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
-现在您已经有了我们的官方董事会的副本，您只需在学习过程中将卡片传递到“正在做”栏或“完成”栏即可.
+现在您已经有了我们的正式董事会的副本，您只需在学习过程中将卡片传递到“正在做”或“完成”栏中即可.
 
 我们还有**标签**，可帮助您在整个过程中进行更多控制.
 每个标签的含义是：
@@ -487,7 +487,7 @@ or
 带有“ Section”标签的卡片仅用于帮助“完成”列的组织.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
+该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示他们的进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team

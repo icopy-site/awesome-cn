@@ -42,12 +42,13 @@
 ## Data Standardization, Interoperability and APIs
 
 - [AgGateway’s ADAPT Toolkit](https://adaptframework.org) -开源项目，提供工具来简化种植者，他们的机器及其合作伙伴之间的通信.
+- [Agstack](https://agstack.org) -农业生态系统的开源数字基础设施
 - [agworld_api_client](https://github.com/agworld/agworld_api_client) -符合jsonapi.org定义的规范的示例Agworld API Ruby客户端库.
 - [agx-ruby](https://github.com/brycejohnston/agx-ruby) -Proagrica的agX平台API的Ruby客户端.
 - [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) -包含aWhere的API平台代码示例.
 - [ClearAg-API-Examples](https://github.com/IterisClearAg/ClearAg-API-Examples) -使用ClearAg API的代码示例集合.
 - [Open Ag Data Alliance](https://github.com/oada) -OADA是一个开放项目，旨在为农业数据带来互操作性，安全性和隐私性.
-- [MyJohnDeereAPI-OAuth-CS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-CS-Client) -C Sharp MyJohnDeere API客户端实现.
+- [MyJohnDeereAPI-OAuth-CS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-CS-Client) - C Sharp MyJohnDeere API client implementation.
 - [MyJohnDeereAPI-OAuth-Java-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Java-Client) -Java MyJohnDeere API客户端实现.
 - [MyJohnDeereAPI-OAuth-NodeJS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-NodeJS-Client) -Node.js MyJohnDeere API客户端实现.
 - [MyJohnDeereAPI-OAuth-PHP-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-PHP-Client) -PHP MyJohnDeere API客户端实现.

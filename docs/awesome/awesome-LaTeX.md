@@ -173,11 +173,11 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 - [TeXample](http://www.texample.net) -有关LaTeX的博客，其中包含大量TikZ数据.
 - [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  -有用的网站，其中包含一些自定义软件包，可以使用TikZ绘制特殊图形（Bode，Nyquist，电气原理图，方框图等）. 请注意，所有内容均为法语.
 - [tkz](http://altermundus.com/pages/tkz/index.html) -收集基于TikZ的软件包以绘制图表.
-- [pgfplots](http://pgfplots.sourceforge.net)  -在TikZ / pgf的基础上并以TikZ / pgf的样式提供了真正令人敬畏的绘图库. 该库可以加载CSV数据文件，执行一些计算并创建漂亮的图.
+- [pgfplots](http://pgfplots.sourceforge.net)  -在TikZ / pgf的基础上并以TikZ / pgf的样式提供了真正出色的绘图库. 该库可以加载CSV数据文件，执行一些计算并创建漂亮的图.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) -雅克·克雷默（JacquesCrémer）撰写的有关TikZ世界的简短介绍性文件.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) -收集由PetarVeličković出版的可用于PGF / TikZ的数字.
 - [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)  -将您的MATLAB图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
-- [matplotlib2tikz](https://github.com/nschloe/matplotlibtikz)  -将您的matplotlib图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
+- [tikzplotlib](https://github.com/nschloe/tikzplotlib)  -将您的matplotlib图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
 
 ### Source Code
 
@@ -205,7 +205,7 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 
 - [TUG](https://www.tug.org) -TeX用户组是与其他（La）TeX用户保持联系的一种方式.
 - [TeXDoc](http://texdoc.net) -texdoc实用程序的在线界面，用于浏览LaTeX软件包和文档.
-- [Dickimaw Books: LaTeX resources](http://www.dickimaw-books.com/latexresources.html) -概述了对LaTeX有用的资源.
+- [Dickimaw Books: LaTeX resources](http://www.dickimaw-books.com/latexresources.html) -很好地概述了对LaTeX有用的资源.
 - [LaTeX cookbook](http://latex-cookbook.net) -TeXample的同级，包含很多示例代码.
 - [Visual FAQ](http://mirrors.ctan.org/info/visualFAQ/visualFAQ.pdf) -排版问题，以及指向适当的TeX常见问题解答的链接.
 - [MartinThoma's LaTeX example](https://github.com/MartinThoma/LaTeX-examples/) -包含示例LaTeX文档的GitHub存储库.
@@ -273,8 +273,8 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 
 所有商标均为其各自所有者的财产.
 
-[mac]：https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
-[Linux]：https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
+[mac]：https：//cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
+[Linux]：https：//cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
 [windows]：https：//cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
 [foss]：https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
 [很棒]：https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

@@ -35,7 +35,7 @@
 
 - [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) -用于构建ROS2 + OpenSplice CE容器的dockerfile. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) -用于使用OpenJDK和Android构建ros2_java的Dockerfile. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
-- [micro-ROS/docker](https://github.com/micro-ROS/docker) -与Docker相关的材料，用于使用micro-ROS硬件进行设置，配置和开发.
+- [micro-ROS/docker](https://github.com/micro-ROS/docker) -使用micro-ROS硬件设置，配置和开发与Docker相关的材料.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) -将ROS和ROS 2工作区交叉编译为非本地架构，并生成相应的Docker映像.
 
 ### Ecosystem
@@ -104,20 +104,20 @@
 - [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) -包含Micro XRCE-DDS代理的Docker映像.
 - [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) -Micro XRCE-DDS实现了客户端-服务器协议，以使资源受限的设备（客户端）能够参与DDS通信.
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) -使用Micro XRCE-DDS Agent的ROS 2软件包.
-- [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) 是一种可扩展且性能卓越的协议，可以透明地用于与之交互 [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) 以及 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/).
-- [Eclipse Zenoh-Plugin-DDS](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - 这是一个 [zenoh](https://zenoh.io) 该插件可通过zenoh透明地路由ROS2 / DDS数据. 这通常用于 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) 通过无线网络或Internet. 
+- [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) 是一种可扩展且性能卓越的协议，可以透明地用于与之交互 [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) 以及 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (https://img.shields.io/github/stars/eclipse-zenoh/zenoh)
+- [Eclipse Zenoh-Plugin-DDS](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - 这是一个 [zenoh](https://zenoh.io) 该插件可通过zenoh透明地路由ROS2 / DDS数据. 这通常用于 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) 通过无线网络或Internet.  （https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds）
 
 ### "System" bindings
 
 - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) -ROS2的Android API. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -ROS2.0客户端的Node.js版本. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) -该项目使ROS2可以在使用RIOT操作系统的微控制器上运行. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
-- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) -ROS2集成和路由，它提供了一个完整的工具，可以轻松地将其他技术与ROS2集成，并在WAN / Internet上启用ROS2.
+- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) -ROS2集成和路由，它提供了一个完整的工具，可以轻松地将其他技术与ROS2集成在一起，并在WAN / Internet上启用ROS2.
 - [soss](https://github.com/osrf/soss) -系统合成器系统用于通过ROS2-Integration-Service将ROS2与其他（通信）系统集成.
 
 ### Driver layer
 
-- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使会员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
+- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使成员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
 - [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) -带有xmlrpc的ros2接口软件包，用于使用Sesto API与Sesto服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) -ROS2的非官方Anki Cozmo节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) -ROS2 Sphero驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
@@ -187,8 +187,8 @@
 - [rmw_zenoh](https://github.com/esteve/rmw_zenoh) -使用Eclipse zenoh的RMW实现：零开销的发布/订阅，存储/查询和计算. ![esteve/rmw_zenoh](https://img.shields.io/github/stars/esteve/rmw_zenoh.svg)
 - [rcutils](https://github.com/ros2/rcutils) -ROS 2中使用的通用C函数和数据结构. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) -免费，可移植，极简，正在进行的RTPS实施. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
-- [rmw_zhe](https://github.com/atolab/rmw_zhe) -在Zhe之上的ROS2 RMW实现. ![rmw_zhe](https://img.shields.io/github/stars/atolab/rmw_zhe.svg)
 - [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) -Eclipse Cyclone DDS的ROS2 RMW层. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
+- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) -ROS2 RMW层用于 [zenoh](https://zenoh.io). (https://img.shields.io/github/stars/esteve/rmw_zenoh)
 
 ### DDS communication mechanism implementations
 
@@ -224,7 +224,7 @@
 
 ## Forks
 
-- [Apex.OS](https://www.apex.ai/apex-os) -Apex.OS是ROS 2的一个分支，它已经变得如此强大和可靠，可以用于安全关键型应用程序中.
+- [Apex.OS](https://www.apex.ai/apex-os) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.
 
 ## Documentation
 
@@ -243,7 +243,7 @@
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) -ROS弹性软件包的状态.
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) -ROS2 Ardent软件包的状态.
 - [ROS2 Buildfarm](http://build.ros2.org) -构建信息（詹金斯构建农场）.
-- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) -ROS 2命令行界面的备忘单.
 
 ## Community
 
@@ -306,7 +306,7 @@
 -自动驾驶汽车上的ROS 2
 -RViz –向ROS 2.0迁移的故事
 -推出ROS 2
--参与ROS 2开发
+- Getting involved in ROS 2 development
 -计划计划：插件一路下滑
 -利用ROS2中的DDS安全性
 -Arm DDS安全性库：为ROS2添加安全性
@@ -389,7 +389,7 @@ DDS安全性.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) -“前沿计算”.
 - [Alias Robotics](https://aliasrobotics.com/) -机器人网络安全范围内的产品和服务.
 - [Amazon](https://github.com/aws-robotics) -亚马逊Amazon Web Services（AWS）的机器人团队.
-- [Apex.AI](https://www.apex.ai/) - "Safe and certified software for autonomous mobility".
+- [Apex.AI](https://www.apex.ai/) -“安全且经过认证的自主移动软件”.
 - [AutonomouStuff](https://autonomoustuff.com) -“自治系统和解决方案的世界领导者”.
 - [Bosch](https://github.com/boschresearch) -博世研究机器人团队.
 - [Canonical](https://canonical.com/) -Ubuntu背后的公司.

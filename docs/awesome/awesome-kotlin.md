@@ -6,7 +6,7 @@
 
 在讨论此项目 [Kotlin Slack](http://slack.kotlinlang.org/), channel: **# awesome-kotlin**
 
-[![List of Awesome List Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/KotlinBy/awesome-kotlin.svg?branch=main)](https://travis-ci.com/KotlinBy/awesome-kotlin) [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
+[![List of Awesome List Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build](https://github.com/KotlinBy/awesome-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/KotlinBy/awesome-kotlin/actions/workflows/build.yml) [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 :newspaper: [RSS Feed of articles, videos, slides, updates (20 latest articles)](http://kotlin.link/rss.xml)
 
@@ -22,4 +22,4 @@
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 ```
 
-贡献，检查 [CONTRIBUTING.md](https://github.com/KotlinBy/awesome-kotlin/blob/main/.github/contributing.md).
+要贡献，请检查 [CONTRIBUTING.md](https://github.com/KotlinBy/awesome-kotlin/blob/main/.github/contributing.md).
