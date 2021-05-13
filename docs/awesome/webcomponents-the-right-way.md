@@ -50,7 +50,7 @@ Shadow DOM描述了一种将多个DOM树组合为一个层次结构以及这些�
 
 ### HTML Templates
 
- `<template>  `元素用于声明可通过脚本克隆并插入文档的HTML片段.
+ `<template>  `元素用于声明HTML片段，这些片段可以通过脚本克隆并插入文档中.
 
 - [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 - [MDN - &lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
@@ -185,6 +185,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Apple Just Shipped Web Components to Production and You Probably Missed It](https://dev.to/ionic/apple-just-shipped-web-components-to-production-and-you-probably-missed-it-57pf)
 - [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
+- [Get moving with Microsoft’s FAST web components](https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html)
 - [How Web Components Are Used at GitHub and Salesforce](https://thenewstack.io/how-web-components-are-used-at-github-and-salesforce/)
 - [How we use Web Components at GitHub](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
 - [Implementing a Design Language System with Stencil.js](https://medium.com/@Danetag/implementing-a-design-language-system-with-stencil-js-515432918eb5)
@@ -235,7 +236,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于SPA路由，显示来自Web服务的数据等的独立组件.
 - [elements-sk](https://github.com/google/elements-sk) -用于“点菜”网站开发的自定义元素的集合.
 - [github-elements](https://github.com/github/github-elements) -GitHub的Web组件集合.
-- [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
+- [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
 - [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) -一组用于嵌入沉浸式（VR＆AR）内容的Web组件.
 - [Iooxa](https://github.com/iooxa/article) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
 - [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) -Joomla 4自定义元素的编译.
@@ -245,7 +246,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Lume](https://github.com/lume/lume) -用于定义使用CSS3D或WebGL渲染的2D或3D场景的自定义元素.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [Nightingale](https://github.com/ebi-webcomponents/nightingale) -生命科学的数据可视化Web组件.
-- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件使用Nuxeo构建Web应用程序的组件.
+- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
 - [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) -为业务应用程序设计的Web组件的集合.
 - [Pixano Elements](https://github.com/pixano/pixano-elements) -专用于数据注释任务的可重用Web组件.
 - [Shoelace](https://github.com/shoelace-style/shoelace) -具有前瞻性的Web组件库.
@@ -333,7 +334,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) -带有各种示例的基准Web组件技术.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) -为基准测试目的，在不同的Web组件库中构建了相同的todo应用程序.
+- [web-components-todo](https://wc-todo.firebaseapp.com/) -出于不同基准目的，在不同的Web组件库中构建了相同的todo应用程序.
 
 ## Frameworks
 
@@ -375,7 +376,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Tools
 
 - [Custom Elements Locator](https://github.com/open-wc/locator) -Chrome扩展程序可在页面上查找自定义元素.
-- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺穿Shadow DOM根的querySelector，对于自动测试很有用.
+- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺入Shadow DOM根的querySelector，对于自动测试很有用.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) -使用Selenium的Shadow DOM自动化.
 - [shadow-dom-utils](https://github.com/43081j/shadow-dom-utils) -用于处理影子DOM（主要用于测试环境）的一组有用实用程序.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) -用于简单的Web组件摘要的UI开发环境.
@@ -499,7 +500,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ## History
 
-以下文章代表了Web组件规范在实现标准化方面的悠久历史.
+下面的文章描述了Web组件规范在标准化方面的悠久历史.
 其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
@@ -615,7 +616,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
       <td align="center">
         <a href="https://twitter.com/JanMiksovsky">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/675000078055051264/u1ZEQfeE_80x80.jpg">
-          <div>扬·米科索夫斯基</div>
+          <div>扬·米科索夫斯基（Jan Miksovsky）</div>
         </a>
       </td>
       <td align="center">

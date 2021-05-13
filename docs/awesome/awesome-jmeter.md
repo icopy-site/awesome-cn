@@ -135,11 +135,13 @@
   - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
   - [AutoMeter](https://github.com/intuit/autometer) -基于JMeter主从架构，用于使用分布式从属扩展负载测试的自动化工具.
 -在云中测试
+  -州长
+    - [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) -JMeter集群对Kubernetes和OpenShift的支持.
+    - [kangal](https://github.com/hellofresh/kangal) -Kubernetes and Go自动加载程序解决方案，可使用多个负载生成器在Kubernetes集群中运行性能测试.
   -亚马逊网络服务
     - [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) -在Amazon EC2上自动运行Apache JMeter.
     - [gee](https://github.com/kowalcj0/gee) -JMeter-EC2项目的修改版本.
     - [os-jmeter-aws](https://github.com/OrdnanceSurvey/os-jmeter-aws) -在多个AWS实例上运行JMeter，在ELK中查看结果.
-    - [kangal](https://github.com/hellofresh/kangal) -Kubernetes and Go自动加载程序解决方案，可使用多个负载生成器在Kubernetes集群中运行性能测试.
     - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
     - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
     - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
@@ -208,7 +210,7 @@
   - [jmeter-listener](https://gitlab.com/testload/jmeter-listener) -JMeter插件可将负载测试数据即时写入ClickHouse，InfluxDB，ElasticSearch.
 -自定义和不推荐使用
   - [Using Matplotlib & Python](https://www.metaltoad.com/blog/plotting-your-load-test-jmeter) -使用Matplotlib绘图工具和Python绘制JMeter负载测试结果.
-  - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) -自定义统计汇总报告侦听器，可增强结果的可视化效果.
+  - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) -自定义统计汇总报告侦听器，可增强结果可视化效果.
   - [JChav](https://github.com/d6y/jchav) -JMeter图表历史和可视化库.
   -JMeter资讯主页： [howto](http://seangkuan.blogspot.com/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) -实时监控JMeter负载测试.
   - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com/2015/12/jmeter-create-graphs-with-cmdrunner.html) -使用具有Powershell并行执行功能的CMDRunner创建JMeter图.
@@ -318,8 +320,8 @@
 - [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ）;  70个有见地和实用的食谱，可帮助成功使用Apache JMeter.
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) -通过Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample) ）; 一个简单，实用，逐步的教程，以衡量网站的性能.
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) -通过Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606)).
-- [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·穆阿瓦德（Philippe Mouawad）（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·穆阿瓦德（Philippe Mouawad）（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）：fr :.
+- [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·穆瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·穆瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）：fr :.
 - [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) -潘妮·库里奇（Penny Curich）（[Leanpub](https://leanpub.com/advanced_jmeter_testing)），指导编写针对Apache JMeter 5.0的自定义组件.
 
 ## Trainings & Courses
@@ -328,7 +330,7 @@
 - [Advanced JMeter (Jul 2020)](https://www.linkedin.com/learning/advanced-jmeter) -通过领英学习.
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) -通过NobleProg.
 - [BlazeMeter University](https://www.blazemeter.com/university/) -由BlazeMeter撰写.
-- [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) -乌迪米（Udemy）.
+- [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 - [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) -由ABSoft培训.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) -由实用测试实验室提供.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) -由Ubik Ingenierie提供.

@@ -119,7 +119,7 @@
 
 ### Rust
 
-* [fenix](https://github.com/nix-community/fenix) -每晚使用Rust的工具链和每晚使用nix的锈分析器.
+* [fenix](https://github.com/nix-community/fenix) -夜间使用nix的Rust工具链和rust分析器.
 * [naersk](https://github.com/nmattia/naersk)  -直接从Cargo.lock构建Rust包. 无需转换步骤.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) -为Rust项目生成Nix构建和开发文件.
 

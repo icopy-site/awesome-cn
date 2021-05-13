@@ -9,7 +9,7 @@
 
 ## Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;⚡精选的Svelte资源列表
+> ⚡ A curated list of awesome Svelte resources
 
 [Svelte](https://svelte.dev/) 是一种构建Web应用程序的新方法. 这是一个使用声明性组件并将其转换为有效JavaScript的编译器
 
@@ -164,6 +164,7 @@ _对于单页应用程序（SPA）以及更多._
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) -具有SSR支持的声明性Svelte路由库.
 - [tinro](https://github.com/AlexxNB/tinro) -小型，无依赖且声明性强的路由器.
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) -通过基于哈希的路由和对参数的支持，针对单页应用程序（SPA）进行了优化.
+- [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) -Svelte Client Router是您在路由SPA时需要和考虑的一切.
 
 ### UI Utilities
 
@@ -254,7 +255,7 @@ _文本编辑器插件._
 
 #### Vim
 
-- [vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+- [vim-svelte](https://github.com/evanleck/vim-svelte) -Svelte 3组件的Vim语法突出显示和缩进.
 - [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) -语法突出显示和对Vim的支持.
 - [coc-svelte](https://github.com/coc-extensions/coc-svelte) -语法突出显示并支持（Neo）Vim.
 

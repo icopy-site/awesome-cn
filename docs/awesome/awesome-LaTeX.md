@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="egeerardyn/awesome-LaTeX"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome LaTeX [![Awesome][awesome]](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
+## Awesome LaTeX [![awesome]](https://github.com/sindresorhus/awesome) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png" align="right" width="100">](https://www.latex-project.org/)
 
@@ -16,34 +16,34 @@
 
 指导如何学习LaTeX
 
-- [learnlatex.github.io](https://learnlatex.github.io/) -基于浏览器的LaTeX教程
+- [learnlatex.GitHub.io](https://learnlatex.GitHub.io/) -基于浏览器的LaTeX教程.
 
 ## Distributions
 
-- [MacTeX](https://tug.org/mactex/)  -Mac OS X上最常见的LaTeX发行版，基本上是TeXLive，其中添加了一些Mac专用工具.  ！[Mac] [mac]
-- [TeX Live](https://www.tug.org/texlive/)  -最常见的LaTeX发行版，用于类似Unix的操作系统，包括GNU / Linux. 在Windows上也可以使用.  ！[Linux] [linux]！[Windows] [windows]
-- [MikTeX](https://miktex.org)  -适用于Windows的最常见的LaTeX发行版（仅）.  ！[Windows] [windows]
+- [MacTeX](https://tug.org/mactex/)  -最常见的macOS LaTeX发行版，基本上是TeXLive，其中添加了一些Mac专用工具.  ！[苹果电脑]
+- [TeX Live](https://www.tug.org/texlive/)  -最常见的LaTeX发行版，用于类似Unix的操作系统，包括GNU / Linux. 在Windows上也可以使用.  ！[linux]！[windows]
+- [MikTeX](https://miktex.org)  -适用于Windows的最常见的LaTeX发行版（仅）.  ！[视窗]
 
 ## Engines
 
-- [pdfTeX](https://www.tug.org/applications/pdftex/)  -TeX编译器可立即生成PDF文件而不是DVI文件（如今，这是许多用户的标准编译器）.  ！[foss] [foss]
-- [XeTeX](http://xetex.sourceforge.net)  -TeX编译器比TeX / pdfTeX提供更好的unicode和字体支持（即，您可以使用操作系统的字体，而不仅仅是TeX字体）.  ！[foss] [foss]
-- [LuaTeX](http://www.luatex.org)  -（La）TeX编译器，它支持Lua代码进行脚本编写，并且比标准TeX / pdfTeX改进了对unicode和字体的支持.  ！[foss] [foss]
-- [tectonic](https://tectonic-typesetting.github.io/en-US/)  -由XeTeX和TeXLive提供支持的现代自包含（La）TeX编译器.  ！[foss] [foss]
+- [pdfTeX](https://www.tug.org/applications/pdftex/)  -TeX编译器可立即生成PDF文件而不是DVI文件（如今，这是许多用户的标准编译器）.  ！[foss]
+- [XeTeX](http://xetex.sourceforge.net)  -TeX编译器比TeX / pdfTeX提供更好的unicode和字体支持（即，您可以使用操作系统的字体，而不仅仅是TeX字体）.  ！[foss]
+- [LuaTeX](http://www.luatex.org)  -（La）TeX编译器，它支持Lua代码进行脚本编写，并且比标准TeX / pdfTeX改进了对unicode和字体的支持.  ！[foss]
+- [tectonic](https://tectonic-typesetting.GitHub.io/en-US/)  -由XeTeX和TeXLive提供支持的现代自包含（La）TeX编译器.  ！[foss]
 
 ### LaTeX formulas on the web
 
 - [Auto-LaTeX Equations with Google Docs](https://sites.google.com/site/autolatexequations) -直接在Google文档中渲染高质量的数学方程式.
-- [MathJaX](https://www.mathjax.org)  -JavaScript引擎可在网络上呈现数学公式. 结果看起来真的很圆滑.  ！[foss] [foss]
-- [mimeTeX](http://www.forkosh.com/mimetex.html)  -mimeTeX是一个相当老的工具，用于将LaTeX公式转换为您的网站的PNG数字，而实际上不需要在服务器上安装LaTeX.  ！[foss] [foss]
-- [mathTeX](http://www.forkosh.com/mathtex.html)  -mathTeX是mimeTeX的后继产品：它可以生成美观的图像，但需要在服务器上安装LaTeX.  ！[foss] [foss]
-- [KaTeX](https://khan.github.io/KaTeX/)  -KaTeX是可汗学院制作的数学渲染库，着重于快速加载时间. 所有输出均以纯HTML格式处理，而不是固定图像.  ！[foss] [foss]
-- [Franklin.jl](https://franklinjl.org/)  -在Julia中，具有KaTeX支持，代码评估，类似于LaTeX的命令和可选的预渲染的静态站点生成器.  ！[foss] [foss]
+- [MathJaX](https://www.mathjax.org)  -JavaScript引擎可在网络上呈现数学公式. 结果看起来真的很圆滑.  ！[foss]
+- [mimeTeX](https://ctan.org/pkg/mimetex)  -mimeTeX是一个相当老的工具，用于将LaTeX公式转换为您的网站的PNG数字，而实际上不需要在服务器上安装LaTeX.  ！[foss]
+- [mathTeX](https://ctan.org/pkg/mathtex)  -mathTeX是mimeTeX的后继产品：它可以生成美观的图像，但需要在服务器上安装LaTeX.  ！[foss]
+- [KaTeX](https://khan.GitHub.io/KaTeX/)  -KaTeX是可汗学院制作的数学渲染库，着重于快速加载时间. 所有输出均以纯HTML格式处理，而不是固定图像.  ！[foss]
+- [Franklin.jl](https://franklinjl.org/)  -在Julia中，具有KaTeX支持，代码评估，类似于LaTeX的命令和可选的预渲染的静态站点生成器.  ！[foss]
 
 ## Editors
 
 因为用记事本编辑LaTeX代码并不好.
-有很多编辑器，下面是最出色的编辑器.
+There are many editors out there, below are the most awesome editors.
 LaTeX编辑器的完整列表在以下位置收集 [tex.stackexchange.com](https://tex.stackexchange.com/) 作为 [big list of LaTeX Editors/IDEs](https://tex.stackexchange.com/q/339/9075).
 
 - [List of popular LaTeX editors](https://tex.stackexchange.com/questions/339/latex-editors-ides) -社区维护的流行LaTeX编辑器列表，包括屏幕截图和简短描述.
@@ -52,43 +52,43 @@ LaTeX编辑器的完整列表在以下位置收集 [tex.stackexchange.com](https
 
 一些LaTeX最出色的编辑器就是这样做的：编辑LaTeX.
 
-- [Kile](https://kile.sourceforge.io)  -伟大的LaTeX编辑器，最初来自Linux / KDE社区. 它也可以在Windows和OS X上正常运行.  ！[foss] [foss]
+- [Kile](https://kile.sourceforge.io)  -伟大的LaTeX编辑器，最初来自Linux / KDE社区. 它也可以在Windows和macOS上正常运行.  ！[foss]
 - [TeXMaker](http://www.xm1math.net/texmaker/) -Kile的不错替代品.
 - [TeXStudio](https://www.texstudio.org) -源自TeXMaker的跨平台LaTeX编辑器.
-- [WinEdt](http://www.winedt.com)  -许多人发誓的LaTeX编辑器. 仅适用于！[Windows] [windows].
-- [TeXnicCenter](http://www.texniccenter.org)  -相当老但免费又不错的LaTeX编辑器.  ！[Windows] [windows]
-- [LyX](https://www.lyx.org)  -跨平台的所见即所得编辑器，该编辑器在后台使用LaTeX渲染文档.  ！[foss] [foss]
-- [TeXShop](http://pages.uoregon.edu/koch/texshop/)  -MacTeX中包含的LaTeX文档的精简编辑器.  ！[Mac] [mac]
-- [TeXWorks](https://www.tug.org/texworks/)  -LaTeX代码的精巧编辑器，以TeXShop为模型，但该编辑器是跨平台的.  ！[foss] [foss]
+- [WinEdt](http://www.winedt.com)  -许多人发誓的LaTeX编辑器. 仅适用于！[windows].
+- [TeXnicCenter](http://www.texniccenter.org)  -相当老但免费又不错的LaTeX编辑器.  ！[视窗]
+- [LyX](https://www.lyx.org)  -跨平台的所见即所得编辑器，该编辑器在后台使用LaTeX渲染文档.  ！[foss]
+- [TeXShop](http://pages.uoregon.edu/koch/texshop/)  -MacTeX中包含的LaTeX文档的精简编辑器.  ！[苹果电脑]
+- [TeXWorks](https://www.tug.org/texworks/)  -LaTeX代码的精巧编辑器，以TeXShop为模型，但该编辑器是跨平台的.  ！[foss]
 - [BakomaTex](http://www.bakoma-tex.com) -商业LaTeX编辑器，可使用其源代码和所见即所得来编辑您的文档.
-- [Inlage](http://www.inlage.com/home)  -具有手写公式识别，Excel导入和更多精美功能的商业LaTeX编辑器.  ！[Windows] [windows]
-- [Texpad](https://www.texpadapp.com)  -适用于OS X和iOS的商业LaTeX编辑器，具有出色的功能（文档概述，同步的PDF显示，自动完成，跨设备同步...），这些功能永远不会妨碍编写.  ！[Mac] [mac]
+- [Inlage](http://www.inlage.com/home)  -具有手写公式识别，Excel导入和更多精美功能的商业LaTeX编辑器.  ！[视窗]
+- [Texpad](https://www.texpadapp.com)  -适用于macOS和iOS的商业LaTeX编辑器，具有出色的功能（文档概述，同步的PDF显示，自动完成，跨设备同步等），这些功能永远不会妨碍编写.  ！[苹果电脑]
 
 ### General purpose text editors
 
 这些编辑器绝非小技巧：当然，他们可以编辑LaTeX，但是他们可以做更多的事情！
 
-- [Atom](https://atom.io) [！[Atom] [awesome]]（https://github.com/mehcode/awesome-atom）！[foss] [foss]
-	- [LaTeXTools](https://atom.io/packages/latextools)  -具有相同名称的Sublime Text软件包的Atom端口.  ！[foss] [foss]
+- [Atom](https://atom.io) [！[Atom] [awesome]]（https://github.com/mehcode/awesome-atom）！[foss]
+	- [LaTeXTools](https://atom.io/packages/latextools)  -具有相同名称的Sublime Text软件包的Atom端口.  ！[foss]
 
 - [Sublime Text](https://www.sublimetext.com) [！[Sublime Text] [awesome]]（https://github.com/dreikanter/sublime-bookmarks）
 	- [LaTeXing](http://www.latexing.com) -用于编辑LaTeX的商业插件.
-	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools)  -用于Sublime Text的免费LaTeX插件.  ！[foss] [foss]
+	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools)  -用于Sublime Text的免费LaTeX插件.  ！[foss]
 
-- [Emacs](https://www.gnu.org/software/emacs/)  [！[Emacs] [awesome]]（https://github.com/emacs-tw/awesome-emacs）！[foss] [foss]
-	- [AucTeX](https://www.gnu.org/software/auctex/)  -用于LaTeX的Emacs插件，还显示方程式和图形的预览.  ！[foss] [foss]
-	- [RefTeX](https://www.gnu.org/software/auctex/reftex)  -LaTeX的Emacs插件，增加了对标签，引用和引用的支持.  ！[foss] [foss]
+- [Emacs](https://www.gnu.org/software/emacs/)  [！[Emacs] [awesome]]（https://github.com/emacs-tw/awesome-emacs）！[foss]
+	- [AucTeX](https://www.gnu.org/software/auctex/)  -用于LaTeX的Emacs插件，还显示方程式和图形的预览.  ！[foss]
+	- [RefTeX](https://www.gnu.org/software/auctex/reftex)  -LaTeX的Emacs插件，增加了对标签，引用和引用的支持.  ！[foss]
 
-- [Vim](http://www.vim.org) [！[Vim] [awesome]]（https://github.com/mhinz/vim-galore）！[foss] [foss]
-	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ！[瀑布] [瀑布]
-	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview)  -即时预览您的LaTeX文档.  ！[foss] [foss]
-	- [vimtex](https://github.com/lervag/vimtex)  -用于编辑LaTeX文件的现代vim插件. 具有多种功能，包括实时预览和前向搜索.  ！[foss] [foss]
+- [Vim](http://www.vim.org) [！[Vim] [awesome]]（https://github.com/mhinz/vim-galore）！[foss]
+	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ！[foss]
+	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview)  -即时预览您的LaTeX文档.  ！[foss]
+	- [vimtex](https://github.com/lervag/vimtex)  -用于编辑LaTeX文件的现代vim插件. 具有多种功能，包括实时预览和前向搜索.  ！[foss]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA)  -IntelliJ IDEA的免费LaTeX插件.  ！[foss] [foss]
+	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA)  -IntelliJ IDEA的免费LaTeX插件.  ！[foss]
 
-- [VS Code](https://code.visualstudio.com/) [！[VS Code] [awesome]]（https://github.com/viatsko/awesome-vscode）！[foss] [foss]
-	- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) -Visual Studio Code的LaTeX扩展！[foss] [foss]
+- [VS Code](https://code.visualstudio.com/) [！[VS Code] [awesome]]（https://github.com/viatsko/awesome-vscode）！[foss]
+	- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) -Visual Studio Code的LaTeX扩展！[foss]
 
 ### Online editors
 
@@ -99,49 +99,49 @@ LaTeX编辑器的完整列表在以下位置收集 [tex.stackexchange.com](https
 - [ShareLaTeX](https://www.sharelatex.com) -拥有出色的LaTeX文档和简单的版本控制.
 - [Overleaf](https://www.overleaf.com) -在线编辑器，还具有WYSIWYM编辑器和git支持.
 - [Papeeria](https://papeeria.com) -具有内置git支持的在线编辑器.
-- [JaxEdit](https://zohooo.github.io/jaxedit/) -具有实时预览和出色演示模式的在线LaTeX编辑器.
+- [JaxEdit](https://zohooo.GitHub.io/jaxedit/) -具有实时预览和出色演示模式的在线LaTeX编辑器.
 
 ## Bibliography tools
 
-- [JabRef](https://www.jabref.org)  -非常强大的跨平台（Java）bibtex编辑器. 但是，GUI看起来已经过时了.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
+- [JabRef](https://www.jabref.org)  -非常强大的跨平台（Java）bibtex编辑器. 但是，GUI看起来已经过时了.  ！[mac]！[windows]！[linux]！[foss]
 - [Papis](https://github.com/alejandrogallo/papis) -高度可定制
   功能强大且简单的跨平台（Python）库管理器. 它有一个非常
-  complete Command-Line-Interface, several GUIs and scripting capability.
-  ！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
-- [Bibdesk](http://bibdesk.sourceforge.net) -伟大的书目编辑器！[Mac] [mac].
-- [Zotero](https://www.zotero.org) - Reference manager for your browser that also exports to bibtex and integrates with many LaTeX editors. ![Mac][mac] ![Windows][windows] ![Linux][linux] [![foss][foss]](https://github.com/zotero/)
-- [Mendeley](https://www.mendeley.com)  -应用程序和云客户端都可以管理您的参考和PDF. 可以同步到LaTeX工作流程的bibtex文件.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux]
-- [betterbib](https://github.com/nschloe/betterbib)  -用于改进BibTeX文件的命令行实用程序. 从在线来源获取信息.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
+  完整的命令行界面，多个GUI和脚本功能.
+  ！[linux]！[mac]！[foss]
+- [Bibdesk](http://bibdesk.sourceforge.net) -伟大的书目编辑器！[mac].
+- [Zotero](https://www.zotero.org)  -浏览器的参考管理器，也可以导出到bibtex并与许多LaTeX编辑器集成.  ！[mac]！[windows]！[linux] [！[foss]]（https://github.com/zotero/）
+- [Mendeley](https://www.mendeley.com)  -应用程序和云客户端都可以管理您的参考和PDF. 可以同步到LaTeX工作流程的bibtex文件.  ！[mac]！[windows]！[linux]
+- [betterbib](https://github.com/nschloe/betterbib)  -用于改进BibTeX文件的命令行实用程序. 从在线来源获取信息.  ！[mac]！[windows]！[linux]！[foss]
 
 ## Build Tools
 
 编译LaTeX文档可能很繁琐，构建工具可帮助您管理编译过程.
 
-- [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/cereda/arara) ）-简单的工具，可让您指定要在文档中调用的工具，并且可以轻松扩展它.  ！[foss] [foss]
-- [latexmk](https://www.ctan.org/pkg/latexmk)  -许多LaTeX编辑器（LaTeXing，TeXShop等）常用的构建工具来构建LaTeX文件.  ！[foss] [foss]
-- [latex-makefile](https://github.com/alejandrogallo/latex-makefile)  -基于`Makefile`的构建工具，它试图尽可能地通用和轻巧.  ！[foss] [foss]
+- [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/cereda/arara) ）-简单的工具，可让您指定要在文档中调用的工具，并且可以轻松扩展它.  ！[foss]
+- [latexmk](https://www.ctan.org/pkg/latexmk)  -许多LaTeX编辑器（LaTeXing，TeXShop等）常用的构建工具来构建LaTeX文件.  ！[foss]
+- [latex-makefile](https://github.com/alejandrogallo/latex-makefile)  -基于`Makefile`的构建工具，它试图尽可能地通用和轻巧.  ！[foss]
 
 ## Misc. Tools
 
 - [CaTeX](https://github.com/Alexis-benoist/CaTeX) -注意正确地合并LaTeX文档以正确合并前言.
-- [Pandoc](https://pandoc.org)  -该程序将几乎所有文档格式（LaTeX，DOC，降价等）转换为几乎任何其他格式. 一个出色的工具，可帮助使用多种格式的工作流程.  ！[foss] [foss]
+- [Pandoc](https://pandoc.org)  -该程序将几乎所有文档格式（LaTeX，DOC，降价等）转换为几乎任何其他格式. 一个出色的工具，可帮助使用多种格式的工作流程.  ！[foss]
 - [Codecogs Eqn Editor](https://www.codecogs.com/latex/eqneditor.php) -在线LaTeX方程编辑器，可让您生成包含方程的图形.
-- [LaTeXiT](https://www.chachatelier.fr/latexit/)  -LaTeXit是一个方程式编辑器，可轻松将渲染的方程式（如PDF，PNG等）拖放到Mac上的非LaTeX文档中.  ！[Mac] [mac]
-- [KLaTeXFormula](https://klatexformula.sourceforge.io)  -LaTeXit的跨平台替代方案.  ！[foss] [foss]
-- [EqualX](http://equalx.sourceforge.net)  -图形LaTeX公式编辑器.  ！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
-- [ChkTeX](http://baruch.ev-en.org/proj/chktex/)  -用于LaTeX文档的Linter /代码检查器.  ！[foss] [foss]
-- [LaTeXEqEdit](http://latexeqedit.sourceforge.net/index.php)  -Windows的LaTeX公式编辑器.  ！[Windows] [windows]！[foss] [foss]
-- [Laeqed](https://www.thrysoee.dk/laeqed/)  -跨平台LaTeX公式到PNG转换器.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
-- [blacktex](https://github.com/nschloe/blacktex)  -命令行工具，可替换常见的LaTeX反模式并清理文件.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
+- [LaTeXiT](https://www.chachatelier.fr/latexit/)  -LaTeXit是一个方程式编辑器，可轻松将渲染的方程式（如PDF，PNG等）拖放到Mac上的非LaTeX文档中.  ！[苹果电脑]
+- [KLaTeXFormula](https://klatexformula.sourceforge.io)  -LaTeXit的跨平台替代方案.  ！[foss]
+- [EqualX](http://equalx.sourceforge.net)  -图形LaTeX公式编辑器.  ！[windows]！[linux]！[foss]
+- [ChkTeX](http://baruch.ev-en.org/proj/chktex/)  -用于LaTeX文档的Linter /代码检查器.  ！[foss]
+- [LaTeXEqEdit](http://latexeqedit.sourceforge.net/index.php)  -Windows的LaTeX公式编辑器.  ！[windows]！[foss]
+- [Laeqed](https://www.thrysoee.dk/laeqed/)  -跨平台LaTeX公式到PNG转换器.  ！[windows]！[linux]！[mac]！[foss]
+- [blacktex](https://github.com/nschloe/blacktex)  -命令行工具，可替换常见的LaTeX反模式并清理文件.  ！[windows]！[linux]！[mac]！[foss]
 
 ## LaTeX-compatible GUI tools
 
-- [TikzEdt](http://www.tikzedt.org) （还：  [GitHub repo](https://github.com/hchapman/tikzedt) ）-所见即所得和基于文本的TikZ图片编辑器.  ！[foss] [foss]
-- [TikZ-Editor](https://github.com/fredokun/TikZ-Editor)  -TikZ人物的实时预览编辑器.  ！[Mac] [Mac]！[Linux] [Linux]！[foss] [foss]
-- [IPE](http://ipe.otfried.org)  -可以与LaTeX命令和文档很好地集成的绘图工具.  ！[foss] [foss]
-- [GeoGebra](https://www.geogebra.org/cms/)  -跨平台几何工具，输出到TikZ.  ！[foss] [foss]
-- [Dia](https://wiki.gnome.org/Apps/Dia)  -可以导出到PSTricks和MetaPost代码的跨平台图表工具.  ！[foss] [foss]
-- [TikZiT](https://tikzit.github.io)  -使用PGF / TikZ创建图形和字符串图的GUI工具.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
+- [TikzEdt](http://www.tikzedt.org) （还： [GitHub repo](https://github.com/hchapman/tikzedt) ）-所见即所得和基于文本的TikZ图片编辑器.  ！[foss]
+- [TikZ-Editor](https://github.com/fredokun/TikZ-Editor)  -TikZ人物的实时预览编辑器.  ！[mac]！[linux]！[foss]
+- [IPE](http://ipe.otfried.org)  -可以与LaTeX命令和文档很好地集成的绘图工具.  ！[foss]
+- [GeoGebra](https://www.geogebra.org/cms/)  -跨平台几何工具，输出到TikZ.  ！[foss]
+- [Dia](https://wiki.gnome.org/Apps/Dia)  -可以导出到PSTricks和MetaPost代码的跨平台图表工具.  ！[foss]
+- [TikZiT](https://tikzit.GitHub.io)  -使用PGF / TikZ创建图形和字符串图的GUI工具.  ！[windows]！[linux]！[mac]！[foss]
 
 
 ## Packages
@@ -150,12 +150,12 @@ LaTeX编辑器的完整列表在以下位置收集 [tex.stackexchange.com](https
 
 ### References
 
-- [Cross-reference packages explained](https://tex.stackexchange.com/a/36312/9075) -详细说明交叉引用包（cleveref，varioref，theoremref，nameref等）：使用哪个，哪个冲突？
+- [Cross-reference packages explained](https://tex.stackexchange.com/a/36312/9075) -阐述交叉引用包（cleveref，varioref，theoremref，nameref等）：使用哪个，哪个冲突？
 
 ### Tables
 
-- [Excel2LaTeX](https://www.ctan.org/pkg/excel2latex?lang=en)  -Excel（2010及更早版本）宏，用于生成LaTeX“表格”代码.  ！[Windows] [windows]！[Mac] [mac]
-- [csv2latex](http://freshmeat.sourceforge.net/projects/csv2latex)  -将CSV文件从您喜欢的程序转换为LaTeX“表格”文件.  ！[Linux] [linux]！[Mac] [mac]
+- [Excel2LaTeX](https://www.ctan.org/pkg/excel2latex?lang=en)  -Excel（2010及更早版本）宏，用于生成LaTeX“表格”代码.  ！[windows]！[mac]
+- [csv2latex](http://freshmeat.sourceforge.net/projects/csv2latex)  -将CSV文件从您喜欢的程序转换为LaTeX“表格”文件.  ！[linux]！[mac]
 - [Tables Generator](https://www.tablesgenerator.com) -该网站提供了图形界面来输入您的表格，并为LaTeX，Markdown，HTML等生成格式正确的代码.
 - [pgfplotstable](https://www.ctan.org/pkg/pgfplotstable?lang=en)  -该软件包以各种显示格式显示数值表，四舍五入到所需的精度. 它甚至可以读取CSV文件以直接包含在您的LaTeX文档中.
 
@@ -171,13 +171,13 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 通常，使用pdflatex比PSTricks更容易.
 
 - [TeXample](http://www.texample.net) -有关LaTeX的博客，其中包含大量TikZ数据.
-- [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  -有用的网站，其中包含一些自定义软件包，可以使用TikZ绘制特殊图形（Bode，Nyquist，电气原理图，方框图等）. 请注意，所有内容均为法语.
+- [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  -有用的网站，其中包含一些自定义软件包，可以使用TikZ绘制特殊的图（Bode，Nyquist，电气原理图，方框图等）. 请注意，所有内容均为法语.
 - [tkz](http://altermundus.com/pages/tkz/index.html) -收集基于TikZ的软件包以绘制图表.
 - [pgfplots](http://pgfplots.sourceforge.net)  -在TikZ / pgf的基础上并以TikZ / pgf的样式提供了真正出色的绘图库. 该库可以加载CSV数据文件，执行一些计算并创建漂亮的图.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) -雅克·克雷默（JacquesCrémer）撰写的有关TikZ世界的简短介绍性文件.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) -收集由PetarVeličković出版的可用于PGF / TikZ的数字.
-- [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)  -将您的MATLAB图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
-- [tikzplotlib](https://github.com/nschloe/tikzplotlib)  -将您的matplotlib图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
+- [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)  -将您的MATLAB图转换为PGFPlots / TikZ.  ！[windows]！[linux]！[mac]！[foss]
+- [tikzplotlib](https://github.com/nschloe/tikzplotlib)  -将您的matplotlib图转换为PGFPlots / TikZ.  ！[windows]！[linux]！[mac]！[foss]
 
 ### Source Code
 
@@ -199,7 +199,7 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 ## Symbols
 
 - [Comprehensive LaTeX symbol list](https://www.ctan.org/tex-archive/info/symbols/comprehensive/)  -LaTeX的符号非常详尽的列表. 可用于 [A4](http://mirrors.ctan.org/info/symbols/comprehensive/symbols-a4.pdf) 和 [letter](http://mirrors.ctan.org/info/symbols/comprehensive/symbols-letter.pdf) 大小.
-- [Detexify](http://detexify.kirelabs.org/classify.html) -您绘制符号，此站点/应用程序将告诉您LaTeX命令.
+- [Detexify](http://detexify.kirelabs.org/classify.html) - You draw the symbol and this site/app will tell you the LaTeX command.
 
 ## Resources
 
@@ -214,7 +214,7 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 -德语： [Neue TeX FAQ](https://texfragen.de) -现代和更新的德语LaTeX常见问题解答.
 - [BibTeX Style Examples](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html) -常见BibTeX样式（BST文件）的示例输出.
 - [TeX World](http://tex.world/) -由TeX用户组，DANTE和GUTenberg支持的网站.
-- [TeXnique](https://texnique.xyz) -LaTeX排版游戏
+- [TeXnique](https://texnique.xyz) -LaTeX排版游戏.
 
 ## Showcases
 
@@ -250,7 +250,7 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 - [Twitter: @TeXtip](https://twitter.com/TeXtip) -有关（La）TeX的提示 [John D. Cook](https://www.johndcook.com/).
 - [TeX.StackExchange](https://tex.stackexchange.com) -StackExchange TeX部分.
 
----------------------------------------------------------------------------
+---
 
 <!-- Icons -->
 
@@ -263,13 +263,13 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 指示Mac，Linux和Windows兼容性的图标显示“仅*”程序适用于那些平台. 因此，如果没有这些图标，则表示该软件是完全跨平台的.
 
  | 徽标| 描述
-|:-------------------:|:-------------------------------------------------------|
- |  ！[Mac] [mac] | [Mac OS X](https://www.apple.com/osx/)                 |
- |  ！[Linux] [linux] | [GNU/Linux](https://www.gnu.org)                       |
- |  ！[Windows] [windows] | [Microsoft Windows](https://www.microsoft.com/windows) |
- |  [FOSS] [FOSS] | [Free Open-Source Software](https://opensource.org)    |
+|:-------------------:|:----------------------------------------------|
+ |  ！[mac] | [macOS](https://www.apple.com/osx/)                |
+ |  ！[linux] | [GNU/Linux](https://www.gnu.org)                     |
+ |  ！[windows] | [Microsoft Windows](https://www.microsoft.com/windows) |
+ |  ！[FOSS] | [Free Open-Source Software](https://opensource.org) |
 
----------------------------------------------------------------------------
+---
 
 所有商标均为其各自所有者的财产.
 

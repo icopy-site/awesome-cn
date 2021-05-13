@@ -167,7 +167,7 @@
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) -Gendarme将检查包含ECMA CIL格式（Mono和.NET）代码的程序和库.
 - [Infer#](https://github.com/microsoft/infersharp) - InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 - [NDepend](http://www.ndepend.com) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
-- [Puma Scan](https://pumasecurity.io) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 - [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) -与VS集成的基于Roslyn的静态分析器集合.
 - [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) -.NET编译器平台（“ Roslyn”）诊断分析器和代码修复.
@@ -279,7 +279,7 @@
 - [dogsled](https://github.com/alexkohler/dogsled) -查找带有太多空白标识符的分配/声明.
 - [dupl](https://github.com/mibk/dupl) -报告可能重复的代码.
 - [errcheck](https://github.com/kisielk/errcheck) -检查是否使用了错误返回值.
-- [errwrap](https://github.com/fatih/errwrap)  -使用新的％w动词指令包装并修复Go错误. 此工具分析fmt.Errorf（）调用并报告包含与Go v1.13中引入的新％w verb指令不同的verb指令的调用. 它还能够重写调用以使用新的％w wrap verb指令.
+- [errwrap](https://github.com/fatih/errwrap)  -使用新的％w动词指令包装并修复Go错误. 此工具会分析fmt.Errorf（）调用并报告包含与Go v1.13中引入的新％w谓词指令不同的谓词指令的调用. 它还能够重写调用以使用新的％w wrap verb指令.
 - [flen](https://github.com/lafolle/flen) -在Go软件包中获取有关函数长度的信息.
 - [go tool vet --shadow](https://golang.org/cmd/vet#hdr-Shadowed_variables) -报告可能被意外遮盖的变量.
 - [go vet](https://golang.org/cmd/vet) -检查Go源代码并报告可疑事件.
@@ -352,7 +352,7 @@
 - [JBMC](https://www.cprover.org/jbmc) -Java的有界模型检查器（字节码），验证用户定义的断言，标准断言和若干覆盖率度量分析.
 - [NullAway](https://github.com/uber/NullAway)  -具有低构建时间开销的基于类型的空指针检查器； 一个 [Error Prone](http://errorprone.info/) 插入.
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) -检查依赖项是否存在已知的，公开披露的漏洞.
-- [qulice](https://www.qulice.com) ：warning：-结合了一些（预配置）静态分析工具（checkstyle，PMD，Findbugs等）.
+- [qulice](https://www.qulice.com) ：warning：-组合了一些（预配置）静态分析工具（checkstyle，PMD，Findbugs等）.
 - [Soot](https://soot-oss.github.io/soot) -用于分析和转换Java和Android应用程序的框架.
 - [Spoon](http://spoon.gforge.inria.fr)  -Spoon是一个元编程库，用于分析和转换Java源代码（包括Java 9、10、11、12、13、14）. 它解析源文件以构建具有强大分析和转换API的精心设计的AST. 可以集成在Maven和Gradle中.
 - [SpotBugs](https://spotbugs.github.io)  -SpotBugs是FindBugs的继任者. 静态分析工具，用于查找Java代码中的错误.
@@ -423,7 +423,7 @@
 - [churn-php](https://github.com/bmitch/churn-php) -帮助发现良好的重构候选人.
 - [dephpend](https://github.com/mihaeu/dephpend) -依赖性分析工具.
 - [deprecation-detector](https://github.com/sensiolabs-de/deprecation-detector) -查找不推荐使用的（Symfony）代码的用法.
-- [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依赖性的规则.
+- [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依存关系的规则.
 - [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) -检测PHP代码中的设计模式.
 - [EasyCodingSt和ard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-和-php-cs-fixer-in-3-lines) - 结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 - [GrumPHP](https://github.com/phpro/grumphp) -每次提交时检查代码.
@@ -562,7 +562,7 @@
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html)  -基于Viper验证基础架构的Rust静态验证程序. 默认情况下，Prusti会通过证明unreachable！（）和panic！（）之类的语句不可访问来验证是否存在恐慌.
 - [Rust Language Server](https://github.com/rust-lang-nursery/rls) -支持“转到定义”，符号搜索，重新格式化和代码完成等功能，并支持重命名和重构.
 - [rust-analyzer](https://rust-analyzer.github.io) -支持“转到定义”，类型推断，符号搜索，重新格式化和代码完成等功能，并支持重命名和重构.
-- [rust-audit](https://github.com/Shnatsel/rust-audit)  -审核Rust二进制文件中的已知错误或安全漏洞. 通过将有关依赖关系树（Cargo.lock）的数据以JSON格式嵌入到已编译的可执行文件的专用链接器部分中，可以工作.
+- [rust-audit](https://github.com/Shnatsel/rust-audit)  -审核Rust二进制文件中的已知错误或安全漏洞. 通过将有关依赖关系树（Cargo.lock）的数据以JSON格式嵌入到已编译的可执行文件的专用链接器部分中，可以进行此操作.
 - [rustfix](https://github.com/rust-lang/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy提供的建议）提出的建议.
 - [rustfmt](https://github.com/rust-lang/rustfmt) -根据样式指南格式化Rust代码的工具.
 - [warnalyzer](https://github.com/est31/warnalyzer) -显示多箱Rust项目中未使用的代码
@@ -645,7 +645,7 @@
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  -找出占用可执行文件大部分空间的内容. 支持ELF（Linux，BSD），Mach-O（macOS）和PE（Windows）二进制文件.
 - [CAST Highlight](https://www.castsoftware.com/products/highlight) ：copyright：-在本地运行的商业静态代码分析，但是将结果上传到其云中进行演示.
 - [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing) ：copyright：-不需要预编译的商业静态代码分析.
-- [ciocheck](https://github.com/ContinuumIO/ciocheck)  ：warning：-Linter，格式化程序和测试套件帮助器. 作为短绒棉，它是围绕“ pep8”，“ pydocstyle”，“ flake8”和“ pylint”的包装纸.
+- [ciocheck](https://github.com/ContinuumIO/ciocheck)  ：warning：-Linter，格式化程序和测试套件帮助器. 作为短绒棉，它是包裹在“ pep8”，“ pydocstyle”，“ flake8”和“ pylint”周围的包装纸.
 - [ClassGraph](https://github.com/classgraph/classgraph) -用于查询或可视化类元数据或类相关性的类路径和模块路径扫描程序.
 - [Clayton](https://www.getclayton.com/)  ：copyright：-适用于Salesforce的基于AI的代码审查. 确保您的开发，执行最佳实践并实时控制您的技术债务.
 - [coala](https://coala.io) -用于创建代码分析的语言独立框架-支持 [over 60 languages](https://coala.io/languages) 默认.
@@ -665,7 +665,7 @@
 - [CodeRush](https://www.devexpress.com/products/coderush) ：copyright：-使用Visual Studio 2015及更高版本中的Roslyn引擎的代码创建，调试，导航，重构，分析和可视化工具.
 - [CodeScan](https://www.codescan.io/)  ：copyright：-适用于Salesforce开发人员的代码质量和安全性.  CodeScan的代码分析解决方案专为Salesforce平台而设计，可为您提供代码运行状况的全面可见性.
 - [CodeScene](https://codescene.com)  ：copyright：-CodeScene是用于软件的高质量可视化工具. 优先考虑技术债务，检测交付风险并衡量组织方面. 完全自动化.
-- [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) ：copyright：-高级，整个程序，深层路径，对C和C ++的静态分析以及易于理解的说明以及代码和路径可视化.
+- [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) :copyright: - Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 - [Corrode](https://github.com/jameysharp/corrode)  ：warning：-从C到Rust的半自动翻译. 通过显示Rust编译器警告和错误，可以揭示原始实现中的错误. 被C2Rust取代.
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 - [cqc](https://github.com/xcatliu/cqc) ：warning：-检查js，jsx，vue，css，less，scss，sass和styl文件的代码质量.
@@ -689,7 +689,7 @@
 - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) ：copyright：-商业静态代码分析.
 - [Hopper](https://github.com/cuplv/hopper) ：warning：-用scala编写的针对JVM上运行的语言的静态分析工具.
 - [Hound CI](https://houndci.com) - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
-- [imhotep](https://github.com/justinabrahms/imhotep) ：warning：-评论进入您的存储库的提交，并检查语法错误和常规的掉毛警告.
+- [imhotep](https://github.com/justinabrahms/imhotep) ：warning：-评论进入存储库的提交，并检查语法错误和常规的掉毛警告.
 - [include-gardener](https://github.com/feddischson/include_gardener) :warning: - A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 - [Infer](https://fbinfer.com) -用于Java，C和Objective-C的静态分析器
 - [InsiderSec](https://insidersec.io) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
@@ -702,8 +702,8 @@
 - [multilint](https://github.com/adamchainz/multilint) -围绕着“ flake8”，“ isort”和“ modernize”的包装器.
 - [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查.
 - [NodeJSScan](https://opensecurity.in)  -基于libsast和semgrep的Node.js应用程序的静态安全代码扫描程序，它基于njsscan cli工具构建. 它具有一个UI，其中包含有关应用程序安全状态的各种仪表板.
-- [oclint](http://oclint.org) -静态源代码分析工具，可提高质量并减少C，C ++和Objective-C的缺陷.
-- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互式地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析人员能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
+- [oclint](http://oclint.org) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷.
+- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析人员能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
 - [parasoft](https://www.parasoft.com/)  ：copyright：-用于单元，API和Web UI测试的自动化软件测试解决方案. 符合MISRA，OWASP等.
 - [pfff](https://github.com/facebookarchive/pfff/wiki/Main) -Facebook的工具，用于多种语言的代码分析，可视化或保留样式的源转换.
 - [PMD](https://pmd.github.io) -Java，Salesforce Apex，Javascript，PLSQL，XML，XSL等的源代码分析器.
@@ -740,7 +740,7 @@
 - [SonarLint for Visual Studio](https://vs.sonarlint.org) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供实时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
 - [SonarQube](http://www.sonarqube.org) -SonarQube是管理代码质量的开放平台.
 - [Sonatype](https://www.sonatype.com) ：copyright：-报告常见依赖项中的已知漏洞，并建议更新软件包以最大程度地减少重大更改
-- [Soto Platform](https://www.hello2morrow.com/products/sotograph)  ：copyright：-静态分析工具套件，由Sotoarc（架构分析），Sotograph（质量分析）和Sotoreport（质量报告）三个组件组成. 帮助发现架构与实现之间的差异，违反接口的行为（例如，对子系统私有部分的外部访问，对所有类，文件，程序包和子系统的检测，它们之间存在周期性关系等）Sotograph产品系列可在Windows和Linux上运行. 
+- [Soto Platform](https://www.hello2morrow.com/products/sotograph)  ：copyright：-静态分析工具套件，由Sotoarc（架构分析），Sotograph（质量分析）和Sotoreport（质量报告）三个组件组成. 帮助发现架构与实现之间的差异，违反接口的行为（例如，对子系统私有部分的外部访问，对所有类，文件，程序包和子系统的检测，它们之间存在周期性关系等）Sotograph产品系列在Windows和Linux上运行. 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: - Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [standard](http://standardjs.com) -一个npm模块，用于检查Javascript样式指南问题.
 - [Super-Linter](https://github.com/github/super-linter) -结合了多个linter，以作为GitHub Action安装.
@@ -852,7 +852,7 @@
 - [collector](https://github.com/banyanops/collector) ：warning：-在容器内运行任意脚本，并收集有用的信息.
 - [dagda](https://github.com/eliasgranderubio/dagda) -对Docker映像/容器中的已知漏洞执行静态分析.
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) ：warning：-整理和验证Dockerfile标签.
-- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践的Docker映像.
+- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更加智能的Dockerfile文件管理器，可帮助您构建最佳实践Docker映像.
 - [kics](https://kics.io/)  -在“基础架构即代码”中查找安全漏洞，合规性问题和基础架构配置错误. 支持Terraform，Kubernetes，Docker，AWS CloudFormation和Ansible
 - [kube-score](https://kube-score.com) -Kubernetes对象定义的静态代码分析.
 - [KubeLinter](https://github.com/stackrox/kube-linter) -KubeLinter是一个静态分析工具，用于检查Kubernetes YAML文件和Helm图表，以确保其中表示的应用程序遵循最佳实践.
@@ -881,7 +881,7 @@
 
 - [Bootlint](https://github.com/twbs/bootlint) -用于Bootstrap项目的HTML linter.
 - [grunt-bootlint](https://github.com/twbs/grunt-bootlint) -用于的Grunt包装器 [Bootlint](https://github.com/twbs/bootlint)，用于Bootstrap项目的HTML linter.
-- [gulp-bootlint](https://github.com/tschortsch/gulp-bootlint) ：warning：-的gulp包装器 [Bootlint](https://github.com/twbs/bootlint)，用于Bootstrap项目的HTML linter.
+- [gulp-bootlint](https://github.com/tschortsch/gulp-bootlint) -用于的大包装 [Bootlint](https://github.com/twbs/bootlint)，用于Bootstrap项目的HTML linter.
 - [HTML Inspector](https://github.com/philipwalton/html-inspector) ：警告：-HTML Inspector是一种代码质量工具，可帮助您和您的团队编写更好的标记.
 - [HTML Tidy](http://www.html-tidy.org) -通过修复标记错误并将旧代码升级为现代标准来纠正和清理HTML和XML文档.
 - [HTMLHint](https://htmlhint.com) -用于HTML的静态代码分析工具.
@@ -961,7 +961,7 @@
 - [PT Application Inspector](https://www.parasoft.com/)  ：copyright：-识别代码缺陷并检测漏洞以防止Web攻击. 通过展示可能的利用来演示远程代码执行.
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) ：copyright：-容器本机应用程序保护，以提供对容器化应用程序的可见性和控制.
 - [tfsec](https://github.com/tfsec/tfsec)  -Terraform静态分析工具，可通过在构建时检查云配置错误来防止潜在的安全问题，并直接与HCL解析器集成以获得更好的结果. 检查是否违反了AWS，Azure和GCP安全最佳实践建议.
-- [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  -带有可扩展插件系统的通用网络安全扫描程序，用于以高置信度检测高严重性的类似于RCE的漏洞. 可以添加用于发现漏洞的自定义检测器（例如，开放的API）.
+- [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  -带有可扩展插件系统的通用网络安全扫描程序，用于以高置信度检测类似RCE的高严重性漏洞. 可以添加用于发现漏洞的自定义检测器（例如，开放的API）.
 
 
 <h2 id="smart-contracts">智能合约</h2>
