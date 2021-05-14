@@ -35,7 +35,7 @@
 
 ## Programming in general
 
-有很多编程语言. 在本部分中，您可以找到任何编程语言，包括Python，C，Java. 此外，许多YouTube工作者都讲授这些语言的框架. 不仅是编程语言，而且还有更通用的编程内容. 您可以找到实用教程或理论教程.
+有很多编程语言. 在本部分中，您可以找到任何编程语言，包括Python，C，Java. 此外，许多YouTube工作者都讲授这些语言的框架. 不仅编程语言，而且还有更多通用的编程内容. 您可以找到实用教程或理论教程.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAyCZGleVpp_e-jurqWYsH-6Q4rZaKVeareXRK7A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWithTim)
 
@@ -342,7 +342,7 @@ Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotl
 
 ## Web development
 
- Web开发包括前端开发：最基本的（HTML，CSS和JavaScript）以及最现代的框架（React.js，Vue.js，Angular）. 它还包括后端开发主题，例如Node.js，GraphQL，SQL以及更基本的东西，例如DNS，URL，部署. 您还可以找到以网站开发人员的身份从事自由职业以及其他相关工作.
+ Web开发包括前端开发：最基本的（HTML，CSS和JavaScript）以及最现代的框架（React.js，Vue.js，Angular）. 它还包括后端开发主题，例如Node.js，GraphQL，SQL以及更基本的东西，例如DNS，URL，部署. 您还可以找到以Web开发人员身份从事自由职业的人员以及其他相关人员.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
@@ -458,7 +458,7 @@ Featured playlists: `Learn JavaScript`, `Master React.js by Building Real Projec
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
 
 [**LevelUpTuts**](https://www.youtube.com/c/LevelUpTuts) \
-内容有关：前端，Web设计，CMS \
+内容有关：前端，网页设计，CMS \
 特色播放列表：“设计教程播放列表”，“ CMS教程播放列表”，“ HTML和CSS教程”，“ React.js视频”等等.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymy6xr9_W7GTkPW1ov2OyxzvNCOE-ff1d7VK36Cg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/programmingwithmosh)
@@ -667,6 +667,13 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 内容有关：C / C ++语言，数据结构，算法\
 特色播放列表：“排序算法”，“数据结构”，“ C / C ++中的指针”，“通过C编程简介”.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnghnfeWSkURz0encxxAgmx5r-vl2jDviqvmYcC3=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GaryExplains)
+
+[**Gary Explains**](https://www.youtube.com/c/GaryExplains) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+内容关于：概念，理论\
+特色播放列表：“ Raspberry Pi”，“微控制器”，“编程”，“ Linux”，“更多！”.  \
+<br/>
+
 
 ## Machine learning
 
@@ -859,7 +866,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**CodeCommand**](https://www.youtube.com/c/CodeCommand) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：道德黑客，安全性\
-特色播放列表：“网络安全-渗透测试课程（进攻性安全）”，“ Kali Linux教程| 渗透测试方法|`.
+特色播放列表：“网络安全-渗透测试课程（攻击性安全）”，“ Kali Linux教程| 渗透测试方法|`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx0I11HLzaCk0XKTy0lF5w7Na4AO_0pxVjc8zkIHg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LiveOverflowCTF)
 
@@ -929,7 +936,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 ## Software in general
 
-此类别中列出的YouTuber可能不是编程教程或很酷的设计卡，但每天都会为每个人使用其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
+此类别中列出的YouTuber可能不是编程教程或很酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 

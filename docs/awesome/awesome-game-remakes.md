@@ -17,6 +17,7 @@
 - [OpenLara](https://github.com/XProger/OpenLara) -经典古墓丽影开源引擎.
 - [OpenMB](https://github.com/cookgreen/OpenMB) -Taleworlds的Mount＆Blade系列的角色扮演游戏引擎.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) -具有现代更新，功能和增添功能的原始古墓丽影1-5体验.
+- [re3](https://github.com/td512/re3) -GTA III和GTA的反向源代码：Vice City.
 - [remc2](https://github.com/turican0/remc2) -来自Assembler的Magic Carpet 2的逆向工程.
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) -用C ++重新实现经典的DOS游戏Duke Nukem II.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) -重新实现GTA：Unity中的San Andreas游戏引擎.
@@ -41,7 +42,7 @@
 
 ## FPS
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) -效忠是RTS和FPS太空战斗游戏.
-- [BStone](https://github.com/bibendovsky/bstone) -布雷克·斯通（Blake Stone）：《黄金异形》和布雷克·斯通：Planet Strike的原始港口.
+- [BStone](https://github.com/bibendovsky/bstone) -布雷克·斯通（Blake Stone）：《黄金异形》和布雷克·斯通（Blake Stone：Planet Strike）的原始港口.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) -Catacomb 3D和Catacomb Adventure系列的Windows源端口.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) -源端口是极简主义的，在历史上是准确的，包括异端和赫克森的端口以及Strife.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) -最受欢迎的DOOM源端口之一，可通过TCP / IP网络，OpenGL渲染器等功能对其进行增强.
@@ -68,7 +69,7 @@
 
 ## Online
 - [2006rebotted](https://github.com/dginovker/2006rebotted) -2006 Runescape仿真服务器.
-- [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
+- [FreeSO](https://github.com/riperiperi/FreeSO) -重新实现《模拟人生在线》，主要针对移动设备.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) -第一个3D MMORPG，于1996年发布，于2012年开源.Meridian59的原始代码库.
 - [Opengate](https://sourceforge.net/projects/opengate/) -重制Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) -开源旧式RuneScape客户端.
@@ -126,14 +127,14 @@
 
 ## Strategy
 - [Antares](https://github.com/arescentral/antares) -重制战神战神，这是一种战术太空战斗游戏.
-- [CivOne](https://github.com/SWY1985/CivOne) -实施西德·迈尔（Sid Meier）文明.
+- [CivOne](https://github.com/SWY1985/CivOne) -实施西德·迈尔（Sid Meier）的文明.
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) -主题医院的克隆，支持现代操作系统，高分辨率等.
 - [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) -由社区推动的努力，以继续开发Cortex Command.
 - [FreeCol](https://sourceforge.net/projects/freecol/) -基于回合制策略游戏，基于旧版游戏《殖民》.
 - [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) -使《铁血联盟2》可在多种平台上使用.
 - [Julius](https://github.com/bvschaik/julius) -重新实现凯撒三世.
 - [KaM Remake](https://github.com/Kromster80/kam_remake) -从零开始用Delphi编写的骑士和商人的RTS游戏重制.
-- [KeeperRL](https://github.com/miki151/keeperrl) -受矮人要塞启发的Roguelike地牢建造者.
+- [KeeperRL](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 - [openage](https://github.com/SFTtech/openage) -帝国时代II引擎克隆.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) -重建X-COM：启示录引擎.
 - [openblack](https://github.com/openblack/openblack) -重新实现黑白.

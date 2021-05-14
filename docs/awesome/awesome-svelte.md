@@ -53,9 +53,11 @@
 - [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) -MDN网络文档.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) -斯维尔特学校.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) -网络忍者（YouTube）.
+- [Sapper Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ) -网络忍者（YouTube）.
 - [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) -SpinSpire（YouTube）.
 - [Svelte Stores](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK) -@lihautan（YouTube）.
 - [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) -@lihautan（YouTube）.
+- [Svelte 101](https://www.youtube.com/hashtag/svelte101) -@lihautan（YouTube）.
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) -RadDevon.
 
 ### Studies
@@ -98,7 +100,8 @@ _表和数据网格.
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) -Svelte的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) -允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) -具有CRUD功能的对象数组的不可知Web组件.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  -具有CRUD功能的对象数组的不可知Web组件. 排序和调整列的大小. 每页多个表.
+- [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) -带分页器的苗条通用挤压桌.
 
 #### Notification
 
@@ -221,6 +224,7 @@ _整理代码并设置其格式._
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) -用于组件的ESLint插件.
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) -使用更漂亮的格式来格式化您的组件.
 - [svelte-check](https://www.npmjs.com/package/svelte-check) -检查您的代码.
+- [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) -使用AST的Svelte的ESLint插件.
 
 ### Docs
 

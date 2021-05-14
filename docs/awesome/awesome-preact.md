@@ -18,7 +18,7 @@
 
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) -在几秒钟内构建一个Preact Progressive Web App.
-- [Vite](https://github.com/vitejs/vite) -用于Preact，Vue或React的快速本地ESM驱动的Web开发构建工具.
+- [Vite](https://github.com/vitejs/vite) -用于Preact，Vue或React的快速本机ESM驱动的Web开发构建工具.
 - [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact进行快速开发.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired) -结合使用Preact和create-react-app而不弹出.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) -它会删除Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
@@ -83,6 +83,7 @@
 - [Preact Dock](https://github.com/TimDaub/preact-touchable-dock) -适用于Preact应用程序的简单DnD和启用触摸功能的Dock.
 - [Preact Particles](https://github.com/matteobruni/tsparticles#preact) -轻巧的组件，可轻松将酷炫的粒子动画添加到网站.
 - [Pant](https://github.com/webyom/pant) -基于Preact *（[docs and demos](https://webyom.github.io/pant) ）*. 从Vue的出色Vue组件移植而来 [Vant](https://github.com/youzan/vant).
+- [Preact Transitioning](https://github.com/fakundo/preact-transitioning) -公开Preact组件，可轻松实现基本的CSS动画和过渡.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) -基于Redux的轻量级状态容器，具有单个存储且没有reducer.
@@ -116,11 +117,11 @@
 - [Hueify](https://github.com/kvartborg/hueify) -飞利浦色相灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) -足球数据mnmlist方式.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) -使用Preact和PouchDB构建的渐进式Web应用程序.
-- [Code and Comment](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
+- [Code and Comment](https://github.com/code-and-comment/code-and-comment) -将评论添加到Github中的文件的应用程序（[demo](https://code-and-comment.github.io/code-and-comment/)).
 - [**Play.cash**](https://play.cash) ：notes：_（[GitHub Project](https://github.com/feross/play.cash))_
 - [**Songsterr**](https://www.songsterr.com)  从10.0 alpha开始在生产中使用Preact X
 - [**BitMidi**](https://bitmidi.com/)  免费MIDI文件_（的Wayback机[GitHub Project](https://github.com/feross/bitmidi.com))_
-- [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact提高了速度.
+- [**Ultimate Guitar**](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
 - [**ESBench**](http://esbench.com) 是使用Preact构建的.
 - [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
 - [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
