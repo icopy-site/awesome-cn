@@ -20,7 +20,7 @@
 
 <img src="http://www.golang-book.com/public/img/intro/cover.4194045234.png" width="120px"/>
 
-本书是对使用Go语言进行计算机编程的简短简要介绍.  Go由Google设计，是一种通用的编程语言，具有现代功能，简洁的语法和功能强大的文档齐全的通用库，使其成为学习第一门编程语言的理想语言.
+This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
 这本书是免费 [read online](http://www.golang-book.com/) 或者 [pdf f或者m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
@@ -28,7 +28,7 @@
 
 <img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>
 
-这本随书包含最初专门为此活动编写的材料，以及Google＆Go团队在知识共享署名3.0许可下的内容，以及在BSD许可下获得许可的代码.
+这本随书包含最初专门为此活动编写的材料，以及Google＆Go团队在知识共享署名3.0许可下的内容以及在BSD许可下许可的代码.
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
@@ -66,7 +66,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
- 使用Go编程可以将您评估Go，使用Go进行思考以及使用Go编写高性能软件所需的全部知识汇总在一起. 萨默菲尔德（Summerfield）进行了多个成语比较，以确切说明Go如何改进旧语言，并特别注意Go的关键创新. 在此过程中，他解释了从绝对基础到Go的无锁基于通道的并发以及它灵活而又不寻常的“鸭式”类型安全的面向对象方法的所有内容.
+ 使用Go编程可以将您评估Go，使用Go进行思考以及使用Go编写高性能软件所需的全部知识汇总在一起. 萨默菲尔德（Summerfield）提供了多个成语比较，以准确显示Go如何改进旧语言，并特别注意Go的关键创新. 在此过程中，他解释了从绝对基础到Go的无锁基于通道的并发以及它灵活而又不寻常的“鸭式”类型安全的面向对象方法的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -75,7 +75,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 * Go编程语言*是任何语言的权威资源
 想学习Go的程序员.
-艾伦·AA·多诺万（Alan AA Donovan）和布莱恩·W·克尼根（Brian W.Kernighan）向您展示如何书写清晰
+Alan A. A. Donovan and Brian W. Kernighan show you how to write clear
 和惯用的去解决现实世界中的问题.
 该书不假定您具有Go的先验知识或经验.
 任何特定的语言，因此无论您是否
@@ -92,7 +92,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <a href="http://shop.oreilly.com/product/0636920046516.do"><img src="http://akamaicovers.oreilly.com/images/0636920046516/lrg.jpg" width="120px"/></a>
 
-本动手指南非常适合熟悉编程基础知识的初学者，它简单介绍了Google的通用编程语言Go. 作者Caleb Doxsey在每一章中都提供了分步说明和练习，以介绍该语言的核心功能，以帮助您练习所学知识.
+本动手指南非常适合熟悉编程基础知识的初学者，它简单介绍了Google的通用编程语言Go. 作者Caleb Doxsey在每一章中都提供了分步说明和练习，以介绍该语言的核心功能，以帮助您练习所学的知识.
 
 ### [Get Programming with Go](https://www.manning.com/books/get-programming-with-go?utm_source=nathany&utm_medium=affiliate&utm_campaign=book_youngman_get_9_17_18&a_aid=nathany&a_bid=53f68821)
 
@@ -150,19 +150,29 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 本书的主要目标是帮助开发人员避免常见错误，同时通过“动手方法”学习新的编程语言. 本书提供了有关“如何安全地执行此操作”的详细信息，显示了在开发过程中可能会出现什么样的安全性问题.
 
+### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
+
+<a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.png" width="120px"/></a>
+
+《与域一起去》是一本有关构建可以以惯用方式解决复杂问题的Go应用程序的书.
+它具有域驱动设计，简洁架构，CQRS（命令查询责任隔离）和其他模式之类的技术.
+
+这本书是根据 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+本章将对项目进行重构，以显示常见的反模式以及如何避免它们.
+
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
 
 深入研究网络体系结构和Go中的关键主题，例如数据序列化，应用程序级别协议，字符集和编码. 本书涵盖了网络体系结构，并概述了Go语言作为入门知识，涵盖了最新的Go版本.
 
-除了基础知识之外，Go的网络编程还涵盖了关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
+除了基础知识外，Go的网络编程还涵盖了关键的网络和安全问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
 
-This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
+本书将带您了解并发的历史，Go的使用方式，Go与其他语言的不同之处以及Go并发核心的功能和结构. 本书的每一步，都将提供真实，可用的示例，并详细说明所使用的方法. 最终，您将在Go中设计一个安全，数据一致，高性能的并发应用程序感到自在.
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
@@ -206,7 +216,7 @@ This book will take you through the history of concurrency, how Go utilizes it, 
 
 Go中的动手依赖注入为您带来了一段旅程，教会您如何使用Go中可用的各种方法重构现有代码以采用依赖注入（DI）.
 
-本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，而另一些是非常规的，例如即时注入或配置注入. 每种方法都会详细说明，重点在于它们的优点和缺点，然后逐步说明如何应用该方法. 通过大量示例，您将学习如何利用DI将代码转换为简单灵活的代码.
+本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，而另一些是非常规的，例如即时注入或配置注入. 每种方法都将详细说明，重点在于它们的优点和缺点，然后逐步说明如何应用该方法. 通过大量示例，您将学习如何利用DI将代码转换为简单灵活的代码.
 
 Go中的动手依赖注入采用务实的方法，并着重于代码，用户体验以及如何通过增量更改获得长期利益.
 
@@ -255,13 +265,13 @@ This book will take you through the most important aspects of designing, buildin
 
 本书为您提供了在Web应用程序中使用Go所需的全部功能. 您将学习基本概念-语言结构，标准库和Go工具-然后处理并发概念，测试方法和包结构等更高级的功能.
 
-在每个步骤中，您都会获得有关在Go中进行更好的编码的建议. 您将看到如何构建项目，如何有效地使用并发以及进行测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
+在每个步骤中，您都会获得有关在Go中进行更好的编码的建议. 您将看到如何构建项目，如何有效地使用并发性以及测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
 <img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
- Go Web编程教您如何使用现代设计原理在Go中构建Web应用程序. 您将通过大量示例来介绍一些核心概念，例如处理请求和发送响应，模板引擎和数据持久性. 您还将深入探讨更高级的主题，例如并发，Web应用程序测试以及将其部署到准系统服务器和PaaS提供程序.
+ Go Web编程教您如何使用现代设计原理在Go中构建Web应用程序. 您将通过大量示例来介绍一些核心概念，例如处理请求和发送响应，模板引擎和数据持久性. 您还将深入研究更高级的主题，例如并发，Web应用程序测试以及将其部署到准系统服务器和PaaS提供程序.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796)
 
@@ -329,9 +339,9 @@ This book will take you through the most important aspects of designing, buildin
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51qLY7bIGAL._SX403_BO1,204,203,200_.jpg" width="120px"/>
 
-本书面向希望将Go知识提升到更高水平的业余和中级Go程序员，以及希望学习Go而又无需再次学习`for`循环的工作原理的其他编程语言的资深开发人员.
+本书面向希望将Go知识提升到更高水平的业余和中级Go程序员，以及希望学习Go而又无需再次学习`for`循环的工作原理的其他编程语言中经验丰富的开发人员.
 
-该书介绍了相对较小但完整的Go程序，这些程序说明了所介绍的概念. 这有两个主要优点：首先，当您尝试学习一种技术时，您不必查看无尽的代码清单；其次，您可以在创建自己的应用程序和实用程序时将此代码用作起点.
+该书介绍了相对较小但完整的Go程序，这些程序说明了所介绍的概念. 这有两个主要优点：首先，您在尝试学习一种技术时不必查看无休止的代码清单；其次，您可以在创建自己的应用程序和实用程序时将此代码用作起点.
 
 Resources
 ====

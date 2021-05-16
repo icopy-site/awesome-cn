@@ -100,19 +100,20 @@
 也可以看看 [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [Bane](https://github.com/genuinetools/bane) -用于Docker容器的自定义更好的AppArmor配置文件生成器.
-- [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
+- [BlackBox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
 - [Cilium](https://cilium.io/) -开源软件，用于透明地保护使用Linux容器管理平台（如Docker和Kubernetes）部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就好像是数据一样，从而发现整个代码库中的漏洞.
 - [DefectDojo](https://www.defectdojo.org/) -为DevOps和持续安全集成而构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) -在日常连续集成过程中的Pentest应用程序会构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
-- [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式的加密文件的编辑器，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
+- [SOPS](https://github.com/mozilla/sops) -加密文件的编辑器，该文件支持YAML，JSON，ENV，INI和二进制格式，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
 - [Snyk](https://snyk.io/) -查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动测试过程中提供详细的报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) -适用于容器和其他工件的简单而全面的漏洞扫描程序，适用于连续集成管道.
 - [Vault](https://www.vaultproject.io/) -用于通过统一界面安全访问机密（例如API密钥，密码或证书）的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  -git中的透明文件加密； 您选择保护的文件在提交时会加密，而在签出时会解密.
+- [helm-secrets](https://github.com/jkroepke/helm-secrets) -Helm插件，可帮助管理Git工作流程中的秘密并将其存储在任何位置，并由SOPS支持.
 
 ### Application or Binary Hardening
 
@@ -278,8 +279,8 @@
 
 也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
-- [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
-- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
+- [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
+- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户蜂拥而至.
 - [Nagios](https://nagios.org) -流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) -免费且功能丰富的网络监视系统，支持多种配置，多种警报机制（电子邮件，XMPP，SMS）以及多种数据收集方法（SNMP，HTTP，JDBC等）.
 - [osquery](https://github.com/facebook/osquery) -适用于macOS，Windows和Linux的操作系统检测框架，将操作系统公开为可以使用类似SQL的语法查询的高性能关系数据库.

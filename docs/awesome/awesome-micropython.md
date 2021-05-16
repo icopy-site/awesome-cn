@@ -312,6 +312,7 @@
 * [ADS7818](https://github.com/robert-hh/ADS7818) -与ADS7818 AD转换器接口的Python类.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) -适用于德州仪器（TI）ADS1219 ADC的MicroPython模块.
 * [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) -用于HX711 24位模数转换器的MicroPython驱动程序.
+* [MicroPython-ADC_Cal](https://github.com/matthias-bs/MicroPython-ADC_Cal) -ESP32 ADC驱动器使用来自漏电的参考电压校准值.
 
 #### DAC
 
@@ -534,7 +535,7 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
@@ -581,7 +582,7 @@
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) -用于MicroPython的基于命令行的简单外壳.
-* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) -小型板载编辑器，用于用Python编写的PyBoard，WiPy，ESP8266，ESP32，PyCom和Adafruit设备.
+* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) -适用于以Python编写的PyBoard，WiPy，ESP8266，ESP32，PyCom和Adafruit设备的小型机载编辑器.
 
 #### On Host
 

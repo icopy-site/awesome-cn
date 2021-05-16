@@ -49,7 +49,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
@@ -76,7 +76,7 @@
 ### Books
 
 - [epr](https://github.com/wustho/epr) -epub阅读器.
-- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - 圣经.
 - [SpeedRead](https://github.com/sunsations/speed_read) -类似于Spritz的Speedreader.
 
 ## Development
@@ -85,7 +85,7 @@
 - [cgasm](https://github.com/bnagy/cgasm) -提供x86汇编文档.
 - [legit](https://github.com/captainsafia/legit) -生成开放源代码许可证作为文件或文件头.
 - [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义LICENSE文件.
-- [rebound](https://github.com/shobrook/rebound) -当您遇到编译器错误时，获取堆栈溢出会在您的终端中产生.
+- [rebound](https://github.com/shobrook/rebound) -当您遇到编译器错误时，Fetch Stack Overflow将在您的终端中显示.
 - [grip](https://github.com/joeyespo/grip) -在提交之前预览具有GitHub样式的markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -ncurses中的基本转换和位操纵器.
 - [foy](https://github.com/zaaack/foy) -轻量级通用任务运行器/构建工具.
@@ -133,6 +133,7 @@
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
 - [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
 - [iredis](https://github.com/laixintao/iredis) -具有自动完成功能和语法突出显示功能的Redis客户端.
+- [usql](https://github.com/xo/usql) -具有自动完成功能和语法突出显示功能的通用SQL客户端.
 
 ### Devops
 
@@ -393,7 +394,7 @@
 - [ffsend](https://github.com/timvisee/ffsend) -的功能齐全的CLI [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) –流洪流客户端.
 - [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
-- [google-drive-upload](https://github.com/labbots/google-drive-upload) -上传/与Google云端硬盘同步.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
 - [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) -从Google云端硬盘下载文件/文件夹.
 - [entr](https://github.com/eradman/entr) -文件更改时运行任意命令.
 
@@ -410,7 +411,7 @@
 - [fasd](https://github.com/clvv/fasd) -命令行生产力增强器，受自动跳转，z和v的启发，提供了对文件和目录的快速访问.
 - [pm](https://github.com/Angelmmiguel/pm) -在Shell上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) -z是新的j，哟.
-- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker将为您提供一个不错的UI，以选择您感兴趣的文件.
+- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker为您提供了一个不错的UI，可以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成.
 - [goto](https://github.com/iridakos/goto) -具有自动完成功能的Shell的目录别名.
 - [z.lua](https://github.com/skywind3000/z.lua) -`cd`命令，可以学习您的习惯.
