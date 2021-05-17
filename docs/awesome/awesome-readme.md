@@ -19,7 +19,7 @@
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  -项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  -徽章，干净清晰. 折叠上方的漂亮小菜单，包含有用的链接. 其中的FAQ是主要问题. 支持者. 好的语言.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  -清洁项目徽标. 有用的标志（版本，代码样式，测试封面，文档）. 快速入门，易懂的安装和使用手册，视频截屏视频，具有充分记录的项目功能的ToC（在终端中演示演示记录），清晰的自述文件，项目哲学注释（“为什么要这样”），最常见的问题，和更多.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) -徽章，徽标，TOC等.它是一篇关于技术，如何使用它，其背后的哲学以及如何适应更大的生态系统的，写得很好的文章，因此脱颖而出.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  -使用GIF屏幕截图清除自述文件，以进行快速演示. 多个徽章，简洁的目录，在线游乐场，故事书，详细说明等.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme)  -项目横幅和徽标. 徽章. 可扩展的演练部分. 简明扼要的描述和目的.  TOC便于导航. 用于安装演示的GIF. 多种内容丰富的视觉效果.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme)  -TOC便于导航. 简洁的项目描述. 安装和使用部分. 输出示例. 很棒的功能概述. 替代品列表. 常问问题.
@@ -41,6 +41,7 @@
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme)  -项目徽标.  GIF演示. 用法图稿. 使用代码示例.
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) -多个徽章，项目徽标，屏幕截图，分步安装和升级说明以及便于导航的目录.
 - [PostHog/posthog](https://github.com/PostHog/posthog#readme) -定制部分的图标，演示GIF，部署按钮，供稿者使用的头像，简洁明了的结构，项目徽标.
+- [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  -TOC便于导航. 明确介绍该项目的用途. 存储库中所有文件的完整列表以及它们的功能. 使用情况部分. 干净简洁的桌子.
 - [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme)  -动态统计. 黑色和白色的主题. 抛光的布局. 快速，可略读的表格，包括文稿和当前项目. 将技术徽章链接到家庭网站. 图像中的秘密隐写术.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) -项目徽标，代表主要思想的漫画，徽章，带有代码片段的示例，演示项目，api文档，编辑器配置.
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  -GIF演示. 多个徽章. 功能列表. 精彩的现场演示和代码示例. 易于遵循的本地开发说明.
@@ -49,10 +50,10 @@
 - [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  -GIF演示. 带有屏幕截图的简单安装和设置部分. 制作徽章. 用例的好例子.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  -清洁项目徽标. 顶部简要说明.  Sankey图，快速链接，徽章，特定于操作系统的图标，目录，详细的发行变更日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  -项目徽标. 制作徽章. 多种编程语言的文档结构. 用法示例.
-- [shama/gaze](https://github.com/shama/gaze#readme)  -项目徽标. 简明扼要的描述. 功能列表. 使用情况部分. 常问问题. 很棒的API文档. 发行历史.
+- [shama/gaze](https://github.com/shama/gaze#readme) <i>- Project logo.</i> <b>-项目徽标。</b> <i>Concise description.</i><b>简明扼要的描述。</b> <i>Feature list.</i><b>功能列表。</b> <i>Usage section.</i><b>使用情况部分。</b> <i>FAQ.</i><b>常问问题。</b> <i>Great API documentation.</i><b>很棒的API文档。</b> <i>Release history.</i><b>发行历史。</b>
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme)  - 概述. 所需依赖项列表. 存储库中所有文件的完整列表以及它们的功能. 有关如何将它们联系在一起的直观图表.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  -项目徽标. 明确说明项目的用途. 制作徽章. 演示截图. 简单的安装和使用部分. 包括一个具有常用用法的示例部分.
-- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  -清理动画截图. 定制的号召性用语徽章. 用法展示.
+- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  -清理动画截图. 自定义号召性用语徽章. 用法展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  -使用字符清洁徽标. 开发的简要更新. 详细的贡献准则. 贡献建议.
 - [sulu/sulu](https://github.com/sulu/sulu#readme) -项目徽标，有用的徽章，关于在哪里可以找到更多信息和报告错误的清晰说明，GIF屏幕截图，很好地使用表情符号.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  -项目徽标. 有用的徽章. 网址. 截屏.  GIF安装的分步说明. 项目文件夹结构.
@@ -62,7 +63,7 @@
 
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) -*斯蒂芬·惠特摩尔*
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) -* Caleb Thompson（thoughtbot）*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) -*汤姆·普雷斯顿-维尔纳*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) -*亚当·斯塔科维亚克*
@@ -71,7 +72,7 @@
 ## Tools
 
 - [Common Readme](https://github.com/noffle/common-readme#readme)  -Node的通用自述文件样式. 包括指南和自述文件生成器.
-- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
+- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) -自述文件编辑和项目分析/反馈.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  -帮助在README上显示对回购贡献者的认可. 拥有新的/趋势/杰出贡献者. 每小时更新一次.
 - [Make a README](https://www.makeareadme.com/)  -编写自述文件的指南. 包括带有实时Markdown渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) -从以下位置复制粘贴您的README.md的地方

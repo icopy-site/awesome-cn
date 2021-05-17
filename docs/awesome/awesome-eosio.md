@@ -39,6 +39,7 @@
 
 EdenOS resources.
 
+- [Website](http://edeneos.org/)
 - [eoscommunity/Eden](https://github.com/eoscommunity/Eden)
 - [EOS Butler](https://www.youtube.com/channel/UCO4j-IQAiCFwUgj_QeXFKAA)
 
@@ -217,7 +218,7 @@ EOSIO学习资源.
 - [EOSSnapshots.io](https://www.eossnapshots.io/) -快照即服务.
   - [Snapshots As A Service: Airdrops for All](https://medium.com/eos-new-york/snapshots-as-a-service-airdrops-for-all-2bd51548b1ac) - 文章.
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) -EOSIO区块链的空投工具.
-- [Octopus](https://github.com/quoscient/octopus) -WebAssembly和区块链智能合约的安全分析工具（BTC / ETH / NEO / EOS）.
+- [Octopus](https://github.com/quoscient/octopus) -用于WebAssembly和区块链智能合约的安全分析工具（BTC / ETH / NEO / EOS）.
 - [owdin/secure-enclave-keosd](https://github.com/owdin/secure-enclave-keosd) -带有Touch ID Secure Enclave的EOSIO keosd.
 - [mixbytes/node-eosjs-signature-provider](https://github.com/mixbytes/node-eosjs-signature-provider) -基于C ++ N-API插件的nodejs的快速eosjs签名提供程序实现.
 
