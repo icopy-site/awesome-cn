@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选的很棒的清单 [Jupyter](http://jupyter.org) 项目，图书馆和资源.  Jupyter是一个开放源代码Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -81,9 +81,10 @@
 - [Binder](http://mybinder.org) -将GitHub仓库变成交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) -Bookbook将目录中的一组笔记本转换为HTML或PDF，从而保留了笔记本内部和之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) -JupyterHub扩展，可在任何框架（Voilà，Streamlit，Plotly Dash等）中托管经过身份验证的脚本或笔记本.
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) -从计算材料中构建具有出版质量的书籍和文档.
 - [Jupytext](https://github.com/mwouts/jupytext) -使用文本格式（例如Python或Markdown文件）转换和同步笔记本，这些文本格式在版本控制下效果很好.
 - [jut](https://github.com/kracekumar/jut) -CLI，可在终端中很好地显示笔记本.
-- [Kapitsa](https://github.com/gitjeff05/kapitsa) -CLI搜索本地Jupyter笔记本.
+- [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 - [nbconvert](https://nbconvert.readthedocs.io) -将笔记本转换为其他格式.
 - [nbdev](https://github.com/fastai/nbdev) -使用Jupyter作为开发工具，将Python软件包开发，打包并分发到PyPI [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) 环境.
 - [nbflow](https://github.com/jhamrick/nbflow) -使用Jupyter和Scons的一键式可重复工作流程.
@@ -129,7 +130,7 @@
 - [sql](https://github.com/pbugnion/jupyterlab-sql) -JupyterLab的SQL GUI.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) -扩展显示系统指标.
 - [templates](https://github.com/timkpaine/jupyterlab_templates) -支持Jupyter Notebook模板.
-- [theme-darcula](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+- [theme-darcula](https://github.com/telamonian/theme-darcula) -Jupyterlab的一个漂亮的Darcula主题.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) -提供笔记本目录的扩展程序.
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) -JupyterLab的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) -显示变量及其值的变量检查器扩展.
@@ -151,6 +152,7 @@
 - [GenePattern Notebook](http://genepattern-notebook.org) -将基因组分析与交互式笔记本集成在一起.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) -探索性地理空间分析的扩展.
 - [Jupylet](https://github.com/nir/jupylet) -在Jupyter笔记本电脑中交互式地创建2D和3D游戏，图形，现场音乐和声音.
+- [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) -Jupyter扩展，用于可视化大规模地理定位数据集.
 - [lolviz](https://github.com/parrt/lolviz) -用于列表，列表，字典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) -基于Jupyter的金融研究平台.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) -在Jupyter笔记本中运行的VPython 3D引擎.

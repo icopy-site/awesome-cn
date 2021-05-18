@@ -10,7 +10,7 @@
 
 他们为什么很棒？
 
-1.他们要么不受金融审查的影响，要么不实行金融审查.
+1.他们要么不受金融审查的影响，要么就不实行金融审查.
 2.他们通过本地比特币地址接受比特币，不需要钱包使用 [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 3.他们不 [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
@@ -27,7 +27,7 @@
 | [CryptoWoo](https://www.cryptowoo.com/)  | 每年$ 34-$ 99 | 没有是的没有 PHP 5.6 +，Wordpress 4.3 +，WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com)  | 没有费用| 是的是的没有 1 GB RAM，10 GB存储，Docker |
 | [LnMe](https://github.com/bumi/lnme)  | 没有费用| 是的是的没有 LND节点|
-| [BTCPyment](https://github.com/nickfarrow/BTCPyment)  | 没有费用| 是的是的没有 Python和比特币节点. 闪电节点和Woocommerce可选|
+| [SatSale](https://github.com/nickfarrow/SatSale)  | 没有费用| 是的是的没有一个比特币节点和Python. 闪电节点和Woocommerce可选|
 
 ## Hosted Bitcoin Payment Processors
 
@@ -70,4 +70,4 @@
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-[[Donate](https://mynode.alexkaul.com/gh-donate)] 感谢您的支持！ 
+[[Donate](https://mynode.alexkaul.com/gh-donate)] 谢谢您的支持！ 

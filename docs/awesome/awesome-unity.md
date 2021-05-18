@@ -18,7 +18,7 @@
 * [Ferr2D Terrain Tool (Paid)](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) -快速创建手工制作的2D景观和关卡.
 * [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) -具有2D游戏缩放选项的简单像素完美相机.
 * [Spine (Paid)](http://esotericsoftware.com) -具有Unity库的骨骼动画编辑器.
-* [Tiled2Unity](http://www.seanba.com/tiled2unity) -带你 [Tiled](http://www.mapeditor.org) 文件并从中创建Unity预制件，这些预制件可轻松放入您的Unity场景.  Unity的PolygonCollider2D类支持复杂的碰撞.
+* [Tiled2Unity](http://www.seanba.com/tiled2unity) -带你 [Tiled](http://www.mapeditor.org) 文件并从中创建Unity预制件，这些预制件可轻松放入您的Unity场景中.  Unity的PolygonCollider2D类支持复杂的碰撞.
 * [Unity Anima2D](https://assetstore.unity.com/packages/2d/characters/anima2d-no-longer-supported-replaced-by-2d-animation-79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
 * [UnityTiled](https://github.com/nickgravelyn/UnityTiled) -的进口商 [Tiled](http://www.mapeditor.org) 地图.
 
@@ -78,7 +78,7 @@
 
 ## Tweening
 
-* [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)  -补间任何数字属性或字段（包括向量，矩形等），以及一些非数字属性或字段（例如字符串）. 这是HOTween的后续措施.
+* [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)  -补间任何数字属性或字段（包括矢量，矩形等），以及一些非数字属性或字段（例如字符串）. 这是HOTween的后续措施.
 * [GoKit](https://github.com/prime31/GoKit) -开源的轻量级补间库，旨在使补间对象变得简单.
 * [iTween](https://assetstore.unity.com/packages/tools/animation/itween-84) -一个简单易用的动画系统.
 * [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595)  -FOSS，也是Unity最轻量的补间库. 允许您补间通过.value（）方法可访问的任何值.
@@ -135,3 +135,5 @@
 
 ## Contributing
 请参阅 [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) 有关详细信息.
+
+TESTING

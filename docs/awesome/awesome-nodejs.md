@@ -277,7 +277,7 @@
 
 ### Build tools
 
-- [parcel](https://github.com/parcel-bundler/parcel) -快速，零配置的Web应用程序捆绑包.
+- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 - [webpack](https://github.com/webpack/webpack) -打包浏览器的模块和资产.
 - [rollup](https://github.com/rollup/rollup) -下一代ES2015模块捆绑器.
 - [gulp](https://github.com/gulpjs/gulp) -流媒体和快速构建系统，其代码优先于配置.
@@ -316,7 +316,7 @@
 - [LoopBack](https://github.com/strongloop/loopback-next) -用于创建REST API并轻松连接到后端数据源的强大框架.
 - [Meteor](https://github.com/meteor/meteor)  -超简单，无处不在的数据库，在线数据，纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](https://github.com/restify/node-restify) -使您能够构建正确的REST Web服务.
-- [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
+- [ThinkJS](https://github.com/thinkjs/thinkjs) -具有ES2015 +支持，WebSockets，REST API的框架.
 - [ActionHero](https://github.com/actionhero/actionhero) -用于为TCP套接字，WebSocket和HTTP客户端制作可重用和可伸缩API的框架.
 - [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
@@ -390,7 +390,7 @@
 ### Streams
 
 - [through2](https://github.com/rvagg/through2) -stream2周围的微小包装器进行转换以避免显式的子类化噪声.
-- [from2](https://github.com/hughsk/from2) -ReadableStream的便捷包装，灵感来自`through2`.
+- [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
 - [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
 - [duplexify](https://github.com/mafintosh/duplexify) -将可写和可读流转换为单个stream2双工流.
@@ -411,7 +411,7 @@
 - [Socket.io](https://github.com/socketio/socket.io) -启用基于实时双向事件的通信.
 - [Faye](https://github.com/faye/faye) -基于Bayeux协议的实时客户端-服务器消息总线.
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) -可扩展的HTTP + WebSocket引擎，可以在多个CPU内核上运行.
-- [Primus](https://github.com/primus/primus) -实时框架的抽象层，以防止模块锁定.
+- [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) -可扩展的实时微服务框架.
 - [Kalm](https://github.com/kalm/kalm.js) -低级套接字路由器和中间件框架.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) -MQTT的客户端-基于Pub-sub的消息传递协议，用于TCP / IP之上.
@@ -426,7 +426,7 @@
 - [lwip](https://github.com/EyalAr/lwip) -不需要ImageMagick的轻型图像处理器.
 - [pica](https://github.com/nodeca/pica)  -纯JS中的高质量和快速调整大小（lanczos3）. 当不允许像素化时，可替代canvas drawImage（）.
 - [jimp](https://github.com/oliver-moran/jimp) -使用纯JavaScript进行图像处理.
-- [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的大小.
+- [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的尺寸.
 - [qrcode](https://github.com/soldair/node-qrcode) -QR码和条形码生成器.
 
 ### Text
@@ -440,7 +440,7 @@
 - [indent-string](https://github.com/sindresorhus/indent-string) -缩进字符串中的每一行.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) -从字符串的每一行中去除前导空格.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) -检测代码的缩进.
-- [he](https://github.com/mathiasbynens/he) -HTML实体编码器/解码器.
+- [he](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
 - [i18n-node](https://github.com/mashpie/i18n-node) -具有动态JSON存储的简单翻译模块.
 - [babelfish](https://github.com/nodeca/babelfish) -i18n，复数非常简单的语法.
 - [matcher](https://github.com/sindresorhus/matcher) -简单的通配符匹配.
@@ -458,7 +458,7 @@
 
 ### Math
 
-- [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
+- [ndarray](https://github.com/scijs/ndarray) -多维数组.
 - [mathjs](https://github.com/josdejong/mathjs) -广泛的数学库.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) -固定一个数字.
 - [algebra](https://github.com/fibo/algebra) -代数结构.
@@ -557,7 +557,7 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) -Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
 -ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
+	- [Sequelize](https://github.com/sequelize/sequelize)  -多方ORM. 支持PostgreSQL，SQLite，MySQL等.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) -Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
@@ -594,7 +594,7 @@
 - [loadtest](https://github.com/alexfernandez/loadtest) -使用自动化API为您的Web应用程序运行负载测试.
 - [Sinon.JS](https://github.com/sinonjs/sinon) -测试间谍，存根和模拟.
 - [navit](https://github.com/nodeca/navit) -PhantomJS / SlimerJS包装器可简化浏览器测试脚本.
-- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
+- [Nock](https://github.com/pgte/nock) -HTTP模拟和期望.
 - [intern](https://github.com/theintern/intern) -代码测试堆栈.
 - [toxy](https://github.com/h2non/toxy) -可入侵的HTTP代理，可模拟故障情况和网络状况.
 - [hook-std](https://github.com/sindresorhus/hook-std) -钩并修改stdout / stderr.
@@ -735,7 +735,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·༝·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ“`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈·̑̑ෆ⃛（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”.
 - [nerds](https://github.com/SkyHacks/nerds) -从“哈利·波特”，“星球大战”和“神奇宝贝”等讨厌的话题中获取数据.
 
 ### Serialization
@@ -800,7 +800,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少量简单的库和核心Node.js模块来构建和部署真实的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
 
 ### Discovery
 
@@ -896,6 +896,7 @@
 - [generator-nm](https://github.com/sindresorhus/generator-nm) -搭建节点模块.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) -在Microsoft平台上使用Node.js的提示，技巧和资源.
 - [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) -请求您希望存在的JavaScript模块或获取有关模块的想法.
+- [v8-perf](https://github.com/thlorenz/v8-perf) -与V8有关的注释和资源，以及与Node.js的性能有关的资源.
 
 ## Related lists
 

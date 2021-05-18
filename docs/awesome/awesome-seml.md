@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md)
 
-机器学习软件工程是构建ML应用程序的技术和指南，这些技术和指南与核心ML问题无关-例如开发新算法-而是围绕周围的活动，例如数据提取，编码，测试，版本控制，部署，质量控制，以及团队协作.
+机器学习软件工程是构建ML应用程序的技术和准则，这些技术和指南与核心ML问题无关-例如开发新算法-而是围绕周围的活动，例如数据提取，编码，测试，版本控制，部署，质量控制，以及团队协作.
 良好的软件工程实践可使用机器学习组件来增强生产级应用程序的开发，部署和维护.
 
 ⭐必须阅读
@@ -113,6 +113,7 @@
 我们仅共享开源工具或提供大量免费研究软件包的商业平台.
 
 - [Airflow](https://airflow.apache.org/) -以编程方式创作，安排和监视工作流程.
+- [Alibi Detect](https://github.com/SeldonIO/alibi-detect) -专注于离群，对抗和漂移检测的Python库.
 - [Archai](https://github.com/microsoft/archai) -神经体系结构搜索.
 - [Data Version Control (DVC)](https://dvc.org/) -DVC是数据和ML实验管理工具.
 - [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) -强大的可视化功能有助于理解机器学习数据集.
@@ -128,10 +129,13 @@
 - [Neptune.ai](https://neptune.ai/) -实验跟踪工具将组织和协作带入了数据科学项目.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -类似于Sklearn的框架，用于深度学习项目中的超参数调整和AutoML.
 - [OpenML](https://www.openml.org) -一项包容性运动，旨在建立一个开放的，有组织的在线机器学习生态系统.
+- [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)  -轻巧的PyTorch包装器，用于高性能AI研究. 缩放模型，而不是样板.
 - [Robustness Metrics](https://github.com/google-research/robustness_metrics) -轻量级模块，用于评估分类模型的鲁棒性.
+- [Seldon Core](https://github.com/SeldonIO/seldon-core) -一个MLOps框架，用于在Kubernetes上打包，部署，监视和管理数千个生产机器学习模型.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) -Spark的ML库，其中包含常见的学习算法和实用程序.
 - [TensorBoard](https://www.tensorflow.org/tensorboard/) -TensorFlow的可视化工具包.
 - [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) -用于部署生产ML管道的端到端平台.
+- [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation)  -用于探索和验证机器学习数据的库. 与《大期望》相似，但适用于Tensorflow数据.
 - [Weights & Biases](https://www.wandb.com/) -实验跟踪，模型优化和数据集版本控制.
 
 

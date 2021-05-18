@@ -22,11 +22,10 @@
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 - [Ebert](https://ebertapp.io/) -连续静态分析.
 - [Hound](https://houndci.com/) -源代码样式审查.
-- [lgtm](https://lgtm.com/) -针对开发人员的自动代码审查.
+- [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) -通过代码审查批准GitHub拉取请求.
 - [QuantifiedCode](https://www.quantifiedcode.com/) -自动化的Python代码审查和修复.
 - [Reviewable](https://reviewable.io/) -自动化的GitHub代码审查.
-- [SensioLabsInsight](https://insight.sensiolabs.com/) -PHP的自动代码审查.
 - [Scrutinizer](https://scrutinizer-ci.com/) -持续的代码质量分析.
 - [Sider](https://sider.review/) -自动代码审查.
 - [SonarCloud](https://sonarcloud.io/) -连续代码检查.
@@ -121,9 +120,9 @@
 - [Netlify](https://www.netlify.com) `requires-approval`-托管静态网站.
 - [Sourcegraph](https://sourcegraph.com/) -智能的源代码透明性.
 - [Siteleaf](https://www.siteleaf.com/) -静态网站的CMS.
-- [testmail.app](https://testmail.app/) `requires-approval`-使用无限的邮箱和GraphQL API自动执行端到端电子邮件测试.
+- [testmail.app](https://testmail.app/) `requires-approval`-使用无限的邮箱和GraphQL API自动进行端到端电子邮件测试.
 - [Transloadit](https://transloadit.com/) `requires-approval`-用于文件上传和编码的API.
-- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
+- [Zulip](https://zulip.com) `requires-approval`-分布式团队的聊天.
 
 ## Contributing
 

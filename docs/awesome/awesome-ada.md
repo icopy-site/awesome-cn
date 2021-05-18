@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/><br/>
 <div align="center">
-	<img width="400px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.png" alt="Awesome">
+	<img width=300px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.png" alt="Awesome">
 </div>
 
 <br><br>
@@ -103,7 +103,7 @@
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中的本书，从初学者到高级概念，并附带源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -一本书，从Ada 95的初学者到高级概念，并附带源文件.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
@@ -174,7 +174,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了全面的工具集（IDE，调试器，库，动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -444,7 +444,7 @@
 - [generic-image-decoder](https://github.com/zertovitch/gid) -Ada的多格式图像解码器库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维条形码，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理学，最常见）的访问例程库.
 - [ada-toml](https://github.com/pmderodat/ada-toml) -TOML解析器为“是”.
@@ -497,7 +497,7 @@
 - [ssprep](https://github.com/persan/ssprep.git) -类似于jinja的可扩展模板引擎，但使用 [template-parser](https://github.com/AdaCore/templates-parser) 并用于命令行.
 - [licensing](https://github.com/mosteo/licensing) -Ada的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) -易于使用的日志记录工具，可输出到Ada程序中的控制台.
-- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，它从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
+- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，该实用程序从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
 - [cstrings](https://github.com/mosteo/cstrings) -便利子程序，可与C字符串进行交互.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -用于将在Ada合格评定机构上共享的CVS存储库导入Git存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  -用于透明处理Ada应用程序中的数据和配置文件访问的库和工具. 支持MacOSX，Linux和Windows.
@@ -544,7 +544,7 @@
 - [sensortile](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) -该项目显示了如何初始化SensorTile，以及如何通过BLE将Sensor数据从SensorTile发送到合适的主机.
 
 #### Libraries
-- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单小部件工具套件.
+- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单窗口小部件工具套件.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) -GESTE是Sprite和Tile 2D渲染引擎，旨在在微控制器上运行.
 - [sancta](https://github.com/mosteo/sancta) -SANCTA多机器人任务分配库.
@@ -599,7 +599,7 @@
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -该工具将在Ada合格评定机构上共享的CVS存储库导入到Git存储库中.
 - [j2ada](https://github.com/Blady-Com/j2ada) -Ada源代码中Java有效源代码的转换器.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) -Ada2JS是Matreshka的实验性开源编译器组件.
-- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  -SofCheck AdaMagic是针对C和/或C ++的ACATS验证和认证的Ada编译器（用于微调的4个命令行开关）.  ObjectAda和其他几种商业编译器与AdaMagic共享引擎.  MapuSoft发行AdaMagic作为AppCOE的组成部分.
+- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  -SofCheck AdaMagic是经过ACATS验证和认证的Ada编译器，针对C和/或C ++（4个命令行开关用于微调）.  ObjectAda和其他几种商业编译器与AdaMagic共享引擎.  MapuSoft发行AdaMagic作为AppCOE的组成部分.
 - [cappulada](https://github.com/Componolit/Cappulada) -有一个C ++的绑定生成器.
 - [asis2xml](https://github.com/simonjwright/asis2xml) -将Ada来源的ASIS表示形式转换为XML，从而使使用（例如）XSLT开发报告和转换工具变得更加容易.
 

@@ -87,7 +87,7 @@
 - [DDD Europe](https://dddeurope.com/videos) -在DDD欧洲的演讲记录.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) -搜索DDD会返回Greg Young，Alberto Brandolini和Dan North等进行的各种演讲.
 - [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) -阿尔贝托·布兰多利尼（Alberto Brandolini）在事件风暴中发表的YouTube演讲集.
-- [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) -由格雷格·杨（Greg Young）主持的YouTube各种演讲集锦.
+- [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) -格雷格·杨（Greg Young）发表的各种演讲的YouTube收藏集.
 - [Explore DDD videos](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) -探索DDD会议上的演讲记录.
 - [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) -在KanDDDinsky上发表的YouTube演讲集.
 - [Virtual Domain-driven design](https://www.youtube.com/channel/UCob_jOzzpxBp-di-x0vLlwA) -从Virtual Domain驱动的设计中录制的metups会话的youtube集合
@@ -95,7 +95,7 @@
 ## Community Resources
 
 - [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/dddcqrs) -活跃的邮件列表和出色的资源，可以提出问题并了解有关DDD / CQRS的详细信息.
-- [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages)  -该小组讨论的是领域驱动的设计软件风格，以及Eric Evans的著作《领域驱动的设计：商业软件核心中的复杂性》. 在这里欢迎对本书内容进行问题和讨论，也可以分享使用DDD的经验，并就该主题进行一般性的讨论.
+- [Domain Driven Design Yahoo Group](https://groups.yahoo.com/neo/groups/domaindrivendesign/conversations/messages)  -该小组讨论的是领域驱动的设计软件风格，以及埃里克·埃文斯（Eric Evans）的著作《领域驱动的设计：商业软件核心中的复杂性》. 在这里欢迎对本书内容进行问题和讨论，也可以分享使用DDD的经验，并就该主题进行一般性的讨论.
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) -在PHP的背景下讨论域驱动设计，CQRS，事件源，模型风暴，六角体系结构，分布式系统，反应式的地方.
 - [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) -对于对域驱动设计感兴趣的Ruby开发人员的子目录.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) -面向对EventStorming和相关主题感兴趣的所有人的公开讨论组.
@@ -157,7 +157,7 @@
 ### GO
 - [BDD in GO](https://github.com/JankariTech/bsDateServer)  -示例应用程序，演示了将Cucumber + GO用于BDD测试方法. 可以找到博客文章 [here](https://dev.to/jankaritech/demonstrating-bdd-behavior-driven-development-in-go-1eci).
 - [Citerus DDD Sample App GO Port](https://github.com/marcusolsson/goddd) -这是尝试移植 [DDD Sample App](https://github.com/citerus/dddsample-core) 惯用的Go. 它可以在dockerized模式下运行以预览应用程序.
-- [DDD by Refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)  -完整的无服务器应用程序，展示了如何通过实际重构Go项目来应用DDD，Clean Architecture和CQRS. 完整的博客系列可以在以下位置找到<https://threedots.tech/> .
+- [DDD by Refactoring](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)  -完整的无服务器应用程序，以展示如何通过实际重构Go项目来应用DDD，Clean Architecture和CQRS. 完整的博客系列可以在以下位置找到<https://threedots.tech/> .
 - [DDD Food App](https://github.com/victorsteven/food-app-server)  -实现4层（域，基础结构，应用程序和接口）并考虑两个域模式的示例DDD应用程序. 有一篇博客文章 [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5).
 - [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) -只是实现DDD的四个层的另一个示例应用程序.
 - [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi)  -使用SOLID，六边形架构的具有完整CRUD的API实现. 在那里有一系列为此撰写的博客文章<https://blog.friendsofgo.tech/> .
@@ -213,6 +213,7 @@
 - [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) -用Kotlin编写的示例DDD / CQRS项目.
 - [EventStormingWorkshop - Designing Cloud Native Microservices On AWS](https://github.com/humank/EventStormingWorkShop/) -将通过EventStorming研讨会并在Java中实现DDD战术设计模式的具体示例，应用AWS云本地服务来构建基于业务事件的Coffeeshop场景.
 - [DDDSample](https://github.com/citerus/dddsample-core) -使用Spring Boot的示例DDD项目（最初托管在http://dddsample.sourceforge.net/中）
+- [https://github.com/felipexw/clean-arch-ddd-intro](https://github.com/felipexw/clean-arch-ddd-intro) -使用Micronaut的简单DDD +清洁架构.
 
 ### PHP
 - [DDD CQRS Todo Sample](https://github.com/ferrius/ddd-cqrs-example) -使用PHP 7和Symfony 5构建的DDD CQRS ADR六角形体系结构实现.

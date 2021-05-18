@@ -4,9 +4,10 @@
 
 &gt;与Ruby on Rails相关的很棒的东西的精选清单 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![awesome-rails](https://raw.githubusercontent.com/gramantin/awesome-rails/master/./.github/awesome-rails.png)
+![awesome-rails](https://raw.githubusercontent.com/gramantin/awesome-rails/master/./.github/assets/awesome-rails.png)
 
 
+使用左上角的“目录上的目录”菜单浏览列表.
 
 ## Resources
 
@@ -23,12 +24,36 @@
 
 ### External Resources
 
-- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
+#### Books
+
 - [Ruby on Rails Tutorial Book](https://www.railstutorial.org/book)
+- [Agile Web Development with Rails 6](https://pragprog.com/titles/rails6/agile-web-development-with-rails-6/)
+- [Docker for Rails Developers](https://pragprog.com/titles/ridocker/docker-for-rails-developers/)
+- [Rails 5 Test Prescriptions](https://pragprog.com/titles/nrtest3/rails-5-test-prescriptions/)
+- [Rails, Angular, Postgres, and Bootstrap, Second Edition](https://pragprog.com/titles/dcbang2/rails-angular-postgres-and-bootstrap-second-edition/)
+- [Growing Rails Applications in Practice](https://pragprog.com/titles/d-kegrap/growing-rails-applications-in-practice/)
+- [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
+- [The Rails 6 Way](https://leanpub.com/therails6way)
+
+
+#### Video tutorials
+
+- [RailsCasts](http://railscasts.com) *（自2013年起无效）
+- [GoRails](https://gorails.com) *（免费增值）
+- [Drifting Ruby](https://www.driftingruby.com/) *（免费增值）
+
+#### Youtube channels
+
+- [DriftingRuby](https://www.youtube.com/c/DriftingRuby/videos)
+- [Gorails](https://www.youtube.com/c/GorailsTV/videos)
+- [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
+- [Deanin](https://www.youtube.com/c/Deanin/videos)
+- [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
+
+#### Other external resources
+
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
-- [RailsCasts](http://railscasts.com) （最近的视频内容是在2013年添加的）
-- [GoRails](https://gorails.com)
-- [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
 [返回页首] [link_toc]
@@ -49,6 +74,8 @@
 
 - [rails on Twitter](https://twitter.com/rails)
 - [rails on Reddit](https://www.reddit.com/r/rails/)
+- [Ruby on Rails Discussions](https://discuss.rubyonrails.org/)
+- [Gorails forum](https://gorails.com/forum)
 
 [返回页首] [link_toc]
 
@@ -78,6 +105,12 @@
 - [Building an Event Sourcing System in Rails, Part 1: What is Event Sourcing?](https://dev.to/isalevine/building-an-event-sourcing-system-in-rails-part-1-what-is-event-sourcing-46db) - [Part 2](https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h)
 - [Real Time Notification System with Sidekiq, Redis and Devise in Rails 6](https://dev.to/matiascarpintini/real-time-notification-system-with-sidekiq-redis-and-devise-in-rails-6-33l9)
 - [Deploying Your Rails 6 App](https://dev.to/render/deploying-your-rails-6-app-4an4)
+- [What's Cooking in Rails 7?](https://dev.to/hint/what-s-cooking-in-rails-7-a42)
+- [Using Hotwire Turbo in Rails with legacy JavaScript](https://dev.to/nejremeslnici/using-hotwire-turbo-in-rails-with-legacy-javascript-17g1)
+- [From Rails scaffold listing to Hotwire infinite scroll](https://dev.to/andrzejkrzywda/from-rails-scaffold-listing-to-hotwire-infinite-scroll-3273)
+- [Building a Component Library in Rails With Storybook](https://dev.to/orbit/building-a-component-library-in-rails-with-storybook-49m4)
+- [How to Speed Up Load Times In A Rails App - What I Wish I Knew Four Months Ago](https://dev.to/nicklevenson/how-to-speed-up-load-times-in-a-rails-app-what-i-wish-i-knew-four-months-ago-28g0)
+- [Endless Scroll / Infinite Loading with Turbo Streams & Stimulus](https://dev.to/zealot128/endless-scroll-infinite-loading-with-turbo-streams-stimulus-5d89)
 
 &gt;来自shopify.engineering：
 
@@ -103,6 +136,8 @@
 - [Comparison of approaches to multitenancy in Rails apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
 - [Managing Rails Event Store Subscriptions — How To](https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/)
 - [Rails connections, pools and handlers](https://blog.arkency.com/rails-connections-pools-and-handlers/)
+- [How to balance the public APIs of an open-source library — practical examples from RailsEventStore](https://blog.arkency.com/how-to-balance-the-public-apis-of-open-source-library-practical-examples-from-railseventstore/)
+- [Rack apps mounted in Rails — how to protect access to them?](https://blog.arkency.com/common-authentication-for-mounted-rack-apps-in-rails/)
 
 &gt;来自scotch.io：
 
@@ -133,6 +168,7 @@
 - [Full Text Search in Milliseconds with Rails and PostgreSQL](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 - [Advanced Active Record: Using Subqueries in Rails](https://pganalyze.com/blog/active-record-subqueries-rails)
 - [PostGIS vs. Geocoder in Rails](https://pganalyze.com/blog/postgis-rails-geocoder)
+- [Creating Custom Postgres Data Types in Rails](https://pganalyze.com/blog/custom-postgres-data-types-ruby-rails)
 
 &gt;来自semaphoreci.com：
 
@@ -181,6 +217,9 @@
 - [How I used Docker with Rails](https://admatbandara.medium.com/how-i-used-docker-with-rails-45601c43ed8f)
 - [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
 - [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
+- [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
+- [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
+- 
 
 [返回页首] [link_toc]
 
@@ -353,7 +392,7 @@
 - [formtastic](https://github.com/formtastic/formtastic) -具有语义丰富且可访问的标记的Rails表单构建器gem. [:red_circle:](https://rubygems.org/gems/formtastic)
 - [friendly_id](https://github.com/norman/friendly_id) -用来处理子弹和永久链接的宝石. [:red_circle:](https://rubygems.org/gems/friendly_id)
 - [frozen_record](https://github.com/byroot/frozen_record) -提供类似ActiveRecord的界面以查询静态YAML文件的工具. [:red_circle:](https://rubygems.org/gems/frozen_record)
-- [geokit-rails](https://github.com/geokit/geokit-rails) -将Geokit集成到Rails应用程序中的宝石. [:red_circle:](https://rubygems.org/gems/geokit-rails)
+- [geokit-rails](https://github.com/geokit/geokit-rails) -将Geokit集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/geokit-rails)
 - [good_job](https://github.com/bensheldon/good_job) -提供基于Postgres的ActiveJob后端的宝石. [:red_circle:](https://rubygems.org/gems/good_job)
 - [gretel](https://github.com/kzkn/gretel) -生成面包屑的工具. [:red_circle:](https://rubygems.org/gems/gretel)
 - [groupdate](https://github.com/ankane/groupdate) -用于管理时间数据的宝石. [:red_circle:](https://rubygems.org/gems/groupdate)

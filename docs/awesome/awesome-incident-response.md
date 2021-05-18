@@ -16,11 +16,11 @@
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) -小型且高度便携的检测测试映射到Mitre ATT＆CK框架.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  -自动化战术技术与程序. 手动重新运行复杂序列以进行回归测试，产品评估，并为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) -用于防御性安全培训的软件，它将使您的网络分析培训课程，事件响应演练和红色团队参与度提高到一个新的水平.
-* [Caldera](https://github.com/mitre/caldera)  -自动化的对手仿真系统，可在Windows Enterprise网络中执行折衷后的对抗行为. 它在运行过程中使用规划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预先配置的对抗模型来生成计划.
+* [Caldera](https://github.com/mitre/caldera)  -自动化的攻击者仿真系统，可在Windows Enterprise网络中执行攻击后的攻击行为. 它在运行过程中使用规划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预先配置的对抗模型来生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  -模块化，菜单驱动的跨平台工具，用于构建可重复的，延迟的，分布式的安全事件. 轻松为Blue Team演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件，分散注意力和引诱，以支持和扩大其行动.
 * [Metta](https://github.com/uber-common/metta) -进行对抗模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) -轻量级实用程序，用于生成恶意网络流量，并帮助安全团队评估安全控制和网络可见性.
-* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) -RTA提供了一个脚本框架，旨在允许蓝队根据MITER ATT＆CK进行建模，以针对恶意贸易工具测试其检测功能.
+* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) -RTA提供了一个脚本框架，旨在使蓝队可以根据MITER ATT＆CK进行建模，以针对恶意贸易工具测试其检测功能.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) -用于对手仿真和威胁搜寻的虚拟机.
 
 ### All in one Tools
@@ -46,7 +46,7 @@
 
 ### Books
 
-* [DFIR intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) -作者：斯科特·J·罗伯茨（Scott J. Roberts）.
+* [DFIR intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) -Scott J. Roberts着.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) -理查德·贝特里奇（Richard Bejtlich）关于IR的书.
 
 ### Communities
@@ -58,7 +58,7 @@
 ### Disk Image Creation Tools
 
 * [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager)  -取证工具，其主要目的是预览任何类型的磁盘上的可恢复数据.  FTK Imager还可以在32位和64位系统上获取实时内存和页面文件.
-* [Bitscout](https://github.com/vitaly-kamluk/bitscout)  -Vitaly Kamluk的Bitscout可帮助您构建完全受信任的可定制LiveCD / LiveUSB映像，以用于远程数字取证（或您选择的任何其他任务）. 它的意思是透明的，可由系统所有者监视，取证声音，可自定义和紧凑.
+* [Bitscout](https://github.com/vitaly-kamluk/bitscout)  -Vitaly Kamluk的Bitscout可帮助您构建完全可信的可定制LiveCD / LiveUSB映像，以用于远程数字取证（或您选择的任何其他任务）. 它的意思是透明的，可由系统所有者监视，取证声音，可自定义和紧凑.
 * [GetData Forensic Imager](http://www.forensicimager.com/) -基于Windows的程序，将以以下常见的取证文件格式之一获取，转换或验证取证图像.
 * [Guymager](http://guymager.sourceforge.net) -免费的取证成像器，用于在Linux上进行媒体获取.
 * [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) -Magnet Forensics的ACQUIRE允许在Windows，Linux和OS X以及移动操作系统上执行各种类型的磁盘获取.
@@ -77,7 +77,7 @@
 ### Incident Management
 
 * [CyberCPR](https://www.cybercpr.com) -内置了“需要知道”功能的社区和商业事件管理工具，可在处理敏感事件时支持GDPR合规性.
-* [Cyphon](https://www.cyphon.io/)  -Cyphon通过一个平台简化了许多相关任务，从而消除了事件管理的麻烦. 它接收，处理和分类事件，为您的分析工作流提供全方位的解决方案-汇总数据，对警报进行捆绑和优先排序，并赋予分析人员调查和记录事件的能力.
+* [Cyphon](https://www.cyphon.io/)  -Cyphon通过一个平台简化了许多相关任务，从而消除了事件管理的麻烦. 它接收，处理和分类事件，为您的分析工作流提供全方位的解决方案-汇总数据，捆绑警报并对其进行优先级排序，并赋予分析人员调查和记录事件的能力.
 * [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) -Paloalto安全业务流程，自动化和响应平台，具有完整的事件生命周期管理以及许多集成，可以增强自动化.
 * [DFIRTrack](https://github.com/stuhli/dfirtrack) -事件响应跟踪应用程序处理许多受影响的系统中的一个重大事件，这在APT案例中经常发生.
 * [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/)  -网络安全事件管理平台在设计时考虑了敏捷性和速度. 它可以轻松创建，跟踪和报告网络安全事件，对于CSIRT，CERT和SOC都非常有用.
@@ -90,7 +90,7 @@
 
 * [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA)  -用于数字调查和获取的基于VMware的设备，完全基于公共领域的软件构建.  ADIA中包含的工具包括尸检，侦探工具包，数字取证框架，log2timeline，Xplico和Wireshark. 大多数系统维护使用Webmin. 它是专为中小型数字调查和采集而设计的. 该设备可在Linux，Windows和Mac OS上运行.  i386（32位）和x86_64（64位）版本均可用.
 * [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) -包含许多可帮助调查人员进行分析的工具，包括法医证据收集.
-* [CCF-VM](https://github.com/rough007/CCF-VM) -CyLR CDQR取证虚拟机（CCF-VM）：一种用于解析收集的数据的多合一解决方案，使其可以通过内置的通用搜索轻松地进行搜索，并且可以同时搜索单个和多个主机.
+* [CCF-VM](https://github.com/rough007/CCF-VM) -CyLR CDQR取证虚拟机（CCF-VM）：一种用于解析收集的数据的多合一解决方案，使其可以通过内置的通用搜索轻松进行搜索，并可以同时搜索单个和多个主机.
 * [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/)  -为计算机取证证据收集而制作的Linux发行版. 它与Windows的Digital Advanced Response工具包（DART）捆绑在一起. 还提供了DEFT的轻型版本，称为DEFT Zero，其主要侧重于法医上合理的证据收集.
 * [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) -Linux发行版，其中包含大量对网络安全专业人员有用的同类最佳的开源网络安全应用程序.
 * [PALADIN](https://sumuri.com/software/paladin/)  -修改后的Linux发行版，以法医合理的方式执行各种法医任务. 它包含许多开放源代码取证工具.
@@ -103,7 +103,7 @@
 
 ### Log Analysis Tools
 
-* [AppCompatProcessor](https://github.com/mbevilacqua/appcompatprocessor) -AppCompatProcessor旨在从企业范围内的AppCompat / AmCache数据中提取额外的价值，而不仅仅是传统的堆栈和grepping技术.
+* [AppCompatProcessor](https://github.com/mbevilacqua/appcompatprocessor) -AppCompatProcessor旨在从企业范围内的AppCompat / AmCache数据中提取除传统的堆栈和grepping技术之外的其他价值.
 * [Kaspersky CyberTrace](https://support.kaspersky.com/13850)  -威胁情报融合和分析工具，可将威胁数据源与SIEM解决方案集成在一起. 用户可以在其现有安全操作的工作流程中立即利用威胁情报进行安全监控和事件报告（IR）活动.
 * [Lorg](https://github.com/jensvoid/lorg) -用于高级HTTPD日志文件安全性分析和取证的工具.
 * [Logdissect](https://github.com/dogoncouch/logdissect) -CLI工具和Python API，用于分析日志文件和其他数据.
@@ -172,7 +172,7 @@
 ### Playbooks
 
 * [IRM](https://github.com/certsocietegenerale/IRM) -CERT法国兴业银行的事件响应方法.
-* [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  -不同的通用事件响应工作流程，例如针对恶意软件爆发，数据盗窃，未经授权的访问，...每个工作流程都包含七个步骤：准备，检测，分析，遏制，根除，恢复，事后处理. 这些工作流程可在线获得或下载.
+* [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  -不同的通用事件响应工作流程，例如针对恶意软件爆发，数据盗窃，未经授权的访问，...每个工作流程都包含七个步骤：准备，检测，分析，遏制，消除，恢复，事后处理. 这些工作流程可在线获得或下载.
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
 
 ### Process Dump Tools
@@ -199,6 +199,7 @@
 * [Valkyrie Comodo](https://valkyrie.comodo.com) -Valkyrie使用运行时行为和文件中的数百个功能来执行分析.
 * [Viper](https://github.com/viper-framework/viper) -基于Python的二进制分析和管理框架，可与Cuckoo和YARA很好地配合使用.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) -用于日志的开源可视化库和命令行工具（Cuckoo，Procmon，以后还会有更多）.
+* [Yomi](https://yomi.yoroi.company) -由Yoroi管理和托管的免费MultiSandbox.
 
 ### Timeline tools
 
