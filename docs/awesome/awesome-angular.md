@@ -196,7 +196,7 @@ WebWorker中的大多数核心角度框架.
 * [Testing Http services in Angular 2 with Jasmine](https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
-* [Testing Angular – A Guide to Robust Angular Applications](https://molily.de/testing-angular/)
+* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
 
 ##### Ahead-of-Time Compilation
 
@@ -340,7 +340,7 @@ WebWorker中的大多数核心角度框架.
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托·乔治·耶夫（Hristo Georgiev）
+*赫里斯托·格奥尔基耶夫
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -581,7 +581,7 @@ WebWorker中的大多数核心角度框架.
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard)  Cookie / sessionStorage / localStorage的包装，用于angular2. 如果所有都不可用，请使用内存中的存储器.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) 使用ES6 Proxies for Angular 2编写的localStorage和sessionStorage包装器
 * [ngx-store](https://github.com/zoomsphere/ngx-store) -用于管理`localStorage`，`sessionStorage`和cookie的复杂库，允许观看数据更改，基于构建器模式提供装饰器和API
-* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -功能强大，自动且经过优化的Angular 2缓存系统，可满足所有需求！
+* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) -一个功能强大，自动且经过优化的Angular 2缓存系统，可随处使用！
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) -通过在客户端上自动缓存远程请求来加快它们的速度.
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) -@ fulls1z3的Angular缓存实用程序（包括浏览器和服务器平台实现）
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) -Angular的存储和状态管理
@@ -640,7 +640,7 @@ WebWorker中的大多数核心角度框架.
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) 对Bootstrap使用Angular 2指令进行实验.
 * [ng2-modal](https://github.com/pleerock/ngx-modal) angular2和bootstrap 3的模态窗口
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) angular2和bootstrap 3的分页控制
-* [ng2-tabs](https://github.com/pleerock/ngx-tabs) Angular2和Bootstrap 3的Tabs控件
+* [ng2-tabs](https://github.com/pleerock/ngx-tabs) Angular2和Bootstrap 3的选项卡控件
 
 #### UX Components
 
@@ -731,7 +731,7 @@ WebWorker中的大多数核心角度框架.
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) -准备使用基于Angular 2和AdminLTE引导主题的仪表板控制面板种子项目.
 * [ngx-admin](https://github.com/akveo/ngx-admin) -基于Nebular框架（Angular 4 +，Bootstrap 4+）的管理模板
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
-* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程.
+* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程，演示了此单元
   and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) -使用Webpack构建的Tour of Heroes官方打字稿教程
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) -配置了Angular2，TypeScript和Webpack的简单入门工具.
@@ -921,7 +921,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 ### Angular 2 in Haxe
 
- &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”，以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe），“在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
+ &gt; Haxe是一个开源工具包，它基于现代的，高级的，严格类型化的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe）“可在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以在javascript中与pyhton（或java / php / node-可以在以后选择/缩放时更改）中共享编译到客户端的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的权限.
 &gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...所有这些都可以通过本机实现，而无需打字，更防错，更稳定，即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
 
 ##### Haxe General Resources

@@ -118,7 +118,7 @@
 - [trash](https://github.com/sindresorhus/trash) -更安全的替代“ rm”.
 - [speed-test](https://github.com/sindresorhus/speed-test) -测试您的互联网连接速度和ping.
 - [emoj](https://github.com/sindresorhus/emoj) -从命令行中的文本中找到相关的表情符号.
-- [pageres](https://github.com/sindresorhus/pageres) -捕获网站截图.
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [cpy](https://github.com/sindresorhus/cpy) -复制文件.
 - [vtop](https://github.com/MrRio/vtop) -更漂亮的顶部，漂亮的图表.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
@@ -132,12 +132,12 @@
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
 - [David](https://github.com/alanshaw/david) -告诉您软件包npm依赖项何时过时.
 - [http-server](https://github.com/indexzero/http-server) -简单的零配置命令行HTTP服务器.
-- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+- [Live Server](https://github.com/tapio/live-server) -具有livereload功能的开发HTTP服务器.
 - [bcat](https://github.com/kessler/node-bcat) -将命令输出到Web浏览器.
 - [normit](https://github.com/pawurb/normit) -在您的终端中使用语音合成功能进行Google翻译.
 - [fkill](https://github.com/sindresorhus/fkill-cli)  -令人难以置信的杀死进程. 跨平台.
 - [pjs](https://github.com/danielstjules/pjs)  -可移植的JavaScript. 从终端快速过滤，映射和缩小.
-- [license-checker](https://github.com/davglass/license-checker) -检查应用程序依赖项的许可证.
+- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) -在浏览器环境中轻松运行代码.
 - [tmpin](https://github.com/sindresorhus/tmpin) -将stdin支持添加到任何接受文件输入的CLI应用程序.
 - [wifi-password](https://github.com/kevva/wifi-password-cli) -获取当前的wifi密码.
@@ -277,7 +277,7 @@
 
 ### Build tools
 
-- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
+- [parcel](https://github.com/parcel-bundler/parcel) -快速，零配置的Web应用程序捆绑包.
 - [webpack](https://github.com/webpack/webpack) -打包浏览器的模块和资产.
 - [rollup](https://github.com/rollup/rollup) -下一代ES2015模块捆绑器.
 - [gulp](https://github.com/gulpjs/gulp) -流媒体和快速构建系统，其代码优先于配置.
@@ -318,7 +318,7 @@
 - [Restify](https://github.com/restify/node-restify) -使您能够构建正确的REST Web服务.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) -具有ES2015 +支持，WebSockets，REST API的框架.
 - [ActionHero](https://github.com/actionhero/actionhero) -用于为TCP套接字，WebSocket和HTTP客户端制作可重用和可伸缩API的框架.
-- [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
+- [Next.js](https://github.com/zeit/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
 - [seneca](https://github.com/senecajs/seneca) -编写微服务的工具包.
 - [AdonisJs](http://adonisjs.com) -基于Dependency Injection和IoC容器的坚实基础的Node.js的真正MVC框架.
@@ -390,7 +390,7 @@
 ### Streams
 
 - [through2](https://github.com/rvagg/through2) -stream2周围的微小包装器进行转换以避免显式的子类化噪声.
-- [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
+- [from2](https://github.com/hughsk/from2) -ReadableStream的便捷包装，灵感来自`through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
 - [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
 - [duplexify](https://github.com/mafintosh/duplexify) -将可写和可读流转换为单个stream2双工流.
@@ -440,18 +440,18 @@
 - [indent-string](https://github.com/sindresorhus/indent-string) -缩进字符串中的每一行.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) -从字符串的每一行中去除前导空格.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) -检测代码的缩进.
-- [he](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
+- [he](https://github.com/mathiasbynens/he) -HTML实体编码器/解码器.
 - [i18n-node](https://github.com/mashpie/i18n-node) -具有动态JSON存储的简单翻译模块.
 - [babelfish](https://github.com/nodeca/babelfish) -i18n，复数非常简单的语法.
 - [matcher](https://github.com/sindresorhus/matcher) -简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) -规范视觉上相似的unicode字符.
-- [i18next](https://github.com/i18next/i18next) -国际化框架.
+- [i18next](https://github.com/i18next/i18next) - Internationalization framework.
 - [nanoid](https://github.com/ai/nanoid) -微型，安全，URL友好的唯一字符串ID生成器.
 - [StegCloak](https://github.com/kurolabs/stegcloak) -隐藏在字符串中的秘密，一目了然.
 
 ### Number
 
-- [random-int](https://github.com/sindresorhus/random-int) -生成一个随机整数.
+- [random-int](https://github.com/sindresorhus/random-int) - Generate a random integer.
 - [random-float](https://github.com/sindresorhus/random-float) -产生随机浮动.
 - [unique-random](https://github.com/sindresorhus/unique-random) -生成连续唯一的随机数.
 - [round-to](https://github.com/sindresorhus/round-to) -将数字四舍五入到小数点后的特定位数：“ 1.234”→“ 1.2”.
@@ -757,7 +757,7 @@
 - [import-fresh](https://github.com/sindresorhus/import-fresh) -在绕过缓存的同时导入模块.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) -从字符串/缓冲区/流中剥离UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) -获取系统区域设置.
-- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
+- [ssh2](https://github.com/mscdex/ssh2) -SSH2客户端和服务器模块.
 - [adit](https://github.com/markelog/adit) -SSH隧道变得简单.
 - [import-lazy](https://github.com/sindresorhus/import-lazy) -延迟导入模块.
 - [file-type](https://github.com/sindresorhus/file-type) -检测缓冲区的文件类型.
@@ -835,6 +835,13 @@
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) -Node.js的创建者关于其某些局限性的深刻见解.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) -有关如何使用Node.js制作REST API的视频课程.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) -在不使用Express之类的框架的情况下构建REST API.
+- [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) -V8体系结构的基础知识以及如何优化JavaScript执行.
+- [Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](https://www.youtube.com/watch?v=UJPdhx5zTaw) -V8如何优化JavaScript执行.
+- [Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance](https://www.youtube.com/watch?v=VhpdsjBUS3g) -如何使用V8知识检测应用瓶颈并优化性能.
+- [Node.js Internal Architecture | Ignition, Turbofan, Libuv](https://www.youtube.com/watch?v=OCjvhCFFPTw) -Node.js如何在内部工作，重点是V8和libuv.
+- [Introduction to libuv: What's a Unicorn Velociraptor?](https://www.youtube.com/watch?v=_c51fcXRLGw) -`libuv`体系结构，线程池和事件循环及其源代码.
+- [libuv Cross platform asynchronous i/o](https://www.youtube.com/watch?v=kCJ3PFU8Ke8) -`libuv`体系结构的详细信息，例如它实际在哪里使用线程.
+- [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) -通过有关V8，libuv，事件循环，模块，流和集群的测验来解释Node.js内部.
 
 ### Books
 

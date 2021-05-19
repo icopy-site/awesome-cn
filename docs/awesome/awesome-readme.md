@@ -19,7 +19,7 @@
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  -项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  -徽章，干净清晰. 折叠上方的漂亮小菜单，包含有用的链接. 其中的FAQ是主要问题. 支持者. 好的语言.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  -清洁项目徽标. 有用的标志（版本，代码样式，测试封面，文档）. 快速入门，易懂的安装和使用手册，视频截屏视频，具有充分记录的项目功能的ToC（在终端中演示演示记录），清晰的自述文件，项目哲学注释（“为什么要这样”），最常见的问题，和更多.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) -徽章，徽标，TOC等.它是一篇关于技术，如何使用它，其背后的哲学以及如何适应更大的生态系统的，写得很好的文章，因此脱颖而出.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  -使用GIF屏幕截图清除自述文件，以进行快速演示. 多个徽章，简洁的目录，在线游乐场，故事书，详细说明等.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme)  -项目横幅和徽标. 徽章. 可扩展的演练部分. 简明扼要的描述和目的.  TOC便于导航. 用于安装演示的GIF. 多种内容丰富的视觉效果.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme)  -TOC便于导航. 简洁的项目描述. 安装和使用部分. 输出示例. 很棒的功能概述. 替代品列表. 常问问题.
@@ -33,7 +33,7 @@
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme)  -精美的目录. 项目徽标. 动画项目横幅. 完整的项目文件夹结构. 明确说明项目的用途. 不错的贡献者部分. 轻松导航.
 - [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme)  -精美的目录. 项目徽标. 动画项目横幅. 合适的GIF显示项目的每个部分. 存储库中项目文件的完整列表及其功能. 完成执行指令.
 - [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme)  -完整的项目文件说明. 项目徽标. 动画项目横幅. 简洁的项目描述. 清除执行指令.
-- [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) -徽章（版本，下载，覆盖范围，大小），Twitter意向，项目徽标，功能列表，动机，安装，带有GIF的示例，表情符号，可折叠部分，实时演示，API详细用法，常见问题解答，聊天链接.
+- [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) -徽章（版本，下载，覆盖范围，大小），Twitter目的，项目徽标，功能列表，动机，安装，带有GIF的示例，表情符号，可折叠部分，实时演示，API详细用法，常见问题解答，聊天链接.
 - [Martinsos/edlib](https://github.com/Martinsos/edlib#readme)  -信息徽章（内部版本，版本，出版物）. 简明扼要的描述. 功能列表. 目录. 屏幕截图. 简明的说明以及用于构建和包含在项目中的示例. 通用代码示例可帮助您快速入门.
 - [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme)  -项目横幅. 徽章的统计数据. 放置位置良好的表情符号. 贡献者的照片.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor#readme)  -项目徽标. 使用演示GIF清晰地概述了项目功能. 徽章.  TOC便于导航. 在标题前面的彩色图标.
@@ -50,7 +50,7 @@
 - [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  -GIF演示. 带有屏幕截图的简单安装和设置部分. 制作徽章. 用例的好例子.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  -清洁项目徽标. 顶部简要说明.  Sankey图，快速链接，徽章，特定于操作系统的图标，目录，详细的发行变更日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  -项目徽标. 制作徽章. 多种编程语言的文档结构. 用法示例.
-- [shama/gaze](https://github.com/shama/gaze#readme) <i>- Project logo.</i> <b>-项目徽标。</b> <i>Concise description.</i><b>简明扼要的描述。</b> <i>Feature list.</i><b>功能列表。</b> <i>Usage section.</i><b>使用情况部分。</b> <i>FAQ.</i><b>常问问题。</b> <i>Great API documentation.</i><b>很棒的API文档。</b> <i>Release history.</i><b>发行历史。</b>
+- [shama/gaze](https://github.com/shama/gaze#readme)  -项目徽标. 简明扼要的描述. 功能列表. 使用情况部分. 常问问题. 很棒的API文档. 发行历史.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme)  - 概述. 所需依赖项列表. 存储库中所有文件的完整列表以及它们的功能. 有关如何将它们联系在一起的直观图表.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  -项目徽标. 明确说明项目的用途. 制作徽章. 演示截图. 简单的安装和使用部分. 包括一个具有常用用法的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  -清理动画截图. 自定义号召性用语徽章. 用法展示.
@@ -78,6 +78,7 @@
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) -从以下位置复制粘贴您的README.md的地方
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) -生成漂亮的README.md文件的CLI
 - [Readme.so](https://readme.so/) -一个简单的编辑器，可让您快速添加和自定义项目自述文件所需的所有部分.
+- [READMINE](https://github.com/mhucka/readmine)  -用于软件项目的透彻，清晰和自描述的README文件模板； 复制并根据需要进行编辑.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme)  -标准的README样式规范. 也有一个生成器来帮助创建符合规范的自述文件.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) -简单的模板，可帮助您涵盖所有基础知识.
 
@@ -88,7 +89,7 @@
 - [Gifox](https://gifox.io) -** $ 4.99 **-最干净的用户界面，热键和许多高级功能
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) -**免费**-比其他颜色更鲜艳，但尺寸仍然较小
 - [Giphy Capture](https://giphy.com/apps/giphycapture) -**免费**-易于上传到giphy.com，用户体验有些烦人.
-- [LICEcap](https://www.cockos.com/licecap/) -**免费**-不太直观，更多功能
+- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
 - [Peek](https://github.com/phw/peek#readme) -**免费**-简单易用的Linux用户.
 - [Recordit](https://recordit.co/) -**免费**-简单，干净的用户界面，但会自动上传到 [recordit.co](https://recordit.co/)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) -**免费**-开源，可自定义的用户界面和易于编辑的GIF，易于上手.
@@ -110,4 +111,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matias Singers](https://mts.io) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Matias Singers](https://mts.io) 已放弃此作品的所有版权以及相关或邻近的权利.

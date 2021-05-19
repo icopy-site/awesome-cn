@@ -110,7 +110,7 @@
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
 - ：草莓： [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
-- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
+- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) -电子邮件传输插件，用于通过SendGrid API发送电子邮件.
 
 ## Environment
@@ -198,7 +198,7 @@
 *其他插件和库.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) -使您能够将控制器操作作为单个类进行管理.
-- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -将枚举列表支持添加到您的应用程序的插件.
 - ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
@@ -221,7 +221,7 @@
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) -轻松发行可用于邮件身份验证的令牌.
 - ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools)  -用于登录，注册，密码重置等的用户工具. 像CRUD一样开箱即用，并且高度可配置.
-- [Utils plugin](https://github.com/cakemanager/cakephp-utils) -包含有用的组件（授权者，菜单）和行为（WhoDidIt，Uploadable，Metas，Stateable）.
+- [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
 - [Wrench plugin](https://github.com/HavokInspiration/wrench)  -维护模式插件. 易于扩展和定制.
 - [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) -用于使用YAML配置文件而不是PHP数组.
 
@@ -256,7 +256,7 @@
 - ：草莓： [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) -允许设置表格的默认顺序.
 - ：草莓： [Muffin/Sti plugin](https://github.com/UseMuffin/Sti) -CakePHP的单表继承. 
 - ：草莓： [Muffin/Trash plugin](https://github.com/usemuffin/trash) -CakePHP的软删除行为.
-- [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
+- [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) -保留相关模型的选定字段的行为.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) -PHPExcel的ORM包装器.
 - ：草莓： [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) -单表继承（STI）插件.
 - ：草莓： [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
@@ -287,8 +287,8 @@
 - ：草莓： [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  -提供完整API的多合一解决方案. 它包括版本控制，渲染器，CRUD，身份验证，扩展（分页，过滤器，HATEOAS）等等.
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
-- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -用于构建的Crud侦听器 [JSON API](https://jsonapi.org/) 兼容的API.
-- ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
+- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -用于构建的Crud监听器 [JSON API](https://jsonapi.org/) 兼容的API.
+- ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  -此插件会根据您现有的模型和路线自动构建Swagger UI文档. 还可以使用redoc选项.
 
 ## Search
@@ -301,7 +301,7 @@
 - ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.
 
 ## Security
-*有关安全性的插件和信息，可防止漏洞并防御XSS等.
+*Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
 
 - ：草莓： [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) -在不涉及数据库的情况下将Brute Force Protection添加到安装中的简单方法.
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
@@ -317,7 +317,7 @@
 ## SEO
 *搜索引擎优化.*
 
-- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件. 使用可插拔的体系结构，该体系结构允许使用您自己的slug生成器类.
+- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件. 使用可插拔的体系结构，该体系结构允许使用自己的子弹生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按内容查找记录.
 - ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的.
@@ -387,6 +387,7 @@
 *用于创建沙盒开发环境的软件和工具.
 
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) -.gitignore文件建议.
+- ：草莓： [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) -用于docker和kubernetes设置的cakephp / app模板.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) -用于分解多个CakePHP 3.x Vanilla Dev Environments的工具.
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) -可自动设置（CakePHP）应用程序的docker开发环境，其中包括许多工具.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) -在docker容器环境中的CakePHP.

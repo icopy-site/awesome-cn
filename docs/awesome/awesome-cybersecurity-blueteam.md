@@ -42,7 +42,7 @@
 
 也可以看看 [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)， 和 [IR management consoles](#ir-management-consoles).
 
-- [Shuffle](https://shuffler.io/) -适用于IT专业人员和蓝色团队的图形化通用工作流（自动化）构建器.
+- [Shuffle](https://shuffler.io/) - Graphical generalized workflow (automation) builder for IT professionals and blue teamers.
 
 ## Cloud platform security
 
@@ -67,13 +67,15 @@
 
 ### Kubernetes
 
-- [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
+也可以看看 [Kubernetes-Security.info](https://kubernetes-security.info/).
+
+- [KubeSec](https://kubesec.io/) -Kubernetes清单的静态分析器可以作为Kuberenetes准入控制器或自己的云服务在本地运行.
 - [Kyverno](https://kyverno.io/) -为Kubernetes设计的策略引擎.
 - [Linkerd](https://linkerd.io/) -特定于Kubernetes的超轻服务网格，可为Kubernetes应用程序增加可观察性，可靠性和安全性，而无需对应用程序本身进行任何修改.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
 - [Polaris](https://polaris.docs.fairwinds.com/) -通过针对代码提交，Kubernetes接纳请求或集群中已在运行的实时资源运行测试来验证Kubernetes最佳实践. 
 - [certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) -该实用程序可将TLS证书的到期日作为Prometheus指标公开.
-- [k-rail](https://github.com/cruise-automation/k-rail) -Kubernetes的工作量策略实施工具.
+- [k-rail](https://github.com/cruise-automation/k-rail) - Workload policy enforcement tool for Kubernetes.
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) -允许群集管理员转储正在运行的Pod及其所有容器的当前状态，以便安全专业人员可以执行脱机取证分析.
 - [kube-hunter](https://kube-hunter.aquasec.com/) -开源工具，可以从外部（“攻击者的视图”）或集群内部运行一组测试（“猎人”）以解决Kubernetes集群中的安全问题.
 - [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) -允许将经常错过的Kubernetes事件导出到各种输出，以便可以将它们用于可观察性或警报目的.
@@ -100,7 +102,7 @@
 也可以看看 [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [Bane](https://github.com/genuinetools/bane) -用于Docker容器的自定义更好的AppArmor配置文件生成器.
-- [BlackBox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion by encrypting them "at rest" using GnuPG.
+- [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明地保护使用Linux容器管理平台（如Docker和Kubernetes）部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就好像是数据一样，从而发现整个代码库中的漏洞.
@@ -140,6 +142,12 @@
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) -跨云本机堆栈的统一工具集和策略框架.
 - [Tang](https://github.com/latchset/tang)  -用于将数据绑定到网络状态的服务器； 仅当客户端位于某个（受保护的）网络上时才向客户端提供数据.
 
+### Supply chain security
+
+- [Grafeas](https://grafeas.io/) -打开工件元数据API，以审核和管理您的软件供应链.
+- [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) -使用GnuPG for Helm进行图表签名和验证.
+- [Notary](https://github.com/theupdateframework/notary) -旨在通过使人们易于发布和验证内容来使互联网更加安全.
+
 ## Honeypots
 
 也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
@@ -172,7 +180,7 @@
 也可以看看 [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) -通过可视化和分析Windows事件日志来调查恶意Windows登录.
-- [Volatility](https://www.volatilityfoundation.org/) -先进的内存取证框架.
+- [Volatility](https://www.volatilityfoundation.org/) - Advanced memory forensics framework.
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) -使用零安全准备假设自动化您的事件响应.
 
 ### IR management consoles
@@ -217,7 +225,7 @@
 
 也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools).
 
-- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
+- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时向您发出警报.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
 - [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
@@ -257,7 +265,7 @@
 - [ChopShop](https://github.com/MITRECND/chopshop) -协助分析人员创建和执行基于APT的基于Pynids的解码器和检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) -恶意网络流量检测系统.
 - [Moloch](https://github.com/aol/moloch) -增强您当前的安全基础架构，以标准PCAP格式存储和索引网络流量，从而提供快速的索引访问.
-- [OwlH](https://www.owlh.net/) - Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.
+- [OwlH](https://www.owlh.net/) -通过可视化Suricata，Zeek和Moloch生命周期来帮助大规模管理网络IDS.
 - [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) -用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等.
 - [Respounder](https://github.com/codeexpress/respounder) -检测网络上是否存在响应者LLMNR / NBT-NS / MDNS中毒器.
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
@@ -280,7 +288,7 @@
 也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
 - [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
-- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户蜂拥而至.
+- [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
 - [Nagios](https://nagios.org) -流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) -免费且功能丰富的网络监视系统，支持多种配置，多种警报机制（电子邮件，XMPP，SMS）以及多种数据收集方法（SNMP，HTTP，JDBC等）.
 - [osquery](https://github.com/facebook/osquery) -适用于macOS，Windows和Linux的操作系统检测框架，将操作系统公开为可以使用类似SQL的语法查询的高性能关系数据库.
@@ -301,7 +309,7 @@
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
-- [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，该工具提供基于主机的调查功能.
+- [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，可提供基于主机的调查功能.
 
 ## Threat intelligence
 

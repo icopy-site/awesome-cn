@@ -17,7 +17,7 @@
 
 [English](https://github.com/jaywcjlove/awesome-mac/blob/master/README.md) | [中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
-![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
+！[开源软件] [OSS图标]表示**开源**，单击以打开**开源**回购； \
 ！[免费软件] [免费软件图标]意味着可以免费使用**或免费使用个人许可； \
 ！[App Store] [app-store Icon]表示** App store **超链接； \
 ！[Awesome List] [awesome-list Icon]表示该项目对应的** Awesome list **的超链接；
@@ -99,7 +99,7 @@
 * [OneNote](https://www.onenote.com/)  -由Microsoft做笔记的应用程序.  ！[免费软件] [免费软件图标]
 * [SideNotes](https://www.apptorium.com/sidenotes)  -屏幕侧的快速注释. 在使用其他应用程序时做笔记. 使用Markdown进行文本格式设置. 
 * [QOwnNotes](http://www.qownnotes.org/)  -带有markdown支持和待办事项列表管理器的开源记事本.  [！[开源软件] [OSS图标]]（https://github.com/pbek/QOwnNotes）！[免费软件] [免费软件图标]
-* [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX.
+* [Quiver](http://happenapps.com/#quiver) -程序员笔记本，可让您轻松地将文本，代码，Markdown和LaTeX混合在一个便笺中，使用强大的代码编辑器编辑代码并实时预览Markdown和LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) -云笔记知识管理，协作平台，基于Markdown的写作，支持嵌入式流程图，脑图，时序，代码渲染，草图创建，个人知识共享等.与有道云笔记和Evernote类似产品相比，包括其所有功能，支持知识共享以及更强大的创建，协作和编辑器，它来自阿里巴巴ant financial.！[免费软件] [免费软件图标]
 
 #### Journaling
@@ -308,7 +308,7 @@
 #### Version Control
 
 * [Cornerstone](http://www.zennaware.com/cornerstone/) -带有华丽界面的强大版本控制.
-* [Fork](https://git-fork.com/)  -适用于Mac的快速友好的Git客户端.  ！[免费软件] [免费软件图标]
+* [Fork](https://git-fork.com/) - Fast and friendly Git client for Mac. ![Freeware][Freeware Icon]
 * [Git Cola](https://git-cola.github.io/)  -强大，快速，轻巧且友好的Git GUI. 对于那些咖啡因瘾君子的用户.  ！[开源软件] [OSS图标]
 * [Gitbar](https://github.com/Shikkic/gitbar)  -开源，在菜单栏上显示Github贡献统计信息.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Shikkic/gitbar）
 * [GitFinder](https://gitfinder.com/)  -具有Finder集成的Mac版快速轻量级Git客户端.  ！[免费软件] [免费软件图标]
@@ -356,7 +356,7 @@
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) -简单的MongoDB GUI.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/)  -在Mac上开始使用mongoDB的最简单方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/gcollazo/mongodbapp）
 * [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
-* [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) -官方的MySQL GUI.
+* [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
 * [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler)  -功能强大且经济高效的数据库设计工具，可帮助您构建高质量的概念，逻辑和物理数据模型.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082）
 * [neo4j](https://neo4j.com)  -领先的图形数据库！  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/neo4j/neo4j）
 * [pgModeler](https://pgmodeler.io)  -是专为PostgreSQL设计的开源数据建模工具.  [！[开源软件] [OSS图标]]（https://github.com/pgmodeler/pgmodeler）！[免费软件] [免费软件图标]
@@ -442,7 +442,7 @@
 
 * [CleanShot](https://getcleanshot.com/) -探索捕捉Mac屏幕的绝佳方法.
 * [CloudApp](https://www.getcloudapp.com/)  -以视线速度工作.  ！[免费软件] [免费软件图标]
-* [Gifox](https://gifox.io/) - Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
+* [Gifox](https://gifox.io/)  -Gif记录和共享.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744）
 * [Kap](https://getkap.co/)  -使用网络技术构建的开源屏幕录像机.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/kap）！[免费软件] [免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr)  -KeyCastr，一个开源的击键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar)  -适用于Mac的简单屏幕和麦克风音频记录器.  [！[开源软件] [OSS图标]]（https://github.com/vishaltelangre/Kyapchar）！[免费软件] [免费软件图标]
@@ -494,7 +494,7 @@
 #### Collaboration and Team Tools
 
 * [Adium](https://adium.im/)  -适用于Mac OS X的免费即时消息应用程序.连接到AIM，MSN，SMPP，Yahoo等.  ！[免费软件] [免费软件图标]
-* [Caprine](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Caprine](https://github.com/sindresorhus/caprine)  -以第三方隐私为重点的Facebook Messenger应用.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [DingTalk](https://www.dingtalk.com/en)  -全球超过500万家企业和组织使用的免费，强大且专业的办公工具.  ！[免费软件] [免费软件图标]
 * [Discord](https://discordapp.com/) -免费，安全且可在您的台式机和手机上运行的面向游戏玩家的多合一语音和文本聊天.
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) 基于多协议的包装，用于基于Web的聊天. 一个应用程序，23个Messenger服务.  ！[免费软件] [免费软件图标]
@@ -572,8 +572,9 @@
 * [Natron](https://natrongithub.github.io/)  -开源合成软件. 基于节点图. 在功能上类似于The Foundry的Adobe After Effects和Nuke.  [！[开源软件] [OSS图标]]（https://github.com/MrKepzie/Natron）
 * [Perian](http://perian.org/#download)  -（**不再积极开发**）~~让QuickTime播放所有免费插件的常见格式~~.  [！[开源软件] [OSS图标]]（https://github.com/MaddTheSane/perian）
 * [Playback](https://mafintosh.github.io/playback/)  -实验视频播放器.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/mafintosh/playback）
+* [Plug](https://plugformac.com)  -从Hype Machine发现并听音乐.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/Plug）！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https： //apps.apple.com/app/id1514182074）
 * [Popcorn Time](https://popcorntime.sh)  -立即观看洪流电影，此“爆米花时间”服务将永远不会被取消. 下载并享受.  ！[免费软件] [免费软件图标]
-* [ScreenFlow](http://www.telestream.net/screenflow/) -屏幕广播和视频编辑软件.
+* [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org)  -免费的开源视频编辑器.  [！[开源软件] [OSS图标]]（https://github.com/mltframework/shotcut）！[免费软件] [免费软件图标]
 * [Soda Player](https://www.sodaplayer.com/)  -可以播放种子，磁力链接，在线视频，自动字幕，链接和本地视频文件的播放器.  ！[免费软件] [免费软件图标]
 * [Sonora](https://github.com/sonoramac/Sonora)  -最小，设计精美的音乐播放器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/sonoramac/Sonora）
@@ -672,7 +673,7 @@
 * [tinc](https://www.tinc-vpn.org)  -安全的网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [Tunnelbear](https://www.tunnelbear.com)  -真正简单的VPN，可安全私密地浏览网页. 使用适用于Mac，PC，iOS，Android和Chrome的应用程序解除对世界各地网站的阻止.
 * [Tunnelblick](https://tunnelblick.net/downloads.html) -OS X上用于OpenVPN的免费开源图形用户界面.！[免费软件] [免费软件图标]
-* [V2rayU](https://github.com/yanue/V2rayU)  -基于v2ray的Macos客户端.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yanue/V2rayU）
+* [V2rayU](https://github.com/yanue/V2rayU) - Macos client based on v2ray. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yanue/V2rayU)
 * [Windscribe](https://windscribe.com)  -每月当场免费提供10GB，并提供有限的（免费）位置控制. 连接也花费很少的时间.
 * [ClashX](https://github.com/yichengchen/clashX)  -基于Mac的基于规则的代理，适用于Clash.  [！[开源软件] [OSS图标]]（https://github.com/yichengchen/clashX）！[免费软件] [免费软件图标]
 
@@ -704,6 +705,7 @@
 * [Itsycal](https://www.mowglii.com/itsycal/)  -Mac菜单栏的小日历.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/sfsam/itsycal）
 * [MeetingBar](https://meetingbar.onrender.com) -日历会议的菜单栏应用程序[！[开源软件] [OSS图标]！[免费软件] [免费软件]]（https://github.com/leits/MeetingBar）
 * [Streaker](https://github.com/jamieweavis/streaker)  -GitHub贡献条纹跟踪菜单栏应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jamieweavis/streaker）
+* [UTC Time](https://sindresorhus.com/utc-time)  -在菜单栏或窗口小部件中以UTC显示时间.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/id1538245904）
 * [Vanilla](http://vanilla.matthewpalmer.net)  -在Mac上隐藏菜单栏图标.  ！[免费软件] [免费软件图标]
 * [Jiffy](https://sindresorhus.com/jiffy)  -在GIPHY上发现并共享最好的GIF.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/id1502527999）
 * [Xbar](https://xbarapp.com/)  -将任何脚本或程序的输出放入macOS菜单栏（BitBar重新启动）.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/matryer/xbar）
@@ -805,10 +807,10 @@
 
 * [1Password](https://1password.com/) -跨平台密码管理工具.
 * [Authy](https://authy.com)  -两因素身份验证令牌管理器，可在您的设备之间进行备份和同步.  ！[免费软件] [免费软件图标]
-* [Bitwarden](https://bitwarden.com) - Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
+* [Bitwarden](https://bitwarden.com)  -适用于Mac OS，iOS和浏览器的开源密码管理工具.  [！[开源软件] [OSS图标]]（https://github.com/bitwarden）！[免费软件] [免费软件图标]
 * [Buttercup](https://buttercup.pw/) -您应得的密码管理器！[免费软件] [免费软件图标]
 * [Dashlane](https://www.dashlane.com)  -具有屡获殊荣的设计的基于云的密码管理器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/dashlane-password-manager/id552383089）
-* [Enpass](https://www.enpass.io/)  -具有云集成功能的跨平台密码管理工具.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/enpass-password-manager/id455566716）
+* [Enpass](https://www.enpass.io/) - Cross-platform password management tool with cloud integration. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/enpass-password-manager/id455566716)
 * [Keeweb](https://keeweb.info/)  -与KeePass兼容的免费跨平台密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/keeweb/keeweb）！[免费软件] [免费软件图标]
 * [LastPass](https://lastpass.com/) -适用于Mac OS和浏览器的密码管理工具.
 * [MacPass](https://macpass.github.io/)  -开源KeePass Mac OS客户端.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mstarke/MacPass）
@@ -917,7 +919,7 @@
 
 * [alternativeTo](http://alternativeto.net/)  -也是一个很好的社区. 如果您正在寻找** FOR ** Windows或其他平台的某些替代应用程序，请访问此站点.
 * [Slant](https://www.slant.co)  -我个人推荐这个. 这是一个可以并行比较应用程序的平台，您可能会通过查看其他用户的建议来了解自己的想法. 如果您从此列表中找到一个应用程序，请贡献！
-* Also, [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com)， 你知道该怎么做.
+* 还， [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com)， 你知道该怎么做.
 *应用购物者：[http://appshopper.com/](http://appshopper.com/)
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 *其他网站，例如 [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) 是很棒的资源.
@@ -959,7 +961,7 @@
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-这项作品是根据《 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [OSS图标]：https://jaywcjlove.github.io/sb/ico/min-oss.svg“开源软件”
 [免费软件图标]：https://jaywcjlove.github.io/sb/ico/min-free.svg“免费软件”

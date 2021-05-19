@@ -54,7 +54,7 @@
 [lucene4s](https://github.com/outr/lucene4s)  |  Lucene周围的轻巧便利包装，可简化复杂的任务并添加Scala糖.  | ![GitHub stars](https://img.shields.io/github/stars/outr/lucene4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/lucene4s)
 [mapperdao](https://github.com/kostaskougios/mapperdao)  |  Scala ORM库| ![GitHub stars](https://img.shields.io/github/stars/kostaskougios/mapperdao) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kostaskougios/mapperdao)
 [morpheus](https://github.com/outworkers/morpheus)  | 用于SQL数据库的反应性类型安全Scala驱动程序| ![GitHub stars](https://img.shields.io/github/stars/outworkers/morpheus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outworkers/morpheus)
-[neotypes](https://github.com/neotypes/neotypes)  | 用于neo4j的Scala轻型，类型安全的异步驱动程序| ![GitHub stars](https://img.shields.io/github/stars/neotypes/neotypes) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neotypes/neotypes)
+[neotypes](https://github.com/neotypes/neotypes)  | 用于neo4j的Scala轻型，类型安全的异步驱动程序|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/neotypes/neotypes) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neotypes/neotypes)
 [**phantom**](https://github.com/outworkers/phantom)  | 用于Cassandra / Datastax Enterprise的模式安全，类型安全，反应式Scala驱动程序| ![GitHub stars](https://img.shields.io/github/stars/outworkers/phantom) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outworkers/phantom)
 [pulsar4s](https://github.com/sksamuel/pulsar4s)  | 适用于Apache Pulsar的惯用，类型安全和反应式Scala客户端| ![GitHub stars](https://img.shields.io/github/stars/sksamuel/pulsar4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/pulsar4s)
 [**quill**](https://github.com/getquill/quill)  |  Scala的编译时语言集成查询 ![GitHub stars](https://img.shields.io/github/stars/getquill/quill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/getquill/quill)
@@ -100,7 +100,7 @@
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
 [analogweb-scala](https://github.com/analogweb/analogweb-scala)  | 用于Scala的微型高性能HTTP服务器| ![GitHub stars](https://img.shields.io/github/stars/analogweb/analogweb-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/analogweb/analogweb-scala)
-[chaos](https://github.com/mesosphere/chaos) | A lightweight framework for writing REST services in Scala. | ![GitHub stars](https://img.shields.io/github/stars/mesosphere/chaos) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mesosphere/chaos)
+[chaos](https://github.com/mesosphere/chaos)  | 用于在Scala中编写REST服务的轻量级框架.  | ![GitHub stars](https://img.shields.io/github/stars/mesosphere/chaos) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mesosphere/chaos)
 [**colossus**](https://github.com/tumblr/colossus)  |  Scala的I / O和微服务库| ![GitHub stars](https://img.shields.io/github/stars/tumblr/colossus) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tumblr/colossus)
 [**finatra**](https://github.com/twitter/finatra)  | 基于TwitterServer和Finagle构建的快速，可测试的Scala服务| ![GitHub stars](https://img.shields.io/github/stars/twitter/finatra) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/finatra)
 [**framework**](https://github.com/lift/framework)  | 升降机框架| ![GitHub stars](https://img.shields.io/github/stars/lift/framework) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lift/framework)
@@ -201,6 +201,7 @@
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
 [**argonaut**](https://github.com/argonaut-io/argonaut)  |  Scala中的纯功能JSON解析器和库.  | ![GitHub stars](https://img.shields.io/github/stars/argonaut-io/argonaut) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/argonaut-io/argonaut)
+[borer](https://github.com/sirthias/borer)  |  Scala中高效的CBOR和JSON（de）序列化|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/sirthias/borer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/borer)
 [**circe**](https://github.com/circe/circe)  |  Scala的另一个JSON库| ![GitHub stars](https://img.shields.io/github/stars/circe/circe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/circe/circe)
 [diffson](https://github.com/gnieh/diffson)  |  Json的Scala差异/补丁库 ![GitHub stars](https://img.shields.io/github/stars/gnieh/diffson) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gnieh/diffson)
 [jackson-module-scala](https://github.com/FasterXML/jackson-module-scala)  |  Jackson的附加模块（https://github.com/FasterXML/jackson）支持特定于Scala的数据类型| ![GitHub stars](https://img.shields.io/github/stars/FasterXML/jackson-module-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/FasterXML/jackson-module-scala)
@@ -211,7 +212,7 @@
 [ninny-json](https://github.com/kag0/ninny-json)  | 知道空字段和缺席字段之间的区别的JSON类型类| ![GitHub stars](https://img.shields.io/github/stars/kag0/ninny-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kag0/ninny-json)
 [play-json](https://github.com/playframework/play-json)  |  Play JSON库| ![GitHub stars](https://img.shields.io/github/stars/playframework/play-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/playframework/play-json)
 [pushka](https://github.com/fomkin/pushka)  | 带有注释的已终止Pure Scala序列化库| ![GitHub stars](https://img.shields.io/github/stars/fomkin/pushka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fomkin/pushka)
-[sbt-json](https://github.com/battermann/sbt-json)  |  sbt插件可生成Scala案例类，以便轻松，静态类型化和隐式访问JSON数据，例如从API响应| ![GitHub stars](https://img.shields.io/github/stars/battermann/sbt-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/battermann/sbt-json)
+[sbt-json](https://github.com/battermann/sbt-json)  |  sbt插件可生成Scala案例类，以实现对JSON数据的轻松，静态类型化和隐式访问，例如从API响应| ![GitHub stars](https://img.shields.io/github/stars/battermann/sbt-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/battermann/sbt-json)
 [scala-jsonapi](https://github.com/scala-jsonapi/scala-jsonapi)  |  Scala支持库，用于将JSON API规范与Spray，Play！集成在一起. 或绕圈| ![GitHub stars](https://img.shields.io/github/stars/scala-jsonapi/scala-jsonapi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala-jsonapi/scala-jsonapi)
 [ScalaJack](https://github.com/gzoller/ScalaJack)  |  Scala的快速JSON解析器/生成器| ![GitHub stars](https://img.shields.io/github/stars/gzoller/ScalaJack) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gzoller/ScalaJack)
 [**spray-json**](https://github.com/spray/spray-json)  |  Scala中的轻量级，干净且简单的JSON实现| ![GitHub stars](https://img.shields.io/github/stars/spray/spray-json) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray-json)
@@ -233,7 +234,7 @@
 [fm-flatfile](https://github.com/frugalmechanic/fm-flatfile)  | 用于读取平面文件数据（CSV / TSV / XLS / XLSX）的Scala库| ![GitHub stars](https://img.shields.io/github/stars/frugalmechanic/fm-flatfile) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/frugalmechanic/fm-flatfile)
 [kantan.csv](https://github.com/nrinaudo/kantan.csv)  |  Scala的CSV处理库| ![GitHub stars](https://img.shields.io/github/stars/nrinaudo/kantan.csv) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nrinaudo/kantan.csv)
 [**scala-csv**](https://github.com/tototoshi/scala-csv)  |  Scala的CSV读取器/写入器| ![GitHub stars](https://img.shields.io/github/stars/tototoshi/scala-csv) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tototoshi/scala-csv)
-[spata](https://github.com/fingo/spata)  | 用于Scala的功能性，基于流的CSV解析器| ![GitHub stars](https://img.shields.io/github/stars/fingo/spata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fingo/spata)
+[spata](https://github.com/fingo/spata)  | 适用于Scala的功能性，基于流的CSV处理器| ![GitHub stars](https://img.shields.io/github/stars/fingo/spata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fingo/spata)
 
 ### Serialization
 
@@ -242,6 +243,7 @@
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
 [avro-codegen](https://github.com/malcolmgreaves/avro-codegen)  | 用于Avro模式的Scala代码生成器.  | ![GitHub stars](https://img.shields.io/github/stars/malcolmgreaves/avro-codegen) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/malcolmgreaves/avro-codegen)
+[borer](https://github.com/sirthias/borer)  |  Scala中高效的CBOR和JSON（de）序列化|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/sirthias/borer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/borer)
 [**avro4s**](https://github.com/sksamuel/avro4s)  |  Scala的Avro模式生成和序列化/反序列化|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/sksamuel/avro4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sksamuel/avro4s)
 [**chill**](https://github.com/twitter/chill)  |  Kryo序列化库的Scala扩展| ![GitHub stars](https://img.shields.io/github/stars/twitter/chill) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/chill)
 [msgpack-scala](https://github.com/msgpack/msgpack-scala)  |  Scala的MessagePack序列化程序实现/ msgpack.org [Scala] | ![GitHub stars](https://img.shields.io/github/stars/msgpack/msgpack-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/msgpack/msgpack-scala)
@@ -280,7 +282,7 @@
 [**spark-notebook**](https://github.com/spark-notebook/spark-notebook)  | 使用Scala和Spark进行交互式和反应式数据科学.  | ![GitHub stars](https://img.shields.io/github/stars/spark-notebook/spark-notebook) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spark-notebook/spark-notebook)
 [**spire**](https://github.com/typelevel/spire)  | 适用于Scala的强大的新数字类型和数字抽象.  | ![GitHub stars](https://img.shields.io/github/stars/typelevel/spire) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/spire)
 [**squants**](https://github.com/typelevel/squants)  | 用于数量，度量单位和维度分析的Scala API |英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/typelevel/squants) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/squants)
-[Synapses](https://github.com/mrdimosthenis/Synapses)  | 在任何地方运行的轻量级神经网络库| ![GitHub stars](https://img.shields.io/github/stars/mrdimosthenis/Synapses) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrdimosthenis/Synapses)
+[Synapses](https://github.com/mrdimosthenis/Synapses)  | 用于神经网络的轻量级库，可在任何地方运行| ![GitHub stars](https://img.shields.io/github/stars/mrdimosthenis/Synapses) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrdimosthenis/Synapses)
 [**tensorflow_scala**](https://github.com/eaplatanios/tensorflow_scala)  | 用于Scala编程语言的TensorFlow API | ![GitHub stars](https://img.shields.io/github/stars/eaplatanios/tensorflow_scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eaplatanios/tensorflow_scala)
 [**zeppelin**](https://github.com/apache/zeppelin)  | 基于Web的笔记本，可通过SQL，Scala等实现数据驱动的交互式数据分析和协作文档.  | ![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/zeppelin)
 
@@ -301,7 +303,7 @@
 [**spark**](https://github.com/apache/spark)  |  Apache Spark-用于大规模数据处理的统一分析引擎| ![GitHub stars](https://img.shields.io/github/stars/apache/spark) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/spark)
 [sparkplug](https://github.com/indix/sparkplug)  |  Spark包使用基于SQL的规则“塞住”数据中的漏洞 ![GitHub stars](https://img.shields.io/github/stars/indix/sparkplug) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/indix/sparkplug)
 [**sparta**](https://github.com/Stratio/sparta)  | 基于Spark流的实时分析和数据管道 ![GitHub stars](https://img.shields.io/github/stars/Stratio/sparta) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Stratio/sparta)
-[**summingbird**](https://github.com/twitter/summingbird)  | 带有缩放和风暴的流式MapReduce ![GitHub stars](https://img.shields.io/github/stars/twitter/summingbird) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/summingbird)
+[**summingbird**](https://github.com/twitter/summingbird)  | 带有缩放和风暴的流式MapReduce |英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/twitter/summingbird) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/summingbird)
 [**Vegas**](https://github.com/vegas-viz/Vegas)  |  Scala + Spark缺少的MatPlotLib ![GitHub stars](https://img.shields.io/github/stars/vegas-viz/Vegas) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vegas-viz/Vegas)
 
 ### Command Line Interfaces
@@ -410,7 +412,7 @@
 [log4s](https://github.com/Log4s/log4s)  | 适用于Scala的高性能SLF4J包装器.  | ![GitHub stars](https://img.shields.io/github/stars/Log4s/log4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Log4s/log4s)
 [izumi](https://github.com/7mind/izumi)  |  Scala工具链的面向生产力的轻量级花式产品集合|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/7mind/izumi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/7mind/izumi)
 [**Monocle**](https://github.com/optics-dev/Monocle)  |  Scala的光学库| ![GitHub stars](https://img.shields.io/github/stars/optics-dev/Monocle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/optics-dev/Monocle)
-[**nscala-time**](https://github.com/nscala-time/nscala-time)  | 基于scala-time的Joda Time的新Scala包装器| ![GitHub stars](https://img.shields.io/github/stars/nscala-time/nscala-time) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nscala-time/nscala-time)
+[**nscala-time**](https://github.com/nscala-time/nscala-time) | A new Scala wrapper for Joda Time based on scala-time | ![GitHub stars](https://img.shields.io/github/stars/nscala-time/nscala-time) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nscala-time/nscala-time)
 [**quicklens**](https://github.com/softwaremill/quicklens)  | 修改深度嵌套的案例类字段| ![GitHub stars](https://img.shields.io/github/stars/softwaremill/quicklens) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/quicklens)
 [scala-records](https://github.com/scala-records/scala-records)  | 基于结构细化类型和宏的Scala标记记录.  | ![GitHub stars](https://img.shields.io/github/stars/scala-records/scala-records) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scala-records/scala-records)
 [**refined**](https://github.com/fthomas/refined)  |  Scala的简单优化类型| ![GitHub stars](https://img.shields.io/github/stars/fthomas/refined) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/fthomas/refined)
@@ -425,7 +427,7 @@
 [**simulacrum**](https://github.com/typelevel/simulacrum)  |  Scala中对类型类的一流语法支持 ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid)  |  Squid – Scala的类型安全的元编程和编译框架 ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
 [tinylog](https://github.com/tinylog-org/tinylog)  |  tinylog是用于Java，Kotlin，Scala和Android的轻量级日志记录框架| ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
-[**util**](https://github.com/twitter/util)  | 来自Twitter的精彩可重用代码 ![GitHub stars](https://img.shields.io/github/stars/twitter/util) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/util)
+[**util**](https://github.com/twitter/util)  | 来自Twitter的精彩可重用代码|英特尔®开发人员专区 ![GitHub stars](https://img.shields.io/github/stars/twitter/util) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/util)
 
 ### Misc
 
@@ -439,6 +441,7 @@
 [**bootzooka**](https://github.com/softwaremill/bootzooka)  | 一个简单的项目，可以快速开始开发基于Scala的微服务或Web应用程序，而无需编写登录名，用户注册等. ![GitHub stars](https://img.shields.io/github/stars/softwaremill/bootzooka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/bootzooka)
 [**eclair**](https://github.com/ACINQ/eclair)  | 闪电网络的标量实现.  | ![GitHub stars](https://img.shields.io/github/stars/ACINQ/eclair) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ACINQ/eclair)
 [fansi](https://github.com/com-lihaoyi/fansi)  |  Scala / Scala.js库，用于处理花式Ansi彩色字符串 ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/fansi) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/fansi)
+[figlet4s](https://github.com/ColOfAbRiX/figlet4s)  |  Scala中的ASCII艺术横幅| ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
 [fs2-aws](https://github.com/laserdisc-io/fs2-aws)  | 与AWS交互的fs2实用程序| ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/fs2-aws) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/fs2-aws)
 [google4s](https://github.com/toknapp/google4s)  |  Scala中用于Google Cloud Services的精益功能库| ![GitHub stars](https://img.shields.io/github/stars/toknapp/google4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/toknapp/google4s)
 [google-api-scala](https://github.com/EckerdCollege/google-api-scala)  | 该API是google java库的包装器. 当前映射管理员目录，驱动器和日历.  | ![GitHub stars](https://img.shields.io/github/stars/EckerdCollege/google-api-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/EckerdCollege/google-api-scala)
@@ -454,7 +457,7 @@
 [scala-stm](https://github.com/nbronson/scala-stm)  | 用于Scala的基于库的软件事务存储（STM），以及事务集和映射| ![GitHub stars](https://img.shields.io/github/stars/nbronson/scala-stm) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nbronson/scala-stm)
 [Scavenger](https://gitlab.com/aossie/Scavenger)  | 实验性自动定理证明器.  |
 [service-chassis](https://github.com/allawala/service-chassis)  | 一个可快速启动您的应用程序和服务的scala机箱| ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
-[figlet4s](https://github.com/ColOfAbRiX/figlet4s)  |  Scala中的ASCII艺术横幅| ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
+[spliff](https://github.com/sirthias/spliff)  |  Scala中的高效差异化| ![GitHub stars](https://img.shields.io/github/stars/sirthias/spliff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/spliff)
 
 ### Android
 
@@ -481,7 +484,7 @@
 [**requests-scala**](https://github.com/com-lihaoyi/requests-scala)  | 流行的Python Requests HTTP客户端的Scala端口：灵活，直观和易于使用.  | ![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/requests-scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/com-lihaoyi/requests-scala)
 [RosHTTP](https://github.com/hmil/RosHTTP)  | 统一的Scala.js + Scala HTTP客户端API | ![GitHub stars](https://img.shields.io/github/stars/hmil/RosHTTP) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hmil/RosHTTP)
 [**scalaj-http**](https://github.com/scalaj/scalaj-http)  |  HttpURLConnection的简单scala包装器. 包含OAuth.  | ![GitHub stars](https://img.shields.io/github/stars/scalaj/scalaj-http) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaj/scalaj-http)
-[scalaxb](https://github.com/eed3si9n/scalaxb) | scalaxb is an XML data binding tool for Scala. | ![GitHub stars](https://img.shields.io/github/stars/eed3si9n/scalaxb) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eed3si9n/scalaxb)
+[scalaxb](https://github.com/eed3si9n/scalaxb)  |  scalaxb是Scala的XML数据绑定工具.  | ![GitHub stars](https://img.shields.io/github/stars/eed3si9n/scalaxb) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eed3si9n/scalaxb)
 [**sttp**](https://github.com/softwaremill/sttp)  | 您一直想要的Scala HTTP客户端！  | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/sttp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/sttp)
 [**tapir**](https://github.com/softwaremill/tapir)  | 声明式，类型安全的Web端点库| ![GitHub stars](https://img.shields.io/github/stars/softwaremill/tapir) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/tapir)
 

@@ -37,8 +37,9 @@
 - [MathJaX](https://www.mathjax.org)  -JavaScript引擎可在网络上呈现数学公式. 结果看起来真的很圆滑.  ！[foss]
 - [mimeTeX](https://ctan.org/pkg/mimetex)  -mimeTeX是一个相当老的工具，用于将LaTeX公式转换为您的网站的PNG数字，而实际上不需要在服务器上安装LaTeX.  ！[foss]
 - [mathTeX](https://ctan.org/pkg/mathtex)  -mathTeX是mimeTeX的后继产品：它可以生成美观的图像，但需要在服务器上安装LaTeX.  ！[foss]
-- [KaTeX](https://khan.GitHub.io/KaTeX/)  -KaTeX是可汗学院制作的数学渲染库，着重于快速加载时间. 所有输出均以纯HTML格式处理，而不是固定图像.  ！[foss]
+- [KaTeX](https://khan.GitHub.io/KaTeX/)  -KaTeX是可汗学院（Khan Academy）制作的数学渲染库，着重于快速加载时间. 所有输出均以纯HTML格式处理，而不是固定图像.  ！[foss]
 - [Franklin.jl](https://franklinjl.org/)  -在Julia中，具有KaTeX支持，代码评估，类似于LaTeX的命令和可选的预渲染的静态站点生成器.  ！[foss]
+- [Purple Pi](https://github.com/nschloe/purple-pi) -浏览器扩展程序，可让您在GitHub页面，StackOverflow等中使用LaTeX.
 
 ## Editors
 
@@ -150,7 +151,7 @@ LaTeX编辑器的完整列表在以下位置收集 [tex.stackexchange.com](https
 
 ### References
 
-- [Cross-reference packages explained](https://tex.stackexchange.com/a/36312/9075) -阐述交叉引用包（cleveref，varioref，theoremref，nameref等）：使用哪个，哪个冲突？
+- [Cross-reference packages explained](https://tex.stackexchange.com/a/36312/9075) -详细说明交叉引用程序包（cleveref，varioref，theoremref，nameref等）：使用哪个，哪个冲突？
 
 ### Tables
 
@@ -174,7 +175,7 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 - [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  -有用的网站，其中包含一些自定义软件包，可以使用TikZ绘制特殊的图（Bode，Nyquist，电气原理图，方框图等）. 请注意，所有内容均为法语.
 - [tkz](http://altermundus.com/pages/tkz/index.html) -收集基于TikZ的软件包以绘制图表.
 - [pgfplots](http://pgfplots.sourceforge.net)  -在TikZ / pgf的基础上并以TikZ / pgf的样式提供了真正出色的绘图库. 该库可以加载CSV数据文件，执行一些计算并创建漂亮的图.
-- [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) -雅克·克雷默（JacquesCrémer）撰写的有关TikZ世界的简短介绍性文件.
+- [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) -收集由PetarVeličković出版的可用于PGF / TikZ的数字.
 - [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)  -将您的MATLAB图转换为PGFPlots / TikZ.  ！[windows]！[linux]！[mac]！[foss]
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib)  -将您的matplotlib图转换为PGFPlots / TikZ.  ！[windows]！[linux]！[mac]！[foss]
@@ -199,7 +200,7 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 ## Symbols
 
 - [Comprehensive LaTeX symbol list](https://www.ctan.org/tex-archive/info/symbols/comprehensive/)  -LaTeX的符号非常详尽的列表. 可用于 [A4](http://mirrors.ctan.org/info/symbols/comprehensive/symbols-a4.pdf) 和 [letter](http://mirrors.ctan.org/info/symbols/comprehensive/symbols-letter.pdf) 大小.
-- [Detexify](http://detexify.kirelabs.org/classify.html) - You draw the symbol and this site/app will tell you the LaTeX command.
+- [Detexify](http://detexify.kirelabs.org/classify.html) -您绘制符号，此站点/应用程序将告诉您LaTeX命令.
 
 ## Resources
 
@@ -273,8 +274,8 @@ TikZ是一个很棒的软件包，带有许多插件，可让您从LaTeX文档�
 
 所有商标均为其各自所有者的财产.
 
-[mac]：https：//cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
-[Linux]：https：//cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
+[mac]：https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
+[Linux]：https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
 [windows]：https：//cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
 [foss]：https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
 [很棒]：https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
