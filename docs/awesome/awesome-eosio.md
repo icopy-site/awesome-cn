@@ -86,6 +86,8 @@ EOSIO学习资源.
   - [How to vote using cleos?](https://eosio.stackexchange.com/questions/725/how-to-vote-using-cleos) -EOSIO StackExchange.
   - [How can you add or change the keys for the owner of an account?](https://eosio.stackexchange.com/questions/874/how-can-you-add-or-change-the-keys-for-the-owner-of-an-account) -EOSIO StackExchange.
   - [API endpoints - EOSDocs.io](https://www.eosdocs.io/resources/apiendpoints/) - 文章.
+- [Anchor Wallet](https://greymass.com/en/anchor/)
+  - [greymass/anchor](https://github.com/greymass/anchor) -官方GitHub.
 - [Scatter](https://get-scatter.com/)
   - [GetScatter/ScatterDesktop](https://github.com/GetScatter/ScatterDesktop) -官方GitHub.
 - [EOS Toolkit](https://eostoolkit.io/)
@@ -177,7 +179,7 @@ EOSIO学习资源.
 - [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) -Kotlin / Android库.
 - [eosnet](https://github.com/SNIKO/eosnet) -.NET库.
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) -Elixir库.
-- [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到eos区块链通信的本地实现.
+- [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到EOS区块链通信的本地实现.
 - [Transit API for EOS](https://www.eostransit.com/) -通过基于EOSIO的区块链的开源，模块化，简单标准连接签名提供者和dApp.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) -官方GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - 文章.

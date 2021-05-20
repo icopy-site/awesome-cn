@@ -461,6 +461,7 @@
 * [Resilience Roundup](https://ResilienceRoundup.com) -为软件系统设计的每周抗灾工程和人为因素研究分析
 * [Squadcast Blog](https://www.squadcast.com/blog) -有关SRE最佳做法，可靠性，通话和事件管理的博客文章.
 * [FireHydrant Blog](https://www.firehydrant.io/blog) -有关复杂系统，事件响应和SRE最佳实践的帖子.
+* [Rootly Blog](https://www.rootly.io/blog) -事件管理最佳做法和指南.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) -有关SRE，SysAdmin和DevOps新闻，工具，教程和观点的每周新闻.

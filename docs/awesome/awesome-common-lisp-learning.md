@@ -82,7 +82,7 @@
 
 ## Online Community
 - 这 [Cliki](http://cliki.net) - 这 Common Lisp Wiki. A great resource for all things CL. Has a great [Getting Started](http://cliki.net/Getting+Started) 页面和广泛的清单 [Lisp books](http://cliki.net/Lisp%20books).
-- The #clschool, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) 在 [Freenode IRC network](http://freenode.net) 是学习Common Lisp的好地方.
+- The #clschool, #lisp, #ccl, #sbcl and [other rooms](https://www.cliki.net/IRC) 在 [Libera.Chat](https://libera.chat/) 网络是学习Common Lisp的好地方.  （[Freenode should be avoided.](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409))
 - [Lisp Subreddit](http://www.reddit.com/r/lisp/) -一个活跃的社区，并且在侧边栏中拥有大量有用的链接和参考文档.
   - [Common Lisp Subreddit](https://www.reddit.com/r/Common_Lisp) -Common Lisp的Subreddit.
 - [Exercism's Common Lisp track](http://exercism.io/languages/common-lisp/about) -一种通过实践学习语言，审查代码并与其他人讨论解决方案的绝妙方法.

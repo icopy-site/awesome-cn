@@ -49,7 +49,7 @@
 [etcd4s](https://github.com/mingchuno/etcd4s)  | 实现V3 API的Scala etcd客户端| ![GitHub stars](https://img.shields.io/github/stars/mingchuno/etcd4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mingchuno/etcd4s)
 [finagle-postgres](https://github.com/finagle/finagle-postgres)  |  PostgreSQL协议对Finagle的支持| ![GitHub stars](https://img.shields.io/github/stars/finagle/finagle-postgres) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/finagle/finagle-postgres)
 [laserdisc](https://github.com/laserdisc-io/laserdisc)  | 无未来的Fs2本机纯FP Redis客户端| ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/laserdisc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/laserdisc)
-[mysql-binlog-stream](https://github.com/laserdisc-io/mysql-binlog-stream) | None | ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/mysql-binlog-stream) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/mysql-binlog-stream)
+[mysql-binlog-stream](https://github.com/laserdisc-io/mysql-binlog-stream)  | 无| ![GitHub stars](https://img.shields.io/github/stars/laserdisc-io/mysql-binlog-stream) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/laserdisc-io/mysql-binlog-stream)
 [longevity](https://github.com/longevityframework/longevity)  |  Scala和NoSQL的持久性框架 ![GitHub stars](https://img.shields.io/github/stars/longevityframework/longevity) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/longevityframework/longevity)
 [lucene4s](https://github.com/outr/lucene4s)  |  Lucene周围的轻巧便利包装，可简化复杂的任务并添加Scala糖.  | ![GitHub stars](https://img.shields.io/github/stars/outr/lucene4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/lucene4s)
 [mapperdao](https://github.com/kostaskougios/mapperdao)  |  Scala ORM库| ![GitHub stars](https://img.shields.io/github/stars/kostaskougios/mapperdao) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/kostaskougios/mapperdao)
@@ -423,7 +423,7 @@
 [Scalactic](http://www.scalactic.org/)  | 与质量有关的实用程序的小型图书馆，可帮助确保代码清晰和正确.  |
 [**scalaz**](https://github.com/scalaz/scalaz)  |  Scala中的原则函数式编程 ![GitHub stars](https://img.shields.io/github/stars/scalaz/scalaz) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaz/scalaz)
 [scribe](https://github.com/outr/scribe)  | 世界上最快的日志记录库. 从头开始在Scala中构建，并且可以通过程序配置.  | ![GitHub stars](https://img.shields.io/github/stars/outr/scribe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/scribe)
-[**shapeless**](https://github.com/milessabin/shapeless)  |  Scala的通用编程 ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
+[**shapeless**](https://github.com/milessabin/shapeless) | Generic programming for Scala | ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
 [**simulacrum**](https://github.com/typelevel/simulacrum)  |  Scala中对类型类的一流语法支持 ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid)  |  Squid – Scala的类型安全的元编程和编译框架 ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
 [tinylog](https://github.com/tinylog-org/tinylog)  |  tinylog是用于Java，Kotlin，Scala和Android的轻量级日志记录框架| ![GitHub stars](https://img.shields.io/github/stars/tinylog-org/tinylog) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tinylog-org/tinylog)
@@ -668,6 +668,7 @@
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) Daniela Sfregola编写的-Scala的教程驱动简介
 * [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala) 加布里埃尔·沃尔佩（Gabriel Volpe）
 * [Programming in Scala](https://www.artima.com/shop/programming_in_scala_4ed) 马丁·奥德斯基（Martin Odersky），莱克斯·斯普恩（Lex Spoon）和比尔·文纳斯（Bill Venners）
+* [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais) 詹斯·格拉瑟（Jens Grassel）
 * [Reactive Programming with Scala and Akka](https://www.amazon.com/Reactive-Programming-Scala-Akka/dp/1783984341) -使用反应式编程的概念来构建在多个节点上运行的分布式系统
 * [Scala Cookbook](http://scalacookbook.com) 阿尔文·亚历山大（Alvin Alexander）
 * [Scala for the Impatient](https://horstmann.com/scala/) 作者：Cay Horstmann-涵盖了Scala的大多数功能，并提供了简短易懂的说明.

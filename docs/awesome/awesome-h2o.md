@@ -52,6 +52,7 @@
 
 ## Research Papers
 
+- [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf)  Shafiullah Qureshi，Ba Chu，Fanny S. Demers.  （2021年）
 - [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321)  NussaïbahB. Raja，Andreas Lauchstedt，John M. Pandolfi，Sun W. Kim，Ann F. Budd，Wolfgang Kiessling.  （2021年）
 - [Machine Learning as a Tool for Improved Housing Price Prediction](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2739783/masterthesis.pdf?sequence=1) 亨里克·W·沃尔斯塔德（Henrik I W.Wolstad）和迪德里克·德万（Didrik Dewan）.  （2020年）
 - [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) 蒂莫西·马奎尔（Timothy J. Maguire），斯科特·OC·蒙德尔（Scott OC Mundle）.  （2020年）
@@ -84,7 +85,7 @@
 - [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N.Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O.Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G.Gorgoulis.  （2016年）
 - [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) 斯特凡妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016年）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) 斯坦尼斯瓦夫·格鲁什奇津斯克（KrzysztofUrbański）.  （2016年）
-- [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
+- [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) 艾琳·莱戴尔（Erin LeDell）.  （2015年）
 - [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) 罗杰里奥·诺曼德（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
 - [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) 吉尔斯·卢佩（Gilles Louppe）.  （2014年）
 

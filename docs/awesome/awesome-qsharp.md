@@ -32,8 +32,8 @@ A list of Q# code and resources.
 <!--lint ignore double-link-->
 - [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) -Krysta Svore-Microsoft Mechanics的量子隐形传态逐步演示.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) -Bettina Heim，Microsoft Ignite 2018会议（[here](https://www.youtube.com/watch?v=AjBLsrGgEkY) 是使用VS Code而不是Visual Studio进行的同一会话）.
-- [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) -John Azariah，Microsoft Build 2018会议.
-- [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) -罗尔夫·豪斯曼（Rolf Huisman）.
+- [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) 约翰·阿扎里亚（John Azariah），Microsoft Build 2018会议.
+- [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) -Rolf Huisman.
 - [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
 
 ## Q/A
@@ -66,8 +66,6 @@ A list of Q# code and resources.
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
 - [Vim](https://github.com/gootorov/q-sharp.vim)
 
-## Planets
-
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 - [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor)
@@ -84,8 +82,3 @@ A list of Q# code and resources.
 - [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
 - [Q# Community](https://qsharp.community)
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内，作者放弃了该作品的所有版权以及相关或邻近的权利.
