@@ -102,6 +102,7 @@
 -  [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) -添加了用于内容占位符图像的实用程序.
 -  [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) -暴露“无滚动条”以可视地隐藏滚动条.
 -  [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) -添加强调色实用程序.
+-  [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) -添加了可组合的`text-decoration`实用程序.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
@@ -166,7 +167,7 @@
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) -Tailwind CSS的颜色阴影生成器.
 -  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) -一个Babel插件，可在使用Babel编译代码时添加自定义深色类.
 -  [Twind](https://github.com/tw-in-js/twind) -编译器功能，可在运行，服务和构建时将Tailwind的类转换为CSS.
--  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
+-  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
 -  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
 -  [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
 -  [brands-tail-color](https://brands-tail-color.vercel.app/) -使用各种品牌颜色的配置生成器.
@@ -179,7 +180,7 @@
 -  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) -通过建议最匹配的类将CSS转换为Tailwind CSS.
 -  [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
--  [Tailwind Shift](https://github.com/awssat/tailwind-shift) - Upgrade tool for upgrading from Tailwind CSS v0.7 to v1.0.
+-  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Windy](https://usewindy.com) -浏览器扩展程序，可将HTML元素转换为Tailwind CSS.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
@@ -216,14 +217,14 @@
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
--  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
+-  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的付费，对开发人员友好的模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的现成可使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
 -  [Meraki UI Components](https://merakiui.com) -美丽的Tailwind CSS组件，支持RTL语言.
--  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
+-  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) -越来越多的文本/图像卡集合.
 -  [Tailwind Templates](https://www.tailwindtemplates.io) -模板和组件的集合.
 -  [Treact](https://treact.owaiskhan.me) -使用Tailwind CSS构建的React UI模板和组件.
 -  [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) -使用Tailwind CSS的管理模板.

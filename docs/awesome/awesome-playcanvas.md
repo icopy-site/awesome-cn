@@ -79,7 +79,7 @@
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) -Dumbworld从皇家歌剧院创作的互动歌剧体验.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -用于流行手机游戏的交互式3D广告.
 - [Ride Along 2](https://vimeo.com/152996271) -使用WebGL宣传好莱坞电影.
-- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) -在伦敦的皮卡迪利广场（Piccadilly Circus）推广橄榄球世界杯.
+- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) -在伦敦的皮卡迪利广场上推广橄榄球世界杯.
 
 ## Browser Games
 
@@ -101,6 +101,7 @@
 
 ## IO Games
 
+- [Bullet Bonanza](https://www.kiloo.com/bullet-bonanza/) -快节奏，高保真3D多人FPS游戏.
 - [Ink Wars](https://inkwars.io/) -实时多人游戏，您可以在附近绘画以赢得胜利.
 - [Mini Royale 2](https://miniroyale2.io/) -大逃杀第一人称射击游戏.
 - [Robostorm](https://robostorm.io/) -Frenetic在线多人机甲对战游戏.

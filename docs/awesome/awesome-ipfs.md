@@ -69,8 +69,8 @@
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -一个使用windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  -IPFS图像上传器和查看器.  Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
-- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) -一个web3论坛.您可以从该论坛中获得新的想法，报告，讨论，尽管您可能处于网络受限的区域，但是ipfs会快速更新所有内容. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
-- [IPFS-FPS](http://ipfs-fps.zil.sh/)  -完全分散的第一人称射击游戏. 使用Unity，Fleek，势不可挡的Domans和Pinata构建.
+- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) -一个web3论坛.您可以从该论坛中获得新的想法，报告，讨论，尽管您可能处于网络受限的区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
+- [IPFS-FPS](https://ipfs-fps.com/)  -完全分散的第一人称射击游戏. 使用Unity，Fleek，势不可挡的Domans和Pinata构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建您的Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
 嗅探DHT八卦，并索引文件和目录哈希. 元数据和搜索API可用. [Source](https://github.com/ipfs-search/ipfs-search)
@@ -224,7 +224,7 @@
 - [IPLD Explorer](https://explore.ipld.io) -在舒适的浏览器中探索默克尔森林 [Source](https://github.com/ipfs-shipyard/ipld-explorer)
 - [ipns-pin](https://github.com/justicenode/node-ipns-pin) -通过ipns固定内容的命令行工具.
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  -用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本. 这应该可以在尚未为其编写扩展名并支持用户脚本的任何浏览器上使用.
-- [iprfc](https://github.com/RTradeLtd/iprfc) -IETF RFC下载器，可将RFC存储在IPFS上，并用RTradeLtd / Lens对其进行索引.
+- [iprfc](https://github.com/RTradeLtd/iprfc) -IETF RFC下载器，可将RFC存储在IPFS上并用RTradeLtd / Lens对其进行索引.
 - [ipscend](https://github.com/diasdavid/ipscend) -用于在IPFS中托管Web应用和静态网站的工具
 - [mahuta](https://github.com/ConsenSys/Mahuta) -Mahuta是您的微服务体系结构的即插即用服务，允许在IPFS上收集，存储和索引数据，并提供搜索功能（全文，查询）.
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) -Multiverse是一种分散的版本控制系统，可实现对等软件开发.

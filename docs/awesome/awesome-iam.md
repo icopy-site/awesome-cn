@@ -71,7 +71,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)  -与上述精神相同，但涵盖范围更广：开发人员忽略但用户真正关心的所有小事情. 该列表的顶部是以帐户为中心的功能，各种集成和导入/导出工具. 也就是说，所有企业客户都需要承保.
 
-- [Separate the account, user and login/auth details](https://news.ycombinator.com/item?id=21151830) - Sound advice to lay down the foundation of a future-proof IAM API.
+- [Separate the account, user and login/auth details](https://news.ycombinator.com/item?id=21151830) -合理的建议，以奠定面向未来的IAM API的基础.
 
 - [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/) -关于用户名作为标识符的概念，以及当Unicode字符满足唯一性要求时引入的复杂性.
 
@@ -95,7 +95,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) -密码学基础论文.
 
-- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) -“如果使用散列比较为恶意用户提供的数据生成地址，则应制定计划每隔几年迁移到新的散列”.
+- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) -“如果使用散列比较来生成可被恶意用户提供的数据地址，则应该制定计划每隔几年迁移到新的散列”.
 
 ## Zero-trust Network
 
@@ -121,7 +121,9 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) -的摘要 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖了新的密码复杂性指南.
 
-- [Password expiration is dead](https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/) -最近的科学研究对许多长期的密码安全实践（例如密码过期策略）的价值提出了质疑，并指出了更好的替代方法，例如强制执行禁用密码列表和MFA.
+- [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) -减慢脱机攻击的唯一方法是通过仔细选择尽可能消耗资源的哈希算法.
+
+- [Password expiration is dead](https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/) -最近的科学研究对许多长期存在的密码安全实践（例如密码过期策略）的价值提出了疑问，并指出了更好的替代方法，例如强制执行禁用密码列表和MFA.
 
 - [Practical Recommendations for Stronger, More Usable Passwords](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) -此研究推荐以下关联：阻止列表检查常见的泄漏密码，无字符类要求的密码策略，最低强度策略.
 
@@ -169,11 +171,11 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) -Google安全团队的数据显示2FA阻止了100％的自动漫游器入侵.
 
-- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) - Same conclusion as above from Microsoft: “Based on our studies, your account is more than 99.9% less likely to be compromised if you use MFA.”
+- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) -与Microsoft的上述结论相同：“根据我们的研究，如果您使用MFA，您的帐户被盗用的可能性会降低99.9％以上.”
 
 - [Attacking Google Authenticator](https://unix-ninja.com/p/attacking_google_authenticator) -可能处于偏执狂的边缘，但这可能是对2FA验证尝试进行限制的原因.
 
-- [Compromising online accounts by cracking voicemail systems](https://www.martinvigo.com/voicemailcracker/)  -或者为什么您不应该依靠自动电话来联系用户并重置密码，2FA或进行任何形式的验证. 与基于SMS的2FA不同，它目前不安全，并且可以通过其最薄弱的链接（语音邮件系统）来破坏它.
+- [Compromising online accounts by cracking voicemail systems](https://www.martinvigo.com/voicemailcracker/)  -或者为什么您不应该依靠自动电话来联系用户并重置密码，2FA或进行任何形式的验证. 与基于SMS的2FA不同，它目前是不安全的，并且可以通过其最薄弱的链接（语音邮件系统）来破坏.
 
 - [Getting 2FA Right in 2019](https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/) -关于2FA的UX方面.
 
@@ -219,7 +221,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Learn how to use JWT for Authentication](https://github.com/dwyl/learn-json-web-tokens) -了解如何使用JWT保护您的Web应用程序.
 
-- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) -与API密钥相比，JWT提供了细粒度的安全性，同质的身份验证体系结构，分散的发行，OAuth2遵从性，可调试性，到期控制，设备管理.
+- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) -与API密钥相比，JWT提供了精细的安全性，同质的身份验证体系结构，分散的发行，OAuth2遵从性，可调试性，到期控制，设备管理.
 
 - [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) -JWT具有各种灵活性，因此很难很好地使用.
 
@@ -239,7 +241,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 ### OAuth2 & OpenID
 
-[OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) 是一个授权框架. [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) 是位于其之上的身份验证层。
+[OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) 是一个授权框架. [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) 是位于其之上的身份验证层.
 
 旧的* OpenID *已死； 新的* OpenID Connect *几乎是不死的.
 
@@ -261,7 +263,9 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)  -“他们这样做是为了提供消息级的完整性.  OAuth 2切换到了传输级别的机密性/完整性.”  （TLS提供的）（[source](https://news.ycombinator.com/item?id=17486165)).
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15) -“更新和扩展了OAuth 2.0安全威胁模型，以吸收自OAuth 2.0发布以来收集的实践经验，并涵盖由于应用范围更广而引起的新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) -“更新和扩展了OAuth 2.0安全威胁模型，以吸收自OAuth 2.0发布以来收集的实践经验，并涵盖由于应用范围更广而引起的新威胁”.
+
+- [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) -如何识别和利用OAuth 2.0身份验证机制中的一些关键漏洞.
 
 - [PKCE Explained](https://www.loginradius.com/engineering/blog/pkce/) -“ PKCE用于为OAuth和OpenID Connect中的授权代码流提供一个额外的安全层.”
 
@@ -272,6 +276,8 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 - [Keycloak](https://www.keycloak.org)  -开源身份和访问管理. 支持OIDC，OAuth 2和SAML 2，LDAP和AD目录，密码策略.
 
 - [IdentityServer](https://github.com/IdentityServer/IdentityServer4) -用于ASP.NET Core的免费，开源OpenID Connect和OAuth 2.0框架.
+
+- [authentik](https://goauthentik.io/?#correctness) -类似于Keycloak的开源身份提供程序.
 
 ### SAML
 
@@ -291,6 +297,8 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml)  -SAML有时是不可思议的. 另一个类比可能有助于从中获得更多的了解.
 
+- [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues) -关于单一注销实施的技术和用户体验问题.
+
 ## Authorization
 
 现在我们知道您就是您，您是否可以执行自己想做的事情？
@@ -300,6 +308,8 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 ### Policy models
 
 从概念上讲，可以将访问控制策略设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 至 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们探索许多不同的模式和体系结构.
+
+- [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/) -概述最流行的授权方案及其历史渊源.
 
 - [Role Based Access Control](https://csrc.nist.gov/projects/role-based-access-control) -一个NIST项目，用于解释RBAC的概念，成本和收益，RBAC的经济影响，设计和实施问题，标准本身以及高级研究主题.
 
@@ -315,7 +325,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Keto](https://github.com/ory/keto)  -政策决策点. 它使用一组类似于AWS策略的访问控制策略，以确定主题是否被授权对资源执行特定操作.
 
-- [Ladon](https://github.com/ory/ladon) - Access control library, inspired by AWS.
+- [Ladon](https://github.com/ory/ladon) -受AWS启发的访问控制库.
 
 - [Athenz](https://github.com/yahoo/athenz) -支持服务身份验证和基于角色的授权（RBAC）进行供应和配置的服务和库的集合.
 
@@ -335,7 +345,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  -手工编写具有安全意识的IAM策略可能非常繁琐且效率低下.  Policy Sentry帮助用户在几秒钟内创建最小特权策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  -Netflix工具，可在AWS上强制执行最低特权. 这个想法是，对新事物的默认策略是全部拒绝，然后它监视cloudtrail特权失败，并重新配置IAM以允许最小的特权摆脱该拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  -Netflix工具，可在AWS上实施最低特权. 这个想法是，对新事物的默认策略是全部拒绝，然后它监视cloudtrail特权失败，并重新配置IAM以允许最小的特权摆脱该拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) -快速评估权限.
 
@@ -351,7 +361,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) -Google的原始论文.
 
-- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463)  -作为蛋白杏仁饼干的消费者/验证者，他们允许您（通过第三方警告）将某些授权决策推迟给其他人. 智威汤逊公司没有.
+- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463) - As a consumer/verifier of macaroons, they allow you (through third-party caveats) to defer some authorization decisions to someone else. JWTs don't.
 
 ## Secret Management
 
@@ -385,7 +395,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 - [Keystone](https://keystone-enclave.org) -基于RISC-V架构的开放源代码项目，用于使用安全的硬件区域构建受信任的执行环境（TEE）.
 
-- [Project Oak](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
+- [Project Oak](https://github.com/project-oak/oak) -数据的安全传输，存储和处理的规范和参考实现.
 
 - [Everybody be cool, this is a robbery\!](https://www.sstic.org/2019/presentation/hsm/) -HSM漏洞和可利用性的案例研究（法语，抱歉）.
 
@@ -393,7 +403,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 一旦拥有了重要的用户群，就将其称为社区. 然后，您将负责保护它：客户，人员，公司，业务，并促进其中发生的所有交互和交易.
 
-信托与安全部门是一个关键的中介机构，受政策和当地法律的约束驱动，可能由24/7全天候运营商的跨职能团队以及高度先进的审核和管理工具系统来体现. 您可以将其视为客户支持服务的扩展，专门用于边缘情况，例如手动身份检查，有害内容的审核，制止骚扰，手令和版权声明的处理，数据封存和其他信用卡争议.
+A critical intermediation complex driven by a policy and constraint by local laws, the Trust & Safety department is likely embodied by a cross-functional team of 24/7 operators and systems of highly advanced moderation and administration tools. You can see it as an extension of customer support services, specialized in edge-cases like manual identity checks, moderation of harmful content, stopping harassment, handling of warrants and copyright claims, data sequestration and other credit card disputes.
 
 - [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) -有关域及其职责的精彩介绍.
 
@@ -483,7 +493,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 防止滥用的第一道机械防线是简单明了的拒绝列表. 这是欺诈斗争的低谷成果，但您会惊讶于它们仍然有效.
 
-- [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)  -非常适合此用例，因为Bloom筛选器旨在快速检查元素是否不在（大）集中. 特定数据类型存在Bloom过滤器的变体.
+- [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)  -非常适合此用例，因为Bloom筛选器旨在快速检查元素是否不在（大）集中. 对于特定的数据类型，存在bloom过滤器的变体.
 
 - [How Radix trees made blocking IPs 5000 times faster](https://blog.sqreen.com/demystifying-radix-trees/) -基数树可能有助于加快IP阻止列表的速度.
 
@@ -499,7 +509,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 - [Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks) -直接从区域Internet注册表中获取的CIDR国家级IP数据，每小时更新一次.
 
-- [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
+- [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) -从证书透明度日志收集的每小时更新的子域列表.
 
 -子域修饰符： [\#1](https://gist.github.com/artgon/5366868), [\#2](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [\#3](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [\#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
@@ -517,7 +527,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 - [Burner email providers](https://github.com/wesbos/burner-email-providers)  -临时电子邮件提供商列表. 和它 [derivative Python module](https://github.com/martenson/disposable-email-domains).
 
-- [MailChecker](https://github.com/FGRibreau/mailchecker) -跨语言的临时（一次性/丢弃）电子邮件检测库.
+- [MailChecker](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
 
 - [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361)  -一次性和临时电子邮件地址的域列表. 对于过滤电子邮件列表以提高打开率很有用（将电子邮件发送到这些域可能不会打开）.
 
@@ -551,7 +561,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 - [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf)  -大多数隐私违规行为是由第三方依赖项中的已知漏洞允许的. 这是如何通过CI / CD检测它们的方法.
 
-- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
+- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) -随着世界变得越来越紧密，电子邮件营销法规环境变得越来越复杂.
 
 - [World's Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) -不要成为泄漏您客户数据的下一家公司.
 
@@ -593,7 +603,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 ## UX/UI
 
-作为IAM堆栈的涉众，您将在后端实现构建注册隧道和用户入职所需的大多数原语. 这是客户从您的产品中获得的第一印象，并且不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
+作为IAM堆栈的涉众，您将在后端实现构建注册隧道和用户入职所需的大多数原语. 这是客户将从您的产品中获得的第一印象，并且不能忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
 
 - [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) -涵盖了用户入职的所有重要方面.
 
@@ -603,7 +613,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 - [Conversion Optimization](https://www.nickkolenda.com/conversion-optimization-psychology/#cro-tactic11) -多种策略，以增加用户完成帐户创建渠道的机会.
 
-- [Trello User Onboarding](https://growth.design/case-studies/trello-user-onboarding/) -详细介绍了如何改善用户入门的案例研究.
+- [Trello User Onboarding](https://growth.design/case-studies/trello-user-onboarding/) - A detailed case study, nicely presented, on how to improve user onboarding.
 
 - [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) -创建简单，可链接，可预测的登录表单，并与密码管理器配合使用.
 
@@ -633,7 +643,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws)  -帮助使他们了解庞大的服务目录. 本着同样的精神： [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) -用4个字以内的文字描述所有GCP产品.
+- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## History
 

@@ -11,11 +11,11 @@
 
 ## About this list
 
-科技和社交媒体正在对我们的社会产生重大影响. 尽管许多创新技术发明都在改善我们的生活，但人们对这些趋势带来的负面影响的意识日益增强，例如大规模隐私入侵，监视资本主义和技术垄断. 它们导致社交媒体上瘾，心理健康问题，甚至正在侵蚀我们的社会结构.
+科技和社交媒体正在对我们的社会产生重大影响. 尽管许多创新技术发明改善了我们的生活，但人们对这些趋势所带来的负面影响的意识日益增强，例如大规模隐私入侵，监视资本主义和技术垄断. 它们导致社交媒体上瘾，心理健康问题，甚至正在侵蚀我们的社会结构.
 
 此列表汇总了与人文科技主题直接相关的开源项目. 请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
- &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望它们对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
+ &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望它们可能对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
 
 
 如果您的项目在此列表中，则您有权自豪地佩戴我们的人文技术徽章. 看 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
@@ -32,7 +32,7 @@
 
 ## Humane design
 
-人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分. [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
+人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中被单独跟踪，该策展列表是该资源的一部分 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
 
 - [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
 - [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
@@ -98,8 +98,9 @@
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展程序，可模拟内容交付网络以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) -适用于Android的基于HTTPS和Tor的DNS，DNSCrypt客户端，防火墙和连接跟踪器.
-- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) -Databunker是基于网络的，自托管的，符合GDPR要求的个人数据安全存储.
+- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) -Databunker是基于网络的，自托管的，符合GDPR要求的，用于个人数据的安全存储.
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) -旨在阻止未知传出连接的防火墙，以保护您的隐私和Mac.
+- [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) -阻止非自愿的遥测Google和Apple正在使用pihole进行收集.
 
 ## Tracking
 
@@ -154,7 +155,7 @@
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) -免费的实时日志文件分析器，以获取高级统计信息.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  -公平的网络分析. 在您的用户完全控制其数据时获得见解.
 - [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) -使用Crystal制作的注重隐私的网站分析-托管在欧盟.
-- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此具有隐私友好性.
+- [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) -Web Analytics变得简单，因此对隐私友好.
 
 ## Blocklists
 
@@ -174,12 +175,12 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tootsuite/mastodon) -您的自托管，全球互连的微博社区.
 - [Pleroma](https://pleroma.social/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.pleroma.social/pleroma/pleroma/) -建立在开放协议上的免费的联合社交微博服务器.
-- [PixelFed](https://pixelfed.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pixelfed/pixelfed) -由ActivityPub联合会提供支持的免费和道德的照片共享平台.
+- [PixelFed](https://pixelfed.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation.
 - [PeerTube](https://joinpeertube.org/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Chocobozzz/PeerTube) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/framasoft/peertube/PeerTube) -在您的Web浏览器中直接使用P2P的ActivityPub联合视频流平台.
 - [Funkwhale](https://funkwhale.audio/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://dev.funkwhale.audio/funkwhale) -享受和分享音乐的联合社交平台.
 - [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.feneas.org/socialhome/socialhome) -具有社交网络功能的联合个人资料.
 - [Misskey](https://join.misskey.page/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syuilo/misskey) -永远发展，完善的微博平台.
-- [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) -感知隐私的分布式开放源代码社交网络.
+- [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [friendica](https://friendi.ca/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/friendica/friendica) -分散的社交交流平台.
 - [GNU Social](https://gnusocial.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://notabug.org/diogo/gnu-social) -免费/自由软件社交网络平台.
 - [Lemmy](https://join.lemmy.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/LemmyNet/lemmy) -链接的链接聚合器/ Reddit克隆.
@@ -220,6 +221,8 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Lingva Translate](https://lingva.ml/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TheDavidDelta/lingva-translate) -Google翻译的另一种前端.
 - [LibreTranslate](https://libretranslate.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/uav4geo/LibreTranslate) -自托管的机器翻译API，没有限制，与专有服务没有关系.
 - [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/argosopentech/argos-translate) -开源神经机器翻译.
+- [gtranslate](https://git.sr.ht/~yerinalexey/gtranslate) -Google Translate的前端无法跟踪您，并且在没有JavaScript的情况下也可以正常工作.
+- [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) -SimplyTranslate的简单前端，它是多个搜索引擎的外观.
 
 ## Freedom
 
@@ -274,7 +277,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OpenTracksApp/OpenTracks) -完全尊重您的隐私的运动跟踪应用程序.
 - [Winddown](https://github.com/schneefux/vscode-winddown)  -编写代码并保持健康. 鼓励您休息的VS Code扩展.
 - [dijo](https://github.com/NerdyPepper/dijo) -在您的终端上运行的可编写脚本的习惯跟踪器.
-- [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/goldencheetah/goldencheetah) -面向骑自行车者，跑步者和铁人三项运动员的性能软件，可从许多设备上读取.
+- [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/goldencheetah/goldencheetah) -面向骑自行车者，跑步者和铁人三项运动员的性能软件，可从许多设备上读取信息.
 - [gammastep](https://gitlab.com/chinstrap/gammastep) -Linux工具，可根据环境调整屏幕的色温.
 
 ## Mindfulness
@@ -313,7 +316,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Hack the Media](https://github.com/nemild/hack-the-media) -媒体素养指南，重点介绍我们的媒体资源如何提供有缺陷的世界观.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nemild/hack-the-media/master/software-engineers-media-guide.md) -面向软件工程师的媒体素养指南.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) -分析您自己数据的Facebook副本.
-- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
+- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) -所有可能的方式，网站都可能泄漏HTTP请求.
 - [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) -将透明度引入在线跟踪-由Cliqz和Ghostery构建.
 - [Awful AI](https://github.com/daviddao/awful-ai) -精选列表，用于跟踪当前对AI的可怕使用-希望提高人们的知名度.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam-3-0/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) -附加组件，可实时显示第一方和第三方站点之间的Web请求.
@@ -374,4 +377,4 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [aschrijver](https://github.com/aschrijver) (the maintainer) and other contributors have waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [aschrijver](https://github.com/aschrijver) （维护者）和其他贡献者已放弃此作品的所有版权以及相关或邻近的权利.

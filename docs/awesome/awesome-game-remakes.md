@@ -42,7 +42,7 @@
 
 ## FPS
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) -效忠是RTS和FPS太空战斗游戏.
-- [BStone](https://github.com/bibendovsky/bstone) -布雷克·斯通（Blake Stone）：《黄金异形》和布雷克·斯通（Blake Stone：Planet Strike）的原始港口.
+- [BStone](https://github.com/bibendovsky/bstone) -布雷克·斯通（Blake Stone）：《黄金异形》和布雷克·斯通：Planet Strike的原始港口.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) -Catacomb 3D和Catacomb Adventure系列的Windows源端口.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) -源端口是极简主义的，在历史上是准确的，包括异端和赫克森的端口以及Strife.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) -最受欢迎的DOOM源端口之一，可通过TCP / IP网络，OpenGL渲染器等功能对其进行增强.
@@ -63,7 +63,7 @@
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) -乡下人狂暴的港口.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) -高级DOOM源端口.
 - [The Force Engine](https://github.com/luciusDXL/TheForceEngine) -适用于现代系统的Jedi Engine以及使用该引擎的游戏-Dark Forces and Outlaws.
-- [Tyrquake](https://github.com/libretro/tyrquake) -特里克（Tyrquake）的利伯特罗（Libretro）港口.
+- [Tyrquake](https://github.com/libretro/tyrquake) -Tyrquake的Libretro港口.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) -id Software Quake II的增强客户端，专注于脱机和合作游戏.
 - [vkQuake](https://github.com/Novum/vkQuake) -使用Vulkan而不是OpenGL进行渲染的Quake端口.
 
@@ -130,6 +130,7 @@
 - [CivOne](https://github.com/SWY1985/CivOne) -实施西德·迈尔（Sid Meier）的文明.
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) -主题医院的克隆，支持现代操作系统，高分辨率等.
 - [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) -由社区推动的努力，以继续开发Cortex Command.
+- [fheroes2](https://github.com/ihhub/fheroes2) -强大的《魔法门之英雄无敌II》游戏引擎的免费实现.
 - [FreeCol](https://sourceforge.net/projects/freecol/) -基于回合制策略游戏，基于旧版游戏《殖民》.
 - [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) -使《铁血联盟2》可在多种平台上使用.
 - [Julius](https://github.com/bvschaik/julius) -重新实现凯撒三世.
