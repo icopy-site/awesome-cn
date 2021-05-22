@@ -47,6 +47,16 @@
 				<sup>在几分钟（而不是几个月）内添加一次登录（以及更多）.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://strapi.io/?ref=sindresorhus">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
+			</div>
+			<b>Strapi是领先的开源无头CMS.</b>
+			<div>
+				<sup>它是100％JavaScript，完全可自定义，并且开发人员优先.</sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -202,7 +212,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用程序而设计的现代编程语言，在这些应用程序中，可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
@@ -220,20 +230,20 @@
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - App framework.
+- [React](https://github.com/enaqx/awesome-react#readme) -应用框架.
 	- [Relay](https://github.com/expede/awesome-relay#readme) -用于构建数据驱动的React应用程序的框架.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) -一项新功能，无需编写类即可使用状态和其他React功能.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) -用于开发Web组件的JavaScript库.
-- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) -应用框架.
+- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) -应用框架.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) -用于网站和Web应用程序的标记语言.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) -基于XML的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) -JavaScript库.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) -JavaScript工具箱.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) -应用框架.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
@@ -249,12 +259,12 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) -功能性和反应性JavaScript框架.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+- [Vue.js](https://github.com/vuejs/awesome-vue#readme) -应用框架.
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) -应用框架.
+- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) -应用框架.
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
@@ -262,7 +272,7 @@
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) -用于React的富文本编辑器框架.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
+- [choo](https://github.com/choojs/awesome-choo#readme) -应用框架.
 - [Redux](https://github.com/brillout/awesome-redux#readme) -JavaScript应用程序的状态容器.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) -模块捆绑器.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) -模块捆绑器.
@@ -270,7 +280,7 @@
 - [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) -企业级UI设计语言.
 - [Less](https://github.com/LucasBassetti/awesome-less#readme) -CSS预处理器.
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) -用于渲染3D图形的JavaScript API.
-- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
+- [Preact](https://github.com/preactjs/awesome-preact#readme) -应用框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) -服务器渲染的React应用的框架.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) -用于JavaScript的HTML模板库.
@@ -287,7 +297,7 @@
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) -可集成到网络应用程序中的独立功能.
-- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) -应用框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) -在确保一致性和速度的规则的指导下，收集可重复使用的组件.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) -在不构建API的情况下制作单页应用.
 
@@ -303,7 +313,7 @@
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) -PHP框架.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) -具有Laravel社区构建的库的全栈开发解决方案.
+	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) -Ruby的Web应用程序框架.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) -套餐.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) -PHP框架.
@@ -312,7 +322,7 @@
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) -Java框架.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) -自动化Linux容器操作的开源平台.
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) -PHP微框架.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) -无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) -Java Web应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) -用于在JVM上构建响应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) -用于构建，更改和版本控制基础结构的工具.
@@ -348,7 +358,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) -机器智能库.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) -WebGL加速的机器学习JavaScript库，用于训练和部署模型.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) -优化TensorFlow模型以进行设备上机器学习的框架.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) -引用最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
@@ -516,7 +526,7 @@
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) -欺骗陷阱，旨在诱使攻击者尝试破坏组织中的信息系统.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) -Web应用程序和服务的安全性.
@@ -677,7 +687,7 @@
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) -对于数字设计师.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) -编写具有表现力的东西，而不是编写功能性的东西.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) -无需登录即可运行的Web应用程序.
@@ -728,7 +738,7 @@
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) -网站的广告和程序媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
-- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) -努力为后代保留Web.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) -WordPress的命令行界面.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) -将信贷申请人分类为风险类别的方法.

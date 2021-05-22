@@ -27,7 +27,7 @@
 - [Optax](https://raw.githubusercontent.com/deepmind/optax) -渐变处理和优化库. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
 - [RLax](https://raw.githubusercontent.com/deepmind/rlax) -用于实施强化学习代理的图书馆. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 - [JAX, M.D.](https://raw.githubusercontent.com/google/jax-md) -加速的微分分子动力学. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
-- [Coax](https://raw.githubusercontent.com/microsoft/coax) -通过简单的方法将RL论文转换为代码. <img src="https://img.shields.io/github/stars/microsoft/coax?style=social" align="center">
+- [Coax](https://raw.githubusercontent.com/coax-dev/coax) -通过简单的方法将RL论文转换为代码. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
 - [SymJAX](https://raw.githubusercontent.com/SymJAX/SymJAX) -符号CPU / GPU / TPU编程. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 - [mcx](https://raw.githubusercontent.com/rlouf/mcx) -表达和编译概率程序以进行性能推断. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 - [Distrax](https://raw.githubusercontent.com/deepmind/distrax) -重新实现TensorFlow概率，其中包含概率分布和双射器. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">

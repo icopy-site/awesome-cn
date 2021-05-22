@@ -35,7 +35,7 @@
 
 - [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) -用于构建ROS2 + OpenSplice CE容器的dockerfile. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) -用于使用OpenJDK和Android构建ros2_java的Dockerfile. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
-- [micro-ROS/docker](https://github.com/micro-ROS/docker) -使用micro-ROS硬件设置，配置和开发与Docker相关的材料.
+- [micro-ROS/docker](https://github.com/micro-ROS/docker) -与Docker相关的材料，用于使用micro-ROS硬件进行设置，配置和开发.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) -将ROS和ROS 2工作区交叉编译为非本地架构，并生成相应的Docker映像.
 
 ### Ecosystem
@@ -76,6 +76,7 @@
 - [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) -Slam Toolbox，用于使用ROS在潜在的大规模地图中进行终身映射和本地化. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
 - [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) -使用ndt / gicp配准和姿势优化的3D激光雷达猛击的ROS2软件包. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
 - [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) -紧密耦合的激光雷达惯性ndt / gicp猛击的ROS2封装（来自LIO-SAM）. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
+- [octomap_server2](https://github.com/iKrishneel/octomap_server2)  -用于与OctoMap映射的ROS2堆栈.  ROS1的端口 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) 包裹. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) -用于将ROS2与OpenCV接口的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) -用于ROS2的通用键盘Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) -简单的操纵杆伸缩机器人. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
@@ -117,7 +118,7 @@
 
 ### Driver layer
 
-- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使成员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
+- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使会员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
 - [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) -带有xmlrpc的ros2接口软件包，用于使用Sesto API与Sesto服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) -ROS2的非官方Anki Cozmo节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) -ROS2 Sphero驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
@@ -143,7 +144,7 @@
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) -ZED SDK的ROS 2包装测试版.
 - [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) -适用于ROS2的Toyota / Lexus 2015-2017 Denso Radar驱动程序.
 - [sick_scan2](https://github.com/SICKAG/sick_scan2) -用于SICK TiM系列激光扫描仪（TiM551 / TiM561 / TiM571）的ROS2驱动程序.
-- [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) -用于Ouster OS-1 Lidars的ROS2驱动程序. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
+- [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) -有关在micro-ROS项目中使用和支持的硬件平台的信息和文档.
 - [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) -用于Blickfeld Cube 1和Cube Range的ROS2驱动程序.
 
@@ -306,7 +307,7 @@
 -自动驾驶汽车上的ROS 2
 -RViz –向ROS 2.0迁移的故事
 -推出ROS 2
-- Getting involved in ROS 2 development
+-参与ROS 2开发
 -计划计划：插件一路下滑
 -利用ROS2中的DDS安全性
 -Arm DDS安全性库：为ROS2添加安全性
