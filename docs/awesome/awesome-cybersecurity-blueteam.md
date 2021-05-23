@@ -22,7 +22,7 @@
 
 - [Ansible Lockdown](https://ansiblelockdown.io/) -精心收集经过审查并积极维护的以信息安全为主题的Ansible角色.
 - [Clevis](https://github.com/latchset/clevis) -用于自动解密的可插入框架，通常用作Tang客户端.
-- [DShell](https://github.com/USArmyResearchLab/Dshell) -用Python编写的可扩展网络取证分析框架，可快速开发插件以支持剖析网络数据包捕获.
+- [DShell](https://github.com/USArmyResearchLab/Dshell) - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
 - [Dev-Sec.io](https://dev-sec.io/) -服务器强化框架，提供各种基线安全配置的Ansible，Chef和Puppet实现.
 - [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) -可编写脚本的PDF文件分析器.
 - [PyREBox](https://talosintelligence.com/pyrebox) -基于QEMU的Python可编写脚本的反向工程沙箱.
@@ -42,7 +42,7 @@
 
 也可以看看 [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)， 和 [IR management consoles](#ir-management-consoles).
 
-- [Shuffle](https://shuffler.io/) - Graphical generalized workflow (automation) builder for IT professionals and blue teamers.
+- [Shuffle](https://shuffler.io/) -适用于IT专业人员和蓝色团队的图形化通用工作流（自动化）构建器.
 
 ## Cloud platform security
 
@@ -139,6 +139,7 @@
 
 ### Policy enforcement
 
+- [Conftest](https://conftest.dev/) -实用程序，可帮助您针对结构化配置数据编写测试.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) -跨云本机堆栈的统一工具集和策略框架.
 - [Tang](https://github.com/latchset/tang)  -用于将数据绑定到网络状态的服务器； 仅当客户端位于某个（受保护的）网络上时才向客户端提供数据.
 
@@ -225,7 +226,7 @@
 
 也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools).
 
-- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时向您发出警报.
+- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
 - [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
@@ -309,7 +310,7 @@
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
-- [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，可提供基于主机的调查功能.
+- [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，该工具提供基于主机的调查功能.
 
 ## Threat intelligence
 
