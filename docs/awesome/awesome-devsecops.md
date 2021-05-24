@@ -29,7 +29,7 @@
 
 ### Communities
 
-- [MyDevSecOps](https://www.mydevsecops.io/) -_Snyk_-一个运行会议，博客，播客和专用于DevSecOps的Slack工作区的社区.
+- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
 
 ### Conferences
 
@@ -69,10 +69,10 @@
 - [Application Security Education](https://github.com/duo-labs/appsec-education) -_Duo Security_-Duo应用程序安全团队创建的培训材料，包括入门和高级培训演示以及动手实验.
 - [Cybrary](https://www.cybrary.it/) -_Cybrary_-基于订阅的在线课程，其中包含网络安全和DevSecOps的专用类别.
 - [PentesterLab](https://pentesterlab.com/) -_PentesterLab_-动手练习以了解和利用简单和高级的Web漏洞.
-- [Practical DevSecOps](https://www.practical-devsecops.com) -_实用DevSecOps_-使用基于浏览器的先进实验室，向具有实际DevSecOps的行业专家学习DevSecOps的概念，工具和技术.
+- [Practical DevSecOps](https://www.practical-devsecops.com) - _Practical DevSecOps_ - Learn DevSecOps concepts, tools, and techniques from industry experts with practical DevSecOps using state of the art browser-based labs.
 - [SafeStack](https://academy.safestack.io/) -_SafeStack_-针对软件开发团队的安全培训，旨在供个人和小型团队以及大型组织使用.
 - [Secure Code Warrior](https://www.securecodewarrior.com/) -_安全代码战士_-游戏化和动手的安全开发培训，并支持课程，评估和锦标赛.
-- [SecureFlag](https://www.secureflag.com/platform.html) - _OWASP_ - Hands-on secure coding training for Developers and Build/Release Engineers.
+- [SecureFlag](https://www.secureflag.com/platform.html) -_OWASP_-针对开发人员和构建/发布工程师的动手安全编码培训.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为软件工程师提供安全培训.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) -_Pager Duty_-由PagerDuty创建并开源的演示文稿，用于为员工提供安全培训.
 - [Web Security Academy](https://portswigger.net/web-security) -_PortSwigger_-用于学习和利用常见Web漏洞的一组材料和实验室.
@@ -86,7 +86,7 @@
 
 ### Dependency Management
 
-开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带有开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的程序包来帮助管理开源程序包中的漏洞.
+开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带了开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的程序包来帮助管理开源程序包中的漏洞.
 
 - [Dependabot](https://dependabot.com/) -_GitHub_-自动扫描GitHub信息库中的漏洞，并创建合并请求中的合并请求.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
@@ -124,6 +124,7 @@
 - [Anchore Engine](https://anchore.com/opensource/)  -_Anchore，Inc_-对CVE的Docker映像进行深度检查并根据自定义策略进行检查. 他们的企业产品背后的引擎，这些产品与注册表，协调器和CI / CD产品集成在一起.
 - [Clair](https://github.com/quay/clair) -_Quay_-扫描App容器和Docker容器以查看公开泄漏的漏洞.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) -_ElíasGrande_-将Docker容器中安装的OS和软件依赖版本与公共漏洞数据库进行比较，并执行病毒扫描.
+- [Docker-Bench-Security](https://github.com/docker/docker-bench-security) -_Docker_-Docker Bench for Security是一个脚本，该脚本检查有关在生产环境中部署Docker容器的数十种常见最佳实践
 - [Hadolint](https://github.com/hadolint/hadolint) -_Hadolint_-根据已知规则检查Dockerfile并验证RUN语句中的内联bash代码.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) -_Snyk_-在CI / CD期间或通过连续监视扫描Docker和Kubernetes应用程序以查找安全漏洞.
 - [Trivy](https://github.com/aquasecurity/trivy) -_Aqua Security_-用于容器的简单而全面的漏洞扫描程序.
@@ -140,6 +141,9 @@
 - [Kube-Score](https://github.com/zegl/kube-score) -_Gustav Westling_-扫描Kubernetes对象定义以了解安全性和性能配置错误.
 - [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) -_ControlPlane_-kubesec.io的插件，用于对Kubernetes资源执行安全风险分析.
 
+#### Ansible
+- [Ansible-Lint](https://github.com/ansible-community/ansible-lint) - ansible-lint checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible. 
+
 ### Intentionally Vulnerable Applications
 
 在开发安全性测试和工具以提供一个地方可以运行测试并确保它们正确失败时，容易受到攻击的应用程序通常很有用. 这些应用程序对于了解如何将常见漏洞引入应用程序并让您练习利用这些漏洞的技能也很有用.
@@ -153,7 +157,7 @@
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
-It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
+仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全缺陷. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
 
 - [Csper](https://csper.io/report-uri) -_Csper_-一组内容安全策略工具，可以测试策略，监视CSP报告以及提供指标和警报.
 
@@ -169,12 +173,13 @@ It's not enough to test and harden our software in the lead up to a release. We 
 - [Chef Vault](https://github.com/chef/chef-vault) -_厨师_-在厨师内部安全存储机密.
 - [CredStash](https://github.com/fugue/credstash) -_Fugue_-使用KMS和DynamoDB在AWS中安全存储机密.
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) -_Cyber​​Ark_-应用程序的秘密管理，包括秘密轮换和审核.
+- [Detect Secrets](https://github.com/Yelp/detect-secrets) -_Yelp_-detect-secrets是一个恰当命名的模块，用于（惊奇，意外）检测代码库中的秘密.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) -_Docker_-存储和管理对Docker群中机密的访问.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -_Amazon AWS_-扫描git存储库，以查找代码内或提交消息中提交的机密.
 - [Gopass](https://github.com/gopasspw/gopass)  -_Gopass_-依赖Git和gpg的团队的密码管理器. 管理加密文件和存储库中的机密.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) -_Google Cloud Platform_-在GCP中安全存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) -_HashiCorp_-通过UI，CLI或HTTP API安全存储机密.
-- [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核机密.
+- [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核秘密.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) -_Mozilla_-加密存储在YAML，JSON，ENV，INI和BINARY文件中的密钥.
 
 ### Secrets Scanning
@@ -201,6 +206,7 @@ It's not enough to test and harden our software in the lead up to a release. We 
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) -_Hawkeyesec_-用于项目安全性，漏洞和一般风险突出显示的模块化CLI工具.
 - [LGTM](https://lgtm.com/) -_Semmle_-使用自定义或内置CodeQL查询来扫描和监视代码中的安全漏洞.
 - [RIPS](https://www.ripstech.com/) -_RIPS Technologies_-针对PHP，Java和Node.js项目的自动化静态分析.
+- [SemGrep](https://semgrep.dev/) -_r2c_-Semgrep是一种快速，开源的静态分析工具，可在编辑，提交和CI时发现错误并强制执行代码标准.
 - [SonarLint](https://www.sonarlint.org/) -_SonarSource_-一个IDE插件，突出显示了潜在的安全性安全问题，代码质量问题和错误. 
 - [SonarQube](https://www.sonarqube.org/) -_SonarSource_-扫描代码以发现安全性和质量问题，并支持多种语言.
 

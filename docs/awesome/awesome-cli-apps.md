@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="agarrharr/awesome-cli-apps"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
-	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
+	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
 ---
@@ -86,10 +86,10 @@
 - [legit](https://github.com/captainsafia/legit) -生成开放源代码许可证作为文件或文件头.
 - [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义LICENSE文件.
 - [rebound](https://github.com/shobrook/rebound) -当您遇到编译器错误时，Fetch Stack Overflow将在您的终端中显示.
-- [grip](https://github.com/joeyespo/grip) -在提交之前预览具有GitHub样式的markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -ncurses中的基本转换和位操纵器.
 - [foy](https://github.com/zaaack/foy) -轻量级通用任务运行器/构建工具.
 - [just](https://github.com/casey/just) -类似`make`的现代命令执行器.
+- [grex](https://github.com/pemistahl/grex) -从用户提供的测试用例生成正则表达式.
 
 ### Text Editors
 
@@ -145,6 +145,7 @@
 - [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 - [k9s](https://github.com/derailed/k9s) -管理Kubernetes集群
+- [PingMe](https://github.com/kha7iq/pingme) -将消息/警报发送到多个消息传递平台和电子邮件.
 
 ### Docker
 
@@ -160,6 +161,7 @@
 - [clog](https://github.com/clog-tool/clog-cli) -我们其余人的常规变更日志.
 - [np](https://github.com/sindresorhus/np) -更好的“ npm发布”.
 - [release](https://github.com/zeit/release) -使用单个命令生成变更日志.
+- [semantic-release](https://github.com/semantic-release/semantic-release) -全自动版本管理和软件包发布.
 
 ### Npm
 
@@ -237,6 +239,7 @@
 - [gcalcli](https://github.com/insanum/gcalcli) -Google日历客户端.
 - [khal](https://github.com/pimutils/khal) -支持CalDAV的CLI和TUI日历.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) -CalDAV同步.
+- [remind](https://dianne.skoll.ca/projects/remind) -复杂的日历和警报程序.
 
 ## Utilities
 
@@ -249,8 +252,8 @@
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) -从各个新闻媒体获取新闻头条.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) -生成代码的精美图片.
 - [pass](https://www.passwordstore.org) -密码管理器.
+- [gopass](https://github.com/gopasspw/gopass) -功能齐全的密码管理器.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) -无需浏览器即可搜索超赞列表.
-- [mdv](https://github.com/axiros/terminal_markdown_viewer) -样式化的终端Markdown查看器.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -Git集成备份工具.
 
 ### macOS
@@ -313,9 +316,15 @@
 - [brightness-cli](https://github.com/kevva/brightness-cli) -更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) -将Yank终端输出到剪贴板.
 - [screensaver](https://github.com/gillstrom/screensaver) -启动屏幕保护程序.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) -在您的本地计算机上下载并安装Google Web字体.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [neofetch](https://github.com/dylanaraps/neofetch) -系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) -系统监控工具.
+
+### Markdown
+
+- [DocToc](https://github.com/thlorenz/doctoc) -生成降价文件的目录.
+- [grip](https://github.com/joeyespo/grip) -预览markdown文件，就像GitHub会渲染它们一样.
+- [mdv](https://github.com/axiros/terminal_markdown_viewer) -样式化的终端Markdown查看器.
 
 ## Command Line Learning
 
@@ -358,7 +367,7 @@
 ### Text
 
 - [figlet](http://www.figlet.org/) -从ASCII字符创建大文本.
-- [stegcloak](https://github.com/kurolabs/stegcloak) -使用密码安全地隐藏纯文本中不可见字符的秘密.
+- [stegcloak](https://github.com/kurolabs/stegcloak) -用纯文本安全地隐藏不可见字符的秘密.
 
 ## Files and Directories
 
@@ -366,8 +375,7 @@
 
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -VI影响文件管理器.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -378,25 +386,30 @@
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
 - [del-cli](https://github.com/sindresorhus/del-cli) -删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) -复制文件.
-- [rename-cli](https://github.com/jhotmann/node-rename-cli) -跨平台工具，可快速重命名文件，特别是一次重命名多个文件.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) -快速重命名文件.
 - [renameutils](https://www.nongnu.org/renameutils) -在您的编辑器中重命名.
+- [diskonaut](https://github.com/imsnif/diskonaut) -磁盘空间导航器.
 
 ### Files
 
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) -CLI监视文件系统更改.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) -检测文件或标准输入的文件类型.
-- [DocToc](https://github.com/thlorenz/doctoc)  -生成本地git存储库中的markdown文件的目录. 链接与github或其他站点生成的锚点兼容.
 - [bat](https://github.com/sharkdp/bat) -带有语法突出显示的猫克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) -具有ncurses接口的磁盘使用情况分析器.
-- [unix-permissions](https://github.com/ehmicky/unix-permissions) -Unix权限的瑞士军刀
-- [rclone](https://github.com/ncw/rclone) -与各种云提供商（Dropbox，Google Drive，Onedrive等）之间进行文件同步.
+- [unix-permissions](https://github.com/ehmicky/unix-permissions) -获得Unix许可的瑞士军刀.
 - [transmission-cli](https://transmissionbt.com) -您的命令行的Torrent客户端.
-- [ffsend](https://github.com/timvisee/ffsend) -的功能齐全的CLI [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) –流洪流客户端.
-- [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
-- [google-drive-upload](https://github.com/labbots/google-drive-upload) - Upload/sync with Google Drive.
-- [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) -从Google云端硬盘下载文件/文件夹.
 - [entr](https://github.com/eradman/entr) -文件更改时运行任意命令.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) -自动整理文件.
+- [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) -Rust中的Organisation-cli具有更多自定义功能.
+
+### File Sync/Sharing
+
+- [rclone](https://github.com/ncw/rclone) -与各种云提供商同步文件.
+- [ffsend](https://github.com/timvisee/ffsend) -快速文件共享.
+- [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
+- [google-drive-upload](https://github.com/labbots/google-drive-upload) -上传/与Google云端硬盘同步.
+- [gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) -从Google云端硬盘下载文件/文件夹.
 
 ### Directory Listing
 
@@ -493,7 +506,7 @@
 - [fortune](https://github.com/shlomif/fortune-mod) -显示随机财富.
 - [ponysay](https://github.com/erkin/ponysay) -小马改写考克斯.
 - [yosay](https://github.com/yeoman/yosay) -像考赛，但对于约曼.
-- [lolcat](https://github.com/busyloop/lolcat) -以彩虹色输出文本.
+- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) -生成文字模因.
 - [dankcli](https://github.com/sggts04/dankcli) -将文字添加到模因图像模板.
 - [ricksay](https://github.com/roma-guru/ricksay) -引用里克和莫蒂的话.

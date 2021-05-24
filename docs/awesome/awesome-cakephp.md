@@ -94,7 +94,7 @@
 - ：草莓： [Setup plugin](https://github.com/dereuromark/cakephp-setup) -包含调试和维护工具的轻量级安装插件.
 
 ## Dependency Injection
-*实现依赖项注入设计模式的插件.*
+*Plugins that implement the dependency injection design pattern.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
 - [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
@@ -211,6 +211,7 @@
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) -用于导出，导入和管理数据库备份的插件.
 - ：草莓： [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈信息，包括. 通过侧边栏形式的屏幕截图.
 - ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) -针对您的应用程序的更强大的Flash消息.
+- ：草莓： [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) -用于CakePHP 4.x应用程序的OPCache预加载器. 
 - [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) -监视应用程序的声音（例如，数据库是否可用和最新）.
 - [Inertia plugin](https://github.com/ishanvyas22/cakephp-inertiajs) -用于Inertia.js的服务器端适配器.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) -将秒转换为人类可读的字符串（字符串转换为秒），使用营业时间（1周= 5天，1天= 8小时）.
@@ -221,7 +222,7 @@
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) -轻松发行可用于邮件身份验证的令牌.
 - ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools)  -用于登录，注册，密码重置等的用户工具. 像CRUD一样开箱即用，并且高度可配置.
-- [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
+- [Utils plugin](https://github.com/cakemanager/cakephp-utils) -包含有用的组件（授权者，菜单）和行为（WhoDidIt，Uploadable，Metas，Stateable）.
 - [Wrench plugin](https://github.com/HavokInspiration/wrench)  -维护模式插件. 易于扩展和定制.
 - [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) -用于使用YAML配置文件而不是PHP数组.
 
@@ -287,7 +288,7 @@
 - ：草莓： [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  -提供完整API的多合一解决方案. 它包括版本控制，渲染器，CRUD，身份验证，扩展（分页，过滤器，HATEOAS）等等.
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
-- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -用于构建的Crud监听器 [JSON API](https://jsonapi.org/) 兼容的API.
+- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -用于构建的Crud侦听器 [JSON API](https://jsonapi.org/) 兼容的API.
 - ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  -此插件会根据您现有的模型和路线自动构建Swagger UI文档. 还可以使用redoc选项.
 
@@ -301,7 +302,7 @@
 - ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.
 
 ## Security
-*Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*
+*有关安全性的插件和信息，可防止漏洞并防御XSS等.
 
 - ：草莓： [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) -在不涉及数据库的情况下将Brute Force Protection添加到安装中的简单方法.
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
@@ -429,7 +430,7 @@
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
 - [Official CakePHP Forum](https://discourse.cakephp.org/) -这适用于一般性问题.
-- [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
+- [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.
 
 ## CakePHP Websites

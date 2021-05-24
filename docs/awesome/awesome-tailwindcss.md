@@ -210,6 +210,7 @@
 -  [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) -Tailwind CSS类名称备忘单.
 -  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) -尾风CSS类名称在一个文件中.
 -  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) -Tailwind CSS类名称，变体和指令速查表.
+-  [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) -可搜索页面中的Tailwind CSS类名称.
 
 ## UI Libraries, Components & Templates
 
@@ -217,7 +218,7 @@
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
--  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - Vue.js UI library using Tailwind CSS.
+-  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的付费，对开发人员友好的模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的现成可使用Tailwind CSS块.
@@ -252,7 +253,7 @@
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) -使用Vue 3和Tailwind CSS构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) -使用Nuxt.js和Tailwind CSS构建的免费目标网页模板.
 -  [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
--  [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
+-  [tails-ui](https://github.com/knipferrc/tails-ui) - React UI library using Tailwind CSS.
 -  [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
 
 ## Starters & Themes

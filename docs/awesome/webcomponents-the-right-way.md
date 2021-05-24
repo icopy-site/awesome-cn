@@ -14,6 +14,7 @@
 
 ## Introduction
 
+- [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
 - [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
@@ -236,7 +237,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于SPA路由，显示来自Web服务的数据等的独立组件.
 - [elements-sk](https://github.com/google/elements-sk) -用于“点菜”网站开发的自定义元素的集合.
 - [github-elements](https://github.com/github/github-elements) -GitHub的Web组件集合.
-- [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
+- [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
 - [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) -一组用于嵌入沉浸式（VR＆AR）内容的Web组件.
 - [Iooxa](https://github.com/iooxa/article) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
 - [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) -Joomla 4自定义元素的编译.
@@ -246,7 +247,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Lume](https://github.com/lume/lume) -用于定义使用CSS3D或WebGL渲染的2D或3D场景的自定义元素.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [Nightingale](https://github.com/ebi-webcomponents/nightingale) -生命科学的数据可视化Web组件.
-- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
+- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件使用Nuxeo构建Web应用程序的组件.
 - [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) -为业务应用程序设计的Web组件的集合.
 - [Pixano Elements](https://github.com/pixano/pixano-elements) -专用于数据注释任务的可重用Web组件.
 - [Shoelace](https://github.com/shoelace-style/shoelace) -具有前瞻性的Web组件库.
@@ -376,7 +377,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Tools
 
 - [Custom Elements Locator](https://github.com/open-wc/locator) -Chrome扩展程序可在页面上查找自定义元素.
-- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺入Shadow DOM根的querySelector，对于自动测试很有用.
+- [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺穿Shadow DOM根的querySelector，对于自动测试很有用.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) -使用Selenium的Shadow DOM自动化.
 - [shadow-dom-utils](https://github.com/43081j/shadow-dom-utils) -用于处理影子DOM（主要用于测试环境）的一组有用实用程序.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) -用于简单的Web组件摘要的UI开发环境.

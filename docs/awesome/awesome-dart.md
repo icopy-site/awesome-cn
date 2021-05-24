@@ -26,14 +26,12 @@
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) -为提高速度，简化性和可扩展性而构建的服务器框架.
-* [Angel](https://github.com/angel-dart/angel) -Angel是为全栈开发而设计的服务器端框架，重点在于代码共享，可伸缩性和较低的学习曲线.
-* [Aqueduct](https://github.com/stablekernel/aqueduct) -Aqueduct是功能齐全的服务器端框架，具有ORM，数据库迁移工具，OAuth 2.0实现，自动OpenAPI规范生成和多线程支持.
 * [Start](https://github.com/lvivski/start) -Sinatra启发性的Web框架可提供静态文件，处理动态请求，WebSocket和创建JSON响应.
 * [Shelf](https://pub.dartlang.org/packages/shelf) -架子使创建和组成Web服务器以及Web服务器的各个部分变得容易.
      *有许多为书架写的软件包. 按照惯例，它们以 [shelf_](https://pub.dartlang.org/search?q=shelf_).
 * [Vane](https://github.com/Scorpiion/Vane) -具有内置服务器运行时环境和中间件系统的框架.
 * [Rikulo Stream](https://github.com/rikulo/stream) -具有请求路由，过滤，模板引擎，WebSocket，MVC设计模式和基于文件的静态资源的轻量级Web服务器.
-* [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+* [Alfred](https://github.com/rknell/alfred) -带有路由和中间件的最小ExpressJS风格的服务器.
 
 ## Game Development
 
@@ -97,7 +95,7 @@
 
 ## ORM
 
-* [Objectory](https://github.com/vadimtsushko/objectory) -Objectory提供类型化，经过检查的环境，以建模，保存和查询MongoDb上保留的数据.
+* [Objectory](https://github.com/vadimtsushko/objectory) -Objectory提供类型化，经过检查的环境，以建模，保存和查询MongoDb上持久存储的数据.
 
 ## Image
 
@@ -135,7 +133,7 @@
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) -网络应用代码实验室.
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) -涵盖AngularDart核心基础的应用程序. 
-* [Dart for beginner](https://www.myfreax.com/tag/dart/) -适用于初学者的Dart中文教程.
+* [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 * [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) -如何使用pub中的任何软件包版本来解决软件包版本冲突.
 
 ## Community
