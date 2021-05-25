@@ -6,7 +6,7 @@
 
 Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且安全的运行时.
 
-该列表是最好的Deno模块和资源的集合.
+此列表是最好的Deno模块和资源的集合.
 
 
 
@@ -78,7 +78,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) -提供高级API的库，可通过DevTools协议控制Chromium或Chrome.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) -帮助程序生成随机间隔.
 - [deno-redis](https://github.com/keroxp/deno-redis) -Redis客户端的Deno的实验实现.
-- [deno-slugify](https://github.com/jcardama/deno_slugify) -deno的字符串节流器.
+- [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) -deno的smtp邮件发件人.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) -deno的模板渲染器.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) -deno的简单标记器.
@@ -106,7 +106,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) -基于极简主义的Deno命令行参数解析器.
 - [forwarded](https://github.com/deno-libs/forwarded) -“转发的”图书馆的Deno端口.
 - [fossil](https://github.com/matteocrippa/fossil) -值类型验证套件.
-- [gardens](https://github.com/partheseas/gardens) -一个无处不在的JavaScript记录实用程序.
+- [gardens](https://github.com/partheseas/gardens) -到处都是JavaScript的有用日志记录实用程序.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) -读取或写入yaml内插env变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) -轻松创建验证.
 - [gentleRpc](https://github.com/timonson/gentleRpc) -用于Deno和浏览器的JSON-RPC 2.0 TypeScript库.
@@ -118,6 +118,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [lazy](https://github.com/luvies/lazy) -类似于linq的惰性求值迭代模块.
 - [log](https://github.com/denoland/deno_std/tree/master/log) -用于Deno的日志记录模块.
 - [marked](https://github.com/denolib/marked/) -Markdown到HTML转换器.
+- [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) -支持使用MaxmindDB geoIP数据库文件的库
 - [maze_generator](https://github.com/mjrlowe/maze_generator) -用于生成，求解，分析和显示迷宫的Javascript模块.
 - [merlin](https://github.com/crewdevio/merlin) -deno️的测试和基准测试框架
 - [microraptor](https://github.com/matteocrippa/microraptor) -轻量级框架，可通过验证轻松进行网络路由.
@@ -151,14 +152,15 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -用于在终端中显示图像的Deno模块和CLI工具. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) -Time.ts-简便的Deno时区操作
-- [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
+- [tincan](https://github.com/gcaptn/tincan) -用于Deno的类似于Jest的测试库.
+- [ts-prometheus](https://github.com/marcopacini/ts-prometheus) -普罗米修斯客户.
 - [type-fest](https://github.com/denoserverless/type-fest) -基本TypeScript类型的集合（sindresorhus端口/ type-fest）.
 - [unexpected](https://github.com/unexpectedjs/unexpected) -可扩展的BDD断言工具包.
 - [up](https://github.com/denorg/up) -检查是否在Deno建立了网站.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) -为Deno加密和解密gzip.
 - [watch](https://github.com/jinjor/deno-watch) -文件查看器.
 - [websocket_server](https://github.com/JohanWinther/websocket_server) -WebSocket服务器库. 
-- [webview](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
+- [webview](https://github.com/eliassjogreen/deno_webview) -Webview的Deno绑定，这是一个用于创建基于Web的桌面GUI的小型库.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) -差异库，使用wu（O（NP））算法计算两个切片之间的差异.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) -用于YouTube数据API的Deno客户端库，用于与YouTube进行任何交互.
 
@@ -192,7 +194,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) -用于安装和运行Deno的跨平台Makefile.
--maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
+- maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) -让TypeScript文件直接在script标签中使用.
@@ -245,7 +247,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 -带有Oak教程系列的Deno REST API [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
-
+- [Runtime permissions in Deno](https://findthedifficult.com/runtime-permissions-in-deno/)
+- [Using Webstorage in Deno](https://findthedifficult.com/deno-1-10-released-support-for-webstorage/)
 ## Presentations
 
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)

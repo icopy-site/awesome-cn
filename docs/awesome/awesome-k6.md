@@ -24,7 +24,6 @@
 ## Articles
 
 - [Beginner's guide to load testing with k6](https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1) -分几部分的入门指南，可帮助您开始使用k6.
-- [Running multiple load test scripts with k6](https://medium.com/@trannguyenhung011086/run-multi-load-test-scripts-with-k6-3dc57e8e26e2) -将测试拆分为多个脚本，然后一起运行它们.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) -k6的特性和功能的简要概述.
 - [Integrating k6 with Apache Kafka](https://mostafa.dev/blog/integrating-k6-with-apache-kafka) -将输出从k6发送到Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) -设置负载测试并使用grafana仪表板对其进行可视化.
@@ -61,7 +60,7 @@
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) -用于将Swagger / OpenAPI规范转换为k6测试脚本的工具.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) -用于将JMeter测试用例转换为k6测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) -适用于k6脚本的实用程序库.
-- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) -Marketplace扩展，可直接从IDE运行k6.
+- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) -Marketplace扩展，可直接从您的IDE运行k6.
 
 
 ## CI

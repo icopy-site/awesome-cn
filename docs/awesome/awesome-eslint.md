@@ -136,7 +136,7 @@
 - [TypeGraphQL](https://github.com/borremosch/eslint-plugin-type-graphql) -用于查找常见错误的TypeGraphQL的规则.
 - [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) -jQuery的Linting规则，包括不赞成使用的功能的版本化配置.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释（包括“ @example”中的JavaScript）的规则.
--洛达（Lodash）
+-罗达斯
   - [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起毛规则.
   - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
   - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
@@ -156,8 +156,8 @@
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) -检查文件顶部并修复文件的eslint规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) -将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) -将所有规则转换为警告.
-- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 轻而易举地进入ESLint.
-- [TypeLint](https://github.com/yarax/typelint) -根据现有模式（Swagger，Redux）引入类型，并减少对对象属性的访问，以防止出现“未定义”错误.
+- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 将lint导入ESLint.
+- [TypeLint](https://github.com/yarax/typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
 - [Woke](https://github.com/amwmedia/eslint-plugin-woke) -帮助捕获不敏感的单词，从而促进包容性代码库.
 
 ### Practices
@@ -269,6 +269,7 @@
 - [esprint](https://github.com/pinterest/esprint) -跨多个线程运行ESLint.
 - [generator-eslint](https://github.com/eslint/generator-eslint) -生成ESLint
   插件和规则 [Yeoman](http://yeoman.io/).
+- [editor-info](https://github.com/fisker/editor-info) -检测一个人是否在编辑器/ IDE中以及是哪个类型，从而允许一个人相应地调整ESLint配置.
 
 ## Developing for ESLint
 

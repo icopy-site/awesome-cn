@@ -12,7 +12,7 @@
 
 ## Alternatives
 
-广告支持的网站，软件和出版物的替代方案.
+广告支持的网站，软件和出版物的替代方法.
 
 ### Blogs
 
@@ -35,7 +35,7 @@
 
 ### File Sharing
 
-- [Mega](https://mega.nz/)  -50 GB的安全免费存储空间. 文件是加密的客户端.
+- [Mega](https://mega.nz/)  -50 GB的安全免费存储空间（其中30 GB将在30天后失效）. 文件是加密的客户端. 可以从成就中获得更多（非永久性）空间.
 - [qBittorrent](https://www.qbittorrent.org/) -免费和开源的BitTorrent客户端.
 
 ### Mobile Apps
@@ -79,7 +79,7 @@
 - [GNUsocial.no](https://gnusocial.no)  -允许用户相互连接和共享； 费用由捐款支付.
 - [Libranet](https://libranet.de/) -受欢迎的站点，它运行着Friendica，这是一个联合的Facebook风格的社交网络.
 - [Lobsters](https://lobste.rs/) -简单的链接聚合站点，并附有向下投票所需的说明.
-- [Manyverse](https://www.manyver.se/) -离网社交网络.
+- [Manyverse](https://www.manyver.se/) - Off the grid social network.
 - [Mastodon](https://mastodon.social) -类似于Twitter的分散式微博平台.
 - [PixelFed](https://pixelfed.social/) -基本上没有广告，跟踪器或修改的时间表的Instagram.
 
@@ -107,7 +107,7 @@
 - [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 - [Clean City Law: Secrets of São Paulo Uncovered by Outdoor Advertising Ban](https://99percentinvisible.org/article/clean-city-law-secrets-sao-paulo-uncovered-outdoor-advertising-ban/)
 - [Conscious Success](https://www.stevepavlina.com/blog/2011/12/conscious-success/) -以广告为例，探讨有意识的成功而非偶然的成功的想法.
-- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) - Overview of common criticisms of advertising.
+- [Criticism of Advertising on Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_advertising) -常见的广告批评概述.
 - [Human Ad Block: A Tutorial](https://maxlath.eu/posts/ad-blocker-humain/) -公开禁止广告的创新方式.
 - [Public Spaces](http://www.perezhiguera.com/publicspaces) -艺术家想像一下，如果我们能拥有一个现实生活中的广告拦截器，那会是什么样子.
 - [Saying Goodbye to $100K Per Year in Easy Income](https://www.stevepavlina.com/blog/2008/10/dropping-adsense-saying-goodbye-to-100k-per-year-in-easy-income/) -一个博客作者的故事，他选择了一种更好的谋生手段.
