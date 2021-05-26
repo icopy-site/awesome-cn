@@ -114,6 +114,7 @@
 * [Overtone](https://github.com/overtone/overtone/) -一个开放源代码工具包，用于设计合成器并与音乐协作.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) -用Lua编写的开源音乐生成框架.
 * [Pure Data](http://puredata.info/) -用于音频和其他多媒体的可视编程语言.
+* [py-modular](http://py-modular.readthedocs.io/) -带有Python中基本DSP例程的模块化和实验性编程环境.
 * [Sonic Pi](http://sonic-pi.net/) -现场编码合成器，着重于教育用途.
 * [Sporth](https://pbat.ch/proj/sporth.html) -基于小型堆栈的音频语言.
 * [SuperCollider](http://supercollider.github.io/) -用于实时音频合成和算法合成的编程语言.

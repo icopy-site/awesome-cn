@@ -9,7 +9,7 @@
 
 ## Awesome Svelte [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> ⚡ A curated list of awesome Svelte resources
+&gt;⚡精选的Svelte资源列表
 
 [Svelte](https://svelte.dev/) 是一种构建Web应用程序的新方法. 这是一个使用声明性组件并将其转换为有效JavaScript的编译器
 
@@ -59,6 +59,7 @@
 - [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) -@lihautan（YouTube）.
 - [Svelte 101](https://www.youtube.com/hashtag/svelte101) -@lihautan（YouTube）.
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) -RadDevon.
+- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  -SitePoint，由Chrome DevTools工程师@Jack_Franklin提供.
 
 ### Studies
 
@@ -139,7 +140,7 @@ _让用户创建和编辑数据._
 _Switch / on / off toggle / checkbox._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) -复选框组件（超酷动画，可自定义）.
-- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) -具有样式的基本切换组件.
+- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
 ### Frameworks
 

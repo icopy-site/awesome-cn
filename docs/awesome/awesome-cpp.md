@@ -237,7 +237,7 @@
 ## Containers
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree)  -一个模板库，该模板库基于B树数据结构实现有序的内存中容器.  [Apache2]
-* [Colony](https://github.com/mattreecebentley/plf_colony)  -无序的“袋”型容器，在高修改情况下，其性能优于标准容器，同时无论插入/擦除如何，都始终保持指向未擦除元素的永久指针.  [zLib] [website](http://www.plflib.org/colony.htm)
+* [Colony](https://github.com/mattreecebentley/plf_colony)  -无序的“袋”型容器，在高修改情况下，其性能优于标准容器，同时无论插入/擦除如何，始终保持指向未擦除元素的永久指针.  [zLib] [website](http://www.plflib.org/colony.htm)
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  -C ++ 17仅限标头的动态位集.  [麻省理工学院]
 * [Forest](https://github.com/xorz57/forest)  -实现AVL，二进制搜索，KD和四叉树的模板库.  [麻省理工学院]
 * [Hashmaps](https://github.com/goossaert/hashmap)  -在C ++中实现开放式地址哈希表算法.  [麻省理工学院]
@@ -364,7 +364,7 @@
 * [delta3d](http://sourceforge.net/projects/delta3d/)  -强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  -游戏符合现代C ++.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  -跨平台的本机C ++游戏框架，用于创建2D / 3D移动和桌面游戏.  [Apache2]
-* [Godot](https://github.com/godotengine/godot)  -具有MIT许可的功能齐全的开源游戏引擎.  [麻省理工学院]
+* [Godot](https://github.com/godotengine/godot)  -一款功能全面的，开放源代码，麻省理工学院许可的游戏引擎.  [麻省理工学院]
 * [Grit](https://github.com/grit-engine/grit-engine)  -社区项目，旨在构建一个免费游戏引擎，以实施开放世界3D游戏.  [麻省理工学院]
 * [Halley](https://github.com/amzeratul/halley)  -用C ++ 14编写的轻量级游戏引擎，带有“真实的”实体组件系统.  [Apache 2.0]
 * [KlayGE](https://github.com/gongminmin/KlayGE)  -具有基于插件的体系结构的跨平台开源游戏引擎.  [GPLv2] [website](http://www.klayge.org/)
@@ -401,7 +401,7 @@
 * [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  -单头ANSI C gui库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)  -Qt绘图小部件，无需进一步依赖.  [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/)  -用于技术应用程序的Qt小部件.  [基于LGPL拥有]
-* [QwtPlot3D](http://qwtplot3d.sourceforge.net/)  -一个基于Qt / OpenGL的功能丰富的C ++编程库，本质上提供了一堆3D小部件.  [zlib]
+* [QwtPlot3D](http://qwtplot3d.sourceforge.net/)  -一个功能丰富的基于Qt / OpenGL的C ++编程库，本质上提供了一堆3D小部件.  [zlib]
 * [RmlUi](https://github.com/mikke89/RmlUi)  -HTML / CSS用户界面库得到了发展.  libRocket的叉子.  [麻省理工学院]
 * [Sciter](http://sciter.com/)  -Sciter是一个可嵌入的HTML / CSS /脚本引擎，旨在用作现代桌面应用程序的UI层.  [免费/商业]
 * [wxWidgets](http://wxwidgets.org/)  -一个C ++库，使开发人员可以使用单个代码库为Windows，Mac OS X，Linux和其他平台创建应用程序.  [自己的LGPL]
@@ -428,7 +428,7 @@
 * [NanoVG](https://github.com/memononen/nanovg)  -OpenGL上的抗锯齿2D矢量绘图库，用于UI和可视化.  [Zlib]
 * [Ogre 3D](http://www.ogre3d.org/)  ：zap：-用C ++编写的面向场景的实时，灵活的3D渲染引擎（与游戏引擎相对）.  [麻省理工学院]
 * [OpenSceneGraph](http://www.openscenegraph.org/)  -开源高性能3D图形工具包.  [OSGPL]
-* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)  -皮克斯（Pixar）的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改的Apache2]
+* [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)  -Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改的Apache2]
 * [OpenVDB](http://www.openvdb.org/)  -用于存储，编辑和渲染体积数据集的库和工具.  [MPL2]
 * [Panda3D](http://www.panda3d.org/)  -用于Python和C ++的3D渲染和游戏开发的框架.  [BSD]
 * [Partio](https://github.com/wdas/partio)  -用于处理粒子数据的库，支持大多数常用文件格式.  [修改后的BSD]
@@ -504,7 +504,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -使用JSONPointer，JSONPatch，JSONPath和JMESPath的JSON和类似JSON二进制格式的C ++仅标头库.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-struct](https://github.com/jorgen/json_struct)  -往返于C ++结构的高性能，单头JSON解析器.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
@@ -529,7 +529,7 @@
 * [Blackhole](https://github.com/3Hren/blackhole)  -基于属性的日志记录框架，该框架旨在快速，模块化和高度可定制.  [麻省理工学院]
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html)  -设计成非常模块化和可扩展的.  [促进]
 * [Easylogging++](https://github.com/easylogging/easyloggingpp)  -适用于C ++ 11（或更高版本）应用程序的超轻量级高性能日志记录库.  [麻省理工学院] [website](https://muflihun.github.io/easyloggingpp)
-* [fmtlog](https://github.com/MengRao/fmtlog)  -高性能的fmtlib样式的日志记录库，延迟时间以纳秒为单位.  [麻省理工学院]
+* [fmtlog](https://github.com/MengRao/fmtlog)  -高性能的fmtlib样式的日志记录库，延迟时间为纳秒.  [麻省理工学院]
 * [G3log](https://github.com/KjellKod/g3log)  -带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) -Google日志记录模块的C ++实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)  -C ++类库，用于灵活地记录到文件，系统日志，IDSA和其他目标.  [LGPL]
@@ -585,7 +585,7 @@
 * [linalg.h](https://github.com/sgorsten/linalg)  -单头，公共领域，C ++的短向量数学库.  [无牌]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  -多精度整数和有理数算法密码库.  [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser)  -muParser是用C ++编写的可扩展高性能数学表达式解析器库.  [麻省理工学院]
-* [LibTomMath](https://github.com/libtom/libtommath) -完全用C编写的免费开源可移植数论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
+* [LibTomMath](https://github.com/libtom/libtommath) -完全用C编写的免费开放源代码可移植数字理论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h)  -精益线性数学库，主要用于图形编程.  [WTFPL]
 * [lp_solve](https://sourceforge.net/projects/lpsolve)  -用于制定和解决线性编程问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS)  -基于GotoBLAS2 1.13 BSD版本的优化BLAS库.  [BSD 3句] [website](http://www.openblas.net/)
@@ -806,7 +806,7 @@
 * [libvpx](http://www.webmproject.org/code/)  -VP8 / VP9编解码器SDK.  [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)  -完整的跨平台解决方案，用于记录，转换和流式传输音频和视频.  [LGPL2 / GPL2]
 * [libde265](https://github.com/strukturag/libde265)  -打开h.265视频编解码器实施.  [LGPL] [website](http://www.libde265.org/)
-* [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)  -打开h.265视频编解码器实施.  [GPL2] [website](https://x265.readthedocs.io/en/default/)
+* [x265](https://bitbucket.org/multicoreware/x265_git/src)  -打开h.265视频编解码器实施.  [GPL2] [website](https://x265.readthedocs.io/en/master/)
 * [OpenH264](https://github.com/cisco/openh264)  -开源H.264编解码器.  [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/)  -免费和开放的视频压缩格式.  [BSD]
 * [Vireo](https://github.com/twitter/vireo/)  -Twitter的轻量级多功能视频处理库.  [麻省理工学院]
@@ -831,12 +831,12 @@
 * [lwan](https://github.com/lpereira/lwan)  -实验性，可扩展的高性能HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)  -轻巧，零依赖的框架可创建高性能的Web服务.  [Apache-2.0] [website](https://oatpp.io/)
 * [Pistache](http://pistache.io/)  -Pistache是​​用纯C ++ 11编写的C ++ REST框架，没有外部依赖关系.  [Apache2]
-* [QDjango](https://github.com/jlaine/qdjango/)  -用C ++编写并在Qt库之上构建的Web框架. 在可能的情况下，它尝试遵循django的API，因此取其名称.  [LGPL]
+* [QDjango](https://github.com/jlaine/qdjango/)  -用C ++编写并在Qt库之上构建的Web框架. 在可能的情况下，它会尝试遵循django的API，因此也沿用了它的名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)  -基于C ++和Qt的高速，全栈Web应用程序框架，支持HTTP和WebSocket协议（带有O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
 * [Wt](http://www.webtoolkit.eu/wt)  -用于开发Web应用程序的C ++库.  [GPL /商业]
 
 ## XML
- * XML是废话. 真的. 没有任何借口.  XML对于人类来说很讨厌解析，即使对于计算机也无法解析. 那种可怕的废话根本没有理由存在.  -Linus Torvalds *
+ * XML是废话. 真的. 没有任何借口.  XML对于人类来说很讨厌解析，即使对于计算机也无法解析. 那种可怕的废话根本没有理由存在.  -莱纳斯·托瓦尔兹（Linus Torvalds）*
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  -属性树解析器/生成器，可用于解析XML / JSON / INI / Info文件.  [促进]
 * [Expat](http://www.libexpat.org/) -用C语言编写的XML解析器库.
@@ -859,7 +859,7 @@
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在一定时间和最少示例输入的情况下自动发现错误.  [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -替代C的字符串库，它的功能更强大，并且没有缓冲区溢出超限问题. 还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  -受Python内置函数和itertools库启发的基于范围的for循环插件.  [BSD-2-Clause]

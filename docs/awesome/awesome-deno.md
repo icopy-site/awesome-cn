@@ -51,6 +51,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [chart](https://github.com/maximousblk/chart) -控制台ASCII折线图，无依赖性.
 - [coffee](https://github.com/irandeno/coffee) -Deno配置-一种类型安全，易于使用的Deno配置管理器.
 - [colors](https://deno.land/std/fmt/colors.ts) -用于Deno的基本控制台颜色库.
+- [compression](https://github.com/deno-libs/compression) -Deno HTTP压缩中间件.
 - [computed_types](https://github.com/neuledge/computed-types) -Joi喜欢Typescript和Deno的验证器.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) -在执行长任务时，在终端中显示微调框.
 - [cliffy](https://github.com/c4spar/deno-cliffy) -用于构建交互式命令行工具的完整解决方案.
@@ -78,7 +79,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) -提供高级API的库，可通过DevTools协议控制Chromium或Chrome.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) -帮助程序生成随机间隔.
 - [deno-redis](https://github.com/keroxp/deno-redis) -Redis客户端的Deno的实验实现.
-- [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
+- [deno-slugify](https://github.com/jcardama/deno_slugify) -deno的字符串节流器.
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) -deno的smtp邮件发件人.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) -deno的模板渲染器.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) -deno的简单标记器.
@@ -94,7 +95,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [djwt](https://github.com/timonson/djwt) -根据JWT和JWS规范在Deno上制作JSON Web令牌（JWT）.
 - [dndb](https://github.com/denyncrawford/dndb) -为Deno编写的持久性和可嵌入的NoSQL数据库引擎. 
 - [doa](https://github.com/johannlai/doa)  -用于Deno的http服务的中间件框架. 用❤️从Koa移植
-- [drash](https://github.com/drashland/deno-drash) -零依赖性的Deno HTTP服务器的REST微框架.
+- [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [dragon](https://github.com/xanny-projects/dragon) -⚡强大的HTTP路由器和URL匹配器，用于使用Dragon构建Deno Web服务器.
 - [dropper](https://github.com/denyncrawford/dropper-deno) -基于事件的自定义WebSockets框架，用于在Deno上构建实时应用程序 
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) -使用JSON格式的简单持久性键值数据库.
@@ -148,6 +149,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [sql-builder](https://github.com/manyuanrong/sql-builder) -一个SQL查询生成器.
 - [status](https://github.com/denosaurs/status) -用于Deno的HTTP代码和状态实用程序.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) -由超级代理驱动的库，用于测试Deno HTTP服务器.
+- [superfetch](https://github.com/deno-libs/superfetch)  -基于Fetch API的类上层超级代理测试库. 移植自 [node-supertest-fetch](https://github.com/jwalton/node-supertest-fetch).
 - [superoak](https://github.com/asos-craigmorten/superoak) -通过SuperDeno简化了Oak的HTTP断言.
 - [terminal_images](https://github.com/mjrlowe/terminal_images) -用于在终端中显示图像的Deno模块和CLI工具. 
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
@@ -173,7 +175,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 ## Showcases
 
 -[AuthCompanion]（https://github.com/pmprosociety/authcompanion）-基于令牌的用户管理服务器.
-- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) -教义的RESTful API的样板.
+- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed)  -完整的样板可供开发.  ：幼苗：
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) -在自述文件中添加动态生成的GitHub Trophy
 - [UsingDeno](https://usingdeno.com) -使用Deno策划Web应用程序和项目的列表.
@@ -194,7 +196,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) -用于安装和运行Deno的跨平台Makefile.
-- maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
+-maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) -让TypeScript文件直接在script标签中使用.

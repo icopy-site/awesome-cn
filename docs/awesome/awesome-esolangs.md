@@ -37,7 +37,7 @@
 * [FlipJump](https://github.com/tomhea/flip-jump)  -1条指令：先翻转一下，然后跳转. 最简单的OISC.
 * [Folders](https://github.com/rottytooth/Folders) -用文件夹编写的代码.
 * [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
-* [Golfscript](http://www.golfscript.com/golfscript) -面向堆栈，旨在解决尽可能少的按键问题.
+* [Golfscript](http://www.golfscript.com/golfscript) - Stack oriented, aimed at solving problems in as few keystrokes as possible.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) -设计时考虑了复活节哲学的核心价值观.
 * [INTERCAL](http://www.catb.org/~esr/intercal) -拟与其他语言完全不同的模仿语言.
 * [Japt](https://github.com/ETHproductions/japt) -减少了高尔夫的JavaScript.
@@ -52,16 +52,17 @@
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) -类似于Internet lang语的语法.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) -基于Brainfuck的语言，其中的命令是猩猩词.
 * [Orca](https://hundredrabbits.itch.io/orca) -Livecoding环境，可快速创建程序音频定序器.
+* [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言. 以Piet Mondrian的名字命名.
+* [RASEL](https://github.com/Nakilon/rasel) -Fungeoid，对程序空间，浮点精度没有限制，并且可以随机访问堆栈.
 * [reMorse](http://esolangs.org/wiki/reMorse) -摩尔斯风格的语言.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) -设计用于创建也是歌曲歌词的计算机程序.
-* [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言. 以Piet Mondrian的名字命名.
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码看起来像是莎士比亚戏剧的语言.
 * [Spooky](https://spookylang.com) -最可怕的编程语言：jack_o_lantern：：skull:.
 * [Suzy](https://github.com/gvx/suzy) -以Befunge为灵感的3D语言.
 * [Technologic](https://esolangs.org/wiki/Technologic) -程序看起来像Daft Punk歌曲Technologic的歌词的语言.
 * [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定性字符串重写的* Matrioshka *语言.
 * [Tru](https://github.com/sungwoncho/tru) -带有无前缀括号的基于堆栈的语言.
-* [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again.
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) -使Python再次出色.
 * [Turtle](https://github.com/TypeMonkey/Turtle) -使用长期存储以供内存使用.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.

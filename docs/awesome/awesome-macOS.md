@@ -49,7 +49,7 @@
 - [Gas Mask](https://github.com/2ndalpha/gasmask)  -一个简单的主机文件管理器，允许编辑主机文件并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/2ndalpha/gasmask）！[免费软件] [免费软件图标]
 - [gitbar](https://github.com/Shikkic/gitbar)  -菜单栏上的开源github贡献统计信息.  [！[开源软件] [OSS图标]]（https://github.com/Shikkic/gitbar）！[免费软件] [免费软件图标]
 - [GitUp](http://gitup.co/)  -一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
-- [GitX-dev](https://rowanj.github.io/gitx/) - A fork (variant) of GitX, maintained and enhanced with productivity oriented changes.  [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
+- [GitX-dev](https://rowanj.github.io/gitx/)  -GitX的前叉（变体），通过针对生产力的更改进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hopper Dissassembler](https://www.hopperapp.com)  -适用于MacOS和Linux的反汇编程序. 具有演示选项，可提高30分钟的工作效率.
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)  -编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [Iconology](https://github.com/liamrosenfeld/Iconology)  -编辑图标，然后导出到Xcode，ICn，Ico，Favicon，Mac Iconset或自定义尺寸列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
@@ -102,7 +102,7 @@
 ### Email Utilities
 
 - [Airmail](http://airmailapp.com/) -为El Capitan设计的闪电般快速的电子邮件客户端.
-- [MailMate](https://freron.com/) - Advanced IMAP email client, featuring extensive keyboard control and Markdown support.
+- [MailMate](https://freron.com/) -先进的IMAP电子邮件客户端，具有广泛的键盘控制和Markdown支持.
 - [Mailplane](https://mailplaneapp.com/) -紧密集成的Google Mail，收件箱，日历和通讯录客户端.
 
 
@@ -161,7 +161,7 @@
 - [Fantastical 2](https://flexibits.com/fantastical) -使用自然语言创建事件的完整日历应用替换.
 - [Hazel](https://www.noodlesoft.com/hazel.php) -创建规则以自动保持文件井井有条.
 - [HazeOver](https://hazeover.com/) -降低注意力，专注于当前任务.
-- [HyperDock](https://bahoom.com/hyperdock/) -选择单个应用程序窗口.
+- [HyperDock](https://bahoom.com/hyperdock/) - Select individual application window.
 - [iCMD](https://icmd.app) -模糊的菜单栏搜索和vim仿真.
 - [Instant Translate](https://insttranslate.com/mac) -通过菜单栏在100多种语言之间翻译语音和文本.
 - [ItsyCal](https://www.mowglii.com/itsycal/)  -一个小的菜单栏日历，显示您的Mac Calendar应用程序事件.  [！[开源软件] [OSS图标]]（https://github.com/sfsam/Itsycal）！[免费软件] [免费软件图标]
@@ -190,7 +190,7 @@
 
 ### Sharing Files
 
-- [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
+- [CloudApp](https://www.getcloudapp.com/) -立即捕获并共享文件和屏幕截图.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  -实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和语音录制.  ！[免费软件] [免费软件图标]
 - [mac2imgur](https://github.com/mileswd/mac2imgur)  -将图像和屏幕截图上传到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
 - [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等.
@@ -199,7 +199,7 @@
 
 ### Terminal
 
-- [iTerm 2](https://www.iterm2.com/) - A terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
+- [iTerm 2](https://www.iterm2.com/)  -终端仿真器.  [！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 
 
 ### Utilities
@@ -223,14 +223,14 @@
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) -美丽而简单的包裹跟踪.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor)  -在Mac上轻松禁用或启用监视器.  [！[开源软件] [OSS图标]]（https://github.com/Eun/DisableMonitor）！[免费软件] [免费软件图标]
 - [Dozer](https://github.com/Mortennn/Dozer)  -隐藏MacOS菜单栏项目.  [！[开源软件] [OSS图标]]（https://github.com/Mortennn/Dozer）！[免费软件] [免费软件图标]
-- [EtreCheck](http://etrecheck.com)  -输出系统信息和配置，以获取Apple支持专业人员的更多信息.  [！[开源软件] [OSS图标]]（https://github.com/etresoft/EtreCheck）！[免费软件] [免费软件图标]
+- [EtreCheck](http://etrecheck.com)  -输出系统信息和配置，以获取Apple支持专业人员的更多信息.  ！[免费软件] [免费软件图标]
 - [Fanny](http://fannywidget.com/)  -通知中心小部件和菜单栏应用程序，用于监视Mac的风扇和CPU温度.  [！[开源软件] [OSS图标]]（https://github.com/DanielStormApps/Fanny）！[免费软件] [免费软件图标]
 - [Finicky](https://johnste.github.io/finicky/)  -允许您设置规则的应用程序，该规则决定为每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
 - [Flotato](https://flotato.com/) -使用任何网站作为精美的Mac应用程序.
 - [Fluid](http://fluidapp.com/) -将Web应用程序转换为Mac应用程序.
-- [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监控MacBook Pro上的集成GPU和离散GPU并在它们之间进行切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
+- [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监控MacBook Pro上的集成GPU和离散GPU并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
 - [Gray](https://github.com/zenangst/Gray)  -只需按一下按钮，就可以根据应用在浅色和深色之间进行选择.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
-- [Helium](http://heliumfloats.com/)  -浮动的浏览器窗口，可让您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
+- [Helium](https://github.com/JadenGeller/Helium)  -浮动的浏览器窗口，可让您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
 - [Irvue](http://irvue.tumblr.com)  -Mac上成千上万的Unsplash精美照片和壁纸.  [！[开源软件] [OSS图标]]（https://github.com/leonspok/Irvue-Screensaver）！[免费软件] [免费软件图标]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) -菜单栏的高级系统监视器.
 - [Jiffy](https://sindresorhus.com/jiffy)  -在GIPHY上发现并共享最好的GIF.  ！[免费软件] [免费软件图标]
@@ -252,7 +252,7 @@
 - [Noizio](http://noiz.io/) -环境声音均衡器，可放松或提高生产率.
 - [Notational Velocity](http://notational.net/)  -在最小的GUI中存储，检索和同步笔记.  [！[开源软件] [OSS图标]]（https://github.com/scrod/nv/）！[免费软件] [免费软件图标]
 - [Noti](https://noti.center/)  -在Mac上（通过PushBullet）接收Android通知.  [！[开源软件] [OSS图标]]（https://github.com/jariz/Noti/）！[免费软件] [免费软件图标]
-- [Numi](http://numi.io/)  -美丽的计算器应用程序.  ！[免费软件] [免费软件图标]
+- [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/)  -多功能实用程序，用于验证磁盘和文件，运行清理和系统维护任务，配置隐藏选项等.  ！[免费软件] [免费软件图标]
 - [Paparazzi](http://derailer.org/paparazzi/)  -制作网页截图的小型实用程序.  ！[免费软件] [免费软件图标]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) -世界上最快的NTFS驱动程序.
@@ -260,9 +260,9 @@
 - [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) -远程桌面连接客户端可让您从Macintosh计算机连接到基于Windows的计算机.
 - [RDM](https://github.com/avibrazil/RDM)  -轻松将Mac Retina显示器设置为更高的不受支持的分辨率.  [！[开源软件] [OSS图标]]（https://github.com/avibrazil/RDM）
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) -从Internet自动下载网站.
-- [ShiftIt](https://github.com/fikovnik/ShiftIt)  -管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
+- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活该键时，即使您不想启动，也可以开始大喊，您只需选择大喊大叫的文本，然后再次按该键即可立即修复其大小写，而不用键入一切都重新开始.
+- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活该键时，即使您不想启动，也可以开始大喊，您只需选择大喊大叫的文本，然后再次按下该键即可立即修复其大小写，而不用键入一切都重新开始.
 - [Soulver](http://www.acqualia.com/soulver/) -美丽的表现力计算器.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) -管理您的SSH隧道，与macOS Keychain紧密集成，安全且直观.
 - [TeamViewer](https://www.teamviewer.com/en/) -远程控制另一台计算机.
@@ -369,6 +369,10 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 ### macOS 10.14 Mojave Setup
 
 * https://gist.github.com/kevinelliott/ab14cfb080cc85e0f8a415b147a0d895
+
+### macOS 10.15 Catalina Setup
+
+* https://gist.github.com/kevinelliott/7152e00d6567e223902a4775b5a0a0be
 
 ## Security
 

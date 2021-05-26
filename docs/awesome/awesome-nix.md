@@ -96,6 +96,7 @@
 * [stack2nix](https://github.com/input-output-hk/stack2nix) -为Haskell项目生成nix表达式.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) -在Emacs中自动进行Haskell设置.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) -Nixpkgs的替代Haskell基础架构.
+* [nixkell](https://github.com/pwm/nixkell) -使用Nix和direnv的Haskell项目模板.
 
 ### Node.js
 

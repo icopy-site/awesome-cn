@@ -19,7 +19,7 @@
 ## Books
 
 - [Google Books](https://github.com/aharris88/google-bookshelves-widget) -允许您在Google图书库中显示图书.
-- [Goodreads API and widgets](https://www.goodreads.com/api)  -允许您访问任何Goodreads数据. 在您的“窗口小部件”标签上可以找到窗口小部件 [settings page](https://www.goodreads.com/user/edit).
+- [Goodreads API and widgets](https://www.goodreads.com/api)  -允许您访问任何Goodreads数据. 在您的“窗口小部件”标签上找到窗口小部件 [settings page](https://www.goodreads.com/user/edit).
 
 ## Calendar and Scheduling
 
@@ -81,14 +81,15 @@
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的网站在每次推送到GitHub时自动部署，如GitHub Pages，Netlify和其他网站所示.
+- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的站点在每次推送到GitHub时自动部署，如GitHub Pages，Netlify等上所示.
 - [Disqus](https://disqus.com/) -带有嵌套回复，多种登录方法和电子邮件通知的易于嵌入的注释.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -Facebook为您的网站嵌入的评论.
 - [IntenseDebate Comments](http://www.intensedebate.com/) -具有嵌套回复，多种登录方法和电子邮件通知的可嵌入评论.
 - [LiveFyre](http://web.livefyre.com/apps/comments/) -实时评论，经过SEO优化，具有社交功能，并且在台式机和移动设备上均美观.
 - [Redditjs Embed Widget](http://embed.redditjs.com/)  -在您的网站上嵌入Reddit评论. 如果尚未发布，它将显示一个链接以鼓励用户提交.
-- [Muut.com](https://muut.com/)  -可嵌入的评论，论坛和私人消息. 功能很多，但网站上的空间却很少.
+- [Muut.com](https://muut.com/)  -可嵌入的评论，论坛和私人消息. 功能很多，但网站上的空间却很小.
 - [Gitment](https://github.com/imsun/gitment) -基于GitHub Issues的评论系统，无需任何服务器端实现即可在前端使用.
+- [giscus](https://github.com/laymonage/giscus) -建立在GitHub讨论区上的评论小部件.
 
 ### Forms
 
@@ -202,7 +203,7 @@ Self-hosted:
 第三方整合：
 
 - [Google Custom Search Engine](https://cse.google.com/cse/) -使用自定义Google搜索来搜索您的网站.
-- [Algolia](https://www.algolia.com/) -托管的搜索API，可从第一次击键中立即获得相关结果.
+- [Algolia](https://www.algolia.com/) -托管的搜索API，可从第一次击键中获得即时和相关的结果.
 - [CloudSh](https://cloudsh.com/) -使用几行JavaScript强大地搜索您的网站.
 
 ## Analytics
