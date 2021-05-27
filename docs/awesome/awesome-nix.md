@@ -93,10 +93,10 @@
 ### Haskell
 
 * [cabal2nix](https://github.com/NixOS/cabal2nix) -将Cabal文件转换为Nix构建表达式.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) -为Haskell项目生成nix表达式.
-* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) -在Emacs中自动进行Haskell设置.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) -Nixpkgs的替代Haskell基础架构.
+* [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) -在Emacs中自动进行Haskell设置.
 * [nixkell](https://github.com/pwm/nixkell) -使用Nix和direnv的Haskell项目模板.
+* [stack2nix](https://github.com/input-output-hk/stack2nix) -为Haskell项目生成nix表达式.
 
 ### Node.js
 
@@ -142,8 +142,8 @@
 
 ## Community
 
-* [#nix:matrix.org (Unofficial)](https://matrix.to/#/#nix:matrix.org)
-* [#nixos on FreeNode](https://webchat.freenode.net/?channels=nixos)
+* [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
+* [#nixos on Libera.Chat](https://github.com/nix-community/awesome-nix/blob/master/ircs://irc.libera.chat:6697/nixos/nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) -寻求帮助和讨论与Nix相关的主题的最佳场所.
 * [NixCon](https://nixcon.org/) -面向Nix和NixOS的贡献者和用户的年度社区会议.

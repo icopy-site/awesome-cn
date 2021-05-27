@@ -67,7 +67,7 @@
 
 IAM的基础：用户，组，角色和权限的定义和生命周期.
 
-- [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) -帐户管理的元批评家，其中业务期望的功能与虚构的项目经理编写的用户故事形式的真实用户需求相冲突.
+- [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) -帐户管理的元批评家，其中企业期望的功能与虚构的项目经理编写的用户故事形式的真实用户需求发生冲突.
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)  -与上述精神相同，但涵盖范围更广：开发人员忽略但用户真正关心的所有小事情. 该列表的顶部是以帐户为中心的功能，各种集成和导入/导出工具. 也就是说，所有企业客户都需要承保.
 
@@ -76,8 +76,6 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 - [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/) -关于用户名作为标识符的概念，以及当Unicode字符满足唯一性要求时引入的复杂性.
 
 - [Kratos](https://github.com/ory/kratos) -用户登录，用户注册，2FA和配置文件管理.
-
-- [Zitadel](https://github.com/caos/zitadel) -Go中的开源解决方案，用于管理您的所有系统，用户和服务帐户及其角色，权限，登录流程和元数据.
 
 - [Conjur](https://github.com/cyberark/conjur) -自动保护特权用户和计算机身份使用的机密.
 
@@ -95,7 +93,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) -密码学基础论文.
 
-- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) -“如果使用散列比较来生成可被恶意用户提供的数据地址，则应该制定计划每隔几年迁移到新的散列”.
+- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) -“如果使用散列比较来生成可被恶意用户提供的数据的地址，则应该制定计划，每隔几年就迁移到新的散列中”.
 
 ## Zero-trust Network
 
@@ -171,7 +169,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) -Google安全团队的数据显示2FA阻止了100％的自动漫游器入侵.
 
-- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) -与Microsoft的上述结论相同：“根据我们的研究，如果您使用MFA，您的帐户被盗用的可能性会降低99.9％以上.”
+- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) - Same conclusion as above from Microsoft: “Based on our studies, your account is more than 99.9% less likely to be compromised if you use MFA.”
 
 - [Attacking Google Authenticator](https://unix-ninja.com/p/attacking_google_authenticator) -可能处于偏执狂的边缘，但这可能是对2FA验证尝试进行限制的原因.
 
@@ -221,7 +219,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Learn how to use JWT for Authentication](https://github.com/dwyl/learn-json-web-tokens) -了解如何使用JWT保护您的Web应用程序.
 
-- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) -与API密钥相比，JWT提供了精细的安全性，同质的身份验证体系结构，分散的发行，OAuth2遵从性，可调试性，到期控制，设备管理.
+- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) -与API密钥相比，JWT提供了细粒度的安全性，同质的身份验证体系结构，分散的发行，OAuth2遵从性，可调试性，到期控制，设备管理.
 
 - [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) -JWT具有各种灵活性，因此很难很好地使用.
 
@@ -237,7 +235,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [JWT.io](https://jwt.io) -允许您解码，验证和生成JWT.
 
-- [`loginsrv`](https://github.com/tarent/loginsrv) -独立的简约登录服务器，为多个登录后端（htpasswd，OSIAM，用户/密码，HTTP基本身份验证，OAuth2：GitHub，Google，Bitbucket，Facebook，Gitlab）提供JWT登录.
+- [`loginsrv`](https://github.com/tarent/loginsrv) -独立的简约登录服务器，可为多个登录后端（htpasswd，OSIAM，用户/密码，HTTP基本身份验证，OAuth2：GitHub，Google，Bitbucket，Facebook，Gitlab）提供JWT登录.
 
 ### OAuth2 & OpenID
 
@@ -278,6 +276,8 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 - [IdentityServer](https://github.com/IdentityServer/IdentityServer4) -用于ASP.NET Core的免费，开源OpenID Connect和OAuth 2.0框架.
 
 - [authentik](https://goauthentik.io/?#correctness) -类似于Keycloak的开源身份提供程序.
+
+- [ZITADEL](https://github.com/caos/zitadel)  -使用Go和Angular构建的开源解决方案，用于管理您的所有系统，用户和服务帐户及其角色和外部身份.  ZITADEL为您提供OIDC，OAuth 2.0，登录和注册流程，无密码和MFA身份验证. 所有这些都是在事件外包与CQRS结合的基础上构建的，以提供出色的审核线索.
 
 ### SAML
 
@@ -345,7 +345,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  -手工编写具有安全意识的IAM策略可能非常繁琐且效率低下.  Policy Sentry帮助用户在几秒钟内创建最小特权策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  -Netflix工具，可在AWS上实施最低特权. 这个想法是，对新事物的默认策略是全部拒绝，然后它监视cloudtrail特权失败，并重新配置IAM以允许最小的特权摆脱该拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  -Netflix工具，可在AWS上强制执行最低特权. 这个想法是，关于新事物的默认策略是全部拒绝，然后它监视cloudtrail特权失败，并重新配置IAM以允许最小的特权摆脱该拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) -快速评估权限.
 
@@ -357,7 +357,7 @@ IAM的基础：用户，组，角色和权限的定义和生命周期.
 
 分发和委派授权的巧妙好奇心.
 
-- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) -如果我获得了授权在一定限制下执行某些操作的蛋白杏仁饼干，则可以非交互式地构建第二个蛋白杏仁饼干，并赋予我更严格的限制.
+- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) -如果我获得了授权在一定限制下执行某些操作的蛋白杏仁饼干，则可以非交互式地构建第二个具有更严格限制的蛋白杏仁饼干，然后再提供给您.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) -Google的原始论文.
 
@@ -403,7 +403,7 @@ HSM是在硬件级别保证秘密管理安全性的物理设备.
 
 一旦拥有了重要的用户群，就将其称为社区. 然后，您将负责保护它：客户，人员，公司，业务，并促进其中发生的所有交互和交易.
 
-A critical intermediation complex driven by a policy and constraint by local laws, the Trust & Safety department is likely embodied by a cross-functional team of 24/7 operators and systems of highly advanced moderation and administration tools. You can see it as an extension of customer support services, specialized in edge-cases like manual identity checks, moderation of harmful content, stopping harassment, handling of warrants and copyright claims, data sequestration and other credit card disputes.
+信托与安全部门是一个关键的中介机构，受政策和当地法律的约束，可能由24/7运营商的跨职能团队以及高度先进的审核和管理工具系统来体现. 您可以将其视为客户支持服务的扩展，专门用于边缘情况，例如手动身份检查，有害内容的审核，制止骚扰，处理认股权证和版权声明，数据封存和其他信用卡争议.
 
 - [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) -有关域及其职责的精彩介绍.
 
@@ -509,7 +509,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks) -直接从区域Internet注册表中获取的CIDR国家级IP数据，每小时更新一次.
 
-- [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) -从证书透明度日志收集的每小时更新的子域列表.
+- [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
 
 -子域修饰符： [\#1](https://gist.github.com/artgon/5366868), [\#2](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [\#3](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [\#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
@@ -527,7 +527,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Burner email providers](https://github.com/wesbos/burner-email-providers)  -临时电子邮件提供商列表. 和它 [derivative Python module](https://github.com/martenson/disposable-email-domains).
 
-- [MailChecker](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
+- [MailChecker](https://github.com/FGRibreau/mailchecker) -跨语言的临时（一次性/丢弃）电子邮件检测库.
 
 - [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361)  -一次性和临时电子邮件地址的域列表. 对于过滤电子邮件列表以提高打开率很有用（将电子邮件发送到这些域可能不会打开）.
 
@@ -551,7 +551,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 作为用户数据的守护者，IAM堆栈受到隐私保护的深深限制.
 
-- [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.ca/PETs_Decision_Tree.png) -根据数据类型和上下文选择合适工具的流程图.
+- [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.ca/PETs_Decision_Tree.png) - A flowchart to select the right tool depending on data type and context.
 
 - [Paper we love: Privacy](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) -有关通过设计提供隐私的方案的科学研究的集合.
 
@@ -613,7 +613,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Conversion Optimization](https://www.nickkolenda.com/conversion-optimization-psychology/#cro-tactic11) -多种策略，以增加用户完成帐户创建渠道的机会.
 
-- [Trello User Onboarding](https://growth.design/case-studies/trello-user-onboarding/) - A detailed case study, nicely presented, on how to improve user onboarding.
+- [Trello User Onboarding](https://growth.design/case-studies/trello-user-onboarding/) -详细介绍了如何改善用户入门的案例研究.
 
 - [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) -创建简单，可链接，可预测的登录表单，并与密码管理器配合使用.
 
@@ -643,7 +643,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws)  -帮助使他们了解庞大的服务目录. 本着同样的精神： [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) -用4个字以内的文字描述所有GCP产品.
 
 ## History
 

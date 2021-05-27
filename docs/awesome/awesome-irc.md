@@ -22,13 +22,12 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [CIRC](https://flackr.github.io/circ/)  -使用chrome.sockets API直接连接到IRC服务器，而无需代理.  （[source](https://github.com/flackr/circ)）`Chrome`
 - [Quassel](https://quassel-irc.org) -分布式（客户端可以连接到永久保持在线状态的中央核心，也可以从中分离.）[source](https://github.com/quassel/quassel)）Linux macOS Windows
 - [Yaaic](https://www.yaaic.org)  -多服务器/通道支持，SASL支持，平滑的通道滚动/滑动.  （[source](https://github.com/pocmo/Yaaic)）`Android`
-- [relay.js](https://github.com/Fauntleroy/relay.js)  -专注于减少IRC的威胁性并使其更易于使用.  （[demo](http://demo.relayjs.com)）`Web`
+- [relay.js](https://github.com/Fauntleroy/relay.js)  -专注于减少IRC的威胁性并使其更易于使用. 网络
 - [Circe](https://github.com/jorgenschaefer/circe)  -要在Emacs中使用，默认设置为理智.  `Emacs`
 - [Smuxi](https://smuxi.im)  -基于GNOME / GTK +的用户友好型.  （[source](https://github.com/meebey/smuxi)）Linux Windows Windows macOS
 - [KvIRC](http://www.kvirc.net)  -基于Qt GUI工具包的免费，可移植的工具.  （[source](https://github.com/kvirc/KVIrc)）Linux macOS Windows
 - [Konversation](https://konversation.kde.org)  -建立在KDE平台上的用户友好客户端.  （[source](https://github.com/KDE/konversation)）`Linux`
 - [sic](https://tools.suckless.org/sic/) -S ** imple ** I ** RC ** lient-少于250行C语言的终端客户端.
-- [Colloquy](http://colloquy.info)  -启用AppleScript的IRC客户端.  `macOS`
 - [irssi](https://irssi.org)  -终端客户端，适用于模块作者GPLv2的多协议.  `Linux`macOS`Cygwin`BSD`
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)  -功能齐全，积极维护的Android IRC客户端.  （[source](https://github.com/MCMrARM/revolution-irc)）`Android`
 - [AdiIRC](https://adiirc.com)  -从来没有客户为IRC体验的各个方面提供如此细化的设置.  （[features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)）Windows`WINE`
@@ -50,7 +49,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 
 #### Self-hosted
 
-- [Convos](https://convos.by)  -始终在线的Web IRC客户端.  （[source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)）`Perl`JavaScript`Web`
+- [Convos](https://convos.chat)  -始终在线的Web IRC客户端.  （[source](https://github.com/convos-chat/convos), [demo](https://demo.convos.chat)）`Perl`JavaScript`Web`
 - [ZNC](https://wiki.znc.in/ZNC)  - 最受欢迎. 许多不同的插件.  （[source](https://github.com/znc/znc)）C ++
 - [BIP IRC Proxy](https://bip.milkypond.org)  -始终在线，轻量级和安全的带积压的开源IRC代理.  （[source](https://projects.duckcorp.org/projects/bip/repository)）C
 - [TheLounge](https://thelounge.chat)  -响应式，自托管和支持多个用户.  （[source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)）`JavaScript`Node.js`Web`
@@ -87,11 +86,12 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [lazybot](https://github.com/Raynes/lazybot)  -用户友好且功能强大.  `Clojure`
 - [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) -`Brainfuck`
 - [geordi](https://github.com/Eelis/geordi)  -编译并运行C ++代码段.  C ++
-- [CloudBot](https://github.com/TotallyNotRobots/CloudBot)  -简单，快速，可扩展.  Python
+- [CloudBot](https://github.com/TotallyNotRobots/CloudBot) - Simple, fast, expandable. `Python`
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot)  -基于Cinch的大型默认插件集.  Ruby
 - [helga](https://github.com/shaunduncan/helga)  -支持多种协议的可插拔聊天机器人.  Python
 - [EveIRC](https://github.com/Inspyre-Technologies/EveIRC)  -可扩展的聊天/频道/服务器管理员服务提供机器人. 使用 [Cinch Framework](https://github.com/cinchrb/cinch) .  Ruby
-- [BitBot](https://github.com/jesopo/bitbot) -模块化，事件驱动的机器人，具有REST API，单独的用户设置等. [bitbot.dev](https://bitbot.dev) Python 
+- [BitBot](https://github.com/jesopo/bitbot) -模块化，事件驱动的机器人，具有REST API，单独的用户设置等. [bitbot.dev](https://bitbot.dev) Python
+- [Cardinal](https://github.com/JohnMaguire/Cardinal)  -Python Twisted IRC机器人，专注于插件开发的简易性.  （[source](https://github.com/JohnMaguire/Cardinal)）`Python`
 
 ### Frameworks
 
@@ -104,8 +104,8 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [pyaib](https://github.com/facebook/pyaib)  -易于使用的机器人编写框架.  Python
 - [slate-irc](https://github.com/slate/slate-irc)  -插件系统，简单的api，任意输入流，调试支持.  JavaScript
 - [PircBotX](https://github.com/pircbotx/pircbotx) -具有简单API的基于事件的IRC库（更新了 [PircBot](http://www.jibble.org/pircbot.php) ）.  Java
-- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) -基于“ Perl6”的可扩展IRC客户端框架.
-- [irccd](http://projects.malikania.fr/irccd)  -灵活的IRC机器人，可使用Javascript进行自定义.  C ++
+- [IRC::Client](https://github.com/raku-community-modules/IRC-Client) -基于“ Perl6”的可扩展IRC客户端框架.
+- [irccd](http://projects.malikania.fr/irccd/)  -灵活的IRC机器人，可使用Javascript进行自定义.  C ++
 
 #### Bridges
 
@@ -132,19 +132,14 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 
 #### Platforms
 
-- [##linux](https://freenode.linux.community) @freenode-Linux支持和讨论频道.  （[rules](https://freenode.linux.community/channel-rules/))
-- [#ubuntu](https://help.ubuntu.com/community/InternetRelayChat) @freenode-ubuntu官方支持频道.  （[rules](https://wiki.ubuntu.com/IRC/Guidelines))
-
-#### Programming
-
-- [#python](https://www.python.org/community/irc/) @freenode-简短的python问题的好地方.  （[rules](https://www.python.org/psf/conduct/))
+- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList) @ Libera.Chat-Ubuntu官方支持频道.  （[rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 ### Networks
 
 * IRC服务器的集合称为网络.*
 
-- [freenode](https://freenode.net)  -最大的网络，用于免费和开源软件社区.  （[rules](https://freenode.net/policies))
-- [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
+- [Libera.Chat](https://libera.chat) -网络主要集中在由前freenode员工运营的免费和开源项目上.
+- [Snoonet](https://snoonet.org)  -Redditor和subreddit社区.  （[rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) -免费和开源软件社区的社区.
 
 ### Articles
@@ -153,7 +148,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) -Drew DeVault的博客.
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) -QuakeNet.
-- [IRC is dead, long live IRC](https://royal.pingdom.com/irc-is-dead-long-live-irc/) -皇家王国.
+- [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) -Pingdom.
 - [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) -亚历克斯·威廉姆斯（TechCrunch）.
 
 ### Guides
@@ -177,8 +172,6 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 ### Miscellaneous
 
 *属于列表但不符合分类的项目.*
-
-- [IRC LC](https://irc.lc) -创建指向IRC网络上的频道的URL.
 
 ## Use
 

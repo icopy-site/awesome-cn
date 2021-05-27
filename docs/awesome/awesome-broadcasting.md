@@ -60,6 +60,7 @@
 * [ffplayout](https://github.com/ffplayout/ffplayout-engine) -来自文件夹或播放列表的基于Python和FFmpeg的播放.
 * [Macadam](https://github.com/Streampunk/macadam) -支持HTML / CSS的Blackmagic Node.js绑定（通过 [Electron](https://www.electronjs.org/)）和SVG（通过 [Sevruga](https://github.com/Streampunk/sevruga)）图形.
 * [Nebula](https://github.com/nebulabroadcast) -媒体资产管理和广播自动化系统.
+* [NodeCG](https://www.nodecg.dev/) -使用Node.js广播在浏览器中渲染的图形.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) -基于CasparCG的MCR播放系统.
 * [ossia](https://ossia.io/) -一个免费的开源中介定序器.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) -用于新闻广播的MOS驱动的自动化系统，具有许多用于设备控制的库.
@@ -110,7 +111,7 @@
 * [libadm](https://github.com/irt-open-source/libadm) -处理C ++ 11库的音频定义模型（ITU-R BS.2076）.
 * [libklvanc](https://github.com/stoth68000/libklvanc) -C库，用于从SDI和SMPTE ST 2110-40（CEA-708，AFD，SCTE-104等）提取辅助数据.
 * [MAJ API](https://github.com/AMWA-TV/maj) -用于读取和写入MXF和AAF文件的纯Java库.
-* [SDPoker](https://github.com/Streampunk/sdpoker) -用于测试SMPTE ST2110 SDP文件的CLI工具和库.
+* [SDPoker](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 * [TV-Anytime](https://github.com/ebu/tvanytime) -TV-Anytime模式github维护页面.
 
 ## Monitoring & Quality Control
@@ -122,7 +123,7 @@
 * [LTC-tools](https://github.com/x42/ltc-tools) -处理线性时间码（LTC）并转换为MIDI时间码（MTC）的工具集合.
 * [MediaConch](https://mediaarea.net/MediaConch) -Matroska，FFV1和PCM的实施检查器，策略检查器和报告器.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) -方便统一显示视频和音频文件中最相关的技术和标签数据.
-* [MXF Inspect](https://www.myriadbits.com/) -Windows工具，用于显示MXF（材料交换格式）文件的内部结构.
+* [MXF Inspect](https://github.com/Myriadbits/MXFInspect) -Windows工具，用于显示MXF（材料交换格式）文件的内部结构.
 * [Pi Audio Monitor](https://github.com/martim01/pam) -Raspberry Pi的音频监视，支持S / PDIF，AES3，AES67，Livewire和Ravenna.
 * [Photon](https://github.com/Netflix/photon) -SMPTE互操作主格式（IMF）标准的实现.
 * [QCTools](https://github.com/bavc/qctools) -用于视频保存的质量控制工具，可分析数字化的视频文件.
@@ -156,7 +157,7 @@
 * [OBS-Studio](https://github.com/obsproject/obs-studio) -用于实时流媒体和屏幕录制的软件.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) -从开源组件构建的广播编码器.
 * [rgain](https://bitbucket.org/fk/rgain) -用于读取，编写和计算重播增益的工具和Python库.
-* [rtmp](https://github.com/c-bata/rtmp) - Server implementation of Adobe's RTMP 1.0 protocol in Go.
+* [rtmp](https://github.com/c-bata/rtmp) -Go中Adobe的RTMP 1.0协议的服务器实现.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) -现场视频混音器.
 * [SoX](http://sox.sourceforge.net/) -声音处理程序的瑞士军刀.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) -基于OpenFX插件标准的开源图像处理框架.
@@ -179,7 +180,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身就�
 * [BBC NMOS Joint Reference Implementation](https://github.com/bbc/nmos-joint-ri) -Vagrant供应，用于构建4个虚拟机，一个IS-04 / IS-05节点，IS-04注册表，BCP-003-02授权服务器和NMOS测试工具.
 * [Easy-NMOS](https://github.com/rhastie/easy-nmos) -入门套件，允许用户以最少的安装步骤启动简单的NMOS设置，该套件由三个Docker容器组成：NMOS注册表，虚拟NMOS节点和AMWA NMOS测试工具.
 * [nmos-cpp](https://github.com/sony/nmos-cpp) -C ++中AMWA网络媒体开放规范的实现，包括NMOS注册表和工具包以及构建NMOS节点的示例.
-* [nmos-js](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
+* [nmos-js](https://github.com/sony/nmos-js) -具有IS-04注册表浏览器和IS-05连接管理的基于浏览器的简单NMOS客户端/控制器.
 
 ## Radio Production
 
@@ -207,8 +208,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身就�
 * [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev)  -带有EBU-TT-D字幕的dash.js叉子，位于HTML / CSS叠加层中. 后来添加到 [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) -内容丰富的EBU-TT-D XML架构，可支持EBU Tech 3380的实施.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) -用于生成，测试和分发的组件 [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) 字幕.
-* [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) -GStreamer管道解析和渲染EBU-TT-D（TTML）字幕的一种方法.
-* [imscJS](https://github.com/sandflow/imscJS) -用于将IMSC1文本和图像配置文件呈现为HTML5的JavaScript库.
+* [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render EBU-TT-D (TTML) subtitles.
+* [imscJS](https://github.com/sandflow/imscJS) -JavaScript库，用于将IMSC1文本和图像配置文件文档呈现为HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) -EBU-TT-D样本文件，PNG图像和mp4视频作为渲染参考.
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) -字幕编辑器.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf)  -转换字幕格式的模块，包括 EBU STL和EBU-TT文件.
@@ -242,4 +243,4 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身就�
 <!-- This page is available on https://ebu.io/opensource -->
 
 ## Contributing
-请参见 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 有关详细信息.

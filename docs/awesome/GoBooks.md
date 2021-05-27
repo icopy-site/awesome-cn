@@ -265,13 +265,13 @@ This book will take you through the most important aspects of designing, buildin
 
 本书为您提供了在Web应用程序中使用Go所需的全部功能. 您将学习基本概念-语言结构，标准库和Go工具-然后处理并发概念，测试方法和包结构等更高级的功能.
 
-在每个步骤中，您都会获得有关在Go中进行更好的编码的建议. 您将看到如何构建项目，如何有效地使用并发性以及测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
+在每个步骤中，您都会获得有关在Go中进行更好的编码的建议. 您将看到如何构建项目，如何有效地使用并发以及进行测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
 <img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
- Go Web编程教您如何使用现代设计原理在Go中构建Web应用程序. 您将通过大量示例来介绍一些核心概念，例如处理请求和发送响应，模板引擎和数据持久性. 您还将深入研究更高级的主题，例如并发，Web应用程序测试以及将其部署到准系统服务器和PaaS提供程序.
+ Go Web编程教您如何使用现代设计原理在Go中构建Web应用程序. 您将通过大量示例来介绍一些核心概念，例如处理请求和发送响应，模板引擎和数据持久性. 您还将深入探讨更高级的主题，例如并发，Web应用程序测试以及将其部署到准系统服务器和PaaS提供程序.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796)
 
@@ -307,7 +307,7 @@ This book will take you through the most important aspects of designing, buildin
 
 <a href="https://buildsaasappingo.com"><img src="https://buildsaasappingo.com/public/basaig.jpg" width="120"/></a>
 
-我们将共同构建一个强大的，API优先的，可重用的代码库，该代码库适用于 
+我们将共同构建一个强大的，API优先的，可重用的代码库，以适合 
 构建SaaS或香草Web应用程序. 到这本书的结尾，您将拥有 
 一个坚实的框架，可以用作将来项目的起点.
 
@@ -342,6 +342,12 @@ This book will take you through the most important aspects of designing, buildin
 本书面向希望将Go知识提升到更高水平的业余和中级Go程序员，以及希望学习Go而又无需再次学习`for`循环的工作原理的其他编程语言中经验丰富的开发人员.
 
 该书介绍了相对较小但完整的Go程序，这些程序说明了所介绍的概念. 这有两个主要优点：首先，您在尝试学习一种技术时不必查看无休止的代码清单；其次，您可以在创建自己的应用程序和实用程序时将此代码用作起点.
+
+### [Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
+
+<img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
+
+通过学习如何设计，开发和部署分布式服务，将您的Go技能提升到一个新的水平. 从存储处理的基本要点开始，通过客户端和服务器联网的方式进行工作，将具有服务发现和共识的单节点应用程序转变为分布式系统，然后将服务部署到云中. 所有这些将使您的日常工作或辅助项目中的编码变得更加轻松，快捷和有趣.
 
 Resources
 ====
