@@ -173,6 +173,8 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 
 *属于列表但不符合分类的项目.*
 
+- [superseriousstats](https://github.com/tommyrot/superseriousstats)  -快速高效的程序，可从各种类型的聊天记录中创建统计信息.  `PHP``Web`
+
 ## Use
 
 使用此列表的最佳方法是：

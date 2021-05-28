@@ -959,6 +959,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [zconvey](https://github.com/zdharma/zconvey) -增加了向其他ZSH会话发送命令的功能，例如，您可以在所有活动的Z Shell会话上将其用于cd $ PWD.
 * [zed](https://github.com/eendroroy/zed-zsh) -一个简单的包装 [z](https://github.com/rupa/z) 通过ZSH插件安装.
 * [zeit](https://github.com/zeit/zeit.zsh-theme) -针对深色背景进行了优化，包括`git`状态信息.
+* [zeno](https://github.com/yuki-yano/zeno.zsh) -模糊完成和实用程序插件由 [Deno](https://deno.land/).
 * [zero](https://github.com/arlimus/zero.zsh)  -零既是插件又是主题. 有关安装的详细信息，请参见github页面.
 * [zflai](https://github.com/zdharma/zflai) -ZSH的快速日志记录框架.
 * [zfzf](https://github.com/b0o/zfzf) -用于ZSH的fzf驱动的文件选择器，可让您快速浏览目录层次结构.
@@ -1711,6 +1712,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [ubuntu-with-vitamins](https://github.com/ureesoriano/zsh-ubuntu-with-vitamins-zim-theme) -模仿默认的Ubuntu提示符，但带有`git`装饰.
 * [ubuntu](https://github.com/janstuemmel/zsh-ubuntu-theme) -最小主题，包括`git`状态装饰.
 * [ultimate](https://github.com/b4b4r07/ultimate) -带有`git`指示器，vim模式指示器和缩短路径的简约主题.
+* [unicorn](https://github.com/juliuscaesar/unicorn) -受到 [Wild Cherry](https://github.com/mashaal/wild-cherry) 主题. 具有表情符号git状态装饰.
 * [unit-1](https://github.com/nerdbude/Unit-1) -带有ITWTB颜色的简约主题.
 * [vanan](https://github.com/avano/vanan-zsh-theme) -极简主义主题，带有用于黑暗终端的git信息.
 * [vercel](https://github.com/vercel/zsh-theme) -带有`git`状态装饰的简约主题.

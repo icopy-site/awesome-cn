@@ -53,8 +53,8 @@ EOSIO学习资源.
 
 - [EOSIO Webinars](https://eos.io/event-category/webinar/) -官方EOSIO网络研讨会.
 - [EOSIO Training & Certification](https://eos.io/for-business/training-certification/) -官方EOSIO培训和认证.
-- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) -Udemy课程.
-- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) -Udemy课程.
+- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
+- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop) - 作坊.
 
 ## Tools
@@ -92,7 +92,7 @@ EOSIO学习资源.
 ### Block explorers, Voting portals
 
 - [EOS Network Monitor](http://eosnetworkmonitor.io/)  -通过“ CryptoLions”进行的EOSIO网络监视器. 对开发人员有用. 分散友好.
-- [eosflare](https://eosflare.io/) -热门的区块浏览器包括资源统计信息，最新的个人资料操作以及有关“最高出价”和“最高投票人”的统计信息.
+- [eosflare](https://eosflare.io/) -热门块浏览器包括资源统计信息，最新的个人资料操作以及有关“最高出价”和“最高投票人”的统计信息.
 - [EOS Tracker](https://eostracker.io/) -开源块浏览器包括生产者信息和帐户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) -官方GitHub.
 - [Bloks](https://bloks.io/)  -快速块浏览器，可用于投票. 包括有关块生产者和令牌的信息.
@@ -126,14 +126,16 @@ EOSIO学习资源.
 - [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) -Kotlin / Android库.
 - [eosnet](https://github.com/SNIKO/eosnet) -.NET库.
 - [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) -Elixir库.
-- [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到eos区块链通信的本地实现.
+- [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到eos区块链通信的本地实现
 - [Transit API for EOS](https://www.eostransit.com/) -通过基于EOSIO的区块链的开源，模块化，简单标准连接签名提供者和dApp.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) -官方GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - 文章.
+- [greymass/eosio](https://github.com/greymass/eosio-core/) -强类型的JavaScript库.
+- [greymass/swift-eosio](https://github.com/greymass/swift-eosio) -具有ESR支持的Swift SDK.
 
 #### Authentication and Signing libraries
 
-- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) -一个允许应用轻松使用不同身份验证提供程序的库.
+- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) -一个允许应用程序轻松使用不同身份验证提供程序的库.
   - [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - 文章.
 - [EOSIO/eosio-webauthn-example-app](https://github.com/EOSIO/eosio-webauthn-example-app) -演示通过WebAuthn进行EOSIO签名的示例Web应用程序.
   - [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - 文章.
@@ -141,6 +143,11 @@ EOSIO学习资源.
   - [EOSIO Labs™ Release: iOS and Chrome Extension Authenticator Reference Applications](https://eos.io/news/eosio-labs-release-ios-and-chrome-extension-authenticator-reference-applications/) - 文章.
 - [EOSIO/eosio-reference-ios-authenticator-app](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) -iOS参考应用程序，展示EOSIO区块链应用程序的应用程序间交易签名.
 - [EOSIO/ual-scatter](https://github.com/EOSIO/ual-scatter) -Authenticator旨在与Scatter和Universal Authenticator Library一起使用.
+- [greymass/ual-anchor](https://github.com/greymass/ual-anchor) -Authenticator旨在与Anchor和Universal Authenticator库一起使用.
+- [greymass/anchor-link](https://github.com/greymass/anchor-link) -建立在EOSIO签名请求（EEP-7）之上的EOSIO链的持久，快速和安全的签名提供者.
+- [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) -有助于创建和摘要EOSIO签名请求（ESR）的库.
+- [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) -EOSIO签名请求协议的Java包装器.
+
 
 #### Frameworks
 
@@ -162,6 +169,8 @@ EOSIO学习资源.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) -EOSIO区块链的空投工具.
 - [Octopus](https://github.com/pventuzelo/octopus) -WebAssembly和区块链智能合约的安全分析工具（BTC / ETH / NEO / EOS）.
+- [greymass/eosio-resources](https://github.com/greymass/eosio-resources) -协助进行网络资源计算的工具.
+- [greymass/abi2core](https://github.com/greymass/abi2core) -命令行实用程序，可将ABI定义转换为灰度/ eosio类型定义.
 
 ### Testnets
 
@@ -181,6 +190,10 @@ EOSIO学习资源.
 - [ping-eos](https://github.com/eosasia/ping-eos) -在EOSIO / React.js之间实现ping.
 - [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) -演示如何将文本和图像保存到ipfs并将哈希存储在EOSIO区块链上.
 - [eosnewyork/erp](https://github.com/eosnewyork/erp) -EOS资源计划器.
+- [greymass/anchor-link-demo](https://github.com/greymass/anchor-link-demo) -集成了greymass / anchor-link的示例VueJS应用程序.
+- [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) -集成了greymass / anchor-link的示例ReactJS应用程序.
+- [greymass/ual-anchor-demo](https://github.com/greymass/ual-anchor-demo) -集成了greymass / ual-anchor的示例ReactJS应用程序.
+- [greymass/eosio-signing-request-demo](https://github.com/greymass/eosio-signing-request-demo) -使用greymass / eosio-signing-request生成交易的示例.
 
 ### Block Producer tools
 
@@ -213,7 +226,7 @@ EOSIO学习资源.
 ### YouTube Channels
 
 - [EOS Go](https://www.youtube.com/c/EOSGo)  -ESO Go社区会议，播客，直播. 新闻和讨论.
-- [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w) - EOSIO ecosystem overview, news and market discussions.
+- [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w) -EOSIO生态系统概述，新闻和市场讨论.
 - [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)  -达拉斯冲刺频道. 与用户相关的内容和新闻.
 - [nsjames](https://www.youtube.com/user/grandmoren1) -分散相关的内容.
 - [Crypto Dunker](https://www.youtube.com/user/clamantfever)  -加密货币Dunker频道.  EOSIO DApps相关的内容和新闻.

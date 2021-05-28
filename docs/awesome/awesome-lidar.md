@@ -61,7 +61,7 @@
 
 ## Datasets
 
-- [Ford Dataset](https://avdata.ford.com/)  -数据集带有时间戳，包含来自所有传感器的原始数据，校准值，姿态轨迹，地面真实姿态和3D地图. 数据与机器人操作系统（ROS）兼容.
+- [Ford Dataset](https://avdata.ford.com/)  -数据集带有时间戳，并包含来自所有传感器的原始数据，校准值，姿态轨迹，地面真实姿态和3D地图. 数据与机器人操作系统（ROS）兼容.
   - [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) -数据集具有2D语义分割，3D点云，3D边界框和车辆总线数据的功能.
@@ -118,6 +118,9 @@
 
 ### Basic matching algorithms
 - [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) -特征匹配应用（ICP）的必备算法.
+  - [GitHub repository :octocat:](https://github.com/pglira/simpleICP) -simpleICP C ++ / Julia / Matlab / Octave / Python实现.
+  - [GitHub repository :octocat:](https://github.com/ethz-asl/libpointmatcher) -libpointmatcher，一个实现ICP算法的模块化库.
+  - [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) -libpointmatcher：比较实际数据集上的ICP变体.
 - [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) -最新的大规模并行特征匹配（NDT）方法.
 
 ### Semantic segmentation
@@ -134,7 +137,7 @@
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
-- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) -LOAM：激光雷达里程表和实时映射.
+- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) -用于ROS兼容UGV的轻巧且经过地面优化的激光雷达测距和制图（LeGO-LOAM）系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) -Cartographer是与ROS兼容的系统，可跨多个平台和传感器配置提供2D和3D实时实时同时定位和映射（SLAM）.

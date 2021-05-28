@@ -250,14 +250,14 @@
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) -软件工程师的社交网络应用程序-使用Rails 3.2
 - [coderwall (next)](https://github.com/coderwall/coderwall-next) -软件工程师的社交网络应用程序-使用Rails 5.0
 - [codetriage](https://github.com/codetriage/codetriage)  -一个开源项目查找器应用程序（使用Rails 6.0）.  -- [:earth_africa:](https://www.codetriage.com/)
-- [commudle](https://github.com/commudle/commudle) -社区管理应用程序（使用Rails 5.2）.
+- [commudle](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
 - [contribulator](https://github.com/24pullrequests/contribulator) -一个开源项目查找器应用程序-使用Rails 5.1
 - [coursemology2](https://github.com/Coursemology/coursemology2) -学习平台应用程序（使用Rails 5.2）.
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) -拼车应用-使用Rails 5.0（已存档）.
 - [crabgrass-core](https://0xacab.org/liberate/crabgrass) -维权团体的协作平台（使用Rails 4.2）.
 - [crowdAI](https://github.com/crowdAI/crowdai)  -应对数据科学挑战的应用程序（使用Rails 5.2）.  -- [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) -众筹平台-使用Rails 3.2
-- [cw-ovp](https://github.com/x1wins/CW-OVP) -在网站上（使用Rails 6.0）将视频打包到带有FFMPEG的HLS（HTTP实时流）*.m3u8.
+- [cw-ovp](https://github.com/x1wins/CW-OVP) -在网站上使用FFMPEG将视频打包到* .m3u8，以用于HLS（HTTP实时流）（使用Rails 6.0）.
 - [danbooru](https://github.com/danbooru/danbooru) -可标记的图像板应用程序（使用Rails 6.0）.
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) -案例管理应用程序（使用Rails 5.2）.
 - [dgidb](https://github.com/dgidb/dgidb) -药物基因相互作用平台-使用Rails 5.1
@@ -438,7 +438,7 @@
 - [spring](https://github.com/rails/spring) -可以预加载Rails应用程序的宝石. [:red_circle:](https://rubygems.org/gems/spring)
 - [sprockets](https://github.com/rails/sprockets) -用来编译和提供网络资产的宝石. [:red_circle:](https://rubygems.org/gems/sprockets)
 - [stimulus-rails](https://github.com/hotwired/stimulus-rails) -将Stimulus.js集成到Rails应用程序中的宝石. [:red_circle:](https://rubygems.org/gems/stimulus-rails)
-- [tinymce-rails](https://github.com/spohlenz/tinymce-rails) -将Tinymce集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/tinymce-rails)
+- [tinymce-rails](https://github.com/spohlenz/tinymce-rails) -将Tinymcece集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/tinymce-rails)
 - [transloadit-rails](https://github.com/transloadit/rails-sdk) -集成Transloadit的文件上传和编码服务的瑰宝. [:red_circle:](https://rubygems.org/gems/transloadit-rails)
 - [trove](https://github.com/ankane/trove) -处理机器学习模型部署的瑰宝. [:red_circle:](https://rubygems.org/gems/trove)
 - [turbo-rails](https://github.com/hotwired/turbo-rails) -将Turbo.js集成到Rails应用程序中的瑰宝. [:red_circle:](https://rubygems.org/gems/turbo-rails)
@@ -456,9 +456,9 @@
 - [jumpstart(excid3)](https://github.com/excid3/jumpstart) -默认情况下，可以轻松地启动具有许多强大功能的新Rails应用程序.
 - [jumpstart(thomasvanholder)](https://github.com/thomasvanholder/jumpstart) -用于设置Rails 6，Tailwind 2.0和Devise的模板.
 - [kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) -与Tailwind CSS捆绑在一起的个人专用快速Rails 6应用程序模板.
-- [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  -一个Rails 6样板来创建您的下一个Saas产品. 预装了graphQL，devise，JWT，CanCanCan，RailsAdmin，Rubocop，Rspec等.
+- [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  -一个Rails 6样板来创建您的下一个Saas产品. 预加载了graphQL，devise，JWT，CanCanCan，RailsAdmin，Rubocop，Rspec等.
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template)  -Rails 6项目的应用模板； 预载了有关TDD，安全性，部署和开发人员生产力的最佳实践.
-- [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
+- [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) -MVP Ready Rails-下一个Rails应用程序的模板
 - [rails-template(ackama)](https://github.com/ackama/rails-template)  -Rails 6.1项目的应用模板； 预载了有关TDD，安全性，部署和开发人员生产力的最佳实践.
 - [rails-template(astrocket)](https://github.com/astrocket/rails-template) -Rails 6.0的模板+ Kubernetes + Webpacker +刺激+ TailwindCSS +让我们加密.
 - [rails-template(dao42)](https://github.com/dao42/rails-template) -适用于高级Rails开发人员的最佳，最新和最快的Rails 6.x模板.
@@ -468,6 +468,8 @@
 - [rails_new](https://github.com/lockstep/rails_new)  -精心设计的模板，用于构建现代Rails应用程序. 数分钟而不是数小时即可上手.  railsnew.io在列表中列出了一个生成器 [generators](#generators) 部分.
 - [suspenders](https://github.com/thoughtbot/suspenders) -具有我们默认默认设置的Rails模板，可以部署到Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) -Vue.js + Rails入门套件GitHub模板，用于开发混合移动应用程序.
+- [rails_api_base](https://github.com/rootstrap/rails_api_base) -用于JSON RESTful API的Rails 6样板项目.
+- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) -带Hotwire的Rails 6样板项目，具有类似SPA的现代体验，可用于全栈应用.
 
 ## Other Rails Tools
 

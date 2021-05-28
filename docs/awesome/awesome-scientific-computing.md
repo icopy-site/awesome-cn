@@ -39,7 +39,7 @@ them.
 - [PETSc](https://www.mcs.anl.gov/petsc/) -由PDE建模的科学应用的并行解决方案.
   （C，2句BSD， [GitLab](https://gitlab.com/petsc/petsc))
 - [DUNE Numerics](https://www.dune-project.org) -使用基于网格的方法解决PDE的工具箱.
-  (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
+  （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) -统计，优化，积分，线性代数等的Python模块
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) -使用Python进行科学计算所需的基本软件包.
@@ -68,6 +68,8 @@ them.
   （C ++，LGPL， [GitHub](https://github.com/FreeFem))
 - [libceed](https://libceed.readthedocs.io/en/latest/index.html) -有效的可扩展离散化代码.
   （C，2句BSD， [GitHub](https://github.com/CEED/libCEED))
+- [scikit-fem](https://github.com/kinnala/scikit-fem) -简单的有限元汇编器.
+  （Python，BSD / GPL，GitHub）
 
 ## Meshing
 
@@ -158,13 +160,13 @@ them.
 - [F3D](https://kitware.github.io/F3D/) -具有科学可视化工具的跨平台，快速，简约的3D查看器.
   （C ++，BSD， [GitLab](https://gitlab.kitware.com/f3d/f3d))
 - [TTK](https://topology-tool-kit.github.io/) -拓扑数据分析和可视化.
-  （C ++ / Python，BSD， [GitHub](https://github.com/topology-tool-kit/ttk)).
+  （C ++ / Python，BSD， [GitHub](https://github.com/topology-tool-kit/ttk))
 
 ## Other libraries and tools
 
 - [FFTW](http://www.fftw.org) -在一个或多个维度上的离散傅立叶变换，具有任意输入大小，实数和复数.
   （C，GPL2， [GitHub](https://github.com/FFTW/fftw3))
-- [Qhull](http://www.qhull.org) -凸包，Delaunay三角剖分，Voronoi图，围绕某个点的半空间交点等.
+- [Qhull](http://www.qhull.org) -凸包，Delaunay三角剖分，Voronoi图，围绕点的半空间交点等.
   （C / C ++， [custom open source license](http://www.qhull.org/COPYING.txt),
   [GitHub](https://github.com/qhull/qhull/))
 - [GSL](https://www.gnu.org/software/gsl/) -随机数生成器，特殊函数和最小二乘拟合等.
@@ -204,7 +206,7 @@ them.
 
 ## Community
 
-- [SciComp StackExchange](https://scicomp.stackexchange.com/) -StackExchange网络上的计算科学.
+- [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) -MATH 676：科学计算中的有限元方法.
 - [Nick Higham's blog](https://nhigham.com/) -通常在MATLAB上，提供一般的计算建议.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) -关于逼近理论/实践和科学计算的36个视频讲座.

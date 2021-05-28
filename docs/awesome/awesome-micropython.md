@@ -102,7 +102,7 @@
 * [micropython-necir](https://github.com/MattMatic/micropython-necir) -用于TL1838红外接收器LED的NEC红外捕获.
 * [Micropython-IR](https://github.com/designerPing/Micropython-IR) -Pyboard红外遥控嗅探和重放.
 * [micropython_ir](https://github.com/peterhinch/micropython_ir) -非阻塞设备驱动程序，可从IR远程接收和用于IR“ blaster”应用程序.
-* [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) -Grid-EYE热红外阵列传感器（Adafruit 3538）的驱动程序.
+* [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Driver for Grid-EYE thermal infra red array sensor (Adafruit 3538).
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) -用于YS-IRTM 5V NEC红外UART收发器的MicroPython示例.
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) -通过websocket控制IR信号.
 
@@ -221,7 +221,7 @@
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) -具有MicroPython绑定的基于对象的基于组件的高级GUI库.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) -用于Pyboard和LCD160CR彩色显示屏的基于事件的简单触摸驱动GUI.
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) -基于RA8875的显示器的MicroPython设备驱动程序和nano-GUI.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  -Nano-Gui为显示器的驱动程序从framebuf类子类化的显示器提供了一组有限的GUI对象（小部件）. 其中包括LCD和OLED显示器.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) - Nano-Gui provides a limited set of GUI objects (widgets) for displays whose display driver is subclassed from the framebuf class. Which includes LCD and OLED displays.
 
 #### LCD Character
 
@@ -278,7 +278,7 @@
 * [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) -带开关的TM1638双四极7段LED模块的驱动器.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) -用于TM1740 8x8 LED矩阵模块的驱动程序.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) -MicroPython库，用于由TM1640控制的16位7段显示器.
-
+* [TM74HC595](https://github.com/Sakartu/TM74HC595) -移位寄存器控制的5针显示模块的驱动器.
 #### LEDs
 
 * [micropython-morsecode](https://github.com/mampersat/micropython-morsecode) -用摩尔斯电码消息闪烁LED.
@@ -307,7 +307,7 @@
 #### ADC
 
 * [ads1x15](https://github.com/robert-hh/ads1x15) -ADS1015 / ADS1115 ADC，I2C接口的驱动程序.
-* [micropython-ads1015](https://bitbucket.org/thesheep/micropython-ads1015) - ADS1015 12-Bit and ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
+* [micropython-ads1015](https://bitbucket.org/thesheep/micropython-ads1015) -ADS1015 12位和ADS1115 16位ADC，具有可编程增益的4通道I2C接口.
 * [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) -ADS1115 16位ADC，具有可编程增益的4通道I2C接口.
 * [ADS7818](https://github.com/robert-hh/ADS7818) -与ADS7818 AD转换器接口的Python类.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) -适用于德州仪器（TI）ADS1219 ADC的MicroPython模块.
@@ -374,7 +374,7 @@
 * [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) -ADXL345 16g 3轴加速度计的驱动程序.
 * [adxl345_micropython](https://github.com/fanday/adxl345_micropython) -ADXL345 16g 3轴加速度计的驱动程序.
 * [micropython-lis2hh12](https://github.com/tuupola/micropython-lis2hh12) -用于LIS2HH12 3轴加速度计的I2C驱动器.
-* [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) -MMA7660 1.5克3轴加速度计的驱动程序.
+* [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) - Driver for MMA7660 1.5g 3-axis accelerometer.
 
 #### Air Quality
 
@@ -535,17 +535,17 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
 * [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  -尤里·玛格达（Yury Magda）.  ISBN 9781090900937.
-* [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  -雅各布·贝宁戈（Jacob Beningo）.  ISBN 9781789958034.
+* [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  -雅各·贝宁戈（Jacob Beningo）.  ISBN 9781789958034.
 
 ## Frameworks
 
 * [micrOS](https://github.com/BxNxM/micrOS) -基于MicroPython的IoT框架.
-* [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
+* [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) -适用于MicroPython和CPython的灵活的数据记录器应用程序.
 
 ## Resources
 
@@ -562,7 +562,7 @@
 ### Code Generation
 
 * [micropy-cli](https://github.com/BradenM/micropy-cli) -Micropy Cli是一个项目管理/生成工具，用于在VSCode等现代IDE中编写MicroPython代码.
-* [micropython-stubber](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.
+* [micropython-stubber](https://github.com/Josverl/micropython-stubber) -为不同的MicroPython固件生成并使用存根，以便与vscode和/或pylint一起使用.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) -自动为Micropy-Cli和其他任何人生成的存根软件包.
 
 ### Debugging
@@ -582,7 +582,7 @@
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) -用于MicroPython的基于命令行的简单外壳.
-* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) -适用于以Python编写的PyBoard，WiPy，ESP8266，ESP32，PyCom和Adafruit设备的小型机载编辑器.
+* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) -小型板载编辑器，用于用Python编写的PyBoard，WiPy，ESP8266，ESP32，PyCom和Adafruit设备.
 
 #### On Host
 

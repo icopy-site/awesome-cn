@@ -127,7 +127,7 @@
 * [Queerlink](https://github.com/Queertoo/Queerlink) -用Elixir编写的简单而有效的URL缩短服务.
 * [RemoteRetro](https://github.com/stride-nyc/remote_retro) -在以下位置进行敏捷回顾的实时应用程序 [remoteretro.org](https://remoteretro.org) 用Elixir / Phoenix / React编写.
 * [Sprint Poker](https://github.com/elpassion/sprint-poker) -敏捷团队的在线评估工具，使用Elixir Lang，Phoenix Framework和React编写.
-* [Startup Job](https://github.com/tsurupin/job_search) -一个伞式项目，用于搜索从用Elixir / Phoenix和React / Redux编写的网站中抓取的启动工作.
+* [Startup Job](https://github.com/tsurupin/job_search) -一个伞式项目，用于搜索从用Elixir / Phoenix和React / Redux编写的网站中抓取的启动作业.
 * [Tai](https://github.com/fremantle-capital/tai) -可组合的实时加密货币市场数据和交易执行工具包.
 * [tty2048](https://github.com/lexmag/tty2048) -用Elixir编写的基于终端的2048游戏.
 * [uai_shot](https://github.com/sergioaugrod/uai_shot) -使用Elixir，Phoenix Framework和Phaser构建的多人飞船游戏.
@@ -401,7 +401,7 @@
 * [calixir](https://github.com/rengel-de/calixir) -Calixir是Lisp日历软件calendrica-4.0到Elixir的移植.
 * [chronos](https://github.com/nurugger07/chronos) -Elixir日期/时间库.
 * [cocktail](https://github.com/peek-travel/cocktail) -基于iCalendar事件的Elixir日期重复库.
-* [cronex](https://github.com/jbernardo95/cronex) -像Cron一样的系统，您可以将其安装在监视树中.
+* [cronex](https://github.com/jbernardo95/cronex) -像Cron一样的系统，您可以将其安装在您的监督树中.
 * [crontab](https://github.com/jshmrtn/crontab) -Cron Expressions解析器，作曲器和日期候选者查找器.
 * [emojiclock](https://github.com/nathanhornby/emojiclock-elixir) -Elixir模块，用于为您提供给定小时的表情符号时钟.
 * [ex_ical](https://github.com/fazibear/ex_ical) -ICalendar解析器.
@@ -449,7 +449,7 @@
 * [elixir-on-docker](https://github.com/CrowdHailer/elixir-on-docker) -用于开始为云环境开发群集Elixir应用程序的项目模板.
 * [exdm](https://github.com/joeyates/exdm) -通过混合任务部署Elixir应用程序.
 * [exreleasy](https://github.com/miros/exreleasy) -用于发布Elixir应用程序的简单易用且易于使用的混合工具.
-* [gatling](https://github.com/hashrocket/gatling) -收集混合任务以自动从git创建一个exrm版本，并在您的服务器上启动/升级它.
+* [gatling](https://github.com/hashrocket/gatling) -混合任务的集合，以自动从git创建一个exrm版本，并在您的服务器上启动/升级它.
 * [Gigalixir](https://www.gigalixir.com)  -专为Elixir设计的功能齐全的PaaS. 支持群集，热升级和远程控制台/观察者. 无需信用卡即可免费试用.
 * [heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) -Heroku buildpack将Elixir应用程序部署到Heroku.
 
@@ -651,7 +651,7 @@
 * [plug_and_play](https://github.com/henrik/plug_and_play) -使用更少的样板设置一个Plug应用程序.
 * [plug_auth](https://github.com/bitgamma/plug_auth) -收集与身份验证相关的插头.
 * [plug_canonical_host](https://github.com/remiprev/plug_canonical_host) -插入以确保所有请求均来自单个规范主机.
-* [plug_checkup](https://github.com/ggpasqualino/plug_checkup) -插件，用于向您的应用添加简单的健康检查.
+* [plug_checkup](https://github.com/ggpasqualino/plug_checkup) -用于向您的应用添加简单的健康检查的插件.
 * [plug_cloudflare](https://github.com/c-rack/plug_cloudflare) -受mod_cloudflare的启发，此Elixir插件将Cloudflares CF-Connecting-IP HTTP请求标头解析为Plug.Conn的remote_ip字段.
 * [plug_forward_peer](https://github.com/awetzel/plug_forwarded_peer) -非常简单的插件，它根据RFC7239读取X-Forwarded-For或Forwarded标头，并用根客户端ip填充conn.remote_ip.
 * [plug_fprof](https://github.com/obmarg/plug_fprof) -一个为请求添加fprof跟踪的插件，以简化配置过程.
@@ -727,7 +727,7 @@
 * [geolix](https://github.com/mneudert/geolix) -MaxMind GeoIP2数据库读取器/解码器.
 * [geonames](https://github.com/pareeohnos/geonames-elixir) -围绕GeoNames API的简单Elixir包装器.
 * [ip2location](https://github.com/nazipov/ip2location-elixir) -IP2Location数据库的Elixir库.
-* [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) -通过IP地址查找俄罗斯和乌克兰城市，并找到其他国家的国家.
+* [ipgeobase](https://github.com/sergey-chechaev/elixir_ipgeobase) -通过IP地址查找俄罗斯和乌克兰城市，然后为其他国家/地区查找国家/地区.
 * [proj](https://github.com/CandyGumdrop/proj) -使用OSGeo的PROJ.4的Elixir坐标转换库.
 * [segseg](https://github.com/pkinney/segseg_ex) -细分市场路口分类器和计算器.
 * [topo](https://github.com/pkinney/topo) -Elixir的几何库，用于计算两个几何之间的空间关系.
@@ -750,7 +750,7 @@
 * [exquery](https://github.com/rozap/exquery) -用于解析HTML和查询其中的元素的库.
 * [floki](https://github.com/philss/floki) -一个简单的HTML解析器，可以使用类似选择器的CSS进行搜索.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) -Elixir的HTML消毒剂.
-* [modest_ex](https://github.com/f34nk/modest_ex) -一个使用CSS选择器对html字符串进行管道转换的库，例如find（），prepend（），append（），replace（）等.
+* [modest_ex](https://github.com/f34nk/modest_ex) -使用CSS选择器对HTML字符串进行可管道转换的库，例如find（），prepend（），append（），replace（）等.
 * [myhtmlex](https://github.com/Overbryd/myhtmlex) -lexborisov的myhtml的Elixir / Erlang绑定.
 * [readability](https://github.com/keepcosmos/readability) -可读性用于提取和整理文章.
 * [texas](https://gitlab.com/dgmcguire/texas) -Texas是使用服务器端渲染和服务器端虚拟DOM差异/补丁更新客户端的强大抽象.
@@ -835,7 +835,7 @@
 * [prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix) -凤凰乐器prometheus.ex.
 * [prometheus-plugs](https://github.com/deadtrickster/prometheus-plugs) -插入乐器/prometheus.ex的出口商.
 * [prometheus.ex](https://github.com/deadtrickster/prometheus.ex) -灵丹妙药 [Prometheus.io](https://prometheus.io) 监视系统和时间序列数据库客户端.
-* [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) -Prometheus收集器，可导出过程度量的当前状态，包括cpu，内存，文件描述符使用情况和本机线程计数以及过程启动和启动时间.
+* [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) -Prometheus收集器，可导出过程度量标准的当前状态，包括cpu，内存，文件描述符使用情况和本机线程计数以及过程启动和启动时间.
 * [spandex](https://github.com/spandex-project/spandex) -最初为Datadog APM开发的平台不可知跟踪库.
 * [telemetry](https://github.com/beam-telemetry/telemetry) -用于指标和工具的动态调度库.
 * [wobserver](https://github.com/shinyscorpion/wobserver) -基于Web的指标，监视和观察者.
@@ -979,11 +979,11 @@
 * [keys1value](https://github.com/okeuday/keys1value) -Erlang为键列表设置了关联映射.
 * [licensir](https://github.com/unnawut/licensir) -混合任务，列出项目中所有已安装软件包的许可证.
 * [mixgraph](https://github.com/sivsushruth/mixgraph) -十六进制程序包的交互式依赖项绘图仪.
-* [mixstar](https://github.com/ma2gedev/mix-star) -MixStar已将取决于您项目的GitHub存储库加星标.
+* [mixstar](https://github.com/ma2gedev/mix-star) -MixStar已将取决于您项目的GitHub存储库加注星标.
 * [netrc](https://github.com/ma2gedev/netrcex) -读取Elixir中实现的netrc文件.
 * [notifier](https://hex.pm/packages/notifier) -用于桌面通知的可插拔体系结构.
 * [onetime](https://github.com/ryo33/onetime-elixir) -Elixir的一次性键值存储.
-* [pact](https://github.com/BlakeWilliams/pact) -在Elixir中进行更好的依赖注入，以实现更干净的代码和测试.
+* [pact](https://github.com/BlakeWilliams/pact) -在Elixir中更好的依赖注入，以实现更干净的代码和测试.
 * [phone](https://github.com/fcevado/phone) -解析器，可从电话号码中获取有用的信息.
 * [porcelain](https://github.com/alco/porcelain) -瓷器采用了更合理的方法来启动Elixir的外部OS进程并与之通信.
 * [presentex](https://github.com/Cobenian/Presentex) -基于HTML / JavaScript的Elixir演示框架.
@@ -1015,7 +1015,7 @@
 ## Networking
 *使用网络相关资料的库和工具.*
 
-* [asn](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
+* [asn](https://github.com/ephe-meral/asn) -可用于从IP映射到AS到ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) -基于UDP多播和TCP混合的安全消息广播.
 * [download](https://github.com/asiniy/download) -从互联网轻松下载文件.
 * [eio](https://github.com/falood/eio) -engine.io的Elixir服务器.
@@ -1025,7 +1025,7 @@
 * [mac](https://github.com/ephe-meral/mac) -可用于查找以十六进制字符串（根据IEEE）指定的MAC的供应商.
 * [pool](https://github.com/slogsdon/pool) -Elixir的套接字接受器池.
 * [reagent](https://github.com/meh/reagent) -试剂是Elixir的套接字受体池.
-* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -Sockerl是用于TCP协议的高级Erlang / Elixir套接字库，并提供用于实现服务器，客户端和客户端连接池的快速，有用和易于使用的API.
+* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -Sockerl是用于TCP协议的高级Erlang / Elixir套接字库，并提供用于实现服务器，客户端和客户端连接池的快速，有用且易于使用的API.
 * [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex](https://github.com/rubencaro/sshex) -Elixir的简单SSH帮助程序.
 * [sshkit](https://github.com/bitcrowd/sshkit.ex) -在Erlang的SSH应用程序之上构建的Elixir工具箱，用于在一个或多个服务器上执行任务.
@@ -1319,7 +1319,7 @@
 * [elixir-auto-test](https://github.com/joaothallis/elixir-auto-test) -使用inotify-tools保存文件时运行测试.
 * [espec](https://github.com/antonmi/espec) -受RSpec启发的Elixir BDD测试框架.
 * [espec_phoenix](https://github.com/antonmi/espec_phoenix) -Phoenix网络框架的ESpec.
-* [ex_machina](https://github.com/thoughtbot/ex_machina)  -灵丹妙药的灵活测试工厂. 与Ecto和Ecto关联开箱即用.
+* [ex_machina](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
 * [ex_parameterized](https://github.com/KazuCocoa/ex_parameterized) -用于参数化测试的简单宏.
 * [ex_spec](https://github.com/drewolson/ex_spec) -ExUnit的类似于BDD的语法.
 * [ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures) -用于定义ExUnit测试的模块依赖关系的库.
@@ -1563,6 +1563,7 @@
 * [telephonist](https://github.com/danielberkompas/telephonist) -用于Twilio调用的Elixir状态机.
 * [tentacat](https://github.com/edgurgel/tentacat) -GitHub API的简单Elixir包装器.
 * [tg_client](https://github.com/ccsteam/ex-telegram-client) -与Telegram-CLI通信的Elixir包装器.
+* [tradehub](https://github.com/anhmv/tradehub-elixir) -用于Tradehub区块链的Elixir客户端库.
 * [traitify_elixir](https://github.com/traitify/traitify_elixir) -用于Traitify开发人员API的Elixir客户端库.
 * [ui_faces](https://github.com/katgironpe/ui_faces) -Elixir应用程序的UIFaces API客户端.
 * [unsplash-elixir](https://github.com/waynehoover/unsplash-elixir) -一个用于Unsplash的Elixir库.
@@ -1605,7 +1606,7 @@
 * [retry](https://github.com/safwank/ElixirRetry) -简单的Elixir宏，可进行线性重试，指数退避并等待可组合的延迟.
 * [sips_downloader](https://github.com/DavsX/SipsDownloader) -Elixir模块，用于下载ElixirSips情节和所有其他文件.
 * [sitemap](https://github.com/ikeikeikeike/sitemap) -Sitemap是在Elixir中生成Sitemap的最简单方法.
-* [uef-lib](https://github.com/DOBRO/uef-lib)  -有用的Erlang函数库，提供用于处理列表，二进制文件，地图，数字，日期和时间的模块. 它包含一些针对特定情况下的性能进行了优化的功能（例如，针对文件I / O操作或二进制转换）.
+* [uef-lib](https://github.com/DOBRO/uef-lib)  -有用的Erlang函数库，提供用于处理列表，二进制文件，地图，数字，日期和时间的模块. 它包含一些针对特定情况下的性能进行优化的功能（例如，针对文件I / O操作或二进制转换）.
 * [vert.x](https://github.com/PharosProduction/ExVertx) -使用TCP套接字的Elixir事件总线桥接到Vert.x服务.
 
 ## Validations
@@ -1675,7 +1676,7 @@
 *很棒的书和电子书.*
 
 * [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)  -根据建立Elixir并成功成功使用Elixir的人们的现实生活策略，将Elixir引入您的公司. 本书提供了将应用程序从概念应用到生产所需的所有信息（2017年）.
-* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) -将您的Web API升级到GraphQL，利用其灵活的查询来赋予您的用户权力，并利用其声明性结构来简化您的代码（2017）.
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) -将您的Web API升级到GraphQL，以利用其灵活的查询来赋予您的用户权力，并利用其声明性结构来简化您的代码（2017）.
 * [Create a cryptocurrency trading bot in Elixir](https://www.elixircryptobot.com)  -寻找现实世界中的Elixir / OTP项目来获得动手经验吗？ 本书将带您探索在Elixir中创建加密货币交易机器人的过程. 您将能够直接了解如何设计和开发复杂的系统，以及我们如何将它们共同构建！  （2021年）.
 * [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) -本书是按保罗·佩雷拉（Paulo A Pereira）（2015）的主题分组的一组食谱.
 * [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) -（葡萄牙语）这本书由Tiago Davi（2014年）提供了使用Elixir进行功能和并发编程的介绍.

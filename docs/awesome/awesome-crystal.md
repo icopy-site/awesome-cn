@@ -84,11 +84,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) -Tar存档格式的读者和作家
- * [Gzip](https://crystal-lang.org/api/Gzip.html) -gzip格式的读者（Crystal stdlib）
+ * [Gzip](https://crystal-lang.org/api/Compress/Gzip.html) -gzip格式的读者（Crystal stdlib）
  * [polylines.cr](https://github.com/BuonOmo/polylines.cr) —压缩一系列坐标
  * [snappy](https://github.com/naqvis/snappy) -适用于Crystal的Snappy压缩格式读取器/写入器
- * [Zip](https://crystal-lang.org/api/Zip.html) -zip格式的读者（Crystal stdlib）
- * [Zlib](https://crystal-lang.org/api/Zlib.html) -zlib格式的读者（Crystal stdlib）
+ * [Zip](https://crystal-lang.org/api/Compress/Zip.html) -zip格式的读者（Crystal stdlib）
+ * [Zlib](https://crystal-lang.org/api/Compress/Zlib.html) -zlib格式的读者（Crystal stdlib）
  * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
 
 ## Configuration
@@ -202,7 +202,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Iu](https://github.com/grkek/iu) -基于的UI框架 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有来自的自定义元素和修改的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) -解析DOCX Word

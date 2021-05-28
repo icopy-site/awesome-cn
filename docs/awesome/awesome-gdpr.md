@@ -73,7 +73,7 @@
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
 * [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme)
-* [Awesome: Privacy](https://github.com/KevinColemanInc/awesome-privacy#readme)
+* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) -尊重免费，开源和隐私的服务以及私有服务的替代方法的列表.
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
 
 ## License

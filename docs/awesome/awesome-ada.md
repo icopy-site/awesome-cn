@@ -103,11 +103,11 @@
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -一本书，从Ada 95的初学者到高级概念，并附带源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中的本书，从初学者到高级概念，并附带源文件.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - Introduction.    
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) -一般，中级.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.springer.com/gp/book/9781848823136) - 数据结构.   
 <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) -成语，建筑.  
@@ -126,14 +126,14 @@
 
 #### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada12_w_tc1.html) -2012年对Ada标准的修订，通常称为Ada 2012.
-- [adalib](https://github.com/reznikmm/adalib) -参考手册中定义的标准Ada库规范.
+- [adalib](https://github.com/reznikmm/adalib) - Standard Ada library specification as defined in Reference Manual.
 
 ## Community
 
 #### Questions and Answers
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) -有一个Usenet新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) -堆栈溢出的Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
+- [subreddit-ada](https://www.reddit.com/r/ada/) -艾达（Ada）和Reddit.
 - [subreddit-spark](https://www.reddit.com/r/spark/) -在Reddit发火花.
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) -吉特（Gitter）有一个频道.
 - [telegram-ada](https://t.me/ada_lang) -Telegram有一个小组.
@@ -174,7 +174,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了全面的工具集（IDE，调试器，库，动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -222,6 +222,7 @@
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) -使用Travis CI自动进行SPARK正式验证.
+- [ada-actions](https://github.com/ada-actions/toolchain) -适用于GitHub Actions的Ada工具链
 
 ## Runtimes
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) -GNAT裸机板支持包（BSP）.
@@ -247,7 +248,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并证明的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲的东西.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何OS的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
@@ -307,7 +308,7 @@
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了一种与Java统一表达语言（EL）接近的简单表达语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) -Ada Server Faces允许使用与Java Server Faces相同的模式创建Web应用程序（请参阅JSR 252，JSR 314和JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) -Ada Servlet允许使用与Java Servlet相同的模式创建Web应用程序（请参阅JSR 154，JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持在给定OpenAPI规范的情况下自动生成API客户端库，服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持自动生成API客户端库，服务器存根和给定OpenAPI规范的文档.
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架. 它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test, Testing
@@ -334,7 +335,7 @@
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) -针对GCC定制的Ada合格评定测试套件.
-- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) -对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
@@ -432,7 +433,7 @@
 - [xia](https://github.com/simonjwright/xia) -XPath 1.0的Ada实现.
 
 #### Format Readers and Writers
-- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件中的信息.
+- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以从称为“ ini”文件的各种配置文件中读取和修改信息.
 - [protobuf-ada](https://github.com/persan/protobuf-ada) -针对Google协议缓冲区的实验性Ada代码生成支持.
 - [ada-yaml](https://github.com/yaml/AdaYaml) -Ada中的实验性YAML 1.3实现.
 - [json-ada](https://github.com/onox/json-ada) -用于解析JSON的Ada 2012库.
@@ -573,10 +574,10 @@
 - [hunter](https://github.com/thindil/hunter) -用于Linux的图形（GtkAda）文件管理器.
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -垃圾桶查找器是一种邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及已知邮件的管理.
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -垃圾搜索器是一种邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及已知邮件的管理.
 
 #### Web
-- [ironsides](http://ironsides.martincarlisle.com) -由SPARK / Ada验证的权威DNS服务器.
+- [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.
 - [wasabee](https://github.com/zertovitch/wasabee) -以安全为重点的Web浏览器.
 - [yass](https://github.com/yet-another-static-site-generator/yass) -另一个静态网站生成器（如Jekyll或Hugo）.
 
@@ -599,7 +600,7 @@
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -该工具将在Ada合格评定机构上共享的CVS存储库导入到Git存储库中.
 - [j2ada](https://github.com/Blady-Com/j2ada) -Ada源代码中Java有效源代码的转换器.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) -Ada2JS是Matreshka的实验性开源编译器组件.
-- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  -SofCheck AdaMagic是经过ACATS验证和认证的Ada编译器，针对C和/或C ++（4个命令行开关用于微调）.  ObjectAda和其他几种商业编译器与AdaMagic共享引擎.  MapuSoft发行AdaMagic作为AppCOE的组成部分.
+- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  -SofCheck AdaMagic是针对C和/或C ++的ACATS验证和认证的Ada编译器（用于微调的4个命令行开关）.  ObjectAda和其他几种商业编译器与AdaMagic共享引擎.  MapuSoft发行AdaMagic作为AppCOE的组成部分.
 - [cappulada](https://github.com/Componolit/Cappulada) -有一个C ++的绑定生成器.
 - [asis2xml](https://github.com/simonjwright/asis2xml) -将Ada来源的ASIS表示形式转换为XML，从而使使用（例如）XSLT开发报告和转换工具变得更加容易.
 

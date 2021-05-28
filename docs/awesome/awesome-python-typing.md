@@ -148,7 +148,7 @@
 - [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) -有关“文字”类型的完整教程.
 - [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) -有关Django类型检查的完整教程.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) -有关测试mypy类型的完整教程.
-- [The state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/) -截至2018年5月.
+- [The state of type hints in Python](https://bernat.tech/posts/the-state-of-type-hints-in-python/) -截至2018年5月.
 - [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) -用MonkeyType注释现有的Python Django代码库.
 
 ## Communities
