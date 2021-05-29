@@ -221,7 +221,7 @@ Sponsors
   * [wrapapi.com](https://wrapapi.com/)  —将任何网站转换为参数化的API. 每月30k API调用.
   * [Zenscrape](https://zenscrape.com/web-scraping-api)  —具有无头浏览器，住宅IP和简单定价的Web抓取API. 每月1000次免费API调用，为学生和非营利组织提供额外的免费信用.
   * [ip-api](https://ip-api.com) — IP Geolocation API，免费用于非商业用途，不需要API密钥，从免费计划的同一IP地址开始，限制为每分钟45 req /分钟.
-  * [WebScraping.AI](https://webscraping.ai)  -带有内置解析，Chrome渲染和代理的简单Web Scraping API. 每月5000次免费API调用.
+  * [WebScraping.AI](https://webscraping.ai)  -带有内置解析，Chrome渲染和代理的简单Web Scraping API. 每月2000次免费API调用.
   * [Zipcodebase](https://zipcodebase.com)  -免费的邮政编码API，可访问全球邮政编码数据. 每月10000个免费请求.
   * [EVA](http://eva.pingutil.com/) -免费的电子邮件验证器API，可帮助您确定电子邮件是否为一次性邮件以及是否具有有效的MX记录.
   * [happi.dev](https://happi.dev)  -免费增值api服务集合（音乐，汇率，键值存储，语言检测，密码生成器，QRCode生成器，歌词）. 每月有8000次免费API调用.

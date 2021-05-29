@@ -49,7 +49,7 @@ them.
 ## Finite Elements
 
 - [FEniCS](https://fenicsproject.org) -用于解决Python和C ++中的PDE的计算平台.
-  （C ++ / Python，LGPL 3， [Bitbucket](https://bitbucket.org/fenics-project/))
+  （C ++ / Python，LGPL 3， [GitHub](https://github.com/FEniCS)/[Bitbucket](https://bitbucket.org/fenics-project/))
 - [libMesh](https://libmesh.github.io) -使用非结构化离散化进行PDE数值模拟的框架.
   （C ++，LGPL 2.1， [GitHub](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) -支持创建有限元代码的软件库.
@@ -203,6 +203,8 @@ them.
   （Python，GPL 3， [GitHub](https://github.com/DedalusProject/dedalus))
 - [PyGMO](https://esa.github.io/pygmo/) -大规模并行优化.
   （Python / C ++，MPL 2， [GitHub](https://github.com/esa/pygmo2))
+- [shenfun](https://shenfun.readthedocs.io/en/latest/) -用于光谱Galerkin方法的高性能Python库.
+  （Python，BSD-2， [GitHub](https://github.com/spectralDNS/shenfun))
 
 ## Community
 

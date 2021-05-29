@@ -38,7 +38,7 @@
 
 ### Podcasts
 
-- [Absolute AppSec](https://absoluteappsec.com/) -_Seth Law＆Ken Johnson_-有关当前事件和与应用程序安全性相关的特定主题的讨论.
+- [Absolute AppSec](https://absoluteappsec.com/) - _Seth Law & Ken Johnson_ - Discussions about current events and specific topics related to application security.
 - [Application Security Podcast](https://podcast.securityjourney.com/) -_安全之旅_-与行业专家就特定的应用程序安全性概念进行访谈.
 - [BeerSecOps](https://blog.aquasec.com/devsecops-podcasts) -_Aqua Security_-打破了开发，安全和运营的孤岛，讨论了涵盖这些主题领域的主题.
 - [DevSecOps Podcast Series](https://soundcloud.com/owasp-podcast) -_OWASP_-与思想领袖和实践者进行的讨论，旨在将安全性集成到开发生命周期中.
@@ -104,6 +104,7 @@
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全性扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) -_PortSwigger_-BurpSuite的Web应用程序漏洞扫描程序已由渗透测试人员广泛使用，并通过CI / CD集成进行了修改，并可以持续监控多个Web应用程序.
 - [Gauntlt](https://github.com/gauntlt/gauntlt) -_Gauntlt_-一个行为驱动的开发框架，可以使用通用安全工具运行测试扫描，并使用Gherkin语法定义测试输出.
+- [Netz](https://github.com/spectralops/netz) -_Spectral_-使用zgrab2和其他工具发现Internet范围内的错误配置.
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) -_SSL Labs_-自动扫描SSL / TLS配置问题.
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) -_OWASP_-开源Web应用程序漏洞扫描程序，包括用于CI / CD集成的API.
 
@@ -222,7 +223,7 @@ It's not enough to test and harden our software in the lead up to a release. We 
 
 <!-- omit in toc -->
 #### Configuration Files
-- [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_ - Create custom tests to scan any configuration file for security flaws.
+- [Conftest](https://github.com/instrumenta/conftest) -_Instrumenta_-创建自定义测试以扫描任何配置文件中的安全漏洞.
 
 <!-- omit in toc -->
 #### Java

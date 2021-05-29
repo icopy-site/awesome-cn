@@ -27,13 +27,14 @@
 - [Zanata](http://zanata.org/) -基于Web的翻译平台，供翻译人员，内容创建者和开发人员管理本地化项目.
 - [Traduora](https://github.com/traduora/traduora) -在团队中管理翻译工作流程的平台.
 - [SimpleLocalize](https://simplelocalize.io) -软件项目的简单翻译管理.
+- [Respresso](https://respresso.io/) -用于本地化，图像，颜色等的协作式在线资源管理器，可生成特定于平台的文件并将其直接传送到您的源代码中.
 
 ## Apps
 
 - [RTranslator](https://github.com/niedev/RTranslator) -第一个基于Google API的Android同步翻译器应用程序.
 - [Crow Translate](https://github.com/crow-translate/crow-translate) -适用于Linux和Windows的简单轻巧的翻译器，允许使用Google，Yandex和Bing翻译API来翻译和说文本.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) -适用于Windows，Mac和Linux的应用程序，在剪贴板中复制后会自动翻译和调整文本.
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) -Windows的I18n管理器.
+- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 - [OmegaT](https://omegat.org/) -适用于Windows，macOS和Linux的免费翻译记忆库应用程序.
 - [Argos Translate](https://github.com/argosopentech/argos-translate)  -基于Python的完全基于OpenNMT的开源离线翻译应用程序. 它也可以用作Python库.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) -基于Argos Translate的100％自托管网络应用程序可翻译文本.
@@ -54,7 +55,7 @@
 - [Pootle](https://github.com/translate/pootle)  -具有翻译界面的在线翻译管理工具，专注于应用程序图形用户界面的本地化. 由LibreOffice使用.
 - [Translator](https://github.com/UlionTse/translators) -基于Google，Yandex，Microsoft（Bing），百度，阿里巴巴，腾讯，网易（Youdao），搜狗，Deepl等翻译界面的翻译库.
 - [Bergamot](https://github.com/browsermt) -浏览器中的客户端翻译.
-- [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
+- [Python-i18n](https://pypi.org/project/python-i18n/) -Python国际化（i18n）软件包.
 - [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) -旨在帮助团队轻松地将网站本地化的技术.
 - [attranslate](https://github.com/fkirc/attranslate) -跨平台应用程序或网站的半自动翻译工具.
 - [Polyglot](https://github.com/untra/polyglot) -用于Jekyll博客的快速，轻松，开源的国际化插件.

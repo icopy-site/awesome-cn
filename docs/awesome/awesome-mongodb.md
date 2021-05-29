@@ -6,7 +6,7 @@
 
 [![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
 
-> A curated list of awesome MongoDB resources, libraries, tools and applications
+&gt;精选的MongoDB资源，库，工具和应用程序精选清单
 
 受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 随时通过以下方式改进此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
@@ -124,12 +124,13 @@
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) -Laravel雄辩的模型和查询生成器
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) -储存库实施
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) -基于PHP Mongo PECL扩展的ODM
- - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) -基于PHPMongo ODM的迁移工具
+ - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) -官方PHP驱动程序
  - [yadm](https://github.com/formapro/yadm) -快速的无模式ODM
 
 ### Python
  - [Beanie](https://github.com/roman-right/beanie) -基于的异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，支持开箱即用的迁移
+ - [Djongo](https://github.com/nesdis/djongo) -适用于Django的MongoDB连接器与Django ORM兼容
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) -Flask扩展，为Flask添加了PyMongo支持
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) -惯用且友好但功能强大的ODM（无模式）
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) -在PyMongo之上的ODM

@@ -14,7 +14,7 @@
   * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) -来自的视频 [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  -Web归档生命周期模型是试图将Web归档的技术和程序臂纳入一个框架，该框架将与任何寻求从Web归档内容的组织有关.  Internet Archive的Web归档服务Archive-It根据其与世界各地存储机构的合作开发了该模型.
+  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  -Web归档生命周期模型是一种尝试，旨在将Web归档的技术和程序臂纳入一个框架，该框架将与任何寻求从Web归档内容的组织相关.  Internet Archive的Web归档服务Archive-It根据其与世界各地存储机构的合作开发了该模型.
   * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
 * WARC标准：
   * 这 [warc-specifications](https://iipc.github.io/warc-specifications/) 官方规范的社区HTML版本，以及新提案的中心.
@@ -39,10 +39,12 @@
 
 ### Acquisition
 
-* [22120](https://github.com/c9fe/22120)  -一种非基于WARC的工具，可连接到chrome浏览器并存档您浏览的所有内容，以使其可用于脱机重播.  *（开发中）*
-* [ArchiveBox](https://github.com/pirate/ArchiveBox)  -一种使用wget，chrome无头浏览器和其他方法（以前称为“书签存档器”）维护RSS提要，书签和链接的附加存档的工具.  *（开发中）*
+* [22120](https://github.com/c9fe/22120)  -一种非基于WARC的工具，可连接到Chrome浏览器并存档您浏览的所有内容，以供脱机重播.  *（开发中）*
+* [ArchiveBox](https://github.com/pirate/ArchiveBox)  -一种使用wget，Chrome无头浏览器和其他方法（以前称为“书签存档器”）维护RSS提要，书签和链接的附加存档的工具.  *（开发中）*
 * [archivenow](https://github.com/oduwsdl/archivenow) - 一种 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将Web资源推送到按需Web存档中.  *（稳定的）*
-* [Brozzler](https://github.com/internetarchive/brozzler)  -使用实际浏览器（Chrome或Chrome）的分布式Web搜寻器（爬虫），以获取页面和嵌入的URL并提取链接.  *（稳定的）*
+* [ArchiveWeb.Page](https://archiveweb.page)  -适用于Chrome和其他基于Chromium的浏览器的插件，可让您以交互方式存档网页，重播网页并将其导出为WARC数据. 也可以作为基于Electron的桌面应用程序使用.
+* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) -基于Chrome的高保真抓取系统，旨在在单个Docker容器中运行复杂的，可自定义的基于浏览器的抓取.
+* [Brozzler](https://github.com/internetarchive/brozzler)  -使用真正的浏览器（Chrome或Chromium）的分布式Web搜寻器（爬虫），以获取页面和嵌入的URL并提取链接.  *（稳定的）*
 * [Cairn](https://github.com/wabarc/cairn)  -用于保存网页的npm软件包和CLI工具.  *（稳定的）*
 * [Chronicler](https://github.com/CGamesPlay/chronicler)  -具有记录和重放功能的Web浏览器.  *（开发中）*
 * [Crawl](https://git.autistici.org/ale/crawl)  -Golang中的简单网络爬虫.  *（稳定的）*
@@ -126,7 +128,7 @@
 ### Analysis
 
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark)  -用于Web存档的Apache Spark框架（不仅如此），可轻松进行数据处理，提取和派生.  *（稳定的）*
-* [Archives Unleashed Cloud](https://cloud.archivesunleashed.org)  -Archives Unleashed Cloud（AUK）是用于分析Web存档的Web界面. 当前，它可以与Archive-It集合同步，并从您的集合中提取超链接网络，全文和其他信息.  *（稳定的）*
+* [Archives Unleashed Cloud](https://cloud.archivesunleashed.org) - Archives Unleashed Cloud (AUK) is an web interface for analysing web archives. Currently, it can sync with Archive-It collections and extract hyperlink networks, full text, and other information from your collections. *(Stable)*
 * [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks)  -用于使用Archives Unleashed Toolkit和由Archives Unleashed Toolkit生成的派生工具处理Web存档的笔记本.  *（稳定的）*
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut)  -Archives Unleashed Toolkit（AUT）是一个开放源代码平台，用于使用Apache Spark分析Web存档.  *（稳定的）*
 * [Tweet Archvies Unleashed Toolkit](https://github.com/archivesunleashed/twut)  -一个开源工具包，用于使用Apache Spark分析面向行的JSON Twitter存档.  *（开发中）*
@@ -134,7 +136,7 @@
 ### Quality Assurance
 
 * [Chrome Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) -浏览器扩展：具有更多选项的链接检查器.
-* [Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker.
+* [Chrome link checker](https://chrome.google.com/webstore/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) -浏览器扩展：基本链接检查器.
 * [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) -浏览器扩展：页面上的链接收割机.
 * [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) -浏览器扩展：打开多个URL，还从文本中提取URL.
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) -浏览器扩展：在浏览器标签之间切换.
