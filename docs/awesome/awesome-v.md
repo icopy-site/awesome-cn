@@ -66,12 +66,15 @@
 
 ## Libraries
 
-### Command line interface
+### Command line interface (CLI) / Terminal / Shell
 
-- [vargs](https://github.com/nedpals/vargs)  -V库，用于解析类似argv的数组的参数.  （存档）
-- [progressbar](https://github.com/Waqar144/progressbar) -易于使用的V库，可在cli中创建进度条.
 - [boxx](https://github.com/thecodrr/boxx) -创建高度可定制的接线盒，它们看起来也很棒！ 
 - [lol](https://github.com/0xLeif/lol) -lolcat的V版本（文本/字符Rainbowizer）.
+- [progressbar](https://github.com/Waqar144/progressbar) -易于使用的V库，可在cli中创建进度条.
+- [termtable](https://github.com/serkonda7/termtable) -V终端表：简单且高度可定制的库，用于在终端中显示表.
+- [vargs](https://github.com/nedpals/vargs)  -V库，用于解析类似argv的数组的参数.  （存档）
+
+
 
 ### Text processing
 
@@ -102,7 +105,7 @@
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) -用V编写的基本JSON-RPC 2.0兼容服务器.
 - [pico.v](https://github.com/S-YOU/pico.v) -V中基于picoev和picohttpparser的Web服务器.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) -用于vweb的简约Xbox Live身份验证器.
-- [vcurrency](https://github.com/mehtaarn000/vcurrency) -API包装器（用V编写） [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 
 ### Database clients
 

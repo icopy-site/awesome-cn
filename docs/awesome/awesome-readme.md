@@ -11,6 +11,7 @@
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) -项目徽标，清晰的说明，屏幕截图，分步安装说明.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  -项目徽标. 明确说明项目的用途. 演示截图.  TOC便于导航. 带有屏幕截图的简单安装和设置部分. 链接以供进一步阅读.
+- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup)  -明确说明项目的用途.  GIF演示.  TOC便于导航. 徽章. 链接以供进一步阅读. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  -项目徽标. 明确说明项目的用途.  GIF演示.  TOC便于导航. 徽章. 链接以供进一步阅读. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  -项目徽标. 关于它的极简描述. 该项目的GIF演示. 主要特征. 如何安装指南. 学分.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  -多个徽章. 干净的徽标. 简单的安装说明. 清晰的项目概述以及原理图.  GIF演示. 大量的代码示例.
@@ -40,22 +41,22 @@
 - [node-chat](https://github.com/IgorAntun/node-chat#readme)  -项目截图. 信息徽章. 清晰的说明. 简单的安装/使用说明. 现场演示.
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme)  -项目徽标.  GIF演示. 用法图稿. 使用代码示例.
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) -多个徽章，项目徽标，屏幕截图，分步安装和升级说明以及便于导航的目录.
-- [PostHog/posthog](https://github.com/PostHog/posthog#readme) -定制部分的图标，演示GIF，部署按钮，供稿者使用的头像，简洁明了的结构，项目徽标.
+- [PostHog/posthog](https://github.com/PostHog/posthog#readme) -定制部分的图标，演示GIF，部署按钮，贡献者的资料图片，简洁明了的结构，项目徽标.
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  -TOC便于导航. 明确介绍该项目的用途. 存储库中所有文件的完整列表以及它们的功能. 使用情况部分. 干净简洁的桌子.
 - [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme)  -动态统计. 黑色和白色的主题. 抛光的布局. 快速，可略读的表格，包括文稿和当前项目. 将技术徽章链接到家庭网站. 图像中的秘密隐写术.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) -项目徽标，代表主要思想的漫画，徽章，带有代码片段的示例，演示项目，api文档，编辑器配置.
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  -GIF演示. 多个徽章. 功能列表. 精彩的现场演示和代码示例. 易于遵循的本地开发说明.
-- [Rebilly/redoc](https://github.com/Redocly/redoc#readme) -多个徽章，项目徽标，实时演示链接，关键功能的GIF动画，TL; DR的使用.
+- [Rebilly/redoc](https://github.com/Redocly/redoc#readme) -多个徽章，项目徽标，实时演示链接，关键功能的GIF动画，TL; DR使用情况.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  -使用演示GIF清晰地概述了项目功能. 徽章. 可扩展目录. 用法说明和示例. 贡献准则. 详细发布.
 - [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  -GIF演示. 带有屏幕截图的简单安装和设置部分. 制作徽章. 用例的好例子.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  -清洁项目徽标. 顶部简要说明.  Sankey图，快速链接，徽章，特定于操作系统的图标，目录，详细的发行变更日志.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  -项目徽标. 制作徽章. 多种编程语言的文档结构. 用法示例.
 - [shama/gaze](https://github.com/shama/gaze#readme)  -项目徽标. 简明扼要的描述. 功能列表. 使用情况部分. 常问问题. 很棒的API文档. 发行历史.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme)  - 概述. 所需依赖项列表. 存储库中所有文件的完整列表以及它们的功能. 有关如何将它们联系在一起的直观图表.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  -项目徽标. 明确说明项目的用途. 制作徽章. 演示截图. 简单的安装和使用部分. 包括一个具有常用用法的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  -清理动画截图. 自定义号召性用语徽章. 用法展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  -使用字符清洁徽标. 开发的简要更新. 详细的贡献准则. 贡献建议.
-- [sulu/sulu](https://github.com/sulu/sulu#readme) -项目徽标，有用的徽章，关于在哪里可以找到更多信息和报告错误的清晰说明，GIF屏幕截图，很好地使用表情符号.
+- [sulu/sulu](https://github.com/sulu/sulu#readme) -项目徽标，有用的徽章，关于在哪里可以找到更多信息和报告错误的清晰说明，GIF屏幕快照，很好用的表情符号.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  -项目徽标. 有用的徽章. 网址. 截屏.  GIF安装的分步说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  -清洁项目徽标，徽章. 目录. 贡献部分. 许多图解的例子.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  -项目徽标. 有用的徽章和链接（网站，文档，演示）. 截屏. 功能列表. 有关安装，开发和测试的分步说明. 链接到提供帮助的指南. 好的手机摘要.
@@ -89,7 +90,7 @@
 - [Gifox](https://gifox.io) -** $ 4.99 **-最干净的用户界面，热键和许多高级功能
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) -**免费**-比其他颜色更鲜艳，但尺寸仍然较小
 - [Giphy Capture](https://giphy.com/apps/giphycapture) -**免费**-易于上传到giphy.com，用户体验有些烦人.
-- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
+- [LICEcap](https://www.cockos.com/licecap/) -**免费**-不太直观，更多功能
 - [Peek](https://github.com/phw/peek#readme) -**免费**-简单易用的Linux用户.
 - [Recordit](https://recordit.co/) -**免费**-简单，干净的用户界面，但会自动上传到 [recordit.co](https://recordit.co/)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) -**免费**-开源，可自定义的用户界面和易于编辑的GIF，易于上手.
@@ -111,4 +112,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matias Singers](https://mts.io) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Matias Singers](https://mts.io) 放弃了此作品的所有版权以及相关或邻近的权利.

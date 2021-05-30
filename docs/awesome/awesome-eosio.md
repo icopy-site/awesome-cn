@@ -20,7 +20,7 @@
 官方资源.
 
 - [EOS Community](https://eoscommunity.org/)
-- [GitHub](https://github.com/eosio)
+- [GitHub](https://github.com/EOSIO)
 - [Technical White Paper](https://github.com/EOSIO/Documentation)
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
@@ -31,30 +31,32 @@
 
 ## EdenOS
 
-EdenOS资源.
+EdenOS resources.
 
 - [Website](http://edeneos.org/) - 官方网站.
 - [eoscommunity/Eden](https://github.com/eoscommunity/Eden) -官方GitHub.
+- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) -丹尼尔·拉里默（Daniel Larimer）着书.
 
-## Learning resources
+## Learn
 
 EOSIO学习资源.
 
 ### Websites
 
-- [Elemental Battles](https://battles.eos.io/)
+- [Elemental Battles](https://battles.eos.io/)  -建立一个区块链游戏. 了解EOSIO.
   - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
 - [EOS GO](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
 
-### Courses, workshops, webinars and books
+### Courses, workshops, webinars, videos and others
 
+- [EOSIO Training & Certification](https://training.eos.io/) -官方EOSIO培训和认证.
 - [EOSIO Webinars](https://eos.io/event-category/webinar/) -官方EOSIO网络研讨会.
-- [EOSIO Training & Certification](https://eos.io/for-business/training-certification/) -官方EOSIO培训和认证.
-- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) - Udemy Course.
-- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) - Udemy Course.
+- [EOSIO Resource Library](https://eos.io/resources/)  -官方EOSIO资源. 视频，案例研究和其他资源可帮助您通过EOSIO学习和成长.
+- [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) -Udemy课程.
+- [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) -Udemy课程.
 - [Building DApps on EOS: A Hands-On Workshop](https://objectcomputing.com/services/training/catalog/blockchain/building-dapps-with-eos-workshop) - 作坊.
 
 ## Tools
@@ -92,11 +94,13 @@ EOSIO学习资源.
 ### Block explorers, Voting portals
 
 - [EOS Network Monitor](http://eosnetworkmonitor.io/)  -通过“ CryptoLions”进行的EOSIO网络监视器. 对开发人员有用. 分散友好.
-- [eosflare](https://eosflare.io/) -热门块浏览器包括资源统计信息，最新的个人资料操作以及有关“最高出价”和“最高投票人”的统计信息.
+- [eosflare](https://eosflare.io/) -热门的区块浏览器包括资源统计信息，最新的个人资料操作以及有关“最高出价”和“最高投票人”的统计信息.
 - [EOS Tracker](https://eostracker.io/) -开源块浏览器包括生产者信息和帐户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) -官方GitHub.
 - [Bloks](https://bloks.io/)  -快速块浏览器，可用于投票. 包括有关块生产者和令牌的信息.
-- [X](https://www.eosx.io/)  -区块浏览器. 支持各种侧链.
+<!--lint disable awesome-spell-check-->
+- [EOSX](https://www.eosx.io/)  -区块浏览器. 支持各种侧链.
+<!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) -投票代理浏览器.
 
 ## Block Producers
@@ -110,6 +114,18 @@ EOSIO学习资源.
 ## Developers
 
 关于在EOSIO平台上进行开发的所有内容.
+
+### Environment
+
+- [EOS Studio](https://www.eosstudio.io/) -用于EOSIO开发的图形IDE.
+- [EOSIO Web IDE](https://github.com/EOSIO/eosio-web-ide) -Web IDE为开发人员提供了一个用于开发和测试目的的个人单节点EOSIO区块链，该EOSIO区块链运行在 [Gitpod.io](https://www.gitpod.io/) 云–并可以通过Web浏览器访问.
+- [Helm charts for EOSIO](https://github.com/EOSIO/eosio.helm) -EOSIO Nodeos掌舵图.
+
+### Testnets
+
+- [The EOSIO Testnet](https://testnet.eos.io/)  -Block.one的官方EOSIO Testnet. 测试功能齐全的EOSIO稳定版本.
+- [Jungle Testnet](https://jungletestnet.io/) -自EOSIO诞生以来，Jungle TestNet由许多开发团队和EOS Block Producer发起并充当沙箱.
+- [CryptoKylin Testnet](https://www.cryptokylin.io/) -CryptoKylin Testnet是由一组EOS Mainnet块生产者维护的对开发人员友好的测试网.
 
 ### Libraries and Frameworks
 
@@ -126,7 +142,7 @@ EOSIO学习资源.
 - [memtrip/eosreach-android](https://github.com/memtrip/eosreach-android) -Kotlin / Android库.
 - [eosnet](https://github.com/SNIKO/eosnet) -.NET库.
 - [EOSRPC API Wrapper for Elixir](https://github.com/cambiatus/eosrpc-elixir-wrapper) -Elixir库.
-- [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到eos区块链通信的本地实现
+- [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到eos区块链通信的本地实现.
 - [Transit API for EOS](https://www.eostransit.com/) -通过基于EOSIO的区块链的开源，模块化，简单标准连接签名提供者和dApp.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) -官方GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - 文章.
@@ -135,7 +151,7 @@ EOSIO学习资源.
 
 #### Authentication and Signing libraries
 
-- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) -一个允许应用程序轻松使用不同身份验证提供程序的库.
+- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) -一个允许应用轻松使用不同身份验证提供程序的库.
   - [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - 文章.
 - [EOSIO/eosio-webauthn-example-app](https://github.com/EOSIO/eosio-webauthn-example-app) -演示通过WebAuthn进行EOSIO签名的示例Web应用程序.
   - [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - 文章.
@@ -147,7 +163,6 @@ EOSIO学习资源.
 - [greymass/anchor-link](https://github.com/greymass/anchor-link) -建立在EOSIO签名请求（EEP-7）之上的EOSIO链的持久，快速和安全的签名提供者.
 - [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) -有助于创建和摘要EOSIO签名请求（ESR）的库.
 - [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) -EOSIO签名请求协议的Java包装器.
-
 
 #### Frameworks
 
@@ -163,21 +178,12 @@ EOSIO学习资源.
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) -EOSIO.CDT（合同开发工具包）是用于构建EOSIO合同的一套工具.
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) -Ricardian合同规范的渲染器.
 - [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) -EOSIO上的以太坊虚拟机.
-- [EOS Studio](https://www.eosstudio.io/) -用于EOSIO开发的图形IDE.
-- [eos-helm](https://github.com/activeeos/eos-helm) -EOS智能合约平台的Kubernetes Helm图表.
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) -私钥，公钥，签名，AES，加密/解密.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 - [EOSEssentials/EOSDrops](https://github.com/EOSEssentials/EOSDrops) -EOSIO区块链的空投工具.
 - [Octopus](https://github.com/pventuzelo/octopus) -WebAssembly和区块链智能合约的安全分析工具（BTC / ETH / NEO / EOS）.
 - [greymass/eosio-resources](https://github.com/greymass/eosio-resources) -协助进行网络资源计算的工具.
 - [greymass/abi2core](https://github.com/greymass/abi2core) -命令行实用程序，可将ABI定义转换为灰度/ eosio类型定义.
-
-### Testnets
-
-- [The EOSIO Testnet](https://testnet.eos.io/)
-  - [EOSIO Testnet Launch](https://eos.io/news/eosio-testnet-launch/) - 文章.
-- [EOS Jungle Testnet](http://jungle.cryptolions.io/)
-  - [CryptoLions/EOS-Jungle-Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) -官方GitHub.
 
 ### Code examples
 
