@@ -31,10 +31,10 @@
 
 ## EdenOS
 
-EdenOS resources.
+EdenOS资源.
 
 - [Website](http://edeneos.org/) - 官方网站.
-- [eoscommunity/Eden](https://github.com/eoscommunity/Eden) -官方GitHub.
+- [eoscommunity](https://github.com/eoscommunity) -官方GitHub.
 - [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) -丹尼尔·拉里默（Daniel Larimer）着书.
 
 ## Learn
@@ -101,7 +101,7 @@ EOSIO学习资源.
 <!--lint disable awesome-spell-check-->
 - [EOSX](https://www.eosx.io/)  -区块浏览器. 支持各种侧链.
 <!--lint enable awesome-spell-check-->
-- [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) -投票代理浏览器.
+- [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
 
 ## Block Producers
 
@@ -128,6 +128,11 @@ EOSIO学习资源.
 - [CryptoKylin Testnet](https://www.cryptokylin.io/) -CryptoKylin Testnet是由一组EOS Mainnet块生产者维护的对开发人员友好的测试网.
 
 ### Libraries and Frameworks
+
+#### Core
+
+- [EOSIO/eos](https://github.com/EOSIO/eos) -官方EOSIO GitHub存储库.
+- [EOSIO/eos-vm](https://github.com/EOSIO/eos-vm) -低延迟，高性能和可扩展的WebAssembly后端库.
 
 #### API libraries
 
@@ -187,7 +192,7 @@ EOSIO学习资源.
 
 ### Code examples
 
-- [eosio.contracts](https://github.com/EOSIO/eosio.contracts) -提供EOSIO区块链的一些基本功能的智能合约.
+- [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) -提供EOSIO区块链的一些基本功能的智能合约.
 - [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) -Eosfinex交换智能合约.
   - [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - 文章.
 - [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) -演示了使用Java的EOSIO SDK与基于EOSIO的区块链集成的应用程序.

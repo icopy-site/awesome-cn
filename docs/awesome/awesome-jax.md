@@ -18,10 +18,11 @@
     - [Flax](https://raw.githubusercontent.com/google/flax) -以灵活性和清晰度为中心. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
     - [Haiku](https://raw.githubusercontent.com/deepmind/dm-haiku) -专注于简单性，由DeepMind的Sonnet作者创建. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
     - [Objax](https://raw.githubusercontent.com/google/objax) -具有类似于PyTorch的面向对象设计. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
-    - [Elegy](https://poets-ai.github.io/elegy/) - A framework-agnostic Trainer interface for the Jax ecosystem. Supports Flax, Haiku, and Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
+    - [Elegy](https://poets-ai.github.io/elegy/)  -用于Jax生态系统的与框架无关的Trainer界面. 支持亚麻，Haiku和Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
     - [Trax](https://raw.githubusercontent.com/google/trax) -“包含电池”的深度学习库专注于为常见工作负载提供解决方案. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://raw.githubusercontent.com/deepmind/jraph) -轻量级图神经网络库. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
     - [Neural Tangents](https://raw.githubusercontent.com/google/neural-tangents) -用于指定有限和_infinite_宽度的神经网络的高级API. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
+    - [HuggingFace](https://raw.githubusercontent.com/huggingface/transformers) -适用于各种自然语言任务（亚麻）的预训练变压器生态系统. <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
 - [NumPyro](https://raw.githubusercontent.com/pyro-ppl/numpyro) -基于Pyro库的概率编程. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
 - [Chex](https://raw.githubusercontent.com/deepmind/chex) -编写和测试可靠的JAX代码的实用程序. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
 - [Optax](https://raw.githubusercontent.com/deepmind/optax) -渐变处理和优化库. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
@@ -54,6 +55,7 @@
 - [FlaxVision](https://raw.githubusercontent.com/rolandgvc/flaxvision) -TorchVision的亚麻版. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 - [Oryx](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) -基于程序转换的概率编程语言.
 - [Optimal Transport Tools](https://github.com/google-research/ott) -捆绑实用程序以解决最佳运输问题的工具箱.
+- [delta PV](https://raw.githubusercontent.com/romanodev/deltapv) -具有自动区分功能的光伏模拟器. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 <a name="models-and-projects" />
 
@@ -85,7 +87,7 @@
 - [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) -中的JAX简介演示文稿 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) -通过演示演示TPU主机访问.
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) -Zico Kolter，David Duvenaud和Matt Matt在Colab笔记本中创建的教程 [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
-- [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) -包含Colab笔记本电脑的YouTube教程系列，分为四个部分，从Jax基础开始，然后逐步发展为在v3-32 TPU Pod切片上采用数据并行方法进行培训.
+- [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - A four part YouTube tutorial series with Colab notebooks that starts with Jax fundamentals and moves up to training with a data parallel approach on a v3-32 TPU Pod slice.
 
 <a name="papers" />
 
@@ -95,7 +97,7 @@
 
 <!--lint ignore awesome-list-item-->
 - [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) -白皮书描述了JAX的早期版本，详细介绍了如何跟踪和编译计算.
-- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) -引入了MDX JAX，这是一个可微分的物理库，其中包括仿真环境，交互电位，神经网络等.
+- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) -引入了MDX JAX，这是一个可区分的物理库，其中包括仿真环境，交互电位，神经网络等.
 - [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) -使用JAX的JIT和VMAP来实现比现有库更快的差异私有.
 <!--lint enable awesome-list-item-->
 
@@ -116,7 +118,7 @@
 - [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) -展示如何从类似PyTorch的编码样式转变为更具功能性的编码样式.
 - [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey](https://github.com/dfm/extending-jax) -教程演示了在JAX中提供自定义操作所需的基础结构.
 - [Evolving Neural Networks in JAX by Robert Tjarko Lange](https://roberttlange.github.io/posts/2021/02/cma-es-jax/) -探索JAX如何为下一代可伸缩神经进化算法提供支持.
-- [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) -演示如何使用JAX执行SGD和Momentum的内部损失优化，使用梯度的外部损失优化以及使用进化策略进行外部损失优化.
+- [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) -演示如何使用JAX进行SGD和Momentum的内部损失优化，使用梯度的外部损失优化以及使用进化策略进行外部损失优化.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) -使用JAX轻松，干净地实现自动差分变异推理（ADVI）.
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) -训练对不同分辨率的输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法确定特定损失的最佳组合.
 - [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/book1/supplements/jax_intro.ipynb) -Colab介绍了语言的各个方面，并将它们应用于简单的ML问题.
