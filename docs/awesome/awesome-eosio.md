@@ -35,7 +35,7 @@ EdenOS资源.
 
 - [Website](http://edeneos.org/) - 官方网站.
 - [eoscommunity](https://github.com/eoscommunity) -官方GitHub.
-- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) -丹尼尔·拉里默（Daniel Larimer）着书.
+- [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) -丹尼尔·拉里默（Daniel Larimer）着.
 
 ## Learn
 
@@ -45,10 +45,13 @@ EOSIO学习资源.
 
 - [Elemental Battles](https://battles.eos.io/)  -建立一个区块链游戏. 了解EOSIO.
   - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
-- [EOS GO](https://www.eosgo.io/)
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
+
+### Books
+
+- [Learn EOS Development](https://learneos.dev/) -EOS区块链上dapp的最新，深入，完整的指南.
 
 ### Courses, workshops, webinars, videos and others
 
@@ -101,7 +104,8 @@ EOSIO学习资源.
 <!--lint disable awesome-spell-check-->
 - [EOSX](https://www.eosx.io/)  -区块浏览器. 支持各种侧链.
 <!--lint enable awesome-spell-check-->
-- [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - Vote Proxy explorer.
+- [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) -投票代理浏览器.
+- [EOS GO](https://www.eosgo.io/)
 
 ## Block Producers
 
@@ -156,7 +160,7 @@ EOSIO学习资源.
 
 #### Authentication and Signing libraries
 
-- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) -一个允许应用轻松使用不同身份验证提供程序的库.
+- [EOSIO/universal-authenticator-library](https://github.com/EOSIO/universal-authenticator-library) -一个允许应用程序轻松使用不同身份验证提供程序的库.
   - [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - 文章.
 - [EOSIO/eosio-webauthn-example-app](https://github.com/EOSIO/eosio-webauthn-example-app) -演示通过WebAuthn进行EOSIO签名的示例Web应用程序.
   - [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - 文章.
@@ -181,7 +185,7 @@ EOSIO学习资源.
 ### Developer Tools
 
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) -EOSIO.CDT（合同开发工具包）是用于构建EOSIO合同的一套工具.
-- [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) -Ricardian合同规范的渲染器.
+- [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
 - [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) -EOSIO上的以太坊虚拟机.
 - [Elliptic curve cryptography functions (ECC)](https://github.com/EOSIO/eosjs-ecc) -私钥，公钥，签名，AES，加密/解密.
   - [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
@@ -216,6 +220,7 @@ EOSIO学习资源.
 
 ### Other in Developers
 
+- [Community Developer Tools](https://developers.eos.io/welcome/latest/community-developer-tools/index) -正式的EOSIO“社区开发人员工具”页面.
 - [cleos-auto-completion](https://github.com/hexlant/cleos-auto-completion) -EOSIO cleos的命令自动完成.
 - [EOS-Sync](https://github.com/EOSpace/eos-sync) -将EOSIO区块链数据同步到mongodb数据库.
 - [OracleChain/EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) -用于EOS性能测试的客户端工具.
@@ -226,8 +231,9 @@ EOSIO学习资源.
 ### Blogs
 
 - [Daniel Larimer](https://moreequalanimals.com/) -EOSIO创始人Daniel Larimer的博客.
-- [Blockgenic](https://medium.com/@blockgenic)  -Blockgenic博客，该公司专注于企业采用区块链技术. 学习资源.
 - [cc32d9](https://medium.com/@cc32d9) -cc32d9博客，EOSIO开发人员相关出版物.
+- [cmichel](https://cmichel.io/categories/EOS) -Christoph Michel博客，EOSIO开发人员相关出版物.
+- [Blockgenic](https://medium.com/@blockgenic)  -Blockgenic博客，该公司专注于企业采用区块链技术. 学习资源.
 - [Dallas Rushing](https://steemit.com/@dallasrushing) -EOSIO用户相关内容Dallas Rushing的博客.
 - [Iang](https://steemit.com/@iang) -Iang的博客，EOSIO用户和开发人员相关的内容.
 - [EOS Canada](https://steemit.com/@eos-canada) -EOS Canada博客，与用户相关的内容和视频.

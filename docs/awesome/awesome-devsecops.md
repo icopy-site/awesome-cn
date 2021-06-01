@@ -29,7 +29,7 @@
 
 ### Communities
 
-- [MyDevSecOps](https://www.mydevsecops.io/) -_Snyk_-一个运行会议，博客，播客和专用于DevSecOps的Slack工作区的社区.
+- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
 
 ### Conferences
 
@@ -38,7 +38,7 @@
 
 ### Podcasts
 
-- [Absolute AppSec](https://absoluteappsec.com/) - _Seth Law & Ken Johnson_ - Discussions about current events and specific topics related to application security.
+- [Absolute AppSec](https://absoluteappsec.com/) -_Seth Law＆Ken Johnson_-有关当前事件和与应用程序安全性相关的特定主题的讨论.
 - [Application Security Podcast](https://podcast.securityjourney.com/) -_安全之旅_-与行业专家就特定的应用程序安全性概念进行访谈.
 - [BeerSecOps](https://blog.aquasec.com/devsecops-podcasts) -_Aqua Security_-打破了开发，安全和运营的孤岛，讨论了涵盖这些主题领域的主题.
 - [DevSecOps Podcast Series](https://soundcloud.com/owasp-podcast) -_OWASP_-与思想领袖和实践者进行的讨论，旨在将安全性集成到开发生命周期中.
@@ -88,7 +88,7 @@
 
 开源软件包通过允许开发人员无需编写所有代码即可实现功能，从而可以加快开发过程. 但是，开放源代码附带了开放源漏洞. 依赖性管理工具通过识别和更新具有已知漏洞的程序包来帮助管理开源程序包中的漏洞.
 
-- [Dependabot](https://dependabot.com/) -_GitHub_-自动扫描GitHub信息库中的漏洞，并创建合并请求中的合并请求.
+- [Dependabot](https://dependabot.com/) -_GitHub_-自动扫描GitHub存储库中的漏洞，并创建合并请求中的合并请求.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
 - [Dependency-Track](https://dependencytrack.org/) -_OWASP_-随着时间的推移，监视多个项目中易受依赖项的数量和严重性.
 - [JFrog XRay](https://jfrog.com/xray/) -_JFrog_-对JFrog Artifactory中存储的工件的安全性和合规性分析.
@@ -152,13 +152,13 @@
 - [Bad SSL](https://github.com/chromium/badssl.com)  -_The Chromium Project_-一个运行许多Web服务器的容器，这些Web服务器的SSL / TLS配置不佳. 对于测试工具很有用.
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat)  -_Bridgecrew_-云形成模板，用于在AWS中创建故意不安全的服务堆栈. 作为上面的代码分析工具，测试Cloud Forming Infrastructure的理想选择.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) -_Ryan Dewhurst_-一个Web应用程序，它提供了一个安全的环境来理解和利用常见的Web漏洞.
-- [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
+- [Juice Shop](https://github.com/bkimminich/juice-shop) -_OWASP_-包含OWASP十大安全漏洞及更多内容的Web应用程序.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) -_OWASP_-一个Node.js Web应用程序，用于演示并提供解决常见安全漏洞的方法.
 - [Terragoat](https://github.com/bridgecrewio/terragoat)  -_Bridgecrew_-Terraform模板，用于在AWS，Azure和GCP中创建故意不安全的服务堆栈. 非常适合作为上述代码分析工具来测试Terraform基础结构.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) -_OWASP_-出于学习目的的易受攻击的Web应用程序的集合.
 
 ### Monitoring
-It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
+仅在发布之前测试和加强我们的软件是不够的. 我们还必须监控生产软件的使用，性能和错误，以捕获恶意行为和我们可能需要响应或解决的潜在安全缺陷. 各种各样的工具可用于监视生产软件和基础结构的不同方面.
 
 - [Csper](https://csper.io/report-uri) -_Csper_-一组内容安全策略工具，可以测试策略，监视CSP报告以及提供指标和警报.
 
@@ -182,6 +182,7 @@ It's not enough to test and harden our software in the lead up to a release. We 
 - [HashiCorp Vault](https://www.vaultproject.io/) -_HashiCorp_-通过UI，CLI或HTTP API安全存储机密.
 - [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核秘密.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) -_Mozilla_-加密存储在YAML，JSON，ENV，INI和BINARY文件中的密钥.
+- [Teller](https://github.com/spectralops/teller) -_Spectral_-开发人员的机密管理工具-切勿在命令行中输入机密信息.
 
 ### Secrets Scanning
 
@@ -189,10 +190,11 @@ It's not enough to test and harden our software in the lead up to a release. We 
 
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) -_Microsoft_-可以作为任务在Azure DevOps管道中运行的凭据扫描工具.
 - [GitGuardian](https://www.gitguardian.com/) -_GitGuardian_-一种基于Web的解决方案，可扫描和监视公共和私有git存储库中的秘密.
-- [Gitleaks](https://github.com/zricethezav/gitleaks) -_Zachary Rice_-Gitleaks是一种SAST工具，用于检测git存储库中的硬编码机密，例如密码，api密钥和令牌.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) -_Zachary Rice_-Gitleaks是一个SAST工具，用于检测git存储库中的硬编码机密，例如密码，api密钥和令牌.
 - [git-secrets](https://github.com/awslabs/git-secrets)  -_AWS Labs_-扫描提交，提交消息并合并秘密. 对AWS秘密模式的本机支持，但可以配置为支持其他模式.
 - [Nightfall](https://nightfall.ai/solutions/product/github) -_Nightfall_-一个基于Web的平台，可监视多个SDLC工具（包括GitHub存储库）中敏感数据的泄露.
 - [Repo-supervisor](https://github.com/auth0/repo-supervisor) -_Auth0_-可作为CLI，Docker容器或AWS Lambda运行的秘密扫描工具.
+- [SpectralOps](https://spectralops.io) -_Spectral_-自动化的代码安全性，机密，令牌和敏感数据扫描.
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) -_Truffle安全性--在git存储库中搜索秘密，深入挖掘提交历史记录和分支.
 
 ### Static Analysis
@@ -206,7 +208,7 @@ It's not enough to test and harden our software in the lead up to a release. We 
 - [Graudit](https://github.com/wireghoul/graudit/) -_Eldar Marcussen_-Grep源代码，用于带有自定义或预配置正则表达式签名的潜在安全漏洞.
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) -_Hawkeyesec_-用于项目安全性，漏洞和一般风险突出显示的模块化CLI工具.
 - [LGTM](https://lgtm.com/) -_Semmle_-使用自定义或内置CodeQL查询来扫描和监视代码中的安全漏洞.
-- [RIPS](https://www.ripstech.com/) -_RIPS Technologies_-针对PHP，Java和Node.js项目的自动化静态分析.
+- [RIPS](https://www.ripstech.com/) - _RIPS Technologies_ - Automated static analysis for PHP, Java and Node.js projects.
 - [SemGrep](https://semgrep.dev/) -_r2c_-Semgrep是一种快速，开源的静态分析工具，可在编辑，提交和CI时发现错误并强制执行代码标准.
 - [SonarLint](https://www.sonarlint.org/) -_SonarSource_-一个IDE插件，突出显示了潜在的安全性安全问题，代码质量问题和错误. 
 - [SonarQube](https://www.sonarqube.org/) -_SonarSource_-扫描代码以发现安全性和质量问题，并支持多种语言.
@@ -265,9 +267,17 @@ It's not enough to test and harden our software in the lead up to a release. We 
 - [Brakeman](https://github.com/presidentbeef/brakeman) -_Justin Collins_-静态分析工具，用于检查Ruby on Rails应用程序中的安全漏洞.
 - [DawnScanner](https://github.com/thesp0nge/dawnscanner)  -_Paolo Perego_-Ruby脚本和Web应用程序的安全扫描. 支持Ruby on Rails，Sinatra和Padrino框架.
 
+
+### Supply Chain Security
+
+供应链攻击有不同的形式，以SDLC固有的第三部分为目标：CI中的工具，已执行的外部代码等. 供应链安全工具可以抵御此类攻击.
+
+- [Preflight](https://github.com/spectralops/preflight) -_Spectral_-帮助您验证脚本和可执行文件以缓解CI和其他系统中的供应链攻击，例如最近 [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+
+
 ### Threat Modelling
 
-威胁建模是一项工程实践，旨在识别威胁，漏洞和攻击媒介，这些威胁，脆弱性和攻击媒介构成了有价证券的风险. 基于对威胁的了解，我们可以设计，实施和验证安全控制措施以缓解威胁. 以下工具列表可协助进行威胁建模.
+威胁建模是一项工程实践，旨在识别威胁，漏洞和攻击媒介，这些威胁，脆弱性和攻击媒介构成了有价证券的风险. 基于对威胁的了解，我们可以设计，实施和验证安全控制以减轻威胁. 以下工具列表可协助进行威胁建模.
 
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) -_Practical DevSecOps_-威胁建模资源的精选列表.
 - [SecuriCAD](https://www.foreseeti.com/) -_Forseeti_-处理IT基础架构的建模和攻击模拟.

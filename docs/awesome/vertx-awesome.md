@@ -44,13 +44,13 @@
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) -用于JVM的实时客户端服务器框架，支持WebSocket和具有跨浏览器后备功能的服务器发送事件.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) -在Vert.x上运行View应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) -允许您仅使用路由处理程序注释即可快速轻松地设置支持Vert.x的服务器.
-* [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，设计用于构建模块化的，易于测试的JVM应用程序，并支持Java，Kotlin语言，这些语言是根据最佳的Java库和标准精制而成.
+* [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，设计用于构建模块化的，易于测试的JVM应用程序，并支持Java，Kotlin语言，这些语言是根据最佳的Java库和标准精制而成的.
 * [Donkey](https://github.com/AppsFlyer/donkey) -为简化易用性和性能而构建的现代Clojure HTTP服务器和客户端.
 
 ## Authentication Authorisation
 
 
-* [Vert.x-Pac4j](https://github.com/pac4j/vertx-pac4j) -使用以下工具实施Vert.x身份验证/授权 [pac4j](http://www.pac4j.org/).
+* [Vert.x-Pac4j](https://github.com/pac4j/vertx-pac4j) -Vert.x身份验证/授权使用 [pac4j](http://www.pac4j.org/).
 
 ## Database Clients
 
@@ -76,7 +76,7 @@
   * [SirixDB](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) -非阻塞SirixDB HTTP服务器.
   * [DGraph](https://github.com/aesteve/vertx-dgraph-client)  -有关如何构建Vert.x gRPC兼容客户端的示例. 此处定位 [dgraph](https://dgraph.io)
   * [RxFirestore](https://github.com/pjgg/rxfirestore) -以反应方式编写的非阻塞Firestore SDK.
-  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) -在之上具有纯功能性和反应性的MongoDB客户端 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect) . 全面支持重试，后备和恢复操作.
+  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) -顶级的纯功能性和反应性MongoDB客户端 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect) . 全面支持重试，后备和恢复操作.
 
 * [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) -MySQL和MongoDB的非阻塞POJO映射.
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) -一个Vert.x客户端，用于接入MySQL复制流.
@@ -143,7 +143,7 @@
 
 ## Middleware
 
-* [Apache Camel](https://github.com/apache/camel/blob/master/components/camel-vertx/src/main/docs/vertx-component.adoc) - [Apache Camel](http://camel.apache.org/) 使用Vert.x事件总线桥接Camel的组件.
+* [Apache Camel](https://github.com/apache/camel/blob/master/components/camel-vertx/src/main/docs/vertx-component.adoc) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
 * [Gateleen](https://github.com/swisspush/gateleen) -基于Vert.x的中间件库，用于构建高级JSON / REST通信服务器.
 * [Gravitee.io](https://gravitee.io) -OSS API平台，包括基于Vert.x Core / Vert.x Web和其他模块的API网关和OAuth2 / OIDC授权服务器.
 * [API Framework](https://github.com/vinscom/api-framework)  -基于Vert.x和Glue的微服务框架，消除了独立应用程序和无服务应用程序之间的区别. 所有服务都可以在独立服务器上运行，但是，如果需要，可以将相同的代码库用作无服务器应用程序来运行任何服务.
@@ -187,9 +187,13 @@
 * [C](https://github.com/jaymine/TCP-eventbus-client-C) -使用 [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [Go](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)-使用 [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 * [Smalltalk](https://github.com/mumez/VerStix)-的事件总线客户端 [Pharo Smalltalk](http://pharo.org/) 使用 [TCP-based protocol](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-* [Java](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) -通过Java代码在JavaScript中支持事件总线.
+* [Java](https://github.com/nielsbaloe/vertxui/tree/master/vertxui-core/src/main/java/live/connector/vertxui/client/transport) - Event bus support in JavaScript through Java code.
 * [Elixir](https://github.com/PharosProduction/ExVertx) -使用TCP套接字的Elixir应用程序的事件总线支持.
 * [Rust](https://github.com/aesteve/vertx-eventbus-client-rs) -用于通过TCP的Rust应用程序的事件总线客户端.
+
+## Vert.x Event Bus Extensions
+
+* [Eventbus Service](https://github.com/wowselim/eventbus-service) -代码生成器，用于通过简单的Kotlin接口进行类型安全的事件总线通信.
 
 ## Cluster Managers
 
@@ -212,7 +216,7 @@
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的Vert.x微服务.
 * [Resilience4j](https://github.com/resilience4j/resilience4j)  -Resilience4j是为Java8和功能编程设计的容错库.  Resilience4j提供了用于断路，速率限制，隔离，自动重试，响应缓存和度量标准测量的模块.
 * [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包. 利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
-* [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) -ServiceComb Java Chassis是一个软件开发套件（SDK），用于在Java中快速开发微服务，提供服务注册，服务发现，动态路由和服务管理功能.
+* [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) ServiceComb Java Chassis是一个软件开发套件（SDK），用于在Java中快速开发微服务，提供服务注册，服务发现，动态路由和服务管理功能.
 
 ## Search Engines
 
@@ -242,7 +246,7 @@
 * [Vert.x Beans](https://github.com/rworsnop/vertx-beans) -将Vert.x对象作为bean注入到Spring应用程序中.
 * [QBit](https://github.com/advantageous/qbit)  -QBit可用于Spring DI和Spring Boot（当然还有Vert.x）. 允许您在同一应用程序中使用QBit，Vert.x，Spring DI和Spring Boot.
 * [Vert.x Eclipse SISU](https://github.com/cstamas/vertx-sisu) -与Vert.x集成 [Eclipse SISU](https://www.eclipse.org/sisu/) DI container.
-* [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) - A Vert.x Verticle Factory that makes use of Spring to obtain and configure Verticles.
+* [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) -Vert.x Verticle工厂，该工厂利用Spring获取和配置Verticles.
 * [Glue](https://github.com/vinscom/glue)  -成熟的，经过验证的编程以及基于Java和Vert.x的应用程序的配置模型. 受到ATG Nucleus的启发，它使用简单的属性文件提供了功能强大的基于图层的配置管理.
 
 ## Testing
@@ -257,7 +261,7 @@
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet)  -用于Vert.x的Visual Studio代码（多语言）插件. 也可以从 [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
 * [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) -基于浏览器的Vert.x应用程序的项目启动器和项目模板.
 * [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) -用于Vert.x应用程序的简单livereload服务器.
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) -OpenAPI Generator可以根据给定的OpenAPI规范（v2，v3）自动生成API客户端库（SDK生成），服务器存根，文档和配置.
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) -OpenAPI Generator可根据给定的OpenAPI规范（v2，v3）自动生成API客户端库（SDK生成），服务器存根，文档和配置.
 
 ## Miscellaneous
 
@@ -272,7 +276,7 @@
 
 ## Examples
 
-* [Vert.x feeds](https://github.com/aesteve/vertx-feeds) -使用Vert.x，Gradle，MongoDB，Redis，Handlebars模板，AngularJS，事件总线和SockJS构建的RSS聚合器的示例.
+* [Vert.x feeds](https://github.com/aesteve/vertx-feeds) -使用Vert.x，Gradle，MongoDB，Redis，Handlebars模板，AngularJS，事件总线和SockJS构建的RSS聚合器示例.
 * [Vert.x Markdown service](https://github.com/aesteve/vertx-markdown-service) -使用方法示例 [service-proxy](https://github.com/vert-x3/vertx-service-proxy) 与摇篮.
 * [Example using event bus and service proxies to connect vertx and node](https://github.com/advantageous/vertx-node-ec2-eventbus-example) -带有Wiki描述的分步示例，显示了如何使用事件总线和服务代理连接Vert.x和Node.
 * [Vert.x Todo-Backend implementation](https://github.com/aesteve/todo-backend-vertx)  -Todo MVC后端的纯Java 8实现. 使用Vert.x LocalMap进行存储.
@@ -287,7 +291,7 @@
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) -使用Vert.x堆栈和PostgreSQL构建整体CRUD RESTful Web服务的入门者.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) -示例Vert.x，用于部署到 [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
 * [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) -有关如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 和 [Knative](https://github.com/knative).
-* [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) -REST API Starter和Project模板准备就绪，可以使用大量管道代码，示例和文档进行部署，从而几乎不需要vert.x即可快速开发API，并且不会浪费任何时间.
+* [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) -REST API Starter和Project模板准备就绪，可以使用大量管道代码，示例和文档进行部署，从而在几乎不了解vert.x的情况下快速开发API，而不会浪费任何时间.
 ## Deployment
 
 * [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) -（无缝）部署到基于AWS的Vert.x应用程序集群.
@@ -306,7 +310,7 @@
 * [Vert.x Util](https://github.com/juanavelez/vertx-util) -Vert.x实用程序方法的集合.
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) -只需在Vert.x Web中使用一个简单的处理程序即可生成访问日志.
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) -路由处理程序和Vert.x兼容的接口，用于处理Vert.x和Vert.x Web中的GraphQL查询.
-* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，其中包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.
+* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.
 * [Contextual logging](https://github.com/reactiverse/reactiverse-contextual-logging) -与Vert.x事件循环模型一起使用的映射诊断上下文（MDC）.
 
 ## Presentations
@@ -321,7 +325,7 @@
 - [Issues](https://github.com/vert-x3/issues/issues) -Vert.x核心问题跟踪器.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) -包含有关Vert.x的有用信息.
 - [Blog](http://vertx.io/blog/) -官方的Vert.x博客，其中包含许多教程和其他信息.
-- [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) - A list of 2017 Vert.x talks and presentations.
+- [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) -2017 Vert.x演讲和演示的列表.
 
 ## Articles
 

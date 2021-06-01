@@ -6,7 +6,7 @@
 
 Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且安全的运行时.
 
-此列表是最好的Deno模块和资源的集合.
+该列表是最好的Deno模块和资源的集合.
 
 
 
@@ -102,6 +102,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [unexpected](https://github.com/unexpectedjs/unexpected) -可扩展的BDD断言工具包.
 
 ### Utils
+- [buckets](https://github.com/jacoborus/deno-buckets) -将资产和脚本捆绑在一个可执行文件中.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) -格式化字节（Uint8Array，ArrayBufferView等）输出，在调试IO功能时很有用.
 - [coffee](https://github.com/irandeno/coffee) -Deno配置-一种类型安全，易于使用的Deno配置管理器.
 - [computed_types](https://github.com/neuledge/computed-types) -Joi喜欢Typescript和Deno的验证器.
@@ -239,7 +240,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [starter](https://github.com/denorg/starter) -带有GitHub Actions CI的Deno模块入门模板
 - [task-runner](https://github.com/jinjor/deno-task-runner) -像npm脚本一样编写任务.
-- [trex](https://github.com/crewdevio/Trex) -像npm的deno一样的软件包管理.
+- [trex](https://github.com/crewdevio/Trex) -像npm一样的deno软件包管理.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) -Deno语言服务插件，在编辑器内的TypeScript文件中提供智能感知.
 - [udd](https://github.com/hayd/deno-udd) -更新Deno依赖项：将导入语句更新为最新发布的版本.
 - [velociraptor](https://github.com/umbopepato/velociraptor) -Deno的npm风格脚本执行器.

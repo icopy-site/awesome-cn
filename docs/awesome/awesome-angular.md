@@ -35,7 +35,7 @@
 #### Community
 
 * `#angular2` channel on Freenode IRC Server
-* [`#angular`](https://twitter.com/hashtag/angular) Twitter上的主题标签
+* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
@@ -48,6 +48,7 @@
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) 在AngularBuddies上
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) 在dartlang.slack.com（[Sign up](https://dartlang-slack.herokuapp.com/))
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
+* [评分最高的Angular Stackoverflow问题仪表板]（https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/）
 
 #### Angular Team on twitter
 
@@ -340,7 +341,7 @@ WebWorker中的大多数核心角度框架.
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托·格奥尔基耶夫
+*赫里斯托·乔治·耶夫（Hristo Georgiev）
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -445,7 +446,7 @@ WebWorker中的大多数核心角度框架.
 
 #### Auth Components
 
-* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL](https://github.com/stalniy/casl) 使用Angular2 +
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) -集成同构权限管理库的模块 [CASL](https://github.com/stalniy/casl) 使用Angular2 +
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission)  -为您的Angle 4+应用程序提供功能齐全的基于权限的访问控制. 这个模块的灵感来自 [`angular-permission`](https://github.com/Narzerus/angular-permission).
 * [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) -用于“ firebase”身份验证的Angular Material UI组件
 * [ngx-auth](https://github.com/fulls1z3/ngx-auth) -通过@ fulls1z3用于Angular的身份验证实用程序
@@ -511,7 +512,7 @@ WebWorker中的大多数核心角度框架.
 * [ng2-select](https://github.com/valor-software/ng2-select) 基于Angular2的选择框替换
 * [ngx-color](https://github.com/scttcper/ngx-color) -来自Sketch，Photoshop，Chrome，Github，Twitter等的拾色器
 * [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) -用于Angular X（4+）的信用卡指令和表单验证程序包.
-* [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) -可定制的Angular组件，其中包含带有国家标志的下拉菜单
+* [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
 * [ngx-flexible-select](https://github.com/andreysyagrovskiy/ngx-flexible-select) -最灵活和自定义的选择
 * [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) -基于json输入的任意级别的角递归形式.
 
@@ -536,7 +537,7 @@ WebWorker中的大多数核心角度框架.
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) -Angular2的无限滚动指令（基于Observables）
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) -根据各种布局类型（例如Angular的砖石结构）排列无限的纸牌元素.
 * [ng2-card](https://github.com/c-bata/ng2-card) -Angular2的卡片视图组件
-* [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
+* [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) 基于fullPage.js的Angular2的全页滚动
 * [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components将您的组件添加到工作表窗口中并反复
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) -Angular2的可刷卡组件
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop)  -轻巧，受材料设计启发的**按钮，可滚动至页面顶部**.  _没有依赖项.  Pure Angular！_（兼容性：Angular 9，Ivy，Universal，`ng add`）
@@ -623,7 +624,7 @@ WebWorker中的大多数核心角度框架.
 * [@angular-material-extensions/contacts](https://github.com/angular-material-extensions/contacts) -Angular Library通过材料设计来管理联系人和用户
 * [@angular-material-extensions/faq](https://github.com/angular-material-extensions/faq)  -使用材料设计构建的Angular Library，以便为每个项目提供可重复使用的常见问题（常见问题）组件. 询问，回答和列出
 * [@angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) -带有角材料设计的Google地图的“自动完成”输入组件和指令
-* [@angular-material-extensions/link-preview](https://github.com/angular-material-extensions/link-preview) -Angular开源UI库可预览Web链接
+* [@angular-material-extensions/link-preview](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
 * [@angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) -Angular UI库，用于说明和验证材质设计中“密码”的强度
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) 具有材料设计的高级角组件.
 * [Covalent](https://teradata.github.io/covalent/) -基于Angular 2.0 + Material Design构建的UI平台
@@ -640,7 +641,7 @@ WebWorker中的大多数核心角度框架.
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) 对Bootstrap使用Angular 2指令进行实验.
 * [ng2-modal](https://github.com/pleerock/ngx-modal) angular2和bootstrap 3的模态窗口
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) angular2和bootstrap 3的分页控制
-* [ng2-tabs](https://github.com/pleerock/ngx-tabs) Angular2和Bootstrap 3的选项卡控件
+* [ng2-tabs](https://github.com/pleerock/ngx-tabs) Angular2和Bootstrap 3的Tabs控件
 
 #### UX Components
 
@@ -667,8 +668,9 @@ WebWorker中的大多数核心角度框架.
 * [ng-wormhole](https://github.com/topaxi/ng-wormhole) -在DOM中的其他地方渲染组件
 * [ng2-adsense](https://github.com/scttcper/ng2-adsense) -简易AdSense for Angular应用程序
 * [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) -虚拟形象组件，可以根据您拥有的有关用户的信息来生成/获取虚拟形象.
-* [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
+* [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) -用于监视角度变化检测性能的库.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) -简单，轻松，性能倒计时
+* [@ngneat/transloco](https://github.com/ngneat/transloco) -Angular的国际化（i18n）库
 * [ngx-i18n-router](https://github.com/fulls1z3/ngx-i18n-router) -@ fulls1z3的Angular路由国际化实用程序
 * [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) -用于linkifyjs的Angular V6包装器-用于以纯文本查找链接并将其<a>通过linkifyjs</a>转换为HTML<a>标签的库</a>
 * [ngx-meta](https://github.com/fulls1z3/ngx-meta) -@ fulls1z3提供的用于Angular（带有服务器端渲染）的动态页面标题和元标签实用程序
@@ -694,7 +696,7 @@ WebWorker中的大多数核心角度框架.
 #### Universal Seed Projects
 
 * [universal-starter](https://github.com/angular/universal-starter) -@ Angular-Class的Angular 2通用入门套件
-* [ng-seed/universal](https://github.com/ng-seed/universal) -用于Angular Universal应用程序的种子项目，其功能包括@ fulls1z3
+* [ng-seed/universal](https://github.com/ng-seed/universal) -Angular Universal应用程序的种子项目，其中包含服务器端渲染（SSR），Webpack，开发/生产模式，DLL，AoT编译，HMR，SCSS编译，延迟加载，配置，缓存，i18n，SEO和TSLint / codelyzer fulls1z3
 * [angular-universal](https://github.com/enten/angular-universal) -Angular CLI支持的适用于Angular Universal 100％的快速，不受限制的极简主义入门套件
 * [angular-universal-heroku-starter](https://github.com/Alex61NN5/angular-universal-heroku-starter) -具有服务器端渲染（SSR）的Angular 7通用入门套件，可轻松部署到Heroku
 ---
@@ -725,14 +727,14 @@ WebWorker中的大多数核心角度框架.
 * [Angular 2 MapboxGL Starter](https://github.com/haoliangyu/ngx-mapboxgl-starter) -另一个基于Angular 2和MapboxGL JS的地图应用入门
 * [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) -使用2路或1路重新连接网络套接字通信的简单计数器
 * [ng2-start](https://github.com/cebor/ng2-start) -最小设置以开始创建angular2应用程序
-* [ng-kitchen-sink](https://github.com/born2net/Angular-kitchen-sink) -最终的Angular 2引导程序单页应用程序-涉及Angular的所有关键和高级方面
+* [ng-kitchen-sink](https://github.com/born2net/Angular-kitchen-sink) -最终的Angular 2引导单页应用程序-涉及Angular的所有关键和高级方面
 * [ng-skeleton](https://github.com/born2net/ng-skeleton) -具有ngrx，引导程序和两因素身份验证的终极Angular种子
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) 使用TypeScript / Sass / Npm任务的最小Angular2演示
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) -准备使用基于Angular 2和AdminLTE引导主题的仪表板控制面板种子项目.
 * [ngx-admin](https://github.com/akveo/ngx-admin) -基于Nebular框架（Angular 4 +，Bootstrap 4+）的管理模板
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) -使用Angular2最终版本（2.1.0）为您的代码准备了经过固体测试的SystemJS和gulp工作流程，演示了此单元
-  and full code coverage
+  和完整的代码覆盖率
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) -使用Webpack构建的Tour of Heroes官方打字稿教程
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) -配置了Angular2，TypeScript和Webpack的简单入门工具.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) -具有AoT编译，延迟加载和摇树功能的Angular Webpack Starter
@@ -745,7 +747,7 @@ WebWorker中的大多数核心角度框架.
 * [Angular5 + Redux + Graphql + MySQL quickstart](https://github.com/rafaesc/fullstack-graphql-angular) -具有Angular CLI + Redux + Express + GraphQL + Sequelize的简单全栈GraphQL应用程序（支持MySQL，Postgres，Sqlite和MSSQL）.
 * [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) -Angular 5 + Firebase +一个非常好的路由器/模块结构，使您自己变得如此简单
 * [angular-app-example](https://github.com/daixianceng/angular-app-example) -最新的Angular +材质+ Sass主题+更漂亮的功能，仪表板应用程序示例
-* [NG-MATERO](https://github.com/ng-matero/ng-matero) -此Ng-Matero是用Material组件制成的Angular管理模板.
+* [NG-MATERO](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
 * [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) -用于为Angular创建开源库的入门项目
 * [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) -完整的Angular 10，NgRx，Angular CLI和Angular Material入门项目
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
@@ -806,7 +808,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 ### Angular 2 in Traceur
 
-&gt; Traceur是JavaScript.next-to-to-day-to-day编译器
+> Traceur is a JavaScript.next-to-JavaScript-of-today compiler
 
 #### Traceur General Resources
 
@@ -835,7 +837,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不是依赖于平台特定�
 
 #### Babel Seed Projects
 
-* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) 使用内置的Angular 2骨架应用 [Babel](https://babeljs.io/) 和 [Browserify](http://browserify.org/).
+* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) 使用以下框架构建的Angular 2骨架应用程序 [Babel](https://babeljs.io/) 和 [Browserify](http://browserify.org/).
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) 使用Webpack / Babel构建的全栈骨架Angular 2应用程序.
 * [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) 使用Babel，Webpack和Gulp构建的Angular 2 ES6骨架应用程序.
 * [angular-babel-seed](https://github.com/rbnlffl/angular-babel-seed) 带有ES6的超级简单的Angular快速入门

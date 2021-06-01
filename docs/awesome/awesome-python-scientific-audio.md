@@ -33,13 +33,14 @@
 * [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat:](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) -非平稳gabor变换，常数q.
 * [matchering](https://github.com/sergree/matchering) [:octocat:](https://github.com/sergree/matchering) [:package:](https://pypi.org/project/matchering/) -自动参考音频母带制作.
 * [MDCT](https://github.com/nils-werner/mdct) [:octocat:](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) -MDCT转换.
-* [pydub](http://pydub.com) [:octocat:](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) -通过简单易用的高级界面处理音频.
+* [pydub](http://pydub.com) [:octocat:](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](http://tftb.nongnu.org) [:octocat:](https://github.com/scikit-signal/pytftb) -MATLAB时间频率工具箱的实现.
 * [pyroomacoustics](https://github.com/LCAV/pyroomacoustics) [:octocat:](https://github.com/LCAV/pyroomacoustics) [:package:](https://pypi.python.org/pypi/pyroomacoustics) -室内声学模拟（RIR发生器）
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat:](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) -包装 [rubberband](http://breakfastquay.com/rubberband/) 进行音调转换和时间拉伸.
 * [PyWavelets](http://pywavelets.readthedocs.io) [:octocat:](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) -Python中的离散小波变换.
 * [Resampy](http://resampy.readthedocs.io) [:octocat:](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) -采样率转换.
 * [SFS-Python](http://www.sfstoolbox.org) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) -声场综合工具箱.
+* [sound_field_analysis](https://appliedacousticschalmers.github.io/sound_field_analysis-py/) [:octocat:](https://github.com/AppliedAcousticsChalmers/sound_field_analysis-py) [:package:](https://pypi.org/project/sound-field-analysis/) -分析，可视化和处理由球形麦克风阵列记录的声场数据.
 * [STFT](http://stft.readthedocs.io) [:octocat:](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) -短时傅立叶变换的独立程序包.
 
 #### Feature extraction
@@ -119,6 +120,7 @@
 * [Jupylet](https://github.com/nir/jupylet) [:octocat:](https://github.com/nir/jupylet) -减法，加法，FM和基于样本的声音合成.
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) [:octocat:](https://github.com/belangeo/pyo) -实时音频dsp引擎.
 * [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) -PortAudio包装器通过NumPy提供实时音频I / O.
+* [ReTiSAR](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat:](https://github.com/AppliedAcousticsChalmers/ReTiSAR) -流或基于IR的高阶球形麦克风阵列信号的二进制渲染.
 
 #### Web Audio
 
@@ -130,7 +132,7 @@
 * [musdb](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) -解析并处理MUSDB18数据集.
 * [medleydb](http://medleydb.readthedocs.io) [:octocat:](https://github.com/marl/medleydb) -解析 [medleydb](http://medleydb.weebly.com/) 音频和注释.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat:](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) -包装 [Soundcloud API](https://developers.soundcloud.com/).
-* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) -下载youtube视频（和音频）.
 * [audiomate](https://github.com/ynop/audiomate) [:octocat:](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) -加载不同类型的音频数据集.
 * [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat:](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) -音乐信息检索（MIR）数据集的通用加载器.
 #### Wrappers for Audio Plugins

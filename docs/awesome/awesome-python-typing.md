@@ -38,6 +38,7 @@
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) -存根 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) -存根 [grpc](https://github.com/grpc/grpc).
 - [boto3-stubs](https://github.com/vemel/mypy_boto3_builder) -存根 [boto3](https://github.com/boto/boto3).
+- [botostubs](https://github.com/jeshan/botostubs) -为您提供任何IDE中任何boto3 API的代码帮助.
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) -存根 [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 - [lxml-stubs](https://github.com/lxml/lxml-stubs) -存根 [lxml](https://lxml.de).
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) -存根 [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
@@ -59,7 +60,7 @@
 
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最自以为是的python linter.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) -用于集成mypy的flake8插件.
-- [flake8-pyi](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+- [flake8-pyi](https://github.com/ambv/flake8-pyi) -Flake8插件，提供类型提示存根文件的专业化功能.
 - [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) -flake8插件，用于验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) -flake8插件，用于检查函数定义中是否存在类型注释.
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) -用于检查输入导入是否受到适当保护的插件.
@@ -79,6 +80,7 @@
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) -将经过mypy注释的静态类型的Python模块编译为CPython C扩展.
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) -Typeing_inspect模块定义了实验性API，用于对Python标准键入模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) -用于处理类型化对象和JSON的库.
+- [com2ann](https://github.com/ilevkivskyi/com2ann) -在Python中将类型注释转换为类型注释的工具.
 
 ### Helper tools to add annotations to existing code
 
@@ -136,7 +138,7 @@
 
 ### Python docs
 
-- [typing](https://docs.python.org/3/library/typing.html) -支持类型提示.
+- [typing](https://docs.python.org/3/library/typing.html) - Support for type hints.
 
 ### Tools' docs
 
