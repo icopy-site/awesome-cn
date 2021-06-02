@@ -11,7 +11,7 @@
   EOSIO软件使企业能够快速构建和部署高性能和高安全性的基于区块链的应用程序.
 </p>
 
-<p>欢迎捐款. 通过拉取请求添加链接或创建问题以开始讨论. 请先阅读<a href="https://github.com/DanailMinchev/awesome-eosio/blob/main/contributing.md">贡献准则</a>.</p>
+<p>欢迎投稿. 通过拉取请求添加链接或创建问题以开始讨论. 请先阅读<a href="https://github.com/DanailMinchev/awesome-eosio/blob/main/contributing.md">贡献准则</a>.</p>
 
 
 
@@ -24,14 +24,13 @@
 - [Technical White Paper](https://github.com/EOSIO/Documentation)
 - [Bug Bounty Program](https://hackerone.com/eosio)
 - [Blog](https://medium.com/eosio)
-- [Developer Portal](https://developers.eos.io/)
 - [StackExchange for Q&A](https://eosio.stackexchange.com/)
 - [YouTube](https://www.youtube.com/c/eosio)
 - [Block.one](https://block.one/)
 
 ## EdenOS
 
-EdenOS资源.
+EdenOS 资源.
 
 - [Website](http://edeneos.org/) - 官方网站.
 - [eoscommunity](https://github.com/eoscommunity) -官方GitHub.
@@ -43,8 +42,7 @@ EOSIO学习资源.
 
 ### Websites
 
-- [Elemental Battles](https://battles.eos.io/)  -建立一个区块链游戏. 了解EOSIO.
-  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
+- [EOSIO Developer Portal](https://developers.eos.io/) - 开始您的 EOSIO 区块链之旅的好地方.
 - [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 - [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
 - [All Things EOS](http://allthingseos.com/)
@@ -52,6 +50,12 @@ EOSIO学习资源.
 ### Books
 
 - [Learn EOS Development](https://learneos.dev/) -EOS区块链上dapp的最新，深入，完整的指南.
+
+### Interactive learning, labs
+
+- [Elemental Battles](https://battles.eos.io/)  -建立一个区块链游戏. 了解EOSIO.
+  - [Announcing Elemental Battles: Block.one's New Tutorial for On-boarding Aspiring Blockchain Developers](https://medium.com/eosio/announcing-elemental-battles-block-ones-3215a8e2cdee)
+- [Block.one: Getting Started with the EOSIO Blockchain and Smart Contracts](https://google.qwiklabs.com/catalog_lab/3743) - 谷歌云培训实验室.
 
 ### Courses, workshops, webinars, videos and others
 
@@ -135,8 +139,8 @@ EOSIO学习资源.
 
 #### Core
 
-- [EOSIO/eos](https://github.com/EOSIO/eos) -官方EOSIO GitHub存储库.
-- [EOSIO/eos-vm](https://github.com/EOSIO/eos-vm) -低延迟，高性能和可扩展的WebAssembly后端库.
+- [EOSIO/eos](https://github.com/EOSIO/eos) - 官方 EOSIO GitHub 存储库.
+- [EOSIO/eos-vm](https://github.com/EOSIO/eos-vm) - 低延迟、高性能和可扩展的 WebAssembly 后端库.
 
 #### API libraries
 

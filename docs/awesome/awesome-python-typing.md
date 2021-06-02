@@ -81,6 +81,7 @@
 - [typing_inspect](https://github.com/ilevkivskyi/typing_inspect) -Typeing_inspect模块定义了实验性API，用于对Python标准键入模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) -用于处理类型化对象和JSON的库.
 - [com2ann](https://github.com/ilevkivskyi/com2ann) -在Python中将类型注释转换为类型注释的工具.
+- [mypy-silent](https://github.com/whtsky/mypy-silent/) - 通过添加或删除代码注释来使 mypy 静音. 
 
 ### Helper tools to add annotations to existing code
 
@@ -98,10 +99,10 @@
 
 ### Mypy plugins
 
-- [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) -插件 [PynamoDB](https://github.com/pynamodb/PynamoDB) 支持.
-- [mypy-zope](https://github.com/Shoobx/mypy-zope) -插件 [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) 支持.
+- [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) -插件 [PynamoDB](https://github.com/pynamodb/PynamoDB) support.
+- [mypy-zope](https://github.com/Shoobx/mypy-zope) -插件 [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) -插件已经集成到mypy中.
-- [loguru-mypy](https://github.com/kornicameister/loguru-mypy) -插件 [loguru](https://github.com/Delgan/loguru) 支持.
+- [loguru-mypy](https://github.com/kornicameister/loguru-mypy) -插件 [loguru](https://github.com/Delgan/loguru) support.
 
 
 ## Integrations
@@ -138,7 +139,7 @@
 
 ### Python docs
 
-- [typing](https://docs.python.org/3/library/typing.html) - Support for type hints.
+- [typing](https://docs.python.org/3/library/typing.html) - 支持类型提示.
 
 ### Tools' docs
 
