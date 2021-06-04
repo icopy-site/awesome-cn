@@ -39,6 +39,8 @@
 - [ESPTool-gui](https://github.com/Rodmg/esptool-gui) - 基于 ESPTool-ck 的闪烁 GUI 工具.
 - [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) - NodeMCU 为其操作系统提供的官方刷机工具.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) - 适用于 32/8266 的仅限 lua 的 SDK.
+- [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) - 预装涂鸦固件的Wi-Fi固件刷机ESP8266.
+- [Tasmotizer](https://github.com/tasmota/tasmotizer)  - Tasmota 固件的图形刷写工具. 可以管理 Wi-Fi 和 MQTT 设置、模块和模板.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - 一个用于在 8266 中上传文件系统的 Arduino 插件.
 - [PlatformIO](https://github.com/platformio/platformio-core) - 支持 ESP32 和 ESP8266 的跨平台 IDE 和调试器.
 
@@ -46,6 +48,7 @@
 ### Smart Home and IoT
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - 为其他设备中的两个 ESP 实现多协议 MQTT 网关.
 - [ESPHome](https://esphome.io/) - 一个功能齐全的系统，用于通过简单而强大的配置文件和家庭自动化系统来控制 ESP.
+- [Tasmota](https://tasmota.github.io/docs/)  - Sonoff 和其他 ESP8266/ESP32 设备的替代固件. 包括大量传感器驱动程序并与 [Home Assistant](https://www.home-assistant.io/) 本机或通过 MQTT.
 - [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) - Sonoff 设备（和其他 8266 设备）的替代固件，允许通过 Apple 的 Homekit 进行控制.
 - [DoorsignEPD](https://github.com/jamct/DoorsignEPD) - 使用 ESP32 的带有电子纸显示屏的智能门牌.
 - [EPaperWeatherDisplay](https://github.com/henri98/esp32-e-paper-weatherdisplay) - 使用 ESP32 的非常可爱的电子墨水天气显示.
@@ -105,7 +108,7 @@
 - [mJS](https://github.com/cesanta/mjs) - MongooseOS 使用的轻量级受限 JS 引擎，兼容 32 和 8266.
 - [ESPUI](https://github.com/s00500/ESPUI) - 一个简单的库，用于为两个 ESP 制作交互式 Web 界面.
 - [ESP32 ePaper](https://github.com/loboris/ESP32_ePaper_example) - 用于将 ePaper 模块与 ESP32 配合使用的全功能库.
-- [TinyUPnP](https://github.com/ofekp/TinyUPnP) - A lightweight UPnP IGD library for automatic port forwarding on the 8266 and 32.
+- [TinyUPnP](https://github.com/ofekp/TinyUPnP) - 用于在 8266 和 32 上进行自动端口转发的轻量级 UPnP IGD 库.
 - [Esp32SSHClient](https://github.com/J-Rios/Arduino-esp32sshclient) - 在 ESP32 中实现 SSH 客户端的库.
 - [painlessMesh](https://github.com/gmag11/painlessMesh) - 一个库，负责使用 ESP8266 和 ESP32 硬件创建简单网状网络的细节.
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) - Arduino 库 [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)，由定义的无连接 WiFi 通信协议 [Espressif](https://github.com/espressif).

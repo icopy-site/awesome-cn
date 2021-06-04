@@ -4,10 +4,10 @@
 
 ## Awesome Web Monetization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
- &gt;关于Web货币化的真棒材料. 了解更多信息，检查模块和其他工具.
+ &gt; 关于网络货币化的精彩内容. 了解更多信息、检查模块和其他工具.
 
-**网络获利**是一项网络服务，可让您直接在浏览器中汇款.
-这是一个JavaScript浏览器API，允许创建从用户代理到网站的付款流
+**网络货币化**是一种网络服务，可让您直接在浏览器中汇款.
+这是一个 JavaScript 浏览器 API，允许创建从用户代理到网站的支付流
 
 
 
@@ -28,46 +28,42 @@
 
 ## How to start monetize my website
 
-如果您想通过自己的内容获利，则必须拥有电子钱包和提供商帐户. 请参阅下面允许您使用它们的平台.
+如果您想通过您的内容获利，您必须拥有一个钱包和提供商帐户. 请参阅下面允许您使用它们的平台.
 
-<details><summary>此处有更多详细信息</summary>
+<details><summary>有关钱包和提供商帐户的更多详细信息</summary>
 <p>
-
+  
+---
+  
+  
  |  **钱包** |  |  |  |  |
 | :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
- | 姓名|  [！[坚持] [坚持徽标]] [坚持] |  [！[GateHub] [gatehub-logo]] [gatehub] |  [！[Stronghold] [stronghold-logo]] [stronghold] |  [新钱包？<br> 创建问题！] [new-wallet-issue] |
- | 费用| 无|  SEPA：1.00欧元&lt;50,000欧元<br>电汇：每分钟$ 15美元（最高$ 150美元）|  \ $ 3提款费|  |
-
-[new-wallet-issue]：https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&amp;labels=Wallet%2C+%E2%86%94+WM+repository&amp;template=new-wallet. md＆title =％5BWa％5D
-[gatehub]：https：//gatehub.net/
-[gatehub-logo]：https://webmonetization.org/img/gatehub_logo.svg
-[stronghold]: https://stronghold.co/real-time-payments#coil
-[stronghold-logo]：https://webmonetization.org/img/stronghold_logo.svg
-[坚持]：https://uphold.com/
-[uphold-logo]：https：//webmonetization.org/img/uphold_logo.svg
-
-如果您已经在使用XRP Tipbot， [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
+|    Name     | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) |           [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/)           | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+ | 费用| 无 |  SEPA：1.00 欧元 &lt; 50,000 欧元<br>电汇：最低 15 美元（最高 150 美元）|  \$3 提款费|  |
+  
+如果您已经在使用 XRP Tipbot， [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
  |  **付款** |  |
 | ------------ |   --------------------------------------------------------------------------      |
 | Name         | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com/signup) |
 
+---
 </p>
 </details>
 
-在您的网页上，在meta上插入您的`monetization`标签
+在您的网页上，在元数据上集成您的“货币化”标签
 
 ```html
 <meta name="monetization" content="$ilp.example.com/123456789" />
 ```
 
-并检测是否可以货币化，然后开始工作
+并检测“货币化”是否可能，然后工作
 
 ```js
-如果（document.monetization）{
-  document.monetization.addEventListener（“ monetizationstart”，（）=&gt; {
-    console.log（
-      “太棒了！您可以使用网络获利.\ n更多信息https://webmonetization.org”
+如果（文档货币化）{
+  document.monetization.addEventListener(&quot;monetizationstart&quot;, () =&gt; {
+    控制台.日志(
+      “太棒了！您使用网络货币化.\n更多信息 https://webmonetization.org”
     );
   });
 }
@@ -79,70 +75,70 @@
 
 _任何包/模块和插件_
 
-- [svelte-monetization](https://github.com/sorxrob/svelte-monetization)  -Web获利API的最小且轻巧的包装器.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/svelte.png）
-- [monetize.js](https://github.com/sunchayn/monetize.js)  -一个事件驱动的库，用于管理和模拟Web货币化.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [types-wm](https://github.com/dacioromero/types-wm) -Web货币化的TypeScript定义！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/typescript.png）
-- [ngx-monetization](https://github.com/CDDelta/ngx-monetization)  -Angular的Web货币化API.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/angular.png）
-- [react-hook-wm](https://github.com/dacioromero/react-hook-wm)  -用于与Web货币化集成的React挂钩.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png）
-- [react-monetize](https://github.com/guidovizoso/react-monetize)  -帮助程序和挂钩可以加快您与Web货币化API的集成.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png）
-- [ep_monetization](https://github.com/ISNIT0/ep_monetization)  -用于将付款指针元标记应用于Etherpad网站的插件.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/)  -用于将Coil付款指针元标记应用于WordPress网站的插件.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png）
-- [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/)  -基于XRPTIPBOT的Wordpress Widget嵌入代码以捐赠内容创建者.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png）
-- [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization)  -Eleventy插件，用于通过帖子和网站内容获利.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/11ty.png）
-- [web-monetization-components](https://github.com/philnash/web-monetization-components)  -您可以在通过网络获利的网站上使用的Web组件的集合.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [revshare](https://github.com/kewbish/revshare)  -用于收益分享的JS库.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  -试用网络获利API.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/go.png)
-- [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization)  -Gridsome的Web货币化.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/gridsome.png）
-- [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization)  -将网络获利的元标记添加到您的VuePress网站.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/vuejs.png）
-- [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization)  -Jekyll插件，用于将Web MonetizationAPI付款指针添加到您的站点.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/jekyll.png）
-- [Monetization](https://github.com/KNawm/monetization)  -围绕Web获利API的包装器，用于通过应用获利.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/dart.png）
-- [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta)  -用于React的Web货币化元标记管理器.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png）
-- [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app)  -项目演示了用于在Electron App中启用网络获利的基本设置.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/electron.png）
-- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  -具有播放和付款政策的网络组件，并向您收取观看视频的费用.  []（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/)  -确保JavaScript Web Monetization API可用，即使在启用了内容安全策略的环境中也是如此.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [web-monetization-video-ads](https://github.com/thomasbnt/awesome-web-monetization/blob/master/ https://www.npmjs.com/package/web-monetization-video-ads)  -将网络获利与视频广告链接在一起，以允许针对Web获利实施免费增值业务模型.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
-- [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share)  -通过智能合约自动向社区重新分配资金.  ！[]（https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png）
+- [svelte-monetization](https://github.com/sorxrob/svelte-monetization)  - Web 货币化 API 的最小和轻量级包装器.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/svelte.png)
+- [monetize.js](https://github.com/sunchayn/monetize.js)  - 用于管理和模拟 Web 货币化的事件驱动库.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [types-wm](https://github.com/dacioromero/types-wm) - 网络货币化的 TypeScript 定义！[](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/typescript.png)
+- [ngx-monetization](https://github.com/CDDelta/ngx-monetization)  - 用于 Angular 的网络货币化 API.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/angular.png)
+- [react-hook-wm](https://github.com/dacioromero/react-hook-wm)  - 用于与 Web 货币化集成的 React 钩子.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
+- [react-monetize](https://github.com/guidovizoso/react-monetize)  - 帮助器和挂钩可加速您与 Web Monetization API 的集成.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
+- [ep_monetization](https://github.com/ISNIT0/ep_monetization)  - 用于将支付指针元标记应用于 Etherpad 站点的插件.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/)  - 将线圈支付指针元标记应用于 WordPress 网站的插件.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png)
+- [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/)  - 基于 XRPTIPBOT 嵌入代码的 Wordpress Widget 捐赠内容创建者.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png)
+- [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization)  - 一个 Eleventy 插件，用于通过帖子和网站内容获利.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/11ty.png)
+- [web-monetization-components](https://github.com/philnash/web-monetization-components)  - 您可以在您的网络货币化网站上使用的网络组件集合.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [revshare](https://github.com/kewbish/revshare)  - 用于收益分享的 JS 库.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  - 试验网络货币化 API.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy)  - 用于注入 Web 货币化元标记的简单 Go 代理.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/go.png)
+- [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization)  - Gridsome 的网络货币化.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/gridsome.png)
+- [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization)  - 将网络货币化元标记添加到您的 VuePress 网站.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/vuejs.png)
+- [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization)  - 一个 Jekyll 插件，用于将 Web MonetizationAPI 支付指针添加到您的站点.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/jekyll.png)
+- [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/dart.png)
+- [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta)  - React 的 Web 货币化元标记管理器.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
+- [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app)  - 项目演示了在 Electron App 中启用网络货币化的基本设置.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/electron.png)
+- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  - 具有播放和付费政策的网络组件，并向您收取观看视频的费用.  [](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/)  - 确保 JavaScript Web Monetization API 可用，即使在启用了内容安全策略的环境中也是如此.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [web-monetization-video-ads](https://github.com/thomasbnt/awesome-web-monetization/blob/master/ https://www.npmjs.com/package/web-monetization-video-ads)  - 将网络货币化与视频广告联系起来，以允许为网络货币化实施免费增值商业模式.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share)  - 通过智能合约自动将资金重新分配给社区.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 
 ### Tutorials
 
-- [Getting started](https://webmonetization.org/docs/getting-started) -来自webmonetization.org的正式文档.
-- [Exclusive content](https://webmonetization.org/docs/exclusive-content) -在您的网站上放置独家内容.
-- [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) -将独家内容放入使用Godot Game Engine制作的网络游戏中.
-- ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) -面向在线创作者的交互式，基于故事的Web货币化教程.
-- [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) -通过网络获利！
+- [Getting started](https://webmonetization.org/docs/getting-started) - 来自 webmonetization.org 的官方文件.
+- [Exclusive content](https://webmonetization.org/docs/exclusive-content) - 在您的网站上放置独家内容.
+- [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - 将独家内容放入使用 Godot 游戏引擎制作的网页游戏中.
+- ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - 针对在线创作者的交互式、基于故事的网络货币化教程.
+- [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) - 通过网络货币化！.
 
 ### Articles
 
-- [Monetizing Content in View](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a) -支付您所看到的.
-- [Web Components](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9) -对于Web获利API（系列）.
+- [Monetizing Content in View](https://dev.to/godwinagedah/monetizing-content-in-view-paying-for-what-you-see-462a) - 为所见即所得.
+- [Web Components](https://dev.to/philnash/web-components-for-the-web-monetization-api-4ed9) - 用于网络货币化 API（系列）.
 
 ### Newsletters
 
-- [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) -注册电子邮件更新.
+- [Newsletter of grantfortheweb.org](https://www.grantfortheweb.org/signup) - 注册电子邮件更新.
 
 ### Tools
 
-- [Is web monetized](https://github.com/jkga/is-web-monetized) -一个非常简单的工具，用于检查是否启用了网络获利.
+- [Is web monetized](https://github.com/jkga/is-web-monetized) - 一个非常简单的工具，用于检查是否启用了网络货币化.
 
-- [Paytrackr](https://github.com/sorxrob/paytrackr) -将小额付款跟踪和管理到一个地方.
+- [Paytrackr](https://github.com/sorxrob/paytrackr) - 在一个地方跟踪和管理您的小额支付.
 
-  &gt; PayTrackr是拥有网络货币化提供商会员资格的最简单，最安全的方式，用于跟踪和管理对通过网络货币化的网站的小额付款.
+  &gt; PayTrackr 是跟踪和管理您到网络货币化网站的小额支付的最简单和最安全的方式，拥有网络货币化提供商会员资格.
 
-- [Akita](https://github.com/esse-dev/akita) -一种浏览器扩展程序，可让您深入了解Web货币化的参与.
+- [Akita](https://github.com/esse-dev/akita) - 一个浏览器扩展，让您深入了解您参与网络货币化的情况.
 
-  &gt;秋田介绍您访问量最大的获利站点，您在这些站点上花费了多少时间以及您为它们做出了（或可能做出的贡献）多少.
+  &gt; Akita 展示了您访问次数最多的获利网站、您在这些网站上花费了多少时间以及您为这些网站做出了多少贡献（或可能做出了多少贡献）.
 
-- [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) -用于管理个性化Web货币钱包的工具.
+- [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - 管理您的虚荣网络货币化钱包的工具.
 
-   &gt; Open Monetization Wallet（OMW）使使用Web Monetization API大规模接受付款变得更加容易. 一些功能：
+   &gt; 开放货币化钱包 (OMW) 使通过 Web 货币化 API 大规模接受付款变得更加容易. 一些特点：
   >
-  &gt;-自定义钱包网址：拥有自己的“付款指针”，例如$ wallet.signalnerve.com，而不是$ pay.stronghold.co / abcdef123
-  &gt;-在没有停机的情况下在钱包/提供商之间进行切换
-  &gt;-收款请求日志
-  &gt;-多个钱包之间的收益分享，例如，多个团队成员
-  &gt;-借助无服务器技术无限扩展
-  &gt;-免费和开源
+  &gt; - 自定义钱包 URL：拥有您自己的“支付指针”，例如 $wallet.signalnerve.com，而不是 $pay.stronghold.co/abcdef123
+  &gt; - 无需停机即可在钱包/提供商之间切换
+  &gt; - 传入付款请求的日志
+  &gt; - 多个钱包之间的收入共享，例如多个团队成员
+  &gt; - 使用无服务器技术无限扩展
+  &gt; - 免费和开源
 
 ### Community
 
@@ -156,12 +152,12 @@ _任何包/模块和插件_
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/thomasbnt/awesome-web-monetization/blob/master/contributing.md) 第一的.
-您也可以与朋友共享该存储库和Web货币化. 
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/thomasbnt/awesome-web-monetization/blob/master/contributing.md) 第一的.
+您还可以贡献给您的朋友分享这个存储库和网络货币化. 
 
-如果要添加新的小图标，则高度必须为** 16px **. 输入`assets / small_icons / NAME.png`. 仅接受PNG格式.
+如果要添加新的小图标，高度必须为**16px**. 放入`assets/small_icons/NAME.png`. 仅接受 PNG 格式.
 
 ## Donate 
-随时帮助 [me](https://github.com/thomasbnt) 为这个项目的维护！ 
+随时提供帮助 [me](https://github.com/thomasbnt) 为了这个项目的维护！ 
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)
