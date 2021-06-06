@@ -164,7 +164,7 @@
 * [ts](https://github.com/liujianping/ts) - 时间戳转换和比较工具.
 * [ukautz/clif](https://github.com/ukautz/clif) - 小型命令行界面框架.
 * [urfave/cli](https://github.com/urfave/cli) - 用于在 Go（以前的 codegangsta/cli）中构建命令行应用程序的简单、快速和有趣的包.
-* [wlog](https://github.com/dixonwille/wlog) - 支持跨平台颜色和并发的简单日志记录界面.
+* [wlog](https://github.com/dixonwille/wlog) - 简单的日志界面，支持跨平台颜色和并发.
 * [wmenu](https://github.com/dixonwille/wmenu) - 提示用户做出选择的 cli 应用程序的易于使用的菜单结构.
 
 ### Advanced Console UIs
@@ -528,7 +528,7 @@
 * [date](https://github.com/rickb777/date) - 增加处理日期、日期范围、时间跨度、时段和时间的时间.
 * [dateparse](https://github.com/araddon/dateparse) - 在不知道格式的情况下解析日期.
 * [durafmt](https://github.com/hako/durafmt) - Go 的持续时间格式库.
-* [feiertage](https://github.com/wlbr/feiertage)  - 用于计算德国公共假期的一组函数，包括. 德国各州（Bundesländer）的专业化. 诸如复活节、五旬节、感恩节之类的事情……
+* [feiertage](https://github.com/wlbr/feiertage)  - 用于计算德国公共假期的一组函数，包括. 德国各州（Bundesländer）的专业化. 比如复活节、五旬节、感恩节……
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - 在 Go (golang) 中实现波斯 (Solar Hijri) 日历.
 * [go-str2duration](https://github.com/xhit/go-str2duration)  - 将字符串转换为持续时间. 支持 time.Duration 返回字符串等.
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) - 计算给定位置的日出和日落时间.
@@ -792,7 +792,7 @@
 * [S2 geojson](https://github.com/pantrif/s2-geojson) - 将 geojson 转换为 s2 单元格并在地图上展示一些 S2 几何特征.
 * [S2 geometry](https://github.com/golang/geo) - Go 中的 S2 几何库.
 * [Tile38](https://github.com/tidwall/tile38) - 具有空间索引和实时地理围栏的地理定位数据库.
-* [WGS84](https://github.com/wroge/wgs84) - 坐标转换库（ETRS89、OSGB36、NAD83、RGF93、Web Mercator、UTM）.
+* [WGS84](https://github.com/wroge/wgs84) - 坐标转换和变换库（ETRS89、OSGB36、NAD83、RGF93、Web Mercator、UTM）.
 
 ## Go Compilers
 
@@ -953,7 +953,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 获取完整列表.
 * [clockwerk](http://github.com/onatm/clockwerk) - Go package 使用简单、流畅的语法来安排定期作业.
 * [clockwork](https://github.com/whiteShtef/clockwork) - Go 中简单直观的作业调度库.
 * [cronticker](https://github.com/krayzpipes/cronticker) - 支持 cron 计划的股票代码实现.
-* [go-cron](https://github.com/rk/go-cron)  - Go 的简单 Cron 库，可以在不同的时间间隔执行闭包或函数，从每秒一次到每年一次，在特定日期和时间. 主要用于 Web 应用程序和长时间运行的守护进程.
+* [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以在不同的时间间隔执行闭包或函数，从每秒一次到每年一次，在特定日期和时间. 主要用于 Web 应用程序和长时间运行的守护进程.
 * [go-quartz](https://github.com/reugn/go-quartz) - 简单、零依赖的 Go 调度库.
 * [gocron](https://github.com/go-co-op/gocron)  - 轻松流畅的 Go 作业调度. 这是一个积极维护的分支 [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron).
 * [gron](https://github.com/roylee0704/gron) - 使用简单的 Go API 定义基于时间的任务，Gron 的调度程序将相应地运行它们.
@@ -1218,7 +1218,7 @@ _**非官方** 一组用于构建项目的模式._
 * [bitio](https://github.com/icza/bitio) - 高度优化的 Go 位级读写器.
 * [browscap_go](https://github.com/digitalcrab/browscap_go) - GoLang 库 [Browser Capabilities Project](http://browscap.org/).
 * [captcha](https://github.com/steambap/captcha) - 包验证码为验证码生成提供了一个易于使用、不受​​约束的 API.
-* [conv](https://github.com/cstockton/go-conv) - Package conv 提供跨 Go 类型的快速和直观的转换.
+* [conv](https://github.com/cstockton/go-conv) - Package conv 提供跨 Go 类型的快速直观的转换.
 * [datacounter](https://github.com/miolini/datacounter) - 为 reader/writer/http.ResponseWriter 计数器.
 * [faker](https://github.com/pioz/faker) - Go 的随机假数据和结构生成器.
 * [ffmt](https://github.com/go-ffmt/ffmt) - 美化人类数据显示.
@@ -1536,7 +1536,7 @@ _**非官方** 一组用于构建项目的模式._
 * [argon2-hashing](https://github.com/andskur/argon2-hashing) - 围绕 Go 的 argon2 包的轻量级包装，与 Go 的标准库 Bcrypt 和 simple-scrypt 包密切反映.
 * [argon2pw](https://github.com/raja/argon2pw) - Argon2 密码哈希生成与恒定时间密码比较.
 * [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - 自动配置 Let&#39;s Encrypt 证书并启动 TLS 服务器.
-* [BadActor](https://github.com/jaredfolkins/badactor) - 以fail2ban 的精神构建的内存中、应用程序驱动的监狱.
+* [BadActor](https://github.com/jaredfolkins/badactor) - 以fail2ban 的精神构建的内存中、应用程序驱动的jailer.
 * [Cameradar](https://github.com/Ullaakut/cameradar) - 从监控摄像机远程破解 RTSP 流的工具和库.
 * [certificates](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
 * [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - 在 Linux 服务器上动态更新 firewalld 规则的休息应用程序.
@@ -1552,7 +1552,7 @@ _**非官方** 一组用于构建项目的模式._
 * [optimus-go](https://github.com/pjebs/optimus-go) - 使用 Knuth 算法进行 ID 散列和混淆.
 * [passlib](https://github.com/hlandau/passlib) - 面向未来的密码哈希库.
 * [secure](https://github.com/unrolled/secure) - Go 的 HTTP 中间件，可促进一些快速的安全性胜利.
-* [secureio](https://github.com/xaionaro-go/secureio) - 基于 XChaCha20-poly1305、ECDH 和 ED25519 的“io.ReadWriteCloser”的密钥交换+认证+加密包装器和多路复用器.
+* [secureio](https://github.com/xaionaro-go/secureio) - 基于 XChaCha20-poly1305、ECDH 和 ED25519 的“io.ReadWriteCloser”的密钥交换+身份验证+加密包装器和多路复用器.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - 带有简单、明显的 API 和内置自动成本校准的 Scrypt 包.
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) - 使用 ssh 密钥加密/解密.
 * [sslmgr](https://github.com/adrianosela/sslmgr) - 使用围绕 acme/autocert 的高级包装器使 SSL 证书变得容易.
@@ -1835,7 +1835,7 @@ _**非官方** 一组用于构建项目的模式._
 * [githubql](https://github.com/shurcooL/githubql) - 用于访问 GitHub GraphQL API v4 的 Go 库.
 * [go-aws-news](https://github.com/circa10a/go-aws-news) - 转到应用程序和库以从 AWS 获取新内容.
 * [go-chronos](https://github.com/axelspringer/go-chronos) - 去图书馆与 [Chronos](https://mesos.github.io/chronos/) 作业调度程序
-* [go-hacknews](https://github.com/PaulRosset/go-hacknews) - 用于 HackerNews API 的微型 Go 客户端.
+* [go-hacknews](https://github.com/PaulRosset/go-hacknews) - 用于 HackerNews API 的 Tiny Go 客户端.
 * [go-here](https://github.com/abdullahselek/go-here) - 围绕基于 HERE 位置的 API 使用客户端库.
 * [go-imgur](https://github.com/koffeinsource/go-imgur) - 去客户端库 [imgur](https://imgur.com)
 * [go-jira](https://github.com/andygrunwald/go-jira) - 去客户端库 [Atlassian JIRA](https://www.atlassian.com/software/jira)
@@ -1845,6 +1845,7 @@ _**非官方** 一组用于构建项目的模式._
 * [go-postman-collection](https://github.com/rbretecher/go-postman-collection) - 去模块工作 [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) （与失眠兼容）.
 * [go-sophos](https://github.com/esurdam/go-sophos) - 去客户端库 [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en) 零依赖.
 * [go-sptrans](https://github.com/sergioaugrod/go-sptrans) - 转到 SPTrans Olho Vivo API 的客户端库.
+* [go-swagger-ui](https://github.com/esurdam/go-swagger-ui) - 包含预编译的 Go 库 [Swagger UI](https://swagger.io/tools/swagger-ui/) 用于提供 swagger json.
 * [go-telegraph](https://gitlab.com/toby3d/telegraph) - 电报发布平台API客户端.
 * [go-trending](https://github.com/和ygrunwald/go-trending) - 去图书馆访问 [trending repositories](https://github.com/trending) 和 [developers](https://github.com/trending/developers) 在 Github.
 * [go-twitch](https://github.com/knspriggs/go-twitch) - 用于与 Twitch v3 API 交互的客户端.
@@ -1906,7 +1907,7 @@ _**非官方** 一组用于构建项目的模式._
 *让您的生活更轻松的通用实用程序和工具.*
 
 * [apm](https://github.com/topfreegames/apm) - 带有 HTTP API 的 Golang 应用程序的进程管理器.
-* [backscanner](https://github.com/icza/backscanner) - 类似于 bufio.Scanner 的扫描器，但它以相反的顺序读取和返回行，从给定位置开始并向后移动.
+* [backscanner](https://github.com/icza/backscanner) - 类似于 bufio.Scanner 的扫描仪，但它以相反的顺序读取和返回行，从给定位置开始并向后返回.
 * [beyond](https://github.com/wesovilabs/beyond) - 带你进入 AOP 世界的 Go 工具！
 * [blank](https://github.com/Henry-Sarabia/blank) - 验证或删除字符串中的空格和空格.
 * [bleep](https://github.com/sinhashubham95/bleep) - 在 Go 中对任何一组 OS 信号执行任意数量的操作.
@@ -1955,14 +1956,14 @@ _**非官方** 一组用于构建项目的模式._
 * [go-safe](https://github.com/kenkyu392/go-safe) - 恐慌安全沙箱.
 * [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - 用 Go 编写的 XML 站点地图生成器.
 * [go-trigger](https://github.com/sadlil/go-trigger) - Go-lang 全局事件触发器，使用 id 注册事件并从项目的任何位置触发事件.
-* [go-type](https://github.com/mikekonan/go-types) - 库提供用于存储/验证和传输 ISO-4217、ISO-3166 和其他类型的 Go 类型.
+* [go-type](https://github.com/mikekonan/go-types) - 为 ISO-4217、ISO-3166 和其他类型的存储/验证和传输提供 Go 类型的库.
 * [goback](https://github.com/carlescere/goback) - 去简单的指数退避包.
 * [goctx](https://github.com/zerosnake0/goctx) - 以高性能获取您的上下文价值.
 * [godaemon](https://github.com/VividCortex/godaemon) - 编写守护进程的实用程序.
 * [godropbox](https://github.com/dropbox/godropbox) - 用于从 Dropbox 编写 Go 服务/应用程序的通用库.
 * [gohper](https://github.com/cosiner/gohper) - 各种工具/模块有助于开发.
 * [golarm](https://github.com/msempere/golarm) - 带有系统事件的火警警报.
-* [golog](https://github.com/mlimaloureiro/golog) - 用于时间跟踪您的任务的简单轻量级的 CLI 工具.
+* [golog](https://github.com/mlimaloureiro/golog) - 简单轻量级的 CLI 工具来时间跟踪您的任务.
 * [gopencils](https://github.com/bndr/gopencils) - 小而简单的包，可轻松使用 REST API.
 * [goplaceholder](https://github.com/michiwend/goplaceholder) - 一个小的 golang lib 来生成占位符图像.
 * [goreadability](https://github.com/philipjkim/goreadability) - 使用 Facebook Open Graph 和 arc90 的可读性的网页摘要提取器.
@@ -2121,9 +2122,9 @@ _**非官方** 一组用于构建项目的模式._
 * [Buffalo](http://gobuffalo.io) - Bringing the productivity of Rails to Go!
 * [Confetti Framework](https://www.confetti-framework.com)  - Confetti 是一个 Go 网络应用程序框架，具有富有表现力、优雅的语法.  Confetti 结合了 Laravel 的优雅和 Go 的简单性.
 * [Echo](https://github.com/labstack/echo) - 高性能、极简的 Go 网络框架.
-* [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的 Express.js 启发式 Web 框架.
+* [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的 Express.js 启发的 Web 框架.
 * [Fireball](https://github.com/zpatrick/fireball) - 更“自然”感觉的网络框架.
-* [Flamingo](https://github.com/i-love-flamingo/flamingo)  - 可插拔网络项目的框架. 包括模块概念和为 DI、Configareas、i18n、模板引擎、graphql、可观察性、安全性、事件、路由和反向路由等提供功能.
+* [Flamingo](https://github.com/i-love-flamingo/flamingo)  - 可插拔网络项目的框架. 包括模块的概念，并为 DI、Configareas、i18n、模板引擎、graphql、可观察性、安全性、事件、路由和反向路由等提供功能.
 * [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - 使用干净的架构（如 DDD、端口和适配器）提供电子商务功能，您可以使用这些功能构建灵活的电子商务应用程序.
 * [Gearbox](https://github.com/abahmed/gearbox) - 用 Go 编写的 Web 框架，专注于高性能和内存优化.
 * [Gin](https://github.com/gin-gonic/gin)  - Gin 是一个用 Go 编写的 Web 框架！ 它具有类似马提尼酒的 API，具有更好的性能，速度提高多达 40 倍. 如果您需要性能和良好的生产力.
@@ -2318,7 +2319,7 @@ _**非官方** 一组用于构建项目的模式._
 * [go-swagger](https://github.com/go-swagger/go-swagger)  - 用于 Go 的 Swagger 2.0 实现.  Swagger 是 RESTful API 的简单而强大的表示.
 * [godbg](https://github.com/tylerwince/godbg) - 实现 Rusts `dbg!` 宏，以便在开发过程中快速轻松地进行调试.
 * [gomodrun](https://github.com/dustinblackman/gomodrun/) - 执行和缓存包含在 go.mod 文件中的二进制文件的 Go 工具.
-* [gothanks](https://github.com/psampaz/gothanks) - GoThanks 自动为您的 go.mod github 依赖项加星标，以这种方式向他们的维护者发送一些爱.
+* [gothanks](https://github.com/psampaz/gothanks) - GoThanks 会自动为您的 go.mod github 依赖项加星标，以这种方式向他们的维护者发送一些爱.
 * [igo](https://github.com/rocketlaunchr/igo) - 一个 igo to go 转译器（Go 语言的新语言特性！）
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用 GitHub 的 OctoLinker 浏览器扩展有效地浏览 go 文件.
 * [richgo](https://github.com/kyoh86/richgo) - 用文本装饰丰富 `go test` 输出.

@@ -64,7 +64,7 @@
 
 ## CLI tools
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - 连接到数据库以在 IPython 或 IPython Notebook 中发出 SQL 命令.
-- [iredis](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
+- [iredis](https://github.com/laixintao/iredis) - 具有自动完成和语法突出显示功能的 Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - 顶级的 PostgreSQL 管理工具.
 - [pg_activity](https://github.com/julmon/pg_activity) - PostgreSQL 服务器活动监控的顶级应用程序.
 - [pg_top](https://github.com/markwkm/pg_top) - &#39;top&#39; 用于 PostgreSQL.
@@ -125,6 +125,7 @@
 - [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
 - [restSQL](https://github.com/restsql/restsql) - 带有 Java 和 HTTP API 的 SQL 生成器，使用带有 XML 或 JSON 序列化的简单 RESTful HTTP API.
 - [resquel](https://github.com/formio/resquel) - 轻松将您的 SQL 数据库转换为 REST API.
+- [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码构建器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
 - [sandman2](https://github.com/jeffknupp/sandman2) - 为您的旧数据库自动生成 RESTful API 服务.
 - [sql-boot](https://github.com/CrocInc/sql-boot) - 用于 SQL 查询的高级 REST 和 UI 包装器.
 
@@ -179,7 +180,7 @@
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 配合使用，为 Oracle 数据库以及服务器性能指标提供多层监控、性能和可用性报告和测量.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - 这是PostgreSQL数据库的Zabbix监控模板.
 - [Pyora](https://github.com/bicofino/Pyora) - 监控 Oracle 数据库的 Python 脚本.
-- [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA 是一个快速、灵活且持续开发的插件来监控你的 RDBMS.
+- [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 
 ## Testing
