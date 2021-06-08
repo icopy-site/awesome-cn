@@ -58,6 +58,7 @@
 - [delta PV](https://raw.githubusercontent.com/romanodev/deltapv) - 具有自动微分功能的光伏模拟器. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 - [jaxlie](https://raw.githubusercontent.com/brentyi/jaxlie) - 用于刚体变换和优化的李理论库. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 - [BRAX](https://raw.githubusercontent.com/google/brax) - 可微分物理引擎来模拟环境以及学习算法来为这些环境训练代理. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
+- [flaxmodels](https://raw.githubusercontent.com/matthias-wright/flaxmodels) - Jax/Flax 的预训练模型. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 
 <a name="models-and-projects" />
 

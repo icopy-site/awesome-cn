@@ -19,8 +19,8 @@
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [meins](https://github.com/matthiasn/meins)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
-  - [Braid](https://github.com/braidchat/braid)：具有新颖UI的团队聊天应用程序，可以带来更好的对话
-  - [Atea](https://github.com/pkamenarsky/atea)：用于MacOS的简约菜单栏时间跟踪器
+  - [Braid](https://github.com/braidchat/braid)：具有新颖 UI 的团队聊天应用程序，可带来更好的对话
+  - [Atea](https://github.com/pkamenarsky/atea)：适用于 MacOS 的简约菜单栏时间跟踪器
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：自然语言生成环境（后端：Clojure，前端：JS）
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
@@ -31,19 +31,20 @@
 
 ## Advanced datastructures
 
-  * [Persistent AVL trees](https://github.com/clojure/data.avl)：具有日志时间等级查询的持久排序的地图和集合
-  * [Finger Tree](https://github.com/clojure/data.finger-tree)：重复列表，重复计数列表，重复排序集合
-  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速的，可快照的，可大规模扩展的数据库
+  * [specter](https://github.com/redplanetlabs/specter)：用于查询和转换嵌套和递归数据的优雅 API
+  * [Persistent AVL trees](https://github.com/clojure/data.avl)：具有日志时间排名查询的持久排序映射和集合
+  * [Finger Tree](https://github.com/clojure/data.finger-tree): 双列表, 计数双列表, 计数排序集
+  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速、可快照、可大规模扩展的数据库
   * [Hierarchical set](https://github.com/llasram/hier-set)
-  * [Ordered](https://github.com/amalloy/ordered)：有序集和地图
-  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure)：仅在访问时才计算其值
-  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子持续存在于磁盘上
-  * [Durable Queue](https://github.com/Factual/durable-queue)：队列在磁盘上持久存在
-  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/集合/列表（将条目连续存储在内存中），; writtern在Java中，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [Ordered](https://github.com/amalloy/ordered): 有序集和映射
+  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): 仅在访问时计算其值
+  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子保留在磁盘上
+  * [Durable Queue](https://github.com/Factual/durable-queue)：队列保留在磁盘上
+  * [bifurcan](https://github.com/lacuna/bifurcan): 线性映射/集合/列表（在内存中连续存储条目），; 用 java 编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
-*实际上，请不要在此处搜索rails / django，而是自己编写它们*
+*其实不要在这里搜索 rails/django，而是自己编写它们*
   * [Compojure](https://github.com/weavejester/compojure)
   * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Web Non-Framework](https://github.com/webnf/webnf)
@@ -62,7 +63,7 @@
 
 ## Dependency injection
 
-*有状态对象的托管生命周期*
+*有状态对象的管理生命周期*
 
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
@@ -73,18 +74,18 @@
 
 ## Build Automation and Package management
 
-*用于项目构建自动化和程序包/依赖关系管理的库.*
+*用于项目构建自动化和包/依赖项管理的库.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
   * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
   * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
-  * [clojurephant](https://github.com/clojurephant/clojurephant) （Gradle插件）
-  * [shadow-cljs](https://github.com/thheller/shadow-cljs) （文字）
+  * [clojurephant](https://github.com/clojurephant/clojurephant) （Gradle 插件）
+  * [shadow-cljs](https://github.com/thheller/shadow-cljs) （Clojurescript）
 
 ## Version Control Management
 
-*用于与VCS软件进行交互的代码实用工具*
+*用于与 VCS 软件交互的代码实用程序*
 
   * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
@@ -93,9 +94,9 @@
 *用于处理日期和时间的库.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
-  * [clojure.java-time](https://github.com/dm3/clojure.java-time) -Java 8日期时间API
+  * [clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 日期时间 API
   * [timewords](https://github.com/tokenmill/timewords)
-  * [tick](https://github.com/juxt/tick)：Clojure（Script）库，用于替代clj-time
+  * [tick](https://github.com/juxt/tick): Clojure(Script) 库，旨在替代 clj-time
 
 ## GUI
 
@@ -110,13 +111,13 @@
 
 ## HTTP
 
-*使用HTTP的库.*
+*用于处理 HTTP 的库.*
 
-  * [clj-http](https://github.com/dakrone/clj-http) ：Apache HttpComponents客户端包装
-  * [http-kit](https://github.com/http-kit/http-kit) ：简单的高性能事件驱动的HTTP客户端和服务器
-  * [ring](https://github.com/ring-clojure/ring) ：HTTP服务器抽象
-  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨JVM / Node /浏览器的HTTP的统一，异步客户端接口
-  * [aleph](https://github.com/clj-commons/aleph) ：基于Netty的异步客户端/服务器，默认设置为HTTP，TCP和UDP
+  * [clj-http](https://github.com/dakrone/clj-http) ：Apache HttpComponents 客户端包装器
+  * [http-kit](https://github.com/http-kit/http-kit) ：简单、高性能的事件驱动的 HTTP 客户端和服务器
+  * [ring](https://github.com/ring-clojure/ring) : HTTP 服务器抽象
+  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨 JVM/节点/浏览器的 HTTP 统一异步客户端接口
+  * [aleph](https://github.com/clj-commons/aleph) : 基于 Netty 的异步客户端/服务器，默认为 HTTP、TCP 和 UDP
 
 ## Database
 
@@ -171,7 +172,7 @@
 
 ## ORM and SQL generation
 
-*用于SQL生成的DSL *
+*用于 SQL 生成的 DSL.*
   * [Walkable](https://github.com/walkable-server/walkable)
   * [Korma](https://github.com/korma/Korma)
   * [Specql](https://github.com/tatut/specql/)
@@ -183,17 +184,17 @@
 
 ## Security
 
-*认证，授权和其他与安全性相关的库.*
+*身份验证、授权和其他安全相关的库.*
 
   * [Buddy](https://github.com/funcool/buddy)
-  * [caesium](https://github.com/lvh/caesium) （libsodium绑定）
+  * [caesium](https://github.com/lvh/caesium) （libsodium 绑定）
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
 
 ## RESTful API
 
-*用于开发RESTful API的库.*
+*用于开发 RESTful API 的库.*
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
   * [Compojure-api](https://github.com/metosin/compojure-api)
@@ -204,7 +205,7 @@
 
 ## GraphQL API
 
-*用于开发GraphQL API的库.*
+*用于开发 GraphQL API 的库.*
 
   * [Lacinia](https://lacinia.readthedocs.io/en/latest/)
 
@@ -214,7 +215,7 @@
 
 ## HTML Manipulation
 
-*用于HTML的库.*
+*用于处理 HTML 的库.*
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup)
@@ -234,7 +235,7 @@
   * [struct](https://github.com/funcool/struct)
 
 ## Type System
-* Clojure的可选类型系统*
+*Clojure 的可选类型系统*
 
   * [core.typed](https://github.com/clojure/core.typed)
 
@@ -291,8 +292,8 @@
 
 ## Science and Data Analysis
 
-*用于科学和统计数据的库，扩展的REPL和其他工具
-分析和可视化.*
+*用于科学和统计数据的库、扩展 REPL 和其他工具
+分析和可视化. *
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
@@ -343,7 +344,7 @@
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
-  * [buran](https://github.com/alekseysotnikov/buran) -RSS / Atom提要的消费者和生产者
+  * [buran](https://github.com/alekseysotnikov/buran) - RSS/Atom 提要消费者和生产者
   
 ## Exceptions and Error Handling
   * [Ex](https://github.com/mpenet/ex)
@@ -351,7 +352,7 @@
   * [Dire](https://github.com/MichaelDrogalis/dire)
   
 ## Reflection
-*用于改进代码反射和对象自省的库
+*用于改进代码反射和对象内省的库
 
   * [hara.reflect](https://github.com/razum2um/awesome-clojure/blob/master/docs.caudate.me/hara/hara-reflect.html)
   * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
@@ -378,13 +379,14 @@
   * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
+  * [proto-repl (Atom)](https://atom.io/packages/proto-repl)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
 
 ## Documentation
 
-*（非LP）代码和项目文档的实用程序和库*
+*用于（非 LP）代码和项目文档的实用程序和库*
 
  * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
 
@@ -399,7 +401,7 @@
 
 ## Miscellaneous
 
- * [potemkin](https://github.com/ztellman/potemkin) -在另一个ns中重新导出var /就像clojure映射
+ * [potemkin](https://github.com/ztellman/potemkin) - 在另一个 ns 中重新导出 vars / 像 clojure 地图一样
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
@@ -463,11 +465,11 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure的Light Table，Datomic和Game开发的介绍
-  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
-  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos): 理解列表理解、线程宏、生成测试、解构、core.match 等概念以及使用 Clojure 介绍 Light Table、Datomic 和游戏开发
+  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Clojure 函数式编程和 TDD 介绍
+  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 一次一个函数的介绍
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关core.async，传感器，瞬变，逻辑编程和“每日功能”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日函数”系列的更多高级视频.
 
 ## Websites
 

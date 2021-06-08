@@ -91,7 +91,7 @@ _移动用户界面框架._
 ## UI Libraries
 
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - 一个深受 vuetify 启发的 Material UI 设计组件库.
-- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 组件.
+- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 &amp; 5 组件.
 - [Smelte](https://github.com/matyunya/smelte) - 带有使用 Tailwind CSS 构建的材料组件的 UI 框架.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - 材质 UI 组件.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - IBM Carbon Design System 的 Svelte 实现.
