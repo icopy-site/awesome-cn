@@ -57,6 +57,26 @@
 				<sup>它是 100% JavaScript，完全可定制，开发人员优先.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://oss.capital">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+			</div>
+			<div>
+				 <sup>OSS Capital 成立于 2018 年，是第一个也是唯一一个专注于风险投资的平台</sup><sup><br></sup><sup>专门支持早期 COSS（商业开源）初创公司创始人.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/bitio-logo.svg" width="190" alt="bit.io">
+			</div>
+			<b>即时、可共享的云 PostgreSQL 数据库</b>
+			<div>
+				<sup>在几秒钟内导入任何数据集，单击即可与任何人共享，无需注册即可尝试</sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -82,7 +102,7 @@
 <br>
 
 <p align="center">
-	<sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可转到此处.</sub> <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter 上</a>关注我.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
 
@@ -170,7 +190,7 @@
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - 可选的 Python 静态类型.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精益和高效实现.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精简和高效实现.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -295,7 +315,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - 在浏览器中使用 JavaScript、CSS、SVG 等制作动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件，可实现更快、更轻松的 Web 开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件可实现更快、更轻松的 Web 开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - 要集成到网络应用程序中的独立功能.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 可重用组件的集合，以确保一致性和速度的规则为指导.
@@ -313,7 +333,7 @@
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP 框架.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - 以 Laravel 社区构建的库为特色的全栈开发解决方案.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby 的 Web 应用程序框架.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包裹.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架.
@@ -358,7 +378,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - 用于训练和部署模型的 WebGL 加速机器学习 JavaScript 库.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 为设备上的机器学习优化 TensorFlow 模型的框架.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 引用次数最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
@@ -516,7 +536,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于 CSS——语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 学习如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供清晰的途径来提高您的知识和技能.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您技术知识.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您有关技术的知识.
 
 ## Security
 
@@ -526,7 +546,7 @@
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在诱使攻击者试图破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
@@ -685,12 +705,12 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - 神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - 通过聊天管理技术和业务运营.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - 程序员相信的谎言.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 通过将实现连接到不断发展的模型来满足复杂需求的软件开发方法.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - 对于数字设计师.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - 编程一些富有表现力的东西，而不是一些功能性的东西.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - 编程具有表现力的东西而不是功能性的东西
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - 无需登录即可运行的网络应用程序.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - 像自由一样自由.
 - [Framer](https://github.com/podo/awesome-framer#readme) - 原型交互 UI 设计.
@@ -701,7 +721,7 @@
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - 用于 TeX/LaTeX/ConTeXt 的图形绘制包.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - 研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - 无广告替代品.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - 为实验或作为笑话而不是实际使用而设计的编程语言.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - 智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - 命令行上的复式记帐.

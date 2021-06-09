@@ -6,11 +6,9 @@
   <img src="https://raw.githubusercontent.com/sobolevn/awesome-cryptography/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
 </p>
 
-[![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography) [![Join the chat at https://gitter.im/sobolevn/awesome-cryptography](https://badges.gitter.im/sobolevn/awesome-cryptography.svg)](https://gitter.im/sobolevn/awesome-cryptography?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Open Source Helpers](https://www.codetriage.com/sobolevn/awesome-cryptography/badges/users.svg)](https://www.codetriage.com/sobolevn/awesome-cryptography)
-
 [![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
 
-精选的加密资源和链接列表.
+加密资源和链接的精选列表.
 
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
@@ -26,383 +24,384 @@
 
 #### Symmetric encryption
 
-- [3DES](https://en.wikipedia.org/wiki/Triple_DES) -对称密钥块密码（或三重数据加密算法（TDEA或三重DEA）），该算法对每个数据块应用三次数据加密标准（DES）密码算法.
-- [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) -对称密钥块密码算法和美国政府标准，用于安全和分类的数据加密和解密（也称为Rijndael）.
-- [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher) ）-对称密钥分组密码，由Bruce Schneier于1993年设计. 该设计的显着特征包括依赖于密钥的S盒和高度复杂的密钥时间表.
+- [3DES](https://en.wikipedia.org/wiki/Triple_DES) - 对称密钥分组密码（或三重数据加密算法（TDEA 或三重 DEA），它对每个数据块应用数据加密标准 (DES) 密码算法 3 次.
+- [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - 对称密钥分组密码算法和美国政府安全和机密数据加密和解密标准（也称为 Rijndael）.
+- [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher) ) - 对称密钥分组密码，由 Bruce Schneier 于 1993 年设计. 该设计的显着特点包括依赖于键的 S-box 和高度复杂的键表.
 
 #### Asymmetric encryption
 
-- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem) ）-最早的实用公钥密码系统之一，被广泛用于安全的数据传输. 在RSA中，这种不对称性是基于分解两个大质数乘积的实际困难，即分解问题.
-- [ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) -基于有限域上椭圆曲线的代数结构的公钥密码系统.
-- [DH](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)  -一种通过公共通道安全地交换密码密钥的方法. 与RSA不同，Diffie-Hellman密钥交换不是加密的，并且仅是两方就共享的秘密值达成一致的一种方式. 由于生成的密钥完全是伪随机的，因此DH密钥交换可以提供正向保密性（https://en.wikipedia.org/wiki/Forward_secrecy）.
+- [DH](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)  - 通过公共渠道安全地交换加密密钥的方法. 与 RSA 不同，Diffie-Hellman 密钥交换不是加密，只是两方就共享秘密值达成一致的一种方式. 由于生成的密钥完全是伪随机的，DH 密钥交换可以提供前向保密（https://en.wikipedia.org/wiki/Forward_secrecy）.
+- [ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) - 基于有限域上椭圆曲线代数结构的公钥密码系统.
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem) ) - 第一个实用的公钥密码系统之一，广泛用于安全数据传输. 在 RSA 中，这种不对称性基于对两个大素数的乘积进行因式分解的实际困难，即因式分解问题.
 
 #### Transform Encryption
 
-- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) -转换加密使用三个在数学上相关的密钥：一个用于将纯文本加密给接收者，第二个用于解密密文，第三个将加密的密文转换成一个接收者，以便可以由其他接收者解密.
+- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - 转换加密使用三个数学上相关的密钥：一个用于将明文加密给收件人，第二个用于解密密文，第三个将加密的密文转换为一个收件人，以便其他收件人可以解密.
 
 #### Hash functions
 
-- [MD5](https://en.wikipedia.org/wiki/MD5)  -广泛使用的哈希函数可产生128位哈希值.  MD5最初被设计为用作加密哈希函数，但已发现它具有广泛的漏洞. 它仍然可以用作校验和，以验证数据完整性，但只能防止意外损坏.
-- [SHA1](https://en.wikipedia.org/wiki/SHA-1)  -由美国国家安全局（NSA）设计的加密哈希函数.  SHA-1产生一个160位的哈希值，称为消息摘要.  SHA-1不再被认为能对付资金雄厚的对手.
-- [SHA2](https://en.wikipedia.org/wiki/SHA-2)  -由国家安全局（NSA）设计的哈希函数集.  SHA-256和SHA-512是分别使用32位和64位字计算的新颖哈希函数. 它们使用不同的移位量和加性常数，但是它们的结构实际上是相同的，只是轮数不同.
+- [MD5](https://en.wikipedia.org/wiki/MD5)  - 广泛使用的散列函数产生 128 位散列值.  MD5 最初设计用作加密哈希函数，但已发现它存在大量漏洞. 它仍然可以用作校验和来验证数据完整性，但只能用于防止意外损坏.
+- [SHA1](https://en.wikipedia.org/wiki/SHA-1)  - 由 NSA 设计的加密哈希函数.  SHA-1 产生一个 160 位的哈希值，称为消息摘要.  SHA-1 不再被视为对抗资金充足的对手的安全.
+- [SHA2](https://en.wikipedia.org/wiki/SHA-2)  - 由 NSA 设计的一组哈希函数.  SHA-256 和 SHA-512 是分别用 32 位和 64 位字计算的新颖散列函数. 它们使用不同的移位量和附加常数，但它们的结构实际上是相同的，仅在轮数上有所不同.
 
 ### Articles
 
 - [How to Generate Secure Random Numbers in Various Programming Languages](https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages).
-- [Password Insecurity](https://www.netlogix.at/news/artikel/password-insecurity-part-1/) -本文适用于对密码安全性感兴趣的每个人.
+- [Password Insecurity](https://www.netlogix.at/news/artikel/password-insecurity-part-1/) - 这篇文章是为所有对密码安全感兴趣的人写的.
 - [Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple).
 
 ### Books
 
-- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) -本书涵盖了密码学不同任务的许多构造.
-- [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) -现代密码学简介.
-- [Crypto101](https://www.crypto101.io/) -Crypto 101是密码学入门课程.
-- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) -学习建立可在现实世界中工作的加密协议.
-- [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) -本书仅供专业密码学家参考.
-- [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) -从现代计算机科学的角度编写的入门级加密技术.
-- [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) -有关OpenSSL的书.
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com) -有关现代加密技术（哈希，MAC代码，对称和非对称密码，密钥交换，椭圆曲线，数字签名）的开发人员友好型书籍，其中包含许多代码示例.
-- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) -本书教您应用密码技术来理解和应用系统和应用程序各个级别的安全性.
-- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) -剑桥大学计算机安全教授Ross Anderson撰写了一本非常特别的教科书.
-- [Serious Cryptography](https://nostarch.com/seriouscrypto) -让-菲利普·奥马森（Jean-Philippe Aumasson）实用介绍现代加密技术.
-- [The Code Book](https://simonsingh.net/books/the-code-book/)  -本书摘录了密码学的历史，涵盖了古代和较新的密码学方法. 最后有练习，而这些练习的解决方案将获得$ 10.000的奖励.
-- [The Cryptoparty Handbook](https://unglue.it/work/141611/) -本书提供了有关计算机和Internet安全各个主题的综合指南.
-- [Understanding Cryptography](http://www.crypto-textbook.com/)  -这本书经常被忽视，对初学者来说是一个福音. 在每章的末尾包含大量练习，目的是加强概念和巩固思想.
+- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - 这本书涵盖了密码学中不同任务的许多结构.
+- [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - 现代密码学简介.
+- [Crypto101](https://www.crypto101.io/) - Crypto 101 是密码学的入门课程.
+- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - 学习构建在现实世界中工作的加密协议.
+- [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) - 本书旨在作为专业密码学家的参考.
+- [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - 从现代计算机科学角度编写的密码学入门级处理.
+- [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于 OpenSSL 的书.
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 关于现代密码学（哈希、MAC 码、对称和非对称密码、密钥交换、椭圆曲线、数字签名）的开发人员友好书籍，其中包含大量代码示例.
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术来理解和应用系统和应用程序各个级别的安全性.
+- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）撰写了一本非凡的教科书.
+- [Serious Cryptography](https://nostarch.com/seriouscrypto) - 让-菲利普·奥马松 (Jean-Philippe Aumasson) 对现代加密的实用介绍.
+- [The Code Book](https://simonsingh.net/books/the-code-book/)  - 本书是密码学历史的摘要，涵盖了古代和较新的密码学方法. 最后有练习，这些练习的解决方案将获得 10.000 美元的奖励.
+- [The Cryptoparty Handbook](https://unglue.it/work/141611/) - 本书为计算机和互联网安全的各种主题提供了全面的指南.
+- [Understanding Cryptography](http://www.crypto-textbook.com/)  - 经常被忽视，这本书是该领域初学者的福音. 每章末尾都包含大量练习，旨在加强概念和巩固思想.
 
 ### Courses
 
-- [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) -本文试图以布鲁斯·施耐尔（Bruce Schneier）的方式组织现有的块密码密码分析文献，使学生可以学习密码分析技术和破解算法的方法.
-- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  -从使用信用卡付款到使用电话，日常生活中都存在密码学. 了解有关在计算中制造难题和打破难题的所有知识.
-- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) -该演讲将涵盖广泛部署的系统中的加密漏洞，以及最小的监督如何导致灾难.
-- [Cryptography](https://www.coursera.org/learn/cryptography) -马里兰大学公园大学的密码学实用课程.
+- [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) - 本文试图以一种学生可以用来学习密码分析技术和破解算法的方式来组织分组密码密码分析的现有文献，作者是 Bruce Schneier.
+- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  - 密码学存在于日常生活中，从使用信用卡支付到使用电话. 了解有关在计算中制作和破解难题的所有信息.
+- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - 本次演讲将涵盖广泛部署的系统中的加密漏洞以及最小的疏忽如何导致灾难.
+- [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography) - This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.
-- [Cryptography I](https://www.coursera.org/learn/crypto)  -本课程首先详细讨论具有共享密钥的两个方如何在强大的对手窃听和篡改流量时安全地进行通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
-- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) -本在线课程将介绍加密技术如何成为安全性的基石，以及如何通过使用加密技术（例如密码，公钥或私钥）来保护私钥或敏感信息免受未经授权的访问.
-- [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) -可汗学院（Khan Academy）的密码学课程.
-- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) -现代密码学的实践方面，2006年冬季，华盛顿大学CSE.
-- [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) -现代密码学简介，在实践中和在Google上使用密码学，安全性证明和安全性定义以及密码学中的特殊主题.
+- [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
+- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 本在线课程将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
+- [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - 可汗学院的密码学课程.
+- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - 现代密码学的实践方面，2006 年冬季华盛顿大学 CSE.
+- [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - 现代密码学简介、在实践中和在 Google 使用密码学、安全性和安全定义的证明以及密码学中的专题.
 
 ### Other lists
 
-- [Awesome crypto-papers](https://github.com/pFarb/awesome-crypto-papers) –精选的密码学论文，文章，教程和howtos列表.
-- [Awesome HE](https://github.com/jonaschn/awesome-he) –同态加密库，软件和资源的精选列表.
+- [Awesome crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – 密码学论文、文章、教程和操作指南的精选列表.
+- [Awesome HE](https://github.com/jonaschn/awesome-he) – 精心挑选的同态加密库、软件和资源列表.
 
 ## Tools
 
 ### Standalone
 
-- [Bcrypt](http://bcrypt.sourceforge.net/) -跨平台文件加密实用程序.
-- [blackbox](https://github.com/StackExchange/blackbox) -将机密安全存储在Git / Mercurial / Subversion中.
-- [certbot](https://github.com/certbot/certbot)  -以前是Let&#39;s Encrypt Client，它是EFF的工具，用于从Let&#39;s Encrypt获取证书，并（可选）在服务器上自动启用HTTPS. 它也可以充当使用ACME协议的任何其他CA的客户端.
-- [Coherence](https://github.com/liesware/coherence/) -用于现代Web应用程序的加密服务器.
-- [cryptomator](https://github.com/cryptomator/cryptomator) -云中文件的多平台透明客户端加密.
-- [Databunker](https://databunker.org/) -建立符合GDPR和CCPA的基于API的个人数据或PII存储服务.
-- [gpg](https://www.gnupg.org/)  -完全免费实施OpenPGP标准. 它允许对数据和通信进行加密和签名，并具有通用的密钥管理系统.  GnuPG是一种命令行工具，具有易于与其他应用程序集成的功能.
-- [ironssh](https://github.com/IronCoreLabs/ironssh)  -使用sftp / scp端到端加密传输的文件，并选择性地与他人共享. 自动密钥管理可用于任何SSH服务器. 加密文件与gpg兼容.
-- [Nipe](https://github.com/GouveaHeitor/nipe) -Nipe是使Tor Network成为默认网关的脚本.
-- [sops](https://github.com/mozilla/sops) -sops是加密文件的编辑器，支持YAML，JSON和BINARY格式，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
-- [ves](https://ves.host/docs/ves-util) -通过云存储库进行端到端加密共享，在密钥丢失的情况下通过病毒式的朋友网络安全恢复.
+- [Bcrypt](http://bcrypt.sourceforge.net/) - 跨平台文件加密实用程序.
+- [blackbox](https://github.com/StackExchange/blackbox) - 在 Git/Mercurial/Subversion 中安全地存储机密.
+- [certbot](https://github.com/certbot/certbot)  - 以前的 Let&#39;s Encrypt Client，是 EFF 的工具，用于从 Let&#39;s Encrypt 获取证书，并（可选）在您的服务器上自动启用 HTTPS. 它还可以充当任何其他使用 ACME 协议的 CA 的客户端.
+- [Coherence](https://github.com/liesware/coherence/) - 现代网络应用程序的加密服务器.
+- [cryptomator](https://github.com/cryptomator/cryptomator) - 云中文件的多平台透明客户端加密.
+- [Databunker](https://databunker.org/) - 基于 API 的个人数据或 PII 存储服务符合 GDPR 和 CCPA.
+- [gpg](https://www.gnupg.org/)  - 完整且免费的 OpenPGP 标准实现. 它允许对您的数据和通信进行加密和签名，具有多功能的密钥管理系统.  GnuPG 是一个命令行工具，具有易于与其他应用程序集成的功能.
+- [ironssh](https://github.com/IronCoreLabs/ironssh)  - 使用 sftp/scp 端到端加密传输的文件，并有选择地与他人共享. 自动密钥管理适用于任何 SSH 服务器. 加密文件与 gpg 兼容.
+- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe 是一个让 Tor 网络成为默认网关的脚本.
+- [sops](https://github.com/mozilla/sops) - sops 是加密文件的编辑器，支持 YAML、JSON 和 BINARY 格式，并使用 AWS KMS、GCP KMS、Azure Key Vault 和 PGP 进行加密.
+- [ves](https://ves.host/docs/ves-util) - 通过云存储库端到端加密共享，在密钥丢失的情况下通过病毒式朋友网络安全恢复.
 
 ### Plugins
 
 #### Git
 
-- [git-crypt](https://github.com/AGWA/git-crypt) -git中的透明文件加密.
-- [git-secret](https://sobolevn.github.io/git-secret/) -Bash工具，用于将您的私人数据存储在git存储库中.
+- [git-crypt](https://github.com/AGWA/git-crypt) - git 中的透明文件加密.
+- [git-secret](https://sobolevn.github.io/git-secret/) - 将您的私人数据存储在 git 存储库中的 Bash 工具.
 
 ### Playgrounds
 
-- [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) -一个简单的网络工具，可播放和学习密码学的基本概念，例如哈希，对称，非对称，zkp等.
+- [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - 一个简单的网络工具，可以玩和学习密码学的基本概念，如散列、对称、非对称、zkp 等.
 
 ## Frameworks and Libs
 
 ### C
 
-- [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) -标准加密算法（如AES和SHA-1）的基本实现.
-- [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) -作为GnuPG的独立模块开发的密码库.
-- [libsodium](https://github.com/jedisct1/libsodium) -现代且易于使用的加密库.
-- [libtomcrypt](https://github.com/libtom/libtomcrypt) -非常全面，模块化和便携式的加密工具包.
-- [libVES.c](https://github.com/vesvault/libVES.c) -通过云存储库进行端到端加密共享，在密钥丢失的情况下通过病毒式的朋友网络安全恢复.
-- [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)  -小型，独立且快速的开源密码库. 它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3和基于配对的密码术.
-- [monocypher](https://monocypher.org) -受libsodium和TweetNaCl启发的小型，便携式，易于使用的加密库.
-- [NaCl](https://nacl.cr.yp.to/) -用于网络通信，加密，解密，签名等的高速库
-- [OpenSSL](https://github.com/openssl/openssl) -TLS / SSL和加密库.
-- [PolarSSL](https://tls.mbed.org/) -PolarSSL使开发人员在其（嵌入式）产品中轻松包含加密和SSL / TLS功能，从而以最小的代码占用空间简化了该功能.
-- [RHash](https://github.com/rhash/RHash) -计算哈希和的强大工具.
+- [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - 标准密码算法的基本实现，如 AES 和 SHA-1.
+- [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - 作为 GnuPG 的独立模块开发的加密库.
+- [libsodium](https://github.com/jedisct1/libsodium) - 现代且易于使用的加密库.
+- [libtomcrypt](https://github.com/libtom/libtomcrypt) - 相当全面、模块化和便携的加密工具包.
+- [libVES.c](https://github.com/vesvault/libVES.c) - 通过云存储库端到端加密共享，在密钥丢失的情况下通过病毒式朋友网络安全恢复.
+- [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)  - 小型、自包含且快速的开源加密库. 它支持 RSA、ECDH、ECIES、ECDSA、AES-GCM、SHA2、SHA3 和 Pairing-Based Cryptography.
+- [monocypher](https://monocypher.org) - 受 libsodium 和 TweetNaCl 启发的小型、便携、易于使用的加密库.
+- [NaCl](https://nacl.cr.yp.to/) - 用于网络通信、加密、解密、签名等的高速库.
+- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL 和加密库.
+- [PolarSSL](https://tls.mbed.org/) - PolarSSL 使开发人员可以非常轻松地在他们的（嵌入式）产品中包含加密和 SSL/TLS 功能，从而以最少的编码空间促进此功能.
+- [RHash](https://github.com/rhash/RHash) - 计算散列和的强大工具.
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
-- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) -C中的小型便携式AES128.
-- [wolfSSL](https://github.com/wolfSSL/wolfssl) -TLS / SSL的小型，快速，可移植实施，用于将嵌入式设备连接到云.
-- [xxHash](https://github.com/Cyan4973/xxHash) -极快的哈希算法.
+- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - C 中的小型便携式 AES128.
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - 小型、快速、可移植的 TLS/SSL 实现，用于嵌入式设备到云端.
+- [xxHash](https://github.com/Cyan4973/xxHash) - 极快的哈希算法.
 
 ### C++
 
-- [Botan](https://botan.randombit.net/) -用C ++ 11编写的密码学库.
-- [cryptopp](https://github.com/weidai11/cryptopp) -Crypto ++ Library是一个免费的C ++类密码方案库.
-- [HElib](https://github.com/shaih/HElib) -实现同态加密（HE）的软件库.
-- [Nettle](http://www.lysator.liu.se/~nisse/nettle/) -低级密码库.
-- [s2n](https://github.com/awslabs/s2n) -TLS / SSL协议的实现.
+- [Botan](https://botan.randombit.net/) - 用‘C++11’编写的密码学库.
+- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library 是一个免费的 C++ 加密方案类库.
+- [HElib](https://github.com/shaih/HElib) - 实现同态加密 (HE) 的软件库.
+- [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - 低级加密库.
+- [s2n](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
 
 ### C-sharp
 
-- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) -通用加密库.
-- [libsodium-net](https://github.com/adamcaudill/libsodium-net) -安全的密码库，.NET的libsodium端口.
-- [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) -许多标准密码算法的.NET Framework实现.
-- [PCLCrypto](https://github.com/AArnott/PCLCrypto) -通过平台实现的算法提供加密API，包括将其公开给可移植的库.
-- [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) -.NET加密正确完成.
-- [StreamCryptor](https://github.com/bitbeans/StreamCryptor) -使用libsodium和protobuf进行流加密和解密.
+- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - 通用加密库.
+- [libsodium-net](https://github.com/adamcaudill/libsodium-net) - 安全加密库，.NET 的 libsodium 端口.
+- [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - 许多标准加密算法的 .NET Framework 实现.
+- [PCLCrypto](https://github.com/AArnott/PCLCrypto) - 通过平台实现的算法提供加密 API，包括将它们暴露给可移植库.
+- [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET 加密做得对.
+- [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - 使用 libsodium 和 protobuf 进行流加密和解密.
 
 ### Clojure
 
-- [buddy-core](https://funcool.github.io/buddy-core/latest/) -加密Api.
-- [clj-crypto](https://github.com/macourtney/clj-crypto/) -弹力城堡的包装.
-- [pandect](https://github.com/xsc/pandect) -Clojure的快速，易于使用的消息摘要，校验和和HMAC库.
-- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) -Clojure库，用于生成具有加密强度的随机数，适用于管理密码，帐户身份验证，安全令牌和相关机密之类的数据.
+- [buddy-core](https://funcool.github.io/buddy-core/latest/) - 加密 API.
+- [clj-crypto](https://github.com/macourtney/clj-crypto/) - 充气城堡的包装.
+- [pandect](https://github.com/xsc/pandect) - 用于 Clojure 的快速且易于使用的消息摘要、校验和和 HMAC 库.
+- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - Clojure 库，旨在生成适合管理密码、帐户身份验证、安全令牌和相关机密等数据的加密强随机数.
 
 
 
 ### Common Lisp
 
-- [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) -通用密码功能的集合.
-- [ironclad](http://method-combination.net/lisp/ironclad/) -常见的加密快捷方式的集合.
-- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) -Common Lisp的SSH客户端库（内置于libssh2）.
+- [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - 常用密码功能的集合.
+- [ironclad](http://method-combination.net/lisp/ironclad/) - 常见加密快捷方式的集合.
+- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - Common Lisp 的 SSH 客户端库（基于 libssh2）.
 
 ### Delphi
 
-- [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) -Delphi的密码库.
-- [LockBox](https://sourceforge.net/projects/tplockbox/) -LockBox 3是用于加密的Delphi库.
-- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) -快速加密例程（散列和密码），实现AES，XOR，RC4，ADLER32，MD5，SHA1，SHA256算法，并针对速度进行了优化.
-- [TForge](https://bitbucket.org/sergworks/tforge) -TForge是用Delphi编写的开源加密货币库，与FPC兼容.
+- [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Delphi 的加密库.
+- [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 是一个用于加密的 Delphi 库.
+- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - 快速加密例程（散列和密码），实现 AES、XOR、RC4、ADLER32、MD5、SHA1、SHA256 算法，针对速度进行了优化.
+- [TForge](https://bitbucket.org/sergworks/tforge) - TForge 是用 Delphi 编写的开源加密库，兼容 FPC.
 
 ### Elixir
 
-- [cipher](https://github.com/rubencaro/cipher) -Elixir加密库可加密/解密任意二进制文件.
-- [cloak](https://github.com/danielberkompas/cloak) -斗篷使使用Ecto加密变得容易.
-- [comeonin](https://github.com/elixircnx/comeonin) -Elixir的密码授权（bcrypt）库.
-- [elixir-rsa](https://github.com/trapped/elixir-rsa) -`：public_key` Elixir的加密包装.
-- [elixir_tea](https://github.com/keichan34/elixir_tea) -在Elixir中实施TEA.
-- [ex_crypto](https://github.com/ntrepid8/ex_crypto)  -用于Erlang`：crypto`和`：public_key`模块的Elixir包装器. 为许多加密功能提供合理的默认设置，以使其更易于使用.
-- [exgpg](https://github.com/rozap/exgpg) -使用Elixir的gpg.
-- [pot](https://github.com/yuce/pot) -Erlang库，用于生成与Google Authenticator兼容的一次性密码.
-- [siphash-elixir](https://github.com/zackehh/siphash-elixir) -SipHash哈希家族的Elixir实现.
+- [cipher](https://github.com/rubencaro/cipher) - 用于加密/解密任意二进制文件的 Elixir 加密库.
+- [cloak](https://github.com/danielberkompas/cloak) - Cloak 使使用 Ecto 加密变得容易.
+- [comeonin](https://github.com/elixircnx/comeonin) - Elixir 的密码授权 (bcrypt) 库.
+- [elixir-rsa](https://github.com/trapped/elixir-rsa) - 用于 Elixir 的 `:public_key` 加密包装器.
+- [elixir_tea](https://github.com/keichan34/elixir_tea) - 在 Elixir 中实现 TEA.
+- [ex_crypto](https://github.com/ntrepid8/ex_crypto)  - Erlang `:crypto` 和 `:public_key` 模块的 Elixir 包装器. 为许多加密函数提供合理的默认值，使其更易于使用.
+- [exgpg](https://github.com/rozap/exgpg) - 使用 Elixir 的 gpg.
+- [pot](https://github.com/yuce/pot) - Erlang 库，用于生成与 Google 身份验证器兼容的一次性密码.
+- [siphash-elixir](https://github.com/zackehh/siphash-elixir) - SipHash 哈希系列的 Elixir 实现.
 
 ### Erlang
 
-- [crypto](http://erlang.org/doc/apps/crypto/) -用于计算消息摘要的功能，以及用于加密和解密的功能.
-- [public_key](http://erlang.org/doc/man/public_key.html) -提供处理公钥基础结构的功能.
+- [crypto](http://erlang.org/doc/apps/crypto/) - 用于计算消息摘要的函数，以及用于加密和解密的函数.
+- [public_key](http://erlang.org/doc/man/public_key.html) - 提供处理公钥基础设施的功能.
 
 ### Go
 
-- [crypto](https://golang.org/pkg/crypto/) -官方网站资源.
-- [cryptoballot](https://github.com/cryptoballot/cryptoballot) -加密安全的在线投票.
-- [dedis/crypto](https://github.com/dedis/crypto) -用于Go语言的高级密码库.
-- [dkeyczar](https://github.com/dgryski/dkeyczar) -将Google的Keyczar密码库移植到Go.
-- [gocrypto](https://github.com/kisom/gocrypto) -《 Goal实用密码》一书的示例源代码.
+- [crypto](https://golang.org/pkg/crypto/) - 官方网站资源.
+- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - 加密安全的在线投票.
+- [dedis/crypto](https://github.com/dedis/crypto) - Go 语言的高级加密库.
+- [dkeyczar](https://github.com/dgryski/dkeyczar) - 将 Google 的 Keyczar 加密库移植到 Go.
+- [gocrypto](https://github.com/kisom/gocrypto) - 实用加密与 Go 书的示例源代码.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 
 ### Haskell
 
-- [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) -协作黑客名单.
-- [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) -Haskell的官方网站.
-- [cryptol](https://github.com/GaloisInc/cryptol) -密码学的语言.
-- [Cryptonite](https://hackage.haskell.org/package/cryptonite) -Haskell加密原语存储库.
-- [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) -Haskel的OpenSSL绑定.
-- [scrypt](https://github.com/informatikr/scrypt) -Haskell绑定到Colin Percival的scrypt实现.
+- [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - 协作黑客列表.
+- [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Haskell 的官方网站.
+- [cryptol](https://github.com/GaloisInc/cryptol) - 密码学语言.
+- [Cryptonite](https://hackage.haskell.org/package/cryptonite) - 密码原语的 Haskell 存储库.
+- [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - Haskel 的 OpenSSL 绑定.
+- [scrypt](https://github.com/informatikr/scrypt) - Haskell 绑定到 Colin Percival 的 scrypt 实现.
 
 ### Haxe
 
-- [haxe-crypto](http://lib.haxe.org/p/haxe-crypto/) -Haxe密码学图书馆.
+- [haxe-crypto](http://lib.haxe.org/p/haxe-crypto/) - Haxe 密码库.
 
 ### JavaScript
 
-- [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) -兼顾性能的流行加密实用程序的JavaScript实现.
-- [bcrypt-nodejs](https://github.com/shaneGirish/bcrypt-nodejs) -用于NodeJS的bcrypt的本机实现.
-- [cifre](https://github.com/openpeer/cifre) -用于现代客户端JavaScript的快速加密工具包.
-- [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) -Google的通用JavaScript库.
-- [cryptico](https://github.com/wwwtyro/cryptico) -使用RSA和AES的JavaScript的易于使用的加密系统.
-- [crypto-js](https://github.com/brix/crypto-js) -加密标准的JavaScript库.
-- [cryptojs](https://github.com/gwjjeff/cryptojs) -为NodeJS提供标准和安全的加密算法.
-- [forge](https://github.com/digitalbazaar/forge) -使用Javascript和工具编写TLS的本机实现，以编写基于加密和网络繁重的Web应用程序.
-- [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) -转换加密库，一种代理重新加密的变体，用于加密用户或组，并轻松向NodeJS应用添加强大的数据控件.
-- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) -转换加密库，一种代理重新加密的变体，用于轻松地在浏览器中安全地管理端到端加密.
-- [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) -JavaScript加密库为Web开发人员提供了广泛而有效的加密功能集.
-- [js-nacl](https://github.com/tonyg/js-nacl) -纯Javascript高级API，用于Emscripten编译的libsodium例程.
-- [jsencrypt](https://github.com/travist/jsencrypt) -执行OpenSSL RSA加密，解密和密钥生成的Javascript库.
-- [JShashes](https://github.com/h2non/jshashes) -适用于node.js和浏览器的快速且无依赖的加密哈希表库（支持MD5，SHA1，SHA256，SHA512，RIPEMD，HMAC）.
-- [jsrsasign](https://github.com/kjur/jsrsasign) -“ jsrsasign”（RSA-Sign JavaScript库）是一个免费的开源加密库，支持RSA / RSAPSS / ECDSA / DSA签名/验证.
+- [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - 考虑到性能的流行加密实用程序的 JavaScript 实现.
+- [bcrypt-nodejs](https://github.com/shaneGirish/bcrypt-nodejs) - NodeJS 的 bcrypt 本地实现.
+- [cifre](https://github.com/openpeer/cifre) - 用于现代客户端 JavaScript 的快速加密工具包.
+- [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - 谷歌的通用 JavaScript 库.
+- [cryptico](https://github.com/wwwtyro/cryptico) - 易于使用的加密系统，利用 RSA 和 AES 进行 javascript.
+- [crypto-js](https://github.com/brix/crypto-js) - 加密标准的 JavaScript 库.
+- [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 NodeJS 提供标准和安全的加密算法.
+- [forge](https://github.com/digitalbazaar/forge) - 在 Javascript 中原生实现 TLS，以及编写基于加密和网络密集型 web 应用程序的工具.
+- [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松地向 NodeJS 应用程序添加强大的数据控制.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于在浏览器中轻松安全地管理端到端加密.
+- [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript 加密库为 Web 开发人员提供了一组广泛而高效的加密函数.
+- [js-nacl](https://github.com/tonyg/js-nacl) - Emscripten 编译的 libsodium 例程的纯 Javascript 高级 API.
+- [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 Javascript 库.
+- [JShashes](https://github.com/h2non/jshashes) - 用于 node.js 和浏览器的快速且无依赖的加密哈希库（支持 MD5、SHA1、SHA256、SHA512、RIPEMD、HMAC）.
+- [jsrsasign](https://github.com/kjur/jsrsasign) - &#39;jsrsasign&#39;（RSA 签名 JavaScript 库）是一个开源免费加密库，支持 RSA/RSAPSS/ECDSA/DSA 签名/验证.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/NodeJS-Howto) - Javascript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-- [libsodium.js](https://github.com/jedisct1/libsodium.js) -使用方便的包装程序将libsodium编译为纯JavaScript.
-- [libVES.js](https://github.com/vesvault/libVES) -通过云存储库进行端到端加密共享，在密钥丢失的情况下通过病毒式的朋友网络安全恢复.
-- - [milagro-crypto-js](https://github.com/apache/incubator-milagro-crypto-js)  -MCJS是符合标准的JavaScript密码库，除了随机种子源外，没有任何外部依赖关系. 兼容nodejs和浏览器. 它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3，基于配对的密码术和New Hope.
- -高贵-包含密码库和工具的高安全性，易于审核的集合. 每个零依赖项.
-  - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) — BLS12-381配对友好曲线（阈值信号）
-  - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) — ed25519曲线+ ristretto255（加密，信号）
-  - [noble-ripemd160](https://github.com/paulmillr/noble-ripemd160) -RIPEMD160哈希.
-  - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — secp256k1 Koblitz曲线（加密，ECDH，信号）
-- [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) -用于NodeJS的bcrypt.
-- [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) -JavaScript的OpenPGP实施.
-- [PolyCrypt](https://github.com/polycrypt/polycrypt) -WebCrypto API的纯JS实现.
-- [rusha](https://github.com/srijs/rusha) -高性能的纯JavaScript SHA1实现，适用于大型二进制数据，最高可达原始速度的一半.
-- [sjcl](https://github.com/bitwiseshiftleft/sjcl) -斯坦福Javascript加密库.
-- [URSA](https://github.com/quartzjer/ursa) -节点的RSA公钥/私钥OpenSSL绑定.
+- [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium 编译为纯 JavaScript，带有方便的包装器.
+- [libVES.js](https://github.com/vesvault/libVES) - 通过云存储库端到端加密共享，在密钥丢失的情况下通过病毒式朋友网络安全恢复.
+- - [milagro-crypto-js](https://github.com/apache/incubator-milagro-crypto-js)  - MCJS 是一个符合标准的 JavaScript 加密库，除了随机种子源之外没有任何外部依赖项. 兼容 nodejs 和浏览器. 它支持 RSA、ECDH、ECIES、ECDSA、AES-GCM、SHA2、SHA3、Pairing-Based Cryptography 和 New Hope.
+ - 高贵 - 高安全性，易于审核的一组包含的加密库和工具. 每个零依赖.
+  - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) — BLS12-381 配对友好曲线（阈值信号）
+  - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) — ed25519 曲线 + ristretto255（加密、签名）
+  - [noble-ripemd160](https://github.com/paulmillr/noble-ripemd160) - RIPEMD160 哈希值.
+  - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — secp256k1 Koblitz 曲线（加密、ECDH、sigs）
+- [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - NodeJS 的 bcrypt.
+- [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - JavaScript 的 OpenPGP 实现.
+- [PolyCrypt](https://github.com/polycrypt/polycrypt) - WebCrypto API 的纯 JS 实现.
+- [rusha](https://github.com/srijs/rusha) - 适用于大型二进制数据的高性能纯 JavaScript SHA1 实现，速度可达本机速度的一半.
+- [sjcl](https://github.com/bitwiseshiftleft/sjcl) - 斯坦福 Javascript 加密库.
+- [URSA](https://github.com/quartzjer/ursa) - Node.js 的 RSA 公钥/私钥 OpenSSL 绑定.
 
 
 ### Java
 
-- [Apache Shiro](http://shiro.apache.org/) -执行身份验证，授权，加密和会话管理.
-- [Bouncy Castle](https://www.bouncycastle.org/java.html)  -通用加密库.  JCA提供程序，从基本帮助程序到PGP / SMIME操作的功能范围很广.
-- [Flexiprovider](http://www.flexiprovider.de/) -用于Java密码体系结构的强大工具包.
-- [GDH](https://github.com/maxamel/GDH) -通用的Diffie-Hellman密钥交换Java库，用于在Vert.x框架之上构建的多个参与者.
-- [Google Keyczar](https://github.com/google/keyczar) -易于使用，但具有密钥版本控制的安全加密框架.
-- [Google Tink](https://github.com/google/tink) -一个小型的加密库，提供安全，简单，敏捷和快速的方式来完成一些常见的加密任务.
+- [Apache Shiro](http://shiro.apache.org/) - 执行身份验证、授权、加密和会话管理.
+- [Bouncy Castle](https://www.bouncycastle.org/java.html)  - 通用加密库.  JCA 提供程序，从基本帮助程序到 PGP/SMIME 操作的广泛功能.
+- [Flexiprovider](http://www.flexiprovider.de/) - 强大的 Java 密码体系结构工具包.
+- [GDH](https://github.com/maxamel/GDH) - 在 Vert.x 框架之上构建的多方通用 Diffie-Hellman 密钥交换 Java 库.
+- [Google Keyczar](https://github.com/google/keyczar) - 易于使用且具有密钥版本控制的安全加密框架.
+- [Google Tink](https://github.com/google/tink) - 一个小型加密库，提供一种安全、简单、敏捷和快速的方式来完成一些常见的加密任务.
 - [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-- [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) -jBCrypt是OpenBSD Blowfish密码哈希的实现
+- [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt 是 OpenBSD Blowfish 密码散列的实现
 algorithm.
-- [Keycloak](https://github.com/keycloak/keycloak) -用于现代应用程序和服务的开源身份和访问管理.
-- [keywhiz](https://github.com/square/keywhiz) -用于分发和管理机密的系统.
-- [pac4j](https://github.com/pac4j/pac4j) -安全引擎.
-- [Project Kalium](http://abstractj.github.io/kalium/) -通过libsodium的强大功能将Java绑定到网络和密码学（NaCl）库.
-- [scrypt](https://github.com/wg/scrypt) -scrypt密钥派生功能的纯Java实现以及C实现的JNI接口，包括SSE2优化版本.
-- [securitybuilder](https://github.com/tersesystems/securitybuilder) -用于JCA / JSSE对象的Fluent Builder API.
+- [Keycloak](https://github.com/keycloak/keycloak) - 现代应用程序和服务的开源身份和访问管理.
+- [keywhiz](https://github.com/square/keywhiz) - 用于分发和管理机密的系统.
+- [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
+- [Project Kalium](http://abstractj.github.io/kalium/) - Java 绑定到网络和密码学 (NaCl) 库，具有 libsodium 的强大功能.
+- [scrypt](https://github.com/wg/scrypt) - scrypt 密钥派生函数的纯 Java 实现和 C 实现的 JNI 接口，包括 SSE2 优化版本.
+- [securitybuilder](https://github.com/tersesystems/securitybuilder) - 用于 JCA/JSSE 对象的 Fluent Builder API.
 
 
 
 ### Julia
 
-- [Crypto.jl](https://github.com/danielsuo/Crypto.jl) -包含OpenSSL的库，但也具有纯Julia实现供参考.
-- [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) -围绕mbed TLS和加密C库的包装器.
-- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) -朱莉娅包装荨麻加密散列/
-加密库，提供MD5，SHA1，SHA2哈希和HMAC功能以及AES加密/解密.
-- [SHA.jl](https://github.com/staticfloat/SHA.jl) -执行者，100％本机朱莉娅SHA1，SHA2- {224,256,384,512}实现.
+- [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - 包装 OpenSSL 的库，但也有纯 Julia 实现供参考.
+- [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - mbed TLS 和密码学 C 库的包装.
+- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - 朱莉娅包装荨麻加密散列/
+提供 MD5、SHA1、SHA2 散列和 HMAC 功能以及 AES 加密/解密的加密库.
+- [SHA.jl](https://github.com/staticfloat/SHA.jl) - 高性能，100% 原生 julia SHA1，SHA2-{224,256,384,512} 实现.
 
 ### Lua
 
-- [lua-lockbox](https://github.com/somesocks/lua-lockbox) -用纯Lua编写的密码基元的集合.
-- [LuaCrypto](https://github.com/mkottman/luacrypto) -Lua绑定到OpenSSL.
+- [lua-lockbox](https://github.com/somesocks/lua-lockbox) - 用纯 Lua 编写的加密原语集合.
+- [LuaCrypto](https://github.com/mkottman/luacrypto) - Lua 绑定到 OpenSSL.
 
 ### Objective-C
 
 - [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
 - [ObjC Themis](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-- [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP)  -ObjectivePGP是针对iOS和macOS的OpenPGP协议的实现.  OpenPGP是使用最广泛的电子邮件加密标准.
-- [RNCryptor](https://github.com/RNCryptor/RNCryptor) -适用于iOS和Mac的CCCryptor（AES加密）包装.
+- [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP)  - ObjectivePGP 是适用于 iOS 和 macOS 的 OpenPGP 协议的实现.  OpenPGP 是使用最广泛的电子邮件加密标准.
+- [RNCryptor](https://github.com/RNCryptor/RNCryptor) - 适用于 iOS 和 Mac 的 CCCryptor（AES 加密）包装器.
 
 
 ### PHP
 
-- [halite](https://paragonie.com/project/halite) -使用`libsodium`进行加密的简单库.
-- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) -使用`libsodium`的Laravel软件包抽象.
-- [PHP Encryption](https://github.com/defuse/php-encryption) -在PHP中使用密钥或密码加密数据的库.
+- [halite](https://paragonie.com/project/halite) - 使用 `libsodium` 进行加密的简单库.
+- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel 包抽象使用`libsodium`.
+- [PHP Encryption](https://github.com/defuse/php-encryption) - 用于在 PHP 中使用密钥或密码加密数据的库.
 - [PHP Themis](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-- [TCrypto](https://github.com/timoh6/TCrypto) -TCrypto是一个简单灵活的PHP 5.3+内存中键值存储库.
+- [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto 是一个简单灵活的 PHP 5.3+ 内存键值存储库.
 
 ### Python
 
-- [bcrypt](https://github.com/pyca/bcrypt) -您的软件和服务器的现代密码哈希.
-- [charm](https://github.com/JHUISI/charm) -用于快速制作密码系统原型的框架.
-- [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) -用于数字签名的抗量子非对称密钥生成工具.
-- [cryptography](https://cryptography.io/en/latest/) -公开密码配方和原语的Python库.
-- [cryptopy](https://sourceforge.net/projects/cryptopy/) -加密算法和应用程序的纯python实现.
-- [django-cryptography](https://github.com/georgemarshall/django-cryptography) -在Django中轻松加密数据.
-- [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
-- [paramiko](http://www.paramiko.org/) -SSHv2协议的Python实现，同时提供客户端和服务器功能.
-- [Privy](https://github.com/ofek/privy) -一个简单，快速的库，可以正确地用密码保护您的数据.
-- [pycryptodome](https://github.com/Legrandin/pycryptodome) -低级加密原语的自包含Python软件包.
-- [PyElliptic](https://github.com/yann2192/pyelliptic)  -Python OpenSSL包装器. 适用于具有ECC，AES，HMAC和Blowfish的现代密码学.
-- [pynacl](https://github.com/pyca/pynacl) -将Python绑定到网络和密码学（NaCl）库.
+- [bcrypt](https://github.com/pyca/bcrypt) - 您的软件和服务器的现代密码散列.
+- [charm](https://github.com/JHUISI/charm) - 快速原型密码系统的框架.
+- [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - 用于数字签名的抗量子非对称密钥生成工具.
+- [cryptography](https://cryptography.io/en/latest/) - 公开加密配方和原语的 Python 库.
+- [cryptopy](https://sourceforge.net/projects/cryptopy/) - 加密算法和应用程序的纯 python 实现.
+- [django-cryptography](https://github.com/georgemarshall/django-cryptography) - 在 Django 中轻松加密数据.
+- [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在 Python 中.
+- [paramiko](http://www.paramiko.org/) - SSHv2 协议的 Python 实现，提供客户端和服务器功能.
+- [Privy](https://github.com/ofek/privy) - 一个简单、快速的库，可以正确地密码保护您的数据.
+- [pycryptodome](https://github.com/Legrandin/pycryptodome) - 低级加密原语的自包含 Python 包.
+- [PyElliptic](https://github.com/yann2192/pyelliptic)  - Python OpenSSL 包装器. 用于 ECC、AES、HMAC、Blowfish 的现代密码学.
+- [pynacl](https://github.com/pyca/pynacl) - Python 绑定到网络和密码学 (NaCl) 库.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### R
 
-- [rscrypt](https://github.com/rstudio/rscrypt) -一组scrypt加密功能的软件包.
+- [rscrypt](https://github.com/rstudio/rscrypt) - scrypt 加密函数集合的包.
 
 ### Ruby
 
-- [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) -用于OpenBSD bcrypt（）密码哈希算法的Ruby绑定，可让您轻松存储用户密码的安全哈希.
-- [RbNaCl](https://github.com/cryptosphere/rbnacl) -将Ruby绑定到网络和密码学（NaCl）库.
+- [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) - OpenBSD bcrypt() 密码散列算法的 Ruby 绑定，允许您轻松存储用户密码的安全散列.
+- [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby 绑定到网络和密码学 (NaCl) 库.
 - [Ruby Themis](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Rust
 
-- [dalek cryptography](https://github.com/dalek-cryptography/) -用于ECC，Bulletproofs等的快速而安全的中级API.
-- [mundane](https://github.com/google/mundane) -是由BoringSSL支持的Rust密码库，该库很难被滥用，符合人体工程学且性能优异.
-- [octavo](https://github.com/libOctavo/octavo) -高度模块化和可配置的哈希和加密库.
-- [proteus](https://github.com/wireapp/proteus) -Rust中没有标头密钥的Axolotl协议实现.
-- [recrypt](https://github.com/IronCoreLabs/recrypt-rs) -一个纯铁锈库，该库实现用于构建多跳代理重新加密方案的密码原语，称为“转换加密”.
-- [ring](https://github.com/briansmith/ring) -使用Rust＆BoringSSL的加密原语进行安全，快速，小型加密.
-- [rust-crypto](https://github.com/DaGenix/rust-crypto) -主要是各种加密算法的纯Rust实现.
-- [rust-openssl](https://github.com/sfackler/rust-openssl) -用于Rust的OpenSSL绑定.
+- [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
+- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 加密库，它很难被误用，符合人体工程学，并且性能良好.
+- [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
+- [proteus](https://github.com/wireapp/proteus) - Axolotl 协议实现，没有标题键，在 Rust 中.
+- [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - 一个纯 Rust 库，它实现了用于构建多跳代理重新加密方案的加密原语，称为转换加密.
+- [ring](https://github.com/briansmith/ring) - 使用 Rust &amp; BoringSSL 的加密原语安全、快速、小型加密.
+- [rust-crypto](https://github.com/DaGenix/rust-crypto) - 主要是各种加密算法的纯 Rust 实现.
+- [rust-openssl](https://github.com/sfackler/rust-openssl) - Rust 的 OpenSSL 绑定.
 - [rustls](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
-- [sodiumoxide](https://github.com/dnaq/sodiumoxide) -氧化钠：Rust的快速密码库（与libsodium的绑定）.
-- [suruga](https://github.com/klutzy/suruga) -Rust中的TLS 1.2实施.
-- [webpki](https://github.com/briansmith/webpki) -Rust中的Web PKI TLS X.509证书验证.
+- [sodiumoxide](https://github.com/dnaq/sodiumoxide) - 氧化钠：Rust 的快速加密库（绑定到 libsodium）.
+- [suruga](https://github.com/klutzy/suruga) - Rust 中的 TLS 1.2 实现.
+- [webpki](https://github.com/briansmith/webpki) - Rust 中的 Web PKI TLS X.509 证书验证.
 
 ### Scala
 
-- [recrypt](https://github.com/IronCoreLabs/recrypt) -转换Scala的加密库.
-- [scrypto](https://github.com/input-output-hk/scrypto) -Scala的加密原语.
-- [tsec](https://github.com/jmcardon/tsec) -类型安全，功能通用的安全性和加密库.
+- [recrypt](https://github.com/IronCoreLabs/recrypt) - 为 Scala 转换加密库.
+- [scrypto](https://github.com/input-output-hk/scrypto) - Scala 的加密原语.
+- [tsec](https://github.com/jmcardon/tsec) - 一个类型安全的、功能性的、通用的安全和加密库.
 
 ### Swift
 
-- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) -以Swift编程语言实现的与Swift相关的加密功能和帮助程序.
-- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -苹果包装 [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) 用Swift编写的库
-- [OpenSSL](https://github.com/Zewo/OpenSSL) -适用于OS X和Linux的Swift OpenSSL.
-- [SweetHMAC](https://github.com/jancassio/SweetHMAC) -微小且易于使用的Swift类使用HMAC算法对字符串进行加密.
-- [Swift-Sodium](https://github.com/jedisct1/swift-sodium) -面向钠盐库的Swift接口，用于iOS和OS X的常见加密操作.
-- [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) -Swift中的优雅加密工具包.
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - 用 Swift 编程语言实现的 Swift 加密相关函数和助手.
+- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - 苹果的包装 [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) 用 Swift 编写的库.
+- [OpenSSL](https://github.com/Zewo/OpenSSL) - 适用于 OS X 和 Linux 的 Swift OpenSSL.
+- [SweetHMAC](https://github.com/jancassio/SweetHMAC) - 小巧且易于使用的 Swift 类，可使用 HMAC 算法加密字符串.
+- [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - 用于 iOS 和 OS X 的常见加密操作的钠库的 Swift 接口.
+- [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - 优雅的 Swift 加密工具包.
 - [SwiftThemis](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and MacOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ## Resources
 
 ### Blogs
 
-- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) -关于加密的一些随机想法.
-- [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/)  -布里斯托大学密码学研究小组的官方博客. 这是一个团体博客，主要针对密码学家和密码学学生.
-- [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) -WebCrypto博客文章.
-- [Root Labs rdist](https://rdist.root.org/) 内特·劳森（Nate Lawson）和他的合著者写了许多主题，包括硬件实现，加密定时攻击，DRM和Commodore 64.
-- [Salty Hash](https://blog.ironcorelabs.com) -涵盖有关加密，数据控制，隐私和安全性的主题.
-- [Schneier on security](https://www.schneier.com/)  -最古老，最著名的安全博客之一.  Bruce涵盖了从分组密码加密分析到机场安全的主题.
+- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - 关于加密的一些随机想法.
+- [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/)  - 布里斯托大学密码学研究小组的官方博客. 这是一个群组博客，主要面向密码学家和密码学学生.
+- [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto 博客文章.
+- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson 和他的合著者撰写了各种主题，包括硬件实现、加密计时攻击、DRM 和 Commodore 64.
+- [Salty Hash](https://blog.ironcorelabs.com) - 涵盖加密、数据控制、隐私和安全等主题.
+- [Schneier on security](https://www.schneier.com/)  - 最古老和最著名的安全博客之一.  Bruce 涵盖从分组密码密码分析到机场安全的主题.
 
 ### Mailing lists
 
-- [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) -“密码学”是一种低噪声，经过审核的邮件列表，专门用于加密技术及其政治影响.
-- [Modern Crypto](https://moderncrypto.org/) -讨论现代密码实践的论坛.
-- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) -密码学一般讨论的列表，尤其是技术方面的列表.
+- [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) - “密码学”是一个低噪音的邮件列表，专门讨论密码技术及其政治影响.
+- [Modern Crypto](https://moderncrypto.org/) - 讨论现代密码实践的论坛.
+- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - 密码学的一般讨论列表，特别是技术方面.
 
 ### Web-tools
 
-- [Boxentriq](https://www.boxentriq.com/code-breaking) -易于使用的工具，用于分析和解密最常见的密码，包括维格涅尔，博福特，凯撒凯撒，换位密码等.
-- [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) -是一组与密码学相关的工具.
-- [CrypTool](http://www.cryptool-online.org/) -经常介绍各种密码，加密方法和分析工具，并附带图解说明的示例.
-- [CyberChef](https://gchq.github.io/CyberChef/) -用于加密，编码，压缩和数据分析的Web应用程序.
-- [factordb.com](http://factordb.com/) -Factordb.com是用于存储任意数量的已知因式分解的工具.
-- [keybase.io](https://keybase.io/) -Keybase将您的身份映射到您的公共密钥，反之亦然.
+- [Boxentriq](https://www.boxentriq.com/code-breaking) - 易于使用的工具，用于分析和破解最常用的密码，包括 Vigenère、Beaufort、Keyed Caesar、Transposition Ciphers 等.
+- [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - 是一套密码学相关的工具.
+- [CrypTool](http://www.cryptool-online.org/) - 介绍了种类繁多的密码、加密方法和分析工具，通常还附有插图示例.
+- [CyberChef](https://gchq.github.io/CyberChef/) - 用于加密、编码、压缩和数据分析的 Web 应用程序.
+- [factordb.com](http://factordb.com/) - Factordb.com 是用于存储任何数字的已知因式分解的工具.
+- [keybase.io](https://keybase.io/) - Keybase 将您的身份映射到您的公钥，反之亦然.
 
 ### Web-sites
-- [Applied Crypto Hardening](https://bettercrypto.org/) -准备使用最佳实践示例来保护Web服务器等的安全.
-- [Cryptography Stackexchange](http://crypto.stackexchange.com/) -密码学堆栈交换是软件开发人员，数学家和其他对密码学感兴趣的人的问答网站.
-- [Cryptohack](https://cryptohack.org/) -类似于Cryptopals的平台，具有许多交互式密码学挑战.
-- [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，逐渐将难度提高到抽象代数.
-- [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) -在Reddit上讨论的最活跃的加密货币的仪表板.
-- [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) -密码学概述.
-- [IACR](https://www.iacr.org/) -国际密码学研究协会是一个非营利性的科学组织，其目的是进一步研究密码学及相关领域.
-- [Learn Cryptography](https://learncryptography.com/) -致力于帮助人们了解他们日常使用的密码系统的方式和原因，而无需实现保护和保护其隐私的工作.
-- [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) -此subreddit用于围绕强密码学的理论和实践的链接和讨论.
-- [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) -在TikZ中绘制的一组通用密码功能框图，可用于用LaTeX编写的研究论文和演示文稿中.
-- [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) -本规范描述了一个JavaScript API，用于在Web应用程序中执行基本的加密操作，例如哈希，签名生成和验证以及加密和解密.
+
+- [Applied Crypto Hardening](https://bettercrypto.org/) - 许多准备好使用最佳实践示例来保护 Web 服务器等.
+- [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - Reddit 上讨论的最活跃加密货币的仪表板.
+- [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange 是一个问答网站，面向软件开发人员、数学家和其他对密码学感兴趣的人.
+- [Cryptohack](https://cryptohack.org/) - 一个具有许多交互式密码学挑战的平台，类似于 Cryptopals.
+- [Cryptopals Crypto Challenges](http://cryptopals.com/) - 一系列应用密码学挑战，从非常基本的挑战开始，例如十六进制到基数 64 挑战，逐渐增加难度到抽象代数.
+- [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - 密码学概述.
+- [IACR](https://www.iacr.org/) - 国际密码学研究协会是一个非营利性科学组织，其目的是进一步研究密码学和相关领域.
+- [Learn Cryptography](https://learncryptography.com/) - 致力于帮助人们了解他们每天使用加密系统的方式和原因，而没有意识到保护和保护他们隐私的工作.
+- [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - 此 subreddit 旨在提供围绕强密码学理论和实践的链接和讨论.
+- [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - 在 TikZ 中绘制的常用加密函数的框图集合，用于用 LaTeX 编写的研究论文和演示文稿.
+- [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - 该规范描述了用于在 Web 应用程序中执行基本加密操作的 JavaScript API，例如散列、签名生成和验证以及加密和解密.
 
 ## Contributing
 
-永远欢迎您的贡献！ 请看看 [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) 第一的.
 
 ## License
 
-的“ awesome-cryptography” [@sobolevn](https://github.com/sobolevn)
+`awesome-cryptography` 作者： [@sobolevn](https://github.com/sobolevn)
 
-在法律允许的范围内，将CC0与
-`awesome-cryptography`放弃了所有版权及相关或邻近的版权
-拥有“ awesome-cryptography”的权利.
+在法律允许的范围内，将 CC0 与
+`awesome-cryptography` 已放弃所有版权和相关或邻近
+“真棒密码学”的权利.
 
-您应该已经收到了CC0法律代码的副本以及此副本
-工作. 如果没有，请参阅 [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
+您应该已经收到了 CC0 法律代码的副本以及此
+工作. 如果没有，请看 [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).

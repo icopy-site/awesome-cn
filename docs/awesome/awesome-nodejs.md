@@ -58,6 +58,15 @@
 				<sup>它是 100% JavaScript，完全可定制，开发人员优先.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://oss.capital">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+			</div>
+			<div>
+				 <sup>OSS Capital 成立于 2018 年，是第一个也是唯一一个专注于风险投资的平台</sup><sup><br></sup><sup>专门支持早期 COSS（商业开源）初创公司创始人.</sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -99,7 +108,7 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - 流洪流客户端.
 - [dat](https://github.com/datproject/dat-node) - 数据集的实时复制和版本控制.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 分布式文件系统，旨在将所有计算设备与相同的文件系统连接起来.
-- [stackgl](https://github.com/stackgl) -用于WebGL的开放软件生态系统，建立在browserify和npm之上.
+- [stackgl](https://github.com/stackgl) - 开放的 WebGL 软件生态系统，建立在 browserify 和 npm 之上.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将洪流视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
@@ -141,7 +150,7 @@
 - [ESLint](https://github.com/eslint/eslint) - 用于 JavaScript 的可插入 linting 实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取 GitHub 用户的当前本地时间.
 - [David](https://github.com/alanshaw/david) - 告诉您您的包 npm 依赖项何时过时.
-- [http-server](https://github.com/indexzero/http-server) - 简单、零配置的命令行 HTTP 服务器.
+- [http-server](https://github.com/indexzero/http-server) - 简单的零配置命令行 HTTP 服务器.
 - [Live Server](https://github.com/tapio/live-server) - 开发具有 livereload 功能的 HTTP 服务器.
 - [bcat](https://github.com/kessler/node-bcat) - 管道命令输出到网络浏览器.
 - [normit](https://github.com/pawurb/normit) - 在您的终端中使用语音合成进行 Google 翻译.
@@ -206,7 +215,7 @@
 - [node-fetch](https://github.com/bitinn/node-fetch) - Node.js 的`window.fetch`.
 - [flashheart](https://github.com/bbc/flashheart) - REST 客户端.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - 通过可配置的路由提供 JSON 文件或 JavaScript 对象的内容来构建假后端.
-- [cacheable-request](https://github.com/lukechilds/cacheable-request) - 使用符合 RFC 标准的缓存支持包装原生 HTTP 请求.
+- [cacheable-request](https://github.com/lukechilds/cacheable-request) - 使用符合 RFC 标准的缓存支持来包装本机 HTTP 请求.
 - [gotql](https://github.com/khaosdoctor/gotql) - 建立在 GraphQL 请求库之上 [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - 可使用环境变量配置的全局 HTTP/HTTPS 代理.
 - [smoke](https://github.com/sinedied/smoke) - 具有记录功能的基于文件的 HTTP 模拟服务器.
@@ -258,7 +267,7 @@
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -365,7 +374,7 @@
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - 以原子方式将 JSON 字符串化并写入文件.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - 像`fs.createWriteStream()`，但是是原子的.
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的文件名.
-- [lnfs](https://github.com/kevva/lnfs) - 强制创建符号链接，如`ln -fs`.
+- [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本文件还是二进制文件.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - 完全重新设计的文件系统 API，方便日常使用.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - `fs` 模块的额外方法.
@@ -443,7 +452,7 @@
 
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略 ansi 转义码.
-- [camelcase](https://github.com/sindresorhus/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
+- [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - 转义 RegExp 特殊字符.
 - [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个 RegExp 匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
@@ -507,7 +516,7 @@
 
 - [remark](https://github.com/wooorm/remark) - 由插件驱动的 Markdown 处理器.
 - [markdown-it](https://github.com/markdown-it/markdown-it) - 具有 100% CommonMark 支持、扩展和语法插件的 Markdown 解析器.
-- [parse5](https://github.com/inikulin/parse5) - 快速的全功能符合规范的 HTML 解析器.
+- [parse5](https://github.com/inikulin/parse5) - 快速、功能齐全的符合规范的 HTML 解析器.
 - [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - 从 JSON 中去除注释.
 - [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - 从 CSS 中去除注释.
 - [parse-json](https://github.com/sindresorhus/parse-json) - 使用更有用的错误解析 JSON.
@@ -564,7 +573,7 @@
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL 客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB 客户端.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike 客户端.
-	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
+	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase 客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB 驱动程序.
 - ODM / ORM
 	- [Sequelize](https://github.com/sequelize/sequelize)  - 多方言 ORM. 支持 PostgreSQL、SQLite、MySQL 等.
@@ -573,7 +582,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的 MongoDB 对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) - 与数据存储无关的工具，可显着简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  - 用于 PostgreSQL、MySQL、SQLite3 和 RESTful 数据存储的 ORM. 类似于 ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用承诺的原生 SQL PostgreSQL 框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用 Promise 的本机 SQL 的 PostgreSQL 框架.
 	- [slonik](https://github.com/gajus/slonik) - 具有严格类型、详细日志记录和断言的 PostgreSQL 客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) - 基于 SQL 查询构建器 Knex 构建的轻量级 ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) - 用于 PostgreSQL、MariaDB、MySQL、SQLite 等的 ORM.
@@ -720,7 +729,7 @@
 - [Charge](https://github.com/brandonweiss/charge) - 使用 JSX 和 MDX 的有意见的、零配置的静态站点生成器.
 
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 构建的 CMS 和 Web 应用程序平台.
+- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 的 CMS 和 Web 应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - 内容管理系统，强调基于 Express 和 MongoDB 的直观前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) - 用于构建强大 API 的内容管理框架（无头 CMS）.
 - [Tipe](https://github.com/tipeio/tipe) - 开发人员优先的内容管理系统，带有来自架构文件的 GraphQL 和 REST API.
@@ -759,7 +768,7 @@
 - [execa](https://github.com/sindresorhus/execa) - 更好的`child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - 专为服务器设计的核心 jQuery 的快速、灵活和精益实现.
 - [Electron](https://github.com/atom/electron)  - 使用网络技术构建跨平台桌面应用程序.  *（你可能会喜欢 [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
-- [open](https://github.com/sindresorhus/open) -打开网站，文件，可执行文件之类的东西.
+- [open](https://github.com/sindresorhus/open) - 打开网站、文件、可执行文件等内容.
 - [hasha](https://github.com/sindresorhus/hasha)  - 散列变得简单. 获取缓冲区/字符串/流/文件的哈希值.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - 使用点路径从嵌套对象中获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) - 只运行一次函数.
@@ -890,7 +899,7 @@
 
 ### Tools
 
-- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome 扩展程序，用于链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项.
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项的 Chrome 扩展.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展程序可在存储库自述文件的底部显示 npm 依赖项.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展程序.
