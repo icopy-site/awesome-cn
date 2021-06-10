@@ -125,6 +125,8 @@
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - 使用 JAX 轻松干净地实现自动微分变分推理 (ADVI).
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练对不同分辨率下输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
 - [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/book1/supplements/jax_intro.ipynb) - Colab 介绍了该语言的各个方面并将其应用于简单的 ML 问题.
+- [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - 关于在 JAX 中编写 MCMC 采样器的不同方法以及速度基准测试的教程.
+- [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - 关于如何使用 `host_callback` 模块在 JAX 中向编译循环添加进度条的教程.
 
 <a name="community" />
 
@@ -135,4 +137,4 @@
 
 ## Contributing
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/n2cholas/awesome-jax/blob/master/contributing.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/n2cholas/awesome-jax/blob/master/contributing.md) 第一的.
