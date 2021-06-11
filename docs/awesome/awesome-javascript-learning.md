@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
-&gt; 一个很棒的列表，仅限于最佳 JavaScript 学习资源
+&gt; 一个很棒的列表，仅限于最好的 JavaScript 学习资源
 
 这个列表主要是关于 JavaScript - 语言. 与当今 JavaScript 生态系统的 API、工具、框架或其他方面无关.
 
@@ -41,7 +41,7 @@
 - [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - 学习承诺一步一步.
 - [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - 展示通过异步函数使用 Promise 的优势的教程.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - 史诗般地回答“什么是纯函数？”这个问题.
-- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - 详细描述了如何使用 Fetch API 来接收和发送数据. 
+- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Describes thoroughly how to use the Fetch API to receive and send data. 
 - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - 您需要了解的有关 Google Chrome 内置调试​​工具的所有信息.
 
 ## Free eBooks
@@ -60,6 +60,7 @@
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) - 仍然具有相关性的经典材料.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - 易于理解，特别适合具有基于类的 OOP 背景的人.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - 将巩固您对语言的理解.
+- [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - JavaScript 测试工具和技术的完整指南.
 
 ## Blogs
 
@@ -81,7 +82,7 @@
 
 ## Interactive learning
 
-- [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
+- [Codeacademy](https://www.codecademy.com/learn/javascript) - JavaScript 基础.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - 他们还提供更高级的课程.
 - [Code School](https://www.codeschool.com/learn/javascript)  - 从基础到最佳实践. 与 JavaScript 相关的不同课程.
 - [Functional programming](http://reactivex.io/learnrx/) - 通过使用 map、filter、concatAll、reduce 和 zip，以交互方式学习函数式编程的基本原理.

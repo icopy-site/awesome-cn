@@ -71,7 +71,7 @@
 * [fd](https://github.com/sharkdp/fd) - 一个简单、快速且用户友好的查找替代方案.
 * [foxy](https://github.com/s-p-k/foxy) - Firefox 和冲浪浏览器的纯文本书签.
 * [fselect](https://github.com/jhspetersson/fselect) - 使用类似 SQL 的查询查找文件.
-* [funky](https://github.com/bbugyi200/funky) - 扩展外壳函数的功能，使其更加强大和灵活.
+* [funky](https://github.com/bbugyi200/funky) - 扩展了 shell 函数的功能，使其更加强大和灵活.
 * [fz](https://github.com/changyuheng/fz) - z 的无缝模糊选项卡完成
 * [fzf](https://github.com/junegunn/fzf) - 命令行模糊查找器
 * [gitmux](https://github.com/arl/gitmux) - 在 Tmux 状态栏中显示 Git 状态
@@ -282,6 +282,7 @@
 * [visidata](https://github.com/saulpw/visidata) - 用于探索和排列数据的终端电子表格多工具 (csv/json/xml/xls/yaml/etc)
 * [xidel](https://github.com/benibela/xidel/) - 使用（图灵完备）XPath 和 XQuery 过滤、映射和创建 HTML/XML/JSON 数据的 Cli 工具.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) - 用于命令行 XML 格式化、过滤和操作的古老而强大的工具.
+* [yq](https://github.com/mikefarah/yq) - yq 是一个便携式命令行 YAML 处理器
 
 ## Applications
 
@@ -292,7 +293,7 @@
 * [bashblog](https://github.com/cfenollosa/bashblog) - 处理博客发布的 Bash 脚本
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 代码的美丽图像 - 就在您的终端内.
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) - 从舒适的终端中选择 OSS 许可证
-* [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies
+* [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快和最具交互性的基于终端的 UI 应用程序
 * [dstask](https://github.com/naggie/dstask) - 单个基于二进制终端的 TODO 管理器，每个任务具有基于 git 的同步 + 降价注释
 * [editly](https://github.com/mifi/editly) - 命令行视频编辑器
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行工具
@@ -378,7 +379,7 @@
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - 50 行可移植 shell 脚本中的命令行参数解析器.
 * [getoptions](https://github.com/ko1nksm/getoptions) - 一个优雅的 shell 脚本选项解析器（sh、bash 和所有 POSIX shell）
 * [is.sh](https://github.com/qzb/is.sh) - 内置测试命令的替代方案，它将使您的“if”语句变得漂亮
-* [lumberjack](https://github.com/molovo/lumberjack) - shell 脚本的日志记录界面
+* [lumberjack](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 * [mo](https://github.com/tests-always-included/mo) - 纯 bash 中的胡子模板
 * [optparse](https://github.com/nk412/optparse) - getopts 的 BASH 包装器，用于简单的命令行参数.
 * [rerun](https://github.com/rerun/rerun) - 一个模块化的 shell 自动化框架来组织你的 keeper 脚本
@@ -390,6 +391,7 @@
 * [shellcheck](https://github.com/koalaman/shellcheck) - shell 脚本的静态分析工具
 * [shellfire](https://github.com/shellfire-dev/shellfire) - 命名空间的、可组合的 shell（bash、sh 和 dash）函数库的存储库
 * [shellspec](https://github.com/shellspec/shellspec) - 用于 dash、bash、ksh、zsh 和所有 POSIX shell 的全功能 BDD 单元测试框架
+* [shfmt](https://github.com/mvdan/sh)  - 支持 bash 的 shell 解析器、格式化器和解释器； 包括 shfmt
 * [shpec](https://github.com/rylnd/shpec) - 一个外壳测试框架
 * [shutit](https://ianmiell.github.io/shutit/) - 基于 bash 和 pexpect 的自动化框架
 * [sub](https://github.com/basecamp/sub) - 一种组织节目的好方法

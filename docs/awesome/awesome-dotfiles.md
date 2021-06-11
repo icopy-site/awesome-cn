@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome dotfiles
 
-点文件资源的精选列表. 受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
-请注意，某些文章或工具可能看起来过时或过时，但这通常意味着它们已经过考验和成熟
- （例如dotfile本身）. 随时提出新的文章，项目或工具！
+ dotfiles 资源的精选列表. 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西.
+请注意，某些文章或工具可能看起来过时或过时，但这通常意味着它们经过实战测试且成熟
+ （就像点文件本身）. 随意提出新的文章、项目或工具！
 
 ## Articles
 
@@ -43,123 +43,124 @@
 
 ## Find dotfiles repos
 
-有很多很棒的dotfile仓库，每个仓库都有自己的灵感和宝石. 一种方法
+那里有许多很棒的点文件存储库，每个存储库都包含自己的灵感和宝石. 一种方式通过
 他们是为了 [search GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
 
-另请参阅：
+另见：
 
 - [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
 - [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)
--提示：在GitHub上搜索文件名，例如
+- 提示：在 GitHub 上搜索文件名，例如
   [in:path .gitconfig](https://github.com/search?utf8=%E2%9C%93&type=Code&q=in%3Apath+.gitconfig).
 
 ## Example dotfiles repos
 
-一组最流行，维护良好且协作的点文件存储库和框架. 一些项目
-仅包含点文件. 其他一些则允许您轻松添加自己的自定义点文件，从而进一步扩展了某些功能，其中包括
-脚本来管理点文件和插件.
+最流行、维护良好和协作的 dotfiles 存储库和框架的集合. 部分项目
+只包含点文件. 其他人通过允许您轻松添加自己的自定义点文件而走得更远，其中一些包括
+用于管理点文件和插件的脚本.
 
 ### Bash
 
- | 标题| 描述重点|
+ | 标题 | 说明 | 焦点 |
 | :------------------------------------------------------------------ | :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| [Bash it](https://github.com/Bash-it/bash-it)                        | 社区bash框架.  | 自动补全，主题，别名，自定义功能. 结构良好的框架.  |
-| [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)      |  macOS的明智黑客默认设置这里有很多好处，需要社区的大力合作.  |
-| [Maximum Awesome](https://github.com/square/maximum-awesome)         |  vim和tmux的配置文件|  Vim，tmux. 为Mac OS X内置.
-| [webpro's dotfiles](https://github.com/webpro/dotfiles)              |  macOS点文件|  Bash，Homebrew，Brew Cask，Git，Node.js，Hammerspoon.  |
-| [rootbeersoup's dotfiles](https://github.com/rootbeersoup/dotfiles)  | 轻松的Bash，Vim和macOS配置|  `curl \ |  sh`安装程序和Makefile为永久性或临时性配置提供了可轻松进行的设置.  |
-| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)          |  Arch Linux dotfile引导程序| 无精打采，经常无精打采的软件.  Vim配置，用于在Markdown或Latex中编辑文档|
+| [Bash it](https://github.com/Bash-it/bash-it)                        | 社区 bash 框架.  | 自动完成、主题、别名、自定义功能. 结构良好的框架.  |
+| [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)      | 明智的黑客默认为 macOS | 这里有很多好处，伟大的协作社区努力.  |
+| [Maximum Awesome](https://github.com/square/maximum-awesome)         |  vim 和 tmux 的配​​置文件 | 维姆，tmux. 专为 Mac OS X 构建.
+| [webpro's dotfiles](https://github.com/webpro/dotfiles)              |  macOS 点文件 |  Bash、Homebrew、Brew Cask、Git、Node.js、Hammerspoon.  |
+| [rootbeersoup's dotfiles](https://github.com/rootbeersoup/dotfiles)  | 轻松的 Bash、Vim 和 macOS 配置 | 一个`卷曲\|  sh` 安装程序和 Makefile 为永久或临时配置提供便携和轻松的设置.  |
+| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)          |  Arch linux dotfile 引导程序 | 不臃肿，通常很烂的软件. 用于在 Markdown 或 Latex 中编辑文档的 Vim 配置 |
 
 ### Zsh
 
- | 标题| 描述重点|
+ | 标题 | 说明 | 焦点 |
 | :------------------------------------------------------------ | :--------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)  |  vim，zsh，git和tmux配置文件集|  Zsh，vim，tmux，git，自制软件. 用途 [rcm](https://github.com/thoughtbot/rcm).                                                                                      |
-| [oh-my-zsh](https://ohmyz.sh)                                  | 社区驱动的框架，用于管理zsh配置.  | 包括200多个可选插件（rails，git，OSX，集线器，capistrano，brew，ant，php，python等），超过140个主题来为您的早晨增光添彩，以及一个自动更新工具.  |
-| [Prezto](https://github.com/sorin-ionescu/prezto)              |  Zsh的配置框架.  | 通过合理的默认值，别名，函数，自动完成和提示主题来丰富命令行界面环境.  |
-| [YADR](http://skwp.github.io/dotfiles/)                        | 您见过的最好的vim，git，zsh插件和最干净的vimrc | 自制，zsh，git，vim等. 活动存储库.  |
-| [antigen](http://antigen.sharats.me)                           | 受oh-my-zsh和vundle启发的zsh插件管理器.  |  Antigen是一小组功能，可帮助您轻松管理Shell（zsh）插件.  Antigen对zsh而言，Vundle对vim而言.  |
-| [Dries's dotfiles](https://github.com/driesvints/dotfiles)     | 适用于macOS的点文件的简化方法 Zsh，Oh My Zsh，macOS，Homebrew，Mackup |
-| [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)    | 点文件为开发人员带来幸福 Zsh，Brew，Sublime，Python，Node，Elixir |
+| [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles)  |  vim、zsh、git 和 tmux 配置文件集 |  Zsh、vim、tmux、git、自制软件. 用途 [rcm](https://github.com/thoughtbot/rcm).                                                                                      |
+| [oh-my-zsh](https://ohmyz.sh)                                  | 用于管理 zsh 配置的社区驱动框架.  | 包括 200 多个可选插件（rails、git、OSX、集线器、capistrano、brew、ant、php、python 等）、超过 140 个主题来为您的早晨增添趣味，以及一个自动更新工具.  |
+| [Prezto](https://github.com/sorin-ionescu/prezto)              |  Zsh 的配置框架.  | 使用合理的默认值、别名、函数、自动完成和提示主题丰富命令行界面环境.  |
+| [YADR](http://skwp.github.io/dotfiles/)                        | 你见过的最好的 vim、git、zsh 插件和最干净的 vimrc | 自制软件、zsh、git、vim 等. 活动存储库.  |
+| [antigen](http://antigen.sharats.me)                           |  zsh 的插件管理器，灵感来自 oh-my-zsh 和 vundle.  |  Antigen 是一小组函数，可帮助您轻松管理 shell (zsh) 插件.  Antigen 之于 zsh，Vundle 之于 vim.  |
+| [Dries's dotfiles](https://github.com/driesvints/dotfiles)     | 适用于 macOS 的点文件的简化方法 |  Zsh, Oh My Zsh, macOS, Homebrew, Mackup |
+| [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)    |  Dotfiles 为开发者带来幸福 |  Zsh、Brew、Sublime、Python、Node、Elixir |
 
 ### Fish
 
- | 标题| 描述重点|
+ | 标题 | 说明 | 焦点 |
 | :------------------------------------------------------- | :----------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)    | 社区鱼类框架.  | 包括许多插件和主题，以及安装，自动更新和脚手架工具.  |
-| [Paul's dotfiles](https://github.com/paulirish/dotfiles)  | 大量的点文件和大量的自定义函数|  Fish，macOS，Homebrew，自定义Shell功能|
-| [rkalis's dotfiles](https://github.com/rkalis/dotfiles)   | 维护良好的dotfile，包含Fish，存储库管理和Hammerspoon | 鱼，macOS，自制软件，存储库管理，Hammerspoon |
+| [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)    | 社区鱼类框架.  | 包括许多插件和主题，以及安装、自动更新和脚手架工具.  |
+| [Paul's dotfiles](https://github.com/paulirish/dotfiles)  | 丰富的 dotfiles 和大量酷炫的自定义函数 |  Fish、macOS、Homebrew、自定义 Shell 函数 |
+| [rkalis's dotfiles](https://github.com/rkalis/dotfiles)   | 维护良好的点文件，包含 Fish、存储库管理和 Hammerspoon |  Fish, macOS, Homebrew, Repository management, Hammerspoon |
 
 ### Ansible
 
- | 标题| 描述重点|
+ | 标题 | 说明 | 焦点 |
 | :------------------------------------------------------ | :------------------------------------------- | :------------------------------------------------------------------------------ |
-| [.dots](https://github.com/Addvilz/dots)                 | 新的和升级的点文件，现在带有Ansible！  | 使用Ansible |完全自动化的桌面设置，配置和维护
-| [sloria's dotfiles](https://github.com/sloria/dotfiles)  |  sloria的dotfile作为Ansible角色| 使用单个命令设置完整的本地开发环境|
+| [.dots](https://github.com/Addvilz/dots)                 | 新的和升级的点文件，现在有了 Ansible！  | 使用 Ansible 实现完全自动化的桌面设置、配置和维护 |
+| [sloria's dotfiles](https://github.com/sloria/dotfiles)  |  sloria 的 dotfiles 作为 Ansible 角色 | 使用单个命令设置完整的本地开发环境 |
 
 ## Tools
 
-- [Ansible](https://www.ansible.com) -极为简单的配置管理，应用程序部署，
+- [Ansible](https://www.ansible.com) - 极其简单的配置管理、应用程序部署、
   任务执行和多节点编排引擎.
-- [bashdot](https://github.com/bashdot/bashdot) -极简主义的点文件管理框架完全用bash编写.
-- [chezmoi](https://github.com/twpayne/chezmoi) -在多台计算机上安全地管理您的点文件.
-- [dotbare](https://github.com/kazhala/dotbare) -与fzf交互管理点文件.
-- [dotbot](https://github.com/anishathalye/dotbot) -引导您的点文件的工具.
-- [dotdrop](https://github.com/deadc0de6/dotdrop) -一次保存您的点文件，将其部署到任何地方.
-- [dotstow](https://github.com/codejamninja/dotstow) -使用收藏夹管理dotfile.
-- [emplace](https://github.com/tversteeg/emplace) -使用dotfile同步多台计算机上已安装的软件包
-  资料库.
-- [Fisher](https://github.com/jorgebucaran/fisher) -鱼的包装经理
-- [fresh](https://freshshell.com)  -保持您的点文件新鲜.  Fresh是一种用于获取外壳程序配置的工具（别名，
-  功能等）到您自己的配置文件中.
-- [GNU Stow](http://www.gnu.org/software/stow/) -Symlink服务器场管理器，可使用不同的软件和/或软件包
-  数据位于文件系统上的单独目录中，并使其看起来好像安装在同一位置.
-- [homeshick](https://github.com/andsens/homeshick) -用Bash编写的Git点文件同步器.
-- [homesick](https://github.com/technicalpickles/homesick)  -您的主目录就是您的城堡. 不要离开你
-  后面的点文件（[article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
-- [mackup](https://github.com/lra/mackup) -使您的应用程序设置保持同步（OS X / Linux）.
-- [Pearl](https://github.com/pearl-core/pearl) -包管理器，允许以以下方式控制，同步，共享点文件
-  在shell或编辑器启动期间自动激活的软件包. 已经有各种各样的软件包
-  在里面 [Official Pearl Hub](https://github.com/pearl-hub) （对于Linux和OSX）.
-- [rcm](https://github.com/thoughtbot/rcm) -rc文件（dotfile）管理.
-- [themer](https://github.com/mjswensen/themer) -从内部管理和生成跨开发工具的主题
-  您的点文件.
-- [toml-bombadil](https://github.com/oknozor/toml-bombadil) -模板化和管理您的dotfile.
-- [yadm](https://github.com/TheLocehiliosan/yadm) -用于管理多台计算机中文件集合的工具，
-  使用共享的Git存储库和一些其他功能.
+- [bashdot](https://github.com/bashdot/bashdot) - 完全用 bash 编写的极简点文件管理框架.
+- [chezmoi](https://github.com/twpayne/chezmoi) - 在多台机器上安全地管理您的点文件.
+- [comtrya](https://github.com/comtrya/comtrya) - 本地主机的配置管理，用 Rust 编写，适用于 Linux、BSD、macOS 和 Windows
+- [dotbare](https://github.com/kazhala/dotbare) - 使用 fzf 以交互方式管理点文件.
+- [dotbot](https://github.com/anishathalye/dotbot) - 引导您的 dotfiles 的工具.
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - 保存您的点文件一次，将它们部署到任何地方.
+- [dotstow](https://github.com/codejamninja/dotstow) - 用 stow 管理点文件.
+- [emplace](https://github.com/tversteeg/emplace) - 使用 dotfiles 在多台机器上同步已安装的包
+  存储库.
+- [Fisher](https://github.com/jorgebucaran/fisher) - Fish 的包管理器
+- [fresh](https://freshshell.com)  - 保持您的点文件新鲜.  Fresh 是一个获取 shell 配置（别名、
+  函数等）从其他人到您自己的配置文件.
+- [GNU Stow](http://www.gnu.org/software/stow/) - Symlink 农场管理器采用不同的软件包和/或
+  数据位于文件系统上的不同目录中，并使它们看起来安装在同一位置.
+- [homeshick](https://github.com/andsens/homeshick) - 用 Bash 编写的 Git 点文件同步器.
+- [homesick](https://github.com/technicalpickles/homesick)  - 您的主目录就是您的城堡. 不要离开你
+  后面的点文件 ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
+- [mackup](https://github.com/lra/mackup) - 保持应用程序设置同步（OS X/Linux）.
+- [Pearl](https://github.com/pearl-core/pearl) - 允许控制、同步、共享点文件的包管理器
+  在 shell 或编辑器启动期间自动激活的包. 已经有各种各样的软件包可用
+  in the [Official Pearl Hub](https://github.com/pearl-hub) （适用于 Linux 和 OSX）.
+- [rcm](https://github.com/thoughtbot/rcm) - rc 文件（dotfile）管理.
+- [themer](https://github.com/mjswensen/themer) - 从内部管理和生成跨开发工具的主题
+  你的点文件.
+- [toml-bombadil](https://github.com/oknozor/toml-bombadil) - 模板化和管理您的点文件.
+- [yadm](https://github.com/TheLocehiliosan/yadm) - 跨多台计算机管理文件集合的工具，
+  使用共享的 Git 存储库和一些附加功能.
 
 ### macOS
 
-- [dockutil](https://github.com/kcrawford/dockutil) -用于管理停靠项目的命令行工具
-- [mas](https://github.com/mas-cli/mas) -Mac App Store命令行界面
-- [zero](https://github.com/zero-sh/zero.sh) -极其简单的macOS个人引导工具.
+- [dockutil](https://github.com/kcrawford/dockutil) - 用于管理停靠项目的命令行工具
+- [mas](https://github.com/mas-cli/mas) - Mac App Store 命令行界面
+- [zero](https://github.com/zero-sh/zero.sh) - 适用于 macOS 的极其简单的个人引导工具.
 
 ## Miscellaneous
 
-- [dotfiles.github.io](http://dotfiles.github.io) -您在GitHub上非官方的dotfiles指南.
-- [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) -集中精力开展令人敬畏的工作
+- [dotfiles.github.io](http://dotfiles.github.io) - 您在 GitHub 上的 dotfiles 非官方指南.
+- [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - 开始了令人敬畏的工作的集中地方
   [@mathiasbynens on .macos](https://github.com/mathiasbynens/dotfiles#sensible-macos-defaults).
-- [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) -目录结构和
-  Linux发行版中的目录内容.
+- [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - 目录结构和
+  Linux 发行版中的目录内容.
 - [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) -
   [Summary](https://wiki.archlinux.org/index.php/XDG_Base_Directory)
 - [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/why_do_hidden_files_in_unix_begin_with_a_dot/egyj6lr/) -
-  罗伯·派克（Rob Pike）最初提出了“隐藏”或“点”文件的概念（最初发布在Google+上）
+  “隐藏”或“点”文件的想法是如何诞生的，作者：Rob Pike（最初发布在 Google+ 上）
 
 ## Related Lists
 
-- [Awesome Dev Env](https://github.com/jondot/awesome-devenv) -精选工具，资源和工作流程的清单
-  制作令人敬畏的开发环境的技巧.
-- [Awesome Fish](https://github.com/jorgebucaran/awesome-fish) -精选的软件包，提示和资源列表
+- [Awesome Dev Env](https://github.com/jondot/awesome-devenv) - 精选的工具、资源和工作流程列表
+  制作一个很棒的开发环境的技巧.
+- [Awesome Fish](https://github.com/jorgebucaran/awesome-fish) - 精选的包、提示和资源列表
   鱼壳.
-- [Awesome Shell](https://github.com/alebcay/awesome-shell) -精选的出色命令行框架，工具包，
-  指南和小玩意.
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) -精选的令人敬畏的开源列表
-  sysadmin资源.
-- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) -适用于Zsh的Zsh插件列表
-  oh-my-zsh，抗原和Prezto.
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) -精选的终端框架，插件和
-  CLI爱好者的资源.
+- [Awesome Shell](https://github.com/alebcay/awesome-shell) - 精选的命令行框架、工具包、
+  指南和小玩意儿.
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - 令人惊叹的开源精选列表
+  系统管理员资源.
+- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) - 适合使用的 Zsh 插件列表
+  oh-my-zsh，抗原和 Prezto.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy) - 终端框架、插件和精选列表
+  CLI 爱好者的资源.
 
 ## Archive/abandoned projects
 
@@ -183,5 +184,5 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Lars Kappert](https://www.webpro.nl) 放弃了所有版权及相关或
-neighboring rights to this work.
+在法律允许的范围内， [Lars Kappert](https://www.webpro.nl) 已放弃所有版权和相关或
+这项工作的邻接权.
