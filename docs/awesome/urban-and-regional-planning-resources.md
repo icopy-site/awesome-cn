@@ -32,7 +32,7 @@
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
     
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法对卫星图像得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 
@@ -66,7 +66,7 @@
 
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)  - EJSCREEN 使用地图和报告来呈现三种信息：环境指标、人口指标和 EJ 指数. 附加信息：[Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
    
-- [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社区的社会脆弱性水平确定在灾难之前、期间或之后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
+- [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社区的社会脆弱性水平确定在灾前、灾中或灾后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
  
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了全面的负担能力视图，其中包括社区层面的住房成本和交通成本. 由邻里技术中心提供. 
 
@@ -175,7 +175,7 @@ Python 库和相关资源.
 
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
 
-- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
+- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 
@@ -238,11 +238,12 @@ R 包和相关资源.
 
 - [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)  - CityEngine 是先进的 3D 建模软件，用于在比传统建模技术更短的时间内创建巨大的、交互式的和身临其境的城市环境. 您使用 CityEngine 创建的城市可以基于真实世界的 GIS 数据和使用它们的程序规则.
 
-- [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs. 
+- [SketchUp](https://www.sketchup.com/)  - 易于使用的交互式 3D 建模软件，用于规划和设计应用程序. 由丰富的资产库支持，用于创建邻里设计. 
 
 - [Rhino](https://www.rhino3d.com/)  - 这是一款商用3D计算机图形和计算机辅助设计应用软件.  Rhino 已经在其之上构建了多个插件，包括 Grasshopper 和城市网络分析工具箱，以支持复杂的建模和分析. 
 
 ### Urban Planning Tools and Platforms
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划师和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 
@@ -250,7 +251,7 @@ R 包和相关资源.
 
 ### Environmental Planning & Climate Tools and Platforms
 
-- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
+- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部林务局研究.
     
 ## Other Resources
 其他类型的规划数据和技术资源. 
@@ -271,7 +272,7 @@ R 包和相关资源.
 
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - 用于农业、耕作和园艺的开源技术.
 
-- [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
+- [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，以改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 

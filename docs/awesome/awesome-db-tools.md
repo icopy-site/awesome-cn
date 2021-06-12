@@ -38,6 +38,7 @@
 
 ## GUI Managers/Clients
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开放源代码 SQL 编辑器和数据库管理器，并在其使命声明中承诺隐私.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [HouseOps](https://github.com/HouseOps/HouseOps) - 企业 ClickHouse Ops UI 用于运行查询、监控 ClickHouse 运行状况并让很多其他人思考.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论数据位于何处.
@@ -101,7 +102,7 @@
 - [gh-ost](https://github.com/github/gh-ost) - MySQL 的在线架构迁移.
 - [liquibase](https://github.com/liquibase/liquibase) - 用于跟踪、管理和应用数据库架构更改的独立于数据库的库.
 - [migra](https://github.com/djrobstep/migra) - 与 diff 类似，但适用于 PostgreSQL 模式.
-- [node-pg-migrate](https://github.com/salsita/node-pg-migrate)  - 专为 postgres 构建的 Node.js 数据库迁移管理.  （但也可以用于其他符合 SQL 标准的数据库 - 例如 CockroachDB.）
+- [node-pg-migrate](https://github.com/salsita/node-pg-migrate)  - 专为 postgres 构建的 Node.js 数据库迁移管理.  （但也可用于符合 SQL 标准的其他数据库 - 例如 CockroachDB.）
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明式数据库架构迁移工具，使用声明式数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供将 PostgreSQL 数据库架构描述为 YAML 的实用程序.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明式数据库模式管理的 Kubernetes 操作符（用于数据库模式的 gitops）.
@@ -224,7 +225,7 @@
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - 用 Perl 编写的脚本，允许您快速查看 MySQL 安装并进行调整以提高性能和稳定性.
 - [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com) - 生成优化的“postgresql.conf”的免费在线工具.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL 配置向导.
-- [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - 简单的脚本来分析您的 PostgreSQL 数据库配置，并提供调优建议.
+- [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - 用于分析 PostgreSQL 数据库配置的简单脚本，并提供调优建议.
 
 
 ## DevOps

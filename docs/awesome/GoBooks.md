@@ -83,7 +83,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 想学围棋的程序员.
 Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 和惯用的 Go 来解决现实世界的问题.
-这本书不假设你有围棋的先验知识或经验
+The book does not assume prior knowledge of Go nor experience with
 任何特定语言，因此无论您是
 最熟悉 JavaScript、Ruby、Python、Java 或 C++.
 
@@ -174,11 +174,17 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 
 除了基础知识之外，Go Network Programming with Go 还涵盖了关键的网络和安全问题，例如 HTTP 和 HTTPS、模板、远程过程调用 (RPC)、Web 套接字（包括 HTML5 Web 套接字）等等.
 
+### [Network Programming with Go](https://nostarch.com/networkprogrammingwithgo)
+
+<img src="https://images3.penguinrandomhouse.com/cover/9781718500884" width="120px"/>
+
+使用 Go 进行网络编程将帮助您利用 Go 编写安全、可读、可用于生产的网络代码. 使用 Go 进行网络编程是利用 Go 的内置并发、快速编译和丰富的标准库所需要的全部内容.
+
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
 
-本书将带您了解并发的历史、Go 如何利用并发、Go 与其他语言的不同之处以及 Go 并发核心的特性和结构. 每一步，本书都会提供真实的、可用的例子，并详细描述所使用的方法. 到最后，您会很轻松地在 Go 中设计一个安全、数据一致、高性能的并发应用程序.
+本书将带您了解并发的历史、Go 如何利用并发、Go 与其他语言的不同之处以及 Go 并发核心的特性和结构. 本书的每一步都将提供真实的、可用的示例，并详细描述所使用的方法. 到最后，您会很轻松地在 Go 中设计一个安全、数据一致、高性能的并发应用程序.
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
@@ -190,7 +196,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
-一个开发者的 golang 经验.
+A developer's exprience in golang.
 
 ### [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
 
@@ -299,7 +305,7 @@ code.
 
 <a href="https://static-2.gumroad.com/res/gumroad/9387844778319/asset_previews/7446424985b5f9cb53689105d297021d/retina/Cover300ppi.png" width="120px"/></a>
 
-Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
+ Web Development with Go 的目的是教初学者和专家如何创建和部署真正的 Web 应用程序. 您不会构建样板 TODO 列表，而是从头开始创建和部署一个生产就绪的照片库应用程序，类似于 Pixieset. 本书假设没有任何 Web 开发经验，涵盖了成功构建自己的 Web 应用程序所需的一切知识.
 
 ### [Go: Building Web Applications](https://amzn.com/B01LD8K5C0)
 
@@ -339,7 +345,7 @@ Web Development with Go was written to teach both beginners and experts how to c
 
  Go 编程语言是一种简单的语言，但与所有其他语言一样，它也有其怪癖. 本书利用这些怪癖作为教学机会. 通过了解您的知识差距 - 您将变得更擅长您的工作.
 
-This book contains 25 mind bending quizzes and answers. You can view a sample chapter [here](https://www.353solutions.com/go-brain-teasers).
+本书包含 25 个令人费解的测验和答案. 您可以查看示例章节 [here](https://www.353solutions.com/go-brain-teasers).
 
 ### [Creative DIY Microcontroller Projects with TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208)
 
@@ -363,7 +369,7 @@ This book contains 25 mind bending quizzes and answers. You can view a sample ch
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些都将使您在日常工作或业余项目中的编码更容易、更快、更有趣.
+Take your Go skills to the next level by learning how to design, develop, and deploy a distributed service. Start from the bare essentials of storage handling, work your way through networking a client and server, turn that single-node application into a distributed system with service discovery and consensus, and then deploy your service to the cloud. All this will make coding in your day job or side projects easier, faster, and more fun.
 
 Resources
 ====
