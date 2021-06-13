@@ -128,7 +128,7 @@
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 
-- [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
+- [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
 
@@ -249,9 +249,11 @@ R 包和相关资源.
 
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具. 
 
-### Environmental Planning & Climate Tools and Platforms
+### Environmental and Climate Planning Tools and Platforms
 
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部林务局研究.
+
+- [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
     
 ## Other Resources
 其他类型的规划数据和技术资源. 
@@ -292,6 +294,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了对这个资源产生更多的贡献和理解，我们非常感谢分享这个存储库或在适当的时候引用它. 
 
 
-If you do cite this repository you can as: 
+如果你确实引用了这个存储库，你可以： 
 
 规划-技术-资源.  (2020) APA 技术部. 摘自：来自 https://github.com/APA-Technology-Division
