@@ -2,38 +2,38 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Q## [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> [Q#](https://docs.microsoft.com/en-us/quantum/) 是用于表示量子算法的领域特定的编程语言. 它最初是由Microsoft作为Quantum Development Kit的一部分向公众发布的.  –[Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
+> [Q#](https://docs.microsoft.com/en-us/quantum/) 是一种特定领域的编程语言，用于表达量子算法. 它最初由 Microsoft 作为 Quantum 开发工具包的一部分向公众发布.  ——[Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
 
 A list of Q# code and resources.
 
-可以使用GitHub拉取请求机制随意改进此列表，请参见 [CONTRIBUTING](https://github.com/ebraminio/awesome-qsharp/blob/master/contributing.md) 想要查询更多的信息.
+随意使用 GitHub 拉取请求机制改进此列表，请参阅 [CONTRIBUTING](https://github.com/ebraminio/awesome-qsharp/blob/master/contributing.md) 想要查询更多的信息.
 
 
 ## Official Resources
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
 - [Q# samples](https://github.com/Microsoft/Quantum)
 - [Q# libraries](https://github.com/Microsoft/QuantumLibraries)
-- [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) -特别是“量子计算概念”总体上很好地介绍了量子计算.
+- [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) - 特别是“量子计算概念”很好地介绍了量子计算.
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
 - [Q# libraries for the Quantum Development Kit](https://github.com/microsoft/QuantumLibraries)
 
 ## Tutorials
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.
 - [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
-- [Create your first Q# program by using the Quantum Development Kit](https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/) -Microsoft学习模块.
-- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) -在Grace Hopper Celebration 2018和Hopper x1 Seattle 2019上介绍了用于自定进度的“量子计算入门”研讨会的材料.
-- [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) -在MLADS 2018上展示了用于自定进度的“量子机器学习入门”讲习班的材料.
-- [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) -在MLADS 2020上展示的用于自定进度的“量子分类简介”实验室的材料.
+- [Create your first Q# program by using the Quantum Development Kit](https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/) - 微软学习模块.
+- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - 在 Grace Hopper Celebration 2018 和 Hopper x1 Seattle 2019 上展示的自定进度“量子计算简介”研讨会的材料.
+- [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - 在 MLADS 2018 上展示的自定进度“量子机器学习简介”研讨会的材料.
+- [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) - 在 MLADS 2020 上展示的自定进度“量子分类简介”实验室的材料.
 
 ## Books
-- [Learn Quantum Computing with Python 和 Q#](https://www.manning.com/books/learn-quantum-computing-with-python-和-q-sharp) -Manning，抢先体验，预计于2020年春季， [Dr. Sarah Kaiser](https://www.sckaiser.com/) 和 [Chris Granade](https://www.cgranade.com/).
+- [Learn Quantum Computing with Python 和 Q#](https://www.manning.com/books/learn-quantum-computing-with-python-和-q-sharp) - 曼宁，2021 年， [Sarah Kaiser](https://www.sckaiser.com/) 和 [Chris Granade](https://www.cgranade.com/).
 
 ## Videos
 <!--lint ignore double-link-->
-- [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) -Krysta Svore-Microsoft Mechanics的量子隐形传态逐步演示.
-- [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) -Bettina Heim，Microsoft Ignite 2018会议（[here](https://www.youtube.com/watch?v=AjBLsrGgEkY) 是使用VS Code而不是Visual Studio进行的同一会话）.
-- [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) 约翰·阿扎里亚（John Azariah），Microsoft Build 2018会议.
-- [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) -Rolf Huisman.
+- [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) - Krysta Svore - Microsoft Mechanics 的量子隐形传态分步演示.
+- [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Bettina Heim，Microsoft Ignite 2018 会议（[here](https://www.youtube.com/watch?v=AjBLsrGgEkY) 是使用 VS Code 而不是 Visual Studio 举行的同一会话）.
+- [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) - John Azariah，Microsoft Build 2018 会议.
+- [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) - 罗尔夫·哈斯曼.
 - [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
 
 ## Q/A
@@ -45,13 +45,13 @@ A list of Q# code and resources.
 ### Official resources
 - [Microsoft Q# Coding Contest (Summer 2018)](https://codeforces.com/contest/1002)
 - [Microsoft Q# Coding Contest (Summer 2018) Warmup Round](https://codeforces.com/contest/1001)
--的解决方案说明 [Microsoft Q# Coding Contest (Summer 2018)](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) 而对于 [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
+- 解决方案说明 [Microsoft Q# Coding Contest (Summer 2018)](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) 并且对于 [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
 - [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/contest/1116)
 - [Microsoft Q# Coding Contest (Winter 2019) Warmup Round](https://codeforces.com/contest/1115)
--的解决方案说明 [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) 而对于 [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
+- 解决方案说明 [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) 并且对于 [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
 - [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/contest/1357)
 - [Microsoft Q# Coding Contest (Summer 2020) Warmup Round](https://codeforces.com/contest/1356)
--的解决方案说明 [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/blog/entry/79208) 而对于 [Warmup Round](https://codeforces.com/blog/entry/78832)
+- 解决方案说明 [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/blog/entry/79208) 并且对于 [Warmup Round](https://codeforces.com/blog/entry/78832)
 
 ### Participants' solutions
 - [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
@@ -65,6 +65,7 @@ A list of Q# code and resources.
 - [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
 - [Vim](https://github.com/gootorov/q-sharp.vim)
+- [Jupyter Notebook](https://docs.microsoft.com/en-us/azure/quantum/install-jupyter-qdk)
 
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
@@ -76,7 +77,7 @@ A list of Q# code and resources.
 
 ## Blogs
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
-- [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) -Microsoft Quantum团队的官方博客.
+- [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum 团队的官方博客.
 - [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
 - [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
 - [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)

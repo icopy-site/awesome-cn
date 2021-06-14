@@ -138,7 +138,7 @@
 ### Devops
 
 - [htconvert](https://github.com/lukechilds/htconvert) - 将 .htaccess 重定向转换为 nginx.conf 重定向.
-- [SAWS](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
+- [SAWS](https://github.com/donnemartin/saws) - 增压 AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 功能齐全的 S3 客户端.
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程经理.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
@@ -194,13 +194,13 @@
 - [ipt](https://github.com/drselump14/ipt) - 关键跟踪器客户端.
 - [g3l](https://github.com/svtek/g3l) - 世界上最简单的 git cli！
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
-- [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
-- [googler](https://github.com/jarun/googler) - 从终端谷歌.
+- [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+- [googler](https://github.com/jarun/googler) - Google from the terminal.
 - [papis](http://github.com/alejandrogallo/papis) - 可扩展的文档和书目管理器.
 
 ### Time Tracking
 
-- [Timetrap](https://github.com/samg/timetrap) - 简单的命令行时间跟踪器.
+- [Timetrap](https://github.com/samg/timetrap) - 简单的时间跟踪器.
 - [moro](https://github.com/omidfi/moro) - 用于跟踪工作时间的简单工具.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 具有简单秒表、基于日历的回填和灵活报告的实用程序.
 - [Watson](https://github.com/TailorDev/Watson) - 为客户生成报告并管理您的时间.
@@ -210,9 +210,9 @@
 
 - [idea](https://github.com/IonicaBizau/idea) - 一种轻量级工具，可快速轻松地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 印象笔记客户端.
-- [Taskwarrior](http://taskwarrior.org) - 从命令行管理您的待办事项列表.
-- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 用于终端的快速笔记应用程序.
-- [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
+- [Taskwarrior](http://taskwarrior.org) - 管理您的待办事项列表.
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 一个快速的笔记应用程序.
+- [eureka](https://github.com/simeg/eureka) - 输入和存储您的想法.
 - [sncli](https://github.com/insanum/sncli) - Simplenote 客户端.
 - [td-cli](https://github.com/darrikonn/td-cli) - 一个 TODO 管理器，用于跨多个项目组织和管理您的 TODO.
 - [taskell](https://github.com/smallhadroncollider/taskell) - 交互式看板/任务管理器.
@@ -316,7 +316,7 @@
 - [brightness-cli](https://github.com/kevva/brightness-cli) - 改变屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) - 将终端输出到剪贴板.
 - [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在您的本地机器上下载并安装 Google Web Fonts.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
 
@@ -328,14 +328,14 @@
 
 ## Command Line Learning
 
-- [cmdchallenge](https://cmdchallenge.com/) - 对用户提交的解决方案提出小的 shell 挑战.
-- [explainshell](http://www.explainshell.com/) - 键入命令行片段以查看每个参数的帮助文本.
-- [howdoi](https://github.com/gleitz/howdoi) - 通过命令行即时编码答案.
-- [how2](https://github.com/santinic/how2) - 找到在 unix bash 命令行上做某事的最简单方法（howdoi 的 Nodejs 实现）.
+- [cmdchallenge](https://cmdchallenge.com) - 用用户提交的解决方案呈现小壳挑战.
+- [explainshell](http://www.explainshell.com) - 键入一个片段以查看每个参数的帮助文本.
+- [howdoi](https://github.com/gleitz/howdoi) - 即时编码答案.
+- [how2](https://github.com/santinic/how2) - Howdoi 的 Node.js 实现.
 - [The Fuck](https://github.com/nvbn/thefuck) - 宏伟的应用程序，可更正您之前的控制台命令.
 - [tldr](https://github.com/tldr-pages/tldr) - 简化和社区驱动的手册页.
 - [Wat](https://github.com/dthree/wat) - 即时的、中央的、社区构建的文档.
-- [teachcode](https://github.com/madlabsinc/teachcode) - 通过介绍最早的编码课程来培养和提高学生编程技能的工具.
+- [teachcode](https://github.com/madlabsinc/teachcode) - 最早的编码课程指南.
 - [navi](https://github.com/denisidoro/navi) - 交互式备忘单工具.
 
 ## Data Manipulation

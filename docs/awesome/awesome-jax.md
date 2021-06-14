@@ -6,7 +6,7 @@
 [JAX](https://github.com/google/jax) 带来自动微分和 [XLA compiler](https://www.tensorflow.org/xla) 一起通过一个 [NumPy](https://numpy.org/)类似 API，用于对 GPU 和 TPU 等加速器进行高性能机器学习研究.
 <!--lint enable double-link-->
 
-这是很棒的 JAX 库、项目和其他资源的精选列表. 欢迎投稿！
+This is a curated list of awesome JAX libraries, projects, and other resources. Contributions are welcome!
 
 
 
@@ -59,6 +59,7 @@
 - [jaxlie](https://raw.githubusercontent.com/brentyi/jaxlie) - 用于刚体变换和优化的李理论库. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 - [BRAX](https://raw.githubusercontent.com/google/brax) - 可微分物理引擎来模拟环境以及学习算法来为这些环境训练代理. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 - [flaxmodels](https://raw.githubusercontent.com/matthias-wright/flaxmodels) - Jax/Flax 的预训练模型. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
+- [CR.Sparse](https://raw.githubusercontent.com/carnotresearch/cr-sparse) - 用于稀疏表示和压缩感知的 XLA 加速算法. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 
 <a name="models-and-projects" />
 
@@ -137,4 +138,4 @@
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/n2cholas/awesome-jax/blob/master/contributing.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/n2cholas/awesome-jax/blob/master/contributing.md) 第一的.

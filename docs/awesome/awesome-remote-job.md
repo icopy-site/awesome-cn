@@ -38,6 +38,7 @@
 ## Articles & Posts
   1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers/)
   1. [5 Little-Known Hacks for Finding Remote Work](https://blog.hubstaff.com/hacks-find-remote-jobs/)
+  1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
   1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote/)
   1. [10 Lessons from 4 Years Working Remotely at Automattic](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
@@ -216,7 +217,7 @@
   1. [Common](https://www.hicommon.com/) - 纽约Coliving House
   1. [Coworking in the Sun](https://www.coworkinginthesun.com/) - 西班牙特内里费岛的共享办公空间
   1. [Hive Arena](https://hivearena.com/coworking/) - 韩国首尔的联合办公和共享空间
-  1. [HubBOG](https://hubbog.com/)  - 联合办公空间 + 创业加速器. 哥伦比亚波哥大
+  1. [HubBOG](https://hubbog.com/)  - 联合办公空间 + 启动加速器. 哥伦比亚波哥大
   1. [Mokrin House](https://www.mokrinhouse.com/) - 塞尔维亚农村地区的共享办公空间
   1. [Nest Copenhagen](https://nestcopenhagen.dk/) - 丹麦哥本哈根的共享空间
   1. [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - 墨西哥的共生空间
@@ -418,7 +419,7 @@
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web 应用程序安全扫描器.
   1. [Next Big Sound](https://www.nextbigsound.com/about) - 音乐行业的分析和洞察.
   1. [NinjaCat](https://www.ninjacat.io/jobs) - 领先数字机构的报告、监控和呼叫跟踪平台.
-  1. [Niteo](https://niteo.co/careers) - 一个有着十年历史的 SaaS 工作室，充满了聪明的想法，构建了智能解决方案来为在线小型企业提供支持.
+  1. [Niteo](https://niteo.co/careers) - 一个有着十年历史的 SaaS 工作室，充满了聪明的想法，构建智能解决方案来为在线小型企业提供支持.
   1. [NodeSource](https://nodesource.com/about) - NodeSource 致力于为 Node.js 创建一个可持续的生态系统.
   1. [Nozbe](https://nozbe.com/careers) - 适用于 Mac、Windows、Linux、Android、iPad 和 iPhone 的 GTD 应用程序.
   1. [ofri](https://www.ofri.ch/job_openings) - 一个将房主与优质家居装修专业人士联系起来的瑞士在线市场.
@@ -435,7 +436,7 @@
   1. [Precision Nutrition](https://www.precisionnutrition.com/) - 在线营养指导和认证.
   1. [PreviousNext](https://www.previousnext.com.au) - 澳大利亚的 Drupal 机构.
   1. [Prezly](https://www.prezly.com/)  - SaaS 公关平台.  PHP、React、JS、Postgres.  100% 远程.
-  1. [Prodperfect](https://prodperfect.com/)  - 来自实时用户数据的自动化 QA 测试. 在波士顿和旧金山设有工作场所的远程优先组织.
+  1. [Prodperfect](https://prodperfect.com/)  - 来自实时用户数据的自动化 QA 测试. 远程优先组织，在波士顿和旧金山设有工作场所.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - 按需 QA 即服务.
   1. [Real HQ](https://realhq.com)  - Agent Pronto 的制造商，该软件旨在帮助改善房屋买卖体验. 我们从一开始就处于远程状态，现在全球有 50 多个.  Ruby、Rails、React.js、iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/)  - 社交发布平台.  Python、JS 和 iOS/Android 开发人员. 世界各地的团队.

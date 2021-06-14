@@ -4,15 +4,15 @@
 [<img src="https://raw.githubusercontent.com/dastergon/awesome-sre/master/awesome-sre-logo.svg?sanitize=true" align="right" width="100">](https://dastergon.gr/awesome-sre)
 
 
-精选的很棒的清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
+一个很棒的精选清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
 
 #### What is Site Reliability Engineering?
- &gt;“从根本上讲，当您要求软件工程师设计操作功能时，就会发生这种情况.”  -Google SRE创始人Google工程部副总裁Ben Treynor Sloss
+ &gt; “从根本上说，这就是当您要求软件工程师设计操作功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
 
 ## Contributing
 
-请看看 [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) 第一的.
-永远欢迎捐款！
+请看一下 [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) 第一的.
+总是欢迎贡献！
 
 
 ## Culture
@@ -21,7 +21,7 @@
 * [Google SRE Resources](https://landing.google.com/sre/resources.html)
 * [Notes from Production Engineering by Pedro Canahuati](https://www.usenix.org/conference/srecon15/program/presentation/canahuati)
 * [PostOps: Recovery from Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/underwood)
-* [Love DevOps? Wait 'till you meet SRE](https://www.atlassian.com/it-service/site-reliability-engineering-sre) [[视频]]（https://youtu.be/fsTpRx8Pt-k）
+* [Love DevOps? Wait 'till you meet SRE](https://www.atlassian.com/it-service/site-reliability-engineering-sre) [[视频]](https://youtu.be/fsTpRx8Pt-k)
 * [How Google Does Planet-Scale Engineering for Planet-Scale Infra](https://www.youtube.com/watch?v=H4vMcD7zKM0)
 * [Site Reliability Engineering at Facebook](https://www.facebook.com/notes/facebook-engineering/site-reliability-engineering-at-facebook/291616313919/)
 * [A History of Site Reliability Engineering at Uber](https://www.youtube.com/watch?v=qJnS-EfIIIE&nohtml5=False)
@@ -29,19 +29,19 @@
 * [Site Reliability Engineering at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE)
 * [Site Reliability Engineers — Keeping Google up and running 24/7](https://www.youtube.com/watch?v=yXI7r0_J29M)
 * [Site Reliability Engineering at Salesforce](https://www.youtube.com/watch?v=JLkr6UHXN44&nohtml5=False)
-*从Sys Admin到Netflix SRE- [video](https://www.youtube.com/watch?v=lZI51YzIgVE) 和 [slides](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
+* 从系统管理员到 Netflix SRE - [video](https://www.youtube.com/watch?v=lZI51YzIgVE) 和 [slides](https://www.socallinuxexpo.org/sites/default/files/presentations/Scale%20x14%20Slides.pdf)
 * [SRE@Google: Thousands of DevOps Since 2004](https://www.youtube.com/watch?v=iIuTnhdTzK0)
 * [Transactional System Administration Is Killing Us and Must be Stopped](https://www.usenix.org/conference/lisa15/conference-program/presentation/limoncelli)
 * [A hierarchy of SRE needs](https://web.archive.org/web/20190401220948/https://plus.google.com/+lizthegrey/posts/MLAJFVyEb2f)
 * [PostOps: A Non-Surgical Tale of Software, Fragility, and Reliability](https://www.usenix.org/conference/lisa13/technical-sessions/plenary/underwood)
-* [SRE: An incomplete guide to cultural Narnia](https://web.archive.org/web/20180820235243/http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/) -[[视频]]（https://www.youtube.com/watch?v=__wypEhdcrQ&amp;t=0s）
+* [SRE: An incomplete guide to cultural Narnia](https://web.archive.org/web/20180820235243/http://anthonycaiafa.com/2016/04/10/sre-cultural-narnia/) - [[视频]](https://www.youtube.com/watch?v=__wypEhdcrQ&amp;t=0s)
 * [Putting Together Great SRE Teams](https://www.usenix.org/conference/srecon16/program/presentation/krishnan)
 * [Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM)
 * [Toil: A Word Every Engineer Should Know](https://sharpend.io/toil-a-word-every-engineer-should-know/)
 * [Engineering Reliability into Web Sites: Google SRE](https://research.google.com/pubs/pub32583.html)
 * [DEVOPS & SRE AMA - Building High Performance Organizations](http://pages.catchpoint.com/DEVOPS-SRE-AMA-mkty.html)
 * [John Allspaw's AMA on Incident Analysis and Postmortems](https://community.atlassian.com/t5/Jira-Ops-questions/I-m-John-Allspaw-Ask-Me-Anything-about-incident-analysis-and/qaq-p/957084)
-*与Paul Newson进行的站点可靠性工程- [Part 1](https://www.gcppodcast.com/post/episode-38-site-reliability-engineering-with-paul-newson/) & [Part 2](https://gcppodcast.com/post/episode-59-sre-ii-with-paul-newson/)
+*保罗纽森的现场可靠性工程- [Part 1](https://www.gcppodcast.com/post/episode-38-site-reliability-engineering-with-paul-newson/) & [Part 2](https://gcppodcast.com/post/episode-59-sre-ii-with-paul-newson/)
 * [How SysAdmins Devalue Themselves](https://queue.acm.org/detail.cfm?id=2891413)
 * [The Softer Side of DevOps](https://www.youtube.com/watch?v=ry51Llzil1I)
 * [SRE, noun. See also: confidence, trust.](https://medium.com/@kobolog/sre-noun-see-also-confidence-trust-e7e33e19efc1)
@@ -85,7 +85,7 @@
 * [A Gentle Introduction to SRE](http://geekologist.co/introduction-to-sre/)
 * [Understanding Site Reliability Engineering through Movies and Books](http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/)
 * [GOTO 2017 • Site Reliability Engineering at Google • Christof Leng](https://www.youtube.com/watch?v=Cxb7a8lTv8A)
-*成功的地理分布SRE团队的组成- [Part1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p) & [Part2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
+* 成功的地理分布的 SRE 团队的组成 - [Part1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p) & [Part2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
 * [Tech Leadership in SRE](https://www.youtube.com/watch?v=6G2V1xPIM64)
 * [The Azure Podcast: Episode 227 - Azure SRE](http://azpodcast.azurewebsites.net/post/Episode-227-Azure-SRE1)
 * [The human scalability of "DevOps"](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
@@ -108,8 +108,8 @@
 * [Transitioning a typical engineering ops team into an SRE powerhouse](https://cloud.google.com/blog/products/management-tools/transitioning-a-typical-engineering-ops-team-into-an-sre-powerhouse)
 * [Making a Lion Bulletproof: SRE in Banking](https://www.infoq.com/presentations/ing-sre-teams-practices/)
 * [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
-* [从Ops到SRE：专用于OpenShift的演变
-  团队]（https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team）
+* [从 Ops 到 SRE：OpenShift Dedicated 的演变
+  团队](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
 * [Meeting reliability challenges with SRE principles](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 * [A quick introduction to SRE principles](https://github.com/fhivemind/sre-playground)
 * [The SRE I Aspire to Be](https://www.youtube.com/watch?v=KnC2eRUZMKY)
@@ -126,7 +126,7 @@
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
-* [站点非可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
+* [站点不可靠性工程[视频系列]](https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/)
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
@@ -207,7 +207,7 @@
 * [Available...or not? That is the question - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/available-or-not-that-is-the-question-CRE-life-lessons.html)
 * [How Google Backs Up The Internet Along With Exabytes Of Other Data](http://highscalability.com/blog/2014/2/3/how-google-backs-up-the-internet-along-with-exabytes-of-othe.html)
 * [Performance, Scalability, And High Availability: 3 Key Infrastructure Adaptability Requirements](http://highscalability.com/blog/2017/2/2/performance-scalability-and-high-availability-3-key-infrastr.html)
-* Google的生产环境- [Part 1](https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767) & [Part 2](https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa)
+* 谷歌的生产环境 - [Part 1](https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767) & [Part 2](https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa)
 * [Reliable releases and rollbacks - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/reliable-releases-and-rollbacks-CRE-life-lessons.html)
 * [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/)
@@ -440,58 +440,59 @@
 * [SRE as a Lifestyle Choice](https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d)
 * [SRECon EMEA 2019 Recap](https://speakerdeck.com/dastergon/srecon-emea-2019-recap-sre-muc-meetup)
 * [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
+* [Site Reliability Engineering for Native Mobile Apps - Abhijith Krishnappa](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/) - 案例研究：Halodoc 对原生移动应用程序的 SRE 原则的适应
 
 ## Real-time Messaging
-* [#sre channel at Hangops Slack](https://hangops.slack.com/) -一般讨论站点可靠性工程.
-* [#incident_response channel at Hangops Slack](https://hangops.slack.com/) -关于事件响应的讨论.
+* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般地讨论站点可靠性工程.
+* [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - 关于事件响应的讨论.
 * [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
 ## Blogs
-* [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) -有关系统内部，性能和SRE的高度技术性博客文章.
-* [Everything Sysadmin](http://everythingsysadmin.com/) -Tom Limoncelli撰写的有关SysAdmin / DevOps / SRE的博客文章.
-* [High Scalability](http://highscalability.com/) -有关系统架构的技术博客文章.
-* [rachelbythebay](https://rachelbythebay.com/w/) -技术博客文章.
-* [Susan J. Fowler](http://www.susanjfowler.com/blog/) -有关SRE，软件工程和微服务的各种博客文章.
-* [SysAdvent](https://sysadvent.blogspot.com) -12月的每一天都有一篇文章，到25日为止.
-* [Stephen Thorne's Blog](https://medium.com/@jerub) -关于SRE的博客文章
-* [Increment](https://increment.com/) -有关团队如何大规模构建和操作软件系统的数字杂志.
-* [GopherSRE](http://www.gophersre.com/) -有关Go和SRE的博客文章.
-* [Cindy Sridharan](https://medium.com/@copyconstruct) -有关分布式系统及其管理的博客文章.
-* [Blameless Blog](https://www.blameless.com/blog/) -有关SRE文化和实践的博客文章.
-* [Resilience Roundup](https://ResilienceRoundup.com) -为软件系统设计的每周抗灾工程和人为因素研究分析
-* [Squadcast Blog](https://www.squadcast.com/blog) -有关SRE最佳做法，可靠性，通话和事件管理的博客文章.
-* [FireHydrant Blog](https://www.firehydrant.io/blog) -有关复杂系统，事件响应和SRE最佳实践的帖子.
-* [Rootly Blog](https://www.rootly.io/blog) -事件管理最佳做法和指南.
+* [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 关于系统内部结构、性能和 SRE 的高技术博客文章.
+* [Everything Sysadmin](http://everythingsysadmin.com/) - Tom Limoncelli 撰写的关于 SysAdmin/DevOps/SRE 的博客文章.
+* [High Scalability](http://highscalability.com/) - 关于系统架构的技术博客文章.
+* [rachelbythebay](https://rachelbythebay.com/w/) - 技术博客文章.
+* [Susan J. Fowler](http://www.susanjfowler.com/blog/) - 关于 SRE、软件工程和微服务的各种博客文章.
+* [SysAdvent](https://sysadvent.blogspot.com) - 12 月的每一天一篇文章，在第 25 篇文章结束.
+* [Stephen Thorne's Blog](https://medium.com/@jerub) - 关于 SRE 的博客文章
+* [Increment](https://increment.com/) - 关于团队如何大规模构建和操作软件系统的数字杂志.
+* [GopherSRE](http://www.gophersre.com/) - 关于 Go 和 SRE 的博客文章.
+* [Cindy Sridharan](https://medium.com/@copyconstruct) - 关于分布式系统及其管理的博客文章.
+* [Blameless Blog](https://www.blameless.com/blog/) - 关于 SRE 文化和实践的博客文章.
+* [Resilience Roundup](https://ResilienceRoundup.com) - 为软件系统设计的弹性工程和人为因素研究的每周分析
+* [Squadcast Blog](https://www.squadcast.com/blog) - 关于 SRE 最佳实践、可靠性、随叫随到和事件管理的博客文章.
+* [FireHydrant Blog](https://www.firehydrant.io/blog) - 关于复杂系统、事件响应和 SRE 最佳实践的帖子.
+* [Rootly Blog](https://www.rootly.io/blog) - 事件管理最佳实践和指南.
 
 ## Newsletters
-* [DevOpsLinks](https://faun.dev) -有关SRE，SysAdmin和DevOps新闻，工具，教程和观点的每周新闻.
-* [KubeWeekly](https://kubeweekly.io/)  -有关Kubernetes的所有内容的每周新闻通讯.  KubeWeekly由Bob Killen，Chris Short，Craig Box，Kim McMahon和Michael Hausenblas策划
-* [SRE Weekly](https://sreweekly.com/) -每周站点可靠性简讯.
-* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) -每周的系统工程和运营新闻以及行业内部人士的见解.
-* [ChaosEngineering.news](https://chaosengineering.news/)  -混沌工程通讯. 万物杂乱工程，直接到您的收件箱！
+* [DevOpsLinks](https://faun.dev) - 关于 SRE、SysAdmin 和 DevOps 新闻、工具、教程和意见的每周时事通讯.
+* [KubeWeekly](https://kubeweekly.io/)  - 有关 Kubernetes 的所有内容的每周时事通讯.  KubeWeekly 由 Bob Killen、Chris Short、Craig Box、Kim McMahon 和 Michael Hausenblas 策划
+* [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.
+* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - 每周系统工程和运营新闻以及业内人士的见解.
+* [ChaosEngineering.news](https://chaosengineering.news/)  - 混沌工程通讯. 混沌工程的所有内容，直接发送到您的收件箱！
 
 
 ## Conferences & Meetups
-* [SRECon Conferences](https://www.usenix.org/conferences/byname/925) -官方的SRE会议.
-* [LISA Conferences](https://www.usenix.org/conferences/byname/5) -关于SysAdmin / DevOps / SRE的著名会议.
-* [SRE Tech Talks](https://developers.google.com/events/sre/) -Google主持的SRE讲座.
-* [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) -应对Web规模系统可靠性挑战的个人的团体.
-* [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) -一群热衷于可靠，高性能的软件系统的人.
-* [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) -在慕尼黑啤酒节城市的更大区域举行SRE聚会.
-* [ADDO - All Day DevOps](https://www.alldaydevops.com/) -24小时的会议，完全在线且免费.
-* [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) -在光影之城的SRE聚会.
-* [Site Reliability Engineering India](https://www.meetup.com/site-reliability-enggineering/) -印度SRE聚会
+* [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - 官方 SRE 会议.
+* [LISA Conferences](https://www.usenix.org/conferences/byname/5) - 关于 SysAdmin/DevOps/SRE 的著名会议.
+* [SRE Tech Talks](https://developers.google.com/events/sre/) - 由 Google 主持的 SRE 会谈.
+* [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - 为解决 Web 规模系统可靠性挑战的个人而设的小组.
+* [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - 一群对可靠、高性能的软件系统充满热情的人.
+* [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - 在慕尼黑啤酒节城市更大区域的 SRE 聚会.
+* [ADDO - All Day DevOps](https://www.alldaydevops.com/) - 完全在线且免费的 24 小时会议.
+* [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) - 光之城的 SRE 聚会.
+* [Site Reliability Engineering India](https://www.meetup.com/site-reliability-enggineering/) - SRE Meetup 印度
 
 ## Twitter
-* [Google SRE Twitter Account](https://twitter.com/googlesre) -Google的SRE Twitter帐户.
-* [SREBook](https://twitter.com/SREBook) -网站可靠性工程手册的官方Twitter帐户.
-* [SREcon](https://twitter.com/SREcon) -SRECon的官方Twitter帐户.
-* [SREWorkbook](https://twitter.com/SREWorkbook) -网站可靠性工作簿的官方Twitter帐户.
-* [The SRE Dev](https://twitter.com/The_SRE_Dev) -来自SRE的相关帖子 [dev.to](https://dev.to).
-* [Twitter SRE](https://twitter.com/TwitterSRE) -Twitter的SRE团队的官方Twitter帐户.
-* [Twitter SRE Weekly](https://twitter.com/SREWeekly) -SRE每周新闻的官方Twitter帐户.
-* [USENIX Association](https://twitter.com/usenix) -官方的USENIX Twitter帐户.
+* [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE 推特账户.
+* [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书的官方推特账号.
+* [SREcon](https://twitter.com/SREcon) - SRECon 的官方推特账号.
+* [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作簿的官方 Twitter 帐户.
+* [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE相关帖子来自 [dev.to](https://dev.to).
+* [Twitter SRE](https://twitter.com/TwitterSRE) - Twitter SRE 团队的官方 Twitter 帐户.
+* [Twitter SRE Weekly](https://twitter.com/SREWeekly) - SRE Weekly Newsletter 的官方推特账号.
+* [USENIX Association](https://twitter.com/usenix) - 官方USENIX推特账户.
 
 ## SRE Tools
-* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) -网站可靠性和生产工程工具精选清单
+* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - 站点可靠性和生产工程工具的精选列表
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
