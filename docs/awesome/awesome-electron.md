@@ -10,6 +10,14 @@
 
 **你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个 repo 中.**
 
+<div align="center">
+	<hr>
+	<br>
+	<h2>
+		<a href="https://www.producthunt.com/posts/system-color-picker">我的颜色选择器应用程序在 Product Hunt</a>
+	</h2>
+</div>
+
 <br>
 
 ---
@@ -457,7 +465,7 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) 第一的.
 
 ## Related
 

@@ -55,7 +55,7 @@
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/)  - 用于英国聚合交通数据的 REST API. 基于费用的访问.
-- [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API 用于美国 60 多个已购买 TransLoc 的 AVL 硬件和软件的交通系统的实时车辆、路线、停靠点和到达数据.
+- [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API 用于购买 TransLoc 的 AVL 硬件和软件的美国 60 多个交通系统的实时车辆、路线、停靠点和到达数据.
 - [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - 用于购买 NextBus 硬件和/或软件的机构的实时车辆、路线、停靠点和到达数据的 REST API.
 - [Navitia.io](http://www.navitia.io/) - REST API 用于美国和欧盟的行程规划、停止时间表、等时线等. [Navitia](https://github.com/CanalTP/navitia) is the opensource engine behind the live API.
 - [CityBikes](http://api.citybik.es)  - 用于汇总来自世界各地的共享单车数据的 REST API. 供电 [pyBikes](https://github.com/eskerda/pybikes).
@@ -64,6 +64,7 @@
 #### Crowdsourced transit data
 - [Citylines.co](https://www.citylines.co)  - 用于绘制交通系统地图的协作平台，重点是它们的历史演变. 数据可以从 GeoJSON 或 CSV 下载 [citylines.co/data](https://www.citylines.co/data).
 - [OpenStreetMap (OSM)](https://www.openstreetmap.org) - 用于绘制世界地图的协作平台，包括运输、过境和路线数据.
+- [GTFS-Hub](https://github.com/mfdz/gtfs-hub)  - 社区测试，可能质量/内容增强，部分合并或过滤（目前是德国）运输机构的 GTFS 提要. 维护者 [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
 ### Software for Creating APIs
 
@@ -92,7 +93,7 @@
 - [RidePilot](https://github.com/camsys/ridepilot) - 一个开源的计算机辅助调度和调度 (CASD) 软件系统，可满足小规模人力服务运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) 是一种基于网络的软件工具，用于可视化、分析和报告俄勒冈州的区域和全州交通网络.
 - 路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)) - 一个 R Shiny 应用程序，用于摄取乘客时间序列，并根据以下情况返回季节性、趋势和残差分量 [STL methodology](https://otexts.com/fpp2/stl.html) 和预测，包括基于这些组件的不确定性. 由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
-- [TBEST](https://tbest.org/)  - TBEST（Transit Boardings Estimation and Simulation Tool）致力于开发一个多方面的基于 GIS 的建模、规划和分析工具，该工具将社会经济、土地利用和公交网络数据整合到一个基于场景的公交乘客平台估计和分析. 由佛罗里达州交通部资助. 免费使用但不开源.
+- [TBEST](https://tbest.org/)  - TBEST（Transit Boardings Estimation and Simulation Tool）致力于开发一个多方面的基于 GIS 的建模、规划和分析工具，该工具将社会经济、土地利用和公交网络数据整合到一个基于场景的公交乘客量平台中估计和分析. 由佛罗里达州交通部资助. 免费使用但不开源.
 
 ### Hardware
 
@@ -248,7 +249,7 @@
 - [osm2gtfs](https://github.com/grote/osm2gtfs) - 将 OpenStreetMap 数据和日程信息转换为 GTFS.
 - [transit_model](https://github.com/CanalTP/transit_model) - 一个 Rust 库，用于转换为/从以下格式：GTFS、NTFS（对于 Navitia，请参阅 [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) 或 NetEx ([European standard format](http://netex-cen.eu/)).
 - [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - 尝试将 GTFS stop_ids 分配给的 Python 应用程序 [TransLoc](http://transloc.com/) 使用的 ID [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 在他们的 API 中没有提供 GTFS `stop_ids`）.
-- [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration)  - 导入和同步 (Transmodel) BISON Koppelvlak1、IFF（由 HP/EDS 编写的格式，有点类似于 ATCO CIF）以导入铁路网络的时间表. 内部伪 NETeX 数据结构允许导出到 GTFS，并且有一些概念证明可以导出到其他格式，例如 NETeX、GTFS 和 IFF.
+- [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration)  - 导入和同步 (Transmodel) BISON Koppelvlak1、IFF（HP/EDS 编写的格式，有点类似于 ATCO CIF）以导入铁路网络的时间表. 内部伪 NETeX 数据结构允许导出到 GTFS，并且有一些概念证明可以导出到其他格式，例如 NETeX、GTFS 和 IFF.
 
 #### GTFS Data Collection and Maintenance Tools
 
@@ -284,9 +285,9 @@
 - [Conveyal's gtfs-lib](https://github.com/conveyal/gtfs-lib/) - Conveyal 的继任者 [gtfs-validator](https://github.com/conveyal/gtfs-validator)，一个基于 Java 的库，用于加载和保存具有磁盘支持存储的任意大小的 GTFS 提要.
 - [Google's feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - 谷歌支持的基于 Python 的 GTFS 验证器.
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - 一种 [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 验证完成 [Good Tables](http://goodtables.okfnlabs.org/) . 包括数据包、模式、测试，并以东南昆士兰 GTFS 数据为例.
-- [GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - 基于 Web 的 GTFS 验证器，可同时运行两者 [the Google Python feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [Conveyal's gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的 GTFS 文件上.
+- [GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - 基于 Web 的 GTFS 验证器，可同时运行 [the Google Python feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [Conveyal's gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的 GTFS 文件上.
 - [gtfs-validator-api](https://github.com/cal-itp/gtfs-validator-api) - 这个 Python 包是一个薄包装 [MobilityData/gtfs-validator](https://github.com/MobilityData/gtfs-validator) 处理生成的中间文件并查找 gtfs-validator 的输出文件，因此可以为其指定特定名称或作为字符串返回.
-- [GTFSVTOR](https://github.com/mecatran/gtfsvtor) - 一个开源的 GTFS 验证器，用 Java 实现，在 GPLv3 下获得许可，由 [Mecatran](https://www.mecatran.com/).
+- [GTFSVTOR](https://github.com/mecatran/gtfsvtor) - 一个开源的 GTFS 验证器，用 Java 实现，在 GPLv3 许可下由 [Mecatran](https://www.mecatran.com/).
 - [MobilityData's gtfs-validator](https://github.com/MobilityData/gtfs-validator) - 一个开源 GTFS 验证器规范地遵循 GTFS 规范，在 Java 中实现，在 Apache v2.0 下获得许可，由 [MobilityData](https://mobilitydata.org/).
 - [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - 运输时间表和 GTFS 验证平台 [Foursquare ITP](https://www.foursquareitp.com) 其中包括一个基于 Web 的免费 G​​TFS 验证器 [gtfs-lib](https://github.com/conveyal/gtfs-lib/).
 - [Transport Validator](https://github.com/etalab/transport-validator/) - 在中实现的开源验证器 [Rust](https://www.rust-lang.org/) . 使用 [French National Access Point](https://transport.data.gouv.fr/validation/).
@@ -340,7 +341,7 @@
 
 - [gtfs-rt-dump](https://github.com/kurtraschke/gtfs-rt-dump) - 将协议缓冲区格式转换为纯文本，以便以纯文本形式轻松查看 GTFS 实时提要（用于调试目的）
 - [GTFS-realtime Printer](https://github.com/laidig/gtfs-rt-printer) - 基于 Java 的实用程序，用于从 GTFS 实时文件或 URL 打印信息.
-- [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/)  – 用于检查和分析任何（启用 CORS）的 GTFS 实时提要的 Web 应用程序. 开源于 [GitHub](https://github.com/public-transport/gtfs-rt-inspector).
+- [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub](https://github.com/public-transport/gtfs-rt-inspector).
 - [print-gtfs-rt-cli](https://github.com/derhuerst/print-gtfs-rt-cli) – 用于从标准输入读取 GTFS 实时提要、打印人类可读或作为 JSON 的 Javascript 工具.
 - [GTFS-realtime Munin Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - 提供一个 [Munin](http://munin-monitoring.org/) 用于记录有关 GTFS 实时提要的信息的插件.
 - [GTFS-realtime Nagio Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - 提供一个 [Nagios](https://www.nagios.org/) 用于监控 GTFS 实时提要的插件

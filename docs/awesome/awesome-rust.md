@@ -272,7 +272,7 @@ Rust 代码和资源的精选列表.
 
 ### Text processing
 
-* [cpc](https://github.com/probablykasper/cpc) - 解析和计算数学字符串，支持单位和单位转换，从“1+2”到“1% 的回合（1 光年/14！s 到公里/小时）”.
+* [cpc](https://github.com/probablykasper/cpc) - 解析和计算数学字符串，支持单位和单位转换，从“1+2”到“1% 的回合（1 光年/14!s 到公里/小时）”.
 * [grex](https://github.com/pemistahl/grex) — 用于从用户提供的测试用例生成正则表达式的命令行工具和库 [![build badge](https://api.travis-ci.org/pemistahl/grex.svg?branch=master)](https://travis-ci.org/pemistahl/grex)
 * [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) — 在源文件中查找和替换文本 [![Run tests](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml)
 * [ripgrep](https://crates.io/crates/ripgrep) — 结合了 Silver Searcher 的可用性和 grep 的原始速度 [![build badge](https://api.travis-ci.org/BurntSushi/ripgrep.svg?branch=master)](https://travis-ci.org/BurntSushi/ripgrep)
@@ -323,7 +323,7 @@ Rust 代码和资源的精选列表.
 * [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger) — ffmpeg 的包装器，可简化多个视频的合并 
 * [xiph/rav1e](https://github.com/xiph/rav1e) — 最快、最安全的 AV1 编码器. [![build badge](https://api.travis-ci.org/xiph/rav1e.svg?branch=master)](https://travis-ci.org/xiph/rav1e)
 * [yuvadm/slingr](https://github.com/yuvadm/slingr) — 一个简单的 CLI，用于通过本地网络将媒体文件流式传输到 UPnP 媒体渲染器 [![build badge](https://api.travis-ci.org/yuvadm/slingr.svg?branch=master)](https://travis-ci.org/yuvadm/slingr)
-* [yuvadm/streamlib](https://github.com/streamlib/streamlib) - 从命令行播放您最喜欢的实时视频和音频流
+* [yuvadm/streamlib](https://github.com/streamlib/streamlib) — 从命令行播放您最喜欢的实时视频和音频流
 
 ### Virtualization
 
@@ -476,7 +476,7 @@ Rust 代码和资源的精选列表.
   * [jni-sys](https://crates.io/crates/jni-sys) — 对应于 jni.h 的 Rust 定义 [![build badge](https://api.travis-ci.org/sfackler/rust-jni-sys.svg?branch=master)](https://travis-ci.org/sfackler/rust-jni-sys)
   * [rucaja](https://crates.io/crates/rucaja) — 使用 Rust 中的 Java [![build badge](https://api.travis-ci.org/kud1ing/rucaja.svg?branch=master)](https://travis-ci.org/kud1ing/rucaja)
   * [rawrafox/rust-jdbc](https://github.com/rawrafox/rust-jdbc) — 使用来自 Rust 的 JDBC
-* 路亚
+* Lua
   * [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) — 用于 Rust 的 Lua 5.3 绑定 [![build badge](https://api.travis-ci.org/jcmoyer/rust-lua53.svg?branch=master)](https://travis-ci.org/jcmoyer/rust-lua53)
   * [lilyball/rust-lua](https://github.com/lilyball/rust-lua) — Safe Rust bindings to Lua 5.1 [![build badge](https://api.travis-ci.org/lilyball/rust-lua.svg?branch=master)](https://travis-ci.org/lilyball/rust-lua)
   * [tickbh/td_rlua](https://github.com/tickbh/td_rlua) — Rust 的零成本高级 lua 5.3 包装器 [![build badge](https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master)](https://travis-ci.org/tickbh/td_rlua)
@@ -593,7 +593,7 @@ Rust 代码和资源的精选列表.
 * [ruspec](https://crates.io/crates/ruspec) — 像 Rspec 测试框架一样用 Rust 编写 [![Build Status](https://github.com/k-nasa/ruspec/workflows/CI/badge.svg?branch=master)](https://github.com/k-nasa/ruspec/actions)
 * [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) — 一个 Rust 模糊器，使用 [AFL](https://lcamtuf.coredump.cx/afl/) [![build badge](https://api.travis-ci.org/rust-fuzz/afl.rs.svg?branch=master)](https://travis-ci.org/rust-fuzz/afl.rs)
 * [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — 为 Rust 设计的代码覆盖率工具 [![build badge](https://api.travis-ci.org/repositories/xd009642/tarpaulin.svg?branch=master)](https://travis-ci.org/xd009642/tarpaulin)
-* [trust](https://github.com/japaric/trust) — 一个 Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate 并发布其适用于 Linux、macOS 和 Windows 的二进制版本
+* [trust](https://github.com/japaric/trust) — Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate 并发布其适用于 Linux、macOS 和 Windows 的二进制版本
 * [fake-rs](https://github.com/cksac/fake-rs) — 生成假数据的库 [![build badge](https://api.travis-ci.org/repositories/cksac/fake-rs.svg?branch=master)](https://travis-ci.org/cksac/fake-rs)
 * [goldenfile](https://github.com/calder/rust-goldenfile) - 一个为 Goldenfile 测试提供简单 API 的库. [![build badge](https://api.travis-ci.org/calder/rust-goldenfile.svg?branch=master)](https://travis-ci.org/calder/rust-goldenfile)
 * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 简化在智能手机和其他小型处理器设备上运行库测试和工作台的货物扩展.
@@ -693,6 +693,7 @@ Rust 代码和资源的精选列表.
 
 ### Bioinformatics
 
+* [nonnominandus/pdbtbx](https://github.com/nonnominandus/pdbtbx) [PDBTBX](https://crates.io/crates/pdbtbx) ![Compile & Test](https://github.com/nonnominandus/rust-pdb/workflows/Compile%20&%20Test/badge.svg) - Rust 中的 PDB/mmCIF 库.
 * [Rust-Bio](https://github.com/rust-bio) — Rust 中的生物信息学库.
 
 ### Caching
@@ -817,7 +818,7 @@ Rust 代码和资源的精选列表.
   * [statrs-dev/statrs](https://github.com/statrs-dev/statrs) — Rust 中强大的统计计算库 [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
 * 生锈 [[rustimization](https://crates.io/crates/rustimization)]
   * [noshu/rustimization](https://github.com/noshu/rustimization) — Rust 优化库，包括 L-BFGS-B 和共轭梯度算法
-* [calebwin/emu](https://github.com/calebwin/emu) — 一种从 Rust 宏进行 GPGPU 数值计算的语言
+* [calebwin/emu](https://github.com/calebwin/emu) — 一种从 Rust 宏中进行 GPGPU 数值计算的语言
 
 ### Configuration
 
@@ -885,7 +886,7 @@ Rust 代码和资源的精选列表.
     * [benashford/rs-es](https://github.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es)] — 一个 Rust 客户端 [Elastic](https://www.elastic.co/) REST API [![build badge](https://api.travis-ci.org/benashford/rs-es.svg?branch=master)](https://travis-ci.org/benashford/rs-es)
     * [elastic-rs/elastic](https://github.com/elastic-rs/elastic) [[elastic](https://crates.io/crates/elastic)] — elastic 是用 Rust 编写的用于 Elasticsearch 的高效模块化 API 客户端 [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
   * etcd
-    * [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd)] — CoreOS 的 etcd 的客户端库. [![build badge](https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master)](https://travis-ci.org/jimmycuadra/rust-etcd)
+    * [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd)] — CoreOS 的 etcd 客户端库. [![build badge](https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master)](https://travis-ci.org/jimmycuadra/rust-etcd)
     * [luncj/etcd-rs](https://github.com/luncj/etcd-rs) — 一个用于 Rust 的异步 etcd 客户端 [![build badge](https://api.travis-ci.org/luncj/etcd-rs.svg?branch=master)](https://travis-ci.org/luncj/etcd-rs)
   * 森林数据库
     * [vhbit/sherwood](https://github.com/vhbit/sherwood) — [ForestDB](https://github.com/couchbase/forestdb) 绑定 [![build badge](https://api.travis-ci.org/vhbit/sherwood.svg?branch=master)](https://travis-ci.org/vhbit/sherwood)
@@ -1104,7 +1105,7 @@ Rust 代码和资源的精选列表.
   * [Bevy](https://github.com/bevyengine/bevy) 是一个用 Rust 构建的令人耳目一新的简单数据驱动游戏引擎.  —— [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bevyengine/bevy/blob/main/LICENSE)
 [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
-  * [ggez](https://github.com/ggez/ggez) — 一个轻量级的游戏框架，用于制作摩擦最小的 2D 游戏— [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE)
+  * [ggez](https://github.com/ggez/ggez) — 一个轻量级的游戏框架，用于以最小的摩擦制作 2D 游戏— [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE)
   * [harmony](https://github.com/StarArawn/harmony) — 使用 wgpu 的现代 3D/2D 游戏引擎
   * [Kiss3d](http://kiss3d.org) — 用 Rust 编写的保持简单、愚蠢的 3d 图形引擎
   * [oxidator](https://github.com/Ruddle/oxidator) — 用 Rust 和 WebGPU 编写的实时策略游戏/引擎
@@ -1205,12 +1206,12 @@ Rust 代码和资源的精选列表.
   * [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) — Sciter 绑定 [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 * [hecrj/iced](https://github.com/hecrj/iced)  — Rust 的跨平台 GUI 库，专注于简单性和类型安全. 灵感来自榆树.
 * [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native)  - 一个真正的本地和跨平台 GUI 库. 一个统一的代码可以作为原生 GUI、Html Web 和 TUI 运行. [![Build Status](https://api.travis-ci.com/ivanceras/sauron-native.svg?branch=master)](https://travis-ci.com/github/ivanceras/sauron-native)
-* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — 用于构建高度安全的本机应用程序的工具链 [webview](https://github.com/webview/webview). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — 用于构建高度安全的本机应用程序的工具链，这些应用程序具有微小的二进制文件，并且从 HTML、JS 和 CSS 层非常快，由 [webview](https://github.com/webview/webview). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ### Image processing
 
 * [abonander/img_hash](https://github.com/abonander/img_hash) — 感知图像散列和比较的相等性和相似性. [![Build Status](https://api.travis-ci.org/abonander/img_hash.svg?branch=master)](https://travis-ci.org/abonander/img_hash)
-* [image-rs/image](https://github.com/image-rs/image) — 图像格式转换的基本图像处理功能和方法 [![build badge](https://api.travis-ci.org/image-rs/image.svg?branch=master)](https://travis-ci.org/image-rs/image)
+* [image-rs/image](https://github.com/image-rs/image) — 基本的图像处理功能和图像格式转换的方法 [![build badge](https://api.travis-ci.org/image-rs/image.svg?branch=master)](https://travis-ci.org/image-rs/image)
 * [image-rs/imageproc](https://github.com/image-rs/imageproc) — 基于`image` 库的图像处理库. [![Build Status](https://api.travis-ci.org/image-rs/imageproc.svg?branch=master)](https://travis-ci.org/image-rs/imageproc)
 * [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) — OpenCV 的 Rust 绑定 [![build badge](https://api.travis-ci.org/twistedfall/opencv-rust.svg?branch=cv2)](https://travis-ci.org/twistedfall/opencv-rust)
 * [teovoinea/steganography](https://github.com/teovoinea/steganography) [[steganography](https://crates.io/crates/steganography)] — 一个简单的隐写术库 [![build badge](https://api.travis-ci.org/teovoinea/steganography.svg?branch=master)](https://travis-ci.org/teovoinea/steganography)

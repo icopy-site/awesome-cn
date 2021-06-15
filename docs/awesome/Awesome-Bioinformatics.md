@@ -143,7 +143,7 @@
 - **[mosdepth](https://github.com/brentp/mosdepth)** - 用于 WGS、外显子组或靶向测序的快速 BAM/CRAM 深度计算. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
 - **[SAMstat](https://github.com/TimoLassmann/samstat)** - 显示下一代测序的序列统计信息. [ [paper-2010](https://academic.oup.com/bioinformatics/article/27/1/130/201972) | [web](http://samstat.sourceforge.net) ]
 - **[Somalier](https://github.com/brentp/mosdepth)** - BAMs/CRAMs/VCFs/GVCFs 的快速样本交换和相关性检查. [ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
-- **[Telseq](https://github.com/zd1/telseq)** - Telseq 是一种从全基因组序列数据估计端粒长度的工具. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
+- **[Telseq](https://github.com/zd1/telseq)** - Telseq is a tool for estimating telomere length from whole genome sequence data. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
 
 ### VCF File Utilities
 
@@ -193,6 +193,15 @@
 ### Annotation
 - **[Prokka](https://github.com/tseemann/prokka) ** - Prokka：快速原核基因组注释.  Prokka 是被引用最多的微生物基因组注释注释命令行工具之一.
 - **[Bakta](https://github.com/oschwengers/bakta) ** - Bakta 是一种用于对细菌基因组和质粒进行快速和标准化注释的工具. 它以机器可读的 JSON 和生物信息学标准文件格式提供富含 dbxref 和 sORF 的注释，用于自动下游分析.
+
+## Long-read sequencing
+
+### Long-read Assembly
+
+- **[canu](https://github.com/marbl/canu)** - 用于大小基因组的单分子序列组装器.
+- **[flye](https://github.com/fenderglass/Flye)** - 使用重复图进行单分子测序读取的从头组装器. 
+- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确 Hifi 读取的单倍型解析组装器.
+- **[wtdbg2](https://github.com/ruanjue/wtdbg2)** - 用于长噪声读取组装的模糊 Bruijn 图方法
 
 ## Visualization
 

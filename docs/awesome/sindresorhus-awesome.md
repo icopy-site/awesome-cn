@@ -106,6 +106,12 @@
 </p>
 <br>
 
+<div align="center">
+	<h2>
+		<a href="https://www.producthunt.com/posts/system-color-picker">我的颜色选择器应用程序在 Product Hunt</a>
+	</h2>
+</div>
+
 
 
 ## Platforms
@@ -315,7 +321,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - 在浏览器中使用 JavaScript、CSS、SVG 等制作动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件可实现更快、更轻松的 Web 开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件，可实现更快、更轻松的 Web 开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - 要集成到网络应用程序中的独立功能.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 可重用组件的集合，以确保一致性和速度的规则为指导.
@@ -576,7 +582,7 @@
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - 制作自己的电吉他的清单.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - 计算机控制的绘图机和其他视觉艺术机器人.
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - 用于专业机器人开发的免费开放工具.
-- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - 通过用激光照射目标来测量距离的传感器.
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ## Business
 
@@ -705,7 +711,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - 神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - 通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - 程序员相信的谎言.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 通过将实现连接到不断发展的模型来满足复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪.
