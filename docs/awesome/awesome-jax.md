@@ -6,7 +6,7 @@
 [JAX](https://github.com/google/jax) 带来自动微分和 [XLA compiler](https://www.tensorflow.org/xla) 一起通过一个 [NumPy](https://numpy.org/)类似 API，用于对 GPU 和 TPU 等加速器进行高性能机器学习研究.
 <!--lint enable double-link-->
 
-This is a curated list of awesome JAX libraries, projects, and other resources. Contributions are welcome!
+这是很棒的 JAX 库、项目和其他资源的精选列表. 欢迎投稿！
 
 
 
@@ -60,13 +60,14 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [BRAX](https://raw.githubusercontent.com/google/brax) - 可微分物理引擎来模拟环境以及学习算法来为这些环境训练代理. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 - [flaxmodels](https://raw.githubusercontent.com/matthias-wright/flaxmodels) - Jax/Flax 的预训练模型. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 - [CR.Sparse](https://raw.githubusercontent.com/carnotresearch/cr-sparse) - 用于稀疏表示和压缩感知的 XLA 加速算法. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
+- [exojax](https://raw.githubusercontent.com/HajimeKawahara/exojax) - 与 JAX 兼容的系外行星/棕矮星的自动可微谱建模. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 
 <a name="models-and-projects" />
 
 ## Models and Projects
 
 - [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - 执行者（通过 FAVOR+ 的线性变换器）架构的亚麻实现.
-- [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - 实施改革者（高效变压器）架构.
+- [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
 - [Vision Transformer](https://github.com/google-research/vision_transformer) - 在亚麻的官方实施 [_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_](https://arxiv.org/abs/2010.11929).
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - 正式实施 [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 - [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - 在 Flax 中实现的模型和方法的集合.
