@@ -36,7 +36,8 @@
 - [GINO](https://github.com/python-gino/gino) - 构建在 SQLAlchemy 核心之上的轻量级异步 ORM，用于 Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - 一个异步 ORM.
-- [ormar](https://collerek.github.io/ormar/fastapi/) - 一个用于 Python 的异步迷你 ORM.
+- [ormar](https://collerek.github.io/ormar/)  - Ormar 是一个异步 ORM，它使用 pydantic 验证，可以直接在 FastAPI 请求和响应中使用，因此您只需要维护一组模型. 包括 Alembic 迁移.
+  - [FastAPI Example](https://collerek.github.io/ormar/fastapi/) - 在 ormar 中使用 FastAPI.
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - 一个异步 ORM 和查询构建器，支持 Postgres 和 SQLite，带有电池（迁移、安全等）.
   - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - 将 FastAPI 与 Piccolo 一起使用.
   - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - 强大且现代的管理 GUI，使用 Piccolo ORM.
@@ -48,13 +49,13 @@
 #### Query Builders
 
 - [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - 一个包装 [asyncpg](https://github.com/MagicStack/asyncpg) 用于 [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
-- [Databases](https://github.com/encode/databases) - 异步 SQL 查询构建器，在 [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) 表达语言.
+- [Databases](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) 表达语言.
 
 #### ODMs
 
 - [Beanie](https://github.com/roman-right/beanie) - MongoDB 的异步 Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/)
 and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的数据和架构迁移.
-- [MongoEngine](http://mongoengine.org/) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
+- [MongoEngine](http://mongoengine.org/) - 用于从 Python 处理 MongoDB 的文档对象映射器（想想 ORM，但用于文档数据库）.
 - [Motor](https://motor.readthedocs.io/) - 用于 MongoDB 的异步 Python 驱动程序.
 - [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM 集成 [Pydantic](https://pydantic-docs.helpmanual.io/). 
 
@@ -84,7 +85,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 - [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 将 Chameleon 模板语言集成到 FastAPI.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 自以为是的实用程序集：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
-- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 向 FastAPI 添加 Jinja 模板语言的集成.
+- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 将 Jinja 模板语言集成到 FastAPI.
 - [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) - FastAPI 的请求速率限制器.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - MQTT 协议的扩展.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI 的分页.
@@ -155,7 +156,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 
 ### Talks
 
-- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - 从 Sebastian Ramirez 的演讲中，您将学习如何使用 FastAPI 为您的 ML 模型轻松构建生产就绪 Web (JSON) API，包括默认的最佳实践.
+- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - 从 Sebastian Ramirez 的演讲中，您将了解如何使用 FastAPI 为您的 ML 模型轻松构建生产就绪 Web (JSON) API，包括默认的最佳实践.
 - [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA) - 本演讲展示了如何使用 FastAPI 从头开始​​为数据库构建简单的 REST API.
 
 ### Videos
@@ -218,9 +219,9 @@ Compute:
 - [FastAPI Model Server Skeleton](https://github.com/eightBEC/fastapi-ml-skeleton) - 为机器学习模型提供生产就绪的骨架应用程序.
 - [cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - 使用 FastAPI 快速部署 spaCy 模型.
 - [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - FastAPI 项目的 Cookiecutter 模板，使用：机器学习、诗歌、Azure Pipelines 和 pytest.
-- [openapi-python-client](https://github.com/triaxtec/openapi-python-client) - 从 OpenAPI 生成现代 FastAPI Python 客户端（通过 FastAPI）.
+- [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - 从 OpenAPI 生成现代 FastAPI Python 客户端（通过 FastAPI）.
 - [Pywork](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) 生成器来构建 FastAPI 应用程序.
-- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker 镜像与 Uvicorn 由 Gunicorn 管理，用于 Python 3.7 和 3.6 中具有性能自动调整的高性能 FastAPI Web 应用程序.
+- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker 映像与 Uvicorn 由 Gunicorn 管理，用于 Python 3.7 和 3.6 中具有性能自动调整的高性能 FastAPI Web 应用程序.
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn)  - 使用 Python 提供高性能异步 REST API 的模板.  FastAPI + GINO + Arq + Uvicorn（带 Redis 和 PostgreSQL）.
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - 使用 FastAPI、TypeScript、Docker、PostgreSQL 和 React 的全栈 cookiecutter 样板.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - 具有工厂模式架构的简单 FastAPI 模板.
@@ -236,7 +237,7 @@ Compute:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket“广播”演示.
-- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - 将 FastAPI 和 Celery 与 RabbitMQ 用于任务队列，Redis 用于 Celery 后端，以及 Flower 用于监控 Celery 任务的最小示例.
+- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - 将 FastAPI 和 Celery 与 RabbitMQ 用于任务队列、Redis 用于 Celery 后端和 Flower 用于监控 Celery 任务的最小示例.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - 基于 FastAPI 的 JSON-RPC 服务器.
 - [Mailer](https://github.com/rclement/mailer) - 用于静态网站的极其简单的邮件微服务.
 - [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal)  - 基于 Open-Policy 的实时授权更新； 使用 FastAPI、Typer 和 FastAPI WebSocket 发布/订阅构建.
@@ -251,4 +252,4 @@ Compute:
 
 <br>
 
-&gt; **注意**：本项目由**提供支持[TestDriven.io](https://testdriven.io/) **. 请购买我们的 FastAPI 课程来支持这个开源项目： [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).
+&gt; **注意**：本项目由 ** 提供支持[TestDriven.io](https://testdriven.io/) **. 请购买我们的 FastAPI 课程来支持这个开源项目： [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).

@@ -4,82 +4,83 @@
 <!--lint disable double-link-->
 [<img src="https://raw.githubusercontent.com/KeyboardInterrupt/awesome-ansible/master/ansible_logo.svg?sanitize=true" align="right" width="90">](https://www.ansible.com/)
 
-&gt;精选的Ansible资源，工具，角色，教程和其他相关内容的协作精选列表.
+&gt; 一个很棒的 Ansible 资源、工具、角色、教程和其他相关内容的协作策划列表.
 
-[Ansible](https://www.ansible.com/) 是一个用Python编写的开源工具包，通常用于配置管理，应用程序部署，持续交付，IT基础架构自动化和自动化.
+[Ansible](https://www.ansible.com/) 是一个用 Python 编写的开源工具包，用于配置管理、应用程序部署、持续交付、IT 基础设施自动化和一般自动化.
 <!--lint enable double-link-->
 
 
 ## Official resources
 
-&gt; Ansible提供的官方资源.
+&gt; Ansible 的官方资源.
 
-- [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) -有关Ansible的最新用户指南和文档.
-- [Ansible Galaxy Website](https://galaxy.ansible.com/) -Ansible Roles的官方存储库和社区站点.
-- [Ansible Blog](https://www.ansible.com/blog) -Ansible官方博客.
+- [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Ansible 的最新用户指南和文档.
+- [Ansible Galaxy Website](https://galaxy.ansible.com/) - Ansible 角色的官方存储库和社区站点.
+- [Ansible Blog](https://www.ansible.com/blog) - 官方 Ansible 博客.
 
 ## Tutorials
 
-&gt;学习Ansible的教程和课程.
+&gt; 学习 Ansible 的教程和课程.
 
-- [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible) -本教程介绍了如何使用Ansible管理远程服务器.
-- [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) -Ansible的12步骤教程.
-- [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) -推荐资源列表.
-- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) -有关如何安装和使用Ansible的教程.
-- [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) -Ansible自动化平台培训课程.
-- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) -DigitalOcean.com上的基本教程.
+- [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible) - 本教程介绍了如何使用 Ansible 管理远程服务器.
+- [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - Ansible 的 12 步教程.
+- [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - 推荐资源列表.
+- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - 有关如何安装和使用 Ansible 的教程.
+- [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) - Ansible 自动化平台培训课程.
+- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - DigitalOcean.com 上的基本教程.
 
 ## Books
 
-&gt;有关Ansible的书籍.
+&gt; 关于 Ansible 的书籍.
 
-- [Ansible for DevOps](https://www.ansiblefordevops.com/)  -本书有助于开始使用Ansible来配置和管理从一到数千台服务器的任何位置. 免费样品可以阅读 [here](https://leanpub.com/ansible-for-devops/read_sample).
-- [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) -使用Ansible部署和维护现实世界中的大规模可扩展和高可用性应用程序.
-- [How To Manage Remote Servers with Ansible eBook](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) -本书基于“如何使用Ansible管理远程服务器”教程系列.
+- [Ansible for DevOps](https://www.ansiblefordevops.com/)  - 这本书有助于开始使用 Ansible 来配置和管理从一台到数千台服务器的任何地方. 可以免费阅读样品 [here](https://leanpub.com/ansible-for-devops/read_sample).
+- [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - 使用 Ansible 部署和维护现实世界中可大规模扩展和高可用的应用程序.
+- [How To Manage Remote Servers with Ansible eBook](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - 本书基于“如何使用 Ansible 管理远程服务器”系列教程.
 
 ## Videos
 
-&gt;视频教程和Ansible培训.
+&gt; 视频教程和 Ansible 培训.
 
-- [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) -Ansible官方YouTube频道.
-- [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) -Cloud Academy的Ansible简介.
-- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) -杰夫·杰林（Jeff Geerling）制作的有关安西布尔（Ansible）的精彩视频系列.
-- [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) -Ansible上的视频教程.
-- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) -Red Hat提供的有关Ansible必需品的免费视频教室.
-- [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1) -有关Ansible的免费视频课程，包括后续的实验室.
+- [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) - 官方 Ansible YouTube 频道.
+- [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Cloud Academy 对 Ansible 的介绍.
+- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - 关于 Ansible 的精彩视频系列，作者 Jeff Geerling.
+- [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Ansible 的视频教程.
+- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Red Hat 关于 Ansible 要点的免费视频课堂.
+- [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1) - 关于 Ansible 的免费视频课程，包括要跟进的实验室.
 
 ## Tools
 
-&gt;用于和使用Ansible的工具.
+&gt; 用于和使用 Ansible 的工具.
 
-- [Ansible Tower](https://www.ansible.com/products/tower)  -Red Hat的Ansible Tower可帮助您扩展IT自动化，管理复杂的部署并提高生产率. 将Ansible的功能扩展到整个团队.
-- [AWX](https://github.com/ansible/awx)  -AWX提供了基于Web的用户界面，REST API和基于Ansible构建的任务引擎. 这是AWX的商业衍生产品Tower的上游项目.
-- [Ansible Lint](https://github.com/ansible/ansible-lint) -检查Playbooks是否有可能改进的最佳做法和行为.
-- [Ansible Later](https://github.com/thegeeklab/ansible-later)  -另一个最佳做法扫描仪. 检查Playbooks和Roles是否有可能得到改进的最佳实践和行为.
-- [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) -简单的注释，例如基于Jinja2模板的Ansible角色的文档生成器.
-- [Ansible cmdb](https://github.com/fboender/ansible-cmdb) -获取Ansible事实收集的输出，并将其转换为静态HTML页面.
-- [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) -ARA记录Ansible Playbook运行，并使记录的数据对用户和系统可用且直观.
-- [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) -使用Mitogen大大加快Ansible的速度.
-- [Molecule](https://molecule.readthedocs.io/en/latest/) -分子有助于Ansible角色的开发和测试.
-- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) -此预配器可用于通过具有Ansible的Packer来自动创建VM映像.
-- [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) -将所有Excel电子表格都转换为Ansible库存.
-- [terraform.py](https://github.com/mantl/terraform.py) -Ansible动态清单脚本，用于解析Terraform状态文件.
+- [Ansible Tower](https://www.ansible.com/products/tower)  - 红帽 Ansible Tower 可帮助您扩展 IT 自动化、管理复杂的部署并提高生产力. 将 Ansible 的力量扩展到您的整个团队.
+- [AWX](https://github.com/ansible/awx)  - AWX 提供基于 Web 的用户界面、REST API 和构建在 Ansible 之上的任务引擎. 是AWX商业衍生品Tower的上游项目.
+- [Ansible Lint](https://github.com/ansible/ansible-lint) - 检查 Playbooks 中可能会改进的最佳实践和行为.
+- [Ansible Later](https://github.com/thegeeklab/ansible-later)  - 另一个最佳实践扫描仪. 检查 Playbooks 和 Roles 以获得可能改进的最佳实践和行为.
+- [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) - 简单的注释，如基于 Jinja2 模板的 Ansible 角色的文档生成器.
+- [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - 获取 Ansible 事实收集的输出并将其转换为静态 HTML 页面.
+- [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) - ARA 记录 Ansible Playbook 运行并使记录的数据对用户和系统可用且直观.
+- [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - 使用 Mitogen 显着加速 Ansible.
+- [Molecule](https://molecule.readthedocs.io/en/latest/) - 分子有助于 Ansible 角色的开发和测试.
+- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - 此 Provisioner 可用于通过 Packer 和 Ansible 自动创建 VM 映像.
+- [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - 将任何 Excel 电子表格转换为 Ansible 清单.
+- [terraform.py](https://github.com/mantl/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
+- [ansible-navigator](https://github.com/ansible/ansible-navigator) - Ansible 的基于文本的用户界面 (TUI).
 
 ## Blog posts and opinions
 
-&gt; Ansible上的最佳做法和其他技巧.
+&gt; 关于 Ansible 的最佳实践和其他建议.
 
-- [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) -最佳做法指南.
-- [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) -使用带有Ansible的Test-Kitchen将剧本应用于Windows计算机并使用 [Pester](https://github.com/pester/Pester/).
-- [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) -涵盖Ansible设置的许多方面的实践，包括支持不同环境（测试，登台，生产）的提示.
+- [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - 最佳实践指南.
+- [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - 使用带有 Ansible 的 Test-Kitchen 将剧本应用到 Windows 机器并使用 [Pester](https://github.com/pester/Pester/).
+- [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - 实践涵盖 Ansible 设置的许多方面，包括支持不同环境（测试、暂存、生产）的提示.
 
 ## Playbooks and Roles
 
-&gt;出色的生产准备好剧本和角色，可帮助您入门和运行.
+&gt; 令人敬畏的生产就绪剧本和角色，可帮助您启动和运行.
 
-- [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) -使用Vagrant部署到本地VM的Ansible示例.
-- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) -Ansible剧本，用于使用Docker守护程序设置可自我更新的，经过强化的Debian / Ubuntu计算机.
-- [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) -这些角色可帮助您强化基于Linux的操作系统以及MySQl，NginX和SSH服务器/服务.
-- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -将Docker Swarm集群配置并部署到开发环境和生产环境. 基础架构作为Code和DevOps最佳实践.
-- [Openstack Ansible](https://github.com/openstack/openstack-ansible) -用于部署的Ansible Playbooks [OpenStack](https://www.openstack.org/).
-- [DebOps](https://docs.debops.org/en/master/) -大量基于Debian的Ansible Playbooks.
+- [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
+- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook，用于设置带有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
+- [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - 这些角色可帮助您强化基于 Linux 的操作系统以及 MySQl、NginX 和 SSH 服务器/服务.
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 在开发环境和生产环境中配置和部署 Docker Swarm 集群. 基础设施即代码和 DevOps 最佳实践.
+- [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible Playbooks [OpenStack](https://www.openstack.org/).
+- [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbook.

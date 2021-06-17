@@ -5,7 +5,7 @@
 令人惊叹的 PHP 库、资源和闪亮事物的精选列表.
 
 ## Contributing and Collaborating
-请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
+请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
 
     - [PHP Magazines](#php-magazines)    
 
@@ -93,7 +93,7 @@
 * [Slim](https://www.slimframework.com/) - 另一个简单的微框架.
 
 ### Micro Framework Extras
-*Extras related to micro frameworks and routers.*
+*与微框架和路由器相关的额外内容.*
 
 * [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) - Slim 的骨架.
 * [Slim Twig View](https://github.com/slimphp/Slim-Views) - 将 Twig 集成到 Slim 中.
@@ -134,7 +134,7 @@
 * [Nyholm PSR-7](https://github.com/Nyholm/psr7)  - 一个超轻量级的 PSR-7 实现. 非常严格，非常快.
 * [PHP VCR](https://php-vcr.github.io/) - 用于记录和重放 HTTP 请求的库.
 * [Requests](https://github.com/rmccue/Requests) - 一个简单的 HTTP 库.
-* [Retrofit](https://github.com/tebru/retrofit-php) - 用于简化 REST API 客户端创建的库.
+* [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - 同步或异步获取 HTTP 资源的组件.
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP 消息实现.
 
@@ -173,7 +173,7 @@
 * [Mautic](https://github.com/mautic/mautic) - 电子邮件营销自动化
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件解决方案.
 * [PHP IMAP](https://github.com/barbushin/php-imap) - 通过 POP3、IMAP 和 NNTP 访问邮箱的库.
-* [Stampie](https://github.com/Stampie/Stampie) - 电子邮件服务库，例如 [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) 和 [M和rill](https://mailchimp.com/features/transactional-email/).
+* [Stampie](https://github.com/Stampie/Stampie) - 电子邮件服务库，例如 [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - 邮件解决方案.
 * [Symfony Mailer](https://github.com/symfony/mailer) - 用于创建和发送电子邮件的强大库.
 
@@ -184,7 +184,7 @@
 * [Flysystem](https://github.com/thephpleague/Flysystem) - 本地和远程文件系统的抽象.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 文件系统抽象层.
 * [Hoa Mime](https://github.com/hoaproject/Mime) - 另一个 MIME 检测库.
-* [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - 包装器 [FFmpeg](https://www.ffmpeg.org/) video library.
+* [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - 包装器 [FFmpeg](https://www.ffmpeg.org/) 视频库.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - 压缩档案的统一读写器.
 
 ### Streams
@@ -314,14 +314,15 @@
 ### Code Quality
 *用于管理代码质量、格式和 linting 的库.*
 
-* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测 PHP、CSS 和 JS 编码标准违规的库.
+* [CaptainHook](https://github.com/captainhookphp/captainhook) - 一个易于使用且灵活的 Git 钩子库. 
+* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 编码标准修复程序库.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - 一个库，用于扫描代码中的错误、次优代码、未使用的参数等.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 帮助遵守某些编码约定的工具.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 检测复制和粘贴代码的库.
 
 ### Static Analysis
-*Libraries for performing static analysis of PHP code.*
+*用于执行 PHP 代码静态分析的库.*
 
 * [Exakat](https://github.com/exakat/exakat) - PHP 的静态分析引擎.
 * [Deptrac](https://github.com/sensiolabs-de/deptrac) - 一种静态代码分析工具，有助于强制执行软件层之间依赖关系的规则.
@@ -378,8 +379,8 @@
 ### Task Runners
 *用于自动化和运行任务的库.*
 
-* [Bldr](https://bldr.io/) - 一个建立在 Symfony 组件上的 PHP 任务运行器.
-* [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
+* [Bldr](https://bldr.io/) - 基于 Symfony 组件构建的 PHP 任务运行器.
+* [Jobby](https://github.com/jobbyphp/jobby) - 无需修改 crontab 的 PHP cron 作业管理器.
 * [Robo](https://github.com/consolidation/Robo) - 具有面向对象配置的 PHP 任务运行器.
 * [Task](https://taskphp.github.io/) - 受 Grunt 和 Gulp 启发的纯 PHP 任务运行程序.
 
@@ -441,7 +442,7 @@
 *用于支付和建立在线电子商务商店的库和应用程序.*
 
 * [Money](https://github.com/moneyphp/money) - Fowler 货币模式的 PHP 实现.
-* [Brick\Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+* [Brick\Money](https://github.com/brick/money) - PHP 货币库，支持上下文、现金舍入、货币转换.
 * [OmniPay](https://github.com/thephpleague/omnipay) - 一个与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) - 支付抽象库.
 * [Shopware](https://github.com/shopware/shopware) - 高度可定制的电子商务软件
@@ -508,12 +509,12 @@
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) - 支持 RabbitMQ、AMQP、STOMP、Amazon SQS、Redis 和 Doctrine 传输的 PHP 消息队列包. 
 
 ### Search
-*用于索引和对数据执行搜索查询的库和软件.*
+*Libraries and software for indexing and performing search queries on data.*
 
 * [Elastica](https://github.com/ruflin/Elastica) - ElasticSearch 的客户端库.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - 官方客户端库 [ElasticSearch](https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - 一个客户端库 [Solr](https://lucene.apache.org/solr/).
-* [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - 查询库 [Sphinx](https://sphinxsearch.com/) 和 [Manticore](https://manticoresearch.com/) 搜索引擎.
+* [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - 查询库 [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) 搜索引擎.
 
 ### Command Line
 *与命令行相关的库.*
@@ -584,6 +585,7 @@
 
 * [Brick\Math](https://github.com/brick/math) - 提供大量支持的库：`BigInteger`、`BigDecimal` 和`BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - 在二进制和公制系统中解析、格式化和转换字节单位的库.
+* [DecimalObject](https://github.com/spryker/decimal-object) - 一个值对象，可以轻松、更精确地处理小数/浮点数.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - Google 电话号码处理库的 PHP 实现.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - 另一个用于在度量单位之间转换的库.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 用于在度量单位之间转换的库.
@@ -666,7 +668,7 @@
 ### Serverless
 *帮助构建无服务器 Web 应用程序的库和工具.*
 
-* [Bref](https://bref.sh/) - AWS Lambda 上的无服务器 PHP.
+* [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](http://openwhisk.apache.org/) - 一个开源的无服务器云平台.
 * [Serverless Framework](https://www.serverless.com/open-source/) - 用于构建无服务器应用程序的开源框架.
 * [Laravel Vapor](https://vapor.laravel.com/) - Laravel 的无服务器部署平台，由 AWS 提供支持.
@@ -821,7 +823,7 @@
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - Chris Hartjes 的一本关于使用 PHPUnit 进行单元测试的书.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - Brandon Savage 的一本关于面向对象的 PHP 的书.
 * [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - Josh Lockhart 撰写的一本关于 PHP 新特性和最佳实践的书.
-* [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - Paul M. Jones 撰写的一本关于对遗留 PHP 应用程序进行现代化改造的书.
+* [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - Paul M. Jones 撰写的一本关于现代化遗留 PHP 应用程序的书.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - Colin O&#39;Dell 的一本涵盖 PHP 7 中所有功能和变化的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - Dayle Rees 的一本关于学习编写 PHP 的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) - Steve Corona 关于扩展 PHP 应用程序的电子书.
