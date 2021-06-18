@@ -72,7 +72,7 @@
 ## Books
 
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - LV 塔拉索夫
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier（宾夕法尼亚大学）
 * [Multivariable Calculus](http://people.math.gatech.edu/%7Ecain/notes/calculus.html) - G. Cain, J. Herod（乔治亚理工学院）
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
@@ -254,7 +254,7 @@
 ## Combinatorics
 
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner（田纳西大学）
-* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔 T. 凯勒、威廉 T. 特罗特
+* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔·T·凯勒、威廉·T·特罗特
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - 彼得·J·卡梅伦
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - 菲利普·弗拉乔莱、罗伯特·塞奇维克
 * [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - 赫伯特威尔夫
@@ -275,18 +275,19 @@
 * [Byrne's Euclid](https://www.c82.net/euclid/) - 奥利弗·伯恩
 * [Plane Geometry](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - 乔治·温特沃斯和大卫·尤金·史密斯 (1913)
 * [Planes and Spherical Trigonometry](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - 乔治·温特沃斯和大卫·尤金·史密斯 (1915)
-* [Coordinate Geometry](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - 亨利·布查德·芬恩和亨利·达拉斯·汤普森 (1911)
+* [Coordinate Geometry](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine and Henry Dallas Thompson (1911)
 * [Analytic Geometry](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - 刘易斯·帕克·西塞洛夫、乔治·温特沃斯、大卫·尤金·史密斯 (1922)
 
 ### Differential Geometry
 
 * [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - 乔尔 W. 罗宾、迪特玛 A. 萨拉蒙
-* [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
+* [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier（宾夕法尼亚大学）
 * [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - 彼得·W·米乔
 * [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - 沃尔夫罗斯曼
 * [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson（隆德大学）
 * [The Geometry and Topology of Three-Manifolds](http://msri.org/publications/books/gt3m/) - W.瑟斯顿
 * [Semi-Riemann Geometry and General Relativity](http://www.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) - 施洛莫·斯腾伯格
+* [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - 基南起重机
 
 ### Algebraic Geometry
 

@@ -53,6 +53,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 -  [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase 扩展可为您的应用提供扩展功能，而无需您自行研究、编写或调试代码.
 -  [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - 官方 Stripe 订阅和发票扩展.
+-  [Firebase Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search/) - 通过将数据同步到在 Firestore 中添加全文搜索的扩展 [Typesense](https://github.com/typesense/typesense) - Algolia 的 OSS 替代品.
 
 ## Web
 
@@ -79,7 +80,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [FireSQL](https://github.com/jsayol/FireSQL)  - 使用 SQL 语法查询 Firestore. 发出获取您请求的数据所需的最少量查询.
 -  [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - 自动删除旧版本的站点部署.
 -  [Firestorter](https://github.com/IjzerenHein/firestorter) - 使用 MobX（也用于 react-native）以零努力在 React 中使用 Firestore.
--  [Nextbase](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
+-  [Nextbase](https://github.com/martyan/nextbase) - Next.js、Redux 和 Firebase 的样板，适用于想要快速启动项目的开发人员.
 -  [Typesaurus](https://github.com/kossnocorp/typesaurus) - Firestore 的类型安全 TypeScript 优先 ODM.
 -  [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - 适用于 Firebase 的 Kotlin 优先 SDK，支持多平台项目（`ios`、`android` 和 `js`）.
 
@@ -88,7 +89,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - 官方 Firebase Flutter 设置.
 -  [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - Firebase 的 NativeScript 插件.
 -  [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Firebase 插件的集合 [Flutter](https://flutter.io/) 应用.
--  [React Native Firebase](https://github.com/invertase/react-native-firebase)  - 用于 React Native 的经过充分测试的功能丰富的模块化 Firebase 实现. 支持iOS和Android平台.
+-  [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms.
 -  [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   用于 Firebase 云消息传递和本地通知的 React Native 模块.
 -  [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) - 用于 Firestore、通知、分析、存储、消息传递、数据库的本机 Firebase Expo 应用程序（iOS、Android）演示.

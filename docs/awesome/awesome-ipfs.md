@@ -67,10 +67,10 @@
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)  - 在您的机器上运行您的 IPFS 节点，而不必费心使用命令行工具. 管理您的节点、添加您的文件、轻松更改设置……只需一个界面即可完成所有操作.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - 在 IPFS 的浏览器文件管理器中.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - 允许改进 ipfs 事件可视化的应用程序.
-- [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
+- [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用 windows.ipfs 向您显示您的 IPNS 链接和公钥的二维码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  - IPFS 图像上传器和查看器.  Minerva 是 Apache Drill 的一个存储插件，连接 IPFS 的去中心化存储和 Drill 灵活的查询引擎. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
-- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) - 一个web3论坛.您可以从这个论坛获得新的想法、报告、讨论，尽管您可能在网络限制区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
+- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) - 一个web3论坛.您可以从这个论坛获得新的想法，报告，讨论，尽管您可能在网络限制区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
 - [IPFS-FPS](https://ipfs-fps.com/)  - 一个完全分散的第一人称射击游戏. 使用 Unity、Fleek、Unstoppable Domans 和 Pinata 构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - 基于 ipfs 和 Markdown 构建您的 wiki 系统.
 - [ipfs-search](https://ipfs-search.com) - 从 2016 年开始探索宇宙.
@@ -121,6 +121,7 @@
 - [Watchit](https://github.com/ZorrillosDev/watchit-desktop) - 采用去中心化网络方法的电影平台.
 - [Wistful Books](https://wistfulbooks.com/) - 用于享受 librivox.org 有声读物的单页离线应用程序. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - 支持 IPFS 的 xfce-screenshooter 的一个分支！
+- [youtube2ipfs](https://pypi.org/project/youtube2ipfs/) - 从 YouTube（和类似的视频平台）下载视频并将它们添加到 IPFS. [Source](https://github.com/dokterbob/youtube2ipfs)
 
 ## Articles
 
@@ -195,7 +196,7 @@
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - Dillo 网络浏览器的 IPFS 集成.
 - [galacteek](https://galacteek.github.io) - 一个用于分布式网络的基于 Qt5 的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - 通过确保资产是相对的，添加了对将 Gatsby 网站部署到 IPFS 的支持.
-- [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/向 IPFS 推/拉存储库
+- [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/到 IPFS 推/拉存储库
 - [go-orbit-db](https://github.com/berty/go-orbit-db)  - 这是 OrbitDB 的 Golang 端口，旨在与原始 JavaScript 版本完全兼容.  OrbitDB 是一个无服务器、分布式、点对点数据库.
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs 是一个库，它是 Stellar 和 IPFS 之间的桥梁.
 - [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - 移动设备上的 IPFS 和 libp2p，使用 Gomobile
@@ -207,8 +208,8 @@
 - [ipfs-action](https://github.com/aquiladev/ipfs-action) - 用于交付静态网站的 GitHub Action.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - 使用 AES256 加密文件或目录，然后添加到 IPFS
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - 从 URL 而不是文件路径向 IPFS 添加文件
-- [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome 扩展将 ipfs.io 流量重定向到本地网关
-- [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome 扩展将 ipfs.io 流量重定向到本地网关
+- [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
+- [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 - [ipfs-common](https://github.com/arsyun) - 一些常用工具，1.CID 到人类可读的cid，2.cid 和块名称转换，3.读取leveldb 工具. [Source](https://github.com/arsyun/ipfs-common)
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - 浏览器扩展，可简化对 IPFS 资源的访问.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 零配置 CLI 部署静态网站：cd my-static-website &amp;&amp; npx @agentofuser/ipfs-deploy
@@ -235,7 +236,7 @@
 - [Public gateway status checker](https://ipfs.fooock.com/) - 用于检查 IPFS 网关公共状态的 Web 应用程序，包括延迟和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX 是一个文件上传和操作工具，与 IPFS 自定义集成
 - [Siderus Orion](https://orion.siderus.io) - 适用于 macOS、Windows 和 Linux 的易于使用的 IPFS 桌面客户端 [Source](https://github.com/Siderus/Orion)
-- [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - 安卓全节点
+- [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - 适用于 Android 的完整节点
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - 使用密钥对或密码在上传文件之前加密文件
 - [wbipfs](https://github.com/wabarc/wbipfs) - 用于返回网页到 IPFS 的命令行工具和 Go 包接口.
 

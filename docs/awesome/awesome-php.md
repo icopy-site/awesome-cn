@@ -5,7 +5,7 @@
 令人惊叹的 PHP 库、资源和闪亮事物的精选列表.
 
 ## Contributing and Collaborating
-请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
+请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
 
     - [PHP Magazines](#php-magazines)    
 
@@ -31,6 +31,8 @@
 * [Composed](https://github.com/joshdifabio/composed) - 在运行时解析项目的 Composer 环境的库.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - 用于合并多个 composer.json 文件的作曲家插件.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Composer 应用补丁的插件.
+* [Compoer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - 用于分析 Composer 依赖项并验证包源中未使用未知符号的 CLI 工具.
+* [Composer Unused](https://github.com/composer-unused/composer-unused) - 用于扫描未使用的 Composer 包的 CLI 工具.
 * [Prestissimo](https://github.com/hirak/prestissimo) - 支持并行安装过程的作曲家插件.
 * [Repman](https://repman.io) - 一个私有的 PHP 包存储库管理器和 Packagist 代理.
 * [Satis](https://github.com/composer/satis) - 静态 Composer 存储库生成器.
@@ -134,7 +136,7 @@
 * [Nyholm PSR-7](https://github.com/Nyholm/psr7)  - 一个超轻量级的 PSR-7 实现. 非常严格，非常快.
 * [PHP VCR](https://php-vcr.github.io/) - 用于记录和重放 HTTP 请求的库.
 * [Requests](https://github.com/rmccue/Requests) - 一个简单的 HTTP 库.
-* [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+* [Retrofit](https://github.com/tebru/retrofit-php) - 用于简化 REST API 客户端创建的库.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - 同步或异步获取 HTTP 资源的组件.
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP 消息实现.
 
@@ -173,7 +175,7 @@
 * [Mautic](https://github.com/mautic/mautic) - 电子邮件营销自动化
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件解决方案.
 * [PHP IMAP](https://github.com/barbushin/php-imap) - 通过 POP3、IMAP 和 NNTP 访问邮箱的库.
-* [Stampie](https://github.com/Stampie/Stampie) - 电子邮件服务库，例如 [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](https://mailchimp.com/features/transactional-email/).
+* [Stampie](https://github.com/Stampie/Stampie) - 电子邮件服务库，例如 [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) 和 [M和rill](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - 邮件解决方案.
 * [Symfony Mailer](https://github.com/symfony/mailer) - 用于创建和发送电子邮件的强大库.
 
@@ -287,7 +289,7 @@
 *用于处理和存储密码的库和工具.*
 
 * [GenPhrase](https://github.com/timoh6/GenPhrase) - 用于生成安全随机密码的库.
-* [Password Compat](https://github.com/ircmaxell/password_compat) - 新 PHP 5.5 密码函数的兼容性库.
+* [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - 用于 PHP 和 JavaScript 的密码策略库.
 * [Password Validator](https://github.com/jeremykendall/password-validator) - 用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) - 用于生成随机密码的 PHP 库.
@@ -315,10 +317,10 @@
 *用于管理代码质量、格式和 linting 的库.*
 
 * [CaptainHook](https://github.com/captainhookphp/captainhook) - 一个易于使用且灵活的 Git 钩子库. 
-* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
+* [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测 PHP、CSS 和 JS 编码标准违规的库.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 编码标准修复程序库.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - 一个库，用于扫描代码中的错误、次优代码、未使用的参数等.
-* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 帮助遵守某些编码约定的工具.
+* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 检测复制和粘贴代码的库.
 
 ### Static Analysis
@@ -418,7 +420,7 @@
 ### Event
 *事件驱动或实现非阻塞事件循环的库.*
 * [Amp](https://github.com/amphp/amp) - 事件驱动的非阻塞 I/O 库.
-* [Broadway](https://github.com/broadway/broadway) - 事件源和 CQRS 库.
+* [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
 * [CakePHP Event](https://github.com/cakephp/event) - 事件调度程序库.
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - 另一个网络套接字库.
 * [Evenement](https://github.com/igorw/evenement) - 事件调度程序库.
@@ -436,7 +438,7 @@
 ### Logging
 *用于生成和处理日志文件的库.*
 
-* [Monolog](https://github.com/Seldaek/monolog) - 一个全面的记录器.
+* [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
 
 ### E-commerce
 *用于支付和建立在线电子商务商店的库和应用程序.*
@@ -509,12 +511,12 @@
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) - 支持 RabbitMQ、AMQP、STOMP、Amazon SQS、Redis 和 Doctrine 传输的 PHP 消息队列包. 
 
 ### Search
-*Libraries and software for indexing and performing search queries on data.*
+*用于索引和对数据执行搜索查询的库和软件.*
 
 * [Elastica](https://github.com/ruflin/Elastica) - ElasticSearch 的客户端库.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - 官方客户端库 [ElasticSearch](https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - 一个客户端库 [Solr](https://lucene.apache.org/solr/).
-* [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - 查询库 [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) 搜索引擎.
+* [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - 查询库 [Sphinx](https://sphinxsearch.com/) 和 [Manticore](https://manticoresearch.com/) 搜索引擎.
 
 ### Command Line
 *与命令行相关的库.*
@@ -668,7 +670,7 @@
 ### Serverless
 *帮助构建无服务器 Web 应用程序的库和工具.*
 
-* [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
+* [Bref](https://bref.sh/) - AWS Lambda 上的无服务器 PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) - 一个开源的无服务器云平台.
 * [Serverless Framework](https://www.serverless.com/open-source/) - 用于构建无服务器应用程序的开源框架.
 * [Laravel Vapor](https://vapor.laravel.com/) - Laravel 的无服务器部署平台，由 AWS 提供支持.
@@ -804,7 +806,7 @@
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - PHP 新闻的月度摘要.
 * [PHP Best Practices](https://phpbestpractices.org/) - PHP 最佳实践指南.
 * [PHP FIG](https://www.php-fig.org/) - PHP 框架互操作性小组.
-* [PHP Package Development Standards](http://php-pds.com) - PHP 的包开发标准.
+* [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) - PHP 的开源学习.
 * [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - PHP 安全指南.
 * [PHP The Right Way](https://phptherightway.com/) - PHP 最佳实践快速参考指南.
@@ -823,12 +825,12 @@
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - Chris Hartjes 的一本关于使用 PHPUnit 进行单元测试的书.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - Brandon Savage 的一本关于面向对象的 PHP 的书.
 * [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - Josh Lockhart 撰写的一本关于 PHP 新特性和最佳实践的书.
-* [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - Paul M. Jones 撰写的一本关于现代化遗留 PHP 应用程序的书.
+* [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - Paul M. Jones 撰写的一本关于对遗留 PHP 应用程序进行现代化改造的书.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - Colin O&#39;Dell 的一本涵盖 PHP 7 中所有功能和变化的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - Dayle Rees 的一本关于学习编写 PHP 的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) - Steve Corona 关于扩展 PHP 应用程序的电子书.
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - Chris Cornutt 撰写的关于 PHP 常见安全术语和实践的书.
-* [Signaling PHP](https://leanpub.com/signalingphp) - Cal Evans 写的一本关于在 CLI 脚本中捕获 PCNTL 信号的书.
+* [Signaling PHP](https://leanpub.com/signalingphp) - Cal Evans 关于在 CLI 脚本中捕获 PCNTL 信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Chris Hartjes 撰写的关于构建 PHP 应用程序测试的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - 本书涵盖解析和验证 XML 文档、利用 XPath 表达式、使用名称空间以及如何以编程方式创建和修改 XML 文件.
 

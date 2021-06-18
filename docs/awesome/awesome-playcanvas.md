@@ -148,6 +148,10 @@
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景样式基于 WebXR 的主页.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 
+## Blockchain/Crypto/NFT
+
+- [RareRooms](https://www.rarerooms.io/) - 用于 NFT 收藏的 3D 虚拟房间.
+
 ## Virtual Events
 
 - [Party Space](https://www.party.space/) - 虚拟活动平台.
