@@ -42,8 +42,8 @@
 - [Vue Mastery](https://www.vuemastery.com/) - Vue 开发者的终极学习资源
 - [Vue 3 Video Playlist](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) - 惊人的 Vue 3 教程和实验
 - [Vue.js Workshops](https://public.vuejsworkshops.com) - 在浏览器中学习 Vue 2，通过构建 3 个应用程序：登陆页面、Todos App 和 Podcasts 聚合器.（Vue.js、Vue-Router、Vuex、Vue-Axios、Vue-Apollo）
- - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - 各种 Vue 2 和 3 教程和文章.
- - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - YouTube 上精选的最佳 Vue.js 教程列表
+- [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - 各种 Vue 2 和 3 教程和文章.
+- [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - YouTube 上精选的最佳 Vue.js 教程列表
 
 
 ### Job Portal
@@ -286,8 +286,8 @@
 - [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
 - [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 - [Sharing and re-using Vue Mixins in the cloud with Bit.dev](https://blog.bitsrc.io/sharing-and-reusing-vue-mixins-in-the-cloud-with-bit-dev-830104a48d0b) （2019 年 5 月）
-- [Using Watchers in Vue JS](https://blog.bitsrc.io/introducing-watchers-in-vue-js-d3efd4f4e726) (June 2019)
-- [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) (June 2019)
+- [Using Watchers in Vue JS](https://blog.bitsrc.io/introducing-watchers-in-vue-js-d3efd4f4e726) （2019 年 6 月）
+- [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) （2019 年 6 月）
 - [Form Validation In VueJS Using Yup](https://vijitail.dev/blog/form-validation-in-vue-using-yup) 经过 [Vijit Ail](https://vijitail.dev/) （2020 年 5 月）
 - [Use Vue.js to Rewrite React's Official Tutorial Tic Tac Toe](https://chanvinxiao.com/blog/vuejs-tic-tac-toe/) 经过 [Chanvin Xiao](https://github.com/vinzid)
 - [Can we use Python with Vue.js or Vue and Django or Flask?](https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/)
@@ -300,6 +300,7 @@
 - [Building an E-Commerce app with Vue.js, Vuex & Axios](https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/) 作者：Deven Rathore（2020 年 11 月）
 - [Vue.js Debugging: A Guide to Fixing Your Frontend](https://snipcart.com/blog/vuejs-debugging)  - 学习 Vue.js 调试的基础知识. 本指南将引导您完成有关如何修复应用程序前端的教程.
 - [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+- [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
 
 ### Examples
 
@@ -1432,7 +1433,7 @@ _在日历中显示不可编辑的事件_
 - [vue2-google-maps](https://github.com/xkjyeah/vue-google-maps) - 带有 2 路数据绑定的 vue 谷歌地图组件.
 - [vue2-leaflet](https://github.com/KoRiGaN/Vue2Leaflet) - 用于传单地图的 Vue 2 组件.
 - [vue-mapbox-gl](https://github.com/phegman/vue-mapbox-gl) - Mapbox GL JS 的 Vue 2.x 组件
-- [vue-yandex-maps](https://github.com/PNKBizz/vue-yandex-map) - Vue 2.x component for Yandex Maps
+- [vue-yandex-maps](https://github.com/PNKBizz/vue-yandex-map) - 用于 Yandex 地图的 Vue 2.x 组件
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) - 百度地图的Vue 2.x 组件.
 - [vue-choropleth](https://github.com/voluntadpear/vue-choropleth) - Vue 2.x 组件来显示区域分布图.
 - [vuelayers](https://github.com/ghettovoice/vuelayers) - Vue 2 组件与 OpenLayers 配合使用.
@@ -1509,7 +1510,7 @@ _在日历中显示不可编辑的事件_
 - [vue-tree](https://github.com/halower/vue2-tree) - Vue.js 2.X 的树组件.
 - [liquor-tree](https://github.com/amsik/liquor-tree) - 惊人的 Vue Tree 组件
 - [vue-trees-ui](https://github.com/wyr1227/vue-trees) - 基于 Vue 的树 Ui.
-- [Bosket](https://github.com/elbywan/bosket) - 前端框架（Vue、React、Angular 和 Riot）的树视图组件集合.
+- [Bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks (Vue, React, Angular and Riot).
 - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - 一个 reactjs、angular 和 vuejs 树组件.
 - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - Vue.js 的一个简单的可定制的可拖动树组件
 - [he-tree-vue](https://github.com/phphe/he-tree-vue)  - 一个可拖动的可排序 vue 树组件，带有拖动占位符，类型定义.  14 KB 压缩.
@@ -1727,7 +1728,7 @@ _让用户创建和编辑数据_
 - [vue-otp-2](https://github.com/tonghoai/vue-otp-2) - Vue OTP 输入 2，用于 OTP 输入的 Vue 组件
 - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) Vue.js 的基于模式的表单生成器组件.
 - [vue-form-builder](https://github.com/openfext/vue-form-builder) - 使用JSON schema和composition api构建强大的vue表单，支持Element UI、View UI、Ant Design Vue等流行的ui框架. [Online Demo](https://openfext.github.io/vue-form-builder)
-- [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs) - Create dynamic forms with buefy from json [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
+- [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs) - 使用来自 json 的 buefy 创建动态表单 [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
 - [Vue Flow Form](https://github.com/ditdot-dev/vue-flow-form) - 使用 Vue.js 创建会话条件逻辑表单. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 仅通过描述数据节点构建表单 - 无需编程！ [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
@@ -2005,7 +2006,7 @@ _显示图片_
 - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue 浮动操作按钮.
 - [vue-complexify](https://github.com/mazipan/vue-complexify) - Vuejs 从 jquery.complexify.js 移植库.
 - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Vue.js 的模型和集合
-- [vue-stars](https://www.tallent.us/vue-stars/) - 高度可定制的评级控制（使用星星或其他角色）
+- [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
 - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - 可定制的确认按钮，要求用户在执行操作之前阅读消息
 - [vue-poll](https://github.com/ppietris/vue-poll) - 用于投票的 Vue.js 组件
 - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - vue.js 的图表组件，灵感来自 react-diagrams
@@ -2066,7 +2067,7 @@ _显示图片_
 
 #### Data Masking
 
-- [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - 用于手动数据屏蔽的 VueJS (2.x) 组件
+- [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
 ### UI Layout
 
@@ -2158,6 +2159,7 @@ _组件集+响应式布局系统_
 - [superBVue](https://github.com/superbvue/SuperBVue) - 用于 Web 的 Vue 3 UI 组件基于 boostrap v5
 - [Qui](https://github.com/Qvant-lab/qui) - 用于 Web 的 Vue 2.x 设计系统
 - [Mijin](https://github.com/lecoueyl/mijin) - 响应式 Tailwind CSS UI 组件，无依赖
+- [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js 3.0 UI 可定制的 UI 框架.
 
 
 #### Mobile
@@ -2194,7 +2196,6 @@ _没有布局系统的组件集_
 - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - 用于 vue 2.0 的高度可扩展的 Web 组件
 - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) - 使用 Vue 2 实现的语义 UI 模块
 - [office-ui-fabric-vue](https://github.com/aidewoode/office-ui-fabric-vue) - Vue.js 的 Office UI Fabric 实现
-- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin)  - 带有自定义组件集合的 Vue 管理仪表板. 使用 Vue 2 和 Bootstrap 4 构建
 - [Semantic UI Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue) - Vue 的语义 UI 集成
 - [vuesax](https://github.com/lusaxweb/vuesax) - Vue.js 的前端 vue 组件.
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - 全功能 45+ Vue.js 组件，包括数据网格、图表、调度程序和图表组件等.
@@ -2228,6 +2229,7 @@ _一套管理模板_
 - [vue-admin-next](https://github.com/openfext/vue-admin-next) - 具有多模块设计、Vue Composition API 和友好用户界面的专业企业应用程序. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query)
 - [vue-pro-sidebar](https://github.com/boussadjra/vue-pro-sidebar) ：具有生态系统配置（vue-router、vuex）的响应式模板启动器，此样板允许您选择您喜欢的颜色. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
 - [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) 使用 Bootstrap-Vue 创建的样板管理模板.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
+- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - 使用 Vue 3 和 `vuestic-ui` 构建的 Vue 管理仪表板.
 
 #### Server-side rendering
 
@@ -2528,7 +2530,7 @@ _将 DOM 节点移动到目标 DOM 节点_
 #### Miscellaneous
 
 - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) - 将进度条与所有请求相关联的拦截器，很明显正在加载某些内容.
-- [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - Vue.js 2.0 directive to detect images loading.
+- [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - 用于检测图像加载的 Vue.js 2.0 指令.
 - [vue-visible](https://github.com/javisperez/vue-visible) - VueJS (2.x) 的 v-visible 指令，类似于 v-show 但用于可见性.
 - [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) - 检测容器大小调整的组件（基于事件）
 - [v-blur](https://github.com/ndelvalle/v-blur) - 动态模糊元素的 Vue 指令
@@ -2721,7 +2723,7 @@ _本地存储等_
 - [VueFort](https://github.com/SeregPie/VueFort)  - Vue 的数据建模. 适用于 Vue 2 和 3.
 - [@korijn/vue-store](https://github.com/Korijn/vue-store) - 具有撤消/重做功能的轻量级 Vue 3 组合 API 兼容存储模式库.
 - [vuex-light](https://github.com/js-cosmos/vuex-light) - 状态管理系统，具有强大的 Vue 3 类型
-- [vue-object-state](https://github.com/crashkonijn/vue-object-state) - 简单的对象/dto/模型状态跟踪
+- [vue-object-state](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - 将数据表选项和过滤器与 url 同步，即使在刷新或导航后也能保持用户偏好
 
 ##### Redux
@@ -2799,7 +2801,7 @@ _本地存储等_
 
 #### GraphQL
 
-- [vue-apollo](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
+- [vue-apollo](https://github.com/Akryum/vue-apollo) - VueJS 的 Apollo/GraphQL 集成.
 - [vue-relay](https://github.com/ntkme/vue-relay) - 用于构建 GraphQL 驱动的 Vue.js 应用程序的框架.
 - [vuex-orm-apollo](https://github.com/vuex-orm/vuex-orm-apollo) - Vuex-ORM 的 Apollo/GraphQL 集成.
 
@@ -2947,7 +2949,7 @@ _与服务或其他框架集成_
 - [vue-disqus](https://github.com/ktquez/vue-disqus) - Vue 组件将 Disqus 评论集成到您的应用程序中，并支持 SPA.
 - [vue-youtube-embed](https://github.com/kaorun343/vue-youtube-embed) - Vue.js 和 YouTube.
 - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar) - 提供“添加到日历”功能的 Vue.js 组件，适用于 Vue 2.X.
-- [Vue + Meteor](https://github.com/Akryum/vue-meteor) - Vue 在 Meteor 中的一流集成.
+- [Vue + Meteor](https://github.com/Akryum/vue-meteor) - Vue first-class integration in Meteor.
 - [av-ts](https://github.com/HerringtonDarkholme/av-ts) - 现代的、类型安全的、惯用的 Vue 绑定库.
 - [Neutronium](https://github.com/NeutroniumCore/Neutronium) - 使用 HTML、CSS 和 javascript 构建 .NET 桌面应用程序.
 - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest) - 用于 Vue.js 组件（支持 html、pug 和 babel）和 TypeScript 的 Jest preprocessor.js.

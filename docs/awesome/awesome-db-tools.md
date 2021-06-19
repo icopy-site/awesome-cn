@@ -60,7 +60,7 @@
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整且易于使用的 MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - SQL 编辑器和 Clickhouse 的开源简单商业智能.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - 适用于关系数据库的现代、原生且友好的 GUI 工具：MySQL、PostgreSQL、SQLite 等.
-- [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web 管理 GUI - 从任何地方使用您的 PostgreSQL 数据库，具有丰富、闪电般快速的 AJAX Web 界面.
+- [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web 管理 GUI - 从任何地方使用您的 PostgreSQL 数据库，具有丰富、快速的 AJAX Web 界面.
 
 
 ## CLI tools
@@ -71,7 +71,7 @@
 - [pg_top](https://github.com/markwkm/pg_top) - &#39;top&#39; 用于 PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是用于 Oracle 数据库的免费命令行界面.
-- [usql](https://github.com/xo/usql) - PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 的通用命令行界面， [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+- [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) 包括 NoSQL 和非关系型数据库！
 
 ### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以执行自动完成和语法突出显示.
@@ -101,7 +101,7 @@
 - [flyway](https://github.com/flyway/flyway) - 数据库迁移工具.
 - [gh-ost](https://github.com/github/gh-ost) - MySQL 的在线架构迁移.
 - [liquibase](https://github.com/liquibase/liquibase) - 用于跟踪、管理和应用数据库架构更改的独立于数据库的库.
-- [migra](https://github.com/djrobstep/migra) - 与 diff 类似，但适用于 PostgreSQL 模式.
+- [migra](https://github.com/djrobstep/migra) - 与 diff 类似，但用于 PostgreSQL 模式.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate)  - 专为 postgres 构建的 Node.js 数据库迁移管理.  （但也可用于符合 SQL 标准的其他数据库 - 例如 CockroachDB.）
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明式数据库架构迁移工具，使用声明式数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供将 PostgreSQL 数据库架构描述为 YAML 的实用程序.
@@ -225,11 +225,12 @@
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - 用 Perl 编写的脚本，允许您快速查看 MySQL 安装并进行调整以提高性能和稳定性.
 - [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com) - 生成优化的“postgresql.conf”的免费在线工具.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL 配置向导.
-- [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - 用于分析 PostgreSQL 数据库配置的简单脚本，并提供调优建议.
+- [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - 简单的脚本来分析您的 PostgreSQL 数据库配置，并提供调优建议.
 
 
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro 加快发布周期并支持整个 IT 生态系统的敏捷性.
+- [Spawn](https://spawn.cc/)  - 用于为开发和 CI 创建即时数据库副本的云服务. 没有更多的本地数据库安装，即时恢复到任意保存点，每个功能分支或测试的独立副本. 无论数据库大小如何，即时配置.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit 在您的 DevOps 工作流程中执行关键的数据库开发功能，而不会影响质量、性能或可靠性.
 
 
