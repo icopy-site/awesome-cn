@@ -145,6 +145,7 @@
 * [flag](https://github.com/cosiner/flag) - 简单但功能强大的命令行选项解析库，用于支持 Go 的子命令.
 * [flaggy](https://github.com/integrii/flaggy) - 强大且惯用的标志包，具有出色的子命令支持.
 * [flagvar](https://github.com/sgreben/flagvar) - Go 的标准 `flag` 包的标志参数类型的集合.
+* [go-andotp](https://github.com/grijul/go-andotp) - 用于加密/解密的 CLI 程序 [andOTP](https://github.com/andOTP/andOTP) 文件. 也可以作为图书馆使用.
 * [go-arg](https://github.com/alexflint/go-arg) - Go 中基于结构的参数解析.
 * [go-commander](https://github.com/yitsushi/go-commander) - Go 库以简化 CLI 工作流程.
 * [go-flags](https://github.com/jessevdk/go-flags) - 去命令行选项解析器.
@@ -172,9 +173,9 @@
 *用于构建控制台应用程序和控制台用户界面的库.*
 
 * [asciigraph](https://github.com/guptarohit/asciigraph) - 在命令行应用程序中打包制作轻量级 ASCII 线图╭┈╯，没有其他依赖项.
-* [aurora](https://github.com/logrusorgru/aurora) - 支持 fmt.Printf/Sprintf 的 ANSI 终端颜色.
+* [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that supports fmt.Printf/Sprintf.
 * [box-cli-maker](https://github.com/Delta456/box-cli-maker) - 为您的 CLI 制作高度定制的盒子.
-* [cfmt](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
+* [cfmt](https://github.com/mingrammer/cfmt) - 受引导颜色类启发的上下文 fmt.
 * [cfmt](https://github.com/i582/cfmt) - 简单方便的格式化程式化输出与 fmt 库完全兼容.
 * [chalk](https://github.com/ttacon/chalk) - 用于美化终端/控制台输出的直观包.
 * [colourize](https://github.com/TreyBastian/colourize) - 终端中 ANSI 颜色文本的 Go 库.
@@ -237,7 +238,7 @@
 * [gookit/config](https://github.com/gookit/config)  - 应用程序配置管理（加载、获取、设置）. 支持 JSON、YAML、TOML、INI、HCL. 多文件加载，数据覆盖合并.
 * [harvester](https://github.com/beatlabs/harvester) - Harvester，一个易于使用的静态和动态配置包，支持播种、环境变量和 Consul 集成.
 * [hjson](https://github.com/hjson/hjson-go)  - Human JSON，一种用于人类的配置文件格式. 宽松的语法，更少的错误，更多的评论.
-* [hocon](https://github.com/gurkankaymak/hocon) - Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files.
+* [hocon](https://github.com/gurkankaymak/hocon) - 使用 HOCON（一种人性化的 JSON 超集）格式的配置库，支持环境变量、引用其他值、注释和多个文件等功能.
 * [ingo](https://github.com/schachmat/ingo) - 标志保留在类似 ini 的配置文件中.
 * [ini](https://github.com/go-ini/ini) - 去包读取和写入 INI 文件.
 * [joshbetz/config](https://github.com/joshbetz/config) - Go 的小型配置库，用于解析环境变量、JSON 文件并在 SIGHUP 上自动重新加载.
@@ -308,7 +309,7 @@
 * [gocache](https://github.com/eko/gocache) - 一个完整的 Go 缓存库，具有多个存储（内存、memcache、redis 等）、可链接、可加载、指标缓存等.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) - 并发 FIFO 队列.
 * [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMap、树、HashSet 等.
-* [gofal](https://github.com/xxjwxc/gofal) - Go 的小数 api.
+* [gofal](https://github.com/xxjwxc/gofal) - fractional api for Go.
 * [golang-set](https://github.com/deckarep/golang-set) - 线程安全和非线程安全的 Go 高性能集.
 * [goset](https://github.com/zoumo/goset) - 一个有用的 Go 集合集合实现.
 * [goskiplist](https://github.com/ryszard/goskiplist) - 在 Go 中跳过列表实现.
@@ -316,7 +317,7 @@
 * [gota](https://github.com/kniren/gota) - Go 的数据帧、系列和数据整理方法的实现.
 * [goterator](https://github.com/yaa110/goterator) - 迭代器实现以提供映射和减少功能.
 * [hide](https://github.com/emvi/hide) - 带有编组到/来自散列的 ID 类型，以防止向客户端发送 ID.
-* [hilbert](https://github.com/google/hilbert) - 用于在空间填充曲线（例如 Hilbert 和 Peano 曲线）之间映射值的包.
+* [hilbert](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
 * [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间减少的 HyperLogLog 实现.
 * [iter](https://github.com/disksing/iter) - 去实现 C++ STL 迭代器和算法.
 * [levenshtein](https://github.com/agext/levenshtein) - Levenshtein 距离和相似度指标，具有可定制的编辑成本和通用前缀的类似 Winkler 的奖励.
@@ -357,7 +358,8 @@
 * [cache2go](https://github.com/muesli/cache2go) - 内存中键值缓存，支持基于超时自动失效.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) - 具有集群支持和单个项目到期的 BigCache.
 * [cockroach](https://github.com/cockroachdb/cockroach) - 可扩展、异地复制、事务性数据存储.
-* [Coffer](https://github.com/claygod/coffer) - 支持事务的简单 ACID 键值数据库.
+* [Coffer](https://github.com/claygod/coffer) - Simple ACID key-value database that supports transactions.
+* [column](https://github.com/kelindar/column) - 具有位图索引和事务的高性能、柱状、可嵌入内存存储.
 * [couchcache](https://github.com/codingsince1985/couchcache) - 由 Couchbase 服务器支持的 RESTful 缓存微服务.
 * [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - CovenantSQL 是区块链上的 SQL 数据库.
 * [Databunker](https://github.com/paranoidguy/databunker) - 为遵守 GDPR 和 CCPA 而构建的个人身份信息 (PII) 存储服务.
@@ -448,7 +450,7 @@
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - 强大的数据检索方法以及与数据库无关的查询构建功能.
 * [qry](https://github.com/HnH/qry) - 使用原始 SQL 查询从文件生成常量的工具.
 * [sq](https://github.com/bokwoon95/go-structured-query) - 用于 Go 的类型安全 SQL 构建器和结构映射器.
-* [sqlf](https://github.com/leporo/sqlf) - Fast SQL query builder.
+* [sqlf](https://github.com/leporo/sqlf) - 快速的 SQL 查询生成器.
 * [sqlingo](https://github.com/lqs/sqlingo) - 在 Go 中构建 SQL 的轻量级 DSL.
 * [sqrl](https://github.com/elgris/sqrl) - SQL 查询构建器，具有改进性能的 Squirrel 分支.
 * [Squalus](https://gitlab.com/qosenergy/squalus) - Go SQL 包上的薄层，可以更轻松地执行查询.
@@ -573,7 +575,7 @@
 * [go-sundheit](https://github.com/AppsFlyer/go-sundheit) - 一个为定义 golang 服务的异步服务健康检查提供支持的库.
 * [go-zero](https://github.com/tal-tech/go-zero)  - 一个 web 和 rpc 框架. 它的诞生是为了通过弹性设计确保繁忙站点的稳定性. 内置 goctl 大大提高了开发效率.
 * [gorpc](https://github.com/valyala/gorpc) - 用于高负载的简单、快速和可扩展的 RPC 库.
-* [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC.
+* [grpc-go](https://github.com/grpc/grpc-go)  - gRPC 的 Go 语言实现. 基于 HTTP/2 的 RPC.
 * [hprose](https://github.com/hprose/hprose-golang) - 非常新颖的 RPC 库，现在支持 25 多种语言.
 * [jsonrpc](https://github.com/osamingo/jsonrpc) - jsonrpc 包有助于实现 JSON-RPC 2.0.
 * [jsonrpc](https://github.com/ybbus/jsonrpc) - JSON-RPC 2.0 HTTP 客户端实现.
@@ -628,7 +630,7 @@
 
 ## Embeddable Scripting Languages
 
-*在你的代码中嵌入其他语言.*
+*Embedding other languages inside your go code.*
 
 * [anko](https://github.com/mattn/anko) - 用 Go 编写的可编写脚本的解释器.
 * [binder](https://github.com/alexeyco/binder) - 转到 Lua 绑定库，基于 [gopher-lua](https://github.com/yuin/gopher-lua).
@@ -708,7 +710,7 @@
 * [go-finnhub](https://github.com/m1/go-finnhub)  - 来自 finnhub.io 的股票市场、外汇和加密数据的客户端. 访问来自 60 多家证券交易所、10 家外汇经纪商和 15 多家加密货币交易所的实时金融市场数据.
 * [go-money](https://github.com/rhymond/go-money) - Fowler&#39;s Money 模式的实现.
 * [ofxgo](https://github.com/aclindsa/ofxgo) - 查询 OFX 服务器和/或解析响应（使用示例命令行客户端）.
-* [orderbook](https://github.com/i25959341/orderbook) - Golang 中限价单的匹配引擎.
+* [orderbook](https://github.com/i25959341/orderbook) - Matching Engine for Limit Order Book in Golang.
 * [payme](https://github.com/jovandeginste/payme) - 用于 SEPA 付款的二维码生成器（ASCII 和 PNG）.
 * [sleet](https://github.com/BoltApp/sleet) - 多个支付服务提供商 (PsP) 处理在线支付的统一接口.
 * [techan](https://github.com/sdcoffey/techan) - 具有高级市场分析和交易策略的技术分析库.
@@ -907,7 +909,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 获取完整列表.
 * [gocv](https://github.com/hybridgroup/gocv) - 使用 OpenCV 3.3+ 进行计算机视觉打包.
 * [goimagehash](https://github.com/corona10/goimagehash) - 去感知图像散列包.
 * [goimghdr](https://github.com/corona10/goimghdr) - imghdr 模块确定 Go 文件中包含的图像类型.
-* [govatar](https://github.com/o1egl/govatar) - 用于生成有趣头像的库和 CMD 工具.
+* [govatar](https://github.com/o1egl/govatar) - Library and CMD tool for generating funny avatars.
 * [govips](https://github.com/davidbyttow/govips) - 用于 Go 的闪电般快速的图像处理和调整大小库.
 * [gridder](https://github.com/shomali11/gridder) - 基于网格的 2D 图形库.
 * [image2ascii](https://github.com/qeesung/image2ascii) - 将图像转换为 ASCII.
@@ -937,7 +939,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 获取完整列表.
 * [connectordb](https://github.com/connectordb/connectordb) - 量化自我和物联网的开源平台.
 * [devices](https://github.com/goiot/devices) - 物联网设备库套件，x/exp/io 实验性.
 * [eywa](https://github.com/xcodersun/eywa) - Project Eywa 本质上是一个连接管理器，用于跟踪连接的设备.
-* [flogo](https://github.com/tibcosoftware/flogo) - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
+* [flogo](https://github.com/tibcosoftware/flogo) - Project Flogo 是一个用于物联网边缘应用程序和集成的开源框架.
 * [gatt](https://github.com/paypal/gatt) - Gatt 是用于构建低功耗蓝牙外围设备的 Go 包.
 * [gobot](https://github.com/hybridgroup/gobot/) - Gobot 是一个用于机器人、物理计算和物联网的框架.
 * [huego](https://github.com/amimof/huego) - 用于 Go 的广泛的 Philips Hue 客户端库.
@@ -1238,7 +1240,7 @@ _**非官方** 一组用于构建项目的模式._
 * [healthcheck](https://github.com/etherlabsio/healthcheck) - 一个用于 RESTful 服务的自以为是的并发健康检查 HTTP 处理程序.
 * [hostutils](https://github.com/Wing924/hostutils) - 用于打包和解包 FQDN 列表的 golang 库.
 * [indigo](https://github.com/osamingo/indigo) - 使用 Sonyflake 并由 Base58 编码的分布式唯一 ID 生成器.
-* [lk](https://github.com/hyperboloide/lk) - A simple licensing library for golang.
+* [lk](https://github.com/hyperboloide/lk) - 一个简单的 golang 许可库.
 * [llvm](https://github.com/llir/llvm) - 在纯 Go 中与 LLVM IR 交互的库.
 * [metrics](https://github.com/pascaldekloe/metrics) - 用于度量仪器和 Prometheus 博览会的库.
 * [morse](https://github.com/alwindoss/morse) - 与莫尔斯电码相互转换的库.
@@ -1270,7 +1272,7 @@ _**非官方** 一组用于构建项目的模式._
 * [go-nlp](https://github.com/nuance/go-nlp) - 用于处理离散概率分布的实用程序和其他对 NLP 工作有用的工具.
 * [go-pinyin](https://github.com/mozillazg/go-pinyin) - CN Hanzi to Hanyu Pinyin converter.
 * [go-stem](https://github.com/agonopol/go-stem) - 波特词干算法的实现.
-* [go-unidecode](https://github.com/mozillazg/go-unidecode) - Unicode 文本的 ASCII 音译.
+* [go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 * [go2vec](https://github.com/danieldk/go2vec) - word2vec 嵌入的阅读器和实用程序功能.
 * [gojieba](https://github.com/yanyiwu/gojieba) - 这是一个 Go 实现 [jieba](https://github.com/fxsjy/jieba) 其中一种中文分词算法.
 * [golibstemmer](https://github.com/rjohnsondev/golibstemmer) - 去绑定雪球 libstemmer 库，包括 porter 2.
@@ -1411,8 +1413,8 @@ _**非官方** 一组用于构建项目的模式._
 * [GORM](https://github.com/go-gorm/gorm) - Golang 的精彩 ORM 库，旨在对开发人员友好.
 * [gormt](https://github.com/xxjwxc/gormt) - Mysql 数据库到 golang gorm 结构.
 * [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence，用于 Go 的 ORM-ish 库.
-* [grimoire](https://github.com/Fs02/grimoire)  - Grimoire 是一个数据库访问层和 golang 验证.  （支持：MySQL、PostgreSQL 和 SQLite3）.
-* [lore](https://github.com/abrahambotros/lore) - Go 的简单轻量级伪 ORM/伪结构映射环境.
+* [grimoire](https://github.com/Fs02/grimoire) - Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).
+* [lore](https://github.com/abrahambotros/lore) - Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go.
 * [marlow](https://github.com/marlow/marlow) - 从项目结构生成 ORM，用于编译时安全保证.
 * [pop/soda](https://github.com/gobuffalo/pop) - 用于 MySQL、PostgreSQL 和 SQLite 的数据库迁移、创建、ORM 等.
 * [QBS](https://github.com/coocood/qbs)  - 代表按结构查询. 一个去 ORM.
@@ -1455,7 +1457,7 @@ _**非官方** 一组用于构建项目的模式._
 * [jaeger](https://github.com/jaegertracing/jaeger) - 分布式跟踪系统.
 * [pixie](https://github.com/pixie-labs/pixie) - 没有通过 eBPF 对 Golang 应用程序进行检测跟踪.
 * [profile](https://github.com/pkg/profile) - 简单的 Go 分析支持包.
-* [statsviz](https://github.com/arl/statsviz) - Go 应用程序运行时统计数据的实时可视化.
+* [statsviz](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
 * [tracer](https://github.com/kamilsk/tracer) - 简单、轻量级的追踪.
 
 ## Query Language
@@ -1472,7 +1474,7 @@ _**非官方** 一组用于构建项目的模式._
 * [jsonql](https://github.com/elgs/jsonql) - Golang 中的 JSON 查询表达式库.
 * [jsonslice](https://github.com/bhmj/jsonslice) - 带有高级过滤器的 Jsonpath 查询.
 * [rql](https://github.com/a8m/rql) - REST API 的资源查询语言.
-* [rqp](https://github.com/timsolov/rest-query-parser)  - REST API 的查询解析器. 查询中直接支持过滤、验证、“AND”、“OR”操作.
+* [rqp](https://github.com/timsolov/rest-query-parser) - Query Parser for REST API. Filtering, validations, both `AND`, `OR` operations are supported directly in the query.
 * [straf](https://github.com/SonicRoshan/straf) - 轻松将 Golang 结构转换为 GraphQL 对象.
 
 ## Resource Embedding
@@ -1524,7 +1526,7 @@ _**非官方** 一组用于构建项目的模式._
 * [sparse](https://github.com/james-bowman/sparse) - 支持科学和机器学习应用程序的线性代数稀疏矩阵格式，与 gonum 矩阵库兼容.
 * [stats](https://github.com/montanaflynn/stats) - Golang 标准库中缺少常用函数的统计包.
 * [streamtools](https://github.com/nytlabs/streamtools) - 用于处理数据流的通用图形工具.
-* [TextRank](https://github.com/DavidBelicza/TextRank) - 在 Golang 中实现 TextRank，具有可扩展的功能（汇总、加权、短语提取）和多线程（goroutine）支持.
+* [TextRank](https://github.com/DavidBelicza/TextRank) - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
 * [triangolatte](https://github.com/tchayen/triangolatte)  - 二维三角测量库. 允许将线和多边形（均基于点）转换为 GPU 的语言.
 
 ## Security
@@ -1532,13 +1534,13 @@ _**非官方** 一组用于构建项目的模式._
 *用于帮助使您的应用程序更安全的库.*
 
 * [acmetool](https://github.com/hlandau/acme) - 具有自动更新功能的 ACME（让我们加密）客户端工具.
-* [acra](https://github.com/cossacklabs/acra) - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+* [acra](https://github.com/cossacklabs/acra) - 网络加密代理以保护基于数据库的应用程序免受数据泄露：强选择性加密、SQL 注入预防、入侵检测系统.
 * [argon2-hashing](https://github.com/andskur/argon2-hashing) - 围绕 Go 的 argon2 包的轻量级包装，与 Go 的标准库 Bcrypt 和 simple-scrypt 包密切反映.
 * [argon2pw](https://github.com/raja/argon2pw) - Argon2 密码哈希生成与恒定时间密码比较.
 * [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - 自动配置 Let&#39;s Encrypt 证书并启动 TLS 服务器.
 * [BadActor](https://github.com/jaredfolkins/badactor) - 以fail2ban 的精神构建的内存中、应用程序驱动的jailer.
 * [Cameradar](https://github.com/Ullaakut/cameradar) - 从监控摄像机远程破解 RTSP 流的工具和库.
-* [certificates](https://github.com/mvmaasakkers/certificates) - An opinionated tool for generating tls certificates.
+* [certificates](https://github.com/mvmaasakkers/certificates) - 用于生成 tls 证书的自以为是的工具.
 * [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - 在 Linux 服务器上动态更新 firewalld 规则的休息应用程序.
 * [go-generate-password](https://github.com/m1/go-generate-password) - 可用于 cli 或作为库的密码生成器.
 * [go-password-validator](https://github.com/lane-c-wagner/go-password-validator) - 基于原始加密熵值的密码验证器.
@@ -1603,7 +1605,7 @@ _**非官方** 一组用于构建项目的模式._
 * [jackal](https://github.com/ortuman/jackal) - 用 Go 编写的 XMPP 服务器.
 * [lets-proxy2](https://github.com/rekby/lets-proxy2) - 用于处理 https 的反向代理，并从 let-encrypt 快速发布证书.
 * [minio](https://github.com/minio/minio) - Minio 是一个分布式对象存储服务器.
-* [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
+* [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) - Nginx 日志解析器和 Prometheus 的导出器.
 * [nsq](http://nsq.io/) - 实时分布式消息传递平台.
 * [protoxy](https://github.com/camgraff/protoxy) - 将 JSON 请求正文转换为协议缓冲区的代理服务器.
 * [psql-streamer](https://github.com/blind-oracle/psql-streamer) - 将数据库事件从 PostgreSQL 流式传输到 Kafka.
@@ -1712,7 +1714,7 @@ _**非官方** 一组用于构建项目的模式._
     * [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - 用于测试数据库交互的模拟 SQL 驱动程序.
     * [go-txdb](https://github.com/DATA-DOG/go-txdb) - 基于单一事务的数据库驱动程序，主要用于测试目的.
     * [gock](https://github.com/h2non/gock) - 多功能 HTTP 模拟变得容易.
-    * [gomock](https://github.com/golang/mock) - Go 编程语言的模拟框架.
+    * [gomock](https://github.com/golang/mock) - Mocking framework for the Go programming language.
     * [govcr](https://github.com/seborama/govcr) - Golang 的 HTTP 模拟：记录和重放 HTTP 交互以进行离线测试.
     * [hoverfly](https://github.com/SpectoLabs/hoverfly) - HTTP(S) 代理，用于使用可扩展的中间件和易于使用的 CLI 记录和模拟 REST/SOAP API.
     * [httpmock](https://github.com/jarcoal/httpmock) - 轻松模拟来自外部资源的 HTTP 响应.
@@ -1766,7 +1768,7 @@ _**非官方** 一组用于构建项目的模式._
     * [go-slugify](https://github.com/mozillazg/go-slugify) - 使用多种语言支持制作漂亮的蛞蝓.
     * [go-toml](https://github.com/pelletier/go-toml) - 带有查询支持和方便的 cli 工具的 TOML 格式的 Go 库.
     * [go-vcard](https://github.com/emersion/go-vcard) - 解析和格式化电子名片.
-    * [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - Simple and lightweight wildcard pattern matching.
+    * [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - 简单轻便的通配符模式匹配.
     * [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Go 的零宽度字符检测和删除.
     * [gofeed](https://github.com/mmcdole/gofeed) - 在 Go 中解析 RSS 和 Atom 提要.
     * [gographviz](https://github.com/awalterschulze/gographviz) - 解析 Graphviz DOT 语言.
@@ -1895,7 +1897,7 @@ _**非官方** 一组用于构建项目的模式._
 * [TripAdvisor](https://github.com/mrbenosborne/tripadvisor-golang) - 为 TripAdvisor API 打包.
 * [tumblr](https://github.com/mattcunningham/gumblr) - 为 Tumblr v2 API 封装.
 * [twitter-scraper](https://github.com/n0madic/twitter-scraper) - 无需身份验证和限制即可抓取 Twitter 前端 API.
-* [uptimerobot](https://github.com/bitfield/uptimerobot) - 运行 Uptime Robot v2 API 的包装器和命令行客户端.
+* [uptimerobot](https://github.com/bitfield/uptimerobot) - Go wrapper and command-line client for the Uptime Robot v2 API.
 * [vl-go](https://github.com/verifid/vl-go) - 围绕 VerifID 身份验证层 API 访问客户端库.
 * [webhooks](https://github.com/go-playground/webhooks) - GitHub 和 Bitbucket 的 Webhook 接收器.
 * [wit-go](https://github.com/wit-ai/wit-go) - 转到 wit.ai HTTP API 的客户端.
@@ -1987,12 +1989,12 @@ _**非官方** 一组用于构建项目的模式._
 * [jump](https://github.com/gsamokovarov/jump) - Jump 通过学习您的习惯帮助您更快地导航.
 * [koazee](https://github.com/wesovilabs/koazee) - 受懒惰评估和函数式编程启发的库，可以消除使用数组的麻烦.
 * [lets-go](https://github.com/aplescia-chwy/lets-go)  - 为云原生 REST API 开发提供通用实用程序的 Go 模块. 还包含 AWS 特定的实用程序.
-* [limiters](https://github.com/mennanov/limiters) - Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
+* [limiters](https://github.com/mennanov/limiters) - Golang 中分布式应用程序的速率限制器，具有可配置的后端和分布式锁.
 * [lrserver](https://github.com/jaschaephraim/lrserver) - 用于 Go 的 LiveReload 服务器.
 * [mani](https://github.com/alajmo/mani) - CLI 工具可帮助您管理多个存储库.
 * [mc](https://github.com/minio/mc) - Minio Client 提供最少的工具来处理兼容 Amazon S3 的云存储和文件系统.
 * [mergo](https://github.com/imdario/mergo)  - 在 Golang 中合并结构和映射的助手. 用于配置默认值，避免混乱的 if 语句.
-* [mimemagic](https://github.com/zRedShift/mimemagic) - Pure Go ultra performant MIME sniffing library/utility.
+* [mimemagic](https://github.com/zRedShift/mimemagic) - Pure Go 超高性能 MIME 嗅探库/实用程序.
 * [mimesniffer](https://github.com/aofei/mimesniffer) - 用于 Go 的 MIME 类型嗅探器.
 * [mimetype](https://github.com/gabriel-vasile/mimetype) - 基于幻数的 MIME 类型检测包.
 * [minify](https://github.com/tdewolff/minify) - 用于 HTML、CSS、JS、XML、JSON 和 SVG 文件格式的快速压缩器.
@@ -2100,7 +2102,7 @@ _**非官方** 一组用于构建项目的模式._
 
 * [gmf](https://github.com/3d0c/gmf) - 为 \ * 库的 FFmpeg 绑定.
 * [go-astisub](https://github.com/asticode/go-astisub) - 在 GO 中处理字幕（.srt、.stl、.ttml、.webvtt、.ssa/.ass、teletext、.smi 等）.
-* [go-astits](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
+* [go-astits](https://github.com/asticode/go-astits) - 在 GO 中本地解析和解复用 MPEG 传输流 (.ts).
 * [go-m3u8](https://github.com/quangngotan95/go-m3u8) - Apple m3u8 播放列表的解析器和生成器库.
 * [go-mpd](https://github.com/unki2aut/go-mpd) - MPEG-DASH 清单文件的解析器和生成器库.
 * [goav](https://github.com/giorgisio/goav) - FFmpeg 的综合 Go 绑定.
@@ -2121,7 +2123,7 @@ _**非官方** 一组用于构建项目的模式._
 * [appy](https://github.com/appist/appy) - 一个固执的高效网络框架，有助于更轻松地扩展业务.
 * [Banjo](https://github.com/nsheremet/banjo) - 非常简单和快速的 Go 网络框架.
 * [Beego](https://github.com/astaxie/beego) - beego 是用于 Go 编程语言的开源、高性能 Web 框架.
-* [Buffalo](http://gobuffalo.io) - Bringing the productivity of Rails to Go!
+* [Buffalo](http://gobuffalo.io) - 将 Rails 的生产力带到 Go！
 * [Confetti Framework](https://www.confetti-framework.com)  - Confetti 是一个 Go 网络应用程序框架，具有富有表现力、优雅的语法.  Confetti 结合了 Laravel 的优雅和 Go 的简单性.
 * [Echo](https://github.com/labstack/echo) - 高性能、极简的 Go 网络框架.
 * [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的 Express.js 启发的 Web 框架.
@@ -2426,6 +2428,7 @@ _**非官方** 一组用于构建项目的模式._
 * [GoLand](https://jetbrains.com/go) - 全功能的跨平台 Go IDE.
 * [Gor](https://github.com/buger/gor) - Http 流量复制工具，用于实时重播从生产环境到阶段/开发环境的流量.
 * [Guora](https://github.com/meloalright/guora) - 用 Go 编写的类似 Web 应用程序的自托管 Quora.
+* [hoofli](https://github.com/dnnrly/hoofli) - 从 Chrome 或 Firefox 网络检查生成 PlantUML 图.
 * [hugo](http://gohugo.io/) - 快速而现代的静态网站引擎.
 * [ide](https://github.com/thestrukture/ide)  - 浏览器可访问的 IDE. 专为 Go with Go 而设计.
 * [ipe](https://github.com/dimiro1/ipe) - 与用 GO 编写的 Pusher 客户端库兼容的开源 Pusher 服务器实现.
@@ -2497,7 +2500,7 @@ _**非官方** 一组用于构建项目的模式._
 * [GopherCon Israel](https://www.gophercon.org.il/) - 以色列特拉维夫.
 * [GopherCon Russia](https://www.gophercon-russia.ru) - 莫斯科，俄罗斯.
 * [GopherCon Singapore](https://gophercon.sg) - 新加坡丰树商业城.
-* [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
+* [GopherCon Vietnam](https://gophercon.vn/) - 越南胡志明市.
 * [GothamGo](http://gothamgo.com/) - 美国纽约市.
 * [GoWayFest](https://goway.io/) - 白俄罗斯明斯克.
 
