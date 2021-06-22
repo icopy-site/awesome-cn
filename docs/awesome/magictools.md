@@ -260,13 +260,13 @@ _一套游戏框架、引擎和平台_
 -： 然后： [OpenRA](http://www.openra.net/) - OpenRA 是一个自由/免费的实时策略游戏引擎.
 - :money_with_wings: [OpenXRay](https://github.com/OpenXRay/xray-16) - 在 STALKER 游戏系列中使用的社区修改的 X 射线引擎.
 -： 然后： [Origamijs](http://origamijs.com/docs) - 使用 HTML5 Canvas 创建的轻量级库.
-- ：钱袋子： [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
+- ：钱袋子： [PICO-8](http://www.lexaloffle.com/pico-8.php) - 用于制作、共享和玩小型游戏和其他计算机程序的幻想控制台.
 -： 然后： [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D 物理库
 -： 然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 -： 然后： [PandaJS](http://www.pandajs.net/) - 开源 HTML5 引擎.
 -： 然后： [Phaser](http://phaser.io/) - 免费且快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
 -： 然后： [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
--： 然后： [Piston](http://www.piston.rs/) - 一个用 Rust 编写的模块化开源游戏引擎.
+-： 然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - 旨在模拟您最喜欢的 8 位控制台的框架.
 -： 然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 以提高性能. 如果不支持 WebGL，引擎将回退到标准画布.
 -： 然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -282,6 +282,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Rpgboss](http://rpgboss.com)  - 基于 Scala 和 libgdx 的 2d RPG 游戏引擎和编辑器. 易于使用，无需编程知识.
 -： 然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
 -： 然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
+-： 然后： [Solarus](https://www.solarus-games.org/) - 具有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
 -： 然后： [Spring](http://springrts.com/) - 强大的免费跨平台 RTS 引擎.
 - ：自由： [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D 游戏引擎.
 -： 然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级、快速的 2D HTML5 渲染和布局引擎.
@@ -372,7 +373,7 @@ _博客、门户网站、杂志等_
 - [Lost Garden](http://www.lostgarden.com/)
 - [Polygon](http://www.polygon.com/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
-- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，除了基本的应用程序商店和竞争激烈的“热门排行榜”.
+- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
 - [TruePCGaming](http://truepcgaming.com/)

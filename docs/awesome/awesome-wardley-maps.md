@@ -13,6 +13,7 @@
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - 态势感知如何将您的业务放在地图上 (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - 在 11 个图表中 [Simon Wardley](https://twitter.com/swardley).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - 引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA ) - 使用 Simon Wardley (9:56) 的 Wardley 地图概念对 IT 行业的变化进行了基本介绍.
 
 ## Community
 

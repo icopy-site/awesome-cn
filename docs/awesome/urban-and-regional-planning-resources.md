@@ -84,7 +84,7 @@
 
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap 提取物以 PBF 或 shapefile 格式准备，每天下载.  
 
-- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为适用于 GIS 的格式. 
+- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为 GIS 格式. 
 
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是用于 OpenStreetMap 的基于 Web 的数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefiles）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
  
@@ -116,11 +116,13 @@
 
 - [Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup) - 根据邮政编码提供有关人口的人口、经济、教育和消费特征的简明信息.
 
-- [Data Axle](https://www.data-axle.com/)- Data Axle 提供了一些最全面、最准确的企业和消费者数据库，在美国和加拿大的企业和消费者中拥有近 400 种不同的属性.  
+- [Data Axle](https://www.data-axle.com/) - Data Axle 提供了一些最全面、最准确的企业和消费者数据库，在美国和加拿大的企业和消费者中拥有近 400 种不同的属性.  
 
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道级图像和 AI 衍生的地图数据. 通过请求新的覆盖范围或使用易于使用的移动应用程序捕获您自己的覆盖范围来填补空白.
+
+- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 
 ### Land Use
 
@@ -130,11 +132,11 @@
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 
-- [SafeGraph](https://www.safegraph.com/) -  Points of interest (POI) provider using mobile trace data to provide visitor insights data for commercial places in the United States.
+- [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
 
-- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用和模式.
+- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 
 ## Planning Data Specifications
 作为计划和项目的一部分使用的城市规划相关数据规范和标准的集合.
@@ -266,7 +268,7 @@ Software and platforms for planners.
 
 ### Other Technology Resource Aggregators
 
-这些是聚合规划相关工具、软件和相关资源的其他存储库. 例如，它们是为这个 repo 做出贡献的一个很好的灵感来源，但我们不需要重复努力. 
+These are other repositories that aggregate planning related tools, software, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
   

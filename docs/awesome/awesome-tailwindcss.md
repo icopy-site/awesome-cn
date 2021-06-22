@@ -104,7 +104,7 @@
 -  [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - 添加强调色实用程序.
 -  [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - 向 Tailwind CSS 的配置添加自定义变体.
--  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
+-  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - 添加了`RTL` 和`LTR` 变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
 -  [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体.
 -  [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅对某些语言使用实用程序.
@@ -194,7 +194,7 @@
 -  [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - 集成 Tailwind CSS 的 Figma 插件.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - 带有 PurgeCSS 和现代 CSS（预设 env 1）的 NuxtJS 的 Tailwind CSS 模块.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Preact 的 Tailwind CSS 集成.
--  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，它提供一个实用程序来对 Tailwind CSS 类进行排序.
+-  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，它提供了一个实用程序来对 Tailwind CSS 类进行排序.
 -  [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - 对类列表进行排序的漂亮插件.
 -  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 将 Tailwind CSS 与 Rails 的资产管道结合使用的 Gem.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - 生成 Tailwind 配置的 Zeplin 扩展.
@@ -269,6 +269,7 @@
 -  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - 使用 Tailwind CSS 和 Emotion JS 的 CRA 样板.
 -  [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - 支持 Tailwind CSS 和 TypeScript 的 CRA 模板.
 -  [Next.js PWA](https://github.com/msaaddev/create-next-pwa) – 生成 Next.js PWA 样板代码以及 Tailwind CSS 集成的 CLI.
+-  [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - 创建 React.js、Next.js、Gatsby.js、Vue3、Laravel 和基本的 Tailwind CSS 应用程序.
 -  [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - 使用 Parcel 的 Tailwind CSS 样板.
 -  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - 使用 Tailwind CSS 的 Jekyll 启动器.
 -  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - 使用 Tailwind CSS 的 Jekyll 启动器.
@@ -306,7 +307,7 @@
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - 使用 Tailwind CSS 的待办事项列表应用程序.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - 英雄联盟玩家的统计网站.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - 使用 Svelte 和 Tailwind CSS 的电子商务店面.
-- [Misiki Books](https://github.com/itswadesh/misiki-books) - 使用 Vue + Moltin + Tailwind CSS 的书店.
+- [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
 - [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - 使用 React.js + Tailwind CSS 的 Ubuntu 桌面.
 
 ## Learning

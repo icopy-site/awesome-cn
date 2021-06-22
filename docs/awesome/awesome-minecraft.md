@@ -26,7 +26,7 @@
 
 ### Archives
 
-- [MCArchive](https://mcarchive.net/)  - 存档旧的、丢失的和被遗忘的 Minecraft 模组. 可以在他们的 Discord 上找到各种其他 mod 和东西.
+- [MCArchive](https://mcarchive.net/)  - 归档旧的、丢失的和被遗忘的 Minecraft 模组. 可以在他们的 Discord 上找到各种其他 mod 和东西.
 - [Minecraft Archive Project](http://map.crummy.com/) - 包含 Minecraft 模组、世界、资源包和许多其他资源（甚至论坛帖子！）的巨大档案.
 - [MCVersions](https://mcversions.net/) - 存档大多数 Minecraft 罐子.
 - [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - 存档一些丢失的 Minecraft 服务器 jar.
@@ -43,12 +43,13 @@
 - [Meddle](https://github.com/FyberOptic/Meddle) - 与在一处修改 1.9/1.10 快照相关的所有内容.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - 一个轻量级、基于反射的 mod 加载器，旨在用户友好且独立于更高版本.
 
-## Forge Mods
+## Mods
 
 ### Performance
 
 - [Optifine](https://www.optifine.net/home) - OptiFine 是一个 Minecraft 优化模组.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps 是一个 Minecraft mod，增加了一些性能改进.
+- [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - 旨在提高帧速率和减少微卡顿的 Fabric 模块.
 
 ### Skins And Capes
 
@@ -75,9 +76,9 @@
 - [Railcraft](https://github.com/Railcraft/Railcraft) - 大大扩展和改进了 Minecraft 中的矿车系统.
 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) - 实际上 Additions 是一个技术模块，它添加了各种实用程序，如多功能工具、物品磁铁、原子重建器等.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2)  - 一个关于物质、能量并用它们来征服世界的 Minecraft Mod. 主要集中在物品存储上.
-- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)  - 最好的技术模组之一，但在游戏后期真的很强大. 添加诸如龙之能量核心之类的东西，目前还没有人能够填充……
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) - One of the best tech mod there is, but really overpowered in the late game. Adds things like a Draconic Power Core which no one has been able to fill yet...
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - 一个大型的末影主题模组，只是增加了许多新的有趣的东西.
-- [Galacticraft](https://micdoodle8.com/mods/galacticraft)  - 添加火箭和新行星来探索的模组. 可通过插件扩展.
+- [Galacticraft](https://micdoodle8.com/mods/galacticraft)  - 添加火箭和新行星以供探索的模组. 可通过插件扩展.
 - [OpenComputers](https://ocdoc.cil.li) - OpenComputers 是一个在游戏中添加计算机和机器人的模组，可以在 Lua 5.3 中编程.
 - [ComputerCraft](https://www.computercraft.info) - 将基于 Lua（5.2 和 5.3）的计算机添加到 Minecraft.
 - [WarpDrive](https://www.curseforge.com/minecraft/mc-mods/warpdrive)  - 在游戏中添加星际迷航和其他特许经营权，如船舶、武器、运输机等. 还添加了新的行星（维度）.
@@ -157,7 +158,7 @@
 - [Chocapic13](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) - 逼真且可配置的着色器包.
 - [Sonic Ether](https://www.sonicether.com/) - Pathracing 和其他逼真的着色器包.
 - [Sildur](https://sildurs-shaders.github.io/) - 着色器甚至实现了 Minecraft 1.16 的内置 API.
-- [Potato](https://rre36.com/potato-shader) - 一个非常轻量级的着色器包，适用于较旧或受限的 PC.
+- [Potato](https://rre36.com/potato-shader) - 一个非常轻巧的着色器包，适用于较旧或受限的 PC.
 - [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - 基岩版的着色器包.
 
 ## Web Applications
@@ -198,7 +199,7 @@
 ### Launchers
 
 - [MultiMC](https://github.com/MultiMC/MultiMC5) - Minecraft 的自定义启动器，让您可以轻松地同时管理多个 Minecraft 安装.
-- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+- [HMCL](https://github.com/huanghongxun/HMCL) - 一个强大的 Minecraft 启动器，支持许多功能.
 
 ## Development
 

@@ -55,6 +55,7 @@
 - [bqplot](https://github.com/bloomberg/bqplot) - Jupyter 基于图形的交互式绘图框架的语法.
 - [Evidently](https://github.com/evidentlyai/evidently) - 在验证或生产监控期间分析机器学习模型的交互式报告.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
+- [ipychart](https://github.com/nicohlr/ipychart) - Jupyter 中的交互式 Chart.js 绘图.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中 Leaflet.js 地图的交互式可视化库.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Jupyter 的树 UI 元素.
@@ -81,7 +82,8 @@
 
 - [Binder](http://mybinder.org) - 将 GitHub 存储库转变为交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
-- [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，用于在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
+- [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，可在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
+- [Ganimede](https://github.com/manugraj/ganimede) - 在沙箱中存储、版本、编辑和执行笔记本，并通过 REST 接口直接集成它们.
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料构建出版质量的书籍和文档.
 - [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 可以在终端中很好地显示笔记本.
@@ -98,7 +100,7 @@
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks 作为带有嵌入 Markdown 文本的纯 Python 代码.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython 幻灯片.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - 将独立的 reStructuredText 文件转换为 Jupyter 笔记本文件.
-- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件渲染实时 Jupyter Notebooks，允许基于 Jupyter Notebooks 的仪表板
+- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件呈现实时 Jupyter Notebooks，允许基于 Jupyter Notebooks 进行仪表板.
 
 ## Version Control
 
@@ -136,7 +138,7 @@
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) - JupyterLab 的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - 显示变量及其值的变量检查器扩展.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim 笔记本单元格绑定.
-- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - 扩展以查看 CSV 和 JSON 数据 [Voyager](http://vega.github.io/voyager/).
+- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
 ## Testing
 
@@ -186,7 +188,7 @@
 
 ## Community Resources
 
-- 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- 会议讨论 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用 Jupyter 的大学机构地图.
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
