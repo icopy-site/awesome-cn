@@ -1,11 +1,24 @@
 <div class="github-widget" data-repo="kilimchoi/engineering-blogs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 <div align="center">
-  <h2>
-	  <a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>订阅<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev，</a>以获取<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>精选的最佳博客文章！
-  </h2>
+	<br>
+	<br>
+	<hr>
+	<p>
+		<sup>特别感谢：</sup>
+		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=engblogs&utm_source=github">
+			<div>
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
+			</div>
+			<b>所有环境变量，集中在一处</b>
+			<div>
+				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
+				<br>
+				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
+			</div>
+		</a>
+	</p>
 </div>
 
 |     |     |     |     |     |     |     |     |     |
@@ -29,125 +42,125 @@
 ### Companies
 
 #### \# companies
-* 500像素https://developers.500px.com/
-*第八灯https://8thlight.com/blog/
+* 500px https://developers.500px.com/
+* 8th Light https://8thlight.com/blog/
 * 99designs https://99designs.com/tech-blog/
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
 * Addepar https://medium.com/build-addepar
-*亲和力https://build.affinity.co/
+* 亲和力 https://build.affinity.co/
 * Airbrake https://airbrake.io/blog/
 * AirPair https://www.airpair.com/software-experts
-*高级Web机械https://advancedweb.hu/
+* 高级网络机械 https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
-*阿尔及利亚https://blog.algolia.com/
+* Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
-*方舟http://blog.arkency.com/
-* Artsy http://artsy.github.io/
-*体式https://blog.asana.com/category/chi/
+* Arkency http://blog.arkency.com/
+* 艺术 http://artsy.github.io/
+* 体式 https://blog.asana.com/category/eng/
 * Atlassian https://developer.atlassian.com/blog/
-*原子对象https://spin.atomicobject.com/
+* 原子对象 https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
-*大道代码http://blog.avenuecode.com/
+* 大道代码 http://blog.avenuecode.com/
 * AWS https://aws.amazon.com/blogs/aws/
 * Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
-*聊天https://bytes.babbel.com/cn/
-*回溯https://backtrace.io/blog/
+* 聊天 https://bytes.babbel.com/en/
+* 回溯 https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
-*百度研究http://research.baidu.com/Blog
+* Baidu Research http://research.baidu.com/Blog
 * Bandcamp https://bandcamptech.wordpress.com/
-*基础实验室https://lab.getbase.com/category/engineering/
+* 基础实验室 https://lab.getbase.com/category/engineering/
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
-*英国广播公司https://medium.com/bbc-design-engineering/
-*基准测试https://benchling.engineering/
+* BBC https://medium.com/bbc-design-engineering/
+* 板凳 https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
-* Binary Studio https://binary-studio.com/blog/
-*有点http://word.bitly.com/
+* 二进制工作室 https://binary-studio.com/blog/
+* Bitly http://word.bitly.com/
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
-*贝莱德http://rockthecode.io/
-*搅拌机https://code.blender.org/
+* 贝莱德 http://rockthecode.io/
+* 搅拌机 https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
-*品牌手表http://engineering.brandwatch.com/
+* Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
 * Canva https://engineering.canva.com
-*凯捷https://capgemini.github.io/
+* 凯捷 https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
-*识别http://engineering.cerner.com/
-*第一章https://blog.chaps.io/
+* 识别 http://engineering.cerner.com/
+* Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
-*厨师https://blog.chef.io
-*聪明的https://engineering.clever.com/
+* 厨师 https://blog.chef.io
+* 聪明的 https://engineering.clever.com/
 * CleverTap https://clevertap.com/blog/tag/engineering/
 * CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
-*更好的代码http://codebetter.com/
+* 代码更好 http://codebetter.com/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
-*编码器https://www.codementor.io/tutorial
-* CodeName一个http://www.codenameone.com/blog.html
+* Codementor https://www.codementor.io/tutorial
+* 代号一 http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
 * Coinbase https://engineering.coinbase.com/
-*集体想法https://collectiveidea.com/blog
+* 集体理念 https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
-*CondéNast https://technology.condenast.com/
-*汇合https://www.confluent.io/blog
+* 康泰纳仕 https://technology.condenast.com/
+* Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
-* CSC-IT科学技术中心-云团队https://cloud.blog.csc.fi/
-*推荐http://engineering.curalate.com/
+* CSC - IT 科学中心 - 云团队 https://cloud.blog.csc.fi/
+* 策展 http://engineering.curalate.com/
 
 #### D companies
-*数据工匠https://data-artisans.com/blog/
-* Databricks https://databricks.com/blog
+* 数据工匠 https://data-artisans.com/blog/
+* 数据块 https://databricks.com/blog
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
-*不和谐https://blog.discordapp.com/
+* Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Doximity https://engineering.doximity.com
-* Drivy https://drivy.engineering/
+* 驱动 https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
-*易趣https://www.ebayinc.com/stories/blogs/tech/
+* Ebay https://www.ebayinc.com/stories/blogs/tech/
 * eFounders https://medium.com/unexpected-token
-*和谐http://www.eharmony.com/engineering/
-*弹性https://www.elastic.co/blog/category/engineering
-*发动机场https://blog.engineyard.com/
+* Eharmony http://www.eharmony.com/engineering/
+* 弹性 https://www.elastic.co/blog/category/engineering
+* 发动机场 https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
-*特使https://envoy.engineering/
-* Erlang解决方案https://www.erlang-solutions.com/blog.html
+* 特使 https://envoy.engineering/
+* Erlang Solutions https://www.erlang-solutions.com/blog.html
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
-* Evernote https://evernote.com/blog/
-*邪恶火星人https://evilmartians.com/chronicles/
+* 印象笔记 https://evernote.com/blog/
+* 邪恶的火星人 https://evilmartians.com/chronicles/
 * Expedia https://medium.com/expedia-group-tech
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
-* Facebook AI研究https://engineering.fb.com/category/ai-research/
-*法拉第http://blog.faraday.io/
-*发现https://medium.com/feedzaitech
-*第五十三章http://making.fiftythree.com/
+* Facebook AI Research https://engineering.fb.com/category/ai-research/
+* 法拉第 http://blog.faraday.io/
+* 完成 https://medium.com/feedzaitech
+* 五十三 http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
 * Firmafon https://dev.firmafon.dk/blog/
@@ -155,51 +168,51 @@
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
 * Freeletics https://freeletics.engineering/
-*筹款圈https://engineering.fundingcircle.com/
-*未来处理https://www.future-processing.pl/technical-blog/
-*转到http://gofynd.io/blog
+* 资金圈 https://engineering.fundingcircle.com/
+* 未来处理 https://www.future-processing.pl/technical-blog/
+* 去 http://gofynd.io/blog
 
 #### G companies
-* Galois https://galois.com/blog/
+* 伽罗华 https://galois.com/blog/
 * GameChanger http://tech.gc.com/
 * Geoblink https://tech.geoblink.com
-*适用于http://tech.gilt.com
+* 适用于 http://tech.gilt.com
 * GIPHY https://engineering.giphy.com/
 * GitHub https://githubengineering.com/
-* GitHub旧版https://github.com/blog/category/engineering
+* GitHub 旧版 https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
-*好蛋https://team.goodeggs.com
-* Google Online Security https://security.googleblog.com/
-* Google Research https://research.googleblog.com/
+* 好鸡蛋 https://team.goodeggs.com
+* 谷歌在线安全 https://security.googleblog.com/
+* 谷歌研究 https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
 * GO-JEK https://blog.gojekengineering.com/
-*获取http://engineering.grab.com/
+* 抓取 http://engineering.grab.com/
 * Grafana https://grafana.com/blog/
-*语法https://tech.grammarly.com/blog/index.html
+* 语法 https://tech.grammarly.com/blog/index.html
 * Graphcool https://blog.graph.cool/
 * Grofers https://lambda.grofers.com/
-*石斑鱼http://blog.joingrouper.com/
+* 石斑鱼 http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
-*监护人https://www.theguardian.com/info/developer-blog
-*如http://engineering.gusto.com/
+* 监护人 https://www.theguardian.com/info/developer-blog
+* 喜欢 http://engineering.gusto.com/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
-*触觉https://haptik.ai/tech/
-*哈里（Harry）的http://engineering.harrys.com/
+* 触觉 https://haptik.ai/tech/
+* 哈利的 http://engineering.harrys.com/
 * HashiCorp https://www.hashicorp.com/blog/
-*哈希节点https://engineering.hashnode.com/
+* 哈希节点 https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
 * Hasura https://blog.hasura.io/
-* Haus https://engineering.haus.com
-*堆https://heap.engineering/
+* 房子 https://engineering.haus.com
+* 堆 https://heap.engineering/
 * Helpshift https://medium.com/helpshift-engineering/
-*在这里https://developer.here.com/blog
+* 这里 https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
 * HomeAway https://tech.homeaway.com/
-* Honeybadger http://blog.honeybadger.io/
-* Hootsuite http://code.hootsuite.com/
+* 蜜獾 http://blog.honeybadger.io/
+* Hootsuite http://code.hoosuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
 * Housing.com https://medium.com/engineering-housing
 * HubSpot http://product.hubspot.com/blog/topic/engineering
@@ -208,103 +221,103 @@
 * IBM developerWorks https://developer.ibm.com/dwblog/
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
-*图片https://blog.imaginea.com/
+* 图片 https://blog.imaginea.com/
 * Imgur https://blog.imgur.com/category/eng/
-*实际上http://engineering.indeedblog.com/blog/
+* 确实 http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
-*英特尔https://software.intel.com/zh-cn/blogs/
-*意向总部http://engineering.intenthq.com/
-*意向媒体http://intentmedia.com/blog/
-*对讲机https://engineering.intercom.io/
-* Intuit https://quickbooks-engineering.intuit.com/
+* 英特尔 https://software.intel.com/en-us/blogs/
+* 意向总部 http://engineering.intenthq.com/
+* 意向媒体 http://intentmedia.com/blog/
+* 对讲 https://engineering.intercom.io/
+*直觉https://quickbooks-engineering.intuit.com/
 * InVision http://engineering.invisionapp.com/
 
 #### J companies
-*简街https://blogs.janestreet.com/category/ocaml/
-*喷射技术https://tech.jet.com/
-*工作人才https://jobandtalent.engineering/
+* 简街 https://blogs.janestreet.com/category/ocaml/
+* 喷气技术 https://tech.jet.com/
+* Jobandtalent https://jobandtalent.engineering/
 * JobTeaser https://medium.com/jobteaser-dev-team/
-* Jolly好代码https://jollygoodcode.github.io/
-*只吃https://tech.just-eat.com/
+* Jolly Good Code https://jollygoodcode.github.io/
+* 随便吃 https://tech.just-eat.com/
 
 #### K companies
-*可汗学院http://engineering.khanacademy.org
+* Khan Academy http://engineering.khanacademy.org
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
-*国王https://techblog.king.com/
+* 王 https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com https://devblog.kogan.com/
-*跟踪https://kolosek.com/blog/
+* Kolosek https://kolosek.com/blog/
 
 #### L companies
-* Latacora https://latacora.singles/
-*晚间http://engineering.laterooms.com/
+* 拉塔科拉 https://latacora.singles/
+* Laterooms http://engineering.laterooms.com/
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
-*领英https://engineering.linkedin.com/blog
+* LinkedIn https://engineering.linkedin.com/blog
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
 * Localytics http://eng.localytics.com/
-*提起https://eng.lyft.com/
+* 提升 https://eng.lyft.com/
 
 #### M companies
-* Made Tech https://www.madetech.com/blog
-*锦葵科技http://blog.mallow-tech.com/
-* Mandrill http://blog.mandrill.com/
+* 制造技术 https://www.madetech.com/blog
+* 锦葵科技 http://blog.mallow-tech.com/
+* 山魈 http://blog.mandrill.com/
 * MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
-*中https://medium.com/medium-eng
-*中球https://mesosphere.com/blog/
-* Microsoft Python工程https://blogs.msdn.microsoft.com/pythonengineering/
+* 中 https://medium.com/medium-eng
+* 中间层 https://mesosphere.com/blog/
+* 微软 Python 工程 https://blogs.msdn.microsoft.com/pythonengineering/
 * Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
 * MongoDB https://engineering.mongodb.com/
-*孟山都http://engineering.monsanto.com/
+* 孟山都 http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
-* Mozilla自动化团队https://planet.mozilla.org/ateam/
-* Mozilla Hacks https://hacks.mozilla.org/
-* Mozilla发布工程https://planet.mozilla.org/releng/
+* Mozilla 自动化团队 https://planet.mozilla.org/ateam/
+* Mozilla 黑客 https://hacks.mozilla.org/
+* Mozilla 发布工程 https://planet.mozilla.org/releng/
 * Myntra https://medium.com/myntra-engineering
-* Myntra数据科学https://medium.com/myntra-engineering/tagged/data-science
+* Myntra 数据科学 https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
-*纽约时报https://open.blogs.nytimes.com
-*隔壁https://engblog.nextdoor.com/
-*北欧API https://nordicapis.com/blog/
-* Novoda https://www.novoda.com/blog/
-* NPR应用程序http://blog.apps.npr.org/
-* NVIDIA https://blogs.nvidia.com/
+* 纽约时报 https://open.blogs.nytimes.com
+* Nextdoor https://engblog.nextdoor.com/
+* 北欧 API https://nordicapis.com/blog/
+* 诺沃达 https://www.novoda.com/blog/
+* NPR 应用程序 http://blog.apps.npr.org/
+* 英伟达 https://blogs.nvidia.com/
 
 #### O companies
-* OCTO技术https://blog.octo.com/cn/
+* OCTO 技术 https://blog.octo.com/en/
 * Okta https://developer.okta.com/blog/
 * OLX https://tech.olx.com/
-*所有https://omniti.com/seeds/stop-collaborate-and-listen-notify
+* 所有 https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
 * Oursky https://code.oursky.com/
-*牡蛎http://tech.oyster.com/
+* 牡蛎 http://tech.oyster.com/
 * Opensooq http://engineering.opensooq.com/
 
 #### P companies
-*全景教育http://engineering.panoramaed.com/
-*无纸化邮寄https://www.paperlesspost.com/blog/teams/tech/
-*贝宝https://www.paypal-engineering.com/
-*潜望镜数据https://www.periscopedata.com/blog
+* 全景教育 http://engineering.panoramaed.com/
+* 无纸化邮政 https://www.paperlesspost.com/blog/teams/tech/
+* 贝宝 https://www.paypal-engineering.com/
+* 潜望镜数据 https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
-*关键https://engineering.pivotal.io
+* 关键 https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
-*邮递员https://medium.com/better-practices
-*邮戳https://postmarkapp.com/blog
-*同学https://blog.postmates.com/tagged/engineering
+* 邮递员 https://medium.com/better-practices
+* 邮戳 https://postmarkapp.com/blog
+* Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering
-*多产互动http://blog.prolificinteractive.com/category/development/
-* PubNub：https：//www.pubnub.com/blog/
+* 多产互动 http://blog.prolificinteractive.com/category/development/
+* PubNub：https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
-*推送器https://making.pusher.com/
+* 推送器 https://making.pusher.com/
 
 #### Q companies
 * Quora https://engineering.quora.com/
@@ -312,84 +325,84 @@
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
-* REA集团https://www.rea-group.com/category/tech/
+* REA 集团 https://www.rea-group.com/category/tech/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
-*红帽https://developers.redhat.com/blog/
-*提醒http://engineering.remind.com/
+* 红帽 https://developers.redhat.com/blog/
+* 提醒 http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
 * Rightscale http://eng.rightscale.com/
-*防暴游戏https://engineering.riotgames.com/
+* 防暴游戏 https://engineering.riotgames.com/
 * RisingStack https://blog.risingstack.com/
-* Robert Elder软件http://blog.robertelder.org/
+* 罗伯特·埃尔德软件 http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
-* Runtastic https://www.runtastic.com/blog/zh-CN/category/tech/
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Scrapinghub https://blog.scrapinghub.com/
-*压缩https://tech.scrunch.com/blog/
-*密室逃脱http://tech.secretescapes.com/
-*细分https://segment.com/blog/categories/engineering/
+* 紧缩 https://tech.scrunch.com/blog/
+* 秘密逃生 http://tech.secretescapes.com/
+* 细分 https://segment.com/blog/categories/engineering/
 * Semantics3 https://engineering.semantics3.com
-* Semaphore CI社区https://semaphoreci.com/community
-* Semaphore CI工程http://semaphoreci.com/blog/tags/engineering.html
-*明智的http://blog.sensible.io/
-*无服务器https://serverless.com/blog/
-*已定居https://engineroom.settled.co.uk/
-* Shape安全性http://engineering.shapesecurity.com/
+* Semaphore CI Community https://semaphoreci.com/community
+* Semaphore CI Engineering http://semaphoreci.com/blog/tags/engineering.html
+* 明智的 http://blog.sensible.io/
+* 无服务器 https://serverless.com/blog/
+* 已解决 https://engineroom.settled.co.uk/
+* 形状安全 http://engineering.shapesecurity.com/
 * Sharethis https://www.sharethis.com/category/engineering/
-* Shazam https://blog.shazam.com/
+* 沙赞 https://blog.shazam.com/
 * Shopify https://engineering.shopify.com
 * ShowMax https://tech.showmax.com
 * Shyp https://medium.com/shyp-engineering
-* Sift Science https://blog.siftscience.com/?category=工程
-*简单的https://www.simple.com/engineering
+* 筛选科学 https://blog.siftscience.com/?category=Engineering
+* 简单 https://www.simple.com/engineering
 * SitePoint https://sitepoint.com
-*天空博彩与游戏http://engineering.skybettingandgaming.com/
+* Sk​​y Betting &amp; Gaming http://engineering.skybettingandgaming.com/
 * Sk​​yscanner http://codevoyagers.com/
-*松弛https://slack.engineering/
+* 松弛 https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
-*小改进https://tech.small-improvements.com/
+* 小改进 https://tech.small-improvements.com/
 * SmartRecruiters https://up.smartrecruiters.com
-*潜行https://snyk.io/blog
+* Snyk https://snyk.io/blog
 * Songkick https://devblog.songkick.com/
-* Soshace https://blog.soshace.com/en/
+* Soshace https://blog.sohace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
 * Sqreen https://blog.sqreen.io/
-*正方形https://corner.squareup.com/
+* 方形 https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
-*堆栈溢出https://stackoverflow.blog/engineering/
+* 堆栈溢出 https://stackoverflow.blog/engineering/
 * Stackshare https://stackshare.io/feed
-*针迹修复http://multithreaded.stitchfix.com/blog/
+* Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
-*饮食https://medium.com/strava-engineering/
-*大步https://blog.stridenyc.com/
-*条纹https://stripe.com/blog
+* 饮食 https://medium.com/strava-engineering/
+* 跨步 https://blog.stridenyc.com/
+* 条纹 https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
 * Swiggy https://bytes.swiggy.com/
 
 #### T companies
-* http://blog.takipi.com/
-*目标https://target.github.io/
+* Takipi http://blog.takipi.com/
+* 目标 https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
-*团队合作https://engineroom.teamwork.com/
+* 团队合作 https://engineroom.teamwork.com/
 * Teespring http://teespring.engineering/
 * theScore http://techblog.thescore.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
-*图钉https://www.thumbtack.com/engineering/
+* 图钉 https://www.thumbtack.com/engineering/
 * Ticketmaster https://tech.ticketmaster.com/
-*时间刻度https://blog.timescale.com/
-*火种https://tech.gotinder.com/
+* 时间表 https://blog.timescale.com/
+* Tinder https://tech.gotinder.com/
 * Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
-* Transferwise http://tech.transferwise.com/
+* 转让 http://tech.transferwise.com/
 * Trello https://tech.trello.com/
 * TripAdvisor http://engineering.tripadvisor.com/
 * Trivago http://tech.trivago.com/
@@ -400,36 +413,36 @@
 * Twitch https://blog.twitch.tv/tagged/engineering
 
 #### U companies
-*优步http://eng.uber.com/
-*宇宙https://engineering.universe.com
-* Upday https://upday.github.io/
-*升级https://engineering.upgrad.com
+* 优步 http://eng.uber.com/
+* 宇宙 https://engineering.universe.com
+* 更新 https://upday.github.io/
+* UpGrad https://engineering.upgrade.com
 
 #### V companies
-* Vena解决方案https://engineering.vena.io/
+* 洛书解决方案 https://engineering.vena.io/
 * Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye https://blog.versioneye.com/
 * Vevo http://blog.vevo.com/
 * Viget https://www.viget.com/articles/category/code#articles
-*藤http://engineering.vine.co/
+* 藤 http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
 * VNGRS http://blog.vngrs.com/
 * VTS https://buildingvts.com/
 
 #### W companies
-*沃尔玛实验室https://medium.com/walmartlabs/
+* WalmartLabs https://medium.com/walmartlabs/
 * Wattpad http://engineering.wattpad.com/
 * Wayfair http://engineering.wayfair.com/
 * Wealthfront http://eng.wealthfront.com/
-*我们是巫师https://blog.wearewizards.io/
+* 我们是奇才 https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
 * Wemake.services https://medium.com/wemake-services
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wolox https://medium.com/@WoloxEngineering/
-* Wombat安全技术http://development.wombatsecurity.com/
-* Wonga Technology http://tech.wonga.com/
+* Wombat 安全技术 http://development.wombatsecurity.com/
+* 旺加科技 http://tech.wonga.com/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
@@ -437,7 +450,7 @@
 * Xmartlabs https://blog.xmartlabs.com/
 
 #### Y companies
-*雅虎https://yahooeng.tumblr.com/
+* 雅虎 https://yahooeng.tumblr.com/
 * Yammer https://medium.com/yammer-engineering
 * Yelp https://engineeringblog.yelp.com/
  * YLD！  https://blog.yld.io
@@ -453,320 +466,320 @@
 * Zomato https://engineering.zomato.com/
 * Zoosk https://about.zoosk.com/en/engineering-blog/
 * Zulily https://engineering.zulily.com/
-* Zumba http://tech.zumba.com/
+* 尊巴舞 http://tech.zumba.com/
 * Zynga https://www.zynga.com/blogs/engineering
 
 ### Individuals/Group Contributors
 
 #### \# individuals
-* 0x https://0xcode.pub/
+* 0xADADA https://0xadada.pub/
 
 #### A individuals
-*亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
+* 亚伦帕特森 http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-*阿布·阿什拉夫（Abu Ashraf）Masnun http://masnun.com/
-*亚当·巴德https://adambard.com/blog/
-*亚当·莱文塔尔http://dtrace.org/blogs/ahl/
-*亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
-*艾迪·奥斯曼尼https://addyosmani.com/blog/
-*阿德里安·科尔耶（Adrian Colyer）https://blog.acolyer.org/
-*艾伦·风暴http://alanstorm.com/
+* Abu Ashraf Masnun http://masnun.com/
+* 亚当巴德 https://adambard.com/blog/
+* Adam Leventhal http://dtrace.org/blogs/ahl/
+* 亚当·郁金香 http://www.adamtuliper.com/
+* 阿迪奥斯曼尼 https://addyosmani.com/blog/
+* Adrian Colyer https://blog.acolyer.org/
+* 艾伦风暴 http://alanstorm.com/
 * Alex Rogozhnikov https://arogozhnikov.github.io/
-*亚历克斯罗素https://infrequently.org/
-*艾莉森·卡普特（Allison Kaptur）http://akaptur.com/
-*阿米特商家https://www.amitmerchant.com/
-* Anders Aarvik http://aarvik.dk/
-*安德烈亚斯·舒斯特（Andreas Schuster）https://computer.forensikblog.de/zh/
-*安德鲁·班克罗夫特http://www.andrewcbancroft.com/
-*安德鲁·布兰普顿https://blog.bramp.net/
-*安德鲁·雷（Andrew Ray）https://blog.andrewray.me/
-* Andrey Akinshin http://aakinshin.net/blog/
-*安地列斯http://antirez.com/latest/0
+* 亚历克斯·罗素 https://infrequently.org/
+* 艾莉森 Kaptur http://akaptur.com/
+* 阿米特商人 https://www.amitmerchant.com/
+安德斯·安德斯维克 http://aarvik.dk/
+* 安德烈亚斯·舒斯特 https://computer.forensikblog.de/en/
+* 安德鲁班克罗夫特 http://www.andrewcbancroft.com/
+* 安德鲁布兰普顿 https://blog.bramp.net/
+* 安德鲁雷 https://blog.andrewray.me/
+* 安德烈·阿金辛 http://aakinshin.net/blog/
+* Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/
-*阿明·罗纳彻（Armin Ronacher）http://lucumr.pocoo.org/
+* Armin Ronacher http://lucumr.pocoo.org/
 * Axel Rauschmayer http://www.2ality.com/
 
 #### B individuals
-*错误并发http://bad-concurrency.blogspot.com/
-*巴里·华沙https://www.wefearchange.org/
+* 不良并发 http://bad-concurrency.blogspot.com/
+* 巴里华沙 https://www.wefearchange.org/
 * Bartlomiej Filipek http://www.bfilipek.com/
-*本·麦考密克https://benmccormick.org/
-*比尔蜥蜴http://www.billthelizard.com/
-*比约恩·约翰森（BjørnJohansen）https://bjornjohansen.no/
-* Blake Erickson https://blog.blakeerickson.com/
-* Blundell的Android教程http://blog.blundellapps.co.uk
+* Ben McCormick https://benmccormick.org/
+* 蜥蜴比尔 http://www.billthelizard.com/
+* 比约恩·约翰森 https://bjornjohansen.no/
+* 布莱克·埃里克森 https://blog.blakeerickson.com/
+* Blundell 的 Android 教程 http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
-*布兰登·罗德斯http://rhodesmill.org/brandon/
-*布伦丹·艾希（Brendan Eich）https://brendaneich.com/
-*布兰登·格雷格（Brendan Gregg）http://www.brendangregg.com/blog/
+* 布兰登罗德 http://rhodesmill.org/brandon/
+* 布伦丹·艾希 https://brendaneich.com/
+* 布伦丹格雷格 http://www.brendangregg.com/blog/
 * Brujo Benavides https://medium.com/@elbrujohalcon
-*布莱恩·坎特里尔（Bryan Cantrill）http://dtrace.org/blogs/bmc/
+* 布莱恩·坎特里尔 http://dtrace.org/blogs/bmc/
 
 #### C individuals
-*卡洛斯·贝克尔https://carlosbecker.com
+* 卡洛斯贝克尔 https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
-*克里斯·黑格（Chris Hager）https://www.metachris.com/blog/
-*克里斯·韦尔斯（Chris Wellons）http://nullprogram.com/
-*克莱·麦克劳德（Clay McLeod）http://blog.claymcleod.io/
-*可可是我的女朋友http://www.cimgf.com/
- *代码风格！  https://codewithstyle.info/
+* 克里斯·海格 https://www.metachris.com/blog/
+* 克里斯·威伦斯 http://nullprogram.com/
+* 克莱麦克劳德 http://blog.claymcleod.io/
+* 可可是我的女朋友 http://www.cimgf.com/
+ * 风格代码！  https://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
 
 #### D individuals
-*每日JS https://medium.com/dailyjs
-*每日技术视频http://dailytechvideo.com/
-*和Luu https://danluu.com/
-* Daniel Doubrovkine（dB.）http://code.dblock.org/
-*丹尼尔·施密特https://medium.com/@dschmidt1992
+* 每日 JS https://medium.com/dailyjs
+* 每日科技视频 http://dailytechvideo.com/
+* Dan Luu https://danluu.com/
+* Daniel Doubrovkine (dB.) http://code.dblock.org/
+* 丹尼尔施密特 https://medium.com/@dschmidt1992
 * Dave Atchley http://www.datchley.name/
-*戴夫·比兹利（Dave Beazley）http://www.dabeaz.com/blog.html
-*戴夫·切尼https://dave.cheney.net/
-*大卫·沃尔什（David Walsh）https://davidwalsh.name/
-*迪恩·休姆http://deanhume.com/
-* Deborah Digges http://deborah-digges.github.io/
-*丹尼斯·费尔辛https://hookrace.net/
-*丹尼斯·尤里切夫https://yurichev.com/blog/
+* 戴夫比兹利 http://www.dabeaz.com/blog.html
+* 戴夫·切尼 https://dave.cheney.net/
+* 大卫沃尔什 https://davidwalsh.name/
+* 院长休谟 http://deanhume.com/
+* 黛博拉·迪格斯 http://deborah-digges.github.io/
+* 丹尼斯费尔辛 https://hookrace.net/
+* 丹尼斯·尤里切夫 https://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
-*发现流星https://www.discovermeteor.com/blog
-*多梅尼科·卢西亚尼https://domenicoluciani.com
-*点开发（.dev）https://dotdev.co
+* 发现流星 https://www.discovermeteor.com/blog
+* 多梅尼科·卢西亚尼 https://domenicoluciani.com
+* 点开发 (.dev) https://dotdev.co
 * Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
 
 #### E individuals
-*关爱珊http://blog.edankwan.com/
-*艾迪·史密斯http://www.practicallyficient.com/
+* Edan Kwan http://blog.edankwan.com/
+* 埃迪·史密斯 http://www.practicalefficient.com/
 * Edgar Aroutiounian https://hyegar.com/
-*爱德华·福克纳（Edward Faulkner）https://eaf4.com/
-*优雅代码http://elegantcode.com/
+* 爱德华福克纳 https://eaf4.com/
+* 优雅代码 http://elegantcode.com/
 * Eli Bendersky http://eli.thegreenplace.net/
-*埃里克·艾略特（Eric Elliot）https://medium.com/javascript-scene/
-*埃里克·利珀特（Eric Lippert）https://ericlippert.com/
-* Erik Runyon https://erikrunyon.com/
-*埃文·哈恩（Evan Hahn）http://evanhahn.com/
-*埃文·琼斯http://www.evanjones.ca/chronologic.html
-*埃文·米勒（Evan Miller）http://www.evanmiller.org/
-*埃文·塔勒（Evan Tahler）https://blog.evantahler.com/
+* 埃里克·埃利奥特 https://medium.com/javascript-scene/
+* 埃里克·利珀特 https://ericlippert.com/
+* 埃里克·鲁尼恩 https://erikrunyon.com/
+* 埃文哈恩 http://evanhahn.com/
+* 埃文琼斯 http://www.evanjones.ca/chronological.html
+* 埃文米勒 http://www.evanmiller.org/
+* 埃文·塔勒 https://blog.evantahler.com/
 
 #### F individuals
-* Fabrizio Branca http://fbrnc.net/
+* 法布里奇奥布兰卡 http://fbrnc.net/
 * Federico Cargnelutti https://blog.fedecarg.com/
-* Federico Tomassetti https://tomassetti.me/
+* 费德里科·托马塞蒂 https://tomassetti.me/
 * Filippo Valsorda https://blog.filippo.io/
 * Freek Van der Herten https://murze.be/
 
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
 * Glenn Engstrand http://glennengstrand.info
-*格雷厄姆·金https://www.darkcoding.net/
+* 格雷厄姆·金 https://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
-*海顿·詹姆斯https://haydenjames.io/
+* 海登詹姆斯 https://haydenjames.io/
 * Henrik Lau Eriksson https://conductofcode.io/
-*亨里克·沃恩https://henrikwarne.com/
-*高可扩展性http://highscalability.com/
+* Henrik Warne https://henrikwarne.com/
+* 高可扩展性 http://highscalability.com/
 * Huon Wilson http://huonw.github.io/
-*希捷（Hypriot）http://blog.hypriot.com/
+* Hypriot http://blog.hypriot.com/
 
 #### I individuals
-伊恩·胡梅尔（Ian Hummel）https://themodernlife.github.io/
-*伊恩·索默维尔（Ian Sommerville）http://iansommerville.com/systems-software-and-technology/
-* Idontgetoutmuch的博客https://idontgetoutmuch.wordpress.com/
-伊夫根·库兹米诺夫（Ievgen Kuzminov）http://stdout.in/
-* Elijah Eftimov http://ieftimov.com/
+* 伊恩·胡梅尔 https://themodernlife.github.io/
+* 伊恩·萨默维尔 http://iansommerville.com/systems-software-and-technology/
+* Idontgetoutmuch 的博客 https://idontgetoutmuch.wordpress.com/
+* 伊夫根·库兹米诺夫 http://stdout.in/
+* Ilija Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
-* Itamar Turner结婚戒指https://codewithoutrules.com
-*熊伊万https：//ivanântul.com/
+* Itamar Turner 结婚戒指 https://codewithoutrules.com
+* 熊伊万 https://ivanântul.com/
 
 #### J individuals
-* Jacopo Tarantino https://jack.ofspades.com/
-*杰克·特伦（Jake Trent）https://jaketrent.com
-*杰克·沃顿（Jake Wharton）http://jakewharton.com/blog
-*杰克·耶斯贝克（Jake Yesbeck）http://jakeyesbeck.com/
-*詹姆斯·海格http://prog21.dadgum.com/
-* James Long http://jlongster.com/archive
-*贾米斯·巴克http://weblog.jamisbuck.org/
+* 雅各布·塔伦蒂诺 https://jack.ofspades.com/
+* 杰克特伦特 https://jaketrent.com
+* 杰克沃顿 http://jakewharton.com/blog
+* 杰克耶斯贝克 http://jakeyesbeck.com/
+* 詹姆斯海牙 http://prog21.dadgum.com/
+* James Long http://jlong​​ster.com/archive
+* 贾米斯巴克 http://weblog.jamisbuck.org/
 * Jan Lelis https://idiosyncratic-ruby.com/
-* Jay Fields http://blog.jayfields.com
-*杰夫·阿特伍德https://blog.codinghorror.com/
+* 杰伊菲尔兹 http://blog.jayfields.com
+* 杰夫阿特伍德 https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
-*仅杰里米https://jeremykun.com/
-*杰里·甘布林（Jerry Gamblin）https://jerrygamblin.com/
+* Jeremy Kun https://jeremykun.com/
+* 杰瑞甘布林 https://jerrygamblin.com/
 * Jesal Gadhia https://jes.al/
-*杰西·弗雷泽（Jessie Frazelle）https://blog.jessfraz.com/
-*耶稣·卡斯特罗http://www.blackbytes.info/
-*乔·阿姆斯特朗https://joearms.github.io/
-*乔·尼尔森https://begriffs.com/
-* Joel Spolsky https://www.joelonsoftware.com/
-* Johannes Brodwall http://johannesbrodwall.com/
+* Jessie Frazelle https://blog.jessfraz.com/
+* 耶稣城堡 http://www.blackbytes.info/
+* 乔阿姆斯特朗 https://joearms.github.io/
+* 乔纳尔逊 https://begriffs.com/
+* 乔尔·斯波尔斯基 https://www.joelonsoftware.com/
+* 约翰内斯·布罗德沃尔 http://johannesbrodwall.com/
 * John Resig https://johnresig.com/category/blog/
-*约翰·维特瑙尔（John Wittenauer）http://www.johnwittenauer.net/
-*乔恩·肯西（Jon Kensy）http://www.jonkensy.com/
-*乔恩·斯凯特（Jon Skeet）https://codeblog.jonskeet.uk/
-*乔纳斯·梅（Jonas Plum）https://blog.cugu.eu/
-*乔纳森·德赫蒂亚尔（Jonathan Dekhtiar）http://www.born2data.com/
-*乔纳森·斯努克（Jonathan Snook）https://snook.ca/
-* Josh Haberman http://blog.reverberate.org/
-*乔什·谢尔曼（Josh Sherman）https://joshtronic.com/
+* 约翰维特瑙尔 http://www.johnwittenauer.net/
+* 乔恩·肯西 http://www.jonkensy.com/
+* Jon Skeet https://codeblog.jonskeet.uk/
+* Jonas Plum https://blog.cugu.eu/
+* 乔纳森·德克蒂亚尔 http://www.born2data.com/
+*乔纳森·斯努克 https://snook.ca/
+* 乔什·哈伯曼 http://blog.reverberate.org/
+* 乔什·谢尔曼 https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
-朱莉娅·埃文斯（Julia Evans）https://jvns.ca/
-* Junior Grossi https://blog.jgrossi.com/
-*贾斯汀·韦斯https://www.justinweiss.com/articles/archives/
-*尤里袜业https://juristr.com/blog/
+* 朱莉娅·埃文斯 https://jvns.ca/
+* 少年格罗西 https://blog.jgrossi.com/
+* 贾斯汀·韦斯 https://www.justinweiss.com/articles/archives/
+* Juri Strumpflohner https://juristr.com/blog/
 
 #### K individuals
-* K.哈里森https://useyourloaf.com/
+* K.哈里森 https://useyourloaf.com/
 * Kai Hendry https://hendry.iki.fi/
-*凯文·伯克https://kev.inburke.com/
-*基里尔·舍甫琴科https://medium.com/@kirill_shevch
-*凯尔·金斯伯里https://aphyr.com/
+* 凯文伯克 https://kev.inburke.com/
+* 基里尔·舍甫琴科 https://medium.com/@kirill_shevch
+* 凯尔金斯伯里 https://aphyr.com/
 
 #### L individuals
-* Lambda终极版http://lambda-the-ultimate.org/
-*拉里·兰德https://lg.io/
-*拉撒路拉扎里迪斯https://iridakos.com
+* Lambda 终极版 http://lambda-the-ultimate.org/
+* 拉里·兰德 https://lg.io/
+* Lazarus Lazaridis https://iridakos.com
 * Lea Verou http://lea.verou.me/
-* Lerner咨询博客http://blog.lerner.co.il/
+* 勒纳咨询博客 http://blog.lerner.co.il/
 * Life Plus Linux http://lifepluslinux.blogspot.in/
 * LiveOverflow https://liveoverflow.com/blog/index.html
 * Luciano Mammino https://loige.co/
 
 #### M individuals
 * Manu Sporny http://manu.sporny.org/
-* Marc Plano-Lesay https://enoent.fr
-* Marcelo Rinesi https://blog.rinesi.com/
-*马可·皮维塔（Marco Pivetta）http://ocramius.github.io/
+* 马克·普莱诺-莱赛 https://enoent.fr
+* 马塞洛·里内西 https://blog.rinesi.com/
+* Marco Pivetta http://ocramius.github.io/
 * Marek Majkowski https://idea.popcount.org/
-*马克·西伯恩（Mark Seaborn）http://lackingrhoticity.blogspot.de/
-*马丁·福勒（Martin Fowler）https://martinfowler.com/
+* 马克西伯恩 http://lackingrhotity.blogspot.de/
+* 马丁福勒 https://martinfowler.com/
 * Mary Rose Cook https://maryrosecook.com/blog/
-*马特·艾蒙妮蒂（Matt Aimonetti）https://matt.aimonetti.net/
-*马特·卡茨https://www.mattcutts.com/blog/
-*马特·威特http://matt.might.net/articles/
-*马特·沃伦（Matt Warren）http://mattwarren.org/
-*马修·格林https://blog.cryptographyengineering.com/
-*迈克尔·克鲁姆（Michael Crump）https://michaelcrump.net/
-*MichaëlGallego http://www.michaelgallego.fr/articles/
-*迈克尔·赫尔曼（Michael Herman）http://mherman.org/
-*米格尔·奎诺斯https://www.miqu.me/
+* Matt Aimonetti https://matt.aimonetti.net/
+* 马特·卡茨 https://www.mattcutts.com/blog/
+* 马特可能 http://matt.might.net/articles/
+* 马特沃伦 http://mattwarren.org/
+* 马修格林 https://blog.cryptographyengineering.com/
+*迈克尔·克鲁普 https://michaelcrump.net/
+* Michaël Gallego http://www.michaelgallego.fr/articles/
+* 迈克尔·赫尔曼 http://mherman.org/
+* Miguel Quinones https://www.miqu.me/
 * Mike Ash https://www.mikeash.com/pyblog/
-* Mike Fogus http://blog.fogus.me/
+* 迈克福格斯 http://blog.fogus.me/
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
-*米罗杯（Miro Cupak）https://mirocupak.com/
-*莫妮卡（Monica Dinculescu）https://meowni.ca/
-*怪物松饼https://blog.monstermuffin.org/
+* Miro Cupak https://mirocupak.com/
+* Monica Dinculescu https://meowni.ca/
+* 怪物松饼 https://blog.monstermuffin.org/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
-娜塔莎·穆拉舍夫（Natasha Murashev）https://natashatherobot.com
-*尼尔森·艾尔哈格（Nelson Elhage）https://blog.nelhage.com/
+* 娜塔莎·穆拉舍夫 https://natashatherobot.com
+*纳尔逊埃尔哈格https://blog.nelhage.com/
 * Nic Raboy https://www.thepolyglotdeveloper.com/blog/
 * Nick Craver https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
-* Nicolai Parlog（CodeFX）http://codefx.org
+* Nicolai Parlog (CodeFX) http://codefx.org
 * Nikola Breznjak http://www.nikola-breznjak.com/blog/
-* Nikolay Nemshilov http://nikolay.rocks/
+*尼古拉·涅姆希洛夫 http://nikolay.rocks/
 * NSHipster http://nshipster.com/
-* Nate Berkopec http://www.nateberkopec.com/
+* 内特·伯科佩克 http://www.nateberkopec.com/
 
 #### O individuals
-*提供Zelig https://fullstack.info
+* 提供 Zelig https://fullstack.info
 * Begemann https://oleb.net/blog/
-* OonaRäisänenhttp://www.windytan.com/
+* Oona Räisänen http://www.windytan.com/
 
 #### P individuals
-*帕梅拉·福克斯http://blog.pamelafox.org/
-* Pat Shaughnessy http://patshaughnessy.net/
-保罗·格雷厄姆（Paul Graham）http://www.paulgraham.com/articles.html
-*保罗·爱尔兰（Paul Irish）https://www.paulirish.com/
-保罗·刘易斯https://aerotwist.com/blog/
-*PawełChudzik https://blog.pchudzik.com/
-*彼得·诺维格http://norvig.com/
-*彼得·斯坦伯格（Peter Steinberger）http://petersteinberger.com/
+* 帕梅拉福克斯 http://blog.pamelafox.org/
+* 帕特肖内西 http://patshaughnessy.net/
+* 保罗格雷厄姆 http://www.paulgraham.com/articles.html
+* 保罗爱尔兰 https://www.paulirish.com/
+* 保罗刘易斯 https://aerotwist.com/blog/
+* Paweł Chudzik https://blog.pchudzik.com/
+* Peter Norvig http://norvig.com/
+* 彼得斯坦伯格 http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
-* Petr Mitrichev http://petr-mitrichev.blogspot.com/
-*菲利普·沃尔顿https://philipwalton.com/
-*菲利普·奥珀曼https://os.phil-opp.com/
-*小马富https://ponyfoo.com/
+* 彼得米特里切夫 http://petr-mitrichev.blogspot.com/
+* 菲利普·沃尔顿 https://philipwalton.com/
+* 菲利普·奥珀曼 https://os.phil-opp.com/
+* 小马福 https://ponyfoo.com/
 * Piotr Pasich http://piotrpasich.com/
-*皮奥特·维琴（Piotr Wittchen）http://blog.wittchen.biz.pl/
+* Piotr Wittchen http://blog.wittchen.biz.pl/
 
 #### R individuals
-* Rachel Kroll https://rachelbythebay.com/w/
+* 雷切尔·克罗尔 https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
-*我是Řehůřekhttps://radimrehurek.com/blog/
-拉蒙·弗里德（Ramon Fried）https://nativeguru.wordpress.com/
-*雷·温德利希（Ray Wenderlich）https://www.raywenderlich.com/
+* Radim ůehůřek https://radimrehurek.com/blog/
+* Ramon Fried https://nativeguru.wordpress.com/
+* 雷·温德利希 https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
-*雷蒙德·海廷格（Raymond Hettinger）https://rhettinger.wordpress.com/
-* ReactJS新闻https://reactjsnews.com
-* Real Python https://realpython.com/blog/
+* 雷蒙德·赫廷格 https://rhettinger.wordpress.com/
+* ReactJS 新闻 https://reactjsnews.com
+* 真正的 Python https://realpython.com/blog/
 * Reginald Braithwaite http://raganwald.com/#essays
-* Regular Geek http://regulargeek.com/
-*罗伯·艾伦（Rob Allen）https://akrabat.com/
-*罗伯特·马丁（Robert C.Martin）http://blog.cleancoder.com/
-*罗宾·沃德https://eviltrout.com/
-*罗宾·威尔逊http://blog.rtwilson.com/
-*鲁迪·休恩http://www.rudyhuyn.com/blog/
-*鲁道夫·奥拉（Rudolf Olah）https://neverfriday.com/blog/
+* 普通极客 http://regulargeek.com/
+* 罗伯·艾伦 https://akrabat.com/
+* 罗伯特 C. 马丁 http://blog.cleancoder.com/
+* 罗宾·沃德 https://eviltrout.com/
+* 罗宾威尔逊 http://blog.rtwilson.com/
+* Rudy Hyun http://www.rudyhuyn.com/blog/
+* 鲁道夫·奥拉 https://neverfriday.com/blog/
 * Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
-* Sam Saffron https://samsaffron.com/
-*谢尔盖·朱克http://sergeyzhuk.me/
+*山姆藏红花https://samsaffron.com/
+*谢尔盖朱克http://sergeyzhuk.me/
 * Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
-*斯科特·约翰逊（Scott Johnson）http://www.fuzzyblog.io/blog/
-*西蒙·雷姆勒（Simon Reimler）https://devdactic.com/devblog/
+* 斯科特约翰逊 http://www.fuzzyblog.io/blog/
+* 西蒙·赖姆勒 https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
-*堆栈滥用http://www.stackabuse.com/
-* Stanko Tadic https://muffinman.io
+* 堆栈滥用 http://www.stackabuse.com/
+* 斯坦科·塔迪奇 https://muffinman.io
 * Stefan Parker http://codebeforethehorse.tumblr.com/
-* Stephen Colebourne http://blog.joda.org/
-*史蒂夫·贝洛文https://www.cs.columbia.edu/~smb/blog/control/
-*史蒂夫·叶格https://steve-yegge.blogspot.com/
+*斯蒂芬科尔伯恩http://blog.joda.org/
+* 史蒂夫·贝洛文 https://www.cs.columbia.edu/~smb/blog/control/
+* 史蒂夫耶格 https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
-* Swizec柜员https://swizec.com/blog/
+* Swizec 板块 https://swizec.com/blog/
 
 #### T individuals
-塔尼亚·拉西亚（Tania Rascia）https://tania.dev/
+* Tania Rascia https://tania.dev/
 * Tero Parviainen http://teropa.info/
-* Swift中的东西https://thatthinginswift.com/
-*编码的自我http://www.thecodedself.com
+* Swift 中的东西 https://thatthinginswift.com/
+* 编码的自我 http://www.thecodedself.com
 *每日WTF http://thedailywtf.com/
-* Thomas Young http://upcoder.com
+* 托马斯·杨 http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
-* Todd Motto https://toddmotto.com/
+* 托德格言 https://toddmotto.com/
 * TJ Maher http://adventuresinautomation.blogspot.com/
 
 #### U individuals
-*克拉维人https://una.im/
-*未记录的Matlab http://undocumentedmatlab.com/
+* Kravets https://una.im/
+* 未记录的 Matlab http://undocumentedmatlab.com/
 
 #### V individuals
-*香草Java http://vanillajava.blogspot.com/
-*弗拉德·米哈尔西娅https://vladmihalcea.com/
+* Vanilla Java http://vanillajava.blogspot.com/
+* 弗拉德·米哈尔恰 https://vladmihalcea.com/
 
 #### W individuals
-* Wilfred Hughes http://www.wilfred.me.uk/
-*威廉·肯尼迪https://www.goinggo.net/
-* WojtekGawrońskihttp://www.afronski.pl/
+* 威尔弗雷德休斯 http://www.wilfred.me.uk/
+* 威廉·肯尼迪 https://www.goinggo.net/
+* Wojtek Gawroński http://www.afronski.pl/
 
 #### Y individuals
-* Yegor Bugayenko http://www.yegor256.com/
+* 叶戈尔·布加延科 http://www.yegor256.com/
 * Yifan Lu http://yifan.lu/
 
 #### Z individuals
-* Zach Holman https://zachholman.com/
+* 扎克霍尔曼 https://zachholman.com/
 * Zolmeister https://zolmeister.com/
 
 ### Products/Technologies
@@ -779,10 +792,10 @@
 * Bootstrap.com https://blog.getbootstrap.com/
 
 #### C technologies
-*水晶https://crystal-lang.org/
+* 水晶 https://crystal-lang.org/
 
 #### G technologies
-*前往https://blog.golang.org/
+* 去 https://blog.golang.org/
 
 #### I technologies
 * IPFS https://ipfs.io/blog/
@@ -791,8 +804,8 @@
 * jOOQ https://blog.jooq.org/
 
 #### K technologies
-*剪辑http://blog.klipse.tech/
-*科特林https://blog.jetbrains.com/kotlin/
+* 剪辑 http://blog.klipse.tech/
+* Kotlin https://blog.jetbrains.com/kotlin/
 
 #### L technologies
 * Laravel https://laravel-news.com/blog/
@@ -804,14 +817,14 @@
 * .NET https://blogs.msdn.microsoft.com/dotnet/
 
 #### R technologies
-*反应https://reactjs.org/blog/
+* 反应 https://reactjs.org/blog/
 * React Native http://facebook.github.io/react-native/blog/
-*红色http://www.red-lang.org
+* 红色 http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
-*锈https://blog.rust-lang.org/
+* Rust https://blog.rust-lang.org/
 
 #### S technologies
-*草图https://blog.sketchapp.com/
+* 草图 https://blog.sketchapp.com/
 * Swift https://developer.apple.com/swift/blog/
 
 #### V technologies
@@ -821,12 +834,12 @@
 
 ## RSS feeds
 
-您可以在此处找到要导入rss供稿的opml文件： [engineering_blogs.opml](https://github.com/kilimchoi/engineering-blogs/blob/master/./engineering_blogs.opml)
+您可以在此处找到用于导入 rss 提要的 opml 文件： [engineering_blogs.opml](https://github.com/kilimchoi/engineering-blogs/blob/master/./engineering_blogs.opml)
 
 ## Contributing
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/kilimchoi/engineering-blogs/blob/master/contributing.md) 第一.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/kilimchoi/engineering-blogs/blob/master/contributing.md) 第一的.
 
 ## License
 
-根据<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享4.0国际许可证许可</a> .
+根据<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议获得许可</a>.

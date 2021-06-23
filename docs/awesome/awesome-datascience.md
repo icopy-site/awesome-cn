@@ -182,7 +182,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
 | [Pandas GU](https://github.com/adamerose/pandasgui) | Pandas GUI |
 | [Scikit-Learn](http://scikit-learn.org/stable/)  |  Python 中的机器学习 |
-| [NumPy](http://www.numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
+| [NumPy](http://www.numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型、多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
 | [SciPy](https://www.scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供有效的例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
 | [Data Science Toolbox](http://datasciencetoolbox.org/)  | 博客 |
@@ -450,6 +450,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 - [Machine Learning Bookcamp](https://mlbookcamp.com/) - 抢先体验
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 
 
 ## Socialize
@@ -610,7 +611,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
 | [Linda Regber](https://twitter.com/LindaRegber)  | 数据讲故事者，可视化.  |
 | [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程、移动、网络. 人工智能、智能机器人、机器学习、数据挖掘、自然语言处理、数据科学.  |
-| [Mark Stevenson](https://twitter.com/Agent_Analytics)  |  Salt (@SaltJobs) 的数据分析招聘专家分析 - 洞察 - 大数据 - 数据科学 |
+| [Mark Stevenson](https://twitter.com/Agent_Analytics)  |  Salt (@SaltJobs) Analytics - Insight - 大数据 - 数据科学 | 数据分析招聘专家
 | [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师的意见，目前正在玩数据科学家. 偶尔的父亲，管理，有机园艺.  |
 | [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify 的数据科学家，开发人员 |

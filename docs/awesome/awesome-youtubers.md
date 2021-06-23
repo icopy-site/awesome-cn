@@ -580,6 +580,13 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 精选播放列表：“Web 开发入门”、“版本控制”、“前端数据库管理”.  \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnifQad7zR3DCS016MMooLiTYWgludmhhy1o9rABmj8=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/bayanbennett)
+
+[**Bayan Bennett**](https://www.youtube.com/bayanbennett) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+内容关于：JavaScript、TypeScript、HTML、CSS \
+Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
+<br/>
+
 
 ## Computer sciences
 
@@ -1005,7 +1012,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：Adobe Illustrator、Adobe Photoshop \
-Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
+精选播放列表：“Illustrator 教程”、“Photoshop 教程”、“其他设计视频”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)

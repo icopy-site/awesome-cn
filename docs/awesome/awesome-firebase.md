@@ -19,7 +19,7 @@
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ru.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ko.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme_es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme_id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ja.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme_pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme_zh.md) -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ru.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ko.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme-es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme-id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ja.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme-pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme-zh.md) -->
 
 [Firebase](https://firebase.google.com) 是一个建立在 [Google Cloud Platform](https://cloud.google.com/products) 提供服务和跨平台SDK！
 
@@ -181,7 +181,6 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ### Community
 
 - ：火： [Firebase Developers Discord](https://discord.gg/BN2cgc3) - 一个致力于 Firebase 及其服务的开放社区，您可以在此社交并帮助来自世界各地的其他网络和应用程序开发人员.
--  [Firebase Developers Discord on Twitter @FirebaseDiscord](https://twitter.com/FirebaseDiscord)
 -  [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 -  ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
