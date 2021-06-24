@@ -50,7 +50,7 @@
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - 一个简单且解释清楚的算法介绍.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - 基于 Python 的算法课程.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - 初学者算法课程，带有有趣的插图，基于 Grokking Algorithms 一书
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - 许多关于各种计算机科学主题的解释得很清楚的视频.~~ _帐户因违反 Youtube 政策而被终止._
+* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - 许多关于各种计算机科学学科的解释得很清楚的视频.~~ _帐户因违反 Youtube 政策而被终止._
 
 ## Books
 
@@ -60,7 +60,7 @@
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - 非常直接.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - 用 Ja​​va、OO 良好实践、可视化和免费在线资源解释的问题.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - 使用 JavaScript 实现和解释的经典算法和数据结构.
-* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - 乔治·T·海涅曼 (George T. Heineman).
+* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - 乔治·T·海涅曼 (George T. Heineman)
 * [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) - 这本伟大的书提出了许多编码挑战，从简单的任务到使用 k 均值对数据进行聚类.
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - 实现具有特定可编程任务的算法的好方法.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - 数据结构的基本概念和用法.
@@ -123,6 +123,7 @@
     * [by @Erdos-Graph-Framework](https://github.com/Erdos-Graph-Framework/Erdos)
     * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java)
     * [by @yusufcakal](https://github.com/yusufcakal/algorithms)
+    * [by @FarheenB](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 * JavaScript
     * [by @jiayihu](https://github.com/jiayihu/pretty-algorithms)
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
