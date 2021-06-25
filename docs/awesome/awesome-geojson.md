@@ -11,7 +11,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson-coords](https://github.com/mapbox/geojson-coords): 从 GeoJSON 中提取坐标
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent)：计算geojson特征的边界框
 * [geojson-flatten](https://github.com/tmcw/geojson-flatten)：将多个几何图形展平为正常几何图形
-* [geojson-multiply](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
+* [geojson-multiply](https://github.com/haoliangyu/geojson-multiply): 将普通的 geojson 特征合并为一个多几何类型的特征
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils)：用于操作 GeoJSON 的 JavaScript 辅助函数
 * [geojson-merge](https://github.com/mapbox/geojson-merge)：将多个 GeoJSON 文件合并为一个 FeatureCollection.
 * [geojson-normalize](https://github.com/mapbox/geojson-normalize): 将任何 geojson 对象规范化为 geojson 特征集合
@@ -47,6 +47,8 @@ GeoJSON 实用程序将使您的生活更轻松.
 
 * [geojsonhint](https://github.com/mapbox/geojsonhint)：在您的 geojson 文件中查找错误
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): 许多验证功能，加上简单的 gjv 命令行工具
+* [gjf](https://github.com/yazeed44/gjf)：修复无效 GeoJSON 对象的工具
+
 
 ### services
 
@@ -55,7 +57,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojsonlint](http://geojsonlint.com/)：用于 GeoJSON 验证的 REST 接口
 * [mapshaper](http://mapshaper.org/)：GeoJSON 和 TopoJSON 的简化和转换的简单接口
 * [koop](https://koopjs.github.io)：带有插件的服务器，可将 Esri、GitHub、Socrata 和其他服务重新转换为 GeoJSON 端点
-* [featureserver](https://github.com/featureserver/featureserver)：一个开源的 Esri-Style Feature Server
+* [featureserver](https://github.com/featureserver/featureserver)：一个开源的 Esri 风格的功能服务器
 
 ### conversion
 
@@ -97,7 +99,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 
 ### data
 
-* [natural earth](http://www.naturalearthdata.com/)：国家、省和地理数据
+* [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
 * [geojson.xyz](http://geojson.xyz/)：带有热链接的网页友好尺寸的自然地球数据
 * [world-atlas](https://github.com/topojson/world-atlas)：可定制的简化版自然地球数据
 * [geo-maps](https://github.com/simonepri/geo-maps)：以编程方式生成的高质量 GeoJSON 地图.

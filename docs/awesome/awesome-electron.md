@@ -10,14 +10,6 @@
 
 **你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个 repo 中.**
 
-<div align="center">
-	<hr>
-	<br>
-	<h2>
-		<a href="https://www.producthunt.com/posts/system-color-picker">我的颜色选择器应用程序在 Product Hunt</a>
-	</h2>
-</div>
-
 <br>
 
 ---
@@ -50,7 +42,7 @@
 			<div>
 				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
 				<br>
-				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
+				<sup>并避免访问控制.</sup> <sup>使您的团队和服务器与多普勒同步.</sup>
 			</div>
 		</a>
 	</p>

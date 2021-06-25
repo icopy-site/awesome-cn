@@ -32,7 +32,7 @@
 			<div>
 				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
 				<br>
-				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
+				<sup>并避免访问控制.</sup> <sup>使您的团队和服务器与多普勒同步.</sup>
 			</div>
 		</a>
 		<br>
@@ -105,12 +105,6 @@
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
-
-<div align="center">
-	<h2>
-		<a href="https://www.producthunt.com/posts/system-color-picker">我的颜色选择器应用程序在 Product Hunt</a>
-	</h2>
-</div>
 
 
 
@@ -196,7 +190,7 @@
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - 可选的 Python 静态类型.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精简和高效实现.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精益和高效实现.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -321,7 +315,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - 在浏览器中使用 JavaScript、CSS、SVG 等制作动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件，可实现更快、更轻松的 Web 开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件可实现更快、更轻松的 Web 开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - 要集成到网络应用程序中的独立功能.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 可重用组件的集合，以确保一致性和速度的规则为指导.
@@ -582,7 +576,7 @@
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - 制作自己的电吉他的清单.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - 计算机控制的绘图机和其他视觉艺术机器人.
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - 用于专业机器人开发的免费开放工具.
-- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - 通过用激光照射目标来测量距离的传感器.
 
 ## Business
 
@@ -711,12 +705,12 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - 神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - 通过聊天管理技术和业务运营.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - 程序员相信的谎言.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 通过将实现连接到不断发展的模型来满足复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - 对于数字设计师.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - 编程具有表现力的东西而不是功能性的东西
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - 编程具有表现力的东西而不是功能性的东西.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - 无需登录即可运行的网络应用程序.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - 像自由一样自由.
 - [Framer](https://github.com/podo/awesome-framer#readme) - 原型交互 UI 设计.
