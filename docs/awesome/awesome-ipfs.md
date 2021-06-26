@@ -67,7 +67,7 @@
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)  - 在您的机器上运行您的 IPFS 节点，而不必费心使用命令行工具. 管理您的节点、添加您的文件、轻松更改设置……只需一个界面即可完成所有操作.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - 在 IPFS 的浏览器文件管理器中.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - 允许改进 ipfs 事件可视化的应用程序.
-- [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用 windows.ipfs 向您显示您的 IPNS 链接和公钥的二维码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
+- [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用 windows.ipfs 向您显示 IPNS 链接和公钥的二维码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  - IPFS 图像上传器和查看器.  Minerva 是 Apache Drill 的一个存储插件，连接 IPFS 的去中心化存储和 Drill 灵活的查询引擎. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
 - [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) - 一个web3论坛.您可以从这个论坛获得新的想法，报告，讨论，尽管您可能在网络限制区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
@@ -118,6 +118,7 @@
 - [ujo](http://ujomusic.com/) - 音乐家的区块链市场.
 - [Uniswap](https://uniswap.org/) - 建立在以太坊上的去中心化交易协议. [Source](https://github.com/Uniswap)
 - [uport](https://www.uport.me) - Uport 是一个移动的、自主的身份和密钥管理系统，建立在以太坊区块链上.
+- [Valist](https://valist.io) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps. [Source](https://github.com/valist-io/valist)
 - [Watchit](https://github.com/ZorrillosDev/watchit-desktop) - 采用去中心化网络方法的电影平台.
 - [Wistful Books](https://wistfulbooks.com/) - 用于享受 librivox.org 有声读物的单页离线应用程序. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - 支持 IPFS 的 xfce-screenshooter 的一个分支！

@@ -163,6 +163,7 @@
 -  [Grayscale Design](https://grayscale.design/) - 基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) - 带有方向选项的预配置 Tailwind CSS 渐变集合.
 -  [Palettolithic](https://palettolithic.com) - 基于一种颜色生成和谐调色板.
+-  [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - 用零行代码创建完美的 Tailwind CSS 渐变.
 -  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - 带有 Tailwind CSS v2 颜色的 Figma 库.
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) - Tailwind CSS 的颜色阴影生成器.
 -  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - 使用 Babel 编译代码时添加自定义暗类的 Babel 插件.
@@ -181,7 +182,7 @@
 -  [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap 到 Tailwind CSS 转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) - 用于将 HTML 文件从 Tailwind CSS v0.x 升级到 v1.0 的转换工具.
 -  [Tailwind Shift](https://github.com/awssat/tailwind-shift) - 用于从 Tailwind CSS v0.7 升级到 v1.0 的升级工具.
--  [RustyWind](https://github.com/avencera/rustywind) - 用于排序 Tailwind CSS 类的 CLI 工具.
+-  [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 -  [Windy](https://usewindy.com) - 将 HTML 元素转换为 Tailwind CSS 的浏览器扩展.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - 反应本机打字系统.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - Tailwind CSS 的 TypeScript 类型.
@@ -223,7 +224,7 @@
 -  [Tailwind Elements](https://tailwind-elements.com/) - 大量免费组件集合，由于 Bootstrap 5，移动友好.
 -  [Tailwind Made](https://tailwindmade.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
--  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的随时可用的 Tailwind CSS 块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
@@ -307,7 +308,7 @@
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - 使用 Tailwind CSS 的待办事项列表应用程序.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - 英雄联盟玩家的统计网站.
 - [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - 使用 Svelte 和 Tailwind CSS 的电子商务店面.
-- [Misiki Books](https://github.com/itswadesh/misiki-books) - Book shop using Vue + Moltin + Tailwind CSS.
+- [Misiki Books](https://github.com/itswadesh/misiki-books) - 使用 Vue + Moltin + Tailwind CSS 的书店.
 - [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - 使用 React.js + Tailwind CSS 的 Ubuntu 桌面.
 
 ## Learning

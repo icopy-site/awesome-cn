@@ -16,7 +16,7 @@
 
 - [Editor](https://playcanvas.com/) - 基于浏览器的实时协作 WebGL 编辑器.
 - [Engine](https://github.com/playcanvas/engine) - 获得 MIT 许可的 PlayCanvas 运行时的完整源代码.
-- [glTF Viewer](https://playcanvas.com/viewer) - 符合 glTF 2.0 的模型查看器.
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 兼容模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
 - [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
@@ -123,6 +123,7 @@
 
 - [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - 旅行拖车可视化工具.
 - [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - 船配置器.
+- [BMW Car Design](https://www.bmw.com/en/design/car-design-the-keys-to-bmw-design.html) - 宝马设计的互动探索.
 - [BMW i8](http://car.playcanvas.com) - 汽车可视化.
 - [DAB Motors](https://dabmotors.com/configurator/) - 摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
@@ -144,7 +145,7 @@
 
 ## AR/VR/XR
 
-- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 一个高度逼真的室内环境，展示了房间规模的 VR.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 高度逼真的室内环境展示了房间规模的 VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景样式基于 WebXR 的主页.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 
