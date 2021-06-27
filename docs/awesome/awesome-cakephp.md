@@ -59,7 +59,7 @@
 - ：草莓： [Authorization plugin](https://github.com/cakephp/authorization) - 官方 CakePHP 授权栈.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)  - 使用 SOAP 或 OData 服务对 Navision® 服务进行身份验证的插件. 它包括 NTLM 身份验证等.
 - ：草莓： [CakeDC/Users plugin](https://github.com/CakeDC/users) - 完整的用户管理（管理面板、记住我等）、社交登录（FB、Twitter、LinkedIn、Google、Instagram）、RBAC、API 等.
-- [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的 Cake 3 插件，用于使用 Cookie 自动验证用户.
+- [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的 Cake 3 插件，可自动使用 Cookie 对用户进行身份验证.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - 用于分层、基于角色、简单授权的 CakePHP 插件.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - 使用 OAuth2 身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - 事件驱动行为，可轻松生成一次性安全令牌.
@@ -291,6 +291,7 @@
 - [Cors plugin](https://github.com/snelg/cakephp-cors) - 用于将 CORS 标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 用于构建的 Crud 监听器 [JSON API](https://jsonapi.org/) 合规的 API.
 - ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - 一个允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+- ：草莓： [MixerApi](https://mixerapi.com) - 为您的团队 CakePHP 项目简化现代 RESTful API 的开发.
 - ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  - 此插件会根据您现有的模型和路线自动构建您的 Swagger UI 文档. 还可以使用 redoc 选项.
 
 ## Search
@@ -327,7 +328,7 @@
 ## Skeleton
 *围绕应用程序框架的插件和存储库.*
 
-- ：草莓： [App template](https://github.com/cakephp/app) - 与作曲家一起使用的空 CakePHP 项目.
+- ：草莓： [App template](https://github.com/cakephp/app) - 一个与作曲家一起使用的空 CakePHP 项目.
 - ：草莓： [Crud plugin](https://github.com/FriendsOfCake/crud) - 类固醇的 CakePHP 应用程序开发 - 快速原型/脚手架和生产就绪代码.
 - ：草莓： [MixerApi/Bake](https://github.com/mixerapi/bake) - 烘焙主题以生成 RESTful 控制器.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - 创建 Cake3 插件的骨架示例.
