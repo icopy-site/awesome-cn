@@ -255,7 +255,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps)  - 有多个遗留系统与他们自己的登录方法和帐户合并？ 以下是如何通过 OIDC 合并所有这些混乱.
 
-- [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/)  - 中央身份验证服务 (CAS) 协议的 OAuth2 友好改编. 您会发现有很好的 OAuth 用户流程图.
+- [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/) - OAuth2-friendly adaptation of the Central Authentication Service (CAS) protocol. You'll find there good OAuth user flow diagrams.
 
 - [The Decline of OpenID](https://penguindreams.org/blog/the-decline-of-openid/) - OpenID 在公共网络中被替换为 OAuth 1、OAuth 2 或其他专有 SSO 协议的混合.
 
@@ -336,6 +336,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [Open Policy Agent](https://github.com/open-policy-agent) - 允许跨 SQL、Kubernetes、Terraform、Kafka、Envoy、S3（通过 Minio）、EC2/ECS/Lambda (Linux) 对您的策略进行端到端测试.
 
 - [Gubernator](https://github.com/mailgun/gubernator) - 高性能限速微服务和库.
+
+- [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/)  - 饼干合并来自 cookie、JWT、杏仁饼和 Open Policy Agent 的概念.  “它提供了一种基于 Datalog 的逻辑语言来编写授权策略. 它可以存储数据（如 JWT）或小条件（如 Macaroons），但它还能够表示更复杂的规则，如基于角色的访问控制、委托、层次结构.”
 
 ### AWS policy tools
 

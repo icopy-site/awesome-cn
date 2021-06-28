@@ -32,7 +32,7 @@
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
     
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法对卫星图像得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物覆盖区，使用我们的计算机视觉算法在卫星图像上得出. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 
@@ -86,7 +86,7 @@
 
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap 提取物以 PBF 或 shapefile 格式准备，每天下载.  
 
-- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为适用于 GIS 的格式. 
+- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为 GIS 格式. 
 
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是用于 OpenStreetMap 的基于 Web 的数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefiles）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
  
@@ -103,11 +103,15 @@
 
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家交通运营商处收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/),[GitHub](https://github.com/transitland).
 
-- [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表了全国范围内特定年份平均每年日的潜在噪声水平. 
+- [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据存储库. 
 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)  - 即用型全球街道网络模型和 GIS 格式的计算指标. 附加信息：[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
+
+- [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - 全球所有快速交通走廊的集合，包括快速公交、轻轨和地铁，由交通与发展政策研究所出版. 
+
+- [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - TransitCenter 发布的美国七个（并且还在增加）城市的交通系统的公平性分析.
 
 ## Vendor Data Resources
 可以为各种用途提供购买或许可数据的供应商. 
@@ -185,7 +189,7 @@ Python 库和相关资源.
 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 
-- [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
+- [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
 
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
  
@@ -233,9 +237,9 @@ R 包和相关资源.
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (Esri) 维护的地图和地理信息.
 
-- [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
+- [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
 
-- [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更有效的交付路线、更好的行为营销、战略性商店布局等等.
+- [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
     
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一种数据不可知、WebGL 授权的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
 
@@ -250,6 +254,12 @@ R 包和相关资源.
 
 - [Rhino](https://www.rhino3d.com/)  - 这是一款商用3D计算机图形和计算机辅助设计应用软件.  Rhino 已经在其之上构建了多个插件，包括 Grasshopper 和城市网络分析工具箱，以支持复杂的建模和分析. 
 
+- [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 收集了 20 多个桌面和移动应用程序和服务，用于摄影、设计、视频、网络、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
+
+- [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，可用于 GNU/Linux、macOS、Windows 和更多操作系统.
+
+- [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
+
 ### Urban Planning Tools and Platforms
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 
@@ -259,7 +269,7 @@ R 包和相关资源.
 
 ### Environmental and Climate Planning Tools and Platforms
 
-- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
+- [iTree](https://www.itreetools.org/) - Quantifies the benefits and values of trees around the world. Is based on peer-reviewed, USDA Forest Service Research.
 
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
     
@@ -270,7 +280,7 @@ R 包和相关资源.
 
 ### Other Technology Resource Aggregators
 
-These are other repositories that aggregate planning related tools, software, and related resources. They are a good source of inspiration to contribute to this repo for example, but we don't need to duplicate efforts. 
+这些是聚合规划相关工具、软件和相关资源的其他存储库. 例如，它们是为这个 repo 做出贡献的一个很好的灵感来源，但我们不需要重复努力. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
   

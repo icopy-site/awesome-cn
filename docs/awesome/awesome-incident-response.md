@@ -16,7 +16,7 @@
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  - 自动化战术技术和程序. 手动重新运行复杂序列以进行回归测试、产品评估、为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 防御性安全培训软件，它将您的网络分析培训课程、事件响应演习和红队参与提升到一个新的水平.
-* [Caldera](https://github.com/mitre/caldera)  - 自动对手仿真系统，在 Windows 企业网络中执行妥协后的对抗行为. 它使用规划系统和基于对抗策略、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
+* [Caldera](https://github.com/mitre/caldera)  - 自动对手仿真系统，在 Windows 企业网络中执行妥协后的对抗行为. 它使用计划系统和基于对抗策略、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 模块化、菜单驱动、跨平台工具，用于构建可重复、延时、分布式安全事件. 轻松为 Blue Team 演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件、干扰和诱饵来支持和扩展他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 进行对抗性模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
@@ -25,7 +25,7 @@
 
 ### All in one Tools
 
-* [Belkasoft Evidence Center](https://belkasoft.com/ec) - 该工具包将通过分析硬盘驱动器、驱动器映像、内存转储、iOS、Blackberry 和 Android 备份、UFED、JTAG 和芯片转储，从多个来源快速提取数字证据.
+* [Belkasoft Evidence Center](https://belkasoft.com/ec) - 该工具包将通过分析硬盘驱动器、驱动器映像、内存转储、iOS、黑莓和 Android 备份、UFED、JTAG 和芯片转储，从多个来源快速提取数字证据.
 * [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 基于 CIM/WMI 的工具套件，能够跨所有版本的 Windows 远程执行事件响应和搜寻操作.
 * [CIRTkit](https://github.com/byt3smith/CIRTKit) - CIRTKit 不仅是一组工具，还是一个框架，可帮助持续统一事件响应和取证调查过程.
 * [Cyber Triage](http://www.cybertriage.com)  - Cyber​​ Triage 远程收集和分析端点数据，以帮助确定其是否受到威胁. 这是一种无代理方法，专注于易用性和自动化，使公司能够在没有重大基础设施更改和取证专家团队的情况下做出响应. 其结果用于决定是否应删除系统或进一步调查.
@@ -33,7 +33,7 @@
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于 Windows 的应用程序，提供工作流自动化、案例管理和安全响应功能.
 * [Fleetdm](https://github.com/fleetdm/fleet)  - 为安全专家量身定制的最先进的主机监控平台. 利用 Facebook 久经考验的 osquery 项目，Fleetdm 为重大问题提供持续更新、功能和快速答案.
 * [GRR Rapid Response](https://github.com/google/grr)  - 专注于远程现场取证的事件响应框架. 它由一个安装在目标系统上的 python 代理（客户端）和一个可以管理和与代理对话的 python 服务器基础设施组成. 除了包含的 Python API 客户端， [PowerGRR](https://github.com/swisscom/PowerGRR) 在 Windows、Linux 和 macOS 上运行的 PowerShell 中提供 API 客户端库，用于 GRR 自动化和脚本编写.
-* [Limacharlie](https://www.limacharlie.io/) - 端点安全平台由一系列协同工作的小项目组成，为您提供跨平台（Windows、OSX、Linux、Android 和 iOS）低级环境，用于管理附加模块并将其推入内存以扩展其功能.
+* [Limacharlie](https://www.limacharlie.io/) - 端点安全平台由一系列协同工作的小项目组成，为您提供跨平台（Windows、OSX、Linux、Android 和 iOS）低级环境，用于管理附加模块并将其推送到内存中以扩展其功能.
 * [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理过程并促进事件处理者的实时活动.
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse)  - 使用 ElasticSearch 作为后端为异步取证数据呈现构建的应用程序. 它旨在摄取 Redline 集合.
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/)  - 另一个流行的分布式开源计算机取证框架. 该框架建立在Linux平台上，使用postgreSQL数据库来存储数据.
@@ -80,7 +80,7 @@
 ### Incident Management
 
 * [CyberCPR](https://www.cybercpr.com) - 内置 Need-to-Know 的社区和商业事件管理工具，在处理敏感事件的同时支持 GDPR 合规性.
-* [Cyphon](https://www.cyphon.io/)  - Cyphon 通过单一平台简化大量相关任务，从而消除了事件管理的难题. 它接收、处理和分类事件，为您的分析工作流提供一个包罗万象的解决方案——聚合数据、捆绑警报并确定其优先级，并使分析师能够调查和记录事件.
+* [Cyphon](https://www.cyphon.io/)  - Cyphon 通过单一平台简化大量相关任务，从而消除了事件管理的难题. 它接收、处理和分类事件，为您的分析工作流提供一个包罗万象的解决方案 - 聚合数据、捆绑和区分警报的优先级，并使分析师能够调查和记录事件.
 * [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto 安全编排、自动化和响应平台，具有完整的事件生命周期管理和许多集成以增强自动化.
 * [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - 事件响应跟踪应用程序通过具有大量受影响系统和工件的案例和任务处理一个或多个事件.
 * [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/)  - 网络安全事件管理平台设计时考虑了敏捷性和速度. 它允许轻松创建、跟踪和报告网络安全事件，对 CSIRT、CERT 和 SOC 等都很有用.
@@ -154,7 +154,7 @@
 
 * [Cortex](https://thehive-project.org)  - Cortex 允许您使用 Web 界面逐一或以批量模式分析可观察值，例如 IP 和电子邮件地址、URL、域名、文件或哈希值. 分析师还可以使用其 REST API 自动执行这些操作.
 * [Crits](https://crits.github.io/) - 基于网络的工具，将分析引擎与网络威胁数据库相结合.
-* [Diffy](https://github.com/Netflix-Skunkworks/diffy) - 由 Netflix 的 SIRT 开发的 DFIR 工具，允许调查人员在事件期间快速确定跨云实例（目前 AWS 上的 Linux 实例）的危害范围，并通过显示与基线的差异来有效地对这些实例进行分类以进行后续行动.
+* [Diffy](https://github.com/Netflix-Skunkworks/diffy) - 由 Netflix 的 SIRT 开发的 DFIR 工具允许调查人员在事件期间快速确定跨云实例（目前 AWS 上的 Linux 实例）的危害范围，并通过显示与基线的差异来有效地对这些实例进行分类以采取后续行动.
 * [domfind](https://github.com/diogo-fernan/domfind) - 用于在不同 TLD 下查找相同域名的 Python DNS 爬虫.
 * [Fenrir](https://github.com/Neo23x0/Fenrir)  - 简单的 IOC 扫描仪. 它允许在普通 bash 中扫描任何 Linux/Unix/OSX 系统的 IOC. 由 THOR 和 LOKI 的创作者创建.
 * [Fileintel](https://github.com/keithjjones/fileintel) - 为每个文件哈希提取智能.
@@ -174,10 +174,10 @@
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl)  - 扩展跟踪路由以支持 CSIRT（或 CERT）运营商的活动. 通常 CSIRT 团队必须根据收到的 IP 地址处理事件. 由卢森堡计算机应急响应中心创建.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - 用于向 AV 供应商提交病毒样本的 Windows 实用程序（维护不佳或不再维护）.
 
-
 ### Playbooks
 
-* [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - 反作用的剧本收藏.
+* [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21)  - AWS IR Runbook Samples 旨在针对每个使用它们的实体进行自定义. 这三个样本是：“DoS 或 DDoS 攻击”、“凭据泄漏”和“意外访问 Amazon S3 存储桶”.
+* [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - 反作用的 Playbooks 集合.
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 网络事件响应手册战斗卡的集合
 * [IRM](https://github.com/certsocietegenerale/IRM) - CERT Societe Generale 的事件响应方法.
 * [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  - 不同的通用事件响应工作流程，例如恶意软件爆发、数据盗窃、未经授权的访问……每个工作流程由七个步骤组成：准备、检测、分析、遏制、根除、恢复、事件后处理. 工作流程可在线获取或下载.
@@ -216,7 +216,6 @@
 * [Morgue](https://github.com/etsy/morgue) - Etsy 的 PHP Web 应用程序，用于管理事后分析.
 * [Plaso](https://github.com/log2timeline/plaso) - 用于工具 log2timeline 的基于 Python 的后端引擎.
 * [Timesketch](https://github.com/google/timesketch) - 用于协作取证时间线分析的开源工具.
-
 
 ### Videos
 
