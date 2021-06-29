@@ -73,6 +73,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [coin](https://github.com/caian-org/coin) - 通过命令行执行货币转换的应用程序 [Fixer API](https://fixer.io)
  * [cride](https://github.com/j8r/cride) - 轻量级 CLI 文本编辑器/IDE
  * [lff](https://github.com/mkdika/lff-cr) - 命令行中简单明了的大文件查找器实用程序
+ * [meet](https://github.com/ryanprior/meet) - 从舒适的命令行快速开始jitsi会议
  * [oq](https://github.com/Blacksmoke16/oq)  - 一个高性能的、可移植的 jq 包装器，以促进 JSON 以外格式的使用和输出； 使用 [jq](https://github.com/stedolan/jq) 过滤器来转换数据
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 一个简单且可定制的进度条
  * [tablo](https://github.com/hutou/tablo) - 一个灵活的终端表生成器
@@ -376,7 +377,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Kilt](https://github.com/jeromegn/kilt) - 模板引擎的抽象层
  * [Slang](https://github.com/jeromegn/slang) - 受 Ruby 的 Slim 启发的轻量级、简洁的模板语言
  * [teeplate](https://github.com/mosop/teeplate) - 用于渲染多个模板文件的库
- * [Water](https://github.com/shootingfly/water) - 用于在纯 Crystal 中编写 HTML 的库
+ * [Water](https://github.com/shootingfly/water) - 一个用纯 Crystal 编写 HTML 的库
 
 ## Testing
  * [Athena Spec](https://github.com/athena-framework/spec) - 常见/有用 [Spec](https://crystal-lang.org/api/Spec.html) 合规的测试工具

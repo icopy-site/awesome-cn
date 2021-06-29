@@ -4,60 +4,60 @@
 
 [<img src="https://raw.githubusercontent.com/desiderantes/awesome-vala/master/vala.svg?sanitize=true" align="right" width="100">](https://wiki.gnome.org/Projects/Vala/)
 
- 通过依靠GLib和GObject，使用现代高级抽象的编程语言，而没有施加其他运行时要求.
+ 通过依赖 GLib 和 GObject，一种使用现代高级抽象而不强加额外运行时要求的编程语言.
 
 
 
 ## Data Structures & Data Types
 
-- [Libgee](https://wiki.gnome.org/Projects/Libgee) -实用程序库，为常用的数据结构（列表，地图，队列，树等）提供基于GObject的接口和类.
-- [Graphene](https://github.com/ebassi/graphene)  -图形库类型的薄层. 它提供了处理3D转换所需的常见类型：点，三角形，矩形，四边形，四元数，向量，矩阵，球体等.
-- [Numeric-GLib](https://github.com/arteymix/numeric-glib)  -通过GCC扩展集合GLib（和Vala）的数字数据类型. 它包括128位整数和浮点数，复杂类型，向量化操作和十进制类型.
-- [United](https://github.com/lcallarec/united) -用于单位操作的库（例如公斤，米等）.
+- [Libgee](https://wiki.gnome.org/Projects/Libgee) - 一个实用程序库，为常用数据结构（列表、地图、队列、树等）提供基于 GObject 的接口和类.
+- [Graphene](https://github.com/ebassi/graphene)  - 图形库类型的薄层. 它提供了处理 3D 变换所需的常见类型：点、三角形、矩形、四边形、四元数、向量、矩阵、球体等.
+- [Numeric-GLib](https://github.com/arteymix/numeric-glib)  - 通过 GCC 扩展为 GLib（和 Vala）收集的数字数据类型. 它包括 128 位整数和浮点数、复杂类型、向量化运算和十进制类型.
+- [United](https://github.com/lcallarec/united) - 用于单位操作的库（如千克、米等）.
 
 ## Editor Plugins
 
-- [Vala Code](https://github.com/thiagoabreu/vala-code) -VIsual Studio代码的插件，可为Vala启用基本的自动完成和语法突出显示功能.
-- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) -一个TextMate捆绑包，提供Vala语法突出显示，代码完成等功能.Sublime Text 3也可以使用此插件.
-- [language-vala-modern](https://atom.io/packages/language-vala-modern)  -在Atom中提供Vala语言支持. 它是未维护的“语言-语言包”的分支.
-- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) -Sublime Text 3的基本插件，可突出显示语法.
+- [Vala Code](https://github.com/thiagoabreu/vala-code) - VIsual Studio Code 的插件，可为 Vala 启用基本的自动完成和语法高亮显示.
+- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) - 提供 Vala 语法高亮、代码补全等的 TextMate 包.Sublime Text 3 也可以使用这个插件.
+- [language-vala-modern](https://atom.io/packages/language-vala-modern)  - 在 Atom 中提供 Vala 语言支持. 它是未维护的“language-vala 包”的一个分支.
+- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - Sublime Text 3 的基本插件，提供语法高亮.
 
 ## Language Servers
 
-- [GVLS](https://gitlab.gnome.org/esodan/gvls)  -为Vala提供代码完成和格式设置的服务. 由于缺少lsp实现的详细信息，因此当前不适用于Visual Studio Code，但适用于GNOME Builder.
-- [vala-language-server](https://github.com/benwaffle/vala-language-server) -语言服务器，旨在根据语言服务器规范提供代码完成，格式设置，语法突出显示以及其他所有功能.
+- [GVLS](https://gitlab.gnome.org/esodan/gvls)  - 为 Vala 提供代码完成和格式化的服务. 由于缺少 lsp 实现的细节，这当前不适用于 Visual Studio Code，但它适用于 GNOME Builder.
+- [vala-language-server](https://github.com/benwaffle/vala-language-server) - 一种语言服务器，旨在根据语言服务器规范提供代码完成、格式设置、语法突出显示以及其他所有内容.
 
 ## Graphic Libraries
 
-- [Cairo](https://cairographics.org/)  -支持多个输出设备的2D图形库. 这几乎是您在Vala中获得的默认库.
-- [SDL2](https://www.libsdl.org/)  -跨平台开发库，旨在通过OpenGL，Direct3D和Vulkan提供对音频，键盘，鼠标，操纵杆和图形硬件的低级访问. 绑定包含在Vala中，并且将从Vala 0.52开始可用.
-- [GRX](https://github.com/ev3dev/grx)  -用于简单图形显示的图形库（请考虑使用1位显示或Adafruit的PiTFT显示）. 它还包括键盘，鼠标，操纵杆和触摸屏输入支持.
-- [GEGL](http://gegl.org/)  -基于数据流的图像处理框架，提供浮点处理和非破坏性图像处理功能. 可以将其视为“图像的反应式编程”.
-- [Babl](http://gegl.org/babl/) -动态的任何像素格式的转换库.
+- [Cairo](https://cairographics.org/)  - 支持多种输出设备的 2D 图形库. 这几乎是您在 Vala 中获得的默认库.
+- [SDL2](https://www.libsdl.org/)  - 一个跨平台开发库，旨在通过 OpenGL、Direct3D 和 Vulkan 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问. 绑定包含在 Vala 中，将从 Vala 0.52 开始提供.
+- [GRX](https://github.com/ev3dev/grx)  - 用于简单图形显示的图形库（想想 1 位显示或 Adafruit 的 PiTFT 显示）. 它还包括键盘、鼠标、操纵杆和触摸屏输入支持.
+- [GEGL](http://gegl.org/)  - 基于数据流的图像处理框架，提供浮点处理和无损图像处理能力. 将其视为“图像的反应式编程”.
+- [Babl](http://gegl.org/babl/) - 一个动态的、任意到任意的像素格式转换库.
 
 ## GUI Programming
 
-- [GTK+](https://www.gtk.org/)  -在Vala中用于GUI开发的事实库. 绑定包含在vala编译器中.
+- [GTK](https://www.gtk.org/)  - Vala 中用于 GUI 开发的事实上的库. 绑定包含在 vala 编译器中.
 
 ## Multimedia Processing
 
-- [GStreamer](http://gstreamer.freedesktop.org/) -用于创建多媒体应用程序的强大框架.
+- [GStreamer](http://gstreamer.freedesktop.org/) - 创建多媒体应用程序的强大框架.
 
 ## XML & Data Serialization
 
-- [GXML](https://gitlab.gnome.org/GNOME/gxml/) -用于处理XML的GObject API和从GObject到XML的可序列化框架.
-- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) -使用GLib和GObject实现完整的JSON解析器和生成器，并将JSON与GLib数据类型集成.
-- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) -libyaml的GLib绑定，以及可理解YAML的GObject构建器.
+- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - 用于操作 XML 的 GObject API 和从 GObject 到 XML 的可序列化框架.
+- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - 使用 GLib 和 GObject 实现完整的 JSON 解析器和生成器，并将 JSON 与 GLib 数据类型集成.
+- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - libyaml 的 GLib 绑定​​，以及理解 YAML 的 GObject 构建器.
 
 ## Templating
 
-- [Compose](https://github.com/arteymix/compose) -Vala的功能性模板库.
-- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) -模板扩展库，支持从模板调用GObject Introspection.
+- [Compose](https://github.com/arteymix/compose) - Vala 的功能模板库.
+- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - 支持从模板调用 GObject Introspection 的模板扩展库.
 
 ## Numerical Computation
 
-- [vast](https://github.com/rainwoodman/vast)  -Vala的生成建模项目. 想想用Vala重写的TensorFlow.
-- [balistica](https://github.com/fusilero/libbalistica)  -开源弹道仿真库. 有一个完整的计算器 [here](https://github.com/fusilero/balistica).
+- [vast](https://github.com/rainwoodman/vast)  - Vala 中的生成式建模项目. 想想用 Vala 重写的 TensorFlow.
+- [balistica](https://github.com/fusilero/libbalistica)  - 一个开源弹道模拟库. 有一个完整的计算器 [here](https://github.com/fusilero/balistica).
 
 ## Crypto & Security
 
@@ -65,9 +65,9 @@
 
 ## Web Development
 
-- [Valum](https://github.com/valum-framework/valum) -完全用Vala编写的Web微框架.
-- [Ambition](https://github.com/AmbitionFramework/ambition)  -用Vala编写的Web框架，并牢记MVC模式.  Kinda无需维护（有人可以将其重构为在后台使用Valum，甚至可以将其移至Meson）
+- [Valum](https://github.com/valum-framework/valum) - 完全用 Vala 编写的 Web 微框架.
+- [Ambition](https://github.com/AmbitionFramework/ambition)  - 用 Vala 编写的 Web 框架，并考虑到 MVC 模式. 有点无人维护（有人可以重构它以在引擎盖下使用 Valum，也许将它移到 Meson ）
 
 ## IoC and Dependency Injection
 
-- [Vadi](https://github.com/nahuelwexd/Vadi) -开发了一个IoC容器，以方便Vala开发人员使用依赖项注入.
+- [Vadi](https://github.com/nahuelwexd/Vadi) - 为方便 Vala 开发人员使用依赖注入而开发的 IoC 容器.

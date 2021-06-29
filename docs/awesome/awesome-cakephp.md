@@ -195,7 +195,7 @@
 - [Upgrade/Migration Guide](https://book.cakephp.org/3.0/en/appendices.html) - 官方移民指南.
 
 ## Miscellaneous
-*Misc plugins and libraries.*
+*其他插件和库.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) - 使您能够将控制器操作作为单个类进行管理.
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - 一个简化处理 AJAX 请求的插件.
@@ -210,7 +210,7 @@
 - [Dashboard plugin](https://github.com/gourmet/dashboard) - 为您的蛋糕制作漂亮的仪表板.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) - 用于导出、导入和管理数据库备份的插件.
 - ：草莓： [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  - 允许访问者发送快速简便的反馈，包括. 通过侧边栏形式的屏幕截图.
-- ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) - 为您的应用程序提供更强大的 Flash 消息.
+- ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) - 为您的应用程序提供更强大的闪存消息.
 - ：草莓： [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) - 用于 CakePHP 4.x 应用程序的 OPCache 预加载器. 
 - [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - 监控您的应用程序的心跳（例如，数据库是否可用且是最新的）.
 - [Inertia plugin](https://github.com/ishanvyas22/cakephp-inertiajs) - Inertia.js 的服务器端适配器.
@@ -283,13 +283,13 @@
 ## REST and API
 *用于开发 REST-ful API 的插件和 Web 工具.*
 
-- ：草莓： [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - 使用 swagger-php 和 swagger-ui 的 CakePHP API 的 Swagger 2.0 文档.
+- ：草莓： [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 - [Alt3/ValidationExposer plugin](https://github.com/alt3/cakephp-validation-exposer) - 轻松公开应用程序的验证规则.
 - [ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) - 将来自 CakePHP 的分页器的分页信息注入到序列化的 JsonView 和 XmlView 响应中.
 - ：草莓： [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  - 提供完整API的多合一解决方案. 它包括版本控制、渲染器、CRUD、身份验证、扩展（分页、过滤器、HATEOAS）等等.
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) - 使用中间件激活 CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) - 用于将 CORS 标头添加到指定端点的轻量级插件.
-- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 用于构建的 Crud 监听器 [JSON API](https://jsonapi.org/) 合规的 API.
+- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 用于构建的原始监听器 [JSON API](https://jsonapi.org/) 合规的 API.
 - ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - 一个允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - ：草莓： [MixerApi](https://mixerapi.com) - 为您的团队 CakePHP 项目简化现代 RESTful API 的开发.
 - ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  - 此插件会根据您现有的模型和路线自动构建您的 Swagger UI 文档. 还可以使用 redoc 选项.
@@ -310,7 +310,7 @@
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) - 使加密数据类型能够存储在数据库中的简单解决方案.
 - ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - 简单、不显眼且可扩展的验证码解决方案默认提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  - 用这种行为加密你的实体数据. 加密是在 PHP 级别使用 CakePHP Security 类完成的.
-- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) - 通过额外的 UUID 而不是 AIID 主键公开实体，以混淆与这些数字排序值相关的 ID 和数据.
+- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) - 通过额外的 UUID 而不是它们的 AIID 主键公开实体，以混淆与这些数字排序值相关联的那些 ID 和数据.
 - ：草莓： [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - 使用 UUID、HashIds、Optimus、Tiny 和/或自定义混淆策略进行主键混淆/缩短.
 - ：草莓： [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - 用于速率限制 (API) 请求的插件.
 - ：草莓： [Recaptcha plugin](https://github.com/ctlabvn/Recaptcha) - 简单、轻量级的 Google Recaptcha v2.
@@ -394,6 +394,7 @@
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - 用于启动多个 CakePHP 3.x Vanilla Dev Environments 的工具.
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) - 用于 (CakePHP) 应用程序的 docker 开发环境可以自动设置，包括许多工具.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - docker 容器环境中的 CakePHP.
+- ：草莓： [Galley](https://gitlab.com/amayer5125/galley) - 一个用于 CakePHP 开发的小型 Docker 开发环境，其中包括一个简单的命令行实用程序.
 - [Mixer](https://github.com/CakeDC/mixer) - 一个用于发现和管理 CakePHP 插件的插件.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) - 此包在 NetBeans 8.1+ 中提供对 CakePHP 的支持.
 - [Oven](https://github.com/CakeDC/oven) - 使用 1 个文件和 1 次单击设置您最喜欢的框架.

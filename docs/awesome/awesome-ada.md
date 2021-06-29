@@ -137,7 +137,7 @@
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 在 Reddit 上火花.
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
-- [irc-ada](http://webchat.freenode.net/?channels=%23ada) - IRC 上有一个频道.
+- [#ada on Libera.Chat](https://libera.chat/) - IRC 上有一个频道.
 - [matrix-ada](https://matrix.to/#/#ada-lang:matrix.org) - Matrix 的 Ada 房间.
 
 #### News and Resources
@@ -151,7 +151,13 @@
 #### Competition
 <div align="center">
 	<a href="https://www.makewithada.org/">
-		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"
+		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min">
+	</a>
+</div>
+
+<div align="center">
+	<a href="https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award">
+		<img width="800px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg">
 	</a>
 </div>
 
@@ -186,7 +192,7 @@
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - 基于 CodingGround 引擎构建的在线编译器.
-- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - 提供多个版本的 GNAT 进行测试的在线编译器.
+- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - 在线编译器，提供多个版本的 GNAT 进行测试.
 - [compiler-explorer](https://godbolt.org/) - 从您的 Web 浏览器以交互方式运行 GNAT FSF 编译器并与程序集交互.
 
 ## Edit
@@ -236,7 +242,7 @@
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是嵌入式应用程序的硬实时操作系统，遵循最小实时 POSIX.13 子集. 它提供了一个易于使用和受控的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) - 高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
-- [bare-bones](https://github.com/Lucretia/bare_bones) - 一个 Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - 一个 Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小的 32 位 x86 内核.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace 致力于使用 Ada 2012 语言编写类 Unix 操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada_KALINDA 是一种类似 Mac Plus 的操作系统，用 Ada95 编写.
 - [cxos](https://github.com/ajxs/cxos) - Ada 操作系统开发示例.
@@ -526,7 +532,7 @@
 ## Hardware and Embedded
 
 #### Frameworks
-- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用 Ada、ARM 和 Lego 的机器人技术.
+- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 机器人与 Ada、ARM 和 Lego.
 
 #### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - 完整的 Ada + SPARK Crazyflie 2.0 固件的源代码.
@@ -600,7 +606,7 @@
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 此工具将在 Ada Conformity Assessment Authority 共享的 CVS 存储库导入 Git 存储库.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Ada 源代码中 Java 有效源代码的翻译器.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS 是实验性开源编译器，是 Matreshka 的组件.
-- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  - SofCheck AdaMagic 是针对 C 和/或 C++（用于微调的 4 个命令行开关）的 ACATS 验证和认证 Ada 编译器.  ObjectAda 和其他几个商业编译器与 AdaMagic 共享引擎.  MapuSoft 将 AdaMagic 作为 AppCOE 的组成部分进行分发.
+- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  - SofCheck AdaMagic 是针对 C 和/或 C++（用于微调的 4 个命令行开关）的 ACATS 验证和认证的 Ada 编译器.  ObjectAda 和其他几个商业编译器与 AdaMagic 共享引擎.  MapuSoft 将 AdaMagic 作为 AppCOE 的组成部分进行分发.
 - [cappulada](https://github.com/Componolit/Cappulada) - 有一个 C++ 绑定生成器.
 - [asis2xml](https://github.com/simonjwright/asis2xml) - 将 Ada 源的 ASIS 表示转换为 XML，以便使用（例如）XSLT 更容易地开发报告和转换工具.
 
@@ -609,7 +615,7 @@
 - [gsh](https://github.com/AdaCore/gsh)  - GSH 是 Windows 的非交互式 POSIX shell，针对 GNU 软件构建. 比 Cygwin 快 2-3 倍.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell 是一种简单的可嵌入脚本语言，是 GNATCOLL 核心的一部分.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - Charles Babbage 分析引擎的 Ada 2012 仿真.
-- [a-shell](https://github.com/charlie5/aShell) - 帮助在 Ada 中编写类似 shell 的应用程序的组件.
+- [a-shell](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 
 #### Programming Languages
 - [para-sail](http://parasail-lang.org/)  - ParaSail 是一种高度并行的实验语言，类似于 Go 和 Erlang. 最初由 SofCheck（现为 AdaCore）所有，是一个尝试新想法的测试项目. 可扩展指针是即将引入 SPARK 和 Ada 的示例功能. 实际上有 4 种实验语言：ParaSail、Sparkel、Javallel、Parython，它们都共享字节码解释器和 LLVM 引擎.

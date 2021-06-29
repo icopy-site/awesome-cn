@@ -251,13 +251,13 @@
 * [bpftrace](https://github.com/iovisor/bpftrace) - Linux eBPF 的高级跟踪语言.
 * [pudb](https://github.com/inducer/pudb) - Python 的全屏控制台调试器.
 * [backward-cpp](https://github.com/bombela/backward-cpp) - 一个漂亮的 C++ 堆栈跟踪漂亮的打印机.
-* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB 仪表板是一个独立的 .gdbinit 文件，使用 Python API 编写，可启用模块化界面，显示有关正在调试的程序的相关信息.
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB 仪表板是一个独立的 .gdbinit 文件，使用 Python API 编写，可启用模块化界面，显示有关被调试程序的相关信息.
 * [hotspot](https://github.com/KDAB/hotspot) - 用于性能分析的 Linux perf GUI.
 * [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - 一个python模块，用于监控进程的内存消耗以及python程序的内存消耗的逐行分析.
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - 该模糊器旨在通过对目标节点处理的主题执行模糊测试，帮助开发人员和研究人员发现 ROS 节点中的错误和漏洞.
 * [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - VS Code 的扩展，可在调试期间可视化数据.
 * [action-tmate](https://github.com/mxschmitt/action-tmate) - 通过使用 tmate 访问运行器系统本身，通过 SSH 调试您的 GitHub 操作.
-* [libstatistics_collector](https://github.com/ros-tooling/libstatistics_collector) - ROS 2 库提供了用于收集测量值并计算它们之间的统计数据的类.
+* [libstatistics_collector](https://github.com/ros-tooling/libstatistics_collector) - ROS 2 库提供了用于收集测量值并计算它们的统计数据的类.
 * [system_metrics_collector](https://github.com/ros-tooling/system_metrics_collector) - 用于 ROS2 系统的轻量级实时系统指标收集器.
 
 
@@ -334,7 +334,7 @@
 * [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - 一种面向场景的设计工具，旨在使用户能够在 ArcGIS CityEngine 中快速创建程序生成的多模式街道.
 * [fields-ignition](https://github.com/azazdeaz/fields-ignition) - 为 Ignition Gazebo 生成随机农田.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Unity 中机器人模拟的工具、教程、资源和文档的中央存储库.
-* [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为每个想要可视化、分析或模拟空中交通的人提供一个工具，以便不受任何限制、许可或限制.
+* [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为想要可视化、分析或模拟空中交通的每个人提供一个工具，以便不受任何限制、许可或限制.
 * [Cloe](https://github.com/eclipse/cloe) - 通过为闭环仿真提供统一接口，为自动驾驶软件组件的开发人员提供支持.
 
 
@@ -471,7 +471,7 @@
 * [packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - 由丰田研究所 (TRI) 的 ML 团队发明的自监督单目深度估计方法的官方 PyTorch 实现.
 * [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - 这项工作提出了一个简单而准确的实时基线 3D 多对象跟踪系统.
 * [monoloco](https://github.com/vita-epfl/monoloco) - 在 PyTorch 中正式实现“MonoLoco：单目 3D 行人定位和不确定性估计”.
-* [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - 建立在YOLOv3的原始思想之上，并去除了它的两个弱点：大量重写的标签和低效的anchors分布.
+* [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - 建立在YOLOv3的原始思想之上，并去除了其两个弱点：大量重写的标签和低效的anchors分布.
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - 使用卫星和航拍图像进行深度学习的资源.
 * [robosat](https://github.com/mapbox/robosat) - 航空和卫星图像的语义分割.
 * [big_transfer](https://github.com/google-research/big_transfer) - 由 Google Research 创建的通用视觉表示学习模型.
@@ -566,7 +566,7 @@
 * [gLAB](https://gage.upc.edu/gLAB/) - 在厘米级别对 GNSS 可观测值（伪距和载波相位）进行精确建模，允许独立的 GPS 定位、PPP、SBAS 和 DGNSS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - 包含我们用于仅基于 IMU 的轮式车辆航位推算的新型准确方法的代码.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - 使用 Jupyter Notebook 的卡尔曼滤波器书.
-* [mcl_3dl](https://github.com/at-wat/mcl_3dl) - 一个 ROS 节点，用于为具有 3-D LIDAR(s) 的移动机器人执行概率 3-D/6-DOF 定位系统.
+* [mcl_3dl](https://github.com/at-wat/mcl_3dl) - 一个 ROS 节点，用于为带有 3-D 激光雷达的移动机器人执行概率 3-D/6-DOF 定位系统.
 * [se2lam](https://github.com/izhengfan/se2lam) - 通过融合里程计和视觉对地面车辆进行 On-SE(2) 定位和映射.
 * [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - 来自毫米波传输的基于 ML 的定位方法 - 具有高精度和高能效.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - 一个 ROS 包，使用 PCL 提供 3 DoF 和 6 DoF 定位，并允许使用 OctoMap 动态地图更新.
@@ -636,7 +636,7 @@
 * [iD](https://github.com/openstreetmap/iD) - JavaScript 中易于使用的 OpenStreetMap 编辑器.
 * [RapiD](https://github.com/facebookincubator/RapiD) - 增强版 iD，用于与 Facebook 创建的 AI 进行映射.
 * [segmap](https://github.com/ethz-asl/segmap) - 基于 3D 段的地图表示.
-* [Mapbox](https://github.com/mapbox/mapbox-gl-js) - 一个 JavaScript 库，用于在 Web 上进行交互式、可定制的矢量地图.
+* [Mapbox](https://github.com/mapbox/mapbox-gl-js) - 一个 JavaScript 库，用于在网络上进行交互式、可定制的矢量地图.
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - 开源路由机 - C++ 后端.
 * [assuremapingtools](https://github.com/hatem-darweesh/assuremapingtools) -  Desktop based tool for viewing, editing and saving road network maps for autonomous vehicle platforms such as Autoware.
 * [geopandas](https://github.com/geopandas/geopandas) - 为熊猫对象添加对地理数据的支持的项目.
@@ -661,7 +661,7 @@
 * [ad-rss-lib](https://github.com/intel/ad-rss-lib) - 为自动驾驶汽车实施责任敏感安全模型 (RSS) 的库.
 * [FlexBE](https://flexbe.github.io/) - 分层状态机的图形编辑器，基于 ROS 的 smach.
 * [sts_bt_library](https://github.com/Autonomous-Logistics/sts_bt_library) - 该库提供了通过使用定义的树结构（如回退、序列或并行节点）来设置您自己的行为树逻辑的功能.
-* [SMACC](https://github.com/reelrbtx/SMACC) - 用 C++ 编写的用于实时 ROS（机器人操作系统）应用程序的事件驱动、异步、行为状态机库.
+* [SMACC](https://github.com/reelrbtx/SMACC) - 一个事件驱动的、异步的、行为状态机库，用于用 C++ 编写的实时 ROS（机器人操作系统）应用程序.
 * [py_trees_ros](https://github.com/splintered-reality/py_trees_ros) - 扩展 py_trees 以用于 ROS 的行为、树和实用程序.
 
 ## Planning and Control
@@ -1066,6 +1066,7 @@
 * [UTD19](https://utd19.ethz.ch/) - 公开可用的最大的多城市交通数据集.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) - 用于基于深度学习的 3D 对象检测的汽车雷达数据集.
 * [Objectron](https://github.com/google-research-datasets/Objectron/) - 一系列以对象为中心的简短视频剪辑，伴随着 AR 会话元数据，包括相机姿势、稀疏点云和周围环境中平面的表征.
+* [ONCE dataset](https://once-for-auto-driving.github.io/index.html) - 具有 2D 和 3D 对象注释的大规模自动驾驶数据集.
 
 ## Footnotes
 

@@ -29,7 +29,7 @@
 *与依赖管理相关的额外内容.*
 
 * [Composed](https://github.com/joshdifabio/composed) - 在运行时解析项目的 Composer 环境的库.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - 用于合并多个 composer.json 文件的作曲家插件.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Composer 应用补丁的插件.
 * [Compoer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - 用于分析 Composer 依赖项并验证包源中未使用未知符号的 CLI 工具.
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - 用于扫描未使用的 Composer 包的 CLI 工具.
@@ -104,7 +104,7 @@
 ### Routers
 *用于处理应用程序路由的库.*
 
-* [Aura.Router](https://github.com/auraphp/Aura.Router) - 功能齐全的路由库.
+* [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 * [Fast Route](https://github.com/nikic/FastRoute) - 快速路由库.
 * [Klein](https://github.com/klein/klein.php) - 灵活的路由器.
 * [Pux](https://github.com/c9s/Pux) - 另一个快速路由库.
@@ -320,7 +320,7 @@
 * [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测 PHP、CSS 和 JS 编码标准违规的库.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 编码标准修复程序库.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - 一个库，用于扫描代码中的错误、次优代码、未使用的参数等.
-* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 帮助遵守某些编码约定的工具.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 检测复制和粘贴代码的库.
 
 ### Static Analysis
@@ -420,7 +420,7 @@
 ### Event
 *事件驱动或实现非阻塞事件循环的库.*
 * [Amp](https://github.com/amphp/amp) - 事件驱动的非阻塞 I/O 库.
-* [Broadway](https://github.com/broadway/broadway) - An event source and CQRS library.
+* [Broadway](https://github.com/broadway/broadway) - 事件源和 CQRS 库.
 * [CakePHP Event](https://github.com/cakephp/event) - 事件调度程序库.
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) - 另一个网络套接字库.
 * [Evenement](https://github.com/igorw/evenement) - 事件调度程序库.
@@ -438,7 +438,7 @@
 ### Logging
 *用于生成和处理日志文件的库.*
 
-* [Monolog](https://github.com/Seldaek/monolog) - A comprehensive logger.
+* [Monolog](https://github.com/Seldaek/monolog) - 一个全面的记录器.
 
 ### E-commerce
 *用于支付和建立在线电子商务商店的库和应用程序.*
@@ -753,6 +753,7 @@
 
 * [Ansible](https://www.ansible.com/) - 一个极其简单的编排框架.
 * [Docker](https://www.docker.com/) - 一个容器化平台.
+* [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - 在 Docker 容器中轻松安装 PHP 扩展.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - Laravel 的本地开发环境. 
 * [Laradock](http://laradock.io/) - 基于 Docker 的完整 PHP 开发环境.
 * [Puppet](https://puppet.com/) - 服务器自动化框架和应用程序.
@@ -788,7 +789,7 @@
 * [Lychee](https://github.com/electerious/Lychee) - 易于使用且外观精美的照片管理系统.
 
 ### Infrastructure
-*用于提供 PHP 应用程序和服务的基础设施.*
+*Infrastructure for providing PHP applications and services.*
 
 * [appserver.io](https://github.com/appserver-io/appserver) - 用 PHP 编写的用于 PHP 的多线程应用程序服务器.
 * [php-pm](https://github.com/php-pm/php-pm) - PHP 应用程序的进程管理器、增压器和负载平衡器.
@@ -830,7 +831,7 @@
 * [PHP Pandas](https://daylerees.com/php-pandas/) - Dayle Rees 的一本关于学习编写 PHP 的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) - Steve Corona 关于扩展 PHP 应用程序的电子书.
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - Chris Cornutt 撰写的关于 PHP 常见安全术语和实践的书.
-* [Signaling PHP](https://leanpub.com/signalingphp) - Cal Evans 关于在 CLI 脚本中捕获 PCNTL 信号的书.
+* [Signaling PHP](https://leanpub.com/signalingphp) - Cal Evans 写的一本关于在 CLI 脚本中捕获 PCNTL 信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Chris Hartjes 撰写的关于构建 PHP 应用程序测试的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - 本书涵盖解析和验证 XML 文档、利用 XPath 表达式、使用名称空间以及如何以编程方式创建和修改 XML 文件.
 
