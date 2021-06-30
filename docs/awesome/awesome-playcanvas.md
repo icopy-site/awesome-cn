@@ -16,7 +16,7 @@
 
 - [Editor](https://playcanvas.com/) - 基于浏览器的实时协作 WebGL 编辑器.
 - [Engine](https://github.com/playcanvas/engine) - 获得 MIT 许可的 PlayCanvas 运行时的完整源代码.
-- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 兼容模型查看器.
+- [glTF Viewer](https://playcanvas.com/viewer) - 符合 glTF 2.0 的模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
 - [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
@@ -102,7 +102,6 @@
 ## IO Games
 
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - 来自 Kiloo 的快节奏、高保真、3D 多人 FPS 游戏.
-- [Ink Wars](https://inkwars.io/) - 实时多人游戏，您可以在其中绘制街区以获胜.
 - [Mini Royale 2](https://miniroyale2.io/) - 大逃杀第一人称射击游戏.
 - [Robostorm](https://robostorm.io/) - 狂热的在线多人机甲战斗游戏.
 - [Tank Royale](https://tankroyale.io/) - 卡通快节奏的自上而下多人射击游戏.

@@ -21,7 +21,7 @@
 
 ## Dynamic type checkers
 
-- [beartype](https://github.com/beartype/beartype) - 在纯 Python 中速度快得令人无法忍受的 `O(1)` 运行时类型检查.
+- [beartype](https://github.com/beartype/beartype) - 在纯 Python 中速度快得令人无法忍受的“O(1)”运行时类型检查.
 - [pytypes](https://github.com/Stewori/pytypes) - 为运行时类型检查提供了一组丰富的实用程序.
 - [pydantic](https://github.com/samuelcolvin/pydantic)  - 使用 Python 类型提示进行数据解析. 支持数据类.
 - [typeguard](https://github.com/agronholm/typeguard) - 另一个运行时类型检查器.
@@ -44,6 +44,7 @@
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) - 存根 [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - 存根 [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - 存根 [Pythonista](http://omz-software.com/pythonista/docs/ios/).
+- [torchtyping](https://github.com/patrick-kidger/torchtyping) - 增强的类型注释 [pytorch](https://pytorch.org/).
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes)  - 为 WSGI 应用程序实现者打字. 这些不是存根文件，它们是您标记支持以帮助类型检查 WSGI 一致性的接口.
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - [NumPy] 的存根， [pandas](https://github.com/pandas-dev/pandas)， 和 [Matplotlib](https://github.com/matplotlib/matplotlib).
 
@@ -86,12 +87,13 @@
 
 ### Helper tools to add annotations to existing code
 
+- [autotyper](https://github.com/JelleZijlstra/autotyper) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [MonkeyType](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的 Python 代码中.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到您的源代码中.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
 <!--lint disable double-link-->
-- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对所使用的类型进行有根据的猜测，并将注释应用于文件.
 <!--lint enable double-link-->
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发的工具，用于用 Python 类型注释 AST 的节点.
 - [Typilus](https://github.com/typilus/typilus)  - 一种在 Python 中预测类型的深度学习算法. 也可作为 [GitHub action](https://github.com/typilus/typilus-action)
@@ -132,7 +134,7 @@
 - [PEP-586](https://www.python.org/dev/peps/pep-0586/) - 文字类型.
 - [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict：带有一组固定键的字典的类型提示.
 - [PEP-591](https://www.python.org/dev/peps/pep-0591/) - 为打字添加最终限定符.
-- [PEP-593](https://www.python.org/dev/peps/pep-0593/) - 灵活的功能和变量注释.
+- [PEP-593](https://www.python.org/dev/peps/pep-0593/) - Flexible function and variable annotations.
 - [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Union[] 的补充语法.
 - [PEP-612](https://www.python.org/dev/peps/pep-0612/) - 参数规范变量.
 - [PEP-613](https://www.python.org/dev/peps/pep-0613/) - 显式类型别名.

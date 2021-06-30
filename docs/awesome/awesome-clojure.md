@@ -22,6 +22,7 @@
   - [Braid](https://github.com/braidchat/braid)：具有新颖 UI 的团队聊天应用程序，可带来更好的对话
   - [Atea](https://github.com/pkamenarsky/atea)：适用于 MacOS 的简约菜单栏时间跟踪器
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：自然语言生成环境（后端：Clojure，前端：JS）
+  - [Ziggurat](https://github.com/gojek/ziggurat)：为简化Kafka上的流处理而构建的框架
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
@@ -40,7 +41,7 @@
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): 仅在访问时计算其值
   * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子保留在磁盘上
   * [Durable Queue](https://github.com/Factual/durable-queue)：队列保留在磁盘上
-  * [bifurcan](https://github.com/lacuna/bifurcan): 线性映射/集合/列表（在内存中连续存储条目），; 用 java 编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [bifurcan](https://github.com/lacuna/bifurcan): 线性映射/设置/列表（在内存中连续存储条目），; 用 java 编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
@@ -441,6 +442,7 @@
   * [triki](https://github.com/lambdaisland/trikl)
   * [zaffre](https://github.com/aaron-santos/zaffre)
   * [closh](https://github.com/dundalek/closh)
+  * [piotr-yuxuan/malli-cli](https://github.com/piotr-yuxuan/malli-cli)
   
 ## Graphviz
 
@@ -469,7 +471,7 @@
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Clojure 函数式编程和 TDD 介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 一次一个函数的介绍
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日函数”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更多高级视频.
 
 ## Websites
 

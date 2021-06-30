@@ -82,16 +82,18 @@
 - [p8](https://github.com/jozanza/p8)  - 依赖管理器和构建工具. 允许您共享代码/精灵、`require()` 依赖项以及保存时自动重新加载购物车. 适用于任何外部代码编辑器并支持 [MoonScript](https://moonscript.org/).
 - [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) - 将 MIDI 文件转换为 PICO-8 音乐的工具.
 - [midi2pico](https://github.com/gamax92/midi2pico) - MIDI 到 PICO-8 转换器.
+- [Denote](https://bikibird.itch.io/denote) - 将 MIDI 文件转换为 SFX 数据 - 交互式和基于 Web.
 - [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) - 一个简单干净的模板，可以解决全屏、鼠标问题，而且看起来不错.
 - [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - 用于生成填充图案的简单辅助工具.
 - [Depict](https://bikibird.itch.io/depict) - 使用 PICO-8 颜色将图像转换为抖动图像，并将其缩小到 128 x 128 的最大尺寸.
 - [picoCAD](https://johanpeitz.itch.io/picocad) - 一个 PICO-8 程序，用于构建和纹理低多边形 3D 模型.
 - [pico8-deploy](https://github.com/tducasse/pico8-deploy) - 一种将 PICO-8 项目导出和部署到 itch.io 的简单方法
+- [yap8b](https://github.com/Enerccio/yap8b) - 用于从多个源文件创建微型车的构建工具.
 
 ## Text Editors Language Support
 
 - 视觉工作室代码： [vscode-pico8](https://github.com/nathanchere/vscode-pico8)
-- 原子： [language-pico8](https://atom.io/packages/language-pico8)
+- Atom: [language-pico8](https://atom.io/packages/language-pico8)
 - 崇高： [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - Sublime Text 编辑器的 PICO-8 插件（配色方案、字体、构建系统、代码完成、片段...）.
 - 我来了： [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
 - Emacs： [pico8-mode](https://github.com/Kaali/pico8-mode)
@@ -118,7 +120,7 @@
 
 ## Articles & Posts
 
-- [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
+- [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - 对 PICO-8 的精彩介绍 [@ABrugsch](https://twitter.com/ABrugsch).
 
 ## Talks
 

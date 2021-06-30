@@ -1106,6 +1106,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 获取完整列表.
 * [Benthos](https://github.com/Jeffail/benthos) - 一系列协议之间的消息流桥.
 * [Bus](https://github.com/mustafaturan/bus) - 用于内部通信的极简消息总线实现.
 * [Centrifugo](https://github.com/centrifugal/centrifugo) - Go 中的实时消息传递（Websockets 或 SockJS）服务器.
+* [Chanify](https://github.com/chanify/chanify) - 推送通知服务器向您的 iOS 设备发送消息.
 * [Commander](https://github.com/jeroenrinzema/commander) - 高级事件驱动的消费者/生产者，支持各种“方言”，例如 Apache Kafka.
 * [Confluent Kafka Golang Client](https://github.com/confluentinc/confluent-kafka-go) - confluent-kafka-go 是 Confluent 用于 Apache Kafka 和 Confluent 平台的 Golang 客户端.
 * [dbus](https://github.com/godbus/dbus) - D-Bus 的本地 Go 绑定.
@@ -1351,7 +1352,7 @@ _**非官方** 一组用于构建项目的模式._
 * [mdns](https://github.com/hashicorp/mdns) - Golang 中的简单 mDNS（多播 DNS）客户端/服务器库.
 * [mqttPaho](https://eclipse.org/paho/clients/golang/) - Paho Go Client 提供了一个 MQTT 客户端库，用于通过 TCP、TLS 或 WebSockets 连接到 MQTT 代理.
 * [nbio](https://github.com/lesismal/nbio) - 用 Go 编写的高性能、非阻塞、事件驱动、易于使用、依赖最少的网络框架.
-* [NFF-Go](https://github.com/intel-go/nff-go) - 为云和裸机（原 YANFF）快速开发高性能网络功能的框架.
+* [NFF-Go](https://github.com/intel-go/nff-go) - 为云和裸机（前 YANFF）快速开发高性能网络功能的框架.
 * [packet](https://github.com/aerogo/packet)  - 通过 TCP 和 UDP 发送数据包. 如果需要，它可以缓冲消息和热插拔连接.
 * [panoptes-stream](https://github.com/yahoo/panoptes-stream) - 云原生分布式流媒体网络遥测（gNMI、Juniper JTI 和 Cisco MDT）.
 * [peerdiscovery](https://github.com/schollz/peerdiscovery) - 使用 UDP 多播进行跨平台本地对等发现的纯 Go 库.
@@ -2200,7 +2201,7 @@ _**非官方** 一组用于构建项目的模式._
 * [Bone](https://github.com/go-zoo/bone) - 闪电般快速的 HTTP 多路复用器.
 * [Bxog](https://github.com/claygod/Bxog)  - 用于 Go 的简单快速的 HTTP 路由器. 它适用于不同难度、长度和嵌套的路线. 他知道如何根据接收到的参数创建 URL.
 * [chi](https://github.com/go-chi/chi) - 建立在网络/上下文上的小型、快速和富有表现力的 HTTP 路由器.
-* [fasthttprouter](https://github.com/buaazp/fasthttprouter)  - 从`httprouter`分叉的高性能路由器. 第一个适合“fasthttp”的路由器.
+* [fasthttprouter](https://github.com/buaazp/fasthttprouter)  - 从`httprouter`分叉的高性能路由器. 第一个适合`fasthttp`的路由器.
 * [FastRouter](https://github.com/razonyang/fastrouter) - 用 Go 编写的快速、灵活的 HTTP 路由器.
 * [gocraft/web](https://github.com/gocraft/web) - Go 中的 Mux 和中间件包.
 * [Goji](https://github.com/goji/goji) - Goji 是一个简约而灵活的 HTTP 请求多路复用器，支持 `net/context`.
