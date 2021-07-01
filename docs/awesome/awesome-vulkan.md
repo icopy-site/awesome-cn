@@ -199,7 +199,7 @@ drm/kms.
    *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor)  - 来自 NVIDIA 的实时渲染框架，支持 DX12 和 Vulkan.  [BSD 3 条款]
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge)  - DirectX 12、Vulkan、macOS Metal 2 渲染框架.  [Apache 许可证 2.0]
    *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  - 现代跨平台低级图形库，支持 OpenGL/GLES、Direct3D11/12 和 Vulkan.  [Apache 许可证 2.0]
-   *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 跨平台演示框架，包括大量 Vulkan、OpenGL ES、OpenVX、OpenCL、OpenVG 和 OpenCV 示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
+   *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 跨平台演示框架，包括大量用于 Vulkan、OpenGL ES、OpenVX、OpenCL、OpenVG 和 OpenCV 的示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
    *  [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - 跨平台、图形 API 不可知、“自带引擎/框架”风格的渲染库. [[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
    *  [Cinder](https://github.com/cinder/Cinder) 和 [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007) .  [BSD]
    *  [openFrameworks](https://github.com/openframeworks-vk/openFrameworks)  - 最著名的 C++ 创意编码框架.  [麻省理工学院]
@@ -236,7 +236,7 @@ drm/kms.
    *  [Quartz](https://github.com/Nadrin/Quartz)  - 基于物理的 Vulkan RTX 路径跟踪器，具有声明性的类 ES7 场景描述语言.  [LGPL-3.0]
 
 * 科学
-   *  [datoviz](https://github.com/datoviz/datoviz)  - 使用 Vulkan 实现高性能 GPU 交互式科学数据可视化.  [麻省理工学院]
+   *  [datoviz](https://github.com/datoviz/datoviz)  - 使用 Vulkan 进行高性能 GPU 交互式科学数据可视化.  [麻省理工学院]
    *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK)  - 用于使用 Vulkan 和 VTK 后端构建手术模拟的 C++ 工具包.  [Apache 许可证 2.0]
   
 * 着色器
@@ -264,6 +264,7 @@ drm/kms.
 *  [PasVulkan](https://github.com/BeRo1985/pasvulkan) - Vulkan 绑定以及 Object Pascal [Zlib] 的高级包装库
 *  [vulkan-zig](https://github.com/Snektron/vulkan-zig) - Zig [麻省理工学院] 的火山键合发生器
 *  [VK²](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan：代码表达能力和安全性满足图形能力 [Apache License 2.0]
+*  [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings [MIT]
 
 
 ## Tools

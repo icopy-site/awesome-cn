@@ -72,9 +72,6 @@
 	<br>
 	<br>
 	<br>
-	<h2>
-		<a href="https://www.producthunt.com/posts/system-color-picker">我的颜色选择器应用程序在 Product Hunt</a>
-	</h2>
 	<br>
 	<br>
 	<a href="https://awesome.re">
@@ -89,8 +86,6 @@
 	</p>
 	<br>
 </div>
-
-**你现在可以 [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) 就在这个 repo 中.**
 
 
 
@@ -267,7 +262,7 @@
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -380,7 +375,7 @@
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - `fs` 模块的额外方法.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 找到一个 npm 包的根目录.
 - [filehound](https://github.com/nspragg/filehound) - 灵活流畅的文件系统搜索界面.
-- [move-file](https://github.com/sindresorhus/move-file) - 移动文件，甚至跨设备工作.
+- [move-file](https://github.com/sindresorhus/move-file) - 移动文件，甚至可以跨设备工作.
 - [tempy](https://github.com/sindresorhus/tempy) - 获取随机临时文件或目录路径.
 
 ### Control flow
@@ -499,7 +494,7 @@
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - 人性化 URL：http://sindresorhus.com → sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - 扩展缩短的 URL.
 - [speakingurl](https://github.com/pid/speakingurl) - 从带有音译的字符串生成一个 slug.
-- [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 unicode 支持的链接模式检测器.
+- [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 Unicode 支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) - 比 URL 和其他字符串的正则表达式字符串匹配模式更容易.
 - [embedza](https://github.com/nodeca/embedza) - 使用来自 oEmbed、Open Graph、元标记的信息从 URL 创建 HTML 片段/嵌入.
 
@@ -582,7 +577,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的 MongoDB 对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) - 与数据存储无关的工具，可显着简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  - 用于 PostgreSQL、MySQL、SQLite3 和 RESTful 数据存储的 ORM. 类似于 ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用承诺的原生 SQL PostgreSQL 框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用 Promise 的本机 SQL 的 PostgreSQL 框架.
 	- [slonik](https://github.com/gajus/slonik) - 具有严格类型、详细日志记录和断言的 PostgreSQL 客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) - 基于 SQL 查询构建器 Knex 构建的轻量级 ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) - 用于 PostgreSQL、MariaDB、MySQL、SQLite 等的 ORM.

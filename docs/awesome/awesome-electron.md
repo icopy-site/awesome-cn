@@ -42,7 +42,7 @@
 			<div>
 				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
 				<br>
-				<sup>并避免访问控制.</sup> <sup>使您的团队和服务器与多普勒同步.</sup>
+				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
 			</div>
 		</a>
 	</p>
@@ -103,7 +103,7 @@
 - [Yoda](https://github.com/whoisandie/yoda) - 浏览和下载 YouTube 视频.
 - [Loop Drop](https://github.com/mmckegg/loop-drop-app) - 用于现场电子音乐表演的 MIDI 循环器和合成器.
 - [Toby](https://github.com/frankhale/toby) - YouTube 播放器.
-- [Kaku](https://github.com/EragonJ/Kaku) - Music player.
+- [Kaku](https://github.com/EragonJ/Kaku) - 音乐播放器.
 - [Markn](https://github.com/minodisk/markn) - 降价查看器.
 - [Shiba](https://github.com/rhysd/Shiba) - 带有 linting 的实时 Markdown 预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 菜单栏中的 YouTube 音乐播放器.
@@ -135,7 +135,7 @@
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) - 自动保存便笺簿.
 - [Hawkpass](https://github.com/kalpetros/hawkpass) - 密码生成器.
-- [Gokotta](https://github.com/Zhangdroid/Gokotta) - Music player.
+- [Gokotta](https://github.com/Zhangdroid/Gokotta) - 音乐播放器.
 - [Shake](https://github.com/lumios/shake) - 日本地震预警通知.
 - [Fog](https://github.com/vitorgalvao/fog) - 非官方的阴天播客应用程序.
 - [Wmail](https://github.com/Thomas101/wmail) - 非官方 Gmail 和 Google Inbox 应用程序.
@@ -154,7 +154,7 @@
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - 图像查看器.
 - [Crypter](https://github.com/HR/Crypter) - 安全加密客户端.
 - [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用.
-- [Museeks](https://github.com/KeitIG/museeks) - Music player.
+- [Museeks](https://github.com/KeitIG/museeks) - 音乐播放器.
 - [VOX](https://github.com/fresk-nc/VOX) - 非官方的 VOX 音乐播放器.
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
 - [Marky](https://github.com/vesparny/marky) - 降价编辑器.
@@ -216,6 +216,7 @@
 - [Graviton Editor](https://github.com/Graviton-Code-Editor/Graviton-App) - 跨平台代码编辑器.
 - [Yana](https://github.com/lukasbach/yana) - 带有富文本笔记、嵌套笔记组织和全局搜索的笔记本应用程序.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - 桌面背景的实时卫星图像.
+- [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - 另类史诗游戏启动器.
 
 ### Closed Source
 
@@ -325,7 +326,7 @@
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - 用于访问 macOS 外观设置的简化 API.
 - [electron-store](https://github.com/sindresorhus/electron-store) - 保存和加载用户偏好、应用状态、缓存等数据.
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) - 可扩展的上下文菜单.
-- [electron-require](https://github.com/brrd/electron-require) - 简化的要求.
+- [electron-require](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB](https://github.com/louischatriot/nedb) - 嵌入式持久或内存数据库.
 - [RxDB](https://github.com/pubkey/rxdb) - 实时 NoSQL 数据库.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - 从 Chrome 网上应用店安装 DevTools 扩展.
@@ -355,14 +356,15 @@
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - 浏览器窗口和主进程之间的透明异步远程处理.
 - [trilogy](https://github.com/citycide/trilogy) - 支持原生 C++ 和纯 JavaScript 后端的 TypeScript SQLite 数据库层.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - 阻止广告和跟踪器.
-- [electronmon](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+- [electronmon](https://github.com/catdad/electronmon) - 在开发过程中监控和重新加载进程外的应用程序.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - 所有平台的默认菜单，易于扩展，并支持 i18n.
 - [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式.
+- [UpdateRocks!](https://www.update.rocks)  - 自动更新服务. 开源项目免费.
 
 ### Using Electron
 
 - [devtool](https://github.com/Jam3/devtool) - 使用 Chrome DevTools 调试 Node.js.
-- [nativefier](https://github.com/jiahaog/nativefier) - 创建任何网站的应用程序.
+- [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - 流包装.
 - [Nightmare](http://www.nightmarejs.org) - 高级浏览器自动化库（替代 PhantomJS）.
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从 URL、HTML 或 Markdown 文件生成 PDF.
@@ -400,7 +402,7 @@
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和改进的性能嵌入 Web 应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和改进的性能嵌入网络应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack 用 `BrowserView`、Redux、Rx 和 TypeScript 重写了他们的 Electron 应用程序，以修复其性能问题.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作 Electron 应用程序并将其发布到 Mac App Store 的过程的 5 部分系列.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - 专注于设计和代码决策以及电子安全.

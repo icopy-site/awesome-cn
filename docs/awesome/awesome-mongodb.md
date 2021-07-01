@@ -32,6 +32,7 @@
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/)  - MongoDB 公司提供的高级 MongoDB 提示和技巧. 工程师
  - [Builder Book](https://builderbook.org) - 了解如何从头开始构建全栈 JavaScript Web 应用
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
+ - [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - 如何开发有效和最佳的数据操作和分析管道
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - 基本介绍
  - [SaaS Boilerplate Book](https://builderbook.org/book) - 了解如何从头开始构建可用于生产的 SaaS Web 应用程序
 
