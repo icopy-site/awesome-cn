@@ -59,7 +59,7 @@
 - ：草莓： [Authorization plugin](https://github.com/cakephp/authorization) - 官方 CakePHP 授权栈.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)  - 使用 SOAP 或 OData 服务对 Navision® 服务进行身份验证的插件. 它包括 NTLM 身份验证等.
 - ：草莓： [CakeDC/Users plugin](https://github.com/CakeDC/users) - 完整的用户管理（管理面板、记住我等）、社交登录（FB、Twitter、LinkedIn、Google、Instagram）、RBAC、API 等.
-- [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的 Cake 3 插件，可自动使用 Cookie 对用户进行身份验证.
+- [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的 Cake 3 插件，用于使用 Cookie 自动验证用户.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - 用于分层、基于角色、简单授权的 CakePHP 插件.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - 使用 OAuth2 身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - 事件驱动行为，可轻松生成一次性安全令牌.
@@ -97,7 +97,7 @@
 *实现依赖注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于 Pimple 库的依赖注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) - 依赖注入容器插件，增加了在使用对象实例及其依赖项之前配置它们的能力，并将它们存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) - 依赖注入容器插件，增加了在使用之前配置对象实例及其依赖项的能力，并将它们存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -200,7 +200,7 @@
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) - 使您能够将控制器操作作为单个类进行管理.
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - 一个简化处理 AJAX 请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) - 带有内置管理区域的不稳定用户管理插件.
-- [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - 为您的应用程序添加枚举列表支持的插件.
+- ：草莓： [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - 为您的应用程序添加枚举列表支持的插件.
 - ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - 为您的应用程序（可变/不可变）快速生成有用的数据传输对象，替换杂乱的数组并通过类型提示和自动完成利用您的 IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  - 存储当前身份验证会话并为模拟用户创建新会话的组件. 用户无需重新登录即可恢复到原始身份验证会话.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) - Cakephp 中间件的集合.
@@ -215,7 +215,7 @@
 - [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - 监控您的应用程序的心跳（例如，数据库是否可用且是最新的）.
 - [Inertia plugin](https://github.com/ishanvyas22/cakephp-inertiajs) - Inertia.js 的服务器端适配器.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - 将秒转换为人类可读的字符串（字符串为秒），使用营业时间（1 周 = 5 天，1 天 = 8 小时）.
-- [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - 用于递归扫描链接的插件.
+- [LinkScanner plugin](https://github.com/mirko-pagliai/cakephp-link-scanner) - 用于递归扫描链接的插件.
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) - Tactician 命令总线集成工具.
 - ：草莓： [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - 维护外壳进入维护模式，所有具有可选 IP 白名单的请求.
 - ：草莓： [Shim plugin](https://github.com/dereuromark/cakephp-shim) - 包含有用垫片和改进的插件，作为您的应用程序的基础.
@@ -289,7 +289,7 @@
 - ：草莓： [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  - 提供完整API的多合一解决方案. 它包括版本控制、渲染器、CRUD、身份验证、扩展（分页、过滤器、HATEOAS）等等.
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) - 使用中间件激活 CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) - 用于将 CORS 标头添加到指定端点的轻量级插件.
-- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 用于构建的原始监听器 [JSON API](https://jsonapi.org/) 合规的 API.
+- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 用于构建的 Crud 监听器 [JSON API](https://jsonapi.org/) 合规的 API.
 - ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - 一个允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - ：草莓： [MixerApi](https://mixerapi.com) - 为您的团队 CakePHP 项目简化现代 RESTful API 的开发.
 - ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  - 此插件会根据您现有的模型和路线自动构建您的 Swagger UI 文档. 还可以使用 redoc 选项.
@@ -310,7 +310,7 @@
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) - 使加密数据类型能够存储在数据库中的简单解决方案.
 - ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - 简单、不显眼且可扩展的验证码解决方案默认提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  - 用这种行为加密你的实体数据. 加密是在 PHP 级别使用 CakePHP Security 类完成的.
-- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) - 通过额外的 UUID 而不是它们的 AIID 主键公开实体，以混淆与这些数字排序值相关联的那些 ID 和数据.
+- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) - 通过额外的 UUID 而不是 AIID 主键公开实体，以混淆与这些数字排序值相关的 ID 和数据.
 - ：草莓： [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - 使用 UUID、HashIds、Optimus、Tiny 和/或自定义混淆策略进行主键混淆/缩短.
 - ：草莓： [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - 用于速率限制 (API) 请求的插件.
 - ：草莓： [Recaptcha plugin](https://github.com/ctlabvn/Recaptcha) - 简单、轻量级的 Google Recaptcha v2.

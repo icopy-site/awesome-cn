@@ -84,17 +84,30 @@
 ## Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - 来自 BBC 的这款游戏中的户外冒险.
+- [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - 老派泡泡射击游戏.
+- [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - 在计时器用完之前将巴士停在指定的空间.
+- [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - 使用大炮摧毁这个基于物理的游戏中的各种结构.
+- [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D 乒乓球游戏.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - 通过迪士尼的 Moana 学习编程基础知识.
+- [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - 尝试击中球门并智胜守门员.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - 引导鸟通过尽可能多的管道.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - 仔细选择电源来击败一波又一波的敌舰.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) - 由几何形状构成的程式化无尽赛跑者.
+- [Garden Bloom](https://play.famobi.com/garden-bloom) - 以花园为主题的 2D 三消游戏.
+- [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D匹配3游戏.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) - 从几何形状构建的程式化的无尽赛跑者.
+- [Hoop Royale](https://play.famobi.com/hoop-royale) - 在球周围操纵环.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - 恐龙、乐高和汽车特技.
+- [Mahjong World](https://play.famobi.com/mahjong-world) - 3D麻将益智游戏.
 - [Megopoly](https://playmegopoly.com/) - 免费玩休闲策略棋盘游戏，您可以在其中投资虚拟财产.
 - [Monopoly](https://benbean.tech/monopoly-io/) - 在 3D 视频游戏中重现的经典棋盘游戏.
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - 未来派的角逐游戏.
+- [Om Nom Run](https://play.famobi.com/om-nom-run) - 无尽的跑步者.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - 在一个小世界上摧毁一波又一波的敌人.
+- [Slice Rush](https://play.famobi.com/slice-rush) - 拿起刀，穿过厨房.
+- [Stack Smash](https://play.famobi.com/stack-smash) - 摧毁所有平台以到达地面并获胜.
 - [Star Stable](https://www.starstable.com/en/register) - 流行马游戏的角色注册门户.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - 基于物理的益智游戏.
+- [TNT Bomb](https://play.famobi.com/tnt-bomb) - 用爆炸性的力量摧毁建筑物和结构.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - 在神奇岛屿上方的双翼飞机上拾取宝石.
 - [Town Star](https://gala.games) - 由 Farmville 2 创意总监打造的在线农场游戏.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - 巫毒娃娃模拟器.
@@ -140,11 +153,11 @@
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - 壁橱配置器.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - 窗口配置器.
-- [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - 温室配置器.
+- [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
 ## AR/VR/XR
 
-- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 高度逼真的室内环境展示了房间规模的 VR.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 一个高度逼真的室内环境，展示了房间规模的 VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景样式基于 WebXR 的主页.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 

@@ -126,7 +126,7 @@
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript 服务.
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 用于构建现代 Web 应用程序的 HTML5、基于 jQuery 的小部件库. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
 * [QuickApp](https://github.com/emonney/QuickApp) - 具有完整登录、用户和角色管理的 ASP.NET Core / Angular4 启动项目模板.
-* [Serenity](https://github.com/volkanceylan/Serenity) - Serenity 是一个 ASP.NET MVC / TypeScript 应用程序平台，旨在通过基于服务的架构简化和缩短以数据为中心的业务应用程序的开发.
+* [Serenity](https://github.com/volkanceylan/Serenity) - Serenity 是一个 ASP.NET MVC / TypeScript 应用程序平台，旨在通过基于服务的架构来简化和缩短以数据为中心的业务应用程序的开发.
 * [Toucan](https://github.com/mrellipse/toucan)  - 用于构建单页应用程序的样板. 服务器是围绕 SOLID 原则设计的多项目 .Net Core 解决方案. 客户端是 TypeScript 2、Vuejs 2、Vuex 2.
 
 ### Authentication and Authorization
@@ -199,7 +199,7 @@
 ### CMS
 * [Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core 是一个使用 ASP.Net Core 和 ReactJS 构建的开源 CMS，考虑到模块分离问题，并提供了最新的技术趋势，如 .Net Core、React、Webpack、SASS、后台作业、消息队列.
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET 应用程序提供常见的博客功能.
-* [Cofoundry](https://github.com/cofoundry-cms/cofoundry)  - 开源 .NET Core CMS 和模块化应用程序框架. 代码优先，不引人注目且可扩展.
+* [Cofoundry](https://github.com/cofoundry-cms/cofoundry)  - 开源 .NET Core CMS 和模块化应用程序框架. 代码优先，不显眼且可扩展.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - 我们在实时编码流期间正在处理的简单 ASP.NET Core wiki.
 * [dasblog-core](https://github.com/poppastring/dasblog-core) - 使用 ASP.NET Core 重新构想的原始 DasBlog
 * [Miniblog](https://github.com/madskristensen/Miniblog.Core) - 一个 ASP.NET Core 博客引擎.
@@ -228,7 +228,7 @@
   * [MiniCover](https://github.com/lucaslorentz/minicover) - .NET Core 的极简代码覆盖工具.
   * [NBench](https://github.com/petabridge/NBench) - .NET 应用程序的性能基准测试和测试框架.
   * [Nexogen.Libraries.Metrics](https://github.com/nexogen-international/Nexogen.Libraries.Metrics) - 用于在 .NET 中收集应用程序指标并将其导出到 Prometheus 的库.
-  * [OpenCover](https://github.com/OpenCover/opencover) - .NET 2 及更高版本的代码覆盖工具（仅限 WINDOWS 操作系统），支持 32 和 64 进程以及分支和序列点.
+  * [OpenCover](https://github.com/OpenCover/opencover) - .NET 2 及更高版本的代码覆盖工具（仅限 WINDOWS 操作系统），支持 32 和 64 进程，同时具有分支和序列点.
   * [PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor) - .NET Core 应用程序性能监视器.
   * [prometheus-net](https://github.com/prometheus-net/prometheus-net) - .NET 客户端 [https://prometheus.io](https://prometheus.io).
   * [Prometheus.Client](https://github.com/PrometheusClientNet/Prometheus.Client) - .NET 客户端 [Prometheus](https://prometheus.io).
@@ -380,7 +380,7 @@
 ### Internationalization
 * [Localization](https://github.com/aspnet/Localization) - ASP.NET Core 应用程序的本地化抽象和实现.
 * [NetCoreStack.Localization](https://github.com/NetCoreStack/Localization) - 带有实体框架和内存缓存的 .NET Core 数据库资源本地化
-* [Westwind.Globalization](https://github.com/RickStrahl/Westwind.Globalization) - .NET 应用程序的数据库驱动资源本地化.
+* [Westwind.Globalization](https://github.com/RickStrahl/Westwind.Globalization) - Database driven resource localization for .NET applications.
 
 ### IOC
 * [AutoDI](https://github.com/Keboo/AutoDI) - 使用 IL 编织的超快速编译时依赖注入.
@@ -468,6 +468,7 @@
 * [Dotnet outdated](https://github.com/dotnet-outdated/dotnet-outdated) - 用于显示和更新项目中过时的 NuGet 包的 .NET Core 全局工具
 * [Dotnet Script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 * [Dotnet Serve](https://github.com/natemcmaster/dotnet-serve) - 用于 .NET Core CLI 的简单命令行 HTTP 服务器.
+* [Downloader](https://github.com/bezzad/Downloader)  - Downloader 是一个现代、流畅、异步、可测试和可移植的 .NET 库. 这是一个具有异步进度事件的多部分下载器.
 * [Eighty](https://github.com/benjamin-hodgson/Eighty) - 一个简单的 HTML 生成库
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) - 用于委托的快速 ExpressionTree 编译器.
@@ -550,7 +551,7 @@
   * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) - Dapper 的 CRUD.
 * [FreeSql](https://github.com/2881099/FreeSql) - dotnet 中方便的 ORM，支持 Mysql、Postgresql、SqlServer、Oracle 和 Sqlite.
 * [Limebean](https://nick-lucas.github.io/LimeBean/)  - 混合 ORM，旨在易于使用且不会完全隐藏 SQL，同时具有您期望从 ORM 中获得的所有优点. 受 RedBeanPHP 的启发.
-* [LINQ to DB (linq2db)](https://linq2db.github.io/) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供了一个简单、轻量、快速且类型安全的层，适用于 10 多个具有完整 SQL 支持的数据库引擎.
+* [LINQ to DB (linq2db)](https://linq2db.github.io/) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供了一个简单、轻量级、快速且类型安全的层，适用于 10 多个具有完整 SQL 支持的数据库引擎.
 * [nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate 对象关系映射器.
 * [NEventStore](https://github.com/NEventStore/NEventStore)  - 使用事件溯源作为存储机制时，用于抽象不同存储实现的持久性库. 该库是专门针对 DDD/CQRS 应用程序开发的.
 * [NPoco](https://github.com/schotime/NPoco)  - 将查询结果映射到 POCO 对象的简单 microORM. 基于 Schotime 的 PetaPoco 分支的项目.
@@ -711,7 +712,7 @@
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - 适用于 .Net Core 和 .Net Framework 4.5+ 的可组合 CLI（命令行）参数解析器.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储在单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行的操作、错误/延迟的随机生成和实验性 GraphQL 支持.
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - 为您的项目创建有用的 .gitignore 文件 [https://www.gitignore.io](https://www.gitignore.io).
-* [ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore) - 扫描上传的 packages.config 文件或 GitHub 存储库，并确定 nuget 包是否针对 .NET Standard.
+* [ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore) - 扫描上传的 packages.config 文件或 GitHub 存储库，并确定 nuget 包是否面向 .NET Standard.
 * [json2csharp](http://json2csharp.com) - Generate C# classes from JSON.
 * [letsencrypt-win-simple](https://github.com/Lone-Coder/letsencrypt-win-simple) - 适用于 Windows 的简单 ACME 客户端.
 * [Linq_Faster](https://github.com/jackmott/LinqFaster)  - 类似 Linq 的数组、跨度扩展函数<T> , 和列表<T>更快，分配更少.
@@ -810,7 +811,7 @@
   * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - 带有 DDD、CQRS 和事件源的完整 ASP.NET Core 2.0 应用程序.
   * [GenVue](https://github.com/herbat73/GenVue) - 一个可托管的 Web 应用程序，允许机密用户上传和共享基于 Vue.js、Vuetifyjs 和 NetCore WebAPI 堆栈构建的私有文件
   * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - 如何在 Microsoft Azure 上的多租户应用程序中管理用户身份，使用 Azure Active Directory 进行身份验证.
-  * [JustA.ML](https://github.com/mustakimali/JustA.ML)  - 一个 Web 应用程序，可让您在以 ASP.NET Core 2.0 编写的设备之间共享文件/URL/文本. 开源，活在 [https://justa.ml](https://justa.ml)
+  * [JustA.ML](https://github.com/mustakimali/JustA.ML)  - 一个 Web 应用程序，可让您在使用 ASP.NET Core 2.0 编写的设备之间共享文件/URL/文本. 开源，活在 [https://justa.ml](https://justa.ml)
   * [MegaMine](https://github.com/Nootus/MegaMine) - 开源挖矿解决方案，帮助矿工提取黄金、石英、花岗岩等.该解决方案是使用 ASP.NET Core 和 AngularJS 构建的，以微服务的方式利用多个轻量级组件.
   * [MusicStore](https://github.com/dotnet/aspnetcore/tree/master/src/MusicStore) - 使用 MVC 和实体框架的示例 MusicStore 应用程序.
   * [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) - NLayerAppV3 N-Layered Architecture with .NET Core Preview 2.

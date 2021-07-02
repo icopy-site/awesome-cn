@@ -42,11 +42,12 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [OpenGameArt](http://opengameart.org/) - 用于免费软件游戏项目的媒体存储库.
 - ：钱袋子： [Oryx Design Lab](http://oryxdesignlab.com/) - 便宜的高品质免版税精灵
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - 免费的高分辨率纹理、画笔和照片
+- ：自由： [Poly Pizza](https://poly.pizza) - 6000 多个免费低多边形模型
 - ：自由： [Reiner's Tilesets](http://www.reinerstilesets.de/) - 一个包含免费 2D 和 3D 图形的博客.
 - ：自由： [Sketchfab](https://sketchfab.com/) - 发布和嵌入交互式 3D 模型.
 - ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - 一组静态和动画图形对象（通常也称为精灵）.
 - ：自由： [StickyPNG](http://www.stickpng.com/) - 免费透明的 PNG 图像.
-- ：自由： [TextureHaven](https://texturehaven.com/)  - 带有额外贴图（如置换贴图和凹凸贴图）的免费纹理. 还有 HDRI.
+- ：自由： [TextureHaven](https://texturehaven.com/)  - 带有额外贴图的免费纹理，如置换贴图和凹凸贴图. 还有 HDRI.
 - ：自由： [TextureKing](http://www.textureking.com/) - 免费材料库存纹理
 - :money_with_wings: [Vecteezy](http://www.vecteezy.com/) - 免费矢量艺术.
 
@@ -88,7 +89,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [ArrayPainter](http://arraypainter.com/) - Array Painter 是使二维数组准备好复制粘贴到您自己的程序中的最简单和最快的方法.
 - ：钱袋子： [AutoTileGen](http://pixelatto.com) - AutoTileGen 是用于 2D 游戏地形的自动图块集生成器.
 -： 然后： [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk 是独立开发者的开源 2D 关卡编辑器，非常注重用户友好性.
--： 然后： [OGMO Editor](https://ogmo-editor-3.github.io/)- 通用关卡编辑器.
+-： 然后： [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 -： 然后： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - 具有引擎不可知论哲学的 2D 关卡和 UI 编辑器.
 -： 然后： [Tiled](http://www.mapeditor.org/) - 免费、易于使用且灵活的瓷砖地图编辑器.
 
@@ -164,7 +165,7 @@ _一套游戏框架、引擎和平台_
 - ：自由： [Agen](http://2dengine.com) - 使用 Lua 制作 2D 游戏的跨平台框架，兼容 iOS、Mac 和 Windows 设备.
 -： 然后： [Allegro](http://liballeg.org/) - Allegro 4 &amp; 5 是跨平台、开源的游戏编程库，主要面向 C 和 C++ 开发人员.
 -： 然后： [Amethyst](https://www.amethyst.rs/) - 使用 `gfx-rs` 用 Rust 为 2D 和 3D 编写的数据驱动游戏引擎.
--： 然后： [amulet](http://www.amulet.xyz/)  - 一个免费的基于 Lua 的音频/视频工具包，适用于小游戏和实验. 它可以在 Windows、Mac、Linux、HTML5 和 iOS 上运行.
+-： 然后： [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 -： 然后： [Astera](https://github.com/tek256/astera) - 2D C99 跨平台游戏库/框架
 -： 然后： [Azul3D](http://azul3d.org/) - 用 Go 编写的 3D 引擎.
 -： 然后： [Babylon.js](https://www.babylonjs.com/) - Javascript 3D 库.
@@ -187,13 +188,13 @@ _一套游戏框架、引擎和平台_
 - ：钱袋子： [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体化 3D 游戏引擎.非常易于使用.
 -： 然后： [Coquette](http://coquette.maryrosecook.com/)  - JavaScript 游戏的微框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
 - ：自由： [Corona SDK](https://coronalabs.com/) - 适用于 iOS 和 Android 的跨平台移动应用程序开发.
--： 然后： [Dash](https://github.com/Circular-Studios/Dash) - 一个用 D 编写的免费和开放的 3D 游戏引擎.
+-： 然后： [Dash](https://github.com/Circular-Studios/Dash) - 用 D 编写的免费开放 3D 游戏引擎.
 -： 然后： [Dear Imgui](https://github.com/ocornut/imgui/) - 具有最小依赖性的 C++ 无膨胀立即模式 GUI.
 - ：自由： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
 -： 然后： [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - 从具有纹理、法线贴图、glTF、OBJ、STL 支持的真实数据生成地形
 -： 然后： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - 支持 Direct3D11、Direct3D12、OpenGL/GLES 和 Vulkan 的现代跨平台低级图形库.
 -： 然后： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
--： 然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - 八位通用角色扮演引擎
+-： 然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
 -： 然后： [ENGi](https://github.com/ajhager/engi) - 用于围棋的多平台 2D 游戏库.
 -： 然后： [engo](https://engoengine.github.io/) - Engo 是一个用 Go 编写的开源 2D 游戏引擎.
 -： 然后： [Ebiten](https://ebiten.org/) - Go 中一个死简单的 2D 游戏库.
@@ -229,9 +230,9 @@ _一套游戏框架、引擎和平台_
 - ：自由： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google 的 Android 的 3D 引擎.
 -： 然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净轻便的 2D 游戏框架
 -： 然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中使用粗像素制作 2D 游戏的框架
--： 然后： [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
+-： 然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
 -： 然后： [Kivy](http://kivy.org) - 跨平台 Python 框架，用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏
--： 然后： [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+-： 然后： [KogGE](https://korge.soywiz.com)  - Kotlin 的现代多平台游戏引擎. 使用 Kotlin 立即为 JVM、JavaScript、Android 和 iOS 编写游戏.
 -： 然后： [KiwiJS](http://www.kiwijs.org/)  - 一个有趣且友好的开源 HTML5 游戏引擎. 有人称它为 HTML5 游戏引擎的 WordPress
 -： 然后： [LibGDX](https://libgdx.com/) - 强大（完全免费）的 Java 库，编写一次代码即可在桌面、Android、Web 和 iOS 上运行游戏.
 -： 然后： [LimeJS](http://www.limejs.com/) - HTML5 游戏框架，用于为所有现代触摸屏和
@@ -265,7 +266,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 -： 然后： [PandaJS](http://www.pandajs.net/) - 开源 HTML5 引擎.
 -： 然后： [Phaser](http://phaser.io/) - 免费且快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
--： 然后： [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
+-： 然后： [phina.js](http://phinajs.com/) - 一个 JavaScript 游戏库，可以轻松创建游戏和工具.
 -： 然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - 旨在模拟您最喜欢的 8 位控制台的框架.
 -： 然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 以提高性能. 如果不支持 WebGL，引擎将回退到标准画布.
@@ -276,7 +277,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [PuzzleScript](http://www.puzzlescript.net/) - 开源 HTML5 益智游戏引擎.
 -： 然后： [PyGame](http://pygame.org/hifi.html) - Python 中的 2D 游戏引擎.
 - ：钱袋子： [RPGMaker](http://www.rpgmakerweb.com/) - 用于开发角色扮演游戏的系列程序.
--： 然后： [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 引擎
+-： 然后： [Rajawali](https://github.com/Rajawali/Rajawali) - 安卓 OpenGL ES 2.0/3.0 引擎
 -： 然后： [raylib](https://www.raylib.com/) - 一个简单易用的库，用于享受视频游戏编程，使用 OpenGL（1.1、2.1、3.3 或 ES 2.0）加速硬件
 -： 然后： [Ren'Py](http://www.renpy.org/)  - 一个开源的视觉小说引擎，使用简化形式的 Python 语言. 它支持 Windows、Mac OS X、Linux、Android 和 iOS.
 -： 然后： [Rpgboss](http://rpgboss.com)  - 基于 Scala 和 libgdx 的 2d RPG 游戏引擎和编辑器. 易于使用，无需编程知识.

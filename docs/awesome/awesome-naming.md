@@ -63,7 +63,7 @@ Famously...
 ## Machine Learning
 
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - 分类器“混淆”的表格摘要，即它认为做出正确预测而实际上没有做出正确预测的频率.
-- [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary)  - 划分可能数据点空间的边界. 在这里你决定，这一边的一切都是垃圾邮件，那一边的一切都不是. 
+- [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not. 
 
 ## User Interface Design
 
@@ -78,7 +78,7 @@ Famously...
 
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem)  - 在具有友谊关系的人的网络中寻找共同朋友群的问题. 或者更一般地说，找到完整的子图.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - 一个游戏世界，展示了非常简单的成分可以产生惊人的复杂性.
-- [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - 一个黑匣子，即使是像停机问题这样的不可解释的问题，它也能神奇地给出答案. 
+- [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - 一个黑匣子，它甚至可以神奇地回答诸如停机问题之类的不可解释的问题. 
 - [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - 事实上，在某些形式语言中，任何足够长的字符串都可以通过其子字符串的重复被 _pumped_，并且结果保持在相同的形式语言中.
 
 ## Other
@@ -89,10 +89,11 @@ Famously...
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - 一个隐藏的功能，特别是在与复活节彩蛋狩猎相关的视频游戏中.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - 这种表示可以通过让小数点 _float_ 而不是固定在适当的位置，以有限的数字量以非常不同的幅度编码数字.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - 在软件架构中（如在实际架构中），框架提供了基本结构以建立在该指南的基础上并限制进一步的开发.
-- [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
+- [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)) - 尝试查找和回收不再使用的垃圾内存的程序的一部分.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - 积木和乐高积木不共享相同的界面，但您始终可以将它们粘在一起.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)  - 当人们试图研究它时似乎消失或改变的错误. 这是对 Werner Heisenberg 的双关语，他发现观察量子系统的行为不可避免地会改变它们的状态.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - 一种评估策略，它暂停评估，直到绝对有必要，然后再也不做.
+- [Magic](https://en.wikipedia.org/wiki/Magic_(programming) ) - 一个神奇的程序/一段代码正在做它的工作，但没有人知道如何. 就像在现实中一样，魔法实际上并不存在. 一旦你理解了它，它就不再是魔法了.
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - 一个进程永远被拒绝资源来完成它的工作的问题.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - 追溯源代码以了解执行情况，有时甚至更改历史记录.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - 摇动依赖树，直到所有死部分都掉下来，你最终会得到一棵漂亮的瘦树.
