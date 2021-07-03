@@ -119,7 +119,7 @@
 ### Driver layer
 
 - [Autoware.IO](https://www.autoware.io/) - Autoware.IO 提供异构硬件参考平台，并能够将成员公司的解决方案集成到支持 Autoware.Auto 和 Autoware.AI 软件堆栈的平台上.
-- [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - 带有 xmlrpc 的 ros2 接口包，使用 Sesto API 与 Sesto 服务器通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
+- [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - 带有 xmlrpc 的 ros2 接口包，使用 Sesto API 与 Sesto 服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - 用于 ROS2 的非官方 Anki Cozmo 节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 球体驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
 - [flock2](https://github.com/clydemcqueen/flock2) - DJI Tello 无人机的 ROS2 驱动程序. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
@@ -186,7 +186,7 @@
 - [rmw_coredx](https://github.com/tocinc/rmw_coredx) - 用于 ROS2 的 CoreDX DDS 集成层. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
 - [rmw_freertps](https://github.com/ros2/rmw_freertps) - 使用 freertps 实现 RMW. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg)
 - [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - 使用 Eclipse zenoh 实现 RMW：零开销发布/订阅、存储/查询和计算. ![esteve/rmw_zenoh](https://img.shields.io/github/stars/esteve/rmw_zenoh.svg)
-- [rcutils](https://github.com/ros2/rcutils) - ROS 2 中使用的常用 C 函数和数据结构. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
+- [rcutils](https://github.com/ros2/rcutils) - ROS 2 中常用的 C 函数和数据结构. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) - 一个免费的、可移植的、极简主义的、正在进行中的 RTPS 实现. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - 用于 Eclipse Cyclone DDS 的 ROS2 RMW 层. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
 - [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - ROS2 RMW 层用于 [zenoh](https://zenoh.io).
@@ -277,6 +277,7 @@
   - [Autoware Course Lecture 10: State Estimation for Localization](https://www.youtube.com/watch?v=g2YURb-d9vY)
   - [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
   - [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
+- [ROS2-Industrial training material](https://github.com/ros-industrial/ros2_i_training)
 
 ## Presentations
 

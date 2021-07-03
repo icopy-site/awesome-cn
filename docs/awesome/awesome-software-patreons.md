@@ -82,7 +82,7 @@ _使用开源许可证发布的项目._
 - [Termux](https://www.patreon.com/termux) - 安卓终端模拟器.
 - [The Lounge](https://opencollective.com/thelounge) - 现代网络 IRC 客户端. 
 - [Thirty Bees](https://forum.thirtybees.com/support-thirty-bees/) - 电子商务软件. 
-- [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
+- [Tiled](https://www.patreon.com/bjorn) - 一个 2D 游戏关卡编辑器. 
 - [Transmission](https://transmissionbt.com/donate/) - BitTorrent 客户端.
 - [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) - 类似于 Go 的静态类型编译编程语言，受 Oberon、Rust、Swift 的影响.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - VLC 视频播放器的制造商.
@@ -102,7 +102,7 @@ _库和框架._
 - [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript 图表库.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) - 将 40 多种 3D 文件格式加载到一个统一且干净的数据结构中，供游戏开发人员使用.
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript 编译器.
-- [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - C++ 的立即模式图形用户界面.
+- [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 - [Hapi.js](https://opencollective.com/hapijs) - Node.js 框架.
 - [HaxeUI](https://www.patreon.com/haxeui) - 用户界面工具包.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP 框架.
@@ -147,6 +147,7 @@ _游戏和游戏相关项目._
 - [Battle for Wesnoth](https://liberapay.com/Wesnoth) - 回合制策略游戏.
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于 Windows 的 Xbox 模拟器.
+- [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/龙与地下城和NPC生成器.
 - [Libretro Team](https://www.patreon.com/libretro) - Libretro、RetroArch 和 Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - 游戏启动器和平台.
 - [Play!](https://www.patreon.com/jpd002) - PS2模拟器.
@@ -192,7 +193,7 @@ _为要求支持他们工作的多个项目做出贡献的开发人员._
 - [James 'Purpleidea'](https://github.com/users/purpleidea/sponsorship) - 管理配置、文章等.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - 创建 C++ 库和标准提案.
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex、keysafe、其他 Linux 软件.
-- [Johann-S](https://github.com/sponsors/Johann-S) - Bootstrap JavaScript 开发人员和各种插件和项目.
+- [Johann-S](https://github.com/sponsors/Johann-S) - Bootstrap JavaScript 开发人员以及各种插件和项目.
 - [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) - Hyperapp 和许多其他 JavaScript 项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - 各种 C++ 库、工具、文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - GIMP、OpenSimulator、KiCad 和 TinyScheme 等项目的贡献者.

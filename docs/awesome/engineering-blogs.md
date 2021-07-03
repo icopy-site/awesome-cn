@@ -119,6 +119,7 @@
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
+* 信用业力 https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
 * CSC - IT 科学中心 - 云团队 https://cloud.blog.csc.fi/
@@ -198,7 +199,7 @@
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
-* 触觉 https://haptik.ai/tech/
+* Haptik https://haptik.ai/tech/
 * 哈利的 http://engineering.harrys.com/
 * HashiCorp https://www.hashicorp.com/blog/
 * 哈希节点 https://engineering.hashnode.com/
@@ -624,7 +625,7 @@
 * Jon Skeet https://codeblog.jonskeet.uk/
 * Jonas Plum https://blog.cugu.eu/
 * 乔纳森·德克蒂亚尔 http://www.born2data.com/
-*乔纳森·斯努克 https://snook.ca/
+* 乔纳森·斯努克 https://snook.ca/
 * 乔什·哈伯曼 http://blog.reverberate.org/
 * 乔什·谢尔曼 https://joshtronic.com/
 * Juan Treminio https://jtreminio.com

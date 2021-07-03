@@ -167,7 +167,7 @@ Sponsors
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - 免费的基于 Web 的 HTTP 客户端发送 HTTP 请求.
   * [FraudLabs Pro](https://www.fraudlabspro.com)  — 筛选信用卡支付欺诈的订单交易. 此 REST API 将根据订单的输入参数检测所有可能的欺诈特征. 免费微计划每月有 500 笔交易.
   * [FreeGeoIP.app](https://freegeoip.app/)  - 完全免费的地理 IP 信息（JSON、CSV、XML）. 无需注册，每小时 15000 次查询速率限制.
-  * [GeoDataSource](https://www.geodatasource.com)  — 使用经纬度坐标查找城市名称的位置搜索服务. 每月最多 500 次免费 API 查询.
+  * [GeoDataSource](https://www.geodatasource.com) — Location search service lookup for city name by using latitude and longitude coordinate. Free API queries up to 500 times per month.
   * [Glitterly](https://glitterly.app/)  - 从基本模板以编程方式生成动态图像.  Restful API 和 nocode 集成. 免费套餐每月提供 50 张图片和 5 个模板.
   * [Hookbin](https://hookbin.com/)  - 创建唯一的（公共或私有）端点来收集、解析和检查 HTTP 请求. 检查标题、正文、查询字符串、cookie、上传的文件等.对于测试/检查 webhook 很有用. 类似于 RequestBin 和 Webhook.site.
   * [Hoppscotch](https://hoppscotch.io) - 免费、快速且美观的 API 请求构建器.
@@ -314,6 +314,7 @@ Sponsors
   * [sanity.io](https://www.sanity.io/)  – 使用 React 构建的可定制 MIT 许可编辑器为结构化内容托管后端. 无限项目.  3 个用户，2 个数据集，500k API CDN 请求，每个项目免费 5GB 资产
   * [sensenet](https://sensenet.com)  - API 优先的无头 CMS，为各种规模的企业提供企业级解决方案. 开发者计划提供 3 个用户、500 个内容项、3 个内置角色、25+5 种内容类型、完全可访问的 REST API、文档预览生成和 Office Online 编辑.
   * [GraphCMS](https://graphcms.com/)  - 为小型项目提供免费套餐.  GraphQL 第一个 API. 从传统解决方案转向 GraphQL 原生 Headless CMS - 并首先提供全渠道内容 API.
+  * [Squidex](https://squidex.io/)  - 为小型项目提供免费套餐. 首先是 API / GraphQL. 开源，并基于事件源（自动处理每个更改）.
 
 
 ## Code Quality
@@ -443,7 +444,7 @@ Sponsors
   * [Have I been pwned?](https://haveibeenpwned.com) — 用于获取违规信息的 REST API.
   * [Internet.nl](https://internet.nl) — 测试现代互联网标准，如 IPv6、DNSSEC、HTTPS、DMARC、STARTTLS 和 DANE
   * [Jumpcloud](https://jumpcloud.com/)  — 提供类似于 Azure AD、用户管理、单一登录和 RADIUS 身份验证的目录即服务. 最多 10 个用户免费.
-  * [keychest.net](https://keychest.net) - SSL 到期管理和证书购买与集成 CT 数据库
+  * [keychest.net](https://keychest.net) - SSL expiry management and cert purchase with an integrated CT database
   * [letsencrypt.org](https://letsencrypt.org/) — 免费的 SSL 证书颁发机构，其证书受到所有主要浏览器的信任
   * [LoginRadius](https://www.loginradius.com/) — Managed User Authentication service for free. Email registration and 3 social providers.
   * [logintc.com](https://www.logintc.com/) — 通过推送通知进行双因素身份验证 (2FA)，10 个用户免费，VPN、网站和 SSH
@@ -567,7 +568,7 @@ Sponsors
   * [statuscake.com](https://www.statuscake.com/) - 网站监控，无限制的免费测试
   * [statusgator.com](https://statusgator.com/) — 状态页面监控，3 台显示器免费
   * [thousandeyes.com](https://www.thousandeyes.com/)  — 网络和用户体验监控. 主要网络服务的 3 个位置和 20 个数据源免费
-  * [thundra.io/apm](https://www.thundra.io/apm) — Application monitoring and debugging. Has a free tier up to 250k monthly invocations.
+  * [thundra.io/apm](https://www.thundra.io/apm)  — 应用程序监控和调试. 拥有每月最多 25 万次调用的免费套餐.
   * [uptimerobot.com](https://uptimerobot.com/) — 网站监控，50 台免费监控
   * [uptimetoolbox.com](https://uptimetoolbox.com/) — 免费监控 5 个网站，60 秒间隔，公共状态页面.
   * [zenduty.com](https://www.zenduty.com/)  — 面向网络运营、站点可靠性工程和 DevOps 团队的端到端事件管理、警报、待命管理和响应编排平台. 最多 5 个用户免费.
@@ -715,7 +716,7 @@ Sponsors
   * [Cloudflare](https://www.cloudflare.com/)
     * CDN 和免费 SSL
     * 无限数量的域的免费 DNS
-    * 防火墙规则和页面规则
+    * Firewall rules and pagerules
     * 分析
     * [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) — 通过 Argo Tunnel 向公众公开本地 HTTP 服务器.
     * [Cloudflare Pages](https://pages.cloudflare.com/)  — 免费网络托管（JAMstack 平台），供前端开发人员协作和部署网站. 一次构建 1 个，每月 500 个构建，无限站点，无限请求，无限带宽.
@@ -822,7 +823,7 @@ Sponsors
   * [heliohost.org](https://www.heliohost.org) — 社区为每个人提供免费托管.
   * [hostman.com](https://hostman.com) — 从您的 GitHub 存储库免费部署最多 3 个静态站点.
   * [neocities.org](https://neocities.org) — 静态、1 GB 免费存储空间和 200 GB 带宽.
-  * [netlify.com](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
+  * [netlify.com](https://www.netlify.com/) — 免费构建、部署和托管静态站点/应用程序，100 GB 数据和 100 GB/月带宽.
   * [commons.host](https://commons.host/)  - 静态网络托管和 CDN.100% 免费和开源软件 (FOSS). 使用商业上可持续的软件即服务 (SaaS) 来资助研发.
   * [pantheon.io](https://pantheon.io/)  — Drupal 和 WordPress 托管、自动化 DevOps 和可扩展的基础架构. 开发商和代理商免费
   * [readthedocs.org](https://readthedocs.org/) — 带有版本控制、PDF 生成等功能的免费文档托管
@@ -891,7 +892,7 @@ Sponsors
    * [MemCachier](https://www.memcachier.com/)  — 托管 Memcache 服务. 免费提供高达 25MB、1 个代理服务器和基本分析
    * [scalingo.com](https://scalingo.com/) — 主要是 PaaS，但提供 128MB 到 192MB 的 MySQL、PostgreSQL 或 MongoDB 免费层
    * [SeaTable](https://seatable.io/)  — 由 Seafile 团队构建的灵活的、类似电子表格的数据库. 无限表，2,000 行，1 个月版本控制，最多 25 名团队成员.
-   * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
+   * [skyvia.com](https://skyvia.com/) — 云数据平台，提供免费套餐，所有计划在测试阶段完全免费
    * [StackBy](https://stackby.com/)  — 一种将电子表格的灵活性、数据库的强大功能以及与您最喜爱的业务应用程序的内置集成结合在一起的工具. 免费计划包括无限用户、10 个堆栈、每个堆栈 2GB 的附件.
    * [InfluxDB](https://www.influxdata.com/) — 时间序列数据库，释放高达 3MB/5 分钟的写入、30MB/5 分钟的读取和 10,000 个基数系列
    * [Quickmetrics](https://www.quickmetrics.io/) — 包含仪表板的时间序列数据库，每天最多可释放 10,000 个事件和总共 5 个指标.
@@ -927,7 +928,7 @@ Sponsors
    * [Clubhouse](https://clubhouse.io/)  - 项目管理平台. 最多 10 位用户永远免费
    * [Codegiant](https://codegiant.io)  — 使用存储库托管和 CI/CD 进行项目管理. 免费计划为 5 名团队成员提供无限的存储库、项目和文档. 每月 500 CI/CD 分钟. 每月 30000 次无服务器代码运行分钟.1GB 存储库存储.
    * [Confluence](https://www.atlassian.com/software/confluence)  - Atlassian 的内容协作工具用于帮助团队高效协作和共享知识. 免费计划最多 10 个用户.
-   * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
+   * [contriber.com](https://www.contriber.com/) — 可定制的项目管理平台、免费的入门计划、5 个工作区
    * [draw.io](https://www.draw.io/)  — 本地存储在 Google Drive、OneDrive 或 Dropbox 中的在线图表. 所有功能和存储级别免费
    * [freedcamp.com](https://freedcamp.com/)  - 任务、讨论、里程碑、时间跟踪、日历、文件和密码管理器. 具有无限项目、用户和文件存储空间的免费计划.
    * [easyretro.io](https://www.easyretro.io/) — 免费的简单直观的 sprint 回顾工具
@@ -1094,14 +1095,14 @@ Sponsors
 
 ## IDE and Code Editing
 
-   * [3v4l](https://3v4l.org/) - Free online PHP shell and snippet sharing site, runs your code in 300+ PHP versions
+   * [3v4l](https://3v4l.org/) - 免费在线 PHP shell 和代码片段共享站点，在 300 多个 PHP 版本中运行您的代码
    * [Android Studio](https://d.android.com/studio)  — Android Studio 为在各种类型的 Android 设备上构建应用程序提供了最快的工具. 开源 IDE，对所有人免费，是开发 Android 应用程序的最佳选择. 适用于 Windows、Mac、Linux 甚至 ChromeOS！
    * [Apache Netbeans](https://netbeans.apache.org/) — 开发环境、工具平台和应用程序框架.
    * [apiary.io](https://apiary.io/) — 具有即时 API 模拟和生成文档的协作设计 API（对于具有一个管理员帐户和托管文档的无限 API 蓝图和无限用户免费）.
    * [Atom](https://atom.io/) - Atom 是一个基于 Electron 的可破解文本编辑器.
    * [BlueJ](https://bluej.org)  — 为初学者设计的免费 Java 开发环境，全球数百万人使用. 由 Oracle 和简单的 GUI 提供支持，以帮助初学者.
    * [Bootify.io](https://bootify.io/) - 带有自定义数据库和 REST API 的 Spring Boot 应用程序生成器.
-   * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages.
+   * [cacher.io](https://www.cacher.io) — 带有标签的代码片段组织器，支持 100 多种编程语言.
    * [Code::Blocks](https://codeblocks.org)  — 免费的 Fortran 和 C/C++ IDE. 开源并在 Windows、macOS 和 Linux 上运行.
    * [codesnip.com.br](https://codesnip.com.br)  — 带有类别、搜索和标签的简单代码片段管理器. 免费且无限制.
    * [cocalc.com](https://cocalc.com/)  —（以前在 cloud.sagemath.com 上的 SageMathCloud）— 云中的协作计算. 浏览器访问完整的 Ubuntu，内置协作和许多免费的数学、科学、数据科学软件，预装：Python、LaTeX、Jupyter Notebooks、SageMath、scikitlearn 等.
@@ -1176,6 +1177,7 @@ Sponsors
    * [hotjar.com](https://www.hotjar.com/) — 每个站点：每天 2,000 页浏览量，3 个热图，数据存储 3 个月，...
    * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
    * [livesession.io](https://livesession.io/) — 1 个网站每月免费 1,000 次会话
+   * [Microsoft Clarity](https://clarity.microsoft.com/) - 会话录音完全免费，“无流量限制”、无项目限制、无采样
    * [mouseflow.com](https://mouseflow.com/) — 100 sessions/month free for 1 website
    * [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
    * [smartlook.com](https://www.smartlook.com/) — 网络和移动应用程序的免费包（1500 个会话/月）、3 个热图、1 个漏斗、1 个月的数据历史记录
@@ -1186,7 +1188,7 @@ Sponsors
 
 ## International Mobile Number Verification API and SDK
 
-  * [cognalys.com](https://cognalys.com/)  — 通过创新且可靠的方法验证免费增值手机号码，而不是使用 SMS 网关. 每天免费 10 次尝试和 15 次验证
+  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
   * [numverify.com](https://numverify.com/)  — 全球电话号码验证和查找 JSON API.  250 个 API 请求/月
   * [veriphone.io](https://veriphone.io/)  — 免费、快速、可靠的 JSON API 中的全球电话号码验证.  1000 次请求/月
 
@@ -1231,7 +1233,7 @@ Sponsors
 
 ## Commenting Platforms
   * [Staticman](https://staticman.net/) - Staticman 是一个 Node.js 应用程序，它接收用户生成的内容并使用拉取请求将其作为数据文件上传到 GitHub 和/或 GitLab 存储库.
-  * [GraphComment](https://graphcomment.com/) - GraphComment 是一个评论平台，可帮助您从网站的受众中建立一个活跃的社区.
+  * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from website’s audience.
   * [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、维基页面等！
   * [Disqus](https://disqus.com/) - Disqus 是一个网络社区平台，被整个网络上的数十万个站点所使用.
 
@@ -1284,7 +1286,7 @@ Sponsors
   * [readme.com](https://readme.com/) — 漂亮的文档变得简单，开源免费.
   * [redirection.io](https://redirection.io/) — 用于管理企业、营销和 SEO 的 HTTP 重定向的 SaaS 工具.
   * [redirect.pizza](https://redirect.pizza/)  - 通过 HTTPS 支持轻松管理重定向. 免费计划包括每月 10 个来源和 100.000 次点击.
-  * [ReqBin](https://www.reqbin.com/)  — 在线发布 HTTP 请求. 流行的请求方法包括 GET、POST、PUT、DELETE 和 HEAD. 支持标头和令牌认证. 包括用于保存您的请求的基本登录系统.
+  * [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
   * [superfeedr.com](https://superfeedr.com/)  — 实时符合 PubSubHubbub 的提要、导出、分析. 免费少定制
   * [SurveyMonkey.com](https://www.surveymonkey.com)  — 创建在线调查. 在线分析结果. 免费计划每项调查仅允许 10 个问题和 100 个回复.
   * [videoinu](https://videoinu.com) — 在线创建和编辑屏幕录像和其他视频.
