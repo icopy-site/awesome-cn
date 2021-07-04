@@ -86,7 +86,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Tar 存档格式的读者和作者
  * [Gzip](https://crystal-lang.org/api/Compress/Gzip.html) - gzip 格式的读者和作者 (Crystal stdlib)
- * [polylines.cr](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
+ * [polylines.cr](https://github.com/BuonOmo/polylines.cr) — 一系列坐标的压缩
  * [snappy](https://github.com/naqvis/snappy) - 用于 Crystal 的 Snappy 压缩格式读写器
  * [Zip](https://crystal-lang.org/api/Compress/Zip.html) - zip 格式的读者和作者 (Crystal stdlib)
  * [Zlib](https://crystal-lang.org/api/Compress/Zlib.html) - zlib 格式的读取器和写入器（Crystal stdlib）
@@ -240,7 +240,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 一种用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 一种令人耳目一新的前端 Web 编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
+ * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
@@ -300,6 +300,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth 消费者（Crystal stdlib）
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 客户端（水晶标准库）
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - 绑定到 libssl (Crystal stdlib)
+ * [simple_rpc](https://github.com/kostya/simple_rpc)  - Crystal 的 RPC 服务器和客户端. 实现 msgpack-rpc 协议
  * [stomp](https://github.com/spider-gazelle/stomp) - STOMP 协议
  * [telnet.cr](https://github.com/spider-gazelle/telnet.cr) - Telnet 协议
  * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) - 克隆 transfer.sh 以上传文件
@@ -377,7 +378,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Kilt](https://github.com/jeromegn/kilt) - 模板引擎的抽象层
  * [Slang](https://github.com/jeromegn/slang) - 受 Ruby 的 Slim 启发的轻量级、简洁的模板语言
  * [teeplate](https://github.com/mosop/teeplate) - 用于渲染多个模板文件的库
- * [Water](https://github.com/shootingfly/water) - 一个用纯 Crystal 编写 HTML 的库
+ * [Water](https://github.com/shootingfly/water) - 用于在纯 Crystal 中编写 HTML 的库
 
 ## Testing
  * [Athena Spec](https://github.com/athena-framework/spec) - 常见/有用 [Spec](https://crystal-lang.org/api/Spec.html) 合规的测试工具

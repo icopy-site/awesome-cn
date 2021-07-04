@@ -57,7 +57,7 @@
 
 - [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla 的安全和访问指南.
 
-- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租赁漏洞和供应链漏洞）”.
+- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租户漏洞和供应链漏洞）”.
 
 - [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于绘制服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
@@ -93,7 +93,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - 密码学基础论文.
 
-- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
+- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您正在使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
 
 ## Zero-trust Network
 
@@ -176,6 +176,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [Compromising online accounts by cracking voicemail systems](https://www.martinvigo.com/voicemailcracker/)  - 或者为什么您不应该依赖自动电话作为联系用户和重置密码、2FA 或任何类型验证的方法. 与基于 SMS 的 2FA 不同，它目前是不安全的，并且可以通过其最薄弱的环节：语音邮件系统而受到损害.
 
 - [Getting 2FA Right in 2019](https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/) - 关于 2FA 的 UX 方面.
+
+- [2FA is missing a key feature](https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db) - “当我的 2FA 代码输入错误时，我想知道它”.
 
 ### SMS-based
 
@@ -261,7 +263,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)  - “他们这样做是为了提供消息级别的完整性.  OAuth 2 切换到传输级机密性/完整性.”  （由 TLS 提供）（[source](https://news.ycombinator.com/item?id=17486165)).
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新并扩展了 OAuth 2.0 安全威胁模型，以结合自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而相关的新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以结合自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的相关新威胁”.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
@@ -375,7 +377,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso)  - 不是 GCP 的 KMS，而是位于其基础架构核心的 KMS. 见 [slides](https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
 
-- [`vault`](https://www.vaultproject.io) - 保护、存储和严格控制对令牌、密码、证书、加密密钥的访问.
+- [`vault`](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
 
 - [`sops`](https://github.com/mozilla/sops) - 加密 YAML 和 JSON 文件的值，而不是密钥.
 
@@ -407,7 +409,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 一旦你拥有了大量的用户群，它就被称为社区. 然后，您将负责保护它：客户、人员、公司、业务，并促进其中发生的所有交互和交易.
 
-信任与安全部门是由政策和当地法律约束驱动的关键中介复合体，可能由一个由 24/7 操作员和高度先进的调节和管理工具系统组成的跨职能团队体现. 您可以将其视为客户支持服务的扩展，专门处理边缘情况，例如手动身份检查、有害内容的审核、停止骚扰、处理权证和版权索赔、数据隔离和其他信用卡纠纷.
+A critical intermediation complex driven by a policy and constraint by local laws, the Trust & Safety department is likely embodied by a cross-functional team of 24/7 operators and systems of highly advanced moderation and administration tools. You can see it as an extension of customer support services, specialized in edge-cases like manual identity checks, moderation of harmful content, stopping harassment, handling of warrants and copyright claims, data sequestration and other credit card disputes.
 
 - [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) - 关于领域及其职责的精彩介绍.
 
@@ -423,9 +425,9 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 大多数企业不会收集客户的身份来创建用户个人资料以出售给第三方，不会. 但您仍然必须：当地法律要求跟踪大型企业下的合同关系 [Know You Customer (KYC)](https://en.wikipedia.org/wiki/Know_your_customer) 横幅.
 
-- [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 这篇论文是针对身份元系统的，它的法则在小范围内仍然提供了很好的见解，尤其是第一法则：始终允许用户控制并征求同意以获得信任.
+- [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 这篇论文是针对身份元系统的，它的法则在小范围内仍然提供了很好的见解，尤其是第一法则：始终允许用户控制并征求同意以赢得信任.
 
-- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  - “为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
+- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  -“为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
 
 - [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - 客户姓名匹配有很多应用，从帐户重复数据删除到欺诈监控.
 
@@ -439,7 +441,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://archive.is/MuNrZ) - 为什么背景调查有时是必要的.
 
-- [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf)  - 对 OpenStreetMap 上的可疑贡献者注册进行了非常详细的分析. 这份精美的高级报告展示了精心策划和定向的活动，可以作为欺诈报告的模板.
+- [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf)  - 对 OpenStreetMap 上可疑贡献者注册的非常详细的分析. 这份精美的高级报告展示了精心策划和定向的活动，可以作为欺诈报告的模板.
 
 - [MIDAS: Detecting Microcluster Anomalies in Edge Streams](https://github.com/bhatiasiddharth/MIDAS) - 一种提议的方法，“使用恒定的时间和内存，在边缘流中检测微集群异常或突然到达的可疑相似边缘组”.
 
@@ -513,7 +515,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [Country IP Blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR 国家级 IP 数据，直接来自区域互联网注册管理机构，每小时更新一次.
 
-- [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
+- [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) - 从证书透明度日志中收集的每小时更新的子域列表.
 
 - 子域拒绝名单： [\#1](https://gist.github.com/artgon/5366868), [\#2](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [\#3](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [\#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
@@ -531,7 +533,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [Burner email providers](https://github.com/wesbos/burner-email-providers)  - 临时电子邮件提供商列表. 而它 [derivative Python module](https://github.com/martenson/disposable-email-domains).
 
-- [MailChecker](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
+- [MailChecker](https://github.com/FGRibreau/mailchecker) - 跨语言临时（一次性/一次性）电子邮件检测库.
 
 - [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361)  - 一次性和临时电子邮件地址的域列表. 用于过滤您的电子邮件列表以提高打开率（向这些域发送电子邮件可能不会被打开）.
 
@@ -549,7 +551,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - 来自 Shutterstock 的亵渎阻止列表.
 
-- [`profanity-check`](https://github.com/vzhou842/profanity-check) - 使用线性 SVM 模型训练了 20 万个人类标记的干净和亵渎文本字符串的样本.
+- [`profanity-check`](https://github.com/vzhou842/profanity-check) - 使用线性 SVM 模型在 20 万个人类标记的干净和亵渎文本字符串的样本上训练.
 
 ## Privacy
 
@@ -618,6 +620,8 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 - [Conversion Optimization](https://www.nickkolenda.com/conversion-optimization-psychology/#cro-tactic11) - 增加用户完成帐户创建漏斗的机会的一系列策略.
 
 - [Trello User Onboarding](https://growth.design/case-studies/trello-user-onboarding/) - 一个详细的案例研究，很好地介绍了如何改进用户入职.
+
+- [11 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) - 关于登录表单的一些基本提示.
 
 - [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) - 创建简单、可链接、可预测且与密码管理器配合良好的登录表单.
 

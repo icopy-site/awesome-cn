@@ -98,7 +98,7 @@ VSCode 团队提供来自流行编辑器的键盘映射，使向 VSCode 的过�
 
 Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的方法.
 
-请务必访问它 [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 ## Lint and IntelliSense
 
@@ -137,7 +137,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 - [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - 使用 clangd 为 VS Code 提供 C/C++ 语言 IDE 功能：代码完成、编译错误和警告、转到定义和交叉引用、包括管理、代码格式化、简单重构.
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - 借助 GNU Global 工具为 C/C++ 提供 Intellisense.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 使用 C/C++（和 TypeScript、JavaScript、Objective-C、Golang、Rust）提供语义完成 [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用 Clang 命令完成和诊断 C/C++/Objective-C.
+- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/jacobdufault/cquery) 支持数百万行代码库，由 libclang 提供支持. 交叉引用、补全、诊断、语义突出显示等.
 
 #### More
@@ -192,6 +192,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
 - [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - 提供 [language server](https://github.com/haskell/haskell-ide-engine) 用于堆栈和 cabal 项目.
+
 ## Shell
 
 - [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
@@ -212,15 +213,18 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 看看这两者的区别 [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - 用于 Visual Studio 代码的 TSLint（使用 `&quot;tslint.jsEnable&quot;: true`）.
+### Linters
+
+- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - 用于 Visual Studio 代码的 TSLint（使用 `&quot;tslint.jsEnable&quot;: true`）.
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 短绒 [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - 短绒 [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - 片段 [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter、Formatter 和 Pretty 打印机，用于 [Prettier](https://github.com/prettier/prettier-vscode).
-- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - 片段 [Schema.org](https://schema.org/).
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Visual Studio Code 的拼写检查器.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  - Visual Studio Code 的拼写检查器（英文）. 还通过外部扩展支持其他语言.
 
-Framework-specific:
+- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - 片段 [Schema.org](https://schema.org/).
+
+### Framework-specific
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue.js 工具包
 ![Vetur](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/Vetur.png)
@@ -236,7 +240,7 @@ Framework-specific:
 
 ### TypeScript
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - 用于 Visual Studio 代码的 TSLint
+- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - 用于 Visual Studio 代码的 TSLint.
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - 打开 TS 的代码大纲视图，对导入进行排序和组织.
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -462,7 +466,7 @@ Framework-specific:
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
-> Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
+ &gt; 添加 GitLab 侧边栏图标以查看问题、合并请求和其他 GitLab 资源. 您还可以查看 GitLab CI/CD 管道的结果并检查您的 `.gitlab-ci.yml` 的语法.
 
 #### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -472,7 +476,7 @@ Framework-specific:
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
-> Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+&gt; 流行图标字体的片段，例如 Font Awesome、Ionicons、Glyphicons、Octicons、Material Design Icons 等等！
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
@@ -617,12 +621,6 @@ Framework-specific:
 &gt; 允许您直接在 Visual Studio Code 中发送 HTTP 请求并查看响应.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
-
-## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-
-&gt; 使用 GitHub Gist 在多台机器上同步设置、片段、主题、文件图标、启动、键绑定、工作区和扩展
-
-![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
@@ -863,7 +861,7 @@ Framework-specific:
 ![Make a polaroid image of your code animation](https://raw.githubusercontent.com/octref/polacode/master/demo/usage.gif)
 
 ## [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
- > Send your code to [carbon.now.sh](https://carbon.now.sh).
+ &gt; 将您的代码发送至 [carbon.now.sh](https://carbon.now.sh).
  ![Send your code to carbon.now.sh animation](https://user-images.githubusercontent.com/6516758/46617867-df765680-caeb-11e8-8899-95778cdcceb7.gif)
 
 ## [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
@@ -880,7 +878,7 @@ Framework-specific:
 
 ## [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
 
-&gt; 发送消息和代码片段，将文件上传到 Slack
+> Send messages and code snippets, upload files to Slack
 
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
@@ -919,7 +917,6 @@ Framework-specific:
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
-
 ![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
@@ -941,7 +938,7 @@ Framework-specific:
 
 ### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
 
-赛博朋克 2077 灵感主题
+Cyberpunk 2077 inspired theme
 
 <a href="https://vscodethemes.com/e/Endormi.2077-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/endormi.2077-theme.png" width="600" />
@@ -1197,12 +1194,10 @@ VS Code 社区中各种人的 Twitter 帐户列表
 ## Documentation
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Better Comments 扩展将帮助您在代码中创建更人性化的注释.
-- [Extending Visual Studio Code](https://code.visualstudio.com/docs/extensions/overview) 部分 [Official Documentation](https://code.visualstudio.com/docs)
+- [Visual Studio Code API](https://code.visualstudio.com/api) 部分 [Official Documentation](https://code.visualstudio.com/docs)
 
 ## Libraries
 
-- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - vscode.d.ts 节点模块
-- [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content)  - 一种设置/获取编辑器内容的方法，它是选择. 特别适用于单元测试.
 
 ## Tools
