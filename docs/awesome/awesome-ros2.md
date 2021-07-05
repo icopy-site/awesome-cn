@@ -6,7 +6,7 @@
 
 &gt; 精选的机器人操作系统 2.0 版 (ROS 2) 资源和库列表.
 
-机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
+机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发人员工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
 
 
 
@@ -81,10 +81,10 @@
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - 用于 ROS2 的通用键盘 Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - 用于扭曲机器人的简单操纵杆遥控. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 - [navigation](https://github.com/ros-planning/navigation2/) - ROS2 导航堆栈. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
-- [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - 用于 ROS 2 的原始 ROS1 诊断的分叉版本（目前仅适用于diagnostics_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
+- [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - 用于 ROS 2 的原始 ROS1 诊断的分叉版本（目前仅适用于 diagnostics_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
 - [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - 原始 ROS 机器人状态发布器的分叉版本，所有修改都可以在 ROS2 生态系统中编译. ![robot_state_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
 - [common_interfaces](https://github.com/ros2/common_interfaces) - 一组包含通用接口文件（.msg 和.srv）的包. ![common_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
-- [ros2_object_map](https://github.com/intel/ros2_object_map) - “SLAM 时在地图上标记物体的标签”. ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
+- [ros2_object_map](https://github.com/intel/ros2_object_map) - “当 SLAM 时在地图上标记对象的标签”. ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
 - [ros2_object_analytics](https://github.com/intel/ros2_object_analytics) - 对象分析 (OA) 是用于实时对象检测、定位和跟踪的 ROS2 包装器. ![ros2_object_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
 - [ros2_intel_movidius_ncs](https://github.com/intel/ros2_intel_movidius_ncs) - Movidius™ 神经计算棒 (NCS) 神经元计算 API 的 ROS2 包装器. ![ros2_intel_movidius_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
 - [ros2_moving_object](https://github.com/intel/ros2_moving_object) - 根据对象分析 `ros2_object_analytics` 生成的消息处理移动对象. ![ros2_moving_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
@@ -185,11 +185,11 @@
 - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - 使用 C++ 中的 PrismTech OpenSplice 静态代码生成实现 ROS 中间件接口. ![rmw_opensplice_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
 - [rmw_coredx](https://github.com/tocinc/rmw_coredx) - 用于 ROS2 的 CoreDX DDS 集成层. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
 - [rmw_freertps](https://github.com/ros2/rmw_freertps) - 使用 freertps 实现 RMW. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg)
-- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - 使用 Eclipse zenoh 实现 RMW：零开销发布/订阅、存储/查询和计算. ![esteve/rmw_zenoh](https://img.shields.io/github/stars/esteve/rmw_zenoh.svg)
+- [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - 使用 Eclipse zenoh 实现 RMW：零开销发布/订阅、存储/查询和计算. ![atolab/rmw_zenoh](https://img.shields.io/github/stars/atolab/rmw_zenoh.svg)
 - [rcutils](https://github.com/ros2/rcutils) - ROS 2 中常用的 C 函数和数据结构. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) - 一个免费的、可移植的、极简主义的、正在进行中的 RTPS 实现. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - 用于 Eclipse Cyclone DDS 的 ROS2 RMW 层. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
-- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - ROS2 RMW 层用于 [zenoh](https://zenoh.io).
+- [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - ROS2 RMW 层用于 [zenoh](https://zenoh.io).
 - [rmw_iceoryx](https://github.com/ros2/rmw_iceoryx) - 启用进程间通信中间件的使用 [Eclipse iceoryx](https://iceoryx.io).
 
 ### DDS communication mechanism implementations

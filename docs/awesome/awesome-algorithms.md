@@ -38,7 +38,7 @@
 
 *免费和高质量的在线课程*
 
-* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - 主要主题是：渐近（“大哦”）符号、排序和搜索、分而治之和随机算法.
+* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - 主要主题是：渐近（“Big-oh”）符号、排序和搜索、分治和随机算法.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - 主要主题是：数据结构、图原语及其应用.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - 主要主题是：贪心算法和动态规划.
 * [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - 主要主题是：最短路径、NP 完备性及其对算法设计者的意义，以及处理计算上难以处理的问题的策略.
@@ -50,7 +50,7 @@
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - 一个简单且解释清楚的算法介绍.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - 基于 Python 的算法课程.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - 初学者算法课程，带有有趣的插图，基于 Grokking Algorithms 一书
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - 许多关于各种计算机科学学科的解释得很清楚的视频.~~ _帐户因违反 Youtube 政策而被终止._
+* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - 许多关于各种计算机科学主题的解释得很清楚的视频.~~ _帐户因违反 Youtube 政策而被终止._
 
 ## Books
 
@@ -60,7 +60,7 @@
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - 非常直接.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - 用 Ja​​va、OO 良好实践、可视化和免费在线资源解释的问题.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - 使用 JavaScript 实现和解释的经典算法和数据结构.
-* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - 乔治·T·海涅曼 (George T. Heineman)
+* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - 乔治·T·海涅曼 (George T. Heineman).
 * [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) - 这本伟大的书提出了许多编码挑战，从简单的任务到使用 k 均值对数据进行聚类.
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - 实现具有特定可编程任务的算法的好方法.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - 数据结构的基本概念和用法.
@@ -138,6 +138,8 @@
     * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
 *目标-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
+* PHP
+    * [by @TheAlgorithms](https://github.com/TheAlgorithms/PHP)
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)

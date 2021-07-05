@@ -32,7 +32,7 @@
 			<div>
 				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
 				<br>
-				<sup>并避免访问控制.</sup> <sup>使您的团队和服务器与多普勒同步.</sup>
+				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
 			</div>
 		</a>
 		<br>
@@ -102,7 +102,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可转到此处.</sub> <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter 上</a>关注我.</sub>
 </p>
 <br>
 
@@ -135,7 +135,7 @@
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P 超媒体协议.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机旨在教孩子编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台 GUI 应用程序框架.
@@ -315,11 +315,12 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - 在浏览器中使用 JavaScript、CSS、SVG 等制作动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件可实现更快、更轻松的 Web 开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件，可实现更快、更轻松的 Web 开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - 要集成到网络应用程序中的独立功能.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 可重用组件的集合，以确保一致性和速度的规则为指导.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - 无需构建 API 即可制作单页应用程序.
+- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - 用于快速构建网站的模板、布局、组件和小部件.
 
 ## Back-End Development
 
@@ -705,7 +706,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - 神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - 通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - 程序员相信的谎言.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 通过将实现连接到不断发展的模型来满足复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪.
@@ -721,11 +722,11 @@
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - 用于 TeX/LaTeX/ConTeXt 的图形绘制包.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - 研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - 无广告替代品.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - 为实验或作为笑话而不是实际使用而设计的编程语言.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - 智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - 命令行上的复式记帐.
-- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - 免费开放的网络标准服务，允许您直接在浏览器中汇款.
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - 公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - 使用加密来规范单位生成和验证转移的数字货币.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
@@ -740,7 +741,7 @@
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - 国际高中机器人锦标赛.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计社区的会议和聚会演讲者.
-- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 适合所有人的桌面游戏乐趣.
+- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 资助个人程序员或开源项目的开发.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主-病原体相互作用.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - GitHub 上与食品相关的项目.

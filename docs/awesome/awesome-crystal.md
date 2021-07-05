@@ -415,6 +415,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
  * [raven.cr](https://github.com/sija/raven.cr) - Raven 是一个客户 [Sentry](https://github.com/getsentry/sentry)
  * [stripe.cr](https://github.com/confact/stripe.cr) - 条纹 api 包装器
+ * [tmdb.cr](https://github.com/mmacia/tmdb.cr) - 电影数据库 (TMDb) api 包装器
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - 访问 Twitter API 的库
  * [web_finger](https://github.com/toddsundsted/web_finger) - WebFinger (https://tools.ietf.org/html/rfc7033) 客户端
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - 与您的 YNAB 数据交互的库

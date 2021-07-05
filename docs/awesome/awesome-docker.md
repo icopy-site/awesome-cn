@@ -5,7 +5,7 @@
 &gt; Docker 资源和项目的精选列表
 
 如果你想贡献，请先阅读 [CONTRIBUTING.md][contributing].
-它包含许多提示和指南，可帮助您保持井井有条.
+它包含许多提示和指南，以帮助使事情井井有条.
 只需单击 [README.md][editreadme] 即可提交 [拉取请求][editreadme].
 如果此列表不完整，您可以[贡献][editreadme] 使其完整. 这是一个很棒的视频教程，可以学习如何 [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github).
 
@@ -95,7 +95,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Container Composition
 
-- [bocker](https://github.com/icy/bocker)  (2) - 在 Bash 中完全编写 Dockerfile. 可扩展且简单.  --&gt; 可重用 [@icy](https://github.com/icy)
+- [bocker](https://github.com/icy/bocker)  (2) :skull: - 在 Bash 中完全编写 Dockerfile. 可扩展且简单.  --&gt; 可重用 [@icy](https://github.com/icy)
 - [bocker](https://github.com/p8952/bocker) (1) :skull: - Docker 用 100 行 bash 实现 [p8952](https://github.com/p8952)
 - [box](https://github.com/box-builder/box) - 使用 mruby DSL 构建 Dockerfile 映像，包括展平和层操作
 - [Capitan](https://github.com/byrnedo/capitan) - [@byrnedo] 添加了脚本支持的可组合 docker 编排.
@@ -188,7 +188,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Mesos](https://github.com/apache/mesos) - 容器、VM 和物理主机的资源/作业调度程序 [@apache](https://mesos.apache.org/)
 - [Nebula](https://github.com/nebula-orchestrator) - 旨在管理大规模分布式集群的 Docker 编排工具.
 - [Nomad](https://github.com/hashicorp/nomad)  - 轻松部署任何规模的应用程序. 分布式、高可用、数据中心感知调度程序 [@hashicorp](https://github.com/hashicorp)
-- [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) :skull: - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop by [@CenturyLinkLabs][centurylinklabs].
+- [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) :skull: - 一个开源项目，使部署复杂的容器化应用程序像 [@CenturyLinkLabs][ Centurylinklabs] 的拖放一样简单.
 - [Rancher](https://github.com/rancher/rancher) - [@rancher][rancher] 一个开源项目，为在生产中运行 Docker 提供了一个完整的平台.
 - [Swarm-cronjob](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/swarm-cronjob) - 在 Swarm 上按时间计划创建作业 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max)
 
@@ -311,7 +311,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer 通过以下方式帮助您开始使用在 Docker 中运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
 - [docui](https://github.com/skanehira/docui)  - 用于管理 Docker 容器的交互式 shell UI. 也适用于 Windows. 由 [@skanehira]
 - [dry](https://github.com/moncho/dry) - Docker 容器的交互式 CLI [@moncho](https://github.com/moncho)
-- [lazydocker](https://github.com/jesseduffield/lazydocker)  - 管理一切 docker 的懒惰方式. 一个简单的 docker 和 docker-compose 终端用户界面，用 gocui 库用 Go 编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
+- [lazydocker](https://github.com/jesseduffield/lazydocker)  - 管理 docker 一切的懒惰方式. 一个简单的 docker 和 docker-compose 终端用户界面，用 gocui 库用 Go 编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
 - [sen](https://github.com/TomasTomecek/sen) - :skull: docker 引擎的终端用户界面，作者 [@TomasTomecek][tomastomecek]
 
 ##### CLI tools
@@ -349,7 +349,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Compose UI](https://github.com/francescou/docker-compose-ui)  - 通过 HTTP 管理 docker-compose.  docker-compose-ui 在 Docker 容器中运行，挂载主机 docker socket 并公开 RESTful API 和 AngularJS GUI
 - [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) - Docker Registry HTTP API v2 的 Web 界面由 [@klausmeyer](https://github.com/klausmeyer)
 - [Docker Registry UI (Joxit)](https://github.com/Joxit/docker-registry-ui) - 最简单、最干净的私有注册用户界面 [@Joxit](https://github.com/Joxit)
-- [Docker Registry UI](https://github.com/atcol/docker-registry-ui) - 用于轻松进行私有/本地 Docker Registry 集成的 Web UI [@atcol](https://github.com/atcol)
+- [Docker Registry UI](https://github.com/atcol/docker-registry-ui) - 一个 Web UI，用于轻松进行私有/本地 Docker Registry 集成 [@atcol](https://github.com/atcol)
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - 私有 docker registry v2 的 Web UI、身份验证服务和事件记录器 [@mkuchin](https://github.com/mkuchin)
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - 在 Docker Swarm 上可视化 Docker 服务（用于运行演示）.
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) :skull: - 具有许多功能的 Docker 的简单 Web 界面 [@Electrofenster](https://github.com/Electrofenster/)
@@ -411,7 +411,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockramp](https://github.com/jlhawn/dockramp) :skull: - 概念证明：客户端驱动的 Docker 映像生成器 [@jlhawn](https://github.com/jlhawn)
 - [essex](https://github.com/utensils/essex) - 基于 Docker 的项目的样板：Essex 是一个用 bash 编写的 CLI 实用程序，用于使用 Makefile 驱动的工作流快速设置干净且一致的 Docker 项目. [@jamesbrink](https://github.com/jamesbrink)
 - [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - 从高级 Python 配方生成 Dockerfile，包括由 [@NVIDIA][nvidia] 构建的高性能计算组件的构建块
-- [img](https://github.com/genuinetools/img) - [@genuinetools][genuinetools] 的独立、无守护进程、无特权的 Dockerfile 和 OCI 兼容容器映像生成器
+- [img](https://github.com/genuinetools/img) - [@genuinetools][genuinetools] 的独立、无守护进程、无特权的 Dockerfile 和 OCI 兼容容器映像构建器
 - [kaniko](https://github.com/GoogleContainerTools/kaniko)  - 在 Kubernetes 中构建容器镜像. 由 [@GoogleContainerTools][googlecontainertools]
 - [makisu](https://github.com/uber/makisu)  - Uber 为 Mesos 和 Kubernetes 提供的快速灵活的非特权图像构建器，具有分布式缓存支持. 经过 [@uber](https://github.com/uber)
 - [MicroBadger](https://microbadger.com) :skull: - Analyze the contents of images and add metadata labels
@@ -468,8 +468,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/services/container-registry/) - 将 Docker 私有注册表作为一流的 Azure 资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  - 用于在裸机或云上运行 Docker 引擎的基本操作系统. 经过 [@RedCoolBeans](https://github.com/RedCoolBeans)
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - 从实现 API v2 的 Docker Registry 中删除图像清单的小工具，通过以下方式为 GC 取消引用它们 [@hcguersoy](https://github.com/hcguersoy)
-- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/)  - 完全托管的包管理 SaaS，为公共和私有 Docker 注册表（以及许多其他注册表）提供一流支持，包括 Kubernetes 生态系统的 Helm 图表. 有一个慷慨的免费层，并且对于开源也是完全免费的.
-- [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/) - Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.
+- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/) - A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.
+- [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/)  - 面向团队和组织的基于港口的容器管理解决方案即服务. 免费层为私有存储库提供 1 GB 存储空间.
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) - 裸机容器托管.
 - [Dist :heavy_dollar_sign:](https://www.dist.cloud/product/container-registry/) - 基于私有云的 Docker 容器注册表
 - [Docker Hub](https://hub.docker.com/) 由 Docker Inc. 提供.
@@ -586,7 +586,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Testing
 
 - [Container Structure Test](https://github.com/GoogleContainerTools/container-structure-test)  - 通过检查命令的输出或文件系统的内容来验证图像结构的框架. 由 [@GoogleContainerTools][googlecontainertools]
-- [dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - 一种快速的基于 YAML 的工具，用于验证 docker 容器.
+- [dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - 用于验证 docker 容器的快速基于 YAML 的工具.
 - [DockerSpec](https://github.com/zuazo/dockerspec)  - 一个小型 Rub​​y Gem，可轻松针对 Dockerfiles 或 Docker 映像运行 RSpec 和 Serverspec、Infrataster 和 Capybara 测试. 经过 [@zuazo](https://github.com/zuazo)
 - [Dockunit](https://github.com/dockunit/platform)  :skull: - 基于 Docker 的集成测试. 一个简单的基于节点的实用程序，用于运行基于 Docker 的单元测试. 经过 [@dockunit](https://github.com/dockunit)
  - [InSpec][inspec] - InSpec 是一种用于基础设施的开源测试框架，具有人类和机器可读的语言，用于指定合规性、安全性和策略要求. 经过 [@chef](https://github.com/chef)
@@ -656,7 +656,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Cloud Native Landscape](https://github.com/cncf/landscape)
 - [Docker Certification](https://intellipaat.com/docker-training-course/) :heavy_dollar_sign: 将帮助您通过动手项目和案例研究学习 Docker 容器化、运行 Docker 容器、镜像创建、Dockerfile、Docker 编排、安全最佳实践等，并帮助您清除 Docker Certified Associate.
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
-- [Docker dev bookmarks](https://www.bookmarks.dev/search?q=docker) - 使用标签 [docker](https://www.bookmarks.dev/tagged/docker)
+- [Docker dev bookmarks](https://www.codever.land/search?q=docker) - 使用标签 [docker](https://www.codever.land/bookmarks/t/docker)
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 - [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
 - [Docker Newsletter](https://www.docker.com/newsletter-subscription) Docker 时事通讯定期更新
@@ -746,7 +746,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Chinese
 
-- [DockerOne](http://dockone.io/) Docker 社区（中文）作者： [@LiYingJie](http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
+- [DockerOne](http://dockone.io/) Docker Community (in Chinese) by [@LiYingJie](http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
 
 ## English
 
@@ -787,7 +787,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [docker-for-windows]：https://docs.docker.com/docker-for-windows/
 [码头工人]：https://github.com/docker
 [编辑自述]：https://github.com/veggiemonk/awesome-docker/edit/master/README.md
-[fgrehm]: https://github.com/fgrehm
+[fgrehm]：https://github.com/fgrehm
 [gesellix]：https://github.com/gesellix
 【正版工具】：https://github.com/genuinetools
 [滑翔机]：https://github.com/gliderlabs
@@ -812,6 +812,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [tomastomecek]：https://github.com/TomasTomecek
 [vegasbriac]：https://github.com/vegasbriac
 [编织]：https://github.com/weaveworks/weave
-[VMWare]：https://github.com/vmware
+[VMWare]: https://github.com/vmware
 [@byrnedo]：https://github.com/byrnedo
 [@skanehira]：https://github.com/skanehira
