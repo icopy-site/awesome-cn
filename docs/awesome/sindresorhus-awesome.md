@@ -261,7 +261,7 @@
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于 XML 的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript 库.
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript 工具包.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
 - [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - 应用程序框架.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
@@ -471,7 +471,7 @@
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - 增强`git` CLI.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - 用于在`git` 工作流中自动执行任务的脚本.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于网络技术构建的跨平台终端应用程序.
@@ -623,6 +623,7 @@
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为企业设计的开源区块链平台.
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - 用于 Web 3.0 应用程序和去中心化解决方案的开源区块链平台和开发工具集.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - 在 Rust 中编写可扩展、可升级的区块链的框架.
+- [Golem](https://github.com/golemfactory/awesome-golem#readme) - 计算资源的开源点对点市场.
 
 ## Higher Education
 
@@ -726,7 +727,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - 智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - 命令行上的复式记帐.
-- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - 免费开放的网络标准服务，允许您直接在浏览器中汇款.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - 公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - 使用加密来规范单位生成和验证转移的数字货币.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
@@ -741,7 +742,7 @@
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - 国际高中机器人锦标赛.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计社区的会议和聚会演讲者.
-- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 适合所有人的桌面游戏乐趣.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 资助个人程序员或开源项目的开发.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主-病原体相互作用.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - GitHub 上与食品相关的项目.
@@ -778,3 +779,4 @@
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - 使用浏览器扩展从 Awesome 数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - 一个简单的命令行工具，可以深入到很棒的列表中.
 - [Awesome Viewer](http://awesome.digitalbunker.dev) - 以上所有真棒列表的可视化工具.
+- [Track Awesome List](https://www.trackawesomelist.com) - 查看Awesome 列表的最新更新.

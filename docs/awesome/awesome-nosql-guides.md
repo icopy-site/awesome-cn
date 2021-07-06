@@ -2,13 +2,13 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome NoSQL Guides [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;关于“使用” NoSQL数据库的资源和链接的精选列表，以及在决定使用数据库时要查找的内容.
+&gt; 有关*使用* NoSQL 数据库的资源和链接的精选列表以及决定使用一个数据库时要查找的内容.
 
-可以在Wikipedia上找到NoSQL数据库的基本定义：
+NoSQL 数据库的基本定义可以在维基百科上找到：
 
-&gt;“ NoSQL（最初指的是“非SQL”或“非关系”数据库）提供了一种用于存储和检索数据的机制，该机制以与关系数据库中使用的表格关系不同的方式建模.”
+&gt; “NoSQL（最初指&#39;非 SQL&#39;或&#39;非关系&#39;）数据库提供了一种存储和检索数据的机制，该机制以关系数据库中使用的表格关系以外的方式建模.”
 
-对于实际的NoSQL数据库，您可以
+对于实际的 NoSQL 数据库，你可以去
 [here](https://github.com/sindresorhus/awesome#databases),
 [here](https://hostingdata.co.uk/nosql-database/),
 [here](https://db-engines.com/en/ranking),
@@ -21,71 +21,72 @@
 
 ## Overview of NoSQL
 
-- [Introduction To NoSQL - Martin Fowler (54:52)](https://www.youtube.com/watch?v=qI_g07C_Q5I) -在GOTO 2012上的演讲很好地介绍了NoSQL数据库，NoSQL数据库的类型，它们的历史，优缺点以及如何以及何时使用它们.
-- [NoSQL Distilled](https://martinfowler.com/books/nosql.html) -易于消化且价格适中的书，描述了不同的NoSQL数据库，并帮助您决定是否使用NoSQL数据库适合您的项目.
-- [Seven Databases in Song (1:43)](https://www.youtube.com/watch?v=jyx8iP5tfCI) -2012年的一首有趣的歌曲，讲述了七个（六个是NoSQL）数据库，并简要概述了每个数据库的工作方式.
-- [NoSQL Databases: a Survey and Decision Guidance (2016)](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d) -“此NoSQL工具箱使我们能够推导简单的决策树，以帮助从业人员和研究人员根据中央应用程序需求筛选潜在的系统候选对象”.
-- [Data Management in the Cloud: Limitations and Opportunities (PDF)](http://www.cs.umd.edu/~abadi/papers/abadi-cloud-ieee09.pdf) -Abadi（2009）讨论了云中数据管理和数据分析的局限性和机遇.
-- [10 NoSQL Misconceptions](https://www.dummies.com/programming/big-data/10-nosql-misconceptions/) -关于NoSQL数据库的一些误解，涉及诸如主题，符合ACID和安全性等主题.
-- [10 Reasons Developers Love NoSQL](https://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) -有关为什么开发人员喜欢使用NoSQL数据库的十个参数的列表.
-- [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems (PDF)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=90909)  -Gorton和Klein（2014）的论文，讨论了在大数据系统的分发，数据和部署方面对软件工程的关注. 也可访问 [here](https://doi.org/10.1109/MS.2014.51).
-- [Use cases for NoSQL (2017)](https://stackoverflow.com/questions/2875432/use-cases-for-nosql) -有关在传统SQL数据库上使用NoSQL数据库的最佳用例的堆栈溢出的讨论.
-- [Best Practices for NoSQL Database Design (2012)](https://softwareengineering.stackexchange.com/q/158790/) -有关NoSQL数据库设计的几个答案和链接.
-- [Five Common Data Stores and When to Use Them (2019)](https://shopify.engineering/five-common-data-stores-usage) -文章描述了五个常见的数据存储（关系数据库，非关系（“ NoSQL”）数据库，键值存储，全文搜索引擎，消息队列）及其属性.
-- [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf)  -长达149页的文档，概述了NoSQL数据库的动机和基本原理，以及这些数据库之间的共同概念，技术和模式； 最后更新时间约为2011年.
-- [NoSQL Data Architecture & Data Governance: Everything You Need to Know (2018)](https://www.dataversity.net/nosql-data-architecture-data-governance-everything-need-know/) -带有图表的不同NoSQL数据库体系结构概述.
-- [NoSQL vs SQL: Demystifying NoSQL Databases (2019)](https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/) -NoSQL数据库模式类型的一般概述和示例，同时涵盖了CAP定理的权衡.
-- [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/dataguide/intro/comparing-database-types) -总体上很好地概述了数据库，以及NoSQL数据库类型如何不同并可能会有用.
-- [The NoSQL Ecosystem](https://www.aosabook.org/en/nosql.html) -由“开放源代码应用程序的体系结构”一书中的Adam Marcus撰写的一章，该章主要面向需要更深入地了解如何构建这些系统的系统架构师.
-- [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/)  -NoSQL数据库的高层概述，以及它们与SQL数据库技术和术语的比较. 用作Amazon AWS服务的登陆页面，用于键值（Amazon DynamoDB），文档（Amazon DocumentDB），图形（Amazon Neptune），内存（Amazon ElastiCache）和搜索引擎（Amazon Elasticsearch）数据库的NoSQL选项.
-- [SQL vs. NoSQL Databases: What's the Difference (2019) - Upwork](https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference) -比较SQL和NoSQL数据库的说明，并就哪种数据库解决方案适合您的用例提供一些建议.
+- [Introduction To NoSQL - Martin Fowler (54:52)](https://www.youtube.com/watch?v=qI_g07C_Q5I) - 在 2012 年 GOTO 上发表的演讲很好地介绍了 NoSQL 数据库、NoSQL 数据库的类型、它们的历史、优点和缺点，以及如何以及何时使用它们.
+- [NoSQL Distilled](https://martinfowler.com/books/nosql.html) - 描述不同 NoSQL 数据库并帮助您决定使用 NoSQL 数据库是否适合您的项目的非常易于理解且价格合理的书.
+- [Seven Databases in Song (1:43)](https://www.youtube.com/watch?v=jyx8iP5tfCI) - 2012 年关于七个（六个是 NoSQL）数据库的有趣歌曲，其中非常简洁地概述了每个数据库的工作原理.
+- [NoSQL Databases: a Survey and Decision Guidance (2016)](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d) - “这个 NoSQL 工具箱使我们能够推导出一个简单的决策树，以帮助从业者和研究人员根据中央应用程序需求过滤潜在的系统候选者”
+- [Data Management in the Cloud: Limitations and Opportunities (PDF)](http://www.cs.umd.edu/~abadi/papers/abadi-cloud-ieee09.pdf) - Abadi (2009) 讨论了云中数据管理和数据分析的局限性和机会.
+- [10 NoSQL Misconceptions](https://www.dummies.com/programming/big-data/10-nosql-misconceptions/) - 关于 NoSQL 数据库的一些误解与主题有关，例如它们是什么、ACID 合规性和安全性.
+- [10 Reasons Developers Love NoSQL](https://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) - 开发人员喜欢使用 NoSQL 数据库的十个理由的列表.
+- [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems (PDF)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=90909)  - Gorton 和 Klein (2014) 论文讨论了在分发、数据和部署方面处理大数据系统时的软件工程问题. 也可访问 [here](https://doi.org/10.1109/MS.2014.51).
+- [Use cases for NoSQL (2017)](https://stackoverflow.com/questions/2875432/use-cases-for-nosql) - 关于使用 NoSQL 数据库而不是传统 SQL 数据库的最佳用例的堆栈溢出讨论.
+- [Best Practices for NoSQL Database Design (2012)](https://softwareengineering.stackexchange.com/q/158790/) - NoSQL 数据库设计的几个答案和链接.
+- [Five Common Data Stores and When to Use Them (2019)](https://shopify.engineering/five-common-data-stores-usage) - 文章描述了五种常见的数据存储（关系数据库、非关系（“NoSQL”）数据库、键值存储、全文搜索引擎、消息队列）及其属性.
+- [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf)  - 一份 149 页的文档，概述了 NoSQL 数据库的动机和基本原理，以及这些数据库之间的共同概念、技术和模式； 最后更新于 2011 年左右.
+- [NoSQL Data Architecture & Data Governance: Everything You Need to Know (2018)](https://www.dataversity.net/nosql-data-architecture-data-governance-everything-need-know/) - 使用图表概述不同的 NoSQL 数据库架构.
+- [NoSQL vs SQL: Demystifying NoSQL Databases (2019)](https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/) - NoSQL 数据库模式类型的一般概述和示例，同时涵盖 CAP 定理权衡.
+- [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/dataguide/intro/comparing-database-types) - 很好地概述了一般数据库以及 NoSQL 数据库类型的不同之处，并且很有用.
+- [The NoSQL Ecosystem](https://www.aosabook.org/en/nosql.html) - 由 Adam Marcus 撰写的“开源应用程序架构”一书中的一章，本章更适合需要深入了解这些系统的构建方式的系统架构师.
+- [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/)  - NoSQL 数据库的高级概述以及它们与 SQL 数据库技术和术语的比较. 用作 Amazon AWS 服务的登录页面，用于键值 (Amazon DynamoDB)、文档 (Amazon DocumentDB)、图形 (Amazon Neptune)、内存中 (Amazon ElastiCache) 和搜索引擎 (Amazon Elasticsearch) 数据库的 NoSQL 选项.
+- [SQL vs. NoSQL Databases: What's the Difference (2019) - Upwork](https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference) - 解释比较 SQL 和 NoSQL 数据库，并就哪种数据库解决方案适合您的用例提供一些建议.
 
 
 ## Data Structures and Modeling
 
-- [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) -如果您的数据库使用JSON，则最好的做法是（截至2018年）结构化数据.
-- [NoSQL Data Modeling Techniques (2012)](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) -本文从数据建模的角度简短地比较了NoSQL系统系列，并总结了几种常见的建模技术.
-- [Data Models for MongoDB](https://docs.mongodb.com/manual/data-modeling/)  -特定于MongoDB的数据建模帮助，包括模式验证和示例模式. 但是，概念可能会延续到其他文档NoSQL数据库.
-- [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) -Essay认为，尽管现有的无模式数据库已经存在，但是周到的数据库建模对于使用算法获取知识和见解非常重要.
-- [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases/) -使用统一数据建模技术管理NoSQL和关系数据库的解决方案.
-- [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) -用于查询同一数据库中多个范例的模式.
-- [How to Design Schema for Your NoSQL Database?](https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#) -尽管人们普遍认为NoSQL不需要架构，但本文概述了NoSQL数据库如何遵循“查询驱动的设计”以及架构中这种灵活性的注意事项.
+- [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - 如果您的数据库使用 JSON，则结构化数据的最佳实践（截至 2018 年）.
+- [NoSQL Data Modeling Techniques (2012)](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) - 本文从数据建模的角度对 NoSQL 系统系列进行了简短的比较，并总结了几种常见的建模技术.
+- [Data Models for MongoDB](https://docs.mongodb.com/manual/data-modeling/)  - 特定于 MongoDB 的数据建模帮助，包括架构验证和示例模式. 但是，概念可能会延续到其他文档 NoSQL 数据库.
+- [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) - 论文认为，尽管存在无模式数据库，但深思熟虑的数据库建模对于使用算法获得知识和见解很重要.
+- [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases/) - 使用统一数据建模技术管理 NoSQL 和关系数据库的解决方案.
+- [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) - 用于在同一数据库中跨多个范式进行查询的模式.
+- [How to Design Schema for Your NoSQL Database?](https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#) - Despite popular belief that NoSQL are schema-less, this article outlines how NoSQL databases follow "query driven design" and considerations for this flexibility in schema.
 
 
 ## Trade-Offs in CAP/Brewer's Theorem
 
-- [Visual Guide to NoSQL Systems (2010)](http://blog.nahurst.com/visual-guide-to-nosql-systems) -在不同NoSQL数据库之间的CAP定理中权衡取舍的可视化显示.
-- [How to Choose the Right NoSQL Database for Your Application? (2018)](https://www.dataversity.net/choose-right-nosql-database-application/) -审查CAP定理，并将常见的NoSQL数据库映射到CAP类别，以帮助选择一种.
+- [Visual Guide to NoSQL Systems (2010)](http://blog.nahurst.com/visual-guide-to-nosql-systems) - 可视化显示不同 NoSQL 数据库之间 CAP 定理中的权衡.
+- [How to Choose the Right NoSQL Database for Your Application? (2018)](https://www.dataversity.net/choose-right-nosql-database-application/) - 回顾 CAP 定理并将常见的 NoSQL 数据库映射到 CAP 类别以帮助选择一个.
 
 
 ## Crowd-Sourced Information
 
-- [/r/nosql](https://www.reddit.com/r/nosql/) -有关NoSQL数据库的一般问题和讨论，有关NoSQL的Reddit页面.
--[[Stack Overflow]上的[[nosql]标记]（https://stackoverflow.com/tags/nosql/info）
-- [Ask HN: Learning NoSQL, papers and books (2017)](https://news.ycombinator.com/item?id=15427932) -“您认为，要真正理解NoSQL主题，必须提交哪些论文和书籍？”
-- [Difference between scaling horizontally and vertically for databases](https://stackoverflow.com/q/11707879/6873133) -在数据库世界中谈论的通用术语，这是其他人的答案.
-- [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) -有关NoSQL数据库的所有内容的维基百科条目.
+- [/r/nosql](https://www.reddit.com/r/nosql/) - NoSQL 上的 Reddit 页面，介绍人们可能对 NoSQL 数据库有的一般问题和讨论.
+- [[nosql] 堆栈溢出标签](https://stackoverflow.com/tags/nosql/info)
+- [Ask HN: Learning NoSQL, papers and books (2017)](https://news.ycombinator.com/item?id=15427932) - “在您看来，哪些论文和书籍对于真正理解 NoSQL 主题是必不可少的？”
+- [Difference between scaling horizontally and vertically for databases](https://stackoverflow.com/q/11707879/6873133) - 数据库世界中谈论的常用术语，这里是其他人的答案.
+- [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) - 关于 NoSQL 数据库的所有内容的维基百科条目.
 
 
 ## Graph Databases
 
-- [Graph Databases Use Cases](https://neo4j.com/use-cases/) -尽管文档针对Neo4j，但概念适用于所有图形数据库.
-- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra (32:02)](https://www.youtube.com/watch?v=S20XMQyvANY) -了解图形数据库如何成为关键人物，以探索谁是避税天堂中与公司相关的主要人物，其中包括50多个国家/地区的140名政客.
-- [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) -讨论对数据建模的基础知识以及应采取的方法.
-- [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) -与Neo4j直接相关，但可能适用于任何图形数据库.
-- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - Brief introduction to graph data modeling and is an introduction to the book "Graph Data Modeling for NoSQL and SQL" by Thomas Frisendal.
+- [Graph Databases Use Cases](https://neo4j.com/use-cases/) - 尽管文档面向 Neo4j，但概念适用于所有图形数据库.
+- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra (32:02)](https://www.youtube.com/watch?v=S20XMQyvANY) - 了解图数据库如何成为探索避税天堂公司的主要名称的关键，其中包括 50 多个国家/地区的 140 位政客.
+- [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) - 讨论建模数据的基础知识以及应该采用的方法.
+- [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - 与 Neo4j 直接相关，但可能适用于任何图形数据库.
+- [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - 图数据建模简介，是 Thomas Frisendal 所著的“NoSQL 和 SQL 的图数据建模”一书的介绍.
 
 
 ## Criticisms and Debates
 
-- [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) -反对针对NoSQL数据库的九种批评，因为它们适用于CouchDB，但也可能适用于其他批评.
-- [Thank You for Your Help NoSQL, but We Got It from Here (2020)](https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/) －鉴于扩展性问题，NoSQL数据库已经推动了数据库的发展，但是现在NewSQL已经解决了这些问题（从MemSQL的角度来看）.
-- [The Five Stages of NoSQL (2016)](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) -选择和使用NoSQL数据库的阶段反映了悲伤的五个阶段.
-- [The Biggest Challenges of Moving to NoSQL (2017)](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) -通过迁移到NoSQL所面临的挑战，经久不衰所带来的好处是速度，可伸缩性和开发人员的喜悦.
+- [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) - 反对 NoSQL 数据库的九项批评，因为它们适用于 CouchDB，但也可能适用于其他数据库.
+- [Thank You for Your Help NoSQL, but We Got It from Here (2020)](https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/) - 考虑到可扩展性问题，NoSQL 数据库推动了数据库的发展，但现在 NewSQL 已经解决了这些问题（从 MemSQL 的角度来看）.
+- [The Five Stages of NoSQL (2016)](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) - 挑选和使用反映悲伤的五个阶段的 NoSQL 数据库的阶段.
+- [The Biggest Challenges of Moving to NoSQL (2017)](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) - 速度和可扩展性以及开发人员的喜悦是从迁移到 NoSQL 的挑战中获得的收益.
 
 
 ## Miscellaneous
 
-- [What is a NoSQL Database? Learn By Writing One In Python](https://web.archive.org/web/20201109032031/https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) -通过使用Python构建玩具数据库来学习NoSQL与RDBMS的优秀教程.
-- [Dynamo vs Cassandra : Systems Design of NoSQL Databases](https://sujithjay.com/data-systems/dynamo-cassandra/) -博客文章比较和构造了两个著名的NoSQL数据库的系统设计.
-- [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) -NoSQL数据库和模式范围的简要概述，以及使用Crystal编程语言对NoSQL数据库进行非常基本的实现.
+- [What is a NoSQL Database? Learn By Writing One In Python](https://web.archive.org/web/20201109032031/https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) - 通过使用 Python 构建玩具数据库来学习 NoSQL 与 RDBMS 的优秀教程.
+- [Dynamo vs Cassandra : Systems Design of NoSQL Databases](https://sujithjay.com/data-systems/dynamo-cassandra/) - 比较和构建两个著名 NoSQL 数据库的系统设计的博客文章.
+- [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - NoSQL 数据库和模式范围的简要概述，以及使用 Crystal 编程语言的 NoSQL 数据库的非常基本的实现.
+- [PostgreSQL, the NoSQL Database (2015)](https://www.linuxjournal.com/content/postgresql-nosql-database) - PostgreSQL 作为 NoSQL 数据库的替代品的一个论点，它使用其新功能，如 HStore（键值存储）和 JSONB（基于文档），从版本 9.4 开始，具有类似 NoSQL 的功能.
