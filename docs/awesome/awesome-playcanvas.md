@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是一个用于构建交互式 Web 内容的开源平台. 它是用 JavaScript、HTML5、CSS3 和 WebGL 编写的.
 >
-&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
+&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作_awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
 >
 &gt; 贡献_非常欢迎_但先看看 [Contributing](#contributing).
 
@@ -66,7 +66,7 @@
 - [Seemore](https://playcanv.as/p/MflWvdTW/) - 与 ARM 合作推广移动 WebGL.
 - [Sponza](https://playcanv.as/p/txPePQvy/) - 运行时光照贴图 Sponza 环境.
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - 来自 PlayCanvas 的首个 PBR 演示.
-- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - 物理渲染的老虎机.
+- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
 
 ## Advertising
 
@@ -94,7 +94,7 @@
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - 仔细选择电源来击败一波又一波的敌舰.
 - [Garden Bloom](https://play.famobi.com/garden-bloom) - 以花园为主题的 2D 三消游戏.
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D匹配3游戏.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) - 从几何形状构建的程式化的无尽赛跑者.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) - 由几何形状构成的程式化无尽赛跑者.
 - [Hoop Royale](https://play.famobi.com/hoop-royale) - 在球周围操纵环.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - 恐龙、乐高和汽车特技.
 - [Mahjong World](https://play.famobi.com/mahjong-world) - 3D麻将益智游戏.
@@ -115,11 +115,12 @@
 ## IO Games
 
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - 来自 Kiloo 的快节奏、高保真、3D 多人 FPS 游戏.
+- [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - 比你的对手画得更快以赢得比赛.
 - [Mini Royale 2](https://miniroyale2.io/) - 大逃杀第一人称射击游戏.
 - [Robostorm](https://robostorm.io/) - 狂热的在线多人机甲战斗游戏.
 - [Tank Royale](https://tankroyale.io/) - 卡通快节奏的自上而下多人射击游戏.
 - [TANX](https://tanx.io) - 在线多人坦克战游戏.
-- [Venge](https://poki.com/en/g/venge-io) - 3D 多人 FPS 射击游戏.
+- [Venge](https://venge.io/) - 3D 多人 FPS 射击游戏.
 
 ## Messenger Games
 
@@ -141,6 +142,7 @@
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 英菲尼迪系列（中文）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - 探索起亚最新的汽车系列.
+- [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - 汽车可视化.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - 越野车辆配置器.
 
 ## Product Configurators
@@ -153,7 +155,7 @@
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - 壁橱配置器.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - 窗口配置器.
-- [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
+- [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - 温室配置器.
 
 ## AR/VR/XR
 

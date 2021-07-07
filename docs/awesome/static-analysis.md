@@ -13,7 +13,7 @@
 
 ## What is Static Analysis?
 
-&gt; 静态程序分析是在没有实际执行程序的情况下对计算机软件进行的分析 — [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+&gt; 静态程序分析是在没有实际执行程序的情况下对计算机软件进行分析 — [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
 
  &gt; 作为程序员，我这几年做的最重要的事情就是积极追求静态代码分析. 比我用它预防的数​​百个严重错误更有价值的是我对软件可靠性和代码质量的看法的改变.  — [John Carmack (Creator of Doom)](https://www.gamasutra.com/view/news/128836/InDepth_Static_Code_Analysis.php)
 
@@ -36,7 +36,7 @@
 
  - :copyright: 代表专有软件. 所有其他工具都是开源的.
 - :information_source: indicates that the community does not recommend to use this tool for new projects anymore. The icon links to the discussion issue.
-- :warning: means that this tool was not updated for more than 1 year, or the repo was archived.
+- :warning: 表示此工具已超过 1 年未更新，或 repo 已存档.
 
 非常欢迎拉取请求！  
 也看看姐妹项目， [awesome-dynamic-analysis](https://github.com/mre/awesome-dynamic-analysis).
@@ -160,7 +160,7 @@
 
 - [.NET Analyzers](https://github.com/DotNetAnalyzers) - 使用 .NET 编译器平台开发分析器（诊断和代码修复）的组织.
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
-- [Code Analysis Rule Collection](https://carc.codeplex.com) ：警告： - 包含一组基于 Microsoft .NET 编译器平台“Roslyn”的诊断、代码修复和重构.
+- [Code Analysis Rule Collection](https://carc.codeplex.com) :warning: - Contains a set of diagnostics, code fixes and refactorings built on the Microsoft .NET Compiler Platform "Roslyn".
 - [code-cracker](http://code-cracker.github.io) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) :warning: - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 - [Designite](http://www.designite-tools.com) :copyright: - Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
@@ -342,7 +342,7 @@
 - [CogniCrypt](https://www.eclipse.org/cognicrypt) :warning: - 检查 Java 源代码和字节码是否不正确使用加密 API.
 - [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: - DesigniteJava 支持检测各种架构、设计和实现气味以及各种代码质量指标的计算.
 - [Doop](https://bitbucket.org/yanniss/doop)  - Doop 是一个声明式框架，用于 Java/Android 程序的静态分析，以指针分析算法为中心.  Doop 提供了大量的分析以及周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
-- [Error-prone](https://errorprone.info) - 将常见的 Java 错误捕获为编译时错误.
+- [Error-prone](https://errorprone.info) - 捕获常见的 Java 错误作为编译时错误.
 - [fb-contrib](http://fb-contrib.sourceforge.net) ：警告： - FindBugs 的插件，带有额外的错误检测器.
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  - 检测并禁止调用特定的方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
 - [google-java-format](https://github.com/google/google-java-format) - 谷歌风格重新格式化.
@@ -364,7 +364,7 @@
 - [Closure Compiler](https://developers.google.com/closure/compiler) - 一种编译器工具，可提高效率、减小大小并在 JavaScript 文件中提供代码警告.
 - [ClosureLinter](https://github.com/google/closure-linter)  :warning: - 确保您项目的所有 JavaScript 代码都遵循 Google JavaScript 样式指南中的指南. 它还可以自动修复许多常见错误.
 - [complexity-report](https://github.com/escomplex/complexity-report) ：警告： - JavaScript 项目的软件复杂性分析.
-- [DeepScan](https://deepscan.io) :copyright: - 一个 JavaScript 分析器，它针对运行时错误和质量问题，而不是编码约定.
+- [DeepScan](https://deepscan.io) :copyright: - 一个 JavaScript 分析器，它针对的是运行时错误和质量问题，而不是编码约定.
 - [es6-plato](https://github.com/the-simian/es6-plato) - 可视化 JavaScript (ES6) 源代码的复杂性.
 - [escomplex](https://github.com/jared-stilwell/escomplex) ：警告： - JavaScript 家族抽象语法树的软件复杂性分析.
 - [Esprima](https://esprima.org) - 用于多用途分析的 ECMAScript 解析基础设施.
@@ -567,6 +567,7 @@
 - [rust-audit](https://github.com/Shnatsel/rust-audit)  - 审计 Rust 二进制文件中的已知错误或安全漏洞. 这是通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分中来实现的.
 - [rustfix](https://github.com/rust-lang/rustfix) - 阅读并应用 rustc 提出的建议（以及第三方 lints，如由 clippy 提供的建议）.
 - [rustfmt](https://github.com/rust-lang/rustfmt) - 根据样式指南格式化 Rust 代码的工具.
+- [RustViz](https://github.com/rustviz/rustviz)  - RustViz 是一种从简单的 Rust 程序生成可视化的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有图形指示符的 SVG 文件，这些指示符与 mdbook 集成以在 Rust 程序中呈现数据流的可视化.
 - [warnalyzer](https://github.com/est31/warnalyzer) - 显示多箱 Rust 项目中未使用的代码
 
 
@@ -810,7 +811,7 @@
 
 <h2 id="css">CSS/SASS/SCSS</h2>
 
-- [CSS Stats](https://cssstats.com) - 样式表上可能有趣的统计数据.
+- [CSS Stats](https://cssstats.com) - Potentially interesting stats on stylesheets.
 - [CSScomb](https://github.com/csscomb/csscomb.js)  - CSS 的编码样式格式化程序. 支持自己的配置，使样式表美观且一致.
 - [CSSLint](http://csslint.net) - 进行基本的语法检查并发现有问题的模式或效率低下的迹象.
 - [GraphMyCSS.com](https://graphmycss.com) - CSS 特异性图生成器.
@@ -967,6 +968,7 @@
 - [Oversecured](https://oversecured.com)  :copyright: - 一个移动应用程序漏洞扫描器，专为安全研究人员和漏洞赏金黑客而设计. 它还允许集成到企业的 DevOps 流程中.
 - [PT Application Inspector](https://www.parasoft.com/)  :copyright: - 识别代码缺陷并检测漏洞以防止网络攻击. 通过展示可能的漏洞来演示远程代码执行.
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: - 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
+- [scorecard](https://github.com/ossf/scorecard) - 安全记分卡 - 开源的安全健康指标
 - [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/)  :copyright: - 识别托管在 Github、Google Code、MS CodePlex、SourceForge 等上的开源代码项目中的漏洞. 该工具带有 130 多个默认搜索，可识别 SQL 注入、跨站点脚本 (XSS)、不安全的远程和本地文件包含、硬编码密码等. 
 - [tfsec](https://github.com/tfsec/tfsec)  - Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反 AWS、Azure 和 GCP 安全最佳实践建议.
 - [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  - 具有可扩展插件系统的通用网络安全扫描器，用于以高可信度检测高严重性的类似 RCE 的漏洞. 可以添加用于查找漏洞（例如开放 API）的自定义检测器.
@@ -1018,7 +1020,7 @@
 
 - [After the Deadline](https://open.afterthedeadline.com) ：警告： - 拼写、风格和语法检查器.
 - [alex](https://alexjs.com) - 捕捉不敏感、不体贴的写作
-- [codespell](https://github.com/codespell-project/codespell) - Check code for common misspellings.
+- [codespell](https://github.com/codespell-project/codespell) - 检查常见拼写错误的代码.
 - [languagetool](https://languagetool.org)  - 25 种以上语言的风格和语法检查器. 它发现了许多简单的拼写检查器无法检测到的错误.
 - [misspell-fixer](https://github.com/vlajos/misspell-fixer) - 用于修复源代码中常见拼写错误、拼写错误的快速工具.
 - [Misspelled Words In Context](http://jwilk.net/software/mwic) - 拼写检查器，可对可能的拼写错误进行分组并在其上下文中显示它们.

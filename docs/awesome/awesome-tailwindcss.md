@@ -182,7 +182,7 @@
 -  [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap 到 Tailwind CSS 转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) - 用于将 HTML 文件从 Tailwind CSS v0.x 升级到 v1.0 的转换工具.
 -  [Tailwind Shift](https://github.com/awssat/tailwind-shift) - 用于从 Tailwind CSS v0.7 升级到 v1.0 的升级工具.
--  [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
+-  [RustyWind](https://github.com/avencera/rustywind) - 用于排序 Tailwind CSS 类的 CLI 工具.
 -  [Windy](https://usewindy.com) - 将 HTML 元素转换为 Tailwind CSS 的浏览器扩展.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - 反应本机打字系统.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - Tailwind CSS 的 TypeScript 类型.
@@ -195,7 +195,7 @@
 -  [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - 集成 Tailwind CSS 的 Figma 插件.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - 带有 PurgeCSS 和现代 CSS（预设 env 1）的 NuxtJS 的 Tailwind CSS 模块.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Preact 的 Tailwind CSS 集成.
--  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，它提供了一个实用程序来对 Tailwind CSS 类进行排序.
+-  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，它提供一个实用程序来对 Tailwind CSS 类进行排序.
 -  [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - 对类列表进行排序的漂亮插件.
 -  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 将 Tailwind CSS 与 Rails 的资产管道结合使用的 Gem.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - 生成 Tailwind 配置的 Zeplin 扩展.
@@ -206,7 +206,7 @@
 -  [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 -  [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
--  [Protoship Codegen](https://protoship.io) - 代码生成器，可从 Sketch 设计中创建基于 Tailwind CSS 的 HTML 和 CSS.
+-  [Protoship Codegen](https://protoship.io) - 代码生成器，可从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS.
 -  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
 -  [Maizzle](https://maizzle.com/) - 使用 Tailwind CSS 进行快速电子邮件原型设计的框架.
 -  [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS 类名称备忘单.
@@ -222,9 +222,10 @@
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全无样式、完全可访问的 UI 组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - 使用 Tailwind CSS 的 Vue.js UI 库.
 -  [Tailwind Elements](https://tailwind-elements.com/) - 大量免费组件集合，由于 Bootstrap 5，移动友好.
+-  [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 -  [Tailwind Made](https://tailwindmade.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
--  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的随时可用的 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.

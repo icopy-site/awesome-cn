@@ -1,21 +1,21 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-此页面可作为易于阅读的网站访问： [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+该页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Intro
 
-此列表最初是的克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 由Karan Bhangui和George Stocker提供.
+这个列表最初是一个克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 来自 Karan Bhangui 和 George Stocker 的贡献.
 
-该列表已由Victor Felder移至GitHub，以进行协作更新和维护. 它已成长为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有160,000+颗星，6000 +提交，1600 +贡献者和39,000+叉.
+该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有 194,000 多个星星、6100 多个提交、1600 多个贡献者和 43,000 多个分支.
 
-The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组织回购组织管理，该组织致力于促进免费电子书的创建，发行，存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
+The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这是一个非营利组织，致力于促进免费电子书的创建、分发、存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会在美国可以免税.
 
 
 ### How To Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master//CONTRIBUTING.md) . 如果您是GitHub的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master//HOWTO.md)!
+请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master//CONTRIBUTING.md) . 如果你是 GitHub 的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master//HOWTO.md)!
 
 
 ### How to Share
@@ -50,7 +50,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩文/韩文[韩国语]]（https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ko.md）
++ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)
@@ -84,7 +84,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-it.md)
 + [Khazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
-+ [韩文/韩文[韩国语]]（https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ko.md）
++ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pl.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pt_BR.md)
@@ -112,7 +112,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 
 ### Podcast - Screencast
 
-免费播客和截屏节目：
+免费播客和截屏视频：
 
 + [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
@@ -135,4 +135,4 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组�
 
 ## License
 
-此存储库中包含的每个文件均根据以下条款获得许可： [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE).
+此存储库中包含的每个文件均根据 [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE).

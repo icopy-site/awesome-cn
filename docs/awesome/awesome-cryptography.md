@@ -24,7 +24,7 @@
 
 #### Symmetric encryption
 
-- [3DES](https://en.wikipedia.org/wiki/Triple_DES) - 对称密钥分组密码（或三重数据加密算法（TDEA 或三重 DEA），它对每个数据块应用数据加密标准 (DES) 密码算法 3 次.
+- [3DES](https://en.wikipedia.org/wiki/Triple_DES) - 对称密钥分组密码（或三重数据加密算法（TDEA 或三重 DEA），它对每个数据块应用数据加密标准 (DES) 密码算法三次.
 - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - 对称密钥分组密码算法和美国政府安全和机密数据加密和解密标准（也称为 Rijndael）.
 - [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher) ) - 对称密钥分组密码，由 Bruce Schneier 于 1993 年设计. 该设计的显着特点包括依赖于键的 S-box 和高度复杂的键表.
 
@@ -59,7 +59,7 @@
 - [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) - 本书旨在作为专业密码学家的参考.
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - 从现代计算机科学角度编写的密码学入门级处理.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于 OpenSSL 的书.
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 关于现代密码学（哈希、MAC 码、对称和非对称密码、密钥交换、椭圆曲线、数字签名）的开发人员友好书籍，其中包含大量代码示例.
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 关于现代密码学（哈希、MAC 代码、对称和非对称密码、密钥交换、椭圆曲线、数字签名）的开发人员友好书籍，其中包含大量代码示例.
 - [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术来理解和应用系统和应用程序各个级别的安全性.
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）撰写了一本非凡的教科书.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) - A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson.
@@ -73,7 +73,7 @@
 - [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  - 密码学存在于日常生活中，从使用信用卡支付到使用电话. 了解有关在计算中制作和破解难题的所有信息.
 - [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - 本次演讲将涵盖广泛部署的系统中的加密漏洞以及最小的疏忽如何导致灾难.
 - [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
-- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography) - This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.
+- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  - 本课程解释了密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性以及如何将这些知识应用于实际应用.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
 - [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 本在线课程将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - 可汗学院的密码学课程.
@@ -91,7 +91,7 @@
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) - 跨平台文件加密实用程序.
 - [blackbox](https://github.com/StackExchange/blackbox) - 在 Git/Mercurial/Subversion 中安全地存储机密.
-- [certbot](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+- [certbot](https://github.com/certbot/certbot)  - 以前的 Let&#39;s Encrypt Client，是 EFF 的工具，用于从 Let&#39;s Encrypt 获取证书，并（可选）在您的服务器上自动启用 HTTPS. 它还可以充当任何其他使用 ACME 协议的 CA 的客户端.
 - [Coherence](https://github.com/liesware/coherence/) - 现代网络应用程序的加密服务器.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - 云中文件的多平台透明客户端加密.
 - [Databunker](https://databunker.org/) - 基于 API 的个人数据或 PII 存储服务符合 GDPR 和 CCPA.
@@ -216,7 +216,7 @@
 - [cifre](https://github.com/openpeer/cifre) - 用于现代客户端 JavaScript 的快速加密工具包.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - 谷歌的通用 JavaScript 库.
 - [cryptico](https://github.com/wwwtyro/cryptico) - 使用 RSA 和 AES for JavaScript 的易于使用的加密系统.
-- [crypto-js](https://github.com/brix/crypto-js) - 加密标准的 JavaScript 库.
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 Node.js 提供标准和安全的加密算法.
 - [forge](https://github.com/digitalbazaar/forge) - TLS 在 JavaScript 中的本机实现以及用于编写基于加密和网络密集型 web 应用程序的工具.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松地向 Node.js 应用程序添加强大的数据控制.
@@ -224,7 +224,7 @@
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript 加密库为 Web 开发人员提供了一组广泛而高效的加密函数.
 - [js-nacl](https://github.com/tonyg/js-nacl) - Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
-- [JShashes](https://github.com/h2non/jshashes) - 适用于 Node.js 和浏览器的快速且无依赖的加密散列库（支持 MD5、SHA1、SHA256、SHA512、RIPEMD、HMAC）.
+- [JShashes](https://github.com/h2non/jshashes) - 适用于 Node.js 和浏览器的快速且无依赖的加密哈希库（支持 MD5、SHA1、SHA256、SHA512、RIPEMD、HMAC）.
 - [jsrsasign](https://github.com/kjur/jsrsasign) - &#39;jsrsasign&#39;（RSA 签名 JavaScript 库）是一个开源免费加密库，支持 RSA/RSAPSS/ECDSA/DSA 签名/验证.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium 编译为纯 JavaScript，带有方便的包装器.
@@ -240,6 +240,7 @@
 - [PolyCrypt](https://github.com/polycrypt/polycrypt) - WebCrypto API 的纯 JS 实现.
 - [rusha](https://github.com/srijs/rusha) - 适用于大型二进制数据的高性能纯 JavaScript SHA1 实现，速度可达本机速度的一半.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) - 斯坦福 JavaScript 加密库.
+- [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - 用于现代浏览器和 Node.js 的 JavaScript 的 TweetNaCl / NaCl 端口.
 - [URSA](https://github.com/quartzjer/ursa) - Node.js 的 RSA 公钥/私钥 OpenSSL 绑定.
 
 
@@ -273,7 +274,7 @@ algorithm.
 
 ### Lua
 
-- [lua-lockbox](https://github.com/somesocks/lua-lockbox) - 用纯 Lua 编写的加密原语集合.
+- [lua-lockbox](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
 - [LuaCrypto](https://github.com/mkottman/luacrypto) - Lua 绑定到 OpenSSL.
 
 ### Objective-C
@@ -287,7 +288,7 @@ algorithm.
 ### PHP
 
 - [halite](https://paragonie.com/project/halite) - 使用 `libsodium` 进行加密的简单库.
-- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel 包抽象使用 `libsodium`.
+- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel 包抽象使用`libsodium`.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - 用于在 PHP 中使用密钥或密码加密数据的库.
 - [PHP Themis](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto 是一个简单灵活的 PHP 5.3+ 内存键值存储库.
@@ -297,7 +298,7 @@ algorithm.
 - [bcrypt](https://github.com/pyca/bcrypt) - 您的软件和服务器的现代密码散列.
 - [charm](https://github.com/JHUISI/charm) - 快速原型密码系统的框架.
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - 用于数字签名的抗量子非对称密钥生成工具.
-- [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
+- [cryptography](https://cryptography.io/en/latest/) - 公开加密配方和原语的 Python 库.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - 加密算法和应用程序的纯 python 实现.
 - [django-cryptography](https://github.com/georgemarshall/django-cryptography) - 在 Django 中轻松加密数据.
 - [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在 Python 中.
@@ -356,9 +357,9 @@ algorithm.
 - [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - 关于加密的一些随机想法.
 - [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/)  - 布里斯托大学密码学研究小组的官方博客. 这是一个群组博客，主要面向密码学家和密码学学生.
 - [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto 博客文章.
-- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson 和他的合著者撰写了各种主题，包括硬件实现、加密计时攻击、DRM 和 Commodore 64.
+- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
 - [Salty Hash](https://blog.ironcorelabs.com) - 涵盖加密、数据控制、隐私和安全等主题.
-- [Schneier on security](https://www.schneier.com/)  - 最古老和最著名的安全博客之一.  Bruce 涵盖了从分组密码密码分析到机场安全的主题.
+- [Schneier on security](https://www.schneier.com/)  - 最古老和最著名的安全博客之一.  Bruce 涵盖从分组密码密码分析到机场安全的主题.
 
 ### Mailing lists
 
