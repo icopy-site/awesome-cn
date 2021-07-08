@@ -41,7 +41,7 @@
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - 主要主题是：渐近（“Big-oh”）符号、排序和搜索、分治和随机算法.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - 主要主题是：数据结构、图原语及其应用.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - 主要主题是：贪心算法和动态规划.
-* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - 主要主题是：最短路径、NP 完备性及其对算法设计者的意义，以及处理计算上难以处理的问题的策略.
+* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - 主要主题是：最短路径、NP 完整性及其对算法设计者的意义，以及处理计算上难以处理的问题的策略.
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - 本课程涵盖了每个认真的程序员需要了解的有关算法和数据结构的基本信息.第一部分涵盖基本数据结构、排序和搜索算法. 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - 第二部分侧重于图形和字符串处理算法.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - 由 Tomas Cormen 和 Devin Balkcom 主持的算法课程.
@@ -212,11 +212,17 @@
 * [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - 从编程运动开始的真正信息丰富的博客.
 * [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - 获得更深入的算法知识以及如何以正确的方向思考.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/)  - Tanuj Khattar 的优秀博客. 涵盖一些有趣的数据结构的教程以及要解决的示例问题. 
+
 ## Tools
 
 *一些可以帮助你学习算法的工具*
 
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 交互式的、测试驱动的编码挑战（算法和数据结构）.
+
+## Related Awesome Lists
+- [Math](https://github.com/rossant/awesome-math#readme) - 免费提供的数学讲义.
+- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - 数学和计算机科学的跨学科，因其强调数学技术和严谨性而著称.
+
 
 ## License
 

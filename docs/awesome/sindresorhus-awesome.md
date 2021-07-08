@@ -261,7 +261,7 @@
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于 XML 的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript 库.
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript 工具包.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
 - [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - 应用程序框架.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
@@ -387,8 +387,9 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - 基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎.
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - 在量子计算机上利用量子力学和量子位的计算.
+- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - 计算机科学和纯数学的相互作用，其特点是强调数学的严谨性和技术.
 
 ## Big Data
 

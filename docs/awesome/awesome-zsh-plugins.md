@@ -793,7 +793,8 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 * [plugin-vscode](https://github.com/wuotr/zsh-plugin-vscode) - Visual Studio Code 插件，适用于 macOS、Windows 和 Linux 的文本编辑器.
 * [plugin](https://github.com/darrenbutcher/plugin)  - 从样板模板创建自定义 oh-my-zsh 插件. 非常以 oh-my-zsh 为中心，生成的插件需要编辑才能与其他框架一起使用.
 * [pnpm](https://github.com/ntnyq/omz-plugin-pnpm) - 为常用 Pnpm 命令添加有用的别名.
-* [poetry](https://github.com/darvid/zsh-poetry) - 自动激活和停用 [Poetry](https://poetry.eustace.io/)- 创建了 python virtualenvs.
+* [poetry (darvid)](https://github.com/darvid/zsh-poetry) - 自动激活和停用 [Poetry](https://poetry.eustace.io/)- 创建了 python virtualenvs.
+* [poetry (sudosabin)](https://github.com/sudosubin/zsh-poetry) - 启用诗歌`$PATH` 和自动补全.
 * [posh-git-bash](https://github.com/lyze/posh-git-sh) - 在您的提示中添加 `git` 状态.
 * [ppsmon](https://github.com/mzpqnxow/ppsmon)  - 读取 `/sys/class/net/$interface/` 以跟踪数据包传输速率. 它将当前速率存储到 RAM 支持的文件系统中的文件中，在该文件系统中可以轻松访问以在 shell 提示中显示. 由于使用了`/sys`，因此仅适用于 Linux.
 * [pr-cwd](https://github.com/zpm-zsh/pr-cwd)  - 使用当前工作目录创建一个全局变量. 插件与 [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks).
@@ -1341,7 +1342,7 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 * [fortuity](https://github.com/VGamezz19/oh-my-zsh-fortuity-theme) - 包括上一个命令的状态、`git` 信息和当前目录.
 * [frank](https://github.com/ronmackley/frank-theme)  - 弗兰克直截了当，在一行中紧凑但可读地显示信息. 弗兰克坚持事实，只在重要的时候告诉你额外的事情.
 * [friendly-fiesta](https://github.com/bruino/friendly-fiesta) - 叉 [terminal-party](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/terminalparty.zsh-theme) 主题.
-* [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) - 基于主题 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh-主题.
+* [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) - 基于主题 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) 哦，我的 zsh 主题.
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - 红色版本 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh 的主题.
 * [fritz](https://github.com/fritzccc/fritz-zsh-theme)  - 适用于深色背景. 包括 `git` 状态装饰.
 * [frlo](https://github.com/fiorillo/frlo) - 使用您计算机的主机名提出（希望如此）独特的三色主题以显示在您的提示中，以便您一目了然地知道您登录的是哪台机器.
