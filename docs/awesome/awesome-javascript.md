@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="sorrycc/awesome-javascript"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 
 一组很棒的浏览器端 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 图书馆、资源和闪亮的东西.
 
@@ -17,7 +17,7 @@
 * [Bower](https://github.com/bower/bower) - 网络包管理器.
 * [component](https://github.com/componentjs/component) - 用于构建更好的 Web 应用程序的客户端包管理.
 * [spm](https://github.com/spmjs/spm) - 全新的静态包管理器.
-* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
+* [jam](https://github.com/caolan/jam) - 使用以浏览器为中心且与 RequireJS 兼容的存储库的包管理器.
 * [jspm](https://github.com/jspm/jspm-cli) - 无摩擦的浏览器包管理.
 * [Ender](https://github.com/ender-js/Ender) - 没有图书馆的图书馆.
 * [volo](https://github.com/volojs/volo) - 从模板创建前端项目，添加依赖项，并自动化生成的项目.
@@ -48,7 +48,6 @@
 
 ## Bundlers
 
-* [browserify](https://github.com/substack/node-browserify) - Browserify 通过捆绑所有依赖项，让您在浏览器中使用 require(&#39;modules&#39;).
 * [webpack](https://github.com/webpack/webpack) - 为浏览器打包 CommonJs/AMD 模块.
 * [Rollup](https://github.com/rollup/rollup) - 下一代 ES6 模块打包器.
 * [Brunch](https://github.com/brunch/brunch) - 具有简单声明性配置的快速前端 Web 应用程序构建工具.
@@ -115,7 +114,7 @@
 
 ## QA Tools
 
-* [prettier](https://github.com/prettier/prettier) - Prettier 是一个固执的代码格式化程序.
+* [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint 是一种有助于检测 JavaScript 代码中的错误和潜在问题的工具.
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript 代码样式检查器.
 * [jsfmt](https://github.com/rdio/jsfmt) - 用于格式化、搜索和重写 JavaScript.
@@ -154,7 +153,7 @@
 * [marionette](https://github.com/marionettejs/backbone.marionette) - Backbone.js 的复合应用程序库，旨在简化大型 JavaScript 应用程序的构建.
 * [ripple](https://github.com/ripplejs/ripple) - 用于构建响应式视图的微小基础.
 * [rivets](https://github.com/mikeric/rivets) - 轻量级和强大的数据绑定 + 模板解决方案.
-* [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+* [derby](https://github.com/derbyjs/derby) - MVC 框架可以轻松编写在 Node.js 和浏览器中运行的实时协作应用程序.
     * [derby-awesome](https://github.com/russll/awesome-derby) - 一组很棒的德比组件
 * [way.js](https://github.com/gwendall/way.js) - 简单、轻量、持久的双向数据绑定.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril 是一个客户端 MVC 框架（轻量级、健壮、快速）.
@@ -163,7 +162,6 @@
 * [feathers](https://github.com/feathersjs/feathers) - 面向未来应用的极简实时 JavaScript 框架.
 * [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
-* [makefun](https://www.npmjs.com/package/makefun) - 使用承诺值，因为他们满意否则等待承诺
 * [Alpine.js](https://github.com/alpinejs/alpine) - 以低得多的成本为您提供大型框架（如 Vue 或 React）的反应性和声明性性质.
 * [inferno](https://github.com/infernojs/inferno) - 用于构建现代用户界面的极快、类似 React 的 JavaScript 库.
 * [FoalTS](https://foalts.org) - 用于构建 Web 应用程序的优雅且包罗万象的 Node.JS 框架（TypeScript）.
@@ -200,11 +198,10 @@
 * [xtemplate](https://github.com/xtemplate/xtemplate) - 用于节点和浏览器的可扩展模板引擎库
 * [marko](https://github.com/marko-js/marko) - 用于 Node.js 和浏览器的快速、轻量级、基于 HTML 的模板引擎，具有异步、流、自定义标签和 CommonJS 模块作为编译输出.
 * [swig](https://github.com/paularmstrong/swig) -（已存档）一个简单、强大且可扩展的 Node.js 和基于浏览器的 JavaScript 模板引擎.
-* [EHTML](https://github.com/Guseyn/EHTML) - 允许您不编写 JavaScript 代码的 HTML 框架.
 
 ## Articles and Posts
 
-* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - 关于 JavaScript Functional 概念的文章.
+* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - 关于 JavaScript Functional 概念的文章.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - 一系列关于 JavaScript 构建块的文章.
 * [Multi-threading using web-workers](https://www.loginradius.com/engineering/blog/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers：向 JavaScript 添加多线程
 * [this keyword in JavaScript](https://www.loginradius.com/engineering/blog/breaking-down-this-keyword-in-javascript/) - 分解 JavaScript 中的“this”关键字
@@ -414,7 +411,7 @@
 * [basket.js](https://github.com/addyosmani/basket.js) - 一个脚本和资源加载器，用于使用 localStorage 缓存和加载脚本.
 * [bag.js](https://github.com/nodeca/bag.js) - 缓存脚本和资源加载器，类似于basket.js，但具有额外的k/v 接口和localStorage / websql / indexedDB 支持.
 * [basil.js](https://github.com/Wisembly/basil.js) - 缺少 JavaScript 智能持久层.
-* [jquery-cookie](https://github.com/carhartl/jquery-cookie) - 一个简单、轻量级的 jQuery 插件，用于读取、写入和删除 cookie.
+* [jquery-cookie](https://github.com/carhartl/jquery-cookie) - 一个简单的轻量级 jQuery 插件，用于读取、写入和删除 cookie.
 * [js-cookie](https://github.com/js-cookie/js-cookie) - 一个简单、轻量级的 JavaScript API，用于处理浏览器 cookie.
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript 客户端 Cookie 操作库.
 * [DB.js](https://github.com/aaronpowell/db.js/) - 基于 Promise 的 IndexDB 包装器库.
@@ -429,7 +426,7 @@
 * [randomColor](https://github.com/davidmerfield/randomColor) - JavaScript 的颜色生成器.
 * [chroma.js](https://github.com/gka/chroma.js) - 用于各种颜色操作的 JavaScript 库.
 * [color](https://github.com/Qix-/color) - JavaScript 颜色转换和操作库.
-* [colors](https://github.com/mrmrs/colors) - 更智能的网络颜色默认设置.
+* [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - 用于创建随机令人愉悦的颜色和配色方案的 JavaScript 库.
 * [TinyColor](https://github.com/bgrins/TinyColor) - 用于 JavaScript 的快速、小型颜色操作和转换.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - 从图像中提取突出的颜色.
@@ -560,7 +557,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) - 带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 一组使用 CSS 动画的加载微调器
 
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/), 和生成器像 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), 和生成器像 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -571,7 +568,7 @@
 * [validate.js](https://github.com/rickharrison/validate.js) - 受 CodeIgniter 启发的轻量级 JavaScript 表单验证库.
 * [validatr](https://github.com/jaymorrow/validatr/) - 跨浏览器 HTML5 表单验证.
 * [FormValidation](http://formvalidation.io/)  - 用于验证表单字段的最佳 jQuery 插件. 以前的 BootstrapValidator.
-* [is.js](https://github.com/arasatasaygin/is.js) - Check types, regexps, presence, time and more.
+* [is.js](https://github.com/arasatasaygin/is.js) - 检查类型、正则表达式、存在、时间等.
 * [FieldVal](https://github.com/FieldVal/fieldval-js)  - 多用途验证库. 支持同步和异步验证.
 * [Funval](https://github.com/neuledge/funval) - 使用函数接口进行数据验证（支持 TypeScript）.
 
@@ -580,9 +577,9 @@
 
 * [mousetrap](https://github.com/ccampbell/mousetrap) - 用于在 JavaScript 中处理键盘快捷键的简单库.
 * [keymaster](https://github.com/madrobby/keymaster) - 一个简单的微型库，用于定义和调度键盘快捷键.
-* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
+* [Keypress](https://github.com/dmauro/Keypress) - 键盘输入捕获实用程序，其中任何键都可以是修饰键.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - 一个用于绑定键盘组合的 JavaScript 库，没有键代码和键组合冲突的痛苦.
-* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery 热键可让您在代码中的任何位置监视键盘事件，几乎支持任何组合键.
+* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
 * [jwerty](https://github.com/keithamus/jwerty) - 很棒的键盘事件处理.
 
 
@@ -617,7 +614,6 @@
 * [slick](https://github.com/kenwheeler/slick) - 您需要的最后一个旋转木马.
 * [slidesJs](http://www.slidesjs.com) - 是 JQuery(1.7.1+) 的响应式幻灯片插件，具有触摸和 CSS3 过渡等功能
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - 一个很棒的，完全响应的 jQuery 滑块插件.
-* [unslider](https://github.com/idiot/unslider) - 最简单的 jQuery 滑块.
 * [sly](https://github.com/darsain/sly) - 用于单向滚动的 JavaScript 库，支持基于项目的导航.
 * [vegas](https://github.com/jaysalvat/vegas)  - 一个 jQuery 插件，可为您的网页添加漂亮的全屏背景. 它甚至允许幻灯片放映.
 * [Sequence](https://github.com/IanLunn/Sequence) - 用于创建响应式滑块、演示文稿、横幅和其他基于步骤的应用程序的 CSS 动画框架.
@@ -632,7 +628,6 @@
 * [slidr](https://github.com/bchanx/slidr) - 添加一些幻灯片效果.
 * [Flickity](https://github.com/metafizzy/flickity) - 触摸、反应灵敏、可轻弹的画廊.
 * [Glide.js](https://github.com/jedrzejchalubek/glidejs)  - 响应式和触摸友好的 jQuery 滑块. 它简单、轻便且快速.
-* [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - 带有自适应彩色 figcaption 和导航的滑块的 jQuery 插件.
 * [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) - 一个可扩展的低级网络轮播，用 TypeScript 编写.
 
 ## Range Sliders
@@ -664,7 +659,6 @@
 * [Pikaday](https://github.com/dbushell/Pikaday) - 令人耳目一新的 JavaScript 日期选择器——轻量级、无依赖、模块化 CSS.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) - 全尺寸拖放事件日历（jQuery 插件）.
 * [rome](https://github.com/bevacqua/rome)  - 可定制的日期（和时间）选择器. 无依赖，可选用户界面.
-* [datedropper](https://github.com/felicegattuso/datedropper) - datedropper 是一个 jQuery 插件，它提供了一种快速简便的方法来管理输入字段的日期.
 * [Date Range Picker](https://github.com/dangrossman/daterangepicker) - 创建一个下拉菜单，用户可以从中选择日期范围.
 * [Duet Date Picker](https://github.com/duetds/date-picker) - Duet Design System 的可访问日期选择器的开源版本，WCAG 2.1 可访问性投诉
 
@@ -683,7 +677,7 @@
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) - 带有进度条、拖放、直接到 S3 上传的多文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  - 一组用于处理文件的 JavaScript 工具. 多重上传、拖放和分块文件上传. 图像：EXIF 裁剪、调整大小和自动定位.
 * [plupload](https://github.com/moxiecode/plupload) - 用于处理文件上传的 JavaScript API，它支持多文件选择、文件类型过滤、请求分块、客户端图像缩放等功能，并使用不同的运行时来实现这一点，例如 HTML 5、Silverlight 和 Flash.
-* [filepond](https://github.com/pqina/filepond) - 一个 JavaScript 库，可以上传您扔给它的任何内容，优化图像以加快上传速度，并提供出色、可访问、如丝般流畅的用户体验.
+* [filepond](https://github.com/pqina/filepond) - 一个 JavaScript 库，可以上传您扔给它的任何内容，优化图像以加快上传速度，并提供出色的、可访问的、如丝般流畅的用户体验.
 
 ### Other
 
@@ -702,14 +696,13 @@
 * [qTip2](https://github.com/qTip2/qTip2) - 非常强大的工具提示.
 * [tooltipster](https://github.com/iamceege/tooltipster) - 一个 jQuery 工具提示插件.
 * [simptip](https://github.com/arashmanteghi/simptip) - 一个用 Sass 制作的简单 CSS 工具提示.
-* [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 用于响应式和可访问的模态窗口和工具提示的 jQuery 插件.
 * [toolbar](https://github.com/paulkinzett/toolbar) - 工具提示风格的工具栏 jQuery 插件
 * [hint.css](https://github.com/chinchang/hint.css) - CSS 中的工具提示库，用于您可爱的网站.
 
 ## Modals and Popups
 
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - 轻巧且响应迅速的灯箱脚本，专注于性能.
-* [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+* [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI 元素.
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - 一个带有新模式概念的 jQuery 插件，用于弹出窗口.
 * [vex](https://github.com/HubSpot/vex) - 高度可配置且易于设计的现代对话框库.
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal)  - 扩展默认的 Bootstrap Modal 类. 响应式、可堆叠、ajax 等.
@@ -810,7 +803,7 @@
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
  <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有模仿 HTML5 MediaElement API 的 Flash 和 Silverlight 垫片的播放器，可在所有浏览器中实现一致的 UI.<http://mediaelementjs.com/>
- * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使在网络上处理音频更容易的库. 它为在不同浏览器中播放音频提供了一致的 API.
+ * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于嵌入宽度可变的视频.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - 任何网页上的简单声音.
@@ -823,7 +816,7 @@
 ## Typography
 
  * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) - 最好的 Web 排版：基于元素宽度的字体大小和行高.
- * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本与特定宽度匹配所需的字体大小和字间距.
+ * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本匹配到特定宽度所需的字体大小和字间距.
  * [circletype](https://github.com/peterhry/circletype) - 一个 jQuery 插件，可让您在网络上输入曲线.
  * [slabText](https://github.com/freqDec/slabText/) - 一个 jQuery 插件，用于生成大的、大胆的和响应式的标题.
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 向您的网站添加一个超级简单的旋转文本，几乎没有标记.
@@ -837,7 +830,6 @@
 
 * [velocity](https://github.com/julianshapiro/velocity) - 加速的 JavaScript 动画.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - 用于 jQuery 的超平滑 CSS3 转换和过渡.
-* [impress.js](https://github.com/impress/impress.js) - 在 HTML 文档中使用 CSS3 转换/转换进行类似 Prezi 的演示.
 * [bounce.js](https://github.com/tictail/bounce.js) - 立即创建美味的 CSS3 动画.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - 适用于所有主要浏览器的高性能 HTML5 动画.
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd 是一个不可知的跨浏览器库，用于处理过渡事件.
@@ -848,10 +840,10 @@
 * [textillate](https://github.com/jschr/textillate) - 一个简单的 CSS3 文本动画插件.
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 支持的 JavaScript 动画框架.
 * [animatable](https://github.com/LeaVerou/animatable) - 一种属性，两种价值，无限可能.
-* [shuffle-images](https://github.com/peachananr/shuffle-images) - 以创意方式随机播放图像的最简单方法 http://www.thepetedesign.com/demos/shuffle-images_demo.html
-* [smoothState.js](https://github.com/miguel-perez/smoothState.js)  - 使用 jQuery 实现不显眼的页面转换.  http://smoothstate.com/
-* [Anime.js](http://animejs.com) - JavaScript 动画引擎 http://animejs.com.
-* [Mo.js](http://mojs.io) - 用于网络 http://mojs.io 的动态图形工具带.
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - 以创意方式随机播放图像的最简单方法
+* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - 使用 jQuery 实现不显眼的页面转换.
+* [Anime.js](http://animejs.com) - JavaScript 动画引擎.
+* [Mo.js](http://mojs.io) - 用于网络的动态图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - 用于创建粒子的轻量级 JavaScript 库.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的和改进的particles.js 版本，包含错误修复和许多新功能
 * [particles-bg](https://github.com/lindelof/particles-bg) - 一个轻量级的 React 粒子动画背景组件.
@@ -901,7 +893,7 @@ http://www.listjs.com
 * [grid](https://github.com/hootsuite/grid) - 用于二维、可调整大小和响应式列表的拖放库.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - 一个响应式的 jQuery 等高插件.
 * [survey.js](https://github.com/surveyjs/surveyjs)  - JavaScript 调查引擎. 它使用 JSON 来获取调查元数据和结果.  http://surveyjs.org/
-* [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) - 帮助确定在任何给定时间最好使用哪种原生 JavaScript 方法的资源
+* [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://objectexplorer.netlify.app/) - 帮助确定在任何给定时间最好使用哪种原生 JavaScript 方法的资源
 * [Clipboard.js](https://clipboardjs.com/) - 不使用 Flash 或使用框架的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) - 基于浏览器 Fetch API 的小巧优雅的 HTTP 客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator

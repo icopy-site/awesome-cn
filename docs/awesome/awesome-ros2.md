@@ -6,7 +6,7 @@
 
 &gt; 精选的机器人操作系统 2.0 版 (ROS 2) 资源和库列表.
 
-机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发人员工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
+机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
 
 
 
@@ -35,7 +35,7 @@
 
 - [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - 用于构建 ROS2 + OpenSplice CE 容器的 dockerfile. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - 用于使用 OpenJDK 和 Android 构建 ros2_java 的 Dockerfiles. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
-- [micro-ROS/docker](https://github.com/micro-ROS/docker) - 与 Docker 相关的材料，用于使用 micro-ROS 硬件进行设置、配置和开发.
+- [micro-ROS/docker](https://github.com/micro-ROS/docker) - 与 Docker 相关的材料，用于设置、配置和开发微型 ROS 硬件.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - 将 ROS 和 ROS 2 工作区交叉编译到非本地架构并生成相应的 Docker 映像.
 
 ### Ecosystem
@@ -66,7 +66,7 @@
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy 将自治算法作为单独的构建块提供，并与 Autoware.Auto 兼容.
 - [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制 (`ros2_controllers`) 上下文中详细阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制（`ros2_controllers`）上下文中详细阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - ros_controllers 的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的 ROS 包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - 包装 ORB_SLAM2 库的 ROS2 节点. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
@@ -81,10 +81,10 @@
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - 用于 ROS2 的通用键盘 Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - 用于扭曲机器人的简单操纵杆遥控. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 - [navigation](https://github.com/ros-planning/navigation2/) - ROS2 导航堆栈. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
-- [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - 用于 ROS 2 的原始 ROS1 诊断的分叉版本（目前仅适用于 diagnostics_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
+- [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - 用于 ROS 2 的原始 ROS1 诊断的分叉版本（目前仅适用于diagnostics_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
 - [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - 原始 ROS 机器人状态发布器的分叉版本，所有修改都可以在 ROS2 生态系统中编译. ![robot_state_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
 - [common_interfaces](https://github.com/ros2/common_interfaces) - 一组包含通用接口文件（.msg 和.srv）的包. ![common_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
-- [ros2_object_map](https://github.com/intel/ros2_object_map) - “当 SLAM 时在地图上标记对象的标签”. ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
+- [ros2_object_map](https://github.com/intel/ros2_object_map) - “SLAM 时在地图上标记物体的标签”. ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
 - [ros2_object_analytics](https://github.com/intel/ros2_object_analytics) - 对象分析 (OA) 是用于实时对象检测、定位和跟踪的 ROS2 包装器. ![ros2_object_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
 - [ros2_intel_movidius_ncs](https://github.com/intel/ros2_intel_movidius_ncs) - Movidius™ 神经计算棒 (NCS) 神经元计算 API 的 ROS2 包装器. ![ros2_intel_movidius_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
 - [ros2_moving_object](https://github.com/intel/ros2_moving_object) - 根据对象分析 `ros2_object_analytics` 生成的消息处理移动对象. ![ros2_moving_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
@@ -98,6 +98,8 @@
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) - 用于 ROS2 的 PID 控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - ROS 2 和微型 ROS 的系统模式.
 - [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - 用于部署 Darknet 的 YOLO 计算机视觉模型的 ROS2 包装器.
+- [easy_perception_deployment](https://github.com/ros-industrial/easy_perception_deployment) - 加速工业计算机视觉模型培训和部署的软件包. ![easy_perception_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
+- [easy_manipulation_deployment](https://github.com/ros-industrial/easy_manipulation_deployment) - 集成感知元素以建立端到端拾取和放置任务的包. ![easy_manipulation_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
 ### Middleware
 
@@ -144,7 +146,7 @@
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ZED SDK 的 ROS 2 包装测试版.
 - [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso Radar 驱动程序.
 - [sick_scan2](https://github.com/SICKAG/sick_scan2) - 用于 SICK TiM 系列激光扫描仪 (TiM551/TiM561/TiM571) 的 ROS2 驱动程序.
-- [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
+- [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - Ouster OS-1 激光雷达的 ROS2 驱动程序. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - 有关 micro-ROS 项目中使用和支持的硬件平台的信息和文档.
 - [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) - 用于 Blickfeld Cube 1 和 Cube Range 的 ROS2 驱动程序.
 
@@ -226,7 +228,7 @@
 
 ## Forks
 
-- [Apex.OS](https://www.apex.ai/apex-os) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.
+- [Apex.OS](https://www.apex.ai/apex-os) - Apex.OS 是 ROS 2 的一个分支，它非常强大和可靠，可用于安全关键应用程序.
 
 ## Documentation
 
@@ -310,7 +312,7 @@
 - RViz - 迁移到 ROS 2.0 的故事
 - 发布 ROS 2
 - 参与 ROS 2 开发
-- 计划计划：插件一路向下
+- Planning to Plan: Plugins All The Way Down
 - 利用 ROS2 中的 DDS 安全性
 - Arm DDS 安全库：为 ROS2 添加安全安全性
 - ROS2：为 Jaguar4x4 增压
@@ -323,7 +325,7 @@
 
 ### Embedded World Conference 2018
 
-- ADLink Neuron：面向工业的基于 ROS2 的平台 [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be) [Video](https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be)
+- ADLink Neuron: An industrial oriented ROS2-based platform [Slides](https://raw.githubusercontent.com/Adlink-ROS/adlink_neuronbot/master/document/ADLINK_NeuronBot_20180313.pdf) [Video](https://www.youtube.com/watch?v=RC6XvTvTs9Y&feature=youtu.be) [Video](https://www.youtube.com/watch?v=qA4_Hmnd_tM&feature=youtu.be)
 
 ### 2018
 

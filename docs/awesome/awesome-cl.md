@@ -293,7 +293,7 @@ Graphics
 * [Varjo](https://github.com/cbaggers/varjo)  - Lisp 到 GLSL 翻译器.  [BSD_2 条款][17].
 * [Vecto](http://www.xach.com/lisp/vecto/)  - 简单的矢量绘图库.  [FreeBSD] [39].
 * [zpng](http://www.xach.com/lisp/zpng/)  - 用于创建 PNG 文件的库.  [FreeBSD] [39].
-* [pngload-fast](https://github.com/mfiano/pngload-fast)  - 便携式 Common Lisp 中的 PNG（便携式网络图形）图像格式解码器，强调速度.  [麻省理工学院][200].
+* [pngload-fast](https://git.mfiano.net/mfiano/pngload)  - 便携式 Common Lisp 中的 PNG（便携式网络图形）图像格式解码器，强调速度.  [麻省理工学院][200].
 * [cl-cuda](https://github.com/takagi/cl-cuda)  - 在 Common Lisp 程序中使用 NVIDIA CUDA 的库.  [LLGPL] [8].
 
 
@@ -383,7 +383,7 @@ YAML
 
 大量可移植层列表 [is collected here](https://shinmera.github.io/portability/) . 这里是其中的一些：
 
-* [trivial-arguments](https://github.com/Shinmera/trivial-arguments)  - 一个便携式库，用于检索函数的参数列表.  [zlib] [33].
+* [trivial-arguments](https://github.com/Shinmera/trivial-arguments)  - 用于检索函数参数列表的便携式库.  [zlib] [33].
 * [definitions](https://github.com/Shinmera/definitions)  - 通用定义内省库. 它使您能够检索与指示符（例如符号、包和名称）相关联的定义或绑定.  [zlib] [33].
 
 更改语法
@@ -500,7 +500,7 @@ Beginner
  * [Practical Common Lisp][206] - Common Lisp 的很好的介绍性文本，带有实际示例. 更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
 * [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - 很好的语言介绍.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - 一本适合具有一定编程背景的初学者的好书.
-* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - 一个快速入门和编写 Common Lisp 的好教程.
+* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - 快速入门和编写 Common Lisp 的好教程.
 * [Casting SPELs in LISP](http://www.lisperati.com/casting.html) - 在阅读漫画书的同时学习 LISP 的有趣方式.
 
 Intermediate
@@ -817,7 +817,7 @@ Monitoring
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)  - 常见的 Lisp 绑定到 Pushover.  [麻省理工学院][200].
 * [humbler](https://github.com/Shinmera/humbler)  - Tumblr API 接口.  [zlib] [33].
 * [multiposter](https://github.com/Shinmera/multiposter)  - 同时发布到多个服务.  [zlib] [33].
-* [stripe](https://github.com/mfiano/stripe)  - Stripe 支付系统的客户端.  [麻省理工学院][200].
+* [stripe](https://git.mfiano.net/mfiano/stripe)  - Stripe 支付系统的客户端.  [麻省理工学院][200].
 
 Others
 ------
@@ -920,7 +920,7 @@ Utils
 
 
 * [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围的事件调度程序.
-* [psychiq](https://github.com/fukamachi/psychiq)  - 针对 Common Lisp 应用程序的基于 redis 的后台作业处理. 受 Ruby 的 Sidekiq 启发并与其 Web UI 兼容.  [LLGPL] [8].
+* [psychiq](https://github.com/fukamachi/psychiq)  - 用于 Common Lisp 应用程序的基于 redis 的后台作业处理. 受 Ruby 的 Sidekiq 启发并与其 Web UI 兼容.  [LLGPL] [8].
 * [cl-cron](https://github.com/ciel-lang/cl-cron)  - 一个简单的工具，提供类似 cron 的设施.  [GPL3][2].
 * [clerk](https://github.com/tsikov/clerk)  - 一个类似 cron 的调度程序，具有健全的 DSL.  [麻省理工学院][200].
 
@@ -963,7 +963,7 @@ Readline、ncurses 和其他图形助手
   模式.  [GPL3][2].
 * [Linedit](https://common-lisp.net/project/linedit) - 阅读风格
   提供可定制行编辑的库
-  特征.  [MIT 风格] [210].
+  特征.  [麻省理工学院式] [210].
 * [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - 一个
    Common Lisp 中`libcurses` 的接口. 它提供了一个原始的，
   通过 CFFI 到 libcurses 的低级接口，以及更高级的接口
@@ -971,7 +971,7 @@ Readline、ncurses 和其他图形助手
 * [replic](https://github.com/vindarel/replic/)  - 将现有代码转换为 readline 应用程序的助手，重点是定义命令参数的完成. 还提供了一个随时可用的可执行文件，它将用户的 lispy init 文件转换为 readline 命令.  [麻省理工学院][200].
 * [cl-ansi-term](https://github.com/vindarel/cl-ansi-term) - 打印
   彩色文本、水平线、进度条、（无）有序列表
-  和符合 ANSI 标准的终端上的表格.  [GPL3][2].
+  和 ANSI 兼容终端上的表格.  [GPL3][2].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)  - 进度条，就像在 Quicklisp 中一样！  [麻省理工学院][200].
 
 壳、壳接口

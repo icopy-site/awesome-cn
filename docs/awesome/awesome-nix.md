@@ -37,7 +37,7 @@
 ## Channel History
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
-* [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
+* [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git commit.
 
 ## Deployment Tools
 
@@ -101,7 +101,8 @@
 ### Node.js
 
 * [Napalm](https://github.com/nmattia/napalm) - 支持使用轻量级 npm 注册表在 Nix 中构建 npm 包.
-* [node2nix](https://github.com/svanderburg/node2nix) - 从`package.lock` npm 文件生成 Nix 表达式.
+* [node2nix](https://github.com/svanderburg/node2nix) - 从`package.json`（或`package-lock.json`）生成Nix 表达式（存储为文件）.
+* [npmlock2nix](https://github.com/tweag/npmlock2nix) - 从`package-lock.json`（内存中）生成 Nix 表达式，主要用于 Web 项目.
 * [yarn2nix](https://github.com/nix-community/yarn2nix) - 从 `yarn.lock` 文件生成 Nix 表达式.
 
 ### PHP
@@ -140,7 +141,7 @@
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算包集.
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层的协议，强调安全性.
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 像在 NixOS 上一样管理 macOS 配置.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与前沿 Rust 和 Firefox 的叠加.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - 流血边缘的 Wayland 包.

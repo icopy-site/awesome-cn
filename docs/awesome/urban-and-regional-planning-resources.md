@@ -32,6 +32,7 @@ Data resources that are publicly available for use. Licenses may apply.
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [CoStar](https://www.costar.com/) - 服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
 
 ### Climate
 
@@ -90,7 +91,7 @@ Data resources that are publicly available for use. Licenses may apply.
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一套全国（美国）交通设施和网络公共空间信息地理数据库； 人、货物、车辆和工艺在交通网络上的流动； 影响交通网络或受其影响的社会、经济和环境条件.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家交通运营商处收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/),[GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表了全国范围内特定年份平均每年日的潜在噪声水平. 
-- [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据存储库. 
+- [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - Repository of operations, financial, and asset data that US transit agencies are required to report to the Federal Transit Administration. 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)  - 即用型全球街道网络模型和 GIS 格式的计算指标. 附加信息：[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - 全球所有快速交通走廊的集合，包括快速公交、轻轨和地铁，由交通与发展政策研究所出版. 
 - [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - TransitCenter 发布的美国七个（并且还在增加）城市的交通系统的公平性分析.
@@ -119,7 +120,7 @@ Data resources that are publicly available for use. Licenses may apply.
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
-- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用和模式.
+- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 
 ## Planning Data Specifications
 作为计划和项目的一部分使用的城市规划相关数据规范和标准的集合.
@@ -176,7 +177,7 @@ R 包和相关资源.
 - [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)  - 公民技术和公民应用的常见模式和反模式. 附加信息：由 Code for America 提供.
 
 ### Web and JS
-Front-end web related packages and resources.
+前端 web 相关的包和资源.
 
 - [Bootstrap](https://getbootstrap.com/) - Widely-used, well documented library for quick design and customization of websites. Additional Information: [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 - [Chart.js](https://www.chartjs.org/)  - 为网络和移动设备创建简单（或高级）的数据可视化. 附加信息： [GitHub](https://github.com/chartjs/Chart.js).

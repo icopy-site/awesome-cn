@@ -3,30 +3,31 @@
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-与语言学密切相关的所有内容的精选列表，按字母顺序排序.
+与语言学相关的任何内容的精选列表，按字母顺序排序.
 
 
 ### Programming
-*对开发应用程序有用的库，框架和应用程序.
+*可用于开发应用程序的库、框架和应用程序.*
 
 ### Platforms and toolkits
-* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) -Haxe的早期语言分析和自然语言处理库.
-* [Natural](https://github.com/NaturalNode/natural) -Node.js的通用自然语言工具.
-* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的最完整平台.
-* [Snowball](http://snowball.tartarus.org/) -Snowball是一种可以轻松表示词干算法的语言.
-* [Spacy](https://spacy.io/) -Python中具有行业实力的国家语言处理.
-* [UralicNLP](https://github.com/mikahama/uralicNLP)  -一个开放源代码的Python库，用于处理形态丰富且绝大部分濒临灭绝的Uralic语言. 它可以对许多乌拉尔语进行形态分析，生成，词形化，歧义消除和词汇查找.
+* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Haxe 的早期语言分析和自然语言处理库.
+* [Natural](https://github.com/NaturalNode/natural) - Node.js 的通用自然语言工具.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - 构建 Python 程序以处理人类语言数据的最完整平台.
+* [Snowball](http://snowball.tartarus.org/) - Snowball 是一种可以轻松表示词干算法的语言.
+* [Spacy](https://spacy.io/) - 工业强度的 Python 国家语言处理.
+* [UBIAI](https://ubiai.tools/)  - 易于使用的文本注释工具，适用于具有最全面自动注释功能的团队. 支持 NER、关系和文档分类以及用于发票标签的 OCR 注释.
+* [UralicNLP](https://github.com/mikahama/uralicNLP)  - 一个开源 Python 库，用于处理形态丰富且大部分情况下濒临灭绝的乌拉尔语言. 它可以对多种乌拉尔语言进行形态分析、生成、词形还原、消歧和词法查找.
 
 ### Algorithms
-* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) -来自雪球的各种阻止算法.
-* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) -由Porter Stemming Algorithm的作者Martin Porter编写和维护的“官方”主页.
+* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自雪球的各种词干算法.
+* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 用于分发 Porter Stemming 算法的“官方”主页，由其作者 Martin Porter 编写和维护.
 
 ### Data sets
-* [EuroRomCom Data](https://github.com/kirkins/euroromcom) -JSON格式的Pan-Romance单词列表.
+* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON 格式的泛浪漫词列表.
 
 ### Resources
-* [How To Label Data](https://www.lighttag.io/how-to-label-data/) -大型语言注释项目管理指南.
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) -用于保护，开发和记录低资源（人类）语言的资源列表.
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - 管理大型语言注释项目的指南.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - 用于保护、开发和记录低资源（人类）语言的资源清单.
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -41,16 +42,16 @@
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
-* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) -马里兰大学计算机语言学讲座.
-* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) -CC许可的教育视频与Marburg University的同名电子学习平台互连.
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - 马里兰大学计算语言学课程讲座.
+* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - CC 许可的教育视频与马尔堡大学的同名电子学习平台互连.
 
 ### Books
 *一些更有趣和更完整的书.*
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) -一本入门书.
+* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - 一本入门书.
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing with Python](http://www.nltk.org/book/) -NLTK套件中的书籍.
+* [Natural Language Processing with Python](http://www.nltk.org/book/) - NLTK 包中的书.
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free

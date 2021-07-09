@@ -146,7 +146,7 @@
 - [acm-sig-ada](https://www.sigada.org/) - 艾达特别兴趣小组.
 - [ada-resource-association](http://www.adaic.org/community/) - 自 1990 年以来，Ada 资源协会的主要使命一直是“确保 Ada 用户的持续成功并促进 Ada 在软件行业的使用”.
 - [ada-information-clearinghouse](http://www.adaic.org/) - Ada 编程语言的新闻和资源.
-- [ada-planet](https://www.laeran.pl/profile/adaplanet) - 来自 Ada 编程语言世界的新闻聚合器.
+- [ada-planet](https://www.laeran.pl/adaplanet/i/) - 来自 Ada 编程语言世界的新闻聚合器.
 
 #### Competition
 <div align="center">
@@ -175,7 +175,7 @@
 
 ##### Other / unknown licence 
 
-- [hac](https://github.com/zertovitch/hac) - 完全在 Ada 中的实验性 Ada 编译器.
+- [hac](https://github.com/zertovitch/hac) - 完全在 Ada 中的实验 Ada 编译器.
 - [byron](https://github.com/OneWingedShark/Byron) - Byron 项目是一个社区驱动的 Ada 编译器、工具链和 IDE 系统.
 
 #### Commercial / Open source
@@ -254,7 +254,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - 俄罗斯方块，在 Ada，用于 Unity 游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) - 用 SPARK/Ada 编写和验证的井字游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate 是适用于 Windows、OS-X 和 Linux 的星际之门/门户幻想设置中的第一人称 3D 推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏……它看起来像一个rubic 立方体，但它是一个滑块，而不是一个扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏……它看起来像一个魔方，但它是一个滑块，而不是一个扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) - AdaVenture 是一款适合儿童的复古点击游戏，包含迷宫、龙、蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) - 有趣的益智游戏，可在任何操作系统的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
@@ -532,7 +532,7 @@
 ## Hardware and Embedded
 
 #### Frameworks
-- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 机器人与 Ada、ARM 和 Lego.
+- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用 Ada、ARM 和 Lego 的机器人技术.
 
 #### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - 完整的 Ada + SPARK Crazyflie 2.0 固件的源代码.

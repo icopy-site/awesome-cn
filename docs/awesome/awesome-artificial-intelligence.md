@@ -89,10 +89,11 @@
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)  - 本书涵盖人类活动的计算机模拟，例如问题解决和自然语言理解； 计算机视觉; 人工智能工具和技术； 人工智能编程简介； 认知的符号和神经网络模型； 心智的本质； 以及人工智能和认知科学的社会影响.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html)  - 马文·明斯基 (Marvin Minsky) 关于我们的思维如何运作的开创性著作. 许多符号 AI 概念都源于此基础.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - 本书旨在帮助职前和在职教师了解当前使用人工智能作为解决问题和完成任务的辅助手段的一些教育意义.
-* [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia:Computational_intelligence) - Scholarpedia 是由来自世界各地的学术专家编写和维护的同行评审开放访问百科全书.
+* [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia:Computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德 (Bill Hibbard) 的一本书，结合了多篇同行评审论文和新材料，分析了人工智能的伦理问题.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - 一组关于人工智能和机器学习的页面.
 * [R2D3](http://www.r2d3.us/)  - 一个网站，解释从机器学习到统计学的主题. 所有这些都有助于美丽的动画信息图表和现实生活中的例子. 提供多种语言版本.
+* [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - 本书描述并实现了（PO）MDP 和强化学习的理性代理模型.
 
 ## Code
 
@@ -195,7 +196,7 @@
 
 * [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - 我们正在认真努力打造一台会思考的机器
 * [AITopics](http://aitopics.org/) - AI资源大聚合
-* [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
+* [AIResources](http://airesources.org/) - 面向人工智能研究社区的开源软件和开放获取数据目录
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 * [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 

@@ -10,7 +10,7 @@
 
 精选的 AWS 库、开源存储库、指南、博客和其他资源的精选列表.
 
-受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
+灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 ## The Fiery Meter of AWSome
 
@@ -32,7 +32,7 @@ Python 模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/ma
 
 欢迎投稿！
 
-查看 [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
+回顾 [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
 
 还请查看 [Watch List](https://github.com/donnemartin/awesome-aws/issues/34).
 
@@ -170,7 +170,7 @@ Python 模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/ma
 相关回购：
 
 * [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
-* [botocore :fire::fire::fire:](https://github.com/boto/botocore)
+* [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore)
 
 ### Ruby SDK
 
@@ -837,7 +837,7 @@ AWS 存储库：
 * [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性 Ccanner.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - 用于匿名注册的令牌自动售货机.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - 用于身份注册的令牌自动售货机.
-* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) -TLS / SSL协议的实现.
+* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
 
 社区回购：
 
@@ -895,7 +895,7 @@ AWS 存储库：
 社区回购：
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - 基于 Node.js/ImageMagick 的图像缩略图服务.
-* [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - 在 AWS CDK 中构建的可部署的无服务器架构模式.
+* [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - 在 AWS CDK 中构建的可部署无服务器架构模式.
 * [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) - 高度可用、水平可扩展的排队和通知服务.
 * [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - AWS 上的开源 PaaS.
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - 在单个网页上显示您的所有 AWS 资源.
@@ -1193,7 +1193,7 @@ AWS 会议：
 * 102Tbps 网络容量进入数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 * 自 2014 年以来推出的 500 多项主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * 所有其他 14 家云提供商的总容量是 AWS 总容量的 1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* 每天，AWS 都会增加足够的新服务器容量来支持 Amazon 的所有全球基础设施，当时它是一家年收入为 7B 美元的企业（2004 年）.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+* 每天，AWS 都会增加足够的新服务器容量来支持 Amazon 的所有全球基础设施，当时它的年收入为 7B 美元（2004 年）.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1331,14 +1331,14 @@ AWS 会议：
 
 ### Miscellaneous Services
 
-* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - 为卖家提供程序化网络服务，使用亚马逊物流将商品运送到亚马逊或从亚马逊运送商品.
+* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - 为卖家提供程序化网络服务，以使用亚马逊物流将商品运送到亚马逊或从亚马逊运送商品.
 * [Mechanical Turk](https://www.mturk.com/mturk/welcome) - 管理分布在许多人中的小型工作单元.
 * [Partner Network (APN)](https://aws.amazon.com/partners/) - 为合作伙伴提供技术信息以及销售和营销支持，以增加商机.
 * [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - 提供对产品数据和电子商务功能的访问.
 
 ## Credits
 
-看看 [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md).
+查看 [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md).
 
 ## Other Awesome Lists
 
