@@ -26,7 +26,7 @@
 * [pnpm](https://pnpm.js.org/) - 快速、节省磁盘空间的包管理器.
 
 
-## Component Managment
+## Component Management
 
 * [Bit](https://github.com/teambit/bit) - 跨应用程序创建、查找和重用组件（React、Angular、Node 等）.
 

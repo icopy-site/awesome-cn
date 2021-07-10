@@ -4,7 +4,7 @@
 
 &gt; 精选的精彩资源列表 [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) 发展.
 
- WebExtensions 是一个用于开发浏览器插件的跨浏览器系统. 该系统在很大程度上兼容 [extension API](https://developer.chrome.com/extensions) 由 Google Chrome 和 Opera 支持. 为这些浏览器编写的扩展程序在大多数情况下会在 Firefox 或 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) 只是 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+ WebExtensions 是一个用于开发浏览器插件的跨浏览器系统. 该系统在很大程度上兼容 [extension API](https://developer.chrome.com/extensions) 由 Google Chrome 和 Opera 支持. 为这些浏览器编写的扩展在大多数情况下会在 Firefox 或 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) 只是 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
 
 
 
@@ -37,6 +37,7 @@
 - [webext-storage-cache](https://github.com/fregante/webext-storage-cache) - 类似地图的承诺缓存存储过期.
 - [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) - 在自定义域上自动注入您的“content_scripts”.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill 支持 `browser` 命名空间中基于标准化承诺的 API.
+- [webextension-polyfill-ts](https://github.com/Lusito/webextension-polyfill-ts) - *TypeScript-ready* polyfill 支持 `browser` 命名空间中基于标准承诺的 API.
 - [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) - 为 `browser` 命名空间提供 TypeScript 类型.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - 用途 [redux](https://github.com/reactjs/redux) 用于管理 WebExtension 的状态.
 - [ExtPay](https://github.com/Glench/ExtPay) - 在扩展中进行安全支付，而无需运行服务器后端.
@@ -53,7 +54,8 @@
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension 可直接在商店中查看扩展的源代码.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - 自动发布到 Chrome Web Store、Mozilla Addons 和 Opera Addons 的工具.
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack 加载器，可让您指定`manifest.json` 属性仅出现在特定浏览器中.
-- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将 &#39;manifest.json&#39; 作为您唯一的 webpack 入口点.
+- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制的 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将“manifest.json”作为您唯一的 webpack 入口点.
+- [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - 在开发过程中自动重新加载浏览器扩展的 Webpack 插件.
 
 ## Testing
 

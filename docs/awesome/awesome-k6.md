@@ -50,6 +50,7 @@
 - [example-data-generation](https://github.com/k6io/example-data-generation) - 使用 faker 为 k6 生成真实数据.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances)  - .NET 混沌工程研讨会. 使用 Simmy 和 k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - 使用 cronjobs 在 Kubernetes 中持续运行 k6 测试.
+- [k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - 使用K6实现多场景模板
 
 ## Tools
 

@@ -14,7 +14,7 @@
 
 - [Developer Hub](https://substrate.dev/) - 开发者门户.
   - [Tutorials](https://substrate.dev/tutorials) - 引导练习让您入门.
-  - [Knowledge Base](https://substrate.dev/knowledgebase) - 相关的深入文档
+  - [Knowledge Base](https://substrate.dev/docs) - 相关的深入文档
     基板开发.
   - [Recipes](https://substrate.dev/recipes) - 解决常见问题的工作代码示例.
   - [Reference Docs](https://substrate.dev/rustdocs) - Rustdoc API 文档.

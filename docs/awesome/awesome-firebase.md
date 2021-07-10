@@ -35,6 +35,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [FireCMS](https://firecms.co/docs/)  - FireCMS 是由开发人员为开发人员构建的开源无头 CMS 和管理面板. 它会根据您的配置生成 CRUD 视图.
 -  [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - 模拟器套件现已完成！
 -  [App Check](https://firebase.google.com/docs/app-check) - 保护您的后端资源免遭滥用，例如账单欺诈或网络钓鱼.
 -  [Firestore Data Bundles](https://firebase.google.com/docs/firestore/bundles) - 数据包是 CDN 缓存的静态查询结果，可加快首页加载速度.
