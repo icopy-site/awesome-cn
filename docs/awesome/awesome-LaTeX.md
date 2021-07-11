@@ -22,13 +22,13 @@
 
 - [MacTeX](https://tug.org/mactex/)  - 适用于 macOS 的最常见的 LaTeX 发行版，基本上是 TeXLive，并添加了一些 Mac 特定的工具.  ！[苹果电脑]
 - [TeX Live](https://www.tug.org/texlive/)  - 最常见的用于类 Unix 操作系统的 LaTeX 发行版，包括 GNU/Linux. 也适用于 Windows.  ![linux] ![windows]
-- [MikTeX](https://miktex.org)  - 适用于 Windows 的最常见的 LaTeX 发行版（仅限）.  ！[视窗]
+- [MikTeX](https://miktex.org)  - 适用于 Windows 的最常见的 LaTeX 发行版，但也适用于 Mac、Linux 或作为 Docker 映像.  ！[福斯]
 
 ## Engines
 
 - [pdfTeX](https://www.tug.org/applications/pdftex/)  - TeX 编译器可立即生成 PDF 文件而不是 DVI 文件（如今，这是许多用户的标准编译器）.  ！[福斯]
 - [XeTeX](http://xetex.sourceforge.net)  - TeX 编译器提供比 TeX/pdfTeX 更好的 unicode 和字体支持（即您可以使用操作系统的字体，而不仅仅是 TeX 字体）.  ！[福斯]
-- [LuaTeX](http://www.luatex.org)  - (La)TeX 编译器，支持 Lua 代码编写脚本，比标准 TeX/pdfTeX 改进了 unicode 和字体支持.  ！[福斯]
+- [LuaTeX](http://www.luatex.org)  - (La)TeX 编译器，支持 Lua 代码编写脚本，并且比标准 TeX/pdfTeX 改进了 unicode 和字体支持.  ！[福斯]
 - [tectonic](https://tectonic-typesetting.GitHub.io/en-US/)  - 由 XeTeX 和 TeXLive 提供支持的现代自包含 (La)TeX 编译器.  ！[福斯]
 
 ### LaTeX formulas on the web
@@ -63,7 +63,7 @@ A complete list of LaTeX editors is collected at [tex.stackexchange.com](https:/
 - [TeXWorks](https://www.tug.org/texworks/)  - LaTeX 代码的严肃编辑器，模仿 TeXShop，但这是跨平台的.  ！[福斯]
 - [BakomaTex](http://www.bakoma-tex.com) - 商业 LaTeX 编辑器，允许使用其源代码和所见即所得来编辑您的文档.
 - [Inlage](http://www.inlage.com/home)  - 具有手写公式识别、Excel 导入和更多漂亮功能的商业 LaTeX 编辑器.  ！[视窗]
-- [Texpad](https://www.texpadapp.com)  - 适用于 macOS 和 iOS 的商用 LaTeX 编辑器，具有出色的功能（文档概览、同步 PDF 显示、自动完成、跨设备同步等），永远不会妨碍写作.  ！[苹果电脑]
+- [Texpad](https://www.texpadapp.com)  - 适用于 macOS 和 iOS 的商用 LaTeX 编辑器，具有从不妨碍写作的出色功能（文档概览、同步 PDF 显示、自动完成、跨设备同步等）.  ！[苹果电脑]
 
 ### General purpose text editors
 
@@ -130,10 +130,11 @@ A complete list of LaTeX editors is collected at [tex.stackexchange.com](https:/
 - [LaTeXiT](https://www.chachatelier.fr/latexit/)  - LaTeXit 是一个方程编辑器，可以轻松地将渲染的方程（如 PDF、PNG 等）拖放到 Mac 上的非 LaTeX 文档中.  ！[苹果电脑]
 - [KLaTeXFormula](https://klatexformula.sourceforge.io)  - LaTeXit 的跨平台替代方案.  ！[福斯]
 - [EqualX](http://equalx.sourceforge.net)  - 图形化的 LaTeX 公式编辑器.  ![windows] ![linux] ![foss]
-- [ChkTeX](http://baruch.ev-en.org/proj/chktex/) - Linter / code checker for LaTeX documents. ![foss]
+- [ChkTeX](http://baruch.ev-en.org/proj/chktex/)  - LaTeX 文档的 Linter / 代码检查器.  ！[福斯]
 - [LaTeXEqEdit](http://latexeqedit.sourceforge.net/index.php)  - 适用于 Windows 的 LaTeX 公式编辑器.  ![windows] ![foss]
 - [Laeqed](https://www.thrysoee.dk/laeqed/)  - 跨平台 LaTeX 公式到 PNG 转换器.  ![windows] ![linux] ![mac] ![foss]
 - [blacktex](https://github.com/nschloe/blacktex)  - 替换常见的 LaTeX 反模式并清理文件的命令行工具.  ![windows] ![linux] ![mac] ![foss]
+- [TeXtidote](https://github.com/sylvainhalle/textidote)  - LaTeX 文档的跨平台 (Java) 拼写、语法和样式检查器.  ![windows] ![linux] ![mac] ![foss]
 
 ## LaTeX-compatible GUI tools
 
@@ -151,7 +152,7 @@ A complete list of LaTeX editors is collected at [tex.stackexchange.com](https:/
 
 ### References
 
-- [Cross-reference packages explained](https://tex.stackexchange.com/a/36312/9075) - 详细说明交叉引用包（cleveref、varioref、theoremref、nameref 等）：使用哪个，哪个冲突？
+- [Cross-reference packages explained](https://tex.stackexchange.com/a/36312/9075) - 详细说明交叉引用包（cleveref、variioref、theoremref、nameref 等）：使用哪个，哪个冲突？
 
 ### Tables
 
@@ -172,7 +173,7 @@ TikZ 是一个非常棒的软件包，其中包含许多插件，可让您从 La
 通常，使用“pdflatex”比使用 PSTricks 更容易.
 
 - [TeXample](http://www.texample.net) - 关于 LaTeX 的博客，其中包含大量 TikZ 数字.
-- [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  - 有用的网站，带有一些自定义包，可使用 TikZ 绘制特殊图（波德图、奈奎斯特图、电气原理图、框图等）. 请注意，一切都是法语.
+- [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  - 带有一些自定义包的有用网站，可以使用 TikZ 绘制特殊图（波德图、奈奎斯特图、电气原理图、框图等）. 请注意，一切都是法语.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - 收集基于 TikZ 的软件包以制作绘图和图表.
 - [pgfplots](http://pgfplots.sourceforge.net)  - 在 TikZ/pgf 之上和风格的真正令人敬畏的绘图库. 这个库可以加载 CSV 数据文件，执行一些计算并创建漂亮的绘图.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - TikZ 世界的简短介绍文件，由 Jacques Crémer 撰写.
@@ -206,7 +207,7 @@ TikZ 是一个非常棒的软件包，其中包含许多插件，可让您从 La
 ## Resources
 
 - [TUG](https://www.tug.org) - TeX 用户组是一种与其他 (La)TeX 用户取得联系的方式.
-- [TeXDoc](http://texdoc.net) - `texdoc` 实用程序的在线界面，用于浏览 LaTeX 包和文档.
+- [TeXDoc](http://texdoc.net) - Online interface to the `texdoc` utility to browse LaTeX packages and documentation.
 - [Dickimaw Books: LaTeX resources](http://www.dickimaw-books.com/latexresources.html) - 对 LaTeX 有用的资源概览.
 - [LaTeX cookbook](http://latex-cookbook.net) - TeXample 的兄弟，包含相当多的示例代码.
 - [Visual FAQ](http://mirrors.ctan.org/info/visualFAQ/visualFAQ.pdf) - 排版问题和指向适当 TeX 常见问题解答的链接.
