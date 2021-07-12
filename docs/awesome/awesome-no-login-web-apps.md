@@ -135,7 +135,7 @@
 * [paper-io](http://paper-io.com)  -游戏的目的是控制竞技场的100％. 您扮演的是一个很小的，不断移动的正方形，其起始区域很小，与正方形的颜色相对应.
 * [diep.io](https://diep.io/)  -Diepio是一款您可以玩坦克射击游戏的游戏. 射击形状以升级您的坦克，然后射击玩家很多点.
 * [skribbl.io](https://skribbl.io/) -几个玩家连接到大厅，其中一个被告知他们需要画图，而无需说出它是什么，而其他人则必须识别它.
-* [surviv.io](https://surviv.io/)  -Surviv.io是2D大逃杀游戏. 每场比赛只有一场直播，没有重生.
+* [surviv.io](https://surviv.io/)  -Surviv.io是2D大逃杀游戏. 每场比赛只有一條生命，没有重生.
 * [nitrome](https://www.nitrome.com/)  -免费的pixelart游戏集合. 新游戏不需要Flash.
 
 
