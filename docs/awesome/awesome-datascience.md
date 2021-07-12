@@ -219,6 +219,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Feast](https://github.com/feast-dev/feast)  | 用于管理、发现和访问机器学习功能的功能存储.  Feast 为模型训练和模型服务提供了一致的特征数据视图.  |
 | [Polyaxon](https://github.com/polyaxon/polyaxon)  | 一个可重复和可扩展的机器学习和深度学习平台.  |
 | [LightTag](https://lighttag.io)  | 团队文本注释工具 |
+| [UBIAI](https://ubiai.tools)  | 易于使用的文本注释工具，适用于具有最全面自动注释功能的团队. 支持 NER、关系和文档分类以及用于发票标签的 OCR 注释 |
 | [Trains](https://github.com/allegroai/trains)  | 面向 AI 的 Auto-Magical Experiment Manager、版本控制和 DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有特征存储的开源数据密集型机器学习平台. 摄取和管理在线（MySQL 集群）和离线（Apache Hive）访问的功能，大规模训练和服务模型.  |
 | [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是面向开发人员的可解释 AutoML 框架. 使用 MindsDB，您只需一行代码即可构建、训练和使用最先进的 ML 模型.  |
@@ -483,7 +484,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Louis Dorard](http://www.louisdorard.com/blog/) 一个热衷于网络和数据的技术人员，无论大小
 - [Machine Learning Mastery](http://machinelearningmastery.com/) 关于帮助专业程序员自信地应用机器学习算法来解决复杂问题.
 - [Daniel Forsyth](http://www.danielforsyth.me/) - Personal Blog
-- [Data Science Weekly](https://www.datascienceweekly.org/) - 每周新闻博客
+- [Data Science Weekly](https://www.datascienceweekly.org/) - Weekly News Blog
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) - 数据科学博客
 - [R Bloggers](https://www.r-bloggers.com/) - R 博主
 - [The Practical Quant](https://practicalquant.blogspot.com/) 大数据
@@ -716,7 +717,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)                                                                                                            | 选择正确的估算器 |
 | [<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png)                                                                                                                                                 | 数据科学行业：谁做什么|
 | [<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png)                                                                                                                                                 | 数据科学~~朋友~~欧拉图|
-| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由跳板|
+| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色来自 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由跳板|
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 教你的非数据科学家/非统计学家同事的简单而友好的方式 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自 Geckoboard [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ## Data Sets
