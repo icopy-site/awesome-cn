@@ -48,7 +48,7 @@
 ## JavaScript
 
 - [jsFuck](https://github.com/aemkei/jsfuck)
-- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
+- [ComcastifyJS](https://github.com/theonion/comcastifyjs) - 有时图像加载速度太快了.
 - [Elevator.js](https://github.com/tholman/elevator.js) - 最后，一个“返回顶部”按钮，就像一个真正的电梯.
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - 没有评论的评论 - 提供仅存储在本地存储中的单面用户评论.
 - [Fapfap.js](http://fapfapjs.io) - 为 DIY 爱好者手工制作的 JavaScript 框架.
@@ -68,13 +68,14 @@
 - [Pettier](https://github.com/coleturner/pettier) - 更漂亮的配置，随机化选项并在空格和制表符之间任意切换 
 - [not-paid.js](https://github.com/kleampa/not-paid) - 为 body 标签添加不透明度并每天增加它，直到他们的网站完全消失. 
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - 通过调整弹出窗口的大小来演奏长号. 
-- [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) - 您绝对没有要求的 ESLint 插件.
+- [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) - 您绝对不需要的 ESLint 插件.
 - [HTPL Compiler](https://github.com/roveroniandrea/HTPLcompiler) - HTPL 是一种基于 HTML 的编程语言.
 - [redond-it](https://github.com/jazcarate/redond-it) - 去除您网站的锋利边缘.
 
 ## PHP
 
 - [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW 使失败的测试用例在持续集成工具中成功.
+- [Assert true](https://github.com/joubertredrat/assert-true) - 有很多方法可以将断言设置为 true.
 
 
 ## Python
@@ -132,7 +133,7 @@
 - [lolcat](https://github.com/busyloop/lolcat) - 彩虹和独角兽！
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - 微妙和不那么微妙的外壳调整会慢慢地让人们发疯.
 - [lolcommits](https://github.com/mroth/lolcommits) - 面向软件开发人员的基于 Git 的自拍.
-- [sl](https://github.com/mtoyoda/sl) - 当您输入“sl”时，SL（蒸汽机车）会在您的终端上运行，就像您要输入“ls”一样.
+- [sl](https://github.com/mtoyoda/sl) - SL（蒸汽机车）在您输入“sl”时运行在您的终端上，就像您想输入“ls”一样.
 - [genact](https://github.com/svenstaro/genact) - 为您的外壳设计的废话活动生成器.
 - [fat](https://github.com/drummyfish/fat) - 展开您的文件.
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - 一个命令行工具，可重现 1992 年电影《运动鞋》中著名的数据解密效果.
@@ -158,7 +159,7 @@
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - 用于生成 shrugapillars 的库.
 - [quinedb](https://github.com/gfredericks/quinedb)  - 一个也是键值存储的quine. 打破代码和数据之间的壁垒.
 - [πfs](https://github.com/philipl/pifs)  - π 包含存在的所有可能的数字序列. 我确定你的数据在那里*某处*.
-- [parrot.live](https://github.com/hugomd/parrot.live) - 将动画鹦鹉带到各地的终端.
+- [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 - [Slack Typing](https://github.com/will/slacktyping) - 一个非常好的程序，它可以在其他人打字时说我正在打字.
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - 很棒的列表的存储库列表 

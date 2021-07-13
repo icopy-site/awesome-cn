@@ -166,6 +166,7 @@
 * [inferno](https://github.com/infernojs/inferno) - 用于构建现代用户界面的极快、类似 React 的 JavaScript 库.
 * [FoalTS](https://foalts.org) - 用于构建 Web 应用程序的优雅且包罗万象的 Node.JS 框架（TypeScript）.
 * [Lucia](https://github.com/aidenybai/lucia) - 用于小型网络应用程序的 3kb 库.
+* [Adonis](https://github.com/adonisjs/core) - Node.js 框架高度关注开发人员的人体工程学、稳定性和信心
 
 ## Node-Powered CMS Frameworks
 
@@ -298,7 +299,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速而肮脏的、百行长、文学编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn) 建立手册. 它将简单的、人类可读的文本文件转换为用于终端显示的 roff，以及用于 Web 的 HTML.
-* [dox](https://github.com/tj/dox) 是一个用 node 编写的 JavaScript 文档生成器.  Dox 不再为您的文档生成固定结构或样式，它只是为您提供 JSON 表示，允许您使用 Markdown 和 JSDoc 样式的标签.
+* [dox](https://github.com/tj/dox) 是一个用 node 编写的 JavaScript 文档生成器.  Dox 不再为您的文档生成固定的结构或样式，它只是为您提供 JSON 表示，允许您使用 Markdown 和 JSDoc 样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是一个 JSDoc3 到 Markdown 文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是一个很好的 JavaScript 文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个 Node.js 应用程序，它从源代码中的注释生成 API 文档，使用类似于 Javadoc 和 Doxygen 等工具的语法.
@@ -411,7 +412,7 @@
 * [basket.js](https://github.com/addyosmani/basket.js) - 一个脚本和资源加载器，用于使用 localStorage 缓存和加载脚本.
 * [bag.js](https://github.com/nodeca/bag.js) - 缓存脚本和资源加载器，类似于basket.js，但具有额外的k/v 接口和localStorage / websql / indexedDB 支持.
 * [basil.js](https://github.com/Wisembly/basil.js) - 缺少 JavaScript 智能持久层.
-* [jquery-cookie](https://github.com/carhartl/jquery-cookie) - 一个简单的轻量级 jQuery 插件，用于读取、写入和删除 cookie.
+* [jquery-cookie](https://github.com/carhartl/jquery-cookie) - 一个简单、轻量级的 jQuery 插件，用于读取、写入和删除 cookie.
 * [js-cookie](https://github.com/js-cookie/js-cookie) - 一个简单、轻量级的 JavaScript API，用于处理浏览器 cookie.
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript 客户端 Cookie 操作库.
 * [DB.js](https://github.com/aaronpowell/db.js/) - 基于 Promise 的 IndexDB 包装器库.
@@ -588,7 +589,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [intro.js](https://github.com/usablica/intro.js) - 为您的网站和项目提供新功能介绍和分步用户指南的更好方法.
 * [shepherd](https://github.com/HubSpot/shepherd) - 引导您的用户浏览您的应用.
 * [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - 使用 Twitter Bootstrap Popovers 快速轻松地浏览产品.
-* [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的导览.
+* [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的游览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 您的应用程序的简单叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
@@ -797,12 +798,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Video/Audio
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - 更漂亮的 YouTube 嵌入 - 具有不错的选项，例如高分辨率预览图像、嵌入选项的高级自定义以及可选的 FitVids 支持.
- * [html5media](https://github.com/etianen/html5media)  - 启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
+ * [html5media](https://github.com/etianen/html5media) - Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play&#39;em 是一个 JavaScript 组件，它管理音乐/视频轨道队列并通过在 HTML DIV 中嵌入多个播放器（包括 Youtube、Soundcloud 和 Vimeo）来播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
  <https://flowplayer.org/>
- * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有模仿 HTML5 MediaElement API 的 Flash 和 Silverlight 垫片的播放器，可在所有浏览器中实现一致的 UI.<http://mediaelementjs.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有模仿 HTML5 MediaElement API 的 Flash 和 Silverlight 垫片的播放器，在所有浏览器中实现一致的 UI.<http://mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于嵌入宽度可变的视频.
@@ -816,7 +817,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Typography
 
  * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) - 最好的 Web 排版：基于元素宽度的字体大小和行高.
- * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本匹配到特定宽度所需的字体大小和字间距.
+ * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本与特定宽度匹配所需的字体大小和字间距.
  * [circletype](https://github.com/peterhry/circletype) - 一个 jQuery 插件，可让您在网络上输入曲线.
  * [slabText](https://github.com/freqDec/slabText/) - 一个 jQuery 插件，用于生成大的、大胆的和响应式的标题.
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 向您的网站添加一个超级简单的旋转文本，几乎没有标记.
@@ -885,7 +886,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [json3](https://github.com/bestiejs/json3) - 与几乎所有 JavaScript 平台兼容的现代 JSON 实现.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - 关于 JavaScript 特性的游戏.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - JavaScript 位向量实现
-* [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  - 剧透警告！ 一个快乐的小 jquery 插件，可以在您的网站上隐藏剧透.
+* [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  - 剧透警告！ 一个快乐的小 jquery 插件，可以隐藏您网站上的剧透.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) - 振动 API 包装器
 * [list.js](https://github.com/javve/list.js)  - 为表格、列表和各种 HTML 元素添加搜索、排序、过滤器和灵活性. 构建为不可见并在现有 HTML 上工作.
 http://www.listjs.com
@@ -896,7 +897,7 @@ http://www.listjs.com
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://objectexplorer.netlify.app/) - 帮助确定在任何给定时间最好使用哪种原生 JavaScript 方法的资源
 * [Clipboard.js](https://clipboardjs.com/) - 不使用 Flash 或使用框架的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) - 基于浏览器 Fetch API 的小巧优雅的 HTTP 客户端.
-* [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
+* [Fcal](https://github.com/5anthosh/fcal) - 数学表达式评估器
 * [emoji-button](https://github.com/joeattardi/emoji-button) - 原版 JavaScript 表情选择器组件
 * [iooxa](https://github.com/iooxa/article) - 交互式科学写作、反应性文档和可探索性解释的组件.
 * [Idyll](https://github.com/idyll-lang/idyll)  - 创建可探索的解释和交互式讲故事的文章. 可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
