@@ -7,7 +7,7 @@
 一个很棒的精选清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
 
 #### What is Site Reliability Engineering?
- &gt; “从根本上说，这就是当您要求软件工程师设计运维功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
+ &gt; “从根本上说，这就是当您要求软件工程师设计操作功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
 
 ## Contributing
 
@@ -327,8 +327,8 @@
 * [Incident response, programs and you(r startup)](https://lethain.com/incident-response-programs-and-your-startup/)
 * [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook/)
 * [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
-* [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)a
-* 
+* [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
+ 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
@@ -472,7 +472,7 @@
 * [KubeWeekly](https://kubeweekly.io/)  - 有关 Kubernetes 的所有内容的每周时事通讯.  KubeWeekly 由 Bob Killen、Chris Short、Craig Box、Kim McMahon 和 Michael Hausenblas 策划
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - 每周系统工程和运营新闻以及业内人士的见解.
-* [ChaosEngineering.news](https://chaosengineering.news/)  - 混沌工程通讯. 所有东西混沌工程，直接到您的收件箱！
+* [ChaosEngineering.news](https://chaosengineering.news/)  - 混沌工程通讯. 混沌工程的所有内容，直接发送到您的收件箱！
 
 
 ## Conferences & Meetups

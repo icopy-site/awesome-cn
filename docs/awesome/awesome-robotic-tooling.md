@@ -68,7 +68,7 @@
 * [overleaf](https://github.com/overleaf/overleaf) - 一个开源的在线实时协作 LaTeX 编辑器.
 * [landslide](https://github.com/adamzap/landslide) - 从 Markdown、ReST 或纺织品生成 HTML5 幻灯片.
 * [libreoffice-impress-templates](https://github.com/dohliam/libreoffice-impress-templates) - 自由许可的 LibreOffice Impress 模板.
-* [opensourcedesign](https://opensourcedesign.net/resources/) - Community and Resources for Free Design and Logo Creation.
+* [opensourcedesign](https://opensourcedesign.net/resources/) - 免费设计和徽标创建的社区和资源.
 * [olive](https://www.olivevideoeditor.org/) - 免费的非线性视频编辑器，旨在为高端专业视频编辑软件提供功能齐全的替代品.
 * [buku](https://github.com/jarun/buku) - 独立于浏览器的书签管理器.
 * [swiftlatex](https://www.swiftlatex.com/) - 基于 WYSIWYG 浏览器的 LaTeX 编辑器.
@@ -111,7 +111,7 @@
 * [rqt_graph](https://wiki.ros.org/rqt_graph) - 提供用于可视化 ROS 计算图的 GUI 插件.
 * [rqt_launchtree](https://github.com/pschillinger/rqt_launchtree) - 用于分层启动文件配置自省的 RQT 插件.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format).
-* [pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs.
+* [pydeps](https://github.com/thebjorn/pydeps) - Python 模块依赖关系图.
 * [aztarna](https://github.com/aliasrobotics/aztarna) - 机器人的足迹工具.
 * [draw.io](https://www.draw.io/) - 用于制作流程图、流程图、组织结构图、UML、ER 和网络图的免费在线图表软件.
 * [vscode-drawio](https://github.com/hediet/vscode-drawio) - 此扩展将 Draw.io 集成到 VS Code 中.
@@ -176,7 +176,7 @@
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) - C++ ROS 节点标准化模板.
 * [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) - 关于如何为大型项目创建启动文件的模板.
 * [Bash](https://github.com/ralish/bash-script-template) - 一个 bash 脚本模板，结合了最佳实践和几个有用的功能.
-* [URDF](https://wiki.ros.org/urdf/Examples) - Examples on how to create Unified Robot Description Format (URDF) for different kinds of robots.
+* [URDF](https://wiki.ros.org/urdf/Examples) - 关于如何为不同类型的机器人创建统一机器人描述格式 (URDF) 的示例.
 * [Python](http://wiki.ros.org/PyStyleGuide) - 为 ROS 编写 Python 代码时应遵循的风格指南.
 * [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) -minimal-ade 项目中的 Dockerfile 显示了如何创建自定义基础映像的最小示例.
 * [VS Code ROS2 Workspace Template](https://github.com/athackst/vscode_ros2_workspace) - 使用 VSCode 作为 ROS2 开发的 IDE 的模板.
@@ -251,7 +251,7 @@
 * [bpftrace](https://github.com/iovisor/bpftrace) - Linux eBPF 的高级跟踪语言.
 * [pudb](https://github.com/inducer/pudb) - Python 的全屏控制台调试器.
 * [backward-cpp](https://github.com/bombela/backward-cpp) - 一个漂亮的 C++ 堆栈跟踪漂亮的打印机.
-* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB 仪表板是一个独立的 .gdbinit 文件，使用 Python API 编写，可启用模块化界面，显示有关被调试程序的相关信息.
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
 * [hotspot](https://github.com/KDAB/hotspot) - 用于性能分析的 Linux perf GUI.
 * [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - 一个python模块，用于监控进程的内存消耗以及python程序的内存消耗的逐行分析.
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - 该模糊器旨在通过对目标节点处理的主题执行模糊测试，帮助开发人员和研究人员发现 ROS 节点中的错误和漏洞.
@@ -263,7 +263,7 @@
 
 ### Version Control
 * [git-fuzzy](https://github.com/bigH/git-fuzzy) - 严重依赖 fzf 的 git 的 CLI 接口.
-* [meld](https://github.com/GNOME/meld) - Meld 是一种可视化差异和合并工具，可帮助您比较文件、目录和版本控制的项目.
+* [meld](https://github.com/GNOME/meld) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
 * [tig](https://github.com/jonas/tig) - git 的文本模式界面.
 * [gitg](https://github.com/GNOME/gitg) - git 的图形用户界面.
 * [git-cola](https://github.com/git-cola/git-cola) - 高咖啡因的 Git GUI.
@@ -336,13 +336,14 @@
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Unity 中机器人模拟的工具、教程、资源和文档的中央存储库.
 * [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为想要可视化、分析或模拟空中交通的每个人提供一个工具，以便不受任何限制、许可或限制.
 * [Cloe](https://github.com/eclipse/cloe) - 通过为闭环仿真提供统一接口，为自动驾驶软件组件的开发人员提供支持.
+* [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - 仓库动态环境的凉亭模拟
 
 
 ## Electronics and Mechanics
 * [HRIM](https://github.com/AcutronicRobotics/HRIM) - 机器人硬件的信息模型.
 * [URDF](https://github.com/ros/urdf) - 统一机器人描述格式 (URDF) 解析代码的存储库.
 * [phobos](https://github.com/dfki-ric/phobos) - Blender 的附加组件，允许在 WYSIWYG 环境中创建 URDF、SDF 和 SMURF 机器人模型.
-* [urdf-viz](https://github.com/OTL/urdf-viz) - 可视化 URDF/XACRO 文件，URDF 查看器适用于 Windows/macOS/Linux.
+* [urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/macOS/Linux.
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks 到 URDF 导出器.
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - 您自己的 3D 参数化建模器.
 * [kicad](http://www.kicad-pcb.org/) - 跨平台和开源电子设计自动化套件.
@@ -388,7 +389,7 @@
 * [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - 该软件包提供了机器人许多参数的校准，例如：3D 相机内部参数、外部参数、关节角度偏移和机器人框架偏移.
 * [multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration/) - 包含校准工具，用于校准由激光雷达、雷达和摄像头组成的传感器设置.
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - 使用点云激光雷达数据的实时基准标签.
-* [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - Extrinsic and intrinsic calbration of cameras.
+* [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - 相机的外在和内在校准.
 * [ikpy](https://github.com/Phylliade/ikpy) - 一个以性能和模块化为目标的反向运动学库.
 * [livox_camera_lidar_calibration](https://github.com/Livox-SDK/livox_camera_lidar_calibration) - 校准 Livox LiDAR 和相机之间的外部参数.
 * [lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration) - 使用 ROS、OpenCV 和 PCL 进行相机 LiDAR 校准.
@@ -467,11 +468,11 @@
 * [3d-vehicle-tracking](https://github.com/ucbdrive/3d-vehicle-tracking) - 联合单目3D车辆检测和跟踪的正式实施.
 * [pysot](https://github.com/STVIR/pysot) - PySOT 的目标是为视觉跟踪研究提供高质量、高性能的代码库.
 * [semantic_slam](https://github.com/floatlazer/semantic_slam) - 使用手持 RGB-D 相机在 ROS 中进行实时语义猛击.
-* [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - We propose KITTI scan unfolding in our paper Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study.
+* [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - 我们在我们的论文中提出 KITTI 扫描展开 LiDAR 点云的基于扫描的语义分割：一项实验研究.
 * [packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - 由丰田研究所 (TRI) 的 ML 团队发明的自监督单目深度估计方法的官方 PyTorch 实现.
 * [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - 这项工作提出了一个简单而准确的实时基线 3D 多对象跟踪系统.
 * [monoloco](https://github.com/vita-epfl/monoloco) - 在 PyTorch 中正式实现“MonoLoco：单目 3D 行人定位和不确定性估计”.
-* [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - 建立在YOLOv3的原始思想之上，并去除了其两个弱点：大量重写的标签和低效的anchors分布.
+* [Poly-YOLO](https://gitlab.com/irafm-ai/poly-yolo) - 建立在YOLOv3的原始思想之上，并去除了它的两个弱点：大量重写的标签和低效的anchors分布.
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) - 使用卫星和航拍图像进行深度学习的资源.
 * [robosat](https://github.com/mapbox/robosat) - 航空和卫星图像的语义分割.
 * [big_transfer](https://github.com/google-research/big_transfer) - 由 Google Research 创建的通用视觉表示学习模型.
@@ -538,7 +539,7 @@
 * [Draco](https://github.com/google/draco) - 用于压缩和解压缩 3D 几何网格和点云的库.
 * [Votenet](https://github.com/facebookresearch/votenet) - 用于点云中 3D 对象检测的深度霍夫投票.
 * [lidar_undistortion](https://github.com/ethz-asl/lidar_undistortion) - 基于外部 6DoF 姿态估计输入提供激光雷达运动不失真.
-* [superpoint_graph](https://github.com/loicland/superpoint_graph) - Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs.
+* [superpoint_graph](https://github.com/loicland/superpoint_graph) - 具有超点图的大规模点云语义分割.
 * [RandLA-Net](https://github.com/QingyongHu/RandLA-Net) - 大规模点云的高效语义分割.
 * [Det3D](https://github.com/poodarchu/Det3D) - 第一个 3D 对象检测工具箱，它提供了许多 3D 对象检测算法（例如 PointPillars、SECOND、PIXOR）的现成实现.
 * [OverlapNet](https://github.com/PRBonn/OverlapNet) - 改进的 Siamese 网络，可预测由 3D LiDAR 扫描生成的一对距离图像的重叠和相对偏航角.
@@ -566,12 +567,12 @@
 * [gLAB](https://gage.upc.edu/gLAB/) - 在厘米级别对 GNSS 可观测值（伪距和载波相位）进行精确建模，允许独立的 GPS 定位、PPP、SBAS 和 DGNSS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) - 包含我们用于仅基于 IMU 的轮式车辆航位推算的新型准确方法的代码.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - 使用 Jupyter Notebook 的卡尔曼滤波器书.
-* [mcl_3dl](https://github.com/at-wat/mcl_3dl) - 一个 ROS 节点，用于为带有 3-D 激光雷达的移动机器人执行概率 3-D/6-DOF 定位系统.
+* [mcl_3dl](https://github.com/at-wat/mcl_3dl) - 一个 ROS 节点，用于为具有 3-D LIDAR(s) 的移动机器人执行概率 3-D/6-DOF 定位系统.
 * [se2lam](https://github.com/izhengfan/se2lam) - 通过融合里程计和视觉对地面车辆进行 On-SE(2) 定位和映射.
 * [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - 来自毫米波传输的基于 ML 的定位方法 - 具有高精度和高能效.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - 一个 ROS 包，使用 PCL 提供 3 DoF 和 6 DoF 定位，并允许使用 OctoMap 动态地图更新.
 * [eagleye](https://github.com/MapIV/eagleye) - 利用 GNSS 和 IMU 进行车辆定位的开源软件.
-* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - SGP4 卫星定位库的 Python 版本.
+* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library.
 * [PROJ](https://github.com/OSGeo/PROJ) - 制图投影和坐标变换库.
 * [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) - 为视觉（惯性）里程计实现常用的轨迹评估方法.
 * [pymap3d](https://github.com/geospace-code/pymap3d) - 纯 Python（Numpy 可选）地理空间 ecef enu eci 的 3D 坐标转换.
@@ -622,7 +623,7 @@
 * [open_vins](https://github.com/rpng/open_vins) - 用于视觉惯性导航研究的开源平台.
 * [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - ORB-SLAM3：用于视觉、视觉惯性和多地图 SLAM 的准确开源库.
 * [Atlas](https://github.com/magicleap/Atlas) - 从构成的图像进行端到端的 3D 场景重建.
-* [vilib](https://github.com/uzh-rpg/vilib) - 该库侧重于带有 CUDA 的 VIO 管道的前端.
+* [vilib](https://github.com/uzh-rpg/vilib) - This library focuses on the front-end of VIO pipelines with CUDA.
 * [hloc](https://github.com/cvg/Hierarchical-Localization)  - 用于最先进的 6-DoF 视觉定位的模块化工具箱. 它实现了分层定位，利用图像检索和特征匹配，并且快速、准确和可扩展.
 * [ESVO](https://github.com/HKUST-Aerial-Robotics/ESVO) - 使用基于立体事件的相机进行实时视觉里程计的新型管道.
 * [gradslam](https://github.com/gradslam/gradslam) - 用于 PyTorch 的开源可微分密集 SLAM 库.
@@ -636,7 +637,7 @@
 * [iD](https://github.com/openstreetmap/iD) - JavaScript 中易于使用的 OpenStreetMap 编辑器.
 * [RapiD](https://github.com/facebookincubator/RapiD) - 增强版 iD，用于与 Facebook 创建的 AI 进行映射.
 * [segmap](https://github.com/ethz-asl/segmap) - 基于 3D 段的地图表示.
-* [Mapbox](https://github.com/mapbox/mapbox-gl-js) - 一个 JavaScript 库，用于在网络上进行交互式、可定制的矢量地图.
+* [Mapbox](https://github.com/mapbox/mapbox-gl-js) - 一个 JavaScript 库，用于在 Web 上进行交互式、可定制的矢量地图.
 * [osrm-backend](https://github.com/Project-OSRM/osrm-backend) - 开源路由机 - C++ 后端.
 * [assuremapingtools](https://github.com/hatem-darweesh/assuremapingtools) -  Desktop based tool for viewing, editing and saving road network maps for autonomous vehicle platforms such as Autoware.
 * [geopandas](https://github.com/geopandas/geopandas) - 为熊猫对象添加对地理数据的支持的项目.
@@ -661,7 +662,7 @@
 * [ad-rss-lib](https://github.com/intel/ad-rss-lib) - 为自动驾驶汽车实施责任敏感安全模型 (RSS) 的库.
 * [FlexBE](https://flexbe.github.io/) - 分层状态机的图形编辑器，基于 ROS 的 smach.
 * [sts_bt_library](https://github.com/Autonomous-Logistics/sts_bt_library) - 该库提供了通过使用定义的树结构（如回退、序列或并行节点）来设置您自己的行为树逻辑的功能.
-* [SMACC](https://github.com/reelrbtx/SMACC) - 一个事件驱动的、异步的、行为状态机库，用于用 C++ 编写的实时 ROS（机器人操作系统）应用程序.
+* [SMACC](https://github.com/reelrbtx/SMACC) - 用 C++ 编写的用于实时 ROS（机器人操作系统）应用程序的事件驱动、异步、行为状态机库.
 * [py_trees_ros](https://github.com/splintered-reality/py_trees_ros) - 扩展 py_trees 以用于 ROS 的行为、树和实用程序.
 
 ## Planning and Control
@@ -729,7 +730,7 @@
 
 
 ### Command Line Interface
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 在一页中掌握命令行.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 * [dotfiles of cornerman](https://github.com/cornerman/dotfiles) - 强大的 zsh 和 vim 点文件.
 * [dotbot](https://github.com/anishathalye/dotbot) - 引导您的 dotfiles 的工具.
 * [prompt-hjem](https://github.com/cornerman/prompt-hjem) - 漂亮的 zsh 提示.
@@ -767,7 +768,7 @@
 * [web_video_server](https://github.com/RobotWebTools/web_video_server) - 多种格式的 ROS 图像主题的 HTTP 流.
 * [RVizWeb](https://github.com/osrf/rvizweb) - 提供一种便捷的方式来构建和启动具有类似于 RViz 的功能的 Web 应用程序.
 * [marvros](https://github.com/mavlink/mavros) - 带有地面控制站代理的 MAVLink 到 ROS 网关.
-* [octave](https://www.gnu.org/software/octave/) - Provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible with Matlab.
+* [octave](https://www.gnu.org/software/octave/) - 提供方便的命令行界面，用于数值求解线性和非线性问题，以及使用与 Matlab 最兼容的语言执行其他数值实验.
 * [streetscape.gl](https://github.com/uber/streetscape.gl) - Streetscape.gl 是一个工具包，用于在 XVIZ 协议中可视化自主和机器人数据.
 * [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) - 用于 Unity 和 THREE.js 的 URDF 加载器，带有示例 ATHLETE URDF 文件.
 * [obs-studio](https://github.com/obsproject/obs-studio) - 用于直播和屏幕录制的免费开源软件.
@@ -814,7 +815,7 @@
 * [xpp](https://github.com/leggedrobotics/xpp) - 腿式机器人运动计划的可视化.
 * [rviz stereo](http://wiki.ros.org/rviz/Tutorials/Rviz%20in%20Stereo) - 3D 立体渲染为每只眼睛显示不同的视图，使场景看起来具有深度.
 * [jsk_visualization](https://github.com/jsk-ros-pkg/jsk_visualization) - rviz 和 rqt 的 Jsk 可视化 ros 包.
-* [moveit_visual_tools](https://github.com/ros-planning/moveit_visual_tools)  - 用于显示和调试 MoveIt 的辅助函数！  Rviz 中的数据通过已发布的标记.
+* [moveit_visual_tools](https://github.com/ros-planning/moveit_visual_tools)  - 用于显示和调试 MoveIt 的辅助函数！  Rviz 中的数据通过发布的标记.
 
 
 ## Operation System
@@ -829,7 +830,7 @@
 * [gputil](https://github.com/anderskm/gputil) - 一个 Python 模块，用于在 Python 中使用 nvidia-smi 以编程方式从 NVIDA GPU 获取 GPU 状态.
 * [gpustat](https://github.com/wookayin/gpustat) - 一个简单的命令行实用程序，用于查询和监控 GPU 状态.
 * [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPU htop 之类的监控工具.
-* [ShellHub](https://www.shellhub.io)  - ShellHub 是现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
+* [ShellHub](https://www.shellhub.io)  - ShellHub 是一个现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
 * [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty 是为 Web 设计的 SSH 和 Telnet 连接器.
 * [spdlog](https://github.com/gabime/spdlog) - 非常快，只有头文件/编译，C++ 日志库.
 * [ctop](https://github.com/bcicen/ctop) - 容器指标的顶部界面.
@@ -890,7 +891,7 @@
 * [Yocto](https://git.yoctoproject.org/) - 生产工具和流程，能够为独立于嵌入式硬件的底层架构的嵌入式软件创建 Linux 发行版.
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - 一个协作开源项目，将汽车制造商、供应商和技术公司联合起来，为汽车应用程序构建一个基于 Linux 的开放软件平台，该平台可以作为事实上的行业标准.
 * [bitbake](https://github.com/openembedded/bitbake) - 一个通用的任务执行引擎，允许 shell 和 Python 任务在复杂的任务间依赖约束下高效并行运行.
-* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux.
+* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse 是一个基于 Linux 的分区管理程序.
 * [Xen](https://wiki.debian.org/Xen) - 开源 (GPL) 类型 1 或裸机管理程序.
 * [QEMU](https://www.qemu.org/) - 通用的开源机器模拟器和虚拟器.
 * [qemu-xilinx](https://github.com/Xilinx/qemu) - Quick EMUlator (QEMU) 的一个分支，改进了对 Xilinx 平台的支持和建模.
@@ -898,7 +899,7 @@
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) - 用于 ROS 应用程序的 OpenEmbedded 层.
 * [meta-balena](https://github.com/balena-os/meta-balena) - 在嵌入式设备上运行 Docker 容器.
 * [micro-ros](https://micro-ros.github.io/) - 与“常规” ROS 2 相比的主要变化是 micro-ROS 使用实时操作系统 (RTOS) 而不是 Linux，以及用于极端资源受限环境的 DDS.
-* [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) - NVIDIA Container Runtime 是一种 GPU 感知容器运行时，与 Docker、CRI-O 和其他流行容器技术使用的开放容器倡议 (OCI) 规范兼容.
+* [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) - NVIDIA Container Runtime is a GPU aware container runtime, compatible with the Open Containers Initiative (OCI) specification used by Docker, CRI-O, and other popular container technologie.
 * [fusesoc](https://github.com/olofk/fusesoc) - 用于 FPGA/ASIC 开发的包管理器和构建抽象工具.
 * [jetson_easy](https://github.com/rbonghi/jetson_easy) - 自动编写脚本来设置和配置您的 NVIDIA Jetson.
 * [docker-jetpack-sdk](https://github.com/trn84/docker-jetpack-sdk) - 允许在 docker 容器中使用 NVIDIA JetPack SDK 进行下载、刷写和安装.
@@ -906,7 +907,7 @@
 * [jetson_stats](https://github.com/rbonghi/jetson_stats) - 用于监控和控制 NVIDIA Jetson（Xavier NX、Nano、AGX Xavier、TX1、TX2）的软件包适用于所有 NVIDIA Jetson 生态系统.
 * [ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)  - ROS jetson-stats 包装器. 诊断消息中 NVIDIA jetson 的状态.
 * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) - 用于 ROS 的开源控制模块.
-* [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) - Defines a device hypervisor reference stack and an architecture for running multiple software subsystems, managed securely, on a consolidated system by means of a virtual machine manager.
+* [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) - 定义设备管理程序参考堆栈和架构，用于通过虚拟机管理器在整合系统上运行多个安全管理的软件子系统.
 * [jetson-containers](https://github.com/dusty-nv/jetson-containers) - Jetson 和 JetPack 4.4 的机器学习容器.
 
 
@@ -995,7 +996,7 @@
 * [ethz_piksi_ros](https://github.com/ethz-asl/ethz_piksi_ros) - 包含 (python) ROS 驱动程序、工具、启动文件和有关如何在 ROS 中使用 Piksi 实时运动 (RTK) GPS 设备的 wiki.
 * [sick_safetyscanners](https://github.com/SICKAG/sick_safetyscanners) - 一个 ROS 驱动程序，它从 SICK 安全扫描仪读取原始数据并将数据发布为laser_scan msg.
 * [bosch_imu_driver](https://github.com/mdrwiega/bosch_imu_driver)  - 传感器 IMU Bosch BNO055 的驱动程序. 它仅实现了 UART 通信接口（应选择正确的传感器模式）.
-* [oxford_gps_eth](https://bitbucket.org/DataspeedInc/oxford_gps_eth/) - 使用 NCOM 数据包结构的 OxTS GPS 接收器的以太网接口.
+* [oxford_gps_eth](https://bitbucket.org/DataspeedInc/oxford_gps_eth/) - Ethernet interface to OxTS GPS receivers using the NCOM packet structure.
 * [ifm3d](https://github.com/ifm/ifm3d) - 用于使用基于 ifm pmd 的 3D ToF 相机的库和实用程序.
 * [cepton_sdk_redist](https://github.com/ceptontech/cepton_sdk_redist/) - 为 Cepton LiDAR 提供 ROS 支持.
 * [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - 一个 ROS 包，使在具有 ROS 的 Nvidia Jetson TK1、TX1 或 TX2 上使用 CSI 相机变得简单.
@@ -1016,7 +1017,7 @@
 * [OpenVPN](https://github.com/OpenVPN/openvpn) - 一个开源 VPN 守护进程.
 * [openfortivpn](https://github.com/adrienverge/openfortivpn) - PPP+SSL VPN 隧道服务客户端，兼容 Fortinet VPN.
 * [WireGuard](https://github.com/WireGuard/WireGuard) - WireGuard 是一种新颖的 VPN，它在 Linux 内核中运行并利用最先进的加密技术.
-* [ssh-auditor](https://github.com/ncsa/ssh-auditor) - 扫描网络上的弱 ssh 密码.
+* [ssh-auditor](https://github.com/ncsa/ssh-auditor) - 扫描您网络上的弱 ssh 密码.
 * [vulscan](https://github.com/scipag/vulscan) - 使用 Nmap NSE 进行高级漏洞扫描.
 * [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - 基于 Vulners.com API 的 NSE 脚本.
 * [brutespray](https://github.com/x90skysn3k/brutespray) - 自动尝试找到的服务的默认信用.
@@ -1030,8 +1031,8 @@
 * [bandit](https://github.com/PyCQA/bandit) - 一种旨在查找 Python 代码中常见安全问题的工具.
 * [hardening](https://github.com/konstruktoid/hardening) - 一种使 Ubuntu 服务器更安全的快速方法.
 * [Passbolt](https://github.com/passbolt/passbolt_docker) - Passbolt 是一个免费的开源密码管理器，允许团队成员安全地存储和共享凭据.
-* [gopass](https://github.com/gopasspw/gopass) - A password manager for the command line written in Go.
-* [pass](https://www.passwordstore.org/) - 标准的 Unix 密码管理器.
+* [gopass](https://github.com/gopasspw/gopass) - 用 Go 编写的命令行密码管理器.
+* [pass](https://www.passwordstore.org/) - The standard unix password manager.
 * [Vault](https://github.com/hashicorp/vault)  - 用于安全访问机密的工具. 机密是您想要严格控制访问的任何内容，例如 API 密钥、密码、证书等.
 * [legion](https://github.com/GoVanguard/legion) - 一个开源、易于使用、超级可扩展和半自动化的网络渗透测试框架，有助于信息系统的发现、侦察和利用.
 * [openscap](https://github.com/OpenSCAP/openscap) - oscap 程序是一个命令行工具，允许用户加载、扫描、验证、编辑和导出 SCAP 文档.

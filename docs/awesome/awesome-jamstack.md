@@ -7,24 +7,24 @@
   <img width="500" src="https://raw.githubusercontent.com/automata/awesome-jamstack/master/media/jamstack-full-logo.svg?sanitize=true" alt="Jamstack">
   <br /><br /><br />
   <p>
-    <strong>Jamstack</strong> ：名词\&#39;jam-stak&#39;\<br />
-    基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
+    <strong>Jamstack</strong> : 名词 \ &#39;jam-stak&#39; \<br />
+    基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
   </p>
   <br /><br />
   <p>
     <b>
-      这是精心挑选的<a href="https://jamstack.org">精选Jamstack</a>资源的列表.
+      这是一个精心策划的很棒的<a href="https://jamstack.org">Jamstack</a>资源列表.
     </b>
   </p>
   <br /><br />
   <p>
     <i>
-      您可能还喜欢<a href="https://github.com/myles/awesome-static-generators">Awesome Static Generators</a> .
+      您可能还喜欢<a href="https://github.com/myles/awesome-static-generators">真棒静态生成器</a>.
     </i>
   </p>
   <p>
     <i>
-      想要贡献一些资源吗？ 伟大的！ 请在<a href="contributing.md">贡献</a>之前阅读<a href="contributing.md">贡献准则</a>.
+      想贡献一些资源吗？ 伟大的！ 请在<a href="contributing.md">贡献</a>之前阅读<a href="contributing.md">贡献指南</a>.
     </i>
   </p>
   <br /><br />
@@ -37,8 +37,8 @@
 ## General
 
 - [Jamstack](https://jamstack.org/)
-- [Jamstack resources](https://jamstack.org/resources/) -有关Jamstack的视频和文章.
-- [the New Dynamic](https://www.thenewdynamic.org/)  -在我们的目录中选择工具以与Jamstack一起使用. 浏览我们的展示柜并获得启发.
+- [Jamstack resources](https://jamstack.org/resources/) - 关于 Jamstack 的视频和文章.
+- [the New Dynamic](https://www.thenewdynamic.org/)  - 在我们的目录中挑选工具来使用 Jamstack. 浏览我们的展示并获得灵感.
 
 ## Chats
 
@@ -50,167 +50,172 @@
 
 ## Platforms
 
-- [Appernetic](https://appernetic.io) -带有Hugo和GitHub Pages的静态网站的可视内容管理.
-- [Netlify](https://netlify.com) -用于自动化现代Web项目的多合一平台.
-- [Vercel](https://vercel.com) -具有免配置工具和工作流程的现代Web应用程序的多合一无服务器平台.
+- [Appernetic](https://appernetic.io) - 静态网站的可视化内容管理，使用 Hugo 和 GitHub Pages.
+- [Netlify](https://netlify.com) - 用于自动化现代 Web 项目的多合一平台.
+- [Vercel](https://vercel.com) - 适用于现代 Web 应用程序的多合一无服务器平台，具有免配置工具和工作流.
+- [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - 具有集成 CI/CD 工作流程、身份验证、CDN 等的全栈无服务器托管.
 
+*有关静态 Web 应用程序的更多资源，请参阅（很棒的静态 Web 应用程序）[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
 
 ## No-Code Platforms
-- [Jamstack.new](https://jamstack.new) -一键创建一个新的Jamstack网站，由Stackbit带给您
-- [Draftbox](https://draftbox.co) -为您的WordPress或Ghost博客提供快速，安全的前端，无需编码.
-- [Plasmic](https://www.plasmic.app/) -强大的设计工具，可直观地构建您的React组件和Jamstack网站.
+- [Jamstack.new](https://jamstack.new) - 一键创建一个新的 Jamstack 网站，由 Stackbit 提供
+- [Draftbox](https://draftbox.co) - 快速、安全的 WordPress 或 Ghost 博客前端，无需编码.
+- [Plasmic](https://www.plasmic.app/) - 强大的设计工具，用于可视化构建 React 组件和 Jamstack 网站.
 
 ## Jamstack Sites Showcase
 
-- [React](https://reactjs.org/) -建立在盖茨比上.
-- [Squoosh.app](https://squoosh.app/) -托管在Netlify上，演示了现代Web应用程序的高级功能.
-- [Hopper](https://travel.hopper.com/) -建立在盖茨比上，并托管在Netlify上.
-- [VSCode Power User Course](https://vscode.pro/) -基于Gatsby并托管在Netlify上的PWA.
-- [CloudyCam](https://CloudyCam.dev/) -基于Next.js构建并托管在Zeit Now v2无服务器平台上的PWA.
-- [FbaMonthly](https://www.fbamonthly.com) -托管在由Jekyll，Netlify Functions和Netlify Forms构建的Netlify上.
-- [Jarod Peachey](https://jarodpeachey.netlify.com) -使用Gatsby + MaterialUI构建并托管在Netlify上
-- [ProtonDB](https://www.protondb.com) -自2018年8月以来，在Netlify上托管了React / MaterialUI / Firebase.在Linux游戏社区中很显赫.
-- [Creative Designs Guru](https://creativedesignsguru.com) -建立在Netlify上托管的Eleventy.js上，并使用Tailwind CSS进行样式设置
-- [HandleDroid](https://handledroid.com/) -使用Next.js，MongoDB，Auth0，AWS CloudWatch，SendGrid，Stripe构建并托管在Netlify上.
+- [React](https://reactjs.org/) - 建立在盖茨比之上.
+- [Squoosh.app](https://squoosh.app/) - 托管在 Netlify 上，展示了现代 Web 应用程序的高级功能.
+- [Hopper](https://travel.hopper.com/) - 基于 Gatsby 构建并托管在 Netlify 上.
+- [VSCode Power User Course](https://vscode.pro/) - 基于 Gatsby 构建并托管在 Netlify 上的 PWA.
+- [CloudyCam](https://CloudyCam.dev/) - PWA 构建在 Next.js 上并托管在 Zeit Now v2 Serverless 平台上.
+- [FbaMonthly](https://www.fbamonthly.com) - 托管在 Netlify 上，使用 Jekyll、Netlify Functions 和 Netlify Forms 构建.
+- [Jarod Peachey](https://jarodpeachey.netlify.com) - 使用 Gatsby + MaterialUI 构建并托管在 Netlify 上
+- [ProtonDB](https://www.protondb.com) - 自 2018 年 8 月起在 Netlify 上托管 React/MaterialUI/Firebase.在 Linux 游戏社区中表现突出.
+- [Creative Designs Guru](https://creativedesignsguru.com) - 基于 Netlify 上托管的 Eleventy.js 构建，并使用 Tailwind CSS 设计样式
+- [HandleDroid](https://handledroid.com/) - 使用 Next.js、MongoDB、Auth0、AWS CloudWatch、SendGrid、Stripe 构建并托管在 Netlify 上.
+- [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - 使用 Next.js、无头 WordPress 和 Netlify 构建.
 
 ## Static Site Generators
 
-- [Gatsby](https://gatsbyjs.org) -React的快速静态站点生成器.
-- [Next.js](https://nextjs.org/) -静态和服务器渲染应用程序的轻量级框架.
-- [Hugo](https://gohugo.io) -Hugo是用Go语言编写的静态网站生成器.
-- [Jekyll](https://jekyllrb.com) -Jekyll是一个简单的，可识别博客的静态网站生成器，非常适合个人，项目或组织网站.
-- [Hexo](https://hexo.io) -由Node.js提供支持的快速，简单且功能强大的博客框架.
-- [Metalsmith](https://metalsmith.io) -极其简单，可插入的静态站点生成器.
-- [Phenomic](https://phenomic.io/) -模块化网站编译器.
-- [Gridsome](https://gridsome.org/) -由Vue提供支持的静态站点生成器，用于为任何Headless CMS，API或Markdown文件构建CDN就绪的网站.
-- [Nuxt.js](https://nuxtjs.org/) -适用于服务器端渲染的静态和传统单页应用程序的基于vue的通用框架.
-- [eleventy](https://www.11ty.io/) -更简单的静态网站生成器，可将各种模板文件转换为HTML.
-- [Nift](https://nift.cc) -使用C ++开发的跨平台开源网站生成器，快速，功能强大.
+- [Gatsby](https://gatsbyjs.org) - 超快的 React 静态站点生成器.
+- [Next.js](https://nextjs.org/) - 用于静态和服务器渲染应用程序的轻量级框架.
+- [Hugo](https://gohugo.io) - Hugo 是一个用 Go 编写的静态站点生成器.
+- [Jekyll](https://jekyllrb.com) - Jekyll 是一个简单的、支持博客的静态站点生成器，非常适合个人、项目或组织站点.
+- [Hexo](https://hexo.io) - 一个快速、简单且强大的博客框架，由 Node.js 提供支持.
+- [Metalsmith](https://metalsmith.io) - 一个极其简单、可插拔的静态站点生成器.
+- [Phenomic](https://phenomic.io/) - 模块化网站编译器.
+- [Gridsome](https://gridsome.org/) - Vue 驱动的静态站点生成器，用于为任何 Headless CMS、API 或 Markdown 文件构建 CDN 就绪的网站.
+- [Nuxt.js](https://nuxtjs.org/) - 用于服务器端渲染、静态和传统单页应用程序的基于 vue 的多功能框架.
+- [eleventy](https://www.11ty.io/) - 一个更简单的静态站点生成器，可将各种模板文件转换为 HTML.
+- [Nift](https://nift.cc) - 一个用 C++ 开发的跨平台开源网站生成器，速度快如闪电，功能极其强大.
+- [Astro](https://astro.build) - 构建更快的网站，同时交付更少到几乎没有 Javascript.
 
 *有关更完整的列表，请参阅 [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
-- [Cosmic](https://cosmicjs.com) -带有REST和GraphQL API选项的无头CMS.
-- [Kentico Kontent](https://kontent.ai) -可扩展的云原生无头CMS.
-- [Contentful](https://contentful.com) -数字团队的内容基础架构.
-- [NetlifyCMS](https://netlifycms.org/) -开源的基于Git的CMS.
-- [ButterCMS](https://buttercms.com/) -无头CMS和Content API.
-- [Scrivito](https://scrivito.com) -为数字代理商和大中型企业构建的基于云的JavaScript CMS.
-- [GraphCMS](https://graphcms.com) -GraphQL无头CMS.
-- [Prismic](https://prismic.io) -适用于开发人员和营销人员的无头API CMS.
-- [Siteleaf](https://siteleaf.com) -适用于您的静态网站的友好CMS.
-- [DatoCMS](https://datocms.com) -编辑者会喜欢的基于API的CMS.
-- [Prose](https://prose.io) -Prose是GitHub的内容编辑器，旨在管理网站.
-- [Tipe](https://tipe.io) -下一代API优先的CMS.
-- [Forestry](https://forestry.io) -无头CMS，用于使用静态网站生成器构建的网站.
-- [Coisas](https://github.com/fiatjaf/coisas) -用于编辑GitHub Markdown（和其他）文件的客户端CMS.
-- [Cockpit](https://getcockpit.com/) -自托管的无头和api驱动的CMS.
-- [HeadlessCMS](https://headlesscms.org/) -Jamstack网站的内容管理系统列表.
-- [TakeShape](https://www.takeshape.io/) -一键式部署到Netlify的无头GraphQL API CMS.
-- [Ghost](https://ghost.org/) -用于在线出版物的无头CMS
-- [Strapi](https://strapi.io) -开源Headless CMS前端开发人员喜欢.
-- [Flotiq](https://flotiq.com) -轻松无忧的CMS.
-- [TreacleWP](https://www.treaclewp.com) -WordPress API托管.
-- [Agility CMS](https://agilitycms.com) -开发人员和内容编辑人员两全其美.
+- [Cosmic](https://cosmicjs.com) - 具有 REST 和 GraphQL API 选项的无头 CMS.
+- [Kentico Kontent](https://kontent.ai) - 可扩展的云原生无头 CMS.
+- [Contentful](https://contentful.com) - 数字团队的内容基础设施.
+- [NetlifyCMS](https://netlifycms.org/) - 开源基于 Git 的 CMS.
+- [ButterCMS](https://buttercms.com/) - 无头 CMS 和内容 API.
+- [Scrivito](https://scrivito.com) - 为数字机构和大中型企业构建的基于云的 JavaScript CMS.
+- [GraphCMS](https://graphcms.com) - GraphQL 无头 CMS.
+- [Prismic](https://prismic.io) - 适用于开发人员和营销人员的无头 API CMS.
+- [Siteleaf](https://siteleaf.com) - 适用于静态站点的友好 CMS.
+- [DatoCMS](https://datocms.com) - 您的编辑会喜欢的基于 API 的 CMS.
+- [Prose](https://prose.io) - Prose 是用于管理网站的 GitHub 内容编辑器.
+- [Tipe](https://tipe.io) - 下一代 API 优先 CMS.
+- [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
+- [Coisas](https://github.com/fiatjaf/coisas) - 用于编辑 GitHub Markdown（和其他）文件的客户端 CMS.
+- [Cockpit](https://getcockpit.com/) - 自托管的无头和 api 驱动的 CMS.
+- [HeadlessCMS](https://headlesscms.org/) - Jamstack 站点的内容管理系统列表.
+- [TakeShape](https://www.takeshape.io/) - 无头 GraphQL API CMS，一键部署到 Netlify.
+- [Ghost](https://ghost.org/) - 用于在线出版物的无头 CMS
+- [Strapi](https://strapi.io) - 开源 Headless CMS 前端开发人员喜爱.
+- [Flotiq](https://flotiq.com) - 一个轻松的无头 CMS.
+- [TreacleWP](https://www.treaclewp.com) - WordPress API 托管.
+- [Agility CMS](https://agilitycms.com) - 开发者和内容编辑者两全其美.
 ## API
 
 ### Authentication
 
-- [Auth0](https://auth0.com/) -单点登录和基于令牌的身份验证.
-- [Netlify Identity](https://www.netlify.com/docs/identity/) -带来一整套的身份验证功能，并由 [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) -带有JWT和其他功能的身份提供者的REST API用户管理系统，用于您的Web端.
+- [Auth0](https://auth0.com/) - 单点登录和基于令牌的身份验证.
+- [Netlify Identity](https://www.netlify.com/docs/identity/) - 带来一整套身份验证功能，由 [GoTrue API](https://www.gotrueapi.org).
+- [Jexia UMS](https://jexia.com) - REST API 用户管理系统，用于您的 web 端，带有 JWT + 额外功能的身份提供程序.
 
 ### Comments
 
-- [Disqus](https://disqus.com) -全球评论系统，可改善网站上的讨论并通过网络连接对话.
-- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -评论插件可让人们使用其Facebook帐户对您网站上的内容发表评论.
-- [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件. 将GitHub问题用于博客评论，Wiki页面等.
+- [Disqus](https://disqus.com) - 全球评论系统，可改善网站上的讨论并连接整个网络的对话.
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 评论插件允许人们使用他们的 Facebook 帐户评论您网站上的内容.
+- [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、维基页面等.
 
 ### Forms
 
-- [Formcarry](https://formcarry.com) -适用于表单的无障碍HTML表单端点，功能强大的仪表板，可靠的垃圾邮件阻止功能，附件上传功能和Zapier集成.
-- [Formcake](https://formcake.com) -为开发人员构建的表单后端：Zapier集成，零依赖关系，简单的API和无限制的表单.
-- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台. 在几分钟之内为静态站点设置表单端点，并通过Zapier集成和Webhooks支持扩展数据.
-- [Netlify Forms](https://www.netlify.com/docs/form-handling/) -通过在部署时直接解析HTML文件，在构建时进行内置表单处理.
-- [StaticKit](https://statickit.com) -静态网站的现代形式，带有用于React和HTML的客户端库.
-- [Arengu](https://www.arengu.com) -使用Arengu构建注册和登录表单，启用社交登录，添加2FA或使用无密码流来通过您的API或身份提供者对用户进行身份验证.
-- [Static Forms](https://www.staticforms.xyz/)  -无需任何服务器端代码即可轻松集成HTML表单. 用户提交表单后，我们会将表单内容发送给您的注册电子邮件.
+- [Formcarry](https://formcarry.com) - 用于表单的无障碍 HTML 表单端点、强大的仪表板、可靠的垃圾邮件拦截、附件上传和 Zapier 集成.
+- [Formcake](https://formcake.com) - 为开发人员构建的表单后端：Zapier 集成、零依赖、简单的 API 和无限的表单.
+- [Getform](https://getform.io)  - 为设计人员和开发人员形成后端平台. 在几分钟内为您的静态站点设置表单端点，并通过 Zapier 集成和 Webhooks 支持扩展您的数据.
+- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - 通过在部署时直接解析 HTML 文件，在构建时内置表单处理.
+- [StaticKit](https://statickit.com) - 静态站点的现代表单，带有用于 React 和 HTML 的客户端库.
+- [Arengu](https://www.arengu.com) - 使用 Arengu 构建注册和登录表单、启用社交登录、添加 2FA 或使用无密码流程通过您的 API 或身份提供者对用户进行身份验证.
+- [Static Forms](https://www.staticforms.xyz/)  - 无需任何服务器端代码即可轻松集成 HTML 表单. 用户提交表单后，我们会将表单内容发送到您注册的电子邮件中.
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) -Flatmarket是用于静态网站的免费开放源代码电子商务平台.
-- [GoCommerce](https://www.gocommerceapi.org) -Jamstack网站的无头电子商务.
-- [Snipcart](https://snipcart.com/) -面向开发人员的强大购物车平台.
-- [Moltin](https://moltin.com/) -开发人员的电子商务API.
-- [Trolley](https://trolley.link) -专为Jamstack设计的购物车.
-- [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) -Shopify无头电子商务解决方案.
-- [Commerce.js](https://commercejs.com/) -针对开发人员的API优先电子商务平台.
-- [CartQL](https://cartql.com/) -为Jamstack构建的GraphQL购物车和Checkout API，可与任何框架和库存一起使用.
+- [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket 是一个免费、开源的静态网站电子商务平台.
+- [GoCommerce](https://www.gocommerceapi.org) - Jamstack 网站的无头电子商务.
+- [Snipcart](https://snipcart.com/) - 一个强大的开发者购物车平台.
+- [Moltin](https://moltin.com/) - 面向开发人员的电子商务 API.
+- [Trolley](https://trolley.link) - 专为 Jamstack 设计的购物车.
+- [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) - Shopify 无头电子商务解决方案.
+- [Commerce.js](https://commercejs.com/) - 面向开发人员的 API 优先电子商务平台.
+- [CartQL](https://cartql.com/) - 为 Jamstack 构建的 GraphQL 购物车和结账 API，可与任何框架和库存配合使用.
 
 ### Search
 
-- [Algolia](https://www.algolia.com/) -建立企业搜索最可靠的平台.
-- [Lunr](https://lunrjs.com/) -搜索变得简单（在前端）.
-- [CloudSh](https://cloudsh.com/) -使用几行JavaScript进行强大的搜索.
+- [Algolia](https://www.algolia.com/) - 在您的业务中构建搜索的最可靠平台.
+- [Lunr](https://lunrjs.com/) - 搜索变得简单（在前端）.
+- [CloudSh](https://cloudsh.com/) - 使用几行 JavaScript 进行强大的搜索.
 
 ### Database
 
-- [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
-- [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) -在云或内部部署中具有连接，索引和多区域ACID事务的关系NoSQL数据库.
-- [Jexia DataSet](https://jexia.com) -带有内置验证器，关系，聚合功能的REST API架构和无Shemaless云数据存储.
+- [GraphQL](https://graphql.org) - 用于 API 的查询语言和用于使用现有数据完成这些查询的运行时.
+- [Graphcool](https://graph.cool) - 开源和自托管后端即服务，用于开发无服务器 GraphQL 后端.
+- [FaunaDB](https://fauna.com) - 关系 NoSQL 数据库，在云中或本地具有连接、索引和多区域 ACID 事务.
+- [Jexia DataSet](https://jexia.com) - REST API Schema 和 Shemaless 云数据存储，具有内置验证器、关系、聚合功能.
 
 ### File management
-- [Jexia FileSet](https://jexia.com) -具有索引功能和其他功能的REST API文件管理器.
+- [Jexia FileSet](https://jexia.com) - 具有索引和额外功能的应用程序的 REST API 文件管理器.
 
 ### Automation
 
-- [Zapier](https://zapier.com/) -触发将1000多个应用程序连接在一起的操作.
-- [DataFire](https://github.com/DataFire/DataFire) -DataFire是用于构建和集成API的开源框架.
+- [Zapier](https://zapier.com/) - 触发将 1000 多个应用程序连接在一起的操作.
+- [DataFire](https://github.com/DataFire/DataFire) - DataFire 是一个用于构建和集成 API 的开源框架.
 
 ## Serverless
 
-- [Netlify Functions](https://www.netlify.com/docs/functions/) -Netlify允许您在没有AWS帐户的情况下部署Lambda函数，并直接在Netlify中处理功能管理.
-- [Amazon Lambda](https://aws.amazon.com/lambda/) -使您无需配置或管理服务器即可运行代码.
--Microsoft Azure
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) -无服务器计算服务，使您可以按需运行代码，而不必显式设置或管理基础结构.
-  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) -简化了构建自动可伸缩工作流的过程，该工作流跨云服务和本地系统集成了应用程序和数据.
--Google Cloud
-  - [App Engine](https://cloud.google.com/appengine/) -无服务器应用程序，完全抽象化了基础架构，因此您只关注代码.
-  - [Cloud Functions](https://cloud.google.com/functions/) -建立和连接云服务的无服务器环境.
-  - [Cloud Datastore](https://cloud.google.com/datastore/) -具有自动分片和复制功能的高度可扩展的NoSQL数据库.
-  - [Cloud Storage](https://cloud.google.com/storage/) -满足高QPS需求的地理冗余对象存储.
-  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) -所有消息大小和速度的地理冗余实时消息.
-  - [Apigee](https://apigee.com/) -用于多云环境的企业API管理.
-  - [Endpoints](https://cloud.google.com/endpoints/) -建立在Google Cloud上的API管理应用程式.
-  - [Cloud Dataflow](https://cloud.google.com/dataflow/) -无服务器流和批处理数据处理服务.
-  - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
-  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
-- [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台. 为Jamstack提供各种流行语言和媒体窗口小部件的SDK，使您可以轻松管理媒体，CDN，存储，转换等.
-- [imgix](https://www.imgix.com/)  -无服务器图像传送和管理服务.  imgix连接到图像的存储位置（例如S3，GCS，Web文件夹），并使用简单而强大的URL参数来转换，优化和智能地传递图像.
-- [Elastictable](https://www.elastictable.com) -建立在AWS之上的后端即服务解决方案，该解决方案无法提高在线业务的成功率.
-- [Stormkit](https://stormkit.io)  -适用于由AWS提供支持的现代javascript应用程序的强大的无服务器基础架构. 它与您的git flow集成，并无缝构建，部署和扩展您的应用程序.
+- [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify 允许您在没有 AWS 帐户的情况下部署 Lambda 函数，并在 Netlify 中直接处理函数管理.
+- [Amazon Lambda](https://aws.amazon.com/lambda/) - 让您无需配置或管理服务器即可运行代码.
+- 微软 Azure
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础设施.
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - 简化构建可跨云服务和本地系统集成应用程序和数据的自动化可扩展工作流.
+- 谷歌云
+  - [App Engine](https://cloud.google.com/appengine/) - 完全抽象出基础设施的无服务器应用程序，因此您只需专注于代码.
+  - [Cloud Functions](https://cloud.google.com/functions/) - 用于构建和连接云服务的无服务器环境.
+  - [Cloud Datastore](https://cloud.google.com/datastore/) - 具有自动分片和复制功能的高度可扩展的 NoSQL 数据库.
+  - [Cloud Storage](https://cloud.google.com/storage/) - 满足高 QPS 需求的地理冗余对象存储.
+  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) - 适用于所有消息大小和速度的地理冗余实时消息传递.
+  - [Apigee](https://apigee.com/) - 多云环境的企业 API 管理.
+  - [Endpoints](https://cloud.google.com/endpoints/) - 基于 Google Cloud 构建的 API 管理应用.
+  - [Cloud Dataflow](https://cloud.google.com/dataflow/) - 无服务器流和批处理数据处理服务.
+  - [BigQuery](https://cloud.google.com/bigquery/) - 无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
+  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - 基于自定义 Google 硬件（张量处理单元）自动扩展的无服务器机器学习服务.
+- [Serverless](https://serverless.com/) - 用于部署和操作无服务器架构的工具包.
+- [Cloudinary](https://cloudinary.com/)  - 无服务器媒体（图像/视频）管理平台. 为 Jamstack 提供每种流行语言的 SDK 和媒体小部件，以便轻松管理媒体、CDN、存储、转换等.
+- [imgix](https://www.imgix.com/)  - 无服务器图像交付和管理服务.  imgix 连接到您的图像存储位置（例如 S3、GCS、Web 文件夹），并使用简单而强大的 URL 参数转换、优化和智能地交付您的图像.
+- [Elastictable](https://www.elastictable.com) - 后端即服务解决方案建立在 AWS 上，可提高在线业务的成功率.
+- [Stormkit](https://stormkit.io)  - 强大的无服务器基础设施，适用于由 AWS 提供支持的现代 javascript 应用程序. 它与您的 git 流程集成并无缝构建、部署和扩展您的应用程序.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
-- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - Matt Biilmann.
-- [Rise of the Jamstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
-- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
-- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
+- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - 马特比尔曼.
+- [Rise of the Jamstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - 马蒂亚斯·比尔曼.
+- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) - 菲尔霍克斯沃斯.
+- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - 克里斯麦克雷.
 - [Jamstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
-- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
-- [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) -凯尔·马修斯（Kyle Mathews）.
-- [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) -Jamstack Conf.
-- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) -艾哈迈德·阿威斯（Ahmad Awais）.
-- [React vs Vue, Gatsby vs Gridsome - building the same site](https://www.youtube.com/watch?v=H19fF7ITtaI) -Ondrej Polesny.
-- [WTF is Jamstack?](https://youtu.be/ReSvk5MQek4) -Ondrej Polesny.
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - 穿越媒体.
+- [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - 凯尔马修斯.
+- [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) - Jamstack 会议.
+- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) - 艾哈迈德·阿威斯.
+- [React vs Vue, Gatsby vs Gridsome - building the same site](https://www.youtube.com/watch?v=H19fF7ITtaI) - Ondrej Polesny.
+- [WTF is Jamstack?](https://youtu.be/ReSvk5MQek4) - Ondrej Polesny.
 
 ## Tutorials / Articles
 
 - [Ghost on the Jamstack](https://blog.ghost.org/jamstack/)
+- [Jamstack Ecosystem](https://bejamas.io/blog/jamstack-ecosystem/)
 - [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
@@ -233,12 +238,13 @@
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on Jamstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
 - [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
-- [9 Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
+- [Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
 - [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 - [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
 - [State of the Headless CMS Market 2020 report](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020)
 - [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
-- [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) -通过创建静态站点并将其部署到Netlify来利用具有Python和Flask的JAMstack.
+- [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - 通过创建静态站点并将其部署到 Netlify，利用 Python 和 Flask 来利用 JAMstack.
+- [Static Site Comments: A Jamstack How-To](https://snipcart.com/blog/jamstack-static-site-comments)
 
 ## Podcasts
 
@@ -246,10 +252,10 @@
 - [That's my Jamstack](https://thatsmyjamstack.com)
 
 ## Books
-- [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) -Mathias Biilmann和Phil Hawksworth（由O&#39;Reilly出版）.
+- [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - 由 Mathias Biilmann 和 Phil Hawksworth 撰写（由 O&#39;Reilly 出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
-- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) -克里斯托弗·佩科拉罗（Christopher Pecoraro）和文森佐·甘比诺（Vincenzo Gambino）
-- [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) -雷蒙德·卡姆登（Raymond Camden）和布莱恩·里纳尔迪（Brian Rinaldi）
+- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - 克里斯托弗·佩科拉罗 (Christopher Pecoraro) 和文森佐·甘比诺 (Vincenzo Gambino)
+- [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - 雷蒙德·卡姆登和布赖恩·里纳尔迪
 
 ## License
 

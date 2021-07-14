@@ -14,7 +14,7 @@
   * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) - 来自的视频 [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 归档生命周期模型试图将 Web 归档的技术和程序化分支整合到一个框架中，该框架将与任何寻求从 Web 归档内容的组织相关.  Archive-It 是 Internet Archive 的网络存档服务，它基于与世界各地的记忆机构的合作开发了该模型.
+  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 归档生命周期模型试图将 Web 归档的技术和程序化臂整合到一个框架中，该框架将与任何寻求从 Web 归档内容的组织相关.  Archive-It 是 Internet Archive 的网络存档服务，它基于与世界各地的记忆机构的合作开发了该模型.
   * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
 * WARC 标准：
   * 这 [warc-specifications](https://iipc.github.io/warc-specifications/) 官方规范的社区 HTML 版本和新提案的中心.
@@ -60,8 +60,8 @@
 * [Obelisk](https://github.com/go-shiori/obelisk)  - Go 包和 CLI 工具，用于将网页保存为单个 HTML 文件.  *（稳定的）*
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile)  - Firefox/Chrome 浏览器扩展和 CLI 工具，可将完整页面的忠实副本保存为单个 HTML 文件.  *（稳定的）*
 * [SiteStory](http://mementoweb.github.com/SiteStory/)  - 一个交易档案，它有选择地捕获和存储在 Web 客户端（浏览器）和 Web 服务器之间发生的交易.  *（稳定的）*
-* [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that enables users to create social media collections from Twitter, Tumblr, Flickr, and Sina Weibo public APIs. *(Stable)*
-* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) 直接使用 Chrome 或 Chrome Headless 的档案爬虫.  *（开发中）*
+* [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/)  - 使用户能够从 Twitter、Tumblr、Flickr 和新浪微博公共 API 创建社交媒体收藏的开源软件.  *（稳定的）*
+* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
 * [StormCrawler](http://stormcrawler.net/)  - 用于在 Apache Storm 上构建低延迟、可扩展的网络爬虫的资源集合.  *（稳定的）*
 * [twarc](https://github.com/docnow/twarc)  - 用于归档 Twitter JSON 数据的命令行工具和 Python 库.  *（稳定的）*
 * [WAIL](https://github.com/machawk1/wail) - 在多个 Web 归档工具之上的图形用户界面 (GUI)，旨在用作任何人保存和重放网页的简便方法； [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail) .  *（稳定的）*
@@ -69,6 +69,7 @@
 * [WARCreate](http://matkelly.com/warcreate/) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/browser/) 用于将单个网页或网站存档到 WARC 文件的扩展.  *（稳定的）*
 * [Warcworker](https://github.com/peterk/warcworker)  - 基于 Squidwarc 的开源、dockerized、排队、高保真 Web 归档器，具有简单的 Web GUI.  *（稳定的）*
 * [Web2Warc](https://github.com/helgeho/Web2Warc)  - 易于使用且高度可定制的爬虫，使任何人都可以创建自己的小型 Web 档案 (WARC/CDX).  *（稳定的）*
+* [Web Curator Tool](https://webcuratortool.org)  - 用于选择性 Web 归档的开源工作流管理.  *（稳定的）*
 * [WebMemex](https://github.com/WebMemex)  - Firefox 和 Chrome 浏览器扩展，可让您存档访问的网页.  *（开发中）*
 * [Webrecorder](https://webrecorder.io/)  - 为您浏览的任何网站创建高保真交互式录音.  *（稳定的）*
 * [Wget](http://www.gnu.org/software/wget/) - 一个开源文件检索实用程序 [version 1.14 supports writing warcs](http://www.archiveteam.org/index.php?title=Wget_with_WARC_output) .  *（稳定的）*
@@ -120,7 +121,7 @@
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz)  - 用于连接 GZIP 文件（和 `*.warc.gz`）的可拆分 Hadoop InputFormat.  *（稳定的）*
 * [jwarc](https://github.com/iipc/jwarc) - 使用类型安全 API (Java) 读取和写入 WARC 文件.
 * [Jwat](https://sbforge.org/display/JWAT/JWAT)  - 用于读取/写入/验证 WARC/ARC/GZIP 文件 (Java) 的库和工具.  *（稳定的）*
-* [node-warc](https://github.com/N0taN3rd/node-warc) - 使用任一解析 WARC 文件或创建 WARC 文件 [Electron](https://electron.atom.io/) or [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （节点.js）.  *（稳定的）*
+* [node-warc](https://github.com/N0taN3rd/node-warc) - 使用任一解析 WARC 文件或创建 WARC 文件 [Electron](https://electron.atom.io/) 或者 [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （节点.js）.  *（稳定的）*
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARChive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 存档 IO (Python) 的流式 WARC/ARC 库.
 * [warctools](https://github.com/internetarchive/warctools) - 用于处理 ARC 和 WARC 文件的库 (Python).
@@ -140,7 +141,7 @@
 * [Chrome link gopher](https://chrome.google.com/webstore/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US&gl=US) - 浏览器扩展：页面上的链接收割机.
 * [Chrome Open Multiple URLs](https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh?hl=de) - 浏览器扩展：打开多个 URL 并从文本中提取 URL.
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - 浏览器扩展：在浏览器选项卡之间切换.
-* [FlameShot](https://github.com/lupoDharkael/flameshot) - Ubuntu 上的屏幕截图和注释.
+* [FlameShot](https://github.com/lupoDharkael/flameshot) - Screen capture and annotation on Ubuntu.
 * [PlayOnLinux](https://www.playonlinux.com/en/) - 用于在 Ubuntu 上运行 Xenu 和 Notepad++.
 * [PlayOnMac](https://www.playonmac.com/en/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
 * [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots)  - 用于部分屏幕捕获和注释的 Windows 内置. 在 macOS 上，您可以使用 Command + Shift + 4（用于截取部分屏幕的键盘快捷键）.
@@ -148,6 +149,9 @@
 * [xDoTool](https://github.com/jordansissel/xdotool) - 在 Ubuntu 上单击自动化.
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) - 适用于 Windows 的桌面链接检查器.
 
+### Curation
+
+* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - 一种 [Zotero](https://www.zotero.org/) 提交到 Web 档案并从中读取的扩展. 来源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
 
 ## Community Resources
 

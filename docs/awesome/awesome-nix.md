@@ -38,6 +38,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git commit.
+* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已经进入频道的跟踪器.
 
 ## Deployment Tools
 
@@ -69,6 +70,8 @@
 * [Arion](https://github.com/hercules-ci/arion) - 在 Nix/NixOS 的帮助下运行 `docker-compose`.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - 一个 `nix-shell` 替代品，它使用缓存快速打开后续 shell.
 * [Cachix](https://cachix.org/)  - 托管二进制缓存服务； 开源项目免费.
+* [devshell](https://github.com/numtide/devshell) - 带有额外位和 toml 配置选项的 `mkShell`，以便能够加入非 nix 用户.
+* [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用程序功能可帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的`.gitignore` 集成.
 * [lorri](https://github.com/target/lorri/) - 一个更好的`nix-shell` 用于增强direnv 的开发.
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
@@ -129,7 +132,9 @@
 
 * [fenix](https://github.com/nix-community/fenix) - 每晚为 nix 提供 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与前沿 Rust 和 Firefox 的叠加.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
 
 ## NixOS Modules
 
@@ -141,9 +146,8 @@
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算包集.
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Nix packages and NixOS modules for Bitcoin nodes with higher-layer protocols with an emphasis on security.
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层的协议，强调安全性.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 像在 NixOS 上一样管理 macOS 配置.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与前沿 Rust 和 Firefox 的叠加.
 * [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - 流血边缘的 Wayland 包.
 * [NUR](https://github.com/nix-community/NUR/)  - Nix 用户存储库. 所有覆盖的母体，允许访问用户存储库并通过属性安装包.
 
