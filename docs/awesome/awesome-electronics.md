@@ -27,7 +27,7 @@
 ### Theory and Courses
 
 - [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - 免费的高质量教科书和工作表，重点是理论、模拟和苏格拉底方法.
-- [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - CircuitLab 提供的免费在线书籍，其中包含交互式原理图和模拟（正在开发中）.
+- [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) - 由 CircuitLab（正在开发）提供的免费在线书籍，其中包含交互式原理图和模拟.
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) - 提供电气工程及相关主题完整课程的非营利学习平台.
 - [NEETS (Navy Electricity and Electronics Training Series)](https://maritime.org/doc/#neets) ([alternative link](https://github.com/thinkitdata/neets/tree/master/modules))- 美国海军非居民培训课程材料.
 
@@ -35,7 +35,7 @@
 
 - [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - 全面的 EE 和 CS 课程网站档案.
 - [Dr. Jacob Baker](http://cmosedu.com) - 课程和教程，拉斯维加斯内华达大学教授.
-- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)， 和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - 课程材料，UT Austin 教授
+- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)， 和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
 
 ## Simulators
 
@@ -50,7 +50,7 @@
 - [Open Circuit Design Software](http://opencircuitdesign.com) - 开源、完整的 EDA 套件芯片设计套件，专注于跟上商业工具的步伐.
 - [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) 为德州仪器构建，与德州仪器模型捆绑在一起.
 - [CppSim](https://www.cppsim.com/) - 免费的开源电路模拟器，它利用 C++ 语言来实现非常快的模拟时间.
-- [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
+- [Scilab with Xcos](https://www.scilab.org/)  - MATLAB 的免费开源数值计算替代品.  Xcos 提供类似于 Simulink 的电气系统建模功能.
 - [iCircuit](http://icircuitapp.com/) - 易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时不间断分析功能.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - 具有多种交互式模拟类型的专业级混合信号模拟器.
 
@@ -87,12 +87,12 @@
 
 ### KiCad
 - [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
-- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - 初学者视频教程，让您尽快了解制造的电路板.
+- [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - 初学者视频教程，可让您尽快了解制造的电路板.
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - 更全面的初学者到中级视频教程.
 - [KiCad.info Forums](https://forum.kicad.info) - 用户讨论和帮助论坛.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) - 全面的书面教程，带您创建键盘 PCB.
 - [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) （还 [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)) - 简短的 PDF，涵盖最常见操作的菜单和键盘快捷键.
-- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - 收集所有在线可用的 KiCad 封装和一些用于管理它们的脚本.
+- [Footprint Collection](https://github.com/kitspace/kicad_footprints) - 收集所有在线可用的 KiCad 足迹和一些用于管理它们的脚本.
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - 用于手动拾取和放置的 html BOM 生成工具.
 - [kicad-exports](https://github.com/nerdyscout/kicad-exports)  - 为任何 KiCAD 项目自动生成文件（原理图、gerbers、BoM、绘图、3D 模型）. 使用 Github Actions 之类的 CI 在本地或每个 `git push` 上运行它.
 
@@ -106,7 +106,7 @@
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - 相当多的不同PCB批量和组装服务的比较服务.
-- [OSH Park](https://oshpark.com) - 低成本 PCB 批量服务，采用带有标志性紫色丝网印刷的高质量电路板.
+- [OSH Park](https://oshpark.com) - 低成本 PCB 批量服务，提供带有标志性紫色丝网印刷的高质量电路板.
 - [Aisler](https://aisler.net) - 在欧洲（德国）制造和发货的经济实惠的优质电路板.
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - 低成本的 PCB 批处理服务，以其“肮脏”的质量而自豪.
 - [JLCPCB](https://jlcpcb.com/) - 低成本 PCB 批量服务和内部低成本 SMT 服务.
@@ -166,7 +166,7 @@
 - [The Amp Hour](https://theamphour.com/) - 与 Chris Gammel 和 Dave Jones (EEVBlog) 关于电子产品的即兴聊天，经常与客人
 - [Embedded.fm](https://embedded.fm/) - Christopher 和 Elecia White 经常与客人讨论嵌入式系统开发等等.
 - [The Spark Gap Podcast](http://thesparkgap.net) - 每集涵盖一个特定的 EE 主题，有时还有嘉宾.
-- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - 每周播客，来自 MacroFab 的 Parker 和 Stephen 讨论 EE 主题和行业新闻.
+- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - 每周播客，MacroFab 的 Parker 和 Stephen 讨论 EE 主题和行业新闻.
 - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - 涵盖从机械到电气的一般工程主题.
 
 
@@ -188,18 +188,19 @@
 
 ## Subscription Kit Services
 - [AdaBox](https://www.adafruit.com/adabox/)  - 精选的 Adafruit 产品、独特的收藏品和独家折扣. 全部按季度交付.
-- [HackerBoxes](https://hackerboxes.com/) - 包含项目、组件、模块和工具的每月惊喜盒.
+- [HackerBoxes](https://hackerboxes.com/) - 包含项目、组件、模块和工具的每月惊喜礼盒.
 
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - 社区支持的具有大量电子元件模型的 3D 模型数据库.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - 专用于零件 3D 模型的网站（需要登录）.
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 一份来自中国的廉价电子产品清单，您可以在您的项目中使用它们.
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 可以在您的项目中使用的来自中国的廉价电子产品清单.
 - [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - 所有可用软件工具的更全面列表.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - 另一个 GitHub 列表：电子爱好者和硬件黑客的资源.
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - 很棒的 FPGA 资源列表.
-- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - 机器人电子产品资源、项目和产品的 GitHub 列表.
+- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - 机器人电子产品的资源、项目和产品的 GitHub 列表.
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - 很棒的嵌入式编程资源列表.
 - [TCAD Central](https://tcad.com/Software.html) - 来自 DEVSIM 制造商的技术 CAD (TCAD) 软件和资源列表.
-- [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - 精选的开源 FPGA 板列表
+- [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - 精选的优秀开源 FPGA 板列表.
+- [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - 精选的硬件设计工具列表，重点是芯片设计.

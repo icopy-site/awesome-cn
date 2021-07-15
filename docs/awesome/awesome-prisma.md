@@ -10,9 +10,9 @@
 
 ## :tipping_hand_woman: About this List
 
-这是关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：heart_eyes：
+这是关于**真棒资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：心眼：
 
- ** Prisma是开源ORM **. 它具有类型安全性，并为TypeScript和Node.js自动生成了查询生成器，从而使数据库访问变得容易.
+ **Prisma 是一个开源 ORM**. 它通过类型安全和自动生成的 TypeScript 和 Node.js 查询构建器使数据库访问变得容易.
 
 ## :books: Docs
 
@@ -52,6 +52,7 @@
 - [Prisma ERD Visualizer](https://github.com/skn0tt/prisma-erd)
 - [prisma-uml](https://github.com/emyann/prisma-uml)
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
+- [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
 
 ## :thinking: How Tos
 
@@ -96,20 +97,20 @@
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
-- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) -使用NestJS和Prisma构建的Restful API的Crud（用途 [NestJSX CRUD](https://github.com/nestjsx/crud))
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 使用 NestJS 和 Prisma 构建的 Restful api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
 
 ## Prisma 1
 
-这是真棒Prisma的第二次迭代，重点介绍了Prisma 2.
-看看 [Awesome Prisma 1 list](https://github.com/catalinmiron/awesome-prisma/blob/master/awesome-prisma1.md)
+这是令人敬畏的 Prisma 的第二次迭代，专注于 Prisma 2.
+查看 [Awesome Prisma 1 list](https://github.com/catalinmiron/awesome-prisma/blob/master/awesome-prisma1.md)
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一的.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，Catalin Miron放弃了所有版权和
-相关或邻接权.
+在法律允许的范围内，Catalin Miron 已放弃所有版权和
+本作品的相关或邻接权.
