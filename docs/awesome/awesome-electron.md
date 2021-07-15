@@ -107,7 +107,6 @@
 - [Markn](https://github.com/minodisk/markn) - 降价查看器.
 - [Shiba](https://github.com/rhysd/Shiba) - 带有 linting 的实时 Markdown 预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 菜单栏中的 YouTube 音乐播放器.
-- [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Monu](https://github.com/maxogden/monu) - 过程监控.
 - [DevDocs](https://github.com/egoist/devdocs-app) - 非官方 DevDocs.io 应用程序.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - 非官方的谷歌音乐应用.
@@ -402,7 +401,7 @@
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和改进的性能嵌入网络应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和改进的性能嵌入 Web 应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack 用 `BrowserView`、Redux、Rx 和 TypeScript 重写了他们的 Electron 应用程序，以修复其性能问题.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作 Electron 应用程序并将其发布到 Mac App Store 的过程的 5 部分系列.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - 专注于设计和代码决策以及电子安全.
