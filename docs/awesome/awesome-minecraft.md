@@ -26,7 +26,7 @@
 
 ### Archives
 
-- [MCArchive](https://mcarchive.net/)  - 归档旧的、丢失的和被遗忘的 Minecraft 模组. 可以在他们的 Discord 上找到各种其他 mod 和东西.
+- [MCArchive](https://mcarchive.net/)  - 存档旧的、丢失的和被遗忘的 Minecraft 模组. 可以在他们的 Discord 上找到各种其他 mod 和东西.
 - [Minecraft Archive Project](http://map.crummy.com/) - 包含 Minecraft 模组、世界、资源包和许多其他资源（甚至论坛帖子！）的巨大档案.
 - [MCVersions](https://mcversions.net/) - 存档大多数 Minecraft 罐子.
 - [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - 存档一些丢失的 Minecraft 服务器 jar.
@@ -50,6 +50,7 @@
 - [Optifine](https://www.optifine.net/home) - OptiFine 是一个 Minecraft 优化模组.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps 是一个 Minecraft mod，增加了一些性能改进.
 - [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - 旨在提高帧速率和减少微卡顿的 Fabric 模块.
+- [Iris (for Fabric)](https://irisshaders.net/) - 基于钠添加着色器支持的织物模型.
 
 ### Skins And Capes
 
@@ -76,7 +77,7 @@
 - [Railcraft](https://github.com/Railcraft/Railcraft) - 大大扩展和改进了 Minecraft 中的矿车系统.
 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) - 实际上 Additions 是一个技术模块，它添加了各种实用程序，如多功能工具、物品磁铁、原子重建器等.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2)  - 一个关于物质、能量并用它们来征服世界的 Minecraft Mod. 主要集中在物品存储上.
-- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) - One of the best tech mod there is, but really overpowered in the late game. Adds things like a Draconic Power Core which no one has been able to fill yet...
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)  - 最好的技术模组之一，但在游戏后期真的很强大. 添加诸如龙之能量核心之类的东西，目前还没有人能够填充……
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - 一个大型的末影主题模组，只是增加了许多新的有趣的东西.
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft)  - 添加火箭和新行星以供探索的模组. 可通过插件扩展.
 - [OpenComputers](https://ocdoc.cil.li) - OpenComputers 是一个在游戏中添加计算机和机器人的模组，可以在 Lua 5.3 中编程.
@@ -85,7 +86,7 @@
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam 的 HarvestCraft 是 Minecraft 的一个模组，目前添加了多种农作物和食物.
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
 - [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) - 一个增加了更复杂的作物系统的模组，比如具有基因突变的能力，还增加了更多的作物.
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) - 基本上添加了一个街区大的迷你林场.
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - 一个很棒的空中方块模组，它过滤沙子和砾石等有用资源，如铁和钻石，与许多模组兼容.
@@ -114,7 +115,7 @@
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - 修复了 Minecraft 代码的各个方面，通常使游戏更快.
 - [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - 显示当前查看的块（较新版本的 Hwyla）.
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) - 显示当前查看的块（Waila 的较新版本）.
-- [WorldInfo](https://www.curseforge.com/minecraft/mc-mods/worldinfo) - 显示当前查看的块（Waila for Rift）.
+- [WorldInfo](https://www.curseforge.com/minecraft/mc-mods/worldinfo) - Shows the block currently looked at (Waila for Rift).
 - [Waila](https://www.curseforge.com/minecraft/mc-mods/waila) - 显示当前查看的块（原始 Waila 项目）.
 - [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - 显示当前查看的块（Waila 的旧版 Minecraft 版本低于 1.6）.
 
@@ -141,7 +142,7 @@
 - [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - 允许将较新的客户端连接到 Minecraft 服务器的旧服务器版本.
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded)  - AdvancedKitsReloaded 是 Minecraft 服务器的套件管理插件，它运行 Bukkit、CraftBukkit、Spigot 和 Paper (&gt;1.8). 使用此插件，您可以轻松创建/编辑/删除您的工具包，您可以根据需要对其进行自定义.
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard 可让您和玩家保护土地区域免受恶意者和不受欢迎的人的侵害，以及调整和禁用 Minecraft 的各种游戏功能.
-- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook 可让您创建神奇的延伸桥、紧凑的红石电路、复杂的矿车机制等等——所有这些都无需客户端 mod，并且可以由服务器完全自定义.
+- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook 可让您创建神奇的延伸桥、紧凑的红石电路、复杂的矿车机制等等——所有这些都无需客户端 mod 并且完全由服务器自定义.
 
 ## Resource Packs
 
@@ -158,7 +159,7 @@
 - [Chocapic13](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) - 逼真且可配置的着色器包.
 - [Sonic Ether](https://www.sonicether.com/) - Pathracing 和其他逼真的着色器包.
 - [Sildur](https://sildurs-shaders.github.io/) - 着色器甚至实现了 Minecraft 1.16 的内置 API.
-- [Potato](https://rre36.com/potato-shader) - 一个非常轻巧的着色器包，适用于较旧或受限的 PC.
+- [Potato](https://rre36.com/potato-shader) - 一个非常轻量级的着色器包，适用于较旧或受限的 PC.
 - [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - 基岩版的着色器包.
 
 ## Web Applications
@@ -173,14 +174,14 @@
 
 - [Paper](https://papermc.io/) - Spigot 和 BungeeCord 的杂项补丁提供更好的性能和更多的配置选项.
 - [Glowstone](https://glowstone.net/)  - 以前称为 Spout 和 BukkitContrib. 从头开始编写的 Spigot Server 替代方案，其性能类似于 Paper.
-- [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
+- [Spigot](https://www.spigotmc.org/) - CraftBukkit 的继任者为 Bukkit API 提供支持.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server 提供对 Sponge API 的支持，并可扩展到 Forge API 和 Bukkit API.
 - [Mohist](https://mohistmc.com/) - 实现 Forge 和 Bukkit API 的服务器.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
 - [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
 - [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/)  - 以前称为 MCPC+. 实现 Forge 和 Bukkit API 的原始服务器.
 - [PowerNukkit](https://powernukkit.org/) - Nukkit 的强大分支.
-- [Nukkit/NukkitX](https://cloudburstmc.org/articles/) - 一个基岩版服务器，为支持 Nukkit API 的插件提供支持.
+- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - 一个基岩版服务器，为支持 Nukkit API 的插件提供支持.
 - [PocketMine](https://www.pocketmine.net/) - 一个提供基本插件支持的基岩版服务器.
 
 ### Libraries
