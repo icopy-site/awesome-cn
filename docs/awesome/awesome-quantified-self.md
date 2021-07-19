@@ -7,7 +7,7 @@
 
 &gt; 精心策划的令人敬畏的量化自我资源列表.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种将技术融入数据采集中的运动，涉及个人日常生活的各个方面，包括输入（例如食物消耗、周围空气质量）、状态（例如情绪、觉醒、血氧水平）和表现（精神和身体） .
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种将技术融入数据采集中的运动，涉及一个人日常生活的各个方面，包括输入（例如所消耗的食物、周围空气质量）、状态（例如情绪、觉醒、血氧水平）和表现（精神和身体） .
 
 欢迎投稿. 通过拉取请求添加链接或创建问题以开始讨论.
 
@@ -24,6 +24,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Wearables Table](https://quantifyme.io/) - 漂亮的可穿戴设备众包表.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - 物联网和量化自我设备列表.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - 量化自我研究和创新项目.
+- [Biomindmap](https://biomindmap.com/) - 具有网络可视化选项的研究干预数据库. 
 
 ## Articles & Blogs
 
@@ -138,7 +139,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Trakt](https://trakt.tv/) - 自动跟踪您正在观看的电视和电影（网络、媒体播放器）.
 - [Pocket](https://getpocket.com/)  - 让您保存文章以供日后阅读（Web、iOS、Android）.
 - [PhotoStats](http://www.photostats.io/) - 使用机器学习（iOS、Android）进行可视化、分析和自动标记的照片跟踪.
-- [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
+- [WordCounter](https://wordcounterapp.com/) - 作家的字数跟踪器（Mac）. 
 - [Podcast Tracker](http://www.podcasttracker.com/) - 让您记录、汇总和导出您的播客收听历史记录 (Web).
 
 ### Mind & Cognition
@@ -148,7 +149,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 ### Mood
 - [MoodCast](https://2appstudio.com/moodcast/) - 跟踪您的日常心情和活动（Android）.
 - [Daylio](http://daylio.webflow.io/)  - 记录您的一天，而无需写下一行. 高级版的可导出数据.  （iOS 和安卓）.
-- [MoodNotes](http://moodnotes.thriveport.com/)  - 用可修改的微笑或皱眉的脸捕捉你的感受. 可导出的数据.  （iOS 和 Apple Watch）.
+- [MoodNotes](http://moodnotes.thriveport.com/)  - 用可修改的微笑或皱眉的脸捕捉您的感受. 可导出的数据.  （iOS 和 Apple Watch）.
 - [MoodPanda](http://moodpanda.com/)  - 最古老的在线情绪追踪器之一. 评价您的心情并分享以支持. 可导出的数据. 通过 API（Web、iOS、Android）同步和扩展.
 - [MoodJam](http://moodjam.com/)  - 用颜色跟踪你的心情.  （仅限网络）.
 - [iMoodJournal](https://www.imoodjournal.com/)  - 10 分制的情绪跟踪，从非常好到不能更糟. 可导出的数据.  （安卓、iOS、苹果手表）.
@@ -237,7 +238,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - 一个开源的非营利性个人数据可视化框架.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - 习惯追踪器和个人数据分析应用程序.
 - [BetterSelf](https://betterself.io) - 用于跟踪补充剂和习惯的开源应用程序
-- [QS Ledger](https://github.com/markwk/qs_ledger) - 使用 Jupyter Notebooks 基于 Python 构建的开源个人数据聚合器和数据分析.
+- [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - 了解有关血液检测、生物标志物以及技术和服务的更多信息，以帮助量化（和改善）您的健康！
 - [health-records](https://github.com/pacogomez/health-records) - 使用纯文本管理个人健康记录的工具.
 

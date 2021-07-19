@@ -76,6 +76,7 @@
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
   1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
+  1. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business)
   1. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
   1. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
   1. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
@@ -136,6 +137,7 @@
   1. [Working From Home](https://www.youtube.com/watch?v=IW3lhfVpLL4)
 
 ## Job boards
+  1. [4 Day Week](https://4dayweek.io) - 具有更好的工作/生活平衡的软件工作.
   1. [Angel List](https://angel.co/jobs)  - 启动工作. 通过转到作业类型并选择“远程确定”进行搜索.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Built In](https://builtin.com/jobs/remote)
@@ -151,7 +153,6 @@
   1. [Flexjobs](https://www.flexjobs.com/) – 远程办公和专业兼职工作.
   1. [freelancermap](https://www.freelancermap.com/remote-jobs) - IT专家的自由职业和合同工作（主要是德国项目）
   1. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - 全栈开发人员作业的远程 OK 作业
-  1. [GitHub Jobs](https://jobs.github.com/) - 位置过滤器 -&gt; &quot;*[Anywhere](https://jobs.github.com/positions?description=&location=anywhere)/[Remote](https://jobs.github.com/positions?description=&location=remote)*"
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) 过滤器 -&gt; 仅限远程
   1. [GraphQL Jobs](https://graphql.jobs/r/remote) - 在现代初创公司中使用 GraphQL.
   1. [Guru](https://www.guru.com/) -（在软件之外有许多不同的类别）
@@ -172,6 +173,7 @@
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - 提供西班牙合同全职远程工作的存储库列表公司
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - 半到完全远程友好的科技公司列表
   1. [Remotees](https://remotees.com/)
+  1. [RemotExtra](https://www.remotextra.com/) - 工资透明的远程开发人员工作
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [Remotive Jobs](https://remotive.io/)
   1. [Remote People](https://remotepeople.io/)
@@ -293,7 +295,7 @@
   1. [Aurity](https://www.aurity.co/) - 100% 远程公司，专注于 React 和 React Native.
   1. [Automattic](https://automattic.com/work-with-us/) - WordPress.com 和 Gravatar 的制造商
   1. [Avallain](https://www.avallain.com/)  - 教育技术和数字出版. 我们拥有工具和流程来实现技术增强教育可以提供的对人类潜力的积极影响
-  1. [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
+  1. [AvantStay](https://avantstay.com/careers) - 位于洛杉矶的短期租赁公司，拥有远程开发团队.
   1. [Axelerant](https://www.axelerant.com/careers)
   1. [Baremetrics](https://baremetrics.com/about) - Stripe、Braintree、Recurly 和 Chargify 的分析和洞察.
   1. [BaseCamp](https://basecamp.com/about/team) - 项目管理软件.
@@ -361,6 +363,7 @@
   1. [Hanzo](https://www.hanzo.co/about-us/careers-uk)  - 网络存档公司. 完全远程. 蟒蛇，AWS.
   1. [Harvest](https://www.getharvest.com/careers) - 时间跟踪软件.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html)  - 用于自动化现代数据中心的开源工具.  Go、Ruby、Rails、Ember、JavaScript.
+  1. [Hatica](https://www.hatica.io) - 工程团队的工作分析：Hatica 为工程领导者和经理提供可操作的见解，以促进工作协调、加速交付、推动团队参与并促进团队福祉.
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](https://www.healthfinch.com/careers)  - 提高医疗保健系统的可用性. 总部位于美国威斯康星州麦迪逊市. 红宝石，JavaScript.
   1. [Heap](https://heapanalytics.com/careers/jobs) – 网络和移动分析，我们 8 位队友中有 2 位是远程的.
@@ -378,14 +381,14 @@
   1. [Intellum](https://www.intellum.com/)  - 我们建立员工协作、绩效和学习工具.  Ruby、iOS、Android、AWS、GCS.
   1. [Intevity](https://www.intevity.com/)
   1. [InVision](https://www.invisionapp.com/company#jobs) - 原型设计、协作和工作流平台.
-  1. [iRonin.IT](https://careers.ironin.it)  - 软件屋. 波兰语.  Ruby on Rails、Node.js、JavaScript、React、Angular、Vue.js.
+  1. [iRonin.IT](https://careers.ironin.it) - software house. Polish language. Ruby on Rails, Node.js, JavaScript, React, Angular, Vue.js.
   1. [Isos Technology](https://careers.isostech.com/) - 首要的 Atlassian 白金和企业解决方案合作伙伴，帮助组织使用 Atlassian 工具解决复杂的开发和业务问题.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) - 面向非营利组织的数字优先技术和战略.
   1. [Jibble Group](http://careers.jibblegroup.com/) - 跨越 15 个不同国家的远程团队构建下一个世界级的劳动力管理和工资软件即服务.
   1. [journy.io](https://angel.co/company/journy-io/jobs) - 客户数据平台.
   1. [Judge.me](https://judge.me/)  - 电子商务评论平台. 我们公司在 4 大洲完全偏远.
   1. [Keepsafe](https://www.getkeepsafe.com) - 移动优先隐私产品，让全世界都可以轻松选择隐私.
-  1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
+  1. [Khan Academy](https://www.khanacademy.org/careers)  - 教育科技. 专注于 K-12 STEM 的非营利组织.  Less、React、Flux、Backbone、jQuery、Python、Google App Engine、Swift 和 Objective-C.
   1. [Knack](https://www.knack.com/jobs)  - 帮助客户简化业务流程和自动化工作流程的简单在线数据库. 该产品是无代码/低代码的DIY. 该公司是 100% 远程的.
   1. [LaterPay](https://www.laterpay.net/)  -（微）支付推动者. 德国慕尼黑.  Python、JavaScript、AWS.
   1. [LaunchPotato](https://launchpotato.com/careers) - 位于佛罗里达州德尔雷海滩的创业工作室.
@@ -402,7 +405,7 @@
   1. [MariaDB](https://mariadb.com/about-us/careers) - 开源数据库.
   1. [MarsBased](https://marsbased.com) - MarsBased 是巴塞罗那的一家开发咨询公司，提供基于 Ruby on Rails、Angular 和其他 JavaScript 框架的端到端 Web 和移动应用程序.
   1. [Mapbox](https://www.mapbox.com/jobs/) - 适用于各种平台的地图集成工具.
-  1. [MCFTech](https://www.mcftech.com/careers/) - Applications to help you run your business succesfully.
+  1. [MCFTech](https://www.mcftech.com/careers/) - 帮助您成功经营业务的应用程序.
   1. [MeetEdgar](https://meetedgar.com/careers/)  - 自动社交分享. 美国远程.
   1. [Merico](https://merico.dev/) - 代码深度分析引擎.
   1. [Mixmax](https://careers.mixmax.com/) - 具有超能力的电子邮件.
@@ -419,7 +422,7 @@
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web 应用程序安全扫描器.
   1. [Next Big Sound](https://www.nextbigsound.com/about) - 音乐行业的分析和洞察.
   1. [NinjaCat](https://www.ninjacat.io/jobs) - 领先数字机构的报告、监控和呼叫跟踪平台.
-  1. [Niteo](https://niteo.co/careers) - 一个有着十年历史的 SaaS 工作室，充满了聪明的想法，构建智能解决方案来为在线小型企业提供支持.
+  1. [Niteo](https://niteo.co/careers) - 一个有着十年历史的 SaaS 工作室，充满了聪明的想法，构建了智能解决方案来为在线小型企业提供支持.
   1. [NodeSource](https://nodesource.com/about) - NodeSource 致力于为 Node.js 创建一个可持续的生态系统.
   1. [Nozbe](https://nozbe.com/careers) - 适用于 Mac、Windows、Linux、Android、iPad 和 iPhone 的 GTD 应用程序.
   1. [ofri](https://www.ofri.ch/job_openings) - 一个将房主与优质家居装修专业人士联系起来的瑞士在线市场.
@@ -436,7 +439,7 @@
   1. [Precision Nutrition](https://www.precisionnutrition.com/) - 在线营养指导和认证.
   1. [PreviousNext](https://www.previousnext.com.au) - 澳大利亚的 Drupal 机构.
   1. [Prezly](https://www.prezly.com/)  - SaaS 公关平台.  PHP、React、JS、Postgres.  100% 远程.
-  1. [Prodperfect](https://prodperfect.com/)  - 来自实时用户数据的自动化 QA 测试. 远程优先组织，在波士顿和旧金山设有工作场所.
+  1. [Prodperfect](https://prodperfect.com/)  - 来自实时用户数据的自动化 QA 测试. 在波士顿和旧金山设有工作场所的远程优先组织.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - 按需 QA 即服务.
   1. [Real HQ](https://realhq.com)  - Agent Pronto 的制造商，该软件旨在帮助改善房屋买卖体验. 我们从一开始就处于远程状态，现在全球有 50 多个.  Ruby、Rails、React.js、iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/)  - 社交发布平台.  Python、JS 和 iOS/Android 开发人员. 世界各地的团队.
@@ -452,7 +455,7 @@
   7. [SerpApi](https://serpapi.com/team)  - 实时API访问Google、Youtube、eBay等搜索引擎的结构化搜索结果.  Ruby、Rails、React.js.
   8. [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote)  - 企业云计算可提高服务水平、激励员工并改变企业的工作方式. 以光速工作.
   9. [ShakaCode](https://www.shakacode.com/career/) - 一家全球网络开发软件咨询和产品公司.
-  10. [Shogun](https://getshogun.com/team) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
+  10. [Shogun](https://getshogun.com/team)  - 构建和优化电子商务登陆页面.  Ruby / Rails、Go、JavaScript、React.  100% 远程.
   11. [Signal](https://www.signal.org/workworkwork/) - 这些人创造了梦幻般 [Signal app](https://www.signal.org) . 仅限美国.
   12. [Simple](https://www.simple.com/careers)
   13. [Skyscrapers](https://skyscrapers.eu/jobs/)  - 云托管服务和管理. 与多个云提供商（AWS、Digital Ocean、Linode 等）合作.  100% 远程.
@@ -516,7 +519,7 @@
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - 子版块.
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC频道（[web access](https://webchat.freenode.net/?channels=#remotes))
 1. [Hacker Paradise](https://www.hackerparadise.org/) - 出差的远程工作者.
-1. [Remote Year](https://www.remoteyear.com/) - 旅行技术人员 1 年.
+1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
 1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作者.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 1. [Hypelance](https://hypelance.com/) - 自由职业者和企业家数字社区论坛.
@@ -553,7 +556,7 @@
   1. [TeamHub](https://teamhub.app/) — 直接在您的 IDE 中实时报告状态和进度
   1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) — 沉浸式视频通话提示
   1. [Twist](https://twist.com/) — 一个长篇讨论和随意信息和谐共存的交流平台.
-  1. [Whereby](https://whereby.com) – 基于浏览器的无插件群组视频通话.
+  1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
   1. [Zoom](https://zoom.us) — 高质量群组视频和共享屏幕，运行在 linux 上，记录会话并支持电话呼叫.
   1. [Krisp](https://krisp.ai/) - 在任何通信应用程序中静音背景噪音.
 
@@ -567,7 +570,7 @@
   1. [Taskade](https://taskade.com/) - 团队的实时协作笔记、清单和大纲.
   1. [Trello](https://trello.com/) - 精益项目板.
   1. [Notion](https://www.notion.so/) - 在一个工作区中进行写作、计划、协作和组织工作.
-  1. [Jira](https://www.atlassian.com/software/jira) - 问题和项目跟踪工具.
+  1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity 可重现咖啡馆的环境声音，以提高您的创造力并帮助您更好地工作.

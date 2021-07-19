@@ -31,6 +31,7 @@
 - [Load Testing Your API with Swagger/OpenAPI and k6](https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6) - 根据 OpenAPI 规范生成 k6 负载测试脚本.
 - [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) - 如何使用 Postman 集合对您的 API 进行负载测试.
 - [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - Back Market 如何通过基于 k6 的负载测试为黑色星期五做好准备.
+- [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - 如何使用xk6-sql扩展直接测试SQL数据库. 
 
 ## Videos
 

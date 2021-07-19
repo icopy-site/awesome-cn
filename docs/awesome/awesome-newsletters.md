@@ -28,7 +28,7 @@
 - [Web Development Reading List](https://wdrl.info) . 本时事通讯分享 Web 开发方面的最新文章.
 - [Fullweb Weekly](http://fullweb.io/) . 面向全栈 Web 开发人员的每周时事通讯. 它每周向您发送有关 Web 前端和后端、DevOps 和用户体验的前 5 个链接.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周时事通讯，讨论围绕网络平台的有趣和热门话题. [Archive](https://ponyfoo.com/weekly/history).
-- [Dev Awesome](https://devawesome.io/). Get the latest programming news, cool libraries and productivity tips in your inbox every two weeks.
+- [Dev Awesome](https://devawesome.io/) . 每两周在您的收件箱中获取最新的编程新闻、酷炫的库和生产力技巧.
 - [Insnippets](https://insnippets.com) . 包含 TL;DR 的每日时事通讯，关于 Web 开发、Devops 和分布式系统的有趣话题.
 - [JAMstacked](https://jamstack.email/) . 关于不断发展的 JAMstack 生态系统的电子邮件更新.
 - [FreeCodeCamp](https://www.freecodecamp.org) . 每周从 FreeCodeCamp 学习平台中选择五篇文章、视频或整个课程.
@@ -37,7 +37,7 @@
 ### JavaScript
 
 - [JavaScript Weekly](https://javascriptweekly.com/) . 免费的、每周一次的 JavaScript 新闻和文章的电子邮件汇总. [Archive](https://javascriptweekly.com/issues).
-- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次通过电子邮件发送时事通讯，其中包含适用于设计人员和开发人员的有用提示、技巧和资源.
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次通过电子邮件发送时事通讯，为设计师和开发人员提供有用的提示、技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 一个 JavaScript 快速提示，每隔一周发送到您的收件箱.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly 是一份专注于工具的前端开发和网页设计时事通讯.
 - [ES.next News](http://esnextnews.com/) . 每周 5 个 ECMAScript.next 链接，由 Axel Raushmayer 博士和 Johannes Weber 策划.
@@ -56,7 +56,7 @@
 - [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe) . 关于 React 和生态系统的每周时事通讯.
 - [React Status](https://react.statuscode.com/) . 最新 React 和 React Native 链接和教程的每周综述.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter) . 最流行的 React 新闻、文章和库的每周概览.
-- [This Week In React](https://this-week-in-react.org/) . 每周报道有关 React Core 和 React DOM 的有趣拉取请求、讨论和 RFC. 每周五出来.
+- [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 - [Tiny React](https://tinyreact.email) . 收件箱中本周最热门的 3 篇 React 文章.
 - [React Explained](https://www.getrevue.co/profile/react-explained) . 为学习 React 的人们提供的每周时事通讯.
 - [Next.js News](https://nextjsnews.com) .  Next.js 重点时事通讯每月发送. 包含对即将推出的功能、最佳文章、工具和插件的评论.
@@ -74,11 +74,11 @@
 
 #### Svelte
 
-- [Svelte News Weekly](https://svelte.news/weekly) . 为 Svelte 爱好者精心策划的时事通讯，每周提供精选新闻.
+- [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
 
 ### Data Visualization
 
-- [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter) . 每周二将 D3.js 和数据可视化新闻、文章、工作等发送到您的收件箱.
+- [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
 - [Best in Visual Storytelling](https://us16.list-manage.com/subscribe?u=5c12dabe1e59a9fbde1174b8c&id=e27a48af53) . 周一汇总了过去一周最好的数据新闻. 付费版本还包括数据可视化职位发布.
 - [Generative Collective](https://generative.substack.com/) . 每周六早上涵盖生成/功能艺术的新闻、教程、文章和灵感.
 
@@ -107,14 +107,14 @@
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动作设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
-- [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
+- [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和出色的设计相关内容来自最佳 subreddits.
 - [Figmalion](https://figmalion.com) . 双周刊策划的关于 [Figma](https://www.figma.com/).
 
 ### HTML5
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的 HTML5 和 Web 平台技术综述.  CSS 3、Canvas、WebSockets、WebGL、Native Client 等.
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 关于 HTML5 游戏开发的每周通讯.
-- [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
+- [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯作为上周添加到 Phaser 网站的所有新内容（游戏发布、教程、视频等）的摘要.
 
 ### SVG
 
@@ -259,6 +259,7 @@
 
 ## OS
 
+- [TinyOpenSource](https://tinyopensource.email) . 来自开源世界的 5 大更新，直接发送到您的收件箱. 简短而甜蜜.
 - [BSD Weekly](https://bsdweekly.com/) . 免费的、每周一次的 BSD 新闻和文章的电子邮件综述.
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) . 最新的 MacMost 教程、技巧和新闻每周都在您的收件箱中.
 - [NixOS Weekly](https://weekly.nixos.org) . 最新消息 [NixOS](https://nixos.org)
@@ -314,7 +315,7 @@
 
 - [Your weekly Azure news fix](https://azureweekly.info/) .  Azure Weekly 汇总了本周 Microsoft Azure 生态系统中的头条新闻，以及非常值得一读的有趣历史内容.
 - [Serverless Status](https://serverless.email/) . 关于无服务器架构和范例、功能即服务、AWS Lambda 等的每周时事通讯.
-- [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) . 这份 Google Cloud Weekly 总结了本周与 Google Cloud 生态系统相关的头条新闻、教程、视频、播客，非常值得一读.
+- [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 - [Last Week in AWS](https://www.lastweekinaws.com/) . 来自亚马逊云生态系统的每周新闻汇总.
 
 ### Kubernetes
@@ -342,13 +343,13 @@
 - [Machine Learnings](http://subscribe.machinelearnings.co/) . 每周一次的机器学习和人工智能新闻综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和问题. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
-- [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
+- [AI Digest](https://aidigest.net/) . 每周时事通讯，了解人工智能、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收由机器学习专业人士策划的开源框架、教程和文章的更新. 深入了解机器学习可解释性、再现性、模型评估、特征分析等方面的最佳实践、工具和技术.
 
 ## Blockchain / Cryptocurrencies
 
 - [Inside Bitcoin](https://inside.com/bitcoin) . 跟踪有关比特币和加密货币的趋势、新闻和分析.
-- [Crypto Weekly](https://cryptoweekly.co/) . 每周向您的收件箱发送最好的加密货币新闻和见解.
+- [Crypto Weekly](https://cryptoweekly.co/) . 每周向您的收件箱发送最佳加密货币新闻和见解.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 没有牛市的区块链技术——每周一剂区块链现实，严重偏向技术.
 
 ## Technology in General
@@ -419,7 +420,7 @@
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自 Reddit 最佳帖子的关于创业、成长、投资和初创公司的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简短时事通讯. 每一期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
-- [Trending Projects](https://www.trendingprojects.com/) . 展示 GitHub 上热门项目的每周电子邮件.
+- [Trending Projects](https://www.trendingprojects.com/) . 每周发送一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.
 
 ## License
