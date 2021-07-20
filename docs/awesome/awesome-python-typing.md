@@ -10,7 +10,7 @@
 
 ## Static type checkers
 
-- [mypy](https://github.com/python/mypy) - 可选的静态类型 (PEP 484).
+- [mypy](https://github.com/python/mypy) - 可选的静态类型（PEP 484）.
 - [pyanalyze](https://github.com/quora/pyanalyze) - 可扩展的静态分析器和类型检查器.
 - [pycharm](https://www.jetbrains.com/pycharm/) - 专业开发人员的 IDE.
 - [pyre](https://pyre-check.org/) - 高性能类型检查器.
@@ -69,7 +69,7 @@
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) - flake8 插件，用于检查函数定义中是否存在类型注释.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) - 集成 mypy 的 flake8 插件.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，提供类型提示存根文件的专业化.
-- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入导入是否受到适当保护的插件.
+- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入的输入是否受到适当保护的插件.
 - [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在导入移动后如何调整类型注释.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格和最固执的 Python linter.
 
@@ -98,7 +98,7 @@
 - [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
-- [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在进行的工具，用于使用 Python 类型注释 AST 的节点.
+- [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发的工具，用于用 Python 类型注释 AST 的节点.
 - [type4py](https://github.com/saltudelft/type4py) - 基于深度相似性学习的类型推断.
 - [typilus](https://github.com/typilus/typilus)  - 一种在 Python 中预测类型的深度学习算法. 也可作为 [GitHub action](https://github.com/typilus/typilus-action)
 
@@ -107,6 +107,7 @@
 - [loguru-mypy](https://github.com/kornicameister/loguru-mypy) - 插件 [loguru](https://github.com/Delgan/loguru) 支持.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) - 插件 [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) 支持.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - 插件已经集成到 mypy 中.
+- [numpy](https://numpy.org/devdocs/reference/typing.html) - 插件 [NumPy](https://numpy.org) 支持.
 - [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) - 插件 [PynamoDB](https://github.com/pynamodb/PynamoDB) 支持.
 
 ## Integrations
@@ -130,7 +131,7 @@
 - [PEP-544](https://www.python.org/dev/peps/pep-0544/) - 协议：结构子类型（静态鸭子类型）.
 - [PEP-557](https://www.python.org/dev/peps/pep-0557/) - 数据类.
 - [PEP-560](https://www.python.org/dev/peps/pep-0560/) - 对输入模块和泛型类型的核心支持.
-- [PEP-561](https://www.python.org/dev/peps/pep-0561/) - 分销和包装类型信息.
+- [PEP-561](https://www.python.org/dev/peps/pep-0561/) - 分发和包装类型信息.
 - [PEP-563](https://www.python.org/dev/peps/pep-0563/) - 推迟对注释的评估.
 - [PEP-585](https://www.python.org/dev/peps/pep-0585/) - 在标准集合中键入提示泛型.
 - [PEP-586](https://www.python.org/dev/peps/pep-0586/) - 文字类型.

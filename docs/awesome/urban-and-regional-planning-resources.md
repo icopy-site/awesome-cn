@@ -32,7 +32,7 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 
@@ -41,7 +41,7 @@
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助当地官员、社区领袖和企业了解他们社区中正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/)  iframe. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/)  iframe. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 提供了对人口、住房、农业和经济数据的汇总表和时间序列的轻松访问，以及与 GIS 兼容的边界文件，从 1790 年至今，以及所有级别的美国人口普查地理，包括州、县、地区和街区.
    
 ### Employment
@@ -74,7 +74,7 @@
 - [OpenStreetMap](https://www.openstreetmap.org/)  - OpenStreetMap 是免费的维基世界地图. 这个合作项目是世界上最大的志愿地理信息数据库之一. 其内容包括兴趣点、可路由网络和其他地理数据. 
 - [BBBike](https://download.bbbike.org/osm/bbbike/)  - 为世界各地的城市提供 shapefile 和原始 OSM 格式，每周提取. 如果您正在寻找单个城市的数据提取，这将非常有用.
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap 提取物以 PBF 或 shapefile 格式准备，每天下载.  
-- [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS. 
+- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为适用于 GIS 的格式. 
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是用于 OpenStreetMap 的基于 Web 的数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefiles）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
  
  
@@ -89,7 +89,7 @@
 
 ### Transportation
 
-- [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
+- [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一套全国（美国）交通设施和网络公共空间信息地理数据库； 人、货物、车辆和工艺在交通网络上的流动； 影响交通网络或受其影响的社会、经济和环境条件.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家交通运营商处收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/),[GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表了全国范围内特定年份平均每年日的潜在噪声水平. 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据存储库. 
@@ -121,13 +121,19 @@
 
 - [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
+### Urban Observation
+
+- [Numina](https://numina.co/)  - 利用边缘计算设备来测量各种路边活动.  Numina 以匿名和汇总的方式提供街道上旅客和物体的体积计数、路径和交通行为.
+- [Transoft](https://safety.transoftsolutions.com/)  - Transfoft ITS 安全解决方案利用计算机视觉来识别街道上的“险些”行为. 该技术曾在《规划》杂志上发表 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
+- [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥挤、更可持续和更公平. 
+
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
-- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
+- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用和模式.
 
 ## Planning Data Specifications
 作为计划和项目的一部分使用的城市规划相关数据规范和标准的集合.
@@ -171,7 +177,7 @@ Python 库和相关资源.
 
 
 ### R
-R Packages & Related Resources.
+R 包和相关资源.
 
 - [R Shiny](https://shiny.rstudio.com/) - 使用 R 创建动态、网络友好的数据可视化.附加信息： [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
 - [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - 支持简单特征，这是一种在 R 中编码空间矢量数据的标准化方法. 
@@ -193,7 +199,7 @@ R Packages & Related Resources.
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
 ## Platforms and Software Resources
-计划人员的软件和平台.
+Software and platforms for planners.
 
 ---
 
@@ -209,7 +215,7 @@ R Packages & Related Resources.
 
 ### Urban Design Tools and Platforms
 
-- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)  - CityEngine 是先进的 3D 建模软件，用于在比传统建模技术更短的时间内创建巨大的、交互式的和身临其境的城市环境. 您使用 CityEngine 创建的城市可以基于真实世界的 GIS 数据和使用它们的程序规则.
+- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that work with them.
 - [SketchUp](https://www.sketchup.com/)  - 易于使用的交互式 3D 建模软件，用于规划和设计应用程序. 由丰富的资产库支持，用于创建邻里设计. 
 - [Rhino](https://www.rhino3d.com/)  - 这是一款商用3D计算机图形和计算机辅助设计应用软件.  Rhino 已经在其之上构建了多个插件，包括 Grasshopper 和城市网络分析工具箱，以支持复杂的建模和分析. 
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 收集了 20 多个桌面和移动应用程序和服务，用于摄影、设计、视频、网络、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
@@ -220,7 +226,7 @@ R Packages & Related Resources.
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具. 
-- [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
+- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
 
 ### Environmental and Climate Planning Tools and Platforms
 
@@ -275,7 +281,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 我们正在积极寻求对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面查看我们推荐的格式. 对于大量贡献，请先提交问题. 以这种方式为 repo 做出贡献的好处是，您对这个共享资源的添加将被记录下来. 
 
 ## License and Citation
-与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
+与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了对这个资源产生更多的贡献和理解，我们非常感谢分享这个存储库或在适当的时候引用它. 
 
 
 如果你确实引用了这个存储库，你可以： 

@@ -194,6 +194,7 @@
 * [Elmstatic](https://korban.net/elm/elmstatic) - 基于 Elm 的静态站点生成器.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS 类型系统的可移植性.
 * [Html to Elm](https://html-to-elm.com/) - 将 HTML 转换为 Elm.
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - 基于 Storybook 和 HexDocs 的丰富文档构建器.
 
 ### Code Generators
 
@@ -213,7 +214,7 @@
 * [Elm Editor](https://elm-editor.com/) - 高级榆树实时编辑器
 * [Online REPL](http://elmrepl.cuberoot.in) - ELM 在线 REPL
 * [run-elm](https://github.com/jfairbank/run-elm) — 从命令行运行 Elm 代码
-* [elm-instant](https://atom.io/packages/elm-instant)  - 使用 atom 包从编辑器中尝试您的 elm 代码. 提供可视化 REPL 和预览窗格.
+* [elm-instant](https://atom.io/packages/elm-instant)  - atom 包可以从编辑器中尝试您的 elm 代码. 提供可视化 REPL 和预览窗格.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - 在浏览器中构建快速、全栈的网络应用程序.
 
 ### Compile and bundle
@@ -296,7 +297,7 @@
 * [core](https://github.com/elm/core) - Elm 核心库.
 * [html](https://github.com/elm/html) - 基于“虚拟 DOM”的想法，在 Elm 中使用 HTML.
 * [elm-test](https://github.com/elm-explorations/test) - Elm 的单元测试框架.
-* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
+* [http](https://github.com/elm/http) - 在 Elm 中发出 HTTP 请求.
 * [elm-ui](https://github.com/mdgriffith/elm-ui) - Elm 中的 UI 库.
 * [elm-css](https://github.com/rtfeldman/elm-css) - 榆树中的 CSS.
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - 生成代码以向您的 GraphQL API 构建有保证的正确、类型安全的 API 请求.
@@ -310,7 +311,7 @@
 
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - 无需构建配置即可创建 Elm 应用程序.
 * [elm-boil](https://github.com/GioPat/elm-boil) - 命令行实用程序，用于创建易于运行、构建和部署的 Elm 样板项目
-* [elm-live](https://github.com/wking-io/elm-live)  - 灵活的 Elm 开发服务器. 包括实时重新加载.
+* [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 入门模板.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - 示例展示了 Elm 0.19 和 Webpack 的热模块重新加载
 * [Elm Batteries](https://github.com/cedricss/elm-batteries) - Elm、Parcel、Cypress 和 Netlify 的项目模板和生成器
@@ -444,7 +445,7 @@
 
 *发现其他非常棒的列表.*
 
-真棒榆树只是真棒事物的一部分，在这里获得更多：
+令人敬畏的榆树只是令人敬畏的东西的一部分，在此处获取更多信息：
 
 -<a href="https://github.com/sindresorhus/awesome" target="_blank">真棒</a> [**@sindresorhus**](https://github.com/sindresorhus)
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)

@@ -28,12 +28,13 @@
 - [Optax](https://raw.githubusercontent.com/deepmind/optax) - 梯度处理和优化库. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
 - [RLax](https://raw.githubusercontent.com/deepmind/rlax) - 用于实现强化学习代理的库. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 - [JAX, M.D.](https://raw.githubusercontent.com/google/jax-md) - 加速的微分分子动力学. <img src="https://img.shields.io/github/stars/google/jax-md?style=social" align="center">
-- [Coax](https://raw.githubusercontent.com/coax-dev/coax) - 将 RL 论文转化为代码，这是一种简单的方法. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
+- [Coax](https://raw.githubusercontent.com/coax-dev/coax) - 将强化学习论文转化为代码，这是一种简单的方法. <img src="https://img.shields.io/github/stars/coax-dev/coax?style=social" align="center">
 - [SymJAX](https://raw.githubusercontent.com/SymJAX/SymJAX) - 符号 CPU/GPU/TPU 编程. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 - [mcx](https://raw.githubusercontent.com/rlouf/mcx) - 表达和编译用于高性能推理的概率程序. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 - [Distrax](https://raw.githubusercontent.com/deepmind/distrax) - 重新实现 TensorFlow Probability，包含概率分布和双射器. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
 - [cvxpylayers](https://raw.githubusercontent.com/cvxgrp/cvxpylayers) - 构建可微凸优化层. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 - [TensorLy](https://raw.githubusercontent.com/tensorly/tensorly) - 张量学习变得简单. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
+- [NetKet](https://raw.githubusercontent.com/netket/netket) - 用于量子物理学的机器学习工具箱. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
 <a name="new-libraries" />
 
@@ -61,13 +62,15 @@
 - [flaxmodels](https://raw.githubusercontent.com/matthias-wright/flaxmodels) - Jax/Flax 的预训练模型. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 - [CR.Sparse](https://raw.githubusercontent.com/carnotresearch/cr-sparse) - 用于稀疏表示和压缩感知的 XLA 加速算法. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 - [exojax](https://raw.githubusercontent.com/HajimeKawahara/exojax) - 与 JAX 兼容的系外行星/棕矮星的自动可微谱建模. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
+- [JAXopt](https://raw.githubusercontent.com/google/jaxopt) - JAX 中的硬件加速 (GPU/TPU)、可批处理和可微优化器. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
+- [PIX](https://raw.githubusercontent.com/deepmind/dm_pix) - PIX 是 JAX 中的图像处理库，用于 JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
 <a name="models-and-projects" />
 
 ## Models and Projects
 
 - [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - 执行者（通过 FAVOR+ 的线性变换器）架构的亚麻实现.
-- [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
+- [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - 实施改革者（高效变压器）架构.
 - [Vision Transformer](https://github.com/google-research/vision_transformer) - 在亚麻的官方实施 [_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale_](https://arxiv.org/abs/2010.11929).
 - [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - 正式实施 [_Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains_](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 - [Flax Models](https://github.com/google-research/google-research/tree/master/flax_models) - 在 Flax 中实现的模型和方法的集合.
@@ -125,7 +128,7 @@
 - [From PyTorch to JAX: towards neural net frameworks that purify stateful code by Sabrina J. Mielke](https://sjmielke.com/jax-purify.htm) - 展示了如何从类似 PyTorch 的编码风格转变为更具功能性的编码风格.
 - [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey](https://github.com/dfm/extending-jax) - 演示在 JAX 中提供自定义操作所需的基础结构的教程.
 - [Evolving Neural Networks in JAX by Robert Tjarko Lange](https://roberttlange.github.io/posts/2021/02/cma-es-jax/) - 探索 JAX 如何为下一代可扩展神经进化算法提供动力.
-- [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) - 演示如何使用 JAX 使用 SGD 和 Momentum 执行内损失优化、使用梯度的外损失优化以及使用进化策略的外损失优化.
+- [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) - Demonstrates how to use JAX to perform inner-loss optimization with SGD and Momentum, outer-loss optimization with gradients, and outer-loss optimization using evolutionary strategies.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - 使用 JAX 轻松干净地实现自动微分变分推理 (ADVI).
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练对不同分辨率下输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
 - [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/notebooks/jax_intro.ipynb) - Colab 介绍了该语言的各个方面并将其应用于简单的 ML 问题.

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable double-link-->
 
-## Awesome FastAPI [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+## Awesome FastAPI | [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; 与 FastAPI 相关的精彩内容的精选列表.
 
@@ -49,7 +49,7 @@
 #### Query Builders
 
 - [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - 一个包装 [asyncpg](https://github.com/MagicStack/asyncpg) 用于 [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
-- [Databases](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) 表达语言.
+- [Databases](https://github.com/encode/databases) - 异步 SQL 查询构建器，在 [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) 表达语言.
 
 #### ODMs
 
@@ -85,7 +85,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 - [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 将 Chameleon 模板语言集成到 FastAPI.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 自以为是的实用程序集：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
-- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 将 Jinja 模板语言集成到 FastAPI.
+- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 向 FastAPI 添加 Jinja 模板语言的集成.
 - [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) - FastAPI 的请求速率限制器.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - MQTT 协议的扩展.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI 的分页.
@@ -130,6 +130,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 ### Tutorials
 
 - [Async SQLAlchemy with FastAPI](https://stribny.name/blog/fastapi-asyncalchemy/) - 了解如何异步使用 SQLAlchemy.
+- [Build and Secure an API in Python with FastAPI](https://blog.yezz.me/blog/Build-and-Secure-an-API-in-Python-with-FastAPI) - 保护和维护基于 FastAPI 和 SQLAlchemy 的 API.
 - [Demystifying Authentication with FastAPI and a Frontend](https://kernelpanic.io/demystifying-authentication-with-fastapi-and-a-frontend/) - 添加基于令牌的身份验证.
 - [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - 使用 Cloud Run 和 SQL 实例将 Dockerized Python 应用程序部署到 Google Cloud Platform 的简短指南.
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
@@ -156,7 +157,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 
 ### Talks
 
-- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - 从 Sebastian Ramirez 的演讲中，您将了解如何使用 FastAPI 为您的 ML 模型轻松构建生产就绪 Web (JSON) API，包括默认的最佳实践.
+- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - 从 Sebastian Ramirez 的演讲中，您将学习如何使用 FastAPI 为您的 ML 模型轻松构建生产就绪 Web (JSON) API，包括默认的最佳实践.
 - [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA) - 本演讲展示了如何使用 FastAPI 从头开始​​为数据库构建简单的 REST API.
 
 ### Videos
@@ -225,7 +226,7 @@ Compute:
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn)  - 使用 Python 提供高性能异步 REST API 的模板.  FastAPI + GINO + Arq + Uvicorn（带 Redis 和 PostgreSQL）.
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - 使用 FastAPI、TypeScript、Docker、PostgreSQL 和 React 的全栈 cookiecutter 样板.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - 具有工厂模式架构的简单 FastAPI 模板.
-- [inboard](https://github.com/br3ndonland/inboard) - Docker 映像为您的 FastAPI 应用程序提供支持并帮助您更快地交付.
+- [inboard](https://github.com/br3ndonland/inboard) - Docker 映像为您的 FastAPI 应用程序提供支持并帮助您更快地发布
 
 ### Open Source Projects
 
@@ -236,8 +237,10 @@ Compute:
 - FastAPI CRUD 示例：
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
+- [DogeAPI](https://github.com/yezz123/DogeAPI) - 具有高性能的 API，可使用 OAuth2PasswordBearer 创建简单的博客和 CRUD.
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket“广播”演示.
-- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - 将 FastAPI 和 Celery 与 RabbitMQ 用于任务队列、Redis 用于 Celery 后端和 Flower 用于监控 Celery 任务的最小示例.
+- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+- [JeffQL](https://github.com/yezz123/JeffQL/) - 使用 GraphQL 和 JWT 的简单身份验证和登录 API.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - 基于 FastAPI 的 JSON-RPC 服务器.
 - [Mailer](https://github.com/rclement/mailer) - 用于静态网站的极其简单的邮件微服务.
 - [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal)  - 基于 Open-Policy 的实时授权更新； 使用 FastAPI、Typer 和 FastAPI WebSocket 发布/订阅构建.
@@ -248,8 +251,9 @@ Compute:
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - 通过端到端加密从浏览器查看和控制终端.
 - [Universities](https://github.com/ycd/universities) - 用于获取全球 +9600 所大学信息的 API 服务.
+
 ---
 
 <br>
 
-&gt; **注意**：本项目由 ** 提供支持[TestDriven.io](https://testdriven.io/) **. 请购买我们的 FastAPI 课程来支持这个开源项目： [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).
+&gt; **注意**：本项目由**提供支持[TestDriven.io](https://testdriven.io/) **. 请购买我们的 FastAPI 课程来支持这个开源项目： [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).

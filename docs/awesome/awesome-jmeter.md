@@ -1,6 +1,5 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<!--lint ignore double-link-->
 ## Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
@@ -13,7 +12,7 @@
 > [Apache JMeter](https://jmeter.apache.org/) 是开源的纯 Java 应用程序，旨在负载测试功能行为和衡量性能.
 
 <!--lint ignore double-link-->
-这份名单是从 [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) 在 Stack Exchange 和个人 JMeter 相关链接集合上，从 [awesome](https://awesome.re) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
+这份名单是从 [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) 在 Stack Exchange 和个人 JMeter 相关链接集合上，从 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
 
 
 <!--lint ignore double-link-->
@@ -46,7 +45,7 @@
 - [Load Testing with JMeter](https://lincolnloop.com/blog/search/?q=jmeter) - 布兰登康克尔.
 - [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - By Dejan Lukan.
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - 通过教程点.
-- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - 丹尼尔·古铁雷斯·迪兹 (Daniel Gutierrez Diez).
+- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - 丹尼尔·古铁雷斯·迪兹（Daniel Gutierrez Diez）
 - [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle) - 由数据卡达米亚.
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - 通过 DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - Guru99.
@@ -71,7 +70,7 @@
 - [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - 用于构建 JMeter 测试计划的基于 Ruby 的 DSL.
 - [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) - 以 VCS 和程序员友好的方式运行 JMeter 性能测试的简单 API.
 - [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) - Groovy-JMeter 项目是用于编写 JMeter 测试计划的简单 DSL.
-- [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - JMeter 的简单包装器，用于使用 Java 编写和执行 JMeter 测试.
+- [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
 ### Packages
 
@@ -150,8 +149,8 @@
     - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
   - 数字海洋
     - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - 使用 DigitalOcean、JMeter 和 Docker 构建您自己的 JMeter 云.
-  - Microsoft Azure
-    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
+  - 微软 Azure
+    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) - 具有 Apache JMeter 和 Terraform 的可扩展云负载/压力测试管道解决方案，可动态配置和销毁 Azure 上所需的基础架构.
 
 ## Cloud Services / SaaS
 
@@ -181,7 +180,7 @@
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - 基于 Web 的应用程序，用于整理、分析和报告 JMeter 测试结果.
 - 数据库结果收集器
   - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - 插件，可将结果记录到数据库中，以便更有效地报告.
-  - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - 修补以配置监听器以登录 MySQL 数据库.
+  - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - 基于 JAMon 的 JMeter HTML 报告生成器.
 
 ### Results Visualisation
@@ -252,9 +251,9 @@
 
 ### Plugins
 
-- [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - 可用插件和扩展列表.
 - [JMeter Plugins](https://jmeter-plugins.org/) - Apache JMeter 的独立插件集，插件管理器引用了许多插件并简化了安装.
 - [Ubik Load Pack](https://ubikloadpack.com/) - Apache JMeter 的生产力扩展.
+- GitHub 主题： [jmeter-plugin](https://github.com/topics/jmeter-plugin), [jmeter-plugins](https://github.com/topics/jmeter-plugins) - 探索带有`jmeter-plugin` 或`jmeter-plugins` 标签的JMeter 插件.
 
 ### Correlation
 
@@ -320,7 +319,7 @@
 - [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-2-9/9781782165842) ); 使用 Apache JMeter 测试 Web 应用程序的指南，提供实用的动手示例.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-second-edition/9781784394813)).
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
-- [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ); 帮助成功使用 Apache JMeter 的 70 个有见地且实用的方法.
+- [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ); 帮助成功使用 Apache JMeter 的 70 个有见地和实用的秘诀.
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - Sai Matam 和 Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample) ); 一个简单、实用、循序渐进的教程，用于衡量网站的性能.
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) - Sai Matam 和 Jagdeep Jain ([Apress](https://www.apress.com/gp/book/9781484229606)).
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) - 安东尼奥·戈麦斯·罗德里格斯、布鲁诺·德米恩 (Milamber) 和 Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
@@ -334,7 +333,6 @@
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - 由 NobleProg.
 - [BlazeMeter University](https://www.blazemeter.com/university/) - 由 BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - 乌迪米.
-- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) - 由 ABSoft 培训提供.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - 由实用测试实验室提供.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - 由 Ubik Ingenierie 提供.
 - [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - 由 QAInsights 提供.
@@ -391,7 +389,7 @@
 ## Related
 
 ### Awesome Lists
-
+<!--lint ignore double-link-->
 - [Awesome](https://github.com/sindresorhus/awesome) - 很棒的列表的原始很棒的列表.
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - 令人惊叹的令人敬畏的精选清单.
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - 免费软件测试和验证资源列表.
@@ -403,7 +401,7 @@
 - [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - 开源 Java 应用性能管理工具.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - 开源的多协议分布式负载测试工具，用 Erlang 开发.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - 基于 Scala、Akka 和 Netty 的开源负载和性能测试框架.
-- [Awesome k6](https://github.com/k6io/awesome-k6) - 开源的、以开发人员为中心的性能监控和负载测试解决方案.
+- [Awesome k6](https://github.com/grafana/awesome-k6) - 开源的、以开发人员为中心的性能监控和负载测试解决方案.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - 用 Python 编写的开源可扩展负载测试框架.
 
 ## Contributing

@@ -101,6 +101,7 @@
 ### Utilities
 
 * [ArchiveTools](https://github.com/recrm/ArchiveTools) - 用于提取 WARC 文件并与之交互的工具集合 (Python).
+* [gowarcserver](https://github.com/nlnwa/gowarcserver) - [BadgerDB](https://github.com/dgraph-io/badger)基于捕获索引 (CDX) 和 WARC 记录服务器，用于索引和提供 WARC 文件 (Go).
 * [har2warc](https://github.com/webrecorder/har2warc) - 转换 HTTP 档案 (HAR) -&gt; 网页档案 (WARC) 格式 (Python).
 * [httpreserve.info](http://httpreserve.info/)  - 返回网页状态或将其保存到 Internet Archive 的服务. 使用 GET（Golang 包）通过浏览器或命令行通过 CURL 返回 JSON.  *（稳定的）*
 * [HTTPreserve Workbench](https://github.com/httpreserve/workbench)  - 描述以简单 JSON 输出编码的网页状态的工具和 API，描述当前状态，以及 wayback.org 上最早和最新的链接. 将网页保存到 Internet Archive. 审核 URI 列表并输出包含上述数据的 CSV (Golang).  *（开发中）*
