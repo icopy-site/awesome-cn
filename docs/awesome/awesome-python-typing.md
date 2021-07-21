@@ -41,6 +41,7 @@
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - 存根 [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) - 存根 [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) - 存根 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
+- [sqlalchemy2-stubs](https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html) - 官方存根和 mypy 插件 [SQLAlchemy](https://www.sqlalchemy.org).
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - 增强的类型注释 [pytorch](https://pytorch.org/).
 - [typeshed](https://github.com/python/typeshed) - 库存根的集合，具有静态类型.
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes)  - 为 WSGI 应用程序实现者打字. 这些不是存根文件，它们是您标记支持以帮助类型检查 WSGI 一致性的接口.
@@ -69,7 +70,7 @@
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) - flake8 插件，用于检查函数定义中是否存在类型注释.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) - 集成 mypy 的 flake8 插件.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，提供类型提示存根文件的专业化.
-- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入的输入是否受到适当保护的插件.
+- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入导入是否受到适当保护的插件.
 - [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在导入移动后如何调整类型注释.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格和最固执的 Python linter.
 
@@ -95,7 +96,7 @@
 - [autotyper](https://github.com/JelleZijlstra/autotyper) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到您的源代码中.
-- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
+- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对所使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发的工具，用于用 Python 类型注释 AST 的节点.
@@ -118,6 +119,7 @@
 - [mypy-pycharm-plugin](https://github.com/dropbox/mypy-PyCharm-plugin) - PyCharm 的 Mypy 集成.
 - [pylance](https://github.com/microsoft/pylance-release) - VSCode 的 PyRight 集成.
 - [vim-mypy](https://github.com/Integralist/vim-mypy) - Vim 的 Mypy 集成.
+- [nbQA](https://github.com/nbQA-dev/nbQA) - 在 Jupyter Notebooks 上运行类型检查器（例如 Mypy）.
 
 ## Articles
 

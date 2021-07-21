@@ -41,7 +41,7 @@
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助当地官员、社区领袖和企业了解他们社区中正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/)  iframe. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/)  iframe. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 提供了对人口、住房、农业和经济数据的汇总表和时间序列的轻松访问，以及与 GIS 兼容的边界文件，从 1790 年至今，以及所有级别的美国人口普查地理，包括州、县、地区和街区.
    
 ### Employment
@@ -83,7 +83,7 @@
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
 - [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人员伤害和损失估计的统计数据.
-- [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，可识别面临 18 种自然灾害风险最大的社区.
+- [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，可识别面临 18 种自然灾害风险的社区.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 
 
@@ -119,7 +119,7 @@
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由 First Street Foundation 提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -131,9 +131,9 @@
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
-- [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
+- [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
-- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用和模式.
+- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 
 ## Planning Data Specifications
 作为计划和项目的一部分使用的城市规划相关数据规范和标准的集合.
@@ -199,12 +199,12 @@ R 包和相关资源.
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
 ## Platforms and Software Resources
-Software and platforms for planners.
+计划人员的软件和平台.
 
 ---
 
 ### Geospatial Data and Visualization
-用于将资源分类为相关组的高级类别. 例如，人口普查数据可以被视为“人口统计”. 
+A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (Esri) 维护的地图和地理信息.
 - [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
@@ -215,7 +215,7 @@ Software and platforms for planners.
 
 ### Urban Design Tools and Platforms
 
-- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that work with them.
+- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)  - CityEngine 是先进的 3D 建模软件，用于在比传统建模技术更短的时间内创建巨大的、交互式的和身临其境的城市环境. 您使用 CityEngine 创建的城市可以基于真实世界的 GIS 数据和使用它们的程序规则.
 - [SketchUp](https://www.sketchup.com/)  - 易于使用的交互式 3D 建模软件，用于规划和设计应用程序. 由丰富的资产库支持，用于创建邻里设计. 
 - [Rhino](https://www.rhino3d.com/)  - 这是一款商用3D计算机图形和计算机辅助设计应用软件.  Rhino 已经在其之上构建了多个插件，包括 Grasshopper 和城市网络分析工具箱，以支持复杂的建模和分析. 
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 收集了 20 多个桌面和移动应用程序和服务，用于摄影、设计、视频、网络、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
@@ -226,7 +226,7 @@ Software and platforms for planners.
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具. 
-- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
+- [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
 
 ### Environmental and Climate Planning Tools and Platforms
 
@@ -240,9 +240,9 @@ Software and platforms for planners.
 
 
 ### AICP Resources
-与 AICP 认证考试准备、继续教育和其他资源有关的资源.
+Resources pertaining to AICP certification test preparation, continuing education, and other resources.
 
-- [AICP Get Certified! Webpage](https://www.planning.org/certification/)  - 美国注册规划师协会 (AICP) 的官方资源库，提供有关资格、注册和准备的详细信息. 还列出了即将到来的 AICP“认证周期”的重要日期.
+- [AICP Get Certified! Webpage](https://www.planning.org/certification/) - The American Institute of Certified Planners's (AICP) offical resource repository that provides details on eligibility, registration, and preparation. Important dates for upcoming AICP "Certification Cycles" are also listed.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的“五步法”备考方法，并列出了可帮助您在 AICP 考试中取得成功的资源/材料.
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国注册规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
 
@@ -268,6 +268,7 @@ Software and platforms for planners.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，以改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于进行研究、开发 Web 和移动应用程序、设计数据可视化等.
+- [Harvard Dataverse](https://dataverse.harvard.edu/)  - 哈佛 Dataverse 是研究数据的存储库. 它包含涵盖科学的各种数据集，其中许多都具有公共领域的贡献. 
 
 ---
 

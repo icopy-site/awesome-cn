@@ -34,7 +34,7 @@
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - 使用 Maybe 类型，带有很好的注释代码示例.
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - 来自 The Pragmatic Programmers 的详尽书籍，涵盖了基础知识和高级概念.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) - 语法和功能概述.
-* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - 关于使用 Elm 构建 Web 应用程序的两个教程.
+* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - Elm 作为编程语言的简要概述.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Elm 和数据的初学者课程
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - 一本关于开发 Elm 应用程序的实践方面的非初学者书籍.
@@ -104,7 +104,7 @@
 * [Elm Conf 2018](https://www.youtube.com/playlist?list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) - 来自 elm-conf 2018 的所有演讲
 * [Elm Europe 2018](https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) - Elm Europe 2018 所有演讲的播放列表
 * [Elm Conf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) - 来自 elm-conf 2017 的所有演讲
-* [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM) - A playlist of all talks from Elm Europe 2017
+* [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM) - Elm Europe 2017 的所有演讲播放列表
 * [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli) - 2017 年奥斯陆榆树日所有演讲的播放列表
 * [Elm Conf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd) - 来自 elm-conf 2016 的所有演讲
 
@@ -177,26 +177,7 @@
 
 ---
 
-## Tools
-
-*与 Elm 相关的有用工具.*
-
-* [Elm Catalog](https://korban.net/elm/catalog) - Elm 工具目录. 
-* [Dependabot](https://dependabot.com) - 为您的 elm.json 自动更新 PR.
-* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Elm 编程语言的 Linter.
-* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm 离线文档预览器.
-* [Elm Format](https://github.com/avh4/elm-format) - 自动 Elm 代码格式化程序遵循 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm JSON](https://github.com/zwilias/elm-json) - 安装、升级和卸载 Elm 依赖项
-* [Elm Live](https://elm-live.com/)  - 灵活的 Elm 开发服务器. 包括实时重新加载！
-* [Elm Oracle](https://github.com/ElmCast/elm-oracle)  - 查询有关 elm 源文件中的值的信息. 大多数编辑器插件使用.
-* [Elm Pages](http://elm-pages.com) - 静态站点生成器，可预渲染 HTML 并将其添加到 Elm 客户端应用程序中（[here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
-* [Elm Review](https://github.com/jfmengels/elm-review) - Elm 编程语言的代码审查员.
-* [Elmstatic](https://korban.net/elm/elmstatic) - 基于 Elm 的静态站点生成器.
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS 类型系统的可移植性.
-* [Html to Elm](https://html-to-elm.com/) - 将 HTML 转换为 Elm.
-* [Elm Book](http://elm-book-in-elm-book.netlify.app) - 基于 Storybook 和 HexDocs 的丰富文档构建器.
-
-### Code Generators
+## Code generators
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/)  - 将 HTML 转换为 Elm Html. 将应用程序移植到 Elm 时很有用.
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - 为 Elm 生成 OpenApi 类型.
@@ -208,7 +189,88 @@
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - 从 Haskell 类型生成 Elm 类型、编码器和解码器
 * [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - 在你的榆树上放一些顺风
 
-### Run Elm
+
+---
+
+## Package managers
+
+*共享 Elm 库的地方.*
+
+* [elm-package](https://github.com/elm-lang/elm-package) - 共享 Elm 库的命令行工具.
+
+
+---
+
+## Libraries
+
+您可以在以下位置找到数百个高质量的软件包：
+
+* [Elm packages](https://package.elm-lang.org/) - 官方注册
+* [Elm Catalog](https://korban.net/elm/catalog) - 在按类别组织的目录中查找包. 
+* [Elm Search](http://klaftertief.github.io/elm-search/) - 在 Elm 文档中搜索运算符、函数签名等.
+
+
+---
+
+## Boilerplates
+
+*新 Elm 项目的良好起点.*
+
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) - 无需构建配置即可创建 Elm 应用程序.
+* [elm-boil](https://github.com/GioPat/elm-boil) - 命令行实用程序，用于创建易于运行、构建和部署的 Elm 样板项目
+* [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
+* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 入门模板.
+* [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - 示例展示了 Elm 0.19 和 Webpack 的热模块重新加载
+* [Elm Batteries](https://github.com/cedricss/elm-batteries) - Elm、Parcel、Cypress 和 Netlify 的项目模板和生成器
+* [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - IHP Haskell 框架提供了一个内置的 Elm 样板，在前端使用 elm 和后端使用 haskell 时很有用
+
+### Outdated Boilerplates
+
+* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - 用于编写 Elm 应用程序的简单 Webpack 设置.
+* [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - Elm 应用程序的全功能基础项目：Webpack、HMR、ES6、JS 和 Elm 测试、语义 UI、示例代码等.
+* [elmkit](https://github.com/khusnetdinov/elmkit)  - 基于 Web 应用程序的轻量级早午餐设置. 包括早午餐、热模块更换、Elm、Scss、Elm 测试.
+* [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - 一个能够创建 Elm 应用程序的简单 Makefile.
+* [elm-init](https://github.com/JustusAdam/elm-init) - 新 Elm 项目的交互式设置.
+* [elm-new](https://github.com/simonewebdesign/elm-new) - 基于模板生成初始项目脚手架.
+* [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - 一个非常非常基本的 elm + webpack 4 模板.
+
+
+---
+
+## Frameworks
+
+*为 Elm 带来框架方法的项目（脚手架、路由生成等）*
+
+- [elm-spa](https://www.elm-spa.dev/) - 单页应用程序变得简单
+- [Spades](https://github.com/rogeriochaves/spades) - 开始准备迎接现实世界的 Elm SPA
+
+---
+
+## Static analysis
+
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Elm 编程语言的 Linter.
+* [Elm Review](https://github.com/jfmengels/elm-review) - Elm 编程语言的代码审查员.
+
+
+---
+
+## Static site generators
+
+* [Elm Pages](http://elm-pages.com) - 静态站点生成器，可预渲染 HTML 并将其添加到 Elm 客户端应用程序中（[here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elmstatic](https://korban.net/elm/elmstatic) - 基于 Elm 的静态站点生成器.
+
+
+---
+
+## Showcase generators
+
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - 基于 Storybook 和 HexDocs 的丰富文档构建器.
+* [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - 展示您的观点和状态.
+
+
+---
+
+## Run Elm
 
 * [Ellie](https://ellie-app.com/) - Elm 实时编辑器
 * [Elm Editor](https://elm-editor.com/) - 高级榆树实时编辑器
@@ -216,13 +278,35 @@
 * [run-elm](https://github.com/jfairbank/run-elm) — 从命令行运行 Elm 代码
 * [elm-instant](https://atom.io/packages/elm-instant)  - atom 包可以从编辑器中尝试您的 elm 代码. 提供可视化 REPL 和预览窗格.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - 在浏览器中构建快速、全栈的网络应用程序.
+* [Elm Live](https://elm-live.com/)  - 灵活的 Elm 开发服务器. 包括实时重新加载！
 
-### Compile and bundle
+
+---
+
+## Compile and bundle
 
 * [elm-compiler](https://github.com/elm/compiler) - Elm 编程语言的编译器.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - 用于 Elm 编程语言的 Webpack 加载器.
 * [Parcel](https://parceljs.org/elm.html) - 使用包裹捆绑榆树
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - 将 Elm 文件编译为 JavaScript 的 Grunt 插件.
+
+
+---
+
+## Other tools
+
+*与 Elm 相关的有用工具.*
+
+* [Elm Catalog](https://korban.net/elm/catalog) - Elm 工具目录.
+* [Dependabot](https://dependabot.com) - 为您的 elm.json 自动更新 PR.
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm 离线文档预览器.
+* [Elm Format](https://github.com/avh4/elm-format) - 自动 Elm 代码格式化程序遵循 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON](https://github.com/zwilias/elm-json) - 安装、升级和卸载 Elm 依赖项
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle)  - 查询有关 elm 源文件中的值的信息. 大多数编辑器插件使用.
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS 类型系统的可移植性.
+* [Html to Elm](https://html-to-elm.com/) - 将 HTML 转换为 Elm.
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - 使用 Elm 编写 CLI 程序
+* [Litvis](https://github.com/gicentre/litvis) - 使用 Elm 进行文学可视化
 
 
 ---
@@ -272,70 +356,6 @@
 
 * [elm-light-table](https://github.com/rundis/elm-light) - Light Table 的语法高亮、REPL、自动完成、包管理等.
 
-
----
-
-## Package managers
-
-*共享 Elm 库的地方.*
-
-* [elm-package](https://github.com/elm-lang/elm-package) - 共享 Elm 库的命令行工具.
-
-
----
-
-## Libraries
-
-您可以在以下位置找到数百个高质量的软件包：
-
-* [Elm packages](https://package.elm-lang.org/) - 官方注册
-* [Elm Catalog](https://korban.net/elm/catalog) - 在按类别组织的目录中查找包. 
-* [Elm Search](http://klaftertief.github.io/elm-search/) - 在 Elm 文档中搜索运算符、函数签名等.
-
-以下是一些值得注意的：
-
-* [core](https://github.com/elm/core) - Elm 核心库.
-* [html](https://github.com/elm/html) - 基于“虚拟 DOM”的想法，在 Elm 中使用 HTML.
-* [elm-test](https://github.com/elm-explorations/test) - Elm 的单元测试框架.
-* [http](https://github.com/elm/http) - 在 Elm 中发出 HTTP 请求.
-* [elm-ui](https://github.com/mdgriffith/elm-ui) - Elm 中的 UI 库.
-* [elm-css](https://github.com/rtfeldman/elm-css) - 榆树中的 CSS.
-* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - 生成代码以向您的 GraphQL API 构建有保证的正确、类型安全的 API 请求.
-
-
----
-
-## Boilerplates
-
-*新 Elm 项目的良好起点.*
-
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) - 无需构建配置即可创建 Elm 应用程序.
-* [elm-boil](https://github.com/GioPat/elm-boil) - 命令行实用程序，用于创建易于运行、构建和部署的 Elm 样板项目
-* [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
-* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 入门模板.
-* [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - 示例展示了 Elm 0.19 和 Webpack 的热模块重新加载
-* [Elm Batteries](https://github.com/cedricss/elm-batteries) - Elm、Parcel、Cypress 和 Netlify 的项目模板和生成器
-* [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) - IHP Haskell 框架提供了一个内置的 Elm 样板，在前端使用 elm 和后端使用 haskell 时很有用
-
-### Outdated Boilerplates
-
-* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - 用于编写 Elm 应用程序的简单 Webpack 设置.
-* [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - Elm 应用程序的全功能基础项目：Webpack、HMR、ES6、JS 和 Elm 测试、语义 UI、示例代码等.
-* [elmkit](https://github.com/khusnetdinov/elmkit)  - 基于 Web 应用程序的轻量级早午餐设置. 包括早午餐、热模块更换、Elm、Scss、Elm 测试.
-* [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - 一个能够创建 Elm 应用程序的简单 Makefile.
-* [elm-init](https://github.com/JustusAdam/elm-init) - 新 Elm 项目的交互式设置.
-* [elm-new](https://github.com/simonewebdesign/elm-new) - 基于模板生成初始项目脚手架.
-* [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - 一个非常非常基本的 elm + webpack 4 模板.
-
-
----
-
-## Frameworks
-
-*为 Elm 带来框架方法的项目（脚手架、路由生成等）*
-
-- [elm-spa](https://www.elm-spa.dev/) - 单页应用程序变得简单
-- [Spades](https://github.com/rogeriochaves/spades) - 开始准备迎接现实世界的 Elm SPA
 
 ---
 
@@ -445,7 +465,7 @@
 
 *发现其他非常棒的列表.*
 
-令人敬畏的榆树只是令人敬畏的东西的一部分，在此处获取更多信息：
+真棒榆树只是真棒事物的一部分，在这里获得更多：
 
 -<a href="https://github.com/sindresorhus/awesome" target="_blank">真棒</a> [**@sindresorhus**](https://github.com/sindresorhus)
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
