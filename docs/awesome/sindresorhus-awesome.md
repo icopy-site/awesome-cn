@@ -77,6 +77,23 @@
 				<sup>在几秒钟内导入任何数据集，单击即可与任何人共享，无需注册即可尝试</sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
+			</div>
+			<b>为云构建的开发环境</b>
+			<div>
+				<sub>
+				与 GitLab、GitHub 和 Bitbucket 原生集成，Gitpod 自动持续地预构建开发
+				<br>
+				所有分支机构的环境. 因此，团队成员可以立即开始使用全新的开发环境进行编码
+				<br>
+				对于每项新任务 - 无论您是在构建新功能、想要修复错误还是进行代码审查.
+				</sub>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -135,7 +152,7 @@
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P 超媒体协议.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机旨在教孩子编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台 GUI 应用程序框架.
@@ -257,7 +274,7 @@
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发 Web 组件的 JavaScript 库.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于 XML 的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript 库.
@@ -315,7 +332,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - 在浏览器中使用 JavaScript、CSS、SVG 等制作动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件，可实现更快、更轻松的 Web 开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件可实现更快、更轻松的 Web 开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - 要集成到网络应用程序中的独立功能.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 可重用组件的集合，以确保一致性和速度的规则为指导.
@@ -387,7 +404,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - 基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - 在量子计算机上利用量子力学和量子位的计算.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - 计算机科学和纯数学的相互作用，其特点是强调数学的严谨性和技术.
 
@@ -472,7 +489,7 @@
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - 增强`git` CLI.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - 用于在`git` 工作流中自动执行任务的脚本.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于网络技术构建的跨平台终端应用程序.
@@ -554,7 +571,7 @@
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的艺术.
 - [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统安全缺陷的个人群体.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 涉及提供伪随机生成的输入数据的自动化软件测试技术.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - 欧盟内所有个人的数据保护和隐私法规.
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - 将安全实践整合到 [DevOps](https://en.wikipedia.org/wiki/DevOps).
@@ -702,7 +719,7 @@
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - 选择您的下一个配色方案.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字分发平台.
-- [Bots](https://github.com/hackerkid/bots#readme) - 构建机器人.
+- [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - 建立和促进更具同情心的工程文化.
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架.
@@ -713,7 +730,7 @@
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 通过将实现连接到不断发展的模型来满足复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - 对于数字设计师.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - 编程具有表现力的东西而不是功能性的东西.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - 无需登录即可运行的网络应用程序.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - 像自由一样自由.
 - [Framer](https://github.com/podo/awesome-framer#readme) - 原型交互 UI 设计.

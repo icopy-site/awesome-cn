@@ -26,7 +26,7 @@
 
 我们的使命是： [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
 
-我们很高兴邀请您参加我们 [Humane Tech Community Forum](https://community.humanetech.com) 阅读更多有趣的人文科技主题，参与我们的讨论，成为一个真正的 :heart: _Humane Tech Activist!_
+我们很高兴邀请您参加我们 [Humane Tech Community Forum](https://community.humanetech.com) 阅读更多有趣的人文科技主题，参与我们的讨论，并成为一个真正的 :heart: _Humane Tech Activist!_
 
 您也可以在 Fediverse 上关注我们 [@humanetech@mastodon.social](https://mastodon.social/@humanetech).
 
@@ -195,7 +195,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/twitter-demetricator) - 删除 Twitter 上所有指标的 Web 浏览器扩展.
 - [News Feed Eradicator](https://github.com/jordwest/news-feed-eradicator) - 一个浏览器扩展，用一个不错的报价代替你的 Facebook 新闻提要.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - 通过在社交网络之间转换数据来打破孤岛的社交网络翻译器.
-- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络失去的个人创造力的社交网络.
+- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络丢失的个人创造力的社交网络.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium 脚本可删除您所有的 Facebook 墙贴.
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新 Twitter UI 的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个专注于更好对话的开源评论平台.
@@ -207,7 +207,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - 将 Twitter、YouTube、Instagram 和 Google 地图请求重定向到隐私友好的替代方案.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) - 将 Twitter、YouTube 链接转换为 Nitter、Invidious 并将委托给另一个应用程序的应用程序.
 - [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FreeTubeApp/FreeTube) - 适用于 Windows、MacOS 和 Linux 的私人 YouTube 客户端.
-- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamNewPipe/NewPipe) - 适用于 Android 的自由轻量级流媒体 YouTube 替代方案.
+- [NewPipe](https://newpipe.schabi.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamNewPipe/NewPipe) - 适用于 Android 的自由轻量级流 YouTube 替代方案.
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - 浏览器扩展保持在最新推文时间线上，减少“参与度”，降低 UI.
 - [Barinsta](https://barinsta.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/austinhuang0131/barinsta) - 适用于 Android 的自由、替代和轻量级 Instagram 客户端.
 - [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Electron 应用程序可确保您的社交媒体帐户仅显示您最近历史中的帖子.
@@ -296,6 +296,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/proginosko/LeechBlockNG/) - 一个简单的生产力工具，旨在在指定时间阻止浪费时间的网站.
 - [Introvert](https://iamintrovert.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/IamIntrovert/Introvert) - 视听体验鼓励人们去做、集中注意力、放松，同时产生独特的艺术作品.
 - [Slim Launcher](https://github.com/sduduzog/slim-launcher) - 用极简版本和最多七个应用程序替换 Android 主屏幕.
+- [Breathing](https://github.com/SeaDve/Breathing): 锻炼呼吸.
 
 ## Happiness
 
@@ -353,7 +354,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - 在本地托管和管理应用程序，而不是从 SaaS 提供商那里租用.
 - [Awesome Decentralized](https://github.com/croqaz/awesome-decentralized) - 去中心化、P2P 和分布式平台和应用程序的精选列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - 点对点资源的精选列表.
-- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一份精选的激进数字工具清单.
+- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一个精选的激进主义数字工具列表.
 - [Awesome Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - 用于建立更具同情心的工程文化的精选清单.
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - 有关技术多样性的精彩文章、网站和资源的精选列表.
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - 自由软件中的免费精选列表.

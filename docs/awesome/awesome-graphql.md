@@ -33,7 +33,7 @@
 * [Discord](http://join.reactiflux.com/) - Join #help-graphql on the Reactiflux Discord server
 * [Facebook](https://www.facebook.com/groups/795330550572866/) - 讨论、文章和知识共享小组
 * [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag #graphql
-* [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题与解答. 使用标签 [graphql](https://stackoverflow.com/questions/tagged/graphql)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题和解答. 使用标签 [graphql](https://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共 GraphQL API 的集合列表
 * [GraphQL World](https://graphql-world.com) - 发展最快的 GraphQL 开发者社区
 * [GraphQL Jobs](https://graphql.jobs) - 全球初创公司中基于 GraphQL 的工作列表.
@@ -136,7 +136,7 @@
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
 * [graphql-modules](https://github.com/Urigo/graphql-modules) - 按模块或功能将 GraphQL 服务器分成更小的、可重用的部分.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - 使用连接、SQL 或其他方式创建 GraphQL API.
-* [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+* [Join Monster](https://github.com/acarl005/join-monster) - 用于批量数据获取的 GraphQL-to-SQL 查询执行层.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS 类型系统的可移植性.
 * [GraphiteJS](https://github.com/graphitejs/server) - GraphQL 框架 NodeJS.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - 终极 GraphQL 脚手架工具.
@@ -144,7 +144,7 @@
 * [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 为 urql 进行预集成.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - 直接从 GraphQL 文档导入受类型保护的代码生成结果的 webpack 加载器
-* [GraphQL Config](https://github.com/kamilkisiela/graphql-config)：所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
+* [GraphQL Config](https://github.com/kamilkisiela/graphql-config): One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
 * [GraphQL CLI](https://github.com/urigo/graphql-cli)：用于常见 GraphQL 开发工作流的命令行工具.
 * [GraphQL Scalars](https://github.com/Urigo/graphql-scalars)：用于创建精确、类型安全的 GraphQL 模式的自定义 GraphQL 标量类型库.
 * [GraphQL Toolkit](https://github.com/ardatan/graphql-toolkit)：一组用于更快开发 GraphQL 工具（架构和文档加载、架构合并等）的实用程序.
@@ -204,7 +204,7 @@
 * [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle)  - 此捆绑包提供了在您的 Symfony 应用程序中构建完整 GraphQL 服务器的工具. 支持反应中继.
 * [GraphQL Symfony Bundle](https://github.com/youshido-php/GraphQLBundle) - Symfony 3 的 GraphQL Bundle（支持 2.6+）.
 * [graphql-wp](https://github.com/tim-field/graphql-wp) - 公开 GraphQL 端点的 WordPress 插件.
-* [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - GraphQL Bundle for the eZ Platform Symfony CMS.
+* [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - 用于 eZ 平台 Symfony CMS 的 GraphQL 包.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) - GraphQL Psr7 中间件
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) -用于zend表达的GraphiQL扩展
 * [GraphQLite](https://github.com/thecodingmachine/graphqlite) - 框架无关库，允许您通过注释 PHP 类来编写 GraphQL 服务器.
@@ -223,7 +223,7 @@
 * [graphene](https://github.com/graphql-python/graphene) - 一个以 Pythonic 简单的方式创建 GraphQL 模式/类型的包.
 * [graphene-gae](https://github.com/graphql-python/graphene-gae) - 向 Google AppEngine (GAE) 添加 GraphQL 支持.
 * [django-graphiql](https://github.com/GraphQL-python-archive/django-graphiql) - 将 GraphiQL 轻松集成到您的 Django 项目中.
-* [flask-graphql](https://github.com/graphql-python/flask-graphql) - 向 Flask 应用程序添加 GraphQL 支持.
+* [flask-graphql](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
 * [python-graphql-client](https://github.com/prisma/python-graphql-client) - 适用于 Python 2.7+ 的简单 GraphQL 客户端
 * [python-graphjoiner](https://github.com/healx/python-graphjoiner) - 使用连接、SQL 或其他方式创建 GraphQL API.
 * [graphene-django](https://github.com/graphql-python/graphene-django) - 石墨烯的 Django 集成.
@@ -316,7 +316,7 @@
 * [plug_graphql](https://github.com/graphql-elixir/plug_graphql) - GraphQL Elixir 的插件集成.
 * [graphql_relay](https://github.com/graphql-elixir/graphql_relay) - GraphQL Elixir 的中继助手.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) - 长生不老药绑定 [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
-* [graphql](https://github.com/asonge/graphql) - Elixir GraphQL parser.
+* [graphql](https://github.com/asonge/graphql) - Elixir GraphQL 解析器.
 * [plot](https://github.com/peburrows/plot) - Elixir 的 GraphQL 解析器和解析器.
 
 <a name="lib-haskell" />
@@ -331,7 +331,7 @@
 
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) - 用于 Postgres 的 GraphQL.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - 根据您的 SQL 数据库结构生成 GraphQL API.
-* [PostGraphile](https://github.com/graphile/postgraphile)  - 用于 PostgreSQL 的闪电般快速的 GraphQL API：高度可定制； 可通过插件扩展； 即时的.
+* [PostGraphile](https://github.com/graphile/postgraphile) - Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.
 * [Hasura](https://github.com/hasura/graphql-engine)  - Hasura 通过 PostgreSQL 提供即时实时 GraphQL API. 也适用于现有数据库.
 * [subZero](https://subzero.cloud/) - 用于您的数据库的 GraphQL 和 REST API
 
@@ -419,6 +419,14 @@
 
 * [graphqld](https://github.com/burner/graphqld) - D 的 GraphQL 服务器库.
 
+<a name="lib-r" />
+
+### R (Rstat) Libraries
+
+* [ghql](https://github.com/ropensci/ghql) - 通用 GraphQL R 客户端
+* [graphql](https://github.com/ropensci/graphql)  - 绑定到“libgraphqlparser”C++ 库. 解析 GraphQL 语法并以 JSON 格式导出 AST.
+* [gqlr](https://github.com/schloerke/gqlr) - R GraphQL 实现
+
 <a name="lib-julia" />
 
 ### Julia Libraries
@@ -439,7 +447,7 @@
 ## Tools
 
 * [graphiql](https://github.com/graphql/graphiql) - 用于探索 GraphQL 的浏览器内 IDE.
-* [GraphiQL.app](https://github.com/skevy/graphiql-app) - 围绕 GraphiQL 的轻量级、基于电子的包装器.
+* [GraphiQL.app](https://github.com/skevy/graphiql-app) - 围绕 GraphiQL 的轻量级基于电子的包装器.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz 将 GraphQL（模式）与 Graphviz 结合在一起.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - Node.js 中的 GraphQL API 可视化工具
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - 以交互方式探索 GraphQL 文档的 AST

@@ -69,7 +69,7 @@
 > #### Game Boy Advance
 >
 &gt; Game Boy Advance 开发由另一个项目涵盖 [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) 列表.
- &gt; 但是，GBA *可以运行* GB/GBC 游戏. 与本机硬件相比，它以略有不同的方式执行此操作：此列表的仿真器开发部分对此进行了介绍.
+ &gt; 但是，GBA *可以运行* GB/GBC 游戏. 与本机硬件相比，它以稍微不同的方式执行此操作：此列表的仿真器开发部分对此进行了介绍.
 >
 > #### Game Boy Color and Super Game Boy
 >
@@ -154,8 +154,8 @@
 - [Game Boy Cartridges Schematics](http://www.devrs.com/gb/files/gb.html) - MBC2 和 MBC3 类型的示意图.
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) - Jeff Frohwein 的第一个原理图.
-- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) - 并解释这些 MBC 银行如何切换和控制 RAM.
-- [GB Rom List](CartridgeList.csv) - 发布的每款游戏的导航表，其中包含有关其墨盒的详细信息.
+- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) - 并解释这些 MBC bank 如何切换和控制 RAM.
+- [GB Rom List](CartridgeList.csv) - 发布的每款游戏的导航表，其中包含有关其弹药筒的详细信息.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
 
 
@@ -324,7 +324,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - 逐步实现 Super Game Boy 功能（框架和调色板）的教程.
 - [GameBoy programming tutorial: Hello World!](https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/) - 分步教程.
 - [DMGreport](https://github.com/lancekindle/DMGreport) - 汇编中的游戏编程教程.
-- [OAM DMA tutorial](https://exez.in/gameboy-dma) - 如何在汇编中使用 OAM DMA 的示例.
+- [OAM DMA tutorial](https://gbdev.gg8.se/wiki/articles/OAM_DMA_tutorial) - 如何在汇编中使用 OAM DMA 的示例.
 - [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd) - 一本关于在 Assembly 中制作 Game Boy 游戏的电子书.
 
 #### Sources
@@ -345,7 +345,6 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 #### Boilerplates and libraries
 
-- [gb-template](https://github.com/exezin/gb-template) - 具有基本功能的模板，例如手柄输入、DMA 传输和地图/图块数据加载.
 - [rgbds-template](https://github.com/nezticle/rgbds-template) - 使用 RGBDS 的 Game Boy 基本 hello-world 示例.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - 带有内存定义、复制例程和 IBM 字体拼贴图的简单模板代码.
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) - 一个示例游戏男孩项目.
@@ -354,6 +353,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [gb-vwf](https://github.com/ISSOtm/gb-vwf) - 用于打印可变宽度文本的库，带有演示.
 - [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate) - 用于启动 Game Boy 项目的模板，为基础设施提供 Makefile.
 - [gb-starter-kit](https://github.com/ISSOtm/gb-starter-kit) - 对上述内容的扩展，包括基本库代码以及更快地开始.
+- [gb-template](https://github.com/gb-archive/gb-template) - 具有基本功能的模板，例如手柄输入、DMA 传输和地图/图块数据加载.
 
 #### Syntax highlighting packages
 
@@ -392,7 +392,6 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Tuff](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
-- [PlantBoy](https://github.com/siObyte/PlantBoy)
 - [Lazerpong](https://github.com/huderlem/lazerpong)
 - [Geometrix](https://github.com/AntonioND/geometrix)
 - [µCity](https://github.com/AntonioND/ucity)
@@ -416,6 +415,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Libbet and the Magic Floor](https://github.com/pinobatch/libbet)
 - [waveform-gb](https://github.com/dannye/waveform-gb)  - 程序可视化波形通道使用的波形. 波形可自由编辑，波形回放立即更新.
 - [vectroid.gb](https://gitlab.com/BonsaiDen/vectroid.gb) - 用 gbasm 开发.
+- [PlantBoy](https://github.com/gb-archive/plantboy)
 
 ### C
 
@@ -444,7 +444,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [dino-gb](https://github.com/rnegron/dino-gb) - Chrome 游戏的另一个克隆.
 - [Evoland.gb](https://github.com/flozz/evoland.gb) - Evoland 一级港口.
 - [Petris](https://github.com/bbbbbr/Petris) - 适合 Game Boy Color 的匀称宠物益智游戏（[itch.io](https://bbbbbr.itch.io/petris)).
-- [Infinity](https://github.com/gb-archive/infinity-gbc)  - 由 Affinix Software 主要在 1999 年至 2001 年间开发的角色扮演游戏.该游戏从未找到发行商，最终被取消. 最近发布了完整的源代码、开发工具和工作流程.
+- [Infinity](https://github.com/gb-archive/infinity-gbc)  - 由 Affinix Software 主要在 1999 年至 2001 年间开发的 RPG.该游戏从未找到发行商，最终被取消. 最近发布了完整的源代码、开发工具和工作流程.
 
 ### Demos
 
@@ -464,7 +464,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - 使用radare2逆向工程Game Boy ROM挑战的演练.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - 一系列关于拆卸 Link&#39;s Awakening DX 的博客文章.
 - [Reverse Engineering the GameBoy Tetris](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
-- [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - 一种简单的技术，允许您在大多数 GB/SGB/CGB 游戏中运行自定义代码，前提是您拥有 ACE 漏洞.
+- [DMA hijacking](https://gbdev.io/articles/dma_hijacking) - 一种简单的技术，允许您在大多数 GB/SGB/CGB 游戏中运行自定义代码，前提是您拥有 ACE 漏洞.
 
 ### Game Disassemblies
 

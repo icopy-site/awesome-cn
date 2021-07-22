@@ -40,7 +40,7 @@
 
 ### Demographic
 
-- [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助当地官员、社区领袖和企业了解他们社区中正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
+- [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 - [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/)  iframe. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 提供了对人口、住房、农业和经济数据的汇总表和时间序列的轻松访问，以及与 GIS 兼容的边界文件，从 1790 年至今，以及所有级别的美国人口普查地理，包括州、县、地区和街区.
    
@@ -123,7 +123,7 @@
 
 ### Urban Observation
 
-- [Numina](https://numina.co/)  - 利用边缘计算设备来测量各种路边活动.  Numina 以匿名和汇总的方式提供街道上旅客和物体的体积计数、路径和交通行为.
+- [Numina](https://numina.co/) - Utilizes edge computing devices that measures all kinds of curb-level activity. Anonymously and in aggregate, Numina delivers the volume counts, paths, and traffic behaviors of travelers and objects in streets.
 - [Transoft](https://safety.transoftsolutions.com/)  - Transfoft ITS 安全解决方案利用计算机视觉来识别街道上的“险些”行为. 该技术曾在《规划》杂志上发表 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥挤、更可持续和更公平. 
 
@@ -131,7 +131,7 @@
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
-- [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more. 
+- [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
 - [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 
@@ -142,7 +142,7 @@
 
 ### Built Environment
 
-- [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以通过该语言定义他们希望在其拓扑中使用的实体的语言. 
+- [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力，为建筑和施工许可数据创建共享数据规范.
 
 ### Transportation
@@ -154,7 +154,7 @@
 - [GBFS](https://github.com/NABSA/gbfs) - 共享单车通用馈送规范是共享移动系统可用性的标准化数据馈送.
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，可实现移动公司和地方政府之间的通信.
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、仅限公交车道、快速车道，特别是如果资源是动态定价的.
-- [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
+- [GMNS](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ## Planning Coding Resources
 这是 Python、R 或其他开源库或编程工具的精选列表，可用于城市规划应用程序. 
@@ -204,7 +204,7 @@ R 包和相关资源.
 ---
 
 ### Geospatial Data and Visualization
-A a high-level category to classify the resource into related groups. Census data could be considered "Demographic" for example. 
+用于将资源分类为相关组的高级类别. 例如，人口普查数据可以被视为“人口统计”. 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (Esri) 维护的地图和地理信息.
 - [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
@@ -240,11 +240,13 @@ A a high-level category to classify the resource into related groups. Census dat
 
 
 ### AICP Resources
-Resources pertaining to AICP certification test preparation, continuing education, and other resources.
+与 AICP 认证考试准备、继续教育和其他资源有关的资源.
 
-- [AICP Get Certified! Webpage](https://www.planning.org/certification/) - The American Institute of Certified Planners's (AICP) offical resource repository that provides details on eligibility, registration, and preparation. Important dates for upcoming AICP "Certification Cycles" are also listed.
+- [AICP Get Certified! Webpage](https://www.planning.org/certification/)  - 美国注册规划师协会 (AICP) 的官方资源库，提供有关资格、注册和准备的详细信息. 还列出了即将到来的 AICP“认证周期”的重要日期.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的“五步法”备考方法，并列出了可帮助您在 AICP 考试中取得成功的资源/材料.
+- [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员连接到精选的主题相关资源集合，包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和主题分组，包括书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国注册规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
+
 
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 

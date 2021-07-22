@@ -67,6 +67,23 @@
 				 <sup>OSS Capital 成立于 2018 年，是第一个也是唯一一个专注于风险投资的平台</sup><sup><br></sup><sup>专门支持早期 COSS（商业开源）初创公司创始人.</sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
+			</div>
+			<b>为云构建的开发环境</b>
+			<div>
+				<sub>
+				与 GitLab、GitHub 和 Bitbucket 原生集成，Gitpod 自动持续地预构建开发
+				<br>
+				所有分支机构的环境. 因此，团队成员可以立即开始使用全新的开发环境进行编码
+				<br>
+				对于每项新任务 - 无论您是在构建新功能、想要修复错误还是进行代码审查.
+				</sub>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -191,7 +208,7 @@
 - [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 一个更好更快的 Underscore.js.
 - [immutable](https://github.com/facebook/immutable-js) - 不可变的数据集合.
 - [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
-- [Folktale](https://github.com/origamitower/folktale) - 用于在 JavaScript 中进行泛型函数式编程的库套件，允许您编写具有更少错误和更多重用性的优雅的模块化应用程序.
+- [Folktale](https://github.com/origamitower/folktale) - 用于在 JavaScript 中进行泛型函数式编程的库套件，允许您编写具有更少错误和更多重用性的优雅、模块化的应用程序.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别在于您可以选择仅加载您需要的模块/功能，没有额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) - 函数式反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
@@ -262,7 +279,7 @@
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -293,7 +310,7 @@
 
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的 Web 应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
-- [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块打包器.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 - [gulp](https://github.com/gulpjs/gulp) - 流和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
@@ -383,7 +400,7 @@
 - 承诺
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - Promise 库，专注于创新功能和性能.
 	- [pify](https://github.com/sindresorhus/pify) - 承诺回调式函数.
-	- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+	- [delay](https://github.com/sindresorhus/delay) - 将承诺延迟指定的时间.
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 记忆承诺返回函数，带过期和预取.
 	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回函数的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
@@ -459,13 +476,13 @@
 - [babelfish](https://github.com/nodeca/babelfish) - i18n 具有非常简单的复数语法.
 - [matcher](https://github.com/sindresorhus/matcher) - 简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - 标准化视觉上相似的 unicode 字符.
-- [i18next](https://github.com/i18next/i18next) - Internationalization framework.
+- [i18next](https://github.com/i18next/i18next) - 国际化框架.
 - [nanoid](https://github.com/ai/nanoid) - 小巧、安全、URL 友好、唯一的字符串 ID 生成器.
 - [StegCloak](https://github.com/kurolabs/stegcloak) - 隐藏字符串中的秘密，一目了然.
 
 ### Number
 
-- [random-int](https://github.com/sindresorhus/random-int) - Generate a random integer.
+- [random-int](https://github.com/sindresorhus/random-int) - 生成一个随机整数.
 - [random-float](https://github.com/sindresorhus/random-float) - 生成随机浮动.
 - [unique-random](https://github.com/sindresorhus/unique-random) - 生成连续唯一的随机数.
 - [round-to](https://github.com/sindresorhus/round-to) - 将数字四舍五入到特定的小数位数：`1.234` → `1.2`.
@@ -494,7 +511,7 @@
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - 人性化 URL：http://sindresorhus.com → sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - 扩展缩短的 URL.
 - [speakingurl](https://github.com/pid/speakingurl) - 从带有音译的字符串生成一个 slug.
-- [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 Unicode 支持的链接模式检测器.
+- [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 unicode 支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) - 比 URL 和其他字符串的正则表达式字符串匹配模式更容易.
 - [embedza](https://github.com/nodeca/embedza) - 使用来自 oEmbed、Open Graph、元标记的信息从 URL 创建 HTML 片段/嵌入.
 
@@ -503,7 +520,7 @@
 - [joi](https://github.com/hapijs/joi) - JavaScript 对象的对象模式描述语言和验证器.
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - 使用代码生成速度极快的 JSON 模式验证器.
 - [property-validator](https://github.com/nettofarah/property-validator) - Express 的简单属性验证.
-- [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API 清理和验证.
+- [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv)  - 最快的 JSON 模式验证器. 支持 v5、v6 和 v7 提案.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - 在 JavaScript（和 TypeScript）中验证数据的简单且可组合的方法.
 
@@ -814,7 +831,7 @@
 - [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整哲学存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用少量简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
 
 ### Discovery
 
@@ -890,11 +907,11 @@
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - 回答有关流的常见问题，包括分页、事件等.
-- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Node.js Web 服务的源代码安全分析清单.
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ### Tools
 
-- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome 扩展程序，用于链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项.
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项的 Chrome 扩展.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展程序可在存储库自述文件的底部显示 npm 依赖项.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展程序.
