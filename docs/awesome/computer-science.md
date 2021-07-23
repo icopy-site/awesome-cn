@@ -38,7 +38,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 当没有任何课程符合上述标准时，课程作业将附上一本书.
 当有些课程或书籍不适合课程但质量很高时，
-他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 或者 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
+他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 要么 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
 
  **组织**. 课程设计如下：
 - *介绍 CS*：让学生尝试 CS，看看它是否适合他们
@@ -46,7 +46,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 - *Advanced CS*：大致相当于计算机科学课程的最后一年，根据学生的兴趣选修课
 - *最终项目*：学生验证、巩固和展示知识的项目，供全球同行评估
 
- **期间**. 如果您仔细计划并每周投入大约 20 小时的学习时间，则有可能在大约 2 年内完成学业. 学习者可以使用[这个传播
+ **期间**. 如果您仔细计划并每周投入大约 20 小时的学习时间，则可以在大约 2 年内完成学业. 学习者可以使用[这个传播
  ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) 来估计它们的结束日期. 复印一份并在“时间表”表中输入您的开始日期和每周预计工作时间. 当您完成课程时，您可以在“课程数据”表中输入您的实际课程完成日期并获得更新的完成估算.
 
  **成本**. 所有或几乎所有的课程材料都是免费提供的. 但是，某些课程可能会为要评分的作业/测试/项目收费.
@@ -463,6 +463,6 @@ or
 ## Team
 
 * **[Eric Douglas](https://github.com/ericdouglas)**：OSSU创始人
-* **[hanjiexi](https://github.com/hanjiexi)**：首席技术维护者
-* **[waciumawanjohi](https://github.com/waciumawanjohi)**：首席学术维护者
+* **[Josh Hanson](https://github.com/joshmhanson)**：首席技术维护者
+* **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**：首席学术维护者
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
