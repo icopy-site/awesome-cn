@@ -49,7 +49,6 @@
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera 和 HUMP 兼容的缩放网格
 * [gamera](https://github.com/kikito/gamera) - 摄像系统
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - 具有窗口锁定和平滑相机移动插值的相机库
-* [STALKER-X](https://github.com/adnzzzzZ/STALKER-X) - STALKER-X 是 LÖVE 的相机模块
 
 ## Development
 *开发辅助库，丰富您的开发体验*
@@ -70,10 +69,10 @@
 * [Artal](https://github.com/unXedDani/Artal) - LÖVE 的 .PSD 解析库
 * [Autobatch](https://github.com/rxi/autobatch) - 用于自动使用 SpriteBatches 的小型 LÖVE 模块
 * [cindy](https://github.com/megagrump/cindy) - 在 LÖVE 11+ 中使用字节颜色值
-* [deep](https://github.com/Nikaoto/deep)  - 增加Z轴； 允许您排队操作和绘制调用
+* [deep](https://github.com/Nikaoto/deep) - Adds Z axis; allows you to queue actions and draw calls
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（一种人性化的 HSL 替代方案）
-* [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器
+* [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率定标器
 * [Push](https://github.com/Ulydev/push) - 一个简单的 LÖVE 分辨率处理库
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染
 * [svglover](https://github.com/globalcitizen/svglover) - 在 LÖVE 中导入和显示简单 SVG 的库
@@ -173,7 +172,7 @@
 * [classic](https://github.com/rxi/classic/)  - Lua 的小类模块. 尝试通过避免不必要的过度抽象来保持简单并提供不错的性能
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - 具有多重继承的小型、快速类/原型实现（类公共）
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - 提供单一继承和构造函数的极小基类.
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+* [middleclass](https://github.com/kikito/middleclass)  - Lua 的简单 OOP 库； 具有继承、元方法（运算符）、类变量和弱混合支持（类公共）
 * [muun](https://github.com/megagrump/muun) - Moonscript 兼容类实现
 * [selene](https://github.com/novafacing/selene) - 在没有预编译的情况下用 Moonscript 而不是 Lua 编写游戏的项目模板
 
@@ -208,12 +207,13 @@
 ## Publishing
 *在第 3 方商店分发 LÖVE 游戏的指南*
 
-* [Love-Snap-Template](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store
+* [Love-Snap-Template](https://github.com/popey/love-snap-template) - 用于在 Snappy Store 中分发 LÖVE 游戏的包装模板
 * [AppImageKit](https://github.com/AppImage/AppImageKit)  - 使用 AppImageKit，您可以将 LÖVE 游戏打包为 AppImages，运行在常见的基于 Linux 的操作系统上，例如 RHEL、CentOS、Ubuntu、Fedora、debian 和衍生品； 一个游戏=一个文件
 
 ## Serialization
 *保存游戏和存储库*
 
+* [arson](https://github.com/flamendless/arson.lua) - 用于注册可由 json.lua 编码和解码的自定义数据类型的配套库 
 * [binser](https://github.com/bakpakin/binser) - 可定制的 Lua 序列化器
 * [bitser](https://github.com/gvx/bitser) - 使用 LuaJIT 序列化和反序列化 Lua 值
 * [cdata](https://github.com/excessive/cdata) - 使用 LuaJIT 的 FFI 在 Lua 数据和 C 数据之间进行序列化
@@ -298,12 +298,12 @@
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - 一个基本的 LÖVE 粒子系统编辑器
 * [splashy](https://github.com/videah/splashy) - 启动画面库
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - 使用加速度计数据进行用 Lua 编写的抖动设备检测
-* [tick](https://github.com/bjornbytes/tick) - 对 LÖVE 的运行循环有用的时间调整
+* [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 
 ## Tutorials
 *博客和教程*
 
-* [adnzzzzZ's](https://github.com/adnzzzzZ/blog) - 一个博客 [adnzzzzZ](https://github.com/adnzzzzZ) 与有关使用 LÖVE 进行游戏开发的文章
+* [adnzzzzZ's](https://github.com/adnzzzzZ/blog) - 一个博客 [adnzzzzZ](https://github.com/adnzzzzZ) with articles about game development using LÖVE
 * [learn2love](https://rvagamejams.com/learn2love/) - 用 Lua 和 LÖVE 学习编程的书（版本 11.0+）
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - 一篇关于在 LÖVE 游戏中使用 Tiled 创建的地图的文章
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - nooowaay 关于如何制作突破性克隆的完整教程
@@ -321,7 +321,7 @@
 	* [language-lua](https://atom.io/packages/language-lua) - Atom 中的 Lua 语言支持
 	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) - 使用 luacheck 即时检查 Lint Lua
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开 Atom 即可为当前项目启动 LÖVE
-	* [Löve IDE](https://atom.io/packages/love-ide) - This package auto-installs several utilities for writing Love2D games in Atom
+	* [Löve IDE](https://atom.io/packages/love-ide) - 该软件包会自动安装多个用于在 Atom 中编写 Love2D 游戏的实用程序
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE 的自动完成和片段
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - 显示 wiki 的 LÖVE 的 Hyperclick 提供程序
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Atom 中的 Lua 语法错误检查
@@ -353,7 +353,8 @@
 * [boon](https://github.com/camchenry/boon) - 多平台、易于使用的工具，支持 Windows、macOS、Linux.
 * [love-export](https://github.com/dmoa/love-export)  - 为您构建二进制文件的快速而简单的命令行工具. 支持 Windows、MacOS 和 Linux.
 * [love-release](https://github.com/MisterDA/love-release)  - 自动分发游戏的 Lua 脚本. 支持 Windows、macOS、Debian、Linux.
-* [makelove](https://github.com/pfirsich/makelove) - 先进的多平台工具，可以融合您用 Python 3 编写的游戏.通过 AppImage 支持 Windows 和 Linux.
+* [makelove](https://github.com/pfirsich/makelove) - 先进的多平台工具，融合你用 Python 3 编写的游戏.支持 Windows 和 Linux 和 AppImage.
+* [love-deploy](https://github.com/tducasse/love-deploy) - 在 itch.io 上构建和部署游戏（支持 windows 和 web 导出）
 
 ## Contributing
 

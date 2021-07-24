@@ -46,7 +46,7 @@
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
 
 [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Mathematics, Programming languages \
+内容关于：数学、编程语言 \
 Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
 <br/>
 
@@ -348,7 +348,7 @@ Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotl
 
 [**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：React.js、JavaScript、TypeScript \
-精选播放列表：“React.js 初学者教程”、“React.js Hooks 教程”、“React.js Redux 教程”、“React.js 故事书教程”、“React.js Formik 教程”、“实用 React.js” .
+Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`, `React.js Redux Tutorial`, `React.js Storybook Tutorial`, `React.js Formik Tutorial`, `Practical React.js`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
 
@@ -380,7 +380,7 @@ Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotl
 
 [**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：React.js、JavaScript、后端\
-Featured playlists: `Learn JavaScript`, `Master React.js by Building Real Projects`. \
+精选播放列表：`Learn JavaScript`、`Master React.js by Building Real Projects`.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyIKkD9fGTB3olrvHQY8wNXGtHDEKp6tcmXr84=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Omatum)
@@ -590,7 +590,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 ## Computer sciences
 
-计算机科学的核心概念可以在这里找到. 一些频道会教您有关数学运算的知识，包括许多具有不同数学主题的播放列表. 与计算机和硬件密切相关的数学和物理也是如此. 如果您想了解最深层次的术语，那就太完美了.
+计算机科学的核心概念可以在这里找到. 一些频道会教您有关数学运算的知识，包括许多具有不同数学主题的播放列表. 与计算机和硬件密切相关的数学和物理也是如此. 如果您想了解最深层次的术语，那就完美了.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQelvtRQ9bX4eu2G8kuazXvSUf6OoqdHkjCfcNQA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/zachstar)
 
@@ -850,7 +850,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**Clear Code**](https://www.youtube.com/c/ClearCode) \
 内容关于：Python \
-特色播放列表：“Pygame Fundamentals”、“在 Pygame 中创建 Pong”、“通过制作 Flappy Bird 学习 pygame”、“Godot 中的谷歌恐龙跑步者”.
+精选播放列表：“Pygame Fundamentals”、“在 Pygame 中创建 Pong”、“通过制作 Flappy Bird 学习 pygame”、“Godot 中的谷歌恐龙跑步者”.
 
 
 ## Security
@@ -1018,8 +1018,8 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygq4Pq_23OEZs2MZbLitD4i8YHBVe7NsNvcnsFag=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Pixelandbracket)
 
 [**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容有关：Adobe Illustrator、Adobe Photoshop \
-精选播放列表：“Illustrator 教程”、“Photoshop 教程”、“其他设计视频”.  \
+Content about: Adobe Illustrator, Adobe Photoshop \
+Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)
@@ -1032,7 +1032,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwzTU_31qu-jJKhnKvA2INGIA138gOD3CBB9mB3kA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ArtwithFlo)
 
 [**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容关于：Procreate、Ipad/平板电脑绘图\
+内容关于：Procreate、Ipad/平板电脑绘图 \
 精选播放列表：`PROCREATE TUTORIALS`、`DIGITAL ART TUTORIALS`、`iPad Pro 上的数字绘图| 简单的绘图教程`，`更多播放列表！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
@@ -1204,12 +1204,10 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 <details>
 	<summary>学分</summary>
 	
+列表样式的灵感来自 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)， 由...制作 [mhxion](https://github.com/mhxion) . 我认为这个存储库是我的灵感来源 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在这个文件中使用相同的表格样式也很好看，以及有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
+	
 awesome-youtubers 徽标和相应的徽章图标由 [José De Freitas](https://github.com/JoseDeFreitas/).
 
 徽章是在没有遵循任何设计结构的情况下创建的，尽管 [awesome-youtubers logo](https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) 灵感来自 [awesome logo](https://github.com/sindresorhus/awesome/blob/mainhttps://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) 和 [awesome-nodejs logo](https://github.com/sindresorhus/awesome-nodejs/blob/masterhttps://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master//media/logo.svg?sanitize=true) . 两个播放图标是在播放按钮之后创建 [YouTube logo](https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q) . 这只是一种表示，我没有使用 YouTube 徽标本身.
-
-位于每个 YouTuber 名称行最右侧的赞成和反对图标取自 [flaticon.com](https://www.flaticon.com) ; 更具体地说，它们是由 [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) 团队（此图标的所有功劳都归功于他们.谢谢！）. 我通过更改颜色来修改它们（绿色表示赞成，红色表示反对.在 .svg 文件中手动执行此操作）.
-
-列表样式的灵感来自 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)， 由...制作 [mhxion](https://github.com/mhxion) . 在我看来，这个存储库是我的灵感来源 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在这个文件中使用相同的表格样式也很好看，以及有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
 
 </details>

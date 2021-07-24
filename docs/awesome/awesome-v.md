@@ -21,6 +21,7 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 并在.
 - [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
+- [Foxil](https://github.com/StunxFS/foxil) - 一种旨在促进编译器代码生成的中间语言.
 
 
 ### Operating systems/Kernels
@@ -38,7 +39,7 @@
 ### Web
 
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
-- [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
+- [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且反应灵敏的博客系统.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
 
 ### Graphics
@@ -49,13 +50,13 @@
 
 - [Boundstone](https://github.com/organization/boundstone) - 高性能/快速编译/轻量级 Minecraft：基岩版服务器.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - 经典的桨游戏通过 V 的力量重获生机.
-- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的飞扬学习演示（已存档）
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的学习演示（已存档）
 
 ### Command-line
 
 - [HN-top](https://github.com/BafS/hn-top) - 一个简单的命令来列出来自黑客新闻的最新消息.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，将 v 源文件生成为 AST json 文件.
-- [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
+- [symlinker](https://github.com/serkonda7/symlinker) - 用于管理符号链接的小型 Linux 工具.
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译用各种编程语言编写的代码的工具.
 - [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
 - [vspect](https://github.com/zakuro9715/vspect) - 检查 vlang 源文件的工具.
@@ -158,7 +159,7 @@
 
 ### User Interface toolkits
 
-- [V UI](https://github.com/vlang/ui) - 集成的跨平台 UI 工具包，适用于 Windows、macOS、Linux、Android、iOS 和 Web.
+- [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
 - [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装器.
 - [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
@@ -170,7 +171,7 @@
 
 ### Utility
 
-- [range](https://github.com/Delta456/range) - V 中 Python 的 range() 功能.
+- [range](https://github.com/Delta456/range) - V 中 Python 的 range() 的功能.
 - [random](https://github.com/Delta456/random) - 一个用 V 编写的通用随机库.
 - [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
 
@@ -206,7 +207,7 @@
 ### Programming contests
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - V 中 Rosetta 代码的解决方案.
-- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中 Code 2019 出现的解决方案.
+- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中 Code 2019 的解决方案.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - 在 V 中实现 SoloLearn 编码挑战.
 
 ### Tutorials

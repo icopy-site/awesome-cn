@@ -103,6 +103,7 @@
 * [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - 从头开始​​实现 GraphQL.js 并支持原生 ESM 的 GraphQL Koa 中间件.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) --GraphQL Koa 中间件.
 * [gql](https://github.com/deno-libs/gql) - Deno 的通用 GraphQL HTTP 中间件.
+* [mercurius](https://github.com/mercurius-js/mercurius) - Fastify 的 GraphQL 插件
 
 #### Database & ORM
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 围绕 BookshelfJS 模型定义 GraphQL 模式的一些帮助.
@@ -144,7 +145,7 @@
 * [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
 * [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 为 urql 进行预集成.
 * [graphql-let](https://github.com/piglovesyou/graphql-let) - 直接从 GraphQL 文档导入受类型保护的代码生成结果的 webpack 加载器
-* [GraphQL Config](https://github.com/kamilkisiela/graphql-config): One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
+* [GraphQL Config](https://github.com/kamilkisiela/graphql-config)：所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
 * [GraphQL CLI](https://github.com/urigo/graphql-cli)：用于常见 GraphQL 开发工作流的命令行工具.
 * [GraphQL Scalars](https://github.com/Urigo/graphql-scalars)：用于创建精确、类型安全的 GraphQL 模式的自定义 GraphQL 标量类型库.
 * [GraphQL Toolkit](https://github.com/ardatan/graphql-toolkit)：一组用于更快开发 GraphQL 工具（架构和文档加载、架构合并等）的实用程序.
@@ -447,7 +448,7 @@
 ## Tools
 
 * [graphiql](https://github.com/graphql/graphiql) - 用于探索 GraphQL 的浏览器内 IDE.
-* [GraphiQL.app](https://github.com/skevy/graphiql-app) - 围绕 GraphiQL 的轻量级基于电子的包装器.
+* [GraphiQL.app](https://github.com/skevy/graphiql-app) - 围绕 GraphiQL 的轻量级、基于电子的包装器.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz 将 GraphQL（模式）与 Graphviz 结合在一起.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - Node.js 中的 GraphQL API 可视化工具
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - 以交互方式探索 GraphQL 文档的 AST
@@ -473,7 +474,7 @@
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) - GraphQL 扩展，使您能够轻松获取解析器级性能信息作为 GraphQL 响应的一部分.
 * [Altair GraphQL Client](https://github.com/imolorhe/altair) - 适用于所有平台的漂亮功能丰富的 GraphQL 客户端.
 * [Apollo Storybook Decorator](https://github.com/abhiaiyer91/apollo-storybook-decorator) - 使用 Apollo Client 包装您的 React Storybook 故事，为使用 GraphQL 的隔离 UI 测试提供模拟
-* [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - 检测 GraphQL 解析器，将响应时间和状态（如果有错误）记录到控制台以及 InfluxDB.
+* [GraphQL Metrics](https://github.com/Workpop/graphql-utils/tree/master/packages/graphql-metrics) - 检测 GraphQL 解析器，将响应时间和状态（如果有错误）记录到控制台和 InfluxDB.
 * [GraphQL Rover](https://github.com/Brbb/graphql-rover) - GraphQL 模式交互式导航、重新排列节点、搜索和探索类型和字段.
 * [json-graphql-server](https://github.com/marmelab/json-graphql-server) - 基于 JSON 数据文件，在不到 30 秒的时间内获得零编码的完整假 GraphQL API.
 * [Insomnia](https://insomnia.rest/) - 具有第一方 GraphQL 查询编辑器的全功能 API 客户端
@@ -549,7 +550,7 @@ Boilerplate + React Native（iOS、Android）、React（同构、Material-UI）�
 * [vslinko/ripster](https://github.com/vslinko/ripster/tree/master/src/graphql)
 * [relay-skeleton](https://github.com/fortruce/relay-skeleton) - React、Relay、GraphQL 项目框架
 * [simple-relay-starter](https://github.com/mhart/simple-relay-starter) - 一个非常简单的 React Relay 启动器，使用 Browserify.
-* [relay-chat](https://github.com/transedward/relay-chat) - 显示带有路由和分页的中继的聊天示例.
+* [relay-chat](https://github.com/transedward/relay-chat) - a chat example showing Relay with routing and pagination.
 * [relay-todomvc](https://github.com/taion/relay-todomvc) - 使用路由中继 TodoMVC.
 * [dgraph-react-todomvc](https://github.com/dgraph-io/dgraph-react-todomvc) - Dgraph + React TodoMVC 示例.
 * [graphql-express-sqlite](https://github.com/mrblueblue/graphql-express-sqlite) - 带有 Sqlite 和 Express 的 GraphQL 服务器
