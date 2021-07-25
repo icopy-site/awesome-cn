@@ -101,10 +101,10 @@ Rust 代码和资源的精选列表.
 * [noria](https://crates.io/crates/noria) — 用于 Web 应用程序后端的动态变化、部分状态的数据流 [![build badge](https://api.travis-ci.org/mit-pdos/noria.svg?branch=master)](https://travis-ci.org/mit-pdos/noria)
 * [Lucid](https://github.com/lucid-kv/lucid) — High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
 * [ParityDB](https://github.com/paritytech/parity-db) — 快速可靠的数据库，针对读操作进行了优化
-* [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) — 事件溯源数据库引擎 [![build badge](https://api.travis-ci.org/PumpkinDB/PumpkinDB.svg?branch=master)](https://travis-ci.org/PumpkinDB/PumpkinDB)
+* [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) — 事件溯源数据库引擎
 * [seppo0010/rsedis](https://github.com/seppo0010/rsedis) — Rust 中的 Redis 重新实现 [![build badge](https://api.travis-ci.org/seppo0010/rsedis.svg?branch=master)](https://travis-ci.org/seppo0010/rsedis)
 * [Skytable](https://github.com/skytable/skytable) — 多模型 NoSQL 数据库 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
-* [tikv](https://github.com/tikv/tikv) — Rust 中的分布式 KV 数据库 [![build badge](https://circleci.com/gh/tikv/tikv.svg?style=shield&circle-token=36bab0a8e43edb0941b31c38557d2d9d0d58f708)](https://app.circleci.com/pipelines/github/tikv/tikv)
+* [tikv](https://github.com/tikv/tikv) — Rust 中的分布式 KV 数据库 [![Build Status](https://ci.pingcap.net/job/tikv_ghpr_test/badge/icon)](https://ci.pingcap.net/job/tikv_ghpr_test/)
 * [sled](https://crates.io/crates/sled) —（测试版）现代嵌入式数据库 [![Build Status](https://github.com/spacejam/sled/workflows/Rust/badge.svg?branch=master)](https://github.com/spacejam/sled/actions?workflow=Rust)
 * [TerminusDB](https://github.com/terminusdb/terminusdb-store) - 开源图形数据库和文档存储 [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 
@@ -272,7 +272,7 @@ Rust 代码和资源的精选列表.
 
 ### Text processing
 
-* [cpc](https://github.com/probablykasper/cpc) - 解析和计算数学字符串，支持单位和单位转换，从“1+2”到“1% 的回合（1 光年/14 秒到公里/小时）”.
+* [cpc](https://github.com/probablykasper/cpc) - 解析和计算数学字符串，支持单位和单位转换，从“1+2”到“1% 的回合（1 光年/14！s 到公里/小时）”.
 * [grex](https://github.com/pemistahl/grex) — 用于从用户提供的测试用例生成正则表达式的命令行工具和库 [![build badge](https://api.travis-ci.org/pemistahl/grex.svg?branch=master)](https://travis-ci.org/pemistahl/grex)
 * [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) — 在源文件中查找和替换文本 [![Run tests](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml)
 * [ripgrep](https://crates.io/crates/ripgrep) — 结合了 Silver Searcher 的可用性和 grep 的原始速度 [![build badge](https://api.travis-ci.org/BurntSushi/ripgrep.svg?branch=master)](https://travis-ci.org/BurntSushi/ripgrep)
@@ -593,7 +593,7 @@ Rust 代码和资源的精选列表.
 * [ruspec](https://crates.io/crates/ruspec) — 像 Rspec 测试框架一样用 Rust 编写 [![Build Status](https://github.com/k-nasa/ruspec/workflows/CI/badge.svg?branch=master)](https://github.com/k-nasa/ruspec/actions)
 * [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs) — 一个 Rust 模糊器，使用 [AFL](https://lcamtuf.coredump.cx/afl/) [![build badge](https://api.travis-ci.org/rust-fuzz/afl.rs.svg?branch=master)](https://travis-ci.org/rust-fuzz/afl.rs)
 * [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — 为 Rust 设计的代码覆盖率工具 [![build badge](https://api.travis-ci.org/repositories/xd009642/tarpaulin.svg?branch=master)](https://travis-ci.org/xd009642/tarpaulin)
-* [trust](https://github.com/japaric/trust) — 一个 Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate 并发布其适用于 Linux、macOS 和 Windows 的二进制版本
+* [trust](https://github.com/japaric/trust) — Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate 并发布其适用于 Linux、macOS 和 Windows 的二进制版本
 * [fake-rs](https://github.com/cksac/fake-rs) — 生成假数据的库 [![build badge](https://api.travis-ci.org/repositories/cksac/fake-rs.svg?branch=master)](https://travis-ci.org/cksac/fake-rs)
 * [goldenfile](https://github.com/calder/rust-goldenfile) - 一个为 Goldenfile 测试提供简单 API 的库. [![build badge](https://api.travis-ci.org/calder/rust-goldenfile.svg?branch=master)](https://travis-ci.org/calder/rust-goldenfile)
 * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 简化在智能手机和其他小型处理器设备上运行库测试和工作台的货物扩展.
@@ -612,7 +612,7 @@ Rust 代码和资源的精选列表.
 
 #### Genetic algorithms
 
-* [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决了 N = 255 的 N Queens 问题，并且使用的 RAM 不到 1 MB.
+* [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决 N = 255 的 N Queens 问题，并使用不到 1 MB 的 RAM.
 * [innoave/genevo](https://github.com/innoave/genevo) — 以可定制和可扩展的方式执行遗传算法 (GA) 模拟.
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — Rust 的进化算法 [![Build Status](https://api.travis-ci.org/willi-kappler/darwin-rs.svg?branch=master)](https://travis-ci.org/willi-kappler/darwin-rs)
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust 中的遗传算法库. 处于维护模式.
@@ -808,7 +808,7 @@ Rust 代码和资源的精选列表.
 * [L-BFGS-B](https://en.wikipedia.org/wiki/Limited-memory_BFGS)
   * [noshu/lbfgsb-sys](https://github.com/noshu/lbfgsb-sys) — fortran L-BFGS-B 子程序的 Rust 绑定
 * [dimforge/nalgebra](https://github.com/dimforge/nalgebra) — 低维线性代数库 [![build badge](https://api.travis-ci.org/dimforge/nalgebra.svg?branch=dev)](https://travis-ci.org/dimforge/nalgebra)
-* 平行
+* 平行线
   * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) 绑定
   * [autumnai/collenchyma](https://github.com/autumnai/collenchyma) — 一个可扩展、可插拔、后端不可知的框架，用于在 CUDA、OpenCL 和通用主机 CPU 上进行并行、高性能计算. [![build badge](https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master)](https://travis-ci.org/autumnai/collenchyma)
   * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) 绑定
@@ -818,7 +818,7 @@ Rust 代码和资源的精选列表.
   * [statrs-dev/statrs](https://github.com/statrs-dev/statrs) — Rust 中强大的统计计算库 [![Build Status](https://api.travis-ci.org/boxtown/statrs.svg?branch=master)](https://travis-ci.org/boxtown/statrs)
 * 生锈 [[rustimization](https://crates.io/crates/rustimization)]
   * [noshu/rustimization](https://github.com/noshu/rustimization) — Rust 优化库，包括 L-BFGS-B 和共轭梯度算法
-* [calebwin/emu](https://github.com/calebwin/emu) — 一种从 Rust 宏中进行 GPGPU 数值计算的语言
+* [calebwin/emu](https://github.com/calebwin/emu) — 一种从 Rust 宏进行 GPGPU 数值计算的语言
 
 ### Configuration
 
@@ -886,7 +886,7 @@ Rust 代码和资源的精选列表.
     * [benashford/rs-es](https://github.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es)] — 一个 Rust 客户端 [Elastic](https://www.elastic.co/) REST API [![build badge](https://api.travis-ci.org/benashford/rs-es.svg?branch=master)](https://travis-ci.org/benashford/rs-es)
     * [elastic-rs/elastic](https://github.com/elastic-rs/elastic) [[elastic](https://crates.io/crates/elastic)] — elastic 是用 Rust 编写的用于 Elasticsearch 的高效模块化 API 客户端 [![build badge](https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true)](https://ci.appveyor.com/project/KodrAus/elastic)
   * etcd
-    * [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd)] — CoreOS 的 etcd 的客户端库. [![build badge](https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master)](https://travis-ci.org/jimmycuadra/rust-etcd)
+    * [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd)] — CoreOS 的 etcd 客户端库. [![build badge](https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master)](https://travis-ci.org/jimmycuadra/rust-etcd)
     * [luncj/etcd-rs](https://github.com/luncj/etcd-rs) — 一个用于 Rust 的异步 etcd 客户端 [![build badge](https://api.travis-ci.org/luncj/etcd-rs.svg?branch=master)](https://travis-ci.org/luncj/etcd-rs)
   * 森林数据库
     * [vhbit/sherwood](https://github.com/vhbit/sherwood) — [ForestDB](https://github.com/couchbase/forestdb) 绑定 [![build badge](https://api.travis-ci.org/vhbit/sherwood.svg?branch=master)](https://travis-ci.org/vhbit/sherwood)
@@ -1041,7 +1041,7 @@ Rust 代码和资源的精选列表.
   * [Qihoo360/rust-jsonnet](https://github.com/Qihoo360/rust-jsonnet)
 * 消息包
   * [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) — 纯 Rust 低/高级别 MessagePack 实现 [![build badge](https://api.travis-ci.org/3Hren/msgpack-rust.svg?branch=master)](https://travis-ci.org/3Hren/msgpack-rust)
-* PEM
+* NS
   * [jcreekmore/pem-rs](https://github.com/jcreekmore/pem-rs) [[pem](https://crates.io/crates/pem)] — 一种基于 Rust 的方法来解析和编码 PEM 编码的数据 [![build badge](https://api.travis-ci.org/jcreekmore/pem-rs.svg?branch=master)](https://travis-ci.org/jcreekmore/pem-rs)
 * 邮递员收藏
   * [mandrean/postman-collection-rs](https://github.com/mandrean/postman-collection-rs) — Postman Collection v1、v2 和 v2.1 序列化和反序列化库 [![Build Status](https://api.travis-ci.org/mandrean/postman-collection-rs.svg?branch=master)](https://travis-ci.org/mandrean/postman-collection-rs)
@@ -1064,7 +1064,7 @@ Rust 代码和资源的精选列表.
 * YAML
   * [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) — 缺少 Rust 的 YAML 1.2 实现. [![build badge](https://api.travis-ci.org/chyh1990/yaml-rust.svg?branch=master)](https://travis-ci.org/chyh1990/yaml-rust)
   * [dtolnay/serde-yaml](https://github.com/dtolnay/serde-yaml) [[serde\_yaml](https://crates.io/crates/serde_yaml)] - YAML 支持 [Serde](https://github.com/serde-rs/serde) 框架 [![build badge](https://api.travis-ci.org/dtolnay/serde-yaml.svg?branch=master)](https://travis-ci.org/dtolnay/serde-yaml)
-  * [kimhyunkang/libyaml-rust](https://github.com/kimhyunkang/libyaml-rust) — [libyaml](https://pyyaml.org/wiki/LibYAML) 绑定 [![build badge](https://api.travis-ci.org/kimhyunkang/libyaml-rust.svg?branch=master)](https://travis-ci.org/kimhyunkang/libyaml-rust)
+  * [kimhyunkang/libyaml-rust](https://github.com/kimhyunkang/libyaml-rust) — [libyaml](https://pyyaml.org/wiki/LibYAML) 绑定
   * [vitiral/stfu8](https://github.com/vitiral/stfu8) — UTF-8 排序文本格式 [![build badge](https://api.travis-ci.org/vitiral/stfu8.svg?branch=master)](https://travis-ci.org/vitiral/stfu8)
 
 ### Filesystem
@@ -1140,8 +1140,8 @@ Rust 代码和资源的精选列表.
 [[graphics](https://crates.io/keywords/graphics)]
 
 * [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - 基于 gfx-hal 的原生 WebGPU 实现. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
-* [gfx-rs/gfx](https://github.com/gfx-rs/gfx) — Rust 的高性能、无绑定图形 API. [![build badge](https://api.travis-ci.org/gfx-rs/gfx.svg?branch=master)](https://travis-ci.org/gfx-rs/gfx)
-* 字体
+* [gfx-rs/gfx](https://github.com/gfx-rs/gfx) — 用于 Rust 的高性能、无绑定图形 API. [![build badge](https://api.travis-ci.org/gfx-rs/gfx.svg?branch=master)](https://travis-ci.org/gfx-rs/gfx)
+* 制作
   * [redox-os/rusttype](https://github.com/redox-os/rusttype) — 像 FreeType 这样的库的纯 Rust 替代品 [![build badge](https://api.travis-ci.org/redox-os/rusttype.svg?branch=master)](https://travis-ci.org/redox-os/rusttype)
   * [RazrFalcon/rustybuzz](https://github.com/RazrFalcon/rustybuzz) - Rust 的增量 harfbuzz 端口 [![build badge](https://api.travis-ci.org/RazrFalcon/rustybuzz.svg?branch=master)](https://travis-ci.org/RazrFalcon/rustybuzz)
 * OpenGL [[opengl](https://crates.io/keywords/opengl)]
@@ -1206,7 +1206,7 @@ Rust 代码和资源的精选列表.
   * [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) — Sciter 绑定 [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 * [hecrj/iced](https://github.com/hecrj/iced)  — Rust 的跨平台 GUI 库，专注于简单性和类型安全. 灵感来自榆树.
 * [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native)  - 一个真正的本地和跨平台 GUI 库. 一个统一的代码可以作为原生 GUI、Html Web 和 TUI 运行. [![Build Status](https://api.travis-ci.com/ivanceras/sauron-native.svg?branch=master)](https://travis-ci.com/github/ivanceras/sauron-native)
-* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — 用于构建高度安全的本机应用程序的工具链，这些应用程序具有微小的二进制文件，并且从 HTML、JS 和 CSS 层非常快，由 [webview](https://github.com/webview/webview). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — 用于构建高度安全的本机应用程序的工具链 [webview](https://github.com/webview/webview). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
 ### Image processing
 
@@ -1255,7 +1255,7 @@ Rust 代码和资源的精选列表.
 * 鹅卵石
   * [andars/pebble.rs](https://github.com/andars/pebble.rs) — 允许使用 Rust 开发 Pebble 应用程序的 crate.
 *安卓/iOS
-  * [i-schuetz/rust_android_ios](https://github.com/i-schuetz/rust_android_ios) — 分别使用 rust-swig 和 cbindgen 为 Android 和 iOS 使用共享 Rust 库的示例.
+  * [ivanschuetz/rust_android_ios](https://github.com/ivanschuetz/rust_android_ios) — 分别使用 rust-swig 和 cbindgen 为 Android 和 iOS 使用共享 Rust 库的示例.
 
 ### Network programming
 
@@ -1499,7 +1499,7 @@ https://crates.io/crates/delay_timer)
 注册表允许您将 Rust 库发布为 crate 包，以便与其他人公开和私下共享.
 
 * [Crates](https://crates.io) — Rust/Cargo 的官方公共注册表.
-* [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/cargo-registry/)  — 完全托管的包管理 SaaS，为公共和私有 Cargo/Rust 注册（以及许多其他注册）提供一流的支持. 有一个慷慨的免费层，并且对于开源也是完全免费的.
+* [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/cargo-registry/)  — 完全托管的包管理 SaaS，为公共和私有 Cargo/Rust 注册表（以及许多其他注册表）提供一流的支持. 有一个慷慨的免费层，并且对于开源也是完全免费的.
 
 ## Resources
 

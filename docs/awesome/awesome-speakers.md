@@ -36,7 +36,7 @@ https://twitter.com/codebeast
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ireaderinokun" height="70px" width="70px" align="left" alt="" />
 
-** 艾瑞阿德瑞诺昆 ** \
+** 愤怒的阿德瑞诺昆 ** \
 主题：渐进式 Web 应用程序、CSS、标准\
 https://twitter.com/ireaderinokun
 
@@ -544,11 +544,11 @@ https://twitter.com/sonniesedge
 主题：Web 性能、Service Workers\
 https://twitter.com/HernanMagrini
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/HugoGiraudel" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KittyGiraudel" height="70px" width="70px" align="left" alt="" />
 
-**雨果吉罗德尔**\
+**基蒂吉罗德尔**\
 主题：可访问性、多样性、包容性\
-https://twitter.com/HugoGiraudel
+https://twitter.com/KittyGiraudel
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Lugotype" height="70px" width="70px" align="left" alt="" />
 
@@ -2115,13 +2115,13 @@ https://twitter.com/carolcode
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fembernardo" height="70px" width="70px" align="left" alt="" />
 
 **费尔南达贝尔纳多**\
-Topics: CSS, JavaScript, HTML\
+主题：CSS、JavaScript、HTML\
 https://twitter.com/fembernardo
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/JoaoVictor_AC" height="70px" width="70px" align="left" alt="" />
 
 **若昂维克多迪亚斯**\
-主题：计算机视觉、Keras、CNN、R、数据科学路径\
+Topics: Computer Vision, Keras, CNN, R, Data Science path\
 https://twitter.com/JoaoVictor_AC
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sseraphini" height="70px" width="70px" align="left" alt="" />

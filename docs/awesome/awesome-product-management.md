@@ -190,6 +190,15 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 经过 [Philipp Cannons](https://twitter.com/pcannons).
 - [[幽默] 所以你想成为一名产品经理](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - 作者 [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb?gi=5dfc8f819d27) - 经过 [Brandon Chu](https://twitter.com/brandonmchu).
+- [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - 经过 [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
+- [Mastering Effective Communication as a Product Manager](https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager) - 经过 [Sachin Rekhi](https://www.sachinrekhi.com/about).
+- [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers) - 经过 [Sachin Rekhi](https://www.sachinrekhi.com/about).
+- [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - 经过 [Max Bennett](https://medium.com/@max.bennett).
+- [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - 经过 [Brandon Chu](https://twitter.com/brandonmchu).
+- [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146#.e81zu5ql7) - 经过 [Julie Zhuo](https://joulee.medium.com/).
+- [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - 经过 [Ken Norton](https://www.bringthedonuts.com/about/).
+- [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - 经过 [Shubhi Saxena](https://medium.com/@sshubhi).
+- [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 
 ## Books
 
@@ -199,7 +208,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - 作者：Alexander Osterwalder 和 Yves Pigneur.
 - [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) - 作者：Alexander Osterwalder 和 Yves Pigneur.
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - 埃里克·里斯.
-- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - 本·霍洛维茨着.
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) - 本·霍洛维茨 (Ben Horowitz).
 - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - 史蒂夫布兰克.
 - [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) - 克莱顿 M.克里斯滕森.
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) - 尼尔·埃亚尔 (Nir Eyal).
@@ -209,11 +218,12 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - 唐诺曼.
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - 由金斯科特.
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - 作者：Jake Knapp、John Zeratsky、Braden Kowitz.
-- [Creative Selection](http://creativeselection.io/) - 肯·科西恩达 (Ken Kocienda).
+- [Creative Selection](http://creativeselection.io/) - 肯·科辛达 (Ken Kocienda).
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - 马蒂·卡根 (Marty Cagan).
-- [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - 杰西卡·里奇 (Jessica Rich) 和特拉维斯·洛德米尔克 (Travis Lowdermilk).
+- [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - 杰西卡·里奇和特拉维斯·洛德米尔克.
 - [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - 梅丽莎·佩里 (Melissa Perri).
-- [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - 卡米尔富尼耶.
+- [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - 卡米尔·富尼耶 (Camille Fournier).
+- [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
 
 ## Podcasts
 

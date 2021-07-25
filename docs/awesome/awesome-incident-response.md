@@ -13,7 +13,7 @@
 ### Adversary Emulation
 
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Windows 批处理脚本，它使用一组工具和输出文件使系统看起来好像受到了威胁.
-* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework.
+* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 映射到 Miter ATT&amp;CK 框架的小型且高度便携的检测测试.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  - 自动化战术技术和程序. 手动重新运行复杂序列以进行回归测试、产品评估、为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 防御性安全培训软件，它将您的网络分析培训课程、事件响应演习和红队参与提升到一个新的水平.
 * [Caldera](https://github.com/mitre/caldera)  - 自动对手仿真系统，在 Windows 企业网络中执行妥协后的对抗行为. 它使用计划系统和基于对抗策略、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
@@ -49,6 +49,7 @@
 * [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson 关于事件响应的书.
 * [DFIR intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - 斯科特·J·罗伯茨.
 * [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - 事件响应的权威指南.
+* [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - 作者：斯科特·J·罗伯茨，丽贝卡·布朗.
 * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - 事件响应者的重要参考.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich 关于 IR 的书.
 
@@ -68,10 +69,10 @@
 
 ### Evidence Collection
 
-* [bulk_extractor](https://github.com/simsong/bulk_extractor)  - 计算机取证工具，可扫描磁盘映像、文件或文件目录并提取有用信息，而无需解析文件系统或文件系统结构. 由于忽略了文件系统结构，程序在速度和彻底性方面脱颖而出.
+* [bulk_extractor](https://github.com/simsong/bulk_extractor) - Computer forensics tool that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. Because of ignoring the file system structure, the program distinguishes itself in terms of speed and thoroughness.
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) - 精简的解析器列表，可快速分析取证图像文件（`dd`、E01、`.vmdk` 等）并输出九份报告.
 * [CyLR](https://github.com/orlikoski/CyLR) - CyLR 工具从具有 NTFS 文件系统的主机中快速、安全地收集取证工件，并将对主机的影响降至最低.
-* [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+* [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - artifactcollector 项目提供了一个在系统上收集取证工件的软件.
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch 脚本和 Unix Bash 脚本，用于在事件响应期间全面收集主机取证数据.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - 从基于 Windows、OSX 和 *nix 的操作系统收集易失性数据的自动化工具.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 用于并行化远程内存获取的命令行实用程序（适用于或不适用 Amazon EC2 实例）.
@@ -102,7 +103,7 @@
 
 ### Linux Evidence Collection
 
-* [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artefacts on live Linux and records the results in csv files.
+* [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - 适用于 Linux 的 FastIR 在实时 Linux 上收集不同的人工制品并将结果记录在 csv 文件中.
 
 ### Log Analysis Tools
 
@@ -154,7 +155,7 @@
 
 * [Cortex](https://thehive-project.org)  - Cortex 允许您使用 Web 界面逐一或以批量模式分析可观察值，例如 IP 和电子邮件地址、URL、域名、文件或哈希值. 分析师还可以使用其 REST API 自动执行这些操作.
 * [Crits](https://crits.github.io/) - 基于网络的工具，将分析引擎与网络威胁数据库相结合.
-* [Diffy](https://github.com/Netflix-Skunkworks/diffy) - 由 Netflix 的 SIRT 开发的 DFIR 工具允许调查人员在事件期间快速确定跨云实例（目前 AWS 上的 Linux 实例）的危害范围，并通过显示与基线的差异来有效地对这些实例进行分类以采取后续行动.
+* [Diffy](https://github.com/Netflix-Skunkworks/diffy) - 由 Netflix 的 SIRT 开发的 DFIR 工具，允许调查人员在事件期间快速确定跨云实例（目前 AWS 上的 Linux 实例）的危害范围，并通过显示与基线的差异来有效地对这些实例进行分类以进行后续行动.
 * [domfind](https://github.com/diogo-fernan/domfind) - 用于在不同 TLD 下查找相同域名的 Python DNS 爬虫.
 * [Fenrir](https://github.com/Neo23x0/Fenrir)  - 简单的 IOC 扫描仪. 它允许在普通 bash 中扫描任何 Linux/Unix/OSX 系统的 IOC. 由 THOR 和 LOKI 的创作者创建.
 * [Fileintel](https://github.com/keithjjones/fileintel) - 为每个文件哈希提取智能.
@@ -170,7 +171,7 @@
 * [RaQet](https://raqet.github.io/) - 非常规的远程获取和分类工具，允许对使用特意构建的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 出现问题时收集有关 MySQL 的取证数据.
 * [Scout2](https://nccgroup.github.io/Scout2/) - 安全工具，可让 Amazon Web Services 管理员评估其环境的安全状况.
-* [Stenographer](https://github.com/google/stenographer)  - 数据包捕获解决方案旨在快速将所有数据包假脱机到磁盘，然后提供对这些数据包子集的简单、快速访问. 它存储尽可能多的历史记录，管理磁盘使用情况，并在达到磁盘限制时进行删除. 它非常适合在事件发生之前和期间捕获流量，而无需明确存储所有网络流量.
+* [Stenographer](https://github.com/google/stenographer) - Packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl)  - 扩展跟踪路由以支持 CSIRT（或 CERT）运营商的活动. 通常 CSIRT 团队必须根据收到的 IP 地址处理事件. 由卢森堡计算机应急响应中心创建.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - 用于向 AV 供应商提交病毒样本的 Windows 实用程序（维护不佳或不再维护）.
 
@@ -237,4 +238,4 @@
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时 Windows 系统上的快速事件概览.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 实时磁盘取证平台，使用 PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/)  - PSRecon 使用 PowerShell（v2 或更高版本）从远程 Windows 主机收集数据，将数据组织到文件夹中，散列所有提取的数据，散列 PowerShell 和各种系统属性，并将数据发送给安全团队. 数据可以推送到共享、通过电子邮件发送或保留在本地.
-* [RegRipper](https://github.com/keydet89/RegRipper3.0) - 用 Perl 编写的开源工具，用于从注册表中提取/解析信息（键、值、数据）并将其呈现以供分析.
+* [RegRipper](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
