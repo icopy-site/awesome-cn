@@ -42,6 +42,7 @@
 - [Homebrews](#homebrews)
   - [ASM](#asm-1)
   - [C](#c-1)
+  - [GB Studio](#gb-studio) 
   - [Demos](#demos)
 - [Reverse Engineering](#reverse-engineering)
   - [Game Disassemblies](#game-disassemblies)
@@ -69,7 +70,7 @@
 > #### Game Boy Advance
 >
 &gt; Game Boy Advance 开发由另一个项目涵盖 [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) 列表.
- &gt; 但是，GBA *可以运行* GB/GBC 游戏. 与本机硬件相比，它以稍微不同的方式执行此操作：此列表的仿真器开发部分对此进行了介绍.
+ &gt; 但是，GBA *可以运行* GB/GBC 游戏. 与本机硬件相比，它以略有不同的方式执行此操作：此列表的仿真器开发部分对此进行了介绍.
 >
 > #### Game Boy Color and Super Game Boy
 >
@@ -80,7 +81,7 @@
 &gt;- 特定寄存器；
 &gt;- 特定的错误、怪癖和可利用的行为.
 >
-&gt;如果您打算为 SGB 或 GBC 开发您的软件，或者您想知道它如何在其他系统上运行，您可能想利用并适应这些差异，请查看 [Game Boy Color](#game-boy-color) 类别并查找对 GBC/CGB 和 SGB 的具体参考.
+&gt;如果您打算为 SGB 或 GBC 开发您的软件，或者您想知道它如何在其他系统上运行，您可能想利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别并查找对 GBC/CGB 和 SGB 的具体参考.
 
 
 ## Community
@@ -133,7 +134,7 @@
 - [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 - [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) - 有关 GB 相机的文档以及用于通过使用 Arduino 对其进行逆向工程的工具.
 - [Creating photo realistic images with neural networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
-- [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - 关于打印机硬件、通信协议和游戏用于实现打印功能的常用例程的深入技术文档.
+- [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - 有关打印机硬件、通信协议和游戏用于实现打印功能的常用例程的深入技术文档.
 - [Ben Heck Reverse Engineers Game Boy Printer](https://www.youtube.com/watch?v=43FfJvd-YP4) （勘误：用过的热敏纸已过期，实际可打印4种颜色）.
 - [Arduino Game Boy Printer Emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - 通过带有 Arduino 的 Game Boy Link 电缆模拟 Game Boy 打印机.
 - [Mobile Game Boy Adapter](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
@@ -154,7 +155,7 @@
 - [Game Boy Cartridges Schematics](http://www.devrs.com/gb/files/gb.html) - MBC2 和 MBC3 类型的示意图.
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) - Jeff Frohwein 的第一个原理图.
-- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) - 并解释这些 MBC bank 如何切换和控制 RAM.
+- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) - 并解释这些 MBC 银行如何切换和控制 RAM.
 - [GB Rom List](CartridgeList.csv) - 发布的每款游戏的导航表，其中包含有关其弹药筒的详细信息.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
 
@@ -292,13 +293,13 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [cart-dumper](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) - 从 Game Boy 相机保存中提取照片.
-- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
+- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - 使用逻辑分析仪嗅探 Game Boy 的 LCD.
 - [swapdump](https://github.com/sanqui/swapdump) - Game Boy flashcart 的诊断实用程序.
 - [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp 串行电缆网络项目.
 
 #### Music drivers and trackers
 
-- [DevSound](https://github.com/DevEd2/DevSound) - Sound driver embeddable in homebrews which supports pulse width manipulation, arpeggios, and multiple waveforms.
+- [DevSound](https://github.com/DevEd2/DevSound) - 可嵌入自制软件的声音驱动程序，支持脉冲宽度操作、琶音和多种波形.
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - 音乐引擎.
 - [GBT PLAYER](https://github.com/AntonioND/gbt-player) - 音乐播放器库和转换器套件.
 - [mmlgb](https://github.com/SimonLarsen/mmlgb) - Nintendo Game Boy 的 MML 解析器和 GBDK 声音驱动程序.
@@ -416,6 +417,9 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [waveform-gb](https://github.com/dannye/waveform-gb)  - 程序可视化波形通道使用的波形. 波形可自由编辑，波形回放立即更新.
 - [vectroid.gb](https://gitlab.com/BonsaiDen/vectroid.gb) - 用 gbasm 开发.
 - [PlantBoy](https://github.com/gb-archive/plantboy)
+- [Death Planet](https://makrill.itch.io/death-planet)
+- [Quartet](https://makrill.itch.io/quartet) - Game Boy (Color) 和 Super Game Boy 的益智游戏.
+- [Dangan](https://snorpung.itch.io/dangan-gb)
 
 ### C
 
@@ -426,7 +430,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Squishy the Turtle](https://github.com/cppchriscpp/SquishyTheTurtle)
 - [Quadratino](https://github.com/avivace/quadratino)
 - [Doctor How](https://github.com/elfgames/doctorhow)
-- [Super Princess' 2092 Exodus](https://github.com/Zal0/gbjam2016)
+- [Super Princess' 2092 Exodus](https://github.com/Zal0/gbjam2016) - ([ZGB engine](https://github.com/Zal0/ZGB/)).
 - [GBsnake](https://github.com/brovador/GBsnake)
 - [gb-mines](https://github.com/andreasjhkarlsson/gb-mines)
 - [oranges](http://www.atari2600land.com/gameboy/oranges.html)
@@ -436,7 +440,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Bubble Factory](https://github.com/DonaldHays/bubblefactory) - *Vanilla- SDCC（无 gbdk）.
 - [GBC Atari Boxing](https://github.com/rubfi/gbc-atari-boxing) - 适用于 Game Boy（彩色）的 Atari 2600 Boxing 克隆版.
 - [GB raycaster, Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - 以及其他一些项目.
-- [Tobu Tobu Girl](https://github.com/SimonLarsen/tobutobugirl) - Game Boy 的街机平台游戏.
+- [Tobu Tobu Girl Deluxe](https://github.com/SimonLarsen/tobutobugirl-dx) - Game Boy (Color) 的街机平台游戏.
 - [Burly Bear vs. The Mean Foxes](http://sebastianmihai.com/main.php?t=18&) ([GBC](http://sebastianmihai.com/main.php?t=55&n=Gameboy-Color-development-Burly-Bear-vs-The-Mean-Foxes-GBC-version) 港口）
 - [PostBot](https://github.com/MasterIV/PostBot)
 - [Guns & Riders](https://github.com/kanfor/gunsridersgameboy)
@@ -444,7 +448,22 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [dino-gb](https://github.com/rnegron/dino-gb) - Chrome 游戏的另一个克隆.
 - [Evoland.gb](https://github.com/flozz/evoland.gb) - Evoland 一级港口.
 - [Petris](https://github.com/bbbbbr/Petris) - 适合 Game Boy Color 的匀称宠物益智游戏（[itch.io](https://bbbbbr.itch.io/petris)).
-- [Infinity](https://github.com/gb-archive/infinity-gbc)  - 由 Affinix Software 主要在 1999 年至 2001 年间开发的 RPG.该游戏从未找到发行商，最终被取消. 最近发布了完整的源代码、开发工具和工作流程.
+- [Infinity](https://github.com/gb-archive/infinity-gbc)  - 由 Affinix Software 主要在 1999 年至 2001 年间开发的角色扮演游戏.该游戏从未找到发行商，最终被取消. 最近发布了完整的源代码、开发工具和工作流程.
+- [Black Castle](https://gbdev.gg8.se/forums/viewtopic.php?id=743) - Game Boy 的横向滚动平台游戏（[itch.io](https://user0x7f.itch.io/black-castle)).
+- [Genesis](https://gbdev.gg8.se/forums/viewtopic.php?id=674) - Game Boy 的 Shmup（[itch.io](https://user0x7f.itch.io/genesis)).
+- [Indestructo Tank!](https://antonylavelle.itch.io/indestructotank-gb)
+- [Super JetPak DX](https://pocketpixel.design/super-jetpak-dx-game-boy-rom.html)
+- [Powa!](https://aiguanachein.itch.io/powa) - Game Boy（彩色）的横向滚动平台游戏（[ZGB engine](https://github.com/Zal0/ZGB/)).
+- [Cavern](https://thegreatgallus.itch.io/cavern-mvm-9) - ([ZGB engine](https://github.com/Zal0/ZGB/)).
+- [Mona and the Witch's Hat Deluxe](https://ctneptune.itch.io/mona-and-the-witchs-hat-dx) - ([ZGB engine](https://github.com/Zal0/ZGB/)).
+- [The Bouncing Ball](https://gamejolt.com/games/the-bouncing-ball-gb/86699)
+- [DMG Deals Damage](https://drludos.itch.io/dmg-deals-damage)
+
+### GB Studio
+
+- [Soul Void](https://kadabura.itch.io/soul-void) - 互动恐怖小说.
+- [Deadeus](https://izma.itch.io/deadeus)
+- [SUPER IMPOSTOR BROS.](https://lumpytouch.itch.io/super-impostor-bros)
 
 ### Demos
 
@@ -542,7 +561,7 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 - [Game Boy Link Cable Breakout Board](https://github.com/Palmr/gb-link-cable)
 - [GBCartFlasher firmware](https://github.com/Tauwasser/GBCartFlasher)
 - [VerilogBoy](https://github.com/zephray/VerilogBoy/) - Game Boy 兼容控制台 Verilog RTL 实现.
-- [GBCamcorder](https://github.com/furrtek/GBCamcorder) - 使用 GameBoy 相机墨盒的 Lo-Fi 便携式录像机.
+- [GBCamcorder](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 - [GBCartRead](https://github.com/insidegadgets/GBCartRead) - 从/向 GameBoy Cartridge 读取 ROM、读取 RAM 或写入 RAM.
 - [GBxCart-RW](https://github.com/insidegadgets/GBxCart-RW) - 用于通过 USB 从您的 PC 读取游戏 ROM、保存游戏和恢复保存为 GB、GBC 和 GBA 购物车的设备.
 - [Dumping the Super Game Boy Boot ROM](http://www.its.caltech.edu/~costis/sgb_hack/)
@@ -569,7 +588,7 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 ### License
 
 根据 **GPLv3** 获得许可.
-See [LICENSE](LICENSE) 想要查询更多的信息.
+See [LICENSE](LICENSE) 了解更多信息.
 
 ### Acknowledgements
 

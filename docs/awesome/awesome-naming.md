@@ -69,6 +69,7 @@ Famously...
 
 - [Breadcrumb](https://en.wikipedia.org/wiki/Breadcrumb_(navigation) ) - 导航帮助，允许用户跟踪他们在程序、文档或网站中的位置. 这个词是对童话故事_Hansel and Gretel_ 的引用.
 - [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) - 一种循环播放的动画幻灯片.
+- [Clipboard](https://en.wikipedia.org/wiki/Clipboard_(computing)) - 临时放置正在使用的 _files_ 的位置（即复制和粘贴缓冲区）.
 - [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) - 用户桌面的比喻性顶部，上面可以放置诸如文档和文档文件夹之类的对象.
 - [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button)  - 用于切换菜单的按钮. 相关图标类似于汉堡包.
 - [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) - 假设昂贵操作的用户界面将成功完成，从而提高感知性能.
@@ -78,7 +79,7 @@ Famously...
 
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem)  - 在具有友谊关系的人的网络中寻找共同朋友群的问题. 或者更一般地说，找到完整的子图.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - 一个游戏世界，展示了非常简单的成分可以产生惊人的复杂性.
-- [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - 一个黑匣子，它甚至可以神奇地回答诸如停机问题之类的不可解释的问题. 
+- [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - 一个黑匣子，即使是像停机问题这样的不可解释的问题，它也能神奇地给出答案. 
 - [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - 事实上，在某些形式语言中，任何足够长的字符串都可以通过其子字符串的重复被 _pumped_，并且结果保持在相同的形式语言中.
 
 ## Other
@@ -87,7 +88,7 @@ Famously...
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - 网络/应用程序的核心部分，它显着限制了吞吐量/性能，理想情况下应该被消除.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - 名称说明其外观的不同案例样式.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - 一个隐藏的功能，特别是在与复活节彩蛋狩猎相关的视频游戏中.
-- [Floating point number](https://floating-point-gui.de/formats/fp/) - 这种表示可以通过让小数点 _float_ 而不是固定在适当的位置，以有限的数字量以非常不同的幅度编码数字.
+- [Floating point number](https://floating-point-gui.de/formats/fp/) - 这种表示可以通过让小数点 _float_ 而不是固定在适当的位置，以有限的数字量以非常不同的幅度对数字进行编码.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - 在软件架构中（如在实际架构中），框架提供了基本结构以建立在该指南的基础上并限制进一步的开发.
 - [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)) - 尝试查找和回收不再使用的垃圾内存的程序的一部分.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - 积木和乐高积木不共享相同的界面，但您始终可以将它们粘在一起.

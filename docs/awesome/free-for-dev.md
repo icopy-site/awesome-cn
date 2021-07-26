@@ -149,7 +149,7 @@
   * [Disease.sh](https://disease.sh/) — 一个免费的 API，为构建 Covid-19 相关的有用应用程序提供准确的数据.
   * [dominodatalab.com](https://www.dominodatalab.com) — 支持 Python、R、Spark、Hadoop、MATLAB 等的数据科学.
   * [dreamfactory.com](https://dreamfactory.com/)  — 用于移动、Web 和 IoT 应用程序的开源 REST API 后端. 连接任何 SQL/NoSQL 数据库、文件存储系统或外部服务，它会立即创建一个全面的 REST API 平台，其中包含实时文档、用户管理、...
-  * [Efemarai](https://efemarai.com)  - ML 模型和数据的测试和调试平台. 可视化任何计算图. 每月为开发人员提供 30 次免费调试会话.  
+  * [Efemarai](https://efemarai.com)  - ML 模型和数据的测试和调试平台. 可视化任何计算图. 每月为开发人员提供 30 次免费调试会话.
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - 免费的基于 Web 的 HTTP 客户端发送 HTTP 请求.
   * [FraudLabs Pro](https://www.fraudlabspro.com)  — 筛选信用卡支付欺诈的订单交易. 此 REST API 将根据订单的输入参数检测所有可能的欺诈特征. 免费微计划每月有 500 笔交易.
   * [FreeGeoIP.app](https://freegeoip.app/)  - 完全免费的地理 IP 信息（JSON、CSV、XML）. 无需注册，每小时 15000 次查询速率限制.
@@ -375,7 +375,7 @@
   * [codeship.com](https://codeship.com/) — 每月 100 个私有构建，5 个私有项目，开源无限制
   * [Continuous PHP](https://continuousphp.com/)  —Continuousphp 是第一个也是唯一一个以 PHP 为中心的平台，可以在同一工作流中构建、打包、测试和部署应用程序. 免费用于社区项目，即 OSS/公共/教育项目.
   * [deployhq.com](https://www.deployhq.com/) — 1 个项目，每日部署 10 次（每月 30 分钟构建）
-  * [drone](https://cloud.drone.io/) - Drone Cloud 使开发人员能够跨多个架构运行持续交付管道 - 包括 x86 和 Arm（32 位和 64 位） - 全部在一个地方
+  * [drone](https://cloud.drone.io/) - Drone Cloud 使开发人员能够跨多个架构运行持续交付管道 - 包括 x86 和 Arm（32 位和 64 位） - 都在一个地方
   * [LayerCI](https://layerci.com)  — 全栈项目的 CI.  1 个具有 5GB 内存和 3 个 CPU 的全栈预览环境.
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — 持续集成服务的比较
   * [Octopus Deploy](https://octopus.com)  - 自动化部署和发布管理.  &lt;= 10 个部署目标免费.
@@ -400,7 +400,7 @@
   * [everystep-automation.com](https://www.everystep-automation.com/) — 记录和重放在 Web 浏览器中执行的所有步骤并创建脚本，...免费，选项较少
   * [Gremlin](https://www.gremlin.com/gremlin-free-software)  — Gremlin 的 Chaos Engineering 工具可让您安全、可靠且简单地将故障注入您的系统，以在它们导致面向客户的问题之前找到弱点.  Gremlin Free 提供对最多 5 个主机或容器的关闭和 CPU 攻击的访问.
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid 测试，免费计划多达 4 个同时 selenium 节点/10 个网格启动/4,000 测试分钟/月
-  * [loadmill.com](https://www.loadmill.com/)  - 通过分析网络流量自动创建 API 和负载测试. 每月免费模拟最多 50 个并发用户最多 60 分钟.
+  * [loadmill.com](https://www.loadmill.com/) - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free every month.
   * [percy.io](https://percy.io)  - 向任何 Web 应用程序、静态站点、样式指南或组件库添加可视化测试. 无限的团队成员，演示应用程序和无限的项目，每月 5,000 个快照.
   * [reflect.run](https://reflect.run)  - 网络应用程序的无代码自动化测试. 测试可以在应用程序内安排或从 CI/CD 工具执行. 每次测试运行都包括完整的视频记录以及控制台和网络日志. 免费套餐包括无限数量的已保存测试，每月运行 25 次测试，最多 3 个用户.
   * [saucelabs.com](https://saucelabs.com/) — 跨浏览器测试、Selenium 测试和移动测试， [free for Open Source](https://saucelabs.com/open-source)
@@ -742,7 +742,7 @@
   * [appharbor.com](https://appharbor.com/) — 提供 1 个免费工作者的 .Net PaaS
   * [configure.it](https://www.configure.it/) — 移动应用开发平台，2个项目免费，功能有限但没有资源限制
   * [codenameone.com](https://www.codenameone.com/)  — 面向 Java/Kotlin 开发人员的开源、跨平台、移动应用程序开发工具链. 免费用于商业用途，项目数量不限
-  * [Deta](https://www.deta.sh)  – 免费部署无限数量的 Node.js 和 Python 应用程序，每月最多 50k 次请求. 包括免费数据库、身份验证和电子邮件.
+  * [Deta](https://www.deta.sh)  – 免费部署无限数量的 Node.js 和 Python 应用程序. 包括免费数据库、身份验证和电子邮件.
   * [dronahq.com](https://www.dronahq.com/)  — 无代码应用开发平台，企业可视化开发应用，与现有系统集成，快速构建内部应用、流程和表单. 免费计划提供 200 个任务/月、无限草稿应用程序和 1 个已发布应用程序
   * [encore.dev](https://encore.dev/)  — 使用静态分析提供自动基础设施、无样板代码等的后端框架. 包括用于业余爱好项目的免费云托管.
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir 为 Elixir/Phoenix 应用程序提供 1 个永不休眠的免费实例，以及限制为 2 个连接、10、000 行且无备份的免费层 PostgreSQL 数据库.
@@ -845,7 +845,6 @@
   * [dynu.com](https://www.dynu.com/) — 免费动态 DNS 服务
   * [fosshost.org](https://fosshost.org/) - 免费开源托管 VPS、网络、存储和镜像托管
   * [freedns.afraid.org](https://freedns.afraid.org/)  — 免费 DNS 托管. 还提供基于众多公共用户的免费子域 [contributed domains](https://freedns.afraid.org/domain/registry/) . 注册后从“子域”菜单中获取免费子域.
-  * [freenom.com](https://freenom.com/)  — 免费域名提供商. 免费获取 FQDN.
   * [luadns.com](https://www.luadns.com/) — 免费 DNS 托管，3 个域，所有功能都有合理的限制
   * [namecheap.com](https://www.namecheap.com/domains/freedns/)  — 免费 DNS. 没有域数量限制
   * [nextdns.io](https://nextdns.io) - 基于 DNS 的防火墙，每月 30 万次免费查询
@@ -1003,7 +1002,7 @@
    * [placekitten.com](https://placekitten.com/) — 一种快速简单的服务，用于获取小猫的照片以用作占位符
    * [plot.ly](https://plot.ly/)  — 绘制并共享您的数据. 免费套餐包括无限的公共文件和 10 个私人文件
    * [podio.com](https://podio.com/) — 您可以与最多 5 人的团队一起使用跑道，并尝试基本计划的功能，但用户管理除外
-   * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
+   * [QuickChart](https://quickchart.io) — 生成可嵌入的图像图表、图形和二维码
    * [redbooth.com](https://redbooth.com) — P2P 文件同步，最多 2 个用户免费
    * [shrinkray.io](https://shrinkray.io/) — GitHub 存储库的免费图像优化
    * [Storj](https://storj.io)  — 面向应用程序和开发人员的分散式私有云存储. 免费计划提供 3 个项目，每个项目/月 50 GB 存储空间，每个项目/月 50 GB 带宽.
@@ -1299,7 +1298,7 @@
 
   * [education.github.com](https://education.github.com/pack)  — 为学生收集免费服务. 需要注册
   * [eu.org](https://nic.eu.org)  — 免费 eu.org 域. 请求通常在 14 天内获得批准.
-  * [pp.ua](https://nic.ua/) — 免费 pp.ua 域名. 
+  * [pp.ua](https://nic.ua/) — 免费 pp.ua 域名.
   * [Framacloud](https://degooglisons-internet.org/en/list/) — 法国非营利组织的 Free/Libre 开源软件和 SaaS 列表 [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) — 从 GitHub 中检索所有令人惊叹的精彩内容......必看
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — 面向开发人员的免费开源软件中心.

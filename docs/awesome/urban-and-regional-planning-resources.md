@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/planning-technology-resources)
 [![GitHub license](https://img.shields.io/github/license/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/LICENSE) 
 
-This repository contains curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environement are invited to review and contribute to this repository.
+该存储库包含不同城市和区域规划数据和技术资源的精选列表. 那些对构建环境感兴趣的人被邀请审查并为这个存储库做出贡献.
 
 ---
 <!--lint disable awesome-toc-->
@@ -36,7 +36,10 @@ This repository contains curated list of different urban & regional planning dat
 
 ### Climate
 
+- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人员伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
+- [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
+- [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布. 
 
 ### Demographic
 
@@ -82,9 +85,7 @@ This repository contains curated list of different urban & regional planning dat
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
 - [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
-- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人员伤害和损失估计的统计数据.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，可识别面临 18 种自然灾害风险最大的社区.
-- [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 
 
 ### Transportation
@@ -119,7 +120,7 @@ This repository contains curated list of different urban & regional planning dat
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由 First Street Foundation 提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -150,9 +151,9 @@ This repository contains curated list of different urban & regional planning dat
 - [SharedStreets](https://www.sharedstreets.io)  - SharedStreets 参考系统是一个全球性的、非专有的线性参考系统，用于描述由 SharedStreets 维护的街道. 附加信息： [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
 - [CurbLR](https://www.curblr.org)  - SharedStreets 维护的路边法规的开放数据规范. 附加信息： [GitHub](https://www.github.com/sharedstreets/curblr), 演示：交互式 [map and example feed](https://demo.curblr.org/), 博文： [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).    
 - [GTFS](https://developers.google.com/transit/gtfs) - General Transit Feed Specification 是描述交通系统的流行标准.
-- [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
+- [shared-row](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways. 
 - [GBFS](https://github.com/NABSA/gbfs) - 共享单车通用馈送规范是共享移动系统可用性的标准化数据馈送.
-- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，可实现移动公司和地方政府之间的通信.
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、仅限公交车道、快速车道，特别是如果资源是动态定价的.
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
@@ -207,7 +208,7 @@ R 包和相关资源.
 用于将资源分类为相关组的高级类别. 例如，人口普查数据可以被视为“人口统计”. 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (Esri) 维护的地图和地理信息.
-- [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
+- [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更有效的交付路线、更好的行为营销、战略性商店布局等等.
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一种数据不可知、WebGL 授权的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
@@ -251,7 +252,7 @@ R 包和相关资源.
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业人员解决问题和通知决策者方面享有盛誉.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题和为决策者提供信息方面享有盛誉.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 
 ## Other Resources
