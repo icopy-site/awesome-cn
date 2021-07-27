@@ -29,6 +29,7 @@
   - 电子书 - PDF 和 Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
   - 有声读物 - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
   - [Spanish Translation](http://joapen.com/mapasdewardley/)  - 沃德利地图. 地形情报在商业战略中的应用.
+- [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - 一系列关于一系列主题的有用演示幻灯片.
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - 维基百科全书致力于由西蒙沃德利开创的战略映射技术.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - 维基百科条目.
@@ -54,7 +55,7 @@
 ## Maps in the Wild
 
 博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.
-- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 三思而后行.  2020 年 10 月 22 日.
+- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - 2020 年 9 月 15 日.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  - 与西蒙·沃德利的对话.  2020 年 8 月 4 日.
 - [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7)  - 以友好的方式挑战您的 Wardley 映射假设.  2020 年 8 月 2 日.
@@ -201,7 +202,7 @@
     - [Barcelona](https://www.meetup.com/en-AU/wardley-maps-strategy-meetup-group-by-aktia-solutions/) - 沃德利地图策略
   - 瑞士
     - [Basel](https://www.meetup.com/de-DE/Wardley-Mapping-Group-Switzerland/)
-  - UK
+  - 英国
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - 北美
   - 美国

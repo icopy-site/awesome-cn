@@ -91,7 +91,7 @@
 * [Numl](https://numl.design) - 基于 HTML 的语言和设计系统，可让您创建具有任何外观的响应式和可访问的高质量 Web 界面.
 * [Pure.css](http://purecss.io/) - 一组小型、响应式 CSS 模块，您可以在每个 Web 项目中使用它们.
 * [Semantic UI](http://semantic-ui.com/) - 使用人性化 HTML 的强大框架.
-* [Shorthand Framework](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
+* [Shorthand Framework](https://github.com/shorthandcss/shorthand) - 新十年功能丰富的 CSS 框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - 一个轻量级、响应式和现代的 CSS 框架.
 * [Strawberry](https://github.com/jfet97/strawberry) - 一组常见的 flexbox 实用程序，专注于使用嵌套的 flexbox 让您的生活更轻松、更快捷.
 * [Tachyons](http://tachyons.io/) - 人类的功能性 CSS.
@@ -150,7 +150,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [idiomatic CSS](https://github.com/necolas/idiomatic-css) 经过 [Nicolas Gallagher](https://twitter.com/necolas)
 * [CSS Styleguide](https://github.com/grvcoelho/css) 经过 [Guilherme Rv Coelho](https://github.com/grvcoelho)
 * [CSS Guidelines](http://cssguidelin.es/) 经过 [Harry Roberts](https://twitter.com/csswizardry)
-* [Sass Guidelines](https://sass-guidelin.es/) 经过 [Hugo Giraudel](https://twitter.com/HugoGiraudel)
+* [Sass Guidelines](https://sass-guidelin.es/) 经过 [Kitty Giraudel](https://twitter.com/KittyGiraudel)
 * [Code Guide](http://codeguide.co/) 经过 [Mark Otto](https://twitter.com/mdo)
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) 通过思考
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) 谷歌
@@ -274,9 +274,9 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) - @Autoprefixer、http://easings.net 和@PostCSS 的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5 &amp; CSS Freak 教授. 临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5 &amp; CSS Freak 教授. 临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
-* [Hugo Giraudel](https://twitter.com/HugoGiraudel) - @edenspiekermann 的 CSS goblin 和 Sass 黑客.
+* [Kitty Giraudel](https://twitter.com/KittyGiraudel) - 非二进制可访问性和多样性倡导者、前端开发人员、作者.
 * [Guy Routledge](https://twitter.com/guyroutledge) - 前端开发人员、@GA_London 教师、http://www.atozcss.com 上的 Screencaster、财产势利小人、美食家.
 * [Heydon Pickering](https://twitter.com/heydonworks)  - 适度消费大米. 还是 UX 设计师、作者、@smashingmag 编辑和程序员.
 * [Adam Morse](https://twitter.com/mrmrs_) - 倡导用户和开源.
@@ -292,7 +292,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Phil Walton](https://twitter.com/philwalton) - Google 工程师 • 开源倡导者 • 开发人员 • 设计师 • 作家.
 * [Lea Verou](https://twitter.com/LeaVerou) - 研究助理@MIT_CSAIL、@CSSWG IE、@OReillyMedia 作者、前@W3C 员工.
 * [Manoela Ilic](https://twitter.com/crnacura) - ...aka Mary Lou @codrops ༶ CSS 和 HTML 是我的蜡笔 ༶ 对认知科学、人工智能、人机交互、UI 设计和天体物理学感兴趣 ༶ 数字游牧民族.
-* [Una Kravets](https://twitter.com/Una)  - 前端@IBMDesign.  Sassvocate、社区建设者和手工艺者.  STEMinist :) 开源所有的东西.
+* [Una Kravets](https://twitter.com/Una)  - 前端@IBMDesign.  Sassvocate，社区建设者和手工艺者.  STEMinist :) 开源所有的东西.
 * [Chris Coyier](https://twitter.com/chriscoyier)  - 设计师@CodePen. 作家@Real_CSS_Tricks.
 * [Nicole Sullivan](https://twitter.com/stubbornella) - 极客.
 * [Eric Bidelman](https://twitter.com/ebidel) - 谷歌工程师，致力于 Chrome、网络组件和 Polymer.
@@ -311,7 +311,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Remy Sharp](https://twitter.com/rem) - 关于 CSS 大小单位.
 * [Jonathan Snook](https://twitter.com/snookca)  - 设计师、开发人员、作家、演讲者. 我在网上做东西. 我写了 SMACSS.
 * [Rachel Andrew](https://twitter.com/rachelandrew) - Web 开发人员，@grabaperch CMS 的一半，CSS 工作组特邀专家.
-* [Zoltán Szőgyényi](https://twitter.com/zoltanszogyenyi)  - Web 开发人员，Themesberg 的联合创始人. 我正在构建 Glass UI.
+* [Zoltán Szőgyényi](https://twitter.com/zoltanszogyenyi) - Web developer, Co-founder at Themesberg. I'm building Glass UI.
 
 <sub>[⇧ back to top](#contents)</sub>
 

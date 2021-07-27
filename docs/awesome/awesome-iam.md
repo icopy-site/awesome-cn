@@ -57,7 +57,7 @@
 
 - [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla 的安全和访问指南.
 
-- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租户漏洞和供应链漏洞）”.
+- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租赁漏洞和供应链漏洞）”.
 
 - [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于绘制服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
@@ -125,9 +125,9 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Practical Recommendations for Stronger, More Usable Passwords](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) - 本研究建议关联：针对常见泄露密码的阻止列表检查、无字符类要求的密码策略、最低强度策略.
 
-- [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/)  - “对长度和字符组成的任意下限是不好的. 它们看起来很糟糕，会导致对安全状况的负面猜测，并且会破坏密码管理器等工具.”
+- [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/)  - “对长度和字符组成的任意下限是不好的. 它们看起来很糟糕，它们会导致对安全状况的负面猜测，并且它们会破坏密码管理器等工具.”
 
-- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 使用愚蠢的密码规则羞辱网站.
+- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 用愚蠢的密码规则羞辱网站.
 
 - [Plain Text Offenders](https://plaintextoffenders.com/about/) - 公开羞辱以纯文本形式存储密码的网站.
 
@@ -183,7 +183,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
  TL; DR：不要. 有关详细信息，请参阅以下文章.
 
-- [SMS 2FA auth is deprecated by NIST](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/) - NIST 表示自 2016 年以来，通过 SMS 进行的 2FA 既糟糕又糟糕.
+- [SMS 2FA auth is deprecated by NIST](https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/) - NIST 表示，自 2016 年以来，通过 SMS 进行的 2FA 既糟糕又糟糕.
 
 - [SMS: The most popular and least secure 2FA method](https://www.allthingsauth.com/2018/02/27/sms-the-most-popular-and-least-secure-2fa-method/)
 
@@ -311,7 +311,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Policy models
 
-作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 至 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
+作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 到 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
 
 - [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/) - 最流行的授权方案类型及其历史起源的概述.
 
@@ -365,7 +365,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 分发和委派授权的聪明好奇心.
 
-- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果我得到一个 Macaroon 授权我在某些限制下执行某些操作，我可以以非交互方式构建第二个 Macaroon，并具有更严格的限制，然后我可以将其提供给您.
+- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果我得到一个 Macaroon，它授权我在某些限制下执行某些操作，我可以非交互式地构建第二个 Macaroon，并具有更严格的限制，然后我可以将其提供给您.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
@@ -429,7 +429,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 这篇论文是针对身份元系统的，它的法则在小范围内仍然提供了很好的见解，尤其是第一法则：始终允许用户控制并征求同意以赢得信任.
 
-- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  -“为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
+- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  - “为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
 
 - [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - 客户姓名匹配有很多应用，从帐户重复数据删除到欺诈监控.
 
@@ -459,7 +459,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/)  - 大量的外包分包商负责管理庞大的社交网络. 这些人面临最糟糕的情况，通常最终会患上创伤后应激障碍.
 
-- [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - 一部关于这些薪酬过低的人删除帖子和删除帐户的团队的纪录片.
+- [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - 关于这些薪酬过低人员删除帖子和删除帐户的团队的纪录片.
 
 ### Threat Intelligence
 
@@ -553,7 +553,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - 来自 Shutterstock 的亵渎阻止列表.
 
-- [`profanity-check`](https://github.com/vzhou842/profanity-check) - 使用线性 SVM 模型训练了 20 万个人类标记的干净和亵渎文本字符串的样本.
+- [`profanity-check`](https://github.com/vzhou842/profanity-check) - 使用线性 SVM 模型在 20 万个人类标记的干净和亵渎文本字符串的样本上训练.
 
 ## Privacy
 
@@ -645,11 +645,11 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - 添加到 IAM 边界的所有新功能的来源.
 
-- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 还要注意： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) 和 [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
+- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 另外值得注意的是： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) 和 [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
 
 - [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - 相关关键词： [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) 和 [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
 
-- [DigitalOcean Platform changelog](https://www.digitalocean.com/docs/platform/release-notes/)
+- [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - DO 上的所有最新帐户更新.
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws)  - 帮助理解他们庞大的服务目录. 本着同样的精神： [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 

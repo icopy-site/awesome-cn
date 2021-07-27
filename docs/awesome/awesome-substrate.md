@@ -32,7 +32,7 @@
   Parity 赞助的连锁店.
 - [`subport`](https://github.com/paritytech/subport/issues) - 支持存储库.
 - [Parity Blog](https://www.parity.io/blog/) - 了解 Substrate 生态系统的更新.
-- [Parity Events](https://www.parity.io/events/) - 接下来的活动.
+- [Parity Events](https://www.parity.io/events/) - 即将举行的活动.
 - [Twitter](https://twitter.com/substrate_io) - 关注我们以了解最新信息.
 - [Polkassembly](https://polkassembly.io/) - 讨论和投票 Kusama 和 Polkadot 的地方
   治理.
@@ -85,7 +85,7 @@
 ### Community Resources - Guides
 
 - [Build Substrate in a few minutes at a low cost](https://medium.com/@yangWao/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066) - 指导
-  使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 至
+  使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 到
   减少基板构建时间； 由 Substrate 社区成员编写 [Matej Nemček](https://medium.com/@yangWao).
 
 ## Frameworks
@@ -138,7 +138,7 @@
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - 官方 Rust 客户端.
 - [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust 客户端维护
   [Supercomputing Systems AG](https://www.scs.ch/).
-- [Polkadot-JS API](https://github.com/polkadot-js/api/) - 半官方的 JavaScript 库
+- [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for
   基于底物的链.
 - [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) - 维护者
   [Polkascan Foundation](https://polkascan.org/).
@@ -191,7 +191,7 @@
   Dockerfiles 和 GitHub Actions 为基于 Substrate 的链自动构建和推送 Docker 镜像.
 - [Halva](https://github.com/halva-suite/halva) - 用于改善体验的工具链
   在基板上开发.
-- [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - Substrate infused with
+- [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - 基板注入
   [IPFS](https://ipfs.io/).
 - [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) - 一套技术
   通过快速启动和拆除来管理由 Substrate 驱动的平行链网络.
@@ -238,6 +238,10 @@
 - [`subsee`](https://github.com/ascjones/subsee) - CLI 以 JSON 形式检查基板节点的元数据.
 - [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) -
   一种 [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改用于基板使用）.
+- [`subwasm`](https://github.com/chevdor/subwasm)  - 用于离线检查运行时 WASM blob 的 CLI. 它显示信息、元数据并可以比较运行时. 它还可以帮助您直接从节点获取运行时.
+- [`srtool`](https://github.com/paritytech/srtool) - Docker 映像以确定性地构建运行时.
+- [`srtool-cli`](https://github.com/chevdor/srtool-cli) -`srtool` Docker 镜像的 CLI 前端.
+- [`srtool-actions`](https://github.com/chevdor/srtool-actions) - Github 操作可轻松使用 `srtool` Docker 映像构建您的 onw 运行时.
 
 ### Substrate Mobile Engineering Tools / Libraries
 

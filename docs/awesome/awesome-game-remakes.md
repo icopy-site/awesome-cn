@@ -42,6 +42,7 @@
 
 ## FPS
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - 忠诚是 RTS 和 FPS 太空战斗游戏.
+- [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - 在旧机器上运行的黑桃王牌开源实现.
 - [BStone](https://github.com/bibendovsky/bstone) - Blake Stone：Aliens Of Gold 和 Blake Stone：Planet Strike 的源端口.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - 地下墓穴 3D 和地下墓穴冒险系列的 Windows 源端口.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - 极简主义、历史准确的源端口，包括异端和妖魔的端口，以及 Strife.
@@ -51,7 +52,9 @@
 - [DukeGDX](https://gitlab.com/m210/DukeGDX) - 毁灭公爵 3D 端口.
 - [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - 基于 Wolf4SDL 的德军总部 3D 端口.
 - [ezQuake](https://github.com/ezQuake/ezquake-source) - ezQuake 结合了所有现代 QuakeWorld 客户端的功能，使 QuakeWorld 更易于启动和播放.
+- [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - 在 FTEQW 引擎上运行的 Counter-Strike 1.5 的免费软件重新实现.
 - [Freedoom](https://github.com/freedoom/freedoom) - 基于经典 DOOM 引擎的免费软件 FPS.
+- [FTEQW](https://fte.triptohell.info/) - 适用于 Quake 1、QuakeWorld、Quake 2、Hexen II 和 Quake III Arena 的 FPS 引擎.
 - [GZDoom](https://github.com/coelckers/gzdoom) - 基于 DOOM 引擎的 Modder 友好的 OpenGL 和 Vulkan 源端口.
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Hexen II 游戏的跨平台移植.
 - [ioquake3](https://github.com/ioquake/ioq3) - 可用于玩 Quake 3 或制作您自己的游戏的免费软件 FPS 引擎.
@@ -66,10 +69,11 @@
 - [Tyrquake](https://github.com/libretro/tyrquake) - Tyrquake 的 Libretro 港口.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - id Software 的 Quake II 增强型客户端，专注于离线和合作游戏.
 - [vkQuake](https://github.com/Novum/vkQuake) - 使用 Vulkan 而不是 OpenGL 进行渲染的 Quake 端口.
+- [Zandronum](https://zandronum.com/)  - 多人游戏端口，基于 Skulltag，用于 Doom 和 Doom II. 还经营异端、妖术和冲突.
 
 ## Online
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - 2006 年的 Runescape 仿真服务器.
-- [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
+- [FreeSO](https://github.com/riperiperi/FreeSO) - 重新实施《模拟人生在线》，主要针对移动设备.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - 第一款 3D MMORPG，1996 年发布，2012 年开源.Meridian 59 的原始代码库.
 - [Opengate](https://sourceforge.net/projects/opengate/) - 翻拍 Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - 开源老式 RuneScape 客户端.
@@ -157,7 +161,7 @@
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - 七大王国的 GPL 版本：古代对手.
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - Firefly Studios 实施 Stronghold.
 - [VCMI](https://github.com/vcmi/vcmi) - 魔法门之英雄无敌 III 引擎.
-- [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - 魔兽争霸的 Java 重制版：兽人和人类.
+- [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - Java remake of Warcraft: Orcs & Humans.
 - [Wargus](https://github.com/Wargus/wargus) - 魔兽争霸 2 Mod，允许您使用 Stratagus 引擎玩魔兽争霸 2.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - 免费和开源的实时战略游戏.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - 重制了 1996 年的经典游戏 Z.
