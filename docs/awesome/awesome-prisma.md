@@ -53,6 +53,7 @@
 - [prisma-uml](https://github.com/emyann/prisma-uml)
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 - [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
+- [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.ovy.cloud/)
 
 ## :thinking: How Tos
 

@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
-以下是所有使用的很棒的项目、应用程序、研究、教程、课程和书籍的精选列表 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O 提供了许多有监督和无监督机器学习算法的并行实现，例如广义线性模型、梯度提升机（包括 XGBoost）、随机森林、深度神经网络（深度学习）、堆叠集成、朴素贝叶斯、Cox 比例风险、K 均值、PCA、Word2Vec，以及全自动机器学习算法（AutoML）.
+以下是所有使用的出色项目、应用程序、研究、教程、课程和书籍的精选列表 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O 提供了许多有监督和无监督机器学习算法的并行实现，例如广义线性模型、梯度提升机（包括 XGBoost）、随机森林、深度神经网络（深度学习）、堆叠集成、朴素贝叶斯、Cox 比例风险、K 均值、PCA、Word2Vec，以及全自动机器学习算法（AutoML）.
 
 [H2O.ai](http://www.h2o.ai/about/) 产生许多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 关于 H2O，但下面的列表包含由更大的 H2O 用户社区制作的精彩内容.
 
@@ -41,7 +41,7 @@
 ## Books
 
 - [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r) 拉米·克里斯平.  (2019)
-- [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451)  Alex Tellez、Max Pumperla、Michal Malohlava.  (2017)
+- [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451) 亚历克斯·泰勒兹、马克斯·普佩拉、米哈尔·马洛拉瓦.  (2017)
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh.  (2016)
 - [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X) 达伦库克.  (2016)
 - [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7) 托马斯·丁斯莫尔.  (2016)
@@ -52,6 +52,7 @@
 
 ## Research Papers
 
+- [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna、Joel Bernanke、Kakyeong Kim、Natalie Aw、Jordan D. Dworkin、Jiook Cha、Jonathan Posner (2021).
 - [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) 阿尔贝托·萨托里、毛罗·波达、埃曼纽尔·博泰里、罗伯托·帕塞拉、费迪南多·阿格雷斯塔、阿尔贝托·阿雷佐.  (2021) 
 - [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf) 沙菲乌拉·库雷希、巴楚、范妮·S·德默斯.  (2021)
 - [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321)  Nussaïbah B. Raja、Andreas Lauchstedt、John M. Pandolfi、Sun W. Kim、Ann F. Budd、Wolfgang Kiessling.  (2021)
@@ -71,12 +72,12 @@
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato、Christophe Dutang 和 Leonardo Petrini.  (2018)
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940) 尤里·科丘拉、谢尔吉·斯蒂连科、尤里·戈尔迪延科.  (2017)
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) 安德烈斯·阿雷瓦洛、海梅·尼诺、德国人埃尔南德斯、哈维尔·桑多瓦尔、迭戈·莱昂、阿尔贝·阿拉贡.  (2017)
-- [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407)  Jacob W. Kamminga、Helena C. Bisby、Duc V. Le、Nirvana Meratnia、Paul JM Havea.  (2017)
+- [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407) Jacob W. Kamminga, Helena C. Bisby, Duc V. Le, Nirvana Meratnia, Paul J. M. Havinga. (2017)
 - [Soil nutrient maps of Sub-Saharan Africa: assessment of soil nutrient content at 250 m spatial resolution using machine learning](https://link.springer.com/content/pdf/10.1007%2Fs10705-017-9870-x.pdf)  Tomislav Hengl、Johan GB Leenaars、Keith D. Shepherd、Markus G. Walsh、Gerard BM Heuvelink、Tekalign Mamo、Helina Tilahun、Ezra Berkhout、Matthew Cooper、Eric Fegraus、Ichsani Wheeler、Nketia A. Kwabena.  (2017)
 - [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf) Kara E. Rudolph, Oleg Sofrygin, Wenjing Zheng, and Mark J. van der Laan. (2017)
 - [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641) 文森特·多瑞、詹妮弗·希尔、乌里·沙利特、马克·斯科特、丹·塞沃内.  (2017)
 - [Using deep learning to predict the mortality of leukemia patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf) 瑞娜·肖·穆塔拉利.  (2017)
-- [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable) 劳拉·阿西翁、戴安娜·凯尔曼斯基、马克·范德兰、伊桑·萨克、德肖纳·琼斯、斯蒂芬·阿恩德.  (2017)
+- [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable) 劳拉·艾西翁、戴安娜·凯尔曼斯基、马克·范德兰、伊桑·萨克、德肖纳·琼斯、斯蒂芬·阿恩德.  (2017)
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf) 詹尼斯·蒂曼、约翰内斯·皮尔曼、克里斯蒂安·维特菲尔德.  (2017)
 - [Inferring passenger types from commuter eigentravel matrices](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)  Erika Fille T. Legara，克里斯托弗 P. 蒙特罗拉.  (2017)
 - [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657) 克里斯托弗·克劳斯、宣英道、尼古拉斯·哈克布.  (2016)
