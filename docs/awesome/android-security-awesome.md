@@ -16,7 +16,7 @@
 11. [Fraunhofer App-ray](http://app-ray.co/) - 不是免费
 12. [AppCritique](https://appcritique.boozallen.com) - 上传您的 Android APK 并接收全面的免费安全评估.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  - 用于移动应用安全测试 Android 和 iOS 移动应用的企业工具. 实验室自动化功能在云中的真实设备上进行动态和静态分析，可在几分钟内返回结果. 不免费
-14. [AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 的产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).
+14. [AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 一种产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).
 15. [App Detonator](https://appdetonator.run/)  - 引爆 APK 二进制文件以提供源代码级别的详细信息，包括应用程序作者、签名、构建和清单信息.  3 分析/天免费配额.
 16. [BitBaan](https://malab.bitbaan.com/)
 17. [Pithus](https://beta.pithus.org/)  - 开源 APK 分析器. 目前仍处于 Beta 阶段，目前仅限于静态分析. 可以使用 Yara 规则来捕获恶意软件. 更多 [here](https://beta.pithus.org/about/).
@@ -88,7 +88,7 @@
 6. [Droidbox](https://github.com/pjlantz/droidbox)
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - 相当于进行基于 Stub 的代码注入，但没有对二进制文件进行任何修改
-12. [Inspeckage](https://github.com/ac-pm/Inspeckage)  - Android Package Inspector - 使用 api 钩子进行动态分析，启动未导出的活动等等.  （已放置模块）
+12. [Inspeckage](https://github.com/ac-pm/Inspeckage)  - Android Package Inspector - 使用 api 钩子进行动态分析，启动未导出的活动等等.  （Xposed 模块）
 13. [Android Hooker](https://github.com/AndroidHooker/hooker) - 动态 Java 代码检测（需要 Substrate 框架）
 14. [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - 动态 Java 代码检测
 15. [Android Tamer](https://androidtamer.com/) - 适用于 Android 安全专家的虚拟/实时平台
@@ -108,9 +108,9 @@
 30. [Taintdroid](http://appanalysis.org) - 需要 AOSP 编译
 31. [ARTist](https://artist.cispa.saarland)  - 一个灵活的开源工具和混合分析框架，适用于 Android 应用程序和 Android 的 java 中间件. 它基于 Android 运行时 (ART) 编译器并在设备编译期间修改代码.
 32. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
-33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool)  - 从 Android APK 中提取静态和动态特征的工具. 它结合了不同的知名 Android 应用分析工具，如 DroidBox、FlowDroid、Strace、AndroGuard 或 VirusTotal 分析.
+33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool)  - 从 Android APK 中提取静态和动态特征的工具. 它结合了不同的知名安卓应用分析工具，如 DroidBox、FlowDroid、Strace、AndroGuard 或 VirusTotal 分析.
 34. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - 是一个强大的网络界面，可帮助您在运行时操作 Android 和 iOS 应用程序
-35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API Monitor）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
+35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API 监视器）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
 3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux 发行版) 早些时候它曾经是一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（安卓逆向工程）不再处于积极开发中~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -152,10 +152,11 @@
 35. [Noia](https://github.com/0x742/noia) - 简单的安卓应用沙盒文件浏览器工具
 36. [Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk 是一种模块化 Python 工具，用于在不需要源代码的情况下混淆 Android 应用程序.
 37. [ARMANDroid](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND（Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection）是一种新颖的防篡改保护方案，将逻辑炸弹和AT检测节点直接嵌入到apk文件中，无需源代码.
-36. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java反编译器~~
-34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
-35. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
-36. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex 到 .class 转换器~~
+38. [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) - 一系列实用程序，用于简化和自动化收集取证痕迹的过程，有助于识别 Android 和 iOS 设备的潜在危害
+39. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java反编译器~~
+40. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
+41. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
+42. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex 到 .class 转换器~~
 
 ### Fuzz Testing
 
@@ -263,4 +264,4 @@
 
 ## Contributing
 
-永远欢迎您的贡献！
+随时欢迎您的贡献！

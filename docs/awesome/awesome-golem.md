@@ -158,11 +158,11 @@
 ### GitHub Digest Blog Series
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - 了解 Golem 存储库.
-- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - 潜入魔像储存库.
+- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - 潜入魔像库.
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.
 - [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - 深入 Golem alpha 测试网.
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - Golem 的 SGX 概念验证.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - 新交所 Golem 的概念验证.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Golem 市场的去中心化.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - 很棒的魔像和 Alpha 3 的后续步骤.
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD 提供商支持、网络指标和改进的提案处理.
@@ -170,6 +170,7 @@
 - [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - 简单的日志收集.
 - [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - 我们正在主网上线并收集反馈.
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - 在 Golem 社区的帮助下进步更快.
+- [Golem GitHub Digest #14](https://blog.golemproject.net/golem-github-digest-14/) - 面向下一个主要版本.
 
 ## Community
 

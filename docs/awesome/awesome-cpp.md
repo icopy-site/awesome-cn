@@ -101,7 +101,7 @@
 * [SoLoud](https://github.com/jarikomppa/soloud)  - 简单、便携的游戏音频引擎.  [zlib]
 * [Speex](http://www.speex.org/)  - 用于言论自由的免费编解码器. 被 Opus 淘汰.  [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic)  - 简单高效的 C++ 音频合成.  [未授权]
-* [Vorbis](http://xiph.org/vorbis/)  - Ogg Vorbis 是一种完全开放、非专有、无专利和版税的通用压缩音频格式.  [BSD]
+* [Vorbis](http://xiph.org/vorbis/)  - Ogg Vorbis 是一种完全开放、非专有、无专利和免版税的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  - 公共域、仅标头的 MP3 解码器，具有无尘室实现.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  - Verovio 是一个快速轻便的乐谱雕刻库.  [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，并使用 ArrayFire 张量库和手电筒机器学习库以获得最大效率 [BSD]
@@ -129,7 +129,7 @@
 * [d-SEAMS](https://github.com/d-SEAMS/seams-core)  - 带有 Nix 的 C++ 和 Lua 分子动力学轨迹分析引擎. 它是分子模拟的延迟结构解析分析的首字母缩写词.  [通用公共许可证] [website](https://dseams.info)
 * [gromacs](https://github.com/gromacs/gromacs)  - 消息传递并行分子动力学实现.  [通用公共许可证] [website](http://www.gromacs.org)
 * [Reaktoro](https://github.com/reaktoro/reaktoro)  - 用于模拟化学反应系统的 C++ 和 Python 计算框架.  [LGPL] [website](https://reaktoro.org)
-* [LAMMPS](https://github.com/lammps/lammps)  - 专注于材料建模的经典分子动力学代码. 它是 Large-scale Atomic/Molecular Massively Parallel Simulator 的首字母缩写词.  [通用公共许可证] [website](https://lammps.sandia.gov/)
+* [LAMMPS](https://github.com/lammps/lammps)  - 专注于材料建模的经典分子动力学代码. 它是大规模原子/分子大规模并行模拟器的首字母缩写词.  [通用公共许可证] [website](https://lammps.sandia.gov/)
 
 ## CLI
 *控制台/终端用户界面，命令行界面*
@@ -305,7 +305,7 @@
 * [SOCI](https://github.com/SOCI/soci)  - C++ 的数据库抽象层.  [BSL-1.0]
 * [SQLite](http://www.sqlite.org/)  - 一个完全嵌入的、功能齐全的关系数据库，大小为 100k，您可以将其直接包含到您的项目中.  [公共区域]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)  - SQLiteC++ (SQLiteCpp) 是一个智能且易于使用的 C++ SQLite3 包装器.  [麻省理工学院]
-* [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)  - 仅标头 C++14 围绕 sqlite 库的包装器.  [麻省理工学院]
+* [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)  - 仅标头 C++14 包装围绕 sqlite 库.  [麻省理工学院]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)  - 用于现代 C++ 的 SQLite ORM 光标头库.  [BSD-3-条款]
 * [sqlpp11](https://github.com/rbock/sqlpp11)  - 一种类型安全的嵌入式领域特定语言，用于 SQL 查询和 C++ 中的结果.  [BSD-2-条款]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)  - 快速密集和稀疏多维数组 DBMS.  [麻省理工学院] [website](https://tiledb.io/)
@@ -336,7 +336,7 @@
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆可用于跟踪内存错误.  [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试. [GPL2]
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - 在 C++ 中跟踪内存分配.
-* [microprofile](https://github.com/jonasmr/microprofile)  - 具有用于多个平台的 Web 视图的分析器.  [未授权]
+* [microprofile](https://github.com/jonasmr/microprofile)  - 具有适用于多个平台的 Web 视图的分析器.  [未授权]
 * [MinUnit](https://github.com/siu/minunit)  - C 的最小单元测试框架，包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ 接缝和模拟对象的 Eclipse CDT 插件.
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)  - 一个简单的低开销跨平台计时器类，用于基准测试.  [zLib] [website](http://www.plflib.org/nanotimer.htm)
@@ -380,7 +380,7 @@
 * [Spring](https://github.com/spring/spring)  - 强大的免费跨平台 RTS 游戏引擎.  [GPLv2/GPLv3] [website](https://springrts.com/)
 * [Torque2D](https://github.com/GarageGames/Torque2D)  - 为 2D 游戏开发而构建的开源和跨平台 C++ 引擎.  [麻省理工学院] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D)  - 为 3D 游戏开发而构建的开源 C++ 引擎.  [麻省理工学院] [website](https://www.garagegames.com/products/torque-3d)
-* [toy engine](https://github.com/hugoam/toy) - toy 是一个轻薄的模块化 C++ 游戏引擎，提供简单的、富有表现力的 C++ 习语，以快速迭代设计全功能的 2D 或 3D 游戏.
+* [toy engine](https://github.com/hugoam/toy) - toy 是一个轻薄的模块化 C++ 游戏引擎，提供简单的、富有表现力的 C++ 习语，以快速迭代设计全功能 2D 或 3D 游戏.
 * [Urho3D](https://urho3d.github.io/)  - 用 C++ 实现的免费轻量级跨平台 2D 和 3D 游戏引擎. 受到 OGRE 和 Horde3D 的极大启发.  [麻省理工学院]
 
 ## GUI
@@ -396,7 +396,7 @@
 * [imgui](https://github.com/ocornut/imgui)  - 具有最小依赖性的即时模式图形用户界面.  [麻省理工学院]
 * [implot](https://github.com/epezent/implot)  - imgui 的立即模式绘图小部件.  [麻省理工学院]
 * [iup](https://www.tecgraf.puc-rio.br/iup)  - 用于构建图形用户界面的多平台工具包.  [麻省理工学院]
-* [libui](https://github.com/andlabs/libui)  - 简单且可移植（但并非不灵活）的 C 语言 GUI 库，它使用其支持的每个平台的本机 GUI 技术.  [麻省理工学院]
+* [libui](https://github.com/andlabs/libui)  - 简单且可移植（但不是不灵活）的 C 语言 GUI 库，它使用它支持的每个平台的本机 GUI 技术.  [麻省理工学院]
 * [MyGUI](http://mygui.info/)  - 快速、灵活和简单的 GUI.  [麻省理工学院]
 * [nana](http://nanapro.org/en-us/)  - Nana 是一个跨平台的库，用于现代 C++ 风格的 GUI 编程.  [促进]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui)  - 适用于 OpenGL 3.x 或更高版本的简约跨平台小部件库.  [BSD]
@@ -599,7 +599,7 @@
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  - 用于解析和评估字符串中的数学表达式的 AC 库.  [zlib]
 * [Vc](https://github.com/VcDevel/Vc)  - C++ 的 SIMD 向量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 几何代数的（快速）通用 C++ 库，包括欧几里得、投影、共形、时空（等）.
-* [Wykobi](http://www.wykobi.com/)  - 一个高效、健壮且易于使用的 C++ 2D/3D 面向计算几何例程的 C++ 库.  [麻省理工学院]
+* [Wykobi](http://www.wykobi.com/)  - 一个高效、健壮且易于使用的 C++ 面向 2D/3D 的计算几何例程的 C++ 库.  [麻省理工学院]
 * [xtensor](https://github.com/xtensor-stack/xtensor)  - 受 NumPy 语法启发，用于使用多维数组表达式进行数值分析的 C++14 库.  [BSD 3 条款] [website](https://xtensor-stack.github.io/xtensor)
 
 ## Memory Allocation
@@ -696,7 +696,7 @@
 
 * [Box2D](https://github.com/erincatto/Box2D)  - 用于游戏的 2D 物理引擎.  [类BSD]
 * [Bullet](https://github.com/bulletphysics/bullet3)  - 游戏的 3D 物理引擎.  [zlib] [website](http://bulletphysics.org)
-* [Chipmunk](https://github.com/slembcke/Chipmunk2D)  - 一个快速轻量级的 2D 游戏物理库.  [麻省理工学院] [website](https://chipmunk-physics.net/)
+* [Chipmunk](https://github.com/slembcke/Chipmunk2D)  - 快速轻量级的 2D 游戏物理库.  [麻省理工学院] [website](https://chipmunk-physics.net/)
 * [LiquidFun](https://github.com/google/liquidfun)  - 用于游戏的 2D 物理引擎.  [类BSD]
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics)  - 用于实时模拟物理环境的集成解决方案.  [zlib]
 * [ODE](http://www.ode.org/)  - 开放动力学引擎 - 用于模拟刚体动力学的开源高性能库.  [BSD&amp;LGPL]
@@ -840,7 +840,7 @@
 * [Wt](http://www.webtoolkit.eu/wt)  - 用于开发 Web 应用程序的 C++ 库.  [GPL/商业]
 
 ## XML
- *XML 是废话. 真的. 没有任何借口.  XML 很难为人类解析，即使对计算机解析也是一场灾难. 这种可怕的垃圾没有存在的理由.  - 莱纳斯·托瓦兹*
+ *XML 是废话. 真的. 没有任何借口.  XML 很难为人类解析，即使对于计算机解析也是一场灾难. 这种可怕的垃圾没有存在的理由.  - 莱纳斯·托瓦兹*
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
 * [Expat](http://www.libexpat.org/) - 用 C 编写的 XML 解析器库. [麻省理工学院]
@@ -901,7 +901,7 @@
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) 左值、右值等的 PDF 备忘单.  [Jank copyleft]
 * [VarTypes](https://github.com/szi/vartypes)  - 一个功能丰富、面向对象的框架，用于在 C++/Qt4 中管理变量.  [LGPL]
 * [ZBar](http://zbar.sourceforge.net/)  - 条码扫描器库，允许扫描照片/图像/视频流以获取条码并返回其值.  [LGPL2]
-* [ZXing](https://github.com/zxing/zxing/)  - 一个开源的、多格式的一维/二维条码图像处理库，用 Java 实现，具有其他语言的端口.  [阿帕奇]
+* [ZXing](https://github.com/zxing/zxing/)  - 一个开源的、多格式的一维/二维条码图像处理库，用 Java 实现，可移植到其他语言.  [阿帕奇]
 * [pprint](https://github.com/p-ranav/pprint)  - 现代 C++ 的漂亮打印机.  [麻省理工学院]
 
 ## Software
@@ -911,7 +911,7 @@
 *C 或 C++ 编译器列表*
 
 * [8cc](https://github.com/rui314/8cc) - 小型 C 编译器.
-* [c](https://github.com/ryanmjacobs/c)  - 一口气编译并执行C“脚本”！  [麻省理工学院]
+* [c](https://github.com/ryanmjacobs/c)  - 一口气编译和执行C“脚本”！  [麻省理工学院]
 * [Clang](http://clang.llvm.org/)  - LLVM 的 AC 编译器. 支持 C++11/14/1z C11. 由 LLVM 团队开发.  [国家安全局]
 * [GCC](https://gcc.gnu.org/)  - GNU 编译器集合. 支持 C++11/14/1z C11 和 OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)  - 一个非常古老的 C 编译器. 支持 C99.
@@ -925,6 +925,7 @@
 ## Online Compiler
 *在线 C 或 C++ 编译器列表*
 
+* [codechef](https://www.codechef.com/ide) - 一个简单的在线编译器 CodeChef.
 * [codepad](http://codepad.org/) - 一个在线编译器/解释器，以及一个简单的协作工具.
 * [coliru](http://coliru.stacked-crooked.com/) - 支持各种 C++ 编译器的在线编译器/shell.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有可用汇编输出的交互式编译器.
@@ -933,7 +934,7 @@
 * [repl.it](https://repl.it) - 一个强大而简单的工具和平台，适用于教育者、学习者和开发者.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多个编译器（Clang、GCC、MSVC）和多个编辑器.
 * [Try It Online](https://tio.run/) - TIO 是一个在线解释器家族，适用于越来越多的实用和娱乐编程语言.
-* [Wandbox](http://melpon.org/wandbox/) - 具有 Boost 的在线 Clang/GCC 编译器.
+* [Wandbox](http://melpon.org/wandbox/) - 带有 Boost 的在线 Clang/GCC 编译器.
 * [paiza.io](https://paiza.io/en) - 具有多个文件支持功能、Github(gist) 集成和协作编辑的在线 C/C++ 编译器.
 
 ## Debugger

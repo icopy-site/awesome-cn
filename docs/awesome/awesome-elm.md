@@ -39,7 +39,7 @@
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Elm 和数据的初学者课程
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - 一本关于开发 Elm 应用程序的实践方面的非初学者书籍.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - 收集 Elm 与 Haskell 不同之处的示例，针对来自 Haskell 背景的 Elm 初学者.
-* [A nice app on Elm street](https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street) - 榆树简介
+* [A nice app on Elm street](https://madewithlove.com/blog/software-engineering/using-elm-with-react-a-nice-app-on-elm-street/) - 榆树简介
 * [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) 构建 Web 应用程序 [F#](https://dotnet.microsoft.com/languages/fsharp) 从第一原则遵循榆树架构. 
 * [Elm patterns](https://sporto.github.io/elm-patterns/) - 编码模式的集合.
 * [Codings hints](https://github.com/elm/compiler/tree/master/hints) - Evan 的自述文件列表.
@@ -111,7 +111,7 @@
 ### Miscellaneous videos
 
 * [Dillon Kearns: Types Without Borders | 2018](https://www.youtube.com/watch?v=memIRXFSNkU) - elm-conf 2018 讨论使用 GraphQL 等外部模式的端到端类型安全.
-* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) - 在 React.js Conf 2016 上发表的关于 Elm 必须教授 JavaScript 世界的内容以及为什么 JS 开发人员应该考虑尝试它的演讲.
+* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) - 在 React.js Conf 2016 上发表的关于 Elm 必须教授 JavaScript 世界以及为什么 JS 开发人员应该考虑尝试它的演讲.
 * [Richard Feldman: Introduction to Elm | 2016](https://www.youtube.com/watch?v=3_M2G9U51GA) - 对 Elm 进行广泛、高级别的介绍的演讲.
 * [Amitai Burstein: Frontend with Guarantees | 2016](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - 来自 You Gotta Love Frontend 2016 的演讲
 * [Jessica Kerr: Adventures in Elm | 2016](https://www.youtube.com/watch?v=cgXhMc8M4X4) - 在 2016 年芝加哥 GOTO 大会上谈论函数式编程与 Elm 的结合.
@@ -452,7 +452,7 @@
 
 ## Who to follow
 
- *关注免费更新. 用 [#elmlang](https://twitter.com/search?q=%23elmlang) 或者 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *关注免费更新. 采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---
@@ -465,7 +465,7 @@
 
 *发现其他非常棒的列表.*
 
-真棒榆树只是真棒事物的一部分，在这里获得更多：
+令人敬畏的榆树只是令人敬畏的东西的一部分，在此处获取更多信息：
 
 -<a href="https://github.com/sindresorhus/awesome" target="_blank">真棒</a> [**@sindresorhus**](https://github.com/sindresorhus)
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)

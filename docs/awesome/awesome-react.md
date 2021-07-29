@@ -167,9 +167,10 @@
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adob​​e 的库和工具集合，可帮助您构建适应性强、可访问且强大的用户体验
 - [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI 组件
 - [react-bulma-components](https://github.com/couds/react-bulma-components) - Bulma 框架的反应组件
-- [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+- [react-bulma](https://github.com/kulakowka/react-bulma) - 基于 Flexbox 的现代 CSS 框架的 React.js 组件
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React 组件，Bulma 之子，用 TypeScript 实现
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - 使用您的 Bumbag 构建可访问且可主题化的 React 应用程序
+- [Mantine](https://github.com/mantinedev/mantine) – 一个功能齐全的 React 库，包含 100 多个钩子和组件，支持原生深色主题
 
 ##### React Awesome Components
 
@@ -233,7 +234,7 @@
 ##### React Libraries
 
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - 用于在 React 中沿 div 边框放置元素的包装器.
-- [react-magic](https://github.com/reactjs/react-magic) - 使用 React 的强大功能自动 AJAX 化纯 HTML
+- [react-magic](https://github.com/reactjs/react-magic) - 借助 React 的强大功能自动 AJAX 化纯 HTML
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - 一组实现谷歌材料设计规范的 React 组件
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - 允许您检查 React 组件的所有道具的库
 - [react-responsive](https://github.com/wearefractal/react-responsive) - 响应式设计中的媒体查询
@@ -355,7 +356,7 @@
 - [unform](https://github.com/Rocketseat/unform) - 以性能为中心的 React 表单 API
 - [formily](https://github.com/alibaba/formily) - 阿里巴巴集团统一表格解决方案
 - [uniforms](https://github.com/vazco/uniforms) - 用于从任何模式构建表单的 React 库
-- [formsy-react](https://github.com/formsy/formsy-react/) - React 的表单输入构建器和验证器
+- [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
 - [react-formal](https://github.com/jquense/react-formal) - 用于 React 的复杂 HTML 表单管理
 
 ##### Autocomplete
