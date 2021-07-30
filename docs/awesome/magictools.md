@@ -33,7 +33,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [Blender 3D models](https://www.blender-models.com/) - 3D 模型、粒子系统/效果
 - :money_with_wings: [CGTextures](http://www.textures.com) - 大量纹理.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发商与才华横溢的资产创造者联系起来.
-- ：自由： [Games-Icons Set](http://game-icons.net/) - 游戏的免费图标.
+- ：自由： [Games-Icons Set](http://game-icons.net/) - 您的游戏的免费图标.
 - ：自由： [Iconmonstr](http://iconmonstr.com/) - 另一个免费的游戏图标资源.
 - :money_with_wings: [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 - ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) - OpenGameArt 论坛举办的 Liberated Pixel Cup (LPC) 的免费图形资产
@@ -47,7 +47,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [Sketchfab](https://sketchfab.com/) - 发布和嵌入交互式 3D 模型.
 - ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - 一组静态和动画图形对象（通常也称为精灵）.
 - ：自由： [StickyPNG](http://www.stickpng.com/) - 免费透明的 PNG 图像.
-- ：自由： [TextureHaven](https://texturehaven.com/)  - 带有额外贴图的免费纹理，如置换贴图和凹凸贴图. 还有 HDRI.
+- ：自由： [TextureHaven](https://texturehaven.com/)  - 带有额外贴图（如置换贴图和凹凸贴图）的免费纹理. 还有 HDRI.
 - ：自由： [TextureKing](http://www.textureking.com/) - 免费材料库存纹理
 - :money_with_wings: [Vecteezy](http://www.vecteezy.com/) - 免费矢量艺术.
 
@@ -60,7 +60,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [ShoeBox](http://renderhjs.net/shoebox/) - 基于 Adob​​e Air 的应用程序，带有游戏和用户界面相关工具.
 -： 然后： [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - 将多个图像组合成一个精灵表并生成它的 txt 地图.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - 很棒的 spritesheet 创建编辑器.
--： 然后： [Tilesplit](https://github.com/AlexPoulsen/tilesplit)  - 基于 CLI 文本的 tilesheet 拆分器和命名器. 将 spritesheet 转换为许多带有您选择的名称的单独文件，或者如果您不在乎，则不选择. 支持大小不一的模板和纹理.
+-： 然后： [Tilesplit](https://github.com/AlexPoulsen/tilesplit)  - 基于 CLI 文本的 tilesheet 拆分器和命名器. 将 spritesheet 转换为许多带有您选择的名称的单独文件，如果您不在乎，也可以不选择. 支持大小不一的模板和纹理.
 
 #### Bitmap Compression
 
@@ -77,7 +77,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：钱袋子： [FilterForge](https://www.filterforge.com/) - Adob​​e Photoshop 插件，可让您构建自己的滤镜.
 - ：自由： [Live Normal](https://tenebrislab.github.io/livenormal/)  - 一个 Android 和 iOS 应用程序，用于在旅途中生成无缝材料. 你拍一张照片，Live Normal 会创建一个可平铺的纹理，并为你选择的 PBR 引擎生成纹理贴图.
 - ：钱袋子： [PixPlant](http://www.pixplant.com/) - PixPlant 是一款智能 3D 纹理工具，可从照片创建高质量的法线、置换、高光贴图和无缝纹理.
-- ：钱袋子： [STG](http://www.seamlesstexturegenerator.com/) - 一种工具，可快速轻松地从照片中创建专业的无缝平铺纹理.
+- ：钱袋子： [STG](http://www.seamlesstexturegenerator.com/) - 一种用于快速轻松地从照片创建专业的无缝平铺纹理的工具.
 
 #### Character Generators
 
@@ -96,20 +96,20 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 #### Animation
 
 - ：钱袋子： [Fusion Character Animator](http://loopengo.free.fr/) - Clickteam Fusion 2.5 的小工具，方便开发人员制作 2D 角色精灵的动画.
-- ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 致力于 2D 动画，提供高效的工作流程来创建令人惊叹的动画并将其集成到您的游戏中.
+- ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 致力于 2D 动画，提供高效的工作流程，用于创建令人惊叹的动画并将其集成到您的游戏中.
 - ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 用于精灵动画的现代工具.
--： 然后： [DragonBones](http://dragonbones.com) - Flash 的开源 2D 骨架动画解决方案
--： 然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF 是一个动画引擎，可以播放由 HTML5、Unity、Cocos2d-x、iOS UIKit 等格式的 FLASH 内容转换而来的动画数据.
+-： 然后： [DragonBones](http://dragonbones.com) - 用于 Flash 的开源 2D 骨架动画解决方案
+-： 然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF 是一个动画引擎，可以播放从 HTML5、Unity、Cocos2d-x、iOS UIKit 等中的 FLASH 内容转换而来的动画数据.
 - ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 用于自动装配和 3D 人形模型动画的工具，
 
 #### Vector/Image Editor
 
 - ：钱袋子： [Affinity Designer](https://affinity.serif.com/de/designer) - 具有一系列功能的矢量图形编辑器，还支持 Adob​​e 文件格式
-- ：钱袋子： [Affinity Photo](https://affinity.serif.com/de/photo) - 与 Adob​​e 文件格式和 Affinity Designer 一起使用的照片和光栅图形编辑器
+- ：钱袋子： [Affinity Photo](https://affinity.serif.com/de/photo) - 可与 Adob​​e 文件格式和 Affinity Designer 配合使用的照片和光栅图形编辑器
 - :money_with_wings: [Aseprite](http://www.aseprite.org/) - 动画精灵编辑器和像素艺术工具.
 -： 然后： [Gimp](http://www.gimp.org/)  - GNU 图像处理程序. 它是一款免费分发的软件，用于照片修饰、图像合成和图像创作等任务.
 -： 然后： [Inkscape](https://inkscape.org/en/) - 类似于 Adob​​e Illustrator、Corel Draw、Freehand 或 Xara X 的开源矢量图形编辑器.
--： 然后： [Krita](https://krita.org/)  - Krita 是一个专业的免费开源绘画程序. 它是由希望为每个人看到负担得起的艺术工具的艺术家制作的.
+-： 然后： [Krita](https://krita.org/)  - Krita 是一个专业的免费开源绘画程序. 它是由想要为每个人看到负担得起的艺术工具的艺术家制作的.
 -： 然后： [LibreSprite](https://libresprite.github.io/) - LibreSprite 是 Aseprite 的开源分支.
 - ：自由： [Multipaint](http://multipaint.kameli.net) - 跨平台（Win、Linux、Mac）图像编辑器/画家，涵盖了 8 位机器（如 C64、ZX Spectrum 等）的颜色限制
 - ：钱袋子： [Ormr](http://thebloomapp.com) - Ormr 是一个快速、轻量级、跨平台的程序图形编辑器.
@@ -117,7 +117,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：钱袋子： [Pickle](http://www.pickleeditor.com/) - 另一个像素艺术编辑器.
 -： 然后： [PiskelApp](http://www.piskelapp.com/) - 免费的在线像素艺术和动画精灵工具.
 - [Pixelmator](http://www.pixelmator.com) - 适用于 Mac 的全功能图像编辑应用程序
-- ：钱袋子： [Pixen](https://github.com/Pixen/Pixen) - OSX 的像素艺术编辑器
+- ：钱袋子： [Pixen](https://github.com/Pixen/Pixen) - OSX 像素艺术编辑器
 - ：自由： [project one](http://p1.untergrund.net)  - Commodore 64 的图片转换器和编辑器，涵盖了这台计算机的不同图形模式. 仅限 Windows
 - ：钱袋子： [PXL8](http://www.pxl8.it) - 正在开发的跨平台（Windows、Mac、Linux）像素艺术编辑器，旨在消除干扰
 - ：钱袋子： [PyxelEdit](http://pyxeledit.com/) - 像素艺术编辑器旨在让制作图块集、关卡和动画变得有趣和容易.
@@ -146,7 +146,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - 快速直观地创建高质量、逼真的地形
 -： 然后： [DEM Net Elevation API](https://elevationapi.com) - 从真实数据生成实时 3D 纹理地形 - 导出高度/法线贴图、glTF、OBJ、STL
 -： 然后： [Fracplanet](https://sourceforge.net/projects/fracplanet/) - 分形行星和地形生成器
-- ：钱袋子： [World Creator](https://www.world-creator.com/)  - 在GPU上实时生成程序地形和景观，模拟侵蚀和沉积物，漂亮的编辑器. 多得多
+- ：钱袋子： [World Creator](https://www.world-creator.com/)  - GPU 上的程序地形和景观实时生成，侵蚀和沉积物的模拟，漂亮的编辑器. 多得多
 - ：钱袋子： [World Machine](http://www.world-machine.com/) - 程序地形创建、自然模拟和交互式编辑
 
 #### Voxel Editors
@@ -171,7 +171,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Babylon.js](https://www.babylonjs.com/) - Javascript 3D 库.
 -： 然后： [Bevy](https://bevyengine.org/) - 一个用 Rust 构建的令人耳目一新的简单数据驱动游戏引擎
 -： 然后： [bgfx](https://github.com/bkaradzic/bgfx) - 跨平台、图形 API 不可知、“自带引擎/框架”风格的渲染库.
--： 然后： [bitsy](https://ledoux.itch.io/bitsy)  - 小游戏或世界的小编辑器. 目标是让您可以轻松制作游戏，让您可以四处走动，与人交谈并在某个地方.
+-： 然后： [bitsy](https://ledoux.itch.io/bitsy)  - 小游戏或世界的小编辑器. 目标是让您可以轻松制作游戏，您可以四处走动，与人交谈并在某个地方.
 -： 然后： [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - 经典的点击式冒险游戏引擎和编辑器.
 - :money_with_wings: [Blend4Web](http://www.blend4web.com/) - 用于在 Web 浏览器中创建和显示交互式 3D 计算机图形的 Javascript 框架.
 -： 然后： [Blitz3D](https://github.com/blitz-research/blitz3d) 用于快速 3D 桌面游戏的 3D 类基本编程语言.
@@ -183,12 +183,12 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Cinder](https://libcinder.org/) - Cinder 是一个社区开发的免费开源库，用于使用 C++ 进行专业品质的创意编码.
 - ：自由： [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator，一款支持Cocos2d-js的免费跨平台游戏开发编辑器，帮助开发者快速高效地构建2D和3D游戏场景，编辑游戏UI等游戏资源.
 -： 然后： [Cocos2D](https://github.com/los-cocos/cocos) - 游戏和多媒体图形库，python 语言
--： 然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++，但具有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
+-： 然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++，但有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
 - :money_with_wings: [Construct 2](https://www.scirra.com/)  - HTML5 游戏制造商，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
 - ：钱袋子： [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体化 3D 游戏引擎.非常易于使用.
 -： 然后： [Coquette](http://coquette.maryrosecook.com/)  - JavaScript 游戏的微框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
 - ：自由： [Corona SDK](https://coronalabs.com/) - 适用于 iOS 和 Android 的跨平台移动应用程序开发.
--： 然后： [Dash](https://github.com/Circular-Studios/Dash) - 用 D 编写的免费开放 3D 游戏引擎.
+-： 然后： [Dash](https://github.com/Circular-Studios/Dash) - 一个用 D 编写的免费和开放的 3D 游戏引擎.
 -： 然后： [Dear Imgui](https://github.com/ocornut/imgui/) - 具有最小依赖性的 C++ 无膨胀立即模式 GUI.
 - ：自由： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
 -： 然后： [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - 从具有纹理、法线贴图、glTF、OBJ、STL 支持的真实数据生成地形
@@ -207,7 +207,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [FlashPunk](http://useflashpunk.net/) - 专为开发 2D Flash 游戏而设计的免费 ActionScript 3 库.
 -： 然后： [Flixel](http://flixel.org/index.html) - 一个用 ActionScript3 编写的开源游戏制作.
 - ：钱袋子： [GameMaker](http://www.yoyogames.com/en/gamemaker) - GameMaker 支持使用拖放或称为 Game Maker 语言的脚本语言创建跨平台视频游戏，该语言可用于开发仅使用拖放功能无法创建的更高级游戏.
--： 然后： [gameplay](http://gameplay3d.io/)  - 用 C++ 编写的免费、开源、跨平台、2D + 3D 游戏框架. 它面向正在创建桌面和移动游戏的独立游戏开发者.
+-： 然后： [gameplay](http://gameplay3d.io/)  - 用 C++ 编写的免费、开源、跨平台、2D + 3D 游戏框架. 它面向正在创建桌面和移动游戏的独立游戏开发人员.
 - :money_with_wings: [GameSalad](https://gamesalad.com/) - 适用于 Mac 和 Windows 的游戏创建引擎.
 -： 然后： [GB Studio](https://www.gbstudio.dev/) - 一款免费且易于使用的复古冒险游戏创建器，适用于您最喜爱的手持视频游戏系统.
 -： 然后： [GDevelop](https://gdevelop-app.com/) - 为所有人设计的开源、跨平台 2D 游戏引擎 - 可扩展、快速且易于学习.
@@ -228,7 +228,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 -： 然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) - 为喜欢冒险的 Java 开发人员提供的 3D 开源游戏引擎.
 - ：自由： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google 的 Android 的 3D 引擎.
--： 然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净轻便的 2D 游戏框架
+-： 然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净轻量级的 2D 游戏框架
 -： 然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中使用粗像素制作 2D 游戏的框架
 -： 然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
 -： 然后： [Kivy](http://kivy.org) - 跨平台 Python 框架，用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏
@@ -247,15 +247,16 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Magnum](http://magnum.graphics/) - 用 C++11 编写的轻量级模块化 2D/3D 图形/游戏引擎
 -： 然后： [Matter.js](http://brm.io/matter-js/) - 用于网络的 2D 物理引擎.
 -： 然后： [MelonJS](http://melonjs.org) - 开源轻量级 HTML5 游戏引擎.
+- ：自由： [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro 是一款幻想电脑，用于制作、播放和分享以现代方式编写的 2D 游戏和程序 [MiniScript](https://miniscript.org) 语.
 - ：自由： [Monkey2](http://monkeycoder.co.nz/) - 多平台编程语言和交叉编译器，旨在快速游戏编程.
 -： 然后： [Monogame](http://www.monogame.net/) - Microsoft XNA 4 框架的开源实现.
 -： 然后： [Nakama](https://github.com/heroiclabs/nakama) - 用于社交和实时游戏和应用程序的分布式服务器.
 -： 然后： [nCine](https://ncine.github.io/) - 一个强调性能的跨平台 2D 游戏引擎，用 C++11 编写，并可选择用 Lua 编写脚本.
 - ：自由： [NodeBox](https://www.nodebox.net/) - 一系列用于创建衍生式设计的 Python 工具.
 -： 然后： [nuklear](https://github.com/vurtun/nuklear) - 用 ANSI C 编写的简约即时模式 GUI 工具包.
--： 然后： [ÖbEngine](https://github.com/Sygmei/ObEngine) - 基于 SFML 制作的带有 Lua 脚本的 2D 游戏引擎！
+-： 然后： [ÖbEngine](https://github.com/Sygmei/ObEngine) - 在 SFML 之上制作的带有 Lua 脚本的 2D 游戏引擎！
 -： 然后： [ODE](http://www.ode.org/) - ODE 是一个用于模拟刚体动力学的开源高性能库.
--： 然后： [Ogre3D](http://www.ogre3d.org/) - 是一个以 C++ 编写的面向场景、实时、灵活的 3D 渲染引擎（相对于游戏引擎）.
+-： 然后： [Ogre3D](http://www.ogre3d.org/) - 是一个以 C++ 编写的面向场景、实时、灵活的 3D 渲染引擎（与游戏引擎相对）.
 -： 然后： [OpenFL](http://www.openfl.org/) - 用于制作多平台游戏的开源 Haxe 引擎.
 -： 然后： [openFrameworks](https://openframeworks.cc/) - 用于创造性编码的开源和免费 C++ 工具包.
 -： 然后： [OpenRA](http://www.openra.net/) - OpenRA 是一个自由/免费的实时策略游戏引擎.
@@ -267,7 +268,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [PandaJS](http://www.pandajs.net/) - 开源 HTML5 引擎.
 -： 然后： [Phaser](http://phaser.io/) - 免费且快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
 -： 然后： [phina.js](http://phinajs.com/) - 一个 JavaScript 游戏库，可以轻松创建游戏和工具.
--： 然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
+-： 然后： [Piston](http://www.piston.rs/) - 一个用 Rust 编写的模块化开源游戏引擎.
 - :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - 旨在模拟您最喜欢的 8 位控制台的框架.
 -： 然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 以提高性能. 如果不支持 WebGL，引擎将回退到标准画布.
 -： 然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -277,8 +278,8 @@ _一套游戏框架、引擎和平台_
 -： 然后： [PuzzleScript](http://www.puzzlescript.net/) - 开源 HTML5 益智游戏引擎.
 -： 然后： [PyGame](http://pygame.org/hifi.html) - Python 中的 2D 游戏引擎.
 - ：钱袋子： [RPGMaker](http://www.rpgmakerweb.com/) - 用于开发角色扮演游戏的系列程序.
--： 然后： [Rajawali](https://github.com/Rajawali/Rajawali) - 安卓 OpenGL ES 2.0/3.0 引擎
--： 然后： [raylib](https://www.raylib.com/) - 一个简单易用的库，用于享受视频游戏编程，使用 OpenGL（1.1、2.1、3.3 或 ES 2.0）加速硬件
+-： 然后： [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 引擎
+-： 然后： [raylib](https://www.raylib.com/) - 一个简单易用的库，用于享受视频游戏编程，使用 OpenGL（1.1、2.1、3.3 或 ES 2.0）加速的硬件
 -： 然后： [Ren'Py](http://www.renpy.org/)  - 一个开源的视觉小说引擎，使用简化形式的 Python 语言. 它支持 Windows、Mac OS X、Linux、Android 和 iOS.
 -： 然后： [Rpgboss](http://rpgboss.com)  - 基于 Scala 和 libgdx 的 2d RPG 游戏引擎和编辑器. 易于使用，无需编程知识.
 -： 然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
@@ -286,7 +287,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Solarus](https://www.solarus-games.org/) - 具有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
 -： 然后： [Spring](http://springrts.com/) - 强大的免费跨平台 RTS 引擎.
 - ：自由： [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D 游戏引擎.
--： 然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级、快速的 2D HTML5 渲染和布局引擎.
+-： 然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级和快速的 2D HTML5 渲染和布局引擎.
 -： 然后： [Starling](http://gamua.com/starling/) - GPU 驱动的 2D Flash API
 - :money_with_wings: [Stencyl](http://www.stencyl.com/) - 一个游戏创建平台，允许用户为计算机、移动设备和网络创建 2D 视频游戏.
 -： 然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作式 2D/3D 游戏制作器
@@ -374,7 +375,7 @@ _博客、门户网站、杂志等_
 - [Lost Garden](http://www.lostgarden.com/)
 - [Polygon](http://www.polygon.com/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
-- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
+- [Slidedb](http://www.slidedb.com/) - On Slide DB we give developers a community they can share their ideas with and showcase the work they are doing, beyond the basic app stores and the highly contested "top charts".
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
 - [TruePCGaming](http://truepcgaming.com/)
@@ -474,7 +475,7 @@ _我们还需要挣点钱，对吧？_
 
 ## Learn
 
-_在线课程、教程、截屏视频_
+_在线课程、教程、截屏_
 
 ### General Game Development
 

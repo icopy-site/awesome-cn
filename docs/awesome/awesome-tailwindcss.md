@@ -121,6 +121,7 @@
 -  [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - 将颜色配置导出到 CSS 自定义属性.
 -  [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - 将配置导出到 CSS 自定义属性.
 -  [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - 导出自定义 CSS 变量（支持暗模式）.
+-  [Perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - 添加“透视”实用程序.
 
 &gt; - _以下插件提供的功能现已全部或部分在 Tailwind CSS 中实现._
 
@@ -198,7 +199,7 @@
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Preact 的 Tailwind CSS 集成.
 -  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，它提供了一个实用程序来对 Tailwind CSS 类进行排序.
 -  [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - 对类列表进行排序的漂亮插件.
--  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 将 Tailwind CSS 与 Rails 的资产管道结合使用的 Gem.
+-  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 用于将 Tailwind CSS 与 Rails 的资产管道结合使用的 Gem.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - 生成 Tailwind 配置的 Zeplin 扩展.
 -  [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel 宏，可将 Tailwind CSS 类转换为 CSS-in-JS 库的对象.
 -  [twin.macro](https://github.com/ben-rogerson/twin.macro) - 在任何 CSS-in-JS 库中使用 Tailwind 类.
