@@ -32,12 +32,13 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人员伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
+- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和每半小时的气象数据和三种最常见的太阳辐射测量值的集合：全球水平、直接法向和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布. 
 
@@ -45,7 +46,7 @@
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) - The American Community Survey (ACS) helps local officials, community leaders, and businesses understand the changes taking place in their communities. It is the premier source for detailed population and housing information for the United States. Additional Information: [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 - [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/)  iframe. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
-- [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 提供了对人口、住房、农业和经济数据的汇总表和时间序列的轻松访问，以及与 GIS 兼容的边界文件，从 1790 年到现在的所有级别美国人口普查地理，包括州、县、地区和街区.
+- [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 提供了对人口、住房、农业和经济数据的汇总表和时间序列的轻松访问，以及与 GIS 兼容的边界文件，从 1790 年至今，以及所有级别的美国人口普查地理，包括州、县、地区和街区.
 
 ### Education 
 
@@ -124,7 +125,7 @@
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由 First Street Foundation 提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -147,7 +148,7 @@
 
 ### Built Environment
 
-- [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以通过它来定义他们希望在其拓扑中使用的实体的语言. 
+- [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以通过该语言定义他们希望在其拓扑中使用的实体的语言. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力，为建筑和施工许可数据创建共享数据规范.
 
 ### Transportation
@@ -192,7 +193,7 @@ R 包和相关资源.
 ### Other
 其他编码库和资源.
 
-- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)  - 公民技术和公民应用的常见模式和反模式. 附加信息：由 Code for America 提供.
+- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
 ### Web and JS
 前端 web 相关的包和资源.
@@ -211,11 +212,11 @@ R 包和相关资源.
 ### Geospatial Data and Visualization
 用于将资源分类为相关组的高级类别. 例如，人口普查数据可以被视为“人口统计”. 
 
-- [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (Esri).
+- [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (Esri) 维护的地图和地理信息.
 - [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更有效的交付路线、更好的行为营销、战略性商店布局等等.
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一种数据不可知、WebGL 授权的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
-- [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
+- [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成图表，几何图形的大小会根据数据发生扭曲. 
 
 ### Urban Design Tools and Platforms
@@ -248,7 +249,7 @@ R 包和相关资源.
 与 AICP 认证考试准备、继续教育和其他资源有关的资源.
 
 - [AICP Get Certified! Webpage](https://www.planning.org/certification/)  - 美国注册规划师协会 (AICP) 的官方资源库，提供有关资格、注册和准备的详细信息. 还列出了即将到来的 AICP“认证周期”的重要日期.
-- [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的“五步法”备考方法，并列出了可帮助您在 AICP 考试中取得成功的资源/材料.
+- [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - Details the AICP's "Five-Step Approach" for exam preparation and lists resources/materials to help you succeed on the AICP exam.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员连接到精选的主题相关资源集合，包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和主题分组，包括书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国注册规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
 
@@ -256,7 +257,7 @@ R 包和相关资源.
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题和为决策者提供信息方面享有盛誉.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业人员解决问题和通知决策者方面享有盛誉.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 
 ## Other Resources
@@ -268,11 +269,11 @@ R 包和相关资源.
 
 这些是其他聚合器，将不同的规划相关工具、软件、数据和相关资源整合在一起. 例如，它们是为这个 repo 做出贡献的一个很好的灵感来源，但我们不需要重复努力. 
 
-- [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
+- [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - A collection of transit data tools and resources.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型移动工具和数据资源的集合.
 - [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - 一份精心策划的开放技术项目清单，以维持稳定的气候、能源供应和重要的自然资源.
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS 是地理空间相关资源的集合，包括制图工具、地理分析工具、开发工具、数据、会议和社区、新闻、大规模开放在线课程、一些令人惊叹的地图站点等.
-- [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
+- [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - 用于农业、耕作和园艺的开源技术.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，以改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于进行研究、开发 Web 和移动应用程序、设计数据可视化等.

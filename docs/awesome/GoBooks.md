@@ -22,7 +22,7 @@
 
 本书是对使用 Go 语言进行计算机编程的简短介绍.  Go 由 Google 设计，是一种通用编程语言，具有现代功能、简洁的语法和强大的文档齐全的公共库，使其成为学习作为您的第一门编程语言的理想语言.
 
-这本书是免费 [read online](http://www.golang-book.com/) 或者 [pdf f或者m](http://www.golang-book.com/public/pdf/gobook.pdf).
+这本书是免费 [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -56,6 +56,16 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
  Go 101 是一本专注于 Go 语法/语义和各种运行时相关事物（Go 1.17-pre 就绪）的书，并试图帮助 Gophers 深入了解 Go. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
 
+### [Practical Go Lessons](https://www.practical-go-lessons.com/) *Free*
+
+<img src="https://www.practical-go-lessons.com/book-cover.png" width="120px"/>
+
+Practical Go Lessons 有 41 章和超过 700 页的插图.
+它适合任何想用 Go 语言开始编程的人.
+它假设没有先验知识. 
+每章都包含试题和详细答案.
+ HTML 版本是免费的. 您可以通过购买 PDF 或 Paper 版本来支持作者.
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
@@ -83,7 +93,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 想学围棋的程序员.
 Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 和惯用的 Go 来解决现实世界的问题.
-The book does not assume prior knowledge of Go nor experience with
+这本书不假设你有围棋的先验知识或经验
 任何特定语言，因此无论您是
 最熟悉 JavaScript、Ruby、Python、Java 或 C++.
 
@@ -116,7 +126,7 @@ The book does not assume prior knowledge of Go nor experience with
 
 <a href="http://www.apress.com/us/book/9781484211892"><img src="https://images.springer.com/sgw/books/medium/9781484211892.jpg" width="120px"/></a>
 
-使用问题解决方法解决您的 Go 问题. 每个秘籍都是对 Go 中实际编程问题的独立答案.  Go Recipes 包含处理 Go 基础知识的食谱，可让您构建简单、可靠且高效的软件. 其他主题包括使用现代 NoSQL 数据库（如 MongoDB 和 RethinkDB）处理数据. 本书为在 Go 中为您的移动客户端应用程序和 Web 客户端应用程序构建高度可扩展的后端 API 提供了深入的指导.
+Solve your Go problems using a problem-solution approach. Each recipe is a self-contained answer to a practical programming problem in Go. Go Recipes contains recipes that deal with the fundamentals of Go, allowing you to build simple, reliable, and efficient software. Other topics include working with data using modern NoSQL databases such as MongoDB and RethinkDB. The book provides in-depth guidance for building highly scalable backend APIs in Go for your mobile client applications and web client applications.
 
 ### [Learning Go programming](https://www.packtpub.com/application-development/learning-go-programming)
 
@@ -145,6 +155,23 @@ The book does not assume prior knowledge of Go nor experience with
 
  Go Workshop 将消除学习 Go 编程语言（也称为 Golang）的痛苦. 它旨在教您如何高效地构建真实世界的软件. 本书以引人入胜的动手方式呈现，重点介绍专业人士在日常工作中使用的 Go 功能.
 
+
+### [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492077206/250w/" width="120px"/>
+
+ Go 正迅速成为构建 Web 服务的首选语言. 虽然有很多教程可以向具有其他编程语言经验的开发人员教授 Go 的语法，但教程是不够的. 他们不教授 Go 的习惯用法，因此开发人员最终会重新创建在 Go 上下文中没有意义的模式. 本实用指南提供了编写清晰且地道的 Go 所需的基本背景.
+
+无论您的经验水平如何，您都将学习如何像 Go 开发人员一样思考. 作者 Jon Bodner 介绍了有经验的 Go 开发人员采用的设计模式，并探讨了使用它们的基本原理. 您还将预览 Go 即将推出的泛型支持以及它如何融入该语言.
+
+- 学习如何在 Go 中编写惯用代码并设计 Go 项目
+- 了解 Go 中设计决策的原因
+- 为单独的开发人员或团队设置 Go 开发环境
+- 了解如何以及何时使用反射、不安全和 cgo
+- 了解 Go 的特性如何让语言高效运行
+- 知道哪些 Go 功能应该少用或根本不使用
+
+
 **高级书籍**
 ---
 
@@ -158,7 +185,7 @@ The book does not assume prior knowledge of Go nor experience with
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
-<a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.png" width="120px"/></a>
+<a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.jpg" width="120px"/></a>
 
 *Go with the Domain* 是一本关于构建以惯用方式解决复杂问题的 Go 应用程序的书.
 它具有领域驱动设计、清洁架构、CQRS（命令查询职责分离）和其他模式等技术.
@@ -184,7 +211,7 @@ The book does not assume prior knowledge of Go nor experience with
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
 
-本书将带您了解并发的历史、Go 如何利用并发、Go 与其他语言的不同之处以及 Go 并发核心的特性和结构. 本书的每一步都将提供真实的、可用的示例，并详细描述所使用的方法. 到最后，您会很轻松地在 Go 中设计一个安全、数据一致、高性能的并发应用程序.
+本书将带您了解并发的历史、Go 如何利用并发、Go 与其他语言的不同之处以及 Go 并发核心的特性和结构. 每一步，本书都会提供真实的、可用的例子，并详细描述所使用的方法. 到最后，您会很轻松地在 Go 中设计一个安全、数据一致、高性能的并发应用程序.
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
@@ -196,7 +223,7 @@ The book does not assume prior knowledge of Go nor experience with
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
-A developer's exprience in golang.
+一个开发者的 golang 经验.
 
 ### [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
 
@@ -220,7 +247,7 @@ A developer's exprience in golang.
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
 
-众所周知，并发很难做到正确，但幸运的是，Go 开源编程语言使处理并发变得容易甚至容易. 如果您是一名熟悉 Go 的开发人员，这本实用书籍展示了最佳实践和模式，可帮助您将并发性融入您的系统.
+Concurrency can be notoriously difficult to get right, but fortunately, the Go open source programming language makes working with concurrency tractable and even easy. If you’re a developer familiar with Go, this practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems.
 
 ### [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
 
@@ -369,7 +396,14 @@ code.
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-Take your Go skills to the next level by learning how to design, develop, and deploy a distributed service. Start from the bare essentials of storage handling, work your way through networking a client and server, turn that single-node application into a distributed system with service discovery and consensus, and then deploy your service to the cloud. All this will make coding in your day job or side projects easier, faster, and more fun.
+通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些都将使您在日常工作或业余项目中的编码更容易、更快、更有趣.
+
+### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
+
+<img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
+
+ Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算进入这个迷人的世界，你必须知道 Go 可以如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序.一些.  *使用 GO 构建系统：Gopher 必须知道的一切* 分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供示例和解释，说明可在任何 Go 中使用的最强大的库发展. 拥有 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，本书帮助早期采用者和有经验的开发人员真实地了解用 Go 构建的系统是什么样子.
+
 
 Resources
 ====
