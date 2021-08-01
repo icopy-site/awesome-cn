@@ -69,7 +69,7 @@
 - [Create Yew App](https://github.com/jetli/create-yew-app) - 通过运行一个命令“npx create-yew-app my-app”来设置现代 Yew Web 应用程序.
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - 用于启动与 wasm-pack 一起使用的 Yew 项目的模板.
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - 使用 wasm-bindgen 和 wasm-pack 启动 Yew 项目的最小模板.
-- [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 带有 Yew-Router 和包裹应用程序的令人敬畏的红豆杉.
+- [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 带有 Yew-Router 和 Parcel 应用程序的令人敬畏的红豆杉.
 
 ## Crates
 
@@ -78,7 +78,7 @@
 - [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Yew 框架的材料设计组件.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
-- [yew-material-components](https://github.com/hamza1311/yew-material-components) - Yew material components.
+- [yew-material-components](https://github.com/hamza1311/yew-material-components) - 紫杉材料成分.
 - [Yewprint](https://github.com/cecton/yewprint) - blueprintjs.com 到 Yew 的端口.
 - [ybc](https://github.com/thedodd/ybc) - 基于 Bulma CSS 框架的 Yew 组件库.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - 紫杉的 Patternfly 组件.
@@ -95,7 +95,7 @@
 
 ### Utils
 
-- [yew-state](https://github.com/intendednull/yew-state) - Yew 组件的符合人体工程学的共享状态，具有可选的持久本地和会话存储.
+- [Yewdux](https://github.com/intendednull/yewdux) - 用于 Yew 应用程序的类似 Redux 的状态容器.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于样式组件，但适用于 Yew.
 
@@ -152,4 +152,4 @@ Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮�
 
 - [Awesome Rust and WebAssembly](https://github.com/rustwasm/awesome-rust-and-webassembly) - 很棒的 Rust 和 WebAssembly 项目、库、工具和资源的列表.
 - [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm) - 收集有关 WebAssembly 生态系统的精彩内容.
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Rust 代码和资源的精选列表.
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.

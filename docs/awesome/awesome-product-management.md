@@ -34,7 +34,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
  | 物业 | 价值 |
 |-----------|--------------------------------------------|
  | 开发商 | [Shiny Frog](http://www.shinyfrog.net/)    |
- | 成本 | 免费增值（_$16/yr 订阅可用_）|
+| Cost      | Freemium (_$16/yr subscription available_) |
  | 平台 |  macOS、iOS |
  | 网址 |  https://bear.app/ |
 
@@ -184,7 +184,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - 经过 [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - 经过 [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - 经过 [Marty Cagan](https://svpg.com/author/marty/).
-- [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
+- [The dark side of expertise](https://lwn.net/Articles/809556/) - 杰克·埃奇（Jake Edge）.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - 由 Notion 团队提供.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 经过 [Philipp Cannons](https://twitter.com/pcannons).
@@ -218,12 +218,14 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - 唐诺曼.
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - 由金斯科特.
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - 作者：Jake Knapp、John Zeratsky、Braden Kowitz.
-- [Creative Selection](http://creativeselection.io/) - 肯·科辛达 (Ken Kocienda).
+- [Creative Selection](http://creativeselection.io/) - 肯·科西恩达 (Ken Kocienda).
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - 马蒂·卡根 (Marty Cagan).
-- [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - 杰西卡·里奇和特拉维斯·洛德米尔克.
+- [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - 杰西卡·里奇 (Jessica Rich) 和特拉维斯·洛德米尔克 (Travis Lowdermilk).
 - [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - 梅丽莎·佩里 (Melissa Perri).
 - [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) - 卡米尔·富尼耶 (Camille Fournier).
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
+- [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - 威尔·拉森.
+- [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - 理查德·W·汉明 (Richard W. Hamming).
 
 ## Podcasts
 
