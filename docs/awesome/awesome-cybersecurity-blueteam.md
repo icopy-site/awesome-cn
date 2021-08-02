@@ -4,7 +4,7 @@
 
 &gt; 为网络安全蓝队收集了一系列很棒的资源、工具和其他闪亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全缺陷、验证安全措施的有效性并监控系统以确保实施的防御措施在未来仍然有效的一组个人. 虽然不是排他性的，但这份清单严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和反对专有产品或公司服务. 有关攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全缺陷、验证安全措施的有效性并监控系统以确保实施的防御措施在未来仍然有效的一组个人. 虽然不是排他性的，但这份清单严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和反对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心欢迎您的贡献和建议.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -49,7 +49,7 @@
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 - [Checkov](https://www.checkov.io/) - Terraform（基础设施即代码）的静态分析，以帮助检测 CIS 策略违规并防止云安全配置错误.
-- [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过运行时数据（例如 Kubernetes 指标）来检测容器化应用程序、主机和网络数据包流中的异常活动.
+- [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过 Kubernetes 指标等运行时数据进行丰富，从而检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用轻量级虚拟机保护容器运行时，这些虚拟机的感觉和性能类似于容器，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
 - [Prowler](https://github.com/toniblyx/prowler) - 基于 AWS-CLI 命令的工具，用于 Amazon Web Services 帐户安全评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - 开源多云安全审计工具，可对云环境进行安全态势评估.
@@ -121,7 +121,7 @@
 
 - [DynInst](https://dyninst.org/dyninst) - 用于二进制检测、分析和修改的工具，对二进制修补很有用.
 - [DynamoRIO](https://dynamorio.org/) - 运行时代码操作系统，支持程序任何部分的代码转换，同时它执行，作为进程级虚拟机实现.
-- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究而设计的普通 Linux 二进制文件.
+- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究设计的普通 Linux 二进制文件.
 - [Valgrind](https://www.valgrind.org/) - 用于构建动态分析工具的检测框架.
 
 ### Compliance testing and reporting
@@ -242,6 +242,7 @@
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) - 使系统看起来好像是 APT 攻击的受害者的工具集.
 - [Atomic Red Team](https://atomicredteam.io/) - 用于测试安全控制的简单、可自动化的测试库.
 - [BadBlood](https://www.secframe.com/badblood/) - 使用数据填充测试（非生产）Windows 域，使安全分析师和工程师能够练习使用工具来了解和规定保护 Active Directory 的方法.
+- [Drool](https://www.dns-oarc.net/tools/drool) - 从抓包文件中重放DNS流量并将其发送到指定的服务器，例如用于模拟对DNS的DDoS攻击和测量正常的DNS查询.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - 模块化、菜单驱动、跨平台工具，用于为蓝队演习和传感器/警报映射构建可重复、延时、分布式安全事件.
 - [Metta](https://github.com/uber-common/metta) - 用于进行对抗性模拟的自动化信息安全准备工具.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
@@ -249,7 +250,7 @@
 
 ## Security configurations
 
-（也称为*默认安全基线*和*实施的最佳实践*.）
+（也称为*默认安全基线*和*已实施的最佳实践*.）
 
 - [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - NginX 配置的 Docker 映像和为网站实施许多防御技术的脚本.
 
@@ -292,7 +293,7 @@
 - [Locust](https://locust.io/) - 开源负载测试工具，您可以在其中使用 Python 代码定义用户行为，并让您的系统同时拥有数百万个用户.
 - [Nagios](https://nagios.org) - 流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) - 免费且功能丰富的网络监控系统，支持多种配置、多种告警机制（email、XMPP、SMS）和多种数据采集方式（SNMP、HTTP、JDBC等）.
-- [osquery](https://github.com/facebook/osquery) - 适用于 macOS、Windows 和 Linux 的操作系统检测框架，将操作系统公开为可以使用类似 SQL 的语法进行查询的高性能关系数据库.
+- [osquery](https://github.com/facebook/osquery) - 适用于 macOS、Windows 和 Linux 的操作系统检测框架，将操作系统公开为高性能关系数据库，可以使用类似 SQL 的语法进行查询.
 - [Zabbix](https://www.zabbix.com/) - 成熟的企业级平台，用于监控大规模 IT 环境.
 
 ### Threat hunting
@@ -302,7 +303,7 @@
 也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 基于 CIM/WMI 的工具套件，支持跨所有 Windows 版本的远程事件响应和搜寻操作.
-- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell 模块，用于通过 Windows 事件日志进行团队协作.
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell 模块，用于通过 Windows 事件日志进行狩猎组队.
 - [GRR Rapid Response](https://github.com/google/grr) - 事件响应框架专注于远程实时取证，由安装在资产上的 Python 代理和基于 Python 的服务器基础设施组成，使分析师能够快速对攻击进行分类并远程执行分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - 基于 Elasticsearch、Logstash、Kafka 和 Kibana 的多合一免费软件威胁狩猎堆栈，具有各种内置分析集成，包括 Jupyter Notebook.
 - [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理过程并促进事件处理者的实时活动.

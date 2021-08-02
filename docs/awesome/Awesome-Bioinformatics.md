@@ -20,7 +20,7 @@
 
 - **[Bioconductor](https://github.com/Bioconductor)** - 用于分析和理解高通量基因组数据的大量工具，包括 1500 多个软件包. [ [paper-2004](https://link.springer.com/article/10.1186/gb-2004-5-10-r80) | [web](https://www.bioconductor.org) ]
 
-- **[Biopython](https://github.com/biopython/biopython) ** - 免费提供的 Python 生物计算工具，包括说明书、包装和详尽的文档. 的一部分 [Open Bioinformatics Foundation](http://open-bio.org/) . 包含非常有用 [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) package for API access to the NCBI databases. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19304878) | [web](https://biopython.org) ]
+- **[Biopython](https://github.com/biopython/biopython) ** - 免费提供的 Python 生物计算工具，包括说明书、包装和详尽的文档. 的一部分 [Open Bioinformatics Foundation](http://open-bio.org/) . 包含非常有用 [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) 用于访问 NCBI 数据库的 API 包. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19304878) | [web](https://biopython.org) ]
 
 - **[Bioconda](https://github.com/bioconda)** - 一个频道 [conda package manager](http://conda.pydata.org/docs/intro.html) 专注于生物信息学软件. 包括一个存储库，其中包含 3000 多个可立即安装（使用“conda install”）生物信息学包. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29967506) | [web](https://bioconda.github.io) ]
 
@@ -70,7 +70,8 @@
 ### Pipelines
 
 - **[Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)** - 管道资源列表.
-- **[Bactopia](https://github.com/bactopia/bactopia/)** - 使用 Nextflow 构建的灵活管道，用于完整分析细菌基因组. [ [web](https://bactopia.github.io/) ]
+- **[Bactopia](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. [ [web](https://bactopia.github.io/) ]
+- **[Bacannot](https://github.com/fmalmeida/bacannot)** - 一个通用但全面的细菌注释管道，使用 Nextflow 构建，具有用于调查结果的漂亮图形选项. [ [web](https://bacannot.readthedocs.io/en/latest/?badge=latest) ]
 - **[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)** - 电池包括用于变异和 RNA-Seq 分析、结构变异调用、注释和预测的基因组分析管道. [ [web](https://bcbio-nextgen.readthedocs.io) ]
 - **[R-Peridot](https://github.com/pentalpha/r-peridot)** - 使用直观的 GUI 进行差异表达分析的可定制管道. [ [web](http://www.bioinformatics-brazil.org/r-peridot) ]
 - **[ngs-preprocess](https://github.com/fmalmeida/ngs-preprocess)** - 用于预处理短和长测序读取的管道，使用 Nextflow 构建. [ [web](https://ngs-preprocess.readthedocs.io/en/latest/?badge=latest) ]
@@ -143,7 +144,7 @@
 - **[mosdepth](https://github.com/brentp/mosdepth)** - 用于 WGS、外显子组或靶向测序的快速 BAM/CRAM 深度计算. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
 - **[SAMstat](https://github.com/TimoLassmann/samstat)** - 显示下一代测序的序列统计信息. [ [paper-2010](https://academic.oup.com/bioinformatics/article/27/1/130/201972) | [web](http://samstat.sourceforge.net) ]
 - **[Somalier](https://github.com/brentp/mosdepth)** - BAMs/CRAMs/VCFs/GVCFs 的快速样本交换和相关性检查. [ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
-- **[Telseq](https://github.com/zd1/telseq)** - Telseq is a tool for estimating telomere length from whole genome sequence data. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
+- **[Telseq](https://github.com/zd1/telseq)** - Telseq 是一种从全基因组序列数据估计端粒长度的工具. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
 
 ### VCF File Utilities
 
@@ -246,7 +247,7 @@
 - [A 10-Step Guide to Party Conversation For Bioinformaticians](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104) - 当被问及以下问题时，有关如何向未涉及该领域的人传达概念的分步指南：“那么，你是做什么的？”
 - [A History Of Bioinformatics (In The Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) - C. Titus Brown 关于他回顾 2039 年生物信息学的演讲.可以找到他对这次演讲的笔记 [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
 - [A farewell to bioinformatics](http://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html) - 对生物信息学状态的批判性观点.
-- [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) - Keith Bradnam 博士“认为向一群著名的生物信息学家提出一系列简单的问题以评估他们对当前生物信息学研究状态的感受可能会很有启发性，并且可能会得到他们关于什么对他们有用的任何提示生物信息学职业.”
+- [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) - Dr. Keith Bradnam "thought it might be instructive to ask a simple series of questions to a bunch of notable bioinformaticians to assess their feelings on the current state of bioinformatics research, and maybe get any tips they have about what has been useful to their bioinformatics careers."
 - [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) - 为那些想要在自己的时间免费完成生物信息学课程的人提供坚实的道路，这些课程来自世界上最好的大学.
 - [Rosalind](http://rosalind.info/) - Rosalind 是一个通过解决问题来学习生物信息学的平台.
 - [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - 本指南面向生物信息学家，旨在引导他们获得更好的职业发展.
@@ -266,10 +267,10 @@
 
 - [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) - 包括大量关于 RNA-seq 和分析方法的开创性论文.
 - [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial)  - 关于使用 Amazon AWS 云服务在云中执行 RNA-seq 分析的教育资源. 主题包括准备数据、预处理、差异表达、异构体发现、数据可视化和解释.
-- [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia 提供了关于 RNA-seq 和进行成功 RNA-seq 实验所需选择的精彩概述.
+- [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia 提供了对 RNA-seq 以及进行成功的 RNA-seq 实验所需的选择的精彩概述.
 - [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - 为 RNA-seq 计算分析提供了很棒的路线图，包括挑战/障碍和需要注意的事项，以及如何将 RNA-seq 数据与其他数据类型集成.
-- [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Dr. Lior Pachter shares his stories from the supplement for well-known RNA-seq analysis software CuffDiff and [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法论.
-- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - Wikipedia 上有大量分析所需的 RNA-seq 生物信息学工具列表，涵盖从质量控制、对齐、剪接分析和可视化等分析管道的所有部分.
+- [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Lior Pachter 博士分享了他从著名 RNA-seq 分析软件 CuffDiff 和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法论.
+- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - Wikipedia 上有大量分析所需的 RNA-seq 生物信息学工具列表，涵盖分析流程的所有部分，从质量控制、对齐、剪接分析和可视化.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)关于进行 RNA-seq 分析时的各个步骤和注意事项的说明.
 
 ### ChIP-Seq
@@ -283,11 +284,11 @@
 - [Leading Strand](https://www.youtube.com/user/LeadingStrand)  - 冷泉港实验室 (CSHL) 会议的主题演讲. 更多关于 [The Leading Strand](http://theleadingstrand.cshl.edu/).
 - [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) - “我们的研讨会致力于 GBM 的关键交叉点，深入研究将深刻塑造未来的‘前沿’技术和方法.”
 - [Rafael Irizarry's Channel](https://www.youtube.com/user/RafalabChannel/videos) - Rafael Irizarry 博士关于基因组学统计的讲座和学术演讲.
-- [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast)  - “NIH VideoCast 以实时流媒体视频的形式通过互联网向全球观众直播研讨会、会议和会议.” 不仅是基因组学和生物信息学视频，还有许多关于生物信息学和基因组学领域特定用途的精彩演讲.
+- [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast)  - “NIH VideoCast 以实时流媒体视频的形式通过互联网向全球观众直播研讨会、会议和会议.” 不仅是基因组学和生物信息学视频，还有许多关于生物信息学和基因组学领域特定应用的精彩演讲.
 
 ### Blogs
 
-- [ACGT](http://www.acgt.me/) - 基思·布拉德南 (Keith Bradnam) 博士写到“关于生物学、基因组学以及生物信息学首字母缩写词的虚假使用对人类持续威胁的思考”.
+- [ACGT](http://www.acgt.me/) - Dr. Keith Bradnam writes about this "thoughts on biology, genomics, and the ongoing threat to humanity from the bogus use of bioinformatics acroynums."
 - [Opiniomics](http://www.opiniomics.org/) - Mick Watson 博士撰写了有关生物信息学、基因组和生物学的文章.
 - [Bits of DNA](https://liorpachter.wordpress.com/) - Lior Pachter 博士撰写有关计算生物学的评论和评论.
 - [it is NOT junk](http://www.michaeleisen.org/blog/) - Michael Eisen 博士撰写了“关于基因组、DNA、进化、开放科学、棒球和其他重要事物的博客”

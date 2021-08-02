@@ -108,7 +108,7 @@
 
 ### Go
 
-- [Echo](https://echo.labstack.com/)  - 用于 Go 的快速且简单的 HTTP 服务器框架. 比其他的快 10 倍.
+- [Echo](https://echo.labstack.com/)  - 用于 Go 的快速而不花哨的 HTTP 服务器框架. 比其他的快 10 倍.
 - [Enduro/X ASG](https://github.com/endurox-dev/endurox-go)  - Go 的 Enduro/X 绑定允许使用 Go 语言有效地编写基于 XATMI 的微服务. 使用 Unix 内核 IPC（队列）进行快速进程通信.
 - [Fiber](https://github.com/gofiber/fiber)  - 建立在 Fasthttp 之上的 Express 启发式 Web 框架，Fasthttp 是 Go 最快的 HTTP 引擎. 旨在通过考虑零内存分配和性能来简化快速开发.
 - [Gin](https://github.com/gin-gonic/gin)  - Gin 是一个用 Go (Golang) 编写的 HTTP 网络框架. 它具有类似 Martini 的 API，具有更好的性能，最多可提高 40 倍.
@@ -158,7 +158,7 @@
 - [Airlift](https://github.com/airlift/airlift) - 在 Java 中构建 REST 服务的框架.
 - [Armeria](https://line.github.io/armeria/) - 基于 Java 8、Netty、Thrift 和 gRPC 构建的开源异步 HTTP/2 RPC/REST 客户端/服务器库.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - 高性能线程间消息传递库.
-- [Dropwizard](https://dropwizard.github.io/) - Java framework for developing ops-friendly, high-performance, RESTful web services.
+- [Dropwizard](https://dropwizard.github.io/) - 用于开发操作友好、高性能、RESTful Web 服务的 Java 框架.
 - [Dubbo](https://github.com/apache/dubbo) - 阿里巴巴开源的高性能、基于java的RPC框架.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - 用于定义和创建基于 Feign 或 Retrofit 作为客户端和 Dropwizard/Jersey 的 RESTish/RPC 服务器和客户端的库，使用 JAX-RS 服务定义作为服务器.
 - [Ja-micro](https://github.com/Sixt/ja-micro) - 用于构建微服务的轻量级 Java 框架（与 go-micro 兼容）.
@@ -192,7 +192,7 @@
 - [Actionhero](http://www.actionherojs.com/) - 具有集成集群功能和延迟任务的多传输 Node.js API 服务器.
 - [Baucis](https://github.com/wprl/baucis) - 构建和维护可扩展的 HATEOAS/Level 3 REST API.
 - [BeeMS](https://github.com/umuplus/beems) - 基于 Bee Queue 的极简工具包，用于构建快速、分散、可扩展和容错的微服务.
-- [ClaudiaJS](https://claudiajs.com/) - Easy to deploy Node.js projects to AWS Lambda and API Gateway.
+- [ClaudiaJS](https://claudiajs.com/) - 易于将 Node.js 项目部署到 AWS Lambda 和 API Gateway.
 - [Cote](https://github.com/dashersw/cote) - 用于构建零配置微服务的 Node.js 库.
 - [Express](http://expressjs.com/) - 用于 Node.js 的快速、独立、简约的 Web 框架
 - [Fastify](https://www.fastify.io/) - Fastify，快速和低开销的 Web 框架，适用于 Node.js.
@@ -238,7 +238,7 @@
 - [FastAPI](https://fastapi.tiangolo.com/) - 现代、快速（高性能）、基于标准 Python 类型提示使用 Python 3.6+ 构建 API 的 Web 框架.
 - [Flask](http://flask.pocoo.org/) - 基于 Werkzeug 和 Jinja 2 的微服务 Python 框架.
 - [Nameko](https://github.com/onefinestay/nameko) - 用于构建微服务的 Python 框架.
-- [Sanic](https://github.com/channelcat/sanic) - Sanic 是一个类似于 Flask 的 Python 3.5+ 网络服务器，其编写速度很快.
+- [Sanic](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [Tornado](http://www.tornadoweb.org/) - Web 框架和异步网络库.
 - [Twisted](https://twistedmatrix.com/trac/) - 事件驱动的网络编程引擎.
 - [Web.py](https://github.com/webpy/webpy/) - 极简主义的 Python 网络框架.
@@ -246,7 +246,7 @@
 
 ### Ruby
 
-- [Grape](https://github.com/ruby-grape/grape) - 用于创建类似 REST 的 API 的自以为是的框架
+- [Grape](https://github.com/ruby-grape/grape) - 用于创建类 REST API 的自以为是的框架
 - [Hanami](https://github.com/hanami) - Ruby 的现代 Web 框架.
 - [Praxis](https://github.com/rightscale/praxis) - 用于设计和实现 API 的框架.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails 仅作为 API.
@@ -272,7 +272,7 @@
 
 &gt; 请注意 [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) 目前没有对组件进行分类.
 
-- [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
+- [Amalgam8](https://github.com/amalgam8) - 用于多语言微服务的基于内容的路由结构.
 - [Ambassador](https://www.getambassador.io) - 用于基于 Envoy 构建的微服务的 Kubernetes 原生 API 网关.
 - [Annon](https://github.com/nebo15/annon.api) - 开源 API 网关，带有用 Elixir 编写的内置 API 管理、身份验证和状态页面.
 - [APIcast](https://github.com/3scale/APIcast)  - APIcast 是一个建立在 NGINX 之上的 API 网关. 它是红帽 3scale API 管理平台的一部分.
@@ -285,7 +285,7 @@
 - [Gravitee](https://github.com/gravitee-io/gravitee-gateway) - 网关能够根据您的需要将策略（即规则）应用于 HTTP 请求和响应，这意味着您可以通过添加转换、安全性和许多其他疯狂功能来增强请求和响应处理！
 - [HAProxy](https://github.com/haproxy/haproxy) - 可靠、高性能的 TCP/HTTP 负载平衡器.
 - [Istio](https://istio.io/) - 用于连接、管理和保护微服务的开放平台.
-- [Janus](https://github.com/hellofresh/janus) - 用 Go 编写的 API 网关.
+- [Janus](https://github.com/hellofresh/janus) - An API Gateway written in Go.
 - [Keepalived](http://www.keepalived.org/) - 用于负载平衡和高可用性的简单而强大的 Linux 系统和基于 Linux 的基础设施的设施.
 - [Kong](https://getkong.org/) - API 的开源管理层.
 - [KrakenD](http://krakend.io/) - 开源超高性能 API 网关.
@@ -299,7 +299,7 @@
 - [Spring Cloud Gateway](https://cloud.spring.io/spring-cloud-gateway/)  - Spring MVC 之上的 API 网关. 旨在提供一种简单而有效的方式来路由到 API.
 - [Tengine](http://tengine.taobao.org/) - 具有一些高级功能的 Nginx 发行版.
 - [Træfɪk](http://traefik.io/) - 现代 HTTP 反向代理和负载均衡器，可轻松部署微服务.
-- [Traffic Server](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
+- [Traffic Server](https://github.com/apache/trafficserver) - 用于云服务的高性能构建块.
 - [Tyk](https://tyk.io/) - 开源、快速且可扩展的 API 网关、门户和 API 管理平台.
 - [Vulcand](https://github.com/vulcand/vulcand) - 由 Etcd 支持的程序化负载平衡器.
 - [Zuul](https://github.com/Netflix/zuul) - 提供动态路由、监控、弹性、安全性等的边缘服务.
@@ -338,7 +338,7 @@
 - [Hazelcast](http://hazelcast.org/)  - 开源内存数据网格. 允许您跨服务器、集群和地理分布数据和计算，并管理非常大的数据集或高数据摄取率. 成熟的技术.
 - [Helix](http://helix.apache.org/) - 用于自动管理托管在节点集群上的分区、复制和分布式资源的通用集群管理框架.
 - [Ignite](http://ignite.apache.org/) - 高性能、集成和分布式内存平台，用于实时计算和处理大规模数据集，比传统的基于磁盘或闪存技术快几个数量级.
-- [Libp2p](https://libp2p.io/) - A framework and suite of protocols for building peer-to-peer network applications.
+- [Libp2p](https://libp2p.io/) - 用于构建对等网络应用程序的框架和协议套件.
 - [Marathon](https://mesosphere.github.io/marathon/) - 在 Apache Mesos 上大规模部署和管理容器（包括 Docker）.
 - [Mesos](https://mesos.apache.org/) - 将 CPU、内存、存储和其他计算资源从机器（物理或虚拟）中抽象出来，使容错和弹性的分布式系统能够轻松构建和有效运行.
 - [Nomad](https://www.nomadproject.io/) - 分布式、高可用性、数据中心感知调度程序.
@@ -476,7 +476,7 @@
 - [Aerospike ![c]](http://www.aerospike.com/) - 高性能 NoSQL 数据库，可大规模提供速度.
 - [ArangoDB](https://www.arangodb.com/) - 一个分布式的免费开源数据库，具有用于文档、图形和键值的灵活数据模型.
 - [AtlasDB](https://github.com/palantir/atlasdb) - 键值存储之上的事务层.
-- [ClickHouse](https://clickhouse.yandex/) - 面向列的数据库管理系统，允许实时生成分析数据报告.
+- [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 - [CockroachDB ![c]](https://www.cockroachlabs.com/) - 模仿 Google Spanner 的云原生 SQL 数据库.
 - [Couchbase](http://www.couchbase.com/) - 专为性能、可扩展性和简化管理而设计的分布式数据库.
 - [Crate ![c]](https://crate.io/) - 具有 NoSQL 优点的可扩展 SQL 数据库.
@@ -580,6 +580,7 @@
 
 ### Security
 
+- [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol)  - 授权协商和授权协议定义了一种将授权委托给软件并将该委托传达给软件的机制. 这种委托可以包括对一组 API 的访问以及直接传递给软件的信息. <sup>草案</sup>
 - [OIDCONN](http://openid.net/connect/)  - OpenID Connect 1.0 是 OAuth 2.0 协议之上的一个简单身份层. 它允许客户端根据授权服务器执行的身份验证来验证最终用户的身份，并以可互操作和类似 REST 的方式获取有关最终​​用户的基本配置文件信息.
 - [PASETO](https://paseto.io/)  - Paseto 是您喜欢 JOSE（JWT、JWE、JWS）的一切，没有任何困扰 JOSE 标准的设计缺陷. <sup>草案</sup>
 - [RFC5246](https://tools.ietf.org/html/rfc5246) - 传输层安全 (TLS) 协议版本 1.2.
@@ -604,7 +605,7 @@
 
 - [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript 对象表示法 (JSON).
 - [RFC7049](http://tools.ietf.org/search/rfc7049) - 简洁的二进制对象表示（CBOR）.
-- [BSON](http://bsonspec.org/) - 二进制 JSON (BSON).
+- [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 - [JSON-LD](http://json-ld.org/) - 用于链接数据的 JSON.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - 简单二进制编码 (SBE).
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - 消息包规范.
@@ -630,7 +631,7 @@
 
 - [Commercetools ![c]](https://commercetools.com/) - 无头商务平台.
 - [Elasticpath ![c]](https://www.elasticpath.com/) - 电子商务微服务.
-- [Flamingo](https://www.flamingo.me/) - 构建灵活和现代电子商务应用程序的框架.
+- [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
 - [Interact ![c]](https://interact.io/) - 用于快速交付定制解决方案的 CRM 微服务.
 - [预测！[C]] (https://predix.io/) - 工业微服务平台.
 - [Skava ![c]](https://www.skava.com/) - 为您商店的所有功能提供微服务，以及将它们结合在一起的粘合剂.
@@ -664,7 +665,7 @@
 
 ### Sites & Organizations
 
-- [Cloud Native Computing Foundation](https://www.cncf.io/) - 云原生计算基金会构建可持续的生态系统，并围绕一系列高质量项目培育社区，这些项目将容器编排为微服务架构的一部分.
+- [Cloud Native Computing Foundation](https://www.cncf.io/) - 云原生计算基金会构建可持续的生态系统，并围绕一系列高质量项目建立社区，这些项目将容器编排为微服务架构的一部分.
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - 云原生技术的互动景观.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler 精选的文章、视频、书籍和播客，可以教您更多有关微服务架构风格的信息.
 - [Microservice Patterns](http://microservices.io/) - 微服务架构模式和最佳实践.
@@ -686,7 +687,7 @@
 
 请阅读 [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) 在提交您的建议之前.
 
-随意地 [open an issue](https://github.com/mf或者nos/awesome-microservices/issues) 或者 [create a pull request](https://github.com/mf或者nos/awesome-microservices/pulls) 与您的补充.
+随意地 [open an issue](https://github.com/mf要么nos/awesome-microservices/issues) 要么 [create a pull request](https://github.com/mf要么nos/awesome-microservices/pulls) 与您的补充.
 
 :star2: 谢谢！
 
