@@ -1,3 +1,4 @@
+# 从github 各类 awesome list 通过爬虫聚合而来
 
 ## 超赞列表合集 地址 : [asmcn.icopy.site](https://asmcn.icopy.site)
 
