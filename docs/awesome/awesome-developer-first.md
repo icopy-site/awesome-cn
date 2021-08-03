@@ -9,6 +9,7 @@
 * 开发者是目标受众.
 * “Headless”、“API-first”、“SaaS”是常用的关键词.
 * 通常，这意味着首页有一些代码示例.
+* 产品 - 人们付费购买的工具/服务.
 
 ```diff
 + 观看此 repo 以获取有关我们发现的新产品的通知
@@ -21,7 +22,7 @@
 *跟踪网络/应用访问者.*
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
-* [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
+* [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 * [Heap](https://heap.io/) - 适用于 Web 和移动设备的产品分析 API，可捕获所有事件. 
 
 ## Authentication & Identity
@@ -57,6 +58,12 @@
 ## Databases & Spreadsheets
 *存储和处理数据.*
 * [Airtable](https://airtable.com/) - 带有 API 的数据库和电子表格混合.
+
+## Debugging 
+*有助于跟踪错误的工具.*
+* [Google Cloud's operations suite](https://cloud.google.com/products/operations) - 谷歌云的一组调试原语（捕获、日志注入等）.
+* [Lightrun](https://www.lightrun.com) - 使用支持 Java、Node.js 和 Python 的 IDE（本地或 SaaS）中的插件调试生产服务器.
+* [Rookout](https://www.rookout.com)  - 通过基于云的调试器调试生产服务器. 支持 Java、.Net、Node.js、Python 和 Ruby.
 
 ## Deployment Hosting
 *帮助您部署应用程序/网站的产品.*
@@ -138,6 +145,7 @@
 * [KeenIO](https://keen.io/) - 事件流媒体平台.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
+* [Dashbird](https://dashbird.io/) - 无服务器实时监控.
 
 ## Natural Language Processing
 *与自然语言的交互.*
@@ -162,6 +170,7 @@
 * [proxycrawl](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不会被阻止.
 * [ScrapingANT](https://scrapingant.com/) - 用无头镀铬刮擦.
+* [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取 API.
 
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
@@ -179,7 +188,7 @@
 * [Percy](https://percy.io/) - 连续的视觉测试.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉 UI 测试.
-* [Beeceptor](https://beeceptor.com/) - REST API mocking.
+* [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 
 ---
 

@@ -192,7 +192,7 @@
 * [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) - 运行测试并将结果发送到 GitLab.
 * [colcon-core](https://github.com/colcon/colcon-core) - 用于改进构建、测试和使用多个软件包的工作流程的命令行工具.
 * [gitlab-release](https://gitlab.com/alelec/gitlab-release) - 将文件（从 ci）上传到当前项目版本（标签）的简单 python3 脚本.
-* [clang](https://github.com/llvm-mirror/clang) - 这是 C 系列语言（C、C++、Objective-C 和 Objective-C++）的编译器前端，它是作为 LLVM 编译器基础设施项目的一部分构建的.
+* [clang](https://github.com/llvm-mirror/clang) - 这是 C 系列语言（C、C++、Objective-C 和 Objective-C++）的编译器前端，它是作为 LLVM 编译器基础结构项目的一部分构建的.
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) - 通过 virtualenv 在 catkin 包中捆绑 python 要求.
 * [pyenv](https://github.com/pyenv/pyenv) - 简单的 Python 版本管理.
 * [aptly](https://github.com/aptly-dev/aptly) - Debian 存储库管理工具.
@@ -257,7 +257,7 @@
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - 该模糊器旨在通过对目标节点处理的主题执行模糊测试，帮助开发人员和研究人员发现 ROS 节点中的错误和漏洞.
 * [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - VS Code 的扩展，可在调试期间可视化数据.
 * [action-tmate](https://github.com/mxschmitt/action-tmate) - 通过使用 tmate 访问运行器系统本身，通过 SSH 调试您的 GitHub 操作.
-* [libstatistics_collector](https://github.com/ros-tooling/libstatistics_collector) - ROS 2 库提供了用于收集测量值并计算它们的统计数据的类.
+* [libstatistics_collector](https://github.com/ros-tooling/libstatistics_collector) - ROS 2 库提供了用于收集测量值并计算它们之间的统计数据的类.
 * [system_metrics_collector](https://github.com/ros-tooling/system_metrics_collector) - 用于 ROS2 系统的轻量级实时系统指标收集器.
 
 
@@ -334,9 +334,10 @@
 * [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - 一种面向场景的设计工具，旨在使用户能够在 ArcGIS CityEngine 中快速创建程序生成的多模式街道.
 * [fields-ignition](https://github.com/azazdeaz/fields-ignition) - 为 Ignition Gazebo 生成随机农田.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Unity 中机器人模拟的工具、教程、资源和文档的中央存储库.
-* [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为想要可视化、分析或模拟空中交通的每个人提供一个工具，以便不受任何限制、许可或限制.
+* [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为每个想要可视化、分析或模拟空中交通的人提供一个工具，以便不受任何限制、许可或限制.
 * [Cloe](https://github.com/eclipse/cloe) - 通过为闭环仿真提供统一接口，为自动驾驶软件组件的开发人员提供支持.
-* [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - 仓库动态环境的凉亭模拟
+* [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - 仓库动态环境的凉亭模拟.
+* [OpenCDA](https://github.com/ucla-mobility/OpenCDA) - 在 CARLA+SUMO 下对全栈协同驾驶自动化应用进行原型设计的通用框架.
 
 
 ## Electronics and Mechanics
@@ -468,7 +469,7 @@
 * [3d-vehicle-tracking](https://github.com/ucbdrive/3d-vehicle-tracking) - 联合单目3D车辆检测和跟踪的正式实施.
 * [pysot](https://github.com/STVIR/pysot) - PySOT 的目标是为视觉跟踪研究提供高质量、高性能的代码库.
 * [semantic_slam](https://github.com/floatlazer/semantic_slam) - 使用手持 RGB-D 相机在 ROS 中进行实时语义猛击.
-* [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - 我们在我们的论文中提出 KITTI 扫描展开 LiDAR 点云的基于扫描的语义分割：一项实验研究.
+* [kitti_scan_unfolding](https://github.com/ltriess/kitti_scan_unfolding) - We propose KITTI scan unfolding in our paper Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study.
 * [packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - 由丰田研究所 (TRI) 的 ML 团队发明的自监督单目深度估计方法的官方 PyTorch 实现.
 * [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) - 这项工作提出了一个简单而准确的实时基线 3D 多对象跟踪系统.
 * [monoloco](https://github.com/vita-epfl/monoloco) - 在 PyTorch 中正式实现“MonoLoco：单目 3D 行人定位和不确定性估计”.
@@ -572,7 +573,7 @@
 * [mmWave-localization-learning](https://github.com/gante/mmWave-localization-learning) - 来自毫米波传输的基于 ML 的定位方法 - 具有高精度和高能效.
 * [dynamic_robot_localization](https://github.com/carlosmccosta/dynamic_robot_localization) - 一个 ROS 包，使用 PCL 提供 3 DoF 和 6 DoF 定位，并允许使用 OctoMap 动态地图更新.
 * [eagleye](https://github.com/MapIV/eagleye) - 利用 GNSS 和 IMU 进行车辆定位的开源软件.
-* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python version of the SGP4 satellite position library.
+* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - SGP4 卫星定位库的 Python 版本.
 * [PROJ](https://github.com/OSGeo/PROJ) - 制图投影和坐标变换库.
 * [rpg_trajectory_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) - 为视觉（惯性）里程计实现常用的轨迹评估方法.
 * [pymap3d](https://github.com/geospace-code/pymap3d) - 纯 Python（Numpy 可选）地理空间 ecef enu eci 的 3D 坐标转换.
@@ -815,7 +816,7 @@
 * [xpp](https://github.com/leggedrobotics/xpp) - 腿式机器人运动计划的可视化.
 * [rviz stereo](http://wiki.ros.org/rviz/Tutorials/Rviz%20in%20Stereo) - 3D 立体渲染为每只眼睛显示不同的视图，使场景看起来具有深度.
 * [jsk_visualization](https://github.com/jsk-ros-pkg/jsk_visualization) - rviz 和 rqt 的 Jsk 可视化 ros 包.
-* [moveit_visual_tools](https://github.com/ros-planning/moveit_visual_tools)  - 用于显示和调试 MoveIt 的辅助函数！  Rviz 中的数据通过发布的标记.
+* [moveit_visual_tools](https://github.com/ros-planning/moveit_visual_tools)  - 用于显示和调试 MoveIt 的辅助函数！  Rviz 中的数据通过已发布的标记.
 
 
 ## Operation System
@@ -830,7 +831,7 @@
 * [gputil](https://github.com/anderskm/gputil) - 一个 Python 模块，用于在 Python 中使用 nvidia-smi 以编程方式从 NVIDA GPU 获取 GPU 状态.
 * [gpustat](https://github.com/wookayin/gpustat) - 一个简单的命令行实用程序，用于查询和监控 GPU 状态.
 * [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPU htop 之类的监控工具.
-* [ShellHub](https://www.shellhub.io)  - ShellHub 是一个现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
+* [ShellHub](https://www.shellhub.io)  - ShellHub 是现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
 * [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty 是为 Web 设计的 SSH 和 Telnet 连接器.
 * [spdlog](https://github.com/gabime/spdlog) - 非常快，只有头文件/编译，C++ 日志库.
 * [ctop](https://github.com/bcicen/ctop) - 容器指标的顶部界面.
@@ -891,7 +892,7 @@
 * [Yocto](https://git.yoctoproject.org/) - 生产工具和流程，能够为独立于嵌入式硬件的底层架构的嵌入式软件创建 Linux 发行版.
 * [Automotive Graded Linux](https://www.automotivelinux.org/software) - 一个协作开源项目，将汽车制造商、供应商和技术公司联合起来，为汽车应用程序构建一个基于 Linux 的开放软件平台，该平台可以作为事实上的行业标准.
 * [bitbake](https://github.com/openembedded/bitbake) - 一个通用的任务执行引擎，允许 shell 和 Python 任务在复杂的任务间依赖约束下高效并行运行.
-* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse 是一个基于 Linux 的分区管理程序.
+* [Jailhouse](https://github.com/siemens/jailhouse) - Jailhouse is a partitioning Hypervisor based on Linux.
 * [Xen](https://wiki.debian.org/Xen) - 开源 (GPL) 类型 1 或裸机管理程序.
 * [QEMU](https://www.qemu.org/) - 通用的开源机器模拟器和虚拟器.
 * [qemu-xilinx](https://github.com/Xilinx/qemu) - Quick EMUlator (QEMU) 的一个分支，改进了对 Xilinx 平台的支持和建模.
@@ -988,7 +989,7 @@
 * [ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) - 这些是 Ouster OS-1 3D 激光雷达的 ROS2 驱动程序的实现.
 * [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver) - 全新的 ROS 包，专门用于连接 Livox 生产的 LiDAR 产品.
 * [velodyne](https://github.com/ros-drivers/velodyne) - 一组支持 Velodyne 高清 3D LIDAR 的 ROS 软件包.
-* [ublox](https://github.com/KumarRobotics/ublox) - 提供对 u-blox GPS 接收器的支持.
+* [ublox](https://github.com/KumarRobotics/ublox) - 支持 u-blox GPS 接收器.
 * [crazyflie_ros](https://github.com/whoenig/crazyflie_ros) - Bitcraze Crazyflie 的 ROS 驱动程序.
 * [pointgrey_camera_driver](https://github.com/ros-drivers/pointgrey_camera_driver)  - Pt 的 ROS 驱动程序. 灰色相机，基于官方 FlyCapture2 SDK.
 * [novatel_gps_driver](https://github.com/swri-robotics/novatel_gps_driver) - NovAtel GPS / GNSS 接收器的 ROS 驱动程序.

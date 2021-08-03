@@ -53,7 +53,7 @@ _模板助手_
 _处理用户和身份验证的工具_
 
 - [accounts-js](https://github.com/accounts-js/accounts) - 一套软件包旨在提供为您的应用程序构建灵活的身份验证和帐户管理解决方案所需的所有工具.
-- [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - 内置帐户包的角色支持.
+- [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - Roles support for the built-in accounts packages.
 - [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) - 跟踪用户及其元数据.
 
 ## Administration
@@ -202,7 +202,7 @@ _调试工具_
 
 - [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) - 镀铬扩展.
 - [msavin:mongol](https://github.com/msavin/Mongol/) - Meteor for MongoDB Collections 的可视化编辑工具.
-- [msavin:jetsetter](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
+- [msavin:jetsetter](https://github.com/msavin/JetSetter) - Meteor 会话变量的可视化获取/设置工具.
 - [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) - Meteor 的可扩展开发控制台.
 
 ## Editor Plugins
@@ -236,6 +236,11 @@ _Scaffolding_
 - [VulcanJS](https://github.com/VulcanJS/Vulcan) - 使用 React、GraphQL 和 Meteor 快速构建应用程序的工具包.
 - [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - 由 Meteor 提供支持的开源教育平台.
 - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - MongoDB 管理工具.
+
+## Internationalization
+
+- [Meteor-Internationalization](https://github.com/veliovgroup/Meteor-Internationalization) - 用于 Meteor 的超轻量级和快速 i18n 同构驱动程序，支持占位符.
+- [meteor-accounts-t9n](https://github.com/softwarerero/meteor-accounts-t9n/) - 流星帐户错误信息的翻译.
 
 ## Front End Frameworks
 
@@ -285,7 +290,7 @@ _在哪里可以发现新的 Meteor 事物_
 - #### Paid
   - [Udemy - Learn React and Meteor in 2021: Build a multiplayer game](https://www.udemy.com/course/modern-web-development-with-react-and-meteor-2021/)
   - [Udemy - Realtime Applications with Meteor and Vue](https://www.udemy.com/course/meteor-vue) - 西班牙语课程.
-  - [leveluptutorials](https://www.leveluptutorials.com/) - 包含一些免费教程，但主要针对 1.x.
+  - [leveluptutorials](https://www.leveluptutorials.com/) - 包含一些免费教程，但主要是 1.x.
 
 ## Tutorials
 
