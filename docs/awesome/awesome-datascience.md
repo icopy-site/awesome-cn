@@ -545,6 +545,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Jingles](https://jinglescode.github.io/) - 从学术论文中审查和提取关键概念
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - 数据科学笔记本
 - [Deep and Shallow](https://deep-and-shallow.com/) - 数据科学中所有深浅不一的事物
+- [Loic Tetrel](https://ltetrel.github.io/) - 数据科学博客
 
 
 

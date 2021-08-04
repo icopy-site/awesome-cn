@@ -110,7 +110,7 @@
 - [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - 为什么你应该使用 BackstopJS.
 - [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - PhantomCSS 简介.
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome 正在改变测试自动化的传统方法.
-- [Visual regression testing using Jest, Chromeless and AWS Lambda](https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda) - 使用 Chromeless 和 jest-image-snapshot 的教程.
+- [Visual regression testing using Jest, Chromeless and AWS Lambda](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - 使用 Chromeless 和 jest-image-snapshot 的教程.
 - [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - 简介 [Differencify](https://github.com/NimaSoroush/differencify) 以及如何使用它.
 - [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - 使用 Puppeteer、Jest 和 VisWiz.io 设置可视化测试的教程.
 - [Keeping a React Design System consistent: using visual regression testing to save time and headaches](https://techblog.commercetools.com/keeping-a-react-design-system-consistent-f055160d5166) - 使用 percy 和 jest puppeteer 来直观地测试 React 组件库.
@@ -131,7 +131,7 @@
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - 关于如何使用 Screenster 创建可视化自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - 演示 Look-alike Chrome 扩展程序是什么、它是如何工作的以及它是如何构建的以及为什么构建.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - 如何使用 CSS 评论家编写您的第一个 CSS 测试，使其通过、打破并再次通过.
-- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者 Nikhil Verma - Badoo 的移动 Web 团队如何将 PhantomCSS 转换并集成到他们的工作流程中，并将其连接到他们的 CI 流程中.
+- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者 Nikhil Verma - Badoo 的移动 Web 团队如何将 PhantomCSS 转换并集成到他们的工作流程中，并将其连接到他们的 CI 流程.
 
 ## Deprecated
 

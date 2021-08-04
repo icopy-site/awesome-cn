@@ -7,7 +7,7 @@
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) 第一的. 如果您在此处看到不再维护或不适合的包或项目，请提交拉取请求以改进此文件. 谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ; 你摇滚！
+请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) 第一的. 如果您在此处看到不再维护或不适合的包或项目，请提交拉取请求以改进此文件. 谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
 
 
 * 图书馆
@@ -55,7 +55,7 @@
 * [Postgres](https://github.com/stablekernel/postgresql-dart) - PostgreSQL 数据库驱动程序，它使用扩展的二进制协议来实现更高效和安全的查询.
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL 连接器.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL 数据库驱动程序.
-* [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL.
+* [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - 服务器端数据库对象模型，可使用 MySQL/PGSQL 进行简单的数据操作，而无需编写 SQL.
 * [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - 服务器端数据库迁移，使用 MySQL/PGSQL 进行简单的版本控制数据库结构操作，而无需编写 SQL.
 
 ## Package Managers
@@ -116,7 +116,7 @@
 
 ## Tools
 
-* [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory 是一种用于分析和调试 Dart 应用程序的工具.
+* [DevTools](https://dart.dev/tools/dart-devtools) - 一套用于 Dart 和 Flutter 的调试和性能工具.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - 将 Dart 代码编译为 JavaScript.
 * [js2dart](https://github.com/vojtajina/js2dart) - 将 Javascript 代码编译为 Dart.
 * [Stagehand](https://github.com/dart-lang/stagehand) - 受 Web Starter Kit 和 Yeoman 等工具启发的项目脚手架生成器.
@@ -127,6 +127,7 @@
 * [json2dart](https://javiercbk.github.io/json_to_dart) - 给定一个 json，它生成 dart 类来解析和生成具有给定结构的 json.
 * [webdev_proxy](https://github.com/Workiva/webdev_proxy) - 一个代理包装器 [webdev](https://github.com/dart-lang/webdev) 它增加了对将 404 重新路由到索引的支持，允许在本地运行时进行基于 HTML 推送的路由.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) - 额外的 linter 报告代码指标、检查反模式并为分析器提供额外的规则.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一种 CLI 工具，可将经过训练的经典 ML 模型转换为具有零依赖关系的本机 Dart 代码.
 
 ## Tutorials
 
@@ -153,7 +154,7 @@
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - 来自 JetBrains 的 Dart 插件，用于 WebStorm、IntelliJ IDEA、PhpStorm、PyCharm 和 RubyMine.
 * [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart 包.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - Dart 语言的 Emacs 模式.
-* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Vim 中 Dart 的语法高亮.
+* [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Vim 中 Dart 的语法高亮显示.
 * [Atom Plugin](https://atom.io/packages/atom-dart) - 对 Atom 的 Dart 支持.
 * [VSCode Plugin](https://dartcode.org/) - 对 Visual Studio Code 的 Dart 支持.
 * [DartPad](https://dartpad.dartlang.org/) - 在线轻量级编辑器.
