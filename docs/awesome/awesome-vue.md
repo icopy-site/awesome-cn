@@ -89,6 +89,9 @@
 - [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
 - [VueJS 乌兹别克斯坦 - Telegram Group [乌兹别克]](https://t.me/vuejsuzbekcommunity)
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
+- [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
+- [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
+
 
 ### Conferences
 
@@ -339,7 +342,7 @@
 - [**easy-vue**](https://github.com/TIGERB/easy-vue) 一个简单的例子，使用 vue 实现带有 vue 2.0、vuex 2.0、vue-router 2.0、vue-infinite-scroll 2.0、vue-progressbar 2.0 的easy web [TIGERB](https://github.com/tigerb)
 - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) 经过 [Metric Loop](https://metricloop.com/blog)
 - [vue-memo](https://github.com/akifo/vue-memo) 使用 Vue.js(&gt;2.x.)、vue-router(&gt;2.x.)、vuex(&gt;2.x.)、vuex-router-sync@next(&gt;3.x.) 的简单演示构建和 Firebase(&gt;3.6.x) 由 [akifo](https://github.com/akifo)
-- [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) 基于 Vue 2.0 的基于 JSON 的简历 [ChangJoo Park](https://github.com/ChangJoo-Park/)
+- [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
 - [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) 使用 `Phoenix Framework`、**Vue** 和 **Vue Router** 开发（[_**demo**_](https://phoenix-vue-auth.herokuapp.com))
 - [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) 经过 [@shershen08](https://github.com/shershen08)
 - [ASP.NET Core Vue.js server-side rendering sample](https://github.com/mgyongyosi/VuejsSSRSample) 经过 [@mgyongyosi](https://github.com/mgyongyosi)
@@ -990,7 +993,7 @@
 - [Sainsbury's](https://sainsburys.jobs/)
 - [AREX](https://arex.io/)
 - 大疆
-- Octimine GmbH
+- Octimine 有限公司
 - Hunliji
 - [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
 - [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
@@ -1278,7 +1281,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) - 一个简单的 DrawerLayout 组件，例如 Android 为 Vue.js 提供的组件.
 - [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) - 具有一组基本功能的简单菜单组件，80% 的情况下就足够了
 - [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation) - 支持 vue-router 的 Vue.js 2 树状导航
-- [bp-vuejs-dropdown](https://github.com/borisbutenko/bp-vuejs-dropdown)  - Vuejs =&gt; 2 下拉列表. 易于使用，无需外部，可选.
+- [bp-vuejs-dropdown](https://github.com/borisbutenko/bp-vuejs-dropdown) - Vuejs => 2 dropdown. Easy to use, no external, optional.
 - [vue-bulma-accordion](https://github.com/Lunrtick/vue-bulma-accordion) - 简单、易于配置的手风琴或可折叠风格的 Bulma 自定义或内置图标可用
 - [v-selectmenu](https://github.com/TerryZ/v-selectmenu) - 适用于 Vue2 的简单、易用且高度定制的菜单解决方案.
 - [vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 具有不同 CSS 动画的画布侧边栏菜单组件.
@@ -1342,7 +1345,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS 组件包装 Morris.js.
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Chart.js 的 Vue.js 包装器.
-- [hchs-vue-charts](https://github.com/hchstera/vue-charts) - 基于 ChartJs 的 Vue2.0 包装器.
 - [vue-echarts](https://github.com/Justineo/vue-echarts) - Vue.js 的 ECharts 组件.
 - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Vue.js 的简单、优雅的火花线.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Vue 的 Highcharts 组件.
@@ -1433,13 +1435,13 @@ _在日历中显示不可编辑的事件_
 - [vue-cal](https://github.com/antoniandre/vue-cal)  - 一个 Vue JS 完整日历，无依赖，无 BS.  .
 - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar)  - Vue2 的全年（一页上 12 个月）日历. 使用 dayjs.
 - [vuelendar](https://github.com/codesthq/vuelendar) - 用 VueJS 编写的简单干净的日历
-- [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Vue 的日期选择器组件
 - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - 使用 date-fns 的最轻量级 VueJS 日期选择器和日期范围选择器，没有其他依赖项
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar)  - 它是一个基于 Vue 的组件，提供显示每日事件的完整日历功能. 这 [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS 轻量级包装组件 [jquery ui datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) - 一个易于使用的组件，用于显示某人的日程安排列表，以帮助安排面试或访问安排.
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro)  - 农历的 vue 组件. 使用 calendar.js 进行日期操作.
 - [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - 一个简单而甜蜜的 vue.js 日历
+- [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - vue.js 的日期选择器组件
 
 #### Map
 
@@ -2451,7 +2453,7 @@ _无缝滚动_
 - [vue-lazy-youtube-video](https://github.com/3vilArthas/vue-lazy-youtube-video) - 一个简单的 Vue.js 组件，用于延迟加载 YouTube 视频.
 - [lazyload-vue](https://github.com/Kazap/lazyload-vue)- 用于 vanilla-lazyload 的 Vue 插件.
 - [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - 一个 vue 插件，可以更好地支持图像和 iframe 的原生延迟加载.
-- [v-lazy-component](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
+- [v-lazy-component](https://github.com/RadKod/v-lazy-component)  - Vue 组件在可见时呈现. 使用 Intersection Observer API.
 - [vue-lazy](https://github.com/bartdominiak/vue-lazy) - 基于 Intersection API 的轻量级图像/图片延迟加载
 - [vue3-lazyload](https://github.com/jambonn/vue-lazyload) - 用于在 vue 3 应用程序中延迟加载图像的 Vue 模块.
 

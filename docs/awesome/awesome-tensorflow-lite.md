@@ -20,12 +20,12 @@
 * [Announcement of the new converter](https://groups.google.com/a/tensorflow.org/d/msg/tflite/Z_h7706dt8Q/sNrjPj4yGgAJ) - [MLIR](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)基于并支持新类别模型的转换，例如 Mask R-CNN 和 Mobile BERT 等，支持功能控制流和更好的转换过程中的错误处理. 默认情况下在每晚构建中启用\.
 * [Android Support Library](https://github.com/tensorflow/tflite-support/tree/master/tensorflow_lite_support/java) - 使移动开发更容易（[Android](https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/EXPLORE_THE_CODE.md) 示例代码）.
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - 创建您的自定义 [image & text](https://github.com/tensorflow/examples/tree/master/tensorflow_examples/lite/model_maker) 只需几行代码即可轻松进行分类模型. 请参阅下面的图标分类器以获取社区教程.
-* [On-device training](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)  - 终于来了！ 目前仅限于图像分类的迁移学习，但这是一个很好的开始. 看官方 [Android](https://github.com/tensorflow/examples/blob/master/lite/examples/model_personalization/README.md) 示例代码和来自社区的另一个（[Blog](https://aqibsaeed.github.io/on-device-activity-recognition) | [Android](https://github.com/aqibsaeed/on-device-activity-recognition)).
+* [On-device training](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)  - 终于来了！ 目前仅限于图像分类的迁移学习，但这是一个很好的开始. 看官方 [Android](https://github.com/tensorflow/examples/blob/master/lite/examples/model_personalization/README.md) 示例代码和社区中的另一个（[Blog](https://aqibsaeed.github.io/on-device-activity-recognition) | [Android](https://github.com/aqibsaeed/on-device-activity-recognition)).
 * [Hexagon delegate](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/hexagon_delegate.md)  - 如何使用 Hexagon Delegate 加速移动和边缘设备上的模型推理. 另见博文  [Accelerating TensorFlow Lite on Qualcomm Hexagon DSPs](https://blog.tensorflow.org/2019/12/accelerating-tensorflow-lite-on-qualcomm.html).
 * [Model Metadata](https://www.tensorflow.org/lite/convert/metadata) - 提供模型描述的标准，这也使 [Code Gen and Android Studio ML Model Binding](https://www.tensorflow.org/lite/inference_with_metadata/codegen).
 
 ## Models with samples
-以下是带有应用/设备实现和参考的 TensorFlow Lite 模型.
+Here are the TensorFlow Lite models with app / device implementations, and references.
 注意：包含来自 MediaPipe 的预训练 TensorFlow Lite 模型，您可以使用或不使用 MediaPipe 来实现这些模型.
 
 ### Computer vision
@@ -35,7 +35,8 @@
  | 分类 |  MobileNetV1 ([download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/mobilenet_v1_1.0_224_quant_and_labels.zip))                          | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android) \| [iOS](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/ios) \| [Raspberry Pi](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/raspberry_pi) \| [Overview](https://www.tensorflow.org/lite/models/image_classification/overview) | tensorflow.org     |
  | 分类 |  MobileNetV2 | 在 Android 上识别花 [Codelab](https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android/#0) \| [Android](https://github.com/tensorflow/examples/tree/master/lite/codelabs/flower_classification/android)                                                                                                                                                                    |  TensorFlow 团队 |
  | 分类 |  MobileNetV2 | 皮肤病变检测 [Android](https://github.com/AakashKumarNain/skin_cancer_detection/tree/master/demo)                                                                                                                                                                                                                                                                                                              | 社区 |
- | 分类 |  MobileNetV2 | 美国手语检测 [Android](https://github.com/sayannath/American-Sign-Language-Detection)                                                                                                                                                                                                                                                                                                              | 社区 |
+ | 分类 |  MobileNetV2 | 美国手语检测\| [Android](https://github.com/sayannath/American-Sign-Language-Detection)                                                                                                                                                                                                                                                                                                          | 社区 |
+ | 分类 |  CNN + 量化感知训练 | 石头剪纸检测 [Colab Notebook](https://colab.research.google.com/drive/1Wdso2N_76E8Xxniqd4C6T1sV5BuhKN1o?usp=sharing) \| [Flutter](https://github.com/sayannath/American-Sign-Language-Detection)                                                                                                                                                                                                                                                                                                             | 社区 |
  | 分类 |  EfficientNet-Lite0 ([download](https://github.com/margaretmz/icon-classifier/blob/master/ml-code/icons-50.tflite) ) | 图标分类器 [Colab & Android](https://github.com/margaretmz/icon-classifier) \| [tutorial 1](https://medium.com/swlh/icon-classifier-with-tflite-model-maker-9263c0021f72) \| [tutorial 2](https://medium.com/@margaretmz/icon-classifier-android-app-1fc0b727f761)                                                                                                                                                 | 社区 |
  | 物体检测 | 量化 COCO SSD MobileNet v1 ([download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/coco_ssd_mobilenet_v1_1.0_quant_2018_06_29.zip)) | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android) \| [iOS](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/ios) \| [Overview](https://www.tensorflow.org/lite/models/object_detection/overview#starter_model)                                                                                                                     | tensorflow.org     |
  | 物体检测 | 优洛 | [Flutter](https://blog.francium.tech/real-time-object-detection-on-mobile-with-flutter-tensorflow-lite-and-yolo-android-part-a0042c9b62c6) \| [Paper](https://arxiv.org/abs/1506.02640)                                                                                                                                                                                                                                 | 社区 |
@@ -80,7 +81,7 @@
 ### Recommendation
  | 任务 | 型号 | 应用\| 参考 | 来源 |
 | ------------------ |------------------------------------| ------------------------------------------------------------------------------------- | ------------ |
- | 设备推荐 | [Dual-Encoder](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/ml)                 | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/android) \| [iOS](https://github.com/zhuzilin/on-device_recommendation_tflite) \| [Reference](https://blog.tensorflow.org/2020/09/introduction-to-tflite-on-device-recommendation.html)      |  tf.org 和社区 |
+ | 设备端推荐 | [Dual-Encoder](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/ml)                 | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/android) \| [iOS](https://github.com/zhuzilin/on-device_recommendation_tflite) \| [Reference](https://blog.tensorflow.org/2020/09/introduction-to-tflite-on-device-recommendation.html)      |  tf.org 和社区 |
 
 ### Game
  | 任务 | 型号 | 应用\| 参考 | 来源 |
@@ -125,7 +126,7 @@
 * [Fritz.ai](https://www.fritz.ai/) - 一个机器学习平台 [@fritzlabs](https://twitter.com/fritzlabs) 这使得移动开发更容易：使用预先训练的 ML 模型和端到端平台来构建和部署自定义训练模型.
 * [MediaPipe](https://github.com/google/mediapipe)  - Google AI 的跨平台（移动、桌面和 Edge TPU）AI 管道.  （下午 [Ming Yong](https://twitter.com/realmgyong)) | [MediaPipe examples](https://mediapipe.readthedocs.io/en/latest/examples.html).
 * [Coral Edge TPU](https://coral.ai/) - 谷歌的边缘硬件. [Coral Edge TPU examples](https://coral.ai/examples/).
-* [TensorFlow Lite Flutter Plugin](https://github.com/am15h/tflite_flutter_plugin/) - Provides a dart API similar to the TensorFlow Lite Java API for accessing TensorFlow Lite interpreter and performing inference in flutter apps. [tflite_flutter on pub.dev](https://pub.dev/packages/tflite_flutter).
+* [TensorFlow Lite Flutter Plugin](https://github.com/am15h/tflite_flutter_plugin/) - 提供类似于 TensorFlow Lite Java API 的 dart API，用于访问 TensorFlow Lite 解释器并在 Flutter 应用程序中执行推理. [tflite_flutter on pub.dev](https://pub.dev/packages/tflite_flutter).
 
 ## Helpful links
 * [Netron](https://github.com/lutzroeder/netron) - 用于可视化模型的工具.
@@ -147,7 +148,7 @@
 * 2020-04-20 [What is new in TensorFlow Lite](https://blog.tensorflow.org/2020/04/whats-new-in-tensorflow-lite-from-devsummit-2020.html) - 作者：Khanh LeViet.
 * 2020-04-17 [Optimizing style transfer to run on mobile with TFLite](https://blog.tensorflow.org/2020/04/optimizing-style-transfer-to-run-on-mobile-with-tflite.html) - Khanh LeViet 和 Luiz Gustavo Martins.
 * 2020-04-14 [How TensorFlow Lite helps you from prototype to product](https://blog.tensorflow.org/2020/04/how-tensorflow-lite-helps-you-from-prototype-to-product.html) - 作者：Khanh LeViet.
-* 2019-11-08 [Getting  Started with ML on MCUs with TensorFlow](https://blog.particle.io/2019/11/08/particle-machine-learning-101/) -  By Brandon Satrom.
+* 2019-11-08 [Getting  Started with ML on MCUs with TensorFlow](https://blog.particle.io/2019/11/08/particle-machine-learning-101/) - 布兰登·萨特罗姆.
 * 2019-08-05 [TensorFlow Model Optimization Toolkit — float16 quantization halves model size](https://blog.tensorflow.org/2019/08/tensorflow-model-optimization-toolkit_5.html) - 由 TensorFlow 团队提供.
 * 2018-07-13 [Training and serving a real-time mobile object detector in 30 minutes with Cloud TPUs](https://blog.tensorflow.org/2018/07/training-and-serving-realtime-mobile-object-detector-cloud-tpus.html) - 作者：Sara Robinson、Aakanksha Chowdhery 和 Jonathan Huang.
 * 2018-06-11 - [Why the Future of Machine Learning is Tiny](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/) - 皮特·沃登 (Pete Warden).
@@ -157,7 +158,7 @@
 * 2021-12-01 [AI and Machine Learning On-Device Development](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/) （抢先体验）- 作者：劳伦斯·莫罗尼 (Laurence Moroney)[@lmoroney](https://twitter.com/lmoroney)).
 * 2020-10-01 [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - 劳伦斯·莫罗尼 (Laurence Moroney)[@lmoroney](https://twitter.com/lmoroney)).
 * 2020-04-06 [Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter](https://www.packtpub.com/product/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/9781789611212)：构建可扩展的现实世界项目，以在 Android 和 iOS 上实现端到端的神经网络（[GitHub](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects)) - 作者 Anubhav Singh ([@xprilion](https://github.com/xprilion)) 和 Rimjhim Bhadani ([@Rimjhim28](https://github.com/Rimjhim28)).
-* 2019-12-01 [TinyML](http://shop.oreilly.com/product/0636920254508.do) - 皮特·沃登（Pete Warden）（[@petewarden](https://twitter.com/petewarden)）和丹尼尔·斯图纳亚克（[@dansitu](https://twitter.com/dansitu)).
+* 2019-12-01 [TinyML](http://shop.oreilly.com/product/0636920254508.do) - 皮特·沃登（Pete Warden）（[@petewarden](https://twitter.com/petewarden)) 和丹尼尔·斯图纳亚克 ([@dansitu](https://twitter.com/dansitu)).
 * 2019-10-01 [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.practicaldeeplearning.ai/) - Anirudh Koul ([@AnirudhKoul](https://twitter.com/AnirudhKoul)), Siddha Ganju ([@SiddhaGanju](https://twitter.com/SiddhaGanju)) 和 Meher Kasam ([@MeherKasam](https://twitter.com/MeherKasam)).
 
 ### Videos
@@ -174,6 +175,6 @@
 * 2020-08-08 [Talking Machine Learning with Hoi Lam](https://anchor.fm/talkingwithapples/episodes/Talking-Machine-Learning-with-Hoi-Lam-eiaj7v).
 
 ### MOOCs
-* [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190) - 由 Daniel Situnayake (@dansitu)、Paige Bailey ([@DynamicWebPaige](https://twitter.com/DynamicWebPaige)）和胡安·德尔加多.
+* [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190) - 由 Daniel Situnayake (@dansitu)、Paige Bailey ([@DynamicWebPaige](https://twitter.com/DynamicWebPaige)), and Juan Delgado.
 * [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow) - Laurence Moroney 的 Coursera 课程（[@lmoroney](https://twitter.com/lmoroney)).
 * [The Future of ML is Tiny and Bright](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)  - 由哈佛与谷歌合作创建的一系列 edX 课程. 讲师 - Vijay Janapa Reddi、Laurence Moroney 和 Pete Warden.

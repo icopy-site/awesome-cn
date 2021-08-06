@@ -24,7 +24,7 @@
 - [Fragments](https://gitlab.gnome.org/World/Fragments)  - BitTorrent 客户端.  ![GNOME 圈子][GNOME 圈子]
 - [Newsflash](https://gitlab.com/news-flash/news_flash_gtk)  - RSS提要阅读器.  ![GNOME 圈子][GNOME 圈子]
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader)  - 从谷歌字体获取字体.  ![GNOME 圈子][GNOME 圈子]
-- [Tangram](https://github.com/sonnyp/Tangram)  - 将您的 web 应用程序分组为一个应用程序.  ![GNOME 圈子][GNOME 圈子]
+- [Tangram](https://github.com/sonnyp/Tangram)  - 将您的 web 应用程序分组到一个应用程序中.  ![GNOME 圈子][GNOME 圈子]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直标签的 Web 浏览器.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - 现代邮件客户端，最初由 Yorba 创建.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - RSS/Atom 提要阅读器.
@@ -262,7 +262,8 @@
 ### Official Venues
 
 - [GNOME News Feed](https://www.gnome.org/news/) - 官方新闻帖子.
-- [Planet GNOME](http://planet.gnome.org/) - GNOME 开发者博客联盟
+- [This Week in GNOME](https://thisweek.gnome.org/) - 来自社区的项目维护者的每周新闻.
+- [Planet GNOME](http://planet.gnome.org/) - GNOME 开发者博客联盟.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
 - [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用 GNOME IRC 频道 ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))

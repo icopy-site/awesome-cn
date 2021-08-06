@@ -92,7 +92,7 @@ Content about: C, C#, C++ \
 
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Algorithms, Various programming languages \
-特色播放列表：“代码的本质：使用处理模拟自然系统”、“学习处理：图像、动画和交互编程初学者指南”.
+Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVWXu5Yu4c2Cp9dUrzbmaAF117DVADvaOXLtjJ3Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeeksLesson)
 
@@ -593,6 +593,13 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ1oqKIj6ngUGE7NmB2cHzjqpLMu1RBdh_hlc9I-Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
+
+[**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
+内容关于：JavaScript、React、React-Native、Next.js、Node.js、Express、GraphQL、Serverless Functions \
+精选播放列表：“JavaScript 游戏演练”、“克隆”、“区块链”、“JavaScript 内置方法”.  \
+<br/>
+
 
 ## Computer science
 
@@ -1031,7 +1038,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 
 [**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：Adobe Illustrator、Adobe Photoshop \
-Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
+精选播放列表：“Illustrator 教程”、“Photoshop 教程”、“其他设计视频”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)
