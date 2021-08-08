@@ -18,6 +18,16 @@
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Ansible 角色的官方存储库和社区站点.
 - [Ansible Blog](https://www.ansible.com/blog) - 官方 Ansible 博客.
 
+## Community
+
+&gt; 与 Ansible 社区聊天的地方
+
+- 关于代码 - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) 和 [GitHub.com/ansible-community](https://github.com/ansible-community).
+- [IRC](https://docs.ansible.com/ansible/latest/community/communication.html#irc-channels) - #ansible, #ansible-devel and #ansible-community amongst others on [libera.chat](https://libera.chat/).
+- [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - Ansible subreddit.
+- [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - Ansible 不和谐.
+- [ansible.com/community](https://ansible.com/community) - Twitter、邮件列表、聚会等.
+
 ## Tutorials
 
 &gt; 学习 Ansible 的教程和课程.

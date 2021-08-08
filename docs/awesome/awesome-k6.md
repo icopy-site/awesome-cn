@@ -42,7 +42,7 @@
 
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - 作为 CircleCI 构建的一部分运行 k6 负载测试.
 - [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - 作为 Jenkins 构建的一部分运行 k6 负载测试.
-- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 作为 GitHub Actions 构建的一部分运行 k6 负载测试.
+- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 运行 k6 负载测试作为 GitHub Actions 构建的一部分.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - 作为 Azure DevOps 管道的一部分运行 k6 负载测试.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - 作为 Bitbucket Pipeline 构建的一部分运行 k6 负载测试.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - 使用 k6 对 websocket 进行性能测试的示例.
@@ -69,6 +69,7 @@
 ## CI
 - [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - 在 GitHub Actions 中运行 k6 的市场操作.
 - [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - 用于在 Azure Devops 管道中运行 k6 的市场扩展.
+- [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test)  - k6 Orb 用于在 CircleCI 中运行 k6. 支持在 CircleCI runner 和 k6 云 SaaS 服务中运行测试.
 
 ## Stacks
 
