@@ -71,6 +71,7 @@
 - [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
 - [Go](https://github.com/petaki/inertia-go)
 - [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
+- [Rust](https://github.com/stuarth/inertia-rs)
 
 ## Resources
 
@@ -107,6 +108,7 @@
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - 使用 CakePHP 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - 使用 Masonite 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - 使用 Laravel React 制作的演示应用程序.
+- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - 使用 Clojure 和 Reagent 制作的演示应用程序.
 
 ### Other 
 

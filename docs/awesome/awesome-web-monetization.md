@@ -77,7 +77,7 @@ _任何包/模块和插件_
 
 - [svelte-monetization](https://github.com/sorxrob/svelte-monetization)  - Web 货币化 API 的最小和轻量级包装器.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/svelte.png)
 - [monetize.js](https://github.com/sunchayn/monetize.js)  - 用于管理和模拟 Web 货币化的事件驱动库.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
-- [types-wm](https://github.com/dacioromero/types-wm) - 网络货币化的 TypeScript 定义！[](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/typescript.png)
+- [types-wm](https://github.com/dacioromero/types-wm) - 网络货币化的 TypeScript 定义 ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/typescript.png)
 - [ngx-monetization](https://github.com/CDDelta/ngx-monetization)  - 用于 Angular 的网络货币化 API.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/angular.png)
 - [react-hook-wm](https://github.com/dacioromero/react-hook-wm)  - 用于与 Web 货币化集成的 React 钩子.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
 - [react-monetize](https://github.com/guidovizoso/react-monetize)  - 帮助器和挂钩可加速您与 Web Monetization API 的集成.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
@@ -87,7 +87,6 @@ _任何包/模块和插件_
 - [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization)  - 一个 Eleventy 插件，用于通过帖子和网站内容获利.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/11ty.png)
 - [web-monetization-components](https://github.com/philnash/web-monetization-components)  - 您可以在您的网络货币化网站上使用的网络组件集合.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [revshare](https://github.com/kewbish/revshare)  - 用于收益分享的 JS 库.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
-- [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  - 试验网络货币化 API.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy)  - 用于注入 Web 货币化元标记的简单 Go 代理.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/go.png)
 - [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization)  - Gridsome 的网络货币化.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/gridsome.png)
 - [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization)  - 将网络货币化元标记添加到您的 VuePress 网站.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/vuejs.png)
