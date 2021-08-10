@@ -25,7 +25,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://querycert.github.io) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -39,7 +39,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Libraries
 
-- [ALEA](https://github.com/coq-community/alea) - 用于推理随机算法的库.
+- [ALEA](https://github.com/coq-community/alea) - Library for reasoning on randomized algorithms.
 - [Bignums](https://github.com/coq/bignums) - 任意大数库.
 - [CoLoR](http://color.inria.fr) - 关于重写理论、lambda 演算和终止的库，以及扩展 Coq 标准库的公共数据结构子库.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) - 库为 Haskell 用户平滑过渡到 Coq.
@@ -61,12 +61,13 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Package and Build Management
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - 与 Coq 一起分发并基于生成 makefile 的构建工具.
+- [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix 帮助程序脚本来自动化 Coq 的本地构建和 CI.
 - [Coq Package Index](https://coq.inria.fr/packages.html) - 基于 OPAM 的 Coq 包集合.
-- [Coq Platform](https://github.com/MSoegtropIMC/coq-platform) - 实验性策划的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
-- [Coq-community Templates](https://github.com/coq-community/templates) - 用于为 Coq 项目生成配置文件的模板.
+- [Coq platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
+- [coq-community Templates](https://github.com/coq-community/templates) - 用于为 Coq 项目生成配置文件的模板.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) - 多版本 Coq 的 Docker 镜像.
 - [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - 用于 Coq 和数学组件库版本的多种组合的 Docker 映像.
-- [Docker-Coq-action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
+- [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
 - [Dune](https://dune.build) - Coq 和 OCaml（前 jbuilder）的可组合和自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) - Linux 和其他 Unix 系统的包管理器，支持原子升级和回滚.
 - [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Nix 的 Coq 相关包的集合.
@@ -90,6 +91,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Tools
 
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集合.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - 用于证明 OCaml 程序在分离逻辑中的属性的工具.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
 - [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) - 从 OCaml 代码生成惯用 Coq 的工具.
@@ -117,6 +119,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Four Color Theorem](https://github.com/math-comp/fourcolor) - 四色定理的正式证明，图论的一个里程碑式的结果.
 - [Gaia](https://github.com/coq-community/gaia) - 实施布尔巴基的《数学原理》，包括集合论和数论.
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - 基于塔斯基公理系统的几何形式化.
+- [Goedel](https://github.com/coq-community/goedel) - Gödel-Rosser 不完备定理的构造性证明.
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
 - [Homotopy Type Theory](https://github.com/HoTT/HoTT) - 同伦理论思想的发展.
 - [Infotheo](https://github.com/affeldt-aist/infotheo) - 信息论和线性纠错码的形式化.
@@ -129,8 +132,9 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Verified Software
 
 - [CompCert](http://compcert.inria.fr) - 几乎所有 C 语言 (ISO C99) 的高保证编译器，为 PowerPC、ARM、RISC-V 和 x86 处理器生成高效代码.
+- [Ceramist](https://github.com/certichain/ceramist) - 经过验证的基于散列的近似成员结构，例如布隆过滤器.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - 加密原始代码生成.
-- [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - Verified OCaml implementation of an algorithm for incremental cycle detection in graphs.
+- [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - 已验证的 OCaml 实现了一种用于图形中增量循环检测的算法.
 - [JSCert](https://github.com/jscert/jscert) - 带有经过验证的参考解释器的 ECMAScript 5 (JavaScript) 的 Coq 规范.
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的正式模型、类型系统的逻辑关系以及一些 Rust 库的安全证明.
 - [Vélus](http://velus.inria.fr/) - 经过验证的编译器，用于类似 Lustre/Scade 的数据流同步语言.
@@ -148,6 +152,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
 - [Official Coq wiki](https://github.com/coq/coq/wiki)
 - [Official Coq Twitter](https://twitter.com/CoqLang)
+- [100 famous theorems proved using Coq](https://github.com/coq-community/coq-100-theorems)
 - [coq-community package maintenance project](https://github.com/coq-community/manifesto)
 - [Coq subreddit](https://www.reddit.com/r/coq/)
 - [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
@@ -189,6 +194,8 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - 在线证明挑战.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 来定义逻辑概念和函数以及对它们的推理.
+- [Hydra battles and Cie](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣数学的变化，包括文档和练习.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - 使用规范结构进行编程和证明的设计模式演示.
+- [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - 数学组件教程的源代码.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - 使用 Coq 编写形式证明的基础知识.
 - [Tricks in Coq](https://github.com/tchajed/coq-tricks) - 难以发现的提示、技巧和功能.

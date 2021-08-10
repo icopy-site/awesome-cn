@@ -10,10 +10,10 @@
 
 _awesome_ Common Lisp 库的精选列表.
 
-对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) and the [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 列表.
+对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 列表.
 
 此处列出的所有库均可从 [Quicklisp][16] 获得，除非
-stated otherwise. The ones marked with a :star: are so widespread and
+另有说明. 标有 :star: 的那些是如此普遍和
 他们成为社区标准的坚实基础. 你不会错
 他们.  Quicklisp、BordeauxThreads 和
 这样的. 用 a 表示的库是我们喜欢和想要的库
@@ -69,7 +69,8 @@ Common Music 的工作转移到（基于方案的）cm3.
 构建系统
 =============
 
-* ：星星： [ASDF](https://common-lisp.net/project/asdf/)  - 另一个系统定义工具；  Common Lisp 的构建系统.  [外籍人士][14].
+* ：星星： [ASDF](https://common-lisp.net/project/asdf/)  - 另一个系统定义工具；  Common Lisp 的构建系统.  [外籍人士][14].  Quicklisp（见 [library manager](#library-manager)) 在引擎盖下使用 ASDF.
+  * [known ASDF extensions](https://common-lisp.net/project/asdf/#extensions)，例如`asdf-system-connections`，它允许您指定在加载其他两个系统时自动加载的系统，以连接它们.
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)  - ASDF 的扩展.  [外籍人士][14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)  - 一种可视化 ASDF 系统库依赖关系、函数调用图和类继承的工具.  [LLGPL] [8].
 
@@ -305,7 +306,7 @@ GUI
 
 * [LispWork's CAPI](http://www.lispworks.com/products/capi.html)  - 具有移动运行时的便携式 GUI 工具包. 专有，但带有免费版本.
 *  [Qtools](https://github.com/Shinmera/qtools/)  - 基于 CommonQt 的 Qt 工具包.  [zlib][33] 还有 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的 UI 组件），与 [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
-* ：星星： [CommonQt](https://github.com/commonqt/commonqt) - A Common Lisp binding for Qt4 via QtSmoke. [FreeBSD][39].
+* ：星星： [CommonQt](https://github.com/commonqt/commonqt)  - 通过 QtSmoke 为 Qt4 绑定的 Common Lisp.  [FreeBSD] [39].
 * ：星星： [ltk](http://www.peter-herth.de/ltk/)  - Tk 工具包的绑定.  [LLGPL][8] 或 [GNU LGPL2.1][11].
   * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - 为 tkdocs 教程提供 LTk 示例.
   * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/)  - 围绕 tklib/plotchart 库与 LTk 一起使用的包装器. 这包括 20 多种不同的图表类型（xy 图、甘特图、3d 条形图等...）.
@@ -337,10 +338,10 @@ Implementations
 * ：星星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)  - Clozure Common Lisp； 仅编译器实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)  - 可嵌入的 Common Lisp； 编译为 C. [GNU LGPL2.1][11].
 * [ABCL](https://common-lisp.net/project/armedbear/)  - 武装熊Common Lisp； 以 JVM 为目标，编译为字节码.  [标准一致性][4].  [GNU GPL3][2] 带有 [类路径例外][3].
-* [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  - 卡内基梅隆大学的实施. 公共区域.
+* [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  - 卡内基梅隆大学的一个实现. 公共区域.
 * [GNU CLISP](http://www.clisp.org/)  - GNU 实现； 包含一个编译器和一个解释器.  [标准一致性][6].  [GNU GPL3][2].
 * [CLASP](https://github.com/drmeister/clasp)  - 一种新的 Common Lisp 实现，可与 C++ 库和程序无缝互操作，使用 LLVM 编译为本机代码. 这使 Clasp 能够利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1][11]（及其他）.
-* [Corman Lisp](https://github.com/sharplispers/cormanlisp)  - 在英特尔平台上运行的 Microsoft Windows 的 Common Lisp 开发环境.  [麻省理工学院][200].
+* [Corman Lisp](https://github.com/sharplispers/cormanlisp)  - 在 Intel 平台上运行的 Microsoft Windows 的 Common Lisp 开发环境.  [麻省理工学院][200].
 
 Proprietary:
 
@@ -499,9 +500,9 @@ Beginner
 * [Learn X in Y minutes - Where X = Common Lisp](https://learnxinyminutes.com/docs/common-lisp/) - 涵盖基本知识的小型 Common Lisp 教程.
 * [Lisp Koans][201] - 该项目通过许多 Common Lisp 语言功能逐步引导学习者.
  * [Practical Common Lisp][206] - Common Lisp 的很好的介绍性文本，带有实际示例. 更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
-* [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - 很好的语言介绍.
+* [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - A nice introduction into the language.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - 一本适合具有一定编程背景的初学者的好书.
-* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - 快速入门和编写 Common Lisp 的好教程.
+* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - 一个快速入门和编写 Common Lisp 的好教程.
 * [Casting SPELs in LISP](http://www.lisperati.com/casting.html) - 在阅读漫画书的同时学习 LISP 的有趣方式.
 
 Intermediate
@@ -559,7 +560,7 @@ Advanced
 * [Common Lisp 中的面向对象编程：CLOS 程序员指南][21] - 一本关于 CLOS 的古老但非常详尽的书.
 * [人工智能编程范式：Common Lisp 中的案例研究][157] - 一本关于人工智能编程的书，涵盖了一些高级 Lisp.
 
-其他书籍
+Other books
 -----------
 
 * [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 免费提供，由麻省理工学院出版社免费提供——这是标准人工智能文本中独一无二的书籍，结合科学与工程、理论和工艺来描述人工智能推理系统的构建，并包括说明这些想法的代码.
@@ -799,7 +800,7 @@ Monitoring
 
 * [prometheus.cl](https://github.com/deadtrickster/prometheus.cl)  - Prometheus.io 客户端. 用于 SBCL 和 Hunchentoot 指标（内存、线程、每秒请求数等）的 Grafana 仪表板.  [麻省理工学院][200].
 * [cl-sentry-client](https://github.com/mmontone/cl-sentry-client)  - 基于云的错误监控系统 Common Lisp 的 Sentry 客户端.  [麻省理工学院][200].
-* [rollbar.lisp](https://github.com/adventuring/rollbar.lisp) - interface to [Rollbar.com](https://rollbar.com/)，一个错误跟踪软件.
+* [rollbar.lisp](https://github.com/adventuring/rollbar.lisp) - 接口 [Rollbar.com](https://rollbar.com/)，一个错误跟踪软件.
 
 
 第三方 API
@@ -1005,7 +1006,7 @@ Readline、ncurses 和其他图形助手
   和符合 ANSI 标准的终端上的表格.  [GPL3][2].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)  - 进度条，就像在 Quicklisp 中一样！  [麻省理工学院][200].
 
-壳、壳接口
+Shells, shells interfaces
 -------------------------
 
 * [Lish](https://github.com/nibbula/lish)  - `lish` 可能有一天会成为一个 lisp shell.  [GPL3][2].
@@ -1231,7 +1232,7 @@ CSV
 
 * [repl-utilities](https://github.com/m-n/repl-utilities) - 舒适
 REPL 的常见任务（打印文档、打印外部符号、
-加载包时调用钩子，...）.  [BSD_2 条款][17].
+call hooks when loading a package,…). [BSD_2Clause][17].
 * [flight-recorder](https://github.com/vseloved/flight-recorder) - 强大的 REPL 历史工具.
 * [tracer](https://github.com/TeMPOraL/tracer)  - Common Lisp 的跟踪分析器，输出适合在 Chrome/Chromium 的跟踪查看器中显示.  [麻省理工学院][200].
 * [cl-flamegraph](https://github.com/40ants/cl-flamegraph)  - SBCL 统计分析器的包装器，用于为 Common Lisp 程序生成 FlameGraph 图表.  [BSD] [15].
@@ -1254,7 +1255,7 @@ Lisp 核心.
 * [sphinxcontrib-cldomain](https://github.com/russell/sphinxcontrib-cldomain) -
   扩展 Sphinx 以覆盖 Common Lisp. 构建文档
    Python 项目与 sphinx 一样容易.  [GPL3][2]
-* [Codex](https://github.com/CommonDoc/codex) - 一个美丽
+* [Codex](https://github.com/CommonDoc/codex) - A beautiful
    Common Lisp 的文档系统.  [麻省理工学院][200].
 * [Staple](https://github.com/Shinmera/staple)  - 使用 HTML 模板生成文档页面的工具. 使用现有的自述文件，添加文档字符串、交叉引用和到 CLHS 的链接.  [zlib] [33].
 * [cl-bibtex](https://github.com/mkoeppe/cl-bibtex)  - 用 BST-to-CL 编译器在 Common Lisp 中兼容重新实现 BibTeX 程序.  [GNU LGPL2.1][11].
@@ -1267,7 +1268,7 @@ Lisp 核心.
 * [erudite](https://github.com/mmontone/erudite)  - 以交互式开发为基础构建的文学编程系统.  [麻省理工学院][200].
 
 
-文件和目录
+Files and directories
 ---------------------
 
 * ：星星： [uiop](https://common-lisp.net/project/asdf/uiop.html) 和它的 `pathname` 包

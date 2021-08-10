@@ -4,7 +4,7 @@
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
-有什么要添加或更改的吗？ 打开一个 [pull request](https://github.com/CUTR-at-USF/awesome-transit/pulls) 或者 [issue](https://github.com/CUTR-at-USF/awesome-transit/issues).
+有什么要添加或更改的吗？ 打开一个 [pull request](https://github.com/CUTR-at-USF/awesome-transit/pulls) 要么 [issue](https://github.com/CUTR-at-USF/awesome-transit/issues).
 
 ------------------------------
 
@@ -26,7 +26,7 @@
 
 提问和查找其他社区资源的地方.
 
-- [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
+- [TransitWiki](http://transitwiki.org)  - 公共交通规划者的社区维基. 喜欢这个回购，但更好.
 - [MobilityData Slack chat](https://mobilitydata-io.herokuapp.com/)
 - [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 - OneBusAway
@@ -55,9 +55,9 @@
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/)  - 用于英国聚合交通数据的 REST API. 基于费用的访问.
-- [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API 用于购买 TransLoc 的 AVL 硬件和软件的美国 60 多个交通系统的实时车辆、路线、停靠点和到达数据.
+- [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API 用于美国 60 多个已购买 TransLoc 的 AVL 硬件和软件的交通系统的实时车辆、路线、停靠点和到达数据.
 - [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - 用于购买 NextBus 硬件和/或软件的机构的实时车辆、路线、停靠点和到达数据的 REST API.
-- [Navitia.io](http://www.navitia.io/) - REST API 用于美国和欧盟的行程规划、停止时间表、等时线等. [Navitia](https://github.com/CanalTP/navitia) is the opensource engine behind the live API.
+- [Navitia.io](http://www.navitia.io/) - REST API 用于美国和欧盟的行程规划、停止时间表、等时线等. [Navitia](https://github.com/CanalTP/navitia) 是实时 API 背后的开源引擎.
 - [CityBikes](http://api.citybik.es)  - 用于汇总来自世界各地的共享单车数据的 REST API. 供电 [pyBikes](https://github.com/eskerda/pybikes).
 - [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – 专有的公共交通管理软件由 [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
 
@@ -226,7 +226,7 @@
 - [trread](https://github.com/r-gtfs/trread) - R 的传输 (GTFS) 文件阅读器. 
 
 #### Ruby
-- [GTFS-viz](https://github.com/vasile/GTFS-viz) - Ruby 脚本，可将一组 GTFS 文件转换为 SQLite 数据库 + GeoJSONs（需要 [Transit Map](https://github.com/vasile/transit-map) Web应用程序）
+- [GTFS-viz](https://github.com/vasile/GTFS-viz) - Ruby 脚本，可将一组 GTFS 文件转换为 SQLite 数据库 + GeoJSONs（需要 [Transit Map](https://github.com/vasile/transit-map) web application)
 
 #### GTFS Converters
 
@@ -249,11 +249,11 @@
 - [osm2gtfs](https://github.com/grote/osm2gtfs) - 将 OpenStreetMap 数据和日程信息转换为 GTFS.
 - [transit_model](https://github.com/CanalTP/transit_model) - 一个 Rust 库，用于转换为/从以下格式：GTFS、NTFS（对于 Navitia，请参阅 [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) 或 NetEx ([European standard format](http://netex-cen.eu/)).
 - [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - 尝试将 GTFS stop_ids 分配给的 Python 应用程序 [TransLoc](http://transloc.com/) 使用的 ID [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 在他们的 API 中没有提供 GTFS `stop_ids`）.
-- [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration)  - 导入和同步 (Transmodel) BISON Koppelvlak1、IFF（HP/EDS 编写的格式，有点类似于 ATCO CIF）以导入铁路网络的时间表. 内部伪 NETeX 数据结构允许导出到 GTFS，并且有一些概念证明可以导出到其他格式，例如 NETeX、GTFS 和 IFF.
+- [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration)  - 导入和同步 (Transmodel) BISON Koppelvlak1、IFF（由 HP/EDS 编写的格式，有点类似于 ATCO CIF）以导入铁路网络的时间表. 内部伪 NETeX 数据结构允许导出到 GTFS，并且有一些概念证明可以导出到其他格式，例如 NETeX、GTFS 和 IFF.
 
 #### GTFS Data Collection and Maintenance Tools
 
-- [bus-router](https://github.com/atlregional/bus-router) - 使用来自的路由为 GTFS 生成缺少的 shape.txt 的 Python 脚本 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 或者 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+- [bus-router](https://github.com/atlregional/bus-router) - 使用从 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 要么 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) 一个（自托管）基于 Web 的 GTFS 编辑框架.  （注意：该项目已被弃用，以支持 [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) 使用以下命令快速设置 GTFS 编辑器（上图） [Vagrant](https://www.vagrantup.com/)
 - [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) - 一个（自托管）基于浏览器的用户界面，用于创建、编辑、导出静态 GTFS（请参阅 [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I) ）. 现场演示 [here](https://static-gtfs-manager.herokuapp.com/).
@@ -287,9 +287,10 @@
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - 一种 [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 验证完成 [Good Tables](http://goodtables.okfnlabs.org/) . 包括数据包、模式、测试，并以东南昆士兰 GTFS 数据为例.
 - [GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - 基于 Web 的 GTFS 验证器，可同时运行 [the Google Python feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [Conveyal's gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的 GTFS 文件上.
 - [gtfs-validator-api](https://github.com/cal-itp/gtfs-validator-api) - 这个 Python 包是一个薄包装 [MobilityData/gtfs-validator](https://github.com/MobilityData/gtfs-validator) 处理生成的中间文件并查找 gtfs-validator 的输出文件，因此可以为其指定特定名称或作为字符串返回.
-- [GTFSVTOR](https://github.com/mecatran/gtfsvtor) - 一个开源的 GTFS 验证器，用 Java 实现，在 GPLv3 许可下由 [Mecatran](https://www.mecatran.com/).
-- [MobilityData's gtfs-validator](https://github.com/MobilityData/gtfs-validator) - 一个开源 GTFS 验证器规范地遵循 GTFS 规范，在 Java 中实现，在 Apache v2.0 下获得许可，由 [MobilityData](https://mobilitydata.org/).
+- [GTFSVTOR](https://github.com/mecatran/gtfsvtor) - 一个开源的 GTFS 验证器，用 Java 实现，在 GPLv3 下获得许可，由 [Mecatran](https://www.mecatran.com/).
+- [MobilityData's gtfs-validator](https://github.com/MobilityData/gtfs-validator) - 一个开源的 GTFS 验证器，规范地遵循 GTFS 规范，在 Java 中实现，在 Apache v2.0 下获得许可，由 Apache v2.0 维护 [MobilityData](https://mobilitydata.org/).
 - [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - 运输时间表和 GTFS 验证平台 [Foursquare ITP](https://www.foursquareitp.com) 其中包括一个基于 Web 的免费 G​​TFS 验证器 [gtfs-lib](https://github.com/conveyal/gtfs-lib/).
+- [Transit App's gtfs-fares-v2-validator](https://github.com/TransitApp/gtfs-fares-v2-validator) - 一个基于 GTFS-Fares-v2 数据验证器的 Python 工具 [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 - [Transport Validator](https://github.com/etalab/transport-validator/) - 在中实现的开源验证器 [Rust](https://www.rust-lang.org/) . 使用 [French National Access Point](https://transport.data.gouv.fr/validation/).
 
 
@@ -341,7 +342,7 @@
 
 - [gtfs-rt-dump](https://github.com/kurtraschke/gtfs-rt-dump) - 将协议缓冲区格式转换为纯文本，以便以纯文本形式轻松查看 GTFS 实时提要（用于调试目的）
 - [GTFS-realtime Printer](https://github.com/laidig/gtfs-rt-printer) - 基于 Java 的实用程序，用于从 GTFS 实时文件或 URL 打印信息.
-- [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub](https://github.com/public-transport/gtfs-rt-inspector).
+- [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) <i>– Web app to inspect &amp; analyze any (CORS-enabled) GTFS Realtime feed.</i> <b>– 用于检查和分析任何（启用 CORS）的 GTFS 实时提要的 Web 应用程序。</b> <i>Open-source on</i><b>开源于</b> [GitHub](https://github.com/public-transport/gtfs-rt-inspector).
 - [print-gtfs-rt-cli](https://github.com/derhuerst/print-gtfs-rt-cli) – 用于从标准输入读取 GTFS 实时提要、打印人类可读或作为 JSON 的 Javascript 工具.
 - [GTFS-realtime Munin Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - 提供一个 [Munin](http://munin-monitoring.org/) 用于记录有关 GTFS 实时提要的信息的插件.
 - [GTFS-realtime Nagio Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - 提供一个 [Nagios](https://www.nagios.org/) 用于监控 GTFS 实时提要的插件
@@ -366,31 +367,31 @@
 
 ### Other multimodal data formats
 
-- [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - 由 [International Parking Institute (IPI)](https://www.parking.org/)， 这 [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/) , APDS 是一个非营利组织，其使命是开发、推广、管理和维护统一的全球标准，使组织能够跨全球平台共享停车数据.  APDS 1.0 版文档是 [here](https://www.allianceforparkingdatastandards.org/resources).
+- [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - 由 [International Parking Institute (IPI)](https://www.parking.org/)， 这 [British Parking Association (BPA)](http://www.britishparking.co.uk/)，以及 [European Parking Association (EPA)](http://www.europeanparking.eu/) , APDS 是一个非营利组织，其使命是开发、推广、管理和维护统一的全球标准，使组织能够跨全球平台共享停车数据.  APDS 1.0 版文档是 [here](https://www.allianceforparkingdatastandards.org/resources).
 - [CurbLR](https://github.com/curblr/curblr-spec) - 路缘法规的规范.
 - - [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) - 基于 GTFS 的旅行需求数据格式，专注于个人乘客*需求*，适用于旧金山县交通管理局、LMZ LLC 和 UrbanLabs LLC 开发的动态网络建模.
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) - （正在开发中 - 见 [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) 个人乘客*轨迹*的数据.
 - [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs) - 共享单车实时信息的开放数据标准由成员开发 [North American Bikeshare Association (NABSA)](http://nabsa.net/).
-    - [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - 用于验证 GBFS 提要的第 3 方工具.
+    - [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
     - [gbfs R package](https://github.com/ds-civic-data/gbfs) - 与 R 中的 GBFS 提要接口的功能，允许用户为指定的城市/共享单车程序保存和积累整洁的 .rds 数据集.
 - [GTFS-flex](https://github.com/MobilityData/gtfs-flex) - 一种将灵活的公共交通服务建模为 GTFS 扩展的数据格式.
 - [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - 一种基于 GTFS 的交通网络格式，用于*车辆和容量数据*，适用于由普吉特海湾地区委员会、UrbanLabs LLC、LMZ LLC 和旧金山县交通管理局开发的动态交通建模.
 - [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - 由俄勒冈州交通部和俄勒冈州立大学合作开发的开放式固定路线公交乘客数据标准.
-- [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) - 对 GTFS 交通网络的扩展，其中包含由 UrbanLabs LLC 和旧金山县交通局开发的包含性能数据的附加文件.
+- [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) - An extension to a GTFS transit network with additional files that contain performance data developed by UrbanLabs LLC and San Francisco County Transportation Authority.
 - [General Modeling Network Specification (GMNS)](https://github.com/zephyr-data-specs/GMNS)  - 一种共享可路由道路网络文件的格式，旨在用于多模式静态和动态交通规划和运营模型.  Volpe/FHWA 与 Zephyr 基金会合作.
 - [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - 用于共享旅行需求模型网络的计划数据规范.
 - [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 包含托管和收费车道收费供稿规范 (MTLFS) 的架构提案，并定义了所有这些文件中使用的字段 [Santa Clara Valley Transportation Authority](http://www.vta.org/).
 - [Mobility as a Service API](http://maas-api.org/) - 一组开放文档和测试套件，用于定义与 MaaS 兼容的 API（例如， [MaaS Transport Service Provider Booking API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
 - [Mobility Data Specification (MDS)](https://github.com/openmobilityfoundation/mobility-data-specification)  - 一种为市政当局和作为服务提供商的移动性实施实时数据共享、测量和监管的格式. 它旨在确保政府有能力强制执行、评估和管理提供者. 由维护 [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
 - [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - 本研究的目标是制定标准和/或指南，供运输界使用和采用，用于收集、管理和共享用于运输规划和运营的静态和实时数据.
-- [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
+- [NeTex](http://netex-cen.eu/) - 一种通用 XML 格式，设计用于在分布式系统管理的分布式系统之间交换复杂的静态传输数据 [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
 - [OMX: The Open Matrix data file format](https://github.com/osPlanning/omx) - 二维数组对象和相关元数据的结构化集合，可能用于交通建模行业.
 - [Open Sales and Distribution Model (OSDM)](https://github.com/UnionInternationalCheminsdeFer/OSDM)  - 旨在大幅简化铁路旅行客户的预订流程，并降低分销商和铁路运营商的复杂性和分销成本. 包含离线模型和在线 API 的规范. 由维护 [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 - [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - 似乎正在为汽车共享和运输网络公司 (TNC)/拼车制定数据标准.
 - [shared-row](https://github.com/d-wasserman/shared-row) - SharedStreets 参考的通行权 (ROW) 规范.
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120)  - 本研究的目的是为参与提供需求响应运输的实体制定交易数据的技术规范. 预计完工日期为 2018 年底.
 - [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) - Transit ITS 数据交换规范 (TIDES) 是一项提议的工作，旨在为历史交通 ITS 数据（包括 AVL、APC 和 AFC 数据）创建标准数据结构、API 和数据管理工具.
-- [Transport Operator Mobility-as-a-service Provider (TOMP)-API](https://github.com/TOMP-WG/TOMP-API) - 荷兰工作组的目标是开发一个 API，供运输运营商和移动即服务提供商使用，用于运营商发现、旅行计划、最终用户交互、预订和支付.
+- [Transport Operator Mobility-as-a-service Provider (TOMP)-API](https://github.com/TOMP-WG/TOMP-API) - 荷兰工作组的目标是开发一个 API，供运输运营商和移动即服务提供商用于运营商发现、旅行计划、最终用户交互、预订和支付.
 
 ### Resources
 
@@ -406,7 +407,7 @@
 #### Blog posts
 
 - [When(ish) is my bus? Data and code](https://github.com/mjskay/when-ish-is-my-bus)  - Whenish 背后的数据和代码 (R) 是我的总线？ 数据包括三天的历史车辆位置和调查结果.
-- ["Legacy AVL system? It's okay, join the club." by Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export) - 讨论将传统 AVL 系统数据转换为 GTFS 实时格式的选项.
+- ["Legacy AVL system? It's okay, join the club." by Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export) - Discussion of options for transforming legacy AVL system data into the GTFS-realtime format.
 - ["GTFS Best Practices now available!" by Sean Barbeau](https://medium.com/@sjbarbeau/gtfs-best-practices-now-available-88ac67194233) - 讨论开放数据格式（如 GTFS）和 2017 年初推出的 GTFS 最佳实践所面临的一些挑战，以帮助解决数据质量问题.
 - ["What's new in GTFS-realtime v2.0" by Sean Barbeau](https://medium.com/@sjbarbeau/whats-new-in-gtfs-realtime-v2-0-cd45e6a861e9) - 讨论 GTFS-realtime v1.0 的不足和 v2.0 的改进.
 - ["AVL, CAD, and Real-Time Passenger Info for Beginners" by Tony Laidig](http://transitdata.net/avl-cad-and-real-time-passenger-info-for-beginners/) - 提供对用于跟踪车辆的技术的一般介绍.
@@ -416,7 +417,7 @@
 #### Academic papers
 
 - [Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago"](https://www.sciencedirect.com/science/article/pii/S0968090X12000022) - 在伊利诺伊州芝加哥进行的实验表明，当乘客通过短信或电子邮件访问实时信息时，乘客人数略有增加.
-- [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf)  - 论文试图回答“我们如何在交通预测中传达不确定性？”的问题. 解释问题、现有解决方案并设计一个 [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
+- [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
 - [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) - 西澳州西雅图的实验表明，当乘客通过移动应用程序访问实时信息时，他们认为公交车等待时间更短.
 - [Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”](https://www.sciencedirect.com/science/article/pii/S0965856414002146)  - 在佛罗里达州坦帕的受控实验表明，与没有实时信息的乘客相比，通过移动应用程序访问实时信息的乘客的等待时间减少了近 2 分钟. 获得实时信息的骑手也减少了焦虑和沮丧，并更好地接受了代理.
 - [Brakewood et al. - "The impact of real-time information on bus ridership in New York City"](https://www.sciencedirect.com/science/article/pii/S0968090X15000297) - 纽约市的实验表明，当向乘客提供实时信息时，长途路线上的乘客人数会增加.

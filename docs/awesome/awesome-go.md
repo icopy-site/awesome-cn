@@ -12,7 +12,7 @@
 ## Sponsorships
 > [![Digital Ocean](https://avelino.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
 
- **我们没有月费**_，但我们有员工**努力**维护Awesome Go，筹集到的钱可以回报每个参与者的努力！ 所有计费和分发将向整个社区开放._
+ **我们没有月费**_，但我们有员工**努力**维护Awesome Go，筹集的资金可以回报每个参与者的努力！ 所有计费和分发将向整个社区开放._
 
 精选的 Go 框架、库和软件的精选列表. 灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -537,7 +537,7 @@
 * [date](https://github.com/rickb777/date) - 增加处理日期、日期范围、时间跨度、时段和时间的时间.
 * [dateparse](https://github.com/araddon/dateparse) - 在不知道格式的情况下解析日期.
 * [durafmt](https://github.com/hako/durafmt) - Go 的持续时间格式库.
-* [feiertage](https://github.com/wlbr/feiertage)  - 用于计算德国公共假期的一组函数，包括. 德国各州（Bundesländer）的专业化. 比如复活节、五旬节、感恩节……
+* [feiertage](https://github.com/wlbr/feiertage)  - 用于计算德国公共假期的一组函数，包括. 德国各州（Bundesländer）的专业化. 诸如复活节、五旬节、感恩节之类的事情……
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - 在 Go (golang) 中实现波斯 (Solar Hijri) 日历.
 * [go-str2duration](https://github.com/xhit/go-str2duration)  - 将字符串转换为持续时间. 支持 time.Duration 返回字符串等.
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) - 计算给定位置的日出和日落时间.
@@ -701,7 +701,7 @@
 * [stl](https://gitlab.com/russoj88/stl)  - 用于读取和写入 STL（立体光刻）文件的模块. 并发算法读取.
 * [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 对于 tar 文件.
 * [todotxt](https://github.com/1set/todotxt) - 去 Gina Trapani 的图书馆 [*todo.txt*](http://todotxt.org/) 文件，支持解析和操作任务列表 [*todo.txt* format](https://github.com/todotxt/todo.txt).
-* [vfs](https://github.com/C2FO/vfs) - 一组可插入的、可扩展的和自以为是的文件系统功能集，适用于跨许多文件系统类型（如 os、S3 和 GCS）的 Go.
+* [vfs](https://github.com/C2FO/vfs) - 一组可插入的、可扩展的和自以为是的文件系统功能集，用于跨许多文件系统类型，例如 os、S3 和 GCS.
 
 ## Financial
 
@@ -1418,7 +1418,7 @@ _**非官方** 一组用于构建项目的模式._
 
 *实现对象关系映射或数据映射技术的库.*
 
-* [beego orm](https://github.com/astaxie/beego/tree/master/orm)  - 强大的 orm 框架. 支持：pq/mysql/sqlite3.
+* [beego orm](https://github.com/beego/beego)  - 强大的 orm 框架. 支持：pq/mysql/sqlite3.
 * [ent](https://github.com/facebook/ent) - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
 * [go-firestorm](https://github.com/jschoedt/go-firestorm) - 适用于 Google/Firebase Cloud Firestore 的简单 ORM.
 * [go-pg](https://github.com/go-pg/pg) - PostgreSQL ORM，专注于 PostgreSQL 的特定功能和性能.
@@ -1570,7 +1570,7 @@ _**非官方** 一组用于构建项目的模式._
 * [optimus-go](https://github.com/pjebs/optimus-go) - 使用 Knuth 算法进行 ID 散列和混淆.
 * [passlib](https://github.com/hlandau/passlib) - 面向未来的密码哈希库.
 * [secure](https://github.com/unrolled/secure) - Go 的 HTTP 中间件，可促进一些快速的安全性胜利.
-* [secureio](https://github.com/xaionaro-go/secureio) - 基于 XChaCha20-poly1305、ECDH 和 ED25519 的“io.ReadWriteCloser”的密钥交换+身份验证+加密包装器和多路复用器.
+* [secureio](https://github.com/xaionaro-go/secureio) - 基于 XChaCha20-poly1305、ECDH 和 ED25519 的“io.ReadWriteCloser”的密钥交换+认证+加密包装器和多路复用器.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) - 带有简单、明显的 API 和内置自动成本校准的 Scrypt 包.
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) - 使用 ssh 密钥加密/解密.
 * [sslmgr](https://github.com/adrianosela/sslmgr) - SSL certificates made easy with a high level wrapper around acme/autocert.
@@ -1841,7 +1841,7 @@ _**非官方** 一组用于构建项目的模式._
 * [circleci](https://github.com/jszwedko/go-circleci) - 用于与 CircleCI 的 API 交互的 Go 客户端库.
 * [clarifai](https://github.com/samuelcouch/clarifai) - Go 客户端库，用于与 Clarifai API 交互.
 * [codeship-go](https://github.com/codeship/codeship-go) - 用于与 Codeship 的 API v2 交互的 Go 客户端库.
-* [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client) - 用于与 Coinpaprika 的 API 交互的 Go 客户端库.
+* [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go 客户端库，用于与 Coinpaprika 的 API 进行交互.
 * [device-check-go](https://github.com/rinchsan/device-check-go) - 去客户端库进行交互 [iOS DeviceCheck API](https://developer.apple.com/documentation/devicecheck) v1.
 * [discordgo](https://github.com/bwmarrin/discordgo) - 去绑定 Discord Chat API.
 * [ethrpc](https://github.com/onrik/ethrpc) - 去绑定 Ethereum JSON RPC API.
@@ -1911,7 +1911,7 @@ _**非官方** 一组用于构建项目的模式._
 * [stripe](https://github.com/stripe/stripe-go) - 使用 Stripe API 的客户端.
 * [textbelt](https://github.com/dietsche/textbelt) - 转到 textbelt.com txt 消息传递 API 的客户端.
 * [translate](https://github.com/poorny/translate) - 去在线翻译包.
-* [Trello](https://github.com/adlio/trello) - Trello API 的包装器.
+* [Trello](https://github.com/adlio/trello) - Trello API 的封装.
 * [TripAdvisor](https://github.com/mrbenosborne/tripadvisor-golang) - 为 TripAdvisor API 打包.
 * [tumblr](https://github.com/mattcunningham/gumblr) - 为 Tumblr v2 API 封装.
 * [twitter-scraper](https://github.com/n0madic/twitter-scraper) - 无需身份验证和限制即可抓取 Twitter 前端 API.
@@ -1967,7 +1967,7 @@ _**非官方** 一组用于构建项目的模式._
 * [go-bsdiff](https://github.com/gabstv/go-bsdiff) - Pure Go bsdiff 和 bspatch 库和 CLI 工具.
 * [go-clip](https://github.com/prashantgupta24/go-clip) - 适用于 Mac 的简约剪贴板管理器.
 * [go-convert](https://github.com/Eun/go-convert) - 包 go-convert 使您能够将值转换为另一种类型.
-* [go-countries](https://github.com/mikekonan/go-countries) - 对 ISO-3166 代码的轻量级查找.
+* [go-countries](https://github.com/mikekonan/go-countries) - 轻量级查找 ISO-3166 代码.
 * [go-dry](https://github.com/ungerik/go-dry) - 用于 Go 的 DRY（不要重复自己）包.
 * [go-funk](https://github.com/thoas/go-funk) - 现代 Go 实用程序库，提供帮助程序（映射、查找、包含、过滤、块、反向等）.
 * [go-health](https://github.com/Talento90/go-health) - 健康包简化了向服务添加健康检查的方式.
@@ -2145,7 +2145,7 @@ _**非官方** 一组用于构建项目的模式._
 * [Buffalo](http://gobuffalo.io) - 将 Rails 的生产力带到 Go！
 * [Confetti Framework](https://www.confetti-framework.com)  - Confetti 是一个 Go 网络应用程序框架，具有富有表现力、优雅的语法.  Confetti 结合了 Laravel 的优雅和 Go 的简单性.
 * [Echo](https://github.com/labstack/echo) - 高性能、极简的 Go 网络框架.
-* [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的 Express.js 启发的 Web 框架.
+* [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的 Express.js 启发式 Web 框架.
 * [Fireball](https://github.com/zpatrick/fireball) - 更“自然”感觉的网络框架.
 * [Flamingo](https://github.com/i-love-flamingo/flamingo)  - 可插拔网络项目的框架. 包括模块的概念，并为 DI、Configareas、i18n、模板引擎、graphql、可观察性、安全性、事件、路由和反向路由等提供功能.
 * [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - 使用干净的架构（如 DDD、端口和适配器）提供电子商务功能，您可以使用这些功能构建灵活的电子商务应用程序.

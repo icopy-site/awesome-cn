@@ -50,7 +50,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
++ [韩文/韩文 [韩文]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)
@@ -65,6 +65,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Thai / ไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-tr.md)
 + [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ua.md)
++ [Vietnamese / Tiếng Việt](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-vi.md)
 
 
 ### Cheat Sheets

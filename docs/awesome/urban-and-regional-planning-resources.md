@@ -32,7 +32,7 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收集了包括当前和历史的大气、海洋、陆地和洪水数据在内的精选数据集，以及全球模拟和同化办公室 (GMAO) 运营的天气分析数据和更新四次的预测日常.
@@ -54,13 +54,13 @@
    
 ### Employment
 
-- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, additional administrative data and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information:[On The Map Download Page](https://onthemap.ces.census.gov/).
+- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划将这些行政数据、附加行政数据以及来自人口普查和调查的数据结合起来. 根据这些数据，该程序可以在详细的地理和行业级别以及不同的人口群体中创建有关就业、收入和工作流动的统计数据. 附加信息：[On The Map Download Page](https://onthemap.ces.census.gov/).
 
 ### Environment and Ecosystem Services
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
 - [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - 国家土地覆盖数据库是与多分辨率土地特征联盟 (MRLC) 合作生成的，MRLC 是联邦机构的合作伙伴，共同为美国所有 50 个州和波多黎各生产当前的、全国一致的土地覆盖产品. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园访问和质量进行了综合评估. 
@@ -128,7 +128,7 @@
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由 First Street Foundation 提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -237,15 +237,16 @@ R 包和相关资源.
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
-- [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您附近的街道.
+- [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您的街区街道.
 - [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索影响，并使用由此产生的可视化来传达建议.  Apache 获得许可，可使用 OpenStreetMap 在任何地方运行，并可在网络上运行或作为离线下载使用.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于 Web 的平台，专为规划人员和建模人员设计，可使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
 ### Environmental and Climate Planning Tools and Platforms
 
-- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部林务局研究.
+- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
+- [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新工具，可对大部分观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
 
 ## Educational and Informational Resources
 规划相关文献、信息聚合器或类似资源的集合.
@@ -265,8 +266,8 @@ R 包和相关资源.
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业人员解决问题和通知决策者方面享有盛誉.
-- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题和为决策者提供信息方面享有盛誉.
+- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表了 APA 在关键规划问题上的官方立场，并用工具来宣传为所有人创造伟大社区的政策.
 
 ### General Planning Information and News
@@ -285,7 +286,7 @@ R 包和相关资源.
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型移动工具和数据资源的集合.
-- [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources.
+- [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - 一份精心策划的开放技术项目清单，以维持稳定的气候、能源供应和重要的自然资源.
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS 是地理空间相关资源的集合，包括制图工具、地理分析工具、开发工具、数据、会议和社区、新闻、大规模开放在线课程、一些令人惊叹的地图站点等.
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - 用于农业、耕作和园艺的开源技术.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
@@ -310,4 +311,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 
 如果你确实引用了这个存储库，你可以： 
 
-规划技术资源.  (2020) APA 技术部. 摘自：来自 https://github.com/APA-Technology-Division
+规划-技术-资源.  (2020) APA 技术部. 摘自：来自 https://github.com/APA-Technology-Division
