@@ -35,6 +35,7 @@
 - [Corbeans](https://manosbatsis.github.io/corbeans) - Spring Boot 的 Corda 集成.
 - [Cordage](https://github.com/LayerXcom/cordage) - 提供模块，使 Corda 和其他区块链之间的互操作性成为可能，而无需进一步受信任的第三方.
 - [Cordalo](https://github.com/cordalo-ch) - 提供 Corda 框架来加速你在去中心化空间的开发.
+- [Corda Lean State](https://manosbatsis.github.io/corda-lean-state) - 从简化的界面生成 Corda Contract 和 Persistent 状态. 
 - [Cordentity](https://github.com/hyperledger-labs/cordentity) - 整合 [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) Corda 的功能.
 - [DAML for Corda](https://github.com/chainstack/awesome-corda) - Corda 的 DAML 智能合约.
 - [DemoBench](https://www.corda.net/demobench/) - 用于配置和启动本地 Corda 节点的独立桌面应用程序.
@@ -61,9 +62,9 @@
 
 ## Learning and online courses
 
-- [Official Corda Training Platform](https://training.corda.net/)  - 由 R3 (Corda + SDKs) 维护的免费培训平台. 自定进度并提供可选支持.
+- [Official Corda Training Platform](https://training.corda.net/)  - 由 R3 维护的免费培训平台（Corda + SDKs）. 自定进度并提供可选支持.
 - [Introduction to Corda Development](https://www.udemy.com/course/corda-development/) - 免费的自定进度在线课程.
-- [Corda developer certification](https://www.r3.com/training-and-certification/) - 成为经过认证的 Corda 开发人员.
+- [Corda developer certification](https://www.r3.com/training-and-certification/) - 成为认证的 Corda 开发人员.
 
 
 ## Videos
@@ -75,7 +76,7 @@
 
 尝试 CorDapps 并获得灵感. 还探索了 [CorDapp marketplace](https://marketplace.r3.com/) 或将您的 CorDapp 添加到列表中！
 
-- [Cordite](https://gitlab.com/cordite/cordite) - 提供去中心化经济和治理服务的 CorDapp 集合.
+- [Cordite](https://gitlab.com/cordite/cordite) - 提供去中心化经济和治理服务的 CorDapps 集合.
 - [Credit scoring](https://github.com/rafaelazeredo/creditbank) - 用户和零售银行之间的信用评分服务.
 - [Auction](https://github.com/ashutoshmeher-r3/auction-cordapp) - 演示拍卖 CorDapp.
 - [Private health insurance management](https://github.com/corda-codeclub/marge) - 私人健康保险 CorDapp.

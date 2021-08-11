@@ -6,7 +6,7 @@
 [JAX](https://github.com/google/jax) 带来自动微分和 [XLA compiler](https://www.tensorflow.org/xla) 一起通过一个 [NumPy](https://numpy.org/)类似 API，用于对 GPU 和 TPU 等加速器进行高性能机器学习研究.
 <!--lint enable double-link-->
 
-这是很棒的 JAX 库、项目和其他资源的精选列表. 欢迎投稿！
+这是精选的 JAX 库、项目和其他资源的精选列表. 欢迎投稿！
 
 
 
@@ -21,8 +21,9 @@
     - [Elegy](https://poets-ai.github.io/elegy/)  - 用于 Jax 生态系统的与框架无关的 Trainer 界面. 支持 Flax、Haiku 和 Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
     - [Trax](https://raw.githubusercontent.com/google/trax) - “含电池”深度学习库，专注于为常见工作负载提供解决方案. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://raw.githubusercontent.com/deepmind/jraph) - 轻量级图神经网络库. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
-    - [Neural Tangents](https://raw.githubusercontent.com/google/neural-tangents) - 用于指定有限和 _infinite_ 宽度的神经网络的高级 API. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
+    - [Neural Tangents](https://raw.githubusercontent.com/google/neural-tangents) - 用于指定有限和_无限_宽度的神经网络的高级 API. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
     - [HuggingFace](https://raw.githubusercontent.com/huggingface/transformers) - 用于各种自然语言任务 (Flax) 的预训练 Transformer 生态系统. <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
+    - [Equinox](https://raw.githubusercontent.com/patrick-kidger/equinox) - 可调用的 PyTrees 和过滤的 JIT/grad 转换 =&gt; JAX 中的神经网络. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
 - [NumPyro](https://raw.githubusercontent.com/pyro-ppl/numpyro) - 基于 Pyro 库的概率编程. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
 - [Chex](https://raw.githubusercontent.com/deepmind/chex) - 用于编写和测试可靠 JAX 代码的实用程序. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
 - [Optax](https://raw.githubusercontent.com/deepmind/optax) - 梯度处理和优化库. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
@@ -114,7 +115,7 @@
 - [OGB-LSC](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc) - 此存储库包含 DeepMind 对 [PCQM4M-LSC](https://ogb.stanford.edu/kddcup2021/pcqm4m/) （量子化学）和 [MAG240M-LSC](https://ogb.stanford.edu/kddcup2021/mag240m/) （学术图）
 的轨迹 [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) (OGB-LSC).
 - [Persistent Evolution Strategies](https://github.com/google-research/google-research/tree/master/persistent_es) - 用于论文的代码 [_Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies_](http://proceedings.mlr.press/v139/vicol21a.html).
-- [WikiGraphs](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) - 用于重现结果的基线代码 [_WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Datase_](https://aclanthology.org/2021.textgraphs-1.7).
+- [WikiGraphs](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) - 重现结果的基线代码 [_WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Datase_](https://aclanthology.org/2021.textgraphs-1.7).
 
 ### Trax
 
@@ -127,12 +128,12 @@
 
 - [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM) - JAX，它在 DeepMind 中的使用，以及工程师、科学家和 JAX 核心团队之间的讨论.
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) - 在 JAX 中从头开始的简单神经网络.
-- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX 的核心设计、它如何推动新研究以及如何开始使用它.
+- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX 的核心设计、它如何为新研究提供动力以及如何开始使用它.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) - 介绍使用 NumPyro 的贝叶斯建模.
 - [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX 介绍介绍 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) - 演示 TPU 主机访问.
-- [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - 教程由 Zico Kolter、David Duvenaud 和 Matt Johnson 创建，Colab 笔记本可用 [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
-- [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - 包含 Colab 笔记本的四部分 YouTube 教程系列，从 Jax 基础知识开始，然后在 v3-32 TPU Pod 切片上使用数据并行方法进行训练.
+- [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - 由 Zico Kolter、David Duvenaud 和 Matt Johnson 创建的教程，Colab 笔记本可用 [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
+- [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - 包含 Colab 笔记本的四部分 YouTube 教程系列，从 Jax 基础开始，然后在 v3-32 TPU Pod 切片上使用数据并行方法进行训练.
 - [JAX, Flax & Transformers 🤗](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 为期 3 天的演讲，围绕 JAX / Flax、Transformers、大规模语言建模和其他重要话题进行.
 
 <a name="papers" />
@@ -142,8 +143,8 @@
 本节包含专注于 JAX 的论文（例如基于 JAX 的库白皮书、JAX 研究等）. 在 JAX 中实现的论文列在 [Models/Projects](#projects) 部分.
 
 <!--lint ignore awesome-list-item-->
-- [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - 描述 JAX 早期版本的白皮书，详细介绍了如何跟踪和编译计算.
-- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX、MD，这是一个可微物理库，其中包括模拟环境、交互电位、神经网络等.
+- [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - 描述 JAX 早期版本的白皮书，详细说明如何跟踪和编译计算.
+- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX, MD，这是一个可微物理库，其中包括模拟环境、交互电位、神经网络等.
 - [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - 使用 JAX 的 JIT 和 VMAP 实现比现有库更快的差异私有化.
 <!--lint enable awesome-list-item-->
 
@@ -167,7 +168,7 @@
 - [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) - 演示如何使用 JAX 使用 SGD 和 Momentum 执行内损失优化、使用梯度的外损失优化以及使用进化策略的外损失优化.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - 使用 JAX 轻松干净地实现自动微分变分推理 (ADVI).
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练对不同分辨率下输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
-- [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/notebooks/jax_intro.ipynb) - Colab 介绍了该语言的各个方面并将其应用于简单的 ML 问题.
+- [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/pyprobml/blob/master/notebooks/jax_intro.ipynb) - Colab 介绍了语言的各个方面并将其应用于简单的 ML 问题.
 - [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - 关于在 JAX 中编写 MCMC 采样器的不同方法以及速度基准测试的教程.
 - [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - 关于如何使用 `host_callback` 模块在 JAX 中向编译循环添加进度条的教程.
 
