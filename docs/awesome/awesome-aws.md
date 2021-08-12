@@ -645,7 +645,7 @@ AWS 存储库：
 * [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) - Lambda 驱动的、高度分布式的负载测试工具.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - 通过 Lambda 自动化 Chrome.
 * [grycap/scar :fire::fire::fire:](https://github.com/grycap/scar) - 在 AWS Lambda 中从 Docker 镜像中透明地执行容器.
-* [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - 用于无服务器应用程序的轻量级 Web 框架.
+* [jeremydaly/lambda-api :fire::fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - 用于无服务器应用程序的轻量级 Web 框架.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - 使用 Lambda 构建的博客评论系统.
 * [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) - λ Gordon 是一种使用 CloudFormation 创建、连接和部署 AWS Lambda 的工具.
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - 受 StatusPage.io 启发的状态页面系统，基于 AWS Lambda 构建.
@@ -895,7 +895,7 @@ AWS 存储库：
 社区回购：
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - 基于 Node.js/ImageMagick 的图像缩略图服务.
-* [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - 在 AWS CDK 中构建的可部署无服务器架构模式.
+* [cdkpatterns/serverless :fire::fire::fire::fire:](https://github.com/cdk-patterns/serverless) - 在 AWS CDK 中构建的可部署的无服务器架构模式.
 * [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) - 高度可用、水平可扩展的排队和通知服务.
 * [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - AWS 上的开源 PaaS.
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - 在单个网页上显示您的所有 AWS 资源.
@@ -975,8 +975,8 @@ AWS 指南：
 
 ### Books
 
-* 亚马逊网络服务在行动 [Manning](https://www.manning.com/books/amazon-web-services-in-action) 或者 [Amazon.com](http://amzn.com/1617292885)
-* AWS Lambda 实战 [Manning](https://www.manning.com/books/aws-lambda-in-action) 或者 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* 亚马逊网络服务在行动 [Manning](https://www.manning.com/books/amazon-web-services-in-action) 要么 [Amazon.com](http://amzn.com/1617292885)
+* AWS Lambda 实战 [Manning](https://www.manning.com/books/aws-lambda-in-action) 要么 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ### Whitepapers
 
@@ -1193,7 +1193,7 @@ AWS 会议：
 * 102Tbps 网络容量进入数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 * 自 2014 年以来推出的 500 多项主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * 所有其他 14 家云提供商的总容量是 AWS 总容量的 1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* 每天，AWS 都会增加足够的新服务器容量来支持 Amazon 的所有全球基础设施，当时它的年收入为 7B 美元（2004 年）.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+* 每天，AWS 都会增加足够的新服务器容量来支持 Amazon 的所有全球基础设施，当时它是一家年收入为 7B 美元的企业（2004 年）.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1277,7 +1277,7 @@ AWS 会议：
 
 ### Internet of Things Service
 
-* [IoT](https://aws.amazon.com/iot/) - 通过 MQTT 和 HTTP 在联网的事物（例如传感器、执行器、嵌入式设备或智能设备）和 AWS 云之间实现安全的双向通信.
+* [IoT](https://aws.amazon.com/iot/) - 通过 MQTT 和 HTTP 在连接互联网的事物（例如传感器、执行器、嵌入式设备或智能设备）和 AWS 云之间实现安全的双向通信.
 
 ### Mobile Services
 

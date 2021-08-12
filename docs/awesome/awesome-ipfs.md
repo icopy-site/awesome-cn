@@ -37,7 +37,7 @@
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica 是一个类似于 Keybase 的 Dapp，用于创建身份并通过已发布的社交媒体和网络证明来证明该身份.
 - [beets](https://github.com/beetbox/beets) - Beets 有一个插件，可以使用 IPFS 轻松共享音乐库
 - [Blokaly](https://github.com/blokaly) - 基于IPFS的徽章发放、分享和展示平台.
-- [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source](https://github.com/fazo96/ipfs-boards)
+- [Boards](https://ipfs.io/ipns/boards.ydns.eu) - 在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) - 与 git 类似界面和 FUSE 文件系统的文件同步. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - 一个 golang 应用程序，用于预设一个 Threejs 界面并从 IPFS 中获取其所有资产.
 - [Cyber](https://cyber.page) - 在 IPFS 的帮助下构建的去中心化 Google 替代方案. [Source](https://github.com/cybercongress)
@@ -46,7 +46,7 @@
 - [digx](https://www.dgx.io/) - Digix 是一个建立在以太坊和 IPFS 上的资产代币化平台.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify 提供一个实时的、点对点的、永久的讨论平台，供任何人加入和参与.
 - [DreamLink](https://www.dreamlink.cloud/) - 在去中心化网络上轻松快速地共享文件. [Source](https://github.com/opendreamnet/dreamlink.cloud)
-- [DtinyUrl](https://github.com/facert/dtinyurl) - 基于 IPFS 的去中心化 URL 缩短服务.
+- [DtinyUrl](https://github.com/facert/dtinyurl) - 基于IPFS的去中心化URL缩短服务.
 - [dtube](https://d.tube) - 与 steem.it 集成的分布式视频共享，使用 ipfs 进行后端存储.
 - [edChain](https://www.edchain.io/)  - EdChain 是一个全球教育和职业网络. 它使用区块链和分布式网络技术来提供教育内容，即使是那些没有宽带互联网的人也是如此. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - 通过以太坊和 IPFS 买卖文件的网站. [Source](https://github.com/flex-dapps/enzypt)
@@ -67,7 +67,7 @@
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)  - 在您的机器上运行您的 IPFS 节点，而不必费心使用命令行工具. 管理您的节点、添加您的文件、轻松更改设置……只需一个界面即可完成所有操作.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - 在 IPFS 的浏览器文件管理器中.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - 允许改进 ipfs 事件可视化的应用程序.
-- [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用 windows.ipfs 向您显示 IPNS 链接和公钥的二维码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
+- [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用 windows.ipfs 向您显示您的 IPNS 链接和公钥的二维码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  - IPFS 图像上传器和查看器.  Minerva 是 Apache Drill 的一个存储插件，连接 IPFS 的去中心化存储和 Drill 灵活的查询引擎. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
 - [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) - 一个web3论坛.您可以从这个论坛获得新的想法，报告，讨论，尽管您可能在网络限制区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
@@ -104,21 +104,22 @@
 - [Pugdit](https://github.com/zbyte64/pugdit) - 通过 IPFS 发现和分发的公告板服务
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - 一键通可让您编辑音频文章并使用 IPFS 发布它们.
 - [qri](https://qri.io) - 数据集版本控制、发现和协作工具（免费、开源）. [Source](https://github.com/qri-io/qri)
-- [QuestNetwork Messenger](https://github.com/QuestNetwork/quest-messenger-js)  - IPFS PubSub 上的多平台端到端加密信使. 使用可使用邀请码共享的文件夹模拟服务器/社区. 它是免费和开源的. 有望成为 IPFS 上最全面和用户友好的信使.
+- [QuestNetwork Messenger](https://github.com/QuestNetwork/quest-messenger-js) - Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
 - [Request](https://request.network/) - 金融交易的去中心化网络. [Source](https://github.com/RequestNetwork/requestNetwork)
-- [RocketPad](https://rocketpad.aboutdavid.me/) - 使用 WYSIWYG 编辑器创建迷你文章/文档，并通过 IPFS 将它们发布到分布式网络. [Source](https://github.com/aboutDavid/rocketpad)
+- [RocketPad](https://rocketpad.aboutdavid.me/) - Create mini essays/documents using a WYSIWYG editor and publish them to the distributed web via IPFS. [Source](https://github.com/aboutDavid/rocketpad)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) - 一个推特机器人，它使用 IPFS 集群将您的推文添加、固定、取消固定到公共 IPFS 网络. [Source](https://github.com/simpleaswater/twitter-pinbot)
 - [SimpleID](https://simpleid.xyz/) - 用于向您的应用程序添加以太坊身份验证和内容固定的开发人员工具. [Source](https://github.com/simplesecure/)
 - [Skyhook](https://github.com/deedeecx330/skyhook) - 安全地发送和接收文件
 - [TallyLab](https://tallylab.com/) - 本地优先的端到端加密数据日记应用程序，用于捕获、分析和共享有关任何事物的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal 是一个易于使用的 API 和平台，用于将 IPFS 和其他分布式/去中心化存储技术集成到企业应用程序中
+- [Terrive](https://ipfs.io/ipns/terrive.one) - 使用 HIVE 区块链作为数据库和不可变图像/视频托管的照片和视频共享平台. [Source](https://github.com/appukuttan66/terrive)
 - [Textile Photos](https://www.textile.photos) - Textile Photos 是一个安全的移动数字钱包，用于存放您的照片. [Source](https://github.com/textileio/textile-mobile)
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - 使用 windows.ipfs 的待办事项列表演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [Tree3 Network](https://tree3.network/) - 由 Stellar 和 IPFS 提供支持的用于小额支付、链下数据和博客的去中心化平台. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) - 音乐家的区块链市场.
 - [Uniswap](https://uniswap.org/) - 建立在以太坊上的去中心化交易协议. [Source](https://github.com/Uniswap)
 - [uport](https://www.uport.me) - Uport 是一个移动的、自主的身份和密钥管理系统，建立在以太坊区块链上.
-- [Valist](https://valist.io) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps. [Source](https://github.com/valist-io/valist)
+- [Valist](https://valist.io) - 一个无需信任的通用软件包存储库，使您只需几步即可对软件进行数字签名和分发. [Source](https://github.com/valist-io/valist)
 - [Watchit](https://github.com/ZorrillosDev/watchit-desktop) - 采用去中心化网络方法的电影平台.
 - [Wistful Books](https://wistfulbooks.com/) - 用于享受 librivox.org 有声读物的单页离线应用程序. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - 支持 IPFS 的 xfce-screenshooter 的一个分支！
@@ -191,13 +192,13 @@
 ## Tools
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) - 解析 ENS 域，这让用户可以访问 .eth 网站，同时提供最大程度的去中心化. [Source](https://github.com/almonit/almonit-plugin)
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - 监控以太坊区块链的当前区块编号，并在超过特定区块高度时设置警报（使用浏览器中的 PouchDB 本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - 监控以太坊区块链的当前区块编号，并设置警报（使用浏览器中的 PouchDB 本地存储），以在超过特定区块高度时发出警报. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - 来自 URL 集成的 IPFS 的 Bubble（无代码平台）插件
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - 捐赠 ipfs 网关来缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - Dillo 网络浏览器的 IPFS 集成.
 - [galacteek](https://galacteek.github.io) - 一个用于分布式网络的基于 Qt5 的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - 通过确保资产是相对的，添加了对将 Gatsby 网站部署到 IPFS 的支持.
-- [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/到 IPFS 推/拉存储库
+- [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/向 IPFS 推/拉存储库
 - [go-orbit-db](https://github.com/berty/go-orbit-db)  - 这是 OrbitDB 的 Golang 端口，旨在与原始 JavaScript 版本完全兼容.  OrbitDB 是一个无服务器、分布式、点对点数据库.
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs 是一个库，它是 Stellar 和 IPFS 之间的桥梁.
 - [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - 移动设备上的 IPFS 和 libp2p，使用 Gomobile

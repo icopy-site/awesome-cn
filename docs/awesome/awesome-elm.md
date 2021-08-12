@@ -34,7 +34,7 @@
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - 使用 Maybe 类型，带有很好的注释代码示例.
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - 来自 The Pragmatic Programmers 的详尽书籍，涵盖了基础知识和高级概念.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) - 语法和功能概述.
-* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
+* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - 关于使用 Elm 构建 Web 应用程序的两个教程.
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - Elm 作为编程语言的简要概述.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Elm 和数据的初学者课程
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - 一本关于开发 Elm 应用程序的实践方面的非初学者书籍.
@@ -45,6 +45,7 @@
 * [Codings hints](https://github.com/elm/compiler/tree/master/hints) - Evan 的自述文件列表.
 * [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - Ellie 中的小例子的集合.
 * [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - 一本关于榆树的电子书.
+* [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Elm 编程语言理论和开发的有用资源.
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -111,7 +112,7 @@
 ### Miscellaneous videos
 
 * [Dillon Kearns: Types Without Borders | 2018](https://www.youtube.com/watch?v=memIRXFSNkU) - elm-conf 2018 讨论使用 GraphQL 等外部模式的端到端类型安全.
-* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) - 在 React.js Conf 2016 上发表的关于 Elm 必须教授 JavaScript 世界以及为什么 JS 开发人员应该考虑尝试它的演讲.
+* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) - 在 React.js Conf 2016 上发表的关于 Elm 必须教授 JavaScript 世界的内容以及为什么 JS 开发人员应该考虑尝试它的演讲.
 * [Richard Feldman: Introduction to Elm | 2016](https://www.youtube.com/watch?v=3_M2G9U51GA) - 对 Elm 进行广泛、高级别的介绍的演讲.
 * [Amitai Burstein: Frontend with Guarantees | 2016](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - 来自 You Gotta Love Frontend 2016 的演讲
 * [Jessica Kerr: Adventures in Elm | 2016](https://www.youtube.com/watch?v=cgXhMc8M4X4) - 在 2016 年芝加哥 GOTO 大会上谈论函数式编程与 Elm 的结合.
@@ -274,9 +275,8 @@
 
 * [Ellie](https://ellie-app.com/) - Elm 实时编辑器
 * [Elm Editor](https://elm-editor.com/) - 高级榆树实时编辑器
-* [Online REPL](http://elmrepl.cuberoot.in) - ELM 在线 REPL
 * [run-elm](https://github.com/jfairbank/run-elm) — 从命令行运行 Elm 代码
-* [elm-instant](https://atom.io/packages/elm-instant)  - atom 包可以从编辑器中尝试您的 elm 代码. 提供可视化 REPL 和预览窗格.
+* [elm-instant](https://atom.io/packages/elm-instant)  - 使用 atom 包从编辑器中尝试您的 elm 代码. 提供可视化 REPL 和预览窗格.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - 在浏览器中构建快速、全栈的网络应用程序.
 * [Elm Live](https://elm-live.com/)  - 灵活的 Elm 开发服务器. 包括实时重新加载！
 
@@ -434,7 +434,7 @@
 * [Redux](https://redux.js.org/introduction/prior-art) - JavaScript 应用程序的可预测状态容器.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET 多平台应用 UI
-* [Oolong](https://oolong-kt.org/) - Elm 启发了 Kotlin 多平台的模型-视图-更新 (MVU) 实现.
+* [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
 
 ---
@@ -446,6 +446,7 @@
 * [iOS](https://github.com/pzp1997/elm-ios) 将 Elm 0.18 用于原生 iOS 应用程序的 POC
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) 一个将 elm 编译为 WebAssembly 的 POC
 * [elm-serverless](https://github.com/ktonon/elm-serverless) 使用无服务器框架在 Cloud Functions 上运行 Elm 0.18
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - 使用 Elm 编写 CLI 程序
 
 
 ---
