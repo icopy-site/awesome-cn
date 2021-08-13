@@ -50,7 +50,7 @@
 
 - [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - 数字海洋.
 - [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
-- [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN 网络文档.
+- [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - 苗条的学校.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - 网络忍者 (YouTube).
 - [Sapper Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ) - 网络忍者 (YouTube).
@@ -114,7 +114,7 @@ _表格和数据网格._
 _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - 可以在任何 JS 应用程序中使用的 Toast 通知组件.
-- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 添加图标和徽章的自定义组件，可用于显示例如未读消息的数量等.
+- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 添加收藏夹图标和徽章的自定义组件，可用于显示例如未读消息的数量等.
 
 ### Grid
 
@@ -132,7 +132,7 @@ _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 _在日历中显示不可编辑的事件._
 
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - FullCalendar 周围的组件包装器.
-- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
+- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 轻巧的日期选择器，具有简洁的动画和独特的用户体验.
 
 ### Maps
 
@@ -149,11 +149,11 @@ _允许用户创建和编辑数据._
 _开关/开/关切换/复选框._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - 复选框组件（很酷的动画，可定制）.
-- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
+- [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - 带有样式的基本切换组件.
 
 ## Scaffold
 
-_模板/样板/种子/入门套件/堆栈集成/自耕农生成器._
+_模板/样板/种子/入门套件/堆栈集成/ Yeoman生成器._
 
 #### Client
 
@@ -193,6 +193,10 @@ _SSR 框架._
 - [svelte-portal](https://github.com/romkor/svelte-portal) - 用于在父组件的 DOM 之外渲染的组件.
 - [svelte-teleport](https://github.com/nasso/svelte-teleport) - 跨 DOM 传送元素的组件.
 
+### Internationalisation
+
+- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化
+
 ## Routers
 
 _对于单页应用程序 (SPA) 等._
@@ -229,7 +233,7 @@ _创建文档._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 一种为 Svelte 组件编写文档的快速方法.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - 为您的组件生成 JSON 文档.
-- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关 Svelte 文件的元数据.
+- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关您的 Svelte 文件的元数据.
 
 ### Test
 
@@ -263,4 +267,4 @@ _文本编辑器插件._
 
 #### JetBrains
 
-- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 语法突出显示和对 JetBrains 的支持.
+- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 对 JetBrains 的语法突出显示和支持.

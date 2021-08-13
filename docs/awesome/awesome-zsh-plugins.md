@@ -832,7 +832,7 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 * [random-quotes](https://github.com/vkolagotla/zsh-random-quotes) - 显示随机引用或事实.
 * [razer-status-code](https://github.com/michaelmcallister/razer-status-code) - 改变你的颜色 [Razer Mouse](https://openrazer.github.io/) 基于上次执行命令的状态. 需要 [OpenRazer](https://openrazer.github.io) linux驱动程序.
 * [rbenv (ELLIOTTCABLE)](https://github.com/ELLIOTTCABLE/rbenv.plugin.zsh) - 来自 oh-my-zsh 的 rbenv 插件的更快分支.
-* [rbenv (Meroje)](https://github.com/Meroje/zsh-rbenv) - 灵感来自 [https://github.com/lukechilds/zsh-nvm/](https://github.com/lukechilds/zsh-nvm/), 使使用 ruby​​ rbenvs 更容易.
+* [rbenv (Meroje)](https://github.com/Meroje/zsh-rbenv) - 灵感来自 [https://github.com/lukechilds/zsh-nvm/](https://github.com/lukechilds/zsh-nvm/), makes it easier to work with ruby rbenvs.
 * [rbenv (jsahlen)](https://github.com/jsahlen/rbenv.plugin.zsh) - 基于原始 oh-my-zsh rbenv 插件的变体.
 * [rc-files](https://github.com/0b10/rc-files) - 增加了编辑各种rc文件的快捷功能.
 * [recall](https://github.com/mango-tree/zsh-recall) - 使使用命令历史更容易.
@@ -1359,7 +1359,7 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 * [furio](https://github.com/hectorpalmatellez/furio-theme) - 叉子 [Cloud](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/cloud.zsh-theme)  oh-my-zsh 主题. 用不同的颜色和表情符号.
 * [furry-umbrella](https://github.com/kb10uy/zsh-theme-furry-umbrella) - 多彩主题，在深色背景下效果更好.
 * [gaia](https://github.com/gcaracuel/gaia.zsh-theme) - 最初是一个叉子 [Bureau](https://github.com/isqua/bureau) 在提示中添加新的虚拟环境信息：Kubernetess、virtualenv、rbenv 和 Java 版本. 包括 git status 集成.
-* [garden](https://github.com/fecat233/garden) - Works better with a dark terminal background, includes `git` status decorations.
+* [garden](https://github.com/fecat233/garden) - 在深色终端背景下效果更好，包括 `git` 状态装饰.
 * [garrett](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto 在您需要时提示您需要的信息.
 * [gawaine](https://github.com/nicolaracco/gawaine.zsh-theme)  - Nicola Racco 的主题. 需要 `rvm` 和 `git` 插件.
 * [gbt](https://github.com/jtyr/gbt)  - Go Bullet Train 是一个非常可定制的提示构建器，其灵感来自 Bullet Train，运行速度更快. 包括许多不同状态的汽车.
@@ -1763,7 +1763,7 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 * [theme-line](https://github.com/yw9381/oh-my-zsh_theme_line) - 带有“git”状态的彩色主题.
 * [theta-async](https://github.com/jesec/zsh_theme_theta-async) - 异步版本 [theta](https://github.com/eendroroy/theta) . 包括 vcs 状态信息.
 * [theta](https://github.com/eendroroy/theta)  - 包括 `git` 和 `hg` 状态装饰. 还有java、python、ruby、node、go和elixir版本信息.
-* [theto](https://github.com/victorgama/theto-zsh-theme) - 需要 [Nerd Fonts](https://nerdfonts.com/), 有 `git` 状态装饰.
+* [theto](https://github.com/heyvito/theto-zsh-theme)  - 简单的主题. 需要 [Nerd Fonts](https://nerdfonts.com/), 包括 `vi` 模式状态和 `git` 装饰.
 * [thetraveler](https://github.com/bassopenguin/thetraveler) - 受到 theunraveler 的启发，使用符号来显示 `git` 状态.
 * [thnikk](https://github.com/thnikk/zsh-theme-thnikk) - 最小版本 [spaceship](https://github.com/denysdovhan/spaceship-prompt) 主题.
 * [thyme (chenhao-ye)](https://github.com/chenhao-ye/thyme) - 基于 [bira](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme)， 和 [bullet-train](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
@@ -1783,7 +1783,7 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 * [ubunly](https://github.com/alejandromume/ubunly-zsh-theme)  - 模仿 Kali Linux 控制台. 注意 - 这个主题还重新绑定了很多键并设置了一堆主题应该单独保留的 ZSH 选项.
 * [ubuntu-ish](https://github.com/Thesola10/zsh-ubuntu-ish) - 模仿默认的 Debian/Ubuntu `bash` 提示.
 * [ubuntu-with-vitamins](https://github.com/ureesoriano/zsh-ubuntu-with-vitamins-zim-theme) - 模仿默认的 Ubuntu 提示，但带有 `git` 装饰.
-* [ubuntu](https://github.com/janstuemmel/zsh-ubuntu-theme) - Minimal theme, includes `git` status decorations.
+* [ubuntu](https://github.com/janstuemmel/zsh-ubuntu-theme) - 最小主题，包括`git` 状态装饰.
 * [ultimate](https://github.com/b4b4r07/ultimate) - 极简主义主题，带有 `git` 指示器、vim 模式指示器和缩短的路径.
 * [unicorn](https://github.com/juliuscaesar/unicorn) - Inspired by the [Wild Cherry](https://github.com/mashaal/wild-cherry) 主题. 有表情符号`git` 状态装饰.
 * [unit-1](https://github.com/nerdbude/Unit-1) - 带有 ITWTB 颜色的极简主题.
@@ -1900,7 +1900,7 @@ ztheme 是 ZSH 的一个小而快速的主题引擎.
 
 ### [zpm](https://github.com/zpm-zsh/zpm)
 
-大多数这些插件可以通过将 `zpm load &quot;githubuser/reponame&quot;` 添加到你的 `.zshrc` 文件来安装.
+Most of these plugins can be installed by adding `zpm load "githubuser/reponame"` to your `.zshrc` file.
 
 ## Writing New Plugins
 
