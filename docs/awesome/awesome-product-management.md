@@ -188,7 +188,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - 由 Notion 团队提供.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 经过 [Philipp Cannons](https://twitter.com/pcannons).
-- [[幽默] 所以你想成为一名产品经理](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - 作者 [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
+- [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - 经过 [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb?gi=5dfc8f819d27) - 经过 [Brandon Chu](https://twitter.com/brandonmchu).
 - [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - 经过 [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 - [Mastering Effective Communication as a Product Manager](https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager) - 经过 [Sachin Rekhi](https://www.sachinrekhi.com/about).
@@ -201,6 +201,9 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - 经过 [Hubert Palan](https://twitter.com/hpalan).
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - 经过 [Clint Fontanella](https://twitter.com/ClontFont).
+- [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
+- [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 经过 [Glenn Gillen](https://twitter.com/glenngillen).
+- [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
 
 ## Books
 
@@ -228,7 +231,8 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - 威尔·拉森.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - 理查德·W·汉明（Richard W. Hamming）.
-- [Shape Up](https://basecamp.com/shapeup/webbook) - 作者：赖安·辛格.
+- [Shape Up](https://basecamp.com/shapeup/webbook) - 瑞安·辛格.
+- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - 约书亚赛登.
 
 ## Podcasts
 

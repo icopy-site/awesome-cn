@@ -20,7 +20,7 @@
 
 ## Automation
 
-- [Ansible Lockdown](https://ansiblelockdown.io/) - Curated collection of information security themed Ansible roles that are both vetted and actively maintained.
+- [Ansible Lockdown](https://ansiblelockdown.io/) - 以信息安全为主题的 Ansible 角色的精选集合，这些角色都经过审查并积极维护.
 - [Clevis](https://github.com/latchset/clevis) - 用于自动解密的可插拔框架，经常用作 Tang 客户端.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.
 - [Dev-Sec.io](https://dev-sec.io/) - 服务器强化框架，提供各种基线安全配置的 Ansible、Chef 和 Puppet 实现.
@@ -49,7 +49,7 @@
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 - [Checkov](https://www.checkov.io/) - Terraform（基础设施即代码）的静态分析，以帮助检测 CIS 策略违规并防止云安全配置错误.
-- [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过 Kubernetes 指标等运行时数据进行丰富，从而检测容器化应用程序、主机和网络数据包流中的异常活动.
+- [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过运行时数据（例如 Kubernetes 指标）来检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用轻量级虚拟机保护容器运行时，这些虚拟机的感觉和性能类似于容器，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
 - [Prowler](https://github.com/toniblyx/prowler) - 基于 AWS-CLI 命令的工具，用于 Amazon Web Services 帐户安全评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - 开源多云安全审计工具，可对云环境进行安全态势评估.
@@ -77,7 +77,7 @@
 - [certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) - 将 TLS 证书的到期时间公开为 Prometheus 指标的实用程序.
 - [k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes 的工作负载策略实施工具.
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) - 允许集群管理员转储正在运行的 pod 及其所有容器的当前状态，以便安全专业人员可以执行离线取证分析.
-- [kube-hunter](https://kube-hunter.aquasec.com/) - 开源工具，可以从集群外部（“攻击者的观点”）或集群内部针对 Kubernetes 集群中的安全问题运行一组测试（“猎人”）.
+- [kube-hunter](https://kube-hunter.aquasec.com/) - 从外部（“攻击者的观点”）或集群内部针对 Kubernetes 集群中的安全问题运行一组测试（“猎人”）的开源工具.
 - [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - 允许将经常错过的 Kubernetes 事件导出到各种输出，以便它们可用于可观察性或警报目的.
 
 ### Service meshes
@@ -139,6 +139,7 @@
 
 ### Policy enforcement
 
+- [AllStar](https://github.com/ossf/allstar) - GitHub 应用程序安装在组织或存储库上以设置和实施安全策略.
 - [Conftest](https://conftest.dev/) - 帮助您针对结构化配置数据编写测试的实用程序.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - 跨云原生堆栈的统一策略工具集和框架.
 - [Tang](https://github.com/latchset/tang)  - 将数据绑定到网络存在的服务器； 仅当客户端位于某个（安全）网络上时才向客户端提供数据.
@@ -165,7 +166,7 @@
 
 - [Artillery](https://github.com/BinaryDefense/artillery) - 组合蜜罐、文件系统监视器和警报系统，旨在保护 Linux 和 Windows 操作系统.
 - [chkrootkit](http://chkrootkit.org/) - 在 GNU/Linux 系统上本地检查 rootkit 的迹象.
-- [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - 用于 Windows 系统的免费工具，旨在提醒您可能通过网络进行通信的恶意软件的存在.
+- [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - Free tool for Windows systems aimed to alert you to the presence of malware that may be communicating over the network.
 - [Fail2ban](https://www.fail2ban.org/) - 保护计算机服务器免受暴力攻击的入侵防御软件框架.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源且免费、功能丰富、基于主机的入侵检测系统 (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 符合 POSIX 标准的 Bash 脚本，可扫描主机以查找各种恶意软件迹象.
@@ -250,7 +251,7 @@
 
 ## Security configurations
 
-（也称为*默认安全基线*和*已实施的最佳实践*.）
+（也称为*默认安全基线*和*实施的最佳实践*.）
 
 - [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - NginX 配置的 Docker 映像和为网站实施许多防御技术的脚本.
 
@@ -278,7 +279,7 @@
 - [VAST](https://github.com/tenzir/vast) - 用于数据驱动安全调查的免费开源网络遥测引擎.
 - [Wireshark](https://www.wireshark.org) - 免费和开源的数据包分析器，可用于网络故障排除或取证网络流量分析.
 - [Zeek](https://zeek.org/) - 专注于安全监控的强大网络分析框架，原名Bro.
-- [netsniff-ng](http://netsniff-ng.org/) - 免费且快速的 GNU/Linux 网络工具包，具有许多实用程序，例如连接跟踪工具 (`flowtop`)、流量生成器 (`trafgen`) 和自治系统 (AS) 跟踪路由实用程序 (`astraceroute`).
+- [netsniff-ng](http://netsniff-ng.org/) - 免费且快速的 GNU/Linux 网络工具包，包含许多实用程序，例如连接跟踪工具 (`flowtop`)、流量生成器 (`trafgen`) 和自治系统 (AS) 跟踪路由实用程序 (`astraceroute`).
 
 ### Security Information and Event Management (SIEM)
 
@@ -321,7 +322,7 @@
 - [AttackerKB](https://attackerkb.com/) - 免费和公共的众包漏洞评估平台，帮助优先考虑高风险补丁应用程序和对抗漏洞疲劳.
 - [DATA](https://github.com/hadojae/DATA) - 凭证网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼 URL 或触发观察到的包含此类 URL 的网络流量.
 - [Forager](https://github.com/opensourcesec/Forager) - 使用 Python3 构建的多线程威胁情报收集具有简单的基于文本的配置和数据存储，以便于使用和数据可移植性.
-- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过被动映射、说明和报告您的 ICS/SCADA 网络拓扑和端点，提供工业控制系统 (ICS) 和监控和数据采集 (SCADA) 的 IP 网络态势感知.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过被动映射、说明和报告您的 ICS/SCADA 网络拓扑和端点，提供工业控制系统 (ICS) 和监督控制和数据采集 (SCADA) 的 IP 网络态势感知.
 - [MLSec Combine](https://github.com/mlsecproject/combine) - 将多个威胁情报源收集并组合成一种可自定义的、基于 CSV 的标准化格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集、存储、分发和共享网络安全指标的开源软件解决方案.
 - [Open Source Vulnerabilities (OSV)](https://osv.dev/) - 开源项目的漏洞数据库和分类基础设施，旨在帮助开源维护者和开源消费者.
