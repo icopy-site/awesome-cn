@@ -94,6 +94,14 @@
 				</sub>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://keygen.sh">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
+			</div>
+			<b>为开发人员构建的极其简单的软件许可和分发 API</b>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -170,7 +178,7 @@
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 将本地控制和隐私放在首位的开源家庭自动化.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于 Google Cloud Platform 构建的应用开发平台.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 可帮助您构建机器人应用程序的一组软件库和工具.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 站点的 CDN、DNS、DDoS 保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Google Assistant 的开发者平台.
@@ -267,20 +275,20 @@
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - 应用程序框架.
+- [React](https://github.com/enaqx/awesome-react#readme) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - 构建数据驱动的 React 应用程序的框架.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - 一项新功能，让您无需编写类即可使用状态和其他 React 功能.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发 Web 组件的 JavaScript 库.
-- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于 XML 的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript 库.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript 工具包.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - 应用程序框架.
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
@@ -299,9 +307,9 @@
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - 功能性和反应性 JavaScript 框架.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - 应用程序框架.
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - 应用程序框架.
-- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - 应用程序框架.
+- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
+- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
@@ -309,7 +317,7 @@
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - React 的富文本编辑器框架.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-- [choo](https://github.com/choojs/awesome-choo#readme) - 应用程序框架.
+- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - JavaScript 应用程序的状态容器.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - 模块捆绑器.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - 模块捆绑器.
@@ -317,7 +325,7 @@
 - [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - 企业级 UI 设计语言.
 - [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS 预处理器.
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - 用于渲染 3D 图形的 JavaScript API.
-- [Preact](https://github.com/preactjs/awesome-preact#readme) - 应用程序框架.
+- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器渲染的 React 应用程序框架.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于 JavaScript 的 HTML 模板库.
@@ -332,29 +340,29 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - 在浏览器中使用 JavaScript、CSS、SVG 等制作动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件可实现更快、更轻松的 Web 开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React 组件，可实现更快、更轻松的 Web 开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - 要集成到网络应用程序中的独立功能.
-- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
+- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 可重用组件的集合，以确保一致性和速度的规则为指导.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - 无需构建 API 即可制作单页应用程序.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - 用于快速构建网站的模板、布局、组件和小部件.
 
 ## Back-End Development
 
-- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python 框架.
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - 自动化虚拟机环境.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python 框架.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP 框架.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP 框架.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP 框架.
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - 以 Laravel 社区构建的库为特色的全栈开发解决方案.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby 的 Web 应用程序框架.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包裹.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - 网络服务器.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java 框架.
@@ -493,7 +501,7 @@
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于网络技术构建的跨平台终端应用程序.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - 跨平台面向对象的外壳.
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - 适用于 macOS 的生产力应用程序.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - 创建任务以自动化您的工作流程并在 GitHub 上与其他人共享.
@@ -556,7 +564,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于 CSS——语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 学习如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供清晰的途径来提高您的知识和技能.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您技术知识.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您有关技术的知识.
 
 ## Security
 
@@ -721,7 +729,7 @@
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
-- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
+- [Colorful](https://github.com/Siddharth11/Colorful#readme) - 选择您的下一个配色方案.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字分发平台.
 - [Bots](https://github.com/hackerkid/bots#readme) - 构建机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)

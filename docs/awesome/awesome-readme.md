@@ -19,6 +19,7 @@
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的截图. 简单的安装说明.  TOC 便于导航. 良好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 漂亮的小菜单上面有有用的链接. 主要问题的常见问题解答. 支持者. 语言好.
+- [chroline/well_app](https://github.com/chroline/well_app#readme)  - 具有引人注目的项目缩略图和干净的徽章，以及下载信息和快速导航链接. 组织成多个描述性部分，每个部分都有一个带有黄色表情符号的标题. 包括有关项目本身的详细信息，以及使用的技术和如何贡献.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 清晰的自述文件，包含快速入门、易于理解的安装和使用手册、视频截屏视频、具有详细记录的项目功能的 ToC（带有终端中工作的演示记录）、项目理念说明（“为什么另一个”）、最常见的问题，和更多.
 - [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、标志、TOC 等.作为一篇关于技术、如何使用它、背后的哲学以及它如何适应更大的生态系统的巨大的、写得很好的文章而脱颖而出.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  - 使用 GIF 屏幕截图清除自述文件以进行快速演示. 多个徽章、简洁的 ToC、在线游乐场、故事书、详细说明等.
@@ -30,7 +31,7 @@
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme)  - 项目登陆页面. 清楚地描述项目的作用. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分和移动演示部分.
 - [iterative/dvc](https://github.com/iterative/dvc#readme)  - ReStructuredText 格式示例，兼容 PyPi. 徽标，自定义网站式菜单. 流畅的工作原理动画. 徽章. 名人堂的精彩贡献部分.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie#readme)  - 描述项目的作用. 演示截图. 项目标志.  TOC 便于导航. 建立徽章. 快速简单的安装和使用部分. 包括示例部分.
-- [karan/joe](https://github.com/karan/joe#readme)  - 项目标志. 清楚地描述项目的作用. 动图演示. 易于安装和使用部分.
+- [karan/joe](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme)  - 项目标志. 极简的描述. 徽章. 动图演示. 关于该项目. 如何使用. 例子. 学分. 附加示例. 
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme)  - 漂亮的目录. 项目标志. 动画项目横幅. 完整的项目文件夹结构. 清楚地描述项目的作用. 不错的贡献者部分. 轻松导航.
 - [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme)  - 漂亮的目录. 项目标志. 动画项目横幅. 合适的 GIF 来显示项目的每个部分. 存储库中项目文件的完整列表及其功能. 完成执行指令.
@@ -46,7 +47,7 @@
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  - TOC 便于导航. 清楚地介绍项目的作用. 存储库中所有文件的完整列表及其功能. 使用部分. 干净简洁的桌子.
 - [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme)  - 动态统计. 黑白主题. 抛光布局. 包含贡献和当前项目的快速、可浏览的表格. 将技术徽章链接到主页. 图像中的秘密隐写术.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - 项目徽标、展示主要思想的漫画、徽章、带有代码片段的示例、演示项目、api 文档、编辑器配置.
-- [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+- [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目徽标、现场演示链接、关键功能的 GIF 动画、TL;DR 用法.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  - 使用演示 GIF 清楚地概述项目功能. 徽章. 可扩展的目录. 使用说明和示例. 贡献指南. 详细的发布.
 - [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  - GIF 演示. 带有屏幕截图的简单安装和设置部分. 建立徽章. 很好的用例示例.
@@ -57,7 +58,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 建立徽章. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 自定义号召性用语徽章. 使用展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁徽标. 关于发展的简要更新. 详细的贡献指南. 贡献建议.
-- [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 截图、表情符号的使用.
+- [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 屏幕截图、表情符号的使用.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 安装分步说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多说明性的例子.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  - 项目标志. 有用的徽章和链接（网站、文档、演示）. 截屏. 功能列表. 安装、开发和测试的分步说明. 链接到贡献指南. 不错的手机总结.
@@ -65,7 +66,7 @@
 
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *Stephen Whitmore*
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *斯蒂芬惠特莫尔*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *汤姆普雷斯顿-沃纳*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *亚当·斯塔科维亚克*
@@ -102,7 +103,7 @@
 ## Get Feedback
 
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme)  - 免费的 README 编辑+反馈，让您的开源项目不断发展. 请参阅 README 成熟度模型以帮助您继续前进.
-- [maintainer.io](https://maintainer.io/) - 免费 README 标准化和反馈，如果您点击“预订审核”.
+- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
  - 这个存储库. 用你的自述文件提交 PR！
 
 ## Contribute

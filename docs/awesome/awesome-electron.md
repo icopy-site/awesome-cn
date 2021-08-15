@@ -8,7 +8,7 @@
 
  Electron 是一个开源框架，用于使用 Web 技术创建桌面应用程序. 它结合了 Chromium 渲染引擎和 Node.js 运行时.
 
-**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个仓库中.**
+**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个 repo 中.**
 
 <br>
 
@@ -40,7 +40,7 @@
 			</div>
 			<b>所有环境变量，集中在一处</b>
 			<div>
-				<sub>不要再为分散的 API 密钥苦苦挣扎，不要再将自制工具组合在一起了，</sub>
+				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
 				<br>
 				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
 			</div>
@@ -52,9 +52,18 @@
 			</div>
 			<b>Strapi 是领先的开源无头 CMS.</b>
 			<div>
-				<sup>它是 100% 的 JavaScript，完全可定制且开发人员优先.</sup>
+				<sup>它是 100% JavaScript，完全可定制，开发人员优先.</sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://keygen.sh">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
+			</div>
+			<b>为开发人员构建的极其简单的软件许可和分发 API</b>
+		</a>
+		<br>
 	</p>
 </div>
 
@@ -88,7 +97,7 @@
 - [Caprine](https://github.com/sindresorhus/caprine) - 非官方的 Facebook Messenger 应用程序.
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - 笔记管理员.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) - BitTorrent 客户端.
-- [Abricotine](https://github.com/brrd/Abricotine) - 带内嵌预览的 Markdown 编辑器.
+- [Abricotine](https://github.com/brrd/Abricotine) - 带有内嵌预览的 Markdown 编辑器.
 - [Medis](https://github.com/luin/medis) - Redis 数据库管理.
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - 用于放松或提高工作效率的环境混音器.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - 语音控制的智能镜子.
@@ -118,7 +127,7 @@
 - [Shiba](https://github.com/rhysd/Shiba) - 带有 linting 的实时 Markdown 预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 菜单栏中的 YouTube 音乐播放器.
 - [Monu](https://github.com/maxogden/monu) - 过程监控.
-- [DevDocs](https://github.com/egoist/devdocs-app) - 非官方的 DevDocs.io 应用程序.
+- [DevDocs](https://github.com/egoist/devdocs-app) - 非官方 DevDocs.io 应用程序.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - 非官方的谷歌音乐应用.
 - [Pomodoro](https://github.com/G07cha/pomodoro) - 基于番茄工作法的计时器.
 - [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - 基于加密货币技术的去中心化文件存储系统.
@@ -162,7 +171,7 @@
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - 非官方媒体应用程序.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - 图像查看器.
 - [Crypter](https://github.com/HR/Crypter) - 安全加密客户端.
-- [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用程序.
+- [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用.
 - [Museeks](https://github.com/KeitIG/museeks) - 音乐播放器.
 - [VOX](https://github.com/fresk-nc/VOX) - 非官方的 VOX 音乐播放器.
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
@@ -211,7 +220,7 @@
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - 简单安全的日记应用程序.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 从 Unsplash 设置桌面壁纸.
 - [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
-- [Franz](https://github.com/meetfranz/franz) - Skype、Slack、环聊、WhatsApp、Grape、Telegram、FB Messenger、Hipchat 在同一应用程序中.
+- [Franz](https://github.com/meetfranz/franz) - Skype、Slack、环聊、WhatsApp、Grape、Telegram、FB Messenger、Hipchat 在同一应用中.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) - 非官方 Gmail 应用程序.
 - [Upcount](https://github.com/madisvain/upcount) - 发票.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) - 通过拖放清理图像元数据.
@@ -244,7 +253,7 @@
 - [Wantedly Chat](https://www.wantedly.com/chat)  - 业务团队聊天.  *（日本人）*
 - [Remember](https://rememberapp.co.kr)  - 名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
-- [Freeter](https://freeter.io) - 自由职业者和创意人员的组织者.
+- [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知程序.
 - [Automint](http://automint.in) - 汽车企业的CRM.
@@ -265,7 +274,7 @@
 - [Mingo](https://mingo.io) - MongoDB 图形用户界面.
 - [Moon Modeler](https://datensen.com) - MongoDB、Mongoose 和 MariaDB 的架构设计工具.
 - [Notion](https://notion.so) - 用于笔记、任务、维基和数据库的多合一工作区.
-- [FATpick](https://www.fatpick.com) - 吉他指法查看器，可在您演奏时为您的演奏打分.
+- [FATpick](https://www.fatpick.com) - 吉他指法查看器，可在您演奏时为您的演奏评分.
 - [Taskade](https://www.taskade.com) - 具有任务、笔记和聊天功能的分布式团队的实时组织和协作工具.
 - [Coloban](https://www.coloban.com) - 具有聊天、看板、甘特图、通话、屏幕共享等功能的多合一项目管理工具.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
@@ -277,7 +286,7 @@
 - [Electron API usage](https://github.com/hokein/electron-sample-apps) - 说明 Electron API 用法的示例应用程序.
 - [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - WebRTC 屏幕录像机.
 - [Activity Monitor](https://electronjs.org/blog/simple-samples#activity-monitor) - 显示 CPU 系统、用户和空闲活动时间的圆环图.
-- [Hash](https://electronjs.org/blog/simple-samples#hash) - 使用不同算法显示输入文本的哈希值.
+- [Hash](https://electronjs.org/blog/simple-samples#hash) - 使用不同的算法显示输入文本的哈希值.
 - [Prices](https://electronjs.org/blog/simple-samples#prices) - 使用雅虎财经 API 显示石油、黄金和白银的当前价格.
 - [Touch Bar API](https://github.com/Rawnly/touchbar-api-sample) - macOS Touch Bar 集成示例.
 
@@ -356,9 +365,9 @@
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（对于路由很有用，比如 `react-router`）.
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium 的网络错误作为自定义错误类.
-- [run-electron](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+- [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行 Electron.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - 集成电子 API 和 Angular.
-- [debugtron](https://github.com/pd4d10/debugtron) - 调试基于电子的生产中的应用程序.
+- [debugtron](https://github.com/pd4d10/debugtron) - 调试生产中的基于电子的应用程序.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - 防止中间人.
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - 简化的 IPC 通信.
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - 添加对 Chrome 扩展的支持.
@@ -374,8 +383,8 @@
 
 - [devtool](https://github.com/Jam3/devtool) - 使用 Chrome DevTools 调试 Node.js.
 - [nativefier](https://github.com/jiahaog/nativefier) - 创建任何网站的应用程序.
-- [electron-stream](https://github.com/juliangruber/electron-stream) - 流包装器.
-- [Nightmare](http://www.nightmarejs.org) - 高级浏览器自动化库（替代 PhantomJS）.
+- [electron-stream](https://github.com/juliangruber/electron-stream) - 流包装.
+- [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从 URL、HTML 或 Markdown 文件生成 PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览 GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在 Electron 中运行 Mocha 测试.
@@ -411,7 +420,7 @@
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和更高的性能嵌入 Web 应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和改进的性能嵌入 Web 应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack 用 `BrowserView`、Redux、Rx 和 TypeScript 重写了他们的 Electron 应用程序，以修复其性能问题.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作 Electron 应用程序并将其发布到 Mac App Store 的过程的 5 部分系列.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - 专注于设计和代码决策以及电子安全.
@@ -440,8 +449,8 @@
 - [Automatically Build and Publish Node and Electron Applications for Linux](https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux)
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 
-- [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - 包括一些关于改进应用程序启动时间、调试崩溃等的精彩演讲.
-- [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - 在不牺牲您自己的风格的情况下，让您的应用程序在 macOS、Windows 和 Linux 上感觉更原生的提示.
+- [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - 包括一些关于改善应用程序启动时间、调试崩溃等的精彩演讲.
+- [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - 让您的应用在 macOS、Windows 和 Linux 上感觉更原生而不牺牲您自己的风格的技巧.
 
 ## Podcasts
 
