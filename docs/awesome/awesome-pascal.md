@@ -9,7 +9,7 @@
 
 这个很棒的收藏也可以在 [Delphi.ZEEF.com](https://delphi.zeef.com/anton.frost)
 
- :exclamation: **关于编译器兼容性的注意事项**. 根据项目的描述，所有项目都有编译器/语言方言兼容性徽章. 没有检查与非官方支持的编译器的真正兼容性. 通常，代码可以与不受支持的编译器/语言方言一起使用，只需稍作修改，但可能会有例外.
+:exclamation: **Note on compiler compatibility**. There are compiler/language dialect compatibility badges for all projects based on a project's description. No real compatibility with compilers not officially supported is checked. Often a code could be used with non-supported compiler/language dialect with minor modifications but there could be exceptions.
 
 
 - [Awesome Delphi](#awesome-delphi)
@@ -73,7 +73,7 @@
  // *Utils: ZLIB 压缩；  JSON;  XML; 协议缓冲区；  Unicode 例程； 数据结构; 哈希：XOR、CRC、Adler、MD5、SHA、安全密钥MD5/SHA等； 网络：通过 SSL3/TLS1.0/TLS1.1/TLS1.2（完全原生）阻止 TCP 客户端/服务器、HTTP(S)；  SQL解析器； 比特币 MtGox 客户端；  Blaise 脚本引擎； 密码：AES、DES、FUNE、RC2、RC4、RSA、Diffie-Hellman； 数学：矩阵、复数、统计、大数*
 
 * [Spring4D](https://bitbucket.org/sglienke/spring4d) .  `[Delphi]` Embarcadero Delphi 2010 及更高版本的开源代码库. 它由许多不同的模块组成，这些模块包含一个基类库（通用类型、基于接口的集合类型、反射扩展）和一个依赖注入框架. 包括加密库.
- // *使用泛型并基于IEnumerable的集合和其他容器，可能比RTL类似物更准确和更有特色； 加密：CRC、DES、MD5、SHA； 文件实用程序等*
+// *Collections and other containers using Generics and based on IEnumerable, probably more accurate and featured than RTL analogs; crypto: CRC, DES, MD5, SHA; file utils etc*
 
 * [TheUnknownOnes](https://github.com/chaosben/theunknownones) .  `[Delphi]` 大量的类、组件、实用程序，几乎适用于所有用途. 几乎没有记录，但似乎不是最新的.
 
@@ -83,7 +83,7 @@
 
 * [MARS - Curiosity](https://github.com/andrea-magni/MARS) .  `[Delphi]` Delphi REST 库. 纯 REST 方法，熟悉的 Delphi 风格的标准概念（包括基于组件的客户端库）. 已知兼容性：从 XE 到 10 Seattle 的 Delphi 版本. 某些功能需要 FireDAC.
 
-* [ADAPT](https://github.com/LaKraven/ADAPT) .  `[Delphi]` 高级开发人员异步编程工具包，基础库旨在用作项目的核心，目的是提供极其强大的多线程（和线程安全）功能. 事件引擎 - 一个非常强大的系统，用于生成多线程、异步和事件驱动程序. 泛型集合 - 高效的集合类型（列表、树、地图等）. 数学库 - 用于单位转换、特殊计算和其他有用数学例程的库.  Package Engine - Streamables Engine 的扩展，支持将文件打包在一起（一种 VFS）. 共享流库 - 100% 线程安全流类（也有接口）允许从多个线程读/写. 流处理库 - 使使用流更容易！ 处理删除、插入、读取和写入数据.
+* [ADAPT](https://github.com/LaKraven/ADAPT) .  `[Delphi]` 高级开发人员异步编程工具包，基础库旨在用于项目的核心，目的是提供极其强大的多线程（和线程安全）功能. 事件引擎 - 一个非常强大的系统，用于生成多线程、异步和事件驱动程序. 泛型集合 - 高效的集合类型（列表、树、地图等）. 数学库 - 用于单位转换、特殊计算和其他有用数学例程的库.  Package Engine - Streamables Engine 的扩展，支持将文件打包在一起（一种 VFS）. 共享流库 - 100% 线程安全流类（也有接口）允许从多个线程读/写. 流处理库 - 使使用流更容易！ 处理删除、插入、读取和写入数据.
 
 * [Redux Delphi](https://github.com/pierrejean-coudert/ReduxDelphi) .  `[Delphi]` 使用单向数据流的 Delphi 应用程序的可预测状态容器. 受 ReduxJS 的启发. 带有不可变的通用列表.
 
@@ -115,7 +115,7 @@
 
 * [Audorra](https://sourceforge.net/projects/audorra) .  `[Delphi]` `[FPC]` 用于 Delphi 和 Freepascal 的数字音频库. 使用灵活的插件架构，它允许您交换音频后端（例如 WaveOut、OpenAL）、添加协议类（例如文件、http）和解码器.
 
-* [Delphi-BASS](https://github.com/TDDung/Delphi-BASS) .  `[Delphi]` Delphi 的 FMX 和 VCL 头文件/包装器单元，用于 [BASS](https://www.un4seen.com) 音频库和附加组件.
+* [Delphi-BASS](https://github.com/TDDung/Delphi-BASS) .  `[Delphi]` Delphi 的 FMX 和 VCL 头文件/包装器单元，用于 [BASS](https://www.un4seen.com) audio library plus add-ons.
 
 
 ## Video
@@ -166,12 +166,12 @@
 * [AsciiImage](https://github.com/Memnarch/AsciiImage) .  `[Delphi]` AsciiImage - Alexander Benikowski 基于 Charles Parnot 的 AsciiImage 为 Delphi 实现的实现. 阅读更多 [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
 // *从 ASCII 像素图创建可缩放的单色图像*
 
-* [PngComponents](https://bitbucket.org/uweraabe/pngcomponents) .  `[Delphi]` PngComponents 是一组组件，允许您在应用程序中包含真实的 PNG 文件.  PNG 文件本身并没有产生巨大的优势，但它们对 alpha 通道的支持确实有很大的魅力.
+* [PngComponents](https://bitbucket.org/uweraabe/pngcomponents) .  `[Delphi]` PngComponents 是一组组件，允许您在应用程序中包含真实的 PNG 文件.  PNG 文件本身并没有产生巨大的优势，但它们对 alpha 通道的支持确实对它有很大的吸引力.
 
 * [AggPasMod](https://github.com/CWBudde/AggPasMod) .  `[Delphi]` 现代化的 Pascal 反纹理几何. 基于 AggPas，它本身基于 Anti-Grain Geometry，该项目提供对最新 Delphi 版本（XE 及更高版本）的支持，并包含一些帮助类（VCL 组件和 FireMonkey 接口）. 二维矢量图形库. 基本上，您可以将 AggPas 视为一个渲染引擎，它从一些矢量数据在内存中生成像素图像. 但当然，AGG 可以做的远不止这些.
 // *矢量图形库，渲染SVG等等*
 
-* [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader). `[Delphi]` Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of external libraries or hardware acceleration.
+* [delphi-shader](https://github.com/WouterVanNifterick/delphi-shader) .  `[Delphi]` 数百个图形效果，以及一个以纯 Delphi 代码提供 GLSL 功能的库. 该项目生成了一个具有一百多个实时图形效果的可执行文件. 所有这些都是 100% pascal 实现，无需使用外部库或硬件加速.
 
 * [dglOpenGL](https://github.com/SaschaWillems/dglOpenGL) .  `[Delphi]` `[FPC]` Delphi / Pascal OpenGL 头文件翻译.
 
@@ -195,7 +195,7 @@
 
 * [FontIconEditor](https://github.com/lminuti/FontIconEditor) .  `[Delphi]` 简单的组件编辑器，允许您将图标从字体添加到 TImageList. 你可以使用任何你想要的字体.
 
-* [IconFontsImageList](https://github.com/EtheaDev/IconFontsImageList) .  `[Delphi]` Delphi (VCL &amp; FMX) 的扩展 ImageList 以简单使用和管理图标字体（支持 GDI+）
+* [IconFontsImageList](https://github.com/EtheaDev/IconFontsImageList). `[Delphi]` Extended ImageList for Delphi (VCL & FMX) to simple use and manage Icon Fonts (with GDI+ support)
 
 * [Mundus](https://github.com/Memnarch/Mundus) .  `[Delphi]` 用 Delphi 编写的软件渲染器. 当前仅支持 Win32，因为它使用了一些内联汇编程序.
 
@@ -283,7 +283,7 @@
 
 * [mORMot](#general-libraries) . 通过高性能 HTTP 服务器、MVC/MVVM 网站上的接口提供 RESTful ORM 和 SOA 服务
 
-* [SDriver](https://github.com/andrea-magni/SDriver) .  `[Delphi]` Delphi 包装器 [Slack](https://slack.com) API.
+* [SDriver](https://github.com/andrea-magni/SDriver) .  `[Delphi]` Delphi 包装器 [Slack](https://slack.com) 火.
 
 * [Hprose for Delphi/Lazarus](https://github.com/hprose/hprose-delphi) .  `[Delphi]` `[FPC]` 高性能远程对象服务引擎. 它是一个现代、轻量级、跨语言、跨平台、面向对象、高性能、远程动态通信中间件. 它不仅易于使用，而且功能强大. 本项目是Hprose for Delphi/Lazarus 的实现.
 
@@ -455,9 +455,9 @@
 
 * [SciDe](https://github.com/da-baranov/SciDe) .  `[Delphi]` `[FPC]` [Sciter](https://sciter.com) Delphi 的（嵌入式 HTML/CSS/脚本引擎）包装器.
 
-* [ATBinHex for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas) `[Delphi]`, [ATBinHex for Laz](https://github.com/Alexey-T/ATBinHex-Lazarus) .  `[FPC]` 无限大小文件的查看器，如 Total Commander.
+* [ATBinHex for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATBinHex.pas) `[德尔福]`， [ATBinHex for Laz](https://github.com/Alexey-T/ATBinHex-Lazarus) .  `[FPC]` 无限大小文件的查看器，如 Total Commander.
 
-* [ATImageBox for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATImageBox.pas) `[Delphi]`, [ATImageBox for Laz](https://github.com/Alexey-T/ATImageBox-Lazarus) .  `[FPC]` 带有嵌入式 TImage 的 TScrollBox. 控件可以自动定位内部图像.
+* [ATImageBox for Delphi](https://github.com/Alexey-T/ATViewer/blob/master/Source/ATImageBox.pas) `[德尔福]`， [ATImageBox for Laz](https://github.com/Alexey-T/ATImageBox-Lazarus) .  `[FPC]` 带有嵌入式 TImage 的 TScrollBox. 控件可以自动定位内部图像.
 
 * [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi) .  `[Delphi]` `[FPC]` 在使用 Delphi 或 Lazarus/FPC 制作的应用程序中嵌入基于 Chromium 的浏览器的项目
 
@@ -540,7 +540,7 @@
 
 * [hcOPF](https://sourceforge.net/projects/larryhengensopf) .  `[Delphi]` 用 Embarcadero 的 Delphi (Object Pascal) 编写的对象持久框架. 该值类型框架提供了一个由属性对象组成的基类 (ThcObject)，这些对象可以自动持久化到对象存储（通常是 RDBMS）.
 
-* [Marshmallow](https://bitbucket.org/soundvibe/marshmallow/wiki/Home) .  `[Delphi]` Delphi XE2-7 (Win32) 的对象关系映射，受 .NET micro ORM（主要由 PetaPoco）和 Java Hibernate 启发. 由 Linas Naginionis 开发. 支持 SQLite、Sybase ASA、SQL Server、Firebird、Oracle、MySQL、PostgreSQL、MongoDB. 用途 [Spring](http://code.google.com/p/delphi-spring-framework/) 框架. 在积极发展.
+* [Marshmallow](https://bitbucket.org/soundvibe/marshmallow/wiki/Home). `[Delphi]` Object-Relational Mapping for Delphi XE2-7 (Win32) inspired by .NET micro ORM's (mostly by PetaPoco) and Java Hibernate. Developed  by Linas Naginionis. Supports SQLite, Sybase ASA, SQL Server, Firebird, Oracle, MySQL, PostgreSQL, MongoDB. Uses [Spring](http://code.google.com/p/delphi-spring-framework/) 框架. 在积极发展.
 
 * [DelphiCassandra](https://github.com/grijjy/DelphiCassandra) .  `[Delphi]` 用于与 Cassandra 数据库通信的 Delphi 驱动程序类.
 
@@ -586,7 +586,7 @@
 * [VerySimple.Lua](https://github.com/Dennis1000/verysimplelua) .  `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 自动为 Delphi &lt;-&gt; Lua 创建 OOP 回调函数.
 // *需要LUA DLL*
 
-* [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal) .  `[Delphi]` `[FPC]` Bellard 的 Delphi 和 Free Pascal 绑定 [QuickJS](https://bellard.org/quickjs) Javascript Engine.
+* [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal) .  `[Delphi]` `[FPC]` Bellard 的 Delphi 和 Free Pascal 绑定 [QuickJS](https://bellard.org/quickjs) Javascript 引擎.
 
 ## Machine Learning ##
 
@@ -694,7 +694,7 @@
 
 * [VerySimpleXML](https://github.com/Dennis1000/verysimplexml) .  `[Delphi]` 用于 Delphi 2010 - 10.2.2 Tokyo 的轻量级、单单元、跨平台 XML 读写器
 
-* [XSuperObject](https://github.com/onryldz/x-superobject) .  `[Delphi]` Delphi 跨平台快速 JSON
+* [XSuperObject](https://github.com/onryldz/x-superobject). `[Delphi]` Delphi Cross Platform Rapid JSON
 
 * [Internet Tools](https://github.com/benibela/internettools) .  `[Delphi]` `[FPC]` 包提供了符合标准的 XPath 2.0、XQuery 1.0 和 XPath/XQuery 3.0 解释器，其中包括 JSONiq、模式匹配、CSS 和 HTML 的扩展； 以及在 Windows/Linux/MacOSX/Android 上执行 HTTP/S 请求的函数、受 XSLT 启发的网页抓取语言和自动更新类.
 
@@ -746,15 +746,15 @@
 
 *低级辅助工具：内存、线程等*
 
-* [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary). `[Delphi]` Simple to use threading library for Delphi.
-// *Easy integration of async processes in your app*
+* [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary) .  `[Delphi]` 简单易用的 Delphi 线程库.
+// *在您的应用程序中轻松集成异步进程*
 
 * [Delphi Detours Library](https://github.com/mahdisafsafi/delphi-detours-library) .  `[Delphi]` `[FPC]` 库允许您挂钩 Delphi 函数和对象方法以及 Windows API 函数. 它提供了一种简单的方法来插入和移除挂钩.
 // *支持x64，调用原始函数，多钩子，COM/Interfaces/win32api，对象方法钩子，完全线程安全，Delphi 7/2005-2010/XE-XE7 &amp; Lazarus/FPC，支持64位地址.*
 
 * [MemoryModule](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule) .  `[Delphi]` `[FPC]` 使用 MemoryModule 引擎，您可以将所有需要的 DLL 存储在您的二进制文件中以使其保持独立. 额外的钩子单元允许透明地使用 MM 引擎，从而允许切换 MM/WinAPI 加载以及启用不知道 MM 的 3rd 方动态加载 DLL 接口（使用 Interbase Express 组件和 Firebird 客户端库测试）.  MemoryModule 是 Joachim Bauch 的 C MemoryModule 的 Pascal 端口.
 
-* [DirectoryWatcher](https://github.com/Wosi/DirectoryWatcher) .  `[Delphi]` 在不同平台（Windows/Linux/Mac OS）上观察目录的变化.
+* [DirectoryWatcher](https://github.com/Wosi/DirectoryWatcher). `[Delphi]` Watch changes in directories on different platforms (Windows/Linux/Mac OS).
 
 * [ezthreads](https://github.com/mr-highball/ezthreads) .  `[FPC]` 简单易用的线程库
 
@@ -773,10 +773,9 @@
 
 * [Sempare Template Engine](https://github.com/sempare/sempare-delphi-template-engine) .  `[Delphi]` 模板引擎允许灵活的文本操作. 它可用于生成电子邮件、html、源代码、xml、配置等.它非常易于使用、灵活和可扩展，模板可读和可维护. 它支持：条件、循环、自定义函数和通过 RTTI 引用数据.  XE4、XE8+
 
-* [DVD Chief Template Engine](http://dvdchief.com/delphi) .  `[Delphi]` Delphi XE/XE2/XE3 的模板引擎. 它在我们的 DVD Chief 产品中用于创建 html 数据布局和用于 html 导出.
-// *自 2013 年以来已废弃，但仍然有效*
+* [DVD Chief Template Engine](https://github.com/Fr0sT-Brutal/TemplateEngine) .  `[Delphi]` `[FPC]` 废弃的用于 Delphi 的 PHP Smarty 模板引擎实现的 Fork [DVD Chief](http://dvdchief.com/delphi).
 
-* [liquid-delphi](https://github.com/arimateia/liquid-delphi) .  `[Delphi]` 流行的 Delphi 端口（Ruby Liquid 模板语言）[https://shopify.github.io/liquid] 和 dotLiquid 实现. 它是一个单独的项目，旨在保留与原始模板语法相同的模板语法，同时尽可能使用 delphi 编码约定.
+* [liquid-delphi](https://github.com/arimateia/liquid-delphi) .  `[Delphi]`流行的Delphi端口 [Ruby Liquid templating language](https://shopify.github.io/liquid) 和 dotLiquid 实现. 它是一个单独的项目，旨在保留与原始模板语法相同的模板语法，同时尽可能使用 delphi 编码约定.
 
 
 ## Logging
@@ -798,7 +797,7 @@
 
 ## Math
 
-* [Big Decimal Math](https://github.com/benibela/bigdecimalmath) .  `[Delphi]` 该单元提供任意精度的 BCD 浮点数类型. 它可以像任何数字类型一样使用，并支持： 至少 10-2147483647 到 102147483647 之间的数字，具有 2147483647 十进制数字精度； 所有标准算术和比较运算符； 舍入函数（floor、ceil、to-even、..）； 一些更高级的操作，例如 power 和 sqrt.
+* [Big Decimal Math](https://github.com/benibela/bigdecimalmath) .  `[Delphi]` 该单元提供任意精度的 BCD 浮点数类型. 它可以像任何数字类型一样使用并支持： 至少 10-2147483647 到 102147483647 之间的数字，具有 2147483647 十进制数字精度； 所有标准算术和比较运算符； 舍入函数（floor、ceil、to-even、..）； 一些更高级的操作，例如 power 和 sqrt.
 
 * [TIntX](https://github.com/Xor-el/IntXLib4Pascal) .  `[Delphi]` `[FPC]` IntX 任意精度整数库的 Pascal 端口，具有快速的 O(N * log N) 乘法/除法算法实现. 它提供了对整数的所有基本算术运算、比较、按位移位等.它还允许解析不同基数的数字并将它们转换为字符串，也可以是任何基数. 这个库的优点是它的快速乘法、除法和从基数/到基数的转换算法. 算法的所有快速版本都基于使用快速哈特利变换的大整数的快速乘法，该变换运行时间为 O(N * log N * log log N)，而不是经典的 O(N^2).
 
@@ -812,7 +811,7 @@
 * [AMath](http://www.wolfgang-ehrhardt.de/misc_en.html#amath) 和 [DAMath](http://www.wolfgang-ehrhardt.de/misc_en.html#damath). `[Delphi]` Accurate mathematical methods without using multi precision arithmetic 和 double precision accurate mathematical methods without using multi precision arithmetic or assembler respectively.
 
 * [ALGLIB](http://www.alglib.net/download.php) .  `[Delphi]` `[FPC]` 跨平台数值分析和数据处理库. 它支持多种操作系统（Windows 和 POSIX，包括 Linux）.  ALGLIB 功能包括： 数据分析（分类/回归、统计）； 优化和非线性求解器； 插值和线性/非线性最小二乘拟合； 线性代数（直接算法，EVD/SVD），直接和迭代线性求解器； 快速傅立叶变换和许多其他算法.
-// Free edition is Delphi wrapper around generic C core licensed for Personal and Academic Use.
+// 免费版是 Delphi 封装的通用 C 内核，许可用于个人和学术用途.
 
 * [CAI NEURAL API](https://github.com/joaopauloschuler/neural-api) .  `[FPC]` `[Delphi]` 针对 AVX、AVX2 和 AVX512 指令集以及支持 OpenCL 的设备（包括 AMD、Intel 和 NVIDIA）优化的跨平台神经网络 API.
 
@@ -821,7 +820,7 @@
 
 *用于解析命令行参数的库*
 
-* [TCommandLineReader](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
+* [TCommandLineReader](https://github.com/benibela/rcmdline) .  `[Delphi]` `[FPC]` 这个单元为 Lazarus 和 Delphi 提供了一个先进的、独立于平台的命令行解析器. 它检查允许的选项，自动打印包含所有选项列表的帮助，并且 - 与 rtl 中的解析器相反 - 在 Windows 和 Linux 上的行为相同.
 
 * [CommandLineParser](https://github.com/VSoftTechnologies/VSoft.CommandLineParser) .  `[Delphi]` 简单命令行选项解析器 - 从 DUnitX 项目产生.
 
@@ -847,7 +846,7 @@
 
 * [DuckDuckDelphi](https://code.google.com/p/duckduckdelphi) .  `[Delphi]` 为 Delphi Objects 添加了简单的鸭子类型，并提供了一个 RTTI 帮助器类来简化许多常见的 RTTI 任务.
 
-* [byterage](https://github.com/quartexNOR/byterage). `[Delphi]` Object pascal class library designed to remove some of the limitations of streams. The framework is very simple to use, with only one common ancestor class (TBRBuffer) which defines a set of storage agnostic mechanisms for allocating, scaling, inserting, deleting and otherwise manipulating a segment of raw binary data.
+* [byterage](https://github.com/quartexNOR/byterage) .  `[Delphi]` Object pascal 类库旨在消除流的一些限制. 该框架使用起来非常简单，只有一个共同的祖先类 (TBRBuffer)，它定义了一组与存储无关的机制，用于分配、缩放、插入、删除和以其他方式操作一段原始二进制数据.
 
 * [stateless](https://github.com/SirRufo/stateless) .  `[Delphi]` 用于在 Delphi 代码中创建状态机的简单库.
 
@@ -979,7 +978,7 @@
 
 * [SynTests](https://github.com/synopse/mORMot/blob/master/SynTests.pas) .  `[Delphi]` `[FPC]` 单元测试功能，包括模拟和存根.
 
-* [OpenCTF](http://openctf.sourceforge.net). `[Delphi]` Test framework add-on for Embarcadero Delphi which performs automatic checks of all components in Forms (or DataModules). It provides an easy way to build automatic quality checks for large projects where many components have to pass repeated tests. OpenCTF is based on the DUnit open source test framework and extends it by specialized test classes and helper functions.
+* [OpenCTF](http://openctf.sourceforge.net) .  `[Delphi]` 用于 Embarcadero Delphi 的测试框架插件，它自动检查 Forms（或 DataModules）中的所有组件. 它提供了一种简单的方法来为许多组件必须通过重复测试的大型项目构建自动质量检查.  OpenCTF 基于 DUnit 开源测试框架，并通过专门的测试类和辅助函数对其进行扩展.
 
 * [DelphiUIAutomation](https://github.com/jhc-systems/DelphiUIAutomation) .  `[Delphi]` 包装 MS UIAutomation 库的 Delphi 类.  DelphiUIAutomation 是一个基于 Win32（并专门用 Delphi XE5 测试）的自动化富客户端应用程序的框架. 它是用 Delphi XE5 编写的，不需要使用脚本语言. 它提供了一致的面向对象的 API，隐藏了 Microsoft 的 UIAutomation 库和 windows 消息的复杂性.
 
@@ -1013,7 +1012,7 @@
 * [IDE Fix Pack](http://andy.jgknet.de/blog/ide-tools/ide-fix-pack) . 针对 RAD Studio IDE、Win32/Win64 编译器和 Win32 调试器的非官方错误修复和性能优化的集合.  IDE Fix Pack 是 RAD Studio 2009-XE6 的 IDE 插件，可在运行时修复 IDE 错误. 所有更改都在内存中完成. 没有修改磁盘上的文件. 除了编译速度更快之外，您的任何项目都不会被修改或受益于 IDE 修复包. 只有 IDE 才能获得修复和优化.
  // *支持自 2007 年以来的所有 RAD Studio 版本.删除了许多 EMBT 多年未修复的烦人错误. 好极了！*
 
-* [GExperts](https://sourceforge.net/projects/gexperts) . 免费工具集，通过向 IDE 添加多项功能来提高 Delphi 和 C++Builder 程序员的工作效率.  GExperts 是作为开源软件开发的，我们鼓励用户对项目做出贡献.  Grep 搜索和替换支持的 unicode 文件、DFM 等； 自动重命名组件、插入文本宏、打开最近的文件； 使用自定义附加文件列表轻松备份您的项目； 保留收藏夹文件的嵌套列表以便快速访问； 跟踪项目中单元之间的依赖关系； 快速跳转到当前单元中的任意程序； 还有很多很多...
+* [GExperts](https://sourceforge.net/projects/gexperts) . 免费工具集，通过向 IDE 添加多项功能来提高 Delphi 和 C++Builder 程序员的生产力.  GExperts 是作为开源软件开发的，我们鼓励用户对项目做出贡献.  Grep 搜索和替换支持的 unicode 文件、DFM 等； 自动重命名组件、插入文本宏、打开最近的文件； 使用自定义附加文件列表轻松备份您的项目； 保留收藏夹文件的嵌套列表以便快速访问； 跟踪项目中单元之间的依赖关系； 快速跳转到当前单元中的任意程序； 还有很多很多...
 
 * [CnWizards](https://github.com/cnpack) . 用于 Delphi/C++ Builder/CodeGear RAD Studio 的免费插件工具集，以提高开发效率.
 
@@ -1034,7 +1033,7 @@
 * [Delphi IDE Explorer](https://github.com/DGH2112/Delphi-IDE-Explorer) . 向导/专家/插件，允许您浏览 IDE 的内部字段、方法、属性和事件.
 // *主要对IDE专家的开发人员有用*
 
-* [Multi-RAD Studio IDE Expert Manager](http://www.davidghoyle.co.uk/WordPress/?page_id=1361) . 应用程序用于在机器上编辑所有版本的 RAD Studio（以及较旧的 Delphi 和 C++ Builder）中的已安装专家.
+* [Multi-RAD Studio IDE Expert Manager](http://www.davidghoyle.co.uk/WordPress/?page_id=1361) . 应用程序用于在机器上编辑所有版本的 RAD Studio（以及较旧的 Delphi 和 C++ Builder）中已安装的专家.
 
 * [OTA Interface Search](https://github.com/DGH2112/OTA-Interface-Search) . 应用程序有助于查找开放工具 API (OTA) 接口、方法和属性，并了解如何访问这些接口或接口的方法/属性.
 
@@ -1056,11 +1055,11 @@
 
 * [Mobile Image Creator](https://github.com/littleearth/mobile-image-creator) 为 Delphi 移动应用程序 (Firemonkey) 创建图标和启动器图像. 这是一个由 Mobile Gfx 创建的分支 [Thomas Grubb of RiverSoftAVG](http://riversoftavg.com/blogs/index.php/2014/02/03/creating-icons-and-launchers-for-delphi-mobile-applications/).
 
-* [Delphi-Adb-WiFi](https://github.com/ms301/Delphi-Adb-WiFi) .  RAD Studio 插件，允许在 Android 设备上启动和调试，而无需通过 USB 连接到计算机. 通过 WiFi 工作.
+* [Delphi-Adb-WiFi](https://github.com/ms301/Delphi-Adb-WiFi). Plugin for RAD Studio, which allows launching and debugging on an Android device without connecting to a computer via USB. Works over WiFi.
 
 * [RADSplit](https://github.com/LaKraven/RADSplit) . 用于 RAD Studio（Delphi 和 C++ Builder）的可停靠分屏编辑器.
 
-* [DzNoteEditor](https://github.com/digao-dalpiaz/DzNoteEditor) . 用于 TStrings 的 Delphi 属性编辑器支持带语法高亮显示的格式化语言.
+* [DzNoteEditor](https://github.com/digao-dalpiaz/DzNoteEditor). Delphi Property Editor for TStrings supporting formatted languages with syntax highlight.
 
 
 ## Plugins for other IDE's
@@ -1083,7 +1082,7 @@
 
 * [SamplingProfiler](https://www.delphitools.info/samplingprofiler) .  `[Delphi]` Delphi 5 到 32 位 Delphi XE4 的性能分析工具. 它的目的是帮助定位瓶颈，即使是在全速运行的最终优化代码中.
 
-* [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage) .  `[Delphi]` 用于 Delphi 的简单代码覆盖率工具，可根据详细的 MAP 文件创建代码覆盖率报告.
+* [Delphi Code Coverage](https://github.com/DelphiCodeCoverage/DelphiCodeCoverage) .  `[Delphi]` 用于 Delphi 的简单代码覆盖率工具，可根据详细的 MAP 文件创建代码覆盖率报告.
 
 * [Pascal Analyzer](http://www.peganza.com/products_pal.html)  （提供免费的精简版）.  `[Delphi]` Pascal Analyzer，简称 PAL，解析 Delphi 或 Borland Pascal 源代码. 它构建大型内部标识符表，并收集其他信息，例如子程序之间的调用. 解析完成后，会生成大量报告. 这些报告包含大量关于源代码的重要信息. 此信息将帮助您更好地理解源代码，并帮助您生成质量和可靠性更高的代码.
 
@@ -1112,7 +1111,7 @@
 
 * [Silverpoint MultiInstaller](http://www.silverpointdevelopment.com/multiinstaller/index.htm) .  Embarcadero Delphi 和 C++Builder 的多组件包安装程序，它的创建是为了简化 IDE 上的组件安装.
 
-* [Grijjy Deployment Manager](https://github.com/grijjy/GrijjyDeployMan) . 用于简化用 Delphi 编写的 iOS 和 Android 应用程序的文件和文件夹部署的工具. 如果您需要部署大量文件，例如 3rd 方 SDK，它尤其有用.
+* [Grijjy Deployment Manager](https://github.com/grijjy/GrijjyDeployMan). Tool to simplify the deployment of files and folders for iOS and Android apps written in Delphi. It is especially useful if you need to deploy a lot of files, such as 3rd party SDKs.
 
 
 ## Other

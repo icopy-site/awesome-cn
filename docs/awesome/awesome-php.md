@@ -23,6 +23,7 @@
 * [Composer Installers](https://github.com/composer/installers) - 多框架 Composer 库安装程序.
 * [Composer](https://getcomposer.org/) - 包和依赖项管理器.
 * [Melody](https://melody.sensiolabs.org/) - 一种构建一个文件 Composer 脚本的工具.
+* [Phive](https://phar.io/) - PHAR 经理.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - PHP 扩展安装程序.
 
 ### Dependency Management Extras

@@ -138,7 +138,7 @@
   * [Cloudmersive](https://cloudmersive.com/) — 实用 API 平台，可完全访问扩展 API 库，包括文档转换、病毒扫描等，每月调用 800 次.
   * [Colaboratory](https://colab.research.google.com) — 使用 Nvidia Tesla K80 GPU 的免费基于 Web 的 Python 笔记本环境.
   * [Collect2](https://collect2.com)  — 创建 API 端点以测试、自动化和连接 Webhook. 免费计划允许使用两个数据集、2000 条记录、1 个转发器和 1 个警报.
-  * [Conversion Tools](https://conversiontools.io/)  - 用于文档、图像、视频、音频、电子书的在线文件转换器.  REST API 可用.  Node.js、PHP、Python 的库. 支持文件最大 50 GB（付费计划）. 免费套餐受文件大小和每天转换次数的限制.
+  * [Conversion Tools](https://conversiontools.io/)  - 用于文档、图像、视频、音频、电子书的在线文件转换器.  REST API 可用.  Node.js、PHP、Python 的库. 支持文件高达 50 GB（付费计划）. 免费套餐受文件大小和每天转换次数的限制.
   * [CurlHub](https://curlhub.io)  — 用于检查和调试 API 调用的代理服务. 免费计划包括每月 10,000 个请求.
   * [CurrencyScoop](https://currencyscoop.com)  - 金融科技应用的实时货币数据 API. 免费计划包括每月 5000 次通话.
   * [Datapane](https://datapane.com) - 用于在 Python 中构建交互式报告并将 Python 脚本和 Jupyter Notebooks 部署为自助服务工具的​​ API.
@@ -187,7 +187,7 @@
   * [Pixela](https://pixe.la/)  - 免费日流数据库服务. 所有操作均由 API 执行. 也可以使用热图和折线图进行可视化.
   * [Postbacks](https://postbacks.io/)  - 稍后请求 HTTP 回调. 注册时有 8,000 个免费请求.
   * [Postman](https://postman.com)  — 使用 API 开发协作平台 Postman 简化工作流程并创建更好的 API——更快. 永久免费使用 Postman App. 邮递员云功能也永久免费，但有一定的限制.
-  * [ProxyCrawl](https://proxycrawl.com/)  — 无需代理、基础设施或浏览器即可抓取和抓取网站. 我们为您解决验证码并防止您被屏蔽. 前 1000 个电话是免费的.
+  * [ProxyCrawl](https://proxycrawl.com/)  — 无需代理、基础设施或浏览器即可抓取和抓取网站. 我们为您解决验证码并防止您被阻止. 前 1000 个电话是免费的.
   * [QuickMocker](https://quickmocker.com/)  — 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhooks 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 OpenAPI (Swagger) 规范中导入 JSON 格式、代理请求、通过 IP 地址和授权标头限制端点. 免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 个历史记录.
   * [RequestBin.com](https://requestbin.com)  — 创建一个免费端点，您可以向其发送 HTTP 请求. 发送到该端点的任何 HTTP 请求都将与关联的负载和标头一起记录，以便您可以观察来自 Webhook 和其他服务的请求.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark 使任何 API、应用程序或数据所有者能够通过直观的浏览器界面在几分钟内成为 API 提供者.
@@ -319,7 +319,7 @@
   * [codeclimate.com](https://codeclimate.com/)  — 自动代码审查，开源免费和无限的组织拥有的私人存储库（最多 4 个合作者）. 学生和机构也免费.
   * [codecov.io](https://codecov.io/) — 代码覆盖工具 (SaaS)，开源免费和 1 个免费私人仓库
   * [CodeFactor](https://www.codefactor.io)  — Git 的自动代码审查. 免费版包括无限用户、无限公共存储库和 1 个私人存储库.
-  * [codescene.io](https://codescene.io/)  - CodeScene 根据开发人员如何使用代码并可视化组织因素（如团队耦合和系统掌握）来确定技术债务的优先级. 开源免费.
+  * [codescene.io](https://codescene.io/)  - CodeScene 根据开发人员如何使用代码并可视化组织因素（如团队耦合和系统掌握）来优先考虑技术债务. 开源免费.
   * [coveralls.io](https://coveralls.io/) — 显示测试覆盖率报告，开源免费
   * [dareboost](https://dareboost.com) - 每月 5 份免费的网络性能、可访问性、安全性分析报告
   * [deepcode.ai](https://www.deepcode.ai)  — DeepCode 基于 AI 发现 bug、安全漏洞、性能和 API 问题.  DeepCode 的分析速度使我们能够实时分析您的代码并在您点击 IDE 中的保存按钮时提供结果. 支持的语言包括 Java、C/C++、JavaScript、Python 和 TypeScript. 与 GitHub、BitBucket 和 Gitlab 的集成. 开源和私有存储库免费，最多可免费 30 名开发人员.
@@ -515,6 +515,7 @@
   * [oneskyapp.com](https://www.oneskyapp.com/) — 最多 5 位用户的限量免费版，开源免费
   * [POEditor](https://poeditor.com/) — 释放多达 1000 个字符串
   * [SimpleLocalize](https://simplelocalize.io/) - 免费多达 100 个翻译键、无限字符串、无限语言、启动交易
+  * [Texterify](https://texterify.com/) - 单个用户免费
   * [transifex.com](https://www.transifex.com/) — 开源免费
   * [Translation.io](https://translation.io) - 免费开源
   * [webtranslateit.com](https://webtranslateit.com/) — 释放多达 500 个字符串
@@ -554,7 +555,7 @@
   * [pagertree.com](https://pagertree.com/)  - 用于提醒和随叫随到管理的简单界面. 最多可免费 5 个用户.
   * [pingbreak.com](https://pingbreak.com/)  — 现代正常运行时间监控服务. 检查无限的 URL 并通过 Discord、Slack 或电子邮件获取停机通知.
   * [pingpong.one](https://pingpong.one/)  — 具有监控功能的高级状态页面平台. 免费套餐包括一个带有 SSL 子域的公共可自定义状态页面. 专业计划免费提供给开源项目和非营利组织.
-  * [sematext.com](https://sematext.com/) — 免费提供 24 小时指标、无限数量的服务器、10 个自定义指标、500,000 个自定义指标数据点、无限制的仪表板、用户等.
+  * [sematext.com](https://sematext.com/) — 24 小时免费指标、无限数量的服务器、10 个自定义指标、500,000 个自定义指标数据点、无限制的仪表板、用户等.
   * [sitemonki.com](https://sitemonki.com/) — 网站、域名、Cron 和 SSL 监控，每个类别 5 个免费监控器
   * [skylight.io](https://www.skylight.io/) — 前 100,000 个请求免费（仅限 Rails）
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — 性能监控 API，检查 Ping、DNS 等.
@@ -760,7 +761,7 @@
   * [outsystems.com](https://www.outsystems.com/) — 用于本地或云的企业 Web 开发 PaaS，免费的“个人环境”产品允许无限代码和高达 1 GB 的数据库
   * [pipedream.com](https://pipedream.com)  - 为开发人员构建的集成平台. 基于任何触发器开发任何工作流程. 工作流是可以运行的代码 [for free](https://docs.pipedream.com/pricing/) . 无需管理服务器或云资源.
   * [pythonanywhere.com](https://www.pythonanywhere.com/)  — 云 Python 应用托管. 初学者帐户是免费的，1 个 Python Web 应用程序位于 your-username.pythonanywhere.com 域，512 MB 私有文件存储空间，一个 MySQL 数据库
-  * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP 的内存平台即服务产品. 免费的开发者帐户包含 1 GB 结构化数据、1 GB 非结构化数据和 1 GB Git 数据，并允许您运行 HTML5、Java 和 HANA XS 应用程序
+  * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP 的内存平台即服务产品. 免费的开发者帐户带有 1 GB 结构化数据、1 GB 非结构化数据和 1 GB Git 数据，并允许您运行 HTML5、Java 和 HANA XS 应用程序
   * [staroid.com](https://staroid.com)  - 旨在为开源开发人员提供资金的托管 Kubernetes 命名空间服务. 释放 8 个 CPU 和 16GB 的 RAM 命名空间，用于测试公共存储库的分支和拉取请求. 免费测试命名空间每 30 分钟关闭一次. 最多 2 个并发测试命名空间.
   * [SUSE Developer Program](https://developer.suse.com)  — 免费体验云原生生产力. 通过您自己的开发人员沙箱亲身体验 SUSE Cloud Application Platform.  1 免费申请. 免费子域与 CLI 的 API 一起提供.  1 GB 的存储和内存配额.
   * [Platform9](https://platform9.com/)  - 专为开发人员设计的托管 Kubernetes 服务. 免费的开发者帐户最多包含 3 个集群和 20 个节点集群.
@@ -832,7 +833,7 @@
   * [surge.sh](https://surge.sh/)  — 面向前端开发人员的静态 Web 发布. 具有自定义域支持的无限站点
   * [tilda.cc](https://tilda.cc/) — 一个站点，50 页，50 MB 存储空间，只有 170 多个可用的主要预定义块，没有字体，没有网站图标，也没有自定义域
   * [txti.es](https://txti.es/) — 使用 Markdown 快速创建网页.
-  * [Vercel](https://vercel.com/)  — 每次使用“git push”时，都使用免费的 SSL、全球 CDN 和独特的预览 URL 构建、部署和托管 Web 应用程序. 非常适合 Next.js 和其他静态站点生成器.
+  * [Vercel](https://vercel.com/)  — 每次使用“git push”时，都会使用免费的 SSL、全球 CDN 和独特的预览 URL 构建、部署和托管 Web 应用程序. 非常适合 Next.js 和其他静态站点生成器.
   * [Versoly](https://versoly.com/)  — 专注于 SaaS 的网站构建器 - 无限制的网站、70 多个块、5 个模板、自定义 CSS、网站图标、SEO 和表单. 没有自定义域.
   * [Qovery](https://www.qovery.com)  — Qovery 是在 AWS、GCP 和 Azure 上部署全栈应用程序的最简单方法. 它是为具有数据库、SSL、全球 CDN 和从 Git 自动部署的开发人员提供的免费网络托管.
   * [FlashDrive.io](https://flashdrive.io)  - 类似于 Heroku 的 PaaS 服务，具有以开发人员为中心的方法和所有包容性功能. 静态资产、暂存和开发者应用程序的免费层.
@@ -1154,7 +1155,7 @@
    * [Panelbear.com](https://panelbear.com/) — 超快且私密的免费套餐包括每月 5,000 次无限制网站的综合浏览量
    * [Hitsteps.com](https://hitsteps.com/) — 1 个网站每月 2,000 次综合浏览量
    * [amplitude.com](https://amplitude.com/) — 每月 100 万个事件，最多 2 个应用程序
-   * [goatcounter.com](https://www.goatcounter.com/)  — GoatCounter 是一个开源网络分析平台，可作为托管服务（非商业用途免费）或自托管应用程序提供. 它旨在提供易于使用且有意义的隐私友好型网络分析，作为 Google Analytics 或 Matomo 的替代方案. 免费套餐适用于非商业用途，包括无限数量的网站、6 个月的数据保留期和 10 万次/月的综合浏览量.
+   * [goatcounter.com](https://www.goatcounter.com/)  — GoatCounter 是一个开源网络分析平台，可作为托管服务（非商业用途免费）或自托管应用程序提供. 它旨在提供易于使用且有意义的隐私友好型网络分析，作为 Google Analytics 或 Matomo 的替代方案. 免费套餐用于非商业用途，包括无限数量的网站、6 个月的数据保留期和 10 万次/月的综合浏览量.
    * [Google Analytics](https://analytics.google.com/) - 谷歌分析
    * [expensify.com](https://www.expensify.com/) — 费用申报、免费的个人申报审批工作流程
    * [getinsights.io](https://getinsights.io) - 以隐私为中心的无 cookie 分析，每月最多可免费进行 5k 事件.
@@ -1165,13 +1166,13 @@
    * [metrica.yandex.com](https://metrica.yandex.com/) — 无限制的免费分析
    * [mixpanel.com](https://mixpanel.com/) — 每月跟踪 100,000 名用户、无限数据历史记录和席位、美国或欧盟数据驻留
    * [Moesif](https://www.moesif.com)  — REST 和 GraphQL 的 API 分析.  （免费多达 500,000 个 API 调用/月）
-   * [Molasses](https://www.molasses.app)  - 强大的功能标志和 A/B 测试. 释放最多 3 个环境，每个环境具有 5 个功能标志.
+   * [Molasses](https://www.molasses.app)  - 强大的功能标志和 A/B 测试. 最多释放 3 个环境，每个环境具有 5 个功能标志.
    * [optimizely.com](https://www.optimizely.com) — A/B 测试解决方案、免费入门计划、1 个网站、1 个 iOS 和 1 个 Android 应用
    * [Microsoft PowerBI](https://powerbi.com)  — 微软的商业洞察与分析. 免费计划提供 100 万用户许可证的有限使用.
    * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — 无限制的免费分析
    * [sematext.com](https://sematext.com/cloud/) — 每月最多 5 万次操作、1 天数据保留、无限制的仪表板、用户等免费.
    * [Similar Web](https://similarweb.com)  — 网络和移动应用分析. 免费计划为每个指标提供 5 个结果、1 个月的移动应用数据和 3 个月的网站数据.
-   * [StatCounter](https://statcounter.com/)  — 网站浏览者分析. 免费计划对 500 名最近访问者进行分析.
+   * [StatCounter](https://statcounter.com/)  — 网站浏览者分析. 免费计划分析 500 个最近的访问者.
    * [Tableau Developer Program](https://www.tableau.com/developer)  — 创新、创造并让 Tableau 完美地为您的组织工作. 免费的开发人员计划为 Tableau Online 提供个人开发沙盒许可证. 该版本是最新的预发布版本，因此数据开发人员可以测试这个卓越平台的每一个功能.
    * [usabilityhub.com](https://usabilityhub.com/)  — 在真人身上测试设计和模型，跟踪访客. 一位用户免费，无限次测试
    * [woopra.com](https://www.woopra.com/) — 用于 50 万次操作、90 天数据保留、30 多个一键集成的免费用户分析平台.
@@ -1240,7 +1241,7 @@
 
 
 ## Commenting Platforms
-  * [Staticman](https://staticman.net/) - Staticman 是一个 Node.js 应用程序，它接收用户生成的内容并使用拉取请求将其作为数据文件上传到 GitHub 和/或 GitLab 存储库.
+  * [Staticman](https://staticman.net/) - Staticman 是一个 Node.js 应用程序，它接收用户生成的内容，并使用拉取请求将其作为数据文件上传到 GitHub 和/或 GitLab 存储库.
   * [GraphComment](https://graphcomment.com/) - GraphComment 是一个评论平台，可帮助您从网站的受众中建立一个活跃的社区.
   * [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、维基页面等！
   * [Disqus](https://disqus.com/) - Disqus 是一个网络社区平台，被整个网络上的数十万个站点所使用.

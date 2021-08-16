@@ -32,13 +32,13 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，概括了住房密度、土地使用的多样性、邻里设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查街区组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内开放的建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 这些数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收集了包括当前和历史的大气、海洋、陆地和洪水数据在内的精选数据集，以及全球模拟和同化办公室 (GMAO) 运营的天气分析数据和更新四次的预测日常.
-- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人员伤害和损失估计的统计数据.
+- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - United States storm data provided by the National Weather Service (NWS) and contain statistics on personal injuries and damage estimates.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
-- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和每半小时的气象数据和三种最常见的太阳辐射测量值的集合：全球水平、直接法向和漫射水平辐照度.
+- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和半小时气象数据和太阳辐射的三种最常见测量值的完整集合：全球水平、直接法向和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布. 
 
@@ -60,7 +60,7 @@
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
 - [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - 国家土地覆盖数据库是与多分辨率土地特征联盟 (MRLC) 合作生成的，MRLC 是联邦机构的合作伙伴，共同为美国所有 50 个州和波多黎各生产当前的、全国一致的土地覆盖产品. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园访问和质量进行了综合评估. 
@@ -76,6 +76,11 @@
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
 - [HealthData.gov](https://healthdata.gov/) - 该网站致力于让企业家、研究人员和政策制定者更容易获得美国的高价值健康数据，以期为所有人带来更好的健康结果.  
+
+### Historic Preservation
+
+- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家历史名胜名录是国家值得保护的历史名胜的官方名单.
+- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产地是联合国教科文组织世界遗产委员会维护的遗产名录中的一个地点，被称为“世界遗产名录”，“它认为具有突出的普遍价值”.
 
 ### OpenStreetMap
 
@@ -100,7 +105,7 @@
 - [CTPP](https://ctpp.transportation.org/)  - CTPP 计划获取美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别是从家到工作的 FLOWS 和小地理区域的基于工作场所的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - HPMS 是一个国家级公路信息系统，包括有关国家公路的范围、状况、性能、使用和运行特征的数据.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家交通运营商处收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/),[GitHub](https://github.com/transitland).
-- [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - Data within the National Transportation Noise Map represent potential noise levels across the nation for an average annual day for the specified year. 
+- [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表了全国范围内特定年份平均每年日的潜在噪声水平. 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据存储库. 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)  - 即用型全球街道网络模型和 GIS 格式的计算指标. 附加信息：[Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - 全球所有快速交通走廊的集合，包括快速公交、轻轨和地铁，由交通与发展政策研究所出版. 
@@ -166,7 +171,7 @@
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
 ## Planning Coding Resources
-这是 Python、R 或其他开源库或编程工具的精选列表，可用于城市规划应用程序. 
+This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
 
 ---
 
@@ -178,7 +183,7 @@ Python 库和相关资源.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
-- [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
+- [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 中检索、建模、分析和可视化街道网络和其他空间数据.
@@ -237,7 +242,7 @@ R 包和相关资源.
 - [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
-- [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您的街区街道.
+- [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您附近的街道.
 - [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索影响，并使用由此产生的可视化来传达建议.  Apache 获得许可，可使用 OpenStreetMap 在任何地方运行，并可在网络上运行或作为离线下载使用.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于 Web 的平台，专为规划人员和建模人员设计，可使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
@@ -247,6 +252,7 @@ R 包和相关资源.
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
 - [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新工具，可对大部分观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
+- [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，主要目的是促进中小型社区以数据为依据的适应规划过程，几乎没有专门的资源来规划气候变化影响. 
 
 ## Educational and Informational Resources
 规划相关文献、信息聚合器或类似资源的集合.
@@ -266,8 +272,8 @@ R 包和相关资源.
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题和为决策者提供信息方面享有盛誉.
-- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业人员解决问题和通知决策者方面享有盛誉.
+- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表了 APA 在关键规划问题上的官方立场，并用工具来宣传为所有人创造伟大社区的政策.
 
 ### General Planning Information and News
