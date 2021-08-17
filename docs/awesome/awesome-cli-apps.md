@@ -31,7 +31,7 @@
 ### Music
 
 - [cmus](https://github.com/cmus/cmus) - 小巧、快速且功能强大的控制台音乐播放器.
-- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 即时音乐下载器.
+- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - 通过 CLI 控制 iTunes.
 - [pianobar](https://6xq.net/pianobar/) - 潘多拉客户端.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端中收听 SomaFM.
@@ -141,7 +141,7 @@
 - [SAWS](https://github.com/donnemartin/saws) - 增压 AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 功能齐全的 S3 客户端.
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程经理.
-- [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
+- [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
@@ -194,8 +194,8 @@
 - [ipt](https://github.com/drselump14/ipt) - 关键跟踪器客户端.
 - [g3l](https://github.com/svtek/g3l) - 世界上最简单的 git cli！
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
-- [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
-- [googler](https://github.com/jarun/googler) - Google from the terminal.
+- [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
+- [googler](https://github.com/jarun/googler) - 从终端谷歌.
 - [papis](http://github.com/alejandrogallo/papis) - 可扩展的文档和书目管理器.
 
 ### Time Tracking
@@ -225,6 +225,7 @@
 - [moeda](https://github.com/thompsonemerson/moeda) - 外汇汇率和货币兑换.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 转换货币汇率.
 - [cointop](https://github.com/miguelmota/cointop) - 跟踪加密货币.
+- [ticker](https://github.com/achannarasappa/ticker) - 股票行情.
 
 ### Presentations
 
@@ -255,6 +256,7 @@
 - [gopass](https://github.com/gopasspw/gopass) - 功能齐全的密码管理器.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩列表.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git 集成备份工具.
+- [ots](https://github.com/sniptt-official/ots) - 通过一次性 URL 与他人分享秘密.
 
 ### macOS
 

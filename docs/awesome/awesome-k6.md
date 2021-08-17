@@ -32,6 +32,7 @@
 - [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) - 如何使用 Postman 集合对您的 API 进行负载测试.
 - [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - Back Market 如何通过基于 k6 的负载测试为黑色星期五做好准备.
 - [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - 如何使用xk6-sql扩展直接测试SQL数据库. 
+- [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - 向 TestRail 报告 k6 输出. 
 
 ## Videos
 
@@ -42,7 +43,7 @@
 
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - 作为 CircleCI 构建的一部分运行 k6 负载测试.
 - [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - 作为 Jenkins 构建的一部分运行 k6 负载测试.
-- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 运行 k6 负载测试作为 GitHub Actions 构建的一部分.
+- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 作为 GitHub Actions 构建的一部分运行 k6 负载测试.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - 作为 Azure DevOps 管道的一部分运行 k6 负载测试.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - 作为 Bitbucket Pipeline 构建的一部分运行 k6 负载测试.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - 使用 k6 对 websocket 进行性能测试的示例.
@@ -63,7 +64,7 @@
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 用于将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
-- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 用于直接从您的 IDE 运行 k6 的市场扩展.
+- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从您的 IDE 运行 k6 的市场扩展.
 
 
 ## CI

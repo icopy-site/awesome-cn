@@ -66,7 +66,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.1
 
-- [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue 是一款受迷宫启发的本地多人策略游戏.
+- [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
 
 #### Godot 3.0
 
@@ -147,6 +147,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [2D Destructible Objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - 一个脚本，它接受一个精灵，把它分成块并使它们爆炸（Godot 3.x）.
 - [AgonesSDK](https://github.com/AndreMicheletti/godot-agones-sdk) - 插件添加 [Agones](https://github.com/googleforgames/agones) Godot (Godot 3.x) 的 SDK 功能.
 - [Anima](https://github.com/ceceppa/anima) - 与 Tween (Godot 3.x) 相比，以更少的代码运行顺序和并行动画.
+- [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - 用于从 Aseprite 导入动画作为 SpriteFrames (Godot 3.x) 的插件.
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 使用许多着色器参数模拟 CRT 显示器的 Godot 着色器（Godot 3.x）.
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 一个简单的 Godot 着色器，可以模拟 CRT 显示器（Godot 2.x、3.x）.
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
@@ -276,7 +277,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - 更好的 ENet 模块，适用于 Godot 的高性能多人游戏.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
-- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - 在 Godot 中使用原生对话框.
 - [RawPacker](https://github.com/empyreanx/rawpacker) - RawArray 的简单二进制打包/解包.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) 动画支持模块.
 - [WaterSplash 2D node](https://github.com/laverneth/water)

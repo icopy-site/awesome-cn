@@ -42,10 +42,10 @@
 
 - [JMeter Tutorial](https://artoftesting.com/jmeter-tutorial) - 通过 ArtOfTesting.
 - [Load Testing your Applications with Apache JMeter](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) - Keld H. Hansen.
-- [Load Testing with JMeter](https://lincolnloop.com/blog/search/?q=jmeter) - 布兰登康克尔.
+- [Load Testing with JMeter](https://lincolnloop.com/blog/search/?q=jmeter) - 布兰登·康克尔 (Brandon Konkle).
 - [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - By Dejan Lukan.
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - 通过教程点.
-- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - 丹尼尔·古铁雷斯·迪兹（Daniel Gutierrez Diez）
+- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - 丹尼尔·古铁雷斯·迪兹 (Daniel Gutierrez Diez).
 - [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle) - 由数据卡达米亚.
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - 通过 DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - Guru99.
@@ -70,7 +70,7 @@
 - [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - 用于构建 JMeter 测试计划的基于 Ruby 的 DSL.
 - [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) - 以 VCS 和程序员友好的方式运行 JMeter 性能测试的简单 API.
 - [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) - Groovy-JMeter 项目是用于编写 JMeter 测试计划的简单 DSL.
-- [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
+- [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - JMeter 的简单包装器，用于使用 Java 编写和执行 JMeter 测试.
 
 ### Packages
 
@@ -81,6 +81,7 @@
 - [Taurus](https://gettaurus.org/) - 用于持续测试的自动化友好框架.
 - [Performance testing framework](https://github.com/serputko/performance-testing-framework) - 使用 Apache JMeter 进行后端负载测试和使用 sitespeed.io + pagestest 私有实例进行前端负载测试的框架.
 - [JMeter Load Testing Center](https://github.com/innogames/ltc) - 使用 JMeter 运行、监控和分析负载测试结果的在线 Web 应用程序/仪表板.
+- [MeterSphere](https://github.com/metersphere/metersphere/blob/master/README-EN.md) - 一站式开源企业级持续测试平台，兼容JMeter:cn:等开源标准. 
 
 ### Conversion
 
@@ -359,7 +360,7 @@
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - 关于 Apache JMeter 和 Web 应用程序性能测试的博客.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert 博客.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole 博客.
-- [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - João Farias.
+- [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - 若昂·法里亚斯 (João Farias).
 
 ### Forums
 
@@ -376,7 +377,7 @@
 - [@ApacheJMeter](https://twitter.com/apachejmeter) - Apache JMeter 负载测试工具的官方 Twitter 帐户.
 - [@jmeter_plugins](https://twitter.com/jmeter_plugins) - JMeter 负载测试工具的自定义插件项目的 Twitter 帐户.
 - [@BlazeMeter](https://twitter.com/BlazeMeter) - 基于 JMeter 的 DevOps 性能工程平台 Blazemeter 的官方 Twitter 帐户.
-- [@masterjmeter](https://twitter.com/masterjmeter) - 官方账号 [Master Apache JMeter from Load Testing to DevOps](#books) 书.
+- [@masterjmeter](https://twitter.com/masterjmeter) - Official account of the [Master Apache JMeter from Load Testing to DevOps](#books) 书.
 - [@ubikloadpack](https://twitter.com/ubikloadpack) - 推特账号 [Ubik Load Pack](#plugins)，用于视频流和复杂协议负载测试的自定义 JMeter 插件.
 
 ### Q&A
