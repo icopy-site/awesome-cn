@@ -201,7 +201,7 @@
 
 * [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - 最初开发了许多 Roslyn 诊断分析器，以帮助充实静态分析 API 的设计和实现.
 * [NDepend](https://www.ndepend.com) - is a Visual Studio and VS Team Services extension that estimates your .NET code quality and Technical-Debt, that lets create code rules with C# LINQ syntax, visualize code structure and focus on changes and evolution. **[$]**
-* [App.Metrics](https://github.com/AppMetrics/AppMetrics)  - App Metrics 是一个开源的跨平台 .NET 库，用于记录和报告应用程序中的指标并报告其健康状况. 见 [docs](https://www.app-metrics.io/) 对我来说细节.
+* [App.Metrics](https://github.com/AppMetrics/AppMetrics)  - App Metrics 是一个开源的跨平台 .NET 库，用于记录和报告应用程序中的指标并报告其运行状况. 见 [docs](https://www.app-metrics.io/) 对我来说细节.
 * [CodeMaid](http://www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 * [StyleCop](https://github.com/StyleCop) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - 可扩展的基于规则的工具，用于查找 .NET 应用程序和库中的问题
@@ -258,6 +258,7 @@
 * [BouncyCastle](https://bouncycastle.org/) - 与 .Net System.Security.Cryptography 一起，CLR 上加密算法的参考实现.
 * [HashLib](https://archive.codeplex.com/?p=hashlib) - HashLib 是您见过的几乎所有哈希算法的集合，它支持几乎所有内容并且非常易于使用
 * [libsodium-net](https://github.com/adamcaudill/libsodium-net) - .NET 的 libsodium - 一个安全的加密库
+* [NaCl.Core](https://github.com/daviddesmet/NaCl.Core) - 用于 .NET 的仅托管加密库，提供现代加密原语.
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 * [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno)  - .NET 加密库. 专业审核.
@@ -590,7 +591,7 @@
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的严肃日志库. 将最好的传统和结构化诊断日志记录在一个易于使用的包中.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - 用于堆栈交换网络的错误处理程序
-* [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging)  - 扩展 System.Diagnostics.Tracing 命名空间（EventSource 类）的内置功能，以登录到多个接收器，包括 Azure 表、数据库、文件（JSON、XML、文本）. 支持通过 ETW 和 Rx 进行进程内和进程外日志记录，用于实时过滤/聚合事件.
+* [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging)  - 扩展 System.Diagnostics.Tracing 命名空间（EventSource 类）的内置功能以登录到多个接收器，包括 Azure 表、数据库、文件（JSON、XML、文本）. 支持通过 ETW 和 Rx 进行进程内和进程外日志记录，用于实时过滤/聚合事件.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) - 流畅的日志 API，可用于在整个应用程序中记录消息.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - 无异常的 .NET 客户端
 * [Loupe](https://onloupe.com)  - 集中的 .NET 日志记录和监控.  **[专有]** **[免费套餐]**
@@ -603,7 +604,7 @@
 * [Accord.NET](http://accord-framework.net/) - 机器学习框架结合音频和图像处理库（计算机视觉、计算机试听、信号处理和统计）.
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - 先进的图像处理和计算机视觉算法作为流畅的扩展.
 * [AForge.NET](http://www.aforgenet.com/) - 计算机视觉和人工智能（图像处理、神经网络、遗传算法、机器学习、机器人）领域的开发人员和研究人员的框架.
-* [Catalyst](https://github.com/curiosity-ai/catalyst) 受 spaCy 启发的跨平台自然语言处理 (NLP) 库，具有预训练模型、对训练词和文档嵌入的开箱即用支持以及灵活的实体识别模型. 的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+* [Catalyst](https://github.com/curiosity-ai/catalyst) 受 spaCy 启发的跨平台自然语言处理 (NLP) 库，具有预训练模型、对训练词和文档嵌入的开箱即用支持以及灵活的实体识别模型. 部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 * [Deedle](https://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  - 用于 .NET Core 和 .NET Framework 的多平台遗传算法库. 该库有几种 GA 运算符的实现，例如：选择、交叉、变异、重新插入和终止.
@@ -624,7 +625,7 @@
 
 ## Mail
 
-* [FluentEmail](https://github.com/lukencode/FluentEmail) - A fluent wrapper for System.Net.Mail with Razor templating support.
+* [FluentEmail](https://github.com/lukencode/FluentEmail) - System.Net.Mail 的流畅包装器，支持 Razor 模板.
 * [MailKit](https://github.com/jstedfast/MailKit)  - 完整的跨平台邮件堆栈，包括 IMAP、POP3、SMTP、身份验证等. 建立在 MimeKit 之上.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - 一个跨平台的 .NET MIME 创建和解析器库，支持 S/MIME、PGP、TNEF 和 Unix mbox 假脱机.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
@@ -709,7 +710,7 @@
 
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小而强大的框架，设计用于跨所有 XAML 平台构建应用程序. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
-* [Catel](https://www.catelproject.com/)  - Catel 是一个应用程序开发平台，专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
+* [Catel](https://www.catelproject.com/)  - Catel 是一个专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）的应用程序开发平台.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
 * [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现“INotifyPropertyChanged”或声明“DependencyProperty”. 它将控件直接连接到 CLR 属性. 这使它非常适合 Model/View/ViewModel 模式.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 以应用程序为中心的 Windows 8.1 MVVM 框架，在构建时考虑了依赖项注入，包括一整套 Visual Studio MVVM 模板.
@@ -757,7 +758,7 @@
 * [Entity Framework Core](https://github.com/dotnet/efcore) - 对象关系映射器，使 .NET 开发人员能够使用特定于域的对象处理关系数据
 * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - 当您的 SQL 查询违反 SqlServer、MySql、PostgreSQL 或 SQLite 中的数据库约束时，对 Entity Framework Core 使用类型化异常
 * [Dapper](https://github.com/StackExchange/Dapper) - .NET 的简单对象映射器 [StackExchange](https://stackexchange.github.io/)
-* [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - 通过为您的 POCO 添加基本 CRUD 操作（获取、插入、更新、删除）来补充 Dapper 的小型库
+* [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) - 最快的 Dapper 微 ORM 扩展
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 * [NHibernate](https://github.com/nhibernate) - NHibernate 对象关系映射器
@@ -782,8 +783,8 @@
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - .NET 包管理器
-* [BaGet](https://github.com/loic-sharma/BaGet/) - 跨平台、轻量级的 NuGet 和 Symbol 服务器
-* [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
+* [BaGet](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
+* [Cloudsmith](https://cloudsmith.com/nuget-feed/)  - 完全托管的包管理 SaaS，支持 NuGet、Npm、Docker 等.  **[公共/OSS免费]** **[$]**
 * [MyGet](https://www.myget.org/)  - NuGet、NPM、Bower 和 VSIX 的托管包存储库. 还提供 CI 即服务.  **[$]**
 * [Paket](https://github.com/fsprojects/Paket)  - .NET 的包依赖管理器，支持 NuGet 包和 GitHub 存储库.  https://fsprojects.github.io/Paket/
 * [Sleet](https://github.com/emgarten/sleet/) - NuGet v3 静态提要生成器，支持 AWS S3 和 Azure 存储
@@ -980,7 +981,7 @@
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用程序.  **[免费][专有]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 * [Netling](https://github.com/hallatore/Netling)  - 负载测试器客户端，用于轻松进行 Web 测试. 它在使用很少的 CPU 或内存时非常快.
-* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一个开源（基于 .NET）测试电子邮件查看器，它在本地运行，内置 SMTP 服务器，旨在接收和通知测试电子邮件消息.
+* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一个开源（基于 .NET）的测试电子邮件查看器，它在本地运行，内置 SMTP 服务器，旨在接收和通知测试电子邮件消息.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理 Visual Studio 的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行的操作、错误/延迟的随机生成和实验性 GraphQL 支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) -`PowerShell` 选项卡完成 [dotnet CLI](https://github.com/dotnet/cli)
@@ -1009,7 +1010,7 @@
 * [Web Essentials](https://github.com/madskristensen/WebEssentials2019) - Web Essentials 为 Visual Studio 扩展了许多 Web 开发人员多年来一直缺少的新功能
 * [VsVIM](https://github.com/VsVim/VsVim) - Visual Studio 中的 VIM
 * [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet 是包括 .NET 在内的 Microsoft 开发平台的包管理器
-* [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，使任何 Web 开发人员的生活变得更加轻松
+* [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，使任何 Web 开发人员的生活更加轻松
 * [Resharper](https://www.jetbrains.com/resharper/) - Visual Studio 的开发人员生产力工具 **[$]**
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [CodeContracts](https://github.com/Microsoft/CodeContracts) - 用于 .NET 的 CodeContracts 工具的源代码
