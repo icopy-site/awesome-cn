@@ -64,7 +64,7 @@
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 基于小部件和 WebGL 在 Jupyter 中为 Python 进行 3D 绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - 以 2D 和 3D 形式可视化图像的交互式小部件.
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) - 用于构建 2D 和 3D 专用交互式图表的基础设施.
-- [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 展示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter 笔记本中的视频或 GIF.
+- [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 显示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter 笔记本中的视频或 GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Jupyter 笔记本中 Google 地图的交互式可视化库.
 - [lux](https://github.com/lux-org/lux) - 每当在笔记本中打印数据框时，都会推荐一组可视化效果.
 - [mpld3](http://mpld3.github.io) - 结合 Matplotlib 和 D3js 进行交互式数据可视化.
@@ -100,7 +100,7 @@
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks 作为带有嵌入 Markdown 文本的纯 Python 代码.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython 幻灯片.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - 将独立的 reStructuredText 文件转换为 Jupyter 笔记本文件.
-- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件呈现实时 Jupyter Notebooks，允许基于 Jupyter Notebooks 进行仪表板.
+- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件呈现实时 Jupyter Notebooks，允许基于 Jupyter Notebooks 的仪表板.
 
 ## Version Control
 
@@ -132,6 +132,7 @@
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - JupyterLab 的边车输出小部件.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - JupyterLab 的 SQL GUI.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - 显示系统指标的扩展.
+- [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI 自动完成扩展.
 - [templates](https://github.com/timkpaine/jupyterlab_templates) - 支持 Jupyter Notebook 模板.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - Jupyterlab 的漂亮 Darcula 主题.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) - 为笔记本提供目录的扩展.

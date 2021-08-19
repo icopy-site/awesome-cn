@@ -209,7 +209,7 @@
 ### Note Taking and Lists
 
 - [idea](https://github.com/IonicaBizau/idea) - 一种轻量级工具，可快速轻松地将想法保存在安全的地方.
-- [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 印象笔记客户端.
+- [geeknote](https://github.com/jeffkowalski/geeknote) - 印象笔记客户端.
 - [Taskwarrior](http://taskwarrior.org) - 管理您的待办事项列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 一个快速的笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 输入和存储您的想法.
@@ -385,7 +385,7 @@
 ### Deleting, Copying, and Renaming
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 将文件和目录移动到垃圾箱.
-- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
+- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾桶.
 - [del-cli](https://github.com/sindresorhus/del-cli) - 删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 复制文件.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - 快速重命名文件.
@@ -461,7 +461,7 @@
 - [git-standup](https://github.com/kamranahmedse/git-standup) - 回想你在最后一个工作日做了什么.
 - [git-secret](https://github.com/sobolevn/git-secret) - 将您的私人数据存储在 git 存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - 用于从命令行创建合并请求的 gitlab cli.
-- [git-extras](https://github.com/tj/git-extras) - 小 git 附加功能，如 git-ignore、git-setup、git-changelog、git-release、git-effort 等.
+- [git-extras](https://github.com/tj/git-extras) - 小 git 附加功能，如 git-ignore、git-setup、git-changelog、git-release、git-effort 等等.
 - [gita](https://github.com/nosarthur/gita) - 并排管理多个 git 存储库以保持理智.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 以交互方式生成 README.md 文件.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - 确保语义提交消息.
@@ -524,7 +524,7 @@
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用 Levenshtein 距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) - 直接从命令行进行快速数学运算.
-- [medium-cli](https://github.com/djadmin/medium-cli) - 读 [medium.com](https://medium.com/) 终端中的故事，也提供头条新闻.
+- [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端中的故事，也提供头条新闻.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的 Web 快捷方式文件打开 URL.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - 从网络快捷方式文件中获取 URL.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号：我“爱”独角兽 =&gt; 我“爱”独角兽.

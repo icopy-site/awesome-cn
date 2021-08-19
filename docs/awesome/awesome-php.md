@@ -2,12 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
 
-令人惊叹的 PHP 库、资源和闪亮事物的精选列表.
+A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ## Contributing and Collaborating
-请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
+请看 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
 
-    - [PHP Magazines](#php-magazines)    
 
 ### Composer Repositories
 *作曲家存储库.*
@@ -24,20 +23,21 @@
 * [Composer](https://getcomposer.org/) - 包和依赖项管理器.
 * [Melody](https://melody.sensiolabs.org/) - 一种构建一个文件 Composer 脚本的工具.
 * [Phive](https://phar.io/) - PHAR 经理.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - PHP 扩展安装程序.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ### Dependency Management Extras
 *与依赖管理相关的额外内容.*
 
 * [Composed](https://github.com/joshdifabio/composed) - 在运行时解析项目的 Composer 环境的库.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - 用于合并多个 `composer.json` 文件的作曲家插件.
+* [Composer Nomralize](https://github.com/ergebnis/composer-normalize) - 用于规范化 `composer.json` 文件的插件. 
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Composer 应用补丁的插件.
-* [Compoer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - 用于分析 Composer 依赖项并验证包源中未使用未知符号的 CLI 工具.
+* [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - 用于分析 Composer 依赖项并验证包源中未使用未知符号的 CLI 工具.
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - 用于扫描未使用的 Composer 包的 CLI 工具.
 * [Prestissimo](https://github.com/hirak/prestissimo) - 支持并行安装过程的作曲家插件.
 * [Repman](https://repman.io) - 一个私有的 PHP 包存储库管理器和 Packagist 代理.
 * [Satis](https://github.com/composer/satis) - 静态 Composer 存储库生成器.
-* [tooly](https://github.com/tommy-muehle/tooly-composer-script) - 使用 Composer 管理项目中 PHAR 文件的库.
+* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 使用 Composer 管理项目中 PHAR 文件的库.
 * [Toran Proxy](https://toranproxy.com) - 静态 Composer 存储库和代理.
 
 ### Frameworks
@@ -105,7 +105,7 @@
 ### Routers
 *用于处理应用程序路由的库.*
 
-* [Aura.Router](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+* [Aura.Router](https://github.com/auraphp/Aura.Router) - 功能齐全的路由库.
 * [Fast Route](https://github.com/nikic/FastRoute) - 快速路由库.
 * [Klein](https://github.com/klein/klein.php) - 灵活的路由器.
 * [Pux](https://github.com/c9s/Pux) - 另一个快速路由库.
@@ -144,6 +144,7 @@
 ### Scraping
 *用于抓取网站的库.*
 
+* [Chrome PHP](https://github.com/chrome-php/chrome) - 从 PHP 检测无头 Chrome/Chromium 实例. 
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - 超快的 HTML 抓取器和解析器.
 * [Embed](https://github.com/oscarotero/Embed) - 来自任何网络服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网络爬虫.
@@ -156,7 +157,7 @@
 * [PSR-7 Middlewares](https://github.com/oscarotero/psr7-middlewares) - 鼓舞人心的便利中间件集合.
 * [Relay](https://github.com/relayphp/Relay.Relay) - PHP 5.5 PSR-7 中间件调度程序.
 * [Stack](https://github.com/stackphp) - Symfony 的可堆叠中间件库.
-* [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - 建立在 PSR-7 之上的 PHP 中间件.
+* [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - 基于 PSR-7 构建的 PHP 中间件.
 
 ### URL
 *用于解析 URL 的库.*
@@ -290,7 +291,7 @@
 *用于处理和存储密码的库和工具.*
 
 * [GenPhrase](https://github.com/timoh6/GenPhrase) - 用于生成安全随机密码的库.
-* [Password Compat](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
+* [Password Compat](https://github.com/ircmaxell/password_compat) - 新 PHP 5.5 密码函数的兼容性库.
 * [Password Policy](https://github.com/ircmaxell/password-policy) - 用于 PHP 和 JavaScript 的密码策略库.
 * [Password Validator](https://github.com/jeremykendall/password-validator) - 用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) - 用于生成随机密码的 PHP 库.
@@ -359,6 +360,7 @@
 * [Barbushin PHP Console](https://github.com/barbushin/php-console) - 另一个使用 Google Chrome 的网络调试控制台.
 * [Blackfire.io](https://blackfire.io) - 一个低开销的代码分析器.
 * [Kint](https://github.com/kint-php/kint) - 一个调试和分析工具.
+* [Metrics](https://github.com/beberlei/metrics) - 一个简单的指标 API 库.
 * [PCOV](https://github.com/krakjoe/pcov) - 一个自包含的代码覆盖兼容驱动程序.
 * [PHP Console](https://github.com/Seldaek/php-console) - 网络调试控制台.
 * [PHP Debug Bar](http://phpdebugbar.com/) - 一个调试工具栏.
@@ -373,16 +375,17 @@
 * [Z-Ray](https://www.zend.com/products/z-ray) - Zend Server 的调试和配置文件工具.
 
 ### Build Tools
-*项目构建和自动化工具.*
+*Project build and automation tools.*
 
 * [Box](https://github.com/box-project/box) - 用于构建 PHAR 文件的实用程序.
 * [Construct](https://github.com/jonathantorres/construct) - 一个 PHP 项目/微包生成器.
 * [Phing](https://www.phing.info/) - 一个受 Apache Ant 启发的 PHP 项目构建系统.
+* [RMT](https://github.com/liip/RMT) - 用于版本控制和发布软件的库.
 
 ### Task Runners
 *用于自动化和运行任务的库.*
 
-* [Bldr](https://bldr.io/) - 基于 Symfony 组件构建的 PHP 任务运行器.
+* [Bldr](https://bldr.io/) - 一个建立在 Symfony 组件上的 PHP 任务运行器.
 * [Jobby](https://github.com/jobbyphp/jobby) - 无需修改 crontab 的 PHP cron 作业管理器.
 * [Robo](https://github.com/consolidation/Robo) - 具有面向对象配置的 PHP 任务运行器.
 * [Task](https://taskphp.github.io/) - 受 Grunt 和 Gulp 启发的纯 PHP 任务运行程序.
@@ -399,11 +402,12 @@
 * [JShrink](https://github.com/tedious/JShrink) - 一个 JavaScript 压缩器库.
 * [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) - 一个优雅的 Webpack 包装器，用于 80% 的用例.
 * [Symfony Asset](https://github.com/symfony/asset) - 管理 Web 资产的 URL 生成和版本控制.
-* [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
+* [Symfony Encore](https://github.com/symfony/webpack-encore) - 一个简单但功能强大的 API，用于处理和编译围绕 Webpack 构建的资产.
 
 ### Geolocation
 *用于对地址进行地理编码和处理纬度和经度的库.*
 
+* [Country List](https://github.com/umpirsky/country-list) - 具有名称和 ISO 3166-1 代码的所有国家/地区的列表.
 * [GeoCoder](https://geocoder-php.org/) - 地理编码库.
 * [GeoJSON](https://github.com/jmikola/geojson) - GeoJSON 实现.
 * [GeoTools](https://github.com/thephpleague/geotools) - 地理相关工具库.
@@ -428,6 +432,7 @@
 * [Event](https://github.com/thephpleague/event) - 一个专注于领域事件的事件库.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - 事件源库.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个网络套接字库.
+* [Pawl](https://github.com/ratchetphp/Pawl) - 异步网络套接字客户端.
 * [Prooph Event Store](https://github.com/prooph/event-store) - 用于持久化事件消息的事件源组件
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang 对 PHP 的 defer 语句.
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - 一个网络套接字库.
@@ -483,6 +488,7 @@
 * [Pomm](https://github.com/chanmix51/Pomm) - PostgreSQL 的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
 * [RedBean](https://redbeanphp.com/index.php) - 轻量级、无配置的 ORM.
+* [Slimdump](https://github.com/webfactory/slimdump) - 一个简单的 MySQL 转储工具.
 * [Spot2](https://github.com/spotorm/spot2) - MySQL 数据文件夹 ORM.
 
 ### Migrations
@@ -508,7 +514,7 @@
 * [Pheanstalk](https://github.com/pheanstalk/pheanstalk) - Beanstalkd 客户端库.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) - 一个纯 PHP AMQP 库.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) - Tarantool 队列的 PHP 绑定.
-* [Thumper](https://github.com/php-amqplib/Thumper) - RabbitMQ 模式库.
+* [Thumper](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) - 支持 RabbitMQ、AMQP、STOMP、Amazon SQS、Redis 和 Doctrine 传输的 PHP 消息队列包. 
 
 ### Search
@@ -547,22 +553,33 @@
 * [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) - 另一个 OAuth2 服务器实现.
 * [OAuth2 Server](https://oauth2.thephpleague.com/) - OAuth2 身份验证服务器、资源服务器和客户端库.
 * [Opauth](https://github.com/opauth/opauth) - 多提供商身份验证框架.
+* [Paseto](https://github.com/paragonie/paseto) - 与平台无关的安全令牌.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) - 另一个 OAuth 库.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - 用于社交网络身份验证的库.
 * [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - 与框架无关的身份验证和授权库.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - Twitter OAuth 库.
 
-### Markup
-*用于处理标记的库.*
+### Markup and CSS
+*用于处理标记和 CSS 格式的库.
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - 快速且可扩展的 Markdown 解析器.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - 高度可扩展的 Markdown 解析器，完全支持 [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - 轻量级标记解析器库.
+* [Essence](https://github.com/essence/essence) - 用于提取网络媒体的库.
+* [Embera](https://github.com/mpratt/Embera) - Oembed 消费者图书馆.
 * [Emoji](https://github.com/heyupdate/Emoji) - 将 unicode 字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将 HTML 转换为 Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - HTML5 解析器和序列化器库.
 * [Parsedown](https://github.com/erusev/parsedown) - 另一个 Markdown 解析器.
+* [PHP CSS Parser](https://github.com/sabberworm/PHP-CSS-Parser) - 用 PHP 编写的 CSS 文件解析器.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - 一个 Markdown 解析器.
+* [Shiki PHP](https://github.com/spatie/shiki-php) - A [Shiki](https://github.com/shikijs/shiki) PHP中的代码高亮包.
+* [VObject](https://github.com/sabre-io/vobject) - 用于解析 VCard 和 iCalendar 对象的库.
+
+### JSON
+*用于处理 JSON 的库.*
+
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - JSON lint 实用程序.
 
 ### Strings
 *用于解析和操作字符串的库.*
@@ -577,7 +594,7 @@
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 用于处理 UTF-8 字符串的便携式库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) - 具有 UTF-8 安全替换方法的字符串操作库.
 * [Slugify](https://github.com/cocur/slugify) - 将字符串转换为 slug 的库.
-* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 用于格式化 SQL 语句的库.
+* [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [Stringy](https://github.com/voku/Stringy) - 具有多字节支持的字符串操作库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 用于解析用户代理字符串的库.
 * [URLify](https://github.com/jbroadway/urlify) - Django 的 URLify.js 的 PHP 端口.
@@ -589,10 +606,11 @@
 * [Brick\Math](https://github.com/brick/math) - 提供大量支持的库：`BigInteger`、`BigDecimal` 和`BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - 在二进制和公制系统中解析、格式化和转换字节单位的库.
 * [DecimalObject](https://github.com/spryker/decimal-object) - 一个值对象，可以轻松、更精确地处理小数/浮点数.
+* [IP](https://github.com/darsyn/ip) - 用于处理 IPv4 和 IPv6 地址的不可变值对象.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - Google 电话号码处理库的 PHP 实现.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - 另一个用于在度量单位之间转换的库.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 用于在度量单位之间转换的库.
-* [MathPHP](https://github.com/markrogoyski/math-php) - PHP 数学库.
+* [MathPHP](https://github.com/markrogoyski/math-php) - PHP 数学库. 
 
 ### Filtering and Validation
 *用于过滤和验证数据的库.*
@@ -602,7 +620,7 @@
 * [CakePHP Validation](https://github.com/cakephp/validation) - 另一个验证库.
 * [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的 PHP 过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 根据 ISO、国际金融、公共管理、GS1、图书行业、电话号码和许多国家邮政编码的标准验证输入的库.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持 YAML、JSON 和 XML 的模式验证库.
 * [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) - 用于处理文件上传和验证的库.
@@ -620,8 +638,8 @@
 * [Restler](https://github.com/Luracast/Restler) - 将 PHP 方法公开为 RESTful Web API 的轻量级框架.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - 从 SOAP WSDL 文件生成 PHP 类的工具.
 
-### Caching
-*用于缓存数据的库.*
+### Caching and Locking
+*用于缓存数据和获取锁的库.*
 
 * [APIx Cache](https://github.com/apix/cache) - 各种缓存后端的瘦 PSR-6 缓存包装器，强调缓存标记和索引.
 * [CacheTool](https://github.com/gordalina/cachetool) - 从命令行清除 APC/操作码缓存的工具.
@@ -630,6 +648,7 @@
 * [Metaphore](https://github.com/sobstel/metaphore) - 缓存猛击防御使用信号量来防止狗桩效应.
 * [Stash](https://github.com/tedious/Stash) - 另一个用于缓存的库.
 * [Laminas Cache](https://github.com/laminas/laminas-cache) - 另一个缓存库.
+* [Lock](https://github.com/php-lock/lock) - 提供独占执行的锁库.
 
 ### Data Structure and Storage
 *实现数据结构或存储技术的库.*
@@ -696,45 +715,22 @@
 * [Twilio](https://github.com/twilio/twilio-php) - 官方 Twilio PHP REST API.
 
 ### Extensions
-*帮助构建 PHP 扩展的库.*
+*Libraries to help build PHP extensions.*
 
 * [PHP CPP](https://www.php-cpp.com/) - 用于开发 PHP 扩展的 C++ 库.
 * [Zephir](https://github.com/phalcon/zephir) - 一种介于 PHP 和 C++ 之间的编译语言，用于开发 PHP 扩展.
 
 ### Miscellaneous
-*不属于上述类别的有用库或工具.*
+*不属于上述类别的有用库或实用程序.*
 
 * [Annotations](https://github.com/doctrine/annotations) - 注释库（Doctrine 的一部分）.
 * [BotMan](https://github.com/botman/botman) - 一个与框架无关的 PHP 库，用于构建跨平台聊天机器人.
-* [CakePHP Utility](https://github.com/cakephp/utility) - 实用程序类，例如 Inflector、String、Hash、Security 和 XML.
-* [Chief](https://github.com/adamnicholson/Chief) - 命令总线库.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - 用于优化自动加载的库.
-* [Country List](https://github.com/umpirsky/country-list) - 具有名称和 ISO 3166-1 代码的所有国家/地区的列表.
-* [Embera](https://github.com/mpratt/Embera) - Oembed 消费者图书馆.
-* [Essence](https://github.com/essence/essence) - 用于提取网络媒体的库.
-* [Expose](https://github.com/beyondcode/expose) - 一个开源的 PHP 隧道服务.
-* [Graphviz](https://github.com/alexandresalome/graphviz) - Graphviz 库.
-* [Hprose-PHP](https://github.com/hprose/hprose-php) - 一个非常新颖的 RPC 库，现在支持 25 多种语言.
-* [JSON Lint](https://github.com/Seldaek/jsonlint) - JSON lint 实用程序.
-* [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) - 用于验证 JSONP 回调的库.
-* [Lock](https://github.com/php-lock/lock) - 提供独占执行的锁库.
-* [Metrics](https://github.com/beberlei/metrics) - 一个简单的指标 API 库.
+* [Hprose-PHP](https://github.com/hprose/hprose-php) - 一个跨语言的 RPC.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Google 的 noCAPTCHA (reCAPTCHA) 助手.
-* [Nmap](https://github.com/willdurand/nmap) - 一个 PHP 包装器 [Nmap](https://nmap.org/).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - 分页库.
-* [PHP PassBook](https://github.com/eymengunay/php-passbook) - 适用于 iOS PassBook 的 PHP 库.
-* [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP 机器学习库.
-* [PHPStack](http://dunkels.com/adam/phpstack/) - 用 PHP 编写的 TCP/IP 堆栈概念证明.
-* [print_o](https://github.com/koriym/print_o) - 对象图可视化工具.
-* [Procrastinator](https://github.com/lstrojny/Procrastinator) - 用于运行耗时任务的库.
-* [Prooph Service Bus](https://github.com/prooph/service-bus) - 支持 CQRS 和微服务的轻量级消息总线
-* [RMT](https://github.com/liip/RMT) - 用于版本控制和发布软件的库.
-* [sabre/vobject](https://github.com/sabre-io/vobject) - 用于解析 VCard 和 iCalendar 对象的库.
 * [Safe](https://github.com/thecodingmachine/safe) - 所有 PHP 函数，重写为抛出异常而不是返回 false.
-* [Slimdump](https://github.com/webfactory/slimdump) - 一个简单的 MySQL 转储工具.
-* [Spork](https://github.com/kriswallsmith/spork) - 一个进程分叉库.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个允许闭包序列化的库.
-* [Underscore](https://anahkiasen.github.io/underscore-php/) - Underscore JS 库的 PHP 端口.
 
 ## Software
 *用于创建开发环境的软件.*
@@ -750,16 +746,18 @@
 * [PHP OSX](https://php-osx.liip.ch/) - OSX 的 PHP 安装程序.
 
 ### Development Environment
-*用于创建沙盒开发环境的软件和工具.*
+*用于创建和共享开发环境的软件和工具.*
 
 * [Ansible](https://www.ansible.com/) - 一个极其简单的编排框架.
 * [Docker](https://www.docker.com/) - 一个容器化平台.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - 在 Docker 容器中轻松安装 PHP 扩展.
+* [Expose](https://github.com/beyondcode/expose) - 一个开源的 PHP 隧道服务.
+* [Lando](https://lando.dev/) - 一键式开发环境.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - Laravel 的本地开发环境. 
 * [Laradock](http://laradock.io/) - 基于 Docker 的完整 PHP 开发环境.
 * [Puppet](https://puppet.com/) - 服务器自动化框架和应用程序.
+* [Takeout](https://github.com/tighten/takeout) - 基于 Docker 的仅开发依赖管理器.
 * [Vagrant](https://www.vagrantup.com/) - 一个可移植的开发环境实用程序.
-* [Vessel](https://vessel.shippingdocker.com/) - Laravel 的简单 Docker 开发环境.
 
 ### Virtual Machines
 *替代 PHP 虚拟机.*
@@ -790,7 +788,7 @@
 * [Lychee](https://github.com/electerious/Lychee) - 易于使用且外观精美的照片管理系统.
 
 ### Infrastructure
-*Infrastructure for providing PHP applications and services.*
+*用于提供 PHP 应用程序和服务的基础设施.*
 
 * [appserver.io](https://github.com/appserver-io/appserver) - 用 PHP 编写的用于 PHP 的多线程应用程序服务器.
 * [php-pm](https://github.com/php-pm/php-pm) - PHP 应用程序的进程管理器、增压器和负载平衡器.
@@ -808,7 +806,7 @@
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - PHP 新闻的月度摘要.
 * [PHP Best Practices](https://phpbestpractices.org/) - PHP 最佳实践指南.
 * [PHP FIG](https://www.php-fig.org/) - PHP 框架互操作性小组.
-* [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
+* [PHP Package Development Standards](http://php-pds.com) - PHP 的包开发标准.
 * [PHP School](https://www.phpschool.io/) - PHP 的开源学习.
 * [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - PHP 安全指南.
 * [PHP The Right Way](https://phptherightway.com/) - PHP 最佳实践快速参考指南.
@@ -861,27 +859,10 @@
 
 * [PHP Weekly](http://www.phpweekly.com/) - 关于 PHP 的每周通讯.
 
-### PHP Magazines
-*很棒的 PHP 相关杂志.*
-
-* [php[architect]](https://www.phparch.com/magazine/) - 致力于 PHP 的月刊.
-
 ### PHP Reading
 *PHP 相关阅读材料.*
 
-* [Composer Primer](https://daylerees.com/composer-primer/) - 作曲家入门.
-* [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) - 一篇关于 Composer 稳定性标志的文章.
-* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - 一篇关于 Composer 版本控制的文章.
-* [Create Your Own PHP Framework](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) - Fabien Potencier 撰写的关于如何制作自己的 PHP 框架的系列文章.
-* [Don't Worry About BREACH](https://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) - 一篇关于 BREACH hack 和 CSRF 令牌的文章.
-* [On PHP 5.3, Lambda Functions and Closures](http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html) - 一篇关于 lambda 函数和闭包的文章.
-* [PHP Is Much Better Than You Think](http://fabien.potencier.org/php-is-much-better-than-you-think.html) - 一篇关于 PHP 语言和生态系统的文章.
-* [PHP Package Checklist](https://phppackagechecklist.com/) - 成功开发 PHP 包的清单.
-* [PHP Sucks! But I Like It!](https://blog.ircmaxell.com/2012/04/php-sucks-but-i-like-it.html) - 一篇关于 PHP 优缺点的文章.
-* [Preventing CSRF Attacks](https://blog.ircmaxell.com/2013/02/preventing-csrf-attacks.html) - 一篇关于防止 CSRF 攻击的文章.
-* [Seven Ways to Screw Up BCrypt](https://blog.ircmaxell.com/2012/12/seven-ways-to-screw-up-bcrypt.html) - 一篇关于正确 BCrypt 实现的文章.
-* [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) - 构建安全 PHP 软件的指南.
-* [Use Env](https://seancoates.com/blogs/use-env) - 一篇关于使用 unix 环境助手的文章.
+* [php[architect]](https://www.phparch.com/magazine/) - 致力于 PHP 的月刊.
 
 ### PHP Internals Reading
 *阅读与 PHP 内部或性能相关的材料.*
@@ -889,17 +870,4 @@
 * [PHP RFCs](https://wiki.php.net/rfc) - PHP RFC 之家（征求意见）.
 * [Externals](https://externals.io/) - PHP 内部讨论. 
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - 观看最新的 PHP [RFCs](https://wiki.php.net/rfc).
-* [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) - 一篇关于单引号和双引号字符串性能的文章.
-* [How Big Are PHP Arrays (And Values) Really?](https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) - 一篇关于数组内部结构的文章.
-* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - 关于 foreach 的详细 StackOverflow 答案.
-* [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) - 一篇关于字符串内部结构的文章.
-* [PHP Evaluation Order](https://gist.github.com/nikic/6699370) - 一篇关于 PHP 中求值顺序的文章.
 * [PHP Internals Book](http://www.phpinternalsbook.com) - 由三位核心开发人员编写的关于 PHP 内部结构的在线书籍.
-* [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) - 一篇关于打印和回声性能的文章.
-* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) - 文章三元表现.
-* [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) - 一篇关于操作码的文章.
-* [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) - 一篇关于 foreach 内部结构的文章.
-* [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) - 一篇关于对象和数组内部结构的文章.
-* [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) - 一篇关于内部 ZVAL 的文章.
-* 收集垃圾： [1](https://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://www.php.net/manual/en/features.gc.performance-considerations.php) - 关于 PHP 垃圾收集内部结构的系列.
-* 开发人员的 PHP 源代码： [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) - 关于 PHP 源代码的系列.
