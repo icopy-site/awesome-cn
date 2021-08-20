@@ -22,7 +22,7 @@
 
 本书是对使用 Go 语言进行计算机编程的简短介绍.  Go 由 Google 设计，是一种通用编程语言，具有现代功能、简洁的语法和强大的文档齐全的公共库，使其成为学习作为您的第一门编程语言的理想语言.
 
-这本书是免费 [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
+这本书是免费 [read online](http://www.golang-book.com/) 或 [pdf f或m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -126,7 +126,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 
 <a href="http://www.apress.com/us/book/9781484211892"><img src="https://images.springer.com/sgw/books/medium/9781484211892.jpg" width="120px"/></a>
 
-Solve your Go problems using a problem-solution approach. Each recipe is a self-contained answer to a practical programming problem in Go. Go Recipes contains recipes that deal with the fundamentals of Go, allowing you to build simple, reliable, and efficient software. Other topics include working with data using modern NoSQL databases such as MongoDB and RethinkDB. The book provides in-depth guidance for building highly scalable backend APIs in Go for your mobile client applications and web client applications.
+使用问题解决方法解决您的 Go 问题. 每个秘籍都是对 Go 中实际编程问题的独立答案.  Go Recipes 包含处理 Go 基础知识的食谱，可让您构建简单、可靠且高效的软件. 其他主题包括使用现代 NoSQL 数据库（如 MongoDB 和 RethinkDB）处理数据. 本书为在 Go 中为您的移动客户端应用程序和 Web 客户端应用程序构建高度可扩展的后端 API 提供了深入的指导.
 
 ### [Learning Go programming](https://www.packtpub.com/application-development/learning-go-programming)
 
@@ -188,10 +188,10 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 <a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.jpg" width="120px"/></a>
 
 *Go with the Domain* 是一本关于构建以惯用方式解决复杂问题的 Go 应用程序的书.
-它具有领域驱动设计、清洁架构、CQRS（命令查询职责分离）和其他模式等技术.
+It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
 该书基于 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
-章节通过对项目的重构来展示常见的反模式以及如何避免它们.
+Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
@@ -286,7 +286,7 @@ code.
 
 攻击性主题包括暴力破解、端口扫描、数据包注入、网络抓取、社会工程和后期开发技术.
 
-**Web开发**
+**网页开发**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
@@ -365,6 +365,12 @@ code.
 <img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
  Let&#39;s Go 逐步教您如何使用 Go 创建快速、安全和可维护的 Web 应用程序. 它指导您完成真实世界应用程序从头到尾的构建——涵盖诸如如何构建代码、管理依赖项、对用户进行身份验证和授权、保护您的服务器以及测试您的应用程序等主题.
+
+### [Let's Go Further](https://lets-go-further.alexedwards.net/)
+
+<img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
+
+让我们走得更远帮助您扩展和扩展您的 Go 知识 - 带您超越基础知识并指导您完成开发、管理和部署 API 和 Web 应用程序的高级模式. 在本书结束时，您将拥有创建强大且专业的 API 所需的所有知识，这些 API 充当 SPA 和本机移动应用程序的后端，或充当独立服务.
 
 ### [Go Brain Teasers](https://gum.co/Qkmou)
 

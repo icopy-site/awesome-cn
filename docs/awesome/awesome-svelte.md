@@ -50,7 +50,7 @@
 
 - [Getting Started with Svelte 3](https://www.digitalocean.com/community/tutorials/getting-started-with-svelte-3) - 数字海洋.
 - [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
-- [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs.
+- [Develop a complete application with Svelte and TypeScript](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN 网络文档.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) - 苗条的学校.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - 网络忍者 (YouTube).
 - [Sapper Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gdr4Qhx83gBBcID-KMe-PQ) - 网络忍者 (YouTube).
@@ -132,7 +132,7 @@ _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 _在日历中显示不可编辑的事件._
 
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - FullCalendar 周围的组件包装器.
-- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 轻巧的日期选择器，具有简洁的动画和独特的用户体验.
+- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
 
 ### Maps
 
@@ -153,7 +153,7 @@ _开关/开/关切换/复选框._
 
 ## Scaffold
 
-_模板/样板/种子/入门套件/堆栈集成/ Yeoman生成器._
+_模板/样板/种子/入门套件/堆栈集成/自耕农生成器._
 
 #### Client
 
@@ -193,9 +193,13 @@ _SSR 框架._
 - [svelte-portal](https://github.com/romkor/svelte-portal) - 用于在父组件的 DOM 之外渲染的组件.
 - [svelte-teleport](https://github.com/nasso/svelte-teleport) - 跨 DOM 传送元素的组件.
 
+### Fonts
+
+- [svelte-web-fonts/google](https://github.com/svelte-web-fonts/google) - 通过谷歌字体 API 轻松加载字体的小组件，包括自动完成.
+
 ### Internationalisation
 
-- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化
+- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本地化
 
 ## Routers
 
@@ -229,11 +233,11 @@ _Lint 并格式化您的代码._
 
 ### Docs
 
-_创建文档._
+_Create documentation._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 一种为 Svelte 组件编写文档的快速方法.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - 为您的组件生成 JSON 文档.
-- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关您的 Svelte 文件的元数据.
+- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关 Svelte 文件的元数据.
 
 ### Test
 
@@ -267,4 +271,4 @@ _文本编辑器插件._
 
 #### JetBrains
 
-- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 对 JetBrains 的语法突出显示和支持.
+- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 语法突出显示和对 JetBrains 的支持.

@@ -30,7 +30,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Composed](https://github.com/joshdifabio/composed) - 在运行时解析项目的 Composer 环境的库.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - 用于合并多个 `composer.json` 文件的作曲家插件.
-* [Composer Nomralize](https://github.com/ergebnis/composer-normalize) - 用于规范化 `composer.json` 文件的插件. 
+* [Composer Normalize](https://github.com/ergebnis/composer-normalize) - 用于规范化 `composer.json` 文件的插件. 
 * [Composer Patches](https://github.com/cweagans/composer-patches) - Composer 应用补丁的插件.
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - 用于分析 Composer 依赖项并验证包源中未使用未知符号的 CLI 工具.
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - 用于扫描未使用的 Composer 包的 CLI 工具.
@@ -157,7 +157,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [PSR-7 Middlewares](https://github.com/oscarotero/psr7-middlewares) - 鼓舞人心的便利中间件集合.
 * [Relay](https://github.com/relayphp/Relay.Relay) - PHP 5.5 PSR-7 中间件调度程序.
 * [Stack](https://github.com/stackphp) - Symfony 的可堆叠中间件库.
-* [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - 基于 PSR-7 构建的 PHP 中间件.
+* [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - 建立在 PSR-7 之上的 PHP 中间件.
 
 ### URL
 *用于解析 URL 的库.*
@@ -385,7 +385,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Task Runners
 *用于自动化和运行任务的库.*
 
-* [Bldr](https://bldr.io/) - 一个建立在 Symfony 组件上的 PHP 任务运行器.
+* [Bldr](https://bldr.io/) - 基于 Symfony 组件构建的 PHP 任务运行器.
 * [Jobby](https://github.com/jobbyphp/jobby) - 无需修改 crontab 的 PHP cron 作业管理器.
 * [Robo](https://github.com/consolidation/Robo) - 具有面向对象配置的 PHP 任务运行器.
 * [Task](https://taskphp.github.io/) - 受 Grunt 和 Gulp 启发的纯 PHP 任务运行程序.

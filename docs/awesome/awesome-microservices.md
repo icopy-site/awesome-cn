@@ -86,7 +86,7 @@
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) :star: - .NET Core 中微服务的精彩培训系列、文章、视频、书籍、课程、示例项目和工具的集合.
 - [Akka.NET](http://getakka.net/) - 用于在 .NET 和 Mono 上构建高并发、分布式和容错事件驱动应用程序的工具包和运行时.
 - [Microdot](https://github.com/gigya/microdot) - 开源 .NET 微服务框架.
-- [Nancy](http://nancyfx.org/) - 轻量级的网络框架.
+- [Nancy](http://nancyfx.org/) - Lightweight web framework.
 - [Orleans](https://dotnet.github.io/orleans/) - 提供一种直接的方法来构建分布式大规模计算应用程序，无需学习和应用复杂的并发或其他扩展模式.
 - [Tye](https://github.com/dotnet/tye)  - Tye 是一种使微服务和分布式应用程序的开发、测试和部署变得更容易的工具.  Project Tye 包括一个本地编排器，使开发微服务更容易，并且能够以最少的配置将微服务部署到 Kubernetes.
 
@@ -238,7 +238,7 @@
 - [FastAPI](https://fastapi.tiangolo.com/) - 现代、快速（高性能）、基于标准 Python 类型提示使用 Python 3.6+ 构建 API 的 Web 框架.
 - [Flask](http://flask.pocoo.org/) - 基于 Werkzeug 和 Jinja 2 的微服务 Python 框架.
 - [Nameko](https://github.com/onefinestay/nameko) - 用于构建微服务的 Python 框架.
-- [Sanic](https://github.com/channelcat/sanic) - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+- [Sanic](https://github.com/channelcat/sanic) - Sanic 是一个类似于 Flask 的 Python 3.5+ 网络服务器，其编写速度很快.
 - [Tornado](http://www.tornadoweb.org/) - Web 框架和异步网络库.
 - [Twisted](https://twistedmatrix.com/trac/) - 事件驱动的网络编程引擎.
 - [Web.py](https://github.com/webpy/webpy/) - 极简主义的 Python 网络框架.
@@ -246,7 +246,7 @@
 
 ### Ruby
 
-- [Grape](https://github.com/ruby-grape/grape) - 用于创建类 REST API 的自以为是的框架
+- [Grape](https://github.com/ruby-grape/grape) - 用于创建类似 REST 的 API 的自以为是的框架
 - [Hanami](https://github.com/hanami) - Ruby 的现代 Web 框架.
 - [Praxis](https://github.com/rightscale/praxis) - 用于设计和实现 API 的框架.
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) - Rails 仅作为 API.
@@ -294,7 +294,7 @@
 - [Neutrino](https://github.com/eBay/Neutrino) - 可扩展的软件负载平衡器.
 - [OpenResty](http://openresty.org/) - 建立在 Nginx 之上的快速 Web 应用程序服务器.
 - [Open Service Mesh](https://openservicemesh.io/) - 轻量级和可扩展的云原生服务网格.
-- [Otoroshi](https://www.otoroshi.io/) - 具有轻量级 API 管理的现代 HTTP 反向代理.
+- [Otoroshi](https://www.otoroshi.io/) - Modern HTTP reverse proxy with lightweight API management.
 - [Skipper](https://github.com/zalando/skipper) - HTTP 路由器可用于将路由与服务逻辑解耦.
 - [Spring Cloud Gateway](https://cloud.spring.io/spring-cloud-gateway/)  - Spring MVC 之上的 API 网关. 旨在提供一种简单而有效的方式来路由到 API.
 - [Tengine](http://tengine.taobao.org/) - 具有一些高级功能的 Nginx 发行版.
@@ -363,7 +363,7 @@
 - [Fluentd](http://www.fluentd.org/) - 用于统一日志层的开源数据收集器.
 - [Graylog](https://www.graylog.org/) - 完全集成的开源日志管理平台.
 - [Kibana](https://www.elastic.co/products/kibana) - 灵活的分析和可视化平台.
- - [LogDNA ![c]](https://logdna.com/) - 集中式日志管理软件. 从任何平台、任何数量即时收集、集中和实时分析日志.
+- [LogDNA ![c]](https://logdna.com/) - Centralized log management software. Instantly collect, centralize, and analyze logs in real-time from any platform, at any volume.
 - [Logstash](https://www.elastic.co/products/logstash) - 用于管理事件和日志的工具.
 - [Suro](https://github.com/Netflix/suro/wiki) - 分布式数据管道，支持移动、聚合、路由、存储数据的服务.
 
@@ -463,7 +463,7 @@
 - [Jackson](https://github.com/FasterXML/jackson) - 用于处理 JSON 数据格式的多用途 Java 库.
 - [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) - Jackson 模块，使用字节码生成来进一步加速数据绑定（序列化、反序列化的吞吐量增加 30-40%）.
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Java 序列化和克隆：快速、高效、自动.
-- [MessagePack](http://msgpack.org/) - 高效的二进制序列化格式.
+- [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 - [Protostuff](https://github.com/protostuff/protostuff) - 具有内置支持向前向后兼容性（架构演变）和验证的序列化库.
 - [SBinary](https://github.com/harrah/sbinary) - 用于描述 Scala 类型的二进制格式的库.
 - [Thrift](http://thrift.apache.org/) - Apache Thrift 软件框架，用于可扩展的跨语言服务开发.
@@ -476,7 +476,7 @@
 - [Aerospike ![c]](http://www.aerospike.com/) - 高性能 NoSQL 数据库，可大规模提供速度.
 - [ArangoDB](https://www.arangodb.com/) - 一个分布式的免费开源数据库，具有用于文档、图形和键值的灵活数据模型.
 - [AtlasDB](https://github.com/palantir/atlasdb) - 键值存储之上的事务层.
-- [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
+- [ClickHouse](https://clickhouse.yandex/) - 面向列的数据库管理系统，允许实时生成分析数据报告.
 - [CockroachDB ![c]](https://www.cockroachlabs.com/) - 模仿 Google Spanner 的云原生 SQL 数据库.
 - [Couchbase](http://www.couchbase.com/) - 专为性能、可扩展性和简化管理而设计的分布式数据库.
 - [Crate ![c]](https://crate.io/) - 具有 NoSQL 优点的可扩展 SQL 数据库.
@@ -552,7 +552,7 @@
 - [RFC7232](https://tools.ietf.org/html/rfc7232) - 有条件的请求.
 - [RFC7233](https://tools.ietf.org/html/rfc7233) - 范围请求.
 - [RFC7234](https://tools.ietf.org/html/rfc7234) - 缓存.
-- [RFC7235](https://tools.ietf.org/html/rfc7235) - 验证.
+- [RFC7235](https://tools.ietf.org/html/rfc7235) - 认证.
 - [RFC7807](https://tools.ietf.org/html/rfc7807) - HTTP API 的问题详细信息.
 
 ### HTTP/2
@@ -605,7 +605,7 @@
 
 - [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript 对象表示法 (JSON).
 - [RFC7049](http://tools.ietf.org/search/rfc7049) - 简洁的二进制对象表示（CBOR）.
-- [BSON](http://bsonspec.org/) - Binary JSON (BSON).
+- [BSON](http://bsonspec.org/) - 二进制 JSON (BSON).
 - [JSON-LD](http://json-ld.org/) - 用于链接数据的 JSON.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - 简单二进制编码 (SBE).
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - 消息包规范.
@@ -631,7 +631,7 @@
 
 - [Commercetools ![c]](https://commercetools.com/) - 无头商务平台.
 - [Elasticpath ![c]](https://www.elasticpath.com/) - 电子商务微服务.
-- [Flamingo](https://www.flamingo.me/) - Framework to build flexible and modern e-commerce applications.
+- [Flamingo](https://www.flamingo.me/) - 构建灵活和现代电子商务应用程序的框架.
 - [Interact ![c]](https://interact.io/) - 用于快速交付定制解决方案的 CRM 微服务.
 - [预测！[C]] (https://predix.io/) - 工业微服务平台.
 - [Skava ![c]](https://www.skava.com/) - 为您商店的所有功能提供微服务，以及将它们结合在一起的粘合剂.
@@ -640,7 +640,8 @@
 
 ### Articles & Papers
 
-- [A sidecar for your service mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - 简短的服务网格介绍.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)  :star: - 一个更新的、有组织的阅读列表，用于说明可扩展、可靠和高性能的大型系统的模式. 著名工程师的文章和可靠的参考文献中对概念进行了解释. 案例研究取自为数百万到数十亿用户提供服务的经过实战测试的系统.
+- [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - 简短的服务网格介绍.
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - 描述扩展服务的维度的模型.
 - [Benchmark Requirements for Microservices Architecture Research](https://goo.gl/14ElnV) :small_orange_diamond: <sup>PDF</sup> - 可能有助于选择社区拥有的架构基准以支持可重复微服务研究的一组要求.
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - 基于实际经验的实用概述，了解构建微服务所需的知识.
@@ -687,7 +688,7 @@
 
 请阅读 [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) 在提交您的建议之前.
 
-随意地 [open an issue](https://github.com/mf要么nos/awesome-microservices/issues) 要么 [create a pull request](https://github.com/mf要么nos/awesome-microservices/pulls) 与您的补充.
+随意 [open an issue](https://github.com/mf或nos/awesome-microservices/issues) 或 [create a pull request](https://github.com/mf或nos/awesome-microservices/pulls) 与您的补充.
 
 :star2: 谢谢！
 

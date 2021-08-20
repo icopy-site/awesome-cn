@@ -23,7 +23,7 @@
 &gt; 观看 YouTube 用户的视频教程，教您有关技术的知识.
 
 <details>
-	<summary>额外的信息</summary>
+	<summary>额外信息</summary>
 	<sub>查看徽章<a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">.md</a>以了解徽章的含义.</sub>  <sub>YouTubers 的顺序并不意味着质量：下面的所有 YouTubers 都很棒.</sub>  <sub>YouTuber 所在的部分是其主要内容.</sub> <sub>请注意，这<strong>不是</strong>任何类型的促销列表.</sub> <sub>另请检查<a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">讨论</a>选项卡.</sub>
 	</sub>
 </details>
@@ -345,6 +345,13 @@ Featured playlists: `C# Full Course Beginner to Advanced`, `Swift Course`, `Kotl
 Content about: C#, WPF, .NET \
 特色播放列表：“全栈 WPF MVVM”、“WPF 导航”、“WPF 响应式设计”、“WPF 自定义控件”、“设计模式”.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/IK1hbh8eXMeH_Qpn7DFy-nVDe_27MxVb6a8Y5zWrXBdosUkZCYvvk5CvmjkpWU9M-zONaoa2-A=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BinaryBunny)
+
+[**BinaryBunny**](https://www.youtube.com/c/BinaryBunny) \
+Content about: C#, WPF, .NET \
+Featured playlists: `How To Program in C#`, `videos creating C#-based apps`. \
+<br/>
+
 
 ## Web development
 
@@ -477,7 +484,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：JavaScript、JavaScript 框架 \
-精选播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
+特色播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
 
@@ -615,7 +622,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [**Domain of Science**](https://www.youtube.com/c/DomainofScience) \
 内容：数学、量子物理 \
-特色播放列表：“数学视频 - 科学领域”、“扩展的量子物理地图”、“我为 D-Wave 系统制作的视频”.
+精选播放列表：“数学视频 - 科学领域”、“扩展的量子物理地图”、“我为 D-Wave 系统制作的视频”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymfSKeH0q1Kz4GL9ThzSi7l-E0BfKJ1twcudEF=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/nesoacademy)
 
@@ -639,7 +646,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [**FCIH OCW**](https://www.youtube.com/user/FCIHOCW) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：数学、数据科学 \
-特色播放列表：“数据科学、数据可视化播放列表”、“数学和统计播放列表”、“更多相关视频”.
+精选播放列表：“数据科学、数据可视化播放列表”、“数学和统计播放列表”、“更多相关视频”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyJPFeubx3SFVgLowUy98YiI-PNrUyabxdLJso7=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/mitocw)
 
@@ -1223,7 +1230,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 <details>
 	<summary>学分</summary>
 	
-列表样式的灵感来自 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)， 由...制作 [mhxion](https://github.com/mhxion) . 在我看来，这个存储库是我的灵感来源 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在这个文件中使用相同的表格样式也很好看，以及有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
+列表样式的灵感来自 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)，由 [mhxion](https://github.com/mhxion) . 在我看来，这个存储库是我的灵感来源 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在这个文件中使用相同的表格样式也很好看，以及有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
 	
 awesome-youtubers 徽标和相应的徽章图标由 [José De Freitas](https://github.com/JoseDeFreitas/).
 

@@ -19,6 +19,7 @@
 ### Auth
 
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - 支持 OAuth2 密码流和 JWT 访问和刷新令牌的可插入身份验证.
+- [FastAPI Azure auth](https://github.com/Intility/fastapi-azure-auth) - FastAPI 的 Azure AD 身份验证.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - FastAPI 和云身份验证服务（AWS Cognito、Auth0、Firebase 身份验证）之间的简单集成.
 - [FastAPI Login](https://github.com/MushroomMaula/fastapi_login) - 账户管理和认证（基于 [Flask-Login](https://github.com/maxcountryman/flask-login)).
 - [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT 身份验证（基于 [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended)).
@@ -32,7 +33,7 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - FastAPI 和 [SQLAlchemy](https://www.sqlalchemy.org/).
-- [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - 一种基于 REST API 创建的简单方法 [PeeWee](https://github.com/coleifer/peewee) 楷模.
+- [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - 一种基于 REST API 创建的简单方法 [PeeWee](https://github.com/coleifer/peewee) 模型.
 - [GINO](https://github.com/python-gino/gino) - 构建在 SQLAlchemy 核心之上的轻量级异步 ORM，用于 Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - 一个异步 ORM.
@@ -53,15 +54,15 @@
 
 #### ODMs
 
-- [Beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/)
+- [Beanie](https://github.com/roman-right/beanie) - MongoDB 的异步 Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/)
 and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的数据和架构迁移.
 - [MongoEngine](http://mongoengine.org/) - 用于从 Python 处理 MongoDB 的文档对象映射器（想想 ORM，但用于文档数据库）.
 - [Motor](https://motor.readthedocs.io/) - 用于 MongoDB 的异步 Python 驱动程序.
-- [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM 集成 [Pydantic](https://pydantic-docs.helpmanual.io/). 
+- [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM 集成 [Pydantic](https://pydantic-docs.helpmanual.io/).
 
 #### Other Tools
 
-- [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - 将 SQLAlchemy 模型转换为 [Pydantic](https://pydantic-docs.helpmanual.io/) 楷模.
+- [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - 将 SQLAlchemy 模型转换为 [Pydantic](https://pydantic-docs.helpmanual.io/) 模型.
 - [FastAPI-CamelCase](https://ahmednafies.github.io/fastapi_camelcase/) - 使用 FastAPI 的 CamelCase JSON 支持 [Pydantic](https://pydantic-docs.helpmanual.io/).
   - [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - 扩展作者随附的博客文章.
 
@@ -85,7 +86,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 - [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 将 Chameleon 模板语言集成到 FastAPI.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 自以为是的实用程序集：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
-- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 将 Jinja 模板语言集成到 FastAPI.
+- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 向 FastAPI 添加 Jinja 模板语言的集成.
 - [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) - FastAPI 的请求速率限制器.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - MQTT 协议的扩展.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI 的分页.
@@ -144,9 +145,9 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
   - [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) - 使用 Prometheus 和 Grafana 进行应用程序指标监控.
   - [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - 关于 FastAPI 与 Kubernetes 原生 FaaS 平台兼容性的现状.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - 通过基于 Web 的 API 部署机器学习模型.
-- [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - 解释了如何使用 OpenTelemetry 和 Datadog/Jaeger 实现应用程序性能监控 (APM).
+- [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI 应用程序和服务结构，提供更易于维护的代码库.
-- [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) - 开始使用完整的 FastAPI Web 应用程序堆栈.
+- [Introducing FARM Stack - FastAPI, React, and MongoDB](https://www.mongodb.com/developer/how-to/FARM-Stack-FastAPI-React-MongoDB/) - 开始使用完整的 FastAPI Web 应用程序堆栈.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - FastAPI 的快速介绍.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Flask 与 FastAPI 的比较.
 - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/) - 了解如何将来自 FastAPI 的数据直接流式传输到实时图表中.
@@ -165,7 +166,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 - [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - 如果您使用 FastAPI 构建基于 Web 的股票筛选器，您将了解 FastAPI 的许多功能，包括 pydantic 模型、依赖项注入、后台任务和 SQLAlchemy 集成.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - 使用 FastAPI 构建 Web 应用程序编程接口（RESTful API）.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - 了解如何使用 FastAPI 进行数字验证.
-- [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  - 2020 年哪个框架最适合 Python？ 哪个使用 async/await 最好？ 哪个最快？ 
+- [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  - 2020 年哪个框架最适合 Python？ 哪个使用 async/await 最好？ 哪个最快？
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) - 使用 FastAPI 构建机器学习 API.
 
 ### Courses
@@ -253,8 +254,10 @@ Compute:
 - [TermPair](https://github.com/cs01/termpair) - 通过端到端加密从浏览器查看和控制终端.
 - [Universities](https://github.com/ycd/universities) - 用于获取全球 +9600 所大学信息的 API 服务.
 
----
+## Sponsors
 
-<br>
+请通过查看我们的赞助商来支持这个开源项目：
 
-&gt; **注意**：本项目由 ** 提供支持[TestDriven.io](https://testdriven.io/) **. 请购买我们的 FastAPI 课程来支持这个开源项目： [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/).
+<a href="https://www.deta.sh/?ref=awesome-fastapi" target="_blank" title="The launchpad for all your (team's) ideas"><img src="https://raw.githubusercontent.com/mjhea0/awesome-fastapi/master/images/deta.svg?sanitize=true"></a>
+
+<a href="https://testdriven.io/courses/tdd-fastapi/?ref=awesome-fastapi" target="_blank" title="Learn to build high-quality web apps with best practices"><img src="https://raw.githubusercontent.com/mjhea0/awesome-fastapi/master/images/testdriven.svg?sanitize=true"></a>
