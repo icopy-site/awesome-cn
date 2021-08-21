@@ -8,7 +8,7 @@
 
 The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来编写数学定义、可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 首先.
 
 
 
@@ -21,11 +21,12 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [CoqEAL](https://github.com/CoqEAL/CoqEAL) - 简化证明中数据表示更改的框架.
 - [FCF](https://github.com/adampetcher/fcf) - 密码学证明框架.
 - [Fiat](https://github.com/mit-plv/fiat) - 大部分是正确构建程序的自动合成.
-- [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - 使用效果和效果处理程序模块化验证程序的框架.
+- [FreeSpec](https://github.com/lthms/FreeSpec) - 使用效果和效果处理程序模块化验证程序的框架.
+- [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - 使用对象逻辑的高阶抽象语法表示进行推理的系统.
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -50,6 +51,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Flocq](http://flocq.gforge.inria.fr) - 浮点计算的形式化.
 - [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) - 无法确定的问题和它们之间的减少库.
 - [Hahn](https://github.com/vafeiadis/hahn) - 列表和二元关系推理库.
+- [Mczify](https://github.com/math-comp/mczify) - 使 Micromega 算术求解器在使用数学组件数字定义时能够工作的库.
 - [Metalib](https://github.com/plclub/metalib) - 使用局部无名变量绑定表示的编程语言元理论库.
 - [Monae](https://github.com/affeldt-aist/monae) - 一元效应和等式推理.
 - [Paco](http://plv.mpi-sws.org/paco/) - 参数化联合归纳库.
@@ -97,7 +99,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
 - [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - 从 Coq 代码生成 LaTeX 或 HTML 文件的标准文档工具.
 - [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) - 从 OCaml 代码生成惯用 Coq 的工具.
-- [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
+- [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - 在 Coq 对象之间构建依赖图的工具.
 - [coq-scripts](https://github.com/JasonGross/coq-scripts) - 处理 Coq 文件的脚本，包括制表证明时间.
 - [coq-tools](https://github.com/JasonGross/coq-tools) - 帮助构建错误的小型复制示例、删除不需要的导入等的脚本.
 - [Cosette](https://github.com/uwdb/Cosette) - 用于推理 SQL 查询等价的自动求解器.
@@ -121,7 +123,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Finmap](https://github.com/math-comp/finmap) - 使用有限映射、集合和多重集合扩展数学组件.
 - [Four Color Theorem](https://github.com/math-comp/fourcolor) - 四色定理的正式证明，图论的一个里程碑式的结果.
 - [Gaia](https://github.com/coq-community/gaia) - 实施布尔巴基的《数学原理》，包括集合论和数论.
-- [GeoCoq](https://github.com/GeoCoq/GeoCoq) - 基于塔斯基公理系统的几何形式化.
+- [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
 - [Goedel](https://github.com/coq-community/goedel) - Gödel-Rosser 不完备定理的构造性证明.
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
 - [Homotopy Type Theory](https://github.com/HoTT/HoTT) - 同伦理论思想的发展.
@@ -183,10 +185,11 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu) - 有关逻辑、函数式编程和编程语言基础的基于 Coq 的系列教科书，旨在让初学者易于使用.
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - 关于使用 Coq 进行实用工程的教科书，它教授高级实用技巧和非常具体的证明风格.
 - [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - 解释如何使用分离逻辑构建程序逻辑的书，附有 Coq 中的形式模型，该模型应用于 Clight 编程语言和其他示例.
-- [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - 同时提供有关程序正确性的形式逻辑推理的一般介绍以及为此目的使用 Coq 的书.
+- [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - 同时提供关于程序正确性的形式逻辑推理的一般介绍以及为此目的使用 Coq 的书.
 - [Programs and Proofs](https://ilyasergey.net/pnp/) - 这本书对 Coq 中的交互式证明进行了简短且实用的介绍，强调了通过来自 SSReflect 证明语言的一小组原语对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - 描述如何使用 Flocq 库在 Coq 中正式指定和验证浮点算法的书籍.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向有数学倾向的用户的书籍，侧重于数学组件库和 SSReflect 证明语言.
+- [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - 本书涵盖使用 Coq 的计算逻辑主题，包括基础、规范案例研究和实际编程.
 
 ### Course Material
 

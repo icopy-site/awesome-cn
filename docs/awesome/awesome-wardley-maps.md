@@ -52,6 +52,10 @@
 - [GCATI](https://gcati.org/community/wardley-mapping-community)  - 全球认可的沃德利测绘培训和认证； 意识、基础、实践者、战略发展研讨会和 Wardley Mapping BattleCamp.
 - [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley，Coursera 项目网络.
 
+## Certifications
+
+- [GCATI](https://gcati.org/certificate/foundation-wardley-mapping)  - Wardley 映射的基础. 对于那些需要了解和理解使用 Wardley Mapping 的策略基础知识以成为从业者或需要与从业者有效合作的人. 使用 Wardley Mapping 的认证基金会候选人具有阅读和理解 Wardley Maps 的能力.
+
 ## Maps in the Wild
 
 博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.

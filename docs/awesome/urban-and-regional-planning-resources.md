@@ -38,9 +38,11 @@
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收集了包括当前和历史的大气、海洋、陆地和洪水数据在内的精选数据集，以及全球模拟和同化办公室 (GMAO) 运营的天气分析数据和更新四次的预测每天.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人员伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
-- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和每半小时的气象数据和三种最常见的太阳辐射测量值的集合：全球水平、直接法向和漫射水平辐照度.
+- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和半小时气象数据和太阳辐射的三种最常见测量值的完整集合：全球水平、直接法向和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
-- [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布. 
+- [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布.
+- [MACA](https://climate.northwestknowledge.net/MACA/) - MACA 方法是一种统计降尺度方法，用于消除全球气候模型输出的偏差. 
+- [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新颖的工具和数据，用于对大部分观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
 
 ### Demographic
 
@@ -55,6 +57,7 @@
 ### Employment
 
 - [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划将这些行政数据、附加行政数据以及来自人口普查和调查的数据结合起来. 根据这些数据，该程序可以在详细的地理和行业级别以及不同的人口群体中创建有关就业、收入和工作流动的统计数据. 附加信息：[On The Map Download Page](https://onthemap.ces.census.gov/).
+- [Bureau of Labor Statistics](https://www.bls.gov/) - 劳工统计局衡量并提供有关美国经济中劳动力市场活动、工作条件、价格变化和生产力的数据，以支持公共和私人决策.
 
 ### Environment and Ecosystem Services
 
@@ -97,7 +100,7 @@
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
 - [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，可识别面临 18 种自然灾害风险最大的社区.
-- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - 该站点在开放的公共领域内提供国家基金会级地理空间数据，可用于支持社区准备、弹性、研究等. 
+- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - 该站点在开放的公共领域内提供国家基金会级地理空间数据，这些数据可用于支持社区准备、弹性、研究等. 
 
 
 ### Transportation
@@ -129,7 +132,7 @@
 
 ### Land Use
 
-- [CoreLogic](https://www.corelogic.com/) - 提供高质量的包裹数据，可以即时访问详细的房产特征、销售记录、估价和当前县评估员文件的数字副本.
+- [CoreLogic](https://www.corelogic.com/) - 提供高质量的包裹数据，可以即时访问详细的财产特征、销售记录、估价和当前县评估员文件的数字副本.
 - [CoStar](https://www.costar.com/) - 服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用人工智能将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑足迹. 
 
@@ -251,9 +254,8 @@ Software and platforms for planners.
 
 ### Environmental and Climate Planning Tools and Platforms
 
-- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
+- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
-- [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新工具，可对大部分观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，主要目的是促进中小型社区以数据为依据的适应规划过程，几乎没有专门的资源来规划气候变化影响. 
 
 ## Educational and Informational Resources

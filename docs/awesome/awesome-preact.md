@@ -35,7 +35,8 @@
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例进行服务器端渲染.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA 专注于原始性能、服务器端渲染、预渲染、redux、express、汇总.
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - 绝对最小的 Preact 入门项目，由 Parcel 提供支持.
-- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - 全功能 Preact Chrome 扩展入门套件
+- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
+- [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ 带有 Preact 的 WebExtension Vite 入门模板.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - Preact 的 URL 路由器.
@@ -69,7 +70,7 @@
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - 委托 DOM 事件.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - 跳过组件的服务器端渲染.
 - [Preact Head](https://github.com/matthewmueller/preact-head)  - 独立的，声明式的 \<Head /\> 对于 Preact.
-- [Preact Side Effect](https://github.com/ooade/preact-side-effect) - 创建其嵌套 prop 更改映射到全局副作用的组件.
+- [Preact Side Effect](https://github.com/ooade/preact-side-effect) - 创建其嵌套道具更改映射到全局副作用的组件.
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact 与 [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) - 实时更新 Preact 的 leveldb 列表组件.
 - [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - 基于为 Preact 制作的 bootstrap 3 的国家选择器.
@@ -123,12 +124,12 @@
 - [**Songsterr**](https://www.songsterr.com)  从 10.0 alpha 开始在生产中使用 Preact X
 - [**BitMidi**](https://bitmidi.com/)  免费 MIDI 文件的 Wayback 机器 _([GitHub Project](https://github.com/feross/bitmidi.com))_
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact 提高了速度.
-- [**ESBench**](http://esbench.com) is built using Preact.
+- [**ESBench**](http://esbench.com) 是使用 Preact 构建的.
 - [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
-- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
+- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine))_ :桃子:
 - [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
 - [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
-- [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：
+- [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/))_ :气球:
 - [**Periodic Weather**](https://use-the-platform.com/periodic-weather/) _([GitHub Project](https://github.com/vaneenige/periodic-weather/))_ :晴天:
 - [**Rugby News Board**](http://nbrugby.com) _[(GitHub Project)](https://github.com/rugby-board/rugby-board-node)_
 - [**Preact Gallery**](https://preact.gallery/) 一个使用 Preact 构建的 8KB 照片库 PWA.
@@ -141,8 +142,9 @@
 - [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
 - [**GHFresh**](https://code2k.github.io/ghfresh/) 监控 GitHub 存储库发布 – 使用 Preact 进行预渲染. 使用 Preact Compat、TypeScript、Material-UI 和 Redux Toolkit 构建.  _([GitHub Project](https://github.com/code2k/ghfresh))_.
 - [**Passwords Fountain**](https://passwords-fountain.com/) - 现代且高性能的密码管理器界面，适用于任何地方 _([Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
-- [**macOS Web**](https://macos-preact.now.sh) - 适用于 Web 的 macOS Big Sur 桌面体验，使用 Preact 和 Vite 构建 _([Github project](https://github.com/PuruVJ/macos-preact))_
+- [**macOS Web**](https://macos-preact.now.sh) - 适用于 Web 的 macOS Big Sur 桌面体验，使用 Preact 和 Vite 构建 _([Github project](https://github.com/PuruVJ/macos-preact))_.
 - [**Cinemate**](https://cinemate.me)  - 使用 Preact 和 TypeScript 构建的电影推荐系统. 用 Rust 编写的后端.
+- [**Windows 11 Web**](https://win11.vercel.app)  - 令人惊叹的网络版 Windows 11 克隆版！  ⚡ _([Github project](https://github.com/PiyushSuthar/Windows-11-Web))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - 用于构建用户界面的声明式、高效且灵活的 JavaScript 库.
