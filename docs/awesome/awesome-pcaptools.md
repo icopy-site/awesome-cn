@@ -17,14 +17,14 @@ Linux 命令<a name="linuxcmds"></a>
 --------------------------------------
 
 
- * **Bwm-ng**：（下一代带宽监视器）是另一个非常简单的实时网络负载监视器，它报告数据传入和传出系统上所有可用网络接口的速度摘要.  [截屏]（）
+ * **Bwm-ng**：（下一代带宽监视器）是另一个非常简单的实时网络负载监视器，它报告数据传入和传出系统上所有可用网络接口的速度摘要.  [截图]()
 
 
- * **Collectl**：以类似于dstat的方式报告系统统计信息，和dstat一样，它收集有关各种不同系统资源的统计信息，如cpu、内存、网络等.这里是一个如何使用它的简单示例报告网络使用情况/带宽.  [截屏]（）
+ * **Collectl**：以类似于dstat的方式报告系统统计信息，和dstat一样，它收集有关各种不同系统资源的统计信息，如cpu、内存、网络等.这里是一个如何使用它的简单示例报告网络使用情况/带宽.  [截图]()
 
  * **Dstat**：是一个多功能工具（用python编写），可以监控不同的系统统计数据并以批处理方式报告它们或将数据记录到csv或类似文件中. 此示例显示如何使用 dstat 报告网络带宽 [屏幕截图]()
 
- * **Ifstat**：以批处理方式报告网络带宽. 输出采用易于使用其他程序或实用程序记录和解析的格式.  [截屏]（）
+ * **Ifstat**：以批处理方式报告网络带宽. 输出采用易于使用其他程序或实用程序记录和解析的格式.  [截图]()
 
 
  * **Iptraf-ng**：是一款交互式多彩的 IP 局域网监视器. 它显示了各个连接和主机之间流动的数据量. 已不复存在的 iptraf 的维护分支. [Screenshot](https://wiki.ipfire.org/addons/iptraf-ng/iptraf-ng_monitor.png)
@@ -40,7 +40,7 @@ Linux 命令<a name="linuxcmds"></a>
 
 
 
- * **Vnstat**：与大多数其他工具略有不同. 它实际上运行一个后台服务/守护进程，并一直记录数据传输的大小. 接下来，它可用于生成网络使用历史报告.  [截屏]（）
+ * **Vnstat**：与大多数其他工具略有不同. 它实际上运行一个后台服务/守护进程，并一直记录数据传输的大小. 接下来，它可用于生成网络使用历史报告.  [截图]()
 
 
 
@@ -51,9 +51,9 @@ Traffic Capture<a name="capture"></a>
 
 * [Ngrep](http://ngrep.sourceforge.net/) : 力求提供 GNU grep 的大部分通用功能，将它们应用到网络层.  ngrep 是一个 pcap-aware 工具，它允许您指定扩展的正则或十六进制表达式以匹配数据包的数据负载. 它目前识别跨以太网、PPP、SLIP、FDDI、令牌环和空接口的 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑.
 
-* [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) : `clj-net-pcap` 是一个用于 Clojure 的数据包捕获库.  clj-net-pcap 使用 jNetPcap 并围绕 jNetPcap 添加便利功能以简化可用性. 一种 [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107) 已在 COMPSACW 2014 范围内发布.
+* [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) : `clj-net-pcap` 是一个用于 Clojure 的数据包捕获库.  clj-net-pcap 使用 jNetPcap 并围绕 jNetPcap 添加便利功能以简化可用性. 一 [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107) 已在 COMPSACW 2014 范围内发布.
 
-* [jNetPcap](http://jnetpcap.com) : jNetPcap 是一个用于 Java 的数据包捕获库，可用于 Linux 和 Windows.  jNetPcap 分别利用 libpcap 和 WinPcap，并采用 Java Native Interface (JNI) 来使用 libpcap/WinPcap 提供的功能.
+* [jNetPcap](https://sourceforge.net/projects/jnetpcap/) : jNetPcap 是一个用于 Java 的数据包捕获库，可用于 Linux 和 Windows.  jNetPcap 分别利用 libpcap 和 WinPcap，并采用 Java Native Interface (JNI) 来使用 libpcap/WinPcap 提供的功能.
 
 * [Arkime](https://arkime.com/) Arkime（前身为 Moloch）是一个大规模、开源、索引的数据包捕获和搜索工具.
 
@@ -76,7 +76,7 @@ Traffic Capture<a name="capture"></a>
 
 * [AIEngine](https://bitbucket.org/camp0/aiengine) : 是下一代交互式/可编程数据包检查引擎，具有无需任何人工干预的学习能力、NIDS 功能、DNS 域分类、网络收集器等.  AIEngine 还帮助网络/安全专业人员识别流量并开发用于 NIDS、防火墙、流量分类器等的签名.
 
-* [CapAnalysis](http://www.capanalysis.net/ca/)  - CapAnalysis 是一个 Web 可视化工具，适用于信息安全专家、系统管理员和需要分析大量捕获的网络流量的每个人. 现场网络演示是 [available](http://pcap.capanalysis.net/) 用于检测.
+* [CapAnalysis](http://www.capanalysis.net/ca/)  - CapAnalysis 是一个 Web 可视化工具，适用于信息安全专家、系统管理员和需要分析大量捕获的网络流量的每个人. 现场网络演示是 [available](http://pcap.capanalysis.net/) 用于测试.
 
 * [CapTipper](https://github.com/omriher/CapTipper): 恶意 HTTP 流量浏览器
 
@@ -129,10 +129,10 @@ Traffic Capture<a name="capture"></a>
 
 * [potiron](https://github.com/CIRCL/potiron)：规范化、索引、丰富和可视化网络捕获.
 
-* [pyshark](http://kiminewt.github.io/pyshark/) ：tshark 的 Python 包装器，允许使用wireshark 解剖器解析 python 数据包.  python 数据包解析模块有很多，这个不同，因为它实际上并不解析任何数据包，它只是使用 tshark（wireshark 命令行实用程序）导出 XML 的能力来使用它的解析.
+* [pyshark](http://kiminewt.github.io/pyshark/) ：tshark 的 Python 包装器，允许使用wireshark 解剖器解析 python 数据包.  python 数据包解析模块有很多，这个不同，因为它实际上不解析任何数据包，它只是使用 tshark（wireshark 命令行实用程序）导出 XML 的能力来使用它的解析.
 
 
-* [Scapy](http://www.secdev.org/projects/scapy/) ：Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码多种协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它还在大多数其他工具无法处理的许多其他特定任务中表现出色，例如发送无效帧、注入您自己的 802.11 帧、结合技术（VLAN 跳跃 + ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）， 等等.
+* [Scapy](http://www.secdev.org/projects/scapy/) ：Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码多种协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它还在大多数其他工具无法处理的许多其他特定任务中表现出色，例如发送无效帧、注入您自己的 802.11 帧、结合技术（VLAN 跳跃 + ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）等.
 
 * [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html)：使 tcpdump 程序的输出更易于阅读和解析.
 
