@@ -18,8 +18,8 @@ platform.
 - [bcc - Bruce's Compiler](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/bcc.html) - Bruce 的 C 编译器是一个简单的 C 编译器，可为小/小内存模型生成 8086 汇编程序.
 - [DJGPP](http://www.delorie.com/djgpp/) - DJ Delorie 为 Intel 80386 提供的完整 32 位 C/C++ 开发环境.用于 Quake.
 - [Open Watcom](http://openwatcom.org/) - 以前用于 16 位和 32 位 DOS 的商业 C/C++ 开发环境和
-  视窗. 目前官方版本是1.9.  GitHub 分支也可用. 用于 Doom I-II、Warcraft I-II、Duke Nukem 3D、Full Throttle、Dark Forces 和 Retro City Rampage.
-  - 这 [documentation](http://openwatcom.org/doc.php) 对于理解使用 1.9 版和 V2 fork 非常有价值.
+  窗户. 目前官方版本是1.9.  GitHub 分支也可用. 用于 Doom I-II、Warcraft I-II、Duke Nukem 3D、Full Throttle、Dark Forces 和 Retro City Rampage.
+  - 该 [documentation](http://openwatcom.org/doc.php) 对于理解使用 1.9 版和 V2 fork 非常有价值.
   - [Arch Wiki page](https://wiki.archlinux.org/index.php/Open_Watcom)
 - [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) - GitHub fork，它得到了积极维护并且是
   移植到 64 位 Windows 和 Linux.
@@ -135,6 +135,7 @@ platform.
 
 - [CGA Graphics - Not as bad as you thought! - by 8-bit Guy](https://www.youtube.com/watch?v=niKblgZupOc)  - 有关 IBM CGA 系统的历史和技术细节. 还介绍了 4 色 RGBI 和 16 色复合模式.
 - [How Oldschool Sound/Music worked - by 8-bit Guy](https://www.youtube.com/watch?v=q_3d1x2VPxk) - 有关 PC 扬声器、NES 和 Commodore 64 中的 FM 合成器、AdLib 和 Sound Blaster 声卡中的 Yamaha OPL 芯片、PCM 样本和 MOD 音乐的视频.
+- [Let's Code - MS DOS - by root42](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) - DOS 编程教程系列，包括 VGA、SoundBlaster 和 VGA Mode X.
 - [LGR - Evolution of PC Audio - As Told by Secret of Monkey Island](https://www.youtube.com/watch?v=a324ykKV-7Y) - 通过 PC 音箱、IBM PCjr/Tandy、AdLib、Game Blaster、Roland LAPC-1/MT-32、Gravis Ultrasound、Roland SCC-1 MIDI、SB16 Waveblaster/AWE32 和 CD 播放《猴岛秘密》前奏主题的比较高质量的数字音频.
 - [Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy](https://www.youtube.com/watch?v=kSKeWH4TY9Y)  - GDC 谈话.  Brian Provinciano 关于将 Retro City Rampage 从 PlayStation 4 移植到 DOS 的演讲. 主题包括优化、使用中断、计时、PC 扬声器声音、操纵杆、内存管理和定点数学.
 
@@ -194,7 +195,7 @@ platform.
   - [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
 - [Heretic](https://github.com/OpenSourcedGames/Heretic) - 在 id Software 的 Doom 引擎上运行的黑暗幻想 FPS.
 - [Hexen: Beyond Heretic](https://github.com/OpenSourcedGames/Hexen) - 异端的间接续集.
-  - 原来 [SourceForge link](https://sourceforge.net/projects/heretic/files/) 异端/妖术.
+  - 原创 [SourceForge link](https://sourceforge.net/projects/heretic/files/) 异端/妖术.
 - [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D)  - id Software 开发的 FPS. 在 Catacomb 3D 和 Wolfeinstein 3D 之前采用光线投射技术的伪 3D 图形. 用 C 和汇编编写.
 - [Quake](https://github.com/id-Software/Quake)  - 由 id Software 开发的 FPS，设置在全 3D 世界中. 用 C 编写.用 DOS 的 DJGPP 编译.
   - [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Fabien Sanglard 的代码分析.

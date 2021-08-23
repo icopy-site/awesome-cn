@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是一个用于构建交互式 Web 内容的开源平台. 它是用 JavaScript、HTML5、CSS3 和 WebGL 编写的.
 >
-&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作_awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
+&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
 >
 &gt; 贡献_非常欢迎_但先看看 [Contributing](#contributing).
 
@@ -66,9 +66,9 @@
 - [Seemore](https://playcanv.as/p/MflWvdTW/) - 与 ARM 合作推广移动 WebGL.
 - [Sponza](https://playcanv.as/p/txPePQvy/) - 运行时光照贴图 Sponza 环境.
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - 来自 PlayCanvas 的首个 PBR 演示.
-- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
+- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - 物理渲染的老虎机.
 
-## Advertising
+## Interactive Experiences
 
 - [Adidas ZX Game](https://zx-game.de) - 品牌节奏动作游戏（德语）.
 - [Ally Racing](https://www.allyracer.com/) - Ally Bank 的复古 NASCAR 赛车广告游戏.
@@ -77,6 +77,7 @@
 - [DOOH Invaders](https://vimeo.com/136313614) - 世界上最大的太空侵略者克隆版在戛纳国际创意节上亮相.
 - [eBay Report](https://www.ebay-report.de/) - 来自 eBay 德国的统计数据和事实.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - 皇家歌剧院 Dumbworld 创造的互动歌剧体验.
+- [Life During COVID-19](https://gallery.familyforeverychild.org/) - 慈善家庭为每个孩子举办的虚拟艺术展.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - 一款流行手机游戏的交互式 3D 广告.
 - [Ride Along 2](https://vimeo.com/152996271) - 使用 WebGL 来宣传好莱坞电影的发行.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - 在伦敦皮卡迪利广场举办橄榄球世界杯.
@@ -110,7 +111,7 @@
 - [TNT Bomb](https://play.famobi.com/tnt-bomb) - 用爆炸性的力量摧毁建筑物和结构.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - 在神奇岛屿上方的双翼飞机上拾取宝石.
 - [Town Star](https://gala.games) - 由 Farmville 2 创意总监打造的在线农场游戏.
-- [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - 巫毒娃娃模拟器.
+- [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
 
 ## IO Games
 
@@ -173,4 +174,4 @@
 
 ## Contributing
 
-请参阅 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 详情.
+请看 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 详情.

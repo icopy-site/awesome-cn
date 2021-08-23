@@ -86,7 +86,7 @@
 * [BetterExplained](https://betterexplained.com/) - 由 Kalid Azad 维护
 * [ILoveMaths](http://ilovemaths.com/) - 适用于 K-12 系统中的 6 至 12 年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
-* [Mathsisfun](https://www.mathsisfun.com) 适合高中生的简单文本轻量级网站
+* [Mathsisfun](https://www.mathsisfun.com) 适合高中学生的简单文本轻量级网站
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（美国西弗吉尼亚州亨廷顿马歇尔大学数学教授）
 
 ## Misc
@@ -192,7 +192,7 @@
 
 * [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html) - S. Burris，HP Sankappanavar
 * [A Course in Commutative Algebra](https://faculty.math.illinois.edu/~r-ash/ComAlg.html) - 罗伯特·阿什
-* [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - 赫伯特 E. 霍克斯、威廉 A. 卢比、弗兰克 C. 托顿 (1910)
+* [First Course in Algebra](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes、William A. Luby、Frank C. Touton (1910)
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes、William A. Luby、Frank C. Touton (1911)
 * [Algebra: An Elementary Text-Book, Part I](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. 水晶 (1904)
 * [Algebra: An Elementary Text-Book, Part II](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. 水晶 (1900)
@@ -222,17 +222,17 @@
 * [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - 詹姆斯·B·卡雷尔
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - 马丁诅咒
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) ——罗伯特·豪利特
-* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - 吉姆·赫弗伦
+* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) ——吉姆·赫弗伦
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - 彼得彼得森
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - 胡安·克洛珀
-* [Linear Algebra](http://joshua.smcvt.edu/linalg.html) - 吉姆·赫弗伦
+* [Linear Algebra](http://joshua.smcvt.edu/linalg.html) ——吉姆·赫弗伦
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - 基思马修斯
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - 罗布·布雷泽
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/) - 大卫·切尼、汤姆·丹顿、安德鲁·沃尔德伦
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, CC Wang
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, CC Wang
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd（斯坦福大学）、Lieven Vandenberghe（加州大学洛杉矶分校）
-* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - 谢尔盖·特雷尔
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - 谢尔盖特雷尔
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström、K. Åström 和 T. Akenine-Möller
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - 丹·玛格丽特和约瑟夫·拉比诺夫
 * [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) ——詹姆斯·希律
@@ -255,7 +255,7 @@
 ## Combinatorics
 
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner（田纳西大学）
-* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔 T. 凯勒、威廉 T. 特罗特
+* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔·T·凯勒、威廉·T·特罗特
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - 彼得·J·卡梅伦
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - 菲利普·弗拉乔莱、罗伯特·塞奇维克
 * [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - 赫伯特威尔夫
@@ -292,7 +292,7 @@
 
 ### Algebraic Geometry
 
-* [A Brief Introduction to Algebraic Geometry](http://www.sci.ccny.cuny.edu/~ksda/PostedPapers/rickksda1107.pdf) - RC丘吉尔
+* [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - RC丘吉尔
 * [Introduction to Algebraic Geometry](http://www.math.lsa.umich.edu/~idolga/631.pdf) - 伊戈尔诉多尔加乔夫
 * [Foundations of Algebraic Geometry](http://math.stanford.edu/~vakil/216blog/FOAGjun1113public.pdf) - 拉维·瓦基尔
 * [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier, Stephen S. Shatz（宾夕法尼亚大学）
@@ -438,7 +438,7 @@
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle（乔治梅森大学）
 * [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins（亚利桑那大学）
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - 人工智能访问
-* [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - 由加州大学洛杉矶分校数字研究与教育研究所 (IDRE) 整理的关于自举法和因子不变性等方法的统计论​​文列表.
+* [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - 加州大学洛杉矶分校数字研究与教育研究所 (IDRE) 策划的统计论文列表，涉及自举法和因子不变性等方法.
 * [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - 针对科学家和工程师的实用统计资源.
 * [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) ——理查德·洛瑞
 * [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
@@ -453,7 +453,7 @@
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - 加雷斯·詹姆斯、丹妮拉·维滕、特雷弗·哈斯蒂、罗伯特·蒂布希拉尼
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - 特雷弗·哈斯蒂、罗伯特·蒂布希拉尼、杰罗姆·弗里德曼
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
-* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - 理查德 S. 萨顿、安德鲁 G. 巴托
+* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
 
 ### Stochastic processes
 
@@ -501,7 +501,7 @@
 
 ## Mathematical Physics
 
-* [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501)  - 射线.  M.鲍文
+* [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501)  - 雷.  M.鲍文
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) - 詹姆斯·尼林
 * [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) - 玛丽萨默维尔
 

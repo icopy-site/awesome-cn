@@ -16,7 +16,7 @@
 
 欢迎大家提交他们的新的 awesome-ipfs 项目，但只有满足我们的要求才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
-自述文件和网站是自动生成的. 为了向这个列表添加一个元素，你需要修改 `/data` 中的文件，然后在发布你的拉取请求之前运行 `make build`. 读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做到这一点.
+自述文件和网站是自动生成的. 为了向这个列表添加一个元素，你需要修改 `/data` 中的文件，然后在发布你的拉取请求之前运行 `make build`. 阅读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做到这一点.
 
 ## Collab-Cluster
 
@@ -35,7 +35,7 @@
 - [Alexandria](http://www.alexandria.io/) - 去中心化的内容发布/货币化平台.
 - [Arbore](http://arbo.re) - 建立在 IPFS 之上的朋友间文件共享应用程序.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica 是一个类似于 Keybase 的 Dapp，用于创建身份并通过已发布的社交媒体和网络证明来证明该身份.
-- [beets](https://github.com/beetbox/beets) - Beets 有一个插件，可以使用 IPFS 轻松共享音乐库
+- [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 - [Blokaly](https://github.com/blokaly) - 基于IPFS的徽章发放、分享和展示平台.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - 在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) - 与 git 类似界面和 FUSE 文件系统的文件同步. [Source](https://github.com/sahib/brig)
@@ -46,7 +46,7 @@
 - [digx](https://www.dgx.io/) - Digix 是一个建立在以太坊和 IPFS 上的资产代币化平台.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify 提供一个实时的、点对点的、永久的讨论平台，供任何人加入和参与.
 - [DreamLink](https://www.dreamlink.cloud/) - 在去中心化网络上轻松快速地共享文件. [Source](https://github.com/opendreamnet/dreamlink.cloud)
-- [DtinyUrl](https://github.com/facert/dtinyurl) - 基于IPFS的去中心化URL缩短服务.
+- [DtinyUrl](https://github.com/facert/dtinyurl) - 基于 IPFS 的去中心化 URL 缩短服务.
 - [dtube](https://d.tube) - 与 steem.it 集成的分布式视频共享，使用 ipfs 进行后端存储.
 - [edChain](https://www.edchain.io/)  - EdChain 是一个全球教育和职业网络. 它使用区块链和分布式网络技术来提供教育内容，即使是那些没有宽带互联网的人也是如此. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - 通过以太坊和 IPFS 买卖文件的网站. [Source](https://github.com/flex-dapps/enzypt)
@@ -70,6 +70,7 @@
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用 windows.ipfs 向您显示您的 IPNS 链接和公钥的二维码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  - IPFS 图像上传器和查看器.  Minerva 是 Apache Drill 的一个存储插件，连接 IPFS 的去中心化存储和 Drill 灵活的查询引擎. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
+- [ipfs-chat](https://github.com/SomajitDey/ipfs-chat)  - 基于终端的加密聊天室. 允许私人消息传递和安全的聊天文件/目录共享. 无服务器/无代理（不需要信令/会合服务器）. 在局域网/互联网上工作（带 NAT 穿越）.
 - [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) - 一个web3论坛.您可以从这个论坛获得新的想法，报告，讨论，尽管您可能在网络限制区域，但所有内容都会由ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
 - [IPFS-FPS](https://ipfs-fps.com/)  - 一个完全分散的第一人称射击游戏. 使用 Unity、Fleek、Unstoppable Domans 和 Pinata 构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - 基于 ipfs 和 Markdown 构建您的 wiki 系统.
@@ -192,13 +193,13 @@
 ## Tools
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) - 解析 ENS 域，这让用户可以访问 .eth 网站，同时提供最大程度的去中心化. [Source](https://github.com/almonit/almonit-plugin)
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - 监控以太坊区块链的当前区块编号，并设置警报（使用浏览器中的 PouchDB 本地存储），以在超过特定区块高度时发出警报. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - 监控以太坊区块链的当前区块编号，并在超过特定区块高度时设置警报（使用浏览器中的 PouchDB 本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - 来自 URL 集成的 IPFS 的 Bubble（无代码平台）插件
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - 捐赠 ipfs 网关来缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - Dillo 网络浏览器的 IPFS 集成.
 - [galacteek](https://galacteek.github.io) - 一个用于分布式网络的基于 Qt5 的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - 通过确保资产是相对的，添加了对将 Gatsby 网站部署到 IPFS 的支持.
-- [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/向 IPFS 推/拉存储库
+- [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/到 IPFS 推/拉存储库
 - [go-orbit-db](https://github.com/berty/go-orbit-db)  - 这是 OrbitDB 的 Golang 端口，旨在与原始 JavaScript 版本完全兼容.  OrbitDB 是一个无服务器、分布式、点对点数据库.
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs 是一个库，它是 Stellar 和 IPFS 之间的桥梁.
 - [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - 移动设备上的 IPFS 和 libp2p，使用 Gomobile
@@ -210,8 +211,8 @@
 - [ipfs-action](https://github.com/aquiladev/ipfs-action) - 用于交付静态网站的 GitHub Action.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - 使用 AES256 加密文件或目录，然后添加到 IPFS
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - 从 URL 而不是文件路径向 IPFS 添加文件
-- [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
-- [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
+- [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome 扩展将 ipfs.io 流量重定向到本地网关
+- [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome 扩展将 ipfs.io 流量重定向到本地网关
 - [ipfs-common](https://github.com/arsyun) - 一些常用工具，1.CID 到人类可读的cid，2.cid 和块名称转换，3.读取leveldb 工具. [Source](https://github.com/arsyun/ipfs-common)
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - 浏览器扩展，可简化对 IPFS 资源的访问.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 零配置 CLI 部署静态网站：cd my-static-website &amp;&amp; npx @agentofuser/ipfs-deploy

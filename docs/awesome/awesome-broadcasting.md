@@ -23,7 +23,7 @@
 
 * [dial-discovery-ios](https://github.com/bbc/dial-discovery-ios) - 用于在 iOS 平台上通过 DIAL 协议发现设备的库.
 * [dvbcss-synckit-ios](https://github.com/bbc/dvbcss-synckit-ios) - 用于与电视帧精确同步的配套屏幕应用程序的 iOS 库.
-* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - 用于测量电视或伴侣同步准确度的系统.
+* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - 一种测量电视或伴侣同步准确度的系统.
 * [pydvbcss](https://github.com/BBC/pydvbcss) - 用于同步媒体播放的 DVB Companion Screens 和 Streams 协议的实现.
 
 ## Connected TVs
@@ -31,6 +31,11 @@
 * [Cross-Platform Authentication](https://ebu.io/project/cpa) - CPA 提供了一个开放标准，用于将任何媒体设备与在线身份相关联.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - 符合 HbbTV 和 W3C 规范的应用程序，可以从 URL 播放媒体.
 * [TAL](http://bbc.github.io/tal/) - 电视应用层 (TAL) 是一个开源库，用于为联网电视设备构建应用程序.
+
+## Control Systems
+
+* [Lawo EmberPlus](https://github.com/Lawo/ember-plus) - Ember Plus - 用于与广播控制系统交互的开放协议.
+* [MIDIMonster](https://github.com/cbdevnet/midimonster) - 用于常见表演控制协议的轻量级适配器工具.
 
 ## Distributed Media Processing
 
@@ -83,7 +88,7 @@
 * [EBU LIST](https://github.com/ebu/pi-list) - 实时 IP 软件工具包，以协助 EBU 成员实施基于 IP 的设施.
 * [Icecast](https://icecast.org/) - 支持 Ogg（Vorbis 和 Theora）、Opus、WebM 和 MP3 的流媒体（音频/视频）服务器.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - 在瑞典成立的一个项目，旨在发布用于专业无线电广播的开源软件.
-* [Kamailio](http://www.kamailio.org/) - 打开 SIP 服务器，通常用于使用 SIP (EBU ACIP) 的 IP 音频贡献.
+* [Kamailio](http://www.kamailio.org/) - 开放的 SIP 服务器，通常用于使用 SIP (EBU ACIP) 的 IP 音频贡献.
 * 见 [NMOS](#nmos) AMWA 网络媒体开放规范和开源实现和工具列表.
 * [OpenOB](https://jamesharrison.github.io/openob/) - 基于 Opus 的无线电贡献链接和演播室发射器链接的开放外部广播项目.
 * [PJSIP](https://www.pjsip.org/) - 实现 SIP、SDP、RTP、STUN、TURN 和 ICE 的开源多媒体库.
@@ -94,7 +99,7 @@
 * [Dash.js](https://github.com/ebu/dash.js) - 通过 Javascript 和兼容浏览器播放 MPEG DASH 的参考客户端实现.
 * [GPAC](https://gpac.wp.imt.fr/home/) - 多媒体播放器、打包器和工具.
 * [IDJC](http://idjc.sourceforge.net/) - 带有两个主要媒体播放器的 GTK+ Shoutcast/Icecast 客户端.
-* [Kodi](https://github.com/xbmc/xbmc) - 用于数字媒体的软件媒体播放器和娱乐中心.
+* [Kodi](https://github.com/xbmc/xbmc) - 数字媒体的软件媒体播放器和娱乐中心.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) - 专注于可访问性的 HTML5 播放器.
 * [MPD](https://www.musicpd.org/) - 用于播放音乐的灵活、强大的服务器端应用程序.
 * [mpg123](https://www.mpg123.de/) - 一个快速的控制台 MPEG 音频播放器和解码器库.
@@ -181,6 +186,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [Easy-NMOS](https://github.com/rhastie/easy-nmos) - 一个入门套件，允许用户以最少的安装步骤启动简单的 NMOS 设置，由三个 Docker 容器组成：NMOS 注册表、虚拟 NMOS 节点和 AMWA NMOS 测试工具.
 * [nmos-cpp](https://github.com/sony/nmos-cpp) - 用 C++ 实现 AMWA 网络媒体开放规范，包括 NMOS 注册表和工具包以及构建 NMOS 节点的示例.
 * [nmos-js](https://github.com/sony/nmos-js) - 一个简单的基于浏览器的 NMOS 客户端/控制器，带有 IS-04 注册表浏览器和 IS-05 连接管理.
+* [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - 带有注册表和控制器的 Docker 容器，IS-04/05/08/07/09，BCP-003-01
 
 ## Radio Production
 
@@ -204,9 +210,9 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 
 ## Subtitling
 
-* [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - 分析视频文件并生成独立字幕文件的工具.
+* [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - 一种分析视频文件并生成独立字幕文件的工具.
 * [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev)  - dash.js fork，带有 HTML/CSS 覆盖中的 EBU-TT-D 字幕. 后来加到 [dash.js](https://github.com/ebu/dash.js).
-* [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - 信息丰富的 EBU-TT-D XML 架构，以支持 EBU Tech 3380 的实施.
+* [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - 信息丰富的 EBU-TT-D XML 模式，以支持 EBU Tech 3380 的实施.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - 用于生成、测试和分发的组件 [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) 字幕.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - GStreamer 管道解析和呈现 EBU-TT-D (TTML) 字幕的方法.
 * [imscJS](https://github.com/sandflow/imscJS) - 用于将 IMSC1 文本和图像配置文件文档呈现为 HTML5 的 JavaScript 库.
@@ -217,7 +223,6 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 
 ## Video Production
 
-* [MIDIMonster](https://github.com/cbdevnet/midimonster) - 用于常见表演控制协议的轻量级适配器工具.
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - 一个 JavaScript 库，用于作为 MOS 设备或 NRCS 进行连接和 MOS 消息传递.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - 用于照明行业的旅行适配器，用于互连 DMX-512、IP 和 USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - DMX 或模拟照明系统（灯头、调光器等）的跨平台控制.
@@ -229,7 +234,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [Owncast](https://github.com/owncast/owncast) - 自托管视频流平台 (https://owncast.online/)
 
 ## Resources
-各种资源，例如书籍、网站和文章，以提高您的技能和知识.
+各种资源，例如书籍、网站和文章，用于提高您的技能和知识.
 
 ## Blogs
 
@@ -244,4 +249,4 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 <!-- This page is available on https://ebu.io/opensource -->
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 详情.
+请看 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 详情.
