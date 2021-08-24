@@ -14,7 +14,7 @@
 
 <img src="http://openmymind.net/assets/go/title.png" width="120px"/>
 
- Little Go Book 是对 Google Go 编程语言的免费介绍. 它面向可能对指针和静态类型的想法不太满意的开发人员. 它比其他小书长，但希望仍然能捕捉到那种小小的感觉.
+The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
 
 ### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
@@ -191,7 +191,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
 该书基于 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
-Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
+章节通过对项目的重构来展示常见的反模式以及如何避免它们.
 
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
@@ -247,7 +247,7 @@ Chapters go through refactoring of the project to show common anti-patterns and 
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
 
-Concurrency can be notoriously difficult to get right, but fortunately, the Go open source programming language makes working with concurrency tractable and even easy. If you’re a developer familiar with Go, this practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems.
+众所周知，并发很难做到正确，但幸运的是，Go 开源编程语言使处理并发变得容易甚至容易. 如果您是一名熟悉 Go 的开发人员，这本实用的书展示了最佳实践和模式，以帮助您将并发性整合到您的系统中.
 
 ### [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
 
@@ -390,14 +390,6 @@ code.
 
 读完这本微控制器书，您将掌握使用 TinyGo 构建真实世界嵌入式项目所需的技能.
 
-### [Mastering Go, 2nd edition](https://www.packtpub.com/programming/mastering-go-second-edition)
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51qLY7bIGAL._SX403_BO1,204,203,200_.jpg" width="120px"/>
-
-本书适用于希望将 Go 知识提升到一个新水平的业余和中级 Go 程序员，以及希望学习 Go 而无需再次学习“for”循环如何工作的其他编程语言的经验丰富的开发人员.
-
-本书提供了相对较小但完整的 Go 程序，用于说明所呈现的概念. 这有两个主要优点：首先，您在尝试学习单一技术时不必查看无休止的代码清单；其次，您可以使用此代码作为创建自己的应用程序和实用程序的起点.
-
 ### [Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
@@ -410,6 +402,11 @@ code.
 
  Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算进入这个迷人的世界，你必须知道 Go 可以如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序.一些.  *使用 GO 构建系统：Gopher 必须知道的一切* 分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供示例和解释，说明可在任何 Go 中使用的最强大的库发展. 拥有 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，本书帮助早期采用者和有经验的开发人员真实地了解用 Go 构建的系统是什么样子.
 
+### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
+
+<img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
+
+这是 Mastering Go 的第 3 版. 这个最新版本中有许多令人兴奋的新主题，包括编写 RESTful 服务、使用 Websocket 协议、使用 GitHub Actions 和 GitLab Actions for Go 项目以及关于泛型的全新章节和许多实用工具的开发. 你可以找到这本书的FAQ [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-faq/) 和 TOC [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-edition-toc/).
 
 Resources
 ====

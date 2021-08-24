@@ -26,7 +26,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -123,7 +123,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Finmap](https://github.com/math-comp/finmap) - 使用有限映射、集合和多重集合扩展数学组件.
 - [Four Color Theorem](https://github.com/math-comp/fourcolor) - 四色定理的正式证明，图论的一个里程碑式的结果.
 - [Gaia](https://github.com/coq-community/gaia) - 实施布尔巴基的《数学原理》，包括集合论和数论.
-- [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+- [GeoCoq](https://github.com/GeoCoq/GeoCoq) - 基于塔斯基公理系统的几何形式化.
 - [Goedel](https://github.com/coq-community/goedel) - Gödel-Rosser 不完备定理的构造性证明.
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
 - [Homotopy Type Theory](https://github.com/HoTT/HoTT) - 同伦理论思想的发展.
@@ -194,7 +194,8 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Course Material
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑来推理 Coq 中的顺序命令式程序.
-- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - 介绍基本逻辑原理、构造类型理论和使用 Coq 证明的交互式定理.
+- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - Introduction to basic logic principles, constructive type theory, and interactive theorem proving with Coq.
+- [Proofs and reliable programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2020/) - 使用 Coq 开发和验证程序的介绍.
 
 ### Tutorials and Hints
 

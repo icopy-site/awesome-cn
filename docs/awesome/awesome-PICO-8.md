@@ -41,7 +41,7 @@
 ## Resources
 
 - [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual)  - pico-8.txt 的占位符转储！  （正确的手册即将推出）.
-- [Cheat Sheet](https://neko250.github.io/pico8-api/) - 经过 [Neko250](https://neko250.github.io) . 基于官方手册，并在适当的地方进行了编辑.
+- [Cheat Sheet](https://neko250.github.io/pico8-api/) - 通过 [Neko250](https://neko250.github.io) . 基于官方手册，并在适当的地方进行了编辑.
 - [PicoZine #1](https://sectordub.itch.io/pico-8-fanzine-1), [#2](https://sectordub.itch.io/pico-8-fanzine-2), [#3](https://sectordub.itch.io/pico-8-fanzine-3) 和 [#4](https://sectordub.itch.io/-pico-8-zine-4) - PICO-8 Zine is a 48-page fanzine made by 和 for PICO-8 users.
 - [Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0) - 本文档旨在帮助精通 Lua 的人了解 Lua 和 PICO-8 的 Lua 之间的局限性和差异.
 - [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/)  - 可打印格式的精简备忘单. 提供德语和英语版本.
@@ -66,10 +66,10 @@
 - [Pico8Utils](https://github.com/josefnpat/pico8utils) - 基于 unix 哲学编译 lua 脚本以处理 .p8 文件.
 - [picotool](https://github.com/dansanderson/picotool) - 用于操作 Pico-8 游戏文件的工具和 Python 库.
 - [p8dl - Carts Downloader - Python](https://github.com/franciscod/p8dl) - 将墨盒下载到正确的文件夹中（查看您的 config.txt）.
-- [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - 从 BBS 下载磁带（单个购物车、整个索引或转储您喜欢的条目）并根据其元数据重命名它们.
+- [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - 从 BBS 下载磁带（单个购物车、整个索引或转储您喜欢的条目）并根据元数据重命名它们.
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - 使您的 HTML 导出页面具有响应性的 Python 脚本.
 - [Color Palette](https://www.romanzolotarev.com/pico-8-color-palette/) - 用于网络的十六进制和 RGB 颜色代码.
-- [PICO-8 font](https://www.lexaloffle.com/bbs/?tid=3760) - 经过 [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
+- [PICO-8 font](https://www.lexaloffle.com/bbs/?tid=3760) - 通过 [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test](https://github.com/jozanza/pico-test) - PICO-8 测试框架.
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) - 一个包含有用常用函数的 Pico-8 库.
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) - 为 pico8 提供 Lua 内置函数.
@@ -128,16 +128,16 @@
 
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - 微型计算机，适用于 HTML 5、Windows、Linux 32/64 位、Android 和 MacOSX
-- [PicoLove](https://github.com/gamax92/picolove) - 在 LÖVE 中重新实现 Pico-8.
+- [PicoLove](https://github.com/picolove/picolove) - 在 LÖVE 中重新实现 Pico-8.
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - 使用 LÖVE 制作的具有 96kb RAM 的开源幻想计算机.
 - [PX8](https://github.com/Gigoteur/PX8) - Rust 中的开源幻想控制台（128x128 像素）（支持 Python/LUA 代码）.
 - [tac08](https://0xcafed00d.itch.io/tac08-rg350) - tac08 是 Pico-8 Fantasy 控制台运行时部分的仿真，运行在 RG350 掌上游戏机上.
 
 ## I Want to Contribute!
 
-伟大的！  ：笑脸：
+太棒了！  ：笑脸：
 
-请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) 第一的.
+请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) 首先.
 
 ## License
 
@@ -145,4 +145,4 @@
 
 在法律允许的范围内， [Felipe Bueno](https://twitter.com/felipebueno) 已放弃本作品的所有版权和相关或邻接权.
 
-See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 想要查询更多的信息.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 了解更多信息.

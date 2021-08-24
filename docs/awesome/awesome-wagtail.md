@@ -23,14 +23,11 @@
 ### Blogging/news
 
 - [Puput](https://puput.readthedocs.org/)  - Puput 是一个强大而简单的 Django 应用程序，用于管理博客. 它使用了不起的 Wagtail CMS 作为内容管理系统.
-- [wagtail_blog](https://github.com/thelabnyc/wagtail_blog) - 在 Wagtail 中实现的类似 WordPress 的博客应用程序.
+- [wagtail_blog](https://gitlab.com/thelabnyc/wagtail_blog) - 在 Wagtail 中实现的类似 WordPress 的博客应用程序.
 - [wagtailnews](https://github.com/takeflight/wagtailnews) - 提供新闻/博客功能的 Wagtail 插件.
 - [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) - Wagtail Django CMS 的博客应用程序.
-- [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - 为您的 Wagtail CMS 项目添加对 RSS 提要、Facebook 即时文章和 Apple 新闻发布者的支持.
-- [CodeRed CMS](https://github.com/coderedc要么p/coderedcms)  - 专业支持的 W要么dPress 替代品，用于构建营销网站. 开箱即用地在 wagtail 管理中创建页面、博客、表单和每个 Bootstrap 4 组件！ [Learn m要么e](https://www.coderedc要么p.com/cms/) 要么 [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
+- [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
 - [Snotra_RSS](https://github.com/olopost/snotra_rss) - Snotra_RSS 是 Wagtail 的 Atom 和 RSS 新闻聚合器应用程序.
-- [Wagtail bootstrap blog](https://github.com/AccordBox/wagtail-bootstrap-blog)  - 一个具有 Bootstrap 主题的 Wagtail 博客，支持使用 `Markdown`、`Latex` 编写. 它还具有评论工作流程，评论表单支持“提及”和“表情符号”. 前端由`Webpack`、`Babel` 和`SCSS` 构建.
-- [Wagtail react blog](https://github.com/AccordBox/wagtail-react-blog)  - 使用 React、Bootstrap4、Storybook 和 Wagtail Rest API 构建的 SPA 博客. 它还支持无头预览.
 
 ### Rich text editor extensions
 
@@ -117,6 +114,7 @@
 - [Wagtail-Lazyimages](https://github.com/ptrck/wagtail-lazyimages) - 一个插件，可生成微小的模糊占位符图像，用于延迟加载 Wagtail 图像 medium.com 样式.
 - [Wagtail Image Import](https://github.com/jacobtoppm/wagtail-image-import) - 用于从 Google Drive 导入图像的插件. 
 - [Wagtail SVG](https://github.com/Aleksi44/wagtailsvg) - 用于在管理员中管理 SVG 文件的 Wagtail 模块.
+- [Wagtail Makeup](https://github.com/kevinhowbrook/wagtail-makeup) - 一个插件，用它替换你的所有图像 [Unsplash](https://unsplash.com/) 图像.
 
 ### Translations
 
@@ -153,7 +151,7 @@
 - [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 - [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - 适用于大量内联的 Wagtail 的 InlinePanel 的直接替代品（可折叠，支持拖放）.
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) - Wagtail 的日历应用程序.
-- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - 使用实际的 URL 配置和 django 视图扩展 Wagtail 页面.
+- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 - [Wagtail Transfer](https://github.com/wagtail/wagtail-transfer) - Wagtail 的官方扩展，允许在 Wagtail 项目的多个实例之间传输内容
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - 在 Wagtail 实例之间导入/导出页面.
 - [Wagtail Import/Export Tool](https://github.com/berkalpyakici/wagtail-import-export-tool) - 重构 [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) . 此工具支持导入/导出在导入/导出页面上使用的图像、文档和片段.
@@ -163,10 +161,13 @@
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) - Mixin 支持在管理面板中进行拖放排序.
 - [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) - 内容旁边的实时页面预览.
 - [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) – 一个 Wagtail 项目，旨在简化为开发人员创建简历.
-- [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
+- [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) - 使用可定制的映射系统将 Google Docs 或 Docx 中的内容导入 StreamFields.
 - [Wagtail Trash](https://github.com/Frojd/wagtail-trash) - 将页面放在垃圾桶中，从那里可以恢复它们而不是被永久删除.
+- [Wagtail PDF View](https://github.com/donhauser/wagtail-pdf) - 使用 Wea​​syprint 或 LaTeX 将 Wagtail 页面和模型渲染为 PDF 文档.
 
 ## Tools
+
+### Templates & Starter Kits
 
 - [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - 使用 Zurb Foundation 6 的 Wagtail CMS 的 Cookiecutter 模板.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) – Wagtail CMS 的超级简单实现.
@@ -174,12 +175,15 @@
 - [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit 是一个 Wagtail 样板，旨在通过 React 渲染的前端提供简单而现代的开发人员工作流程.
 - [Django Cookiecutter Wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail)  – 带有 Wagtail 的 Django Cookiecutter 模板. 基于原始的“Django Cookiecutter”. 特性：Docker 支持使用 `docker-compose` 进行开发和生产（使用 Traefik 和 LetsEncrypt 支持）、可定制的 PostgreSQL 版本、Bootstrap 4、使用 Amazon S3 或 Google Cloud Storage 的媒体存储等等.
 - [wagtail-webpack-dokku](https://github.com/helixsoftco/wagtail-webpack-dokku/) - 带有 Wagtail 的模板，使用 django-webpack-loader 的 Webpack，Bootstrap 5，为 Dokku 做好生产准备.
+- [Wagtail bootstrap blog](https://github.com/AccordBox/wagtail-bootstrap-blog)  - 一个具有 Bootstrap 主题的 Wagtail 博客，支持使用 `Markdown`、`Latex` 编写. 它还具有评论工作流程，评论表单支持“提及”和“表情符号”. 前端由`Webpack`、`Babel` 和`SCSS` 构建.
+- [Wagtail react blog](https://github.com/AccordBox/wagtail-react-blog)  - 使用 React、Bootstrap4、Storybook 和 Wagtail Rest API 构建的 SPA 博客. 它还支持无头预览.
+- [CodeRed CMS](https://github.com/coderedc或p/coderedcms)  - 专业支持的 W或dPress 替代品，用于构建营销网站. 开箱即用地在 wagtail 管理中创建页面、博客、表单和每个 Bootstrap 4 组件！ [Learn m或e](https://www.coderedc或p.com/cms/) 或 [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
 
 ## Resources
 
 ### Getting started
 
-- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)  - 一段时间以来，我几乎只使用 Drupal 作为我的主要选择工具，我被要求使用 Wagtail 进行构建. 经过 [@kiwimind](https://twitter.com/kiwimind).
+- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)  - 一段时间以来，我几乎只使用 Drupal 作为我的主要选择工具，我被要求使用 Wagtail 进行构建. 由 [@kiwimind](https://twitter.com/kiwimind).
 - [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)  - Wagtail 是 Django 生态系统中一个相对较新的 CMS. 然而，它的年轻并不妨碍它具有我们将在本文中发现的许多功能.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - 通过与 Wagtail 和周围社区的广泛合作，我们发现了开发人员在开始使用 Wagtail 交付时遇到的一系列常见陷阱.
 
@@ -211,7 +215,7 @@
 ### Presentations
 
 - [An Introduction to Wagtail](https://www.youtube.com/watch?v=glIIF-kBXf0) 作者 Eloise &quot;Ducky&quot; Macdonald-Meyer - 本次演讲介绍了 Wagtail，这是一种基于 Python Web 框架 Django 构建的内容管理系统.
-- [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 作者：Tom Dyson - Tom 将解释为什么他的机构决定构建一个新的 CMS，分享在运行不断增长的开源项目中学到的一些经验教训，并概述 Wagtail 到版本 2 及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
+- [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 作者：Tom Dyson - Tom 将解释为什么他的机构决定构建一个新的 CMS，分享在运行一个不断增长的开源项目中学到的一些经验教训，并概述 Wagtail 到版本 2 及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) 作者：Josh、Jordi 和 Rich，来自 Springload 开发团队 - Wagtail 的介绍性会议，展示它必须提供的主要功能.
 - [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY) 作者：Kurt Wall – Brad Frost 的原子设计原则正在席卷我们设计网络的方式. 我将解释 Wagtail 是什么，如何将它与原子设计原则结合使用，以及在此过程中可能遇到的一些障碍以及如何提供帮助的建议.
 - [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) 作者：Adam Brenecki – 本次演讲探讨了每个 CMS 的不同方法、优势和劣势，以及它们对您作为开发人员和您的内容编辑人员的意义.
@@ -276,7 +280,7 @@
 - [Everyone can fly a flag – Wagtail Space US 2019](https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6) 通过威尔巴顿. [Slides](https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit).
 - [Architecting for a multi-domain site – Wagtail Space US 2019](https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7) 通过本·比彻. [Slides](https://slides.com/benbeecher/mds/).
 - [Contributions can be more than code – Wagtail Space US 2019](https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8) 通过 Kalob Taulien.
-- [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) by Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/).
+- [Thoughtful Code Review – Wagtail Space US 2019](https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9) 作者：Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/).
 - [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10) 哈里斯·拉皮洛夫. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
 - [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11) 通过汤姆戴森.
 
@@ -348,7 +352,7 @@
 ## Contribute
 
 总是欢迎贡献！
-请阅读 [contribution guidelines](https://github.com/springload/awesome-wagtail/blob/master/.github/CONTRIBUTING.md) 第一的.
+请阅读 [contribution guidelines](https://github.com/springload/awesome-wagtail/blob/master/.github/CONTRIBUTING.md) 首先.
 
 ## License
 
