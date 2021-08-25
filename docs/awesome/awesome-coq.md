@@ -6,9 +6,9 @@
 
 &gt; 精选的 Coq 库、插件、工具和资源的精选列表.
 
-The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来编写数学定义、可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
+The [Coq proof assistant](https://coq.inria.fr) 提供一种形式语言来编写数学定义、可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 首先.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 第一的.
 
 
 
@@ -57,7 +57,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Paco](http://plv.mpi-sws.org/paco/) - 参数化联合归纳库.
 - [Regular Language Representations](https://github.com/coq-community/reglang) - 正则语言的不同定义之间的翻译，包括正则表达式和自动机.
 - [Relation Algebra](https://github.com/damien-pous/relation-algebra) - 以异构二元关系为模型的代数的模块化形式化.
-- [Simple IO](https://github.com/Lysxia/coq-simple-io) - 具有用户可定义原始操作的输入/输出 monad.
+- [Simple IO](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
 - [TLC](https://github.com/charguer/tlc) - Coq 标准库的非建设性替代方案.
 
 ### Package and Build Management
@@ -95,13 +95,20 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 - [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集合.
 - [Autosubst 2](https://github.com/uds-psl/autosubst2) - 生成 Coq 代码的工具，用于处理语法中的绑定器，例如重命名和替换.
-- [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
+- [CFML](https://gitlab.inria.fr/charguer/cfml2) - 用于证明 OCaml 程序在分离逻辑中的属性的工具.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
 - [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - 从 Coq 代码生成 LaTeX 或 HTML 文件的标准文档工具.
 - [CoqOfOCaml](https://github.com/clarus/coq-of-ocaml) - 从 OCaml 代码生成惯用 Coq 的工具.
 - [coq-dpdgraph](https://github.com/Karmaki/coq-dpdgraph) - 在 Coq 对象之间构建依赖图的工具.
 - [coq-scripts](https://github.com/JasonGross/coq-scripts) - 处理 Coq 文件的脚本，包括制表证明时间.
-- [coq-tools](https://github.com/JasonGross/coq-tools) - 帮助构建错误的小型复制示例、删除不需要的导入等的脚本.
+- [coq-tools](https://github.com/JasonGross/coq-tools) - 用于操作 Coq 开发的脚本.
+  - [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - 自动最小化产生错误的源文件，为 Coq 错误创建小的测试用例.
+  - [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - 处理源文件以使依赖项的加载健壮以防止文件名的阴影.
+  - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载，从开发中创建独立的源文件.
+  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
+  - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
+  - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提取许多白话命令和内引理.
+  - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释以加快并行证明.
 - [Cosette](https://github.com/uwdb/Cosette) - 用于推理 SQL 查询等价的自动求解器.
 - [hs-to-coq](https://github.com/plclub/hs-to-coq) - 从 Haskell 代码转换为等效的 Coq 代码.
 - [lngen](https://github.com/plclub/lngen) - 用于生成本地无名 Coq 定义和证明的工具.
@@ -114,7 +121,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Type Theory and Mathematics
 
 - [Analysis](https://github.com/math-comp/analysis) - 与数学组件兼容的经典实分析库.
-- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - 范畴论的无公理形式化.
+- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
 - [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - 逻辑 K、K*、CTL 和 PDL 的稳健性、完整性和可判定性.
 - [CoqPrime](https://github.com/thery/coqprime) - 使用 Pocklington 和 Elliptic Curve 证书来证明素性的库.
 - [CoRN](https://github.com/coq-community/corn) - 建设性实分析和代数库.
@@ -194,7 +201,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Course Material
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑来推理 Coq 中的顺序命令式程序.
-- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - Introduction to basic logic principles, constructive type theory, and interactive theorem proving with Coq.
+- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - 介绍基本逻辑原理、构造类型理论和使用 Coq 证明的交互式定理.
 - [Proofs and reliable programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2020/) - 使用 Coq 开发和验证程序的介绍.
 
 ### Tutorials and Hints

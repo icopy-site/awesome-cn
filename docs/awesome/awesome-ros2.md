@@ -6,7 +6,7 @@
 
 &gt; 精选的机器人操作系统 2.0 版 (ROS 2) 资源和库列表.
 
-机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发人员工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
+机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
 
 
 
@@ -52,6 +52,7 @@
 - [LGSVL](https://www.lgsvlsimulator.com/) - 加速安全自动驾驶汽车开发的仿真软件.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - 这是一个用于 Unity 机器人模拟的工具、教程、资源和文档的中央存储库.
 - [Foxglove Studio](https://github.com/foxglove/studio) - 用于机器人的集成可视化和诊断工具. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
+- [ROS2 For Unity](https://github.com/RobotecAI/ros2-for-unity) - 一个资产包，可实现 Unity3D 模拟和 ROS2 生态系统之间的高性能通信. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Interactivity
 
@@ -66,7 +67,7 @@
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy 将自治算法作为单独的构建块提供，并与 Autoware.Auto 兼容.
 - [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制（`ros2_controllers`）上下文中详细阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制 (`ros2_controllers`) 上下文中详细阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - ros_controllers 的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的 ROS 包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - 包装 ORB_SLAM2 库的 ROS2 节点. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
@@ -115,14 +116,14 @@
 - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - 用于 ROS2 的 Android API. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js 版本的 ROS2.0 客户端. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) - 该项目使 ROS2 能够在使用 RIOT 操作系统的微控制器上运行. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
-- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 集成和路由，它提供了一个完整的工具，可以轻松地将其他技术与 ROS2 集成，并在 WAN/Internet 上启用 ROS2.
+- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
 - [soss](https://github.com/osrf/soss) - System Of Systems Synthesizer 用于通过 ROS2-Integration-Service 将 ROS2 与其他（通信）系统集成.
 
 ### Driver layer
 
 - [Autoware.IO](https://www.autoware.io/) - Autoware.IO 提供异构硬件参考平台，并能够将成员公司的解决方案集成到支持 Autoware.Auto 和 Autoware.AI 软件堆栈的平台上.
 - [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - 带有 xmlrpc 的 ros2 接口包，使用 Sesto API 与 Sesto 服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
-- [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - Unofficial Anki Cozmo node for ROS2. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
+- [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - 用于 ROS2 的非官方 Anki Cozmo 节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 球体驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
 - [flock2](https://github.com/clydemcqueen/flock2) - DJI Tello 无人机的 ROS2 驱动程序. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
 - [ros2_raspicam_node](https://github.com/Misterblue/ros2_raspicam_node) - 用于树莓派相机的 ROS2 节点. ![ros2_raspicam_node](https://img.shields.io/github/stars/Misterblue/ros2_raspicam_node.svg)
@@ -162,6 +163,7 @@
 - [rclc](https://github.com/ros2/rclc) - C 的 ROS 客户端库. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
 - [ros2_rust](https://github.com/ros2-rust/ros2_rust) - ROS2 的 Rust 绑定. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 - [ros2_dotnet](https://github.com/esteve/ros2_dotnet) - ROS2 的 .NET 绑定. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+- [ros2cs](https://github.com/RobotecAI/ros2cs) - an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ### Client libraries common
 
@@ -176,7 +178,7 @@
 - [rosidl_generator_cpp](https://github.com/ros2/rosidl/tree/master/rosidl_generator_cpp) - 用 C++ 生成 ROS 接口. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
 - [rosidl_generator_c](https://github.com/ros2/rosidl/tree/master/rosidl_generator_c) - 在 C 中生成 ROS 接口. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
 - [rosidl](https://github.com/ros2/rosidl) - 提供 ROS IDL (.msg) 定义和代码生成的包. ![rosidl](https://img.shields.io/github/stars/ros2/rosidl.svg)
-- [rosidl_dds](https://github.com/ros2/rosidl_dds) - 为 ROS 接口生成 DDS 接口. ![rosidl_dds](https://img.shields.io/github/stars/ros2/rosidl_dds.svg)
+- [rosidl_dds](https://github.com/ros2/rosidl_dds) - Generate the DDS interfaces for ROS interfaces. ![rosidl_dds](https://img.shields.io/github/stars/ros2/rosidl_dds.svg)
 
 ### RMW (ROS middleware)
 
@@ -314,7 +316,7 @@
 - 发布 ROS 2
 - 参与 ROS 2 开发
 - 计划计划：插件一路向下
-- Leveraging DDS Security in ROS2
+- 利用 ROS2 中的 DDS 安全性
 - Arm DDS 安全库：为 ROS2 添加安全安全性
 - ROS2：为 Jaguar4x4 增压
 - 性能测试 - 通信中间件性能测量工具

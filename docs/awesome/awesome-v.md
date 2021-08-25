@@ -56,7 +56,7 @@
 
 - [HN-top](https://github.com/BafS/hn-top) - 一个简单的命令来列出来自黑客新闻的最新消息.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，将 v 源文件生成为 AST json 文件.
-- [symlinker](https://github.com/serkonda7/symlinker) - 用于管理符号链接的小型 Linux 工具.
+- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译用各种编程语言编写的代码的工具.
 - [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
 - [vspect](https://github.com/zakuro9715/vspect) - 检查 vlang 源文件的工具.
@@ -70,18 +70,17 @@
 
 - [vproto](https://github.com/emily33901/vproto) - V 中的 Protobuf 编译器和运行时.
 - [v-toxml](https://github.com/radare/v-toxml) - V 的 XML 序列化库.
+- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml)  - V-native YAML 阅读器，包括.  YAML 到 JSON 转换器.
 
 ## Libraries
 
 ### Command line interface (CLI) / Terminal / Shell
 
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！ 
-- [lol](https://github.com/0xLeif/lol) - lolcat 的 V 版本（文本/字符彩虹器）.
+- [lol](https://github.com/0xLeif/lol) - lolcat 的 V 版（文本/字符彩虹器）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
 - [vargs](https://github.com/nedpals/vargs)  - 用于从类似 argv 的数组中解析参数的 V 库.  （存档）
-
-
 
 ### Text processing
 
@@ -91,6 +90,7 @@
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - 用 V 编写的 ASCII 机器人生成器.
 - [iconv](https://github.com/fanlia/iconv) - 为 vlang 包装 iconv.
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现 
 
 ### Graphics
 
@@ -131,6 +131,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供原生 V-lang 支持
 
 ### Automation
 

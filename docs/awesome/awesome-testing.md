@@ -26,7 +26,7 @@
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - 每次填写大表格真的很烦人，用虚拟数据加快速度.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - 根据字段类型建议值.
 - [Check All](https://chrispederick.com/work/web-developer/)  - “全选”通常不可用. 为什么不自己带？
-- [Xmind](http://www.xmind.net/) - 用于记录测试的最佳（免费）思维导图工具.
+- [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - 开源测试用例管理系统
 - [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和 DOM 变化比较和回归.
 - [recheck-web](https://github.com/retest/recheck-web) - 具有本地金牌大师的开源更改比较工具、类似 git 的忽略语法和“牢不可破的 selenium”测试.
@@ -36,6 +36,7 @@
 - [Online decision table service](http://decision-table.com/) - 通过使用简单的决策表技术生成案例来实现完整的测试覆盖.
 - [Synth](https://github.com/getsynth/synth) - 开源测试数据生成器.
 - [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标题、重定向 URL、模拟 API 响应、延迟/限制请求等.
+- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一个使用 HTTP 转储作为响应源的 Web 服务器. 此工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - 立即模拟所有类型的色盲！
@@ -87,7 +88,7 @@
 - [Security](https://github.com/sbilly/awesome-security) - 这主要集中在基础设施上，但如果您正在测试一系列系统，这将非常有用.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - 免费软件测试和验证资源列表.
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) -（相对较新的）精选黄瓜和小黄瓜相关资源的精选列表.
-- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - 围绕 Apache JMeter 的精选资源集合.
 - [How They Test](https://github.com/abhivaikar/howtheytest) - 来自科技公司关于他们如何测试他们的软件和建立质量文化的精选公共资源
 
 ## QA and Testing Road Map
