@@ -19,7 +19,7 @@
 
 - [ClimateWorks](https://www.climateworks.org/)  - 一个与慈善家合作应对气候危机的非政府组织. 他们力求确保投资产生最大的影响.
 
-- [Climworks](http://climeworkspioneers.refr.cc/philsturgeon)  - Climeworks Direct Air Capture 技术从空气中捕获二氧化碳，将二氧化碳与地热发电厂使用的水混合，然后将其泵入地下深处. 通过自然过程，二氧化碳与玄武岩发生反应——并在几年内永久且安全地变成石头. 冰岛是世界上为我们的开创性过程提供理想条件的几个地点之一. 每月订阅以抵消一点点足迹，并支持这一早期技术的发展.
+- [Climworks](http://climeworkspioneers.refr.cc/philsturgeon) - Climeworks Direct Air Capture technology captures CO₂ from air, mixes the CO₂ with water used by a geothermal energy plant, then pumps it deep underground. Through natural processes, the CO₂ reacts with the basaltic rock – and turns into stone within a few years, permanently and safely. Iceland is one of several locations around the world that provide ideal conditions for our pioneering process. Subscribe monthly to offset a little bit of your footprint, and support the growth of this early stage technology.
 - [Cool Earth](https://www.coolearth.org/) - 该慈善机构旨在通过减少雨林损失造成的碳排放来应对气候变化.
 - [Ecologi](https://ecologi.com/?r=5d01f2ed12ae7a358b75fdd7)  - 从您的沙发上帮助地球，每月只需不到一瓶便宜的葡萄酒. 看着您自己的森林变得栩栩如生，并以每月 6.50 美元/6 欧元的价格抵消您的整个足迹. 然后让你的朋友、家人、企业，甚至你的狗注册！
 - [Ecosia](https://www.ecosia.org)  - 种树的搜索引擎.  &gt; 50% 的广告收入直接用于植树.
@@ -37,7 +37,7 @@
 - [Patch](https://www.usepatch.com)  - Patch 是负排放的 API. 开发人员可以使用 Patch 的 API，通过各种负排放方法（例如直接空气碳捕获、生物油地质封存、增强风化、重新造林等）使任何交易实现碳中和.
 - [Possible](https://www.wearepossible.org/)  - 将个人和地方行动与更大的系统性变化相结合，我们以一种可以做的态度和乐趣感来面对我们对气候的恐惧. 有可能通过激励人们在 5 个关键领域采取行动来应对气候危机——饮食、旅行、能源、自然和谈话.
 
-- [Project Wren](https://projectwren.com/)  - Project Wren 是一家初创公司，提供基于网络的每月订阅模式来抵消排放. 它们还允许抵消航班.
+- [Project Wren](https://projectwren.com/) - Project Wren are a startup offering a web based, monthly subscription model for offsetting emissions. They also allow for offsetting of flights.
 - [Restons Les Pieds Sur Terre](https://www.facebook.com/restonslespiedssurterre/)  - 在我们迫切需要减少温室气体排放的时候，航空业是增长最快的温室气体排放源. 承诺在 2020 年免费飞行.
 - [The National Grid ESO](https://www.nationalgrideso.com/news/introducing-our-carbon-intensity-app)  - 监控构成您的电力供应的发电类型，看看何时是最干净的用电时间. 查看发电的碳影响水平，您所在地区与英国其他地区的比较情况，并在脱碳记录打破时收到通知.
 - [Trine - Solar Crowd-investing](https://www.trine.com/)  - 投资为新兴市场带来清洁能源的太阳能项目. 当地太阳能合作伙伴将在地面分发和管理太阳能产品. 如果贷款成功，您将获得投资和利息作为回报.
@@ -52,16 +52,16 @@
 - [Arvin  Goods](https://www.arvingoods.com/)  - 通过他们开发的可持续供应链流程生产时尚袜子的品牌. 他们从制造过程中去除了多余的水——留下更多的水供社区饮用！
 - [Bam - Bamboo Clothing](https://bambooclothing.co.uk/)  - Bamboo 服装公司完全致力于超越纯粹的碳排放的可持续性，他们的目标是零化学污染、零垃圾填埋、零砍伐供应商（及其供应商和_他们的_供应商......）和零水浪费. 他们有运动装、休闲装、内衣、生日礼品卡，等等.
 
-- [Boody Eco Wear Essentials](https://boody.co.uk) - Everyday essentials made from hypoallergenic and breathable FSC-certified bamboo viscose yarn, OEKO-TEX 100 certified organic by Ecocert.
+- [Boody Eco Wear Essentials](https://boody.co.uk) - 日常必需品由低过敏性和透气性 FSC 认证竹粘胶纱制成，经 Ecocert 有机认证的 OEKO-TEX 100.
 
-- [Cariuma](https://cariuma.com/) - Old-School sneakers, new school ethics. Cariuma's sneakers are handcrafted with premium natural materials, an obsessive eye for detail, and a conscious mind. They care deeply about our craftsmen, and ensure that they earn fair wages and experience safe working conditions.  Some of their shoes are carbon _negative_, and they are committed to carbon-neutral shipping processes, which they do by purchasing carbon offsets for each shipment.
+- [Cariuma](https://cariuma.com/)  - 老派运动鞋，新学校伦理.  Cariuma 的运动鞋采用优质天然材料手工制作，对细节的执着追求和清醒的头脑. 他们非常关心我们的工匠，并确保他们赚取公平的工资并体验安全的工作条件. 他们的一些鞋子是碳 _negative_，并且他们致力于碳中和运输过程，他们通过为每次运输购买碳抵消来做到这一点.
 - [Dabchy](https://www.dabchy.com/) - 突尼斯二手服装市场.
 - [For Days](https://www.fordays.com/) - Subscription service that provides clothing with a zero-waste approach. When you sign up you purchase a membership and receive an organic cotton shirt - each time you want to purchase another article you send them back any old item to swap them out.
 - [Knowledge Cotton Apparel](https://knowledgecottonapparel.com) - 由经过认证的有机棉、再生 PET、亚麻、羊毛、天丝和再生尼龙制成的服装，通过经过认证的碳中和运输方式以可回收包装发送.
 - [Kushel](https://www.kushel.de)  - 我们的浴袍和毛巾由重新造林的山毛榉木和葡萄牙制造的有机棉制成. 源自 FSC 认证的欧洲重新造林林业业务，无需灌溉. 这种混合物需要的水量减少 90%，二氧化碳排放量减少 44%. 通过为每条毛巾种植 2 棵树，并通过补偿碳排放和蓝水使用，我们是气候和资源积极的纺织品牌，也是德国第一家获得 B 级认证的公司.
 
 - [Linen Fox](https://linenfoxclothes.com) - 小批量可定制的 Oeko-tex 认证亚麻服装，无塑料包装.
-- [Loop A Life - 100% Circular Fashion](https://loopalife.com/)  - 这个屡获殊荣的循环纺织品品牌树立了新标准，服装采用当地回收的原材料，无需任何化学品即可回收利用，不产生废水，在报废时回收自己的产品，研究和开发开发循环产品的新方法. 他们组织当地的分类活动、研讨会、收藏活动，并促进其他时装公司的循环转型. 每件毛衣可节约 500 升水、60mJ 能源、零化学品使用，并至少减少 6 公斤的二氧化碳排放量（与传统制造相比）.
+- [Loop A Life - 100% Circular Fashion](https://loopalife.com/)  - 这个屡获殊荣的循环纺织品品牌树立了新标准，服装采用当地回收原料制成，无需任何化学品即可回收利用，不产生废水，在报废时回收自己的产品，研究和开发循环产品的新方法. 他们组织当地的分类活动、研讨会、收藏活动，并促进其他时装公司的循环转型. 每件毛衣可节约 500 升水、60mJ 能源、零化学品使用，并至少减少 6 公斤的二氧化碳排放量（与传统制造相比）.
 
 - [Lost in Samsara - Bags, Jewelry, and Accessories](https://www.lostinsamsara.co.uk)  - 使用升级回收材料以合乎道德的方式生产的时尚产品. 由水泥袋、轮胎和由升级的子弹壳制成的珠宝制成的袋子.
 
@@ -70,9 +70,9 @@
 - [Mezzoroni](https://mezzoroni.com/)  - Oeko-tex 认证、零残忍可定制的亚麻服装品牌. 所有包装均不含塑料. 
 - [NN07](https://www.nn07.com/) - 使用其 [sustainable material matrix](https://www.nn07.com/made-to-last), No Nationality 设计经久耐用的服装，主要采用再生和非棉天然材料，包括大麻、亚麻、羊毛、羊驼毛和丝绸.
 - [Norm Shoes](https://norm.shoes/)  - 我们的鞋子由 90% 的回收材料制成：回收聚酯（每双 6 个塑料瓶）、回收橡胶和公平贸易橡胶. 一双 Norm 鞋的影响仅为 6.5 千克二氧化碳当量（比行业平均水平低 80%）. 我们与比利时非政府组织 Graine de Vie 合作，为我们销售的每一对在马达加斯加种植两棵树，我们还抵消了我们的排放量.
-- [Patagonia](https://www.patagonia.com/) - 以最可持续的方式生产的运动服装（[footprint](https://www.patagonia.com/our-footprint/)：努力实现碳中和、回收、公平贸易、有机……）
+- [Patagonia](https://www.patagonia.com/) - 以最可持续的方式生产的运动服装（[footprint](https://www.patagonia.com/our-footprint/): working towards carbon neutral, recycled, fair trade, organic, ...)
 - [Pure Waste](https://www.purewaste.org/) - 总部位于赫尔辛基，用废料制作 100% 可回收的服装.
-- [REI Used](https://www.rei.com/used) - CO-OP owned company that sells reused hiking and outdoor gear and clothing with the goal of preventing waste and getting more people into outdoor activities. They offer gift cards in exchange for your used gear too.
+- [REI Used](https://www.rei.com/used)  - CO-OP 拥有的公司，销售重复使用的远足和户外装备和服装，目标是防止浪费并让更多人参与户外活动. 他们也提供礼品卡以换取您用过的装备.
 - [Recover Brands](https://recoverbrands.com/)  - 柔软而结实的 T 恤，每件由 8 个塑料瓶制成. 从一开始就闭环制造.
 - [Runamics Running & Sports Gear](https://www.runamics.com)  - 众筹资金的传统运动装备的环保替代品. 我们将美利奴羊毛与莱赛尔等木质纤维素纤维相结合. 我们使用高度创新的纤维进行实验，例如可生物降解的弹性纤维或“类聚酯”替代品. 我们是气候中立的，始终致力于减少我们的足迹，使用无塑料包装并通过 DHL GoGreen 向全球发货.
 
@@ -101,10 +101,10 @@
 - [Ecocina Rocket Stoves](http://www.stoveteam.org/)  - 燃木炉灶使用的燃料比传统火少约 40-50%，并且排放约 1/3 的二氧化碳. 学习如何建造一个！ 查看他们的研究中心 [Aprovecho](http://aprovecho.org/).
 - [Go Sun](https://www.gosun.co/) - 创新的便携式超高效太阳能炊具，可用于背包旅行、划船、汽车露营等.
 - [Insulated Cooking](https://www.milkwood.net/2015/07/06/thermal-cooking/)  - 发现一种绝妙的方法，不仅可以在准备食物时使用更少的能量，还可以同时提供更美味、更有营养的餐点. 任何需要煮沸、煨、蒸或烤的食谱通常味道会更好—— [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw)  — 与常规炉灶准备相比……您将同时节省热能. 你可以拿起一个锅大小 [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/)，或者干脆把毯子放在冷却器里.
-- [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar)  - 太阳能食物脱水器是一种去除食物中水分以帮助其保存的装置. 你可以 [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) 或者自己做. 食品干燥是一种保存水果、蔬菜和动物蛋白的方法，自古以来就已被采用.
+- [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar) - A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) 或者自己做. 食品干燥是一种保存水果、蔬菜和动物蛋白的方法，自古以来就已被采用.
 - [Sun Oven](https://www.sunoven.com) - 绝缘太阳能烤箱，可以像普通烤箱一样烹饪食物.
 ## Documentaries
-- [Artifishial](https://www.patagonia.com/artifishal.html)  - Artifishal 是一部关于人、河流以及为野生鱼类的未来和支持它们的环境而斗争的电影. 它探讨了野生鲑鱼濒临灭绝、鱼类孵化场和养鱼场构成的威胁以及我们对自然的持续丧失信心.
+- [Artifishial](https://www.patagonia.com/artifishal.html)  - Artifishal 是一部关于人、河流以及为野生鱼类的未来和支持它们的环境而斗争的电影. 它探讨了野生鲑鱼濒临灭绝、鱼类孵化场和养鱼场构成的威胁，以及我们对大自然的持续丧失信心.
 - [Before the Flood](https://www.imdb.com/title/tt5929776/) - 了解气候变化如何影响我们的环境，以及社会可以采取哪些措施来防止全球濒危物种、生态系统和本土社区的消亡.
 - [Biggest Little Farm](https://www.biggestlittlefarmmovie.com/)  - 最大的小农场记载了约翰和莫莉·切斯特八年的探索历程，他们为换取 200 英亩贫瘠农田的城市生活和与自然和谐共处的收割梦想. 通过顽强的毅力和拥抱自然冲突提供的机会，切斯特夫妇解锁并揭示了一种生物多样性的生活设计，这种设计远远超出了他们的农场、季节和我们最疯狂的想象. 以令人惊叹的电影摄影、迷人的动物和响应大自然呼唤的紧急信息为特色，最大的小农场为我们所有人提供了一个更美好生活和一个更健康地球的重要蓝图.
 
@@ -124,7 +124,7 @@
 - [The Coconut Revolution](https://www.imdb.com/title/tt0479000/)  - 这是一个土著人民战胜西方殖民势力的现代故事. 一个太平洋岛屿奋起反抗巨型矿业公司力拓锌业 (RTZ) - 尽管遭到军事占领和封锁，但仍获胜.
 - [The Power of Community: How Cuba Survived Peak Oil](https://www.imdb.com/title/tt0814275/)  - 一个社区如何在石油灾难中幸存下来的一个很好的例子. 由于石油危机，古巴人处于饥饿的边缘——古巴人平均减掉了 20 磅. 古巴人民在各地开垦土地并开始在土地上种植蔬菜，从而自下而上地避免了灾难. 在这里，我们看到了恢复丢失的知识以确保社区生存的重要性.
 - [Virunga](https://www.imdb.com/title/tt3455224/) - 一群勇敢的人冒着生命危险保护最后的山地大猩猩.
-- [Where the Heck is Donlin?](https://vimeo.com/64608183)  - Donlin Gold 勘探区位于阿拉斯加西南部丛林深处，是阿拉斯加历史上最大的拟建金矿. 然而，绝大多数阿拉斯加居民并不熟悉它的发展细节和影响. 注意到缺乏可用数据，以及对该提案缺乏认识，Bjorn 和 Kim 采取了调查研究的实地考察模式，并着手从源头探索一些悬而未决的问题. 他们通过矿山的拟议足迹完成了一个由三部分组成的 1,000 英里人力荒野探险，他们与遇到的人就永久废物储存、自给渔业的重要性、大型矿山的能源需求等主题进行了交流，以及农村居民面临的挑战等等.
+- [Where the Heck is Donlin?](https://vimeo.com/64608183)  - Donlin Gold 勘探区位于阿拉斯加西南部丛林深处，是阿拉斯加历史上最大的拟建金矿. 然而，绝大多数阿拉斯加居民并不熟悉它的发展细节和影响. 注意到缺乏可用数据，以及对该提案缺乏认识，Bjorn 和 Kim 采取了调查研究的实地考察模式，并着手从源头探索一些未解决的问题. 他们通过矿山的拟议足迹完成了一个由三部分组成的 1,000 英里人力荒野探险，他们与遇到的人就永久废物储存、自给渔业的重要性、大型矿山的能源需求等主题进行了交流，以及农村居民面临的挑战等等.
 
 ## Finance
 - [Abundance Investment](https://www.abundanceinvestment.com/)  - Abundance 为对社会和环境有益的项目提供众筹市场. 通过 ISA 或养老金直接投资于一系列与您价值观相同的企业.
@@ -156,8 +156,9 @@
 ## Food
 - [Able & Cole](https://www.abelandcole.co.uk/)  - 以可回收、可重复使用、可回收的包装运送水果、蔬菜、食品储藏室的主食和其他有机食品. 季节性蔬菜盒，所以它不会环游世界，可持续采购的鱼，他们甚至还有啤酒.
 - [Agricool - Local, healthy, sustainable food](https://www.agricool.co/fr)  - 水果和蔬菜，生长在城市中心，距离消费地不到 15 公里. 新鲜，本地，无农药.
-- [NotCo](https://notco.com)  - The Not Company 是一家食品科技公司，仅使用植物来重新发明动物性食品. 与传统食品企业不同，该公司利用技术以自然、可持续和负担得起的方式重新创造我们喜欢吃的相同产品，保持其功能性、易用性和令人垂涎的美味. 他们使用人工智能建立了一个包含数千种植物的库，并找到如何使用它们，重现我们喜爱的产品的相同味道、气味、功能、外观和感觉. 全部基于植物.
-- [All Plants - Vegan Prepared Meals](https://allplants.com/)  - 获得由厨师烹制的超级美味和 100% 植物性餐点，并直接送到您家门口. 两个人吃六顿饭的费用为每顿 5 英镑，这真是太棒了. 用 [this referral link](https://allplants.mention-me.com/me/referee/registerko/48827185/206943008/er/796b4fb5d581862f565aa73f01fe733b8576831c/fe/cw?epr=1) 从您的第一个盒子中获得 10 英镑的折扣. 我们将在下一个盒子中获得 10 英镑的折扣，因此我们将节省的钱花在树木上 [Offset Earth](https://offset.earth/philsturgeon). 
+- [CrowdFarming.com] - 直接从农民那里购买食物是任何人都可以使用的最强大的日常行为，可以产生积极的社会和环境影响. 
+- [NotCo](https://notco.com) - The Not Company is a Foodtech, that reinvents animal-based foods using only plants. Unlike traditional food businesses, the company uses technology to recreate the same products we love to eat in a natural, sustainable and affordable way, keeping it functional, easy to use and mouthwateringly delicious. They use Artificial Intelligence to build a library of thousands of Plants and find how to use them, to recreate the same taste, smell, function, look and feel of the products we love. ALL PLANT-BASED.
+- [All Plants - Vegan Prepared Meals](https://allplants.com/)  - 获得由厨师烹制的超级美味和 100% 植物性餐点，并直接送到您家门口. 两个人吃六顿饭的费用为每顿 5 英镑，这真是太棒了. 使用 [this referral link](https://allplants.mention-me.com/me/referee/registerko/48827185/206943008/er/796b4fb5d581862f565aa73f01fe733b8576831c/fe/cw?epr=1) 从您的第一个盒子中获得 10 英镑的折扣. 我们将在下一个盒子中获得 10 英镑的折扣，因此我们将节省的钱花在树木上 [Offset Earth](https://offset.earth/philsturgeon). 
 - [Bees Wrap](https://www.beeswrap.com/) - 停止使用保鲜膜，开始使用由蜂蜡和有机荷荷巴油制成的可重复使用的可回收包装.
 - [Boulder Food Rescue](https://www.boulderfoodrescue.org/)  - 我们通过自行车促进健康食品的可持续再分配，否则这些食品将被浪费给低收入社区. 我们与社区合作，促进他们自己的食物再分配，并创建分散的系统来绕过获取食物的障碍. 我们的工作设想了一个每个人都可以公平获得健康食品的世界.
 - [City Harvest](https://www.cityharvest.org/)  - City Harvest 是纽约市最大的食品救援组织. 他们拯救食物并将其运送到数百个食品储藏室、施食厨房和其他社区合作伙伴.
@@ -196,7 +197,7 @@
 - [Carbon Analytics](https://www.co2analytics.com/) - 链接 Xero 账户以评估公司的每次采购，计算燃料、电力采购、运输等方面的碳影响以及供应链影响.
 
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) - 衡量您的碳足迹，了解如何减少消耗、抵消影响、沟通和遵守.
-- [CarbonFund.org](https://carbonfund.org/) - 根据航班、驾驶、运输计算您的足迹，并进行免税捐赠以抵消您的排放量.
+- [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)  - 一个开源工具，提供可见性和工具来衡量、监控和减少公共云碳排放. 它支持包括 AWS、Google Cloud 和 Microsoft Azure 在内的多个云提供商，并在仪表板、命令行界面或可导出为 CSV 中显示能源和碳排放指标.     
 - [Eco Passenger](http://ecopassenger.hafas.de/)  - 全球超过四分之一的温室气体排放来自交通运输部门，更重要的是，在过去几十年中，我们看到交通运输部门的排放量增长最快，而且这种趋势并没有停止. 为了提供帮助，EcoPassenger 是一个计算器，用于比较飞机、汽车和火车在客运方面的能源消耗、二氧化碳和废气排放.
 
@@ -215,23 +216,23 @@
 - [Zellar](https://zellar.com/)  - 为您的公司获取能源概况，以了解您的能源消耗，以及为您的业务提供动力的二氧化碳排放量. 然后，我们会让您将您的个人资料与英国其他本地企业或类似企业进行比较，然后跟踪一段时间内的绩效. 获取建议，甚至解锁资金，以资助您在零碳之旅中可能需要进行的任何投资.
 - [atmosfair](https://www.atmosfair.de/)  - 计算航班的足迹并购买补偿或捐赠以抵消任意数量的碳排放. 在德国免税.
 ## Home Improvements
-- [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
+- [All Green](https://www.all-green.co.uk/) - 精选的家居、花园、宠物和其他物品的环保产品.
 - [Barry](https://getbarry.co/)  - 获得智能功耗. 用适合您电力的应用程序替换旧的电力供应商.
 
 - [Berkley Water Filters](https://www.berkeyfilters.com/)  - 21,000,000 名美国人饮用违反美国健康标准的水.  Berkey 净水器系统实际上是净水器，因为它们可以去除传统过滤器无法去除的细菌和病毒.
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive)  - 您可以获得用于支付家中可再生供暖费用的资金. 您可以为生物质锅炉、太阳能热水器、热泵索赔. 付款期限为 7 年，基于您的供暖系统产生的可再生热量.
 - [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) - RAD 是一项自愿合作计划，与公用事业、零售商、制造商、州和地方政府机构、附属机构和其他机构合作，使用可用的最佳环境实践来处理旧的冷藏设备.
-- [Ecobee](https://www.ecobee.com/) - Improve how people consume energy to create a more sustainable future. Live in harmony with a thermostat and sensor that learn and adapt to your schedule. _Lower the manufacturing footprint by buying one of their refurbished products._
-- [EnergyStar.gov](https://www.energystar.gov/)  - 产品、家庭、公用事业和地方政府的能效评级、供应商和税收抵免. 能源之星是政府支持的能源效率标志，提供简单、可靠和公正的信息，消费者和企业依赖这些信息做出明智的决策.
+- [Ecobee](https://www.ecobee.com/)  - 改善人们消耗能源的方式，以创造更可持续的未来. 与可学习和适应您的日程安排的恒温器和传感器和谐相处.  _通过购买他们的翻新产品之一来减少制造足迹._
+- [EnergyStar.gov](https://www.energystar.gov/) - Energy efficiency ratings, suppliers, and tax credits for products, homes, utilities, and local governments. ENERGY STAR is the government-backed symbol for energy efficiency, providing simple, credible, and unbiased information that consumers and businesses rely on to make well-informed decisions.
 - [Environmentally Friendly Roof Insulation](https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html) - 无论您如何为您的家供暖，请确保您不会因隔热不足而泄漏热量，从而节省资金.
 - [Hamwells Showers](https://www.hamwells.com/) - 淋浴系统利用热交换器回收热量，过滤泵可在排水前循环使用多达 7 次的水，从而显着减少用水量和能源消耗.
 - [Lancey](https://www.lancey.fr/)  - 高效的散热器可在提高舒适度的同时控制您的用电量，并配备连接恒温器以适应您的需求和您家的特点. 内置电池可在非高峰时段储存电力，让您自动使用更便宜、更清洁的能源.
 
 - [Lehman's Appliances](https://www.lehmans.com/category/appliances) - 离网和超高效电器，包括燃气冰箱、冰柜、堆肥厕所、柴炉、热水器和泵.
-- [Mist Showers](https://www.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html)  - 一次典型的淋浴排放相当于 3.5 – 7 公里的驾驶. 喷雾淋浴是一种令人满意但被遗忘的技术，它使用很少的水和能源，可能是一个解决方案. 您几乎可以将任何淋浴间 DIY 变成雾状淋浴间. 与“普通”淋浴相比，五喷嘴喷雾淋浴可显着节省水和能源，并且不会牺牲舒适度.
-- [NY State Home Energy Assessment tool](https://stars.nyserdagreenny.org/) - 接受家庭能源审计并获得工具、资源和援助，以升级您的房屋以提高能源效率.
+- [Mist Showers](https://www.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html)  - 一次典型的淋浴排放相当于 3.5 – 7 公里的驾驶. 喷雾淋浴是一种令人满意但被遗忘的技术，它使用很少的水和能源，可能是一个解决方案. 您几乎可以将任何花洒 DIY 变成雾状花洒. 与“普通”淋浴相比，五喷嘴喷雾淋浴可显着节省水和能源，并且不会牺牲舒适度.
+- [NY State Home Energy Assessment tool](https://stars.nyserdagreenny.org/) - Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
 - [Nebia Showers](https://nebia.com/) - Nebia 很自豪能够提供将您的日常淋浴变成一种仪式的产品，同时也有助于保护地球.
-- [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org) - 35% of microplastics are fibers that are released when we wash our clothes. With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
+- [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org)  - 35% 的微塑料是我们洗衣服时释放的纤维. 使用消费者和工业洗衣过滤器，从源头解决问题 - 使用洗衣机中的过滤器.  PlanteCare 生产高效、实用且价格合理的洗衣过滤器，让每个家庭都可以停止将微纤维排放到环境中.
 - [PowerX](https://www.powerx.co/)  - 即插即用智能控制器，用于水和气集管. 它会了解您喜欢的水温，并根据您的需要加热水. 它还可以检测加热水的理想时间，因为价格每 15 分钟变化一次，因此您可以省钱而不影响热水水平. 每年节省数百美元，减少相当于 10 棵完全生长的树木的碳排放量！
 - [Project Sunroof](https://www.google.com/get/sunroof)  - 了解是否可以省钱改用太阳能电池板. 这个 Google 项目使用 Google 地球图像来分析您的屋顶形状和当地天气模式，以创建个性化的太阳能计划. 调整您的电费以微调您的储蓄估算和为您家推荐的太阳能电池板数量，然后根据您的结果比较太阳能电池板的贷款、租赁和购买选项.
 - [Regency Wood Stove Fireplace Inserts](https://www.regency-fire.com/en/Products/Wood/Wood-Inserts)  - 如果太阳能加热不是一种选择，木炉插入物可以更新您通风的开放式木壁炉. 它们会从烟囱散发出更少的热量，而在您的房子周围散发出更多的热量，从而大大提高您的木材燃烧效率. 他们将烟雾抽回火中以将其烧掉，从而减少向大气中排放的垃圾. 尝试使用 [coffee logs](https://www.bio-bean.com/elements/coffee-logs-and-retailers/) 而不是木头.
@@ -255,7 +256,7 @@
 - [Smol](https://smolproducts.com/)  - 零塑料洗碗机和洗衣片订阅. 包含儿童锁，它们通过了 FSC 认证，价格是传统品牌的一半，并且没有虐待动物.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) - 有了 Sonny，再也不用担心卫生纸用完了，它是湿巾和纸的可持续替代品，可改善卫生状况，让地球更环保.
 - [The Cheeky Panda](https://www.thecheekypanda.co.uk) - 100% 竹纸巾，零塑料，可回收塑料擦拭巾，碳平衡通过 World Land Trust.
-- [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/)  - 根据美国环保署的数据，一棵阔叶树每天可生产约 45 公斤卫生纸和约 8300 万个卫生纸. 竹卫生纸的生产需要更少的能源，水的五分之一，在更少的土地面积上生产更多的纤维，比其他植物和树木产生多 30-35% 的氧气，并且它减少了大约相同数量的二氧化碳. 此外，生产过程要求收集、再利用和回收水和其他材料. 最后，我们将 25% 的利润用于阻止森林砍伐和全球变暖.
+- [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/)  - 根据美国环保署的数据，一棵阔叶树每天可生产约 45 公斤卫生纸和约 8300 万个卫生纸. 竹卫生纸的生产需要更少的能源，水的五分之一，在更少的土地面积上生产更多的纤维，产生的氧气比其他植物和树木多 30-35%，并且它减少了大约相同数量的二氧化碳. 此外，生产过程要求收集、再利用和回收水和其他材料. 最后，我们将 25% 的利润用于阻止森林砍伐和全球变暖.
 - [The Good Roll](https://www.thegoodroll.nl)  - 邮购由消费后再生纸制成的 100% 环保卫生纸.  The Good Roll 销售净利润的 50% 用于在东非安装安全厕所.
 - [Who Gives a Crap](https://whogivesacrap.org/) - 我们所有的产品都采用环保材料制造，我们将 50% 的利润捐赠给有需要的人帮助建造厕所.
 ## Jobs
@@ -283,14 +284,14 @@
 
 - [TBD Community](https://www.tbd.community/) - 超过 3,000 家影响驱动的公司和组织使用 tbd* 寻找新的团队成员，使用英语和德语，但许多工作岗位在德国.
 
-- [Tech Jobs for Good](https://techjobsforgood.com/) - Find tech jobs at social impact companies, foundations, and innovative nonprofits in the United States. They cover all sorts of impact areas, with Environment being one you can select. Some jobs are remote, some are in-office.
+- [Tech Jobs for Good](https://techjobsforgood.com/)  - 在美国的社会影响公司、基金会和创新型非营利组织中寻找技术工作. 它们涵盖了各种影响区域，您可以选择环境. 有些工作是远程的，有些是在办公室工作的.
 
 - [Terra.do](https://www.terra.do) - 气候学习和职业过渡平台，运行多个气候教育奖学金（广泛的和特定部门的），举办气候招聘会，联系导师和专家等.
 
 ## Land Management
 - [Creating a Land Trust](https://conservationtools.org/guides/150-what-is-a-land-trust)  - 土地信托是出于保护目的而获得土地或保护地役权或管理土地或地役权的慈善组织. 土地所有者可以考虑将其土地的一部分指定为土地信托，以永久保护自然景观，并因此有资格获得税收优惠.
 - [Dronecoria](http://dronecoria.org/)  - 开源无人机重新造林技术. 无人机与原生涂层种子相结合，可以改变我们恢复生态系统的效率.
-- [Droneseed](https://www.droneseed.co/)  - 他们使用无人机群和喷雾来种植本地树木和植被来保护它们. 通过收集现场数据为客户提供有价值的见解. 作为服务提供商与政府、非营利组织和私人土地所有者合作.
+- [Droneseed](https://www.droneseed.co/) - They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with governments, nonprofits, and private land owners as a service provider.
 - [Farm Bot](https://farm.bot/)  - Farm Bot 是一个完全自动化、开源、众筹的项目，可帮助您为自己、家人和社区种植食物. 将 FarmBot 安装在高架床、城市屋顶或家中的小温室中. 超本地食品生产从未如此简单.
 - [Natural Resources Conservation Service (NRCS)](https://www.nrcs.usda.gov/)  - NRCS 将支付您费用，以您定义的方式管理您的土地. 它为符合条件的土地所有者和农业生产者提供自愿计划，以提供财政和技术援助，以帮助以可持续的方式管理自然资源. 计划包括紧急流域保护和防洪、流域恢复、调查和规划、健康的森林保护区地役权、农业保护地役权、保护管理和环境质量激励措施.
 - [Permaculture Earthworks Handbook](https://permacultureearthworks.com/)  - 正确设计和建造集水土方工程的详细指南. 它涵盖了各种气候条件下九种主要集水土方工程的功能、设计和施工方法. 免费替代品是一个在线课程 [Permaculture Women](https://www.permaculturewomen.com/freepermaculturecourse.html)，以及一部由四部分组成的纪录片 [Geoff Lawton](https://www.geofflawtononline.com/).
@@ -304,7 +305,7 @@
 - [Heated](https://heated.world/)  - 每周一至周四早上在收件箱顶部显示有关气候危机的原始报告和分析. 新闻应该为您提供有效应对这场危机所需的知识.
 - [iPanda](http://en.ipanda.com/) iPanda提供大熊猫放归野外、大熊猫交配繁育、大熊猫初生等新闻和直播，并努力传播大熊猫等珍稀野生动物保护知识，提高世界各地观众对环境保护的认识.
 - [Metabolic](https://metabolic.nl/news) - 荷兰的可持续发展咨询，跟踪和报告世界各地的气候行动、循环经济、减少消费等.
-- [State of the Planet](https://blogs.ei.columbia.edu/category/climate/)  - 来自哥伦比亚大学地球研究所的消息. 哥伦比亚地球研究所融合了物理和社会科学、教育和实用解决方案的研究，以帮助引导世界走向可持续发展的道路.
+- [State of the Planet](https://blogs.ei.columbia.edu/category/climate/) - News from the Earth Institute at Columbia University.  Columbia’s Earth Institute blends research in the physical and social sciences, education and practical solutions to help guide the world onto a path toward sustainability.
 - [The Cleanest Line](https://www.patagonia.com/blog/) - 巴塔哥尼亚 (Patagonia) 的博客，介绍了他们为绿色空间环境保护、全球罢工、他们为各个社区的太阳能补贴所做的努力以及各种其他气候行动的政治参与.
 - [The Guardian](https://www.theguardian.com/uk/environment) - 卫报报道国际环境问题和气候变化.
 - [US Green Build Council](https://www.usgbc.org/articles)  - 通过 LEED 建筑标准改变建筑的设计、建造和运营方式. 有关材料能效基准测试、城市战略、衡量室内空间健康状况、减少废气排放和改善空气质量的文章.
@@ -337,19 +338,19 @@ Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and o
 - [U.S. Save the "Clean Power Plan"](https://www.nrdc.org/save-clean-power-plan)  - 化石燃料发电厂占美国碳足迹的近 40%. 清洁能源计划要求对来自这些发电厂的这种气候变暖污染设定限制，特别是到 2030 年，与 2005 年的水平相比至少达到 32%. 到 2030 年，清洁能源计划可以为美国节省 200 亿美元的气候相关成本，并提供高达 340 亿美元的健康福利.
 - [UK Government: Act now on the Climate Emergency](https://secure.greenpeace.org.uk/page/s/declare-climate-emergency)  - 既然议会已经宣布气候紧急状态，我们需要你这样做. 首先，这意味着在英国禁止所有新的石油和天然气生产，包括水力压裂、到 2030 年将可再生能源增加两倍、种植 7 亿棵树、引入飞行常客税、到 2030 年停止销售所有新的汽油和柴油汽车，以及更多的.
 
-- [US Damn Removal](https://www.change.org/t/dam-removal-en-us) - [70 percent of the dams in the United States](https://www.ussdams.org/our-news/americas-aging-dams-in-need-of-repair/) are now more than 50 years old, with almost 2,000 of them rated as "high-hazard". About [1,000 dams have failed](https://apnews.com/75b1cd657f3e4fa3be6adaf968eb7df4) 在过去的 40 年里，造成 34 人死亡，现在许多人已无法应对气候变化带来的强降雨和洪水.
-由于大坝导致野生鲑鱼种群灭绝，它们唯一的好处是水力发电，但按照现代标准，大坝效率低下. 例如，佐治亚州的 Tugalo 大坝摧毁了 597 英亩的温带雨林，产生了 45 兆瓦的电力，这相当于 7,500 户家庭增加了 6 千瓦的屋顶太阳能电池板. 我们应该尽快拆除这些水坝，无论是在合同到期时还是更早时，而不是浪费纳税人的钱来运营它们或试图恢复它们. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
+- [US Damn Removal](https://www.change.org/t/dam-removal-en-us) - [70 percent of the dams in the United States](https://www.ussdams.org/our-news/americas-aging-dams-in-need-of-repair/) 现在已有 50 多年的历史，其中近 2,000 人被评为“高危”. 关于 [1,000 dams have failed](https://apnews.com/75b1cd657f3e4fa3be6adaf968eb7df4) 在过去的 40 年里，造成 34 人死亡，现在许多人已无法应对气候变化带来的强降雨和洪水.
+由于大坝导致野生鲑鱼种群灭绝，它们唯一的好处是水力发电，但按照现代标准，大坝效率低下. 例如，佐治亚州的 Tugalo 大坝摧毁了 597 英亩的温带雨林，产生了 45 兆瓦的电力，相当于 7,500 户家庭增加了 6 千瓦的屋顶太阳能电池板. 我们应该尽快拆除这些水坝，无论是在合同到期时还是更早时，而不是浪费纳税人的钱来运营它们或试图恢复它们. [More on Last Week Tonight](https://www.youtube.com/watch?v=Wpzvaqypav8).
 - [Climate Reality](https://climaterealityproject.org) - 美国前副总统和 2007 年诺贝尔和平奖获得者阿尔·戈尔倡议采取紧急行动，通过激进主义和减少温室气体排放来解决气候变化问题.
 
 
 ## Reforestation
-- [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
+- [Arbor Day Foundation](https://www.arborday.org/)  - 植树节基金会是一个 501(c)(3) 非营利保护和教育组织. 一百万会员、捐助者和合作伙伴支持我们的计划，使我们的世界更绿色、更健康.
 - [Bunq Greencard](https://www.bunq.com/link/upgrade-greencard) - 荷兰的在线银行，提供信用卡，为您花的钱种树.
 - [Coforest](https://coforest.co.uk/)  - 为了在巴斯和布里斯托尔地区创建我们的第一个联合森林，我们邀请组织和个人采用最多一英亩的土地. 您将能够为您的森林地块命名，甚至帮助种植它. 我们将一起创造一个全新的森林.
-- [DigitalHumani](https://digitalhumani.com)  - DigitalHumani 提供重新造林即服务，帮助企业植树！ 他们由一个志愿者集体运营，提供简单的应用程序编程接口 (API)，帮助将网站和移动应用程序连接到受信任的植树造林组织.
+- [DigitalHumani](https://digitalhumani.com) - DigitalHumani offers a Reforestation as a Service, to help enterprises plant trees! Run by a volunteer collective, they provide simple Application Programming Interfaces (APIs) to help connect websites and mobile applications to trusted reforestation organizations to have trees planted.
 - [Dronecoria](http://dronecoria.org/)  - 开源无人机重新造林技术. 无人机与原生涂层种子相结合，可以改变我们恢复生态系统的效率.
-- [Droneseed](https://www.droneseed.co/)  - 他们使用无人机群和喷雾来种植本地树木和植被来保护它们. 通过收集现场数据为客户提供有价值的见解. 作为服务提供商与政府、非营利组织和私人土地所有者合作.
-- [EcoTree](https://ecotree.green/) - Support the European forests and reap the benefits. Plant trees as an original and meaningful gift. Building complex, resistant, and multifunctional forests to promote resilience. For every tree harvested, three new ones are planted.
+- [Droneseed](https://www.droneseed.co/) - They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with governments, nonprofits, and private land owners as a service provider.
+- [EcoTree](https://ecotree.green/)  - 支持欧洲森林并从中获益. 植树作为一份原始而有意义的礼物. 建造复杂的、有抵抗力的和多功能的森林以提高恢复力. 每收获一棵树，就会种植三棵树.
 - [Ecologi](https://ecologi.com/?r=5d01f2ed12ae7a358b75fdd7)  - 从您的沙发上帮助地球，每月只需不到一瓶便宜的葡萄酒. 看着您自己的森林变得栩栩如生，并以每月 6.50 美元/6 欧元的价格抵消您的整个足迹. 然后让你的朋友、家人、企业，甚至你的狗注册！
 - [Eden Reforestation Projects](https://edenprojects.org/) - 伊甸园再造林项目通过雇用当地村民每年种植数百万棵树木来减少极端贫困并恢复健康的森林.
 - [Form Ghana](https://www.formghana.com/) - 一家位于加纳中部的人工林管理公司，在退化森林保护区的再造林和人工林管理领域提供服务.
@@ -362,8 +363,8 @@ Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and o
 
 - [TreeCard](https://www.treecard.org/) - TreeCard - 种树的木制借记卡.
 - [Treedom](https://www.treedom.net/) - Treedom 让您购买或赠送一棵真正的树，有人会为您种植它并在线关注它.
-- [Trees for the Future](https://trees.org/) - TREES plants all sorts of trees and plants, and nearly all of the trees used are either native or naturalized in the environments where they are planted. They partner with farmers to understand their needs and match them with species that will suit their needs and be environmentally benign.
-- [Treeware](https://treeware.earth)  - 许多开源开发人员在他们的软件上都有一个“给我买杯咖啡”按钮. 现在你可以有“给我买一棵树！” 在您的 GitHub 存储库上. 得到同样的“是的，有人关心我的工作”，并减少对存在的恐惧. 供电 [Offset Earth](https://offset.earth/).
+- [Trees for the Future](https://trees.org/)  - TREES 种植各种树木和植物，几乎所有使用的树木都是在种植环境中原生的或归化的. 他们与农民合作，了解他们的需求，并为他们匹配适合他们需求且对环境无害的物种.
+- [Treeware](https://treeware.earth) - Loads of open-source developers have a "Buy me a coffee" button on their software. Now you can have "Buy me a tree!" on your GitHub repository. Get the same "Yay somebody cares about my work" AND lessen the existential dread all in one. Powered by [Offset Earth](https://offset.earth/).
 - [WeForest](https://www.weforest.org/) - WeForest 使社区能够推进和实施创新、高标准、可扩展和持久的解决方案，以恢复森林景观
 ## Renewable Energy
 - [Big Clean Switch](https://bigcleanswitch.org/)  - 以不同的方式做能量. 在几分钟内切换到英国领先供应商之一的绿色电价.
@@ -428,7 +429,7 @@ Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and o
 - [ClimatePrediction.net](https://www.climateprediction.net/)  - 世界上最大的气候建模实验. 我们的气候如何变化的证据对于减少温室气体排放至关重要. 通过在您的计算机上运行软件来帮助发现气候的外观.
 - [Economists for Future](https://econ4future.org/)  - 未来经济学家不断增长的人们致力于激励经济界应对当今最大的挑战. 如果致力于研究经济的学科不能充分参与气候科学所需的经济转型，那么还有谁能做到这一点？
 
-- [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
+- [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/)  - 为人们提供信息、参与和培训以识别珊瑚白化、疾病和入侵物种爆发的网络. 他们有一个广泛的外展计划，有助于为宝贵的海洋资源的快速反应监测和管理提供关键培训.
 - [Greenpeace](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2)  - 绿色和平组织有多种方式供人们参与. 通过发起和参与活动和请愿活动从小处开始，或者进一步探索或创建活动. 为实现绿色和平的未来发挥积极作用！
 - [Habitat for Humanity](http://www.habitat.org/getinv)  - Habitat for Humanity 以为有需要的人建造简单、负担得起的房屋而闻名. 但最近该组织实施了新计划，认识到气候变化是对环境的主要威胁，可能会破坏他们建造的房屋.
 - [MakeSense Jobs](https://jobs.makesense.org)  - Makesense 激励和赋权公民、企业家和组织，共同建设一个包容和可持续的社会.  MakeSense 的工作和任务公告平台，适用于招募对影响充满热情的个人资料的协会和社会企业家. 工作类型包括实习、自由职业、公民服务、合作伙伴、计划、志愿者任务、指导.
@@ -472,14 +473,14 @@ Tell NOAA Regional Administrator Barry Thom, WDFW Director Kelly Susewind, and o
 - [Precious Plastic](https://preciousplastic.com/)  - 共享有关创建塑料粉碎机、注射器和压片机的说明的开源社区，因此您可以使用旧塑料制作任何您想要的东西. 从邻居那里收集塑料，清洁，切碎， [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/) ，创造你能想象的任何东西！ 你可以 [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) 如果制作它们不在你的驾驶室里.
 
 - [Pure Waste](https://www.purewaste.org/) - 总部位于赫尔辛基，用废料制作 100% 可回收的服装.
-- [Recycle Now](https://www.recyclenow.com/) - Find out where to recycle pretty much anything, including aerosols, old mobile phones, soft plastics, and get advice on how to reduce waste too.
+- [Recycle Now](https://www.recyclenow.com/) - 找出几乎所有物品的回收地点，包括气溶胶、旧手机、软塑料，并获得有关如何减少浪费的建议.
 - [ReNu Furniture](https://renufurniture.co.uk/)  - 使用 ReNu Furniture 防止垃圾填埋并轻松购买二手、升级再造和手工制作的家具. 这家初创公司总部位于布莱顿，覆盖英国东南部，将管理每次家具销售的收款、交付和付款——他们甚至为每次交付种植一棵树以抵消碳排放. 
 - [Repair Café](https://repaircafe.org/)  - 修理咖啡馆是免费的聚会场所，它们都是关于修理东西的（一起）. 您会找到工具和材料来帮助您修理衣服、家具、电器、自行车、陶器、电器、玩具等. 您还可以找到专家志愿者，他们拥有各个领域的维修技能. 修理你的东西，或者只是喝杯咖啡. 它们遍布全球，并且该站点是多语言的.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) - 他们从餐馆、农场和其他食品供应商那里挑选未使用的、多余的食物，并将其重新用于为服务不足的纽约人提供美味和营养的膳食.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) - 有了 Sonny，再也不用担心卫生纸用完了，它是湿巾和纸的可持续替代品，可改善卫生状况，让地球更环保.
 - [The Rotten Fruit Box](https://therottenfruitbox.com/)  - 来自西班牙和葡萄牙的 100% 天然冻干水果零食为您发货. 否则，您享用的水果会被闲置并腐烂在地上. 我们还认为“Rotten”这个名字有助于引起人们对食物浪费这一严重问题的关注. 我们的冷冻干果零食袋美味、健康、100% 天然、保质期长，非常适合家庭、工作、办公室、学校、露营或任何地方使用. 帮助减少食物浪费. 帮助当地的小农.  100% 可堆肥包装，随您当地的邮政服务一起运送，因为它是碳足迹最低的选择.
 - [Too Good To Go](https://toogoodtogo.co.uk/)  - 轻松且可持续地出售您的剩余食物！ 保存美味的食物并与食物浪费作斗争. 找到你最喜欢的食物并去拯救它.
-- [Vegware](https://vegware.co.uk/) - 餐巾纸、手提袋、沙拉盒、寿司托盘、餐具、一次性咖啡杯，均由使用可再生、低碳、回收或再生材料的植物制成，并设计为可与食物垃圾进行商业堆肥，如果被接受.
+- [Vegware](https://vegware.co.uk/) - 餐巾纸、手提袋、沙拉盒、寿司托盘、餐具、一次性咖啡杯，全部由使用可再生、低碳、回收或再生材料的植物制成，并设计为可与食物垃圾进行商业堆肥，如果被接受.
 - [What is my lamp worth?](https://www.watismijnlampwaard.nl/)  - 寻找最近的废弃电器和节能灯泡收集点. 本网站可帮助您负责任地回收、捐赠、维修或销售电器和灯具.
 
 ## YouTube Channels

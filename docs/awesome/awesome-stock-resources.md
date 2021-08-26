@@ -91,8 +91,8 @@
 * [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) 一个大型免费图片库网站，包含数以千计的公共领域照片，包括风景、物体、动物、植物、纹理和许多其他免费照片. 拍摄的所有照片 [the website owner](https://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr 的世界公共照片档案目录.
 * [New Old Stock](https://nos.twnsnd.co/) - [:copyright:](https://nos.twnsnd.co/rights-and-usage) 来自公共档案馆的老式照片. 已知的版权限制.
-* [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:] (https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 自 2016 年 1 月 6 日起 180.000 项属于公共领域 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
-* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) 美国宇航局约翰逊航天中心扫描的高分辨率阿波罗图像.
+* [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 自 2016 年 1 月 6 日以来，已有 180.000 个项目成为公共领域 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
+* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) 美国宇航局约翰逊航天中心扫描的高分辨率阿波罗图像.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 每周都有新的库存照片.
 
 ### Attribution Required licenses
@@ -199,7 +199,7 @@
 
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) 147 个用于网络和移动设备的 8 位复古风格 webfont 图标
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) 包含 300 多个图标的图标集，它是 [inuit.css](https://github.com/csswizardry/inuit.css).
-* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) 认识 Devicons，这是一种为开发人员、代码绝地、忍者、HTTPsters、传道者和书呆子制作的标志性字体（原文如此）.  100 多个图标可供您在下一个项目中使用.
+* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) 认识 Devicons，这是一种为开发人员、代码绝地武士、忍者、HTTPsters、传道者和书呆子制作的标志性字体（原文如此）.  100 多个图标可供您在下一个项目中使用.
 * [Iconfinder](https://www.iconfinder.com/)  - Iconfinder 为数百万设计师和开发人员提供了漂亮的图标. 大多数图标在归属下可用. 有关更多详细信息，请参阅单个许可证.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT 许可的图标字体.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
@@ -237,7 +237,7 @@
 
 ## Colors
 
-A selection of websites offering color schemes.
+一系列提供配色方案的网站.
 
 * [0to255](http://www.0to255.com/) - 一个简单的工具，可以帮助网页设计师找到任何颜色的变化.
 * [0xrgb](http://0xrgb.com/) - 知名调色板（Material、iOS、FlatUI、Metro、Tango、Solarized）的简约颜色选择器.
@@ -306,7 +306,7 @@ A selection of websites offering color schemes.
 
 ## How to Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/neutraltone/awesome-stock-resources/blob/master//CONTRIBUTING.md).
+Please read [CONTRIBUTING](https://github.com/neutraltone/awesome-stock-resources/blob/master//CONTRIBUTING.md).
 
 ## How to Share
 
@@ -326,4 +326,4 @@ A selection of websites offering color schemes.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Tony Phipps](https://twitter.com/neutraltone) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Tony Phipps](https://twitter.com/neutraltone) 已放弃本作品的所有版权和相关或邻接权.
