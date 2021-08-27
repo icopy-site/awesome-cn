@@ -25,7 +25,7 @@
 - [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT 身份验证（基于 [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended)).
 - [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - 行级权限.
 - [FastAPI Security](https://github.com/jmagnusson/fastapi-security) - 在 FastAPI 中实现身份验证和授权作为依赖项.
-- [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - 开箱即用的 API 密钥安全可通过路径操作进行管理.
+- [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - 可通过路径操作管理开箱即用的 API 密钥安全性.
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - 账户管理、认证、授权.
 
 ### Databases
@@ -33,19 +33,20 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - FastAPI 和 [SQLAlchemy](https://www.sqlalchemy.org/).
-- [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - 一种基于 REST API 创建的简单方法 [PeeWee](https://github.com/coleifer/peewee) 模型.
+- [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - 一种基于 REST API 创建的简单方法 [PeeWee](https://github.com/coleifer/peewee) 楷模.
 - [GINO](https://github.com/python-gino/gino) - 构建在 SQLAlchemy 核心之上的轻量级异步 ORM，用于 Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - 一个异步 ORM.
-- [ormar](https://collerek.github.io/ormar/)  - Ormar 是一个异步 ORM，它使用 pydantic 验证，可以直接在 FastAPI 请求和响应中使用，因此您只需要维护一组模型. 包括 Alembic 迁移.
+- [ormar](https://collerek.github.io/ormar/)  - Ormar 是一个使用 Pydantic 验证的异步 ORM，可以直接在 FastAPI 请求和响应中使用，因此您只需要维护一组模型. 包括 Alembic 迁移.
   - [FastAPI Example](https://collerek.github.io/ormar/fastapi/) - 在 ormar 中使用 FastAPI.
-- [Piccolo](https://github.com/piccolo-orm/piccolo) - 一个异步 ORM 和查询构建器，支持 Postgres 和 SQLite，带有电池（迁移、安全等）.
+- [Piccolo](https://github.com/piccolo-orm/piccolo) - 异步 ORM 和查询构建器，支持 Postgres 和 SQLite，带有电池（迁移、安全性等）.
   - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - 将 FastAPI 与 Piccolo 一起使用.
   - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - 强大且现代的管理 GUI，使用 Piccolo ORM.
 - [Tortoise ORM](https://tortoise-orm.readthedocs.io/en/latest/index.html) - 受 Django 启发的易于使用的 asyncio ORM（对象关系映射器）.
-  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - Tortoise-ORM FastAPI 集成的一个例子.
+  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
   - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM 迁移工具.
+- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel（由 Pydantic 和 SQLAlchemy 提供支持）是一个库，用于通过 Python 代码与 Python 对象与 SQL 数据库进行交互. 
 
 #### Query Builders
 
@@ -62,7 +63,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 
 #### Other Tools
 
-- [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - 将 SQLAlchemy 模型转换为 [Pydantic](https://pydantic-docs.helpmanual.io/) 模型.
+- [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) - 将 SQLAlchemy 模型转换为 [Pydantic](https://pydantic-docs.helpmanual.io/) 楷模.
 - [FastAPI-CamelCase](https://ahmednafies.github.io/fastapi_camelcase/) - 使用 FastAPI 的 CamelCase JSON 支持 [Pydantic](https://pydantic-docs.helpmanual.io/).
   - [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - 扩展作者随附的博客文章.
 
@@ -83,7 +84,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 ### Utils
 
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - 一个简单的轻量级缓存系统.
-- [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 将 Chameleon 模板语言集成到 FastAPI.
+- [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 向 FastAPI 添加了 Chameleon 模板语言的集成.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 自以为是的实用程序集：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
 - [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 向 FastAPI 添加 Jinja 模板语言的集成.
@@ -109,7 +110,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 
 ### Official Resources
 
-- [Documentation](https://fastapi.tiangolo.com/) - 综合文档.
+- [Documentation](https://fastapi.tiangolo.com/) - 全面的文档.
 - [Tutorial](https://fastapi.tiangolo.com/tutorial/) - 官方教程向您展示如何使用 FastAPI 的大部分功能，一步一步.
 - [Source Code](https://github.com/tiangolo/fastapi) - 托管在 GitHub 上.
 - [Gitter Chat](https://gitter.im/tiangolo/fastapi) - 与其他 FastAPI 用户聊天.
@@ -120,7 +121,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 
 ### Podcasts
 
-- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - 在这一集中 [Podcast Init](https://www.pythonpodcast.com/), FastAPI 的创建, [Sebastián Ramirez](https://tiangolo.com/)，分享了他构建 FastAPI 的动机以及它是如何工作的.
+- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - 在这一集中 [Podcast Init](https://www.pythonpodcast.com/), FastAPI 的创建, [Sebastián Ramirez](https://tiangolo.com/)，分享他构建 FastAPI 的动机以及它是如何工作的.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - 很好的项目概述.
 
 ### Articles
@@ -145,8 +146,8 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
   - [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) - 使用 Prometheus 和 Grafana 进行应用程序指标监控.
   - [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - 关于 FastAPI 与 Kubernetes 原生 FaaS 平台兼容性的现状.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) - 通过基于 Web 的 API 部署机器学习模型.
-- [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - Explains how to implement Application Performance Monitoring (APM) using OpenTelemetry and Datadog/Jaeger.
-- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI 应用程序和服务结构，提供更易于维护的代码库.
+- [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) - 解释了如何使用 OpenTelemetry 和 Datadog/Jaeger 实现应用程序性能监控 (APM).
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI 应用程序和服务结构，用于更易于维护的代码库.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://www.mongodb.com/developer/how-to/FARM-Stack-FastAPI-React-MongoDB/) - 开始使用完整的 FastAPI Web 应用程序堆栈.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) - FastAPI 的快速介绍.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) - Flask 与 FastAPI 的比较.
@@ -163,7 +164,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 
 ### Videos
 
-- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - 如果您使用 FastAPI 构建基于 Web 的股票筛选器，您将了解 FastAPI 的许多功能，包括 pydantic 模型、依赖项注入、后台任务和 SQLAlchemy 集成.
+- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) - 当您使用 FastAPI 构建基于 Web 的股票筛选器时，您将了解 FastAPI 的许多功能，包括 Pydantic 模型、依赖项注入、后台任务和 SQLAlchemy 集成.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - 使用 FastAPI 构建 Web 应用程序编程接口（RESTful API）.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - 了解如何使用 FastAPI 进行数字验证.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  - 2020 年哪个框架最适合 Python？ 哪个使用 async/await 最好？ 哪个最快？
@@ -224,7 +225,7 @@ Compute:
 - [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - FastAPI 项目的 Cookiecutter 模板，使用：机器学习、诗歌、Azure Pipelines 和 pytest.
 - [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - 从 OpenAPI 生成现代 FastAPI Python 客户端（通过 FastAPI）.
 - [Pywork](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) 生成器来构建 FastAPI 应用程序.
-- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker 镜像与 Uvicorn 由 Gunicorn 管理，用于 Python 3.7 和 3.6 中具有性能自动调整的高性能 FastAPI Web 应用程序.
+- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker 映像与 Uvicorn 由 Gunicorn 管理，用于 Python 3.7 和 3.6 中具有性能自动调整的高性能 FastAPI Web 应用程序.
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn)  - 使用 Python 提供高性能异步 REST API 的模板.  FastAPI + GINO + Arq + Uvicorn（带 Redis 和 PostgreSQL）.
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - 使用 FastAPI、TypeScript、Docker、PostgreSQL 和 React 的全栈 cookiecutter 样板.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - 具有工厂模式架构的简单 FastAPI 模板.
@@ -232,7 +233,7 @@ Compute:
 
 ### Open Source Projects
 
-- [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - 使用 FastAPI 的有组织的项目列表.
+- [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - 使用 FastAPI 的项目的有组织的列表.
 - [Bitcart](https://github.com/bitcartcc/bitcart) - 为商家、用户和开发人员提供易于设置和使用的平台.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - 用于跟踪全球冠状病毒（COVID-19、SARS-CoV-2）爆发的 API.
 - [Dispatch](https://github.com/Netflix/dispatch) - 管理安全事件.
@@ -252,7 +253,7 @@ Compute:
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - 使用元胞自动机生成您的个人 8 位头像.
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - 通过端到端加密从浏览器查看和控制终端.
-- [Universities](https://github.com/ycd/universities) - 用于获取全球 +9600 所大学信息的 API 服务.
+- [Universities](https://github.com/ycd/universities) - 获取全球+9600所大学信息的API服务.
 
 ## Sponsors
 

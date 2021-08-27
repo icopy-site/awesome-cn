@@ -263,6 +263,7 @@
 
 - [GNOME News Feed](https://www.gnome.org/news/) - 官方新闻帖子.
 - [This Week in GNOME](https://thisweek.gnome.org/) - 来自社区的项目维护者的每周新闻.
+- [Apps for GNOME](https://apps.gnome.org/)
 - [Planet GNOME](http://planet.gnome.org/) - GNOME 开发者博客联盟.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)

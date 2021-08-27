@@ -31,7 +31,7 @@
 ### Music
 
 - [cmus](https://github.com/cmus/cmus) - 小巧、快速且功能强大的控制台音乐播放器.
-- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
+- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - 通过 CLI 控制 iTunes.
 - [pianobar](https://6xq.net/pianobar/) - 潘多拉客户端.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端中收听 SomaFM.
@@ -129,10 +129,10 @@
 
 ### Database
 
-- [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示功能的 MySQL 客户端.
+- [mycli](https://github.com/dbcli/mycli) - MySQL 客户端具有自动完成和语法突出显示.
 - [pgcli](https://github.com/dbcli/pgcli) - 具有自动补全和语法高亮功能的 Postgres 客户端.
 - [sqlline](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 发出 SQL 的 Shell.
-- [iredis](https://github.com/laixintao/iredis) - Redis 客户端具有自动完成和语法突出显示功能.
+- [iredis](https://github.com/laixintao/iredis) - 具有自动完成和语法高亮显示的 Redis 客户端.
 - [usql](https://github.com/xo/usql) - 具有自动完成和语法突出显示的通用 SQL 客户端.
 
 ### Devops
@@ -142,7 +142,7 @@
 - [s3cmd](https://github.com/s3tools/s3cmd) - 功能齐全的 S3 客户端.
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程经理.
 - [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
-- [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache error 和 RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息平台和电子邮件发送消息/警报.
@@ -221,7 +221,7 @@
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - 终端上强大的复式记账系统
+- [ledger](http://ledger-cli.org) - 终端上功能强大的复式记账系统
 - [moeda](https://github.com/thompsonemerson/moeda) - 外汇汇率和货币兑换.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 转换货币汇率.
 - [cointop](https://github.com/miguelmota/cointop) - 跟踪加密货币.
@@ -245,7 +245,7 @@
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
-- [s](https://github.com/zquestz/s) - 在您的终端中打开网络搜索.
+- [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP、FTP、SFTP、BitTorrent 和 Metalink 下载实用程序.
 - [wego](https://github.com/schachmat/wego) - 获取天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
@@ -269,14 +269,14 @@
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - 管理 wifi 连接.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/ID/等.
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
-- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中打开网站.
+- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中打开一个网站.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换黑暗模式.
 
 ### Terminal Sharing Utilities
 
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为 Web 应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机向全世界公开，以便于测试和共享.
-- [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程 SSH 客户端.
+- [mosh](https://mosh.org/) - 远程 SSH 客户端，允许以间歇性连接漫游.
 - [ngrok](https://ngrok.com/) - 保护到本地主机的自省隧道.
 - [serveo](https://serveo.net/) - 仅使用 SSH 客户端将本地服务器暴露给 Internet.
 - [seashells.io](https://seashells.io/) - 管道输出到网络.
@@ -309,7 +309,7 @@
 - [Ultimate Plumber](https://github.com/akavel/up) - 编写带有实时预览的 Linux 管道.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台进程杀手.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 线性执行的队列作业.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - 去掉“$”前面复制粘贴的终端命令.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - 去掉前面复制粘贴的终端命令的“$”.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - 从标准输入、管道和 ttys 运行可执行文件，而无需创建临时文件.
 
 ### System Interaction Utilities
@@ -318,14 +318,14 @@
 - [brightness-cli](https://github.com/kevva/brightness-cli) - 改变屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) - 将终端输出到剪贴板.
 - [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在您的本地机器上下载并安装 Google Web Fonts.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上下载并安装 Google Web Fonts.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
 
 ### Markdown
 
 - [DocToc](https://github.com/thlorenz/doctoc) - 为 Markdown 文件生成目录.
-- [grip](https://github.com/joeyespo/grip) - 预览降价文件，因为 GitHub 将呈现它们.
+- [grip](https://github.com/joeyespo/grip) - 以 GitHub 呈现的方式预览 Markdown 文件.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 风格化的终端降价查看器.
 
 ## Command Line Learning
@@ -358,7 +358,7 @@
 - [fx](https://github.com/antonmedv/fx) - 命令行 JSON 查看器.
 - [vj](https://github.com/busyloop/vj) - 使 JSON 可读.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - 用于破解 JSON 和 Javascript 的实用腰带.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - 从 JSON 中去除注释.
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - 从 JSON 中删除评论.
 - [GROQ](https://github.com/sanity-io/groq-cli) – 带有查询和投影的 JSON 处理器.
 
 ### Columns
@@ -385,7 +385,7 @@
 ### Deleting, Copying, and Renaming
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 将文件和目录移动到垃圾箱.
-- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾桶.
+- [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
 - [del-cli](https://github.com/sindresorhus/del-cli) - 删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 复制文件.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - 快速重命名文件.
@@ -400,10 +400,11 @@
 - [NCDu](https://dev.yorhel.nl/ncdu) - 一个带有 ncurses 接口的磁盘使用分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 用于 Unix 权限的瑞士军刀.
 - [transmission-cli](https://transmissionbt.com) - 命令行的 Torrent 客户端.
-- [webtorrent-cli](https://github.com/feross/webtorrent-cli) - 流洪流客户端.
+- [webtorrent-cli](https://github.com/feross/webtorrent-cli) – 流洪流客户端.
 - [entr](https://github.com/eradman/entr) - 文件更改时运行任意命令.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - 自动整理您的文件.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - 在 Rust 中组织 cli 具有更多自定义.
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - 恢复覆盖或删除的文件.
 
 ### File Sync/Sharing
 
@@ -452,7 +453,7 @@
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - :tv：用于命令行的精美 GitHub 客户端.
 - [Gistup](https://github.com/mbostock/gistup) - 从终端创建一个要点，然后使用 git 更新它.
 - [git commander](https://github.com/golbin/git-commander) - 具有简单终端界面的 git 工具.
-- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover：类似 GitHub 的贡献日历，但在本地，包含您所有的 git 提交.
+- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover：一个类似于 GitHub 的贡献日历，但在本地，包含您所有的 git 提交.
 - [hub](https://github.com/github/hub) - 一个 git 命令行包装器，让你在 GitHub 上表现得更好.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取 GitHub 用户的当前本地时间.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - 从命令行编辑 GitHub 标签.
@@ -461,7 +462,7 @@
 - [git-standup](https://github.com/kamranahmedse/git-standup) - 回想你在最后一个工作日做了什么.
 - [git-secret](https://github.com/sobolevn/git-secret) - 将您的私人数据存储在 git 存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - 用于从命令行创建合并请求的 gitlab cli.
-- [git-extras](https://github.com/tj/git-extras) - 小 git 附加功能，如 git-ignore、git-setup、git-changelog、git-release、git-effort 等等.
+- [git-extras](https://github.com/tj/git-extras) - 小 git 附加功能，如 git-ignore、git-setup、git-changelog、git-release、git-effort 等.
 - [gita](https://github.com/nosarthur/gita) - 并排管理多个 git 存储库以保持理智.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 以交互方式生成 README.md 文件.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - 确保语义提交消息.
@@ -512,7 +513,7 @@
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.
 - [dankcli](https://github.com/sggts04/dankcli) - 向模因图像模板添加文本.
-- [ricksay](https://github.com/roma-guru/ricksay) - 瑞克和莫蒂的名言.
+- [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
 ## Other
 
@@ -521,10 +522,10 @@
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - 获取当前用户的全名.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件或标准输入的 gzip 大小.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 关闭所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用 Levenshtein 距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) - 直接从命令行进行快速数学运算.
-- [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端中的故事，也提供头条新闻.
+- [medium-cli](https://github.com/djadmin/medium-cli) - 读 [medium.com](https://medium.com/) 终端中的故事，也提供头条新闻.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的 Web 快捷方式文件打开 URL.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - 从网络快捷方式文件中获取 URL.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号：我“爱”独角兽 =&gt; 我“爱”独角兽.
@@ -533,7 +534,7 @@
 - [hget](https://github.com/bevacqua/hget) - 从您的终端以纯文本形式呈现网站.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - 一个 Node.js CLI 应用程序，显示您的 Google Wifi / OnHub 路由器的状态.
 - [calories](https://github.com/zupzup/calories) - 卡路里和体重追踪器.
-- [trino](https://github.com/eneserdogan/trino) - Trino CLI 可以快速轻松地翻译在命令行中输入的单词和短语.
+- [trino](https://github.com/eneserdogan/trino) - Trino CLI 允许快速轻松地翻译在命令行中输入的单词和短语.
 - [alex](https://github.com/wooorm/alex) - 这通过捕捉许多可能的冒犯来检查不敏感、不体贴的写作来增强文本.
 - [xiringuito](https://github.com/ivanilves/xiringuito)  - “穷人的 VPN”. 基于 SSH 的“VPN”，易于安装，但性能比真正的 VPN 慢.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载 NASA 今日图片.

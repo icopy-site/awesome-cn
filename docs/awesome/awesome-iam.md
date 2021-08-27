@@ -59,7 +59,7 @@
 
 - [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租赁漏洞和供应链漏洞）”.
 
-- [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于绘制服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
+- [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于映射服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
 - [Open guide to AWS Security and IAM](https://github.com/open-guides/og-aws#security-and-iam)
 
@@ -67,7 +67,7 @@
 
 IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
-- [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 帐户管理的元批评，其中业务预期的功能与真实用户需求发生冲突，以虚构的项目经理编写的用户故事的形式出现.
+- [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 帐户管理的元批评，其中业务期望的功能与真实用户需求发生冲突，以虚构的项目经理编写的用户故事的形式出现.
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)  - 与上述精神相同，但范围更广：我们作为开发人员忽略但用户真正关心的所有小事情. 该列表的顶部是以帐户为中心的功能、多样化的集成和导入/导出工具. 即所有企业客户需要覆盖.
 
@@ -83,7 +83,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 整个身份验证堆栈基于密码学原语. 这是不容忽视的.
 
-- [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)  - 针对非加密工程师的开发人员的最新建议. 甚至还有一个 [shorter summary](https://news.ycombinator.com/item?id=16749140) 可用的.
+- [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)  - 针对非加密工程师的开发人员的一组最新建议. 甚至还有一个 [shorter summary](https://news.ycombinator.com/item?id=16749140) 可用的.
 
 - [Security Recommendations for Any Device that Depends on Randomly-Generated Numbers](https://www.av8n.com/computer/htm/secure-random.htm)  - “‘随机数生成器’这句话应该解析如下：它是一个随机数生成器. 它不是随机数的生成器.”
 
@@ -93,7 +93,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - 密码学基础论文.
 
-- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
+- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您正在使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
 
 ## Zero-trust Network
 
@@ -101,7 +101,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/system/files/login/articles/login_dec14_02_ward.pdf) - Google 零信任网络计划的快速概览.
 
-- [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90)  - 越来越多的公司添加额外的 VPN 层、防火墙、限制和约束，从而导致糟糕的体验和轻微的安全增益. 有更好的方法.
+- [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90)  - 越来越多的公司增加了额外的 VPN 层、防火墙、限制和约束，从而导致糟糕的体验和轻微的安全增益. 有更好的方法.
 
 - [oathkeeper](https://github.com/ory/oathkeeper)  - 身份和访问代理以及访问控制决策 API，用于对传入的 HTTP 请求进行身份验证、授权和更改. 受 BeyondCorp / 零信任白皮书的启发.
 
@@ -113,6 +113,10 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 用于验证您的身份的协议和技术.
 
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - 最终用户 API 的所有基于令牌的身份验证方案的概述和比较.
+
+- [A Child’s Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - 与上述精神相同，但这次是在服务级别.
+
 - [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc)  - 简而言之： 1. 小信任根；  2. TLS 还不够；  3. 基于证书的令牌；  4. 加密身份验证令牌 (CAT). 见 [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) 更多细节.
 
 ### Password-based
@@ -123,11 +127,11 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Password expiration is dead](https://techcrunch.com/2019/06/02/password-expiration-is-dead-long-live-your-passwords/) - 最近的科学研究对许多长期存在的密码安全实践（例如密码过期策略）的价值提出了质疑，并指出了更好的替代方案，例如强制执行禁止密码列表和 MFA.
 
-- [Practical Recommendations for Stronger, More Usable Passwords](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) - 本研究建议关联：针对常见泄露密码的阻止列表检查、无字符类要求的密码策略、最低强度策略.
+- [Practical Recommendations for Stronger, More Usable Passwords](http://www.andrew.cmu.edu/user/nicolasc/publications/Tan-CCS20.pdf) - 本研究推荐以下关联：针对常见泄露密码的阻止列表检查、无字符类要求的密码策略、最低强度策略.
 
 - [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/)  - “对长度和字符组成的任意下限是不好的. 它们看起来很糟糕，它们会导致对安全状况的负面猜测，并且它们会破坏密码管理器等工具.”
 
-- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 用愚蠢的密码规则羞辱网站.
+- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 使用愚蠢的密码规则羞辱网站.
 
 - [Plain Text Offenders](https://plaintextoffenders.com/about/) - 公开羞辱以纯文本形式存储密码的网站.
 
@@ -135,7 +139,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [A Well-Known URL for Changing Passwords](https://github.com/WICG/change-password-url) - 定义用于密码更新的站点资源的规范.
 
-- [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360)  - 好消息：您不会被传统的密码保存方案所困扰. 这是一个透明地升级到更强的哈希算法的技巧.
+- [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360)  - 好消息：您不会被传统的密码保存方案所困扰. 这是一个透明升级到更强哈希算法的技巧.
 
 ### Password-less
 
@@ -167,7 +171,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)  - “我们的分析证实，秘密问题提供的安全级别通常远低于用户选择的密码.  (...) 令人惊讶的是，我们发现造成这种不安全感的一个重要原因是用户通常不会如实回答.  (...) 在可用性方面，我们表明秘密答案的可记忆性出奇地差”.
 
-- [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) - Google 安全团队的数据显示 2FA 可以 100% 阻止自动机器人黑客攻击.
+- [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) - 谷歌安全团队的数据显示，2FA 可以 100% 阻止自动机器人黑客攻击.
 
 - [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) - 与以上来自 Microsoft 的结论相同：“根据我们的研究，如果您使用 MFA，您的帐户被盗用的可能性将降低 99.9% 以上.”
 
@@ -229,7 +233,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Adding JSON Web Token API Keys to a DenyList](https://auth0.com/blog/denylist-json-web-token-api-keys/) - 关于令牌失效.
 
-- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - 和 [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)， 因为 [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141) . 它们会根据您存储它们的位置引入大小问题或安全问题. 有状态 JWT 令牌在功能上与会话 cookie 相同，但没有经过实战测试和良好审查的实现或客户端支持.
+- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - 和 [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)， 因为 [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141) . 根据您存储它们的位置，它们会引入大小问题或安全问题. 有状态 JWT 令牌在功能上与会话 cookie 相同，但没有经过实战测试和良好审查的实现或客户端支持.
 
 - [JWT, JWS and JWE for Not So Dummies\!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)  - 签名的 JWT 称为 JWS（JSON Web 签名）. 事实上，JWT 本身并不存在——它必须是 JWS 或 JWE（JSON Web 加密）. 它就像一个抽象类——JWS 和 JWE 是具体的实现.
 
@@ -237,7 +241,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [JWT.io](https://jwt.io) - 允许您解码、验证和生成 JWT.
 
-- [`loginsrv`](https://github.com/tarent/loginsrv) - 独立简约登录服务器，为多个登录后端（htpasswd、OSIAM、用户/密码、HTTP 基本身份验证、OAuth2：GitHub、Google、Bitbucket、Facebook、Gitlab）提供 JWT 登录.
+- [`loginsrv`](https://github.com/tarent/loginsrv) - 独立的简约登录服务器，为多个登录后端（htpasswd、OSIAM、用户/密码、HTTP 基本身份验证、OAuth2：GitHub、Google、Bitbucket、Facebook、Gitlab）提供 JWT 登录.
 
 ### OAuth2 & OpenID
 
@@ -249,21 +253,21 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/) - 以简化格式描述协议的参考文章，以帮助开发人员和服务提供商实现它.
 
-- [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从关于这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱，以使其不那么令人生畏.
+- [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从关于这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱以使其不那么令人生畏.
 
 - [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 关于 Teleport（一种开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实用案例研究的一个很好的概述.
 
 - [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - 一张不错的总结卡.
 
-- [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps)  - 有多个遗留系统与他们自己的登录方法和帐户合并？ 以下是如何通过 OIDC 合并所有这些混乱.
+- [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps)  - 有多个遗留系统与他们自己的登录方法和帐户合并？ 这是通过 OIDC 的方式合并所有这些混乱的方法.
 
-- [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/)  - 中央身份验证服务 (CAS) 协议的 OAuth2 友好改编. 您会发现有很好的 OAuth 用户流程图.
+- [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/)  - 中央认证服务 (CAS) 协议的 OAuth2 友好改编. 你会发现有很好的 OAuth 用户流程图.
 
 - [The Decline of OpenID](https://penguindreams.org/blog/the-decline-of-openid/) - OpenID 在公共网络中被替换为 OAuth 1、OAuth 2 或其他专有 SSO 协议的混合.
 
 - [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)  - “他们这样做是为了提供消息级别的完整性.  OAuth 2 切换到传输级机密性/完整性.”  （由 TLS 提供）（[source](https://news.ycombinator.com/item?id=17486165)).
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以结合自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的相关新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新并扩展了 OAuth 2.0 安全威胁模型，以结合自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而相关的新威胁”.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
@@ -300,6 +304,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [Web Single Sign-On, the SAML 2.0 perspective](https://blog.theodo.com/2019/06/web-single-sign-on-the-saml-2-0-perspective/) - 在企业 SSO 实施的背景下对 SAML 工作流程的另一种幼稚解释.
 
 - [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml)  - SAML 有时很神秘. 另一个类比可能有助于从中获得更多意义.
+
+- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/)  - 不仅奇怪，SAML 在设计上也是不安全的，因为它依赖于基于 XML 规范化的签名，而不是 XML 字节流. 这意味着您可以利用 XML 解析器/编码器的差异.
 
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues) - 关于单点注销实施的技术和用户体验问题.
 
@@ -341,6 +347,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/)  - 饼干合并来自 cookie、JWT、杏仁饼和 Open Policy Agent 的概念.  “它提供了一种基于 Datalog 的逻辑语言来编写授权策略. 它可以存储数据（如 JWT）或小条件（如 Macaroons），但它还能够表示更复杂的规则，如基于角色的访问控制、委托、层次结构.”
 
+- [Oso](https://github.com/osohq/oso) - 包含电池的库，用于在您的应用程序中构建授权.
+
 ### AWS policy tools
 
 专门针对 [AWS IAM policies](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) 生态系统.
@@ -351,19 +359,19 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  - 手动编写具有安全意识的 IAM 策略可能非常乏味且效率低下.  Policy Sentry 可帮助用户在几秒钟内创建最低权限策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是新事物的默认策略是拒绝所有，然后它会监控 cloudtrail 是否有权限失败并重新配置 IAM 以允许最小的权限来摆脱拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是新事物的默认策略是拒绝所有，然后它会监控 cloudtrail 是否有权限失败，并重新配置 IAM 以允许最小的权限摆脱拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) - 快速评估权限.
 
 - [PolicyUniverse](https://github.com/Netflix-Skunkworks/policyuniverse) - 解析和处理 AWS 策略、语句、ARN 和通配符.
 
-- [IAM Floyd](https://github.com/udondan/iam-floyd)  - 具有流畅界面的 AWS IAM 策略语句生成器. 通过 IntelliSense 提供条件和 ARN 生成，帮助创建类型安全的 IAM 策略并编写更具限制性/安全性的语句. 适用于 Node.js、Python、.Net 和 Java.
+- [IAM Floyd](https://github.com/udondan/iam-floyd)  - 具有流畅界面的 AWS IAM 策略语句生成器. 通过 IntelliSense 提供条件和 ARN 生成，帮助创建类型安全的 IAM 策略并编写更具限制性/安全的语句. 适用于 Node.js、Python、.Net 和 Java.
 
-- [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，它根据已登录账户的授权级别管理多个账户的权限，为最终用户和管理员提供凭证和控制台访问权限，同时鼓励使用最低权限的权限.
+- [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，可根据他们在多个账户中管理权限的授权级别为最终用户和管理员提供凭证和控制台访问权限，同时鼓励使用最低权限的权限.
 
 ### Macaroons
 
-分发和委派授权的聪明好奇心.
+分发和委托授权的聪明好奇心.
 
 - [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果我得到一个 Macaroon，它授权我在某些限制下执行某些操作，我可以非交互式地构建第二个 Macaroon，并具有更严格的限制，然后我可以将其提供给您.
 
@@ -387,7 +395,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [`truffleHog`](https://github.com/dxa4481/truffleHog) - 在 git 存储库中搜索高熵字符串和秘密，深入挖掘提交历史.
 
-- [Keywhiz](https://square.github.io/keywhiz/) - 用于管理和分发机密的系统，可以很好地适应面向服务的体系结构 (SOA).
+- [Keywhiz](https://square.github.io/keywhiz/) - 一个管理和分发秘密的系统，可以很好地适应面向服务的架构（SOA）.
 
 - [`roca`](https://github.com/crocs-muni/roca) - 用于检查各种密钥格式的弱 RSA 模数的 Python 模块.
 
@@ -401,7 +409,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [CrypTech](https://cryptech.is) - 一个开放的硬件 HSM.
 
-- [Keystone](https://keystone-enclave.org) - 基于 RISC-V 架构的开源项目，用于构建具有安全硬件飞地的可信执行环境 (TEE).
+- [Keystone](https://keystone-enclave.org) - 基于 RISC-V 架构，用于构建具有安全硬件飞地的可信执行环境 (TEE) 的开源项目.
 
 - [Project Oak](https://github.com/project-oak/oak) - 数据安全传输、存储和处理的规范和参考实现.
 
@@ -419,7 +427,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 <!--lint disable double-link-->
 
-- [Awesome List of Billing and Payments: Fraud links](https://github.com/kdeldycke/awesome-billing#fraud) - 专门用于计费和支付欺诈管理的部分，来自我们的姐妹存储库.
+- [Awesome List of Billing and Payments: Fraud links](https://github.com/kdeldycke/awesome-billing#fraud) - 专门用于计费和付款欺诈管理的部分，来自我们的姐妹存储库.
 
 <!--lint enable double-link-->
 
@@ -429,7 +437,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 这篇论文是针对身份元系统的，它的法则在小范围内仍然提供了很好的见解，尤其是第一法则：始终允许用户控制并征求同意以赢得信任.
 
-- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  - “为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
+- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  -“为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
 
 - [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - 客户姓名匹配有很多应用，从帐户重复数据删除到欺诈监控.
 
@@ -439,7 +447,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 ### Fraud
 
-作为在线服务提供商，您会面临欺诈、犯罪和滥用的风险. 你会惊讶于人们在金钱方面变得多么聪明. 预计工作流程中的任何错误或差异都会被利用以获取经济利益.
+作为在线服务提供商，您面临欺诈、犯罪和滥用的风险. 你会惊讶于人们在金钱方面变得多么聪明. 预计工作流程中的任何错误或差异都会被利用以获取经济利益.
 
 - [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://archive.is/MuNrZ) - 为什么背景调查有时是必要的.
 
@@ -451,15 +459,15 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 ### Moderation
 
-任何在线社区，不仅仅是与游戏和社交网络相关的社区，都需要其运营商投入大量资源和精力来进行调节.
+任何在线社区，不仅是与游戏和社交网络相关的社区，都需要其运营商投入大量资源和精力来进行调节.
 
 - [Still Logged In: What AR and VR Can Learn from MMOs](https://youtu.be/kgw8RLHv1j4?t=534)  - “如果你主持一个在线社区，人们可以在那里伤害另一个人：你就陷入困境. 如果您负担不起陷入困境，请不要举办在线社区.”
 
 - [Keep out the bad apples: How to moderate a marketplace](https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate)  - “拥有权利的同时也被赋予了重大的责任. 我的一些提示和技巧可以让您的市场变得更安全.”
 
-- [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/)  - 大量的外包分包商负责管理庞大的社交网络. 这些人面临最糟糕的情况，通常最终会患上创伤后应激障碍.
+- [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/)  - 大量的外包分包商负责管理庞大的社交网络. 这些人处于最糟糕的境地，通常最终会患上创伤后应激障碍.
 
-- [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - 关于这些薪酬过低人员删除帖子和删除帐户的团队的纪录片.
+- [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - 一部关于这些薪酬过低的人删除帖子和删除帐户的团队的纪录片.
 
 ### Threat Intelligence
 
@@ -467,7 +475,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - “威胁情报的简明定义：基于证据的知识，包括背景、机制、指标、影响和可操作的建议，关于现有或新出现的威胁或资产危害，可用于为有关主体对该威胁的反应的决策提供信息或危险.”
 
-- [SpiderFoot](https://github.com/smicallef/spiderfoot)  - 一种开源智能 (OSINT) 自动化工具. 它与几乎所有可用的数据源集成，并使用一系列数据分析方法，使数据易于导航.
+- [SpiderFoot](https://github.com/smicallef/spiderfoot)  - 一种开源情报 (OSINT) 自动化工具. 它与几乎所有可用的数据源集成，并使用一系列数据分析方法，使数据易于导航.
 
 - [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - 支持威胁情报分析的开放标准、工具和方法.
 
@@ -477,7 +485,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [The challenges of file formats](https://speakerdeck.com/ange/the-challenges-of-file-formats)  - 在某一时刻，您将允许用户在您的系统中上传文件. 这里有一个 [corpus of suspicious media files](https://github.com/corkami/pocs) 诈骗者可以利用它来绕过安全性或欺骗用户.
 
-- [SecLists](https://github.com/danielmiessler/SecLists)  - 收集在安全评估期间使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、fuzzing 负载、web shell 等等.
+- [SecLists](https://github.com/danielmiessler/SecLists)  - 收集在安全评估期间使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、fuzzing 有效载荷、web shell 等等.
 
 - [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - 网络钓鱼工具包中威胁参与者使用的电子邮件地址的 CSV 数据库.
 
@@ -503,7 +511,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)  - 非常适合此用例，因为布隆过滤器旨在快速检查元素是否不在（大）集合中. 特定数据类型存在布隆过滤器的变体.
 
-- [How Radix trees made blocking IPs 5000 times faster](https://blog.sqreen.com/demystifying-radix-trees/) - 基数树可能有助于加速 IP 阻止列表.
+- [How Radix trees made blocking IPs 5000 times faster](https://blog.sqreen.com/demystifying-radix-trees/) - 基数树可能会派上用场来加速 IP 阻止列表.
 
 ### Hostnames and Subdomains
 
@@ -553,7 +561,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - 来自 Shutterstock 的亵渎阻止列表.
 
-- [`profanity-check`](https://github.com/vzhou842/profanity-check) - 使用线性 SVM 模型在 20 万个人类标记的干净和亵渎文本字符串的样本上训练.
+- [`profanity-check`](https://github.com/vzhou842/profanity-check) - 使用线性 SVM 模型训练了 20 万个人类标记的干净和亵渎文本字符串的样本.
 
 ## Privacy
 
@@ -577,11 +585,11 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 作为用户数据的中央存储库，IAM 堆栈利益相关者必须防止任何业务和客户数据的泄漏. 为了允许内部分析，需要匿名化.
 
-- [The False Allure of Hashing for Anonymization](https://gravitational.com/blog/hashing-for-anonymization/)  - 散列不足以匿名化. 但对于化名（GDPR 允许）来说，它仍然足够好.
+- [The False Allure of Hashing for Anonymization](https://gravitational.com/blog/hashing-for-anonymization/)  - 散列不足以匿名化. 但是对于化名（GDPR 允许）来说，它仍然足够好.
 
 - [Four cents to deanonymize: Companies reverse hashed email addresses](https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/) - “散列的电子邮件地址可以很容易地反转并链接到个人”.
 
-- [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - 解释背后的直觉 [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) ，一种理论框架，允许在不影响机密性的情况下共享聚合数据. 见后续文章 [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) 和 [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
+- [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - 解释背后的直觉 [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) ，一种理论框架，允许在不影响机密性的情况下共享聚合数据. 见后续文章 [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) and [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 
 - [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - 另一种匿名隐私模型.
 
@@ -613,7 +621,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
 
-- [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - Covers all the important facets of user onboarding.
+- [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - 涵盖用户入职的所有重要方面.
 
 - [User Onboarding Teardowns](https://www.useronboard.com/user-onboarding-teardowns/) - 大量解构的首次用户注册.
 
@@ -625,7 +633,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [11 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) - 关于登录表单的一些基本提示.
 
-- [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) - 创建简单、可链接、可预测且与密码管理器配合良好的登录表单.
+- [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) - 创建简单、可链接、可预测并与密码管理器配合使用的登录表单.
 
 - [Why are the username and password on two different pages?](https://www.twilio.com/blog/why-username-and-password-on-two-different-pages)  - 支持 SSO 和基于密码的登录. 现在，如果将登录漏斗分为 2 个步骤对用户来说太过分了，请像 Dropbox 一样解决这个问题： [an AJAX request when you enter your username](https://news.ycombinator.com/item?id=19174355).
 
@@ -635,19 +643,15 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221)  - 通知很难. 真的很难.
 
-## Commercial Solutions
-
-- [Rippling IDM](https://www.rippling.com/idm/) - 身份管理、SSO.
-
 ## Competitive Analysis
 
-一堆资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
+一系列资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
 
 - [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - 添加到 IAM 边界的所有新功能的来源.
 
-- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 另外值得注意的是： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) 和 [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
+- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 还要注意： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) and [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
 
-- [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - 相关关键词： [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) 和 [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
+- [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - 相关关键词： [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) and [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
 
 - [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - DO 上的所有最新帐户更新.
 
@@ -665,7 +669,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 是基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) 经过 [Ben Sweet](https://unsplash.com/@benjaminsweet).
+The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) 经过 [Ben Sweet](https://unsplash.com/@benjaminsweet).
 
 <!--lint disable no-undefined-references-->
 
