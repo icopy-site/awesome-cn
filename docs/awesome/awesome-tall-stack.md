@@ -34,8 +34,9 @@ The [TALL stack](https://tallstack.dev/) 是一个全栈开发解决方案，其
 - [Laravel TTALL Preset](https://github.com/pktharindu/ttall) - Turbolinks + TALL 堆栈的预设，捆绑了一些有用的包及其配置.
 - [Laravel Views](https://github.com/Gustavinho/laravel-views) - Laravel 包使用 TALL 堆栈创建漂亮的通用视图，如数据表.
 - [Livewire Datatables](https://github.com/mediconesystems/livewire-datatables) - 打包以创建具有排序、过滤、搜索、导出等功能的表格.
+- [MarkdownX](https://devdojo.com/markdownx) - 具有下拉菜单、图片上传、代码块等功能的高级 Markdown 编辑器.
 - [Tailwind UI](https://tailwindui.com)  - 使用 Tailwind CSS 构建的漂亮 UI 组件. 提供 Alpine.js 集成.
-- [TALL Forms](https://github.com/tanthammar/tall-forms) - 动态响应式 Laravel Livewire 表单组件，具有实时验证、文件上传、数组字段、刀片表单输入组件等.
+- [TALL Forms](https://github.com/tanthammar/tall-forms) - 动态响应式 Laravel Livewire 表单组件，具有实时验证、文件上传、数组字段、刀片表单输入组件等功能.
 - [X Blade Components](https://github.com/masterix21/x-blade-components) - 即用型刀片组件.
 
 ## Learning
@@ -56,6 +57,7 @@ The [TALL stack](https://tallstack.dev/) 是一个全栈开发解决方案，其
 图例：开源·闭源
 
 -  [aw-studio.de](https://aw-studio.de/) - [repository](https://github.com/aw-studio/aw-studio.de) - 使用 Laravel 和 Tailwind CSS 构建.
+-  [devdojo.com](https://devdojo.com) - 开发者社区和工具
 -  [driesvints.com](https://driesvints.com) - [repository](https://github.com/driesvints/driesvints.com) - 使用 Laravel 和 Tailwind CSS 构建.
 -  [fullstackbelgium.be](https://fullstackbelgium.be) - [repository](https://github.com/fullstackbelgium/fullstackbelgium.be) - 使用 Laravel 和 Tailwind CSS 构建.
 -  [fullstackeurope.com](https://fullstackeurope.com) - [repository](https://github.com/fullstackeurope/fullstackeurope.com) - 使用 Laravel、Alpine.js 和 Tailwind CSS 构建.
