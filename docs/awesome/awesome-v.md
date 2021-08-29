@@ -39,7 +39,7 @@
 ### Web
 
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
-- [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且反应灵敏的博客系统.
+- [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
 
 ### Graphics
@@ -50,13 +50,13 @@
 
 - [Boundstone](https://github.com/organization/boundstone) - 高性能/快速编译/轻量级 Minecraft：基岩版服务器.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - 经典的桨游戏通过 V 的力量重获生机.
-- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的学习演示（已存档）
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的飞扬学习演示（已存档）
 
 ### Command-line
 
 - [HN-top](https://github.com/BafS/hn-top) - 一个简单的命令来列出来自黑客新闻的最新消息.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，将 v 源文件生成为 AST json 文件.
-- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
+- [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译用各种编程语言编写的代码的工具.
 - [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
 - [vspect](https://github.com/zakuro9715/vspect) - 检查 vlang 源文件的工具.
@@ -77,7 +77,7 @@
 ### Command line interface (CLI) / Terminal / Shell
 
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！ 
-- [lol](https://github.com/0xLeif/lol) - lolcat 的 V 版（文本/字符彩虹器）.
+- [lol](https://github.com/0xLeif/lol) - lolcat 的 V 版本（文本/字符彩虹器）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
 - [vargs](https://github.com/nedpals/vargs)  - 用于从类似 argv 的数组中解析参数的 V 库.  （存档）
@@ -90,19 +90,20 @@
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - 用 V 编写的 ASCII 机器人生成器.
 - [iconv](https://github.com/fanlia/iconv) - 为 vlang 包装 iconv.
-- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现 
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
 
 ### Graphics
 
 - [vgl](https://github.com/justicesuh/vgl) - 低级图形 API 访问.
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl](https://github.com/kjlaw89/vsdl) - 基于 C 的 SDL 库的 V 包装器.
-- [vsdl2](https://github.com/nsauzede/vsdl2) - 一个 libSDL2 包装器.
+- [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [V Earcut](https://github.com/Larpon/earcut) - 基于的快速（实时）多边形三角剖分库 [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔洞、扭曲多边形、退化和自相交.
 
 ### Game development
 
-- [vraylib](https://github.com/MajorHard/vraylib) - V 包装器（绑定）用于 [raylib](https://www.raylib.com)，C游戏开发框架.
+- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - 更新了 V 绑定 [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
+- [vraylib](https://github.com/MajorHard/vraylib) - C 游戏开发框架 raylib 的 V 包装器（绑定）.
 
 ### Web
 
@@ -131,7 +132,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供原生 V-lang 支持
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供本机 V-lang 支持.
 
 ### Automation
 
@@ -160,7 +161,7 @@
 
 ### User Interface toolkits
 
-- [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
+- [V UI](https://github.com/vlang/ui) - 集成的跨平台 UI 工具包，适用于 Windows、macOS、Linux、Android、iOS 和 Web.
 - [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装器.
 - [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
@@ -172,7 +173,7 @@
 
 ### Utility
 
-- [range](https://github.com/Delta456/range) - V 中 Python 的 range() 的功能.
+- [range](https://github.com/Delta456/range) - V 中 Python 的 range() 功能.
 - [random](https://github.com/Delta456/random) - 一个用 V 编写的通用随机库.
 - [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
 
@@ -208,7 +209,7 @@
 ### Programming contests
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - V 中 Rosetta 代码的解决方案.
-- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中 Code 2019 的解决方案.
+- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中 Code 2019 出现的解决方案.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - 在 V 中实现 SoloLearn 编码挑战.
 
 ### Tutorials

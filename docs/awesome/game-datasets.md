@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-在计算机科学中，人工智能 (AI) 是由机器展示的智能. 它的定义是，人工智能研究是对“智能代理”的研究：任何感知其环境并采取行动以实现其目标的设备 _Russell et.  al (2016)_.   
+在计算机科学中，人工智能 (AI) 是由机器展示的智能. 它的定义是，人工智能研究是对“智能代理”的研究：任何感知其环境并采取行动以实现其目标的设备 _Russell 等.  al (2016)_.   
 
 数据挖掘 (DM) 是在数据集（或数据集）中发现模式的过程，涉及机器学习、统计和数据库系统的方法；  DM 专注于提取数据集的信息_Han (2011)_.  
 
@@ -14,15 +14,17 @@
    
 ---
 
+- [:video_game: Awesome Game Datasets ![Awesome](https://awesome.re)](#video_game-awesome-game-datasets-)
 
 ---
 ## API
 
-API 是_“一组函数和过程，允许创建访问操作系统、应用程序或其他服务的功能或数据的应用程序”_（谷歌）.  
+API 是_“一组函数和程序，允许创建访问操作系统、应用程序或其他服务的功能或数据的应用程序”_（谷歌）.  
 
 - [Battle.net](https://develop.battle.net/) - 由开发的游戏集合 [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) - 球员的统计数据、排名和进步.
 - [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - 棋盘游戏数据.
+- [Counter-Strike](https://github.com/pnxenopoulos/csgo) - Counter-Strike: Global Offensive (CSGO) 的数据解析.
 - [EVE Online](https://www.programmableweb.com/api/eve-online-crest-carbon-restful) - 科幻大型多人在线游戏.
 - [Giant Bomb](https://www.giantbomb.com/api/) - 游戏数据和玩家评论.
 - [IGDB](https://www.igdb.com/api) - 来自任何平台的游戏的一般信息.
@@ -35,7 +37,7 @@ API 是_“一组函数和过程，允许创建访问操作系统、应用程序
 - [Riot Games](https://developer.riotgames.com/) - 活跃的比赛、比赛历史和排名统计.
 - [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - 从超级马里奥制造游戏中搜索课程.
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - 阅读 Super Mario Maker 存档中的课程.
-- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - 从 Super Mario Maker 游戏中获取用户资料.
+- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - 从 Super Mario Maker 游戏中获取用户配置文件.
 - [Steam Database](https://github.com/SteamDatabase) - Steam数据的一系列工具. [Website](https://steamdb.info/).
 - [Steam Spy](https://github.com/topics/steamspy) - 来自 Steam 用户资料的游戏统计数据.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - 来自 Steam 的查询工具.
@@ -63,7 +65,7 @@ API 是_“一组函数和过程，允许创建访问操作系统、应用程序
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - 纸牌游戏比赛.
 - [Infinite Mario Bros](http://www.marioai.org/)  - 超级马里奥比赛. 平台游戏 AI 前身. [Website](http://julian.togelius.com/mariocompetition2009/).
 - [irrlamb](https://github.com/jazztickets/irrlamb) - 具有 3D 物理效果的益智游戏.
-- [Malmo](https://github.com/Microsoft/malmo) - 建立在平台之上 [Minecraft](https://www.minecraft.net/en-us/) 游戏.
+- [Malmo](https://github.com/Microsoft/malmo) - 建立在上面的平台 [Minecraft](https://www.minecraft.net/en-us/) 游戏.
 - [microRTS](https://github.com/santiontanon/microrts) - RTS游戏比赛. [PT-BR](https://github.com/rubensolv/MicroRTS).
 - [MiniDungeons](http://minidungeons.com/) - 程序性地牢般的游戏.
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - 合作游戏关卡编辑器. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
@@ -73,7 +75,7 @@ API 是_“一组函数和过程，允许创建访问操作系统、应用程序
 - [Platformer AI](https://sites.google.com/site/platformersai/) - 超级马里奥比赛.
 - [polyworld](https://github.com/polyworld/polyworld) - 人工生命系统.
 - [qengine](https://github.com/klaussilveira/qengine) - 复古游戏引擎.
-- [Retro Contest](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
+- [Retro Contest](https://github.com/openai/retro) - SEGA Genesis 游戏竞赛. [Website](https://openai.com/blog/retro-contest/).
 - [Robocode](https://robocode.sourceforge.io/) - 机器人战车比赛.
 - [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) - 口袋妖怪战斗的竞争. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf).
 - [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - 星际争霸比赛.
@@ -104,7 +106,7 @@ API 是_“一组函数和过程，允许创建访问操作系统、应用程序
 
 ---
 ## Books
- - Drachen、A. Mirza-Babaei、P. Nacke、L.（2018 年）.  _游戏用户研究_. 牛津.
+ - Drachen, A. Mirza-Babaei, P. Nacke, L. (2018).  _游戏用户研究_. 牛津.
  - El-Nasr, S. Drachen, A. Canossa, A. (2013).  _游戏分析：最大化玩家数据的价值_. 斯普林格.
  - Han, J., Pei, J., Kamber, M. (2011).  _数据挖掘：概念和技术_. 爱思唯尔.
  - Hennig-Thurau, T. Houston, M. (2018).  _娱乐科学：电影、游戏、音乐和书籍的数据分析和实践理论_. 斯普林格.
@@ -136,7 +138,7 @@ API 是_“一组函数和过程，允许创建访问操作系统、应用程序
 - [dnddata](https://github.com/oganm/dnddata) - 龙与地下城角色的数据集.
 - [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - 匹配结果.
 - [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - 玩家及其属性.
-- [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - 武器的统计数据.
+- [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - Stats of the weapons.
 - [Fortnite Statistics_80 Games](https://data.world/kreynol3/fortnite-statistics80-games) - 结束游戏统计.
 - [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - 比赛回放中的聊天记录.
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) - 来自 Grand Theft Auto 5 游戏的 2D 和 3D 图像.
