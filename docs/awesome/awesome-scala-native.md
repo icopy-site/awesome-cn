@@ -57,6 +57,7 @@
 * [GStreamer](https://github.com/jokade/scalanative-gstreamer) - 绑定 [GStreamer](https://gstreamer.freedesktop.org) 多媒体框架.
 * [Qt](https://github.com/jokade/scalanative-qt5) - 绑定 [Qt](https://www.qt.io).
 * [ncurses](https://github.com/edadma/ncurses) - 绑定 [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
+* [readline](https://github.com/edadma/readline) - 绑定 [GNU Readline Library](https://www.gnu.org/software/readline/).
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - 实施 [MessagePack](https://msgpack.org/)，一种二进制序列化格式.
