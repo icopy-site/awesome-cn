@@ -51,6 +51,7 @@
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - 用于在 R 中分析类药物小分子数据的化学信息学包.
 * [ChemPy](https://github.com/bjodah/chempy) - 一个对化学有用的 Python 包（主要是物理/无机/分析化学）
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - 在 Julia 中完全实现的基于图的分子建模和化学信息学分析工具包
+* [datamol](https://github.com/datamol-org/datamol) ： - 分子操纵变得容易. 构建在 RDKit 之上的轻量级包装器.
 
 <a id="lib-format"></a>
 ### Format Checking
@@ -63,7 +64,7 @@
 ### Visulization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - 前端 JavaScript 库，用于提供在 Web 浏览器上表示、绘制、编辑、比较和搜索分子结构的能力.
-* [3Dmol.js](https://github.com/3dmol/3Dmol.js) - 一个面向对象、基于 webGL 的 JavaScript 库，用于在线分子可视化.
+* [3Dmol.js](https://github.com/3dmol/3Dmol.js) - 一个面向对象的、基于 webGL 的 JavaScript 库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - 基于化学二维结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - 使用 PySide 的简单 RDKit 分子编辑器 GUI.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Jupyter 笔记本的交互式分子图形.
@@ -95,13 +96,13 @@
 * [PubChemPy](http://pubchempy.readthedocs.io) - PubChem PUG REST API 的 Python 包装器.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) - ChemSpider API 的 Python 包装器.
 * [CIRpy](http://cirpy.readthedocs.org/) - Python 包装器 [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
-* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 在 [Tornado](http://www.tornadoweb.org/en/stable/).
 * [chemminetools](https://github.com/girke-lab/chemminetools) - 基于 Django 的用于小分子分析的开源 Web 框架.
 
 <a id="lib-db"></a>
 ### Databases
 
-* [razi](https://github.com/rvianello/razi) - SQLAlchemy 数据库的化学信息学扩展.
+* [razi](https://github.com/rvianello/razi) - SQLAlchemy 数据库的化学信息扩展.
 
 <a id="lib-dock"></a>
 ### Docking
@@ -136,7 +137,7 @@
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - 使用开源包和数据的计算机辅助药物设计 (CADD) 教学平台.
 * [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - 罗伯特·贝尔福德 (Robert Belford) 的阿肯色大学小石城大学合作校际在线化学课程 (OLCC) 课程的化学信息学课程
-* [BigChem](http://bigchem.eu/alllectures) - 所有讲座 [BigChem](http://bigchem.eu/) （地平线 2020 MSC ITN EID 项目，提供大型化学数据分析方面的创新教育.）
+* [BigChem](http://bigchem.eu/alllectures) - 所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID 项目，提供大型化学数据分析方面的创新教育.）
 * [Molecular modeling course](https://dasher.wustl.edu/chem478/) - 由博士 [Jay Ponder](https://dasher.wustl.edu/)，来自华盛顿大学圣路易斯分校的教授.
 * [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - 由博士 [Jay Ponder](https://dasher.wustl.edu/)，来自华盛顿大学圣路易斯分校的教授.
 
@@ -156,7 +157,7 @@
 * [Asad's Blog](https://chembioinfo.com/) - Syed Asad Rahman 的 Bolg，他是该领域的研究科学家 [Thornton group](http://www.ebi.ac.uk/research/thornton) 在 EMBL-EBI.
 -->
 * [steeveslab-blog](http://asteeves.github.io/) - 一些使用的例子 [RDKit](http://www.rdkit.org/).
-* [Macs in Chemistry](http://www.macinchem.org/) - 为使用 Apple Macintosh 计算机的化学家提供资源.
+* [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) - 博客 [Andreas Bender](http://www.andreasbender.de/)，他是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) - 化学信息学图书馆的一些例子.
 * [Cheminformatics 2.0](https://cheminf20.org/) - 博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，协作药物发现的研究科学家.

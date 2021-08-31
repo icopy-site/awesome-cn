@@ -43,7 +43,7 @@
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): 仅在访问时计算其值
   * [Duratom](https://github.com/jimpil/duratom): 持久化原子
   * [Durable Queue](https://github.com/Factual/durable-queue)：队列保留在磁盘上
-  * [bifurcan](https://github.com/lacuna/bifurcan): 线性映射/设置/列表（在内存中连续存储条目），; 用 java 编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/设置/列表（在内存中连续存储条目），；用java编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
@@ -63,7 +63,7 @@
 
 ## Dependency injection
 
-*有状态对象的管理生命周期*
+*有状态对象的托管生命周期*
 
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
@@ -327,6 +327,7 @@
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
   * [Infer](https://github.com/aria42/infer)
+  * [clj-synapses](https://github.com/mrdimosthenis/clj-synapses)
 
 ## Computer Vision
 
@@ -397,7 +398,7 @@
 
 ## Miscellaneous
 
- * [potemkin](https://github.com/ztellman/potemkin) - 在另一个 ns 中重新导出 vars / 像 clojure 地图一样
+ * [potemkin](https://github.com/ztellman/potemkin) - 在另一个 ns 中重新导出变量 / 像 clojure 地图一样
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [virgil](https://github.com/ztellman/virgil)
@@ -466,7 +467,7 @@
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Clojure 函数式编程和 TDD 介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 一次一个函数的介绍
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日函数”系列的更多高级视频.
 
 ## Websites
 
