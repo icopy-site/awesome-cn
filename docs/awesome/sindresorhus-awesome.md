@@ -30,7 +30,7 @@
 			</div>
 			<b>所有环境变量，集中在一处</b>
 			<div>
-				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
+				<sub>不要再为分散的 API 密钥苦苦挣扎，不要再将自制工具组合在一起了，</sub>
 				<br>
 				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
 			</div>
@@ -54,7 +54,7 @@
 			</div>
 			<b>Strapi 是领先的开源无头 CMS.</b>
 			<div>
-				<sup>它是 100% JavaScript，完全可定制，开发人员优先.</sup>
+				<sup>它是 100% 的 JavaScript，完全可定制且开发人员优先.</sup>
 			</div>
 		</a>
 		<br>
@@ -74,7 +74,7 @@
 			</div>
 			<b>即时、可共享的云 PostgreSQL 数据库</b>
 			<div>
-				<sup>在几秒钟内导入任何数据集，单击即可与任何人共享，无需注册即可尝试</sup>
+				<sup>在几秒钟内导入任何数据集，单击与任何人共享，无需注册即可尝试</sup>
 			</div>
 		</a>
 		<br>
@@ -139,7 +139,7 @@
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在 Node.js 上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - 适用于苹果手机和平板电脑的移动操作系统.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - 谷歌开发的移动操作系统.
+- [Android](https://github.com/JStumpp/awesome-android#readme) - 由谷歌开发的移动操作系统.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - 使用 JavaScript/HTML/CSS 的跨平台原生桌面应用程序.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - 用于混合应用程序的 JavaScript API.
@@ -149,8 +149,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - 虚拟机，可让您为 Linux 系统编写更高效、更强大的跟踪和监控.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - 基于 Arch Linux 的 Linux 发行版和项目.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - 苹果 Mac 电脑的操作系统.
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - 适用于 Apple Mac 计算机的操作系统.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
@@ -205,7 +204,7 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - 任务运行器.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - 您可以在 30 秒内理解的代码片段.
-	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - 类似于 polyfills，但不覆盖原生 API.
+	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - 像 polyfills 但不覆盖原生 API.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple 编译的编程语言，安全、现代、程序员友好且快速.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
@@ -231,7 +230,7 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme) - 高级动态编程语言，旨在满足高性能数值分析和计算科学的需求.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/inputsh/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - 偏向于系统编程和嵌入式、资源受限软件的通用语言.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - 偏向于系统编程和嵌入式资源受限软件的通用语言.
 - [R](https://github.com/qinwf/awesome-R#readme) - 用于统计计算和图形的函数式编程语言和环境.
 	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [D](https://github.com/dlang-community/awesome-d#readme)
@@ -405,7 +404,7 @@
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - 用于训练和部署模型的 WebGL 加速机器学习 JavaScript 库.
 	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 为设备上的机器学习优化 TensorFlow 模型的框架.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 引用次数最多的深度学习论文.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 被引用次数最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
@@ -461,7 +460,7 @@
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - 游戏引擎.
+- [Godot](https://github.com/godotengine/awesome-godot#readme) - 游戏引擎.
 - [Open Source Games](https://github.com/leereilly/games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - 游戏引擎.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
@@ -497,7 +496,7 @@
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - 增强`git` CLI.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - 用于在`git` 工作流中自动执行任务的脚本.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - 用于在“git”工作流中自动执行任务的脚本.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于网络技术构建的跨平台终端应用程序.
@@ -530,7 +529,7 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - 帮助使用非关系、分布式、开源和水平可扩展的数据库.
 - [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - 从不同的支持数据存储（如 ElasticSearch 和 MongoDB）中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - 使使用数据库更容易的一切.
-- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - 逻辑数据库将庞大而复杂的数据网络组织为一个知识体系.
+- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - 逻辑数据库，将庞大而复杂的数据网络组织为一个知识体系.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - 开源、分布式、宽列存储、NoSQL 数据库管理系统.
 
 ## Media
@@ -564,7 +563,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于 CSS——语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 学习如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供清晰的途径来提高您的知识和技能.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您有关技术的知识.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您技术知识.
 
 ## Security
 
@@ -579,7 +578,7 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的艺术.
-- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统安全缺陷的个人群体.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统中安全缺陷的个人群体.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 涉及提供伪随机生成的输入数据的自动化软件测试技术.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - 欧盟内所有个人的数据保护和隐私法规.
@@ -616,7 +615,7 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - 公司在 Hacker News 上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - 用技术应对气候变化.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - 提供高度的态势感知，以帮助改进战略规划和决策.
-- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - 建立一个主要关注社会影响的组织，至少部分自筹资金.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - 建立一个主要关注至少部分自筹资金的社会影响的组织.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 以开发者为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 付款、发票、定价、会计、市场、欺诈和商业智能.
@@ -649,7 +648,7 @@
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - 用于智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 用于人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 一个支持工业规模应用的去中心化操作系统.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为企业设计的开源区块链平台.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为商业设计的开源区块链平台.
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - 用于 Web 3.0 应用程序和去中心化解决方案的开源区块链平台和开发工具集.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - 在 Rust 中编写可扩展、可升级的区块链的框架.
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - 计算资源的开源点对点市场.
@@ -665,7 +664,7 @@
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - 全球范围内有关创意编码、技术、设计、音乐、艺术和酷炫事物的活动.
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - 意大利的科技相关活动.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - 荷兰的科技相关活动.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - 荷兰的技术相关活动.
 
 ## Testing
 
@@ -784,7 +783,7 @@
 - [Product Design](https://github.com/matttga/awesome-product-design#readme) - 从最初的概念到生产设计产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将您的数据库变成 GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
-- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及以什么条件访问.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及访问条件.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用程序和功能的技术堆栈.
 - [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - 计算生物学家基于图像的生物表型分析.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - 开源消息传递协议.

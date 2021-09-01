@@ -10,12 +10,12 @@
   * [Bahmni](https://www.bahmni.org) - 电子病历和医院系统.
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) - 由医生设计的电子病历软件.
   * [GNU Health](https://www.gnuhealth.org) - 电子病历、医院管理和健康信息系统.
-  * [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
+  * [GNUmed](https://www.gnumed.de/documentation/) - 电子病历软件.
   * [EHRBase](https://ehrbase.org) OpenEHR 临床数据存储库.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
   * [ERPNext](https://erpnext.com/open-source-healthcare) - 帮助管理患者、预约、咨询、实验室测试和计费的模块.
   * [EtherCIS](http://ethercis.org) - 企业临床数据存储库.
-  * [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
+  * [FreeMedForms EMR](https://freemedforms.com/fr/start) - 电子病历软件.
   * [HospitalRun](https://hospitalrun.io) - 帮助为资源最少的环境提供最现代化的医院信息系统.
   * [Hospital OS](http://www.hospital-os.com) - 泰国医院信息系统.
   * [HOSxP](https://hosxp.net/joomla25/) - 泰国医院信息系统，旨在简化医疗中心和中央医院的医疗工作流程.
@@ -48,7 +48,7 @@
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - 一套药品管理应用程序，可提高处方和药品管理的安全性和效率.
 
 ### Nursing
-  * [open-eObs](https://openeobs.github.io/) - 观察和临床评估平台，可提供病房内所有患者的实时视图.
+  * [open-eObs](https://openeobs.github.io/) - 观察和临床评估平台，提供整个病房内所有患者的实时视图.
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - 用于分析、可视化和理解医学图像数据的跨平台应用程序.
@@ -81,11 +81,11 @@
 
 ### Frameworks
   * [API Server](https://github.com/smart-on-fhir/api-server) - FHIR 服务器支持面向患者和临床医生的应用程序.
-  * [CareKit](https://github.com/carekit-apple/CareKit/) - 用于创建帮助人们更好地了解和管理健康的应用程序的开源软件框架.
+  * [CareKit](https://github.com/carekit-apple/CareKit/) - 开源软件框架，用于创建帮助人们更好地了解和管理健康的应用程序.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - 适用于 FDA、HIPAA 和 HL7 兼容应用的 Meteor.
   * [FHIRBase](https://fhirbase.github.io) - 基于 FHIR 标准的存储.
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - 在与 Azure API 之间传输 FHIR 数据时充当中介的安全应用程序.
-  * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR 适用于 AWS 部署.
+  * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR Works on AWS deployment.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - FHIR 标准的 .NET Core 实现.
   * [IBM FHIR Server](https://github.com/IBM/FHIR) - HL7 FHIR 规范第 4 版的模块化 Java 实现.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - GoLang 中的通用 FHIR 服务器实现.
@@ -97,6 +97,7 @@
 ### Libraries
   * [Archie](https://github.com/openehr/archie) - 用 Ja​​va 编写的 OpenEHR 库.
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
+  * [Datamol](https://github.com/datamol-org/datamol)  - 分子操纵变得容易. 构建在 RDKit 之上的轻量级 Python 包装器.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM 工具包.
   * [dicom](https://github.com/suyashkumar/dicom) - GoLang 中的高性能 DICOM 医学图像解析器.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
@@ -113,7 +114,7 @@
   * [php-fhir](https://github.com/dcarbone/php-fhir) - 根据 HL7 FHIR 规范创建 PHP 类的工具.
   * [pynetdicom](https://github.com/pydicom/pynetdicom) - DICOM 网络协议的 Python 实现.
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - 用于将 HL7 版本 2.x 的消息解析为 Python 对象的简单库.
-  * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - 适用于 FHIR 服务器的灵活 Python 客户端，支持 FHIR 协议上的 SMART.
+  * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - 灵活的 Python 客户端，用于 FHIR 服务器，支持 FHIR 协议上的 SMART.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - Ruby 中的 FHIR 客户端实现.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 库.
 
@@ -175,4 +176,4 @@
 
 ### Logistics
   * [ID3C](https://github.com/seattleflu/id3c) - 支持实时基因组流行病学的数据物流系统.
-  * [OpenLMIS](https://openlmis.org) - 开源、基于网络的电子物流管理信息系统 (LMIS) 软件，专门用于管理健康商品供应链.
+  * [OpenLMIS](https://openlmis.org) - 基于网络的开源电子物流管理信息系统 (LMIS) 软件，专门用于管理健康商品供应链.

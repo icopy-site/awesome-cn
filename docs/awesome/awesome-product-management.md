@@ -204,6 +204,8 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 经过 [Glenn Gillen](https://twitter.com/glenngillen).
 - [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
+- [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - 经过 [Roy Cobby](https://twitter.com/roycobby).
+- [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://twitter.com/christineitwaru).
 
 ## Books
 
@@ -244,6 +246,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 | <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        | 盖伊·拉兹 |  https://www.npr.org/podcasts/510313/how-i-built-this |  Guy Raz 深入探讨了一些世界上最著名的公司背后的故事. 我是如何建立这本书编织了一段关于创新者、企业家和理想主义者以及他们所建立的运动的叙事旅程.  |
 | <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                    | 多个 |  https://www.gimletmedia.com/the-pitch | 真正的企业家向真正的投资者推销——为了真钱.  |
 | <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                       | 多个 |  https://rework.fm/ |  Basecamp 关于更好的工作和经营方式的播客. 我们为您带来 Basecamp 联合创始人和其他企业主的故事和非常规智慧.  |
+| <img alt="Art Of Product" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-art-of-product.jpg" width="100px" />       | 多个 |  https://artofproductpodcast.com/ | 记录两位企业家建立软件公司的历程.  |
 
 ## Communities
 
@@ -252,6 +255,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [The Product Coalition](https://productcoalition.com/) （_使用 [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) （_使用 [Slack](https://slack.com/)_)
 - [Ladder](https://ladder.to/)
+- [Product Circle](https://productcircle.to/)
 
 ## Conferences
 
