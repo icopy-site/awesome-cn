@@ -11,7 +11,6 @@
 
 
 ## Tools
-
 ### OneNote
 
 高效的笔记与卓越的组织能力. 与基于团队的工作流程轻松集成，其中来自同一笔记本的笔记可以与许多人共享.
@@ -34,7 +33,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
  | 物业 | 价值 |
 |-----------|--------------------------------------------|
  | 开发商 | [Shiny Frog](http://www.shinyfrog.net/)    |
-| Cost      | Freemium (_$16/yr subscription available_) |
+ | 成本 | 免费增值（_$16/yr 订阅可用_）|
  | 平台 |  macOS、iOS |
  | 网址 |  https://bear.app/ |
 
@@ -48,6 +47,19 @@ Markdown 格式的笔记，具有基于标签的组织功能.
  | 成本 | 免费增值（_$9.99/mo+ 订阅可用_）|
  | 平台 |  macOS、Windows、iOS、Android、网络 |
  | 网址 |  https://trello.com/ |
+
+### Taiga
+
+ Taiga 是多功能敏捷团队的项目管理工具. 它具有丰富的功能集，同时通过其直观的用户界面开始使用非常简单.
+
+![Switching zoom modes in Kanban section](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-taiga.gif)
+
+ | 物业 | 价值 |
+|-----------|-----------------------------------------------------------------------------------------|
+ | 开发商 | [Kaleidos](https://kaleidos.net/)                                                       |
+ | 成本 | 免费（自托管）或 [Freemium](https://www.taiga.io/)|
+ | 平台 |  macOS、Windows、iOS、Android、Web |
+ | 网址 |  https://www.taiga.io/ |
 
 ### To-Do
 
@@ -143,7 +155,7 @@ productboard 是一个产品管理系统，可帮助您了解用户的需求、�
  | 物业 | 价值 |
 |-----------|--------------------------------------------------------------------|
  | 开发商 | [productboard](https://www.productboard.com/)                      |
- | 成本 | 付费（起价 _$49/月_）|
+| Cost      | Paid (starts at _$49/month_)                                       |
  | 平台 | 网站 |
  | 网址 |  https://productboard.com |
 
@@ -206,6 +218,8 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - 经过 [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://twitter.com/christineitwaru).
+- [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - 经过 [Ken Norton](https://twitter.com/kennethn).
+- [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - 经过 [Ken Norton](https://twitter.com/kennethn).
 
 ## Books
 
@@ -235,6 +249,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - 理查德·W·汉明（Richard W. Hamming）.
 - [Shape Up](https://basecamp.com/shapeup/webbook) - 瑞安·辛格.
 - [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - 约书亚赛登.
+- [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - 道格拉斯·斯通.
 
 ## Podcasts
 

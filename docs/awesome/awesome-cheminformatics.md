@@ -13,7 +13,7 @@
 <a id="app-visualization"></a>
 ### Visualization
 
-* [PyMOL](https://sourceforge.net/projects/pymol/) - Python 增强的分子图形工具.
+* [PyMOL](https://sourceforge.net/projects/pymol/) - Python-enhanced molecular graphics tool.
 * [Jmol](http://jmol.sourceforge.net/) - 基于浏览器的 HTML5 查看器和用于 3D 化学结构的独立 Java 查看器.
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) - 使用 3-D 图形和内置脚本显示、动画和分析大型生物分子系统的分子可视化程序.
 * [Chimera](https://www.cgl.ucsf.edu/chimera/) - 用于交互式分子可视化和分析的高度可扩展程序. [Source](https://www.cgl.ucsf.edu/chimera/docs/sourcecode.html) 可用.
@@ -61,13 +61,14 @@
 * [rd_filters](https://github.com/PatWalters/rd_filters) - 使用 RDKit 和 ChEMBL 运行结构警报的脚本
 
 <a id="lib-visualization"></a>
-### Visulization
+### Visualization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - 前端 JavaScript 库，用于提供在 Web 浏览器上表示、绘制、编辑、比较和搜索分子结构的能力.
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) - 一个面向对象的、基于 webGL 的 JavaScript 库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - 基于化学二维结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - 使用 PySide 的简单 RDKit 分子编辑器 GUI.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Jupyter 笔记本的交互式分子图形.
+* [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - 来自 RDKit 的化学信息学功能的官方 JavaScript 发行版 - 化学信息学的 C++ 库.
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
@@ -157,7 +158,7 @@
 * [Asad's Blog](https://chembioinfo.com/) - Syed Asad Rahman 的 Bolg，他是该领域的研究科学家 [Thornton group](http://www.ebi.ac.uk/research/thornton) 在 EMBL-EBI.
 -->
 * [steeveslab-blog](http://asteeves.github.io/) - 一些使用的例子 [RDKit](http://www.rdkit.org/).
-* [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
+* [Macs in Chemistry](http://www.macinchem.org/) - 为使用 Apple Macintosh 计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) - 博客 [Andreas Bender](http://www.andreasbender.de/)，他是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) - 化学信息学图书馆的一些例子.
 * [Cheminformatics 2.0](https://cheminf20.org/) - 博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，协作药物发现的研究科学家.

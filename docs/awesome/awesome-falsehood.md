@@ -49,14 +49,14 @@
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：缺少小数点会导致 100 倍的多收费.
 - [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用它们注册了`\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和`SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
-- [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - 由于叛乱、入侵、新宪法和缓慢的计划采用，货币有效期范围重叠.
+- [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - 由于叛乱、入侵、新宪法和缓慢的计划采用，货币有效日期范围重叠.
 - [`tax`](https://github.com/commerceguys/tax) - PHP 5.4+ 税务管理库.
 
 ## Dates and Time
 
 - [Falsehoods about Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - 关于日期和时间的开创性文章.
 - [More Falsehoods about Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)  - 部分. 上面文章的2.
-- [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - 另一个涉及与时间有关的谎言，重点是时区.
+- [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - 另一种是与时间有关的谎言，重点是时区.
 - [Critique of Falsehoods about Time](https://gist.github.com/thanatos/eee17100476a336a711e) - 接受了上面的第一篇文章，并提供了对每个错误的解释，并提供了更多的上下文和外部资源.
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 注意闰秒\！
 - [Falsehoods about Time Zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/) - 关于 DST 转换的边缘情况有一些很好的观点.
@@ -64,8 +64,8 @@
 - [Time Zone Database](https://www.iana.org/time-zones) - 代表全球许多代表性地点的当地时间历史的代码和数据.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - 大多数计时方面的特质都可以在历史中找到解释.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你原因.
-- [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区可能听起来是个好主意，但有很多复杂因素使它不完全如此.
-- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 关于为什么你永远不应该处理时区的视频，如果你能帮忙的话.
+- [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区可能听起来是个好主意，但有很多复杂因素使其并非如此.
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一个关于为什么你永远不应该处理时区的视频，如果你能帮忙的话.
 - [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误日历会计的后果.
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有一些关于日期和时间（特别是 UTC）的边缘情况，您可能没有想到.
@@ -75,13 +75,14 @@
 
 ## Education
 
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列（不仅是）计算机科学专业的学生倾向于错误地，有时甚至令人惊讶地相信，即使他们（可能）应该更了解.
-- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `很多关于博士后研究人员的说法、书面和观点都是不真实的.`.
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时令人惊讶地相信，即使他们（可能）应该知道得更好.
+- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `关于博士后研究人员的很多说法、书面和观点都是不真实的.`.
 
 ## Emails
 
 - [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - 提供复杂的示例，这些示例是根据 RFC-822 的意外有效电子邮件地址.
 - [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - 介绍边缘情况的电子邮件地址以及为什么不应该使用正则表达式来解析它们.
+- [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html) - 电子邮件地址中允许的各种令人惊讶的事情的摘要.
 
 ## Geography
 
@@ -144,7 +145,7 @@
 
 ## Postal Addresses
 
-- [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers streets, postal codes, buildings, cities and countries.
+- [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - 涵盖街道、邮政编码、建筑物、城市和国家.
 - [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - 这不仅与地址本身有关，还与一个人与其住所之间的关系有关.
 - [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - 关于邮政地址的终极谎言：你不需要一个.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear 有自己的邮政编码 (`20252`)，因为他收到了很多邮件.
@@ -161,7 +162,7 @@
 
 ## Society
 
-- [Falsehoods about Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - 设计选举系统有自己的技巧.
+- [Falsehoods about Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - 设计选举系统有它自己的技巧.
 - [Falsehoods about Women In Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - 关于 STEM（科学、技术、工程、数学）行业女性的神话.
 
 ## Software Engineering
@@ -175,13 +176,14 @@
 - [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - 为什么搜索（包括分析、标记化、突出显示）看似复杂.
 - [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - 对比特币的错误观点列表.
 - [Falsehoods about Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 为什么你的分页算法让某人（可能是你）头疼.
+- [Falsehoods about garbage collection](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - 关于垃圾收集的可预测性和性能的误解.
 - [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - 文件系统和操作系统的多样性使文件路径比我们想象的要困难一些.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 对缓存的误解通常会导致错误断言，尤其是在并发和竞争条件方面.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 有一些关于 `/dev/urandom` 和 `/dev/random` 的事情一次又一次地重复. 他们仍然是假的.
 - [Hi\! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个演讲可以被命名为“关于用户名（和其他标识符）的谎言”.
-- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为有害的帖子的一部分.
+- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
-- [Floating Point Math](https://0.30000000000000004.com) - “你的语言没有坏，它在做浮点数学.（……）这就是为什么，&#39;0.1 + 0.2 != 0.3`.”
+- [Floating Point Math](https://0.30000000000000004.com) - “你的语言没有坏，它在做浮点数学.（...）这就是为什么，&#39;0.1 + 0.2 != 0.3`.”
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  - 下载您在浏览器选项卡中看到的那个小图标应该是一个简单的练习. 事实证明，它比你想象的要复杂得多. 小心你不是在给牦牛剃毛.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - 挪威的 ISO 国家代码对于 False 也是有效的 YAML.
 
@@ -196,7 +198,7 @@
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) 是基于修改 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg)，分布在一个 [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) 基于修改 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg)，分布在一个 [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 

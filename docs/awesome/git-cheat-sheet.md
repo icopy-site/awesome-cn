@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="arslanbilal/git-cheat-sheet"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-Git 和 Git Flow 备忘单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
+Git 和 Git Flow 备忘单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
 <hr>
 <p align="center">
@@ -26,7 +26,7 @@ Git 备忘单可以让您免于背诵所有命令.
 
 <hr>
 
-Git备忘单英文
+Git 备忘单英文
 ===============
 ### Index
 
@@ -115,12 +115,12 @@ $ git clone http://domain.com/user/repo.git
 
 ##### Create a new local repository in the current directory:
 ```
-$ git 初始化
+$ git初始化
 ```
 
 ##### Create a new local repository in a specific directory:
 ```
-$ git 初始化<directory>
+$ git初始化<directory>
 ```
 
 <hr>
@@ -251,7 +251,7 @@ $ git log -S &#39;关键字&#39;
 
 ##### Show commits that introduced a specific keyword (using a regular expression)
 ```
-$ git log -S &#39;关键字&#39; --pickaxe-regex
+$ git log -S &#39;keyword&#39; --pickaxe-regex
 ```
 
 <hr>
@@ -497,7 +497,7 @@ $ git 合并工具
 
 ##### Merge branch into your current HEAD:
 ```
-$ git合并<branch>
+$ git 合并<branch>
 ```
 
 #### List merged branches
@@ -582,7 +582,7 @@ $ git reset --hard<commit>
 
 ##### Reset your HEAD pointer to a remote branch current state.
 ```
- $ git reset --hard<remote/branch> 例如，上游/主，来源/我的特征
+ $ git reset --hard<remote/branch> 例如，上游/主，起源/我的特征
 ```
 
 ##### Reset your HEAD pointer to a previous commit and preserve all changes as unstaged changes:

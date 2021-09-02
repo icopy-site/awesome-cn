@@ -60,7 +60,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 从 YouTube.com 和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) - 从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 优酷播放器.
-- [mpv](https://mpv.io) - 高级视频播放器.
+- [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - 声明性视频编辑.
 
 ### Movies
@@ -107,7 +107,6 @@
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中去除注释.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 将目录部署到 Web.
-- [acmetool](https://github.com/hlandau/acme) - ACME（让我们加密）的自动证书获取工具.
 - [loadtest](https://github.com/alexfernandez/loadtest)  - 在选定的 URL 上运行负载测试. 易于为您自己的目的进行最低限度的扩展.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - 管理 WordPress 安装、更新插件、设置多站点安装等等.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将 git diffs 解析为 JSON 并生成漂亮的 HTML.
@@ -141,7 +140,7 @@
 - [SAWS](https://github.com/donnemartin/saws) - 增压 AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 功能齐全的 S3 客户端.
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程经理.
-- [ops](https://github.com/nanovms/ops) - Unikernel compilation and orchestration tool.
+- [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache error 和 RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
@@ -232,7 +231,7 @@
 - [WOPR](https://github.com/yaronn/wopr) - 一种用于创建丰富的终端报告、演示文稿和信息图表的简单标记语言.
 - [decktape](https://github.com/astefanutti/decktape) - 用于 HTML 演示文稿的 PDF 导出器.
 - [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
-- [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
+- [sent](https://tools.suckless.org/sent/) - Simple plaintext presentation tool.
 
 ### Calendars
 
@@ -252,11 +251,8 @@
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从各种新闻媒体获取新闻标题.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成漂亮的代码图像.
-- [pass](https://www.passwordstore.org) - 密码管理器.
-- [gopass](https://github.com/gopasspw/gopass) - 功能齐全的密码管理器.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩列表.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git 集成备份工具.
-- [ots](https://github.com/sniptt-official/ots) - 通过一次性 URL 与他人分享秘密.
 
 ### macOS
 
@@ -327,6 +323,14 @@
 - [DocToc](https://github.com/thlorenz/doctoc) - 为 Markdown 文件生成目录.
 - [grip](https://github.com/joeyespo/grip) - 以 GitHub 呈现的方式预览 Markdown 文件.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 风格化的终端降价查看器.
+
+### Security
+- [pass](https://www.passwordstore.org) - 密码管理器.
+- [gopass](https://github.com/gopasspw/gopass) - 功能齐全的密码管理器.
+- [xiringuito](https://github.com/ivanilves/xiringuito) - 基于 SSH 的 VPN.
+- [acmetool](https://github.com/hlandau/acme) - ACME（让我们加密）的自动证书获取.
+- [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 提取服务器证书.
+- [ots](https://github.com/sniptt-official/ots) - 通过一次性 URL 与他人分享秘密.
 
 ## Command Line Learning
 
@@ -513,7 +517,7 @@
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.
 - [dankcli](https://github.com/sggts04/dankcli) - 向模因图像模板添加文本.
-- [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
+- [ricksay](https://github.com/roma-guru/ricksay) - 瑞克和莫蒂的名言.
 
 ## Other
 
@@ -521,7 +525,7 @@
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - 检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - 获取当前用户的全名.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件或标准输入的 gzip 大小.
-- [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
+- [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  - 散列变得简单. 获取文本或标准输入的哈希值.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 关闭所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用 Levenshtein 距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) - 直接从命令行进行快速数学运算.
@@ -536,7 +540,6 @@
 - [calories](https://github.com/zupzup/calories) - 卡路里和体重追踪器.
 - [trino](https://github.com/eneserdogan/trino) - Trino CLI 允许快速轻松地翻译在命令行中输入的单词和短语.
 - [alex](https://github.com/wooorm/alex) - 这通过捕捉许多可能的冒犯来检查不敏感、不体贴的写作来增强文本.
-- [xiringuito](https://github.com/ivanilves/xiringuito)  - “穷人的 VPN”. 基于 SSH 的“VPN”，易于安装，但性能比真正的 VPN 慢.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载 NASA 今日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索谷歌.
 - [Qalculate](https://github.com/Qalculate/libqalculate)  - 计算非平凡的数学表达式. 单位转换、符号计算等.
@@ -556,7 +559,7 @@
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - 特定于 macOS 的 Shell 命令和工具.
 - [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - 扩展 git cli 的插件.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – 命令行实用程序和框架.
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – 终端框架、插件和资源.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH 框架、插件、教程和主题.
 - [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js 模块和资源.
 

@@ -2256,6 +2256,7 @@ _一套管理模板_
 - [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) 使用 Bootstrap-Vue 创建的样板管理模板.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - 使用 Vue 3 和 `vuestic-ui` 构建的 Vue 管理仪表板.
 - [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - 一个生产就绪、精心制作、最全面的 Vuetify Vuejs 管理模板. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+- [Tailmin](https://github.com/otezz/tailmin) - 使用 Vue.js 和 Tailwind CSS 构建的管理仪表板. [Live demo](https://tailmin.vercel.app/)
 
 #### Server-side rendering
 
@@ -2689,7 +2690,7 @@ _国际化/L10n/本地化/翻译_
 - [vue-t9n](https://github.com/Ni55aN/vue-t9n) - 翻译应用程序的最简单方法
 - [vue-simple-inline-translation](https://github.com/alidrus/vue-simple-inline-translation) - 一个简化文本翻译方式的 Vue 组件：通过内联翻译.
 - [vue-i18n-extract](https://github.com/pixari/vue-i18n-extract)  - 通过静态分析管理 vue-i18n 本地化. 报告丢失和未使用的 i18n 条目.
-- [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) - VSCode 扩展以获得更好的 Vue-i18n 体验.
+- [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) - VSCode extension for better Vue-i18n experiences.
 - [v-intl](https://github.com/vinayakkulkarni/v-intl) - 为您出色的 Vue 3 应用程序提供全局国际包装器 
 - [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) - 一个插件将 excel 文件转换为 i18n json 格式以进行翻译.
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - 一个超级轻量级​​和最小的插件，通过简单的 API 将国际化引入您的 Vue.js 应用程序.
@@ -2987,7 +2988,7 @@ _与服务或其他框架集成_
 - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest) - 用于 Vue.js 组件（支持 html、pug 和 babel）和 TypeScript 的 Jest preprocessor.js.
 - [vue-jest-utils](https://github.com/locoslab/vue-jest-utils) - 使用 Jest 测试 Vue.js 组件的实用程序.
 - [vue-custom-element](https://github.com/karol-f/vue-custom-element) - Vue 自定义元素 - Vue.js 的自定义元素.
-- [vue-cordova](https://github.com/kartsims/vue-cordova) - Vue.js plugin for Cordova.
+- [vue-cordova](https://github.com/kartsims/vue-cordova) - Cordova 的 Vue.js 插件.
 - [vue-wamp](https://github.com/lajosbencz/vue-wamp) - Vue.js 的 AutobahnJS 包装库.
 - [express-vue](https://github.com/danmademe/express-vue)  - Express.js 的 Vue 渲染引擎. 使用 res.render() 将 .Vue 文件用作模板.
 - [vue-grecaptcha](https://github.com/drozdzynski/vue-grecaptcha) - VueJS 2 的谷歌 reCAPTCHA

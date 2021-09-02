@@ -213,7 +213,7 @@
 -  [Maizzle](https://maizzle.com/) - 使用 Tailwind CSS 进行快速电子邮件原型设计的框架.
 -  [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS 类名称备忘单.
 -  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - 单个文件中的 Tailwind CSS 类名称.
--  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名称、变体和指令备忘单.
+-  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS class names, variants and directives cheat sheet.
 -  [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
 
 ## UI Libraries, Components & Templates
@@ -257,7 +257,8 @@
 -  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - 使用 Vue 3 和 Tailwind CSS 构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - 使用 Nuxt.js 和 Tailwind CSS 构建的免费登陆页面模板.
--  [a17t](https://a17t.miles.land) - 用于扩展 Tailwind CSS 的原子设计工具包.
+-  [Tailmin](https://github.com/otezz/tailmin) - 使用 Vue.js 和 Tailwind CSS 构建的管理仪表板.
+-  [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 -  [tails-ui](https://github.com/knipferrc/tails-ui) - 使用 Tailwind CSS 响应 UI 库.
 -  [tails](https://github.com/thedevdojo/tails) - 使用 Tailwind CSS 手工制作的模板和组件.
 
@@ -266,13 +267,13 @@
 **图例**：包·命令行工具/生成器·可克隆
 
 -  [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - 添加 Tailwind CSS 和 PurgeCSS 的 CRA 脚本.
--  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - Adds Tailwind CSS to the Laravel framework.
+-  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - 将 Tailwind CSS 添加到 Laravel 框架.
 -  [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - 使用 Tailwind CSS for Laravel 的前端预设.
 -  [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - 使用 Tailwind CSS for Laravel 的黑暗主题前端预设.
 -  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - 使用 Tailwind CSS 和 Emotion JS 的 CRA 样板.
 -  [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - 支持 Tailwind CSS 和 TypeScript 的 CRA 模板.
 -  [Next.js PWA](https://github.com/msaaddev/create-next-pwa) – 生成 Next.js PWA 样板代码以及 Tailwind CSS 集成的 CLI.
--  [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
+-  [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - 创建 React.js、Next.js、Gatsby.js、Vue3、Laravel 和基本的 Tailwind CSS 应用程序.
 -  [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - 使用 Parcel 的 Tailwind CSS 样板.
 -  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - 使用 Tailwind CSS 的 Jekyll 启动器.
 -  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - 使用 Tailwind CSS 的 Jekyll 启动器.
