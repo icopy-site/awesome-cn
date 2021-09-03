@@ -165,6 +165,7 @@ _仅在浏览器中渲染 Svelte 应用程序._
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - 基于官方模板的 PWA 入门模板.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - 集成 Redux-Toolkit 的入门模板.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - 启动模板，TS 激活，ESLint 和 Prettier 协同工作.
+- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - 已激活 Typescript 且 Jest 工作正常的入门模板.
 
 #### Universal
 
@@ -199,7 +200,7 @@ _SSR 框架._
 
 ### Internationalisation
 
-- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本地化
+- [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化
 
 ## Routers
 
@@ -233,7 +234,7 @@ _Lint 并格式化您的代码._
 
 ### Docs
 
-_Create documentation._
+_创建文档._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 一种为 Svelte 组件编写文档的快速方法.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - 为您的组件生成 JSON 文档.
@@ -267,7 +268,7 @@ _文本编辑器插件._
 
 - [vim-svelte](https://github.com/evanleck/vim-svelte) - Svelte 3 组件的 Vim 语法高亮和缩进.
 - [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - 语法高亮和对 Vim 的支持.
-- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - 语法高亮和对 (Neo)Vim 的支持.
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 #### JetBrains
 

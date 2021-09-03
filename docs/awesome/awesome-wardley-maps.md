@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种技术，可帮助您检查环境、识别即将发生的变化并正确选择您的操作. 通过检查需要什么、将使用什么组件、它们的依赖关系和特征是什么，您可以构建您的世界的视觉表示，玩假设游戏，并选择您的方向和最佳行动来支持它.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种技术，可帮助您检查环境、识别即将发生的变化并正确选择您的操作. 通过检查需要什么、将使用哪些组件、它们的依赖关系和特征是什么，您可以构建您的世界的视觉表示，玩假设游戏，并选择您的方向和最佳行动来支持它.
 
 这是有用的 Wardley 映射资源和示例的列表. 短网址： [list.wardleymaps.com](https://list.wardleymaps.com) . 欢迎投稿！ [Contribution guidelines](https://list.wardleymaps.com/contributing) 用于将某些内容添加到列表中. 
 
@@ -35,7 +35,7 @@
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - 维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) - 西蒙沃德利的博客.
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - 创建和使用 Wardley Maps 的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF/iPad/Kindle.
-- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu、Boyd &amp; Wardley 关于态势感知、OODA &quot;Loops&quot; 和 Wardley 映射 [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
+- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu、Boyd &amp; Wardley 关于态势感知、OODA “Loops”和 Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - 第 2.3 章规划您的方式.
 
 ## Videos
@@ -58,8 +58,8 @@
 
 ## Maps in the Wild
 
-博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.
-- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
+<i>Blog posts and other interesting examples of Wardley maps.</i><b>博客文章和其他有趣的 Wardley 地图示例。</b> <i>Ordered by date, newest first.</i><b>按日期排序，最新的在前。</b>
+- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 三思而后行.  2020 年 10 月 22 日.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - 2020 年 9 月 15 日.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  - 与西蒙·沃德利的对话.  2020 年 8 月 4 日.
 - [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7)  - 以友好的方式挑战您的 Wardley 映射假设.  2020 年 8 月 2 日.
@@ -109,7 +109,7 @@
 - [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629)  - 詹姆斯·厄克特.  2017 年 3 月 24 日.
 - [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270)  - 詹姆斯·厄克特.  2017 年 2 月 4 日. 
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974)  - 先锋、定居者和城市规划师（Wardley PST）.  2017 年 1 月 31 日.
-- [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9)  - 我未来作为 Harmony 设计师的职业.  2017 年 1 月 17 日.
+- [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
 - [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6)  - 您如何从 James Urquhart 的混乱的组件和价值关系中提取价值.  2017 年 1 月 12 日.
 - [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb)  - 由 James Urquhart 为“实时业务自动化”的价值链构建 Wardley 地图.  2016 年 12 月 30 日.
 - [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8)  - 使用 James Urquhart 的数据流基本架构探索价值链.  2016 年 12 月 22 日.
@@ -125,7 +125,7 @@
 - [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  - 对于新任命的高管，帮助您进入一个可以开始学习和谈论战略的职位.  2015 年 8 月 21 日.
 - [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html)  - Simon Wardley 讨论了他用于映射的其他一些工具.  2015 年 3 月 6 日.
 - [Guest post: mapping the way to a strategy](https://governmenttechnology.blog.gov.uk/2014/04/16/guest-post-mapping-the-way-to-a-strategy/)  - GOV.UK 政府数字服务.  2014 年 4 月 16 日.
-- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  - tl; 警告空客博士.  2014 年 2 月 4 日.
+- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  - tl;博士买家警告.  2014 年 2 月 4 日
 
 ## Research Papers
 
@@ -172,6 +172,7 @@
 
 ## Events
 
+- [Map Camp 2021](https://www.mapcamp.co.uk/) - 2021 年 10 月 13 日的虚拟活动.
 - [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - 2020 年 10 月 13 日的免费全天在线活动.
 - [Map Camp](https://www.map-camp.com/) - 按照地图营 [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
@@ -209,7 +210,7 @@
   - 英国
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - 北美
-  - 美国
+  - USA
     - 加利福尼亚
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
 

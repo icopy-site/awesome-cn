@@ -66,7 +66,9 @@
   * [Kodika](https://education.github.com/pack/redeem/kodika) [免费] - 通过拖放构建 iOS 应用程序.免费订阅 Kodika Unlimited Pro 6 个月.
   
   * [Polypane](https://education.github.com/pack/redeem/polypane) [免费] - 强大的浏览器和开发人员工具，可让开发人员和设计人员在更短的时间内制作更好的网站和网络应用程序.Polypane 免费 1 年.
-  
+
+  * [Tabnine](https://www.tabnine.com/students)  [免费] - Tabnine 是一种 AI 代码完成工具，可在任何 IDE 上运行并支持所有编程语言.  Tabnine 专业版免费 1 年.
+
   * [Xojo](https://education.github.com/pack/redeem/xojo) [免费] - 一种跨平台开发工具，用于在学生期间免费为 Desktop.Xojo 桌面许可证制作本机应用程序.
   
   * [Yakindu](https://education.github.com/pack/redeem/yakindu) [免费] - 基于状态机概念的反应式、事件驱动系统的规范和开发的集成建模环境.Yakindu 专业版免费 1 年.
@@ -250,7 +252,7 @@
 
 ## Domain Name Registers
 
-  * [NameCheap](http://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年域名，在 .io、.tech、.com 和 .website 上注册可享受大折扣. 包括托管 Ghost 博客平台或曝光照片网站的可选免费年.
+  * [NameCheap](http://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年域名，在 .io、.tech、.com 和 .website 上注册可享受大幅折扣. 包括托管 Ghost 博客平台或曝光照片网站的可选免费年.
 
 * [.tech](https://get.tech/students) [折扣] - 在 .tech TLD 上注册一年，费用为 0.99 美元，推荐可免费续订.
 
@@ -311,7 +313,7 @@
 
 * [Simple Analytics](https://simpleanalytics.com/students) [免费] - 隐私友好的分析，具有简单的界面和 API.Starter 计划，免费一年，包括每月 100k 的页面浏览量.
 
-* [DailyBot](https://education.github.com/pack/redeem/dailybot) [免费] - 为您的团队自动进行每日站会、跟进、回顾、调查和反馈.DailyBot 商业计划免费 1 年.
+* [DailyBot](https://education.github.com/pack/redeem/dailybot) [免费] - 为您的团队自动执行每日站会、跟进、回顾、调查和反馈.DailyBot 商业计划免费 1 年.
 
 * [Freshpaint](https://education.github.com/pack/redeem/freshpaint) [免费] - 一键集成您的营销和分析工具.当您还是学生时，即可获得免费的 Freshpaint 成长计划.
 
