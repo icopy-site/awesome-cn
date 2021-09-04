@@ -605,13 +605,13 @@
 * [Device Detector](https://github.com/podigee/device_detector) - 精确且快速的用户代理解析器和设备检测器，由最大和最新的用户代理数据库提供支持.
 * [Http Client](https://github.com/nahi/httpclient) - 提供类似于 Ruby 中 libwww-perl (LWP) 的功能.
 * [HTTP](https://github.com/httprb/http) - HTTP Gem：用于发出 HTTP 请求的简单 Ruby DSL.
-* [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - 承认易于使用 [http](https://github.com/httprb/http) gem API（本身受python请求库的启发）旨在重用相同的外观，将其扩展到http gem不支持的用例.
+* [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - 承认易于使用 [http](https://github.com/httprb/http) gem API（本身受python请求库的启发）旨在重用相同的外观，为http gem不支持的用例扩展它.
 * [httparty](https://github.com/jnunemaker/httparty) - 再次让 http 变得有趣！
 * [Http-2](https://github.com/igrigorik/http-2) - HTTP/2 协议的纯 Ruby 实现
 * [Patron](https://github.com/toland/patron) - Patron 是一个基于 libcurl 的 Ruby HTTP 客户端库.
 * [RESTClient](https://github.com/rest-client/rest-client) - Ruby 的简单 HTTP 和 REST 客户端，受用于指定操作的微框架语法启发.
 * [Savon](https://github.com/savonrb/savon) - Savon is a SOAP client for the Ruby programming language.
-* [Sawyer](https://github.com/lostisland/sawyer) - HTTP的秘密用户代理，建立在法拉第之上.
+* [Sawyer](https://github.com/lostisland/sawyer) - HTTP 的秘密用户代理，建立在法拉第之上.
 * [Sniffer](https://github.com/aderyabin/sniffer) – 跨多个 ruby​​ 库记录和调试传出 HTTP 请求的工具.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus 包装 libcurl 以发出快速可靠的请求.
 
@@ -760,7 +760,7 @@
 * [Neo4j.rb](http://neo4jrb.io) - 在 Ruby on Rails 和 Rack 框架中使用的 Neo4j OGM (Object-Graph-Mapper)，深受 ActiveRecord 的启发.
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - Ruby 的 RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) - Redis 的对象哈希映射库.
-* [Redis-Objects](https://github.com/nateware/redis-objects) - Redis Objects 通过 redis gem 上的一个薄层将 Redis 数据类型映射到 Ruby 对象，从而为 Redis 提供了一个 Rubyish 接口.
+* [Redis-Objects](https://github.com/nateware/redis-objects) - Redis Objects 通过 redis gem 上的薄层将 Redis 数据类型映射到 Ruby 对象，从而为 Redis 提供了一个 Rubyish 接口.
 * [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，其目标是提供强大的对象映射功能而不限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel 是一个简单、灵活且功能强大的 Ruby 的 SQL 数据库访问工具包.
 
@@ -776,7 +776,7 @@
   * [marginalia](https://github.com/basecamp/marginalia)  - 将评论附加到您的 ActiveRecord 查询. 默认情况下，它会在每个查询的末尾添加应用程序、控制器和操作名称作为注释.
   * [mongoid-history](https://github.com/aq1018/mongoid-history) - 多用户非线性历史跟踪、审计、撤消、mongoid 重做.
   * [PaperTrail](https://github.com/airblade/paper_trail) - 跟踪 ActiveRecord 模型数据的更改以进行审核或版本控制.
-  * [Paranoia](https://github.com/radar/paranoia) - 为 Rails 3 和 4 重新实现了acts_as_paranoid，使用了非常非常少的代码.
+  * [Paranoia](https://github.com/radar/paranoia) - 为 Rails 3 和 4 重新实现了acts_as_paranoid，使用了很多很多很少的代码.
   * [PermenantRecords](https://github.com/JackDanger/permanent_records) - 软删除您的 ActiveRecord 记录，例如 ActsAsParanoid 的显式版本.
 * 位数组
   * [ActiveFlag](https://github.com/kenn/active_flag) - 使用 ActiveRecord 在单个整数列中存储多达 64 个多个标志.
@@ -1101,7 +1101,7 @@
 * 额外
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal 与 bundler 和 rake 集成以针对不同版本的依赖项测试您的库.
   * [CQL](https://github.com/enkessler/cql) - CQL 是一个用于对 Cucumber 风格的测试套件进行查询的库.
-  * [cuke_modeler](https://github.com/enkessler/cuke_modeler) -`.feature` 文件的建模库，它是`gherkin` gem 之上的抽象层，为构建其他 Gherkin 相关工具提供了稳定的基础.
+  * [cuke_modeler](https://github.com/enkessler/cuke_modeler) -`.feature` 文件的建模库，它是 `gherkin` gem 之上的抽象层，为构建其他 Gherkin 相关工具提供了稳定的基础.
   * [gitarro](https://github.com/openSUSE/gitarro) - 针对您的 GitHub 拉取请求运行、重新触发、处理所有类型和独立于操作系统的测试.
   * [Knapsack](https://github.com/ArturT/knapsack) - RSpec、Cucumber、Minitest、Spinach 和 Turnip 跨 CI 节点的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) - Mutant 是 Ruby 的突变测试工具.
@@ -1232,7 +1232,7 @@
 
 * [Awesome Ruby @LibHunt](https://ruby.libhunt.com)  - 您的首选 Ruby 工具箱.  Awesome Ruby 集合 + 按流行度、附加元数据和比较排序.
 * [GitHub Trending](https://github.com/trending?l=ruby) - 查找 GitHub 社区今天最感兴趣的存储库.
-* [Open Source Rails](http://www.opensourcerails.com/) - 最好的开源机架和 Ruby on Rails Web 应用程序库.
+* [Open Source Rails](https://www.opensourcerails.org/) - 最好的开源机架和 Ruby on Rails Web 应用程序库.
 * [Ruby Bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby 和 Ruby on Rails 书签集合.
 * [RubyDaily](http://rubydaily.org) - 社区驱动的新闻.
 * [RubyFlow](http://www.rubyflow.com) - Ruby 编程社区链接博客.
