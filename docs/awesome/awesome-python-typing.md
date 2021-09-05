@@ -94,7 +94,7 @@
 ### Helper tools to add annotations to existing code
 
 - [autotyper](https://github.com/JelleZijlstra/autotyper) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
-- [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
+- [monkeytype](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到您的源代码中.
 - [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对所使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
@@ -105,6 +105,7 @@
 
 ### Mypy plugins
 
+- [kubernetes-typed](https://github.com/gordonbondon/kubernetes-typed) - Kubernetes 插件 [CRD](https://kubernetes.io/docs/tasks/extend-kubernetes/custom-resources/custom-resource-definitions/) 类型检查.
 - [loguru-mypy](https://github.com/kornicameister/loguru-mypy) - 插件 [loguru](https://github.com/Delgan/loguru) 支持.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) - 插件 [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) 支持.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) - 插件已经集成到 mypy 中.
@@ -139,7 +140,7 @@
 - [PEP-586](https://www.python.org/dev/peps/pep-0586/) - 文字类型.
 - [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict：带有一组固定键的字典的类型提示.
 - [PEP-591](https://www.python.org/dev/peps/pep-0591/) - 为打字添加最终限定符.
-- [PEP-593](https://www.python.org/dev/peps/pep-0593/) - Flexible function and variable annotations.
+- [PEP-593](https://www.python.org/dev/peps/pep-0593/) - 灵活的功能和变量注释.
 - [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Union[] 的补充语法.
 - [PEP-612](https://www.python.org/dev/peps/pep-0612/) - 参数规范变量.
 - [PEP-613](https://www.python.org/dev/peps/pep-0613/) - 显式类型别名.

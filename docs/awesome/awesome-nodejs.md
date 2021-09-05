@@ -168,7 +168,7 @@
 - [normit](https://github.com/pawurb/normit) - 在您的终端中使用语音合成进行 Google 翻译.
 - [fkill](https://github.com/sindresorhus/fkill-cli)  - 惊人地杀死进程. 跨平台.
 - [pjs](https://github.com/danielstjules/pjs)  - 可管道化的 JavaScript. 从终端快速过滤、映射和减少.
-- [license-checker](https://github.com/davglass/license-checker) - 检查应用程序依赖项的许可证.
+- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - 在浏览器环境中轻松运行代码.
 - [tmpin](https://github.com/sindresorhus/tmpin) - 向任何接受文件输入的 CLI 应用程序添加标准输入支持.
 - [wifi-password](https://github.com/kevva/wifi-password-cli) - 获取当前的 wifi 密码.
@@ -188,7 +188,7 @@
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 漂亮的 git diff 到 HTML 生成器.
 - [Cash](https://github.com/dthree/cash) - 纯 JavaScript 中的跨平台 Unix shell 命令.
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - 在终端中试用 npm 包.
-- [jscpd](https://github.com/kucherenko/jscpd) - 源代码的复制/粘贴检测器.
+- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - 服务器端 API 模拟.
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在您编写代码时自动安装依赖项.
 - [lessmd](https://github.com/linuxenko/lessmd) - 终端中的降价.
@@ -358,7 +358,6 @@
 - [Moleculer](https://moleculer.services) - 快速而强大的微服务框架.
 - [Fastify](https://github.com/fastify/fastify) - 快速和低开销的网络框架.
 - [Nest](https://github.com/nestjs/nest) - 受 Angular 启发的框架，用于构建高效且可扩展的服务器端应用程序.
-- [Zeronode](https://github.com/sfast/zeronode) - 用于可靠和容错微服务的最小构建块.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
 - [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - 现代且快速的类似 Express 的 Web 框架.
 - [Marble.js](https://github.com/marblejs/marble) - 基于 TypeScript 和 RxJS 的用于构建服务器端应用程序的功能反应框架.
@@ -502,7 +501,7 @@
 - [Moment.js](http://momentjs.com) - 解析、验证、操作和显示日期.
 - [Day.js](https://github.com/iamkun/dayjs) - 替代 Moment.js 的不可变日期库.
 - [dateformat](https://github.com/felixge/node-dateformat) - 日期格式.
-- [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+- [tz-format](https://github.com/samverschueren/tz-format) - 用时区格式化日期：`2015-11-30T10:40:35+01:00`.
 - [cctz](https://github.com/floatdrop/node-cctz) - 日期的快速解析、格式化和时区对话.
 
 ### URL
@@ -766,7 +765,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取超级恶棍的名字.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获取一些很酷的 ascii 面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ&quot; `.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特、星球大战和神奇宝贝等书呆子主题中获取数据.
 
 ### Serialization
@@ -828,7 +827,7 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新 npm 模块时的一些良好做法.
-- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整哲学存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码.
+- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念存在于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码中.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
@@ -907,7 +906,7 @@
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - 回答有关流的常见问题，包括分页、事件等.
-- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Node.js Web 服务的源代码安全分析清单.
 
 ### Tools
 

@@ -10,7 +10,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geo_assigner](https://github.com/stadt-karlsruhe/geo_assigner): 将属性复制到所有相交要素
 * [geojson-coords](https://github.com/mapbox/geojson-coords): 从 GeoJSON 中提取坐标
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent)：计算geojson特征的边界框
-* [geojson-flatten](https://github.com/tmcw/geojson-flatten)：将多个几何图形展平为正常几何图形
+* [geojson-flatten](https://github.com/tmcw/geojson-flatten)：将多个几何图形展平为普通几何图形
 * [geojson-multiply](https://github.com/haoliangyu/geojson-multiply): 将普通的 geojson 特征合并为一个多几何类型的特征
 * [geojson-js-utils](https://github.com/maxogden/geojson-js-utils)：用于操作 GeoJSON 的 JavaScript 辅助函数
 * [geojson-merge](https://github.com/mapbox/geojson-merge)：将多个 GeoJSON 文件合并为一个 FeatureCollection.
@@ -38,7 +38,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson.tools](http://geojson.tools/)：来自 HERE XYZ 的基于 Web 的编辑器
 * [mapstarter](http://mapstarter.com/)：帮助从 GeoJSON 生成 svg、图像和代码
 * [gjv](https://github.com/anandthakker/gjv) ：电子应用程序可以在本地查看 GeoJSON 并使用草皮对其进行破解； 离线工作
-* [GeoJSON editor](https://tomscholz.github.io/geojson-editor/)：谷歌的简单geojson编辑器的修改版本
+* [GeoJSON editor](https://tomscholz.github.io/geojson-editor/)：谷歌的简单geojson编辑器的修改版
 * [geojson2image](https://github.com/brycejohnston/geojson2image): 用于从 GeoJSON 生成图像的库
 * [dropchop](http://dropchop.io/): 基于浏览器的 GIS 基于 Turf.js
 * [Web GIS](https://drewweth.github.io/geodebugger)：查看、检查和操作地理空间数据的工具
@@ -70,7 +70,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree): 从一组 geojson 特征生成静态 rtree（使用 terraformer）
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): 将任何东西转换为任何东西
   * [fiona](https://github.com/toblerity/fiona): 在 ogr 之上的漂亮的 python 界面
-* [shp2json](https://github.com/substack/shp2json)：将 shapefile zip 档案转换为流式 GeoJSON
+* [shp2json](https://github.com/substack/shp2json)：将 shapefile zip 存档转换为流式 GeoJSON
 * [togeojson](https://github.com/tmcw/togeojson): 将 GPX 和 KML 转换为 geojson
 * [tokml](https://github.com/mapbox/tokml): 将 GeoJSON 转换为 KML
 * [topojson](https://github.com/topojson/topojson): 将 GeoJSON 和 TopoJSON 相互转换，从 CSV 连接数据
@@ -99,7 +99,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 
 ### data
 
-* [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
+* [natural earth](http://www.naturalearthdata.com/)：国家、省和地理数据
 * [geojson.xyz](http://geojson.xyz/)：带有热链接的网页友好尺寸的自然地球数据
 * [world-atlas](https://github.com/topojson/world-atlas)：可定制的简化版自然地球数据
 * [geo-maps](https://github.com/simonepri/geo-maps)：以编程方式生成的高质量 GeoJSON 地图.
@@ -114,6 +114,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [strava-geojson](https://github.com/tmcw/strava-geojson): 在节点 &amp; 中将 _all_ strava 数据导出到 geojson [on the web](http://www.macwright.org/strava-geojson/)
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): 通过 openstreetmap id 获取 geojson 文件
 * [country-levels](https://github.com/hyperknot/country-levels-export) 基于 ISO 和 FIPS 代码的完整地球 GeoJSON 提取.
+* [historical-basemaps](https://github.com/aourednik/historical-basemaps)：收集世界国家和文化区域的地理参考边界，用于绘制世界范围内的历史数据.
 
 ### serialization
 

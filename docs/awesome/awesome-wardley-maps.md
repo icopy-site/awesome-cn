@@ -35,7 +35,7 @@
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - 维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) - 西蒙沃德利的博客.
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - 创建和使用 Wardley Maps 的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF/iPad/Kindle.
-- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu、Boyd &amp; Wardley 关于态势感知、OODA “Loops”和 Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
+- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu、Boyd &amp; Wardley 关于态势感知、OODA &quot;Loops&quot; 和 Wardley 映射 [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - 第 2.3 章规划您的方式.
 
 ## Videos
@@ -101,6 +101,7 @@
 - [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3)  - 探索和设计可再生能源领域的平台.  2019 年 10 月 28 日.
 - [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa)  - 为什么平台的 Wardley（价值链）地图是 Z 形的？  2018 年 10 月 11 日.
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html)  - 我们如何才能最好地利用技术来支持医疗保健？  2018 年 7 月 19 日.
+- [Value Chains](https://design4services.com/concepts/value-chains/)  - 蒂姆·曼宁 (Tim Manning) 的波特价值链分析、沃德利价值链分析和价值映射.  2018 年 7 月 17 日.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315)  - 具有由 Cynefin 提供信息的 Wardley 映射的上下文特定成熟度模型.  2018 年 5 月 11 日.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f)  - 使用 Wardley 地图构建路线图.  2018 年 1 月 9 日.
 - [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a)  - 西蒙沃德利.  2017 年 9 月 11 日.
@@ -210,8 +211,8 @@
   - 英国
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - 北美
-  - USA
-    - 加利福尼亚
+  - 美国
+    - California
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
 
 ## License
