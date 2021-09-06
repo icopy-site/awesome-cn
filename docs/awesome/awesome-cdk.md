@@ -13,7 +13,7 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 
 ### APIs
 
-* [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - 适用于 AWS Chalice 的 AWS CDK 构造（适用于 AWS 的 Python 无服务器微框架）.
+* [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS Chalice 的 AWS CDK 构造（适用于 AWS 的 Python 无服务器微框架）.
 * [auto-cdk](https://github.com/wulfmann/auto-cdk) - 自动生成与文件系统（测试版）的 api-gateway/lambda 集成.
 
 ### Databases
@@ -30,7 +30,7 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 
 ### Security
 
-* [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) - 构建使用用户池进行无密码身份验证.
+* [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) - 使用用户池构建无密码身份验证.
 * [cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) - 构建以使用 JSON 配置生成 IAM 托管策略和 IAM 角色.
 * [c3](https://github.com/SSHcom/c3) - 遵守隐私和安全最佳实践.
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) - 具有流畅界面的 IAM 策略语句生成器.
@@ -45,7 +45,7 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 ### Queue
 
 * [cdk-tweet-queue](https://www.npmjs.com/package/cdk-tweet-queue) - 用来自推特搜索查询的推文填充 SQS 队列.
-* [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer) - 构造以创建 AWS SES 电子邮件模板 + 微服务以使用 AWS SES 发送模板化电子邮件.
+* [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer) - 构建以创建 AWS SES 电子邮件模板 + 微服务以使用 AWS SES 发送模板化电子邮件.
 * [cdk-sqs-monitored](https://github.com/kamilbiela/cdk-sqs-monitored) - 带有死信队列和配置警报的 SQS 构造.
 
 ### CI/CD
@@ -65,7 +65,7 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 * [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack) - CDK component that provisions a #slack approval workflow.
 * [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - 将 CodeCommit 存储库备份到 S3.
 * [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) - 使用 AWS SAM 和 DeployToAlexa 操作创建一个 CodePipeline，以将 Alexa Skills 部署到 Lambda 和开发人员控制台.
-* [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - Slack / Microsoft Teams / 针对开发人员工具的电子邮件通知：CodeCommit、CodeBuild、CodeDeploy、CodePipeline.
+* [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - Slack / Microsoft Teams / 开发人员工具的电子邮件通知：CodeCommit、CodeBuild、CodeDeploy、CodePipeline.
 
 ### Multi-accounts setup
 * [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - 使用 AWS Organization、AWS SSO、DNS 和 AWS CodePipeline 创建多账户设置.
@@ -73,10 +73,11 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 ## High-Level Frameworks
 
 * [punchcard](https://github.com/punchcard/punchcard) - TypeScript 框架用于统一 CDK 的基础设施和运行时代码，因此您可以在一个 Node.js 应用程序的上下文中声明构造和实现运行时逻辑.
-* [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
+* [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - 使用 AWS CDK 开发纯功能性和高阶云组件的工具包.
 * [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - 一组 Step Functions 高级弹性模式.
 * [Orkestra](https://github.com/knowsuchagency/orkestra) - 基于 AWS CDK 和 Step Functions 构建的 Airflow 的事件驱动替代方案.
 * [SST](https://github.com/serverless-stack/serverless-stack)  - 使用 CDK 构建无服务器应用程序的开源框架. 它具有实时 Lambda 开发环境，可以在本地测试和调试 Lambda 函数，而无需重新部署它们.
+* [Datajob](https://github.com/vincentclaes/datajob) - 在 AWS 上轻松构建和部署无服务器数据管道或机器学习管道. 
 
 ## Scaffolding
 
@@ -89,8 +90,8 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - 一个包装库 [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk) .  CI 自动生成代码并按天部署.
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) - 使用 Java 和 Maven 定义和部署 AWS CDK 应用程序的插件.
-* [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) - 替代 Node.js lambda CDK 构造，使用 [webpack](https://webpack.js.org/).
-* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - 替代 Node.js lambda CDK 构造，使用 [esbuild](https://github.com/evanw/esbuild).
+* [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
+* [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild).
 
 ## Library Publishing
 
@@ -118,7 +119,7 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - 这 [cra-serverless](https://github.com/sbstjn/cra-serverless) 项目是一个无服务器架构，用于向使用创建的 React 网站添加预渲染 [create-react-app](https://create-react-app.dev).
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) - 部署一个功能性公共 API，该 API 接收 HTML 表单（例如 /contact_us.html）POST 请求并将其数据传送到 Pushover 通知服务.
 * [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) - 在 https://api.l3x.in/ 上为 REST API 提供支持的源代码.
-* [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) - 用 Go 编写的无服务器应用程序，可让您在 RSS 源阅读器中享受 Dilbert，而没有任何广告.
+* [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) - 用 Go 编写的无服务器应用程序，可让您在 RSS 提要阅读器中享受 Dilbert，而没有任何广告.
 * [django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs) - 使用 GitLab CI 使用 CDK 部署的示例 Django + Vue.js Web 应用程序.
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - PostgreSQL (RDS)、EventBridge (cron) 和 SNS（后台作业）示例以及 Next.js 应用程序.
 * [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) - 使用示例代码创建新 CDK 构造的分步指南 [projen](https://github.com/projen/projen) 和 `jsii` 并将其发布到 npm、Maven Central、PyPi 和 NuGet.
@@ -126,18 +127,18 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 ## Blog Posts & Talks
 
 * [Introduction to how and why CDK](https://www.slideshare.net/ranguard/aws-cdk-introduction-191140240) - 利奥·拉普沃思 (Leo Lapworth).
-* [How to Build a CDK Construct Library](https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/) - 菲利普·加布着.
+* [How to Build a CDK Construct Library](https://garbe.io/blog/2019/03/26/construct-your-own-cdk-construct-library/) - 菲利普·加布 (Philipp Garbe).
 * [CDK All The Things: A Whirlwind Tour](https://kevinslin.com/aws/cdk_all_the_things/) - 凯文·S·林 (Kevin S Lin).
 * [AWS CDK Developer Preview Announcement](https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/) - 第一个 AWS CDK 开发人员预览版于 2018 年 8 月 27 日发布.
 * [Contributing to the AWS Cloud Development Kit](https://aws.amazon.com/blogs/developer/contributing-to-the-aws-cloud-development-kit/) - 来自 Intuit 的 Mike Cowgill.
-* [First look into AWS Cloud Development Kit](https://garbe.io/blog/2018/08/17/first-look-into-cdk/) - 菲利普·加布着.
+* [First look into AWS Cloud Development Kit](https://garbe.io/blog/2018/08/17/first-look-into-cdk/) - 菲利普·加布 (Philipp Garbe).
 * [Boost your AWS Infrastructure with the CDK](https://www.slideshare.net/philippgarbe/boost-your-aws-infrastructure-with-cdk) - Philipp Garbe 的 SlideShare.
 * [Getting started with AWS CDK for Amazon ECS](https://aws.amazon.com/blogs/compute/getting-started-with-the-aws-cloud-development-kit-for-amazon-ecs/) - 内森派克.
 * [AWS re:Invent 2018, best of show: CDK](https://medium.com/allermedia-techblog/aws-re-invent-2018-best-of-show-cloud-development-kit-cdk-ad1755561ade) - 所有媒体技术博客.
 * [AWS Cloud Development Kit introduction with Live Demos](https://youtu.be/IIiIoMGTJec) - AWS 用户组芬兰聚会 2019 年 1 月.
 * [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) - 由 Nordcloud 工程.
-* [AWS Infrastructure as Code with CDK](https://medium.com/avmconsulting-blog/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d) - 罗斯·罗兹 (Ross Rhodes).
-* [Callbacks with AWS Step Functions](https://medium.com/swlh/callbacks-with-aws-step-functions-a3dde1bc7203) - 罗斯·罗兹 (Ross Rhodes).
+* [AWS Infrastructure as Code with CDK](https://medium.com/avmconsulting-blog/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d) - 罗斯·罗兹.
+* [Callbacks with AWS Step Functions](https://medium.com/swlh/callbacks-with-aws-step-functions-a3dde1bc7203) - 罗斯·罗兹.
 * [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) - 斯蒂芬星期五.
 * [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) - 斯蒂芬星期五.
 * [Serverless Dotnet - E01: Intro to AWS CDK](https://youtu.be/c9UXHPX6-Ns) - 杰克斯科特.
@@ -158,8 +159,9 @@ AWS 云开发工具包 (AWS CDK) 是一种开源软件开发框架，用于在�
 * [Introducing AWS CDK with a real life Lambda and API gateway example](https://a.l3x.in/2020/02/04/migrating-from-terraform-to-cdk.html) - 亚历山大·福廷着.
 * [CloudWatch Dashboards as Code (the Right Way) Using AWS CDK](https://medium.com/poka-techblog/cloudwatch-dashboards-as-code-the-right-way-using-aws-cdk-1453309c5481) - 西蒙-皮埃尔·金格拉斯.
 * [Coding the Jamstack missing parts: databases, crons & background jobs](https://dev.to/vvo/coding-the-jamstack-missing-parts-databases-crons-background-jobs-1bpj) - 文森特·沃耶 (Vincent Voyer).
-* [AWS CDK Continuous Integration and Delivery Using Travis CI](https://medium.com/better-programming/aws-cdk-continuous-integration-and-delivery-using-travis-ci-ee5dd7549434) - 托马斯·佩尼南特（Thomas Poignant）
-* [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link&sk=549fcf9d998bbea304bdd8d834aca9e6) - 罗伊·本-约瑟夫.
+* [AWS CDK Continuous Integration and Delivery Using Travis CI](https://medium.com/better-programming/aws-cdk-continuous-integration-and-delivery-using-travis-ci-ee5dd7549434) - 托马斯·佩尼南特（Thomas Poignant）.
+* [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link&sk=549fcf9d998bbea304bdd8d834aca9e6) - 罗伊·本·约瑟夫（Roy Ben-Yosef）.
+* [Recommended AWS CDK project structure for Python applications](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/) - 亚历克斯·普尔弗.
 
 ## Related Projects
 

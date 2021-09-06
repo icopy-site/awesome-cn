@@ -116,6 +116,7 @@
   * [ring](https://github.com/ring-clojure/ring) : HTTP 服务器抽象
   * [kvlt](https://github.com/nervous-systems/kvlt) ：跨 JVM/节点/浏览器的 HTTP 统一异步客户端接口
   * [aleph](https://github.com/clj-commons/aleph) : 基于 Netty 的异步客户端/服务器，默认为 HTTP、TCP 和 UDP
+  * [hato](https://github.com/gnarroway/hato) : Clojure 的 HTTP 客户端，包装了 JDK 11 的 HttpClient
 
 ## Database
 

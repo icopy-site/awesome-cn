@@ -68,7 +68,7 @@
 ### DSL
 
 - [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - 用于构建 JMeter 测试计划的基于 Ruby 的 DSL.
-- [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) - 以 VCS 和程序员友好的方式运行 JMeter 性能测试的简单 API.
+- [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - 以 VCS 和程序员友好的方式运行 JMeter 性能测试的简单 API.
 - [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) - Groovy-JMeter 项目是用于编写 JMeter 测试计划的简单 DSL.
 - [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - JMeter 的简单包装器，用于使用 Java 编写和执行 JMeter 测试.
 
@@ -94,7 +94,7 @@
 - [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) - 自动运行 JMeter 测试计划的 Ant 任务.
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven 插件，它提供了在构建过程中运行 JMeter 测试的能力.
 - [JMeter Gradle Plugin](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - 用于执行 JMeter 测试的 Gradle 插件.
-- [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins 插件，用于从 JMeter 捕获报告并生成带有性能和健壮性趋势报告的图形图表.
+- [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins 插件，用于从 JMeter 捕获报告并生成带有性能和稳健性趋势报告的图形图表.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity 插件，用于在 CI 中组织最简单的性能测试.
 - [Bamboo JMeter Aggregator Plugin](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo) - 用于收集、断言和绘制 JMeter 测试结果的 Bamboo 插件.
 - [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - 用于收集 JMeter 性能测试结果并在声纳仪表板中显示的插件.
@@ -151,7 +151,7 @@
   - 数字海洋
     - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - 使用 DigitalOcean、JMeter 和 Docker 构建您自己的 JMeter 云.
   - 微软 Azure
-    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) - 具有 Apache JMeter 和 Terraform 的可扩展云负载/压力测试管道解决方案，可动态配置和销毁 Azure 上所需的基础架构.
+    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) - 可扩展的云负载/压力测试管道解决方案，使用 Apache JMeter 和 Terraform 动态配置和销毁 Azure 上所需的基础设施.
 
 ## Cloud Services / SaaS
 
@@ -180,7 +180,7 @@
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven 插件，用于解析 JMeter 测试结果并生成带有图表的详细报告.
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - 基于 Web 的应用程序，用于整理、分析和报告 JMeter 测试结果.
 - 数据库结果收集器
-  - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - 插件，可将结果记录到数据库中，以便更有效地报告.
+  - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - 使结果记录到数据库中以实现更有效报告的插件.
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - 基于 JAMon 的 JMeter HTML 报告生成器.
 

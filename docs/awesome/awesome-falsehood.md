@@ -75,8 +75,8 @@
 
 ## Education
 
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时令人惊讶地相信，即使他们（可能）应该知道得更好.
-- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `关于博士后研究人员的很多说法、书面和观点都是不真实的.`.
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时甚至令人惊讶地相信，即使他们（可能）应该知道得更好.
+- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `Lots of things are said, written and believed about postdoctoral researchers that are simply not true.`.
 
 ## Emails
 
@@ -97,9 +97,9 @@
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上面文章的重温版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能用严格的规则来定义一个家庭.
-- 关于性别的谎言： [\#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [\#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - Gender is part of human identity and has its own subtleties.
+- 关于性别的谎言： [\#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [\#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其微妙之处.
 - [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - 姓名、性别和国际化的交叉问题.
-- [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 如何在数据库中存储婚姻，同时解决大多数关于性别、命名和关系的错误.
+- [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - How to store a marriage in a database while addressing most of the falsehoods about gender, naming and relationships.
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 人们的名字在世界各地有何不同，对网络有何影响？
 - [XKCD \#327: Exploits of a Mom](https://xkcd.com/327/) - 关于虚假信息的实施可能会导致安全漏洞的有趣看法.
 - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - 关于实施谎言如何对某人的生活产生负面影响的真实例子.
@@ -191,6 +191,10 @@
 
 - [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - 关于网络和桌面应用程序排版的假设.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 完全相反的错误格式，关于大小写的主题（如大写和小写文本）.
+
+## Video Games
+
+- [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) - 您没有考虑在游戏中为您的门实施的所有事情.
 
 ## Contributing
 
