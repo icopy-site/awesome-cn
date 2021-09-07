@@ -59,12 +59,13 @@
 * [ncurses](https://github.com/edadma/ncurses) - 绑定 [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 * [readline](https://github.com/edadma/readline) - 绑定 [GNU Readline Library](https://www.gnu.org/software/readline/).
 * [libsndfile](https://github.com/edadma/libsndfile) - 绑定 [Libsndfile](https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html) 用于采样声音操作的 C 库.
+* [libpng](https://github.com/edadma/libpng) - 绑定 [libpng](http://www.libpng.org/) 用于读取和写入 PNG 的 C 参考库.
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - 实施 [MessagePack](https://msgpack.org/)，一种二进制序列化格式.
 * [FastParse](https://github.com/lihaoyi/fastparse) - 用于定义和运行解析器的库.
 * [scalatags](https://github.com/lihaoyi/scalatags) - HTML/XML 构造和渲染.
-* [Pine](https://github.com/sparsetech/pine) - HTML/XML 解析、操作和渲染.
+* [Pine](https://github.com/sparsetech/pine) - HTML/XML 解析、操作和呈现.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON 解析器.
 * [uJson](http://www.lihaoyi.com/upickle/#uJson) - 用于 Scala 的快速、灵活和直观的 JSON
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) 带有编解码器派生的解析器.

@@ -70,13 +70,14 @@
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有一些关于日期和时间（特别是 UTC）的边缘情况，您可能没有想到.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “仅以 UTC 格式存储日期”并不总是正确的方法.
+- [How to chooose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - 取决于您在 SI 秒、地球自转同步、闰秒避免之间的优先级.
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - 臭名昭著的 Stack Overflow 回答了复杂的历史时区，以及较新版本的软件如何重新解释历史日期.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 unix epoch 的 32 位秒溢出，根据系统需要注意的特殊日期列表.
 
 ## Education
 
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时甚至令人惊讶地相信，即使他们（可能）应该知道得更好.
-- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `Lots of things are said, written and believed about postdoctoral researchers that are simply not true.`.
+- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `关于博士后研究人员的很多说法、书面和观点都是不真实的.`.
 
 ## Emails
 
@@ -154,7 +155,7 @@
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google 用于解析、格式化和验证国际邮政地址的通用 C++ 和 Java 库.
 - [`addressing`](https://github.com/commerceguys/addressing) - 一个 PHP 5.4+ 寻址库，由 Google 的数据集提供支持.
 - [`postal-address`](https://github.com/scaleway/postal-address) - 用于解析、规范化和呈现邮政地址的 Python 模块.
-- [`address`](https://github.com/Boostport/address) - Go library 使用 Google 的数据集验证和格式化地址.
+- [`address`](https://github.com/Boostport/address) - Go library to validate and format addresses using Google's dataset.
 
 ## Science
 

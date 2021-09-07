@@ -359,7 +359,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 
 <a name="java-natural-language-processing"></a>
 #### Natural Language Processing
-* [Cortical.io](https://www.cortical.io/) - Retina：一个像大脑一样快速、直观地执行复杂 NLP 操作（消歧、分类、流文本过滤等）的 API.
+* [Cortical.io](https://www.cortical.io/) - Retina：一个像大脑一样快速直观地执行复杂 NLP 操作（消歧、分类、流文本过滤等）的 API.
 * [IRIS](https://github.com/cortical-io/Iris) - [Cortical.io's](https://cortical.io) 免费的 NLP、Retina API 分析工具（用 JavaFX 编写！） - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0).
 * [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - 斯坦福 CoreNLP 提供了一套自然语言分析工具，可以获取原始英语文本输入并给出单词的基本形式.
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml) - 自然语言解析器是一种计算句子语法结构的程序.
@@ -379,7 +379,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [ClearTK](https://github.com/ClearTK/cleartk)  - ClearTK 提供了一个用 Java 开发统计自然语言处理 (NLP) 组件的框架，它构建在 Apache UIMA 之上.  **[已弃用]**
 * [Apache cTAKES](https://ctakes.apache.org/) - Apache 临床文本分析和知识提取系统 (cTAKES) 是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
 * [NLP4J](https://github.com/emorynlp/nlp4j)  - NLP4J 项目为自然语言处理提供软件和资源. 该项目始于计算语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  **[已弃用]**
-* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算小组开发的许多自然语言处理 (NLP) 核心库，例如“illinois-core-utilities”，它提供了一组 NLP 友好的数据结构和许多支持编写 NLP 应用程序、运行实验等的 NLP 相关实用程序，`illinois-edison` 是一个用于从 illinois-core-utilities 数据结构和许多其他包中提取特征的库.
+* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算小组开发的许多自然语言处理 (NLP) 核心库，例如“illinois-core-utilities”，它提供了一组 NLP 友好的数据结构和许多支持编写 NLP 应用程序、运行实验等的 NLP 相关实用程序，`illinois-edison` 一个用于从 illinois-core-utilities 数据结构和许多其他包中提取特征的库.
 
 <a name="java-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
@@ -407,7 +407,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [Smile](https://haifengl.github.io/) - 统计机器智能和学习引擎.
 * [SystemML](https://github.com/apache/systemml) - 灵活、可扩展的机器学习 (ML) 语言.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Weka 是用于数据挖掘任务的机器学习算法的集合.
-* [LBJava](https://github.com/CogComp/lbjava) - 基于学习的 Java 是一种用于软件系统快速开发的建模语言，为直接根据程序员应用程序中的对象定义分类器和约束条件提供了方便的声明性语法.
+* [LBJava](https://github.com/CogComp/lbjava) - 基于学习的 Java 是一种用于软件系统快速开发的建模语言，为直接在程序员应用程序中的对象方面为分类器和约束定义提供方便的声明性语法.
 * [knn-java-library](https://github.com/felipexw/knn-java-library) - 只是使用一堆相似性度量的 K-最近邻算法的简单实现.
 
 <a name="java-speech-recognition"></a>
@@ -424,7 +424,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [Storm](https://storm.apache.org/) - Storm 是一个分布式实时计算系统.
 * [Impala](https://github.com/cloudera/impala) - Hadoop 的实时查询.
 * [DataMelt](https://jwork.org/dmelt/) - 用于数值计算、统计、符号计算、数据分析和数据可视化的数学软件.
-* [Dr. Michael Thomas Flanagan's Java Scientific Library](https://www.ee.ucl.ac.uk/~mflanaga/java/) **[已弃用]**
+* [Dr. Michael Thomas Flanagan's Java Scientific Library.](https://www.ee.ucl.ac.uk/~mflanaga/java/) **[已弃用]**
 
 <a name="java-deep-learning"></a>
 #### Deep Learning
@@ -747,7 +747,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 
 * [Accord-Framework](http://accord-framework.net/) -Accord.NET Framework 是一个完整的框架，用于构建机器学习、计算机视觉、计算机试听、信号处理和统计应用程序.
 * [Accord.MachineLearning](https://www.nuget.org/packages/Accord.MachineLearning/)  - 支持向量机、决策树、朴素贝叶斯模型、K 均值、高斯混合模型和通用算法，例如用于机器学习应用的 Ransac、交叉验证和网格搜索. 这个包是 Accord.NET Framework 的一部分.
-* [DiffSharp](https://diffsharp.github.io/DiffSharp/)  - 一个自动微分 (AD) 库，为机器学习和优化应用程序提供精确有效的导数（梯度、Hessian、Jacobian、方向导数和无矩阵 Hessian 和 Jacobian 向量积）. 操作可以嵌套到任何级别，这意味着您可以计算精确的高阶导数并区分内部利用微分的函数，用于超参数优化等应用程序.
+* [DiffSharp](https://diffsharp.github.io/DiffSharp/)  - 一个自动微分 (AD) 库，为机器学习和优化应用程序提供精确有效的导数（梯度、Hessian、Jacobian、方向导数和无矩阵 Hessian 和 Jacobian 向量积）. 操作可以嵌套到任何级别，这意味着您可以计算精确的高阶导数并微分内部利用微分的函数，用于超参数优化等应用程序.
 * [Encog](https://www.nuget.org/packages/encog-dotnet-core/)  - 先进的神经网络和机器学习框架.  Encog 包含用于创建各种网络的类，以及用于规范化和处理这些神经网络数据的类.  Encog 使用多线程弹性传播训练.  Encog 还可以利用 GPU 来进一步加快处理时间. 还提供了一个基于 GUI 的工作台来帮助建模和训练神经网络.
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  - 用于 .NET Core 和 .NET Framework 的多平台遗传算法库. 该库有几种 GA 运算符的实现，例如：选择、交叉、变异、重新插入和终止.
 * [Infer.NET](https://dotnet.github.io/infer/)  - Infer.NET 是一个在图形模型中运行贝叶斯推理的框架. 可以使用 Infer.NET 解决许多不同类型的机器学习问题，从分类、推荐或聚类等标准问题到针对特定领域问题的定制解决方案.  Infer.NET 已用于广泛的领域，包括信息检索、生物信息学、流行病学、视觉等.
@@ -1160,7 +1160,7 @@ be
 * [Python Programming for the Humanities](https://www.karsdorp.io/python-course/)  - 人文 Python 编程课程，假设没有先验知识. 高度关注文本处理/NLP.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - 用于计算大圆距离的库.
 * [Optunity examples](http://optunity.readthedocs.io/en/latest/notebooks/index.html) - 演示如何与机器学习库协同使用 Optunity 的示例.
-* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - “我首先通过 hacking 学习 Python，然后 * 后来变得认真.* 我想通过机器学习来做到这一点.如果这是你的风格，请和我一起超越自己.”
+* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - “我首先通过 hacking 学习 Python，然后 * 后来变得认真.* 我想用机器学习来做到这一点.如果这是你的风格，请和我一起超越自己.”
 * [TDB](https://github.com/ericjang/tdb)  - TensorDebugger (TDB) 是用于深度学习的可视化调试器. 它为 TensorFlow 提供交互式、逐节点调试和可视化功能.
 * [Suiron](https://github.com/kendricktan/suiron/) - 遥控汽车的机器学习.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - 来自数据学校关于 scikit-learn 的视频教程的 IPython 笔记本.
@@ -1517,6 +1517,7 @@ be
 <a name="tools-misc"></a>
 #### Misc
 
+* [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate 是一个 [open source](https://github.com/semi-technologies/weaviate) 矢量搜索引擎和矢量数据库.  Weaviate 使用机器学习来向量化和存储数据，并找到自然语言查询的答案. 借助 Weaviate，您还可以将自定义 ML 模型带入生产规模.
 * [MLReef](https://about.mlreef.com/) - MLReef 是一个端到端的开发平台，利用 git 的力量为 ML 开发过程提供结构和深度协作的可能性.
 * [Pinecone](https://www.pinecone.io/) - 用于需要实时、可扩展矢量嵌入和相似性搜索的应用程序的矢量数据库.
 * [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - 浏览器扩展（[Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) 和 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds 和 shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.

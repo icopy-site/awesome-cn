@@ -21,7 +21,7 @@
 
 <!--lint disable double-link-->
 
-[IAM](https://en.wikipedia.org/wiki/Identity_management) stands for Identity and Access Management. But is more than handling user accounts: it encompass authentication, authorization and privacy, making this perimeter quite complex. It is an essential pillar of the cloud stack, where users, products and security meets. The [other pillar being billing & payments 💰](https://github.com/kdeldycke/awesome-billing/).
+[IAM](https://en.wikipedia.org/wiki/Identity_management) 代表身份和访问管理. 但不仅仅是处理用户帐户：它包含身份验证、授权和隐私，使这个边界变得非常复杂. 它是云堆栈的重要支柱，用户、产品和安全在这里相遇. 这 [other pillar being billing & payments 💰](https://github.com/kdeldycke/awesome-billing/).
 
 该知识库以全面且可操作的方式公开了该领域的所有技术、协议和术语.
 
@@ -47,7 +47,7 @@
 
 - [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - 使 B2B 用户满意的大部分功能将由 IAM 边界实现.
 
-- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过于宽松的 AWS IAM 政策允许 `s3:GetObject` 访问 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
+- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过于宽松的 AWS IAM 策略允许 `s3:GetObject` 访问 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
 
 - [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/)  - 有点*点击诱饵*，但作者承认“这取决于你对他们的信任程度 1.继续经营；  2. 不抬高价格；  3. 不贬低您的服务；  4. 在业务加速方面为您提供的价值多于灵活性方面的损失.”
 
@@ -65,7 +65,7 @@
 
 ## Account Management
 
-IAM 的基础：用户、组、角色和权限的定义和生命周期.
+The foundation of IAM: the definition and life-cycle of users, groups, roles and permissions.
 
 - [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 帐户管理的元批评，其中业务期望的功能与真实用户需求发生冲突，以虚构的项目经理编写的用户故事的形式出现.
 
@@ -75,7 +75,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/) - 关于用户名作为标识符的概念，以及当 unicode 字符满足唯一性要求时引入的复杂性.
 
-- [Kratos](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
+- [Kratos](https://github.com/ory/kratos) - 用户登录、用户注册、2FA 和个人资料管理.
 
 - [Conjur](https://github.com/cyberark/conjur) - 自动保护特权用户和机器身份使用的机密.
 
@@ -233,7 +233,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Adding JSON Web Token API Keys to a DenyList](https://auth0.com/blog/denylist-json-web-token-api-keys/) - 关于令牌失效.
 
-- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - 和 [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)， 因为 [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141) . 根据您存储它们的位置，它们会引入大小问题或安全问题. 有状态 JWT 令牌在功能上与会话 cookie 相同，但没有经过实战测试和良好审查的实现或客户端支持.
+- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - And [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)， 因为 [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141) . 根据您存储它们的位置，它们会引入大小问题或安全问题. 有状态 JWT 令牌在功能上与会话 cookie 相同，但没有经过实战测试和良好审查的实现或客户端支持.
 
 - [JWT, JWS and JWE for Not So Dummies\!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)  - 签名的 JWT 称为 JWS（JSON Web 签名）. 事实上，JWT 本身并不存在——它必须是 JWS 或 JWE（JSON Web 加密）. 它就像一个抽象类——JWS 和 JWE 是具体的实现.
 
@@ -241,7 +241,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [JWT.io](https://jwt.io) - 允许您解码、验证和生成 JWT.
 
-- [`loginsrv`](https://github.com/tarent/loginsrv) - 独立的简约登录服务器，为多个登录后端（htpasswd、OSIAM、用户/密码、HTTP 基本身份验证、OAuth2：GitHub、Google、Bitbucket、Facebook、Gitlab）提供 JWT 登录.
+- [`loginsrv`](https://github.com/tarent/loginsrv) - 独立简约登录服务器，为多个登录后端（htpasswd、OSIAM、用户/密码、HTTP 基本身份验证、OAuth2：GitHub、Google、Bitbucket、Facebook、Gitlab）提供 JWT 登录.
 
 ### OAuth2 & OpenID
 
@@ -253,7 +253,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/) - 以简化格式描述协议的参考文章，以帮助开发人员和服务提供商实现它.
 
-- [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从关于这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱以使其不那么令人生畏.
+- [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从关于这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱，以使其不那么令人生畏.
 
 - [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 关于 Teleport（一种开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实用案例研究的一个很好的概述.
 
@@ -267,7 +267,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)  - “他们这样做是为了提供消息级别的完整性.  OAuth 2 切换到传输级机密性/完整性.”  （由 TLS 提供）（[source](https://news.ycombinator.com/item?id=17486165)).
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新并扩展了 OAuth 2.0 安全威胁模型，以结合自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而相关的新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以结合自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的相关新威胁”.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
@@ -319,9 +319,11 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 到 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
 
-- [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/) - 最流行的授权方案类型及其历史起源的概述.
+- [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)  - 我们如何从 DAC（unix 权限、秘密 URL）到 MAC（DRM、MFA、2FA、SELinux），再到 RBAC. 详细说明后者如何允许对策略、ACL、用户和组进行更好的建模.
 
-- [Role Based Access Control](https://csrc.nist.gov/projects/role-based-access-control) - 一个 NIST 项目，用于解释 RBAC 概念、成本和收益、RBAC 的经济影响、设计和实施问题、标准本身以及高级研究主题.
+- [The Case for Granular Permissions](https://cerbos.dev/blog/the-case-for-granular-permissions) - 讨论 RBAC 的局限性以及 ABAC（基于属性的访问控制）如何解决这些局限性.
+
+- [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/)  - 授权方案的历史渊源. 暗示不同团队和组织之间共享、信任和委派的未来.
 
 - [Semantic-based Automated Reasoning for AWS Access Policies using SMT](https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf)  - 榉树是 AWS 的做法. 该系统对IAM策略进行符号分析，根据用户的权限和访问约束解决资源的可达性. 另请参阅更高级别 [introduction given at re:inforce 2019](https://youtu.be/x6wsTFnU3eY?t=2111).
 
@@ -348,6 +350,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/)  - 饼干合并来自 cookie、JWT、杏仁饼和 Open Policy Agent 的概念.  “它提供了一种基于 Datalog 的逻辑语言来编写授权策略. 它可以存储数据（如 JWT）或小条件（如 Macaroons），但它还能够表示更复杂的规则，如基于角色的访问控制、委托、层次结构.”
 
 - [Oso](https://github.com/osohq/oso) - 包含电池的库，用于在您的应用程序中构建授权.
+
+- [Cerbos](https://github.com/cerbos/cerbos) - 用于编写上下文感知访问控制策略的授权端点.
 
 ### AWS policy tools
 
@@ -377,7 +381,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
-- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463) - As a consumer/verifier of macaroons, they allow you (through third-party caveats) to defer some authorization decisions to someone else. JWTs don't.
+- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463)  - 作为杏仁饼的消费者/验证者，他们允许您（通过第三方警告）将某些授权决定推迟给其他人.  JWT 没有.
 
 ## Secret Management
 
@@ -387,7 +391,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso)  - 不是 GCP 的 KMS，而是位于其基础架构核心的 KMS. 见 [slides](https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
 
-- [`vault`](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
+- [`vault`](https://www.vaultproject.io) - 保护、存储和严格控制对令牌、密码、证书、加密密钥的访问.
 
 - [`sops`](https://github.com/mozilla/sops) - 加密 YAML 和 JSON 文件的值，而不是密钥.
 
@@ -419,7 +423,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 一旦你拥有了大量的用户群，它就被称为社区. 然后，您将负责保护它：客户、人员、公司、业务，并促进其中发生的所有交互和交易.
 
-A critical intermediation complex driven by a policy and constraint by local laws, the Trust & Safety department is likely embodied by a cross-functional team of 24/7 operators and systems of highly advanced moderation and administration tools. You can see it as an extension of customer support services, specialized in edge-cases like manual identity checks, moderation of harmful content, stopping harassment, handling of warrants and copyright claims, data sequestration and other credit card disputes.
+信任与安全部门是由政策和当地法律约束驱动的关键中介复合体，可能由一个由 24/7 操作员和高度先进的调节和管理工具系统组成的跨职能团队体现. 您可以将其视为客户支持服务的扩展，专门用于边缘情况，例如手动身份检查、有害内容的审核、停止骚扰、授权和版权索赔的处理、数据隔离和其他信用卡纠纷.
 
 - [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) - 关于领域及其职责的精彩介绍.
 
@@ -465,7 +469,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Keep out the bad apples: How to moderate a marketplace](https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate)  - “拥有权利的同时也被赋予了重大的责任. 我的一些提示和技巧可以让您的市场变得更安全.”
 
-- [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/)  - 大量的外包分包商负责管理庞大的社交网络. 这些人处于最糟糕的境地，通常最终会患上创伤后应激障碍.
+- [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
 
 - [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - 一部关于这些薪酬过低的人删除帖子和删除帐户的团队的纪录片.
 
@@ -485,7 +489,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [The challenges of file formats](https://speakerdeck.com/ange/the-challenges-of-file-formats)  - 在某一时刻，您将允许用户在您的系统中上传文件. 这里有一个 [corpus of suspicious media files](https://github.com/corkami/pocs) 诈骗者可以利用它来绕过安全性或欺骗用户.
 
-- [SecLists](https://github.com/danielmiessler/SecLists)  - 收集在安全评估期间使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、fuzzing 有效载荷、web shell 等等.
+- [SecLists](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 - [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - 网络钓鱼工具包中威胁参与者使用的电子邮件地址的 CSV 数据库.
 
@@ -509,7 +513,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 防止滥用的第一道机械防线是简单明了的拒绝列表. 这是打击欺诈的唾手可得的成果，但您会惊讶于它们仍然有效.
 
-- [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)  - 非常适合此用例，因为布隆过滤器旨在快速检查元素是否不在（大）集合中. 特定数据类型存在布隆过滤器的变体.
+- [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter) - Perfect for this use-case, as bloom filters are designed to quickly check if an element is not in a (large) set. Variations of bloom filters exist for specific data types.
 
 - [How Radix trees made blocking IPs 5000 times faster](https://blog.sqreen.com/demystifying-radix-trees/) - 基数树可能会派上用场来加速 IP 阻止列表.
 
@@ -589,7 +593,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [Four cents to deanonymize: Companies reverse hashed email addresses](https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/) - “散列的电子邮件地址可以很容易地反转并链接到个人”.
 
-- [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - 解释背后的直觉 [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) ，一种理论框架，允许在不影响机密性的情况下共享聚合数据. 见后续文章 [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) and [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
+- [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - 解释背后的直觉 [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) ，一种理论框架，允许在不影响机密性的情况下共享聚合数据. 见后续文章 [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) 和 [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 
 - [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - 另一种匿名隐私模型.
 
@@ -649,9 +653,9 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 - [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - 添加到 IAM 边界的所有新功能的来源.
 
-- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 还要注意： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) and [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
+- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 还要注意： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) 和 [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
 
-- [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - 相关关键词： [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) and [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
+- [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - 相关关键词： [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) 和 [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
 
 - [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - DO 上的所有最新帐户更新.
 
@@ -669,7 +673,7 @@ A critical intermediation complex driven by a policy and constraint by local law
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) 经过 [Ben Sweet](https://unsplash.com/@benjaminsweet).
+The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
 
 <!--lint disable no-undefined-references-->
 
