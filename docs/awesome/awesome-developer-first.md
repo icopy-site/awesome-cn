@@ -7,7 +7,7 @@
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
-* “Headless”、“API-first”、“SaaS”是常用的关键词.
+* "Headless", "API-first", "SaaS" are frequently used keywords.
 * 通常，这意味着首页有一些代码示例.
 * 产品 - 人们付费购买的工具/服务.
 
@@ -22,7 +22,7 @@
 *跟踪网络/应用访问者.*
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
-* [Segment](https://segment.com/) - Collect user data and send it to your other tools.
+* [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
 * [Heap](https://heap.io/) - 适用于 Web 和移动设备的产品分析 API，可捕获所有事件. 
 
 ## Authentication & Identity
@@ -58,6 +58,7 @@
 ## Databases & Spreadsheets
 *存储和处理数据.*
 * [Airtable](https://airtable.com/) - 带有 API 的数据库和电子表格混合.
+* [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
 
 ## Debugging 
 *有助于跟踪错误的工具.*

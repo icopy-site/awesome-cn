@@ -14,7 +14,7 @@
 
 <img src="http://openmymind.net/assets/go/title.png" width="120px"/>
 
-The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
+ Little Go Book 是对 Google Go 编程语言的免费介绍. 它面向可能对指针和静态类型的想法不太满意的开发人员. 它比其他小书长，但希望仍然能捕捉到那种小小的感觉.
 
 ### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
@@ -22,7 +22,7 @@ The Little Go Book is a free introduction to Google's Go programming language. I
 
 本书是对使用 Go 语言进行计算机编程的简短介绍.  Go 由 Google 设计，是一种通用编程语言，具有现代功能、简洁的语法和强大的文档齐全的公共库，使其成为学习作为您的第一门编程语言的理想语言.
 
-这本书是免费 [read online](http://www.golang-book.com/) 或 [pdf f或m](http://www.golang-book.com/public/pdf/gobook.pdf).
+这本书是免费 [read online](http://www.golang-book.com/) 或者 [pdf f或者m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -143,11 +143,11 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 
 本书旨在向您介绍使用 Go 编程语言编写程序. 您将学习如何编写可在远程服务器或本地 Windows、macOS 和 Linux 系统上运行以进行开发的有用工具和应用程序. 可在 [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) 和 [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
 
-### [For the Love of Go: Fundamentals](https://bitfieldconsulting.com/books/fundamentals)
+### [For the Love of Go](https://bitfieldconsulting.com/books/love)
 
-<a href="https://bitfieldconsulting.com/books/fundamentals"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1600164215221-HLMVVYHID6RTDEXHKKGO/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmrMDYraMJMCQwFxTSOIP7LpSBEQpA-g5k6VTjWbSuadHJq0dp98hg5AZvIaPb3DoM/cover.png" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/love"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1631022836189-6XJP0HJJVF9M9HEVIMX5/cover.png?format=1500w" width="120px"/></a>
 
-这本可下载的电子书是 Go 编程语言的交互式介绍，适合初学者. 它介绍了 Go 中的测试驱动开发 (TDD) 工作流，并指导您实现完整的 Go 包，测试优先. 您将了解使用多种情况进行测试，以及如何测试可能返回错误的函数.
+本书面向完整的初学者以及具有其他语言编程经验的人员介绍了 Go. 它解释了 Go 中的测试驱动开发 (TDD)，如何使用包括结构、切片和映射在内的数据类型，还展示了如何使用方法和指针向对象添加行为. 包括数十个代码挑战，以及完整的解决方案和测试.
 
 ### [The Go Workshop](https://www.packtpub.com/product/the-go-workshop/9781838647940)
 
@@ -253,7 +253,7 @@ It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Comm
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51%2B8EdihuKL._SX404_BO1,204,203,200_.jpg" width="120px"/>
 
-Hands-On Dependency Injection in Go takes you on a journey, teaching you about refactoring existing code to adopt dependency injection (DI) using various methods available in Go.
+Go 中的动手依赖注入带您踏上旅程，教您如何使用 Go 中可用的各种方法重构现有代码以采用依赖注入 (DI).
 
 在本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，有些是非常规的，例如即时或配置注入. 每种方法都有详细的解释，重点是它们的优点和缺点，然后是一个如何应用它的分步示例. 通过大量示例，您将学习如何利用 DI 将代码转换为简单而灵活的代码.
 
@@ -286,7 +286,7 @@ code.
 
 攻击性主题包括暴力破解、端口扫描、数据包注入、网络抓取、社会工程和后期开发技术.
 
-**网页开发**
+**Web开发**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
@@ -357,7 +357,7 @@ code.
 <a href="https://buildsaasappingo.com"><img src="https://buildsaasappingo.com/public/basaig.jpg" width="120"/></a>
 
 我们将共同构建一个强大的、API 优先的、可重用的代码库，适用于 
-构建 SaaS 或 vanilla Web 应用程序. 在本书的最后，你将拥有 
+building a SaaS or vanilla web application. By the end of the book you'll have 
 一个坚实的框架，用作未来项目的起点.
 
 ### [Let's Go!](https://lets-go.alexedwards.net/)
@@ -370,7 +370,7 @@ code.
 
 <img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
-让我们走得更远帮助您扩展和扩展您的 Go 知识 - 带您超越基础知识并指导您完成开发、管理和部署 API 和 Web 应用程序的高级模式. 在本书结束时，您将拥有创建强大且专业的 API 所需的所有知识，这些 API 充当 SPA 和本机移动应用程序的后端，或充当独立服务.
+Let’s Go Further helps you extend and expand your knowledge of Go — taking you beyond the basics and guiding you through advanced patterns for developing, managing and deploying APIs and web applications. By the end of the book you'll have all the knowledge you need to create robust and professional APIs which act as backends for SPAs and native mobile applications, or function as stand-alone services.
 
 ### [Go Brain Teasers](https://gum.co/Qkmou)
 
@@ -407,6 +407,13 @@ code.
 <img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
 
 这是 Mastering Go 的第 3 版. 这个最新版本中有许多令人兴奋的新主题，包括编写 RESTful 服务、使用 Websocket 协议、使用 GitHub Actions 和 GitLab Actions for Go 项目以及关于泛型的全新章节和许多实用工具的开发. 你可以找到这本书的FAQ [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-faq/) 和 TOC [here](https://www.mtsoukalos.eu/2021/08/mastering-go-3rd-edition-toc/).
+
+### [Learn Data Structures and Algorithms with Golang](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
+
+<img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
+
+本书首先介绍了 Go 的数据结构和算法. 您将学习如何使用链表、数组、堆栈和队列来存储数据. 继续前进，您将发现如何实现排序和搜索算法，然后是二叉搜索树. 本书还将通过在算法设计中串接数据类型和实现散列结构来帮助您提高应用程序的性能. 最后，您将能够应用传统的数据结构来解决实际问题.
+读完本书，您将熟练地在 Go 中实现经典的数据结构和算法，从而推动您成为一名自信的 Go 程序员.
 
 Resources
 ====
