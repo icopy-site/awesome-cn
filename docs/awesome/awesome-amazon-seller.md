@@ -22,7 +22,7 @@
 - [Feedbackz](https://www.feedbackz.com/) - 专为精通营销的亚马逊卖家打造，他们寻求更美观、更有针对性的自动跟进电子邮件渠道.
 - [Forecastly](https://www.forecast.ly/) - 预测未来的产品需求，做出快速准确的购买决策.
 - [ForecastRx](https://www.forecastrx.com/)  - 库存预测解决方案. 预测未来的需求，以便您可以在正确的时间以正确的数量购买正确的产品.
-- [Helium10](https://www.helium10.com/) - 软件套件包含十多种工具，可帮助查找排名靠前的关键字、识别趋势、监控竞争对手并全面优化产品列表以增加销售额.
+- [Helium10](https://www.helium10.com/) - Software suite contains over a dozen tools that help find high ranking keywords, identify trends, monitor competitors, and fully optimize product listings to increase sales.
 - [HelloProfit](https://helloprofit.com/) - 让您从一个仪表板查看来自不同商家帐户的所有销售和利润数据.
 - [Jungle Scout](https://www.junglescout.com/) - 跟踪和比较关键产品指标，数据库允许您按需求、价格、估计销售额、评级、季节性、维度等过滤多个类别的产品，找出哪些产品销售以及哪些细分市场有很高的机会.
 - [Keyword Tool](https://keywordtool.io/amazon) - 使用亚马逊自动完成功能查找出色的关键字.
@@ -37,6 +37,7 @@
 - [Sonar](http://sonar-tool.com/) - 来自 Sellics 的免费亚马逊关键词研究工具.
 - [Splitly](https://splitly.com/) - 算法拆分测试、自动定价优化、关键字排名跟踪.
 - [TradeGecko](https://www.tradegecko.com/) - 适用于现代在线业务的基于云的库存和订单管理软件.
+- [Turbo Piranha](https://www.turbopiranha.com/) - 批量产品搜索、利润计算和竞争分析软件，使用 Excel/CSV/TXT 格式的 UPC、ISBN、EAN 和 ASIN 列表，用于批发和套利商业模式，以及图书销售商/翻转者.
 - [WordTree](https://www.wordtree.io/) - 用于增加搜索流量、研究竞争对手和监控细分市场的关键字工具.
 - [xSellco](https://www.xsellco.com/) - 集中客户查询，通过请求满意客户的评论来定位积极反馈，自动重新定价.
 
@@ -48,16 +49,17 @@
 - [Follow The Data](https://viral-launch.com/follow-the-data-amazon-fba-seller-podcast.html)  - 由 Cameron Yoder（病毒发布）主持. 此播客的目标是帮助您成功深入了解自己的亚马逊卖家旅程，使用数据作为整个旅程的锚点.
 - [Keyword: The Amazon Insider Podcast](http://keywordpodcast.com/)  - 由凯特瓦伦丁主持. 仅提供来自前任和现任亚马逊员工的权威内容.
 - [The Ecommerce Momentum](https://ecommercemomentum.com/)  - 由斯蒂芬彼得森主持. 对全球顶级亚马逊、eBay 和电子商务卖家的采访.
-- [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/)  - 由史蒂夫·周主持. 一个基于采访的节目，史蒂夫带来了在网上扼杀它的小企业企业家. 节目中的所有企业家都启动了自己的业务，并开始了自己的企业，以某种方式改善他们的生活方式.
+- [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/)  - 由史蒂夫·周主持. 一个基于采访的节目，史蒂夫带来了在线扼杀它的小企业企业家. 节目中的所有企业家都启动了自己的业务并开始了自己的企业，以某种方式改善他们的生活方式.
 
 ## Blogs
 
 - [JumpSend](https://www.jumpsend.com/blog/)  - 由 Greg Mercer 和 Adam Zlotnik 撰写. 卖家如何增加评论和列表优化的提示.
-- [JungleScout](https://www.junglescout.com/blog/)  - 宇宙中最新的亚马逊卖家资源. 了解最新的亚马逊战略并在竞争中保持领先地位.
+- [JungleScout](https://www.junglescout.com/blog/)  - 宇宙中最新的亚马逊卖家资源. 了解最新的亚马逊策略并在竞争中保持领先地位.
 - [SellerEngine](https://sellerengine.com/blog/) - 一个定期更新的博客，其中包含一个很棒的 Amazon Account Holder Digest 系列.
 - [SellerLabs](https://www.sellerlabs.com/blog/) - 来自 SellerLabs 的博客，其中有很棒的 ICYMI：亚马逊卖家新闻系列.
 - [Sellics](https://sellics.com/blog) - Sellics 为卖家提供战略建议.
 - [Tamebay](https://tamebay.com/) - Tamebay 是领先的情报和新闻提供商，为所有在在线市场上进行交易的企业和商务人士提供情报和新闻，无论他们是希望提高销售额的经验丰富的超级卖家，还是寻求建议和最佳实践的初学者.
+- [Turbo Piranha](https://www.turbopiranha.com/articles/) - 亚马逊新闻、更新和电子商务最佳实践
 - [WebRetailer](https://www.webretailer.com/) - WebRetailer 是卖家信息的宝库，也是网络上的主要资源之一.
 
 ## Other
@@ -65,12 +67,13 @@
 - [FBA Catalog](https://fbacatalog.com)  - 亚马逊卖家的软件目录. 立即找到适合您业务的工具！
 - [FBA Monthly](https://fbamonthly.com) - FBA 月刊是本月最重要的关于亚马逊业务的新闻文章和博客文章的全面摘要.
 - [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - 适用于 FBA 卖家的 Subreddit.
+- [500K ASIN Lists](https://app.turbopiranha.com/Download/bestselleritems) - 每周免费 500K ASIN 在 8 个市场（美国、CA、MX、英国、DE、ES、FR、IT）的流行类别中列出.  
 
 ---
 
 ## Contribute
 
-Contributions welcome!
+欢迎投稿！
 
 阅读 [contribution guidelines](https://github.com/ScaleLeap/awesome-amazon-seller/blob/master/contributing.md) 第一的.
 

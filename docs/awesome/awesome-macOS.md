@@ -195,7 +195,7 @@
 - [CloudApp](https://www.getcloudapp.com/) - 立即捕获和共享文件和屏幕截图.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  - 实时文件共享应用程序，支持即时共享代码/Markdown、注释截图、屏幕录制和录音.  ![免费软件][免费软件图标]
 - [mac2imgur](https://github.com/mileswd/mac2imgur)  - 将图像和屏幕截图上传到 Imgur.  [![开源软件][OSS图标]](https://github.com/mileswd/mac2imgur) ![免费软件][免费软件图标]
-- [Monosnap](https://monosnap.com) - 注释和上传图像和屏幕截图，支持许多后端，如 S3、SFTP、WebDAV、Dropbox 等！[免费软件][免费软件图标]
+- [Monosnap](https://monosnap.com) - 注释和上传图片和屏幕截图，支持许多后端，如 S3、SFTP、WebDAV、Dropbox 等！[免费软件][免费软件图标]
 - [Transmission](https://www.transmissionbt.com/)  - 简单、轻量级、多平台的 Torrent 客户端.  [![开源软件][OSS图标]](https://github.com/transmission/transmission) ![免费软件][免费软件图标]
 
 
@@ -305,7 +305,7 @@
 - [Clocker](https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12)  - 从 Mac 菜单栏中检查多个时区的时间.  [![开源软件][OSS图标]](https://github.com/Abhishaker17/Clocker) ![免费软件][免费软件图标]
 - [Juice](https://github.com/brianmichel/Juice)  - 让您的电池信息更有趣.  [![开源软件][OSS图标]](https://github.com/brianmichel/Juice) ![免费软件][免费软件图标]
 - [Sonora](https://github.com/sonoramac/Sonora)  - 一款小巧、设计精美的音乐播放器.  [![开源软件][OSS图标]](https://github.com/sonoramac/Sonora) ![免费软件][免费软件图标]
-- [SoundCleod](http://soundcleod.com/)  - SoundCloud 的浏览器.  [![开源软件][OSS 图标]](https://github.com/salomvary/soundcleod) ![免费软件][免费软件图标]
+- [SoundCleod](http://soundcleod.com/)  - SoundCloud 的浏览器.  [![开源软件][OSS图标]](https://github.com/salomvary/soundcleod) ![免费软件][免费软件图标]
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - 强大、美观、快速的 Pinboard 客户端.
 - [Transmit](https://panic.com/transmit/) - 一个 FTP 客户端.
 
@@ -385,7 +385,7 @@ Ansible playbook 从干净的 macOS 安装配置开发和桌面环境.
 * [MIDAS](https://github.com/etsy/MIDAS)  - 入侵检测分析系统.  [![开源软件][OSS图标]](https://github.com/etsy/MIDAS)
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![开源软件][OSS图标]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [OSXCollector](https://github.com/Yelp/osxcollector)  - 法医证据收集和分析工具包.  [![开源软件][OSS图标]](https://github.com/Yelp/osxcollector) ![免费软件][免费软件图标]
-* [Pareto Security](https://github.com/paretoSecurity/pareto-mac/)  - MenuBar 应用程序可自动审核您的 Mac 以确保基本安全卫生.  [![开源软件][OSS图标]](https://github.com/paretoSecurity/pareto-mac/)
+* [Pareto Security](https://paretosecurity.app/)  - MenuBar 应用程序可自动审核您的 Mac 以确保基本安全卫生.  [![开源软件][OSS图标]](https://github.com/paretoSecurity/pareto-mac/)
 * [santa](https://github.com/google/santa)  - 二进制白名单/黑名单系统.  [![开源软件][OSS 图标]](https://github.com/google/santa) ![免费软件][免费软件图标]
 * [Shimo](https://www.shimovpn.com) - 适用于 Mac 的全功能 VPN 客户端.
 * [SimpleumSafe](https://simpleum.com/) - 使用 macOS 或 iOS 加密、整理和同步文件.
