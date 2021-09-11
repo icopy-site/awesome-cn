@@ -17,7 +17,7 @@
  &gt; `R` `Discord` 服务器是一个友好且专注的社区，面向 `R` 爱好者、程序员、统计学家、数据科学家和学生. 无论您是想与其他用户建立联系，有很棒的数据要共享，还是只是需要统计任务的帮助，您都来对地方了！ 
 
 <div align="center">
-	To join the R Discord server, please click the discoRd badge below. <br>
+	要加入 R Discord 服务器，请单击下面的 discoRd 徽章.<br>
 <a href="https://discord.gg/6fcReuUHgg">
 <img alt="Discord" src="https://img.shields.io/discord/676433858782298142?label=discoRd%20server&logo=R&logoColor=blue"></a>
 <br>
@@ -49,6 +49,7 @@
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - 教程按技能水平（初级、中级、专家）分组. 
 - [Intro to R course by Fabio Votta - part 1](https://colab.research.google.com/drive/1dLsdGbkvgn1JbWgsy9Z-pFmPd_2MG4Xu?usp=sharing#scrollTo=vGnW7giO9AeD) - R 编程的有趣介绍，分为几类（运算符、对象、函数、练习和数据框）.
 - [Intro to R course by Fabio Votta - part 2](https://colab.research.google.com/drive/14CRElnKewnp5MnlxhqVu6OOcIXd-Bkaj?usp=sharing) - 一个有趣的 R 编程介绍，分为几类（数据操作和清理，包括看门人、tidyr 和 dplyr 包）.
+- [Introduction to Data Analysis with R](https://jmbuhr.de/dataIntro20/) - 这是一个系列讲座，包含介绍 R 和 tidyverse 以及统计概念的视频、脚本和练习.
 - [R CODER](https://r-coder.com) - 教程分为几类（介绍、数据结构、数据整理、编程、导入和导出、图形），深入涵盖了开始学习 R 编程语言的人的所有基本需求. 
 - [Tutorials Point](https://www.tutorialspoint.com/r/index.htm) - 教程分为几类（R 教程、R 数据接口、R 图表和图形、R 统计示例、R 有用资源），深入涵盖了开始学习 R 编程语言的人的所有基本需求.
 
@@ -58,7 +59,7 @@
 
 ### Generative Art
 
-- [12 Months of aRt](https://www.williamrchase.com/work/art/) - 2019 年，William Chase 开始了一个项目，每个月都制作一个完全用 R 制作的新系列艺术品.在这个项目中，他探索了不同的技术，开发了算法，并提供了详细的帖子，详细说明了每个月的开发过程.
+- [12 Months of aRt](https://www.williamrchase.com/work/art/) - In 2019, William Chase began a project to make a new series of artwork every month made entirely with R. In this project, he explored different techniques, developed algorithms, and provided detailed posts detailing the development process for each month.
 
 ### Joining Data
 
@@ -122,7 +123,7 @@
 
 ### Uncategorized
 
-- [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)  - R 包 data.table 和 dplyr 的详细比较. 作者：阿特雷巴斯.
+- [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
 - [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)  - data.table 的快速介绍. 主要目标是展示 data.table 语法，展示如何执行基本但必不可少的数据整理任务. 作者：阿特雷巴斯.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - 作者：科林·费伊.
 - [From base R to stringr](https://stringr.tidyverse.org/articles/from-base.html)  - 此小插图将 stringr 函数与其基本 R 等效项进行比较，以帮助用户从使用基本 R 过渡到 stringr. 作者：萨拉·斯托特.
@@ -167,7 +168,7 @@
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)  - 这本书是关于使用计算机的力量来处理地理数据的事情. 它教授一系列空间技能，包括阅读、写作和处理地理数据； 制作静态和交互式地图； 应用地理计算来解决现实世界的问题； 和建模地理现象. 作者：Robin Lovelace、Jakub Nowosad、Jannes Muenchow.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)  - 这本书提供了 ggplot2 的动手介绍，并附有大量示例代码和图形. 它还解释了 ggplot2 所基于的语法. 作者：哈德利·威克姆.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)  - Happy Git 提供了关于如何安装 Git 并使其与 GitHub、shell 和 RStudio IDE 顺利运行的自以为是的说明，开发涵盖您最常见任务的一些关键工作流，并将 Git 和 GitHub 集成到您的日常工作中R 和 R 降价. 作者：Jenny Bryan、STAT 545 助教、Jim Hester.
-- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - This book started out as the class notes used in the HarvardX Data Science Series. It introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown.  Author: Professor Rafael A. Irizarry.
+- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  - 这本书最初是作为HarvardX 数据科学系列中使用的课堂笔记. 它介绍了可帮助您应对现实世界数据分析挑战的概念和技能. 它涵盖了概率、统计推断、线性回归和机器学习的概念. 它还可以帮助您培养诸如 R 编程、使用 dplyr 进行数据处理、使用 ggplot2 进行数据可视化、使用插入符号构建算法、使用 UNIX/Linux shell 进行文件组织、使用 Git 和 GitHub 进行版本控制以及使用 knitr 和 R markdown 进行可复制的文档准备等技能. 作者：Rafael A. Irizarry 教授.
 - [Introduction to Probability and Statistics Using R](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf)  - 这本书可以细分为三个基本部分. 第一部分包括绪论和基本描述统计； 我希望学生们一开始就深入了解数据. 第二部分是概率研究，从集合和等概率模型的基础开始，经过离散/连续随机变量，并继续到多元分布. 抽样分布一章为第三部分，即推论统计铺平了道路. 最后一部分包括点估计和区间估计、假设检验，最后介绍应用统计学中的选定主题. 作者：G. Jay Kerns.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  - 本文档简要介绍了 R.它强调了在任何上下文中使用该语言所需的知识. 作者：罗伯特·希曼斯教授.
 - [JavaScript for R](https://book.javascript-for-r.com/)  - 这项工作的最终目的是向读者展示通过将 JavaScript 引入他们的数据科学工作流程可以获得的许多巨大好处. 作者：约翰·科恩.
@@ -222,7 +223,7 @@
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) - 主题包括预测文本建模、估算缺失数据、tidymodels、情感分析、多项式分类、主成分分析、数据预处理和重采样以及多项式分类.
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos) - 不同专家就各种主题进行深入交谈.
 - [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures/featured) - 主题包括描述性统计、方差分析、自举、线性回归、双变量分析和概率分布.
-- [Numyard](https://www.youtube.com/c/TheLearnR/videos) - 主题包括使用数据帧、for 循环、基本数学、向量、列表、创建函数、数据类型和随机采样.
+- [Numyard](https://www.youtube.com/c/TheLearnR/videos) - 主题包括使用数据帧、for 循环、基本数学、向量、列表、创建函数、数据类型和随机抽样.
 - [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) - 主题包括粘贴函数、应用函数系列、while 和 for 循环、条件语句、可视化、删除 NA 和组合数据.
 - [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) - R 播放列表包括有关使用 dplyr 操作数据、使用 ggplot2 和 ggThemeAssist 可视化数据、数据类型和结构、重要的基础 r 函数、使用 lubridate 处理日期时间、使用 forcats 征服因素、使用 stringr 操作文本的视频. 
 - [Shiny Developer Series](https://www.youtube.com/c/ShinyDeveloperSeries/videos) - Shiny 开发者系列的目标是展示不断发展的 Shiny 生态系统中的创新应用程序和软件包，以及它们背后的杰出开发者！ 

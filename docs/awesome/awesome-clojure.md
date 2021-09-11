@@ -123,6 +123,7 @@
 *数据库和数据库客户端库*
 
   * [Datomic](http://www.datomic.com/)
+  * [xtdb](https://github.com/xtdb/xtdb)：用于 SQL、Datalog 和图形查询的双时态数据库
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
   * [Datalevin](https://github.com/juji-io/datalevin)

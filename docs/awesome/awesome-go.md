@@ -12,7 +12,7 @@
 ## Sponsorships
 > [![Digital Ocean](https://avelino.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
 
- **我们没有月费**_，但我们有员工**努力**维护Awesome Go，筹集的资金可以回报每个参与者的努力！ 所有计费和分发将向整个社区开放._
+ **我们没有月费**_，但我们有员工**努力**维护Awesome Go，筹集到的钱可以回报每个参与者的努力！ 所有计费和分发将向整个社区开放._
 
 精选的 Go 框架、库和软件的精选列表. 灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -242,7 +242,7 @@
 * [genv](https://github.com/sakirsensoy/genv) - 使用 dotenv 支持轻松读取环境变量.
 * [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - 从 AWS System Manager - Parameter Store 获取参数的 Go 包.
 * [go-ini](https://github.com/subpop/go-ini) - 一个用于编组和解组 INI 文件的 Go 包.
-* [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go 实用程序，用于从 AWS SSM（参数存储）加载配置参数.
+* [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
 * [go-up](https://github.com/ufoscout/go-up) - 一个简单的配置库，具有递归占位符解析并且没有魔法.
 * [goConfig](https://github.com/crgimenes/goConfig) - 将结构解析为输入，并使用来自命令行、环境变量和配置文件的参数填充该结构的字段.
 * [godotenv](https://github.com/joho/godotenv) -转到 Ruby 的 dotenv 库的端口（从`.env` 加载环境变量）.
@@ -281,7 +281,7 @@
 * [gomason](https://github.com/nikogura/gomason) - 从干净的工作区测试、构建、签名和发布您的 go 二进制文件.
 * [gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - 为人类测试输出.
 * [goveralls](https://github.com/mattn/goveralls) - 集成 Coveralls.io 连续代码覆盖率跟踪系统.
-* [overalls](https://github.com/go-playground/overalls) - 多包 go 项目coverprofile，适用于总督等工具.
+* [overalls](https://github.com/go-playground/overalls) - 多包 go 项目coverprofile，用于诸如总督之类的工具.
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) - 递归覆盖测试工具.
 
 ## CSS Preprocessors
@@ -336,7 +336,7 @@
 * [hide](https://github.com/emvi/hide) - 带有编组到/来自散列的 ID 类型，以防止向客户端发送 ID.
 * [hilbert](https://github.com/google/hilbert) - 用于在空间填充曲线（例如 Hilbert 和 Peano 曲线）之间映射值的包.
 * [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间减少的 HyperLogLog 实现.
-* [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
+* [iter](https://github.com/disksing/iter) - 去实现 C++ STL 迭代器和算法.
 * [levenshtein](https://github.com/agext/levenshtein) - Levenshtein 距离和相似度指标，具有可定制的编辑成本和通用前缀的类似 Winkler 的奖励.
 * [levenshtein](https://github.com/agnivade/levenshtein) - 在 Go 中计算 levenshtein 距离的实现.
 * [merkle](https://github.com/bobg/merkle) - Merkle 根哈希和包含证明的空间高效计算.
@@ -449,7 +449,7 @@
 * [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - PostgreSQL 的高级调度.
 * [pgweb](https://github.com/sosedoff/pgweb) - 基于 Web 的 PostgreSQL 数据库浏览器.
 * [prep](https://github.com/hexdigest/prep) - 在不更改代码的情况下使用准备好的 SQL 语句.
-* [pREST](https://github.com/prest/prest) - 简化和加速开发，⚡ 在任何现有或新的 Postgres 应用程序上即时、实时、高性能.
+* [pREST](https://github.com/prest/prest) - 简化和加速开发，⚡ 在任何现有或新的 Postgres 应用程序上实现即时、实时、高性能.
 * [rwdb](https://github.com/andizzle/rwdb) - rwdb 为多个数据库服务器设置提供只读副本功能.
 * [vitess](https://github.com/youtube/vitess) -vitess 提供有助于扩展 MySQL 数据库以用于大规模 Web 服务的服务器和工具.
 
@@ -497,7 +497,7 @@
     * [pq](https://github.com/lib/pq) - 用于数据库/sql 的 Pure Go Postgres 驱动程序.
     * [Sqinn-Go](https://github.com/cvilsmeier/sqinn-go) - 带有纯 Go 的 SQLite.
 
-* NoSQL Databases
+* NoSQL 数据库
     * [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) - Go 语言的 Aerospike 客户端.
     * [arangolite](https://github.com/solher/arangolite) - ArangoDB 的轻量级 golang 驱动程序.
     * [asc](https://github.com/viant/asc) - Aerospike for go 的数据存储连接.
@@ -961,7 +961,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 获取完整列表.
 * [stegify](https://github.com/DimitarPetrov/stegify) - 用于 LSB 隐写术的 Go 工具，能够隐藏图像中的任何文件.
 * [svgo](https://github.com/ajstarks/svgo) - 用于 SVG 生成的 Go 语言库.
 * [tga](https://github.com/ftrvxmtrx/tga) - tga 包是一个 TARGA 图像格式解码器/编码器.
-* [webp-server](https://github.com/mehdipourfar/webp-server) - 能够存储、调整大小、转换和缓存图像的简单和最小的图像服务器.
+* [webp-server](https://github.com/mehdipourfar/webp-server) - Simple and minimal image server capable of storing, resizing, converting and caching images.
 
 ## IoT (Internet of Things)
 
@@ -1153,7 +1153,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 获取完整列表.
 * [Glue](https://github.com/desertbit/glue) - 强大的 Go 和 Javascript 套接字库（替代 Socket.io）.
 * [go-mq](https://github.com/cheshir/go-mq) - 具有声明性配置的 RabbitMQ 客户端.
 * [go-notify](https://github.com/TheCreeper/go-notify) - freedesktop 通知规范的本地实现.
-* [go-nsq](https://github.com/nsqio/go-nsq) - the official Go package for NSQ.
+* [go-nsq](https://github.com/nsqio/go-nsq) - NSQ 的官方 Go 包.
 * [go-res](https://github.com/jirenius/go-res) - 用于构建 REST/实时服务的包，其中客户端使用 NATS 和 Resgate 进行无缝同步.
 * [go-socket.io](https://github.com/googollee/go-socket.io) - 实时应用程序框架 golang 的 socket.io 库.
 * [go-vitotrol](https://github.com/maxatome/go-vitotrol) - Viessmann Vitotrol Web 服务的客户端库.
@@ -1379,7 +1379,7 @@ _**非官方** 用于构建项目的模式集._
 * [gotcp](https://github.com/gansidui/gotcp) - 用于快速编写 tcp 应用程序的 Go 包.
 * [grab](https://github.com/cavaliercoder/grab) - 用于管理文件下载的 Go 包.
 * [graval](https://github.com/koofr/graval) - 实验性的 FTP 服务器框架.
-* [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs 允许您检查 HTTP 请求并伪造响应.
+* [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs let you inspect HTTP requests and forge responses.
 * [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号程序.
 * [iplib](https://github.com/c-robinson/iplib) - 用于处理 IP 地址的库（net.IP、net.IPNet），受 Python 启发 [ipaddress](https://docs.python.org/3/library/ipaddress.html) 和红宝石 [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
 * [jazigo](https://github.com/udhos/jazigo) - Jazigo 是一个用 Go 编写的工具，用于检索多个网络设备的配置.
@@ -2094,6 +2094,7 @@ _**非官方** 用于构建项目的模式集._
 * [sorty](https://github.com/jfcg/sorty) - 快速并发/并行排序.
 * [spinner](https://github.com/briandowns/spinner) - 转到包以轻松提供带有选项的终端微调器.
 * [sqlx](https://github.com/jmoiron/sqlx) - 在优秀的内置数据库/sql 包之上提供了一组扩展.
+* [sshman](https://github.com/shoobyban/sshman) - 多个远程服务器上的authorized_keys 文件的SSH 管理器.
 * [statiks](https://github.com/janiltonmaciel/statiks) - 快速、零配置、静态 HTTP 文件服务器.
 * [Storm](https://github.com/asdine/storm) - 简单而强大的 BoltDB 工具包.
 * [structs](https://github.com/PumpkinSeed/structs) - 实现简单的函数来操作结构.
@@ -2185,7 +2186,7 @@ _**非官方** 用于构建项目的模式集._
 * [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的 Express.js 启发的 Web 框架.
 * [Fireball](https://github.com/zpatrick/fireball) - 更“自然”感觉的网络框架.
 * [Flamingo](https://github.com/i-love-flamingo/flamingo)  - 可插拔网络项目的框架. 包括模块的概念和为 DI、Configareas、i18n、模板引擎、graphql、可观察性、安全性、事件、路由和反向路由等提供的功能.
-* [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - 使用干净的架构（如 DDD、端口和适配器）提供电子商务功能，您可以使用它们来构建灵活的电子商务应用程序.
+* [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - 使用干净的架构（如 DDD、端口和适配器）提供电子商务功能，您可以使用这些功能构建灵活的电子商务应用程序.
 * [Gearbox](https://github.com/abahmed/gearbox) - 用 Go 编写的 Web 框架，专注于高性能和内存优化.
 * [Gin](https://github.com/gin-gonic/gin)  - Gin 是一个用 Go 编写的 Web 框架！ 它具有类似马提尼酒的 API，具有更好的性能，速度提高了 40 倍. 如果您需要性能和良好的生产力.
 * [Ginrpc](https://github.com/xxjwxc/ginrpc) - gin参数自动绑定工具，gin rpc工具.

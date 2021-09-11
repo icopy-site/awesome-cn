@@ -6,7 +6,7 @@
 
 &gt; 欢迎来到 **Awesome Golem**，这是一个社区策划的 Golem 资源、链接、项目、工具和应用程序列表！
 
- Golem 的用户以 Rust 实现 Yagna 的形式运行参考实现. 用户共同组成了 Golem 网络，这是一个计算资源的 P2P 市场，个人可以在其中充当两个非排他性角色之一； 提供者出售闲置资源，或请求者购买资源来运行任务.
+ Golem 的用户以 Rust 实现 Yagna 的形式运行参考实现. 用户共同组成了 Golem 网络，这是一个计算资源的 P2P 市场，个人可以在其中充当两个非排他性角色之一； 出售闲置资源的提供者，或购买资源以运行任务的请求者.
 
 
 
@@ -48,7 +48,7 @@
 ### Games
 
 - [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - 大小不同的数独游戏.
-- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - 通过运行大量模拟游戏，帮助《炉石传说》社区设计和构建套牌.
+- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.
 - [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem)  - 第一个应用部分中描述的国际象棋开源存储库. 包括 React 前端，用于 2 个 AI 通过 Golem 后端相互对抗.
 - [Golem Fleet Battle Simulator](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator)  - 计算两个敌对星舰舰队之间战斗结果的系统. 在 iOS 游戏 Rock Paper Frigate 中用于确定 PvP 舰队战斗的结果.
 
@@ -86,7 +86,7 @@
 
 ### Deep Learning
 - [Mlg](https://github.com/rezahsnz/mlg) - CNN 预测服务，这是一种深度学习应用程序，可分发使用 ImageNet 数据集进行预训练的流行 CNN.
-- [Deepart Golem](https://github.com/echinocacti/deepart_golem) - 通过运行 tensorflow 应用程序、上传您的内容和样式图片，使用分布式计算制作艺术作品.
+- [Deepart Golem](https://github.com/echinocacti/deepart_golem) - 通过运行 tensorflow 应用程序，上传您的内容和样式图片，使用分布式计算制作艺术作品.
 
 ### RNG
 - [Gandom](https://github.com/rezahsnz/gandom)  - 从提供者中提取随机流. 支持两种 PRNG，一种基于 Chaos 机器，另一种使用钠.
@@ -107,9 +107,9 @@
 
 ### Miscellaneous
 
-- [Gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash)  - 重新计算 gvmi 图像文件的哈希值. 解决了丢失先前上传图像的哈希值或者您不确定某个键是否对应于特定图像的问题.
+- [Gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash)  - 重新计算 gvmi 图像文件的哈希值. 解决了丢失先前上传图像的哈希值或您不确定某个键是否对应于特定图像的问题.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - 用于编译 VIM 编辑器的 Golemized docker 图像.
-- [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
+- [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要的消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - 锐化图像的工具.
 
 ## Developer and Requestor Resources
@@ -133,13 +133,13 @@
 
 ### Provisioning
 
-- [Ansible ya_provider](https://galaxy.ansible.com/golemfactory/ya_provider)- Ansible 角色，只需最少的配置即可自动部署 Golem 提供程序.
+- [Ansible ya_provider](https://galaxy.ansible.com/golemfactory/ya_provider) - Ansible 角色，只需最少的配置即可自动部署 Golem 提供程序.
 - [WSL](https://github.com/r34x/WSL)  - 允许 Windows 用户在适用于 Linux 的 Windows 子系统中运行 Golem. 删除 Windows 用户需要使用虚拟机的要求.
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform 脚本可在云提供商上自动部署 Golem 提供商并使用 prometheus 设置监控.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志来引导您完成整个过程，从而设置 Golem Provider.
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - 节点的 Docker 版本，可帮助您快速开始在 Docker 容器中作为提供者运行.
 - [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上述 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件并指定您想要生成的副本数量.
-- [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
+- [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 产生 x 数量的提供者.
 
 ## Learning Resources
 
@@ -160,25 +160,27 @@
 ### GitHub Digest Blog Series
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - 了解 Golem 存储库.
-- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - 潜入魔像储存库.
+- [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - 潜入魔像库.
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.
 - [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - 深入 Golem alpha 测试网.
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - 新交所 Golem 的概念验证.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - Golem 的 SGX 概念验证.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Golem 市场的去中心化.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - 很棒的魔像和 Alpha 3 的后续步骤.
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD 提供商支持、网络指标和改进的提案处理.
-- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - 来自社区反馈的改进.
+- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - 社区反馈的改进.
 - [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - 简单的日志收集.
 - [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - 我们正在主网上线并收集反馈.
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - 在 Golem 社区的帮助下进步更快.
 - [Golem GitHub Digest #14](https://blog.golemproject.net/golem-github-digest-14/) - 面向下一个主要版本.
+- [Golem GitHub Digest #15](https://blog.golemproject.net/golem-github-digest-15/) - 很棒的哥特式改进和 Beta 3.
+
 
 ## Community
 
 - [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - 参与社区并获得 GLM 代币奖励.
 - [Golem Network Discussion Group](https://t.me/GolemProject) - 社区驱动的电报频道.
-- [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - 删除 Reddit 上的 /r/GolemProject 帖子，并在找到特定关键字/命令时回复.
+- [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - 在 /r/GolemProject 上删除 Reddit 帖子，如果找到特定关键字/命令，则回复.
 
 ## Contributing
 
