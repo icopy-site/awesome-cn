@@ -40,6 +40,7 @@
 - [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) - 将 docker 数据库添加到您的测试上下文中.
 - [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) - 通过 Puppeteer 测试 Web 组件.
 - [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - 与 AVA 兼容的 JSON 输出.
+- [pava](https://github.com/TomerAberbach/pava) - 参数化测试.
 
 ## Works with AVA
 
@@ -55,7 +56,7 @@
 
 ## Tutorials
 
-- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) - 一系列关于使用 AVA 测试 React 和 Redux 项目的综合教程.
+- [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) - 关于使用 AVA 测试 React 和 Redux 项目的综合系列教程.
 
 ## Miscellaneous
 

@@ -3,6 +3,8 @@
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
+		<h3><a href="https://www.producthunt.com/posts/plash-2">我的 macOS 应用程序 Plash 在 Product Hunt</a></h3>
+		<br>
 	</div>
 	<br>
 	<hr>
@@ -188,7 +190,7 @@
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 漂亮的 git diff 到 HTML 生成器.
 - [Cash](https://github.com/dthree/cash) - 纯 JavaScript 中的跨平台 Unix shell 命令.
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - 在终端中试用 npm 包.
-- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+- [jscpd](https://github.com/kucherenko/jscpd) - 源代码的复制/粘贴检测器.
 - [atmo](https://github.com/Raathigesh/Atmo) - 服务器端 API 模拟.
 - [auto-install](https://github.com/siddharthkp/auto-install) - 在您编写代码时自动安装依赖项.
 - [lessmd](https://github.com/linuxenko/lessmd) - 终端中的降价.
@@ -740,7 +742,7 @@
 - [Charge](https://github.com/brandonweiss/charge) - 使用 JSX 和 MDX 的有意见的、零配置的静态站点生成器.
 
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 的 CMS 和 Web 应用程序平台.
+- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 构建的 CMS 和 Web 应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - 内容管理系统，强调基于 Express 和 MongoDB 的直观前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) - 用于构建强大 API 的内容管理框架（无头 CMS）.
 - [Tipe](https://github.com/tipeio/tipe) - 开发人员优先的内容管理系统，带有来自架构文件的 GraphQL 和 REST API.
@@ -827,7 +829,7 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新 npm 模块时的一些良好做法.
-- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念存在于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码中.
+- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整哲学存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
@@ -906,7 +908,7 @@
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - 回答有关流的常见问题，包括分页、事件等.
-- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Node.js Web 服务的源代码安全分析清单.
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ### Tools
 
