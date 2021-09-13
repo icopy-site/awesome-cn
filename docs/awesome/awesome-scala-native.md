@@ -3,7 +3,7 @@
 ## Awesome Scala Native [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="http://www.scala-native.org/"><img alt="Scala Native" align="right" width="250" height="250" src="https://raw.githubusercontent.com/tindzk/awesome-scala-native/master/logo.png"></a>
 
-[Scala Native](http://www.scala-native.org/) 是一个优化的提前编译器 [Scala programming language](https://www.scala-lang.org/) . 传统上，虚拟机， [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) , 是运行 Scala 程序所必需的.  Scala Native 利用编译器发出 [LLVM intermediate representation](http://llvm.org/docs/LangRef.html) 而不是 JVM 字节码. 然后，该 [LLVM](http://llvm.org/) 编译器基础结构用于生成本机库和可执行文件. 鉴于 Scala Native 可执行文件是独立程序，它们通常具有较短的启动时间和较低的内存消耗. 这开辟了部署 Scala 程序的新途径，而以前虚拟机是限制因素. 例如，开发人员可以为命令行或嵌入式设备编写程序.
+[Scala Native](http://www.scala-native.org/) 是一个优化的提前编译器 [Scala programming language](https://www.scala-lang.org/) . 传统上，虚拟机， [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) , 是运行 Scala 程序所必需的.  Scala Native 利用编译器来发出 [LLVM intermediate representation](http://llvm.org/docs/LangRef.html) 而不是 JVM 字节码. 然后，该 [LLVM](http://llvm.org/) 编译器基础结构用于生成本机库和可执行文件. 鉴于 Scala Native 可执行文件是独立程序，它们通常具有较短的启动时间和较低的内存消耗. 这开辟了部署 Scala 程序的新途径，而以前虚拟机是限制因素. 例如，开发人员可以为命令行或嵌入式设备编写程序.
 
 
 ## Tutorials and Examples
@@ -18,7 +18,7 @@
 ## Build Tools
 * [sbt](https://www.scala-sbt.org/) - Scala 的标准构建工具.
 * [Mill](https://github.com/lihaoyi/mill) - 构建工具力求简单，灵感来自 [Bazel](https://www.bazel.build/).
-* [Bloop](https://github.com/scalacenter/bloop) - Scala 构建服务器和命令行工具，用于快速开发人员工作流程.
+* [Bloop](https://github.com/scalacenter/bloop) - 用于快速开发人员工作流程的 Scala 构建服务器和命令行工具.
 * [Seed](https://github.com/tindzk/seed)  - 基于 Bloop 的构建工具. 专注于用户体验和跨平台构建，灵感来自 [Cargo](https://github.com/rust-lang/cargo).
 
 ## Functional Programming
@@ -53,7 +53,7 @@
 * [BLAS](https://github.com/ekrich/sblas) - 绑定 [BLAS](http://www.netlib.org/blas/)，线性代数库.
 * [Gtk+](https://github.com/jokade/scalanative-gtk) - 绑定 [GTK+](https://www.gtk.org/) 图形工具包.
 * [libsoup](https://github.com/jokade/scalanative-libsoup) - 绑定 [libsoup](https://wiki.gnome.org/Projects/libsoup) HTTP 客户端/服务器库.
-* [libui](https://github.com/lolgab/scalaui) - 基于图形界面的框架 [libui](https://github.com/andlabs/libui).
+* [libui](https://github.com/lolgab/scalaui) - 基于GUI框架 [libui](https://github.com/andlabs/libui).
 * [GStreamer](https://github.com/jokade/scalanative-gstreamer) - 绑定 [GStreamer](https://gstreamer.freedesktop.org) 多媒体框架.
 * [Qt](https://github.com/jokade/scalanative-qt5) - 绑定 [Qt](https://www.qt.io).
 * [ncurses](https://github.com/edadma/ncurses) - 绑定 [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
@@ -61,12 +61,13 @@
 * [libsndfile](https://github.com/edadma/libsndfile) - 绑定 [Libsndfile](https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html) 用于采样声音操作的 C 库.
 * [libpng](https://github.com/edadma/libpng) - 绑定 [libpng](http://www.libpng.org/) 用于读取和写入 PNG 的 C 参考库.
 * [libcairo](https://github.com/edadma/libcairo) - 绑定 [Cairo](https://www.cairographics.org/) 2D 图形 C 库.
+* [cairo-xlib](https://github.com/edadma/cairo-xlib) - 绑定 [Cairo](https://www.cairographics.org/) 二维图形 [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) 与绑定 [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) 以及.
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - 实施 [MessagePack](https://msgpack.org/)，一种二进制序列化格式.
 * [FastParse](https://github.com/lihaoyi/fastparse) - 用于定义和运行解析器的库.
 * [scalatags](https://github.com/lihaoyi/scalatags) - HTML/XML 构造和渲染.
-* [Pine](https://github.com/sparsetech/pine) - HTML/XML 解析、操作和渲染.
+* [Pine](https://github.com/sparsetech/pine) - HTML/XML 解析、操作和呈现.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON 解析器.
 * [uJson](http://www.lihaoyi.com/upickle/#uJson) - 用于 Scala 的快速、灵活和直观的 JSON
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) 带有编解码器派生的解析器.

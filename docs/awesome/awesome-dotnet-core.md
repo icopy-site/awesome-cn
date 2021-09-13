@@ -228,7 +228,7 @@
   * [MiniCover](https://github.com/lucaslorentz/minicover) - .NET Core 的极简代码覆盖工具.
   * [NBench](https://github.com/petabridge/NBench) - .NET 应用程序的性能基准测试和测试框架.
   * [Nexogen.Libraries.Metrics](https://github.com/nexogen-international/Nexogen.Libraries.Metrics) - 用于在 .NET 中收集应用程序指标并将其导出到 Prometheus 的库.
-  * [OpenCover](https://github.com/OpenCover/opencover) - .NET 2 及更高版本的代码覆盖工具（仅限 WINDOWS 操作系统），支持 32 和 64 进程，同时具有分支和序列点.
+  * [OpenCover](https://github.com/OpenCover/opencover) - .NET 2 及更高版本的代码覆盖工具（仅限 WINDOWS 操作系统），支持 32 和 64 进程以及分支和序列点.
   * [PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor) - .NET Core 应用程序性能监视器.
   * [prometheus-net](https://github.com/prometheus-net/prometheus-net) - .NET 客户端 [https://prometheus.io](https://prometheus.io).
   * [Prometheus.Client](https://github.com/PrometheusClientNet/Prometheus.Client) - .NET 客户端 [Prometheus](https://prometheus.io).
@@ -406,7 +406,7 @@
 * [log4net](https://github.com/apache/logging-log4net) - log4net 是优秀的 Apache log4j™ 框架到 Microsoft® .NE​​T 运行时的端口.
 * [NLog](https://github.com/NLog/NLog) - 高级 .NET、Silverlight 和 Xamarin 日志记录，支持结构化和非结构化日志记录.
   * [NLog for ASP.NET and ASP.NET Core](https://github.com/NLog/NLog.Web) - ASP.NET 和 ASP.NET Core 1-3 的 NLog 集成
-  * [NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging) - NLog Provider for Microsoft.Extensions.Logging for .NET Standard 库和 .NET Core 应用程序
+  * [NLog.Extensions.Logging](https://github.com/NLog/NLog.Extensions.Logging) - 用于 Microsoft.Extensions.Logging 的 NLog 提供程序，用于 .NET Standard 库和 .NET Core 应用程序
   * [NLog.Windows.Forms](https://github.com/NLog/NLog.Windows.Forms) - 特定于 Windows.Forms 的 NLog 目标
   * [NLog.MailKit](https://github.com/NLog/NLog.MailKit) - 使用使用 MailKit 库的替代邮件目标
 * [Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights) - 用于构建 ASP.NET Core 日志记录的日志附加程序，以将所有日志发送到 Application Insights.
@@ -588,6 +588,7 @@
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - 用于通过 RabbitMq 进行通信的现代 .NET 框架.
 * [Rebus](https://github.com/rebus-org/Rebus) - .NET 的简单精益服务总线实现.
 * [Restbus](http://restbus.org) - RabbitMq 的消息传递库.
+* [Silverback](https://github.com/BEagle1984/silverback) - 构建事件驱动应用程序的框架（支持 Kafka、RabbitMQ、MQTT）.
 * [Tossit](https://github.com/turgayozgur/tossit)  - 用于分布式作业/工作器逻辑的简单易用的库. 由内置 RabbitMQ 实现处理的分布式消息.
 
 ### Reporting
@@ -772,7 +773,7 @@
   * [AutoHistory](https://github.com/Arch/AutoHistory) - Microsoft.EntityFrameworkCore 的插件，支持自动记录数据更改历史记录.
 * [AspNetCore-Angular2-Universal](https://github.com/MarkPieszak/aspnetcore-angular2-universal) - 跨平台 - 为 SEO、Bootstrap、i18n 国际化 (ngx-translate)、Webpack、TypeScript、带 Karma 的单元测试、WebAPI REST 设置、SignalR、Swagger 文档等提供服务器端渲染！
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
-* [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) - Yeoman 生成器，用于构建全新的 ASP.NET Core 单页应用程序，该应用程序在客户端使用 Angular 2 / React / React With Redux / Knockout / Aurelia.
+* [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) - Yeoman 生成器用于构建全新的 ASP.NET Core 单页应用程序，该应用程序在客户端使用 Angular 2 / React / React With Redux / Knockout / Aurelia.
 * [ASP.Net Core Vue Starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) - Asp.NETCore 2.0 Vue 2 (ES6) SPA Starter kit，包含路由、Vuex 等！
 * [bitwarden-core](https://github.com/bitwarden/core) - 核心基础设施后端（API、数据库等） [https://bitwarden.com](https://bitwarden.com).
 * [dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
@@ -801,7 +802,7 @@
   * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) - ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
   * [aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - 使用 ASP.NET Core 实现服务发现模式的示例.
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - 介绍 ASP.NET Core 授权中的各种新部分的研讨会
-  * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 在 2016 年 12 月 Connect 大会上展示了一套综合的面向企业用户和消费者（自行车骑手）的交互应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
+  * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 在 2016 年 12 月 Connect 大会上展示了一套综合的面向企业用户和消费者（自行车骑手）的互通应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
   * [Clean Architecture Manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture sample with .NET Core 3.0 and C# 8. Use cases as central organising structure, completely testable, decoupled from frameworks.
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) - ASP.NET Core 多租户 Web 应用程序基础.

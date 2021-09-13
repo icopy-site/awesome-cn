@@ -19,14 +19,14 @@
 ### Auth
 
 - [FastAPI Auth](https://github.com/dmontagu/fastapi-auth) - 支持 OAuth2 密码流和 JWT 访问和刷新令牌的可插入身份验证.
-- [FastAPI Azure auth](https://github.com/Intility/fastapi-azure-auth) - FastAPI 的 Azure AD 身份验证.
+- [FastAPI Azure Auth](https://github.com/Intility/fastapi-azure-auth) - 具有单租户和多租户支持的 API 的 Azure AD 身份验证.
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - FastAPI 和云身份验证服务（AWS Cognito、Auth0、Firebase 身份验证）之间的简单集成.
 - [FastAPI Login](https://github.com/MushroomMaula/fastapi_login) - 账户管理和认证（基于 [Flask-Login](https://github.com/maxcountryman/flask-login)).
 - [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT 身份验证（基于 [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended)).
 - [FastAPI Permissions](https://github.com/holgi/fastapi-permissions) - 行级权限.
 - [FastAPI Security](https://github.com/jmagnusson/fastapi-security) - 在 FastAPI 中实现身份验证和授权作为依赖项.
 - [FastAPI Simple Security](https://github.com/mrtolkien/fastapi_simple_security) - 可通过路径操作管理开箱即用的 API 密钥安全性.
-- [FastAPI Users](https://github.com/frankie567/fastapi-users) - 账户管理、认证、授权.
+- [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - 账户管理、认证、授权.
 
 ### Databases
 
@@ -37,16 +37,16 @@
 - [GINO](https://github.com/python-gino/gino) - 构建在 SQLAlchemy 核心之上的轻量级异步 ORM，用于 Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) - 一个异步 ORM.
-- [ormar](https://collerek.github.io/ormar/)  - Ormar 是一个使用 Pydantic 验证的异步 ORM，可以直接在 FastAPI 请求和响应中使用，因此您只需要维护一组模型. 包括 Alembic 迁移.
+- [ormar](https://collerek.github.io/ormar/)  - Ormar 是一个异步 ORM，它使用 Pydantic 验证，可以直接在 FastAPI 请求和响应中使用，因此您只需要维护一组模型. 包括 Alembic 迁移.
   - [FastAPI Example](https://collerek.github.io/ormar/fastapi/) - 在 ormar 中使用 FastAPI.
 - [Piccolo](https://github.com/piccolo-orm/piccolo) - 异步 ORM 和查询构建器，支持 Postgres 和 SQLite，带有电池（迁移、安全性等）.
   - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - 将 FastAPI 与 Piccolo 一起使用.
   - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - 强大且现代的管理 GUI，使用 Piccolo ORM.
-- [Tortoise ORM](https://tortoise-orm.readthedocs.io/en/latest/index.html) - 受 Django 启发的易于使用的 asyncio ORM（对象关系映射器）.
-  - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
+- [Tortoise ORM](https://tortoise.github.io) - 受 Django 启发的易于使用的 asyncio ORM（对象关系映射器）.
+  - [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - Tortoise-ORM FastAPI 集成的一个例子.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-  - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM 迁移工具.
-- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel（由 Pydantic 和 SQLAlchemy 提供支持）是一个库，用于通过 Python 代码与 Python 对象与 SQL 数据库进行交互. 
+  - [Aerich](https://github.com/tortoise/aerich) - Tortoise ORM 迁移工具.
+- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel（由 Pydantic 和 SQLAlchemy 提供支持）是一个库，用于通过 Python 代码与 Python 对象与 SQL 数据库进行交互.
 
 #### Query Builders
 
@@ -55,8 +55,7 @@
 
 #### ODMs
 
-- [Beanie](https://github.com/roman-right/beanie) - MongoDB 的异步 Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/)
-and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的数据和架构迁移.
+- [Beanie](https://github.com/roman-right/beanie) - MongoDB 的异步 Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data 和 schema migrations out of the box.
 - [MongoEngine](http://mongoengine.org/) - 用于从 Python 处理 MongoDB 的文档对象映射器（想想 ORM，但用于文档数据库）.
 - [Motor](https://motor.readthedocs.io/) - 用于 MongoDB 的异步 Python 驱动程序.
 - [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM 集成 [Pydantic](https://pydantic-docs.helpmanual.io/).
@@ -87,7 +86,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 - [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 向 FastAPI 添加了 Chameleon 模板语言的集成.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 自以为是的实用程序集：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
-- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - 向 FastAPI 添加 Jinja 模板语言的集成.
+- [FastAPI Jinja](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 - [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) - FastAPI 的请求速率限制器.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) - MQTT 协议的扩展.
 - [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) - FastAPI 的分页.
@@ -137,7 +136,7 @@ and [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的�
 - [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - 使用 Cloud Run 和 SQL 实例将 Dockerized Python 应用程序部署到 Google Cloud Platform 的简短指南.
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
 - [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) - Dockerizing 一个 FastAPI 应用程序.
-- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - 使用测试驱动开发，使用 FastAPI、Postgres、Pytest 和 Docker 开发和测试异步 API.
+- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - Develop and test an asynchronous API with FastAPI, Postgres, Pytest, and Docker using Test-Driven Development.
 - [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/) - 通过与 Flask 的并排代码比较来学习 FastAPI.
 - [FastAPI Microservice Patterns](https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019) - 包含微服务模式示例性实现的博客文章系列.
   - [Local Development Environment](https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c) - 简而言之，Skaffold、docker、kubectl 和 minikube.
@@ -225,16 +224,18 @@ Compute:
 - [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - FastAPI 项目的 Cookiecutter 模板，使用：机器学习、诗歌、Azure Pipelines 和 pytest.
 - [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - 从 OpenAPI 生成现代 FastAPI Python 客户端（通过 FastAPI）.
 - [Pywork](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) 生成器来构建 FastAPI 应用程序.
-- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker 映像与 Uvicorn 由 Gunicorn 管理，用于 Python 3.7 和 3.6 中具有性能自动调整的高性能 FastAPI Web 应用程序.
+- [uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker 镜像与 Uvicorn 由 Gunicorn 管理，用于 Python 3.7 和 3.6 中具有性能自动调整的高性能 FastAPI Web 应用程序.
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn)  - 使用 Python 提供高性能异步 REST API 的模板.  FastAPI + GINO + Arq + Uvicorn（带 Redis 和 PostgreSQL）.
 - [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) - 使用 FastAPI、TypeScript、Docker、PostgreSQL 和 React 的全栈 cookiecutter 样板.
 - [FastAPI Nano](https://github.com/rednafi/fastapi-nano) - 具有工厂模式架构的简单 FastAPI 模板.
 - [inboard](https://github.com/br3ndonland/inboard) - Docker 映像为您的 FastAPI 应用程序提供支持并帮助您更快地交付.
+- [FastAPI template](https://github.com/s3rius/FastAPI-template)  - 灵活、轻量级的 FastAPI 项目生成器. 它包括对 SQLAlchemy、多个数据库、CI/CD、Docker 和 Kubernetes 的支持.
 
 ### Open Source Projects
 
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - 使用 FastAPI 的项目的有组织的列表.
 - [Bitcart](https://github.com/bitcartcc/bitcart) - 为商家、用户和开发人员提供易于设置和使用的平台.
+- [Bunnybook](https://github.com/pietrobassi/bunnybook) - 一个使用 FastAPI、React+RxJs、Neo4j、PostgreSQL 和 Redis 构建的小型社交网络.
 - [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) - 用于跟踪全球冠状病毒（COVID-19、SARS-CoV-2）爆发的 API.
 - [Dispatch](https://github.com/Netflix/dispatch) - 管理安全事件.
 - FastAPI CRUD 示例：
@@ -242,7 +243,7 @@ Compute:
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [DogeAPI](https://github.com/yezz123/DogeAPI) - 具有高性能的 API，可使用 OAuth2PasswordBearer 创建简单的博客和 CRUD.
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) - Websocket“广播”演示.
-- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - 将 FastAPI 和 Celery 与 RabbitMQ 用于任务队列，Redis 用于 Celery 后端，以及 Flower 用于监控 Celery 任务的最小示例.
 - [JeffQL](https://github.com/yezz123/JeffQL/) - 使用 GraphQL 和 JWT 的简单身份验证和登录 API.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - 基于 FastAPI 的 JSON-RPC 服务器.
 - [Mailer](https://github.com/rclement/mailer) - 用于静态网站的极其简单的邮件微服务.

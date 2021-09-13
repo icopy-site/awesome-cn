@@ -72,7 +72,7 @@
 * [deep](https://github.com/Nikaoto/deep)  - 增加Z轴； 允许您排队操作和绘制调用
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（一种人性化的 HSL 替代方案）
-* [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率定标器
+* [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器
 * [Push](https://github.com/Ulydev/push) - 一个简单的 LÖVE 分辨率处理库
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染
 * [svglover](https://github.com/globalcitizen/svglover) - 在 LÖVE 中导入和显示简单 SVG 的库
@@ -97,7 +97,7 @@
 * [batteries](https://github.com/1bardesign/batteries/) - 填写lua的稀疏标准库，并提供对游戏有用的通用算法和数据结构的实现.
 * [cartographer](https://github.com/tesselode/cartographer) - 小平铺地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) - 一个帮助库，可让您快速加载大量资产
-* [hump](https://github.com/vrld/hump)  - 使用 LÖVE 开发游戏的工具集（游戏状态、定时器/补间、矢量、类、信号、相机）. 回购处于非活动状态，但正在改进中 [this fork](https://github.com/HDictus/hump/tree/temp-master) （分支临时主）
+* [hump](https://github.com/vrld/hump)  - 使用 LÖVE 开发游戏的工具集合（游戏状态、定时器/补间、矢量、类、信号、相机）. 回购处于非活动状态，但正在改进中 [this fork](https://github.com/HDictus/hump/tree/temp-master) （分支临时主）
 * [iffy](https://github.com/YoungNeer/iffy) - LÖVE 的 SpriteSheet 和 Tileset 辅助库
 * [knife](https://github.com/airstruck/knife) - 有用的 Lua 微模块集合（类、状态机、绑定、链、协程、事件、记忆、实体、测试、计时器）
 * [shard](https://github.com/MineGame159/shard) - 收集有用的迷你模块
@@ -128,7 +128,7 @@
 ## Lighting
 *照明和阴影库*
 
-* [lighter](https://github.com/speakk/lighter) - 具有简单 API 的高性能动态灯光实现
+* [lighter](https://github.com/speakk/lighter) - 具有简单 API 的高性能动态光实现
 * [Shädows](https://github.com/matiasah/shadows) - 一个适合爱的阴影和灯光引擎
 * [Light World](https://github.com/tanema/light_world.lua) - 一个照明模型
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - 一个非常简单的光线投射灯实现
@@ -145,7 +145,7 @@
 * [MLib](https://github.com/davisdude/mlib)  - 用 Lua 编写的数学和形状相交检测库. 它的目标是健壮且易于使用
 * [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - hump.vector 兼容 LuaJIT FFI 加速 2D 矢量库
 * [shash](https://github.com/rxi/shash) - 一个简单、轻量级的 Lua 空间散列
-* [vector.lua](https://github.com/themousery/vector.lua) - 一个基于 PVector 类的简单矢量库处理
+* [vector.lua](https://github.com/themousery/vector.lua) - 基于 PVector 类的简单矢量库处理
 
 ## Music
 *音乐相关图书馆*
@@ -181,8 +181,8 @@
 
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具
 * [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形配置文件
-* [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua 是一个小型的、非侵入式的模块，用于查找 Lua 代码中的瓶颈
-* [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，可与 LuaJIT 配合使用并在列中打印漂亮的报告文件
+* [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua 是一个小型的非侵入式模块，用于查找 Lua 代码中的瓶颈
+* [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，它与 LuaJIT 一起工作并在列中打印一个漂亮的报告文件
 
 ## Physics
 *碰撞检测和物理包装器*
@@ -200,7 +200,7 @@
 * [LoveDos](https://github.com/rxi/lovedos) - 一个用于 2D DOS 游戏的 Lua 框架，实现了 LÖVE API 的一个子集
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - 正在开发的 Windows 手机 8.1 端口
 * [LovePotion](https://github.com/TurtleP/LovePotion) - 用于 Nintendo 3DS 和 Nintendo Switch Homebrew 的 LÖVE API 的非官方正在进行中的实现
-* [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - OneLua、lpp-vita 和 Lua Player PS3 的小而简单的包装器
+* [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - 适用于 OneLua、lpp-vita 和 Lua Player PS3 的小而简单的包装器
 * [Love.js](https://github.com/Davidobot/love.js) - LÖVE 使用 Emscripten 移植到网络
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE 适用于虚拟现实设备
 
@@ -266,17 +266,17 @@
 * [Patchy](https://github.com/excessive/patchy) - 9patch 库
 * [Polywell](https://gitlab.com/technomancy/polywell) - 一个高度可配置的文本编辑器/编码工具，用 Lua 编写，运行在 LÖVE 游戏引擎上.
 * [SafeWord](https://github.com/josefnpat/safeword) - LÖVE 的过扫描检测库
-* [Slab](https://github.com/coding-jackalope/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
+* [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
 * [SUIT](https://github.com/vrld/SUIT) - 小型即时模式 GUI 库
-* [ListBox](https://github.com/darkmetalic/ListBox) - LÖVE 的动态列表框，支持触摸、鼠标和键盘输入
+* [ListBox](https://github.com/darkmetalic/ListBox) - 支持触摸、鼠标和键盘输入的 LÖVE 动态列表框
 * [Lynx](https://gitlab.com/TSnake41/lynx) - 非常轻量级的基于列表的 UI 库.
-* [YALG](https://github.com/sasszem/yalg) - 一个非常简单、跨平台、反应式的 UI，适用于最后一刻的 UI.
+* [YALG](https://github.com/sasszem/yalg) - 一个非常简单、跨平台、反应式的 UI，适用于最后一分钟的 UI.
 * [Helium](https://github.com/qeffects/helium) - 一个现代的、可定制的、高性能的保留 UI 框架.
 
 ## Utilities
 *非游戏特定的库和工具*
 
-* [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - 二维数组的旋转（正方形和非正方形）
+* [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - 二维数组的旋转（方形和非方形）
 * [cargo](https://github.com/bjornbytes/cargo) - 资产经理
 * [chance.lua](http://ejmr.github.io/chance.lua/) - 用于生成随机数据的库
 * [colorchanger](https://github.com/santoslove/colorchanger) - 在你的 LÖVE 游戏中改变颜色
@@ -285,7 +285,7 @@
 * [hex2color](https://github.com/S-Walrus/hex2color/) - 使用 HEX 颜色值的单个函数
 * [i18n](https://github.com/excessive/i18n) - 旨在帮助本地化您的游戏的国际化库
 * [Ini Parser](https://github.com/FivosM/ini_parser) - 通用ini配置解析器
-* [log.lua](https://github.com/rxi/log.lua) - 用于可配置日志输出的库
+* [log.lua](https://github.com/rxi/log.lua) - 可配置日志输出库
 * [love-loader](https://github.com/kikito/love-loader) - 线程资源加载
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - 资产加载器
 * [love-pe](https://github.com/RamiLego4Game/love-pe) - LÖVE 制造的用于更改 LÖVE 图标本身的工具
@@ -310,7 +310,7 @@
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - 一篇关于在 LÖVE 游戏中使用 Tiled 创建的地图的文章
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - nooowaay 关于如何制作突破性克隆的完整教程
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - 使用 LÖVE（贪吃蛇、推箱子、俄罗斯方块等）制作简单游戏的教程
-* [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) - 哈佛大学的 CS50 开放课件
+* [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) - 哈佛大学的 CS50 OpenCourseWare
 * [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - 关于为网络打包 LÖVE 游戏的教程
 
 ## IDEs
@@ -334,7 +334,7 @@
 * [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio 是一个轻量级 Lua IDE，具有代码完成、语法高亮、实时编码、代码分析器和调试支持
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - 向 ZBS 添加 LOVE API 语法突出显示的脚本.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 功能强大且符合人体工程学的 Java IDE
-	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - VSCode 的 Lua IDE/调试器插件
+	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - 用于 VSCode 的 Lua IDE/调试器插件
 	* [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - IntelliJ-IDEA 的 Lua 插件
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - IntelliJ-IDEA 的片段和代码完成
 * [Vim](https://vim.sourceforge.io/) - Vim 是一个高度可配置的文本编辑器，可以非常高效地创建和更改任何类型的文本
@@ -343,9 +343,9 @@
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Notepad++ 的代码完成和文档
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code 是一种新型工具，它将代码编辑器的简单性与开发人员的核心编辑-构建-调试周期所需的内容相结合
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - Visual Studio Code 的 Löve Launcher 扩展
-	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - 在 VSCode 中为 Lua 提供 Intellisense 和 Linting
+	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - 为 VSCode 中的 Lua 提供 Intellisense 和 Linting
     * [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode)  - 没有依赖项的简单 Lua 调试器. 喜欢提供特定的 launch.json 示例.
-* [Sublime Text](https://www.sublimetext.com)  - Sublime Text 是用于代码、标记和散文的复杂文本编辑器. 您会喜欢上流畅的用户界面、非凡的功能和惊人的性能.
+* [Sublime Text](https://www.sublimetext.com)  - Sublime Text 是一款用于代码、标记和散文的复杂文本编辑器. 您会爱上流畅的用户界面、非凡的功能和惊人的性能.
 	* [Package Manager](https://packagecontrol.io/) - Sublime Text 包管理器，使查找、安装和保持包最新变得非常简单.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - 支持语法高亮、自动完成和构建系统.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - 提供 Lua 代码的 linting 和静态分析.
@@ -353,14 +353,14 @@
 ## Game Distribution Tools <a id="game-distribution"></a>
 *以一种或另一种方式自动发布游戏的工具*
 * [boon](https://github.com/camchenry/boon) - 多平台、易于使用的工具，支持 Windows、macOS、Linux.
-* [love-export](https://github.com/dmoa/love-export)  - 为您构建二进制文件的快速而简单的命令行工具. 支持 Windows、MacOS 和 Linux.
+* [love-export](https://github.com/dmoa/love-export)  - 为您构建二进制文件的快速简单的命令行工具. 支持 Windows、MacOS 和 Linux.
 * [love-release](https://github.com/MisterDA/love-release)  - 自动分发游戏的 Lua 脚本. 支持 Windows、macOS、Debian、Linux.
 * [makelove](https://github.com/pfirsich/makelove) - 先进的多平台工具，可以融合您用 Python 3 编写的游戏.通过 AppImage 支持 Windows 和 Linux.
 * [love-deploy](https://github.com/tducasse/love-deploy) - 在 itch.io 上构建和部署游戏（支持 windows 和 web 导出）
 
 ## Contributing
 
-请参阅 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 详情.
 
 ## Other Awesome Lists
 

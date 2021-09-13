@@ -305,6 +305,7 @@
 - [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 - [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
 - [Learning Vue 3.0](https://github.com/chengpeiquan/learning-vue3)
+- [Vue 3.0 and decentalized app (dApp)](https://github.com/hypescale/moralis-vue-boilerplate)
 
 ### Examples
 
@@ -318,7 +319,7 @@
 - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) 经过 [mul14](https://github.com/mul14)
 - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) 经过 [haydenbbickerton](https://github.com/haydenbbickerton)
 - [Vue Cookbook (Vue1.0 + express)](https://github.com/yjj5855/node-vue-server-webpack) 经过 [@yjj5855](https://github.com/yjj5855): 一个服务的演示首屏渲染
-- [Strong Together](https://github.com/websemantics/strong-together) - 基于 Browserify 和 Semantic-ui 构建单页 Vue.js 应用程序作为独立或 Laravel / Laravel Spark 项目的入门项目） [WebSemantics](https://github.com/websemantics)
+- [Strong Together](https://github.com/websemantics/strong-together) - 基于 Browserify 和 Semantic-ui 构建单页 Vue.js 应用程序作为独立或 Laravel / Laravel Spark 项目的入门项目 [WebSemantics](https://github.com/websemantics)
 - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
 - [**vue-shopping**](https://github.com/andylei18/vue-shopping) 经过 [andylei18](https://github.com/andylei18)
 - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) 经过 [@shinygang](https://github.com/shinygang)
@@ -1124,7 +1125,7 @@ _Toaster/snackbar — 用无模式的临时小弹出窗口通知用户_
 
 #### Loader
 
-_加载器/微调器/进度条——让用户知道有东西正在加载_
+_Loaders / spinners / progress bar — 让用户知道有东西正在加载_
 
 - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) - Vue.js 的径向进度条组件.
 - [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - 一个简单、灵活的 Vue.js 微调器
@@ -1769,7 +1770,7 @@ _日期/日期时间/时间选择器_
 - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) - 用于 vue.js 2 的 Jalaali 日历和日期选择器.
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - 受材料设计启发的 vue 日期选择器组件
 - [vue-monthly-picker](https://github.com/ittus/vue-monthly-picker) - Vue.js 组件仅用于月份和年份选择器
-- [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - 响应式日期范围选择器，显示所选夜数、允许自定义入住/退房规则、阻止日期、本地化支持等.
+- [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - 响应式日期范围选择器，可显示所选夜数、允许自定义入住/退房规则、阻止日期、本地化支持等.
 - [vue2-persian-datepicker](https://github.com/dyonir/vue2-persian-datepicker)  - 一个很棒的用于 vue 的波斯日期选择器组件. 视图的日期选择组件.
 - [vue-datetime](https://github.com/mariomka/vue-datetime)  - 适用于 Vue 的移动友好日期时间选择器. 支持日期、日期时间和时间模式、i18n 和禁用日期.
 - [vue-rangedate-picker](https://github.com/bliblidotcom/vue-rangedate-picker) - 使用简单的范围日期选择器
@@ -3273,7 +3274,7 @@ _包括一个后端样板_
 
 #### Electron
 
-- [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - 带有 vue-cli 脚手架、常见 Vue 插件、电子打包器/电子构建器、单元/e2e 测试、vue-devtools 和 webpack 的 Electron 和 Vue.js 快速启动样板.
+- [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - 带有 vue-cli 脚手架、常见 Vue 插件、电子打包器/电子构建器、单元/e2e 测试、vue-devtools 和 webpack 的 Electron 和 Vue.js 快速入门样板.
 - [VuePack](https://github.com/egoist/vuepack) - 使用 Vue 2、Vuex、Vue-router 和 Webpack 2（甚至 Electron）的现代启动器.
 - [vue-flexible-link](https://github.com/saintplay/vue-flexible-link)  - 用于 Electron 的微型 Vue 组件，用于在浏览器中打开链接. 跨环境应用程序的理想选择（Web 和本机）
 - [vuelectron](https://github.com/rachmanzz/vuelectron) - 用于 vue 的 electronjs 入门套件.

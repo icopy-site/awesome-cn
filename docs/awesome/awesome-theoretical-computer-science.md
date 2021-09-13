@@ -70,7 +70,7 @@
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html)  - 用于研究计算机算法的性能和局限性的知识体系. 涵盖的主题包括：约简和 NP 完整性、密码学​​和协议、随机算法以及优化问题的近似性、电路复杂性、P=NP 问题的“结构”方面、并行计算和多项式层次结构.
 #### Popular Science
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法影响.
-- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 它从古代德谟克利特开始，经过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容以及量子力学的解释.
+- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity withDemocritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 
 ### Communication Complexity
 #### Books
@@ -79,7 +79,7 @@
 ### Circuit Complexity
 #### Books
 - [Jukna. Boolean Function Complexity: Advances and Frontiers](https://www.springer.com/gp/book/9783642245077) - 调查电路复杂性的现代教科书.
-- [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - An introduction to circuit complexity, boolean functions, and computation models.
+- [Clote & Kranakis. Boolean Functions and Computation Models](https://www.springer.com/gp/book/9783540594369) - 电路复杂性、布尔函数和计算模型的介绍.
 
 
 ## Randomization
@@ -136,7 +136,7 @@
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识的性质和其他哲学问题带来了新的视角.
 - [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - 它描述了如何通过扩展通常的科学范式来在高复杂度范围内测试量子力学.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它强调了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图分离出一些新问题.
-
+- [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - 复杂性理论的基础，及其对计算机科学哲学、数学哲学和认识论的潜在意义.
 
 ## Physics
 
