@@ -33,7 +33,7 @@
 
 ## What is Docker
 
- &gt; Docker 是一个开放平台，供开发人员和系统管理员构建、发布和运行分布式应用程序.  Docker 由可移植的轻量级运行时和打包工具 Docker Engine 和用于共享应用程序和自动化工作流的云服务 Docker Hub 组成，使应用程序能够从组件快速组装，并消除开发、QA 和生产环境之间的摩擦. 因此，IT 可以更快地交付并在笔记本电脑、数据中心 VM 和任何云上运行相同的应用程序，无需更改.
+ &gt; Docker 是一个开放平台，供开发人员和系统管理员构建、发布和运行分布式应用程序.  Docker 由可移植的轻量级运行时和打包工具 Docker Engine 和用于共享应用程序和自动化工作流的云服务 Docker Hub 组成，Docker 使应用程序能够从组件快速组装，并消除开发、QA 和生产环境之间的摩擦. 因此，IT 可以更快地交付并在笔记本电脑、数据中心虚拟机和任何云上运行相同的应用程序，无需更改.
 
 _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
@@ -121,6 +121,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Deployment and Infrastructure
 
+- [awesome-stacks](https://github.com/ethibox/awesome-stacks) - 使用一个 Docker 命令部署 80 多个开源 Web 应用程序
 - [blackfish](https://gitlab.com/blackfish/blackfish) - 一个 CoreOS VM，用于为开发和生产构建 swarm 集群 [@blackfish](https://gitlab.com/blackfish/)
 - [BosnD](https://gitlab.com/n0r1sk/bosnd) - BosnD，船长守护进程 - 动态配置文件编写器和服务重新加载器，用于动态更改容器环境.
 - [Centurion](https://github.com/newrelic/centurion)  - Centurion 是 Docker 车队的大规模部署工具. 它从 Docker 注册表中获取容器，并在一组具有正确环境变量、主机卷映射和端口映射的主机上运行它们. 经过 [@newrelic](https://github.com/newrelic)
@@ -269,7 +270,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)  :heavy_dollar_sign:- Blockbridge 插件是一个卷插件，提供对一组可扩展的基于容器的持久存储选项的访问. 它支持单主机和多主机 Docker 环境，其功能包括租户隔离、自动配置、加密、安全删除、快照和 QoS. 经过 [@blockbridge](https://github.com/blockbridge)
 - [Convoy](https://github.com/rancher/convoy)  - 一个开源的 Docker 卷驱动程序，可以在任何地方对 Docker 卷进行快照、备份和恢复. 由 [@rancher][rancher]
 - [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) 为通过 OS X 上的 Docker Machine 创建的现有 boot2docker box 激活 NFS.
-- [Docker Unison](https://github.com/leighmcculloch/docker-unison) A docker volume container using Unison for fast two-way folder sync. Created as an alternative to slow boot2docker volumes on OS X. By [@leighmcculloch](https://github.com/leighmcculloch)
+- [Docker Unison](https://github.com/leighmcculloch/docker-unison) 使用 Unison 进行快速双向文件夹同步的 docker 卷容器. 创建作为 OS X 上慢速 boot2docker 卷的替代方案. [@leighmcculloch](https://github.com/leighmcculloch)
 - [Local Persist](https://github.com/MatchbookLab/local-persist) 为您的本地卷指定一个挂载点（通过 `docker volume create` 创建），以便文件将始终存在，因此您可以挂载到不同容器中的不同目录.
 - [Minio](https://github.com/minio/minio) - Docker 容器中的 S3 兼容对象存储服务器
 - [Netshare](https://github.com/ContainX/docker-volume-netshare)  Docker NFS、AWS EFS、Ceph 和 Samba/CIFS 卷插件. 由 [@ContainX][containx]
@@ -311,7 +312,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer 通过以下方式帮助您开始使用在 Docker 中运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
 - [docui](https://github.com/skanehira/docui)  - 用于管理 Docker 容器的交互式 shell UI. 也适用于 Windows. 由 [@skanehira]
 - [dry](https://github.com/moncho/dry) - Docker 容器的交互式 CLI [@moncho](https://github.com/moncho)
-- [lazydocker](https://github.com/jesseduffield/lazydocker)  - 管理 docker 一切的懒惰方式. 一个简单的 docker 和 docker-compose 终端用户界面，用 gocui 库用 Go 编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
+- [lazydocker](https://github.com/jesseduffield/lazydocker)  - 更懒惰的方式来管理 docker 的一切. 一个简单的 docker 和 docker-compose 终端用户界面，用 gocui 库用 Go 编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
 - [sen](https://github.com/TomasTomecek/sen) - :skull: docker 引擎的终端用户界面，作者 [@TomasTomecek][tomastomecek]
 
 ##### CLI tools
@@ -349,7 +350,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Compose UI](https://github.com/francescou/docker-compose-ui)  - 通过 HTTP 管理 docker-compose.  docker-compose-ui 在 Docker 容器中运行，挂载主机 docker socket 并公开 RESTful API 和 AngularJS GUI
 - [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) - Docker Registry HTTP API v2 的 Web 界面由 [@klausmeyer](https://github.com/klausmeyer)
 - [Docker Registry UI (Joxit)](https://github.com/Joxit/docker-registry-ui) - 最简单、最干净的私有注册用户界面 [@Joxit](https://github.com/Joxit)
-- [Docker Registry UI](https://github.com/atcol/docker-registry-ui) - 一个 Web UI，用于轻松进行私有/本地 Docker Registry 集成 [@atcol](https://github.com/atcol)
+- [Docker Registry UI](https://github.com/atcol/docker-registry-ui) - 用于轻松进行私有/本地 Docker Registry 集成的 Web UI [@atcol](https://github.com/atcol)
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - 私有 docker registry v2 的 Web UI、身份验证服务和事件记录器 [@mkuchin](https://github.com/mkuchin)
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - 在 Docker Swarm 上可视化 Docker 服务（用于运行演示）.
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) :skull: - 具有许多功能的 Docker 的简单 Web 界面 [@Electrofenster](https://github.com/Electrofenster/)
@@ -402,7 +403,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [copy-docker-image](https://github.com/mdlavin/copy-docker-image) - 在没有完整 Docker 安装的情况下在注册表之间复制 Docker 镜像 [@mdlavin](https://github.com/mdlavin)
 - [Derrick](https://github.com/alibaba/derrick)  - 一个工具可以帮助您通过扫描代码自动生成 Dockerfile 和 dockerize 应用程序. 经过 [@alibaba](https://github.com/alibaba).
 - [dlayer](https://github.com/orisano/dlayer) - docker 层分析器 [@orisano](https://github.com/orisano)
-- [docker-companion](https://github.com/mudler/docker-companion) - 一个用 Golang 编写的命令行工具，用于压缩和解压 docker 镜像 [@mudler](https://github.com/mudler/)
+- [docker-companion](https://github.com/mudler/docker-companion) - A command line tool written in Golang to squash and unpack docker images by [@mudler](https://github.com/mudler/)
 - [docker-make](https://github.com/CtripCloud/docker-make) - 通过单个命令构建、标记和推送一堆相关的 docker 镜像.
 - [docker-replay](https://github.com/bcicen/docker-replay)  - 从正在运行的容器生成`docker run`命令和选项. 经过 [bcicen](https://github.com/bcicen)
 - [DockerMake](https://github.com/avirshup/DockerMake)  - 用于复杂软件堆栈的可重现 Docker 映像构建系统. 经过 [@avirshup](https://github.com/avirshup)
@@ -411,7 +412,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockramp](https://github.com/jlhawn/dockramp) :skull: - 概念证明：客户端驱动的 Docker 映像生成器 [@jlhawn](https://github.com/jlhawn)
 - [essex](https://github.com/utensils/essex) - 基于 Docker 的项目的样板：Essex 是一个用 bash 编写的 CLI 实用程序，用于使用 Makefile 驱动的工作流快速设置干净且一致的 Docker 项目. [@jamesbrink](https://github.com/jamesbrink)
 - [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - 从高级 Python 配方生成 Dockerfile，包括由 [@NVIDIA][nvidia] 构建的高性能计算组件的构建块
-- [img](https://github.com/genuinetools/img) - [@genuinetools][genuinetools] 的独立、无守护进程、无特权的 Dockerfile 和 OCI 兼容容器映像构建器
+- [img](https://github.com/genuinetools/img) - [@genuinetools][genuinetools] 的独立、无守护进程、无特权的 Dockerfile 和 OCI 兼容容器映像生成器
 - [kaniko](https://github.com/GoogleContainerTools/kaniko)  - 在 Kubernetes 中构建容器镜像. 由 [@GoogleContainerTools][googlecontainertools]
 - [makisu](https://github.com/uber/makisu)  - Uber 为 Mesos 和 Kubernetes 提供的快速灵活的非特权图像构建器，具有分布式缓存支持. 经过 [@uber](https://github.com/uber)
 - [MicroBadger](https://microbadger.com) :skull: - Analyze the contents of images and add metadata labels
@@ -452,7 +453,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - 一种监视 docker 图像大小的工具.
 - [Dockerfile Linter action](https://github.com/buddy-works/dockerfile-linter) - linter 可让您验证 Dockerfile 语法，以确保它遵循构建高效 Docker 映像的最佳实践.
 - [dockfmt](https://github.com/jessfraz/dockfmt) :construction: - [@jessfraz][jessfraz] 的 Dockerfile 格式化程序和解析器
-- [FROM:latest](https://github.com/replicatedhq/dockerfilelint) - 一个自以为是的 Dockerfile linter [@replicatedhq](https://github.com/replicatedhq)
+- [FROM:latest](https://github.com/replicatedhq/dockerfilelint) - 一个固执的 Dockerfile linter 由 [@replicatedhq](https://github.com/replicatedhq)
 - [Hadolint](https://github.com/hadolint/hadolint)  - 一个 Dockerfile linter，用于检查最佳实践、常见错误，并且还能够 lint 任何用 `RUN` 指令编写的 bash； 经过 [@lukasmartinelli](https://github.com/lukasmartinelli)
 - [Whale-linter](https://github.com/jeromepin/whale-linter) - 一个用 Python3+ 编写的简单小巧的 Dockerfile linter，没有依赖 [@jeromepin](https://github.com/jeromepin)
 

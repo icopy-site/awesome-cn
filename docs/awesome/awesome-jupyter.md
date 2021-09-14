@@ -26,7 +26,6 @@
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Jupyter 的多用户服务器.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab 是 Jupyter 的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
-- [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于单元格完成的浏览器通知的单元格魔法.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 镜像.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker 镜像，包括 Jupyter(Lab) 和用于数据科学/机器学习的各种包.
 - [nteract](https://github.com/nteract/nteract) - 原生桌面笔记本前端.
@@ -64,7 +63,7 @@
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 基于小部件和 WebGL 在 Jupyter 中为 Python 进行 3D 绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - 以 2D 和 3D 形式可视化图像的交互式小部件.
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) - 用于构建 2D 和 3D 专用交互式图表的基础设施.
-- [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 显示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter 笔记本中的视频或 GIF.
+- [jupyter-manim](https://github.com/krassowski/jupyter-manim) - 展示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter 笔记本中的视频或 GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) - Jupyter 笔记本中 Google 地图的交互式可视化库.
 - [lux](https://github.com/lux-org/lux) - 每当在笔记本中打印数据框时，都会推荐一组可视化效果.
 - [mpld3](http://mpld3.github.io) - 结合 Matplotlib 和 D3js 进行交互式数据可视化.
@@ -88,7 +87,7 @@
 - [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 可以在终端中很好地显示笔记本.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
-- [nbconvert](https://nbconvert.readthedocs.io) - 将笔记本转换为其他格式.
+- [nbconvert](https://nbconvert.readthedocs.io) - Convert Notebooks to other formats.
 - [nbdev](https://github.com/fastai/nbdev) - 使用 Jupyter 作为开发、打包和分发 Python 包到 PyPI [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) 环境.
 - [nbflow](https://github.com/jhamrick/nbflow) - 使用 Jupyter 和 Scons 的一键式可重复工作流程.
 - [nbinteract](https://www.nbinteract.com) - 从 Jupyter 笔记本创建交互式网页.
@@ -100,7 +99,7 @@
 - [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks 作为带有嵌入 Markdown 文本的纯 Python 代码.
 - [RISE](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython 幻灯片.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - 将独立的 reStructuredText 文件转换为 Jupyter 笔记本文件.
-- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件呈现实时 Jupyter Notebooks，允许基于 Jupyter Notebooks 的仪表板.
+- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件呈现实时 Jupyter Notebooks，允许基于 Jupyter Notebooks 进行仪表板.
 
 ## Version Control
 
@@ -108,6 +107,7 @@
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Jupyter Notebooks 中的依赖管理和优化.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于区分和合并 Jupyter 笔记本的工具.
 - [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准 Python 代码质量工具.
+- [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - 在您的项目中版本、管理和共享笔记本检查点.
 - [ReviewNB](https://www.reviewnb.com/) - Jupyter Notebooks 的代码审查.
 
 ## JupyterLab Extensions
@@ -122,7 +122,9 @@
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - 从 JupyterLab 中通过电子邮件发送笔记本及其内容.
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.
+- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可自定义笔记本单元完成浏览器通知.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) - JupyterLab 中的笔记本模板.
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于单元格完成的浏览器通知的单元格魔法.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - 实时编辑 LaTeX 文档的扩展.
 - [lsp](https://github.com/krassowski/jupyterlab-lsp) - 类似 IDE 的功能（代码导航、悬停建议、linter、诊断、无内核自动完成等）
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - 使用扩展保持 Python 代码自动格式化 [black](https://github.com/psf/black).
@@ -139,7 +141,7 @@
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) - JupyterLab 的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - 显示变量及其值的变量检查器扩展.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim 笔记本单元格绑定.
-- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
+- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - 扩展以查看 CSV 和 JSON 数据 [Voyager](http://vega.github.io/voyager/).
 
 ## Testing
 

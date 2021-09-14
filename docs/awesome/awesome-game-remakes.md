@@ -34,6 +34,7 @@
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - 经典的高架跑枪游戏.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 用于 RetroArch/Libretro 的 8 人炸弹人克隆.
 - [OpenClonk](https://github.com/openclonk/openclonk) - 多人动作游戏，您可以在其中控制小巧灵活的人形机器人.
+- [OpenJazz](https://github.com/AlisterT/openjazz) - 经典 Jazz Jackrabbit™ 游戏的免费开源版本.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - 改写邪教足球游戏 Kick Off 2 的尝试.
 - [OpenTyrian](https://github.com/opentyrian/opentyrian) - 从 Turbo Pascal 到 C 的 Tyrian 开源端口.
 - [Taisei](https://github.com/taisei-project/taisei) - 东方系列的粉丝制作的开源克隆.
@@ -44,7 +45,7 @@
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - 忠诚是 RTS 和 FPS 太空战斗游戏.
 - [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - 在旧机器上运行的黑桃王牌开源实现.
 - [BStone](https://github.com/bibendovsky/bstone) - Blake Stone：Aliens Of Gold 和 Blake Stone：Planet Strike 的源端口.
-- [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - 地下墓穴 3D 和地下墓穴冒险系列的 Windows 源端口.
+- [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - 极简主义、历史准确的源端口，包括异端和妖魔的端口，以及 Strife.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - 最受欢迎的 DOOM 源端口之一，它通过 TCP/IP 网络、OpenGL 渲染器等来增强它.
 - [DoomRetro](https://github.com/bradharding/doomretro) - 适用于 Windows PC 的经典、精致的 DOOM 源端口.
@@ -74,7 +75,7 @@
 ## Online
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - 2006 年的 Runescape 仿真服务器.
 - [FreeSO](https://github.com/riperiperi/FreeSO) - 重新实施《模拟人生在线》，主要针对移动设备.
-- [Meridian 59](https://github.com/Meridian59/Meridian59) - 第一款 3D MMORPG，1996 年发布，2012 年开源.Meridian 59 的原始代码库.
+- [Meridian 59](https://github.com/Meridian59/Meridian59) - 第一个 3D MMORPG，1996 年发布，2012 年开源.Meridian 59 的原始代码库.
 - [Opengate](https://sourceforge.net/projects/opengate/) - 翻拍 Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - 开源老式 RuneScape 客户端.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core 包含用于制作商业 MMORPG Ryzom 的全部代码（客户端、服务器、工具）.
@@ -161,7 +162,7 @@
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - 七大王国的 GPL 版本：古代对手.
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - Firefly Studios 实施 Stronghold.
 - [VCMI](https://github.com/vcmi/vcmi) - 魔法门之英雄无敌 III 引擎.
-- [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - Java remake of Warcraft: Orcs & Humans.
+- [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - 魔兽争霸的 Java 重制版：兽人和人类.
 - [Wargus](https://github.com/Wargus/wargus) - 魔兽争霸 2 Mod，允许您使用 Stratagus 引擎玩魔兽争霸 2.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - 免费和开源的实时战略游戏.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - 重制了 1996 年的经典游戏 Z.

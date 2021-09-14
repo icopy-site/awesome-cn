@@ -5,9 +5,9 @@ Introduction
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/caesar0301/awesome-pcaptools.svg)](https://travis-ci.org/caesar0301/awesome-pcaptools)
 
-该项目不包含任何源代码或文件. 我只想列出一个工具列表来处理网络流量研究中的 pcap 文件. 有关更多精彩列表，请参阅 https://github.com/sindresorhus/awesome
+此项目不包含任何源代码或文件. 我只想列出一个工具列表来处理网络流量研究中的 pcap 文件. 有关更多精彩列表，请参阅 https://github.com/sindresorhus/awesome
 
-**许可证**：Apache 许可证 v2.
+**许可证**：CC0 1.0 通用 (CC0 1.0).
 
 
 
@@ -50,9 +50,9 @@ Traffic Capture<a name="capture"></a>
 
 * [Ngrep](https://github.com/jpr5/ngrep/) : 力求提供 GNU grep 的大部分通用功能，将它们应用到网络层.  ngrep 是一个 pcap-aware 工具，它允许你指定扩展的正则或十六进制表达式来匹配数据包的数据负载. 它目前识别跨以太网、PPP、SLIP、FDDI、令牌环和空接口的 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
-* [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) : `clj-net-pcap` 是一个用于 Clojure 的数据包捕获库.  clj-net-pcap 使用 jNetPcap 并围绕 jNetPcap 添加便利功能以简化可用性. 一 [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107) 已在 COMPSACW 2014 范围内发布.
+* [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) : `clj-net-pcap` 是一个用于 Clojure 的数据包捕获库.  clj-net-pcap 使用 jNetPcap 并围绕 jNetPcap 添加便利功能以简化可用性. 一种 [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107) 已在 COMPSACW 2014 范围内发布.
 
-* [jNetPcap](https://sourceforge.net/projects/jnetpcap/) : jNetPcap 是一个用于 Java 的数据包捕获库，可用于 Linux 和 Windows.  jNetPcap 分别利用 libpcap 和 WinPcap，并使用 Java Native Interface (JNI) 来使用 libpcap/WinPcap 提供的功能.
+* [jNetPcap](https://sourceforge.net/projects/jnetpcap/) : jNetPcap 是一个用于 Java 的数据包捕获库，可用于 Linux 和 Windows.  jNetPcap 分别利用 libpcap 和 WinPcap，并采用 Java Native Interface (JNI) 来使用 libpcap/WinPcap 提供的功能.
 
 * [Arkime](https://arkime.com/) Arkime（前身为 Moloch）是一个大规模、开源、索引的数据包捕获和搜索工具.
 
@@ -73,9 +73,9 @@ Traffic Capture<a name="capture"></a>
 --------------------------------------------------
 * [BruteShark](https://github.com/odedshimon/BruteShark) ：是一款开源、跨平台的网络取证分析工具，功能众多. 它包括：密码提取、显示可视化网络地图、重建 TCP 会话、提取加密密码的哈希值，甚至将它们转换为 Hashcat 格式以执行离线暴力攻击.
 
-* [AIEngine](https://bitbucket.org/camp0/aiengine) : 是下一代交互式/可编程数据包检测引擎，具有无需任何人工干预的学习能力、NIDS 功能、DNS 域分类、网络收集器等.  AIEngine 还帮助网络/安全专业人员识别流量并开发用于 NIDS、防火墙、流量分类器等的签名.
+* [AIEngine](https://bitbucket.org/camp0/aiengine) : 是下一代交互式/可编程数据包检查引擎，具有无需任何人工干预的学习能力、NIDS 功能、DNS 域分类、网络收集器等.  AIEngine 还帮助网络/安全专业人员识别流量并开发用于 NIDS、防火墙、流量分类器等的签名.
 
-* [CapAnalysis](http://www.capanalysis.net/ca/)  - CapAnalysis 是一个 Web 可视化工具，适用于信息安全专家、系统管理员和需要分析大量捕获的网络流量的每个人. 现场网络演示是 [available](http://pcap.capanalysis.net/) 用于测试.
+* [CapAnalysis](http://www.capanalysis.net/ca/)  - CapAnalysis 是一个 Web 可视化工具，适用于信息安全专家、系统管理员和需要分析大量捕获的网络流量的每个人. 现场网络演示是 [available](http://pcap.capanalysis.net/) 用于检测.
 
 * [CapTipper](https://github.com/omriher/CapTipper): 恶意 HTTP 流量浏览器
 
@@ -131,7 +131,7 @@ Traffic Capture<a name="capture"></a>
 * [pyshark](https://kiminewt.github.io/pyshark/) ：tshark 的 Python 包装器，允许使用wireshark 解剖器解析 python 数据包.  python 数据包解析模块有很多，这个不同，因为它实际上不解析任何数据包，它只是使用 tshark（wireshark 命令行实用程序）导出 XML 的能力来使用它的解析.
 
 
-* [Scapy](http://www.secdev.org/projects/scapy/) ：Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码多种协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它还在大多数其他工具无法处理的许多其他特定任务中表现出色，例如发送无效帧、注入您自己的 802.11 帧、结合技术（VLAN 跳跃 + ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）等.
+* [Scapy](http://www.secdev.org/projects/scapy/) ：Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码多种协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它还在大多数其他工具无法处理的许多其他特定任务中表现出色，例如发送无效帧、注入您自己的 802.11 帧、结合技术（VLAN 跳跃 + ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）， 等等.
 
 * [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html)：使 tcpdump 程序的输出更易于阅读和解析.
 
@@ -217,7 +217,7 @@ DNS 实用程序<a name="dnstools"></a>
 USB
 ---
 ### Capture tools
-* [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - Linux 内核的子系统，用于捕获 USB 数据包.
+* [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - Linux 内核的一个子系统，用于捕获 USB 数据包.
 * [USBPcap](https://github.com/desowin/usbpcap) - Windows 的解决方案.
 
 ### Analysis
@@ -231,7 +231,7 @@ USB
 
 * [BPF+](https://andrewbegel.com/papers/bpf.pdf)：在通用数据包过滤器架构中利用全局数据流优化 作者：Andrew Begel、Steven McCanne 和 Susan Graham.
 
-* [FFT-FGN-C](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html) : 是一种用于合成一种称为分数高斯噪声的自相似过程的程序. 该程序很快，但近似. 分数高斯噪声只是一种自相似过程. 使用此程序合成网络流量时，您必须记住，使用其他进程之一对您寻找的流量进行建模可能会更好.
+* [FFT-FGN-C](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html) : 是一种用于合成一种称为分数高斯噪声的自相似过程的程序. 该程序很快，但近似. 分数高斯噪声只是一种自相似过程. 使用此程序来合成网络流量时，您必须记住，使用其他进程之一对您寻找的流量进行建模可能会更好.
 
 * [Haka](http://www.haka-security.org/) ：一种面向安全的开源语言，它允许描述协议并在（实时）捕获的流量上应用安全策略. 哈卡语的范围是双重的. 首先，它允许编写安全规则以过滤/更改/删除不需要的数据包并记录和报告恶意活动. 其次，Haka 具有能够指定网络协议及其底层状态机的语法.
 
