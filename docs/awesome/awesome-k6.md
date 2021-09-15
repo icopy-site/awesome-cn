@@ -23,7 +23,7 @@
 
 ## Articles
 
-- [Beginner's guide to load testing with k6](https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1) - 几个部分的介绍指南，帮助您开始使用 k6.
+- [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - 几个部分的介绍指南，帮助您开始使用 k6.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - k6 特性和功能的简要概述.
 - [Integrating k6 with Apache Kafka](https://mostafa.dev/blog/integrating-k6-with-apache-kafka) - 将输出从 k6 发送到 Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - 使用 grafana 仪表板设置负载测试并对其进行可视化.

@@ -18,6 +18,8 @@
 ## System
 
 ## Tutorials
+ * [Roppers Computing Fundamentals](https://hoppersroppers.org/course.html)
+     * 免费、自定进度的课程，为计算机和网络知识奠定基础. 旨在培养一个没有任何先前技术知识的学生，让他们对自己学习任何东西的能力充满信心，并继续他们的安全教育. 全文可作为 [gitbook](https://www.hoppersroppers.org/fundamentals/).
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
  * [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
@@ -66,7 +68,7 @@
 ### Disassemblers and debuggers
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA 是 Windows、Linux 或 Mac OS X 托管的多处理器反汇编器和调试器
  * [OllyDbg](http://www.ollydbg.de/) - 适用于 Windows 的 32 位汇编程序级分析调试器
- * [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for Windows
+ * [x64dbg](https://github.com/x64dbg/x64dbg) - 适用于 Windows 的开源 x64/x32 调试器
  * [radare2](https://github.com/radare/radare2) - 一个可移植的倒车框架
  * [plasma](https://github.com/joelpx/plasma)  - x86/ARM/MIPS 的交互式反汇编程序. 生成带有彩色语法代码的缩进伪代码.
  * [ScratchABit](https://github.com/pfalcon/ScratchABit) - 具有 IDAPython 兼容插件 API 的可轻松重定向和可破解的交互式反汇编器
@@ -267,7 +269,7 @@
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE 和 rootkit 开发
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - 对渗透测试有用的备忘单集合
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - 每个黑客和赛博朋克必须观看的精选电影列表.
- * [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - 一门免费课程，教授在夺旗比赛中取得成功所需的取证、密码学和网络开发的基础知识.
+ * [Roppers CTF Fundamentals Course](https://www.hoppersroppers.org/courseCTF.html)  - 免费课程旨在让学生尽快粉碎 CTF. 教授加密、取证等所需的心态和技能. 全文可作为 [gitbook](https://www.hoppersroppers.org/ctf/).
 
 ## OS
 
@@ -285,4 +287,4 @@
 
 ## ETC
  * [SecTools](http://sectools.org/) - 前 125 名网络安全工具
- * [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) - 四门免费课程，旨在向初学者教授计算、安全和 CTF 的基础知识. 
+ * [Roppers Security Fundamentals](https://www.hoppersroppers.org/courseSecurity.html)  - 向初学者教授安全在现实世界中的工作原理的免费课程. 学习安全理论并执行防御措施，以便更好地应对在线和现实世界中的威胁. 全文可作为 [gitbook](https://www.hoppersroppers.org/security/).

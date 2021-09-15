@@ -6,7 +6,7 @@
 
 ## What is this about?
 
-在过去的十年中，函数式编程获得了新的力量，因为它
+在过去的十年里，函数式编程获得了新的力量，因为它
 有些人会说，声明性特征对于并行计算非常有效
 以及整个使用 [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
 
@@ -18,7 +18,7 @@
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
-尽管有这个名字，这篇文章实际上澄清了函数式编程的一些基本概念，解释了 FP 的一些历史和命令式语言中 FP 特性的实现，并讨论了声明式编程的所有大惊小怪以及为什么它在过去变得如此流行几年.
+尽管有这个名字，这篇文章实际上澄清了函数式编程的一些基本概念，解释了函数式编程的一些历史和命令式语言中 FPs 特性的实现，并讨论了声明式编程的所有大惊小怪以及为什么它在去年如此流行数年.
 - [A Monad in Practicality - Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 - [A Monad in Practicality - First Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
@@ -37,7 +37,7 @@
 
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - 一个 wiki 实验室，从类别理论的角度提供文章、讨论和工具，这是 FP 背后的主要数学.
-- [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) - 从维基教科书对应用于 Haskell 的范畴论进行了很好的概述.
+- [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) - 从维基教科书上对应用于 Haskell 的范畴论进行了很好的概述.
 - [Haskell Wiki](https://wiki.haskell.org/Haskell)
 
 ### Books
@@ -52,6 +52,7 @@
 - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - 关于 Haskell 的完美的第二本书，其中深入介绍了旨在教授 Haskell 如何工作以及如何正确应用它的示例和应用场景. 
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - 使用现实世界的场景从第一原则教授函数式编程.
 - [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - 国际畅销书修订了新的练习、注释和对 Scala 3 的全面覆盖.
+- [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - 专注于讨论研究、论文的社区
 和学术界的热门话题. 非常高的技术讨论水平.

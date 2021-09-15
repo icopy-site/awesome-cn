@@ -23,7 +23,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 门户游戏的 2D 翻拍.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - 可自定义条目的猜词游戏.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - 快节奏的本地派对游戏，星舰在自上而下的竞技场中战斗.
-- [TuxBuilder](https://github.com/Alzter/TuxBuilder) - SuperTux 的重新实现正在进行中.
+- [TuxBuilder](https://github.com/Alzter/TuxBuilder) - 正在重新实现 SuperTux 的工作中.
 
 #### Godot 3.1
 
@@ -35,7 +35,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.0
 
-- [Breakable](https://github.com/didier-v/breakable) - 类似突破的游戏.
+- [Breakable](https://github.com/didier-v/breakable) - 一款类似突破的游戏.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - 简单的记忆游戏.
 
 #### Godot 2.1
@@ -53,7 +53,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [No hope](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 条目在 48 小时内完成.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 外星环境中的 2D 物理跑酷游戏.
 - [Platshoot](https://github.com/Calinou/platshoot) - 2D 射击游戏.
-- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - 广泛使用灯光效果的自上而下射击游戏.
+- [Ringed](https://github.com/KOBUGE-Incubator/ringed) - 广泛使用灯光效果的自上而下的射击游戏.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) - 免费的回合制等距策略游戏.
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) - 为 2016 年 3 月的 Godot Engine Jam 制作的老鼠突围游戏.
 
@@ -85,6 +85,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Arrow](https://github.com/mhgolkar/Arrow) - 一种使用节点设计游戏叙事的工具.
 - [Godello](https://github.com/alfredbaudisch/Godello)  - 使用 Godot 制作的类似 Trello 的看板应用程序.  Godot 的复杂非游戏应用程序的概念证明，以及多个用户之间的实时在线交互. 包括后端代码.
+- [Lorien](https://github.com/mbrlabs/Lorien)  - 适用于 Windows、Linux 和 macOS 的无限画布绘图/白板应用程序. 支持绘图板和压力感应.
 - [Material Maker](https://github.com/RodZill4/material-maker) - 按程序创建 PBR 材质（类似于 Substance Designer）.
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D 像素艺术编辑器.
 - [ProtonGraph](https://github.com/protongraph/protongraph)  - 用于程序内容创建的基于节点的工具. 类似于可视化脚本，但用于 3D 模型生成（需要自定义引擎模块）.
@@ -99,7 +100,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - 带有第一人称控制器的模板，可从 Inspector 轻松调整.
 - [Minimum Game](https://github.com/benmarz/minimum_game) - 模板自上而下的 2D 像素艺术游戏，具有多个房间、HUD、菜单和自动保存.
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - 多人第一人称射击游戏示例项目.
-- [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) - 多人第三人称射击游戏示例项目.
+- [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) - 多人第三人称射击示例项目.
 
 #### Godot 3.1
 
@@ -107,14 +108,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Demos
 
-*演示以学习 GDScript、其概念和各种游戏功能.*
+*用于学习 GDScript、其概念和各种游戏功能的演示.*
 
 #### Godot 3.2+
 
 - [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - 官方 Godot 演示项目（除 TPS 演示之外的所有项目）.
 - [TPS Demo](https://github.com/godotengine/tps-demo) - 具有高品质图形的官方戈多第三人称射击游戏 (TPS) 演示.
 - [Godot experiments](https://github.com/MrEliptik/godot_experiments) - 多个 2D、3D 和 VR 实验.
-- [The Tower](https://github.com/Relintai/the_tower) - 一个基于体素的跑酷游戏，展示了 Voxelman 模块的能力.
+- [The Tower](https://github.com/Relintai/the_tower) - 一个基于体素的跑酷游戏，展示了 Voxelman 模块的功能.
 
 #### Godot 3.1
 
@@ -154,14 +155,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 点击式冒险游戏框架（Godot 2.1、3.2+）.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
-- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix 框架 (Godot 3.*) 的 Channels API 的 GDScript 和 Godot 引擎实现.
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - 针对 Phoenix 框架 (Godot 3.*) 的 Channels API 的 GDScript 和 Godot 引擎实现.
 - [Godot Recipes](http://godotrecipes.com/) - 大量的教程和技术，无论大小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，可以将 SQLite 数据库用作项目中的数据存储（Godot 3.2+）.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 文本界面引擎来控制文本输出（就像在 RPG 对话中一样）（Godot 2.x、3.x）.
 - [gterm](https://github.com/TeddyDD/gterm) - 绘制类似于 \*nix 终端模拟器（Godot &gt;= 2.1）的 GUI 控件.
 - [GUT](https://github.com/bitwes/Gut) - 在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
-- [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘制、着色、孔洞、细节层次和草丛 (Godot 3.x).
+- [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘制、着色、孔洞、细节层次和草（Godot 3.x）.
 - [InGrid](https://github.com/Larpon/ingrid) - 无限滚动网格（Godot 3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 对话系统和编辑器相当可定制，非常适合故事驱动的游戏（Godot 3.x）.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 滚动背景节点（Godot 2.1,3.x）.
@@ -200,7 +201,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - 减轻 SkeletonIK 的缩放效果.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器制作骨骼动画.
-- [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统旨在轻松操作 iOS/Android 的本机库. 它还关心插件依赖项并提供轻松的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：App Tracking Transparency，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
+- [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统旨在轻松操作 iOS/Android 的本机库. 它还关心插件依赖项并提供无忧的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：App Tracking Transparency，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  - 对 Godot 的 Quake `.map` 文件支持. 让你用 [TrenchBroom](https://kristianduske.com/trenchbroom/) 用于关卡设计.
 - [Scatter](https://github.com/HungryProton/scatter) - 用道具或其他场景随机填充一个区域.
 - [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - Godot 的 3D 毛发节点.
@@ -231,7 +232,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot version unknown
 
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Camera2D 的屏幕抖动效果.
-- [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特·彭纳 (Robert Penner) 的缓动方程的一个端口.
+- [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特彭纳的缓和方程的一个端口.
 - [GDSerCommPlugin](https://github.com/NangiDev/GDSerCommPlugin) - 读取 Arduino 串行输入的插件（需要自定义引擎模块）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用 GDScript 编写的 Godot 实用程序.
 - [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender 插件可轻松将资产导入 Godot.
@@ -263,10 +264,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Flash Module](https://github.com/funexpected/godot-flash-module) - 在 Godot 中使用 Adob​​e Animate (Flash) 项目.
 - [GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - 将您的 Godot 项目放入 OpenAI Gym 环境中，以使用 PyTorch 训练 RL 模型.
 - [godotcord](https://github.com/drachenfrucht1/godotcord) - 包装器 [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - 用于在 Godot 中使用 Apple 登录的模块.
+- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - 在 Godot 中使用 Apple 登录的模块.
 - [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个港口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 对于戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
-- [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用包装方法和 Godot 友好类型 [PortAudio](http://www.portaudio.com).
+- [PortAudio](https://github.com/sebastian-heinz/portaudio) - 要使用的包装方法和 Godot 友好类型 [PortAudio](http://www.portaudio.com).
 - [Speech to Text](https://github.com/menip/godot_speech_to_text) - 捕获用户的麦克风输入并将其转换为文本.
 
 #### Godot 3.1
@@ -324,7 +325,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *Bash 脚本可以放在 `~/.local/bin` 中.*
 
 - [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - （和 [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) 编译和运行 Godot 的脚本，如果需要，尝试安装依赖项.
-- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - 自动下载和启动最新版本 Godot 的脚本，或者编译和启动 Git `master` 分支.
+- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - 自动下载和启动最新版本 Godot 的脚本，或编译和启动 Git `master` 分支.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - 帮助 Debian 和 Ubuntu 用户安装和使用 Godot 的脚本.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - 用一个主文件更新文件副本的脚本.
 

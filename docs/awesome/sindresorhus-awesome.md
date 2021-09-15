@@ -2,8 +2,6 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/plash-2">我的 macOS 应用程序 Plash 在 Product Hunt</a></h3>
-	<br>
 	<br>
 	<br>
 	<hr>
@@ -216,13 +214,13 @@
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - 可选的 Python 静态类型.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精简和高效实现.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精益和高效实现.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
-	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - 基于 LLVM 为 Scala 优化提前编译器.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -350,20 +348,20 @@
 
 ## Back-End Development
 
-- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python 框架.
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - 自动化虚拟机环境.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python 框架.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP 框架.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP 框架.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP 框架.
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - 以 Laravel 社区构建的库为特色的全栈开发解决方案.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby 的 Web 应用程序框架.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包裹.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - 网络服务器.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java 框架.
@@ -747,7 +745,7 @@
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - 无需登录即可运行的网络应用程序.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - 像自由一样自由.
 - [Framer](https://github.com/podo/awesome-framer#readme) - 原型交互 UI 设计.
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
+- [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - 标记语言.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - 有趣的开发者项目.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - 面向设施、提供者、开发商、政策专家和研究人员的开源医疗保健软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - 用 PHP 构建的开源电子商务.
