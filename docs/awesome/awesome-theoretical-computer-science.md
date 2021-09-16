@@ -70,7 +70,7 @@
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html)  - 用于研究计算机算法的性能和局限性的知识体系. 涵盖的主题包括：约简和 NP 完整性、密码学​​和协议、随机算法以及优化问题的近似性、电路复杂性、P=NP 问题的“结构”方面、并行计算和多项式层次结构.
 #### Popular Science
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法影响.
-- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity withDemocritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
+- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 它从古代德谟克利特开始，经过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容以及量子力学的解释.
 
 ### Communication Complexity
 #### Books
@@ -134,7 +134,7 @@
 
 ### Papers
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识的性质和其他哲学问题带来了新的视角.
-- [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - 它描述了如何通过扩展通常的科学范式来在高复杂度范围内测试量子力学.
+- [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它强调了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图分离出一些新问题.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - 复杂性理论的基础，及其对计算机科学哲学、数学哲学和认识论的潜在意义.
 
@@ -152,7 +152,7 @@
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - 面向计算机科学和工程的离散数学简介.
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books
-- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩充了 Knuth 经典《计算机程序设计艺术》中的数学预科部分，但呈现方式更加悠闲，对个别主题的覆盖更加深入.
+- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 致力于数学主题及其与计算机科学相关性的系列.
@@ -162,7 +162,7 @@
 - [Ayala-Rincón & Moura. Applied Logic for Computer Scientists: Computational Deduction and Formal Proofs](https://www.springer.com/gp/book/9783319516516)  - 作为任何演绎计算框架基础的逻辑介绍. 它包含用于认证软件和硬件系统稳健性的特殊章节
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - 使用语义表是因为它们理论上合理且易于理解.
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - 利用您对编程和软件思想的熟悉程度来教授数学.
-- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程奠定坚实的基础，从回顾数系统及其与数字计算机的相关性开始，到微积分和积分学结束.
+- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程奠定坚实的基础，从回顾数字系统及其与数字计算机的相关性开始，最后是微积分和积分.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - 提出了一种数学分析的算法方法，重点是建模和分析的应用.
 #### Lecture Notes
 - [Maciej Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - 为本科计算机科学学生教授的微积分讲义
@@ -185,7 +185,7 @@
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics)  - 学习计算机科学的语言. 学习定义计算机科学的数学，并通过数学证明和 Python 代码练习应用它.
 
 ## Surveys
-- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
+- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - 关于计算复杂性和量子计算的交叉点的调查.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - 一篇关于量子霸权的非凡论文.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - 计算复杂性的历史概述.
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - 计算复杂性的历史概述.
@@ -229,7 +229,8 @@
 	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
 - 80 年代的伯克利 - 对伯克利理论计算机科学领域杰出人物的采访.
 	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
-- [Berkeley's Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大限度地提高理论计算机科学界的影响和参与度的计划、活动和研讨会.
+- [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大限度地提高理论计算机科学界的影响和参与度的计划、活动和研讨会.
+- [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - 填充计算理论的简短可访问视频.
 
 
 ## Related Awesome Lists

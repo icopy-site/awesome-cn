@@ -60,7 +60,7 @@
 
 使用语义 HTML 且不依赖于类的框架.
 
-- [**Water.css**](https://watercss.kognise.dev/) - 只需添加 CSS 样式集合，就可以让简单的网站更好看.  
+- [**Water.css**](https://watercss.kognise.dev/) - 只需添加 CSS 样式集合，即可让简单的网站变得更好看.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo](https://github.com/kognise/water.css)
   | #CSS
@@ -208,12 +208,19 @@
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
-- [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - 响应式和全面的 CSS 框架，具有漂亮的控件和简单的结构.  
+- [**Cirrus**](https://cirrus-ui.netlify.app/) - 为快速原型设计而设计的以组件和实用程序为中心的 SCSS 框架.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
-  [Demo](https://spiderpig86.github.io/Cirrus/#examples),
-  [Docs](https://spiderpig86.github.io/Cirrus/docs/),
+  [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
+  [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
+  
+- [**Pico.css**](https://picocss.com/) - 所有原生 HTML 元素的优雅样式，自动启用暗模式.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - 具有响应式排版和输入样式的简单 CSS 基础.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
@@ -334,7 +341,7 @@
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
 
-- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
+- [**Neat**](https://neat.bourbon.io/) - 轻巧灵活的 Sass 网格.  
   ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
   [Demo](https://neat.bourbon.io/examples/),
   [Docs](https://neat.bourbon.io/docs/latest/),
