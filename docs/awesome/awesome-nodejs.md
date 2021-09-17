@@ -170,7 +170,7 @@
 - [normit](https://github.com/pawurb/normit) - 在您的终端中使用语音合成进行 Google 翻译.
 - [fkill](https://github.com/sindresorhus/fkill-cli)  - 惊人地杀死进程. 跨平台.
 - [pjs](https://github.com/danielstjules/pjs)  - 可管道化的 JavaScript. 从终端快速过滤、映射和减少.
-- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
+- [license-checker](https://github.com/davglass/license-checker) - 检查应用程序依赖项的许可证.
 - [browser-run](https://github.com/juliangruber/browser-run) - 在浏览器环境中轻松运行代码.
 - [tmpin](https://github.com/sindresorhus/tmpin) - 向任何接受文件输入的 CLI 应用程序添加标准输入支持.
 - [wifi-password](https://github.com/kevva/wifi-password-cli) - 获取当前的 wifi 密码.
@@ -281,7 +281,7 @@
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -318,7 +318,7 @@
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
 - [Start](https://github.com/deepsweet/start) - 具有可共享预设的功能性任务运行器.
 - [ygor](https://github.com/shannonmoeller/ygor) - 当 `npm run` 不够用而其他一切都太多时，有希望的任务运行器.
-- [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能的快速构建系统，具有一流的 TypeScript 支持.
+- [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能的快速构建系统，以及一流的 TypeScript 支持.
 - [pkg](https://github.com/zeit/pkg) - 将您的 Node.js 项目打包成可执行文件.
 
 ### Hardware
@@ -460,6 +460,7 @@
 - [jimp](https://github.com/oliver-moran/jimp) - 纯 JavaScript 中的图像处理.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - 无需完整下载即可获取大多数图像格式的大小.
 - [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器.
+- [ImageScript](https://github.com/matmen/ImageScript) - JavaScript 中的图像处理，利用 WebAssembly 来提高性能.
 
 ### Text
 
@@ -503,7 +504,7 @@
 - [Moment.js](http://momentjs.com) - 解析、验证、操作和显示日期.
 - [Day.js](https://github.com/iamkun/dayjs) - 替代 Moment.js 的不可变日期库.
 - [dateformat](https://github.com/felixge/node-dateformat) - 日期格式.
-- [tz-format](https://github.com/samverschueren/tz-format) - 用时区格式化日期：`2015-11-30T10:40:35+01:00`.
+- [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 - [cctz](https://github.com/floatdrop/node-cctz) - 日期的快速解析、格式化和时区对话.
 
 ### URL
@@ -602,7 +603,7 @@
 	- [MikroORM](https://github.com/mikro-orm/mikro-orm)  - 基于数据映射器、工作单元和身份映射模式的 TypeScript ORM. 支持 MongoDB、PostgreSQL、MySQL 和 SQLite.
 	- [Prisma](https://github.com/prisma/prisma)  - 现代数据库访问（ORM 替代方案）.  TypeScript 中自动生成和类型安全的查询构建器. 支持 PostgreSQL、MySQL 和 SQLite.
 - 查询生成器
-	- [Knex](https://github.com/tgriesser/knex) - 用于 PostgreSQL、MySQL 和 SQLite3 的查询构建器，旨在灵活、便携且使用有趣.
+	- [Knex](https://github.com/tgriesser/knex) - 用于 PostgreSQL、MySQL 和 SQLite3 的查询构建器，设计灵活、可移植且使用有趣.
 - 其他
 	- [NeDB](https://github.com/louischatriot/nedb) - 用 Ja​​vaScript 编写的嵌入式持久数据库.
 	- [Lowdb](https://github.com/typicode/lowdb) - 由 Lodash 提供支持的小型 JavaScript 数据库.
@@ -742,7 +743,7 @@
 - [Charge](https://github.com/brandonweiss/charge) - 使用 JSX 和 MDX 的有意见的、零配置的静态站点生成器.
 
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 构建的 CMS 和 Web 应用程序平台.
+- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 的 CMS 和 Web 应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - 内容管理系统，强调基于 Express 和 MongoDB 的直观前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) - 用于构建强大 API 的内容管理框架（无头 CMS）.
 - [Tipe](https://github.com/tipeio/tipe) - 开发人员优先的内容管理系统，带有来自架构文件的 GraphQL 和 REST API.
@@ -767,7 +768,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取超级恶棍的名字.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获取一些很酷的 ascii 面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ&quot; `.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ ”`.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特、星球大战和神奇宝贝等书呆子主题中获取数据.
 
 ### Serialization
@@ -829,7 +830,7 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新 npm 模块时的一些良好做法.
-- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整哲学存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码.
+- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念存在于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码中.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
@@ -912,7 +913,7 @@
 
 ### Tools
 
-- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项的 Chrome 扩展.
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome 扩展程序，用于链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展程序可在存储库自述文件的底部显示 npm 依赖项.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展程序.

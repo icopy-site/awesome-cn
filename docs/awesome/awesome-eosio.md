@@ -101,7 +101,7 @@ EOSIO 学习资源.
 ### Block explorers, Voting portals
 
 - [EOS Network Monitor](http://eosnetworkmonitor.io/)  - “CryptoLions”的 EOSIO 网络监视器. 对开发人员有用. 分散友好.
-- [eosflare](https://eosflare.io/) - 流行的区块浏览器包括资源统计、最新的个人资料操作以及关于“Top Name Bids”和“Top Voters”的统计信息.
+- [eosflare](https://eosflare.io/) - 流行的区块浏览器包括资源统计、最新的个人资料操作以及关于“顶级出价”和“顶级投票者”的统计.
 - [EOS Tracker](https://eostracker.io/) - 开源区块浏览器包括生产者信息和账户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - 官方 GitHub.
 - [Bloks](https://bloks.io/)  - 快速区块浏览器，可用于投票. 包括有关区块生产者和代币的信息.
@@ -220,8 +220,9 @@ EOSIO 学习资源.
 
 ### Block Producer tools
 
+- [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) - Terraform 模块，用于在 Google Cloud Platform (GCP) 上创建 EOS 区块生产者 (BP) 节点.
 - [Patroneos](https://github.com/EOSIO/patroneos) - EOSIO 节点的 RPC 检查点.
-- [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - 用于监控内部 Block Producer 基础设施的仪表板工具.
+- [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - 用于监控内部区块生产者基础设施的仪表板工具.
 - [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) - EOSIO 区块生产者故障转移脚本.
 - [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) - 一组使管理 EOS.IO 节点更容易的剧本.
 - [eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost) - 在启动的最后阶段调整代币的供应和 bancor 的连接器余额.
