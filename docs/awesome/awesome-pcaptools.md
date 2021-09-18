@@ -20,7 +20,7 @@ Linux 命令<a name="linuxcmds"></a>
 * **Bwm-ng**：（下一代带宽监视器）是另一个非常简单的实时网络负载监视器，它报告数据传入和传出系统上所有可用网络接口的速度摘要. [Screenshot](https://a.fsdn.com/con/app/proj/bwmng/screenshots/10965.jpg/245/183/1)
 
 
-* **Collectl**：以类似于 dstat 的方式报告系统统计信息，并且和 dstat 一样，它收集有关各种不同系统资源的统计信息，例如 CPU、内存、网络等.这里是一个如何使用它的简单示例报告网络使用情况/带宽. [Screenshot](https://www.cse.wustl.edu/~jain/cse567-08/ftp/hw/collectl.png)
+* **Collectl**: reports system statistics in a style that is similar to dstat, and like dstat it gathers statistics about various different system resources like cpu, memory, network etc. Over here is a simple example of how to use it to report network usage/bandwidth. [Screenshot](https://www.cse.wustl.edu/~jain/cse567-08/ftp/hw/collectl.png)
 
 
  * **Ifstat**：以批处理方式报告网络带宽. 输出采用易于使用其他程序或实用程序记录和解析的格式. [Screenshot](https://community.linuxmint.com/img/screenshots/ifstat.png)
@@ -28,7 +28,7 @@ Linux 命令<a name="linuxcmds"></a>
 
  * **Iptraf-ng**：是一款交互式多彩的 IP 局域网监视器. 它显示了各个连接和主机之间流动的数据量. 已不复存在的 iptraf 的维护分支. [Screenshot](https://wiki.ipfire.org/addons/iptraf-ng/iptraf-ng_monitor.png)
 
-* **Jnettop**： [Jnettop](https://sourceforge.net/projects/jnettop/) 是一个流量可视化器，它捕获通过它运行的主机的流量并显示按它们使用的带宽排序的流. [Screenshot](https://web.archive.org/web/20130509072433if_/http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
+* **Jnettop**: [Jnettop](https://sourceforge.net/projects/jnettop/) 是一个流量可视化器，它捕获通过它运行的主机的流量并显示按它们使用的带宽排序的流. [Screenshot](https://web.archive.org/web/20130509072433if_/http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
 
 
 
@@ -43,12 +43,12 @@ Linux 命令<a name="linuxcmds"></a>
 
 
 
-Traffic Capture<a name="capture"></a>
+流量捕获<a name="capture"></a>
 ---------------
 
-* [Libpcap/Tcpdump](https://www.tcpdump.org/) : tcpdump 官方网站，一个强大的命令行数据包分析器； 和 libpcap，一个用于网络流量捕获的可移植 C/C++ 库.
+* [Libpcap/Tcpdump](https://www.tcpdump.org/) : tcpdump 官方网站，强大的命令行数据包分析器； 和 libpcap，一个用于网络流量捕获的可移植 C/C++ 库.
 
-* [Ngrep](https://github.com/jpr5/ngrep/) : 力求提供 GNU grep 的大部分通用功能，将它们应用到网络层.  ngrep 是一个 pcap-aware 工具，它允许你指定扩展的正则或十六进制表达式来匹配数据包的数据负载. 它目前识别跨以太网、PPP、SLIP、FDDI、令牌环和空接口的 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
+* [Ngrep](https://github.com/jpr5/ngrep/) : 力求提供 GNU grep 的大部分通用功能，将它们应用到网络层.  ngrep 是一个 pcap-aware 工具，它允许您指定扩展的正则或十六进制表达式以匹配数据包的数据负载. 它目前识别跨以太网、PPP、SLIP、FDDI、令牌环和空接口的 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（例如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
 * [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) : `clj-net-pcap` 是一个用于 Clojure 的数据包捕获库.  clj-net-pcap 使用 jNetPcap 并围绕 jNetPcap 添加便利功能以简化可用性. 一种 [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107) 已在 COMPSACW 2014 范围内发布.
 
@@ -62,15 +62,17 @@ Traffic Capture<a name="capture"></a>
 
 * [OpenFPC](https://github.com/leonward/OpenFPC) ：OpenFPC 是一组脚本，结合起来提供一个轻量级的全包网络流量记录器和缓冲工具. 它的设计目标是允许非专家用户在 COTS 硬件上部署分布式网络流量记录器，同时集成到现有的警报和日志工具中.
 
-* [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/) : PF_RING 是一种新型的网络套接字，极大地提高了数据包捕获速度. 适用于 Linux 内核 2.6.32 及更新版本. 无需修补内核.  PF_RING 感知驱动程序，用于增加数据包捕获加速.
+* [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/) : PF_RING 是一种新型的网络套接字，极大地提高了数据包捕获速度. 适用于 Linux 内核 2.6.32 和更新版本. 无需修补内核.  PF_RING 感知驱动程序，用于增加数据包捕获加速.
 
-* [TTT](https://www2.sonycsl.co.jp/person/kjc/kjc/software.html#ttt) : (Tele Traffic Tapper) 是 tcpdump 的另一个后代，但它能够进行实时、图形化和远程流量监控.  ttt 不会取代 tcpdump，相反，它可以帮助您找出 tcpdump 需要查看的内容.  ttt 监控网络并在时间窗口内自动挑选流量的主要贡献者. 默认情况下，图表每秒更新一次.
+* [TTT](https://www2.sonycsl.co.jp/person/kjc/kjc/software.html#ttt) : (Tele Traffic Tapper) 是 tcpdump 的另一个后代，但它能够实时、图形化和远程流量监控.  ttt 不会取代 tcpdump，相反，它可以帮助您找出 tcpdump 需要查看的内容.  ttt 监控网络并在时间窗口内自动挑选流量的主要贡献者. 默认情况下，图表每秒更新一次.
 
 * [Yaf](https://tools.netsa.cert.org/yaf/yaf.html) : 这是一款可靠的软件，非常可靠，能够从 pcap 生成流量记录. 这对于索引巨大的 pcap 甚至进行数据包捕获非常有用. 最近的版本甚至可以提取有效载荷并放入流记录中.
 
 
 流量分析/检查<a name="analysis"></a>
 --------------------------------------------------
+* [Brim](https://www.brimsecurity.com/) ：Brim 将 Zeek 日志的丰富性与数据包的细节融合在一起. 这是两全其美的. 虽然 Zeek 日志可以快速回答您的大部分问题，但当您需要深入了解细节时，您仍然可以快速访问数据包.  Wireshark 始终只需点击一下即可. 
+
 * [BruteShark](https://github.com/odedshimon/BruteShark) ：是一款开源、跨平台的网络取证分析工具，功能众多. 它包括：密码提取、显示可视化网络地图、重建 TCP 会话、提取加密密码的哈希值，甚至将它们转换为 Hashcat 格式以执行离线暴力攻击.
 
 * [AIEngine](https://bitbucket.org/camp0/aiengine) : 是下一代交互式/可编程数据包检查引擎，具有无需任何人工干预的学习能力、NIDS 功能、DNS 域分类、网络收集器等.  AIEngine 还帮助网络/安全专业人员识别流量并开发用于 NIDS、防火墙、流量分类器等的签名.
@@ -79,7 +81,7 @@ Traffic Capture<a name="capture"></a>
 
 * [CapTipper](https://github.com/omriher/CapTipper): 恶意 HTTP 流量浏览器
 
-* [Chopshop](https://github.com/MITRECND/chopshop): 是一个 MITRE 开发的框架，用于帮助分析人员创建和执行基于 Pynids 的 APT 交易解码器和检测器.
+* [Chopshop](https://github.com/MITRECND/chopshop): 是一个 MITRE 开发的框架，用于帮助分析人员创建和执行基于 pynids 的 APT 交易解码器和检测器.
 
 * [CoralReef](https://www.caida.org/tools/measurement/coralreef/) : 是由 CAIDA 开发的软件套件，用于分析被动 Internet 流量监视器收集的数据. 它提供了一个编程库 libcoral，类似于 libpcap，具有针对 ATM 和其他网络类型的扩展，可从 C 和 Perl 获得.
 
@@ -116,15 +118,15 @@ Traffic Capture<a name="capture"></a>
 
 * [Ntop](http://www.ntop.org/) : Ntop 是一个显示网络使用情况的网络流量探测器，类似于流行的 top Unix 命令所做的.  ntop 基于 libpcap，它以可移植的方式编写，以便在每个 Unix 平台和 Win32 上虚拟运行.
 
-* [Ntopng](https://www.ntop.org/products/traffic-analysis/ntop/) : Ntopng 是原始 ntop 的下一代版本，一个显示网络使用情况的网络流量探测器，类似于流行的 top Unix 命令所做的.  ntop 基于 libpcap，它以可移植的方式编写，以便在每个 Unix 平台、MacOSX 和 Win32 上虚拟运行.
+* [Ntopng](https://www.ntop.org/products/traffic-analysis/ntop/) : Ntopng 是原始 ntop 的下一代版本，一个网络流量探测器，显示网络使用情况，类似于流行的 top Unix 命令所做的.  ntop 基于 libpcap，它以可移植的方式编写，以便在每个 Unix 平台、MacOSX 和 Win32 上虚拟运行.
 
 * [PacketQ](https://github.com/dotse/PacketQ) ：一种为 PCAP 文件提供基本 SQL 前端的工具. 输出 JSON、CSV 和 XML，并包含一个带有 JSON-api 的内置网络服务器和一个漂亮的 AJAX GUI.
 
 * [Pcap2har](https://github.com/andrewf/pcap2har)：使用库 dpkt 将 .pcap 网络捕获文件转换为 HTTP 存档文件的程序.
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) : PcapPlusPlus 一个多平台的 C++ 网络嗅探和数据包解析和操作框架. 它旨在轻巧、高效且易于使用. 它是流行引擎的 C++ 包装器，如 libpcap、WinPcap、DPDK 和 PF_RING. 它还包含许多协议的解析和编辑功能，包括以太网、IPv4、IPv6、ARP、VLAN、MPLS、PPPoE、GRE、TCP、UDP、ICMP、DNS 以及 HTTP 和 SSL/TLS 等第 7 层协议
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) : PcapPlusPlus 一个多平台的 C++ 网络嗅探和数据包解析和操作框架. 它旨在轻巧、高效且易于使用. 它是对 libpcap、WinPcap、DPDK 和 PF_RING 等流行引擎的 C++ 包装器. 它还包含许多协议的解析和编辑功能，包括以太网、IPv4、IPv6、ARP、VLAN、MPLS、PPPoE、GRE、TCP、UDP、ICMP、DNS 以及 HTTP 和 SSL/TLS 等第 7 层协议
 
-* [pkt2flow](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
+* [pkt2flow](https://github.com/caesar0301/pkt2flow) ：一个将数据包分类为流的简单实用程序. 它是如此简单，以至于只有一项任务旨在完成. 对于深度包检测或流分类，分析一个特定流的特征是很常见的. 我已经尝试使用现成的工具，如 tcpflows、tcpslice、tcpsplit，但所有这些工具都试图减少跟踪量（在要求下）或将数据包类似于流有效载荷（超过要求）. 我还没有找到一个简单的工具来将数据包分类为流而无需进一步处理.
 
 * [potiron](https://github.com/CIRCL/potiron)：规范化、索引、丰富和可视化网络捕获.
 
@@ -151,7 +153,7 @@ Traffic Capture<a name="capture"></a>
 
 * [Tcpslice](https://github.com/pyke369/tcpsplice) : Tcpslice 是一种用于提取使用 tcpdump 的 -w 标志生成的数据包跟踪文件部分的工具. 它可以组合多个跟踪文件，和/或根据时间提取一个或多个跟踪的部分.
 
-* [Tcpsplit](https://github.com/pmcgleenon/tcpsplit) ：将单个 libpcap 数据包跟踪分解为一定数量的子跟踪的工具，沿 TCP 连接边界分解跟踪，以便 TCP 连接不会最终拆分为两个子跟踪. 这对于使大型跟踪文件易于深入分析以及对跟踪进行子集化以仅对跟踪的一部分进行分析非常有用.
+* [Tcpsplit](https://github.com/pmcgleenon/tcpsplit) ：一种将单个 libpcap 数据包跟踪分解为若干子跟踪的工具，沿 TCP 连接边界分解跟踪，以便 TCP 连接不会最终拆分为两个子跟踪. 这对于使大型跟踪文件易于进行深入分析和对跟踪进行子集化以便仅对跟踪的一部分进行分析非常有用.
 
 * [Tcpstat](https://frenchfries.net/paul/tcpstat/) : Tcpstat 报告某些网络接口统计信息，就像 vmstat 对系统统计信息所做的一样.  tcpstat 通过监视特定接口或从文件中读取先前保存的 tcpdump 数据来获取其信息.
 
@@ -159,7 +161,7 @@ Traffic Capture<a name="capture"></a>
 
 * [TraceWrangler](https://www.tracewrangler.com/) ：TraceWrangler 是一个运行在 Windows（或 Linux，使用 WINE）上的网络捕获文件工具包，它支持 PCAP 以及新的 PCAPng 文件格式，它现在是 Wireshark 使用的标准文件格式.  TraceWrangler 最突出的用例是 PCAP 和 PCAPng 文件（有时称为“跟踪文件”、“捕获文件”或“数据包捕获”）的轻松清理和匿名化，在易于使用的同时删除或替换敏感数据.
 
-* [Tstat](http://tstat.tlc.polito.it/)：被动嗅探器能够提供有关网络和传输级别的流量模式的多种见解，具有大量的流量特征.
+* [Tstat](http://tstat.tlc.polito.it/)：一个被动嗅探器，能够提供关于网络和传输级别的流量模式的多种见解，具有大量的流量特征.
 
 * [WAND](https://research.wand.net.nz/) ：基于 libtrace 构建的用于处理网络流量的精彩工具集合，来自怀卡托大学. 我喜欢这个项目！
 
@@ -175,7 +177,7 @@ Traffic Capture<a name="capture"></a>
 
 * [yaraprocessor](https://github.com/MITRECND/yaraprocessor) ：使用 yaraprocessor YARA 可以针对单个数据包有效载荷以及部分或全部有效载荷的串联运行. 它最初是为在 Chopshop 中使用而编写的，但也可以在没有它的情况下使用.
 
-“Zeek 为网络流量分析提供了一个综合平台，特别关注大规模语义安全监控.虽然通常与经典的入侵检测/预防系统相比，Zeek 采取了截然不同的方法，为用户提供了一个灵活的框架，有助于定制、深度监控远远超出传统系统的能力.随着初始版本在 90 年代中期已经投入运营部署，Zeek 发现自己已经建立了 20 多年的研究基础.有关更多信息，请参阅 Zeek 概述和我们的宣传文件，为什么选择 Zeek？”
+“Zeek 为网络流量分析提供了一个综合平台，特别关注大规模语义安全监控.虽然通常与经典的入侵检测/预防系统相比，Zeek 采取了截然不同的方法，为用户提供了一个灵活的框架，便于定制、深度监控远远超出传统系统的能力.随着初始版本在 90 年代中期已经投入运营部署，Zeek 发现自己扎根于 20 多年的研究.有关更多信息，请参阅 Zeek 概述和我们的宣传文件，为什么选择Zeek？”
 
 DNS 实用程序<a name="dnstools"></a>
 --------------------------------------------
@@ -195,7 +197,7 @@ DNS 实用程序<a name="dnstools"></a>
 --------------------------------------------
 
 
-* [Dsniff](https://www.monkey.org/~dugsong/dsniff/) ：Dsniff 是用于网络审计和渗透测试的工具集合.  dsniff、filesnarf、mailsnarf、msgsnarf、urlsnarf 和 webspy 被动地监视网络以获取有趣的数据（密码、电子邮件、文件等）.  arpspoof、dnsspoof 和 macof 有助于拦截攻击者通常无法获得的网络流量（例如，由于第 2 层交换）.  sshmitm 和 webmitm 通过利用 ad-hoc PKI 中的弱绑定，对重定向的 SSH 和 HTTPS 会话实施主动中间猴子攻击.
+* [Dsniff](https://www.monkey.org/~dugsong/dsniff/) ：Dsniff 是用于网络审计和渗透测试的工具集合.  dsniff、filesnarf、mailsnarf、msgsnarf、urlsnarf 和 webspy 被动地监视网络中的有趣数据（密码、电子邮件、文件等）.  arpspoof、dnsspoof 和 macof 有助于拦截攻击者通常无法获得的网络流量（例如，由于第 2 层交换）.  sshmitm 和 webmitm 通过利用 ad-hoc PKI 中的弱绑定，对重定向的 SSH 和 HTTPS 会话实施主动中间猴子攻击.
 
 * [Foremost](https://github.com/jonstewart/foremost) : 是一个控制台程序，用于根据文件的页眉、页脚和内部数据结构恢复文件. 这个过程通常被称为数据雕刻.  Foremost 可以处理图像文件，例如由 dd、Safeback、Encase 等生成的文件，也可以直接处理驱动器. 页眉和页脚可以由配置文件指定，也可以使用命令行开关指定内置文件类型. 这些内置类型查看给定文件格式的数据结构，从而实现更可靠和更快的恢复.
 
@@ -209,7 +211,7 @@ DNS 实用程序<a name="dnstools"></a>
 
 * [Snort](https://www.snort.org/) ：是Sourcefire开发的开源网络入侵防御和检测系统（IDS/IPS），现归思科所有.  Snort 结合了签名、协议和基于异常的检查的优点，是全球部署最广泛的 IDS/IPS 技术.
 
-* [Tcpick](http://tcpick.sourceforge.net/) : 是一个基于 libpcap 的文本模式嗅探器，可以跟踪、重组和重新排序 tcp 流.  Tcpick 能够将捕获的流保存在不同的文件中或在终端中显示它们，因此它对于嗅探通过 ftp 或 http 传输的文件很有用. 它可以在终端上显示所有流，当连接关闭时，以不同的显示模式，如 hexdump、hexdump + ascii、仅可打印字符、原始模式等.
+* [Tcpick](http://tcpick.sourceforge.net/) : 是一个基于 libpcap 的文本模式嗅探器，可以跟踪、重组和重新排序 tcp 流.  Tcpick 能够将捕获的流保存在不同的文件中或在终端中显示它们，因此它对于嗅探通过 ftp 或 http 传输的文件很有用. 它可以在终端上显示所有流，当连接关闭时以不同的显示模式，如 hexdump、hexdump + ascii、仅可打印字符、原始模式等.
 
 * [Tcpxtract](http://tcpxtract.sourceforge.net/) : 是一种基于文件签名从网络流量中提取文件的工具. 根据文件类型的页眉和页脚（有时称为“雕刻”）提取文件是一种古老的数据恢复技术.
 
@@ -221,7 +223,7 @@ USB
 * [USBPcap](https://github.com/desowin/usbpcap) - Windows 的解决方案.
 
 ### Analysis
-* [USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper) - 使用`usbmon`和`USBPcap`帧格式转换 .pcap 文件，这些帧格式来自使用 Odin 或通过刷新 Android 手机的捕获 [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) 到一组带有帧有效载荷的文件中. 对逆向工程很有用. 具有模块化架构，可轻松转换为其他应用程序格式.
+* [USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper) - 使用`usbmon`和`USBPcap`帧格式转换 .pcap 文件，这些帧格式来自使用 Odin 刷新 Android 手机或 [Heimdall](https://gitlab.com/BenjaminDobell/Heimdall) 到一组带有帧有效载荷的文件中. 对逆向工程很有用. 具有模块化架构，可轻松转换为其他应用程序格式.
 
 
 相关项目<a name="others"></a>
@@ -231,12 +233,12 @@ USB
 
 * [BPF+](https://andrewbegel.com/papers/bpf.pdf)：在通用数据包过滤器架构中利用全局数据流优化 作者：Andrew Begel、Steven McCanne 和 Susan Graham.
 
-* [FFT-FGN-C](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html) : 是一种用于合成一种称为分数高斯噪声的自相似过程的程序. 该程序很快，但近似. 分数高斯噪声只是一种自相似过程. 使用此程序来合成网络流量时，您必须记住，使用其他进程之一对您寻找的流量进行建模可能会更好.
+* [FFT-FGN-C](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ita.ee.lbl.gov/html/contrib/fft_fgn_c.html) : 是一种用于合成一种称为分数高斯噪声的自相似过程的程序. 该程序很快，但近似. 分数高斯噪声只是一种自相似过程. 使用此程序合成网络流量时，您必须记住，使用其他进程之一对您寻找的流量进行建模可能会更好.
 
 * [Haka](http://www.haka-security.org/) ：一种面向安全的开源语言，它允许描述协议并在（实时）捕获的流量上应用安全策略. 哈卡语的范围是双重的. 首先，它允许编写安全规则以过滤/更改/删除不需要的数据包并记录和报告恶意活动. 其次，Haka 具有能够指定网络协议及其底层状态机的语法.
 
 * [RIPE-NCC Hadoop for PCAP](https://github.com/RIPE-NCC/hadoop-pcap) ：一个用于读取数据包捕获 (PCAP) 文件的 Hadoop 库. 捆绑用于读取 PCAP 的代码. 可在 MapReduce 作业中使用以本机读取 PCAP 文件. 还具有 Hive 串行器/解串器 (SerDe) 以使用类似 SQL 的命令查询 PCAP.
 
-* [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/) ：对于网络研究人员和运营商而言，了解网络流量趋势并发现网络流量异常变得越来越重要. 本文描述了 WIDE 项目中正在进行的一项工作，即收集一组免费工具来构建包含我们主干流量详细信息的流量数据存储库.  tcpdump 收集流量踪迹，去除隐私信息后，向公众公开这些踪迹. 我们回顾了用户隐私问题，然后是用于构建 WIDE 流量存储库的工具. 我们将在 IPv6 部署的早期阶段报告当前状态和发现.
+* [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/) ：对于网络研究人员和运营商而言，了解网络流量趋势并发现网络流量异常变得越来越重要. 本文描述了 WIDE 项目中正在进行的一项工作，即收集一组免费工具来构建包含我们主干流量详细信息的流量数据存储库.  tcpdump 收集流量踪迹，去除隐私信息后，向公众公开. 我们回顾了用户隐私问题，然后是用于构建 WIDE 流量存储库的工具. 我们将在 IPv6 部署的早期阶段报告当前状态和发现.
 
 * [Usenix93 Paper on BPF](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z) ：libpcap接口支持基于BSD包过滤器架构的过滤机制.  BPF 在 1993 年 Winter Usenix 论文“The BSD Packet Filter: A New Architecture for User-level Packet Capture”中有所描述.

@@ -1402,7 +1402,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [Rust Gym](https://github.com/warycat/rustgym) - 在 Rust 中解决的大量编码面试问题.
   * [Rust in Action](https://www.manning.com/books/rust-in-action) — 使用 Rust 进行系统编程的实践指南，作者： [Tim McNamara](https://github.com/timClicks) （有薪酬的）
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) — 视频系列 [Carol Nichols](https://github.com/carols10cents) 和 [Jake Goulding](https://github.com/shepmaster) （有薪酬的）
-  * [Rust Online Courses at Classpert](https://classpert.com/topics/rust) ——来自 Classpert Online Course Search 的 Rust 在线课程列表（付费）
+  * [Rust Online Courses at Classpert](https://classpert.com/search/rust) ——来自 Classpert Online Course Search 的 Rust 在线课程列表（付费）
   * [rust-learning](https://github.com/ctjhoa/rust-learning) — 学习 Rust 的有用资源的集合
   * [Rustlings](https://github.com/rust-lang/rustlings) — 小练习，让你习惯阅读和编写 Rust 代码
   * [stdx](https://github.com/brson/stdx) — 首先学习这些板条箱作为 std 的扩展

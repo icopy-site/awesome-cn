@@ -25,7 +25,7 @@ _收藏的帮手和费用_
 - [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) - 自动验证客户端和服务器上的插入和更新操作.
 - [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers/) – 使用您定义的助手转换您的收藏.
 - [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) - 扩展 Mongo.Collection 与插入/更新/删除/查找/findOne 之前/之后的挂钩.
-- [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - 使用反应式连接从各种集合中发布一组相关文档.
+- [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) - 使用反应连接从各种集合中发布一组相关文档.
 - [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) - Meteor 的模型层.
 - [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) - Grapher：Meteor Collection Joins + Reactive GraphQL like queries.
 - [sakulstra:aggregate](https://github.com/sakulstra/meteor-aggregate) - 为 Meteor 添加适当的聚合支持.
@@ -44,7 +44,7 @@ _模板助手_
 
 - [uniforms](https://github.com/vazco/uniforms) - 一堆 React 组件和助手，可轻松生成和验证表单. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
 - [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI 组件和助手可以轻松创建具有自动插入和更新事件以及自动反应验证的基本表单.
-- [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) - Blaze 模板的实用助手.
+- [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) - Blaze 模板的实用程序助手.
 - [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) - Meteor 包：替换已定义的模板，从其他模板继承助手和事件.
 - [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) - Blaze 的布局管理器（适用于 Meteor FlowRouter）
 
@@ -53,8 +53,9 @@ _模板助手_
 _处理用户和身份验证的工具_
 
 - [accounts-js](https://github.com/accounts-js/accounts) - 一套软件包旨在提供为您的应用程序构建灵活的身份验证和帐户管理解决方案所需的所有工具.
-- [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - Roles support for the built-in accounts packages.
+- [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) - 内置帐户包的角色支持.
 - [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) - 跟踪用户及其元数据.
+- [accounts-ui](https://github.com/e-Potek/accounts-ui/) - Meteor 1.3+ 中 React 的帐户 UI.
 
 ## Administration
 
@@ -87,7 +88,7 @@ _加速 Meteor 应用程序的工具_
 
 _用于部署和维护 Meteor 应用程序的工具_
 
-- [meteor-up](https://github.com/zodern/meteor-up) – 流星部署.
+- [meteor-up](https://github.com/zodern/meteor-up) – Meteor Deployments.
 - [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) - 在 Google Cloud App Engine Flexible 上自动化 Meteor 部署
 - [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) - 使用 Meteor Up 将 Meteor 应用程序部署到 AWS Elastic Beanstalk
 - [meteor-azure](https://github.com/fractal-code/meteor-azure) - 在 Azure 应用服务上自动化 Meteor 部署
@@ -98,6 +99,7 @@ _用于部署和维护 Meteor 应用程序的工具_
 - [demeteorizer](https://github.com/onmodulus/demeteorizer) - 将 Meteor 应用程序转换为“标准”Node.js 应用程序
 - [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) - Meteor 的简单迁移系统
 - [yamup](https://github.com/bordalix/yamup) - 无需 docker 即可将 Meteor 应用程序部署到您自己的 Ubuntu 服务器（EC2，...）
+- [waveshosting](https://github.com/nicolaslopezj/waveshosting) - 用于管理流星部署的 Web 应用程序.
 
 ## Docker Images
 
@@ -143,9 +145,9 @@ _搜索引擎优化工具_
 _在 Meteor 中处理文件_
 
 - [ostrio:files](https://github.com/VeliovGroup/Meteor-Files)  - 通过 DDP、HTTP 和 WebRTC/DC 上传文件. 到 Meteor 服务器 FS、AWS、GridFS、DropBox 或 Google Drive. 快速、安全和稳健.
-- [@reactioncommerce/file-collections](https://github.com/reactioncommerce/reaction-file-collections) - Reaction FileCollections 是一组 NPM 包，提供支持在 Node 和 Meteor 应用程序以及浏览器 JavaScript 中上传、存储和下载文件的能力.
+- [@reactioncommerce/file-collections](https://github.com/reactioncommerce/reaction-file-collections) - Reaction FileCollections 是一组 NPM 包，提供支持 Node 和 Meteor 应用程序以及浏览器 JavaScript 中的文件上传、存储和下载的能力.
 - [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - 解析和生成excel文件（xlsx、xls）.
-- [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) - 将文件直接上传到 AWS S3、Google Cloud Storage 和 Meteer 中的其他文件.
+- [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) - 在meteor 中直接上传文件到AWS S3、Google Cloud Storage 和其他.
 
 ## Search, sort and paginate
 
@@ -154,7 +156,7 @@ _搜索、排序和分页相关工具_
 - [percolate:find-from-publication](https://github.com/versolearning/find-from-publication) - 启用查找已由给定出版物发布的所有文档.
 - [meteor-publish-join](https://github.com/nlhuykhang/meteor-publish-join#readme) - 用于发布非反应性或聚合值的高性能 NPM 包.
 - [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) - 实时发布游标的计数.
-- [meteorhacks:search-source](https://github.com/meteorhacks/search-source) - 用于搜索的反应数据源.
+- [meteorhacks:search-source](https://github.com/meteorhacks/search-source) - 用于搜索的反应性数据源.
 - [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) - 易于使用的 Blaze 组件搜索（+ 弹性搜索支持）
 - [alethes:pages](https://github.com/alethes/meteor-pages) - 开箱即用的 Meteor 分页.
 
@@ -162,10 +164,11 @@ _搜索、排序和分页相关工具_
 
 _移动开发_
 
+- [meteor-react-native](https://github.com/TheRealNate/meteor-react-native) - 用于 React Native 匹配 Meteor 规范的 Meteor 客户端.
 - [meteor-push](https://github.com/activitree/meteor-push) - 为cordova（ios、android）浏览器（Chrome、Safari、Firefox）推送通知.
-- [quave:universal-links](https://github.com/quavedev/universal-links) - 一个 Meteor 包，允许您公开您的本机 iOS 设置以启用通用链接. 
+- [quave:universal-links](https://github.com/quavedev/universal-links) - 一个流星包，允许您公开您的本机 iOS 设置以启用通用链接. 
 - [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Meteor 的离子组件.
-- [driftyco:ionic](https://github.com/driftyco/ionic) - 官方 Ionic 支持 Meteor.
+- [driftyco:ionic](https://github.com/driftyco/ionic) - Meteor 的官方 Ionic 支持.
 - [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - 通过 DDP 将原生 iOS 应用程序与 Meteor 平台集成.
 - [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - Android 客户端的 DDP.
 - [okland:accounts-phone](https://github.com/okland/accounts-phone) - 基于手机号码的 Meteor 登录服务.
@@ -224,6 +227,7 @@ _Scaffolding_
 
 ## Boilerplate
 
+- [CaptainN - meteor-react-starter](https://github.com/CaptainN/meteor-react-starter) - 带有 React 的 Meteor 入门项目.
 - [Pup](https://github.com/cleverbeagle/pup)
 - [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate)
 - [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
@@ -234,21 +238,23 @@ _Scaffolding_
 - [Wekan](https://github.com/wekan/wekan) - 开源类似 Trello 的看板.
 - [Unchained Shop](https://github.com/unchainedshop/unchained) - 使用 Meteor 开发的开源商务平台.
 - [VulcanJS](https://github.com/VulcanJS/Vulcan) - 使用 React、GraphQL 和 Meteor 快速构建应用程序的工具包.
-- [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - 由 Meteor 提供支持的开源教育平台.
 - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - MongoDB 管理工具.
+- [radgrad2](https://github.com/radgrad/radgrad2) - 基于流星的教育管理系统.
+- [coauthor](https://github.com/edemaine/coauthor) - 共同创作超级协作/讨论论坛.
 
 ## Internationalization
 
 - [Meteor-Internationalization](https://github.com/veliovgroup/Meteor-Internationalization) - 用于 Meteor 的超轻量级和快速 i18n 同构驱动程序，支持占位符.
 - [meteor-accounts-t9n](https://github.com/softwarerero/meteor-accounts-t9n/) - 流星帐户错误信息的翻译.
+- [meteor-universe-i18n](https://github.com/vazco/meteor-universe-i18n) - React 和 Meteor 的国际化包.
 
 ## Front End Frameworks
 
 _Blaze 的替代前端框架_
 
 - [React](http://react-in-meteor.readthedocs.org/en/latest/) - 使用 React 和 Meteor.
-- [Vue](https://github.com/Akryum/meteor-vue-component) - 使用 Vue 和 Meteor（加上单文件组件和 apollo 支持）.
-- [Svelte](https://github.com/meteor-svelte/meteor-svelte) - 使用 Meteor 和 Svelte 构建控制论增强的 Web 应用程序.
+- [Vue](https://github.com/meteor-vue) - 使用 Vue 和 Meteor（加上单文件组件和 apollo 支持）.
+- [Svelte](https://github.com/zodern/melte) - 使用 Meteor 和 Svelte 构建控制论增强的 Web 应用程序.
 - [Angular 2](https://github.com/Urigo/angular2-meteor) - 使用 Angular 2 和 Meteor.
 - [Angular](https://github.com/Urigo/angular-meteor) - 使用 Angular 和 Meteor.
 - [Famo.us](https://github.com/gadicc/meteor-famous-views/) - Famo.us 和 Meteor.
@@ -275,9 +281,9 @@ _在哪里可以发现新的 Meteor 事物_
 
 - [Meteor Explained](https://gumroad.com/l/meteor-explained)
 - [Secure Meteor](https://www.securemeteor.com/)
-- [meteor-tuts](https://www.meteor-tuts.com/) - 自由
-- [Meteor Tips](http://meteortips.com/) - 自由
-- [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - 自由
+- [meteor-tuts](https://www.meteor-tuts.com/) - 免费
+- [Meteor Tips](http://meteortips.com/) - 免费
+- [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - 免费
 - [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
 
 ## Courses
@@ -290,7 +296,7 @@ _在哪里可以发现新的 Meteor 事物_
 - #### Paid
   - [Udemy - Learn React and Meteor in 2021: Build a multiplayer game](https://www.udemy.com/course/modern-web-development-with-react-and-meteor-2021/)
   - [Udemy - Realtime Applications with Meteor and Vue](https://www.udemy.com/course/meteor-vue) - 西班牙语课程.
-  - [leveluptutorials](https://www.leveluptutorials.com/) - 包含一些免费教程，但主要是 1.x.
+  - [leveluptutorials](https://www.leveluptutorials.com/) - 包含一些免费教程，但主要针对 1.x.
 
 ## Tutorials
 

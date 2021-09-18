@@ -81,7 +81,7 @@
 &gt;- 特定寄存器；
 &gt;- 特定的错误、怪癖和可利用的行为.
 >
-&gt;如果您打算为 SGB 或 GBC 开发您的软件，或者您想知道它如何在其他系统上运行，您可能想利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别并查找对 GBC/CGB 和 SGB 的具体参考.
+&gt;如果您打算为 SGB 或 GBC 开发您的软件，或者您想知道它如何在其他系统上运行，您可能希望利用并适应这些差异，请查看 [Game Boy Color](#game-boy-color) 类别并查找对 GBC/CGB 和 SGB 的具体参考.
 
 
 ## Community
@@ -249,7 +249,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Binjgb](https://github.com/binji/binjgb)  - 通过大部分测试的 5Kloc 模拟器.  *倒带功能. 使用 WebAssembly 在浏览器中运行.
 - [Gambatte](https://github.com/sinamas/gambatte) - 跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) - 整个 Game Boy 的可玩电路级模拟.
-- [gbe-plus](https://github.com/shonumi/gbe-plus) - 最近重写的模拟器，在保留不知名配件的功能方面做出了很大努力（例如 IR 链接、移动网络 GB、Barcode Boy、GB 打印机、本地和在线 GB 串行链路电缆，...）
+- [gbe-plus](https://github.com/shonumi/gbe-plus) - 最近重写的模拟器，在保留不知名配件的功能方面付出了巨大努力（例如 IR 链接、移动网络 GB、Barcode Boy、GB 打印机、本地和在线 GB 串行链路电缆，...）
 - [Emulicious](https://emulicious.net/) - 提供准确的仿真并包括强大的工具，例如分析器和 ASM 和 C 的源代码级调试 [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
 
 [Complete list of open source emulators](EMULATORS.md)
@@ -265,7 +265,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) - 扩展 gbdk 的 C 库.
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - Michael Hope 的 Game Boy 开发工具包的一小部分源代码和工具.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 一种用于 Game Boy 编程的 IDE，使用一种名为 GBL 的类 C 语言，具有许多其他功能，例如图块和地图提取、WLA-DX 汇编等.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 一种用于 Game Boy 编程的 IDE，采用一种名为 GBL 的类 C 语言，具有许多其他功能，例如图块和地图提取、WLA-DX 汇编等.
 - [mgbdis](https://github.com/mattcurrie/mgbdis) - 具有 RGBDS 兼容输出的 Game Boy ROM 反汇编器.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - 用于检查和修改 ROM 标题数据（包括徽标）的在线工具.
 - [romusage](https://github.com/bbbbbr/romusage)  - 用于从 .map、.noi 或 ihx 文件估计 Game Boy ROM 的使用情况（可用空间）的命令行工具. 适用于 GBDK-2020 和 RGBDS.
@@ -276,7 +276,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS Web 应用程序，可将位图图像转换为适用于基于图块的图形应用程序（特别是 GB）的十六进制数据.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Game Boy Tile Designer (GBTD) 和 Game Boy Map Builder (GBMB) 工具的一些来源和主页.
-- [GBTiles](https://github.com/bashaus/gbtiles) - 将使用 Harry Mulder 的 Tile Designer (GBTD) 创建的 .GBR 文件和使用 Harry Mulder 的 Map Builder (GBMB) 创建的 .GBM 文件转换为不同的格式，以便与 Game Boy 和 GBDK 一起使用.
+- [GBTiles](https://github.com/bashaus/gbtiles) - 将使用 Harry Mulder 的 Tile Designer (GBTD) 创建的 .GBR 文件和使用 Harry Mulder 的 Map Builder (GBMB) 创建的 .GBM 文件转换为不同的格式，以用于 Game Boy 和 GBDK.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
 - [png2gb](https://github.com/LuckyLights/png2gb) - 将图像文件转换为游戏男孩 .c 数组的 CLI 工具.
 - [GB-convert](https://github.com/exezin/gb-convert) - Game Boy 瓷砖转换和地图编辑器工具（转换为组装）.
@@ -284,7 +284,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) - 简约的 ncurses 磁贴编辑器.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) - 自定义 GB/GBC 内存/硬件映射器的定义和规范，作为 MBC 的功能超集.
 - [libstdgb](https://github.com/delwink/libstdgb) - 有用的 Game Boy 操作 (SDCC) 的 AC 库.
-- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP 图像编辑器插件，用于导入和导出 GBMB 和 GBTD tilemaps 和tilesets（作为位图图像或 .GBM/.GBR 文件）.
+- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP 图像编辑器插件，用于导入和导出 GBMB 和 GBTD 图块图和图块集（作为位图图像或 .GBM/.GBR 文件）.
 - [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) - 用于优化瓦片地图和瓦片集的 GIMP 图像编辑器插件.
 - [Tilemap Studio](https://github.com/Rangi42/tilemap-studio)  - 适用于 Game Boy、Color、Advance 和 SNES 项目的瓷砖地图编辑器. 用 FLTK 用 C++ 编写. 
 - [Superfamiconv](https://github.com/Optiroc/SuperFamiconv) - 灵活且可组合的磁贴图形转换器，支持 Super Nintendo、Game Boy、Game Boy Color、Game Boy Advance、Mega Drive 和 PC Engine 格式.
@@ -304,7 +304,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [GBT PLAYER](https://github.com/AntonioND/gbt-player) - 音乐播放器库和转换器套件.
 - [mmlgb](https://github.com/SimonLarsen/mmlgb) - Nintendo Game Boy 的 MML 解析器和 GBDK 声音驱动程序.
 - [XPMCK](https://github.com/bazzinotti/XPMCK) - 基于 MML 的音乐编译器，支持 Game Boy 和 Game Boy Color.
-- [SoundSystem](https://github.com/BlitterObjectBob/GBSoundSystem) - GameBoy Tracker（又名 Paragon 5 音乐播放器）的现代化音频驱动程序.
+- [SoundSystem](https://github.com/gb-archive/GBSoundSystem) - GameBoy Tracker（又名 Paragon 5 音乐播放器）的现代化音频驱动程序.
 - [hUGETracker](https://github.com/SuperDisk/hUGETracker) - 基于 OpenMPT 的音乐跟踪器，专注于易用性、紧凑的输出和自制游戏的嵌入性.
 
 ## Programming
@@ -334,7 +334,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - 许多工作演示和来源.
 - [EmmaEwert's experiments](https://github.com/EmmaEwert/gameboy)  - 一组原型程序，主要是玩弄. 其中包括日光效果、透明度和天气效果.
-- [DeadCScroll](https://github.com/BlitterObjectBob/DeadCScroll) - 关于如何使屏幕摆动以及其他“光栅效果”的详细教程
+- [DeadCScroll](https://github.com/gb-archive/DeadCScroll) - 关于如何使屏幕摆动以及其他“光栅效果”的详细教程
 
 #### Timings
 
@@ -386,7 +386,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 完整的开源游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) - 为 Game Boy 制作的每个非官方自制软件都可在线玩（移动/触摸）：社区主导的尝试收集、存档和保存社区制作的 Game Boy（彩色）的每个非官方游戏、自制软件、演示、补丁、hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) - 为 Game Boy 制作的每个非官方自制软件都可在线玩（移动/触摸）：社区主导的尝试收集、存档和保存社区制作的 Game Boy（颜色）的每个非官方游戏、自制软件、演示、补丁、hackrom通过多年的热情工作.
 
 ### ASM
 
@@ -538,7 +538,7 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 - [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) - 非游戏用途的应用程序开发.
 - [Ostrich](https://github.com/PumpMagic/ostrich) - 用 Swift 编写的 Game Boy Sound System 播放器.
 - [mGB](https://github.com/trash80/mGB) - 一个 Game Boy 卡带程序，使 Game Boy 能够充当完全支持 MIDI 的声音模块.
-- [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未公开的 Game Boy Color 寄存器，昵称为 PCM12 (FF76) 和 PCM34 (FF77)，可用于读取 4 个 APU 通道的当前 PCM 幅度.
+- [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未记录的 Game Boy Color 寄存器，昵称为 PCM12 (FF76) 和 PCM34 (FF77)，可用于读取 4 个 APU 通道的当前 PCM 幅度.
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - 基于 Arduino 的 Game Boy 墨盒读写器.
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf*ck 翻译.
 - [gbfk](https://github.com/elseyf/gbfk) - Brainf*ck 解释器，带输入.

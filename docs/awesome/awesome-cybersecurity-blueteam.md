@@ -30,19 +30,19 @@
 
 ### Code libraries and bindings
 
-- [MultiScanner](https://github.com/mitre/multiscanner) - 用 Python 编写的文件分析框架，通过自动针对一组文件运行一套工具并聚合输出来帮助评估一组文件.
+- [MultiScanner](https://github.com/mitre/multiscanner) - File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - VirusTotal.com API 的 PowerShell 接口.
 - [censys-python](https://github.com/censys/censys-python) - Censys REST API 的 Python 包装器.
 - [libcrafter](https://github.com/pellegre/libcrafter) - 高级 C++ 网络数据包嗅探和制作库.
 - [python-dshield](https://github.com/rshipp/python-dshield) - Internet Storm Center/DShield API 的 Pythonic 接口.
-- [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - 最小、一致的 Python API，用于构建与恶意软件沙箱的集成.
+- [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - 最小的、一致的 Python API，用于构建与恶意软件沙箱的集成.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - 用于序列化和反序列化结构化威胁信息表达 (STIX) JSON 内容的 Python API，以及用于常见任务的更高级别的 API.
 
 ### Security Orchestration, Automation, and Response (SOAR)
 
 也可以看看 [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)， 和 [IR management consoles](#ir-management-consoles).
 
-- [Shuffle](https://shuffler.io/) - 适用于 IT 专业人员和蓝队的图形化通用工作流（自动化）构建器.
+- [Shuffle](https://shuffler.io/) - 面向 IT 专业人员和蓝队的图形化通用工作流（自动化）构建器.
 
 ## Cloud platform security
 
@@ -72,7 +72,7 @@
 - [KubeSec](https://kubesec.io/) - Kubernetes 清单的静态分析器，可以在本地运行，作为 Kuberenetes 准入控制器，或作为它自己的云服务.
 - [Kyverno](https://kyverno.io/) - 为 Kubernetes 设计的策略引擎.
 - [Linkerd](https://linkerd.io/) - 特定于 Kubernetes 的超轻型服务网格，可为 Kubernetes 应用程序增加可观察性、可靠性和安全性，而无需对应用程序本身进行任何修改.
-- [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) - 查询和验证托管 Kubernetes 集群对象和集群内运行的工作负载/资源的几个常见的与安全相关的配置设置.
+- [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) - 查询和验证托管 Kubernetes 集群对象和集群内运行的工作负载/资源的几个常见的安全相关配置设置.
 - [Polaris](https://polaris.docs.fairwinds.com/) - 通过针对代码提交、Kubernetes 准入请求或已在集群中运行的实时资源运行测试来验证 Kubernetes 最佳实践. 
 - [certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) - 将 TLS 证书的到期时间公开为 Prometheus 指标的实用程序.
 - [k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes 的工作负载策略实施工具.
@@ -93,9 +93,9 @@
 
 - [GPG Sync](https://github.com/firstlookmedia/gpgsync) - 在组织或团队的所有成员之间集中和自动化 OpenPGP 公钥分发、撤销和更新.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) - 新颖的实验性遗传算法，可针对民族国家级审查者发展基于数据包操纵的审查规避策略，以增加其他被阻止内容的可用性.
-- [GlobaLeaks](https://www.globaleaks.org/) - 免费的开源软件使任何人都可以轻松设置和维护安全的举报平台.
+- [GlobaLeaks](https://www.globaleaks.org/) - 免费的开源软件，使任何人都可以轻松设置和维护安全的举报平台.
 - [SecureDrop](https://securedrop.org/) - 媒体组织和非政府组织可以安装开源举报人提交系统，以安全地接受来自匿名来源的文件.
-- [Teleport](https://goteleport.com/) - 允许工程师和安全专家在所有环境中统一对 SSH 服务器、Kubernetes 集群、Web 应用程序和数据库的访问.
+- [Teleport](https://goteleport.com/) - 允许工程师和安全专业人员在所有环境中统一对 SSH 服务器、Kubernetes 集群、Web 应用程序和数据库的访问.
 
 ## DevSecOps
 
@@ -111,7 +111,7 @@
 - [Git Secrets](https://github.com/awslabs/git-secrets) - 防止您将密码和其他敏感信息提交到 git 存储库.
 - [SOPS](https://github.com/mozilla/sops) - 支持 YAML、JSON、ENV、INI 和二进制格式并使用 AWS KMS、GCP KMS、Azure Key Vault 和 PGP 加密的加密文件编辑器.
 - [Snyk](https://snyk.io/) - 查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
-- [SonarQube](https://sonarqube.org) - 持续检查工具，可在自动测试期间提供详细报告，并对新引入的安全漏洞发出警报.
+- [SonarQube](https://sonarqube.org) - 持续检查工具，可在自动测试期间提供详细报告并针对新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) - 简单而全面的容器和其他工件的漏洞扫描器，适用于持续集成管道.
 - [Vault](https://www.vaultproject.io/) - 用于通过统一界面安全访问机密信息（例如 API 密钥、密码或证书）的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  - git中的透明文件加密； 您选择保护的文件在提交时加密，签出时解密.
@@ -120,8 +120,8 @@
 ### Application or Binary Hardening
 
 - [DynInst](https://dyninst.org/dyninst) - 用于二进制检测、分析和修改的工具，对二进制修补很有用.
-- [DynamoRIO](https://dynamorio.org/) - 运行时代码操作系统，支持程序任何部分的代码转换，同时它执行，作为进程级虚拟机实现.
-- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究设计的普通 Linux 二进制文件.
+- [DynamoRIO](https://dynamorio.org/) - 运行时代码操作系统，支持在程序的任何部分进行代码转换，当它执行时，实现为进程级虚拟机.
+- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究而设计的普通 Linux 二进制文件.
 - [Valgrind](https://www.valgrind.org/) - 用于构建动态分析工具的检测框架.
 
 ### Compliance testing and reporting
@@ -141,8 +141,8 @@
 
 - [AllStar](https://github.com/ossf/allstar) - GitHub 应用程序安装在组织或存储库上以设置和实施安全策略.
 - [Conftest](https://conftest.dev/) - 帮助您针对结构化配置数据编写测试的实用程序.
-- [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - 统一的工具集和跨云原生堆栈的策略框架.
-- [Tang](https://github.com/latchset/tang)  - 将数据绑定到网络存在的服务器； 仅当客户端位于特定（安全）网络上时才向客户端提供数据.
+- [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - 跨云原生堆栈的统一策略工具集和框架.
+- [Tang](https://github.com/latchset/tang)  - 将数据绑定到网络存在的服务器； 仅当客户端位于某个（安全）网络上时才向客户端提供数据.
 
 ### Supply chain security
 
@@ -166,7 +166,7 @@
 
 - [Artillery](https://github.com/BinaryDefense/artillery) - 组合蜜罐、文件系统监视器和警报系统，旨在保护 Linux 和 Windows 操作系统.
 - [chkrootkit](http://chkrootkit.org/) - 在 GNU/Linux 系统上本地检查 rootkit 的迹象.
-- [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - Free tool for Windows systems aimed to alert you to the presence of malware that may be communicating over the network.
+- [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - 用于 Windows 系统的免费工具，旨在提醒您可能通过网络进行通信的恶意软件的存在.
 - [Fail2ban](https://www.fail2ban.org/) - 保护计算机服务器免受暴力攻击的入侵防御软件框架.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源且免费、功能丰富、基于主机的入侵检测系统 (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 符合 POSIX 标准的 Bash 脚本，可扫描主机以查找各种恶意软件迹象.
@@ -176,6 +176,10 @@
 - [Bubblewrap](https://github.com/containers/bubblewrap) - 供非特权 Linux 用户使用的沙盒工具，能够限制对部分操作系统或用户数据的访问.
 - [Dangerzone](https://dangerzone.rocks/) - 将具有潜在危险的 PDF、办公文档或图像转换为安全的 PDF.
 - [Firejail](https://firejail.wordpress.com/) - SUID 程序，通过使用 Linux 命名空间和 seccomp-bpf 限制不受信任的应用程序的运行环境来降低安全漏洞的风险.
+
+## Identity and AuthN/AuthZ
+
+- [Gluu Server](https://gluu.org/) - 通过免费和开源软件云原生社区分发对 Web 和移动应用程序进行集中身份验证和授权.
 
 ## Incident Response tools
 
@@ -221,7 +225,7 @@
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - 意大利 GNU/Linux 实时发行版，预先打包了大量数字取证和证据收集工具.
 - [Security Onion](https://securityonion.net/) - 用于入侵检测、企业安全监控和日志管理的免费开源 GNU/Linux 发行版.
-- [Qubes OS](https://qubes-os.org/) - 桌面环境构建在 Xen 管理程序项目之上，该项目在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制，以限制任何成功的恶意软件利用的范围.
+- [Qubes OS](https://qubes-os.org/) - 桌面环境构建在 Xen 管理程序项目之上，该项目在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制以限制任何成功的恶意软件利用的范围.
 
 ## Phishing awareness and reporting
 
@@ -265,7 +269,7 @@
 
 也可以看看 [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
-- [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于 pynids 的 APT 技术解码器和检测器的框架.
+- [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于 pynids 的解码器和 APT 技术检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) - 恶意网络流量检测系统.
 - [Moloch](https://github.com/aol/moloch) - 增强您当前的安全基础设施，以标准 PCAP 格式存储和索引网络流量，提供快速的索引访问.
 - [OwlH](https://www.owlh.net/) - 通过可视化 Suricata、Zeek 和 Moloch 生命周期，帮助大规模管理网络 IDS.
@@ -275,11 +279,11 @@
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - 捕获欺骗的 NetBIOS 名称服务 (NBNS) 响应并警告电子邮件或日志文件.
 - [Stenographer](https://github.com/google/stenographer) - 完整的数据包捕获实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应.
 - [Suricata](https://suricata-ids.org/) - 免费、跨平台、IDS/IPS，具有在线和离线分析模式以及深度数据包检测功能，也可使用 Lua 编写脚本.
-- [Tsunami](https://github.com/google/tsunami-security-scanner) - 具有可扩展插件系统的通用网络安全扫描器，用于高可信度检测高严重性漏洞. 
+- [Tsunami](https://github.com/google/tsunami-security-scanner) - 具有可扩展插件系统的通用网络安全扫描器，用于以高可信度检测高严重性漏洞. 
 - [VAST](https://github.com/tenzir/vast) - 用于数据驱动安全调查的免费开源网络遥测引擎.
-- [Wireshark](https://www.wireshark.org) - 免费和开源的数据包分析器，可用于网络故障排除或取证网络流分析.
+- [Wireshark](https://www.wireshark.org) - 免费和开源的数据包分析器，可用于网络故障排除或取证网络流量分析.
 - [Zeek](https://zeek.org/) - 专注于安全监控的强大网络分析框架，原名Bro.
-- [netsniff-ng](http://netsniff-ng.org/) - 免费且快速的 GNU/Linux 网络工具包，具有许多实用程序，例如连接跟踪工具 (`flowtop`)、流量生成器 (`trafgen`) 和自治系统 (AS) 跟踪路由实用程序 (`astraceroute`).
+- [netsniff-ng](http://netsniff-ng.org/) - 免费且快速的 GNU/Linux 网络工具包，包含许多实用程序，例如连接跟踪工具 (`flowtop`)、流量生成器 (`trafgen`) 和自治系统 (AS) 跟踪路由实用程序 (`astraceroute`).
 
 ### Security Information and Event Management (SIEM)
 
@@ -306,9 +310,9 @@
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 基于 CIM/WMI 的工具套件，支持跨所有 Windows 版本的远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell 模块，用于通过 Windows 事件日志进行狩猎组队.
 - [GRR Rapid Response](https://github.com/google/grr) - 事件响应框架专注于远程实时取证，由安装在资产上的 Python 代理和基于 Python 的服务器基础设施组成，使分析师能够快速对攻击进行分类并远程执行分析.
-- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - 基于 Elasticsearch、Logstash、Kafka 和 Kibana 的多合一免费软件威胁狩猎堆栈，具有各种内置分析集成，包括 Jupyter Notebook.
+- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - 基于 Elasticsearch、Logstash、Kafka 和 Kibana 的多合一免费软件威胁追踪堆栈，具有包括 Jupyter Notebook 在内的各种内置分析集成.
 - [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理过程并促进事件处理者的实时活动.
-- [PSHunt](https://github.com/Infocyte/PSHunt) - PowerShell 模块旨在扫描远程端点以查找入侵指标或调查它们以获取与这些系统状态相关的更全面信息.
+- [PSHunt](https://github.com/Infocyte/PSHunt) - PowerShell 模块旨在扫描远程端点以获取入侵指标或调查它们以获取与这些系统状态相关的更全面信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) - 类似于 PSHunt 的工具，用于分析远程 Windows 系统，该工具还可以生成关于其发现的独立 HTML 报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 一个基于 PowerShell 的平台，用于执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) - 用于同时对多个端点上的可疑 IOC 进行分类并与防病毒控制台集成的多平台工具.
@@ -318,10 +322,10 @@
 
 也可以看看 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
-- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  - 可视化并绘制 Active Directory 权限配置（“控制关系”）以审核诸如“谁可以阅读 CEO 的电子邮件？”等问题. 和类似的.
+- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  - 可视化和图形化 Active Directory 权限配置（“控制关系”）以审核诸如“谁可以阅读 CEO 的电子邮件？”等问题. 和类似的.
 - [AttackerKB](https://attackerkb.com/) - 免费和公共的众包漏洞评估平台，帮助优先考虑高风险补丁应用程序和对抗漏洞疲劳.
 - [DATA](https://github.com/hadojae/DATA) - 凭证网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼 URL 或触发观察到的包含此类 URL 的网络流量.
-- [Forager](https://github.com/opensourcesec/Forager) - 使用 Python3 构建的多线程威胁情报收集，具有简单的基于文本的配置和数据存储，易于使用和数据可移植.
+- [Forager](https://github.com/opensourcesec/Forager) - 使用 Python3 构建的多线程威胁情报收集具有简单的基于文本的配置和数据存储，以便于使用和数据可移植性.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过被动映射、说明和报告您的 ICS/SCADA 网络拓扑和端点，提供工业控制系统 (ICS) 和监督控制和数据采集 (SCADA) 的 IP 网络态势感知.
 - [MLSec Combine](https://github.com/mlsecproject/combine) - 将多个威胁情报源收集并组合成一种可自定义的、基于 CSV 的标准化格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集、存储、分发和共享网络安全指标的开源软件解决方案.
@@ -336,7 +340,7 @@
 ### Threat signature packages and collections
 
 - [ESET's Malware IoCs](https://github.com/eset/malware-ioc) - 从 ESET 的各种调查中得出的妥协指标 (IOC).
-- [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - 用于检测使用 FireEye 自己的 Red Team 工具进行的攻击的 Snort 和 YARA 规则集合，在 FireEye 于 2020 年 12 月披露违规行为后首次发布.
+- [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - 用于检测使用 FireEye 自己的 Red Team 工具进行的攻击的 Snort 和 YARA 规则集合，该规则在 FireEye 于 2020 年 12 月披露违规行为后首次发布.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) - 各种语言的 IoC 集合，用于检测后门 SolarWinds Orion NMS 活动和相关漏洞.
 - [YARA Rules](https://github.com/Yara-Rules/rules) - 项目涵盖了 IT 安全研究人员拥有一个单一存储库的需求，其中不同的 Yara 签名被编译、分类并尽可能保持最新.
 
@@ -372,10 +376,10 @@
 也可以看看 [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - 禁用许多有风险的 Windows 功能的实用程序.
-- [NotRuler](https://github.com/sensepost/notruler) - 检测客户端使用的客户端规则和启用 VBScript 的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏 Microsoft Exchange 服务器时的攻击工具.
+- [NotRuler](https://github.com/sensepost/notruler) - 检测客户端使用的规则和启用 VBScript 的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏 Microsoft Exchange 服务器时的攻击工具.
 - [PlumHound](https://github.com/PlumHound/PlumHound) - 通过利用其寻路引擎识别 Active Directory 安全漏洞，在持续的安全生命周期中更有效地使用 BloodHoundAD.
 - [Sandboxie](https://www.sandboxie.com/) - 免费和开源的通用 Windows 应用程序沙箱实用程序.
-- [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 对照 Microsoft 审核 Windows 主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
+- [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 根据 Microsoft 的审核 Windows 主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - 从主机名列表建立 Windows RDP 会话并扫描辅助工具后门，如果发现后门，则发出警报.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - 组策略对象、合规性检查和配置工具，为安全部署和维护最新版本的 Windows 10 提供自动化和灵活的方法.
 - [WMI Monitor](https://github.com/realparisi/WMI_Monitor) - 将新创建的 WMI 使用者和进程记录到 Windows 应用程序事件日志中.
