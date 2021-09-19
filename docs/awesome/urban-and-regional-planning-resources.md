@@ -131,7 +131,7 @@
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道级图像和 AI 衍生的地图数据. 通过请求新的覆盖范围或使用易于使用的移动应用程序捕获您自己的覆盖范围来填补空白.
-- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式将基础设施资产数字化. 
+- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 
 ### Land Use
 
@@ -141,7 +141,7 @@
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由 First Street Foundation 提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -156,7 +156,7 @@
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
-- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用和模式.
+- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
 
 ## Planning Data Specifications
@@ -223,6 +223,10 @@ R 包和相关资源.
 - [Turf.js](https://turfjs.org/)  - 浏览器和 Node.js 的高级地理空间分析. 附加信息： [GitHub](https://github.com/Turfjs/turf).
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
+### Learning to Code
+供规划人员学习编码和城市信息学的资源.
+- [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python)  - Planetizen 课程通过 10 个视频课程教授 Python 基础知识，并规划应用程序. 需要每月订阅. 
+
 ## Platforms and Software Resources
 计划人员的软件和平台.
 
@@ -232,7 +236,7 @@ R 包和相关资源.
 
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (Esri) 维护的地图和地理信息.
-- [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
+- [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更有效的交付路线、更好的行为营销、战略性商店布局等等.
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一种数据不可知、WebGL 授权的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
@@ -306,7 +310,7 @@ R 包和相关资源.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型移动工具和数据资源的集合.
 - [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - 一份精心策划的开放技术项目清单，以维持稳定的气候、能源供应和重要的自然资源.
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS 是地理空间相关资源的集合，包括制图工具、地理分析工具、开发工具、数据、会议和社区、新闻、大规模开放在线课程、一些令人惊叹的地图站点等.
-- [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - 用于农业、耕作和园艺的开源技术.
+- [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，以改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于进行研究、开发 Web 和移动应用程序、设计数据可视化等.

@@ -69,6 +69,9 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - Deno 中的 React 框架，灵感来自 [Next.js](https://nextjs.org).
 
+### Image
+- [ImageScript](https://github.com/matmen/ImageScript) - JavaScript 中的图像处理，利用 WebAssembly 来提高性能.
+
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - 适用于任何地方的 JavaScript 的有用日志记录实用程序.
 
@@ -95,7 +98,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 ### Testing
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - deno 的彩色 assertEqual.
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - 提供高级 API 以通过 DevTools 协议控制 Chromium 或 Chrome 的库.
-- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试这样的笑话的助手.
+- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试一样的笑话的助手.
 - [merlin](https://github.com/crewdevio/merlin) - deno 的测试和基准测试框架 ‍♂️
 - [pretty_benching](https://github.com/littletof/prettyBenching) - 一个小型库，可让您的 Deno 基准测试进度和结果看起来很漂亮.
 - [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
@@ -186,7 +189,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - 用于与 YouTube 进行任何交互的 YouTube 数据 API 的 Deno 客户端库.
 
 ### Webview
-- [webview](https://github.com/eliassjogreen/deno_webview) - Webview 的 Deno 绑定，一个用于创建基于 Web 的桌面 GUI 的小库.
+- [webview](https://github.com/eliassjogreen/deno_webview) - webview 的 Deno 绑定，一个用于创建基于 web 的桌面 GUI 的小库.
 
 ### XML
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - 从 segmentio/xml-parser 移植的 Deno XML 解析器.
@@ -223,14 +226,14 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [denoversion](https://github.com/lucascaro/denoversion) - Deno 的 SemVer 和 git 版本管理.
 - [denox](https://github.com/BentoumiTech/denox) - 类似于packages.json 脚本，但用于具有权限支持的Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - 用于安装和运行 Deno 的跨平台 Makefile.
-- maxmcd's [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
+- maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
 - 海德 [deno-docker](https://github.com/hayd/deno-docker) 几个泊坞窗图像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展来利用内置于 vscode 中的 typedef 和智能感知.
 - [dev_server](https://github.com/zhmushan/dev_server) - 让 TypeScript 文件直接在 script 标签中使用.
 - [dmm](https://github.com/drashland/dmm) - 轻量级 Deno 模块管理器
 - [dpm](https://github.com/BoltDoggy/deno#dpm)  - Deno 包管理器，为 deno 安装全局命令. 像 denoget.
 - dvm
-  - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno 版本管理器：管理多个活动的 Deno 版本.
+  - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno Version Manager: manage multiple active Deno versions.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - 没有运行时依赖的 Deno 版本管理器.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd)  - 适用于 Windows 的 Deno 版本管理器. 编写为单个批处理文件.
   - [ghosind/dvm](https://github.com/ghosind/dvm) - 适用于 Linux/MacOS 的轻量级 Deno 版本管理器.

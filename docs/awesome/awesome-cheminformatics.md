@@ -56,7 +56,7 @@
 <a id="lib-format"></a>
 ### Format Checking
 
-* [ChEMBL_Structure_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - 旨在提供标准化分子的简单方法的工具，作为分子建模练习的前奏.
+* [ChEMBL_Structure_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - 旨在提供一种简单的分子标准化方法的工具，作为分子建模练习的前奏.
 * [MolVS](https://github.com/mcs07/MolVS) - 分子验证和标准化基于 [RDKit](http://www.rdkit.org/).
 * [rd_filters](https://github.com/PatWalters/rd_filters) - 使用 RDKit 和 ChEMBL 运行结构警报的脚本
 
@@ -64,7 +64,7 @@
 ### Visualization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - 前端 JavaScript 库，用于提供在 Web 浏览器上表示、绘制、编辑、比较和搜索分子结构的能力.
-* [3Dmol.js](https://github.com/3dmol/3Dmol.js) - 一个面向对象的、基于 webGL 的 JavaScript 库，用于在线分子可视化.
+* [3Dmol.js](https://github.com/3dmol/3Dmol.js) - 一个面向对象、基于 webGL 的 JavaScript 库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - 基于化学二维结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - 使用 PySide 的简单 RDKit 分子编辑器 GUI.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Jupyter 笔记本的交互式分子图形.
@@ -103,7 +103,7 @@
 <a id="lib-db"></a>
 ### Databases
 
-* [razi](https://github.com/rvianello/razi) - SQLAlchemy 数据库的化学信息扩展.
+* [razi](https://github.com/rvianello/razi) - SQLAlchemy 数据库的化学信息学扩展.
 
 <a id="lib-dock"></a>
 ### Docking
@@ -138,7 +138,7 @@
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - 使用开源包和数据的计算机辅助药物设计 (CADD) 教学平台.
 * [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - 罗伯特·贝尔福德 (Robert Belford) 的阿肯色大学小石城大学合作校际在线化学课程 (OLCC) 课程的化学信息学课程
-* [BigChem](http://bigchem.eu/alllectures) - 所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID 项目，提供大型化学数据分析方面的创新教育.）
+* [BigChem](http://bigchem.eu/alllectures) - 所有讲座 [BigChem](http://bigchem.eu/) （地平线 2020 MSC ITN EID 项目，提供大型化学数据分析方面的创新教育.）
 * [Molecular modeling course](https://dasher.wustl.edu/chem478/) - 由博士 [Jay Ponder](https://dasher.wustl.edu/)，来自华盛顿大学圣路易斯分校的教授.
 * [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - 由博士 [Jay Ponder](https://dasher.wustl.edu/)，来自华盛顿大学圣路易斯分校的教授.
 
@@ -163,6 +163,7 @@
 * [Is life worth living?](https://iwatobipen.wordpress.com/) - 化学信息学图书馆的一些例子.
 * [Cheminformatics 2.0](https://cheminf20.org/) - 博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，协作药物发现的研究科学家.
 * [Depth-First](https://depth-first.com/) - 博客 [Richard L. Apodaca](https://depth-first.com/about/)，住在加利福尼亚州拉霍亚的化学家.
+* [Cheminformania](https://www.cheminformania.com) - 博客 [Ph.D, Esben Jannik Bjerrum](https://www.cheminformania.com/about/esben-jannik-bjerrum/)，他是阿斯利康的原理科学家和机器学习和人工智能专家.
 
 ### Books
 
