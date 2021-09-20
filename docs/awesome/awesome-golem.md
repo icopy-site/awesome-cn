@@ -83,6 +83,7 @@
 
 ### Machine Learning
 - [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - 分散式机器学习使用联邦学习来组合子步骤模型，它在不同的提供者节点上训练成一个完整的模型.
+- [Golem Image Classifier](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - 通过主动服务训练和分类图像.
 
 ### Deep Learning
 - [Mlg](https://github.com/rezahsnz/mlg) - CNN 预测服务，这是一种深度学习应用程序，可分发使用 ImageNet 数据集进行预训练的流行 CNN.
@@ -174,6 +175,7 @@
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - 在 Golem 社区的帮助下进步更快.
 - [Golem GitHub Digest #14](https://blog.golemproject.net/golem-github-digest-14/) - 面向下一个主要版本.
 - [Golem GitHub Digest #15](https://blog.golemproject.net/golem-github-digest-15/) - 很棒的哥特式改进和 Beta 3.
+- [Golem GitHub Digest #16](https://blog.golemproject.net/golem-github-digest-16/) - VPN、请求者的 ARM 二进制文件和自定义使用计数器.
 
 
 ## Community

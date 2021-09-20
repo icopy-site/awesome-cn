@@ -35,7 +35,7 @@
 * [Blockchain Insider](https://bi.11fs.com/) - 每周播客专攻区块链、分类帐技术和加密货币.
 * [Boagworld Show](https://boagworld.com/show)  - Boagworld 是一个关于数字战略、管理和用户体验的播客. 它提供实用的建议、新闻、工具、评论和对网页设计社区领先人物的采访.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - 面向开发人员的读书俱乐部播客.
-* [Bootstrapped](http://bootstrapped.fm/)  - Ian 和 Andrey 都是经验丰富的创业公司创始人，在他们的职业生涯中都有过重大的打击和成功. 听他们的课可以学到很多东西.
+* [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experienced startup founders, both have had major blows and successes in their career. You can learn a lot listening to them.
 * [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web 是为创业者准备的，他们相信到达目的地的最佳方式是边做边学.
 * [Breach](https://www.carbonite.com/podcasts/breach/) - Carbonite 探索数据泄露和网络安全的播客.
 * [BSDNow](http://www.bsdnow.tv/) - 每周 BSD 播客 - 新闻、采访和教程.
@@ -84,7 +84,6 @@
 * [GitMinutes](http://www.gitminutes.com/) - 精通 Git 用户的节目.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/)  - Google Cloud Platform 播客，每周都会为您带来. 讨论从 Google Cloud Platform 上的所有内容，从 App Engine 到 Big Query.
 * [Go Time](https://changelog.com/gotime) - 围绕 Go 编程语言、构建系统、社区以及介于两者之间的一切的有趣话题.
-* [Hackable?](https://hackablepodcast.com)  - 在一个我们痴迷于保持联系的世界中，我们如何确保我们不会让自己变得脆弱. 主持人 **Geoff Siskind** 在每一集中都现场演示了一些很棒的黑客技术.
 * [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday 的播客，谈论已发表的最佳文章和 hackaday 竞赛.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - 在“铁杆历史”中，非常规的丹卡林将他的“火星人”、开箱即用的思维方式应用于过去.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
@@ -102,7 +101,7 @@
 * [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  - Facebook. 苹果. 亚马逊. 网飞. 谷歌. 这个播客研究了它是如何获得力量的，它用它做什么，以及未来可能会发生什么.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - Laravel 新闻播客为您带来所有与 Laravel 相关的最新新闻和事件.
 * [Linear Digressions](http://lineardigressions.com/) - 通过真实世界的故事和示例，以一种易于理解的方式探索数据科学和机器学习的主题.
-* [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - Weekly news about Linux and the open source world.
+* [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - 关于 Linux 和开源世界的每周新闻.
 * [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  - 关于桌面 Linux、开源软件和创建它的社区的激动人心的世界的节目. 初学者和老手都一样！ 由福布斯的 Jason Evangelho 和他的朋友们主持.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - 每周 Linux 直播和公开脱口秀
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/)  - Jeff Barr 讨论了 Amazon Web Services (AWS) 产品的各个方面. 每个播客都包含 AWS 新闻、技术提示以及对初创公司、AWS 合作伙伴和 AWS 员工的采访.
@@ -112,7 +111,7 @@
 * [Mind the Cloud Podcast](http://mindthecloud.com) - 关于使用云创造未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)  - 面向 Microsoft 开发人员的播客.  Jason Young 和 Carl Schweitzer 谈论最新的开发人员新闻，涵盖 Azure 云、Windows、Windows Phone、Visual Studio 和使用 Microsoft 平台的跨平台开发等主题.
 * [New Rustacean](https://newrustacean.com/) - 这是一个关于从头开始学习 Rust 编程语言的播客.
-* [Note To Self](https://www.wnycstudios.org/shows/notetoself) - 主持人 Manoush Zomorodi 与从知名技术人员到小学教师的所有人讨论技术对我们生活的影响，寻求能够帮助您更好地思考和生活的明智选择.
+* [Note To Self](https://www.wnycstudios.org/shows/notetoself) - 主持人 Manoush Zomorodi 与从知名技术人员到小学教师的所有人谈论技术对我们生活的影响，寻求能够帮助您更好地思考和生活的明智选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - 唯一一个专注于 Office 365 开发的节目，我们与来自全球各地的专家在 Office 365 平台上进行编码交流.
 * [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - 来自硬件/软件界面的故事：“地球上最书呆子的播客”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - 针对那些希望更好地了解当今安全主题的人的安全播客.
@@ -126,7 +125,6 @@
 * [Practical AI](https://changelog.com/practicalai) – 让人工智能变得实用、高效且人人可用.
 * [Python Bytes](https://pythonbytes.fm/) - Python 头条新闻直接传送到您的耳塞.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab)  - Radiolab 是一个关于好奇心的节目. 声音照亮思想，科学、哲学和人类经验之间的界限变得模糊.
-* [Reactive](http://reactive.audio/) - 合并、过滤、扫描和映射有关软件工程、文化和技术的思想流的播客.
 * [React Podcast](https://reactpodcast.com/) - 关于 React.js 的播客
 * [Reasonably Sound](http://reasonablysound.com/) - 背景、解释和对音频的复杂性和惊人性的一点庆祝，以及围绕它并围绕它发展的各种文化.
 * [Reply All](https://www.gimletmedia.com/reply-all) - Reply All 是一个关于互联网的节目.
@@ -162,11 +160,10 @@
 * [Test and Code Podcast](https://testandcode.com/) - 关于软件开发、软件测试和 Python 的播客.
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - 关于软件测试实践的英国播客
 * [That Podcast](https://thatpodcast.io/) - Beau 和 Dave 谈论作为父亲、程序员和企业家的生活.
-* [The Accidental Engineer](https://theaccidentalengineer.com/) - 采访工程师，了解他们如何开始他们的职业生涯
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee 汇集了一群热衷于敏捷方法和精益实践的从业者.
 * [The Amp Hour](https://theamphour.com/) - 在每周一小时的节目中讨论电子设计世界.
 * [The Back to Front Show](https://backtofrontshow.com/)  - Back to Front 秀于 2013 年由网络行业资深人士 Keir Whitaker 和 Kieran Masterton 发起. 在前 40 集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有内容.
-* [The Big Web Show](http://5by5.tv/bigwebshow) - 网络上的一切都很重要.
+* [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed，主持人 Derek Prior、Sean Griffin、Laila Winner 和嘉宾讨论了他们在 Ruby、Rails、JavaScript 以及本周引起他们注意、钦佩或愤怒的任何其他方面的开发经验和挑战.
 * [The Bug Bounty Podcast](https://anchor.fm/bugbountypodcast)  - 关于漏洞、赏金及其研究人员的播客. 费舍尔主持.
 * [The Changelog](https://changelog.com/podcast) - 与黑客、领导者和软件开发创新者的对话.
@@ -213,7 +210,7 @@
 * [DevDrops](https://anchor.fm/devdrops) - 您的软件开发播客.
 * [DataHackers](https://datahackers.com.br/podcast) - 每月播客，让数据科学专业人士谈论就业市场、职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) - 带有幽默感的每周网络开发播客.
-* [Elemencast](https://elemencast.github.io) - 提案是为听众带来关于前端领域、NodeJ、函数式编程等的不同内容.
+* [Elemencast](https://elemencast.github.io) - 提案是为听众带来有关前端领域、NodeJ、函数式编程等的不同内容.
 * [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw)  - The Impossible Theatre Encyclopedia 是巴西戏剧的平行历史，因其失败而备受瞩目. 它们是对不可能的戏剧作品的部分虚构和部分现实的描述.
 * [FalaDev](https://anchor.fm/faladev) - 我大部分时间都在写代码，是时候聚在一起讨论编程世界了.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - 四位老师，非常书呆子，有趣并且有很多故事要讲.
@@ -237,7 +234,7 @@
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - 摄制组与 rapadura 的播客，今天被认为是巴西流行文化的参考.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - 针对技术、科学、历史等各种主题的极客观众的播客.
 * [Reloading](http://reloading.com.br/) - 每周播客，带来来自电子游戏世界的最重要的新闻、事件和琐事.
-* [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个针对 Salesforce 世界的葡萄牙语播客，在这里我们讨论开发、平台管理、Salesforce 产品和职业等主题.
+* [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个针对 Salesforce 世界的葡萄牙语播客，在这里我们讨论了开发、平台管理、Salesforce 产品以及职业等主题.
 * [Start Coding](https://anchor.fm/start-coding)  - Start Coding 是一项在线计划，其目标是让女性参与技术. 该播客以该领域的计算和性别平等为主题.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) - 来自 Tecnoblog 的关于技术的播客.
 * [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - 政治、历史和时事.
@@ -258,7 +255,7 @@
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) - 关于软件开发人员生活的谈话、采访和经历的播客.
 * [Nación Lumpen](https://www.nacionlumpen.com/) - 类似于“已经足够剁了”.
 * [Python en español](https://podcast.jcea.es/python/) - 用您的语言编写的 Python
-* [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
+* [WeDevelopers](http://wedevelopers.com/) - 开发者播客（一些英语剧集/一些英语播客）.
 * [Atareao Podcast](https://www.atareao.es/podcasts) - Podcast sobre Linux、Ubuntu、Android y 开源.
 * [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - 创客世界、免费软件和硬件、项目、活动和由 Bricolabs 协会组织的活动.
 * [Compilando Podcast](https://compilando.audio) - 关于 GNU/Linux 和自由软件的采访和新闻.
@@ -301,9 +298,9 @@
 * [UnderJS Podcast](https://underjs.ru/) - 关于 JS、React Native、Nodejs 的播客.
 * [linkmeup](https://linkmeup.ru/) - 关于网络、电信和其他 IT 的播客.
 * [RadioDotNet](https://radio.dotnet.ru) - 关于 .NET 相关所有内容的播客：新闻、文章、图书馆、事件.
-* [DotNet & More](https://more.dotnet.ru)  - 关于 .NET 开发等的播客. 由主办 [Aleks和r Kugushev](https://github.com/kugushev) 和 [Artem Akulyakov](https://github.com/oxffaa).
+* [DotNet & More](https://more.dotnet.ru)  - 关于 .NET 开发等的播客. 由主办 [Aleksandr Kugushev](https://github.com/kugushev) and [Artem Akulyakov](https://github.com/oxffaa).
 * [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Podcast about software development (programming). Discussed topics are C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA and much more. Hosted by [Dmitri Nesteruk](https://github.com/nesteruk).
-* [Svoj Podcast](https://anchor.fm/svojpodcast)  - 关于编程、IT 和技术方面的最新消息的播客. 由主办 [Yurii Sydorets](https://github.com/YuraSidorets) 和 [Alex Poddiachyi](https://github.com/Poddiachyi)
+* [Svoj Podcast](https://anchor.fm/svojpodcast)  - 关于编程、IT 和技术方面的最新消息的播客. 由主办 [Yurii Sydorets](https://github.com/YuraSidorets) and [Alex Poddiachyi](https://github.com/Poddiachyi)
 
 ## In Persian
 
@@ -338,7 +335,7 @@
 
 ## In Chinese
 
-* [Teahour](http://teahour.fm/) - 一个播客主持 [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) 和 [Daniel Lv](https://github.com/lgn21st), 大多数主题是关于软件开发、初创公司等.
+* [Teahour](http://teahour.fm/) - 一个播客主持 [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), 大多数主题是关于软件开发、初创公司等.
 
 ## In Polish
 
@@ -348,7 +345,7 @@
 
 ## In Turkish
 
-* [devPod](https://devpod.org/) - 土耳其播客谈论现代软件技术、编程语言、会议、Linux、Unix、iOS、MacOS、Python、Ruby、Git 等. [Uğur Özyılmazel(Vigo)](https://github.com/vigo) 和 [Üstün Özgür](https://github.com/ustun).
+* [devPod](https://devpod.org/) - 土耳其播客谈论现代软件技术、编程语言、会议、Linux、Unix、iOS、MacOS、Python、Ruby、Git 等. [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
 ## In Finnish
 
@@ -360,7 +357,7 @@
 * [Rebuild](http://rebuild.fm/)  - 宫川达彦的播客. 谈论技术、软件开发和小工具.
 
 ## In Bahasa Indonesia
-* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -Cerita Developer inspiratif tentang bagaimana mereka memulai menjadi developer.
+* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  - 鼓舞人心的开发人员故事，讲述他们如何开始成为一名开发人员.
 * [Teh atau Kopi](https://tehataukopi.club/) - 在校外学习
 * [Developer Muslim](https://devmuslim.id/) - 穆斯林开发者的日志
 * [Teman Macet](http://temanmacet.com/) - 关于编程和信息学行业.
@@ -375,7 +372,6 @@
 
 ## In Arabic
 * [Ask Developer](http://www.askdeveloper.com/) - 埃及阿拉伯方言在线音频播客讨论了埃及和中东的技术和软件开发前景.
-* [Null++](https://nullplus.plus)  - 由开罗 Facebook Developers Circle 联合领导提供支持的埃及阿拉伯语播客. 该播客旨在为 MENA 的软件专业人员提供有价值的技术信息，并帮助他们提升自己的职业生涯.
 * [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - 关于技术及其先驱.
 * [Essam Cafe](https://essamcafe.com/) - 每周与人们的剧集，可能我们同意或不同意他们，重要的是要从 Twitter 提名中随机主题的一些小每周剧集中学习和受益.
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) 埃及阿拉伯语播客讨论技术新闻.

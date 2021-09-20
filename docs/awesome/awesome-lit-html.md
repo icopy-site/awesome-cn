@@ -2,184 +2,156 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Lit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;精选的很棒的Lit资源列表.
+&gt; 精选的精彩 Lit 资源列表.
 
-[Lit](https://github.com/Polymer/lit-html) —一个简单的库，用于构建快速，轻量级的Web组件.
+[Lit](https://github.com/lit/lit) — 一个用于构建快速、轻量级 Web 组件的简单库.
 
-它的核心是样板杀手组件基类，它提供了反应状态，作用域样式和声明性模板系统，这些模板系统在大小，速度和表现力方面都领先于包装.
+它的核心是一个样板杀死组件基类，它提供反应状态、作用域样式和一个在大小、速度和表现力方面领先的声明性模板系统.
 
 
 
 ## General resources
 
-- [Documentation](https://lit-html.polymer-project.org/guide)
-- [GitHub repository](https://github.com/Polymer/lit-html)
+- [Documentation](https://lit.dev/docs/)
+- [Tutorial](https://lit.dev/tutorial/)
+- [Playground](https://lit.dev/playground/)
+- [Blog](https://lit.dev/blog/)
 
 ## Community
 
-- [lit-html Twitter](https://twitter.com/lit_html)
-- [Slack Channel](https://www.polymer-project.org/slack-invite)
+- [GitHub](https://github.com/lit/lit)
+- [GitHub Discussions](https://github.com/lit/lit/discussions)
+- [Twitter](https://twitter.com/buildWithLit)
+- [Slack](https://lit.dev/slack-invite/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 
 ## Overview
 
 - [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 
-## Implementations
+## Starter Templates
 
-按创建日期排序（从最旧的开始）.
+- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用带有 JavaScript 的 LitElement 的示例组件.
+- [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - 使用 LitElement 和 TypeScript 的示例组件.
+- [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 使用 Lit 用 TypeScript 编写的简单入门 Web 组件.
+- [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - 基于 Open Web Components Recommendations 的入门应用程序.
+- [pwa-starter](https://github.com/pwa-builder/pwa-starter) - PWABuilder pwa-starter 的 LitElement 版本.
+- [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - 按照现代 Web 标准构建渐进式 Web 应用程序.
 
-- [lit-element](https://www.npmjs.com/package/lit-element) -用于创建快速，轻量级Web组件的简单基类.
-- [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) -用于构建Web组件和应用程序的轻量级库.
-- [@lit-any/core](https://github.com/hypermedia-app/lit-any-core) -Partials库，它使用lit-html从较小的模板组成视图和表单.
-- [lit-html-element](https://www.npmjs.com/package/lit-html-element) -使用lit-html创建Web组件的基类.
-- [fit-html](https://www.npmjs.com/package/fit-html) -lit-html，Web组件和Redux的组合.
-- [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) -一个lit-html扩展名，使用类似于Angular模板语法的括号语法.
-- [@littleq/element-lite](https://www.npmjs.com/package/@littleq/element-lite) -尝试使用lit-html和Polymer的属性mixin.
-- [@popeindustries/lit-html-server](https://www.npmjs.com/package/@popeindustries/lit-html-server) -将Node.js流上的lit-html模板呈现在服务器上.
-- [ullr](https://github.com/aggre/ullr) -使用lit-html通过功能编程构建Web组件.
-- [ce-decorators](https://www.npmjs.com/package/ce-decorators) -用于基于装饰器提案和lit-html构建Web组件的TypeScript库.
-- [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) -轻量级的i18n库，提供lit-html指令.
-- [haunted](https://www.npmjs.com/package/haunted) -React的Hooks API，但适用于标准Web组件和hyperHTML或lit-html.
-- [fuco](https://www.npmjs.com/package/fuco) -功能组件，如React，但用于Web组件.
-- [lit-up](https://github.com/klaudhaus/lit-up) -具有lit-html模板的反应式Web应用程序的最小但可扩展的状态模式
-- [lit-app](https://github.com/klaudhaus/lit-app) -用于前端应用程序，服务器端呈现和静态站点的基于同构lit-html的上下文
-- [perlite](https://github.com/PaulMaly/perlite) -一种声明性的方式，可以创建专门针对服务器端应用程序设计的富客户端小部件.
+## Codelabs
 
-### Renderers
+- [Build a Brick Viewer with lit-element](https://codelabs.developers.google.com/codelabs/lit-brick-viewer#0)
+- [Build a Story Component with lit-element](https://codelabs.developers.google.com/codelabs/lit-story-viewer#0)
+- [From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path#0)
+- [lit-html & lit-element: basics](https://open-wc.org/codelabs/basics/lit-html.html#0)
+- [lit-html & lit-element: intermediate](https://open-wc.org/codelabs/intermediate/lit-html.html#0)
+- [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs#0)
 
-以下库允许将lit-html用作渲染器，同时还提供其他替代方法，例如 [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
+## Tutorials
 
-- [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) -基于lit-html的渲染器 [Corpuscule](https://github.com/corpusculejs/corpuscule).
-- [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) -基于lit-html的渲染器 [Helicopter](https://github.com/briancavalier/helikopter).
-- [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) -基于lit-html的渲染器 [Molecule](https://github.com/Molecule-JS/MoleculeJS).
-- [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) -基于lit-html的渲染器 [SkateJS](https://github.com/skatejs/skatejs).
-- [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) -基于lit-html的渲染器 [icomponent](https://github.com/prasannavl/icomponent).
+- [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
+- [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
+- [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
+- [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
+- [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table/)
+- [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
+- [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
+- [Lit and Figma](https://rodydavis.com/posts/figma-and-lit/)
+- [Lit and Flutter](https://rodydavis.com/posts/flutter-and-lit/)
+- [Lit and Monaco Editor](https://rodydavis.com/posts/lit-monaco-editor/)
+- [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
+- [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
+- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
+- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element)
+- [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
+- [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 
-### LitElement Extensions
+### Extensions
 
-这些不是lit-html本身的实现，而是官方LitElement基类的社区扩展.
-
-- [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) -将mobx与LitElement一起使用的Mixin和基类.
-- [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) -LitElement与Apollo GraphQL的集成.
-- [@collaborne/lit-flexbox-literals](https://www.npmjs.com/package/@collaborne/lit-flexbox-literals) -提供LitElement CSS文字和从移植的类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
-- [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -用于LitElement的小型mixin，可通过属性getter获得轻松的更改事件.
-- [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -LitElement扩展，提供开箱即用的轻松10n.
-- [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
-- [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
-- [lit-element-state](https://www.npmjs.com/package/lit-element-state) -LitElement的简单共享应用程序状态管理.
-- [nextbone](https://www.npmjs.com/package/nextbone) -通过ES类和装饰器重新构想了与LitElement一起使用的主干网.
-- [wc-context](https://www.npmjs.com/package/wc-context) -具有LitElement集成的Web组件的上下文实现.
-- [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) -用于在LitElement组件外部进行状态处理的实用程序.
-
-### Other
-
-- [@feature-hub/dom](https://www.npmjs.com/package/@feature-hub/dom) -建立图书馆 [Feature Hub](https://github.com/sinnerschrader/feature-hub) Web组件的集成商.
+- [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) - 使用带有 Lit 的 mobx 的 Mixin 和基类.
+- [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement 与 Apollo GraphQL 的集成.
+- [pure-lit](https://github.com/MatthiasKainer/pure-lit) - 将您的 Lit 元素注册为纯函数.
+- [lit-element-effect](https://www.npmjs.com/package/lit-element-effect) - LitElement 的效果挂钩.
+- [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) - 用于 LitElement 组件外部状态处理的实用程序.
+- [ullr](https://github.com/aggre/ullr) - 使用 Lit 通过函数式编程构建 Web 组件.
 
 ## Components
 
 ### Component Libraries
 
-- [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
-- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用LitElement构建的AXA CH UI组件库.
-- [Belle UI](https://github.com/belleui/belleui) -基于LitElement的高质量UI库.
-- [Blackstone UI](https://github.com/kjantzer/bui) -用于创建使用lit-html和LitElement构建的界面的Web组件.
-- [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
-- [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
-- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统的与框架无关的元素的收集.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
-- [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件的集合.
-- [Iooxa](https://github.com/iooxa/article) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
-- [Kor](https://github.com/eduferfer/kor) -基于LitElement的用户界面组件库.
-- [Lion](https://github.com/ing-bank/lion) -高性能，可访问且灵活的Web组件.
-- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
-- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
-- [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
-- [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) -一种用于通过Web组件对结果进行突变测试的方案，以使其可视化.
-- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用LitElement构建的Adobe Spectrum设计语言实现.
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
-- [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) -用于创建使用Webview API的VSCode扩展的组件.
-- [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) -出现手绘元素的集合.
-- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) -用于Arduino和各种电子零件的Web组件.
+- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - 使用 LitElement 构建的 AXA CH UI 组件库.
+- [Belle UI](https://github.com/belleui/belleui) - 基于 LitElement 的高质量 UI 库.
+- [Blackstone UI](https://github.com/kjantzer/bui) - 用于创建使用 lit-html 和 LitElement 构建的界面的 Web 组件.
+- [Brightspace UI core](https://github.com/BrightspaceUI/core) - 用于构建 Brightspace 应用程序的 Web 组件集合.
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - 使用 Web 组件构建的碳设计系统的实验变体.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - 基于变色龙设计系统的与框架无关的元素的集合.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs 的 Web 组件.
+- [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
+- [Curvenote](https://github.com/curvenote/article) - 用于交互式科学写作、反应性文档和可探索性解释的 Web 组件.
+- [Kor](https://github.com/eduferfer/kor) - 基于 LitElement 的用户界面组件库.
+- [Lion](https://github.com/ing-bank/lion) - 高性能、可访问且灵活的 Web 组件.
+- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN 为任何项目生成 Web 组件.
+- [Material Web Components](https://github.com/material-components/material-web) - Material Design 实现为 Web 组件.
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Microsoft Graph 的 Web 组件集合.
+- [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - 使用 Web 组件进行突变测试结果的模式以对其进行可视化.
+- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - 使用 LitElement 构建的 Adob​​e Spectrum 设计语言实现.
+- [Web Components for TEI Publisher](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的 Web 组件及其生成的应用程序.
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 基于原生 API 的企业风味糖！
+- [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) - 用于创建使用 Webview API 的 VSCode 扩展的组件.
+- [Wired Elements](https://github.com/rough-stuff/wired-elements) - 出现手绘元素的集合.
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Arduino 和各种电子部件的 Web 组件.
 
 ### Individual Components
 
-- [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) -Web组件的API文档和在线游乐场.
-- [`<app-datepicker>`](https://github.com/motss/app-datepicker) -使用LitElement和Material Design 2构建的Datepicker元素.
-- [`<burgton-button>`](https://github.com/boguz/burgton-button) -简单易用，可自定义和可访问的汉堡按钮元素.
-- [`<code-block>`](https://github.com/justinribeiro/code-block) -使用Prism.js和LitElement显示彩色格式代码的Web组件.
-- [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) -单击时显示CodeSandbox演示的自定义元素.
-- [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
-- [`<erd-editor>`](https://github.com/vuerd/vuerd) -使用LitElement构建的ERD编辑器元素数据库建模工具
-- [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) -使用qr.js库生成和呈现QR代码的自定义元素.
-- [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) -由LitElement支持的数据表的Material Design实现.
-- [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) -用于轻松嵌入和播放Lottie动画的Web组件.
-- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) -用于渲染交互式3D模型的Web组件.
-- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) -用于查看OpenAPI 3.0和Swagger 2.0规范的Web组件.
-- [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) -利用Three.js显示STL模型文件的LitElement Web组件.
-
-## Starter Templates
-
-- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用程序.
-- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发您的下一个自定义元素.
-- [pwa-starter](https://github.com/pwa-builder/pwa-starter) -PWABuilder pwa-starter的LitElement版本.
-- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
+- [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - Web 组件的 API 文档和现场操场.
+- [`<app-datepicker>`](https://github.com/motss/app-datepicker) - 使用 LitElement 和 Material Design 2 构建的 Datepicker 元素.
+- [`<burgton-button>`](https://github.com/boguz/burgton-button) - 易于使用、可定制且易于访问的汉堡按钮元素.
+- [`<code-block>`](https://github.com/justinribeiro/code-block) - 使用 Prism.js 和 LitElement 显示彩色格式代码的 Web 组件.
+- [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - Custom Element that shows a CodeSandbox demo when you click on it.
+- [`<dile-modal>`](https://github.com/Polydile/dile-modal) - 基于 LitElement 实现模式框的 Web 组件.
+- [`<erd-editor>`](https://github.com/vuerd/vuerd) - 使用 LitElement 构建的 ERD Editor 元素数据库建模工具
+- [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - 使用 qr.js 库生成和呈现 QR 码的自定义元素.
+- [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - 数据表的 Material Design 实现，由 LitElement 提供支持.
+- [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - 用于轻松嵌入和播放 Lottie 动画的 Web 组件.
+- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - 用于渲染交互式 3D 模型的 Web 组件.
+- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - 用于查看 OpenAPI 3.0 和 Swagger 2.0 规范的 Web 组件.
+- [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement Web 组件，利用 Three.js 显示 STL 模型文件.
 
 ## IDE Plugins
 
-- [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) -用于lit-html模板字符串的语法突出显示和IntelliSense.
-- [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) -lit-html的语法高亮显示，类型检查和代码完成.
-- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) -VSCode扩展，可为ES6多行字符串中的HTML提供语法突出显示.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) -lit-html的语法突出显示和缩进.
-- [lit-web-components-vscode-extension-pack](https://github.com/justinribeiro/lit-web-components-vscode-extension-pack) -一组VS Code扩展，可用于开发LitElement Web组件.
+- [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - lit-html 模板字符串的语法高亮和智能感知.
+- [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - lit-html 的语法高亮、类型检查和代码完成.
+- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode 扩展，它为 ES6 多行字符串中的 HTML 提供语法高亮显示.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - lit-html 的语法高亮和缩进.
 
 ## TypeScript Plugins
 
-- [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin)  -为lit-html添加类型检查和代码完成的插件. 由`vscode-lit-plugin`使用.
-- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin)  -为lit-html添加IntelliSense的TypeScript服务器插件. 由`vscode-lit-html`使用.
+- [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin)  - 为 lit-html 添加类型检查和代码完成的插件. 由 `vscode-lit-plugin` 使用.
+- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin)  - 为 lit-html 添加 IntelliSense 的 TypeScript 服务器插件. 由 `vscode-lit-html` 使用.
 
 ## Tools
 
-- [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) -Babel插件，用于最小化带有标签的模板字符串中的HTML.
-- [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
-- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) -用于lit-html的可访问性linting插件
-- [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件可最小化带有标签的模板字符串中的HTML.
-- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) -汇总插件，可在LitElement和嵌入式装饰器中内联外部样式.
-- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，可将CSS文件作为LitElement标记的`css`模板字符串导入.
-- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
-- [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
-- [Nutmeg](https://github.com/abraham/nutmeg-cli) -CLI工具，用于构建，测试和发布香草Web组件，但需要一点点香料.
-- [open-wc](https://github.com/open-wc) -一组建议，可帮助您生成，测试，检查，演示和发布Web组件.
-- [web-components-codemods](https://github.com/kcmr/web-components-codemods) -与lit-html模板文字兼容的Web组件Codemod.
+- [babel-plugin-lit-property-types-from-ts](https://github.com/bschlenk/babel-plugin-lit-property-types-from-ts) - Babel 插件，用于根据 TypeScript 类型自动设置属性的 `type`.
+- [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - 用于缩小标记模板字符串中的 HTML 的 Babel 插件.
+- [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - 用于 lit-html 模板字符串的 ESLint 插件.
+- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - lit-html 的可访问性 linting 插件
+- [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - 该类型的 CLI 检查 lit-html 模板中的绑定.
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup 插件以缩小标记模板字符串中的 HTML.
+- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) - 在 LitElement 和 transpile 装饰器中内联外部样式的汇总插件.
+- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - 汇总插件将 CSS 文件导入为 LitElement 标记的 `css` 模板字符串.
+- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - 在 LitElement 组件中加载 PostCSS 处理的样式表的汇总插件.
+- [web-components-codemods](https://github.com/kcmr/web-components-codemods) - 与 lit-html 模板文字兼容的 Web 组件的 Codemods.
 
 ## CDN
 
-以下内容交付网络提供了lit-html和LitElement的ES模块版本：
+以下内容交付网络提供了 Lit 的 ES 模块版本：
 
-- [unpkg.com](https://unpkg.com/)
-  - [lit-html](https://unpkg.com/lit-html?module)
-  - [lit-element](https://unpkg.com/lit-element?module)
-- [Pika CDN](https://www.pika.dev/cdn)
-  - [lit-html](https://cdn.pika.dev/lit-html)
-  - [lit-element](https://cdn.pika.dev/lit-element)
+- [cdn.esm.sh](https://cdn.esm.sh/lit)
+- [JSPM CDN](https://jspm.dev/lit)
+- [Skypack CDN](https://cdn.skypack.dev/lit)
+- [unpkg.com](https://unpkg.com/lit?module)
 
-**使用CDN的注意事项**
-
-1. lit-html指令 [might not work](https://github.com/Polymer/lit-element/issues/603#issuecomment-501528498) 使用Pika CDN时使用LitElement.
-2.参见 [this issue](https://github.com/Polymer/lit-element/issues/603) 讨论了CDN分发的静态构建.
-
-## Static Site Generators
-
-- [Greenwood](https://github.com/ProjectEvergreen/greenwood) -现代化的高性能静态站点生成器，支持基于Web组件的开发.
-- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) -使用TypeScript构建的静态站点生成器，该模板使用受lit-html启发的模板.
-
-## Examples
-
-- [lit-demos](https://github.com/open-wc/lit-demos) -使用lit-html库和LitElement基类的示例.
-- [lit-html workshop](https://github.com/LarsDenBakker/lit-html-workshop)
+See [this issue](https://github.com/lit/lit-element/issues/603) 其中讨论了 CDN 分发的静态构建.
 
 ## Videos
 
@@ -192,30 +164,25 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
-- [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）担任客串的另一集.
+lit-html 创作者 Justin Fagnani 的一集.
+- [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - 贾斯汀·法格纳尼 (Justin Fagnani) 作为嘉宾的另一集.
 
-## Blogs
+## Archive
 
+以下文章参考了旧版本的 lit-html 和 LitElement.
+
+- [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
 - [A gentle introduction to lit-html](https://dev.to/julcasans/a-gentle-introduction-to-lit-html-3d74)
 - [lit-html templates from zero to hero](https://dev.to/julcasans/lit-html-templates-from-zero-to-hero-2afm)
-- [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
-- [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
-- [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
-- [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
-- [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
-- [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
-- [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
-- [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
+- [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
+- [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+- [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
+- [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
+- [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)
 - [A night experimenting with Lit-HTML](https://lucamezzalira.com/2018/08/14/a-night-experimenting-with-lit-html/)
-- [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
-- [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
-- [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
-- [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-- [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
-- [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
-- [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
+- [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
+- [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
 
 ## Projects
 
@@ -226,17 +193,17 @@
     <td>来源</td>
   </tr>
   <tr>
-    <td>创建社会形象</td>
+    <td>创建社交图像</td>
     <td>https://createsocialimages.com</td>
     <td><a href="https://github.com/pshihn/csi">来源</a></td>
   </tr>
   <tr>
-    <td>DevWeb内容Firehose</td>
+    <td>DevWeb 内容消防水管</td>
     <td>https://devwebfeed.appspot.com</td>
     <td><a href="https://github.com/GoogleChromeLabs/devwebfeed">来源</a></td>
   </tr>
   <tr>
-    <td>RX节拍器</td>
+    <td>rx-节拍器</td>
     <td>https://rx-metronome.web.app</td>
     <td><a href="https://github.com/ydubinskyi/rx-metronome">来源</a></td>
   </tr>
@@ -252,23 +219,19 @@
   </tr>
 </table>
 
-## Inspired Solutions
+## Similar libraries
 
-这些库不依赖lit-html，但是受到其某些概念的启发. 他们使用标记为“ html”
-模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法突出显示.
+这些库与 Lit 无关，但使用类似的概念构建. 他们使用`html`标记
+模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
 
-- [htm](https://github.com/developit/htm) -超标标记的标记：使用标准标记模板的JSX替代品，并具有编译器支持.
-- [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
-- [lit-ntml](https://github.com/motss/lit-ntml) -受lit-html启发，在Node.js中实现了SSR的轻量级现代模板.
-- [lite-html](https://github.com/ruphin/lite-html) -VirtualDOM渲染引擎的现代替代品.
-- [modulor-html](https://github.com/modulor-js/modulor-html) -Web组件缺少模板引擎.
-- [nanohtml](https://github.com/choojs/nanohtml) -浏览器的HTML模板字符串，支持Node中的服务器端渲染.
-- [picohtml](https://github.com/stepanvanzuriak/picohtml) -强大的〜2kB（gzip）HTML模板字符串.
-- [tiny-lit](https://github.com/alenaksu/tiny-lit) -用于使用模板文字构建用户界面的库.
+- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但适用于标准 Web 组件和 hyperHTML 或 lit-html.
+- [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
+- [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.
 
 ## Other awesome resources
 
-**如果您需要更多很棒的资源，请检查 [awesome](https://github.com/sindresorhus/awesome) 列表！**
+**如果您想要更多精彩资源，请查看 [awesome](https://github.com/sindresorhus/awesome) 列表！**
 
 ---
 

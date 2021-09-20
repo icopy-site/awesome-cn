@@ -535,7 +535,6 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 - [papiGB](https://github.com/diegovalverde/papiGB) - 从头开始​​的 Game Boy Classic 全功能 FPGA 实现.
 - [fpgaboy](https://github.com/trun/fpgaboy) - 在 FPGA 上实现任天堂的 Game Boy 控制台.
 - [Piglet](https://github.com/danShumway/Piglet)  - 一个 LUA 驱动的人工智能，通过实验来玩经典的 Game Boy 彩色游戏. 在积极发展.
-- [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) - 非游戏用途的应用程序开发.
 - [Ostrich](https://github.com/PumpMagic/ostrich) - 用 Swift 编写的 Game Boy Sound System 播放器.
 - [mGB](https://github.com/trash80/mGB) - 一个 Game Boy 卡带程序，使 Game Boy 能够充当完全支持 MIDI 的声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未记录的 Game Boy Color 寄存器，昵称为 PCM12 (FF76) 和 PCM34 (FF77)，可用于读取 4 个 APU 通道的当前 PCM 幅度.

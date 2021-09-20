@@ -745,7 +745,7 @@
 - [Commandeer](https://getcommandeer.com)  - 重新构想云管理. 使用 Vue.js 和 Electron 构建的桌面云管理应用程序.
 - [Mongster](https://github.com/mallgroup/mal-mongster) - 将您的 Mongo DB 节点连接到控制面板内的一个集群中.
 - [Leave Dates](https://leavedates.com) - 一种跟踪员工休假的强大新方法.
-- [Time Door](https://timedoor.io) - A time series analysis API
+- [Time Door](https://timedoor.io) - 时间序列分析 API
 - [vREST NG](https://ng.vrest.io) - 用于自动化 API 测试的企业应用程序，使用 VueJS 和 Element UI 构建.
 - [ScaleChamp](https://www.scalechamp.com) - 多云托管数据库提供商，支持 Hetzner、AWS、Linode、IBM、Azure、Scaleway、阿里云、DigitalOcean、GCP 和 UpCloud
 - [Coloban](https://www.coloban.com) - 多合一的项目管理工具，包括聊天、看板、甘特图、通话、屏幕共享等等.
@@ -837,7 +837,7 @@
 - [Vuethexplore](https://github.com/sc0Vu/vuethexplore) - 一个简单的应用程序，使用 vuejs 探索以太坊区块链.
 - [Fintechers](https://www.fintechers.io) - 以金融科技为重点的工作委员会.
 - [Devjournal](https://www.devjournalapp.com) - 项目和想法的协作待办事项列表.
-- [Bubbleflat](https://bubbleflat.com)  - 在线平台，通过搜索具有相似生活方式、兴趣或学校的人，帮助学生和年轻专业人士找到理想的室友.  Laravel 和 Vuejs
+- [Bubbleflat](https://bubbleflat.com) - Online platform that helps students and young Professionals find their perfect roommates by searching for people with similar lifestyles, interests, or schools. Laravel & Vuejs
 - [TeaQuinox Tea Co](https://teaquinox.com/) - 专门从事散叶茶的电子商务网站.
 - [blip](https://blip.website)  - 测试网站的速度、移动友好性、安全性和 HTML5 文档类型. 查找某个地点附近的企业并测试他们的网站，或者只是测试您自己的 URL.
 - [sunpos](https://sunpos.ru)  - 太阳位置、海拔、方位角、黄道/赤道坐标和日出/日落时间（儒略日）计算和转换实用程序. 网站使用纯 JS、Vuejs 和 i18n Vuejs 本地化插件进行编程. 可视化是使用 D3.js 创建的.
@@ -2041,7 +2041,7 @@ _显示图片_
 - [vue-m-button](https://github.com/mengdu/m-button) - 一个漂亮的 vue 按钮组件.
 - [vue-long-click](https://github.com/ittus/vue-long-click) - 用于 vue 的长按（长按）指令库，支持移动和桌面.
 - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - 规则编辑器、通用过滤 UI、Vue JS 的谓词组件.
-- [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js 原型函数`this.$isMobile()` 返回一个布尔值，具体取决于用户是否正在使用手机浏览.
+- [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js 原型函数`this.$isMobile()` 返回一个布尔值，具体取决于用户是否使用手机浏览.
 - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable)  -`contenteditable` 的 Vue 组件包装器，具有您通常期望的所有功能. 在不受`input[type=&#39;text&#39;]`限制的情况下制作漂亮的输入.
 - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - 组件缩放视图.
 - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - 用于信用卡输入、屏蔽和预览的 Vue 组件
@@ -3044,6 +3044,7 @@ _与服务或其他框架集成_
 - [Prisma](https://github.com/sherl0g/prisma) - @sherlog/cli 的日志可视化客户端
 - [vuetube](https://github.com/webistomin/vuetube) - 一个快速、轻量级、lazyload 的 vue 组件，作为 YouTube Iframe Player API 上的一个薄层，可以快速呈现
 - [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 组件，可让您通过仅提供推文 ID 将推文嵌入到您的应用程序中
+- [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 库，用于使用 ethers.js 构建 Dapp.
 
 #### Vue CLI Plugins
 
@@ -3061,6 +3062,7 @@ _与服务或其他框架集成_
 - [vue-cli-plugin-mock](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI 插件来模拟 http 请求
 - [vue-cli-plugin-ci](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI 插件生成 CI 代理配置文件以使用 CI 启动项目
 - [vue-cli-plugin-capacitor](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - 用于电容器的 Vue CLI 3 插件
+- [vue-cli-plugin-chrome-extension-cli](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI 插件生成 chrome 扩展模板
 
 ##### Google Analytics
 
@@ -3274,7 +3276,7 @@ _包括一个后端样板_
 
 #### Electron
 
-- [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - 带有 vue-cli 脚手架、常见 Vue 插件、电子打包器/电子构建器、单元/e2e 测试、vue-devtools 和 webpack 的 Electron 和 Vue.js 快速入门样板.
+- [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - 带有 vue-cli 脚手架、常见 Vue 插件、电子打包器/电子构建器、单元/e2e 测试、vue-devtools 和 webpack 的 Electron 和 Vue.js 快速启动样板.
 - [VuePack](https://github.com/egoist/vuepack) - 使用 Vue 2、Vuex、Vue-router 和 Webpack 2（甚至 Electron）的现代启动器.
 - [vue-flexible-link](https://github.com/saintplay/vue-flexible-link)  - 用于 Electron 的微型 Vue 组件，用于在浏览器中打开链接. 跨环境应用程序的理想选择（Web 和本机）
 - [vuelectron](https://github.com/rachmanzz/vuelectron) - 用于 vue 的 electronjs 入门套件.
