@@ -7,7 +7,7 @@
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
-* "Headless", "API-first", "SaaS" are frequently used keywords.
+* “Headless”、“API-first”、“SaaS”是常用的关键词.
 * 通常，这意味着首页有一些代码示例.
 * 产品 - 人们付费购买的工具/服务.
 
@@ -33,6 +33,7 @@
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
+* [Oso](https://www.osohq.com/) - 授权框架（RBAC）
 
 ## CI/CD
 *持续集成/交付.*
@@ -95,6 +96,7 @@
 * [Doppler](https://doppler.com/) - 跨项目的环境变量管理，在一处.
 * [1Password Secrets Automation](https://1password.com/secrets/) - 与 1Password 集成的机密管理.
 * [Envkey](https://www.envkey.com/) - 具有所有应用程序同步机制的环境管理.
+* [Ubiq](https://www.ubiqsecurity.com/) - 具有秘密管理功能的加密 API
 
 ## GEO
 *位置服务.*
@@ -139,7 +141,6 @@
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发商优先的厂房.
 
-
 ## Monitoring
 *监控您的生产应用程序.*
 * [Sentry](https://sentry.io/) - 应用程序监控错误和性能.
@@ -166,7 +167,7 @@
 * [cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 
 ## Scraping
-*不通过预期的 API 从网站获取数据.*
+*Fetching data from websites not via an intended API.*
 * [Apify](https://apify.com/) - 将网站转变为 API.
 * [proxycrawl](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不会被阻止.

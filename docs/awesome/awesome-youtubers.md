@@ -23,7 +23,7 @@
 &gt; 观看 YouTube 用户的视频教程，教您有关技术的知识.
 
 <details>
-	<summary>额外信息</summary>
+	<summary>额外的信息</summary>
 	<sub>查看徽章<a href="https://github.com/JoseDeFreitas/awesome-youtubers/blob/master/badges.md">.md</a>以了解徽章的含义.</sub>  <sub>YouTubers 的顺序并不意味着质量：下面的所有 YouTubers 都很棒.</sub>  <sub>YouTuber 所在的部分是其主要内容.</sub> <sub>请注意，这<strong>不是</strong>任何类型的促销列表.</sub> <sub>另请检查<a href="https://github.com/JoseDeFreitas/awesome-youtubers/discussions">讨论</a>选项卡.</sub>
 	</sub>
 </details>
@@ -352,6 +352,13 @@ Content about: C#, WPF, .NET \
 Featured playlists: `How To Program in C#`, `videos creating C#-based apps`. \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/DRwuo_Fl7FYrKvMeCllo1qpyVlmJlD9zTYmouNlAT2a_yat0c38ANQvcA-76Er2F_y1K_UqVmfs=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CodingwithEfehan)
+
+[**Coding with Efehan**](https://www.youtube.com/c/CodingwithEfehan) \
+Content about: C#, .NET, Discord \
+精选播放列表：`Discord.NET Bot Development`.  \
+<br/>
+
 
 ## Web development
 
@@ -484,7 +491,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：JavaScript、JavaScript 框架 \
-特色播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
+精选播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
 
@@ -628,7 +635,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [**Neso Academy**](https://www.youtube.com/user/nesoacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容：电子、网络、理论课 \
-特色播放列表：“网络理论”、“计算机网络”、“数字电子”、“信号与系统”、“编程语言”播放列表.
+精选播放列表：“网络理论”、“计算机网络”、“数字电子”、“信号与系统”、“编程语言”播放列表.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxg_WoKORzNoXHFEqTXUrKHeUR9Zn1y6LzGylfCtQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/Computerphile)
 
@@ -785,7 +792,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxHXU1KlWM0ZLoRVEhO0OkVoj7YGndylnAZYkTxdg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ScriptersWar)
 
 [**ScriptersWar**](https://www.youtube.com/c/ScriptersWar) \
-Content about: JavaScript, HTML5 \
+内容关于：JavaScript、HTML5 \
 精选播放列表：`如何制作 HTML5 游戏：初学者 JavaScript 教程 JS 指南`，`更多视频`.  \
 <br/>
 
@@ -958,7 +965,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：网络，CCNA \
-精选播放列表：`全系列 |  200-301 CCNA |  2020 年免费思科视频培训 |  Networking Inc.`，`其他网络视频`.
+精选播放列表：`全系列|  200-301 CCNA |  2020 年免费思科视频培训 |  Networking Inc.`，`其他网络视频`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
 
@@ -1159,7 +1166,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 
 [**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
 内容关于： Arduino \
-精选播放列表：`Arduino 初学者教程`、`Raspberry Pi 初学者教程`、`更多 Arduino 教程/项目视频！`.
+特色播放列表：`Arduino 初学者教程`、`Raspberry Pi 初学者教程`、`更多 Arduino 教程/项目视频！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
 
@@ -1230,7 +1237,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 <details>
 	<summary>学分</summary>
 	
-列表样式的灵感来自 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)，由 [mhxion](https://github.com/mhxion) . 在我看来，这个存储库是我的灵感来源 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在这个文件中使用相同的表格样式也很好看，以及有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
+列表样式的灵感来自 [awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)， 由...制作 [mhxion](https://github.com/mhxion) . 在我看来，这个存储库是我的灵感来源 [this list](https://github.com/JoseDeFreitas/awesome-youtubers) 在这个文件中使用相同的表格样式也很好看，以及有用 [badges](https://github.com/JoseDeFreitas/awesome-youtubers/blob/master//badges.md).
 	
 awesome-youtubers 徽标和相应的徽章图标由 [José De Freitas](https://github.com/JoseDeFreitas/).
 

@@ -32,7 +32,7 @@
   Parity 赞助的连锁店.
 - [`subport`](https://github.com/paritytech/subport/issues) - 支持存储库.
 - [Parity Blog](https://www.parity.io/blog/) - 了解 Substrate 生态系统的更新.
-- [Parity Events](https://www.parity.io/events/) - 即将举行的活动.
+- [Parity Events](https://www.parity.io/events/) - 接下来的活动.
 - [Twitter](https://twitter.com/substrate_io) - 关注我们以了解最新信息.
 - [Polkassembly](https://polkassembly.io/) - 讨论和投票 Kusama 和 Polkadot 的地方
   治理.
@@ -220,6 +220,8 @@
   与每日价格数据.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 简单的 CLI 工具来启动一个
   本地 Polkadot 测试网络.
+- [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
+  Polkadot 测试网络，强调运行大型测试网络的能力.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - 一套有用
   用于使用 Polkadot{JS} API 的 Substrate 的 JavaScript 实用程序. 还
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
@@ -228,7 +230,7 @@
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - 分解
   您的 Substrate 账户的余额.
 - [`substrate-balance-graph`](https://github.com/shawntabrizi/substrate-balance-graph) - 创建一个
-  Substrate 地址的代币余额随时间变化的图表.
+  Substrate 地址随时间变化的代币余额图.
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 一个独立的 JS
   包含 Polkadot{JS} 库的包.
 - [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - 一个基本的前端

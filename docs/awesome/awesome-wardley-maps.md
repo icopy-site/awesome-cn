@@ -59,8 +59,9 @@
 ## Maps in the Wild
 
 博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.
+- [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  - 华金佩尼亚费尔南德斯.  2021 年 9 月 16 日.
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 为什么电子游戏会成为一个国家灵魂的新战场 Simon Wardley.  2021 年 9 月 8 日.
-- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 三思而后行.  2020 年 10 月 22 日.
+- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 在你跳过西蒙沃德利之前先看看.  2020 年 10 月 22 日.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - 2020 年 9 月 15 日.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  - 与西蒙·沃德利的对话.  2020 年 8 月 4 日.
 - [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7)  - 以友好的方式挑战您的 Wardley 映射假设.  2020 年 8 月 2 日.
@@ -79,7 +80,7 @@
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  - Wardley 映射显示区块链正在遵循与其他主流技术相同的成熟度演变.  2020 年 1 月 28 日.
 - [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - 2020 年 1 月 23 日.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html)  - 使用 Wardley 地图查看喷气发动机的演变.  2020 年 1 月 5 日.
-- [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x)  - 因为你聘请的那个专家没有神奇的子弹.  2019 年 11 月 4 日.
+- [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x) - Because that expert you hired has no magical bullets. Nov 4, 2019.
 - [Embedded in memory](https://swardley.medium.com/embedded-in-memory-b05b0e7c183f)  - 文化周期.  2019 年 10 月 2 日.
 - [Exploring value](https://swardley.medium.com/exploring-value-e1ff89cfe019)  - 价值观、弹性、原则、支持系统.  2019 年 10 月 1 日.
 - [From values to rituals](https://swardley.medium.com/from-values-to-rituals-b6f6ae7787bd) - 2019 年 9 月 9 日.
@@ -92,10 +93,10 @@
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  - 通过 Wardley 地图了解加密生态系统.  2019 年 6 月 2 日.
 - [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/)  - 了解测试策略如何基于潜在环境.  2019 年 4 月 19 日
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  - 绿色网络基金会.  2019 年 3 月 20 日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  - 涵盖使用 Wardley Maps 来预测未来的 IT 战略的制定，了解哪些方法最适合开发和交付信息管理系统. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) used to create the Handbook on IT Strategy. Mar 13, 2019.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  - 涵盖使用 Wardley Maps 来预测未来的 IT 战略的制定，了解哪些方法最适合开发和交付信息管理系统. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  - 两个用例：允许国家统计局访问（敏感）大数据的新来源； 并实现跨多个 NSO 的大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019 年 3 月 12 日.
 - [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  - Wardley 映射示例的精选图集.  2019 年 3 月 6 日 - 至今.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  - 将 Samo Burja 的帝国理论与类似于 Simon Wardley 开创的映射形式相结合.  2019 年 1 月 2 日.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  - 考虑用户需求和用户研究的三种方式，以及沃德利地图如何帮助我们思考在哪里进行用户研究.  2018 年 11 月 2 日.
 - [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - 2018 年 10 月 31 日.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  - 如何通过专注于条令和支出控制来阻止组织主动伤害自己.  2018 年 10 月 30 日.
@@ -213,7 +214,7 @@
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - 北美
   - 美国
-    - California
+    - 加利福尼亚
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
 
 ## License

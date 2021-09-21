@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="lukasz-madon/awesome-remote-job"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
 
 一个很棒的精选清单 [remote working](https://en.wikipedia.org/wiki/Telecommuting) 资源.
 
@@ -279,9 +279,10 @@
 ## Companies with "remote DNA"
   1. [10up](https://10up.com/careers/) - 10up 通过为内容创建者精心制作网站和工具，使网络变得更好.
   1. [15Five](https://www.15five.com/careers/) - 加入我们的使命，通过加入周围一些最伟大的员工，创造人们成为最伟大自我的空间.
+  1. [1Password](https://1password.com/jobs/) - 世界上最受欢迎的密码管理器.
   1. [Adeva](https://adevait.com)  - 独家远程开发者网络.  Adeva 与公司合作，按需扩展工程团队.
   1. [AgentFire](https://agentfire.com/meet-our-team/) - 由 Wordpress 提供支持的超本地房地产网站.
-  1. [Aha!](https://www.aha.io/company/careers/current-openings)  - 啊哈！ 是为想要恢复魔力的 PM 设计的路线图软件.
+  1. [Aha!](https://www.aha.io/company/careers/current-openings)  - 啊哈！ 是为希望恢复魔力的 PM 设计的路线图软件.
   1. [AirTreks](https://www.airtreks.com/about/) - 具有分布式团队的多站国际飞行计划.
   1. [Alley](https://alley.co/jobs/)  - 数字代理. 我们是为出版商、非营利机构、博物馆和品牌打造定制数字体验的战略家、研究人员、设计师和开发人员.
   1. [ALICE](https://www.aliceplatform.com/careers/)  - 远程友好的初创公司. 我们正在为酒店业创建全球运营平台.  ALICE 使世界上最好的酒店能够提供卓越的客户体验.
@@ -306,7 +307,7 @@
   1. [Brave](https://brave.com) - 带有内置广告拦截器和加密代币小额支付的网络浏览器.
   1. [BRYTER](https://bryter.io/)  - 决策自动化的无代码平台；  Kotlin、Typescript、Vue.js、k8s
   1. [Buffer](https://buffer.com/journey/)  - 帮助管理社交媒体的工具.  PHP、CodeIgniter、MongoDB、Memcache、Backbone.js、React.js、Grunt.js、LESS 和 Python.
-  1. [Bugfender](https://bugfender.com/)  - Bugfender 是适用于包括 iOS 和 Android 在内的多个平台的远程记录器. 它存储您的应用程序创建的日志并将它们发送到我们的服务器，创建一个远程控制台，您可以在其中实时查看日志. 位于巴塞罗那的远程公司.
+  1. [Bugfender](https://bugfender.com/)  - Bugfender 是适用于包括 iOS 和 Android 在内的多个平台的远程记录器. 它存储由您的应用程序创建的日志并将它们发送到我们的服务器，创建一个远程控制台，您可以在其中实时查看日志. 位于巴塞罗那的远程公司.
   1. [ButterCloud](http://www.buttercloud.com/)  - 一个由网络和应用程序开发人员组成的小团队. 我们帮助初创企业和中小型企业构建、维护和发展他们的产品.
   1. [Cadasta](https://cadasta.org/about-us-3/careers-2/)  - 用于映射全球土地和资源权利的安全平台.  100%远程团队；  Python、Django、JavaScript、PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
@@ -447,6 +448,7 @@
   1. [Red Hat](https://www.redhat.com/jobs/)
   1. [Redox](https://www.redoxengine.com/company/careers/)  - 医疗保健 API 平台. 自豪的远程第一团队.
   1. [Relevant Bits](https://relevantbits.com)  - Relevant Bits 通过数据、设计、技术和批判性思维对客户体验和结果产生积极影响. 位于加拿大安大略省以外的 Relevant Bits 是 100% 远程的.
+  1. [RenoFi](https://www.renofi.com/careers/) - 100% 从第一天开始.Ruby、React.js、GraphQL、k8s.
   1. [Revolut](https://jobs.lever.co/revolut?lever-via=8QDkIWda8L)  - 用于购买、投资和汇款的应用程序. 伦敦总部. 
   3. [Riak](https://riak.com/careers/)  - 一个开源平台和 k/v 数据库. 我们在 Erlang 中编码并在云端闲逛. 每个人都在远程工作，每年在西雅图的总部聚会几次.
   4. [RightScale](https://www.flexera.com/about-us/careers.html)
@@ -454,7 +456,7 @@
   6. [Scrapinghub](https://scrapinghub.com/jobs)
   7. [SerpApi](https://serpapi.com/team)  - 实时API访问Google、Youtube、eBay等搜索引擎的结构化搜索结果.  Ruby、Rails、React.js.
   8. [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote)  - 企业云计算可提高服务水平、激励员工并改变企业的工作方式. 以光速工作.
-  9. [ShakaCode](https://www.shakacode.com/career/) - 一家全球网络开发软件咨询和产品公司.
+  9. [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
   10. [Shogun](https://getshogun.com/team)  - 构建和优化电子商务登陆页面.  Ruby / Rails、Go、JavaScript、React.  100% 远程.
   11. [Signal](https://www.signal.org/workworkwork/) - 这些人创造了梦幻般 [Signal app](https://www.signal.org) . 仅限美国.
   12. [Simple](https://www.simple.com/careers)
@@ -485,7 +487,7 @@
   37. [The Grid](https://thegrid.io/)  - 人工智能网站建设者.  100% 分布式团队.
   38. [Thermeon](https://thermeon.com/vacancies/) - 租车软件 - 100% 远程技术团队
   39. [Thorn](https://thorn.org/careers) - 100% 远程公司，建立技术来打击在线儿童性虐待和贩卖.
-  40. [TimeDoctor](https://www.timedoctor.com/about-us.html) - 使用屏幕截图、Web 和应用程序使用情况监控以及集成进行时间跟踪.
+  40. [TimeDoctor](https://www.timedoctor.com/about-us.html) - 使用屏幕截图、Web 和应用程序使用监控以及集成进行时间跟踪.
   41. [Tipe](https://tipe.io)  - 具有 GraphQL 或 REST API 的下一代 API 优先 CMS. 使用 Nuxt.js、无服务器、AWS 构建.  25% 远程
   42. [Toggl](https://jobs.toggl.com/)
   43. [Toptal](https://www.toptal.com/careers) - 100% 远程开发公司，解决全球人才短缺问题
@@ -519,7 +521,7 @@
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - 子版块.
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC频道（[web access](https://webchat.freenode.net/?channels=#remotes))
 1. [Hacker Paradise](https://www.hackerparadise.org/) - 出差的远程工作者.
-1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
+1. [Remote Year](https://www.remoteyear.com/) - 旅行技术人员 1 年.
 1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作者.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 1. [Hypelance](https://hypelance.com/) - 自由职业者和企业家数字社区论坛.
