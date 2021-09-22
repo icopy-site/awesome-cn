@@ -44,7 +44,7 @@
 &gt; 关于 Ansible 的书籍.
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/)  - 这本书有助于开始使用 Ansible 来配置和管理从一台到数千台服务器的任何地方. 可以免费阅读样品 [here](https://leanpub.com/ansible-for-devops/read_sample).
-- [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - 使用 Ansible 部署和维护现实世界中的大规模可扩展和高可用性应用程序.
+- [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - 使用 Ansible 部署和维护现实世界中可大规模扩展和高可用的应用程序.
 - [How To Manage Remote Servers with Ansible eBook](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - 本书基于“如何使用 Ansible 管理远程服务器”系列教程.
 
 ## Videos
@@ -65,7 +65,7 @@
 - [Ansible Tower](https://www.ansible.com/products/tower)  - 红帽 Ansible Tower 可帮助您扩展 IT 自动化、管理复杂的部署并提高生产力. 将 Ansible 的力量扩展到您的整个团队.
 - [AWX](https://github.com/ansible/awx)  - AWX 提供基于 Web 的用户界面、REST API 和构建在 Ansible 之上的任务引擎. 是AWX商业衍生品Tower的上游项目.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - 检查 Playbooks 中可能会改进的最佳实践和行为.
-- [Ansible Later](https://github.com/thegeeklab/ansible-later)  - 另一个最佳实践扫描仪. 检查 Playbooks 和 Roles 以获取可能改进的最佳实践和行为.
+- [Ansible Later](https://github.com/thegeeklab/ansible-later)  - 另一个最佳实践扫描仪. 检查 Playbooks 和 Roles 以获得可能改进的最佳实践和行为.
 - [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) - 简单的注释，如基于 Jinja2 模板的 Ansible 角色的文档生成器.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - 获取 Ansible 事实收集的输出并将其转换为静态 HTML 页面.
 - [ARA](https://github.com/ansible-community/ara) - ARA 记录 Ansible 剧本，并通过报告 API、UI 和 CLI 使它们更易于理解和排除故障.
@@ -81,7 +81,7 @@
 &gt; 关于 Ansible 的最佳实践和其他建议.
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - 最佳实践指南.
-- [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - 使用带有 Ansible 的 Test-Kitchen 将剧本应用到 Windows 机器上并使用 [Pester](https://github.com/pester/Pester/).
+- [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - 使用带有 Ansible 的 Test-Kitchen 将剧本应用到 Windows 机器并使用 [Pester](https://github.com/pester/Pester/).
 - [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - 实践涵盖 Ansible 设置的许多方面，包括支持不同环境（测试、暂存、生产）的提示.
 
 ## Playbooks and Roles
@@ -91,6 +91,7 @@
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
 - [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook，用于设置带有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
 - [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - 这些角色可帮助您强化基于 Linux 的操作系统以及 MySQl、NginX 和 SSH 服务器/服务.
-- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 为开发环境和生产提供和部署 Docker Swarm 集群. 基础设施即代码和 DevOps 最佳实践.
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 在开发环境和生产环境中配置和部署 Docker Swarm 集群. 基础设施即代码和 DevOps 最佳实践.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible Playbooks [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbook.
+- [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - 使用 AWS SSM 代理预置物理和虚拟主机的 ansible 角色.

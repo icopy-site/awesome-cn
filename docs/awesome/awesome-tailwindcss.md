@@ -104,6 +104,7 @@
 -  [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - 添加强调色实用程序.
 -  [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
 -  [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
+-  [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - 添加了`RTL` 和`LTR` 变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
 -  [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体.

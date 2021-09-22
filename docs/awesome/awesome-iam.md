@@ -21,7 +21,7 @@
 
 <!--lint disable double-link-->
 
-[IAM](https://en.wikipedia.org/wiki/Identity_management) 代表身份和访问管理. 但不仅仅是处理用户帐户：它包含身份验证、授权和隐私，使这个边界变得非常复杂. 它是云堆栈的重要支柱，用户、产品和安全在这里相遇. 这 [other pillar being billing & payments 💰](https://github.com/kdeldycke/awesome-billing/).
+[IAM](https://en.wikipedia.org/wiki/Identity_management) 代表身份和访问管理. 但不仅仅是处理用户帐户：它包含身份验证、授权和隐私，使这个边界相当复杂. 它是云堆栈的重要支柱，用户、产品和安全在这里相遇. 这 [other pillar being billing & payments 💰](https://github.com/kdeldycke/awesome-billing/).
 
 该知识库以全面且可操作的方式公开了该领域的所有技术、协议和术语.
 
@@ -47,9 +47,9 @@
 
 - [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - 使 B2B 用户满意的大部分功能将由 IAM 边界实现.
 
-- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过于宽松的 AWS IAM 策略允许 `s3:GetObject` 访问 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
+- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过于宽松的 AWS IAM 政策允许 `s3:GetObject` 访问 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
 
-- [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/)  - 有点*点击诱饵*，但作者承认“这取决于你对他们的信任程度 1.继续经营；  2. 不抬高价格；  3. 不贬低您的服务；  4. 在业务加速方面为您提供的价值多于灵活性方面的损失.”
+- [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/)  - 有点*点击诱饵*，但作者承认“这取决于您对他们的信任程度 1.继续经营；  2. 不抬高价格；  3. 不贬低您的服务；  4. 在业务加速方面为您提供的价值多于灵活性方面的损失.”
 
 ## Security
 
@@ -57,17 +57,17 @@
 
 - [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla 的安全和访问指南.
 
-- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租赁漏洞和供应链漏洞）”.
+- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租户漏洞和供应链漏洞）”.
 
-- [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于映射服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
+- [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于绘制服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
 - [Open guide to AWS Security and IAM](https://github.com/open-guides/og-aws#security-and-iam)
 
 ## Account Management
 
-The foundation of IAM: the definition and life-cycle of users, groups, roles and permissions.
+IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
-- [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 帐户管理的元批评，其中业务期望的功能与真实用户需求发生冲突，以虚构的项目经理编写的用户故事的形式出现.
+- [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 帐户管理的元批评，其中业务预期的功能与真实用户需求发生冲突，以虚构的项目经理编写的用户故事的形式出现.
 
 - [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)  - 与上述精神相同，但范围更广：我们作为开发人员忽略但用户真正关心的所有小事情. 该列表的顶部是以帐户为中心的功能、多样化的集成和导入/导出工具. 即所有企业客户需要覆盖.
 
@@ -83,7 +83,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 整个身份验证堆栈基于密码学原语. 这是不容忽视的.
 
-- [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)  - 针对非加密工程师的开发人员的一组最新建议. 甚至还有一个 [shorter summary](https://news.ycombinator.com/item?id=16749140) 可用的.
+- [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)  - 针对非加密工程师的开发人员的最新建议. 甚至还有一个 [shorter summary](https://news.ycombinator.com/item?id=16749140) 可用的.
 
 - [Security Recommendations for Any Device that Depends on Randomly-Generated Numbers](https://www.av8n.com/computer/htm/secure-random.htm)  - “‘随机数生成器’这句话应该解析如下：它是一个随机数生成器. 它不是随机数的生成器.”
 
@@ -93,7 +93,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - 密码学基础论文.
 
-- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您正在使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
+- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
 
 ## Zero-trust Network
 
@@ -101,7 +101,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/system/files/login/articles/login_dec14_02_ward.pdf) - Google 零信任网络计划的快速概览.
 
-- [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90)  - 越来越多的公司增加了额外的 VPN 层、防火墙、限制和约束，从而导致糟糕的体验和轻微的安全增益. 有更好的方法.
+- [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90)  - 越来越多的公司添加额外的 VPN 层、防火墙、限制和约束，从而导致糟糕的体验和轻微的安全增益. 有更好的方法.
 
 - [oathkeeper](https://github.com/ory/oathkeeper)  - 身份和访问代理以及访问控制决策 API，用于对传入的 HTTP 请求进行身份验证、授权和更改. 受 BeyondCorp / 零信任白皮书的启发.
 
@@ -113,9 +113,9 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 用于验证您的身份的协议和技术.
 
-- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - 最终用户 API 的所有基于令牌的身份验证方案的概述和比较.
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
 
-- [A Child’s Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - 与上述精神相同，但这次是在服务级别.
+- [A Child’s Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - 本着与上述相同的精神，但这次是在服务级别.
 
 - [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc)  - 简而言之： 1. 小信任根；  2. TLS 还不够；  3. 基于证书的令牌；  4. 加密身份验证令牌 (CAT). 见 [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) 更多细节.
 
@@ -131,7 +131,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/)  - “对长度和字符组成的任意下限是不好的. 它们看起来很糟糕，它们会导致对安全状况的负面猜测，并且它们会破坏密码管理器等工具.”
 
-- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 使用愚蠢的密码规则羞辱网站.
+- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 用愚蠢的密码规则羞辱网站.
 
 - [Plain Text Offenders](https://plaintextoffenders.com/about/) - 公开羞辱以纯文本形式存储密码的网站.
 
@@ -139,7 +139,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [A Well-Known URL for Changing Passwords](https://github.com/WICG/change-password-url) - 定义用于密码更新的站点资源的规范.
 
-- [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360)  - 好消息：您不会被传统的密码保存方案所困扰. 这是一个透明升级到更强哈希算法的技巧.
+- [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360)  - 好消息：您不会被传统的密码保存方案所困扰. 这是一个透明地升级到更强的哈希算法的技巧.
 
 ### Password-less
 
@@ -171,7 +171,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)  - “我们的分析证实，秘密问题提供的安全级别通常远低于用户选择的密码.  (...) 令人惊讶的是，我们发现造成这种不安全感的一个重要原因是用户通常不会如实回答.  (...) 在可用性方面，我们表明秘密答案的可记忆性出奇地差”.
 
-- [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) - 谷歌安全团队的数据显示，2FA 可以 100% 阻止自动机器人黑客攻击.
+- [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) - Google 安全团队的数据显示 2FA 可以 100% 阻止自动机器人黑客攻击.
 
 - [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) - 与以上来自 Microsoft 的结论相同：“根据我们的研究，如果您使用 MFA，您的帐户被盗用的可能性将降低 99.9% 以上.”
 
@@ -233,7 +233,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Adding JSON Web Token API Keys to a DenyList](https://auth0.com/blog/denylist-json-web-token-api-keys/) - 关于令牌失效.
 
-- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - And [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)， 因为 [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141) . 根据您存储它们的位置，它们会引入大小问题或安全问题. 有状态 JWT 令牌在功能上与会话 cookie 相同，但没有经过实战测试和良好审查的实现或客户端支持.
+- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - 和 [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)， 因为 [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141) . 它们会根据您存储它们的位置引入大小问题或安全问题. 有状态 JWT 令牌在功能上与会话 cookie 相同，但没有经过实战测试和良好审查的实现或客户端支持.
 
 - [JWT, JWS and JWE for Not So Dummies\!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)  - 签名的 JWT 称为 JWS（JSON Web 签名）. 事实上，JWT 本身并不存在——它必须是 JWS 或 JWE（JSON Web 加密）. 它就像一个抽象类——JWS 和 JWE 是具体的实现.
 
@@ -259,9 +259,9 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - 一张不错的总结卡.
 
-- [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps)  - 有多个遗留系统与他们自己的登录方法和帐户合并？ 这是通过 OIDC 的方式合并所有这些混乱的方法.
+- [How to Implement a Secure Central Authentication Service in Six Steps](https://engineering.shopify.com/blogs/engineering/implement-secure-central-authentication-service-six-steps)  - 有多个遗留系统与他们自己的登录方法和帐户合并？ 以下是如何通过 OIDC 合并所有这些混乱.
 
-- [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/)  - 中央认证服务 (CAS) 协议的 OAuth2 友好改编. 你会发现有很好的 OAuth 用户流程图.
+- [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/)  - 中央身份验证服务 (CAS) 协议的 OAuth2 友好改编. 您会发现有很好的 OAuth 用户流程图.
 
 - [The Decline of OpenID](https://penguindreams.org/blog/the-decline-of-openid/) - OpenID 在公共网络中被替换为 OAuth 1、OAuth 2 或其他专有 SSO 协议的混合.
 
@@ -319,7 +319,11 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 到 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
 
-- [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)  - 我们如何从 DAC（unix 权限、秘密 URL）到 MAC（DRM、MFA、2FA、SELinux），再到 RBAC. 详细说明后者如何允许对策略、ACL、用户和组进行更好的建模.
+- [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - 因为它需要在许多地方需要的强制执行、决策架构以将业务逻辑与授权逻辑分开，以及建模以平衡能力和复杂性方面进行多次权衡.
+
+- [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - 基于角色的简单授权模型如何因产品包装、数据本地化、企业组织和合规性而变得复杂.
+
+- [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)  - 我们如何从 DAC（unix 权限、秘密 URL）到 MAC（DRM、MFA、2FA、SELinux），再到 RBAC. 详细说明后者如何允许更好地建模策略、ACL、用户和组.
 
 - [The Case for Granular Permissions](https://cerbos.dev/blog/the-case-for-granular-permissions) - 讨论 RBAC 的局限性以及 ABAC（基于属性的访问控制）如何解决这些局限性.
 
@@ -363,21 +367,21 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  - 手动编写具有安全意识的 IAM 策略可能非常乏味且效率低下.  Policy Sentry 可帮助用户在几秒钟内创建最低权限策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是新事物的默认策略是拒绝所有，然后它会监控 cloudtrail 是否有权限失败，并重新配置 IAM 以允许最小的权限摆脱拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是新事物的默认策略是拒绝所有，然后它会监控 cloudtrail 是否有权限失败并重新配置 IAM 以允许最小的权限来摆脱拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) - 快速评估权限.
 
 - [PolicyUniverse](https://github.com/Netflix-Skunkworks/policyuniverse) - 解析和处理 AWS 策略、语句、ARN 和通配符.
 
-- [IAM Floyd](https://github.com/udondan/iam-floyd)  - 具有流畅界面的 AWS IAM 策略语句生成器. 通过 IntelliSense 提供条件和 ARN 生成，帮助创建类型安全的 IAM 策略并编写更具限制性/安全的语句. 适用于 Node.js、Python、.Net 和 Java.
+- [IAM Floyd](https://github.com/udondan/iam-floyd)  - 具有流畅界面的 AWS IAM 策略语句生成器. 通过 IntelliSense 提供条件和 ARN 生成，帮助创建类型安全的 IAM 策略并编写更具限制性/安全性的语句. 适用于 Node.js、Python、.Net 和 Java.
 
-- [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，可根据他们在多个账户中管理权限的授权级别为最终用户和管理员提供凭证和控制台访问权限，同时鼓励使用最低权限的权限.
+- [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，它根据已登录账户的授权级别管理多个账户的权限，为最终用户和管理员提供凭证和控制台访问权限，同时鼓励使用最低权限的权限.
 
 ### Macaroons
 
-分发和委托授权的聪明好奇心.
+分发和委派授权的聪明好奇心.
 
-- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果我得到一个 Macaroon，它授权我在某些限制下执行某些操作，我可以非交互式地构建第二个 Macaroon，并具有更严格的限制，然后我可以将其提供给您.
+- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果我得到一个 Macaroon 授权我在某些限制下执行某些操作，我可以以非交互方式构建第二个 Macaroon，并具有更严格的限制，然后我可以将其提供给您.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
@@ -399,7 +403,7 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [`truffleHog`](https://github.com/dxa4481/truffleHog) - 在 git 存储库中搜索高熵字符串和秘密，深入挖掘提交历史.
 
-- [Keywhiz](https://square.github.io/keywhiz/) - 一个管理和分发秘密的系统，可以很好地适应面向服务的架构（SOA）.
+- [Keywhiz](https://square.github.io/keywhiz/) - 用于管理和分发机密的系统，可以很好地适应面向服务的体系结构 (SOA).
 
 - [`roca`](https://github.com/crocs-muni/roca) - 用于检查各种密钥格式的弱 RSA 模数的 Python 模块.
 
@@ -423,7 +427,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 一旦你拥有了大量的用户群，它就被称为社区. 然后，您将负责保护它：客户、人员、公司、业务，并促进其中发生的所有交互和交易.
 
-信任与安全部门是由政策和当地法律约束驱动的关键中介复合体，可能由一个由 24/7 操作员和高度先进的调节和管理工具系统组成的跨职能团队体现. 您可以将其视为客户支持服务的扩展，专门用于边缘情况，例如手动身份检查、有害内容的审核、停止骚扰、授权和版权索赔的处理、数据隔离和其他信用卡纠纷.
+信任与安全部门是由政策和当地法律约束驱动的关键中介复合体，可能由一个由 24/7 操作员和高度先进的调节和管理工具系统组成的跨职能团队体现. 您可以将其视为客户支持服务的扩展，专门处理边缘情况，例如手动身份检查、有害内容的审核、停止骚扰、处理权证和版权索赔、数据隔离和其他信用卡纠纷.
 
 - [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) - 关于领域及其职责的精彩介绍.
 
@@ -431,7 +435,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 <!--lint disable double-link-->
 
-- [Awesome List of Billing and Payments: Fraud links](https://github.com/kdeldycke/awesome-billing#fraud) - 专门用于计费和付款欺诈管理的部分，来自我们的姐妹存储库.
+- [Awesome List of Billing and Payments: Fraud links](https://github.com/kdeldycke/awesome-billing#fraud) - 专门用于计费和支付欺诈管理的部分，来自我们的姐妹存储库.
 
 <!--lint enable double-link-->
 
@@ -441,7 +445,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 这篇论文是针对身份元系统的，它的法则在小范围内仍然提供了很好的见解，尤其是第一法则：始终允许用户控制并征求同意以赢得信任.
 
-- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  -“为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
+- [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html)  - “为了限制“摩擦”，优步允许乘客在注册时无需提供电子邮件（容易伪造）或电话号码以外的身份信息.  (……) 车辆被盗和烧毁； 司机遭到殴打、抢劫，有时甚至被谋杀. 该公司坚持使用低摩擦的注册系统，即使暴力事件有所增加.”
 
 - [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - 客户姓名匹配有很多应用，从帐户重复数据删除到欺诈监控.
 
@@ -451,7 +455,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 ### Fraud
 
-作为在线服务提供商，您面临欺诈、犯罪和滥用的风险. 你会惊讶于人们在金钱方面变得多么聪明. 预计工作流程中的任何错误或差异都会被利用以获取经济利益.
+作为在线服务提供商，您会面临欺诈、犯罪和滥用的风险. 你会惊讶于人们在金钱方面变得多么聪明. 预计工作流程中的任何错误或差异都会被利用以获取经济利益.
 
 - [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://archive.is/MuNrZ) - 为什么背景调查有时是必要的.
 
@@ -463,13 +467,13 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 ### Moderation
 
-任何在线社区，不仅是与游戏和社交网络相关的社区，都需要其运营商投入大量资源和精力来进行调节.
+任何在线社区，不仅仅是与游戏和社交网络相关的社区，都需要其运营商投入大量资源和精力来进行调节.
 
 - [Still Logged In: What AR and VR Can Learn from MMOs](https://youtu.be/kgw8RLHv1j4?t=534)  - “如果你主持一个在线社区，人们可以在那里伤害另一个人：你就陷入困境. 如果您负担不起陷入困境，请不要举办在线社区.”
 
 - [Keep out the bad apples: How to moderate a marketplace](https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate)  - “拥有权利的同时也被赋予了重大的责任. 我的一些提示和技巧可以让您的市场变得更安全.”
 
-- [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
+- [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/)  - 大量的外包分包商负责管理庞大的社交网络. 这些人处于最糟糕的境地，通常最终会患上创伤后应激障碍.
 
 - [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - 一部关于这些薪酬过低的人删除帖子和删除帐户的团队的纪录片.
 
@@ -479,7 +483,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - “威胁情报的简明定义：基于证据的知识，包括背景、机制、指标、影响和可操作的建议，关于现有或新出现的威胁或资产危害，可用于为有关主体对该威胁的反应的决策提供信息或危险.”
 
-- [SpiderFoot](https://github.com/smicallef/spiderfoot)  - 一种开源情报 (OSINT) 自动化工具. 它与几乎所有可用的数据源集成，并使用一系列数据分析方法，使数据易于导航.
+- [SpiderFoot](https://github.com/smicallef/spiderfoot)  - 一种开源智能 (OSINT) 自动化工具. 它与几乎所有可用的数据源集成，并使用一系列数据分析方法，使数据易于导航.
 
 - [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - 支持威胁情报分析的开放标准、工具和方法.
 
@@ -515,7 +519,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter) - Perfect for this use-case, as bloom filters are designed to quickly check if an element is not in a (large) set. Variations of bloom filters exist for specific data types.
 
-- [How Radix trees made blocking IPs 5000 times faster](https://blog.sqreen.com/demystifying-radix-trees/) - 基数树可能会派上用场来加速 IP 阻止列表.
+- [How Radix trees made blocking IPs 5000 times faster](https://blog.sqreen.com/demystifying-radix-trees/) - 基数树可能有助于加速 IP 阻止列表.
 
 ### Hostnames and Subdomains
 
@@ -541,7 +545,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [`pyisp`](https://github.com/ActivisionGameScience/pyisp) - IP 到 ISP 查找库（包括 ASN）.
 
-- [AMF site blocklist](https://www.amf-france.org/Epargne-Info-Service/Proteger-son-epargne/Listes-noires) - 与金钱有关的欺诈网站的法国官方拒绝名单.
+- [AMF site blocklist](https://www.amf-france.org/Epargne-Info-Service/Proteger-son-epargne/Listes-noires) - Official French denylist of money-related fraud sites.
 
 ### Emails
 
@@ -589,7 +593,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 作为用户数据的中央存储库，IAM 堆栈利益相关者必须防止任何业务和客户数据的泄漏. 为了允许内部分析，需要匿名化.
 
-- [The False Allure of Hashing for Anonymization](https://gravitational.com/blog/hashing-for-anonymization/)  - 散列不足以匿名化. 但是对于化名（GDPR 允许）来说，它仍然足够好.
+- [The False Allure of Hashing for Anonymization](https://gravitational.com/blog/hashing-for-anonymization/)  - 散列不足以匿名化. 但对于化名（GDPR 允许）来说，它仍然足够好.
 
 - [Four cents to deanonymize: Companies reverse hashed email addresses](https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/) - “散列的电子邮件地址可以很容易地反转并链接到个人”.
 
@@ -637,11 +641,11 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 - [11 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) - 关于登录表单的一些基本提示.
 
-- [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) - 创建简单、可链接、可预测并与密码管理器配合使用的登录表单.
+- [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) - 创建简单、可链接、可预测且与密码管理器配合良好的登录表单.
 
 - [Why are the username and password on two different pages?](https://www.twilio.com/blog/why-username-and-password-on-two-different-pages)  - 支持 SSO 和基于密码的登录. 现在，如果将登录漏斗分为 2 个步骤对用户来说太过分了，请像 Dropbox 一样解决这个问题： [an AJAX request when you enter your username](https://news.ycombinator.com/item?id=19174355).
 
-- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的`<input>  ` 元素和 HTML 属性将有助于加快我们用户的两因素身份验证体验”.
+- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) - “In this post we will look at the humble `<input>` element and the HTML attributes that will help speed up our users' two factor authentication experience”.
 
 - [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了消除密码屏蔽对消费者信任的影响.
 
@@ -649,11 +653,11 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 ## Competitive Analysis
 
-一系列资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
+一堆资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
 
 - [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - 添加到 IAM 边界的所有新功能的来源.
 
-- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 还要注意： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) 和 [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
+- [GCP IAM release notes](https://cloud.google.com/iam/docs/release-notes) - 另外值得注意的是： [Identity](https://cloud.google.com/identity/docs/release-notes), [Identity Platform](https://cloud.google.com/identity-platform/docs/release-notes), [Resource Manager](https://cloud.google.com/resource-manager/docs/release-notes), [Key Management Service/HSM](https://cloud.google.com/kms/docs/release-notes), [Access Context Manager](https://cloud.google.com/access-context-manager/docs/release-notes), [Identity-Aware Proxy](https://cloud.google.com/iap/docs/release-notes), [Data Loss Prevention](https://cloud.google.com/dlp/docs/release-notes) 和 [Security Scanner](https://cloud.google.com/security-scanner/docs/release-notes).
 
 - [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - 相关关键词： [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) 和 [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
 
@@ -673,7 +677,7 @@ HSM 是在硬件级别保证机密管理安全的物理设备.
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
+The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 是基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
 
 <!--lint disable no-undefined-references-->
 

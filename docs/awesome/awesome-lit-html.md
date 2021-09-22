@@ -30,6 +30,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 - [Lit 2.0: Meet Lit, all over again!](https://lit.dev/blog/2021-04-21-lit-2.0-meet-lit-all-over-again/)
+- [Announcing Lit 2 stable release](https://lit.dev/blog/2021-09-21-announcing-lit-2/)
 
 ## Starter Templates
 
@@ -74,7 +75,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - 用于服务器端渲染 Lit 模板和组件的包.
 - [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - 点亮指令让事情动起来.
 - [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - 针对 Web 组件和反应式 Lit 控制器的反应集成.
-- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，它与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
 - [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - 呈现异步任务的 Lit 控制器.
 - [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - 为 Lit 提供虚拟滚动的包.
 
@@ -90,7 +91,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`lit-element-state-decoupler`](https://www.npmjs.com/package/lit-element-state-decoupler) - 用于 LitElement 组件外部状态处理的实用程序.
 - [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - 由 pwa-helpers 和 Redux 提供支持的 Lit 的声明性路由方式.
 - [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - 点亮控制器以使用苗条的存储作为状态管理.
-- [`lit-vaadin-helpers`](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
+- [`lit-vaadin-helpers`](https://www.npmjs.com/package/lit-vaadin-helpers) - 在 Lit 2 中使用 Vaadin Web 组件的助手.
 - [`ullr`](https://github.com/aggre/ullr) - 使用 Lit 通过函数式编程构建 Web 组件.
 
 ## Design Systems
@@ -115,12 +116,16 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - chartjs 的 Web 组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
+- [ESP Web Tools](https://github.com/esphome/esp-web-tools) - 允许通过浏览器刷入 ESPHome 或其他基于 ESP 的固件.
+- [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) - 来自 Infragistics 的完整 UI 组件库.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN 为任何项目生成 Web 组件.
+- [Medblocks UI](https://github.com/medblocks/medblocks-ui) - 用于快速开发 openEHR 和 FHIR 系统的 Web 组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Microsoft Graph 的 Web 组件集合.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - 使用 Web 组件进行突变测试结果的模式以对其进行可视化.
 - [One Platform Components](https://github.com/1-Platform/op-components) - Red Hat One Platform 的一组 Web 组件.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - 使用 Web 组件的无服务器代码体验.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Stripe.js v3 元素的自定义元素包装器.
+- [Vidstack Elements](https://github.com/vidstack/vds-elements) - 符合规范的可定制、可扩展、可访问和通用的媒体元素.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - 用于创建使用 Webview API 的 VSCode 扩展的组件.
 - [Web Components for TEI Publisher](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的 Web 组件及其生成的应用程序.
 - [Webmarkets web components](https://github.com/Webmarkets/wm-web-components) - Webmarkets 的公共 Web 组件集.
@@ -143,31 +148,44 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - 用于查看 OpenAPI 3.0 和 Swagger 2.0 规范的 Web 组件.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement Web 组件，利用 Three.js 显示 STL 模型文件.
 
-## IDE Plugins
-
-- [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) - lit-html 模板字符串的语法高亮和智能感知.
-- [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) - lit-html 的语法高亮、类型检查和代码完成.
-- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - VSCode 扩展，它为 ES6 多行字符串中的 HTML 提供语法高亮显示.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - lit-html 的语法高亮和缩进.
-
-## TypeScript Plugins
-
-- [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin)  - 为 lit-html 添加类型检查和代码完成的插件. 由 `vscode-lit-plugin` 使用.
-- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin)  - 为 lit-html 添加 IntelliSense 的 TypeScript 服务器插件. 由 `vscode-lit-html` 使用.
-
 ## Tools
 
-- [babel-plugin-lit-property-types-from-ts](https://github.com/bschlenk/babel-plugin-lit-property-types-from-ts) - Babel 插件，用于根据 TypeScript 类型自动设置属性的 `type`.
-- [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) - 用于缩小标记模板字符串中的 HTML 的 Babel 插件.
-- [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - 用于 lit-html 模板字符串的 ESLint 插件.
-- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - lit-html 的可访问性 linting 插件
-- [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) - 该类型的 CLI 检查 lit-html 模板中的绑定.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup 插件以缩小标记模板字符串中的 HTML.
-- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) - 在 LitElement 和 transpile 装饰器中内联外部样式的汇总插件.
-- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - 汇总插件将 CSS 文件导入为 LitElement 标记的 `css` 模板字符串.
-- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - 在 LitElement 组件中加载 PostCSS 处理的样式表的汇总插件.
-- [web-components-codemods](https://github.com/kcmr/web-components-codemods) - 与 lit-html 模板文字兼容的 Web 组件的 Codemods.
+### Building
+
+- [babel-plugin-lit-property-types-from-ts](https://www.npmjs.com/package/babel-plugin-lit-property-types-from-ts) - Babel 插件，用于根据 TypeScript 类型注释为 Lit 组件中声明的反应性属性设置 `type`.
+- [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - 用于缩小标记模板字符串中的 HTML 的 Babel 插件.
+- [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild 插件将 css 文件导入为 JavaScript 标记模板文字对象.
+- [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack 加载器将 css 文件作为 JavaScript 标记模板文字对象导入.
+- [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - 用于将 CSS/SCSS 导入 Lit 组件的 Webpack 加载器.
+- [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - 汇总插件将 css 文件导入为 JavaScript 标记模板文字对象.
+- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup 插件以缩小标记模板字符串中的 HTML.
+- [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - 在 Lit 组件中加载 PostCSS 处理过的样式表的 Rollup 插件.
+
+### Linting
+
+- [eslint-plugin-lit](https://www.npmjs.com/package/eslint-plugin-lit) - 用于 Lit 模板字符串的 ESLint 插件.
+- [eslint-plugin-lit-a11y](https://www.npmjs.com/package/eslint-plugin-lit-a11y) - Lit 模板的可访问性 linting 插件.
+- [lit-analyzer](https://www.npmjs.com/package/lit-analyzer) - 类型检查 Lit 模板中的绑定的 CLI.
+
+### IDE Plugins
+
+- [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - lit-html 模板字符串的语法高亮和智能感知.
+- [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - lit-html 的语法高亮、类型检查和代码完成.
+- [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode 扩展，它为 ES6 多行字符串中的 HTML 提供语法高亮显示.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - 标记模板文字内 HTML 的语法突出显示和缩进.
+
+### TypeScript Plugins
+
+- [ts-lit-plugin](https://www.npmjs.com/package/ts-lit-plugin) - 为 Lit 模板添加类型检查和代码完成的插件.
+- [typescript-lit-html-plugin](https://www.npmjs.com/package/typescript-lit-html-plugin) - 为 Lit 模板添加 IntelliSense 的 TypeScript 服务器插件.
+
+### Other Tools
+
+- [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - 用于为 Web 组件生成 API 文档的 CLI 工具.
+- [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于普通 Web 组件片段的 UI 开发环境.
+- [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - 用于使用 Web 组件的开发人员的浏览器扩展.
+- [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - 用于生成、构建、测试和发布 Web 组件的 CLI 工具.
 
 ## CDN
 
@@ -185,6 +203,7 @@ See [this issue](https://github.com/lit/lit-element/issues/603) 其中讨论了 
 - [Efficient, Expressive, and Extensible HTML Templates (Polymer Summit 2017)](https://www.youtube.com/watch?v=ruql541T7gc)
 - [lit-HTML (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=Io6JjgckHbg)
 - [Lit Beta Launch Event (2021)](https://www.youtube.com/watch?v=f1j7b696L-E)
+- [Lit 2.0 Release Livestream](https://www.youtube.com/watch?v=nfb779XIhsU)
 - [VDOM vs lit-html - HTTP203](https://www.youtube.com/watch?v=uCHZJy2n8Qs)
 - [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
 - [Building a Complex Application with Web Components and LitElement](https://www.youtube.com/watch?v=x9YDQUJx2uw)

@@ -186,6 +186,7 @@
 - [Deno](https://github.com/denolib/awesome-deno#readme) - 使用 V8 并使用 Rust 构建的 JavaScript 和 TypeScript 的安全运行时.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 基于 x86 的个人计算机的操作系统，在 1980 年代和 1990 年代初期流行.
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重现.
+- [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）链接在一起以在功能上作为一个整体进行协作.
 
 ## Programming Languages
 
@@ -215,13 +216,13 @@
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - 可选的 Python 静态类型.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精益和高效实现.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精简和高效实现.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
-	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - 基于 LLVM 为 Scala 优化提前编译器.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -564,7 +565,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于 CSS——语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 学习如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供清晰的途径来提高您的知识和技能.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您有关技术的知识.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看 YouTube 用户的视频教程，教您技术知识.
 
 ## Security
 
@@ -806,7 +807,7 @@
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - GitHub 上的所有精彩列表.
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - 搜索真棒数据集.
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - 快速搜索真棒列表.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - 使用浏览器扩展从 Awesome 数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - 一个简单的命令行工具，可以深入到很棒的列表中.
