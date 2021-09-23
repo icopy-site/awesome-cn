@@ -34,7 +34,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 ## Starter Templates
 
-- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用 LitElement 和 JavaScript 的示例组件.
+- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用带有 JavaScript 的 LitElement 的示例组件.
 - [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - 使用 LitElement 和 TypeScript 的示例组件.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 使用 Lit 用 TypeScript 编写的简单入门 Web 组件.
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - 基于 Open Web Components Recommendations 的入门应用程序.
@@ -65,9 +65,16 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
 - [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
 - [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
-- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element)
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
+
+## Examples
+
+- [Lit Native](https://github.com/rodydavis/lit-native) - 在本机平台上重用 Lit Web 组件.
+- [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - 使用画布 API 和简单的图形数据结构构建的节点编辑器.
+- [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 使用 Lit、Three.js 和 Tone.js 构建的 3D 钢琴.
+- [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - 使用 Lit 的常见模式的代码示例.
+- [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - 使用 Vite 运行 RxDB 的最小示例.
 
 ## Lit Labs
 
@@ -75,7 +82,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - 用于服务器端渲染 Lit 模板和组件的包.
 - [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - 点亮指令让事情动起来.
 - [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - 针对 Web 组件和反应式 Lit 控制器的反应集成.
-- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成，以评估提案并促进反馈.
 - [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - 呈现异步任务的 Lit 控制器.
 - [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - 为 Lit 提供虚拟滚动的包.
 
@@ -113,7 +120,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 自定义元素符合 Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - 用于创建使用 lit-html 和 LitElement 构建的界面的 Web 组件.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - chartjs 的 Web 组件.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs 的 Web 组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [ESP Web Tools](https://github.com/esphome/esp-web-tools) - 允许通过浏览器刷入 ESPHome 或其他基于 ESP 的固件.
@@ -139,13 +146,15 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) - 易于使用、可定制且易于访问的汉堡按钮元素.
 - [`<code-block>`](https://github.com/justinribeiro/code-block) - 使用 Prism.js 和 LitElement 显示彩色格式代码的 Web 组件.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - 单击时显示 CodeSandbox 演示的自定义元素.
-- [`<dile-modal>`](https://github.com/Polydile/dile-modal) - 基于 LitElement 实现模式框的 Web 组件.
-- [`<erd-editor>`](https://github.com/vuerd/vuerd) - 使用 LitElement 构建的 ERD Editor 元素数据库建模工具
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - 使用 qr.js 库生成和呈现 QR 码的自定义元素.
+- [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - 用于创建使用 Lit 构建的 CSS 动画的 Web 组件.
+- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 用于在树视图中可视化 JSON 数据的 Web 组件.
+- [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Lit 的全功能 JavaScript 图像和视频库.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - 数据表的 Material Design 实现，由 LitElement 提供支持.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - 用于轻松嵌入和播放 Lottie 动画的 Web 组件.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - 用于渲染交互式 3D 模型的 Web 组件.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - 用于查看 OpenAPI 3.0 和 Swagger 2.0 规范的 Web 组件.
+- [`<round-slider>`](https://github.com/thomasloven/round-slider) - 使用 Lit 构建的简单圆形滑块 Web 组件.
 - [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement Web 组件，利用 Three.js 显示 STL 模型文件.
 
 ## Tools
@@ -183,7 +192,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - 用于为 Web 组件生成 API 文档的 CLI 工具.
 - [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于普通 Web 组件片段的 UI 开发环境.
-- [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
+- [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - 与 lit-html 模板文字兼容的 Web 组件的 Codemods.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - 用于使用 Web 组件的开发人员的浏览器扩展.
 - [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - 用于生成、构建、测试和发布 Web 组件的 CLI 工具.
 
@@ -196,7 +205,12 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
 
-See [this issue](https://github.com/lit/lit-element/issues/603) 其中讨论了 CDN 分发的静态构建.
+See [this issue](https://github.com/lit/lit/issues/1257) 其中讨论了 CDN 分发的静态构建.
+
+## Integrations
+
+- [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
+- [Ruby2JS](https://github.com/ruby2js/ruby2js) - 最小但可扩展的 Ruby 到 JavaScript 的转换.
 
 ## Videos
 
@@ -234,11 +248,11 @@ lit-html 创作者 Justin Fagnani 的一集.
 ## Similar libraries
 
 这些库与 Lit 无关，但使用类似的概念构建. 他们使用`html`标记
-模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
+template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) 用于语法高亮.
 
-- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但用于标准 Web 组件和 hyperHTML 或 lit-html.
+- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但适用于标准 Web 组件和 hyperHTML 或 lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
-- [hybrids](https://github.com/hybridsjs/hybrids) - 用于创建具有简单和功能 API 的 Web 组件的 UI 库.
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.
 
 ## Other awesome resources

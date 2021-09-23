@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
-&gt; 用于 GNOME 桌面环境的 _awesome_ 应用程序、扩展、模块、主题和工具的精选列表.
+&gt; GNOME 桌面环境的 _awesome_ 应用程序、扩展、模块、主题和工具的精选列表.
 
 [GNOME](https://www.gnome.org/) 是 Linux 和 Unix 的桌面环境，旨在让用户控制并完成工作. 它在其应用程序中使用 GTK，在其官方桌面 shell 中使用 Clutter 和 JavaScript.
 
@@ -26,7 +26,7 @@
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader)  - 从谷歌字体获取字体.  ![GNOME 圈子][GNOME 圈子]
 - [Tangram](https://github.com/sonnyp/Tangram)  - 将您的 web 应用程序分组到一个应用程序中.  ![GNOME 圈子][GNOME 圈子]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直标签的 Web 浏览器.
-- [Geary](https://wiki.gnome.org/Apps/Geary) - 现代邮件客户端，最初由 Yorba 创建.
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - RSS/Atom 提要阅读器.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - 推特客户端.
 - [Jami](https://jami.net/) - Jami 客户端，一种安全通信工具.
@@ -96,6 +96,7 @@
 - [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - 为每台显示器设置不同的背景.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - 用于编辑 GNOME 的 XML 壁纸的实用程序
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - 异构 Linux 服务器的统一管理面板.
+- [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - 动态壁纸等 MacOS 画廊，以及安装它们的简单脚本
 
 ### Utilities
 
@@ -122,7 +123,7 @@
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder)  - 用于创建 GNOME 应用程序的官方 IDE.  ![GNOME 核心][GNOME 核心]
 - [Gaphor](https://gaphor.org)  - UML 和 SysML 的简单建模工具.  ![GNOME 圈子][GNOME 圈子]
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)  - 轻松创建@font-face 工具包.  ![GNOME 圈子][GNOME 圈子]
-- [GNOMIT](https://source.ind.ie/gnome/gnomit) - 简单的 Git 提交消息编辑器.
+- [Commit](https://apps.gnome.org/app/re.sonny.Commit/)  - 提交消息编辑器.  ![GNOME 圈子][GNOME 圈子]
 
 #### Design Tooling
 
@@ -150,7 +151,7 @@
 - [Notes](https://github.com/maoschanz/notes-extension-gnome) - 可定制的便签.
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/)  - 基于类别的应用程序菜单.  ![GNOME 经典][GNOME 核心]
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)  - 提供对文件夹的快速访问的菜单.  ![GNOME 经典][GNOME 核心]
 - [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) - 类似于 Windows7 的应用程序菜单，灵感来自 Zorin OS 中的菜单.
 

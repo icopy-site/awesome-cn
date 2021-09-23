@@ -170,7 +170,7 @@
 
 - [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - 将身份归因于软件版本可能比想象的要困难.
 - [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html)  - 构建软件很难. 构建构建软件的软件更难.
-- [Falsehoods about REST APIs](http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - 创建和记录 API 时要注意的陷阱.
+- [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - 创建和记录 API 时要注意的陷阱.
 - [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - 虽然 RFC4180 存在，但它远非确定性并且在很大程度上被忽略.
 - [Falsehoods about Package Managers](https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html) - 涵盖包裹及其经理.
 - [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - 试图建立一个关于测试的虚假清单.
