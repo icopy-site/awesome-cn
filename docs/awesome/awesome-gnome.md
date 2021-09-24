@@ -26,7 +26,7 @@
 - [Font Downloader](https://github.com/GustavoPeredo/font-downloader)  - 从谷歌字体获取字体.  ![GNOME 圈子][GNOME 圈子]
 - [Tangram](https://github.com/sonnyp/Tangram)  - 将您的 web 应用程序分组到一个应用程序中.  ![GNOME 圈子][GNOME 圈子]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直标签的 Web 浏览器.
-- [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
+- [Geary](https://wiki.gnome.org/Apps/Geary) - 现代邮件客户端，最初由 Yorba 创建.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - RSS/Atom 提要阅读器.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - 推特客户端.
 - [Jami](https://jami.net/) - Jami 客户端，一种安全通信工具.
@@ -69,7 +69,7 @@
 - [Curlew](https://curlew.sourceforge.io/) - 多媒体转换器.
 - [Pitivi](http://www.pitivi.org/) - 美丽而强大的视频编辑器.
 - [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - 收听您最喜爱的播客.
-- [Spot](https://github.com/xou816/spot) - Spotify 客户端.
+- [Spot](https://github.com/xou816/spot) - Spotify Client.
 - [Clapper](https://github.com/Rafostar/clapper) - 简单而现代的媒体播放器.
 
 ### Graphics
@@ -124,13 +124,16 @@
 - [Gaphor](https://gaphor.org)  - UML 和 SysML 的简单建模工具.  ![GNOME 圈子][GNOME 圈子]
 - [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)  - 轻松创建@font-face 工具包.  ![GNOME 圈子][GNOME 圈子]
 - [Commit](https://apps.gnome.org/app/re.sonny.Commit/)  - 提交消息编辑器.  ![GNOME 圈子][GNOME 圈子]
+- [Sysproof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - 分析应用程序或整个系统.
+- [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - 用于浏览和搜索 API 文档的开发工具.
 
 #### Design Tooling
 
 - [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - 预览图标的简单实用程序.
 - [Palette](https://gitlab.gnome.org/World/design/palette) - 用于查看 GNOME 调色板的工具.
 - [Contrast](https://gitlab.gnome.org/World/design/contrast) - 检查两种颜色之间的对比度.
-- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) - 找到要在 GNOME 应用程序上使用的正确图标.
+- [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - 您的应用程序的符号图标.
+- [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - 符号变得容易.
 
 ### Others
 
@@ -196,36 +199,6 @@
 - [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - 将 GMail 与您的桌面集成.
 
 ## Look and Feel
-
-### Themes
-
- &gt; **注意：** GNOME 不正式支持主题化，并且自定义 gtk 样式表无法在每个应用程序中进行测试. 这意味着某些应用程序可能对此处的某些主题存在问题. 您可以使用命令行、dconf 或 Tweaks 更改 GTK 主题，但这也意味着如果出现任何问题，您可以保留这些部分:)
-
-- [Oomox](https://github.com/themix-project/oomox) - 生成 Numix 和 Materia 主题的不同颜色变化.
-
-#### Upstream-based
-
-&gt; 扩展上游主题或符合上游主题的主题.
-
-- [Yaru](https://github.com/ubuntu/yaru)  - Ubuntu 的官方社区制作风格.  （GTK，壳牌）
-- [Pop](https://github.com/pop-os/gtk-theme/)  - 来自 System76 的 Pop!\_OS 官方主题.  （GTK，壳牌）
-
-#### Material
-
-- [Materia](https://github.com/nana-4/materia-theme)  - 类似材料设计的主题.  （GTK，壳牌）
-- [Vimix](https://github.com/vinceliuice/vimix-gtk-themes)  - 平面材料设计主题.  （GTK，壳牌）
-- [Plata](https://gitlab.com/tista500/plata-theme)  - 基于 Material Design Refresh 的 Gtk 主题.  （GTK，壳牌）
-
-#### Flat
-
-- [Arc](https://github.com/jnsh/arc-theme)  - 带有透明元素的扁平主题.  （GTK，壳牌）
-- [Numix](https://github.com/numixproject/numix-gtk-theme)  - 流行的扁平半暗主题，带有橙色的触感.  (GTK)
-- [Zukitre](https://github.com/lassekongo83/zuki-themes)  - 纯灰色主题，zuki 主题套件的一部分.  （GTK，与 Zuki-Shell 一起用于 shell 主题）
-
-#### Skeumorphic
-
-- [Greybird](https://github.com/shimmerproject/Greybird/)  - 官方Xubuntu主题.  (GTK)
-- [Zukitwo](https://github.com/lassekongo83/zuki-themes)  - 拟物灰色主题，zuki 主题套件的一部分.  （GTK，与 Zuki-Shell 一起用于 shell 主题）.
 
 ### Icons
 

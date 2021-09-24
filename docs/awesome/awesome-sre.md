@@ -7,13 +7,14 @@
 一个很棒的精选清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
 
 #### What is Site Reliability Engineering?
- &gt; “从根本上说，这就是当您要求软件工程师设计操作功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
+ &gt; “从根本上说，这就是当您要求软件工程师设计运维功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
 
 ## Contributing
 
 请看一下 [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) 第一的.
 总是欢迎贡献！
 
+- [Awesome Site Reliability Engineering  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-site-reliability-engineering--)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -85,7 +86,7 @@
 * [A Gentle Introduction to SRE](http://geekologist.co/introduction-to-sre/)
 * [Understanding Site Reliability Engineering through Movies and Books](http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/)
 * [GOTO 2017 • Site Reliability Engineering at Google • Christof Leng](https://www.youtube.com/watch?v=Cxb7a8lTv8A)
-* 成功的地理分布的 SRE 团队的组成 - [Part1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p) & [Part2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
+* 成功的地理分布 SRE 团队的组成 - [Part1](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p) & [Part2](https://engineering.linkedin.com/blog/2018/03/the-makeup-of-successful-geographically-distributed-sre-teams--p0)
 * [Tech Leadership in SRE](https://www.youtube.com/watch?v=6G2V1xPIM64)
 * [The Azure Podcast: Episode 227 - Azure SRE](http://azpodcast.azurewebsites.net/post/Episode-227-Azure-SRE1)
 * [The human scalability of "DevOps"](https://medium.com/@mattklein123/the-human-scalability-of-devops-e36c37d3db6a)
@@ -444,9 +445,10 @@
 * [SRECon EMEA 2019 Recap](https://speakerdeck.com/dastergon/srecon-emea-2019-recap-sre-muc-meetup)
 * [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 * [Site Reliability Engineering for Native Mobile Apps - Abhijith Krishnappa](https://www.infoq.com/articles/site-reliability-engineering-mobile-apps/) - 案例研究：Halodoc 对原生移动应用程序的 SRE 原则的适应
+* [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
 
 ## Real-time Messaging
-* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般地讨论站点可靠性工程.
+* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般讨论站点可靠性工程.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - 关于事件响应的讨论.
 * [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
@@ -487,7 +489,7 @@
 * [Site Reliability Engineering India](https://www.meetup.com/site-reliability-enggineering/) - SRE Meetup 印度
 
 ## Twitter
-* [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE 推特账户.
+* [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE Twitter 帐户.
 * [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书的官方推特账号.
 * [SREcon](https://twitter.com/SREcon) - SRECon 的官方推特账号.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作簿的官方 Twitter 帐户.

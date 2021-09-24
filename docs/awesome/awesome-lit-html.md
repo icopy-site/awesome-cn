@@ -37,9 +37,12 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用带有 JavaScript 的 LitElement 的示例组件.
 - [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - 使用 LitElement 和 TypeScript 的示例组件.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 使用 Lit 用 TypeScript 编写的简单入门 Web 组件.
+- [Lit Sass JavaScript Starter](https://github.com/e111077/lit-sass-js-starter) - 使用 Rollup 对 SASS + JS + Lit 进行简单设置的项目.
+- [Lit Sass TypeScript Starter](https://github.com/e111077/lit-sass-ts-starter) - 使用 Rollup 对 SASS + TS + Lit 进行简单设置的项目.
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - 基于 Open Web Components Recommendations 的入门应用程序.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - PWABuilder pwa-starter 的 LitElement 版本.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - 按照现代 Web 标准构建渐进式 Web 应用程序.
+- [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) - 使用 Lit 2、Typescript 和 SASS 的示例 Vite 项目.
 
 ## Codelabs
 
@@ -70,10 +73,12 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 ## Examples
 
+- [Lit Basics](https://vaadin.com/docs/latest/fusion/application/lit) - 一些例子概述了一般的 Lit 概念.
 - [Lit Native](https://github.com/rodydavis/lit-native) - 在本机平台上重用 Lit Web 组件.
 - [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - 使用画布 API 和简单的图形数据结构构建的节点编辑器.
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 使用 Lit、Three.js 和 Tone.js 构建的 3D 钢琴.
 - [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - 使用 Lit 的常见模式的代码示例.
+- [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - 代码示例显示从 Polymer 到 Lit 的迁移指南.
 - [Vite + RxDB + Lit](https://github.com/rodydavis/vite-rxdb-lit) - 使用 Vite 运行 RxDB 的最小示例.
 
 ## Lit Labs
@@ -124,6 +129,8 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [ESP Web Tools](https://github.com/esphome/esp-web-tools) - 允许通过浏览器刷入 ESPHome 或其他基于 ESP 的固件.
+- [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - 企业级 Web 组件集，最适合与 Eclipse Furo 配合使用.
+- [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Equinor Fusion 使用的一系列 Web 组件.
 - [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) - 来自 Infragistics 的完整 UI 组件库.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN 为任何项目生成 Web 组件.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - 用于快速开发 openEHR 和 FHIR 系统的 Web 组件.
@@ -132,6 +139,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [One Platform Components](https://github.com/1-Platform/op-components) - Red Hat One Platform 的一组 Web 组件.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - 使用 Web 组件的无服务器代码体验.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Stripe.js v3 元素的自定义元素包装器.
+- [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Leavitt Group Enterprises 使用的轻量级 Web 组件的集合.
 - [Vidstack Elements](https://github.com/vidstack/vds-elements) - 符合规范的可定制、可扩展、可访问和通用的媒体元素.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - 用于创建使用 Webview API 的 VSCode 扩展的组件.
 - [Web Components for TEI Publisher](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的 Web 组件及其生成的应用程序.
@@ -248,12 +256,12 @@ lit-html 创作者 Justin Fagnani 的一集.
 ## Similar libraries
 
 这些库与 Lit 无关，但使用类似的概念构建. 他们使用`html`标记
-template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) 用于语法高亮.
+模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
 
 - [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但适用于标准 Web 组件和 hyperHTML 或 lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
-- [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.
+- [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
 ## Other awesome resources
 

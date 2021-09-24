@@ -60,13 +60,13 @@
 
 -  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加了一个 `prose` 类.
 -  [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的纵横比实用程序.
--  [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供实用程序，用于在固定行数后从视觉上截断文本.
+-  [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供用于在固定行数后以视觉方式截断文本的实用程序.
 -  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 -  [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量进行主题化，支持暗模式.
 -  [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - 添加基于媒体查询和/或 CSS 选择器的主题变体.
 -  [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 添加基于单个`theme` 属性的主题变体.
 -  [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - 使用 CSS 变量进行主题化，支持媒体查询.
--  [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于`prefers-color-scheme` 媒体查询的变体.
+-  [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
 -  [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的 `dark` 变体.
 -  [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 基于`prefers-color-scheme` 媒体查询添加`dark` 变体.
 -  [Gap](https://github.com/benface/tailwindcss-gap) - 添加 `gap` 实用程序.
@@ -81,14 +81,14 @@
 -  [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - 添加`连字符`实用程序.
 -  [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - 添加`border-image`渐变实用程序.
 -  [RFS](https://github.com/aerni/tailwindcss-rfs) - 添加 [`RFS`](https://github.com/twbs/rfs) 公用事业.
--  [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - 重新添加在 Tailwind CSS 1.0 之前移除的 `list-reset` 类.
+-  [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - 重新添加在 Tailwind CSS 1.0 之前删除的 `list-reset` 类.
 -  [Fluid](https://github.com/bradlc/tailwindcss-fluid) - 添加流体调整实用程序.
 -  [Typography](https://github.com/benface/tailwindcss-typography) - 添加排版实用程序.
 -  [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - 添加 CSS 三角形实用程序.
 -  [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - 添加稀松布实用程序.
 -  [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - 添加实用程序来截断多行文本元素.
 -  [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - 为 CSS 逻辑属性生成实用程序.
--  [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - 为具有可配置边框和背景的工具提示箭头添加 CSS 实用程序.
+-  [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - 为带有可配置边框和背景的工具提示箭头添加 CSS 实用程序.
 -  [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - 添加用于创建多语言双向布局的实用程序.
 -  [Bidirectional](https://github.com/yassinebridi/tailwind-direction) - 将核心实用程序替换为双向兼容.
 -  [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - 注入 SVG 作为具有颜色变体的背景图像.
@@ -108,7 +108,7 @@
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - 添加了`RTL` 和`LTR` 变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
 -  [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体.
--  [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅对某些语言使用实用程序.
+-  [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅使用特定语言的实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) - 添加了一个“重要”变体.
 -  [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加用于匹配嵌套边框半径的变体.
 -  [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
@@ -139,7 +139,7 @@
 -  [Grid](https://github.com/chrisrowe/tailwindcss-grid) - 添加 CSS 网格实用程序.
 -  [Transforms](https://github.com/benface/tailwindcss-transforms) - 添加 `transform` 实用程序.
 -  [benface's transitions](https://github.com/benface/tailwindcss-transitions) - 添加可配置的过渡实用程序，带或不带 CSS 变量.
--  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - 添加可配置的转换实用程序.
+-  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - 添加可配置的过渡实用程序.
 -  [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - 添加基本的过渡实用程序.
 -  [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - 扩展 `cursor` 实用程序.
 -  [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - 添加了 `font-variant-numeric` 实用程序.
@@ -166,7 +166,7 @@
 -  [Grayscale Design](https://grayscale.design/) - 基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) - 带有方向选项的预配置 Tailwind CSS 渐变集合.
 -  [Palettolithic](https://palettolithic.com) - 基于一种颜色生成和谐调色板.
--  [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - 用零行代码创建完美的 Tailwind CSS 渐变.
+-  [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - Create perfect Tailwind CSS gradients with zero lines of code.
 -  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - 带有 Tailwind CSS v2 颜色的 Figma 库.
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) - Tailwind CSS 的颜色阴影生成器.
 -  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - 使用 Babel 编译代码时添加自定义暗类的 Babel 插件.
@@ -175,7 +175,7 @@
 -  [Stitches](https://stitches.hyperyolo.com/) - 带有 Tailwind 的模板生成器（在线）.
 -  [tail-animista](https://tail-animista.vercel.app) - 用于 Tailwind CSS 的可配置自定义动画实用程序生成器.
 -  [brands-tail-color](https://brands-tail-color.vercel.app/) - 使用各种品牌颜色的配置生成器.
--  [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS 拖放构建器，可快速构建和原型化网站.
+-  [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS 拖放构建器可快速构建和原型化网站.
 -  [Typography Playground](https://tailwind-typography-playground.vercel.app/) - 使用 Tailwind CSS Typography Plugin 尝试不同 Google 字体组合的工具.
 -  [Play](https://play.tailwindcss.com/) - Tailwind CSS 的高级在线游乐场.
 -  [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
@@ -200,15 +200,15 @@
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - 带有 PurgeCSS 和现代 CSS（预设 env 1）的 NuxtJS 的 Tailwind CSS 模块.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Preact 的 Tailwind CSS 集成.
 -  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，它提供了一个实用程序来对 Tailwind CSS 类进行排序.
--  [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
--  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 将 Tailwind CSS 与 Rails 的资产管道结合使用的 Gem.
+-  [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - 对类列表进行排序的漂亮插件.
+-  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) - 用于将 Tailwind CSS 与 Rails 的资产管道结合使用的 Gem.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - 生成 Tailwind 配置的 Zeplin 扩展.
 -  [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - Babel 宏，可将 Tailwind CSS 类转换为 CSS-in-JS 库的对象.
 -  [twin.macro](https://github.com/ben-rogerson/twin.macro) - 在任何 CSS-in-JS 库中使用 Tailwind 类.
 -  [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - 用于可视化 Tailwind CSS 配置文件的本地 UI 工具.
 -  [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的 Blade 表单组件.
 -  [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
--  [Gust](https://www.getgust.com) - 用于 WordPress 的拖放页面构建器.
+-  [Gust](https://www.getgust.com) - 拖放 WordPress 页面构建器.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 -  [Protoship Codegen](https://protoship.io) - 代码生成器，可从 Sketch 设计中创建基于 Tailwind CSS 的 HTML 和 CSS.
 -  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
@@ -229,7 +229,7 @@
 -  [Vechai UI](https://www.vechaiui.com/) - 使用 Tailwind CSS 具有内置暗模式的高质量可访问 React 组件.
 -  [Tailwind Made](https://tailwindmade.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
--  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的随时可用的 Tailwind CSS 块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
@@ -255,7 +255,7 @@
 -  [Landing Gradients](https://landing-gradients.netlify.app/) - 使用渐变的登陆页面模板 (1.7+).
 -  [Resume](https://github.com/mohusman360/mohusman360.github.io) - 使用 Tailwind CSS 的简单简历.
 -  [Resume](https://github.com/Thomashighbaugh/resume) - 使用 Tailwind CSS 构建的风格化简历模板，具有漂亮的英雄图案背景和自定义字体.
--  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React &amp; Tailwind CSS 构建的免费登陆页面模板.
+-  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - 使用 Vue 3 和 Tailwind CSS 构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - 使用 Nuxt.js 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [Tailmin](https://github.com/otezz/tailmin) - 使用 Vue.js 和 Tailwind CSS 构建的管理仪表板.
@@ -305,6 +305,7 @@
 -  [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - 使用 Vue 和 Tailwind CSS 进行 Shopify 主题开发入门.
 -  [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - 使用 Tailwind CSS 和 Alpine JS 的仪表板布局.
 -  [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - 使用 Jekyll 和 Tailwind CSS 的生产就绪、SEO 友好、高性能登陆网站样板.
+-  [Next JS Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Next.js 和 Tailwind CSS 的样板.
 
 ## Open-Source Projects
 

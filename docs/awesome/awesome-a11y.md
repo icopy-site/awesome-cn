@@ -1,6 +1,8 @@
 <div class="github-widget" data-repo="brunopulis/awesome-a11y"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+.;.;/# Awesome Accessibility [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+*有关此文件的葡萄牙语版本，请参阅 [README.pt-BR](https://github.com/brunopulis/awesome-a11y/blob/master/README-pt-br.md).*
 
 ![The #a11y hashtag with the ones replaced by a fist giving the rock and roll sign.](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
 
@@ -12,11 +14,12 @@
 *请阅读 [contribution guidelines](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md) 在贡献之前. *
 
 
-- [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
+- [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)  
 - [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles-and-videos.md)
 - [Assistive Technology](https://github.com/brunopulis/awesome-a11y/blob/master/topics/assistive-technology.md)
 - [Blogs](https://github.com/brunopulis/awesome-a11y/blob/master/topics/blogs.md)
 - [Books](https://github.com/brunopulis/awesome-a11y/blob/master/topics/books.md)
+- [Certificates](https://github.com/brunopulis/awesome-a11y/blob/master/topics/certificates.md)
 - [Companies and Organizations](https://github.com/brunopulis/awesome-a11y/blob/master/topics/companies-and-organizations.md)
 - [Conferences](https://github.com/brunopulis/awesome-a11y/blob/master/topics/conferences.md)
 - [Courses](https://github.com/brunopulis/awesome-a11y/blob/master/topics/courses.md)

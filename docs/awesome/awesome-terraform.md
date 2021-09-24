@@ -6,9 +6,9 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编码为声明性配置文件，可在团队成员之间共享、视为代码、编辑、审查和版本化.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编码为可在团队成员之间共享、视为代码、编辑、审查和版本化的声明性配置文件.
 
-由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
+Sponsored by [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
 <a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/2VPBJDv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
 
@@ -55,9 +55,9 @@
 
 ### Beginner Guides
 
-- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - 来自“Terraform: Up &amp; Running”作者的一系列博客文章，指导读者从开始使用 Terraform 到在现实世界中使用它.
+- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - 来自“Terraform: Up &amp; Running”作者的一系列博客文章，指导读者从 Terraform 开始到在现实世界中使用它.
 - [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - 供应 EC2 实例.
-- [Hello, world: The Fargate/Terraform tutorial I wish I had](https://section411.com/2019/07/hello-world/) - 描述从头开始设置 ECS Fargate 集群的博客文章
+- [Hello, world: The Fargate/Terraform tutorial I wish I had](https://section411.com/2019/07/hello-world/) - Blog post describing setting up an ECS Fargate cluster from scratch
 
 ### Writing Custom Providers
 
@@ -94,7 +94,7 @@
 
 ### Miscellaneous
 
-- [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - Illustrates how to use remote state to share data between Terraform configurations.
+- [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - 说明如何使用远程状态在 Terraform 配置之间共享数据.
 - [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - 展示了由 Terraform 提供支持的基础设施的幕后，解决了 [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) 在 [Segment](https://segment.com/).
 - [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 - [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - 一些在野外使用 Terraform 来之不易的经验，以及一些操作智慧.
@@ -210,7 +210,7 @@
 - [hcledit](https://github.com/minamijoyo/hcledit) - HCL 的命令行编辑器.
 - [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - 将 JSON 格式的 IAM 策略转换为 Terraform aws_iam_policy_document 的小工具
 - [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML 到 Terraform HCL 转换器.
-- [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+- [KICS](https://github.com/Checkmarx/kics)  - 扫描 IaC 项目的安全漏洞、合规性问题和基础设施配置错误. 目前正在处理 Terraform 项目、Kubernetes 清单、Dockerfiles、AWS CloudFormation 模板和 Ansible playbooks.
 - [Infracost](https://github.com/infracost/infracost) - CLI 和拉取请求中 Terraform 的云成本估算.
 - [json2hcl](https://github.com/kvz/json2hcl)  - 将 JSON 转换为 HCL，反之亦然.  ：鬼：
 - [modules.tf](https://modules.tf/) - 基础设施作为代码生成器 - 来自使用创建的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到地形. [Source code](https://github.com/antonbabenko/modules.tf-lambda).
@@ -224,6 +224,7 @@
 - [scenery](https://github.com/dmlittle/scenery)  - 另一个 Terraform 计划输出美化器.  ：鬼：
 - [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - 帮助模块开发的简单 Python 工具 - 从 `main.tf` 中提取变量以生成 `variables.tf` 并从 `variables.tf` 生成模块使用存根.
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf 是一个自以为是的开源框架，用于使用 Terraform 在 AWS 上开发、构建、部署和保护无服务器应用程序和基础设施. [Read more](https://github.com/antonbabenko/serverless.tf).
+- [Shisho](https://github.com/flatt-security/shisho) - Terraform 的轻量级静态分析器.
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Ansible 和 Terraform 的强大功能 + Docker Swarm 的简单性 = 基础设施即代码和 DevOps 最佳实践.
 - [tau](https://github.com/avinor/tau) - Tau 是 terraform 之上的一个薄包装器，用于管理多个部署、依赖项和机密.
 - [terraboard](https://github.com/camptocamp/terraboard) - 用于检查 Terraform 状态的 Web 仪表板.
@@ -232,7 +233,7 @@
 - [terrafile](https://github.com/coretech/terrafile) - 系统地管理来自 Github 的外部模块以用于 Terraform（用 Go 编写）.
 - [terrafile](https://github.com/dxw/terrafile) - 系统地管理来自 Github 的外部模块以用于 Terraform（用 Ruby 编写）.
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle)  - 轻松构建包含 Terraform 二进制文件和提供程序二进制文件的包. 对 CI 和气隙 Terraform Enterprise 很有用.
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Terraform 的 CDK（云开发工具包）允许开发人员使用熟悉的编程语言来定义云基础设施并通过 HashiCorp Terraform 进行配置.
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - 用于 Terraform 的 CDK（云开发工具包）允许开发人员使用熟悉的编程语言来定义云基础架构并通过 HashiCorp Terraform 进行配置.
 - [terraform-docs](https://github.com/segmentio/terraform-docs) - 从 terraform 模块生成文档的快速实用程序.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - 命令行工具允许将 terraform graph 命令几乎不可用的输出转换为更有意义和解释性的内容.
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *（仅 0.11 及更早版本）* 改进 Terraform 的计划输出，使其更易于阅读和理解.
@@ -243,7 +244,7 @@
 - [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  - 用于从现有基础设施生成 terraform 文件的 CLI 工具. 基础设施到代码. 支持许多提供商.
 - [terraforming](https://github.com/dtan4/terraforming)  - 将现有 AWS 资源导出为 Terraform 样式（tf、tfstate）. 类似于`terraformer`.
-- [terraformize](https://github.com/naorlivne/terraformize) - 通过简单的 REST API 端点应用\Destory Terraform 模块.
+- [terraformize](https://github.com/naorlivne/terraformize) - 通过简单的 REST API 端点应用\销毁 Terraform 模块.
 - [Terraform-Visual](https://github.com/hieven/terraform-visual) 一个简单但功能强大的工具，用于可视化 Terraform 计划.
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt 是 Terraform 的一个瘦包装器，它提供了额外的工具来保持您的 Terraform 配置干燥、使用多个 Terraform 模块以及管理远程状态.
 - [terrahelp](https://github.com/opencredo/terrahelp) - 旨在提供补充功能的命令行实用程序，在使用 Terraform 时有时会证明这些功能很有用.
@@ -252,7 +253,7 @@
 - [terraspace](https://terraspace.cloud) - Terraform 框架
 - [terratag](https://github.com/env0/terratag) - Terratag 是一种 CLI 工具，它使 Terraform 的用户能够在其整个 AWS、Azure 和 GCP 资源集上自动创建和维护标签.
 - [tf-init-booster](https://github.com/hayorov/terraform-init-booster) 一个 Pre-terraform 例程，可加速 terraform 模块下载庞大的蓝图.
-- [tfsec](https://github.com/tfsec/tfsec) - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+- [tfsec](https://github.com/tfsec/tfsec) - Terraform 静态分析工具，支持 terraform &lt;0.12 &amp; &gt;=0.12 &amp; 直接与 HCL 解析器集成以获得更好的结果.
 - [tfenv](https://github.com/tfutils/tfenv) - 受 rbenv 启发的 Terraform 版本管理器.
 - [tfjson](https://github.com/palantir/tfjson)  - 读取 Terraform 计划文件并将其转储为 JSON 的实用程序.  ：颅骨：
 - [tflint](https://github.com/wata727/tflint) - Terraform linter 用于检测“terraform plan”无法检测到的错误
@@ -260,7 +261,7 @@
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - GitOps 的 Terraform 状态迁移工具.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 terraform 管理的 AWS 基础设施的框架.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Terraform 提供程序的架构检查器.
-- [tfupdate](https://github.com/minamijoyo/tfupdate) - 更新 Terraform 配置中的版本约束.
+- [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem 为运行 Hashicorp Terraform 提供 rake 任务.
 - [tgf](https://github.com/coveo/tgf) - Terragrunt 前端，用于通过 Docker 执行 Terragrunt/Terraform.
 - [xterrafile](https://github.com/devopsmakers/xterrafile) 从模块注册表、git 或本地目录系统地管理外部模块以在 Terraform 中使用（用 Go 编写）.
@@ -282,7 +283,8 @@
 - [terraform-enterprise-client](https://github.com/skierkowski/terraform-enterprise-client) - Terraform Enterprise API Ruby 客户端和命令行工具.
 - [terraform-enterprise-migrator](https://github.com/silinternational/terraform-enterprise-migrator) - 用于将 Terraform Enterprise 环境从 Legacy 迁移到新版本 Terraform Enterprise 的脚本.
 - [tfe-state-explorer](https://github.com/segmentio/tfe-state-explorer) - 用于探索远程 terraform 企业状态的简单外壳，具有自动完成功能.
-- [Scalr](https://scalr.com) - 替代具有 OPA 集成的 Terraform Enterprise
+- [Scalr](https://scalr.com) - 具有 OPA 集成的 Terraform Enterprise 的替代方案：heavy_dollar_sign：
+- [env0](https://env0.com) - 替代具有 OPA 集成、自定义流和 Terragrunt 支持的 Terraform Cloud/Enterprise：heavy_dollar_sign：
 
 ## Videos
 

@@ -1,7 +1,5 @@
 <div class="github-widget" data-repo="MunGell/awesome-for-beginners"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[![Himnadram](https://raw.githubusercontent.com/MunGell/awesome-for-beginners/master/assets/himnadram-dark.jpg)](https://bit.ly/himnadram_donate)
-
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一个很棒的初学者友好项目列表.
@@ -29,7 +27,7 @@
 ## C#
 
 - [grok.net](https://github.com/Marusyk/grok.net/labels/good%20first%20issue)  _（标签：第一期好）_<br> 跨平台 .NET grok 实现
-- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy)  _（标签：简单）_<br> 支持早期 Westwood 经典游戏的实时战略游戏引擎，例如命令与征服：红色警戒.
+- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good-first-issue)  _（标签：good-first-issue）_<br> 音乐游戏. 节奏只需*点击*即可！
 - [Uno Platform](https://github.com/unoplatform/uno/labels/good%20first%20issue) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 - [Cake](https://github.com/cake-build/cake/labels/Good%20first%20issue) _(label: Good first issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
@@ -77,7 +75,7 @@
 - [Terraform](https://github.com/hashicorp/terraform/labels/good%20first%20issue)  _（标签：第一期好）_<br> 一种用于安全有效地构建、更改和版本控制基础架构的工具.
 - [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors)  _（标签：新贡献者）_<br> 分布式可扩展混合事务和分析处理 (HTAP) 数据库
 - [script](https://github.com/bitfield/script/labels/good%20first%20issue)  _（标签：第一期好）_<br> 一个 Go 库，用于执行 shell 脚本擅长的任务：读取文件、执行子进程、计算行数、匹配字符串等. 非常欢迎初学者，他们将在 PR 过程中获得详细的代码审查和帮助.
-- [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted)  _（标签：需要帮助）_<br>  Go 的端到端 HTTP 和 REST API 测试.
+- [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Killgrave](https://github.com/friendsofgo/killgrave/labels/good%20first%20issue)  _（标签：第一期好）_<br> 在 Go 中生成模拟服务器的简单方法.
 - [lxd](https://github.com/lxc/lxd/labels/easy)  _（标签：简单）_<br> 系统容器和虚拟机管理器.
 - [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name%5B%5D=GoodFirstIssue)  _（标签：GoodFirstIssue）_<br>  Kubernetes 的负载均衡器编排器，使用标准 Linux 网络和路由协议.
@@ -91,7 +89,7 @@
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue)  _（标签：第一期好）_<br> 开源、分布式、RESTful 搜索引擎.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：第一期好）_<br> 使用现代 Java 功能（包括 JavaFX）管理参考文献的桌面应用程序. [Dedicated to code quality and constructive feedback](https://devdocs.jabref.org/getting-into-the-code/development-strategy)：每个 Pull Request 都由两名开发人员审查，以提供高质量的反馈并确保新贡献的高质量.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue)  _（标签：第一期好）_<br> 允许用户从他们的 Android 手机/平板电脑上传图片到维基共享资源.
-- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_<br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
+- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_<br> [XWiki](http://xwiki.org) 是一个用 Java 编写的免费 wiki 软件平台，其设计重点是可扩展性. 初学者应遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：第一期好）_<br> 无需编码的 API 自动化、简单的 JSON 响应断言、测试 REST、SOAP、Kafka 和 Java/DB API，CI/Jenkins 友好.
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：第一期好）_<br>  SirixDB 是一个进化的、版本化的 NoSQL 文档存储（XML 和 JSON）（大部分）用 Java 编写. 它使用从 ZFS 和 Git 借用的许多概念在提交期间存储紧凑快照. 每个修订版都被索引，并且可以使用时态查询来查询文档存储. 它特别适合现代硬件.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue)  _（标签：第一期好）_<br> 将图像转换为 PDF 文件的 Android 应用程序.
@@ -101,7 +99,7 @@
 ## JavaScript
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_<br>  OpenStreetMap 的规范通用品牌名称
-- [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue) _(label: good first issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
+- [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_<br>  JavaScript 中易于使用的 OpenStreetMap 编辑器.
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_<br>  Mission Control 是一个免费开放的市场，将自动驾驶汽车（例如无人机）与寻求包裹递送等服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_<br>  Missions 是一个移动网络应用程序，将希望通过自主无人机运送包裹的 DAV 用户连接到在开放和自由的市场中寻找工作的人.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_<br> 一个流行的语音识别库，用于与从网站到智能镜子再到飞行无人机的所有内容进行通信.
@@ -150,10 +148,10 @@
 - [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_<br>  p5.j​​s 是一个客户端 JS 平台，它使艺术家、设计师、学生和任何人都能够学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：第一期好）_<br>  Squirrelly 是一个轻量级的模板引擎，支持助手、过滤器、部分等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_<br>  NativeScript 是一个开源框架，用于使用 JavaScript 构建真正的原生移动应用程序. 使用 Web 技能，例如 Angular 和 Vue.js、FlexBox 和 CSS，并在 iOS 和 Android 上获得原生 UI 和性能.
-- [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue) _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
+- [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_<br> 使用 React 构建快速、现代的应用程序和网站.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue)  _（标签：第一期好）_<br> 渐进式 JavaScript 框架.
 - [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue)  _（标签：第一期好）_<br> 创建一个只使用 Markdown 的网页.
-- [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：第一期好）_<br>  Check It Out 是一个类似 ncurses 的 CLI，让用户可以交互式导航并选择要签出的 git 分支.
+- [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：第一期好）_<br>  Check It Out 是一个类似 ncurses 的 CLI，让用户以交互方式导航并选择要签出的 git 分支.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：第一期好）_<br> 从免费来源流式传输的多平台音乐播放器.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：第一期好）_<br>  React 组件以实现更快、更轻松的 Web 开发. 构建您自己的设计系统，或从 Material Design 开始.
 - [Meteor](https://github.com/meteor/meteor/labels/good%20first%20issue)  _（标签：第一期好）_<br>  Meteor 是用于构建现代 Web 应用程序的超简单环境.
@@ -291,7 +289,7 @@ Habitica 是一个游戏化的任务管理器，webapp 和 android/ios 应用程
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_<br>  Rust 的可扩展并发 Web 框架
 - [TiKV](https://github.com/tikv/tikv/labels/difficulty%2Feasy)  _（标签：D：难度/容易）_<br> 分布式事务键值数据库
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue)  _（标签：第一期好）_<br> 用 Rust 编写的 GitHub 时代的现代 shell.
-- [Hyper](https://github.com/hyperium/hyper/labels/E-easy)  _（标签：E-easy）_<br> 一个快速、安全和正确的 Rust 低级 HTTP 库.
+- [Hyper](https://github.com/hyperium/hyper/labels/E-easy) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter/labels/good%20first%20issue)  _（标签：第一期好）_<br>  ⚡️用于`.env` 文件的Lightning-fast linter. 用 Rust 编写 
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name%5B%5D=beginner)  _（标签：初学者和难度::容易）_<br>  Veloren 是用 Rust 编写的多人体素 RPG.
 
@@ -324,6 +322,27 @@ Habitica 是一个游戏化的任务管理器，webapp 和 android/ios 应用程
 ## Contribute
 
 欢迎投稿！ 见 [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
+
+## Thanks to GitHub Sponsors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/thamara">
+        <img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/>
+        <br />
+        <sub><b>塔玛拉·安德拉德</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ShehanAT">
+        <img src="https://avatars1.githubusercontent.com/u/24355366?v=4?s=60" width="60px;" alt=""/>
+        <br>
+        <sub><b>谢汉·阿图克拉拉</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## License
 
