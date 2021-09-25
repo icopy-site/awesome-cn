@@ -43,6 +43,8 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - PWABuilder pwa-starter 的 LitElement 版本.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - 按照现代 Web 标准构建渐进式 Web 应用程序.
 - [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) - 使用 Lit 2、Typescript 和 SASS 的示例 Vite 项目.
+- [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Vite 的基于光照的模板预设.
+- [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Vite 的基于 Lit 和 TypeScript 的模板预设.
 
 ## Codelabs
 
@@ -87,7 +89,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - 用于服务器端渲染 Lit 模板和组件的包.
 - [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - 点亮指令让事情动起来.
 - [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - 针对 Web 组件和反应式 Lit 控制器的反应集成.
-- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成，以评估提案并促进反馈.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
 - [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - 呈现异步任务的 Lit 控制器.
 - [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - 为 Lit 提供虚拟滚动的包.
 
@@ -95,6 +97,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [`@adobe/lit-mobx`](https://www.npmjs.com/package/@adobe/lit-mobx) - 使用带有 Lit 的 mobx 的 Mixin 和基类.
 - [`@apollo-elements/lit-apollo`](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement 与 Apollo GraphQL 的集成.
+- [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lit 2 的轻量级反应状态管理.
 - [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - 一组用于使用 TypeScript 和 Lit 构建表单的实用程序.
 - [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - 使用 Web 组件构建的用于暗模式的有用实用程序.
 - [`exome`](https://www.npmjs.com/package/exome) - 支持 Lit 的深层嵌套状态的状态管理器.
@@ -116,6 +119,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [Lion](https://github.com/ing-bank/lion) - 高性能、可访问且灵活的 Web 组件.
 - [Material Web Components](https://github.com/material-components/material-web) - Material Design 实现为 Web 组件.
 - [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components=) - 基于 Momentum Design 的 UI 组件集.
+- [Outline Design System](https://github.com/phase2/outline) - 基于 Web 组件的设计系统入门套件.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR 的设计系统可创造具有凝聚力、支持性和美丽的体验.
 - [Shoelace](https://github.com/shoelace-style/shoelace) - 基于与框架无关的技术构建的专业设计的 UI 组件的集合.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - 使用 LitElement 构建的 Adob​​e Spectrum 设计语言实现.
@@ -189,7 +193,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - lit-html 模板字符串的语法高亮和智能感知.
 - [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - lit-html 的语法高亮、类型检查和代码完成.
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode 扩展，它为 ES6 多行字符串中的 HTML 提供语法高亮显示.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - 标记模板文字内 HTML 的语法突出显示和缩进.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
 
 ### TypeScript Plugins
 
@@ -217,6 +221,7 @@ See [this issue](https://github.com/lit/lit/issues/1257) 其中讨论了 CDN 分
 
 ## Integrations
 
+- [Bridgetown Lit Renderer](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + 布里奇敦点燃组件的水合作用.
 - [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
 - [Ruby2JS](https://github.com/ruby2js/ruby2js) - 最小但可扩展的 Ruby 到 JavaScript 的转换.
 
@@ -261,7 +266,7 @@ lit-html 创作者 Justin Fagnani 的一集.
 - [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但适用于标准 Web 组件和 hyperHTML 或 lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
-- [lit-ntml](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
+- [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.
 
 ## Other awesome resources
 

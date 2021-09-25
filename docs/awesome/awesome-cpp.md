@@ -25,7 +25,7 @@
 * [C++ Workflow](https://github.com/sogou/workflow)  - C++ 并行计算和异步网络引擎.  [阿帕奇2]
 * [Cinder](https://libcinder.org/)  - 社区开发的免费开源库，用于专业品质的创意编码.  [BSD]
 * [CO](https://github.com/idealvin/co)  - C++ 库的集合，包含 go 风格的协程库、日志、JSON、RPC 框架和其他基础组件.  [麻省理工学院]
-* [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  - 一个小型的仅头文件库，可将各种工具从更新的 C++ 标准向后移植到 C++03 及更高版本.  [麻省理工学院]
+* [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  - 一个小型的、仅头文件的库，可将各种工具从较新的 C++ 标准向后移植到 C++03 及更高版本.  [麻省理工学院]
 * [Dlib](https://github.com/davisking/dlib) :zap: - 在 C++ 中制作真实世界机器学习和数据分析应用程序的工具包 [Boost] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  - 电子艺术标准模板库.  [BSD]
 * [ETL](https://github.com/ETLCPP/etl)  - 嵌入式模板库.  [麻省理工学院]
@@ -416,6 +416,7 @@
 * [RmlUi](https://github.com/mikke89/RmlUi)  - HTML/CSS 用户界面库不断发展.  libRocket 的分叉.  [麻省理工学院]
 * [Sciter](http://sciter.com/)  - Sciter 是一个可嵌入的 HTML/CSS/脚本引擎，旨在用作现代桌面应用程序的 UI 层.  [免费/商业]
 * [wxWidgets](http://wxwidgets.org/)  - 一个 C++ 库，允许开发人员使用单一代码库为 Windows、Mac OS X、Linux 和其他平台创建应用程序.  [自己的LGPL]
+* [xtd](https://github.com/gammasoft71/xtd)  - 现代 C++17/20 框架，用于在 Windows、macOS、Linux、iOS 和 android 上创建控制台 (CLI)、表单（GUI 类似于 WinForms）和 tunit（单元测试，例如 Microsoft 单元测试框架）应用程序.  [麻省理工学院]
 * [Yue](https://github.com/yue/yue)  - 用于创建本机跨平台 GUI 应用程序的库.  [LGPLv2]
 
 ## Graphics
@@ -630,7 +631,7 @@
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)  - 使用开放标准协议（RTP/RTCP、RTSP、SIP）的多媒体流媒体库.  [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC)  - libVLC (VLC SDK) 媒体框架.  [通用公共许可证]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)  - 方便地统一显示视频和音频文件最相关的技术和标签数据.  [BSD]
-* [QtAv](https://github.com/wang-bin/QtAV)  - 基于Qt和FFmpeg的多媒体播放框架，轻松编写播放器.  [LGPL] [website](http://wang-bin.github.io/QtAV/)
+* [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/)  :zap: - 简单的 DirectMedia 层.  [zlib]
 * [SFML](https://github.com/SFML/SFML)  :zap: - 简单快速的多媒体库.  [zlib] [website](http://www.sfml-dev.org/)
 * [TagLib](https://github.com/taglib/taglib)  - 用于读取和编辑几种流行音频格式的元数据的库.  [LGPL/MPL] [website](https://taglib.org/)
@@ -684,7 +685,7 @@
 * [Tufão](https://github.com/vinipsmaker/tufao)  - 基于 Qt 构建的 C++ 异步 Web 框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  - 严格符合 RFC 3986 的 URI 解析和处理库.  [BSD-3-条款]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  - µWS 是可用的最轻量、最高效和可扩展的 WebSocket 和 HTTP 服务器实现之一.  [Zlib]
-* [WAFer](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPL2]
+* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻型软件平台，用于可扩展的服务器端和网络应用程序. 为 C 程序员考虑 node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)  - 用于构建异步、事件驱动的现代 C++ 服务的客户端/服务器应用程序框架.  [Apache-2.0]
 * [wdt](https://github.com/facebook/wdt)  - 一个嵌入式库（和命令行工具），旨在通过多个 TCP 路径在两个系统之间尽可能快地传输数据.  [BSD-3-条款]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp)  - 基于 C++/Boost Asio 的 websocket 客户端/服务器库.  [BSD]

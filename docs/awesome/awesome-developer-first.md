@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-精选的开发人员优先工具、产品和资源的精选列表.  
+精选的开发者优先工具、产品和资源的精选列表.  
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
@@ -37,7 +37,7 @@
 
 ## CI/CD
 *持续集成/交付.*
-* [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行作业、作业市场.
+* [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 * [Gitlab](https://gitlab.com/) - 具有类似 Github 的能力的开源 CI 和托管解决方案.
 
 ## CMS (headless)
@@ -129,6 +129,7 @@
 * [imgix](https://www.imgix.com/) - 转换、优化和缓存图像.
 * [ImageKit](https://imagekit.io/) - 自动化图像优化、转换和交付.
 * [Mux](https://mux.com/) - 用于上传、管理和流式传输视频的 API.
+* [Pintura](https://pqina.nl/pintura) - 一个完全可配置的 JavaScript 图像编辑器 SDK.
 
 ## Messaging
 *消息 API - 短信、通知、聊天和 VoIP.*
@@ -167,7 +168,7 @@
 * [cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 
 ## Scraping
-*Fetching data from websites not via an intended API.*
+*不通过预期的 API 从网站获取数据.*
 * [Apify](https://apify.com/) - 将网站转变为 API.
 * [proxycrawl](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不会被阻止.

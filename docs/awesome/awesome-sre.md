@@ -14,7 +14,6 @@
 请看一下 [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) 第一的.
 总是欢迎贡献！
 
-- [Awesome Site Reliability Engineering  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-site-reliability-engineering--)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
