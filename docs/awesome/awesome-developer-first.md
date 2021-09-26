@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-精选的开发者优先工具、产品和资源的精选列表.  
+精选的开发人员优先工具、产品和资源的精选列表.  
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
@@ -24,6 +24,7 @@
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
 * [Heap](https://heap.io/) - 适用于 Web 和移动设备的产品分析 API，可捕获所有事件. 
+* [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型网络分析.
 
 ## Authentication & Identity
 *为您处理身份验证和用户身份的产品.*
@@ -33,7 +34,7 @@
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
-* [Oso](https://www.osohq.com/) - 授权框架（RBAC）
+* [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 
 ## CI/CD
 *持续集成/交付.*

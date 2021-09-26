@@ -52,7 +52,7 @@
 - [Hass.io](https://home-assistant.io/hassio/installation/) - 用于嵌入式设备的家庭自动化操作系统/应用程序，也可独立使用.
 - [HypriotOS](http://blog.hypriot.com/about/) - 最小的基于 Debian 的操作系统，针对运行 Docker 进行了优化.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - 用于 ARM 设备的渗透测试和道德黑客 Linux 发行版.
-- [Kano OS](http://developers.kano.me/downloads/) - 用于探索、创作和游戏的开源操作系统 - Raspberry Pi 和新的 Pi 3 免费.
+- [Kano OS](http://developers.kano.me/downloads/) - 用于探索、创建和游戏的开源操作系统 - Raspberry Pi 和新的 Pi 3 免费.
 - [Lakka](http://lakka.tv) - 完全基于 RetroArch 构建的 Raspberry Pi 上的复古游戏.
 - [LibreELEC](https://libreelec.tv/) - 刚好够 Kodi 使用的操作系统
 - [Manjaro](https://manjaro.org/download/) - 适用于 Raspberry Pi 的友好开源 Linux 发行版.
@@ -73,7 +73,7 @@
 - [PiNet](http://pinet.org.uk/) - 管理树莓派教室的系统.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - 匿名离线移动文件共享和通信系统.
 - [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm 是一种通信设备，可将纯文本以视觉或听觉方式转换为莫尔斯电码 (IMC).
-- [Raspberry Pi OS](https://www.raspberrypi.org/downloads/) - 官方支持的 Raspberry Pi 操作系统（以前称为“Raspbian”），基于 Debian，可作为精简版使用.
+- [Raspberry Pi OS](https://www.raspberrypi.org/downloads/) - 官方支持的 Raspberry Pi OS（以前称为“Raspbian”），基于 Debian，可作为精简版使用.
 - [Raspbian](http://www.raspbian.org/) - Raspbian 是基于 Debian 的免费操作系统，针对 Raspberry Pi 硬件进行了优化.
 - [RasPlex](http://www.rasplex.com/) - Raspberry Pi 的 Plex 客户端.
 - [Recalbox](https://www.recalbox.com) - 将轻量级复古游戏和媒体中心拖放到 Raspberry Pi 上.
@@ -109,6 +109,7 @@
 - [Pieman](https://github.com/tolstoyevsky/pieman) - 基于 Raspbian、Devuan、Ubuntu 和 Alpine Linux 创建自定义映像的脚本.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - Bash 脚本会自动缩小 pi 图像，然后在启动时将其调整为 SD 卡的最大大小.
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
+- [Pi-Apps](https://github.com/Botspot/pi-apps) - 最流行的 Raspberry Pi 计算机应用商店，100% 开源 bash 脚本.
 - [Processing](https://pi.processing.org/get-started/) - 在 Raspberry Pi 上运行的处理开发环境.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi 是一种基于 AI 的 Wi-Fi 破解工具，可从其周围的 WiFi 环境中学习，以最大限度地利用其捕获的可破解 WPA 密钥材料.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - 一个简单、响应迅速的 Web 界面，用于控制 Raspberry Pi 上的 wifi、hostapd 和相关服务.
@@ -208,7 +209,7 @@
 - **Kore Remote** - Official remote to control Kodi. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi 检查** - 检查 Pi 统计信息 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 - **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的相机查看图像并从不同传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
-- **Raspicast** - 从您的 android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、从 Raspberry Pi 上的播放列表（m3u、pls）播放流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+- **Raspicast** - 从您的 android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放播放列表（m3u、pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 - **Termius** - 最干净的 Pi SSH 客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)

@@ -3,8 +3,6 @@
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
-		<h3><a href="https://www.producthunt.com/posts/plash-2">我的 macOS 应用程序 Plash 在 Product Hunt</a></h3>
-		<br>
 	</div>
 	<br>
 	<hr>
@@ -281,7 +279,7 @@
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -830,7 +828,7 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新 npm 模块时的一些良好做法.
-- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念存在于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码中.
+- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整哲学存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
@@ -913,7 +911,7 @@
 
 ### Tools
 
-- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome 扩展程序，用于链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项.
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项的 Chrome 扩展.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展程序可在存储库自述文件的底部显示 npm 依赖项.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展程序.
