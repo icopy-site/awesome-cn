@@ -141,7 +141,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 
 ### [How to Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 
-本书旨在向您介绍使用 Go 编程语言编写程序. 您将学习如何编写可在远程服务器或本地 Windows、macOS 和 Linux 系统上运行以进行开发的有用工具和应用程序. 可在 [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) 和 [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
+本书旨在向您介绍使用 Go 编程语言编写程序. 您将学习如何编写可在远程服务器或本地 Windows、macOS 和 Linux 系统上运行以进行开发的有用工具和应用程序. 可在 [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) and [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
 
 ### [For the Love of Go](https://bitfieldconsulting.com/books/love)
 
@@ -188,7 +188,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 <a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.jpg" width="120px"/></a>
 
 *Go with the Domain* 是一本关于构建以惯用方式解决复杂问题的 Go 应用程序的书.
-It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
+它具有领域驱动设计、清洁架构、CQRS（命令查询职责分离）和其他模式等技术.
 
 该书基于 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 章节通过对项目的重构来展示常见的反模式以及如何避免它们.
@@ -286,6 +286,30 @@ code.
 
 攻击性主题包括暴力破解、端口扫描、数据包注入、网络抓取、社会工程和后期开发技术.
 
+### [Writing An Interpreter In Go](https://interpreterbook.com/)
+
+<img src="https://interpreterbook.com/img/cover-cb2da3d1.png" width="120px"/>
+
+在本书中，我们将共同创建一种编程语言.
+
+我们将从 0 行代码开始，最终得到一个完整的 Monkey* 编程语言解释器.
+
+一步步. 从代币到输出. 显示并包含所有代码. 全面测试.
+
+### [Writing A Compiler In Go](https://compilerbook.com/)
+
+<img src="https://compilerbook.com/images/cover-514e0936.png" width="120px"/>
+
+这是在 Go 中编写解释器的续集.
+
+我们从上次停下的地方开始，为 Monkey 编写一个编译器和一个虚拟机.
+
+可运行和经过测试的代码前端和中心，从头开始构建，一步一步 - 就像以前一样.
+
+但是这一次，我们将定义字节码，编译 Monkey 并在我们自己的虚拟机中执行它.
+
+这是猴子进化的下一步.
+
 **Web开发**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
@@ -312,7 +336,7 @@ code.
 
 <img src="http://akamaicovers.oreilly.com/images/9780992461294/lrg.jpg" width="120px"/>
 
-本书为您提供了在 Web 应用程序中使用 Go 所需的一切. 您将学习基本概念——语言结构、标准库和 Go 工具——然后处理更高级的功能，如并发概念、测试方法和包结构.
+本书为您提供在 Web 应用程序中使用 Go 所需的一切. 您将学习基本概念——语言结构、标准库和 Go 工具——然后处理更高级的功能，如并发概念、测试方法和包结构.
 
 在每一步，你都会得到关于在 Go 中更好地编码的建议. 您将看到如何构建项目、如何有效地使用并发、测试的最佳实践——以及从使用 Go 开发 Web 应用程序的实际经验中收集到的许多其他提示和技巧.
 
@@ -326,13 +350,13 @@ code.
 
 <a href="https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796"><img src="https://images-na.ssl-images-amazon.com/images/I/51oy5Nd9BoL._SX384_BO1,204,203,200_.jpg" width="120px"/></a>
 
-如今，公司和开发商需要以极快的速度应对不断变化的市场. 没有建立在高度可用、快速发展的软件上的组织正在走恐龙的道路.  Cloud Native Go 汇集了开发人员所需的知识，以构建满足当今客户和市场永不满足的需求的大规模云应用程序.
+如今，公司和开发商需要以极快的速度应对不断变化的市场. 没有建立在高度可用、快速发展的软件上的组织正在走恐龙的道路.  Cloud Native Go 汇集了开发人员构建大规模云应用程序所需的知识，以满足当今客户和市场永不满足的需求.
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
 
 <a href="https://static-2.gumroad.com/res/gumroad/9387844778319/asset_previews/7446424985b5f9cb53689105d297021d/retina/Cover300ppi.png" width="120px"/></a>
 
- Web Development with Go 的目的是教初学者和专家如何创建和部署真正的 Web 应用程序. 您不会构建样板 TODO 列表，而是从头开始创建和部署一个生产就绪的照片库应用程序，类似于 Pixieset. 本书假设没有任何 Web 开发经验，涵盖了成功构建自己的 Web 应用程序所需的一切知识.
+ Web Development with Go 的目的是教初学者和专家如何创建和部署真正的 Web 应用程序. 您不会构建样板 TODO 列表，而是从头开始创建和部署一个生产就绪的照片库应用程序，类似于 Pixieset. 本书假定没有任何 Web 开发经验，涵盖了成功构建自己的 Web 应用程序所需的一切知识.
 
 ### [Go: Building Web Applications](https://amzn.com/B01LD8K5C0)
 
@@ -357,7 +381,7 @@ code.
 <a href="https://buildsaasappingo.com"><img src="https://buildsaasappingo.com/public/basaig.jpg" width="120"/></a>
 
 我们将共同构建一个强大的、API 优先的、可重用的代码库，适用于 
-building a SaaS or vanilla web application. By the end of the book you'll have 
+构建 SaaS 或 vanilla Web 应用程序. 在本书的最后，你将拥有 
 一个坚实的框架，用作未来项目的起点.
 
 ### [Let's Go!](https://lets-go.alexedwards.net/)

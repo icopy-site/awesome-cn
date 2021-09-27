@@ -16,6 +16,8 @@
   </a>
 </p>
 
+![bitstamp](https://user-images.githubusercontent.com/1295961/134912154-10f5bf44-60b7-4f92-917d-f6cf9fbba351.png)
+
 <a href="https://flutter.dev/">Flutter</a>是 Google 的 UI 工具包，用于从单个代码库为移动、Web 和桌面构建漂亮的、本地编译的应用程序.
 如果您欣赏内容，支持项目可见性，请给予 |  ⭐| 
 
@@ -264,7 +266,7 @@
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) [128⭐] - 为 PageView 构建页面指示器 [Leo Cavalcante](https://github.com/leocavalcante).
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) [51⭐] - Flutter 中完整深度链接导航的优雅抽象 by [Dennis Krasnov](https://denniskrasnov.com).
 - [Get](https://github.com/jonataslaw/get) [4517⭐] - 在没有上下文的情况下在屏幕之间导航并显示小吃栏/对话框/bottomSheets [Jonny Borges](https://github.com/jonataslaw).
-- [Beamer](https://github.com/slovnicki/beamer) [247⭐] - 使用 Navigator 2.0 API 轻松通过受保护的页面堆栈和 URL [Sandro Lovnički](https://github.com/slovnicki).
+- [Beamer](https://github.com/slovnicki/beamer) [247⭐] - 使用 Navigator 2.0 API 毫不费力地通过受保护的页面堆栈和 URL [Sandro Lovnički](https://github.com/slovnicki).
 
 ### Auth
 
@@ -344,7 +346,7 @@
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) [443⭐] - 源自于“应用内购买”的功能集 [react-native-iap](https://github.com/dooboolab/react-native-iap) 经过 [dooboolab](https://github.com/dooboolab).
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob 插件，使用本机平台视图显示横幅广告 [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network 广告插件，可显示横幅、插页式、流内视频、奖励视频和 natvie 广告 [Dreamsoft Innovations](https://github.com/dreamsoftin).
-- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [276⭐] - 通过在您的应用程序中嵌入一个卡片输入表单来进行付款，该表单通过以下方式从客户提供的卡片信息或数字钱包中生成随机数 [Square](https://github.com/orgs/square).
+- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [276⭐] - 通过在您的应用程序中嵌入卡片输入表单来进行付款，该表单通过以下方式从客户提供的卡片信息或数字钱包中生成随机数 [Square](https://github.com/orgs/square).
 
 ## Templates
 
@@ -453,7 +455,7 @@
 #### Standard
 
 - [Bloc](https://github.com/felangel/bloc) [7723⭐] - 帮助实现 BLoC 设计模式的包的集合 [Felix Angelov](https://github.com/felangel).
-- [MobX](https://github.com/mobxjs/mobx.dart)  [1993⭐] - 使用透明功能反应式编程 (TFRP) 增强应用程序中的状态管理. 来自 Js/React 领域的 MobX 端口.
+- [MobX](https://github.com/mobxjs/mobx.dart)  [1993⭐] - 使用透明函数反应式编程 (TFRP) 增强应用程序中的状态管理. 来自 Js/React 领域的 MobX 端口.
 - [Provider](https://github.com/rrousselGit/provider) [3836⭐] - Flutter 的状态管理库 by [Remi Rousselet](https://github.com/rrousselGit).
 - [RiverPod](https://github.com/rrousselGit/river_pod) [1942⭐] - 提供者，但不同之处在于 [Remi Rousselet](https://github.com/rrousselGit).
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx-->- 无上下文、状态管理和导航 [Jonny Borges](https://github.com/jonataslaw).

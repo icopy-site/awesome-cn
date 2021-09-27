@@ -63,6 +63,7 @@
 * [libcairo](https://github.com/edadma/libcairo) - 绑定 [Cairo](https://www.cairographics.org/) 2D 图形 C 库.
 * [cairo-xlib](https://github.com/edadma/cairo-xlib) - 绑定 [Cairo](https://www.cairographics.org/) 二维图形 [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) 与绑定 [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) 以及.
 * [libyaml](https://github.com/edadma/libyaml) - 绑定 [LibYAML](https://pyyaml.org/wiki/LibYAML) 用于解析的 C 库 [YAML](https://yaml.org/).
+* [iup](https://github.com/edadma/iup) - 绑定 [IUP](https://www.tecgraf.puc-rio.br/iup/) 用于构建图形用户界面的多平台工具包.
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - 实施 [MessagePack](https://msgpack.org/)，一种二进制序列化格式.

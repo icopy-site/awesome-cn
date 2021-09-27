@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-精选的开发人员优先工具、产品和资源的精选列表.  
+一个很棒的开发者优先工具和产品的精选列表.
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
@@ -28,7 +28,7 @@
 
 ## Authentication & Identity
 *为您处理身份验证和用户身份的产品.*
-* [Auth0](https://auth0.com/) - 身份验证和授权即服务.
+* [Auth0](https://auth0.com/) - Authentication & authorization as a service.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [Okta](https://developer.okta.com/) - 带有 SSO 的嵌入式身份验证.
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
@@ -38,7 +38,7 @@
 
 ## CI/CD
 *持续集成/交付.*
-* [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
+* [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行作业、作业市场.
 * [Gitlab](https://gitlab.com/) - 具有类似 Github 的能力的开源 CI 和托管解决方案.
 
 ## CMS (headless)
@@ -131,6 +131,7 @@
 * [ImageKit](https://imagekit.io/) - 自动化图像优化、转换和交付.
 * [Mux](https://mux.com/) - 用于上传、管理和流式传输视频的 API.
 * [Pintura](https://pqina.nl/pintura) - 一个完全可配置的 JavaScript 图像编辑器 SDK.
+* [APITemplate.io](https://apitemplate.io/) - 用于从可重用模板生成图像和 PDF 的 API.
 
 ## Messaging
 *消息 API - 短信、通知、聊天和 VoIP.*
@@ -167,6 +168,11 @@
 *存储库和工件管理.*
 * [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的软件包存储库.
 * [cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
+
+## Reports Generation
+*生成报告，主要是PDF*
+* [PDFBlade](https://pdfblade.com/#pricing) - 基于 HTML 到 PDF API 使用的定价.
+* [Carbone](https://carbone.io/) - JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 
 ## Scraping
 *不通过预期的 API 从网站获取数据.*

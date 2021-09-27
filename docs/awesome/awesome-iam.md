@@ -47,7 +47,7 @@
 
 - [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - 使 B2B 用户满意的大部分功能将由 IAM 边界实现.
 
-- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过于宽松的 AWS IAM 政策允许 `s3:GetObject` 访问 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
+- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过于宽松的 AWS IAM 策略允许 `s3:GetObject` 访问 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
 
 - [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/)  - 有点*点击诱饵*，但作者承认“这取决于您对他们的信任程度 1.继续经营；  2. 不抬高价格；  3. 不贬低您的服务；  4. 在业务加速方面为您提供的价值多于灵活性方面的损失.”
 
@@ -57,7 +57,7 @@
 
 - [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla 的安全和访问指南.
 
-- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租户漏洞和供应链漏洞）”.
+- [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（错误配置、访问控制不佳、共享租赁漏洞和供应链漏洞）”.
 
 - [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于绘制服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
@@ -93,7 +93,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - 密码学基础论文.
 
-- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
+- [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果您正在使用按哈希比较来为恶意用户提供的数据生成地址，您应该计划每隔几年迁移到一个新的哈希”.
 
 ## Zero-trust Network
 
@@ -115,7 +115,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
 
-- [A Child’s Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - 本着与上述相同的精神，但这次是在服务级别.
+- [A Child's Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - 本着与上述相同的精神，但这次是在服务级别.
 
 - [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc)  - 简而言之： 1. 小信任根；  2. TLS 还不够；  3. 基于证书的令牌；  4. 加密身份验证令牌 (CAT). 见 [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) 更多细节.
 
@@ -131,7 +131,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/)  - “对长度和字符组成的任意下限是不好的. 它们看起来很糟糕，它们会导致对安全状况的负面猜测，并且它们会破坏密码管理器等工具.”
 
-- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 用愚蠢的密码规则羞辱网站.
+- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) - 使用愚蠢的密码规则羞辱网站.
 
 - [Plain Text Offenders](https://plaintextoffenders.com/about/) - 公开羞辱以纯文本形式存储密码的网站.
 
@@ -253,7 +253,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/) - 以简化格式描述协议的参考文章，以帮助开发人员和服务提供商实现它.
 
-- [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从关于这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱，以使其不那么令人生畏.
+- [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从关于这些标准如何形成的历史背景开始，清除词汇中的不准确之处，然后详细说明协议及其陷阱以使其不那么令人生畏.
 
 - [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 关于 Teleport（一种开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实用案例研究的一个很好的概述.
 
@@ -367,7 +367,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  - 手动编写具有安全意识的 IAM 策略可能非常乏味且效率低下.  Policy Sentry 可帮助用户在几秒钟内创建最低权限策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是新事物的默认策略是拒绝所有，然后它会监控 cloudtrail 是否有权限失败并重新配置 IAM 以允许最小的权限来摆脱拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是新事物的默认策略是拒绝所有，然后它会监控 cloudtrail 是否有权限失败并重新配置 IAM 以允许最小的权限摆脱拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) - 快速评估权限.
 
@@ -375,7 +375,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [IAM Floyd](https://github.com/udondan/iam-floyd)  - 具有流畅界面的 AWS IAM 策略语句生成器. 通过 IntelliSense 提供条件和 ARN 生成，帮助创建类型安全的 IAM 策略并编写更具限制性/安全性的语句. 适用于 Node.js、Python、.Net 和 Java.
 
-- [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，它根据已登录账户的授权级别管理多个账户的权限，为最终用户和管理员提供凭证和控制台访问权限，同时鼓励使用最低权限的权限.
+- [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，可根据他们管理多个账户的权限的授权级别为最终用户和管理员提供凭证和控制台访问权限，同时鼓励使用最低权限的权限.
 
 ### Macaroons
 

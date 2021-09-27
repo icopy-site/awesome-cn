@@ -55,13 +55,14 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB 数据库驱动程序.
 - [redis](https://github.com/denodrivers/redis) - deno 的 redis 客户端的实验性实现.
 - [denodb](https://github.com/eveningkid/denodb) - 用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM.
-- [dndb](https://github.com/denyncrawford/dndb) - 为 Deno 编写的持久且可嵌入的 NoSQL 数据库引擎. 
+- [dndb](https://github.com/denyncrawford/dndb) - 为 Deno 编写的持久且可嵌入的 NoSQL 数据库引擎.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - 一个使用 JSON 格式的简单持久键值数据库.
 - [dso](https://github.com/manyuanrong/dso) - 基于mysql的简单ORM库.
 - [postgres](https://github.com/denodrivers/postgres) - PostgreSQL 数据库驱动程序.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 一个允许使用 MaxmindDB geoIP 数据库文件的库
 - [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
+- [yongo](https://github.com/yooneskh/yongo) - deno 中的猫鼬 api 子集（如填充）但不会完全复制猫鼬
 
 ### Frontend development
 - [postcss](https://github.com/postcss/postcss-deno) - 使用 JS 插件转换样式的工具.
@@ -98,7 +99,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 ### Testing
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - deno 的彩色 assertEqual.
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - 提供高级 API 以通过 DevTools 协议控制 Chromium 或 Chrome 的库.
-- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试一样的笑话的助手.
+- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试这样的笑话的助手.
 - [merlin](https://github.com/crewdevio/merlin) - deno 的测试和基准测试框架 ‍♂️
 - [pretty_benching](https://github.com/littletof/prettyBenching) - 一个小型库，可让您的 Deno 基准测试进度和结果看起来很漂亮.
 - [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
@@ -108,7 +109,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
 ### Utils
-- [buckets](https://github.com/jacoborus/deno-buckets) - 将资产和脚本捆绑在一个可执行文件中.
+- [buckets](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - 格式化字节（Uint8Array、ArrayBufferView 等）输出，在调试 IO 函数时很有用.
 - [coffee](https://github.com/irandeno/coffee) - Deno 配置 - 一种类型安全、易于使用的 Deno 配置管理器.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi 喜欢 Typescript 和 Deno 的验证器.
@@ -178,13 +179,13 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [forwarded](https://github.com/deno-libs/forwarded) - `forwarded` 库的 Deno 端口.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - 适用于 Deno 和浏览器的 JSON-RPC 2.0 TypeScript 库.
 - [gql](https://github.com/deno-libs/gql) - 通用 GraphQL HTTP 中间件.
-- [graphql-tag](https://github.com/deno-libs/graphql-tag) - 来自模板文字的 GraphQL 模式 AST. 
+- [graphql-tag](https://github.com/deno-libs/graphql-tag) - 来自模板文字的 GraphQL 模式 AST.
 - [nats](https://github.com/nats-io/nats.deno) - 一个 Deno 客户端 [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/oslabs-beta/obsidian) - 原生 GraphQL 缓存客户端和服务器模块.
 - [qs](https://github.com/denolib/qs) - 具有嵌套支持的查询字符串解析器.
 - [router](https://github.com/zhmushan/router) - 一个高性能的基本路由器可以在任何地方工作.
 - [status](https://github.com/denosaurs/status) - Deno 的 HTTP 代码和状态实用程序.
-- [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
+- [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - 普罗米修斯客户端.
 - [up](https://github.com/denorg/up) - 检查网站是否在 Deno 中启动.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - 用于与 YouTube 进行任何交互的 YouTube 数据 API 的 Deno 客户端库.
 

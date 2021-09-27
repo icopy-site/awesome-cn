@@ -210,11 +210,11 @@ CSS Shadow Parts 允许开发人员出于样式目的公开 Shadow DOM 中的某
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - 允许创建暗模式切换或开关的自定义元素.
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - 轻量级表情符号选择器，作为 Web 组件分发.
 - [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - 可访问的模态对话框 Web 组件.
-- [`<file-viewer>`](https://github.com/avipunes/file-viewer) - Web component built with Svelte to view files.
+- [`<file-viewer>`](https://github.com/avipunes/file-viewer) - 使用 Svelte 构建的用于查看文件的 Web 组件.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 在树视图中可视化 JSON 数据的 Web 组件.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - 精简版 YouTube 嵌入，专注于视觉表现.
 - [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI 文件播放器和可视化器 Web 组件.
-- [`<model-viewer>`](https://github.com/google/model-viewer) - 用于渲染交互式 3D 模型的 Web 组件.
+- [`<model-viewer>`](https://github.com/google/model-viewer) - Web component for rendering interactive 3D models.
 - [`<player-x>`](https://github.com/playerxo/playerx) - 媒体播放器网络组件.
 - [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element) - 自定义元素以逐步增强图像占位符.
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element) - 具有键盘支持的可访问范围滑块自定义元素.
@@ -375,6 +375,7 @@ CSS Shadow Parts 允许开发人员出于样式目的公开 Shadow DOM 中的某
 
 ### Tools
 
+- [Backlight](https://backlight.dev/) — 以开发人员和设计人员之间的协作为核心，Backlight 是一个非常完整的编码平台，团队可以在其中构建、记录、发布、扩展和维护设计系统. 
 - [Custom Elements Locator](https://github.com/open-wc/locator) - 用于在页面上查找自定义元素的 Chrome 扩展程序.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - 可以穿透 Shadow DOM 根的 querySelector，对自动化测试很有用.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - 使用 Selenium 的 Shadow DOM 自动化.
