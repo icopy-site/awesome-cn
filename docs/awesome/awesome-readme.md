@@ -13,7 +13,7 @@
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图.  TOC 便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup)  - 清楚地描述项目的作用. 动图演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用. 动图演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简描述. 项目的GIF演示. 主要特征. 如何安装指南. 学分.
+- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简描述. 项目的GIF演示. 主要特点. 如何安装指南. 学分.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 附有示意图的项目的清晰概述. 动图演示. 丰富的代码示例.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - 丰富的 Markdown 功能，现代布局，清晰的描述，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的截图. 简单的安装说明.  TOC 便于导航. 良好的贡献者指南.
@@ -31,7 +31,7 @@
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme)  - 项目登陆页面. 清楚地描述项目的作用. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分和移动演示部分.
 - [iterative/dvc](https://github.com/iterative/dvc#readme)  - ReStructuredText 格式示例，兼容 PyPi. 徽标，自定义网站式菜单. 流畅的工作原理动画. 徽章. 名人堂的精彩贡献部分.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie#readme)  - 描述项目的作用. 演示截图. 项目标志.  TOC 便于导航. 建立徽章. 快速简单的安装和使用部分. 包括示例部分.
-- [karan/joe](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
+- [karan/joe](https://github.com/karan/joe#readme)  - 项目标志. 清楚地描述项目的作用. 动图演示. 易于安装和使用部分.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme)  - 项目标志. 极简的描述. 徽章. 动图演示. 关于该项目. 如何使用. 例子. 学分. 附加示例. 
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme)  - 漂亮的目录. 项目标志. 动画项目横幅. 完整的项目文件夹结构. 清楚地描述项目的作用. 不错的贡献者部分. 轻松导航.
 - [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme)  - 漂亮的目录. 项目标志. 动画项目横幅. 合适的 GIF 来显示项目的每个部分. 存储库中项目文件的完整列表及其功能. 完成执行指令.
@@ -45,7 +45,7 @@
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 多个徽章、项目标志、屏幕截图、分步安装和升级说明、易于导航的TOC.
 - [PostHog/posthog](https://github.com/PostHog/posthog#readme) - 定制版块图标、演示 GIF、部署按钮、贡献者的个人资料图片、简洁明了的结构、项目徽标.
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  - TOC 便于导航. 清楚地介绍项目的作用. 存储库中所有文件的完整列表及其功能. 使用部分. 干净简洁的桌子.
-- [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme)  - 动态统计. 黑白主题. 抛光布局. 包含贡献和当前项目的快速、可浏览的表格. 将技术徽章链接到主页. 图像中的秘密隐写术.
+- [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme) - Dynamic statistics. Black and white theme. Polished layout. Quick, skimmable tables with contributions and current projects. Linked technology badges to home website. Secret steganography in an image.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - 项目徽标、展示主要思想的漫画、徽章、带有代码片段的示例、演示项目、api 文档、编辑器配置.
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目徽标、现场演示链接、关键功能的 GIF 动画、TL;DR 用法.
@@ -63,6 +63,7 @@
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多说明性的例子.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  - 项目标志. 有用的徽章和链接（网站、文档、演示）. 截屏. 功能列表. 安装、开发和测试的分步说明. 链接到贡献指南. 不错的手机总结.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme)  - 项目徽标、认知漏斗、动画示例. 颜色协调. 清洁文档.
+- [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme)  - 原创英雄部分. 清晰的导航. 极简设计. 附录.
 
 ## Articles
 
@@ -103,7 +104,7 @@
 ## Get Feedback
 
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme)  - 免费的 README 编辑+反馈，让您的开源项目不断发展. 请参阅 README 成熟度模型以帮助您继续前进.
-- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
+- [maintainer.io](https://maintainer.io/) - 免费 README 标准化和反馈，如果您点击“预订审核”.
  - 这个存储库. 用你的自述文件提交 PR！
 
 ## Contribute

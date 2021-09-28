@@ -34,7 +34,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 ## Starter Templates
 
-- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用带有 JavaScript 的 LitElement 的示例组件.
+- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用 LitElement 和 JavaScript 的示例组件.
 - [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - 使用 LitElement 和 TypeScript 的示例组件.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 使用 Lit 用 TypeScript 编写的简单入门 Web 组件.
 - [Lit Sass JavaScript Starter](https://github.com/e111077/lit-sass-js-starter) - 使用 Rollup 对 SASS + JS + Lit 进行简单设置的项目.
@@ -129,7 +129,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 自定义元素符合 Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - 用于创建使用 lit-html 和 LitElement 构建的界面的 Web 组件.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs 的 Web 组件.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - chartjs 的 Web 组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [ESP Web Tools](https://github.com/esphome/esp-web-tools) - 允许通过浏览器刷入 ESPHome 或其他基于 ESP 的固件.
@@ -203,7 +203,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 ### Other Tools
 
 - [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - 用于为 Web 组件生成 API 文档的 CLI 工具.
-- [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于普通 Web 组件片段的 UI 开发环境.
+- [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于纯 Web 组件片段的 UI 开发环境.
 - [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - 与 lit-html 模板文字兼容的 Web 组件的 Codemods.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - 用于使用 Web 组件的开发人员的浏览器扩展.
 - [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - 用于生成、构建、测试和发布 Web 组件的 CLI 工具.
@@ -213,6 +213,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 以下内容交付网络提供了 Lit 的 ES 模块版本：
 
 - [cdn.esm.sh](https://cdn.esm.sh/lit)
+- [jsDelivr CDN](https://cdn.jsdelivr.net/npm/lit/+esm)
 - [JSPM CDN](https://jspm.dev/lit)
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
@@ -263,9 +264,9 @@ lit-html 创作者 Justin Fagnani 的一集.
 这些库与 Lit 无关，但使用类似的概念构建. 他们使用`html`标记
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
 
-- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但适用于标准 Web 组件和 hyperHTML 或 lit-html.
+- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但用于标准 Web 组件和 hyperHTML 或 lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
-- [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
+- [hybrids](https://github.com/hybridsjs/hybrids) - 用于创建具有简单和功能 API 的 Web 组件的 UI 库.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.
 
 ## Other awesome resources

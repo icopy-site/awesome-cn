@@ -16,8 +16,6 @@
   </a>
 </p>
 
-![bitstamp](https://user-images.githubusercontent.com/1295961/134912154-10f5bf44-60b7-4f92-917d-f6cf9fbba351.png)
-
 <a href="https://flutter.dev/">Flutter</a>是 Google 的 UI 工具包，用于从单个代码库为移动、Web 和桌面构建漂亮的、本地编译的应用程序.
 如果您欣赏内容，支持项目可见性，请给予 |  ⭐| 
 
@@ -278,7 +276,7 @@
 - [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) [157⭐] - Apple 登录 [Tom Gilder](https://github.com/tomgilder).
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) [167⭐] - Buffer、Strava、Unsplash、Github OAuth 由 [Joe Birch](http://www.hitherejoe.com).
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  - 通过短信验证电话号码 [Gildásio Filho](https://github.com/gildaswise).
-- [SimpleAuth](https://github.com/Clancey/simple_auth) [302⭐] - Azure Active Directory、Amazon、Dropbox、Facebook、Github、Google、Instagram、Linked In、Microsoft Live Connect、Github、OAuth、Basic Auth [James Clancey](https://github.com/Clancey).
+- [SimpleAuth](https://github.com/Clancey/simple_auth) [302⭐]-Azure Active Directory、Amazon、Dropbox、Facebook、Github、Google、Instagram、Linked In、Microsoft Live Connect、Github、OAuth、Basic Auth [James Clancey](https://github.com/Clancey).
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) [166⭐] - 提供 AppAuth iOS 和 Android SDK 包装的插件 [Michael Bui](https://github.com/MaikuB).
 
 
@@ -346,7 +344,7 @@
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) [443⭐] - 源自于“应用内购买”的功能集 [react-native-iap](https://github.com/dooboolab/react-native-iap) 经过 [dooboolab](https://github.com/dooboolab).
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob 插件，使用本机平台视图显示横幅广告 [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network 广告插件，可显示横幅、插页式、流内视频、奖励视频和 natvie 广告 [Dreamsoft Innovations](https://github.com/dreamsoftin).
-- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [276⭐] - 通过在您的应用程序中嵌入卡片输入表单来进行付款，该表单通过以下方式从客户提供的卡片信息或数字钱包中生成随机数 [Square](https://github.com/orgs/square).
+- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [276⭐] - 通过在您的应用程序中嵌入一个卡片输入表单来进行付款，该表单通过以下方式从客户提供的卡片信息或数字钱包中生成随机数 [Square](https://github.com/orgs/square).
 
 ## Templates
 
@@ -363,7 +361,7 @@
 - [Card Swipe Animation](https://github.com/geekruchika/FlutterCardSwipe) [431⭐] - 刷卡模板 [Ruchika Gupta](https://github.com/geekruchika).
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [5609⭐] - UIKit 中有用的 UI 集合 by [Pawan Kumar](https://github.com/iampawan).
 - [Book](https://github.com/putraxor/flutter-book-app) [295⭐] - 书架 by [Ardiansyah Putra](https://github.com/putraxor).
-- [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [1454⭐] - 设计流畅的登录模板 [Hugo Extrat](https://github.com/huextrat).
+- [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [1454⭐] - 设计和流畅的登录模板 [Hugo Extrat](https://github.com/huextrat).
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) [244⭐] - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984).
 - [DrawApp](https://github.com/SnakeyHips/drawapp) [204⭐] - 示例绘图应用程序演示如何允许用户使用颜色选择器和画笔粗细滑块在画布上绘图 [Jake Gough](https://github.com/SnakeyHips).
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit)  [591⭐] - 用于学习 Bloc、RxDart、Sqflite、Fluro 和 Dio 的 App Store 实现. 经过 [King Wu](https://github.com/KingWu).
@@ -442,7 +440,7 @@
 ### Services
 
 - [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) [181⭐] - 插件可轻松与 dialogflow 集成 [Victor Rances](https://github.com/VictorRancesCode/).
-- [Intercom](https://pub.dev/packages/intercom) [23⭐] - 将 Intercom 集成添加到您的应用程序中 [Maido Kaara](https://github.com/v3rm0n).
+- [Intercom](https://pub.dev/packages/intercom) [23⭐] - 将 Intercom 集成添加到您的应用程序 [Maido Kaara](https://github.com/v3rm0n).
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) [474⭐] - 推送通知服务 [OneSignal](https://github.com/OneSignal).
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [45⭐] - 地点选择器对话框将地点返回给应用程序 [David Bennett](https://github.com/pinkfish).
 - [App Rating](https://github.com/AppleEducate/app_review) [30⭐] - 为 App Store 和 Google Play 请求和撰写评论 [Rody Davis](http://appleeducate.com).
@@ -457,7 +455,7 @@
 - [Bloc](https://github.com/felangel/bloc) [7723⭐] - 帮助实现 BLoC 设计模式的包的集合 [Felix Angelov](https://github.com/felangel).
 - [MobX](https://github.com/mobxjs/mobx.dart)  [1993⭐] - 使用透明函数反应式编程 (TFRP) 增强应用程序中的状态管理. 来自 Js/React 领域的 MobX 端口.
 - [Provider](https://github.com/rrousselGit/provider) [3836⭐] - Flutter 的状态管理库 by [Remi Rousselet](https://github.com/rrousselGit).
-- [RiverPod](https://github.com/rrousselGit/river_pod) [1942⭐] - 提供者，但不同之处在于 [Remi Rousselet](https://github.com/rrousselGit).
+- [RiverPod](https://github.com/rrousselGit/river_pod) [1942⭐] - 提供者，但不同 [Remi Rousselet](https://github.com/rrousselGit).
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx-->- 无上下文、状态管理和导航 [Jonny Borges](https://github.com/jonataslaw).
 - [Binder](https://github.com/letsar/binder) [162⭐] - 一种将应用程序状态与业务逻辑绑定的轻量级但功能强大的方法，通过 [Romain Rastel](https://github.com/letsar).
 

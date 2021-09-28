@@ -17,7 +17,7 @@
 
 ## What is new
 以下是 TensorFlow Lite 的新功能和工具： <img src="https://raw.githubusercontent.com/margaretmz/awesome-tensorflow-lite/master/images/icons/new.png" width='32' height='32'/>
-* [Announcement of the new converter](https://groups.google.com/a/tensorflow.org/d/msg/tflite/Z_h7706dt8Q/sNrjPj4yGgAJ) - [MLIR](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)基于并支持新类别模型的转换，如 Mask R-CNN 和 Mobile BERT 等，支持功能控制流和更好的转换过程中的错误处理. 默认情况下在每晚构建中启用\.
+* [Announcement of the new converter](https://groups.google.com/a/tensorflow.org/d/msg/tflite/Z_h7706dt8Q/sNrjPj4yGgAJ) - [MLIR](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)基于并支持新类别模型的转换，例如 Mask R-CNN 和 Mobile BERT 等，支持功能控制流和更好的转换过程中的错误处理. 默认情况下在每晚构建中启用\.
 * [Android Support Library](https://github.com/tensorflow/tflite-support/tree/master/tensorflow_lite_support/java) - 使移动开发更容易（[Android](https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/EXPLORE_THE_CODE.md) 示例代码）.
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - 创建您的自定义 [image & text](https://github.com/tensorflow/examples/tree/master/tensorflow_examples/lite/model_maker) 只需几行代码即可轻松进行分类模型. 请参阅下面的图标分类器以获取社区教程.
 * [On-device training](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)  - 终于来了！ 目前仅限于图像分类的迁移学习，但这是一个很好的开始. 看官方 [Android](https://github.com/tensorflow/examples/blob/master/lite/examples/model_personalization/README.md) 示例代码和来自社区的另一个（[Blog](https://aqibsaeed.github.io/on-device-activity-recognition) | [Android](https://github.com/aqibsaeed/on-device-activity-recognition)).
@@ -25,7 +25,7 @@
 * [Model Metadata](https://www.tensorflow.org/lite/convert/metadata) - 提供模型描述的标准，这也使 [Code Gen and Android Studio ML Model Binding](https://www.tensorflow.org/lite/inference_with_metadata/codegen).
 
 ## Models with samples
-Here are the TensorFlow Lite models with app / device implementations, and references.
+以下是带有应用/设备实现和参考的 TensorFlow Lite 模型.
 注意：包含来自 MediaPipe 的预训练 TensorFlow Lite 模型，您可以使用或不使用 MediaPipe 来实现这些模型.
 
 ### Computer vision
@@ -49,6 +49,7 @@ Here are the TensorFlow Lite models with app / device implementations, and refer
  | 姿态估计 | 波塞内 ([download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/posenet_mobilenet_v1_100_257x257_multi_kpt_stripped.tflite))             | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/posenet/android) \| [iOS](https://github.com/tensorflow/examples/tree/master/lite/examples/posenet/ios) \| [Overview](https://www.tensorflow.org/lite/models/pose_estimation/overview)                                                                                                                                                      | tensorflow.org     |
  | 细分 | 深实验室 V3 ([download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/gpu/deeplabv3_257_mv_gpu.tflite))                                     | [Android & iOS](https://github.com/tensorflow/examples/tree/master/lite/examples/image_segmentation/) \| [Overview](https://www.tensorflow.org/lite/models/segmentation/overview)  \| 扑 [Image](https://github.com/kshitizrimal/Flutter-TFLite-Image-Segmentation) \| [Realtime](https://github.com/kshitizrimal/tflite-realtime-flutter) \| [Paper](https://arxiv.org/abs/1706.05587)                             |  tf.org 和社区 |
  | 细分 | 不同的变种 [DeepLab V3 models](https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md)                                    | 型号 [TF Hub](https://tfhub.dev/s?module-type=image-segmentation&publisher=sayakpaul) 使用 Colab 笔记本 | 社区 |
+ | 细分 | [DeepLab V3 model](https://tfhub.dev/tensorflow/lite-model/deeplabv3/1/metadata/2?lite-format=tflite)                                   |  [Android](https://github.com/farmaker47/Update_image_segmentation) \| [Tutorial](https://farmaker47.medium.com/use-camerax-with-image-segmentation-android-project-d8656f35cea3)                                                                                                                                                                                                                                                                                                       | 社区 |
  | 头发分割| [Download](https://github.com/google/mediapipe/tree/master/mediapipe/models/hair_segmentation.tflite)                                                             | [Paper](https://sites.google.com/corp/view/perception-cv4arvr/hair-segmentation)                                                                                                                                                                                                                                                                                                                                        | 媒体管道 |
  | 风格转移 | [Arbitrary image stylization](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization)                                       | [Overview](https://www.tensorflow.org/lite/models/style_transfer/overview) \| [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/style_transfer/android) \| [Flutter](https://github.com/PuzzleLeaf/flutter_tflite_style_transfer)                                                                                                                                                              |  tf.org 和社区 |
  | 风格转移 |  .tflite 中质量更好的风格转移模型 | 型号 [TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1) 使用 Colab 笔记本 | 社区 |
@@ -122,7 +123,7 @@ Here are the TensorFlow Lite models with app / device implementations, and refer
 * 2018-05-22 [ML Kit on Android 1: Intro](https://medium.com/google-developer-experts/exploring-firebase-mlkit-on-android-introducing-mlkit-part-one-98fcfedbeee0).
 
 ## Plugins and SDKs
-* [Edge Impulse](https://www.edgeimpulse.com/) - 由...制作 [@EdgeImpulse](https://twitter.com/EdgeImpulse) 帮助您为云中的嵌入式设备训练 TensorFlow Lite 模型.
+* [Edge Impulse](https://www.edgeimpulse.com/) - Created by [@EdgeImpulse](https://twitter.com/EdgeImpulse) 帮助您为云中的嵌入式设备训练 TensorFlow Lite 模型.
 * [Fritz.ai](https://www.fritz.ai/) - 一个机器学习平台 [@fritzlabs](https://twitter.com/fritzlabs) 这使得移动开发更容易：使用预先训练的 ML 模型和端到端平台来构建和部署自定义训练模型.
 * [MediaPipe](https://github.com/google/mediapipe)  - Google AI 的跨平台（移动、桌面和 Edge TPU）AI 管道.  （下午 [Ming Yong](https://twitter.com/realmgyong)) | [MediaPipe examples](https://mediapipe.readthedocs.io/en/latest/examples.html).
 * [Coral Edge TPU](https://coral.ai/) - 谷歌的边缘硬件. [Coral Edge TPU examples](https://coral.ai/examples/).

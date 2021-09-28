@@ -86,7 +86,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [camelcase](https://github.com/denolib/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
 - [deno_case_style](https://github.com/zekth/deno_case_style)  - 不同大小写样式的字符串验证器和格式器. 例如：camelCase 等.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - 格式化、修剪和删除字符串中字符之间的多余空格.
-- [deno-slugify](https://github.com/jcardama/deno_slugify) - deno 的字符串 slugifier.
+- [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - 删除字符串中的重音/变音符号.
 
 ### Template engine
@@ -109,12 +109,13 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
 ### Utils
-- [buckets](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
+- [buckets](https://github.com/jacoborus/deno-buckets) - 将资产和脚本捆绑在一个可执行文件中.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - 格式化字节（Uint8Array、ArrayBufferView 等）输出，在调试 IO 函数时很有用.
 - [coffee](https://github.com/irandeno/coffee) - Deno 配置 - 一种类型安全、易于使用的 Deno 配置管理器.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi 喜欢 Typescript 和 Deno 的验证器.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean，下次运行时重新加载 deps.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - 带有等待生成器的文件观察器.
+- [deno-config](https://github.com/yooneskh/deno-config) - 通过 cli、.env 和 json 文件简化 deno 应用程序配置管理的实用程序
 - [deno-context](https://github.com/code-hex/deno-context)  - 将截止日期、取消和其他请求范围的值传播到多个承诺. 这种行为就像 Go 的上下文.
 - [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您编写具有大量灵活性的人类可读的 cron 语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 使 Deno 程序在后台运行.
@@ -143,6 +144,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [qrcode](https://github.com/denorg/qrcode) - Deno 的二维码图像生成器.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - 在 Deno 中递归读取目录.
 - [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是有效.
+- [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
 - [type-fest](https://github.com/denoserverless/type-fest) - 基本 TypeScript 类型的集合（sindresorhus/type-fest 的端口）.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 加密和解密 gzip.
 - [watch](https://github.com/jinjor/deno-watch) - 文件观察者.

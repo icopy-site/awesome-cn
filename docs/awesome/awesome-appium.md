@@ -4,16 +4,16 @@
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
 
-&gt;令人愉快的精选清单 [Appium](http://appium.io/) [resources](#contents).
+&gt; 精心挑选的令人愉快的清单 [Appium](http://appium.io/) [resources](#contents).
 
-随时通过PR和文件问题添加链接以开始讨论.
+随意通过 PR 和文件问题添加链接以开始讨论.
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 
 
 
 ## Server
-- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) -Appium是一款开放源代码，跨平台的测试自动化工具，适用于本机，混合以及移动Web和桌面应用程序，已在模拟器（iOS），模拟器（Android）和真实设备（iOS，Android，Windows，Mac）上进行了测试.
+- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium 是一个开源、跨平台的测试自动化工具，适用于原生、混合和移动 Web 和桌面应用程序，在模拟器 (iOS)、模拟器 (Android) 和真实设备 (iOS、Android、Windows、Mac) 上进行了测试.
 
 ## Clients
 - [Ruby](https://github.com/appium/ruby_lib)
@@ -26,11 +26,11 @@
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary)
 
 ## Inspectors
-- [Appium Desktop](https://github.com/appium/appium-desktop) -Mac，Windows和Linux桌面GUI中的Appium Server和Inspector.
-- [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) -在模拟器中运行的iOS版WebDriver服务器.
-- [Selendroid Inspector](http://selendroid.io/inspector.html) -内置在您的selendroid测试服务器中的Web应用程序.
-- [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) -基于Selendroid Inspector原始来源的iOS元素定位工具.
-- [app-inspector](https://github.com/macacajs/app-inspector) -Macacajs应用检查器.
+- [Appium Desktop](https://github.com/appium/appium-desktop) - 适用于 Mac、Windows 和 Linux 的桌面 GUI 中的 Appium 服务器和检查器.
+- [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - 在模拟器内运行的用于 iOS 的 WebDriver 服务器.
+- [Selendroid Inspector](http://selendroid.io/inspector.html) - 嵌入在您的 selendroid 测试服务器中的网络应用程序.
+- [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - 基于Selendroid Inspector 原始来源的iOS 元素定位工具.
+- [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
 
 ## Become an Appium Pro
 - [Seeding the iOS simulator with test photos](https://appiumpro.com/editions/1)
@@ -140,60 +140,61 @@
 - [Paid Tools And Services For Mobile App Performance Testing](https://appiumpro.com/editions/105)
 
 ## Tutorials
-- [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) -  APPI教程初学者（Android和IOS）.
-- [GURU99](http://www.guru99.com/introduction-to-appium.html) -  APPI教程初学者.
-- [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) -  APPI教程.
-- [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) -  APPI完整的教程初学者.
-- [Appium Bootcamp](https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1) -酱汁的鸦片训练营.
-- [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) -移动网格– Android和iOS入门.
-- [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) -2016年硒营.
+- [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 初学者的 Appium 教程（Android 和 iOS）.
+- [GURU99](http://www.guru99.com/introduction-to-appium.html) - 初学者的 Appium 教程.
+- [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium 教程.
+- [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) - 完全初学者的 Appium 教程.
+- [Appium Bootcamp](https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1) - Appium Bootcamp by Sauce.
+- [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - 移动网格 – Android 和 iOS 入门.
+- [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - 2016 年硒训练营.
 
 ## Blogs
- - [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) -有关Appium所需功能的所有信息.
- - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) -Appium架构，设置等（已更新）
- - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - 阿皮亚的架构.
- - [All about Appium](https://en.wordpress.com/tag/appium/) -有关Wordpress中Appium的所有信息.
- - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) -具有图像识别功能的Appium-Simon Kaz.
- - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - 自动使用Android上的时代操作 -  kkashyap1707.
- - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) -如何处理来自Appium 4.0.0的网络连接-Elias Nogueira.
- - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) -  APPI计划 - 更改语言的应用程序 - 埃利亚斯诺盖拉.
- - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) -Windows应用程序驱动程序使用Appium-Yassine benabbas使UWP Apps兼容.
- - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) 使用Appium和Java切换到动态命名的上下文句柄-Kevin Berg.
- - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3)  -如何使用机器人运行Appium测试.  -Dan Cuellar.
- - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) -自动构建，部署和收集针对移动应用程序的反馈-Stipe Kolovrat.
- - [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) -从零到Appium：使用Android配置Appium的操作指南
- -  [有用历元系列]（http://bitbar.com/tag/appium/） -  APPI尖端系列
+ - [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) - 所有关于 Appium 所需的功能.
+ - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium 架构、设置等（更新）
+ - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Appium 的架构.
+ - [All about Appium](https://en.wordpress.com/tag/appium/) - 关于 Wordpress 中的 Appium.
+ - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - 带有图像识别功能的 Appium - Simon Kaz.
+ - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - 使用 Appium 自动执行 Android 操作 - kkashyap1707.
+ - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - 如何处理来自 Appium 4.0.0 的网络连接 - Elias Nogueira.
+ - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium 提示 - 更改应用程序语言 - Elias Nogueira.
+ - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows 应用程序驱动程序使用 Appium - Yassine benabbas 使 UWP 应用程序兼容.
+ - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) 使用 Appium 和 Java 切换到动态命名的上下文句柄 - Kevin Berg.
+ - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3)  - 如何使用机器人运行 Appium 测试.  - 丹奎利亚尔.
+ - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - 自动构建、部署和收集移动应用程序的反馈 - Stipe Kolovrat.
+ - [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - 从零到 Appium：使用 Android 配置 Appium 的操作指南
+ - [Appium 实用系列] (http://bitbar.com/tag/appium/) - Appium Tip 系列
  - [Inspect iOS app's with Appium 1.6] (https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo) - The options of inspecting iOS 10 app with Appium 1.6
- - [GraphWalker](http://graphwalker.github.io/appium-example/)  -GraphWalker是用于测试自动化的开源基于模型的测试工具.  它旨在简化使用图形设计测试的过程
+ - [GraphWalker](http://graphwalker.github.io/appium-example/)  - GraphWalker 是用于测试自动化的开源基于模型的测试工具. 它旨在使使用图形设计测试变得容易
  - [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING – PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
- - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) -WinAppDriver-在Windows上使用Appium的类似硒的测试来测试任何应用
- - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) -使用APP进行移动游戏测试
- - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) -KazuCocoa着
-  - [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) -通过test.ai
+ - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - 在 Windows 上使用 Appium 的类似 Selenium 的测试来测试任何应用程序
+ - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - 使用 Appium 进行手机游戏测试
+ - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - 由 KazuCocoa
+  - [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) - 通过 test.ai
  
 
 ## Workshops
-- [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) -2016年硒会议Appium研讨会回购-贾斯汀·艾森（Justin Ison）.
+- [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - 2016 年 Selenium 会议上 Appium Workshop 的回购 - Justin Ison.
 
 ## Cloud and Docker Solutions
-- [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) -示例Appium测试在AWS Device Farm上运行.
-- [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) -样本Appium测试在STF设备场上运行.
-- [Official Appium Docker Images](https://github.com/appium/appium-docker-android) -适用于Appium Android Real设备的DockerFile.
-- [Appium Docker Images](https://github.com/butomo1989/docker-android) -  DockerFile为Appia的机器人.
-- [Appium Docker File](https://github.com/aluedeke/appium-android) -  DockerFile为Appia的机器人.
-- [Appium Docker File](https://github.com/softsam/docker-appium) -  DockerFile为Appia的机器人.
+- [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - 在 AWS Device Farm 上运行的示例 Appium 测试.
+- [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - 在 STF Device Farm 上运行的示例 Appium 测试.
+- [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - 用于 Appium Android 真实设备的 DockerFile.
+- [Appium Docker Images](https://github.com/butomo1989/docker-android) - 用于 Appium Android 的 DockerFile.
+- [Appium Docker File](https://github.com/aluedeke/appium-android) - 用于 Appium Android 的 DockerFile.
+- [Appium Docker File](https://github.com/softsam/docker-appium) - 用于 Appium Android 的 DockerFile.
+- [TestingBot](https://testingbot.com) - 基于云的 Device Farm，在物理 Android 和 iOS 设备上运行 Appium 测试.
 
 ## Git Books
-- [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) -通过Appium探索移动自动化，并发现测试本机，Web和混合应用程序的新方法-Manoj Hans.
-- [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) -关于如何使用Appium使用Java自动化Android应用程序的快速参考书-Nishant Verma.
+- [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - 使用 Appium 探索移动自动化并发现测试本机、Web 和混合应用程序的新方法 - Manoj Hans.
+- [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - 关于如何使用 Appium 使用 Java 自动化 Android 应用程序的快速参考书 - Nishant Verma.
 
 ## Test Frameworks 
-- [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) -样品黄瓜项目.
-- [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) -Appium Native Crawler CLI-功能包括：屏幕截图，性能，可访问性检测，Google翻译，Applitools，Monkey Tester.
-- [coteafs-appium](https://github.com/WasiqB/coteafs-appium) -建立在Appium之上的对测试人员友好的移动自动化框架，该框架支持对Android，iOS和Windows real或仿真器Mobiles和Tablets的Web和本机应用程序进行测试.
-- [Optimus](https://github.com/testvagrant/optimusTemplate) -基于黄瓜的移动自动化框架，支持测试并行化.
-- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) -示例页面对象模式框架可直接使用.
-- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) -在iOS和Android设备上并行运行appium测试.
+- [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - Appium Cucumber 项目示例.
+- [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - 功能包括：截图、性能、可访问性检测、谷歌翻译、Applitools、Monkey Tester.
+- [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - 一个建立在 Appium 之上的测试人员友好的移动自动化框架，它支持测试适用于 Android、iOS 和 Windows 真实或模拟器手机和平板电脑的 Web 和本机应用程序.
+- [Optimus](https://github.com/testvagrant/optimusTemplate) - 基于 Cucumber 的移动自动化框架，支持测试并行化.
+- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - 直接使用的示例页面对象模式框架.
+- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - 在 iOS 和 Android 设备上并行运行 appium 测试.
 
 ## Community
 - [Discuss](https://discuss.appium.io)
@@ -203,15 +204,15 @@
 
 ## Tips
 
-贡献一些;）
+贡献一些 ;)
 
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/SrinivasanTarget/awesome-appium/blob/master/contributing.md) 第一.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/SrinivasanTarget/awesome-appium/blob/master/contributing.md) 第一的.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Srinivasan Sekar](https://github.com/SrinivasanTarget) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Srinivasan Sekar](https://github.com/SrinivasanTarget) 已放弃本作品的所有版权和相关或邻接权.

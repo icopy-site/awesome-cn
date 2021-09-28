@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/golemfactory/awesome-golem/master/golem-logo.svg?sanitize=true" align="right" width="150">](https://golem.network/)
 
-&gt; 欢迎来到 **Awesome Golem**，这是 Golem 上社区精选的资源、链接、项目、工具和应用程序列表！
+&gt; 欢迎来到 **Awesome Golem**，这是一个社区策划的 Golem 资源、链接、项目、工具和应用程序列表！
 
  Golem 的用户以 Rust 实现 Yagna 的形式运行参考实现. 用户共同组成了 Golem 网络，这是一个计算资源的 P2P 市场，个人可以在其中充当两个非排他性角色之一； 提供者出售闲置资源，或请求者购买资源来运行任务.
 
@@ -20,9 +20,15 @@
 - [Twitter](https://twitter.com/golemproject) - 魔像项目推特.
 - [Blog](http://blog.golemproject.net/) - 官方博客，您可以在其中找到有关公告、摘要和更新的最可靠信息.
 
+## Thorg
+
+- [About Thorg](https://www.thorg.io/about) - 了解 Thorg 矿工是做什么的.
+- [Thorg Usage](https://www.thorg.io/usage) - 了解托格的深度.
+- [Twitter](https://twitter.com/minewiththorg) - Torg 的官方推特.
+
 ## Network Statistics
 
-- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和供应商资源利用率.
+- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和提供商资源利用率.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Golem 网络统计页面的后端，包括 API 端点 URL.
 - [Stats API Documentation](https://docs.stats.golem.network/) - Golem 网络统计页面用于显示其数据的 API 端点.
 
@@ -48,7 +54,7 @@
 ### Games
 
 - [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - 大小不同的数独游戏.
-- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.
+- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - 通过运行大量模拟游戏，帮助《炉石传说》社区设计和构建套牌.
 - [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem)  - 第一个应用程序部分中描述的国际象棋开源存储库. 包括 React 前端，用于通过 Golem 后端相互对抗的 2 个 AI.
 - [Golem Fleet Battle Simulator](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator)  - 计算两个敌对星舰舰队之间战斗结果的系统. 在 iOS 游戏 Rock Paper Frigate 中用于确定 PvP 舰队战斗的结果.
 
@@ -140,7 +146,7 @@
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform 脚本可在云提供商上自动部署 Golem 提供商并使用 prometheus 设置监控.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志来引导您完成整个过程，从而设置 Golem Provider.
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - 节点的 Docker 版本，可帮助您快速开始在 Docker 容器中作为提供者运行.
-- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上述 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件并指定您想要生成的副本数量.
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上述 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件，并指定您想要生成的副本数量.
 - [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 产生 x 数量的提供者.
 
 ## Learning Resources
@@ -161,7 +167,7 @@
 
 ### GitHub Digest Blog Series
 
-- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - 了解 Golem 存储库.
+- [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/) - Understanding the Golem Repositories.
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/) - 潜入魔像储存库.
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.

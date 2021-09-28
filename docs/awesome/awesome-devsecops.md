@@ -29,7 +29,7 @@
 
 ### Communities
 
-- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
+- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - 一个专门为 DevSecOps 举办会议、博客、播客和 Slack 工作区的社区.
 
 ### Conferences
 
@@ -48,21 +48,22 @@
 
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) - _OWASP_ - 帮助开发人员设计和开发安全 Web 应用程序的安全要求和控制框架.
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) - _CERT_ - C、C++、Java 和 Android 开发的安全开发标准集合.
+- [Fundamental Practices for Secure Software Development](https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf) - _SAFECode_ - 在整个 SDLC 中实施关键安全开发实践的指南.
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP 列出的应该在每个软件开发项目中实现的十大控件.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - _Mozilla_ - 包含用于安全 Web 应用程序开发的特定安全开发标准的指南.
 - [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - 用于验证是否遵循安全开发标准的清单.
 
 ### Secure Development Lifecycle Framework
 
-- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys) - 通过观察和分析领先软件安全计划的数据创建的软件安全框架.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - 通过观察和分析领先软件安全计划的数据创建的软件安全框架.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - 一组工具和实践，用作安全开发生命周期的框架.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - 由安全开发生命周期的实践、任务和实施示例组成的框架.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - 衡量和提高安全开发生命周期成熟度的框架.
 
 ### Toolchains
 
+- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - 一张海报，其中包含安全 Web 应用技术 (SWAT) 清单、SANS 云安全课程、云安全 10 大、Kubernetes 12 大威胁和安全 DevOps 工具链.
 - [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - _XebiaLabs_ - 按工具功能分类的 DevSecOps 工具集合.
-- [Secure DevOps Toolchain](https://www.sans.org/security-resources/posters/secure-devops-toolchain-swat-checklist/60/download) - _SANS_ - 安全特定实践和工具的列表，分为管道阶段和工具功能.
 
 ### Training
 
@@ -81,6 +82,7 @@
 ### Wikis
 
 - [DevSecOps Hub](https://snyk.io/devsecops/) - _Snyk_ - 关键 DevSecOps 概念、流程和技术的介绍.
+- [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - _OWASP_ - 有关软件漏洞以及如何防止它们的信息存储库.
 
 ## Tools
 
@@ -110,7 +112,7 @@
 
 ### Infrastructure as Code Analysis
 
-基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅确保了基础设施的持续强化，而且还提供了一个机会来静态和动态地分析基础设施定义中的脆弱依赖项、硬编码机密、不安全配置和安全配置中的意外更改. 以下工具有助于此分析.
+基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅确保基础设施得到持续强化，而且还提供了静态和动态分析基础设施定义的机会，以了解易受攻击的依赖项、硬编码的秘密、不安全的配置和安全配置中的意外更改. 以下工具有助于此分析.
 
 #### Multi-Platform
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - 扫描 Terraform、AWS CloudFormation 和 Kubernetes 模板以进行不安全配置.

@@ -191,7 +191,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [praetorian](https://github.com/ilanusse/praetorian) - 受 Pundit 启发的极简授权库
  * [Shield](https://github.com/grottopress/shield) - *幸运*框架的全面安全性
  * [shrine.cr](https://github.com/jetrockets/shrine.cr)  - Crystal 应用程序的文件附件工具包. 深受 Shrine for Ruby 的启发
- * [tourmaline](https://github.com/protoncr/tourmaline) - 具有松散基于的 API 的 Telegram bot 框架 [telegraf.js](https://telegraf.js.org/)
+ * [tourmaline](https://github.com/protoncr/tourmaline) - 带有 API 的 Telegram bot 框架松散地基于 [telegraf.js](https://telegraf.js.org/)
 
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) - 绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
@@ -245,7 +245,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Internationalization
 
- * [crystal-i18n](https://github.com/crystal-i18n/i18n) - 受 Ruby-I18n 启发的国际化库
+ * [crystal-i18n](https://github.com/crystal-i18n/i18n) - 一个受 Ruby-I18n 启发的国际化库
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - 国际化分片
  * [Lens](https://github.com/syeopite/lens)  - Crystal 的多格式国际化 (i18n) 分片. 支持 Gettext、Ruby YAML 等.
  * [Rosetta](https://github.com/wout/rosetta) - 极快的国际化 (i18n) 库，具有支持 YAML 和 JSON 格式的编译时键查找功能
@@ -285,9 +285,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [port_midi](https://github.com/jimm/crystal_port_midi) - PortMIDI 跨平台 MIDI I/O 库的 Crystal C 绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 重试失败代码块的简单 DSL
  * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) - 用于构建 Serf 处理程序的框架，具有一套有用​​的内置功能
- * [simple_retry](https://github.com/spider-gazelle/simple_retry) - 用于重试失败代码块的简单工具
+ * [simple_retry](https://github.com/spider-gazelle/simple_retry) - Simple tool for retrying failed code blocks
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) - 水晶碎片包装 rbsec/sslscan 实用程序
- * [version_tools](https://github.com/anicholson/crystal-version-tools) - 依赖于版本的行为，在编译时指定
+ * [version_tools](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
  * [wafalyzer](https://github.com/NeuraLegion/wafalyzer) - Web 应用程序防火墙 (WAF) 检测器 - 分片 + cli
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - 文件名清理
 
@@ -315,6 +315,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Networking
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - 处理 IPv4 和 IPv6 地址的库
+ * [mac-address](https://github.com/automatico/mac-address) - 用于处理 MAC 地址的库
 
 ## ORM/ODM Extensions
  * [avram](https://github.com/luckyframework/avram) - 用于读取、写入和迁移 Postgres 数据库的数据库包装器
@@ -335,7 +336,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [werk](https://github.com/marghidanu/werk) - 具有并发支持的死简单任务运行器，非常适合本地 CI
 
 ## Project Generators
- * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+ * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - 本地库的自动绑定生成器
  * [fez](https://github.com/jwoertink/fez) - Kemal 应用程序生成器
  * [libgen](https://github.com/olbat/libgen) - 使用 JSON/YAML 文件配置的自动绑定生成器
 
@@ -451,7 +452,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Gitter](https://gitter.im/crystal-lang/crystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
- * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
+ * [Metaruby](https://metaruby.com/c/crystal-forum) - Metaruby 水晶论坛
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
