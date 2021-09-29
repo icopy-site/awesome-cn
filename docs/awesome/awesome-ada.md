@@ -175,7 +175,7 @@
 
 ##### Other / unknown licence 
 
-- [hac](https://github.com/zertovitch/hac) - 完全在 Ada 中的实验 Ada 编译器.
+- [hac](https://github.com/zertovitch/hac) - 完全在 Ada 中的实验性 Ada 编译器.
 - [byron](https://github.com/OneWingedShark/Byron) - Byron 项目是一个社区驱动的 Ada 编译器、工具链和 IDE 系统.
 
 #### Commercial / Open source
@@ -242,7 +242,7 @@
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是嵌入式应用程序的硬实时操作系统，遵循最小实时 POSIX.13 子集. 它提供了一个易于使用和受控的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) - 高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
-- [bare-bones](https://github.com/Lucretia/bare_bones) - 一个 Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小的 32 位 x86 内核.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - 一个 Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace 致力于使用 Ada 2012 语言编写类 Unix 操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada_KALINDA 是一种类似 Mac Plus 的操作系统，用 Ada95 编写.
 - [cxos](https://github.com/ajxs/cxos) - Ada 操作系统开发示例.
@@ -254,13 +254,13 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - 俄罗斯方块，在 Ada，用于 Unity 游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) - 用 SPARK/Ada 编写和验证的井字游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate 是适用于 Windows、OS-X 和 Linux 的星际之门/门户幻想设置中的第一人称 3D 推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏……它看起来像一个魔方，但它是一个滑块，而不是一个扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏……它看起来像一个rubic 立方体，但它是一个滑块，而不是一个扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) - AdaVenture 是一款适合儿童的复古点击游戏，包含迷宫、龙、蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) - 有趣的益智游戏，可在任何操作系统的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac 是 Pacman 的儿童友好 ASCII 字符版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面！ 是“三消”类型的游戏.
+- [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是“三消”类型的游戏.
 - [buttons](https://github.com/andreacervetti/buttons) - 一个简单的 Gtkada Button Mania 游戏.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - 地雷探测器：一款无需猜测的寻雷游戏.
 
@@ -307,7 +307,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS 是一个完整的框架，用于在 Ada 中开发基于 Web 的应用程序.
-- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web Application 是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多现成的和可扩展的模块，这些模块对许多 Web 应用程序来说都是通用的. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
+- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web Application 是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多现成的和可扩展的模块，这些模块对于许多 Web 应用程序来说都是通用的. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 原则模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
@@ -410,6 +410,7 @@
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - 极快的非加密哈希算法，xxhash 的工作速度接近 RAM 限制.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) - 一个安全的加密库（Ada 的 libsodium）.
 - [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - libsecret 库的 Ada 绑定.
+- [blake2s](https://github.com/lkujaw/blake2s) - BLAKE2s 哈希函数的 SPARK83 实现.
 
 #### Compression
 - [zip-ada](https://github.com/zertovitch/zip-ada) - Zip-Ada 是一个用于处理 Zip 压缩存档文件格式的编程库.
@@ -532,7 +533,7 @@
 ## Hardware and Embedded
 
 #### Frameworks
-- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用 Ada、ARM 和 Lego 的机器人技术.
+- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 机器人与 Ada、ARM 和 Lego.
 
 #### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - 完整的 Ada + SPARK Crazyflie 2.0 固件的源代码.
@@ -615,7 +616,7 @@
 - [gsh](https://github.com/AdaCore/gsh)  - GSH 是 Windows 的非交互式 POSIX shell，针对 GNU 软件构建. 比 Cygwin 快 2-3 倍.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell 是一种简单的可嵌入脚本语言，是 GNATCOLL 核心的一部分.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - Charles Babbage 分析引擎的 Ada 2012 仿真.
-- [a-shell](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
+- [a-shell](https://github.com/charlie5/aShell) - 帮助在 Ada 中编写类似 shell 的应用程序的组件.
 
 #### Programming Languages
 - [para-sail](http://parasail-lang.org/)  - ParaSail 是一种高度并行的实验语言，类似于 Go 和 Erlang. 最初由 SofCheck（现为 AdaCore）所有，是一个尝试新想法的测试项目. 可扩展指针是即将引入 SPARK 和 Ada 的示例功能. 实际上有 4 种实验语言：ParaSail、Sparkel、Javallel、Parython，它们都共享字节码解释器和 LLVM 引擎.

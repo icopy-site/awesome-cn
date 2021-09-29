@@ -92,7 +92,7 @@ Practical Go Lessons 有 41 章和超过 700 页的插图.
 *Go 编程语言*是任何人的权威资源
 想学围棋的程序员.
 Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
-和惯用的 Go 来解决现实世界的问题.
+and idiomatic Go to solve real-world problems.
 这本书不假设你有围棋的先验知识或经验
 任何特定语言，因此无论您是
 最熟悉 JavaScript、Ruby、Python、Java 或 C++.
@@ -309,6 +309,16 @@ code.
 但是这一次，我们将定义字节码，编译 Monkey 并在我们自己的虚拟机中执行它.
 
 这是猴子进化的下一步.
+
+### [Ultimate Go Notebook](https://courses.ardanlabs.com/courses/ultimate-go-notebook)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/411o0BkQoQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="120px"/>
+
+Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍. 
+
+通过这本书，您将学习如何编写更多地道和高性能的代码，重点放在微观工程决策上. 
+
+本笔记本旨在为课堂上提到的所有内容提供参考，就好像它们是您自己的个人笔记一样.
 
 **Web开发**
 ----

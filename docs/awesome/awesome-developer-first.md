@@ -28,13 +28,14 @@
 
 ## Authentication & Identity
 *为您处理身份验证和用户身份的产品.*
-* [Auth0](https://auth0.com/) - Authentication & authorization as a service.
+* [Auth0](https://auth0.com/) - 身份验证和授权即服务.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [Okta](https://developer.okta.com/) - 带有 SSO 的嵌入式身份验证.
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
+* [Hanko](https://www.hanko.io/) - 无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR 兼容.
 
 ## CI/CD
 *持续集成/交付.*
@@ -148,7 +149,7 @@
 *监控您的生产应用程序.*
 * [Sentry](https://sentry.io/) - 应用程序监控错误和性能.
 * [KeenIO](https://keen.io/) - 事件流媒体平台.
-* [Rollbar](https://rollbar.com/) - 报告生产中的错误.
+* [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Dashbird](https://dashbird.io/) - 无服务器实时监控.
 

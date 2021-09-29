@@ -38,7 +38,7 @@
 
 - [Jamstack](https://jamstack.org/)
 - [Jamstack resources](https://jamstack.org/resources/) - 关于 Jamstack 的视频和文章.
-- [the New Dynamic](https://www.thenewdynamic.org/)  - 在我们的目录中挑选工具来使用 Jamstack. 浏览我们的展示并获得灵感.
+- [the New Dynamic](https://www.thenewdynamic.org/)  - 在我们的目录中选择工具来使用 Jamstack. 浏览我们的展示并获得灵感.
 
 ## Chats
 
@@ -71,7 +71,7 @@
 - [CloudyCam](https://CloudyCam.dev/) - PWA 构建在 Next.js 上并托管在 Zeit Now v2 Serverless 平台上.
 - [FbaMonthly](https://www.fbamonthly.com) - 托管在 Netlify 上，使用 Jekyll、Netlify Functions 和 Netlify Forms 构建.
 - [Jarod Peachey](https://jarodpeachey.netlify.com) - 使用 Gatsby + MaterialUI 构建并托管在 Netlify 上
-- [ProtonDB](https://www.protondb.com) - 自 2018 年 8 月起在 Netlify 上托管 React/MaterialUI/Firebase.在 Linux 游戏社区中表现突出.
+- [ProtonDB](https://www.protondb.com) - 自 2018 年 8 月以来在 Netlify 上托管的 React/MaterialUI/Firebase.在 Linux 游戏社区中表现突出.
 - [Creative Designs Guru](https://creativedesignsguru.com) - 基于 Netlify 上托管的 Eleventy.js 构建，并使用 Tailwind CSS 设计样式
 - [HandleDroid](https://handledroid.com/) - 使用 Next.js、MongoDB、Auth0、AWS CloudWatch、SendGrid、Stripe 构建并托管在 Netlify 上.
 - [Backlinko](https://bejamas.io/blog/backlinko-case-study/) - 使用 Next.js、无头 WordPress 和 Netlify 构建.
@@ -88,8 +88,9 @@
 - [Gridsome](https://gridsome.org/) - Vue 驱动的静态站点生成器，用于为任何 Headless CMS、API 或 Markdown 文件构建 CDN 就绪的网站.
 - [Nuxt.js](https://nuxtjs.org/) - 用于服务器端渲染、静态和传统单页应用程序的基于 vue 的多功能框架.
 - [eleventy](https://www.11ty.io/) - 一个更简单的静态站点生成器，可将各种模板文件转换为 HTML.
-- [Nift](https://nift.cc) - 一个用 C++ 开发的跨平台开源网站生成器，速度快如闪电，功能极其强大.
+- [Nift](https://nift.dev) - 一个用 C++ 开发的跨平台开源网站生成器，速度快如闪电，功能极其强大.
 - [Astro](https://astro.build) - 构建更快的网站，同时交付更少到几乎没有 Javascript.
+- [FactorJS](https://www.factorjs.org) - 由 Vite 提供支持的下一代框架.
 
 *有关更完整的列表，请参阅 [StaticGen](https://www.staticgen.com/).*
 
@@ -102,7 +103,7 @@
 - [Scrivito](https://scrivito.com) - 为数字机构和大中型企业构建的基于云的 JavaScript CMS.
 - [GraphCMS](https://graphcms.com) - GraphQL 无头 CMS.
 - [Prismic](https://prismic.io) - 适用于开发人员和营销人员的无头 API CMS.
-- [Siteleaf](https://siteleaf.com) - 适用于静态站点的友好 CMS.
+- [Siteleaf](https://siteleaf.com) - 适用于您的静态站点的友好 CMS.
 - [DatoCMS](https://datocms.com) - 您的编辑会喜欢的基于 API 的 CMS.
 - [Prose](https://prose.io) - Prose 是用于管理网站的 GitHub 内容编辑器.
 - [Tipe](https://tipe.io) - 下一代 API 优先 CMS.
@@ -116,6 +117,7 @@
 - [Flotiq](https://flotiq.com) - 一个轻松的无头 CMS.
 - [TreacleWP](https://www.treaclewp.com) - WordPress API 托管.
 - [Agility CMS](https://agilitycms.com) - 开发者和内容编辑者两全其美.
+- [CloudCannon](https://cloudcannon.com/) - 用于 Jamstack 站点的基于 Git 的 CMS.
 ## API
 
 ### Authentication
@@ -208,7 +210,7 @@
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - 穿越媒体.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - 凯尔马修斯.
 - [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) - Jamstack 会议.
-- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) - 艾哈迈德·阿威斯.
+- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) - 艾哈迈德·阿维斯.
 - [React vs Vue, Gatsby vs Gridsome - building the same site](https://www.youtube.com/watch?v=H19fF7ITtaI) - Ondrej Polesny.
 - [WTF is Jamstack?](https://youtu.be/ReSvk5MQek4) - Ondrej Polesny.
 
