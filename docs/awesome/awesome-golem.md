@@ -28,7 +28,7 @@
 
 ## Network Statistics
 
-- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和提供商资源利用率.
+- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和供应商资源利用率.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Golem 网络统计页面的后端，包括 API 端点 URL.
 - [Stats API Documentation](https://docs.stats.golem.network/) - Golem 网络统计页面用于显示其数据的 API 端点.
 
@@ -60,6 +60,7 @@
 
 ### CLI Tools
 
+- [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - 增强的 bash 补全引擎，通过为 golemsp 和 yagna 提供上下文帮助来扩展内置补全.
 - [Golocity](https://github.com/davidstyers/golocity) - 只需两个命令即可在 Golem 网络上构建和部署您的 dockerized 应用程序.
 
 ### Data Analysis
@@ -146,7 +147,7 @@
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform 脚本可在云提供商上自动部署 Golem 提供商并使用 prometheus 设置监控.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志来引导您完成整个过程，从而设置 Golem Provider.
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - 节点的 Docker 版本，可帮助您快速开始在 Docker 容器中作为提供者运行.
-- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上述 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件，并指定您想要生成的副本数量.
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上述 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件并指定您想要生成的副本数量.
 - [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 产生 x 数量的提供者.
 
 ## Learning Resources

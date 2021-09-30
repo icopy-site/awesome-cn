@@ -101,11 +101,11 @@
 
   * [bitbucket.org](https://bitbucket.org/) — 使用 CI/CD 管道为最多 5 个用户提供无限的公共和私有 Git 存储库
   * [chiselapp.com](http://chiselapp.com/) — 无限制的公共和私人 Fossil 存储库
-  * [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
+  * [codebasehq.com](https://www.codebasehq.com/) — 一个具有 100 MB 空间和 2 个用户的免费项目
   * [codeberg.org](https://codeberg.org/)  - 用于免费和开源项目的无限公共和私人 Git 存储库. 静态网站托管 [Codeberg Pages](https://codeberg.page/).
   * [gitea.com](https://www.gitea.com/) - 无限的公共和私人 Git 存储库
   * [GitGud](https://gitgud.io)  — 无限的私有和公共存储库. 永远免费. 由 GitLab 和 Sapphire 提供支持. 未提供 CI/CD.
-  * [github.com](https://github.com/)  — 无限的公共存储库和无限的私有存储库（与无限的合作者）. 除此之外，提供的其他一些免费服务（还有更多，但我们在这里列出了主要服务）：
+  * [github.com](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :
        - [CI/CD](https://github.com/features/actions)（公共回购免费，私人回购免费 2000 分钟/月）
        - [Static Website Hosting](https://pages.github.com) （公共回购免费）
        - [Package Hosting & Container Registry](https://github.com/features/packages) （公共存储库免费，500 MB 存储空间和 1GB 带宽（CI/CD 之外的私有存储库免费））
@@ -140,7 +140,7 @@
   * [Beeceptor](https://beeceptor.com)  - 在几秒钟内模拟一个休息 API，假 API 响应等等. 每天免费 50 个请求，公共仪表板，开放端点（任何拥有仪表板链接的人都可以查看请求和响应）.
   * [bigml.com](https://bigml.com/)  — 托管机器学习算法. 无限的免费开发任务，限制为 16 MB 数据/任务.
   * [Calendarific](https://calendarific.com)  - 面向 200 多个国家/地区的企业级公共假期 API 服务. 免费计划包括每月 1000 次通话.
-  * [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
+  * [Clarifai](https://www.clarifai.com)  — 用于自定义人脸识别和检测的图像 API. 能够训练AI模型. 免费计划每月有 5000 次通话.
   * [Cloudmersive](https://cloudmersive.com/) — 实用 API 平台，可完全访问扩展 API 库，包括文档转换、病毒扫描等，每月调用 800 次.
   * [Colaboratory](https://colab.research.google.com) — 使用 Nvidia Tesla K80 GPU 的免费基于 Web 的 Python 笔记本环境.
   * [Collect2](https://collect2.com)  — 创建 API 端点以测试、自动化和连接 Webhook. 免费计划允许使用两个数据集、2000 条记录、1 个转发器和 1 个警报.
@@ -165,7 +165,7 @@
   * [Hookbin](https://hookbin.com/)  - 创建唯一的（公共或私有）端点来收集、解析和检查 HTTP 请求. 检查标题、正文、查询字符串、cookie、上传的文件等.对于测试/检查 webhook 很有用. 类似于 RequestBin 和 Webhook.site.
   * [Hoppscotch](https://hoppscotch.io) - 免费、快速且美观的 API 请求构建器.
   * [Invantive Cloud](https://cloud.invantive.com/)  — 使用 Invantive SQL 或 OData4（通常为 Power BI 或 Power Query）访问 70 多个（云）平台，例如 Exact Online、Twinfield、ActiveCampaign 或 Visma. 包括数据复制和交换. 开发人员和实施顾问的免费计划. 对于有数据量限制的特定平台免费.
-  * [Iploka](https://iploka.com/) — IP to Geolocation API - Forever free plan for developers with 10k requests per month limit.
+  * [Iploka](https://iploka.com/) — IP 到地理定位 API - 每月限制为 10k 请求的开发人员的永久免费计划.
   * [IP Geolocation](https://ipgeolocation.io/) — IP 地理定位 API - 每月 30k 请求（1k/天）限制的开发人员永久免费计划.
   * [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — 抽象的 IP 地理定位 API - 广泛的免费计划，每月允许 200,000 个请求.
   * [IP2Location](https://www.ip2location.com)  — 免费增值 IP 地理定位服务.  LITE 数据库可免费下载. 在服务器中导入数据库并进行本地查询以确定城市、坐标和ISP信息.
@@ -180,10 +180,10 @@
   * [KSoft.Si](https://api.ksoft.si/) — 主要针对不和谐机器人的免费歌词 api.还提供了广泛的图像和用户数据库
   * [Lightly](https://www.lightly.ai/)  — 通过使用正确的数据改进您的机器学习模型. 免费使用多达 1000 个样本的数据集.
   * [MailboxValidator](https://www.mailboxvalidator.com)  — 使用真实邮件服务器连接来确认有效电子邮件的电子邮件验证服务. 免费 API 计划每月有 300 次验证.
-  * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 100 reqs/day every day free.
+  * [microlink.io](https://microlink.io/)  – 它将任何网站转换为数据，例如元标签规范化、美容链接预览、抓取功能或屏幕截图即服务. 每天 100 个请求/天免费.
   * [monkeylearn.com](https://monkeylearn.com/) — 使用机器学习进行文本分析，每月免费 300 次查询.
   * [MockAPI](https://www.mockapi.io/)  — MockAPI 是一个简单的工具，可让您轻松地模拟 API、生成自定义数据并使用 RESTful 接口对其执行操作.  MockAPI 旨在用作原型设计/测试/学习工具.  1 个项目/每个项目 50 个资源免费.
-  * [Mocki](https://mocki.io)  - 一种工具，可让您创建同步到 GitHub 存储库的模拟 GraphQL 和 REST API. 简单的 REST API 无需注册即可免费创建和使用.
+  * [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to create and use without signup.
   * [Mocko.dev](https://mocko.dev/)  — 代理您的 API，选择要在云中模拟的端点并免费检查流量. 加快您的开发和集成测试.
   * [reqres.in](https://reqres.in) - 准备好响应您的 AJAX 请求的免费托管 REST-API.
   * [microenv.com](https://microenv.com) — 为开发人员创建虚假的 REST API，可以在 docker 容器中生成代码和应用程​​序.
@@ -234,7 +234,7 @@
 
 ## Artifact Repos
 
- * [Artifactory](https://jfrog.com/start-free/)  - 一个工件存储库，支持多种包格式，如 Maven、Docker、Cargo、Helm、PyPI、CocoaPods 和 GitLFS. 包括包扫描工具 XRay 和 CI/CD 工具 Pipelines（以前称为 Shippable），免费套餐为每月 2,000 CI/CD 分钟.
+ * [Artifactory](https://jfrog.com/start-free/)  - 一个工件存储库，支持多种包格式，如 Maven、Docker、Cargo、Helm、PyPI、CocoaPods 和 GitLFS. 包括包扫描工具 XRay 和 CI/CD 工具 Pipelines（以前的 Shippable），免费套餐为每月 2,000 CI/CD 分钟.
  * [central.sonatype.org](https://central.sonatype.org) — Apache Maven、SBT 和其他构建系统的默认工件存储库.
  * [cloudrepo.io](https://cloudrepo.io)  - 基于云的、私有和公共的、Maven 和 PyPi 存储库. 开源项目免费.
  * [cloudsmith.io](https://cloudsmith.io)  — 适用于 Java/Maven、RedHat、Debian、Python、Ruby、Vagrant 等的简单、安全和集中的存储库服务. 免费层 + 免费开源.
@@ -272,19 +272,19 @@
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free)  — Microsoft Teams 是一个基于聊天的数字中心，可通过单一体验将对话、内容和应用程序集中在一个地方. 最多 50 万用户免费.
   * [Miro](https://miro.com/)  - 适用于分布式团队的可扩展、安全、跨设备和企业就绪的团队协作白板. 有免费增值计划.
   * [Notion](https://www.notion.so/)  - Notion 是一款笔记和协作应用程序，支持 Markdown，还集成了任务、wiki 和数据库. 该公司将该应用程序描述为用于记笔记、项目管理和任务管理的多合一工作区. 除了跨平台应用程序外，它还可以通过大多数网络浏览器访问.
-  * [Nuclino](https://www.nuclino.com) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, 5GB total storage.
+  * [Nuclino](https://www.nuclino.com)  - 一个轻量级的协作维基，用于您团队的所有知识、文档和笔记. 免费计划包含所有基本功能，最多 50 个项目，总存储空间为 5GB.
   * [Pendulums](https://pendulums.io/) - Pendulums 是一款免费的时间跟踪工具，它具有易于使用的界面和有用的统计数据，可帮助您更好地管理时间.
   * [Raindrop.io](https://raindrop.io)  - 适用于 macOS、Windows、Android、iOS 和 Web 的私密且安全的书签应用程序. 免费无限书签和协作.
   * [element.io](https://element.io/)  — 基于 Matrix 的去中心化开源通信工具. 群聊、直接消息传递、加密文件传输、语音和视频聊天以及与其他服务的轻松集成.
   * [Rocket.Chat](https://rocket.chat/) - 团队共享收件箱，安全、无限制和开源.
   * [seafile.com](https://www.seafile.com/)  — 私有或云存储、文件共享、同步、讨论. 私人版已满. 云版本只有 1 GB
   * [Slab](https://slab.com/)  — 为团队提供的现代知识管理服务. 最多 10 个用户免费.
-  * [slack.com](https://slack.com/) — 对于具有某些功能限制的无限制用户免费
-  * [Spectrum](https://spectrum.chat/) - 免费创建公共或私人社区.
+  * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
+  * [Spectrum](https://spectrum.chat/) - Create public or private communities for free.
   * [StatusPile](https://www.statuspile.com/)  - 状态页面的状态页面. 跟踪上游提供商的状态页面.
   * [talky.io](https://talky.io/)  — 免费群组视频聊天. 匿名的. 点对点. 无需插件、注册或付款
   * [Tefter](https://tefter.io)  - 具有强大 Slack 集成的书签应用程序. 开源团队免费.
-  * [TeleType](https://teletype.oorja.io/)  — 共享终端、语音、代码、白板等. 无需登录，面向开发人员的端到端加密协作.
+  * [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
   * [TimeCamp](https://www.timecamp.com/)  - 无限用户的免费时间跟踪软件. 轻松与 Jira、Trello、Asana 等 PM 工具集成.
   * [Tree Schema](https://treeschema.com/)  — 使用 API 进行数据目录和元数据管理，以将数据沿袭作为代码进行管理. 最多 5 个用户的团队免费.
   * [twist.com](https://twist.com)  — 一个异步友好的团队通信应用程序，其中的对话保持井井有条且切题. 提供免费和无限计划. 为符合条件的团队提供折扣.
@@ -326,7 +326,7 @@
   * [SoftaCheck](https://www.softacheck.com/)  — 使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析并为使用doxygen的用户自动生成代码文档的在线工具. 这个工具是免费使用的.
   * [beanstalkapp.com](https://beanstalkapp.com/) — 编写、审查和部署代码的完整工作流程），1 个用户和 1 个存储库的免费帐户，具有 100 MB 的存储空间
   * [browserling.com](https://www.browserling.com/) — 实时交互式跨浏览器测试，在 Vista 下以 1024 x 768 分辨率免费使用 MS IE 9 仅 3 分钟
-  * [codacy.com](https://www.codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS and CoffeeScript, free for unlimited public and private repositories
+  * [codacy.com](https://www.codacy.com/) — PHP、Python、Ruby、Java、JavaScript、Scala、CSS 和 CoffeeScript 的自动代码审查，免费用于无限的公共和私有存储库
   * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  - 用于 DevOps 的自动化基础设施即代码审查工具与 GitHub、Bitbucket 和 GitLab（甚至自托管）集成. 除了标准语言，它还分析 Ansible、Terraform、CloudFormation、Kubernetes 等.  （开源免费）
   * [CodeBeat](https://codebeat.co)  — 可用于多种语言的自动代码审查平台. 与 Slack 和电子邮件集成的公共存储库永久免费.
   * [codeclimate.com](https://codeclimate.com/)  — 自动代码审查，开源免费和无限的组织拥有的私人存储库（最多 4 个合作者）. 学生和机构也免费.
@@ -394,7 +394,7 @@
   * [LayerCI](https://layerci.com)  — 全栈项目的 CI.  1 个具有 5GB 内存和 3 个 CPU 的全栈预览环境.
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — 持续集成服务的比较
   * [Octopus Deploy](https://octopus.com)  - 自动化部署和发布管理.  &lt;= 10 个部署目标免费.
-  * [scalr.com](https://scalr.com/)  - Terraform 的远程状态和操作后端，具有完整的 CLI 支持、与 OPA 的集成和分层配置模型. 最多可免费 5 个用户.
+  * [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
   * [semaphoreci.com](https://semaphoreci.com/) — 开源免费，每月 100 次私有构建
   * [Squash Labs](https://www.squash.io/) — 为每个分支创建一个 VM，并使您的应用程序可从唯一的 URL、无限的公共和私有存储库、高达 2 GB 的 VM 大小使用.
   * [stackahoy.io](https://stackahoy.io)  — 100% 免费. 无限制的部署、分支和构建
@@ -412,7 +412,7 @@
   * [Bird Eats Bug](https://www.birdeatsbug.com/)  — 更快（更好）报告错误. 使用 Bird 浏览器扩展记录您的屏幕，它会自动捕获工程师需要调试的技术数据. 适合小团队的免费套餐.
   * [browserstack.com](https://www.browserstack.com/) — 手动和自动浏览器测试， [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
   * [checkbot.io](https://www.checkbot.io/)  — 测试您的网站是否遵循 50 多个 SEO、速度和安全最佳实践的浏览器扩展. 小型网站的免费套餐.
-  * [crossbrowsertesting.com](https://crossbrowsertesting.com) - 云端手动、可视化和 Selenium 浏览器测试 - [free for Open Source](https://crossbrowsertesting.com/open-source)
+  * [crossbrowsertesting.com](https://crossbrowsertesting.com) - Manual, Visual, and Selenium Browser Testing in the cloud - [free for Open Source](https://crossbrowsertesting.com/open-source)
   * [cypress.io](https://www.cypress.io/)  - 对浏览器中运行的任何内容进行快速、简单和可靠的测试.  Cypress Test Runner 始终是免费和开源的，没有任何限制和限制.  Cypress Dashboard 可免费用于最多 5 个用户的开源项目.
   * [everystep-automation.com](https://www.everystep-automation.com/) — 记录和重放在 Web 浏览器中执行的所有步骤并创建脚本，...免费，选项较少
   * [Gremlin](https://www.gremlin.com/gremlin-free-software)  — Gremlin 的 Chaos Engineering 工具可让您安全、可靠且简单地将故障注入您的系统，以便在它们导致面向客户的问题之前找到弱点.  Gremlin Free 提供对最多 5 个主机或容器的关闭和 CPU 攻击的访问.
@@ -473,7 +473,7 @@
   * [Sqreen](https://www.sqreen.com/)  — 用于 Web 应用程序和 API 的应用程序安全监控和保护（RASP、WAF 等）.  1 个应用程序和 300 万个请求免费.
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) — 对任何 SSL Web 服务器的配置进行非常深入的分析
   * [StackHawk](https://www.stackhawk.com/) 在整个管道中自动扫描应用程序，以在安全漏洞投入生产之前找到并修复它们. 单个应用程序的无限扫描和环境.
-  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
+  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - 免费的网站安全检查和恶意软件扫描程序
   * [Protectumus](https://protectumus.com)  - 用于 PHP 的免费网站安全检查、网站防病毒和服务器防火墙 (WAF). 免费层中注册用户的电子邮件通知.
   * [TestTLS.com](https://testtls.com) - 测试 SSL/TLS 服务的安全服务器配置、证书、链等.不限于 HTTPS.
   * [threatconnect.com](https://threatconnect.com)  — 威胁情报：它专为开始了解网络威胁情报的个人研究人员、分析师和组织而设计. 最多免费 3 个用户
@@ -515,7 +515,7 @@
   * [logentries.com](https://logentries.com/) — 每月最多免费 5 GB，保留 7 天
   * [loggly.com](https://www.loggly.com/) — 单个用户免费，请参阅 lite 选项
   * [logz.io](https://logz.io/) — 每天最多免费 3 GB，保留 3 天
-  * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-log-management)  — 由管理引擎提供支持的日志管理服务. 免费计划提供 50 GB 的存储空间和 1 个月的保留期.
+  * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-log-management)  — 由管理引擎提供支持的日志管理服务. 免费计划提供 50 GB 存储空间和 1 个月保留期.
   * [papertrailapp.com](https://papertrailapp.com/) — 48 小时搜索，7 天存档，100 MB/月
   * [sematext.com](https://sematext.com/logsene) — 每天最多免费 500 MB，保留 7 天
   * [sumologic.com](https://www.sumologic.com/) — 每天最多免费 500 MB，保留 7 天
@@ -528,12 +528,12 @@
   * [gitlocalize.com](https://gitlocalize.com) - 私人和公共存储库免费且无限制
   * [lingohub.com](https://lingohub.com/) — 最多免费 3 位用户，开源始终免费
   * [localazy.com](https://localazy.com) - 1000 个源语言字符串、无限语言、无限贡献者、初创公司和开源交易免费
-  * [Localeum](https://localeum.com) - 最多免费 1000 个字符串、1 个用户、无限语言、无限项目
+  * [Localeum](https://localeum.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
   * [localizely.com](https://localizely.com/) — 开源免费
   * [Loco](https://localise.biz/) — 免费多达 2000 次翻译、无限翻译、10 种语言/项目、1000 种可翻译资产/项目
-  * [oneskyapp.com](https://www.oneskyapp.com/) — 最多 5 位用户的限量免费版，开源免费
-  * [POEditor](https://poeditor.com/) — 释放多达 1000 个字符串
-  * [SimpleLocalize](https://simplelocalize.io/) - Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals
+  * [oneskyapp.com](https://www.oneskyapp.com/) — Limited free edition for up to 5 users, free for Open Source
+  * [POEditor](https://poeditor.com/) — Free up to 1000 strings
+  * [SimpleLocalize](https://simplelocalize.io/) - 免费多达 100 个翻译键、无限字符串、无限语言、启动交易
   * [Texterify](https://texterify.com/) - 单个用户免费
   * [transifex.com](https://www.transifex.com/) — 开源免费
   * [Translation.io](https://translation.io) - 免费开源
@@ -576,7 +576,7 @@
   * [pagertree.com](https://pagertree.com/)  - 用于提醒和随叫随到管理的简单界面. 最多可免费 5 个用户.
   * [pingbreak.com](https://pingbreak.com/)  — 现代正常运行时间监控服务. 检查无限的 URL 并通过 Discord、Slack 或电子邮件获取停机通知.
   * [pingpong.one](https://pingpong.one/)  — 具有监控功能的高级状态页面平台. 免费套餐包括一个带有 SSL 子域的公共可自定义状态页面. 专业计划免费提供给开源项目和非营利组织.
-  * [sematext.com](https://sematext.com/) — 免费提供 24 小时指标、无限数量的服务器、10 个自定义指标、500,000 个自定义指标数据点、无限制的仪表板、用户等.
+  * [sematext.com](https://sematext.com/) — 24 小时免费指标、无限数量的服务器、10 个自定义指标、500,000 个自定义指标数据点、无限制的仪表板、用户等.
   * [sitemonki.com](https://sitemonki.com/) — 网站、域名、Cron 和 SSL 监控，每个类别 5 个免费监控器
   * [skylight.io](https://www.skylight.io/) — 前 100,000 个请求免费（仅限 Rails）
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — 性能监控 API，检查 Ping、DNS 等.
@@ -614,14 +614,14 @@
 
 ## Email
 
-  * [10minutemail](https://10minutemail.com) - 用于测试的免费临时电子邮件.
+  * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [AnonAddy](https://anonaddy.com) - 开源匿名邮件转发，免费创建无限制的邮件别名
   * [Antideo](https://www.antideo.com)  — 每小时 10 个 API 请求，用于免费层中的电子邮件验证、IP 和电话号码验证. 无需信用卡.
   * [biz.mail.ru](https://biz.mail.ru/) — 5,000 个邮箱，每个带有 DNS 托管的自定义域 25 GB
   * [Bump](https://bump.email/) - 免费 10 个 Bump 电子邮件地址，1 个自定义域
   * [Burnermail](https://burnermail.io/) – 免费 5 个 Burner 电子邮件地址、1 个邮箱、7 天邮箱历史记录
   * [Buttondown](https://buttondown.email/)  — 通讯服务. 多达 1,000 名订阅者免费
-  * [CloudMailin](https://www.cloudmailin.com/) - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month
+  * [CloudMailin](https://www.cloudmailin.com/) - 通过 HTTP POST 和事务性出站接收电子邮件 - 每月 10,000 封免费电子邮件
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — 面向开发人员的电子邮件验证和验证 API，每月 2,000 个免费 API 请求
   * [Contact.do](https://contact.do/) - 链接中的联系表（联系表有点） - 完全免费！
   * [debugmail.io](https://debugmail.io/) — 易于使用的开发人员测试邮件服务器
@@ -649,14 +649,14 @@
   * [Mailtie.com](https://mailtie.com/)  - 您的域的免费电子邮件转发. 无需注册. 永远免费.
   * [mailtrap.io](https://mailtrap.io/) — 用于开发的假 SMTP 服务器，免费计划，1 个收件箱，50 条消息，无团队成员，2 封电子邮件/秒，无转发规则
   * [mailvalidator.io](https://mailvalidator.io/) - 每月免费验证 300 封电子邮件，提供批量处理的实时 API
-  * [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
+  * [mail7.io](https://www.mail7.io/)  — 面向 QA 开发人员的免费临时电子邮件地址. 使用 Web 界面或 API 立即创建电子邮件地址
   * [mohmal.com](https://www.mohmal.com/en) — 一次性临时邮箱
   * [moosend.com](https://moosend.com/)  — 邮件列表管理服务. 为初创公司提供 6 个月的免费帐户
   * [Outlook.com](https://outlook.live.com/owa/) - 免费的个人电子邮件和日历
   * [pepipost.com](https://pepipost.com) — 第一个月免费发送 30k 封电子邮件，然后每天免费发送 100 封电子邮件
   * [phplist.com](https://phplist.com/) — 托管版本允许每月 300 封电子邮件免费
   * [postmarkapp.com](https://postmarkapp.com/) - 每月 100 封免费电子邮件，无限制的 DMARC 每周摘要
-  * [QuickEmailVerification](https://quickemailverification.com) — 每天免费验证 100 封电子邮件以及其他免费 API，如 DEA 检测器、DNS 查找、SPF 检测器等.
+  * [QuickEmailVerification](https://quickemailverification.com) — 每天免费验证 100 封电子邮件以及其他免费 API，如 DEA Detector、DNS Lookup、SPF Detector 等.
   * [Sender](https://www.sender.net) 每月最多 15 000 封电子邮件 - 最多 2 500 名订阅者
   * [sendgrid.com](https://sendgrid.com/) — 每天 100 封电子邮件和 2,000 个免费联系人
   * [sendinblue.com](https://www.sendinblue.com/) — 每月免费 9,000 封电子邮件
@@ -743,7 +743,7 @@
     - 无限域的免费云 DNS.
     - 具有基本 DDoS 保护 + 5 条防火墙规则的免费云安全.
     - 具有 10 GB 存储空间 + 50 GB 流量的免费 VoD（视频点播）平台.
-  * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN for bootstrap, bootswatch and fontawesome.io
+  * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — 用于 bootstrap、bootswatch 和 fontawesome.io 的 CDN
   * [cdnjs.com](https://cdnjs.com/)  - 简单的. 快速地. 可靠的. 最好的内容交付.  cdnjs 是一种免费的开源 CDN 服务，受超过 11% 的网站信任，由 Cloudflare 提供支持.
   * [Cloudflare](https://www.cloudflare.com/)
     * CDN 和免费 SSL
@@ -774,7 +774,7 @@
 
 ## PaaS
 
-  * [anvil.works](https://anvil.works)  - 只用 Python 开发 Web 应用程序. 具有无限应用程序的免费层.
+  * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
   * [appharbor.com](https://appharbor.com/) — 提供 1 个免费工作者的 .Net PaaS
   * [configure.it](https://www.configure.it/) — 移动应用开发平台，2个项目免费，功能有限但没有资源限制
   * [codenameone.com](https://www.codenameone.com/)  — 面向 Java/Kotlin 开发人员的开源、跨平台、移动应用程序开发工具链. 免费用于商业用途，项目数量不限
@@ -807,13 +807,12 @@
   * [ably.com](https://www.ably.com)  - 用于实时消息传递、推送通知和事件驱动 API 创建的 API. 免费计划有 300 万条消息/月，100 个并发连接，100 个并发通道.
   * [back4app.com](https://www.back4app.com) - Back4App 是一个基于 Parse 平台的易于使用、灵活和可扩展的后端.
   * [backendless.com](https://backendless.com/) — Mobile 和 Web Baas，免费提供 1 GB 文件存储，推送通知 50000/月，表中的 1000 个数据对象.
-  * [blockspring.com](https://www.blockspring.com/)  — 云功能. 每月运行 500 万次免费
   * [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp)  — BMC 开发人员计划提供文档和资源，用于为您的企业构建和部署数字创新. 访问全面的个人沙箱，其中包括平台、SDK 和可用于构建和定制应用程序的组件库.
   * [darklang.com](https://darklang.com/)  - 托管语言与编辑器和基础设施相结合. 测试期间免费，测试后计划提供慷慨的免费套餐.
   * [Firebase](https://firebase.com)  — Firebase 可帮助您构建和运行成功的应用. 免费 Spark 计划提供身份验证、托管、Firebase ML、实时数据库、云存储、Testlab.  A/B 测试、分析、应用分发、应用索引、云消息传递 (FCM)、Crashlytics、动态链接、应用内消息传递、性能监控、预测和远程配置始终免费.
   * [Flutter Flow](https://flutterflow.io)  — 无需编写任何代码即可构建您的 Flutter App UI. 还具有 Firebase 集成. 免费计划包括对 UI Builder 和免费模板的完全访问.
   * [getstream.io](https://getstream.io/) — 在几小时而不是几周内构建可扩展的新闻源、活动流、聊天和消息传递
-  * [hasura.io](https://hasura.io/) — 快速构建和部署应用后端的平台，单节点集群免费.
+  * [hasura.io](https://hasura.io/)  — Hasura 将您现有的数据库扩展到任何托管位置，并提供即时 GraphQL API，可安全访问 Web、移动和数据集成工作负载. 每月 1GB 的数据传输免费.
   * [iron.io](https://www.iron.io/) — 异步任务处理（如 AWS Lambda），提供免费套餐和 1 个月的免费试用
   * [netlicensing.io](https://netlicensing.io)  - 经济高效且集成的许可即服务 (LaaS) 解决方案，适用于从桌面到物联网和 SaaS 的任何平台上的软件. 学生期间*免费*的基本计划.
   * [onesignal.com](https://onesignal.com/) — 无限制的免费推送通知
@@ -835,7 +834,7 @@
   * [Supabase](https://supabase.io)  — 构建后端的开源 Firebase 替代方案. 免费计划提供身份验证、实时数据库和对象存储.
   * [tyk.io](https://tyk.io/)  — 具有身份验证、配额、监控和分析功能的 API 管理. 免费云服务
   * [zapier.com](https://zapier.com/)  — 连接您使用的应用程序，以自动执行任务.  5 zaps，每 15 分钟和 100 个任务/月
-  * [LeanCloud](https://leancloud.app/)  — 移动后端.  1GB 数据存储、256MB 实例、3K API 请求/天、10K 推送/天免费.  （API 与 Parse Platform 非常相似）
+  * [LeanCloud](https://leancloud.app/)  — 移动后端.  1GB 数据存储、256MB 实例、3K API 请求/天、10K 推送/天是免费的.  （API 与 Parse Platform 非常相似）
   * [Liteflow](https://liteflow.com/) - 旨在帮助您专注于应用程序的真正价值的低代码开发工具包.
 
 
@@ -858,7 +857,7 @@
   * [commons.host](https://commons.host/)  - 静态网络托管和 CDN.100% 免费和开源软件 (FOSS). 使用商业上可持续的软件即服务 (SaaS) 来资助研发.
   * [pantheon.io](https://pantheon.io/)  — Drupal 和 WordPress 托管、自动化 DevOps 和可扩展的基础架构. 开发商和代理商免费
   * [readthedocs.org](https://readthedocs.org/) — 带有版本控制、PDF 生成等功能的免费文档托管
-  * [render.com](https://render.com) — 用于构建和运行所有应用程序和 Web 应用程序免费 SSL、全球 CDN、专用网络和自动部署的统一平台，可从 Git 中免费部署静态网页.
+  * [render.com](https://render.com) — 用于构建和运行所有应用程序和 Web 应用程序免费 SSL、全球 CDN、私有网络和 Git 自动部署的统一平台，静态网页免费.
   * [sourceforge.net](https://sourceforge.net/) — 免费查找、创建和发布开源软件
   * [Stormkit](https://stormkit.io/)  — 将构建、部署和托管与 JAMStack 或 Node.JS 应用程序的 git 流程无缝集成. 每月免费 50 GB 带宽和 1000 万次请求，包括免费 SSL.
   * [surge.sh](https://surge.sh/)  — 面向前端开发人员的静态 Web 发布. 具有自定义域支持的无限站点
@@ -896,7 +895,6 @@
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – 华为提供的免费 DNS 托管
   * [Hetzner](https://www.hetzner.com/dns-console) – 来自 Hetzner 的免费 DNS 托管，提供 API 支持
   * [Glauca](https://docs.glauca.digital/hexdns/) – 最多 3 个域的免费 DNS 托管和 DNSSEC 支持
-  * [F5](https://www.f5.com/products/ways-to-deploy/cloud-services/dns-cloud-service)  – 主要区域的免费任播 DNS 托管. 每月最多 1 个域和 300 万次请求的辅助区域免费.
 
 
 ## IaaS
@@ -928,6 +926,9 @@
    * [Quickmetrics](https://www.quickmetrics.io/) — 包含仪表板的时间序列数据库，每天最多可释放 10,000 个事件和总共 5 个指标.
    * [restdb.io](https://restdb.io/)  - 快速简单的 NoSQL 云数据库服务. 使用 restdb.io，您可以获得架构、关系、自动 REST API（带有类似 MongoDB 的查询）和用于处理数据的高效多用户管理 UI. 免费计划允许每秒 3 个用户、2500 条记录和 1 个 API 请求.
    * [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — 高达 5GB 和 1vCPU 的免费 CockroachDB.
+   * [Neo4j Aura](https://neo4j.com/cloud/aura/)  — 使用 Cypher 查询语言和 REST API 管理原生图形 DBMS/分析平台. 图大小限制（50k 节点，175k 关系）.
+   * [Dgraph Cloud](https://cloud.dgraph.io/pricing?type=free)  — 使用 GraphQL API 管理原生 Graph DBMS. 每天限制为 1 MB 数据传输. 
+   * [TigerGraph Cloud](https://www.tigergraph.com/cloud/)  — 使用类似 SQL 的图形查询语言和 REST API 管理原生图形 DBMS/分析平台.  AWS（4 vCPU、7.5 GB 内存、50 GB 磁盘）或 GCP（2 vCPU、8 GB 内存、128 GB 磁盘）上的 1 个 TG.Free 实例. 免费实例在 1 小时不活动后休眠.
    * [Macrometa](https://www.macrometa.com/)  - 用于构建地理分布式和实时应用程序的 noSQL 数据库、Pub/Sub、事件处理和无服务器边缘计算平台. 免费开发帐户可访问每天 10,000 次操作和 200MB 存储.
    * [Planetscale](https://planetscale.com/) - PlanetScale 是一个兼容 MySQL 的无服务器数据库平台，由 Vitess 提供支持，3 个免费数据库，10GB 存储空间，每个数据库每月读取 1 亿行，每个数据库每月写入 1000 万行.
    * [YugabyteDB](http://cloud.yugabyte.com)  - YugabyteDB 是一个与 PostgresSQL 兼容的分布式 SQL 数据库. 云免费层是一个 2 vCPU、4GB RAM、10GB 磁盘.
@@ -989,7 +990,7 @@
    * [nTask](https://www.ntaskmanager.com/)  — 项目管理软件，使您的团队能够协作、计划、分析和管理日常任务. 基本计划永久免费，100 MB 存储空间，5 个用户/团队. 无限的工作空间、会议、任务、时间表和问题跟踪.
    * [Ora](https://ora.pm/)  - 敏捷任务管理和团队协作. 最多 3 个用户免费，文件大小限制为 10 MB.
    * [pivotaltracker.com](https://www.pivotaltracker.com/) — 免费用于无限制的公共项目和两个私人项目，共有 3 个活跃用户（读写）和无限制的被动用户（只读）.
-   * [plan.io](https://plan.io/)  — 使用存储库托管和更多选项进行项目管理.  2 个用户、10 个客户和 500MB 存储空间免费
+   * [plan.io](https://plan.io/)  — 带有存储库托管和更多选项的项目管理.  2 个用户、10 个客户和 500MB 存储空间免费
    * [planitpoker.com](https://www.planitpoker.com/) — 免费在线规划扑克（估算工具）
    * [saas.zentao.pm](https://saas.zentao.pm/) - 还提供用于问题跟踪和项目管理的应用程序生命周期管理解决方案、内部部署和开源版本.
    * [ScrumFast](https://www.scrumfast.com) - Scrum 板具有非常直观的界面，最多可释放 5 个用户.
@@ -1090,7 +1091,7 @@
   * [resizeappicon.com](https://resizeappicon.com/) — 调整和管理应用程序图标的简单服务.
   * [Rive](https://rive.app)  — 创建精美的动画并将其传送到任何平台. 个人永久免费. 该服务是一个编辑器，它也在其服务器上托管所有图形. 它们还为许多平台提供运行时来运行使用 Rive 制作的图形.
   * [smartmockups.com](https://smartmockups.com/) — 创建产品模型，200 个免费模型.
-  * [unDraw](https://undraw.co/) - A constantly updated collection of beautiful svg images that you can use completely free and without attribution.
+  * [unDraw](https://undraw.co/) - 不断更新的精美 svg 图片集合，您可以完全免费使用，无需署名.
   * [unsplash.com](https://unsplash.com/) - 用于商业和非商业目的的免费库存照片（做任何你想要的许可）.
   * [vectr.com](https://vectr.com/) — 适用于 Web + 桌面的免费设计应用程序.
   * [walkme.com](https://www.walkme.com/) — 企业级指导和参与平台，免费计划 3 步行，最多 5 步/步行.
@@ -1156,13 +1157,13 @@
    * [codepen.io](https://codepen.io/) — CodePen 是 Web 前端的游乐场.
    * [codesandbox.io](https://codesandbox.io/) — React、Vue、Angular、Preact 等的在线游乐场.
    * [Components.studio](https://webcomponents.dev/) - 独立编码组件，在故事中可视化它们，测试它们并在 npm 上发布它们.
-   * [Eclipse Che](https://www.eclipse.org/che/) - Web based and Kubernetes-Native IDE for Developer Teams with multi-language support. Open Source and community driven. A online instance hosted by Red Hat is available at [workspaces.openshift.com](https://workspaces.openshift.com/).
+   * [Eclipse Che](https://www.eclipse.org/che/)  - 面向具有多语言支持的开发团队的基于 Web 的 Kubernetes 原生 IDE. 开源和社区驱动. 由 Red Hat 托管的在线实例可在 [workspaces.openshift.com](https://workspaces.openshift.com/).
    * [fakejson.com](https://fakejson.com/)  — FakeJSON 可帮助您使用其 API 快速生成假数据. 发出一个 API 请求，描述你想要什么以及你想要它的方式.  API 以 JSON 格式返回所有内容. 加快创意进入市场的过程，并伪造它直到你成功.
    * [gitpod.io](https://www.gitpod.io)  — 用于 GitHub 项目的即时、可编写代码的开发环境. 免费开源.
    * [ide.goorm.io](https://ide.goorm.io)  goormIDE 是云上的完整 IDE. 多语言支持，基于 linux 的容器，通过功能齐全的基于 Web 的终端，端口转发，自定义 url，实时协作和聊天，共享链接，Git/Subversion 支持. 还有更多功能（免费套餐包括每个容器 1GB RAM 和 10GB 存储空间，5 个容器插槽）.
    * [JDoodle](https://www.jdoodle.com) — 用于 60 多种编程语言的在线编译器和编辑器，提供免费的 REST API 代码计划，每天最多可编译 200 个学分.
    * [jetbrains.com](https://jetbrains.com/products.html) — 生产力工具、IDE 和部署工具（又名 [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) ， 等等）. 学生、教师、开源和用户组的免费许可证.
-   * [jsbin.com](https://jsbin.com) — JS Bin 是前端 Web（HTML、CSS 和 JavaScript.也支持 Markdown、Jade 和 Sass）的另一个游乐场和代码共享站点.
+   * [jsbin.com](https://jsbin.com) — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).
    * [jsfiddle.net](https://jsfiddle.net/) — JS Fiddle 是前端 web 的游乐场和代码共享站点，也支持协作.
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) 一些 REST API 端点以 JSON 格式返回一些假数据. 如果您想在本地运行服务器，也可以使用源代码.
    * [Katacoda](https://katacoda.com) — 软件工程师的交互式学习和培训平台，帮助开发人员学习和公司提高采用率.
@@ -1237,7 +1238,7 @@
 
 ## International Mobile Number Verification API and SDK
 
-  * [cognalys.com](https://cognalys.com/)  — 通过创新且可靠的方法验证免费增值手机号码，而不是使用 SMS 网关. 每天免费 10 次尝试和 15 次验证
+  * [cognalys.com](https://cognalys.com/) — Freemium mobile number verification through an innovative and reliable method than using SMS gateway. Free 10 tries and 15 verifications/day
   * [numverify.com](https://numverify.com/)  — 全球电话号码验证和查找 JSON API.  250 个 API 请求/月
   * [veriphone.io](https://veriphone.io/)  — 免费、快速、可靠的 JSON API 中的全球电话号码验证.  1000 次请求/月
 
@@ -1251,7 +1252,7 @@
   * [exchangerate-api.com](https://www.exchangerate-api.com)  - 易于使用的货币转换 JSON API. 免费套餐，没有请求限制.
   * [fraudlabspro.com](https://www.fraudlabspro.com)  — 帮助商户防止支付欺诈和退款. 免费的微型计划可提供 500 次查询/月.
   * [mailpop.in](https://mailpop.in) - 通过上下文信息充分利用您的 Stripe 通知.
-  * [namiml.com](https://www.namiml.com/)  - 适用于 iOS 和 Android 上的应用内购买和订阅的完整平台，包括无代码付费墙、CRM 和分析. 免费提供所有基本功能来运行 IAP 业务.
+  * [namiml.com](https://www.namiml.com/) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
   * [revenuecat.com](https://www.revenuecat.com/)  — 用于应用内购买和订阅（iOS 和 Android）的托管后端. 每月可免费获得高达 1 万美元的跟踪收入.
   * [vatlayer.com](https://vatlayer.com/) — 即时增值税号验证和欧盟增值税税率 API，每月免费 100 个 API 请求
   * [freecurrencyapi.net](https://freecurrencyapi.net/)  — 免费货币转换和汇率数据 API.  10 个请求/小时，无需 API 密钥，免费注册时每月 50 000 个请求.
@@ -1264,7 +1265,7 @@
   * [Docker Hub](https://hub.docker.com) — 一个免费的私有存储库和无限的公共存储库来构建和存储 Docker 镜像
   * [Play with Docker](https://labs.play-with-docker.com/) — 一个简单、互动且有趣的学习 Docker 的游乐场.
   * [quay.io](https://quay.io/) — 使用无限制的免费公共存储库构建和存储容器映像
-  * [TreeScale.com](https://treescale.com/) — Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.
+  * [TreeScale.com](https://treescale.com/)  — 使用组权限托管和管理容器映像. 免费层为私有存储库提供 1 GB 存储空间.
 
 
 ## Vagrant Related
@@ -1281,7 +1282,7 @@
 
 
 ## Commenting Platforms
-  * [Staticman](https://staticman.net/) - Staticman 是一个 Node.js 应用程序，它接收用户生成的内容，并使用拉取请求将其作为数据文件上传到 GitHub 和/或 GitLab 存储库.
+  * [Staticman](https://staticman.net/) - Staticman 是一个 Node.js 应用程序，它接收用户生成的内容并使用拉取请求将其作为数据文件上传到 GitHub 和/或 GitLab 存储库.
   * [GraphComment](https://graphcomment.com/) - GraphComment 是一个评论平台，可帮助您从网站的受众中建立一个活跃的社区.
   * [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、维基页面等！
   * [Disqus](https://disqus.com/) - Disqus 是一个网络社区平台，被整个网络上的数十万个站点所使用.
@@ -1291,7 +1292,7 @@
 
   * [24browser.com](https://www.24browser.com) – 使用强大的 API 大规模捕获呈现精美的网站屏幕截图.
   * [ApiFlash](https://apiflash.com)  — 基于 Aws Lambda 和 Chrome 的屏幕截图 API. 处理整页，捕获时间，视口尺寸，...
-  * [microlink.io](https://microlink.io/) – It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities or screenshots as a service. 250 reqs/day every day free.
+  * [microlink.io](https://microlink.io/)  – 它将任何网站转换为数据，例如元标签规范化、美容链接预览、抓取功能或屏幕截图即服务. 每天 250 个请求/天免费.
   * [ScreenshotAPI.net](https://screenshotapi.net/)  - Screenshot API 使用一个简单的 API 调用来生成任何网站的屏幕截图. 构建以扩展并托管在 Google Cloud 上. 每月提供 100 张免费屏幕截图.
   * [screenshotlayer.com](https://screenshotlayer.com/)  — 捕获任何网站的高度可定制的快照. 每月免费 100 张快照
   * [screenshotmachine.com](https://www.screenshotmachine.com/) — 每月捕捉 100 张快照、png、gif 和 jpg，包括全长捕捉，而不仅仅是主页

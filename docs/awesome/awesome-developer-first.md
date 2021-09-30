@@ -40,7 +40,7 @@
 ## CI/CD
 *持续集成/交付.*
 * [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行作业、作业市场.
-* [Gitlab](https://gitlab.com/) - 具有类似 Github 的能力的开源 CI 和托管解决方案.
+* [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 
 ## CMS (headless)
 * [Tipe](https://tipe.io/) - 开源无头 CMS.
@@ -149,9 +149,11 @@
 *监控您的生产应用程序.*
 * [Sentry](https://sentry.io/) - 应用程序监控错误和性能.
 * [KeenIO](https://keen.io/) - 事件流媒体平台.
-* [Rollbar](https://rollbar.com/) - Reports errors in production.
+* [Rollbar](https://rollbar.com/) - 报告生产中的错误.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Dashbird](https://dashbird.io/) - 无服务器实时监控.
+* [Statuspal](https://statuspal.io) - 具有集成的服务的公共/私人状态页面.
+* [instatus](https://instatus.com) - 极简主义 Jamstack 状态页面.
 
 ## Natural Language Processing
 *与自然语言的交互.*
@@ -160,7 +162,7 @@
 
 ## Payments
 *处理付款、信用卡处理和发票.*
-* [Stripe Payments](https://stripe.com/payments) - 通过 API 接受付款并在全球范围内转移资金.
+* [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
 * [Braintree](https://www.braintreepayments.com/) - Paypal 采取 API 优先支付方式.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
 * [Paddle](https://paddle.com/) - 具有广泛地域支持的 SaaS 收入交付平台（与目前的 Stripe 不同）.

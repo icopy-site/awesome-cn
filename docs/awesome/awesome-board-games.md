@@ -149,7 +149,7 @@
 
 ### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 
- &gt; 也被称为蛇和梯子，滑道和梯子简单易玩，即使对于那些不会阅读的人也是如此. 爬上梯子和滑下滑道，孩子将（通过图片）了解善行的回报和顽皮行为的后果. 
+ &gt; 也被称为蛇和梯子，滑槽和梯子简单易玩，即使对于那些不会阅读的人也是如此. 爬上梯子和滑下滑道，孩子将（通过图片）了解善行的回报和顽皮行为的后果. 
 
 ![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
 
@@ -209,7 +209,7 @@
 
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
- &gt; 圣托里尼是一款容易上手的策略游戏，简单到适合小学课堂，同时旨在为铁杆玩家提供游戏深度和内容探索，规则简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到邻近空间）和建造（建造一个与您移动的建造者相邻的建筑层）. 如果您的任一建造者达到第三级，您就获胜.
+ &gt; 圣托里尼是一款容易上手的策略游戏，简单到适合小学课堂，同时旨在为铁杆玩家提供游戏深度和内容探索，规则简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到邻近空间）和建造（建造一个与您移动的建造者相邻的建筑层）. 如果您的任何一个建造者达到第三级，您就获胜.
 
 ![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
 
@@ -244,7 +244,7 @@
 
  &gt; 你是古代世界七大城市之一的领袖. 收集资源，开发商业路线，并肯定你的军事霸权. 建造你的城市，建造一座超越未来时代的建筑奇迹.
 
-![7 Wonders game image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/7_wonders_board_game_cover.jpg/200px-7_wonders_board_game_cover.jpg)
+![7 Wonders game image](https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc()/pic860217.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
@@ -296,7 +296,7 @@
 
  &gt; 权力的游戏允许玩家扮演几个大家族的角色，争夺七大王国的控制权，包括史塔克家族、兰尼斯特家族、拜拉席恩家族、葛雷乔伊家族、提利尔家族以及扩展包 A Clash国王，马爹利家族. 玩家操纵军队在组成七国的各个地区获得支持，目标是获得足够的支持来夺取铁王座. 基本的游戏机制让人想起外交，尤其是在下达命令的过程中，尽管《权力的游戏》总体上要复杂得多.
 
-![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
+![Game of thrones boardgame image](https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__itemrep/img/ZdvVWyy_BWv4QMZ7x1bxYGU0DE0=/fit-in/246x300/filters:strip_icc()/pic1077906.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -------: |
@@ -314,7 +314,7 @@
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
- &gt; Cthulhu Wars 是一款关于世界末日的快节奏策略游戏. 你扮演各种寻求主宰世界的可怕外星人的角色. 你可以扮演伟大的克苏鲁本人，或者你可以负责其他派系，例如混沌爬行的大群，或黄色标志的疯狂爪牙.
+ &gt; Cthulhu Wars 是一款关于世界末日的快节奏策略游戏. 你扮演各种寻求主宰世界的可怕外星人的角色. 你可以扮演伟大的克苏鲁本人，也可以掌管其他派系，例如混沌爬行的部落，或黄色标志的疯狂爪牙.
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
@@ -332,11 +332,11 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       15 | 30-120m |
 
-### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
+### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
  &gt; 在 Clockwork Wars 中，每个玩家都在一个以幻想蒸汽朋克世界为背景的紧张战争游戏中指挥着一个独特的生物种族. 控制精明的纯种、勤劳的穴居人、强大的犀牛或骄傲的杂种人. 你的目标是打败你的敌人，并通过九轮比赛积累最多的胜利点数. 您通过争夺包含宝贵自然资源的领土的控制权来赚取积分. 要赢得这些战斗，您需要通过夺取村庄并将其发展为城市来获得人力. 投资研究并发现惊人的新技术、部署部队、研究强大的发现、使用间谍活动并征服敌人以赢得比赛！
 
-![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
+![Clockwork Wars game image](https://cf.geekdo-images.com/hqnGEUQvqBevvs6vmA_N8Q__itemrep/img/YBF6w9nWSsasYnzP_mQ4drM02-g=/fit-in/246x300/filters:strip_icc()/pic2355823.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ------: |
@@ -344,7 +344,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt; 一个腐败的城市，受制于邪恶和贪婪，受到邪恶人物的控制. 权力的座位是空的，等着你去拿——除非别人先拿. 在 Complots 中，就像在原始游戏 Coup 中一样，你控制两个角色并从两个硬币开始，通过诡计、操纵和虚张声势，你想消除所有阻碍你的其他玩家，可能让他们沿着办法.
+ &gt; 一个腐败的城市，受制于邪恶和贪婪，受到邪恶人物的控制. 权力的座位是空的，等着你去拿——除非别人先拿. 在 Complots 中，就像在原始游戏 Coup 中一样，你控制两个角色并从两个硬币开始，通过诡计、操纵和虚张声势，你想消除所有阻碍你的其他玩家，可能让他们沿着道路.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -356,7 +356,7 @@
 
  &gt; 瓷砖放置游戏，玩家绘制并放置一块带有法国南部景观的瓷砖. 建造您的城堡，将它们与道路和草原连接起来，为角色分配角色并得分.
 
-![Carcassonne game image](https://battlequarters.com/2277-home_default/carcassonne-board-game.jpg)
+![Carcassonne game image](https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc()/pic2337577.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -366,7 +366,7 @@
 
  &gt; 爆炸小猫是俄罗斯轮盘赌的高度战略性、小猫驱动版本. 它是 Kickstarter 历史上资金最多的游戏，为现代世界的和平与安宁铺平了道路. 它还具有由 The Oatmeal 插图的卡片.
 
-<img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260">
+![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
@@ -579,7 +579,7 @@
 
  &gt; One Night Ultimate Werewolf 是一款快节奏的游戏，每个人都可以扮演不同的角色. 在仅仅一个晚上和第二天早上的过程中，玩家将确定其中谁是狼人......希望如此.
 
-![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW-BOX-COVER_250x250.jpg?v=1554841270)
+![werewolf game image](https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__itemrep/img/qv0WkrvyQumuNtJry2pjodxjZ5k=/fit-in/246x300/filters:strip_icc()/pic1809823.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -599,7 +599,7 @@
 
  &gt; 想象自己处于发现时代：在经历了极度贫困的长途航行之后，您的船只终于到达了一个未知岛屿的海岸. 它的名字应该是卡坦岛！ 但您并不是唯一的发现者. 其他无畏的海员也登陆了卡坦岛的海岸：定居该岛的竞赛已经开始！
 
-![catan game image](https://www.catan.com/sites/all/themes/catan/images/start-packshot_mayfair_neu.png)
+![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -629,7 +629,7 @@
 
  &gt; Bears vs Babies 是一款纸牌游戏，您可以在其中建造英俊、不可思议的怪物，并与可怕的婴儿开战. 共享卡组由熊部件（和其他怪物部件）和婴儿卡组成. 当你画一个零件时，你用它为自己建造一个怪物； 当你画一个婴儿时，它会在桌子的中央. 当婴儿被激怒时，他们会进行攻击，任何怪物部分少于攻击婴儿数量的人都会失去他们的怪物； 每个拥有比婴儿更多的零件的人都击败了这支婴儿军队并得分.
 
-![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
+![Bears vs. Babies Image](https://cf.geekdo-images.com/iJpO2VOezeMXuclGqR_mXg__itemrep/img/TQYpLmeNOiCXBmEVHLDOpa9oxGI=/fit-in/246x300/filters:strip_icc()/pic3231155.png)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -650,7 +650,7 @@
 &gt; 来自 Cyanide &amp; Happiness 的创作者推出了一款纸牌游戏，玩家可以通过竞争来完成一部糟糕的漫画.
  &gt; 创作者表示：“曾经有网友告诉我们，制作简笔画简直是易如反掌，而且我们又丑又笨.他们各方面都是对的.所以，哭了几个小时后，我们创作了Random Comic Generator 自 2014 年推出以来，凭借其计算机生成的喜剧吸引了数百万人.在使用 Random Comic Generator 玩了几周后，我们开始怀疑它的数百个随机面板是否可以用于纸牌游戏，其中“你和你的朋友竞争，完成一部有趣的漫画.所以我们打印了所有的 RCG 面板并开始和它们一起玩.” 抽7张牌. 一副牌打出第一张牌，选择一位法官打第二张，然后每个人选择第三张牌来制作三幅漫画. 法官选出一名获胜者. 该游戏包括一副由 250 张独特的面板卡组成的套牌 - 即 1540 万种漫画组合！
 
-<img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
+![Joking Hazard image](https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__itemrep/img/5CtvRcuyQMZZV1QYhGNeSGo4J7Q=/fit-in/246x300/filters:strip_icc()/pic6411897.png)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -658,9 +658,9 @@
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
- &gt; 一开始你认为你在玩古老的大富翁游戏，他们只是添加了一些额外的建筑来做一些扭曲. 但是你玩的时间越长，你就越意识到他们实际上制作了一款全新的游戏. 你一开始的钱比平时多，这让你觉得你会活得更久（也许有点运气）. 现在您可以在购买房产后立即建造，这一事实为游戏带来了如此多的活力. 无需再等待直到您拥有完整的套装，或者因为一位玩家拒绝交易而没有套装. 即使有几个单一的属性，您也可以赢得比赛.
+ &gt; 一开始你认为你在玩古老的大富翁游戏，他们只是添加了一些额外的建筑来做一些扭曲. 但是你玩的时间越长，你就越意识到他们实际上制作了一款全新的游戏. 你一开始的钱比平时多，这让你觉得你会活得更久（也许有点运气）. 现在您可以在购买房产后立即建造，这一事实为游戏带来了如此多的活力. 无需再等待直到您拥有完整的套装，或者因为一位玩家拒绝交易而没有套装. 即使有几个单一的属性，你也可以赢得比赛.
 
-<img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
+![Monopoly image](https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -698,7 +698,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt; “洗牌”游戏 Smash Up 以一个简单的前提开始：将两个派系的 20 张牌洗成一副 40 张牌，然后竞争以粉碎比对手更多的基地！ 每个派系都涉及不同的游戏机制——海盗移动卡片，僵尸从弃牌堆中取回卡片，恐龙拥有巨大的力量——每个派系的组合都会带来不同的游戏体验.
+ &gt; “shufflebuilding”游戏 Smash Up 以一个简单的前提开始：将两个派系的 20 张牌洗成一副 40 张牌，然后竞争以粉碎比对手更多的基地！ 每个派系都涉及不同的游戏机制——海盗移动卡片，僵尸从弃牌堆中取回卡片，恐龙拥有巨大的力量——每个派系的组合都会带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -774,7 +774,7 @@
 
  &gt; TZAAR 是 GIPF 系列抽象策略游戏中的第二款游戏. 每个玩家都有不同类型的棋子（6 个沙皇、9 个沙皇和 15 个沙皇）. 玩家轮流尝试捕获对手的棋子或堆叠他们的棋子. 堆叠棋子使它们更强大，但会减少玩家在棋盘上的棋子数量. 如果玩家无法捕获对手的棋子，或者他们的棋子上没有至少一种类型的棋子，则玩家失败.
 
-![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
+![TZAAR image](https://cf.geekdo-images.com/83RmBw8qTkDJo7qC-YY8og__itemrep/img/MsIQXw5i3XfQPNqcsKM56bPS-So=/fit-in/246x300/filters:strip_icc()/pic3607816.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
@@ -792,7 +792,7 @@
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 
- &gt; Cranium 称自己为“全脑”游戏. 这是一款借鉴了近期许多其他流行派对游戏的派对游戏. 玩家必须成功完成四个部分中的每个部分的活动才能获胜.  1) 创意猫 - 玩家必须通过绘画、用粘土雕刻或闭上眼睛绘画的方式向他或她的队友提示单词.  2) 数据头 - 各种琐事问题.  3) Word Worm - 玩家解读单词、拼写具有挑战性的单词、猜测定义、识别遗漏字母的单词或拼写单词backwords.  4) 明星表演者 - 玩家必须吹口哨、冒充名人或表演线索.  Cranium 的元素类似于 Pictionary、Charades、Trivial Pursuit: Genus Edition、Celebrities、Huggermugger、Claymania 等.
+ &gt; Cranium 称自己为“全脑”游戏. 这是一款借鉴了近期许多其他流行派对游戏的派对游戏. 玩家必须成功完成四个部分中的每个部分的活动才能获胜.  1) 创意猫 - 玩家必须通过绘画、用粘土雕刻或闭上眼睛绘画的方式向他或她的队友提示单词.  2) 数据头 - 各种琐事问题.  3) Word Worm - 玩家解读单词、拼写具有挑战性的单词、猜测定义、识别遗漏字母的单词或拼写单词backwords.  4) 明星表演者 - 玩家必须吹口哨、模仿名人或表演线索.  Cranium 的元素类似于 Pictionary、Charades、Trivial Pursuit: Genus Edition、Celebrities、Huggermugger、Claymania 等.
 
 ![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
 

@@ -6,7 +6,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 >
 > [PlayCanvas](https://playcanvas.com/) 是一个用于构建交互式 Web 内容的开源平台. 它是用 JavaScript、HTML5、CSS3 和 WebGL 编写的.
 >
-&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精彩资源、工具、教程和项目的精选集合.
+&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
 >
 &gt; 贡献_非常欢迎_但先看看 [Contributing](#contributing).
 
@@ -63,7 +63,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [After the Flood](https://playcanv.as/p/44MRmJRU/) - 与 Mozilla 合作推广 WebGL 2.
 - [Casino](https://playcanv.as/p/LpmXGUe6/) - 物理渲染的 3D 赌场环境.
 - [Global Illumination](https://playcanv.as/p/ZV4PW6wr/) - 使用插值光照贴图的 GI 近似值.
-- [Seemore](https://playcanv.as/p/MflWvdTW/) - Collaboration with ARM to promote mobile WebGL.
+- [Seemore](https://playcanv.as/p/MflWvdTW/) - 与 ARM 合作推广移动 WebGL.
 - [Sponza](https://playcanv.as/p/txPePQvy/) - 运行时光照贴图 Sponza 环境.
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - 来自 PlayCanvas 的首个 PBR 演示.
 - [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - 物理渲染的老虎机.
@@ -95,7 +95,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - 仔细选择电源来击败一波又一波的敌舰.
 - [Garden Bloom](https://play.famobi.com/garden-bloom) - 以花园为主题的 2D 三消游戏.
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D匹配3游戏.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) - 从几何形状构建的程式化的无尽赛跑者.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) - 由几何形状构成的程式化无尽赛跑者.
 - [Hoop Royale](https://play.famobi.com/hoop-royale) - 在球周围操纵环.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - 恐龙、乐高和汽车特技.
 - [Mahjong World](https://play.famobi.com/mahjong-world) - 3D麻将益智游戏.
@@ -109,7 +109,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Star Stable](https://www.starstable.com/en/register) - 流行马游戏的角色注册门户.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - 基于物理的益智游戏.
 - [TNT Bomb](https://play.famobi.com/tnt-bomb) - 用爆炸性的力量摧毁建筑物和结构.
-- [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - 在神奇岛屿上方的双翼飞机上拾取宝石.
+- [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 - [Town Star](https://gala.games) - 由 Farmville 2 创意总监打造的在线农场游戏.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - 巫毒娃娃模拟器.
 
@@ -119,6 +119,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - 比你的对手画得更快以赢得比赛.
 - [Mini Royale 2](https://miniroyale2.io/) - 大逃杀第一人称射击游戏.
 - [Robostorm](https://robostorm.io/) - 狂热的在线多人机甲战斗游戏.
+- [Rollem](https://rollem.io/) - 在最快的时间内引导您的仓鼠到达障碍训练场的尽头.
 - [Tank Royale](https://tankroyale.io/) - 卡通快节奏的自上而下多人射击游戏.
 - [TANX](https://tanx.io) - 在线多人坦克战游戏.
 - [Venge](https://venge.io/) - 3D 多人 FPS 射击游戏.
@@ -160,7 +161,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 
 ## AR/VR/XR
 
-- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 高度逼真的室内环境展示了房间规模的 VR.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 一个高度逼真的室内环境，展示了房间规模的 VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景样式基于 WebXR 的主页.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 

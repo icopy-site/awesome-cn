@@ -90,7 +90,7 @@
 -  [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - 为具有可配置边框和背景的工具提示箭头添加 CSS 实用程序.
 -  [Bidirectional](https://github.com/20lives/tailwindcss-rtl) - 添加用于创建多语言双向布局的实用程序.
 -  [Bidirectional](https://github.com/yassinebridi/tailwind-direction) - 将核心实用程序替换为双向兼容.
--  [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - Inject SVGs as background images with color variants.
+-  [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - 注入 SVG 作为具有颜色变体的背景图像.
 -  [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - 为背景、边框和文本添加各种品牌颜色.
 -  [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - 生成 Bootstrap 风格的 flexbox 网格系统.
 -  [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - 添加实用程序来修剪文本空白，使用 [Capsize](https://github.com/seek-oss/capsize).
@@ -116,7 +116,7 @@
 -  [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加显示当前活动屏幕的组件（响应断点）.
 -  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 成分.
 -  [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加了一个“响应式嵌入”组件.
--  [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 基于 Bootstrap 的表格添加表格组件.
+-  [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - Adds table components based on Bootstrap's tables.
 -  [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.
 -  [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - 添加 _Skip 到主要内容_ 可访问组件.
 -  [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - 将颜色配置导出到 CSS 自定义属性.
@@ -181,6 +181,7 @@
 -  [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
 -  [tailwind.run](https://tailwind.run) - 带有内置功能的 Tailwind CSS 小提琴（在线）.
 -  [tailzilla.app](https://tailzilla.app) - Tailwind CSS 的在线游乐场.
+-  [Flowrift](https://flowrift.com) - 设计精美的 Tailwind CSS UI 块.
 -  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind 类的前缀工具.
 -  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - 通过建议最匹配的类将 CSS 转换为 Tailwind CSS.
 -  [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap 到 Tailwind CSS 转换器.
@@ -214,7 +215,7 @@
 -  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
 -  [Maizzle](https://maizzle.com/) - 使用 Tailwind CSS 进行快速电子邮件原型设计的框架.
 -  [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS 类名称备忘单.
--  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS class names in one single file.
+-  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - 单个文件中的 Tailwind CSS 类名称.
 -  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名称、变体和指令备忘单.
 -  [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
 
@@ -252,12 +253,13 @@
 -  [Mamba UI](https://mambaui.com) - 免费的 Tailwind CSS 组件、部分和模板.
 -  [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - Vue.js 和 Tailwind CSS 的日期范围选择器组件.
 -  [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - 添加了使用 Tailwind CSS 和 vanilla JavaScript 构建的日期选择器组件.
+-  [Tailwind Typeahead](https://github.com/basarozcan/vue-tailwindcss-typeahead) - 使用 Vue.js 和 Tailwind CSS 构建的 Typeahead/Autocomplete 组件.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - 多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) - 带有 Tailwind CSS 的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) - 使用渐变的登陆页面模板 (1.7+).
 -  [Resume](https://github.com/mohusman360/mohusman360.github.io) - 使用 Tailwind CSS 的简单简历.
 -  [Resume](https://github.com/Thomashighbaugh/resume) - 使用 Tailwind CSS 构建的风格化简历模板，具有漂亮的英雄图案背景和自定义字体.
--  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React &amp; Tailwind CSS 构建的免费登陆页面模板.
+-  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - 使用 Vue 3 和 Tailwind CSS 构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - 使用 Nuxt.js 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [Tailmin](https://github.com/otezz/tailmin) - 使用 Vue.js 和 Tailwind CSS 构建的管理仪表板.
@@ -360,7 +362,7 @@
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) - 使用 Tailwind CSS 和 Vue.js 构建可自定义的模式.
 -  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - 使用 Tailwind CSS 构建导航.
 -  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - 如何使用 Tailwind CSS 设置表单样式.
--  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - 使用 CSS 网格和 Tailwind CSS 构建照片库.
+-  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) - Building a photo gallery with CSS grids and Tailwind CSS.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) - 使用 Vue.js 和 Tailwind CSS 重建 Bartik（Drupal 的默认主题）.
 -  [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - 使用 Tailwind CSS 重建 Airbnb 的主页.
 -  [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)

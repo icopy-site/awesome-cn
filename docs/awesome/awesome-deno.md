@@ -62,7 +62,11 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 一个允许使用 MaxmindDB geoIP 数据库文件的库
 - [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
-- [yongo](https://github.com/yooneskh/yongo) - deno 中的猫鼬 api 子集（如填充）但不会完全复制猫鼬
+- [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
+
+### Editor framework
+
+- [Denops](https://github.com/vim-denops/denops.vim) - 使用 Deno 编写 Vim/Neovim 插件的生态系统.
 
 ### Frontend development
 - [postcss](https://github.com/postcss/postcss-deno) - 使用 JS 插件转换样式的工具.
@@ -86,7 +90,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [camelcase](https://github.com/denolib/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
 - [deno_case_style](https://github.com/zekth/deno_case_style)  - 不同大小写样式的字符串验证器和格式器. 例如：camelCase 等.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - 格式化、修剪和删除字符串中字符之间的多余空格.
-- [deno-slugify](https://github.com/jcardama/deno_slugify) - A string slugifier for deno.
+- [deno-slugify](https://github.com/jcardama/deno_slugify) - deno 的字符串 slugifier.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - 删除字符串中的重音/变音符号.
 
 ### Template engine
@@ -99,7 +103,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 ### Testing
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - deno 的彩色 assertEqual.
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - 提供高级 API 以通过 DevTools 协议控制 Chromium 或 Chrome 的库.
-- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试这样的笑话的助手.
+- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试一样的笑话的助手.
 - [merlin](https://github.com/crewdevio/merlin) - deno 的测试和基准测试框架 ‍♂️
 - [pretty_benching](https://github.com/littletof/prettyBenching) - 一个小型库，可让您的 Deno 基准测试进度和结果看起来很漂亮.
 - [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
