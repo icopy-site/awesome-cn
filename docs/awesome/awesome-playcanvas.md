@@ -132,7 +132,6 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - 点球比赛.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - 头对头篮球比赛.
 - [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - 从鲍勃的头顶射出水果.
-- [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) - 沙盒体素构建游戏.
 
 ## Automotive
 

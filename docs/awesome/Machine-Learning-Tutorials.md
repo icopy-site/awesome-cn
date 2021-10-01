@@ -3,9 +3,9 @@
 
 ## Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- -该存储库包含按主题分类的机器学习和深度学习教程，文章和其他资源清单.  其他很棒的清单可以在这里找到 [list](https://github.com/sindresorhus/awesome).
+ - 此存储库包含机器学习和深度学习教程、文章和其他资源的主题精选列表. 其他很棒的列表可以在这里找到 [list](https://github.com/sindresorhus/awesome).
 
--如果您想为这个清单做贡献，请阅读 [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
+- 如果您想为此列表做出贡献，请阅读 [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
 - [Curated list of R tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataScienceR).
 
@@ -18,6 +18,8 @@
 ## Introduction
 
 - [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
+
+- [AI/ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 - [Curated List of Machine Learning Resources](https://hackr.io/tutorials/learn-machine-learning-ml)
 
@@ -121,17 +123,17 @@
 
 ## Statistics
 
-- [Stat Trek Website](http://stattrek.com/) -一个专门的网站来教自己统计
+- [Stat Trek Website](http://stattrek.com/) - 自学统计的专用网站
 
-- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) -使用以应用程序为中心的编程方法学习统计信息
+- [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - 使用以应用程序为中心的编程方法学习统计
 
-- [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) -杰克·范德普拉斯（Jake VanderPlas）制作的幻灯片
+- [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Jake VanderPlas 的幻灯片
 
-- [Online Statistics Book](http://onlinestatbook.com/2/index.html) -互动式多媒体研究课程
+- [Online Statistics Book](http://onlinestatbook.com/2/index.html) - 学习统计学的交互式多媒体课程
 
 - [What is a Sampling Distribution?](http://stattrek.com/sampling/sampling-distribution.aspx)
 
--教程
+- 教程
 
     - [AP Statistics Tutorial](http://stattrek.com/tutorials/ap-statistics-tutorial.aspx)
     
@@ -145,51 +147,51 @@
 
 - [What are QQ Plots?](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
-- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) -免费的PDF教科书
+- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - 免费的PDF教科书
 
 <a name="blogs" />
 
 ## Useful Blogs
 
-- [Edwin Chen's Blog](http://blog.echen.me/) -有关数学，统计，机器学习，众包，数据科学的博客
+- [Edwin Chen's Blog](http://blog.echen.me/) - 关于数学、统计、机器学习、众包、数据科学的博客
 
-- [The Data School Blog](http://www.dataschool.io/) -面向初学者的数据科学！
+- [The Data School Blog](http://www.dataschool.io/) - 适合初学者的数据科学！
 
-- [ML Wave](http://mlwave.com/) -学习机器学习的博客
+- [ML Wave](http://mlwave.com/) - 学习机器学习的博客
 
-- [Andrej Karpathy](http://karpathy.github.io/) -有关深度学习和数据科学的博客
+- [Andrej Karpathy](http://karpathy.github.io/) - 一般关于深度学习和数据科学的博客
 
-- [Colah's Blog](http://colah.github.io/) -很棒的神经网络博客
+- [Colah's Blog](http://colah.github.io/) - 很棒的神经网络博客
 
-- [Alex Minnaar's Blog](http://alexminnaar.com/) -有关机器学习和软件工程的博客
+- [Alex Minnaar's Blog](http://alexminnaar.com/) - 关于机器学习和软件工程的博客
 
-- [Statistically Significant](http://andland.github.io/) -Andrew Landgraf的数据科学博客
+- [Statistically Significant](http://andland.github.io/) - Andrew Landgraf 的数据科学博客
 
-- [Simply Statistics](http://simplystatistics.org/) -三位生物统计学教授的博客
+- [Simply Statistics](http://simplystatistics.org/) - 三位生物统计学教授的博客
 
-- [Yanir Seroussi's Blog](https://yanirseroussi.com/) -关于数据科学及其他领域的博客
+- [Yanir Seroussi's Blog](https://yanirseroussi.com/) - 关于数据科学及其他领域的博客
 
-- [fastML](http://fastml.com/) -机器学习变得轻松
+- [fastML](http://fastml.com/) - 机器学习变得容易
 
-- [Trevor Stephens Blog](http://trevorstephens.com/) -Trevor Stephens个人页面
+- [Trevor Stephens Blog](http://trevorstephens.com/) - 特雷弗斯蒂芬斯个人页面
 
-- [no free hunch | kaggle](http://blog.kaggle.com/) -关于数据科学万物的Kaggle博客
+- [no free hunch | kaggle](http://blog.kaggle.com/) - 关于所有数据科学的 Kaggle 博客
 
-- [A Quantitative Journey | outlace](http://outlace.com/) -学习定量应用
+- [A Quantitative Journey | outlace](http://outlace.com/) - 学习定量应用
 
-- [r4stats](http://r4stats.com/) -分析数据科学的世界，并帮助人们学习使用R
+- [r4stats](http://r4stats.com/) - 分析数据科学的世界，并帮助人们学习使用 R
 
-- [Variance Explained](http://varianceexplained.org/) -David Robinson的博客
+- [Variance Explained](http://varianceexplained.org/) - 大卫罗宾逊的博客
 
-- [AI Junkie](http://www.ai-junkie.com/) -关于人工智慧的博客
+- [AI Junkie](http://www.ai-junkie.com/) - 关于人工智能的博客
 
-- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) -使深度学习变得容易
+- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) - 使深度学习易于访问
 
-- [J Alammar's Blog](http://jalammar.github.io/)-有关机器学习和神经网络的博客文章
+- [J Alammar's Blog](http://jalammar.github.io/)- 关于机器学习和神经网络的博客文章
 
-- [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) -最简单的机器学习入门
+- [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - 最简单的机器学习入门
 
-- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning)  -不断更新的机器学习文档（主要在Python3中）.  内容包括从头开始对机器学习算法的教育实现和开源库的使用
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning)  - 不断更新机器学习文档（主要是 Python3）. 内容包括从头开始机器学习算法的教育实施和开源库的使用
 
 <a name="quora" />
 
@@ -271,7 +273,7 @@
     - [Difference between linear regression on y with x and x with y](http://stats.stackexchange.com/questions/22718/what-is-the-difference-between-linear-regression-on-y-with-x-and-x-with-y?lq=1)
     
     - [Is linear regression valid when the dependant variable is not normally distributed?](https://www.researchgate.net/post/Is_linear_regression_valid_when_the_outcome_dependant_variable_not_normally_distributed)
--多重共线性和VIF
+- 多重共线性和 VIF
 
     - [Dummy Variable Trap | Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity)
     
@@ -288,8 +290,8 @@
     - [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
 
 - [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization)
-    -[通过
-弹性网]（https://web.stanford.edu/~hastie/Papers/elasticnet.pdf）
+    - [通过正则化和变量选择
+弹性网](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 <a name="logistic" />
 
@@ -339,7 +341,7 @@
     
     - [Good Resources](http://www.chioka.in/tag/cross-validation/)
     
-    -过度拟合和交叉验证
+    - 过拟合和交叉验证
     
         - [Preventing Overfitting the Cross Validation Data | Andrew Ng](http://ai.stanford.edu/~ang/papers/cv-final.pdf)
         
@@ -433,7 +435,7 @@
 
 - [Neural Networks and Deep Learning Online Book](http://neuralnetworksanddeeplearning.com/)
 
--神经机器翻译
+- 神经机器翻译
 
     - **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list)**
 
@@ -443,7 +445,7 @@
 
 <a name="frame" />
 
--深度学习框架
+- 深度学习框架
 
     - [Torch vs. Theano](http://fastml.com/torch-vs-theano/)
     
@@ -498,10 +500,10 @@
         
         - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
-    -咖啡
+    - 咖啡
         - [Deep Learning for Computer Vision with Caffe and cuDNN](https://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
 
-    -TensorFlow
+    - TensorFlow
         - [Website](http://tensorflow.org/)
         
         - [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
@@ -528,7 +530,7 @@
 
 <a name="feed" />
 
--前馈网络
+- 前馈网络
 
     - [A Quick Introduction to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
     
@@ -556,7 +558,7 @@
 
 <a name="rnn" />
 
--递归和LSTM网络
+- 循环和 LSTM 网络
     - [awesome-rnn: list of resources (GitHub Repo)](https://github.com/kjw0612/awesome-rnn)
     
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
@@ -583,7 +585,7 @@
     
     - [Using RNN to create on-the-fly dialogue (Keras)](http://neuralniche.com/post/tutorial/)
     
-    -长期短期记忆（LSTM）
+    - 长短期记忆（LSTM）
     
         - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
         
@@ -611,7 +613,7 @@
         
         - [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
         
-    -门控循环单元（GRU）
+    - 门控循环单元 (GRU)
     
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
     
@@ -628,7 +630,7 @@
 
 <a name="rbm" />
 
--受限玻尔兹曼机
+- 受限玻尔兹曼机
 
     - [Beginner's Guide about RBMs](http://deeplearning4j.org/restrictedboltzmannmachine.html)
     
@@ -646,7 +648,7 @@
 
 <a name="auto" />
 
--自动编码器：不受监督（在设置target =输入之后应用BackProp）
+- 自动编码器：无监督（设置目标 = 输入后应用 BackProp）
 
     - [Andrew Ng Sparse Autoencoders pdf](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
     
@@ -659,7 +661,7 @@
 
 <a name="cnn" />
 
--卷积神经网络
+- 卷积神经网络
 
     - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
     
@@ -683,7 +685,7 @@
 
 <a name="nrl" />
 
--网络表示学习
+- 网络表示学习
 
     - [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
     
@@ -719,7 +721,7 @@
     
 <a name="topic" />
 
--主题建模
+- 主题建模
     - [Topic Modeling Wikipedia](https://en.wikipedia.org/wiki/Topic_model) 
     - [**Probabilistic Topic Models Princeton PDF**](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
 
@@ -756,13 +758,13 @@
 
     - [Deep Belief Nets for Topic Modeling](https://github.com/larsmaaloee/deep-belief-nets-for-topic-modeling)
     - [Gaussian LDA for Topic Models with Word Embeddings](http://www.cs.cmu.edu/~rajarshd/papers/acl2015.pdf)
-    -Python
+    - Python
         - [Series of lecture notes for probabilistic topic models written in ipython notebook](https://github.com/arongdari/topic-model-lecture-note)
         - [Implementation of various topic models in Python](https://github.com/arongdari/python-topic-model)
            
 <a name="word2vec" />
 
--word2vec
+- word2vec
 
     - [Google word2vec](https://code.google.com/archive/p/word2vec)
     
@@ -786,7 +788,7 @@
     
     - [word2vec, DBN, RNTN for Sentiment Analysis ](http://deeplearning4j.org/zh-sentiment_analysis_word2vec.html)
 
--文本聚类
+- 文本聚类
 
     - [How string clustering works](http://stackoverflow.com/questions/8196371/how-clustering-works-especially-string-clustering)
     
@@ -794,11 +796,11 @@
     
     - [Text clustering with Levenshtein distances](http://stackoverflow.com/questions/21511801/text-clustering-with-levenshtein-distances)
 
--文字分类
+- 文本分类
 
     - [Classification Text with Bag of Words](http://fastml.com/classifying-text-with-bag-of-words-a-tutorial/)
 
--命名实体识别 
+- 命名实体识别 
     
      - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.shtml)
 
@@ -838,7 +840,7 @@
 
 - [Introductory Overview of SVMs](http://www.statsoft.com/Textbook/Support-Vector-Machines)
 
--比较
+- 比较
 
     - [SVMs > ANNs](http://stackoverflow.com/questions/6699222/support-vector-machines-better-than-artificial-neural-networks-in-which-learn?rq=1), [ANNs > SVMs](http://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines), [Another Comparison](http://www.svms.org/anns.html)
     
@@ -852,18 +854,18 @@
 
 - [Variable Importance from SVM](http://stats.stackexchange.com/questions/2179/variable-importance-from-svm)
 
--软件
+- 软件
 
     - [LIBSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
     
     - [Intro to SVM in R](http://cbio.ensmp.fr/~jvert/svn/tutorials/practical/svmbasic/svmbasic_notes.pdf)
     
--内核
+- 内核
     - [What are Kernels in ML and SVM?](https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM)
     
     - [Intuition Behind Gaussian Kernel in SVMs?](https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM)
     
--支持向量机后的概率
+- SVM 后的概率
 
     - [Platt's Probabilistic Outputs for SVM](http://www.csie.ntu.edu.tw/~htlin/paper/doc/plattprob.pdf)
     
@@ -916,9 +918,9 @@
 
 - [What is Deviance in context of Decision Trees?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 
-- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) -生长并绘制决策树以自动找出数据中的隐藏规则
+- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - 生成并绘制决策树以自动找出数据中的隐藏规则
 
--不同算法的比较
+- 不同算法的比较
 
     - [CART vs CTREE](http://stats.stackexchange.com/questions/12140/conditional-inference-trees-vs-traditional-decision-trees)
     
@@ -928,7 +930,7 @@
     
     - [Good Article on comparison](http://www.ftpress.com/articles/article.aspx?p=2248639&seqNum=11)
     
--购物车
+- 购物车
 
     - [Recursive Partitioning Wikipedia](https://en.wikipedia.org/wiki/Recursive_partitioning)
     
@@ -942,7 +944,7 @@
     
     - [FAQs about Recursive Partitioning](http://stats.stackexchange.com/questions/tagged/rpart)
     
--CTREE
+- CTREE
 
     - [party package in R](https://cran.r-project.org/web/packages/party/party.pdf)
     
@@ -950,7 +952,7 @@
     
     - [How to extract tree structure from ctree function?](http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function)
     
--CHAID
+- 柴德
 
     - [Wikipedia Artice on CHAID](https://en.wikipedia.org/wiki/CHAID)
     
@@ -958,11 +960,11 @@
     
     - [Good Tutorial on CHAID](http://www.statsoft.com/Textbook/CHAID-Analysis)
     
--3月
+- 行进
 
     - [Wikipedia Article on MARS](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines)
     
--概率决策树
+- 概率决策树
 
     - [Bayesian Learning in Probabilistic Decision Trees](http://www.stats.org.uk/bayesian/Jordan.pdf)
     
@@ -1004,7 +1006,7 @@
 
 - [Introduction to Boosted Trees | Tianqi Chen](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
 
--梯度提升机
+- 梯度提升机
 
     - [Gradiet Boosting Wiki](https://en.wikipedia.org/wiki/Gradient_boosting)
     
@@ -1020,7 +1022,7 @@
     
     - [GBM vs xgboost](https://www.kaggle.com/c/higgs-boson/forums/t/9497/r-s-gbm-vs-python-s-xgboost)
 
--xgboost
+- xgboost
 
     - [xgboost tuning kaggle](https://www.kaggle.com/khozzy/rossmann-store-sales/xgboost-parameter-tuning-template/log)
     
@@ -1030,7 +1032,7 @@
     
     - [Practical XGBoost in Python online course (free)](http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python)
     
--AdaBoost
+- AdaBoost
 
     - [AdaBoost Wiki](https://en.wikipedia.org/wiki/AdaBoost), [Python Code](https://gist.github.com/tristanwietsma/5486024)
     
@@ -1040,7 +1042,7 @@
     
     - [Tutorial](http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf)
 
--CatBoost
+- CatBoost
 
     - [CatBoost Documentation](https://catboost.ai/docs/)
 
@@ -1172,6 +1174,6 @@
 
 ## Other Tutorials
 
--有关使用R的数据科学教程的集合，请参阅 [this list](https://github.com/ujjwalkarn/DataScienceR).
+- 有关使用 R 的数据科学教程的集合，请参阅 [this list](https://github.com/ujjwalkarn/DataScienceR).
 
--有关使用Python的数据科学教程的集合，请参阅 [this list](https://github.com/ujjwalkarn/DataSciencePython).
+- 有关使用 Python 的数据科学教程合集，请参阅 [this list](https://github.com/ujjwalkarn/DataSciencePython).

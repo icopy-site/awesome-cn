@@ -76,14 +76,14 @@
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 &gt; 玩家开始时都是盟友，探索一个充满危险、陷阱、物品和预兆的鬼屋.\
-> As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
+&gt; 当玩家前往豪宅的新部分时，会随机选择房间瓷砖并将其放置在游戏板上.\
 &gt; 最终“出没”开始，一名玩家通常“背叛”其他玩家并站在鬼魂、怪物或其他敌人的一边，而其余玩家则联手击败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  3 - 6 |  13 |  60m |
+|   3 - 6 |       13 |  60m |
 
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
@@ -145,7 +145,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |        3 | 15-21m |
+ |  2 - 4 |  3 |  15-21m |
 
 ### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 
@@ -155,7 +155,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |        4 | 15-30m |
+ |  2 - 4 |  4 |  15-30m |
 
 ### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
 
@@ -185,7 +185,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|       2 |        8 |  45m |
+ |  2 |  8 |  45m |
 
 ### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
 
@@ -330,7 +330,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   1 - 4 |       15 | 30-120m |
+ |  1 - 4 |  15 |  30-120m |
 
 ### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
@@ -370,7 +370,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  2 - 5 |  7 |  15m |
+|   2 - 5 |        7 |  15m |
 
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
@@ -445,7 +445,7 @@
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
-&gt; 波斯战争是一款卡片驱动的战争游戏，描绘了公元前 494 年至 466 年的希腊-波斯冲突 玩家控制波斯帝国及其将军薛西斯、阿尔塔巴苏斯、阿尔泰因特斯、阿尔泰米西亚和马多尼乌斯或希腊城邦及其将军，雅典人 Xanthippus、Miltiades 和 Themistocles 以及斯巴达人、Leonidas 和 Pausanias.
+> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
@@ -537,7 +537,7 @@
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
- &gt; Munchkin 是一款大受欢迎的关于地牢冒险的纸牌游戏……没有那种愚蠢的角色​​扮演游戏. 您和您的朋友竞争杀死怪物并抢夺魔法物品. 还有什么神奇的物品！ 戴上角质头盔和踢屁股靴. 挥舞凝固汽油弹之杖……或者也许是血腥肢解电锯. 从屠宰盆栽植物和流口水的史莱姆开始，然后一路杀到钚龙……
+> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
@@ -658,13 +658,13 @@
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
- &gt; 一开始你认为你在玩古老的大富翁游戏，他们只是添加了一些额外的建筑来做一些扭曲. 但是你玩的时间越长，你就越意识到他们实际上制作了一款全新的游戏. 你一开始的钱比平时多，这让你觉得你会活得更久（也许有点运气）. 现在您可以在购买房产后立即建造，这一事实为游戏带来了如此多的活力. 无需再等待直到您拥有完整的套装，或者因为一位玩家拒绝交易而没有套装. 即使有几个单一的属性，你也可以赢得比赛.
+ &gt; 一开始你认为你在玩古老的大富翁游戏，他们只是添加了一些额外的建筑来做一些扭曲. 但是你玩的时间越长，你就越意识到他们实际上制作了一款全新的游戏. 你一开始的钱比平时多，这让你觉得你会活得更久（也许有点运气）. 现在您可以在购买房产后立即建造，这一事实为游戏带来了如此多的活力. 无需再等待直到您拥有完整的套装，或者因为一位玩家拒绝交易而没有套装. 即使有几个单一的属性，您也可以赢得比赛.
 
 ![Monopoly image](https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 - 6 |  8 |  40-75m |
+|   2 - 6 |        8 | 40-75m |
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 
@@ -782,7 +782,7 @@
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
- &gt; 在这款思维敏捷、节奏明快的类别游戏中与你的对手和蜂鸣器对战. 在压力下你能说出多少著名演员、披萨配料、红色的东西或狗的品种？  “Pinch”和“pass”类别卡的不同之处在于，您试图通过从该类别中喊出一些东西来从其他玩家那里抢夺 Pinch 卡，而您试图通过从该类别中说出一些东西来摆脱传球卡的烫手山芋风格. 当蜂鸣器响起时，剩下的人拿着卡片获得好处（对于夹卡）或受到惩罚（对于传球卡）. 第一个到达终点线的玩家是赢家，但不要因为太多的传球卡被抓住而被淘汰出局！ 每个玩家也可以召集另一名玩家进行正面交锋. 你只能做一次，所以要算数！
+ &gt; 在这款思维敏捷、节奏明快的类别游戏中与你的对手和蜂鸣器对战. 在压力下你能说出多少著名演员、披萨配料、红色的东西或狗的品种？  “Pinch”和“pass”类别卡的不同之处在于，您试图通过从该类别中喊出一些东西来从其他玩家那里抢夺 Pinch 卡，而您试图通过从该类别中说出一些东西来摆脱通行卡的热辣风格. 当蜂鸣器响起时，剩下的人拿着卡片获得好处（对于夹卡）或受到惩罚（对于传球卡）. 第一个到达终点线的玩家是赢家，但不要因为太多的传球卡被抓住而被淘汰出局！ 每个玩家也可以召集另一名玩家进行正面交锋. 你只能做一次，所以要算数！
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
 
@@ -792,7 +792,7 @@
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 
- &gt; Cranium 称自己为“全脑”游戏. 这是一款借鉴了近期许多其他流行派对游戏的派对游戏. 玩家必须成功完成四个部分中的每个部分的活动才能获胜.  1) 创意猫 - 玩家必须通过绘画、用粘土雕刻或闭上眼睛绘画的方式向他或她的队友提示单词.  2) 数据头 - 各种琐事问题.  3) Word Worm - 玩家解读单词、拼写具有挑战性的单词、猜测定义、识别遗漏字母的单词或拼写单词backwords.  4) 明星表演者 - 玩家必须吹口哨、模仿名人或表演线索.  Cranium 的元素类似于 Pictionary、Charades、Trivial Pursuit: Genus Edition、Celebrities、Huggermugger、Claymania 等.
+> Cranium bills itself as the "whole-brain" game. It's a party game that borrows from a host of other popular party games of recent times. Players have to successfully complete activities in each of four sections to win. 1) Creative Cat - A player must clue a word to his or her teammates by drawing it, sculpting it in clay, or drawing it with his or her eyes closed. 2) Data Head - A variety of trivia questions. 3) Word Worm - Players unscramble words, spell challenging words, guess definitions, identify words with letters left out, or spell words backwords. 4) Star Performer - players must whistle a song, impersonate a celebrity, or act out a clue. Cranium has elements similar to those of Pictionary, Charades, Trivial Pursuit: Genus Edition, Celebrities, Huggermugger, Claymania, etc.
 
 ![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
 
@@ -829,6 +829,27 @@
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | --------:|
  |  2 - 4 |  8+ |  15m |
+
+### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
+
+ &gt; 与城市中其他有影响力的家族竞争，通过熟练地使用助手和资源来获得最光荣的头衔. 成功做到这一点的球员成为马拉喀什新的“Obermufti”.
+ &gt; 马拉喀什进行三轮比赛，每轮包括四轮. 在每一回合，玩家同时秘密地从屏幕后面选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放置在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些从前一轮被卡住但现在已经出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的行动. 行动可以让玩家获得财富，这些财富可以用来换取在城市的影响力. 随着游戏的进行，执行各种动作还可以获得奖励并进一步增强动作. 在游戏结束时得分最多的玩家获胜.
+
+![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | --------:|
+ |  2 - 4 |  14+ |  120m |
+
+### [Rat-a-Tat Cat](https://www.boardgamegeek.com/boardgame/3837/rat-tat-cat)
+
+> Get rid of the rats and go for the cats! In Rat-a-Tat Cat, less is always better, and you want to go out with the lowest score. Can you remember the numbers on the other players' cards? Can you keep a poker face, but notice when another player looks pleased? Sharpen your memory and your timing, and have fun with the cool cats and bad rats of Rat-a-Tat Cat. This is the Gamewright version.
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__itemrep/img/7bCQhZauNwAuekRT3xwbt2FCLlo=/fit-in/246x300/filters:strip_icc()/pic147435.jpg)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | --------:|
+ |  2 - 6 |  6+ |  10m |
 
 ## Contribute
 

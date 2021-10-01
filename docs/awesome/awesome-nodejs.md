@@ -80,7 +80,7 @@
 				<br>
 				所有分支机构的环境. 因此，团队成员可以立即开始使用全新的开发环境进行编码
 				<br>
-				对于每项新任务 - 无论您是在构建新功能、想要修复错误还是进行代码审查.
+				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
 				</sub>
 			</div>
 		</a>
@@ -275,11 +275,11 @@
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - 各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) - 带有 Windows CMD 回退的 Unicode 符号.
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建框.
-- [terminal-link](https://github.com/sindresorhus/terminal-link) - 在终端中创建可点击的链接.
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -296,7 +296,7 @@
 - [multispinner](https://github.com/codekirei/node-multispinner) - 多个、同时、可单独控制的 CLI 微调器.
 - [omelette](https://github.com/f/omelette) - 外壳自动完成助手.
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台设置环境变量.
-- [shelljs](https://github.com/shelljs/shelljs) - 便携式 Unix shell 命令.
+- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - 阻止用户使用 root 权限运行您的应用程序.
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - 让未处理的承诺拒绝大声失败，而不是默认的静默失败.
 - [sparkly](https://github.com/sindresorhus/sparkly) - 生成迷你图`▂▃▅▂▇`.
@@ -310,7 +310,7 @@
 
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的 Web 应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+- [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块打包器.
 - [gulp](https://github.com/gulpjs/gulp) - 流和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
@@ -361,6 +361,7 @@
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
 - [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - 现代且快速的类似 Express 的 Web 框架.
 - [Marble.js](https://github.com/marblejs/marble) - 基于 TypeScript 和 RxJS 的用于构建服务器端应用程序的功能反应框架.
+- [Lad](https://github.com/ladjs/lad) - 由前 Express TC 和 Koa 成员制作的框架，捆绑了 Web、API、作业和代理服务器.
 
 ### Documentation
 
@@ -502,7 +503,7 @@
 - [Moment.js](http://momentjs.com) - 解析、验证、操作和显示日期.
 - [Day.js](https://github.com/iamkun/dayjs) - 替代 Moment.js 的不可变日期库.
 - [dateformat](https://github.com/felixge/node-dateformat) - 日期格式.
-- [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+- [tz-format](https://github.com/samverschueren/tz-format) - 用时区格式化日期：`2015-11-30T10:40:35+01:00`.
 - [cctz](https://github.com/floatdrop/node-cctz) - 日期的快速解析、格式化和时区对话.
 
 ### URL
@@ -520,7 +521,7 @@
 - [joi](https://github.com/hapijs/joi) - JavaScript 对象的对象模式描述语言和验证器.
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - 使用代码生成速度极快的 JSON 模式验证器.
 - [property-validator](https://github.com/nettofarah/property-validator) - Express 的简单属性验证.
-- [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
+- [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API 清理和验证.
 - [ajv](https://github.com/epoberezkin/ajv)  - 最快的 JSON 模式验证器. 支持 v5、v6 和 v7 提案.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - 在 JavaScript（和 TypeScript）中验证数据的简单且可组合的方法.
 
@@ -716,7 +717,7 @@
 - [nodemon](https://github.com/remy/nodemon) - 监视应用程序中的更改并自动重新启动服务器.
 - [node-mac](https://github.com/coreybutler/node-mac) - 作为本机 Mac 守护程序运行脚本并登录到控制台应用程序.
 - [node-linux](https://github.com/coreybutler/node-linux) - 将脚本作为本机系统服务运行并记录到系统日志.
-- [node-windows](https://github.com/coreybutler/node-windows) - 作为本机 Windows 服务运行脚本并登录到事件查看器.
+- [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 - [supervisor](https://github.com/petruisfan/node-supervisor) - 脚本崩溃时重新启动脚本，或在 `*.js` 文件更改时重新启动.
 - [Phusion Passenger](https://github.com/phusion/passenger) - 友好的进程管理器，直接集成到 Nginx 中.
 
@@ -741,7 +742,7 @@
 - [Charge](https://github.com/brandonweiss/charge) - 使用 JSX 和 MDX 的有意见的、零配置的静态站点生成器.
 
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 的 CMS 和 Web 应用程序平台.
+- [KeystoneJS](https://github.com/keystonejs/keystone) - 基于 Express 和 MongoDB 构建的 CMS 和 Web 应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - 内容管理系统，强调基于 Express 和 MongoDB 的直观前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) - 用于构建强大 API 的内容管理框架（无头 CMS）.
 - [Tipe](https://github.com/tipeio/tipe) - 开发人员优先的内容管理系统，带有来自架构文件的 GraphQL 和 REST API.
@@ -766,7 +767,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取超级恶棍的名字.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获取一些很酷的 ascii 面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ&quot; `.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特、星球大战和神奇宝贝等书呆子主题中获取数据.
 
 ### Serialization
@@ -907,7 +908,7 @@
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - 回答有关流的常见问题，包括分页、事件等.
-- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Node.js Web 服务的源代码安全分析清单.
 
 ### Tools
 

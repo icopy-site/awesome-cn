@@ -71,10 +71,11 @@
 - [ARA](https://github.com/ansible-community/ara) - ARA 记录 Ansible 剧本，并通过报告 API、UI 和 CLI 使它们更易于理解和排除故障.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - 使用 Mitogen 显着加速 Ansible.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) - 分子有助于 Ansible 角色的开发和测试.
-- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - 此 Provisioner 可用于通过 Packer 和 Ansible 自动创建 VM 映像.
+- [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - 此 Provisioner 可用于通过 Packer 和 Ansible 自动创建 VM 映像.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - 将任何 Excel 电子表格转换为 Ansible 清单.
 - [terraform.py](https://github.com/mantl/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - Ansible 的基于文本的用户界面 (TUI).
+- [squest](https://hewlettpackard.github.io/squest/) - Ansible Tower 作业模板的自助服务门户.
 
 ## Blog posts and opinions
 
