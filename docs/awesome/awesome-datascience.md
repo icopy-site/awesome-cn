@@ -17,7 +17,7 @@
 
 | Link | Preview |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdiscplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学程序中._ | |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
@@ -241,7 +241,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [UBIAI](https://ubiai.tools)  | 易于使用的文本注释工具，适用于具有最全面自动注释功能的团队. 支持 NER、关系和文档分类以及用于发票标签的 OCR 注释 |
 | [Trains](https://github.com/allegroai/trains)  | 面向 AI 的 Auto-Magical Experiment Manager、版本控制和 DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有特征存储的开源数据密集型机器学习平台. 摄取和管理在线（MySQL 集群）和离线（Apache Hive）访问的功能，大规模训练和服务模型.  |
-| [MindsDB](https://github.com/mindsdb/mindsdb) | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code. |
+| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是面向开发人员的可解释 AutoML 框架. 使用 MindsDB，您只需一行代码即可构建、训练和使用最先进的 ML 模型.  |
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于 Pytorch 的框架，将机器学习问题分解为更小的块，这些块可以无缝地粘合在一起，目标是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，可将 Pandas 库的功能扩展到 AWS 连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类似生产的环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
@@ -434,6 +434,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ## Books
 
+- [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
@@ -476,6 +477,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
+- [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
+- [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
+- [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 
 
 ## Socialize
@@ -504,7 +508,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Datawrangling](http://datawrangling.com/) 彼得·斯科莫罗克. 机器学习、数据挖掘等
 - [Quora Data Science](https://www.quora.com/Data-Science) - 专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利的博士生
-- [Data Science Report](http://datasciencereport.com/) MDS, Inc. 帮助在数据科学、高级分析、大数据架构和高性能软件工程领域建立职业生涯
+- [Data Science Report](http://datasciencereport.com/) MDS, Inc. Helps Build Careers in Data Science, Advanced Analytics, Big Data Architecture, and High Performance Software Engineering
 - [Louis Dorard](http://www.louisdorard.com/blog/) 一个喜欢网络和数据的技术人员，无论大小
 - [Machine Learning Mastery](http://machinelearningmastery.com/) 关于帮助专业程序员自信地应用机器学习算法来解决复杂问题.
 - [Daniel Forsyth](http://www.danielforsyth.me/) - 个人博客
@@ -568,7 +572,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - 数据科学笔记本
 - [Deep and Shallow](https://deep-and-shallow.com/) - 数据科学中所有深浅不一的事物
 - [Loic Tetrel](https://ltetrel.github.io/) - 数据科学博客
-
+- [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML 工程、MLOps 以及 ML 在初创公司中的使用
 
 
 ## Facebook Accounts
@@ -602,9 +606,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
  | 推特 | 说明 |
 | --- | --- |
 | [Big Data Combine](https://twitter.com/BigDataCombine)  | 为寻求将其模型货币化为交易策略的数据科学家进行快速、实时的试用 |
-| [Big Data Mania](https://twitter.com/BigDataGal)  |  Data Viz Wiz，数据记者，Growth Hacker，Data Science for Dummies 的作者 (2015) |
+ | 大数据狂热 |  Data Viz Wiz，数据记者，Growth Hacker，Data Science for Dummies 的作者 (2015) |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
-| [Charlie Greenbacker](https://twitter.com/greenbacker)  |  @ExploreAltamira 数据科学总监 |
+ | 查理格林贝克 |  @ExploreAltamira 数据科学总监 |
 | [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
@@ -615,11 +619,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
 | [Data Vizzard](https://twitter.com/DataVisualizati)  | 数据可视化、安全、军事 |
 | [DataScienceX](https://twitter.com/DataScienceX) |  |
-| [deeplearning4j](https://twitter.com/deeplearning4j) | |
+ |  deeplearning4j |  |
 | [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，副总裁 @ RelateIQ.  |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
 | [Drew Conway](https://twitter.com/drewconway)  | 数据书呆子、黑客、冲突学生.  |
-| [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
+| Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 工作@_GrubHub_ 关于数据和熊猫|
 | [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD &amp; SIGKDD 联合创始人，曾任两家初创公司的首席科学家，兼职哲学家.  |
@@ -631,13 +635,13 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist)  | 首席数据科学家@微软数据科学团队|
 | [Julia Evans](https://twitter.com/b0rk)  | 黑客 - Pandas - 数据分析 |
 | [Kenneth Cukier](https://twitter.com/kncukier)  |  《经济学人》数据编辑和大数据合著者 (http://big-data-book.com).  |
-| [Kevin Davenport](https://twitter.com/KevinLDavenport)  |  https://meetup.com/San-Diego-R-Users-Group/ 的组织者 |
+ | 凯文达文波特 |  https://meetup.com/San-Diego-R-Users-Group/ 的组织者 |
 | [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师，创始人 [Data School](http://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据流浪者.  |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
-| [Linda Regber](https://twitter.com/LindaRegber)  | 数据讲故事者，可视化.  |
+ | 琳达·雷伯 | 数据讲故事者，可视化.  |
 | [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程、移动、网络. 人工智能、智能机器人、机器学习、数据挖掘、自然语言处理、数据科学.  |
-| [Mark Stevenson](https://twitter.com/Agent_Analytics)  |  Salt (@SaltJobs) Analytics - Insight - 大数据 - 数据科学 | 数据分析招聘专家
+ | 马克史蒂文森 |  Salt (@SaltJobs) Analytics - Insight - 大数据 - 数据科学 | 数据分析招聘专家
 | [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师的意见，目前正在玩数据科学家. 偶尔的父亲，管理，有机园艺.  |
 | [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify 的数据科学家，开发人员 |
@@ -655,7 +659,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
 | [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
-| [Spencer Nelson](https://twitter.com/spenczar_n) | Data nerd |
+| [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子|
 | [Talha Oz](https://twitter.com/tozCSS)  | 喜欢 ABM、SNA、DM、ML、NLP、HI、Python、Java. 前百分位 kaggler/数据科学家 |
 | [Tasos Skarlatidis](https://twitter.com/anskarl)  | 复杂事件处理、大数据、人工智能和机器学习. 对编程和开源充满热情.  |
 | [Terry Timko](https://twitter.com/Terry_Timko)  | 信息政府； 大数据; 数据即服务； 数据科学； 开放、社交和商业数据融合 |
@@ -692,6 +696,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
 - [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
 - [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
+- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 
 ## Telegram Channels
@@ -771,7 +777,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
 - [Open Data Philly](https://www.opendataphilly.org/) 将人与数据连接到费城
 - [grouplens.org](https://grouplens.org/datasets/) 示例电影（带评分）、书籍和 wiki 数据集
-- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - 包含适合机器学习的数据集
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 - [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 经过 [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) （有关的： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))

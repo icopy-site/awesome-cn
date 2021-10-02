@@ -2,27 +2,27 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;幻想文学值得一读
+&gt; 值得一读的奇幻文学
 
-_灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 有关科幻书籍，请参见 [awesome-scifi](https://github.com/sindresorhus/awesome-scifi)._
+_灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西. 有关科幻小说，请参阅 [awesome-scifi](https://github.com/sindresorhus/awesome-scifi)._
 
-_请阅读 [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) 在做出贡献之前._
+_请阅读 [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) 在贡献之前._
 
 
 
 ## Novels
 
-:star2: means that it's a classic.
+:star2: 意味着它是经典之作.
 
-：fire：表示它在Goodreads上的评级超过10万.
+:fire: 表示它在 Goodreads 上的评分超过 100 000.
 
- _结尾的[数字]是对Goodreads评分的四舍五入版本. 如果某个系列不能作为一本单独的书籍使用，则该系列中的第一本书用于评分._
+ _末尾的 [number] 是 Goodreads 上评分的四舍五入版本. 如果某个系列不能作为单独的书籍提供，则使用该系列中的第一本书进行评分._
 
 ### Epic Fantasy
 
 #### [A Song of Ice and Fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) _by [George R.R. Martin](https://en.wikipedia.org/wiki/George_R._R._Martin)_ [4.4] :fire:
 
-令人难以置信的详细书籍，具有非常现实的世界. 我受不了了. 错综复杂的规模和广度.  -- [@RichardLitt](https://github.com/RichardLitt)
+令人难以置信的详细书籍，具有非常现实的世界. 我不能得到足够的. 复杂的规模和广度都很棒.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -33,17 +33,17 @@ Books:
 - [A Dance with Dragons](http://www.goodreads.com/book/show/10664113-a-dance-with-dragons) ：火：
 - [Winds of Winter](http://www.goodreads.com/book/show/12111823-the-winds-of-winter) _即将到来_
 
- &gt;夏季长达数十年. 冬天可以持续一生. 争夺铁王座的斗争已经开始.
+ &gt; 萨默斯跨越数十年. 冬天可以持续一生. 争夺铁王座的斗争已经开始.
 >
- &gt;作为北方的监狱长，爱德华·史塔克勋爵（Robert Edk Stark）指责罗伯特国王（Robert King）授予他手的职位是一种诅咒. 他的荣誉使他沉迷于法庭上，在这里，一个真正的男人会做他会做的事，而不是他必须做的事……而死去的敌人是一件美事.
+ &gt; 作为北方的典狱长，艾德·史塔克勋爵认为劳勃国王授予他手部的职位是一种诅咒. 他的荣誉让他在法庭上压倒了他，一个真正的人做他想做的，而不是他必须做的……死敌是一件美丽的事情.
 >
 > The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.
 
 #### [Black Company](https://www.goodreads.com/book/show/140671) (1984) _by [Glen Cook](https://en.wikipedia.org/wiki/Glen_Cook)_ [4]
 
-这是我最喜欢的黑暗幻想系列，第一本书很棒. 这些书的写法与我读过的任何奇幻风格的书都大相径庭. 很难形容，但作为一名退伍军人，就像您正在读由前士兵写的一本幻想小说一样，简陋的笑话，鲜血等等. 我强烈推荐这个.  -- [@PeerRails](https://github.com/PeerRails)
+这是我最喜欢的黑暗幻想系列，第一本书很棒. 这些书的写法与我读过的任何奇幻小说都大不相同. 这很难描述，但作为一名退伍军人，感觉就像你在读一本曾经在那里的前士兵写的奇幻书，粗俗的笑话，血腥等等. 我强烈推荐这个.  —— [@PeerRails](https://github.com/PeerRails)
 
- &gt;该系列沿袭了一支精锐的雇佣军单位，即“黑公司”，是哈托瓦自由公司的最后一支，走过了它大约四百年历史的大约四十年. 库克用坚韧不拔的，真实的刻画描绘了公司的主要人物及其奋斗经历，将幻想与军事小说结合在一起.
+ &gt; 该系列讲述了一个精英雇佣兵部队，即 Khatovar 的最后一个自由公司，在其大约四百年的历史中大约四十年. 库克将幻想与军事小说混合在一起，以坚韧不拔、脚踏实地的方式描绘了公司的主要人物及其斗争.
 
 Books:
 
@@ -56,23 +56,38 @@ Books:
 - [She Is The Darkness](https://www.goodreads.com/book/show/400897.She_is_the_Darkness) [4.10]
 - [Water Sleeps](https://www.goodreads.com/book/show/349470.Water_Sleeps) [4.07]
 - [Soldiers Live](https://www.goodreads.com/book/show/400899.Soldiers_Live) [4.22]
--_1本最新书即将上架_
+- _1 最后一本书来了_
 
 #### [Children of Húrin](http://www.goodreads.com/book/show/821431.The_Children_of_H_rin) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [3.9]
 
-指环王是一个任务； 霍比特人的童话故事；  Silmarillion的历史. 这是为数不多的小说之一，这个故事展示了一个遭受酷刑的人的生活. 这个故事极大地借鉴了斯堪的纳维亚的传说，并将都灵呈现为托尔金所有作品中最悲惨的作品之一. 这是他所有书中我最喜欢的故事，而且我认为它对整个地球世界具有最先进，最美丽的外观.  -- [@RichardLitt](https://github.com/RichardLitt)
+指环王是一项任务； 霍比特人是一个儿童故事； 精灵宝钻是一段历史. 这是为数不多的小说之一，这个故事展示了一个受折磨的人的生活. 这个故事大量借鉴了斯堪的纳维亚的传说，并将都灵呈现为托尔金所有作品中最悲惨的作品之一. 这是他所有书中我最喜欢的故事，我认为它对整个中土世界有最先进和最美丽的看法.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;在《指环王》之前的很久以前就有中土世界的故事，而这本书所讲述的故事是在一个伟大的国家里发生的，它位于西方的灰色避风港之外：树须曾经走过的土地，但是在结束世界第一时代的大灾难中淹死了.
+&gt; 在《指环王》之前很久就有中土的故事，本书讲述的故事发生在西部灰港之外的伟大国家：树胡子曾经走过的土地，但现在淹没在结束世界第一纪元的大灾难中.
 >
- &gt;在那个遥远的时期，第一位黑暗君主莫尔戈斯（Morgoth）居住在北部安德邦（Angband）的广阔堡垒，铁之地狱（The Hells of Iron）中. 图林（Túrin）和他的妹妹尼诺（Nienor）的悲剧在对安邦乐队（Angband）的恐惧以及摩高斯（Morgoth）对精灵的土地和秘密城市发动的战争的阴影下展开.
+ &gt; 在那个遥远的时代，第一位黑魔王魔苟斯居住在北方钢铁地狱安格班的巨大堡垒中； 图林和他的妹妹尼诺的悲剧在安格班的恐惧和魔苟斯对精灵的土地和秘密城市发动的战争的阴影下展开.
 >
- &gt;他们短暂而充满激情的生活被元素仇恨所支配，莫格思厌倦了他们，他们是胡林的孩子，后者曾敢于反抗并轻视他的脸. 他向他们派遣他最强大的仆人Glaurung，一种巨大的无翼火龙形式的强大精神. 在这个残酷的征服和逃亡，森林的藏身之处和追求，对抵抗的希望减少的故事中，《黑魔王》和《龙》以清晰表达的形式进入. 讽刺和嘲弄，Glaurung通过诡异的狡猾和狡猾的谎言操纵了Túrin和Nienor的命运，Morgoth的诅咒得以实现.
+ &gt; 他们短暂而充满激情的生活被莫苟斯作为胡林的孩子所生的仇恨所支配，这个人敢于反抗和蔑视他. 他派了他最强大的仆人格劳伦来对付他们，格劳伦是一个强大的灵魂，以巨大的无翼火龙的形式出现. 在这个关于野蛮征服和逃亡、森林藏身之地和追击、希望越来越渺茫的抵抗的故事中，黑魔王和巨龙以极其清晰的形式进入. 格劳隆讽刺和嘲弄，用邪恶的狡猾和诡计的谎言操纵图林和尼诺的命运，实现了魔苟斯的诅咒.
 >
-> The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
+ &gt; JRR Tolkien 这个故事的最早版本可以追溯到第一次世界大战结束和随后的几年； 但很久之后，当《指环王》完成后，他又重新写了一遍，并在动机和人物的复杂性上大大扩展了它：它成为他后来关于中土大陆的作品的主要故事. 但他无法把它变成最终的和完成的形式. 在这本书中，克里斯托弗·托尔金 (Christopher Tolkien) 经过对手稿的长期研究，构建了一个没有任何编辑发明的连贯叙述.
+
+#### [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) (2005) _by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)_ [4.28] 🔥
+
+一个伟大的系列，与您典型的史诗幻想略有不同. 在这个世界上，除了主角塔维之外，每个人都拥有力量或元素之怒.  —— [@cary-williams](https://github.com/cary-williams)
+
+Books:
+
+1. [Furies of Calderon](https://www.goodreads.com/book/show/29396.Furies_of_Calderon) [4.10] 
+2. [Academ's Fury](https://www.goodreads.com/book/show/133664.Academ_s_Fury) [4.22] 
+3. [Cursor's Fury](https://www.goodreads.com/book/show/29394.Cursor_s_Fury) [4.31] 
+4. [Captain's Fury](https://www.goodreads.com/book/show/346087.Captain_s_Fury) [4.31] 
+5. [Princeps' Fury](https://www.goodreads.com/book/show/2903736-princeps-fury) [4.37] 
+6. [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) [4.39] 
+
+> Welcome to the Realm of Alera, traveler. Written by the #1 New York Times bestselling author Jim Butcher, the Codex Alera follows the adventures—and misadventures!—of a young man, Tavi of Calderon. In a land where everyone has access to great powers called furies, being the only one without a fury to his name can be tricky, but Tavi proves time and time again that it is not all about your furies.
 
 #### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) _by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)_ [3.98]
 
-我最喜欢的书系列，也是我读过的最好的系列之一. 这些书写得特别好，易于阅读和快速阅读. 非常适合12至15岁年龄段的读者，但它也可以像我一样吸引年龄较大的读者. 我期待着阅读您的续集：《德拉托拉·暗影之地》和《德拉托拉之龙》.  -[@AmandaPita]（https://github.com/AmandaPita）
+我最喜欢的系列丛书，也是我读过的最好的系列丛书之一. 这些书写得特别好，读起来轻松快捷. 非常适合 12 到 15 岁年龄段的读者，但它也可以吸引年长读者的眼球，就像我的一样. 我期待着阅读您的续集：德尔托拉暗影之地和德尔托拉巨龙.  - [@AmandaPita] (https://github.com/AmandaPita)
 
 Books:
 
@@ -85,11 +100,11 @@ Books:
 - [The Valley of the Lost](https://www.goodreads.com/book/show/119492.The_Valley_of_the_Lost)
 - [Return to Del](https://www.goodreads.com/book/show/119491.Return_to_Del)
 
- &gt;数百年来，邪恶的暗影领主一直密谋入侵德尔托拉并奴役其人民. 阻碍他前进的是神奇的德尔托拉腰带，它拥有七种强大而神秘的力量. 现在，莱夫（Leif），巴尔达（Barda）和茉莉（Jasmine）必须团结起来，找到这七颗宝石，并将德尔托拉（Deltora）从黑暗的永恒中拯救出来.
+ &gt; 几个世纪以来，邪恶的暗影领主一直密谋入侵德尔托拉并奴役其人民. 阻碍他前进的只有德尔托拉的魔法腰带，它拥有七颗具有强大而神秘力量的宝石. 现在，Leif、Barda 和 Jasmine 必须联合起来寻找七颗宝石，并将 Deltora 从永恒的黑暗中拯救出来.
 
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) _by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)_
 
-尽管这主要是科幻小说，但这里还是有幻想的元素. 它们具有的元素-文字的力量，有益的言语和蠕虫-无疑都是令人敬畏的.  -- [@RichardLitt](https://github.com/RichardLitt)
+这里有幻想的元素，虽然它主要是科幻小说. 他们拥有的元素——语言的力量、_bene gesserit_、蠕虫——毫无疑问都很棒.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -100,7 +115,7 @@ Books:
 
 #### [Earthsea](https://en.wikipedia.org/wiki/Earthsea) _by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)_
 
-这是幻想和魔术，做得非常好. 这些读起来像是儿童故事-不是以他们的风格或内容，它们很成年-而是在您开始想象的广阔世界中，故事从页面上消失并与您同行的方式. 我不能称赞它.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是幻想和魔法做得非常好. 这些读起来就像儿童故事——不是在他们的风格或内容上，它们非常成人化——而是在你开始想象的广阔世界中，故事从书页上消失并离开你的方式. 我不能赞美它.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -113,7 +128,7 @@ Books:
 
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) _by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)_
 
-这些很有趣，并且与它们的文化影响息息相关，甚至与写作的口径无关.  -- [@RichardLitt](https://github.com/RichardLitt)
+These are amusing, and relevant for their cultural impact if not for the caliber of the writing. - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -125,31 +140,31 @@ Books:
 6. [Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince) [4.5]
 7. [Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) [4.6]
 
- &gt;小说围绕着哈利·波特（Harry Potter）展开，他是一名孤儿，他在11岁时发现自己是个巫师，生活在一个非魔术师的普通世界中，被称为麻瓜. 巫师世界是麻瓜世界的秘密，大概是为了避免迫害女巫和巫师. 他的能力是与生俱来的，因此邀请这些孩子上一所独家魔法学校，教授在巫师世界取得成功所需的必要技能. 哈里（Harry）成为霍格沃茨巫术与巫术学院的学生，而系列赛中的大多数活动都是在这里举行的. 随着哈里（Harry）青春期的成长，他学会克服自己面临的问题：魔术，社交和情感，包括普通的青少年挑战，例如友谊，迷恋和考试，以及为自己在现实世界中进行对抗做准备的更大考验.摆在面前.
+ &gt; 小说围绕着孤儿哈利波特展开，他在 11 岁时发现自己是一名巫师，生活在没有魔法的普通人的世界里，被称为麻瓜. 巫师世界对麻瓜世界是秘密的，想必是为了避免对女巫和巫师的迫害. 他的能力是与生俱来的，这样的孩子被邀请到一所独特的魔法学校就读，该学校教授在魔法世界取得成功所需的技能. 哈利成为霍格沃茨魔法学校的学生，该系列中的大部分事件都在这里发生. 随着哈利在青春期的成长，他学会了克服他面临的问题：神奇的、社交的和情感的，包括普通的青少年挑战，如友谊、迷恋和考试，以及为自己在现实世界中的对抗做好准备的更大考验摆在面前.
 >
- &gt;每本书都记载了哈利一生中的一年，主要叙述是在1991-98年间进行的. 这些书还包含许多倒叙，哈利经常在称为Pensieve的设备中查看其他角色的记忆时遇到这种倒叙.
+ &gt; 每本书都记录了哈利一生中的一年，主要故事发生在 1991-98 年. 这些书还包含许多倒叙，哈利经常在一个叫做冥想盆的设备中查看其他角色的记忆.
 >
- &gt;罗琳创造的环境与现实完全分离，但也与现实紧密相连. 虽然纳尼亚的幻想世界是另类世界，而《指环王》是神话般的过去，但《哈利波特》的巫师世界在现实世界中并行存在，并包含日常生活中普通元素的神奇版本. 它的许多机构和地点都是可以识别的，例如伦敦. 它由零散的，被忽视的隐藏街道，古老的酒吧，偏僻的乡村庄园和偏僻的城堡组成，这些地方对麻瓜人仍然是看不见的.
+ &gt; 罗琳创造的环境与现实完全分离，但又与现实密切相关. 纳尼亚的奇幻世界是另一个宇宙，而魔戒中土是神话般的过去，而哈利波特的魔法世界与现实世界平行存在，包含日常生活中普通元素的神奇版本. 它的许多机构和地点都是可识别的，例如伦敦. 它由被忽视的隐蔽街道、古老的酒吧、孤独的乡村庄园和隐蔽的城堡组成，这些都是麻瓜人口看不见的.
 
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.4]
 
- Mistborn三部曲（好吧，他计划进行三部曲的三部曲，第二部三部曲的最后2部将在明年左右发行）可能也是他最著名的读物. 我会推荐他所有的东西，但是我认为原始的Mistborn可能是最好的起点（对于一个人来说，它们要短得多！）.  -- [@CWSpear](https://github.com/CWSpear)
+ Mistborn 三部曲（嗯，他计划制作三部曲的三部曲，第二部三部曲的最后两部将在明年左右推出）可能也是他最著名的作品，也是一本好书. 我会推荐他所有的东西，但我认为最初的 Mistborn 可能是最好的起点（首先，它们要短得多！）.  —— [@CWSpear](https://github.com/CWSpear)
 
-此时，我只读了第一部三部曲，但我很喜欢. 魔术系统做得非常好，角色令人信服，我们有一些强有力的女性领导者，并且有大量的阴谋和情节设定. 布兰登·桑德森（Brandon Sanderson）也很擅长转动他们的对位，这很有趣-我最初的许多抱怨现在都变成了对这些书的赞扬. 我期待阅读更多.  -- [@RichardLitt](https://github.com/RichardLitt)
+目前我只读了第一部三部曲，但我喜欢它； 魔法系统做得非常好，角色令人信服，我们有一些强大的女性主角，并且有大量的阴谋和情节设置. 布兰登·桑德森 (Brandon Sanderson) 也很擅长把比喻转过来，读起来很有趣——我最初的很多抱怨现在都变成了对这些书的赞美. 我期待着阅读更多.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-我已经阅读了前六本书，并将继续阅读本系列中的每一本书……也许还有桑德森写的所有东西.  Mistborn的故事精心制作且有趣. 发生了很多事情，因为它们也适合桑德森的《科斯米尔》，这意味着来自其他世界的人物有时会与来自斯卡德里尔的人物互动-这些小说所基于的世界. 我发现每个故事都经过精心设计，永远不会停滞不前，我有朋友说他们发现第六本书《哀悼乐队》有点慢，但我没有相同的看法. 每本小说都是全面的，没有说很多，也没有发现，但是从不抢夺一个完整或已解决故事的读者.
+我已经阅读了前六本书，并将继续阅读本系列中的每一本书……可能还有桑德森写的所有内容.  Mistborn 的故事制作精良且有趣. 发生了很多事情，因为它们也适合 Sanderson 的 Cosmere，这意味着来自其他世界的角色偶尔会与来自 Scadrial 的角色互动——这些小说的基础世界. 我发现每个故事的节奏都非常专业，从不停止动量，我有朋友说他们发现第六本书，哀悼乐队，有点慢，但我没有相同的观点. 每部小说都非常全面，留下了很多未说和未发现的内容，但绝不会剥夺读者完整或已解决的故事.
 
-第一个三部曲向我们介绍了一个奇异而壮观的世界：一个充满魔幻，阴谋，社会/经济不平等的世界，可能是我最喜欢的东西，生活在这个世界上的种族不同.
+第一部三部曲向我们介绍了一个奇异而壮观的世界：一个充满魔法、阴谋、社会/经济不平等的世界，可能是我最喜欢的事情，居住在这个世界上的不同种族的人.
 
-第二部三部曲发生在第一部事件发生约300年后，许多此类事件已渗入“现代” Scadrial（在整个场景中都具有非常古老的西方感觉）. 例如以英雄命名的城市，基于人物的宗教和许多小秘密，而这在第一部三部曲中仍未得到解答. 我们向您介绍了一大堆新字符，有些不是那么新-我将不多说，否则我可能会付出太多.
+第二部三部曲发生在第一部事件之后大约 300 年，其中许多事件已经渗透到“现代”的 Scadrial 中（整个场景具有非常古老的西方感觉）； 例如以英雄命名的城市、基于人物的宗教以及许多在第一部三部曲中仍未得到解答的小秘密. 我们向我们介绍了一整批新角色和一些不太新的角色——我不会说更多，否则我可能会透露太多.
 
-会向任何幻想迷推荐整个系列和整个Cosmere.  -- [@SeanSWatkins](https://github.com/SeanSWatkins)
+会向任何幻想迷推荐整个系列和整个 Cosmere.  —— [@SeanSWatkins](https://github.com/SeanSWatkins)
 
-&gt;前三本书是一起阅读的三部曲.
+&gt; 前三本书是需要一起阅读的三部曲.
 >
- &gt;密斯伯恩（Mistborn）是一部史诗般的幻想三部曲，是一部关于政治阴谋，惊喜和神奇的武术动作的抢劫故事. 这位传奇人物敢于问一个简单的问题：如果预言英雄失败了该怎么办？ 当黑魔王掌管时，会产生什么样的世界？
+ &gt; Mistborn 是一部史诗奇幻三部曲，是一部关于政治阴谋、惊喜和魔法武术动作的抢劫故事. 通过提出一个简单的问题，这个传奇敢于颠覆一个流派：如果预言中的英雄失败了怎么办？ 当黑魔王掌权时，会是怎样的世界？
 >
-&gt;第4-6本书是300年后的续集.
+&gt; 书 4-6 是发生在 300 年后的续集.
 
 Books:
 
@@ -159,11 +174,11 @@ Books:
 - [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
 - [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
 - [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
--_更多即将来临_
+- _更多来了_
 
 #### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) _by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)_
 
-这些真的很棒，而且读起来很有趣，尤其是人物以及它与希腊神话的关系.  -- [@ankush1024](https://github.com/ankush1024)
+这些读起来真的很神奇也很有趣，尤其是人物以及它与希腊神话的关系.  —— [@ankush1024](https://github.com/ankush1024)
 
 Books:
 
@@ -173,13 +188,13 @@ Books:
 4. [The Battle of the Labyrinth](https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth) [4.4]
 5. [The Last Olympian](https://www.goodreads.com/book/show/4556058-the-last-olympian) [4.5]
 
-&gt;这些小说围绕着珀西·杰克逊（Percy Jackson），他是半神半兽，其父亲是海神波塞冬（Poseidon），他为使世界免遭众神之战而进行的探索.
+&gt; 小说围绕着半神珀西杰克逊展开，他的父亲是海神波塞冬，以及他为从众神之间的战争中拯救世界而进行的任务.
 >
- &gt;在这些年轻的现代英雄的眼中，该系列感到新鲜和新奇. 从第一本小说开始，情节就引人入胜，令人兴奋，对任何曾经觉得自己不属于自己的人都具有吸引力. 在所有动作，魔术和谜语之间，这是一个真正令人心动的故事，内容涉及寻找最终成为家庭的朋友以及最终成为房屋的房子.
+> The series feel fresh and new from the eyes of these young modern heroes. From the first novel, the plot is engaging and exciting, appealing to anyone who's ever felt like they didn't belong. Between all of the action, magic and riddles, it's a truly heart-warming story about finding friends who eventually become family, and houses that eventually become homes.
 
 #### [The Belgariad](https://www.goodreads.com/book/show/44660.The_Belgariad_Boxed_Set?ac=1&from_search=true&qid=wv9xaSskqn&rank=3) _by [David Eddings](https://en.wikipedia.org/wiki/David_Eddings)_ [4.3] :star2:
 
-比利时人是我第一次进入史诗系列，由于戴维（David）和利·埃丁（Leigh Eddings）创造的人物，幽默和冒险，我从一开始就迷上了. 该系列从《预言的典当》开始，涵盖了总共16部小说，每本小说的发展都和以前一样. 受《指环王》持续印刷的启发，埃丁斯将比利时作为三部曲创作，但最终被出版商说服，将其印刷成五本书的系列. 这个故事在与5本书同等发达的系列小说中继续着 [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). - [@codercarly](https://github.com/codercarly)
+ Belgariad 是我第一次涉足史诗系列，我从一开始就被 David 和 Leigh Eddings 创造的人物、幽默和冒险所吸引. 该系列从 Pawn of Prophecy 开始，总共涵盖 16 部小说，每部小说都与之前的小说一样发达. 受到《指环王》持续印刷的启发，艾丁斯创作了《比利时三部曲》，但最终被出版商说服将其印刷为五本书系列. 这个故事在同样开发的 5 本书系列中继续，被称为 [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). - [@codercarly](https://github.com/codercarly)
 
 Books:
 
@@ -189,11 +204,11 @@ Books:
 - [Castle of Wizardry](https://www.goodreads.com/book/show/645023.Castle_of_Wizardry)
 - [Enchanters End Game](https://www.goodreads.com/book/show/44687.Enchanters_End_Game)
 
- &gt;一切始于球的盗窃，长期以来一直保护西方免受邪恶之神的侵害. 只要宝珠在里瓦（Riva），预言就消失了，它的子民就不会受到这种腐败势力的伤害.  Garion是一个简单的农场男孩，他熟悉Orb的传说，但对魔法问题持怀疑态度. 直到命运的转折，他才不仅了解到球的故事是真实的，而且还必须探索无与伦比的魔力和危险以寻求帮助. 因为加里昂是个命运的孩子，而命运本身正将他带离他的家，使他无可挽回地扫向遥远的塔楼，并且与最黑暗的魔法大师进行了灾难性的对抗. 任务可能已接近尾声，但危险仍在继续. 在发现了一个令人震惊的秘密之后，他再也无法想像所有-追寻传说中的Orb-Garion，而他的冒险者们必须逃离一个摇摇欲坠的敌人要塞，逃到布满无情士兵的广阔沙漠中，他们的唯一目的是消灭他们. 但是，即使任务完成了，加里昂的命运也远未实现. 因为邪恶的上帝托拉克即将苏醒并寻求统治. 不知何故，加里昂不得不面对上帝，要杀死还是被杀死. 这场可怕的决斗的结果取决于世界的未来. 但是，一个人怎么能消灭不朽的上帝呢？
+ &gt; 这一切都始于 Orb 被盗，该 Orb 长期以来一直保护西方免受邪恶之神的侵害. 只要 Orb 在 Riva，预言就会发生，它的人民就会远离这种腐化力量.  Garion，一个简单的农场男孩，熟悉 Orb 的传说，但对魔法问题持怀疑态度. 直到，通过命运的转折，他不仅了解到 Orb 的故事是真实的，而且他必须着手寻找无与伦比的魔法和危险来帮助恢复它. 因为加里安是命运之子，命运本身正带领他远离家乡，不可逆转地将他卷向遥远的塔楼——以及与最黑暗魔法大师的灾难性对抗. 任务可能接近尾声，但危险仍在继续. 在发现了一个关于他自己的惊人秘密后，他永远无法想象——为了追捕传说中的 Orb-Garion，他的冒险伙伴们必须逃离一个摇摇欲坠的敌人堡垒，逃离一个充满无情士兵的广阔沙漠，他们的唯一目的是摧毁他们. 但即使完成了任务，Garion 的命运也远未完成. 因为邪恶的神托拉克即将觉醒并寻求统治. 不知何故，Garion 必须面对上帝，要么杀死，要么被杀死. 这场可怕的决斗的结果决定了世界的未来. 但是一个人怎么能摧毁一位不朽的上帝呢？
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) _by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)_ [4.1] :star2:
 
-我最喜欢的书籍系列.  Severian是一个不可靠的叙述者，因为他记得所有事情. 但是他对你说谎，你慢慢开始意识到这一点. 第五本书后来被添加到其他四本书中（大多数以两本书的形式出售），它具有最出乎意料的启示，因此完全有必要进行重读. 这个系列太不可思议了.  -- [@RichardLitt](https://github.com/RichardLitt)
+我有史以来最喜欢的系列丛书.  Severian 是一个不可靠的叙述者，因为他记得一切. 但他对你撒谎，你慢慢开始意识到这一点. 第五本书后来被添加到其他四本书中（大部分作为两本书出售），其中有最出人意料的启示，完全有必要重新阅读. 这个系列太不可思议了.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -201,23 +216,23 @@ Books:
 - [Sword and Citadel](http://www.goodreads.com/book/show/40995.Sword_and_Citadel)
 - [Urth of the New Sun](http://www.goodreads.com/book/show/60215.The_Urth_of_the_New_Sun)
 
- &gt;在《指环王》和《霍比特人》之后，最近被评选为有史以来最伟大的幻想，吉恩·沃尔夫（Gene Wolfe）的《新太阳之书》是一部非凡的史诗，定于未来一百万年，在一个以神秘而奇妙的方式转变的地球上，在我们现在的文化不再是记忆的时代.  Severian是个中心人物，是一名酷刑者，因为爱上了他的一个受害者，并带着远古的execution子手剑（Terminus Est）来到了遥远的Thrax城市，从公会中流放了下来. 此版本收录这四册小说的后两册，《利克托的剑》和《自给自足的城堡》.
+ &gt; 最近被评为有史以来最伟大的奇幻作品，继《指环王》和《霍比特人》之后，吉恩·沃尔夫的《新太阳之书》是一部非凡的史诗，故事发生在一百万年的未来，地球发生了神秘而奇妙的变化，在我们现在的文化甚至不再是记忆的时代.  Severian，中心人物，是一个折磨者，在爱上他的一个受害者后从他的公会流放，并带着他的古老刽子手的剑 Terminus Est 前往遥远的城市 Thrax. 此版本包含这本四卷小说的后两卷，“圣者之剑”和“独裁者的城堡”.
 
 #### [The Chronicles of Amber](https://www.goodreads.com/book/show/5367.The_Great_Book_of_Amber) _by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)_ [4.3]
 
-实际上，这是十本书，但它们并不是独立的. 我将这两个系列称为：前五本书的Corwin系列和第二本书的Merlin系列.
+事实上，这是十本书，但它们不是独立的. 我将这两个系列称为：前五本书的 Corwin 系列和第二本书的 Merlin 系列.
 
-像大多数幻想一样，我没那么多读这些书就把它们吞噬了. 该系列非常好.  Corwin的故事就是我们所有人的故事. 一种被爱的愿望，使世界变得有意义，从邪恶的篡夺者手中夺回城堡的渴望. 琥珀色-所有其他城市都不过是影子的城市. 像CS Lewis一样，这个地球只是真实地球的阴影.  Corwin是我幻想系列中最喜欢的角色之一； 很少有人会与拿破仑军队中的一名士兵交谈，他认识梵高，他记得世纪之交的巴黎（他关于栗子的章节非常精美）.
+像大多数高级幻想一样，我并没有阅读这些书，而是吞食它们. 该系列非常出色.  Corwin 的故事是我们所有人内心的故事； 渴望被爱，了解世界，从邪恶的篡位者手中夺回城堡. 琥珀——这座城市，所有其他城市都不过是一个影子. 和 CS Lewis 一样，这个地球只是真实地球的一个影子.  Corwin 是我最喜欢的奇幻系列角色之一； 你很少能和拿破仑军队的士兵交谈，他认识梵高，记得世纪之交的巴黎（他关于栗子的部分很精致）.
 
-有这么多好的文字，那么多美丽的地方，几乎不可能记住这一切. 读这本书并不需要花很多时间阅读，而是要花一整天的时间. 我记得一个下午看完书后感到完全茫然，好像我已经被运送了. 第二天，在山顶上，我完全一样的感觉是，我在别的地方. 读这些书给了我一本书可以赋予的最大的快乐-迷失在另一个世界中.  -- [@RichardLitt](https://github.com/RichardLitt)
+有这么多好文，这么多美丽的地方，几乎不可能全部记住. 阅读这本书与其说是阅读，不如说是被传送到仙境一天. 记得一个下午读完后，我感到完全不知所措，好像我被传送了一样； 第二天，在山顶上，我有完全相同的感觉，我在别处. 阅读这些书给了我一本书所能给予的最大的快乐——迷失在另一个世界.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;罗杰·兹拉兹尼（Roger Zelazny）的《琥珀》编年史已成为具有想象力的文学史上的经典之作. 现在，这里是所有十本小说，合在一起是一部宏伟的综合卷. 目睹在地球上，在混沌中以及在一个神秘，冒险和浪漫的神奇世界上进行的至高无上的泰坦之战.
+> Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
 
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) _by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)_ [4.3]
 
-这本三本书的综合版本描述了名为帕克森瑞隆的女性圣骑士的起源和行为. 帕克森纳瑞恩契约以令人耳目一新的方式考虑了正义，真正的勇气以及善与恶的力量. 我想我也从没有真正理解过《圣骑士》的幻想课，直到读过这本书，伊丽莎白·穆恩的描绘将永远成为我对圣骑士的刻板印象.
+这本包含 3 本书的综合版描述了一位名叫 Paksenarrion 的女性圣骑士的起源和事迹.  Paksenarrion 的契约以令人耳目一新的方式思考正义、真正的勇气和善与恶的力量. 我认为在阅读本文之前我也从未真正理解圣骑士的幻想类，伊丽莎白·穆恩的描述现在将永远铭刻在我的脑海中，就像圣骑士一样.
 
-它拥有矮人和精灵所有的高空幻想的陷阱，但真正脱颖而出的是性别与女性角色之间的平衡. 在整本书中，妇女都受到平等的尊重，Paksenarrion养成勇敢，坚强和忠诚的性格，令人着迷并令人信服.  -- [@samueljseay](https://github.com/samueljseay)
+它拥有包括矮人和精灵在内的所有高级幻想的常见特征，但真正突出的是性别和女性角色的平衡. 在整本书中，女性受到平等的尊重，而 Paksenarrion 培养了一种勇敢、坚强和忠诚的性格，这种性格引人入胜且令人信服.  —— [@samueljseay](https://github.com/samueljseay)
 
 Books:
 
@@ -225,11 +240,11 @@ Books:
 - [Divided Allegiance](https://www.goodreads.com/book/show/887858.Divided_Allegiance)
 - [Oath of Gold](https://www.goodreads.com/book/show/17316.Oath_of_Gold)
 
- &gt; Paksenarrion-简称-是某人很特别. 她绝对不可能听从父亲的命令，嫁给养猪场的农民. 士兵的生活比养猪场的妻子好，因此尽管她知道自己再也不能回家了，但帕克斯还是逃了出来当兵. 于是，冒险开始了，目的是将一个简单的牧羊女转变成适合众神选择的英雄
+ &gt; Paksenarrion——简称Paks——是个特别的人. 她永远不可能听从父亲的命令，嫁给路上的养猪户. 军人的生活比养猪人的妻子好，所以尽管她知道自己再也回不去了，帕克斯还是逃跑了，成为了一名军人. 于是开始了一场注定要将一个简单的牧羊人的女儿变成适合众神选择的英雄的冒险
 
 #### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) _by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)_ [4.1] :fire:
 
-我吃光了这些书. 魔术系统很棒，整个世界都运转良好. 令人惊讶的是，有大量细节永远不会繁重. 与大多数幻想小说不同，角色随着故事而成长. 咒语下的字符的书写也很棒-霍布（Hobb）从来没有直接告诉您他们直到后来才被迷住了，这带来了一些非常有趣和令人愉悦的惊喜.  -- [@RichardLitt](https://github.com/RichardLitt)
+我吞食了这些书； 魔法系统很棒，世界也很好. 有大量的细节永远不会变得繁琐，令人惊讶. 与大多数奇幻小说不同，角色随着故事的发展而成长. 被施咒的角色的写作也很棒 - 霍布从不直接告诉你他们被迷惑直到之后，这会带来一些非常有趣和令人愉快的惊喜.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -237,17 +252,17 @@ Books:
 - [Royal Assassin](https://www.goodreads.com/book/show/68487.Royal_Assassin) [4.2]
 - [Assassin's Quest](https://www.goodreads.com/book/show/45112.Assassin_s_Quest) [4.2]
 
- &gt;在遥远的土地上，皇室成员以他们所体现的美德而得名，一个小男孩将成为一个行走的谜团. 骑士骑兵Farseer的儿子菲茨出生在被单的另一面，是一个皇家混蛋，被抛弃在世界上，没有朋友，也很孤独. 只有他与动物的神奇联系-一种称为“机智”的古老艺术-才能给他带来慰藉和陪伴. 但是机智，如果使用得太频繁，是一种危险的魔法，而贵族则憎恶它. 因此，当菲茨最终被收养为王室成员时，他必须放弃旧的方式，拥抱武器，划线，礼节的新生活. 以及在训练成为皇家刺客的过程中如何暗中杀死一个人.
+ &gt; 在遥远的土地上，皇室成员以其所体现的美德而得名，一个小男孩将成为一个行走的谜.  Chivalry Farseer 的儿子 Fitz 出生在床单的反面，是一个皇家私生子，被驱逐到这个世界上，没有朋友和孤独. 只有他与动物的神奇联系——被称为机智的古老艺术——才能给他带来安慰和陪伴. 但机智，如果使用得太频繁，是一种危险的魔法，而且是贵族所憎恶的. 因此，当菲茨最终被王室收养时，他必须放弃旧作，拥抱武器、书写和宫廷礼仪的新生活； 以及如何秘密杀死一个人，因为他正在训练成为一名皇家刺客.
 
 #### [The First Law Trilogy](https://en.wikipedia.org/wiki/The_First_Law) (2006) _by [Joe Abercrombie](https://en.wikipedia.org/wiki/Joe_Abercrombie)_ [4.2] :fire:
 
- 《第一定律》是一部极具格调的史诗般的幻想三部曲. 本书中的字符并不是特别喜欢，但尽管如此，我发现它们都非常可爱. 第一本书是缓慢的燃烧，有一段时间我不确定是否会继续下去，但是到一半的时候，我意识到我喜欢看到这些角色经历他们的艰辛和冒险. 这是您为完成而感到难过的系列，因为您想花更多的时间在这些角色上. 幸运的是，如果您喜欢原始的三部曲，则有独立的书籍和第二部三部曲可供阅读！
+第一定律是一部非常角色驱动的黑暗史诗奇幻三部曲. 这本书中的人物并不是特别可爱，但尽管如此，我发现他们都很可爱. 第一本书是一个缓慢的燃烧过程，有一段时间我不确定我是否会继续，但当我读到一半时，我意识到我喜欢看到这些角色经历他们的艰辛和冒险. 这是那种让你为完成而感到难过的系列，因为你想花更多的时间与这些角色相处. 幸运的是，如果您喜欢原版三部曲，可以阅读独立书籍和第二部三部曲！
 
-这个系列的魔力不在前面和中间. 尽管如此，我还是要说这是每个幻想爱好者都需要阅读的系列文章.  -- [@Darknessflowers](https://github.com/Darknessflowers)
+这个系列的魔力不是前沿和中心. 尽管如此，我想说这是每个幻想爱好者都需要阅读的系列.  —— [@Darknessflowers](https://github.com/Darknessflowers)
 
 Books:
 
-原始三部曲：
+原创三部曲：
 
 - [The Blade Itself](https://www.goodreads.com/book/show/944073.The_Blade_Itself) [4.2]：火：
 - [Before They Are Hanged](https://www.goodreads.com/book/show/902715.Before_They_Are_Hanged) [4.3]：火：
@@ -259,7 +274,7 @@ Books:
 - [The Heroes](https://www.goodreads.com/book/show/9300768-the-heroes) [4.3]
 - [Red Country](https://www.goodreads.com/book/show/13521459-red-country) [4.3]
 
-短篇小说选：
+短篇小说选集：
 
 - [Sharp Ends](https://www.goodreads.com/book/show/26030742-sharp-ends) [4.2]
 
@@ -267,46 +282,46 @@ Books:
 
 - [A Little Hatred](https://www.goodreads.com/book/show/35606041-a-little-hatred) [4.5]
 - [The Trouble With Peace](https://www.goodreads.com/book/show/40701777-the-trouble-with-peace) [4.7]
--人群的智慧-_将于2021年发布_
+- 人群的智慧 - _将于 2021 年发布_
 
- &gt;臭名昭著的野蛮人Logen Ninefingers终于运气不佳. 他陷入了太多的仇恨之中，即将成为一个死去的野蛮人，除了留下糟糕的歌声，死去的朋友和许多快乐的敌人之外，别无他法.
+ &gt; 臭名昭著的野蛮人洛根·九指终于倒霉了. 他陷入了太多的不和，他正处于成为一个死去的野蛮人的边缘——除了糟糕的歌曲、死去的朋友和许多快乐的敌人，他什么都没有留下.
 >
- &gt;贵族上尉杰扎尔·丹·卢萨尔（Jezal dan Luthar），自私的典范，在思想上没有什么比在朋友圈里逃离朋友和击剑圈里的荣耀梦想更危险的了. 但是战争正在酝酿之中，在冰冷的北方战场上，他们按照完全血腥的规则进行战斗.
+ &gt; 贵族船长 Jezal dan Luthar，风度翩翩的军官，自私的典范，脑子里没有什么比在纸牌上掠夺他的朋友并梦想在击剑圈中获得荣耀更危险的了. 但战争正在酝酿之中，在冰封北方的战场上，他们的战斗完全是血腥的规则.
 >
- &gt;审讯官格洛克塔（Glokta），cr弱的折磨者，想见杰扎尔（Jezal）放在盒子里回家就好. 但是后来格洛塔（Gokkta）讨厌每个人：从叛国罪中削减叛国罪一次一次的认罪就没有太多的友谊余地. 如果他能够活下来足够长的时间来跟随政府，那么他最新的尸体踪迹可能将他带入腐败的政府之心.
+ &gt; 审判官 Glokta，瘸子变成了拷问者，最希望看到 Jezal 装在盒子里回家. 但随后 Glokta 憎恨每一个人：一次一次坦白将叛国罪从联盟中剔除，几乎没有友谊的余地. 如果他能活到足够长的时间去追随它，他最近的尸体追踪可能会将他带到腐烂的政府中心.
 >
- &gt;输入向导Bayaz. 一个秃头的老人，脾气暴躁，可怜的助手，他可能是“东方贤士”的首相，他可能是一个壮观的骗局，但是无论他是什么，他都将使洛根，耶扎尔和格洛塔的生活变得更加充实.更加困难.
+ &gt; 进入向导巴亚兹. 一个脾气暴躁的秃头老头，一个可怜的助手，他可能是第一魔法师，他可能是一个了不起的骗子，但不管他是什么，他都将让洛根、杰扎尔和格洛克塔的生活变得一团糟更加困难.
 >
-&gt;阴谋阴谋浮出水面，老的分数已经准备好解决，英雄和反派之间的界线足够尖锐，可以抽血.
+&gt; 血腥阴谋浮出水面，宿怨已成定局，英雄与反派的分水岭直逼人流血.
 
 #### [The Inheritance Trilogy](https://github.com/RichardLitt/awesome-fantasy/blob/master/<https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_(N.K._Jemisin)>) _by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)_
 
-小说在高幻想环境中处理种族和性别歧视，非常出色.  -- [@SeanSWatkins](https://github.com/SeanSWatkins)
+在高度幻想的环境中处理种族和性别歧视，这部小说非常出色.  —— [@SeanSWatkins](https://github.com/SeanSWatkins)
 
 Books:
 
 1. [The Hundred Thousand Kingdoms](http://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) [4.2]
 
- &gt;第一本小说围绕叶恩（Yeine）的一名达尔族妇女，她因未知的原因而被召回城市天空（Sky）. 目前掌管整个世界的Sky领导者已经快要寿终正寝了，他以真正的Arameri方式进行继任.  Yeine很快陷入了她无法完全理解的计划中，涉及了她无法完全理解的神. 她必须在被告知的谎言和事实中进行筛选，以试图发现世界首都的真实情况，同时还要努力度过脆弱而具有欺骗性的政治气氛. 这个故事是从主要人物Yeine的第一人称视角讲述的. 这是对故事的重述，她在其中引导您度过天空中的时光以及所有导致故事达到高潮的事件. 这个故事似乎确实跳来跳去也没有引起混淆.
+ &gt; 第一部小说围绕 Yeine 展开，一个 Darr 女人因未知原因被召回城市 Sky.  Sky 的现任领导者也统治着整个世界，他的生命即将结束，并以真正的 Arameri 方式制作了他的继任游戏.  Yeine 很快就陷入了她无法完全理解的计划中，涉及到她无法完全理解的神. 她必须筛选被告知的谎言和半真半假，试图揭开世界首都的真实情况，同时试图驾驭脆弱和欺骗性的政治氛围. 故事以主人公叶茵的第一人称视角讲述. 它是作为一个故事的复述而写的，在那里她将带您了解她在 Sky 中的时光以及导致故事高潮的所有事件. 这个故事似乎跳来跳去，而不会变得混乱.
 
 #### [The Kingkiller Chronicle](http://en.wikipedia.org/wiki/The_Kingkiller_Chronicle) _by [Patrick Rothfuss](https://en.wikipedia.org/wiki/Patrick_Rothfuss)_
 
-这些都写得特别好，幽默，并且表现出令人惊讶的非非离子性对位的缺乏. 有很好的幽默感，魔术充实，主角Kvothe很好读，也很容易同情. 爱他们，等不及最后的三分之一.  -- [@RichardLitt](https://github.com/RichardLitt)
+这些都写得非常好，幽默，并且显示出令人惊讶的缺乏非讽刺意味的比喻. 有一种很好的幽默感，魔法很充实，主角 Kvothe 读起来很有趣，很容易让人同情. 爱他们，等不及最后三分之一了.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
 - [The Name of the Wind](https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind) [4.55]
 - [The Wise Man's Fear](https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear) [4.56]
 
-&gt;《 Kingkiller纪事》是帕特里克·罗斯福斯（Patrick Rothfuss）制作的一部幻想三部曲，讲述了冒险家和著名音乐家科沃斯（Kvothe）的自传.
+&gt; The Kingkiller Chronicle 是帕特里克·罗斯福斯 (Patrick Rothfuss) 的奇幻三部曲，讲述了冒险家和著名音乐家科沃特 (Kvothe) 的自传.
 >
- &gt;情节分为两个不同的动作线索：现在，在这里，科沃特向客栈主屋中的德万·洛切斯（Chronicler）讲述了自己的人生故事，而科沃斯的过去则是相关故事大部分书籍. 从多个角色的角度来看，今天的插曲是在第三人称视角中，而从他本人的角度来看，科沃斯的人生故事完全是在第一人称视角中讲述的.
+ &gt; 情节分为两个不同的动作线索：现在，Kvothe 在客栈的主房间向 Devan Lochees（称为 Chronicles）讲述他的生活故事，以及 Kvothe 的过去，即所讨论的故事，这构成了大多数书籍. 当今的插曲是从多个人物的角度以第三人称的方式进行的，而科沃特的生平故事则完全以他自己的角度以第一人称的方式讲述.
 >
-&gt;该系列还包含许多不同角度的超小说内幕故事，其中大部分是科沃特（Kvothe）讲述的，在他过去的其他角色中也曾听到过.
+&gt; 该系列还包含许多来自不同视角的元虚构故事，其中大部分由 Kvothe 讲述，并从他过去的其他角色那里听到.
 
 #### [The Lightbringer Series](https://www.goodreads.com/series/49673-lightbringer) _by [Brent Weeks](https://en.wikipedia.org/wiki/Brent_Weeks)_
 
- 《光明使者》系列拥有我在高空幻想中见过的最复杂的，充实的魔术系统之一，魔术的使用对角色的寿命和性格产生了有趣的影响. 故事情节，角色发展和剧情曲折使其成为值得一掷的系列. 最重要的是，Weeks出色地完成了工作，使读者了解每个角色在性格，魔术能力和环境方面的优缺点，这些优势和劣势决定了他们最终如何适应更大的画面. 通过他的角色的发展，他的著作解决了从奴隶制和描述到神学和有神论/无神论的更大的社会和哲学问题. 这是经过深思熟虑的，我迫不及待地想看看他在本系列的最后一部分也是最后一部分所做的事情. 第五本书 [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) 预计将在2019年的某个时候问世！  -- [@ciarrapeters](https://github.com/ciarrapeters)
+光明使者系列拥有我在高幻想中见过的最复杂、充实的魔法系统之一，其中魔法的使用对角色的寿命和个性有着有趣的影响. 故事情节，人物发展和情节曲折使其成为一个值得狂欢的系列. 最重要的是，Weeks 出色地让读者了解每个角色在个性、魔法能力和环境方面的优势和劣势，这些优势和劣势塑造了他们最终如何适应更大的画面. 通过他的人物发展，他的书解决了更大的社会和哲学问题，从奴隶制和歧视到神学和有神论/无神论. 这是令人难以置信的深思熟虑，我迫不及待地想看看他在该系列的最后一部和最后一部中做了什么. 第五本书 [The Burning White](https://www.goodreads.com/book/show/30169100-the-burning-white) 预计将在 2019 年的某个时候问世！  —— [@ciarrapeters](https://github.com/ciarrapeters)
 
 Books:
 
@@ -315,27 +330,27 @@ Books:
 - [The Broken Eye](https://www.goodreads.com/book/show/12652457-the-broken-eye) (2014) [4.47]
 - [The Blood Mirror](https://www.goodreads.com/book/show/29467232-the-blood-mirror) (2016) [4.32]
 
- &gt;居里（Guile）是棱镜，是世界上最有权势的人. 他是大祭司和皇帝，一个人的力量，机智和魅力都保留着微弱的和平. 然而，棱镜永远不会持续，吉尔（Guile）确切地知道他还活了多久.
+ &gt; Guile 是棱镜，是世界上最强大的人. 他是大祭司和皇帝，他的力量、智慧和魅力都是维持微弱和平的人. 然而棱镜永远不会持久，Guile 确切地知道他还能活多久.
 >
-&gt;当吉尔发现自己有一个儿子，他在战后出生于一个遥远的王国出生，这使他掌权时，他必须决定为保护一个可能使他的世界崩溃的秘密而愿意付出多少.
+&gt; 当 Guile 发现他有一个儿子，在他掌权的战争结束后出生在一个遥远的王国，他必须决定他愿意付出多少来保护一个可能撕裂他的世界的秘密.
 
 #### [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.4] :star2: :fire:
 
-没有意见.  -- [@RichardLitt](https://github.com/RichardLitt)
+没有意见.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
-- [The Fellowship of the Ring](http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring) ：fire：：star2：
-- [The Two Towers](http://www.goodreads.com/book/show/15241.The_Two_Towers) ：fire：：star2：
-- [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) ：fire：：star2：
+- [The Fellowship of the Ring](http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring) :fire: :star2:
+- [The Two Towers](http://www.goodreads.com/book/show/15241.The_Two_Towers) :fire: :star2:
+- [The Return of the King](http://www.goodreads.com/book/show/18512.The_Return_of_the_King) :fire: :star2:
 
-&gt;这套三册盒装套装适合新Tolkien粉丝或有兴趣重新发现中土魔法的读者使用，是一套完整的三部曲的平装版-《指环王》，《两座塔楼》和《归来》.国王-封面上都有New Line Productions长片的艺术作品.
+&gt; 为新托尔金粉丝或有兴趣重新发现中土世界魔力的读者准备的绝妙入门套装，这套三卷盒装套装包含完整三部曲的平装版——魔戒、两座塔和魔戒归来国王——每个封面上都有来自 New Line Productions 故事片的艺术作品.
 >
- &gt; JRR Tolkien的《指环王》三部曲是一部真正的杰作. 这是有史以来最广泛阅读和最有影响力的幻想史诗，它也简直是有史以来最令人难忘和最受人喜爱的故事之一.  《指环王》最初出版于1954年，为以后的所有史诗/任务幻想的建立奠定了框架. 在神秘的巫师甘道夫（Gandalf）的敦促下，年轻的霍比特人弗罗多·巴金斯（Frodo Baggins）踏上了一次紧急的，令人难以置信的险恶旅程，以摧毁“一环”. 这枚戒指是几个世纪前由黑暗领主索伦（Sauron）制造，然后丢掉的那枚戒指，是邪恶的武器，索伦（Sauron）迫切希望将其归还给他. 黑暗之王将再次凭借自己的力量，向整个中土世界释放他的愤怒. 防止这种可怕的命运成为现实的唯一方法是将魔戒归还给魔多，这是唯一可以摧毁的地方. 对于我们的英雄们来说不幸的是，莫多也是索伦的巢穴. 指环王三部曲不仅对幻想迷而且对于古典文学爱好者来说都是必不可少的读物...
+ &gt; JRR 托尔金的指环王三部曲是一部真正的杰作. 它是有史以来阅读最广泛、影响力最大的奇幻史诗，也是有史以来最令人难忘和最受喜爱的故事之一. 最初出版于 1954 年的《指环王》为所有史诗/任务幻想设定了框架. 在神秘巫师甘道夫的催促下，年轻的霍比特人弗罗多·巴金斯开始了一场紧急的、极其危险的摧毁一环的旅程. 这枚戒指——几个世纪前由黑魔王索伦创造然后丢失——是一种邪恶的武器，索伦迫切希望将其归还给他. 凭借再次属于他自己的戒指的力量，黑魔王将向整个中土大陆释放他的愤怒. 阻止这种可怕命运成为现实的唯一方法是将魔戒归还魔多，这是唯一可以摧毁它的地方. 不幸的是，对于我们的英雄来说，魔多也是索伦的巢穴.  《指环王》三部曲不仅是奇幻爱好者的必读之作，也是经典文学爱好者的必读之作……
 
 #### [The Lost Years of Merlin](https://www.goodreads.com/series/40391) by _[T.A. Barron](https://en.wikipedia.org/wiki/T._A._Barron)_ [4.0]
 
-这些书对于作者的想象力来说是惊人的，作者从旧民俗中随机提取了一些片段，并试图从中提取一个故事. 它们与实际的Merlin完全不同，但阅读起来却很有趣. 但是，写作风格更适合年轻人，而且年龄不大.  -- [@RichardLitt](https://github.com/RichardLitt)
+这些书是惊人的，因为作者的想象力是惊人的，他从古老的民间传说中随机抽取片段并试图用它们来编故事. 它们一点也不像真正的梅林，但它们读起来很有趣. 然而，这种写作风格更适合年轻人，而且他们的年龄并不大.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -345,11 +360,11 @@ Books:
 - [The Mirror of Merlin](http://www.goodreads.com/book/show/18394.The_Mirror_of_Merlin)
 - [The Wings of Merlin](http://www.goodreads.com/book/show/18395.The_Wings_of_Merlin)
 
-&gt;当患有严重失忆症的梅林发现自己奇怪的力量时，他决心发现自己的身份并逃往芬卡伊拉，实现自己的命运，使芬卡伊拉免于某些破坏，并享有自己的出生权和真实姓名.
+&gt; 当患有严重失忆症的梅林发现自己的奇异力量时，他决心发现自己的身份并逃往芬凯拉，在那里他完成了自己的使命，将芬凯拉从某种毁灭中拯救出来，并获得了他与生俱来的真名.
 
 #### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) _by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)_ [3.8]
 
-该系列将格伦·库克（Glen Cook）的书的苦涩与现代幻想元素融合在一起，比以往任何时候都更为残酷. 许多哲学问题都源于阅读不那么重要的章节，并且大量的字符使得它需要长时间的深入阅读. 正如埃里克森本人指出的那样，人们要么“爱它要么恨它”. 作者现在正在撰写前传系列，并将在其后添加续集三部曲，总共制作了16本书.  -- [@Donearm](https://github.com/Donearm)
+将格伦库克书籍的坚韧与现代奇幻元素相结合，这个系列比之前的任何系列都更加残酷. 许多哲学问题源于阅读即使是不太重要的章节，而且大量的字符使得阅读时间非常长和深入. 正如埃里克森自己指出的那样，人们要么“喜欢它，要么讨厌它”. 作者现在正在写前传系列，之后会增加续集三部曲，一共16本书.  —— [@Donearm](https://github.com/Donearm)
 
 Books:
 
@@ -364,13 +379,13 @@ Books:
 - [Dust of Dreams](https://www.goodreads.com/book/show/4703427-dust-of-dreams) [4.3]
 - [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god) [4.4]
 
- &gt;史蒂文·埃里克森（Steven Erikson）拥有20年的人类学家和考古学家经验. 众多神灵，法师，人类，龙和各种各样的生物，以残酷的行动和战斗场面展现了马拉赞帝国的命运
+ &gt; 史蒂文·埃里克森 (Steven Erikson) 拥有 20 年作为人类学家和考古学家的经验. 庞大的神、法师、人类、龙和各种生物的军团以残酷的动作和战斗场面演绎着马拉赞帝国的命运
 >
- &gt;世界建筑的规模空前，埃里克森在马拉山帝国的世界上留下了一生难忘的小说. 那么还有什么要谈的呢？ 很简单，就是写作. 我可以说，史蒂文·埃里克森（Steven Erikson）的作品充满了机智，魅力，哲理的光辉和想象力，这会使最富有创造力的作者感到沮丧. 您将很难在任何体裁上找到他的平等.
+ &gt; 世界建设以前所未有的规模完成，埃里克森在马拉赞帝国的世界中留下了一生价值的小说. 那么还有什么可谈的呢？ 很简单，写作. 我可以说史蒂文·埃里克森（Steven Erikson）的作品充满了机智、魅力、哲学才华和想象力，这会让最具创造力的作家感到谦卑. 您将很难在任何类型中找到与他相同的人.
 
 #### [The Riftwar Saga](https://en.wikipedia.org/wiki/The_Riftwar_Saga) _by [Raymond E. Feist](https://en.wikipedia.org/wiki/Raymond_E._Feist)_ [4.3]
 
-这听起来像是某个人决定将一些角色放入他们的《龙与地下城》世界中，这正是他们形成的方式. 尽管如此，他们还是很有趣的.  -- [@RichardLitt](https://github.com/RichardLitt)
+这读起来就像有人决定在他们的龙与地下城世界中放置一些角色，这正是他们的形成方式. 尽管如此，它们还是很有趣的.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -379,21 +394,21 @@ Books:
 - [Silverthorn](http://www.goodreads.com/book/show/149302.Silverthorn)
 - [A Darkness at Sethanon](http://www.goodreads.com/book/show/13813.A_Darkness_At_Sethanon)
 
- &gt;孤儿哈巴狗来到群岛王国岸边的森林，与魔术大师库尔干（Kulgan）一起学习. 他的勇气为他赢得了法庭上的地位和可爱的公主的心，但他在正常的巫术中感到不舒服. 然而，他的奇异魔法可能会拯救黑暗世界中的两个世界，黑暗世界打开了时空，以续订Order与Chaos之间的古老战役.
+ &gt; 到群岛王国海岸的森林，孤儿帕格来到魔法大师库尔甘学习. 他的勇气为他赢得了宫廷的地位和一位可爱公主的心，但他对普通的巫术感到不安. 然而，他奇怪的魔法可能会从黑暗生物手中拯救两个世界，黑暗生物打开时空，重新开始秩序与混沌之间的古老战斗.
 
 #### [The Silmarillion](http://www.goodreads.com/book/show/7332.The_Silmarillion) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [3.8] :fire:
 
-这是有史以来对世界建设最荒谬的尝试之一. 有时，它的读起来就像一本教科书，但其中的某些部分功能非常强大，人物也很吸引人.  Silmarillion比《指环王》拥有更多的想象力和毅力，但值得您付出努力，尤其是如果您已经阅读过几次他的其他书籍并且想要更多.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是有史以来对世界建设最荒谬的尝试之一. 有时，它读起来像一本教科书，但也有非常强大的部分和引人入胜的角色. 精灵宝钻比指环王需要更多的想象力和毅力，但值得付出努力，特别是如果你已经读过他的其他书并想要更多的话.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; The Silmarillion旨在将《霍比特人》和《指环王》的粉丝们带入中土神话和传说中，是托尔金世界第一时代的上古时代的写照. 这是一部古老的戏剧，在《指环王》中的角色回想起，其中一些事件，例如埃隆德（Elrond）和加拉德里尔（Galadriel）也参与其中.  The Silmarillion的故事是在一个时代出现的，当时第一个黑魔王莫尔格斯（Morgoth）居住在中土世界，而高等精灵向他发起战争，要求收回Silmarils，其中包含了Valinor纯净的光芒. 书中包括一些较短的作品.  Ainulindale是造物的神话，而在Valaquenta中，描述了每个神灵的本质和力量. 如《指环王》所述，阿卡巴拉培斯讲述了努美诺尔岛国在第二世纪末期的衰落，而《权力指环》则讲述了第三世纪末期的重大事件. 这项重要的工作以经修订，更正的文本为特色，并以引言的方式包括托尔金在1951年写的一封引人入胜的书信，其中充分解释了他如何构想中土世界的早期.
+ &gt; 旨在让《霍比特人》和《指环王》的粉丝更深入地了解中土世界的神话和传说，《精灵宝钻》是对托尔金世界第一纪元上古时代的记述. 这是指环王中的人物回顾的古老戏剧，其中一些人如埃尔隆德和凯兰崔尔参与了他们的事件.  《精灵宝钻》的故事发生在一个时代，第一任黑魔王魔苟斯居住在中土，而高等精灵为了恢复精灵宝钻向他发动了战争，精灵宝钻含有维林诺的纯净之光. 书中收录了几部较短的作品.  Ainulindale 是一个关于创世的神话，在 Valaquenta 中描述了每个神的本质和力量.  《阿卡拉贝斯》讲述了第二纪元末期努门诺尔大岛国的灭亡，《魔戒》讲述了第三纪元末的重大事件，如《魔戒》中所述. 这部关键著作以经过修订和更正的文本为特色，并以介绍的方式包括托尔金于 1951 年写的一封引人入胜的信件，在信中他全面解释了他如何构想中土时代的早期.
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.6]
 
- Stormlight Archive图书（计划中的10本书中只有2本书是我听过的最长的），我在Kindle上阅读，直到意识到我已经呆了15个小时左右才意识到它们太长了〜 50％完成了IIRC. 我全神贯注，没有在意. 尽管我的日程安排很忙（牺牲了睡眠），但我还是在第二天就收到了第二本书，并在大约10天内阅读了该书.  -- [@CWSpear](https://github.com/CWSpear)
+ Stormlight Archive 的书（我最后听说的 10 本书中只有 2 本书）是最长的书中的 2 本书，我在 Kindle 上阅读并没有意识到它们这么长，直到我意识到我已经读了大约 15 个小时~完成 50% 的 IIRC. 我太专注了，我没有在意. 尽管我的日程很忙（牺牲了睡眠），我还是在它出来的那天拿到了第二本，并在大约 10 天内阅读了它.  —— [@CWSpear](https://github.com/CWSpear)
 
-我完全同意，这些书有多长，都没有关系. 他们太棒了. 魔术系统很复杂，布兰登（Brandon）专注的角色有自己的小缺点和一些很棒的东西. 这是90年代的经典幻想，但仍然非常出色. 这个世界对于幻想来说也很新颖-不再有类似英格兰的环境，而实际上是另一种景观.  -- [@RichardLitt](https://github.com/RichardLitt)
+我完全同意，无论这些书有多长，都无关紧要. 他们太棒了. 魔法系统很复杂，布兰登关注的角色都有自己的小缺点和令人敬畏的地方. 这是经典的 90 年代幻想，但仍然非常好. 幻想世界也很新颖——不再是英国式的环境，而是一种不同的风景.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;布兰登·桑德森（Brandon Sanderson）的史诗般的幻想周期讲述了罗斯哈尔（Roshar）的故事，罗斯哈尔是一个充满石头和暴风雨的世界. 令人难以置信的超凡暴风雨席卷了多岩石的地形. 自从十个奉献的骑士发光骑士团落败以来已有数百年历史了，但是它们的碎片刀片和碎片板块依然存在：神秘的剑和盔甲使普通人变成了几乎不可战胜的战士. 当残酷的战争激化了对这些魔法武器的控制时，一个名为《王者之路》的古老文字讲述了古代，骑士的光芒四射，也许是战争的真正起因. 辐射骑士团必须再次站起来.
+ &gt; Brandon Sanderson 的史诗奇幻循环讲述了 Roshar 的故事，这是一个充满石头和风暴的世界. 不可思议的风暴席卷了岩石地形. 被称为光辉骑士团的十个神圣骑士团的倒台已经过去了几个世纪，但他们的碎片刀片和碎片板仍然存在：神秘的剑和盔甲，将普通人变成近乎无敌的战士. 随着对这些魔法武器的控制的残酷战争肆虐，一部名为《王者之路》的古老文本讲述了远古时代、光辉骑士团，也许还有战争的真正原因. 光辉骑士团必须重新站起来.
 
 Books:
 
@@ -401,11 +416,11 @@ Books:
 - [Words of Radiance](https://www.goodreads.com/book/show/17332218-words-of-radiance) [4.76]：火：
 - [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) [4.73]：火：
 - [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) [4.63]
--_更多即将来临_
+- _更多来了_
 
 #### [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) _by [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan) (and [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson))_ [4.15] :fire:
 
-这些书可能是幻想类型中最长的单曲系列. 我已经读过八次了. 我不知道该怎么做，除了值得一读. 这就像是一部长长的肥皂剧，角色是单侧且扁平的，但是其中有太多这样的角色，您最终都不介意. 魔术系统非常复杂，总体情节良好. 最后三本书是合着的，因为罗伯特·乔丹（Robert Jordan）在完成之前就去世了.  -- [@RichardLitt](https://github.com/RichardLitt)
+这些书可能是奇幻类型中最长的单系列. 我已经读了八遍这个系列. 我不知道该怎么做，除了它值得一读. 这就像一部长篇肥皂剧——角色是片面的、扁平的，但他们太多了，你最终不会介意. 魔法系统非常复杂，总体剧情线不错. 最后三本书是合写的，因为罗伯特乔丹在他们完成之前就去世了.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -425,11 +440,11 @@ Books:
 - [A Memory of Light](http://www.goodreads.com/book/show/7743175-a-memory-of-light)
 - [New Spring (prequel)](http://www.goodreads.com/book/show/187065.New_Spring)
 
- &gt;时光之轮转转，时光流逝，留下的记忆成为传奇. 传说逐渐淡出神话，甚至当神话再次重生时，神话也早已被人们遗忘. 在第三时代，即预言时代，世界和时间本身悬而未决. 过去，现在和现在可能仍然落在阴影之下.
+> The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
 #### [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) _by [Saraah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)_ [4.21] 🔥
 
-这是华丽的，黑暗的和荒诞的史诗. 快节奏，动感十足且高度幻想的善良爱好者！ 人们不爱任何东西，但想要尝试新的恋人！  -我绝对推荐这本书！  -- [@gayatripalkar](https://github.com/gayatripalkar)
+这是华丽，黑暗和荒谬的史诗. 快节奏、动感十足且充满幻想的善良爱好者！ 不喜欢那些东西但想尝试新事物的人！  - 我绝对推荐这本书！  —— [@gayatripalkar](https://github.com/gayatripalkar)
 
 Books:
 
@@ -442,90 +457,96 @@ Books:
 7. [Tower of Dawn](https://www.goodreads.com/book/show/31450852-tower-of-dawn) [4.36] 
 8. [Kingdom of Ash](https://www.goodreads.com/book/show/33590260-kingdom-of-ash) [4.57] 
 
- &gt;《玻璃王座》是由美国作家莎拉·马斯（Sarah J. Maas）改成的年轻成年人，新的成年幻想小说系列，从同名小说开始，于2012年8月发行.该故事追随了少年刺客塞拉娜·萨多蒂安（Celaena Sardothien）的旅程.在一个腐败的王国里，拥有一个专横的统治者. 随着故事的发展，塞拉娜（Celaena）形成了意想不到的纽带，并在冒险中发现了一个阴谋. 该系列于2018年10月出版了第八本书.
-&gt;该系列节目出现在《纽约时报》的畅销书排行榜上，并被Hulu选为马克·戈登（Mark Gordon）改编的电视连续剧.
+ &gt; 玻璃王座是美国作家莎拉·J·马斯 (Sarah J. Maas) 创作的一部由年轻成人转变为新成人的高度奇幻小说系列，以同名小说开头，于 2012 年 8 月发行.故事讲述了少女刺客塞拉娜·萨多西恩 (Celaena Sardothien) 的旅程在一个有暴虐统治者的腐败王国里. 随着故事的进展，塞拉娜形成了意想不到的联系，并在她的冒险中发现了一个阴谋. 该系列于 2018 年 10 月以第八本书结束.
+&gt; 该系列出现在纽约时报畅销书排行榜上，并被 Hulu 选为马克戈登改编的电视剧.
 
- &gt; 18岁的刺客塞拉娜·萨多蒂安（Celaena Sardothien）在恩多维埃（Endovier）盐矿辛苦了一年之后，被拖到王储面前. 多里安亲王在一定条件下为她提供自由：她必须在寻找新的皇家刺客的比赛中扮演他的冠军.
- &gt;她的对手是来自整个帝国的盗贼，刺客和战士，每个人都是国王议会成员赞助的. 如果她在一系列淘汰赛中击败了对手，她将为王国服务四年，然后获得自由. 塞拉娜（Celaena）与守卫队长西荒（Westfall）一起经历了充满挑战性和令人振奋的训练. 但是她对法庭生活感到无聊. 当王子开始表现出对她的兴趣时，事情会变得更加有趣……但是，威斯法尔上尉似乎才是她最了解她的人.
- &gt;然后，其他参赛者之一死了……很快被另一名参赛者所杀. 塞莱娜（Celaena）可以在受害者成为受害者之前弄清楚谁是凶手吗？ 随着年轻刺客的调查，她的搜寻使她发现了比她可能想象的更大的命运.
+ &gt; 18 岁的刺客塞莱娜·萨多西恩 (Celaena Sardothien) 因罪行在 Endovier 的盐矿中苦苦劳役一年后，被拖到王储面前. 多里安王子在一个条件下为她提供自由：她必须在寻找新皇家刺客的比赛中扮演他的冠军角色.
+ &gt; 她的对手是来自整个帝国的盗贼、刺客和战士，每个人都由国王议会的一名成员赞助. 如果她在一系列淘汰赛中击败对手，她将为王国服务四年，然后获得自由.  Celaena 发现她与卫队队长 Westfall 的训练既充满挑战又令人振奋. 但她对宫廷生活感到厌烦. 当王子开始对她表现出兴趣时，事情变得更有趣了……但粗鲁的 Westfall 船长似乎最了解她.
+ &gt; 然后其他参赛者中的一个人死了……很快又一个人死了.  Celaena 能否在成为受害者之前弄清楚凶手是谁？ 随着年轻刺客的调查，她的搜索使她发现了一个比她想象的更伟大的命运.
 
 ### Standard Fantasy
 
 #### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) _by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.1]
 
-这本书值得一读，并且是尼尔·盖曼（Neil Gaiman）能够将一千个不同的线索汇集成一个具有凝聚力的故事的典范. 威斯康星州小城镇中的场景与我在一起的时间比本书中的其余部分要长得多-它们使人联想到吉恩·沃尔夫（Gene Wolfe）写得更好的《和平》（Peace），并不是说它们做得不好. 这是一本快速而精彩的书，并且不断令人惊讶.  -- [@RichardLitt](https://github.com/RichardLitt)
+这本书经得起重读，是尼尔盖曼将一千种不同的线索汇集成一个有凝聚力的故事的能力的一个很好的例子. 威斯康星州小镇的场景比书的其他部分更能陪伴我，它们让人想起吉恩·沃尔夫 (Gene Wolfe) 写的更好的书 _Peace_，并不是说它们做得不好. 这是一本快速而精彩的读物，它不断给我们带来惊喜.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Shadow的妻子Laura出狱前几天，死于一场神秘的车祸中. 麻木地，他回家了. 在飞机上，他遇到了神秘的星期三先生，他自称是远距离战争的难民，曾任神灵和美国国王.
+ &gt; 出狱前几天，Shadow 的妻子 Laura 死于一场神秘的车祸. 麻木地，他踏上了回家的路. 在飞机上，他遇到了神秘的星期三先生，他自称是远方战争的难民、前神和美国国王.
 >
-&gt;他们一起踏上了穿越美国心脏的深刻而奇特的旅程，而周围的一切，如雨后春笋般破灭的奇异和史诗般的威胁.
+&gt; 他们一起踏上了穿越美国中心的奇妙旅程，而在他们周围，一场超自然和史诗般的风暴有可能被打破.
 >
- &gt;可怕，令人抓狂且令人不安的是，美国上帝对美国的灵魂进行了漫长而艰辛的审视. 您会为在那里发现的东西和发现的人感到惊讶...
+ &gt; 恐怖、扣人心弦且深感不安，AMERICAN GODS 对美国的灵魂进行了长时间而艰难的审视. 你会惊讶于它在那里发现了什么和谁......
 
 #### [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones) _by [Jorge Luis Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)_ [4.5]
 
-我读过的一些最好的短篇小说； 图书馆一直以来都是我的最爱，以至于我都在争相从中获取纹身.  -- [@RichardLitt](https://github.com/RichardLitt)
+我读过的一些最好的短篇小说； 图书馆是我一直以来的最爱，以至于我都在争论要不要从它身上纹身.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Ficciones中的17件作品展示了Borges天才的旋风，并反映了他的才智和创造力的精确性和效力，他刺耳的讽刺，他的怀疑态度以及他对幻想的痴迷. 博尔赫斯（Borges）使我们踏上了引人入胜，离奇而深刻的共鸣世界的旅程. 我们进入了帕斯卡（Pascal）深渊的可怕领域，书籍的超现实和字面迷宫，以及永恒回归的肖像画. 进入Ficciones的世界就是进入豪尔赫·路易斯·博尔赫斯（Jorge Luis Borges）的头脑，那里有天堂，地狱以及介于两者之间的一切.
+ &gt; 小说中的 17 件作品展示了博尔赫斯天才的旋风，反映了他的智慧和创造力、尖锐的讽刺、怀疑和对幻想的痴迷的精确和有力. 博尔赫斯带领我们踏上一段引人入胜、奇异而深刻共鸣的领域； 我们进入了帕斯卡深渊的可怕领域、超现实主义的书本迷宫以及永恒回归的肖像画. 进入 Ficciones 中的世界就是进入博尔赫斯的心灵，那里有天堂、地狱以及介于两者之间的一切.
 
 #### [Grandma's Bag Of Stories](https://www.goodreads.com/book/show/13510813-grandma-s-bag-of-stories) (2012) _by [Sudha Murthy](https://en.wikipedia.org/wiki/Sudha_Murty)_ [4.21]
 
-这本书非常现实，使我想起了祖父母告诉我的故事. 和我一样，这场冒险结束时，每个人都感到不高兴.  --[@NivedithaBBhat](https://github.com/NivedithaBBhat)
+这本书很现实，让我想起了我祖父母告诉我的故事. 就像我一样，当这次冒险结束时，每个人都很沮丧.  ——[@NivedithaBBhat](https://github.com/NivedithaBBhat)
 
-&gt;奶奶打开她的故事袋时，每个人都聚集在周围.
- &gt;谁能抗拒一个好故事，尤其是在奶奶讲的时候？ 从她的书包中出现了国王和作弊者，猴子和老鼠，熊和神的故事. 熊来了，他们吃了一些不好的甜点，非常生气. 一个懒惰的人，直到他的胡须生下来，他才熄火； 变成洋葱的公主； 一位发现丝绸的女王，还有更多奇怪而又奇妙的人和动物.
- &gt;奶奶讲述了漫长的夏日白天和夜晚的故事，七个孩子在她的小镇上过着快乐的生活. 这些故事寓教于乐，为他们提供欢乐时光.
+&gt; 当奶奶打开她的故事书包时，所有人都围了过来.
+ &gt; 谁能抗拒一个好故事，尤其是当它被奶奶讲出来的时候？ 从她的包里浮现出国王和骗子、猴子和老鼠、熊和神的故事. 熊来了，它吃了一些非常糟糕的甜点并且非常生气； 一个懒惰的人，不把火烧到胡子上就不会熄灭； 变成洋葱的公主； 一位发现丝绸的女王，以及更多奇怪而奇妙的人和动物.
+ &gt; 奶奶在漫长的夏夜里讲述了这些故事，因为七个孩子在她的小镇享受生活. 这些故事娱乐、教育并为他们提供数小时的享受.
 
 #### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) _by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)_ [3.78]
 
-我发现吉雷尔作为1930年代纸浆幻想的女主人公着迷. 在她的整个冒险历程中，Jirel的对手一直在寻求使其遭受伤害，以她为诱饵，引诱她或压倒她. 通常，她无法逃避目睹甚至成为可怕事情的一部分，但她会面对这些不可能的情况，并以自己的方式面对这些情况. 我认为这是一个不错的替代方法，它可以始终躲避危险或使用女性化的技巧摆脱困境.  Jirel具备身体和情感上的能力，却无所不知或非常幸运. 摩尔描绘了梦幻般的境界和生物的生动影像. 我认为这些故事会很好地转化为图画小说. 该系列是有关传统剑法故事的引人入胜的作品，非常值得一读.  -- [@thejessleigh](https://github.com/thejessleigh)
+我发现 Jirel 作为 1930 年代低俗幻想的女主角很迷人. 在她的冒险过程中，吉瑞尔的对手不断地试图伤害她、将她用作诱饵、引诱她或压制她. 通常她无法逃避目睹甚至成为可怕事物的一部分，但她接受这些不可能的情况并以自己的方式面对它们. 我认为这是一个很好的替代方案，可以避免总是逃避危险或使用女性诡计摆脱困境. 吉雷尔在身体和情感上都很有能力，但他不是万事通或超乎常人的幸运. 摩尔描绘了梦幻般的领域和生物，栩栩如生. 我认为这些故事可以很好地转化为图画小说. 该系列是对传统剑术和巫术故事的迷人诠释，非常值得一读.  —— [@thejessleigh](https://github.com/thejessleigh)
 
- &gt;克莱尔·穆尔（CL Moore）创造了乔伊（Joiry）的统治者吉雷尔（Jirel），以回应30年代纸浆杂志的强壮的总睾丸激素血腥声，但吉雷尔并不是反柯南. 她是一个好天主教徒的女孩，固执的目的，对敌人或复仇的不懈追求，顽固而又有点愚蠢，不能仅仅因为身体上的吸引力而分心. 确实，在吉雷尔的世界中，美丽= decade废=腐败. 如果今天写这些故事的话，吉雷尔不可避免地会有很多热性行为，但由于它们是在1934-1939年间在《怪诞的故事》中首次出版的，因此大多只生动地暗示了性吸引力. 没有损失.  Jirel穿越非自然景观的旅程以及她与超自然对手的战斗仍然令人赞叹不已，尽管现在新来的Red Sonja和Xena更加出名，Jirel还是链条邮件和胫甲的原型，坚韧不拔的红发女剑客，她摇摆着“巨大的两个利剑.”
+ &gt; CL Moore 创建了 Joiry 的统治者 Jirel，以回应 30 年代低俗杂志中强悍的总睾酮血雷故事，但 Jirel 并不反对柯南. 她是一个善良的天主教女孩，固执的目标，不屈不挠的追求敌人或复仇，冷酷无情，有点愚蠢，不能仅仅被外表的吸引力分散注意力. 的确，在吉瑞尔的世界里，美 = 颓废 = 腐败. 如果今天写这些故事，Jirel 不可避免地会有很多火辣的性爱，但由于它们在 1934-1939 年间首次发表在《怪诞故事》中，性吸引力大多只是形象地暗示了. 没有损失.  Jirel 穿越非自然景观的旅程以及她与超自然对手的战斗仍然很精彩，尽管新人 Red Sonja 和 Xena 现在更出名，但 Jirel 作为典型的、不屈不挠的红发女剑客统治着链甲和护胫，挥舞着她的“伟大的两个-刃剑.”
 
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) _by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)_ [3.8] :fire:
 
-这本书花了一些时间才能出版，但如果您能读完（有意地）乏味的前100页左右，乔纳森·斯特兰奇（Jonathan Strange）和诺雷尔（Norrell_）先生将是您的不二之选. 人物引人入胜，画风优美，历史风格的写作为幽默和干练的机智提供了令人惊讶的机会. 我绝对喜欢这个.  -- [@thejessleigh](https://github.com/thejessleigh)
+这本书需要一段时间才能完成，但如果你能读完（有意地）乏味的前 100 页左右，_乔纳森·斯特兰奇和诺雷尔先生_是一个真正的乐趣. 人物引人入胜，画得很好，历史风格的写作为幽默和枯燥的机智提供了惊人的机会. 我非常喜欢这个.  —— [@thejessleigh](https://github.com/thejessleigh)
 
- &gt;十九世纪初，两位截然不同的魔术师出现，改变了英格兰的历史.  1806年，随着拿破仑战争在陆地和海洋上的肆虐，大多数人认为魔术在英格兰早已不复存在-直到隐居的诺雷尔先生展现出他的力量，并在一夜之间成为名人.
+ &gt; 十九世纪初，两位截然不同的魔术师的出现改变了英格兰的历史.  1806 年，随着拿破仑战争在陆地和海上肆虐，大多数人认为魔法在英国早已消亡——直到隐居的诺雷尔先生展示了他的力量，一夜之间成为名人.
 >
- &gt;不久，又出现了另一个执业魔术师：年轻，英俊，大胆的乔纳森·斯特朗奇（Jonathan Strange）. 他成为Norrell的学生，他们联合起来抗击法国. 但是，奇异奇缘越来越被最狂野，最危险的魔法所吸引，这使他与诺雷尔的伙伴关系紧张起来，并使他珍视的其他一切都处于危险之中.
+ &gt; 很快，另一位练习魔术师出现了：年轻、英俊、勇敢的乔纳森·斯特兰奇. 他成为诺雷尔的学生，他们联手对抗法国. 但斯特兰奇越来越被最狂野、最危险的魔法所吸引，这让他与诺雷尔的伙伴关系变得紧张，并将他所珍视的其他一切置于危险之中.
 
 #### [Kushiel's Dart](https://www.goodreads.com/book/show/153008.Kushiel_s_Dart) _by [Jacqueline Carey](https://en.wikipedia.org/wiki/Jacqueline_Carey)_ [4.0]
 
-这是一个了不起的读物. 这是一千多个词，但它和其他任何东西一样很快. 它确实展示了凯里讲故事和建设世界的方式.  -- [@masonbose](https://github.com/masonbose)
+这是一次了不起的阅读. 虽然有一千多字，但过得很快. 它真正展示了凯莉在讲故事和世界建设方面的方式.  —— [@masonbose](https://github.com/masonbose)
 
- &gt;这是美国作家杰奎琳·凯里（Jacqueline Carey）创作的一部幻想小说，这是她的库什厄尔（Kushiel）传统系列的第一本书. 这本书的想法首先出现在凯里（Carey）在阅读《圣经创世纪》（Genesis Book）时，尤其是关于“神的儿子”进入“人间之女”的一段话. 后来，当她写一本咖啡桌书时，她遇到了犹太民俗学，这使故事变得更加详细. 故事中的虚构国家Terre D&#39;Ange是由叛乱天使建立的.
+ &gt; 这是美国作家杰奎琳·凯莉 (Jacqueline Carey) 的奇幻小说，是她 Kushiel 的遗产系列的第一本书. 这本书的想法最初是在凯莉阅读圣经创世记时想到的，特别是关于“上帝之子”进入“人类之女”的一段话. 后来，当她在写咖啡桌书时，她遇到了犹太民间传说，这与故事更详细地相似. 故事中虚构的 Terre D&#39;Ange 国家是由一位反叛天使建立的.
 
 #### [Orsinian Tales](https://www.goodreads.com/book/show/92623.Orsinian_Tales) _by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)_ [3.7]
 
-这些都是精美的，精心制作的短篇小说. 对我而言，我很少在完成阅读后立即阅读其中的一些内容，以确保获得更微妙的细节. 写作绝对精美.  -- [@RichardLitt](https://github.com/RichardLitt)
+这些都是美丽的、精心制作的短篇小说. 我很少会在完成后立即阅读其中的一些，以确保我获得了更微妙的细节. 文笔绝对精彩.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-> Orsinia ... a land of medieval forests, stonewalled cities, and railways reaching into the mountains where the old gods dwell. A country where life is harsh, dreams are gentle, and people feel torn by powerful forces and fight to remain whole. In this enchanting collection, Ursula K. Le Guin brings to mainstream fiction the same compelling mastery of word and deed, of story and character, of violence and love, that has won her the Pushcart Prize, and the Kafka and National Book Awards.
+ &gt; 奥尔西尼亚……一片充满中世纪森林、石墙城市和通向古神居住的山脉的铁路的土地. 一个生活严酷、梦想温柔、人们感到被强大力量撕裂并为保持完整而奋斗的国家. 在这个迷人的系列中，厄休拉·K·勒金（Ursula K. Le Guin）为主流小说带来了同样令人信服的对言行、故事和性格、暴力和爱情的掌握，这让她赢得了手推车奖、卡夫卡奖和国家图书奖.
 
 #### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) _by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)_ [4.14]
 
-斯奈德（Snyder）是《研究》丛书中的第一本书，在建立整个小说中的悬念方面做得很出色，因为一开始叶莲娜（Yelena）会中毒，你会认为她会死，并且贯穿整本书. 在整个故事中，我很欣赏Yelena的魔法trick流，而读者在开始时并没有发现太多.  -- [@louisefindlay23](https://github.com/louisefindlay23)
+作为研究系列的第一本书，斯奈德在整部小说中都很好地营造了悬念，因为一开始叶莲娜中毒了，你认为她会死，而这种情况贯穿整本书. 我很喜欢叶莲娜的魔法如何贯穿整个故事，而读者在开头并没有发现太多.  —— [@louisefindlay23](https://github.com/louisefindlay23)
 
-&gt;选择：快速死亡...还是缓慢的毒药...
+&gt; 选择：快速死亡……或缓慢中毒……
 
- &gt;即将因谋杀而被处决，叶莲娜被判处特别缓刑. 她将吃最好的饭菜，在宫殿里有个房间，并有可能被任何试图杀死Ixia司令的人暗杀.
+ &gt; 即将因谋杀而被处决的叶莲娜获得了非凡的缓刑. 她会吃最好的饭菜，在宫殿里有房间——还有被任何试图杀死 Ixia 指挥官的人暗杀的风险.
 
- &gt;因此，Yelena选择成为一名食品品尝师. 但是安全负责人毫不留情地故意喂食她的蝴蝶的尘埃-只有通过每天服用解毒剂，她才能延缓因毒药而痛苦的死亡.
+ &gt; 所以叶莲娜选择成为一名美食品尝师. 但是保安首长不惜一切代价，故意喂她的蝴蝶尘——只有出现在她的日常解毒剂中，她才能推迟因毒药而痛苦的死亡.
 
- &gt;叶琳娜（Yelena）试图摆脱新的困境时，灾难不断加剧. 叛军密谋夺取Ixia，Yelena发展出了她无法控制的魔法力量. 她的生命再次受到威胁，必须做出选择. 但是这次结果还不是很清楚...
+ &gt; 当叶莲娜试图摆脱她的新困境时，灾难不断增加. 叛军密谋夺取 Ixia，而 Yelena 发展出她无法控制的魔法力量. 她的生命再次受到威胁，必须做出选择. 但这一次的结果并不那么明朗……
 
 #### [Princess and the Curdie](http://www.goodreads.com/book/show/18941223-the-princess-and-curdie-illustrated) _by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)_ [4.0]
 
-这本书在14岁时激发了我灵感，让我在7年后得到了纹身. 我希望我们仍在做这种幻想. 半神学，奇幻和怪异，介于格林童话和乔治·RR·马丁之间.  -- [@RichardLitt](https://github.com/RichardLitt)
+这本书激励我在 14 岁时得到一个纹身，我最终在 7 年后得到了纹身. 这是我希望我们仍在制作的那种幻想； 一半神学，奇妙而怪异，介于格林童话和乔治 RR 马丁之间.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;艾琳公主的曾祖母要为Curdie进行测试. 不过，他不会孤单，因为她为他提供了一个伴侣-Curdie见过的最奇怪，最丑陋的生物，但事实证明他是他所希望的最忠诚的朋友.
+ &gt; 艾琳公主的曾祖母有一项对柯蒂的测试任务. 不过，他不会一个人去，因为她为他提供了一个同伴——这是柯迪见过的最奇怪、最丑陋的生物，但结果却是他本可以期待的最忠诚的朋友.
+
+#### [The Darkest Part of the Forest](https://www.goodreads.com/book/show/20958632-the-darkest-part-of-the-forest) (2015) _by [Holly Black](https://en.wikipedia.org/wiki/Holly_Black)_ [3.85]
+
+我在高中时读过这本书，我喜欢这本书如何将奇幻元素与针对青少年的相关故事情节相结合.  —— [@jilloestreicher](https://github.com/jilloestreicher)
+
+ &gt; Hazel 和她的兄弟 Ben 住在陌生的 Fairfold 小镇，那里人类和妖精并存. 仙女们看似无害的魔法吸引了游客，但 Hazel 知道他们有多危险，她知道如何阻止他们. 或者她曾经做过. 世界天翻地覆，黑兹尔试图回忆起自己伪装成骑士的岁月. 但是，在新的爱情、不断变化的忠诚和背叛的新刺痛中席卷而来，这就足够了吗？
 
 #### [The Gentleman Bastards Series](https://www.goodreads.com/series/43531-gentleman-bastard) (2006) _by [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch)_ [4.25]
 
-该系列具有独创性的叙事，在一个阴谋诡计的世界中进行，夜幕降临，兄弟之间的友情，嗜血的君主，tight紧的犯罪领主和盗贼之间的荣誉. 绅士混蛋会让您猜测，一旦您认为自己了解发生了什么事，他们就会从您的身下偷走地板，而让您在Elderglass塔的侧面晃来晃去. 如果您喜欢无赖，抢劫，魔术或欺骗，那么本系列文章将使您一直猜到最后一页以及之后.  -- [@dgpalmieri](https://github.com/dgpalmieri)
+这个系列有一个巧妙的叙事，设置在一个阴谋的世界，在黑夜的刀锋，兄弟之间的友情，嗜血的君主，吝啬的犯罪领主，盗贼之间的荣誉.  Gentleman Bastards 会让你不断猜测，一旦你认为自己明白发生了什么，他们就会从你身下偷走地板，让你悬在 Elderglass 塔的一侧. 如果你喜欢流氓、抢劫、魔法或欺骗，这个系列会让你猜到最后一页，以及之后.  —— [@dgpalmieri](https://github.com/dgpalmieri)
 
 Books:
 
-- [The Bastards and the Knives](https://www.goodreads.com/book/show/1321351.The_Bastards_and_the_Knives) （书0）
+- [The Bastards and the Knives](https://www.goodreads.com/book/show/1321351.The_Bastards_and_the_Knives) （第 0 册）_即将出版_
 - [The Lies of Locke Lamora](https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora) [4.3]：火：
 - [Red Seas Under Red Skies](https://www.goodreads.com/book/show/40604556-red-seas-under-red-skies) [4.24]
 - [The Republic of Thieves](https://www.goodreads.com/book/show/2890090-the-republic-of-thieves) [4.24]
@@ -534,24 +555,24 @@ Books:
 - [The Mage and the Master Spy](https://www.goodreads.com/book/show/15998999-the-mage-and-the-master-spy) _即将到来_
 - [Inherit the Night](https://www.goodreads.com/book/show/15999003-inherit-the-night) _即将到来_
 
- &gt;在神秘的岛屿城市卡莫尔，孤儿的生活很艰苦，而且往往很短暂. 但是年轻的洛克·拉莫拉（Locke Lamora）躲避死亡和奴隶制，在有才华的骗子的监护下成为小偷. 作为被称为绅士混蛋的光明兄弟乐队的负责人，洛克很快就声名狼藉，甚至愚弄了黑社会最恐惧的统治者. 但是在阴影中潜伏着一个更加野心勃勃和致命的人. 面对一场血腥的政变，威胁要摧毁在雇佣军生活中有意义的每个人和一切，洛克发誓要在自己的野蛮游戏中击败敌人……或死去尝试.
+ &gt; 在神秘的岛屿城市卡莫尔，孤儿的生活是艰苦的——而且往往是短暂的. 但年轻的洛克·拉莫拉躲过了死亡和奴役，在天才骗子的指导下成为了一名小偷. 作为被称为绅士混蛋的轻手兄弟乐队的领导者，洛克很快就臭名昭著，甚至连黑社会最可怕的统治者都愚弄了. 但在阴影中潜伏着一个更有野心和更致命的人. 面对一场血腥政变，威胁要摧毁他雇佣兵生活中的每个人和一切有意义的事物，洛克发誓要在他自己的残酷游戏中击败敌人……或者在尝试中死去.
 
 #### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.2] :star2: :fire:
 
-一个相当不错的儿童故事. 我们所定义的现代幻想.  -- [@RichardLitt](https://github.com/RichardLitt)
+很不错的儿童故事. 正如我们所知，定义了现代幻想.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;在地面上的一个洞里住着一个霍比特人. 这不是一个肮脏，肮脏，潮湿的洞，里面充满蠕虫的末端和难闻的气味，也没有一个干燥，裸露，沙质的洞，里面没有东西可以坐下或进食：那是一个霍比特洞，意味着舒适.
-&gt;《霍比特人》是专为JRR Tolkien自己的孩子而写的，于1937年首次发行时立即受到了广泛的好评.如今，《霍比特人》已成为永恒的经典，这是霍比特人Bilbo Baggins，巫师Gandalf，Gollum和壮丽的中东世界的引言地球讲述了一个不情愿的英雄，一个强大而危险的戒指以及残酷的巨龙史矛革的冒险经历.
+ &gt; 在地上的一个洞里住着一个霍比特人. 不是一个肮脏、肮脏、潮湿、充满蠕虫末端和渗出气味的洞，也不是一个干燥、光秃秃的沙洞，里面没有什么可以坐下或吃东西的洞：它是一个霍比特人洞，那意味着舒适.
+&gt; 为 JRR Tolkien 自己的孩子写的，《霍比特人》于 1937 年首次出版时立即获得了评论界的好评.现在被公认为永恒的经典，介绍霍比特人比尔博·巴金斯、巫师甘道夫、咕噜和壮观的中世纪世界-earth 讲述了一个不情愿的英雄、一个强大而危险的戒指和残酷的巨龙 Smaug the Magnificent 的冒险经历.
 
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) _by [Lord Dunsanay](https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany)_ [3.8]
 
-如果您想进行一次酸痛之旅，并且想了解现代幻想的根源，请阅读本文章.  -- [@RichardLitt](https://github.com/RichardLitt)
+如果您想进行一次酸性旅行，并且想了解现代幻想的根源，请阅读此内容.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;埃尔夫兰国王之女的诗情画意和宏伟宏伟，使其成为我们这个时代最受欢迎的幻想小说之一，这一杰作影响了一些当代最伟大的幻想家. 凡人与小精灵之间的婚姻，令人心碎的故事是童话故事的绝妙挂毯，紧随“从此以后很幸福”.
+ &gt; 《精灵国之王的女儿》的诗意风格和宏伟壮丽使其成为我们这个时代最受欢迎的奇幻小说之一，一部影响了当代一些最伟大幻想家的杰作. 一个凡人与精灵公主的婚姻令人心碎的故事，是继“从此幸福”之后的童话故事的精湛挂毯.
 
 #### [The Nevernight Chronicle](https://www.goodreads.com/series/164599-the-nevernight-chronicle) _by [Jay Kristoff](https://en.wikipedia.org/wiki/Jay_Kristoff)_
 
-这是一个绝对惊人的系列. 如果您要寻找史诗般的血腥行动，俏皮的浪漫情怀和惊险刺激的画面，那就别无所求了.  -- [@Charpal](https://github.com/Charpal)
+这是一个绝对惊人的系列. 如果您正在寻找史诗般的血腥动作、俏皮的浪漫和惊心动魄的揭露，那就别无所求.  —— [@Charpal](https://github.com/Charpal)
 
 Books:
 
@@ -559,29 +580,29 @@ Books:
 2. [Godsgrave](https://www.goodreads.com/book/show/23264671-godsgrave) [4.5]
 3. [Darkdawn](https://www.goodreads.com/book/show/23264672-darkdawn) [4.3]
 
- &gt;《夜夜编年史》是屡获殊荣的作家杰伊·克里斯托夫（Jay Kristoff）撰写的《纽约时报》最畅销幻想小说系列，紧随有缺陷的女主人公米娅·科维雷（Mia Corvere）进行刺客训练，这是她个人复仇任务的一部分. 她的故事发生在Godsgrave的身临其境的世界中，充满了快节奏的动作，魔术，背叛，复仇等等.
+ &gt; 无夜编年史是纽约时报畅销奇幻系列，由获奖作家杰伊·克里斯托夫 (Jay Kristoff) 创作，讲述了有缺陷的女主人公米娅·科维尔 (Mia Corvere) 作为她个人复仇任务的一部分接受刺客训练的故事. 她的故事发生在神之墓的沉浸式世界中，充满了快节奏的动作、魔法、背叛、复仇等等.
 
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
 
-这是一本令人愉快的书. 简短而甜美，展现了盖曼魔幻般的奔跑能力，以及他对英国乡村和神话的热爱.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是一本令人愉快的书. 简短而甜蜜，它既展示了盖曼的魔法奔跑能力，又展示了他对英国乡村和神话的热爱.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;英格兰苏塞克斯. 一名中年男子返回童年时代的家参加葬礼. 尽管他所住的房子早已荡然无存，但他却被吸引到了路尽头的农场.七岁那年，他遇到了一个最了不起的女孩莱蒂·汉普斯托克（Lettie Hempstock）以及她的母亲和祖母. 几十年来，他从未想过Lettie，但当他坐在摇摇欲坠的旧农舍后面的池塘（她声称是海洋的池塘）旁时，不为人知的过去又泛滥成灾. 这是一个太过奇怪，太可怕，太危险而无法发生在任何人身上的过去，更不用说一个小男孩了.
+ &gt; 英国苏塞克斯. 一个中年男子回到他童年的家参加葬礼. 虽然他住的房子早已不复存在，但他还是被路尽头的农场所吸引，在他七岁的时候，他遇到了一个最了不起的女孩莱蒂·汉普斯托克 (Lettie Hempstock) 以及她的母亲和祖母. 他已经有几十年没有想起莱蒂了，然而当他坐在摇摇欲坠的老农舍后面的池塘边（她声称这个池塘是一片海洋）时，不记得的过去又如潮水般涌来. 这是一段太奇怪、太可怕、太危险的过去，不可能发生在任何人身上，更不用说一个小男孩了.
 >
- &gt;四十年前，一名男子在路尽头的这个农场里被偷的汽车中自杀. 就像烟花上的保险丝一样，他的死亡点燃了触摸纸，并以难以想象的方式引起了共鸣. 黑暗被释放了，一个小男孩感到有些恐惧和完全无法理解. 乐蒂（Letty）-神奇，令人安慰，明智的超越她的岁月-承诺无论如何都会保护他.
+ &gt; 四十年前，一名男子在路尽头的这个农场里在一辆被盗的汽车上自杀. 就像烟花上的导火索，他的死点燃了一张触摸纸，并以难以想象的方式产生共鸣. 黑暗被释放了，对于一个小男孩来说，这是一种可怕且完全无法理解的东西. 而莱蒂——魔法般的、令人安慰的、超越她年龄的智慧——承诺无论如何都会保护他.
 >
- &gt;讲述了一位大师开创性的作品，《巷尾尽头的海洋》对使我们成为人类的一切都具有罕见的理解，并展示了故事的力量，使我们从内到外的黑暗中​​得以揭示和庇护. 它像蝴蝶的翅膀一样细腻，在黑暗中像刀子一样险恶，令人着迷，恐惧和隐喻.
+ &gt; 大师的开创性作品《小巷尽头的海洋》讲述了对人类所有事物的罕见理解，并展示了故事的力量，揭示并保护我们免受内外黑暗的影响. 这是一个惊心动魄、令人恐惧和挽歌的寓言，它细腻如蝴蝶的翅膀，又如黑暗中的利刃.
 
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.0]
 
- Wooton Major的Smith是托尔金（Tolkien）的我最喜欢的故事. 与这个小巧精致的故事相比，《指环王》和整个中土都会腐烂，这个故事讲述了一个去Faery的铁匠和一个烤蛋糕的厨师.  -- [@RichardLitt](https://github.com/RichardLitt)
+伍顿少校的史密斯是我最喜欢的托尔金的故事. 与这个关于铁匠去仙境和厨师烤蛋糕的精心制作的小故事相比，指环王和整个中土世界可能会腐烂.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;在《 Wooton Major》的《史密斯》中，托尔金探索了幻想的天赋，以及它对接受它的人的生活和性格的意义.
+&gt; 在伍顿少校的史密斯中，托尔金探索了幻想的礼物，以及它对接受它的人的生活和性格意味着什么.
 
 #### [The Witcher](https://en.wikipedia.org/wiki/The_Witcher) _by [Andrzej Sapkowski](https://en.wikipedia.org/wiki/Andrzej_Sapkowski)_
 
-很棒的书，尤其是如果您喜欢中欧的民间传说，或者您曾经玩过Witcher 3电子游戏，或者想在看Netflix节目之前先阅读它.  -- [@hercegtomas](https://github.com/hercegtomas)
+Great books especially if you like folklore of Central Europe or you played Witcher 3 video game or want to read it before watching the Netflix show. - [@hercegtomas](https://github.com/hercegtomas)
 
- &gt; Rivia的Geralt是个巫师. 狡猾的巫师. 无情的刺客. 和冷血杀手. 他的唯一目的是：消灭困扰世界的怪物. 但是，并非所有看起来庞然大物的东西都是邪恶的，也不是所有公平的东西都是美好的……而且在每个童话故事中，都有真相.
+ &gt; 利维亚的杰洛特是一名猎魔人. 狡猾的巫师. 无情的刺客. 还是个冷血杀手. 他的唯一目的：消灭困扰世界的怪物. 但并不是所有看起来很可怕的东西都是邪恶的，也不是所有公平的东西都是好的……而且在每个童话故事中都有一定的道理.
 
 Books:
 
@@ -596,354 +617,354 @@ Books:
 
 #### [The Wizard Knight](http://www.goodreads.com/book/show/101949.The_Wizard_Knight) _by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)_ [3.8]
 
-我每年至少读一次这本书. 这个故事讲得很好，很容易上手，有很多宝石，是一个很好的旅行.  -- [@RichardLitt](https://github.com/RichardLitt)
+我每年至少读一次这本书. 故事讲得很好，平易近人，有很多宝石，是一次不错的旅行.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;一个十几岁的年轻人被带离了我们的世界，进入了一个包含七个现实层面的神奇境界. 很快，魔术就使他变成了一个勇敢的成年男子，他取了Able的名字，出发去寻找已经答应给他的剑，这是他从龙身上得到的剑，这是一个非常特殊的刀片，将帮助他实现成为一名骑士和一名真正英雄的野心. 然而，在室内，Able仍然是一个男孩，他必须在各种意义上成长，以度过与巨人，精灵，巫师和巨龙相遇时面临的危险和喜悦. 他的冒险活动将在《巫师骑士》的第二卷《巫师》中结束. 在这个新系列中，沃尔夫不仅超越了过去三十年中所有最受欢迎的类型作家，而且继承了上个世纪的传奇故事，其作品将与JRR Tolkien，ER Eddison和Mervyn的最好作品相提并论. Peake和TH White. 这是一本古老的小说，也是一连串的小说，源于幻想类型（或外部）中最伟大的在世作家.
+ &gt; 一个十几岁的年轻人从我们的世界被传送到一个包含七个现实层次的神奇领域. 很快就被魔法变成了一个英雄般的成年男子，他取了名字亚伯，开始寻找承诺给他的剑，一把他会从龙那里得到的剑，那把非常特别的剑将帮助他实现成为骑士和真正英雄的人生抱负. 然而，在内心深处，亚伯仍然是一个男孩，他必须在各种意义上成长，才能在与巨人、精灵、巫师和龙的相遇中度过未来的危险和乐趣. 他的冒险将在《巫师骑士》第二卷《巫师》中结束. 凭借这个新系列，沃尔夫不仅超越了过去三年中所有最受欢迎的流派作家，他还演绎了上个世纪的传奇，这部作品将与 JRR Tolkien、ER Eddison、Mervyn 中的佼佼者相媲美皮克和 TH 怀特. 这是一本书——也是一个系列——适合千百年来，出自奇幻类型（或外部）最伟大的在世作家之手.
 
 #### [Vicious](https://www.goodreads.com/book/show/40874032-vicious) _by [V.E. Schwab](https://en.wikipedia.org/wiki/V._E._Schwab)_ [4.25]
 
-一个神奇的系列的一个奇妙的开端.  Schwab确实知道如何“设置场景”，并创造一个让您着迷并且永不松懈的环境.  -- [@masonbose](https://github.com/masonbose)
+一个惊人的系列的梦幻般的开始.  Schwab 真的知道如何“设置场景”，并创造一个让你着迷且不放手的环境.  —— [@masonbose](https://github.com/masonbose)
 
- &gt;维克多（Victor）和伊莱（Eli）最初是大学的室友，他们是聪明，自大，孤独的男孩，彼此认识到同样的敏锐和野心. 在他们的高年级，对肾上腺素，濒死经历和看似超自然事件的共同研究兴趣揭示了一种令人着迷的可能性：在适当的条件下，某人可以发展出非凡的能力. 但是，当他们的论文从学术转到实验时，事情就大错特错了.
+ &gt; Victor 和 Eli 开始是大学室友——聪明、傲慢、孤独的男孩，他们认识到彼此同样的敏锐和野心. 大四时，他们对肾上腺素、濒死体验和看似超自然事件的共同研究兴趣揭示了一种有趣的可能性：在合适的条件下，某人可以发展出非凡的能力. 但是当他们的论文从学术转向实验时，事情就大错特错了.
 
 ### Allegory
 
 #### [Kafka On the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore) _by [Haruki Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami)_ [4.1]
 
-这本书是个隐喻. 它令人生畏，神奇且有些怪异. 如果您想逃脱并真正沉浸于一个故事中，请停止您正在做的任何事情，并找到一种方法来获取这本书的副本. 这是一个年轻人的故事，他发现自己遇到了很多人，并经历了不同的感受. 当我们沉浸在这本书中时，现实似乎几乎是不育的. 这是幻想爱好者必读的书.  -- [@NehaChaudhary311](https://github.com/NehaChaudhary311)
+这本书是一个比喻. 它是凄美的，神奇的，有点奇怪. 如果你想一扫而空，真正深入了解一个故事，停止你正在做的任何事情，找到一种方法来拿到这本书的副本. 这是一个年轻人的故事，他在那里遇到了很多人，体验了完全不同的感受. 当我们沉浸在这本书中时，现实几乎显得毫无意义. 是奇幻爱好者必读的书.  —— [@NehaChaudhary311](https://github.com/NehaChaudhary311)
 
- &gt;岸上的卡夫卡（Kafka on the Shore）是形而上的现实的力量，由两个杰出的人物提供动力：一个十几岁的男孩，卡夫卡·田村（Kafka Tamura），他出门逃跑是为了逃避可怕的俄狄浦斯的预言，或者是寻找失踪已久的母亲.姐姐; 还有一个名叫中田（Nakata）的衰老朴素之人，他从未从战时苦难中恢复过来，现在被吸引到卡夫卡（Kafka）的原因是，他像日常生活中最基本的活动一样，无法发觉. 他们的冒险之旅，对他们来说对我们来说都是神秘的，而生动的帮凶和令人着迷的事件则充实了他们的整个旅程. 猫和人进行对话，像鬼一样的皮条客雇用了黑格尔的妓女，森林里藏着自第二次世界大战以来未曾衰老的士兵，暴雨的鱼（甚至更糟）从天而降. 这是一场残酷的谋杀，受害者和作案者的身份都是一个谜语.然而，这一切以及其他一切最终都得到了解决，就像卡夫卡和中田的纠结命运逐渐暴露出来一样，一个人完全逃脱了命运，其他人重新开始.
+ &gt; 《海边的卡夫卡》是形而上学现实的杰作，由两个非凡的人物提供支持：一个十几岁的男孩田村卡夫卡，他离家出走，要么是为了逃避可怕的俄狄浦斯预言，要么是为了寻找他失踪已久的母亲和姐姐; 还有一个名叫中田的年迈笨蛋，他从未从战时的痛苦中恢复过来，现在被卡夫卡吸引，原因就像日常生活中最基本的活动一样，他无法理解. 他们的奥德赛对他们和我们一样神秘，在整个过程中被生动的同伙和令人着迷的事件丰富了. 猫和人继续交谈，一个幽灵般的皮条客雇佣一个引用黑格尔的妓女，一个森林庇护着二战后显然没有年龄的士兵，鱼的暴雨（甚至更糟）从天而降. 一场残酷的谋杀，受害者和肇事者的身份都是一个谜——然而，这一切，连同其他一切，最终都得到了解答，正如卡夫卡和中田的纠缠命运逐渐揭开，一个人完全逃脱了他的命运，而其他人自己重新开始.
 
 #### [Lilith](http://www.goodreads.com/book/show/268187.Lilith) _by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)_ [3.9]
 
-这是一本很奇怪的书，就像_Phantastes_一样. 乔治·麦克唐纳（George MacDonald）有天赋，他写了本质上无情的书籍，穿越了梦幻般的境界. 但是他们永远不会变得毫无兴趣. 它们也是许多后来的作家（尤其是CS Lewis）的灵感来源，很容易理解为什么. 值得一读.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是一本奇怪的书，就像_Phantastes_一样. 乔治·麦克唐纳 (George MacDonald) 有一种天赋，可以写出穿越奇幻领域的基本无情节的书籍. 但它们绝不会变得无趣. 他们也是许多后来作家的灵感来源，最著名的是 CS Lewis，原因很容易理解. 值得一读.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;他照着镜子照着老人之后，他的生活再也没有恢复正常. 那是一面特殊的镜子，他追随的那个人是一个特殊的人-一个使他领悟到一切创造命运的事物的人. 莉莉丝被认为是麦克唐纳最黑暗的作品之一，也是最深刻的作品. 这是一个关于生命，死亡和救赎本质的故事. 在故事中，麦克唐纳（MacDonald）提到了宇宙睡眠，可以在所有人得救之前治愈被折磨的灵魂.
+ &gt; 在他从镜子里跟着老人之后，他的生活再也没有什么是对的了. 那是一面特殊的镜子，他追随的人是一个特殊的人——一个带领他走向所有造物命运背后的事物的人. 莉莉丝被认为是麦克唐纳最黑暗的作品之一，也是最深刻的作品之一. 这是一个关于生命、死亡和救赎本质的故事. 在故事中，麦克唐纳提到了在拯救所有人之前治愈受折磨的灵魂的宇宙睡眠.
 
 #### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) _by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)_ [4.0]
 
-请参阅上面的_Lilith_的评论.  -- [@RichardLitt](https://github.com/RichardLitt)
+See the review for _Lilith_, above. - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;“我死了，内容满意，”叙述者在《 Phantastes》倒数第二章说. 刘易斯（CS Lewis）说，在阅读了这个令人惊讶的19世纪童话之后，他“已经跨越了一个伟大的疆界”，在此之前和之后的许多人都曾有过类似的感受. 在麦克唐纳的童话中，既有儿童的，也有成人的（像这样的）童话，“仙境”清楚地代表了精神世界，或者是我们所揭示的一切深度和意义的世界. 有时几乎完全是寓言寓言，有时则是梦幻般的梦境（并且确实与象征性的梦境有着紧密的联系），这个故事讲述了一个年轻人在漫长的幻想之地中找到自己的长途旅行的故事，作为他一生工作核心的精神追求，这一追求必须以对自我的最终屈服来结束. 麦克唐纳（MacDonald）工作的荣耀在于，这种投降既是来之不易的（或失败的），但在最后经历时却欣喜若狂. 正如叙述者在这个故事中谈到一位天上的女人时说的那样，“她知道一些好事无法告诉.” 人们对作者本人也有同样的感觉.
+ &gt; “我死了，我的心满意足了，”叙述者在《幻影》的倒数第二章中说道.  CS Lewis 说，在读完这部 19 世纪令人震惊的童话故事后，他“跨越了一个伟大的疆界”，之前和之后的许多其他人也有类似的感觉. 在麦克唐纳的童话故事中，无论是儿童的还是（像这个）成人的童话，“仙境”清楚地代表了精神世界，或者我们自己的世界，以其深度和意义而显露出来. 有时几乎是直率的寓言，有时又充满梦幻（并且确实与梦的象征世界有着密切的联系），这个年轻人的故事发现自己在幻想的土地上长途跋涉，更真实地讲述了精神追求是他一生工作的核心，这种追求必须以自我的最终投降而告终. 麦克唐纳作品的荣耀在于，这种投降既来之不易（或失败），又在最后体验时洋溢着喜悦. 正如叙述者对这个故事中一位天上的女人所说的那样，“她知道的东西太好了，不能说出来.” 人们对作者本人也有同样的感觉.
 
 #### [Pilgrim's Progress](http://www.goodreads.com/book/show/29797.The_Pilgrim_s_Progress) _by [John Bunyan](https://en.wikipedia.org/wiki/John_Bunyan)_ [4.0]
 
-您知道，即使您不是基督徒，这仍然是一本不错的书. 主角克里斯蒂安·克里斯蒂安（Christian）上天途中遇到的种种障碍都困扰着他，听到他如何摆脱刮擦很有趣.  -- [@RichardLitt](https://github.com/RichardLitt)
+你知道，即使你不是基督徒，这仍然是一本很好的读物. 主角克里斯蒂安在通往天堂的路上被每一个可能的障碍所困扰，听到他如何摆脱困境很有趣.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-> This work is written in the King James/ Shakespearean/ Old English language. It is the story of a man becoming saved and his dangerous and challenging journey to the Celestial City.
+ &gt; 这部作品是用国​​王詹姆斯/莎士比亚/古英语写成的. 这是一个男人得救的故事，以及他前往天城的危险而充满挑战的旅程.
 
 #### [The Chronicles of Narnia](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia) _by [C.S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_
 
-这些书是很棒的，速读的书，尽管基督教的寓意会随着时间而变老. 当我与他们一起长大时，我不太确定如何建议他们-但我无法想象没有这样做. 关于图姆努斯先生提着包裹穿过狮子，女巫和衣橱中白雪皑皑的森林的文章，是我最早的回忆之一.  -- [@RichardLitt](https://github.com/RichardLitt)
+这些书很棒，读起来很快，尽管基督教的色彩会随着时间的流逝而变老. 我不太确定如何建议他们，因为我和他们一起长大 - 但我无法想象没有这样做. 在《狮子、女巫和魔衣橱》中读到图姆纳斯先生带着包裹穿过白雪皑皑的森林是我最早的记忆之一.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
-- [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) ：star2：：fire：
-- [The Lion, The Witch, and The Wardrobe](http://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe) ：star2：：fire：
-- [The Horse and His Boy](http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy) ：star2：：fire：
-- [Prince Caspian](http://www.goodreads.com/book/show/121749.Prince_Caspian) ：star2：：fire：
-- [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) ：star2：：fire：
-- [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) ：star2：：fire：
-- [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) ：star2：：fire：
+- [The Magician’s Nephew](http://www.goodreads.com/book/show/509797.The_Magician_s_Nephew) :star2: :火:
+- [The Lion, The Witch, and The Wardrobe](http://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe) :star2: :火:
+- [The Horse and His Boy](http://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy) :star2: :火:
+- [Prince Caspian](http://www.goodreads.com/book/show/121749.Prince_Caspian) :star2: :火:
+- [The Voyage of the Dawn Treader](http://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader) :star2: :火:
+- [The Silver Chair](http://www.goodreads.com/book/show/65641.The_Silver_Chair) :star2: :火:
+- [The Last Battle](http://www.goodreads.com/book/show/84369.The_Last_Battle) :star2: :火:
 
 ### Satire
 
 #### [Discworld](https://en.wikipedia.org/wiki/Discworld) _by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)_
 
- Discworld是一个庞大而庞大的世界，已故的Terry Pratchett在数十本书中都对其进行了概述. 除了列出所有内容以外，此列表的贡献者还阅读了其中的一些内容，并附有评论.
+ Discworld 是一个庞大而庞大的世界，在已故的特里·普拉切特 (Terry Pratchett) 的数十本书中进行了概述. 这里没有列出所有内容，而是列出了此列表的贡献者已阅读的一些内容，并对每个内容进行了评论.
 
- &gt; Discworld是一颗扁平的行星，站在四只巨型大象的肩上，它们生活在巨大的乌龟甲壳巨人阿图因（A&#39;Tuin）的壳中，其性别不明，目前正在接受广泛调查. 在Ankh-Morpok市，那里的盗贼和刺客行会以合理的价格提供服务，还有一所看不见的大学，巫师在那里学习如何使用魔术和做巫术，例如醉酒，互相谋杀和留胡须. .  Rincewind是一个不能施展任何咒语的巫师； 他将被迫成为Twoflowers的旅游指南，Twoflowers是一个来自遥远世界的天真无邪的游客，然后是一个凶残的带腿行李.
+ &gt; Discworld 是一个平坦的星球，站在四头巨象的肩膀上，它们生活在一只巨大的乌龟——伟大的阿图因（A&#39;Tuin）的壳上，它的性别未知，目前正在接受大量调查. 在 Ankh-Morpok 市，盗贼和刺客公会以合理的价格提供服务，还有 Unseen 大学，巫师在那里学习如何使用魔法和做巫师的事情，比如喝醉、互相谋杀和留胡子.  Rincewind 是一个无法施展任何法术的巫师； 他将被迫成为Twoflowers的导游，一个来自遥远国度的天真无邪的游客，随后是一个凶残的长腿行李......
 
 Books:
 
 - [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
-  这是Discworld系列的第一本书. 这些书可以按顺序阅读，也可以独立阅读. 很多叙事线索经常交织在一起，从而创造出有趣而愉快的阅读体验.
+  这是 Discworld 系列的第一本书. 这些书可以按顺序阅读，也可以独立阅读. 有几个叙事线索经常交叉，创造一种有趣和愉快的阅读体验.
 
-  我喜欢这本书. 风格新颖有趣，人物性格得到深深发展. 光是死亡是读这本书的一个很好的理由.  -- [@fourlastor](https://github.com/fourlastor)
+  我喜欢这本书. 画风原创搞笑，人物性格得到了深入发展. 死亡是阅读这本书的一个很好的理由.  —— [@fourlastor](https://github.com/fourlastor)
 
 - [Mort](https://www.goodreads.com/book/show/386372.Mort) [4.2]
-  这是我对Discworld的介绍，我喜欢它. 死亡很有趣.  -- [@RichardLitt](https://github.com/RichardLitt)
+  这是我对 Discworld 的介绍，我喜欢它. 死亡是有趣的.  —— [@RichardLitt](https://github.com/RichardLitt)
 - [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) [4.2]
-  特里·普拉切特（Terry Pratchett）始终如一地提出好的故事，这超出了我的范围. 这也很好，特别是对于TP如何设想银行和自动机.  -- [@RichardLitt](https://github.com/RichardLitt)
+  特里·普拉切特 (Terry Pratchett) 如何始终如一地想出好故事，这超出了我的想象. 这个也很好，特别是对于 TP 如何设想银行和自动机.  —— [@RichardLitt](https://github.com/RichardLitt)
 
 #### [Farmer Giles of Ham](http://www.goodreads.com/book/show/66797.Smith_of_Wootton_Major_Farmer_Giles_of_Ham) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [3.9]
 
-农夫吉尔斯（Garmers）是我最喜欢的封装故事之一，其故事背景类似于旧英格兰. 这基本上是托尔金（Tolkien）向邓萨奈勋爵（Lord Dunsanay）或麦克唐纳勋爵（MacDonald）等经典童话作家的致意，但有些幽默.  “把你的王冠给我们！” 是我最喜欢的报价之一，我将完全命名我的狗Garm.  -- [@RichardLitt](https://github.com/RichardLitt)
+ Farmer Giles 是我最喜欢的浓缩故事之一，背景类似于旧英格兰. 这基本上是托尔金对邓萨奈勋爵或麦克唐纳等经典童话作家的致敬，但带有一些幽默感.  “把你的王冠给我们！” 是我最喜欢的名言之一，我完全要给我的狗取名 Garm.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;畅销的重新发现的托尔金小说《 Roverandom》的编辑们展示了托尔金心爱的经典《农夫火腿》的五十周年纪念版，并附有地图，原始故事大纲，Pauline Baynes的原始第一版插图以及作者的作品未出版续集的注释. 汉姆农夫吉尔斯（Giles of Ham）对所有年龄段的读者都是轻松愉快的讽刺，讲述了一个不情愿的英雄必须将自己的村庄从巨龙中救出的故事. 这是一个故事的小瑰宝，每次重读都会变得更加令人愉悦.
+ &gt; 畅销托尔金重新发现的畅销小说 Roverandom 的编辑推出了托尔金深受喜爱的经典之作《火腿农夫贾尔斯》的 50 周年扩展版，包括地图、原始故事大纲、Pauline Baynes 的原版第一版插图以及作者的未出版续集的笔记.  《火腿农夫吉尔斯》是一部适合所有年龄段读者的轻松讽刺作品，讲述了一个不情愿的英雄必须从巨龙手中拯救村庄的故事. 这是一个故事的小宝石，每次重读都会变得更加令人愉快.
 
 #### [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) _by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett) and [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.3]
 
-这是一本有趣的书，并且是一次很好的合作. 有时候，尼尔·盖曼（Neil Gaiman）在哪里写书是很清楚的，我不确定这本书在某些方面对他的收录情况是否更好. 我认为他还没有完善自己的技巧. 但是整个故事是好的.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是一本有趣的书，也是很好的合作. 有时，尼尔·盖曼 (Neil Gaiman) 在写的地方有点清楚，而且我不确定这本书在某些方面是否更好； 我想他还没有完善他的手艺. 但是整个故事还是不错的.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;根据《女巫艾格尼丝·纳特的尼斯和准确的预言》（世界上唯一完全准确的预言书，于1655年爆炸前写成），世界将在星期六结束. 实际上，下周六. 就在晚餐之前.
+ &gt; 根据艾格尼丝·纳特 (Agnes Nutter, Witch) 的美好而准确的预言（世界上唯一一本完全准确的预言书，写于 1655 年，在她爆炸之前），世界将在星期六结束. 事实上，下周六. 就在晚餐前.
 >
- &gt;因此，善与恶的军队正在聚集，亚特兰蒂斯正在崛起，青蛙在下降，脾气在燃烧. 一切似乎都按照神的计划进行. 除了有点笨拙的天使和快活的恶魔（他们自从开始以来就一直生活在地球上的凡人之中，并且对生活方式变得越来越喜欢），他们实际上并没有期待即将到来的狂喜.
+ &gt; 所以善恶大军正在集结，亚特兰蒂斯正在崛起，青蛙在下降，脾气暴躁. 一切似乎都在按照神圣计划进行. 除了一个有点挑剔的天使和一个快速生活的恶魔——他们从一开始就生活在地球的凡人中并且越来越喜欢这种生活方式——实际上并不期待即将到来的狂喜.
 >
- &gt;似乎有人放错了敌基督者.  .  .
+ &gt; 似乎有人把敌基督放错了地方.  .  .
 
 #### [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride) _by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)_ [4.2] :fire:
 
-这是一本书，没有取代经典电影的译本，而是增加了它的含义. 它本身是一个有趣的小读物.  -- [@RichardLitt](https://github.com/RichardLitt)
+这本书并没有带走它的经典电影演绎，而是增加了它. 它是一本有趣的小书.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;当世界上最美丽的女孩嫁给有史以来最英俊的王子，而他却变得……好……比她梦man以求的男人要少得多时，会发生什么？ 威廉·高德曼（William Goldman）声称，小时候，他喜欢听父亲读S. Morgenstern的经典作品《公主新娘》. 但是长大后，他发现无聊的部分被遗忘在老爸的朗诵中，只有“好部分”传到了他的耳朵. 现在，高盛比父亲做得更好. 他重新构造了“ Good Parts版本”，以取悦聪明的孩子和到处都是大眼睛的成年人. 那是关于什么的？ 击剑. 斗争. 真爱. 强烈的仇恨. 严厉的复仇. 几个巨人. 很多坏人. 好男人很多. 五六个美丽的女人. 野兽怪兽和温柔的. 一些逃脱和捕获. 死亡，谎言，真理，奇迹和一点点性. 简而言之，就是一切.
+ &gt; 当世界上最美丽的女孩嫁给了有史以来最英俊的王子时，结果是他……嗯……比她梦想中的男人差很多，会发生什么？ 威廉·戈德曼声称，作为一个男孩，他喜欢听父亲阅读 S. Morgenstern 的经典作品《公主新娘》. 可长大了的他却发现，老爸的朗诵中，那些无聊的部分都被遗漏了，只有“好的部分”传到了他的耳朵里. 现在高盛做得更好. 他重建了“好零件版本”，以取悦各地聪明的孩子和睁大眼睛的成年人. 那是关于什么的？ 击剑. 斗争. 真正的爱情. 强烈的仇恨. 严酷的报复. 几个巨人. 很多坏人. 很多好男人. 五六个美女. 野兽凶猛而温柔. 一些膨胀逃逸和捕获. 死亡、谎言、真相、奇迹和一点性. 简而言之，它关乎一切.
 
 ### Horror
 
 #### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) _by [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)_ [4.3]
 
-没有HP Lovecraft，今天的恐怖就不会如此. 他催生了怪异的外星人和心理威胁的整个子流派. 本书中的一些故事太好了，以至于我想到这些故事时仍然不寒而栗. 工作中的大师.  -- [@RichardLitt](https://github.com/RichardLitt)
+没有 HP Lovecraft 就没有今天的恐怖. 他催生了一整个子类型的怪异外星人和心理威胁； 这本书中的一些故事非常好，以至于我想起它们时仍然不寒而栗. 工作中的大师.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;美国恐怖故事大师HP Lovecraft提供的无与伦比的小说选集
+&gt; 无与伦比的美国恐怖故事大师 HP Lovecraft 的小说选集
 >
- &gt;在他死后不久，HP Lovecraft便以其令人抓狂的疯狂和宇宙恐怖的故事深深吸引着读者，并且他对现代恐怖小说的影响仍在继续-斯蒂芬·金，安妮·赖斯和克莱夫·巴克都承认了他的影响力. 他对美国文学的独特贡献是将坡的传统超自然主义与新兴的科幻小说相融合.  Lovecraft的作品最初出现在1920年代和1930年代的《 Weard Tales》等纸浆杂志中，如今被认为是20世纪最重要的超自然小说.
+ &gt; 在他死后很久，惠普洛夫克拉夫特继续以其扣人心弦的疯狂和宇宙恐怖故事吸引读者，他对现代恐怖小说的影响继续被感受到——斯蒂芬金、安妮赖斯和克莱夫巴克都承认了他的影响. 他对美国文学的独特贡献是将坡的传统超自然主义与新兴的科幻小说类型融合在一起. 洛夫克拉夫特的作品最初出现在 1920 年代和 1930 年代的《怪诞故事》等低俗杂志上，现在被视为 20 世纪最重要的超自然小说.
 >
- &gt;洛夫克拉夫特的传记作家和杰出的口译家ST乔希（ST Joshi）已准备了这18个故事集，从早期的经典作品（如《局外人》和《壁虎》到他成熟的杰作《克苏鲁的呼唤》和《阴影》在因斯茅斯.” 第一个平装本包括权威的经修正的文字，《克苏鲁的呼唤》和《其他怪异故事》揭示了洛夫克拉夫特令人着迷的叙事风格的发展，并使他成为规范的，有远见的美国作家.
+ &gt; 洛夫克拉夫特的传记作者、杰出翻译家 ST Joshi 准备了这卷十八个故事——从早期经典的《局外人》和《墙中的老鼠》到他成熟的杰作《克苏鲁的呼唤》和《暗影》在印斯茅斯上空.” 第一个包含最终修正文本的平装本，克苏鲁的呼唤和其他奇怪的故事揭示了洛夫克拉夫特令人着迷的叙事风格的发展，并确立了他作为一个典型的——有远见的——美国作家的地位.
 >
- &gt;“我认为，毫无疑问，HP Lovecraft还没有超越它成为20世纪经典恐怖故事的最伟大实践者.”  - 斯蒂芬·金
+ &gt; “我认为毫无疑问，惠普洛夫克拉夫特作为二十世纪最伟大的经典恐怖故事实践者还有待超越.”  - 斯蒂芬·金
 
 #### [Under The Dome](https://www.goodreads.com/book/show/7137788-under-the-dome) _by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)_ [3.9] :fire:
 
-斯蒂芬·金（Stephen King）像他一样多产，非常聪明，他曾在全球50多个畅销书上作笔，并因其写作获得了多个奖项. 在The Dome下是一个真正的翻页工具，它将使您不必担心角色的奇妙而令人恐惧的角色. 以小说为基础的演出也就不足为奇了.  -- [@JamesDrysdale](https://github.com/JamesDrysdale)
+Stephen King is as brilliant as he is prolific, having penned over fifty worldwide bestsellers and won multiple awards for his writing. Under The Dome is a real page turner that will keep you worrying about the wonderful and frightening cast of characters. It's no surprise a show was made based on the novel. - [@JamesDrysdale](https://github.com/JamesDrysdale)
 
- &gt;缅因州切斯特磨坊小镇被一个看不见的力场莫名其妙地突然与世界其他地区隔离. 当资源短缺时，任何人都无法进出，社会的正常规则突然改变. 一种新的，更加险恶的社会秩序正在发展. 少数公民联手对抗席卷整个城镇的腐败现象，并尽早发现圆顶的来源.
+ &gt; 缅因州切斯特磨坊小镇突然被无形的力场莫名其妙地与世界其他地方隔离开来. 当资源短缺时，没有人可以进出，社会的正常规则突然改变. 一种新的、更加险恶的社会秩序正在形成. 少数市民联手打击席卷整个城镇的腐败，并试图在为时已晚之前发现圆顶的来源.
 
 ### Children's Books
 
 #### [Dealing with Dragons](https://www.goodreads.com/book/show/150739.Dealing_with_Dragons) _by [Patricia C. Wrede](https://en.wikipedia.org/wiki/Patricia_Wrede)_ [4.15]
 
-当我读四年级的时候就爱上了这本书. 我一直很喜欢童话故事，但这是我读到的第一个颠覆通常的比喻的故事.  -- [@konpyuta](https://github.com/konpyuta)
+四年级第一次读这本书时就爱上了. 我一直很喜欢童话故事，但这是我读到的第一篇颠覆通常的比喻的故事.  —— [@konpyuta](https://github.com/konpyuta)
 
-> Cimorene is everything a princess is not supposed to be: headstrong, tomboyish, smart - and bored. So bored that she runs away to live with a dragon - and finds the family and excitement she's been looking for.
+ &gt; Cimorene 拥有公主不应该拥有的一切：任性、假小子、聪明 - 和无聊. 太无聊了，她逃跑了，和一条龙住在一起——并找到了她一直在寻找的家庭和兴奋.
 
 #### [Howl's Moving Castle](https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle) _by [Diana Wynne Jones](https://en.wikipedia.org/wiki/Diana_Wynne_Jones)_ [4.3]
 
-启发宫崎骏电影改编的原始故事. 具有多彩，有趣和异想天开的音调，但有有趣的转折.  -- [@konpyuta](https://github.com/konpyuta)
+启发宫崎骏电影改编的原创故事. 具有丰富多彩、有趣和异想天开的基调，但有一个有趣的转折.  —— [@konpyuta](https://github.com/konpyuta)
 
- &gt;索菲（Sophie）不幸的是，她是三个女儿中的长子，如果她要出家寻求命运，注定会惨败. 但是，当她不知不觉地吸引了废物女巫的愤怒时，索菲发现自己陷入了可怕的咒语，将她变成了一位老太太. 她唯一打破它的机会是在山上不断移动的城堡中：巫师How叫的城堡. 为了解开结界，索菲必须处理无情的How叫，与火魔恶魔讨价还价，并正面迎接废物女巫. 在此过程中，她发现，哈尔（以及她自己）所拥有的不仅仅是第一次见到眼球.
+ &gt; 苏菲不幸身为三个女儿中的老大，如果她离家去追寻自己的命运，她注定会惨遭失败. 但是，当她无意中招致了荒地女巫的怒火时，苏菲发现自己陷入了可怕的咒语，将她变成了一位老太太. 她打破它的唯一机会在于山上不断移动的城堡：巫师哈尔的城堡. 为了解开结界，索菲必须处理无情的嚎叫，与火恶魔讨价还价，并与废土女巫正面交锋. 一路上，她发现哈尔——以及她自己——远比第一眼看到的要多得多.
 
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) _by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://github.com/RichardLitt/awesome-fantasy/blob/master/<https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator)>)\_ [3.94]
 
-我记得的最早的书之一. 这本书是最好的.  -- [@RichardLitt](https://github.com/RichardLitt)
+我记得读过的最早的书之一. 这本书是最好的.  —— [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;“这是一个生活数百年的维京战士的故事. 他的名字叫埃里克. 而且埃里克不是普通的维京人. 他带着一群可信赖的男人起航，寻找夜晚阳光普照的土地. 实际上，他发现了更多！ 海龙，海上老人，斗狗士和巨人相结合，使他的航程成为激动人心的冒险传奇.
+ &gt; &#39;这是一个生活在数百和数百年前的维京战士的故事. 他的名字是埃里克. 埃里克不是普通的维京人. 他和他可信赖的一队人启航，寻找夜晚太阳照耀的土地. 事实上，他发现的远不止这些！ 海龙、海中老人、狗斗士和巨人的结合使他的航程成为一场惊心动魄的冒险传奇.
 
 ## Comic Books
 
 #### [Delilah Dirk and the Turkish Lieutenant](https://www.goodreads.com/book/show/17261174-delilah-dirk-and-the-turkish-lieutenant) _by [Tony Cliff](https://www.goodreads.com/author/show/4593587.Tony_Cliff)_ [3.94]
 
-与强大的女性主角一起的伟大冒险. 在基于历史的环境中，有趣的幻想元素散布在文化细节中.  -- [@konpyuta](https://github.com/konpyuta)
+与强大的女主角的伟大冒险. 在以历史为基础的环境中，有趣的幻想元素穿插在文化细节中.  —— [@konpyuta](https://github.com/konpyuta)
 
- &gt;令人爱不释手的Delilah Dirk已前往日本，印度尼西亚，法国，甚至是新世界. 使用她在途中掌握的技能，德里拉计划密谋在君士坦丁堡抢劫一个富有和腐败的苏丹，继续她的冒险历程. 在她的飞船和她的新朋友塞利姆（Selim）的帮助下，她逃避了苏丹的守卫，将愤怒的海盗留在了尘土中，并在乡村中奋斗. 对于Delilah而言，在她激动人心的生活中，这部激动而有趣的部分将冒险带入下一个冒险.
+ &gt; 可爱的无家可归的 Delilah Dirk 曾去过日本、印度尼西亚、法国，甚至新世界. 黛利拉利用一路上学到的技能，继续冒险，她计划在君士坦丁堡抢劫一个富有而腐败的苏丹. 在她的飞艇和她新结识的朋友塞利姆的帮助下，她避开了苏丹的守卫，将愤怒的海盗抛在了尘土中，并在乡间奋力拼搏. 对于黛利拉来说，在她激动人心的生活中，这是一次惊险而有趣的冒险，一次冒险会带来下一次冒险.
 
 #### [Seconds](https://www.goodreads.com/book/show/18630542-seconds) _by [Bryan Lee O'Malley](https://en.wikipedia.org/wiki/Bryan_Lee_O%27Malley), [Nathan Fairbairn](https://www.goodreads.com/author/show/6497026.Nathan_Fairbairn)_ [4.07]
 
-丰富多彩，有趣且充满热情的事情承担着能够改变过去的后果. 描述这部漫画的最好的词是令人愉快的.  -- [@sunrein](https://github.com/sunrein)
+一个色彩缤纷、有趣且温暖人心的作品展现了能够改变过去的后果. 描述这部漫画的最佳词是令人愉快的.  —— [@sunrein](https://github.com/sunrein)
 
- &gt;凯蒂（Katie）的表现不错. 她是一位才华横溢的年轻厨师，经营着成功的餐厅，并且计划开设一个更好的餐厅. 然后，突然之间，新地点的进展陷入困境，她迷人的前男友突然冒出，她与另一位厨师的争执变得酸痛，她最好的女服务员受到重伤. 就这样，Katie的生活从美好的一天变成了很少的一天. 她需要的是第二次机会. 毕竟，每个人都应该得到一个，但他们来之不易. 对于凯蒂（Katie）幸运的是，一个神秘的女孩出现在半夜，上面有一个简单的说明，可以自己动手做：
+ &gt; 凯蒂说得很好. 她是一位才华横溢的年轻厨师，她经营着一家成功的餐厅，而且她有开设一家更好的餐厅的宏伟计划. 然后，突然之间，新地点的进展陷入困境，她迷人的前男友突然出现，她与另一位厨师的约会变质了，她最好的女服务员受了重伤. 就这样，凯蒂的生活从很好到不太好. 她需要的是第二次机会. 毕竟，每个人都值得拥有一个——但他们来之不易. 对凯蒂来说幸运的是，一个神秘的女孩在半夜出现，并给出了自己动手做的简单说明：
 >
-&gt; 1.写下你的错误
-&gt; 2.摄取一只蘑菇
-&gt; 3.睡觉
-&gt; 4.重新唤醒
+&gt; 1. 写下你的错误
+&gt; 2. 吃一个蘑菇
+&gt; 3. 去睡觉
+&gt; 4. 重新醒来
 >
- &gt;就像那样，所有的坏事情都没有发生，凯蒂（Katie）被赋予了另一次机会以使事情变得正确. 她还有一个装满魔法蘑菇的梳妆台抽屉，还有一种不可抗拒的冲动，使自己的生活不仅美好，而且更加完美. 太糟糕了，它违反了规则. 但是，凯蒂（Katie）不在乎规则，她将发现最佳意图的意外后果.
+ &gt; 就这样，所有不好的事情都没有发生，凯蒂又得到了一次把事情做好的机会. 她还有一个装满神奇蘑菇的梳妆台抽屉——以及一种不可抗拒的冲动，要让她的生活不仅美好而且完美. 可惜不合规矩. 但凯蒂并不关心规则——她即将发现最好的意图会带来意想不到的后果.
 >
-&gt;广受赞誉的斯科特·朝圣者（Scott Pilgrim）系列背后的思想和笔下，出现了一个疯狂的新故事，讲述着生存的焦虑，日常的障碍，年轻的爱情和古老的精神，这些人机灵又温柔，异想天开和明智.
+&gt; 广受赞誉的 Scott Pilgrim 系列背后的思想和笔触讲述了一个关于存在焦虑、日常障碍、年轻的爱情和古老的灵魂的疯狂新故事，这些故事机智而温柔，异想天开和智慧.
 
 #### [The Black Bull of Norroway](https://www.goodreads.com/book/show/39913349-the-black-bull-of-norroway) _by [Cat Seaton](https://www.goodreads.com/author/show/15307132.Cat_Seaton), [Kit Seaton](https://www.goodreads.com/author/show/7989199.Kit_Seaton)_ [3.76]
 
-基于经典的苏格兰童话故事的华丽漫画，代表了很多多样性.  -- [@konpyuta](https://github.com/konpyuta)
+基于经典苏格兰童话故事的华丽漫画，代表了许多多样性.  —— [@konpyuta](https://github.com/konpyuta)
 
- &gt;西比拉一直想冒险，但她不知道它会以巨型神奇的公牛形式出现. 他是男人还是怪物？ 谁知道预言如此真实？
+ &gt; Sibylla 一直想要冒险，但她不知道它会以巨大的、神奇的公牛的形式出现. 他是人还是怪物？ 谁知道预言会如此直白？
 
 ## Movies
 
 #### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
 
-一部精彩的奇幻电影. 被低估.  -- [@ErvinaDe](https://github.com/ErvinaDe)
+一部精彩绝伦的奇幻电影. 被低估了.  —— [@ErvinaDe](https://github.com/ErvinaDe)
 
-&gt;一个小男孩试图说服一个女人他已经死了，她的丈夫重生了.
+&gt; 一个小男孩试图让一个女人相信他是她重生的死去的丈夫.
 
 #### [Dragonheart](http://www.imdb.com/title/tt0116136/) [6.4] :star2:
 
-肖恩·康纳利（Sean Connery）是有史以来最好的巨龙. 这是一部经典电影.  -- [@RichardLitt](https://github.com/RichardLitt)
+肖恩康纳利是有史以来最好的龙. 这是一部经典的电影.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;最后一条龙和一个幻想破灭的屠龙骑士必须合作阻止邪恶的国王，后者被赋予了不朽的生命.
+&gt; 最后一条龙和幻灭的屠龙骑士必须合作阻止一位获得部分永生的邪恶国王.
 
 #### [Fire and Ice](https://www.imdb.com/title/tt0085542/) [6.6]
 
-拉尔夫·巴克希（Ralph Bakshi）和弗兰克·弗雷泽塔（Frank Frazetta）之间的动画幻想经典合作. 这部电影具有出色的动画效果，甚至具有更大的动作感.  -- [@teav](https://github.com/teav)
+ Ralph Bakshi 和 Frank Frazetta 之间的动画奇幻经典合作. 这部电影有很棒的动画和更大的动作.  —— [@teav](https://github.com/teav)
 
- &gt;在冰河时代的末期，一个邪恶的女王和她的儿子开始使用魔术和武士征服世界. 一个被压垮的村庄的唯一幸存者与守火王一起反击.
+ &gt; 在冰河世纪末期，邪恶的女王和她的儿子开始使用魔法和战士征服世界. 被摧毁的村庄的唯一幸存者和 Fire Keep 之王一样进行了反击.
 
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
-这是一部非常残酷的电影. 唯一令人敬畏的事情是，每件事做得多么差劲，却仍然极富娱乐性. 必须的.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是一部极其残忍的电影. 唯一令人敬畏的是，一切都做得非常糟糕，但它仍然非常有趣. 必须的.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;一位不朽的苏格兰剑客必须面对他不朽的对手的最后一个，一个凶恶残酷的野蛮人，渴望传说中的“奖杯”.
+&gt; 一位不朽的苏格兰剑士必须面对他最后一位不朽的对手，一个渴望获得传说中的“奖品”的凶残野蛮人.
 
 #### [Highlander II: The Quickening](https://www.imdb.com/title/tt0102034/) [4.3]
 
-比第一个更糟糕，但是要以最好的方式.  -- [@teav](https://github.com/teav)
+Worse than the first, but in the best way possible. - [@teav](https://github.com/teav)
 
-&gt;将来，汉兰达·康纳·麦克劳德（Highlander Connor MacLeod）必须防止在防臭氧层下破坏地球.
+&gt; 未来，汉兰达康纳麦克劳德必须在反臭氧防护罩下防止地球遭到破坏.
 
 #### [Krull](http://www.imdb.com/title/tt0085811/) [6.0]
 
-真是一部恐怖电影. 但这将成为一个很棒的饮酒游戏，因此我将其包括在内. 另外，早期的利亚姆·尼森（Liam Neeson）很棒.  -- [@RichardLitt](https://github.com/RichardLitt)
+真的是一部很恐怖的电影. 但会是一个很棒的饮酒游戏，所以我把它包括在内. 此外，早期的连姆尼森也很棒.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;一位王子和同伴们开始着手从一个抵达自己星球的外星入侵者堡垒中解救他的新娘.
+&gt; 一位王子和一群同伴开始从外星入侵者的堡垒中救出他的新娘，这些入侵者已经抵达他们的家乡星球.
 
 #### [Labyrinth](http://www.imdb.com/title/tt0091369/) [7.4]
 
-这是80年代以来最古怪的邪教经典之一. 如果大卫·鲍伊（David Bowie）的表现不是那么令人难以置信，我就不在这里. 但它是.  -- [@RichardLitt](https://github.com/RichardLitt)
+这是 80 年代以来最奇怪的邪教经典之一. 如果大卫鲍伊的表现不是那么令人难以置信，我不会在这里包括这个. 但它是.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;地精国王准许了一个自私的16岁女孩13个小时来解决迷宫并解救她的小弟弟.
+&gt; 一个自私的 16 岁女孩在 13 小时内解决迷宫并营救她的弟弟，而她的愿望得到了哥布林国王的同意.
 
 #### [Midnight in Paris](https://www.imdb.com/title/tt1605783/) [7.7]
 
-这部电影确实捕捉了一些作家的思维方式，他们总是想知道如果他们生活在另一个世纪会怎样. 此外，欧文·威尔逊（Owen Wilson）杀死了它.  -- [@ErvinaDe](https://github.com/ErvinaDe)
+这部电影真正捕捉到了一些作家的思维方式，他们总是想知道如果他们生活在另一个世纪会怎样. 此外，欧文威尔逊杀死了它.  —— [@ErvinaDe](https://github.com/ErvinaDe)
 
-&gt;与未婚妻的家人一起去巴黎旅行时，一位怀旧的编剧发现自己每天午夜都神秘地回到1920年代.
+&gt; 在与未婚妻的家人一起去巴黎旅行时，一位怀旧的编剧发现自己每天午夜都神秘地回到了 1920 年代.
 
 #### [Percy Jackson & the Olympians: The Lightning Thief](https://www.imdb.com/title/tt0814255/) [5.9]
 
-孩子们一直在等待这部电影的改编. 可惜他们会失望的. 在现代时代与半神人在一起的电影.  -- [@AshishKnightfury](https://github.com/AshishKnightfury)
+孩子们期待这部改编电影已经很久了； 太糟糕了，他们会失望的. 一部现代半神人的电影.  —— [@AshishKnightfury](https://github.com/AshishKnightfury)
 
-&gt;一名少年发现自己是希腊神的后裔，并着手进行一场冒险，以解决神之间正在进行的战斗.
+&gt; 一名少年发现自己是希腊神的后裔，并开始冒险以解决众神之间正在进行的战斗.
 
 #### [Princess Mononoke](https://www.imdb.com/title/tt0119698/) [8.4]
 
-美丽而惊艳的电影，带有强烈的女性角色. 即使您不熟悉日本动画电影，我也一定会喜欢的.  -- [@maysaborges](https://github.com/maysaborges)
+美丽而令人惊叹的电影，具有强大的女性角色. 即使您不熟悉日本动画电影，我相信您也会喜​​欢这部动画.  —— [@maysaborges](https://github.com/maysaborges)
 
- &gt;在寻找解决Tatarigami诅咒的方法的旅途中，Ashitaka身陷森林之神与采矿殖民地Tatara的战争之中. 在此任务中，他还遇到了幽灵幽灵San.
+ &gt; 在寻找解脱多多神诅咒的方法的旅途中，阿席达卡发现自己卷入了森林众神与多多罗（一个采矿殖民地）之间的战争. 在这次任务中，他还遇到了幽灵姬桑.
 
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 
-一部令人难以置信的电影，展现了世界观，以及他们将中世纪技术与现代战争相结合的方式. 龙是坏蛋.  -- [@RichardLitt](https://github.com/RichardLitt)
+一部关于世界视野的令人难以置信的电影，以及他们将中世纪技术与现代战争相结合的方式. 龙是坏蛋.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;一群喷火的巨龙从地球上冒出来，开始向万物放火，在整个星球上占据统治地位.
+&gt; 一群喷火龙从地球上出现并开始点燃一切，建立对地球的统治.
 
 #### [Spirited Away](https://www.imdb.com/title/tt0245429/) [8.6]
 
-精美绘制，奇妙的艺术品-真的，没有其他描述可以做. 不要以为它是动画的事实吓到了您. 只是看！  -- [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+一幅画得精美、构图精美的艺术作品——真的，没有其他描述可以做到. 不要让它是动画的事实吓到你. 看看吧！  —— [@TheSherlockHomie](https://github.com/TheSherlockHomie)
 
-&gt;在她的家人搬到郊区的过程中，一个十岁的闷闷不乐的女孩徘徊在一个由神，女巫和精神统治的世界中，人类变成了野兽.
+&gt; 全家迁往郊外，一个阴沉的10岁女孩游荡到一个由神、巫、灵主宰的世界，在那里人类变成了野兽.
 
 #### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
 
-一部经典的80年代幻想作品. 基本上是带有一些雪貂的野蛮人柯南.  -- [@teav](https://github.com/teav)
+ 80 年代幻想的经典作品. 它基本上是野蛮人柯南和一些雪貂.  —— [@teav](https://github.com/teav)
 
- &gt;关于一个年轻人寻求报复的剑术和幻想. 这位英俊的英雄与他的动物盟友们拥有超自然的力量，对掠夺力量发动了战争.
+ &gt; 关于一个年轻人寻求复仇的剑与魔法幻想. 这位英俊的英雄和他的动物盟友拥有超自然力量，与掠夺性力量作战.
 
 #### The Lord of the Rings
 
-很棒的电影. 如果您正在阅读此列表，则可能已经看过它们.  -- [@RichardLitt](https://github.com/RichardLitt)
+神奇的电影. 如果您正在阅读这份清单，您可能已经看过它们.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-- [The Fellowship of the Ring](http://www.imdb.com/title/tt0120737/) [8.8]：星级2：
+- [The Fellowship of the Ring](http://www.imdb.com/title/tt0120737/) [8.8] :star2:
 
-&gt;一群夏尔和八名同伴的温柔哈比人出发前往毁灭之山，以摧毁One Ring和黑暗的索伦领主Sauron.
+&gt; 一个温顺的夏尔霍比特人和八名同伴出发前往末日山，以摧毁一环和黑暗领主索伦.
 
-- [The Two Towers](http://www.imdb.com/title/tt0167261/) [8.7]：星级2：
+- [The Two Towers](http://www.imdb.com/title/tt0167261/) [8.7] :star2:
 
-&gt;当弗罗多和萨姆在多变的Gollum的帮助下更加靠近莫多时，分裂的团契与索隆的新盟友萨鲁曼和他的艾辛加德大军抗衡.
+&gt; 当弗罗多和山姆在狡猾的咕噜的帮助下逐渐靠近魔多时，分裂的团契对抗索伦的新盟友萨鲁曼和他的艾辛格部落.
 
-- [Return of the King](http://www.imdb.com/title/tt0167260/) [8.9]：星级2：
+- [Return of the King](http://www.imdb.com/title/tt0167260/) [8.9] :star2:
 
-&gt;甘道夫（Gandalf）和阿拉贡（Aragorn）带领人类世界对付索伦（Sauron）的军队，从弗罗多（Frodo）和山姆（Sam）吸引他们的目光，因为他们正用“一环”接近厄运峰（Mount Doom）.
+&gt; 甘道夫和阿拉贡带领人类世界对抗索伦的军队，当他们带着一戒接近末日山时，他们将目光从弗罗多和山姆身上转移.
 
 #### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] :star2:
 
-有史以来最好的爱情故事之一. 这部电影拥有所有孩子想要的一切，而这本书也同样出色-具有讽刺意味，但又不过分地放纵自己.  -- [@RichardLitt](https://github.com/RichardLitt)
+有史以来最好的爱情故事之一. 这部电影拥有任何孩子想要的一切，这本书也一样好——讽刺但不过分自我放纵.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;卧病在床时，一个小男孩的祖父给他读了一个名为“公主新娘”的故事.
+&gt; 在家卧病在床时，一个小男孩的祖父给他读了一个名为“公主新娘”的故事.
 
 #### [The Sorcerer's Apprentice](https://www.imdb.com/title/tt0963966/) [6.1]
 
-The fate of the world does not really hang in balance, contrary to what the movie says. Still very fun to watch, especially if you're part of Gen Z, or have kids in primary school. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
+与电影所说的相反，世界的命运并没有真正保持平衡. 观看仍然很有趣，特别是如果你是 Z 世代的一员，或者有孩子在上小学.  —— [@TheSherlockHomie](https://github.com/TheSherlockHomie)
 
-&gt;巫师巴尔萨扎·布雷克（Balthazar Blake）必须找到并训练梅林（Merlin）的后裔，以击败黑暗女巫Morgana laFée.
+&gt; 魔法大师巴尔萨扎·布莱克必须找到并训练梅林的后裔，以击败黑暗魔法师莫甘娜·拉菲.
 
 #### [Your Name - Kimi no na wa(Original title)](https://www.imdb.com/title/tt5311514/) [8.4]
 
-通过人类的生存和联系而获得永恒的爱的想法被哭了. 令人着迷的romcom令人着迷，它给您留下了无价的印象.  -- [@kritikashah20](https://github.com/kritikashah20)
+通过人类的存在和联系获得永恒的爱的想法让人哭笑不得. 一部令人心旷神怡的浪漫喜剧，有着令人着迷的神秘感，会给您留下无价的印象.  —— [@kritikashah20](https://github.com/kritikashah20)
 
- &gt;两个陌生人发现自己以一种怪异的方式联系在一起. 当形成连接时，距离将是唯一使它们分开的东西吗？
+ &gt; 两个陌生人发现自己以一种奇怪的方式联系在一起. 当一种联系形成时，距离是唯一使他们分开的因素吗？
 
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
 
-嗯，最好的. 这很棒. 停止您正在做的事情，然后去观察它. 现在.  -- [@RichardLitt](https://github.com/RichardLitt)
+嗯，最好的. 这很棒. 停止你正在做的事情，然后去看它. 现在.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;在一个饱受战争摧残的元素魔法世界中，一个小男孩醒来了，进行一项危险的神秘任务，以实现他作为化身的命运.
+&gt; 在饱受战争蹂躏的元素魔法世界中，一个小男孩重新醒来，开始进行危险的神秘探索，以实现他作为阿凡达的命运.
 
 #### [Cursed](https://www.imdb.com/title/tt8210856/?ref_=fn_al_tt_1) (2020-?) [7]
 
-传奇人物与年轻的亚瑟王和梅林一起重塑湖中淑女 [Frank Miller](https://github.com/RichardLitt/awesome-fantasy/blob/master/<https://en.wikipedia.org/wiki/Frank_Miller_(comics) &gt;）.  Merlin的这种演绎真棒，与以前的版本截然不同. 神话般的世界有些曲折，像《指环王》和《巫师》这样的最爱.  -- [@will-chow](https://github.com/will-chow)
+传奇人物与年轻的亚瑟王和梅林重新想象湖中女士 [Frank Miller](https://github.com/RichardLitt/awesome-fantasy/blob/master/<https://en.wikipedia.org/wiki/Frank_Miller_(comics) &gt;).  Merlin 的这个版本很棒，与以前的版本截然不同. 神话世界对指环王和巫师等热门作品有一些曲折和旋转.  —— [@will-chow](https://github.com/will-chow)
 
-&gt;“一位名叫尼穆（Nimue）的女巫在遇到一位年轻的亚瑟（Arthur）时，试图寻找一把强大而古老的剑.”
+&gt; “一位名叫 Nimue 的少女女巫在寻找一把强大而古老的剑的过程中遇到了一位年轻的亚瑟.”
 
 #### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
 
-很好，如果有时电视转播次数过多，并且过分强调性暴力行为. 拍摄精美，否则.  -- [@RichardLitt](https://github.com/RichardLitt)
+非常好，如果有时过度电视转播并且过分强调性暴力. 否则拍得很漂亮.  —— [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;几个贵族家庭争夺对维斯特洛神话般土地的控制权.
+&gt; 几个贵族家族为争夺神秘的维斯特洛大陆的控制权而战.
 
 #### [Good Omens](https://m.imdb.com/title/tt1869454/) [8.2]
 
-一个伟大的喜剧迷你剧集，完美的造型完美地描绘了盖曼和普拉切特同名小说的主题.  -- [@Djolo1802](https://github.com/djolo1802)
+一个伟大的喜剧迷你系列，完美的演员阵容奇妙地描绘了盖曼和普拉切特的同名小说的主题.  —— [@Djolo1802](https://github.com/djolo1802)
 
-&gt;发生大决战的故事中，有一个天使，一个恶魔，一个十一岁的敌基督者和一个说厄运的女巫.
+&gt; 一个关于世界末日的拙劣故事，讲述了一个天使、一个恶魔、一个 11 岁的敌基督者和一个说厄运的女巫.
 
 #### [His Dark Materials](https://www.imdb.com/title/tt5607976/) [7.9]
 
-优秀的电视节目. 我喜欢这些书，我认为改编真的很好.  -- [@staelsabrina](https://github.com/staelsabrina)
+优秀的电视剧. 我喜欢这些书，我认为改编非常好.  —— [@staelsabrina](https://github.com/staelsabrina)
 
-&gt;一个年轻的女孩注定要从魔幻世界中释放自己的世界，这压制了人们与魔术及其被称为恶魔的动物精神的联系.
+&gt; 一个年轻的女孩注定要将她的世界从压制人们与魔法和他们被称为恶魔的动物精神的联系的魔导师的控制中解放出来.
 
 #### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
 
-从第一天起，我就一直喜欢这个节目，并且是所有生动逼真的角色的狂热粉丝. 它既有趣又写得很好，触动了人类的神经，这是前所未有的. 该节目似乎向您展示了每枚硬币都有两个方面，您做出的每一个选择和决定都会产生后果，这是您本人而不是其他人所为.  -- [@gayatripalkar](https://github.com/gayatripalkar)
+我从第一天起就喜欢这个节目，并且是所有生动逼真的角色的狂热粉丝. 它很有趣，写得很好，触动了人类的神经，这是前所未有的. 这个节目似乎一心要向你展示每一枚硬币都有两个方面，你做出的每一个选择和决定都有后果，来自你而不是其他任何人.  —— [@gayatripalkar](https://github.com/gayatripalkar)
 
- &gt;路西法·晨星（Lucifer Morningstar）决定他已经足够做地狱的忠实仆人，并决定花一些时间在地球上以更好地了解人类. 他定居在洛杉矶-天使之城.
+ &gt; Lucifer Morningstar 已经决定他已经受够了在地狱做一个尽职尽责的仆人，并决定花一些时间在地球上以更好地了解人类. 他定居在洛杉矶——天使之城.
 
 #### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
 
- Outlander是其原始材料的独特且令人满意的改编，其引人入胜的风景和引人入胜的化学作用使其栩栩如生.  -- [@AshishKnightfury](https://github.com/AshishKnightfury)
+ Outlander 是对其源材料的独特、令人满意的改编，通过郁郁葱葱的风景和主角之间的强烈化学反应而变得栩栩如生.  —— [@AshishKnightfury](https://github.com/AshishKnightfury)
 
-&gt;一位1945年的英国战斗护士神秘地回到了1743年.
+&gt; 一位 1945 年的英国战斗护士神秘地回到了 1743 年.
 
 #### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
 
-超自然有点讨人喜欢，因为主要角色（唯一会重复出现的角色）是兄弟，但是，写作使这些角色更加可信. 他们彼此不同，每个人都有自己的生活和不典型的事物.  -- [@AshishKnightfury](https://github.com/AshishKnightfury)
+超自然有点可爱，因为主要角色（唯一会重复出现的角色）是兄弟，但是，文字使角色更加可信. 他们彼此不同，每个人都有自己的生活和不典型的事物.  —— [@AshishKnightfury](https://github.com/AshishKnightfury)
 
-&gt;两兄弟跟随父亲的脚步，成为猎人，与各种邪恶的超自然生物战斗，其中包括怪物，恶魔和漫游地球的神灵.
+&gt; 两兄弟跟随父亲的脚步成为猎人，与各种邪恶的超自然生物战斗，包括在地球上漫游的怪物、恶魔和神灵.
 
 #### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
 
-原著可能以其无数的曲折和超自然生物的狂潮淹没了休闲的观众，但是这是一款具有潜力的圆滑，大气的吸血鬼日记衍生产品.  -- [@TREXXX27](https://github.com/TREXXX27)
+原著可能会以其无数的曲折和成群结队的超自然生物压倒普通观众，但这是一部时尚、大气的吸血鬼日记，具有潜力.  —— [@TREXXX27](https://github.com/TREXXX27)
 
-&gt;一个渴望大量能量的千年吸血鬼家庭希望夺回他们建造的城市，并统治所有犯错的人.
+&gt; 一个渴望权力的千年吸血鬼家族希望夺回他们建造的城市并统治所有对他们做错的人.
 
 #### [The Vampire Diaries](https://www.imdb.com/title/tt1405406/) (2009-2017) [7.7]
 
-如果您正在寻找浪漫，少年们会理清生活，而男人则无缘无故地脱掉衬衫. 这个系列是给你的. 您可以暴饮暴食，同时迷上神秘瀑布的神秘面纱. 故事情节轻松观看.  -- [@Hazelnoot](https://github.com/hazelnoot)
+如果您正在寻找浪漫，青少年会发现生活，而男人会无缘无故地脱掉衬衫. 这个系列适合你. 这是一种您可以狂看的系列，同时沉浸在神秘瀑布的奥秘中. 易于观看，故事情节精彩.  —— [@Hazelnoot](https://github.com/hazelnoot)
 
- &gt;弗吉尼亚州神秘瀑布镇的生活，爱情，危险和灾难. 十几岁的少女突然在两个吸血鬼兄弟之间被撕碎，这恐怖的生物潜伏在这个镇下.
+ &gt; 弗吉尼亚州神秘瀑布镇的生活、爱情、危险和灾难. 当一个十几岁的女孩突然被两个吸血鬼兄弟撕裂时，无法形容的恐怖生物潜伏在这个城镇的地下.
 
 #### [The Witcher](https://www.imdb.com/title/tt5180504/) (2019-ongoing) [8.3]
 
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
-&gt;里维娅（Rivia）的杰拉特（Geralt）是一个孤独的怪物猎人，他在这个人们常常比兽更邪恶的世界中努力寻找自己的位置.
+&gt; 利维亚的杰洛特是一名孤独的怪物猎人，他努力在一个人比野兽更邪恶的世界中找到自己的位置.
 
 ---
 
 ## You got through the list and didn't find anything?
 
-尝试 [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - 美国国家公共电台
+试试 [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - 美国国家公共电台
 
 ## License
 

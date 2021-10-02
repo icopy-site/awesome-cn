@@ -175,7 +175,7 @@
 
 ##### Other / unknown licence 
 
-- [hac](https://github.com/zertovitch/hac) - 完全在 Ada 中的实验性 Ada 编译器.
+- [hac](https://github.com/zertovitch/hac) - HAC Ada Compiler - 一个完全在 Ada 中的小型、快速的 Ada 编译器.
 - [byron](https://github.com/OneWingedShark/Byron) - Byron 项目是一个社区驱动的 Ada 编译器、工具链和 IDE 系统.
 
 #### Commercial / Open source
@@ -192,7 +192,7 @@
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - 基于 CodingGround 引擎构建的在线编译器.
-- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - 在线编译器，提供多个版本的 GNAT 进行测试.
+- [jdoodle-ada-compiler](https://www.jdoodle.com/execute-ada-online) - 提供多个版本的 GNAT 进行测试的在线编译器.
 - [compiler-explorer](https://godbolt.org/) - 从您的 Web 浏览器以交互方式运行 GNAT FSF 编译器并与程序集交互.
 
 ## Edit
@@ -254,7 +254,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - 俄罗斯方块，在 Ada，用于 Unity 游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) - 用 SPARK/Ada 编写和验证的井字游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate 是适用于 Windows、OS-X 和 Linux 的星际之门/门户幻想设置中的第一人称 3D 推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏……它看起来像一个rubic 立方体，但它是一个滑块，而不是一个扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏......它看起来像一个rubic 立方体，但它是一个滑块，而不是一个扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) - AdaVenture 是一款适合儿童的复古点击游戏，包含迷宫、龙、蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) - 有趣的益智游戏，可在任何操作系统的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
@@ -493,7 +493,7 @@
 - [oto](https://github.com/darkestkhan/oto) - Ada 绑定到 OpenAL，它尝试在使用 Ada 类型时模仿原始 API.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - 简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) - Scala 是一个功能强大的软件工具，用于进行音乐调音实验，例如纯音阶、平等和历史气质、微调和大调音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) - Scala 是一个强大的软件工具，用于进行音乐调音实验，例如纯音阶、平等和历史气质、微调和大调音阶以及非西方音阶.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound)  - 一个用于 Ada 应用程序的 linux-sound-playing 包，可以异步启动和停止音乐循环，以及启动瞬态声音. 适合游戏.
 
 #### Localization
@@ -533,7 +533,7 @@
 ## Hardware and Embedded
 
 #### Frameworks
-- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 机器人与 Ada、ARM 和 Lego.
+- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用 Ada、ARM 和 Lego 的机器人技术.
 
 #### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - 完整的 Ada + SPARK Crazyflie 2.0 固件的源代码.

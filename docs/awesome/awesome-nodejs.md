@@ -231,6 +231,7 @@
 - [gotql](https://github.com/khaosdoctor/gotql) - 建立在 GraphQL 请求库之上 [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - 可使用环境变量配置的全局 HTTP/HTTPS 代理.
 - [smoke](https://github.com/sinedied/smoke) - 具有记录功能的基于文件的 HTTP 模拟服务器.
+- [undici](https://github.com/nodejs/undici) - 从零开始编写的高性能 HTTP 客户端.
 
 ### Debugging / Profiling
 

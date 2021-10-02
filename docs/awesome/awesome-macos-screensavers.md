@@ -102,14 +102,6 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
-### Flip Clock Screensaver
-
-&gt; 可自动调暗屏幕的翻转时钟屏幕保护程序.
-
-Free
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html#)
-
 ## Apple Inspired
 
 ### Aerial
@@ -134,7 +126,7 @@ Free
 
 ## MusaicFM
 
-&gt; 灵感来自 Spotify 和 Last.fm 的 iTunes Artwork Screensaver 的屏幕保护程序.
+&gt; 灵感来自 iTunes Artwork Screensaver for Spotify 和 Last.fm 的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 

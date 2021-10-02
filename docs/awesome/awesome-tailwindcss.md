@@ -210,6 +210,7 @@
 -  [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的 Blade 表单组件.
 -  [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 -  [Gust](https://www.getgust.com) - 用于 WordPress 的拖放页面构建器.
+-  [clb](https://github.com/crswll/clb) - clb（类列表构建器）是一个实用函数，它基于一个类列表构建一个类列表. [Stitches](https://stitches.dev/) 像API.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 -  [Protoship Codegen](https://protoship.io) - 代码生成器，可从 Sketch 设计中创建基于 Tailwind CSS 的 HTML 和 CSS.
 -  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
@@ -231,7 +232,7 @@
 -  [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - 使用 Tailwind CSS 构建的开源组件库.
 -  [Tailwind Made](https://tailwindmade.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
--  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的随时可用的 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
@@ -259,7 +260,7 @@
 -  [Landing Gradients](https://landing-gradients.netlify.app/) - 使用渐变的登陆页面模板 (1.7+).
 -  [Resume](https://github.com/mohusman360/mohusman360.github.io) - 使用 Tailwind CSS 的简单简历.
 -  [Resume](https://github.com/Thomashighbaugh/resume) - 使用 Tailwind CSS 构建的风格化简历模板，具有漂亮的英雄图案背景和自定义字体.
--  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React 和 Tailwind CSS 构建的免费登陆页面模板.
+-  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) - 使用 React &amp; Tailwind CSS 构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) - 使用 Vue 3 和 Tailwind CSS 构建的仪表板入门模板.
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - 使用 Nuxt.js 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [Tailmin](https://github.com/otezz/tailmin) - 使用 Vue.js 和 Tailwind CSS 构建的管理仪表板.

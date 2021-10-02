@@ -90,7 +90,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [nsq](https://github.com/nsqio/nsq) [Go] - 实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
 - [RudderStack](https://github.com/rudderlabs/rudder-server) [Go] - 一个开源的客户数据基础设施（segment，mparticle 替代方案）.
 - [suro](https://github.com/Netflix/suro) [Java] - 用于收集、聚合和分派大量应用程序事件（包括日志数据）的数据管道服务.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector-oss) [Java] - 持续的大数据摄取基础设施，可以读取和写入大量端点，包括 S3、JDBC、Hadoop、Kafka、Cassandra 等.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector-oss) [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
 ### Online Machine Learning 
 
@@ -133,7 +133,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) [.NET] 由 Microsoft Azure 提供的可大规模扩展、完全托管、实时的数据流引擎.
 - [Cloud Dataflow](https://cloud.google.com/dataflow/) [Java, Python, SQL, Scala] - Google 的托管流和批处理数据处理引擎. 支持运行 Beam 管道.
 - [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C++] - 在 Apache 之上用 C++ 构建的分布式流处理框架.
-- [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) [Python/Java/Scala] - platform for distributed processing and real-time analytics. Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box.
+- [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  [Python/Java/Scala] - 分布式处理和实时分析平台. 提供开箱即用的高级分析工具包，如地理空间、时间序列等.
 - [jubatus](http://jubat.us/en/) [C++] - 分布式处理框架和流式机器学习库.
 - [millwheel](http://research.google.com/pubs/pub41378.html) - 用于构建谷歌广泛使用的低延迟数据处理应用程序的框架.
 
@@ -144,6 +144,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) by Tyler Akidau. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) 作者：Josh Fischer &amp; Ning Wang
+5. [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/) 作者：鲁文·拉克斯、斯拉瓦·切尔尼亚克和泰勒·阿基道
 
 ## License
 

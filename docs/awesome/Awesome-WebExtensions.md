@@ -54,14 +54,14 @@
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension 可直接在商店中查看扩展的源代码.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - 自动发布到 Chrome Web Store、Mozilla Addons 和 Opera Addons 的工具.
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack 加载器，可让您指定`manifest.json` 属性仅出现在特定浏览器中.
-- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将 &#39;manifest.json&#39; 作为您唯一的 webpack 入口点.
+- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制的 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将 &#39;manifest.json&#39; 作为您唯一的 webpack 入口点.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - 在开发过程中自动重新加载浏览器扩展的 Webpack 插件.
 - [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - 为使用 Webpack 构建的 WebExtensions 添加代码拆分支持
 
 ## Testing
 
 - [sinon-chrome](https://github.com/acvetkov/sinon-chrome) - 模拟 Chrome 扩展 API 进行测试.
-- [addons-validator](https://github.com/mozilla/addons-validator) - 根据 Mozilla 的指南验证扩展.
+- [addons-linter](https://github.com/mozilla/addons-linter) - 根据 Mozilla 的指南验证扩展.
 - [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) - 使用基于 manifest.json 的 JSDOM 加载弹出窗口、侧边栏和背景.
 - [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) - 内存中 WebExtensions API 假实现（包括 TypeScript 类型）.
 - [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) - WebExtensions API 作为 sinon 存根（包括 TypeScript 类型）.

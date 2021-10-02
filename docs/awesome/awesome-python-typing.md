@@ -66,7 +66,7 @@
 
 ### Linters
 
-- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - flake8 插件来验证注释的复杂性.
+- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - Plugin for flake8 to validate annotations complexity.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) - flake8 插件，用于检查函数定义中是否存在类型注释.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) - 集成 mypy 的 flake8 插件.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，提供类型提示存根文件的专业化.
@@ -94,9 +94,9 @@
 ### Helper tools to add annotations to existing code
 
 - [autotyper](https://github.com/JelleZijlstra/autotyper) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
-- [monkeytype](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+- [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到您的源代码中.
-- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对所使用的类型进行有根据的猜测，并将注释应用于文件.
+- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发的工具，用于用 Python 类型注释 AST 的节点.
@@ -148,12 +148,13 @@
 ### Third-party articles
 
 - [1-minute guide to real constants in Python](https://sobolevn.me/2018/07/real-python-contants) - 关于`Final`常量和继承的完整教程.
-- [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - 类型 使用 MonkeyType 注释现有的 Python Django 代码库.
 - [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) - 关于“文字”类型的完整教程.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - 关于测试 mypy 类型的完整教程.
+- [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - 类型 使用 MonkeyType 注释现有的 Python Django 代码库.
 - [The state of type hints in Python](https://bernat.tech/posts/the-state-of-type-hints-in-python/) - 截至 2018 年 5 月.
 - [Type hints cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html) - MyPy 团队编写的类型注释备忘单.
 - [Typechecking Django and DRF](https://sobolevn.me/2019/08/typechecking-django-and-drf) - 关于类型检查 django 的完整教程.
+- [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - 一篇基于最近关于向 Django 添加类型检查的两次谈话的文章.
 - [typing](https://docs.python.org/3/library/typing.html) -`typing` 模块的官方 Python 文档.
 
 ## Communities

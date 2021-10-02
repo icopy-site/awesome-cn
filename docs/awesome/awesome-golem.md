@@ -121,6 +121,11 @@
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - 锐化图像的工具.
 
+## Bounties and Rewards
+
+- [GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - 一个在开发、支持、内容创建等方面激励活动的计划.
+- [Gitcoin Bounties](https://gitcoin.co/golemfactory/bounties) - 在 Gitcoin 上托管的一系列公开赏金和黑客马拉松.
+
 ## Developer and Requestor Resources
 
 - [Yagna handbook](https://handbook.golem.network/) - 魔像手册，实现名称，Yagna.
@@ -188,7 +193,6 @@
 
 ## Community
 
-- [Golem Community GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - 参与社区并获得 GLM 代币奖励.
 - [Golem Network Discussion Group](https://t.me/GolemProject) - 社区驱动的电报频道.
 - [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - 删除 Reddit 上的 /r/GolemProject 帖子，并在找到特定关键字/命令时回复.
 
