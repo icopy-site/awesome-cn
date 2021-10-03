@@ -111,7 +111,7 @@
 * [Mind the Cloud Podcast](http://mindthecloud.com) - 关于使用云创造未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)  - 面向 Microsoft 开发人员的播客.  Jason Young 和 Carl Schweitzer 谈论最新的开发人员新闻，涵盖 Azure 云、Windows、Windows Phone、Visual Studio 和使用 Microsoft 平台的跨平台开发等主题.
 * [New Rustacean](https://newrustacean.com/) - 这是一个关于从头开始学习 Rust 编程语言的播客.
-* [Note To Self](https://www.wnycstudios.org/shows/notetoself) - 主持人 Manoush Zomorodi 与从知名技术人员到小学教师的所有人谈论技术对我们生活的影响，寻求能够帮助您更好地思考和生活的明智选择.
+* [Note To Self](https://www.wnycstudios.org/shows/notetoself) - 主持人 Manoush Zomorodi 与从知名技术人员到小学教师的所有人讨论技术对我们生活的影响，寻求能够帮助您更好地思考和生活的明智选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - 唯一一个专注于 Office 365 开发的节目，我们与来自全球各地的专家在 Office 365 平台上进行编码交流.
 * [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - 来自硬件/软件界面的故事：“地球上最书呆子的播客”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - 针对那些希望更好地了解当今安全主题的人的安全播客.
@@ -211,19 +211,20 @@
 * [DataHackers](https://datahackers.com.br/podcast) - 每月播客，让数据科学专业人士谈论就业市场、职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) - 带有幽默感的每周网络开发播客.
 * [Elemencast](https://elemencast.github.io) - 提案是为听众带来有关前端领域、NodeJ、函数式编程等的不同内容.
-* [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw)  - The Impossible Theatre Encyclopedia 是巴西戏剧的平行历史，因其失败而备受瞩目. 它们是对不可能的戏剧作品的部分虚构和部分现实的描述.
+* [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw)  - The Impossible Theatre Encyclopedia 是巴西戏剧的一个平行故事，因其失败而备受瞩目. 它们是对不可能的戏剧作品的部分虚构和部分现实的描述.
 * [FalaDev](https://anchor.fm/faladev) - 我大部分时间都在写代码，是时候聚在一起讨论编程世界了.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - 四位老师，非常书呆子，有趣并且有很多故事要讲.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - 关于技术和开源/免费软件的播客
 * [Hackers Brasil](https://anchor.fm/hackersbrasil) - 关于黑客和网络安全的播客
 * [Hipsters ponto Tech](https://hipsters.tech/) - 关于初创公司、编程、用户体验、小工具和最新技术趋势的 Caelum 播客.
 * [Knowledge Cast](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw) - K21 关于敏捷性的播客
-* [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) - Lambda3 的播客
+* [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) - Lambda3 播客
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - 涉及领导力和创业精神等主题的访谈.
 * [Like a Boss](https://www.likeaboss.com.br)  - The Like a Boss 播客是面向企业家的播客. 成功的初创公司和公司的领导者和创始人与该计划的两位主持人坐在一起.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) - 开诚布公的新闻
 * [MovileCast](https://movile.blog/tag/podcast/) - 移动公司生态系统技术播客.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - 播客有一个解释几个主题的建议，使用科学、哲学、历史和其他来支持答案.
+* [NautilusLink](https://soundcloud.com/nautiluslink) - 关于电子游戏的播客.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - 来自 JovemNerd 门户的播客，谈论极客、理论和角色扮演游戏
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - 面向经验丰富的开发人员和初学者的 PHP 新闻.
 * [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
