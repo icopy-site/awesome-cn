@@ -73,7 +73,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [coast](https://github.com/bkirwi/coast) [Scala] - 一种在 Samza 之上构建 DAG 并提供仅一次语义的 DSL.
 - [Esper](https://github.com/espertechinc/esper) [Java] - 用于复杂事件处理 (CEP) 和事件序列分析的组件.
 - [Streamparse](https://github.com/Parsely/streamparse) [Python] - 允许您通过 Apache Storm 针对实时数据流运行 Python 代码.
-- [summingbird](https://github.com/twitter/summingbird) [Scala] - 允许您编写看起来像原生 Scala 或 Java 集合转换的 MapReduce 程序的库，并在许多著名的分布式 MapReduce 平台上执行它们，包括 Storm 和 Scalding.
+- [summingbird](https://github.com/twitter/summingbird) [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
 
 ### Data Pipeline
 
@@ -83,6 +83,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [camus](https://github.com/linkedin/camus) [Java] - Linkedin 的 Kafka -&gt; HDFS 管道.
 - [databus](https://github.com/linkedin/databus) [Java] - Linkedin 的源不可知分布式变更数据捕获系统.
 - [flume](https://github.com/apache/flume) [Java] - 分布式、可靠且可用的服务，用于高效地收集、聚合和移动大量日志数据.
+- [fluvio](https://github.com/infinyon/fluvio) [Rust/WASM] - 具有在线计算能力的实时可编程数据流平台.
 - [Gazette](https://github.com/gazette/core) [golang] - 基于云存储构建的分布式流媒体基础设施，可以轻松混合和匹配批处理和流媒体范式.
 - [LogDevice](https://logdevice.io/) [C++] - Facebook 的高性能分布式系统，用于流式传输和存储顺序数据，使用日志结构.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java] - 淘宝的高可用、高性能分布式消息系统
@@ -141,7 +142,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 ### Readings
 
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
-2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) by Tyler Akidau. 
+2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 泰勒·阿基道. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) 作者：Josh Fischer &amp; Ning Wang
 5. [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/) 作者：鲁文·拉克斯、斯拉瓦·切尔尼亚克和泰勒·阿基道

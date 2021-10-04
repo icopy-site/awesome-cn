@@ -74,7 +74,7 @@ Further resources:
 <a name="cpp-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
-* [BanditLib](https://github.com/jkomiyama/banditlib)  - 一个简单的多臂强盗库.  **[已弃用]**
+* [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library. **[Deprecated]**
 * [Caffe](https://github.com/BVLC/caffe)  - 一个在开发时考虑到清洁度、可读性和速度的深度学习框架.  【深度学习】
 * [CatBoost](https://github.com/catboost/catboost)  - 具有开箱即用的分类特征支持的决策树库上的通用梯度提升. 它易于安装，包含快速推理实现并支持 CPU 和 GPU（甚至多 GPU）计算.
 * [CNTK](https://github.com/Microsoft/CNTK) - 微软研究院的计算网络工具包 (CNTK) 是一个统一的深度学习工具包，它通过有向图将神经网络描述为一系列计算步骤.
@@ -366,7 +366,7 @@ Further resources:
 * [Stanford POS Tagger](https://nlp.stanford.edu/software/tagger.shtml) - 词性标注器（词性标注器）.
 * [Stanford Name Entity Recognizer](https://nlp.stanford.edu/software/CRF-NER.shtml) - 斯坦福 NER 是命名实体识别器的 Java 实现.
 * [Stanford Word Segmenter](https://nlp.stanford.edu/software/segmenter.shtml) - 原始文本的标记化是许多 NLP 任务的标准预处理步骤.
-* [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) - Tregex 是一个用于匹配树中模式的实用程序，基于树关系和节点上的正则表达式匹配（名称是“树正则表达式”的缩写）.
+* [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) - Tregex 是一种用于匹配树中模式的实用程序，基于节点上的树关系和正则表达式匹配（名称是“树正则表达式”的缩写）.
 * [Stanford Phrasal: A Phrase-Based Translation System](https://nlp.stanford.edu/phrasal/)
 * [Stanford English Tokenizer](https://nlp.stanford.edu/software/tokenizer.shtml) - 斯坦福短语是最先进的基于统计短语的机器翻译系统，用 Java 编写.
 * [Stanford Tokens Regex](https://nlp.stanford.edu/software/tokensregex.shtml) - 分词器将文本分成一系列标记，大致对应于“单词”.
@@ -548,7 +548,7 @@ Further resources:
 * [Distances](https://github.com/JuliaStats/Distances.jl) - 用于距离评估的 Julia 模块.
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) - Julia 中的神经网络.
-* [MCMC](https://github.com/doobwa/MCMC.jl)  - 用于 Julia 的 MCMC 工具.  **[已弃用]**
+* [MCMC](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia. **[Deprecated]**
 * [Mamba](https://github.com/brian-j-smith/Mamba.jl) - 用于在 Julia 中进行贝叶斯分析的马尔可夫链蒙特卡罗 (MCMC).
 * [GLM](https://github.com/JuliaStats/GLM.jl) - Julia 中的广义线性模型.
 * [Gaussian Processes](https://github.com/STOR-i/GaussianProcesses.jl) - 用于高斯过程的 Julia 包.
@@ -608,7 +608,7 @@ Further resources:
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) - JuliaCon 的演示文稿.
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) - Julia 的信号处理工具.
 * [Images](https://github.com/JuliaImages/Images.jl) - Julia 的图像库.
-* [DataDeps](https://github.com/oxinabox/DataDeps.jl) - 可重复科学的可重复数据设置.
+* [DataDeps](https://github.com/oxinabox/DataDeps.jl) - 可重复性科学的可重复数据设置.
 
 <a name="lua"></a>
 ## Lua
@@ -629,7 +629,7 @@ Further resources:
   * [rnn](https://github.com/Element-Research/rnn)  - 一个循环神经网络库，扩展了 Torch 的神经网络.  RNN、LSTM、GRU、BRNN、BLSTM 等.
   * [dpnn](https://github.com/Element-Research/dpnn) - 许多有用的功能不属于主要 nn 包的一部分.
   * [dp](https://github.com/nicholas-leonard/dp)  - 一个深度学习库，旨在使用 Torch7 发行版简化研究和开发. 它通过优雅地使用面向对象的设计模式来强调灵活性.  **[已弃用]**
-  * [optim](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
+  * [optim](https://github.com/torch/optim)  - Torch 的优化库.  SGD、Adagrad、共轭梯度、LBFGS、RProp 等.
   * [unsup](https://github.com/koraykv/unsup)  - Torch 中的无监督学习包. 提供与 nn（LinearPsd、ConvPsd、AutoEncoder 等）和自包含算法（k-means、PCA）兼容的模块.  **[已弃用]**
   * [manifold](https://github.com/clementfarabet/manifold) - 用于操作歧管的软件包.
   * [svm](https://github.com/koraykv/torch-svm)  - Torch-SVM 库.  **[已弃用]**
@@ -771,10 +771,10 @@ Further resources:
 ### General-Purpose Machine Learning
 
 * [YCML](https://github.com/yconst/YCML) - 针对 Objective-C 和 Swift (OS X / iOS) 的机器学习框架.
-* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet)  - 适用于 iOS 和 Mac OS X 的快速多层感知器神经网络库. MLPNeuralNet 通过训练有素的神经网络预测新示例. 它建立在 Apple 的 Accelerate Framework 之上，使用矢量化操作和硬件加速（如果可用）.  **[已弃用]**
+* [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural networks. It is built on top of the Apple's Accelerate Framework, using vectorized operations and hardware acceleration if available. **[Deprecated]**
 * [MAChineLearning](https://github.com/gianlucabertani/MAChineLearning)  - 一个 Objective-C 多层感知器库，完全支持通过反向传播进行训练. 它使用 vDSP 和 vecLib 实现，比 Java 同类产品快 20 倍. 包括在 Swift 中使用的示例代码.
 * [BPN-NeuralNetwork](https://github.com/Kalvar/ios-BPN-NeuralNetwork)  - 它实现了 3 层神经网络（输入层、隐藏层和输出层），并命名为反向传播神经网络（BPN）. 该网络可用于产品推荐、用户行为分析、数据挖掘和数据分析.  **[已弃用]**
-* [Multi-Perceptron-NeuralNetwork](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - 它实现了基于反向传播神经网络 (BPN) 的多感知器神经网络 (ニューラルネットワーク)，并设计了无限隐藏层.
+* [Multi-Perceptron-NeuralNetwork](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - 它实现了基于反向传播神经网络 (BPN) 的多感知器神经网络 (ニューラルネットワーク) 并设计了无限隐藏层.
 * [KRHebbian-Algorithm](https://github.com/Kalvar/ios-KRHebbian-Algorithm)  - 它是机器学习神经网络中的一种非监督和自学习算法（调整权重）.  **[已弃用]**
 * [KRKmeans-Algorithm](https://github.com/Kalvar/ios-KRKmeans-Algorithm)  - 它实现了 K-Means 聚类和分类算法. 它可用于数据挖掘和图像压缩.  **[已弃用]**
 * [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm)  - 它在机器学习上实现了模糊 C 均值 (FCM) 模糊聚类/分类算法. 它可用于数据挖掘和图像压缩.  **[已弃用]**
@@ -859,7 +859,7 @@ be
 * [OpenFace](https://cmusatyalab.github.io/openface/) - 使用深度神经网络进行免费和开源的人脸识别.
 * [PCV](https://github.com/jesolem/PCV)  - 用于计算机视觉的开源 Python 模块.  **[已弃用]**
 * [face_recognition](https://github.com/ageitgey/face_recognition) - 人脸识别库，可从 Python 或命令行识别和操作人脸.
-* [dockerface](https://github.com/natanielruiz/dockerface) - 易于安装和使用深度学习 Faster R-CNN 人脸检测，用于 docker 容器中的图像和视频.
+* [dockerface](https://github.com/natanielruiz/dockerface)  - 易于安装和使用深度学习 Faster R-CNN 人脸检测，用于 docker 容器中的图像和视频.  **[已弃用]**
 * [Detectron](https://github.com/facebookresearch/Detectron)  - FAIR 的软件系统，实现了最先进的对象检测算法，包括 Mask R-CNN. 它是用 Python 编写的，由 Caffe2 深度学习框架提供支持.  **[已弃用]**
 * [detectron2](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework. 
 * [albumentations](https://github.com/albu/albumentations)  - 一个快速且框架不可知的图像增强库，它实现了多种增强技术. 支持开箱即用的分类、分割、检测. 曾在 Kaggle、Topcoder 和那些作为 CVPR 研讨会一部分的深度学习竞赛中获胜.
@@ -981,7 +981,7 @@ be
 * [Bolt](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox. **[Deprecated]**
 * [CoverTree](https://github.com/patvarilly/CoverTree) - 覆盖树的 Python 实现，几乎直接替换 scipy.spatial.kdtree **[已弃用]**
 * [nilearn](https://github.com/nilearn/nilearn) - Python 中神经成像的机器学习.
-* [neuropredict](https://github.com/raamana/neuropredict)  - 针对新手机器学习者和非专家程序员，该软件包在 Python 中为 NeuroImaging 和任何其他类型的功能提供了简单（无需编码）和全面的机器学习（评估和预测性能的完整报告，无需您编码）. 这旨在吸收大部分 ML 工作流程，不像 nilearn 和 pymvpa 等其他软件包，它们要求您学习它们的 API 和代码以生成任何有用的东西.
+* [neuropredict](https://github.com/raamana/neuropredict)  - 针对新手机器学习者和非专家程序员，该软件包在 Python 中为 NeuroImaging 和任何其他类型的功能提供了简单（无需编码）和全面的机器学习（评估和预测性能的完整报告，无需您编码）. 这旨在吸收大部分 ML 工作流程，与 nilearn 和 pymvpa 等其他软件包不同，它们要求您学习它们的 API 和代码以生成任何有用的东西.
 * [imbalanced-learn](https://imbalanced-learn.org/stable/) - 使用各种技术执行欠采样和过采样的 Python 模块.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - Shogun 机器学习工具箱.
 * [Pyevolve](https://github.com/perone/Pyevolve)  - 遗传算法框架.  **[已弃用]**
@@ -1058,7 +1058,7 @@ be
 * [Opytimizer](https://github.com/gugarosa/opytimizer) - 基于 Python 的元启发式优化技术. 
 * [Gradio](https://github.com/gradio-app/gradio)  - 用于快速创建和共享模型演示的 Python 库. 在浏览器中以交互方式调试模型，从合作者那里获得反馈，并在不部署任何东西的情况下生成公共链接.
 * [Hub](https://github.com/activeloopai/Hub)  - TensorFlow/PyTorch 最快的非结构化数据集管理. 流和版本控制数据. 甚至可以将 PB 级数据存储在云上的一个类似 numpy 的数组中，可以在任何机器上访问. 访问 [activeloop.ai](https://activeloop.ai) 了解更多信息.
-* [Synthia](https://github.com/dmey/synthia) - 在 Python 中生成多维合成数据.
+* [Synthia](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 * [ByteHub](https://github.com/bytehub-ai/bytehub)  - 易于使用、基于 Python 的功能存储. 针对时间序列数据进行了优化.
 * [Backprop](https://github.com/backprop-ai/backprop) - 反向传播使最先进的机器学习模型的使用、微调和部署变得简单.
 * [River](https://github.com/online-ml/river)：通用在线机器学习框架.
@@ -1110,7 +1110,7 @@ be
 * [SparklingPandas](https://github.com/sparklingpandas/sparklingpandas) PySpark (POPS) 上的 Pandas.
 * [Seaborn](https://seaborn.pydata.org/) - 基于 matplotlib 的 Python 可视化库.
 * [bqplot](https://github.com/bloomberg/bqplot) - 用于在 Jupyter (IPython) 中绘图的 API.
-* [pastalog](https://github.com/rewonc/pastalog) - Simple, realtime visualization of neural network training performance.
+* [pastalog](https://github.com/rewonc/pastalog) - 神经网络训练性能的简单、实时可视化.
 * [Superset](https://github.com/apache/incubator-superset) - 设计为可视化、直观和交互的数据探索平台.
 * [Dora](https://github.com/nathanepstein/dora) - 在 Python 中进行探索性数据分析的工具.
 * [Ruffus](http://www.ruffus.org.uk) - python的计算管道库.
@@ -1123,7 +1123,7 @@ be
 * [lime](https://github.com/marcotcr/lime)  - Lime 是关于解释机器学习分类器（或模型）正在做什么. 它能够解释任何具有两个或更多类的黑盒分类器.
 * [PyCM](https://github.com/sepandhaghighi/pycm) - PyCM 是一个用 Python 编写的多类混淆矩阵库，它支持输入数据向量和直接矩阵，是一个合适的分类后模型评估工具，支持大多数类和整体统计参数
 * [Dash](https://github.com/plotly/dash) - 用于创建构建在 Plotly.js、React 和 Flask 之上的分析 Web 应用程序的框架
-* [Lambdo](https://github.com/asavinov/lambdo) - 通过结合在一个分析管道中来解决机器学习问题的工作流引擎 (i) 特征工程和机器学习 (ii) 模型训练和预测 (iii) 通过用户定义的 (Python) 函数进行表填充和列评估.
+* [Lambdo](https://github.com/asavinov/lambdo) - 一种用于解决机器学习问题的工作流引擎，通过将 (i) 特征工程和机器学习 (ii) 模型训练和预测 (iii) 表填充和通过用户定义 (Python) 函数进行的列评估结合到一个分析管道中来解决机器学习问题.
 * [TensorWatch](https://github.com/microsoft/tensorwatch)  - 用于机器学习和数据科学的调试和可视化工具. 它广泛利用 Jupyter Notebook 来显示运行过程中数据的实时可视化，例如机器学习训练.
 * [dowel](https://github.com/rlworkgroup/dowel)  - 用于机器学习研究的小记录器. 只需调用一次“logger.log()”，即可将任何对象输出到终端、CSV、TensorBoard、磁盘上的文本日志等.
 
@@ -1148,7 +1148,7 @@ be
 * [Scipy Tutorials](https://github.com/Wavelets/scipy-tutorials)  - SciPy 教程. 这是过时的，请查看 scipy-lecture-notes.
 * [Crab](https://github.com/marcelcaraciolo/crab) - Python 的推荐引擎库.
 * [BayesPy](https://github.com/maxsklar/BayesPy) - Python 中的贝叶斯推理工具.
-* [scikit-learn tutorials](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - 用于学习 scikit-learn 的系列笔记本.
+* [scikit-learn tutorials](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - 一系列用于学习 scikit-learn 的笔记本.
 * [sentiment-analyzer](https://github.com/madhusudancs/sentiment-analyzer) - 推文情绪分析器
 * [sentiment_classifier](https://github.com/kevincobain2000/sentiment_classifier) - 使用词义消歧的情感分类器.
 * [group-lasso](https://github.com/fabianp/group_lasso) - 在（稀疏）组套索模型中使用的坐标下降算法的一些实验.
@@ -1175,6 +1175,10 @@ be
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - 构建数据科学管道的工具.
 * [the-elements-of-statistical-learning](https://github.com/maitbayev/the-elements-of-statistical-learning) - 此存储库包含 Jupyter 笔记本，实现了本书和教科书摘要中的算法.
 * [Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) - 用于机器学习和深度学习算法的超参数调整/优化的代码.
+* [Heart_Disease-Prediction](https://github.com/ShivamChoudhary17/Heart_Disease) - 给定患者的临床参数，我们能否预测他们是否患有心脏病？
+* [Flight Fare Prediction](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - 这基本上是为了衡量对机器学习工作流和回归技术的具体理解.
+
+
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
@@ -1221,7 +1225,7 @@ be
 
 <a name="python-reinforcement-learning"></a>
 #### Reinforcement Learning
-* [DeepMind Lab](https://github.com/deepmind/lab)  - DeepMind Lab 是基于 id Software 的 Quake III Arena 通过 ioquake3 等开源软件构建的 3D 学习环境. 它的主要目的是作为人工智能研究的试验台，尤其是深度强化学习.
+* [DeepMind Lab](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 * [Gym](https://github.com/openai/gym) - OpenAI Gym 是一个用于开发和比较强化学习算法的工具包.
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI)  - Serpent.AI 是一个游戏代理框架，可让您将拥有的任何视频游戏变成沙箱，以开发 AI 和机器学习实验. 对于研究人员和业余爱好者.
 * [ViZDoom](https://github.com/mwydmuch/ViZDoom)  - ViZDoom 允许开发仅使用视觉信息（屏幕缓冲区）玩 Doom 的 AI 机器人. 它主要用于机器视觉学习，特别是深度强化学习的研究.
@@ -1229,7 +1233,7 @@ be
 * [Retro](https://github.com/openai/retro) - 健身房的复古游戏
 * [SLM Lab](https://github.com/kengz/SLM-Lab) - PyTorch 中的模块化深度强化学习框架.
 * [Coach](https://github.com/NervanaSystems/coach) - 英特尔® 人工智能实验室的强化学习教练可以使用最先进的强化学习算法轻松进行实验
-* [garage](https://github.com/rlworkgroup/garage) - 可重复强化学习研究的工具包
+* [garage](https://github.com/rlworkgroup/garage) - 用于可重复强化学习研究的工具包
 * [metaworld](https://github.com/rlworkgroup/metaworld) - 用于元和多任务强化学习的开源机器人基准
 * [acme](https://deepmind.com/research/publications/Acme) - 用于强化学习的开源分布式框架，可以轻松构建和训练您的代理.
 * [Spinning Up](https://spinningup.openai.com) - 旨在让任何人学习成为深度强化学习熟练从业者的教育资源
@@ -1242,7 +1246,7 @@ be
 <a name="ruby-natural-language-processing"></a>
 #### Natural Language Processing
 
-* [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) - 用于 Ruby 中实用自然语言处理的精选链接列表.
+* [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) - 用于在 Ruby 中进行实用自然语言处理的精选链接列表.
 * [Treat](https://github.com/louismullie/treat) - 文本检索和注释工具包，绝对是迄今为止我遇到的最全面的 Ruby 工具包.
 * [Stemmer](https://github.com/aurelian/ruby-stemmer)  - 将 libstemmer_c 暴露给 Ruby.  **[已弃用]**
 * [Raspell](https://sourceforge.net/projects/raspell/)  - raspell 是 ruby​​ 的接口绑定.  **[已弃用]**
@@ -1319,7 +1323,7 @@ be
 * [ElemStatLearn](https://cran.r-project.org/web/packages/ElemStatLearn/index.html) - ElemStatLearn：书中的数据集、函数和示例：Trevor Hastie、Robert Tibshirani 和 Jerome Friedman 的“统计学习、数据挖掘、推理和预测的要素”，Trevor Hastie、Robert Tibshirani 和 Jerome Friedman 的“预测”.
 * [evtree](https://cran.r-project.org/web/packages/evtree/index.html) - evtree：全局最优树的进化学习.
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html) - 预测：使用 ARIMA、ETS、STLM、TBTS 和神经网络模型进行时间序列预测.
-* [forecastHybrid](https://cran.r-project.org/web/packages/forecastHybrid/index.html) - predictHybrid：自动集成和交叉验证 ARIMA、ETS、STLM、TBTS 和“预测”包中的神经网络模型.
+* [forecastHybrid](https://cran.r-project.org/web/packages/forecastHybrid/index.html) -forecastHybrid：自动集成和交叉验证 ARIMA、ETS、STLM、TBTS 和“预测”包中的神经网络模型.
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html) - fpc：灵活的聚类程序.
 * [frbs](https://cran.r-project.org/web/packages/frbs/index.html)  - frbs：用于分类和回归任务的基于模糊规则的系统.  **[已弃用]**
 * [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于似然提升的广义线性和加法模型.  **[已弃用]**
@@ -1357,7 +1361,7 @@ be
 * [quantregForest](https://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest：分位数回归森林.
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest：用于分类和回归的 Breiman 和 Cutler 随机森林.
 * [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC：用于生存、回归和分类的随机森林 (RF-SRC).
-* [rattle](https://cran.r-project.org/web/packages/rattle/index.html) - 拨浪鼓：R 中数据挖掘的图形用户界面.
+* [rattle](https://cran.r-project.org/web/packages/rattle/index.html) - 拨浪鼓：R 中用于数据挖掘的图形用户界面.
 * [rda](https://cran.r-project.org/web/packages/rda/index.html) - rda：收缩质心正则化判别分析.
 * [rdetools](https://cran.r-project.org/web/packages/rdetools/index.html)  - rdetools：特征空间中的相关维度估计 (RDE).  **[已弃用]**
 * [REEMtree](https://cran.r-project.org/web/packages/REEMtree/index.html)  - REEMtree：对纵向（面板）数据具有随机效应的回归树.  **[已弃用]**
@@ -1461,7 +1465,7 @@ be
 * [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) -&gt; 分布式机器学习框架 Apache Spark
 * [ONNX-Scala](https://github.com/EmergentOrder/onnx-scala) - 用于 Scala 中类型化、功能性深度学习的 ONNX（开放神经网络交换）API 和后端 (3).
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/) - 从面向对象和函数式编程构造创建静态类型的动态神经网络.
-* [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
+* [Conjecture](https://github.com/etsy/Conjecture) - 烫伤中的可扩展机器学习.
 * [brushfire](https://github.com/stripe/brushfire) - Scala 中的分布式决策树集成学习.
 * [ganitha](https://github.com/tresata/ganitha)  - 烫伤驱动的机器学习.  **[已弃用]**
 * [adam](https://github.com/bigdatagenomics/adam)  - 使用 Apache Avro、Apache Spark 和 Parquet 构建的基因组处理引擎和专用文件格式.  Apache 2 许可.
@@ -1516,7 +1520,7 @@ be
 
 <a name="tools-neural-networks"></a>
 #### Neural Networks
-* [layer](https://github.com/cloudkj/layer) - 从命令行进行神经网络推断
+* [layer](https://github.com/cloudkj/layer) - 从命令行进行神经网络推理
 
 <a name="tools-misc"></a>
 #### Misc

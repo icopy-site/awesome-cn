@@ -77,6 +77,7 @@
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) Scala 编译器.
   * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) - 基于 ScalaPB 的 JSON 和协议缓冲区转换器 [Argonaut](http://argonaut.io).
 * [sconfig](https://github.com/ekrich/sconfig) - [HOCON](https://github.com/ekrich/sconfig/blob/master/docs/original/HOCON.md) 解析器.
+* [squiggly](https://github.com/edadma/squiggly) - Scala 的跨平台模板语言，灵感来自 Liquid 和 Hugo 模板.
 
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc) - 数据库访问层端口 [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) 到 Scala 原生.

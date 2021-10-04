@@ -51,6 +51,7 @@
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps 是一个 Minecraft mod，增加了一些性能改进.
 - [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - 旨在提高帧速率和减少微卡顿的 Fabric 模块.
 - [Iris (for Fabric)](https://irisshaders.net/) - 基于钠添加着色器支持的织物模型.
+- [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - 允许 Optifine 使用 Fabric 加载器运行的 Fabric 模块.
 
 ### Skins And Capes
 
@@ -80,13 +81,13 @@
 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)  - 最好的技术模组之一，但在游戏后期真的很强大. 添加诸如龙之能量核心之类的东西，目前还没有人能够填充……
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - 一个大型的末影主题模组，只是增加了许多新的有趣的东西.
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft)  - 添加火箭和新行星以供探索的模组. 可通过插件扩展.
-- [OpenComputers](https://ocdoc.cil.li) - OpenComputers 是一个在游戏中添加计算机和机器人的模组，可以在 Lua 5.3 中编程.
+- [OpenComputers](https://ocdoc.cil.li) - OpenComputers is a mod that adds computers and robots into the game, which can be programmed in Lua 5.3.
 - [ComputerCraft](https://www.computercraft.info) - 将基于 Lua（5.2 和 5.3）的计算机添加到 Minecraft.
 - [WarpDrive](https://www.curseforge.com/minecraft/mc-mods/warpdrive)  - 在游戏中添加星际迷航和其他特许经营权，如船舶、武器、运输机等. 还添加了新的行星（维度）.
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam 的 HarvestCraft 是 Minecraft 的一个模组，目前添加了多种农作物和食物.
 - [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) - 一个增加了更复杂的作物系统的模组，比如具有基因突变的能力，还增加了更多的作物.
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) - 基本上添加了一个街区大的迷你林场.
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - 一个很棒的空中方块模组，它过滤沙子和砾石等有用资源，如铁和钻石，与许多模组兼容.
@@ -115,7 +116,7 @@
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - 修复了 Minecraft 代码的各个方面，通常使游戏更快.
 - [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - 显示当前查看的块（较新版本的 Hwyla）.
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) - 显示当前查看的块（Waila 的较新版本）.
-- [WorldInfo](https://www.curseforge.com/minecraft/mc-mods/worldinfo) - Shows the block currently looked at (Waila for Rift).
+- [WorldInfo](https://www.curseforge.com/minecraft/mc-mods/worldinfo) - 显示当前查看的块（Waila for Rift）.
 - [Waila](https://www.curseforge.com/minecraft/mc-mods/waila) - 显示当前查看的块（原始 Waila 项目）.
 - [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - 显示当前查看的块（Waila 的旧版 Minecraft 版本低于 1.6）.
 
@@ -142,13 +143,13 @@
 - [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - 允许将较新的客户端连接到 Minecraft 服务器的旧服务器版本.
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded)  - AdvancedKitsReloaded 是 Minecraft 服务器的套件管理插件，它运行 Bukkit、CraftBukkit、Spigot 和 Paper (&gt;1.8). 使用此插件，您可以轻松创建/编辑/删除您的工具包，您可以根据需要对其进行自定义.
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard 可让您和玩家保护土地区域免受恶意者和不受欢迎的人的侵害，以及调整和禁用 Minecraft 的各种游戏功能.
-- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook 可让您创建神奇的延伸桥、紧凑的红石电路、复杂的矿车机制等等——所有这些都无需客户端 mod 并且完全由服务器自定义.
+- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook 可让您创建神奇的延伸桥、紧凑的红石电路、复杂的矿车机制等等——所有这些都无需客户端 mod，并且可以由服务器完全自定义.
 
 ## Resource Packs
 
 - [BDCraft](https://bdcraft.net/) - 各种漫画风格的资源和声音包，甚至适用于许多模组、基岩版和泰拉瑞亚！
 - [LB Photo Realism Reload](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload) - LB Photo Realism 纹理包的继任者，使 Minecraft 看起来更逼真.
-- [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - 默认 Minecraft UI 的暗模式！
+- [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - Dark Mode for the default Minecraft UIs!
 - [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - 科幻资源包.
 - [Soartex](https://soartex.net/) - 带有模组支持的平滑资源包.
 - [Faithful](https://faithful.team/) - 光滑的纹理，打造出经过翻新的默认外观.

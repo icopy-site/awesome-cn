@@ -131,7 +131,7 @@ _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - FullCalendar 周围的组件包装器.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
 
 ### Maps
@@ -181,6 +181,10 @@ _SSR 框架._
 
 ## Utilities
 
+### Animations
+
+- [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - 适用于 Svelte 应用程序的简单且可重复使用的打字机效果.
+
 ### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - 用于管理表单的轻量级库.
@@ -201,6 +205,7 @@ _SSR 框架._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - 用于集成的存储功能 [i18n](https://www.npmjs.com/package/i18n) 风格定位
 
 ## Routers
 
@@ -268,7 +273,7 @@ _文本编辑器插件._
 
 - [vim-svelte](https://github.com/evanleck/vim-svelte) - Svelte 3 组件的 Vim 语法高亮和缩进.
 - [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - 语法高亮和对 Vim 的支持.
-- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - 语法高亮和对 (Neo)Vim 的支持.
 
 #### JetBrains
 

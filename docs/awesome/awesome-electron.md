@@ -8,7 +8,7 @@
 
  Electron 是一个开源框架，用于使用 Web 技术创建桌面应用程序. 它结合了 Chromium 渲染引擎和 Node.js 运行时.
 
-**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个 repo 中.**
+**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个 repo 中.**
 
 <br>
 
@@ -102,8 +102,8 @@
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - 用于放松或提高工作效率的环境混音器.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - 语音控制的智能镜子.
 - [Koko](https://github.com/hachibasu/koko) - IRC 客户端.
-- [KeeWeb](https://github.com/keeweb/keeweb) - 非官方的 KeePass 应用程序.
-- [Gitify](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
+- [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
+- [Gitify](https://github.com/manosim/gitify) - 菜单栏中的 GitHub 通知.
 - [Friends](https://github.com/moose-team/friends) - P2P 聊天.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - 菜单栏中的 SoundCloud 播放器.
 - [Kitematic](https://github.com/docker/kitematic) - Docker 容器管理.
@@ -235,6 +235,7 @@
 - [Yana](https://github.com/lukasbach/yana) - 带有富文本笔记、嵌套笔记组织和全局搜索的笔记本应用程序.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - 桌面背景的实时卫星图像.
 - [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - 另类史诗游戏启动器.
+- [VIR](https://github.com/TommyX12/VIR) - 具有自动计划功能的智能时间管理器.
 
 ### Closed Source
 
@@ -258,7 +259,7 @@
 - [CatLight](https://catlight.io) - 构建状态通知程序.
 - [Automint](http://automint.in) - 汽车企业的CRM.
 - [Discord](https://discord.com) - 语音和文字聊天.
-- [Cocos Creator](http://cocos2d-x.org/products#creator) - 用于为 Cocos2D-x 创建 Web 和本机游戏的游戏编辑器.
+- [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的 Markdown 笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换比特币和以太坊等区块链资产.
 - [Hackolade](http://hackolade.com) - NoSQL 和多模型数据库的数据建模.
@@ -384,7 +385,7 @@
 - [devtool](https://github.com/Jam3/devtool) - 使用 Chrome DevTools 调试 Node.js.
 - [nativefier](https://github.com/jiahaog/nativefier) - 创建任何网站的应用程序.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - 流包装.
-- [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
+- [Nightmare](http://www.nightmarejs.org) - 高级浏览器自动化库（替代 PhantomJS）.
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从 URL、HTML 或 Markdown 文件生成 PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览 GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在 Electron 中运行 Mocha 测试.

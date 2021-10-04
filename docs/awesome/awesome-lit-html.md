@@ -72,6 +72,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 - [Recreating The Arduino Pushbutton Using SVG And &lt;lit-element&gt;](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
+- [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
 ## Examples
 
@@ -89,7 +90,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - 用于服务器端渲染 Lit 模板和组件的包.
 - [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - 点亮指令让事情动起来.
 - [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - 针对 Web 组件和反应式 Lit 控制器的反应集成.
-- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，它与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
 - [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - 呈现异步任务的 Lit 控制器.
 - [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - 为 Lit 提供虚拟滚动的包.
 
@@ -160,7 +161,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - 单击时显示 CodeSandbox 演示的自定义元素.
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - 使用 qr.js 库生成和呈现 QR 码的自定义元素.
 - [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - 用于创建使用 Lit 构建的 CSS 动画的 Web 组件.
-- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 用于在树视图中可视化 JSON 数据的 Web 组件.
+- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 在树视图中可视化 JSON 数据的 Web 组件.
 - [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Lit 的全功能 JavaScript 图像和视频库.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - 数据表的 Material Design 实现，由 LitElement 提供支持.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - 用于轻松嵌入和播放 Lottie 动画的 Web 组件.

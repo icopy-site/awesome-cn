@@ -202,7 +202,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Visual Studio 2017 的 Ada 语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供一个简单的、类似于脚本世界的“外观和感觉”，同时允许访问像 GNAT 这样的全面开发工具.
+- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供一个简单的、类似于脚本世界的“外观和感觉”，同时允许访问像 GNAT 这样的全面开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源代码的 Gnu Emacs 主要模式.
@@ -254,7 +254,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - 俄罗斯方块，在 Ada，用于 Unity 游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) - 用 SPARK/Ada 编写和验证的井字游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate 是适用于 Windows、OS-X 和 Linux 的星际之门/门户幻想设置中的第一人称 3D 推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏......它看起来像一个rubic 立方体，但它是一个滑块，而不是一个扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) - RufasCube 是一款适用于 Windows、OS-X 和 GNU Linux 的益智游戏……它看起来像一个rubic 立方体，但它是一个滑块，而不是一个扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) - AdaVenture 是一款适合儿童的复古点击游戏，包含迷宫、龙、蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) - 有趣的益智游戏，可在任何操作系统的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
@@ -533,7 +533,7 @@
 ## Hardware and Embedded
 
 #### Frameworks
-- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用 Ada、ARM 和 Lego 的机器人技术.
+- [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 机器人与 Ada、ARM 和 Lego.
 
 #### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - 完整的 Ada + SPARK Crazyflie 2.0 固件的源代码.

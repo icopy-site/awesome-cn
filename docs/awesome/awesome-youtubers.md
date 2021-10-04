@@ -886,7 +886,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 特色播放列表：“Pygame Fundamentals”、“在 Pygame 中创建 Pong”、“通过制作 Flappy Bird 学习 pygame”、“Godot 中的谷歌恐龙跑步者”.
 
 
-## Security
+## Cybersecurity
 
 安全是我们所有人都应该关心的事情. 了解如何保护自己免受攻击者或恶意软件的侵害. 通过道德黑客教程，还可以了解黑客是如何深入了解内部发生的事情的.
 
@@ -965,7 +965,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：网络，CCNA \
-精选播放列表：`全系列|  200-301 CCNA |  2020 年免费思科视频培训 |  Networking Inc.`，`其他网络视频`.
+精选播放列表：`全系列 |  200-301 CCNA |  2020 年免费思科视频培训 |  Networking Inc.`，`其他网络视频`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
 
@@ -1065,7 +1065,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwzTU_31qu-jJKhnKvA2INGIA138gOD3CBB9mB3kA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ArtwithFlo)
 
 [**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容关于：Procreate、Ipad/平板电脑绘图\
+内容关于：Procreate、Ipad/平板电脑绘图 \
 精选播放列表：`PROCREATE TUTORIALS`、`DIGITAL ART TUTORIALS`、`iPad Pro 上的数字绘图| 简单的绘图教程`，`更多播放列表！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
