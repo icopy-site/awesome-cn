@@ -2,16 +2,16 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md)
 
-机器学习软件工程是构建ML应用程序的技术和准则，这些技术和指南与核心ML问题无关-例如开发新算法-而是围绕周围的活动，例如数据提取，编码，测试，版本控制，部署，质量控制，以及团队协作.
-良好的软件工程实践可使用机器学习组件来增强生产级应用程序的开发，部署和维护.
+机器学习软件工程是用于构建 ML 应用程序的技术和指南，这些应用程序不涉及核心 ML 问题（例如新算法的开发），而是涉及数据摄取、编码、测试、版本控制、部署、质量控制等周边活动，以及团队协作.
+良好的软件工程实践使用机器学习组件增强了生产级应用程序的开发、部署和维护.
 
-⭐必须阅读
+⭐ 必读
 
  科学出版物
 
 
 <br>
-基于这些文献，我们对使用机器学习组件的应用程序采用软件工程实践进行了调查.
+基于这些文献，我们编制了一份关于采用机器学习组件的应用程序采用软件工程实践的调查.
 
 
 随意地 [take and share the survey](https://se-ml.github.io/survey) 并 [read more](https://se-ml.github.io/practices)!
@@ -22,7 +22,7 @@
 
 ## Broad Overviews
 
-这些资源涵盖了所有方面.
+这些资源涵盖了方方面面.
 - [AI Engineering: 11 Foundational Practices](https://resources.sei.cmu.edu/asset_files/WhitePaper/2019_019_001_634648.pdf) ⭐
 - [Best Practices for Machine Learning Applications](https://pdfs.semanticscholar.org/2869/6212a4a204783e9dd3953f06e103c02c6972.pdf)
 - [Engineering Best Practices for Machine Learning](https://se-ml.github.io/practices/) ⭐
@@ -68,7 +68,7 @@
 
 ## Deployment and Operation
 
-如何在生产环境中部署和操作模型.
+如何在生产环境中部署和操作您的模型.
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
 - [Building Continuous Integration Services for Machine Learning](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf) 
@@ -91,7 +91,7 @@
 
 ## Social Aspects
 
-如何组织团队和项目，以确保有效的协作和问责制.
+如何组织团队和项目以确保有效的协作和问责制.
 
 - [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf) 
 - [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
@@ -100,7 +100,9 @@
 
 
 ## Governance
+- [A Human-Centered Interpretability Framework Based on Weight of Evidence](https://arxiv.org/pdf/2104.13299.pdf) 
 - [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf) 
+- [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 - [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873) 
 - [Inherent trade-offs in the fair determination of risk scores](https://arxiv.org/abs/1609.05807) 
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
@@ -108,37 +110,37 @@
 
 ## Tooling
 
-工具可以使您的生活更轻松.
+工具可以让您的生活更轻松.
 
-我们仅共享开源工具或提供大量免费研究软件包的商业平台.
+我们只共享开源工具或提供大量免费研究包的商业平台.
 
-- [Airflow](https://airflow.apache.org/) -以编程方式创作，安排和监视工作流程.
-- [Alibi Detect](https://github.com/SeldonIO/alibi-detect) -专注于离群，对抗和漂移检测的Python库.
-- [Archai](https://github.com/microsoft/archai) -神经体系结构搜索.
-- [Data Version Control (DVC)](https://dvc.org/) -DVC是数据和ML实验管理工具.
-- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) -强大的可视化功能有助于理解机器学习数据集.
-- [FairLearn](https://fairlearn.github.io/) -评估和改善机器学习模型公平性的工具包.
-- [Git Large File System (LFS)](https://git-lfs.github.com/) -在Git中用文本指针替换大型文件（例如数据集）.
-- [Great Expectations](https://github.com/great-expectations/great_expectations) -与管道集成的数据验证和测试.
-- [HParams](https://github.com/PetrochukM/HParams) -针对机器学习项目的配置管理的周到方法.
-- [Kubeflow](https://www.kubeflow.org/) -为想要构建和试验ML管道的数据科学家提供的平台.
-- [Label Studio](https://github.com/heartexlabs/label-studio) -具有标准化输出格式的多类型数据标签和注释工具.
-- [LiFT](https://github.com/linkedin/LiFT) -Linkedin公平性工具包.
-- [MLFlow](https://mlflow.org/) -管理ML生命周期，包括实验，部署和中央模型注册表.
-- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)  -简化并自动生成模型卡； 用于模型文档.
-- [Neptune.ai](https://neptune.ai/) -实验跟踪工具将组织和协作带入了数据科学项目.
-- [Neuraxle](https://github.com/Neuraxio/Neuraxle) -类似于Sklearn的框架，用于深度学习项目中的超参数调整和AutoML.
-- [OpenML](https://www.openml.org) -一项包容性运动，旨在建立一个开放的，有组织的在线机器学习生态系统.
-- [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)  -轻巧的PyTorch包装器，用于高性能AI研究. 缩放模型，而不是样板.
-- [Robustness Metrics](https://github.com/google-research/robustness_metrics) -轻量级模块，用于评估分类模型的鲁棒性.
-- [Seldon Core](https://github.com/SeldonIO/seldon-core) -一个MLOps框架，用于在Kubernetes上打包，部署，监视和管理数千个生产机器学习模型.
-- [Spark Machine Learning](https://spark.apache.org/mllib/) -Spark的ML库，其中包含常见的学习算法和实用程序.
-- [TensorBoard](https://www.tensorflow.org/tensorboard/) -TensorFlow的可视化工具包.
-- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) -用于部署生产ML管道的端到端平台.
-- [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation)  -用于探索和验证机器学习数据的库. 与《大期望》相似，但适用于Tensorflow数据.
-- [Weights & Biases](https://www.wandb.com/) -实验跟踪，模型优化和数据集版本控制.
+- [Airflow](https://airflow.apache.org/) - 以编程方式创作、安排和监控工作流程.
+- [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - 专注于异常值、对抗性和漂移检测的 Python 库.
+- [Archai](https://github.com/microsoft/archai) - 神经架构搜索.
+- [Data Version Control (DVC)](https://dvc.org/) - DVC 是一种数据和机器学习实验管理工具.
+- [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - 强大的可视化有助于理解机器学习数据集.
+- [FairLearn](https://fairlearn.github.io/) - 评估和提高机器学习模型公平性的工具包.
+- [Git Large File System (LFS)](https://git-lfs.github.com/) - 用 Git 中的文本指针替换大文件，例如数据集.
+- [Great Expectations](https://github.com/great-expectations/great_expectations) - 与管道集成的数据验证和测试.
+- [HParams](https://github.com/PetrochukM/HParams) - 一种深思熟虑的机器学习项目配置管理方法.
+- [Kubeflow](https://www.kubeflow.org/) - 为想要构建和试验 ML 管道的数据科学家提供的平台.
+- [Label Studio](https://github.com/heartexlabs/label-studio) - 具有标准化输出格式的多类型数据标记和注释工具.
+- [LiFT](https://github.com/linkedin/LiFT) - Linkedin 公平工具包.
+- [MLFlow](https://mlflow.org/) - 管理机器学习生命周期，包括实验、部署和中央模型注册.
+- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)  - 简化和自动化模型卡的生成； 用于模型文档.
+- [Neptune.ai](https://neptune.ai/) - 实验跟踪工具为数据科学项目带来组织和协作.
+- [Neuraxle](https://github.com/Neuraxio/Neuraxle) - 用于深度学习项目中的超参数调整和 AutoML 的类 Sklearn 框架.
+- [OpenML](https://www.openml.org) - 为机器学习建立开放、有组织的在线生态系统的包容性运动.
+- [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)  - 用于高性能 AI 研究的轻量级 PyTorch 包装器. 缩放您的模型，而不是样板.
+- [Robustness Metrics](https://github.com/google-research/robustness_metrics) - 评估分类模型稳健性的轻量级模块.
+- [Seldon Core](https://github.com/SeldonIO/seldon-core) - 一个 MLOps 框架，用于在 Kubernetes 上打包、部署、监控和管理数以千计的生产机器学习模型.
+- [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark 的 ML 库由常见的学习算法和实用程序组成.
+- [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow 的可视化工具包.
+- [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - 用于部署生产 ML 管道的端到端平台.
+- [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation)  - 用于探索和验证机器学习数据的库. 类似于远大期望，但适用于 Tensorflow 数据.
+- [Weights & Biases](https://www.wandb.com/) - 实验跟踪、模型优化和数据集版本控制.
 
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md) 第一
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md) 第一

@@ -27,6 +27,7 @@
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - 您需要/必须了解的有关索引的一切
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
+ - [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - 用于调试性能问题和暴露次优查询的技术和 MongoDB Cloud 功能
 
 ### Books
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/)  - MongoDB 公司提供的高级 MongoDB 提示和技巧. 工程师
@@ -126,7 +127,7 @@
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Laravel 的 Eloquent 模型和查询构建器
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - 存储库实现
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - 基于 PHP Mongo PECL 扩展的 ODM
- - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - 基于 PHPMongo ODM 的迁移工具
+ - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - 官方 PHP 驱动程序
  - [yadm](https://github.com/formapro/yadm) - 快速无模式 ODM
 
@@ -182,7 +183,7 @@ Services:
  - [mongo-connector](https://github.com/yougov/mongo-connector) - 流式复制到 Elasticsearch、Solr 或 MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL 外部数据包装器
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop 连接器
- - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+ - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB 到 Elasticsearch（反之亦然）的迁移工具
  - [MongoMultiMaster](https://github.com/rick446/mmm) - 多主复制
 
 ### Deployment

@@ -129,7 +129,7 @@
 
 ### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
 
- &gt; 在废弃的小屋中寻找庇护所并过夜后，您和您的朋友意识到有人用密码锁锁住了门. 摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以扣除通向自由的组合.
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
@@ -258,7 +258,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  2 |  10 |  30m |
+|       2 |       10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
@@ -334,7 +334,7 @@
 
 ### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
-> In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
+ &gt; 在 Clockwork Wars 中，每个玩家都在一个以幻想蒸汽朋克世界为背景的紧张战争游戏中指挥着一个独特的生物种族. 控制精明的纯种、勤劳的穴居人、强大的犀牛或骄傲的杂种人. 你的目标是打败你的敌人，并通过九轮比赛积累最多的胜利点数. 您通过争夺包含宝贵自然资源的领土的控制权来赚取积分. 要赢得这些战斗，您需要通过夺取村庄并将其发展为城市来获得人力. 投资研究并发现惊人的新技术、部署部队、研究强大的发现、使用间谍活动并征服敌人以赢得比赛！
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/hqnGEUQvqBevvs6vmA_N8Q__itemrep/img/YBF6w9nWSsasYnzP_mQ4drM02-g=/fit-in/246x300/filters:strip_icc()/pic2355823.jpg)
 
@@ -360,7 +360,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 5 |        8 | 30-90m |
+ |  2 - 5 |  8 |  30-90m |
 
 ### [Exploding Kittens](https://explodingkittens.com/)
 
@@ -384,7 +384,7 @@
 
 ### [Commonspoly](https://commonspoly.cc/)
 
- &gt; Commonspoly 是一款有趣的策略和回合制 RPG 游戏，游戏中的玩家共同努力保护他们的世界不被投机者占领. 游戏就像一个人在大富翁游戏中所做的直接相反. 因为在 Commonspoly 中，拥有私人物品是不受欢迎的，将私人物品转化为公共物品或社区所有物品将是玩家的任务. 游戏非常有趣，因为它是一个对抗善恶的坑，其中邪恶由游戏中的投机者角色描绘. 投机者在游戏中四处游荡，并试图破坏防御者的努力. 此外，该游戏是在 Peer Production License 下发布的，可以免费下载并在家打印以玩.
+ &gt; Commonspoly 是一款有趣的策略和回合制 RPG 游戏，游戏中的玩家共同努力保护他们的世界不被投机者占领. 游戏就像一个人在大富翁游戏中所做的直接相反. 因为在 Commonspoly 中，拥有私人物品是不受欢迎的，将私人物品转换为公共物品或社区所有物品将是玩家的任务. 游戏非常有趣，因为它是一个对抗善恶的坑，其中邪恶由游戏中的投机者角色描绘. 投机者在游戏中四处游荡，并试图破坏防御者的努力. 此外，该游戏是在 Peer Production License 下发布的，可以免费下载并在家打印以玩.
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
@@ -481,7 +481,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 4 |        8 |  90m |
+ |  2 - 4 |  8 |  90m |
 
 ### [Stone Age](https://boardgamegeek.com/boardgame/34635/stone-age)
 
@@ -513,6 +513,16 @@
 | ------: | -------: | -----: |
  |  2 - 4 |  7 |  20-30m |
 
+### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
+
+ &gt; 玩家扮演投资者的角色，希望通过在 The Estates 开发建筑物来赚取最多的钱.  The Estates 是一个新的城市开发项目，拥有高端基础设施和为市民营造的现代氛围. 市议会最近批准了 The Estates 的分区图. 它需要两排，每排四栋建筑，位于河流和主街之间. 河对岸的草地仍将是城市的休闲区. 玩家将竞标各种建筑作品并将它们放置在庄园中以谋取利益. 已完成行中的所有建筑物得分为正，而未完成行中的所有建筑物均得分为负. 可能有零个已完成的建筑物行. 最后，得分最高的玩家将赢得庄园！
+
+![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc()/pic4071903.jpg)
+
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
 ### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
 
  &gt; 在这个推理、逻辑和直觉的解谜挑战中，玩家们并肩作战，看看谁能第一个猜出对手的秘密方格. 每个动作回合都会让您更接近于找到隐藏的古老符号. 但要小心； 你的对手可能比你想象的更接近解决你的秘密方块！  Telepathy 棋盘游戏是一款出色的逻辑构建工具，非常适合教育工作者和解谜者. 如果您喜欢数独、Mastermind 或 Battleship，这款游戏适合您.
@@ -617,7 +627,7 @@
 
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
- &gt; One Night Ultimate Werewolf 是一款快节奏的游戏，每个人都可以扮演不同的角色. 在仅仅一个晚上和第二天早上的过程中，玩家将确定其中谁是狼人......希望如此.
+> One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
 
 ![werewolf game image](https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__itemrep/img/qv0WkrvyQumuNtJry2pjodxjZ5k=/fit-in/246x300/filters:strip_icc()/pic1809823.jpg)
 
@@ -627,7 +637,7 @@
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
- &gt; 曾经想玩流行的 Game Show 游戏《谁想成为百万富翁》？ 查看此棋盘游戏版本的《谁想成为百万富翁》. 除了电视摄像机、Regis Philbin 和真钱，这是同一个游戏，包括简单的可笑\$100 问题、生命线和超过 2,000 个问题.
+ &gt; 曾经想玩流行的 Game Show 游戏《谁想成为百万富翁》？ 查看此棋盘游戏版本的《谁想成为百万富翁》. 除了电视摄像机、Regis Philbin 和真钱，这是同一个游戏，包括简单可笑的\$100 问题、生命线和超过 2,000 个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
@@ -698,13 +708,13 @@
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
- &gt; 一开始你认为你在玩古老的大富翁游戏，他们只是添加了一些额外的建筑来做一些扭曲. 但是你玩的时间越长，你就越意识到他们实际上制作了一款全新的游戏. 你一开始的钱比平时多，这让你觉得你会活得更久（也许有点运气）. 现在您可以在购买房产后立即建造，这一事实为游戏带来了如此多的活力. 无需再等待直到您拥有完整的套装，或者因为一位玩家拒绝交易而没有套装. 即使有几个单一的属性，您也可以赢得比赛.
+ &gt; 一开始你认为你在玩古老的大富翁游戏，他们只是添加了一些额外的建筑来做一些扭曲. 但是你玩的时间越长，你就越意识到他们实际上制作了一款全新的游戏. 你一开始的钱比平时多，这让你觉得你会活得更久（也许有点运气）. 现在您可以在购买房产后立即建造，这一事实为游戏带来了如此多的活力. 无需再等待直到您拥有完整的套装，或者因为一位玩家拒绝交易而没有套装. 即使有几个单一的属性，你也可以赢得比赛.
 
 ![Monopoly image](https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg)
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 6 |        8 | 40-75m |
+ |  2 - 6 |  8 |  40-75m |
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 
@@ -778,7 +788,7 @@
 
 ### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
-> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+ &gt; 两个敌对的间谍大师知道 25 名特工的秘密身份. 他们的队友只通过他们的代号认识特工.
 
 在 Codenames 中，两支球队相互竞争，看谁能先与他们的所有特工取得联系. 间谍大师给出一个单词的线索，可以指向黑板上的多个单词. 他们的队友试图猜测正确颜色的单词，同时避免那些属于对方球队的单词. 每个人都想避开刺客.
 
@@ -873,7 +883,7 @@
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
  &gt; 与城市中其他有影响力的家族竞争，通过熟练地使用助手和资源来获得最光荣的头衔. 成功做到这一点的球员成为马拉喀什新的“Obermufti”.
- &gt; 马拉喀什进行三轮比赛，每轮包括四轮. 在每一回合，玩家同时秘密地从屏幕后面选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放置在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，玩家依次选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些从前一轮被卡住但现在已经出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的行动. 行动可以让玩家获得财富，这些财富可以用来换取在城市的影响力. 随着游戏的进行，执行各种动作还可以获得奖励并进一步增强动作. 在游戏结束时得分最多的玩家获胜.
+ &gt; 马拉喀什进行三轮比赛，每轮包括四轮. 在每一回合，玩家同时秘密地从屏幕后面选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放置在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些从前一轮被卡住但现在已经出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的行动. 行动可以让玩家获得财富，这些财富可以用来换取在城市的影响力. 随着游戏的进行，执行各种动作还可以获得奖励并进一步增强动作. 在游戏结束时得分最多的玩家获胜.
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
@@ -921,6 +931,16 @@
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | --------:|
  |  3 - 12 |  10+ |  30m |
+
+### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
+
+ &gt; 一个区域控制游戏，玩家可以使用一组独特的能力控制不同的幻想种族. 目标是征服和控制尽可能多的玩家板并阻止对手的扩张. 当你的种族无法进一步扩张时，你就让它陷入衰退并选择一个新的种族来继续寻求统治地位.
+
+![Small World game image](https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc()/pic428828.jpg)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  2 - 5 |  8 |  40-80m |
 
 ## Contribute
 

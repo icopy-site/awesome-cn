@@ -1,11 +1,12 @@
 <div class="github-widget" data-repo="jaywcjlove/awesome-mac"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 很棒的 Mac
-----
-<!--rehype:style=font-size: 38px; border-bottom: 0; padding-bottom: 20px; padding-top: 26px;--> 
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;--> 
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-mac/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/jaywcjlove/awesome-mac/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
+<!--rehype:style=text-align: center;--> 
 
  现在我们已经变得很大，和最初的想法不同了.
 在这里，我们收集了各种类别的出色 macOS 软件. 随意 **star** 和 **fork**.
@@ -280,7 +281,7 @@
 * [Serial](https://www.decisivetactics.com/products/serial/) - 用于 Mac 的全功能串行终端.
 * [shallow-backup](https://github.com/alichtman/shallow-backup)  - 轻松创建已安装应用程序、点文件等的文本文档.  ![开源软件][OSS图标] ![免费软件][免费软件图标]
 * [silver searcher (ag)](https://github.com/ggreer/the_silver_searcher)  - 类似于ack的代码搜索工具，专注于速度.  [![开源软件][OSS图标]](https://github.com/ggreer/the_silver_searcher) ![免费软件][免费软件图标]
-* [spaceship](https://github.com/denysdovhan/spaceship-prompt)  - 宇航员的 Zsh 提示.  [![开源软件][OSS图标]](https://github.com/denysdovhan/spaceship-prompt) ![免费软件][免费软件图标]
+* [spaceship](https://github.com/denysdovhan/spaceship-prompt)  - 宇航员的 Zsh 提示.  [![开源软件][OSS 图标]](https://github.com/denysdovhan/spaceship-prompt) ![免费软件][免费软件图标]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby)  - 免费的终端工具，使用 TypeScript 构建，深受 Hyper 的启发.  [![开源软件][OSS图标]](https://github.com/Eugeny/terminus) ![免费软件][免费软件图标]
 * [Taskbook](https://github.com/klaussinani/taskbook)  - 命令行栖息地的任务、板和笔记.  [![开源软件][OSS图标]](https://github.com/klaussinani/taskbook) ![免费软件][免费软件图标]
 * [Termius](https://www.termius.com/)  - 免费的终端工具，堪比windows平台上的xshell.  ![免费软件][免费软件图标]
@@ -450,7 +451,7 @@
 * [CloudApp](https://www.getcloudapp.com/)  - 以视线的速度工作.  ![免费软件][免费软件图标]
 * [Gifox](https://gifox.io/)  - Gif 录制和分享.  [![App Store][app-store Icon]](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
 * [Kap](https://getkap.co/)  - 使用网络技术构建的开源屏幕录像机.  [![开源软件][OSS图标]](https://github.com/wulkano/kap) ![免费软件][免费软件图标]
-* [KeyCastr](https://github.com/keycastr/keycastr)  - KeyCastr，一个开源按键可视化工具.  [![开源软件][OSS图标]](https://github.com/keycastr/keycastr) ![免费软件][免费软件图标]
+* [KeyCastr](https://github.com/keycastr/keycastr)  - KeyCastr，一个开源的按键可视化工具.  [![开源软件][OSS图标]](https://github.com/keycastr/keycastr) ![免费软件][免费软件图标]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar)  - 适用于 Mac 的简单屏幕和麦克风录音机.  [![开源软件][OSS 图标]](https://github.com/vishaltelangre/Kyapchar) ![免费软件][免费软件图标]
 * [Licecap](http://www.cockos.com/licecap/)  - 录制您的屏幕并导出为 GIF. 您可以在录制过程中随时更改录制区域.  [![开源软件][OSS图标]](https://github.com/justinfrankel/licecap) ![免费软件][免费软件图标]
 * [Lightshot](https://app.prntscr.com/)  - 获取可自定义屏幕截图的最快方法.  ![免费软件][免费软件图标]
@@ -500,7 +501,7 @@
 #### Collaboration and Team Tools
 
 * [Adium](https://adium.im/)  - 适用于 Mac OS X 的免费即时通讯应用程序.连接到 AIM、MSN、SMPP、雅虎等.  ![免费软件][免费软件图标]
-* [Caprine](https://github.com/sindresorhus/caprine) - Third-party privacy-focused Facebook Messenger app. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Caprine](https://github.com/sindresorhus/caprine)  - 关注第三方隐私的 Facebook Messenger 应用.  ![开源软件][OSS图标] ![免费软件][免费软件图标]
 * [DingTalk](https://www.dingtalk.com/en)  - 全球超过 500 万家企业和组织使用的免费、强大和专业的办公工具.  ![免费软件][免费软件图标]
 * [Discord](https://discordapp.com/) - 面向游戏玩家的多合一语音和文本聊天功能，免费、安全且适用于您的桌面和手机.
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) 基于 Web 的聊天的多协议包装器. 一个应用程序，23 个信使服务.  ![免费软件][免费软件图标]
@@ -801,7 +802,7 @@
 * [skhd](https://github.com/koekeishiya/skhd)  - 适用于 macOS 的简单热键守护程序.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/koekeishiya/skhd)
 * [Strategr](https://khrykin.github.io/strategr/)  - 轻松的时间管理应用程序.  Stategr 可帮助您最大限度地提高工作效率，为您提供最快捷、最有效的方式来安排一天的时间.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/khrykin/StrategrDesktop)
 * [Time Out](https://www.dejal.com/timeout/)  - 简单的休息提醒，如果需要，可以进行微休息和灵活的定制.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
-* [Timing](https://timingapp.com/)  - 用于 Mac 的自动时间和生产力跟踪. 帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间.
+* [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间.
 * [Trello](https://trello.com) - 一种将您的项目组织成看板的协作工具.！[免费软件][免费软件图标][![App Store][app-store 图标]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器.
 * [xScope](http://xscopeapp.com/) - 一套强大的工具，非常适合测量、检查和测试屏幕上的图形和布局.
@@ -904,8 +905,8 @@
 * [RustDesk](https://rustdesk.com/)  - 又一个远程桌面软件.  [![开源软件][OSS图标]](https://github.com/rustdesk/rustdesk) ![免费软件][免费软件图标]
 * [AnyDesk](https://anydesk.com) - 提供跨多台机器的远程访问.
 * [Microsoft Remote Deskto‪p](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)  - 连接到管理员提供的远程 PC 或虚拟应用程序和桌面.  ![免费软件][免费软件图标]
-* [RealVNC](https://www.realvnc.com) - 用于跨桌面和移动设备远程访问的原创和最佳软件.
-* [RoyalTSX](https://www.royalapps.com/ts/mac/features)  - Royal TSX 是系统工程师和其他需要远程访问不同协议系统的 IT 专业人员的理想工具.  ![免费软件][免费软件图标]
+* [RealVNC](https://www.realvnc.com) - 用于跨桌面和移动设备远程访问的原始和最佳软件.
+* [RoyalTSX](https://www.royalapps.com/ts/mac/features) - Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to system with different protocols. ![Freeware][Freeware Icon]
 * [TeamViewer](https://www.teamviewer.com/en)  - 用于远程控制、桌面共享、在线会议、网络会议和计算机之间文件传输的专有计算机软件包.  ![免费软件][免费软件图标]
 
 ## Social Networking

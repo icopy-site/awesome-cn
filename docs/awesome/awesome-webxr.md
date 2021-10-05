@@ -89,6 +89,7 @@
 
 - [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
 - [Construct Arcade](https://constructarcade.com/) - 精选的 WebXR 游戏中心，其中包含来自 Vhite Rabbit 的外部开发人员和内部开发人员的游戏.
+- [Extended Collection](https://extendedcollection.com/)
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
 - [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.
 

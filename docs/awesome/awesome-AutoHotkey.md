@@ -17,20 +17,20 @@
  *有用的 AutoHotkey 库列表. 库是具有一些可重用功能的代码，可以与您自己的代码结合以创建新功能.*
 
 ### Clipboard
-* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip)  - 由 Deo - WinClip 是一个剪贴板操作类，扩展了 AutoHotkey 的剪贴板功能，包括对 RTF、HTML 和图像的支持. 论坛主题： [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
+* [WinClip](http://www.apathysoftworks.com/ahk/WinClip.zip)  - Deo - WinClip 是一个剪贴板操作类，扩展了 AutoHotkey 的剪贴板功能，包括对 RTF、HTML 和图像的支持. 论坛主题： [link](https://autohotkey.com/board/topic/74670-class-winclip-direct-clipboard-manipulations/).
 
 ### Console
 * [AHKonsole](https://github.com/G33kDude/Console)  - 由 G33kdude - 用于控制台支持的基于类的 AutoHotkey 库. 该库使您能够创建一个表示要与之交互的控制台的对象，以及多个控制台缓冲区对象以促进双缓冲. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4955).
 * [LibCon](https://github.com/joedf/LibCon.ahk)  - 由 joedf - 用于控制台支持的 AutoHotkey 库. 该库使您能够编写控制台应用程序并与其他控制台实例交互. 基本上，这个库促进了与编写和与控制台交互有关的任何事情. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=17).
 
 ### <a name="libraries-data-format"></a>Data format
-* [AHK_ctable](https://github.com/hoppfrosch/AHK_cTable) - 由 hoppfrosch - 以表格格式处理字符串的库 - 论坛主题： [link](https://autohotkey.com/board/topic/61256-object-table/://autohotkey.com/board/topic/61256-object-table/page-2?&#entry467816).
+* [AHK_ctable](https://github.com/hoppfrosch/AHK_cTable) - by hoppfrosch - 以表格格式处理字符串的库 - 论坛主题： [link](https://autohotkey.com/board/topic/61256-object-table/://autohotkey.com/board/topic/61256-object-table/page-2?&#entry467816).
 * [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON)  - 由 cocobelgica - AutoHotkey 的 JSON 库. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=627).
 * [CSV](https://github.com/hi5/CSV)  - 由 trueski/kdoske - 使用 CSV 文件和 Listview 函数的库. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34853).
 * [List manipulation functions](http://www.hars.us/SW/List.ahk)  - 由 Laszlo - 操作逗号分隔列表的函数库. 论坛主题： [link](https://autohotkey.com/board/topic/3020-list-manipulation-functions/).
 * [ObjCSV](https://github.com/JnLlnd/ObjCSV/)  - 由 JnLlnd - 将 CSV 文件加载/保存到对象和列表视图函数的库. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=41).
 * [ObjDump/ObjLoad](https://autohotkey.com/boards/viewtopic.php?f=6&t=3573) - 通过 HotKeyIt - 将对象序列化/反序列化到/从变量/内存.
-* [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes)  - by cocobelgica - 序列化/反序列化 AutoHotkey 对象结构. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212).
+* [SerDes](https://github.com/cocobelgica/AutoHotkey-SerDes)  - 由 cocobelgica - 序列化/反序列化 AutoHotkey 对象结构. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4212).
 * [Table](https://github.com/Jim-VxE/AHK-Lib-Table)  - 由 VxE - 以表格 (TSV) 格式和 Listview 函数操作字符串的库. 论坛主题： [link](https://autohotkey.com/board/topic/61540-lib-string-based-table-manipulation-v028/).
 * [XA](https://github.com/hi5/XA)  - 由 trueski/hi5 - 序列化/反序列化数组到/从 XML. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849).
 
@@ -38,22 +38,23 @@
 * [Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade)  - 由 Shambles - 一组函数式编程库.  - 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59253)
 * [HashTable](https://github.com/Shambles-Dev/AutoHotkey-HashTable) - 由 Shambles - AutoHotkey 的哈希表实现.
 * [LibCrypt](https://github.com/ahkscript/LibCrypt.ahk) - 由不同的作者 - 加密和编码功能的集合.
-* [Type_Checking](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - 作者：Shambles - AutoHotkey 的类型检查 - 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857)
+* [Type_Checking](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - 由 Shambles - AutoHotkey 的类型检查 - 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=59857)
 
 ### Database
 * [AHKDb](https://github.com/AHKDb/AHKDb) - 由 AHKDb - 用于制表符分隔数据的数据库库.
 * [ahkDBA](https://github.com/IsNull/ahkDBA)  - 由 IsNull - 一个 OOP-SQL 数据库访问框架. 论坛主题： [link](https://autohotkey.com/board/topic/71179).
-* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB)  - 只有我 - AHK SQLite API 包装器类. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=1064).
-* [Leya - MySQL API](https://github.com/kevgk/Leya) - by kevgk - 在 autohotkey 中使用 MySQL 数据库，而不会将服务器凭据暴露给客户端.
+* [Class_SQLiteDB](https://github.com/AHK-just-me/Class_SQLiteDB)  - 只有我 - AHK SQLite API 包装类. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=1064).
+* [Leya - MySQL API](https://github.com/kevgk/Leya) - 通过 kevgk - 在 autohotkey 中使用 MySQL 数据库，而不会将服务器凭据暴露给客户端.
 
 ### Filesystem
 * [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - 用于检索扩展文件属性的函数.
 
 ### <a name="libraries-graphics"></a>Graphics
 * [GDIp](https://github.com/tariqporter/Gdip/) - by tic - 有助于与 Microsoft 的 gdiplus.dll 交互的全功能库 - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
+* [ImagePut](https://github.com/iseahound/ImagePut)  - 由 iseahound - 用于转换为文件、流、窗口、base64、url、光标、屏幕坐标、剪贴板、指针、句柄等的图像库. 支持 AutoHotkey v1 和 v2.  - 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76301&p=330615)
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) - 更新与 AHK v1.1 和 AHK v2 兼容的上述 GDI+ 库 - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
 * [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-)  - by tic - 使用 gdiplus.dll 在屏幕上搜索图像实例的库. 有关 MasterFocus 的改进版本，请参见该线程的结尾，或查看他 [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
-* [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - GeekDude - 旨在使使用低级 GDI 函数变得简单的类.
+* [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - 作者 GeekDude - 旨在使使用低级 GDI 函数变得简单的类.
 * [Particle System](https://github.com/acorns/Particle-System)  - by tidbit - 一个使用 GDI+ 将粒子添加到 GUI 或屏幕的简单类. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485).
 
 ### <a name="libraries-gui"></a>GUI
@@ -73,7 +74,7 @@
 * [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - 只有我 - 为 Win Vista+ 增强 MsgBox - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
 * [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk)  - 由 cocobelgica - 在窗口事件（WinWaitXXX 异步）上调用函数. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6463)
 * [CGUI](https://github.com/lipkau/CGUI/)  - 作者：ChrisS85 - AutoHotkey 的面向对象的 GUI 库. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
-* [Class_ScrollGUI](https://github.com/AHK-just-me/Class_ScrollGUI)  - 仅由我 - 创建一个可滚动的 GUI 作为 AHK GUI 窗口的父级. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
+* [Class_ScrollGUI](https://github.com/AHK-just-me/Class_ScrollGUI)  - 只有我 - 创建一个可滚动的 GUI 作为 AHK GUI 窗口的父级. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
 
 #### ListBox
 * [LBEX](https://github.com/AHK-just-me/LBEX) - 经过 [just me](https://github.com/AHK-just-me)  - 列表框的实用函数集合. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
@@ -82,18 +83,18 @@
 #### ListView
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/)  - 仅由我 - GUI ListView 的单元格或行的单独背景和/或文本颜色. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
 * [LV_EX](https://github.com/AHK-just-me/LV_EX)  - 只有我 - AHK GUI ListView 控件的一些附加功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
-* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)  - 仅由我 - ListView 控件的单元内编辑. 论坛主题： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
+* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)  - 仅由我 - ListView 控件的单元格内编辑. 论坛主题： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
 * [LV_Rows](https://github.com/Pulover/Class_LV_Rows)  - 由 Pulover - AHK ListView 控件的附加功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
 
 #### Menu
- * [[Lib] 菜单](https://autohotkey.com/boards/viewtopic.php?t=3068) - 只有我 - 一些与 AHK 菜单相关的功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
+ * [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - 只有我 - 一些与 AHK 菜单相关的功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
 
 #### Web
-* [Neutron](https://github.com/G33kDude/Neutron.ahk/)  - 由 G33kDude - 一组用于使用 AutoHotkey 构建基于 HTML 的用户界面的工具. 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865)
+* [Neutron](https://github.com/G33kDude/Neutron.ahk/)  - 作者 G33kDude - 使用 AutoHotkey 构建基于 HTML 的用户界面的一组工具. 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865)
 
 ### Hotkeys
 * [CHotkeyControl](https://autohotkey.com/boards/viewtopic.php?f=6&t=9087) - 通过 evilC - 替换支持鼠标按钮等的 AHK 热键 GuiControl（部分成熟）.
-* [HParse](https://autohotkey.com/board/topic/92805-) - 通过 Avi - 将有意义的快捷键 (Ctrl+X) 转换为 AutoHotkey 语法 (^x) 的功能.
+* [HParse](https://autohotkey.com/board/topic/92805-) - 通过 Avi - 将有意义的快捷方式 (Ctrl+X) 转换为 AutoHotkey 语法 (^x) 的功能.
 
 ### Joystick
 * [CvJoyInterface](https://autohotkey.com/boards/viewtopic.php?t=5705) - 通过 evilC - 使用 AHK 控制 vJoy 虚拟操纵杆.
@@ -112,8 +113,8 @@
 
 ### Networking
 * [AHKhttp](https://github.com/Skiouros/AHKhttp)  - 基本的 HTTP 服务器. 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4890)
-* [AHKsock](https://github.com/jleb/AHKsock)  - 由 TheGood - 基于函数的套接字库. 支持 TCP. 论坛 [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
-* [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) - 由 G33kDude - 使用本机 AutoHotkey 自动化 Google Chrome - 论坛 [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
+* [AHKsock](https://github.com/jleb/AHKsock)  - by TheGood - 基于函数的套接字库. 支持 TCP. 论坛 [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
+* [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) - 由 G33kDude - 使用原生 AutoHotkey 自动化谷歌浏览器 - 论坛 [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
 * [FTP](https://github.com/jNizM/Class_FTP) - 由 jNizM - FTP 会话（类）的 AutoHotkey 包装器 - 论坛 [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=79142&p=344445#p344445)
 * [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-)  - 由 Bentschi - 基于类的套接字库. 支持 TCP 和 UDP.
 * [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - 作者 GeekDude - 基于 Bentschi 的套接字库 - 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
@@ -121,7 +122,7 @@
 * [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - 由 Lipkau - Lib 允许在 AHK 中使用 WinSCP
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
-* [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - 用于在 Excel 中创建图形的库，将图形另存为图像并在 GUI 中显示.
+* [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - Xx7 - 用于在 Excel 中创建图形的库，将图形另存为图像并在 GUI 中显示.
 * [XGraph](https://autohotkey.com/boards/viewtopic.php?t=3492) - 由 SKAN - 用于以图形方式绘制实时数据的函数库.
 * [SVGraph](https://github.com/CapnOdin/SVGraph)  - 由 CapnOdin - SVGraph 为 AutoHotkey 带来图形和图表. 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=23892)
 * [gdiChartLib](https://github.com/nnnik/gdiChartLib)  - 由 nnnik - 用于自动热键的 gdip 图表库. 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=31533)
@@ -138,7 +139,7 @@
  *有用的 AutoHotkey 库分发列表. 图书馆分发系统是为分发图书馆而制作的系统.*
 
 * [ahk-libs](https://github.com/rshipp/ahk-libs) - Ryan Shipp 的图书馆收藏.
-* [ASPDM](https://github.com/ahkscript/ASPDM) - 包/stdlib 分发和管理来自 [ahkscript](https://github.com/ahkscript) 伙计们. 特雷洛 [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
+* [ASPDM](https://github.com/ahkscript/ASPDM) - 包/stdlib 分发和管理从 [ahkscript](https://github.com/ahkscript) 伙计们. 特雷洛 [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 * [pAHKlight](https://github.com/hi5/pAHKlight) - AutoHotkey 库、类、函数和工具的轻量级指南.
 
 ## Scripts
@@ -164,7 +165,7 @@
 * [Unit Converter](https://autohotkey.com/board/topic/39359-unit-converter/)  - 单位转换器具有最常见的英制和科学单位以及从长度到密度再到热导率的最常见量. 还包括物理和数学常数部分.
 
 ### Mouse
-* [EitherMouse](http://www.EitherMouse.com)  - 多个鼠标，单独设置，第二个鼠标上的自动交换鼠标按钮. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3648).
+* [EitherMouse](http://www.EitherMouse.com)  - 多只鼠标，单独设置，在第二只鼠标上自动交换鼠标按钮. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3648).
 * [MouseGestureL](http://www.vector.co.jp/download/file/winnt/util/fh633547.html)  - 通过鼠标手势控制应用程序. 手势和动作可以通过可定制的界面来定义. 英语和日语文档 - 日语主页 [link](http://hp.vector.co.jp/authors/VA018351/mglahk.html)
 * [Radial Menu](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) - 强大的热键、启动器、鼠标手势系统等等（可换肤） - 论坛主题： [link](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
@@ -185,7 +186,7 @@
 * [Min2Tray](http://junyx.breadfan.de/Min2Tray/)  - 最小化窗口到托盘等. 论坛主题： [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
 * [Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps)  - 打开、恢复或最小化所需的 Window 或 Chrome 应用程序. 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63579&p=272220#p272220)
 * [SnapX](https://github.com/benallred/SnapX/releases)  - 通过接管其热键（Win+Left/Right 等）并提供对捕捉位置和大小的更细粒度的控制来增强 Windows/Aero Snap. 适用于多个显示器、分辨率和 DPI 级别.
-* [WindowPadX](https://github.com/hoppfrosch/WindowPadX)  - 在多显示器环境中提供一些有用功能的工具.  _WindowPadX 是 WindowPad 的增强版，最初由 Lexikos 发布，请参阅原始论坛帖子： [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
+* [WindowPadX](https://github.com/hoppfrosch/WindowPadX)  - 在多显示器环境中提供一些有用功能的工具.  _WindowPadX 是 WindowPad 的增强，最初由 Lexikos 发布，请参阅原始论坛帖子： [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
 
 ### Games
 * [Achromatic - ProgressPlatformer](https://github.com/Uberi/ProgressPlatformer/releases)  - 平台游戏. 论坛主题： [link](https://autohotkey.com/board/topic/64529-achromatic-progressplatformer-refined/), GitHub: [link](https://github.com/Uberi/ProgressPlatformer)
@@ -208,7 +209,7 @@
 * [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
 ### Debugging
- * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&amp;t=2116) - 该类旨在简化脚本的调试，从简单的文本处理到输出和记录数据和数组.  GitHub [link](https://github.com/AfterLemon/Class_Console).
+ * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&amp;t=2116) - 这个类旨在简化脚本的调试，从简单的文本处理到输出和记录数据和数组.  GitHub [link](https://github.com/AfterLemon/Class_Console).
 * [Yunit](https://github.com/Uberi/Yunit) - Uberi 和 infogulch - AutoHotkey 的简单单元测试框架.
 
 ### Decompilers
@@ -242,7 +243,7 @@
 * [Syntax Highlighter](https://github.com/aviaryan/highlighter-ahk-zenburn) - AutoHotkey 的传统语法高亮器，默认支持行号.
 
 ### <a name="tools-others"></a>Others
-* [GoTo](https://autohotkey.com/board/topic/95009-) - 任何文本编辑器的插件，可帮助您跳转到活动文件中的标签、热键、热字符串和函数.
+* [GoTo](https://autohotkey.com/board/topic/95009-) - 任何文本编辑器的插件，可帮助您跳转到活动文件中的标签、热键、热字串和函数.
 * [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - 允许跳转到 AHK 源代码中的令牌的插件.
 * [Context sensitive help in any editor](https://autohotkey.com/board/topic/94493-) - 通过按 F1 提供上下文相关帮助的任何文本编辑器的插件.
 * [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) - GeekDude - 一个轻量级的动态代码测试器.
@@ -252,9 +253,9 @@
 * [WinSpy](https://autohotkey.com/boards/viewtopic.php?f=6&t=28220) - 由 Alguimist - 用 AHK 编写的有用的窗口间谍/信息工具.
 
 ### (Use in) other programming languages
-* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - 的一部分 [AutoHotkey_H](#autohotkey_h) 分配. 从您的其他语言加载 autohotkey.dll，并将正常的 AHK 代码传递给 dll 文件以供执行. 见这里的列表 [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm) . 一些较旧的链接： [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
+* [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - 的一部分 [AutoHotkey_H](#autohotkey_h) 分配. 从您的其他语言加载 autohotkey.dll，并将正常的 AHK 代码传递给 dll 文件以供执行. 请参阅此处以获取列表 [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm) . 一些较旧的链接： [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
-* [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - 为活动脚本语言（如 VBScript 和 JScript）提供接口，而不依赖于 Microsoft 的 ScriptControl，后者不适用于 64 位程序.
+* [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - 为 VBScript 和 JScript 等活动脚本语言提供接口，不依赖 Microsoft 的 ScriptControl，后者不适用于 64 位程序.
 * [Exo-Javascript](https://github.com/Aurelain/Exo) - 用 Ja​​vaScript 编写 AHK - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI（交互式命令行） [link](https://github.com/joedf/Exo-CLI.ahk).
 * [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *注：可以找到lua.ahk和lua_ahkfunctions.ahk [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 * [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - 教程 [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
