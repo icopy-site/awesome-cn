@@ -14,7 +14,7 @@
 #### React General Resources
 
 - [React Official Website](https://reactjs.org/)
-- [React Documentation](https://reactjs.org/docs)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React GitHub](https://github.com/facebook/react)
 
 #### React Community

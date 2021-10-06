@@ -49,7 +49,7 @@
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 - [Checkov](https://www.checkov.io/) - Terraform（基础设施即代码）的静态分析，以帮助检测 CIS 策略违规并防止云安全配置错误.
-- [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过 Kubernetes 指标等运行时数据进行丰富，从而检测容器化应用程序、主机和网络数据包流中的异常活动.
+- [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过运行时数据（例如 Kubernetes 指标）来检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用轻量级虚拟机保护容器运行时，这些虚拟机的感觉和性能类似于容器，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
 - [Prowler](https://github.com/toniblyx/prowler) - 基于 AWS-CLI 命令的工具，用于 Amazon Web Services 帐户安全评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - 开源多云安全审计工具，可对云环境进行安全态势评估.
@@ -77,7 +77,7 @@
 - [certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor) - 将 TLS 证书的到期时间公开为 Prometheus 指标的实用程序.
 - [k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes 的工作负载策略实施工具.
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) - 允许集群管理员转储正在运行的 pod 及其所有容器的当前状态，以便安全专业人员可以执行离线取证分析.
-- [kube-hunter](https://kube-hunter.aquasec.com/) - 开源工具，可以从集群外部（“攻击者的观点”）或集群内部针对 Kubernetes 集群中的安全问题运行一组测试（“猎人”）.
+- [kube-hunter](https://kube-hunter.aquasec.com/) - 从外部（“攻击者的观点”）或集群内部针对 Kubernetes 集群中的安全问题运行一组测试（“猎人”）的开源工具.
 - [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - 允许将经常错过的 Kubernetes 事件导出到各种输出，以便它们可用于可观察性或警报目的.
 
 ### Service meshes
@@ -355,6 +355,7 @@
 
 - [Certbot](https://certbot.eff.org/) - 自动发布和更新 TLS 证书的免费工具 [LetsEncrypt Root CA](https://letsencrypt.org/) 带有配置各种 Web 和电子邮件服务器软件的插件.
 - [Innernet](https://github.com/tonarino/innernet) - 在引擎盖下使用 WireGuard 的专用网络系统.
+- [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) - 用于服务器端检测 TLS 拦截事件的 Golang 库.
 - [Nebula](https://github.com/slackhq/nebula) - 可扩展的覆盖网络工具，专注于性能、简单性和安全性.
 - [OpenVPN](https://openvpn.net/) - 开源、基于 SSL/TLS 的虚拟专用网络 (VPN).

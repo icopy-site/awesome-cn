@@ -47,6 +47,7 @@
 
 ## Languages
 
+- [Drops](https://languagedrops.com/) - 以您选择的语言，通过有趣的游戏学习有用的单词和短语.
 - [Duolingo](https://www.duolingo.com/) - 免费学习西班牙语、法语和其他语言.
 
 ## Math & Computer Science

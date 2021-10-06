@@ -18,7 +18,7 @@
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - 可以轻松构建可扩展的容错流应用程序.
-- [Apache Storm](https://github.com/apache/storm)  [Clojure/Java] - 分布式实时计算系统.  Storm 之于流处理，就像 Hadoop 之于批处理一样. 
+- [Apache Storm](https://github.com/apache/storm)  [Clojure/Java] - 分布式实时计算系统.  Storm 之于流处理就像 Hadoop 之于批处理一样. 
 - [AthenaX](https://github.com/uber/AthenaX) [Java] - 生产中使用的 Uber 流分析框架
 - [Faust](https://github.com/robinhood/faust) [Python] - 流处理库，将思想从 Kafka Streams 移植到 Python
 - [Gearpump](https://github.com/gearpump/gearpump) [Scala] - 基于 Akka 构建的轻量级实时分布式流引擎.
@@ -28,7 +28,7 @@
 - [mantis](https://github.com/Netflix/mantis) [Java] - Netflix 构建实时流处理应用生态系统的平台
 - [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala/Java] - 用于处理快速/流数据的 mapReduce 风格的框架.
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure] - 分布式、无主、高性能、容错数据处理.
-- [s4](https://github.com/apache/incubator-s4) [Java] - 通用、分布式、可扩展、容错、可插拔的平台，允许程序员轻松开发应用程序来处理连续的无界数据流.
+- [s4](https://github.com/apache/incubator-s4) [Java] - 通用、分布式、可扩展、容错、可插拔的平台，允许程序员轻松开发用于处理连续无界数据流的应用程序.
 - [SABER](https://github.com/lsds/Saber) [Java/C] - 基于窗口的混合 CPU/GPU 流处理引擎.
 - [Scramjet Transform Hub](https://github.com/scramjetorg/transform-hub) [JavaScript/Node.js] - 用于运行用 JavaScript 或 TypeScript 编写的多个数据处理应用程序（序列）的数据处理引擎  
 - [SPQR](https://github.com/ottogroup/SPQR) [Java] - 通过管道处理大量数据流的动态框架.
@@ -46,15 +46,16 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Apache Kafka Streams](https://github.com/apache/kafka) [Java] - Apache Kafka 中包含的轻量级流处理库（从 0.10 版本开始）.
 - [Akka Streams](https://github.com/akka/akka) [Scala] - Akka Actors 上的流处理库. 
 - [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos 是一种高性能且有弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作、转换和过滤器
-- [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合流 I/O 库.
+- [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合式、流式 I/O 库.
 - [monix](https://github.com/monix/monix) [Scala] - 用于编写异步和基于事件的程序的高性能 Scala / Scala.js 库.
 - [Scramjet Framework](https://github.com/scramjetorg/scramjet) - 在 Node.js 对象流之上编写的函数式反应流编程框架.
 - [Streamline](https://github.com/hortonworks/streamline)  [Java] - Hortonworks 的流分析框架，设计为围绕现有流解决方案（如 Storm）的包装器. 旨在允许用户拖放流式组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python] - Airbnb 的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala] - 用于 Scala 的轻量级反应流基础设施工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python] - 用于构建管道以管理连续数据流的轻量级库； 支持涉及分支、连接、流量控制、反馈、背压等的复杂管道.
-- [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - 一个完全可嵌入的数据流引擎和 Java 流处理 API.
+- [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - A fully embeddable data streaming engine and stream processing API for Java.
 - [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 Python 库. 支持使用模拟复杂事件处理器的 python 生成器构建的同步、反应性数据流，以及延迟评估的非循环图和功能性柯里化流.
+- [YoMo](https://github.com/yomorun/yomo)  [Go] - 用于构建低延迟地理分布式系统的开源流无服务器框架.  YoMo 建立在上面 [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) 和函数式反应式编程接口. 
 
 ### Streaming Application
 
@@ -73,11 +74,11 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [coast](https://github.com/bkirwi/coast) [Scala] - 一种在 Samza 之上构建 DAG 并提供仅一次语义的 DSL.
 - [Esper](https://github.com/espertechinc/esper) [Java] - 用于复杂事件处理 (CEP) 和事件序列分析的组件.
 - [Streamparse](https://github.com/Parsely/streamparse) [Python] - 允许您通过 Apache Storm 针对实时数据流运行 Python 代码.
-- [summingbird](https://github.com/twitter/summingbird) [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
+- [summingbird](https://github.com/twitter/summingbird) [Scala] - 允许您编写看起来像原生 Scala 或 Java 集合转换的 MapReduce 程序的库，并在许多著名的分布式 MapReduce 平台上执行它们，包括 Storm 和 Scalding.
 
 ### Data Pipeline
 
-- [Apache Kafka](https://github.com/apache/kafka) [Scala/Java] - 分布式、分区、复制提交日志服务，它提供消息传递系统的功能，但具有独特的设计.
+- [Apache Kafka](https://github.com/apache/kafka) [Scala/Java] - 分布式、分区、复制提交日志服务，提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java] - 分布式发布-订阅消息平台，具有非常灵活的消息模型和直观的客户端 API.
 - [brooklin](https://github.com/linkedin/Brooklin/) [Java] - 一个分布式系统，用于在各种异构源和目标系统之间流式传输数据，具有高可靠性和来自 Linkedin（取代数据总线）的大规模吞吐量.
 - [camus](https://github.com/linkedin/camus) [Java] - Linkedin 的 Kafka -&gt; HDFS 管道.
@@ -108,7 +109,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C] - 一个开源关系数据库，它在流上连续运行 SQL 查询，以增量方式将结果存储在表中.
 - [squall](https://github.com/epfldata/squall) [Java] - Squall 在 Storm 之上执行 SQL 查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java] - 实时计算系统上的连续查询语言.
-- [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 云原生、源代码可用 [database](https://ksqldb.io/) 专为流处理应用程序构建
+- [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 云原生、源代码可用 [database](https://ksqldb.io/) 专为流处理应用程序而构建
 - [Materialize](https://materialize.com) [Rust] - 一个源可用的流式 SQL 引擎，用于维护来自消息代理和数据库的数据的物化视图.
 - [Siddhi](https://github.com/siddhi-io/siddhi) [Java] - 云原生流和复杂事件处理引擎，了解流 SQL 查询，以便从不同数据源捕获事件、处理它们、检测复杂条件并将输出实时发布到各种端点.
 
@@ -145,7 +146,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 泰勒·阿基道. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) 作者：Josh Fischer &amp; Ning Wang
-5. [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/) 作者：鲁文·拉克斯、斯拉瓦·切尔尼亚克和泰勒·阿基道
+5. [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/) 作者：Reuven Lax、Slava Chernyak 和 Tyler Akidau
 
 ## License
 

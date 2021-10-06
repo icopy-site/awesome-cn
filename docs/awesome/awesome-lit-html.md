@@ -34,11 +34,12 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 ## Starter Templates
 
-- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用 LitElement 和 JavaScript 的示例组件.
+- [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) - 使用带有 JavaScript 的 LitElement 的示例组件.
 - [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) - 使用 LitElement 和 TypeScript 的示例组件.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 使用 Lit 用 TypeScript 编写的简单入门 Web 组件.
 - [Lit Sass JavaScript Starter](https://github.com/e111077/lit-sass-js-starter) - 使用 Rollup 对 SASS + JS + Lit 进行简单设置的项目.
 - [Lit Sass TypeScript Starter](https://github.com/e111077/lit-sass-ts-starter) - 使用 Rollup 对 SASS + TS + Lit 进行简单设置的项目.
+- [Lit Webpack Starter](https://github.com/andrewlevada/webpack-lit-template) - 使用 Webpack 的带有 Lit 和 Typescript 的多页应用程序的启动器.  
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - 基于 Open Web Components Recommendations 的入门应用程序.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - PWABuilder pwa-starter 的 LitElement 版本.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - 按照现代 Web 标准构建渐进式 Web 应用程序.
@@ -90,7 +91,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`@lit-labs/ssr`](https://www.npmjs.com/package/@lit-labs/ssr) - 用于服务器端渲染 Lit 模板和组件的包.
 - [`@lit-labs/motion`](https://www.npmjs.com/package/@lit-labs/motion) - 点亮指令让事情动起来.
 - [`@lit-labs/react`](https://www.npmjs.com/package/@lit-labs/react) - 针对 Web 组件和反应式 Lit 控制器的反应集成.
-- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，它与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
+- [`@lit-labs/scoped-registry-mixin`](https://www.npmjs.com/package/@lit-labs/scoped-registry-mixin) - LitElement 的 Mixin，与推测性的 Scoped CustomElementRegistry polyfill 集成以评估提案并促进反馈.
 - [`@lit-labs/task`](https://www.npmjs.com/package/@lit-labs/task) - 呈现异步任务的 Lit 控制器.
 - [`@lit-labs/virtualizer`](https://www.npmjs.com/package/@lit-labs/virtualizer) - 为 Lit 提供虚拟滚动的包.
 
@@ -130,7 +131,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 自定义元素符合 Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - 用于创建使用 lit-html 和 LitElement 构建的界面的 Web 组件.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - chartjs 的 Web 组件.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs 的 Web 组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [ESP Web Tools](https://github.com/esphome/esp-web-tools) - 允许通过浏览器刷入 ESPHome 或其他基于 ESP 的固件.
@@ -161,7 +162,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) - 单击时显示 CodeSandbox 演示的自定义元素.
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - 使用 qr.js 库生成和呈现 QR 码的自定义元素.
 - [`<helium-animated-pages>`](https://github.com/alangdm/helium-animated-pages) - 用于创建使用 Lit 构建的 CSS 动画的 Web 组件.
-- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 在树视图中可视化 JSON 数据的 Web 组件.
+- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 用于在树视图中可视化 JSON 数据的 Web 组件.
 - [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) - Lit 的全功能 JavaScript 图像和视频库.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) - 数据表的 Material Design 实现，由 LitElement 提供支持.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - 用于轻松嵌入和播放 Lottie 动画的 Web 组件.
@@ -175,7 +176,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 ### Building
 
 - [babel-plugin-lit-property-types-from-ts](https://www.npmjs.com/package/babel-plugin-lit-property-types-from-ts) - Babel 插件，用于根据 TypeScript 类型注释为 Lit 组件中声明的反应性属性设置 `type`.
-- [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - 用于缩小标记模板字符串中的 HTML 的 Babel 插件.
+- [babel-plugin-template-html-minifier](https://www.npmjs.com/package/babel-plugin-template-html-minifier) - Babel plugin for minifying HTML in tagged template strings.
 - [esbuild-plugin-lit-css](https://www.npmjs.com/package/esbuild-plugin-lit-css) - ESBuild 插件将 css 文件导入为 JavaScript 标记模板文字对象.
 - [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack 加载器将 css 文件作为 JavaScript 标记模板文字对象导入.
 - [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - 用于将 CSS/SCSS 导入 Lit 组件的 Webpack 加载器.
@@ -194,7 +195,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 - [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - lit-html 模板字符串的语法高亮和智能感知.
 - [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - lit-html 的语法高亮、类型检查和代码完成.
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode 扩展，它为 ES6 多行字符串中的 HTML 提供语法高亮显示.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - 标记模板文字内 HTML 的语法突出显示和缩进.
 
 ### TypeScript Plugins
 
@@ -204,7 +205,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 ### Other Tools
 
 - [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - 用于为 Web 组件生成 API 文档的 CLI 工具.
-- [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于纯 Web 组件片段的 UI 开发环境.
+- [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于普通 Web 组件片段的 UI 开发环境.
 - [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - 与 lit-html 模板文字兼容的 Web 组件的 Codemods.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) - 用于使用 Web 组件的开发人员的浏览器扩展.
 - [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - 用于生成、构建、测试和发布 Web 组件的 CLI 工具.
@@ -267,7 +268,7 @@ lit-html 创作者 Justin Fagnani 的一集.
 
 - [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但用于标准 Web 组件和 hyperHTML 或 lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
-- [hybrids](https://github.com/hybridsjs/hybrids) - 用于创建具有简单和功能 API 的 Web 组件的 UI 库.
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.
 
 ## Other awesome resources

@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-该页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+此页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -8,7 +8,7 @@
 
 这个列表最初是一个克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 来自 Karan Bhangui 和 George Stocker 的贡献.
 
-该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/), 拥有 200,000 多个星星、6100 多个提交、1600 多个贡献者和 43,000 多个分支.
+该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/), 拥有 200,000+ 颗星、6100+ 次提交、1600+ 贡献者和 43,000+ 次分叉.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这是一个非营利组织，致力于促进免费电子书的创建、分发、存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会在美国可以免税.
 
@@ -96,6 +96,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pt_BR.md)
 + [Portuguese (Portugal)](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pt_PT.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ru.md)
++ [Sinhala / සිංහල](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-sl.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-es.md)
 + [Thai / ภาษาไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-tr.md)
