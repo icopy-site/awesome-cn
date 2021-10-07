@@ -67,11 +67,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.1
 
-- [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue is a local multiplayer strategy game inspired by Labyrinth.
+- [Rapid Rescue](https://github.com/Azza292/RapidRescue) - Rapid Rescue 是一款受迷宫启发的本地多人策略游戏.
 
 #### Godot 3.0
 
-- [Meteorite](https://github.com/Bauxitedev/meteorite) - 受银河战士 Prime 启发的低分辨率银河战士 FPS，为 LOWREZJAM 2018 制作.
+- [Meteorite](https://github.com/Bauxitedev/meteorite) - 受银河战士 Prime 启发的低分辨率银河恶魔城 FPS，为 LOWREZJAM 2018 制作.
 
 #### Godot 2.1
 
@@ -159,12 +159,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix 框架 (Godot 3.*) 的 Channels API 的 GDScript 和 Godot 引擎实现.
 - [Godot Recipes](http://godotrecipes.com/) - 大量的教程和技术，无论大小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
-- [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，可以将 SQLite 数据库用作项目中的数据存储（Godot 3.2+）.
+- [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 文本界面引擎来控制文本输出（就像在 RPG 对话中一样）（Godot 2.x、3.x）.
 - [gterm](https://github.com/TeddyDD/gterm) - 绘制类似于 \*nix 终端模拟器（Godot &gt;= 2.1）的 GUI 控件.
 - [GUT](https://github.com/bitwes/Gut) - 在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘制、着色、孔洞、细节层次和草丛 (Godot 3.x).
 - [InGrid](https://github.com/Larpon/ingrid) - 无限滚动网格（Godot 3.x）.
+- [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster 软件的脚本和编辑器插件.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 对话系统和编辑器相当可定制，非常适合故事驱动的游戏（Godot 3.x）.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 滚动背景节点（Godot 2.1,3.x）.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 通知中心（Godot 3.x）.
@@ -176,8 +177,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3.2+
 
 - [Cartographer](https://github.com/awkwardpolygons/cartographer) - 基于高度图的 3D 地形编辑器.
-- [CSG Mesh Exporter (.OBJ)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
-- [Debanding Material Shader](https://github.com/fractilegames/godot-gles2-debanding-material) - 添加了去带噪声的简单材质着色器，用于 GLES2 渲染器，因为它不支持全屏去带.
+- [CSG Mesh Exporter (.OBJ)](https://github.com/mohammedzero43/CSGExport-Godot) - 将 CSG 节点导出到 OBJ 网格以提高编辑性能.
+- [Debanding Material Shader](https://github.com/fractilegames/godot-gles2-debanding-material) - 简单的材质着色器，添加了去带噪声，用于 GLES2 渲染器，因为它不支持全屏去带.
 - [Code Snapshot](https://github.com/fenix-hub/godot-engine.code-snapshot) - 一个插件，可让您在编辑器中对代码进行美化截图.
 - [Delaunator GDScript](https://github.com/hiulit/Delaunator-GDScript) - 用于二维点的 Delaunay 三角剖分的 GDScript 库.
 - [Dialogic](https://github.com/coppolaemilio/dialogic) - 创建对话、角色和场景以显示对话.
@@ -187,7 +188,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用 libccd 在 Godot 中进行快速 3D 碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - detour/detourcrowd 库的 GDNative 实现.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与 godotcord 之类的自定义引擎模块相反）.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - Discord Game SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与 godotcord 之类的自定义引擎模块相反）.
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - 允许玩家使用他们的移动设备作为控制器.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
@@ -265,7 +266,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Flash Module](https://github.com/funexpected/godot-flash-module) - 在 Godot 中使用 Adob​​e Animate (Flash) 项目.
 - [GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - 将您的 Godot 项目放入 OpenAI Gym 环境中，以使用 PyTorch 训练 RL 模型.
 - [godotcord](https://github.com/drachenfrucht1/godotcord) - 包装器 [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - 用于在 Godot 中使用 Apple 登录的模块.
+- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 - [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个港口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 对于戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用包装方法和 Godot 友好类型 [PortAudio](http://www.portaudio.com).

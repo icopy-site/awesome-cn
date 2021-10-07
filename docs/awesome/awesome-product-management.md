@@ -57,9 +57,9 @@ Markdown 格式的笔记，具有基于标签的组织功能.
  | 物业 | 价值 |
 |-----------|-----------------------------------------------------------------------------------------|
  | 开发商 | [Kaleidos](https://kaleidos.net/)                                                       |
- | 成本 | 免费（自托管）或 [Freemium](https://www.taiga.io/)|
+ | 成本 | 免费（自托管）或 [Freemium](https://tree.taiga.io/)|
  | 平台 |  macOS、Windows、iOS、Android、Web |
- | 网址 |  https://www.taiga.io/ |
+ | 网址 |  https://tree.taiga.io |
 
 ### To-Do
 
@@ -87,12 +87,12 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Balsamiq
 
-线框图工具，允许构建模拟而无需特别关注细节. 对于您不希望其他人过度索引像素而是专注于内容的情况，这非常有用.
+线框图工具，允许构建模拟而无需特别关注细节. 在您不希望其他人过度索引像素而是专注于内容的情况下非常有用.
 
  | 物业 | 价值 |
 |-----------|------------------------------------------------|
  | 开发商 | [Balsamiq Studios, LLC](https://balsamiq.com/) |
- | 成本 | 付费（_$89/人 - 永久许可证_）|
+ | 成本 | 付费 (_$89/人 - 永久许可证_) |
  | 平台 |  macOS、Windows、网络 |
  | 网址 |  https://balsamiq.com/ |
 
@@ -137,12 +137,12 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Notejoy
 
-一个简单、直观的协作笔记应用程序，可让您专注于笔记而不是围绕笔记的过程.
+A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
 
  | 物业 | 价值 |
 |-----------|--------------------------------------------------------------------|
  | 开发商 | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
- | 成本 | 免费增值 (_$0-12/月_) |
+ | 成本 | 免费增值 (_$0-12/month_) |
  | 平台 |  macOS、Windows、iOS、Android、网络 |
  | 网址 |  https://notejoy.com |
 
@@ -197,7 +197,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - 经过 [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - 经过 [Marty Cagan](https://svpg.com/author/marty/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - 杰克·埃奇（Jake Edge）.
-- [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - By Notion Team.
+- [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - 由 Notion 团队提供.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 经过 [Philipp Cannons](https://twitter.com/pcannons).
 - [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - 经过 [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
@@ -213,9 +213,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - 经过 [Hubert Palan](https://twitter.com/hpalan).
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - 经过 [Clint Fontanella](https://twitter.com/ClontFont).
-- [What Makes a Great Product Manager](https://informedpm.com/posts/great-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 经过 [Glenn Gillen](https://twitter.com/glenngillen).
-- [Persuasion for Product Managers](https://informedpm.com/posts/persuasion-product-manager) - 经过 [John Yeung](https://twitter.com/jhlyeung).
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - 经过 [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://twitter.com/christineitwaru).
 - [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - 经过 [Ken Norton](https://twitter.com/kennethn).
@@ -255,7 +253,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 
  | 播客 | 主持人 | 网址 | 说明 |
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpg" width="100px" />  | 里德霍夫曼 |  https://mastersofscale.com/ | 公司如何从零增长到亿万？ 硅谷传奇投资人/企业家里德霍夫曼与著名创始人一起检验他的理论. 嘉宾包括 Facebook 的 Mark Zuckerberg 和 Sheryl Sandberg、Netflix 的 Reed Hastings、谷歌的 Eric Sc​​hmidt、Spanx 的 Sara Blakely. 凭借原创音乐和令人捧腹大笑的真实故事，该节目听起来就像您从未听过的一样.  |
+| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpg" width="100px" />  | 里德霍夫曼 |  https://mastersofscale.com/ | 公司如何从零增长到亿万？ 硅谷传奇投资人/企业家里德霍夫曼与著名创始人一起检验他的理论. 嘉宾包括 Facebook 的 Mark Zuckerberg 和 Sheryl Sandberg、Netflix 的 Reed Hastings、谷歌的 Eric Sc​​hmidt、Spanx 的 Sara Blakely. 凭借原创音乐和令人捧腹大笑的真实故事，该节目听起来是您从未听说过的.  |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />         | 多个 |  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787 | 这是您的产品管理播客，其中包括来自 Google、Facebook、LinkedIn、Spotify、Twitter 和其他科技公司/初创公司的 PM. 如果您是想要学习最新最佳实践的经理、设计师、工程师、企业家或营销人员，请收听.  |
 | <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                    | 多个 |  https://www.gimletmedia.com/startup | 您永远听不到的商业起源故事.  |
 | <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        | 盖伊·拉兹 |  https://www.npr.org/podcasts/510313/how-i-built-this |  Guy Raz 深入探讨了一些世界上最著名的公司背后的故事. 我是如何建立这本书编织了一段关于创新者、企业家和理想主义者以及他们所建立的运动的叙事旅程.  |
@@ -274,7 +272,7 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 超过 3 天的时间，与会者将向知名产品领导者学习，并分享他们用于构建、发布和扩展世界一流软件产品的最新方法、工具和框架. 构建世界一流的软件产品很难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用于构建、发布和扩展世界一流软件产品的最新方法、工具和框架. 构建世界一流的软件产品是很困难的. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年举办五次，在旧金山、洛杉矶、纽约、西雅图和伦敦举办活动. 演讲者阵容包括来自谷歌、Slack、亚马逊、Airbnb、Netflix、Facebook 等的产品领导者. 您将学习最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司进行互动.
 
 ## Additional resources

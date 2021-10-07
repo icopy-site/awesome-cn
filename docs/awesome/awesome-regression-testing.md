@@ -34,7 +34,7 @@
 ## Tools and frameworks
 
 - [OSnap](https://github.com/eWert-Online/osnap) - 适用于您的项目的快速且易于使用的快照测试工具（1200 个快照将在 3 分钟内运行）.
-- [basset](https://basset.io)  - 用于生成和查看视觉差异的开源平台. 支持多种浏览器，集成 github 和 slack.
+- [basset](https://basset.io)  - 用于生成和查看视觉差异的开源平台. 支持多个浏览器，集成 github 和 slack.
 - [AyeSpy](https://github.com/newsuk/ayespy) - 90 秒内进行 44 次图像比较.
 - [Wraith](https://github.com/BBC-News/wraith) - 具有 docker 支持的易于使用的 ruby​​ 工具.
 - [BackstopJS](https://github.com/garris/BackstopJS) - 配置驱动的自动截图测试框架.
@@ -79,7 +79,7 @@
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com)  - 开源免费. 支持 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-- [LambdaTest](https://www.lambdatest.com/) - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.
+- [LambdaTest](https://www.lambdatest.com/) - 在线对 2000 多个真实浏览器和操作系统执行自动和实时交互式跨浏览器测试.
 - [screener.io](https://screener.io) - 对于 React，看起来是开源的.
 - [applitools](https://applitools.com) - 基于云的视觉测试.
 - [percy.io](https://percy.io) - 对网络应用程序的持续视觉审查.
@@ -121,6 +121,9 @@
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - 如何使用 BackstopJS 对 Hugo 进行自动化回归测试
 - [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - 介绍如何使用 Micoo 服务进行视觉回归测试 
 
+## Books
+
+- [Regression, a Friendly Guide](https://www.manning.com/books/regression-a-friendly-guide) - 使用线性和逻辑回归进行准确预测和揭示数据关系的友好、有趣的指南.
 
 ## Slideshows, talks and videos
 

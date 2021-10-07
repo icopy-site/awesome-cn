@@ -15,10 +15,10 @@
 数据科学是当今计算机和互联网领域最热门的话题之一. 直到今天，人们已经从应用程序和系统中收集数据，现在是分析它们的时候了. 下一步是从数据中产生建议并预测未来. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到**数据科学**的最大问题以及专家的数百个答案.
 
 
-| Link | Preview |
+ | 链接 | 预览 |
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdiscplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合数据的技术、算法开发、数据干扰等多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学课程中._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
@@ -60,7 +60,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
   - 层次聚类
   - k-均值
   - 模糊聚类
-  - 混合模型
+  - Mixture models
 - 降维
   - 主成分分析（PCA）
   - t-SNE
@@ -157,6 +157,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Gilbert Strang 的线性代数课程
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
+- [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera Plaform.
+
 
 ## Tutorials
 
@@ -208,7 +213,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 获取数值、文本、图像、GIS 或其他数据并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由基于革命性知识的 Wolfram 语言提供支持.  |
 | [Datadog](https://www.datadoghq.com/)  | 用于大规模数据科学的解决方案、代码和 DevOps.  |
 | [Variance](http://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
-| [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统上构建系统变得更容易.  |
+| [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
 | [Domino Data Labs](http://www.dominodatalab.com)  | 运行、扩展、共享和部署您的模型 - 无需任何基础架构或设置.  |
 | [Apache Flink](http://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](http://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
@@ -478,10 +483,13 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 - [Practical MLOps: How to Get Ready for Production Models](https://valohai.com/mlops-ebook/)
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+- [Regression, a Friendly guide](https://www.manning.com/books/regression-a-friendly-guide) - 抢先体验
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
 - [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
+- [Deep Learning](https://www.deeplearningbook.org/)
+
 
 
 ## Socialize
@@ -503,14 +511,14 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings 数据场景
 - [Prash Chan](http://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Based in the UK and working globally, Cloud of Data's consultancy services help clients understand the implications of taking data and more to the Cloud.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
 - [Data Science London](http://datasciencelondon.org/) Data Science London 是一个非营利组织，致力于免费、开放、传播数据科学.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.
 - [Datawrangling](http://datawrangling.com/) 彼得·斯科莫罗克. 机器学习、数据挖掘等
 - [Quora Data Science](https://www.quora.com/Data-Science) - 专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利博士生
-- [Data Science Report](http://datasciencereport.com/) MDS, Inc. Helps Build Careers in Data Science, Advanced Analytics, Big Data Architecture, and High Performance Software Engineering
+- [Data Science Report](http://datasciencereport.com/) MDS, Inc. 帮助在数据科学、高级分析、大数据架构和高性能软件工程领域建立职业生涯
 - [Louis Dorard](http://www.louisdorard.com/blog/) 一个热衷于网络和数据的技术人员，无论大小
 - [Machine Learning Mastery](http://machinelearningmastery.com/) 关于帮助专业程序员自信地应用机器学习算法来解决复杂问题.
 - [Daniel Forsyth](http://www.danielforsyth.me/) - 个人博客
@@ -559,7 +567,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Dominodatalab](https://blog.dominodatalab.com/)
 - [i am trask](http://iamtrask.github.io/) - 机器学习工艺博客
 - [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - 现实世界问题的数据驱动解决方案的手册和食谱
-- [Dataconomy](http://dataconomy.com/) - 关于新兴数据经济的博客
+- [Dataconomy](http://dataconomy.com/) - A blog on the new emerging data economy
 - [Springboard](https://springboard.com/blog) - 为数据科学学习者提供资源的博客
 - [Analytics Vidhya](https://www.analyticsvidhya.com/) - 关于数据科学和分析学习材料的成熟网站.
 - [Occam's Razor](https://www.kaushik.net/avinash/) - 专注于网络分析.
@@ -611,7 +619,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
  | 大数据狂热 |  Data Viz Wiz，数据记者，Growth Hacker，Data Science for Dummies 的作者 (2015) |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
  | 查理格林贝克 |  @ExploreAltamira 数据科学总监 |
-| [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 数据科学家 |
+| [Chris Said](https://twitter.com/Chris_Said) | Data scientist at Twitter |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
 | [Data Science Central](https://twitter.com/DataScienceCtrl)  |  Data Science Central 是行业内面向大数据从业者的单一资源.  |
@@ -779,7 +787,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
 - [Open Data Philly](https://www.opendataphilly.org/) 将人与数据连接到费城
 - [grouplens.org](https://grouplens.org/datasets/) 示例电影（带评分）、书籍和 wiki 数据集
-- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - 包含适合机器学习的数据集
 - [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 经过 [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) （有关的： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
@@ -811,6 +819,12 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+
+## Comics
+
+- [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
+- [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
+
 
 ## Awesome Data Science
 

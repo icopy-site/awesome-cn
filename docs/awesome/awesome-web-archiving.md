@@ -3,7 +3,7 @@
 <!--lint ignore awesome-github-->
 ## Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-网络归档是收集万维网部分的过程，以确保将信息保存在档案中，供未来的研究人员、历史学家和公众使用. 由于 Web 的庞大规模，Web 档案管理员通常使用 Web 爬虫进行自动捕获. 不断发展的 Web 标准要求归档工具不断发展，以跟上 Web 技术的变化，以确保对归档网页进行可靠且有意义的捕获和重放.
+网络归档是收集部分万维网的过程，以确保将信息保存在档案中，供未来的研究人员、历史学家和公众使用. 由于 Web 的庞大规模，Web 档案管理员通常使用 Web 爬虫进行自动捕获. 不断发展的 Web 标准要求归档工具不断发展，以跟上 Web 技术的变化，以确保对归档网页进行可靠且有意义的捕获和重放.
 
 
 
@@ -14,10 +14,10 @@
   * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) - 来自的视频 [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 归档生命周期模型试图将 Web 归档的技术和程序化臂整合到一个框架中，该框架将与任何寻求从 Web 归档内容的组织相关.  Archive-It 是 Internet Archive 的网络存档服务，它基于与世界各地的记忆机构的合作开发了该模型.
+  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 归档生命周期模型试图将 Web 归档的技术和程序化分支整合到一个框架中，该框架将与任何寻求从 Web 归档内容的组织相关.  Archive-It 是 Internet Archive 的网络存档服务，它基于与世界各地的记忆机构合作开发了该模型.
   * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
 * WARC 标准：
-  * 这 [warc-specifications](https://iipc.github.io/warc-specifications/) 官方规范的社区 HTML 版本和新提案的中心.
+  * 这 [warc-specifications](https://iipc.github.io/warc-specifications/) 官方规范和新提案中心的社区 HTML 版本.
   * 这 [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
 * 对于使用网络档案的研究人员：
   * [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) - 也可以看看 [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
@@ -42,7 +42,7 @@
 * [22120](https://github.com/c9fe/22120)  - 一种非基于 WARC 的工具，可连接到 Chrome 浏览器并存档您浏览的所有内容，使其可用于离线重播.  *（开发中）*
 * [ArchiveBox](https://github.com/pirate/ArchiveBox)  - 使用 wget、Chrome headless 和其他方法（以前称为“Bookmark Archiver”）维护来自 RSS 提要、书签和链接的附加存档的工具.  *（开发中）*
 * [archivenow](https://github.com/oduwsdl/archivenow) - 一种 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将网络资源推送到按需网络档案中.  *（稳定的）*
-* [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重放它们并将它们导出为 WARC 数据. 也可用作基于 Electron 的桌面应用程序.
+* [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重播它们并将它们导出为 WARC 数据. 也可用作基于 Electron 的桌面应用程序.
 * [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真抓取系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的抓取.
 * [Brozzler](https://github.com/internetarchive/brozzler)  - 一种分布式网络爬虫（爬虫），它使用真实的浏览器（Chrome 或 Chromium）来获取页面和嵌入的 url 并提取链接.  *（稳定的）*
 * [Cairn](https://github.com/wabarc/cairn)  - 用于保存网页的 npm 包和 CLI 工具.  *（稳定的）*
@@ -68,6 +68,7 @@
 * [Warcprox](https://github.com/internetarchive/warcprox)  - 编写 WARC 的 MITM HTTP/S 代理.  *（稳定的）*
 * [WARCreate](http://matkelly.com/warcreate/) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/browser/) 用于将单个网页或网站存档到 WARC 文件的扩展.  *（稳定的）*
 * [Warcworker](https://github.com/peterk/warcworker)  - 基于 Squidwarc 的开源、dockerized、排队、高保真 Web 归档器，具有简单的 Web GUI.  *（稳定的）*
+* [Wayback](https://github.com/wabarc/wayback)  - 用于 Internet Archive、archive.today、IPFS 等快照网页的工具包.  *（稳定的）*
 * [Web2Warc](https://github.com/helgeho/Web2Warc)  - 易于使用且高度可定制的爬虫，使任何人都可以创建自己的小型 Web 档案 (WARC/CDX).  *（稳定的）*
 * [Web Curator Tool](https://webcuratortool.org)  - 用于选择性 Web 归档的开源工作流管理.  *（稳定的）*
 * [WebMemex](https://github.com/WebMemex)  - Firefox 和 Chrome 浏览器扩展，可让您存档访问的网页.  *（开发中）*
@@ -88,7 +89,7 @@
 
 * [Mink](https://github.com/machawk1/mink) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/) 用于在浏览和集成实时存档网络导航时查询 Memento 聚合器的扩展.  *（稳定的）*
 * [playback](https://github.com/wabarc/playback) - 用于搜索存档网页的工具包 [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) 超越.  *（开发中）*
-* [SecurityTrails](https://securitytrails.com/)  - 基于 Web 的 WHOIS 和 DNS 记录存档. 免费提供 REST API. 
+* [SecurityTrails](https://securitytrails.com/)  - 基于 Web 的 WHOIS 和 DNS 记录存档.  REST API 免费提供. 
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间的网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) - 基于从 1996 年到 2013 年从德国网络中提取的链接和锚文本的临时网络档案搜索（结果不限于德语页面，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ）.  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及许多能够使用下面显示的索引的相关工具.  *（稳定的）*
@@ -130,8 +131,8 @@
 
 ### Analysis
 
-* [ArchiveSpark](https://github.com/helgeho/ArchiveSpark)  - 用于 Web 档案的 Apache Spark 框架（不仅是），可以轻松进行数据处理、提取和派生.  *（稳定的）*
-* [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks)  - 使用 Archives Unleashed Toolkit 处理网络档案的笔记本，以及由 Archives Unleashed Toolkit 生成的衍生工具.  *（稳定的）*
+* [ArchiveSpark](https://github.com/helgeho/ArchiveSpark)  - 一个用于 Web 档案的 Apache Spark 框架（不仅仅是），可以轻松处理、提取和推导数据.  *（稳定的）*
+* [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks)  - 使用 Archives Unleashed Toolkit 处理网络档案的笔记本，以及 Archives Unleashed Toolkit 生成的衍生工具.  *（稳定的）*
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut)  - Archives Unleashed Toolkit (AUT) 是一个开源平台，用于使用 Apache Spark 分析 Web 档案.  *（稳定的）*
 * [Tweet Archvies Unleashed Toolkit](https://github.com/archivesunleashed/twut)  - 一个开源工具包，用于使用 Apache Spark 分析面向行的 JSON Twitter 档案.  *（开发中）*
 
@@ -152,7 +153,7 @@
 
 ### Curation
 
-* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - 一种 [Zotero](https://www.zotero.org/) 提交到 Web 档案并从中读取的扩展. 来源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
+* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - 一种 [Zotero](https://www.zotero.org/) 提交到网络档案和从网络档案读取的扩展. 来源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
 
 ## Community Resources
 

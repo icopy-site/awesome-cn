@@ -76,7 +76,7 @@ Free
 
 ### Evangelion Clock
 
-&gt; 灵感来自 Neon Genesis Evengelion 的图形界面的数字时钟屏幕保护程序.
+&gt; 受 Neon Genesis Evengelion 图形界面启发的数字时钟屏幕保护程序.
 
 Free
 
@@ -126,7 +126,7 @@ Free
 
 ## MusaicFM
 
-&gt; 灵感来自 iTunes Artwork Screensaver for Spotify 和 Last.fm 的屏幕保护程序.
+&gt; 灵感来自 Spotify 和 Last.fm 的 iTunes Artwork Screensaver 的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
@@ -180,13 +180,13 @@ $0.99
 
 ### StarWarsScroll
 
-&gt; 重新制作了前 6 部星球大战电影的开场标题.
+&gt; 重现了前 6 部星球大战电影的开场标题.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
 
 ### Matrix
 
-&gt; 对矩阵的一种解释.
+&gt; 矩阵的一种解释.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
@@ -224,7 +224,7 @@ Free
 
 ### Windows Kernel Panic
 
-&gt; 适用于 Mac 的蓝屏死机 (BSOD) 屏幕保护程序.
+&gt; Mac 蓝屏死机 (BSOD) 屏幕保护程序.
 
 Free
 
@@ -250,7 +250,7 @@ Donationware
 
 ### Emoji Saver
 
-&gt; 以 7 种不同的效果为 Apple、EmojiOne 和 Twitter 表情符号制作动画，并具有许多可自定义的设置.
+&gt; 以 7 种不同的效果为 Apple、EmojiOne 和 Twitter 表情符号制作动画，并提供许多可自定义的设置.
 
 精简版（免费）和完整版（3 美元）
 
@@ -263,6 +263,14 @@ Donationware
 免费（开源）
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
+
+### ElectropaintOSX
+
+&gt; 迷人的 Silicon Graphics 屏幕保护程序的端口
+
+免费（开源）
+
+[![image](https://user-images.githubusercontent.com/16557/134262935-72d6194d-97b2-4de3-9a44-79cf826cc114.png)](http://crimsonmagic.net/)
 
 ## Other
 
