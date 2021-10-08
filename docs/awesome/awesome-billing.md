@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p>Any company needs at one point to get money from customers. That's when things gets messy for us developers, as we try to reconcile the complexity of the business with our software stack.</p>
+<p>任何公司都需要在某一时刻从客户那里获得资金. 当我们试图协调业务的复杂性与我们的软件堆栈时，事情就会变得对我们的开发人员来说变得一团糟.</p>
 
 <p>这个<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
 
@@ -64,7 +64,7 @@
 
 - [A Survey of Profit Optimization Techniques for Cloud Providers](https://dl.acm.org/doi/fullHtml/10.1145/3376917) - “首先讨论提高用户服务质量的策略，其次是云资源的定价策略，以实现收入最大化.”
 
-- “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - 或者为什么如果选择公用事业定价方案，您可能会收到源源不断的抱怨用户：虽然准确到（毫）美分，但对于尚未准备好花时间掌握基本概念的客户来说，这种模式令人沮丧.
+ - “计费并不复杂：这是为弹性付出的代价.”  ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - 或者为什么如果选择公用事业定价方案，您可能会收到源源不断的抱怨用户：虽然准确到（毫）美分，但对于尚未准备好花时间掌握基本概念的客户来说，这种模式令人沮丧.
 
 - [Riemann sum](https://en.wikipedia.org/wiki/Riemann_sum) - 关于使用量化的起点.
 
@@ -72,17 +72,17 @@
 
 - [Reconcile Your Monthly GCP Invoice with BigQuery Billing Export](https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e)  - 在此开发人员寻求跟踪其费用的背后，您可以瞥见云计费的困难. 虽然没有明确指出，但对云资源进行定价是困难的，是空间、时间和货币之间量化、粒度和舍入的结果.
 
-- [AWS EC2 T2 Instances Demystified: Don't Learn The Hard Way](https://roberttisdale.com/aws-ec2-t2-instances-demystified-dont-learn-hard-way/) - An example of really tricky burstable instances which accrues and limits its own amount of CPU usage credits.
+- [AWS EC2 T2 Instances Demystified: Don't Learn The Hard Way](https://roberttisdale.com/aws-ec2-t2-instances-demystified-dont-learn-hard-way/) - 一个非常棘手的突发实例的例子，它累积并限制自己的 CPU 使用积分.
 
 - [“Designing billing for a service can be really challenging”](https://news.ycombinator.com/item?id=23536919) - 关于 AWS Simple Email Service 定价计划设计的个人轶事.
 
-- [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - 基于使用的定价更加优化和公平：它“允许客户以低成本开始，最大限度地减少开始的摩擦，同时仍然保留随着时间的推移通过客户获利的能力”.
+- [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - 基于使用情况的定价更加优化和公平：它“允许客户以低成本开始，最大限度地减少开始的摩擦，同时仍然保留随着时间的推移通过客户获利的能力”.
 
 ### Subscription Plans
 
 SaaS 业务非常受欢迎，订阅计划很容易理解.
 
-- [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “在低接触 SaaS 中，最常见的包呈现方式是定价网格中的不同列，每列对应一个计划，以不同的价格提供，对功能的不同访问或沿某个轴的最大允许使用量对企业来说很有趣.”
+- [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “在低接触 SaaS 中，最常见的软件包呈现方式是定价网格中的不同列，每一列对应一个计划，以不同的价格提供，对功能的不同访问或沿某个轴的最大允许使用量对企业来说很有趣.”
 
 - [`f-license`](https://github.com/furkansenharputlu/f-license) - Go 中的开源许可证密钥生成和验证工具.
 
@@ -92,11 +92,11 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费层组件.
 
-- [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - Capped actuals: monthly with rollover, an optimized pricing scheme to limit surprises from customers, in which we more or less sell quotas.
+- [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - 上限实际值：每月有展期，优化定价方案以限制来自客户的意外，其中我们或多或少地出售配额.
 
 ### Strategy
 
-Theory and practical insight to help you choose the right pricing tactics.
+理论和实践洞察力可帮助您选择正确的定价策略.
 
  - “赚钱有两种方式.你可以捆绑，也可以解绑.”  —— [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#transcript-section).
 
@@ -130,7 +130,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - [Akeneo PIM](https://github.com/akeneo/pim-community-dev) - 商业 Akeneo 产品的开源变体.
 
-- [Pimcore](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
+- [Pimcore](https://github.com/pimcore/pimcore) - 用 PHP Symfony 编写的用于管理产品元数据的开源 UI 和数据库.
 
 - [OpenPIM](https://www.openpim.org) - 一个精简的开源项目，专注于 PIM-only 特性.
 
@@ -154,9 +154,9 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) - 讨论优步如何在其财务规划平台中应用数据科学和机器学习.
 
-- [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪一个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/))，似乎值得检查以在考虑季节性的同时实施成本预测工具.
+- [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪一个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/)), seems to be worth checking to implement a cost forecast tool while taking care of seasonality.
 
-- [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb)  - 关于如何使用过去的数据进行时间前向预测的教程. 并阅读 [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) 上面提到过.
+- [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) 上面提到过.
 
 - [Komiser](https://github.com/mlabouardy/komiser) - 开源工具，可通过发现隐藏成本、监控支出增长并根据自定义建议做出有影响力的更改来保持在预算范围内.
 
@@ -174,7 +174,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - [Papers we love: Auctions and Bidding](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - 关于投标和拍卖的论文集.
 
-- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - 由一个暗示 [HN comment](https://news.ycombinator.com/item?id=19145391) ，其中是的，“&#39;询问人们他们愿意支付什么费用以及很少起作用的程度.&#39;  (...) \[但是\] 使用 Vickrey 拍卖，类似于 Google 的广告拍卖机制，可以激发人们的最大支付意愿.”
+- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - 由一个暗示 [HN comment](https://news.ycombinator.com/item?id=19145391) ，其中是的，“&#39;询问人们他们愿意支付什么费用以及很少起作用的程度.&#39;  (…) \[但是\] 使用 Vickrey 拍卖，类似于 Google 的广告拍卖机制，可以激发人们的最大支付意愿.”
 
 - [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)  - “先有供应还是先有需求？ 鸡还是蛋？”
 
@@ -198,7 +198,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
  - “你总是支付现货市场价格，而不是你的出价.”  ([source](https://news.ycombinator.com/item?id=20347716)) - 投标机制的简单说明.
 
-- [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一个应对这一挑战的云提供商，它允许客户对备用容量进行投标，并在投标人的投标超过定期变化的现货价格时向他们提供资源.”
+- [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一家应对这一挑战的云提供商，它允许客户对备用容量进行投标，并在投标人的投标超过定期变化的现货价格时向他们提供资源.”
 
 - [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “Google 的价格是固定的，而 AWS 使用的是市场模型”.
 
@@ -244,7 +244,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - 以及图形会计工具列表： [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) （C）， [Firefly III](https://firefly-iii.org) (PHP).
 
-- [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - 关于使用 GnuCash 跟踪个人财务的完整教程.
+- [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
 
 - [Frappe Books](https://github.com/frappe/books) - 适用于小型企业和自由职业者的免费桌面簿记软件.
 
@@ -253,6 +253,10 @@ Theory and practical insight to help you choose the right pricing tactics.
 - [Sequence](https://github.com/decimals/sequence)  - 存储、验证和报告资产移动的 API. 也称为账本.  Sequence 是不可变的、可扩展的且易于使用.
 
 - [Go DB Ledger](https://github.com/darcys22/godbledger) - 一个开源会计系统，旨在使复式簿记交易的记录可编程.
+
+- [Ledger](https://github.com/numary/ledger) - 可编写脚本的财务分类账，旨在简化复杂金融交易的建模.
+
+- [Akaunting](https://github.com/akaunting/akaunting) - 专为小型企业和自由职业者设计的开源软件.
 
 ### Software design and implementation
 
@@ -358,7 +362,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - [Factur-X](https://github.com/akretion/factur-x) - 支持法国和德国电子发票标准的 Python 库.
 
-- [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - 大多数发票软件可以读写 UBL 文档 (XML) 以进行数据传输.
+- [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
 - [EU eInvoicing](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing) - 欧洲电子发票标准.
 
@@ -398,7 +402,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - [Strong Customer Authentication](https://stripe.com/guides/strong-customer-authentication) - [Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive) 2、解释.
 
-- [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - 一种检查客户帐单地址与信用卡相关帐单地址匹配的系统.
+- [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - A system checking the matching of customer's billing addresses with the one associated with the credit card.
 
 - [pci-blackbox](https://github.com/trustly/pci-blackbox) - 基于 PostgreSQL 和 PL/pgSQL 构建的 PCI-DSS 兼容卡系统.
 
@@ -430,7 +434,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 有金钱激励来开发您的业务. 准备好与成群结队的欺诈者和黑幕用户作斗争.
 
-- [Detecting fraudulent activity in a cloud using privacy-friendly data aggregates](https://arxiv.org/pdf/1411.6721v1.pdf) - 讨论了一种通过使用非侵入性、对隐私友好的数据来检测欺诈活动（发起 DDoS 攻击、比特币挖掘等）的方法：计费数据.
+- [Detecting fraudulent activity in a cloud using privacy-friendly data aggregates](https://arxiv.org/pdf/1411.6721v1.pdf) - 讨论了一种通过使用非侵入性、隐私友好的数据来检测欺诈活动（发起 DDoS 攻击、比特币挖掘等）的方法：计费数据.
 
 <!--lint disable double-link-->
 
@@ -460,7 +464,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 基于信号集合的综合分数通常是用户可信度的最佳代表. 当这些操作未自动触发时，客户支持大部分时间依靠他们来采取行动.
 
-- [The Secret Trust Scores Companies Use to Judge Us All](https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206) - 我们购买的几乎所有商品、购买方式以及购买地点都秘密输入人工智能验证服务，帮助公司防范信用卡和其他形式的欺诈.
+- [The Secret Trust Scores Companies Use to Judge Us All](https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206) - 我们购买的几乎所有商品、购买方式以及购买地点都被秘密输入人工智能验证服务，帮助公司防范信用卡和其他形式的欺诈.
 
 - [GCP improved account management policies to better support customers](https://cloudplatform.googleblog.com/2018/07/improving-our-account-management-policies-to-better-support-customers.html) - 或者为什么过度依赖欺诈自动化可能会导致用户不满.
 
@@ -596,7 +600,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 - [OpenCell](https://opencellsoft.com) - 源自开源电信计费项目的货币化平台.
 
-- [Laravel Spark](https://spark.laravel.com) - 为您不想编码的所有内容提供脚手架的软件包：订阅和团队计费、发票以及用户帐户功能.
+- [Laravel Spark](https://spark.laravel.com) - Package that provides scaffolding for all of the stuff you don't want to code: subscription and team billing, invoices, but also user accounts features.
 
 - [Bullet Train](https://bullettrain.co) - 同上，但适用于 Ruby on Rails.
 

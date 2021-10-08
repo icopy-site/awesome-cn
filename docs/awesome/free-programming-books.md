@@ -8,7 +8,7 @@
 
 这个列表最初是一个克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 来自 Karan Bhangui 和 George Stocker 的贡献.
 
-该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/), 拥有 200,000+ 颗星、6100+ 次提交、1600+ 贡献者和 43,000+ 次分叉.
+该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/), 拥有 200,000 多个星星、6100 多个提交、1600 多个贡献者和 43,000 多个分支.
 
 The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这是一个非营利组织，致力于促进免费电子书的创建、分发、存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会在美国可以免税.
 
@@ -48,13 +48,13 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Finnish / suomi / suomen kieli](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fi.md)
 + [French / français](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fr.md)
 + [German / Deutsch](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-de.md)
-+ [Greek / ελληνικά](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-gr.md)
++ [Greek / ελληνικά](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-el.md)
 + [Hebrew / עברית](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-he.md)
 + [Hungarian / magyar / magyar nyelv](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-hu.md)
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩文/韩文 [韩文]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
++ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)

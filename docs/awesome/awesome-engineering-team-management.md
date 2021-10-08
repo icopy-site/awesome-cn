@@ -23,7 +23,7 @@
 - 你是一名开发人员，想知道成为一名经理是什么感觉？
 - You just started your first position as the leader of a team?
 - 你被困在工作的日常运作中吗？
-- How can I move up to the next level?
+- 我怎样才能升到下一个级别？
 
 您将在本指南中找到答案\！ 它从一般的领导力和管理文献中脱颖而出，通过提供不妥协的见解和实用建议，从技术背景引导您进入管理职业轨道.
 
@@ -219,11 +219,13 @@
 
 审查潜在候选人时可以使用的问题列表，以及从中汲取灵感以用作对话开始的主题.
 
-- [The Technical Interview is an Ego Trip](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) - Starts with anecdote of developers using a job interview as a vehicule to demonstrate their superiority. Then the author details a reasonable interview process that is trying to not waste anyone's time.
+- [The Technical Interview is an Ego Trip](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/)  - 从开发人员使用求职面试作为展示其优越性的载体的轶事开始. 然后作者详细介绍了一个合理的面试过程，尽量不浪费任何人的时间.
 
 - [The Intangible Skills You Can't Interview For](https://staysaasy.com/leadership/2021/04/12/the-intangible-skills-you-cant-interview-for.html)  - “1）对蹩脚的任务进行切入；  2）知道如何完成；  3) 知道如何开始；  4）给予（和接受）对角反馈；  5）利用无形资产的价值.”
 
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 一个很好的灵感来源.
+
+- [Engineering Leadership Interviews](https://github.com/kaushikb9/em-interviews) - 关于如何招聘工程经理角色的概述.
 
 - [Reverse interview](https://github.com/viraptor/reverse-interview)  - 面试时要问公司的问题. 准备好以经理的身份回答他们.
 
@@ -291,7 +293,7 @@
 
 - [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/)  - “如今，59% 的开发人员为开源软件做出了贡献. 他们为什么做出贡献？ 最主要的两个原因是：提高编码技能和因为他们相信开源. 想让这些开发人员满意并与您一起工作吗？ 让他们做出贡献.”
 
-- “My team tracks life impact as a metric (pages outside business hours) and works to drive that down to zero.” ([source](https://twitter.com/dwc/status/962179099606200320)) - 也许一个快乐团队的最佳指标是在办公时间之外很少受到干扰.
+ - “我的团队将生活影响作为一个指标（工作时间以外的页面）进行跟踪，并努力将其降低到零.”  ([source](https://twitter.com/dwc/status/962179099606200320)) - 也许一个快乐团队的最佳指标是在办公时间之外很少受到干扰.
 
 - [6 Signs You're a Micromanager (And What to Do Instead)](https://unito.io/blog/micromanagement-signs/)  - “您比以往任何时候都更多地与您的员工打交道，但他们似乎比平时心怀不满、不高兴，而且工作效率低下. 您的签到似乎无人理会. 似乎没有人愿意接受您对他们工作的所有出色反馈. 这是怎么回事？ 好吧，我们不想告诉你，但你可能是一个微观管理者.”
 
@@ -299,7 +301,7 @@
 
 - [3 tricks to start working despite not feeling like it](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)  - “&#39;搞砸，让我们做吧&#39;; 开始马虎； 从小事做起”.
 
-- [Why procrastination is about managing emotions, not time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time) - “研究表明，一旦迈出了任务的第一步，接下来就会变得更容易”.
+- [Why procrastination is about managing emotions, not time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time) - “Research shows that once the first step is made towards a task, following through becomes easier”.
 
 ## Culture
 
@@ -335,7 +337,7 @@
 
 广泛的知名模型和概念列表.
 
-- [Gigerenzer's simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/)  - 我们经常依赖这些简单的启发式方法的原因是：“在实验室之外，在现实世界中，我们不能仅仅靠逻辑理性来做好，我们需要生态理性——这种思维可以帮助我们在一个环境中得到我们想要的东西不确定和动态. 这意味着运用我们的直觉，使用简单但可靠的经验法则.”
+- [Gigerenzer's simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/) - The reason we often relies on these simple heuristics: “outside the lab, in real world, we cannot do well with just with logical rationality, we need ecological rationality - the kind of thinking that helps us get what we want in an environment that's uncertain and dynamic. This means exercising our instincts, using simple but robust rules of thumb.”
 
 - [The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - 109 个模型的集合.
 
@@ -346,6 +348,8 @@
 - [Tools for better thinking](https://untools.co) - “思维工具和框架的集合，可帮助您解决问题、做出决策和理解系统.”
 
 - [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) - 您可能在其他地方遇到的一些智慧的正式列表.
+
+- [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - 法律、原则、心智模式和认知偏差.
 
 ### Explaining
 
@@ -391,7 +395,7 @@
 
 关于团队的日常动态，以及与其他团队的互动.
 
-- [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)  - 我的总结：“庆祝缓慢的进展； 寻找关键里程碑”.
+- [How to Celebrate the Small Wins](https://medium.dave-bailey.com/how-to-celebrate-the-small-wins-4a03004a1816)  - 我的收获：“庆祝缓慢的进展； 寻找关键里程碑”.
 
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - “获得对责任的共同理解的工具”.
 
@@ -407,7 +411,7 @@
 
 - “社区已经存在，你只需为它创建一个交流平台”（[source](https://news.ycombinator.com/item?id=21828666)) - 或者为什么试图从头开始创建社区可能不是看待事物的正确方式：更好、更微妙的策略是赋予现有渠道权力并使它们可见.
 
-- [OpenTeams](https://openteam.info)  - “团队可以将他们的互动网络可视化，并且将这些数据与有关团队人口统计、专业和心理特征的信息进行交叉.” 作为经理，请确保这些指标为团队带来积极的成果. 出于政治原因，很容易让它们成为工具.
+- [OpenTeams](https://openteam.info)  - “团队可以将他们的互动网络可视化，并且将这些数据与有关团队人口统计、专业和心理特征的信息进行交叉.” 作为经理，确保这些指标为团队带来积极的成果. 出于政治原因，很容易让它们成为工具.
 
 ## Engineering
 
@@ -419,7 +423,7 @@
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/)  - 是的.  “展望未来 30 年的管理趋势，只有几件事似乎是确定的：管理者应该是技术型的，技术型的定义会不断变化.”
 
-- [If Your Boss Could Do Your Job, You're More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “虽然我们发现许多因素对工作的幸福感很重要——例如职业类型、教育水平、任期和行业也很重要，例如——它们甚至不如老板的技术那么重要权限.”
+- [If Your Boss Could Do Your Job, You're More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “虽然我们发现许多因素对工作幸福感很重要——例如，职业类型、教育水平、任期和行业也很重要——但它们甚至不如老板的技术那么重要权限.”
 
  - “我遇到的最好的经理往往是那些如果情况需要，可以完成下面两个级别的工作的人.”  ([source](https://news.ycombinator.com/item?id=23891984)) - 另一种说法：经理需要领域知识并了解他们的报告所做的工作.
 
@@ -465,6 +469,8 @@
 
 - [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)  - 在开发嵌入式设备时提供对真实情况的合理近似的指导方针和启发式方法. 大多数也适用于一般的软件项目.
 
+- [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf)  - “如果您的测试套件的一部分在覆盖范围可以检测到的方式上很弱，那么它也可能在覆盖范围无法检测到的方式上很弱.” 即覆盖率报告的最大好处是它告诉您在编写测试套件本身时忘记考虑的事情（[source](https://news.ycombinator.com/item?id=28678098)).
+
 ### Technical Debt
 
 - [Tech Due Diligence Calculator](https://decodingvc.gitbooks.io/p9-startup-tech-due-diligence-calculator/content/) - 按主题列出的问题列表，可帮助您了解您如何构建技术和工程团队，并尝试突出危险信号.
@@ -497,7 +503,7 @@
 
 您将举行的最重要的会议是与您的直接下属进行频繁的一对一会谈.
 
-- “1on1s 是经理瑞士军刀”（[source](https://news.ycombinator.com/item?id=22341739)) - 来自消息来源的另一个建议：让他们走路不说话.
+- “1on1s 是经理们的瑞士军刀”（[source](https://news.ycombinator.com/item?id=22341739)) - 来自消息来源的另一个建议：让他们走路不说话.
 
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - 来自经理的个人高级问题清单.
 
@@ -511,7 +517,7 @@
 
 我们工作的环境塑造了我们. 还有福利.
 
-- [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - Open-plan offices decrease face-to-face collaboration.
+- [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - 开放式办公室减少了面对面的协作.
 
 - [Noise, Cognitive Function, and Worker Productivity](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) - “增加 10 dB 会使生产力降低约 5%.”
 
@@ -531,7 +537,7 @@
 
 - [Things Many People Find Too Obvious To Have Told You Already](https://twitter.com/patio11/status/936615043126370306) - 一组关于科技公司及其所处生态系统的启发式方法.
 
-- [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - 关于太空计划管理的很多智慧.
+- [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - Lots of wisdom about space program management.
 
 - [How to exit vim, the Product Manager way](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md#the-product-manager-way) - 有一定道理的讽刺，尤其是基本水平与经验水平之间的比较.
 
@@ -581,7 +587,7 @@
 
 - [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “爱上你的问题，而不是你的解决方案.”
 
-- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - 弱人+机器\&gt;机器\&gt;强人.
+- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - 弱人 + 机器 \&gt; 机器 \&gt; 强人.
 
 - [The Psychology of Design](https://growth.design/psychology/) - 广泛的认知偏差和设计原则列表，包括用于微调您的产品和用户体验的示例和技巧.
 
@@ -605,7 +611,7 @@
 
 - [Strategies for long Projects](http://benbrostoff.github.io/2019/09/28/long-projects.html)  - 无情的、非理性的乐观主义； 每日进度文件； 复利投资； 时间预算.
 
-- [Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57)  - “为什么这么多软件项目都失败了？ 与运行现有工厂相比，软件开发更接近于创建新工厂.  (...) 软件开发由许多未知的持续时间任务组成，这种根本不可预测的性质使得传统管理的预测性规划技术特别不适合软件项目.”
+- [Developers can't fix bad management](https://iism.org/article/developers-can-t-fix-bad-management-57)  - “为什么这么多软件项目都失败了？ 与运行现有工厂相比，软件开发更接近于创建新工厂.  (...) 软件开发由许多未知持续时间的任务组成，这种根本不可预测的性质使得传统管理的预测性规划技术特别不适合软件项目.”
 
 ### Specifications
 
@@ -679,7 +685,7 @@ KPI 是团队或组织级别的一组定量度量，用于衡量业务的成功.
 
 - [Google's usage of OKRs](https://news.ycombinator.com/item?id=17492038)  - OKR 成绩是公开的，但不用于推广. 那里从未被认真对待.
 
-- [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) - 不乏关于如何衡量和传达目标的内容.
+- [Awesome OKR](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
 
 ## Training
 
@@ -699,7 +705,7 @@ On mentoring, education and learning.
 
 ### Knowledge
 
-On knowledge surrounding a team.
+关于围绕团队的知识.
 
 - [What senior engineers do: fix knowledge holes](http://www.mooreds.com/wordpress/archives/3232)  ——“这是教科书对高级工程师的定义. 你看到一个问题，你解决它（彻底），你记录它并提升你的团队.”
 
@@ -787,11 +793,11 @@ On knowledge surrounding a team.
 
 ## Career
 
-Now that you've proven your worth as a front-line manager, what's the next step? These articles explore the follow-up roles, from managing managers, to director, and everything in between.
+既然您已经证明了您作为一线经理的价值，下一步是什么？ 这些文章探讨了后续角色，从管理经理到总监，以及介于两者之间的所有角色.
 
 - [Work at different management levels](https://larahogan.me/blog/manager-levels/) - 在不同级别的管理中工作的感觉很好的渐进式分解.
 
-- [Levels of abstraction in engineering management](https://medium.com/@rvprabhu/levels-of-abstraction-in-engineering-management-6bac9410e89a) - 另一个关于经理、经理经理、组织主管和职能主管之间差异的看法.
+- [Levels of abstraction in engineering management](https://medium.com/@rvprabhu/levels-of-abstraction-in-engineering-management-6bac9410e89a) - Another take on the differences between Manager, Manager of Managers, Head of Org and Head of Function.
 
 - [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) - 准备好以招聘人员的身份询问他们或被问及他们担任高级管理职位的情况.
 
@@ -863,7 +869,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 ## Politics
 
-我们在这里，在权力和影响力的交汇处是政治游戏. 如果它的性质和强度来源于公司的核心文化和历史，那么不幸的是，你不太可能避免它超过某个等级. 做好准备.
+我们在这里，在权力和影响力的交汇处是政治游戏. 如果它的性质和强度来源于公司的核心文化和历史，那么不幸的是，你不太可能避免它超过某个层次. 做好准备.
 
 - [About corporate middle management](https://news.ycombinator.com/item?id=28336658)  - “作为一家大公司的经理，你应该成为一名对齐者.  (...) 你必须控制摩擦，努力让你上面的人看起来很好.”
 
@@ -933,7 +939,7 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
 - [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重复重组错误，我们开始研究一种结构，使重组像一个由团队而不是上级人员驱动的反馈推动的进步.” 这是一种尝试从头开始提取指向不适当结构的信号. 我的警示故事：这可能只能在一定程度上起作用，具体取决于公司的文化.
 
-- “When everything is great success, people behind that success shadow the people who could make success in the future. (…) Netflix is great example of how to do big transition right. Netflix was in renting DVDs by mail business. When the decision to move to streaming was made, Netflix CEO did not allow managers who responsible for DVD renting business into meetings where the future was planned.” ([source](https://news.ycombinator.com/item?id=21395557)).
+ - “当一切都取得巨大成功时，成功背后的人会影响未来可能取得成功的人.  (...) Netflix 是如何正确进行大转型的好例子.  Netflix 从事通过邮件出租 DVD 的业务. 当决定转向流媒体时，Netflix 首席执行官不允许负责 DVD 租赁业务的经理参加计划未来的会议.”  ([source](https://news.ycombinator.com/item?id=21395557)).
 
 - [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36)  - 在一家存在严重缺陷的公司工作了 3 年之后，作者得出了一个谦虚的结论：领导者应该体现员工的价值. 不是反过来.  “高层的变化——而不是演讲、培训或标签——会产生最大的文化影响. 如果你想要真正和持久的文化变革，请扫除在以前的文化下取得成功的白领，并提拔那些在外观、行为和思考上更像员工而不是经理的人.”
 
@@ -967,9 +973,9 @@ Now that you've proven your worth as a front-line manager, what's the next step?
 
  - “倦怠是由怨恨引起的.  (...) 不.当您反复为失败的高风险问题做出大量牺牲和/或努力时，就会导致倦怠. 这是伏隔核中负预测错误的结果. 你可以有效地调节你的大脑，将工作与失败联系起来.”  ([source](https://news.ycombinator.com/item?id=5630618)).
 
-- [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)  - “我们过度工作和精疲力竭的倾向是由涉及我们的职业、我们的组织和我们自己的因素的复杂组合构成的. 它的核心是不安全感.”
+- [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week) - “Our tendency to overwork and burn out is framed by a complex combination of factors involving our profession, our organization, and ourselves. At the heart of it is insecurity.”
 
-- [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity) - “高成就、强烈的竞争力和过度工作的文化的特殊融合使许多人陷入了职业纠缠和倦怠的完美风暴.”
+- [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity) - “A particular confluence of high achievement, intense competitiveness, and culture of overwork has caught many in a perfect storm of career enmeshment and burnout.”
 
  - “根据我的经验，极端的工作狂通常可以用来避免或推迟某人不想做出甚至有意识地意识到的重大人生决定.  (...) 最终债务到期，但有时直到几十年后才到期.”  ([source](https://news.ycombinator.com/item?id=21900054))
 

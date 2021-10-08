@@ -6,7 +6,7 @@
 
 &gt; 精选的机器人操作系统 2.0 版 (ROS 2) 资源和库列表.
 
-机器人操作系统 2 (ROS 2) 是一组可帮助您构建机器人应用程序的软件库和工具. 从驱动程序到最先进的算法，再加上强大的开发人员工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
+机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且都是开源的.
 
 
 
@@ -48,7 +48,7 @@
 - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 命令行工具. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos 运动学和动力学 C++ 库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - 用于 Vortex Lite 和 OpenSplice 的简单 DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
-- [Webots](https://cyberbotics.com) - 用于 ROS 2 的机器人模拟器. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
+- [Webots](https://cyberbotics.com) - ROS 2 的机器人模拟器. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
 - [LGSVL](https://www.lgsvlsimulator.com/) - 加速安全自动驾驶汽车开发的仿真软件.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - 这是一个用于 Unity 机器人模拟的工具、教程、资源和文档的中央存储库.
 - [Foxglove Studio](https://github.com/foxglove/studio) - 用于机器人的集成可视化和诊断工具. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
@@ -67,14 +67,14 @@
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy 将自治算法作为单独的构建块提供，并与 Autoware.Auto 兼容.
 - [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制（`ros2_controllers`）上下文中详细阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制 (`ros2_controllers`) 上下文中详细阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - ros_controllers 的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的 ROS 包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) - 包装 ORB_SLAM2 库的 ROS2 节点. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
 - [basalt_ros2](https://github.com/berndpfrommer/basalt_ros2) - Basalt VIO 的 ROS2 包装器. ![basalt_ros2](https://img.shields.io/github/stars/berndpfrommer/basalt_ros2.svg)
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的 2D 和 3D 实时同步定位和映射 (SLAM). ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - ROS2 的 Slam Gmapping. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
-- [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox 用于在具有 ROS 的潜在大量地图中进行终身制图和定位. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
+- [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam 工具箱，用于在具有 ROS 的潜在大规模地图中进行终身制图和定位. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
 - [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 使用 ndt/gicp 配准和姿势优化的 3D 激光雷达 slam ROS2 包. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
 - [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 来自 LIO-SAM 的紧耦合激光雷达惯性 ndt/gicp slam 的 ROS2 包. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 - [octomap_server2](https://github.com/iKrishneel/octomap_server2)  - 用于使用 OctoMap 映射的 ROS2 堆栈.  ROS1的端口 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) 包裹. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
@@ -82,7 +82,7 @@
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - 用于 ROS2 的通用键盘 Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - 用于扭曲机器人的简单操纵杆遥控. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 - [navigation](https://github.com/ros-planning/navigation2/) - ROS2 导航堆栈. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
-- [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - 用于 ROS 2 的原始 ROS1 诊断的分叉版本（目前仅适用于 diagnostics_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
+- [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) - 用于 ROS 2 的原始 ROS1 诊断的分叉版本（目前仅适用于diagnostics_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
 - [robot_state_publisher](https://github.com/bponsler/robot_state_publisher/tree/publish-robot-model) - 原始 ROS 机器人状态发布器的分叉版本，所有修改都可以在 ROS2 生态系统中编译. ![robot_state_publisher](https://img.shields.io/github/stars/bponsler/robot_state_publisher.svg)
 - [common_interfaces](https://github.com/ros2/common_interfaces) - 一组包含通用接口文件（.msg 和.srv）的包. ![common_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
 - [ros2_object_map](https://github.com/intel/ros2_object_map) - “当 SLAM 时在地图上标记对象的标签”. ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
@@ -116,7 +116,7 @@
 - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - 用于 ROS2 的 Android API. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js 版本的 ROS2.0 客户端. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
-- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 集成和路由，它提供了一个完整的工具，可以轻松地将其他技术与 ROS2 集成并在 WAN/Internet 上启用 ROS2.
+- [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 集成和路由，它提供了一个完整的工具，可以轻松地将其他技术与 ROS2 集成，并在 WAN/Internet 上启用 ROS2.
 - [soss](https://github.com/osrf/soss) - System Of Systems Synthesizer 用于通过 ROS2-Integration-Service 将 ROS2 与其他（通信）系统集成.
 - [micro_ros_arduino](https://github.com/micro-ROS/micro_ros_arduino) - 将微型 ROS 集成到 Arduino 软件平台项目中.
 - [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - 在基于 Zeyphr OS 的项目中集成 micro-ROS.
@@ -124,7 +124,7 @@
 ### Driver layer
 
 - [Autoware.IO](https://www.autoware.io/) - Autoware.IO 提供异构硬件参考平台，并能够将成员公司的解决方案集成到支持 Autoware.Auto 和 Autoware.AI 软件堆栈的平台上.
-- [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - 带有 xmlrpc 的 ros2 接口包，使用 Sesto API 与 Sesto 服务器通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
+- [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - 带有 xmlrpc 的 ros2 接口包，使用 Sesto API 与 Sesto 服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) - 用于 ROS2 的非官方 Anki Cozmo 节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) - ROS2 球体驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
 - [flock2](https://github.com/clydemcqueen/flock2) - DJI Tello 无人机的 ROS2 驱动程序. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
@@ -188,11 +188,11 @@
 - [rmw_connext_cpp](https://github.com/ros2/rmw_connext/tree/master/rmw_connext_cpp) - 使用 C++ 中的 RTI Connext 静态代码生成实现 ROS 中间件接口. ![rmw_connext_cpp](https://img.shields.io/github/stars/ros2/rmw_connext.svg)
 - [rmw_fastrtps_cpp](https://github.com/ros2/rmw_fastrtps/tree/master/rmw_fastrtps_cpp) - 在 C++ 中使用 eProsima FastRTPS 静态代码生成实现 ROS 中间件接口. ![rmw_fastrtps_cpp](https://img.shields.io/github/stars/ros2/rmw_fastrtps.svg)
 - [rmw_dps](https://github.com/ros2/rmw_dps) - 使用英特尔的分布式发布和订阅实现 ROS 中间件 (rmw) 接口. ![rmw_dps](https://img.shields.io/github/stars/ros2/rmw_dps.svg)
-- [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - 在 C++ 中使用 PrismTech OpenSplice 静态代码生成实现 ROS 中间件接口. ![rmw_opensplice_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
+- [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - 使用 C++ 中的 PrismTech OpenSplice 静态代码生成实现 ROS 中间件接口. ![rmw_opensplice_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
 - [rmw_coredx](https://github.com/tocinc/rmw_coredx) - 用于 ROS2 的 CoreDX DDS 集成层. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
 - [rmw_freertps](https://github.com/ros2/rmw_freertps) - 使用 freertps 实现 RMW. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg)
 - [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - 使用 Eclipse zenoh 实现 RMW：零开销发布/订阅、存储/查询和计算. ![atolab/rmw_zenoh](https://img.shields.io/github/stars/atolab/rmw_zenoh.svg)
-- [rcutils](https://github.com/ros2/rcutils) - ROS 2 中常用的 C 函数和数据结构. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
+- [rcutils](https://github.com/ros2/rcutils) - ROS 2 中使用的常用 C 函数和数据结构. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) - 一个免费的、可移植的、极简主义的、正在进行中的 RTPS 实现. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - 用于 Eclipse Cyclone DDS 的 ROS2 RMW 层. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
 - [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - ROS2 RMW 层用于 [zenoh](https://zenoh.io).
@@ -204,7 +204,7 @@
 - [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) - RTPS 标准的实现（RTPS 是 DDS 的有线互操作性协议）. ![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg)
 - [OpenSplice](https://github.com/ADLINK-IST/opensplice) - OMG DDS 标准的实施. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) :heavy_dollar_sign:
 - [CoreDX DDS](http://www.twinoakscomputing.com/coredx) - Twin Oaks Computing, Inc. 的实施.:heavy_dollar_sign:
-- [freertps](https://github.com/ros2/freertps) - 一个免费的、便携的、极简的、正在进行的 RTPS 实现. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
+- [freertps](https://github.com/ros2/freertps) - 一个免费的、可移植的、极简主义的、正在进行中的 RTPS 实现. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [cdds](https://github.com/atolab/cdds) - Cyclone DDS 是完全开放式开发的，正在接受验收过程以成为 Eclipse IoT 的一部分. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
 - [Micro-XRCE-DDS)](https://github.com/eProsima/Micro-XRCE-DDS) - XRCE DDS 实现（由 microROS 支持）. ![Micro-XRCE-DDS](https://img.shields.io/github/stars/eProsima/Micro-XRCE-DDS.svg)
 
@@ -221,13 +221,14 @@
 
 ## Operating systems
 
-- [NuttX](https://github.com/micro-ROS/NuttX) - 与 micro-ROS 一起使用的官方 NuttX 分支.
+- [NuttX](https://github.com/micro-ROS/NuttX) - 用于 micro-ROS 的官方 NuttX 分支.
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT 是一个实时多线程操作系统 (...,) 实时功能，内存占用小，(...) API 提供部分 POSIX 合规性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - 符合 POSIX 标准的实时操作系统，适用于预计未来将支持 AUTOSAR 的众核处理器.
 - [PYNQ](http://www.pynq.io/) - 在 XILINX FPGA 上运行的高性能机器学习应用程序的基于 Python 的快速原型设计.
+- [ReconROS](https://github.com/Lien182/ReconROS)  - 基于 ROS2 FPGA 的硬件加速框架. 基于 [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 - [Ubuntu Core](https://ubuntu.com/core) - 使用 Ubuntu Core 构建安全的物联网设备.
 - [Ubuntu Server](https://ubuntu.com/server)
-- [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - 用于关键基础设施的安全、可靠和可认证的实时操作系统
+- [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - 用于关键基础设施的安全、安全、可靠和可认证的实时操作系统
 - [Zephyr](https://www.zephyrproject.org/) - Linux 基金会项目 RTOS 旨在确保安全.
 
 ## Forks
@@ -313,7 +314,7 @@
 [program announcement](https://roscon.ros.org/2018/#program)
 
 - 动手实践 ROS 2：演练
-- 自动驾驶车辆上的 ROS 2
+- 自动驾驶汽车上的 ROS 2
 - RViz - 迁移到 ROS 2.0 的故事
 - 发布 ROS 2
 - 参与 ROS 2 开发

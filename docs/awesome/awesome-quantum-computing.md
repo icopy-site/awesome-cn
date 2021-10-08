@@ -54,7 +54,7 @@
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - 量子信息和计算基础课程.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - 了解量子技术可以为机器学习带来的好处.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - 对量子力学基本原理的概念介绍.
-- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - 对计算、其背后的数学及其量子对应物的微妙介绍，然后是对一些量子算法的深入讨论.
+- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - 对计算、其背后的数学及其量子对应物的微妙介绍，然后深入讨论了一些量子算法.
     - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - 上一课的同一位教授，这次更侧重于量子概念而不是数学.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - 了解量子计算机和量子互联网发展背后的原理和承诺，以及它们将如何影响我们的未来.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - 用最少的数学介绍量子计算的关键概念.
@@ -66,7 +66,7 @@
 - [Cirq](https://github.com/quantumlib/Cirq) - 用于编写、操作和优化 NISQ 电路以在量子计算机上运行的 Python 库.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - 在线量子作曲家在真实的量子计算硬件上运行实验.
 - [Mitiq](https://mitiq.readthedocs.io/) - 用于在量子计算机上实施错误缓解技术的 Python 工具包.
-- [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
+- [NISQAI](https://github.com/quantumai-lib/nisqai) - 在近期量子计算机上执行量子人工智能的库.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave 的 SDK，用于使用 Python 在他们的量子计算机上进行开发.
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing 的统一量子操作环境，允许启用量子的工作流.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - 百度用于量子机器学习的python工具包.
@@ -94,7 +94,7 @@
 - [Algorithmic Assertions](http://algassert.com/) - 克雷格·吉德尼（Craig Gidney）——谷歌量子计算团队成员，关于量子计算和一般计算.
 - [Bits of Quantum](http://blog.qutech.nl/) - 由 QuTech 机构，分享他们的研究和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - 通过可视化向数据科学家解释量子算法.
-- [Decodoku](https://medium.com/@decodoku) - 关于量子计算的有趣帖子，作者是 James Wootton.
+- [Decodoku](https://medium.com/@decodoku) - James Wootton 关于量子计算的有趣帖子.
 - [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum 程序范围的更新.
 - [Musty Thoughts](http://mustythoughts.com) - Michał Stęchły 的个人博客，包括许多文章供人们开始学习量子计算.
 - [Qiskit blog](https://medium.com/qiskit) - 来自 Qiskit 社区团队的所有关于量子计算的信息.
@@ -124,6 +124,7 @@
 - [Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535) - 为一般读者介绍量子位、纠缠和量子隐形传态等主题.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) - 通过其实际实现的镜头解释量子计算.
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007%2F978-3-030-61601-4) - 面向高中生、本科生和普通大众的免费量子计算教科书.
+- [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - 适用于希望尽早开始量子计算的各级 Java 开发人员.
 
 ## Popular Science
 - [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)  - 对量子计算和计算复杂性理论的可爱介绍. 它面向尽可能广泛的目标受众，并包含一些与哲学相关的主题.
@@ -150,7 +151,7 @@
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) - 用于 Qiskit 和量子计算讨论的 Slack 频道.
 - [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - 关于量子计算和量子信息这本书的讨论. 
 - [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - 使用模拟和近期硬件的量子机器学习讨论论坛.
-- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
+- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - 讨论量子计算的松弛渠道.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - 量子计算问答网站.
 - [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - 讨论许多量子计算主题的社区.
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) - 关于矩阵的量子编程聊天，语言不可知，不需要专业知识.
@@ -161,7 +162,7 @@
 
 ## Podcasts
 
-- [Meet the meQuanics](https://soundcloud.com/mequanics) - 针对非专业人士对关键量子计算人物的采访.
+- [Meet the meQuanics](https://soundcloud.com/mequanics) - Interviews with key quantum computing figures, aimed at the lay person.
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Ethan Hansen 的播客涵盖三个主要主题：量子计算的基础知识、采访和最新消息.
 
 ## License
