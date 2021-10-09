@@ -82,7 +82,7 @@
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- 用于评估 Android 应用程序、逆向工程和恶意软件分析的虚拟机
-3. [House](https://github.com/nccgroup/house)- House：带有 Web GUI 的运行时移动应用程序分析工具包，由 Frida 提供支持，用 Python 编写.
+3. [House](https://github.com/nccgroup/house)- House：运行时移动应用程序分析工具包，带有 Web GUI，由 Frida 提供支持，用 Python 编写.
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework 是一个智能的、一体化的开源移动应用程序 (Android/iOS) 自动化渗透测试框架，能够执行静态、动态分析和 Web API 测试.
 5. [AppUse](https://appsec-labs.com/AppUse/) – 用于渗透测试的自定义构建
 6. [Droidbox](https://github.com/pjlantz/droidbox)
@@ -108,14 +108,15 @@
 30. [Taintdroid](http://appanalysis.org) - 需要 AOSP 编译
 31. [ARTist](https://artist.cispa.saarland)  - 一个灵活的开源工具和混合分析框架，适用于 Android 应用程序和 Android 的 java 中间件. 它基于 Android 运行时 (ART) 编译器并在设备编译期间修改代码.
 32. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
-33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool)  - 从 Android APK 中提取静态和动态特征的工具. 它结合了不同的知名安卓应用分析工具，如 DroidBox、FlowDroid、Strace、AndroGuard 或 VirusTotal 分析.
+33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
 34. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - 是一个强大的网络界面，可帮助您在运行时操作 Android 和 iOS 应用程序
-35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API 监视器）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
-3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux 发行版) 早些时候它曾经是一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
-31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（安卓逆向工程）不再处于积极开发中~~
-31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
-32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
-33. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – 用于恶意软件分析的自定义图像~~
+35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API Monitor）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
+36. [Android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer) - 该工具用于分析本地存储中 android 应用程序的内容.
+37. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux 发行版) 早些时候它曾经是一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
+38. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（安卓逆向工程）不再处于积极开发中~~
+39. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
+40. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
+41. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – 用于恶意软件分析的自定义图像~~
 
 ### Reverse Engineering
 
@@ -180,6 +181,7 @@
 5. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - 从Appland第三方安卓市场下载应用
 6. [Apkpure](https://apkpure.com/)  - 在线 apk 下载器. 还提供了自己的应用程序供下载.
 7. [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)  - PlaystoreDownloader 是一种直接从 Google Play 商店下载 Android 应用程序的工具. 在初始（一次性）配置之后，可以通过指定其包名称来下载应用程序.
+8. [APK Downloader](https://apkcombo.com/apk-downloader/) 在线服务从 Playstore 下载 APK 以用于特定的 Android 设备配置
 
 ### Misc Tools
 
@@ -204,6 +206,7 @@
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
 4. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
+6. [Insecureshop](https://github.com/optiv/insecureshop)
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 
@@ -247,7 +250,7 @@
 4. [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - 由 VirusTotal 提供支持，不是免费
 6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
-8. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malwares which have been reverse engineered and documented
+8. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 种恶意软件已被逆向工程并记录在案
 9. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
 10. [Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - 该数据集包含 10479 个样本，通过使用七种不同的混淆技术混淆 MalGenome 和 Contagio Minidump 数据集获得.
 11. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo 是一个不断增长的 Android 应用程序集合，从多个来源收集而来，包括官方 Google Play 应用程序市场.
