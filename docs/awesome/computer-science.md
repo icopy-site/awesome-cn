@@ -327,9 +327,9 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits)  |  10 周 |  6 小时/周 | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-architecture-2)  |  10 周 |  6 小时/周 | 计算结构 1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-organization-2)  |  10 周 |  6 小时/周 | 计算结构 2
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016)  |  10 周 |  6 小时/周 | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
+[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)  |  10 周 |  6 小时/周 | 计算结构 1
+[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)  |  10 周 |  6 小时/周 | 计算结构 2
 
 ### Advanced theory
 
@@ -460,7 +460,7 @@ or
 带有“Section”标签的卡片仅用于帮助组织完成列.
 您应该将*课程的卡片*放在其各自的*部分卡片*下方.
 
-该板的目的是为我们的学生提供一种跟踪他们进步的方式，以及通过一个公共页面向朋友、家人、雇主等展示他们进步的能力.
+该看板的目的是为我们的学生提供一种跟踪他们进步的方式，以及通过公共页面向朋友、家人、雇主等展示他们进步的能力.
 您可以将看板的状态更改为 *public* 或 *private*.
 
 ## Team

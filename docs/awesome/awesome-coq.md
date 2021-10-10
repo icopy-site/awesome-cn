@@ -41,6 +41,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Libraries
 
 - [ALEA](https://github.com/coq-community/alea) - 用于推理随机算法的库.
+- [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - 数学组件的环和场战术.
 - [Bignums](https://github.com/coq/bignums) - 任意大数的库.
 - [Bedrock Bit Vectors](https://github.com/mit-plv/bbv) - 用于对固定精度机器词进行推理的库.
 - [CoLoR](https://github.com/fblanqui/color) - 关于重写理论、lambda 演算和终止的库，以及扩展 Coq 标准库的公共数据结构子库.
@@ -58,7 +59,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Paco](http://plv.mpi-sws.org/paco/) - 参数化联合归纳库.
 - [Regular Language Representations](https://github.com/coq-community/reglang) - 正则语言的不同定义之间的翻译，包括正则表达式和自动机.
 - [Relation Algebra](https://github.com/damien-pous/relation-algebra) - 以异构二元关系为模型的代数的模块化形式化.
-- [Simple IO](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
+- [Simple IO](https://github.com/Lysxia/coq-simple-io) - 具有用户可定义原始操作的输入/输出 monad.
 - [TLC](https://github.com/charguer/tlc) - Coq 标准库的非建设性替代方案.
 
 ### Package and Build Management
@@ -122,7 +123,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Type Theory and Mathematics
 
 - [Analysis](https://github.com/math-comp/analysis) - 与数学组件兼容的经典实分析库.
-- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - 范畴论的无公理形式化.
 - [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - 逻辑 K、K*、CTL 和 PDL 的稳健性、完整性和可判定性.
 - [CoqPrime](https://github.com/thery/coqprime) - 使用 Pocklington 和 Elliptic Curve 证书来证明素性的库.
 - [CoRN](https://github.com/coq-community/corn) - 建设性实分析和代数库.
@@ -144,14 +145,15 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Verified Software
 
-- [CompCert](http://compcert.inria.fr) - 几乎所有 C 语言 (ISO C99) 的高保证编译器，为 PowerPC、ARM、RISC-V 和 x86 处理器生成高效代码.
+- [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
 - [Ceramist](https://github.com/certichain/ceramist) - 经过验证的基于散列的近似成员结构，例如布隆过滤器.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - 加密原始代码生成.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - 已验证的 OCaml 实现了一种用于图形中增量循环检测的算法.
 - [JSCert](https://github.com/jscert/jscert) - 带有经过验证的参考解释器的 ECMAScript 5 (JavaScript) 的 Coq 规范.
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的正式模型、类型系统的逻辑关系以及一些 Rust 库的安全证明.
+- [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - RISC-V 处理器指令集架构和扩展的定义.
-- [Vélus](http://velus.inria.fr) - 经过验证的编译器，用于类似 Lustre/Scade 的数据流同步语言.
+- [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Raft 分布式共识协议的实现，在 Coq 中使用 Verdi 框架进行验证.
 
 ## Resources
@@ -212,7 +214,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 来定义逻辑概念和函数以及对它们的推理.
 - [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.
-- [Hydra battles and Cie](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣数学的变化，包括文档和练习.
+- [Hydras, Ordinals & Co.](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣数学的变化，包括文档和练习.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - 使用规范结构进行编程和证明的设计模式演示.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - 数学组件教程的源代码.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - 使用 Coq 编写形式证明的基础知识.

@@ -40,7 +40,7 @@
 ## CI/CD
 *持续集成/交付.*
 * [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行作业、作业市场.
-* [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
+* [Gitlab](https://gitlab.com/) - 具有类似 Github 的能力的开源 CI 和托管解决方案.
 
 ## CMS (headless)
 * [Tipe](https://tipe.io/) - 开源无头 CMS.
@@ -48,7 +48,7 @@
 * [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 
 ## Code Quality
-*检查您的代码质量.*
+*Check your code quality.*
 * [sonarsource](https://www.sonarsource.com/) - Lint 和代码质量检查.
 * [Codacy](https://www.codacy.com/) - 自动代码质量检查.
 
@@ -77,6 +77,7 @@
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展的服务器.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署而不关心基础设施，适用于所有主要框架.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用.
+* [Fly.io](https://fly.io/) - 通过位置感知服务（延迟减少）部署 dockerized 全栈应用程序.
 
 ## Discussions
 *评论和论坛.*
@@ -162,7 +163,7 @@
 
 ## Payments
 *处理付款、信用卡处理和发票.*
-* [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
+* [Stripe Payments](https://stripe.com/payments) - 通过 API 接受付款并在全球范围内转移资金.
 * [Braintree](https://www.braintreepayments.com/) - Paypal 采取 API 优先支付方式.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
 * [Paddle](https://paddle.com/) - 具有广泛地域支持的 SaaS 收入交付平台（与目前的 Stripe 不同）.

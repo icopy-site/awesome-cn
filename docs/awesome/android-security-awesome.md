@@ -14,13 +14,13 @@
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - 最大 128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) - 不是免费
-12. [AppCritique](https://appcritique.boozallen.com) - 上传您的 Android APK 并接收全面的免费安全评估.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  - 用于移动应用安全测试 Android 和 iOS 移动应用的企业工具. 实验室自动化功能在云中的真实设备上进行动态和静态分析，可在几分钟内返回结果. 不免费
-14. [AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 一种产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).
 15. [App Detonator](https://appdetonator.run/)  - 引爆 APK 二进制文件以提供源代码级别的详细信息，包括应用程序作者、签名、构建和清单信息.  3 分析/天免费配额.
 16. [BitBaan](https://malab.bitbaan.com/)
 17. [Pithus](https://beta.pithus.org/)  - 开源 APK 分析器. 目前仍处于 Beta 阶段，目前仅限于静态分析. 可以使用 Yara 规则来捕获恶意软件. 更多 [here](https://beta.pithus.org/about/).
 18. [Approver](https://approver.talos-sec.com/)  - Approver 是适用于 Android 和 iOS 应用程序的全自动安全分析和风险评估平台. 不免费.
+19. ~~[AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 一种产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
+12. ~~[AppCritique](https://appcritique.boozallen.com) - 上传您的 Android APK 并接收全面的免费安全评估~~
 15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) - 2019年10月31日日落~~
 4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
 6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - 不是免费的~~
@@ -110,7 +110,7 @@
 32. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
 33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis.
 34. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - 是一个强大的网络界面，可帮助您在运行时操作 Android 和 iOS 应用程序
-35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API Monitor）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
+35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API 监视器）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
 36. [Android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer) - 该工具用于分析本地存储中 android 应用程序的内容.
 37. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux 发行版) 早些时候它曾经是一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 38. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（安卓逆向工程）不再处于积极开发中~~
