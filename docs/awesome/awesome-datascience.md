@@ -19,7 +19,7 @@
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdiscplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学课程中._ |
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学程序中._ | |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是将成熟的统计学学科与非常年轻的学科——计算机科学结合起来的故事.  “数据科学”一词是最近才出现的，专门用来指代一种新的职业，该职业有望理解海量的大数据存储. 但是理解数据有着悠久的历史，多年来一直被科学家、统计学家、图书馆员、计算机科学家和其他人讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、定义和相关术语的尝试._ |
@@ -197,7 +197,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，具有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
 | [Neptune.ai](https://neptune.ai)  | 支持数据科学家创建和共享机器学习模型的社区友好平台.  Neptune 有助于团队合作、基础设施管理、模型比较和可重复性.  |
 | [steppy](https://github.com/neptune-ml/steppy)  | 用于快速且可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
 | [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
@@ -491,6 +491,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 - [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+- [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
 
 
@@ -513,7 +515,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings 数据场景
 - [Prash Chan](http://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球范围内开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
 - [Data Science London](http://datasciencelondon.org/) Data Science London 是一个非营利组织，致力于免费、开放、传播数据科学.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.

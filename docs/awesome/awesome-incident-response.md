@@ -18,7 +18,7 @@
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 防御性安全培训软件，它将您的网络分析培训课程、事件响应演习和红队参与提升到一个新的水平.
 * [Caldera](https://github.com/mitre/caldera)  - 自动对手仿真系统，在 Windows 企业网络中执行妥协后的对抗行为. 它使用计划系统和基于对抗策略、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 模块化、菜单驱动、跨平台工具，用于构建可重复、延时、分布式安全事件. 轻松为 Blue Team 演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件、干扰和诱饵来支持和扩展他们的行动.
-* [Metta](https://github.com/uber-common/metta) - 进行对抗性模拟的信息安全准备工具.
+* [Metta](https://github.com/uber-common/metta) - Information security preparedness tool to do adversarial simulation.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA 提供了一个脚本框架，旨在允许蓝队测试他们对恶意交易的检测能力，模仿 MITRE ATT&amp;CK.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - 用于对手模拟和威胁追踪的虚拟机.
@@ -52,13 +52,13 @@
 * [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson 关于事件响应的书.
 * [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - 斯科特·J·罗伯茨.
 * [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - 事件响应的权威指南.
-* [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - 作者：斯科特·J·罗伯茨，丽贝卡·布朗.
+* [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - 斯科特·J·罗伯茨，丽贝卡·布朗.
 * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - 事件响应者的重要参考.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich 关于 IR 的书.
 
 ### Communities
 
-* [augmentd](http://augmentd.co/) - Community driven site providing a list of searches that can be implemented in and executed with a variety of common security tools.
+* [augmentd](http://augmentd.co/) - 社区驱动的站点，提供可在各种常见安全工具中实施和执行的搜索列表.
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek)  - 由来自执法部门、私营部门和法医供应商的 8,000 多名工作专业人员组成的社区. 此外，还有很多学生和爱好者！ 指导 [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/). 
 * [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - SANS 的 DFIR 邮件列表.
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR 社区频道 - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
@@ -76,7 +76,7 @@
 * [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - artifactcollector 项目提供了一个在系统上收集取证工件的软件.
 * [bulk_extractor](https://github.com/simsong/bulk_extractor)  - 计算机取证工具，可扫描磁盘映像、文件或文件目录并提取有用信息，而无需解析文件系统或文件系统结构. 由于忽略了文件系统结构，程序在速度和彻底性方面脱颖而出.
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) - 精简的解析器列表，可快速分析取证图像文件（`dd`、E01、`.vmdk` 等）并输出九份报告.
-* [CyLR](https://github.com/orlikoski/CyLR) - CyLR 工具从具有 NTFS 文件系统的主机中快速、安全地收集取证工件，并将对主机的影响降至最低.
+* [CyLR](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 * [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) - 数字取证工件存储库
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch 脚本和 Unix Bash 脚本，用于在事件响应期间全面收集主机取证数据.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - 从基于 Windows、OSX 和 \*nix 的操作系统收集易失性数据的自动化工具.
@@ -99,7 +99,7 @@
 ### Knowledge Bases
 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - 数字取证神器知识库
-* [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
+* [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows 事件攻击示例
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows 注册表知识库
 
 ### Linux Distributions
@@ -161,7 +161,7 @@
 * [Knockknock](https://objective-see.com/products/knockknock.html) - 显示设置为在 OSX 上自动执行的持久项目（脚本、命令、二进制文件等）.
 * [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - 基于插件的取证框架，用于快速 mac 分类，适用于实时机器、磁盘映像或单个工件文件.
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - 免费的 Mac OS X 计算机取证工具.
-* [OSX Collector](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
+* [OSX Collector](https://github.com/yelp/osxcollector) - 用于实时响应的 OSX Auditor 分支.
 
 ### Other Lists
 
@@ -182,9 +182,10 @@
 * [Hostintel](https://github.com/keithjjones/hostintel) - 为每个主机拉取情报.
 * [imagemounter](https://github.com/ralphje/imagemounter) - 命令行实用程序和 Python 包，以简化（卸载）取证磁盘映像的安装.
 * [Kansa](https://github.com/davehull/Kansa/) - PowerShell 中的模块化事件响应框架.
+* [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT 目录树重建和记录信息.
 * [Munin](https://github.com/Neo23x0/munin) - VirusTotal 和其他服务的在线哈希检查器.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse 是一个 PowerShell 模块，专注于安全事件响应期间的有针对性的遏制和补救.
-* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - 非常简单的多线程多规则到多文件 YARA 扫描恶意软件动物园和 IR 的 Python 脚本.
+* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - 允许在 Windows、Linux 和 OS X 上使用 YARA 扫描磁盘和内存中的 IOC.
 * [RaQet](https://raqet.github.io/) - 非常规的远程获取和分类工具，允许对使用特意构建的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
 * [Raccine](https://github.com/Neo23x0/Raccine) - 简单的勒索软件保护

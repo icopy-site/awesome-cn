@@ -9,39 +9,39 @@
 
 
 
-&gt;有用的资源来创建应用程序 [Salesforce](https://login.salesforce.com/)
+&gt; 用于创建应用程序的有用资源 [Salesforce](https://login.salesforce.com/)
 
-*灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 您可能还想阅读完整 [awesome-list](https://github.com/sindresorhus/awesome).*
+*灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西. 您可能还想阅读完整版 [awesome-list](https://github.com/sindresorhus/awesome).*
 
 
 ## What is Awesome Salesforce ?
-太棒了，这是个很棒的项目，由 [Sindre Sorhus](https://github.com/sindresorhus) 谁是最受欢迎的人  [Github](https://github.com/sindresorhus) . 他创建了一个项目，以列出收藏在您计算机中的最酷链接，并通过在一个位置进行编译将它们组织在一起. 后来，这个项目引起了轰动，世界各地的开发人员社区开始编写很棒的页面（专用于他们最喜欢的技术）.
+Awesome是一个很棒的项目，由 [Sindre Sorhus](https://github.com/sindresorhus) 谁是最受欢迎的人  [Github](https://github.com/sindresorhus) . 他创建了一个项目来列出在你的机器上标记的最酷的链接，并通过在一个地方编译它们来将它们组织在一起. 后来，这个项目火了起来，世界各地的开发者社区开始编写很棒的页面（致力于他们最喜欢的技术）.
 
 ## What makes for an awesome list?
-Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 并确保您的列表符合要求.
+Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 并确保您的清单符合要求.
 
 ## The Fiery Meter of AWSome
 
-*回购0100+星：：fire：
-*回购0200+颗星：：fire :: fire：
-*回购0500+颗星：：fire :: fire :: fire：
-*回购1000颗以上的星星：：fire :: fire :: fire :: fire：
-*带2000颗以上星星的仓库：：fire :: fire :: fire :: fire :: fire：
+* 0100+ 星的回购：:fire:
+* 拥有 0200+ 颗星星的回购：:fire::fire:
+* 0500+ 星的回购：:fire::fire::fire:
+* 1000+ 星的回购：:fire::fire::fire::fire:
+* 拥有 2000 多个星星的回购：:fire::fire::fire::fire::fire:
 
-不在“ AWSome的火表”上的存储库仍然很棒
+不在“The Fiery Meter of AWSome”上的回购仍然很棒
 
 ## A Note on Repo AWSomeness
 
-列出的每个回购协议至少满足以下要求之一：
+列出的每个 repo 至少满足以下要求之一：
 
-*社区撰写的超过100个星星的回购
-*社区担保回购（少于100个星标）
+* 社区编写的 100 多颗星的存储库
+* 社区担保的 100 星以下的回购协议
 
-社区回购的100多颗星不是严格的要求，它仅用作初始编译的指南. 如果您可以保证&lt;100个星星的回购令人赞叹，并且可以解释为什么要列出回购，请提交请求请求.
+社区 repos 100+ 星不是严格要求，它仅作为初始编译的指南. 如果您可以保证&lt; 100 星的存储库非常棒，并且您可以解释为什么应该列出它，请提交拉取请求.
 
-拉取请求可能会保持打开状态一段时间，以使社区鸣叫并担保它. 来自的官方回购 [aws](https://github.com/aws) 或者 [awslabs](https://github.com/awslabs) 如果社区愿意，可以将其删除. 看看 [awesome manifesto](https://github.com/sindres或者hus/awesome/blob/master/awesome.md).
+拉取请求可能会开放一段时间，让社区参与进来并为其提供担保. 来自官方的回购 [aws](https://github.com/aws) 或者 [awslabs](https://github.com/awslabs) 如果社区愿意，可以删除. 查看 [awesome manifesto](https://github.com/sindres或者hus/awesome/blob/master/awesome.md).
 
-  阅读相关真棒页面：
+  阅读相关精彩页面：
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
    * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
@@ -51,73 +51,73 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
 ### Salesforce Developer Free Edition Signup
-* [Signup for Free Developer Account](https://developer.salesforce.com/signup) -注册免费的开​​发者帐户.
+* [Signup for Free Developer Account](https://developer.salesforce.com/signup) - 注册免费的开​​发者帐户.
 
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
-以前流行的Mavensmate编辑器（http://mavensmate.com/）现在已停止开发.
+之前流行的Mavensmate 编辑器(http://mavensmate.com/) 现已停止开发.
 
-* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) -基于Eclipse平台，由Salesforce.com支持和打包（现已淘汰）
-* [ASIDE.IO](https://www.aside.io) -在线编辑器，快速，可快速连接到任何Salesforce组织.
-* [WelkinSuite for Windows](https://welkinsuite.com/) -用于force.com应用程序的桌面编辑器，免费使用，需付费以获得支持.
-* [C9.IO](https://get.c9.io/salesforce/) -在线编辑器，可快速连接到任何Salesforce组织.
-* [Illuminated Cloud](http://www.illuminatedcloud.com/) -JetBrains IntelliJ IDEA中托管的功能强大的Force.com开发工具.
+* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - 基于 Eclipse 平台，由 Salesforce.com 支持和打包（现已退休）
+* [ASIDE.IO](https://www.aside.io) - 在线编辑器，快速并快速连接到任何 Salesforce 组织.
+* [WelkinSuite for Windows](https://welkinsuite.com/) - force.com 应用程序的桌面编辑器，免费使用，付费支持.
+* [C9.IO](https://get.c9.io/salesforce/) - 在线编辑器，快速连接到任何 Salesforce 组织.
+* [Illuminated Cloud](http://www.illuminatedcloud.com/) - 强大的 Force.com 开发工具，托管在 JetBrains IntelliJ IDEA 中.
 
 ### Plugins for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="220">
 
-* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) -基于Eclipse平台，由Salesforce.com支持和打包
-* [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)-MavensMate插件，用于在GitHub的Atom文本编辑器中构建Salesforce.com/Force.com/Salesforce1应用程序
-* Visual Studio代码
-  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) 是正式的Salesforce VS Code扩展.
-  * [ForceCode](https://github.com/celador/ForceCode) 是用于Salesforce开发的Visual Studio Code扩展
-  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) 提供自动完成的Apex和Visualforce，Go-To和Peek定义以及实时语法检查
-  * [xysfdx](https://github.com/exiahuang/xysfdx) 是用于Salesforce SFDX开发的Visual Studio Code扩展.
-  * [Salesforce Snippets](https://marketplace.visualstudio.com/items?itemName=ajinkya-hingne.salesforce-snippets) 是VS代码扩展，提供有用的Salesforce代码段以加快为Salesforce平台编写代码的速度
-* [ApexMate](https://github.com/superfell/ApexMate)-用于TextMate的Apex插件.
-* [VimAwesome](http://vimawesome.com/plugin/vim-force-com)-Force.com的VIM插件.
-* [Force.com CLI](https://force-cli.heroku.com/)-Force.com的命令行界面.
-* [HaoIDE](https://github.com/xjsender/haoide) -Force.com的Sublime插件
-* [JedIDE](https://plugins.jetbrains.com/plugin/9238) -IntelliJ IDEA的Force.com集成
-* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate)  VS代码的Mavensmate扩展. 现在，主Mavensmate项目不再处于活动状态，因此该插件的使用可能受到限制.
+* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - 基于Eclipse平台，由Salesforce.com支持和打包
+* [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- MavensMate 插件，用于在 GitHub 的 Atom 文本编辑器中构建 Salesforce.com/Force.com/Salesforce1 应用程序
+* 可视化工作室代码
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) 是官方的 Salesforce VS Code 扩展.
+  * [ForceCode](https://github.com/celador/ForceCode) 是用于 Salesforce 开发的 Visual Studio Code 扩展
+  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) 为 Apex &amp; Visualforce、Go-To &amp; Peek 定义和实时语法检查提供自动完成
+  * [xysfdx](https://github.com/exiahuang/xysfdx) 是用于 Salesforce SFDX 开发的 Visual Studio Code 扩展.
+  * [Salesforce Snippets](https://marketplace.visualstudio.com/items?itemName=ajinkya-hingne.salesforce-snippets) 是一个 VS Code 扩展，它提供了有用的 Salesforce 代码片段来加速为 Salesforce 平台编写代码
+* [ApexMate](https://github.com/superfell/ApexMate)- TextMate 的 Apex 插件.
+* [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- Force.com 的 VIM 插件.
+* [Force.com CLI](https://force-cli.heroku.com/)- Force.com 的命令行界面.
+* [HaoIDE](https://github.com/xjsender/haoide) - Force.com 的 Sublime 插件
+* [JedIDE](https://plugins.jetbrains.com/plugin/9238) - IntelliJ IDEA 的 Force.com 集成
+* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) 用于 VS 代码的 Mavensmate 扩展. 主要的 Mavensmate 项目现在不再活跃，所以这个插件的用途可能有限.
 
 ### Salesforce Custom Search Engines
 
-* [findsf](http://findsf.info)：与Salesforce相关的网站的Google自定义搜索
-* [Search The Force.com](http://searchtheforce.com)：具有OpenSearch支持的Google对Salesforce相关站点的自定义搜索
+* [findsf](http://findsf.info): Salesforce 相关网站的 Google 自定义搜索
+* [Search The Force.com](http://searchtheforce.com)：支持 OpenSearch 的 Salesforce 相关网站的 Google 自定义搜索
 
 ### Browser extensions for Salesforce
-  阅读十字列表 [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
+  阅读受难的名单 [Awesome-list-of-browser-extensions-of-salesforce](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) ApexMocks是Force.com Apex语言的模拟框架，它的灵感来自著名的Java模拟框架Mockito
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) - ApexMocks 是 Force.com Apex 语言的模拟框架.它的灵感来自著名的 Java 模拟框架 Mockito
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) -支持Apex企业模式等的通用Apex库！
-    必须部署 [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) 在部署此库之前.另请参见 [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
+* [Apex Commons](https://github.com/financialforcedev/fflib-apex-common) - 支持 Apex 企业模式等的通用 Apex 库！
+    必须部署 [ApexMocks](https://github.com/financialforcedev/fflib-apex-mocks) 在部署这个库之前.另见 [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode) -示例应用程序，说明了Apex企业模式库
-    必须部署 [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) 部署此库之前<br/>
+* [Apex Commons Sample Code](https://github.com/financialforcedev/fflib-apex-common-samplecode) - 说明 Apex 企业模式库的示例应用程序
+    必须部署 [Apex Common ](https://github.com/financialforcedev/fflib-apex-common) 在部署这个库之前<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) -用于Salesforce元数据API的Apex包装器<br/>
+* [Apex Metadata API](https://github.com/financialforcedev/apex-mdapi) - Salesforce 元数据 API 的 Apex 包装器<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core) -Apex HTTP标注框架.<br/>
+* [Apex Core HttpCallout](https://github.com/financialforcedev/ffhttp-core) - Apex HTTP 标注框架.<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
-  该库已扩展了五个库<br/>
+  这个库已经扩展了五个库<br/>
   * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
   * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
   * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
@@ -125,156 +125,156 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Dropbox](https://github.com/financialforcedev/ffhttp-dropbox)
 
 
-  <b>该库的主要功能</b>
-    + HTTP标注框架.
-    + JSON序列化和反序列化基类.
-    + OAuth客户端-扩展了基本AbstractClient以提供OAuth身份验证所需的标注.
+  <b>这个库的主要特点</b>
+    + HTTP 标注框架.
+    + JSON 序列化和反序列化基类.
+    + OAuth 客户端 - 扩展基本 AbstractClient 以提供 OAuth 身份验证所需的标注.
 
-* [Polyforce](https://github.com/mailtoharshit/polyforce) -PolyForce是一个最初的项目，其动机是创建可从Salesforce导出数据的聚合物应用程序/组件，该想法可创建一组可相互共享的强大的聚合物组件，另一方面可为开发人员学习并获得灵感以构建更多组件<br/>
+* [Polyforce](https://github.com/mailtoharshit/polyforce) - PolyForce 项目始于一个想法，其目的是创建从 Salesforce 派生数据的聚合物应用程序/组件，该想法创建一组强大的聚合物组件，可以相互共享，另一方面为开发人员学习并获得启发以构建更多组件<br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
-* [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) -Apex for Force.com中的Github API客户端<br/>
-* [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) -使用Tooling API从Apex代码创建UML图<br/>
-* [SfApexDoc](http://force-code.com/category/sfapexdoc/) -功能齐全的Apex文档生成器，类似于JavaDoc.
+* [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) -Apex for Force.com 中的 Github API 客户端<br/>
+* [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) - 使用工具 API 从 Apex 代码创建 UML 图<br/>
+* [SfApexDoc](http://force-code.com/category/sfapexdoc/) - 功能齐全的 Apex 文档生成器，类似于 JavaDoc.
 
-* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid)  -TableGrid是免费的开放源代码Force.com库，它为用户和开发人员提供了高度可定制的，看起来像原生的，可排序的，可过滤的，可编辑的Grid Visualforce组件. 此组件可以用作apex：pageBlockTables和Standard Related Lists的高级，高度可配置的（由开发人员和用户使用）</br>
+* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid)  - TableGrid 是一个免费的开源 Force.com 库，它为用户和开发人员提供了一个高度可定制的、原生的、可排序的、可过滤的、可编辑的 Grid Visualforce 组件. 此组件可用作 apex:pageBlockTables 和标准相关列表的高级、高度可配置（由开发人员和用户）替代</br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
-* [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi)  -Force.com平台上用于Apex语言的企业安全性API. 该库包含三个模块-验证，输出编码和访问控制（CRUD，FLS和共享）.
+* [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi)  - Force.com 平台上 Apex 语言的企业安全 API. 该库由三个模块组成 - 验证、输出编码和访问控制（CRUD、FLS 和共享）.
 
-* [R.apex](https://github.com/Click-to-Cloud/R.apex/)  -Apex的功能库. 该库受Ramda.js的启发，提供了许多实用函数来操纵Apex集合，以及对函数式编程的广泛支持.
+* [R.apex](https://github.com/Click-to-Cloud/R.apex/)  - Apex 的功能库. 这个库受 Ramda.js 的启发，提供了一系列实用函数来操作 Apex 集合，以及对函数式编程的广泛支持.
 
-* [Force DI](https://github.com/afawcett/force-di) - 通用 [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) （DI）库，支持在运行时注入Apex，Visualforce，Lightning和Flows.
-* [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) -Salesforce.com平台上的SOQL查询生成器，它支持复杂条件，字段和名称空间管理，子关系查询以及功能编程样式编码.
+* [Force DI](https://github.com/afawcett/force-di) - 通用 [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) 库，支持在运行时注入 Apex、Visualforce、Lightning 和 Flows.
+* [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) - Salesforce.com 平台上的 SOQL 查询构建器，支持复杂条件、字段和命名空间管理、子关系查询和函数式编程风格编码.
 
-* [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch)  -Apex批次可以通过从前一个批次的`finish（）`方法调用后继批次来进行链接. 但是这种硬编码使该模型变得不灵活. 很难从外部构建链，从中央类构建链，也不能在依赖于业务逻辑的运行时构建链.
+* [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch)  - Apex 批次可以通过从前一个批次的 `finish()` 方法调用后继批次来链接. 但是这种硬编码使这个模型不灵活. 很难从外部构建链，更难从中央类或依赖于业务逻辑的运行时构建.
 
-* [Apex Test Kit](https://github.com/apexfarm/ApexTestKit)  -Apex测试工具包可以帮助为Apex测试类生成大量的sObject数据. 它可以帮助建立任意级别的多对一，一对多关系，还可以基于简单规则自动生成字段值.
+* [Apex Test Kit](https://github.com/apexfarm/ApexTestKit)  - Apex 测试套件可以帮助为 Apex 测试类生成大量 sObject 数据. 它可以帮助建立任意级别的多对一、一对多关系，还可以根据简单的规则自动生成字段值.
 
 ### Developer Utilities
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
 
-* [Weave](http://mailtoharshit.github.io/Weave/) -Sublime Text插件生成样板Salesforce代码模板
+* [Weave](http://mailtoharshit.github.io/Weave/) - 用于生成样板 Salesforce 代码模板的 Sublime Text 插件
 
-* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) -自动将GitHub存储库部署到Salesforce ORG
-  和“部署到Salesforce按钮”到您的README.md文件
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - 自动将 GitHub 存储库部署到 Salesforce ORG
+  和“部署到 Salesforce 按钮”到您的 README.md 文件
 
-* [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon是Force.com应用程序，可让您构建和运行Selenium测试，以在Salesforce组织中使用Visualforce / Javascript验证自定义UI页面.
+* [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon 是一个 Force.com 应用程序，使您能够构建和运行 Selenium 测试，以在您的 Salesforce 组织中使用 Visualforce/Javascript 验证自定义 UI 页面.
 
-* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)-适用于Android，iOS，WP8和Amazon Fire OS的Cordova推送通知插件
+* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- 适用于 Android、iOS、WP8 和 Amazon Fire OS 的 Cordova 推送通知插件
 
 * [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 
-* [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)-用于将外部数据加载到Analytics Cloud数据集中并转换现有数据集的实用程序.
+* [Analytics-Cloud-Dataset-Utils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- 将外部数据加载到 Analytics Cloud 数据集并转换现有数据集的实用程序.
 
-* [Workbench](https://github.com/ryanbrainard/forceworkbench)-Workbench是基于Web的功能强大的工具套件，旨在供管理员和开发人员通过Force.com API与Salesforce.com组织进行交互.
+* [Workbench](https://github.com/ryanbrainard/forceworkbench)- Workbench 是一套功能强大的基于 Web 的工具套件，专为管理员和开发人员设计，可通过 Force.com API 与 Salesforce.com 组织进行交互.
 
-* [Playground](https://www.adminbooster.com/tool)-Adminbooster Playground是运行SOQL / SOSL查询或Apex代码的在线工具，为分析和管理效率提供了高级功能.
+* [Playground](https://www.adminbooster.com/tool)- Adminbooster Playground 是一个运行 SOQL/SOSL 查询或 Apex 代码的在线工具，为分析和管理生产力提供高级功能.
 
-* [CassaCloud](http://cassacloud.com/nice-salesforce-debug/) -不错的salesforce调试功能可帮助您从Salesforce开发人员控制台了解日志. 例如，如果您具有带有列表的地图地图，则很难在其确切位置找到值.
+* [CassaCloud](http://cassacloud.com/nice-salesforce-debug/) - 不错的 salesforce 调试帮助您了解来自 Salesforce 开发人员控制台的日志. 例如，如果您有带有列表的地图 Map，则很难找到它确切位置的值.
 
-* [SoqlXplorer](https://github.com/superfell/SoqlX)-SoqlXplorer是使用Salesforce.com平台的开发人员的绝佳工具.
+* [SoqlXplorer](https://github.com/superfell/SoqlX)- SoqlXplorer 是一款非常适合使用 Salesforce.com 平台的开发人员的工具.
 
-* [force-dev-tool](https://github.com/amtrack/force-dev-tool) -支持Force.com开发生命周期的命令行工具.
+* [force-dev-tool](https://github.com/amtrack/force-dev-tool) - 支持 Force.com 开发生命周期的命令行工具.
 
-* [JSON to Apex](https://www.adminbooster.com/tool/json2apex)-从JSON字符串生成Apex类.
+* [JSON to Apex](https://www.adminbooster.com/tool/json2apex)- 从 JSON 字符串生成 Apex 类.
 
-* [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)-将15个字符的ID转换为18个字符的ID.
+* [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- 将 15 个字符的 ID 转换为 18 个字符的 ID.
 
-* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) -Sweet.apex是下一代Apex开发，将Sweet Apex（功能丰富的Apex式代码）转换为Apex类.
+* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex 是下一代 Apex 开发，将 Sweet Apex（功能丰富的类似 Apex 的代码）转换为 Apex 类.
 
-* [soql-parser-js](https://github.com/paustint/soql-parser-js) -JavaScript库，用于解析SOQL查询，组成SOQL查询和格式化SOQL查询.
+* [soql-parser-js](https://github.com/paustint/soql-parser-js) - 用于解析 SOQL 查询、组合 SOQL 查询和格式化 SOQL 查询的 JavaScript 库.
 
-* [Adminite](https://adminite.app/) -具有内置自动完成功能，内联数据编辑等功能的查询编辑器桌面应用程序.
+* [Adminite](https://adminite.app/) - 具有内置自动完成、内联数据编辑等功能的查询编辑器桌面应用程序.
 
 ### Git Ignore for Salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
 
-* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)-用于Salesforce或Force.com项目的可重用.gitIgnore文件
+* [GitIgnore for Salesforce ](https://github.com/mailtoharshit/gitignore)- Salesforce 或 Force.com 项目的可重用 .gitIgnore 文件
 
 ### Open Source Projects Repositories from Salesforce
 
-* [Salesforce Git Repo](https://github.com/forcedotcom) -在这里获取所有最新的Salesforce开源项目，您将找到Salesforce面向全球开放的出色项目，框架，库
-* [Salesforce Labs](https://github.com/salesforcelabs)  -从Salesforce团队签出开源和实验项目. 尽早使用可以胜任功能并贡献您想法的功能
+* [Salesforce Git Repo](https://github.com/forcedotcom) - 在这里获取所有最新的 salesforce 开源项目，您会发现 salesforce 为世界开放的很棒的项目、框架、库
+* [Salesforce Labs](https://github.com/salesforcelabs)  - 从 Salesforce 团队签出开源和实验项目. 抢先体验符合功能要求的功能并贡献您的想法
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
-* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements)  -Mobile UI Elements是一个免费的开放源代码Force.com（不受支持）库，用于简化移动应用程序的开发. 该库基于Google的Polymer框架，为创建可在智能手机和平板电脑上良好运行的HTML5应用提供了基本的构建基块
-* [ForceServer](https://github.com/ccoenraets/force-server) -它支持代理和Web服务器，ForceServer是一种简单的开发服务器，旨在在构建使用Salesforce OAuth和REST服务的应用程序时提供简单的集成开发人员体验.
+* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements)  - Mobile UI Elements 是一个免费的开源 Force.com（不受支持）库，用于简化移动应用程序的开发. 该库基于 Google 的 Polymer 框架，为创建在智能手机和平板电脑上运行良好的 HTML5 应用程序提供了基本构建块
+* [ForceServer](https://github.com/ccoenraets/force-server) - 它支持代理和 Web 服务器，ForceServer 是一个简单的开发服务器，旨在在构建使用 Salesforce OAuth 和 REST 服务的应用程序时提供简单和集成的开发人员体验.
 
 ## Javascript Libraries for Salesforce
 
-* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) -它以异步JavaScript函数调用的形式封装了对Salesforce提供的各种API的访问.与其他Salesforce API库不同，它旨在为服务器端和客户端应用程序提供集成接口，因此您不必重写类似的逻辑它具有仅用于在不同环境中运行的不同库.此外，它还具有有用的命令行界面（CLI），它提供了交互式控制台（REPL），因此您可以轻松学习用法.
+* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) - 在异步JavaScript函数调用中封装了对Salesforce提供的各种API的访问.与其他Salesforce API库不同，它旨在提供服务器端和客户端应用程序的集成接口，因此您不必重写类似的逻辑使用不同的库仅用于在不同的环境中运行.此外，它具有有用的命令行界面（CLI），提供交互式控制台（REPL），因此您可以轻松学习用法.
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 
-* [ForceSniffer - Device Detection Library for Salesforce](https://github.com/mailtoharshit/ForceSniffer.Js) -简化的库，可检测移动设备，Salesforce1 App和其他Saleforce上下文.
-* [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) -现在有了ES6支持，此微型库旨在在JavaScript应用中使用Salesforce REST API
-* [nForce](https://github.com/kevinohara80/nforce) -nforce是用于force.com，database.com和salesforce.com的node.js salesforce REST API包装器
-* [ngForce](https://github.com/noeticpenguin/ngForce) -一组Angular.js模块，可促进Force.com平台上的快速，可持续的Angular.js应用程序开发.
-* [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)-ForceTK-用于JavaScript应用程序的最小Force.com REST API
-* [ForceEng](https://github.com/ccoenraets/forceng) -微库在AngularJS应用中使用Salesforce REST API
-* [Formulon](https://github.com/leifg/formulon) -公式解析器完全在ES6中实现. [See Demo](http://formulon.io)
-* [Scripting Toolkit](https://www.adminbooster.com/tool/scripting-toolkit) -基于Windows的工具包，用于运行本机Javascript以访问Salesforce数据.
+* [ForceSniffer - Device Detection Library for Salesforce](https://github.com/mailtoharshit/ForceSniffer.Js) - 检测移动设备、Salesforce1 应用程序和其他 Saleforce 上下文的简化库.
+* [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - 现在有了 ES6 支持，这个微型库旨在在 JavaScript 应用程序中使用 Salesforce REST API
+* [nForce](https://github.com/kevinohara80/nforce) - nforce 是用于 force.com、database.com 和 salesforce.com 的 node.js salesforce REST API 包装器
+* [ngForce](https://github.com/noeticpenguin/ngForce) - 一组 Angular.js 模块，可促进 Force.com 平台上快速且可持续的 Angular.js 应用程序开发.
+* [ForceTK](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - 适用于 JavaScript 应用程序的最小 Force.com REST API
+* [ForceEng](https://github.com/ccoenraets/forceng) - 在 AngularJS 应用程序中使用 Salesforce REST API 的微型库
+* [Formulon](https://github.com/leifg/formulon) - 在 ES6 中完全实现的公式解析器. [See Demo](http://formulon.io)
+* [Scripting Toolkit](https://www.adminbooster.com/tool/scripting-toolkit) - 基于 Windows 的工具包，用于运行本机 Javascript 以访问 Salesforce 数据.
 
 
 ## UX Libraries for Salesforce
 
-* [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language](http://www.lightningdesignsystem.com/)  -使用Lightning Design System，您可以构建与Salesforce核心功能一致的外观和感觉的自定义应用程序-无需反向设计我们的样式！ 只需下载与平台无关的CSS框架，即可立即开始使用.
+* [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language](http://www.lightningdesignsystem.com/)  - 使用 Lightning 设计系统，您可以构建外观和感觉与 Salesforce 核心功能一致的自定义应用程序 — 无需逆向工程我们的样式！ 只需下载我们与平台无关的 CSS 框架，立即开始使用.
 展示，使用 [Google Material Design on](http://www.getmdl.io) 销售队伍
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 
 * [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - 图书馆
-* [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) -使用React构建的Salesforce Lightning设计系统组件
-* [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) -一个模板项目，用于使用自动构建脚本（Gulp.js）在Salesforce上创建基于ReactJS的单页应用程序
-* [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) -加载程序/微调器集合，以利用强大的用户体验进行Salesforce项目
-* [Avonni Creator](https://www.avonnicreator.com/) -具有完善的闪电设计系统支持的Salesforce原型制作工具.
+* [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) - 使用 React 构建的 Salesforce Lightning 设计系统组件
+* [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - 在 Salesforce 上创建基于 ReactJS 的单页应用程序的模板项目，带有自动构建脚本 (Gulp.js)
+* [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner 集合以利用强大的 Salesforce 项目用户体验
+* [Avonni Creator](https://www.avonnicreator.com/) - 具有复杂 Lightning 设计系统支持的 Salesforce 原型设计工具.
 
 ## ETL Tools
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ETL.jpg" align="right" width="220">
 
-* [Data Loader](https://developer.salesforce.com/page/Data_Loader) -是易于使用的图形工具，可帮助您将数据获取到Salesforce对象中.
-* [SFXOrgData](https://www.sfapex.com/) -将数据从生产或完整沙箱环境复制到Developer / Dev Pro沙箱.
-* [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) -在组织之间迁移相关的数据集.
-* [Jitterbit](http://www.jitterbit.com/) -商业软件集成产品，可促进传统，企业和按需计算应用程序之间的传输.
-* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) -最受欢迎的开源图形ETL工具.
-* [Talend](https://www.talend.com/products/talend-open-studio) -用于带有图形开发环境的数据集成作业设计的开源应用程序.
-*来自的其他一些解决方案 [awesome-etl list](https://github.com/pawl/awesome-etl).
+* [Data Loader](https://developer.salesforce.com/page/Data_Loader) - 是一种易于使用的图形工具，可帮助您将数据导入 Salesforce 对象.
+* [SFXOrgData](https://www.sfapex.com/) - 将数据从您的生产或完整沙盒环境复制到开发人员/开发专业沙箱.
+* [DreamFactory Monarch](http://www.dreamfactory.com/force.com/monarch) - 在组织之间迁移相关数据集.
+* [Jitterbit](http://www.jitterbit.com/) - 促进传统、企业和按需计算应用程序之间传输的商业软件集成产品.
+* [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - 最流行的开源图形 ETL 工具.
+* [Talend](https://www.talend.com/products/talend-open-studio) - 具有图形开发环境的用于数据集成作业设计的开源应用程序.
+* 来自其他一些解决方案 [awesome-etl list](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lightning
 
 ## Salesforce Browser Extensions
-* [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce)：适用于Salesforce的很棒的浏览器扩展集合
+* [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Salesforce 的令人敬畏的浏览器扩展集合
 
 ## Mobile Development with Salesforce
 
 ### Mobile SDK
-* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) -如果您想使用SDK本身的源代码，那么您来对地方了！ 您可以浏览示例应用程序源代码并调试各层，以了解幕后一切的工作方式.
+* [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) - 如果您想使用 SDK 本身的源代码，那么您来对地方了！ 您可以浏览示例应用程序源代码并逐层调试，以了解所有内容的工作原理.
 
-* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows) -通常在Visual Studio中构建项目； 一切都应该建立得很好. 如果您希望创建一个新项目而不使用核心库的NuGet版本，只需使用模板创建一个新项目，删除NuGet引用，然后将引用添加到Salesforce.SDK.Core，Salesforce.SDK.Store（对于Windows）项目）或Salesforce.SDK.Phone（用于电话项目）.
+* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows) -在Visual Studio中正常构建项目； 一切都应该建立良好. 如果您希望创建一个新项目而不使用核心库的 NuGet 版本，只需使用模板创建一个新项目，删除 NuGet 引用并添加对 Salesforce.SDK.Core、Salesforce.SDK.Store 的引用（对于 Windows项目）或 Salesforce.SDK.Phone 用于电话项目.
 
-* [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android)-适用于Android的Salesforce Mobile SDK的源存储库.
+* [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android)- 适用于 Android 的 Salesforce 移动 SDK 的源存储库.
 
 
 ## Salesforce Mobile Packs with Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs)
 
-Google聚合物包装： [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://raw.githubusercontent.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" width="180">](https://raw.githubusercontent.com/ForceDotComLabs/mobile-ui-elements)
+谷歌聚合物包： [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://raw.githubusercontent.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" width="180">](https://raw.githubusercontent.com/ForceDotComLabs/mobile-ui-elements)
 Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK
 
-AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo](https://raw.githubusercontent.com/developerforce/MobilePack-AngularJS) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
-使用Mobile Pack for AngularJS设计和构建可分离UI，逻辑和数据的应用程序.  Google的AngularJS可让您在JavaScript代码中获得Model-View-Control架构的好处，并利用可重复使用的组件和依赖项注入等高级功能.
+AngularJS 包： [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo](https://raw.githubusercontent.com/developerforce/MobilePack-AngularJS) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
+使用 Mobile Pack for AngularJS 设计和构建可分离 UI、逻辑和数据的应用程序.  Google 的 AngularJS 可让您在 JavaScript 代码中获得模型-视图-控制架构的好处，并利用可重用组件和依赖注入等高级功能.
 
 
 ## Troubleshooting and queries
- * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers)  ：各种各样的董事会可用于讨论有关平台的几乎所有内容. 找到正确的板[此处].
+ * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers)  : 提供了丰富多样的讨论板，几乎可以讨论有关平台的任何事情. 找到正确的电路板 [此处].
  * [Tweet](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
- * [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce)：使用正确的标签（例如顶点，visualforce和salesforce）发布您的问题，以获得快速响应.
- * [StackExchange](http://salesforce.stackexchange.com/) ：Salesforce Stack Exchange是一个针对Salesforce管理员，实施专家，开发人员以及介于两者之间的任何人的问答网站. 它是100％免费的，无需注册.
- * [salesforce-developer.ru](https://salesforce-developer.ru/)：讲俄语的Salesforce社区：有开发人员和管理员的论坛和博客.
+ * [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce)：使用正确的标签（例如 apex、visualforce 和 salesforce）发布您的问题以获得快速响应.
+ * [StackExchange](http://salesforce.stackexchange.com/) ：Salesforce Stack Exchange 是一个问答网站，面向 Salesforce 管理员、实施专家、开发人员和任何中间人. 它是 100% 免费的，无需注册.
+ * [salesforce-developer.ru](https://salesforce-developer.ru/): 俄语 Salesforce 社区：有开发者和管理员的论坛和博客.
 
 
 ### Official Salesforce Twitter Accounts [<img src="https://g.twimg.com/Twitter_logo_blue.png" align="right" width="60">](https://twitter.com/)
@@ -291,52 +291,52 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 
 
 ### Learning Salesforce Platform
-* [Trailhead](https://developer.salesforce.com/trailhead)  -Trailhead通过有趣的交互式教程教您如何免费构建云应用程序. 通过学习按需的Salesforce开发技能来脱颖而出.
-* [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) -本课程教您如何构建功能强大的Web和移动应用程序并将其托管在云中，而无需编写任何代码.
-* [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) -四次Salesforce MVP David Liu教授的速成课程有关如何编码Apex.
-* [Focus on Force](https://focusonforce.com/) -这种廉价的学习资源提供了针对多个认证途径的平台课程，学习指南和实践考试，包括Admin，Advanced Admin，App Builder，Platform Developer I，Platform Developer II等.
+* [Trailhead](https://developer.salesforce.com/trailhead)  - Trailhead 通过有趣的交互式教程教您如何免费构建云应用程序. 通过学习急需的 Salesforce 开发技能而脱颖而出.
+* [Udacity Course](https://www.udacity.com/course/intro-to-point-click-app-development--ud162) - 本课程教您如何构建强大的 Web 和移动应用程序并将它们托管在云中，而无需编写一行代码.
+* [Pluralsight Course](https://www.pluralsight.com/courses/apex-absolute-beginner-guide-coding-salesforce) - 四次 Salesforce MVP David Liu 教授的关于如何编写 Apex 的速成课程.
+* [Focus on Force](https://focusonforce.com/) - 这种廉价的学习资源为多种认证途径提供平台课程、学习指南和练习考试，包括 Admin、Advanced Admin、App Builder、Platform Developer I、Platform Developer II 等.
 
 ### Salesforce Certification Program
 [<img src="http://www.runconsultants.com/wp-content/uploads/2015/04/salesforce-certified-e1429111675579.png" align="right" width="100">](http://certification.salesforce.com/)
- *引入三个新的Salesforce认证：[ Salesforce Platform App Builder](http://certification.salesforce.com/app-builders), [Salesforce Platform Developer I](http://certification.salesforce.com/platform-developers)， 和  [Salesforce Platform Developer II](http://certification.salesforce.com/platform-developers).
+ * 推出三项新的 Salesforce 认证：[ Salesforce Platform App Builder](http://certification.salesforce.com/app-builders), [Salesforce Platform Developer I](http://certification.salesforce.com/platform-developers)， 和  [Salesforce Platform Developer II](http://certification.salesforce.com/platform-developers).
 
- *在线Salesforce认证凭证验证 [Click Here](http://certification.salesforce.com/verification)
- *准备注册考试了吗？ [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE).
+ * 在线 Salesforce 认证凭据验证 [Click Here](http://certification.salesforce.com/verification)
+ * 准备好报名考试了吗？ [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE).
 
 ### Salesforce University
  * [<img src="https://partners.salesforce.com/s/SalesforceUniversity.png?v=1" align="right" width="100">]()[Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
 
 
 ### Technical Blogs
-* [Salesforce Developer Relations Blog](https://developer.salesforce.com/blogs/) -由Salesforce开发人员关系团队管理，您将在Salesforce世界中找到最酷的更新，大部分是该讲台上的体验，功能和开发人员评估博客博客.
-* [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) -涵盖了工程团队的最新更新，您将找到有关核心工程和产品发布的帖子的更新，以及一些很棒的人可以关注
-* [Andrew Fawcett](http://andyinthecloud.com/) -Financialforce.com的CTO，作者，以对Salesforce Community的杰出贡献而闻名. [Read More](http://andyinthecloud.com/about/)
-* [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com)  -有关闪电组件，Apex，Visualforce，Force.com和Salesforce的文章. 他是Salesforce.com的高级技术讲师，并拥有11倍的Salesforce认证.
-* [Christophe Coenraets](http://coenraets.org/blog/) -Christophe Coenraets是Salesforce.com的开发人员，他专注于移动应用程序开发， [Read More](http://coenraets.org/blog/bio/)
-* [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) -Harshit Pandey是Intuitive Surgical的首席技术架构师，之前是Salesforce.com开发人员关系团队的技术架构师，并负责构建  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
-* [Jeff Doughlas](http://blog.jeffdouglas.com/) -Appirio的高级技术顾问，topcoder的开发人员福音设计师，专门研究基于云，API和移动应用程序. [Read More](http://blog.jeffdouglas.com/about/)
+* [Salesforce Developer Relations Blog](https://developer.salesforce.com/blogs/) - 由 Salesforce 开发人员关系团队管理，您将在此平台上找到 Salesforce 世界中最酷的更新，主要是体验、功能和开发人员宣传员博客官方.
+* [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - 涵盖工程团队的最新更新，您将找到有关核心工程和产品相关帖子的更新以及一些值得关注的人
+* [Andrew Fawcett](http://andyinthecloud.com/) - Financialforce.com 的首席技术官，作者并以其对 Salesforce 社区的杰出贡献而闻名. [Read More](http://andyinthecloud.com/about/)
+* [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com)  - 一般有关 Lightning Components、Apex、Visualforce、Force.com 和 Salesforce 的文章. 他是 Salesforce.com 的高级技术讲师，拥有 11 项 Salesforce 认证.
+* [Christophe Coenraets](http://coenraets.org/blog/) - Christophe Coenraets 是 Salesforce.com 的开发人员布道师，他专注于移动应用程序开发， [Read More](http://coenraets.org/blog/bio/)
+* [Harshit Pandey -(Oyecode)](http://www.oyecode.dev/) - Harshit Pandey 是 Intuitive Surgical 的首席技术架构师，之前是 Salesforce.com 开发者关系团队的技术架构师，并构建  [Trailhead](https://developer.salesforce.com/trailhead) while at Salesforce, love to expriement with ever evoloving capacities of Salesforce [Read More](https://about.me/harshit.pandey)
+* [Jeff Doughlas](http://blog.jeffdouglas.com/) - Appirio 的高级技术顾问和 topcoder 的 Developer Evangelist Architect，专门研究基于云的 API 和移动应用程序. [Read More](http://blog.jeffdouglas.com/about/)
 * [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and Keir is Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More](https://www.blogger.com/profile/07815472992351343395)
-* [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) -也称为Enreeco或ForceLogic.超极客技术爱好者佣工软件开发人员和Salesforce爱好者. [Read More](http://enree.co/)
-* [Peter Knolle](http://peterknolle.com/)  -Peter Knolle喜欢使用各种不同的技术. 经过认证的Salesforce.com专业人士和Force.com MVP. [Read More](http://peterknolle.com/about/)
-* [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)-Force.com MVP和架构师-对S1和Javascript充满热情，Professsion架构师，现在是他的公司所有者，专注于salesforce咨询 [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
-* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)-自2008年以来，在平台上工作的7个Salesforce证书，MVP和技术架构师 [Read More](http://jitendrazaa.com/)
-* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/) -Mohit是Codescience.com的CodeScience. 他以在 [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) 拥有9x Salesforce认证.
-* [The Wizard News](https://thewizardnews.com/) -向导新闻是Brian Kwong（又名Salesforce向导）创建的博客，视频和播客的集中位置.
+* [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - 也被称为 Enreeco 或 ForceLogic.Ultra geek 技术爱好者雇佣软件开发人员和 Salesforce 爱好者. [Read More](http://enree.co/)
+* [Peter Knolle](http://peterknolle.com/)  - Peter Knolle 喜欢使用各种不同的技术. 经认证的 Salesforce.com 专家和 Force.com MVP. [Read More](http://peterknolle.com/about/)
+* [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)- Force.com MVP 和架构师 - 对 S1 和 Javascript 充满热情，专业架构师，现在是他的公司的所有者，专注于销售队伍咨询 [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
+* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 自 2008 年以来在平台上工作的 7 份 Salesforce 证书、MVP 和技术架构师 [Read More](http://jitendrazaa.com/)
+* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/) - Mohit 是 Codescience.com 上的 CodeScience. 他因其在以下领域的宝贵贡献而闻名 [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) 拥有 9x Salesforce 认证.
+* [The Wizard News](https://thewizardnews.com/) - 向导新闻是由 Brian Kwong（又名 Salesforce 向导）创建的博客、视频和播客的中心位置.
 
 ### Podcasts
-* [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) -每周一次的技术和软件开发播客，着重于安全平台.
-* [SalesforceWay Podcast](https://salesforceway.com/podcast) -每周开发人员针对性播客.
-* [Salesforce Posse](https://salesforceposse.com) -创建Salesforce Posse播客是为了向全世界介绍Salesforce开发和架构最佳实践以及Salesforce生态系统的新闻.
-* [Code Coverage](https://www.codecoverage.org/) -Code Coverage是在force.com平台上面向开发人员的播客，在每一集中，我们都会与开发人员讨论他们如何参与该平台，他们在从事什么，他们喜欢的技术以及他们认为最适合自己的技术“创意”解决方案.
+* [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - 每周一次的技术和软件开发播客，重点关注 Salesforce 平台.
+* [SalesforceWay Podcast](https://salesforceway.com/podcast) - 每周面向 Salesforce 开发人员的目标播客.
+* [Salesforce Posse](https://salesforceposse.com) - 创建 Salesforce Posse 播客是为了向全世界介绍 Salesforce 开发和架构最佳实践以及来自 Salesforce 生态系统的新闻.
+* [Code Coverage](https://www.codecoverage.org/) - Code Coverage 是一个面向 force.com 平台上的开发人员的播客，在每一集中，我们都会与开发人员讨论他们如何参与该平台、他们在做什么、他们喜欢的技术以及他们认为最重要的内容“创意”解决方案.
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 第一的.
 
 ## BugReport-PullRequest
-1.按照主题类别下的顶层“类别”页面，以_字母顺序_添加链接，并在降价文件中添加注释（如果有）.
- 2.对于断开的链接或过时的信息，请提交错误报告（BR），或进行必要的更改并提交PR. 两者都欢迎. 请为每个链接或更改添加单独的PR.
- 3.对于那些无法使用git的用户，创建一个github帐户，然后在用户界面上分叉此repo. 然后按以下方式编辑页面 [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) ，然后点击保存并提交PR.  Github这样做 [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
+1. 根据主题子部分中的顶级类别页面，按_字母顺序_添加您的链接，并在降价文件中添加注释（如果有）.
+ 2. 对于断开的链接或过时的信息，提交错误报告 (BR)，或进行必要的更改并提交 PR. 两者都受欢迎. 请为每个链接或添加的更改提交单独的 PR.
+ 3.对于不会使用git的，创建一个github账号，然后在用户界面上fork this` repo. 然后通过编辑页面 [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) ，然后点击保存并提交 PR.  Github 这样做 [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 
 ## License

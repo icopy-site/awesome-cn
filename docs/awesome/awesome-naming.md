@@ -12,7 +12,7 @@ Famously...
 
 计算机科学中的概念通常是无形的，因此命名事物是困难的也就不足为奇了.
 尽管如此，我们_确实_想出了聪明、有创意和有趣的名字.
-其中一些如此成熟，我们从未停下来欣赏.
+其中一些如此成熟，我们永远不会停下来欣赏.
 
 这是一个精心策划的列表，用于正确命名.
 
@@ -57,6 +57,7 @@ Famously...
 ## Libraries and Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney)  - 一个 JavaScript 库，用于实现并发计算的 actor 模型. 这个词是指乔治克鲁尼，他也是一名演员.
+- [Puppeteer](https://github.com/puppeteer/puppeteer)  - 浏览器自动化库. 如果浏览器是木偶，这就是木偶操纵者.
 - [Uglify](https://github.com/mishoo/UglifyJS)  - 一个 JavaScript 压缩器. 删除所有使代码可读和漂亮的东西，使其更小.
 - [uppy](https://github.com/transloadit/uppy)  - 一个以狗为主题的上传组件. 该名称是 _upload_ 和 _puppy_ 的混合. 它甚至带有一个名为 _Golden Retriever_ 的崩溃恢复插件.
 
@@ -85,7 +86,7 @@ Famously...
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem)  - 在具有友谊关系的人的网络中寻找共同朋友群的问题. 或者更一般地说，找到完整的子图.
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - 一个游戏世界，展示了非常简单的成分可以产生惊人的复杂性.
 - [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - 一个黑匣子，即使是像停机问题这样的不可解释的问题，它也能神奇地给出答案. 
-- [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - 事实上，在某些形式语言中，任何足够长的字符串都可以通过其子字符串的重复被 _pumped_，并且结果保持在相同的形式语言中.
+- [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - 事实上，在某些形式语言中，任何足够长的字符串都可以_泵送_其子字符串的重复，并且结果保持在相同的形式语言中.
 
 ## Other
 

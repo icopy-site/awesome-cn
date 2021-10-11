@@ -118,7 +118,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 
 - [XDP workshop -- Introduction, experience, and future development (Video)](http://netdevconf.org/1.2/session.html?herbert-xdp-workshop)
 - [High Speed Packet Filtering on Linux](https://cdn.shopify.com/s/files/1/0177/9886/files/phv2017-gbertin.pdf) - 关于 Linux 上的数据包过滤、DDoS 保护、内核中的数据包处理、内核绕过、XDP 和 eBPF.
-- [How to drop 10 million packets per second](https://blog.cloudflare.com/how-to-drop-10-million-packets/) - Cloudflare 的博客文章讨论了他们转向使用 XDP 进行数据包过滤的转变.
+- [How to drop 10 million packets per second](https://blog.cloudflare.com/how-to-drop-10-million-packets/) - Cloudflare 的博客文章谈论他们转向使用 XDP 进行数据包过滤.
 
 ### AF_XDP
 
@@ -157,7 +157,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 - [How I ended up writing opensnoop in pure C using eBPF](https://bolinfest.github.io/opensnoop-native/) - 关于如何编写 eBPF 程序的彻底演练，首先仅使用 bpf() 系统调用，然后是 libbpf 库，以及可重现的代码示例.
 - [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) - 涉及使用多个 BPF 工具进行跟踪.
 - [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) - 使用 perf 和 bcc 程序对 ping 请求和回复进行故障排除.
-- [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) - Operated by Netronome: some tutorials for network-related eBPF use cases, including an eBPF Offload Starting Guide.
+- [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) - 由 Netronome 运营：一些与网络相关的 eBPF 用例的教程，包括 eBPF 卸载启动指南.
 - [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek) - XDP 入门研讨会的第一版.
 - [XDP for the Rest of Us](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop) - 第二版，新内容.
 - [Load XDP programs using the ip (iproute2) command](https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263)
@@ -171,11 +171,12 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 - [prototype-kernel/kernel/samples/bpf](https://github.com/netoptimizer/prototype-kernel/tree/master/kernel/samples/bpf) - Jesper Dangaard Brouer 的原型内核存储库包含一些可以在内核基础结构之外编译的附加示例.
 - [iproute2/examples/bpf/](https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git/tree/examples/bpf) - 一些网络程序附加到 TC 接口.
 - [Netronome sample network applications](https://github.com/Netronome/bpf-samples/) - 提供与硬件卸载兼容的 eBPF 应用程序的基本但完整的示例.
-- [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) - bcc 工具附带的示例，主要是关于跟踪.
+- [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) - 与 bcc 工具一起出现的示例，主要是关于跟踪.
 - [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools)  - 这些工具本身可以被视为 BPF 程序的示例用例，主要用于跟踪和监控. 某些 Linux 发行版已经打包了 bcc 工具.
 - [MPLSinIP sample](https://github.com/fzakaria/eBPF-mpls-encap-decap)  - 一个被大量评论的示例，演示了如何在 IP 中封装和解封装 MPLS. 代码是为那些刚接触 BPF 开发的人注释的.
 - [ebpf-samples](https://github.com/vbpf/ebpf-samples) - 从多个项目中收集的已编译（作为 ELF 目标文件）样本的集合，主要用作用户空间验证器的测试用例.
 - [ebpf-kill-example](https://github.com/niclashedam/ebpf-kill-example) - 一个完整记录和测试的 eBPF 探针示例，它记录所有强制终止并将它们打印在用户空间中.
+- [redbpf examples](https://github.com/foniod/redbpf/tree/main/examples) - 使用 RedBPF 在 Rust 中编写 eBPF 程序的示例程序.
 
 ## eBPF Workflow: Tools and Utilities
 
@@ -215,7 +216,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 ### User Space eBPF
 
 - [uBPF](https://github.com/iovisor/ubpf/) - 用 C 编写.包含一个解释器、一个用于 x86_64 架构的 JIT 编译器、一个汇编器和一个反汇编器.
-- [A generic implementation](https://github.com/YutaroHayakawa/generic-ebpf)  - 支持 FreeBSD 内核、FreeBSD 用户空间、Linux 内核、Linux 用户空间和 macOS 用户空间. 用于 [VALE software switch](https://www.unix.com/man-page/freebsd/4/vale/)'s [BPF extension module](https://github.com/YutaroHayakawa/vale-bpf).
+- [A generic implementation](https://github.com/YutaroHayakawa/generic-ebpf) - With support for FreeBSD kernel, FreeBSD user space, Linux kernel, Linux user space and macOS user space. Used for the [VALE software switch](https://www.unix.com/man-page/freebsd/4/vale/)'s [BPF extension module](https://github.com/YutaroHayakawa/vale-bpf).
 - [rbpf](https://github.com/qmonnet/rbpf)  - 用 Rust 编写. 适用于 Linux、macOS 和 Windows 的解释器，以及适用于 Linux 下 x86_64 的 JIT 编译器.
 - [PREVAIL](https://github.com/vbpf/ebpf-verifier) - eBPF 的用户空间验证器 [using an abstract interpretation layer](https://elazarg.github.io/pldi19main-final.pdf)，支持循环.
 - [oster](https://github.com/grantseltzer/oster)  - 用 Go 编写. 通过将 eBPF 附加到 uprobes 来跟踪 Go 程序执行的工具.
@@ -254,7 +255,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 - [XDP in practice: integrating XDP in our DDoS mitigation pipeline](http://netdevconf.org/2.1/session.html?bertin) - Cloudflare 使用 XDP 防御 DDoS.
 - [Droplet: DDoS countermeasures powered by BPF + XDP](http://netdevconf.org/2.1/session.html?zhou) - 在 Facebook 使用 XDP 防御 DDoS.
 - [DPDK has a poll-mode driver (PMD) based on AF_XDP](https://dpdkuserspace2018.sched.com/event/G45Z/dpdk-pmd-for-afxdp)
-- [CETH for XDP](http://www.slideshare.net/IOVisor/ceth-for-xdp-linux-meetup-santa-clara-july-2016) - 用于更快网络 I/O 的通用以太网驱动程序框架，这是一项由 Mellanox 发起的技术.
+- [CETH for XDP](http://www.slideshare.net/IOVisor/ceth-for-xdp-linux-meetup-santa-clara-july-2016) - Common Ethernet Driver Framework for faster network I/O, a technology initiated by Mellanox.
 - Suricata，一个开源入侵检测系统， [relies on eBPF components](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/) 其“捕获旁路”功能：
 
   - ["eBPF and XDP" section of Suricata documentation](http://suricata.readthedocs.io/en/latest/capture-hardware/ebpf-xdp.html?highlight=XDP#ebpf-and-xdp)
@@ -276,12 +277,13 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 - [FUSE](https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf) - 考虑使用 eBPF.
 - [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - 帮助测量服务器的功耗，并使用 eBPF 程序在内核中聚合数据.
 - [upf-bpf](https://github.com/navarrothiago/upf-bpf) - 基于 XDP 的 5G UPF 内核解决方案.
+- [redbpf](https://github.com/foniod/redbpf) - 在 Rust 中高效编写 eBPF 代码的工具和框架.
 
 ## The Code
 
 - [linux/include/linux/bpf.h](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/linux/bpf.h) - 和 [linux/include/uapi/bpf.h](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/uapi/linux/bpf.h): 与 eBPF 相关的定义，分别用于内核和与用户空间程序的接口.
-- [linux/include/linux/filter.h](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/linux/filter.h) - 和 [linux/include/uapi/filter.h](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/uapi/linux/filter.h): information used to run the BPF programs themselves.
-- [linux/kernel/bpf/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf)  - 该目录包含大部分与 BPF 相关的代码. 特别是，这些文件值得关注：
+- [linux/include/linux/filter.h](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/linux/filter.h) - 和 [linux/include/uapi/filter.h](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/include/uapi/linux/filter.h)：用于运行 BPF 程序本身的信息.
+- [linux/kernel/bpf/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf) - This directory contains most of BPF-related code. In particular, those files are worth of interest:
 
   - [`syscall.c`](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf/syscall.c) - 系统调用允许的不同操作，例如程序加载或地图管理.
   - [`core.c`](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/kernel/bpf/core.c) - BPF 解释器.

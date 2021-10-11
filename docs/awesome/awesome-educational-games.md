@@ -8,21 +8,21 @@
 
 *请阅读 [contribution guidelines](https://github.com/yrgo/awesome-educational-games/blob/master/CONTRIBUTING.md) 在贡献之前. *
 
-> [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) 旨在向人们传授某些主题、扩展概念、加强发展、了解历史事件或文化，或帮助他们在玩耍时学习技能—— [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
+> [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) 旨在教授人们某些主题、扩展概念、加强发展、了解历史事件或文化，或帮助他们在玩耍时学习技能—— [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
 
 
 
 ## Art & Design
 
 - [Canon Explains Exposure](http://www.canonoutsideofauto.ca/) - 了解如何为您的照片提供恰到好处的光线.
-- [Can't Unsee](https://cantunsee.space/) - 一款注重细节的游戏，可为您赢得大量金币.
+- [Can't Unsee](https://cantunsee.space/) - 注重细节的游戏可为您赢得大量金币.
 - [Font Memory Game](https://betterwebtype.com/font-memory-game) - 识别不同风格的字体是排版中最具挑战性的部分之一.
 - [Method of Action](https://method.ac/) - 一系列教你设计原则的游戏.
   - [The Bézier Game](https://bezier.method.ac/) - 贝塞尔曲线
   - [Color](https://color.method.ac/) - 颜色
   - [Shape Type](https://shape.method.ac/) - 字母塑形
   - [Kern Type](https://type.method.ac/) - 字距调整
-- [Pixactly](http://pixact.ly/) - 像素测试来测验您的知识.
+- [Pixactly](http://pixact.ly/) - 一个像素测试来测试你的知识.
 - [The Boolean Game](https://boolean.method.ac/) - 了解如何在 Sketch、Figma 和其他矢量编辑器中使用布尔运算.
 
 ## Articles
@@ -47,7 +47,7 @@
 
 ## Languages
 
-- [Drops](https://languagedrops.com/) - 以您选择的语言，通过有趣的游戏学习有用的单词和短语.
+- [Drops](https://languagedrops.com/) - 以您选择的语言学习有用的单词和短语，以及有趣的游戏.
 - [Duolingo](https://www.duolingo.com/) - 免费学习西班牙语、法语和其他语言.
 
 ## Math & Computer Science
@@ -55,7 +55,7 @@
 - [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - 一种教 lambda 演算的儿童纸笔游戏.
 - [CS Unplugged](https://csunplugged.org/en/) - 一系列课堂活动，无需使用计算机即可教授计算机科学概念.
 - [Finitris](http://www.postcrashgames.com/finitris/) - 查看运行正则表达式的内容.
-- [Guess The Correlation](http://guessthecorrelation.com/) - 尝试猜测散点图中的两个变量的相关程度.
+- [Guess The Correlation](http://guessthecorrelation.com/) - 尝试猜测散点图中两个变量的相关性.
 
 ## Music
 
@@ -66,6 +66,7 @@
 ## Programming
 
 - [BOX-256](http://box-256.com/) - 用程序集编写一个虚构的 CPU 以输出图形.
+- [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - 通过玩简单的文字冒险来学习 Linux 命令.
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - 基于剪辑规则引擎的高要求逻辑游戏.
 - [Code Avengers](https://www.codeavengers.com/) - 学习以有趣且有效的方式构建网站、应用程序和游戏.
 - [Code School](https://www.pluralsight.com/codeschool ) - 学习在舒适的浏览器中编码.
