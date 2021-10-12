@@ -26,7 +26,7 @@
 * [Barman](https://www.pgbarman.org/index.html) - 2ndQuadrant 的 PostgreSQL 备份和恢复管理器.
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - 用于 PostgreSQL 的高级 WAL 文件管理工具.
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) – pg\_arman 的一个分支，由@PostgresPro 改进，支持增量备份、从副本备份、多线程备份和恢复以及无存档命令的匿名备份.
-* [pgBackRest](https://pgbackrest.org/)  - 可靠的 PostgreSQL 备份和恢复.
+* [pgBackRest](https://pgbackrest.org/)  - 可靠的 PostgreSQL 备份和恢复。
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back 是一个简单的备份脚本
 * [pghoard](https://github.com/aiven/pghoard) - 用于云对象存储（AWS S3、Azure、Google Cloud、OpenStack Swift）的备份和恢复工具.
 * [wal-e](https://github.com/wal-e/wal-e) - Heroku 将 PostgreSQL 的简单连续归档到 S3、Azure 或 Swift.
@@ -62,6 +62,7 @@
 * [temBoard](https://github.com/dalibo/temboard) - 基于 Web 的 PostgreSQL GUI 和监控.
 * [TablePlus](https://tableplus.com/)  - 本机应用程序可让您编辑数据库和结构. 确保高端安全（商业软件）.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 跨平台数据库管理工具（免费/商业）
+* [DbGate](https://dbgate.org) - 最智能的（无）SQL 数据库客户端
 
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - 在 macOS 上开始使用 PostgreSQL 的最简单方法.
@@ -105,7 +106,7 @@
 * [pg\_shard](https://github.com/citusdata/pg_shard) - 扩展以扩展实时读取和写入.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - 将 CPU 密集型工作负载卸载到 GPU 的扩展.
 * [pgxn](https://pgxn.org/) PostgreSQL 扩展网络 - 许多开源 PostgreSQL 扩展的中央分发点
-* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - 一个 PostgreSQL 扩展，它在流上连续运行 SQL 查询，增量地将结果存储在表中.
+* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - 允许检查 plpgsql 源代码的扩展.
 * [PostGIS](http://postgis.net/) - PostgreSQL 的空间和地理对象.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres 绑定作为加密库 Themis 的扩展，在 PgSQL 方面提供各种安全服务.
@@ -115,6 +116,7 @@
 * [pgTAP](https://pgtap.org/) - Postgres 的数据库测试框架
 * [HypoPG](https://github.com/HypoPG/hypopg) - HypoPG 提供假设/虚拟索引功能.
 * [pgRouting](https://github.com/pgRouting/pgrouting) - pgRouting 扩展了 PostGIS/PostgreSQL 地理空间数据库，以提供地理空间路由和其他网络分析功能.
+* [PGAudit](https://www.pgaudit.org/) - PostgreSQL 审计扩展（或 pgaudit）通过 PostgreSQL 提供的标准日志记录工具提供详细的会话和/或对象审计日志记录.
 
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - 用于查询计划的火焰图生成器.
@@ -125,7 +127,7 @@
 * [pgtune](https://github.com/le0pard/pgtune) - PostgreSQL 配置向导的在线版本.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL 在线配置工具（也基于 pgtune）.
 * [PoWA](https://powa.readthedocs.io/en/latest/) - PostgreSQL 工作负载分析器收集性能统计数据并提供实时图表和图形，以帮助监控和调整您的 PostgreSQL 服务器.
-* [pg_web_stats](https://github.com/kirs/pg_web_stats) - Web UI to view pg_stat_statements.
+* [pg_web_stats](https://github.com/kirs/pg_web_stats) - 用于查看 pg_stat_statements 的 Web UI.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) - 用于调整 TimescaleDB 数据库以根据主机的资源（例如内存和 CPU 数量）发挥其最佳性能的程序.
 
 ### Utilities
@@ -163,7 +165,7 @@
 * [sqitch](https://github.com/sqitchers/sqitch) - 用于管理版本化架构部署的工具
 * [pgmigrate](https://github.com/yandex/pgmigrate) - 由 Yandex 开发的用于演化架构迁移的 CLI 工具.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - 比较数据库模式的工具，能够接受一些持久的差异
-* [pg-differ](https://github.com/multum/pg-differ) - 用于轻松初始化/更新 PostgreSQL 表结构的工具，迁移替代方案 (Node.js).
+* [pg-differ](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
 * [sqlcheck](https://github.com/jarulraj/sqlcheck)  - 自动检测常见的 SQL 反模式. 这种反模式通常会减慢查询速度. 因此，解决这些问题将有助于加快查询速度.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户收集对 Postgres 数据库健康状况的深入分析.
 * [ScaffoldHub.io](https://scaffoldhub.io) - 使用 Angular、Vue 或 React（商业软件）生成全栈 PostgreSQL 应用程序. 
@@ -171,7 +173,7 @@
 ### Language bindings
 * Common Lisp： [Postmodern](https://github.com/marijnh/Postmodern)
 * Clojure： [clj-postgresql](https://github.com/remodoy/clj-postgresql)
-* 长生不老药： [postgrex](https://github.com/elixir-ecto/postgrex)
+* Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
 * 走： [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx)
 * 哈斯克尔： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * 爪哇： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
@@ -207,7 +209,7 @@
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - 关于使用 wal-e 在 PostgreSQL 中设置连续归档的教程.
 * [PG Casts](https://www.pgcasts.com) - Hashrocket 每周免费发布 PostgreSQL 截屏视频.
-* [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
+* [Postgres Guide](http://postgresguide.com/) - 旨在帮助初学者和有经验的用户查找特定技巧和探索 PostgreSQL 中可用工具的指南.
 * [PostgreSQL Exercises](https://pgexercises.com/) - 通过练习轻松学习 PostgreSQL 的网站.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - 非常广泛的 PostgreSQL 教程集合
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - 示例 postgres 模式的集合

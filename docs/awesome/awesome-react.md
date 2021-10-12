@@ -110,6 +110,7 @@
 - [Divjoy](https://divjoy.com) - React 代码库和 UI 生成器以加快开发速度（付费）
 - [Plasmic](https://www.plasmic.app/) - 用于可视化构建 React 组件的强大设计工具.
 - [jsx-ast-utils](https://github.com/jsx-eslint/jsx-ast-utils) - 用于静态分析 JSX 的 AST 实用程序模块
+- [react-scanner](https://github.com/moroshko/react-scanner) - 从代码中提取 React 组件和道具用法
 
 ##### React Starter Kits and Toolchains
 
@@ -181,7 +182,7 @@
 - [react-select](https://github.com/JedWatson/react-select) - React 的 Select 组件
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 漂亮且易于使用的 React 列表拖放
 - [react-dnd](https://github.com/react-dnd/react-dnd) - 拖放反应
-- [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动和可调整大小的网格布局
+- [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 - [react-table](https://github.com/tannerlinsley/react-table/) - 用于 React 的轻量级、快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用 React 构建的类似 Excel 的网格组件
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
@@ -212,7 +213,7 @@
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - 为 React 制作的 PDF 查看器
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 在 React 组件上轻松应用倾斜悬停效果
 - [react-popper](https://github.com/popperjs/react-popper) - 以优雅、高效的方式定位工具提示和弹出框
-- [react-tsparticles](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations
+- [react-tsparticles](https://github.com/matteobruni/tsparticles) - 轻松创建高度可定制的粒子动画
 - [react-spring](https://github.com/pmndrs/react-spring) - 用于 React 应用程序的基于 Spring-physics 的动画库
 - [framer-motion](https://github.com/framer/motion) - 用于支持生产就绪动画的 React 库
 - [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - 用于创建符合 WAI ARIA 可访问性规范的“手风琴”的 React 组件.
@@ -237,7 +238,7 @@
 ##### React Libraries
 
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - 用于在 React 中沿 div 边框放置元素的包装器.
-- [react-magic](https://github.com/reactjs/react-magic) - 借助 React 的强大功能自动 AJAX 化纯 HTML
+- [react-magic](https://github.com/reactjs/react-magic) - 使用 React 的强大功能自动 AJAX 化纯 HTML
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - 一组实现谷歌材料设计规范的 React 组件
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - 允许您检查 React 组件的所有道具的库
 - [react-responsive](https://github.com/wearefractal/react-responsive) - 响应式设计中的媒体查询

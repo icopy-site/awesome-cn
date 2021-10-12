@@ -38,7 +38,7 @@
 
 #### Video tutorials
 
-- [RailsCasts](http://railscasts.com) *（自 2013 年起停用）
+- [RailsCasts](http://railscasts.com) *（自 2013 年起不活跃）
 - [GoRails](https://gorails.com) *（免费增值）
 - [Drifting Ruby](https://www.driftingruby.com/) *（免费增值）
 
@@ -230,7 +230,7 @@
  &gt; 注意：这些应用程序的 Rails 版本在最新提交日期时有效. 它们在 Gemfile 和/或 Gemfile.lock 中定义，它们可能已经过时. 如果您发现它已过时，请不要忘记通过打开拉取请求来通知我们.
 
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理的智能流程和工作流自动化平台（使用 Rails 5.2）.
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - 公民基础设施检测应用程序（使用 Rails 4.2）.
 - [airCasting](https://github.com/HabitatMap/AirCasting)  - 使用智能手机（使用 Rails 5.2）记录、映射和共享健康和环境数据的平台.  —— [:earth_africa:](https://www.habitatmap.org/aircasting)
 - [alaveteli](https://github.com/mysociety/alaveteli) - 一个公开自由信息请求的平台 - 使用 Rails 5.1 - [:earth_africa:](https://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone)  - 音乐托管、管理和分发应用程序（使用 Rails 6.0）.  —— [:earth_africa:](https://alonetone.com)
@@ -252,7 +252,7 @@
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) - 软件工程师的社交网络应用程序 - 使用 Rails 3.2
 - [coderwall (next)](https://github.com/coderwall/coderwall-next) - 软件工程师的社交网络应用程序 - 使用 Rails 5.0
 - [codetriage](https://github.com/codetriage/codetriage)  - 一个开源项目查找器应用程序（使用 Rails 6.0）.  —— [:earth_africa:](https://www.codetriage.com/)
-- [commudle](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
+- [commudle](https://github.com/commudle/commudle) - 社区管理应用程序（使用 Rails 5.2）.
 - [contribulator](https://github.com/24pullrequests/contribulator) - 一个开源项目查找器应用程序 - 使用 Rails 5.1
 - [coursemology2](https://github.com/Coursemology/coursemology2) - 学习平台应用程序（使用 Rails 5.2）.
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - 拼车应用程序 - 使用 Rails 5.0（已存档）.
@@ -271,6 +271,7 @@
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 具有加密支持的消息传递应用程序（使用 Rails 4.2）.
 - [eol](https://github.com/EOL/eol) - 一个百科全书应用程序 - 使用 Rails 3.2 - [:earth_africa:](https://eol.org/)
 - [expertiza](https://github.com/expertiza/expertiza) - 学习材料共享应用程序（使用 Rails 4.2）.
+- [FAE](https://github.com/wearefine/fae/) - 由 FINE 开发的现代 CMS（使用 Rails 5.2）
 - [fairmondo](https://github.com/fairmondo/fairmondo)  - 市场应用程序（使用 Rails 4.2）.  —— [:earth_africa:](https://www.fairmondo.de)
 - [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm)  - 一个开源的 Ruby on Rails 客户关系管理平台 (CRM)（使用 Rails 5.2）.  —— [:earth_africa:](http://www.fatfreecrm.com/)
 - [feedbin](https://github.com/feedbin/feedbin)  - RSS 阅读器应用程序（使用 Rails 6.0）.  —— [:earth_africa:](https://feedbin.com)
@@ -291,11 +292,11 @@
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - 一个动漫发现平台（使用 Rails 4.1）.
 - [lavish](https://github.com/mquan/lavish) - 配色方案生成器（使用 Rails 4.2）.
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - 职业规划应用程序（使用 Rails 5.2）.
-- [lobsters](https://github.com/lobsters/lobsters)  - 一个链接聚合应用程序（使用 Rails 5.2）.  —— [:earth_africa:](https://lobste.rs)
+- [lobsters](https://github.com/lobsters/lobsters)  - 链接聚合应用程序（使用 Rails 5.2）.  —— [:earth_africa:](https://lobste.rs)
 - [loomio](https://github.com/loomio/loomio)  - 协作决策应用程序（使用 Rails 5.2）.  —— [:earth_africa:](https://www.loomio.org)
 - [mastodon](https://github.com/tootsuite/mastodon)  - 一个微博应用程序（使用 Rails 5.2）.  —— [:earth_africa:](https://mastodon.social/about)
 - [obtvse2](https://github.com/natew/obtvse2) - 一个博客应用程序（使用 Rails 4.0）.
-- [onebody](https://github.com/seven1m/onebody) - 适用于教堂的社交网络应用程序 - 使用 Rails 5.1
+- [onebody](https://github.com/seven1m/onebody) - 教堂的社交网络应用程序 - 使用 Rails 5.1
 - [openFarm](https://github.com/openfarmcc/OpenFarm)  - 有关农业和园艺信息的数据库（使用 Rails 5.2）.  ——
 - [opencongress](https://github.com/sunlightlabs/opencongress) - 获取有关美国国会信息的网站 - 使用 Rails 3.0（已存档）.
 - [openproject](https://github.com/opf/openproject)  - 一个项目管理应用程序（使用 Rails 6.0）.  —— [:earth_africa:](https://www.openproject.org)
@@ -318,13 +319,13 @@
 - [sanataro](https://github.com/kaznum/sanataro) - 帐户跟踪器（使用 Rails 4.2）.
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - 数字资产管理应用程序 - 使用 Rails 5.1
 - [selfstarter](https://github.com/apigy/selfstarter) - 众筹应用程序（使用 Rails 4.0）.
-- [sharetribe](https://github.com/sharetribe/sharetribe)  - 点对点市场平台（使用 Rails 5.2）.  —— [:earth_africa:](https://www.sharetribe.com)
+- [sharetribe](https://github.com/sharetribe/sharetribe)  - 一个点对点市场平台（使用 Rails 5.2）.  —— [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) - 一个社交网络平台 - 使用 Rails 5.0
 - [splits-io](https://github.com/glacials/splits-io)  - Speedrun 数据存储和分析引擎.  （使用 Rails 6.0）.  —— [:earth_africa:](https://splits.io)
 - [spokenvote](https://github.com/Spokenvote/spokenvote) - 一个社交投票应用程序（使用 Rails 4.2）.
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - 问答平台 - 使用 Rails 5.0
 - [teambox](https://github.com/redbooth/teambox) - 协作应用程序 - 使用 Rails 3.0 - [:earth_africa:](https://redbooth.com) （存档）.
-- [theodinproject](https://github.com/TheOdinProject/theodinproject)  - 一个教学平台（使用 Rails 5.2）.  —— [:earth_africa:](https://www.theodinproject.com/)
+- [theodinproject](https://github.com/TheOdinProject/theodinproject)  - 教学平台（使用 Rails 5.2）.  —— [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks)  - 目标跟踪应用程序（使用 Rails 5.2）.  —— [:earth_africa:](https://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - 电子商务平台（使用 Rails 4.2）.
 - [vglist](https://github.com/connorshea/vglist)  - 一个视频游戏库跟踪网络应用程序（使用 Rails 6.0）.  —— [:earth_africa:](https://vglist.co/)
@@ -339,7 +340,7 @@
 
 - [rails][link_rails_source] - 一个全栈 Web 开发框架 [:red_circle:](https://rubygems.org/gems/rails)
 
-&gt; “rails” gem 的直接依赖：
+&gt; “rails” gem 的直接依赖项：
 
 - [actioncable](https://github.com/rails/rails/tree/main/actioncable) - 将 websocket 与 Rails 应用程序集成的 gem [:red_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
 - [actionmailbox](https://github.com/rails/rails/tree/main/actionmailbox) - 在 Rails 应用程序中处理传入电子邮件的 gem [:red_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
@@ -354,12 +355,12 @@
 - [activesupport](https://github.com/rails/rails/tree/main/activesupport) - 提供一些扩展以支持 Rails 应用程序的 gem [:red_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
 - [railties](https://github.com/rails/rails/tree/main/railties) - 用于处理 Rails 应用程序中使用的 gem 和引擎以协同工作的 gem [:red_circle:](https://rubygems.org/gems/railties)
 
-&gt; 其他可以与 Rails 一起使用的 gem
+&gt; 其他可与 Rails 一起使用的 gem
 
 - [ace-rails-ap](https://github.com/codykrieger/ace-rails-ap) - 将 ajax.org cloud9 编辑器集成到 Rails 资产管道中的 gem. [:red_circle:](https://rubygems.org/gems/ace-rails-ap)
 - [action_policy](https://github.com/palkan/action_policy) - 处理授权的工具. [:red_circle:](https://rubygems.org/gems/action_policy)
 - [active_decorator](https://github.com/amatsuda/active_decorator) - 保持视图和助手面向对象的宝石. [:red_circle:](https://rubygems.org/gems/active_decorator)
-- [active_enum](https://github.com/adzap/active_enum) - 提供枚举类的宝石 [:red_circle:](https://rubygems.org/gems/active_enum)
+- [active_enum](https://github.com/adzap/active_enum) - 提供枚举类的 gem [:red_circle:](https://rubygems.org/gems/active_enum)
 - [activeadmin](https://github.com/activeadmin/activeadmin) - 提供管理面板的宝石. [:red_circle:](https://rubygems.org/gems/activeadmin)
 - [activerecord-analyze](https://github.com/pawurb/activerecord-analyze) - 将 EXPLAIN ANALYZE 添加到 Rails Active Record 查询对象的 gem. [:red_circle:](https://rubygems.org/gems/activerecord-analyze)
 - [activerecord-import](https://github.com/zdennis/activerecord-import) - 使用 ActiveRecord 处理批量数据插入的 gem. [:red_circle:](https://rubygems.org/gems/activerecord-import)
@@ -384,7 +385,7 @@
 - [bulma-rails](https://github.com/joshuajansen/bulma-rails) - Bulma 的包装器，一个基于 flexbox 的 CSS 框架. [:red_circle:](https://rubygems.org/gems/bulma-rails)
 - [cancancan](https://github.com/cancancommunity/cancancan) - 处理授权的宝石. [:red_circle:](https://rubygems.org/gems/cancancan)
 - [carrierwave](https://github.com/carrierwaveuploader/carrierwave) - 处理文件上传的 gem. [:red_circle:](https://rubygems.org/gems/carrierwave)
-- [caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - 用于生成实体关系图的 gem. [:red_circle:](https://rubygems.org/gems/caxlsx_rails)
+- [caxlsx_rails](https://github.com/caxlsx/caxlsx_rails) - 生成实体关系图的 gem. [:red_circle:](https://rubygems.org/gems/caxlsx_rails)
 - [counter_culture](https://github.com/magnusvk/counter_culture) - 提供计数器缓存的宝石. [:red_circle:](https://rubygems.org/gems/counter_culture)
 - [devise](https://github.com/heartcombo/devise) - 提供身份验证的宝石. [:red_circle:](https://rubygems.org/gems/devise)
 - [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - 介绍 OAuth2 提供程序功能的 gem. [:red_circle:](https://rubygems.org/gems/doorkeeper)
@@ -392,7 +393,7 @@
 - [factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - 用于在 Rails 中进行测试的夹具替代品 [:red_circle:](https://rubygems.org/gems/factory_bot_rails)
 - [filestack-rails](https://github.com/filestack/filestack-rails) - 集成 Filestack 的 gem. [:red_circle:](https://rubygems.org/gems/filestack-rails)
 - [formtastic](https://github.com/formtastic/formtastic) - 具有语义丰富且易于访问的标记的 Rails 表单构建器 gem. [:red_circle:](https://rubygems.org/gems/formtastic)
-- [friendly_id](https://github.com/norman/friendly_id) - 处理蛞蝓和永久链接的宝石. [:red_circle:](https://rubygems.org/gems/friendly_id)
+- [friendly_id](https://github.com/norman/friendly_id) - 处理 slug 和永久链接的宝石. [:red_circle:](https://rubygems.org/gems/friendly_id)
 - [frozen_record](https://github.com/byroot/frozen_record) - 提供类似 ActiveRecord 的接口来查询静态 YAML 文件的 gem. [:red_circle:](https://rubygems.org/gems/frozen_record)
 - [geokit-rails](https://github.com/geokit/geokit-rails) - 在 Rails 应用程序中集成 Geokit 的 gem. [:red_circle:](https://rubygems.org/gems/geokit-rails)
 - [good_job](https://github.com/bensheldon/good_job) - 提供基于 Postgres 的 ActiveJob 后端的 gem. [:red_circle:](https://rubygems.org/gems/good_job)
@@ -413,7 +414,7 @@
 - [pgcli-rails](https://github.com/mattbrictson/pgcli-rails) - 替换了 `rails:dbconsole` 命令来管理 Postgresql. [:red_circle:](https://rubygems.org/gems/pgcli-rails)
 - [premailer-rails](https://github.com/fphilipe/premailer-rails) - 处理电子邮件样式的宝石. [:red_circle:](https://rubygems.org/gems/premailer-rails)
 - [prerender_rails](https://github.com/prerender/prerender_rails) - 预渲染 JavaScript 渲染页面的 gem. [:red_circle:](https://rubygems.org/gems/prerender_rails)
-- [rails-erd](https://github.com/voormedia/rails-erd) - 用于生成实体关系图的 gem. [:red_circle:](https://rubygems.org/gems/rails-erd)
+- [rails-erd](https://github.com/voormedia/rails-erd) - 生成实体关系图的 gem. [:red_circle:](https://rubygems.org/gems/rails-erd)
 - [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) - 将全局设置作为键值对进行管理的 gem. [:red_circle:](https://rubygems.org/gems/rails-settings-cached)
 - [rails_admin](https://github.com/sferik/rails_admin) - 用于为 Rails 应用程序创建和管理管理面板的 gem. [:red_circle:](https://rubygems.org/gems/rails_admin)
 - [rails_event_store](https://github.com/RailsEventStore/rails_event_store) - 在 Rails 中实现事件存储的 gem [:red_circle:](https://rubygems.org/gems/rails_event_store)
@@ -455,7 +456,7 @@
 - [default_rails_template](https://github.com/infinum/default_rails_template) - 用于生成新 Rails 应用程序的默认模板.
 - [docker-Rails-Template](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - “rails new”的最新更新版本，预配置为与 Docker 一起运行.
 - [docker-rails](https://github.com/ledermann/docker-rails)
-- [jumpstart(excid3)](https://github.com/excid3/jumpstart) - 默认情况下，可以轻松启动具有大量强大功能的新 Rails 应用程序.
+- [jumpstart(excid3)](https://github.com/excid3/jumpstart) - 默认情况下，轻松启动具有大量强大功能的新 Rails 应用程序.
 - [jumpstart(thomasvanholder)](https://github.com/thomasvanholder/jumpstart) - 用于设置 Rails 6、Tailwind 2.0 和 Devise 的模板.
 - [kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - 一个与 Tailwind CSS 捆绑在一起的快速 Rails 6 应用程序模板，供个人使用.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  - 用于创建下一个 Saas 产品的 Rails 6 样板. 预装了 graphQL、devise、JWT、CanCanCan、RailsAdmin、Rubocop、Rspec 等.
@@ -465,13 +466,13 @@
 - [rails-template(astrocket)](https://github.com/astrocket/rails-template) - Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let&#39;s Encrypt 的模板.
 - [rails-template(dao42)](https://github.com/dao42/rails-template) - 面向高级 Rails 开发人员的最佳、最新、最快的 Rails 6.x 模板.
 - [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - 使用 Le Wagon 最佳实践快速开始您的 Rails 开发.
-- [rails-templates(nimblehq)](https://github.com/nimblehq/rails-templates) - 我们在项目中使用的优化 Rails 模板.
+- [rails-templates(nimblehq)](https://github.com/nimblehq/rails-templates) - 我们优化的 Rails 模板在我们的项目中使用.
 - [rails-vue-template](https://github.com/scottrobertson/rails-vue-template) - 如何在 Rails 中使用 Webpacker 将 VueJS 用作单页应用程序的示例.
 - [rails_new](https://github.com/lockstep/rails_new)  - 一个精心设计的模板，用于构建现代 Rails 应用程序. 在几分钟而不是几小时内开始.  railsnew.io 中列出了一个生成器 [generators](#generators) 部分.
 - [suspenders](https://github.com/thoughtbot/suspenders) - 带有我们标准默认值的 Rails 模板，准备部署到 Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails 启动套件 GitHub 模板，用于开发混合移动应用程序.
 - [rails_api_base](https://github.com/rootstrap/rails_api_base) - 用于 JSON RESTful API 的 Rails 6 样板项目.
-- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - 带有 Hotwire 的 Rails 6 样板项目，用于具有现代 SPA 式体验的全栈应用程序.
+- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## Other Rails Tools
 
@@ -485,7 +486,7 @@
 
  | 发电机 | 准备运行 | 复杂的应用程序 | 设置 git |  Heroku 配置 |
 | --------- | ------------ | ------------ | -------- | ------------- |
-| [railsnew.io](https://railsnew.io)  | 一个 Web 应用程序，您可以在其中从有限的菜单中选择一些选项，并生成一个模板供您克隆. 它还具有在设置后快速验证一切是否正常的说明.  | 是 | 是 | 是 | 不
+| [railsnew.io](https://railsnew.io) | A web app where you pick some options from a limited menu, and it generates a template for you to clone. It also has instructions to quickly verify that everything is happy after setup. | yes | yes | yes | no
 | [Rails Composer](https://github.com/RailsApps/rails-composer) | 是的，但需要配置 Stripe | 使用 Stripe 实现 SaaS 的示例应用程序.  | 是 | 是 |
 | [Hix on Rails](https://hixonrails.com) | 是 | 监控、Redis Sentinel、Sidekiq.  | 是 | 没有|
 

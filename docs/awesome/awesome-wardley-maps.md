@@ -96,9 +96,9 @@
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  - 涵盖使用 Wardley Maps 来预测未来的 IT 战略的制定，了解哪些方法最适合开发和交付信息管理系统. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  - 两个用例：允许国家统计局访问（敏感）大数据的新来源； 并实现跨多个 NSO 的大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019 年 3 月 12 日.
 - [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  - Wardley 映射示例的精选图集.  2019 年 3 月 6 日 - 至今.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  - 将 Samo Burja 的帝国理论与类似于 Simon Wardley 开创的映射形式相结合.  2019 年 1 月 2 日.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  - 考虑用户需求和用户研究的三种方式，以及沃德利地图如何帮助我们思考在哪里进行用户研究.  2018 年 11 月 2 日.
-- [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - 2018 年 10 月 31 日.
+- [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - Oct 31, 2018.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  - 如何通过专注于条令和支出控制来阻止组织主动伤害自己.  2018 年 10 月 30 日.
 - [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3)  - 探索和设计可再生能源领域的平台.  2019 年 10 月 28 日.
 - [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa)  - 为什么平台的 Wardley（价值链）地图是 Z 形的？  2018 年 10 月 11 日.
@@ -145,6 +145,7 @@
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript)  - 注意 MapScript 是建立在 Observable 之上的. 阅读他们 [Terms of Service](https://observablehq.com/terms-of-service) . 地图脚本 [feature requests](https://mapscript.canny.io/feature-requests) . 托管版本可用 [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - 从基于 HCL 的地图描述文件生成 SVG 格式的 Wardley 地图.
 - [Mapkeep](https://mapkeep.com/)  - Mapkeep 是保存您的 Wardley 地图的地方. 与他人创建、共享和讨论地图. 使用无限的公共存储库免费托管您的地图. 如需更新，您可以关注 [@mapkeep](https://twitter.com/mapkeep) 在 Twitter 上，订阅 [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ)，或订阅 [News and Updates blog](https://mapkeep.substack.com/).
+- [Glamorous Toolkit](https://gtoolkit.com)  - 一个可塑造和可编程的环境，其中 Wardley Maps 可以与知识管理和多语言笔记本交织在一起. 跟随 [@feenkcom](https://twitter.com/feenkcom) 了解更多.
 
 ### Doctrine Assessement
 

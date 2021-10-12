@@ -25,7 +25,7 @@
   或者 [open source hardware](https://en.wikipedia.或者g/wiki/Open-source_hardware)
 - 使用 [open standards](https://en.wikipedia.org/wiki/Open_standard)
   和 [inter-operable formats](https://en.wikipedia.org/wiki/Interoperability)
-- 公开开发产品，使用公共沟通渠道
+- 使用公共沟通渠道公开开发产品
 - 在不损害客户隐私的情况下，发布尽可能多的财务和运营数据.
 - 等等.
 
@@ -71,6 +71,8 @@
 
 ### Books
 - 唐·塔普斯科特、安东尼·D·威廉姆斯： [Wikinomics](https://en.wikipedia.org/wiki/Wikinomics)
+- 詹姆斯·M·怀特赫斯特： [The Open Organization: Igniting Passion and Performance](https://www.redhat.com/en/explore/the-open-organization-book)
+- [The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
 ### Articles
 - 保罗格雷厄姆： [What business can learn from open source](http://www.paulgraham.com/opensource.html)

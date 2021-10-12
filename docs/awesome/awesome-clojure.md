@@ -35,6 +35,7 @@
 ## Advanced datastructures
 
   * [specter](https://github.com/redplanetlabs/specter)：用于查询和转换嵌套和递归数据的优雅 API
+  * [meander](https://github.com/noprompt/meander): 透明数据转换（定义为模式匹配）
   * [Persistent AVL trees](https://github.com/clojure/data.avl)：具有日志时间排名查询的持久排序映射和集合
   * [Finger Tree](https://github.com/clojure/data.finger-tree): 双列表, 计数双列表, 计数排序集
   * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速、可快照、可大规模扩展的数据库
@@ -43,7 +44,7 @@
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): 仅在访问时计算其值
   * [Duratom](https://github.com/jimpil/duratom): 持久化原子
   * [Durable Queue](https://github.com/Factual/durable-queue)：队列保留在磁盘上
-  * [bifurcan](https://github.com/lacuna/bifurcan): 线性映射/集合/列表（在内存中连续存储条目），; 用 java 编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [bifurcan](https://github.com/lacuna/bifurcan): 线性映射/设置/列表（在内存中连续存储条目），; 用 java 编写，但测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
@@ -470,7 +471,7 @@
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Clojure 函数式编程和 TDD 介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 一次一个函数的介绍
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日函数”系列的更多高级视频.
 
 ## Websites
 
