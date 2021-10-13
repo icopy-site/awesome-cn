@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Observables [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;一个 [Observable](https://github.com/zenparsing/es-observable)  是随着时间的推移而出现的集合.  可观察对象可用于为基于推式的数据源建模，例如事件，计时器间隔，异步请求和动画.  可观察变量可以使用类似数组的方法进行转换，合并和使用.
+&gt; 安 [Observable](https://github.com/zenparsing/es-observable) 是一个随时间到达的集合.  Observable 可用于对基于推送的数据源进行建模，例如事件、计时器间隔、异步请求和动画. 可以使用类似数组的方法来转换、组合和使用 Observable.
 
-*请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) 在捐款之前.*
+*请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) 在贡献之前. *
 
 
 
@@ -20,29 +20,30 @@
 
 ## Packages
 
-- [any-observable](https://github.com/sindresorhus/any-observable) -支持任何可观察的库和polyfill.
-- [is-observable](https://github.com/sindresorhus/is-observable) -检查值是否为可观察值.
-- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) -将一个可观察者转换为一个承诺.
-- [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) -将Node.js流转换为Observable.
-- [symbol-observable](https://github.com/blesh/symbol-observable) -`Symbol.observable` ponyfill.
-- [obsify](https://github.com/samverschueren/obsify) -可观察到回调样式的函数.
-- [localForage-observable](https://github.com/thgreasi/localForage-observable) -localForage的观测值.
+- [ObservableLike](https://github.com/sindresorhus/type-fest/blob/main/source/observable-like.d.ts) - 打字稿类型.
+- [any-observable](https://github.com/sindresorhus/any-observable) - 支持任何 Observable 库和 polyfill.
+- [is-observable](https://github.com/sindresorhus/is-observable) - 检查一个值是否是一个 Observable.
+- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - 将 Observable 转换为 Promise.
+- [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - 将 Node.js 流转换为 Observable.
+- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` 小马填充.
+- [obsify](https://github.com/samverschueren/obsify) - Observableify 回调式函数.
+- [localForage-observable](https://github.com/thgreasi/localForage-observable) - localForage 的 Observables.
 
 ## Libraries
 
-*这些库利用了Observable的功能，而不一定是规范兼容的Observable实现.
+*这些是利用 Observable 功能的库，不一定是规范兼容的 Observable 实现.*
 
-- [Cycle.js](http://cycle.js.org) -用于更干净代码的功能性和反应性JavaScript框架.
+- [Cycle.js](http://cycle.js.org) - 一个功能性和反应性的 JavaScript 框架，用于更清晰的代码.
 
 ## Articles
 
-- [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) -使用Observables进行反应式编程.
-- [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) -随处使用Observables的好处.
-- [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
+- [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - 使用 Observables 的反应式编程.
+- [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - 在任何地方使用 Observables 的好处.
+- [Learning Observable By Building Observable](https://benlesh.com/posts/learning-observable-by-building-observable/) *（更新于 2021-07-08）*
 
 ## Videos
 
-- [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) -Egghead.io课程.
+- [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) - Egghead.io 课程.
 
 ## Related
 

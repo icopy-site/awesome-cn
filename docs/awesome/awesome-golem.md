@@ -28,7 +28,7 @@
 
 ## Network Statistics
 
-- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和提供商资源利用率.
+- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和供应商资源利用率.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Golem 网络统计页面的后端，包括 API 端点 URL.
 - [Stats API Documentation](https://docs.stats.golem.network/) - Golem 网络统计页面用于显示其数据的 API 端点.
 
@@ -36,8 +36,6 @@
 
 - [Golem SLATE](https://golem-slate.xyz/)  - 托管代码笔 SPA，用于编写请求者脚本以使网络计算工作. 利用 dockerized yagna 环境在后台与 Golem 网络进行通信.
 - [Chess On Golem](https://chessongolem.app/) - 托管国际象棋应用程序，利用 Stockfish 开源国际象棋引擎与网络供应商对战.
-- [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video)  - 用于转码视频的示例应用程序. 选择您的转码配置文件，然后上传您的视频.
-- [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - 基于 React + Spring 的 webapp 接受视频文件作为输入并将这些文件转码为不同的格式.
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - 基于 Web 的批量图像编辑器，允许用户上传多个图像并对它们应用批量操作.
 
 ### Docker
@@ -67,6 +65,12 @@
 
 - [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - 增强的 bash 补全引擎，通过为 golemsp 和 yagna 提供上下文帮助来扩展内置补全.
 - [Golocity](https://github.com/davidstyers/golocity) - 只需两个命令即可在 Golem 网络上构建和部署您的 dockerized 应用程序.
+
+### Video Transcoding and Editing
+
+- [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video)  - 用于转码视频的示例应用程序. 选择您的转码配置文件，然后上传您的视频.
+- [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - 基于 React + Spring 的 webapp 接受视频文件作为输入并将这些文件转码为不同的格式.
+- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - 运行自动编辑器自动执行一些视频编辑功能，将视频处理卸载到 Golem.
 
 ### Data Analysis
 
@@ -125,7 +129,6 @@
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - 用于编译 VIM 编辑器的 Golemized docker 图像.
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - 锐化图像的工具.
-- [Auto-Editor on Golem](https://github.com/jedbrooke/golem-auto-editor) - 运行 Auto-Editor 自动执行一些视频编辑功能，将视频处理卸载到 golem. 
 
 ## Bounties and Rewards
 
@@ -184,7 +187,7 @@
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.
 - [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - 深入 Golem alpha 测试网.
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - Golem 的 SGX 概念验证.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - 新交所 Golem 的概念验证.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Golem 市场的去中心化.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - 很棒的魔像和 Alpha 3 的后续步骤.
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD 提供商支持、网络指标和改进的提案处理.

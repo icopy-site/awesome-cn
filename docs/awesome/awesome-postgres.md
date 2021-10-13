@@ -25,8 +25,8 @@
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - 2ndQuadrant 的 PostgreSQL 备份和恢复管理器.
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - 用于 PostgreSQL 的高级 WAL 文件管理工具.
-* [pg\_probackup](https://github.com/postgrespro/pg_probackup) – pg\_arman 的一个分支，由@PostgresPro 改进，支持增量备份、从副本备份、多线程备份和恢复以及无存档命令的匿名备份.
-* [pgBackRest](https://pgbackrest.org/)  - 可靠的 PostgreSQL 备份和恢复。
+* [pg\_probackup](https://github.com/postgrespro/pg_probackup) – pg\_arman 的一个分支，由@PostgresPro 改进，支持增量备份、从副本备份、多线程备份和恢复以及无归档命令的匿名备份.
+* [pgBackRest](https://pgbackrest.org/)  - 可靠的 PostgreSQL 备份和恢复.
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back 是一个简单的备份脚本
 * [pghoard](https://github.com/aiven/pghoard) - 用于云对象存储（AWS S3、Azure、Google Cloud、OpenStack Swift）的备份和恢复工具.
 * [wal-e](https://github.com/wal-e/wal-e) - Heroku 将 PostgreSQL 的简单连续归档到 S3、Azure 或 Swift.
@@ -62,7 +62,7 @@
 * [temBoard](https://github.com/dalibo/temboard) - 基于 Web 的 PostgreSQL GUI 和监控.
 * [TablePlus](https://tableplus.com/)  - 本机应用程序可让您编辑数据库和结构. 确保高端安全（商业软件）.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 跨平台数据库管理工具（免费/商业）
-* [DbGate](https://dbgate.org) - 最智能的（无）SQL 数据库客户端
+* [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - 在 macOS 上开始使用 PostgreSQL 的最简单方法.
@@ -94,6 +94,7 @@
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - 在 PostgreSQL 上运行基准测试.
 * [opm.io](http://opm.io)  - Open PostgreSQL Monitoring 是一款免费软件套件，旨在帮助您管理 PostgreSQL 服务器. 它可以收集统计信息、显示仪表板并在出现问题时发送警告.
 * [okmeter.io](https://okmeter.io/pg)  - 带有非常详细的 PostgreSQL 插件的基于商业 SaaS 代理的监控. 它会自动收集 100 条统计数据，在各个方面显示仪表板，并在出现问题时发送警报（商业软件）.
+* [dexter](https://github.com/ankane/dexter)  - Postgres 的自动索引器. 检测慢查询并在配置时创建索引.
 
 ### Extensions
 * [Citus](https://github.com/citusdata/citus) - 用于实时工作负载的可扩展 PostgreSQL 集群.
@@ -106,7 +107,7 @@
 * [pg\_shard](https://github.com/citusdata/pg_shard) - 扩展以扩展实时读取和写入.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - 将 CPU 密集型工作负载卸载到 GPU 的扩展.
 * [pgxn](https://pgxn.org/) PostgreSQL 扩展网络 - 许多开源 PostgreSQL 扩展的中央分发点
-* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
+* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - 一个 PostgreSQL 扩展，它在流上连续运行 SQL 查询，增量地将结果存储在表中.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - 允许检查 plpgsql 源代码的扩展.
 * [PostGIS](http://postgis.net/) - PostgreSQL 的空间和地理对象.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres 绑定作为加密库 Themis 的扩展，在 PgSQL 方面提供各种安全服务.
@@ -116,6 +117,7 @@
 * [pgTAP](https://pgtap.org/) - Postgres 的数据库测试框架
 * [HypoPG](https://github.com/HypoPG/hypopg) - HypoPG 提供假设/虚拟索引功能.
 * [pgRouting](https://github.com/pgRouting/pgrouting) - pgRouting 扩展了 PostGIS/PostgreSQL 地理空间数据库，以提供地理空间路由和其他网络分析功能.
+* [PGroonga](https://pgroonga.github.io/) - PGroonga 提供了一种新的索引访问方法，该方法使用 Groonga 允许针对所有语言的超快速全文搜索功能.
 * [PGAudit](https://www.pgaudit.org/) - PostgreSQL 审计扩展（或 pgaudit）通过 PostgreSQL 提供的标准日志记录工具提供详细的会话和/或对象审计日志记录.
 
 ### Optimization
@@ -150,6 +152,7 @@
 * [PGInsight](http://pginsight.io/) - CLI 工具可轻松深入挖掘 PostgreSQL 数据库.
 * [pg_insights](https://github.com/lob/pg_insights) - 用于监控 Postgres 数据库健康状况的便捷 SQL.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用 COPY 流协议将数据加载到 PostgreSQL，并使用单独的线程来读取和写入数据.
+* [pgMonitor](https://github.com/CrunchyData/pgmonitor) - 可以部署到裸机、虚拟机或 Kubernetes 的 Postgres 指标收集和可视化.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池、复制、负载平衡和限制超出连接的中间件.
 * [pgsync](https://github.com/ankane/pgsync) - 将 PostgreSQL 数据同步到本地机器的工具.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - 与 PostgreSQL 扩展网络交互的命令行工具
@@ -173,7 +176,7 @@
 ### Language bindings
 * Common Lisp： [Postmodern](https://github.com/marijnh/Postmodern)
 * Clojure： [clj-postgresql](https://github.com/remodoy/clj-postgresql)
-* Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
+* 长生不老药： [postgrex](https://github.com/elixir-ecto/postgrex)
 * 走： [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx)
 * 哈斯克尔： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * 爪哇： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
@@ -182,6 +185,7 @@
 * Perl： [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
 * PHP： [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Python： [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
+* 回复： [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL)
 * 红宝石： [pg](https://github.com/ged/ruby-pg)
 * 锈： [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * 月亮： [luapgsql](https://github.com/arcapos/luapgsql)
@@ -189,9 +193,10 @@
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql)  - PostgreSQL 作为 AWS、Azure、DigitalOcean、Google Cloud 和 UpCloud 中的一项服务； 计划范围从每月 19 美元的单节点实例到大型高可用性设置，两周免费试用.
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - 用于 PostgreSQL 的 Amazon 关系数据库服务 (RDS)
-* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)  - Azure Database for PostgreSQL 提供完全托管、企业就绪的社区 PostgreSQL 数据库即服务. 它提供内置 HA、弹性扩展和与 Azure 生态系统的本机集成.
+* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
 * [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产级横向扩展 PostgreSQL 即服务，支持实时工作负载并分片您的多租户应用程序.
 * [Compose](https://www.compose.com/databases/postgresql)  - PostgreSQL 作为 AWS、Google Cloud Platform 和 IBM Cloud 中的一项服务； 计划范围从 17.5 美元/月（用于 1GB 存储）到超过 12 美元/GB 的规模. 可免费试用 30 天.
+* [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/)  - 来自 Postgres 专家的完全管理的 Postgres. 适用于所有主要云提供商：Amazon AWS、Google GCP、Microsoft Azure. 完全的超级用户支持没有锁定.
 * [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个生产就绪的云 PostgreSQL 服务器，每月 20 美元起 包括备份、监控、补丁和 24/7 全天候技术支持.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)  - 完全托管的 PostgreSQL 数据库. 没有免费计划. 每月 15 美元起. 具有时间点恢复的每日备份. 具有自动故障转移功能的备用节点.
 * [ElephantSQL](https://www.elephantsql.com/)  - 提供的数据库范围从用于小型项目的共享服务器和概念证明，到企业级多服务器设置. 有最多 5 个 DB 的免费计划，每个 20 MB.

@@ -65,7 +65,7 @@
 
 ## Privacy
 
-- [privacytools.io](https://privacytools.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacytoolsIO/privacytools.io) - 保护您的隐私免受全球大规模监视的知识和工具.
+- [Privacy Guides](https://privacyguides.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacyguides/privacyguides.org) - 保护您的隐私免受全球大规模监视的知识和工具.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - 尊重隐私的服务和软件的精选列表.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - 没有谷歌集成的 Chromium，增强隐私、控制、透明度
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) - Signal 是一个消息应用程序，用于与朋友进行简单的私人通信.
@@ -195,7 +195,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/twitter-demetricator) - 删除 Twitter 上所有指标的 Web 浏览器扩展.
 - [News Feed Eradicator](https://west.io/news-feed-eradicator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jordwest/news-feed-eradicator) - 一个浏览器扩展，用一个不错的报价代替你的 Facebook 新闻提要.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - 通过在社交网络之间转换数据来打破孤岛的社交网络翻译器.
-- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络丢失的个人创造力的社交网络.
+- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络失去的个人创造力的社交网络.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium 脚本可删除您所有的 Facebook 墙贴.
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新 Twitter UI 的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个专注于更好对话的开源评论平台.
@@ -216,6 +216,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) - 用 Rust 编写的私有 Reddit 前端.
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - 自动将 YouTube 频道镜像到 PeerTube 频道的机器人.
 - [Watomatic](https://github.com/adeekshith/watomatic) - 自动回复 WhatsApp 以便您可以停止使用它.
+- [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/~edwardloveall/scribe) - Medium.com 尊重隐私和最小的替代前端.
 
 ## Translation
 
@@ -326,7 +327,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Awful AI](https://github.com/daviddao/awful-ai) - 一个用于跟踪 AI 当前可怕用法的精选列表 - 希望提高认识.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam-3-0/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) - 实时可视化第 1 方和第 3 方站点之间的 Web 请求的插件.
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) - 普林斯顿网络透明度和问责制项目，一个隐私测量框架.
-- [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 检查您的电子邮件提供商和客户保护是否有许多跟踪技术.
+- [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 检查您的电子邮件提供商和客户保护是否有多种跟踪技术.
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - 演示对用户隐藏的自动填充表单字段的网络钓鱼.
 - [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - 浏览器扩展帮助 ProPublica 在 Facebook 上收集政治广告.
 - [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - 浏览器扩展程序，用于跟踪哪些实体针对哪些人口统计特征投放广告.
@@ -357,7 +358,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - 在本地托管和管理应用程序，而不是从 SaaS 提供商那里租用.
 - [Awesome Decentralized](https://github.com/croqaz/awesome-decentralized) - 去中心化、P2P 和分布式平台和应用程序的精选列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - 点对点资源的精选列表.
-- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一个精选的激进主义数字工具列表.
+- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一份精选的激进数字工具清单.
 - [Awesome Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - 用于建立更具同情心的工程文化的精选清单.
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - 有关技术多样性的精彩文章、网站和资源的精选列表.
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - 自由软件中的免费精选列表.
