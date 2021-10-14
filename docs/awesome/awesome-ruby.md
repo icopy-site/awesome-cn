@@ -392,7 +392,7 @@
 
 ## Decorators
 
-* [Draper](https://github.com/drapergem/draper) - Draper 向您的 Rails 应用程序添加了一个面向对象的表示逻辑层.
+* [Draper](https://github.com/drapergem/draper) - Draper adds an object-oriented layer of presentation logic to your Rails application.
 * [ShowFor](https://github.com/heartcombo/show_for)  - 快速显示具有 I18n 功能的模型信息. 像用于显示模型数据的 form_for.
 
 ## DevOps Tools
@@ -557,7 +557,7 @@
 
 ## Geolocation
 
-* [Geocoder](https://github.com/alexreisner/geocoder)  - 一个完整的 Ruby 地理编码解决方案. 使用 Rails，它添加​​了地理编码（按街道或 IP 地址）、反向地理编码（根据给定的坐标查找街道地址）和距离查询.
+* [Geocoder](https://github.com/alexreisner/geocoder)  - 一个完整的 Ruby 地理编码解决方案. 使用 Rails，它添加​​了地理编码（通过街道或 IP 地址）、反向地理编码（根据给定的坐标查找街道地址）和距离查询.
 * [geoip](https://github.com/cjheath/geoip) - 在 GeoIP 数据库中搜索给定的主机或 IP 地址，并返回有关分配 IP 地址的国家、城市、ISP 和其他信息的信息.
 * [Geokit](https://github.com/geokit/geokit) - Geokit gem 提供地理编码和距离/航向计算.
 * [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) - 可以在 Ruby 应用程序中轻松创建 Google 地图 + 叠加层.
@@ -631,7 +631,7 @@
 * [JRuby](https://github.com/jruby/jruby) - Ruby 语言的 Java 实现.
 * [MRuby](https://github.com/mruby/mruby)  - 轻量级红宝石. 可以链接并嵌入到您的应用程序中.
 * [Opal](https://github.com/opal/opal) - Ruby 到 Javascript 编译器.
-* [Rubinius](https://github.com/rubinius/rubinius)  - Ruby 编程语言的实现.  Rubinius 包括一个字节码虚拟机、Ruby 语法解析器、字节码编译器、分代垃圾收集器、即时 (JIT) 本地机器代码编译器以及 Ruby 核心和标准库.
+* [Rubinius](https://github.com/rubinius/rubinius)  - Ruby 编程语言的实现.  Rubinius 包括字节码虚拟机、Ruby 语法解析器、字节码编译器、分代垃圾收集器、即时 (JIT) 本地机器码编译器以及 Ruby 核心和标准库.
 * [TruffleRuby](https://github.com/oracle/truffleruby)  - Ruby 编程语言的高性能实现. 由 Oracle 实验室基于 GraalVM 构建.
 
 ## Internationalization
@@ -767,7 +767,7 @@
 
 ## ORM/ODM Extensions
 
-* 审计和版本控制
+* Auditing and Versioning
   * [acts_as_archival](https://github.com/expectedbehavior/acts_as_archival) - 用于原子对象树归档的 ActiveRecord 插件.
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord 插件允许您隐藏和恢复记录而不实际删除它们.
   * [Audited](https://github.com/collectiveidea/audited) - Audited 是 ActiveRecord 和 MongoMapper 的 ORM 扩展，用于记录对模型的所有更改.
@@ -781,7 +781,7 @@
   * [PermenantRecords](https://github.com/JackDanger/permanent_records) - 软删除您的 ActiveRecord 记录，例如 ActsAsParanoid 的显式版本.
 * 位数组
   * [ActiveFlag](https://github.com/kenn/active_flag) - 使用 ActiveRecord 在单个整数列中存储多达 64 个多个标志.
-  * [Bitfields](https://github.com/grosser/bitfields) - Save migrations and columns by storing multiple booleans in a single integer.
+  * [Bitfields](https://github.com/grosser/bitfields) - 通过在单个整数中存储多个布尔值来保存迁移和列.
 * 进口
   * [ActiveRecord Import](https://github.com/zdennis/activerecord-import) - 使用 ActiveRecord 批量插入数据的库.
   * [bulk_insert](https://github.com/jamis/bulk_insert) - 一个小的 ActiveRecord 扩展，用于帮助在单个插入语句中插入大量行.
@@ -897,6 +897,7 @@
 * [Backburner](https://github.com/nesquena/backburner) - Backburner 是一个由 beanstalkd 驱动的作业队列，可以处理大量作业.
 * [Bunny](https://github.com/ruby-amqp/bunny) - Bunny 是 RabbitMQ (3.3+) 的流行、易于使用、维护良好的 Ruby 客户端.
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - 数据库支持的异步优先级队列.
+* [GoodJob](https://github.com/bensheldon/good_job) - GoodJob 是一个基于 Postgres 的多线程 ActiveJob 后端，用于 Ruby on Rails.
 * [Gush](https://github.com/chaps-io/gush) - 仅使用 Redis 和 Sidekiq 处理复杂工作流的并行运行器.
 * [Karafka](https://github.com/karafka/karafka) - 用于简化基于 Apache Kafka（分布式流平台）的 Ruby 应用程序开发的框架.
 * [March Hare](https://github.com/ruby-amqp/march_hare) - RabbitMQ 的惯用、快速且维护良好的 JRuby 客户端.
@@ -920,7 +921,7 @@
 
 ## Robotics
 
-* [Arli](https://github.com/kigster/arli)  - Arli 是用于使用基于 YAML 的 Arlifile 的项目搜索、安装和打包 Arduino 库的 CLI 工具. 它是“Arduino 开发的捆绑器”.
+* [Arli](https://github.com/kigster/arli)  - Arli 是用于使用基于 YAML 的 Arlifile 的项目搜索、安装和打包 Arduino 库的 CLI 工具. 它是“Arduino 开发的捆绑程序”.
 * [Artoo](http://artoo.io) - 支持不同平台的下一代机器人框架：Arduino、Leap Motion、Pebble、Raspberry Pi 等.
 
 ## RSS
@@ -1064,7 +1065,7 @@
 
 * 构架
   * [RSpec](https://github.com/rspec/rspec) - Ruby 的行为驱动开发.
-    * Formatters
+    * 格式化程序
       * [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec) - 用于 RSpec 的自定义表情符号格式化程序.
       * [Fuubar](https://github.com/thekompanee/fuubar) - 安装失败的 RSpec 进度条格式化程序.
       * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat 启发了 RSpec 格式化程序！
@@ -1102,7 +1103,7 @@
 * 额外
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal 与 bundler 和 rake 集成以针对不同版本的依赖项测试您的库.
   * [CQL](https://github.com/enkessler/cql) - CQL 是一个用于对 Cucumber 风格的测试套件进行查询的库.
-  * [cuke_modeler](https://github.com/enkessler/cuke_modeler) -`.feature` 文件的建模库，它是 `gherkin` gem 之上的抽象层，为构建其他 Gherkin 相关工具提供了一个稳定的基础.
+  * [cuke_modeler](https://github.com/enkessler/cuke_modeler) -`.feature` 文件的建模库，它是 `gherkin` gem 之上的抽象层，为构建其他 Gherkin 相关工具提供了稳定的基础.
   * [gitarro](https://github.com/openSUSE/gitarro) - 针对您的 GitHub 拉取请求运行、重新触发、处理所有类型和独立于操作系统的测试.
   * [Knapsack](https://github.com/ArturT/knapsack) - RSpec、Cucumber、Minitest、Spinach 和 Turnip 跨 CI 节点的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) - Mutant 是 Ruby 的突变测试工具.

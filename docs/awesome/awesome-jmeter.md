@@ -139,6 +139,7 @@
     - [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - 对 Kubernetes 和 OpenShift 的 JMeter 集群支持.
     - [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s 入门套件，具有实时测试报告、JMeter 监控、k8s 监控和模拟即服务.
     - [kangal](https://github.com/hellofresh/kangal) - Kubernetes 和 Go Automatic Loader 解决方案，使用多个负载生成器在 Kubernetes 集群中运行性能测试.
+    - [aks_testing_fwk](https://github.com/petegrimsdale/aks_testing_fwk) - 基于 AKS 的可扩展 JMeter 测试框架，带有 Grafana 报告.
   - 亚马逊网络服务
     - [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) - 在 Amazon EC2 上自动运行 Apache JMeter.
     - [gee](https://github.com/kowalcj0/gee) - JMeter-EC2 项目的修改版本.
@@ -305,7 +306,7 @@
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) - 跨版本的 JMeter 性能演变.
 - [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - 由 Ubik Ingenierie 提供.
-- [JMeter Performance and Tuning Tips](https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips) - By BlazeMeter.
+- [JMeter Performance and Tuning Tips](https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips) - 由 BlazeMeter.
 - 如何加速 JMeter： [part 1](https://performancelabus.com/how-to-speed-up-jmeter-part-1/), [part 2](https://performancelabus.com/how-to-speed-up-jmeter-part-2/)
 
 ## Tips & Tricks
@@ -316,7 +317,7 @@
 
 <!--lint ignore double-link-->
 - [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - 艾米丽 H.哈利利 ([Packt Publishing](https://www.packtpub.com/product/apache-jmeter/9781847192950)).
-- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-2-9/9781782165842) ); 使用 Apache JMeter 测试 Web 应用程序的指南，提供实用的动手示例.
+- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-2-9/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-second-edition/9781784394813)).
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
 - [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ); 帮助成功使用 Apache JMeter 的 70 个有见地和实用的秘诀.
@@ -331,7 +332,7 @@
 - [JMeter: Performance and Load Testing (Feb 2019)](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - 通过 LinkedIn 学习.
 - [Advanced JMeter (Jul 2020)](https://www.linkedin.com/learning/advanced-jmeter) - 通过 LinkedIn 学习.
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - 由 NobleProg.
-- [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
+- [BlazeMeter University](https://www.blazemeter.com/university/) - 由 BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - 乌迪米.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - 由实用测试实验室提供.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - 由 Ubik Ingenierie 提供.

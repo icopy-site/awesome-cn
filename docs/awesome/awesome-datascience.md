@@ -17,9 +17,9 @@
 
  | 链接 | 预览 |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | _Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdiscplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学程序中._ | |
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学课程中._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是将成熟的统计学学科与非常年轻的学科——计算机科学结合起来的故事.  “数据科学”一词是最近才出现的，专门用来指代一种新的职业，该职业有望理解海量的大数据存储. 但是理解数据有着悠久的历史，多年来一直被科学家、统计学家、图书馆员、计算机科学家和其他人讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、定义和相关术语的尝试._ |
@@ -197,7 +197,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，具有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
 | [Neptune.ai](https://neptune.ai)  | 支持数据科学家创建和共享机器学习模型的社区友好平台.  Neptune 有助于团队合作、基础设施管理、模型比较和可重复性.  |
 | [steppy](https://github.com/neptune-ml/steppy)  | 用于快速且可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
 | [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
@@ -623,7 +623,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
  | 大数据狂热 |  Data Viz Wiz，数据记者，Growth Hacker，Data Science for Dummies 的作者 (2015) |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
  | 查理格林贝克 |  @ExploreAltamira 数据科学总监 |
-| [Chris Said](https://twitter.com/Chris_Said) | Data scientist at Twitter |
+| [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
 | [Data Science Central](https://twitter.com/DataScienceCtrl)  |  Data Science Central 是行业内面向大数据从业者的单一资源.  |
@@ -673,14 +673,14 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
 | [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
-| [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子|
+| [Spencer Nelson](https://twitter.com/spenczar_n) | Data nerd |
 | [Talha Oz](https://twitter.com/tozCSS)  | 喜欢 ABM、SNA、DM、ML、NLP、HI、Python、Java. 前百分位 kaggler/数据科学家 |
 | [Tasos Skarlatidis](https://twitter.com/anskarl)  | 复杂事件处理、大数据、人工智能和机器学习. 对编程和开源充满热情.  |
 | [Terry Timko](https://twitter.com/Terry_Timko)  | 信息政府； 大数据; 数据即服务； 数据科学； 开放、社交和商业数据融合 |
 | [Tony Baer](https://twitter.com/TonyBaer)  |  Ovum 的 IT 分析师负责大数据和数据管理，并加入了一些系统工程.
 | [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist , Author , Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
 | [Vamshi Ambati](https://twitter.com/vambati) | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com ) |
-| [Wes McKinney](https://twitter.com/wesmckinn)  |  Pandas（Python 数据分析库）.  |
+| [Wes McKinney](https://twitter.com/wesmckinn) | Pandas (Python Data Analysis library). |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC 的数据新闻组. 实践数据驱动的新闻，使其可视化并展示我们的工作.  |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor)  | 数据科学作者 |

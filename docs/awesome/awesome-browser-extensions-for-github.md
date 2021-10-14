@@ -2,32 +2,24 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-所有数字每天更新，包括扩展在所有浏览器中的总体使用情况、上次发布日期和 GitHub 存储库的星级！ 欢迎贡献，但首先请参阅<a href="./contributing.md">贡献</a>
+所有数字每天更新，包括扩展在所有浏览器中的总体使用情况、上次发布日期和 GitHub 存储库的星级！
 
+## Codeless contribution
+
+提交一个新的扩展就像打开一个问题一样容易. 事实上，这就是你所要做的. [Create a new issue](https://github.com/stefanbuck/awesome-browser-extensions-for-github/issues/new?assignees=&labels=submit&template=submit-extension.yml&title=Submit+new+extension) ， 就是这样！ 我会从那里拿走它. 如果您需要更新现有列表，请遵循正式的拉取请求流程.
+
+想了解更多有关此过程的信息？ 查看 [Codeless Contributions with GitHub Issue Forms](https://stefanbuck.com/blog/codeless-contributions-with-github-issue-forms) 在我的博客上发表.
+
+<br>
+<br>
 <br>
 <br>
 <div align="center">
-	<b>访问带有附加过滤器选项的<a href="https://stefanbuck.com/awesome-browser-extensions-for-github">GitHub</a> Web 版本的<a href="https://stefanbuck.com/awesome-browser-extensions-for-github">出色浏览器扩展</a>.</b>
+	访问带有其他过滤器选项的<a href="https://stefanbuck.com/awesome-browser-extensions-for-github">网络版本</a>.
 </div>
-
-<br>
 <br>
 
-## Supporters
-
-感谢那些支持我工作的人 [GitHub Sponsors](https://github.com/sponsors/stefanbuck).
-
-[Your logo here?](https://github.com/sponsors/stefanbuck?frequency=one-time&sponsor=stefanbuck)
-
-<br>
-<br>
-
-<div align="center">
-	<a href="https://jumpcat.dev"><img src="https://user-images.githubusercontent.com/1393946/129461213-47cc4860-e320-45fa-8549-3231d846c6e2.png" height="200" alt="Jumpcat "/></a>
-</div>
-
-<br>
-<br>
+## List of browser extensions for GitHub
 
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
@@ -199,7 +191,7 @@ Chrome 扩展程序可帮助您不错过与您的存储库相关的新闻线程�
 
 Chrome 和 Firefox 扩展程序，无需离开当前页面即可在弹出窗口中快速查看您的通知.
 
-Installs: 454 | Stars: 123 | Last update: 9 Mar 2021
+安装：454 | 星数：123 | 最后更新：2021 年 3 月 9 日
 
 
 显示您的 GitHub 通知未读计数. 支持 GitHub Enterprise 以及仅显示您参与的问题的未读计数的选项.您可以单击该图标以快速查看您的未读通知.
@@ -222,7 +214,7 @@ Octohint 向 GitHub 添加了 IntelliSense 提示功能.
 安装：30835 | 星数：4791 | 最后更新：2021 年 1 月 2 日
 
 
- OctoPermalinker 是一个浏览器扩展，它在 GitHub 评论/文件中搜索分支上文件的链接，并添加一个链接，指向当评论/文件创建/更新时分支指向的位置. 这有助于您避免关注在发布后已损坏的链接. 对于上下文，这里有一些关于断开的 GitHub 链接的讨论： [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
+ OctoPermalinker 是一个浏览器扩展，它在 GitHub 评论/文件中搜索分支上文件的链接，并在评论/文件创建/更新时添加指向分支指向的链接. 这有助于您避免关注在发布后已损坏的链接. 对于上下文，这里有一些关于断开的 GitHub 链接的讨论： [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
 
 例如，假设您正在查看链接到存储库主分支上的文件的要点. 在制作要点时，链接有效，但如果文件被删除，链接将被破坏.  OctoPermalinker 使用 gist 创建日期来添加仍然有效的永久链接.
 
@@ -273,7 +265,7 @@ Octohint 向 GitHub 添加了 IntelliSense 提示功能.
 
 1. 进入定义
 2. 查找参考
-3. 具有正则表达式匹配、差异搜索和其他过滤器的强大代码搜索
+3. Powerful code search with regexp matching, diff searches, and other filters
 4. 悬停工具提示
 5. 文件树导航
 
@@ -290,7 +282,7 @@ Installs: 100698 | Stars: 5021 | Last update: 9 Aug 2021
 安装：65 | 星级：19 | 最后更新：2020 年 5 月 18 日
 
 
- ZenHub 是第一个也是唯一一个在 GitHub 中本地运行的项目管理套件； 使用专为初创公司、快速发展的工程团队和开源社区构建的功能增强您的工作流程. 该产品是一个浏览器扩展，它注入了高级功能，包括实时拖放问题任务板、通过 +1 按钮的同行反馈以及支持将任何文件类型直接上传到 GitHub 界面.  ZenHub 可以轻松地将所有流程集中到 GitHub 中，让您的团队保持精干和敏捷.
+ ZenHub 是第一个也是唯一一个在 GitHub 中本地运行的项目管理套件； 使用专为初创公司、快速发展的工程团队和开源社区构建的功能增强您的工作流程. 该产品是一个浏览器扩展，它注入了高级功能，包括实时拖放问题任务板、通过 +1 按钮的同行反馈，以及支持将任何文件类型直接上传到 GitHub 界面.  ZenHub 可以轻松地将所有流程集中到 GitHub 中，让您的团队保持精干和敏捷.
 
 安装：70000 | 星星： 不适用 | 最后更新：2021 年 8 月 24 日
 
