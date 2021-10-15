@@ -151,7 +151,7 @@
 * [Teletype](https://github.com/atom/teletype) - 与团队成员共享您的工作区并在 Atom 中实时协作处理代码.
 * [Sublime](https://www.sublimetext.com/) - 用于代码、标记和散文的复杂文本编辑器.
 * [ade-cli](https://gitlab.com/ApexAI/ade-cli) - ADE 开发环境 (ADE) 使用 docker 和 Gitlab 来管理每个项目开发工具和可选卷映像的环境.
-* [recipe-wizard](https://github.com/trn84/recipe-wizard) - Dockerfile 生成器，用于在远程无头服务器系统上使用 nvidia-docker2、CUDA、ROS 和 Gazebo 运行 OpenGL (GLX) 应用程序.
+* [recipe-wizard](https://github.com/trn84/recipe-wizard) - A Dockerfile generator for running OpenGL (GLX) applications with nvidia-docker2, CUDA, ROS, and Gazebo on a remote headless server system.
 * [Jupyter ROS](https://github.com/RoboStack/jupyter-ros) - 用于机器人操作系统 ROS 的 Jupyter 小部件助手.
 * [ros_rqt_plugin](https://github.com/ros-industrial/ros_qtc_plugin) - The ROS Qt Creator Plug-in for Python.
 * [xeus-cling](https://github.com/QuantStack/xeus-cling) - 用于 C++ 编程语言的 Jupyter 内核.
@@ -192,7 +192,7 @@
 * [gitlab-runner](https://gitlab.com/gitlab-org/gitlab-runner) - 运行测试并将结果发送到 GitLab.
 * [colcon-core](https://github.com/colcon/colcon-core) - 用于改进构建、测试和使用多个软件包的工作流程的命令行工具.
 * [gitlab-release](https://gitlab.com/alelec/gitlab-release) - 将文件（从 ci）上传到当前项目版本（标签）的简单 python3 脚本.
-* [clang](https://github.com/llvm-mirror/clang) - 这是 C 系列语言（C、C++、Objective-C 和 Objective-C++）的编译器前端，它是作为 LLVM 编译器基础结构项目的一部分构建的.
+* [clang](https://github.com/llvm-mirror/clang) - 这是 C 系列语言（C、C++、Objective-C 和 Objective-C++）的编译器前端，它是作为 LLVM 编译器基础设施项目的一部分构建的.
 * [catkin_virtualenv](https://github.com/locusrobotics/catkin_virtualenv) - 通过 virtualenv 在 catkin 包中捆绑 python 要求.
 * [pyenv](https://github.com/pyenv/pyenv) - 简单的 Python 版本管理.
 * [aptly](https://github.com/aptly-dev/aptly) - Debian 存储库管理工具.
@@ -695,7 +695,7 @@
 * [autogenu-jupyter](https://github.com/mayataka/autogenu-jupyter) - 该项目为非线性模型预测控制 (NMPC) 提供基于连续/GMRES 方法（C/GMRES 方法）的求解器和用于 NMPC 的自动代码生成器.
 * [global_racetrajectory_optimization](https://github.com/TUMFTM/global_racetrajectory_optimization) - 该存储库包含多种生成全局轨迹的方法.
 * [toppra](https://github.com/hungpham2511/toppra) - 用于计算受运动学和动态约束的机器人的时间最优路径参数化的库.
-* [tinyspline](https://github.com/msteinbeck/tinyspline) - TinySpline 是一个小而强大的库，用于插值、转换和查询任意 NURBS、B 样条和贝塞尔曲线.
+* [tinyspline](https://github.com/msteinbeck/tinyspline) - TinySpline 是一个小而强大的库，用于插值、变换和查询任意 NURBS、B 样条和贝塞尔曲线.
 * [dual quaternions ros](https://github.com/Achllle/dual_quaternions_ros) - 双四元数 SLERP 的 ROS python 包.
 * [mb planner](https://github.com/unr-arl/mbplanner_ros)  - 用于狭小空间的飞行器规划器. 用于 DARPA SubT 挑战.
 * [ilqr](https://github.com/anassinator/ilqr) - 具有可自动微分动力学模型的迭代线性二次调节器.
@@ -704,6 +704,7 @@
 * [am_traj](https://github.com/ZJU-FAST-Lab/am_traj) - 用于四旋翼攻击飞行的交替最小化轨迹生成.
 * [GraphBasedLocalTrajectoryPlanner](https://github.com/TUMFTM/GraphBasedLocalTrajectoryPlanner) - 在 Roborace Season Alpha 期间用于真正的赛车并达到 200 公里/小时以上的速度.
 * [se2_navigation](https://github.com/leggedrobotics/se2_navigation) - 用于在 SE(2) 空间中导航的纯追踪控制器和基于 Reeds-Shepp 采样的规划器.
+* [Ruckig](https://ruckig.com)  - 瞬时运动生成. 即时的. 挺举受限. 时间最佳.
 
 
 ## User Interaction
@@ -732,7 +733,7 @@
 
 
 ### Command Line Interface
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 在一页中掌握命令行.
 * [dotfiles of cornerman](https://github.com/cornerman/dotfiles) - 强大的 zsh 和 vim 点文件.
 * [dotbot](https://github.com/anishathalye/dotbot) - 引导您的 dotfiles 的工具.
 * [prompt-hjem](https://github.com/cornerman/prompt-hjem) - 漂亮的 zsh 提示.
@@ -832,7 +833,7 @@
 * [gputil](https://github.com/anderskm/gputil) - 一个 Python 模块，用于在 Python 中使用 nvidia-smi 以编程方式从 NVIDA GPU 获取 GPU 状态.
 * [gpustat](https://github.com/wookayin/gpustat) - 一个简单的命令行实用程序，用于查询和监控 GPU 状态.
 * [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPU htop 之类的监控工具.
-* [ShellHub](https://www.shellhub.io)  - ShellHub 是现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
+* [ShellHub](https://www.shellhub.io)  - ShellHub 是一个现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 Linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
 * [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty 是为 Web 设计的 SSH 和 Telnet 连接器.
 * [spdlog](https://github.com/gabime/spdlog) - 非常快，只有头文件/编译，C++ 日志库.
 * [ctop](https://github.com/bcicen/ctop) - 容器指标的顶部界面.
@@ -1001,7 +1002,7 @@
 * [oxford_gps_eth](https://bitbucket.org/DataspeedInc/oxford_gps_eth/) - 使用 NCOM 数据包结构的 OxTS GPS 接收器的以太网接口.
 * [ifm3d](https://github.com/ifm/ifm3d) - 用于使用基于 ifm pmd 的 3D ToF 相机的库和实用程序.
 * [cepton_sdk_redist](https://github.com/ceptontech/cepton_sdk_redist/) - 为 Cepton LiDAR 提供 ROS 支持.
-* [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - 一个 ROS 包，使在具有 ROS 的 Nvidia Jetson TK1、TX1 或 TX2 上使用 CSI 相机变得简单.
+* [jetson_csi_cam](https://github.com/peter-moran/jetson_csi_cam) - 一个 ROS 包，使在带有 ROS 的 Nvidia Jetson TK1、TX1 或 TX2 上使用 CSI 相机变得简单.
 * [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) - Orbbec 3D 相机的 ROS 驱动程序.
 * [spot_ros](https://github.com/clearpathrobotics/spot_ros) - Spot 的 ROS 驱动程序.
 * [blickfeld-scanner-lib](https://github.com/Blickfeld/blickfeld-scanner-lib) - 与 Blickfeld GmbH 的 LiDAR 设备通信的跨平台库.
@@ -1019,7 +1020,7 @@
 * [OpenVPN](https://github.com/OpenVPN/openvpn) - 一个开源 VPN 守护进程.
 * [openfortivpn](https://github.com/adrienverge/openfortivpn) - PPP+SSL VPN 隧道服务客户端，兼容 Fortinet VPN.
 * [WireGuard](https://github.com/WireGuard/WireGuard) - WireGuard 是一种新颖的 VPN，它在 Linux 内核中运行并利用最先进的加密技术.
-* [ssh-auditor](https://github.com/ncsa/ssh-auditor) - 扫描网络上的弱 ssh 密码.
+* [ssh-auditor](https://github.com/ncsa/ssh-auditor) - 扫描您网络上的弱 ssh 密码.
 * [vulscan](https://github.com/scipag/vulscan) - 使用 Nmap NSE 进行高级漏洞扫描.
 * [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - 基于 Vulners.com API 的 NSE 脚本.
 * [brutespray](https://github.com/x90skysn3k/brutespray) - 自动尝试找到的服务的默认信用.

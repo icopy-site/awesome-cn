@@ -66,7 +66,7 @@
 ## Privacy
 
 - [Privacy Guides](https://privacyguides.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacyguides/privacyguides.org) - 保护您的隐私免受全球大规模监视的知识和工具.
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - 尊重隐私的服务和软件的精选列表.
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - 没有谷歌集成的 Chromium，增强隐私、控制、透明度
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) - Signal 是一个消息应用程序，用于与朋友进行简单的私人通信.
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - 浏览器扩展有助于识别哪些敏感信息 (PII) 被共享/泄露给第三方.
@@ -110,7 +110,7 @@
 - [Exodify](https://github.com/FacettsOpen/exodify)  - 想知道应用程序是否正在跟踪您？ 现在您可以直接在 Play 商店中看到它.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) - 将您的在线生活分成不同颜色的标签，以保护隐私.
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) - 将 Facebook 活动与您的其他网络活动隔离，以防止跟踪.
-- [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) - 将您的 Google 活动与其他网络活动隔离，以防止跟踪.
+- [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) - Isolates your Google activity from the rest of your web activity, to prevent tracking.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - 从 URL 查询字符串中去除 Google Analytics (UTM) 令牌的浏览器扩展.
 - [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) - 用于阻止超声波跟踪应用程序的音频防火墙.
 - [Blokada](https://blokada.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/blokadaorg/blokada) - 适用于所有应用且不需要 root 的适用于 Android 的紧凑、快速的广告拦截器.
@@ -166,9 +166,10 @@
 - [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) - 广告、跟踪器、恶意软件和烦恼的过滤器和主机列表目录.
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - 专门设计用于 dnsmasq 的基于主机和域名的阻止列表.
 - [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List) - 彻底阻止跟踪器、广告、不需要的 cookie 的 Adblock 列表.
-- [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - Fix and remove annoying and distracting web elements from many websites.
+- [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - 修复和删除许多网站上烦人和分散注意力的网络元素.
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox 扩展程序，可根据您定义的阻止列表删除 Google 搜索结果.
 - [EasyList](https://easylist.to/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/easylist/easylist) - 自动从互联网上删除不需要的内容的规则集.
+- [Black Mirror](https://github.com/T145/black-mirror) - 自动编译和维护恶意域和IP黑名单.
 
 ## Fediverse
 
@@ -195,7 +196,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/twitter-demetricator) - 删除 Twitter 上所有指标的 Web 浏览器扩展.
 - [News Feed Eradicator](https://west.io/news-feed-eradicator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jordwest/news-feed-eradicator) - 一个浏览器扩展，用一个不错的报价代替你的 Facebook 新闻提要.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - 通过在社交网络之间转换数据来打破孤岛的社交网络翻译器.
-- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络失去的个人创造力的社交网络.
+- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络丢失的个人创造力的社交网络.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium 脚本可删除您所有的 Facebook 墙贴.
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新 Twitter UI 的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个专注于更好对话的开源评论平台.
@@ -358,7 +359,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - 在本地托管和管理应用程序，而不是从 SaaS 提供商那里租用.
 - [Awesome Decentralized](https://github.com/croqaz/awesome-decentralized) - 去中心化、P2P 和分布式平台和应用程序的精选列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - 点对点资源的精选列表.
-- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一份精选的激进数字工具清单.
+- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一个精选的激进主义数字工具列表.
 - [Awesome Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - 用于建立更具同情心的工程文化的精选清单.
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - 有关技术多样性的精彩文章、网站和资源的精选列表.
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - 自由软件中的免费精选列表.
@@ -373,7 +374,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - 知名软件的道德、易于使用和注重隐私的替代品.
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) - 为开发人员提供注重隐私、合乎道德且更安全的软件替代方案.
 - [ethical.net](https://ethical.net/resources/) - 道德替代方案和资源.
-- [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
+- [JustPrivacy](https://justprivacy.org/google-alternatives/) - Google 及其产品替代品的深入列表.
 - [Tromjaro Apps](https://www.tromjaro.com/apps/) - 精选的免交易应用程序集合. 
 - [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) - 类似于很棒的项目，但仅适用于 FOSS、开放数据和开放科学.
 

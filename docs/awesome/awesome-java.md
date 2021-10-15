@@ -55,7 +55,7 @@ _提供缓存设施的库._
 
 _与 CLI 相关的所有内容的库._
 
-- [ASCII Table](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
+- [ASCII Table](https://github.com/vdmeer/asciitable) - 用 ASCII 绘制表格的库.
 - [Airline](https://github.com/airlift/airline) - 基于注释的框架，用于解析类似 Git 的命令行参数.
 - [args4j](http://args4j.kohsuke.org) - 用于解析命令行参数的小型库.
 - [Jansi](https://github.com/fusesource/jansi) - 用于格式化控制台输出的 ANSI 转义码.
@@ -112,6 +112,7 @@ _为重复代码生成模式以减少冗长和容易出错的工具._
 - [JHipster](https://github.com/jhipster/generator-jhipster) - 用于 Spring Boot 和 AngularJS 的 Yeoman 源代码生成器.
 - [Joda-Beans](https://www.joda.org/joda-beans/) - 向 Java 添加可查询属性的小型框架，增强了 JavaBeans.
 - [Lombok](https://projectlombok.org) - 旨在减少冗长的代码生成器.
+- [Record-Builder](https://github.com/Randgalt/record-builder) - Java 记录的配套构建器类、凋落物和模板.
 - [Telosys](https://www.telosys.org/) - 简单轻便的代码生成器可作为 Eclipse 插件和 CLI 使用.
 
 ### Compiler-compiler
@@ -232,7 +233,7 @@ _图书馆有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/I
 
 - [Apache DeltaSpike](https://deltaspike.apache.org) - CDI 扩展框架.
 - [Dagger](https://dagger.dev/) - 没有反射的编译时注入框架.
-- [Feather](https://github.com/zsoltherpai/feather) - 超轻量级、符合 JSR-330 的依赖注入库.
+- [Feather](https://github.com/zsoltherpai/feather) - 超轻量级，符合 JSR-330 的依赖注入库.
 - [Governator](https://github.com/Netflix/governator) - 增强 Google Guice 的扩展和实用程序.
 - [Guice](https://github.com/google/guice) - 完成 Dagger 的轻量级和自以为是的框架.
 - [HK2](https://javaee.github.io/hk2/) - 轻量级的动态依赖注入框架.
@@ -273,7 +274,7 @@ _用于编写分布式和容错应用程序的库和框架._
 
 ### Distributed Transactions
 
-_分布式事务提供了一种机制，可在并发访问和部分故障的情况下确保数据更新的一致性._
+_Distributed transactions provide a mechanism for ensuring consistency of data updates in the presence of concurrent access and partial failures._
 
 - [Atomikos](https://www.atomikos.com) - 为 REST、SOA 和微服务提供事务并支持 JTA 和 XA.
 - [Bitronix](https://github.com/bitronix/btm) - JTA 1.1 API 的简单但完整的实现.
@@ -486,7 +487,7 @@ _JVM/JDK 的当前实现._
 - [Corretto](https://aws.amazon.com/corretto/)  - 亚马逊提供的免费、多平台、生产就绪的 OpenJDK 发行版.  (GPL-2.0-only WITH Classpath-exception-2.0)
 - [Dragonwell8](https://github.com/alibaba/dragonwell8) - 针对在线电子商务、金融、物流应用优化的 OpenJDK 下游版本.
 - [Graal](https://github.com/oracle/graal)  - 多语言可嵌入 JVM.  (GPL-2.0-only WITH Classpath-exception-2.0)
-- [Liberica JDK](https://bell-sw.com)  - 从 OpenJDK 构建，经过全面测试并通过了 JCK.  (GPL-2.0-only WITH Classpath-exception-2.0)
+- [Liberica JDK](https://bell-sw.com)  - 基于 OpenJDK 构建，经过全面测试并通过了 JCK.  (GPL-2.0-only WITH Classpath-exception-2.0)
 - [OpenJ9](https://github.com/eclipse/openj9) - 高性能、企业级、灵活许可、开放管理的跨平台 JVM，扩展和增强了来自 Eclipse OMR 和 OpenJDK 项目的运行时技术组件.
 - [Open JDK](https://openjdk.java.net)  - 打开 JDK 社区主页.  (GPL-2.0-only WITH Classpath-exception-2.0)
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  - 适用于 iOS 的具有非阻塞并发 GC 的 VM.  (GPL-2.0-only WITH Classpath-exception-2.0)
@@ -642,7 +643,7 @@ _专门处理文本的库._
 - [CogCompNLP](https://github.com/CogComp/cogcomp-nlp)  - 为纯文本输入提供通用注释器.  （研究和学术使用许可）
 - [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)  - 为标记、命名实体识别和情感分析等任务提供一组基本工具.  （GPL-3.0 或更高版本）
 - [DKPro](https://dkpro.github.io) - 用于语言预处理、机器学习、词汇资源等的可重用 NLP 工具的集合.
-- [LingPipe](http://alias-i.com/lingpipe/) - 用于从 POS 标记到情感分析等任务的工具包.
+- [LingPipe](http://alias-i.com/lingpipe/) - 用于从 POS 标记到情感分析的任务的工具包.
 
 ### Networking
 
@@ -834,7 +835,7 @@ _用于科学计算、分析和可视化的库._
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化（主要是 Swing）和与节点边缘图交互的库.
 - [LogicNG](https://github.com/logic-ng/LogicNG) - 用于创建、操作和求解布尔和伪布尔公式的库.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 用于地球物理科学计算、可视化和数字信号分析的库.
-- [Morpheus](https://github.com/zavtech/morpheus-core) - 提供一种称为 DataFrame 的通用二维内存高效表格数据结构，以支持 JVM 上科学计算的高效内存分析.
+- [Morpheus](https://github.com/zavtech/morpheus-core) - 提供称为 DataFrame 的通用二维内存高效表格数据结构，以支持 JVM 上科学计算的高效内存分析.
 - [Orson-Charts](https://github.com/jfree/orson-charts)  - 生成各种 3D 图表，可以使用 Swing 和 JavaFX 显示或导出为 PDF、SVG、PNG 和 JPEG.  （仅限 GPL-3.0）
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) - 包括数据框、嵌入式列存储和数百种转换、汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  - 用于绘制数据的轻量级库. 许多可定制的图表类型可用.
@@ -1127,7 +1128,7 @@ _编程时看或听的东西._
 - [Java](https://twitter.com/java) - 官方 Java Twitter 帐户.
 - [Javin Paul](https://twitter.com/javinpaul) - 著名的 Java 博主.
 - [Josh Long](https://twitter.com/starbuxman) - Pivotal 的 Spring Advocate，O&#39;Reilly 的 Cloud Native Java 和 Building Microservices with Spring Boot 的作者，JavaOne Rock Star.
-- [Lukas Eder](https://twitter.com/lukaseder) - Java Champion、演讲者、JUG.ch 联合领导人、创始人兼首席执行官 Data Geekery (jOOQ).
+- [Lukas Eder](https://twitter.com/lukaseder) - Java Champion、演讲者、创始人兼首席执行官 Data Geekery (jOOQ).
 - [Mani Sarkar](https://twitter.com/theNeomatrix369)  - Java 冠军、Polyglot、Software Crafter 参与@graalvm、AI/ML/DL、数据科学、开发者社区、演讲者和博主. 像这样的几个很棒的列表的创建者.
 - [Mario Fusco](https://twitter.com/mariofusco) - RedHatter，JUG 协调员，经常演讲者和作者.
 - [Mark Heckler](https://twitter.com/MkHeck) - Pivotal 首席技术专家和开发倡导者、会议发言人、出版作家和 Java Champion，专注于物联网和云.
