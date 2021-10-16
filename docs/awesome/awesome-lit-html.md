@@ -99,6 +99,7 @@ Lit 的核心是一个样板杀死组件基类，它提供反应状态、作用�
 
 - [`@adobe/lit-mobx`](https://www.npmjs.com/package/@adobe/lit-mobx) - 使用带有 Lit 的 mobx 的 Mixin 和基类.
 - [`@apollo-elements/lit-apollo`](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement 与 Apollo GraphQL 的集成.
+- [`@shoelace-style/localize`](https://github.com/shoelace-style/localize) - 用于本地化自定义元素的微型库，为 Lit 提供指令.
 - [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lit 2 的轻量级反应状态管理.
 - [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - 一组用于使用 TypeScript 和 Lit 构建表单的实用程序.
 - [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - 使用 Web 组件构建的用于暗模式的有用实用程序.
@@ -266,7 +267,7 @@ lit-html 创作者 Justin Fagnani 的一集.
 这些库与 Lit 无关，但使用类似的概念构建. 他们使用`html`标记
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
 
-- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但用于标准 Web 组件和 hyperHTML 或 lit-html.
+- [haunted](https://www.npmjs.com/package/haunted) - React 的 Hooks API，但适用于标准 Web 组件和 hyperHTML 或 lit-html.
 - [htm](https://github.com/developit/htm) - Hyperscript Tagged Markup：使用标准标记模板的 JSX 替代方案，具有编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) - UI 库，用于使用简单且功能强大的 API 创建 Web 组件.
 - [lit-ntml](https://github.com/motss/lit-ntml) - Node.js 中 SSR 的轻量级和现代模板，灵感来自 lit-html.

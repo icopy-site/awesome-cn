@@ -13,7 +13,7 @@
 
 适用于 macOS 的出色开源应用程序列表. 此列表包含许多本机和跨平台应用程序. 这个存储库的主要目标是找到免费的开源应用程序并开始贡献. 随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) 到列表中，欢迎提出任何建议！
 
-要接收所有新的或流行的应用程序，您可以加入我们 [telegram chanel](https://t.me/opensourcemacosapps).
+要接收所有新的或流行的应用程序，您可以加入我们 [telegram channel](https://t.me/opensourcemacosapps).
 
 ## Support
 
@@ -226,7 +226,7 @@
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  - 用于生成应用程序图标的 macOS 应用程序.  ![javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  - 动态创建 Xcode 图像目录 (xcassets).  ![swift_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology) - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.  ![swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) - 适用于 macOS 的应用程序，旨在为现有应用程序在各种状态下生成大小一致的图标，摇晃（摇晃）等！[objective_c_icon] 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) - 适用于 macOS 的应用程序，旨在为现有应用程序在各种状态、摇晃（晃动）等情况下生成大小一致的图标！[objective_c_icon] 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  - 逾期 Swift 重写注入.  ![objective_c_icon] ![swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  - Apple 推送通知服务 (APN) 的调试应用程序.  ![objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  - 直观的应用程序，可在屏幕上显示透明图像.  ![swift_icon] 
@@ -238,7 +238,7 @@
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)  - macOS 应用程序，可帮助您管理 Podfile 中的依赖项版本.  ![swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)  - 适用于 Mac 的 Apple iOS/macOS Provisioning Profiles 管理、.provisionprofile、.mobileprovision 文件管理器工具.  ![objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)  - 用于在 iOS 和 Android 上测试推送通知的 macOS 应用程序.  ![javascript_icon] 
-- [ResignTool](https://github.com/InjoyDeng/ResignTool)  - 这是一款适用于 macOS 的应用程序，它可以（重新）签署应用程序并将它们捆绑到准备安装在 iOS 设备上的 ipa 文件中.  ![objective_c_icon] 
+- [ResignTool](https://github.com/InjoyDeng/ResignTool)  - 这是一款适用于 macOS 的应用程序，可以（重新）签署应用程序并将它们捆绑到准备安装在 iOS 设备上的 ipa 文件中.  ![objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr)  - 用于为 iOS 和 Android 应用程序创建 AppIcon 的 MacOS 应用程序.  ![swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)  - iOS 推送通知调试应用程序.  ![objective_c_icon] 
 - [Stringz](https://github.com/mohakapt/Stringz)  - 用于本地化 iOS、macOS、tvOS 和 watchOS 应用程序的轻量级和强大的编辑器.  ![swift_icon] 
@@ -347,7 +347,7 @@
 - [Apache Netbeans](https://github.com/apache/netbeans)  - Apache NetBeans 是一个 IDE、工具平台和应用程序框架，适合使用 Java、JavaScript、PHP、HTML5、CSS 等进行开发.  ![java_icon] 
 - [Atom](https://github.com/atom/atom)  - 可破解的文本编辑器.  ![javascript_icon] 
 - [LiveCode](https://github.com/livecode/livecode)  - 跨平台开发IDE.  ![c_icon] 
-- [Oni](https://github.com/onivim/oni)  - Oni 是现代版的模态编辑代码编辑器，专注于开发人员的生产力.  ![javascript_icon] ![type_script_icon] 
+- [Oni](https://github.com/onivim/oni)  - Oni 是一种现代的模式编辑代码编辑器，专注于开发人员的生产力.  ![javascript_icon] ![type_script_icon] 
 - [Vim](https://github.com/vim/vim) - 无处不在的文本编辑器 ![C_icon] ![Vim script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  - 微软开发的代码编辑器.  ![type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)  - ZeroBrane Studio 是一个轻量级的跨平台 Lua IDE，具有代码完成、语法高亮、远程调试器、代码分析器、实时编码和对各种 Lua 引擎的调试支持.  ![lua_icon] 

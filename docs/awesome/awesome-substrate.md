@@ -24,7 +24,7 @@
   与其他 Substrate 开发人员聊天.
 - [Builders Program](https://www.substrate.io/builders-program) - 为有远见的人提供白手套支持
   团队.
-- [Web3 Foundation Grants](https://web3.foundation/grants) - 为生态系统发展提供资金.
+- [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
 - [Users](https://www.substrate.io/substrate-users) - 使用 Substrate 构建团队.
 - [GitHub](https://github.com/paritytech/substrate) - 基板源代码.
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - 开发者中心存储库.
@@ -94,7 +94,7 @@
   构建 Substrate 运行时.
 - [ink!](https://github.com/paritytech/ink) - Substrate 链的智能合约语言.
 - [Cumulus](https://github.com/paritytech/cumulus) - 简化的 Polkadot 兼容平行链.
-- [Bridges](https://github.com/paritytech/parity-bridges-common) - 工具的集合
+- [Bridges](https://github.com/paritytech/parity-bridges-common) - 一系列工具，用于
   跨链通信.
 - [Frontier](https://github.com/paritytech/frontier) - Substrate 的端到端以太坊仿真
   链.
@@ -121,7 +121,7 @@
 ## Pallets
 
 - [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - 社区
-  维护 Substrate 运行时模块的集合.
+  维护了 Substrate 运行时模块的集合.
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - 分散式
   用于管理赏金计划的自治组织 (DAO).
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - 受 Keybase 启发
@@ -136,9 +136,9 @@
 ## Client Libraries
 
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - 官方 Rust 客户端.
-- [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust 客户端维护
+- [Substrate API Client](https://github.com/scs/substrate-api-client) - 由 Rust 维护的客户端
   [Supercomputing Systems AG](https://www.scs.ch/).
-- [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for
+- [Polkadot-JS API](https://github.com/polkadot-js/api/) - 半官方的 JavaScript 库
   基于底物的链.
 - [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) - 维护者
   [Polkascan Foundation](https://polkascan.org/).
@@ -168,6 +168,7 @@
 - [Archive](https://github.com/paritytech/substrate-archive) - Substrate 链的索引引擎.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - 离线交易的有用库
   创建.
+- [Substate](https://github.com/arrudagates/substate) - 100% 无标准/wasm 兼容 Rust 的 Substrate 存储密钥生成器库.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - 命令行实用程序
   使用加密密钥.
 - [Polkascan](https://polkascan.io/) - Polkascan 维护的多链区块浏览器
@@ -218,7 +219,7 @@
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 要解析的脚本
   并为给定的 Kusama 或 Polkadot 地址输出质押奖励并交叉引用它们
   与每日价格数据.
-- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 简单的 CLI 工具来启动一个
+- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 启动一个简单的 CLI 工具
   本地 Polkadot 测试网络.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
   Polkadot 测试网络，强调运行大型测试网络的能力.
@@ -230,7 +231,7 @@
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - 分解
   您的 Substrate 账户的余额.
 - [`substrate-balance-graph`](https://github.com/shawntabrizi/substrate-balance-graph) - 创建一个
-  Substrate 地址随时间变化的代币余额图.
+  Substrate 地址的代币余额随时间变化的图表.
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 一个独立的 JS
   包含 Polkadot{JS} 库的包.
 - [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - 一个基本的前端

@@ -64,6 +64,10 @@
 * [rocket-pipes](https://github.com/darky/rocket-pipes)  - 强大的管道，从流行的 FP 库中链接 Promise 和 ADT，就像可能或要么.  +TS
 * [omg-curry](https://github.com/Debdut/omg-curry) - 带有 Operator Curry、Curry from 函数、Decurry 和无限咖喱的综合咖喱库.
 * [lfi](https://github.com/TomerAberbach/lfi) - 一个支持同步、异步和并发迭代的延迟函数迭代库.
+* [ts-multimethod](https://github.com/darky/ts-multimethod)  - 受 Clojure 多方法启发的 TypeScript 多方法.  +TS
+* [ts-fp-di](https://github.com/darky/ts-fp-di)  - 微小的 TypeScript 函数依赖注入，基于 Node.js AsyncLocalStorage.  +TS
+* [effect-ts](https://github.com/Effect-TS/core)  – 具有丰富标准库的成熟的打字稿功能效果系统.  +TS
+* [qio](https://github.com/tusharmath/qio)  – 一种类型安全、功能性、高性能、合法、可组合的数据结构，解决了 node 和浏览器中效果全代码的实际问题.  +TS
 
 ### Data Structures
 
@@ -101,7 +105,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds)  – Haskell 包 Data.Aviary.Birds 的端口. 一切满足您的组合需求.
 * [crocks](https://github.com/evilsoft/crocks)  – 一组流行的代数数据类型，其主要目标不仅是管理和提供每种类型之间的通用接口，还包括启动运行所需的所有辅助函数.  -TS.
 * [kudo-js](https://github.com/blitzritz/kudojs) - 带有一组代数数据类型和辅助函数的小型实用程序库，可帮助您在 Javascript 中以函数式编程风格编写代码
-* [purify](https://github.com/gigobyte/purify)  - 专注于 ADT 的 TypeScript 函数式编程库.  +CT，+TS.
+* [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs.  +CT, +TS.
 * [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先、自以为是的函数式语言，旨在与 JavaScript 引擎 100% 兼容
 * [Pratica](https://github.com/rametta/pratica)  - 小巧、简单、易用的 FP 数据类型，适用于需要快速交付可靠代码的务实和高效开发人员.  +CT，+TS.
 * [Tifi](https://github.com/mobily/tifi)  - Tifi 是一个用于在 TypeScript 中进行函数式编程的库. 它解决了 `undefined` 和 `null` 都存在的问题.  Tifi 的灵感来自用于选项数据类型的 OCaml/Reason 实用程序.  +CT，+TS.
@@ -130,12 +134,13 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [ReScript](https://rescript-lang.org/) –（以前称为 [Bucklescript](https://rescript-lang.org/bucklescript-rebranding)) ReScript 是一种类型安全的语言，可以编译为最高质量的干净、可读和高性能的 JavaScript 代码.
 * [Scala.js](http://www.scala-js.org/) – 编译 [Scala](http://www.scala-lang.org/) 到 JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript 具有到 JavaScript 的直接映射，并允许您编写没有重复样板的富有表现力的代码.
-* [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+* [Quack](https://github.com/quack/quack) - 一种多范式编程语言，具有针对 PHP 和 JS 的渐进式和鸭式类型.
 * [ion](https://github.com/ion-lang/ion) - 没有 BS JS
 * [RamdaScript](https://github.com/yosbelms/ramdascript) - 在 RamdaJS 之上编译为自以为是的 JavaScript 的 Lisp
 * [RacketScript](https://github.com/vishesh/racketscript) – RacketScript 旨在利用 JavaScript 和 Racket 的生态系统，并使它们之间的互操作性清晰流畅.
 * [Koka](https://www.microsoft.com/en-us/research/project/koka/) – Koka 是一种面向函数的编程语言，它使用熟悉的类似 JavaScript 的语法将纯值与副作用计算分开.
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript 是 JavaScript 的类型化超集，可编译为纯 JavaScript.
+* [Gleam](https://gleam.run) - Gleam 是一种类型化的函数式语言，可编译为 Erlang 和 JavaScript.
 
 ## Programming Tools
 

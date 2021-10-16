@@ -132,7 +132,7 @@ _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 _在日历中显示不可编辑的事件._
 
 - [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
-- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
+- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 轻巧的日期选择器，具有简洁的动画和独特的用户体验.
 
 ### Maps
 
@@ -151,6 +151,10 @@ _开关/开/关切换/复选框._
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - 复选框组件（很酷的动画，可定制）.
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - 带有样式的基本切换组件.
 
+### Miscellaneous
+
+- [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - 用于渲染树视图的轻量级组件.
+
 ## Scaffold
 
 _模板/样板/种子/入门套件/堆栈集成/自耕农生成器._
@@ -165,7 +169,7 @@ _仅在浏览器中渲染 Svelte 应用程序._
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - 基于官方模板的 PWA 入门模板.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - 集成 Redux-Toolkit 的入门模板.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - 启动模板，TS 激活，ESLint 和 Prettier 协同工作.
-- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - 已激活 Typescript 且 Jest 工作正常的入门模板.
+- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - 已激活 Typescript 且 Jest 工作的入门模板.
 
 #### Universal
 
@@ -200,7 +204,7 @@ _SSR 框架._
 
 ### Fonts
 
-- [svelte-web-fonts/google](https://github.com/svelte-web-fonts/google) - 通过谷歌字体 API 轻松加载字体的小组件，包括自动完成.
+- [svelte-web-fonts/google](https://github.com/svelte-web-fonts/google) - 通过 Google Fonts API 轻松加载字体的小组件，包括自动完成.
 
 ### Internationalisation
 
@@ -243,7 +247,7 @@ _创建文档._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 一种为 Svelte 组件编写文档的快速方法.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - 为您的组件生成 JSON 文档.
-- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关 Svelte 文件的元数据.
+- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关您的 Svelte 文件的元数据.
 
 ### Test
 
@@ -277,4 +281,4 @@ _文本编辑器插件._
 
 #### JetBrains
 
-- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 语法突出显示和对 JetBrains 的支持.
+- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 对 JetBrains 的语法突出显示和支持.

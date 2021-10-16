@@ -38,7 +38,7 @@
 
 - [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) - 链接到*计费和成本管理* 部分.
 
-- [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - 为了优化投资回报率，将所有常规工作负载保留在传统架构中，并为弹性和实验性项目预留云计算.
+- [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - 为了优化投资回报率，将所有常规工作负载保留在传统架构中，并为弹性和实验项目预留云计算.
 
 - [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)  - 对计费系统各个方面的精彩介绍，从货币到发票，包括有关计划更改逻辑的精彩插图. 所有这些主题稍后将在下面的专门部分中详细说明.
 
@@ -46,7 +46,7 @@
 
 从按月订阅到类似商品的移动消费，有很多方案可以构建您的产品定价. 包括很好的旧购物车漏斗.
 
-- [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - 不仅是庞大而完整的定价方案集合，还有对收入模式的心理影响和影响.
+- [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - 不仅是庞大而完整的定价方案的集合，还有对收入模式的心理影响和影响.
 
 - [Business Model Patterns](https://reasonstreet.co/business-model-library/) - 销售产品和服务的 11 种不同方式的列表.
 
@@ -60,7 +60,7 @@
 
 - [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商按照每个人的最佳利益行事.” 还详细说明了其他定价模型的问题.
 
-- [Socially Optimal Pricing of Cloud Computing Resources](https://webee.technion.ac.il/people/shimkin/PAPERS/Menache-CloudPricing-Conf2011.pdf)  - “社会最优操作点是独一无二的，可以通过线性的、基于使用的资费来维持，该资费对每单位资源和单位时间收取固定价格.” 本文证明了云资源基于使用情况的定价是合理的.
+- [Socially Optimal Pricing of Cloud Computing Resources](https://webee.technion.ac.il/people/shimkin/PAPERS/Menache-CloudPricing-Conf2011.pdf)  - “社会最优运行点是独一无二的，可以通过线性的、基于使用的资费来维持，该资费对每单位资源和单位时间收取固定价格.” 本文证明了云资源基于使用情况的定价是合理的.
 
 - [A Survey of Profit Optimization Techniques for Cloud Providers](https://dl.acm.org/doi/fullHtml/10.1145/3376917) - “首先讨论提高用户服务质量的策略，其次是云资源的定价策略，以实现收入最大化.”
 
@@ -72,17 +72,17 @@
 
 - [Reconcile Your Monthly GCP Invoice with BigQuery Billing Export](https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e)  - 在此开发人员寻求跟踪其费用的背后，您可以瞥见云计费的困难. 虽然没有明确指出，但对云资源进行定价是困难的，是空间、时间和货币之间量化、粒度和舍入的结果.
 
-- [AWS EC2 T2 Instances Demystified: Don't Learn The Hard Way](https://roberttisdale.com/aws-ec2-t2-instances-demystified-dont-learn-hard-way/) - 一个非常棘手的突发实例的例子，它累积并限制自己的 CPU 使用积分.
+- [AWS EC2 T2 Instances Demystified: Don't Learn The Hard Way](https://roberttisdale.com/aws-ec2-t2-instances-demystified-dont-learn-hard-way/) - 一个非常棘手的可突发实例的例子，它累积并限制自己的 CPU 使用积分.
 
 - [“Designing billing for a service can be really challenging”](https://news.ycombinator.com/item?id=23536919) - 关于 AWS Simple Email Service 定价计划设计的个人轶事.
 
-- [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - 基于使用情况的定价更加优化和公平：它“允许客户以低成本开始，最大限度地减少开始的摩擦，同时仍然保留随着时间的推移通过客户获利的能力”.
+- [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - 基于使用情况的定价更优化、更公平：它“允许客户以低成本开始，最大限度地减少开始的摩擦，同时仍然保留随着时间的推移通过客户获利的能力”.
 
 ### Subscription Plans
 
 SaaS 业务非常受欢迎，订阅计划很容易理解.
 
-- [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “在低接触 SaaS 中，最常见的软件包呈现方式是定价网格中的不同列，每一列对应一个计划，以不同的价格提供，对功能的不同访问或沿某个轴的最大允许使用量对企业来说很有趣.”
+- [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “在低接触 SaaS 中，最常见的包呈现方式是定价网格中的不同列，每列对应一个计划，以不同的价格提供，对功能的不同访问或沿某个轴的最大允许使用量对企业来说很有趣.”
 
 - [`f-license`](https://github.com/furkansenharputlu/f-license) - Go 中的开源许可证密钥生成和验证工具.
 
@@ -118,9 +118,9 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Pricing niche products](https://kevinlynagh.com/notes/pricing-niche-products/)  - “不过，反对简单选择价格的最有说服力的论点是，它限制了您对市场的了解程度.” 然后作者设置了维克里拍卖来发现价格.
 
-- [Finding the max revenue price mark for digital products](https://medium.com/@hovm/finding-the-max-revenue-price-mark-for-digital-products-24cef24f746d)  -“要找到为您的产品提供最大收入的最佳价格，您需要对多个价格点进行现场测试； 然后你重建收入曲线并找到峰值.”
+- [Finding the max revenue price mark for digital products](https://medium.com/@hovm/finding-the-max-revenue-price-mark-for-digital-products-24cef24f746d)  - “要找到为您的产品提供最大收入的最佳价格，您需要现场测试多个价格点； 然后你重建收入曲线并找到峰值.”
 
-- [Personalised pricing and EU law](https://www.econstor.eu/bitstream/10419/205221/1/de-Streel-Jacques.pdf) - 由于消费者保护和数据保护规则，欧盟禁止某些价格个性化案例.
+- [Personalised pricing and EU law](https://www.econstor.eu/bitstream/10419/205221/1/de-Streel-Jacques.pdf) - 由于消费者保护和数据保护规则，欧盟禁止某些价格个性化情况.
 
 ## Product Catalog
 
@@ -132,7 +132,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Pimcore](https://github.com/pimcore/pimcore) - 用 PHP Symfony 编写的用于管理产品元数据的开源 UI 和数据库.
 
-- [OpenPIM](https://www.openpim.org) - 一个精简的开源项目，专注于 PIM-only 特性.
+- [OpenPIM](https://www.openpim.org) - 一个精简的开源项目，专注于 PIM-only 功能.
 
 - [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - 以上3个项目的比较研究.
 
@@ -150,7 +150,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 帮助您的客户根据他们过去的使用情况预测他们即将到来和未来的消费.
 
-- [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - “对预测方法的全面介绍，并为读者提供有关每种方法的足够信息，以便能够明智地使用它们.”
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - “对预测方法的全面介绍，并为读者提供有关每种方法的足够信息，以便读者能够明智地使用它们.”
 
 - [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) - 讨论优步如何在其财务规划平台中应用数据科学和机器学习.
 
@@ -158,13 +158,13 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) 上面提到过.
 
-- [Komiser](https://github.com/mlabouardy/komiser) - 开源工具，可通过发现隐藏成本、监控支出增长并根据自定义建议做出有影响力的更改来保持在预算范围内.
+- [Komiser](https://github.com/mlabouardy/komiser) - 开源工具，可通过发现隐藏成本、监控支出增长以及根据自定义建议做出有影响力的更改来保持预算范围内.
 
 - [GCP Cost Forecast](https://cloud.google.com//billing/docs/how-to/reports#cost-forecast) - 资源消耗的消耗趋势线示例.
 
 - [AWS Forecast](https://aws.amazon.com/forecast/) - 功能齐全的托管产品，可对任何时间序列进行预测.
 
-- [How to save money on your AWS bill](https://twitter.com/QuinnyPig/status/1091041507342086144)  - “最大的成本节省是： 1. 关闭您不使用的东西；  2.然后点实例；  3. 然后保留实例.”
+- [How to save money on your AWS bill](https://twitter.com/QuinnyPig/status/1091041507342086144)  - “最大的成本节省是： 1. 关闭您不使用的东西；  2.然后点实例；  3.然后保留实例.”
 
 ## Marketplace
 
@@ -174,7 +174,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Papers we love: Auctions and Bidding](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - 关于投标和拍卖的论文集.
 
-- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - 由一个暗示 [HN comment](https://news.ycombinator.com/item?id=19145391) ，其中是的，“&#39;询问人们他们愿意支付什么费用以及很少起作用的程度.&#39;  (…) \[但是\] 使用 Vickrey 拍卖，类似于 Google 的广告拍卖机制，可以激发人们的最大支付意愿.”
+- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - 由一个暗示 [HN comment](https://news.ycombinator.com/item?id=19145391) ，其中是的，“&#39;询问人们他们愿意支付什么费用以及很少起作用的程度.&#39;  (…) \[但是\] 使用 Vickrey 拍卖，类似于 Google 的广告拍卖机制，可以激发一个人的最大支付意愿.”
 
 - [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)  - “先有供应还是先有需求？ 鸡还是蛋？”
 
@@ -190,7 +190,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf)  - “亚马逊的现货价格不太可能根据市场供求情况而定. 相反，价格大部分时间都在一个非常窄的范围内波动，这更有可能是某些具有预定底价的定价算法的产物.”
 
-- [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf)  - “我们研究了云计算中的供需经济学.  (…) 这些结果解释了为什么尽管似乎需要随时间变化的动态，但目前固定价格仍占主导地位. 检查实际 CPU 利用率提供了一个展望未来的视角.  (...) 需求波动将与动态定价很重要的三个经典行业（酒店、电力、航空公司）相当，动态价格对效率至关重要.”
+- [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf)  - “我们研究了云计算中的供需经济学.  (...) 这些结果解释了为什么尽管似乎需要随时间变化的动态，但目前固定价格仍占主导地位. 检查实际 CPU 利用率提供了一个展望未来的视角.  (...) 需求波动将与动态定价很重要的三个经典行业（酒店、电力、航空公司）相提并论，动态价格对效率至关重要.”
 
 - [Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a Dynamic Pricing Strategy based on Ski-Rental Problem](https://arxiv.org/pdf/1507.02545.pdf)  - “我们算法的关键思想是使用定价信号来调节用户需求. 有人可能会争辩说，这样的算法为用户提供了糟糕的服务，因为它会将任务推出队列以最大化云代理的利润.”
 
@@ -198,7 +198,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
  - “你总是支付现货市场价格，而不是你的出价.”  ([source](https://news.ycombinator.com/item?id=20347716)) - 投标机制的简单说明.
 
-- [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一家应对这一挑战的云提供商，它允许客户对备用容量进行投标，并在投标人的投标超过定期变化的现货价格时向他们提供资源.”
+- [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一个应对这一挑战的云服务提供商，它允许客户对闲置容量进行投标，并在投标人的出价超过定期变化的现货价格时向他们提供资源.”
 
 - [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “Google 的价格是固定的，而 AWS 使用的是市场模型”.
 
@@ -206,7 +206,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html) - 当你足够大的时候 [creating an internal secondary market](https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5) 例如具有经济意义.
 
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - 可轻松可靠地将（所有）现有 AutoScaling 组转换为更便宜的 Spot 实例的工具.
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - 可以轻松可靠地将（所有）现有 AutoScaling 组转换为更便宜的 Spot 实例的工具.
 
 ### Online Ads
 
@@ -232,13 +232,13 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
-- [Accounting Memento For Entrepreneurs (US GAAP)](https://www.odoo.com/documentation/functional/accounting.html) - 一种与会计概念相结合的互动形式.
+- [Accounting Memento For Entrepreneurs (US GAAP)](https://www.odoo.com/documentation/functional/accounting.html) - 一种与会计概念一起玩的互动形式.
 
 ### Bookkeeping
 
 您需要了解的有关保持会计数据干净整洁的日常做法的所有信息.
 
-- [So, you want to learn Bookkeeping\!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护业务交易的日常运营.
+- [So, you want to learn Bookkeeping\!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护企业交易的日常运营.
 
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - 广泛的开源个人理财项目列表，可以很好地寻找复式记账和簿记方面的灵感.
 
@@ -260,7 +260,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ### Software design and implementation
 
-现在您已经对会计的概念和实践有所熟悉，这里有一些资源可以帮助您将这些知识应用到软件系统中.
+现在您已经对会计的概念和实践有所了解，这里有一些资源可以帮助您将这些知识应用到软件系统中.
 
 - [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html)  - 计费和会计系统背后的设计决策. 关键要点：一些公司仍然通过支票付款； 不要使用浮点数； 复杂的客户工作流程； 日期和时间问题； 可变数据.
 
@@ -270,7 +270,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Managed accounts for Django](https://github.com/django-oscar/django-oscar-accounts) - “管理账户”是可以借记和贷记的资金分配.
 
-- [Triple‐entry accounting with blockchain: How far have we come?](https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.12556)  - “三式记账式会计是解决困扰当前会计系统的基本信任和透明度问题的一种新的、更有效的方法. 使用区块链的三式记账如果实施得当，可以从根本上改善记账.”
+- [Triple‐entry accounting with blockchain: How far have we come?](https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.12556)  - “三式记账是一种新的、更有效的方法，可以解决困扰当前会计系统的基本信任和透明度问题. 如果实施得当，使用区块链的三式记账可以从根本上改善会计.”
 
 ### Currencies
 
@@ -284,7 +284,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://amzn.com/0273744704/?tag=kevideld-20) - 帮助您学习如何分析和监控您公司的财务业绩.
 
-- [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/)  - “马龙创建了一个新的会计指标，他称之为‘利息、折旧和税前收益’，或 EBITDA.” 这就是有线电视公司首席执行官如何理解现金流，就像房地产业务一样. 本文从这个例子开始，描述了 SaaS 模型的其他现金流游戏.
+- [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/)  - “马龙创建了一个新的会计指标，他称之为‘利息、折旧和税前收益’，或 EBITDA.” 这就是有线电视公司首席执行官如何理解现金流，就像房地产业务一样. 本文从这个例子开始，描述 SaaS 模型的其他现金流游戏.
 
 - [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://amzn.com/1422119157/?tag=kevideld-20) - 让您充分了解如何使用财务数据为您的业务做出更好的决策.
 
@@ -304,13 +304,13 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ## Coupons and Vouchers
 
-- [Raising Prices is Hard](https://www.backblaze.com/blog/raising-prices-is-hard/)  - Backblaze 在其主要报价上提高价格的事后分析. 他们想创建一个基于信用系统的扩展程序. 这成为他们少数最高级工程师的全职工作，并导致了为期六个月的项目.
+- [Raising Prices is Hard](https://www.backblaze.com/blog/raising-prices-is-hard/)  - Backblaze 事后对他们的主要报价提高价格. 他们想创建一个基于信用系统的扩展程序. 这成为他们少数最高级工程师的全职工作，并导致了为期六个月的项目.
 
-- [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - 您必须对信用添加时间限制的原因：未使用的帐户作为我们资产负债表上的负债.
+- [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - 您必须为信用添加时间限制的原因：未使用的帐户作为我们资产负债表上的负债.
 
 - [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - 关于如何利用促销代码获得无限制免费乘车的警示故事.
 
-- [China's Pinduoduo reports theft of online discount vouchers to police](https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - 下一级诈骗：“某网络集体利用平台漏洞‘窃取’价值数千万的优惠券”.
+- [China's Pinduoduo reports theft of online discount vouchers to police](https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - 下一级诈骗：“某网络集体利用平台漏洞‘盗取’价值数千万的优惠券”.
 
 - [Council Directive 2016/1065 as regards the treatment of vouchers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L1065) - 涉及代金券时应用增值税的欧洲指令.
 
@@ -324,13 +324,13 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Global VAT & GST on digital services](https://www.avalara.com/vatlive/en/global-vat-gst-on-e-services.html) - 要求对外国提供的在线服务征税的国家列表.
 
- - “英国超市 (...) 会向您收取后端卡处理费用，但他们会从您的结账价格中减去该费用.”  ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
+ - “英国超市 (...) 向您收取后端卡处理费用，但他们从您的结账价格中减去该费用.”  ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
 
 - [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - 一项美国多州倡议，旨在实现销售税会计和征收的自动化和标准化.
 
 ### European VAT
 
-- [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01) - “如果你认为你可以像我们一样设置一个简单的 Stripe 集成然后继续前进，那你就大错特错了.”
+- [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01) - “如果你认为你可以像我们一样设置一个简单的 Stripe 集成并继续前进，那你就大错特错了.”
 
 - [Council Directive 2006/112/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL) - 欧盟关于增值税共同制度的参考.
 
@@ -356,7 +356,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Ruby Invoicing Framework](https://github.com/code-mancers/invoicing)  - 用于生成和显示发票（适用于商业 Rails 应用程序）. 它允许灵活的业务逻辑； 提供税务处理、佣金计算等工具.
 
-- [Refact](http://en.userstudio.fr/projects/refact/) - 一个试图用信息图表修改电话帐单的设计项目.
+- [Refact](http://en.userstudio.fr/projects/refact/) - 一个设计项目，试图用信息图表修改电话帐单.
 
 - [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - 深度神经网络从发票文档中提取智能信息.
 
@@ -370,13 +370,13 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - 顶级支付提供商、定价和模式的基准.
 
-- [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)  - RDBMS 是为银行围绕交易构建的，以解决该特定问题. 然后 NoSQL 来迫使我们仔细实施系统以避免双重支出.
+- [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)  - RDBMS 是为银行围绕交易构建的，以解决该特定问题. 然后 NoSQL 迫使我们仔细实施系统以避免双重支出.
 
 - [Monzo's bank transfers post-mortem](https://monzo.com/blog/2019/06/20/why-bank-transfers-failed-on-30th-may-2019/) - 或者为什么您应该为网关提供商的中断做好准备并加以解决.
 
 - [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - 支付运营架构的重要性.
 
-- [EU's Late Payment Directive](https://ec.europa.eu/growth/smes/support/late-payment_en) - 欧洲关于滞纳金适用费用的规则.
+- [EU's Late Payment Directive](https://ec.europa.eu/growth/smes/support/late-payment_en) - 关于延迟付款的适用费用的欧洲规则.
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944)  - 根本原因？ 人们在低湿度的空气中穿着大量羊毛，产生大量静电.
 
@@ -384,7 +384,11 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox 试图对不可靠的支付提供商进行解释的经验.
 
-- [Why was I charged?](https://wpchrg.wordpress.com)  - 在用户对支付的持续投诉下，WordPress 创建了一个专用的子域来帮助客户了解意外交易. 诀窍是直接在银行对帐单中添加那种网站的 URL.
+- [Why was I charged?](https://wpchrg.wordpress.com)  - 在用户对付款的持续投诉下，WordPress 创建了一个专用子域来帮助客户了解意外交易. 诀窍是直接在银行对帐单中添加那种网站的 URL.
+
+- [moov](https://github.com/moov-io) - 金融技术的开源基础设施.
+
+- [Fintech Open Source Foundation](https://github.com/finos) - 金融项目的另一套开源项目.
 
 ### Receipt
 
@@ -398,7 +402,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 最受欢迎的支付设备.
 
-- ['Is that even legal?': Companies may be sharing new credit or debit card information without you knowing](https://www.cbc.ca/news/business/banking-information-shared-with-third-parties-1.5102931)  - 一些信用卡和借记卡公司提供“更新服务”，允许与商家共享新帐号和到期日期.  Visa的实现叫做 [VAU](https://developer.visa.com/capabilities/vau) 万事达卡是 [ABU](https://developer.mastercard.com/product/automatic-billing-updater).
+- ['Is that even legal?': Companies may be sharing new credit or debit card information without you knowing](https://www.cbc.ca/news/business/banking-information-shared-with-third-parties-1.5102931)  - 一些信用卡和借记卡公司提供“更新服务”，允许与商家共享新帐号和到期日期.  Visa的实现称为 [VAU](https://developer.visa.com/capabilities/vau) 万事达卡是 [ABU](https://developer.mastercard.com/product/automatic-billing-updater).
 
 - [Strong Customer Authentication](https://stripe.com/guides/strong-customer-authentication) - [Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive) 2、解释.
 
@@ -432,9 +436,9 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ## Fraud
 
-有金钱激励来开发您的业务. 准备好与成群结队的欺诈者和黑幕用户作斗争.
+有金钱激励来开发您的业务. 准备好与成群的欺诈者和黑幕用户作斗争.
 
-- [Detecting fraudulent activity in a cloud using privacy-friendly data aggregates](https://arxiv.org/pdf/1411.6721v1.pdf) - 讨论了一种通过使用非侵入性、隐私友好的数据来检测欺诈活动（发起 DDoS 攻击、比特币挖掘等）的方法：计费数据.
+- [Detecting fraudulent activity in a cloud using privacy-friendly data aggregates](https://arxiv.org/pdf/1411.6721v1.pdf) - 讨论了一种通过使用非侵入性、保护隐私的数据（计费数据）来检测欺诈活动（发起 DDoS 攻击、比特币挖掘等）的方法.
 
 <!--lint disable double-link-->
 
@@ -450,7 +454,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/) - 描述一种称为“卡片测试”的欺诈技术，其中根据您的 API 检查大量被盗卡片的有效性.
 
-- [How Candy Japan got credit card fraud somewhat under control](https://www.candyjapan.com/behind-the-scenes/how-i-got-credit-card-fraud-somewhat-under-control) - 涉及的建议 [warning signals](https://www.candyjapan.com/behind-the-scenes/fraudulent-transaction-warning-signs) 试图猜测哪些订单可能是欺诈行为，或者采取对策以试图让欺诈者更难对付.
+- [How Candy Japan got credit card fraud somewhat under control](https://www.candyjapan.com/behind-the-scenes/how-i-got-credit-card-fraud-somewhat-under-control) - 涉及的建议 [warning signals](https://www.candyjapan.com/behind-the-scenes/fraudulent-transaction-warning-signs) 试图猜测哪些订单可能是欺诈行为，或者采取措施让欺诈者更难对付.
 
 - [Five Fun Fraud Facts](https://blog.sift.com/2013/five-ecommerce-fraud-facts/)  - 我们可以提供给 ML 系统以检测欺诈的另一个小功能集合. 还出土了对HN的评论 [more qualifying signals](https://news.ycombinator.com/item?id=6376350) 和 [derived geodata on the transaction](https://news.ycombinator.com/item?id=6376221).
 
@@ -462,7 +466,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ### Trust Score
 
-基于信号集合的综合分数通常是用户可信度的最佳代表. 当这些操作未自动触发时，客户支持大部分时间依靠他们来采取行动.
+基于信号集合的综合分数通常是用户可信度的最佳代表. 当这些操作未自动触发时，客户支持大部分时间依靠他们采取行动.
 
 - [The Secret Trust Scores Companies Use to Judge Us All](https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206) - 我们购买的几乎所有商品、购买方式以及购买地点都被秘密输入人工智能验证服务，帮助公司防范信用卡和其他形式的欺诈.
 
@@ -522,7 +526,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [An Overview of Visa](http://minesafetydisclosures.com/blog/2019/7/23/part-ll-an-overview-of-visa) - Visa商业模式和指标的大细分.
 
-- [The SaaS Financial Model You'll Actually Use](https://baremetrics.com/blog/saas-financial-model) - 全面了解一个状态的财务状况，为您提供有关您生成的指标如何适应更大图景的额外背景信息.
+- [The SaaS Financial Model You'll Actually Use](https://baremetrics.com/blog/saas-financial-model) - 一个完整的 statup 财务概览，为您提供关于您生成的指标如何适应更大图景的额外背景.
 
 ### Customer Lifetime Value
 
@@ -532,7 +536,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 - [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - 一篇开创性的论文，与上面的相比，采用了更强的方法： [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319)，更适合月度合同.
 
-- [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - 一个精炼的 CLV 模型，用于根据新近度、频率和货币价值对用户进行细分.
+- [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - 精炼的 CLV 模型，用于根据新近度、频率和货币价值对用户进行细分.
 
 - [Churn Prediction](https://towardsdatascience.com/churn-prediction-3a4a36c2129a)  - “如何通过将预测方法应用于您的所有行动，以简单的方式使用 Python 来推动公司的发展.” 依赖于 XGBoost 二进制分类.
 
@@ -542,7 +546,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ### Data Engineering
 
-为了实现数据生产和消费的产业化，您需要数据工程师来清理、保存和整合数据. 只有在获得这些数据基础后，您才可能考虑入职数据科学家.
+要实现数据生产和消费的产业化，您需要数据工程师来清理、保存和整合数据. 只有在获得这些数据基础后，您才可能考虑入职数据科学家.
 
 - [AI vs Data Science vs Data Engineering](https://blog.insightdatascience.com/how-emerging-ai-roles-fit-in-the-data-landscape-d4cd922c389b)  - “数据工程师构建数据管道和基础设施，以确保转换数据的持续可用性. 数据科学家根据这些数据分析和构建模型，以开发新产品功能或推动业务盈利.” 至于人工智能专业人士，他们的重点是认知自动化.
 
@@ -576,7 +580,7 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ## Competitive Analysis
 
-一堆资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
+一系列资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
 
 - [AWS Cost Management announcements](https://aws.amazon.com/about-aws/whats-new/aws-cost-management/) - 添加到计费边界的所有新功能的来源.
 
@@ -628,4 +632,4 @@ SaaS 业务非常受欢迎，订阅计划很容易理解.
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) 是基于修改 [photo](https://unsplash.com/photos/u2zSzMTwIjQ) 经过 [Denny Müller](https://unsplash.com/@redaquamedia).
+The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) 基于修改 [photo](https://unsplash.com/photos/u2zSzMTwIjQ) 经过 [Denny Müller](https://unsplash.com/@redaquamedia).
