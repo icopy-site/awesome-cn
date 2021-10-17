@@ -63,12 +63,14 @@
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
 - [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+红豆杉.
+- [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - 使用 wasm/yew 前端为 graphql 服务清洁样板.
+- [surfer](https://github.com/zzy/surfer) - 一个建立在 yew + graphql 上的博客，有 [live demo site](https://gaiding.com) .  graphql 服务的后端和 Web 应用程序的前端.
 
 ## Templates
 
 - [Create Yew App](https://github.com/jetli/create-yew-app) - 通过运行一个命令“npx create-yew-app my-app”来设置现代 Yew Web 应用程序.
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - 用于启动与 wasm-pack 一起使用的 Yew 项目的模板.
-- [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - 使用 wasm-bindgen 和 wasm-pack 启动 Yew 项目的最小模板.
+- [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 带有 Yew-Router 和 Parcel 应用程序的令人敬畏的红豆杉.
 
 ## Crates
@@ -98,6 +100,7 @@
 - [Yewdux](https://github.com/intendednull/yewdux) - 用于 Yew 应用程序的类似 Redux 的状态容器.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于样式组件，但适用于 Yew.
+- [stylist-rs](https://github.com/futursolo/stylist-rs) - 用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 
 ### Wasm
 
@@ -152,4 +155,4 @@ Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮�
 
 - [Awesome Rust and WebAssembly](https://github.com/rustwasm/awesome-rust-and-webassembly) - 很棒的 Rust 和 WebAssembly 项目、库、工具和资源的列表.
 - [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm) - 收集有关 WebAssembly 生态系统的精彩内容.
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - Rust 代码和资源的精选列表.

@@ -64,6 +64,7 @@
 - [CalcuPi](https://divykj.github.io/CalcuPi) - 用于近似 pi 值的漂亮蒙特卡罗模拟.
 - [Love Letter Tracker](https://www.fosskers.ca/en/tools/love-letter) - 纸牌游戏_情书_的知识追踪器.
 - [Whatlang.org](https://whatlang.org/) - whatlang（语言识别库）的交互式演示.
+- [Pslink](https://pslink.teilgedanken.de) - 专注于在出版物中使用的 URL 缩短页面（[demo](https://demo.pslink.teilgedanken.de/app/)  （用户，密码：演示））. 用途 [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/)， 和 [`sqlx`](https://github.com/launchbadge/sqlx).
 
 ## Libraries
 

@@ -75,7 +75,7 @@
 
 整篇论文都充满了价值，但我想指出两点：
 
- - **仅靠数据是不够的.** 这是科学与机器学习中的艺术相遇的地方. 引用 Domingos 的话说：“......学习中对知识的需求不应该令人惊讶.机器学习不是魔术；它不能从无到有.它所做的是从更少的东西中获得更多.编程，就像所有的工程一样，是一种很多工作：我们必须从头开始构建一切.学习更像是农业，它让自然完成大部分工作.农民将种子与营养结合起来种植庄稼.学习者将知识与数据结合起来发展计划.”
+ - **仅靠数据是不够的.** 这是科学与机器学习中的艺术相遇的地方. 引用 Domingos 的话：“......学习中对知识的需求不应该令人惊讶.机器学习不是魔术；它不能从无到有.它所做的是从更少的东西中获得更多.编程，就像所有的工程一样，是一种很多工作：我们必须从头开始构建一切.学习更像是农业，它让自然完成大部分工作.农民将种子与营养结合起来种植庄稼.学习者将知识与数据结合起来发展计划.”
  - **更多的数据胜过更聪明的算法.** 听着，程序员. 我们喜欢很酷的工具. 抵制重新发明轮子或过度设计解决方案的诱惑. 你的出发点是 [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html) . 引用 Domingos 的话：“假设你已经构建了最好的特征集，但是你得到的分类器仍然不够准确.你现在能做什么？有两个主要选择：设计一个更好的学习算法，或者收集更多数据.[...] 根据经验，拥有大量数据的愚蠢算法胜过拥有少量数据的聪明算法.（毕竟，机器学习就是让数据完成繁重的工作.） ”
 
 当您处理真正的机器学习问题时，在优化算法选择之前，您应该将精力集中在 **领域知识** 和 **数据** 上. 更喜欢[做简单的事情]，直到你_必须_增加复杂性. 你不应该急于进入神经网络，因为你认为它们很酷. 要改进您的模型，**获取更多数据.**然后利用您对问题的了解 [explore and process](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning) 数据. 只有在收集了足够多的数据并且处理得当之后，才应该优化算法的选择.
@@ -95,7 +95,7 @@
 
 在您休息之前，请收听一些播客. 
 
-一、下载 [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 周日写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) . 你也可以开始读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm)，清晰易懂的机器学习概述. 
+一、下载 [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 星期天写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) . 你也可以开始读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm)，清晰易懂的机器学习概述. 
 
 接下来，订阅更多机器学习和数据科学播客！ 这些是很棒的、省力的资源，您可以随意从中学习更多. 到 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn)，随着时间的推移聆听，有足够的空间. [Do not speed up your podcasts!](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
 
@@ -119,7 +119,7 @@ OK! Take a break, come back refreshed.
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/)：使用泰坦尼克号数据，“展示了基本的数据处理、分析和可视化技术.展示了监督机器学习技术的示例.”
 - [Election Forecasting](https://github.com/jseabold/538model): 模型的复制 [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) 曾经为_纽约时报_预测2012年美国总统大选.
-- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人委托我们创建一个演示机器学习该模型对花进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
+- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，该应用程序可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
 - ClickSecurity 的“数据黑客”系列（感谢 [hummus](https://github.com/hummus)!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
 	- [Detect SQL Injection](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
@@ -162,7 +162,7 @@ It's helpful if you decide on a pet project to play around with, as you go, so y
 * [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/) . 多明戈斯写了这篇论文 ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)，在本指南前面推荐.
 * Kevin Markham 的视频系列， [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/) ，从我们已经涵盖的内容开始，然后在一个舒适的地方继续. 在视频之后你可以做 Markham&#39;s [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) 交互的.  Markham 的课程也在华盛顿特区亲自授课.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) 课程和教科书 [Computational and Inferential Thinking](https://www.inferentialthinking.com/) 教授数据科学中的关键概念.
-    * 教科书还提供了数据科学的学术定义：**“数据科学是通过探索、预测和推理，从庞大而多样的数据集中得出有用的结论”.**
+    * 教科书还提供了数据科学的学术定义：**“数据科学是关于通过探索、预测和推理从庞大而多样的数据集中得出有用的结论”.**
     * [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) 现在也通过 edX 提供基于 Data 8 的在线课程.
 * 作为 IPython Notebooks 的数据科学课程：
 	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
@@ -238,7 +238,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 您可以通过研究以下资源之一来了解更多信息. 两种资源都使用 Python， [PyMC](https://github.com/pymc-devs/pymc)，和 Jupyter 笔记本.
 * **免费书，** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
- * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一种机器学习游戏，它会向您提问并猜测您正在考虑的对象”，并且**解释了正在使用哪些贝叶斯统计技术.**
+ * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一种机器学习游戏，它会向您提问并猜测您正在思考的对象”，并且**解释了正在使用的贝叶斯统计技术.**
 
 ## Risks
 
@@ -358,7 +358,10 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 无论如何，当您决定准备深入学习深度学习时，这里有一些有用的资源.
 
-* **[Dive into Deep Learning](https://d2l.ai/) - 一本关于深度学习的互动书
+* **[Dive into Deep Learning](https://d2l.ai/) - 一本关于深度学习的互动书**
+    *“包含代码、数学和讨论的交互式深度学习书”
+    * “使用 NumPy/MXNet、PyTorch 和 TensorFlow 实现”
+    * “被来自 50 个国家的 200 所大学采用”
  * **[大卫·汉弗莱 (David Humphrey) 的“享受 [深度] 学习的乐趣”.](https://github.com/humphd/have-fun-with-machine-learning)** 这是“取得成功的绝佳方式”自己”和hack-first. 然后你会很兴奋地继续……
 *  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** 有五门课程，作为课程的一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) . 这些课程是他新事业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
 * **[Machine Learning Crash Course from Google.](https://developers.google.com/machine-learning/crash-course/)** Google 对机器学习的快节奏、实用介绍，其中包括使用 TensorFlow 构建深度神经网络.

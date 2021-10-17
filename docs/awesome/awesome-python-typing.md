@@ -51,7 +51,7 @@
 - [meiga](https://github.com/alice-biometrics/meiga) - 简单、类型化和基于 monad 的结果类型.
 - [option](https://github.com/MaT1g3R/option) - Rust 像 Option 和 Result 类型.
 - [phantom-types](https://github.com/antonagestam/phantom-types) - 幻影类型.
-- [returns](https://github.com/dry-python/returns) - 让你的函数返回一些有意义的、类型化的和安全的.
+- [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 - [safetywrap](https://github.com/mplanchard/safetywrap) - 完全类型安全、类似 Rust 的结果和选项类型.
 - [typet](https://github.com/contains-io/typet) - 长度有界类型，动态对象验证.
 
@@ -66,11 +66,11 @@
 
 ### Linters
 
-- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - Plugin for flake8 to validate annotations complexity.
+- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - flake8 插件来验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) - flake8 插件，用于检查函数定义中是否存在类型注释.
 - [flake8-mypy](https://github.com/ambv/flake8-mypy) - 集成 mypy 的 flake8 插件.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，提供类型提示存根文件的专业化.
-- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入导入是否受到适当保护的插件.
+- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入的输入是否受到适当保护的插件.
 - [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在导入移动后如何调整类型注释.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格和最固执的 Python linter.
 
@@ -88,6 +88,7 @@
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - 通过添加或删除代码注释来使 mypy 静音.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - 将带有 mypy 注释的静态类型 Python 模块编译为 CPython C 扩展.
 - [retype](https://github.com/ambv/retype) - 另一个将存根应用于代码的工具.
+- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - 预提交挂钩配置为自动将您的类型提示升级到 PEP 585 中实现的新本机类型.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - Typing_inspect 模块定义了实验性 API，用于对 `typing` 模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) - 用于处理类型化对象和 JSON 的 Lib.
 
@@ -96,7 +97,7 @@
 - [autotyper](https://github.com/JelleZijlstra/autotyper) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到您的源代码中.
-- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
+- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对所使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发的工具，用于用 Python 类型注释 AST 的节点.

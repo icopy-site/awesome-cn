@@ -121,7 +121,7 @@
 
 - [DynInst](https://dyninst.org/dyninst) - 用于二进制检测、分析和修改的工具，对二进制修补很有用.
 - [DynamoRIO](https://dynamorio.org/) - 运行时代码操作系统，支持程序任何部分的代码转换，同时它执行，作为进程级虚拟机实现.
-- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究设计的普通 Linux 二进制文件.
+- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究而设计的普通 Linux 二进制文件.
 - [Valgrind](https://www.valgrind.org/) - 用于构建动态分析工具的检测框架.
 
 ### Compliance testing and reporting
@@ -218,7 +218,7 @@
 
 也可以看看 [Wikipedia: List of router and firewall distributions](https://en.wikipedia.org/wiki/List_of_router_and_firewall_distributions).
 
-- [IPFire](https://www.ipfire.org/) - Hardened GNU/Linux based router and firewall distribution forked from IPCop.
+- [IPFire](https://www.ipfire.org/) - 从 IPCop 派生的基于 GNU/Linux 的强化路由器和防火墙分发.
 - [OPNsense](https://opnsense.org/) - 从 pfSense 分叉的基于 FreeBSD 的强化防火墙和路由平台.
 - [pfSense](https://www.pfsense.org/) - FreeBSD 防火墙和路由器发行版从 m0n0wall 派生出来.
 
@@ -256,7 +256,7 @@
 
 ## Security configurations
 
-（也称为*默认安全基线*和*已实施的最佳实践*.）
+(Also known as *secure-by-default baselines* and *implemented best practices*.)
 
 - [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - NginX 配置的 Docker 映像和为网站实施许多防御技术的脚本.
 
@@ -379,6 +379,7 @@
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - 禁用许多有风险的 Windows 功能的实用程序.
 - [NotRuler](https://github.com/sensepost/notruler) - 检测客户端使用的客户端规则和启用 VBScript 的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏 Microsoft Exchange 服务器时的攻击工具.
+- [PingCastle](https://www.pingcastle.com/) - Active Directory 漏洞检测和报告工具.
 - [PlumHound](https://github.com/PlumHound/PlumHound) - 通过利用其寻路引擎识别 Active Directory 安全漏洞，在持续的安全生命周期中更有效地使用 BloodHoundAD.
 - [Sandboxie](https://www.sandboxie.com/) - 免费和开源的通用 Windows 应用程序沙箱实用程序.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 对照 Microsoft 审核 Windows 主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
