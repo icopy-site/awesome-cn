@@ -6,7 +6,7 @@
 
 &gt; 用于 KDE 桌面环境的 _awesome_ 应用程序、扩展、模块、主题和工具的精选列表.
 
-[KDE](https://kde.org/) 是一个免费软件社区，致力于创建开放且用户友好的计算体验，提供先进的图形桌面、用于通信、工作、教育和娱乐的各种应用程序以及轻松构建新应用程序的平台.
+[KDE](https://kde.org/) 是一个免费软件社区，致力于创造开放和用户友好的计算体验，提供先进的图形桌面、用于通信、工作、教育和娱乐的各种应用程序以及一个轻松构建新应用程序的平台.
 
 &gt; 标有（图钉）的项目是托管在 KDE 自己的基础架构上并由 KDE 社区开发的项目.
 
@@ -114,7 +114,7 @@
 
 #### Extensions
 
-- [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte 是一个基于 Plasma 框架的扩展坞，可为您的任务和等离子团提供优雅直观的体验.
+- [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte 是一个基于 Plasma 框架的扩展坞，可为您的任务和等离子团提供优雅直观的体验.
 - [Kvantum](https://github.com/tsujan/Kvantum) - 基于 SVG 的 Qt4/Qt5、KDE ​​和 LXQt 主题引擎，强调优雅、可用性和实用性.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) - Plasma 5 小程序，显示面板中的当前窗口标题和图标.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) - KDE Plasma 桌面小部件来控制飞利浦 Hue 灯.

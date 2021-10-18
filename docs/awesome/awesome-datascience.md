@@ -67,6 +67,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 神经网络
 - 自组织地图
 - 自适应共振理论
+- 隐马尔可夫模型（HMM）
 
 ### Semi-Supervised Learning
 
@@ -264,6 +265,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Valohai](https://valohai.com)  | 处理机器编排、自动再现性和部署的 MLOps 平台.  |
 | [PyMC3](https://docs.pymc.io/)  | 用于概率编程（贝叶斯推理和机器学习）的 Python 库 |
 | [PyStan](https://pypi.org/project/pystan/)  |  Stan 的 Python 接口（贝叶斯推理和建模）|
+| [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习和推理 |
 
 ## Machine Learning in General Purpose
 
@@ -420,6 +422,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)
+- [AI Today](https://www.cognilytica.com/aitoday/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
@@ -437,8 +440,10 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Not So Standard Deviations](https://nssdeviations.com/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 
 
 ## Books
@@ -493,6 +498,10 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+- [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
+- [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+- [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](http://artint.info/index.html) - 免费的 HTML 版本
 
 
 
@@ -515,7 +524,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings 数据场景
 - [Prash Chan](http://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球范围内开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
 - [Data Science London](http://datasciencelondon.org/) Data Science London 是一个非营利组织，致力于免费、开放、传播数据科学.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.
@@ -778,7 +787,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)
 - [The official portal for European data](https://data.europa.eu/en)
-- [quandl.com](https://www.quandl.com/)  - 以您想要的形式获取您需要的数据； 即时下载、API 或直接下载到您的应用程序.
+- [quandl.com](https://www.quandl.com/)  - 以您想要的形式获取您需要的数据； 即时下载、API 或直接到您的应用程序.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](http://dev.maxmind.com/geoip/legacy/geolite/)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)

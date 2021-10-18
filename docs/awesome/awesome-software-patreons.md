@@ -59,6 +59,7 @@ _使用开源许可证发布的项目._
 - [Olive](https://www.patreon.com/olivevideoeditor) - 高品质的视频编辑和合成软件.
 - [Oni](https://www.patreon.com/onivim) - 模态代码编辑器.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - 视频录制和直播软件.
+- [Open Chemistry](https://opencollective.com/open-chemistry) - 多个开源化学项目的总括，包括 Avogadro、cclib、DeepChem、MSDK、Open Babel、RDKit 和 3DMol.js.
 - [Open Source BIM Collective](https://opencollective.com/opensourcebim) - 建筑信息建模工具.
 - [openage](https://liberapay.com/SFTtech/) - 实时战略游戏引擎.
 - [OpenFAAS](https://github.com/users/alexellis/sponsorship) - 无服务器平台.
@@ -102,7 +103,7 @@ _库和框架._
 - [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript 图表库.
 - [Asset-Importer-Lib](https://www.patreon.com/assimp) - 将 40 多种 3D 文件格式加载到一个统一且干净的数据结构中，供游戏开发人员使用.
 - [Babel](https://www.patreon.com/henryzhu) - JavaScript 编译器.
-- [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+- [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - C++ 的立即模式图形用户界面.
 - [Hapi.js](https://opencollective.com/hapijs) - Node.js 框架.
 - [HaxeUI](https://www.patreon.com/haxeui) - 用户界面工具包.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP 框架.
@@ -125,7 +126,7 @@ _操作系统和 Linux 发行版._
 - [/e/](https://www.patreon.com/eelo) - 注重隐私的移动操作系统.
 - [Elementary OS](https://www.patreon.com/elementary) - Ubuntu 变体.
 - [FreeDOS](https://www.patreon.com/freedos) - MS-DOS 兼容操作系统.
-- [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
+- [GhostBSD](https://www.patreon.com/GhostBSD) - 以桌面为中心的 BSD 操作系统.
 - [GrapheneOS](https://github.com/sponsors/thestinger) - 具有 Android 应用程序兼容性的以隐私和安全为中心的移动操作系统.
 - [LineageOS](https://www.paypal.me/LineageOS), [#2](https://www.patreon.com/LineageOS) - CyanogenMod 的叉子. 
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux 发行版.
@@ -153,7 +154,7 @@ _游戏和游戏相关项目._
 - [Play!](https://www.patreon.com/jpd002) - PS2模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 模拟器.
-- [yuzu](https://www.patreon.com/yuzuteam) - 任天堂开关模拟器.
+- [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 - [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
 
 ## People Doing Open Source Work
@@ -232,7 +233,7 @@ _为要求支持他们工作的多个项目做出贡献的开发人员._
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - 无数的开源项目.
 - [skypjack](https://github.com/sponsors/skypjack) - C++ 库，例如 uvw 和 EnTT.
 - [Stéphane Peter](https://github.com/sponsors/megastep) - AudioKit 贡献者、Makeself 和其他库和项目.
-- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp 包存档和其他软件工具.
+- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp package archive and other software tooling.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - 各种 iOS/macOS 软件. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - 使用 Inkscape 矢量图形编辑器.
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - 游戏相关项目. 

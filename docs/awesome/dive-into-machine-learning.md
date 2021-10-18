@@ -32,10 +32,13 @@
 一些选项：
 
 - [Deepnote](https://deepnote.com/) 允许实时协作
-- [Binder](https://mybinder.org/)， IE [try JupyterLab](https://jupyter.org/try)
-- [Google Colab](https://colab.research.google.com/) 提供免费的 GPU
+- [Binder](https://mybinder.org/) 是官方选择 [try JupyterLab](https://jupyter.org/try)
+- [Google Colab](https://colab.research.google.com/) 提供“免费”GPU
 
-有关其他选项，请参阅 [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions) 或者 [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
+有关其他选项，请参阅：
+
+- [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
+- [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
 
 ## Let's go!
 
@@ -47,13 +50,7 @@
 
 ## What just happened?
 
-您刚刚使用 [scikit-learn] 对一些手写数字进行了分类. 整洁吧？
-
-[scikit-learn] 是 Python 机器学习的首选库. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html) 机器学习很难. 您会很高兴您的工具易于使用.
-
-[scikit-learn]：http://scikit-learn.org/stable/index.html
-
-我鼓励您查看 [scikit-learn] 主页，花大约 5 分钟时间查看策略的名称（分类、回归等）及其应用. 不要点击通过！ 只需瞥一眼词汇表.
+您刚刚使用以下方法对一些手写数字进行了分类 [scikit-learn](http://scikit-learn.org/stable/index.html) . 整洁吧？
 
 ## Dive in
 
@@ -116,10 +113,9 @@ OK! Take a break, come back refreshed.
 
 接下来，从这些 IPython Notebooks 中挑选**一两个**并一起玩.
 
-- [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/)：使用泰坦尼克号数据，“展示了基本的数据处理、分析和可视化技术.展示了监督机器学习技术的示例.”
 - [Election Forecasting](https://github.com/jseabold/538model): 模型的复制 [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) 曾经为_纽约时报_预测2012年美国总统大选.
-- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，该应用程序可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
+- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，该应用程序可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型对花进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
 - ClickSecurity 的“数据黑客”系列（感谢 [hummus](https://github.com/hummus)!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
 	- [Detect SQL Injection](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
@@ -146,7 +142,7 @@ OK! Take a break, come back refreshed.
 ## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
 
-It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) . 请记住，IPython Notebook 是您的朋友.
+如果您决定一个喜欢的项目来玩，那么这会很有帮助，这样您就有了一种方法来应用您的知识. 你可以使用其中之一 [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) . 请记住，IPython Notebook 是您的朋友.
 
 此外，您应该获取一本深入的教科书以用作参考. 两个最好的选择是 [_Underst和ing Machine Learning_ ](http://www.cs.huji.ac.il/~shais/Underst和ingMachineLearning/copy.html) 和 _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. You'll see these recommended as reference textbooks. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) 您可以在这些链接中以 PDF 格式免费下载每本书 - 所以抓住它们！
 
@@ -162,7 +158,7 @@ It's helpful if you decide on a pet project to play around with, as you go, so y
 * [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/) . 多明戈斯写了这篇论文 ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)，在本指南前面推荐.
 * Kevin Markham 的视频系列， [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/) ，从我们已经涵盖的内容开始，然后在一个舒适的地方继续. 在视频之后你可以做 Markham&#39;s [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) 交互的.  Markham 的课程也在华盛顿特区亲自授课.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) 课程和教科书 [Computational and Inferential Thinking](https://www.inferentialthinking.com/) 教授数据科学中的关键概念.
-    * 教科书还提供了数据科学的学术定义：**“数据科学是关于通过探索、预测和推理从庞大而多样的数据集中得出有用的结论”.**
+    * 教科书还提供了数据科学的学术定义：**“数据科学是通过探索、预测和推理，从庞大而多样的数据集中得出有用的结论”.**
     * [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) 现在也通过 edX 提供基于 Data 8 的在线课程.
 * 作为 IPython Notebooks 的数据科学课程：
 	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
@@ -198,7 +194,7 @@ Quora上也有很多相关的讨论，例如： [What is the difference between 
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 * 以下是我在继续学习过程中发现特别有用的一些文档：
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
-	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
+	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)，尤其是 [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
 	* [Reshaping by pivoting DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
 	* [Computational tools](http://p和as.pydata.org/p和as-docs/stable/computation.html) 和 [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
@@ -238,7 +234,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 您可以通过研究以下资源之一来了解更多信息. 两种资源都使用 Python， [PyMC](https://github.com/pymc-devs/pymc)，和 Jupyter 笔记本.
 * **免费书，** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
- * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一种机器学习游戏，它会向您提问并猜测您正在思考的对象”，并且**解释了正在使用的贝叶斯统计技术.**
+ * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一种机器学习游戏，它会向您提问并猜测您正在考虑的对象”，并且**解释了正在使用哪些贝叶斯统计技术.**
 
 ## Risks
 
@@ -295,13 +291,13 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 #### Ask for Peer Review
 
-以下是一些您可以联系同行评审的社区：
+以下是您可以联系同行评审的一些社区：
 
 * [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
-* [Hacker News: news.ycombinator.com](https://news.ycombinator.com) . 您可能想以“Show HN”的形式提交
+* [Hacker News: news.ycombinator.com](https://news.ycombinator.com) . 您可能希望以“Show HN”的形式提交
 
 发布到其中任何一个，并寻求反馈. 你会得到反馈. 你会学到很多. 当专家审查您的工作时，您将学到很多关于该领域的知识. 您还将练习一项关键技能：接受批评性反馈.
 
@@ -317,7 +313,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ### :bow: A note about Machine Learning and User Experience (UX)
 
-我说得再好不过了：
+I couldn't say it better:
 
 &gt; **机器学习不会弄清楚要解决什么问题.**如果你不符合人类的需求，你只会构建一个非常强大的系统来解决一个非常小的——或者可能不存在的——问题.
 
@@ -369,8 +365,6 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — 由 Greg Brockman（OpenAI 的联合创始人兼 CTO，前 Stripe 的 CTO）回答
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
-* [Dive into Deep Learning](https://d2l.ai/) - 一本关于深度学习的互动书
-
 
 ## "Big" Data?
 
@@ -382,9 +376,9 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 * [10 things statistics taught us about big data analysis](https://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/) （还有一些值得深思的食物： ["What Statisticians think about Data Scientists"](http://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists))
 * ["Talking Machines" #12](http://www.thetalkingmachines.com/blog/2015/6/4/the-economic-impact-of-machine-learning-and-using-the-kernel-trick-to-dig-in-to-big-data) : 采访教授. 吴恩达（来自 [our main course, which has its own module on big data](https://www.coursera.org/learn/machine-learning) ); 这一集涵盖了一些与_高维_数据相关的问题
-- ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business)
-- 免费电子书，[_Getting Data Right: Tackling the Challenge of
- Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) 作者：Michael Stonebraker、Tom Davenport、James Markarian 等，O&#39;Reilly 出版. 你可以 [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) 也.
+* ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business)
+* 免费电子书，[_Getting Data Right: Tackling the Challenge of
+ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) 作者：Michael Stonebraker、Tom Davenport、James Markarian 等，O&#39;Reilly 出版. 你可以 [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) too.
 
 ----
 

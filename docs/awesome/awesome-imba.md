@@ -38,6 +38,7 @@ Imba 是一种受 Ruby 和 Python 启发的编程语言，可通过内置转译�
 Imba 文件的处理.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - 用 Imba 编写的 Material Design 组件.
 - [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - 不平衡 [Inertia](https://inertiajs.com) 适配器.
+- [Formidable](https://www.formidablejs.org/) - 用于快速 API 开发的 Imba 框架.
 
 #### Editor Plugins and IDEs
 
@@ -52,7 +53,7 @@ Imba 文件的处理.
 - [Imba more depth Guide](https://imba.github.io/imba-guide/)
 - [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - 这是一个详细的教程，记录了使用 Node.js、Imba 和 Webpack 构建“Hello World”应用程序所采取的步骤.
 - [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - 了解 Imba 为何快速、工作原理，然后尝试使用它.
-- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - 了解 imba-router 在 Imba 中的工作原理.
+- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - 了解 imba-router 如何在 Imba 中工作.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - 了解如何使用 Imba 更快、更轻松地创建应用程序.
 
 
@@ -91,14 +92,14 @@ Imba 文件的处理.
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) - 记忆游戏.
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) - 一个很酷的互动网站.
 - [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - 十五个谜题.
-- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - 生命游戏.
+- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - 生活游戏.
 - [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) - 酷酷的矩阵式雨动画.
 - [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - 生成随机报价的应用程序.
 - [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROT-N 应用程序.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - 蛇游戏.
 - [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - 天气应用程序.
 - [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D僵尸射击游戏.
-- [Ping CRM](https://github.com/haikyuu/perfect-stack)  - 带有登录名、帐户、组织和联系人管理的 CRUD 应用程序. 使用 Inertia、Edgedb 和 Imba 构建
+- [Ping CRM](https://github.com/haikyuu/perfect-stack)  - 带有登录、帐户、组织和联系人管理的 CRUD 应用程序. 使用 Inertia、Edgedb 和 Imba 构建
 
 
 ## Contribution
