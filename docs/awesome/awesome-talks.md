@@ -22,6 +22,7 @@
   - [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
+
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) 作者：**艾伦·凯** [1:04:34]
 * [The Future of Programming](https://vimeo.com/71278954) 作者：**布雷特维克多** [32:55]
 * [Inventing on Principle](https://vimeo.com/36579366) 作者：**布雷特维克多** [54:20]
@@ -109,7 +110,7 @@
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) 作者：**加里伯恩哈特** [29:22]
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) 作者：**布赖恩·朗斯多夫** [36:30]
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) 作者：**克里斯威廉姆斯** [21:39]
-* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) 作者：**克里斯威廉姆斯** [27:25]
+* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) 作者：**克里斯·威廉姆斯** [27:25]
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) 作者：**布赖恩福特** [41:42]
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) 作者：**詹姆斯·米肯斯** [32:07]
 * [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) 作者：** Ilya Grigorik ** [41:10]
@@ -149,9 +150,10 @@
 * [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) 作者：**迈克尔羽毛** [52:02]
 * [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) 作者：**Mary Poppendieck** [01:06:38]
 * [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) 作者：**JB Rainsberger** [00:07:42]
-
+* [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) 作者：** Michel Grootjans ** [14:30]
 
 #### Computer History
+
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) 作者：**斯图尔特·布朗** [46:00]
 * [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) 作者：**Brian Troutwine** [48:36]
 * [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) 作者：**Grady Booch** [01:09:27]
@@ -160,15 +162,19 @@
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) 作者：**约翰罗梅罗** [44:12]
 
 #### Databases
+
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) 作者：**Rich Hickey** [1:06:23]
 
 #### Security
+
 * [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) 作者：**詹姆斯·米肯斯** [51:21]
 
 #### Testing
+
 * [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) 作者：**戴夫法利** [01:02:34]
 
 #### Cognitive Development
+
 * [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) 作者：**约翰克里斯** [36:59]
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) 作者：**德里克·西弗斯** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) 作者：**Cory House** [59:12]
@@ -181,6 +187,7 @@
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) 作者：**加里伯恩哈特** [21:22]
 
 #### Cryptocurrencies
+
 * [Bitcoin: Where the Laws of Mathematics Prevail](https://www.youtube.com/watch?v=HaJ1hvon0E0) 作者：**Andreas Antonopoulos** [23:47]
 * [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) 作者：**Andreas Antonopoulos** [30:15]
 

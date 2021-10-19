@@ -4,14 +4,14 @@
 
 精选的优秀公司列表，这些公司免费为开源和公共项目提供工具和服务.
 
-**注意：虽然有很多公司提供了很好的免费套餐（例如 Slack），但此列表特别侧重于通过其他产品对开源社区做出公开承诺的组织.**
+**注意：虽然有很多公司提供了很好的免费套餐（例如 Slack），但此列表特别关注通过额外产品对开源社区做出公开承诺的组织.**
 
 
 
 ## Code Coverage
 
 - [Codecov](https://codecov.io/) - 测试覆盖率监控和警报.
-- [Coveralls](https://coveralls.io/) - 测试覆盖历史和统计.
+- [Coveralls](https://coveralls.io/) - 测试覆盖历史和统计数据.
 
 ## Code Quality
 
@@ -103,9 +103,8 @@
 - [Algolia](https://www.algolia.com/for-open-source/) - `requires-approval` 搜索即服务 API.
 - [Apiary](https://apiary.io/) `requires-approval` - API 设计、开发和文档平台.
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - 团队生产力工具（Jira、Confluence、Bamboo、HipChat）.
-- [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
+- [Auth0](https://auth0.com/) `requires-approval` - 基于 SSO 和令牌的身份验证.
 - [BackHub](https://backhub.co/) - 自动 GitHub 存储库备份.
-- [Beamdock](https://beamdock.com) - `requires-approval` - 帮助您收集用户反馈、功能请求、安排与用户的访谈会议并通知客户有关功能推出的信息.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - 跨浏览器测试工具.
 - [Cloud9](https://c9.io/) - 基于云的开发环境.
 - [Codota](https://www.codota.com/) - AI结对编程助手.
@@ -135,4 +134,4 @@
 
 ### `non-commercial`
 
-一些公司将他们的产品提供给开源，但仅限于非商业项目. 这些公司都贴上了“非商业”标签.
+一些公司将他们的产品提供给开源，但仅限于非商业项目. 这些公司被贴上了“非商业”标签.
