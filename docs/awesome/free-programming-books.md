@@ -65,7 +65,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ru.md)
 + [Slovak / slovenčina](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sk.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md)
-+ [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-se.md)
++ [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ta.md)
 + [Thai / ไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-tr.md)
@@ -137,7 +137,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ru.md)
 + [Sinhala / සිංහල](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-si.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-es.md)
-+ [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-se.md)
++ [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-tr.md)
 
 

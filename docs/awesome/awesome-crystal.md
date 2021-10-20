@@ -4,7 +4,6 @@
 
 ## Awesome Crystal
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Build Status](https://api.travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
 精选的 Crystal 代码和资源列表. 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 和 [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness).
 目标是使项目大部分稳定且对社区有用.
@@ -42,6 +41,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) - 公私钥密码学中使用的椭圆曲线
 
 ## C bindings
+ * [augeas.cr](https://github.com/fernandes/augeas.cr) - 绑定 [Augeas](https://augeas.net/)
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang 绑定
  * [crt.cr](https://github.com/maiha/crt.cr) - libncursesw 和 crt 的绑定
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
@@ -76,7 +76,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [meet](https://github.com/ryanprior/meet) - 从舒适的命令行快速开始jitsi会议
  * [oq](https://github.com/Blacksmoke16/oq)  - 一个高性能的、可移植的 jq 包装器，以促进 JSON 以外格式的使用和输出； 使用 [jq](https://github.com/stedolan/jq) 过滤器来转换数据
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 一个简单且可定制的进度条
- * [tablo](https://github.com/hutou/tablo) - 一个灵活的终端表生成器
+ * [tablo](https://github.com/hutou/tablo) - 灵活的终端表生成器
  * [tallboy](https://github.com/epoch/tallboy) - 生成 ASCII 字符表，支持跨越多列的单元格
 
 ## Code Analysis and Metrics
@@ -191,7 +191,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [praetorian](https://github.com/ilanusse/praetorian) - 受 Pundit 启发的极简授权库
  * [Shield](https://github.com/grottopress/shield) - *幸运*框架的全面安全性
  * [shrine.cr](https://github.com/jetrockets/shrine.cr)  - Crystal 应用程序的文件附件工具包. 深受 Shrine for Ruby 的启发
- * [tourmaline](https://github.com/protoncr/tourmaline) - 带有 API 的 Telegram bot 框架松散地基于 [telegraf.js](https://telegraf.js.org/)
+ * [tourmaline](https://github.com/protoncr/tourmaline) - 具有松散基于的 API 的 Telegram bot 框架 [telegraf.js](https://telegraf.js.org/)
 
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) - 绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
@@ -201,7 +201,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - 绑定到 [Dear ImGui](https://github.com/ocornut/imgui), 一个即时模式图形 UI 库
- * [Iu](https://github.com/grkek/iu) - 基于 UI 框架 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，具有自定义元素和修改后的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
+ * [Iu](https://github.com/grkek/iu) - 基于 UI 框架 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有自定义元素和修改后的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - 用于 Crystal 的简单 HTML 表单生成器，内置对许多流行的 UI 库（例如 Bootstrap）的支持
@@ -220,7 +220,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [halite](https://github.com/icyleaf/halite) - 带有可链接的 REST API、内置会话和记录器的 Crystal HTTP 请求
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - 通过路由挂载多个服务器（又名 URL 映射）
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) - HTTP 参数（反）序列化，适用于 URL 查询和 URL 编码形式
- * [http-protection](https://github.com/rogeriozambon/http-protection) - 防御典型的网络攻击
+ * [http-protection](https://github.com/rogeriozambon/http-protection) - 防范典型的网络攻击
  * [http2](https://github.com/ysbaddaden/http2) - HTTP/2 协议实现
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) - HTTP 客户端 (Crystal stdlib)
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) - HTTP 服务器（水晶标准库）
@@ -245,7 +245,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Internationalization
 
- * [crystal-i18n](https://github.com/crystal-i18n/i18n) - 一个受 Ruby-I18n 启发的国际化库
+ * [crystal-i18n](https://github.com/crystal-i18n/i18n) - 受 Ruby-I18n 启发的国际化库
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - 国际化分片
  * [Lens](https://github.com/syeopite/lens)  - Crystal 的多格式国际化 (i18n) 分片. 支持 Gettext、Ruby YAML 等.
  * [Rosetta](https://github.com/wout/rosetta) - 极快的国际化 (i18n) 库，具有支持 YAML 和 JSON 格式的编译时键查找功能
@@ -323,7 +323,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crecto](https://github.com/Crecto/crecto) - 数据库包装器，基于 Ecto
  * [granite](https://github.com/amberframework/granite) - 用于 Postgres、Mysql、Sqlite 的 ORM
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - 使用灵活的查询链构建器和迁移系统实现 Active Record 模式
- * [onyx-sql](https://github.com/onyxframework/sql) - DB-agnostic SQL ORM，带有漂亮的 DSL 和类型安全的查询构建器
+ * [onyx-sql](https://github.com/onyxframework/sql) - 与数据库无关的 SQL ORM，具有漂亮的 DSL 和类型安全的查询构建器
  * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) - RethinkDB / RebirthDB 的 ORM
 
 ## Package Management
@@ -358,7 +358,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [alea](https://github.com/nin93/alea) - 可重复抽样、CDF 和其他实用程序来处理概率分布
  * [ishi](https://github.com/toddsundsted/ishi) - 图形绘图包，带有一个小的 API 和由 gnuplot 提供支持的合理默认值
  * [linalg](https://github.com/konovod/linalg) - 受 MATLAB 和 SciPy.linalg 启发的线性代数库
- * [num.cr](https://github.com/crystal-data/num.cr) - 支持N维数据的数值计算库
+ * [num.cr](https://github.com/crystal-data/num.cr) - 支持 N 维数据的数值计算库
  * [predict.cr](https://github.com/RX14/predict.cr) - 使用 sgp4 模型的卫星预测库
  * [quartz](https://github.com/RomainFranceschini/quartz) - 建模和仿真框架
 
@@ -437,7 +437,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且内聚的网络应用程序框架
- * [Athena](https://github.com/athena-framework/athena) - 由可重复使用的独立组件组成的 Web 框架
+ * [Athena](https://github.com/athena-framework/athena) - 由可重用的独立组件组成的 Web 框架
  * [grip](https://github.com/grip-framework/grip) - 用于编写强大的 Web 应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  - 闪电般快速，超级简单的 Web 框架. 灵感来自 Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上而不是调试和编写测试上

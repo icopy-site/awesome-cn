@@ -5,7 +5,7 @@
 
 &gt; 为照明、视频和音频专业人士和业余爱好者精心设计的软件、库和资源列表.
 
-想要添加一些东西吗？ 只需提出一个拉取请求，但一定要遵循 [contributing guidelines](https://github.com/stingalleman/awesome-audiovisual/blob/master/./contributing.md) ！ 问题？ 在问它 [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2).
+想要添加一些东西吗？ 只需提出一个拉取请求，但一定要遵循 [contributing guidelines](https://github.com/stingalleman/awesome-audiovisual/blob/master/./contributing.md) ！ 题？ 在问它 [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2).
 
 <!--lint ignore awesome-toc -->
 
@@ -15,7 +15,7 @@
 ### Lighting Software
 
 - [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite)  - 在 Avolites 桌面上运行的 Titan 软件的 PC 版本. 在 11.4 版之前免费使用，尽管它偶尔会吐出随机数据. 需要版本 12 的加密狗.`⚠ 不是免费的`.
-- [Chamsys MagicQ](https://chamsyslighting.com/)  - MagiQ 是一款专业的灯光软件，免费提供多达 64 个 Artnet 宇宙. 它包括强大的功能，如 2D/3D 像素映射、效果生成器、媒体服务器和可视化器.
+- [Chamsys MagicQ](https://chamsyslighting.com/)  - MagiQ 是一款专业的灯光软件，可免费提供多达 64 个 Artnet 宇宙. 它包括强大的功能，如 2D/3D 像素映射、效果生成器、媒体服务器和可视化器.
 - [Daslight](https://www.daslight.com/) - 适用于 PC 和 Mac 的 DMX 照明软件.
 - [Dot2 software](https://www.malighting.com/downloads/products/dot2/)  - 用于 Dot2 控制台的免费离线软件. 包括 Dot2 onPC 和 Dot2 3D.
 - [EOS Family](https://www.etcconnect.com/Products/Consoles/Eos-Family/)  - ETC EOS 系列游戏机的软件.  `⚠免费增值`.
@@ -23,6 +23,7 @@
 - [GrandMA2 software](https://www.malighting.com/downloads/products/grandma2/)  - 适用于 GrandMA2 灯光控制台的免费离线软件. 包括 GrandMA2 OnPC 和 MA3D. 不免费输出 DMX.  `⚠免费增值`.
 - [GrandMA3 software](https://www.malighting.com/downloads/products/grandma3/)  - **新** GrandMA3 灯光控制台的免费离线软件. 包括 GrandMA3 OnPC. 不免费输出 DMX.  `⚠免费增值`.
 - [Hog 4 software](https://www.highend.com/products/consoles/)  - 适用于 Hog 4 灯光控制台的免费离线软件. 包括猪 4 件. 不免费输出 DMX.  `⚠免费增值`.
+- [LightFactory](https://www.lightfactory.net/)  - PC 照明控制软件也是 NEO 控制台的后端.  `⚠不是免费的`.
 - [ONYX](https://obsidiancontrol.com/onyx) - 具有很多功能的现代照明控制系统.
 - [QLC+](https://www.qlcplus.org/) - QLC+ 是一款免费的跨平台软件，用于控制 DMX 或模拟照明系统，如摇头灯、调光器、扫描仪等. [Source Code](https://github.com/mcallegari/qlcplus) `✓ 开源`.
 - [xLights](https://xlights.org/) - 适用于家庭圣诞灯光秀，但它是在预算内将灯光与音乐同步的好方法. [Source Code](https://github.com/smeighan/xLights) `✓ 开源`.
@@ -108,7 +109,7 @@ See [HARDWARE.md](https://github.com/stingalleman/awesome-audiovisual/blob/maste
 
 ## Management
 
-- [Rentman](https://rentman.io/)  - AV &amp; Event 公司的云租赁软件. 资源规划、调度等.  `⚠不是免费的`
+- [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
 
 ## Resources
 
@@ -126,7 +127,7 @@ See [HARDWARE.md](https://github.com/stingalleman/awesome-audiovisual/blob/maste
 ### Blogs
 
 - [mikewoodld.com/blog/](https://www.mikewoodld.com/blog/) - 照明设计师 Mike Wood 的博客.
-- [notelek.com/blog/](http://notelek.com/blog/) - LXR Stage Technology Blog.
+- [notelek.com/blog/](http://notelek.com/blog/) - LXR 舞台技术博客.
 
 ## Tutorials
 

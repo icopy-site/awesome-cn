@@ -643,6 +643,7 @@
 * [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) 通过萨默布纳
 * [Practical GraphQL](https://leanpub.com/book-graphql) 通过丹尼尔施密茨
 * [Production Ready GraphQL](https://book.productionreadygraphql.com) 马克-安德烈·吉鲁
+* [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) 威廉·里昂
 
 <a name="video" />
 
