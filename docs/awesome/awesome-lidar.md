@@ -14,7 +14,7 @@
 
 ## Conventions
 
-- 任何带有 OctoCat :octocat: 的列表项都有一个 GitHub 存储库或组织
+- 任何带有 OctoCat 的列表项 :octocat: 都有一个 GitHub 存储库或组织
 - 任何带有 RedCircle 的列表项：red_circle：有 YouTube 视频或频道
 - 任何带有论文的列表项：报纸：有科学论文或详细描述
 
@@ -45,7 +45,7 @@
 - [Robosense](http://www.robosense.ai/) - RoboSense（速腾创新科技有限公司）是一家位于深圳和北京（中国）的激光雷达传感器、人工智能算法和 IC 芯片制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
-- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家位于德国汉堡的汽车工业/环境检测激光扫描仪/激光雷达制造商.
+- [Ibeo](https://www.ibeo-as.com/) - Ibeo 汽车系统有限公司是一家位于德国汉堡的汽车工业/环境检测激光扫描仪/激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) - Innoviz 技术/专注于固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
@@ -61,7 +61,7 @@
 
 ## Datasets
 
-- [Ford Dataset](https://avdata.ford.com/)  - 数据集带有时间戳，包含来自所有传感器的原始数据、校准值、姿态轨迹、地面实况姿态和 3D 地图. 数据与机器人操作系统 (ROS) 兼容.
+- [Ford Dataset](https://avdata.ford.com/)  - 数据集带有时间戳，包含来自所有传感器的原始数据、校准值、姿态轨迹、地面真实姿态和 3D 地图. 数据与机器人操作系统 (ROS) 兼容.
   - [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) - 该数据集具有 2D 语义分割、3D 点云、3D 边界框和车辆总线数据.
@@ -70,7 +70,7 @@
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - 牛津 RobotCar 数据集包含超过 100 次重复通过英国牛津的一致路线，这些路线在一年多的时间里被捕获. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  - 该数据集是使用我们的机器人汽车（当然在人类驾驶模式下）收集的，配备了多达 11 个异构传感器，位于法国蒙贝利亚尔的市中心（用于长期数据）和郊区（用于环形交叉路口数据）. 根据法国交通规则，车速限制在 50 公里/小时.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  - 该数据集是使用我们的机器人汽车（当然是在人类驾驶模式下）收集的，配备了多达 11 个异构传感器，位于法国蒙贝利亚尔的市中心（用于长期数据）和郊区（用于环形交叉路口数据）. 根据法国交通规则，车速限制在 50 公里/小时.
 - [NuScenes](https://www.nuscenes.org/) - 用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - 由配备激光雷达和摄像头的福特 Fusion 车队收集的公共数据集.
@@ -139,8 +139,8 @@
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
-- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
-- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - 适用于 ROS 兼容 UGV 的轻量级和地面优化的激光雷达里程计和测绘 (LeGO-LOAM) 系统. 
+- [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：实时激光雷达里程计和测绘.
+- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可提供跨多个平台和传感器配置的 2D 和 3D 实时同步定位和映射 (SLAM).
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
@@ -195,13 +195,14 @@
 - [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## Others
+- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit)  - 使用 5 美元的 Google Cardboard 复制 Microsoft Hololens. 托管用于研究的源代码 [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - 一种将来自航空激光雷达扫描的点云数据转换为用于 3D 打印的实体网格的工具.
 - [CloudCompare](https://cloudcompare.org/) - CloudCompare 是一款免费的跨平台点云编辑器软件.
   - [GitHub repository :octocat:](https://github.com/CloudCompare)
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) - Unity 的点云导入器/渲染器.
 - [Bpy :octocat:](https://github.com/uhlik/bpy) - Blender 的点云导入器/渲染器/编辑器，点云可视化器.
 - [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) - 日立汽车工业实验室的点云和图像语义分割编辑器，点云注释器/标签.
-- [3D Bounding Box Annotation Tool :octocat:](https://github.com/walzimmer/3d-bat) - 3D BAT：用于全环绕、多模态数据流、点云注释器/标签的半自动、基于 Web 的 3D 注释工具箱.
+- [3D Bounding Box Annotation Tool :octocat:](https://github.com/walzimmer/3d-bat) - 3D BAT：用于全环绕、多模态数据流、点云注释器/标记的半自动、基于 Web 的 3D 注释工具箱.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 - [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - 用于导入多个库的重建结果的 Blender 插件.

@@ -57,7 +57,7 @@
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - 由 InfoSec 专业人士开发的社区运营的工作平台
-* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜而精益的信息安全工作委员会
+* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜和精简的信息安全工作委员会
 
 ## Programming
 
@@ -67,6 +67,7 @@
 
 ### Functional
 
+* [FunctionalJobs.dev](https://functionaljobs.dev/) - 面向函数式编程爱好者的高度活跃的工作板
 * [Functional Jobs](https://www.functionaljobs.com/) - 功能程序员的工作板
 * [Functional Works](https://functional.works-hub.com/) - 发现本地和远程函数式编程机会
 
@@ -87,6 +88,9 @@
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Svelte Jobs](https://sveltejobs.dev/)
 * [Javascript Works](https://javascript.works-hub.com/) - 本地和远程 JavaScript 机会、文章和开源.
+
+### Kotlin
+* [Kotlin Jobs](https://kotlinjobs.dev)
 
 ### Perl
 
@@ -114,7 +118,10 @@
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
-* [Scala Jobs](https://ScalaJobs.dev)
+* [Scala Jobs](https://scalajobs.dev)
+
+### TypeScript
+* [TypeScript Jobs](https://typescriptjobs.dev)
 
 ### WebAssembly
 
@@ -131,7 +138,7 @@
 ### Aggregator
 
 * [4 day week](https://4dayweek.io/) - 具有更好的工作与生活平衡的软件工作
-* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司中删除数千个远程工作
+* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司刮下数千个远程工作岗位
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
@@ -145,7 +152,7 @@
 
 * [wateringcan.work](https://www.wateringcan.work) - 基督教科技工作
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
-* [Relocate.me](https://relocate.me/) - 经验证的搬迁包
+* [Relocate.me](https://relocate.me/) - 已验证的搬迁包
 * [underpin](https://www.underpin.company/) - 来自实际招聘人员的技术工作和求职建议
 
 ### Australia

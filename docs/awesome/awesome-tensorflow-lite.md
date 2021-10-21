@@ -20,7 +20,7 @@
 * [Announcement of the new converter](https://groups.google.com/a/tensorflow.org/d/msg/tflite/Z_h7706dt8Q/sNrjPj4yGgAJ) - [MLIR](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)基于并支持新类别模型的转换，例如 Mask R-CNN 和 Mobile BERT 等，支持功能控制流和更好的转换过程中的错误处理. 默认情况下在每晚构建中启用\.
 * [Android Support Library](https://github.com/tensorflow/tflite-support/tree/master/tensorflow_lite_support/java) - 使移动开发更容易（[Android](https://github.com/tensorflow/examples/blob/master/lite/examples/image_classification/android/EXPLORE_THE_CODE.md) 示例代码）.
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - 创建您的自定义 [image & text](https://github.com/tensorflow/examples/tree/master/tensorflow_examples/lite/model_maker) 只需几行代码即可轻松进行分类模型. 请参阅下面的图标分类器以获取社区教程.
-* [On-device training](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)  - 终于来了！ 目前仅限于图像分类的迁移学习，但这是一个很好的开始. 看官方 [Android](https://github.com/tensorflow/examples/blob/master/lite/examples/model_personalization/README.md) 示例代码和来自社区的另一个（[Blog](https://aqibsaeed.github.io/on-device-activity-recognition) | [Android](https://github.com/aqibsaeed/on-device-activity-recognition)).
+* [On-device training](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)  - 终于来了！ 目前仅限于图像分类的迁移学习，但这是一个很好的开始. 看官方 [Android](https://github.com/tensorflow/examples/blob/master/lite/examples/model_personalization/README.md) 示例代码和社区中的另一个（[Blog](https://aqibsaeed.github.io/on-device-activity-recognition) | [Android](https://github.com/aqibsaeed/on-device-activity-recognition)).
 * [Hexagon delegate](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/g3doc/performance/hexagon_delegate.md)  - 如何使用 Hexagon Delegate 加速移动和边缘设备上的模型推理. 另见博文  [Accelerating TensorFlow Lite on Qualcomm Hexagon DSPs](https://blog.tensorflow.org/2019/12/accelerating-tensorflow-lite-on-qualcomm.html).
 * [Model Metadata](https://www.tensorflow.org/lite/convert/metadata) - 提供模型描述的标准，这也使 [Code Gen and Android Studio ML Model Binding](https://www.tensorflow.org/lite/inference_with_metadata/codegen).
 
@@ -76,13 +76,14 @@
  | 任务 | 型号 | 应用\| 参考 | 来源 |
 | ------------------ |------------------------------------| ------------------------------------------------------------------------------------- | ------------ |
  | 语音识别 | 深度演讲 | [Reference](https://github.com/mozilla/DeepSpeech/tree/master/native_client/java)      |  Mozilla |
+ | 语音识别 |  CONFORMER | [Android](https://github.com/windmaple/tflite-asr)  | 社区 |
  | 语音合成 |  Tacotron-2、FastSpeech2、MB-Melgan | [Android](https://github.com/TensorSpeech/TensorflowTTS/tree/master/examples/android)  |  TensorSpeech |
  | 语音合成(TTS) |  Tacotron2、FastSpeech2、MelGAN、MB-MelGAN、HiFi-GAN、Parallel WaveGAN | [Inference Notebook](https://github.com/tulasiram58827/TTS_TFLite/blob/main/End_to_End_TTS.ipynb)      \| [Project Repository](https://github.com/tulasiram58827/TTS_TFLite/)   | 社区 |
 
 ### Recommendation
  | 任务 | 型号 | 应用\| 参考 | 来源 |
 | ------------------ |------------------------------------| ------------------------------------------------------------------------------------- | ------------ |
- | 设备推荐 | [Dual-Encoder](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/ml)                 | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/android) \| [iOS](https://github.com/zhuzilin/on-device_recommendation_tflite) \| [Reference](https://blog.tensorflow.org/2020/09/introduction-to-tflite-on-device-recommendation.html)      |  tf.org 和社区 |
+ | 设备端推荐 | [Dual-Encoder](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/ml)                 | [Android](https://github.com/tensorflow/examples/tree/master/lite/examples/recommendation/android) \| [iOS](https://github.com/zhuzilin/on-device_recommendation_tflite) \| [Reference](https://blog.tensorflow.org/2020/09/introduction-to-tflite-on-device-recommendation.html)      |  tf.org 和社区 |
 
 ### Game
  | 任务 | 型号 | 应用\| 参考 | 来源 |
@@ -159,7 +160,7 @@
 * 2021-12-01 [AI and Machine Learning On-Device Development](https://learning.oreilly.com/library/view/ai-and-machine/9781098101732/) （抢先体验）- 作者：劳伦斯·莫罗尼 (Laurence Moroney)[@lmoroney](https://twitter.com/lmoroney)).
 * 2020-10-01 [AI and Machine Learning for Coders](https://learning.oreilly.com/library/view/ai-and-machine/9781492078180/) - 劳伦斯·莫罗尼 (Laurence Moroney)[@lmoroney](https://twitter.com/lmoroney)).
 * 2020-04-06 [Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter](https://www.packtpub.com/product/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/9781789611212)：构建可扩展的现实世界项目，以在 Android 和 iOS 上实现端到端的神经网络（[GitHub](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects)) - 作者 Anubhav Singh ([@xprilion](https://github.com/xprilion)) 和 Rimjhim Bhadani ([@Rimjhim28](https://github.com/Rimjhim28)).
-* 2019-12-01 [TinyML](http://shop.oreilly.com/product/0636920254508.do) - 皮特·沃登（Pete Warden）（[@petewarden](https://twitter.com/petewarden)）和丹尼尔·斯图纳亚克（[@dansitu](https://twitter.com/dansitu)).
+* 2019-12-01 [TinyML](http://shop.oreilly.com/product/0636920254508.do) - 皮特·沃登（Pete Warden）（[@petewarden](https://twitter.com/petewarden)) 和丹尼尔·斯图纳亚克 ([@dansitu](https://twitter.com/dansitu)).
 * 2019-10-01 [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.practicaldeeplearning.ai/) - Anirudh Koul ([@AnirudhKoul](https://twitter.com/AnirudhKoul)), Siddha Ganju ([@SiddhaGanju](https://twitter.com/SiddhaGanju)) 和 Meher Kasam ([@MeherKasam](https://twitter.com/MeherKasam)).
 
 ### Videos

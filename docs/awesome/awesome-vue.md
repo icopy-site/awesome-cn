@@ -320,7 +320,7 @@
 - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) 经过 [mul14](https://github.com/mul14)
 - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) 经过 [haydenbbickerton](https://github.com/haydenbbickerton)
 - [Vue Cookbook (Vue1.0 + express)](https://github.com/yjj5855/node-vue-server-webpack) 经过 [@yjj5855](https://github.com/yjj5855): 一个服务的演示首屏渲染
-- [Strong Together](https://github.com/websemantics/strong-together) - 基于 Browserify 和 Semantic-ui 构建单页 Vue.js 应用程序作为独立或 Laravel / Laravel Spark 项目的入门项目 [WebSemantics](https://github.com/websemantics)
+- [Strong Together](https://github.com/websemantics/strong-together) - 基于 Browserify 和 Semantic-ui 构建单页 Vue.js 应用程序作为独立或 Laravel / Laravel Spark 项目的入门项目） [WebSemantics](https://github.com/websemantics)
 - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
 - [**vue-shopping**](https://github.com/andylei18/vue-shopping) 经过 [andylei18](https://github.com/andylei18)
 - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) 经过 [@shinygang](https://github.com/shinygang)
@@ -351,7 +351,7 @@
 - [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django)
 - [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) 使用 `Phoenix Framework`、**Vue**、**Vue Router** 和 **Vuex** 开发（[_**demo**_](https://loopa-news.herokuapp.com))
 - [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs) 一个用 Vue 2.0 构建的简单计算器，vue-cli(webpack-simple).
-- [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) 使用 vue2.x 、vue-router、vue-cli(webpack-simple) 和 ajax(jsonp) 构建的简单维基百科查看器页面.
+- [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) 使用 vue2.x、vue-router、vue-cli(webpack-simple) 和 ajax(jsonp) 构建的简单维基百科查看器页面.
 - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
 - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example)  Vue - Laravel - Example 是一个使用 Laravel 设置 Vue 的简单示例. 经过 [Jiajian Chan](https://github.com/jcc)
 - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) 一个将 VueJS 与 [**Zurb Foundation**](https://github.com/zurb/foundation-sites), 使用 webpack vue-cli f 构建
@@ -463,6 +463,7 @@
 - [Maxim Web Chat](https://github.com/maxim-top/maxim-web) - 使用聊天演示 [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天App 示例.
 - [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - 使用 Tailwind、Axios-ready、Vuex 和 Router 的样板
 - [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - 使用 Wave UI + Vuex 和路由器的样板
+- [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) 自动简历生成器 [Emre Coşkunçay](https://github.com/coskuncayemre)
 
 ### Books
 
@@ -725,7 +726,7 @@
 - [Samaya](https://github.com/bibhuticoder/samaya)  - Chrome 新标签上友好的个人仪表板； 以尼泊尔日历、每日尼泊尔语报价和尼泊尔壁纸为特色.
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - 用于玩角色扮演游戏的免费和开源虚拟桌面.
 - [GrandNode 2.0](https://github.com/grandnode/grandnode2/) - 基于 .NET Core 5.0 和 MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS 的开源跨平台电子商务解决方案
-- [Aimeos](https://github.com/aimeos/aimeos) - 领先的 Laravel 电子商务框架，可构建超快的在线商店、市场和复杂的 B2B 应用程序，可从 1 项扩展到 1,000,000,000+ 项
+- [Aimeos](https://github.com/aimeos/aimeos) - 领先的 Laravel 电子商务框架，可构建超快速的在线商店、市场和复杂的 B2B 应用程序，可从 1 项扩展到 1,000,000,000+ 项
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - 仪表板、完成跟踪器、为最终幻想 XIV 量身定制的每周和每日清单和工具.
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok 流行趋势查看器.
 - [Interface X](https://github.com/empathyco/x) - UI Search&amp;Discovery 组件，快速打造精美的搜索体验
@@ -797,7 +798,7 @@
 - [NinjaCalc](http://ninja-calc.mbedded.ninja) - 一套嵌入式工程相关计算器，使用 vue.js 作为开源单页应用程序构建.
 - [Vue.js Feed](https://vuejsfeed.com/)  - 最新的 Vue.js 新闻、教程、插件等. 使用 Vue.js 和 Laravel 制作.
 - [蒜瓣](https://github.com/JasonBai007/suanban) - 使用Vue2.0和豆瓣API开发的网络应用
-- [Guess Right](https://kdcinfo.com/guessright/)  - “猜词”游戏 - 用 Vue/vuex/vue-router（前端）和 Laravel/MySQL（后端）编写. 代码是 [Open Source on GitHub](https://github.com/KDCinfo/guess-right) （虽然不是在 kdcinfo 上运行游戏的实时文件）.
+- [Guess Right](https://kdcinfo.com/guessright/)  - 一个“猜词”游戏 - 用 Vue/vuex/vue-router（前端）和 Laravel/MySQL（后端）编写. 代码是 [Open Source on GitHub](https://github.com/KDCinfo/guess-right) （虽然不是在 kdcinfo 上运行游戏的实时文件）.
 - [GRAP](https://grap.io) - 商务通讯服务
 - [Easy Mock](https://easy-mock.com)
 - [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) - 使用 Vue 2.0、vue-router 和 vuex 构建的博客，具有服务器端渲染
@@ -844,7 +845,7 @@
 - [Devjournal](https://www.devjournalapp.com) - 项目和想法的协作待办事项列表.
 - [Bubbleflat](https://bubbleflat.com)  - 在线平台，通过搜索具有相似生活方式、兴趣或学校的人，帮助学生和年轻专业人士找到理想的室友.  Laravel 和 Vuejs
 - [TeaQuinox Tea Co](https://teaquinox.com/) - 专门从事散叶茶的电子商务网站.
-- [blip](https://blip.website)  - 测试网站的速度、移动友好性、安全性和 HTML5 文档类型. 查找某个地点周围的企业并测试他们的网站，或者只是测试您自己的 URL.
+- [blip](https://blip.website)  - 测试网站的速度、移动友好性、安全性和 HTML5 文档类型. 查找某个地点附近的企业并测试他们的网站，或者只是测试您自己的 URL.
 - [sunpos](https://sunpos.ru)  - 太阳位置、海拔、方位角、黄道/赤道坐标和日出/日落时间（儒略日）计算和转换实用程序. 网站使用纯 JS、Vuejs 和 i18n Vuejs 本地化插件进行编程. 可视化是使用 D3.js 创建的.
 - [U3xyz](https://u3xyz.com) - 基于 vue ssr 的个人博客.
 - [27.ua](https://27.ua) - 乌克兰互联网大卖场
@@ -1940,7 +1941,7 @@ _开关/开/关切换/复选框_
 - [vue-jquery-mask](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x 组件 [jQuery Mask Plugin](https://github.com/igorescobar/jQuery-Mask-Plugin)
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - 为 Vue.js 轻松输入货币格式的数字.
 - [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - 基于 vue.js 的输入掩码库 [restricted-input](https://github.com/braintree/restricted-input)
-- [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) - 专为 Vue 创建的轻量级且无依赖的输入屏蔽库，最初是著名的 _vue-text-mask_ 的一个分支，但积极维护并在此之后进行了大量改进.
+- [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) - 专为 Vue 创建的轻量级和无依赖的输入屏蔽库，最初是著名的 _vue-text-mask_ 的一个分支，但积极维护并在此之后进行了大量改进.
 
 ##### Rich Text Editing
 
@@ -3299,7 +3300,7 @@ _包括一个后端样板_
 - [vuelectron](https://github.com/rachmanzz/vuelectron) - 用于 vue 的 electronjs 入门套件.
 - [vue-design](https://github.com/L-Chris/vue-design) - 使用 Vue 和 Electron 的最佳网站可视化构建器.
 - [dapp](https://github.com/fritx/dapp) - Vue/Parcel/Electron 堆栈的样板.
-- [vue-electron-template](https://github.com/mubaidr/vue-electron-template) - 一个 Electron 和 Vue.js 样板，支持热重载和常见的 Vue 插件、使用 webpack-4 配置的开发和构建脚本
+- [vue-electron-template](https://github.com/mubaidr/vue-electron-template) - 带有热重载功能的 Electron 和 Vue.js 样板，以及使用 webpack-4 配置的常见 Vue 插件、开发和构建脚本
 - [vue-iview-electron-boilerplate](https://github.com/buyouzzj/vue-iview-electron) - 带有 iview4.x、Vue2.x、electron8.x 和 webpack4.x 的 Electron 和 Vue.js 样板
 - [electron-vue3-flask](https://github.com/megasanjay/electron-vue3-flask) - 一个 Electron 和 Vue.js 应用程序启动模板，它通过 Flask 使用 python 后端来构建桌面应用程序.
 

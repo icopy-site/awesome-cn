@@ -13,7 +13,7 @@
 ## Sponsorships
 > [![Digital Ocean](https://avelino.run/sponsors/do_logo_horizontal_blue-210.png)](https://m.do.co/c/bd3b723c0a36?utm_medium=opensource&utm_source=awesome-go)
 
- **我们没有月费**_，但我们有员工**努力**维护Awesome Go，筹集的资金可以回报每个参与者的努力！ 所有计费和分发将向整个社区开放._
+ **我们没有月费**_，但我们有员工**努力**维护Awesome Go，筹集到的钱可以回报每个参与者的努力！ 所有计费和分发将向整个社区开放._
 
 精选的 Go 框架、库和软件的精选列表. 灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -289,7 +289,7 @@
 * [gomason](https://github.com/nikogura/gomason) - 从干净的工作区测试、构建、签名和发布您的 go 二进制文件.
 * [gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - 为人类测试输出.
 * [goveralls](https://github.com/mattn/goveralls) - 集成 Coveralls.io 连续代码覆盖率跟踪系统.
-* [overalls](https://github.com/go-playground/overalls) - 多包 go 项目coverprofile，用于诸如总督之类的工具.
+* [overalls](https://github.com/go-playground/overalls) - 多包 go 项目coverprofile，适用于总督等工具.
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) - 递归覆盖测试工具.
 
 
@@ -432,6 +432,7 @@
 
 * [avro](https://github.com/khezen/avro)  - 发现 SQL 模式并将它们转换为 AVRO 模式. 将 SQL 记录查询为 AVRO 字节.
 * [darwin](https://github.com/GuiaBolso/darwin) - Go 的数据库模式演变库.
+* [goavro](https://github.com/linkedin/goavro) - 一个编码和解码 Avro 数据的 Go 包.
 * [go-fixtures](https://github.com/RichardKnop/go-fixtures) - Golang 优秀的内置数据库/sql 库的 Django 风格装置.
 * [go-pg-migrate](https://github.com/lawzava/go-pg-migrate) - 用于 go-pg 迁移管理的 CLI 友好包.
 * [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - 一个 Go 包，用于帮助使用 go-pg/pg 编写迁移.
@@ -550,7 +551,7 @@
     * [skizze](https://github.com/seiflotfy/skizze) - 概率数据结构服务和存储.
 
 * 多个后端.
-    * [cachego](https://github.com/fabiorphp/cachego) - 多个驱动程序的 Golang 缓存组件.
+    * [cachego](https://github.com/fabiorphp/cachego) - 用于多个驱动程序的 Golang 缓存组件.
     * [cayley](https://github.com/google/cayley) - 支持多个后端的图形数据库.
     * [dsc](https://github.com/viant/dsc) - SQL、NoSQL、结构化文件的数据存储连接.
     * [gokv](https://github.com/philippgille/gokv) - Go 的简单键值存储抽象和实现（Redis、Consul、etcd、bbolt、BadgerDB、LevelDB、Memcached、DynamoDB、S3、PostgreSQL、MongoDB、CockroachDB 等等）.
@@ -677,7 +678,7 @@
 * [binder](https://github.com/alexeyco/binder) - 转到 Lua 绑定库，基于 [gopher-lua](https://github.com/yuin/gopher-lua).
 * [cel-go](https://github.com/google/cel-go) - 快速、便携、非图灵完整的表达式评估，逐步打字.
 * [ecal](https://github.com/krotik/ecal) - 一种简单的可嵌入脚本语言，支持并发事件处理.
-* [expr](https://github.com/antonmedv/expr) - Go 的表达式评估引擎：快速、非图灵完备、动态类型、静态类型.
+* [expr](https://github.com/antonmedv/expr) - Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing.
 * [gentee](https://github.com/gentee/gentee) - 可嵌入的脚本编程语言.
 * [gisp](https://github.com/jcla1/gisp) - Go 中的简单 LISP.
 * [go-duktape](https://github.com/olebedev/go-duktape) - 用于 Go 的 Duktape JavaScript 引擎绑定.
@@ -719,7 +720,7 @@
 * [afero](https://github.com/spf13/afero) - Go 的文件系统抽象系统.
 * [afs](https://github.com/viant/afs) - Go 的抽象文件存储（mem、scp、zip、tar、cloud：s3、gs）.
 * [baraka](https://github.com/xis/baraka) - 一个可以轻松处理 http 文件上传的库.
-* [bigfile](https://github.com/bigfile/bigfile) - 文件传输系统，支持使用http api、rpc 调用和ftp 客户端管理文件.
+* [bigfile](https://github.com/bigfile/bigfile) - 一个文件传输系统，支持使用http api、rpc 调用和ftp 客户端管理文件.
 * [checksum](https://github.com/codingsince1985/checksum) - 计算大文件的消息摘要，如 MD5、SHA256、SHA1 或 CRC.
 * [copy](https://github.com/otiai10/copy) - 递归复制目录.
 * [flop](https://github.com/homedepot/flop) - 旨在镜像特征奇偶性的文件操作库 [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
@@ -739,7 +740,7 @@
 * [stl](https://gitlab.com/russoj88/stl)  - 用于读取和写入 STL（立体光刻）文件的模块. 并发读取算法.
 * [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 对于 tar 文件.
 * [todotxt](https://github.com/1set/todotxt) - 去 Gina Trapani 的图书馆 [*todo.txt*](http://todotxt.org/) 文件，支持解析和操作任务列表 [*todo.txt* format](https://github.com/todotxt/todo.txt).
-* [vfs](https://github.com/C2FO/vfs) - 一组可插拔、可扩展和自以为是的文件系统功能，适用于 Go 跨多种文件系统类型，例如 os、S3 和 GCS.
+* [vfs](https://github.com/C2FO/vfs) - 一组可插入的、可扩展的和自以为是的文件系统功能集，适用于跨许多文件系统类型（如 os、S3 和 GCS）的 Go.
 
 
 ## Financial
@@ -1714,7 +1715,7 @@ _**非官方** 用于构建项目的模式集._
 * [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) - Prometheus 远程写入代理，基于度量标签添加添加 Cortex 租户 ID 标头.
 * [devd](https://github.com/cortesi/devd) - 开发人员的本地网络服务器.
 * [discovery](https://github.com/Bilibili/discovery) - 用于弹性中间层负载平衡和故障转移的注册表.
-* [dudeldu](https://github.com/krotik/dudeldu) - A simple SHOUTcast server.
+* [dudeldu](https://github.com/krotik/dudeldu) - 一个简单的 SHOUTcast 服务器.
 * [Easegress](https://github.com/megaease/easegress) - 具有可观察性和可扩展性的云原生高可用性/性能流量编排系统.
 * [etcd](https://github.com/coreos/etcd) - 用于共享配置和服务发现的高度可用的键值存储.
 * [Euterpe](https://github.com/ironsmile/euterpe) - 自托管音乐流媒体服务器，内置 Web UI 和 REST API.
@@ -2060,7 +2061,7 @@ _**非官方** 用于构建项目的模式集._
 * [copy](https://github.com/gotidy/copy) - 用于快速复制不同类型结构的包.
 * [copy-pasta](https://github.com/jutkko/copy-pasta) - 通用多工作站剪贴板，使用类似 S3 的后端进行存储.
 * [countries](https://github.com/biter777/countries) - 全面实施 ISO-3166-1、ISO-4217、ITU-T E.164、Unicode CLDR 和 IANA ccTLD 标准.
-* [create-go-app](https://github.com/create-go-app/cli) - 一个强大的 CLI，用于通过运行一个命令创建一个具有后端 (Golang)、前端 (JavaScript、TypeScript) 和部署自动化 (Ansible、Docker) 的新的生产就绪项目.
+* [create-go-app](https://github.com/create-go-app/cli) - 一个强大的 CLI，用于通过运行一个命令创建一个新的生产就绪项目，后端（Golang）、前端（JavaScript、TypeScript）和部署自动化（Ansible、Docker）.
 * [cryptgo](https://github.com/Gituser143/cryptgo) - Crytpgo 是一个基于 TUI 的应用程序，完全用 Go 编写，用于实时监控和观察加密货币价格！
 * [ctop](https://github.com/bcicen/ctop) - [Top-like](https://ctop.sh) 容器指标的接口（例如 htop）.
 * [ctxutil](https://github.com/posener/ctxutil) - 上下文的实用函数集合.
@@ -2247,7 +2248,7 @@ _**非官方** 用于构建项目的模式集._
 
 *用于处理视频的库.*
 
-* [gmf](https://github.com/3d0c/gmf) - 通过 \ * 库绑定 FFmpeg.
+* [gmf](https://github.com/3d0c/gmf) - 为 \ * 库的 FFmpeg 绑定.
 * [go-astisub](https://github.com/asticode/go-astisub) - 在 GO 中处理字幕（.srt、.stl、.ttml、.webvtt、.ssa/.ass、teletext、.smi 等）.
 * [go-astits](https://github.com/asticode/go-astits) - 在 GO 中本地解析和解复用 MPEG 传输流 (.ts).
 * [go-m3u8](https://github.com/quangngotan95/go-m3u8) - Apple m3u8 播放列表的解析器和生成器库.
@@ -2575,7 +2576,7 @@ _**非官方** 用于构建项目的模式集._
 * [borg](https://github.com/crufter/borg) - 基于终端的 bash 片段搜索引擎.
 * [boxed](https://github.com/tejo/boxed) - 基于 Dropbox 的博客引擎.
 * [Cherry](https://github.com/rafael-santiago/cherry) - Go 中的微型网络聊天服务器.
-* [Circuit](https://github.com/gocircuit/circuit) - Circuit 是一种可编程的平台即服务 (PaaS) 和/或基础设施即服务 (IaaS)，用于管理、发现、同步和编排服务和包含云应用程序的主机.
+* [Circuit](https://github.com/gocircuit/circuit) - Circuit 是一种可编程的平台即服务 (PaaS) 和/或基础设施即服务 (IaaS)，用于管理、发现、同步和编排包含云应用程序的服务和主机.
 * [Comcast](https://github.com/tylertreat/Comcast) - 模拟不良网络连接.
 * [confd](https://github.com/kelseyhightower/confd) - 使用来自 etcd 或 consul 的模板和数据管理本地应用程序配置文件.
 * [croc](https://github.com/schollz/croc) - 轻松安全地将文件或文件夹从一台计算机发送到另一台计算机.
