@@ -72,6 +72,7 @@
 - [Go](https://github.com/petaki/inertia-go)
 - [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
 - [Rust](https://github.com/stuarth/inertia-rs)
+- [Oak (Deno)](https://github.com/jcs224/oak_inertia)
 
 ## Resources
 

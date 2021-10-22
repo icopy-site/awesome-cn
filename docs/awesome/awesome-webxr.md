@@ -13,7 +13,7 @@
 
 *令人印象深刻且引人注目的 WebXR 项目.*
 
-- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - 为纪念 WebXR 1.0 API 的发布而制作，展示了 WebXR 的一些可能.
+- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - 纪念 WebXR 1.0 API 的发布，展示了 WebXR 的一些可能.
 - [Moonrider](https://moonrider.xyz/) - 由 Supermedium 打造的节奏游戏，类似于 Beat Saber.
 - [Dudes!](https://dudes.gatunes.com/) - 一个 3D 体素引擎 [Daniel Esteban](https://github.com/danielesteban) . 具有 WebXR 支持、物理、寻路、支持多人游戏的 VR 雕刻模式等.
 - [Plockle](https://plockle.com/) - 超过 40 个关卡的空间方块益智游戏. 
@@ -24,8 +24,8 @@
 
 - [Brushwork VR](https://brushworkvr.com/) - 一个 VR 应用程序，可模拟使用虚拟画布、调色板、颜色混合等进行绘画的过程.
 - [Hatsumi](https://www.hatsumivr.com/) - 一个 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来说明生活体验.
-- [Silk Brush](https://www.silkbrush.app/) - Tilt Brush 到 WebXR 的端口，并计划进行未来的扩展.
-- [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
+- [Silk Brush](https://www.silkbrush.app/) - Tilt Brush 到 WebXR 的端口，并计划未来扩展.
+- [VARTISTE](https://vartiste.xyz/) - 用于 2D 绘图和图像编辑以及 3D 模型纹理的 VR 应用程序.
 
 ## Audio
 
@@ -33,16 +33,16 @@
 
 - [beats](https://beats.gatunes.com/) - 具有各种房间的半协作应用程序，任何人都可以在其中创建或修改现有的音乐循环.
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次聆听派对的录制部分仍然可以查看.
-- [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用程序 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家云.
+- [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用程序 Fathom 的 WebXR 版本，可让您使用空间化音频搜索和探索相关艺术家的云.
 - [Helicon](https://www.helicon.live/) - 对多节奏的沉浸式介绍.
-- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验的线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
+- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的身临其境的视听体验的线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
 *用于在沉浸式体验中创建和利用 3D 虚拟形象的资源.*
 
 - [Exokit Avatars](https://github.com/exokitxr/avatars) - 基于网络的头像系统，可以加载多种不同模型格式的人形头像，并具有手臂+腿 IK、通过视位进行面部动画等.
-- [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以以 glTF 格式下载该头像.
+- [ReadyPlayerMe](https://readyplayer.me/) - 让您可以快速轻松地在线创建可以以 glTF 格式下载的 3D 头像.
 - [VRoid](https://vroid.com/en) - 允许您创建导出为高度兼容的 .vrm 格式的动漫风格 3D 头像.
 
 ## Communities
@@ -54,12 +54,13 @@
 - [Metaverse Makers](https://discord.gg/UgZDFZW) - Metaverse Makers Mastermind 组 M3 的官方服务器.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - 拥有超过 1000 名成员的 WebXR 官方 Discord 服务器.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - 仙境引擎 Discord 服务器.
+- [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - XR 基金会的官方服务器，负责 XREngine 和其他各种与元节相关的项目.
 
 ### Facebook
 
 - [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - 最早的 WebXR 相关组，最初是为 WebVR 制作的.
 - [WebXR](https://www.facebook.com/groups/arvrweb/) - 较新的以 WebXR 为中心的组.
-- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - Belivvr 创建的韩国 WebXR 组.
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - 由 Belivvr 创建的韩国 WebXR 组.
 - [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - 与 WebXR 巴黎小组合作 [Meetup](https://www.meetup.com/WebXR-Paris/).
 
 ### Forums
@@ -87,7 +88,7 @@
 
 
 
-- [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
+- [2WSZ](https://2wsz.com/) - 具有评级、推荐系统以及英语和韩语支持的 WebXR 内容聚合器.
 - [Construct Arcade](https://constructarcade.com/) - 精选的 WebXR 游戏中心，其中包含来自 Vhite Rabbit 的外部开发人员和内部开发人员的游戏.
 - [Extended Collection](https://extendedcollection.com/)
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
@@ -117,6 +118,8 @@
 - [Wonderland Engine](https://wonderlandengine.com/) - 专为构建 WebXR 应用程序而设计的开发平台.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
 
+- [XREngine](https://github.com/XRFoundation/XREngine) - 基于three.js 和bitECS 构建的全栈MMO 引擎，支持WebXR.
+
 ### Frameworks and Libraries
 
 - [A-Frame](https://aframe.io/) - 允许您使用基于three.js 构建的声明性HTML 和自定义JavaScript 组件来创建VR 体验.
@@ -134,7 +137,7 @@
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - 一个用于three.js 的React 渲染器. 其他特定于 WebXR 的挂钩和组件可在 [React XR](https://github.com/pmndrs/react-xr) 以及.
 
-- [Spaces VR](https://github.com/spacesvr/spacesvr) - 快速创建基于 react-three-fiber 的 VR 网站的前端框架.
+- [Spaces VR](https://github.com/spacesvr/spacesvr) - 一个基于react-three-fiber快速创建VR网站的前端框架.
 
 - [three.js](https://threejs.org/) - 用于使用 WebGL 渲染 3D 内容的 JavaScript 库，支持许多现有的 WebXR 体验和工具.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
@@ -146,7 +149,7 @@
 
 ## E-Commerce
 
-* WebXR 电子商务平台.*
+*WebXR E-Commerce platforms.*
 
 - [Ozone Universe](https://ozoneuniverse.com/) - 用于会议、营销和电子商务的虚拟企业平台.
 - [VR Cybershop](https://vrshop.rebuffreality.com/) - Rebuff Reality 的虚拟店面.
@@ -159,7 +162,7 @@
 
 ## Social Spaces
 
-*专注于为用户创造社交空间以供聚集和/或协作的项目.*
+*专注于为用户创造社交空间供用户聚集和/或协作的项目.*
 
 - [Dreamwave](https://dreamwave.tech/)  - 用于托管可扩展虚拟事件的基于 Web 的平台. 为虚拟音乐节提供动力 [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
 - [Emerald City](https://hubculture.city/) - 由 Hub Culture 开发的虚拟活动空间.

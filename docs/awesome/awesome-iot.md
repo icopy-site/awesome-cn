@@ -8,7 +8,7 @@
 
 &gt; 精选的物联网项目和资源列表.
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 
 
 
@@ -17,7 +17,7 @@
 - [Arduino](https://www.arduino.cc/)  - Arduino 是一个基于易于使用的硬件和软件的开源电子平台. 它适用于任何制作交互式项目的人.
 - [BeagleBoard](http://beagleboard.org/) - BeagleBoard 是由德州仪器 (TI) 与 Digi-Key 和 Newark element14 联合生产的低功耗开源硬件单板计算机.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)  - DragonBoard 410c 是 Arrow Electronics 的产品，是基于中端 Qualcomm® Snapdragon™ 410E 处理器的开发板. 它具有先进的处理能力、Wi-Fi、蓝牙连接和 GPS，所有这些都装在一张信用卡大小的电路板上.
-- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的后继产品.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外设将取代连接产品中的微控制器.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard 是三个支持 Linux 和 Android 的开源 SBC 系列，基于 1GHz Freescale i.MX6 SoC，带有类似 Pi 的 26 针 I/O 连接器.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔® Galileo Gen 2 开发板是基于英特尔® 架构的 Arduino* 认证开发和原型开发板系列中的第一款，专为创客、学生、教育工作者和 DIY 电子爱好者设计.
 - [Microduino](https://www.microduino.cc/)  - Microduino 和 mCookie 为所有年龄段的制造商、设计师、工程师、学生和好奇的修补匠带来了强大、小巧、可堆叠的电子硬件. 构建开源项目或创建创新的新项目.
@@ -27,7 +27,7 @@
 - [Particle](https://www.particle.io) - 一套硬件和软件工具，可帮助您对物联网产品进行原型设计、扩展和管理.
 - [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio 是一种为所有物联网设备添加网状网络功能和 WiFi 互联网访问的解决方案，它与 Arduino 兼容.
 - [Raspberry Pi](https://www.raspberrypi.org/)  - Raspberry Pi 是一种低成本、信用卡大小的计算机，可插入计算机显示器或电视，并使用标准键盘和鼠标. 它能够执行您希望台式计算机执行的所有操作，从浏览互联网和播放高清视频，到制作电子表格、文字处理和玩游戏.
-- [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
+- [Tessel](https://tessel.io/)  - Tessel 是一个完全开源和社区驱动的物联网和机器人开发平台. 它包含开发板、硬件模块附加组件以及在其上运行的软件.
 - [UDOO](http://www.udoo.org) - UDOO 是一款带有集成 Arduino 2 兼容微控制器的单板计算机，专为计算机科学教育、创客世界和物联网而设计.
 
 ### Software
@@ -36,7 +36,7 @@
 
  - [Apache Mynewt](https://mynewt.apache.org/)  - Apache Mynewt 是一种实时模块化操作系统，适用于需要在功率、内存和存储限制下长时间运行的联网物联网设备. 提供的第一个连接堆栈是 BLE 4.2.
  - [ARM mbed](http://www.mbed.com/) - ARM® mbed™ 物联网设备平台提供操作系统、云服务、工具和开发人员生态系统，使基于标准的商业物联网解决方案的创建和部署成为可能.
- - [Contiki](http://www.contiki-os.org/)  - Contiki 是用于物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
+ - [Contiki](http://www.contiki-os.org/) - Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置并与彼此和您的智能手机无缝协作.
  - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一种基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，足够小以适应家用路由器中有限的存储和内存.
@@ -57,10 +57,10 @@
  - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - 一种通用的命令式计算机编程语言，支持结构化编程、词法变量范围和递归，而静态类型系统可防止许多意外操作.
  - [C++](https://en.wikipedia.org/wiki/C%2B%2B)  - 一种通用编程语言. 它具有命令式、面向对象和通用编程功能，同时还提供用于低级内存操作的设施.
  - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，用于 Java 平台，旨在通过简洁、熟悉且易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
- - [Lua](http://www.lua.org/) - Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
+ - [Lua](http://www.lua.org/)  - Lua 是一种强大、快速、轻量级、可嵌入的脚本语言.  Lua 是动态类型的，通过为基于寄存器的虚拟机解释字节码来运行，并具有带增量垃圾收集的自动内存管理，使其成为配置、脚本和快速原型设计的理想选择.
  - [eLua](http://www.eluaproject.net/) - eLua 代表嵌入式 Lua，该项目为嵌入式世界提供了 Lua 编程语言的完整实现，为其扩展了特定功能，以实现高效和可移植的软件嵌入式开发.
  - [ELFE](http://c3d.github.io/elfe/)  - ELFE 是一种非常简单和小型的编程语言. 虽然它是一种通用编程语言，但它经过专门调整以促进传感器或执行器等小型设备群的配置和控制.
- - [MicroPython](https://docs.micropython.org/) - 用于微控制器和受限系统的精益高效的 Python 实现
+ - [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
  - [PharoThings](https://github.com/pharo-iot/PharoThings) - 基于物联网项目的实时编程平台 [Pharo](https://pharo.org/) （纯面向对象的编程语言和强大的环境，专注于简单性和即时反馈）.
  - [Rust](https://www.rust-lang.org/)  - Rust 是一种专注于性能、可靠性和生产力的语言. 它以安全着称，它是内存安全的，它使用借用检查器，并且并发也是安全的.
  - [TinyGo](https://tinygo.org/)  - TinyGo 是一个项目，通过创建基于 LLVM 的新编译器，将 Go 编程语言引入微控制器和现代 Web 浏览器. 您可以在许多不同的微控制器板上编译和运行 TinyGo 程序，例如 BBC micro:bit 和 Arduino Uno.
@@ -73,15 +73,16 @@
  - [Blynk](http://www.blynk.cc)  - Blynk 是一个为互联事物创建 iOS 和 Android 应用程序的平台. 您只需拖放小部件（就在智能手机上）即可轻松为所有项目构建图形界面. 支持以太网、WiFi、蓝牙、GSM/GPRS、USB/串行连接与来自 Arduino、Raspberry、ARM mbed、Particle、RedBear 等的各种原型平台.
  - [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly 是一个用于移动和物联网设备的通用分析平台，以开源形式提供.
  - [Eclipse Ditto™](https://eclipse.org/ditto/)  - Eclipse Ditto 是用于构建所谓的“数字孪生”的框架. 它提供基于云的表示和 API 以与连接的物理设备进行交互.  Ditto 提供内置的授权、搜索和连接功能，以与 MQTT 代理、HTTP 端点和 Apache Kafka 等外部系统集成.
- - [Eclipse Smarthome](https://eclipse.org/smarthome/)  - Eclipse SmartHome 框架旨在在嵌入式设备上运行，例如 Raspberry Pi、BeagleBone Black 或 Intel Edison. 它需要符合 Java 7 的 JVM 和 OSGi (4.2+) 框架，例如 Eclipse Equinox.
+ - [Eclipse Smarthome](https://eclipse.org/smarthome/) - The Eclipse SmartHome framework is designed to run on embedded devices, such as a Raspberry Pi, a BeagleBone Black or an Intel Edison. It requires a Java 7 compliant JVM and an OSGi (4.2+) framework, such as Eclipse Equinox.
  - [Freedomotic](http://www.freedomotic.com)  - Freedomotic 是一个开源、灵活、安全的物联网 (IoT) 开发框架，可用于构建和管理现代智能空间. 它针对个人（家庭自动化）以及商业用户（智能零售环境、环境感知营销、监控和分析等）. 它是用 Java 编写的，可以与众所周知的标准建筑自动化协议以及“自己动手”的解决方案进行交互.
- - [Iotivity](https://iotivity.org/) - IoTivity 是一个开源软件框架，支持无缝的设备到设备连接，以满足物联网的新兴需求.
+ - [Iotivity](https://iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
  - [Kura](https://eclipse.org/kura/)  - Kura 旨在为在服务网关中运行的 M2M 应用程序提供基于 Java/OSGi 的容器.  Kura 为 M2M 应用程序所需的最常见服务提供或在可用时聚合开源实现.
  - [Lelylan](http://www.lelylan.com/)  - Lelylan 是一个基于轻量级微服务架构的物联网云平台.  Lelylan 平台既与硬件无关，也与平台无关. 这意味着您可以连接任何硬件，从 ESP8266 到最专业的嵌入式硬件解决方案以及介于两者之间的一切 - 它可以在任何公共云、您自己的私有数据中心，甚至混合环境中运行，无论是虚拟化还是裸机.
+ - [Macchina.io](https://github.com/macchina-io/macchina.io)  - macchina.io EDGE 是一个丰富的软件框架，用于快速构建在基于 Linux 的设备上运行的 IoT 设备应用程序.  macchina.io EDGE 实现了一个支持 web 的、安全的、模块化的和可扩展的 JavaScript 和 C++ 运行时环境，并提供了现成的、经过行业验证的软件构建块. 这些使设备能够与各种传感器、其他设备和云服务通信，并在本地、边缘设备或本地网络内处理、分析和过滤传感器数据.
  - [Mihini](https://wiki.eclipse.org/Mihini)  - Mihini 的主要目标是提供一个运行在 Linux 之上的嵌入式运行时，它公开用于构建 M2M 应用程序的高级 API.  Mihini 旨在通过促进对 M2M 系统的 I/O 的访问、提供通信层等来实现简单和便携的开发.
  - [OpenHAB](http://www.openhab.org/)  - openHAB 运行时是一组部署在 OSGi 框架 (Equinox) 上的 OSGi 包. 因此，它是一个纯 Java 解决方案，需要一个 JVM 才能运行. 基于 OSGi，它提供了高度模块化的架构，甚至允许在运行时添加和删除功能而无需停止服务.
  - [Gobot](http://gobot.io/) - Gobot 是一个用于机器人、物理计算和物联网的框架，用 Go 编程语言编写.
- - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant 是一个运行在 Python 3 上的家庭自动化平台. Home Assistant 的目标是能够跟踪和控制家中的所有设备，并提供一个自动化控制平台.
+ - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
  - [Lightweight MQTT Machine Network](http://lwmqn.github.io/)  - LWMQN 是一个开源项目，遵循 OMA LWM2M v1.0 规范的一部分，使用基于 IP 的智能对象模型来满足机器网络管理的最低要求. 它提供了服务器端和机器端库，使使用 JavaScript 和 Node.js 的全栈物联网开发成为可能. 另见：IPSO联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - 开源物联网网关 - 使用 OPC-UA 和 MQTT 协议将连接到旧系统和第三方系统的设备与 Thingsboard 物联网平台集成.
  - [Pimatic](https://pimatic.org/)  - Pimatic 是一个在 node.js 上运行的家庭自动化框架. 它为家庭控制和自动化任务提供了一个通用的可扩展平台.
@@ -121,7 +122,7 @@
  - [Johnny-Five](http://johnny-five.io/)  - Johnny-Five 是原始的 JavaScript Robotics 编程框架. 由 Bocoup 于 2012 年发布，Johnny-Five 由一群充满热情的软件开发人员和硬件工程师维护.
  - [Pi4J](http://pi4j.com/) - Pi4j 旨在为 Java 程序员提供友好的面向对象的 I/O API 和实现库，以访问 Raspberry Pi 平台的完整 I/O 功能.
  - [WiringPi](http://wiringpi.com/) - WiringPi 是用 C 编写的 GPIO 访问库，用于 Raspberry Pi 中使用的 BCM2835.
- - [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
+ - [Node-RED](http://nodered.org/) - 用于连接物联网的可视化工具.
  - [MIMIC IoT Simulator](https://www.gambitcomm.com/site/iot_simulator.php) - 模拟大型物联网环境，用于基于 MQTT、CoAP、REST 的物联网应用的敏捷开发/测试/概念验证/培训
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化您的 MQTT 主题的工具，MQTT 瑞士军刀.
  - [ops](https://ops.city/) - 一个免费的开源工具，用于构建、运行和部署 linux 应用程序作为 unikernel.
@@ -177,7 +178,7 @@
 
  Sigfox 是一家法国公司，它构建无线网络以连接低能耗物体，例如电表、智能手表和洗衣机，这些物体需要持续开启并发射少量数据. 其基础设施旨在为所谓的物联网 (IoT) 做出贡献.  —— [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
 
-> SIGFOX describes itself as "the first and only company providing global cellular connectivity for the Internet of Things." Its infrastructure is "completely independent of existing networks, such as telecommunications networks." SIGFOX seeks to provide the means for the "deployment of billions of objects and thousands of new uses" with the long-term goal of "having petabytes of data produced by everyday objects".
+ &gt; SIGFOX 将自己描述为“第一家也是唯一一家为物联网提供全球蜂窝连接的公司”. 它的基础设施“完全独立于现有网络，例如电信网络”.  SIGFOX 旨在为“部署数十亿个对象和数千个新用途”提供手段，其长期目标是“拥有由日常对象产生的 PB 级数据”.
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Wi-FI_Alliance_Logo.png" /> - [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) (Wi-Fi Alliance)
 
@@ -318,7 +319,7 @@ OPC-UA 不仅是一种工业自动化协议，也是一种允许对工业环境�
 
 #### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1) (2013) *by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)* [4.0]
 
-> Whether it's called physical computing, ubiquitous computing, or the Internet of Things, it's a hot topic in technology: how to channel your inner Steve Jobs and successfully combine hardware, embedded software, web services, electronics, and cool design to create cutting-edge devices that are fun, interactive, and practical. If you'd like to create the next must-have product, this unique book is the perfect place to start.
+ &gt; 无论是所谓的物理计算、泛在计算，还是物联网，都是科技界的热门话题：如何引导你内心的史蒂夫·乔布斯，并成功地结合硬件、嵌入式软件、网络服务、电子产品和酷炫的设计来创造切割——有趣、互动和实用的边缘设备. 如果您想创建下一个必备产品，这本独特的书是完美的起点.
 
 #### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* [4.5]
 

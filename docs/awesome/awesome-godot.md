@@ -13,7 +13,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Games
 
-*使用 Godot 的开源游戏.*
+*Open Source Games that use Godot.*
 
 ### 2D
 
@@ -159,7 +159,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix 框架 (Godot 3.*) 的 Channels API 的 GDScript 和 Godot 引擎实现.
 - [Godot Recipes](http://godotrecipes.com/) - 大量的教程和技术，无论大小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
-- [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
+- [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，可以将 SQLite 数据库用作项目中的数据存储（Godot 3.2+）.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 文本界面引擎来控制文本输出（就像在 RPG 对话中一样）（Godot 2.x、3.x）.
 - [gterm](https://github.com/TeddyDD/gterm) - 绘制类似于 \*nix 终端模拟器（Godot &gt;= 2.1）的 GUI 控件.
 - [GUT](https://github.com/bitwes/Gut) - 在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
@@ -188,7 +188,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用 libccd 在 Godot 中进行快速 3D 碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - detour/detourcrowd 库的 GDNative 实现.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - Discord Game SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与 godotcord 之类的自定义引擎模块相反）.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与 godotcord 之类的自定义引擎模块相反）.
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - 允许玩家使用他们的移动设备作为控制器.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
@@ -200,6 +200,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - 先进的 2D/3D 轨迹系统.
 - [Kehom's Godot Addon Pack](https://github.com/Kehom/GodotAddonPack) - 用于调试、网络、UI 等的插件集合.
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)  - 网格、灯光和粒子的细节级别附加组件. 可以提高大场景下的性能.
+- [Line Collider 2D](https://github.com/Kylogias/godot-line-collider-2d) - 添加遵循 Line2D 数组的碰撞器的脚本（对原型有用）.
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - 减轻 SkeletonIK 的缩放效果.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器制作骨骼动画.

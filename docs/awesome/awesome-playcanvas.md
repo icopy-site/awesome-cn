@@ -1,12 +1,12 @@
 <div class="github-widget" data-repo="playcanvas/awesome-playcanvas"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > <img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">
 >
 > [PlayCanvas](https://playcanvas.com/) 是一个用于构建交互式 Web 内容的开源平台. 它是用 JavaScript、HTML5、CSS3 和 WebGL 编写的.
 >
-&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
+&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精彩资源、工具、教程和项目的精选集合.
 >
 &gt; 贡献_非常欢迎_但先看看 [Contributing](#contributing).
 
@@ -95,7 +95,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - 仔细选择电源来击败一波又一波的敌舰.
 - [Garden Bloom](https://play.famobi.com/garden-bloom) - 以花园为主题的 2D 三消游戏.
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D匹配3游戏.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) - 由几何形状构成的程式化无尽赛跑者.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) - 从几何形状构建的程式化的无尽赛跑者.
 - [Hoop Royale](https://play.famobi.com/hoop-royale) - 在球周围操纵环.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - 恐龙、乐高和汽车特技.
 - [Mahjong World](https://play.famobi.com/mahjong-world) - 3D麻将益智游戏.
@@ -152,6 +152,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - 交互式 3D 家具配置器.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - 电梯配置器.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.
+- [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - 背包配置器.
 - [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - 检重机可视化器.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - 壁橱配置器.
@@ -160,7 +161,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 
 ## AR/VR/XR
 
-- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 一个高度逼真的室内环境，展示了房间规模的 VR.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 高度逼真的室内环境展示了房间规模的 VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景样式基于 WebXR 的主页.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 

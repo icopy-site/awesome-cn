@@ -86,27 +86,27 @@
 
 - [An Introduction to Choropleth maps in R](https://rstudio-pubs-static.s3.amazonaws.com/324400_69a673183ba449e9af4011b1eeb456b9.html) - 作者：亨利·坎恩.
 - [Getting latitude & longitude for any address](https://discourse.looker.com/t/get-latitude-longitude-for-any-location-through-google-sheets-and-plot-these-in-looker/5402) - 作者：布莱希特·维迈尔.
-- [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - 作者：劳拉·埃利斯.
+- [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps) - Author: Laura Ellis.
 - [Plot Spatial Data / Shapefiles in R](https://www.youtube.com/watch?v=uZtto0cYjZM) - 来自“数学等”YouTube 频道.
 
 ### Viz
 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)  - 一个全面且易于遵循的教程，涵盖使用轴、标题、图例、背景、网格线、边距、多面板图、颜色、主题、线条、文本、坐标、图表类型、色带、平滑和交互式绘图. 作者：塞德里克·谢勒.
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) - 很棒的 ggplot2 教程、软件包等的精选列表.作者：Erik Gahner Larsen.
-- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
+- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - 作者：Andrew Abela，博士
 - [Color Hex Color Codes](https://www.color-hex.com/) - 作者：颜色十六进制.
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - 作者：Alboukadel Kassambara.
 - [Coolors](https://coolors.co/)  - 超快的配色方案生成器！ 创建完美的调色板或从数千种美丽的配色方案中获得灵感. 功能包括颜色选择器、从照片中选择调色板、创建拼贴画、制作自己的渐变调色板、创建渐变、对比度检查器等.
 - [From Data to Viz](https://www.data-to-viz.com/)  - 从数据到可视化引导您找到最适合您的数据的图表. 作者：严霍尔茨.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - 由 Daniel Emaasit 维护.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html)  - 如何在 ggplot2 中修改主题的组件. 作者：Tidyverse 的开发者.
-- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/)  - 在 ggplot2 中使用图形的详细指南. 作者：安托万·索特威.
+- [Graphics in R with ggplot2](https://www.statsandr.com/blog/graphics-in-r-with-ggplot2/) - A detailed guide for the use of graphics within ggplot2. Author: Antoine Soetewey.
 - [htmlwidgets for R](https://www.htmlwidgets.org/) - 您可以使用 R 构建的各种交互式 Web 可视化的展示和画廊. 
 - [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)  - r 中可用的调色板的综合列表. 作者：埃米尔·赫维费尔特.
-- [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - 数据可视化目录是 Severino Ribecca 开发的一个项目，用于创建不同信息可视化类型的库.
+- [The Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - The Data Visualization Catalogue is a project developed by Severino Ribecca to create a library of different information visualization types.
 - [The Graphic Continuum](https://www.informationisbeautifulawards.com/showcase/611-the-graphic-continuum)  - 当我们编码和呈现数据时，Graphic Continuum 显示了许多不同类型的可视化可供我们使用. 作者：Jonathan Schwabish 和 Severino Ribecca.
 - [The R Graph Gallery](https://www.r-graph-gallery.com/)  - 使用 R 编程语言制作的图表集合. 作者：严霍尔茨.
-- [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - 作者：劳拉·埃利斯.
+- [Time Based Heatmaps in R](https://www.littlemissdata.com/blog/heatmaps) - Author: Laura Ellis.
 - [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)  - 本教程帮助您为您的特定目标选择正确的图表类型，以及如何使用 ggplot2 在 R 中实现它. 作者：塞尔瓦·普拉巴卡兰.
 
 ### Web Scraping
@@ -123,7 +123,7 @@
 
 ### Uncategorized
 
-- [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data) - A detailed comparison of R packages data.table and dplyr. Author: Atrebas.
+- [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)  - R 包 data.table 和 dplyr 的详细比较. 作者：阿特雷巴斯.
 - [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)  - data.table 的快速介绍. 主要目标是展示 data.table 语法，展示如何执行基本但必不可少的数据整理任务. 作者：阿特雷巴斯.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) - 作者：科林·费伊.
 - [From base R to stringr](https://stringr.tidyverse.org/articles/from-base.html)  - 此小插图将 stringr 函数与其基本 R 等效项进行比较，以帮助用户从使用基本 R 过渡到 stringr. 作者：萨拉·斯托特.
@@ -158,6 +158,7 @@
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  - 本书介绍了统计学习方法. 作者：Gareth James、Daniela Witten、Trevor Hastie 和 Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) - 本书专为想要加深对语言的理解的 R 程序员以及希望了解 R 的不同和特殊之处的其他语言经验丰富的程序员而设计. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) 作者：哈德利·威克姆.
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - 这篇 R 简介来自于 Bill Venables 和 David M. Smith 于 1990-2 年在阿德莱德大学撰写的描述 S 和 S-Plus 环境的原始笔记集.
+- [An Introduction to R](https://intro2r.com/)  - 本书的目的是向您介绍如何使用 R，这是一个用于统计计算和研究的强大而灵活的交互式环境. 作者：Alex Douglas、Deon Roos、Francesca Mancini、Ana Couto 和 David Lusseau
 - [Answering Questions with Data](https://crumplab.github.io/statistics/)  - 这是一本免费的教科书，适用于心理学本科生的入门统计. 教科书的编写考虑了数学恐惧症，并试图减少与算术计算相关的恐惧症. 作者：马修 JC 克鲁普.
 - [Data Science in a Box](https://datasciencebox.org/index.html) - 课程的核心内容侧重于数据获取和整理、探索性数据分析、数据可视化、推理、建模和结果的有效沟通.
 - [Data Science in Education Using R](https://datascienceineducation.com/)  - 这本书主要是关于学习在教育中使用 R 作为数据科学的工具. 作者：Ryan A. Estrellado、Emily A. Bovee、Jesse Mostipak、Joshua M. Rosenberg 和 Isabella C. Velásquez.
@@ -223,7 +224,7 @@
 - [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA) - 主题包括预测文本建模、估算缺失数据、tidymodels、情感分析、多项式分类、主成分分析、数据预处理和重采样以及多项式分类.
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos) - 不同专家就各种主题进行深入交谈.
 - [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures/featured) - 主题包括描述性统计、方差分析、自举、线性回归、双变量分析和概率分布.
-- [Numyard](https://www.youtube.com/c/TheLearnR/videos) - 主题包括使用数据帧、for 循环、基本数学、向量、列表、创建函数、数据类型和随机抽样.
+- [Numyard](https://www.youtube.com/c/TheLearnR/videos) - 主题包括使用数据帧、for 循环、基本数学、向量、列表、创建函数、数据类型和随机采样.
 - [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) - 主题包括粘贴函数、应用函数系列、while 和 for 循环、条件语句、可视化、删除 NA 和组合数据.
 - [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) - R 播放列表包括有关使用 dplyr 操作数据、使用 ggplot2 和 ggThemeAssist 可视化数据、数据类型和结构、重要的基础 r 函数、使用 lubridate 处理日期时间、使用 forcats 征服因素、使用 stringr 操作文本的视频. 
 - [Shiny Developer Series](https://www.youtube.com/c/ShinyDeveloperSeries/videos) - Shiny 开发者系列的目标是展示不断发展的 Shiny 生态系统中的创新应用程序和软件包，以及它们背后的杰出开发者！ 
