@@ -166,7 +166,7 @@ Rust 代码和资源的精选列表.
 
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) — 高性能可扩展 StatsD 兼容服务器.
 * [OpenTelemetry](https://crates.io/crates/opentelemetry)  — OpenTelemetry 提供一组 API、库、代理和收集器服务，以从您的应用程序中捕获分布式跟踪和指标. 您可以使用 Prometheus、Jaeger 和其他可观察性工具分析它们. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
-* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并支持设计系统和应用程序以提高可持续性. 旨在适合任何监控工具链（已支持 prometheus、warp10、riemann...）.
+* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并支持设计系统和应用程序以提高可持续性. 设计适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) — 高性能、日志、指标和事件路由器.
 
 ### Operating systems
@@ -207,7 +207,7 @@ Rust 代码和资源的精选列表.
 * [cantino/mcfly](https://github.com/cantino/mcfly)  - 浏览您的 shell 历史. 伟大的斯科特！ [![build badge](https://api.travis-ci.org/cantino/mcfly.svg?branch=master)](https://travis-ci.org/cantino/mcfly)
 * [crabz](https://github.com/sstadick/crabz) - 多线程压缩和解压 CLI 工具 [![Build Status](https://github.com/sstadick/crabz/workflows/Check/badge.svg)](https://github.com/sstadick/crabz/actions?query=workflow%3ACheck)
 * [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) — 受启发的可配置文件系统观察器 [entr](http://eradman.com/entrproject/) [![build badge](https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master)](https://travis-ci.org/cristianoliveira/funzzy)
-* [dalance/procs](https://github.com/dalance/procs) — Rust 编写的 &#39;ps&#39; 的现代替代品 [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
+* [dalance/procs](https://github.com/dalance/procs) — Rust 编写的 &#39;ps&#39; 的现代替代品 [![Regression](https://github.com/dalance/procs/actions/workflows/regression.yml/badge.svg)](https://github.com/dalance/procs/actions/workflows/regression.yml)
 * [ddh](https://github.com/darakian/ddh) — 快速重复文件查找器 [![build badge](https://api.travis-ci.org/darakian/ddh.svg?branch=master)](https://travis-ci.org/darakian/ddh)
 * [diskonaut](https://github.com/imsnif/diskonaut) — 终端可视化磁盘空间导航器 [![build badge](https://api.travis-ci.com/imsnif/diskonaut.svg?branch=main)](https://app.travis-ci.com/github/imsnif/diskonaut)
 * [dust](https://github.com/bootandy/dust) — 更直观的 du 版本
@@ -1308,7 +1308,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 * [CurrySoftware/perlin](https://github.com/CurrySoftware/perlin) [[perlin](https://crates.io/crates/perlin)]
 * [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) — 超相关、即时且可容忍错别字的全文搜索 API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)
 * [minio/minsql](https://github.com/minio/minsql) — 高性能日志搜索引擎. [![build badge](https://api.travis-ci.org/minio/minsql.svg?branch=master)](https://travis-ci.org/minio/minsql)
-* [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) [[tantivy](https://crates.io/crates/tantivy)] — [![build badge](https://api.travis-ci.org/tantivy-search/tantivy.svg?branch=main)](https://travis-ci.org/github/tantivy-search/tantivy)
+* [tantivy](https://github.com/quickwit-inc/tantivy) [[tantivy](https://crates.io/crates/tantivy)] — [![Build Status](https://github.com/quickwit-inc/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-inc/tantivy/actions/workflows/test.yml)
 
 ### Unsafe
 

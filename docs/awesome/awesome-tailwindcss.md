@@ -33,7 +33,7 @@
 **图例**：官方资源
 
 -  [Website](https://tailwindcss.com) - Tailwind CSS 官方网站.
--  [Repository](https://github.com/tailwindcss/tailwindcss) - Official Tailwind CSS repository.
+-  [Repository](https://github.com/tailwindcss/tailwindcss) - 官方 Tailwind CSS 存储库.
 -  [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - 与其他社区成员联系有关 Tailwind 的官方场所.
 -  [Tailwind UI](https://tailwindui.com) - 使用 Tailwind CSS 制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全无样式、完全可访问的 UI 组件.
@@ -256,6 +256,7 @@
 -  [Litepie Date picker](https://github.com/kenhyuwa/litepie-datepicker) - Vue.js 和 Tailwind CSS 的日期范围选择器组件.
 -  [Tailwind Datepicker](https://github.com/themesberg/tailwind-datepicker) - 添加了使用 Tailwind CSS 和 vanilla JavaScript 构建的日期选择器组件.
 -  [Tailwind Typeahead](https://github.com/basarozcan/vue-tailwindcss-typeahead) - 使用 Vue.js 和 Tailwind CSS 构建的预先输入/自动完成组件.
+-  [Material Tailwind](https://material-tailwind.com/) - 易于使用的 Tailwind CSS 和 Material Design 组件库.
 -  [Vue Notus](https://www.creative-tim.com/product/vue-notus) - 开源 Tailwind CSS 和 Vue.js UI 套件.
 -  [Tailwind Made](https://tailwindmade.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
@@ -269,6 +270,8 @@
 -  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) - 使用 Nuxt.js 和 Tailwind CSS 构建的免费登陆页面模板.
 -  [Tailmin](https://github.com/otezz/tailmin) - 使用 Vue.js 和 Tailwind CSS 构建的管理仪表板.
 -  [OhMySMTP Templates](https://github.com/ohmysmtp/templates) - 使用 Maizzle 构建的一组事务性 HTML 电子邮件模板
+-  [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - 免费的 Tailwind CSS 和 React UI 套件.
+-  [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - 免费的 Tailwind CSS 和 React 管理模板.
 
 ## Starters & Themes
 
@@ -320,7 +323,7 @@
 - [Statusfy](https://github.com/bazzite/statusfy) - 使用 Tailwind CSS 的状态页面系统.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) - 使用 Tailwind CSS 的待办事项列表应用程序.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - 英雄联盟玩家的统计网站.
-- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - 使用 Svelte 和 Tailwind CSS 的电子商务店面.
+- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) - E-commerce storefront using Svelte & Tailwind CSS.
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - 使用 Vue + Moltin + Tailwind CSS 的书店.
 - [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - 使用 React.js + Tailwind CSS 的 Ubuntu 桌面.
 

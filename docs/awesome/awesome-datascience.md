@@ -18,7 +18,7 @@
  | 链接 | 预览 |
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合数据的技术、算法开发、数据干扰等多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学课程中._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
@@ -198,7 +198,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，具有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的多合一 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的多合一 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
 | [Neptune.ai](https://neptune.ai)  | 支持数据科学家创建和共享机器学习模型的社区友好平台.  Neptune 有助于团队合作、基础设施管理、模型比较和可重复性.  |
 | [steppy](https://github.com/neptune-ml/steppy)  | 用于快速且可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
 | [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
@@ -216,7 +216,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 获取数值、文本、图像、GIS 或其他数据并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由基于革命性知识的 Wolfram 语言提供支持.  |
 | [Datadog](https://www.datadoghq.com/)  | 用于大规模数据科学的解决方案、代码和 DevOps.  |
 | [Variance](http://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
-| [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统上构建系统变得更容易.  |
+| [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
 | [Domino Data Labs](http://www.dominodatalab.com)  | 运行、扩展、共享和部署您的模型 - 无需任何基础架构或设置.  |
 | [Apache Flink](http://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](http://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
@@ -249,7 +249,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [UBIAI](https://ubiai.tools)  | 易于使用的文本注释工具，适用于具有最全面自动注释功能的团队. 支持 NER、关系和文档分类以及用于发票标签的 OCR 注释 |
 | [Trains](https://github.com/allegroai/trains)  | 面向 AI 的 Auto-Magical 实验管理器、版本控制和 DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有特征存储的开源数据密集型机器学习平台. 摄取和管理在线（MySQL 集群）和离线（Apache Hive）访问的功能，大规模训练和服务模型.  |
-| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是面向开发人员的可解释 AutoML 框架. 借助 MindsDB，您只需一行代码即可构建、训练和使用最先进的 ML 模型.  |
+| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是面向开发人员的可解释 AutoML 框架. 使用 MindsDB，您只需一行代码即可构建、训练和使用最先进的 ML 模型.  |
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于 Pytorch 的框架，将机器学习问题分解为更小的块，这些块可以无缝地粘合在一起，目标是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，可将 Pandas 库的功能扩展到 AWS 连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类似生产的环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
@@ -723,6 +723,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
 - [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
 - [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 
 ## Telegram Channels

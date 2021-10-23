@@ -18,7 +18,7 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Vitali Fokin](https://github.com/quozd) 已放弃本作品的所有版权和相关或邻接权.
+To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已放弃本作品的所有版权和相关或邻接权.
 
 
 
@@ -168,7 +168,7 @@
 
 * [Appccelerate - Command Line Parser](https://www.appccelerate.com/commandlineparser.html) - 具有流畅定义语法、不同参数类型、必需和可选参数、值限制、别名、类型转换和半自动使用帮助消息组合的命令行解析器
 * [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-* [CliFx](https://github.com/Tyrrrz/CliFx) - 用于构建命令行界面的声明性框架.
+* [CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
 * [Typin](https://github.com/adambajguz/Typin) - 简单易用的声明式框架，用于交互式 CLI 应用程序和命令行工具（直接模式），其根源在于 CliFx.
 * [clipr](https://github.com/nemec/clipr)  - 受 Python argparse 启发的 CLI 库，可将命令行转换为强类型对象. 它支持自定义参数类型、自动（和本地化）帮助生成以及多种存储解析参数的方法.
 * [CliWrap](https://github.com/Tyrrrz/CliWrap) - 命令行界面的包装器.
@@ -210,7 +210,7 @@
 * [CodeMaid](http://www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 * [StyleCop](https://github.com/StyleCop) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - 可扩展的基于规则的工具，用于查找 .NET 应用程序和库中的问题
-* [Metrics-Net](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+* [Metrics-Net](https://github.com/Recognos/Metrics.NET)  - 捕获 CLR 和应用程序级指标. 所以你知道发生了什么.
 * [AspNet.Metrics](https://github.com/alhardy/aspnet-metrics)  - 捕获 CLR、应用程序级 Web 请求指标. 使用 Metrics-Net 的中间件和扩展
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - 用于基准测试的强大 .NET 库.
 * [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **[$]**
@@ -231,7 +231,7 @@
 * [IronScheme](https://github.com/IronScheme/IronScheme) - R6RS 方案编译器、运行时和许多标准库
 * [JSIL](https://github.com/sq/JSIL) - CIL 到 JavaScript 编译器 http://jsil.org/
 * [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
-* [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+* [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic 编译器和运行时
 * [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [Netjs](https://github.com/praeclarum/Netjs)  - .NET 到 TypeScript 和 JavaScript 编译器. 便携式类库对此非常有用. 您甚至可以传递 EXE.
 * [P](https://github.com/p-org/P) - P 是一种用于异步事件驱动编程的语言.
@@ -342,7 +342,7 @@
 * [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - 支持 https://referencesource.microsoft.com 的源浏览器网站生成器
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) - 向 Web API 项目无缝添加 Swagger.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
-* [DocFX](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
+* [DocFX](https://github.com/dotnet/docfx) - 用于为 .NET 项目构建和发布 API 文档的工具
 
 ## E-Commerce and Payments
 
@@ -403,7 +403,7 @@
 * [Nez](https://github.com/prime31/Nez) - Nez 是一个免费的以 2D 为中心的框架，可与 MonoGame 和 FNA 配合使用
 * [BEPUphysics](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - 面向游戏开发者的全周期分析解决方案.
-* [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
+* [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - 虚幻引擎 .NET Core 集成
 * [osu!framework](https://github.com/ppy/osu-framework) - 一个 2D 应用程序/游戏，编写时考虑到了令人惊叹的游戏.
 
 ## GIS
@@ -449,7 +449,7 @@
 * [HandyControl](https://github.com/HandyOrg/HandyControl) - 包含一些简单常用的WPF控件
 * [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine 是一个用 C 语言开发 Web 用户界面的库#
 * [QtSharp](https://github.com/ddobrev/QtSharp) - Qt 的 Mono/.NET 绑定
-* [Qml.Net](https://github.com/qmlnet/qmlnet) - Mono/.NET/.NET Core 的跨平台 Qml/.NET 集成
+* [Qml.Net](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - 用于创建 Metro 风格 WPF 应用程序的工具包
 * [Callisto](https://github.com/timheuer/callisto)  - 用于 Windows 8 XAML 应用程序的控制工具包. 包含一些 UI 控件，以便更轻松地根据 Windows UI 准则为 Windows 应用商店创建 Windows UI 样式的应用程序.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
@@ -459,7 +459,7 @@
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建 Material Design 风格的 WPF 应用程序的工具包
 * [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中桌面和移动应用程序的跨平台 GUI 框架
-* [Dragablz](https://github.com/ButchersBoy/Dragablz) - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
+* [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕开的 WPF 选项卡控件（类似于 Chrome），支持布局且完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite 是一个为 WPF 实现类似 Office 和 Windows 8 的功能区的库.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) - 为 WinForms 实现 MS Office Ribbon 的库.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
@@ -529,7 +529,7 @@
 * [OpenCvSharp](https://github.com/shimat/opencvsharp/) - .NET Framework 的 OpenCV 的跨平台包装器.
 * [TeximpNet](https://bitbucket.org/Starnick/teximpnet) - A cross-platform .NET Standard library for reading/manipulating/writing image files. The primary focus is to create 2D/3D/Cubemap textures for graphics/game applications, notably to convert images to GPU compressed formats and generate mipmaps.  The library wraps the FreeImage native library to import/export over 30 common image formats, and wraps the Nvidia Texture Tools native library for GPU compression features. It also has a fully featured DDS format importer/exporter written in C#.
 * [Colourful](https://github.com/tompazourek/Colourful) - 用于处理色彩空间的开源 .NET 库.
-* [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp)  - 轻松更新图片网址，使其快速响应.  **[$]**
+* [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp)  - 轻松更新图像网址，使其快速响应.  **[$]**
 * [ColorHelper](https://github.com/iamartyom/ColorHelper) - 处理颜色的有用方法.
 
 ## Install tools
@@ -679,7 +679,7 @@
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - 为您的 Angular、Ember、Durandal 或任何 JavaScript 应用程序拍摄 HTML 快照
 * [CSScript](https://www.cs-script.net/) - CS-Script is a CLR based scripting system which uses C# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
-* [CsvHelper](https://github.com/JoshClose/CsvHelper) - 帮助读写 CSV 文件的库 https://github.com/JoshClose/CsvHelper
+* [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files https://github.com/JoshClose/CsvHelper
 * [RecordParser](https://github.com/leandromoh/recordparser) - 帮助读取和写入零堆分配的 CSV 和平面文件的库.
 * [Hashids.net](https://github.com/ullmark/hashids.net) - 根据 https://hashids.org 从整数生成简短的唯一 ID
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - 为 .Net 控制台应用程序创建表的流畅库.
@@ -714,6 +714,7 @@
 * [Coravel](https://github.com/jamesmh/coravel) 接近零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（等等）变得轻而易举！
 * [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - 具有 SIMD 和线程支持的极其快速且内存高效的 Levenshtein 距离计算器
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - 一个简单但功能强大的 .NET 网络爬虫库
+* [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - .NET 的简单构建版本控制，由 Git 标签提供支持
 
 ## MVVM
 
@@ -886,14 +887,14 @@
 * [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net 和 NEST
 * [PlainElastic.Net](https://github.com/Yegoroff/PlainElastic.Net) - 用于 ElasticSearch 的普通 .NET 客户端
 * [SolrNet](https://github.com/SolrNet/SolrNet) - .NET 的 Solr 客户端
-* [SolrExpress](https://github.com/solr-express/solr-express) - 用于 Solr 的简单轻量级查询 .NET 库，以可控、可构建和快速失败的方式
+* [SolrExpress](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 * [Lucene.net](https://lucenenet.apache.org/) - Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users
 
 ## Serialization
 
 * [Ceras](https://github.com/rikimaru0345/Ceras)  - Ceras 是一个二进制序列化器. 它将任何对象转换为 byte[] 并返回. 它在功能、速度和舒适度方面超越了一切. 支持引用循环、大型/复杂的继承链、将对象拆分为多个部分等.
 * [CsvExport](https://github.com/jitbit/CsvExport) - 非常简单和轻量级的 CSV 导出器，Excel 友好，转义文本和引号等.
-* [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+* [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) - 协议缓冲区是 Google 用于其大部分数据通信的二进制序列化格式的名称
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - 流行的 .NET 高性能 JSON 框架
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - servicestack.net 中使用的 JSON、JSV 和 CSV 文本序列化程序
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - 公共语言基础设施的 MessagePack 实现
@@ -930,7 +931,7 @@
 
 ## Style Guide
 
-* [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - 关于样式指南的 StackOverflow 问答
+* [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 * [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
 * [C# Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - .NET Core 有问题的异步模式列表以及如何解决这些问题的说明
 
@@ -975,7 +976,7 @@
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [ReportPortal](https://reportportal.io)  - 人工智能驱动的测试自动化仪表板. 获取、汇总和分析测试报告以确定版本健康.
-* [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) - Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
+* [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)  - 使用反射对任意两个 .NET 对象进行深度比较. 显示两个对象之间的差异.
 * [Verify](https://github.com/VerifyTests/Verify) - 验证工具，可以简单地批准复杂的模型和文件.
 * [CsCheck](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
@@ -987,7 +988,7 @@
 * [CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub 是在任何 iOS 设备上浏览和维护您的 GitHub 存储库的最佳方式！
 * [ShareX](https://github.com/ShareX/ShareX)  - ShareX 是一个免费的开源程序，可让您捕获或记录屏幕的任何区域，并只需按一下键即可共享. 它还允许将图像、文本或其他类型的文件上传到 80 多个您可以选择的受支持目的地.
 * [Myrtille](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
-* [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange 的监控系统
+* [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用程序.  **[免费][专有]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 * [Netling](https://github.com/hallatore/Netling)  - 负载测试器客户端，用于轻松进行 Web 测试. 它在使用很少的 CPU 或内存时非常快.
@@ -995,7 +996,7 @@
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理 Visual Studio 的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行的操作、错误/延迟的随机生成和实验性 GraphQL 支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) -`PowerShell` 选项卡完成 [dotnet CLI](https://github.com/dotnet/cli)
-* [SmartCode](https://github.com/dotnetcore/SmartCode)  - SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; 构建一切！！！  （包括[**代码生成器**]）
+* [SmartCode](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [**Code generator**])
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - 用于管理网络和解决网络问题的强大工具！
 * [AnyStatus](https://www.anystat.us)  - 用于监控 CI/CD 管道、服务器、网络、运行状况和指标的桌面通知应用程序.  AnyStatus 支持 Azure DevOps、Jenkins、TeamCity、AppVeyor 等.
 * [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
@@ -1054,7 +1055,7 @@
 
 * [Kestrel](https://github.com/aspnet/KestrelHttpServer) - 基于 libuv 的 ASP.NET Core Web 服务器
 * [EmbedIO](https://github.com/unosquare/embedio) - 基于 Mono 和跨平台构建的 Web 服务器
-* [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
+* [XSP](https://github.com/mono/xsp)  - Mono 的 ASP.NET 托管服务器. 该模块包括一个 Apache 模块，一个可以连接到其他 Web 服务器的 FastCGI 模块以及用于测试的独立服务器（类似于微软的 Cassini）
 
 ## WebSocket
 
