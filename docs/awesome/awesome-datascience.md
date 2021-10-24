@@ -376,7 +376,6 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Openrefine](http://openrefine.org/)
 - [plot.ly](https://plot.ly/)
 - [raw](http://rawgraphs.io)
-- [rcharts](http://rcharts.io/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [techanjs](http://techanjs.org/)
 - [Timeline](http://timeline.knightlab.com/)
@@ -439,6 +438,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Learning Machines 101](http://www.learningmachines101.com/)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://nssdeviations.com/)
+- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [The Data Engineering Show](https://www.dataengineeringshow.com/)
@@ -597,13 +597,13 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Deep and Shallow](https://deep-and-shallow.com/) - 数据科学中所有深浅不一的事物
 - [Loic Tetrel](https://ltetrel.github.io/) - 数据科学博客
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML 工程、MLOps 以及 ML 在初创公司中的使用
+- [Maria Khalusova](https://www.mariakhalusova.com/) - 数据科学博客
 
 
 ## Facebook Accounts
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
-- [Data Science 101](https://www.facebook.com/DataScience101)
 - [Data Science Day](https://www.facebook.com/DataScienceDay/)
 - [Data Science Academy](https://www.facebook.com/nycdatascience)
 - [Facebook Data Science Page](https://www.facebook.com/pages/Data-science/431299473579193?ref=br_rs)
@@ -769,7 +769,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)                                                                                               | 斯瓦米·钱德拉塞卡兰 [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).                                                                                                                                            |
 | [<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png)                                                                                                                                                 | 经过 [@kzawadz](https://twitter.com/kzawadz) 通过 [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)                                                                                                                                      |
 | [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                 | 经过 [Data Science Central](http://www.datasciencecentral.com/)                                                                                                                                                                                                |
-| [<img src="https://i.imgur.com/b9xYdZB.jpg" width="150" />](https://i.imgur.com/aoz1BJy.jpg)                                                                                                                                                 | 从 [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) 伯克利科学评论.  |
+
 | [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                 | 数据科学大战：R 与 Python |
 | [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                 | 如何选择统计或机器学习技术 |
 | [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)                                                                                                            | 选择正确的估算器 |
@@ -808,12 +808,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) （有关的： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 - [r/datasets](https://www.reddit.com/r/datasets/)
-- [MapLight](http://maplight.org/data)  - 免费提供各种数据供公众免费使用. 单击下面的数据集以了解更多信息
+- [MapLight](https://www.maplight.org/data-series)  - 免费提供各种数据供公众免费使用. 单击下面的数据集以了解更多信息
 - [GHDx](http://ghdx.healthdata.org/) - 健康指标和评估研究所 - 来自世界各地的健康和人口数据集目录，包括 IHME 结果
 - [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 - [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
 - [Open Data Sources](https://github.com/datasciencemasters/data)
-- [UNICEF Statistics and Monitoring](https://www.unicef.org/statistics/index_24287.html)
 - [UNICEF Data](https://data.unicef.org/)
 - [undata](http://data.un.org/)
 - [NASA SocioEconomic Data and Applications Center - SEDAC](http://sedac.ciesin.columbia.edu/)

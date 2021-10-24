@@ -55,7 +55,7 @@
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
-> Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
+ &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接一回路电缆以发射秘密火箭 - 一切都在您被闪电击中或被吹到下面的深处之前完成. 这是一项高风险的行为，将考验您团队的勇气和合作能力. 一个错误的步骤，你们都可能被接地. Forbidden that 游戏系列的最新一期将您带到新的高度，挑战多项新奇挑战，包括仅使用有限的信息集体规划地形和构建真正的电路.
 
 ![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
 
@@ -169,7 +169,7 @@
 
 ### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
 
- &gt; Klask 是一种棋盘游戏，具有球场形状，在球场的每一端都有两个深孔作为目标. 游戏的目的是用磁铁/游戏件在场地上推动小球，将球射过障碍物和对手并进入球门洞.
+ &gt; Klask 是一种棋盘游戏，具有球场形状，在球场的每一端都有两个深孔作为目标. 游戏的目的是用您的磁铁/游戏件在场地上推动小球，将球射过障碍物和对手并进入球门洞.
 
 ![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
 
@@ -185,7 +185,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|       2 |        8 |  45m |
+ |  2 |  8 |  45m |
 
 ### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
 
@@ -209,7 +209,7 @@
 
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
- &gt; 圣托里尼是一款容易上手的策略游戏，简单到适合小学课堂，同时旨在为铁杆游戏玩家提供可探索的游戏深度和内容，规则简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到邻近空间）和建造（建造一个与您移动的建造者相邻的建筑层）. 如果您的任一建造者达到第三级，您就获胜.
+ &gt; 圣托里尼是一款容易上手的策略游戏，简单到适合小学课堂，同时旨在为铁杆游戏玩家提供游戏深度和探索内容，规则简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到邻近空间）和建造（建造一个与您移动的建造者相邻的建筑层）. 如果您的任一建造者达到第三级，您就获胜.
 
 ![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
 
@@ -256,7 +256,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 - 6 |  5 |  5-15m |
+|   2 - 6 |        5 |  5-15m |
 
 ## Strategy
 
@@ -314,7 +314,7 @@
 
 <!-- nothing on wikipedia currently -->
 
-> ...a deck-building game set in the Marvel Comics universe. To set up the game, players choose a number of hero decks from the likes of Spider-man, Hulk, Cyclops or Wolverine, and shuffle them together to get a variety of hero decks. Players then choose a mastermind villain (Magneto, Loki, Dr. Doom, etc.) and stack that particular villain's attack cards underneath it. Next, modify the villain deck as needed based on that villain's particular scheme.
+ &gt; ...一款以漫威漫画世界为背景的套牌游戏. 为了设置游戏，玩家从蜘蛛侠、绿巨人、镭射眼或金刚狼等英雄套牌中选择一些英雄套牌，然后将它们混在一起以获得各种英雄套牌. 玩家然后选择一个主谋恶棍（万磁王、洛基、末日博士等）并将该特定恶棍的攻击卡堆叠在其下方. 接下来，根据反派的特定方案根据需要修改反派套牌.
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
@@ -374,7 +374,7 @@
 
 ### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
- &gt; 在 Clockwork Wars 中，每个玩家都在一个以幻想蒸汽朋克世界为背景的紧张战争游戏中指挥着一个独特的生物种族. 控制精明的纯种、勤劳的穴居人、强大的犀牛或骄傲的杂种人. 你的目标是打败你的敌人，并通过九个回合的比赛积累最多的胜利点数. 您通过争夺包含宝贵自然资源的领土的控制权来赚取积分. 要赢得这些战斗，您需要通过夺取村庄并将其发展为城市来获得人力. 投资研究并发现惊人的新技术、部署部队、研究强大的发现、使用间谍活动并征服敌人以赢得比赛！
+> In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/hqnGEUQvqBevvs6vmA_N8Q__itemrep/img/YBF6w9nWSsasYnzP_mQ4drM02-g=/fit-in/246x300/filters:strip_icc()/pic2355823.jpg)
 
@@ -404,7 +404,7 @@
 
 ### [Exploding Kittens](https://explodingkittens.com/)
 
-> Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
+ &gt; 爆炸小猫是俄罗斯轮盘赌的高度战略性、以猫咪为动力的版本. 它是 Kickstarter 历史上资金最多的游戏，为现代世界的和平与安宁铺平了道路. 它还具有由 The Oatmeal 插图的卡片.
 
 ![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png)
 
@@ -434,7 +434,7 @@
 
 ### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
 
- &gt; Cluedo 是一款适合三到六名玩家的谋杀悬疑游戏. 每个玩家都是谋杀案的嫌疑人，需要通过推断真正的凶手是谁、犯罪发生在何处以及使用哪种武器来证明自己的清白. 玩家通过策略性地在豪宅的不同房间周围移动并从其他玩家那里收集各种线索来做到这一点.
+> Cluedo is a murder mystery game for three to six players. Each player is a suspect in the murder and needs to prove his innocence by deducing who the actual murderer is, where the crime took place and which weapon was used. The players do this by strategically moving around the different rooms in the mansion and collecting various clues from the other players.
 
 ![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
 
@@ -541,7 +541,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  2 - 5 |  12 |  180m |
+|   2 - 5 |       12 | 180m |
 
 ### [Blokus](https://en.wikipedia.org/wiki/Blokus)
 
@@ -603,11 +603,21 @@
 | ------: | -------: | ------: |
  |  1 - 5 |  15+ |  60-180m |
 
+### [Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)
+
+ &gt; 在 Ark Nova 中，您将规划和设计一个现代化、科学管理的动物园. 以拥有最成功的动物园为最终目标，您将建造围栏、收容动物并支持世界各地的保护项目. 专家和独特的建筑将帮助您实现这一目标.
+
+![Ark Nova](https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep/img/IRqrT7kOqPQilogauyQkOnLx-HU=/fit-in/246x300/filters:strip_icc()/pic6293412.jpg)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | ------: |
+ |  1 - 4 |  14+ |  90-150m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
 
-> In Jungle Speed, you must rely on your keen sense of observation and quick reflexes. It requires a steady hand -- which can be hard to maintain during the many fits of maniacal laughter! The wooden Totem sits in the middle of the table, waiting for the player with the fastest reflexes to snatch it up and win the game. Each player is dealt a hand of cards. In order to win you must be the first player to get rid of all of your cards. Each turn, all of the players reveal one of their cards. If two cards are identical, those players must make a grab for the Totem. The faster player then gives their cards to their unfortunate adversary.
+ &gt; 在丛林速度中，你必须依靠你敏锐的观察力和快速的反应能力. 它需要一只稳定的手——在多次疯狂的笑声中很难保持稳定！ 木制图腾坐在桌子中央，等待反应最快的玩家抢夺它并赢得比赛. 每个玩家都拿到一手牌. 为了获胜，您必须是第一个摆脱所有牌的玩家. 每一回合，所有玩家展示他们的一张牌. 如果两张卡片相同，则这些玩家必须抢夺图腾. 更快的玩家然后将他们的牌交给他们不幸的对手.
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
@@ -727,7 +737,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
-> In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
+ &gt; 在世界最遥远的地方，魔法仍然存在，由大地、天空和一切自然事物的精神体现. 随着欧洲大国将他们的殖民帝国扩张得越来越远，他们将不可避免地声称拥有一个灵魂仍然拥有权力的地方——当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -834,7 +844,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  4 - 8 |  12 |  30m |
+|   4 - 8 |       12 |  30m |
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
@@ -860,7 +870,7 @@
 
 ### [SuperFight](https://www.superfightgame.com/)
 
-> A game of absurd arguments
+&gt; 一场荒谬的争论
 
  Superfight 是一款您与朋友因荒谬的打架而争论的游戏. 游戏非常简单. 玩家使用这些卡片来创造可笑的战士，并争论哪个角色会在战斗中获胜. 然后桌子周围的每个人都投票给获胜者. 可以想象，战斗是史诗般的和热闹的. 它对所有年龄段的人都很有趣，并且适合所有类型的玩家.
 
@@ -898,7 +908,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  3 - 6 |  12 |  30m |
+|   3 - 6 |       12 |  30m |
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 
@@ -908,7 +918,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|  4 - 16 |       13 |  60m |
+ |  4 - 16 |  13 |  60m |
 
 ### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
 
@@ -922,7 +932,7 @@
 
 ### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates)
 
- &gt; Catan: Explorers &amp; Pirates 是 The Settlers of Catan 的第四个主要扩展包. 它包括五个场景和三个任务； 一些场景使用了任务，而其他场景则没有. 此扩展包基于 CATAN 基本游戏规则，但也包含许多新游戏机制. 例如，船只现在配备了远征装备，可以在船上自由移动. 在船上，您将定居者、船员、鱼或香料运送到海上. 主要目标是在尚未发现的岛屿上建立新的前哨站，并以最熟练的方式完成卡坦议会的任务.  Catan: Explorers &amp; Pirates 在三个主要方面与 Catan 基础游戏不同. 首先，游戏中不是只有一个岛屿供玩家建造和争夺资源，而是存在三个岛屿. 其次，Catan: Explorers &amp; Pirates 不使用城市，而是允许玩家建立港口定居点. 与城市一样，港口定居点价值两个胜利点 (VP)，获胜所需的 VP 数量取决于场景. 第三，如果玩家在生产掷骰期间没有获得资源（掷骰为 7 时除外），她将获得 1 枚金币作为补偿. 获胜者是第一个达到 17 个 VP 的人.
+ &gt; Catan: Explorers &amp; Pirates 是 The Settlers of Catan 的第四个主要扩展包. 它包括五个场景和三个任务； 一些场景使用了任务，而其他场景则没有. 此扩展包基于 CATAN 基本游戏规则，但也包含许多新游戏机制. 例如，船只现在配备了远征装备，可以在船上自由移动. 在船上，您将定居者、船员、鱼或香料运送到海上. 主要目标是在尚未发现的岛屿上建造新的前哨站，并以最熟练的方式完成卡坦议会的任务.  Catan: Explorers &amp; Pirates 在三个主要方面与 Catan 基础游戏不同. 首先，游戏中不是只有一个岛屿供玩家建造和争夺资源，而是存在三个岛屿. 其次，Catan: Explorers &amp; Pirates 不使用城市，而是允许玩家建立港口定居点. 与城市一样，港口定居点价值两个胜利点 (VP)，获胜所需的 VP 数量取决于场景. 第三，如果玩家在生产掷骰期间没有获得资源（掷骰为 7 时除外），她将获得 1 枚金币作为补偿. 获胜者是第一个达到 17 个 VP 的人.
 
 ![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc()/pic2420310.jpg)
 
@@ -943,7 +953,7 @@
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
  &gt; 与城市中其他有影响力的家族竞争，通过熟练使用助手和资源来获得最光荣的头衔. 成功做到这一点的球员成为马拉喀什新的“Obermufti”.
- &gt; 马拉喀什进行三轮比赛，每轮包括四轮. 在每一回合，玩家同时秘密地从屏幕后面选择三个彩色圆柱体. 然后依次将匹配的彩色助手放置在自己的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，玩家依次选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些从前一轮被卡住但现在已经出现的圆柱体），并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的行动. 行动可以让玩家获得财富，这些财富可以用来换取在城市的影响力. 随着游戏的进行，执行各种动作还可以获得奖励并进一步增强动作. 在游戏结束时得分最多的玩家获胜.
+ &gt; 马拉喀什进行三轮比赛，每轮包括四轮. 在每一回合，玩家同时秘密地从屏幕后面选择三个彩色圆柱体. 然后依次将匹配的彩色助手放置在自己的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，玩家依次选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些从前一轮被卡住但现在已经出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的行动. 行动可以让玩家获得财富，这些财富可以用来换取在城市的影响力. 随着游戏的进行，执行各种动作还可以获得奖励并进一步增强动作. 在游戏结束时得分最多的玩家获胜.
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
@@ -1023,6 +1033,28 @@
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  3 - 6 |  10+ |  10-60m |
+
+### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
+
+ &gt; 踏上冒险、家庭、意外惊喜和宠物的过山车生活之路！ 想要走家庭道路，开始职业生涯，还是冒险冒险？ 在这款游戏中，玩家可以在人生的曲折中做出自己激动人心的选择. 从开始到退休，在游戏板上移动汽车令牌，体验与家庭、事业和其他人生里程碑相关的意外惊喜. 玩家可以在此版本的 The Game of Life 游戏中领养宠物. 游戏结束时金钱最多的玩家获胜！
+&gt; 需要成人组装.
+&gt; 这个棋盘游戏还有一个数字应用程序版本.
+
+![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  2 - 6 |  8+ |  30-80m |
+
+### [The Singaporean Dream](https://www.thesingaporeandream.com/)
+
+&gt; 从 Monopoly Deal 衍生出来的，新加坡人梦想是一款互动纸牌游戏，您可以在其中玩弄、抱怨和付出代价，成为完美的新加坡人.
+
+![The Singaporean Dream image](https://cf.geekdo-images.com/AgAtrZRUwIttv1wRlvMskQ__itemrep/img/T6flb1-mQiTpzWu2S1dSQrhoUjw=/fit-in/246x300/filters:strip_icc()/pic4481765.png)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  2 - 6 |  18+ |  20-30m |
 
 ## Contribute
 

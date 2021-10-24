@@ -23,7 +23,7 @@
   * [Google Cloud Platform](https://cloud.google.com)
     * App Engine - 每天 28 个前端实例小时，每天 9 个后端实例小时
     * Cloud Firestore - 1GB 存储空间，每天 50,000 次读取，20,000 次写入，20,000 次删除
-    * Compute Engine - 1 个不可抢占的 e2-micro、30GB 硬盘、5GB 快照存储（仅限某些地区）、每月从北美到所有地区目的地（不包括中国和澳大利亚）的 1 GB 网络出口
+    * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
     * 云存储 - 5GB、1GB 网络出口
      * Cloud Shell - 基于 Web 的 Linux shell/基本 IDE，具有 5GB 的持久存储. 每周限制 60 小时
     * Cloud Pub/Sub - 每月 10GB 的消息
@@ -56,7 +56,7 @@
     * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 每月存储用户
     * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 个活跃用户，无限的私人 Git 存储库
     * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 个免费的并行作业，时间不受限制，适用于 Linux、macOS 和 Windows 的开源
-    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
+    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 每天 8,000 条消息
     * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 个免费公共负载均衡 IP (VIP)
     * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
     * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 每月 5GB 出站流量
@@ -253,7 +253,7 @@
 
   * [3Cols](https://3cols.com/) - A free cloud based code snippet manager for personal and collaborative code.
   * [Bitwarden](https://bitwarden.com) — 个人、团队和商业组织存储、共享和同步敏感数据的最简单、最安全的方式.
-  * [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also it provide self-hostable open-source version.
+  * [Braid](https://www.braidchat.com/)  — 专为团队设计的聊天应用程序. 公共访问组、无限用户、历史记录和集成免费. 它还提供自托管的开源版本.
   * [cally.com](https://cally.com/)  — 找到会议的最佳时间和日期. 使用简单，适用于小型和大型团体.
   * [Calendly](https://calendly.com)  — Calendly 是连接和安排会议的工具. 免费计划为每位用户提供 1 个日历连接和无限会议. 还提供桌面和移动应用程序.
   * [Discord](https://discord.com/)  — 与公共/私人房间聊天.  Markdown 文本、语音、视频和屏幕共享功能. 无限用户免费.
@@ -299,6 +299,7 @@
   * [Tugboat](https://tugboat.qa)  - 自动和按需预览每个拉取请求. 所有人免费，非营利组织的免费 Nano 层.
   * [whereby.com](https://whereby.com/) — 一键式视频对话，免费（以前称为出现.in）
   * [vadoo.tv](https://vadoo.tv/)  — 视频托管和营销变得简单. 一键上传视频. 记录、管理、分享等. 免费套餐提供多达 10 个视频、1 GB 存储空间、10 GB 带宽/月
+  * [vspace](https://vvv.space/) — 带有私人/公共空间的免费链接管理器，包括 slack 和 google docs 集成以及 chrome 插件.
   * [userforge.com](https://userforge.com/)  - 相互关联的在线角色、用户故事和上下文映射. 帮助保持设计和开发同步，最多 3 个角色和 2 个协作者免费.
   * [wistia.com](https://wistia.com/) — 带有观众分析、高清视频交付和营销工具的视频托管，以帮助了解您的访客、25 个视频和 Wistia 品牌播放器
   * [wormhol.org](https://www.wormhol.org/)  — 简单的文件共享服务. 与任意数量的同行共享最大 5GB 的无限文件.
@@ -407,7 +408,6 @@
   * [Squash Labs](https://www.squash.io/) — 为每个分支创建一个 VM，并使您的应用程序可从唯一的 URL、无限的公共和私有存储库、高达 2 GB 的 VM 大小使用.
   * [stackahoy.io](https://stackahoy.io)  — 100% 免费. 无限制的部署、分支和构建
   * [styleci.io](https://styleci.io/) — 仅限公共 GitHub 存储库
-  * [travis-ci.org](https://travis-ci.org/) — 公共 GitHub 存储库免费
   * [Mergify](https://mergify.io) — GitHub 的工作流自动化和合并队列 — 免费用于公共 GitHub 存储库
   * [Integromat](https://www.integromat.com)  — 工作流自动化工具，可让您使用 UI 连接应用程序和自动化工作流，它支持许多应用程序和最流行的 API. 公共 GitHub 存储库免费，免费层级为 100 Mb、1000 次操作和 15 分钟的最小间隔.
 
@@ -803,7 +803,7 @@
   * [pythonanywhere.com](https://www.pythonanywhere.com/)  — 云 Python 应用托管. 初学者帐户是免费的，在 your-username.pythonanywhere.com 域中有 1 个 Python Web 应用程序，512 MB 私有文件存储空间，一个 MySQL 数据库
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP 的内存平台即服务产品. 免费的开发者帐户带有 1 GB 结构化数据、1 GB 非结构化数据和 1 GB Git 数据，并允许您运行 HTML5、Java 和 HANA XS 应用程序
   * [staroid.com](https://staroid.com)  - 旨在为开源开发人员提供资金的托管 Kubernetes 命名空间服务. 释放 8 个 CPU 和 16GB 的 RAM 命名空间，用于测试公共存储库的分支和拉取请求. 免费测试命名空间每 30 分钟关闭一次. 最多 2 个并发测试命名空间.
-  * [SUSE Developer Program](https://developer.suse.com)  — 免费体验云原生生产力. 通过您自己的开发人员沙箱亲身体验 SUSE Cloud Application Platform.  1 免费申请. 免费子域与 CLI 的 API 一起提供.  1 GB 的存储和内存配额.
+  * [SUSE Developer Program](https://developer.suse.com) — Experience cloud native productivity for free. Get hands-on with the SUSE Cloud Application Platform with your own Developer Sandbox. 1 Free Application. Free subdomain provided along with API for CLI. Storage & Memory Quota of 1 GB.
   * [fly.io](https://fly.io/)  - Fly 是一个适用于需要在全球范围内运行的应用程序的平台. 它在靠近用户的地方运行您的代码，并在您的应用程序最繁忙的城市扩展计算. 编写您的代码，将其打包到 Docker 映像中，将其部署到 Fly 的平台，然后让这些工作完成所有工作，让您的应用程序保持活力. 副项目免费，每月 10 美元的服务积分自动适用于任何付费服务. 如果您运行非常小的虚拟机，积分将大有帮助.
   * [Divio](https://www.divio.com/)  - 仅使用 Docker 管理云应用程序部署的平台. 可免费订阅开发项目.
   * [Koyeb](https://www.koyeb.com)  - Koyeb 是一个开发人员友好的无服务器平台，用于在全球部署应用程序. 通过基于 git 的部署、本机自动缩放、全球边缘网络以及内置服务网格和发现，无缝运行 Docker 容器、Web 应用程序和 API.  Koyeb 提供两种 nano 服务，以通过其永久免费层运行您的应用程序，并使用免费资源赞助开源项目.

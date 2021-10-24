@@ -168,7 +168,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 
 * [Appccelerate - Command Line Parser](https://www.appccelerate.com/commandlineparser.html) - 具有流畅定义语法、不同参数类型、必需和可选参数、值限制、别名、类型转换和半自动使用帮助消息组合的命令行解析器
 * [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-* [CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces.
+* [CliFx](https://github.com/Tyrrrz/CliFx) - 用于构建命令行界面的声明性框架.
 * [Typin](https://github.com/adambajguz/Typin) - 简单易用的声明式框架，用于交互式 CLI 应用程序和命令行工具（直接模式），其根源在于 CliFx.
 * [clipr](https://github.com/nemec/clipr)  - 受 Python argparse 启发的 CLI 库，可将命令行转换为强类型对象. 它支持自定义参数类型、自动（和本地化）帮助生成以及多种存储解析参数的方法.
 * [CliWrap](https://github.com/Tyrrrz/CliWrap) - 命令行界面的包装器.
@@ -256,7 +256,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - 随时可用、可扩展且对开发人员友好的构建服务器 — 开箱即用 **[$]**
 * [MyGet](https://www.myget.org/) - 持续集成和部署，NuGet、NPM、Bower 和 VSIX 的托管包存储库 **[$]**
-* [AppVeyor](https://www.appveyor.com/)  - .NET 持续集成和部署即服务.  **[$]** **[OSS 免费]**
+* [AppVeyor](https://www.appveyor.com/) - .NET Continuous Integration and Deployment as a service. **[$]** **[Free for OSS]**
 
 ## Cryptography
 
@@ -295,7 +295,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [Cassandra](https://github.com/datastax/csharp-driver) - Apache Cassandra 的 DataStax .NET 驱动程序
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - 官方 Couchbase .NET 客户端库，基于 Enyim memcached 客户端
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
-* [Storage.Net](https://github.com/aloneguid/storage) - Generic storage abstractions and implementations for popular cloud storage providers like Amazon S3, Azure Service Bus, Azure Event Hub, Azure Storage, Azure Data Lake Store and many others.
+* [Storage.Net](https://github.com/aloneguid/storage) - 流行的云存储提供商的通用存储抽象和实现，如 Amazon S3、Azure 服务总线、Azure 事件中心、Azure 存储、Azure 数据湖存储等.
 
 ## Datetime
 
@@ -576,15 +576,16 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [Microsoft.Extensions.DependencyInjection](https://github.com/aspnet/DependencyInjection) - ASP.NET Core 应用程序的默认 IoC 容器.
 * [Scrutor](https://github.com/khellang/Scrutor) - Microsoft.Extensions.DependencyInjection 的程序集扫描扩展.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Visual Studio 使用的托管可扩展性框架 (MEF) 实现.
-* [TinyIoC](https://github.com/grumpydev/TinyIoC) - 一个易于使用、无障碍的控制反转容器，适用于小型项目、图书馆和初学者.
+* [TinyIoC](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - 基于 .NET 的解决方案的轻量级、可移植依赖注入框架.
 
 ## JavaScript Engines
 
 * [ClearScript](https://github.com/Microsoft/ClearScript)  - 一个库，可以轻松地将脚本添加到您的 .NET 应用程序中. 它目前支持 JavaScript（通过 V8 和 JScript）和 VBScript.
-* [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, macOS, and Linux
+* [Edge.js](https://github.com/tjanczuk/edge) - 在 Windows、macOS 和 Linux 上运行 .NET 和 Node.js 代码
 * [Jint](https://github.com/sebastienros/jint) - 用于 .NET 的 JavaScript 解释器，它提供完全的 ECMA 5.1 合规性并且可以在任何 .NET 平台上运行.
 * [Jurassic](https://github.com/paulbartrum/jurassic)  - ECMAScript 语言和运行时的实现. 它旨在为 .NET 提供性能最佳且最符合标准的 JavaScript 实现.
+* [YantraJS](https://github.com/yantrajs/yantra) - .NET Standard 的 JavaScript 运行时（类似于 NodeJS），将 JavaScript 编译为 IL，支持许多 ES6 功能、生成器、CommonJS 模块、CSX 模块和表达式编译器.
 
 ## Logging
 
@@ -648,9 +649,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [AutoDiff](https://github.com/alexshtf/autodiff)  - AutoDiff 是一个用于快速计算由表达式定义的函数的梯度的库. 主要用于数值优化
 * [GeometRi](https://github.com/RiSearcher/GeometRi.CSharp) - .Net 的简单轻量级计算几何库
 * [Rationals](https://github.com/tompazourek/Rationals) - 以任意精度为 .NET 实现有理数算术.
-* [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) - 用于英特尔 MKL 的简单跨平台 .NET API.
+* [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 * [Vim.Math3d](https://github.com/vimaec/math3d) - System.Numerics 的功能丰富的跨平台替代品，支持一致的序列化和二进制布局，以及用于高效 3D 数学的附加结构和算法. 
+* [WPF-Math](https://github.com/ForNeVeR/wpf-math) - .NET 库，用于使用 LaTeX 排版样式呈现数学公式，用于 WPF 框架
 
 ## Media
 
@@ -761,6 +763,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [Outlook Redemption](http://www.dimastr.com/redemption/home.htm)  - 用于 Outlook 对象模型和（扩展）MAPI 的库. 支持 Outlook 98 - 2019.在 Exchange 和 Outlook 中处理对象/邮件/帐户/文件夹.  **[$]**
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - 无需安装 Microsoft Office 即可处理 PowerPoint 演示文稿的流畅 API.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - 一个微型 Excel 助手避免 OOM 和高性能来创建/映射/模板填充数据.
+* [Toxy](https://github.com/nissl-lab/toxy) - .NET 文本提取框架支持几种文件格式
 
 ## ORM
 
@@ -770,6 +773,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [Dapper](https://github.com/StackExchange/Dapper) - .NET 的简单对象映射器 [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - 通过为您的 POCO 添加基本 CRUD 操作（获取、插入、更新、删除）来补充 Dapper 的小型库
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) - 最快的 Dapper 微 ORM 扩展
+* [SqlSugar](https://github.com/donet5/SqlSugar) - 另一个 ORM 库支持许多 RDBMS，包括 MySql、SqlServer、Sqlite、Oracle、Postgresql
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 * [NHibernate](https://github.com/nhibernate) - NHibernate 对象关系映射器
 * [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) - 流畅、无 XML、为 NHibernate 编译安全、自动化、基于约定的映射.
@@ -777,7 +781,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - 轻量、简单、快速的基于约定的 POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - 一款永远爱你的小巧、快乐的数据访问工具.
 * [LINQ to DB](https://github.com/linq2db/linq2db) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供简单、轻便、快速且类型安全的层.
-* [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM 是用于 .NET 框架的微型对象关系映射器. 它旨在易于使用、可扩展和可测试.
+* [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite) MicroLite ORM is a micro Object Relational Mapper for the .NET framework. It is designed to be easy to use, extensible and testable.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - POCO 的一个小 ORM 风格的东西
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) - 期待已久的完全异步 PetaPoco 分叉
 * [NPoco](https://github.com/schotime/NPoco)  - 将查询结果映射到 POCO 对象的简单 microORM. 基于 Schotime 的 PetaPoco 分支
@@ -996,7 +1000,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理 Visual Studio 的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行的操作、错误/延迟的随机生成和实验性 GraphQL 支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) -`PowerShell` 选项卡完成 [dotnet CLI](https://github.com/dotnet/cli)
-* [SmartCode](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [**Code generator**])
+* [SmartCode](https://github.com/dotnetcore/SmartCode)  - SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; 构建一切！！！  （包括[**代码生成器**]）
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - 用于管理网络和解决网络问题的强大工具！
 * [AnyStatus](https://www.anystat.us)  - 用于监控 CI/CD 管道、服务器、网络、运行状况和指标的桌面通知应用程序.  AnyStatus 支持 Azure DevOps、Jenkins、TeamCity、AppVeyor 等.
 * [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
@@ -1024,7 +1028,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，使任何 Web 开发人员的生活更加轻松
 * [Resharper](https://www.jetbrains.com/resharper/) - Visual Studio 的开发人员生产力工具 **[$]**
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
-* [CodeContracts](https://github.com/Microsoft/CodeContracts) - 用于 .NET 的 CodeContracts 工具的源代码
+* [CodeContracts](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - 在 Visual Studio 边距和滚动条上显示当前编辑文件的实时 Git 更改
 * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) - Visual Studio Professional（及更高版本）的一组扩展，可提高开发人员的工作效率.
 * [Tabs Studio](https://tabsstudio.com/)  - 具有多个选项卡行、选项卡着色和选项卡分组的 Visual Studio 选项卡管理器.  **[$]**
@@ -1096,7 +1100,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) 已�
 * [C# Algorithms, Data Structures](https://github.com/aalhour/C-Sharp-Algorithms) - 算法和数据结构实现的列表.
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) - 一组很棒的 .NET 核心库、工具、框架和软件
 * [ASP.NET Core Library and Framework Support](https://github.com/jpsingleton/ANCLAFS) - ASP.NET Core 和 .NET Core 当前支持的 .NET 库和框架列表）.
-* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
+* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) - 精选的 .NET Performance 书籍、课程、培训、会议演讲、博客和最鼓舞人心的开源贡献者的精选列表.
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) - 域驱动设计 (DDD)、命令查询责任分离 (CQRS)、事件溯源和事件风暴资源的精选列表
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - 由社区驱动的高质量优秀 Unity 资产、项目和资源的分类集合.
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - 一组用于 Xamarin 移动项目的有趣库/工具.

@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 - [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio 是一种为所有物联网设备添加网状网络功能和 WiFi 互联网访问的解决方案，它与 Arduino 兼容.
 - [Raspberry Pi](https://www.raspberrypi.org/)  - Raspberry Pi 是一种低成本、信用卡大小的计算机，可插入计算机显示器或电视，并使用标准键盘和鼠标. 它能够执行您希望台式计算机执行的所有操作，从浏览互联网和播放高清视频，到制作电子表格、文字处理和玩游戏.
 - [Tessel](https://tessel.io/)  - Tessel 是一个完全开源和社区驱动的物联网和机器人开发平台. 它包含开发板、硬件模块附加组件以及在其上运行的软件.
-- [UDOO](http://www.udoo.org) - UDOO 是一款带有集成 Arduino 2 兼容微控制器的单板计算机，专为计算机科学教育、创客世界和物联网而设计.
+- [UDOO](http://www.udoo.org) - UDOO 是带有集成 Arduino 2 兼容微控制器的单板计算机，专为计算机科学教育、创客世界和物联网而设计.
 
 ### Software
 
@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 
  - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn 是一个开源软件框架，可让设备和应用程序轻松发现彼此并进行通信.
  - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit 是一个框架，用于与用户家中的连接配件进行通信和控制.
+ - [AREG SDK](https://github.com/aregtech/areg-sdk) - AREG SDK 是一个以接口为中心的实时异步通信引擎，支持分布式和 [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)计算，连接的事物在其中交互并提供服务，就好像它们像瘦分布式服务器一样.
  - [Astarte](https://github.com/astarte-platform/astarte)  - Astarte 是一个用 Elixir 编写的开源物联网平台. 它是一种统包式解决方案，包含将设备群连接到一组远程应用程序所需的一切. 它执行数据建模、自动数据缩减、实时事件，并为您提供现代 IoT 平台中您可能期望的任何功能. 目前，Linux 和 ESP32 设备使用提供的 SDK 开箱即用.
  - [Blynk](http://www.blynk.cc)  - Blynk 是一个为互联事物创建 iOS 和 Android 应用程序的平台. 您只需拖放小部件（就在智能手机上）即可轻松为所有项目构建图形界面. 支持以太网、WiFi、蓝牙、GSM/GPRS、USB/串行连接与来自 Arduino、Raspberry、ARM mbed、Particle、RedBear 等的各种原型平台.
  - [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly 是一个用于移动和物联网设备的通用分析平台，以开源形式提供.
@@ -107,7 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
  - [Thingsboard](https://thingsboard.io)  - 一个开源物联网平台. 物联网解决方案的设备管理、数据收集、处理和可视化.
  - [Thingspeak](https://thingspeak.com/)  - 一种开源物联网分析平台服务，可让您在云中聚合、可视化和分析实时数据流. 您可以将数据从您的设备发送到 ThingSpeak，创建实时数据的即时可视化，并发送警报.
  - [VerneMQ](https://github.com/erlio/vernemq)  - VerneMQ 是一种高性能的分布式 MQTT 代理，可连接物联网、M2M、移动和 Web 应用程序. 它在商品硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
- - [Kuzzle](https://github.com/kuzzleio/kuzzle)  - 具有实时发布/订阅或地理围栏等高级功能的开源后端，以及支持 MQTT、LoRaWAN 等的多协议接口.  ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+ - [Kuzzle](https://github.com/kuzzleio/kuzzle)  - 具有实时发布/订阅或地理围栏等高级功能的开源后端以及支持 MQTT、LoRaWAN 等的多协议接口.  ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
  - [DevicePilot](https://www.devicepilot.com) - 连接设备的运营分析（包括永久免费层）.
  - [EMQ X](https://github.com/emqx/emqx) - 适用于 5G 时代物联网的可扩展且可靠的实时 MQTT 消息传递引擎.
  - [Waterstream](https://waterstream.io/) - MQTT 代理利用 Apache Kafka 作为其自己的存储和分发引擎.
@@ -127,7 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化您的 MQTT 主题的工具，MQTT 瑞士军刀.
  - [ops](https://ops.city/) - 一个免费的开源工具，用于构建、运行和部署 linux 应用程序作为 unikernel.
  - [SmartObject](https://github.com/PeterEB/smartobject)  - 一个智能对象类，可帮助您在 JavaScript 应用程序中创建 IPSO 智能对象. 另见：IPSO联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
- - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - 开源制造应用平台（结合各种开源解决方案并打包在 Helm chart 中，例如 nodered、VerneMQ 和 timescaleDB）
+ - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - 开源制造应用平台（将各种开源解决方案组合并打包在 Helm chart 中，例如 nodered、VerneMQ 和 timescaleDB）
  - [QuestDB](https://github.com/questdb/questdb)  - 用于实时分析和高性能应用程序的开源时间序列数据库. 支持通过 InfluxDB 线路协议和 SQL 作为查询语言的高吞吐量摄取.
 
 #### Miscellaneous
@@ -154,7 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bluetooth_Smart_Logo.svg/241px-Bluetooth_Smart_Logo.svg.png" /> - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy) (Bluetooth Special Interest Group)
 
-低功耗蓝牙（Bluetooth LE、BLE，作为蓝牙智能销售）是一种无线个人区域网络技术，由蓝牙特别兴趣小组设计和销售，旨在针对医疗保健、健身、信标、安全和家庭娱乐行业的新应用.  —— [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
+低功耗蓝牙（Bluetooth LE、BLE，作为蓝牙智能销售）是一种无线个人区域网络技术，由蓝牙特别兴趣小组设计和销售，旨在用于医疗保健、健身、信标、安全和家庭娱乐行业的新应用.  —— [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
 
  &gt; 与经典蓝牙相比，Bluetooth Smart 旨在提供显着降低的功耗和成本，同时保持相似的通信范围. 蓝牙 SIG 预测，到 2018 年，超过 90% 的蓝牙智能手机将支持蓝牙智能.
 
@@ -182,7 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Wi-FI_Alliance_Logo.png" /> - [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi) (Wi-Fi Alliance)
 
- Wi-Fi（或WiFi）是一种允许电子设备联网的局域无线计算机联网技术，主要使用2.4吉赫（12厘米）UHF和5吉赫（6厘米）SHF ISM无线电频段.  —— [Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi)
+ Wi-Fi（或WiFi）是一种允许电子设备联网的局域无线计算机联网技术，主要使用2.4GHz（12厘米）UHF和5GHz（6厘米）SHF ISM无线电频段.  —— [Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi)
 
  &gt; Wi-Fi 联盟将 Wi-Fi 定义为任何基于电气和电子工程师协会 (IEEE) 802.11 标准的“无线局域网”(WLAN) 产品.[1] 但是，术语“Wi-Fi”在通用英语中用作“WLAN”的同义词，因为大多数现代 WLAN 都基于这些标准.  “Wi-Fi”是 Wi-Fi 联盟的商标.  “Wi-Fi Certified”商标只能用于成功通过Wi-Fi联盟互操作性认证测试的Wi-Fi产品.
 
@@ -191,14 +192,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出东西.
 
  6LoWPAN 是 IPv6 over Low power Wireless Personal Area Networks 的首字母缩写词.  6LoWPAN 是 IETF 互联网领域中已结束的工作组的名称.  —— [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
-&gt; 6LoWPAN 概念源于“互联网协议可以而且应该应用于最小的设备”的想法，并且处理能力有限的低功耗设备应该能够参与物联网.
+&gt; 6LoWPAN 概念源于“互联网协议可以而且应该应用于即使是最小的设备”的想法，并且具有有限处理能力的低功耗设备应该能够参与物联网.
  6LoWPAN 组定义了封装和报头压缩机制，允许通过基于 IEEE 802.15.4 的网络发送和接收 IPv6 数据包.  IPv4 和 IPv6 是局域网、城域网和广域网（如 Internet）数据传输的主力军. 同样，IEEE 802.15.4 设备提供无线域中的传感通信能力. 然而，这两个网络的固有性质是不同的.
 
 #### <img width="50" src="https://www.threadgroup.org/portals/0/images/contact/img1.svg" /> - [Thread](http://threadgroup.org/) (Thread Group)
 
 Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络上进行通信.
 
- &gt; 2014 年 7 月，Google Inc 的 Nest Labs 宣布与三星、ARM Holdings、Freescale、Silicon Labs、Big Ass Fans 和锁公司 Yale 建立一个工作组，试图通过为产品提供 Thread 认证，使 Thread 成为行业标准. 目前使用的其他协议包括 ZigBee 和蓝牙智能.
+ &gt; 2014 年 7 月，Google Inc 的 Nest Labs 宣布与三星、ARM Holdings、飞思卡尔、Silicon Labs、Big Ass Fans 和锁公司耶鲁公司组成一个工作组，试图通过为产品提供 Thread 认证，使 Thread 成为行业标准. 目前使用的其他协议包括 ZigBee 和蓝牙智能.
  Thread 使用 6LoWPAN，而 6LoWPAN 又使用具有网状通信的 IEEE 802.15.4 无线协议，ZigBee 和其他系统也是如此. 然而，Thread 是 IP 可寻址的，具有云访问和 AES 加密. 它支持网络上的 250 多个设备.
 
 
@@ -229,7 +230,7 @@ Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络�
 
  Eddystone 是 Google 于 2015 年 7 月发布的信标技术配置文件.该开源跨平台软件通过蓝牙低功耗信标格式为用户提供位置和接近度数据.  —— [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
 
- &gt; 虽然与苹果 2013 年发布的 iBeacon 类似，但 Eddystone 可在 Android 和 iOS 上运行，而 iBeacon 仅限于 iOS 平台. 这两种软件的一个实际应用是，企业主可以根据智能手机的实时位置定位潜在客户.
+ &gt; 虽然与苹果2013年发布的iBeacon类似，但Eddystone可以在Android和iOS上运行，而iBeacon仅限于iOS平台. 这两种软件的一个实际应用是，企业主可以根据智能手机的实时位置定位潜在客户.
 
 #### <img width="50" src="http://www.httptechnology.com.au/logo.jpg" /> - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (IETF)
 
@@ -296,7 +297,7 @@ OPC-UA 不仅是一种工业自动化协议，也是一种允许对工业环境�
 
 - [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - 物联网创新 (AIOTI) 旨在加强不同物联网参与者（行业、中小企业、初创企业）和部门之间的联系并建立新的关系.
 - [Bluetooth Special Interest Group](https://www.bluetooth.com/) - 蓝牙特别兴趣小组 (SIG) 是监督蓝牙标准制定以及蓝牙技术和商标向制造商许可的机构.
-- [IPSO Alliance](http://www.ipso-alliance.org/) - IPSO 联盟通过提高认识、提供教育、促进行业发展、开展研究以及更好地了解 IP 及其在物联网中的作用，为行业发展奠定了基础.
+- [IPSO Alliance](http://www.ipso-alliance.org/) - IPSO 联盟通过提高意识、提供教育、促进行业发展、开展研究以及更好地了解知识产权及其在物联网中的作用，为行业发展奠定了基础.
 - [LoRa Alliance](https://www.lora-alliance.org/)  - LoRa 联盟是一个开放的、非盈利的成员协会，它相信物联网时代已经到来. 它由行业领导者发起，其使命是标准化部署在世界各地的低功耗广域网 (LPWAN)，以实现物联网 (IoT)、机器对机器 (M2M)、智慧城市和工业应用.
 - [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/)  - OPC 基金会的使命是管理一个全球组织，在该组织中，用户、供应商和财团合作为工业自动化中的多供应商、多平台、安全可靠的互操作性创建数据传输标准. 为了支持这一使命，OPC 基金会
 创建和维护规范，通过认证测试确保符合 OPC 规范，并与行业领先的标准组织合作.
@@ -311,7 +312,7 @@ OPC-UA 不仅是一种工业自动化协议，也是一种允许对工业环境�
 
 #### [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337) (2015) *by [Nitesh Dhanjani](http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1)* [5.0]
 
- &gt; 具有数十亿连接“事物”的未来包括巨大的安全问题. 这本实用书探讨了恶意攻击者如何滥用基于物联网的流行设备，包括无线 LED 灯泡、电子门锁、婴儿监视器、智能电视和联网汽车.
+ &gt; 具有数十亿连接“事物”的未来包括巨大的安全问题. 这本实用书籍探讨了恶意攻击者如何滥用基于物联网的流行设备，包括无线 LED 灯泡、电子门锁、婴儿监视器、智能电视和联网汽车.
 
 #### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) *by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)* [4.5]
 
@@ -331,7 +332,7 @@ OPC-UA 不仅是一种工业自动化协议，也是一种允许对工业环境�
 
 #### [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
- &gt; JavaScript on Things 是您踏入激动人心且充满娱乐性的小型电子产品编程世界的第一步. 如果您了解足够多的 JavaScript 来一起破解一个网站，那么您会让事情变得比“nodebot”还快. 这本插图齐全的动手书向您展示了如何使用 Arduino、Tessel 和 Raspberry Pi 等平台.
+ &gt; JavaScript on Things 是您踏入激动人心且充满娱乐性的小型电子产品编程世界的第一步. 如果你知道足够多的 JavaScript 来一起破解一个网站，那么你会让事情变得比“nodebot”还快. 这本插图齐全的动手书向您展示了如何使用 Arduino、Tessel 和 Raspberry Pi 等平台.
 
 ### Articles
 

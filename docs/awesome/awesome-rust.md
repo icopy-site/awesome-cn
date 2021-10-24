@@ -107,7 +107,7 @@ Rust 代码和资源的精选列表.
 * 准将 64
   * [kondrak/rust64](https://github.com/kondrak/rust64) — [![build badge](https://api.travis-ci.org/kondrak/rust64.svg?branch=master)](https://travis-ci.org/kondrak/rust64)
 * Flash播放器
-  * [Ruffle](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![build badge](https://img.shields.io/circleci/build/github/ruffle-rs/ruffle)](https://app.circleci.com/pipelines/github/ruffle-rs/ruffle)
+  * [Ruffle](https://github.com/ruffle-rs/ruffle)  — Ruffle 是用 Rust 编程语言编写的 Adob​​e Flash Player 模拟器.  Ruffle 使用 WebAssembly 面向桌面和 Web. [![build badge](https://img.shields.io/circleci/build/github/ruffle-rs/ruffle)](https://app.circleci.com/pipelines/github/ruffle-rs/ruffle)
 * 掌上游戏机
   * [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) — [![build badge](https://api.travis-ci.org/Gekkio/mooneye-gb.svg?branch=master)](https://travis-ci.org/Gekkio/mooneye-gb)
   * [mohanson/gameboy](https://github.com/mohanson/gameboy)  — 全功能跨平台 GameBoy 模拟器. 永远的男孩！
@@ -332,7 +332,7 @@ Rust 代码和资源的精选列表.
 * [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - 强大的数据库匿名器，具有灵活的规则 [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 * [delta](https://crates.io/crates/git-delta) — git 和 diff 输出的语法高亮器[![build badge](https://github.com/dandavison/delta/workflows/Continuous%20Integration/badge.svg)](https://github.com/dandavison/delta//actions)
 * [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) — 用于 `.env` 文件的 Linter [![build badge](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
-* [fw](https://github.com/brocode/fw) — 工作空间生产力助推器 [![build badge](https://api.travis-ci.org/brocode/fw.svg?branch=master)](https://travis-ci.org/brocode/fw)
+* [fw](https://github.com/brocode/fw) — workspace productivity booster [![build badge](https://api.travis-ci.org/brocode/fw.svg?branch=master)](https://travis-ci.org/brocode/fw)
 * [geiger](https://github.com/rust-secure-code/cargo-geiger) — 一个程序，列出与在 Rust crate 及其所有依赖项中使用不安全 Rust 代码相关的统计信息 [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1&branchName=master)
 * [git-journal](https://github.com/saschagrunert/git-journal/) — Git 提交消息和变更日志生成框架 [![build badge](https://api.travis-ci.org/saschagrunert/git-journal.svg?branch=master)](https://travis-ci.org/saschagrunert/git-journal)
 * [just](https://github.com/casey/just) — 用于特定项目任务的便捷命令运行器 [![build badge](https://api.travis-ci.org/casey/just.svg?branch=master)](https://travis-ci.org/casey/just)
@@ -401,7 +401,7 @@ Rust 代码和资源的精选列表.
 * Github 页面
   * [wasm-template-rust](https://github.com/sn99/wasm-template-rust) — Rust 发布到 gh-pages 的 wasm 模板，无需 npm-deploy [![Build Status](https://api.travis-ci.com/sn99/wasm-template-rust.svg?branch=master)](https://app.travis-ci.com/github/sn99/wasm-template-rust)
 * Heroku
-  * [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) — A buildpack for Rust applications on Heroku
+  * [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) — Heroku 上的 Rust 应用程序构建包
 
 ### Embedded
 
@@ -506,7 +506,7 @@ Rust 代码和资源的精选列表.
 
 * [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) — 统计驱动的 Rust 基准测试库 [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
 * [Bytehound](https://github.com/koute/bytehound) — Linux 的内存分析器
-* [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) — 一个秒表库 [![build badge](https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master)](https://travis-ci.org/ellisonch/rust-stopwatch)
+* [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) — A stopwatch library [![build badge](https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master)](https://travis-ci.org/ellisonch/rust-stopwatch)
 * 火焰图
   * [llogiq/flame](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
   * [mrhooray/torch](https://github.com/mrhooray/torch) — 根据 DWARF 调试信息生成 FlameGraphs
@@ -609,6 +609,7 @@ Rust 代码和资源的精选列表.
 * [jpernst/alto](https://github.com/jpernst/alto) — OpenAL 1.1 绑定 [![build badge](https://api.travis-ci.org/jpernst/alto.svg?branch=master)](https://travis-ci.org/jpernst/alto)
 * [musitdev/portmidi-rs](https://github.com/musitdev/portmidi-rs) — [PortMidi](http://portmedia.sourceforge.net/portmidi/) 绑定 [![build badge](https://api.travis-ci.org/musitdev/portmidi-rs.svg?branch=master)](https://travis-ci.org/musitdev/portmidi-rs)
 * [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) — Rust 音乐理论库 [![Build Status](https://api.travis-ci.com/ozankasikci/rust-music-theory.svg?branch=master)](https://travis-ci.org/ozankasikci/rust-music-theory)
+* [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) — 一个纯 Rust 音频解码和媒体解复用库，支持 AAC、FLAC、MP3、MP4、OGG、Vorbis 和 WAV.
 * [RustAudio](https://github.com/RustAudio)
   * [RustAudio/cpal](https://github.com/RustAudio/cpal) - 纯 Rust 中的低级跨平台音频 I/O 库. [![Actions Status](https://github.com/RustAudio/cpal/workflows/cpal/badge.svg?branch=master)](https://github.com/RustAudio/cpal/actions)
   * [RustAudio/rodio](https://github.com/RustAudio/rodio) — Rust 音频播放库 [![Build Status](https://api.travis-ci.org/RustAudio/rodio.svg?branch=master)](https://travis-ci.org/RustAudio/rodio)
@@ -863,7 +864,7 @@ Rust 代码和资源的精选列表.
 ### Data structures
 
 * [billyevans/tst](https://github.com/billyevans/tst) [[tst](https://crates.io/crates/tst)] — 三元搜索树集合 [![build badge](https://api.travis-ci.org/billyevans/tst.svg?branch=master)](https://travis-ci.org/billyevans/tst)
-* [contain-rs](https://github.com/contain-rs) — 扩展 Rust 的 std::collections
+* [contain-rs](https://github.com/contain-rs) — Extension of Rust's std::collections
 * [danielpclark/array_tool](https://github.com/danielpclark/array_tool)  — Rust 的数组助手. 你会在数组上使用的一些最常见的方法在向量上可用. 用于处理大多数用例的多态实现. [![build badge](https://api.travis-ci.org/danielpclark/array_tool.svg?branch=master)](https://travis-ci.org/danielpclark/array_tool)
 * [fizyk20/generic-array](https://github.com/fizyk20/generic-array) – 一种允许按 typenums 大小的数组的技巧 [![build badge](https://api.travis-ci.org/fizyk20/generic-array.svg?branch=master)](https://travis-ci.org/fizyk20/generic-array)
 * [garro95/priority-queue](https://github.com/garro95/priority-queue)[[priority-queue](https://crates.io/crates/priority-queue)] — 实现优先级更改的优先级队列. [![build badge](https://api.travis-ci.org/garro95/priority-queue.svg?branch=master)](https://travis-ci.org/garro95/priority-queue)
@@ -950,7 +951,7 @@ Rust 代码和资源的精选列表.
   * [servo/html5ever](https://github.com/servo/html5ever) — 高性能浏览器级 HTML5 解析器 [![build badge](https://api.travis-ci.com/servo/html5ever.svg?branch=master)](https://travis-ci.org/servo/html5ever)
 * JSON
   * [importcjj/rust-ajson](https://github.com/importcjj/rust-ajson) [[ajson]](https://crates.io/crates/ajson) — 快速获取 JSON 值 [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
-  * [maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) [[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
+  * [maciejhirsz/json-rust](https://github.com/maciejhirsz/json-rust) [[json](https://crates.io/crates/json)] — Rust 中的 JSON 实现 [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
   * [pikkr/pikkr](https://github.com/pikkr/pikkr) [[pikkr](https://crates.io/crates/pikkr)] — JSON 解析器，它直接获取值而无需在 Rust 中执行标记化
   * [serde-rs/json](https://github.com/serde-rs/json) [[serde\_json](https://crates.io/crates/serde_json)] — JSON 支持 [Serde](https://github.com/serde-rs/serde) 框架 [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
   * [simd-lite/simd-json](https://github.com/simd-lite/simd-json) [[simd-json](https://crates.io/crates/simd-json)] — 基于 simdjson 端口的高性能 JSON 解析器
