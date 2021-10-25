@@ -619,9 +619,7 @@
 - [a-shell](https://github.com/charlie5/aShell) - 帮助在 Ada 中编写类似 shell 的应用程序的组件.
 
 #### Programming Languages
-- [para-sail](http://parasail-lang.org/)  - ParaSail 是一种高度并行的实验语言，类似于 Go 和 Erlang. 最初由 SofCheck（现为 AdaCore）所有，是一个尝试新想法的测试项目. 可扩展指针是即将引入 SPARK 和 Ada 的示例功能. 实际上有 4 种实验语言：ParaSail、Sparkel、Javallel、Parython，它们都共享字节码解释器和 LLVM 引擎.
-- [ada-lua](https://github.com/AdaCore/ada-lua) - Lua 有一个绑定.
-- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada 绑定到 Lua 语言.
+- [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
 
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) - D&#39;Hondt 选举结果计算器的 Ada 实现.
@@ -636,8 +634,11 @@
 - [ada-bfd](https://github.com/stcarrez/ada-bfd)  - Ada BFD 是 GNU Binutils BFD 库的 Ada 绑定. 它允许使用 GNU BFD 读取二进制 ELF、COFF 文件.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada 绑定到 Boehm-Demers-Weiser 保守垃圾收集器.
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) 是绑定到 Tcl/Tk 的 Ada.
-- [tashy](https://github.com/thindil/tashy)  - Tashy 是 Tcl Ada SHell Younger 的缩写. 它是 Tash 的衍生物，主要关注 Tk 绑定.
+- [tashy](https://www.laeran.pl/repositories/tashy/wiki?name=Home)  - Tashy 是 Tcl Ada SHell Younger 的缩写. 它是 Tash 的衍生物，主要关注 Tk 绑定.
+- [tashy2](https://www.laeran.pl/repositories/tashy2/wiki?name=Home)  - Tashy2 是 Tcl Ada SHell Younger 的缩写. 它是 Tashy 的衍生物，旨在更加地道并使用更宽松的许可证.
 - [hungarian](https://github.com/mosteo/hungarian) - 快速 Stachniss 匈牙利求解器的 Ada 包装器.
+- [ada-lua](https://github.com/AdaCore/ada-lua) - Lua 有一个绑定.
+- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada 绑定到 Lua 语言.
 
 ## License
 

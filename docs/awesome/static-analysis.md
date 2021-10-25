@@ -137,7 +137,7 @@
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - 遵循 Google 风格指南的自动化 C++ 检查器.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) ：警告： - C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: - C 和 C 预处理器代码的复杂性和质量指标.
-- [ESBMC](http://esbmc.org) - ESBMC 是一种开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
+- [ESBMC](http://esbmc.org) - ESBMC 是一个开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
 - [flawfinder](http://dwheeler.com/flawfinder/) - 发现可能的安全漏洞.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) - 跨平台、零依赖的 flint 端口，这是 Facebook 开发和使用的 C++ lint 程序.
 - [Frama-C](http://frama-c.com) - 用于 C 代码的健全且可扩展的静态分析器.
@@ -184,7 +184,7 @@
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - 遵循 Google 风格指南的自动化 C++ 检查器.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) ：警告： - C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: - C 和 C 预处理器代码的复杂性和质量指标.
-- [ESBMC](http://esbmc.org) - ESBMC 是一种开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
+- [ESBMC](http://esbmc.org) - ESBMC 是一个开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
 - [flawfinder](http://dwheeler.com/flawfinder/) - 发现可能的安全漏洞.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) - 跨平台、零依赖的 flint 端口，这是 Facebook 开发和使用的 C++ lint 程序.
 - [Frama-C](http://frama-c.com) - 用于 C 代码的健全且可扩展的静态分析器.
@@ -209,7 +209,7 @@
 
 <h2 id="coffeescript">咖啡脚本</h2>
 
-- [coffeelint](http://www.coffeelint.org) ：警告： - 有助于保持 CoffeeScript 代码干净和一致的样式检查器.
+- [coffeelint](http://www.coffeelint.org) - 有助于保持 CoffeeScript 代码干净和一致的样式检查器.
 
 
 <h2 id="crystal">水晶</h2>
@@ -235,7 +235,7 @@
 
 <h2 id="dlang">叮当</h2>
 
-- [D-scanner](https://github.com/dlang-community/D-Scanner) - D-Scanner 是一个分析 D 源代码的工具.
+- [D-scanner](https://github.com/dlang-community/D-Scanner) - D-Scanner 是一个用于分析 D 源代码的工具.
 
 
 <h2 id="elixir">长生不老药</h2>
@@ -342,7 +342,7 @@
 - [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: - DesigniteJava 支持检测各种架构、设计和实现气味以及各种代码质量指标的计算.
 - [Doop](https://bitbucket.org/yanniss/doop)  - Doop 是一个声明式框架，用于 Java/Android 程序的静态分析，以指针分析算法为中心.  Doop 提供了大量的分析以及周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
 - [Error-prone](https://errorprone.info) - 将常见的 Java 错误捕获为编译时错误.
-- [fb-contrib](http://fb-contrib.sourceforge.net) ：警告： - FindBugs 的插件，带有额外的错误检测器.
+- [fb-contrib](http://fb-contrib.sourceforge.net) - 带有附加错误检测器的 FindBugs 插件.
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  - 检测并禁止调用特定的方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
 - [google-java-format](https://github.com/google/google-java-format) - 谷歌风格重新格式化.
 - [HuntBugs](https://github.com/amaembo/huntbugs) ：警告： - 基于 Procyon 编译器工具的字节码静态分析器工具，旨在取代 FindBugs.
@@ -491,7 +491,7 @@
 - [InspectorTiger](https://github.com/thg-consulting/it) :warning: - IT, Inspector Tiger, is a modern python code review tool / framework. It comes with bunch of pre-defined handlers which warns you about improvements and possible bugs. Beside these handlers, you can write your own or use community ones.
 - [jedi](https://jedi.readthedocs.io/en/latest) - Python 的自动完成/静态分析库.
 - [linty fresh](https://github.com/lyft/linty_fresh) - 解析 lint 错误并将它们作为对拉取请求的评论报告给 Github.
-- [mccabe](https://pypi.org/project/mccabe) - Check McCabe complexity.
+- [mccabe](https://pypi.org/project/mccabe) - 检查 McCabe 的复杂性.
 - [mypy](http://www.mypy-lang.org) - 一个静态类型检查器，旨在结合鸭子类型和静态类型的优点，经常与 [MonkeyType](https://github.com/Instagram/MonkeyType).
 - [py-find-injection](https://github.com/uber/py-find-injection) ：警告： - 在 Python 代码中查找 SQL 注入漏洞.
 - [PyCodeQual](https://pycodequ.al)  :copyright: - PyCodeQual 让您深入了解复杂性和错误风险. 它为您的拉取请求添加了自动评论.
@@ -502,7 +502,7 @@
 - [pyre-check](https://pyre-check.org) - 用于大型 Python 代码库的快速、可扩展的类型检查器.
 - [pyright](https://github.com/Microsoft/pyright) - 用于 Python 的静态类型检查器，旨在解决 mypy 等现有工具中的缺陷.
 - [pyroma](https://github.com/regebro/pyroma) - 评价 Python 项目符合 Python 打包生态系统最佳实践的程度，并列出可以改进的问题.
-- [Pysa](https://pyre-check.org/docs/pysa-basics.html) - 基于 Facebook 的 pyre-check 的工具，用于识别通过污点分析识别的 Python 代码中的潜在安全问题.
+- [Pysa](https://pyre-check.org/docs/pysa-basics.html) - A tool based on Facebook's pyre-check to identify potential security issues in Python code identified with taint analysis.
 - [PyT - Python Taint](https://github.com/python-security/pyt) ：警告： - 用于检测 Python Web 应用程序中的安全漏洞的静态分析工具.
 - [pytype](https://google.github.io/pytype) - Python 代码的静态类型分析器.
 - [radon](https://radon.readthedocs.io/en/latest) - 从源代码计算各种指标的 Python 工具.
@@ -523,6 +523,7 @@
 
 <h2 id="ruby">红宝石</h2>
 
+- [bundler-audit](https://github.com/rubysec/bundler-audit) - 审计 Gemfile.lock 中报告的具有安全漏洞的 gem [Ruby Advisory Database](https://github.com/rubysec/ruby-advisory-db).
 - [cane](https://github.com/square/cane) ：警告： - 作为构建的一部分的代码质量阈值检查.
 - [Fasterer](https://github.com/DamirSvrtan/fasterer) - 常见的 Ruby 习语检查器.
 - [flay](https://ruby.sadi.st/Flay.html) - Flay 分析代码的结构相似性.
@@ -652,7 +653,7 @@
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  - 找出什么占用了可执行文件中的大部分空间. 支持 ELF (Linux, BSD), Mach-O (macOS) 和 PE (Windows) 二进制文件.
 - [CAST Highlight](https://www.castsoftware.com/products/highlight) :copyright: - 本地运行的商业静态代码分析，但将结果上传到其云进行演示.
 - [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing) :copyright: - 不需要预编译的商业静态代码分析.
-- [ciocheck](https://github.com/ContinuumIO/ciocheck)  :warning: - Linter、格式化程序和测试套件帮助程序. 作为一个 linter，它是对 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的封装.
+- [ciocheck](https://github.com/ContinuumIO/ciocheck)  :warning: - Linter、格式化程序和测试套件帮助程序. 作为 linter，它是 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的包装器.
 - [ClassGraph](https://github.com/classgraph/classgraph) - 用于查询或可视化类元数据或类相关性的类路径和模块路径扫描器.
 - [Clayton](https://www.getclayton.com/)  :copyright: - Salesforce 的人工智能代码审查. 保护您的开发，实施最佳实践并实时控制您的技术债务.
 - [coala](https://coala.io) - 用于创建代码分析的语言独立框架 - 支持 [over 60 languages](https://coala.io/languages) 默认情况下.
@@ -721,7 +722,7 @@
 - [pre-commit](https://pre-commit.com) - 用于管理和维护多语言预提交挂钩的框架.
 - [Prettier](https://prettier.io) - 一个固执的代码格式化程序.
 - [Pronto](https://github.com/prontolabs/pronto)  - 快速自动代码审查您的更改. 支持 40 多种不同语言的运行程序，包括 Clang、Elixir、JavaScript、PHP、Ruby 等.
-- [prospector](https://github.com/PyCQA/prospector) - 对 `pylint`、`pep8`、`mccabe` 等的封装.
+- [prospector](https://github.com/PyCQA/prospector) - A wrapper around `pylint`, `pep8`, `mccabe` and others.
 - [PT.PM](https://github.com/PositiveTechnologies/PT.PM) :warning: - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
 - [PVS-Studio](https://pvs-studio.com) :版权: - A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、MISRA 和 CERT 编码标准.
 - [pylama](https://pylama.readthedocs.io/en/latest/)  - 适用于 Python 和 JavaScript 的代码审计工具. 包装 pycodestyle、pydocstyle、PyFlakes、Mccabe、Pylint 等
@@ -757,7 +758,7 @@
 - [Super-Linter](https://github.com/github/super-linter) - 多个 linter 的组合作为 GitHub 操作安装.
 - [Symfony Insight](https://insight.symfony.com/) :copyright: - 检测安全风险、发现错误并为 PHP 项目提供可操作的指标.
 - [Synopsys](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - A commercial static analysis platform that allows for scanning of multiple languages (C/C++, Android, C#, Java, JS, PHP, Python, Node.JS, Ruby, Fortran, and Swift).
-- [Teamscale](https://www.cqse.eu/en/teamscale/overview/) :copyright: - Static and dynamic analysis tool supporting more than 25 languages and direct IDE integration. Free hosting for Open Source projects available on request. Free academic licenses available.
+- [Teamscale](https://www.cqse.eu/en/teamscale/overview/)  :copyright: - 支持超过 25 种语言和直接 IDE 集成的静态和动态分析工具. 可应要求免费托管开源项目. 提供免费的学术许可证.
 - [todocheck](https://github.com/preslavmihaylov/todocheck) - 用于将带注释的 TODO 与您的问题跟踪器集成的 Linter
 - [trivy](https://github.com/aquasecurity/trivy)  - 一个简单而全面的容器和其他工件的漏洞扫描器，适用于 CI.  Trivy 检测操作系统包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
@@ -851,6 +852,7 @@
 - [Datree](https://datree.io/) - 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及您组织的政策来防止 Kubernetes 错误配置
 - [foodcritic](http://www.foodcritic.io) - 检查 Chef 食谱中是否存在常见问题的 lint 工具.
 - [kics](https://kics.io/)  - 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
+- [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - 检查 Puppet metadata.json 文件有效性的工具.
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) - 检查您的 Puppet 清单是否符合样式指南.
 - [terraform-compliance](https://terraform-compliance.com) - 针对 Terraform 的轻量级、以合规性和安全性为重点的 BDD 测试框架.
 - [terrascan](https://github.com/cesar-rodriguez/terrascan) - 收集 Terraform 模板静态代码分析的安全性和最佳实践测试.
@@ -959,13 +961,18 @@
 
 <h2 id="package">套餐</h2>
 
-- [lintian](https://lintian.debian.org) :warning: - Debian 软件包的静态分析工具.
+- [lintian](https://lintian.debian.org) - Debian 软件包的静态分析工具.
 - [rpmlint](https://github.com/rpm-software-management/rpmlint) - 检查 rpm 包中常见错误的工具.
 
 
 <h2 id="protobuf">协议缓冲区</h2>
 
 - [protolint](https://github.com/yoheimuta/protolint) - 可插拔的 linter 和修复程序以强制执行协议缓冲区样式和约定.
+
+
+<h2 id="puppet">木偶</h2>
+
+- [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) - 检查 Puppet metadata.json 文件有效性的工具.
 
 
 <h2 id="security">安全/SAST</h2>
@@ -1064,7 +1071,7 @@
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Matthias Endler](https://endler.dev) 已放弃本作品的所有版权和相关或邻接权.
-用于格式化和显示该内容的底层源代码在 MIT 许可下获得许可.
+用于格式化和显示该内容的基础源代码在 MIT 许可下获得许可.
 
 
 标题图片 [Designed by Freepik](http://www.freepik.com).

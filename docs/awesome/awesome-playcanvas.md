@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是一个用于构建交互式 Web 内容的开源平台. 它是用 JavaScript、HTML5、CSS3 和 WebGL 编写的.
 >
-&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精彩资源、工具、教程和项目的精选集合.
+&gt; 此列表是使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化效果的精选资源、工具、教程和项目的精选集合.
 >
 &gt; 贡献_非常欢迎_但先看看 [Contributing](#contributing).
 
@@ -95,7 +95,7 @@
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - 仔细选择电源来击败一波又一波的敌舰.
 - [Garden Bloom](https://play.famobi.com/garden-bloom) - 以花园为主题的 2D 三消游戏.
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D匹配3游戏.
-- [Geometry Run](https://www.gamee.com/game/geometryrun) - 从几何形状构建的程式化的无尽赛跑者.
+- [Geometry Run](https://www.gamee.com/game/geometryrun) - 由几何形状构成的程式化无尽赛跑者.
 - [Hoop Royale](https://play.famobi.com/hoop-royale) - 在球周围操纵环.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - 恐龙、乐高和汽车特技.
 - [Mahjong World](https://play.famobi.com/mahjong-world) - 3D麻将益智游戏.
@@ -109,7 +109,7 @@
 - [Star Stable](https://www.starstable.com/en/register) - 流行马游戏的角色注册门户.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - 基于物理的益智游戏.
 - [TNT Bomb](https://play.famobi.com/tnt-bomb) - 用爆炸性的力量摧毁建筑物和结构.
-- [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
+- [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - 在神奇岛屿上方的双翼飞机上拾取宝石.
 - [Town Star](https://gala.games) - 由 Farmville 2 创意总监打造的在线农场游戏.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - 巫毒娃娃模拟器.
 
@@ -155,13 +155,14 @@
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - 背包配置器.
 - [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - 检重机可视化器.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
+- [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - 万宝龙钢笔、手表、钱包和耳机的产品可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - 壁橱配置器.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - 窗口配置器.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - 温室配置器.
 
 ## AR/VR/XR
 
-- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 高度逼真的室内环境展示了房间规模的 VR.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - 一个高度逼真的室内环境，展示了房间规模的 VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景样式基于 WebXR 的主页.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 
@@ -176,4 +177,4 @@
 
 ## Contributing
 
-请参见 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.

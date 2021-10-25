@@ -40,12 +40,13 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [gjv](https://github.com/anandthakker/gjv) ：电子应用程序可以在本地查看 GeoJSON 并使用草皮对其进行破解； 离线工作
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/)：谷歌的简单geojson编辑器的修改版
 * [geojson2image](https://github.com/brycejohnston/geojson2image): 用于从 GeoJSON 生成图像的库
-* [dropchop](http://dropchop.io/): 基于浏览器的 GIS 基于 Turf.js
+* [dropchop](http://dropchop.io/): 基于 Turf.js 的基于浏览器的 GIS
 * [Web GIS](https://drewweth.github.io/geodebugger)：查看、检查和操作地理空间数据的工具
 
 ### validation
 
 * [geojsonhint](https://github.com/mapbox/geojsonhint)：在您的 geojson 文件中查找错误
+* [check-geojson](https://github.com/placemark/check-geojson): 替代 geojsonhint
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): 许多验证功能，加上简单的 gjv 命令行工具
 * [gjf](https://github.com/yazeed44/gjf)：修复无效 GeoJSON 对象的工具
 
