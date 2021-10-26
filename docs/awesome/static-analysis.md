@@ -144,7 +144,7 @@
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  ：版权： - 嵌入式软件的企业级静态分析. 支持 MISRA、CERT 和 AUTOSAR 编码标准.
 - [IKOS](https://github.com/nasa-sw-vnv/ikos) - 基于 LLVM 的 C/C++ 代码的声音静态分析器.
 - [Joern](https://joern.io) - 基于代码属性图的C/C++开源代码分析平台
-- [LDRA](https://ldra.com) :copyright: - 包含静态分析 (TBVISION) 的工具套件，适用于各种标准，包括 MISRA C 和 C++、JSF++ AV、CWE、CERT C、CERT C++ 和自定义规则.
+- [LDRA](https://ldra.com) :copyright: - 一个工具套件，包括静态分析 (TBVISION) 到各种标准，包括 MISRA C 和 C++、JSF++ AV、CWE、CERT C、CERT C++ 和自定义规则.
 - [PC-lint](https://www.gimpel.com)  :copyright: - C/C++ 的静态分析. 在 Windows/Linux/MacOS 下本地运行. 分析几乎所有平台的代码，支持 C11/C18 和 C++17.
 - [Phasar](https://phasar.org) - 基于 LLVM 的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) :copyright: - 识别 C 和 C++ 嵌入式软件中的运行时错误、并发问题、安全漏洞和其他缺陷.
@@ -159,7 +159,6 @@
 
 - [.NET Analyzers](https://github.com/DotNetAnalyzers) - 使用 .NET 编译器平台开发分析器（诊断和代码修复）的组织.
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
-- [Code Analysis Rule Collection](https://carc.codeplex.com) ：警告： - 包含一组基于 Microsoft .NET 编译器平台“Roslyn”的诊断、代码修复和重构.
 - [code-cracker](http://code-cracker.github.io) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) :warning: - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 - [Designite](http://www.designite-tools.com) :copyright: - Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
@@ -191,7 +190,7 @@
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  ：版权： - 嵌入式软件的企业级静态分析. 支持 MISRA、CERT 和 AUTOSAR 编码标准.
 - [IKOS](https://github.com/nasa-sw-vnv/ikos) - 基于 LLVM 的 C/C++ 代码的声音静态分析器.
 - [Joern](https://joern.io) - 基于代码属性图的C/C++开源代码分析平台
-- [LDRA](https://ldra.com) :copyright: - 包含静态分析 (TBVISION) 的工具套件，适用于各种标准，包括 MISRA C 和 C++、JSF++ AV、CWE、CERT C、CERT C++ 和自定义规则.
+- [LDRA](https://ldra.com) :copyright: - 一个工具套件，包括静态分析 (TBVISION) 到各种标准，包括 MISRA C 和 C++、JSF++ AV、CWE、CERT C、CERT C++ 和自定义规则.
 - [PC-lint](https://www.gimpel.com)  :copyright: - C/C++ 的静态分析. 在 Windows/Linux/MacOS 下本地运行. 分析几乎所有平台的代码，支持 C11/C18 和 C++17.
 - [Phasar](https://phasar.org) - 基于 LLVM 的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) :copyright: - 识别 C 和 C++ 嵌入式软件中的运行时错误、并发问题、安全漏洞和其他缺陷.
@@ -235,7 +234,7 @@
 
 <h2 id="dlang">叮当</h2>
 
-- [D-scanner](https://github.com/dlang-community/D-Scanner) - D-Scanner 是一个用于分析 D 源代码的工具.
+- [D-scanner](https://github.com/dlang-community/D-Scanner) - D-Scanner 是一个分析 D 源代码的工具.
 
 
 <h2 id="elixir">长生不老药</h2>
@@ -580,7 +579,7 @@
 - [sqlcheck](https://github.com/jarulraj/sqlcheck) - 自动识别 SQL 查询中的反模式.
 - [SQLFluff](https://www.sqlfluff.com/) - 多种方言 SQL linter 和格式化程序.
 - [sqlint](https://github.com/purcell/sqlint) - 简单的 SQL linter.
-- [squawk](https://squawkhq.com) - Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
+- [squawk](https://squawkhq.com)  - Linter for PostgreSQL，专注于迁移. 防止由数据库迁移引起的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
 - [tsqllint](https://github.com/tsqllint/tsqllint) - 特定于 T-SQL 的 linter.
 - [TSqlRules](https://github.com/ashleyglee/TSqlRules) ：警告： - SQL Server 的 TSQL 静态代码分析规则.
 - [Visual Expert](https://www.visual-expert.com) :copyright: - PowerBuilder、Oracle 和 SQL Server 的代码分析探索、分析和记录代码 
@@ -679,11 +678,12 @@
 - [cqc](https://github.com/xcatliu/cqc) :warning: - 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner)  - 用于 ruby​​ 编写的 Web 应用程序的静态分析安全扫描程序. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
 - [DeepCode](https://www.deepcode.ai)  :copyright: - DeepCode 基于 AI 发现漏洞、安全漏洞、性能和 API 问题.  DeepCode 的分析速度使我们能够实时分析您的代码并在您点击 IDE 中的保存按钮时提供结果. 支持的语言包括 Java、C/C++、JavaScript、Python 和 TypeScript. 与 GitHub、BitBucket 和 Gitlab 的集成.
-- [DeepSource](https://deepsource.io)  :copyright: - 深入的静态分析，以发现错误风险、安全、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的本地集成. 误报率低于 5%.
+- [DeepSource](https://deepsource.io)  :copyright: - 深入的静态分析以查找错误风险、安全性、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的本地集成. 误报率低于 5%.
 - [Depends](https://github.com/multilang-depends/depends) - 分析Java、C/C++、Ruby代码元素的综合依赖.
 - [DevSkim](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 - [Embold](https://embold.io) :copyright: - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 - [Enlightn](https://www.laravel-enlightn.com/)  - Laravel 应用程序的静态和动态分析工具，可提供建议以提高 Laravel 应用程序的性能、安全性和代码可靠性. 包含 120 项自动检查.
+- [ERB Lint](https://github.com/Shopify/erb-lint) - 整理您的 ERB 或 HTML 文件
 - [ESLint](https://github.com/eslint/eslint) - 遵循 ECMAScript 标准的 JS 可扩展 linter.
 - [exakat](https://www.exakat.io) - PHP 的自动代码审查引擎.
 - [Find Security Bugs](https://find-sec-bugs.github.io)  - 用于 Java Web 应用程序和 Android 应用程序安全审计的 SpotBugs 插件.  （也适用于 Kotlin、Groovy 和 Scala 项目）
@@ -740,7 +740,7 @@
 - [Scrutinizer](https://scrutinizer-ci.com) :copyright: - 可以与 GitHub 集成的专有代码质量检查器.
 - [Security Code Scan](https://security-code-scan.github.io) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. Integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 - [Semgrep](https://semgrep.dev)  - 一种快速、开源的静态分析工具，用于在编辑器、提交和 CI 时间查找错误和执行代码标准. 它的规则看起来就像你已经编写的代码； 没有抽象语法树或正则表达式摔跤. 支持 17 种以上的语言.
-- [Semmle QL and LGTM](https://semmle.com)  :copyright: - 使用对源代码的查询来查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费公共 GitHub/Bitbucket 存储库： [LGTM.com](https://LGTM.com).
+- [Semmle QL and LGTM](https://semmle.com)  :copyright: - 使用对源代码的查询来查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费的公共 GitHub/Bitbucket 存储库： [LGTM.com](https://LGTM.com).
 - [ShiftLeft](https://www.shiftleft.io)  :copyright: - 在它们投入生产之前识别您的代码库独有的漏洞. 利用代码属性图 (CPG) 在单个图形图中同时运行其分析. 自动发现开发中的业务逻辑缺陷，如硬编码的秘密和逻辑炸弹
 - [ShiftLeft Scan](https://slscan.io)  - Scan 是一个免费的开源 DevSecOps 平台，用于检测源代码和依赖项中的安全问题. 它支持广泛的语言和 CI/CD 管道.
 - [shipshape](https://github.com/google/shipshape) ：警告： - 静态程序分析平台，允许自定义分析器通过通用接口插入.
@@ -752,7 +752,7 @@
 - [SonarLint for Visual Studio](https://vs.sonarlint.org) - SonarLint 是 Visual Studio 2015 和 2017 的扩展，可针对注入 .NET 代码的新错误和质量问题向开发人员提供即时反馈.
 - [SonarQube](http://www.sonarqube.org) - SonarQube 是一个管理代码质量的开放平台.
 - [Sonatype](https://www.sonatype.com) :copyright: - 报告常见依赖项中的已知漏洞并推荐更新的包以最小化破坏性更改
-- [Soto Platform](https://www.hello2morrow.com/products/sotograph)  :copyright: - 静态分析工具套件，由 Sotoarc（架构分析）、Sotograph（质量分析）和 Sotoreport（质量报告）三个组件组成. 帮助发现体系结构和实现之间的差异、接口违规（例如子系统私有部分的外部访问、检测所有类、文件、包和通过循环关系强耦合的子系统等.Sotograph 产品系列在 Windows 和 Linux 上运行. 
+- [Soto Platform](https://www.hello2morrow.com/products/sotograph)  :copyright: - 静态分析工具套件，由 Sotoarc（架构分析）、Sotograph（质量分析）和 Sotoreport（质量报告）三个组件组成. 帮助发现架构和实现之间的差异、接口违规（例如子系统私有部分的外部访问，检测所有类、文件、包和子系统，这些类、文件、包和子系统通过循环关系强耦合等.Sotograph 产品系列在 Windows 和 Linux 上运行. 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: - Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [standard](http://standardjs.com) - 检查 Javascript 样式指南问题的 npm 模块.
 - [Super-Linter](https://github.com/github/super-linter) - 多个 linter 的组合作为 GitHub 操作安装.
@@ -876,7 +876,7 @@
 - [OpenSCAP](https://www.open-scap.org/) - 一套自动化审计工具，用于根据 NIST 认证的安全内容自动化协议 (SCAP) 检查配置和已知漏洞.
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: - 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 - [sysdig](https://sysdig.com/)  ：版权： - 用于云和容器取证的安全 DevOps 平台.  Sysdig 构建在开源堆栈上，提供 Docker 镜像扫描并创建了 Falco，这是容器、Kubernetes 和云运行时威胁检测的开放标准. 
-- [Vuls](https://vuls.io/) - 基于来自 NVD、OVAL 等的信息的无代理 Linux 漏洞扫描器.它有一些容器镜像支持，但不是特定于容器的工具.
+- [Vuls](https://vuls.io/) - 基于来自 NVD、OVAL 等的信息的无代理 Linux 漏洞扫描器.它有一些容器映像支持，但不是特定于容器的工具.
 
 
 <h2 id="ci">持续集成</h2>
@@ -900,7 +900,7 @@
 <h2 id="html">HTML</h2>
 
 - [Bootlint](https://github.com/twbs/bootlint) - Bootstrap 项目的 HTML linter.
-- [grunt-bootlint](https://github.com/twbs/grunt-bootlint) - 一个 Grunt 包装器 [Bootlint](https://github.com/twbs/bootlint)，用于 Bootstrap 项目的 HTML linter.
+- [grunt-bootlint](https://github.com/twbs/grunt-bootlint) - A Grunt wrapper for [Bootlint](https://github.com/twbs/bootlint)，用于 Bootstrap 项目的 HTML linter.
 - [gulp-bootlint](https://github.com/tschortsch/gulp-bootlint) - 一个 gulp 包装器 [Bootlint](https://github.com/twbs/bootlint)，用于 Bootstrap 项目的 HTML linter.
 - [HTML Inspector](https://github.com/philipwalton/html-inspector) :warning: - HTML Inspector 是一种代码质量工具，可帮助您和您的团队编写更好的标记.
 - [HTML Tidy](http://www.html-tidy.org) - 通过修复标记错误和将遗留代码升级到现代标准来更正和清理 HTML 和 XML 文档.

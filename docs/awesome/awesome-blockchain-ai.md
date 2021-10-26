@@ -39,6 +39,7 @@
 - [Thought Network](https://thought.live/) - Thought 的基于区块链的 Fabric 通过将人工智能嵌入到每一位数据中，使其敏捷、可操作且本质安全，从而从根本上改变了应用程序.
 - [MATRIX AI](https://www.matrix.io/)  - Matrix AI Network 是一条将人工智能技术与区块链技术相结合的公有链，旨在解决目前阻碍区块链技术发展和采用的主要挑战.  Matrix 准备使用区块链驱动的去中心化计算平台彻底改变人工智能领域并使其民主化.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs 是一个去中心化的 AI 平台，带有一个虚拟机，允许您在链上执行 AI 程序.
+- [Fetch.ai](https://fetch.ai/) - Fetch.ai 是一个基于分布式账本的去中心化机器学习平台，可实现基于全球任何数据的安全共享、连接和交易.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - 基于区块链的协议，用于在以太坊等公共区块链上评估和购买 ML 模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -83,6 +84,9 @@
 - [Proof of Deep Learning](https://doi.org/10.1109/BLOC.2019.8751419)  - Chenli, C.、Li, B.、Shi, Y. 和 Jung, T.（2019 年，5 月）. 具有深度学习证明的能量回收区块链.  * 2019 IEEE 区块链和加密货币国际会议 (ICBC)*（第 19-23 页）.  IEEE.
 - [BlockML](https://doi.org/10.1145/3366624.3368156)  - Merlina, A.（2019 年，12 月）.  BlockML：基于机器学习任务的有用工作证明系统. 在*第 20 届国际中间件会议博士研讨会*（第 6-8 页）中.
 - [Convergence of AI and DLT](https://doi.org/10.1109/ACCESS.2020.2981447)  - Pandl, KD, Thiebes, S., Schmidt-Kraepelin, M., &amp; Sunyaev, A. (2020). 关于人工智能和分布式账本技术的融合：范围审查和未来研究议程.  *IEEE 访问*, 8, 57075-57095.
+- [Proof of Learning](https://arxiv.org/abs/2007.15145)  - Lan, Y., Liu, Y., &amp; Li, B. (2020). 学习证明 (PoLe)：通过基于区块链的共识增强机器学习能力.  *arXiv 预印本 arXiv:2007.15145*.
+- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057) - Harris, J. D., & Waggoner, B. (2019, July). Decentralized and collaborative AI on blockchain. In *2019 IEEE International Conference on Blockchain (Blockchain)* (pp. 368-375). IEEE.
+- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年，9 月）. 区块链上去中心化和协作式人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 斯普林格，查姆.
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023)  - Mittal, A. 和 Aggarwal, S.（2020 年）. 使用区块链中的可持续工作证明进行超参数优化.  *区块链前沿*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773)  - Qu, X., Wang, S., Hu, Q., &amp; Cheng, X. (2021). 联邦学习的证明：一种新颖的能量回收共识算法.  *IEEE 并行和分布式系统汇刊*，32(8)，2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067)  - Li, B.、Lu, Q.、Jiang, W.、Jung, T. 和 Shi, Y.（2021 年 5 月）. 一种用于新型神经架构证明共识的矿池解决方案. 在 *2021 年 IEEE 区块链和加密货币国际会议 (ICBC)*（第 1-3 页）中.  IEEE.

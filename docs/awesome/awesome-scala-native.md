@@ -17,7 +17,7 @@
 * [Write a simple CLI application in Scala Native](https://github.com/ItoYo16u/prettytable-native)
 ## Build Tools
 * [sbt](https://www.scala-sbt.org/) - Scala 的标准构建工具.
-* [Mill](https://github.com/lihaoyi/mill) - 构建工具力求简单，灵感来自 [Bazel](https://www.bazel.build/).
+* [Mill](https://github.com/com-lihaoyi/mill) - 构建工具力求简单，灵感来自 [Bazel](https://www.bazel.build/).
 * [Bloop](https://github.com/scalacenter/bloop) - Scala 构建服务器和命令行工具，用于快速开发人员工作流程.
 * [Seed](https://github.com/tindzk/seed)  - 基于 Bloop 的构建工具. 专注于用户体验和跨平台构建，灵感来自 [Cargo](https://github.com/rust-lang/cargo).
 
@@ -67,11 +67,11 @@
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - 实施 [MessagePack](https://msgpack.org/)，一种二进制序列化格式.
-* [FastParse](https://github.com/lihaoyi/fastparse) - 用于定义和运行解析器的库.
-* [scalatags](https://github.com/lihaoyi/scalatags) - HTML/XML 构造和渲染.
+* [FastParse](https://github.com/com-lihaoyi/fastparse) - 用于定义和运行解析器的库.
+* [scalatags](https://github.com/com-lihaoyi/scalatags) - HTML/XML 构造和渲染.
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML 解析、操作和渲染.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON 解析器.
-* [uJson](http://www.lihaoyi.com/upickle/#uJson) - 用于 Scala 的快速、灵活和直观的 JSON
+* [uJson](https://com-lihaoyi.github.io/upickle/#uJson) - 用于 Scala 的快速、灵活和直观的 JSON
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) 带有编解码器派生的解析器.
 * [argonaut](https://github.com/argonaut-io/argonaut) - 纯功能的 JSON 解析器和库.
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) Scala 编译器.
@@ -82,6 +82,7 @@
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc) - 数据库访问层端口 [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) 到 Scala 原生.
 * [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Java 库的端口 [Sqlite4java](https://bitbucket.org/almworks/sqlite4java) . 包括 SQLite 本机库的绑定.
+* [libpq4s](https://github.com/david-bouyssie/libpq4s) - 围绕异步 PostgreSQL C 库 libpq 的 Scala 包装器.
 
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - 路由库.
@@ -90,17 +91,18 @@
 
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Scala Native 的事件循环和面向异步的 IO
-* [castor](https://github.com/lihaoyi/castor) - 用于 Scala 的轻量级类型化 Actor 库.
+* [castor](https://github.com/com-lihaoyi/castor) - 用于 Scala 的轻量级类型化 Actor 库.
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) - 快速简单的日志库.
 * [slogging](https://github.com/jokade/slogging) - [Typesafe-logging](https://github.com/lightbend/scala-logging) 和 [SLF4J](https://www.slf4j.org/)-基于宏的兼容日志库.
 
 ## Console
-* [fansi](https://github.com/lihaoyi/fansi) - 用于创建的库 [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
+* [fansi](https://github.com/com-lihaoyi/fansi) - 用于创建的库 [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 * [scopt](https://github.com/scopt/scopt) - 命令行参数解析器.
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Haskell 的 CLI 参数解析库的端口 [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
 * [scallop](https://github.com/scallop/scallop) - 一个简单的 Scala CLI 解析库.
+* [mainargs](https://github.com/com-lihaoyi/mainargs) - 用于在 Scala 中解析命令行参数的小型、无依赖库.
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - 编写机器人软件的框架.

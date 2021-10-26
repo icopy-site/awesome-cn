@@ -182,7 +182,7 @@
 - [react-select](https://github.com/JedWatson/react-select) - React 的 Select 组件
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - 漂亮且易于使用的 React 列表拖放
 - [react-dnd](https://github.com/react-dnd/react-dnd) - 拖放反应
-- [react-grid-layout](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
+- [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) - 用于 React 的轻量级、快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用 React 构建的类似 Excel 的网格组件
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
@@ -202,8 +202,8 @@
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) - React 的声明式热键和焦点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) - React 组件的轻量级 keydown 包装器
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - 为您的应用创建导览
-- [react-virtualized](https://github.com/bvaughn/react-virtualized) - 用于高效渲染大型列表和表格数据的 React 组件
-- [react-window](https://github.com/bvaughn/react-window) - 用于高效渲染大型列表和表格数据的 React 组件
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+- [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [react-text-mask](https://github.com/text-mask/text-mask) - React 的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - 创建自动适应您的应用程序的骨架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - 一组使用 CSS 为 React 设置动画的加载指示器
@@ -226,6 +226,7 @@
 - [react-modal](https://github.com/reactjs/react-modal) - React 的可访问模态对话框组件
 - [cleave.js](https://github.com/nosir/cleave.js) - 键入时格式化输入文本内容
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React 组件
+- [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - 用于图像裁剪的高级 React 组件
 
 ##### React Testing
 
@@ -238,7 +239,7 @@
 ##### React Libraries
 
 - [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - 用于在 React 中沿 div 边框放置元素的包装器.
-- [react-magic](https://github.com/reactjs/react-magic) - 使用 React 的强大功能自动 AJAX 化纯 HTML
+- [react-magic](https://github.com/reactjs/react-magic) - 借助 React 的强大功能自动 AJAX 化纯 HTML
 - [react-toolbox](https://github.com/react-toolbox/react-toolbox) - 一组实现谷歌材料设计规范的 React 组件
 - [tcomb-react](https://github.com/gcanti/tcomb-react) - 允许您检查 React 组件的所有道具的库
 - [react-responsive](https://github.com/wearefractal/react-responsive) - 响应式设计中的媒体查询
@@ -335,6 +336,8 @@
 - [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且非常快速的状态管理
 - [effector](https://github.com/zerobias/effector) - 快速而强大的反应式状态管理器
 - [reactn](https://github.com/CharlesStover/reactn) - React，但具有内置的全局状态管理
+- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - 基于可观察的状态管理，用于在 React 中构建的高性能游戏 UI
+- [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且非常快速的状态管理
 
 ##### React AR and VR
 

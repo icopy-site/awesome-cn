@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="love2d-community/awesome-love2d"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fmerge-chance.info%2Fbadge%3Frepo%3Dlove2d-community/awesome-love2d)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一个分类的社区驱动的高质量、令人敬畏的集合 [LÖVE](http://love2d.org) 库、项目和资源.
 
@@ -72,7 +72,7 @@
 * [deep](https://github.com/Nikaoto/deep)  - 增加Z轴； 允许您排队操作和绘制调用
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（一种人性化的 HSL 替代方案）
-* [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率定标器
+* [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器
 * [Push](https://github.com/Ulydev/push) - 一个简单的 LÖVE 分辨率处理库
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染
 * [svglover](https://github.com/globalcitizen/svglover) - 在 LÖVE 中导入和显示简单 SVG 的库

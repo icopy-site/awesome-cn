@@ -101,7 +101,7 @@ Crypto
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh)  - SSH 客户端库.  [外籍人士][14].
 * [cl-ssh-keys](https://github.com/dnaeon/cl-ssh-keys)  - 用于生成和解析 OpenSSH 密钥的 Common Lisp 系统.  [BSD_3 条款][15].
 * [cl-bcrypt](https://github.com/dnaeon/cl-bcrypt)  - 用于解析和生成 bcrypt 密码哈希的 Common Lisp 系统.  [BSD_3 条款][15].
-  * 也可以看看 [cl-pass](https://github.com/eudoxia0/cl-pass)，使用 pbkdf2.
+  * see also [cl-pass](https://github.com/eudoxia0/cl-pass)，使用 pbkdf2.
 
 Cryptocurrencies
 ================
@@ -247,7 +247,7 @@ Docker 镜像
 ## Python ##
 
 * [burgled-batteries](https://github.com/pinterface/burgled-batteries)  - Python 和 Common Lisp 之间的桥梁. 目标是 Lisp 程序可以使用 Python 库. 在 Quicklisp 上不可用.  [麻省理工学院][200].
-* [cl4py](https://github.com/marcoheisig/cl4py)  - 库 cl4py（发音为 clappy）允许 Python 程序调用 Common Lisp 库.  [麻省理工学院][200].
+* [cl4py](https://github.com/marcoheisig/cl4py) - The library cl4py (pronounce as clappy) allows Python programs to call Common Lisp libraries. [MIT][200].
 * [py4cl](https://github.com/bendudson/py4cl)  - 一个允许 Common Lisp 代码访问 Python 库的库. 它基本上是 cl4py 的倒数.  [麻省理工学院][200].
 * [cl-python](https://github.com/metawilm/cl-python)  - 在 Common Lisp 中的 Python 实现.  [LLGPL] [8].
 
@@ -433,7 +433,7 @@ CLOS 扩展
 * [method-hooks](https://gitlab.com/Gnuxie/method-hooks)  - 当 CLOS 方法组合每个方法只允许一个钩子时，这个库允许任意数量的钩子.  Mozilla 公共许可证.
 * [cl-advice](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md)  - SBCL、CCL、LispWorks 和 Allegro 的可移植层建议库的尝试. 不在 Quicklisp 中.
 
-See also hooks in Serapeum.
+另请参阅 Serapeum 中的钩子.
 
 Iteration
 ---------
@@ -513,7 +513,7 @@ Intermediate
 ------------
 
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-* [Lisp Tips](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
+* [Lisp Tips](https://github.com/lisp-tips/lisp-tips/issues/)  - 包含有用提示和技巧的博客. 的延续 [Common Lisp tips](http://lisptips.com/).
 * [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - 展示许多 Lisp 库的博客.
 
 Advanced
@@ -989,7 +989,7 @@ Readline、ncurses 和其他图形助手
   模式.  [GPL3][2].
 * [Linedit](https://common-lisp.net/project/linedit) - 阅读风格
   提供可定制行编辑的库
-  特征.  [MIT 风格] [210].
+  特征.  [麻省理工学院式] [210].
 * [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - 一个
    Common Lisp 中`libcurses` 的接口. 它提供了一个原始的，
   通过 CFFI 到 libcurses 的低级接口，以及更高级的接口
@@ -1079,7 +1079,7 @@ Readline、ncurses 和其他图形助手
 
 * [Sublime Text](http://www.sublimetext.com/3) （专有）有
   Common Lisp 支持其 SublimeREPL 和
-  [Slyblime](https://github.com/s-clerc/slyblime) 包.  Slyblime
+  [Slyblime](https://github.com/s-clerc/slyblime) packages. Slyblime
   是 SLY 的一个实现，它使用相同的后端 (SLYNK). 它
   提供高级功能，包括带有堆栈帧的调试器
   检查.
@@ -1087,6 +1087,8 @@ Readline、ncurses 和其他图形助手
 ## VSCode ##
 
 * [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode)  - 支持语法高亮、自动完成、悬停文档、转到定义、编译和加载文件、REPL 的扩展. 这是 [On GitHub](https://github.com/ailisp/commonlisp-vscode/).
+* [alive](https://github.com/nobody-famous/alive)  - VSCode 的通用 Lisp 扩展. 公共区域.
+  * 见食谱： [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 * [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - 结构编辑和导航，如 Emacs.
 
 ## Geany (experimental) ##
@@ -1368,7 +1370,7 @@ Security
 Other
 -----
 
-This contains anything which doesn't fit into another category.
+这包含任何不属于另一个类别的内容.
 
 * [babel](https://github.com/cl-babel/babel)  - 一个字符集编码/解码库.  [外籍人士][14].
 * [corona](https://github.com/eudoxia0/corona) - 从 Common Lisp http://eudoxia.me/corona [MIT][200] 创建和管理虚拟机.
@@ -1408,7 +1410,7 @@ Contributing
 - 根据我们的经验和现状做一些策展
   图书馆的文档. 我们*不*旨在列出每个现有
   CL 库（请参阅 Cliki）也不列出每个
-  “流行”库（参见 Quicklisp 统计信息）.
+  “流行”库（请参阅 Quicklisp 统计信息）.
 - 因此，我们最喜欢的库标有 (`1F44D`
    Unicode 字符）. 另请参阅说明中的标志说明
   介绍.
