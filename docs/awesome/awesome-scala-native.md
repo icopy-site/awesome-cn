@@ -31,6 +31,7 @@
 * [reactify](https://github.com/outr/reactify) - Scala 的函数式响应式编程框架.
 * [chimney](https://github.com/scalalandio/chimney) - 无样板数据转换.
 * [Quicklens](https://github.com/softwaremill/quicklens) - 修改深度嵌套的案例类字段.
+* [Cats](https://github.com/typelevel/cats) - Scala 中函数式编程的抽象.
 
 ## Unit Tests
 * [µTest](https://github.com/lihaoyi/utest) - 单元测试库.
@@ -103,6 +104,7 @@
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Haskell 的 CLI 参数解析库的端口 [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
 * [scallop](https://github.com/scallop/scallop) - 一个简单的 Scala CLI 解析库.
 * [mainargs](https://github.com/com-lihaoyi/mainargs) - 用于在 Scala 中解析命令行参数的小型、无依赖库.
+* [decline](https://github.com/bkirwi/decline) - Scala 的可组合命令行解析器.
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - 编写机器人软件的框架.

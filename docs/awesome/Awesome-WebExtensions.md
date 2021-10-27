@@ -4,20 +4,18 @@
 
 &gt; 精选的精彩资源列表 [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) 发展.
 
- WebExtensions 是一个用于开发浏览器插件的跨浏览器系统. 该系统在很大程度上兼容 [extension API](https://developer.chrome.com/extensions) 由 Google Chrome 和 Opera 支持. 为这些浏览器编写的扩展程序在大多数情况下会在 Firefox 或 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) 只是 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+ WebExtensions 是一个用于开发浏览器插件的跨浏览器系统. 该系统在很大程度上兼容 [extension API](https://developer.chrome.com/docs/extensions/reference) 由 Google Chrome 和 Opera 支持. 为这些浏览器编写的扩展在大多数情况下可以在 Firefox 或 Microsoft Edge 中运行，只需 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
 
 
 
 ## Getting started
 
-- [Chrome Extensions documentation](https://developer.chrome.com/extensions) - 原始 Chrome 扩展模型的文档.
-- [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) - 有关 Chrome 提供的原始 API 的综合文档.
+- [Chrome Extensions documentation](https://developer.chrome.com/docs/extensions/reference) - 原始 Chrome 扩展模型的文档.
 - [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) - 用于 WebExtensions API 的 MDN wiki.
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Chrome、Edge、Firefox 和 Opera 的兼容性表.
-- [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - 对 Edge 的详细 WebExtensions 支持.
 - [Safari Extensions documentation](https://developer.apple.com/safari/extensions/)  - 有关构建 Safari 扩展的开发人员文档. 从技术上讲不是 WebExtensions，API 是完全不同的.
 - [Opera API support](https://dev.opera.com/extensions/apis/) - 对 Opera 的详细 WebExtensions 支持.
-- [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - 准备、安装和调试要移植到 Firefox 中的 Chrome 扩展程序的指南.
+- [Porting Chrome Extensions to Firefox](https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension) - 准备、安装和调试要移植到 Firefox 中的 Chrome 扩展程序的指南.
 - [Browser Extension Standard](https://browserext.github.io/browserext/) - API 标准，由 Mozilla、Opera 和 Microsoft 支持.
 
 ## Community
@@ -37,16 +35,16 @@
 - [webext-storage-cache](https://github.com/fregante/webext-storage-cache) - 类似地图的承诺缓存存储过期.
 - [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) - 在自定义域上自动注入您的“content_scripts”.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - Polyfill 支持 `browser` 命名空间中基于标准化承诺的 API.
-- [webextension-polyfill-ts](https://github.com/Lusito/webextension-polyfill-ts) - *TypeScript-ready* polyfill 以支持 `browser` 命名空间中基于标准承诺的 API.
 - [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) - 为 `browser` 命名空间提供 TypeScript 类型.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - 用途 [redux](https://github.com/reactjs/redux) 用于管理 WebExtension 的状态.
+- [redux-webext](https://github.com/ivantsov/redux-webext) - 使用 Redux 来管理 WebExtension 的状态.
 - [ExtPay](https://github.com/Glench/ExtPay) - 在扩展中进行安全支付，而无需运行服务器后端.
+- [More…](https://github.com/fregante/webext-fun)
 
 ## Tools
 
 帮助您管理扩展程序的应用程序.
 
-- [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - 通过 cli（或自动在 Travis 上）将扩展程序上传到 Chrome 网上应用店.
+- [Chrome Webstore Upload](https://github.com/fregante/chrome-webstore-upload-cli) - 通过 cli（或自动在 Travis 上）将扩展程序上传到 Chrome 网上应用店.
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - 帮助构建、运行和测试 WebExtensions 的命令行工具.
 - [chromepet](https://github.com/ZenHubIO/chromepet) - 在您的新版本发布时收到通知.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - 在 Chrome 网上应用店下载任何扩展程序，看看他们是如何做到的.
@@ -69,10 +67,10 @@
 
 ## Boilerplates
 
-- [browser-extension-template](https://github.com/notlmn/browser-extension-template) - 带有 webpack、选项处理程序和自动发布的准系统样板.
+- [browser-extension-template](https://github.com/fregante/browser-extension-template) - 带有包裹、选项处理程序和自动发布的准系统样板.
 - [create-webextension](https://github.com/rpl/create-webextension) - 纱线 WebExtension 生成器.
 - [extensionizr.com](https://extensionizr.com) - 可帮助您创建初始配置和文件的 Web UI.
-- [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) - WebExtension 生成器，可创建开始跨浏览器 Web 扩展开发所需的一切.
+- [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension 生成器，可创建开始跨浏览器 Web 扩展开发所需的一切.
 - [vue-web-extension](https://github.com/Kocal/vue-web-extension) - Vue CLI 3+ 预设，用于使用 Vue、Babel、ESLint 等快速启动 Web 扩展！
 
 ## Sample Extensions
@@ -87,4 +85,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Federico Brigante](https://bfred.it) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Federico Brigante](https://fregante.com) 已放弃本作品的所有版权和相关或邻接权.

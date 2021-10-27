@@ -65,7 +65,7 @@
 * [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - 用于从运行 MicroPython 的 IoT 设备（例如 ESP8266）向 thingspeak.com 发送数据的库.
 * [micropython_pushbullet](https://github.com/gsampallo/micropython_pushbullet) - 如何在 ESP8266 上使用带有 MicroPython 的 PushBullet 的简单示例.
 * [esp32-youtube-display](https://github.com/alvarowolfx/esp32-youtube-display) - 使用 Google API 和 MicroPython 显示 YouTube 指标.
-* [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) - 一个库，用于从带有 MicroPython 的 IoT 设备使用 Spotify 的 Web API.
+* [micropython-spotify-web-api](https://github.com/tltx/micropython-spotify-web-api) - A library for using Spotify's web API from a IoT device with MicroPython.
 
 #### Bluetooth
 
@@ -150,7 +150,7 @@
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) - 使用 MicroPython 的 ESP32 满足 LoRa 和 LoRaWAN.
 * [SX127x_driver_for_MicroPython_on_ESP8266](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - 用于 ESP8266/ESP32/Raspberry_Pi 上（微型）Python 的 SX127x（LoRa 收发器）驱动程序.
 * [LightLora_MicroPython](https://github.com/MZachmann/LightLora_MicroPython) - 用于 MicroPython 的轻量级中断驱动 Semtech SX127x 库.
-* [u-lora](https://github.com/martynwheeler/u-lora) - 用于 MicroPython 的 raspi-lora.
+* [u-lora](https://github.com/martynwheeler/u-lora) - 用于 MicroPython 的 Raspi-lora.
 * [sx127x_esp](https://github.com/azorg/sx127x_esp) - 将基于 LoRaTM sx127x 芯片的 Ra-01 模块连接到 MicroPython 下的 ESP8266/ESP32.
 * [nanoserver](https://github.com/gradoj/nanoserver) - MicroPython 嵌入式 LoRaWAN 服务器.
 * [micropySX126X](https://github.com/ehong-tl/micropySX126X) - 用于 MicroPython 和 CircuitPython 的 Semtech SX126X LoRa 驱动程序.
@@ -199,7 +199,7 @@
 
 #### Onkyo EISCP
 
-* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - MicroPython port for the Onkyo-EISCP protocol used, among others, by Pioneer.
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) - Pioneer 使用的 Onkyo-EISCP 协议的 MicroPython 端口.
 
 #### OTA
 
@@ -280,7 +280,7 @@
 #### Web
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - 支持 WebSockets、html/python 语言模板和路由处理程序的微型 HTTP Web 服务器，用于 MicroPython（在 Pycom 模块和 ESP32 上使用）.
-* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 最后一个用于物联网 (MicroPython) 或大型服务器 (CPython) 的微型 Web 服务器，它支持 WebSockets、路由、模板引擎和真正优化的架构（内存分配、异步 I/O）.
+* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 最后一个用于物联网 (MicroPython) 或大型服务器 (CPython) 的微型 Web 服务器，它支持 WebSockets、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
 * [tinyweb](https://github.com/belyalov/tinyweb) - 用于 MicroPython 的简单轻量级 HTTP 异步服务器.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) websocket 服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) - MicroPython 的强制门户演示.
@@ -482,7 +482,7 @@
 #### Potentiometers
 
 * [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - 基于 MicroPython SPI 的 AD 系列数字电位器 AD8400、AD8402 和 AD8403 操作.
-* [mcp4131](https://github.com/scruss/mcp4131) - 用于控制 MicroChip 的 MCP4131 SPI 数字电位器的 MicroPython 模块
+* [mcp4131](https://github.com/scruss/mcp4131) - 用于控制 MicroChip 的 MCP4131 SPI 数字电位器的 MicroPython 模块.
  
 #### Power Management
 
@@ -639,6 +639,7 @@
 * [CCS811](https://github.com/Notthemarsian/CCS811) - ESP8266 板上 CCS811 的基本 MicroPython 驱动程序.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - Sensirion SCD30 CO2 传感器模块的 MicroPython I2C 驱动程序.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - 用于 SGP40 VOC 传感器模块的 MicroPython I2C 驱动程序.
+* [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - 用于 Pimoroni mics6814 分线板的 ESP32 Micropython 驱动程序.
 
 #### Light
 
@@ -662,7 +663,7 @@
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - 用于 MPU6886 6 轴运动跟踪设备的 MicroPython I2C 驱动程序.
 * [micropython-fusion](https://github.com/micropython-IMU/micropython-fusion) - Sensor fusion calculates heading, pitch and roll from the outputs of motion tracking devices.
 * [flight_controller](https://github.com/wagnerc4/flight_controller) - MicroPython 飞行控制器.
-* [micropython-bno055](https://github.com/mcauser/awesome-micropython/blob/master/micropython-IMU/micropython-bno055)  - 适用于 MicroPython 的 Bosch BNO055 驱动程序. 带有硬件传感器融合的 IMU.
+* [micropython-bno055](https://github.com/micropython-IMU/micropython-bno055)  - 适用于 MicroPython 的 Bosch BNO055 驱动程序. 带有硬件传感器融合的 IMU.
 * [micropython-mpu6050-mqtt-streamer](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - 使用 ESP8266 上的 MicroPython 将数据从 MPU6050 流式传输到 MQTT 服务器.
 * [upy-motion](https://github.com/OneMadGypsy/upy-motion) - 一个用 MicroPython 编写的简单 MPU6050 驱动程序.
 * [micropython-bno08x-rvc](https://github.com/rdagger/micropython-bno08x-rvc) - bno08x 的 MicroPython 库.
@@ -758,6 +759,7 @@
 * [nmongo](https://github.com/nakagami/nmongo) - 用于 CPython 和 MicroPython 的 MongoDB 客户端，具有类似 API 的 mongo shell.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - 用于 MicroPython 的基于 json 的低内存数据库.
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - 针对 ESP32 优化的 MicroPython 的 Firebase 实现.
+* [uSQLite](https://github.com/spatialdude/usqlite) - MicroPython 的 SQLite 库模块.
 
 #### EEPROM
 
@@ -772,11 +774,11 @@
 
 * [micropython-fram](https://github.com/rolandvs/micropython-fram) - 铁电 RAM 模块的 Pyboard 驱动程序.
 
-### PSRAM
+#### PSRAM
 
 * [mb_PSRAM_64Mb_SPI](https://github.com/MarksBench/mb_PSRAM_64Mb_SPI) - 非常简单的 MicroPython 模块，可使用带有 Raspberry Pi Pico (RP2040) 的通用 64Mbit PSRAM（即 Adafruit 4677）.
 
-### SRAM
+#### SRAM
 
 * [mb_23LC1024](https://github.com/MarksBench/mb_23LC1024) - 非常简单的 MicroPython 模块，可将 Microchip 23LC1024 SPI SRAM 与 Raspberry Pi Pico (RP2040) 结合使用.
 * [mb_47x16](https://github.com/MarksBench/mb_47x16) - 用于 Microchip 47x16 EERAM 设备 (47L/47C) 的非常简单的 MicroPython 模块/驱动程序.
