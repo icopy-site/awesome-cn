@@ -7,7 +7,7 @@
 
 ----
 
-## INDEX
+## §1. INDEX <span id="1-INDEX"><span>
 
 + [AI](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: 算法、数据挖掘、数据结构、HMM、ML、NLP、...
 + [Actuarial Science](https://github.com/svaksha/Julia.jl/blob/master/ActuarialScience.md) :: 与计量经济学、金融等子类别相关的软件.
@@ -28,6 +28,7 @@
 + [Physics](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: 与物理相关的 Julia 软件.
 + [Programming Paradigms](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: 在类型系统、数据类型等中使用的编程范式和语言概念.
 + [Publications](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: 研究论文（期刊和会议出版物）.
++ [QA](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: 朱莉娅的质量保证.
 + [Resources](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: 社区资源列表、开发链接，包括活动、（联合国）会议、论坛/聚会组、新闻、博客、食谱、备忘单、IJulia 笔记本和其他有用的资源.
 + [Server](https://github.com/svaksha/Julia.jl/blob/master/Server.md) :: HTTP/Web、网络和其他服务器端实用程序...
 + [Space Science](https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md) :: 天文学、成像、行星和 [space science](https://en.wikipedia.org/wiki/Outline_of_space_science) 相关包.
@@ -35,24 +36,25 @@
 + [Super Computing](https://github.com/svaksha/Julia.jl/blob/master/Super-Computing.md) :: HPC、分布式计算、云计算、集群计算、网格计算、内核和架构，如 ARM、MIPS、GPU、CUDA 等...
 + [Utilities](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: 桌面的方便工具包和其他通用实用程序.
 
- **免责声明：** 作为科学计算领域的一门新语言，由于新库的添加，它经常处于不断变化的状态，导致频繁的更改和页面重新排序. 由于 **Julia.jl** 存储库仅提供了 Julia 软件包的列表（链接），因此不应将其视为对任何特定软件包的软件质量、技术特性、编码风格/组织等的认可...
+ **免责声明：** 作为科学计算领域中的一种新语言，由于新库的添加，它经常处于不断变化的状态，导致频繁的更改和页面重新排序. 由于 **Julia.jl** 存储库仅提供了 Julia 软件包的列表（链接），因此不应将其视为对任何特定软件包的软件质量、技术特性、编码风格/组织等的认可...
 
 ----
 
-## LICENSE
+## §2. LICENSE <span id="2-LICENSE"><span>
 
 + COPYRIGHT © 2012-现在 [SVAKSHA](http://svaksha.com/pages/Bio), 分别获得数据 (ODbL-v1.0+) 和软件 (AGPLv3+) 的双重许可.
 
-## [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
+## §2.1. AGPLv3 and ODbL <span id="2-1-AGPLv3-and-ODbL"><span>
+这个 repo 对数据和代码使用多个许可证，即. [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) 和 [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
 
 + 此存储库 (`Julia.jl`) 中的 __data__（Julia 语言知识资源的聚合和策划分贝）在 [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)  (ODbL-v1.0). 开放数据库许可 (ODbL) 授予任何人共享、创建和改编数据或数据库的自由，并按照许可中的规定__提供适当的__信用归属__，并__在相同条款下提供任何新作品__，如果使用新作品，则__发布公共副本用于商业目的__.
 + `Julia.jl` 中使用的 __software__ 是在 [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html)，以及以上，如在 [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) 文件.
-+ 本作品的所有副本和分支必须保留版权、程序代码 (AGPLv3) 和数据 (ODbL) 的相应许可文件以及新作品的所有副本或重要部分中的本许可通知.
++ ALL copies and forks of this work must retain the Copyright, respective Licence files for program code (AGPLv3) and data (ODbL) along with this permission notice in all copies or substantial portions of the new work.
 
 这种变化的动机是让人们更容易地将这些数据作为数据库中的知识资源重用. 例如， [julia-observer](https://juliaobserver.com) 是一个可视化工具，用于浏览从 `Julia.jl`、`General` 和各种来源中提取数据的包. 通过发布网站代码 [publicly](https://github.com/djsegal/julia_observer) 是关于如何建立或转换数据以造福社区的示例.
 
+## §2.2. Mirrors <span id="2-2-Mirrors"><span>
 
-## Mirrors
 + [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 + [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git
 
@@ -62,17 +64,19 @@
 
 [Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) 欢迎以拉取请求 (PR) 的形式访问 `Julia.jl`. 以下是有关如何提交错误报告 (BR) 和/或 [PR](https://github.com/svaksha/Julia.jl/pulls):
 
+
 ## Guidelines
 
-朱莉娅社区有 [ethical guidelines](http://julialang.org/community/standards/) 旨在尊重版权、许可和归属标准<sup>{1} 和 {2}</sup> ，您在提交要列出的材料时需要遵循这些标准. 此外，如果您发现任何违反这些道德标准的材料（或代码库），请提交错误报告以将其从 `Julia.jl` 中删除.
-+ 参考资料：
-   + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
-   + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+1. Julia 社区有 [ethical guidelines](http://julialang.org/community/standards/) 旨在尊重版权、许可和归属标准<sup>{1} 和 {2}</sup> ，您在提交要列出的材料时需要遵循这些标准. 此外，如果您发现任何违反这些道德标准的材料（或代码库），请提交错误报告以将其从 `Julia.jl` 中删除.
+   + 参考资料：
+        + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
+        + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+2. __商业链接__：本repo中几乎所有资源都是Free/Libre软件资源，所以为了继续保持“Libre”软件精神，请只提交那些免费且没有付费/商业利益的资源. 
 
 
 ## BugReport-PullRequest
 
-1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it (via a BR, not a PR ;-)).
+ 1. 根据主题子部分中的顶级类别页面，按_字母顺序_添加您的链接，并在降价文件中附上注释（如果有）. 在各种类别中创建新的顶级标签之前，请先查看维基百科或其他资源. 如果您无法决定，请通过 BR（而不是 PR ;-)）进行讨论.
 2. 在 CLI 中，输入 `julia Julia.jl` 这将运行 [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl) . 也提交 `db.csv` 文件.
  3. 对于断开的链接或过时的信息，提交错误报告 (BR)，或进行必要的更改并提交 PR. 两者都受欢迎. 请为每个链接或添加的更改提交单独的 PR.
 4. 对于文档和食谱，检查它是否与列出的类别匹配，否则，将其列在 [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) 页.
@@ -81,7 +85,7 @@
 
 ## Package Status
 
-请注意，此 repo 列出了过时和/或在旧版本 Julia 上工作的软件包. 这些仍然被列为公开可用的，并希望有人可能希望继续作为分支继续工作，因为它与他们的研究或工作保持一致. 这些 [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) 导致了一个 [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) 添加元数据标签将使程序员和包用户能够轻松区分处于不同开发阶段的各种 Julia 包的状态. 目前，METADATA 有一个标签系统，但并非所有包作者都使用它，这使得外行用户更难知道包维护是否处于活动状态.
+请注意，此 repo 列出了过时和/或在旧版本 Julia 上工作的软件包. 这些继续被列为公开可用，并希望有人可能希望继续作为分支继续工作，因为它与他们的研究或工作保持一致. 这些 [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) 导致了一个 [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) 添加元数据标签将使程序员和包用户能够轻松区分处于不同开发阶段的各种 Julia 包的状态. 目前，METADATA 有一个标签系统，但并非所有包作者都使用它，这使得外行用户更难知道包维护是否处于活动状态.
 
 让我们尝试要求包作者和核心提交者根据以下标准标记他们的 Julia 包：
 

@@ -39,14 +39,18 @@
 
 ## Videos
 
-- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何从 HAR 文件创建测试.
-- [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试.
+- [k6 YouTube Channel](https://www.youtube.com/c/k6test)
+- [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
+- [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
+  - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何从 HAR 文件创建测试.
+  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试.
+  - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 介绍. 
 
 ## Reference Projects
 
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - 作为 CircleCI 构建的一部分运行 k6 负载测试.
 - [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - 作为 Jenkins 构建的一部分运行 k6 负载测试.
-- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 运行 k6 负载测试作为 GitHub Actions 构建的一部分.
+- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 作为 GitHub Actions 构建的一部分运行 k6 负载测试.
 - [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - 作为 Azure DevOps 管道的一部分运行 k6 负载测试.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - 作为 Bitbucket Pipeline 构建的一部分运行 k6 负载测试.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - 使用 k6 对 websocket 进行性能测试的示例.
@@ -68,7 +72,7 @@
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 用于将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
-- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 用于直接从您的 IDE 运行 k6 的市场扩展.
+- [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从您的 IDE 运行 k6 的市场扩展.
 
 
 ## CI

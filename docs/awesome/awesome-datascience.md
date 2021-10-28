@@ -209,7 +209,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
 | [Pandas GU](https://github.com/adamerose/pandasgui) | Pandas GUI |
 | [Scikit-Learn](http://scikit-learn.org/stable/)  |  Python 中的机器学习 |
-| [NumPy](http://www.numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型、多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
+| [NumPy](http://www.numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
 | [SciPy](https://www.scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供有效的例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
 | [Data Science Toolbox](http://datasciencetoolbox.org/)  | 博客 |
@@ -440,6 +440,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
 - [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
 - [Learning Machines 101](http://www.learningmachines101.com/)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
 - [Linear Digressions](http://lineardigressions.com/)
 - [Not So Standard Deviations](https://nssdeviations.com/)
 - [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
@@ -529,7 +530,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings 数据场景
 - [Prash Chan](http://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球范围内开展工作，可帮助客户了解将数据和更多内容带到云端的含义.
 - [Data Science London](http://datasciencelondon.org/) Data Science London 是一个非营利组织，致力于免费、开放、传播数据科学.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.

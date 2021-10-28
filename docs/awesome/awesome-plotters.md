@@ -17,12 +17,12 @@
 - [4xiDraw](https://www.instructables.com/id/4xiDraw/) - 另一个可 3D 打印的 AxiDraw 克隆带 [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行 grbl 固件.
 - [WaterColorBot](https://watercolorbot.com) - XY 艺术机器人和软件，用于绘制水彩颜料.
 - [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
-- [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  - 来自 HPGL 标准创建者的老式台式和落地式笔式绘图仪.  7475A 型非常常见，通常可以在 eBay 上找到.
+- [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  - 来自 HPGL 标准创建者的老式桌面和落地式笔式绘图仪.  7475A 型很常见，通常可以在 eBay 上找到.
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg)  - 老式平板 HPGL 笔式绘图仪. 在 eBay 上搜索“roland dxy”.
 - [Polargraph](http://www.polargraph.co.uk) - 原始极谱硬件和软件项目.
 - [Makelangelo](http://www.makelangelo.com) - 开源极坐标图艺术机器人.
 - [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - 由木棒、伺服系统和运行 Python 的 Raspberry Pi 制成的廉价而简单的绘图仪.
-- [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - 一个相当简单的 3D 打印 AxiDraw 风格的绘图仪，具有良好的视频文档.
+- [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - 一个相当简单的 3d 打印 AxiDraw 风格的绘图仪，具有良好的视频文档.
 
 ### Motor Controllers
 
@@ -58,14 +58,14 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [djipco/hpgl](https://github.com/djipco/hpgl) - 与 HPGL 兼容的绘图仪和打印机通信的 Node.js 库.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可用作 X11 中的预览.
 - [vec](https://github.com/anachrocomputer/vec) - 使用海龟图形界面生成 HPGL 的示例 C 代码.
-- [d3-hpgl](https://github.com/aubergene/d3-hpgl) - 用于 HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
+- [d3-hpgl](https://github.com/aubergene/d3-hpgl) - HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
 - [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - 使用 JavaScript 和 HTML5 画布的 HPGL 查看器.
 - [HPGL Sender](https://github.com/LgHS/hpgl-sender) - 用于预览 HPGL 并将其发送到绘图仪的 Web 界面.
 - [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - 用于编写 HPGL 文件的处理库.
 
 ### G-code
 
- G 代码是用于控制 CNC 机器的基于文本的标准. 虽然它是为工业机器设计的，但它在许多业余爱好者 3d 打印机固件中的使用使它在小型 DIY 项目中也无处不在.
+ G 代码是用于控制 CNC 机器的基于文本的标准. 虽然它是为工业机器设计的，但它在许多业余爱好者 3d 打印机固件中的使用使其在小型 DIY 项目中也无处不在.
 
 - [grbl](https://github.com/grbl/grbl) - 用于 Atmega 328 微控制器和 Arduino 的高性能 G 代码解释固件.
 - [cncjs](https://github.com/cncjs/cncjs) - 基于 Web 的界面控制运行 grbl、TinyG 或其他基于 G 代码的固件的 CNC 机器.
@@ -84,7 +84,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [axidraw](https://github.com/evil-mad/axidraw) - Inkscape 的官方 AxiDraw 扩展.
 - [axi](https://github.com/fogleman/axi) - AxiDraw v3 的非官方 Python 库.
 - [xy](https://github.com/fogleman/xy) - Makeblock XY 绘图仪机器人套件的​​实用程序.
-- [LaserGRBL](https://github.com/arkypita/LaserGRBL)  - 用于 grbl 控制器的激光优化 Windows GUI. 可以重新用于 DIY 笔式绘图仪，使用螺线管进行笔上/下移动.
+- [LaserGRBL](https://github.com/arkypita/LaserGRBL)  - 用于 grbl 控制器的激光优化 Windows GUI. 可以重新用于 DIY 笔式绘图仪，使用螺线管进行笔向上/向下移动.
 - [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - 将图纸发送到 [Line-us plotter](https://www.line-us.com) 直接来自 Inkscape.
 - [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - 示例代码 [Line-us](https://www.line-us.com) 绘图仪的基于 G 代码的 API.
 - [@beardicus/line-us](https://github.com/beardicus/line-us) - 用于控制的 JavaScript 库 [Line-us](https://www.line-us.com) 来自 Node 或浏览器的机器.
@@ -93,7 +93,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 软件.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - 处理中 AxiDraw 的海龟图形.
 - [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - 绘图仪优化的 Windows GUI，用于带有 SVG 和 DXF 导入的 grbl 控制器，以及灵活的上/下笔控制.
-- [saxi](https://github.com/nornagon/saxi)  - AxiDraw 的驱动程序和库. 使用恒定加速度运动规划并自动调整纸张大小.
+- [saxi](https://github.com/nornagon/saxi)  - AxiDraw 的驱动程序和库. 使用恒定加速度运动规划并自动调整大小以适应纸张.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - 用于将 HPGL 转换为 Graphtec 的 GPGL 格式的软件，以及用于 Graphtec 绘图笔适配器的 CAD 文件.
 
 ### Vector Creation
@@ -101,7 +101,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 从头开始或通过从其他格式转换来创建矢量图的工具.
 
 - [Inkscape](https://inkscape.org) - 流行的跨平台开源矢量图形编辑器.
-- [p5.js](https://p5js.org) - “JavaScript 库，使艺术家、设计师、教育工作者和初学者都可以进行编码”.
+- [p5.js](https://p5js.org) - “JavaScript 库，使艺术家、设计师、教育工作者和初学者都可以使用编码”.
 - [Paper.js](http://paperjs.org) - “矢量图形脚本的瑞士军刀”.
 - [ln](https://github.com/fogleman/ln) - 用 Go 编写的基于矢量的 3D 渲染器.
 - [autotrace](https://github.com/autotrace/autotrace) - 将位图图像转换为矢量图形.
@@ -119,8 +119,8 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 生成式线条艺术网络应用程序.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - 处理中的涂鸦图像转换.
 - [Maker.js](https://maker.js.org) - 用于为 CNC 和激光切割机创建 2D 矢量绘图的库.
-- [Turtletoy](https://turtletoy.net) - 基于浏览器的 JavaScript 海龟图形 API，带有 SVG 导出.
-- [cozyvec](https://github.com/brubsby/cozyvec) - 绘图仪艺术和推文图的 Web/独立终端环境.
+- [Turtletoy](https://turtletoy.net) - 带有 SVG 导出的基于浏览器的 JavaScript 海龟图形 API.
+- [cozyvec](https://github.com/brubsby/cozyvec) - 绘图仪艺术和推特图的 Web/独立终端环境.
 - [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - 一个 [Observable](https://observablehq.com/) 笔记本系列充满了面向绘图员的工作.
 - [PlotterFun](https://mitxela.com/plotterfun/) - 基于浏览器的图像到 SVG 转换器，类似于 SquiggleDraw.
 
@@ -128,7 +128,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 
 操作和优化基于矢量的文件格式的工具.
 
-- [svgsort](https://github.com/inconvergent/svgsort) - 用于绘制 SVG 文件的路径规划，减少了用笔移动所花费的时间.
+- [svgsort](https://github.com/inconvergent/svgsort) - 用于绘制 SVG 文件的路径规划，减少了用笔移动的时间.
 - [svgo](https://github.com/svg/svgo) - 用于优化 SVG 文件的基于 Node.js 的工具.
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - 优化极坐标图的绘制计划.
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - 一个 SVG 优化器，它使用车辆路径求解器来最小化绘图时间.
@@ -157,13 +157,13 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪的快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣算法的详细解释和示例.
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图师.
-- [Hektor](http://juerglehni.com/works/hektor) - 2002 年的原始电缆牵引机器人.
+- [Hektor](http://juerglehni.com/works/hektor) - 2002 年的原始基于电缆的绘图机器人.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 创建用于绘图的生成图形的两部分介绍.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - 使用 Python 和 Penplot 深入研究表面投影和隐藏线去除.
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - 创建基于线的分形图形的技术.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 绘图仪介绍、AxiDraw、`penplot` 库演练.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - 旅行商问题（单路径）艺术的资源.
-- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - 讨论和链接到用于去除 STL 文件的线框的代码.
+- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - 讨论和链接到用于删除 STL 文件的线框的代码.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - 很多不错的技巧，并非都是 Axidraw 特有的，还有一些笔评和方便的 3D 打印工具.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - 很好地概述了 AxiDraw 及其克隆，以及一些 DIY 选项.
 - [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - Vera Molnár 的笔记本之一，日期为 1983-1985
@@ -199,7 +199,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [Digital Plotting Newsletter (1967)](https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114)
 - [Versatec Printers and Plotters Brochure (1977)](https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009)
 - [Versatec Printer/Plotters, Plotters and Output Systems (1981)](https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057)
-- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - 第 36 页（PDF 第 40 页）_计算机和绘图仪取代绘图表和铅笔_文章.
+- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - 第 36 页（PDF 第 40 页）上的_计算机和绘图仪代替绘图表和铅笔_文章.
 - [Omega-t Systems FasPlot Plotter Brochure](https://archive.org/details/TNM_Omega-t_Systems_-_FasPlot_Plotter_20170630_0254)
 - [Commodore Computer Plotter CBM 8075 Brochure (German)](https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE)
 - [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)
@@ -212,7 +212,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
-- [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（迄今为止的旧金山和纽约），包括会谈和绘图艺术画廊.
+- [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（迄今为止的旧金山和纽约），包括谈话和绘图艺术画廊.
 - [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 社区活跃的 Discord 论坛.
 - [PlotterFiles](https://plotterfiles.com/) - 共享绘图仪 SVG 文件的社区.
 
@@ -227,7 +227,6 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.chromatocosmos.com/)
-- [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)

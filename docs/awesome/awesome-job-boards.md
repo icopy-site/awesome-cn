@@ -57,9 +57,18 @@
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - 由 InfoSec 专业人士开发的社区运营的工作平台
-* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜和精简的信息安全工作委员会
+* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜而精益的信息安全工作委员会
+
+## Metaverse
+
+* [Metaverse Jobs](https://www.themetaversejobs.com/) - Metaverse 工作的工作板
+* [Hire.AR](https://www.hire.ar/) - 增强现实工作的工作板
 
 ## Programming
+
+### Aggregator
+
+* [findwork.dev](https://findwork.dev/)
 
 ### Full-Stack
 
@@ -134,11 +143,12 @@
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
+* [Dynamite Jobs](https://www.dynamitejobs.com/) - 来自远程优先公司的工作
 
 ### Aggregator
 
 * [4 day week](https://4dayweek.io/) - 具有更好的工作与生活平衡的软件工作
-* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司刮下数千个远程工作岗位
+* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司中删除数千个远程工作
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
@@ -150,9 +160,9 @@
 
 ## Tech
 
-* [wateringcan.work](https://www.wateringcan.work) - 基督教科技工作
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
-* [Relocate.me](https://relocate.me/) - 已验证的搬迁包
+* [GOODJOBS](https://goodjobs.careers/) - 在试图解决气候变化和粮食不安全等问题的公司中精心挑选工程职位的工作委员会
+* [Relocate.me](https://relocate.me/) - 经验证的搬迁包
 * [underpin](https://www.underpin.company/) - 来自实际招聘人员的技术工作和求职建议
 
 ### Australia

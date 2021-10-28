@@ -48,9 +48,11 @@
 
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
+- [Aaia](https://github.com/rams3sh/Aaia) - 在 Neo4j 的帮助下，帮助以图形格式可视化 AWS IAM 和组织.
 - [Checkov](https://www.checkov.io/) - Terraform（基础设施即代码）的静态分析，以帮助检测 CIS 策略违规并防止云安全配置错误.
 - [Falco](https://falco.org/) - 行为活动监视器，旨在通过审核 Linux 内核并通过 Kubernetes 指标等运行时数据进行丰富，从而检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用轻量级虚拟机保护容器运行时，这些虚拟机的感觉和性能类似于容器，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
+- [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) - 通过能够识别 AWS 账户或 AWS 组织的 AWS Identity and Access Management (IAM) 配置中的风险的脚本和库，快速评估 AWS 中的 IAM 权限.
 - [Prowler](https://github.com/toniblyx/prowler) - 基于 AWS-CLI 命令的工具，用于 Amazon Web Services 帐户安全评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - 开源多云安全审计工具，可对云环境进行安全态势评估.
 - [gVisor](https://github.com/google/gvisor) - 应用程序内核，用 Go 编写，实现了 Linux 系统表面的很大一部分，以在应用程序和主机内核之间提供隔离边界.
@@ -121,8 +123,8 @@
 
 - [DynInst](https://dyninst.org/dyninst) - 用于二进制检测、分析和修改的工具，对二进制修补很有用.
 - [DynamoRIO](https://dynamorio.org/) - 运行时代码操作系统，支持程序任何部分的代码转换，同时它执行，作为进程级虚拟机实现.
-- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究而设计的普通 Linux 二进制文件.
-- [Valgrind](https://www.valgrind.org/) - 用于构建动态分析工具的检测框架.
+- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究设计的普通 Linux 二进制文件.
+- [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
 
 ### Compliance testing and reporting
 
@@ -226,7 +228,7 @@
 
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - 意大利 GNU/Linux 实时发行版，预先打包了大量数字取证和证据收集工具.
 - [Security Onion](https://securityonion.net/) - 用于入侵检测、企业安全监控和日志管理的免费开源 GNU/Linux 发行版.
-- [Qubes OS](https://qubes-os.org/) - 桌面环境构建在 Xen 管理程序项目之上，该项目在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制，以限制任何成功的恶意软件利用的范围.
+- [Qubes OS](https://qubes-os.org/) - 桌面环境构建在 Xen 管理程序项目之上，该项目在其自己的虚拟机中运行每个最终用户程序，旨在提供严格的安全控制以限制任何成功的恶意软件利用的范围.
 
 ## Phishing awareness and reporting
 
@@ -256,7 +258,7 @@
 
 ## Security configurations
 
-(Also known as *secure-by-default baselines* and *implemented best practices*.)
+（也称为*默认安全基线*和*已实施的最佳实践*.）
 
 - [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - NginX 配置的 Docker 映像和为网站实施许多防御技术的脚本.
 
