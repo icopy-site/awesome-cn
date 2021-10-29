@@ -26,7 +26,7 @@
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - 每次填写大表格真的很烦人，用虚拟数据加快速度.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - 根据字段类型建议值.
 - [Check All](https://chrispederick.com/work/web-developer/)  - “全选”通常不可用. 为什么不自己带？
-- [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
+- [Xmind](http://www.xmind.net/) - 用于记录测试的最佳（免费）思维导图工具.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - 开源测试用例管理系统
 - [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和 DOM 变化比较和回归.
 - [recheck-web](https://github.com/retest/recheck-web) - 具有本地金牌大师的开源更改比较工具、类似 git 的忽略语法和“牢不可破的 selenium”测试.
@@ -54,6 +54,9 @@
 - [UI is Communication](https://amzn.to/2vbiALY) - 如何制作直观的用户界面（UI 和可用性测试）.
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - 关于我们如何做出决定以及如何进行实验（实验 == 测试）.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - 一本关于面向开发人员的 JavaScript 测试工具和技术的书.
+- [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - 一本教您设计和执行可发现隐藏问题的受控实验的书.
+- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您从第一个简单的单元测试到构建可维护、可读和值得信赖的完整测试集的书.
+- [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - 通过实施自动化测试流程来保证您的 Web API 的质量和一致性.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训清单
@@ -105,7 +108,7 @@
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md) 详情. 基本上归结为：
 &gt;为了营造一个开放和热情的环境，我们作为
-贡献者和维护者承诺参与我们的项目和
+contributors and maintainers pledge to making participation in our project and
 我们的社区为所有人提供无骚扰体验，无论年龄、身体如何
 大小、残疾、种族、性别认同和表达、经验水平、
 国籍、个人外表、种族、宗教或性身份和性取向.

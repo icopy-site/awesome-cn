@@ -29,7 +29,7 @@
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 5 |  8 |  30-60m |
 
@@ -101,7 +101,7 @@
 
 ![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 6 |  8 |  10-20m |
 
@@ -111,7 +111,7 @@
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 8 |  14 |  30-45m |
 
@@ -143,7 +143,7 @@
 
 ![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 4 |  3 |  15-21m |
 
@@ -209,7 +209,7 @@
 
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
- &gt; 圣托里尼是一款容易上手的策略游戏，简单到适合小学课堂，同时旨在为铁杆玩家提供游戏深度和内容探索，规则简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到邻近空间）和建造（建造一个与您移动的建造者相邻的建筑层）. 如果您的任何一个建造者达到第三级，您就获胜.
+ &gt; 圣托里尼是一款容易上手的策略游戏，简单到适合小学课堂，同时旨在为铁杆玩家提供游戏深度和内容探索，规则简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到邻近空间）和建造（建造一个与您移动的建造者相邻的建筑层）. 如果您的任一建造者达到第三级，您就获胜.
 
 ![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
 
@@ -229,7 +229,7 @@
 
 ### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
 
- &gt; PARKS 是美国国家公园的庆典​​，展示了来自五十九个公园的杰出艺术. 在 PARKS 中，玩家将扮演两名徒步旅行者的角色，他们将在游戏过程中徒步旅行，参观景点、观察野生动物、拍照并参观国家公园. 他们将采取行动并收集您的徒步旅行者访问过的地方的记忆. 这些记忆由山林等各种资源令牌代表. 收集这些记忆可以让玩家在每次远足结束时交换它们去参观国家公园. 由瓷砖代表的每条小径代表不同的季节，随着季节的推移，小径会发生变化并逐渐变长. 每一轮，玩家都会派一名徒步旅行者沿着小路走. 在小径上，徒步旅行者会看到美丽的景点，并在到达时采取行动. 当徒步旅行者到达小径尽头时，他们可以使用收到的代币来参观公园并获得积分. 您的目标是在年底从您的公园、照片和个人奖金中获得最多积分. 
+ &gt; PARKS 是美国国家公园的庆典​​，展示了来自五十九个公园的杰出艺术. 在 PARKS 中，玩家将扮演两名徒步旅行者的角色，他们将在游戏过程中徒步旅行，参观景点、观察野生动物、拍照并参观国家公园. 他们将采取行动并收集您的徒步旅行者访问过的地方的记忆. 这些记忆由山林等各种资源令牌代表. 收集这些记忆可以让玩家在每次远足结束时交换它们去参观国家公园. 由瓷砖代表的每条小径代表不同的季节，随着季节的推移，小径会发生变化并逐渐变长. 每一轮，玩家都会派出一名徒步旅行者沿着小路走. 在小径上，徒步旅行者会看到美丽的景点，并在到达时采取行动. 当徒步旅行者到达小径尽头时，他们可以使用收到的代币来参观公园并获得积分. 您的目标是在年底从您的公园、照片和个人奖金中获得最多积分. 
 
 ![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg)
 
@@ -348,7 +348,7 @@
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 |  9 |  30-60m |
 
@@ -364,7 +364,7 @@
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt; Anachrony 是一款竞争激烈的欧洲风格战略游戏，背景是世界末日后的世界，沿着四种不同的意识形态路径重建. 游戏通过一系列称为时代的回合进行，过去的时代可以在游戏后期通过时间旅行到达. 玩家扮演四大道路的标志性领袖角色，不仅为人民的至高无上和福祉而奋斗，也为人民的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市世界之都.  Paths 应该为即将到来的大灾变做好准备，当时机成熟时，参与撤离正在崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
+ &gt; Anachrony 是一款竞争激烈的欧洲风格战略游戏，背景是世界末日后的世界，沿着四种不同的意识形态路径重建. 游戏通过一系列称为时代的回合进行，过去的时代可以在游戏后期通过时间旅行到达. 玩家扮演四大道路的标志性领袖角色，不仅为人民的至高无上和福祉而奋斗，也为人民的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市世界首都. 小径们应该为即将到来的大灾变做好准备，当时机成熟时，参与撤离正在崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -398,7 +398,7 @@
 
 ![Carcassonne game image](https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc()/pic2337577.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 5 |  8 |  30-90m |
 
@@ -418,7 +418,7 @@
 
 ![Chess game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/250px-ChessStartingPosition.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 |  5 |  5-120m |
 
@@ -428,7 +428,7 @@
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  4 - 8 |  7 |  30-90m |
 
@@ -438,7 +438,7 @@
 
 ![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  3 - 6 |  8 |  10-60m |
 
@@ -499,7 +499,7 @@
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 4 |  12 |  60-90m |
 
@@ -519,7 +519,7 @@
 
 ![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 4 |  13 |  30-45m |
 
@@ -539,7 +539,7 @@
 
 ![Stone Age](https://cf.geekdo-images.com/itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 4 |  10 |  60-90m |
 
@@ -575,7 +575,7 @@
  |  2 - 5 |  10 |  40-60m |
 ### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
 
- &gt; 在这个推理、逻辑和直觉的解谜挑战中，玩家们并肩作战，看看谁能第一个猜出对手的秘密方格. 每个动作回合都会让您更接近于找到隐藏的古老符号. 但要小心； 您的对手可能比您想象的更接近解决您的秘密方块！  Telepathy 棋盘游戏是一款出色的逻辑构建工具，非常适合教育工作者和解谜者. 如果您喜欢数独、Mastermind 或 Battleship，这款游戏适合您.
+ &gt; 在这个推理、逻辑和直觉的解谜挑战中，玩家们并肩作战，看看谁能第一个猜出对手的秘密方格. 每个动作回合都会让您更接近于找到隐藏的古老符号. 但要小心； 你的对手可能比你想象的更接近解决你的秘密方块！  Telepathy 棋盘游戏是一款出色的逻辑构建工具，非常适合教育工作者和解谜者. 如果您喜欢数独、Mastermind 或 Battleship，这款游戏适合您.
 
 ![Telepathy Image](https://cf.geekdo-images.com/HUrpAkrqZVwcjN8HXzaZaQ__itemrep/img/glE42FIgi4qCUEiDZxT_qJ1Vckk=/fit-in/246x300/filters:strip_icc\(\)/pic5283740.jpg)
 
@@ -667,7 +667,7 @@
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
- &gt; Munchkin 是一款大受欢迎的关于地牢冒险的纸牌游戏……没有那种愚蠢的角色​​扮演游戏. 您和您的朋友竞争杀死怪物并抢夺魔法物品. 还有什么神奇的物品！ 戴上角质头盔和踢屁股靴. 挥舞凝固汽油弹之杖……或者也许是血腥肢解电锯. 从屠宰盆栽植物和流口水的史莱姆开始，然后一路杀到钚龙……
+ &gt; Munchkin 是一款大受欢迎的关于地牢冒险的纸牌游戏……没有那种愚蠢的角色​​扮演游戏. 你和你的朋友竞争杀死怪物并抢夺魔法物品. 还有什么神奇的物品！ 戴上角质头盔和踢屁股靴. 挥舞凝固汽油弹之杖……或者也许是血腥肢解电锯. 从屠宰盆栽植物和流口水的史莱姆开始，然后一路杀到钚龙……
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
@@ -681,7 +681,7 @@
 
 ![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 4 |  4 |  30-60m |
 
@@ -691,7 +691,7 @@
 
 ![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg/256px-Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 4 |  3 |  30-60m |
 
@@ -711,7 +711,7 @@
 
 ![werewolf game image](https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__itemrep/img/qv0WkrvyQumuNtJry2pjodxjZ5k=/fit-in/246x300/filters:strip_icc()/pic1809823.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  3 - 10 |  8 |  10-15m |
 
@@ -721,7 +721,7 @@
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 5 |  12 |  45-60m |
 
@@ -731,7 +731,7 @@
 
 ![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  3 - 4 |  10 |  45-90m |
 
@@ -761,7 +761,7 @@
 
 ![Bears vs. Babies Image](https://cf.geekdo-images.com/iJpO2VOezeMXuclGqR_mXg__itemrep/img/TQYpLmeNOiCXBmEVHLDOpa9oxGI=/fit-in/246x300/filters:strip_icc()/pic3231155.png)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 5 |  7 |  15-20m |
 
@@ -782,7 +782,7 @@
 
 ![Joking Hazard image](https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__itemrep/img/5CtvRcuyQMZZV1QYhGNeSGo4J7Q=/fit-in/246x300/filters:strip_icc()/pic6411897.png)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  3 - 10 |  18 |  30-90m |
 
@@ -792,7 +792,7 @@
 
 ![Monopoly image](https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 6 |  8 |  40-75m |
 
@@ -802,7 +802,7 @@
 
 ![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  1 - 5 |  10 |  45-60m |
 
@@ -854,7 +854,7 @@
 
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   4 - 8 |       12 |  30m |
+ |  4 - 8 |  12 |  30m |
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
@@ -906,7 +906,7 @@
 
 ![TZAAR image](https://cf.geekdo-images.com/83RmBw8qTkDJo7qC-YY8og__itemrep/img/MsIQXw5i3XfQPNqcsKM56bPS-So=/fit-in/246x300/filters:strip_icc()/pic3607816.jpg)
 
-| Players | Min. Age |   Time |
+ | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 |  13 |  30-60m |
 
@@ -1046,7 +1046,7 @@
 
 ### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
 
- &gt; 踏上冒险、家庭、意外惊喜和宠物的过山车生活之路！ 想要走家庭道路，开始职业生涯，还是冒险冒险？ 在这款游戏中，玩家可以在人生的曲折中做出自己激动人心的选择. 从开始到退休，在游戏板上移动汽车令牌，体验与家庭、事业和其他人生里程碑相关的意外惊喜. 玩家可以在此版本的 The Game of Life 游戏中领养宠物. 游戏结束时金钱最多的玩家获胜！
+> Hit the road for a roller-coaster life of adventure, family, unexpected surprises, and pets! Want to take the family path, start a career, or venture down a risky road? In this game, players can make their own exciting choices as they move through the twists and turns of life. Move the car token around the gameboard from Start to Retirement, and experience unexpected surprises related to family, career, and other milestones of life. Players can adopt pets in this version of The Game of Life game. The player with the most money at the end of the game wins!
 &gt; 需要成人组装.
 &gt; 这个棋盘游戏还有一个数字应用程序版本.
 
@@ -1065,6 +1065,19 @@
  | 球员 | 最小. 年龄 | 时间 |
 | ------: | -------: | -----: |
  |  2 - 6 |  18+ |  20-30m |
+
+
+### [Battleship](https://board-games-galore.fandom.com/wiki/Battleship)
+
+ &gt; 在这款二人策略游戏中，玩家秘密地将自己的船只布置在一个有字母和编号的 10x10 网格上，然后尝试定位并摧毁对手的舰队. 每个玩家有两个网格. 一个网格用于放置您自己的船只并跟踪对您的命中，而第二个网格用于标记针对您的对手的命中. 通过调出网格的情节点之一轮流射击. 如果命中没有击中船只，则被视为未命中并与白色碎片挂钩. 如果命中与船只接触，则该撞击会被标记为红色. 每种船只在沉没之前所能承受的命中次数是不同的. 经过一些初步的探索性射击后，您可能会开始确定对手船只的位置并开始进行致命打击. 这是公海上的战斗！
+
+![Battleship image](https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc()/pic1293566.jpg)
+
+ | 球员 | 最小. 年龄 | 时间 |
+| ------: | -------: | -----: |
+|   2  |        8+ | 30m around|
+
+
 
 ## Contribute
 

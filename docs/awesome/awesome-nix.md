@@ -47,7 +47,7 @@
 * [KubeNix](https://github.com/xtruder/kubenix) - 使用 Nix 的 Kubernetes 资源构建器.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - 通过 Nix 包的单依赖 Kubernetes 集群.
 * [morph](https://github.com/DBCDK/morph) - 用于管理现有 NixOS 主机的工具.
-* [Nixery](https://github.com/google/nixery) - 一个与 Docker 兼容的容器注册表，它通过 Nix 临时构建图像.
+* [Nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - 使用 Nix 的简单无头 VM 配置（类似于 Vagrant）.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
@@ -132,9 +132,10 @@
 
 * [fenix](https://github.com/nix-community/fenix) - 每晚为 nix 提供 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
+* [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与前沿 Rust 和 Firefox 的叠加.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) - A compatible replacement for Mozilla's overlay that's pure and reproducible.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - Mozilla 覆盖层的兼容替代品，纯粹且可重现.
 
 ## NixOS Modules
 

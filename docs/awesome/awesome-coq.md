@@ -26,7 +26,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -67,7 +67,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - 与 Coq 一起分发并基于生成 makefile 的构建工具.
 - [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix 辅助脚本，用于自动本地构建和 Coq 的持续集成.
 - [Coq Package Index](https://coq.inria.fr/packages.html) - 基于 OPAM 的 Coq 包集合.
-- [Coq platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
+- [Coq Platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
 - [coq-community Templates](https://github.com/coq-community/templates) - 用于为 Coq 项目生成配置文件的模板.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) - 多版本 Coq 的 Docker 镜像.
 - [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - 用于 Coq 和数学组件库版本的多种组合的 Docker 映像.
@@ -153,7 +153,8 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的正式模型、类型系统的逻辑关系以及一些 Rust 库的安全证明.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - RISC-V 处理器指令集架构和扩展的定义.
-- [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
+- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 用于拓扑排序和在有限图中查找强连通分量的算法的验证实现.
+- [Vélus](http://velus.inria.fr) - 经过验证的编译器，用于类似 Lustre/Scade 的数据流同步语言.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Raft 分布式共识协议的实现，在 Coq 中使用 Verdi 框架进行验证.
 
 ## Resources
@@ -210,11 +211,11 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Tutorials and Hints
 
-- [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - 在线证明挑战.
+- [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - Online proving challenges.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 来定义逻辑概念和函数以及对它们的推理.
 - [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.
-- [Hydras, Ordinals & Co.](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣数学的变化，包括文档和练习.
+- [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣数学的变化，包括文档和练习.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - 使用规范结构进行编程和证明的设计模式演示.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - 数学组件教程的源代码.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - 使用 Coq 编写形式证明的基础知识.

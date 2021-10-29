@@ -4,7 +4,7 @@
 
 &gt; 您可以支持的优秀程序员和软件项目的精选列表！
 
-帮助个人程序员或开源项目资助您最喜欢的软件的开发，通过 Github 赞助他们，订阅他们的 Patreon 帐户或使用其他形式的赞助. 
+帮助个人程序员或开源项目资助你最喜欢的软件的开发，通过 Github 赞助他们，订阅他们的 Patreon 帐户或使用其他形式的赞助. 
 
 一种回馈开源社区的切实方式！
 
@@ -88,6 +88,7 @@ _使用开源许可证发布的项目._
 - [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) - 类似于 Go 的静态类型编译编程语言，受 Oberon、Rust、Swift 的影响.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) - VLC 视频播放器的制造商.
 - [Vim-Go](https://www.patreon.com/bhcleek) - 去 VIM 插件.
+- [Weblate](https://liberapay.com/Weblate) - 具有紧密版本控制集成的本地化工具.
 - [Webpack](https://opencollective.com/webpack) - JavaScript 模块打包器.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - 使用 Node.js 构建的 Wiki 平台.
 - [WireGuard](https://www.patreon.com/zx2c4) - 下一代安全网络隧道.
@@ -137,6 +138,7 @@ _操作系统和 Linux 发行版._
 - [Redox OS](https://www.patreon.com/redox_os) - 用 Rust 编写的操作系统.
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - 适用于 x86 的图形类 Unix 操作系统，具有 90 年代的美感.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux 发行版.
+- [Solus](https://opencollective.com/getsolus) - Linux 发行版.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu 变体. 
 - [Ubuntu Studio](https://www.patreon.com/ubuntustudio), [#2](https://liberapay.com/ubuntustudio) - 用于创建音频、视频、图形等的 Ubuntu 变体.
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - 触摸友好的移动版 Ubuntu.
@@ -146,6 +148,7 @@ _操作系统和 Linux 发行版._
 _游戏和游戏相关项目._
 
 - [Battle for Wesnoth](https://liberapay.com/Wesnoth) - 回合制策略游戏.
+- [Citra](https://www.patreon.com/citraemu) - 任天堂 3DS 模拟器.
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于 Windows 的 Xbox 模拟器.
 - [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/龙与地下城和NPC生成器.
@@ -153,6 +156,7 @@ _游戏和游戏相关项目._
 - [Lutris](https://www.patreon.com/lutris) - 游戏启动器和平台.
 - [Play!](https://www.patreon.com/jpd002) - PS2模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.
+- [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 模拟器.
 - [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 - [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
@@ -181,7 +185,7 @@ _为要求支持他们工作的多个项目做出贡献的开发人员._
 - [Duduf](https://www.patreon.com/duduf) - 动画和电影制作工具. 
 - [Eevee](https://www.patreon.com/eevee) - 游戏、应用程序和文章.
 - [Egoist](https://www.patreon.com/egoist/overview) - 各种 JavaScript 库和工具.
-- [Eric S. Raymond](https://www.patreon.com/esr) - Nethack，GPSd，“大教堂和集市”的作者.
+- [Eric S. Raymond](https://www.patreon.com/esr) - Nethack, GPSd, author of "The Cathedral and the Bazaar".
 - [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - 从事 PyDev 和相关项目.
 - [Felipe Lima](https://github.com/sponsors/felipecsl) - 各种项目和库，如 OkReplay、AirMapView、AsymmetricGridView、GifImageView、Wombat.
@@ -194,7 +198,7 @@ _为要求支持他们工作的多个项目做出贡献的开发人员._
 - [James 'Purpleidea'](https://github.com/users/purpleidea/sponsorship) - 管理配置、文章等.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - 创建 C++ 库和标准提案.
 - [Joey Hess](https://www.patreon.com/joeyh) - git-annex、keysafe、其他 Linux 软件.
-- [Johann-S](https://github.com/sponsors/Johann-S) - Bootstrap JavaScript 开发人员以及各种插件和项目.
+- [Johann-S](https://github.com/sponsors/Johann-S) - Bootstrap JavaScript 开发人员和各种插件和项目.
 - [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) - Hyperapp 和许多其他 JavaScript 项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - 各种 C++ 库、工具、文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) - GIMP、OpenSimulator、KiCad 和 TinyScheme 等项目的贡献者.
@@ -233,7 +237,7 @@ _为要求支持他们工作的多个项目做出贡献的开发人员._
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - 无数的开源项目.
 - [skypjack](https://github.com/sponsors/skypjack) - C++ 库，例如 uvw 和 EnTT.
 - [Stéphane Peter](https://github.com/sponsors/megastep) - AudioKit 贡献者、Makeself 和其他库和项目.
-- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp package archive and other software tooling.
+- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp 包存档和其他软件工具.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - 各种 iOS/macOS 软件. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - 使用 Inkscape 矢量图形编辑器.
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - 游戏相关项目. 
@@ -288,6 +292,8 @@ _硬件相关的项目和制造商._
 - [Damien Maguire](https://www.patreon.com/evbmw) - 电动汽车项目.
 - [Espruino](https://www.patreon.com/espruino) - 微控制器的 JavaScript 解释器.
 - [Frank Buss](https://www.patreon.com/frankbuss) - FPGA 和其他硬件项目.
+- [GitClear](https://github.com/sponsors/gitclear) - 改进了 Linux 对触摸板的支持.
+- [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - 对 Apple Silicon Mac 的 Linux 支持.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - 视频和硬件. 
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - 各种微控制器的引脚图.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - 复古游戏. 

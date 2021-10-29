@@ -53,6 +53,9 @@
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - 使用现实世界的场景从第一原则教授函数式编程.
 - [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - 国际畅销书修订了新的练习、注释和对 Scala 3 的全面覆盖.
 - [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
+- [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - 函数式编程简介.
+- [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - 掌握函数式编程的技术和概念，以交付更安全、更简单、更有效的 Kotlin 代码.
+
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - 专注于讨论研究、论文的社区
 和学术界的热门话题. 非常高的技术讨论水平.
@@ -93,7 +96,7 @@
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - 一个功能性的 Javascript 研讨会.
 - [J-Bob](https://github.com/the-little-prover/j-bob) - 《小证明者》一书中的证明助手
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - 有关 Haskell 的视频、演讲和课程列表.
-- [Intro SML](http://www.it.dtu.dk/introSML/) - 书中的代码、更正和信息：`Introduction to Programming using SML`
+- [Intro SML](http://www.it.dtu.dk/introSML/) - 本书的代码、更正和信息：`Introduction to Programming using SML`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - JavaScript 中的函数式编程资源列表.
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - 提供FP词汇表的项目，让学习FP更容易.
 - [Bow](https://github.com/bow-swift/bow) - Swift 中类型化函数式编程的配套库.
