@@ -32,6 +32,17 @@
   - [eden](https://github.com/benzap/eden)
 
 
+## Awesome macros usage
+
+*回答为什么 lisp 闪耀，杀手级功能在行动*
+
+  * [core.async](https://github.com/clojure/core.async) - 将 AST 转换为 CSP 程序
+  * [cloroutine](https://github.com/leonoel/cloroutine) - 暂停和继续（协程）
+  * [missionary](https://github.com/leonoel/missionary) - 反应式数据流编程工具包
+  * [photon](https://github.com/venantius/photon) - 实时网络，如 Meteor，但适用于 Clojure（脚本）
+  * [metaclj](https://github.com/brandonbloom/metaclj) - 分阶段编译
+  * [meander](https://github.com/noprompt/meander) - 使用数据结构模式匹配的透明数据转换
+  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只需学习如何将您的思想映射到不可变的世界）
 ## Advanced datastructures
 
   * [specter](https://github.com/redplanetlabs/specter)：用于查询和转换嵌套和递归数据的优雅 API
