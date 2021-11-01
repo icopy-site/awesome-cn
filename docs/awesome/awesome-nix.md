@@ -23,7 +23,7 @@
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - 轻松搜索所有或选定的 Nix 相关存储库.
-* [NixDB](https://4shells.com/nixdb) - 包含来自所有渠道的所有版本的 Nix 软件包的数据库.
+* [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 软件包的数据库.
 
 ### Newsletters
 
@@ -38,11 +38,11 @@
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git commit.
-* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已经进入频道的跟踪器.
+* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - PR 是否已进入频道的跟踪器.
 
 ## Deployment Tools
 
-* [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为模型.
+* [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，模仿 NixOps 和 morph.
 * [krops](https://cgit.krebsco.de/krops/about/) - 用于远程或本地部署 NixOS 系统的轻量级工具包.
 * [KubeNix](https://github.com/xtruder/kubenix) - 使用 Nix 的 Kubernetes 资源构建器.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - 通过 Nix 包的单依赖 Kubernetes 集群.
@@ -73,7 +73,7 @@
 * [devshell](https://github.com/numtide/devshell) - 带有额外位和 toml 配置选项的 `mkShell`，以便能够加入非 nix 用户.
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用程序功能可帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的`.gitignore` 集成.
-* [lorri](https://github.com/target/lorri/) - 一个更好的`nix-shell` 用于增强direnv 的开发.
+* [lorri](https://github.com/target/lorri/) - 一个更好的`nix-shell` 用于开发，增强了 direnv.
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和 flake 兼容配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
@@ -130,7 +130,7 @@
 
 ### Rust
 
-* [fenix](https://github.com/nix-community/fenix) - 每晚为 nix 提供 Rust 工具链和 Rust 分析器.
+* [fenix](https://github.com/nix-community/fenix) - 每晚用于 nix 的 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与前沿 Rust 和 Firefox 的叠加.

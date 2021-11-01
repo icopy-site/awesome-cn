@@ -15,9 +15,11 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
- *虚假*文章是对特定主题的一种评论形式，因其有效性和简洁性而受到广大开发人员社区的赞赏. 它们是一种方便的书面形式，可以通过消除神话、指出常见陷阱、显示不一致和微妙之处来接近陌生领域.
+*虚假*是您最初认为是真实的***想法*，但在现实中它被**证明是错误的**.
 
-从某种意义上说，*Falsehood* 文章是一套冗长的单元测试，涵盖了由实际使用提供的广泛边缘情况.
+例如*想法*：有效的电子邮件地址正好有一个`@`字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的\！  *现实*是：电子邮件 [can have multiple `@` chars](#emails) . 因此，您的实现应该允许这样做. 最初的*想法*是你相信的错误.
+
+下面列出的*错误*文章将全面列出您应该注意的那些错误信念，以帮助您成为更好的程序员.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -77,7 +79,7 @@
 
 ## Education
 
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时甚至令人惊讶地相信，即使他们（可能）应该知道得更好.
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时令人惊讶地相信，即使他们（可能）应该知道得更好.
 - [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `关于博士后研究人员的很多说法、书面和观点都是不真实的.`.
 
 ## Emails
@@ -149,13 +151,13 @@
 
 - [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - 涵盖街道、邮政编码、建筑物、城市和国家.
 - [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - 这不仅与地址本身有关，还与一个人与其住所之间的关系有关.
-- [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - 关于邮政地址的终极谎言：你不需要一个.
+- [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear 有自己的邮政编码 (`20252`)，因为他收到了很多邮件.
 - [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - 为什么正则表达式和街道地址不混合.
 - [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html) - “我看到了很多恐怖，但我从未在其他任何地方看到过这种特殊的格式选择.”
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - Google 用于解析、格式化和验证国际邮政地址的通用 C++ 和 Java 库.
 - [`addressing`](https://github.com/commerceguys/addressing) - 一个 PHP 5.4+ 寻址库，由 Google 的数据集提供支持.
-- [`postal-address`](https://github.com/scaleway/postal-address) - Python module to parse, normalize and render postal addresses.
+- [`postal-address`](https://github.com/scaleway/postal-address) - 用于解析、规范化和呈现邮政地址的 Python 模块.
 - [`address`](https://github.com/Boostport/address) - Go library 使用 Google 的数据集验证和格式化地址.
 
 ## Science
@@ -175,7 +177,7 @@
 - [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - 虽然 RFC4180 存在，但它远非确定性并且在很大程度上被忽略.
 - [Falsehoods about Package Managers](https://kdeldycke.github.io/meta-package-manager/falsehoods.html) - 涵盖包裹及其经理.
 - [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - 试图建立一个关于测试的虚假清单.
-- [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - Why search (including analysis, tokenization, highlighting) is deceptively complex.
+- [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - 为什么搜索（包括分析、标记化、突出显示）看似复杂.
 - [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - 关于实施搜索引擎的难度的更好来源的文章.
 - [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - 对比特币的错误观点列表.
 - [Falsehoods about Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 为什么你的分页算法让某人（可能是你）头疼.
@@ -201,7 +203,7 @@
 
 ## Contributing
 
-随时欢迎您的贡献\！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) 第一的.
+随时欢迎您的贡献\！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
 
 ## Footnotes
 
