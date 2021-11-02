@@ -6,7 +6,7 @@
 带有 &quot;:strawberry:&quot; 图标的插件也有 CakePHP 4 兼容版本.
 
 如果您正在寻找 CakePHP 2.x 资源，请访问：
-- 这 [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) 这个很棒的清单
+- the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) 这个很棒的清单
 - 这个维基有 [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 您可能会发现有用的其他列表：
@@ -62,7 +62,7 @@
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的 Cake 3 插件，可自动使用 Cookie 对用户进行身份验证.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) - 用于分层、基于角色、简单授权的 CakePHP 插件.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - 使用 OAuth2 身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
-- ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - 事件驱动行为，可轻松生成一次性安全令牌.
+- ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - 事件驱动的行为，可轻松生成一次性安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - 轻松构建支持 SaaS 的 Web 应用程序.
 - ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - 基于身份验证和角色的（单/多）授权作为非常轻量级的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - 包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 对于密码散列的 DRY 方法.
@@ -176,10 +176,8 @@
 - [Composer Installers](https://github.com/composer/installers) - 多框架 Composer 库安装程序.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - 包和依赖项管理器.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - Graphviz 库.
-- [Jenkins](https://jenkins.io/) - 私有 (GitHub) 存储库的免费替代方案.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) - PHP 任务运行器和部署包.
-- [Travis CI](https://travis-ci.org/) - 持续集成平台 - 测试 (GitHub) 存储库的事实标准.
-- [YamlRoute](https://github.com/makallio85/yaml-route) - 使用简单的 YAML 文件配置路由.
+- [makallio85/YamlRoute plugin](https://github.com/makallio85/yaml-route) - 使用简单的 YAML 文件配置路由.
 
 ## Markup
 *用于处理标记的插件.*
@@ -345,7 +343,7 @@
 *用于模板和词法分析的插件.*
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - 输出标记地址的地址助手.
-- ：草莓： [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality.
+- ：草莓： [Bake plugin](https://github.com/cakephp/bake) - 提供代码生成功能.
 - [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - 支持 LESS 的 Bootstrap 3 插件.
 - ：草莓： [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 集成.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - 用于生成 XLSX 文件的 Excel 视图.
@@ -484,7 +482,7 @@
 - [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - 德国的聚会.
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 详情.
 
 ## Credits
 awesome-cakephp 是由 [dereuromark](https://github.com/dereuromark) 目前由他和 FriendsOfCake 小组维护. 谢谢你们 [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors)， 也.

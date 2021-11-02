@@ -43,7 +43,7 @@
 - [Flask-Login](https://flask-login.readthedocs.io/) - 帐户管理和身份验证.
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - 授权.
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - 账户管理、认证、授权.
-- [Flask-SimpleLogin](https://github.com/flask-extensions/flask_simplelogin) - 验证.
+- [Flask-SimpleLogin](https://github.com/flask-extensions/Flask-SimpleLogin) - 验证.
 - [Flask-User](https://flask-user.readthedocs.io) - 账户管理、认证、授权.
 
  &gt; 想知道 Flask-User 和 Flask-Security 之间的区别吗？ 查看 Flask 用户 [FAQ](https://flask-user.readthedocs.io/en/latest/faq.html).
@@ -68,7 +68,7 @@
 ### Data Validation and Serialization
 
 - [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Flask 和棉花糖（一个对象序列化/反序列化库）的薄集成层，为棉花糖添加了附加功能.
-- [Flask-Pydantic](https://github.com/bauerji/flask_pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) 支持.
+- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) 支持.
 
 ### Databases
 
@@ -205,7 +205,7 @@
 
 ### Conferences
 
-- [FlaskCon](https://flaskcon.com/) - 社区驱动的 Flask 活动，旨在供世界各地的演讲者和与会者参加与 Flask 相关的技术和福音会议.
+- [FlaskCon](https://flaskcon.com/) - 社区驱动的 Flask 活动旨在供世界各地的演讲者和与会者参加与 Flask 相关的技术和福音会议.
 - [PyConWeb](https://twitter.com/pyconweb)  - 涵盖 Django、Tornado、Flask、API 框架.  AsyncIO、网络、前端、JavaScript 和 Web 安全.
 - [Flask Conf Brazil](https://2019.flask.python.org.br/) - Flask 开发人员和用户的会议.
 - [PyCon US](https://us.pycon.org/) - 社区使用和开发开源 Python 编程语言的最大年度聚会.
@@ -265,7 +265,7 @@
 - [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/services/app-service/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 - [Divio](https://www.divio.com)
 - [Render](https://render.com/)
 
@@ -298,7 +298,6 @@ Compute:
 
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - 使用 Bootstrap 4，使用 webpack、入门模板和注册/身份验证进行资产捆绑和缩小.
 - [Cookiecutter Flask Skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton) - Flask 启动项目 [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
-- [gae-init](https://gae-init.appspot.com) - 用于在 Google App Engine 上启动新应用程序.
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - 简单快速的应用程序开发框架，包括详细的安全性、模型的自动 CRUD 生成、Google 图表等等.
 - [flask-base](http://hack4impact.github.io/flask-base/) - 包括 SQLAlchemy、Redis、用户身份验证等.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) - 集成 SQLAlchemy、身份验证和 Bootstrap 前端.
@@ -319,7 +318,7 @@ Compute:
 - [Redash](https://github.com/getredash/redash) - 旨在使任何人，无论技术复杂程度如何，都能利用大小数据的力量.
 - [SkyLines](https://github.com/skylines-project/skylines) - 实时跟踪、飞行数据库和比赛框架.
 - [Security Monkey](https://github.com/Netflix/security_monkey) - 监控 AWS、GCP、OpenStack 和 GitHub 组织的资产及其随时间的变化.
-- [SecureDrop](https://github.com/freedomofpress/securedrop) - 开放源代码的举报人提交系统，媒体组织可以使用该系统安全地接受来自匿名来源的文件并与之通信.
+- [SecureDrop](https://github.com/freedomofpress/securedrop) - 开放源代码的举报人提交系统，媒体组织可以使用该系统安全地接受来自匿名来源的文件并与匿名来源通信.
 - [SimpleLogin](https://github.com/simple-login/app) - 使用电子邮件别名保护您的在线身份.
 - [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) - Git 托管服务（查看 [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) 同样）.
 - [Timesketch](https://github.com/google/timesketch) - 协作取证时间线分析.

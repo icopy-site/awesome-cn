@@ -233,7 +233,7 @@
 -  [a17t](https://a17t.miles.land) - 用于扩展 Tailwind CSS 的原子设计工具包.
 -  [tails-ui](https://github.com/knipferrc/tails-ui) - 使用 Tailwind CSS 响应 UI 库.
 -  [tails](https://github.com/thedevdojo/tails) - 使用 Tailwind CSS 手工制作的模板和组件.
--  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
+-  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的随时可用的 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
@@ -258,7 +258,7 @@
 -  [Tailwind Typeahead](https://github.com/basarozcan/vue-tailwindcss-typeahead) - 使用 Vue.js 和 Tailwind CSS 构建的 Typeahead/Autocomplete 组件.
 -  [Material Tailwind](https://material-tailwind.com/) - 易于使用的 Tailwind CSS 和 Material Design 组件库.
 -  [Vue Notus](https://www.creative-tim.com/product/vue-notus) - 开源 Tailwind CSS 和 Vue.js UI 套件.
--  [Tailwind Made](https://tailwindmade.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
+-  [Red Pixel Themes](https://redpixelthemes.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - 多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) - 带有 Tailwind CSS 的管理面板模板.

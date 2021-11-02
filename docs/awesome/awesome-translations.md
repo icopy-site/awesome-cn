@@ -28,6 +28,7 @@
 - [Traduora](https://github.com/traduora/traduora) - 用于管理团队翻译工作流程的平台.
 - [SimpleLocalize](https://simplelocalize.io) - 一个简单的软件项目翻译管理.
 - [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接提供给您的源代码.
+- [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
 
 ## Apps
 
