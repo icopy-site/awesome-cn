@@ -9,7 +9,7 @@
 
 &gt; 精心策划的令人敬畏的 Craft CMS 文章、资源和闪亮事物的列表.
 
-[Craft CMS](https://craftcms.com) 是一个专为开发人员、设计人员和网络专业人士设计的内容管理系统，为客户融合了灵活性、强大功能和易用性. 构建为尽可能具有出色的可扩展性和灵活性，同时不影响内容作者的易用性.
+[Craft CMS](https://craftcms.com) 是一个专为开发人员、设计人员和 Web 专业人员设计的内容管理系统，为客户提供了灵活性、强大功能和易用性. 构建为尽可能具有出色的可扩展性和灵活性，同时不影响内容作者的易用性.
 
 ### Contributing
 请快速浏览一下 [contribution guidelines](https://github.com/craftcms/awesome/blob/master/CONTRIBUTING.md) 第一的. 如果您在此处看到不再维护或不适合的文章或资源，请提交拉取请求以改进此文件. 此外，更多类别的想法 [are needed](https://github.com/chasegiunta/awesome-craft/issues/2) ！ 感谢所有贡献者； 你摇滚！
@@ -56,7 +56,7 @@
 - [Issues & Feedback](https://github.com/craftcms/cms/issues) - 发布功能想法和错误报告.
 - [Meetups](https://craftcms.com/meetups) - 寻找当地的工艺聚会.
 - [Mijingo](https://mijingo.com/craft) - 用于学习工艺的视频课程和方法文章.
-- [Professionals](https://straightupcraft.com/professionals) - 寻找熟练且热衷于与 Craft 合作的人.
+- [Professionals](https://straightupcraft.com/professionals) - 寻找熟练并热衷于与 Craft 合作的人.
 - [Slack](https://craftcms.com/slack) - 加入致力于 Craft CMS 讨论的 Slack 小组.
 - [StackExchange](https://craftcms.stackexchange.com) - 针对管理员、最终用户、开发人员和设计人员的问答.
 - [Straight Up Craft](http://straightupcraft.com/) - 教程、插件目录、事件列表等.
@@ -96,7 +96,7 @@
 - [Multi-attribute variant selection in Craft Commerce](https://www.vaersaagod.no/en/multi-attribute-variant-selection-in-craft-commerce) 作者：André Elvan / Værsågod - `2017 年 2 月 13 日`
 
 - [Craft CMS Content Builder: The Client Experience](https://designbycosmic.com/articles/development/craft-cms-content-builder-the-client-experience) 由 Cosmic - `2017 年 2 月 1 日`
-- [Creating a Content Builder in Craft CMS](https://nystudio107.com/blog/creating-a-content-builder-in-craft-cms) 作者：Andrew Welch/nystudio107-`2017 年 1 月 16 日`
+- [Creating a Content Builder in Craft CMS](https://nystudio107.com/blog/creating-a-content-builder-in-craft-cms) 作者：Andrew Welch/nystudio107 - `2017 年 1 月 16 日`
 
 - [Add users to Craft with content migrations](https://joren.co/add-users-to-craft-with-content-migrations/) 作者：Joren Van Hee - `2018 年 10 月 28 日`
 - [Using Content Migrations in Craft 3](https://adigital.agency/blog/using-content-migrations-in-craft-3) 作者：Matt Shearing/A Digital - `2018 年 2 月 23 日`
@@ -166,7 +166,7 @@
 - [Introduction to Craft CMS](https://github.com/jeromecoupe/iad_craftcms_introduction) 作者：Jérôme Coupé/Webstoemp（在 Github 上）
 
 ##### Security
-- [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) 作者：Ben Croker/PutYourLightsOn - `2021 年 5 月 4 日`
+- [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) 作者：Ben Croker/PutYourLightsOn-“2021 年 5 月 4 日”
 - [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) 作者：Ben Croker/PutYourLightsOn - `2021 年 1 月 26 日`
 - [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) 作者：Ben Croker/PutYourLightsOn-`2021 年 1 月 13 日`
 - [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - 化妆品
@@ -196,7 +196,7 @@
 - [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) 作者：Jérôme Coupé / Webstoemp - `15 Jul 2015`
 - [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) 作者：Jérôme Coupé/Webstoemp - `2016 年 2 月 17 日`
 - [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) 作者：Sean Smith/Caffeine Creations -`2018 年 6 月 29 日`
-- [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) 作者：Jan D&#39;Hollander - `2018 年 7 月 10 日`
+- [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) 作者 Jan D&#39;Hollander - `2018 年 7 月 10 日`
 
 ### Videos
 
@@ -284,7 +284,7 @@
 - [Flexbox and Craft](https://www.youtube.com/watch?v=9x7FZ22N15U) 作者：Ben Parizek/Straight Up Craft - `2016 年 5 月 27 日`
 - [Flexible Twig Templates in Craft](https://mijingo.com/products/screencasts/reusable-twig-templates-craft/) 作者：Ryan Irelan/Mijingo -“付费”
 - [How I build components in CraftCMS with Twig](https://www.youtube.com/watch?v=FNIM8MvUL-Q) 作者：Alex Carpenter - `2017 年 12 月 28 日`
-- [How to build a content builder in Craft CMS](https://www.youtube.com/watch?v=VSXglzqJ2Z4) 作者：Alex Carpenter - `30 Mar 2018`
+- [How to build a content builder in Craft CMS](https://www.youtube.com/watch?v=VSXglzqJ2Z4) 亚历克斯·卡彭特（Alex Carpenter）-`2018 年 3 月 30 日`
 - [How to build a reusable carousel component with Craft CMS](https://www.youtube.com/watch?v=e-6bk2VnBCk&feature=youtu.be) 作者：Alex Carpenter - `2018 年 4 月 22 日`
 - [Matrix as a Layout Builder](https://www.youtube.com/watch?v=IJpCMkA2Bxw) 作者：Ben Parizek/Straight Up Craft - `2016 年 5 月 13 日`
 - [Navigating Navigation in Craft CMS](https://www.youtube.com/watch?v=eDAdIkXBH48) 作者：Ben Parizek/Straight Up Craft - `2016 年 5 月 20 日`
@@ -300,10 +300,10 @@
 - [Contact Form in Craft CMS](https://mijingo.com/lessons/contact-form-in-craft-cms/) 作者：赖安·艾瑞兰/Mijingo
 
 ### Presentations
-- [Building a Smarter Craft Commerce Website](https://speakerdeck.com/sjcallender/building-a-smarter-craft-commerce-website) 作者：Stephen Callender -`2018 年 9 月 27 日`
+- [Building a Smarter Craft Commerce Website](https://speakerdeck.com/sjcallender/building-a-smarter-craft-commerce-website) 作者：Stephen Callender - `2018 年 9 月 27 日`
 - [Craft 3 Plugin Development](https://speakerdeck.com/brandonkelly/craft-3-plugin-development) 作者：布兰登凯利 - `2017 年 4 月 26 日`
 - [Crafting Modern SEO](https://speakerdeck.com/nystudio107/crafting-modern-seo) 作者：Andrew Welch - `2017 年 10 月 23 日`
-- [Design Processes and Systems in Craft](https://www.slideshare.net/CourtneyBradford/design-processes-and-systems-in-craft-116882979) 考特尼·布拉德福德 (Courtney Bradford) - `2018 年 9 月 27 日`
+- [Design Processes and Systems in Craft](https://www.slideshare.net/CourtneyBradford/design-processes-and-systems-in-craft-116882979) 作者：考特尼布拉德福德 - `2018 年 9 月 27 日`
 - [Designers Guide to Craft CMS Plugins](https://speakerdeck.com/bymayo/designers-guide-to-craft-cms-plugins) - 杰森·梅奥 (Jason Mayo) - `2016 年 11 月 3 日`
 - [Dot All 2017 Keynote](https://speakerdeck.com/brandonkelly/dot-all-2017-keynote) 作者：布兰登凯利-`2017 年 10 月 23 日`
 - [How to Migrate Legacy Content to Craft Without Losing Your Sanity](https://speakerdeck.com/jamesgreig/how-to-migrate-legacy-content-to-craft-without-losing-your-sanity) 作者：James Greig - `Sep 28 2018`
@@ -312,7 +312,7 @@
 - [Making a Craft CMS Website That Flies](https://speakerdeck.com/nystudio107/making-a-craft-cms-website-that-flies) 作者：Andrew Welch - `2018 年 9 月 27 日`
 - [Modern Frontends with Craft CMS, GraphQL, and React](https://pauloelias.github.io/modern-frontends-craft-react-graphql-v1/#0) 保罗·埃利亚斯
 - [Multilingual Sites in Craft 3](https://speakerdeck.com/drifteaur/multilingual-sites-in-craft-3) 作者：Zoltan Varady - `2018 年 9 月 27 日`
-- [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) 鲍勃·奥尔德·汉普辛克（Bob Olde Hampsink）-`2018 年 9 月 27 日`
+- [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) 鲍勃·奥尔德·汉普辛克 (Bob Olde Hampsink) - `2018 年 9 月 27 日`
 - [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) 作者：马特温伯格-`2018 年 9 月 28 日`
 - [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) 作者：布兰登凯利-`2018 年 9 月 28 日`
 - [The Art Of Plugin Development](https://speakerdeck.com/putyourlightson/the-art-of-plugin-development) 本·克罗克 (Ben Croker) - `2018 年 9 月 27 日`
@@ -336,7 +336,7 @@
 - [Why We Use Craft CMS](https://builtbymasonry.com/journal/why-we-use-craft-cms) by Masonry - `2017 年 11 月 7 日`
 - [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) 作者：Honcho - `2019 年 4 月 16 日`
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) 作者： Welford Media - `2016 年 10 月 14 日`
-- [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) 摘要 - `2017 年 4 月 25 日`
+- [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by Abstract - `2017 年 4 月 25 日`
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) 作者：Sam Goddard/Kind - `2017 年 3 月 21 日`
 - [Why Craft?](https://www.webstoemp.com/blog/why-craft-cms/) 作者：Jérôme Coupé/Webstoemp - `2015 年 6 月 17 日`
 
@@ -394,6 +394,7 @@
 - [Betterteam](https://www.betterteam.com/)
 - [BigCommerce](https://www.bigcommerce.com)
 - [Bill Nye](https://www.billnye.com/)
+- [Canary Media](https://www.canarymedia.com/)
 - [City of Marion, IN](https://cityofmarion.in.gov/)
 - [City of Oakland](https://www.oaklandca.gov/)
 - [Confab Events](http://confabevents.com)

@@ -18,7 +18,8 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 - [Textual](https://www.codeux.com/textual/)  - 非常可定制、ZNC 集成、iCloud 同步（4.99 美元）.  ([source](https://github.com/Codeux-Software/Textual))`macOS`
 - [LimeChat](http://limechat.net/mac/)  - 多个服务器的一个窗口，键盘快捷键，快速而稳定.  ([source](https://github.com/psychs/limechat)) `macOS` iOS`
 - [HexChat](https://hexchat.github.io)  - 基于 XChat，易于使用、拼写检查和多种语言.  ([source](https://github.com/hexchat/hexchat)) `Windows` macOS` `Linux`
-- [Kiwi IRC](https://kiwiirc.com)  - 强大的现代网络 IRC 信使.  ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+- [gamja](https://sr.ht/~emersion/gamja/)  - 一个简单的 IRC 网络客户端.  ([source](https://git.sr.ht/~emersion/gamja))`网页`
+- [Kiwi IRC](https://kiwiirc.com)  - 强大的现代网络 IRC 信使.  ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/))`网页`
 - [CIRC](https://flackr.github.io/circ/)  - 使用 chrome.sockets API 直接连接到 IRC 服务器，无需代理.  ([source](https://github.com/flackr/circ))`铬`
 - [Quassel](https://quassel-irc.org) - 分布式（客户端可以连接到永久在线的中央核心或从其分离.（[source](https://github.com/quassel/quassel)) `Linux` macOS` `Windows`
 - [Yaaic](https://www.yaaic.org)  - 多服务器/频道支持、SASL 支持、平滑频道滚动/滑动.  ([source](https://github.com/pocmo/Yaaic))`安卓`
@@ -31,7 +32,7 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 - [irssi](https://irssi.org)  - 终端客户端，对模块作者多协议友好，GPLv2.  `Linux``macOS``Cygwin``BSD`
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)  - 功能齐全、积极维护的 Android IRC 客户端.  ([source](https://github.com/MCMrARM/revolution-irc))`安卓`
 - [AdiIRC](https://adiirc.com)  - 从未有客户为 IRC 体验的各个方面提供如此精细的设置.  ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
-- [IRC for Android™](https://www.countercultured.net/android/) 适用于高级用户的 Android/Chrome OS 客户端，具有内置 ZNC、通知逻辑、可靠的 DCC、硬件键盘的键绑定等. `Android` `ChromeOS`
+- [IRC for Android™](https://www.countercultured.net/android/) 适用于高级用户的 Android/Chrome OS 客户端，内置 ZNC、通知逻辑、可靠的 DCC、硬件键盘的键绑定等. `Android` `ChromeOS`
 - [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/)  - 友好的 IRC 客户端内置 Vala 和 GTK，专为基本操作系统设计.  ([source](https://github.com/avojak/iridium))`Linux`
 
  *更多的？ 找到包含保镖的客户 [below](#bouncers).*
@@ -64,8 +65,8 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 - [InspIRCd](https://www.inspircd.org)  - 模块化，稳定，从头开始编写.  ([source](https://github.com/inspircd/inspircd))
 - [miniircd](https://github.com/jrosdahl/miniircd) - 非常简单和有限.
 - [ngIRCd](https://ngircd.barton.de)  - 适用于小型或专用网络的轻便轻便.  ([source](https://github.com/ngircd/ngircd))
-- [Ergo](https://github.com/ergochat/ergo)  - 现代服务器，可移植并围绕规范设计（最前沿的 IRCv3 支持）.  ([source](https://github.com/ergochat/ergo))
-- [RobustIRC](https://robustirc.net) - 没有 netsplits 的 IRC 服务器.
+- [Ergo](https://github.com/ergochat/ergo) - 现代服务器，可移植并围绕规范设计（最前沿的 IRCv3 支持）.
+- [RobustIRC](https://robustirc.net)  - 没有 netsplits 的 IRC 服务器.  ([source](https://github.com/robustirc/robustirc/))
 
 ### Services
 
@@ -103,7 +104,7 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 - [go-ircevent](https://github.com/thoj/go-ircevent)  - 基于事件.  `去`
 - [pyaib](https://github.com/facebook/pyaib)  - 易于使用的编写机器人的框架.  `Python`
 - [slate-irc](https://github.com/slate/slate-irc)  - 插件系统，简单的api，任意输入流，调试支持.  `JavaScript`
-- [PircBotX](https://github.com/pircbotx/pircbotx) - 基于事件的 IRC 库，带有简单的 API（更新了 [PircBot](http://www.jibble.org/pircbot.php) ）.  `Java`
+- [PircBotX](https://github.com/pircbotx/pircbotx) - 基于事件的 IRC 库，具有简单的 API（更新了 [PircBot](http://www.jibble.org/pircbot.php) ）.  `Java`
 - [IRC::Client](https://github.com/raku-community-modules/IRC-Client) - 基于`Perl6` 的可扩展IRC 客户端框架.
 - [irccd](http://projects.malikania.fr/irccd/)  - 使用 Javascript 可定制的灵活 IRC 机器人.  `C++`.
 
@@ -182,7 +183,7 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 
 - 使用<kbd>command</kbd> + <kbd>F</kbd>搜索内容
 
-此列表还使用标签来帮助搜索内容：
+This list also uses tags to help when searching the contents:
 
 - **语言** - `Python`、`Java`、`C++`、`Go`、`JavaScript`、`Ruby`、`C` 等.
 - **平台** - `Web`、`macOS`、`Windows`、`Linux`、`Chrome` 等.

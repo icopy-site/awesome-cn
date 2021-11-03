@@ -26,7 +26,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -46,6 +46,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Bedrock Bit Vectors](https://github.com/mit-plv/bbv) - 用于对固定精度机器词进行推理的库.
 - [CoLoR](https://github.com/fblanqui/color) - 关于重写理论、lambda 演算和终止的库，以及扩展 Coq 标准库的公共数据结构子库.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) - 库为 Haskell 用户平滑过渡到 Coq.
+- [CoqInterval](https://gitlab.inria.fr/coqinterval/interval/) - 在实数表达式上执行不等式证明的策略.
 - [Coq record update](https://github.com/tchajed/coq-record-update) - 提供更新 Coq 记录字段的通用方法的库.
 - [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Coq 的扩展替代标准库.
 - [ExtLib](https://github.com/coq-community/coq-ext-lib) - 可能对其他 Coq 开发有用的理论和插件的集合.

@@ -495,7 +495,7 @@
 - [Vue.js Component Patterns Course](https://fdietz.de/pages/vue-component-patterns-course/) 作者：弗雷德里克·迪茨（Frederik Dietz）（2019 年 4 月）
 - [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org&utm_medium=referral&utm_campaign=OutreachB15894fivedollar) 作者：Dave Berning（2019 年 11 月）
 - [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachB15411) 作者：Marina Mosti（2019 年 10 月）
-- [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653) 作者：Alex Jover Morales，Packt（2019 年 10 月）
+- [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
 - [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019) 作者：Chris Minnick 和 Nat Dunn，Webucator（2020 年 2 月）
 - [Become a Ninja with Vue 3](https://books.ninja-squad.com/vue) 作者：Cédric Exbrayat（英语和法语版本）（2020 年 5 月）
 - [Large Scale Apps with Vue 3 and TypeScript](http://leanpub.com/vue-typescript/c/vaYXLEFWbMi7) Damiano Fusco，Leanpub（2020 年 9 月）
@@ -802,7 +802,7 @@
 - [Vue.js Feed](https://vuejsfeed.com/)  - 最新的 Vue.js 新闻、教程、插件等. 用 Vue.js 和 Laravel 制作.
 - [蒜瓣](https://github.com/JasonBai007/suanban) - 使用Vue2.0和豆瓣API开发的网络应用
 - [Guess Right](https://kdcinfo.com/guessright/)  - “猜词”游戏 - 用 Vue/vuex/vue-router（前端）和 Laravel/MySQL（后端）编写. 代码是 [Open Source on GitHub](https://github.com/KDCinfo/guess-right) （虽然不是在 kdcinfo 运行游戏的实时文件）.
-- [GRAP](https://grap.io) - Business communication service
+- [GRAP](https://grap.io) - 商务通讯服务
 - [Easy Mock](https://easy-mock.com)
 - [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) - 使用 Vue 2.0、vue-router 和 vuex 构建的博客，具有服务器端渲染
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - 使用 Vue.js 和 Firebase 构建的 JSON 模式的直观编辑器.
@@ -1481,9 +1481,10 @@ _在日历中显示不可编辑的事件_
 - [@geospoc/v-mapbox](https://github.com/geospoc/v-mapbox) - 结合 Vue.js 和 Mapbox GL JS 的强大功能（soal 的 vue-mapbox 的维护分支）
 - [@geospoc/v-mapbox-geocoder](https://github.com/geospoc/v-mapbox-geocoder) - 为您出色的 Mapbox 库提供地理编码器控件
 - [x5-gmaps](https://github.com/xon52/x5-gmaps) - Vue 2.x 的轻量级谷歌地图插件
-- [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - vue 谷歌地图自定义标记组件
+- [vue2-gmap-custom-marker](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue 谷歌地图自定义标记组件
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 组件与 OpenLayers 配合使用.
 - [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D 地球可视化JS 开发平台.
+- [vue-leaflet-custom-marker](https://github.com/eregnier/vue-leaflet-custom-marker) - 用于开放街道地图自定义标记组件的 Vue 传单
 
 #### Audio / Video
 
@@ -1865,7 +1866,7 @@ _日期/日期时间/时间选择器_
 - [vue-tinder](https://github.com/shanlh/vue-tinder) - 拥有自己的 Tinder 和 TanTan.
 - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - vue.js的触控滑块，支持任意方向滑动切换卡片，PC端和手机端兼容.
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - 一个简单的看板，可以将项目从列表中拖放到看板上.
-- [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - 可堆叠、可滑动、可调整的 Vue 卡片组件.
+- [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 
 ##### Autocomplete
 
@@ -2773,7 +2774,7 @@ _本地存储等_
 - [vuex-lite](https://github.com/rayraegah/vuex-lite) - 一个 1KB 的 Vuex，只有状态和变化.
 - [vue-shared](https://github.com/raizam/vue-shared) - vuex 的轻量级替代品
 - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - 它允许您轻松创建 vuex 模块.
-- [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
+- [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - 像 props 一样声明 state，在组件创建时让 state 动态注入到 vuex.
 - [vuex-up](https://github.com/Hokid/vuex-up) - 为模块 vuex 带来混合和服务注入器功能.
 - [effector](https://github.com/zerobias/effector)  — 快速而强大的反应式状态管理器.  Effector 可让您编写简单、快速且类型安全的代码，并轻松管理反应状态.
 - [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - 高效、有效和可扩展的状态管理：少即是多
@@ -2844,7 +2845,7 @@ _本地存储等_
 - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - 为表单字段启用双向数据绑定.
 - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
 - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - 为 Vuex 商店提供统一的路径语法（例如`foo/bar@abc`）
-- [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) - Simplify vuex loading state management
+- [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) - 简化 vuex 加载状态管理
 - [vuex-module-builder](https://github.com/oncebot/vuex-module-builder) - Vuex 模块构建器是一个包装器，用于通过内置的一些常用方法高效地编写 vuex 存储.
 - [vuex-pagination](https://github.com/cyon/vuex-pagination)  - 在 Vue/Vuex 应用程序中轻松处理分页资源. 适用于大多数 Vue 分页组件.
 - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/)  - Firebase Cloud Firestore 和 Vuex 的轻松耦合.  2路同步与0样板！
@@ -2916,7 +2917,7 @@ _用于构建/编译/捆绑/加载资产的实用程序_
 - [poi](https://github.com/egoist/poi) - 开始使用单个 .js 文件编写应用程序，Poi 可以为您处理所有开发设置，不再需要配置地狱.
 - [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - 直接从 html/js 加载 .vue 文件，无需 node.js 环境或构建步骤.
 - [vue-jsx-hot-loader](https://github.com/skyrpex/vue-jsx-hot-loader) - 为具有 JSX 渲染功能的 Vue.js 组件启用 HMR.
-- [VueInBrowserLoader](https://github.com/SeregPie/VueInBrowserLoader) - 从给定的 URL 加载 .vue 文件，并直接在浏览器中将其编译为组件.
+- [VueInBrowserLoader](https://github.com/SeregPie/VueInBrowserLoader) - Loads a .vue file from the given URL and compiles it to a component directly in the browser.
 - [vue-separate-files-webpack-loader](https://github.com/NetCZ/vue-separate-files-webpack-loader) - 用于分离 Vue 组件部分的 Webpack 加载器
 - [vue-svg-loader](https://github.com/visualfanatic/vue-svg-loader) - webpack 加载器，可让您将 SVG 文件用作 Vue 组件
 - [vue-registrar](https://github.com/AmirrezaNasiri/vue-registrar) - ☘️ 一个动态注册你的组件和 vuex 模块的包 - 使你的代码更具可读性！

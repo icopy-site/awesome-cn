@@ -38,16 +38,16 @@
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git commit.
-* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - PR 是否已进入频道的跟踪器.
+* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已经进入频道的跟踪器.
 
 ## Deployment Tools
 
-* [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，模仿 NixOps 和 morph.
+* [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为模型.
 * [krops](https://cgit.krebsco.de/krops/about/) - 用于远程或本地部署 NixOS 系统的轻量级工具包.
 * [KubeNix](https://github.com/xtruder/kubenix) - 使用 Nix 的 Kubernetes 资源构建器.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - 通过 Nix 包的单依赖 Kubernetes 集群.
 * [morph](https://github.com/DBCDK/morph) - 用于管理现有 NixOS 主机的工具.
-* [Nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
+* [Nixery](https://github.com/google/nixery) - 一个与 Docker 兼容的容器注册表，它通过 Nix 临时构建图像.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - 使用 Nix 的简单无头 VM 配置（类似于 Vagrant）.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
@@ -59,7 +59,7 @@
 * [comma](https://github.com/Shopify/comma)  - 快速运行任何二进制文件； 将 `nix run` 和 `nix-index` 包装在一起.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - 用于 nixpkgs 的 Nix 代码格式化程序.
-* [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - 将您的包装表达打成一个形状.
+* [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - 解释为什么两个 Nix 派生不同的工具.
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位包含特定文件的 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
@@ -73,7 +73,7 @@
 * [devshell](https://github.com/numtide/devshell) - 带有额外位和 toml 配置选项的 `mkShell`，以便能够加入非 nix 用户.
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用程序功能可帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的`.gitignore` 集成.
-* [lorri](https://github.com/target/lorri/) - 一个更好的`nix-shell` 用于开发，增强了 direnv.
+* [lorri](https://github.com/target/lorri/) - 一个更好的`nix-shell` 用于增强direnv 的开发.
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和 flake 兼容配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
@@ -133,9 +133,9 @@
 * [fenix](https://github.com/nix-community/fenix) - 每晚用于 nix 的 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与前沿 Rust 和 Firefox 的叠加.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与 Rust 工具链和 Firefox 的叠加.
 * [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) - Mozilla 覆盖层的兼容替代品，纯粹且可重现.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) - 二进制分布式 Rust 工具链的纯且可重现的 nix 覆盖.
 
 ## NixOS Modules
 
@@ -155,7 +155,7 @@
 ## Community
 
 * [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
-* [#nixos on Libera.Chat](https://github.com/nix-community/awesome-nix/blob/master/ircs://irc.libera.chat:6697/nixos/nixos)
+* [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - 获得帮助和讨论 Nix 相关主题的最佳场所.
 * [NixCon](https://nixcon.org/) - Nix 和 NixOS 贡献者和用户的年度社区会议.

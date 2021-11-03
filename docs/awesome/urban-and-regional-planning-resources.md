@@ -63,7 +63,7 @@
 
 ### Environment and Ecosystem Services
 
-- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
+- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一项公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
@@ -101,7 +101,7 @@
 - [OpenStreetMap](https://www.openstreetmap.org/)  - OpenStreetMap 是免费的维基世界地图. 这个合作项目是世界上最大的志愿地理信息数据库之一. 其内容包括兴趣点、可路由网络和其他地理数据. 
 - [BBBike](https://download.bbbike.org/osm/bbbike/)  - 为世界各地的城市提供 shapefile 和原始 OSM 格式，每周提取. 如果您正在寻找单个城市的数据提取，这将非常有用.
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap 提取物以 PBF 或 shapefile 格式准备，每天下载.  
-- [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS. 
+- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为适用于 GIS 的格式. 
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是用于 OpenStreetMap 的基于 Web 的数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefiles）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
 - [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data)  - HOT 为 OSM 社区提供了丰富的工具集. 一个特别有用的工具是 [Export Tool](https://export.hotosm.org/en/v3/).
 - [Tasking Manager](https://tasks.hotosm.org/)  - 任务管理器是一个平台，任何人都可以在这个平台上学习使用开放街道地图并为绘制世界上未绘制地图的区域做出贡献. 这项工作对于发展中国家的备灾和抗灾能力至关重要，以便救援人员和社区成员在灾难发生时能够获得准确的地图.
@@ -116,7 +116,7 @@
 
 ### Transportation
 
-- [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
+- [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一套全国（美国）交通设施和网络公共空间信息地理数据库； 人、货物、车辆和工艺在交通网络上的流动； 影响交通网络或受其影响的社会、经济和环境条件.
 - [CTPP](https://ctpp.transportation.org/)  - CTPP 计划获取美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别是从家到工作的 FLOWS 和小地理区域的基于工作场所的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - HPMS 是一个国家级公路信息系统，包括有关国家公路的范围、状况、性能、使用和运行特征的数据.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家交通运营商处收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
@@ -149,7 +149,7 @@
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由 First Street Foundation 提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -162,7 +162,7 @@
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
-- [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
+- [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
 - [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
@@ -237,7 +237,7 @@ R 包和相关资源.
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
 ### Learning to Code
-供规划者学习编码和城市信息学的资源.
+供规划人员学习编码和城市信息学的资源.
 - [Urban Informatics & Visualization-Berkeley](https://github.com/waddell/urban-informatics-and-visualization)  - 城市信息学和可视化 (UC Berkeley CP255) 类 Jupyter Noteboom 示例. 为规划上下文中的应用 Python 提供各种资源. 
 - [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/)  - 本课程提供了使用 Python 所需的构建块. 您将使用这些构建块创建和运行脚本，您可以将它们直接应用到 ArcGIS 中以及您自己的工作流中.
 - [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python)  - Planetizen 课程通过 10 个视频课程教授 Python 基础知识，并规划应用程序. 需要每月订阅. 
@@ -258,7 +258,7 @@ R 包和相关资源.
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成图表，几何图形的大小会根据数据发生扭曲. 
 - [Omnisci](https://www.omnisci.com/) - 启用地理时间的高性能数据库，能够执行 GPU 加速查询.
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件，用于 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
 
 ### Urban Design Tools and Platforms
 用于协助城市设计和建筑环境中类似创意应用的软件、工具和平台. 
@@ -275,7 +275,7 @@ R 包和相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助总体城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划师和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并通过基于 Web 的 3D 应用程序跨团队协作，该应用程序支持场景规划和影响评估. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于 Web 的平台，专为规划人员和建模人员设计，可使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
@@ -284,7 +284,7 @@ R 包和相关资源.
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
 - [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您附近的街道.
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索影响，并使用由此产生的可视化来传达建议.  Apache 获得许可，可使用 OpenStreetMap 在任何地方运行，并可在网络上运行或作为离线下载使用.
-- [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
+- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
 
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和减缓规划的软件、工具和平台. 
@@ -313,7 +313,7 @@ R 包和相关资源.
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业人员解决问题和通知决策者方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
-- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
+- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) (bimonthly), and [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表了 APA 在关键规划问题上的官方立场，并用工具来宣传为所有人创造伟大社区的政策.
 - [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome)  - 提供对来自国家交通图书馆的一系列全文当前和历史文件的访问. 资源可来自所有交通方式以及相关学科，如气候变化研究. 
 
@@ -353,6 +353,7 @@ R 包和相关资源.
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于进行研究、开发 Web 和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - 哈佛 Dataverse 是研究数据的存储库. 它包含涵盖科学的各种数据集，其中许多都具有公共领域的贡献. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包而成.
+- [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新型移动出行、自动驾驶汽车、电子商务和其他创新对城市和社区的潜在影响，并列出了与之相关的各种资源和工具. 
 
 ---
 

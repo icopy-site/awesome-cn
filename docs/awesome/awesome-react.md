@@ -118,7 +118,7 @@
 - [Razzle](https://razzlejs.org/)  - 构建生产就绪的 React 应用程序.  Razzle 是现代静态和动态网站和 Web 应用程序的工具链
 - [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` 是一个 Neutrino 预设，支持构建 React Web 应用程序
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构 Web 应用程序样板
-- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 使用 Rollup 和 create-react-app 创建可重用的现代 React 库的 CLI.
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 用于使用 Rollup 和 create-react-app 创建可重用的现代 React 库的 CLI.
 - [tsdx](https://tsdx.io/) - 用于 TypeScript 包开发的零配置 CLI
 
 ##### React Frameworks
@@ -337,7 +337,6 @@
 - [effector](https://github.com/zerobias/effector) - 快速而强大的反应式状态管理器
 - [reactn](https://github.com/CharlesStover/reactn) - React，但具有内置的全局状态管理
 - [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - 基于可观察的状态管理，用于在 React 中构建的高性能游戏 UI
-- [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且非常快速的状态管理
 
 ##### React AR and VR
 

@@ -74,13 +74,13 @@
 
 #### Svelte
 
-- [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
+- [Svelte News Weekly](https://svelte.news/weekly) . 为 Svelte 爱好者精心策划的时事通讯，每周提供精选新闻.
 
 ### Data Visualization
 
 - [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter) . 每周二将 D3.js 和数据可视化新闻、文章、工作等发送到您的收件箱.
 - [Best in Visual Storytelling](https://us16.list-manage.com/subscribe?u=5c12dabe1e59a9fbde1174b8c&id=e27a48af53) . 周一汇总了过去一周最好的数据新闻. 付费版本还包括数据可视化职位发布.
-- [Generative Collective](https://generative.substack.com/) . 每周六早上涵盖生成/功能艺术的新闻、教程、文章和灵感.
+- [Generative Collective](https://generative.substack.com/). News, tutorials, articles and inspirations covering the generative / functional arts every Saturday morning.
 
 ### CSS
 
@@ -114,7 +114,7 @@
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的 HTML5 和 Web 平台技术综述.  CSS 3、Canvas、WebSockets、WebGL、Native Client 等.
 - [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 关于 HTML5 游戏开发的每周通讯.
-- [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯作为对上周添加到 Phaser 网站的所有新内容（游戏发布、教程、视频等）的摘要.
+- [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯作为上周添加到 Phaser 网站的所有新内容（游戏发布、教程、视频等）的摘要.
 
 ### SVG
 
@@ -130,7 +130,7 @@
 
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) . 每周接收来自业内人士的编程新闻和见解.
 - [Programming Digest](https://programmingdigest.net/) . 面向软件工程师的每周时事通讯，其中包含前 5 个链接. [Archive](https://programmingdigest.net/digests).
-- [Morning Cup of Coding](https://morningcupofcoding.com). A daily newsletter featuring long-form technical articles of all fields of programming.
+- [Morning Cup of Coding](https://morningcupofcoding.com) . 每日时事通讯，包含所有编程领域的长篇技术文章.
 - [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三的每周电子邮件，其中包含来自 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从 git 到职业到 Web 开发到个人发展和团队合作.
 - [LLVM Weekly](http://llvmweekly.org) . 每周通讯，涵盖 LLVM、Clang 和相关项目的发展.
 - [Discover dev](https://www.discoverdev.io) . 来自网络的最佳工程博客的每周摘要. [Archive](https://www.discoverdev.io/archive).
@@ -139,6 +139,7 @@
 - [BaseClass](https://www.baseclass.io/) . 每两周一次的时事通讯，在 5 分钟内解释基本计算主题.
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/) . 每周通讯，包含最新的 Rails + Javascript + 软件工程内容.
 - [GIMTEC](https://www.gimtec.io/) . 我希望在完成开发训练营时收到的每周时事通讯.
+- [A Byte of Coding](https://abyteofcoding.com) . 每日策划的时事通讯，其中包含有关软件工程所有事物的技术深入研究.
 
 ### ObjectiveC
 
@@ -170,7 +171,7 @@
 ### Go
 
 - [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周通讯. [Archive](https://golangweekly.com/issues).
-- [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 最流行的 Go 新闻、文章和图书馆的每周概览.
+- [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语 Go 编程语言的每周通讯.
 
@@ -273,7 +274,7 @@
 
 ### Vim
 
-- [Vim Weekly](http://www.vimweekly.com/) . 每个星期一，我们都会发送 5 个可以帮助提高您的 vim 生产力的技巧，您可以将其视为每天一个技巧！
+- [Vim Weekly](http://www.vimweekly.com/) . 每个星期一，我们都会发送 5 个有助于提高您的 vim 生产力的技巧，您可以将其视为每天一个技巧！
 - [Mastering Vim Quickly](https://masteringvim.com/) . 最好的 Vim 东西，每周一次.
 
 ## Databases
@@ -316,7 +317,7 @@
 
 - [Your weekly Azure news fix](https://azureweekly.info/) .  Azure Weekly 汇总了本周 Microsoft Azure 生态系统中的头条新闻，以及非常值得一读的有趣历史内容.
 - [Serverless Status](https://serverless.email/) . 关于无服务器架构和范例、功能即服务、AWS Lambda 等的每周时事通讯.
-- [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
+- [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) . 这份 Google Cloud Weekly 总结了本周与 Google Cloud 生态系统相关的头条新闻、教程、视频、播客，非常值得一读.
 - [Last Week in AWS](https://www.lastweekinaws.com/) . 来自亚马逊云生态系统的每周新闻汇总.
 
 ### Kubernetes
@@ -356,7 +357,7 @@
 
 ## Technology in General
 
-- [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是每日精选的时事通讯，其中包含最有趣的技术故事的链接和摘要.
+- [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 - [Barista.io](https://www.barista.io/) . 每天通过电子邮件发送来自网络的大众精选文章，掌握当今最流行的技术新闻.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) . 每个工作日有 4 个关于（主要是面向研究的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) . 每周工作日早上来自 CS 世界的有趣/有影响力/重要的论文，由 Adrian Colyer 选择.
@@ -406,7 +407,8 @@
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/) . 由世界上最著名的安全专家之一布鲁斯·施奈尔 (Bruce Schneier) 策划的以安全为重点的月刊.
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) . 每周 tl;dr 网络安全通讯，包括新闻、快乐角落、您的每周网络猫等等. 它每周日发送.
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa) .  10 条信息安全新闻的每日摘要，不一定会引起很多关注.
-- [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
+- [tl;dr sec](https://tldrsec.com/) . 每周提炼最佳安全工具、博客文章和会议演讲，涵盖 AppSec、云和容器安全、DevSecOps 等.
+- [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
 
 ## Miscellaneous
 
@@ -425,7 +427,7 @@
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术爱好者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自 Reddit 最佳帖子的关于创业、成长、投资和初创公司的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简短时事通讯. 每一期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
-- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，关注最新的移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
 - [Trending Projects](https://www.trendingprojects.com/) . 展示 GitHub 上热门项目的每周电子邮件.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.
 

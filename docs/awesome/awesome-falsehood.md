@@ -15,9 +15,9 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-*虚假*是您最初认为是真实的***想法*，但在现实中它被**证明是错误的**.
+*虚假*是您最初认为是真实的***想法*，但在现实中它**被证明是错误的**.
 
-例如*想法*：有效的电子邮件地址正好有一个`@`字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的\！  *现实*是：电子邮件 [can have multiple `@` chars](#emails) . 因此，您的实现应该允许这样做. 最初的*想法*是你相信的错误.
+例如*想法*：有效的电子邮件地址恰好有一个“@”字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的\！  *现实*是：电子邮件 [can have multiple `@` chars](#emails) . 因此，您的实现应该允许这样做. 最初的*想法*是你相信的错误.
 
 下面列出的*错误*文章将全面列出您应该注意的那些错误信念，以帮助您成为更好的程序员.
 
@@ -50,15 +50,15 @@
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学不简单也不理性.
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：缺少小数点会导致 100 倍的多收费.
-- [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用它们注册了`\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和`SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
-- [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - 由于叛乱、入侵、新宪法和缓慢的计划采用，货币有效日期范围重叠.
+- [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - Because [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用它们注册了`\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和`SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
+- [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - 由于叛乱、入侵、新宪法和缓慢的计划采用，货币有效期范围重叠.
 - [`tax`](https://github.com/commerceguys/tax) - PHP 5.4+ 税务管理库.
 
 ## Dates and Time
 
 - [Falsehoods about Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) - 关于日期和时间的开创性文章.
 - [More Falsehoods about Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)  - 部分. 上面文章的2.
-- [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - 另一种是与时间有关的谎言，重点是时区.
+- [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - 另一个涉及与时间有关的谎言，重点是时区.
 - [Critique of Falsehoods about Time](https://gist.github.com/thanatos/eee17100476a336a711e) - 接受了上面的第一篇文章，并提供了对每个错误的解释，并提供了更多的上下文和外部资源.
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 注意闰秒\！
 - [Falsehoods about Time Zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/) - 关于 DST 转换的边缘情况有一些很好的观点.
@@ -66,8 +66,8 @@
 - [Time Zone Database](https://www.iana.org/time-zones) - 代表全球许多代表性地点的当地时间历史的代码和数据.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - 大多数计时方面的特质都可以在历史中找到解释.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你原因.
-- [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区可能听起来是个好主意，但有很多复杂因素使其并非如此.
-- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一个关于为什么你永远不应该处理时区的视频，如果你能帮忙的话.
+- [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区可能听起来是个好主意，但有很多复杂因素使它不完全如此.
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 关于为什么你永远不应该处理时区的视频，如果你能帮忙的话.
 - [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误日历会计的后果.
 - [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的大量格式列表、它们如何重叠以及现场示例.
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
@@ -79,8 +79,8 @@
 
 ## Education
 
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列事情（不仅是）计算机科学专业的学生倾向于错误地并且有时令人惊讶地相信，即使他们（可能）应该知道得更好.
-- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `关于博士后研究人员的很多说法、书面和观点都是不真实的.`.
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一系列（不仅是）计算机科学专业的学生倾向于错误地，有时甚至令人惊讶地相信，即使他们（可能）应该知道得更好.
+- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) - `很多关于博士后研究人员的说法、书面和观点都是不真实的.`.
 
 ## Emails
 
@@ -97,7 +97,7 @@
 
 ## Human Identity
 
-- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - 开始这一切的文章.
+- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - The article that started it all.
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上面文章的重温版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能用严格的规则来定义一个家庭.
@@ -116,6 +116,7 @@
 关于字符编码、字符串格式、unicode 和国际化.
 
 - [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - 从英语翻译软件并不像看起来那么简单.
+- [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - 纯文本无法剪切它以及为什么 Unicode 的效果如此出色.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 关于在国际化代码时需要记住的事情的视频.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 对 unicode、其历史背景和起源的一个很好的介绍，然后是对其内部工作的概述.
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - 令人愉快的 Unicode 花絮、软件包和资源的精选列表.
@@ -151,7 +152,7 @@
 
 - [Falsehoods about Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - 涵盖街道、邮政编码、建筑物、城市和国家.
 - [Falsehoods about Residence](https://twitter.com/samphippen/status/813896916534784004) - 这不仅与地址本身有关，还与一个人与其住所之间的关系有关.
-- [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate falsehood about postal addresses: you do not need one.
+- [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) - 关于邮政地址的终极谎言：你不需要一个.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) - Smokey Bear 有自己的邮政编码 (`20252`)，因为他收到了很多邮件.
 - [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) - 为什么正则表达式和街道地址不混合.
 - [Parsing the Infamous Japanese Postal CSV](https://www.dampfkraft.com/posuto.html) - “我看到了很多恐怖，但我从未在其他任何地方看到过这种特殊的格式选择.”
@@ -166,7 +167,7 @@
 
 ## Society
 
-- [Falsehoods about Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - 设计选举系统有它自己的技巧.
+- [Falsehoods about Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) - 设计选举系统有自己的技巧.
 - [Falsehoods about Women In Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - 关于 STEM（科学、技术、工程、数学）行业女性的神话.
 
 ## Software Engineering
@@ -186,9 +187,9 @@
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 对缓存的误解通常会导致错误断言，尤其是在并发和竞争条件方面.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 有一些关于 `/dev/urandom` 和 `/dev/random` 的事情一次又一次地重复. 他们仍然是假的.
 - [Hi\! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个演讲可以被命名为“关于用户名（和其他标识符）的谎言”.
-- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
+- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
-- [Floating Point Math](https://0.30000000000000004.com) - “你的语言没有坏，它在做浮点数学.（...）这就是为什么，&#39;0.1 + 0.2 != 0.3`.”
+- [Floating Point Math](https://0.30000000000000004.com) - “你的语言没有坏，它在做浮点数学.（……）这就是为什么，&#39;0.1 + 0.2 != 0.3`.”
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  - 下载您在浏览器选项卡中看到的那个小图标应该是一个简单的练习. 事实证明，它比你想象的要复杂得多. 小心你不是在给牦牛剃毛.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - 挪威的 ISO 国家代码对于 False 也是有效的 YAML.
 
@@ -203,11 +204,11 @@
 
 ## Contributing
 
-随时欢迎您的贡献\！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
+随时欢迎您的贡献\！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) 第一的.
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) 基于修改 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg)，分布在一个 [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) 是基于修改 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg)，分布在一个 [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 
 <!--lint disable no-undefined-references-->
 
