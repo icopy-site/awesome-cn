@@ -47,10 +47,11 @@
 
 ### Desktop integration
 
+- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - 详细解释了如何在不需要其他软件的情况下管理 AppImages.
 - [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - 将 AppImages 集成到系统中的可选守护程序（实验性）.
 - [appimaged](https://github.com/AppImage/appimaged) - 将 AppImages 集成到系统中的可选守护程序（已弃用）.
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - 集成到用户系统中并建立一个单一的`~/Applications`目录，帮助用户将AppImages移动到那里，支持通过应用程序启动器更新和删除AppImages.
-- [appimage2desktop](https://github.com/me1ting/appimage2desktop) - Creates a desktop file and an icon in the system for an AppImage, nothing else.
+- [appimage2desktop](https://github.com/me1ting/appimage2desktop) - 在系统中为 AppImage 创建桌面文件和图标，仅此而已。
 - [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - 用于创建、删除、控制和组织 AppImage 快捷方式的程序.
 - [LinuxPA](https://github.com/CalebQ42/LinuxPA) - PortableApps.com 类型的 Linux 启动器，支持 AppImage.
 - [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - 无需守护程序即可为 AppImages 创建菜单条目.
@@ -66,6 +67,7 @@
 ### Sandboxes
 
 - [Firejail](https://github.com/netblue30/firejail) - 支持内置 AppImage 的可选沙箱.
+- [AppImage Sandboxing Project](https://github.com/mgord9518/aisap) - Golang 库可帮助使用 bwrap 对 AppImages 进行沙盒处理.
 
 ### Package managers
 

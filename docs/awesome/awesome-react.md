@@ -118,7 +118,7 @@
 - [Razzle](https://razzlejs.org/)  - 构建生产就绪的 React 应用程序.  Razzle 是现代静态和动态网站和 Web 应用程序的工具链
 - [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` 是一个 Neutrino 预设，支持构建 React Web 应用程序
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构 Web 应用程序样板
-- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 用于使用 Rollup 和 create-react-app 创建可重用的现代 React 库的 CLI.
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - 使用 Rollup 和 create-react-app 创建可重用的现代 React 库的 CLI.
 - [tsdx](https://tsdx.io/) - 用于 TypeScript 包开发的零配置 CLI
 
 ##### React Frameworks
@@ -175,6 +175,7 @@
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React 组件，Bulma 之子，用 TypeScript 实现
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - 使用您的 Bumbag 构建可访问且可主题化的 React 应用程序
 - [Mantine](https://github.com/mantinedev/mantine) – 一个功能齐全的 React 库，包含 100 多个钩子和组件，支持原生深色主题
+- [radix](https://github.com/radix-ui/primitives) - 用于构建高质量、可访问的设计系统和 Web 应用程序的开源 UI 组件库
 
 ##### React Awesome Components
 
@@ -195,7 +196,7 @@
 - [react-dates](https://github.com/airbnb/react-dates) - 一个易于国际化、移动友好的网络日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - 日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS 日期选择器
-- [react-list](https://github.com/orgsync/react-list) - 多功能无限滚动 React 组件
+- [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
 - [react-intl](https://github.com/yahoo/react-intl) - 国际化 React 应用程序
 - [react-i18next](https://github.com/i18next/react-i18next) - 正确完成 React 的国际化
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - 一个完全可访问的 React 模式
@@ -330,7 +331,7 @@
 - [react-query](https://github.com/tannerlinsley/react-query) - 用于在 React 中获取、缓存和更新异步数据的钩子
 - [flux](http://facebook.github.io/flux/) - 用于构建用户界面的应用程序架构
 - [recoil](https://github.com/facebookexperimental/Recoil) - React 应用程序的实验状态管理库
-- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
+- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - 现代网络的状态机和状态图
 - [zustand](https://github.com/pmndrs/zustand) - 承担 React 中状态管理的必要性
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - React 的素食友好状态
 - [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且非常快速的状态管理

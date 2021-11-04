@@ -26,7 +26,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -54,6 +54,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Flocq](https://gitlab.inria.fr/flocq/flocq) - 浮点数和计算的形式化.
 - [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) - 无法确定的问题和它们之间的减少库.
 - [Hahn](https://github.com/vafeiadis/hahn) - 列表和二元关系推理库.
+- [MathComp Extra](https://github.com/thery/mathcomp-extra) - 数学组件库的额外材料，包括 AKS 素性测试和 RSA 加密和解密.
 - [Mczify](https://github.com/math-comp/mczify) - 使 Micromega 算术求解器在使用数学组件数字定义时能够工作的库.
 - [Metalib](https://github.com/plclub/metalib) - 使用局部无名变量绑定表示的编程语言元理论库.
 - [Monae](https://github.com/affeldt-aist/monae) - 一元效应和等式推理.
@@ -67,16 +68,16 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - 与 Coq 一起分发并基于生成 makefile 的构建工具.
 - [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix 辅助脚本，用于自动本地构建和 Coq 的持续集成.
-- [Coq Package Index](https://coq.inria.fr/packages.html) - 基于 OPAM 的 Coq 包集合.
+- [Coq Package Index](https://coq.inria.fr/opam/www/) - Collection of Coq packages based on opam.
 - [Coq Platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
 - [coq-community Templates](https://github.com/coq-community/templates) - 用于为 Coq 项目生成配置文件的模板.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) - 多版本 Coq 的 Docker 镜像.
 - [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - 用于 Coq 和数学组件库版本的多种组合的 Docker 映像.
 - [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
-- [Dune](https://dune.build) - Coq 和 OCaml（前 jbuilder）的可组合和自以为是的构建系统.
+- [Dune](https://dune.build) - OCaml 和 Coq（前 jbuilder）的可组合和自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) - Linux 和其他 Unix 系统的包管理器，支持原子升级和回滚.
 - [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Nix 的 Coq 相关包的集合.
-- [OPAM](https://opam.ocaml.org) - 灵活且对 Git 友好的 OCaml 包管理器，具有多种编译器支持.
+- [opam](https://opam.ocaml.org) - 灵活且对 Git 友好的 OCaml 和 Coq 包管理器，具有多种编译器支持.
 
 ### Plugins
 
@@ -212,7 +213,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Tutorials and Hints
 
-- [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - Online proving challenges.
+- [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - 在线证明挑战.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 来定义逻辑概念和函数以及对它们的推理.
 - [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.

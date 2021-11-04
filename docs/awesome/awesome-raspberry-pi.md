@@ -44,7 +44,7 @@
 - [Channels DVR Server](https://getchannels.com/raspberry-pi/) - 频道 DVR 服务器的自定义图像，提供整个家庭 DVR 系统.
 - [DietPi](https://github.com/Fourdee/DietPi) - 设计为适合 2GB SD 卡的最小图像，具有大量可配置的设置和脚本.
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) - 一个 WifiBroadcast 扩展，可真正替代 DJI Lightbridge 和其他类似系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) - 经济实惠的无线数字高清视频传输变得容易. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi 是使用 Raspberry Pi 相机模块的开源 3D 激光扫描仪. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - 为 Pi 构建的 Linux Fedora 发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) - FreeBSD 是一种先进的计算机操作系统，用于支持现代服务器、台式机和嵌入式平台.
@@ -60,10 +60,10 @@
 - [Minibian](https://minibianpi.wordpress.com/) - 最小的 Raspbian（比 Jessie Lite 轻）.
 - [MoodleBox](https://moodlebox.net/) - MoodleBox 在树莓派上提供 Moodle 学习管理系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - 将单板计算机变成视频监控系统的 Linux 发行版.
-- [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
+- [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD 是一个免费、快速、安全且高度便携的类 Unix 开源操作系统.
 - [NextCloudPi](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/)  - 基于 Raspbian 的 Nextcloud 就绪图像. 特性 Nextcloud 11 在 Raspbian 8 上运行，具有 PHP 7 和支持 HTTP2 的 Apache 服务器.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - 新的开箱即用软件，适合初学者的简单操作系统安装程序.
-- [OctoPi](https://octopi.octoprint.org/) - 3d 打印机的分发.
+- [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [OpenELEC](http://openelec.tv/) - 打开嵌入式 Linux 娱乐中心，这是一个非常轻量级的 Kodi 构建.
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - OpenHAB 家庭自动化软件的预配置版本. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络附加存储 (NAS) 解决方案，包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
@@ -103,7 +103,7 @@
 - [Hardened Kernel Builder for RPi](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - 使用单个命令交叉编译 Raspberry Pi 的 Linux 内核，增强安全性.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT，包括重要的健康监测，如心电图、呼吸、脉搏血氧饱和度和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - Wifi AP + 8MB 客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), 使用 REST API 同时控制 wifi 客户端和站模式. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
+- [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - 将 Raspberry Pi 设置为 OpenVPN 服务器的 Shell 脚本.
 - [Orangetool](https://github.com/Moduland/Orangetool) - 用 Python 控制单板计算机的功能.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  - 用于创建 raspberrypi.org Raspbian 图像的工具. 这可用于使用安装的特定软件包等创建您自己的自定义图像.
 - [PiBakery](http://www.pibakery.org/) - 基于块的、易于使用的 Raspberry Pi 设置工具.
@@ -146,7 +146,7 @@
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - 由 Raspberry Pi 驱动的助听器原型. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - 将您的 Raspberry Pi 转换为 Internet 天文钟.
 - [Jasper](https://jasperproject.github.io/) - 灵活的开源个人助理.
-- [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - 在不到十分钟的时间内启动您的 ARM 设备并运行 Kubernetes.
+- [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
 - [Lightberry](https://lightberry.eu) - 专用于树莓派和电视的 LED 照明解决方案.
 - [Lomorage](https://github.com/lomorage/homepage) - Raspberry Pi 上的私有照片云主机，带有 Android/iOS/Web 客户端.
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - 音序器/鼓板，就像 Native Instruments 的 Pi 机器.
@@ -166,7 +166,7 @@
 - [Pi-hole](https://pi-hole.net/) - 互联网广告的黑洞.
 - [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP 可通过 Web UI 或 VNC 管理远程计算机，具有全高清视频、鼠标、虚拟驱动器、IPMI、局域网唤醒和许多其他功能.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - 来自 Rclone 远程存储服务等的远程无头多功能 PiCamera 操作.
-- [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
+- [Pi4j Project](http://pi4j.com) - Java I/O 库树莓派.
 - [PiAware](https://uk.flightaware.com/adsb/piaware/install) - 使用 Raspberry Pi 进行实时飞行跟踪.
 - [PiClock](https://github.com/n0bel/PiClock) - 围绕显示器和 Raspberry Pi 构建的花式时钟.
 - [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - 在 Pi Zero 上运行的电子墨水名牌显示. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
@@ -211,7 +211,7 @@
 - **家庭远程控制** - 控制鼠标/键盘、音量、管理下载/上传文件、自定义命令、终端、将来执行任务、控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi 检查** - 检查 Pi 统计信息 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的相机查看图像并从不同传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
+- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的摄像头查看图像并从不同传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
 - **Raspicast** - 从您的 android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放播放列表（m3u、pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
@@ -231,7 +231,33 @@
 ### Books
 
 - [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - 教您如何使用 Docker Compose、MQTT 和 TLS 将 Raspberry Pi 变成安全、模块化、开源和自托管的家庭自动化网关.
+- [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - 使用 Google 的 AIY 项目套件，了解如何在 Raspberry Pi 中使用人工智能. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - 如何将您的 Raspberry Pi Foundation 的相机模块与您的 Raspberry Pi 一起使用.
+- [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - 了解如何通过在 Raspberry Pi 上使用 Sonic Pi 进行编码来创作音乐.
+- [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - 了解如何使用 Raspbian 在 Raspberry Pi 上命令和征服命令行，在自动化简单任务的同时简化复杂任务.
+- [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - 使用 GPIO 引脚和 Raspberry Pi 上的 GPIO 零库创建电子作品.
+- [Essentials - Learn to Code with C](https://magpi.raspberrypi.com/books/essentials-c-v1) - 了解如何使用在 Raspberry Pi 上构建大部分 Linux 和 Raspbian（C 编程语言）的语言进行编码.
+- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - 使用 Scratch 编码块语言学习在 Raspberry Pi 上编程的基础知识.
+- [Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1) - 通过使用 Python 制作游戏，使用 Raspberry Pi 创建您自己的娱乐，从简单的基于文本的游戏到带有声音和动画的成熟游戏.
+- [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - 了解如何使用 API、GPIO 引脚、您的程序等与特殊的 Raspberry Pi 版本的 minecraft 进行交互.
+- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - 一本有用的实验书，可与 Sense HAT 一起使用，以及如何充分利用它.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - 大量关于 Java 本身的信息和历史，以及如何在 Raspberry Pi 上安装和使用它的大量示例项目.
+- [Getting Started with Raspberry Pi](https://magpi.raspberrypi.com/books/get-started) - 了解如何开始使用 **Raspberry Pi 3A+**. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Raspberry Pi Annual 2018](https://magpi.raspberrypi.com/books/annual-2018) - 一本面向所有年龄段儿童的教育书籍，介绍 Raspberry Pi.
+- [Raspberry Pi Beginner's Book 1](https://magpi.raspberrypi.com/books/beginners-1) - 官方 Raspberry Pi 初学者书籍，涵盖如何开始使用 Raspberry Pi 以及开始使用不同的软件和硬件项目.
+- [Raspberry Pi Beginner's Guide](https://magpi.raspberrypi.com/books/beginners-guide) - 了解如何开始使用 **Raspberry Pi 3B+**. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Raspberry Pi Beginner's Guide v2](https://magpi.raspberrypi.com/books/beginners-guide-2nd-ed) - 了解如何开始使用 **Raspberry Pi 4**.
+- [Raspberry Pi Beginner's Guide v3](https://magpi.raspberrypi.com/books/beginners-guide-3rd-ed) - 了解如何开始使用 **Raspberry Pi 4**.
+- [Raspberry Pi Beginner's Guide v4](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - 了解如何开始使用 **Raspberry Pi 4 和 Raspberry Pi 400**.
+- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - 了解如何将高质量相机或相机模块与 Raspberry Pi 配合使用. 
+- [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - Raspberry Pi 项目集合，其中包含项目指南和 Raspberry Pi 产品评论.
+- [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - Raspberry Pi 项目的第二个集合，其中包含项目指南和 Raspberry Pi 产品评论.
+- [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - Raspberry Pi 项目的第三个集合，其中包含项目指南和 Raspberry Pi 产品评论.
+- [Raspberry Pi Projects Book 4](https://magpi.raspberrypi.com/books/projects-4) - Raspberry Pi 项目的第四个集合，其中包含项目指南和 Raspberry Pi 产品评论.
+- [Raspberry Pi Projects Book 5](https://magpi.raspberrypi.com/books/projects-5) - Raspberry Pi 项目的第五个集合，其中包含项目指南和 Raspberry Pi 产品评论.
+- [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - 有关如何设置 Raspberry Pi 以玩经典游戏以及如何制作自己的游戏的指南.
+- [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - 帮助您充分利用 Raspberry Pi 计算机的指南、基本信息、项目创意、教程和评论.
+- [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022)  - 帮助您充分利用 Raspberry Pi 计算机的指南、基本信息、项目创意、教程和评论.  **针对 Raspberry Pi Pico 进行了更新.** 
 
 ### Tutorials
 
@@ -242,7 +268,7 @@
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - 在 Raspberry Pi 上设置 ADC (DC++) 集线器的指南.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - 使用图像识别和 Google 的 Inception 来识别特定对象.
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - 关于如何使用 Docker 设置集群、使用 Docker Compose 分发服务以及使用 Letsencrypt 签署有效 SSL 证书的明确指南.
-- [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - 使用 Beacon 技术的良好初学者指南.
+- [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - 在 Raspberry Pi 上设置 VPN 的简单、安全和详细指南.
 - [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream 实现可将您完整的 Steam 游戏集从桌面流式传输到 Raspberry Pi.
 - [Raspbereum](https://github.com/jim380/Raspbereum) - 在 Raspberry Pi 上运行您自己的以太坊节点.

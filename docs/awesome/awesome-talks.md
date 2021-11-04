@@ -3,7 +3,7 @@
 ## Awesome talks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-网上有很多截屏视频、用户组聚会的录音和会议谈话. 我努力让自己每周至少观看两次新的演讲，而且我已经这样做了很长一段时间了. 我创建了这个我非常喜欢看的在线演讲列表. 每当我观看另一个值得的*真棒*演讲时，我也会更新此列表. 建议总是通过拉取请求表示赞赏. 所以事不宜迟..
+网上有很多截屏视频、用户组聚会的录音和会议谈话. 我努力让自己每周至少观看两次新的演讲，而且我已经这样做了很长一段时间了. 我创建了这个我非常喜欢看的在线演讲列表. 每当我观看另一个值得的*真棒*演讲时，我也会更新此列表. 建议总是通过拉取请求得到赞赏. 所以事不宜迟..
 
 （排名不分先后）
 
@@ -25,7 +25,7 @@
 
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) 作者：**艾伦·凯** [1:04:34]
 * [The Future of Programming](https://vimeo.com/71278954) 作者：**布雷特维克多** [32:55]
-* [Inventing on Principle](https://vimeo.com/36579366) 作者：**布雷特维克多** [54:20]
+* [Inventing on Principle](https://vimeo.com/38272912) 作者：**布雷特维克多** [54:20]
 * [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) 作者：**布雷特维克多** [39:32]
 * [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) 作者：**克里斯·格兰杰** [33:46]
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) 作者：**Thomas Figg** [1:06:43]
@@ -81,7 +81,7 @@
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) 作者：**Robert C. Martin** [1:06:38]
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) 作者：**埃里克·埃文斯** [58:48]
 * [Unleash Your Domain](https://vimeo.com/19428577) 作者：**格雷格·杨** [45:20]
-* [The Art of Destroying Software](https://vimeo.com/108441214) 作者：**格雷格·杨** [42:30]
+* [The Art of Destroying Software](https://vimeo.com/108441214) 作者：**Greg Young** [42:30]
 * [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) 作者：**格雷格·杨** [54:43]
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) 作者：**埃里克·埃文斯** [54:40]
 * [Reliability, Availability, and Scalability](https://vimeo.com/6222577) 作者 ** Udi Dahan ** [1:11:09]
@@ -97,7 +97,7 @@
 * [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) 作者：**Andreas Stefik** [41:42]
 * [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) 作者：**Andreas Stefik** [50:28]
 * [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) 作者：**Camille Fournier** [40:35]
-* [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) 作者：**乍得福勒** [39:41]
+* [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) 作者：**Chad Fowler** [39:41]
 * [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) 作者：**西蒙·布朗** [46:15]
 
 #### Web Development
@@ -110,7 +110,7 @@
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) 作者：**加里伯恩哈特** [29:22]
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) 作者：**布赖恩·朗斯多夫** [36:30]
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) 作者：**克里斯威廉姆斯** [21:39]
-* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) 作者：**克里斯·威廉姆斯** [27:25]
+* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) 作者：**克里斯威廉姆斯** [27:25]
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) 作者：**布赖恩福特** [41:42]
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) 作者：**詹姆斯·米肯斯** [32:07]
 * [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) 作者：** Ilya Grigorik ** [41:10]
@@ -129,7 +129,7 @@
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) 作者：**埃文·多恩** [30:54]
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) 作者：**Sandi Metz** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) 作者：**贾斯汀·塞尔斯** [43:39]
-* [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) 作者：**格雷戈里·莫克** [44:42]
+* [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) 作者：**Gregory Moeck** [44:42]
 * [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) 作者：**Misko Hevery** [32:07]
 * [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) 作者：**JB Rainsberger 和 Sandro Mancuso** [01:28:50]
 * [Integrated Tests Are a Scam](https://vimeo.com/80533536) 作者：**JB Rainsberger** [01:04:35]
@@ -179,7 +179,7 @@
 * [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) 作者：**德里克·西弗斯** [18:54]
 * [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) 作者：**Cory House** [59:12]
 * [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) 作者：**布兰登·海斯** [35:26]
-* [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA) 作者：**爱德华·克梅特** [40:58]
+* [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA) 作者：**Edward Kmett** [40:58]
 * [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) 作者：**Randy Pausch** [1:16:26]
 * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) 作者：**史蒂夫·乔布斯** [15:04]
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) 作者：**Rich Hickey** [39:48]
