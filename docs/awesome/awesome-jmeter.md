@@ -42,7 +42,6 @@
 ## Tutorials
 
 - [JMeter Tutorial](https://artoftesting.com/jmeter-tutorial) - 通过 ArtOfTesting.
-- [Load Testing your Applications with Apache JMeter](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) - Keld H. Hansen.
 - [Load Testing with JMeter](https://lincolnloop.com/blog/search/?q=jmeter) - 布兰登·康克尔 (Brandon Konkle).
 - [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - By Dejan Lukan.
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - 通过教程点.
@@ -322,7 +321,7 @@
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
 - [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - 由 Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ); 帮助成功使用 Apache JMeter 的 70 个有见地和实用的秘诀.
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - Sai Matam 和 Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample) ); 一个简单、实用、循序渐进的教程，用于衡量网站的性能.
-- [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) - Sai Matam 和 Jagdeep Jain ([Apress](https://www.apress.com/gp/book/9781484229606)).
+- [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) - Sai Matam 和 Jagdeep Jain ([Apress](https://link.springer.com/book/10.1007/978-1-4842-2961-3)).
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) - 安东尼奥·戈麦斯·罗德里格斯、布鲁诺·德米恩 (Milamber) 和 Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) - 安东尼奥·戈麦斯·罗德里格斯、布鲁诺·德米恩 (Milamber) 和 Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)):fr:.
 - [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - 佩妮·库里奇 (Penny Curich)[Leanpub](https://leanpub.com/advanced_jmeter_testing))，为 Apache JMeter 5.0 编写自定义组件的指南.
@@ -360,7 +359,7 @@
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - 关于 Apache JMeter 和 Web 应用程序性能测试的博客.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert 博客.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole 博客.
-- [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - 若昂·法里亚斯 (João Farias).
+- [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - João Farias.
 
 ### Forums
 

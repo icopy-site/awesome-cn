@@ -174,6 +174,7 @@
 
 ### Built Environment
 
+- [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Assoication's](https://www.planning.org/) Land Based Classification Standards classifies land uses across five dimensions (Activity, Function, Structure, Site, and Ownership). 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以通过该语言定义他们希望在其拓扑中使用的实体的语言. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力，为建筑和施工许可数据创建共享数据规范.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - House Facts 数据标准是一种统一的格式，用于报告有关住宅建筑的运行、安全和性能的政府数据.
@@ -199,7 +200,7 @@ Python 库和相关资源.
 
 - [Pandas](https://pandas.pydata.org/) - 灵活强大的 Python 数据分析/操作库，提供类似于 R 数据框架对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
-- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
+- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
@@ -258,7 +259,7 @@ R 包和相关资源.
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成图表，几何图形的大小会根据数据发生扭曲. 
 - [Omnisci](https://www.omnisci.com/) - 启用地理时间的高性能数据库，能够执行 GPU 加速查询.
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件，用于 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
 
 ### Urban Design Tools and Platforms
 用于协助城市设计和建筑环境中类似创意应用的软件、工具和平台. 
@@ -284,7 +285,8 @@ R 包和相关资源.
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
 - [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您附近的街道.
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索影响，并使用由此产生的可视化来传达建议.  Apache 获得许可，可使用 OpenStreetMap 在任何地方运行，并可在网络上运行或作为离线下载使用.
-- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
+- [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
+- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim)  - 综合交通与健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于在城市和国家层面对交通情景和政策的健康影响进行综合评估. 此页面指向不同的文献、R 代码和 [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和减缓规划的软件、工具和平台. 
@@ -305,7 +307,7 @@ R 包和相关资源.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的“五步法”备考方法，并列出了可帮助您在 AICP 考试中取得成功的资源/材料.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员连接到精选的主题相关资源集合，包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和主题分组，包括书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国注册规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
-- [APA Florida Examp Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 编制的综合学习资料集.  APA 成员还可以通过提供的地址向 Henry Bittaker 发送电子邮件，以获取他领导的备考和练习题研究课程的录音. 
+- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 编制的综合学习资料集.  APA 成员还可以通过提供的地址向 Henry Bittaker 发送电子邮件，以获取他领导的备考和练习题研究课程的录音. 
 
 
 ### Literature Resources
@@ -313,7 +315,7 @@ R 包和相关资源.
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业人员解决问题和通知决策者方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
-- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) (bimonthly), and [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
+- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表了 APA 在关键规划问题上的官方立场，并用工具来宣传为所有人创造伟大社区的政策.
 - [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome)  - 提供对来自国家交通图书馆的一系列全文当前和历史文件的访问. 资源可来自所有交通方式以及相关学科，如气候变化研究. 
 
@@ -353,7 +355,8 @@ R 包和相关资源.
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于进行研究、开发 Web 和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - 哈佛 Dataverse 是研究数据的存储库. 它包含涵盖科学的各种数据集，其中许多都具有公共领域的贡献. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包而成.
-- [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新型移动出行、自动驾驶汽车、电子商务和其他创新对城市和社区的潜在影响，并列出了与之相关的各种资源和工具. 
+- [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新型移动出行、自动驾驶汽车、电子商务和其他创新对城市和社区的潜在影响，并列出了与之相关的各种资源和工具.
+- [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并提供了关于如何理解其应用的分类法. 
 
 ---
 

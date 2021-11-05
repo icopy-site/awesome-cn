@@ -18,7 +18,7 @@
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - David Kemp 用于量子门计算的交互式学习.
 - [CNOT](https://cnot.io/) - 易于理解，逐步介绍量子计算概念.
-- [Chris Ferrie](https://csferrie.medium.com/) - 澳大利亚悉尼大学教授，《婴儿量子计算》（以及更多）的作者，以及关于 Medium 的优秀量子计算讲座.
+- [Chris Ferrie](https://csferrie.medium.com/) - 澳大利亚悉尼大学教授，《婴儿量子计算（以及更多）》的作者以及关于 Medium 的优秀量子计算讲座.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Rigetti Computing 的 SDK 教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - 有关量子计算的光子连续变量方法的背景信息，以及 Xanadu 的 SDK 教程.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) - 演示和教育资源以及访问 D-Wave 的量子计算机.
@@ -35,6 +35,7 @@
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) - 能够模拟多达 22 个量子位的 3D 量子状态可视化工具.
 - [Quantum Computing UK](https://quantumcomputinguk.org/) - 免费的 Qiskit 教程和代码库.
 - [Quantum Computing for the Very Curious](https://quantum.country/qcvc) - Michael Nielsen 和 Andy Matuschak 介绍量子计算的论文.
+- [Quantum Computing with Amazon Braket SDK](https://www.manning.com/liveprojectseries/quantum-computing-with-amazon-braket-sdk-ser) - Manning liveProject 系列介绍了 Braket API 并指导学习者实现几种简单的算法.
 - [Quantum Computing with Microsoft QDK](https://www.manning.com/liveprojectseries/quantum-computing-with-five-projects) - Manning liveProject 系列，指导学习者使用 Microsoft QDK 实现各种协议和算法.
 - [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - 易于阅读的知识库，丰富的基本量子计算概念.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - 四量子位光子量子模拟器和计算机.
