@@ -16,19 +16,20 @@
 - [ASINspector](https://asinspector.com/) - 销售趋势数据、独特的产品创意、移动扫描仪、畅销书排名.
 - [BQool](https://www.bqool.com/) - 预定的重新定价、与黄金购物车价格竞争、综合仪表板和报告、重新定价历史记录.
 - [CashCowPro](https://www.cashcowpro.com/) - 销售数据、关键字跟踪、反馈收集、库存监控、价格拆分测试.
-- [Eva](https://eva.guru/) - 将您亚马逊业务最重要的方面连接到一个直观的仪表板中 - 价格管理、补货、报销、分析.
+- [Eva](https://eva.guru/) - Connects the most important aspects of your Amazon business into a single intuitive dashboard - price management, replenishments, reimbursements, analytics.
 - [FeedbackExpress](https://www.feedbackexpress.com/) - 通过有效的自动反馈请求，轻松提高您的亚马逊卖家评级.
 - [Feedbackwhiz](https://www.feedbackwhiz.com/) - 供商家促进其亚马逊业务、修复反馈、改进产品评论和自动化处理大量电子邮件的软件.
 - [Feedbackz](https://www.feedbackz.com/) - 专为精通营销的亚马逊卖家打造，他们寻求更美观、更有针对性的自动跟进电子邮件渠道.
 - [Forecastly](https://www.forecast.ly/) - 预测未来的产品需求，做出快速准确的购买决策.
 - [ForecastRx](https://www.forecastrx.com/)  - 库存预测解决方案. 预测未来的需求，以便您可以在正确的时间以正确的数量购买正确的产品.
-- [Helium10](https://www.helium10.com/) - Software suite contains over a dozen tools that help find high ranking keywords, identify trends, monitor competitors, and fully optimize product listings to increase sales.
+- [Helium10](https://www.helium10.com/) - 软件套件包含十多种工具，可帮助查找排名靠前的关键字、识别趋势、监控竞争对手并全面优化产品列表以增加销售额.
 - [HelloProfit](https://helloprofit.com/) - 让您从一个仪表板查看来自不同商家帐户的所有销售和利润数据.
 - [Jungle Scout](https://www.junglescout.com/) - 跟踪和比较关键产品指标，数据库允许您按需求、价格、估计销售额、评级、季节性、维度等过滤多个类别的产品，找出哪些产品销售以及哪些细分市场有很高的机会.
 - [Keyword Tool](https://keywordtool.io/amazon) - 使用亚马逊自动完成功能查找出色的关键字.
 - [MerchantWords](https://www.merchantwords.com/) - 查找高度具体的关键字词组，帮助买家找到您销售的产品.
 - [Prestozon](https://prestozon.com/) - 亚马逊 HSA 和赞助产品广告的自动化和分析.
 - [Prisync](https://prisync.com/) - 具有动态定价和自动化引擎的价格监控和跟踪 SaaS.
+- [Scrappie](https://scrappie.app) - 具有 API 集成、WebHooks 和 ETL 流程的电子商务数据监控和分析平台.
 - [SellerApp](https://www.sellerapp.com/) - 产品研究、产品创意、listing 质量、产品提醒、产品来源、关键字研究、ppc 分析器等.
 - [SellerLabs](https://www.sellerlabs.com/tools/) - 管理广告、发现有利可图的关键字和产品、获得更多产品评论和更好的卖家反馈、简化亚马逊市场的库存和财务管理的多种工具.
 - [SellerLegend](https://sellerlegend.com/) - 近乎实时的订单下载、智能 KPI 仪表板、库存管理、通知、退款、历史货物成本、运营费用、所有美洲和欧洲市场、金融交易、欧洲增值税.
