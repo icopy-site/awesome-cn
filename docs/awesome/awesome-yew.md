@@ -65,6 +65,7 @@
 - [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+红豆杉.
 - [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - 使用 wasm/yew 前端为 graphql 服务清洁样板.
 - [surfer](https://github.com/zzy/surfer) - 一个建立在 yew + graphql 上的博客，有 [live demo site](https://gaiding.com) .  graphql 服务的后端和 Web 应用程序的前端.
+- [qubit](https://abhimanyu003.github.io/qubit) - 一个方便的计算器，基于 Rust 和 WebAssembly. [Live Demo](https://abhimanyu003.github.io/qubit/)
 
 ## Templates
 
