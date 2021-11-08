@@ -70,11 +70,11 @@
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - 适用于 Linux 和 BSD 的优秀 Gerber 查看器.
-- [KiCad GerbView](https://kicad-pcb.org/) - KiCad gerber 查看器.
+- [KiCad GerbView](https://kicad.org/) - KiCad gerber 查看器.
 
 
 ## Free EDA Packages
-- [KiCad](https://kicad-pcb.org/) - 带有推推式路由器、差分对等的开源 EDA 包.
+- [KiCad](https://kicad.org/) - 带有推推式路由器、差分对等的开源 EDA 包.
 - [Eagle](https://www.autodesk.com/products/eagle/overview) - 最受欢迎的 EDA 软件包之一，因为它是（板尺寸受限）免费版本.
 - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - 无限制的免费 EDA 包，由 RS Components 赞助.
 - [Altium CircuitMaker](https://circuitmaker.com/) - 来自 go to pro 软件制造商的免费软件包.
