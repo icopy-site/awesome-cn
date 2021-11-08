@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-资源集合，涵盖Nginx，Nginx + Lua，OpenResty和Tengine.
+涵盖 Nginx、Nginx + Lua、OpenResty 和 Tengine 的资源集合.
 
-该列表由维护 [Frederic Cambus](https://www.cambus.net) . 有关更新，请在Twitter上关注我： [@fcambus](https://twitter.com/fcambus)
+此列表由维护 [Frederic Cambus](https://www.cambus.net) . 有关更新，请在 Twitter 上关注我： [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -37,6 +37,8 @@
 - [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate)
 - [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
 - [NGINX Config - Online nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
+- [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
+- [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 
 ## Tutorials
 
@@ -83,6 +85,7 @@
 
 - [Things you didn't know Nginx could do](https://www.slideshare.net/sarahnovotny/5-things-you-didnt-know-nginx-could-do)
 - [Finding the nginx gzip_comp_level sweet spot](https://mjanja.ch/2015/03/finding-the-nginx-gzip_comp_level-sweet-spot/)
+- [nginx mirroring tips and tricks](https://alex.dzyoba.com/blog/nginx-mirror/)
 
 ## Nginx + Lua
 
@@ -131,4 +134,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 已放弃本作品的所有版权和相关或邻接权.

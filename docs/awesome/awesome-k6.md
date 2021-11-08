@@ -11,7 +11,7 @@
 
 </div>
 
-开源的、以开发人员为中心的性能监控和负载测试解决方案， <a href="https://k6.io/">k6</a> .
+社区在（测试） <a href="https://k6.io/">k6</a>上收集的内容.
 
 
 想帮助改进这个列表吗？ 耶，太棒了！ 在开始之前，请先看看我们 [code of conduct](https://github.com/k6io/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/k6io/awesome-k6/blob/master/contributing.md).
@@ -36,27 +36,31 @@
 - [Beautiful Load Testing With K6 and Docker Compose](https://medium.com/swlh/beautiful-load-testing-with-k6-and-docker-compose-4454edb3a2e3) - 如何使用 Docker Compose、K6、InfluxDB 和 Grafana 的出色组合运行负载测试.
 - [Load Testing with Azure DevOps and k6](https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a) - 如何设置 Azure DevOps 以使用 k6、handleCallback 和 JUnit 执行自动负载测试.
 - [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) - 如何使用 handleSummary 回调将 k6 输出结果发送到 Slack.
+- [Load testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb) - 使用 k6 进行负载、浸泡、压力、尖峰和冒烟测试.
+
 
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
 - [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
-  - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何从 HAR 文件创建测试.
-  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试.
+  - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
+  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - Chris James 对开源负载和性能回归测试工具 k6 以及如何对您的 API 和网站进行负载测试的演练.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 介绍. 
+  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Miles 在 2021 年云峰会上.
+  - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf 使用 GitHub 副驾驶编写 k6 测试.
 
 ## Reference Projects
 
-- [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) - 作为 CircleCI 构建的一部分运行 k6 负载测试.
-- [k6-jenkins-example](https://github.com/loadimpact/k6-jenkins-example) - 作为 Jenkins 构建的一部分运行 k6 负载测试.
-- [k6-github-actions-example](https://github.com/loadimpact/k6-github-actions-example) - 作为 GitHub Actions 构建的一部分运行 k6 负载测试.
-- [k6-azure-pipelines-example](https://github.com/loadimpact/k6-azure-pipelines-example) - 作为 Azure DevOps 管道的一部分运行 k6 负载测试.
+- [k6-circleci-example](https://github.com/li-clutter-org/k6-circleci-example) - 作为 CircleCI 构建的一部分运行 k6 负载测试.
+- [k6-jenkins-example](https://github.com/li-clutter-org/k6-jenkins-example) - 作为 Jenkins 构建的一部分运行 k6 负载测试.
+- [k6-github-actions-example](https://github.com/grafana/k6-example-github-actions) - 作为 GitHub Actions 构建的一部分运行 k6 负载测试.
+- [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - 作为 Azure DevOps 管道的一部分运行 k6 负载测试.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - 作为 Bitbucket Pipeline 构建的一部分运行 k6 负载测试.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - 使用 k6 对 websocket 进行性能测试的示例.
-- [k6-typescript-template](https://github.com/k6io/template-typescript) - 在 k6 中使用 TypeScript 的模板.
+- [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - 在 k6 中使用 TypeScript 的模板.
 - [k6-es6](https://github.com/MStoykov/k6-es6) - 使用 Webpack、Babel 和 Browserify 使大多数 ES6 代码在 k6 中工作的示例项目.
-- [example-data-generation](https://github.com/k6io/example-data-generation) - 使用 faker 为 k6 生成真实数据.
+- [example-data-generation](https://github.com/grafana/k6-example-data-generation) - 使用 faker 为 k6 生成真实数据.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances)  - .NET 混沌工程研讨会. 使用 Simmy 和 k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - 使用 cronjobs 在 Kubernetes 中持续运行 k6 测试.
 - [k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - 使用 K6 实现多场景模板.
@@ -67,10 +71,10 @@
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - 用于将 k6 输出转换为 JUnit XML 以便与 CI 一起使用的工具.
 - [k6-reporter](https://github.com/benc-uk/k6-reporter) - 将 k6 输出转换为 HTML 报告的工具.
 - [k6-reporter](https://github.com/szboynono/k6-html-reporter) - 用于生成 k6 HTML 报告的工具.
-- [har-to-k6](https://github.com/loadimpact/har-to-k6) - 将 HAR 录音转换为 k6 测试脚本的工具.
-- [postman-to-k6](https://github.com/loadimpact/postman-to-k6) - 将 Postman 集合转换为 k6 测试脚本的工具.
+- [har-to-k6](https://github.com/grafana/har-to-k6) - 将 HAR 录音转换为 k6 测试脚本的工具.
+- [postman-to-k6](https://github.com/grafana/postman-to-k6) - 将 Postman 集合转换为 k6 测试脚本的工具.
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 用于将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
-- [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
+- [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从您的 IDE 运行 k6 的市场扩展.
 
@@ -79,8 +83,13 @@
 - [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - 在 GitHub Actions 中运行 k6 的市场操作.
 - [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - 用于在 Azure Devops 管道中运行 k6 的市场扩展.
 - [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test)  - k6 Orb 用于在 CircleCI 中运行 k6. 支持在 CircleCI runner 和 k6 云 SaaS 服务中运行测试.
+- [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+- [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
+- [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
 
 ## Stacks
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - 使用 k6、Grafana 和 InfluxDB 的负载测试堆栈.
-- [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - 开源堆栈，适用于运行负载测试、存储结果和在仪表板中可视化这些结果.
+- [实时压力：
+AnyCable、k6、WebSockets 和 Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians 使用 k6 和 WebSockets 添加“实时压力” .
+- [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood 使用 k6 对 Kubernetes 系统进行负载测试.

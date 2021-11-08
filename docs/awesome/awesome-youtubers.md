@@ -491,7 +491,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：JavaScript、JavaScript 框架 \
-精选播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
+特色播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
 
@@ -1024,6 +1024,13 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 内容关于：Windows \
 精选播放列表：“Windows Server 初学者教程”、“在 Windows Server 中管理网络服务”、“管理 Active Directory 基础结构”.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/IEbXScJu3VcBeTenoLtX4SWaUhxt9WG8lLs-9uYhqMVSRHCjFn3VA9KZOXZBekxlxhzN9ISG=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
+
+[**DistroTube**](https://www.youtube.com/c/DistroTube/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+内容关于：Linux、Emacs、CLI、一般隐私.\
+精选播放列表：“隐私与安全”、“Emacs 教堂”、“命令行”、“拱门方式”.  \
+<br/>
+
 
 ## Digital design
 
@@ -1065,7 +1072,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwzTU_31qu-jJKhnKvA2INGIA138gOD3CBB9mB3kA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ArtwithFlo)
 
 [**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容关于：Procreate、Ipad/平板电脑绘图 \
+内容关于：Procreate、Ipad/平板电脑绘图\
 精选播放列表：`PROCREATE TUTORIALS`、`DIGITAL ART TUTORIALS`、`iPad Pro 上的数字绘图| 简单的绘图教程`，`更多播放列表！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
@@ -1166,7 +1173,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 
 [**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
 内容关于： Arduino \
-特色播放列表：`Arduino 初学者教程`、`Raspberry Pi 初学者教程`、`更多 Arduino 教程/项目视频！`.
+精选播放列表：`Arduino 初学者教程`、`Raspberry Pi 初学者教程`、`更多 Arduino 教程/项目视频！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
 

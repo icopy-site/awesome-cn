@@ -45,18 +45,18 @@
  | 姓名 | 地点 | 关键词 |
 |---|:---:|---|
 | **[1024 Architecture](https://www.1024architecture.net/) ** |  \[巴黎] |  _建筑和数字作品，精心编排的声光乐谱_ |
-| **[Art + Com](https://artcom.de/en/)** | \[Berlin] | _media sculptures, data installations, new media_ |
+| **[Art + Com](https://artcom.de/en/) ** |  \[柏林] |  _媒体雕塑、数据装置、新媒体_ |
 | **[Augmented Magic](https://www.augmented-magic.com/) ** |  \[巴黎] |  _增强魔术表演，数字装置_ |
 | **[AV Controls](https://www.av-controls.com/) ** |  \[纽约] |  _特定地点的技术装置、数字地标_ |
 | **[Barbarian](https://wearebarbarian.com/) ** |  \[纽约] |  _营销和广告、新媒体_ |
 | **[Blue Cadet](https://www.bluecadet.com/) ** |  \[费城] \[纽约] |  _跨数字和物理环境、游客中心的体验设计_ |
 | **[BREAKFAST](https://breakfastny.com/) ** |  \[纽约] |  _软件/硬件驱动的艺术作品，翻转光盘_ |
 | **[BRDG Studios](https://www.brdg.co/) ** |  \[费城] |  _物理空间、零售环境、艺术画廊、活动中的数字时刻_ |
-| **[Comuzi](https://www.comuzi.xyz/) ** |  \[伦敦] |  _探索、想象、原型和创造未来的创意概念_ |
+| **[Comuzi](https://www.comuzi.xyz/) ** |  \[伦敦] |  _探索、想象、原型设计和创造未来的创意概念_ |
 | **[Deeplocal](https://www.deeplocal.com/) ** |  \[匹兹堡] |  _创意工程师、发明家、互动体验、人类故事_ |
 | **[dotdotdash](https://dotdotdash.io/) ** |  \[波特兰] \[洛杉矶] \[纽约] |  _无缝融合实体和数字的创新机构_ |
 | **[Downstream](https://downstream.com/) ** |  \[波特兰] \[阿姆斯特丹] \[墨尔本] |  _策略+设计+内容+技术_|
-| **[Envoy](https://www.weareenvoy.com/) ** |  \[芝加哥] \[洛杉矶] \[圣地亚哥] |  _将环境转变为非凡的体验，前身为利维坦_ |
+| **[Envoy](https://www.weareenvoy.com/) ** |  \[芝加哥] \[洛杉矶] \[圣地亚哥] |  _将环境转变为非凡体验，前身为利维坦_ |
 | **[ESI Design](https://esidesign.nbbj.com/) ** |  \[纽约] |  _将场所转化为体验、沉浸式设计、建筑规模_ |
 | **[Extrapolation Factory](https://extrapolationfactory.com/) ** |  \[纽约] |  _研究室、未来研究、协作原型设计_ |
 | **[Fast Horse](https://www.fasthorseinc.com/) ** |  \[明尼阿波利斯] |  _一个真正的综合创意机构_ |
@@ -73,14 +73,14 @@
 | **[Listen](https://wearelisten.com/) ** |  \[纽约] |  _感官驱动的品牌资产、现代文化景观、声音、体验_ |
 | **[Manifold](https://www.wearemanifold.com/) ** |  \[旧金山] \[洛杉矶] \[波特兰] |  _我们雇佣聪明人，让他们远离_ |
 | **[Map](http://mapprojectoffice.com/) ** |  \[伦敦] |  _相信伟大的设计可以解决问题的工业设计师_ |
-| **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) ** |  \[伦敦] |  _当我们在宇宙中旅行时，留下一连串的感官金块_ |
-| **[Midnight Commercial](http://midnightcommercial.com/) ** |  \[纽约] |  _统一不同的数字和物理世界_ |
+| **[Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/) ** |  \[伦敦] |  _在我们穿越宇宙的过程中，留下了一条条感性的小路_|
+| **[Midnight Commercial](http://midnightcommercial.com/)** | \[NYC] | _unite the disparate digital and physical worlds_ |
 | **[MindBuffer](https://mindbuffer.net/) ** |  \[柏林] |  _视听研究和数字设计工作室_ |
 | **[Moment Factory](https://momentfactory.com/home) ** |  \[蒙特利尔] \[洛杉矶] \[伦敦] \[东京] \[巴黎] \[纽约] |  _演出、目的地、内容、互动、布景_ |
 | **[Oat Foundry](https://www.oatfoundry.com/) ** |  \[费城] |  _分体式显示器、机电产品、智囊团、产品、体验_ |
-| **[Onformative](https://onformative.com/) ** |  \[柏林] |  _数字艺术与设计工作室，挑战艺术与设计与技术的界限_ |
+| **[Onformative](https://onformative.com/) ** |  \[柏林] |  _数字艺术与设计工作室，挑战艺术与设计与技术之间的界限_ |
 | **[Optimist](https://optimistinc.com/) ** |  \[洛杉矶] \[纽约] \[伦敦] \[阿姆斯特丹] \[汉堡] \[柏林] \[布拉格] |  _亚文化、创意、设计、战略、制作、内容、品牌体验的建筑师_ |
-| **[Patten Studio](https://www.pattenstudio.com/) ** |  \[纽约] |  _麻省理工学院媒体实验室的研究提供了将人们联系起来的体验_ |
+| **[Patten Studio](https://www.pattenstudio.com/) ** |  \[纽约] |  _麻省理工学院媒体实验室的研究提供了连接人们的体验_ |
 | **[Potion Design](https://www.potiondesign.com/) ** |  \[纽约] |  _设计和技术工作室，互动，博物馆_ |
 | **[Rare Volume](https://rarevolume.com/) ** |  \[纽约] |  _设计和技术工作室，互动视频墙_ |
 | **[Red Paper Heart](https://redpaperheart.com) ** |  \[纽约] |  _来自现实世界互动的艺术_ |
@@ -103,18 +103,18 @@
 
 ## Collectives & Practices
 
-使用创意技术的已建立的艺术家集体/实践（此处主要供参考，而非职业机会）.
+使用创意技术的已建立的艺术家集体/实践（此处主要供参考，而不是职业机会）.
 
  | 姓名 | 地点 | 关键词 |
 |---|:---:|---|
 | **[Dave + Gabe](https://www.daveandgabe.care/) ** |  \[纽约] |  _互动装置工作室，实时动画，生成3D音效_|
 | **[MSCHF](https://mschf.xyz/) ** |  \[纽约] |  _病毒式的特技和产品，试图做一些世界甚至无法定义的事情_ |
 | **[NONOTAK Studio](https://www.nonotak.com/) ** |  \[巴黎] |  _灯光和声音装置，空灵，身临其境，如梦似幻_ |
-| **[panGenerator](https://pangenerator.com/) ** |  \[波兰华沙] |  _新媒体艺术与设计集体，混合比特和原子_ |
+| **[panGenerator](https://pangenerator.com/) ** |  \[波兰华沙] |  _新媒体艺术与设计集体，混合比特与原子_ |
 | **[Random International](https://www.random-international.com/) ** |  \[伦敦] \[柏林] |  _当代艺术中的实验性实践，日益机械化的世界中的人类状况_ |
 | **[teamLab](https://www.teamlab.art/) ** |  \[东京] |  _全室交互式投影映射，超技术专家跨学科组_ |
-| **[United Visual Artists](https://www.uva.co.uk/) ** |  \[伦敦] |  _传统媒体的新技术，特定地点，操纵感知的工具_ |
-| **[WHYIXD](https://www.whyixd.com/) ** |  \[台湾] |  _跨学科的艺术装置、舞蹈、建筑、音乐_|
+| **[United Visual Artists](https://www.uva.co.uk/)** | \[London] | _new technologies with traditional media, site-specific, instruments that manipulate perception_ |
+| **[WHYIXD](https://www.whyixd.com/) ** |  \[台湾] |  _跨学科的艺术装置、舞蹈、建筑、音乐_ |
 
 ## Fabricators
 
@@ -134,8 +134,9 @@
  | 姓名 | 地点 | 关键词 |
 |---|:---:|---|
 | **[Adirondack Studios](https://www.adkstudios.com/) ** |  \[纽约格伦斯福尔斯] \[迪拜] \[奥兰多] \[上海] \[洛杉矶] \[新加坡] |  _概念、原理图、设计、施工、制造、安装、支持_ |
-| **[Hettema Group](http://thehettemagroup.com/) ** |  \[洛杉矶] |  _体验、展览、现场表演、主题公园、零售、餐饮、博物馆_ |
-| **[Jason Sherwood Design](http://jasonsherwooddesign.com/) ** |  \[纽约] |  _电视、百老汇和音乐会舞台设计_ |
+| **[Charcoalblue](https://www.charcoalblue.com/) ** |  \[纽约] \[墨尔本] \[芝加哥] \[英国] \[伦敦] |  _讲述故事​​和分享经验的奇妙空间_ |
+| **[Hettema Group](https://thehettemagroup.com/) ** |  \[洛杉矶] |  _体验、展览、现场表演、主题公园、零售、餐饮、博物馆_ |
+| **[Jason Sherwood Design](https://jasonsherwooddesign.com/) ** |  \[纽约] |  _电视、百老汇和音乐会舞台设计_ |
 
 
 ## Experiential Pop-Ups
@@ -157,8 +158,8 @@
 
  | 姓名 | 地点 | 关键词 |
 |---|:---:|---|
-| **[Dera Lee Productions](http://www.deralee.com/) ** |  \[纽约] | 戏剧艺术，讲故事|
-| **[GPJ](https://www.gpj.com/) ** |  \[奥斯汀] \[波士顿] \[达拉斯] \[底特律] \[洛杉矶] \[纳什维尔] \[纽约市] \[旧金山] \[硅谷] |  _沉浸式事件和体验_ |
+| **[Dera Lee Productions](http://www.deralee.com/) ** |  \[纽约] | 戏剧艺术，讲故事| 高分辨率照片| CLIPARTO
+| **[GPJ](https://www.gpj.com/) ** |  \[奥斯汀] \[波士顿] \[达拉斯] \[底特律] \[洛杉矶] \[纳什维尔] \[纽约] \[旧金山] \[硅谷] |  _沉浸式事件和体验_ |
 | **[Sparks](https://wearesparks.com/) ** |  \[费城]\[底特律]\[康涅狄格]\[亚特兰大]\[洛杉矶]\[拉斯维加斯]\[纽约]\[旧金山]\[上海]|  _展会、体验、零售_ |
 
 
@@ -197,7 +198,7 @@
 | **[Exploratorium](https://www.exploratorium.edu/) ** |  \[旧金山] |  _内部制作的面向公众的工作室的展品_ |
 | **[GSM Project](https://gsmproject.com/en/) ** |  \[蒙特利尔] \[新加坡] \[迪拜] |  _内容第一，展览_ |
 | **[Iglhaut + von Grote](http://iglhaut-vongrote.de/en/) ** |  \ [柏林] |  _布景，空间布景_ |
-| **[Local Projects](https://localprojects.com/) ** |  \[纽约] |  _体验设计师突破人际互动的界限_ |
+| **[Local Projects](https://localprojects.com/) ** |  \[纽约] |  _体验设计师突破人机交互的界限_ |
 
 
 ## Closed

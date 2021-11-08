@@ -109,7 +109,7 @@
 ### Resilience and Natural Hazards
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
-- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
+- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earth quakes going back to 2150 BC to present with geographic information.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，可识别面临 18 种自然灾害风险最大的社区.
 - [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more. 
 
@@ -157,12 +157,13 @@
 - [Transoft](https://safety.transoftsolutions.com/)  - Transfoft ITS 安全解决方案利用计算机视觉来识别街道上的“险些”行为. 该技术曾在《规划》杂志上发表 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥挤、更可持续和更公平. 
 - [Vade](https://www.vadepark.com/) - 使用自定义物联网摄像头和计算机视觉，通过基于 Web 的 API 轻松查询实时停车可用性. 
+- [StreetsSimplified](https://www.streetsimplified.com/) - 部署临时摄像头，利用计算机视觉来检查各种交通行为，例如超速、遵守规则和闯红灯.  
 
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
-- [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more. 
+- [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
 - [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
@@ -174,7 +175,7 @@
 
 ### Built Environment
 
-- [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Assoication's](https://www.planning.org/) Land Based Classification Standards classifies land uses across five dimensions (Activity, Function, Structure, Site, and Ownership). 
+- [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Assoication's](https://www.planning.org/) 基于土地的分类标准从五个维度（活动、功能、结构、场地和所有权）对土地利用进行分类. 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以通过该语言定义他们希望在其拓扑中使用的实体的语言. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力，为建筑和施工许可数据创建共享数据规范.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - House Facts 数据标准是一种统一的格式，用于报告有关住宅建筑的运行、安全和性能的政府数据.
@@ -200,7 +201,7 @@ Python 库和相关资源.
 
 - [Pandas](https://pandas.pydata.org/) - 灵活强大的 Python 数据分析/操作库，提供类似于 R 数据框架对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
-- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform. 
+- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
@@ -215,7 +216,7 @@ Python 库和相关资源.
 
 
 ### R
-R 包和相关资源.
+R Packages & Related Resources.
 
 - [R Shiny](https://shiny.rstudio.com/) - 使用 R 创建动态、网络友好的数据可视化.附加信息： [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
 - [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - 支持简单特征，这是一种在 R 中编码空间矢量数据的标准化方法. 
@@ -238,7 +239,7 @@ R 包和相关资源.
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
 ### Learning to Code
-供规划人员学习编码和城市信息学的资源.
+Resources for planners learning coding and urban informatics.
 - [Urban Informatics & Visualization-Berkeley](https://github.com/waddell/urban-informatics-and-visualization)  - 城市信息学和可视化 (UC Berkeley CP255) 类 Jupyter Noteboom 示例. 为规划上下文中的应用 Python 提供各种资源. 
 - [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/)  - 本课程提供了使用 Python 所需的构建块. 您将使用这些构建块创建和运行脚本，您可以将它们直接应用到 ArcGIS 中以及您自己的工作流中.
 - [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python)  - Planetizen 课程通过 10 个视频课程教授 Python 基础知识，并规划应用程序. 需要每月订阅. 
@@ -259,7 +260,7 @@ R 包和相关资源.
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成图表，几何图形的大小会根据数据发生扭曲. 
 - [Omnisci](https://www.omnisci.com/) - 启用地理时间的高性能数据库，能够执行 GPU 加速查询.
-- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件，用于 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
+- [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
 
 ### Urban Design Tools and Platforms
 用于协助城市设计和建筑环境中类似创意应用的软件、工具和平台. 
@@ -270,7 +271,7 @@ R 包和相关资源.
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 收集了 20 多个桌面和移动应用程序和服务，用于摄影、设计、视频、网络、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
 - [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，可用于 GNU/Linux、macOS、Windows 和更多操作系统.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
-- [TestFit](https://testfit.io/) - TestFit 具有算法和共创工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑工地计划.
+- [TestFit](https://testfit.io/) - TestFit features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Delve 使用衍生式设计和 AI 为您的项目优先级和站点设计指标揭示最佳选项. 
 
 ### Urban Planning Tools and Platforms
@@ -283,7 +284,7 @@ R 包和相关资源.
 ### Transportation Planning Tools and Platforms
 旨在协助运输规划任务和流程的软件、工具和平台. 
 - [Remix](https://www.remix.com/)  - 一个使城市能够规划最佳交通系统的平台——从公共交通到更安全的街道，再到不断增加的新出行方式.  Remix 提供了用于编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
-- [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您附近的街道.
+- [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您的街区街道.
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索影响，并使用由此产生的可视化来传达建议.  Apache 获得许可，可使用 OpenStreetMap 在任何地方运行，并可在网络上运行或作为离线下载使用.
 - [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim)  - 综合交通与健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于在城市和国家层面对交通情景和政策的健康影响进行综合评估. 此页面指向不同的文献、R 代码和 [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
@@ -291,7 +292,7 @@ R 包和相关资源.
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和减缓规划的软件、工具和平台. 
 
-- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部林务局研究.
+- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，主要目的是促进中小型社区以数据为依据的适应规划过程，几乎没有专门的资源来规划气候变化影响. 
 

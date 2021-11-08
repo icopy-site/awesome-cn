@@ -48,9 +48,9 @@
 * [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 
 ## Code Quality
-*Check your code quality.*
+*检查您的代码质量.*
 * [sonarsource](https://www.sonarsource.com/) - Lint 和代码质量检查.
-* [Codacy](https://www.codacy.com/) - 自动代码质量检查.
+* [Codacy](https://www.codacy.com/) - Automatic code quality checks.
 
 ## Computer Vision
 *操纵和检测视觉数据.*
@@ -177,6 +177,7 @@
 *生成报告，主要是PDF*
 * [PDFBlade](https://pdfblade.com/#pricing) - 基于 HTML 到 PDF API 使用的定价.
 * [Carbone](https://carbone.io/) - JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
+* [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
 
 ## Scraping
 *不通过预期的 API 从网站获取数据.*

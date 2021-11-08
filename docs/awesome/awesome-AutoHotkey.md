@@ -67,14 +67,14 @@
 * [Toolbar](https://github.com/Pulover/Class_Toolbar)  - 由 Pulover - AutoHotkey 工具栏自定义控件的 AHK 类. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=138)
 
 #### Edit
-* [Edit v2.0](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063) - by jballi - Library for the lightweight and surprisingly powerful default Edit control for displaying and editing text. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)
+* [Edit v2.0](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)  - 由 jballi - 用于显示和编辑文本的轻量级且功能强大的默认编辑控件库. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)
 
 #### General
 * [AutoXYWH](https://autohotkey.com/boards/viewtopic.php?f=6&t=1079) - 由 tmplinshi - 调整 GUI 大小时自动移动和调整控件大小.
-* [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - 只有我 - 为 Win Vista+ 增强 MsgBox - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
+* [TaskDialog](https://github.com/AHK-just-me/TaskDialog) - 仅由我 - 为 Win Vista+ 增强 MsgBox - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
 * [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk)  - 由 cocobelgica - 在窗口事件（WinWaitXXX 异步）上调用函数. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6463)
 * [CGUI](https://github.com/lipkau/CGUI/)  - 作者：ChrisS85 - AutoHotkey 的面向对象的 GUI 库. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
-* [Class_ScrollGUI](https://github.com/AHK-just-me/Class_ScrollGUI)  - 只有我 - 创建一个可滚动的 GUI 作为 AHK GUI 窗口的父级. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
+* [Class_ScrollGUI](https://github.com/AHK-just-me/Class_ScrollGUI) - by just me - Creates a scrollable GUI as a parent for AHK GUI windows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
 
 #### ListBox
 * [LBEX](https://github.com/AHK-just-me/LBEX) - 经过 [just me](https://github.com/AHK-just-me)  - 列表框的实用函数集合. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
@@ -83,11 +83,11 @@
 #### ListView
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/)  - 仅由我 - GUI ListView 的单元格或行的单独背景和/或文本颜色. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
 * [LV_EX](https://github.com/AHK-just-me/LV_EX)  - 只有我 - AHK GUI ListView 控件的一些附加功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
-* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)  - 仅由我 - ListView 控件的单元格内编辑. 论坛主题： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
+* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)  - 仅由我 - ListView 控件的单元内编辑. 论坛主题： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
 * [LV_Rows](https://github.com/Pulover/Class_LV_Rows)  - 由 Pulover - AHK ListView 控件的附加功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
 
 #### Menu
- * [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - 只有我 - 一些与 AHK 菜单相关的功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
+ * [[Lib] 菜单](https://autohotkey.com/boards/viewtopic.php?t=3068) - 只有我 - 一些与 AHK 菜单相关的功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
 
 #### Web
 * [Neutron](https://github.com/G33kDude/Neutron.ahk/)  - 作者 G33kDude - 使用 AutoHotkey 构建基于 HTML 的用户界面的一组工具. 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865)
@@ -152,6 +152,7 @@
 
 ### <a name="scripts-filesystem"></a>Filesystem
 * [Belvedere](https://github.com/adampash/belvedere)  - 根据文件的名称、扩展名、大小、年龄等设置对文件执行操作（移动、复制、删除等）的规则. 更多信息 [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
+* [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup)  - 多用途启动器和文件切换器. 网站 [link](https://www.quickaccesspopup.com/).
 
 ### <a name="scripts-graphics"></a>Graphics
 * [Fun with GDIPlus](https://autohotkey.com/boards/viewtopic.php?f=6&t=6071) - 有趣的 GDI+ 示例.
@@ -206,7 +207,7 @@
 * [AutoHotkey](https://autohotkey.com/download/) - AutoHotkey 解释器安装程序和二进制文件.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/)  - AutoHotkey.dll 为其他编程和脚本语言打开了 AutoHotkey 的世界. 论坛主题： [link](https://autohotkey.com/board/topic/39588-autohotkeydll/) . 文档 [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB)  - 掌上电脑/WinCE/智能手机的AutoHotkey. 论坛主题： [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/) . 文档 [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
-* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
+* [IronAHK](https://github.com/polyethene/IronAHK) - 跨平台 .NET 重写 - *未完成*.
 
 ### Debugging
  * [[Class] Console](https://autohotkey.com/boards/viewtopic.php?f=6&amp;t=2116) - 这个类旨在简化脚本的调试，从简单的文本处理到输出和记录数据和数组.  GitHub [link](https://github.com/AfterLemon/Class_Console).
@@ -255,7 +256,7 @@
 ### (Use in) other programming languages
 * [AutoHotkey.dll](https://hotkeyit.github.io/v2/docs/AutoHotkeyDll.htm) - 的一部分 [AutoHotkey_H](#autohotkey_h) 分配. 从您的其他语言加载 autohotkey.dll，并将正常的 AHK 代码传递给 dll 文件以供执行. 请参阅此处以获取列表 [exported functions](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm) . 一些较旧的链接： [python example](https://autohotkey.com/board/topic/56938-simple-python-intergration-example/), [c/c++ example](https://autohotkey.com/board/topic/39588-autohotkeydll/://autohotkey.com/board/topic/39588-autohotkeydll/page-10?&#entry321945), [forum link](https://autohotkey.com/board/topic/39588-autohotkeydll/)
 * [.NET Framework Interop (CLR, C#, VB)](https://dl.dropbox.com/u/20532918/Lib/CLR-1.2.zip) - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4633).
-* [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - 为 VBScript 和 JScript 等活动脚本语言提供接口，不依赖 Microsoft 的 ScriptControl，后者不适用于 64 位程序.
+* [ActiveScript - Host VBScript and JScript in-process](https://autohotkey.com/boards/viewtopic.php?f=6&t=4555) - 为活动脚本语言（如 VBScript 和 JScript）提供接口，而不依赖于 Microsoft 的 ScriptControl，后者不适用于 64 位程序.
 * [Exo-Javascript](https://github.com/Aurelain/Exo) - 用 Ja​​vaScript 编写 AHK - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5714), Exo-CLI（交互式命令行） [link](https://github.com/joedf/Exo-CLI.ahk).
 * [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *注：可以找到lua.ahk和lua_ahkfunctions.ahk [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 * [Machine code functions: Bit Wizardry](https://autohotkey.com/board/topic/19483-machine-code-functions-bit-wizardry/) - 教程 [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=32), C/C++ to MCode Generator 论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4642).
@@ -302,7 +303,7 @@
 * AHK 的分支，为核心语言添加了新功能*
 
 ### AutoHotkey_H
-* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H 为原始 AutoHotkey 添加了功能，并使用 NewThread() 函数或 AutoHotkey.dll 提供真正的多线程. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
+* [AutoHotkey_H](https://hotkeyit.github.io/v2/) - AHK_H adds functionality to original AutoHotkey and offers true multi-threading using NewThread() function or AutoHotkey.dll. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
 
 ## License
 

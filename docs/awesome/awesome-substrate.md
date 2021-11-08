@@ -16,7 +16,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Official Homepage](https://substrate.io/) - 愿景、生态系统、机会等等.
   - [Docs](https://docs.substrate.io/) - 开发人员文档.
   - [Tutorials](https://docs.substrate.io/tutorials) - 引导练习让您入门.
-  - [How-to guides](https://docs.substrate.io/how-to-guides) - 概述了实现目标的工作流程
+  - [How-to guides](https://docs.substrate.io/how-to-guides) - 概述工作流程以实现
     具体目标.
   - [Reference Docs](https://docs.substrate.io/rustdocs) - 版本化 API 文档.
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - 开发者中心存储库.
@@ -45,7 +45,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 ## Events
 
-- [Sub0 Developer Conference](https://sub0.parity.io/) - 半年一次，在线和面对面的所有人
+- [Sub0 Developer Conference](https://sub0.parity.io/) - 半年一次，在线和面对面
   事物 基材.
 - [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Bi-weekly
   协作学习会议.
@@ -73,7 +73,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Base](https://github.com/substrate-developer-hub/substrate-node-template) - 基于最小框架
   节点，准备黑客攻击. 
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - 积云
-  启用 Substrate 节点，准备进行黑客攻击.   
+  启用 Substrate 节点，准备好进行黑客攻击.   
 - [Frontier](https://github.com/substrate-developer-hub/frontier-node-template/) - 启用前线
   EVM 和 Ethereum RPC 兼容的 Substrate 节点，准备好进行黑客攻击. 
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS
@@ -86,7 +86,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Included in Substrate](https://github.com/paritytech/substrate/tree/master/frame) - 正式
   支持的.
 - [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - 社区
-  维护了 Substrate 运行时模块的集合. 
+  维护 Substrate 运行时模块的集合. 
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - 分散式
   用于管理赏金计划的自治组织 (DAO).
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - 受 Keybase 启发
@@ -104,7 +104,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [ink!](https://github.com/paritytech/ink) - 用于 Substrate 链的 Rust 智能合约语言.
 - [Cumulus](https://github.com/paritytech/cumulus) - 一组用于编写基于 Substrate 的工具
   Polkadot 平行链.
-- [Bridges](https://github.com/paritytech/parity-bridges-common) - 一系列工具，用于
+- [Bridges](https://github.com/paritytech/parity-bridges-common) - 工具的集合
   跨链通信.
 - [Frontier](https://github.com/paritytech/frontier) - Substrate 的端到端以太坊仿真
   链.
@@ -116,7 +116,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 ## Client Libraries
 
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - 官方 Rust 客户端.
-- [Substrate API Client](https://github.com/scs/substrate-api-client) - 由 Rust 维护的客户端
+- [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust 客户端维护
   [Supercomputing Systems AG](https://www.scs.ch/).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - 半官方的 JavaScript 库
   基于底物的链.
@@ -134,7 +134,9 @@ Substrate 是一个构建可升级、模块化和高效的框架
   [DOTMog](https://dotmog.com/).
 - [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - 维护者 
   [Nodle.io](https://github.com/NodleCode)
-- [`sube`](https://github.com/virto-network/sube) - 支持类型信息的轻量级 Rust 客户端库和 CLI.
+- [`sube`](https://github.com/virto-network/sube) - 轻量级 Rust 客户端库和 CLI，支持类型信息.
+- [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 及更多，由 Subscan 开发.
+
 
 ## Mobile
 
@@ -203,16 +205,16 @@ Substrate 是一个构建可升级、模块化和高效的框架
   轻松创建索引数据源并免费在线托管它们.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 的零知识工具
   生态系统.
-- [Europa](https://github.com/patractlabs/europa) - 一个用于 Substrate 运行时执行的沙箱
+- [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
   环境.
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为智能合约编写的测试网
   FRAME 合同托盘.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 要解析的脚本
   并为给定的 Kusama 或 Polkadot 地址输出质押奖励并交叉引用它们
   与每日价格数据.
-- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 启动一个简单的 CLI 工具
+- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 简单的 CLI 工具来启动一个
   本地 Polkadot 测试网络.
-- [`polkadot-starship`](https://github.com/koute/polkadot-starship) - Another tool to launch a local
+- [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
   Polkadot 测试网络，强调运行大型测试网络的能力.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - 一种
   一组有用的 JavaScript 实用程序，用于使用 Polkadot{JS} API 的 Substrate. 还
@@ -240,6 +242,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`srtool-cli`](https://github.com/chevdor/srtool-cli) -`srtool` Docker 镜像的 CLI 前端.
 - [`srtool-actions`](https://github.com/chevdor/srtool-actions) - GitHub 操作可轻松使用
   `srtool` Docker 镜像来构建你自己的运行时.
+- [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - 显示带有所有 SS58 前缀的密钥地址.
 
 ## Products and Services
 

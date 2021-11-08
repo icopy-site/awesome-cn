@@ -133,7 +133,7 @@
 * [KubOS](https://github.com/kubos/kubos) - 用于卫星的开源软件堆栈.
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team 软件堆栈 - 路径跟踪控制、速度控制、曲率控制和状态估计.
 * [Aslan](https://github.com/project-aslan/Aslan) - 适用于低速环境的开源自动驾驶软件.
-* [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - 基于喷气推进实验室火星上的漫游车，自行打造的 6 轮漫游车.
+* [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - 基于喷气推进实验室火星上的漫游车自行建造的 6 轮漫游车.
 * [pybotics](https://github.com/nnadeau/pybotics) - 用于机器人运动学和校准的开源且经过同行评审的 Python 工具箱.
 * [makani](https://github.com/google/makani) - 包含工作的 Makani 飞行模拟器、控制器（自动驾驶仪）、可视化器和指挥中心飞行监控工具.
 * [mir_robot](https://github.com/dfki-ric/mir_robot) - 这是一个将 MiR 机器人与 ROS 结合使用的社区项目.
@@ -335,7 +335,7 @@
 * [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) - 一种面向场景的设计工具，旨在使用户能够在 ArcGIS CityEngine 中快速创建程序生成的多模式街道.
 * [fields-ignition](https://github.com/azazdeaz/fields-ignition) - 为 Ignition Gazebo 生成随机农田.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Unity 中机器人模拟的工具、教程、资源和文档的中央存储库.
-* [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为每个想要可视化、分析或模拟空中交通的人提供一个工具，以便不受任何限制、许可或限制.
+* [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - BlueSky 的目标是为想要可视化、分析或模拟空中交通的每个人提供一个工具，以便不受任何限制、许可或限制.
 * [Cloe](https://github.com/eclipse/cloe) - 通过为闭环仿真提供统一接口，为自动驾驶软件组件的开发人员提供支持.
 * [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - 仓库动态环境的凉亭模拟.
 * [OpenCDA](https://github.com/ucla-mobility/OpenCDA) - 在 CARLA+SUMO 下对全栈协同驾驶自动化应用进行原型设计的通用框架.
@@ -348,7 +348,7 @@
 * [urdf-viz](https://github.com/OTL/urdf-viz) - 可视化 URDF/XACRO 文件，URDF 查看器适用于 Windows/macOS/Linux.
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks 到 URDF 导出器.
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - 您自己的 3D 参数化建模器.
-* [kicad](http://www.kicad-pcb.org/) - 跨平台和开源电子设计自动化套件.
+* [kicad](http://www.kicad.org/) - 跨平台和开源电子设计自动化套件.
 * [PcbDraw](https://github.com/yaqwsx/PcbDraw) - 将您的 KiCAD 板转换为适合引脚图的漂亮 2D 绘图.
 * [kicad-3rd-party-tools](https://github.com/xesscorp/kicad-3rd-party-tools) - 其他人制作的工具来增强 KiCad PCB EDA 套件.
 * [PandaPower](http://www.pandapower.org) - 一个易于使用的开源工具，用于高度自动化的电力系统建模、分析和优化.
@@ -389,7 +389,7 @@
 * [imu_utils](https://github.com/gaowenliang/imu_utils) - 用于分析 IMU 性能的 ROS 封装工具.
 * [kalibr_allan](https://github.com/rpng/kalibr_allan) - 用于 Kalibr 和惯性卡尔曼滤波器的 IMU Allan 标准偏差图表.
 * [pyquaternion](https://github.com/KieranWynn/pyquaternion) - 用于表示和使用四元数的全功能 Python 模块.
-* [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - 该软件包提供了机器人许多参数的校准，例如：3D 相机内部参数、外部参数、关节角度偏移和机器人框架偏移.
+* [robot_calibration](https://github.com/mikeferguson/robot_calibration/) - 该软件包提供了许多机器人参数的校准，例如：3D 相机内在参数、外在参数、关节角度偏移和机器人框架偏移.
 * [multi_sensor_calibration](https://github.com/tudelft-iv/multi_sensor_calibration/) - 包含校准工具，用于校准由激光雷达、雷达和摄像头组成的传感器设置.
 * [LiDARTag](https://github.com/UMich-BipedLab/LiDARTag) - 使用点云激光雷达数据的实时基准标签.
 * [multicam_calibration](https://github.com/KumarRobotics/multicam_calibration) - 相机的外在和内在校准.
@@ -619,7 +619,7 @@
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - 强大且多功能的多传感器视觉惯性状态估计器.
 * [openvslam](https://github.com/xdspacelab/openvslam) - OpenVSLAM：多功能视觉 SLAM 框架.
 * [basalt](https://gitlab.com/VladyslavUsenko/basalt) - 具有非线性因子恢复的视觉惯性映射.
-* [Kimera](https://github.com/MIT-SPARK/Kimera) - 用于实时度量语义同步定位和映射的 C++ 库，它使用相机图像和惯性数据来构建环境的语义注释 3D 网格.
+* [Kimera](https://github.com/MIT-SPARK/Kimera) - 用于实时度量语义同时定位和映射的 C++ 库，它使用相机图像和惯性数据来构建环境的语义注释 3D 网格.
 * [tagslam](https://github.com/berndpfrommer/tagslam) - 一个基于 ROS 的包，用于使用 AprilTag 基准标记的同时定位和映射.
 * [LARVIO](https://github.com/PetWorm/LARVIO) - 基于多状态约束卡尔曼滤波器的轻量级、准确和强大的单目视觉惯性里程计.
 * [fiducials](https://github.com/UbiquityRobotics/fiducials) - 使用基准标记同时定位和映射.
@@ -675,7 +675,7 @@
 * [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) - 基于Hybrid A*的挂车路径规划算法.
 * [path_planner](https://github.com/karlkurzer/path_planner) - KTH 研究概念车的混合 A* 路径规划器.
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) - 用于处理开放街道地图地理信息的 ROS 包.
-* [Open Source Car Control](https://github.com/PolySync/oscc) - 软件和硬件设计的组合，使计算机能够控制现代汽车，以促进自动驾驶汽车技术的发展.
+* [Open Source Car Control](https://github.com/PolySync/oscc) - 一组软件和硬件设计，使计算机能够控制现代汽车，以促进自动驾驶汽车技术的发展.
 * [fastrack](https://github.com/HJReachability/fastrack) - 快速安全跟踪 (FaSTrack) 的 ROS 实现.
 * [commonroad](https://commonroad.in.tum.de/) - 道路运动规划的可组合基准.
 * [traffic-editor](https://github.com/osrf/traffic-editor) - 机器人交通流的图形编辑器.
@@ -992,7 +992,7 @@
 * [ros2_ouster_drivers](https://github.com/ros-drivers/ros2_ouster_drivers) - 这些是 Ouster OS-1 3D 激光雷达的 ROS2 驱动程序的实现.
 * [livox_ros_driver](https://github.com/Livox-SDK/livox_ros_driver) - 全新的 ROS 包，专门用于连接 Livox 生产的 LiDAR 产品.
 * [velodyne](https://github.com/ros-drivers/velodyne) - 一组支持 Velodyne 高清 3D LIDAR 的 ROS 软件包.
-* [ublox](https://github.com/KumarRobotics/ublox) - 支持 u-blox GPS 接收器.
+* [ublox](https://github.com/KumarRobotics/ublox) - 提供对 u-blox GPS 接收器的支持.
 * [crazyflie_ros](https://github.com/whoenig/crazyflie_ros) - Bitcraze Crazyflie 的 ROS 驱动程序.
 * [pointgrey_camera_driver](https://github.com/ros-drivers/pointgrey_camera_driver)  - Pt 的 ROS 驱动程序. 灰色相机，基于官方 FlyCapture2 SDK.
 * [novatel_gps_driver](https://github.com/swri-robotics/novatel_gps_driver) - NovAtel GPS / GNSS 接收器的 ROS 驱动程序.
