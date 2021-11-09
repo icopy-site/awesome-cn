@@ -83,11 +83,11 @@
 #### ListView
 * [LV_Colors](https://github.com/AHK-just-me/Class_LV_Colors/)  - 仅由我 - GUI ListView 的单元格或行的单独背景和/或文本颜色. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
 * [LV_EX](https://github.com/AHK-just-me/LV_EX)  - 只有我 - AHK GUI ListView 控件的一些附加功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
-* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)  - 仅由我 - ListView 控件的单元内编辑. 论坛主题： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
+* [LV_InCellEdit](https://github.com/AHK-just-me/Class_LV_InCellEdit/)  - 仅由我 - ListView 控件的单元格内编辑. 论坛主题： [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
 * [LV_Rows](https://github.com/Pulover/Class_LV_Rows)  - 由 Pulover - AHK ListView 控件的附加功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
 
 #### Menu
- * [[Lib] 菜单](https://autohotkey.com/boards/viewtopic.php?t=3068) - 只有我 - 一些与 AHK 菜单相关的功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
+ * [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - 只有我 - 一些与 AHK 菜单相关的功能. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
 
 #### Web
 * [Neutron](https://github.com/G33kDude/Neutron.ahk/)  - 作者 G33kDude - 使用 AutoHotkey 构建基于 HTML 的用户界面的一组工具. 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=76865)
@@ -295,8 +295,8 @@
 * [Official quick start tutorial](https://autohotkey.com/docs/Tutorial.htm)  - 官方快速入门教程 - 最初由 tidbit 编写. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=7&t=27).
 
 ### Websites
-* [ahkscript.org](http://ahkscript.org/) - 官方网站 [AutoHotkey Foundation LLC](http://ahkscript.org/foundation/) ，为该软件成立的非营利性 LLC（有限责任公司）. 组织证书 (pdf) [link](http://ahkscript.org/certificate_of_organization.pdf).
 * [autohotkey.com](https://autohotkey.com/) - AutoHotkey 脚本语言的官方网站（下载、论坛、文档）.
+* [autohotkey.com/foundation](https://autohotkey.com/foundation) - 官方网页 [AutoHotkey Foundation LLC](https://autohotkey.com/foundation/) ，为该软件成立的非营利性 LLC（有限责任公司）. 组织证书 (pdf) [link](https://autohotkey.com/certificate_of_organization.pdf).
 * [ahkscript GitHub organization](https://github.com/ahkscript) - 官方 ahkscript GitHub 组织.
 
 ## Forks

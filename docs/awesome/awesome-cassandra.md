@@ -24,7 +24,7 @@
 
 - [Datastax Academy: What is Cassandra?](https://www.datastax.com/cassandra) - Cassandra 是什么、它来自哪里以及它的一些好处的介绍.
 - [Kaa application based on Raspberry Pi and DHT11 sensor](https://github.com/pyroalf/kaa-cassandra-sample) - 带有 Raspberry Pi 和 DHT11 传感器的 Cassandra IoT 用例.
-- [Simple Node.js Express 4 Cassandra Application](https://github.com/bradtraversy/mysubscribers)  - MySubscribers 是一个非常简单的应用程序（应用程序启动），它允许您创建、读取、更新和删除用户/订阅者. 此应用程序仅用于帮助 YouTube 课程.
+- [Simple Node.js Express 4 Cassandra Application](https://github.com/bradtraversy/mysubscribers)  - MySubscribers 是一个非常简单的应用程序（应用程序的启动），它允许您创建、读取、更新和删除用户/订阅者. 此应用程序仅用于帮助 YouTube 课程.
 - [An Odyssey of Cassandra](http://hadoopmag.com/an-odyssey-of-cassandra/) - 已重新发布但讨论使用 Cassandra 从 SQL 过渡到 NoSQL 的旧文章.
 
 ### Cassandra Distributions
@@ -44,6 +44,7 @@
 #### Cassandra as a Service / Managed Cassandra Based on Open Source Cassandra
 
 - [DataStax Astra](https://dtsx.io/38htEun) - DataStax Astra Cassandra 即服务，在 AWS 和 GCP 上可用的 Kubernetes 运营商 Cassandra 上运行.
+- [IBM Cloud Databases for Datastax](https://www.ibm.com/cloud/databases-for-datastax) - 适用于 Datastax Enterprise 的 IBM Cloud Managed Service.
 - [Instaclustr Managed Cassandra as a Service](https://www.instaclustr.com/solutions/managed-apache-cassandra/) - Instaclustr 为 AWS、Azure、GCP 和 IBM Cloud 上的 Cassandra® 提供完全托管和 SOC 2 认证的托管和托管服务.
 - [Aiven for Cassandra](https://aiven.io/cassandra/)  - Aiven for Cassandra 是一个托管和托管的分布式 NoSQL 数据库，提供可扩展性、高可用性和出色的容错能力.  Cassandra 即服务可在 Google Cloud Platform、Amazon Web Services、Microsoft Azure、DigitalOcean 和 UpCloud 上使用.
 - [Microsoft Azure Managed Instance for Cassandra](https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/)  - 适用于 Cassandra 的 Azure 托管实例为托管开源 Cassandra 数据中心提供自动部署和缩放操作. 它可以加速混合场景并减少持续维护.
@@ -153,7 +154,7 @@
 - [How to Monitor Cassandra](https://www.datadoghq.com/blog/how-to-monitor-cassandra-performance-metrics/) - 帮助您监控 Cassandra 性能和工作指标的指南，无论您选择使用哪种监控工具.
 - [Cassandra metrics and their use in Grafana](https://medium.com/@mlowicki/cassandra-metrics-and-their-use-in-grafana-1f0dc33f9cca) - 在 Grafana 中使用 Cassandra 指标的案例研究.
 - [Monitoring Cassandra with Prometheus](https://www.robustperception.io/monitoring-cassandra-with-prometheus) - 将 Cassandra 与 Prometheus 结合使用的快速设置指南.
-- [Monitoring Cassandra With Grafana And Influx DB](https://blog.pythian.com/monitoring-cassandra-grafana-influx-db/) - 解释如何使用 influxDB 和 Grafana 设置 Cassandra 监控的博客文章.
+- [Monitoring Cassandra With Grafana And Influx DB](https://blog.pythian.com/monitoring-cassandra-grafana-influx-db/) - 博客文章解释了如何使用 influxDB 和 Grafana 设置 Cassandra 监控.
 - [Cassandra Monitoring - Introduction (1/2)](https://softwaremill.com/cassandra-monitoring-part-1/) - 详细介绍如何收集 Cassandra 指标的博客文章.
 - [Cassandra Monitoring - Graphite/InfluxDB & Grafana on Docker (2/2)](https://softwaremill.com/cassandra-monitoring-part-2/) - 继续探索第一部分中提到的 Cassandra 指标报告器的主题.目标是配置一个将指标发送到外部时间序列数据库的报告器.
 - [Monitoring Cassandra using Intel Snap and Grafana](http://thelastpickle.com/blog/2017/04/13/monitoring-cassandra-using-intel-snap.html) - 描述如何使用英特尔 Snap 开源遥测框架监控 Cassandra 的博客文章.

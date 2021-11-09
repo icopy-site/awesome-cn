@@ -19,7 +19,7 @@
 ## Books
 
 - [Google Books](https://github.com/aharris88/google-bookshelves-widget) - 允许您显示 Google 图书库中的图书.
-- [Goodreads API and widgets](https://www.goodreads.com/api)  - 允许您访问任何 Goodreads 数据. 小工具可在您的小工具选项卡上找到 [settings page](https://www.goodreads.com/user/edit).
+- [Goodreads API and widgets](https://www.goodreads.com/api)  - 允许您访问任何 Goodreads 数据. 小部件可在您的小部件选项卡上找到 [settings page](https://www.goodreads.com/user/edit).
 
 ## Calendar and Scheduling
 
@@ -62,11 +62,11 @@
 ## Functions as a Service
 
 - [1Backend](https://github.com/1backend/1backend)  - 在几秒钟内部署您的后端. 包括免费层. 开源.
-- [AWS Lambda](https://aws.amazon.com/lambda/)  - AWS Lambda 让您无需配置或管理服务器即可运行代码. 您只需为消耗的计算时间付费
-- [Google Cloud Functions](https://cloud.google.com/functions/) - 创建单一用途的独立功能，无需管理服务器或运行时环境即可响应云事件
+- [AWS Lambda](https://aws.amazon.com/lambda/)  - AWS Lambda 让您无需预置或管理服务器即可运行代码. 您只需为消耗的计算时间付费
+- [Google Cloud Functions](https://cloud.google.com/functions/) - 创建响应云事件的单一用途、独立功能，无需管理服务器或运行时环境
 - [Webtask by Auth0](https://webtask.io/) - 使用简单的 HTTP 在服务器上调用代码，比 Lambda 或 Google 的设置更容易
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - 由 Microsoft - 与 Azure 云上的 Lambda 相同的前提
-- [IronWorkers](https://www.iron.io/platform/ironworker/) - Iron.io - 在具有无限规模和简单定价的多语言容器化环境中运行代码
+- [IronWorkers](https://www.iron.io/platform/ironworker/) - Iron.io - 在多语言容器化环境中运行代码，具有无限规模和简单定价
 - [IronFunctions](http://open.iron.io/) - Iron.io - IronFunctions 是一个开源无服务器计算平台，适用于任何云 - 私有、公共或混合.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - 他们的 BlueMix 托管平台的一部分和开源，很好地与他们的 Watson AI 生态系统联系在一起
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/)  - 以您选择的语言编写函数即服务，并将它们部署到全球数据中心网络. 所有网络，包括智能路由和负载平衡，都由 StackPath 通过私有骨干网进行管理.
@@ -99,7 +99,7 @@
 - [Formspree](http://formspree.io/) - 从静态网站上的表单接收电子邮件.
 - [elFormo](https://www.elformo.com/) - 通过电子邮件进行简单的表单处理和响应检索.
 - [Flipmail](http://flipmail.co/) - 通过电子邮件进行简单的表单处理和响应检索.
-- [MailThis](http://mailthis.to/) - 通过带有可选附件的电子邮件提交简单的表单.
+- [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - 带有可选文件附件、电子邮件通知和在线提交查看的简单表格.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - 免费表单提交服务通过电子邮件发送您的回复，同时将您的电子邮件地址保密并且是开源的.
 - [99 Inbound](https://www.99inbound.com) - 使用电子邮件/Slack 通知和第三方应用程序集成（例如 MailChimp）形成端点服务
@@ -112,7 +112,7 @@
 - [Formcake](https://formcake.com) - 为开发人员构建的表单后端：Zapier 集成、简单的端点 API、无限的表单.
 - [Google Forms](https://www.google.com/forms/about/) - 将结果保存到 Google 表格中，并在提交时通过电子邮件发送给您.
 - [FormKeep](https://formkeep.com/)  - 付费 - 在漂亮的 Web 界面中查看表单提交. 它具有垃圾邮件过滤功能，并与 Gmail、Trello 和 Basecamp 等网络挂钩集成.
-- [123 Contact Form](http://www.123contactform.com/)  - 连接到其他在线服务，例如 MailChimp、Salesforce 和 Google Drive. 它还与支付处理器集成，并包括安全性和分析.
+- [123 Contact Form](http://www.123contactform.com/)  - 连接到其他在线服务，例如 MailChimp、Salesforce 和 Google Drive. 它还与支付处理器集成并包括安全性和分析.
 - [FormAssembly](http://www.formassembly.com/) - 允许您构建可以包含复杂分支逻辑和多个页面的任何类型的表单.
 - [FormSite](https://www.formsite.com/) - 带有付款和表单管理功能的表单生成器.
 - [FormStack](https://www.formstack.com/) - 带有 A/B 测试、部分提交、分析和集成的表单.
@@ -127,6 +127,7 @@
 - [Formester](https://www.formester.com) - 表单和电子邮件营销（潜在客户收集、电子邮件活动和时事通讯）与集成.
 - [StaticKit](https://statickit.com) - 静态站点的现代表单，原生支持 React.
 - [SheetDB](https://sheetdb.io/) - 将 Google 电子表格转换为 JSON API.
+- [reCAPTCHAme](https://recaptchame.com/)  - reCAPTCHA 和 hCAPTCHA 令牌验证服务. 将您的表单发布到 reCAPTCHAme 以避免收到垃圾邮件. 专为静态网站而设计，无需服务器端编码.
 
 #### Provided by the Host
 
@@ -134,7 +135,7 @@
 
 ### Live Chat
 
-- [jivochat](https://www.jivochat.com/) - JivoSite 是专为提高在线销售额而设计的专业网站实时聊天软件.
+- [jivochat](https://www.jivochat.com/) - JivoSite 是专为增加您的在线销售额而设计的专业网站实时聊天.
 - [LiveChat](https://www.livechatinc.com/) - 在您的网站上实时聊天.
 - [Olark](https://www.olark.com/)  - 在您的网站上实时聊天. 您还可以查看谁在您的网站上以及他们在做什么.
 - [SnapEngage](https://snapengage.com/) - 具有集成和自定义样式的实时聊天.
@@ -195,9 +196,9 @@ Self-hosted:
 - [elasticlunr](http://elasticlunr.com/docs/index.html) - 基于Lunr.js的浏览器搜索和离线搜索用JavaScript开发的轻量级全文搜索引擎
 - [tinysearch](https://github.com/tinysearch/tinysearch) - 使用 Rust 和 Wasm 构建的静态网站的小型全文搜索引擎
 - [js-search](https://www.npmjs.com/package/js-search) - 客户端搜索 JavaScript 和 JSON 对象，兼容 ES5，不需要 jQuery 或任何其他第三方库
-- [search-index](https://github.com/fergiemcdowall/search-index) - 用于浏览器和 Node.js 的持久性、网络弹性、全文搜索库
+- [search-index](https://github.com/fergiemcdowall/search-index) - 用于浏览器和 Node.js 的持久、网络弹性、全文搜索库
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - JavaScript 中微小而快速的模糊搜索
-- [fuzzy](https://github.com/mattyork/fuzzy) - 浏览器和节点的模糊搜索/过滤器
+- [fuzzy](https://github.com/mattyork/fuzzy) - 浏览器和节点的模糊搜索/过滤
 - [fullproof](https://reyesr.github.io/fullproof/) - 在浏览器中提供高质量全文搜索的 Javascript 库
 - [Jets.js](https://jets.js.org/) - 原生 CSS 搜索引擎
 
@@ -214,7 +215,7 @@ Self-hosted:
 
 ## Authentication
 
-- [Uthentic](https://uthentic.net) - 用 2 行代码实现静态站点的无服务器、无密码登录.
+- [Uthentic](https://uthentic.net) - 2 行代码中的静态站点的无服务器、无密码登录.
 
 ## Other
 

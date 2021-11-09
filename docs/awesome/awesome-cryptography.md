@@ -42,7 +42,7 @@
 
 - [MD5](https://en.wikipedia.org/wiki/MD5)  - 广泛使用的散列函数产生 128 位散列值.  MD5 最初设计用作加密哈希函数，但已发现它存在大量漏洞. 它仍然可以用作校验和来验证数据完整性，但只能用于防止意外损坏.
 - [SHA1](https://en.wikipedia.org/wiki/SHA-1)  - 由 NSA 设计的加密哈希函数.  SHA-1 产生一个 160 位的哈希值，称为消息摘要.  SHA-1 不再被视为对抗资金充足的对手的安全.
-- [SHA2](https://en.wikipedia.org/wiki/SHA-2)  - 由 NSA 设计的一组哈希函数.  SHA-256 和 SHA-512 是分别用 32 位和 64 位字计算的新颖散列函数. 它们使用不同的移位量和附加常数，但它们的结构实际上是相同的，仅在轮数上有所不同.
+- [SHA2](https://en.wikipedia.org/wiki/SHA-2)  - 由 NSA 设计的一组哈希函数.  SHA-256 和 SHA-512 是分别用 32 位和 64 位字计算的新颖散列函数. 它们使用不同的移位量和加法常数，但它们的结构实际上是相同的，仅在轮数上有所不同.
 
 ### Articles
 
@@ -135,7 +135,7 @@
 
 ### C++
 
-- [Botan](https://botan.randombit.net/) - 用‘C++11’编写的密码学库.
+- [Botan](https://botan.randombit.net/) - 用“C++11”编写的密码学库.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library 是一个免费的 C++ 加密方案类库.
 - [HElib](https://github.com/shaih/HElib) - 实现同态加密 (HE) 的软件库.
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - 低级加密库.
@@ -178,7 +178,7 @@
 - [elixir-rsa](https://github.com/trapped/elixir-rsa) - 用于 Elixir 的 `:public_key` 加密包装器.
 - [elixir_tea](https://github.com/keichan34/elixir_tea) - 在 Elixir 中实现 TEA.
 - [ex_crypto](https://github.com/ntrepid8/ex_crypto)  - Erlang `:crypto` 和 `:public_key` 模块的 Elixir 包装器. 为许多加密函数提供合理的默认值，使其更易于使用.
-- [exgpg](https://github.com/rozap/exgpg) - 使用 Elixir 的 gpg.
+- [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 - [pot](https://github.com/yuce/pot) - Erlang 库，用于生成与 Google 身份验证器兼容的一次性密码.
 - [siphash-elixir](https://github.com/zackehh/siphash-elixir) - SipHash 哈希系列的 Elixir 实现.
 
@@ -217,7 +217,7 @@
 - [cifre](https://github.com/openpeer/cifre) - 用于现代客户端 JavaScript 的快速加密工具包.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - 谷歌的通用 JavaScript 库.
 - [cryptico](https://github.com/wwwtyro/cryptico) - 使用 RSA 和 AES for JavaScript 的易于使用的加密系统.
-- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+- [crypto-js](https://github.com/brix/crypto-js) - 加密标准的 JavaScript 库.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 Node.js 提供标准和安全的加密算法.
 - [forge](https://github.com/digitalbazaar/forge) - TLS 在 JavaScript 中的本机实现以及用于编写基于加密和网络密集型 web 应用程序的工具.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松地向 Node.js 应用程序添加强大的数据控制.
@@ -269,7 +269,7 @@ algorithm.
 ### Julia
 
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - 包装 OpenSSL 的库，但也有纯 Julia 实现供参考.
-- [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - mbed TLS 和密码学 C 库的包装.
+- [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - 围绕 mbed TLS 和密码学 C 库的包装.
 - [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - 朱莉娅包装荨麻加密散列/
 提供 MD5、SHA1、SHA2 散列和 HMAC 功能以及 AES 加密/解密的加密库.
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) - 高性能，100% 原生 julia SHA1，SHA2-{224,256,384,512} 实现.
@@ -325,6 +325,7 @@ algorithm.
 
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
 - [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 加密库，它很难被误用，符合人体工程学，并且性能良好.
+- [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互认证的 Rust 库.
 - [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
 - [proteus](https://github.com/wireapp/proteus) - Axolotl 协议实现，没有标题键，在 Rust 中.
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - 一个纯 Rust 库，它实现了用于构建多跳代理重新加密方案的加密原语，称为转换加密.

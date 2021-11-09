@@ -15,9 +15,9 @@
 ## Projects
 ### API Management
 *API 管理解决方案.*
-- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 在 Mulesoft 的单一平台中结合 API 管理和集成功能.
 - [Akana API Management Platform](https://www.akana.com/products/api-platform)  - 加速数字化转型. 管理完整的 API 生命周期. 跨多个云部署. 并确保合规.
-- [Amazon API Management](https://aws.amazon.com/api-gateway/api-management/) - API management strategies allow you to monitor and manage APIs in a secure and scalable way.
+- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 在 Mulesoft 的单一平台中结合 API 管理和集成功能.
+- [Amazon API Management](https://aws.amazon.com/api-gateway/api-management/) - API 管理策略允许您以安全且可扩展的方式监控和管理 API.
 - [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台.
 - [Apigee](https://cloud.google.com/apigee) - 来自 Google 的 API 管理解决方案.
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - 适用于所有环境中 API 的混合多云管理平台.
@@ -43,6 +43,7 @@
 
 ### API Gateway
 *API 网关.*
+- [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - Kubernetes 原生 API 网关.
 - [Apache APISIX](https://apisix.apache.org) - 动态、实时、高性能的 API 网关.
 - [Gloo Edge](https://www.solo.io/products/gloo-edge/) - 基于 Envoy 代理的 API 网关.
 - [Goku API Gateway](https://github.com/eolinker/goku) - 基于Golang的微服务网关，实现高性能动态路由、服务编排、多租户管理、API访问控制等.
@@ -105,12 +106,12 @@
 - [ArcESB](https://www.arcesb.com/integration/) - 跨应用程序同步数据，与合作伙伴无缝集成，或使数据可公开访问.
 - [IBM App Connect](https://www.ibm.com/cloud/app-connect)  - 将应用程序连接在一起，无论它们支持何种消息格式或协议. 以前称为 IBM 集成总线.
 - [NServiceBus](https://particular.net/nservicebus) - .NET 对开发人员最友好的服务总线.
-- [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - 通过连接、虚拟化和管理服务和应用程序之间的交互，将复杂而脆弱的架构转变为敏捷的集成网络.
+- [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Transforms complex and brittle architectures into agile integration networks by connecting, virtualizing, and managing interactions between services and applications.
 - [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - 使系统开发人员能够设置和管理服务，并将它们编排成复合应用程序和业务流程.
 - [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) - 分布式云原生集成平台.
 - [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - 更快地集成任何东西.
 - [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - 实施混合集成的企业模式.
-- [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - 唯一支持零复制代理的 ESB，利用直接内存访问 (DMA) 和发送文件系统调用以及非阻塞 IO 来实现极端性能水平.
+- [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - 唯一支持零复制代理的 ESB，利用直接内存访问 (DMA) 和发送文件系统调用以及非阻塞 IO 来实现极高的性能水平.
 - [WSO2 Enterprise Integrator](https://wso2.com/integration/) - 一个以 API 为中心、云原生的分布式集成平台.
 
 ### ETL
@@ -206,7 +207,7 @@
 - [Automation Anywhere](https://www.automationanywhere.com/) - 智能自动化生态系统.
 - [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - 智能自动化 - 业务开发和无代码自动化 RPA 平台.
 - [UiPath](https://www.uipath.com/product) - 通常由人执行的自动化重复数字任务.
-- [WorkFusion](https://www.workfusion.com/platform/) - Automation Platform for the Enterprise.
+- [WorkFusion](https://www.workfusion.com/platform/) - 企业自动化平台.
 
 ### Self-Service Integration
 *任何自助服务和公民集成工具.*
@@ -284,8 +285,8 @@
 - [Invalid Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html) - 消息接收者如何优雅地处理接收毫无意义的消息？
 - [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) - 通过消息通道连接的两个应用程序如何交换一条信息？
 - [Message Dispatcher](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageDispatcher.html) - 单个通道上的多个消费者如何协调他们的消息处理？
-- [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示何时应将消息视为陈旧消息，从而不应对其进行处理？
-- [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - 使用不同数据格式的系统如何使用消息传递相互通信？  
+- [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示何时应将消息视为过时并因此不应处理？
+- [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - How can systems using different data formats communicate with each other using messaging?  
 - [Message Broker](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html) - 如何将消息的目的地与发送方分离并保持对消息流的中央控制？
 - [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么样的架构可以让单独的应用程序协同工作，但以解耦的方式使应用程序可以轻松添加或删除，而不会影响其他应用程序？  
 - [Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageChannel.html) - 一个应用程序如何使用消息传递与另一个应用程序通信？
@@ -308,7 +309,7 @@
 - [Request-Reply](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RequestReply.html) - 当应用程序发送消息时，它如何从接收者那里得到响应？
 - [Resequencer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Resequencer.html) - 我们如何才能将相关但无序的消息流恢复到正确的顺序？
 - [Return Address](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ReturnAddress.html) - 回复者如何知道将回复发送到哪里？
-- [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) - 当设计时不知道步骤顺序并且可能因每条消息而异时，我们如何通过一系列处理步骤连续路由消息？  
+- [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) - 当步骤序列在设计时未知并且可能因每条消息而异时，我们如何通过一系列处理步骤连续路由消息？  
 - [Scatter-Gather](https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html) - 当一条消息需要发送给多个收件人时，您如何维护整个消息流，每个收件人都可能发送回复？  
 - [Selective Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html) - 消息消费者如何选择它希望接收的消息？  
 - [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html) - 应用程序如何设计通过各种消息传递技术和非消息传递技术调用的服务？
