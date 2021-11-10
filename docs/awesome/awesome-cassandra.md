@@ -33,7 +33,7 @@
 
 <!-- double link - [Cassandra](http://cassandra.apache.org/)  - Cassandra 最初的歹徒当然是 Cassandra. 社区支持.  --&gt;
 - [DataStax Enterprise](https://dtsx.io/3DkP5sN) - Cassandra 使用最广泛的商业发行版，与 Apache Spark（用于 SparkSQL、分析）、Apache Solr（用于二级索引）、存储在 Cassandra 中的基于 Apache TinkerPop 的 Graph 和 OpsCenter 集成.
-- [DDAC/Luna](https://luna.datastax.com/)  - Cassandra 的 Datastax Distribution，一个生产就绪的发行版，带有 Datastax 支持的批量加载器.  DDAC 现在已弃用，但 Datastax 仍通过其新的 Luna 服务支持 Cassandra.
+- [DDAC/Luna](https://luna.datastax.com/) - Datastax Distribution of Cassandra, a production ready distribution with a bulk loader supported by Datastax. DDAC is Deprecated now, but Datastax is still supporting Cassandra with it's new Luna Service.
 <!-- !double-link - [Elassandra](http://www.elassandra.io/)  - Elassandra = Elasticsearch 作为 Cassandra 二级索引.  --&gt;
 
 #### Cassandra Compliant Databases on C++
@@ -44,10 +44,10 @@
 #### Cassandra as a Service / Managed Cassandra Based on Open Source Cassandra
 
 - [DataStax Astra](https://dtsx.io/38htEun) - DataStax Astra Cassandra 即服务，在 AWS 和 GCP 上可用的 Kubernetes 运营商 Cassandra 上运行.
-- [IBM Cloud Databases for Datastax](https://www.ibm.com/cloud/databases-for-datastax) - 适用于 Datastax Enterprise 的 IBM Cloud Managed Service.
+- [IBM Cloud Databases for DataStax](https://www.ibm.com/cloud/databases-for-datastax) - 适用于 DataStax Enterprise 的 IBM Cloud Managed Service.
 - [Instaclustr Managed Cassandra as a Service](https://www.instaclustr.com/solutions/managed-apache-cassandra/) - Instaclustr 为 AWS、Azure、GCP 和 IBM Cloud 上的 Cassandra® 提供完全托管和 SOC 2 认证的托管和托管服务.
 - [Aiven for Cassandra](https://aiven.io/cassandra/)  - Aiven for Cassandra 是一个托管和托管的分布式 NoSQL 数据库，提供可扩展性、高可用性和出色的容错能力.  Cassandra 即服务可在 Google Cloud Platform、Amazon Web Services、Microsoft Azure、DigitalOcean 和 UpCloud 上使用.
-- [Microsoft Azure Managed Instance for Cassandra](https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/)  - 适用于 Cassandra 的 Azure 托管实例为托管开源 Cassandra 数据中心提供自动部署和缩放操作. 它可以加速混合场景并减少持续维护.
+- [Microsoft Azure Managed Instance for Cassandra](https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/)  - 适用于 Cassandra 的 Azure 托管实例为托管开源 Cassandra 数据中心提供自动部署和缩放操作. 它加速混合场景并减少持续维护.
 
 #### Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -72,7 +72,7 @@
 - [Cassandra Data Copy Tool](https://github.com/wildengineer/cassandra-data-copy-tool) - 将数据从一个 cassandra 表复制到另一个的 Java 工具.
 - [Spring Data Cassandra Examples](https://github.com/jxblum/spring-data-cassandra-examples) - Spring Data Cassandra 项目的示例.
 - [Introduction to Spark & Cassandra](http://rustyrazorblade.com/post/2015/2015-01-02-intro-to-spark-and-cassandra/) - 关于设置一个非常简单的 Spark 作业的博客文章，该作业为 Cassandra 执行数据迁移.
-- [From Cassandra to S3, with Spark](https://objectpartners.com/2016/11/30/from-cassandra-to-s3-with-spark/) - 博客文章展示了如何将 Spark 连接到 Cassandra，分析来自 Cassandra 的事件数据，并将分析结果存储到 S3，使其可用于报告或进一步分析.
+- [From Cassandra to S3, with Spark](https://objectpartners.com/2016/11/30/from-cassandra-to-s3-with-spark/) - 博客文章展示了如何将 Spark 连接到 Cassandra、分析来自 Cassandra 的事件数据以及将分析结果存储到 S3 中，使其可用于报告或进一步分析.
 - [Import CSV files with spark](https://github.com/markthebault/importCSVSparkCassandra) - 如何使用 Spark 将文件从 S3 导入 cassandra.
 - [Top 5 reasons to use the Cassandra Database](https://towardsdatascience.com/top-5-reasons-to-use-the-apache-cassandra-database-d541c6448557) - 您想考虑 Cassandra 的理由很少.
 - [Cloud DevOps with Cassandra](http://cloudurable.com/blog/aws-ansible-packer-ssh-for-devops/index.html) - 使用 Packer、Ansible/SSH 和 AWS 命令​​行工具在 AWS 中创建和 DBA 管理 EC2 Cassandra 实例.
@@ -212,7 +212,7 @@
 - [Cassandra Node Diagnostics Tools](https://github.com/smartcat-labs/cassandra-diagnostics) - Cassandra 的监控和审计电源套件.
 - [TWCS part 1 - how does it work and when should you use it?](http://thelastpickle.com/blog/2016/12/08/TWCS-part1.html) - 最适合过期的时间序列数据，时间窗口压缩策略带有一些警告.
 - [Performing User Defined Compactions in Cassandra](http://thelastpickle.com/blog/2016/10/18/user-defined-compaction.html) - 记录我们告诉 Cassandra 明确为一个或多个表创建压缩任务的过程.
-- [Graphing cassandra-stress](http://thelastpickle.com/blog/2015/10/23/cassandra-stress-and-graphs.html) - 使用 cassandra-stress 工具对架构和配置更改进行基准测试，然后再将此类更改推送到生产环境中，这是每个 Cassandra 开发人员都应该知道并定期练习的事情之一.
+- [Graphing cassandra-stress](http://thelastpickle.com/blog/2015/10/23/cassandra-stress-and-graphs.html) - 使用 cassandra-stress 工具对架构和配置更改进行基准测试，然后将此类更改推送到生产环境中，这是每个 Cassandra 开发人员都应该知道并定期练习的事情之一.
 - [Modeling real life workloads with cassandra-stress is hard](http://thelastpickle.com/blog/2017/02/08/Modeling-real-life-workloads-with-cassandra-stress.html) - 博客文章详细介绍了在模拟真实工作负载时使用 cassandra-stress 的注意事项.
 - [Gatling DSE Stress](https://github.com/datastax/gatling-dse-stress) - 压力测试 DSE 的工具.
 - [Gatling DSE Plugin for Gatling Load injector](https://github.com/datastax/gatling-dse-plugin) - Plugin for the Gatling load injector. It adds CQL support in Gatling for Datastax Enterprise. It allows for benchmarking Datastax Enterprise features, including DSE Graph Fluent API.
@@ -334,7 +334,7 @@
 
 - [Stargate](https://github.com/stargate/stargate) - Stargate 是一个开源数据网关，为 Cassandra 提供 REST、GraphQL 和无模式 JSON 接口.
 - [Meet Stargate, DataStax's GraphQL for databases. First stop - Cassandra](https://www.zdnet.com/article/meet-stargate-datastaxs-graphql-for-databases-first-stop-cassandra/) - 星际之门的介绍和高级概述.
-- [Apache/Usergrid](https://github.com/apache/usergrid) - Cassandra 上的开源后端即服务 (BaaS)、Elasticsearch 以及适用于 iOS/Android/.NET/Java 的客户端 SDK.
+- [Apache/Usergrid](https://github.com/apache/usergrid) - Cassandra、Elasticsearch 上的开源后端即服务 (BaaS)，带有适用于 iOS/Android/.NET/Java 的客户端 SDK.
 - [Building Your Own BaaS With Apache Usergrid &amp; Docker: Lessons Learned At Scale](http://events17.linuxfoundation.org/sites/events/files/slides/Building%20Your%20Own%20BaaS%20With%20Apache%20Usergrid%20%26%20Docker.pdf) - Apache UserGrid 的介绍性介绍.
 - [Scalar-labs/Scalardl](https://github.com/scalar-labs/scalardl) - 防篡改和可扩展的分布式账本平台.
 - [Wikimedia/Restbase](https://github.com/wikimedia/restbase) - 带有 REST API 和调度程序的分布式存储，用于后端服务.
@@ -401,7 +401,7 @@
 - [Datadog](https://www.datadoghq.com/blog/monitoring-cassandra-with-datadog/) - 允许对 Cassandra 节点和集群进行监控和度量的第三方工具.
 - [tlp-cluster](http://thelastpickle.com/tlp-cluster/)  - Cassandra 配置工具，专为希望对 Cassandra 进行基准测试和测试的开发人员而设计. 它有助于在 AWS 上构建和启动实例.
 - [Helenos](https://github.com/tomekkup/helenos) - 免费的基于 Web 的环境，使用 Cassandra 数据库简化了数据探索和模式管理.
-- [ValuStor](https://github.com/Sensaphone/ValuStor) - ValuStor is a key-value pair database solution.
+- [ValuStor](https://github.com/Sensaphone/ValuStor) - ValuStor 是一个键值对数据库解决方案.
 - [Cassandra-Migration](https://github.com/hhandoko/cassandra-migration) - Cassandra / DataStax Enterprise 数据库迁移（架构演化）库.
 - [JanuesGraph-Utils](https://github.com/IBM/janusgraph-utils) - 开发图形数据库应用程序的工具.
 - [Scylla-Migrator](https://github.com/scylladb/scylla-migrator) - 使用 Spark 将数据提取迁移到 Scylla，通常来自 Cassandra.
@@ -418,7 +418,7 @@
 <!-- double-link - [Express-Cassandra](https://github.com/masumsoft/express-cassandra)  - Cassandra ORM/ODM/OGM for Node.js，支持 Elassandra 和 JanusGraph.  --&gt;
 <!-- double-link - [Instaclustr Esop](https://github.com/instaclustr/esop)  - 用于将节点备份和恢复到 GCP、Azure、S3、Ceph 等的瑞士刀.也支持提交日志的备份和恢复.  Esop 嵌入在 [Instaclustr Icarus](https://github.com/instaclustr/icarus)  sidecar，因此您可以远程备份和恢复您的集群，并且不受任何中断的影响.  --&gt;
 <!-- double-link - [Instaclustr LDAP Authenticator](https://github.com/instaclustr/cassandra-ldap)  - 用于 Cassandra 的 LDAP 身份验证器.  --&gt;
-<!-- double-link - [Hackolade: Datamodeling for noSQL Databases](https://hackolade.com/) - 虽然不是专门用于 Cassandra，但 Hackolade 是 noSQL 数据库（包括 Cassandra、Scylla、Cosmos 等）的通用数据建模工具. --&gt;
+<!-- double-link - [Hackolade: Datamodeling for noSQL Databases](https://hackolade.com/) - 虽然不是专门用于 Cassandra，但 Hackolade 是 noSQL 数据库的通用数据建模工具，包括 Cassandra、Scylla、Cosmos 等 --&gt;
 
 ### Open Source Applications
 

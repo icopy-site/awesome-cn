@@ -26,7 +26,7 @@
 	- 图像处理
 	- 最终用户应用程序（AppImages、Flatpaks、Snaps...）
 	- 科学
-	- 机器学习
+	- Machine Learning
 	- 其他
 		
 
@@ -193,7 +193,7 @@
 ## Lexers, Parsers, Parser Generators
 
 * [libdparse](https://github.com/dlang-community/libdparse) - AD 语言词法分析器和解析器，（可能）未来的标准 D 解析器/词法分析器.
-* [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - A lexer generator.
+* [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - 词法生成器.
 * [Mono-D's DParser](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
 * [Pegged](https://github.com/PhilippeSigaud/Pegged) - 用 D 编写的解析表达式语法 (PEG) 模块.
 * [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie 解析系统.
@@ -214,7 +214,7 @@
 * [hunt-validation](https://github.com/huntlabs/hunt-validation) - 基于hunt库的DLang数据验证库.
 
 ## Containers
-* [EMSI containers](https://github.com/dlang-community/containers) - 不使用 GC 的容器 
+* [EMSI containers](https://github.com/dlang-community/containers) -  Containers that do not use the GC 
 - [memutils](https://github.com/etcimon/memutils) - D 对象的开销分配器、分配器感知容器和生命周期管理
 - [dlib.container](https://github.com/gecko0307/dlib) - 通用数据结构（无 GC 动态和关联数组等）
 - [std.rcstring](https://github.com/burner/std.rcstring) - D 的内置字符串构造的引用计数字符串实现
@@ -341,7 +341,7 @@
 
 ## Game Bindings
 
-*绑定到游戏开发相关的 C 库.*
+*Bindings to game development related C libraries.*
 
 * BindBC 库 - `-betterC` 兼容，`@nogc` 绑定使用 [bindbc-loader](https://github.com/BindBC/bindbc-loader):
 	* OpenGL - [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)
@@ -394,7 +394,7 @@
 * [DGame](https://github.com/Dgame/Dgame)  - D 编程语言的 2D 框架. 看<http://dgame-dev.de/> .
 * [gfm](https://github.com/d-gamedev-team/gfm)  -D 游戏开发工具包. 看<http://d-gamedev-team.github.io/gfm/> .
 * [Dash](https://github.com/Circular-Studios/Dash)  - 用 D 编写的免费和开放的 3D 游戏引擎.请参阅<https://circularstudios.com/dash/> .
-* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
+* [DSFML](https://github.com/Jebbs/DSFML)  - SFML 的静态绑定，以对 D 有意义的方式进行.参见<http://dsfml.com/> .
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - 现代游戏编程库 Allegro 5 的 D 绑定/包装器.
 * [Voxelman](https://github.com/MrSmith33/voxelman) - 用D语言编写的基于插件的客户端-服务器体素游戏引擎
 * [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp 是一个用 D 编写的类似 XNA 的框架.
@@ -440,7 +440,7 @@
 ## Scientific
 *科学编程*
 
-* [scid](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+* [scid](https://github.com/DlangScience/scid) - D 编程语言的科学库
 * [dstats](https://github.com/DlangScience/dstats) - D 的统计库. 
 * [mir](https://github.com/libmir/mir) - 一些 mir 包的沙箱：稀疏张量、霍夫曼等.
 * [mir-algorithm](https://github.com/libmir/mir) - N 维数组（矩阵、张量）、算法、通用库.
@@ -473,6 +473,11 @@
 *自己托管博客*
 
 - [mood](https://github.com/mihails-strasuns/mood) - 简单的基于 vibe.d 的博客引擎
+
+## Dependency Injection
+*应用控制反转*
+
+- [Poodinis](https://github.com/mbierlee/poodinis) - 支持自动装配的 D 依赖注入框架.
 
 ## Other Awesome Lists
 其他非常棒的列表可以在 [awesome-awesome](https://github.com/emijrp/awesome-awesome) 和  [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness) 项目.
