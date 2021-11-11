@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-此页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+该页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -55,7 +55,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩文/韩文 [韩文]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
++ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)
@@ -129,6 +129,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fi.md)
 + [French / français](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fr.md)
++ [Hebrew / עברית](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-pl.md)

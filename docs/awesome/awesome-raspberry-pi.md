@@ -143,6 +143,7 @@
 - [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) - 车库门开启器使用 [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) 应用程序来控制车库门.
 - [Gaussmeter](https://github.com/gaussmeter/gaussmeter) - 利用 Raspberry Pi Zero W、WS2812B Leds 和 Tesla API 来收集和显示 Tesla 状态的项目. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - 使用 7 英寸 Raspberry Pi 显示器模仿哈利波特中的预言家日报的显示器.
+- [Haven](https://github.com/havenweb/haven) - 在您的 Rasperry Pi 上托管一个私人博客，而不是使用 Facebook.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - 由 Raspberry Pi 驱动的助听器原型. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - 将您的 Raspberry Pi 转换为 Internet 天文钟.
 - [Jasper](https://jasperproject.github.io/) - 灵活的开源个人助理.
@@ -211,8 +212,8 @@
 - **家庭远程控制** - 控制鼠标/键盘、音量、管理下载/上传文件、自定义命令、终端、将来执行任务、控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi 检查** - 检查 Pi 统计信息 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的摄像头查看图像并从不同传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
-- **Raspicast** - 从您的 android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放播放列表（m3u、pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的相机查看图像并从不同传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
+- **Raspicast** - 从您的 android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、从 Raspberry Pi 上的播放列表（m3u、pls）播放流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 - **Termius** - 最干净的 Pi SSH 客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)

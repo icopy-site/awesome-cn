@@ -52,6 +52,7 @@
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - 经典的桨游戏通过 V 的力量重获生机.
 - [minesweeper](https://github.com/ali-furkan/minesweeper-v) - 一个用 vlang 编写的简单扫雷游戏.
 - [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的学习演示（已存档）
+- [Kurarin](https://github.com/FireRedz/kurarin)  - 奥苏！ 用 V 制作的 beatmap 可视化器. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 
 ### Command-line
 
@@ -78,10 +79,11 @@
 ### Command line interface (CLI) / Terminal / Shell
 
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！ 
-- [lol](https://github.com/0xLeif/lol) - lolcat 的 V 版本（文本/字符彩虹器）.
+- [lol](https://github.com/0xLeif/lol) - lolcat 的 V 版（文本/字符彩虹器）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
 - [vargs](https://github.com/nedpals/vargs)  - 用于从类似 argv 的数组中解析参数的 V 库.  （存档）
+- [vesseract](https://github.com/barrack-obama/vesseract) - Tesseract-OCR（光学字符识别）的 V 包装器.
 
 ### Text processing
 
@@ -103,6 +105,7 @@
 
 ### Game development
 
+- [engine](https://github.com/LouisSchmieder/engine) - V 中的 WIP Vulkan.
 - [raylib.v](https://github.com/irishgreencitrus/raylib.v) - 更新了 V 绑定 [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
 - [vraylib](https://github.com/MajorHard/vraylib) - C 游戏开发框架 raylib 的 V 包装器（绑定）.
 
@@ -135,6 +138,10 @@
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
 - [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供本机 V-lang 支持.
 
+### Networking
+
+- [vmq](https://github.com/jordan-bonecutter/vmq) - V 包装器 [ZMQ](https://zeromq.org/) （又名 ZeroMQ、ØMQ、0MQ：高性能异步消息库）
+
 ### Automation
 
 - [vrobot](https://github.com/eioo/vrobot) - V 的桌面自动化.仅支持 Windows.
@@ -155,6 +162,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
+- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
 
 ### Eventing
 
@@ -163,7 +171,7 @@
 ### User Interface toolkits
 
 - [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
-- [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
+- [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装器.
 - [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 
@@ -171,6 +179,7 @@
 
 - [vsl](https://github.com/vlang/vsl) - 具有多种功能的纯 V 科学库.
 - [vtl](https://github.com/vlang/vtl) - 支持 n 维数据结构的数值计算库，由 LAPACKE 和 OpenBLAS 支持.
+- [vplot](https://github.com/erdetn/vplot) - GNU Plot 的 V 包装器（`gnuplot_i`）.
 
 ### Utility
 
@@ -183,7 +192,7 @@
 ### Syntax highlighting
 
 - [v-vim](https://github.com/ollykel/v-vim) - 支持 Vim 中的 V 语法高亮显示.
-- [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的高质量语法突出显示.
+- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
 - [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - Visual Studio Code 的 V 语言扩展.
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V 语法高亮显示 [Kate](https://kate-editor.org/).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V 语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
@@ -236,3 +245,7 @@
 
 - [r/vlang](https://www.reddit.com/r/vlang)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)
+
+### Operating Systems & OS Development Examples
+
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - 使用 V 编写一个非常简单的 Linux 内核模块的演示和测试.
