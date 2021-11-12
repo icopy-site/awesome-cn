@@ -200,6 +200,7 @@
 - 任何堆栈
   - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - 使用 Elasticsearch、Logstash 和 Kibana 来可视化 JMeter 测试结果.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - 使用 ElasticSearch 后端侦听器和 Grafana/Kibana 实时监控结果.
+  - [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) - 实时或在测试结束后使用 Docker 和 Logstash 解析 JTL 结果，并将数据发送到 Elasticsearch 或 InfluxDb，以获得漂亮的仪表板并比较不同的测试.
 - 普罗米修斯
   - [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) - Apache JMeter 的 Prometheus 侦听器，可在 HTTP API 中公开结果.
   - [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) - 用于 Prometheus 指标导出的 Apache JMeter 后端侦听器实现.

@@ -15,7 +15,7 @@
 
 此列表汇总了与人文技术主题直接相关的开源项目. 请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的 PR 之前.
 
- &gt; **重要**：以下资源由此列表的贡献者真诚收集，希望它们对您有用. 但根据 [License](https://github.com/humanetech-community/awesome-humane-tech/blob/master/LICENSE) 我们不能保证所引用软件的质量或适用性. 此列表不具有权威性，仅提供信息. 因此，请正确告知自己，如果您遇到不适当或错误的内容，请在我们 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 所以我们可以采取适当的行动. 谢谢！
+ &gt; **重要**：以下资源由此列表的贡献者真诚收集，希望它们对您有用. 但根据 [License](https://github.com/humanetech-community/awesome-humane-tech/blob/master/LICENSE) 我们不能保证所引用软件的质量或适用性. 此列表不具有权威性，仅提供信息. 因此，请正确告知自己，如果您遇到不适当或错误的内容，请在我们 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
 
 如果您的项目在此列表中，那么您有权自豪地佩戴我们的人文科技徽章. 看 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
@@ -66,7 +66,7 @@
 ## Privacy
 
 - [Privacy Guides](https://privacyguides.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacyguides/privacyguides.org) - 保护您的隐私免受全球大规模监视的知识和工具.
-- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
+- [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - 尊重隐私的服务和软件的精选列表.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - 没有谷歌集成的 Chromium，增强隐私、控制、透明度
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) - Signal 是一个消息应用程序，用于与朋友进行简单的私人通信.
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - 浏览器扩展有助于识别哪些敏感信息 (PII) 被共享/泄露给第三方.
@@ -110,7 +110,7 @@
 - [Exodify](https://github.com/FacettsOpen/exodify)  - 想知道应用程序是否正在跟踪您？ 现在您可以直接在 Play 商店中看到它.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) - 将您的在线生活分成不同颜色的标签，以保护隐私.
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) - 将 Facebook 活动与您的其他网络活动隔离，以防止跟踪.
-- [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) - Isolates your Google activity from the rest of your web activity, to prevent tracking.
+- [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) - 将您的 Google 活动与其他网络活动隔离，以防止跟踪.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - 从 URL 查询字符串中去除 Google Analytics (UTM) 令牌的浏览器扩展.
 - [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) - 用于阻止超声波跟踪应用程序的音频防火墙.
 - [Blokada](https://blokada.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/blokadaorg/blokada) - 适用于所有应用且不需要 root 的适用于 Android 的紧凑、快速的广告拦截器.
@@ -196,7 +196,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/twitter-demetricator) - 删除 Twitter 上所有指标的 Web 浏览器扩展.
 - [News Feed Eradicator](https://west.io/news-feed-eradicator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jordwest/news-feed-eradicator) - 一个浏览器扩展，用一个不错的报价代替你的 Facebook 新闻提要.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - 通过在社交网络之间转换数据来打破孤岛的社交网络翻译器.
-- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络丢失的个人创造力的社交网络.
+- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络失去的个人创造力的社交网络.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium 脚本可删除您所有的 Facebook 墙贴.
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新 Twitter UI 的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个专注于更好对话的开源评论平台.
@@ -218,6 +218,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) - 自动将 YouTube 频道镜像到 PeerTube 频道的机器人.
 - [Watomatic](https://github.com/adeekshith/watomatic) - 自动回复 WhatsApp 以便您可以停止使用它.
 - [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/~edwardloveall/scribe) - Medium.com 尊重隐私和最小的替代前端.
+- [Piped](https://piped.kavin.rocks) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TeamPiped/Piped) - 另一种隐私友好的 YouTube 前端，其设计效率很高.
 
 ## Translation
 
@@ -263,7 +264,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 ## Gamification
 
 - [Security Belt](https://github.com/otto-de/security-belt) - 通过游戏化提高团队 IT 安全性的框架.
-- [Habitica](https://habitica.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/HabitRPG/habitica)  - 游戏化你的生活. 激励自己去实现目标.
+- [Habitica](https://habitica.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/HabitRPG/habitica) - Gamify your life. Motivate yourself to achieve your goals.
 
 ## Health
 

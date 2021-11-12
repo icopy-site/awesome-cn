@@ -77,11 +77,12 @@
 - [DOOH Invaders](https://vimeo.com/136313614) - 世界上最大的太空侵略者克隆版在戛纳国际创意节上亮相.
 - [eBay Report](https://www.ebay-report.de/) - 来自 eBay 德国的统计数据和事实.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - 皇家歌剧院 Dumbworld 创造的互动歌剧体验.
+- [How Not To Suck At Money](https://hntsam.com/) - Invesco 关于个人理财的教育游戏.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - 慈善家庭为每个孩子举办的虚拟艺术展.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - 一款流行手机游戏的交互式 3D 广告.
 - [Pocketverse](https://pocketverse.net/) - 程序生成的恒星系统.
 - [Ride Along 2](https://vimeo.com/152996271) - 使用 WebGL 来宣传好莱坞电影的发行.
-- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
+- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - 在伦敦皮卡迪利广场举办橄榄球世界杯.
 
 ## Browser Games
 
@@ -123,7 +124,7 @@
 - [Rollem](https://rollem.io/) - 在最快的时间内引导您的仓鼠到达障碍训练场的尽头.
 - [Tank Royale](https://tankroyale.io/) - 卡通快节奏的自上而下多人射击游戏.
 - [TANX](https://tanx.io) - 在线多人坦克战游戏.
-- [Venge](https://venge.io/) - 3D 多人 FPS 射击游戏.
+- [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
 
 ## Messenger Games
 

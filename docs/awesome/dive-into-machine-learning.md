@@ -96,7 +96,7 @@
 
 在您休息之前，请收听一些播客. 
 
-一、下载 [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 星期天写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) . 你也可以开始读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm)，清晰易懂的机器学习概述. 
+一、下载 [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 周日写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) . 你也可以开始读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm)，清晰易懂的机器学习概述. 
 
 接下来，订阅更多机器学习和数据科学播客！ 这些是很棒的、省力的资源，您可以随意从中学习更多. 到 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn)，随着时间的推移聆听，有足够的空间. [By the way, don't speed up technical podcasts, that can hinder your comprehension.](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
 
@@ -196,7 +196,7 @@ For help and community in meatspace, seek out meetups. Data Science Weekly's [Bi
 	* [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * 书签供以后需要缩放时使用
 	* [The `odo` library](http://odo.readthedocs.io/) 用于在_许多_格式之间进行转换.
-	* [`dask`](https://dask.org/) ：类似 Pandas 的界面，但适用于大于内存的数据和“幕后”并行性. 非常有趣，但只有在您高级时才需要. 
+	* [`dask`](https://dask.org/) ：类似 Pandas 的接口，但适用于大于内存的数据和“幕后”并行性. 非常有趣，但只有在您高级时才需要. 
 
 ## Supplement: Cheat Sheets
 
@@ -227,7 +227,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 您可以通过研究以下资源之一来了解更多信息. 两种资源都使用 Python， [PyMC](https://github.com/pymc-devs/pymc)，和 Jupyter 笔记本.
 * **免费书，** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
- * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一种机器学习游戏，它会向您提问并猜测您正在思考的对象”，并且**解释了正在使用的贝叶斯统计技术.**
+ * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一个机器学习游戏，它会向您提问并猜测您正在思考的对象”，并且**解释了正在使用的贝叶斯统计技术.**
 
 ## Risks
 
@@ -238,7 +238,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
  &gt; 机器学习为快速构建复杂系统提供了一个非常强大的工具包. 本文认为，将这些快速的胜利视为免费的，是很危险的. 使用技术债务框架，我们注意到在应用机器学习时，在系统级别产生大量的持续维护成本非常容易. 本文的目标是强调几个机器学习特定的风险因素和设计模式，以尽可能避免或重构. 这些包括边界侵蚀、纠缠、隐藏的反馈循环、未声明的消费者、数据依赖、外部世界的变化以及各种系统级的反模式.
 
-如果您遵循本指南，则应该阅读该论文. 你也可以 [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
+如果您正在遵循本指南，则应该阅读该论文. 你也可以 [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
 - **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)，“一个精选的开源库列表，用于部署、监控、版本和扩展您的机器学习.”** 它包括一个关于 [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
  - **[“机器学习规则：[可靠] ML 工程的最佳实践”，](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** Martin Zinkevich，关于 ML 工程实践. 有一个 [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
@@ -273,7 +273,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 你怎么能想出有趣的问题？ 这是一种方法. 每个星期天， [browse datasets](https://github.com/caesar0301/awesome-public-datasets) 并写下一些问题. 另外，报名 [Data is Plural](https://tinyletter.com/data-is-plural) ，有趣的数据集通讯； 查看这些数据集，并写下问题. 保持好奇. 当一个问题激发了你的灵感时，开始研究.
 
-这个建议，做实践研究和从同行评审中学习，是基于 [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) with [Dr. Randal S. Olson](http://www.randalolson.com/) . 这是奥尔森的更多建议， [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+这个建议，做实践研究和从同行评审中学习，是基于 [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) 和 [Dr. Randal S. Olson](http://www.randalolson.com/) . 这是奥尔森的更多建议， [quoted 和 permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
  &gt; 我认为最好的建议是告诉人们总是清楚地展示他们的方法，避免过度解释他们的结果. 成为专家的一部分是知道很少有明确的答案，尤其是当您处理真实数据时.
 
@@ -283,10 +283,11 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 以下是一些您可以联系同行评审的社区：
 
-* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
+* [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
+* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
 * [Hacker News: news.ycombinator.com](https://news.ycombinator.com) . 您可能想以“Show HN”的形式提交
 
 发布到其中任何一个，并寻求反馈. 你会得到反馈. 你会学到很多. 当专家审查您的工作时，您将学到很多关于该领域的知识. 您还将练习一项关键技能：接受批评性反馈.
@@ -346,14 +347,21 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
     * “使用 NumPy/MXNet、PyTorch 和 TensorFlow 实现”
     * “被来自 50 个国家的 200 所大学采用”
  * **[大卫·汉弗莱 (David Humphrey) 的“享受 [深度] 学习的乐趣”.](https://github.com/humphd/have-fun-with-machine-learning)** 这是“取得成功的绝佳方式”自己”和hack-first. 然后你会很兴奋地继续……
-*  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** 有五门课程，作为课程的一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) . 这些课程是他新事业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
+*  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** 有五门课程，作为课程的一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
 * **[Machine Learning Crash Course from Google.](https://developers.google.com/machine-learning/crash-course/)** Google 对机器学习的快节奏、实用介绍，其中包括使用 TensorFlow 构建深度神经网络.
 * **[_Deep Learning_](http://www.deeplearningbook.org/)，麻省理工学院出版社出版的免费书籍.** 作者：Ian Goodfellow、Yoshua Bengio 和 Aaron Courville
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — 由 Greg Brockman（OpenAI 的联合创始人兼 CTO，前 Stripe 的 CTO）回答
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
-## "Big" Data?
+### Easier sharing of deep learning models and demos
+
+* **[replicate.ai](https://replicate.ai) ** 为了可重复的研究，“使共享正在运行的机器学习模型变得容易”. 一探究竟.
+    * 对于初学者，您可以尝试一些使用 GAN 和其他深度学习概念的模型.
+    * 值得收藏，因为您也可以用它来分享您的学习或研究.
+    * 开源工具： [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
+
+### "Big" Data?
 
 如果您正在使用数据密集型应用程序，我会推荐这本书：
 
@@ -365,7 +373,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 * ["Talking Machines" #12](http://www.thetalkingmachines.com/blog/2015/6/4/the-economic-impact-of-machine-learning-and-using-the-kernel-trick-to-dig-in-to-big-data) : 采访教授. 吴恩达（来自 [our main course, which has its own module on big data](https://www.coursera.org/learn/machine-learning) ); 这一集涵盖了一些与_高维_数据相关的问题
 * ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business)
 * 免费电子书，[_Getting Data Right: Tackling the Challenge of
- Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) 作者：Michael Stonebraker、Tom Davenport、James Markarian 等，O&#39;Reilly 出版. 你可以 [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) too.
+Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) by Michael Stonebraker, Tom Davenport, James Markarian, and others, published by O'Reilly. You can [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) 也.
 
 ----
 
@@ -380,7 +388,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ----
 
-## Alternative ways to "Dive into Machine Learning"
+## More ways to "Dive into Machine Learning"
 
 以下是机器学习的其他一些指南. 它们可以是本指南的替代或补充.
 
@@ -393,5 +401,6 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)  Randal S. Olson 博士. 在 Notebooks 部分也提到过，但它与本指南有类似的目标（介绍你，并告诉你下一步去哪里）. 丰富的“进一步阅读”部分.
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) 作者：Nam Vu 这是专为软件工程师设计的自上而下和结果至上的方法.
 *要了解一些新闻来源，请查看 [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) 这里.
-* [Distill](https://distill.pub/about/) 是一本致力于对机器学习的最新研究进行清晰和交互式解释的期刊. 它们提供了传统学术出版的替代方案，可促进该领域的可访问性和透明度.
-* [您的指南在这里]
+* [Distill.pub](https://distill.pub/about/) 发布了非常棒的可探索性解释.
+  * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
+* [你最喜欢的指南在这里？]

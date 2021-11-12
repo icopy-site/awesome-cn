@@ -47,7 +47,7 @@
 * [Maxima](https://maxima.sourceforge.io/)
 * [Sympy](https://www.sympy.org/)
 * [Sagemath](http://www.sagemath.org/)
-* [Unit Converter](https://unitconverter.net)
+* [Unit Converter](https://unitconverters.net)
 * [GeoGebra](https://www.geogebra.org/?lang=en)
 * [Macaulay2](http://www2.macaulay2.com/Macaulay2/)
 * [Singular](https://www.singular.uni-kl.de/)
@@ -133,7 +133,7 @@
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - 托马斯·施特雷彻
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - 哈罗德西蒙斯
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey（卡内基梅隆大学）
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. 功能
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. 职责
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - 迈克尔·巴尔，查尔斯·威尔斯
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - 迈克尔·巴尔，查尔斯·威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - 彼得弗雷德

@@ -63,7 +63,7 @@
 
 ### CLI Tools
 
-- [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
+- [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - 增强的 bash 补全引擎，通过为 golemsp 和 yagna 提供上下文帮助来扩展内置补全.
 - [Golocity](https://github.com/davidstyers/golocity) - 只需两个命令即可在 Golem 网络上构建和部署您的 dockerized 应用程序.
 
 ### Video Transcoding and Editing
@@ -108,7 +108,7 @@
 
 ### RNG
 - [Gandom](https://github.com/rezahsnz/gandom)  - 从提供者中提取随机流. 支持两种 PRNG，一种基于 Chaos 机器，另一种使用钠.
-- [Entropythief](https://github.com/krunch3r76/entropythief) - 使用 linux 熵源或英特尔的 RDRAND cpu 指令（受 Gandom 启发）从多个提供商处以窃取的速率获取随机熵.
+- [Entropythief](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 
 ### Password Recovery
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - 运行 John The Ripper 以恢复密码.
@@ -125,6 +125,7 @@
 
 ### Miscellaneous
 
+- [Gc__ListOffers](https://github.com/krunch3r76/gc__listoffers) - 使用 GUI 列出 Golem 网络上供应商的报价.
 - [Gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash)  - 重新计算 gvmi 图像文件的哈希值. 解决了丢失先前上传图像的哈希值或者您不确定某个键是否对应于特定图像的问题.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - 用于编译 VIM 编辑器的 Golemized docker 图像.
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
@@ -154,7 +155,7 @@
 ### Monitoring
 
 - [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - ReactJS 仪表板可以快速从您的提供者节点收集状态，而无需通过 SSH 连接到它们.
-- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask 后端从提供者那里收集数据，然后与上面的仪表板项目一起使用。
+- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask 后端从提供者那里收集数据，然后与上面的仪表板项目一起使用.
 
 ### Provisioning
 
@@ -189,7 +190,7 @@
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.
 - [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - 深入 Golem alpha 测试网.
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - 新交所 Golem 的概念验证.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - Golem 的 SGX 概念验证.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Golem 市场的去中心化.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - 很棒的魔像和 Alpha 3 的后续步骤.
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD 提供商支持、网络指标和改进的提案处理.

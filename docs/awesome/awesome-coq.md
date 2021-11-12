@@ -26,7 +26,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
+- [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、不可预测的分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相符.
 
 ### User Interfaces
 
@@ -44,7 +44,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - 数学组件的环和场战术.
 - [Bignums](https://github.com/coq/bignums) - 任意大数的库.
 - [Bedrock Bit Vectors](https://github.com/mit-plv/bbv) - 用于对固定精度机器词进行推理的库.
-- [CoLoR](https://github.com/fblanqui/color) - 关于重写理论、lambda 演算和终止的库，以及扩展 Coq 标准库的公共数据结构子库.
+- [CoLoR](https://github.com/fblanqui/color) - 关于重写理论、lambda 演算和终止的库，以及扩展 Coq 标准库的公共数据结构的子库.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) - 库为 Haskell 用户平滑过渡到 Coq.
 - [CoqInterval](https://gitlab.inria.fr/coqinterval/interval/) - 在实数表达式上执行不等式证明的策略.
 - [Coq record update](https://github.com/tchajed/coq-record-update) - 提供更新 Coq 记录字段的通用方法的库.
@@ -147,7 +147,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Verified Software
 
-- [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
+- [CompCert](http://compcert.inria.fr) - 几乎所有 C 语言 (ISO C99) 的高保证编译器，为 PowerPC、ARM、RISC-V 和 x86 处理器生成高效代码.
 - [Ceramist](https://github.com/certichain/ceramist) - 经过验证的基于散列的近似成员结构，例如布隆过滤器.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - 加密原始代码生成.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - 已验证的 OCaml 实现了一种用于图形中增量循环检测的算法.
@@ -204,6 +204,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - 描述如何使用 Flocq 库在 Coq 中正式指定和验证浮点算法的书籍.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向有数学倾向的用户的书籍，侧重于数学组件库和 SSReflect 证明语言.
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - 本书涵盖使用 Coq 的计算逻辑主题，包括基础、规范案例研究和实际编程.
+- [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇之战以及其他有趣的 Coq 形式化数学的持续进行中的书籍，包括库代码和练习.
 
 ### Course Material
 
@@ -215,9 +216,8 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - 在线证明挑战.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
-- [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 来定义逻辑概念和函数以及对它们的推理.
+- [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
 - [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.
-- [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣数学的变化，包括文档和练习.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - 使用规范结构进行编程和证明的设计模式演示.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - 数学组件教程的源代码.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - 使用 Coq 编写形式证明的基础知识.

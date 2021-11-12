@@ -92,7 +92,7 @@ Content about: C, C#, C++ \
 
 [**The Coding Train**](https://www.youtube.com/c/TheCodingTrain) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 Content about: Algorithms, Various programming languages \
-Featured playlists: `The Nature of Code: Simulating Natural Systems with Processing`, `Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction`.
+特色播放列表：“代码的本质：使用处理模拟自然系统”、“学习处理：图像、动画和交互编程初学者指南”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzVWXu5Yu4c2Cp9dUrzbmaAF117DVADvaOXLtjJ3Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GeeksLesson)
 
@@ -491,7 +491,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：JavaScript、JavaScript 框架 \
-特色播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
+精选播放列表：`初学者 JavaScript 教程`、`React.js、Angular 和 Vue.js 播放列表`、`MEAN 堆栈教程`、`jQuery 初学者教程`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
 
@@ -611,7 +611,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：JavaScript、React、React-Native、Next.js、Node.js、Express、GraphQL、Serverless Functions \
-精选播放列表：“JavaScript 游戏演练”、“克隆”、“区块链”、“JavaScript 内置方法”.  \
+Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`. \
 <br/>
 
 
@@ -942,6 +942,13 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 精选播放列表：“恶意软件分析”、“TryHackMe”、“FORENSICS”.  \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ4ngTlpfyu-izPaLTs-MP--b1V5mL-lTtLqvF-UA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/SunKnudsen)
+
+[**Sun Knudsen**](https://www.youtube.com/c/SunKnudsen) \
+内容关于：隐私指南、比特币\
+精选播放列表：“隐私指南”、“比特币系列”.  \
+<br/>
+
 
 ## Internet/networking
 
@@ -1173,7 +1180,7 @@ Content about: Networking hardware with other concepts with helpful the visuals.
 
 [**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
 内容关于： Arduino \
-精选播放列表：`Arduino 初学者教程`、`Raspberry Pi 初学者教程`、`更多 Arduino 教程/项目视频！`.
+特色播放列表：`Arduino 初学者教程`、`Raspberry Pi 初学者教程`、`更多 Arduino 教程/项目视频！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
 
