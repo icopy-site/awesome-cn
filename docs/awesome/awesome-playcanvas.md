@@ -99,7 +99,7 @@
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D匹配3游戏.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) - 由几何形状构成的程式化无尽赛跑者.
 - [Hoop Royale](https://play.famobi.com/hoop-royale) - 在球周围操纵环.
-- [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - 恐龙、乐高和汽车特技.
+- [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 - [Mahjong World](https://play.famobi.com/mahjong-world) - 3D麻将益智游戏.
 - [Megopoly](https://playmegopoly.com/) - 免费玩休闲策略棋盘游戏，您可以在其中投资虚拟财产.
 - [Monopoly](https://benbean.tech/monopoly-io/) - 在 3D 视频游戏中重现的经典棋盘游戏.
@@ -124,7 +124,7 @@
 - [Rollem](https://rollem.io/) - 在最快的时间内引导您的仓鼠到达障碍训练场的尽头.
 - [Tank Royale](https://tankroyale.io/) - 卡通快节奏的自上而下多人射击游戏.
 - [TANX](https://tanx.io) - 在线多人坦克战游戏.
-- [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
+- [Venge](https://venge.io/) - 3D 多人 FPS 射击游戏.
 
 ## Messenger Games
 
@@ -146,6 +146,7 @@
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 英菲尼迪系列（中文）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - 探索起亚最新的汽车系列.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - 汽车可视化.
+- [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - 以 3D 方式探索 Nissan 的 Arriya（日语 - 需要登录）.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - 越野车辆配置器.
 
 ## Product Configurators

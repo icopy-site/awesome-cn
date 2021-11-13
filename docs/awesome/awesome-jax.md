@@ -18,7 +18,7 @@
     - [Flax](https://raw.githubusercontent.com/google/flax) - 以灵活性和清晰度为中心. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
     - [Haiku](https://raw.githubusercontent.com/deepmind/dm-haiku) - 专注于简单性，由 DeepMind 的 Sonnet 的作者创建. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
     - [Objax](https://raw.githubusercontent.com/google/objax) - 具有类似于 PyTorch 的面向对象设计. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
-    - [Elegy](https://poets-ai.github.io/elegy/)  - 用于 Jax 生态系统的与框架无关的 Trainer 界面. 支持 Flax、Haiku 和 Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
+    - [Elegy](https://poets-ai.github.io/elegy/)  - JAX 中深度学习的高级 API. 支持 Flax、Haiku 和 Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
     - [Trax](https://raw.githubusercontent.com/google/trax) - “含电池”深度学习库，专注于为常见工作负载提供解决方案. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://raw.githubusercontent.com/deepmind/jraph) - 轻量级图神经网络库. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
     - [Neural Tangents](https://raw.githubusercontent.com/google/neural-tangents) - 用于指定有限和 _infinite_ 宽度的神经网络的高级 API. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
@@ -145,7 +145,7 @@
 
 <!--lint ignore awesome-list-item-->
 - [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - 描述 JAX 早期版本的白皮书，详细介绍了如何跟踪和编译计算.
-- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX、MD，这是一个可微物理库，其中包括模拟环境、交互电位、神经网络等.
+- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX、MD，这是一个可微物理库，其中包括模拟环境、交互势、神经网络等.
 - [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - 使用 JAX 的 JIT 和 VMAP 实现比现有库更快的差异私有化.
 <!--lint enable awesome-list-item-->
 

@@ -2214,6 +2214,7 @@ _组件集+响应式布局系统_
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vue.js 3.0 UI 可定制的 UI 框架.
 - [Qui-max](https://github.com/Qvant-lab/qui-max) - 用于 Web 的 Vue 3.x 设计系统
 - [Naive UI](https://github.com/TuSimple/naive-ui) - 一个 Vue 3 组件库，相当完整，可定制的主题，使用 TypeScript，不太慢 有点意思
+- [Element Plus](https://github.com/element-plus/element-plus) - Vue 3 UI 框架.
 
 
 #### Mobile

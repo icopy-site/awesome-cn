@@ -34,7 +34,7 @@
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) - VirusTotal.com API 的 PowerShell 接口.
 - [censys-python](https://github.com/censys/censys-python) - Censys REST API 的 Python 包装器.
 - [libcrafter](https://github.com/pellegre/libcrafter) - 高级 C++ 网络数据包嗅探和制作库.
-- [python-dshield](https://github.com/rshipp/python-dshield) - Internet Storm Center/DShield API 的 Pythonic 接口.
+- [python-dshield](https://github.com/rshipp/python-dshield) - Pythonic interface to the Internet Storm Center/DShield API.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - 最小、一致的 Python API，用于构建与恶意软件沙箱的集成.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - 用于序列化和反序列化结构化威胁信息表达 (STIX) JSON 内容的 Python API，以及用于常见任务的更高级别的 API.
 
@@ -80,7 +80,7 @@
 - [k-rail](https://github.com/cruise-automation/k-rail) - Kubernetes 的工作负载策略实施工具.
 - [kube-forensics](https://github.com/keikoproj/kube-forensics) - 允许集群管理员转储正在运行的 pod 及其所有容器的当前状态，以便安全专业人员可以执行离线取证分析.
 - [kube-hunter](https://kube-hunter.aquasec.com/) - 开源工具，可以从集群外部（“攻击者的观点”）或集群内部针对 Kubernetes 集群中的安全问题运行一组测试（“猎人”）.
-- [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.
+- [kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - 允许将经常错过的 Kubernetes 事件导出到各种输出，以便它们可用于可观察性或警报目的.
 
 ### Service meshes
 
@@ -123,13 +123,21 @@
 
 - [DynInst](https://dyninst.org/dyninst) - 用于二进制检测、分析和修改的工具，对二进制修补很有用.
 - [DynamoRIO](https://dynamorio.org/) - 运行时代码操作系统，支持程序任何部分的代码转换，同时它执行，作为进程级虚拟机实现.
-- [Egalito](https://egalito.org/) - 二进制重新编译器和检测框架，可以完全反汇编、转换和重新生成专为二进制加固和安全研究设计的普通 Linux 二进制文件.
-- [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
+- [Egalito](https://egalito.org/) - Binary recompiler and instrumentation framework that can fully disassemble, transform, and regenerate ordinary Linux binaries designed for binary hardening and security research.
+- [Valgrind](https://www.valgrind.org/) - 用于构建动态分析工具的检测框架.
 
 ### Compliance testing and reporting
 
 - [Chef InSpec](https://www.chef.io/products/chef-inspec) - 用于描述安全性和合规性规则的语言，这些规则成为可以针对 IT 基础架构运行的自动化测试，以发现和报告不合规性.
 - [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - 用于根据 SCAP 基线配置文件评估系统的库和命令行工具 (`oscap`)，以报告扫描系统的安全状况. 
+
+### Dependency confusion
+
+也可以看看 [§ Supply chain security](#supply-chain-security).
+
+- [Dependency Combobulator](https://github.com/apiiro/combobulator) - 开源、模块化和可扩展的框架，用于检测和防止依赖混淆泄漏和潜在攻击.
+- [Confusion checker](https://github.com/sonatype-nexus-community/repo-diff) - 检查您的存储库之间是否有包含相同名称的工件的脚本.
+- [snync](https://github.com/snyk-labs/snync) - 预防和检测您是否容易受到依赖混淆供应链安全攻击.
 
 ### Fuzzing
 
@@ -144,14 +152,16 @@
 - [AllStar](https://github.com/ossf/allstar) - GitHub 应用程序安装在组织或存储库上以设置和实施安全策略.
 - [Conftest](https://conftest.dev/) - 帮助您针对结构化配置数据编写测试的实用程序.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - 统一的工具集和跨云原生堆栈的策略框架.
-- [Tang](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
+- [Tang](https://github.com/latchset/tang)  - 将数据绑定到网络存在的服务器； 仅当客户端位于特定（安全）网络上时才向客户端提供数据.
 
 ### Supply chain security
+
+也可以看看 [§ Dependency confusion](#dependency-confusion).
 
 - [Grafeas](https://grafeas.io/) - 开放工件元数据 API 以审核和管理您的软件供应链.
 - [Helm GPG (GnuPG) Plugin](https://github.com/technosophos/helm-gpg) - 使用 GnuPG for Helm 进行图表签名和验证.
 - [Notary](https://github.com/theupdateframework/notary) - 旨在通过让人们轻松发布和验证内容来使互联网更加安全.
-- [in-toto](https://in-toto.io/) - 确保软件供应链完整性的框架.
+- [in-toto](https://in-toto.io/) - Framework to secure the integrity of software supply chains.
 
 ## Honeypots
 
@@ -198,7 +208,7 @@
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - 基于 Viper 构建的可编写脚本的数字取证和事件响应 (DFIR) 工具包.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
-- [Rekall](http://www.rekall-forensic.com/) - Advanced forensic and incident response framework.
+- [Rekall](http://www.rekall-forensic.com/) - 高级取证和事件响应框架.
 - [TheHive](https://thehive-project.org/) - 可扩展、免费的安全事件响应平台，旨在让 SOC、CSIRT 和 CERT 的生活更轻松，并与 MISP 紧密集成.
 - [threat_note](https://github.com/defpoint/threat_note) - 由 Defense Point Security 构建的 Web 应用程序，允许安全研究人员添加和检索与其研究相关的指标.
 
@@ -334,7 +344,7 @@
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集、存储、分发和共享网络安全指标的开源软件解决方案.
 - [Open Source Vulnerabilities (OSV)](https://osv.dev/) - 开源项目的漏洞数据库和分类基础设施，旨在帮助开源维护者和开源消费者.
 - [Sigma](https://github.com/Neo23x0/sigma) - SIEM 系统的通用签名格式，提供开放的签名格式，允许您以直接的方式描述相关的日志事件.
-- [Threat Bus](https://github.com/tenzir/threatbus) - 威胁情报传播层通过分布式发布/订阅消息代理连接安全工具.
+- [Threat Bus](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - 从威胁源（包括 Twitter、RSS 源或其他来源）中提取和聚合 IOC 的可扩展工具.
 - [Unfetter](https://nsacyber.github.io/unfetter/) - 通过利用 Mitre 的 ATT&amp;CK 框架识别安全态势中的防御漏洞.
 - [Viper](https://github.com/viper-framework/viper) - 二进制分析和管理框架，可以轻松组织恶意软件和漏洞利用样本.

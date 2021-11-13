@@ -533,7 +533,7 @@
 * [OpenCvSharp](https://github.com/shimat/opencvsharp/) - .NET Framework 的 OpenCV 的跨平台包装器.
 * [TeximpNet](https://bitbucket.org/Starnick/teximpnet) - A cross-platform .NET Standard library for reading/manipulating/writing image files. The primary focus is to create 2D/3D/Cubemap textures for graphics/game applications, notably to convert images to GPU compressed formats and generate mipmaps.  The library wraps the FreeImage native library to import/export over 30 common image formats, and wraps the Nvidia Texture Tools native library for GPU compression features. It also has a fully featured DDS format importer/exporter written in C#.
 * [Colourful](https://github.com/tompazourek/Colourful) - 用于处理色彩空间的开源 .NET 库.
-* [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp)  - 轻松更新图像网址，使其快速响应.  **[$]**
+* [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp)  - 轻松更新图片网址，使其快速响应.  **[$]**
 * [ColorHelper](https://github.com/iamartyom/ColorHelper) - 处理颜色的有用方法.
 
 ## Install tools
@@ -601,6 +601,7 @@
 * [Logary](https://github.com/logary/logary)  - Logary 是用于 Mono 和 .NET 的高性能、多目标日志记录、度量、跟踪和健康检查库.  .NET 对 DropWizard 的回答. 支持多种目标，为微服务构建.
 * [Log4Net](https://logging.apache.org/log4net/) - Apache log4net 库是一个帮助程序员将日志语句输出到各种输出目标的工具
 * [Rollbar.NET](https://github.com/rollbar/Rollbar.NET)  - 简化了使用 Rollbar.com 时的实时远程错误监控. 适用于任何基于 .NET 的技术堆栈的开源 Rollbar Notifier SDK. 可用于基于以下 .NET 版本构建的任何应用程序的 SDK：.NET Core 2.0+、.NET Standard 2.0+、.NET Full Framework 4.5.1+、Mono、Xamarin，以及一般情况下的任何实现.NET 标准 2.0+. 它简化了基于异常数据、跟踪数据、信息性消息和遥测数据的数据有效负载的构建，并将有效负载发送到 Rollbar API 以远程监控和分析托管应用程序的行为.
+* [Sejil](https://github.com/alaatm/Sejil)  - 直接从您的应用程序中捕获、查看和过滤您的 ASP.NET Core 应用程序的日志. 它支持结构化日志、查询以及保存日志查询.
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK [Sentry](https://sentry.io/welcome/) 开源错误跟踪，可帮助开发人员实时监控和修复崩溃.
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的严肃日志库. 将最好的传统和结构化诊断日志记录在一个易于使用的包中.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - 用于堆栈交换网络的错误处理程序
@@ -679,7 +680,7 @@
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin)  - 包含具有最高性能的 JS 和 CSS 压缩器，因为它是专门为 .NET 设计的. 可选择为 JS 代码生成源映射.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
-* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器而无需按需压缩，当浏览器表明我支持它时，还支持发送更高级的图像格式.
+* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器，无需按需压缩，当浏览器表明我支持它时，还支持发送更高级的图像格式.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
@@ -1110,7 +1111,7 @@
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - 由社区驱动的高质量优秀 Unity 资产、项目和资源的分类集合.
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - 一组用于 Xamarin 移动项目的有趣库/工具.
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - 精选的 Roslyn 书籍、教程、开源项目、分析器、代码修复和重构列表.
-* [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - 这个社区维护的列表展示了对开发过程的任何方面都有用的 .NET 开源项目.
+* [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - 这个由社区维护的列表展示了对开发过程的任何方面都有用的 .NET 开源项目.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - .NET Core 中微服务的精彩培训系列、文章、视频、书籍、课程、示例项目和工具的集合.
 * [Awesome .NET Core Education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - 用于学习和实践 .Net Core 及其相关技术的精彩文章和资源的集合.
 * [Awesome .Net Async](https://github.com/mehdihadeli/awesome-dotnet-async) - 一系列有用的文章和资源，用于学习和实践 .Net 平台中的异步、线程和通道.

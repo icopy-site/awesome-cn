@@ -124,7 +124,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您编写具有大量灵活性的人类可读的 cron 语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 使 Deno 程序在后台运行.
 --deno-dotenv
-  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 操作.
+  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) deno 的 Dotenv 操作.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno，glob 到正则表达式的端口.
@@ -137,6 +137,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的小库.
 - [ensure](https://github.com/eankeen/ensure) - 确保您运行的是最低版本的 Deno、Typescript 或 V8.
 - [evt](https://github.com/garronej/evt) - 为 EventEmitter 键入安全替换.
+- [fastest-validator](https://github.com/icebob/fastest-validator) - 适用于所有 javascript 平台的架构验证器 
 - [fossil](https://github.com/matteocrippa/fossil) - 值类型验证套件.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 内插环境变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.
@@ -213,7 +214,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 ## Showcases
 
 - [AuthCompanion](https://github.com/pmprosociety/authcompanion) - 基于令牌的用户管理服务器.
-- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - deno RESTful apis 的样板.
+- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed)  - 用于开发的完整样板.  ：幼苗：
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 在自述文件中添加动态生成的 GitHub Trophy
 - [UsingDeno](https://usingdeno.com) - 使用 Deno 精选的 Web 应用程序和项目列表.
@@ -276,7 +277,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
 - [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
 - [Building API's using Deno, Oak and MYSQL](https://codeforgeek.com/building-api-server-using-deno-and-mysql/)
-- [Create interactive mail utility CLI Tool using Deno
+- [使用 Deno 创建交互式邮件实用程序 CLI 工具
 ](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)

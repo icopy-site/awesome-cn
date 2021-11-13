@@ -23,6 +23,7 @@
 * [Mathigon](https://mathigon.org/)
 * [Calculus.org](http://calculus.org/)
 * [Ximera](https://ximera.osu.edu/) ：免费的交互式数学教科书（俄亥俄州立大学）
+* [Dzdx.xyz](https://www.dzdx.xyz/)
 
 ## Learn to Learn
 
