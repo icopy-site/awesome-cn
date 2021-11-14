@@ -17,7 +17,7 @@
 
 *虚假*是您最初认为是真实的***想法*，但在现实中它**被证明是错误的**.
 
-例如*想法*：有效的电子邮件地址恰好有一个“@”字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的\！  *现实*是：电子邮件 [can have multiple `@` chars](#emails) . 因此，您的实现应该允许这样做. 最初的*想法*是你相信的错误.
+例如*想法*：有效的电子邮件地址恰好有一个“@”字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的\！  *现实*是：电子邮件可以有多个`@`字符. 因此，您的实现应该允许这样做. 最初的*想法*是你相信的错误.
 
 下面列出的*错误*文章将全面列出您应该注意的那些错误信念，以帮助您成为更好的程序员.
 
@@ -49,8 +49,9 @@
 - [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行帐号不是国际的.
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学不简单也不理性.
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
+- [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐的座位排和列复杂得多.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 会计软件中类型的重要性：缺少小数点会导致 100 倍的多收费.
-- [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - Because [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用它们注册了`\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和`SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
+- [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用它们注册了`\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和`SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) - 由于叛乱、入侵、新宪法和缓慢的计划采用，货币有效期范围重叠.
 - [`tax`](https://github.com/commerceguys/tax) - PHP 5.4+ 税务管理库.
 
@@ -91,13 +92,13 @@
 ## Geography
 
 - [Falsehoods about Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - 采取地点，他们的名字和地点.
-- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
+- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - 地理空间从业者诊断和修复坐标系统常见问题的指南.
 - [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “有一组特殊的汉字，即使是日本人也很难阅读：地名.”
 
 ## Human Identity
 
-- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - The article that started it all.
+- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - 开始这一切的文章.
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上面文章的重温版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能用严格的规则来定义一个家庭.
@@ -120,7 +121,7 @@
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 关于在国际化代码时需要记住的事情的视频.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 对 unicode、其历史背景和起源的一个很好的介绍，然后是对其内部工作的概述.
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - 令人愉快的 Unicode 花絮、软件包和资源的精选列表.
-- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode 是广泛的，这里是龙.
+- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - 深入了解 Unicode 并消除有关代码点的神话.
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员在“Latin-1”上花费了太多时间，他们忘记了其他人的脚本怪癖.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很难，尤其是当数据输入的每个破损层都添加了自己的香料时更是如此.

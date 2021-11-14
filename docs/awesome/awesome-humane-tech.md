@@ -15,7 +15,7 @@
 
 此列表汇总了与人文技术主题直接相关的开源项目. 请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的 PR 之前.
 
- &gt; **重要**：以下资源由此列表的贡献者真诚收集，希望它们对您有用. 但根据 [License](https://github.com/humanetech-community/awesome-humane-tech/blob/master/LICENSE) 我们不能保证所引用软件的质量或适用性. 此列表不具有权威性，仅提供信息. 因此，请正确告知自己，如果您遇到不适当或错误的内容，请在我们 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
+ &gt; **重要**：以下资源由此列表的贡献者真诚收集，希望它们对您有用. 但根据 [License](https://github.com/humanetech-community/awesome-humane-tech/blob/master/LICENSE) 我们不能保证所引用软件的质量或适用性. 此列表不具有权威性，仅提供信息. 因此，请正确告知自己，如果您遇到不适当或错误的内容，请在我们 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 所以我们可以采取适当的行动. 谢谢！
 
 
 如果您的项目在此列表中，那么您有权自豪地佩戴我们的人文科技徽章. 看 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
@@ -196,7 +196,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/bengrosser/twitter-demetricator) - 删除 Twitter 上所有指标的 Web 浏览器扩展.
 - [News Feed Eradicator](https://west.io/news-feed-eradicator/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jordwest/news-feed-eradicator) - 一个浏览器扩展，用一个不错的报价代替你的 Facebook 新闻提要.
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - 通过在社交网络之间转换数据来打破孤岛的社交网络翻译器.
-- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络失去的个人创造力的社交网络.
+- [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 带回网络丢失的个人创造力的社交网络.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium 脚本可删除您所有的 Facebook 墙贴.
 - [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新 Twitter UI 的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个专注于更好对话的开源评论平台.
@@ -339,6 +339,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Tracking Exposed](https://tracking.exposed/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tracking-exposed) - 关于算法的跟踪、分析和影响的研究、浏览器插件.
 - [Social Media Awareness Toolkit](https://www.smat-app.com/about) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) - 一种开放和直观的方式来审查互联网平台上的趋势.
 - [Deletion Day](https://deletionday.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deletionday/site) - 4 月 4 日的假期重点关注当今互联网的隐私问题.
+- [quitsocialmedia.club](https://quitsocialmedia.club 'Why and how to quit Social Media without missing them') [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/xplosionmind/quitsocialmedia.club 'quitsocialmedia.club source code on GitHub') [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://gitea.it/tommi/quitsocialmedia.club 'quitsocialmedia.club source code on Gitea.it') - 关于为什么退出主流社交媒体很重要的资源 + 很棒的替代品，等等.
 
 ## Censorship
 
@@ -377,7 +378,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [ethical.net](https://ethical.net/resources/) - 道德替代方案和资源.
 - [JustPrivacy](https://justprivacy.org/google-alternatives/) - Google 及其产品替代品的深入列表.
 - [Tromjaro Apps](https://www.tromjaro.com/apps/) - 精选的免交易应用程序集合. 
-- [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) - 类似于很棒的项目，但仅适用于 FOSS、开放数据和开放科学.
+- [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) - Similar to awesome project, but only for FOSS, Open Data and Open Science.
 
 ## Contributing
 

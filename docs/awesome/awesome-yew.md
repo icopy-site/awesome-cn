@@ -62,7 +62,7 @@
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
-- [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+红豆杉.
+- [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+紫杉.
 - [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - 使用 wasm/yew 前端为 graphql 服务清洁样板.
 - [surfer](https://github.com/zzy/surfer) - 一个建立在 yew + graphql 上的博客，有 [live demo site](https://gaiding.com) .  graphql 服务的后端和 Web 应用程序的前端.
 - [qubit](https://abhimanyu003.github.io/qubit) - 一个方便的计算器，基于 Rust 和 WebAssembly. [Live Demo](https://abhimanyu003.github.io/qubit/)
@@ -78,7 +78,7 @@
 
 ### Component Libraries
 
-- [yew-mdc](https://github.com/Follpvosten/yew-mdc) - Yew 框架的材料设计组件.
+- [yew-mdc](https://github.com/dungeonfog/yew-mdc) - Yew 框架的材料设计组件.
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
 - [yew-material-components](https://github.com/hamza1311/yew-material-components) - 紫杉材料成分.
@@ -116,7 +116,7 @@
 - [cargo-web](https://github.com/koute/cargo-web) - 客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑并将您的 Rust Wasm 应用程序发送到网络.
 - [wabt](https://github.com/WebAssembly/wabt) - WebAssembly 二进制工具包，用于 `wasm-strip` 和 `wasm-objdump` 工具以减少 .wasm 文件大小.
-- [binaryen](https://github.com/WebAssembly/binaryen) - 用于 WebAssembly 的编译器基础设施和工具链库，用于“wasm-opt”工具以减少 .wasm 文件大小.
+- [binaryen](https://github.com/WebAssembly/binaryen) - WebAssembly 的编译器基础结构和工具链库，用于“wasm-opt”工具以减少 .wasm 文件大小.
 
 ## Articles
 
