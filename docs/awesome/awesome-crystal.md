@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="veelenga/awesome-crystal"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<p align="center"><img src="https://raw.githubusercontent.com/veelenga/awesome-crystal/master/logo/logotype_horizontal.png" alt="awesome-crystal"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/veelenga/awesome-crystal/master/logo/logotype_horizontal.jpg" alt="awesome-crystal"></p>
 
 ## Awesome Crystal
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -45,7 +45,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang 绑定
  * [crt.cr](https://github.com/maiha/crt.cr) - libncursesw 和 crt 的绑定
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
- * [curl-crystal](https://github.com/blocknotes/curl-crystal) - 绑定 [libcurl](https://curl.haxx.se/libcurl/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - 绑定 [Duktape](https://github.com/svaarala/duktape) javascript引擎
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - 绑定 [libgphoto2](http://www.gphoto.org/) 图书馆
  * [icu.cr](https://github.com/olbat/icu.cr) - 绑定 [ICU](http://site.icu-project.org/) 图书馆
@@ -61,9 +60,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - 用于编写命令行界面的强大 DSL
+ * [Athena Console](https://github.com/athena-framework/console) - 允许创建基于 CLI 的命令
  * [clicr](https://github.com/j8r/clicr) - 一个简单的声明式命令行界面构建器
  * [clim](https://github.com/at-grandpa/clim) - Slim 命令行界面构建器
- * [commander](https://github.com/mrrooijen/commander) - 命令行界面构建器
+ * [commander](https://github.com/mrrooijen/commander) - Command-line interface builder
  * [Keimeno](https://github.com/robacarp/keimeno) - Crystal 中的轻量级文本用户界面库
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - 命令行选项处理（Crystal stdlib）
  * [Phreak](https://github.com/shinzlet/phreak) - OptionParser 风格的高度灵活的 Crystal CLI 构建器
@@ -104,7 +104,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crunits](https://github.com/spider-gazelle/crunits) - 转换测量单位的工具（英里到公里，摄氏度到华氏度等）
  * [money](https://github.com/crystal-money/money) - 轻松处理货币和货币兑换（几乎完整的港口 [RubyMoney](https://github.com/RubyMoney/money))
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - 将 SASS/SCSS 编译为 CSS ([libsass](https://github.com/sass/libsass/) 捆绑）
- * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) - libwkhtmltox 的绑定/包装器（HTML 到 PDF/图像转换器）
 
 ## Cryptography
  * [cmac](https://github.com/spider-gazelle/cmac) - 基于密码的消息认证代码 (CMAC) 的 Crystal 实现
@@ -207,8 +206,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - 用于 Crystal 的简单 HTML 表单生成器，内置对许多流行的 UI 库（例如 Bootstrap）的支持
 
 ## HTML/XML Parsing
- * [docx_cr_converter](https://github.com/aristotelesbr2014/docx_cr_converter) - 解析 DOCX 字
- * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - 绑定 [Gumbo](https://github.com/google/gumbo-parser), 谷歌制作的 HTML5 解析库
+ * [docx_cr_converter](https://github.com/aristotelesbr/docx_cr_converter) - 解析 DOCX 字
  * [myhtml](https://github.com/kostya/myhtml) - 包含 CSS 选择器的快速 HTML5 解析器
 
 ## HTTP
@@ -285,9 +283,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [port_midi](https://github.com/jimm/crystal_port_midi) - PortMIDI 跨平台 MIDI I/O 库的 Crystal C 绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 重试失败代码块的简单 DSL
  * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) - 用于构建 Serf 处理程序的框架，具有一套有用​​的内置功能
- * [simple_retry](https://github.com/spider-gazelle/simple_retry) - Simple tool for retrying failed code blocks
+ * [simple_retry](https://github.com/spider-gazelle/simple_retry) - 用于重试失败代码块的简单工具
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) - 水晶碎片包装 rbsec/sslscan 实用程序
- * [version_tools](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
+ * [version_tools](https://github.com/anicholson/crystal-version-tools) - 依赖于版本的行为，在编译时指定
  * [wafalyzer](https://github.com/NeuraLegion/wafalyzer) - Web 应用程序防火墙 (WAF) 检测器 - 分片 + cli
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - 文件名清理
 
@@ -323,7 +321,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crecto](https://github.com/Crecto/crecto) - 数据库包装器，基于 Ecto
  * [granite](https://github.com/amberframework/granite) - 用于 Postgres、Mysql、Sqlite 的 ORM
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - 使用灵活的查询链构建器和迁移系统实现 Active Record 模式
- * [onyx-sql](https://github.com/onyxframework/sql) - 与数据库无关的 SQL ORM，具有漂亮的 DSL 和类型安全的查询构建器
  * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) - RethinkDB / RebirthDB 的 ORM
 
 ## Package Management
@@ -419,7 +416,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [host_meta](https://github.com/toddsundsted/host_meta) - Web 主机元数据 (https://tools.ietf.org/html/rfc6415) 客户端
  * [kube-client.cr](https://github.com/spoved/kube-client.cr) - Kubernetes API 客户端
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - 用于将事件发送到 Mixpanel 的库
- * [mollie.cr](https://github.com/tilitribe/mollie.cr) - [Mollie](https://www.mollie.com/en/) 支付 API 包装器（信用卡、PayPal、Apple Pay、Sofort、Klarna 等）
+ * [mollie.cr](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) 支付 API 包装器（信用卡、PayPal、Apple Pay、Sofort、Klarna 等）
  * [office365](https://github.com/PlaceOS/office365) - Microsoft Graph API 包装器
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
  * [raven.cr](https://github.com/sija/raven.cr) - Raven 是一个客户 [Sentry](https://github.com/getsentry/sentry)
@@ -430,7 +427,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - 与您的 YNAB 数据交互的库
 
 ## Validation
- * [accord](https://github.com/neovintage/accord) - Crystal Objects 的可共享验证库
+ * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
  * [Athena Validator](https://github.com/athena-framework/validator) - 强大而灵活的验证框架
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
  * [validator](https://github.com/Nicolab/crystal-validator) - 数据检查和验证

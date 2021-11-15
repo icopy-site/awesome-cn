@@ -30,6 +30,7 @@
 - [Octicons](https://github.com/primer/octicons#readme)  - 由 GitHub 用 &lt;3 手工制作的一组可扩展的图标.  ([Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme)  - Open Iconic 是 Iconic 的开源兄弟.  ([Website](https://useiconic.com/open))
 - [Picon](https://github.com/yne/picon#readme)  - 基于小连字的图标字体和 SVG.  ([Website](https://yne.fr/picon))
+- [Radix Icons](https://github.com/radix-ui/icons)  - 由 Modulz 团队设计的一组清晰的 15×15 图标.  ([Website](https://icons.modulz.app/))
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon#readme)  - Remix Icon 是一组供设计师和开发人员使用的开源中性风格系统符号.  ([Website](https://remixicon.com))
  - Shape.so - 可自定义的动画图标和插图可导出为代码.  ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - 您最喜欢的网站和应用程序徽标的极小 SVG 版本，每个不超过 1KB.

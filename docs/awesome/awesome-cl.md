@@ -74,7 +74,7 @@ Common Music 的工作转移到（基于方案的）cm3.
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)  - ASDF 的扩展.  [外籍人士][14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)  - 一种可视化 ASDF 系统库依赖关系、函数调用图和类继承的工具.  [LLGPL] [8].
 
-编译器、代码生成器
+Compilers, code generators
 ==========================
 
 APL
@@ -143,9 +143,14 @@ ORMs
 ---------------
 
 * [cl-agraph](https://github.com/vseloved/cl-agraph), 最小客户端 [AllegroGraph](https://allegrograph.com/) .  AllegroGraph 是一种水平分布、多模型（文档和图）、实体-事件知识图谱技术. 它是专有的，有一个免费版本，限制为 500 万个三元组.
-* [cl-neo4j](https://github.com/kraison/cl-neo4j) - neo4j RESTFUL 客户端界面.
+* [neo4cl](https://github.com/equill/neo4cl)  - 用于与 Neo4J 交互的库. 将 Cypher 查询发送到 Neo4J 服务器，并将响应解码为对在 CL 中处理有用的内容.  [Apache2][89].
+  * 有可能： [cl-neo4j](https://github.com/kraison/cl-neo4j) - 一个瘦的 neo4j RESTFUL 客户端界面.
 * [vivace-graph](https://github.com/kraison/vivace-graph-v3)  - 图数据库和 Prolog 实现. 从 CouchDB、neo4j 和 AllegroGraph 中汲取设计灵感. 它实现了一个符合 ACID 的对象图模型，带有用户定义的索引和 map-reduce 视图. 它还实现了用于冗余和水平读取扩展的主/从复制方案. 查询图是通过许多 Lisp 方法或通过类似 Prolog 的查询语言完成的.  [麻省理工学院][200].
 * [facts](https://github.com/cl-facts/facts)  - 具有事务和回滚、日志记录/重放和转储/加载到/从磁盘的内存中图形数据库.  BSD 风格的许可证 (ISC).
+
+并且：
+
+* [restagraph](https://github.com/equill/restagraph)  - 使用数据库中定义的架构为 Neo4j 数据库动态生成 REST API 的应用程序.  [GPL3][2].
 
 
 Wrappers
@@ -275,7 +280,7 @@ Docker 镜像
 Graphics
 ========
 
-These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
+这些是用于处理图形的库，而不是制作 GUI（即小部件工具包），它们有自己的部分.
 
 * ：星星： [Sketch](https://github.com/vydd/sketch)  - 用于创建电子艺术、图形等的 CL 框架.  [麻省理工学院][200].
 * [common-cv](https://github.com/byulparan/common-cv)  - CommonLisp 的 OpenCV（开源计算机视觉库）绑定库. 未指定许可证.
@@ -416,9 +421,9 @@ CLOS 扩展
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
 将静态调度的速度带入 CLOS.  [LLGPL] [8].
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  - 允许静态（在编译时）而不是动态（运行时）执行标准的通用函数调度. 这类似于 C++ 和 Java 等语言中所谓的“重载”.  [麻省理工学院][200].
-* [dynamic-mixins](https://github.com/rpav/dynamic-mixins)  - 简单、动态的类组合.  [BSD_2 条款][17].
+* [dynamic-mixins](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD_2Clause][17].
 * [fast-generic-functions](https://github.com/marcoheisig/fast-generic-functions)  - 密封您的通用功能以进一步提高性能.  [麻省理工学院][200].
-* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 在类型上调度的函数类型，而不是部分支持在可选和关键字参数类型上调度的类. 仍在试验中（2021 年 5 月）.  [麻省理工学院][200].
+* [polymorphic functions](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT][200].
    - 多态函数根据提供给它的参数类型进行调度. 这有助于在专门的数组和用户定义的类型上进行调度.
   - 有关 specialization-store 和 fast-generic-functions 的差异，请参阅其自述文件.
 
@@ -441,12 +446,12 @@ Iteration
 * ：星星： [iterate](https://common-lisp.net/project/iterate/)  - 可扩展和 Lispier 的 Common Lisp 迭代构造.  [麻省理工学院][200].
 * [for](https://shinmera.github.io/for/)  - 一个简洁、流畅和可扩展的迭代宏. 与循环不同，它是可扩展且合理的，与迭代不同的是，它不需要代码遍历并且更容易扩展.  [zlib] [33].
 * [series](https://github.com/tokenrove/series/wiki)  - 完全没有任何运行时损失的函数式风格.  [麻省理工学院][200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  - 简洁且可扩展的迭代工具，具有与 FSet 很好地集成的优势（参见数据结构部分），因为它是由同一作者编写的. 在 Quicklisp 作为 `misc-extensions` 的一部分. 公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  - 简洁且可扩展的迭代工具，具有与 FSet 良好集成的优势（参见数据结构部分），因为它是由同一作者编写的. 在 Quicklisp 作为 `misc-extensions` 的一部分. 公共区域.
 * [trivial-do](https://github.com/yitzchak/trivial-do/)  - Common Lisp 的附加 dolist 样式宏.  [麻省理工学院][200].
 * [doplus](https://github.com/alessiostalla/doplus) – 另一个可扩展的迭代库，类似于 :for.
-* [snakes](https://github.com/BnMcGn/snakes) - Python style generators for Common Lisp. Includes a port of itertools. [Apache2][89].
+* [snakes](https://github.com/BnMcGn/snakes)  - Common Lisp 的 Python 样式生成器. 包括一个 itertools 端口.  [Apache2][89].
 * [picl](https://github.com/anlsh/picl)  - Python 的 itertools 包的（几乎）完整端口，在适用的情况下具有惰性，并且不依赖于 cl-cont.  [麻省理工学院][200].
-* [gtwiwtg](https://github.com/cbeo/gtwiwtg)  - 一个懒惰的序列库. 类似于“系列”但不完整. 然而，它有一个“现代”API，其中包含“take”、“filter”、“for”、“fold”等易于使用的内容.
+* [gtwiwtg](https://github.com/cbeo/gtwiwtg)  - 一个懒惰的序列库. 类似于“系列”但不完整. 然而，它有一个“现代”的 API，其中包含“take”、“filter”、“for”、“fold”等易于使用的东西.
 
 
 Lambda 简写
@@ -561,13 +566,13 @@ Advanced
 --------
 
  * [Let Over Lambda][156] - 一本关于高级宏技术的书. 所有八章都可以在印刷版中找到.
-* [Common Lisp 中的面向对象编程：CLOS 程序员指南][21] - 一本关于 CLOS 的古老但非常全面的书.
+* [Common Lisp 中的面向对象编程：CLOS 程序员指南][21] - 一本关于 CLOS 的古老但非常详尽的书.
 * [人工智能编程范式：Common Lisp 中的案例研究][157] - 一本关于人工智能编程的书，涵盖了一些高级 Lisp.
 
 其他书籍
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 免费提供，由麻省理工学院出版社免费提供——这是标准人工智能文本中独一无二的书籍，结合科学与工程、理论和工艺来描述人工智能推理系统的构建，并包括说明这些想法的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) by Ken Forbus and Johan de Kleer, made available for free by MIT Press - a  unique book among standard artificial intelligence texts in combining science and engineering, theory and craft to describe the construction of AI reasoning systems, and including code illustrating the ideas.
 
 Community
 ---------
@@ -1242,7 +1247,7 @@ REPL 的常见任务（打印文档、打印外部符号、
 * [Lisp REPL core dumper](https://gitlab.com/ambrevar/lisp-repl-core-dumper/) -
 一个便携式包装器，可按需生成 Lisp 内核以快速启动 REPL.
 它可以预加载提供的系统以帮助构建专门的集合
-Lisp cores.
+Lisp 核心.
 
 
 文档构建器
