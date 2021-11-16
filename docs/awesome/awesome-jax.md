@@ -46,7 +46,7 @@
 - 神经网络库
     - [FedJAX](https://raw.githubusercontent.com/google/fedjax) - JAX 中的联合学习，建立在 Optax 和 Haiku 之上. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
     - [Equivariant MLP](https://raw.githubusercontent.com/mfinzi/equivariant-MLP) - 构建等变神经网络层. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
-    - [jax-resnet](https://raw.githubusercontent.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
+    - [jax-resnet](https://raw.githubusercontent.com/n2cholas/jax-resnet/) - Flax 中 ResNet 变体的实现和检查点. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) - 图书馆实施 [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) 用于蛋白质机器学习应用. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) - 在 JAX 中规范化流程. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) - 使用 JAX 的 `scikit-learn` 内核矩阵. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
@@ -66,6 +66,7 @@
 - [JAXopt](https://raw.githubusercontent.com/google/jaxopt) - JAX 中的硬件加速 (GPU/TPU)、可批处理和可微优化器. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 - [PIX](https://raw.githubusercontent.com/deepmind/dm_pix) - PIX 是 JAX 中的图像处理库，用于 JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 - [bayex](https://raw.githubusercontent.com/alonfnt/bayex) - 由 JAX 提供支持的贝叶斯优化. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
+- [JaxDF](https://raw.githubusercontent.com/ucl-bug/jaxdf) - 具有任意离散化的可微模拟器框架. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
 
 <a name="models-and-projects" />
 
@@ -110,7 +111,7 @@
 - [Bootstrap Your Own Latent](https://github.com/deepmind/deepmind-research/tree/master/byol) - 论文的实现 [_Bootstrap your own latent: A new approach to self-supervised Learning_](https://arxiv.org/abs/2006.07733).
 - [Gated Linear Networks](https://github.com/deepmind/deepmind-research/tree/master/gated_linear_networks) - GLN 是一系列无反向传播的神经网络.
 - [Glassy Dynamics](https://github.com/deepmind/deepmind-research/tree/master/glassy_dynamics) - 论文的开源实现 [_Unveiling the predictive power of static structure in glassy systems_](https://www.nature.com/articles/s41567-020-0842-8).
-- [MMV](https://github.com/deepmind/deepmind-research/tree/master/mmv) - 模型代码 [_Self-Supervised MultiModal Versatile Networks_](https://arxiv.org/abs/2006.16228).
+- [MMV](https://github.com/deepmind/deepmind-research/tree/master/mmv) - 中模型的代码 [_Self-Supervised MultiModal Versatile Networks_](https://arxiv.org/abs/2006.16228).
 - [Normalizer-Free Networks](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - 官方俳句实现 [_NFNets_](https://arxiv.org/abs/2102.06171).
 - [NuX](https://github.com/Information-Fusion-Lab-Umass/NuX) - 使用 JAX 规范化流程.
 - [OGB-LSC](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc) - 此存储库包含 DeepMind 对 [PCQM4M-LSC](https://ogb.stanford.edu/kddcup2021/pcqm4m/) （量子化学）和 [MAG240M-LSC](https://ogb.stanford.edu/kddcup2021/mag240m/) （学术图）
@@ -129,12 +130,12 @@
 
 - [NeurIPS 2020: JAX Ecosystem Meetup](https://www.youtube.com/watch?v=iDxJxIyzSiM) - JAX，它在 DeepMind 中的使用，以及工程师、科学家和 JAX 核心团队之间的讨论.
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) - 在 JAX 中从头开始的简单神经网络.
-- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX 的核心设计、它如何推动新研究以及如何开始使用它.
+- [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX 的核心设计、它如何为新研究提供动力以及如何开始使用它.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) - 介绍使用 NumPyro 的贝叶斯建模.
 - [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX 介绍介绍 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) - 演示 TPU 主机访问.
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - 教程由 Zico Kolter、David Duvenaud 和 Matt Johnson 创建，Colab 笔记本可用 [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
-- [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - 包含 Colab 笔记本的四部分 YouTube 教程系列，从 Jax 基础知识开始，然后在 v3-32 TPU Pod 切片上使用数据并行方法进行训练.
+- [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - 包含 Colab 笔记本的四部分 YouTube 教程系列，从 Jax 基础开始，然后在 v3-32 TPU Pod 切片上使用数据并行方法进行训练.
 - [JAX, Flax & Transformers 🤗](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 为期 3 天的演讲，围绕 JAX / Flax、Transformers、大规模语言建模和其他重要话题进行.
 
 <a name="papers" />
@@ -146,7 +147,7 @@
 <!--lint ignore awesome-list-item-->
 - [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - 描述 JAX 早期版本的白皮书，详细介绍了如何跟踪和编译计算.
 - [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX、MD，这是一个可微物理库，其中包括模拟环境、交互势、神经网络等.
-- [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - 使用 JAX 的 JIT 和 VMAP 实现比现有库更快的差异私有化.
+- [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - Uses JAX's JIT and VMAP to achieve faster differentially private than existing libraries.
 <!--lint enable awesome-list-item-->
 
 <a name="tutorials-and-blog-posts" />

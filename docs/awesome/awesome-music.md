@@ -6,7 +6,7 @@
 
 总是欢迎贡献和建议！ 请看一下 [contribution guidelines and quality standard](https://github.com/ciconia/awesome-music/blob/master/CONTRIBUTING.md) 第一的.
 
-谢谢大家 [contributors](https://github.com/ciconia/awesome-music/graphs/contributors)，你太棒了，没有你就不可能！
+谢谢大家 [contributors](https://github.com/ciconia/awesome-music/graphs/contributors)，你太棒了，没有你这个项目是不可能的！
 
 
 ## Audio Editing
@@ -19,8 +19,8 @@
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js 是一个嵌入式 javascript 库，允许在任何地方使用 HTML5 的 &lt;audio&gt; 标签.
 * [howler.js](https://github.com/goldfire/howler.js) - 现代网络的 Javascript 音频库.
-* [JSyn](http://www.softsynth.com/jsyn/) - 适用于 Java 的音频合成软件 API.
-* [Librosa](https://github.com/librosa/librosa) - 用于音乐和音频分析的 python 包，提供创建音乐信息检索系统所需的构建块.
+* [JSyn](http://www.softsynth.com/jsyn/) - 用于 Java 的音频合成软件 API.
+* [Librosa](https://github.com/librosa/librosa) - 用于音乐和音频分析的 Python 包，提供创建音乐信息检索系统所需的构建块.
 * [midi.js](https://github.com/mudcube/MIDI.js) - 用于创建基于 Web 的 MIDI 应用程序的框架.
 * [mxml](https://github.com/venturemedia/mxml) - MusicXML 解析和布局库.
 * [PortAudio](http://www.portaudio.com/) - 一个免费、跨平台、开源的音频 I/O 库.
@@ -34,7 +34,7 @@
 * [cyanrip](https://github.com/atomnuker/cyanrip)  - 以最少的用户需要翻录和编码标准音频 CD. 跨平台.
 * [fre:ac](https://github.com/enzo1982/freac)  - 免费的音频转换器. 它支持音频 CD 翻录和标签编辑.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - 命令行 CD 开膛手.
-* [K3b](https://github.com/KDE/k3b) - 是一个功能齐全的 CD/DVD/蓝光刻录和翻录应用程序.
+* [K3b](https://github.com/KDE/k3b) - 是功能齐全的 CD/DVD/蓝光刻录和翻录应用程序.
 * [Koel](https://github.com/phanan/koel) - 开源个人音频流服务器.
 * [Lame](http://lame.sourceforge.net/) - 高质量、免费和开源的 MP3 编码器.
 * [lltag](https://github.com/bgoglin/lltag) - 自动命令行 mp3/ogg/flac 文件标记器和重命名器.
@@ -53,14 +53,14 @@
 * [ciconia/music](https://github.com/ciconia/music) - 主要是巴洛克音乐的集合，JS Bach 的许多神圣作品，用 lilypond/ripple 编码.
 * [CPDL](http://www.cpdl.org/) - 合唱公共领域库包含超过 20K 的免费声乐乐谱.
 * [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - 巴洛克乐谱（主要是法国音乐），使用 lilypond 排版.
-* [IMSLP](http://imslp.org/) - 国际乐谱库项目是网络上最大的公共领域乐谱和零件集合.
+* [IMSLP](http://imslp.org/) - 国际乐谱库项目是网络上最大的公共领域乐谱和部分集合.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - 基于公共领域版本的乐谱.
 * [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - 在免费许可下，美丽的 LilyPond 得分.
 
 ## MIDI Tools & Libraries
 
 * [Midifile](http://midifile.sapp.org/) - 用于解析标准 MIDI 文件的 C++ 库.
-* [Timidity](http://timidity.sourceforge.net/) - 一个播放 MIDI 文件的开源命令行合成器.
+* [Timidity](http://timidity.sourceforge.net/) - 一个可以播放 MIDI 文件的开源命令行合成器.
 
 ## Music Notation
 
@@ -71,7 +71,7 @@
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - 免费的 Lilypond 乐谱编辑器.
 * [Guido](http://guidolib.sourceforge.net/) - 用于乐谱图形渲染的通用便携式库和 API.
 * [Hacklily](https://www.hacklily.org) - 基于 LilyPond 的在线乐谱编辑器（可选的 GitHub 集成）.
-* [i-score](http://www.i-score.org) - 具有 DAW 功能的交互式乐谱软件.
+* [i-score](http://www.i-score.org) - 一种交互式乐谱软件，具有 DAW 功能.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - 免费、开源、基于浏览器的乐谱和作曲软件.
 * [LibMEI](https://github.com/DDMAL/libmei) - 用于读取和写入 MEI 文件的 C++ 库.
 * [Lilybin](http://lilybin.com/) - 基于 Web 的开源 LilyPond 编辑器.
@@ -92,7 +92,7 @@
 * [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond 迷你乐谱雕刻和音乐家分享服务.
 * [Verovio](https://github.com/rism-ch/verovio) - 用于将 MEI 乐谱雕刻成 SVG 的库和工具包.
-* [Vexflow](https://github.com/0xfe/vexflow) - 用于呈现乐谱和吉他指法的 JavaScript 库.
+* [Vexflow](https://github.com/0xfe/vexflow) - 用于渲染乐谱和吉他指法的 JavaScript 库.
 
 ## Music Programming
 
@@ -100,11 +100,11 @@
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将丰富的计算机辅助合成带入实时世界.
 * [Chuck](https://github.com/ccrma/chuck) - 强定时、并发和动态音乐编程语言.
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
-* [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐创作系统.
+* [Common Music](http://commonmusic.sourceforge.net/) - 一个开源的音乐创作系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专为实时信号处理和合成而设计的函数式编程语言.
 * [IanniX](https://github.com/iannix/IanniX) - 基于 Iannis Xenakis 作品的图形开源音序器，用于数字艺术.
-* [Inscore](http://inscore.sourceforge.net/) - 用于设计交互式增强音乐乐谱的环境.
+* [Inscore](http://inscore.sourceforge.net/) - 用于设计交互式增强乐谱的环境.
 * [Leipzig](https://github.com/ctford/leipzig) - Overtone 的合成库.
 * [Midica](https://github.com/truj/midica) - 带有反编译器和播放器的 MIDI 编程语言，支持卡拉 OK.
 * [music21](http://web.mit.edu/music21/) - 计算音乐学工具包.
@@ -115,11 +115,11 @@
 * [Overtone](https://github.com/overtone/overtone/) - 用于设计合成器和与音乐合作的开源工具包.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - 一个用 Lua 编写的开源音乐生成框架.
 * [Pure Data](http://puredata.info/) - 一种用于音频和其他多媒体的可视化编程语言.
-* [py-modular](http://py-modular.readthedocs.io/) - 一个模块化和实验性的编程环境，具有 Python 中的基本 DSP 例程.
+* [py-modular](http://py-modular.readthedocs.io/) - 一个模块化和实验性的编程环境，带有 Python 中的基本 DSP 例程.
 * [Sonic Pi](http://sonic-pi.net/) - 强调教育用途的实时编码合成器.
 * [Sporth](https://pbat.ch/proj/sporth.html) - 基于小堆栈的音频语言.
 * [SuperCollider](http://supercollider.github.io/) - 一种用于实时音频合成和算法组合的编程语言.
-* [Tidal](http://tidal.lurk.org/) - 一种基于 Haskell 构建的用于实时编码模式的语言.
+* [Tidal](http://tidal.lurk.org/) - 一种基于 Haskell 的语言，用于实时编码模式.
 
 ## Music Theory Teaching
 
@@ -144,7 +144,7 @@
 * [Awesome Music Production](https://github.com/adius/awesome-music-production) - 创建音乐的软件和资源的精选列表.
 * [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - 与音频科学研究相关的 Python 软件和软件包的精选列表.
 * [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - 精选的精彩乐谱软件、库和资源列表.
-* [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - 精选的 WebAudio 软件包和资源列表.
+* [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - 精选的 WebAudio 包和资源的精选列表.
 
 其他非常棒的列表可以在 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 列表.
 

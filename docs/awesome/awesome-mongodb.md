@@ -43,7 +43,7 @@
  - [Scaling MongoDB on Amazon Web Services (Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
- - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - 在 Kubernetes 上部署基本 Node.js 和 MongoDB Web 堆栈的教程
+ - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Kubernetes 上基本 Node.js 和 MongoDB Web 堆栈的部署教程
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
  
 ### More
@@ -102,7 +102,7 @@
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - 基于 MongoDB、Express、React 和 Node.js 的全栈
  - [Meteor](https://github.com/meteor/meteor) - 基于MongoDB的实时/反应式客户端-服务器框架，功能丰富
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js 异步 ODM
- - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - 与 Mongoose 集成的权限管理库
+ - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration](https://github.com/awapps/mongration) - Node.js 迁移框架
  - [Moonridge](https://github.com/capaj/Moonridge) - 在 Mongoose 和 socket.io 之上实时查询的框架
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - 官方 Node.js 驱动程序
@@ -127,16 +127,16 @@
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Laravel 的 Eloquent 模型和查询构建器
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - 存储库实现
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - 基于 PHP Mongo PECL 扩展的 ODM
- - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
+ - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - 基于PHPMongo ODM的迁移工具
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - 官方 PHP 驱动程序
  - [yadm](https://github.com/formapro/yadm) - 快速无模式 ODM
 
 ### Python
- - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，支持开箱即用的迁移
+ - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的迁移
  - [Djongo](https://github.com/nesdis/djongo) - 与 Django ORM 兼容的 Django MongoDB 连接器
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - 为 Flask 添加 PyMongo 支持的 Flask 扩展
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 惯用且友好但功能强大的 ODM（无模式）
- - [MongoEngine](https://github.com/MongoEngine/mongoengine) - 基于 PyMongo 的 ODM
+ - [MongoEngine](https://github.com/MongoEngine/mongoengine) - PyMongo 之上的 ODM
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB 日志处理程序
  - [Motor](https://github.com/mongodb/motor) - Tornado 或 asyncio 的非阻塞 Python 驱动程序
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - 官方（和推荐）Python 驱动程序
@@ -185,6 +185,7 @@ Services:
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop 连接器
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB 到 Elasticsearch（反之亦然）的迁移工具
  - [MongoMultiMaster](https://github.com/rick446/mmm) - 多主复制
+ - [ProvenDB](https://www.provendb.com/) - 基于区块链的 MongoDB 数据完整性解决方案
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible 角色
@@ -197,12 +198,13 @@ Services:
  - [Compass](https://www.mongodb.com/products/compass) - 来自 MongoDB 的免费跨平台 GUI
  - [DataGrip](https://www.jetbrains.com/datagrip/) - 跨平台 JetBrains 的 IDE
  - [dbKoda](https://www.dbkoda.com) - 跨平台和开源IDE
+ - [Mingo](https://mingo.io/)  - MongoDB 管理员. 直观的用户界面. 快速地. 可靠
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - 从 VS Code 连接到 MongoDB 和原型查询
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac 原生客户端
  - [Mongotron](http://mongotron.io/) - 使用 Electron 构建的跨平台和开源客户端
  - [NoSQLBooster](https://nosqlbooster.com) - 功能丰富但易于使用的跨平台 IDE（以前称为 MongoBooster）
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - 跨平台、自托管且易于使用的管理工具（前身为 Mongoclient）
- - [QueryAssist](https://queryassist.com) - 现代而强大的 GUI 工具，跨平台且易于使用
+ - [QueryAssist](https://queryassist.com) - 现代而强大的图形用户界面工具，跨平台且易于使用
  - [Robo 3T](https://github.com/Studio3T/robomongo) - 免费、本机和跨平台的以 shell 为中心的 GUI（以前称为 Robomongo）
  - [Studio 3T](https://studio3t.com/) - 跨平台GUI，稳定强大（原MongoChef）
  - [TablePlus](https://tableplus.com/) - macOS 上的原生轻量级 GUI
@@ -236,7 +238,7 @@ Services:
  - [Solarwindws Database Performance Monitor](https://www.solarwinds.com/database-performance-monitor) - 基于 SaaS 的查询性能分析和监控
 
 ### Shell
- - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell 增强功能
+ - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell 增强
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - 基于 Web 的用户界面来处理连接和数据库需求
@@ -244,7 +246,7 @@ Services:
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - 使用 Django 构建的管理界面
  - [Mongoku](https://github.com/huggingface/Mongoku) - 用于网络的 MongoDB 客户端
  - [mongri](https://github.com/dongri/mongri) - 用 Ja​​vaScript 编写的基于 Web 的用户界面
- - [Rockmongo](https://github.com/iwind/rockmongo) - 用于 MongoDB 的 PHPMyAdmin，有点
+ - [Rockmongo](https://github.com/iwind/rockmongo) - MongoDB 的 PHPMyAdmin，有点
 
 Services:
 
@@ -258,8 +260,8 @@ Services:
  - [CodeCombat](https://github.com/codecombat/codecombat) - 多人编程游戏，用于学习如何编码
  - [Countly](https://github.com/countly/countly-server) - 使用 Node.js 构建的移动和网络分析和营销平台
  - [FactorJS](https://github.com/fiction-com/factor) - 使用 Mongoose 构建的 JavaScript CMS
- - [GrandNode](https://github.com/grandnode/grandnode) - 使用ASP.NET构建的多平台电子商务购物车
- - [Leanote](https://github.com/leanote/leanote) - 用 Go 构建的 Evernote 克隆
+ - [GrandNode](https://github.com/grandnode/grandnode) - 用ASP.NET构建的多平台电子商务购物车
+ - [Leanote](https://github.com/leanote/leanote) - 使用 Go 构建的 Evernote 克隆
  - [NodeBB](https://github.com/NodeBB/NodeBB) - 基于 Node.js 的论坛软件（“专为现代网络构建”）
  - [Reaction](https://github.com/reactioncommerce/reaction) - 使用 ES6 构建的事件驱动的实时商务平台
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - SaaS 产品样板，使用 TypeScript、React 和 Express 构建

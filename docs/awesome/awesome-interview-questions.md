@@ -7,9 +7,9 @@
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>所有环境变量，集中在一处</b>	
+			<b>您所有的环境变量，在一个地方</b>	
 			<div>不要再为分散的 API 密钥苦苦挣扎，不要再将自制工具组合在一起了，</div>
-			<div>并避免访问控制. 保持您的团队和服务器与多普勒同步.</div>
+			<div>并避免访问控制. 使您的团队和服务器与多普勒同步.</div>
 			</br>
 		</a>	
 	</p>	
@@ -21,7 +21,7 @@
 
 [What makes for an awesome list?](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/awesome.md)
 
-请阅读 [contribution guidelines](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/contributing.md) 要么 [creating a list guide](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
+请阅读 [contribution guidelines](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
 
 
 
@@ -38,7 +38,6 @@
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
-* [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
 * [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
 * [Android cheat sheet: Coding program, Data structure, Android and Java interview questions with answers and categorized by topics](https://github.com/anitaa1990/Android-Cheat-sheet)
 * [Android Interview Questions And Answers From Beginner To Advanced](https://www.andreasschrade.com/2017/02/23/android-interview-questions/)
@@ -62,6 +61,7 @@
 * [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 * [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
+* [Top Angular Interview Questions and Answers in 2021](https://hackr.io/blog/angular-interview-questions)
 
 ### BackboneJS
 
@@ -74,12 +74,10 @@
 * [1000+ Multiple Choice Questions & Answers in C++ with explanations](http://www.sanfoundry.com/cplusplus-interview-questions-answers/)
 * [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
 * [24 Essential C++ Interview Questions from Toptal](http://www.toptal.com/c-plus-plus/interview-questions)
-* [C++ Interview Questions and Answers for Freshers and Experienced developers](http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers)
 * [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
-* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/blogcplusplus-interview-questions/)
 
 ### C
 
@@ -95,7 +93,6 @@
 
 * [15 Essential C# Interview Question from Toptal](http://www.toptal.com/c-sharp/interview-questions)
 * [C# interview questions from dotnetfunda.com](http://www.dotnetfunda.com/interviews/cat/6/csharp)
-* [Top 100 C# Interview Questions and Answers](http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers)
 * [Top 50 C# Interview Questions & Answers](http://career.guru99.com/top-50-c-sharp-interview-questions-answers/)
 * [50 C# Coding Interview Questions and Answers](https://www.techbeamers.com/csharp-coding-interview-questions-developers/)
 * [20 C# OOPS Interview Questions and Answers](https://www.techbeamers.com/csharp-oops-interview-questions-answers/)
@@ -124,7 +121,7 @@
 * [Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
-* [CSS Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
+* [Front End Interview Handbook - CSS Questions and Answers](https://frontendinterviewhandbook.com/css-questions/)
 
 ### Cucumber
 
@@ -146,6 +143,11 @@
 * [30 Docker Interview Questions and Answers in 2019](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 * [Docker Interview Questions & Answers](https://www.interviewbit.com/docker-interview-questions/)
 * [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
+* [Top 50+ Docker Interview Questions and Answers in 2021](https://www.techgeekbuzz.com/top-docker-interview-questions/)
+
+### Elastic
+
+* [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 
 ### EmberJS
 
@@ -175,7 +177,7 @@
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
 * [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
-* [HTML Questions and Answers](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md)
+* [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
 * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
 * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
 
@@ -252,7 +254,7 @@
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
 * [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
-* [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+* [Front End Interview Handbook - JavaScript Questions and Answers](https://frontendinterviewhandbook.com/javascript-questions/)
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
 * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
@@ -263,6 +265,7 @@
 
 * [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
 * [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
+* [Top JQuery Interview Questions and Answers](https://www.techgeekbuzz.com/top-jquery-interview-questions/)
 
 
 ### Front-end build tools
@@ -296,6 +299,7 @@
 * [Top 30 Node.Js Interview Questions With Answers](https://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
 * [Top Nodejs Interview Questions & Answers](https://www.interviewbit.com/node-js-interview-questions/)
 * [Node.js Interview Questions in Chinese](https://github.com/haizlin/fe-interview/blob/master/category/nodejs.md)
+* [Node.js Interview Questions by learning-zone](https://github.com/learning-zone/nodejs-interview-questions)
 
 ### Objective-C
 
@@ -349,13 +353,11 @@
 ### ReactJS
 
 * [Reddit users share their expectations from ReactJS interview](https://www.reddit.com/r/reactjs/comments/3m5equ/react_what_interview_questions_to_expect/)
-* [This is a first in the series of interview questions related to ReactJS](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1)
-* [This quiz intends to test your understanding of ReactJS fundamentals (Set 3)](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3)
-* [This quiz intends to test your understanding of ReactJS fundamentals](http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2)
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [19 Essential ReactJs Interview Questions](https://www.educba.com/reactjs-interview-questions/)
+* [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 ### Ruby
 
@@ -526,7 +528,7 @@
 * [EKAlgorithms contains some well known CS algorithms & data structures](https://github.com/EvgenyKarkan/EKAlgorithms)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
-* [Top Algorithms Questions by Topics](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms/README.md)
+* [Tech Interview Handbook Best Practice Questions](https://techinterviewhandbook.org/best-practice-questions/)
 * [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
 ## Blockchain
@@ -549,7 +551,7 @@
 
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
-* [Answers to Front End Developer Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/README.md)
+* [Front End Interview Handbook](https://frontendinterviewhandbook.com/)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 
 ## Design Patterns
@@ -576,7 +578,6 @@
 * [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 * [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 * [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
-* [Security Interview Questions (and Answers) from Matthew Adeline](https://mkadeline.github.io/security/Security-Interview-Questions-Answers)
 
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)
@@ -586,6 +587,7 @@
 * [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 * [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 * [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
+* [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/) 
 
 ### License
 

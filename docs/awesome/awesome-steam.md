@@ -19,7 +19,7 @@
 
 #### General
 
-- [steam](https://github.com/seishun/node-steam) - 从 Node.js 直接与 Steam 服务器接口.
+- [steam](https://github.com/seishun/node-steam) - 直接与来自 Node.js 的 Steam 服务器接口.
 - [steam-client](https://github.com/DoctorMcKay/node-steam-client) - node-steam 的 SteamClient 的 API 兼容分支.
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - 功能丰富且易于使用的 Steam 客户端.
 - [vapor](https://github.com/scholtzm/vapor) - 轻量级 Steam 客户端框架.
@@ -34,8 +34,8 @@
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) - 围绕 Steam 实时交易的 Node.js 包装器.
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Node.js 的 Steam 交易优惠.
-- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - 简单而理智的 Steam 交易报价管理.
-- [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) - 以可读流的形式获取库存.
+- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
+- [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) - 获取库存作为可读流.
 - [steam-inventory-api-ng](https://github.com/itsjfx/node-steam-inventory-api-ng) - 具有重试和代理支持等高级功能的 Steam 库存 API 包装器.
 
 #### Game Interaction
@@ -51,7 +51,7 @@
 - [steamstore](https://github.com/DoctorMcKay/node-steamstore) - 与 store.steampowered.com 互动.
 - [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) - 如果您运行的是 Steam 网络客户端，请检索 SteamCommunity cookie.
 - [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) - 自动注册和检索 Steam API 密钥.
-- [steam-parental](https://github.com/Alex7Kom/node-steam-parental) - 禁用家长锁定.
+- [steam-parental](https://github.com/Alex7Kom/node-steam-parental) - 禁用家长锁.
 
 #### Authentication
 
@@ -84,7 +84,7 @@
 
 #### Misc
 
-- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - 使用 Steam 凭据登录到 backpack.tf 的 .NET Standard 库.
+- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - 使用 Steam 凭据登录到backpack.tf 的.NET Standard 库.
 - [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - 允许用户与 TF2Outpost 交互的 .NET Standard 类库.
 - [SteamGaugesApi](https://github.com/igeligel/SteamGaugesApi) - 一个 .NET Standard 2.0 库，用于自动使用 [steamgauges](https://steamgaug.es/).
 
@@ -96,7 +96,7 @@
 - [steam-api](https://github.com/DaMitchell/steam-api-php) - Steam API 的 PHP 包装器.
 - [steamid](https://github.com/DoctorMcKay/php-steamid) - PHP 的 SteamID 类.
 - [steam-totp](https://github.com/DoctorMcKay/php-steam-totp) - 处理 Steam 专有 TOTP 算法的 PHP 库.
-- [steam-auth](https://github.com/vikas5914/steam-auth) - 具有 Composer 支持的替代 Steam 身份验证库.
+- [steam-auth](https://github.com/vikas5914/steam-auth) - 具有 Composer 支持的替代 Steam 身份验证库。
 
 ### Go
 
@@ -188,12 +188,11 @@
 
 - [backpack.tf](https://backpack.tf/developer) - 提供 TF2 价格和 Steam 市场/库存相关服务.
 - [steamanalyst.com](https://steamanalyst.com/) - 提供 CS:GO 价格.
-- [steamapi.io](https://steamapi.io/) - 提供多种游戏和 Steam 市场/库存相关服务的价格.
+- [hexa.one](https://hexa.one/) - 提供多种游戏和 Steam 市场/库存相关服务的价格.
 - [steamapis.com](https://steamapis.com/) - 提供多种游戏和 Steam 市场/库存相关服务的价格.
-- [steamlytics.xyz](https://steamlytics.xyz/) - 提供 CS:GO 价格和 Steam 市场/库存相关服务.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，本文的作者和贡献者已放弃对本作品的所有版权和相关或邻接权.
