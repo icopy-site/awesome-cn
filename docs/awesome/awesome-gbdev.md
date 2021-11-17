@@ -74,7 +74,7 @@
 >
 > #### Game Boy Color and Super Game Boy
 >
-&gt; 此列表重点关注最初的 *Game Boy*（GB 或 DMG，1989）、*Game Boy Color*（GBC 或 CGB）和 *Super Game Boy* (SGB) 是非常相似的系统，但有一些重要的系统区别，例如：
+&gt; 此列表重点关注原始 *Game Boy*（GB 或 DMG，1989）、*Game Boy Color*（GBC 或 CGB）和 *Super Game Boy* (SGB) 是非常相似的系统，但有一些重要的系统区别，例如：
 >
 &gt;- 不同的硬件规格；
 &gt;- 特定的硬件和软件功能；
@@ -92,7 +92,7 @@
 ## Documentation
 
 - [**Pan Docs**](https://gbdev.github.io/pandocs/)  - 向公众提供的关于 Game Boy 的单一、最全面的技术参考. 由社区更正、更新和维护.
-- [The Cycle-Accurate Game Boy Docs](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - AntonioND 提供的精确文档，用于制作周期精确的 Game Boy 模拟器.
+- [The Cycle-Accurate Game Boy Docs](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - AntonioND 的精确文档，用于制作周期精确的 Game Boy 模拟器.
 - [Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) - 盖奇奥.
 - [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - 硬件报告 [emulator](https://github.com/kitsuneh/SVGameBoy) （在 Terasic DE1-SoC 板上）作为哥伦比亚大学 CSEE4840 嵌入式系统设计课程的最终项目开发.
 
@@ -114,7 +114,7 @@
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - 提供有关实现三个 8 位双向并行端口的硬件和详细结构信息的研究.
 - [Related custom hardware](https://github.com/Gekkio/gb-hardware) - 盖奇奥.
 - [ESP8266 GB Dev Board](https://github.com/applefreak/esp8266-gameboy-dev-board) - 用于 Game Boy 配件开发的开发板，由 ESP8266 提供支持.
-- [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 模拟 GB 打印机并允许您使用 WiFi 检索图像的设备.
+- [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 模拟 GB 打印机并让您使用 WiFi 检索图像的设备.
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - 包含大量有关硬件、自定义板以与控制台和其他相关项目交互的信息的页面.
 - [Game Boy hardware database](https://gbhwdb.gekkio.fi/) - 各种类型的 Game Boy 游戏机的数据和照片.
 - [DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside) - 从芯片照片中提取的 DMG-CPU-B 芯片的示意图和带注释的覆盖图.
@@ -130,11 +130,11 @@
   - [Infrared Madness](https://shonumi.github.io/articles/art11.html) - Game Boy Color 上的红外通信.
   - [Game Boy 4-Player Adapter](https://shonumi.github.io/articles/art9.html) - DMG-07.
   - [Barcode Boy](https://shonumi.github.io/articles/art7.html) - 第一个 Game Boy 卡片扫描仪.
-  - [Barcode Taisen Bardigun](https://shonumi.github.io/articles/art6.html) - 90 年代后期 DMG-GBC 条码阅读器.
+  - [Barcode Taisen Bardigun](https://shonumi.github.io/articles/art6.html) - 90 年代后期的 DMG-GBC 条码阅读器.
 - [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 - [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) - 有关 GB 相机的文档以及用于通过使用 Arduino 对其进行逆向工程的工具.
 - [Creating photo realistic images with neural networks and a Gameboy Camera](http://www.pinchofintelligence.com/photorealistic-neural-network-gameboy/)
-- [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - 关于打印机硬件、通信协议和游戏用于实现打印功能的常用例程的深入技术文档.
+- [The Game Boy Printer](https://shonumi.github.io/articles/art2.html) - 有关打印机硬件、通信协议和游戏用于实现打印功能的常用例程的深入技术文档.
 - [Ben Heck Reverse Engineers Game Boy Printer](https://www.youtube.com/watch?v=43FfJvd-YP4) （勘误：用过的热敏纸已过期，实际可打印4种颜色）.
 - [Arduino Game Boy Printer Emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - 通过带有 Arduino 的 Game Boy Link 电缆模拟 Game Boy 打印机.
 - [Mobile Game Boy Adapter](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
@@ -148,7 +148,7 @@
   - [DMG-BEAN-02](http://gekkio.fi/blog/2015-05-18-mooneye-gb-cartridge-analysis-dmg-bean-02.html);
   - [MBC1](http://gekkio.fi/blog/2015-05-17-mooneye-gb-cartridge-analysis-fortress-of-fear.html);
   - [no MBC](http://gekkio.fi/blog/2015-02-28-mooneye-gb-cartridge-analysis-tetris.html).
-- 在 Tauwasser 的 wiki 上，引脚排列、寄存器描述和一些墨盒类型的 VHDL 代码：
+- Tauwasser&#39;s wiki 上的引脚分配、寄存器描述和一些墨盒类型的 VHDL 代码：
   - [MBC1](https://wiki.tauwasser.eu/view/MBC1)
   - [MBC2](https://wiki.tauwasser.eu/view/MBC2)
   - [MMM01](https://wiki.tauwasser.eu/view/MMM01)
@@ -156,7 +156,7 @@
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) - Jeff Frohwein 的第一个原理图.
 - [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) - 并解释这些 MBC 银行如何切换和控制 RAM.
-- [GB Rom List](CartridgeList.csv) - 发布的每款游戏的导航表，其中包含有关其弹药筒的详细信息.
+- [GB Rom List](CartridgeList.csv) - 发布的每款游戏的导航表，其中包含有关其墨盒的详细信息.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
 
 
@@ -188,7 +188,7 @@
 - [Building a Game Boy emulator in JavaScript](http://imrannazar.com/gameboy-Emulation-in-JavaScript) - 分步教程.
 - [Writing a Game Boy emulator, Cinoop](https://cturt.github.io/cinoop.html)
 - [0dmg](https://jeremybanks.github.io/0dmg/2018/05/23/getting-started.html) - 通过构建部分 Game Boy 模拟器来学习 Rust.
-- [RealBoy Emulator](https://realboyemulator.wordpress.com/posts/) - 一系列关于 RealBoy 模拟器的设计和实现的帖子.
+- [RealBoy Emulator](https://realboyemulator.wordpress.com/posts/) - 关于 RealBoy 模拟器的设计和实现的一系列帖子.
 - [Codeslinger](http://www.codeslinger.co.uk/pages/projects/gameboy.html) - 记录模拟器构建的另一系列帖子.
 - [Why did I spend 1.5 months creating a Gameboy emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/) - 博客文章.
 - [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) - 实现 *rewind- 功能.
@@ -222,7 +222,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Compilers
 
-- [GBDK](https://github.com/gbdk-2020/gbdk-2020/)  - 维护和现代化的 GBDK（Game Boy 开发工具包）由 SDCC 工具链的更新版本提供支持. 提供 C 编译器、汇编器、链接器和一组库. 
+- [GBDK](https://github.com/gbdk-2020/gbdk-2020/)  - 维护和现代化的 GBDK（Game Boy 开发工具包）由 SDCC 工具链的更新版本提供支持. 提供一个 C 编译器、汇编器、链接器和一组库. 
   - [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
   - [Examples](https://github.com/mrombout/gbdk_playground)
   - [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
@@ -233,7 +233,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [RGBDS-Live](https://daid.github.io/rgbds-live/) - 浏览器内编码环境以试用 RGBDS.
 - [Wiz](https://github.com/wiz-lang/wiz) - 一种用于在复古控制台平台（Game Boy、NES、Atari 2600 等）上编写自制软件的高级汇编语言.
 - [gbforth](https://github.com/ams-hackers/gbforth) - 基于 Forth 的 Game Boy 开发工具包.
-- [gbasm-rs](https://gitlab.com/BonsaiDen/gbasm-rs) - 适用于 Game Boy z80 汇编代码的固执的基于 Rust 的编译器.
+- [gbasm-rs](https://gitlab.com/BonsaiDen/gbasm-rs) - Game Boy z80 汇编代码的基于 Rust 的固执己见的编译器.
 - [gbasm](https://github.com/BonsaiDen/gbasm) - 基于 JavaScript 的 Game Boy z80 汇编代码编译器.
 - [tniASM](http://www.tni.nl/products/tniasm.html) - 宏汇编程序.
 - [Assembler](https://github.com/ulrikdamm/Assembler) - 用 Swift 编写的汇编程序.
@@ -284,7 +284,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) - 简约的 ncurses 磁贴编辑器.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) - 自定义 GB/GBC 内存/硬件映射器的定义和规范，作为 MBC 的功能超集.
 - [libstdgb](https://github.com/delwink/libstdgb) - 有用的 Game Boy 操作 (SDCC) 的 AC 库.
-- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP 图像编辑器插件，用于导入和导出 GBMB 和 GBTD tilemaps 和tilesets（作为位图图像或.GBM/.GBR 文件）.
+- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) - GIMP 图像编辑器插件，用于导入和导出 GBMB 和 GBTD 图块图和图块集（作为位图图像或 .GBM/.GBR 文件）.
 - [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) - 用于优化瓦片地图和瓦片集的 GIMP 图像编辑器插件.
 - [Tilemap Studio](https://github.com/Rangi42/tilemap-studio)  - 适用于 Game Boy、Color、Advance 和 SNES 项目的瓷砖地图编辑器. 用 FLTK 用 C++ 编写. 
 - [Superfamiconv](https://github.com/Optiroc/SuperFamiconv) - 灵活且可组合的磁贴图形转换器，支持 Super Nintendo、Game Boy、Game Boy Color、Game Boy Advance、Mega Drive 和 PC Engine 格式.
@@ -294,18 +294,19 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [cart-dumper](https://github.com/Palmr/cart-dumper) - Game Boy Cartridge Dumper ROM.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) - 从 Game Boy 相机保存中提取照片.
 - [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - 使用逻辑分析仪嗅探 Game Boy 的 LCD.
-- [swapdump](https://github.com/sanqui/swapdump) - Game Boy flashcart 的诊断实用程序.
+- [swapdump](https://github.com/sanqui/swapdump) - Game Boy 抽认卡的诊断实用程序.
 - [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) - Game Boy LinkUp 串行电缆网络项目.
 
 #### Music drivers and trackers
 
 - [DevSound](https://github.com/DevEd2/DevSound) - 可嵌入自制软件的声音驱动程序，支持脉冲宽度操作、琶音和多种波形.
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - 音乐引擎.
-- [GBT PLAYER](https://github.com/AntonioND/gbt-player) - 音乐播放器库和转换器套件.
+- [GBT PLAYER](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
 - [mmlgb](https://github.com/SimonLarsen/mmlgb) - Nintendo Game Boy 的 MML 解析器和 GBDK 声音驱动程序.
 - [XPMCK](https://github.com/bazzinotti/XPMCK) - 基于 MML 的音乐编译器，支持 Game Boy 和 Game Boy Color.
 - [SoundSystem](https://github.com/gb-archive/GBSoundSystem) - GameBoy Tracker（又名 Paragon 5 音乐播放器）的现代化音频驱动程序.
 - [hUGETracker](https://github.com/SuperDisk/hUGETracker) - 基于 OpenMPT 的音乐跟踪器，专注于易用性、紧凑的输出和自制游戏的嵌入性.
+- [CBT-FX](https://github.com/datguywitha3ds/CBT-FX) - 兼容FX-Hammer音效的GBDK-2020音效驱动.
 
 ## Programming
 
@@ -314,7 +315,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 ### ASM
 
 - **[gb asm tutorial](https://eldred.fr/gb-asm-tutorial)** - 分步教程，构建多个 ROM 以配合其说明.
-- [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - Duo 的一组关于 GB/GBC 汇编代码和反汇编的课程.
+- [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - Duo 的一组关于 GB/GBC 和反汇编的汇编代码课程.
 - [hardware.inc](https://github.com/tobiasvl/hardware.inc) - 包含用于 RGBDS 项目的 Game Boy 硬件定义的标准包含文件.
 - [Assembly tutorial by David Pello](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador_la_decadence.html)  - 学习为 gb 生成工作 asm 代码的好文档. 许多重要主题的简要说明. 许多带有注释源代码的示例.
 - [assemblydigest](https://github.com/assemblydigest/gameboy) - 探索 Game Boy 编程技术：
@@ -322,7 +323,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
   - [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
 - [Beginner's Guide to Reverse Engineering GB](http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm) - 关于反汇编和逆向工程的一些入门技巧.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
-- [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - 逐步实现 Super Game Boy 功能（框架和调色板）的教程.
+- [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - 实现 Super Game Boy 功能（框架和调色板）的分步教程.
 - [GameBoy programming tutorial: Hello World!](https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/) - 分步教程.
 - [DMGreport](https://github.com/lancekindle/DMGreport) - 汇编中的游戏编程教程.
 - [OAM DMA tutorial](https://gbdev.gg8.se/wiki/articles/OAM_DMA_tutorial) - 如何在汇编中使用 OAM DMA 的示例.
@@ -353,7 +354,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [GingerBread](https://github.com/ahrnbom/gingerbread)  - 用于制作您自己的 Game Boy 游戏的软件库. 它是为了与书一起使用 [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd) 这也兼作文档.
 - [gb-vwf](https://github.com/ISSOtm/gb-vwf) - 用于打印可变宽度文本的库，带有演示.
 - [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate) - 用于启动 Game Boy 项目的模板，为基础设施提供 Makefile.
-- [gb-starter-kit](https://github.com/ISSOtm/gb-starter-kit) - 对上述内容的扩展，包括基本库代码以及更快地开始.
+- [gb-starter-kit](https://github.com/ISSOtm/gb-starter-kit) - 对上述内容的扩展，包括基础库代码，以便更快地开始.
 - [gb-template](https://github.com/gb-archive/gb-template) - 具有基本功能的模板，例如手柄输入、DMA 传输和地图/图块数据加载.
 
 #### Syntax highlighting packages
@@ -370,7 +371,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 ### C
 
 - [8-Bit Wonderland](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - 精心编写的介绍性文档，介绍了 Game Boy 的工作原理以及如何开始为其开发工作代码.
-- [Grooves Game Boy Programming](https://github.com/gbdk-salvage/grooves-game-boy-programming) - 有关在 Game Boy 游戏中实施各种游戏机制的完整课程.
+- [Grooves Game Boy Programming](https://github.com/gbdk-salvage/grooves-game-boy-programming) - 一套关于在 Game Boy 游戏中实现各种游戏机制的完整课程.
 - [How to Write a Simple Side Scrolling Game](http://pastebin.com/F3tHLj68) - 旧的（但仍然相关）教程.
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
 - [GBDK Tutorial](https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/) - 相当小的 GBDK 入门游戏演示.
@@ -380,13 +381,13 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Game Boy home of Flavor](https://web.archive.org/web/20210427064949/www.personal.triticom.com/~erm/GameBoy/) - 一些完整的游戏和资源.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - 配置 GBDK、使用瓷砖、碰撞精灵、GBTD、GBMB、内存管理和 ROM 银行.
 - [Simplified GBDK examples](https://github.com/mrombout/gbdk_playground)
-- [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - 一系列向初学者介绍 GBDK 编程的视频教程.
+- [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - 一系列视频教程，介绍初学者使用 GBDK 进行编程.
 
 ## Homebrews
 
 完整的开源游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) - 为 Game Boy 制作的每个非官方自制软件都可在线玩（移动/触摸）：社区主导的尝试收集、存档和保存社区制作的 Game Boy（彩色）的每个非官方游戏、自制软件、演示、补丁、hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) - 为 Game Boy 制作的每个非官方自制软件都可以在线玩（移动/触摸）：社区主导的尝试收集、存档和保存社区制作的 Game Boy（颜色）的每个非官方游戏、自制软件、演示、补丁、hackrom通过多年的热情工作.
 
 ### ASM
 
@@ -398,7 +399,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [µCity](https://github.com/AntonioND/ucity)
 - [Carazu](https://github.com/mholtkamp/carazu)
 - [Snake-gb](https://github.com/DonaldHays/snake-gb)
-- [GB303](https://github.com/furrtek/GB303) - 用于 Nintendo Game Boy 的基于 GB303 波表的 TB-303 风格合成器.
+- [GB303](https://github.com/furrtek/GB303) - 用于任天堂 Game Boy 的基于 GB303 波表的 TB-303 风格合成器.
 - [Sushi](https://github.com/JustSid/Sushi)
 - [Flappy-boy-asm](https://github.com/bitnenfer/flappy-boy-asm)
 - [kupman](https://github.com/dubvulture/gbdev) 和其他一些项目.
@@ -483,7 +484,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - 使用radare2逆向工程Game Boy ROM挑战的演练.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - 一系列关于拆卸 Link&#39;s Awakening DX 的博客文章.
 - [Reverse Engineering the GameBoy Tetris](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
-- [DMA hijacking](https://gbdev.io/articles/dma_hijacking) - 一种简单的技术，允许您在大多数 GB/SGB/CGB 游戏中运行自定义代码，前提是您拥有 ACE 漏洞.
+- [DMA hijacking](https://gbdev.io/articles/dma_hijacking) - 一种简单的技术，允许您在大多数 GB/SGB/CGB 游戏中运行自定义代码，前提是您有 ACE 漏洞.
 
 ### Game Disassemblies
 
@@ -507,7 +508,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 Game Boy 打印机仿真（例如从相机检索图像）：
 
 - [Arduino Gameboy Printer Emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - 通过 gameboy 链接电缆模拟 gameboy 打印机. 
-- [ESP8266 Game Boy Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 模拟 Gameboy 打印机并让您使用由 ESP8266 供电的 WiFi 检索图像的设备.
+- [ESP8266 Game Boy Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 一种模拟 Gameboy 打印机的设备，可让您使用由 ESP8266 供电的 WiFi 检索图像.
 - [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator) - GameBoy 打印机模拟器，可通过 WiFi 连接提供接收到的数据.
 - [Game Boy WiFi Printer - D1 Mini Shield](https://github.com/cristofercruz/gbp-esp-shield-pcb) - 适用于 D1 mini/mini Pro ESP8266 板的 Game Boy 打印机接口屏蔽. 
 - [Game Boy Printer Sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) - 嗅探 Game Boy 和打印机之间的数据包通信.
@@ -524,19 +525,18 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 
 - [Game Boy Printer Paper Simulation](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - 生成数字打印图像的打印图像.
 - [Game Boy Printer Web](https://github.com/HerrZatacke/gb-printer-web) - 用于 Game Boy 相机的图库应用程序：从导出或墨盒转储中导入图片并选择调色板.
-- [lbcam](https://lbcam.xyz/) - 使用网络摄像头模拟 Game Boy 相机.
 
 ## Related projects
 
 - [GB Studio](https://www.gbstudio.dev/) - 使用简单、无需知识的可视化脚本拖放游戏创建者.
   - [Resources to get started](https://gbstudiocentral.com/resources/)
   - [Dedicated Discord](https://discord.gg/knRryZWGcm)
-- [ArduinoBoy](https://github.com/trash80/Arduinoboy) - 从 Arduino 到 Game Boy 的串行通信 (MIDI)，用于音乐应用程序，例如 LittleSoundDJ、Nanoloop 和 mGB.
+- [ArduinoBoy](https://github.com/trash80/Arduinoboy) - 从 Arduino 到 Game Boy 的串行通信 (MIDI)，适用于 LittleSoundDJ、Nanoloop 和 mGB 等音乐应用程序.
 - [papiGB](https://github.com/diegovalverde/papiGB) - 从头开始​​的 Game Boy Classic 全功能 FPGA 实现.
 - [fpgaboy](https://github.com/trun/fpgaboy) - 在 FPGA 上实现任天堂的 Game Boy 控制台.
-- [Piglet](https://github.com/danShumway/Piglet)  - 一个 LUA 驱动的人工智能，可以通过实验来玩经典的 Game Boy 彩色游戏. 在积极发展.
+- [Piglet](https://github.com/danShumway/Piglet)  - 一个 LUA 驱动的 AI，可以通过实验来玩经典的 Game Boy 彩色游戏. 在积极发展.
 - [Ostrich](https://github.com/PumpMagic/ostrich) - 用 Swift 编写的 Game Boy Sound System 播放器.
-- [mGB](https://github.com/trash80/mGB) - 一个 Game Boy 卡带程序，使 Game Boy 能够充当完全支持 MIDI 的声音模块.
+- [mGB](https://github.com/trash80/mGB) - 一个 Game Boy 卡带程序，使 Game Boy 能够作为一个完全支持 MIDI 的声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未记录的 Game Boy Color 寄存器，昵称为 PCM12 (FF76) 和 PCM34 (FF77)，可用于读取 4 个 APU 通道的当前 PCM 幅度.
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - 基于 Arduino 的 Game Boy 墨盒读写器.
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf*ck 翻译.
@@ -550,7 +550,7 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 - [Programming Game Boy Chinese cartridges with an STM32F4](https://dhole.github.io/post/gameboy_cartridge_rw_1/)
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - 绕过任天堂标志检查.
- - 在 2017 年制作 Game Boy 游戏：“羊起来！” 验尸（[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
+ - 在 2017 年制作 Game Boy 游戏：“Sheep It Up！” 验尸（[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
 - [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒都必须显示真实的标志才能被视为有效和运行，但显然有些公司设法利用了检查系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) - 用于与 LSDj 保存格式 (.sav)、歌曲文件 (.lsdsng) 等交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) - 用于修改 LSDj ROM 图像上的示例、字体和调色板的工具.
@@ -560,8 +560,8 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 - [Game Boy Link Cable Breakout Board](https://github.com/Palmr/gb-link-cable)
 - [GBCartFlasher firmware](https://github.com/Tauwasser/GBCartFlasher)
 - [VerilogBoy](https://github.com/zephray/VerilogBoy/) - Game Boy 兼容控制台 Verilog RTL 实现.
-- [GBCamcorder](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
-- [GBCartRead](https://github.com/insidegadgets/GBCartRead) - 从/向 GameBoy Cartridge 读取 ROM、读取 RAM 或写入 RAM.
+- [GBCamcorder](https://github.com/furrtek/GBCamcorder) - 使用 GameBoy 相机墨盒的 Lo-Fi 便携式录像机.
+- [GBCartRead](https://github.com/insidegadgets/GBCartRead) - 从/向 GameBoy 墨盒读取 ROM、读取 RAM 或写入 RAM.
 - [GBxCart-RW](https://github.com/insidegadgets/GBxCart-RW) - 用于通过 USB 从您的 PC 读取游戏 ROM、保存游戏和恢复保存为 GB、GBC 和 GBA 购物车的设备.
 - [Dumping the Super Game Boy Boot ROM](http://www.its.caltech.edu/~costis/sgb_hack/)
 
@@ -575,7 +575,7 @@ Game Boy 打印机仿真（例如从相机检索图像）：
 
 - [devrs.com/gb](http://devrs.com/gb) - 场景的老家：示例、来源、完整的文档、指南、教程和各种工具.
 - [pdroms.de](http://pdroms.de/news/gameboy/) - Game Boy 发布.
-- [Handheld Underground](http://hhug.me) - 未经许可的游戏，关于 Game Boy 的博文，hhugboy 模拟器的故乡.
+- [Handheld Underground](http://hhug.me) - 未经许可的游戏，关于 Game Boy 的博文，hhugboy 模拟器之家.
 
 
 ## About

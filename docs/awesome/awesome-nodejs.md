@@ -3,6 +3,12 @@
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
+		<br>
+		<br>
+		<br>
+		<h3><a href="https://www.producthunt.com/posts/pandan">我的 macOS 应用 Pandan 在 Product Hunt</a></h3>
+		<br>
+		<br>
 	</div>
 	<br>
 	<hr>
@@ -29,11 +35,11 @@
 			<div>
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
 			</div>
-			<b>所有环境变量，集中在一处</b>
+			<b>您所有的环境变量，在一个地方</b>
 			<div>
-				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
+				<sub>不要再为分散的 API 密钥苦苦挣扎，不要再将自制工具组合在一起了，</sub>
 				<br>
-				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
+				<sup>并避免访问控制.</sup> <sup>使您的团队和服务器与多普勒同步.</sup>
 			</div>
 		</a>
 		<br>
@@ -76,7 +82,7 @@
 			<b>为云构建的开发环境</b>
 			<div>
 				<sub>
-				与 GitLab、GitHub 和 Bitbucket 原生集成，Gitpod 自动持续地预构建开发
+				与 GitLab、GitHub 和 Bitbucket 原生集成，Gitpod 自动持续预构建开发
 				<br>
 				所有分支机构的环境. 因此，团队成员可以立即开始使用全新的开发环境进行编码
 				<br>
@@ -120,7 +126,7 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - 流洪流客户端.
 - [dat](https://github.com/datproject/dat-node) - 数据集的实时复制和版本控制.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 分布式文件系统，旨在将所有计算设备与相同的文件系统连接起来.
-- [stackgl](https://github.com/stackgl) - 开放的 WebGL 软件生态系统，建立在 browserify 和 npm 之上.
+- [stackgl](https://github.com/stackgl) - 建立在 browserify 和 npm 之上的面向 WebGL 的开放软件生态系统.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将洪流视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
@@ -142,7 +148,7 @@
 
 ### Command-line apps
 
-- [np](https://github.com/sindresorhus/np) - 更好的 `npm 发布`.
+- [np](https://github.com/sindresorhus/np) - 更好的`npm 发布`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - 在 npm 上检查包名称的可用性.
 - [gh-home](https://github.com/sindresorhus/gh-home) - 在当前目录中打开 repo 的 GitHub 页面.
 - [npm-home](https://github.com/sindresorhus/npm-home) - 打开包的 npm 页面.
@@ -164,7 +170,7 @@
 - [David](https://github.com/alanshaw/david) - 告诉您您的包 npm 依赖项何时过时.
 - [http-server](https://github.com/indexzero/http-server) - 简单的零配置命令行 HTTP 服务器.
 - [Live Server](https://github.com/tapio/live-server) - 开发具有 livereload 功能的 HTTP 服务器.
-- [bcat](https://github.com/kessler/node-bcat) - 管道命令输出到网络浏览器.
+- [bcat](https://github.com/kessler/node-bcat) - 将命令输出通过管道传送到 Web 浏览器.
 - [normit](https://github.com/pawurb/normit) - 在您的终端中使用语音合成进行 Google 翻译.
 - [fkill](https://github.com/sindresorhus/fkill-cli)  - 惊人地杀死进程. 跨平台.
 - [pjs](https://github.com/danielstjules/pjs)  - 可管道化的 JavaScript. 从终端快速过滤、映射和减少.
@@ -175,8 +181,8 @@
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - 更改桌面壁纸.
 - [brightness](https://github.com/kevva/brightness-cli) - 更改屏幕亮度.
 - [torrent](https://github.com/maxogden/torrent) - 下载种子.
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
-- [alex](https://github.com/wooorm/alex) - 抓住不敏感、不体贴的写作.
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 删除所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
+- [alex](https://github.com/wooorm/alex) - 捕捉不敏感、不体贴的写作.
 - [pen](https://github.com/noraesae/pen) - 从您最喜欢的编辑器在浏览器中实时预览 Markdown.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - 电影和电视剧的字幕下载器.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换 macOS 黑暗模式.
@@ -205,14 +211,14 @@
 
 ### Functional programming
 
-- [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 一个更好更快的 Underscore.js.
+- [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 更好更快的 Underscore.js.
 - [immutable](https://github.com/facebook/immutable-js) - 不可变的数据集合.
 - [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) - 用于在 JavaScript 中进行泛型函数式编程的库套件，允许您编写具有更少错误和更多重用性的优雅、模块化的应用程序.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别在于您可以选择仅加载您需要的模块/功能，没有额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) - 函数式反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
-- [Lazy.js](https://github.com/dtao/lazy.js) - 类似于 lodash/Underscore 的实用程序库，但具有惰性求值，在许多情况下可以转化为卓越的性能.
+- [Lazy.js](https://github.com/dtao/lazy.js) - 类似于 lodash/Underscore 的实用程序库，但具有惰性求值，这在许多情况下可以转化为卓越的性能.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 专注于高性能和低内存使用的反应式库.
 
 ### HTTP
@@ -245,7 +251,7 @@
 - [stackman](https://github.com/watson/stackman) - 使用代码摘录和其他好东西增强错误堆栈跟踪.
 - [locus](https://github.com/alidavut/locus) - 在运行时启动一个可以访问所有变量的 REPL.
 - [0x](https://github.com/davidmarkclements/0x) - 火焰图分析.
-- [ctrace](https://github.com/automation-stack/ctrace) - 格式良好且经过改进的跟踪系统调用和信号.
+- [ctrace](https://github.com/automation-stack/ctrace) - 格式良好和改进的跟踪系统调用和信号.
 - [leakage](https://github.com/andywer/leakage) - 编写内存泄漏测试.
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，可让您检查对象并从崩溃的 Node.js 进程中获取见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用程序捕获不同的 CPU、内存和其他配置文件.
@@ -274,13 +280,13 @@
 - [conf](https://github.com/sindresorhus/conf) - 对您的应用程序或模块进行简单的配置处理.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于操作终端的 ANSI 转义码.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - 各种日志级别的彩色符号.
-- [figures](https://github.com/sindresorhus/figures) - 带有 Windows CMD 回退的 Unicode 符号.
+- [figures](https://github.com/sindresorhus/figures) - Unicode 符号与 Windows CMD 回退.
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建框.
 - [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
-- [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该进程.
+- [first-run](https://github.com/sindresorhus/first-run) - 检查该进程是否是第一次运行.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否类似的值.
@@ -302,7 +308,7 @@
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - 让未处理的承诺拒绝大声失败，而不是默认的静默失败.
 - [sparkly](https://github.com/sindresorhus/sparkly) - 生成迷你图`▂▃▅▂▇`.
 - [Bit](https://github.com/teambit/bit) - 创建、维护、查找和使用跨存储库的小模块和组件.
-- [gradient-string](https://github.com/bokub/gradient-string) - 终端输出中的美丽颜色渐变.
+- [gradient-string](https://github.com/bokub/gradient-string) - 终端输出中美丽的颜色渐变.
 - [oclif](https://github.com/oclif/oclif) - 带有解析器、自动文档、测试和插件的 CLI 框架.
 - [term-size](https://github.com/sindresorhus/term-size) - 可靠地获取终端窗口大小.
 - [Cliffy](https://github.com/drew-y/cliffy) - 交互式 CLI 的框架.
@@ -317,8 +323,8 @@
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
 - [Start](https://github.com/deepsweet/start) - 具有可共享预设的功能性任务运行器.
 - [ygor](https://github.com/shannonmoeller/ygor) - 当 `npm run` 不够用而其他一切都太多时，有希望的任务运行器.
-- [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能的快速构建系统，以及一流的 TypeScript 支持.
-- [pkg](https://github.com/zeit/pkg) - 将您的 Node.js 项目打包成可执行文件.
+- [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能的快速构建系统，具有一流的 TypeScript 支持.
+- [pkg](https://github.com/zeit/pkg) - 将您的 Node.js 项目打包成一个可执行文件.
 
 ### Hardware
 
@@ -342,11 +348,11 @@
 ### Web frameworks
 
 - [Hapi](https://github.com/hapijs/hapi) - 构建应用程序和服务的框架.
-- [Koa](https://github.com/koajs/koa) - 由 Express 背后的团队设计的框架，旨在成为 Web 应用程序和 API 的更小、更具表现力和更强大的基础.
+- [Koa](https://github.com/koajs/koa) - 由 Express 背后的团队设计的框架，旨在为 Web 应用程序和 API 提供更小、更具表现力和更强大的基础.
 - [Express](https://github.com/expressjs/express) - Web 应用程序框架，为构建单页和多页以及混合 Web 应用程序提供了一组强大的功能.
 - [Feathers](https://github.com/feathersjs/feathers) - 本着 Express 精神构建的微服务框架.
 - [LoopBack](https://github.com/strongloop/loopback-next) - 用于创建 REST API 和轻松连接到后端数据源的强大框架.
-- [Meteor](https://github.com/meteor/meteor)  - 一个超简单的、随处可见的数据库、在线数据、纯 Javascript 的 Web 框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
+- [Meteor](https://github.com/meteor/meteor)  - 一个超简单的、无处不在的数据库、在线数据、纯 Javascript 的 Web 框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](https://github.com/restify/node-restify) - 使您能够构建正确的 REST Web 服务.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - 支持 ES2015+、WebSockets、REST API 的框架.
 - [ActionHero](https://github.com/actionhero/actionhero) - 为 TCP 套接字、WebSockets 和 HTTP 客户端制作可重用和可扩展的 API 的框架.
@@ -415,7 +421,7 @@
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准 JavaScript 和 Node-like Streams 轻松管理同步和异步代码.
 - 回调
 	- [each-async](https://github.com/sindresorhus/each-async) - 像 forEach 这样的异步并发迭代器.
-	- [async](https://github.com/caolan/async) - 为处理异步性提供直接、强大的功能.
+	- [async](https://github.com/caolan/async) - 提供用于处理异步性的直接、强大的功能.
 - 频道
 	- [js-csp](https://github.com/ubolonton/js-csp) - 为 JavaScript 通信顺序进程（如 Clojurescript core.async 或 Go）.
 
@@ -442,12 +448,12 @@
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) - 高度可扩展的 WebSocket 服务器和客户端库.
 - [Socket.io](https://github.com/socketio/socket.io) - 启用实时双向基于事件的通信.
 - [Faye](https://github.com/faye/faye) - 基于 Bayeux 协议的实时客户端-服务器消息总线.
-- [SocketCluster](https://github.com/SocketCluster/socketcluster) - 可在多个 CPU 内核上运行的可扩展 HTTP + WebSocket 引擎.
+- [SocketCluster](https://github.com/SocketCluster/socketcluster) - 可扩展的 HTTP + WebSocket 引擎，可以在多个 CPU 内核上运行.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - 可扩展的实时微服务框架.
 - [Kalm](https://github.com/kalm/kalm.js) - 低级套接字路由器和中间件框架.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - MQTT 客户端 - 基于 Pub-sub 的消息传递协议，用于在 TCP/IP 之上使用.
-- [rpc-websockets](https://github.com/elpheria/rpc-websockets) - 基于 WebSockets 的 JSON-RPC 2.0 实现.
+- [rpc-websockets](https://github.com/elpheria/rpc-websockets) - 基于 WebSocket 的 JSON-RPC 2.0 实现.
 - [Aedes](https://github.com/mcollina/aedes) - 可以在任何流服务器上运行的准系统 MQTT 服务器.
 
 ### Image
@@ -468,7 +474,7 @@
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略 ansi 转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - 转义 RegExp 特殊字符.
-- [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个 RegExp 匹配项.
+- [execall](https://github.com/sindresorhus/execall) - 在一个字符串中查找多个 RegExp 匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - 去除字符串中每一行的前导空格.
@@ -485,7 +491,7 @@
 ### Number
 
 - [random-int](https://github.com/sindresorhus/random-int) - 生成一个随机整数.
-- [random-float](https://github.com/sindresorhus/random-float) - 生成随机浮动.
+- [random-float](https://github.com/sindresorhus/random-float) - 生成随机浮点数.
 - [unique-random](https://github.com/sindresorhus/unique-random) - 生成连续唯一的随机数.
 - [round-to](https://github.com/sindresorhus/round-to) - 将数字四舍五入到特定的小数位数：`1.234` → `1.2`.
 
@@ -512,7 +518,7 @@
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - 规范化 URL.
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - 人性化 URL：http://sindresorhus.com → sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - 扩展缩短的 URL.
-- [speakingurl](https://github.com/pid/speakingurl) - 从带有音译的字符串生成一个 slug.
+- [speakingurl](https://github.com/pid/speakingurl) - 从带有音译的字符串生成 slug.
 - [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 unicode 支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) - 比 URL 和其他字符串的正则表达式字符串匹配模式更容易.
 - [embedza](https://github.com/nodeca/embedza) - 使用来自 oEmbed、Open Graph、元标记的信息从 URL 创建 HTML 片段/嵌入.
@@ -531,7 +537,7 @@
 - [remark](https://github.com/wooorm/remark) - 由插件驱动的 Markdown 处理器.
 - [markdown-it](https://github.com/markdown-it/markdown-it) - 具有 100% CommonMark 支持、扩展和语法插件的 Markdown 解析器.
 - [parse5](https://github.com/inikulin/parse5) - 快速、功能齐全的符合规范的 HTML 解析器.
-- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - 从 JSON 中去除注释.
+- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - 从 JSON 中删除评论.
 - [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - 从 CSS 中去除注释.
 - [parse-json](https://github.com/sindresorhus/parse-json) - 使用更有用的错误解析 JSON.
 - [URI.js](https://github.com/medialize/URI.js) - URL 突变.
@@ -540,7 +546,7 @@
 - [neat-csv](https://github.com/sindresorhus/neat-csv)  - 快速 CSV 解析器. 上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 旨在比其他人更快的流式 CSV 解析器.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
-- [x-ray](https://github.com/lapwinglabs/x-ray) - 网页抓取工具.
+- [x-ray](https://github.com/lapwinglabs/x-ray) - 网页抓取实用程序.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单、快速、强大的 JavaScript 解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从 JSON 缓冲区中提取一个值而不解析整个内容.
 - [Stylecow](https://github.com/stylecow/stylecow)  - 解析、操作和转换现代 CSS 以使其与所有浏览器兼容. 可通过插件扩展.
@@ -558,7 +564,7 @@
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换为人类可读的字符串：`1337` → `1.34 kB`.
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 将毫秒转换为人类可读的字符串：`1337000000` → `15d 11h 23m 20s`.
 - [ms](https://github.com/rauchg/ms.js) - 微小的毫秒转换实用程序.
-- [pretty-error](https://github.com/AriaMinaei/pretty-error) - 错误较少混乱.
+- [pretty-error](https://github.com/AriaMinaei/pretty-error) - 较少混乱的错误.
 - [read-art](https://github.com/Tjatse/node-readability) - 从任何页面中提取可读内容.
 
 ### Compression
@@ -603,7 +609,7 @@
 	- [MikroORM](https://github.com/mikro-orm/mikro-orm)  - 基于数据映射器、工作单元和身份映射模式的 TypeScript ORM. 支持 MongoDB、PostgreSQL、MySQL 和 SQLite.
 	- [Prisma](https://github.com/prisma/prisma)  - 现代数据库访问（ORM 替代方案）.  TypeScript 中自动生成和类型安全的查询构建器. 支持 PostgreSQL、MySQL 和 SQLite.
 - 查询生成器
-	- [Knex](https://github.com/tgriesser/knex) - 用于 PostgreSQL、MySQL 和 SQLite3 的查询构建器，设计灵活、可移植且使用有趣.
+	- [Knex](https://github.com/tgriesser/knex) - 用于 PostgreSQL、MySQL 和 SQLite3 的查询构建器，旨在灵活、便携且使用有趣.
 - 其他
 	- [NeDB](https://github.com/louischatriot/nedb) - 用 Ja​​vaScript 编写的嵌入式持久数据库.
 	- [Lowdb](https://github.com/typicode/lowdb) - 由 Lodash 提供支持的小型 JavaScript 数据库.
@@ -629,7 +635,7 @@
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS 包装器以简化浏览器测试脚本.
 - [Nock](https://github.com/pgte/nock) - HTTP 嘲讽和期望.
 - [intern](https://github.com/theintern/intern) - 代码测试堆栈.
-- [toxy](https://github.com/h2non/toxy) - 可破解的 HTTP 代理以模拟故障场景和网络条件.
+- [toxy](https://github.com/h2non/toxy) - 可破解的 HTTP 代理来模拟故障场景和网络条件.
 - [hook-std](https://github.com/sindresorhus/hook-std) - 挂钩和修改标准输出/标准错误.
 - [testen](https://github.com/egoist/testen) - 使用 NVM 在本地运行多个版本的 Node.js 测试.
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于 Selenium WebDriver 的自动化 UI 测试框架.
@@ -673,7 +679,7 @@
 
 ### Authorization
 
-- [CASL](https://github.com/stalniy/casl) - UI 和 API 的同构授权.
+- [CASL](https://github.com/stalniy/casl) - UI和API的同构授权.
 - [node-casbin](https://github.com/casbin/node-casbin) - 支持ACL、RBAC和ABAC等访问控制模型的授权库.
 
 ### Email
@@ -719,7 +725,7 @@
 - [node-mac](https://github.com/coreybutler/node-mac) - 作为本机 Mac 守护程序运行脚本并登录到控制台应用程序.
 - [node-linux](https://github.com/coreybutler/node-linux) - 将脚本作为本机系统服务运行并记录到系统日志.
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
-- [supervisor](https://github.com/petruisfan/node-supervisor) - 脚本崩溃时重新启动脚本，或在 `*.js` 文件更改时重新启动.
+- [supervisor](https://github.com/petruisfan/node-supervisor) - 在脚本崩溃时重新启动脚本或在 `*.js` 文件更改时重新启动.
 - [Phusion Passenger](https://github.com/phusion/passenger) - 友好的进程管理器，直接集成到 Nginx 中.
 
 ### Automation
@@ -768,7 +774,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取超级恶棍的名字.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获取一些很酷的 ascii 面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ&quot; `.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄ · ͈ ༝ · ͈˄₎◞ ̑̑ෆ⃛ (= ↀωↀ =) ✧ (^ ･ o ･ ^) ﾉ ”`.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特、星球大战和神奇宝贝等书呆子主题中获取数据.
 
 ### Serialization
@@ -825,19 +831,19 @@
 
 ### Tutorials
 
-- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - Node.js 最佳实践中排名靠前的内容的摘要和策展，以多种语言提供.
+- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - Node.js 最佳实践中排名靠前的内容的总结和整理，以多种语言提供.
 - [Nodeschool](https://github.com/nodeschool) - 通过互动课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新 npm 模块时的一些良好做法.
-- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整哲学存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码.
+- [The Node Way](http://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念存在于编写可维护的模块、可扩展的应用程序和实际上令人愉悦的代码中.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
 
 ### Discovery
 
-- [npms](https://npms.io) - 精湛的包装搜索，使用一个对包装质量的深入分析 [myriad of metrics](https://npms.io/about).
+- [npms](https://npms.io) - 精湛的包装搜索，使用深度分析包装质量 [myriad of metrics](https://npms.io/about).
 - [npm addict](https://npmaddict.com) - 你每天注入的 npm 包.
 - [npmcompare.com](https://npmcompare.com) - 比较和发现 npm 包.
 

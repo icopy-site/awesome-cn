@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="christian-bromann/awesome-selenium"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
+## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test Awesome List](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg)](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml)
 
 &gt; 精心挑选的令人愉快的清单 [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
@@ -22,10 +22,9 @@
 - [SlimerJS](http://slimerjs.org/) - 面向 Web 开发人员的可编写脚本的浏览器.
 - [Nightwatch](http://nightwatchjs.org/) - 高效而直接的 Javascript 端到端测试.
 - [yiewd](https://github.com/jlipps/yiewd)  - 使用最新的 Harmony 生成器的 WD.js 包装器！ 用 yield 摆脱回调金字塔.
-- [Karma](http://karma-runner.github.io/0.12/index.html) - 为开发人员带来一个高效的测试环境进行单元测试（主要是 AngularJS）.
+- [Karma](http://karma-runner.github.io/0.12/index.html) - 为开发人员提供一个高效的测试环境进行单元测试（主要是 AngularJS）.
 - [Protractor](https://angular.github.io/protractor/) - Protractor 是 AngularJS 应用程序的端到端测试框架.
 - [CodeceptJS](http://codecept.io/) - NodeJS 的现代验收测试框架.
-- [Nightmare.js](http://www.nightmarejs.org/) - 高级浏览器自动化库.
 
 #### Ruby
 
@@ -60,7 +59,7 @@
 - [Selenide](https://github.com/codeborne/selenide)  - 使用 Fluent API 编写易于阅读和易于维护的自动化测试的框架.  Selenide 有一个魔术，可以解决大多数 Ajax 和超时问题.
 - [Galen Framework](http://galenframework.com/) - 自动测试响应式网站的外观.
 - [Serenity](http://www.thucydides.info/)  - 它是一个开源库，用于更快地编写质量更好的自动化验收测试.  （原修昔底德）.
-- [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery)  - 在 Java 中用于 WebDriver 的类似 jQuery 的跨驱动程序接口. 设计为薄层，它可以单独使用或在您最喜欢的框架之上使用，只是为了在需要时使某些情况（例如断言/等待）更简单.
+- [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery)  - 在 Java 中用于 WebDriver 的类似 jQuery 的跨驱动程序接口. 设计为一个薄层，它可以单独使用或在您最喜欢的框架之上使用，只是为了在需要时使某些情况（例如断言/等待）更简单.
 - [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Selenium WebDriver 二进制文件的自动管理.
 
 #### C#
@@ -71,7 +70,7 @@
 
 #### Groovy
 
-- [Geb](http://www.gebish.org/) - 它可以用于脚本编写、抓取和一般自动化——或者通过与测试框架（如 Spock、JUnit 和 TestNG）的集成，同样作为功能/网络/验收测试解决方案.
+- [Geb](http://www.gebish.org/) - 它可以用于脚本编写、抓取和通用自动化——或者通过与测试框架（如 Spock、JUnit 和 TestNG）的集成，同样作为功能/网络/验收测试解决方案.
 
 #### Dart
 
@@ -88,10 +87,10 @@
 
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) - Docker 中的硒与 Chrome 和 Firefox 以及视频录制支持.
 - [Ggr](https://github.com/aerokube/ggr) - 用于创建大型 Selenium 集群的轻量级负载均衡器.
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - 用于使用 Chrome 和 Firefox 进行 Selenium 独立服务器、集线器和节点配置的 Docker 映像.
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - 用于 Chrome 和 Firefox 的 Selenium 独立服务器、集线器和节点配置的 Docker 映像.
 - [Selenoid](https://github.com/aerokube/selenoid) - 在 Docker 容器中启动浏览器的轻量级 Selenium 集线器实现.
 - [zalando/zalenium](https://github.com/zalando/zalenium) - 允许任何人拥有一次性且灵活的 Selenium Grid 基础架构
-- [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Selenium Grid Extras 的 Docker 映像/设置（参见 Selenium Grid 部分），用于提供远程 Sikuli 测试/自动化执行和网格节点文件上传/下载支持.
+- [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) - Selenium Grid Extras 的 Docker 镜像/设置（参见 Selenium Grid 部分），用于提供远程 Sikuli 测试/自动化执行和网格节点文件上传/下载支持.
 
 #### Kubernetes
 - [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - 在 Kubernetes 集群上部署 Selenium 集线器和节点的示例
@@ -108,7 +107,7 @@
 - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver 是一个独立的服务器，它为 Chromium 实现了 WebDriver 的有线协议.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - InternetExplorerDriver 是一个独立的服务器，它实现了 WebDriver 的有线协议.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - 适用于 Edge 的 Microsoft Webdriver 服务器
-- [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver)  - SafariDriver 作为 Safari 浏览器扩展实现. 该驱动程序颠倒了传统的客户端/服务器关系，并使用 WebSockets 与 WebDriver 客户端通信（仅支持 Safari &lt;= v9，macOS Sierra 附带的所有新 Safari 版本都带有集成的 SafariDriver，该 SafariDriver 由 Apple 关闭源代码）.
+- [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver)  - SafariDriver 作为 Safari 浏览器扩展实现. 该驱动程序颠倒了传统的客户端/服务器关系，并使用 WebSockets 与 WebDriver 客户端进行通信（仅支持 Safari &lt;= v9，macOS Sierra 附带的所有新 Safari 版本都带有集成的 SafariDriver，该 SafariDriver 由 Apple 封闭源代码）.
 - [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver 是供应商支持的 WebDriver 实现，由 Opera Software 和为 Opera 实现 WebDriver API 的志愿者开发.
 
 #### Mobile (browsers and apps)
@@ -133,23 +132,22 @@
 - [SWD Page Recorder](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
 - [SWET](https://github.com/sergueik/SWET) - SWD Page Recorder 的继承者，具有相同的功能.
 - [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - 提供跨浏览器元素检查器和 Selenium 代码生成器的 Java 应用程序.
-- [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - 来自 Ranorex 的创建者的用于浏览器元素检查的 Firebug/FirePath/Firefinder 和 Selenium IDE 替代方案.
+- [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - 由 Ranorex 的创建者提供的用于浏览器元素检查的 Firebug/FirePath/Firefinder 和 Selenium IDE 替代方案.
 - [Silk WebDriver](https://www.microfocus.com/products/silk-portfolio/silk-webdriver/) - 由 SilkTest 的创建者提供的用于记录、回放和脚本导出的 Selenium IDE 替代方案.
 - [Fire IE Selenium](https://code.google.com/archive/p/fire-ie-selenium/) - 基于 Microsoft Excel 的工具为 Internet Explorer 浏览器提供元素检查.
 
 ### Selenium Grid
 
-- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - 一个框架，提供超越基本 Selenium Grid 的附加功能，如视频录制.
+- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - 提供超越基本 Selenium Grid 的附加功能的框架，如视频录制.
 - [SeLion](https://github.com/paypal/SeLion) - 用于运行 Selenium 测试的（Java）框架，除了基本 Selenium Grid 功能之外，还具有其他功能，尤其是稳定性改进等.
 - [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - Selenium Grid 的一组扩展，提供附加功能，例如远程运行 Sikuli 测试/自动化、在网格节点上上传/下载文件.
 
 ### Cloud Services
 
-- [Sauce Labs](https://saucelabs.com)  - 跨浏览器测试很棒.  Selenium 测试、移动测试、JS 单元测试在 300 多个操作系统/浏览器平台上. 免费开始.
+- [Sauce Labs](https://saucelabs.com)  - 跨浏览器测试很棒.  Selenium 测试、移动测试、JS 单元测试在 300 多个操作系统/浏览器平台上. 免费开始使用.
 - [Browserstack](https://www.browserstack.com/)  - 测试您的网站在真实浏览器上的跨浏览器兼容性. 即时访问多个桌面和移动浏览器. 获得免费试用.
-- [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
+- [LambdaTest](https://www.lambdatest.com/selenium-automation)  - 测试您的网站在 2000 多个真实浏览器和操作系统上的跨浏览器兼容性. 获得免费试用.
 - [TestingBot](https://testingbot.com) - TestingBot 在云中使用 Selenium 提供简单的跨浏览器测试.
-- [Aerokube Browsers](https://browsers.aerokube.com) - 闪电般快速的在线 Selenium 测试平台，具有无限的计费计划和合理的定价.
 - [Moon Cloud](https://aerokube.com/moon/#cloud) - 您在公共云平台中的专用 Selenium 集群，按分钟计费，浏览器数量不受限制.
 - [Mail7](https://www.mail7.io/) - 一次性电子邮件服务来自动化电子邮件工作流程测试， [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) 解释如何使用 Selenium 实现 Mail7
 - [Thundra Foresight](https://www.thundra.io/foresight) - 通过立即发现测试失败来查看测试套件的可见性工具.
@@ -160,20 +158,20 @@
 
 ### Web Scraping / Mining
 
-- [Scrapy](http://scrapy.org) - **Python**，主要是一个刮板/矿工 - 快速，有据可查，并且可以与 [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) 用于不错的挖矿部署，或 [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) 用于 PaaS（无服务器）部署，在终端或服务器独立进程中工作，可与 **Celery** 一起使用，构建在 **Twisted** 之上.
+- [Scrapy](http://scrapy.org) - **Python**，主要是一个刮板/矿工 - 速度快，有据可查，可以与 [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) 用于不错的挖矿部署，或 [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) 用于 PaaS（无服务器）部署，在终端或服务器独立进程中工作，可与 **Celery** 一起使用，构建在 **Twisted** 之上.
 - [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** 用于 NodeJS + 服务器端 jQuery 的网络爬虫/蜘蛛.
 
 ### Specifications
 
-- [The WebDriver Wire Protocol](https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol) - 与浏览器或 RemoteWebDriver 服务器通信的 WebDriver 的所有实现都应使用通用有线协议.
-- [WebDriver](http://www.w3.org/TR/webdriver/) - 该规范定义了 WebDriver API，它是一种平台和语言中立的接口以及相关的有线协议，允许程序或脚本内省并控制 Web 浏览器的行为.
+- [The WebDriver Wire Protocol](https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol) - 与浏览器或 RemoteWebDriver 服务器通信的 WebDriver 的所有实现都应使用通用的有线协议.
+- [WebDriver](http://www.w3.org/TR/webdriver/) - 该规范定义了 WebDriver API，这是一个平台和语言中立的接口以及相关的有线协议，允许程序或脚本内省并控制 Web 浏览器的行为.
 
 ### Blogs
 
 - [Official Selenium Blog](https://seleniumhq.wordpress.com/) - SeleniumHQ 的官方博客.
-- [Elemental Selenium](http://elementalselenium.com/) - 每周一次的免费电子邮件，介绍如何像专业人士一样使用 Selenium.
+- [Elemental Selenium](http://elementalselenium.com/) - 关于如何像 Pro 一样使用 Selenium 的每周一次的免费电子邮件.
 - [Assert Selenium](http://www.assertselenium.com/) - 以正确的方式进行 Selenium 自动化 - 仅限 Selenium 的博客.
-- [SauceLabs Blog](https://saucelabs.com/blog) - 由 SauceLabs 策划的博客.
+- [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
 
 ## License
 

@@ -5,7 +5,7 @@
 &gt; 精心挑选的测试软件、扩展和资源列表
 
 ## Foreword
-这旨在为软件测试社区中的新人提供资源管理. 它不是针对特定领域（可用性/性能）或角色（自动化/管理）量身定制的. 这个想法是你可以把这个列表交给 CS 毕业生，这将大大提高他们的测试技能、效率和整体知识广度. 请注意，这适用于编写相关代码后的所有软件测试领域（无单元测试/静态分析！）.
+这旨在为软件测试社区中的新人提供资源管理. 它不是针对特定领域（可用性/性能）或角色（自动化/管理）量身定制的. 我们的想法是，您可以将此列表交给 CS 毕业生，这将大大提高他们的测试技能、效率和整体知识广度. 请注意，这适用于编写相关代码后的所有软件测试领域（无单元测试/静态分析！）.
 
 最后，我相信阅读此列表的每个人都有他们想要添加的一件事. 请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 页并添加到列表中.  :)
 
@@ -21,22 +21,22 @@
 ### Make your life easier
 - [Courgette](https://courgette-testing.com)  - 精美简单的 UI 测试. 使用 Gherkin、Gherkin 模板和可组合的 YAML 样式页面和组件对象的正确声明性 BDD 场景.
 - [BareTail](https://www.baremetalsoft.com/baretail/) - 将 tail linux 命令引入 Windows、彩色线条和 REGEX 搜索以及加载其他功能.
-- [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - 我们都不得不使用代理，这使得在使用 Test/Prod/localhost 代理时更容易.
+- [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - 我们都不得不使用代理，这使得使用 Test/Prod/localhost 代理时容易多了.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - 当 PrintScreen 不够大时.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - 每次填写大表格真的很烦人，用虚拟数据加快速度.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - 根据字段类型建议值.
 - [Check All](https://chrispederick.com/work/web-developer/)  - “全选”通常不可用. 为什么不自己带？
 - [Xmind](http://www.xmind.net/) - 用于记录测试的最佳（免费）思维导图工具.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - 开源测试用例管理系统
-- [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和 DOM 变化比较和回归.
+- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 - [recheck-web](https://github.com/retest/recheck-web) - 具有本地金牌大师的开源更改比较工具、类似 git 的忽略语法和“牢不可破的 selenium”测试.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - 开源测试用例管理系统.
 - [Captura](https://github.com/MathewSachin/Captura) - 开源视频录制工具.
 - [QA Wolf](https://github.com/qawolf/qawolf) - 开源 Node.js 库，可将浏览器测试的创建速度提高 10 倍.
 - [Online decision table service](http://decision-table.com/) - 通过使用简单的决策表技术生成案例来实现完整的测试覆盖.
 - [Synth](https://github.com/getsynth/synth) - 开源测试数据生成器.
-- [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标题、重定向 URL、模拟 API 响应、延迟/限制请求等.
-- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一个使用 HTTP 转储作为响应源的 Web 服务器. 此工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
+- [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标题、重定向 URL、模拟 API 响应、延迟/节流请求等.
+- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一个 Web 服务器，它使用 HTTP 转储作为响应源. 此工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - 立即模拟所有类型的色盲！
@@ -47,16 +47,19 @@
 - [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7)  - 关于如何改进测试以及为什么应该这样做的很好的说明性示例. 非常适合作为获胜论据的证据！
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - 我要为刚接触测试的人预订.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 为那些希望作为测试人员过渡到敏捷的人的指南，以及作者如何在他们的敏捷团队中工作.
-- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 一本关于构建探索性测试和设计测试的非常好的书.
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 关于构建探索性测试和设计测试的一本非常好的书.
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解当今使用的最常见的测试技术领域测试（也称为边界分析和等价类划分），并提供大量示例以使其变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - 一本非常有用的可用性测试书.
 - [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - 最好的软件测试书籍之一，分为一口大小的课程，现在和出版时一样适用.
 - [UI is Communication](https://amzn.to/2vbiALY) - 如何制作直观的用户界面（UI 和可用性测试）.
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - 关于我们如何做出决定以及如何进行实验（实验 == 测试）.
+- [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - 一本关于如何设计和执行受控软件故障实验的书.
+- [Software Testing: From Theory to Practice](https://sttp.site) - 代尔夫特理工大学测试讲座的讲义.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - 一本关于面向开发人员的 JavaScript 测试工具和技术的书.
 - [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - 一本教您设计和执行可发现隐藏问题的受控实验的书.
 - [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您从第一个简单的单元测试到构建可维护、可读和值得信赖的完整测试集的书.
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - 通过实施自动化测试流程来保证您的 Web API 的质量和一致性.
+- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 创建高质量测试的实践指南，从第一行代码到交付前检查.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训清单
@@ -64,12 +67,13 @@
 - [Guru99](http://www.guru99.com/) - 通过经验学习，比视频培训更有趣.
 - [Coursera](https://www.coursera.org/) - 顶尖大学的在线课程.
 - [Cybrary](https://www.cybrary.it/) - 在线免费安全培训.
-- [BBST Testing Courses](http://testingeducation.org/BBST/)  - 著名的黑盒软件测试 (BBST) 课程是关于软件测试基础、错误报告和测试设计的大学级课程. 这些材料已被授权给任何人使用. 包括文章、幻灯片和视频讲座.
+- [BBST Testing Courses](http://testingeducation.org/BBST/)  - 著名的黑盒软件测试 (BBST) 课程是关于软件测试基础、错误报告和测试设计的大学级别课程. 这些材料已被授权给任何人使用. 包括文章、幻灯片和视频讲座.
 
 ## Blogs
 - [James Bach](http://www.satisfice.com/blog/)
 - [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
+- [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
 - [Automation Panda](https://automationpanda.com/)
 
@@ -90,8 +94,8 @@
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - 如果您知道自己想要什么，则比搜索 Google 更好.
 - [Security](https://github.com/sbilly/awesome-security) - 这主要集中在基础设施上，但如果您正在测试一系列系统，这将非常有用.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - 免费软件测试和验证资源列表.
-- [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) -（相对较新的）精选黄瓜和小黄瓜相关资源的精选列表.
-- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - 围绕 Apache JMeter 的精选资源集合.
+- [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) - 一份（相对较新的）精选黄瓜和小黄瓜相关资源的精选列表.
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - 围绕 Apache JMeter 精选的资源集合.
 - [How They Test](https://github.com/abhivaikar/howtheytest) - 来自科技公司关于他们如何测试他们的软件和建立质量文化的精选公共资源
 
 ## QA and Testing Road Map
@@ -108,7 +112,7 @@
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md) 详情. 基本上归结为：
 &gt;为了营造一个开放和热情的环境，我们作为
-contributors and maintainers pledge to making participation in our project and
+贡献者和维护者承诺参与我们的项目和
 我们的社区为所有人提供无骚扰体验，无论年龄、身体如何
 大小、残疾、种族、性别认同和表达、经验水平、
 国籍、个人外表、种族、宗教或性身份和性取向.

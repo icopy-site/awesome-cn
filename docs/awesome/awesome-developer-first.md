@@ -32,7 +32,7 @@
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [Okta](https://developer.okta.com/) - 带有 SSO 的嵌入式身份验证.
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
-* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
+* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Hanko](https://www.hanko.io/) - 无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR 兼容.
@@ -50,7 +50,7 @@
 ## Code Quality
 *检查您的代码质量.*
 * [sonarsource](https://www.sonarsource.com/) - Lint 和代码质量检查.
-* [Codacy](https://www.codacy.com/) - Automatic code quality checks.
+* [Codacy](https://www.codacy.com/) - 自动代码质量检查.
 
 ## Computer Vision
 *操纵和检测视觉数据.*
@@ -78,6 +78,7 @@
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署而不关心基础设施，适用于所有主要框架.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用.
 * [Fly.io](https://fly.io/) - 通过位置感知服务（延迟减少）部署 dockerized 全栈应用程序.
+* [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动缩放、数据库、秘密和回滚.
 
 ## Discussions
 *评论和论坛.*
@@ -163,7 +164,7 @@
 
 ## Payments
 *处理付款、信用卡处理和发票.*
-* [Stripe Payments](https://stripe.com/payments) - 通过 API 接受付款并在全球范围内转移资金.
+* [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
 * [Braintree](https://www.braintreepayments.com/) - Paypal 采取 API 优先支付方式.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
 * [Paddle](https://paddle.com/) - 具有广泛地域支持的 SaaS 收入交付平台（与目前的 Stripe 不同）.

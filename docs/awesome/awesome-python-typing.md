@@ -30,7 +30,7 @@
 
 - [asgiref](https://github.com/django/asgiref) - ASGI 规范，提供 [asgiref.typing](https://github.com/django/asgiref/blob/main/asgiref/typing.py) 带有 ASGI 服务器类型注释的模块.
 - [boto3-stubs](https://github.com/vemel/mypy_boto3_builder) - 存根 [boto3](https://github.com/boto/boto3).
-- [botostubs](https://github.com/jeshan/botostubs) - 为任何 IDE 中的任何 boto3 API 提供代码帮助.
+- [botostubs](https://github.com/jeshan/botostubs) - 为您在任何 IDE 中的任何 boto3 API 提供代码帮助.
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - 存根 [numpy](http://github.com/numpy/numpy), [pandas](https://github.com/pandas-dev/pandas)， 和 [matplotlib](https://github.com/matplotlib/matplotlib).
 - [django-stubs](https://github.com/typeddjango/django-stubs) - 存根 [Django](https://github.com/django/django).
 - [djangorestframework-stubs](https://github.com/typeddjango/djangorestframework-stubs) - 存根 [DRF](https://github.com/encode/django-rest-framework).
@@ -66,12 +66,11 @@
 
 ### Linters
 
-- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - flake8 插件来验证注释的复杂性.
+- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - flake8 插件以验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) - flake8 插件，用于检查函数定义中是否存在类型注释.
-- [flake8-mypy](https://github.com/ambv/flake8-mypy) - 集成 mypy 的 flake8 插件.
-- [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，提供类型提示存根文件的专业化.
+- [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，为类型提示存根文件提供专业化.
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入的输入是否受到适当保护的插件.
-- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在导入移动后如何调整类型注释.
+- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在移动导入后如何调整类型注释.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格和最固执的 Python linter.
 
 ### Testing
@@ -88,7 +87,7 @@
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - 通过添加或删除代码注释来使 mypy 静音.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - 将带有 mypy 注释的静态类型 Python 模块编译为 CPython C 扩展.
 - [retype](https://github.com/ambv/retype) - 另一个将存根应用于代码的工具.
-- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - 预提交挂钩配置为自动将您的类型提示升级到 PEP 585 中实现的新本机类型.
+- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - 预提交钩子配置为自动将您的类型提示升级到 PEP 585 中实现的新本机类型.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - Typing_inspect 模块定义了实验性 API，用于对 `typing` 模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) - 用于处理类型化对象和 JSON 的 Lib.
 
@@ -97,7 +96,7 @@
 - [autotyper](https://github.com/JelleZijlstra/autotyper) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到您的源代码中.
-- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对所使用的类型进行有根据的猜测，并将注释应用于文件.
+- [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项摄取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
 - [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发的工具，用于用 Python 类型注释 AST 的节点.
@@ -135,7 +134,7 @@
 - [PEP-544](https://www.python.org/dev/peps/pep-0544/) - 协议：结构子类型（静态鸭子类型）.
 - [PEP-557](https://www.python.org/dev/peps/pep-0557/) - 数据类.
 - [PEP-560](https://www.python.org/dev/peps/pep-0560/) - 对输入模块和泛型类型的核心支持.
-- [PEP-561](https://www.python.org/dev/peps/pep-0561/) - 分发和包装类型信息.
+- [PEP-561](https://www.python.org/dev/peps/pep-0561/) - 分销和包装类型信息.
 - [PEP-563](https://www.python.org/dev/peps/pep-0563/) - 推迟对注释的评估.
 - [PEP-585](https://www.python.org/dev/peps/pep-0585/) - 在标准集合中键入提示泛型.
 - [PEP-586](https://www.python.org/dev/peps/pep-0586/) - 文字类型.
@@ -148,7 +147,7 @@
 
 ### Third-party articles
 
-- [1-minute guide to real constants in Python](https://sobolevn.me/2018/07/real-python-contants) - 关于`Final`常量和继承的完整教程.
+- [1-minute guide to real constants in Python](https://sobolevn.me/2018/07/real-python-contants) - 关于“Final”常量和继承的完整教程.
 - [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) - 关于“文字”类型的完整教程.
 - [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) - 关于测试 mypy 类型的完整教程.
 - [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - 类型 使用 MonkeyType 注释现有的 Python Django 代码库.

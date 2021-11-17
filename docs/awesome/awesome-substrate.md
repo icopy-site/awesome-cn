@@ -16,9 +16,9 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Official Homepage](https://substrate.io/) - 愿景、生态系统、机会等等.
   - [Docs](https://docs.substrate.io/) - 开发人员文档.
   - [Tutorials](https://docs.substrate.io/tutorials) - 引导练习让您入门.
-  - [How-to guides](https://docs.substrate.io/how-to-guides) - 概述工作流程以实现
+  - [How-to guides](https://docs.substrate.io/how-to-guides) - 概述了实现目标的工作流程
     具体目标.
-  - [Reference Docs](https://docs.substrate.io/rustdocs) - 版本化 API 文档.
+  - [Reference Docs](https://docs.substrate.io/rustdocs) - 版本化的 API 文档.
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - 开发者中心存储库.
 - [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - 项目和团队建设
   基质.
@@ -45,7 +45,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 ## Events
 
-- [Sub0 Developer Conference](https://sub0.parity.io/) - 半年一次，在线和面对面
+- [Sub0 Developer Conference](https://sub0.parity.io/) - 半年一次，在线和面对面的所有人
   事物 基材.
 - [Substrate Seminar](https://substrate.io/ecosystem/resources/seminar/) - Bi-weekly
   协作学习会议.
@@ -108,7 +108,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   跨链通信.
 - [Frontier](https://github.com/paritytech/frontier) - Substrate 的端到端以太坊仿真
   链.
-- [Polkadot-JS](https://polkadot.js.org/) - 用于前端开发的丰富 JavaScript API 框架.
+- [Polkadot-JS](https://polkadot.js.org/) - 用于前端开发的丰富的 JavaScript API 框架.
 - [IntegriTEE](https://book.integritee.network/) - 可信的链下执行框架，使用
   [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) 可信执行
   环境.
@@ -116,10 +116,10 @@ Substrate 是一个构建可升级、模块化和高效的框架
 ## Client Libraries
 
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - 官方 Rust 客户端.
-- [Substrate API Client](https://github.com/scs/substrate-api-client) - Rust 客户端维护
+- [Substrate API Client](https://github.com/scs/substrate-api-client) - 由 Rust 维护的客户端
   [Supercomputing Systems AG](https://www.scs.ch/).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - 半官方的 JavaScript 库
-  基于底物的链.
+  基于基板的链.
 - [Python Substrate Interface](https://github.com/polkascan/py-substrate-interface) - 维护者
   [Polkascan Foundation](https://polkascan.org/).
 - [Go Substrate RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - 维护者
@@ -134,7 +134,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   [DOTMog](https://dotmog.com/).
 - [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) - 维护者 
   [Nodle.io](https://github.com/NodleCode)
-- [`sube`](https://github.com/virto-network/sube) - 轻量级 Rust 客户端库和 CLI，支持类型信息.
+- [`sube`](https://github.com/virto-network/sube) - 支持类型信息的轻量级 Rust 客户端库和 CLI.
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 及更多，由 Subscan 开发.
 
 
@@ -157,12 +157,12 @@ Substrate 是一个构建可升级、模块化和高效的框架
   可用于您使用 Polkadot 和任何 Substrate 链（包括 Block Explorer）进行开发，
   钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI
   工具等等.
-- [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - 一起运行的 REST 服务
+- [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - 并排运行的 REST 服务
   基板节点.
 - [Archive](https://github.com/paritytech/substrate-archive) - Substrate 链的索引引擎.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - 离线交易的有用库
   创建.
-- [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm 兼容底物
+- [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm 兼容基板
   Rust 的存储密钥生成器库.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - 命令行实用程序
   使用加密密钥.
@@ -200,7 +200,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   发展目的.
 - [Hydra](https://github.com/Joystream/hydra) - 一个用于 Substrate 节点的 GraphQL 框架.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL 索引器
-  基于底物的链.
+  基于基板的链.
 - [SubQuery](https://subquery.network) - GraphQL 索引器和查询服务，允许用户
   轻松创建索引数据源并免费在线托管它们.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 的零知识工具
@@ -209,10 +209,10 @@ Substrate 是一个构建可升级、模块化和高效的框架
   环境.
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为智能合约编写的测试网
   FRAME 合同托盘.
-- [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 要解析的脚本
+- [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 解析脚本
   并为给定的 Kusama 或 Polkadot 地址输出质押奖励并交叉引用它们
   与每日价格数据.
-- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 简单的 CLI 工具来启动一个
+- [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 启动一个简单的 CLI 工具
   本地 Polkadot 测试网络.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
   Polkadot 测试网络，强调运行大型测试网络的能力.
@@ -269,6 +269,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - 维护者
   Polkadot-JS.
 - [Go](https://github.com/itering/scale.go) - 维护者 [Itering](https://www.itering.com/).
+- [C](https://github.com/MatthewDarnell/cScale) - 由 Matthew Darnell 维护.
 - [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) - 由Soramitsu 维护.
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - 维护者
   [Robonomics Network](https://robonomics.network/).

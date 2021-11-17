@@ -8,8 +8,14 @@
 
  Electron 是一个开源框架，用于使用 Web 技术创建桌面应用程序. 它结合了 Chromium 渲染引擎和 Node.js 运行时.
 
-**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在这个 repo 中.**
+<br>
 
+---
+
+<br>
+<br>
+<div align="center"><h3><a href="https://www.producthunt.com/posts/pandan">我的 macOS 应用 Pandan 在 Product Hunt</a></h3></div>
+<br>
 <br>
 
 ---
@@ -38,11 +44,11 @@
 			<div>
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
 			</div>
-			<b>所有环境变量，集中在一处</b>
+			<b>您所有的环境变量，在一个地方</b>
 			<div>
-				<sub>停止为分散的 API 密钥而苦苦挣扎，将自制工具组合在一起，</sub>
+				<sub>不要再为分散的 API 密钥苦苦挣扎，不要再将自制工具组合在一起了，</sub>
 				<br>
-				<sup>并避免访问控制.</sup> <sup>保持您的团队和服务器与多普勒同步.</sup>
+				<sup>并避免访问控制.</sup> <sup>使您的团队和服务器与多普勒同步.</sup>
 			</div>
 		</a>
 		<br>
@@ -127,7 +133,7 @@
 - [Shiba](https://github.com/rhysd/Shiba) - 带有 linting 的实时 Markdown 预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 菜单栏中的 YouTube 音乐播放器.
 - [Monu](https://github.com/maxogden/monu) - 过程监控.
-- [DevDocs](https://github.com/egoist/devdocs-app) - 非官方 DevDocs.io 应用程序.
+- [DevDocs](https://github.com/egoist/devdocs-app) - 非官方的 DevDocs.io 应用程序.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - 非官方的谷歌音乐应用.
 - [Pomodoro](https://github.com/G07cha/pomodoro) - 基于番茄工作法的计时器.
 - [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - 基于加密货币技术的去中心化文件存储系统.
@@ -171,7 +177,7 @@
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - 非官方媒体应用程序.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - 图像查看器.
 - [Crypter](https://github.com/HR/Crypter) - 安全加密客户端.
-- [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用.
+- [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用程序.
 - [Museeks](https://github.com/KeitIG/museeks) - 音乐播放器.
 - [VOX](https://github.com/fresk-nc/VOX) - 非官方的 VOX 音乐播放器.
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
@@ -254,12 +260,12 @@
 - [Wantedly Chat](https://www.wantedly.com/chat)  - 业务团队聊天.  *（日本人）*
 - [Remember](https://rememberapp.co.kr)  - 名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
-- [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
+- [Freeter](https://freeter.io) - 自由职业者和创意人员的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知程序.
 - [Automint](http://automint.in) - 汽车企业的CRM.
 - [Discord](https://discord.com) - 语音和文字聊天.
-- [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
+- [Cocos Creator](http://cocos2d-x.org/products#creator) - 用于为 Cocos2D-x 创建 Web 和本机游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的 Markdown 笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换比特币和以太坊等区块链资产.
 - [Hackolade](http://hackolade.com) - NoSQL 和多模型数据库的数据建模.
@@ -363,7 +369,7 @@
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - 进程管理器 UI（如 Chrome 的任务管理器）.
 - [electron-util](https://github.com/sindresorhus/electron-util) - 用于开发应用程序和模块的有用实用程序.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - 开发过程中简单的自动重新加载.
-- [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（对于路由很有用，比如 `react-router`）.
+- [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（对路由很有用，比如 `react-router`）.
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium 的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行 Electron.
@@ -399,14 +405,14 @@
 - [Photon](http://photonkit.com) - 用于构建漂亮应用程序的 UI 工具包.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - 使用 React 构建的 Photon 组件.
 - [menubar](https://github.com/maxogden/menubar) - 菜单栏应用程序框架.
-- [cookies](https://github.com/hstove/electron-cookies) - 添加对 `document.cookie` 的支持.
+- [cookies](https://github.com/hstove/electron-cookies) - 添加对`document.cookie` 的支持.
 - [window](https://github.com/jprichardson/electron-window) - 创建和管理窗口.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) - 使用 React 构建的适用于 macOS 和 Windows 的 UI 工具包.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - 输入元素的上下文菜单.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - 像标签一样的 Chrome.
-- [titlebar](https://github.com/kapetan/titlebar) - 模拟 macOS 窗口标题栏.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome 之类的标签.
+- [titlebar](https://github.com/kapetan/titlebar) - Emulate the macOS window titlebar.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - 使用 Photon 和 Etch 构建和管理 UI 组件.
-- [Xel](https://xel-toolkit.org) - 用于构建类原生应用程序的小部件工具包.
+- [Xel](https://xel-toolkit.org) - 用于构建类本机应用程序的小部件工具包.
 
 ## Documentation
 
@@ -421,12 +427,12 @@
 - [Codesigning your app for macOS](http://jbavari.github.io/blog/2015/08/14/codesigning-electron-applications/)
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和改进的性能嵌入 Web 应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的 Electron API 以更少的错误和更高的性能嵌入 Web 应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) - Slack 用 `BrowserView`、Redux、Rx 和 TypeScript 重写了他们的 Electron 应用程序，以修复其性能问题.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作 Electron 应用程序并将其发布到 Mac App Store 的过程的 5 部分系列.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - 专注于设计和代码决策以及电子安全.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - 如何收集匿名用户统计信息.
-- [Notarizing your Electron app](https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/) - 如何为 Apple 公证配置您的应用程序打包.
+- [Notarizing your Electron app](https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/) - 如何为 Apple 的公证配置您的应用程序打包.
 - [Making Electron apps feel native on Mac](https://getlotus.app/21-making-electron-apps-feel-native-on-mac)
 
 ## Books
@@ -451,7 +457,7 @@
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 
 - [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - 包括一些关于改善应用程序启动时间、调试崩溃等的精彩演讲.
-- [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - 让您的应用在 macOS、Windows 和 Linux 上感觉更原生而不牺牲您自己的风格的技巧.
+- [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - 在不牺牲您自己的风格的情况下，让您的应用在 macOS、Windows 和 Linux 上感觉更原生的提示.
 
 ## Podcasts
 
