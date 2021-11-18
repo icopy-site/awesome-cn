@@ -12,7 +12,7 @@
 
 ## Academic Papers
 
-- [An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997)](http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) 早期的论文测试了一系列当时流行的审查技术，包括多阶段审查和通过会议进行代码审查，发现您可以通过离线、单次通过和两名审查者获得大部分好处.
+- [An experiment to assess the cost-benefits of code inspections in large scale software development (Porter, Siy, Toman & Votta, 1997)](http://laser.cs.umass.edu/courses/cs521-621.Fall10/documents/PorterSiyetal.pdf) 早期的论文测试了一系列当时流行的审查技术，包括多阶段审查和通过会议进行代码审查，发现您可以在有两名审查员的离线单次通过中获得大部分好处.
 - [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) 在遥远的未来有一天，审查代码的最佳方式将是在万维网上.
 - [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft (Bosu, Greiler, Bird, 2015)](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf) 本文报告了一项大规模定性和定量研究的结果，重点是了解开发人员认为哪些代码审查评论有用.  
 - [Code Reviewing in the Trenches: Understanding Challenges, Best Practices, and Tool Needs (MacLeod, Greiler, Storey, Bird, Czerwonka, 2018)](https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf) 对 900 多名 Microsoft 开发人员进行的大规模研究，以了解他们的代码审查过程、他们进行代码审查的动机以及他们遇到的陷阱和最佳实践.
@@ -40,8 +40,9 @@
 - [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) 有助于审阅者对特定审阅反馈的可操作性进行分类的框架.
 - [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) 深入分析 Microsoft 的代码审查流程.
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) 关于如何最好地审查 Tumblr 工程师的拉取请求的更多个人建议.
-- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) 谷歌工程师如何进行代码审查的详尽描述，来自谷歌的工程实践文档.
+- [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) 将代码审查视为不仅是一个技术过程而且也是一个社会过程的技术.
+- [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) 可以说属于学术论文，但它是一个网站，按方面/上下文概述代码审查的证据. 链接到一堆论文.
 - [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) 关于代码审查的工具和个人元素的简短文章，来自前 Facebook 工程师.
 - [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) 为代码审查过程的双方、审查者和被审查者提供建议.
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) 为什么最好审查小的变化而不是大的变化.
@@ -79,7 +80,7 @@
 - [PullRequest](https://www.pullrequest.com/) 代码审查即 GitHub 拉取请求的服务.
 - [Pull Reminders](https://pullreminders.com) GitHub 拉取请求的自动 Slack 提醒和指标.
 - [Reviewable](https://reviewable.io/) 基于 GitHub 拉取请求构建的代码审查工具.
-- [Review Board](https://www.reviewboard.org/) SCM/平台中立的开源审查工具.
+- [Review Board](https://www.reviewboard.org/) 与 SCM/平台无关的开源审查工具.
 - [Rubberduck](https://www.rubberduck.io) 浏览器扩展向 GitHub 拉取请求添加代码感知导航.
 - [Sider](https://sider.review/) GitHub 的自动代码审查服务.
 - [Softagram](https://softagram.com/) 用于拉取请求、合并请求 (GitLab) 和补丁集 (Gerrit) 的自动化代码更改可视化（和依赖项分析）.
@@ -96,4 +97,4 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 在法律允许的范围内， [John Barton](https://johnbarton.co) 已放弃所有版权和
-related or neighboring rights to this work.
+本作品的相关或邻接权.

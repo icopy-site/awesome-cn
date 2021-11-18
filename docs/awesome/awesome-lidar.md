@@ -6,7 +6,7 @@
 
 &gt; 精选的超棒激光雷达传感器及其应用列表.
 
-[LIDAR](https://en.wikipedia.org/wiki/Lidar)是一种遥感传感器，它使用激光以~cm 的精度测量周围环境. 感官数据通常称为点云，这意味着 3D 或 2D 中的一组数据点. 该列表包含硬件、数据集、点云处理算法、点云框架、模拟器等.
+[LIDAR](https://en.wikipedia.org/wiki/Lidar)是一种遥感传感器，它使用激光以~cm 的精度测量周围环境. 感官数据通常称为点云，这意味着 3D 或 2D 中的数据点集. 该列表包含硬件、数据集、点云处理算法、点云框架、模拟器等.
 
 欢迎投稿！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) 我们的指导方针.
 
@@ -42,10 +42,10 @@
 - [Hesai](https://www.hesaitech.com/) - 禾赛科技是一家成立于中国上海的激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCG2_ffm6sdMsK-FX8yOLNYQ/videos)
   - [GitHub organization :octocat:](https://github.com/HesaiTechnology)
-- [Robosense](http://www.robosense.ai/) - RoboSense（速腾创新科技有限公司）是一家位于深圳和北京（中国）的激光雷达传感器、人工智能算法和 IC 芯片制造商.
+- [Robosense](http://www.robosense.ai/) - RoboSense（速腾创新科技有限公司）是一家位于深圳和北京（中国）的激光雷达传感器、人工智能算法和 IC 芯片组制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
-- [Ibeo](https://www.ibeo-as.com/) - Ibeo 汽车系统有限公司是一家位于德国汉堡的汽车工业/环境检测激光扫描仪/激光雷达制造商.
+- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家位于德国汉堡的汽车工业/环境检测激光扫描仪/激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) - Innoviz 技术/专注于固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
@@ -70,7 +70,7 @@
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - 牛津 RobotCar 数据集包含超过 100 次重复通过英国牛津的一致路线，这些路线在一年多的时间里被捕获. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  - 该数据集是使用我们的机器人汽车（当然是在人类驾驶模式下）收集的，配备了多达 11 个异构传感器，位于法国蒙贝利亚尔的市中心（用于长期数据）和郊区（用于环形交叉路口数据）. 根据法国交通规则，车速限制在 50 公里/小时.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  - 该数据集是使用我们的机器人汽车（当然在人类驾驶模式下）收集的，配备了多达 11 个异构传感器，位于法国蒙贝利亚尔的市中心（用于长期数据）和郊区（用于环形交叉路口数据）. 根据法国交通规则，车速限制在 50 公里/小时.
 - [NuScenes](https://www.nuscenes.org/) - 用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - 由配备激光雷达和摄像头的福特 Fusion 车队收集的公共数据集.
@@ -84,6 +84,8 @@
 - [PandaSet Open Dataset](https://scale.com/open-datasets/pandaset)  - Hesa​​i &amp; Scale 提供的自动驾驶公共大规模数据集. 它使研究人员能够使用真正的自动驾驶汽车的完整传感器套件来研究具有挑战性的城市驾驶情况.
 - [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) 来自 LIDAR 扫描模式非均匀分布的公共数据集，重点是远距离. 在这个数据集中使用了 Luminar Hydra LIDAR. 该数据集可在沃尔沃汽车创新门户网站上获得.
   - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
+- [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/)  - 在 1.5 年的时间里每周在悉尼大学校园及周边地区收集的长期、大规模数据集. 它包括多种传感器模式并涵盖各种环境条件.  ROS兼容
+  - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
 
 ## Libraries
 
