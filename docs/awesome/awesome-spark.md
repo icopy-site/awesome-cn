@@ -95,13 +95,13 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 * [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf) - Microsoft 论文，提出了一个基于 Apache Spark 的微服务编排框架，该框架将数据库操作扩展为包括 Web 服务原语.
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf) - 介绍核心分布式内存抽象的论文.
-* [结构化流媒体：实时的声明式 API
- Apache Spark 中的应用](https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf) - Structured Streaming 是一种新的高级流 API，它是一种基于自动递增静态的声明式 API关系查询.
+* [Structured Streaming: A Declarative API for Real-Time
+ Applications in Apache Spark](https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf) - Structured Streaming是一种新的高级流API，它是一个基于自动递增静态的声明式API关系查询.
 
 ### MOOCS
 
-* [Data Science and Engineering with Apache Spark (edX XSeries)](https://www.edx.org/xseries/data-science-engineering-apache-spark) - 五门课程系列（[Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x), [Distributed Machine Learning with Apache Spark](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x), [Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x), [Advanced Apache Spark for Data Science and Data Engineering](https://www.edx.org/course/advanced-apache-spark-data-science-data-uc-berkeleyx-cs115x), [Advanced Distributed Machine Learning with Apache Spark](https://www.edx.org/course/advanced-distributed-machine-learning-uc-berkeleyx-cs125x) ）涵盖软件工程和数据科学的不同方面. 面向 Python.
-* [Big Data Analysis with Scala and Spark (Coursera)](https://www.coursera.org/learn/big-data-analysys)  - 面向 Scala 的入门课程. 一部分 [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala).
+* [Data Science and Engineering with Apache Spark (edX XSeries)](https://www.edx.org/xseries/data-science-engineering-apache-spark) - 五门课程系列（[Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x), [Distributed Machine Learning with Apache Spark](https://www.edx.org/course/distributed-machine-learning-apache-uc-berkeleyx-cs120x), [Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x), [Advanced Apache Spark for Data Science and Data Engineering](https://www.edx.org/course/advanced-apache-spark-data-science-data-uc-berkeleyx-cs115x), [Advanced Distributed Machine Learning with Apache Spark](https://www.edx.org/course/advanced-distributed-machine-learning-uc-berkeleyx-cs125x) ) 涵盖软件工程和数据科学的不同方面. 面向 Python.
+* [Big Data Analysis with Scala and Spark (Coursera)](https://www.coursera.org/learn/big-data-analysys)  - 面向 Scala 的入门课程. 部分 [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala).
 
 ### Workshops
 
@@ -109,14 +109,11 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Projects Using Spark
 
-* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) 基于 Apache Spark 构建的平台和 [Apache Kafka](http://kafka.apache.org/) 专注于实时大规模机器学习.
+* [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) 基于 Apache Spark 的平台和 [Apache Kafka](http://kafka.apache.org/) 专注于实时大规模机器学习.
 * [Photon ML](https://github.com/linkedin/photon-ml) - 支持经典广义混合模型和广义加性混合效应模型的机器学习库.
 * [PredictionIO](https://prediction.io/) - 机器学习服务器，供开发人员和数据科学家在很短的时间内构建和部署预测应用程序.
 * [Crossdata](https://github.com/Stratio/Crossdata) - 具有扩展数据源 API 和多用户环境的数据集成平台.
 
-### Blogs
-
-- [Spark Technology Center](http://spark.tc/blog/)  - 与 Spark 生态系统相关的高度多样化帖子的重要来源. 从实用建议到 Spark 提交者配置文件.
 
 ### Docker Images
 
@@ -137,7 +134,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
-     style="border-style: none;" alt="Public Domain Mark" />
+     样式=“边框样式：无；”  alt=&quot;公共域标记&quot; /&gt;
 </a>
 <br />
 这项工作（ <span property="dct:title">Awesome Spark</span> ，来自<a href="https://github.com/awesome-spark/awesome-spark" rel="dct:creator">https://github.com/awesome-spark/awesome-spark</a> ）由<a href="https://github.com/zero323" rel="dct:publisher"><span property="dct:title">Maciej Szymkiewicz</span></a>标识，不受已知版权限制.

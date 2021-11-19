@@ -140,6 +140,7 @@
 ### Scala
 
 * [sbt-derivation](https://github.com/zaninime/sbt-derivation) - sbt 的 mkDerivation，类似于 buildGoModule.
+* [sbt-nix.g8](https://github.com/gvolpe/sbt-nix.g8) - 用于具有 Nix 支持的新 Scala 项目的 gter8 模板.
 
 ## NixOS Modules
 
