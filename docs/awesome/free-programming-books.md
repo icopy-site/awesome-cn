@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-该页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+该页面是一个易于阅读的网站，位于 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -15,7 +15,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ### How To Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md) . 如果你是 GitHub 的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master/HOWTO.md)!
+请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md) . 如果你是 GitHub 的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md) ！ 记得遵守我们 [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md) 也.  ([translations](https://github.com/EbookFoundation/free-programming-books/blob/master/#translations) 也提供）
 
 
 ### How to Share
@@ -55,7 +55,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
++ [韩文/韩文 [韩文]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)
@@ -147,6 +147,109 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)
 
+
+### Translations
+
+我们将贡献、操作方法和行为准则文档翻译成多种语言.
+
+- 阿拉伯语/阿拉伯语/阿拉伯语
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-ar.md)
+- 阿塞拜疆语 / Азәрбајҹан дили / آذربايجانجا ديلي
+- 孟加拉语/বাংলা
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-bn.md)
+- 波斯尼亚语 / bosanski jezik
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-bs.md)
+- 保加利亚语 / български
+- 缅甸语
+- Chinese / 中文
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-zh.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-zh.md)
+- Chinese (traditional) / 繁体中文
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-zh_TW.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-zh_TW.md)
+- 捷克语 / čeština / český jazyk
+- 丹麦语/丹麦语
+- 荷兰语 / 荷兰语
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-nl.md)
+- 英语
+  - [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
+- 爱沙尼亚 / eesti 龙骨
+- 芬兰语/芬兰语/芬兰语
+- 菲律宾语
+  - [Kodigo ng Pag-uugali](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-fil.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-fil.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-fil.md)
+- 法语/法语
+  - [Code de Contrat](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-fr.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-fr.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-fr.md)
+- 德语 德语
+  - [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-de.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-de.md)
+  - [Mitwirken](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-de.md)
+- 希腊语 / ελληνικά
+  - [Κώδικα Δεοντολογίας](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-el.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-el.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-el.md)
+- 希伯来语 / עברית
+- 印地语/印地语
+  - [आचार संहिता](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-hi.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-hi.md)
+- 匈牙利语/匈牙利语/匈牙利语
+- 印尼语 / 印尼语
+  - [Berkontribusi](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-id.md)
+  - [Kode Etik](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-id.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-id.md)
+- 意大利语 / 意大利语
+  - [Codice di Comportamento](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-it.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-it.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-it.md)
+- Japanese / 日本语
+- 高棉语 / 柬埔寨语 / ខ្មែរ
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-km.md)
+- 韩文 / 韩文 [韩文]
+  - [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-ko.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-ko.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-ko.md)
+- 挪威语/挪威语
+- 波斯语/波斯语（伊朗）/فارسى
+  - [مرام‌نامه‌ی](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-fa_IR.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-fa_IR.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-fa_IR.md)
+- 波兰语/波兰语/波兰语/波兰语
+  - [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-pl.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-pl.md)
+- 葡萄牙语（巴西）
+  - [Código de Conduta](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-pt_BR.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-pt_BR.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-pt_BR.md)
+- 葡萄牙语（葡萄牙）
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-pt_PT.md)
+- 罗马尼亚语（罗马尼亚）/limba română/român
+- 俄语/俄语
+  - [Кодекс поведения](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-ru.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-ru.md)
+- 斯洛伐克语 / slovenčina
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-sk.md)
+- 西班牙语/西班牙语/卡斯蒂利亚语
+  - [Código de Conducta](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-es.md)
+  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-es.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-es.md)
+- 瑞典语 / 瑞典语
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-sv.md)
+- 泰米尔语 / தமிழ்
+- 泰语/泰语
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-th.md)
+- 土耳其语/土耳其语
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-tr.md)
+- 乌克兰语 / Українська
+  - [Кодекс Поведінки](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-uk.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-uk.md)
+- 越南语/越南语
+  - [Đóng Góp](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-vi.md)
+  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-vi.md)
 
 ## License
 
