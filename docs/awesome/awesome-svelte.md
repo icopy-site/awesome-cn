@@ -60,6 +60,7 @@
 - [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan（YouTube）.
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - 拉德德文.
 - [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint，由 Chrome DevTools 工程师 @Jack_Franklin 提供.
+- [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 
 ### Studies
 
@@ -74,7 +75,7 @@ _Svelte 框架的研究与研究._
 ### Preprocessing
 
 - [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - PostCSS、SCSS、Less、Stylus、Coffeescript、TypeScript、Pug 等的预处理器.
-- [MDSveX](https://github.com/pngwn/MDsveX) - MDX 降价预处理器.
+- [MDSveX](https://github.com/pngwn/MDsveX) - MDX 降价的预处理器.
 - [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - 用 Markdown 语法编写 Svelte 组件.
 - [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) - 更少的预处理器.
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - 对模块化 css 的预处理器支持.
@@ -85,12 +86,12 @@ _Svelte 框架的研究与研究._
 
 _移动用户界面框架._
 
-- [Svelte Native](https://svelte-native.technology/) - 通过 Nativescript 控制原生组件的 Svelte.
+- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - 用于构建 iOS 和 Android 应用程序的全功能 HTML 框架.
 
 ## UI Libraries
 
-- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - 一个深受 vuetify 启发的 Material UI 设计组件库.
+- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - 深受 vuetify 启发的 Material UI 设计组件库.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 &amp; 5 组件.
 - [Smelte](https://github.com/matyunya/smelte) - 带有使用 Tailwind CSS 构建的材料组件的 UI 框架.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - 材质 UI 组件.
@@ -106,7 +107,7 @@ _表格和数据网格._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - Svelte 的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - 允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表格.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页有多个表格.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - 带有分页器的 Svelte-generic-crud-table.
 
 ### Notification
@@ -131,8 +132,8 @@ _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
-- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 轻巧的日期选择器，具有简洁的动画和独特的用户体验.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - FullCalendar 周围的组件包装器.
+- [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
 
 ### Maps
 
@@ -157,7 +158,7 @@ _开关/开/关切换/复选框._
 
 ## Scaffold
 
-_模板/样板/种子/入门套件/堆栈集成/自耕农生成器._
+_模板/样板/种子/入门套件/堆栈集成/ Yeoman生成器._
 
 #### Client
 
@@ -169,7 +170,7 @@ _仅在浏览器中渲染 Svelte 应用程序._
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - 基于官方模板的 PWA 入门模板.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - 集成 Redux-Toolkit 的入门模板.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - 启动模板，TS 激活，ESLint 和 Prettier 协同工作.
-- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - 已激活 Typescript 且 Jest 工作的入门模板.
+- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - 已激活 Typescript 且 Jest 工作正常的入门模板.
 
 #### Universal
 
@@ -192,6 +193,7 @@ _SSR 框架._
 ### Form
 
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - 用于管理表单的轻量级库.
+- [felte](https://felte.dev/) - 可扩展的表单库，内置 Yup、Zod 和 Superstruct 验证.
 
 ### WebGL
 
@@ -209,7 +211,7 @@ _SSR 框架._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化
-- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - 用于集成的存储功能 [i18n](https://www.npmjs.com/package/i18n) 风格定位
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - 存储集成功能 [i18n](https://www.npmjs.com/package/i18n) 风格定位
 
 ## Routers
 
@@ -224,7 +226,7 @@ _对于单页应用程序 (SPA) 等._
 
 ## Frameworks
 
-- [SvelteKit](https://kit.svelte.dev/) - 构建 Svelte 应用程序的最快方法.
+- [SvelteKit](https://kit.svelte.dev/) - 构建 Svelte 应用程序的最快方式.
 - [Sapper](https://sapper.svelte.dev/) - Web 开发中的下一件小事，由 Svelte 提供支持.
 - [Elder.js](https://elderguide.com/tech/elderjs/) - 专为 SEO 构建的 Svelte 静态站点生成器和 Web 框架.
 - [Routify](https://routify.dev/) - Svelte 的路由，由您的文件结构自动执行.
@@ -247,7 +249,7 @@ _创建文档._
 
 - [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 一种为 Svelte 组件编写文档的快速方法.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - 为您的组件生成 JSON 文档.
-- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关您的 Svelte 文件的元数据.
+- [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关 Svelte 文件的元数据.
 
 ### Test
 
@@ -281,4 +283,4 @@ _文本编辑器插件._
 
 #### JetBrains
 
-- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 对 JetBrains 的语法突出显示和支持.
+- [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - 语法突出显示和对 JetBrains 的支持.

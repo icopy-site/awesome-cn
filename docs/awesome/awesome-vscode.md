@@ -98,7 +98,7 @@ VSCode 团队提供来自流行编辑器的键盘映射，使向 VSCode 的过�
 
 Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的方法.
 
-Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+请务必访问它 [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 ## Lint and IntelliSense
 
@@ -211,6 +211,10 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 - [Lombok](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
 
 ## JavaScript
+
+- [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
+
+![TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - 此扩展提供 AI 辅助开发功能，包括自动完成和其他基于对代码上下文的理解的见解.
@@ -414,6 +418,14 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 
 ![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
 
+## [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
+
+&gt; 通过您最喜欢的键绑定切换任何 VS Code 设置.
+
+通过快捷方式切换 `typescript.inlayHints.functionLikeReturnTypes.enabled` 的示例：
+
+![Toggle example demo](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/toggle-example.gif)
+
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 &gt; 在 ES7 中提供 Javascript 和 React/Redux 片段
@@ -480,7 +492,7 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
-&gt; 流行图标字体的片段，例如 Font Awesome、Ionicons、Glyphicons、Octicons、Material Design Icons 等等！
+> Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
@@ -634,7 +646,7 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 
 ## [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
- &gt; TODO 注释的自定义关键字、突出显示和颜色. 以及用于查看所有当前标签的侧边栏.
+ &gt; TODO 评论的自定义关键字、突出显示和颜色. 以及用于查看所有当前标签的侧边栏.
 
 ![Todo Tree](https://thumbs.gfycat.com/PowerlessWindyCivet-size_restricted.gif)
 
@@ -876,7 +888,7 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 
 ## [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack)
 
-> Send messages and code snippets, upload files to Slack
+&gt; 发送消息和代码片段，将文件上传到 Slack
 
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
@@ -908,8 +920,6 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 &gt; 在编辑器中快速调出有用的 MDN 文档
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
-
-![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
 
@@ -1154,7 +1164,7 @@ Visual Studio Code 的深色语法/工作台主题 - 针对 SCSS、HTML、JS、T
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme)
 
- 18 个灯光主题的集合，按背景亮度分为 4 组.
+ Collection of 18 light themes separated in 4 groups by background's brightness.
 
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/niketa-theme.png" width="600" />
