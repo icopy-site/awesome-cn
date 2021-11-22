@@ -10,11 +10,11 @@
 
 ### Plotters
 
-- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - 笔式绘图仪来自 [Evil Mad Scientist](https://www.evilmadscientist.com)，很受欢迎 [#plottertwitter](https://twitter.com/hashtag/plottertwitter).
+- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - 笔式绘图仪来自 [Evil Mad Scientist](https://www.evilmadscientist.com), 很受欢迎 [#plottertwitter](https://twitter.com/hashtag/plottertwitter).
 - [Line-us](https://www.line-us.com) - 一个可爱的小机器人绘图臂.
 - [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) - 可破解的 XY 绘图仪套件（已停产？）.
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 带 3D 打印的 AxiDraw 克隆 [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行 grbl 固件.
-- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - 另一个可 3D 打印的 AxiDraw 克隆带 [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行 grbl 固件.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - 另一个可 3d 打印的 AxiDraw 克隆带 [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行 grbl 固件.
 - [WaterColorBot](https://watercolorbot.com) - XY 艺术机器人和软件，用于绘制水彩颜料.
 - [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  - 来自 HPGL 标准创建者的老式桌面和落地式笔式绘图仪.  7475A 型很常见，通常可以在 eBay 上找到.
@@ -28,7 +28,7 @@
 
 - [grblShield](https://github.com/synthetos/grblShield) - 转动一个所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc) 使用 grbl 固件转换为基于 G 代码的运动控制器.  ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)  - 功能更强大、功能更强大的基于 G 代码的 6 轴运动控制硬件.  ([adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 适用于 Arduino 的 Grbl 兼容步进电机控制屏蔽，类似于 [grblShield](https://github.com/synthetos/grblShield).
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl 兼容的 Arduino 步进电机控制屏蔽，类似于 [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  - 带有步进控制器和运行 grbl 的微控制器的 Raspberry Pi 附加板. 与 Pi 的串行引脚接口.
 
 ### Accessories
@@ -54,7 +54,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 并与串行绘图仪接口的 Python 库.
 - [Chiplotle on Parallel Port](https://gitlab.com/mononym/chiplotle-on-parallel-port) - 调整 Chiplotle 以使用并行端口连接.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
-- [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的 PDF 扫描手册.
+- [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描版 PDF 手册.
 - [djipco/hpgl](https://github.com/djipco/hpgl) - 与 HPGL 兼容的绘图仪和打印机通信的 Node.js 库.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可用作 X11 中的预览.
 - [vec](https://github.com/anachrocomputer/vec) - 使用海龟图形界面生成 HPGL 的示例 C 代码.
@@ -93,7 +93,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 软件.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - 处理中 AxiDraw 的海龟图形.
 - [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - 绘图仪优化的 Windows GUI，用于带有 SVG 和 DXF 导入的 grbl 控制器，以及灵活的上/下笔控制.
-- [saxi](https://github.com/nornagon/saxi)  - AxiDraw 的驱动程序和库. 使用恒定加速度运动规划并自动调整大小以适应纸张.
+- [saxi](https://github.com/nornagon/saxi)  - AxiDraw 的驱动程序和库. 使用恒定加速度运动规划并自动调整纸张大小.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - 用于将 HPGL 转换为 Graphtec 的 GPGL 格式的软件，以及用于 Graphtec 绘图笔适配器的 CAD 文件.
 
 ### Vector Creation
@@ -111,16 +111,16 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [maptrace](https://github.com/mzucker/maptrace) - 通过跟踪光栅图像生成防水多边形矢量地图.
 - [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - 创建用于绘图机器人的 G 代码.
 - [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - 将 PNG 图像转换为 SVG 线条图.
-- [Ribbon](https://github.com/fogleman/ribbon) - 用 Go 编写的蛋白质丝带图.
+- [Ribbon](https://github.com/fogleman/ribbon) - 用 Go 编写的蛋白质带状图.
 - [penplot](https://github.com/mattdesl/penplot) - JavaScript 绘图仪艺术的开发环境.
 - [penkit](https://github.com/paulgb/penkit) - 用于创建基于行的 SVG 图形的 Python 库.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - 生成可打印 PDF 的示例处理代码.
-- [Let's make map](https://svg-exporter.netlify.com) - 基于 Web 的工具，用于从 Mapzen 图块导出 SVG 地图.
-- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 生成式线条艺术网络应用程序.
+- [Let's make map](https://svg-exporter.netlify.com) - 基于 Web 的工具，用于从 Mapzen 切片导出 SVG 地图.
+- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 一个生成的线条艺术网络应用程序.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - 处理中的涂鸦图像转换.
 - [Maker.js](https://maker.js.org) - 用于为 CNC 和激光切割机创建 2D 矢量绘图的库.
 - [Turtletoy](https://turtletoy.net) - 带有 SVG 导出的基于浏览器的 JavaScript 海龟图形 API.
-- [cozyvec](https://github.com/brubsby/cozyvec) - 绘图仪艺术和推特图的 Web/独立终端环境.
+- [cozyvec](https://github.com/brubsby/cozyvec) - 绘图仪艺术和推文图的 Web/独立终端环境.
 - [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - 一个 [Observable](https://observablehq.com/) 笔记本系列充满了面向绘图员的工作.
 - [PlotterFun](https://mitxela.com/plotterfun/) - 基于浏览器的图像到 SVG 转换器，类似于 SquiggleDraw.
 
@@ -128,7 +128,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 
 操作和优化基于矢量的文件格式的工具.
 
-- [svgsort](https://github.com/inconvergent/svgsort) - 用于绘制 SVG 文件的路径规划，减少了用笔移动的时间.
+- [svgsort](https://github.com/inconvergent/svgsort) - 用于绘制 SVG 文件的路径规划，减少了用笔移动所花费的时间.
 - [svgo](https://github.com/svg/svgo) - 用于优化 SVG 文件的基于 Node.js 的工具.
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - 优化极坐标图的绘制计划.
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - 一个 SVG 优化器，它使用车辆路径求解器来最小化绘图时间.
@@ -156,14 +156,14 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪的快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣算法的详细解释和示例.
-- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图师.
+- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图仪艺术家.
 - [Hektor](http://juerglehni.com/works/hektor) - 2002 年的原始基于电缆的绘图机器人.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 创建用于绘图的生成图形的两部分介绍.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - 使用 Python 和 Penplot 深入研究表面投影和隐藏线去除.
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - 创建基于线的分形图形的技术.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 绘图仪介绍、AxiDraw、`penplot` 库演练.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - 旅行商问题（单路径）艺术的资源.
-- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - 讨论和链接到用于删除 STL 文件的线框的代码.
+- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - 讨论和链接到用于去除 STL 文件的线框的代码.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - 很多不错的技巧，并非都是 Axidraw 特有的，还有一些笔评和方便的 3D 打印工具.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - 很好地概述了 AxiDraw 及其克隆，以及一些 DIY 选项.
 - [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - Vera Molnár 的笔记本之一，日期为 1983-1985
@@ -186,20 +186,22 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [HP DraftPro Plotter Programmers Reference (1986)](https://archive.org/details/draftproprogrammersreference0757090001387pagessep86)
 - [Radio Shack TRS-80 Plotter Printer Manual](https://archive.org/details/Plotter_Printer_19xx_Radio_Shack)
 - [Roland DXY-880 Operation Manual (1984)](https://archive.org/details/RolandDXY880PlotterOperationManual)
+- [Roland DPX-3300 Operation Manual](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf) (GitHub)
 - [Roland DPX-3300 Service Notes (1987)](https://archive.org/details/dpx-3300-service-manual)
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
+- [Roland DPX-3700A DPX-2700A User's Manual](https://www.manualslib.com/manual/1806232/Roland-Dpx-3700a.html) （手册库）
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
 
 ### Ephemera
 
 - [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
 - [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - 多篇关于 HP 9872A 型和 7221A 型笔式绘图仪开发的文章.
-- [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - 有关 HP 7580A 型绘图仪开发的多篇文章.
+- [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - 多篇关于 HP 7580A 型绘图仪开发的文章.
 - [CalComp Precision Graphics System 900/728 Brochure (1970)](https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196)
 - [Digital Plotting Newsletter (1967)](https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114)
 - [Versatec Printers and Plotters Brochure (1977)](https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009)
 - [Versatec Printer/Plotters, Plotters and Output Systems (1981)](https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057)
-- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - 第 36 页（PDF 第 40 页）上的_计算机和绘图仪代替绘图表和铅笔_文章.
+- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - 第 36 页（PDF 第 40 页）_计算机和绘图仪代替绘图表和铅笔_文章.
 - [Omega-t Systems FasPlot Plotter Brochure](https://archive.org/details/TNM_Omega-t_Systems_-_FasPlot_Plotter_20170630_0254)
 - [Commodore Computer Plotter CBM 8075 Brochure (German)](https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE)
 - [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)

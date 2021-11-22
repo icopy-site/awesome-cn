@@ -46,6 +46,11 @@
 - [Multi-tenancy with Prisma](https://github.com/errorname/prisma-multi-tenant)
 - [Starter Template for NestJS and Prisma](https://github.com/fivethree-team/nestjs-prisma-starter)
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection)
+- [Caching Prisma](https://github.com/joellefkowitz/cached-prisma)
+- [prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [prisma-sequelize-generator](https://github.com/floydspace/prisma-sequelize-generator)
+- [Prisma Schema Sorter - sort schema models, enums, generators and datasources](https://github.com/omar-dulaimi/prisma-schema-sorter)
+- [Declarative Authorisation Middleware](https://github.com/joindeed/prisma-auth)
 
 ### :gear: Schema Visualization Tools
 
@@ -53,7 +58,8 @@
 - [prisma-uml](https://github.com/emyann/prisma-uml)
 - [DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator)
 - [Prisma ERD Generator](https://github.com/keonik/prisma-erd-generator)
-- [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.ovy.cloud/)
+- [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
+- [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 
 ## :thinking: How Tos
 
@@ -98,7 +104,9 @@
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
-- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 使用 NestJS 和 Prisma 构建的 Restful api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 使用 NestJS 和 Prisma 构建的宁静 api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
+- [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - 使用 Prisma + Next.js + CI + 测试 + E2E 类型安全的启动项目 [tRPC](https://trpc.io)
+- [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - 带有 Prisma、next-auth、next.js、tailwindcss 和 graphql-shield 的全栈启动器
 
 ## Prisma 1
 

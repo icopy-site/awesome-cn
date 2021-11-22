@@ -61,7 +61,7 @@
 
 ## Datasets
 
-- [Ford Dataset](https://avdata.ford.com/)  - 数据集带有时间戳，包含来自所有传感器的原始数据、校准值、姿态轨迹、地面真实姿态和 3D 地图. 数据与机器人操作系统 (ROS) 兼容.
+- [Ford Dataset](https://avdata.ford.com/)  - 数据集带有时间戳，包含来自所有传感器的原始数据、校准值、姿态轨迹、地面实况姿态和 3D 地图. 数据与机器人操作系统 (ROS) 兼容.
   - [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) - 该数据集具有 2D 语义分割、3D 点云、3D 边界框和车辆总线数据.
@@ -74,7 +74,7 @@
 - [NuScenes](https://www.nuscenes.org/) - 用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - 由配备激光雷达和摄像头的福特 Fusion 车队收集的公共数据集.
-- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 广泛的公共数据集，主要专注于计算机视觉应用，但也包含激光雷达点云.
+- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
 - [Semantic KITTI](http://semantic-kitti.org/) - 用于语义和全景场景分割的数据集.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
 - [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - 在恶劣天气条件下（下雪天气）自动驾驶的公共大规模数据集.
@@ -139,10 +139,13 @@
 - [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - 基于扫描的 LiDAR 点云语义分割：一项实验研究 IV 2020.
   - [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
+- [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - 3D LIDAR 数据中的移动对象分割
+  - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：实时激光雷达里程计和测绘.
-- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
+- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - 用于 ROS 兼容 UGV 的轻量级和地面优化的激光雷达里程计和测绘 (LeGO-LOAM) 系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可提供跨多个平台和传感器配置的 2D 和 3D 实时同步定位和映射 (SLAM).
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)

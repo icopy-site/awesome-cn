@@ -60,10 +60,9 @@ Common Music 的工作转移到（基于方案的）cm3.
 * [Music](https://github.com/MegaLoler/Music) - Lisp 中的音乐表达框架，侧重于音乐理论（从头开始构建，与 Common Music 无关）.
 * [rq](https://github.com/openmusic-project/RQ) - OpenMusic 中的节奏转录库（版本 6.10 及更高版本）. [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs) .  [GPL3][2].
 * [scheduler](https://github.com/byulparan/scheduler)  - Common Lisp 的基于时间的音乐事件调度器.  [Apache2.0][89].
-* [mixalot](https://github.com/ahefner/mixalot) - Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the [Shuffletron music player](https://github.com/ahefner/shuffletron).
+* [mixalot](https://github.com/ahefner/mixalot) - Loosely-coupled collection of audio libraries for mp3, ogg vorbis, flac. Used for the [Shuffletron music player](https://github.com/ahefner/shuffletron) .  [麻省理工学院] [200].
 * [osc](https://github.com/zzkt/osc)  - 开放声音协议的实现.  [LGPL2.1][11].
 * [Harmony](https://shirakumo.github.io/harmony)  - 实时声音处理和播放系统.  [zlib] [33].
-* [mixalot](https://github.com/ahefner/mixalot)  - 松散耦合的音频库集合.  [麻省理工学院][200].
 
 
 构建系统
@@ -216,7 +215,7 @@ Tools
 Docker 镜像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 用于 Windows (amd64) 和 Alpine 和 Debian (amd64, arm64, arm/v7) [BSD_2Clause] [17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 用于 Windows (amd64) 和 Alpine 和 Debian (amd64、arm64、arm/v7) [BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -297,7 +296,7 @@ Graphics
 * [dufy](https://github.com/privet-kitty/dufy)  - 各种颜色模型中的精确颜色处理和转换.  [麻省理工学院][200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  - SDL 的一组绑定.  [外籍人士][14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  - ImageMagick 绑定.  [BSD] [15]. 不在 Quicklisp 中.
-* [okra](https://www.common-lisp.net/project/okra/manual.html) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
+* [okra](https://www.common-lisp.net/project/okra/manual.html)  - CFFI 绑定到 Ogre. 在 Quicklisp 上不可用.  [3 条款 BSD][15].
 * [opticl](https://github.com/slyrus/opticl)  - 用于表示和处理图像的库.  [BSD_2 条款][17].
 * [Varjo](https://github.com/cbaggers/varjo)  - Lisp 到 GLSL 翻译器.  [BSD_2 条款][17].
 * [Vecto](http://www.xach.com/lisp/vecto/)  - 简单的矢量绘图库.  [FreeBSD] [39].
@@ -421,9 +420,9 @@ CLOS 扩展
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
 将静态调度的速度带入 CLOS.  [LLGPL] [8].
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  - 允许静态（在编译时）而不是动态（运行时）执行标准的通用函数调度. 这类似于 C++ 和 Java 等语言中所谓的“重载”.  [麻省理工学院][200].
-* [dynamic-mixins](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD_2Clause][17].
+* [dynamic-mixins](https://github.com/rpav/dynamic-mixins)  - 简单、动态的类组合.  [BSD_2 条款][17].
 * [fast-generic-functions](https://github.com/marcoheisig/fast-generic-functions)  - 密封您的通用功能以进一步提高性能.  [麻省理工学院][200].
-* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 在类型上调度的函数类型，而不是部分支持在可选和关键字参数类型上调度的类. 仍在试验中（2021 年 5 月）.  [麻省理工学院][200].
+* [polymorphic functions](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT][200].
    - 多态函数根据提供给它的参数类型进行调度. 这有助于在专门的数组和用户定义的类型上进行调度.
   - 有关 specialization-store 和 fast-generic-functions 的差异，请参阅其自述文件.
 
@@ -533,7 +532,7 @@ Web开发
 
 * [Lisp for the Web](https://leanpub.com/lispweb) - 一本指导您构建三层投票 Web 应用程序的书.
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) - 简单的教程使用 [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis](https://github.com/vseloved/cl-redis), [restas](https://github.com/archimag/restas), [SEXML](https://github.com/madnificent/SEXML), [Postmodern](https://github.com/marijnh/Postmodern)， 和更多.
-* [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) - 介绍性教程，涵盖 Web 服务器设置、路由、webblock、模板、错误处理、打包、热重载、数据库连接和部署，以及当前 lisp Web 开发生态系统中的其他主题.
+* [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) - 介绍性教程，涵盖 Web 服务器设置、路由、web 块、模板、错误处理、打包、热重载、数据库连接和部署，以及当前 lisp Web 开发生态系统中的其他主题.
 
 Reference
 ---------
@@ -873,6 +872,7 @@ Others
 * [cl-geometry](https://github.com/Ramarren/cl-geometry/)  - Common Lisp 的二维计算几何系统.  [麻省理工学院][200].
 * [Vellum](https://github.com/sirherrbatka/vellum)  - Common Lisp 的数据帧.  BSD_2 条款.
 * [rtg-math](https://github.com/cbaggers/rtg-math/)  - 一系列在 lisp 中制作实时图形最常用的数学例程（2、3 和 4 分量向量、3x3 和 4x4 矩阵、四元数、球坐标和极坐标）.  BSD_2 条款.
+* [origin](https://github.com/mfiano/origin)  - 一个本地 Lisp 图形数学库，强调性能和正确性. 包括：向量、矩阵（最多 4x4）、四元数、单/双浮点支持、破坏性/非破坏性操作、整形和交叉.  [麻省理工学院][200].
 
 矩阵库
 ----------------
@@ -994,7 +994,7 @@ Readline、ncurses 和其他图形助手
   模式.  [GPL3][2].
 * [Linedit](https://common-lisp.net/project/linedit) - 阅读风格
   提供可定制行编辑的库
-  特征.  [麻省理工学院式] [210].
+  特征.  [MIT 风格] [210].
 * [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - 一个
    Common Lisp 中`libcurses` 的接口. 它提供了一个原始的，
   通过 CFFI 到 libcurses 的低级接口，以及更高级别的接口
@@ -1126,7 +1126,7 @@ Readline、ncurses 和其他图形助手
 * ：星星： [esrap](https://github.com/scymtym/esrap)  - Packrat 解析器.  [外籍人士][14].
 * [cl-yacc](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
 * [cl-shlex](https://github.com/ruricolist/cl-shlex/)  - 用于类 shell 语法的简单词法分析器.  [麻省理工学院][200].
-* [smug](https://github.com/drewc/smug)  - Common Lisp 的解析器组合器.  SMUG 使创建快速可扩展的递归下降解析器变得简单，而无需时髦的语法或难以理解的宏观.  [麻省理工学院][200].
+* [smug](https://github.com/drewc/smug)  - Common Lisp 的解析器组合器.  SMUG 使创建快速可扩展递归下降解析器变得简单，而无需时髦的语法或难以理解的宏观.  [麻省理工学院][200].
 * [parseq](https://github.com/mrossini-ethz/parseq)  - 使用解析表达式语法解析字符串和列表等序列的库. 灵感来自 Esrap.  GPL2.
 * [texp](https://github.com/eugeneia/texp/)  - 用于生成 TeX 的 DSL.  [AGPL-3.0][agpl3].
 
@@ -1135,7 +1135,7 @@ Readline、ncurses 和其他图形助手
 
 * [montezuma](https://github.com/sharplispers/montezuma/)  - 全文索引和搜索 Common Lisp.  [外籍人士][14].
 * [mk-string-metrics](https://github.com/cbaggers/mk-string-metrics) -
-  在 Common Lisp 中高效计算各种字符串度量
+  Calculate various string metrics efficiently in Common Lisp
   (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
   等等）.  [麻省理工学院] [200].
 * [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect) -

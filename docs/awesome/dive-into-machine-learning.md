@@ -119,10 +119,10 @@
 
 接下来，从这些 Jupyter Notebook 中挑选**一两个**并一起玩.
 
-- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
+- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - 按主题分类的各种笔记本：
-    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) -“这是交互式机器学习实验的集合.每个实验都包含️ Jupyter/Colab notebook（以了解模型是如何训练的）和演示页面”
+    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - “这是一个交互式机器学习实验的集合.每个实验都包含️ Jupyter/Colab notebook（查看模型是如何训练的）和演示页面”
     - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - 系列笔记本：
     - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - “Jupyter 笔记本使用 Scikit-Learn、Keras 和 TensorFlow 2 引导您了解 Python 中机器学习和深度学习的基础知识.”
@@ -218,7 +218,7 @@
 如果您正在遵循本指南，则应该阅读该论文. 你也可以 [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
 - **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning), “一个精选的开源库列表，用于部署、监控、版本和扩展您的机器学习.”** 它包括一个关于 [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)， 顺便一提！
- - **[“机器学习规则：[可靠] ML 工程的最佳实践，”](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** Martin Zinkevich，关于 ML 工程实践. 有一个 [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
+ - **[“机器学习规则：[可靠] ML 工程的最佳实践”，](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** Martin Zinkevich，关于 ML 工程实践. 有一个 [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
 - **[Surviving Data Science "at the Speed of Hype"](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype)** 作者：John Foreman，MailChimp 的数据科学家
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 - [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
@@ -227,7 +227,7 @@
 
 ### Welcome to the Danger Zone
 
-所以你正在涉足机器学习. 你有黑客技能. 也许你有一些 Domingos 意义上的“知识”（一些“实质性专业知识”或“领域知识”）. 此图略有修改自 [Drew Conway's "Data Science Venn Diagram."](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) 它不_完美_适合我们这里的目的，但它可能会理解这一点：
+所以你正在涉足机器学习. 你有黑客技能. 也许你有一些 Domingos 意义上的“知识”（一些“实质性专业知识”或“领域知识”）. 此图略有修改自 [Drew Conway's "Data Science Venn Diagram."](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) 它不_完美_适合我们这里的目的，但它可能会说明重点：
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](https://user-images.githubusercontent.com/2420688/29441268-f429d88c-837e-11e7-83ff-30874d832c89.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
@@ -271,10 +271,6 @@ You also need **understanding.** You should review what Kaggle competition winne
 
 ### Production, Deployment, [MLOps](https://ml-ops.org/)
 
-MLOps 可以帮助您处理这样的问题：
-
-[![image](https://user-images.githubusercontent.com/2420688/142702473-58834c0b-eda7-4496-a449-4bc24aa217b1.png)](https://valohai.com/mlops-ebook/)
-
 如果您正在学习 MLOps 但发现它不堪重负，这些资源可能会帮助您了解方向：
 
 * [MLOps Stack Template](https://valohai.com/blog/the-mlops-stack/) 亨里克·斯科格斯特伦 (Henrik Skogström)
@@ -293,7 +289,7 @@ MLOps 可以帮助您处理这样的问题：
 
 在本指南的早期版本中，没有专门的“深度学习”部分. 该领域的专家警告不要跳得太远.
 
-也许这是检查你的进步的一种方式：问问你自己，深度学习看起来像魔法吗？ 如果是这样，请将其视为您还没有准备好专业地使用它的标志，并让这种迷恋激励您学习更多. 我读过一些关于你可以单独学习深度学习的论点； 我读过其他人建议最好先掌握传统的机器学习. 为什么不从传统的机器学习开始，并在那里发展您的推理和直觉？ 在那之后，你只会更轻松地学习深度学习. 毕竟，您将能够解决各种有趣的问题.
+也许这是检查你的进步的一种方式：问问你自己，深度学习看起来像魔法吗？ 如果是这样，请将其视为您还没有准备好专业地使用它的标志，并让这种迷恋激励您学习更多. 我读过一些关于你可以单独学习深度学习的论点； 我读过其他人建议最好先掌握传统的机器学习. 为什么不从传统的机器学习开始，并在那里发展您的推理和直觉？ 在那之后，您只会更轻松地学习深度学习. 毕竟，您将能够解决各种有趣的问题.
 
 无论如何，当您准备好深入学习深度学习时，这里有一些有用的资源.
 

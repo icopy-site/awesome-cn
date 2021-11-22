@@ -22,6 +22,7 @@
 - [vlc-bittorrent](https://github.com/johang/vlc-bittorrent) - VLC 的 bittorrent 插件.
 - [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker)  - 标记插件使您能够标记视频的重要部分. 这些部分可以稍后查看，而无需在整个视频中进行搜索.
 - [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) - 将 VLC 媒体播放器与 Windows 10 系统媒体传输控制 (SMTC) 集成的插件.
+- [vlc-mixer](https://github.com/lachie/vlc-mixer) - 用 Zig 编写的音频混音器 VLC 插件.
 
 ## VLC lua extensions
 

@@ -14,6 +14,7 @@
 
 ### Learning
 
+* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像一个让我们玩，但对于晦涩的软件文档.
 * [Nix Notes](https://github.com/noteed/nix-notes) - 一组关于 Nix 的简短注释，每个注释都贡献于同一个虚拟机映像.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
