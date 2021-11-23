@@ -97,9 +97,9 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 任何特定语言，因此无论您是
 最熟悉 JavaScript、Ruby、Python、Java 或 C++.
 
-The book features hundreds of interesting and practical examples of
+这本书包含数百个有趣和实用的例子
 涵盖整个语言及其最重要库的惯用 Go 代码，
-和广泛的应用.
+and a wide range of applications.
 源代码可从本书的配套网站免费下载
 [gopl.io](http://gopl.io/),
 并且可以使用 `go get` 命令方便地获取、构建和安装.
@@ -172,14 +172,14 @@ The book features hundreds of interesting and practical examples of
 - 知道哪些 Go 功能应该少用或根本不使用
 
 
-**Advanced Books**
+**高级书籍**
 ---
 
 ### [Building Distributed Applications in Gin](https://www.packtpub.com/product/building-distributed-applications-in-gin/9781801074858)
 
 <img src="https://static.packt-cdn.com/products/9781801074858/cover/smaller" width="120px"/>
 
- Gin 是一个高性能的 HTTP Web 框架，用于在 Go 中构建 Web 应用程序和微服务. 本书旨在通过实际示例教您 Gin 框架的来龙去脉.
+Gin is a high-performance HTTP web framework used to build web applications and microservices in Go. This book is designed to teach you the ins and outs of the Gin framework with the help of practical examples.
 
 您将首先探索 Gin 框架的基础知识，然后继续构建现实世界的 RESTful API. 在此过程中，您将学习如何编写自定义中间件并了解路由机制，以及如何绑定用户数据和验证传入的 HTTP 请求. 本书还演示了如何使用 MongoDB 等 NoSQL 数据库大规模存储和检索数据，以及如何使用 Redis 实现缓存层. 接下来，您将了解如何使用 OAuth 2 和 JWT 等身份验证协议保护和测试 API 端点. 后面的章节将指导您在服务器端渲染 HTML 模板，并使用 React Web 框架构建前端应用程序以使用 API 响应. 最后，您将在 Amazon Web Services (AWS) 上部署您的应用程序，并学习如何使用持续集成和持续交付 (CI/CD) 管道自动化部署过程.
 
@@ -339,6 +339,14 @@ The Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书.
 
 您应该如何以及何时应用性能效率优化而不浪费时间？ 作者 Bartlomiej Plotka 和 Frederic Branczyk 提供了使用更少资源提高系统速度所需的工具和知识. 一旦您学会了如何在 Go 应用程序中解决性能问题，您将能够将小而有效的习惯带入您的编程和开发周期.
 
+### [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
+
+<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1637343170143-XPC7BV7IZDWTUDW8KHBH/cover.png?format=120w" width="120px"/>
+
+ Go 是编写 DevOps 和系统程序，尤其是命令行工具的流行选择. 我们如何用 Go 编写简单、强大、惯用甚至漂亮的工具？ 这本书涵盖了所有必要的技术：功能选项、标志和参数、文件和文件系统、执行命令、编写 shell 和管道、JSON 和 YAML 争论，甚至复杂的 API 客户端. 
+
+更重要的是，这本书教你如何像软件工程师一样_思考_：如何将问题分解成可管理的块，如何在编写函数之前对其进行测试，以及如何设计让用户满意的 Go CLI.
+
 **Web开发**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
@@ -367,7 +375,7 @@ The Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书.
 
 本书为您提供在 Web 应用程序中使用 Go 所需的一切. 您将学习基本概念——语言结构、标准库和 Go 工具——然后处理更高级的功能，如并发概念、测试方法和包结构.
 
-在每一步，你都会得到关于在 Go 中更好地编码的建议. 您将看到如何构建项目、如何有效地使用并发性以及测试的最佳实践——以及从使用 Go 开发 Web 应用程序的实际经验中收集到的许多其他提示和技巧.
+在每一步，你都会得到关于在 Go 中更好地编码的建议. 您将看到如何构建项目、如何有效地使用并发、测试的最佳实践——以及从使用 Go 开发 Web 应用程序的实际经验中收集到的许多其他提示和技巧.
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
@@ -403,7 +411,7 @@ The Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书.
 
 <a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
 
-一本包含如何使用 Docker 和 Go 创建终极 12 Factor 应用程序示例的书. 它遍历了各个步骤 [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) 指南以及如何使用 Go 和 Docker 实现它们.
+A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) 指南以及如何使用 Go 和 Docker 实现它们.
 
 ### [Build SaaS apps in Go](https://buildsaasappingo.com)
 
@@ -431,7 +439,7 @@ The Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书.
 
  Go 编程语言是一种简单的语言，但与所有其他语言一样，它也有其怪癖. 本书利用这些怪癖作为教学机会. 通过了解您的知识差距 - 您会变得更好.
 
-This book contains 25 mind bending quizzes and answers. You can view a sample chapter [here](https://www.353solutions.com/go-brain-teasers).
+本书包含 25 个令人费解的测验和答案. 您可以查看示例章节 [here](https://www.353solutions.com/go-brain-teasers).
 
 ### [Creative DIY Microcontroller Projects with TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208)
 
@@ -453,7 +461,7 @@ This book contains 25 mind bending quizzes and answers. You can view a sample ch
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，本书帮助早期采用者和有经验的开发人员真实地了解用 Go 构建的系统是什么样子.
+ Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算进入这个迷人的世界，你必须知道 Go 如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序等等一些.  *使用 GO 构建系统：Gopher 必须知道的一切* 分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供示例和解释，说明可在任何 Go 中使用的最强大的库发展. 拥有 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，本书帮助早期采用者和有经验的开发人员真实地了解用 Go 构建的系统是什么样子.
 
 ### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 
@@ -465,7 +473,7 @@ The Go ecosystem is helping developers to build distributed and scalable systems
 
 <img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
 
-The book begins with an introduction to Go data structures and algorithms. You'll learn how to store data using linked lists, arrays, stacks, and queues. Moving ahead, you'll discover how to implement sorting and searching algorithms, followed by binary search trees. This book will also help you improve the performance of your applications by stringing data types and implementing hash structures in algorithm design. Finally, you'll be able to apply traditional data structures to solve real-world problems.
+本书首先介绍了 Go 的数据结构和算法. 您将学习如何使用链表、数组、堆栈和队列来存储数据. 继续前进，您将发现如何实现排序和搜索算法，然后是二叉搜索树. 本书还将通过在算法设计中串接数据类型和实现散列结构来帮助您提高应用程序的性能. 最后，您将能够应用传统数据结构来解决实际问题.
 读完本书，您将熟练地在 Go 中实现经典的数据结构和算法，从而推动您成为一名自信的 Go 程序员.
 
 Resources

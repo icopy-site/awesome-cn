@@ -5,7 +5,7 @@
 这份清单的灵感来自于 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
 您可以通过发送拉取请求来添加更多服务来提供帮助. 请阅读 [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) 第一的.
-一旦我在这个 README 文件中有一组很好的链接，我就会为信息和链接寻找更好的布局（也很感谢这方面的帮助）.
+一旦我在这个 README 文件中有一组很好的链接，我就会为信息和链接寻找更好的布局（也很感激能提供帮助）.
 
 如果你不想做 PR，你可以在推特上告诉我 [@acho_arnold](https://twitter.com/acho_arnold)!
 
@@ -17,7 +17,7 @@
 
 ## Source Code Repos
 
-  * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) [免费] - 为学术用户和团队免费提供无限制的公共和私人存储库.
+  * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) [免费] - 为学术用户和团队提供无限制的免费公共和私人存储库.
   
   * [GitHub](https://education.github.com/pack) [免费] - 个人帐户（通常每月 7 美元），在您还是学生时拥有无限的私人存储库.
 
@@ -37,7 +37,7 @@
     * WebStorm - JavaScript IDE
     * RubyMine - Ruby IDE
   
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费] - 工具套件，可简化利用并行处理提高应用程序性能的代码的设计、开发、调试和调整. 学生免费.
+  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费] - 工具套件，可简化利用并行处理来提高应用程序性能的代码的设计、开发、调试和调整. 学生免费.
   
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   
@@ -59,7 +59,7 @@
   
   * [DeepScan](https://education.github.com/pack/redeem/deepscan) [免费] - DeepScan 是一个用于构建更好、更可靠的 JavaScript 应用程序的平台.当您还是学生时，可免费试用 6 个月.
   
-  * [PopSQL](https://education.github.com/pack/redeem/popsql) [免费] - 适合您团队的现代协作 SQL 编辑器 — 编写查询、可视化数据并共享您的结果.当您还是学生时，可免费订阅 PopSQL 高级版.
+  * [PopSQL](https://education.github.com/pack/redeem/popsql) [免费] - 适合您团队的现代协作 SQL 编辑器 — 编写查询、可视化数据并共享结果.当您还是学生时，可免费订阅 PopSQL 高级版.
   
   * [SQLGate](https://www.sqlgate.com/student-pack) [免费] - 适用于多个 SQL 数据库的简单但功能强大的 IDE.在 1 年内使用大多数标准订阅功能.
   
@@ -71,7 +71,7 @@
 
   * [Xojo](https://education.github.com/pack/redeem/xojo) [免费] - 一种跨平台开发工具，用于在学生期间免费为 Desktop.Xojo 桌面许可证制作本机应用程序.
   
-  * [Yakindu](https://education.github.com/pack/redeem/yakindu) [免费] - 基于状态机概念的反应式、事件驱动系统的规范和开发的集成建模环境.Yakindu 专业版免费 1 年.
+  * [Yakindu](https://education.github.com/pack/redeem/yakindu) [免费] - 基于状态机概念的反应式事件驱动系统的规范和开发的集成建模环境.Yakindu 专业版免费 1 年.
 
 
 ## Version Control
@@ -86,9 +86,9 @@
 
 * [Github Desktop](https://desktop.github.com/)  [免费] - 专注于重要的事情，而不是与 Git 对抗. 无论您是 Git 新手还是经验丰富的用户，GitHub Desktop 都能简化您的开发工作流程.
 
-* [Better Code Hub](https://bettercodehub.com/github-student-developer-pack)  [免费] - 更好的代码中心为每个推送和拉取请求提供了代码质量和可操作的重构反馈的定义. 免费升级到个人许可证以分析您的个人私人存储库.
+* [Better Code Hub](https://bettercodehub.com/github-student-developer-pack)  [免费] -Better Code Hub 为每个推送和拉取请求提供了代码质量的完成定义和可操作的重构反馈. 免费升级到个人许可证以分析您的个人私人存储库.
 
-* [Blackfire.io](https://blackfire.io/students)  [免费] - 代码性能测量工具. 查找和修复瓶颈.为学生免费订阅 Profiler.
+* [Blackfire.io](https://blackfire.io/students)  [免费] - 代码性能测量工具. 查找并修复瓶颈.为学生免费订阅 Profiler.
 
 * [Codecov](https://codecov.io/github-students) [免费] - Codecov 可以轻松实现代码覆盖以开发更健康的代码.在公共和私有存储库上免费访问 Codecov.
 
@@ -100,7 +100,7 @@
 
 * [DeepSource](https://education.github.com/pack/redeem/deepsource)  [免费] - Python 和 Go 的静态代码分析器. 检测错误风险、反模式和安全漏洞.学生免费 Pro 订阅.
 
-* [Imgbot](https://imgbot.net/github-students/) [免费] - Imgbot 是一个 GitHub 应用程序，可自动优化您的图像.当您还是学生时，为您的所有公共和私人项目提供免费图像优化.
+* [Imgbot](https://imgbot.net/github-students/) [免费] - Imgbot 是一个 GitHub 应用程序，可以自动优化您的图像.当您还是学生时，可以为您所有的公共和私人项目提供免费的图像优化.
 
 * [Restyled](https://restyled.io/github-students) [免费] - 使用 Restyled，自动重新格式化 Pull Requests 以具有一致的样式.当您还是学生时，可以在私人存储库上免费运行 Restyled.
 
@@ -119,9 +119,11 @@
 
 * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费] - 为学生提供为期 1 年的 Designer 包免费网络托管和折扣升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [NodeHost](https://www.nodehost.ca/teachers)  [免费] - PHP 托管. 每个站点 500MB 存储、80GB 带宽、1 个数据库和 2 个电子邮件帐户，28 天备份历史记录.
+* [NodeHost](https://www.nodehost.ca/teachers)  [免费] - PHP 托管. 每个站点 500MB 存储空间、80GB 带宽、1 个数据库和 2 个电子邮件帐户，28 天备份历史记录.
 
-* [Pageclip](https://pageclip.co/github-students) [免费] - 用于静态网站和 HTML 表单的服务器.学生期间的免费基本计划.
+* [Pageclip](https://pageclip.co/github-students) [免费] - 用于静态网站和 HTML 表单的服务器.当您还是学生时，免费基本计划.
+
+* [Qoddi](https://qoddi.com) [信用] - Qoddi 每年提供 1000 美元 [every student](https://blog.qoddi.com/flashdrive-student-program/)
 
 
 ## Design and Photo Editing
@@ -158,9 +160,9 @@
 
 * [Customerly](https://education.github.com/pack/redeem/customerly) [免费] - SaaS.Customerly Pro 的实时聊天、行为漏斗、时事通讯和应用内调查免费 6 个月.
 
-* [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[免费] - Loom 是一款视频录制工具，可帮助您通过即时共享的视频传达您的信息.
+* [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)[免费] - Loom 是一种视频录制工具，可帮助您通过即时共享的视频传达您的信息.
 
-* [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)[积分] - 学生通过 TwilioQuest 免费获得 50 美元的 Twilio API 积分和独家游戏内物品 [Github Student Developer Pack](https://education.github.com/pack).
+* [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)[CREDIT] - 学生通过 TwilioQuest 免费获得 50 美元的 Twilio API 积分和独家游戏内物品 [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## PaaS
@@ -175,14 +177,14 @@
 
 * [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
 
-* [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，支持许多开箱即用的语言和 Docker 支持. 每个人可获得 100 美元的免费学分 + 每年 1000 美元的学生计划免费学分（询问 support@flashdrive.io）
+* [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，支持许多开箱即用的语言和 Docker 支持. 每个人可获得 100 美元的免费学分 + 每年通过学生计划获得 1000 美元的免费学分（询问 support@flashdrive.io）
 
 
 ## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [信用] - 学生计划每月 15,000 封免费电子邮件（通常限制为每天 200 封免费电子邮件），而您是学生，可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费] - 强大的 API 使您能够轻松发送、接收和跟踪电子邮件.每月 20,000 封免费电子邮件和 100 封免费电子邮件验证，最多 12 个月，可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
+* [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费] - 强大的 API，使您能够轻松发送、接收和跟踪电子邮件.每月 20,000 封免费电子邮件和 100 封免费电子邮件验证，最多 12 个月，可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Testmail.app](https://testmail.app/github-students)  [免费] - 获取无限的电子邮件地址和邮箱，以使用我们强大的 API 自动进行电子邮件测试. 学生期间的免费基本计划.
 
@@ -204,7 +206,7 @@
 
 ## Management Systems
 
-  * [Bitnami](https://bitnami.com)  [免费] - 一键安装云应用. 一年的 Business 3 计划（通常每月 49 美元）可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Bitnami](https://bitnami.com)  [免费] - 单击即可安装云应用程序. 一年的 Business 3 计划（通常每月 49 美元）可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Yellow Circle](https://yellowcircle.net) [免费] - 为各级学生和教师提供免费的在线沙箱，通过创建和配置虚拟路由器、虚拟机以及虚拟防火墙、负载平衡器和存储设备来学习和练习 IT、网络和编程技能.
 
@@ -216,7 +218,7 @@
 
 * [PushBots](https://pushbots.com/for/education/)  [免费] - 通过推送通知吸引您的移动和网络应用程序用户的最简单方法. 免费高级帐户 6 个月.
 
-* [EverSQL](https://www.eversql.com/github-students/) [免费] - 通过自动优化您的 SQL 查询来提高您的数据库性能.免费订阅 6 个月基本计划
+* [EverSQL](https://www.eversql.com/github-students/) [免费] - 通过自动优化您的 SQL 查询来提高您的数据库性能.免费订阅 6 个月的基本计划
 
 * [Weglot](https://weglot.com/github-students/) [FREE] - Make any website multilingual and manage your translations through a single platform.Free 1-year Pro Plan giving you access to unlimited languages + up to 200k translated words.
 
@@ -239,20 +241,20 @@
 
 ## Programming Help
 
-  * [HackHands](https://hackhands.com/education/)  [信用]- 24/7 全天候提供实时编程帮助. 向学生提供 25 美元的平台信用 [Github Student Developer Pack](https://education.github.com/pack).
+  * [HackHands](https://hackhands.com/education/)  [信用]- 24/7 全天候提供实时编程帮助. 向学生提供 25 美元的平台信用，通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Evernote](https://evernote.com/students)  [折扣] - 从任何地方捕捉、整理和分享笔记. 全年使用 Evernote Premium 可享受 50% 的折扣.
 
-* [Covalence](https://education.github.com/pack/redeem/covalence)[免费] - 加入独家开发者社区，学习全栈 Web 开发，无需长期承诺.免费一个月的 Covalence 原子计划和两次 1 对 1 指导课程通过 [Github Student Developer Pack](https://education.github.com/pack).
+* [Covalence](https://education.github.com/pack/redeem/covalence)[免费] - 加入独家开发者社区，学习全栈 Web 开发，无需长期承诺.免费一个月的 Covalence 原子计划和两次一对一辅导课程 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Transloadit](https://transloadit.com/github-students/)  [免费] - 一个多功能的上传和编码 API，可以自动进行任何文件转换. 免费启动计划，包括 10GB 的编码积分.
 
-* [Jaamly](https://education.github.com/pack/redeem/jaamly) [免费] - 帮助开发者、设计师和初创公司在 App Store.Jaamly 启动计划上免费发布他们的应用程序 6 个月.
+* [Jaamly](https://education.github.com/pack/redeem/jaamly) [免费] - 帮助开发者、设计师和初创公司在 App Store 上发布他们的应用程序.Jaa​​mly 启动计划免费 6 个月.
 
 
 ## Domain Name Registers
 
-  * [NameCheap](http://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年域名，在 .io、.tech、.com 和 .website 上注册可享受大幅折扣. 包括托管 Ghost 博客平台或曝光照片网站的可选免费年.
+  * [NameCheap](http://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年域名，在 .io、.tech、.com 和 .website 上注册可享受大折扣. 包括托管 Ghost 博客平台或曝光照片网站的可选免费年.
 
 * [.tech](https://get.tech/students) [折扣] - 在 .tech TLD 上注册一年，费用为 0.99 美元，推荐可免费续订.
 
@@ -261,7 +263,7 @@
 
 ## Security
 
-  * [NameCheap](https://namecheap.com/) [折扣] - 一年 SSL 证书（通常为 9 美元/年）通过 [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](https://namecheap.com/) [折扣] - 一年 SSL 证书（通常 9 美元/年）通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Shodan](https://www.shodan.io/)  [免费/信用] - 免费升级（通常为 49 美元）以获得对 shodan 提供的所有内容的完全访问权 + 100 出口信用. 注册时只需使用您的学术电子邮件地址.
 
@@ -275,7 +277,7 @@
 
 * [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [免费] - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.一年的免费 LambdaTest 实时计划.
 
-* [SOFY](https://education.github.com/pack/redeem/sofy) [免费] - SOFY 自动化您的软件测试，使用机器学习创建测试，根据产品变化、客户使用数据建议测试场景并大规模运行. 6 个月的免费网站和移动应用程序测试.
+* [SOFY](https://education.github.com/pack/redeem/sofy) [免费] - SOFY 自动化您的软件测试，使用机器学习创建测试，根据产品变化、客户使用数据建议测试场景并大规模运行.6 个月的免费网站和移动应用程序测试.
 
 
 ## Software Modeling Tools
@@ -284,7 +286,7 @@
 
 * [Axure RP](http://www.axure.com/edu) [免费] - Axure RP Pro 的免费教育许可证
 
-* [Vertabelo](https://my.vertabelo.com/sign-up/create-academic)  [免费] - 在线可视化数据库设计. 为正在学习或教授数据库建模的学生和讲师提供 100% 免费的学术帐户.
+* [Vertabelo](https://my.vertabelo.com/sign-up/create-academic)  [免费] - 在线可视化数据库设计. 为学习或教授数据库建模的学生和讲师提供 100% 免费的学术帐户.
 
 * [Invision](http://www.invisionapp.com/education-signup) [免费] - 原型设计和模型工具
 
@@ -301,19 +303,19 @@
 
 * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) 和 [SAS OnDem和 Academic](http://www.sas.com/en_us/industry/higher-education/on-dem和-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM 和 hosts SAS Studio for use with a browser on the host computer. SAS OnDem和 hosts SAS Studio for use in the cloud without installation. Both are free for students 和 teachers at any level.
 
-* [Appfigures](https://appfigures.com/landing/github-student)  [免费] - App Store 分析、优化和智能. 免费使用成长计划 1 年.
+* [Appfigures](https://appfigures.com/landing/github-student)  [免费] - App Store 分析、优化和智能. 免费使用 Grow 计划 1 年.
 
-* [Scrapinghub](https://education.github.com/pack/redeem/scrapinghub)  [免费] - Scrapinghub 的 Scrapy Cloud 是一个经过实战考验的云平台，用于运行网络爬虫. 大规模管理和自动化您的网络蜘蛛.1 免费的 Forever Scrapy Cloud Unit - 无限的团队成员、项目或请求. 无限的抓取时间和 120 天的数据保留.
+* [Scrapinghub](https://education.github.com/pack/redeem/scrapinghub)  [免费] - Scrapinghub 的 Scrapy Cloud 是一个经过实战考验的云平台，用于运行网络爬虫. 大规模管理和自动化您的网络蜘蛛.1 免费的 Forever Scrapy Cloud Unit - 无限的团队成员、项目或请求. 无限抓取时间和 120 天数据保留.
 
 * [Typeform](https://education.github.com/pack/redeem/typeform) [免费] - 互动表格、调查和测验，以吸引和发展您的受众.一年的免费专业计划.
 
-* [Baremetrics](https://education.github.com/pack/redeem/baremetrics-student) [免费] - 适用于 SaaS 和订阅业务的指标、催款和参与工具.当您还是学生时，免费获得高达 2.5 万美元的每月经常性收入的 Baremetrics.
+* [Baremetrics](https://education.github.com/pack/redeem/baremetrics-student) [免费] - 适用于 SaaS 和订阅业务的指标、催款和参与工具.当您还是学生时，免费获得高达 250 美元的每月经常性收入的 Baremetrics.
 
 * [CodeScene](https://education.github.com/pack/redeem/codescene-student) [免费] - 一个强大的可视化工具，它使用预测分析来识别代码中的社交模式、检测交付风险和管理技术债务.一个免费的学生帐户来分析私有 GitHub 存储库.
 
 * [Simple Analytics](https://simpleanalytics.com/students) [免费] - 隐私友好的分析，具有简单的界面和 API.Starter 计划，免费一年，包括每月 100k 的页面浏览量.
 
-* [DailyBot](https://education.github.com/pack/redeem/dailybot) [免费] - 为您的团队自动执行每日站会、跟进、回顾、调查和反馈.DailyBot 商业计划免费 1 年.
+* [DailyBot](https://education.github.com/pack/redeem/dailybot) [免费] - 为您的团队自动进行每日站会、跟进、回顾、调查和反馈.DailyBot 商业计划免费 1 年.
 
 * [Freshpaint](https://education.github.com/pack/redeem/freshpaint) [免费] - 一键集成您的营销和分析工具.当您还是学生时，即可获得免费的 Freshpaint 成长计划.
 
@@ -322,7 +324,7 @@
 
 ## Game Development Tools
 
- * [Unity3D](https://education.github.com/pack/redeem/unity) [免费] - 使用世界领先的实时开发平台来完成您的创作目标，该平台用于创建世界上一半的游戏.学生期间免费使用Unity Student Plan.
+ * [Unity3D](https://education.github.com/pack/redeem/unity) [免费] - 使用世界领先的实时开发平台来完成您的创作目标，该平台曾用于制作世界上一半的游戏.学生期间免费使用Unity Student Plan.
 
 * [Unreal Game Engine](https://www.unrealengine.com/education)  [免费] - 虚幻引擎 4 是一套完整的游戏开发工具. 从 2D 手机游戏到主机大片和 VR，虚幻引擎 4 为您提供启动、发布、发展和脱颖而出所需的一切. 的一部分 [Github Student Developer Pack](https://education.github.com/pack)
 
@@ -334,9 +336,9 @@
 
 ## Password Managers
 
-* [1Password](https://www.studentappcentre.com/discounts/1password)  - [免费] 6 个月的 1Password 帐户免费.  （此后使用个人帐户 $3/月）
+* [1Password](https://www.studentappcentre.com/discounts/1password)  - [免费] 6 个月的 1Password 帐户免费.  （此后每月 3 美元，使用个人账户）
 
-* [Dashlane](https://www.dashlane.com/students) [免费] - 1 年免费 Dashlane Premium for Students，为新用户和现有用户提供符合条件的学生电子邮件（此后每月 3.33 美元）
+* [Dashlane](https://www.dashlane.com/students) [免费] - 为学生提供 1 年免费 Dashlane Premium，为新用户和现有用户提供符合条件的学生电子邮件（此后每月 3.33 美元）
 
 * [RoboForm](https://www.roboform.com/promotions/college) [免费] - 第一年对拥有有效学院或大学电子邮件地址的学生和教授免费（此后每年 12 美元）
 
@@ -344,9 +346,9 @@
 
 * [Datadog](http://studentpack.datadoghq.com/)  [免费] - Datadog Pro 帐户的 2 年许可证，适用于监控 10 个服务器. 的一部分 [Github Student Developer Pack](https://education.github.com/pack)
 
-* [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[免费] - 异常、正常运行时间和 cron 监控. 1 年的免费小型帐户可通过 [Github Student Developer Pack](https://education.github.com/pack).
+* [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[免费] - 异常、正常运行时间和 cron 监控.免费小账户 1 年可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [LogDNA](https://www.logdna.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)[免费] - 日志管理平台，可对来自任何来源的任何卷的服务器和应用程序日志进行聚合、监控和分析.通过 [Github Student Developer Pack](https://education.github.com/pack).
+* [LogDNA](https://www.logdna.com/blog/get-a-free-logdna-account-in-the-github-student-developer-pack)[免费] - 日志管理平台，可对来自任何来源的任何卷的服务器和应用程序日志进行聚合、监控和分析.高达 50 GB/月的日志存储，通过以下方式保留一年 14 天 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [Netwise](https://www.netwise.co.uk/students/) [免费] - 用于托管关键 IT 基础设施系统的交钥匙数据中心服务.12 个月免费的单台服务器托管包.
 
@@ -368,9 +370,9 @@
 
 ## Learning Resources
 
-* [Association of Computing Machinery with Digital Library](https://www.acm.org)  [折扣] - 通常访问 ACM 及其数字图书馆的费用为每年 198 美元，但是，当前的 IT 和计算机科学专业学生每年只需 42 美元即可访问. 数字图书馆允许访问 O&#39;Reilly 的在线学习平台，该平台通常每月花费 39 美元.  O&#39;Reilly 的在线学习平台就像 Netflix，用于学习来自 Pearson、O&#39;Reilly、No Starch Press 等出版商的书籍和视频课程的学习材料.
+* [Association of Computing Machinery with Digital Library](https://www.acm.org)  [折扣] - 通常访问 ACM 及其数字图书馆的费用为每年 198 美元，但是，当前的 IT 和计算机科学专业学生每年只需 42 美元即可获得访问权限. 数字图书馆允许访问 O&#39;Reilly 的在线学习平台，该平台通常每月花费 39 美元.  O&#39;Reilly 的在线学习平台就像 Netflix，用于学习来自 Pearson、O&#39;Reilly、No Starch Press 等出版商的书籍和视频课程的学习材料.
 
-* [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)  [免费] - 通过深入的 JavaScript、Node.js 和前端工程课程提高您的技能. 通过这门精彩的课程，开始您在全栈开发领域的职业生涯.  6 个月免费访问所有课程和研讨会.
+* [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)  [免费] - 通过深入的 JavaScript、Node.js 和前端工程课程提高您的技能. 通过这门精彩的课程，开始您在 FullStack 开发领域的职业生涯.  6 个月免费访问所有课程和研讨会.
 
 * [One Month](https://onemonth.com/github/students) [免费] - 在短短 30 天内学​​习 HTML、CSS、JavaScript 和 Python！您将获得 30 天免费订阅一个月.
 
@@ -378,7 +380,7 @@
 
 * [GO RAILS](https://gorails.com/github-students)  [免费] - Web 开发人员学习 Ruby、Rails、Javascript、Turbolinks、Stimulus.js、Vue.js 等的教程. 免费访问所有视频和课程 12 个月.
 
-* [Thinkful](https://www.thinkful.com/github-student-developer-pack/) [免费] - 学习 Web 开发的基础知识，开启您的开发人员职业生涯.1 个月的 Web 开发课程访问权限.
+* [Thinkful](https://www.thinkful.com/github-student-developer-pack/) [免费] - 学习 Web 开发的基础知识，开启您的开发人员职业生涯.1 个月的 Web 开发课程.
 
 * [SymfonyCasts](https://symfonycasts.com/github-student)  [免费] - 通过视频教程和代码挑战掌握 Symfony 和 PHP. 学生免费订阅 3 个月. 
 
@@ -400,7 +402,7 @@
 
 * [USETogether](https://www.use-together.com/github-students/) [免费] - 远程结对编程和团队协作工具.学生期间的免费高级订阅，每 6 个月续订一次.
 
-* [Github Campus Experts](https://apply.githubcampus.expert/) [免费] - GitHub 校园专家是在校园内建立技术社区的学生，他们接受 GitHub 的培训和支持.在学生期间申请成为该计划的一部分.
+* [Github Campus Experts](https://apply.githubcampus.expert/) [免费] - GitHub 校园专家是在校园内建立技术社区的学生，他们接受 GitHub 的培训和支持.在您还是学生时申请成为该计划的一部分.
 
 ##  Data science
 

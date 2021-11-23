@@ -151,14 +151,14 @@ them.
   （Python、BSD、 [GitHub](https://github.com/enthought/mayavi))
 - [Polyscope](https://polyscope.run/) - 用于 3D 几何处理的查看器和用户界面.
   （C++，麻省理工学院， [GitHub](https://github.com/nmwsharp/polyscope))
-- [PyVista](https://docs.pyvista.org/) - 通过简化的 VTK 界面进行 3D 绘图和网格分析.
+- [PyVista](https://docs.pyvista.org/) - 通过 VTK 的流线型界面进行 3D 绘图和网格分析.
   （Python，麻省理工学院， [GitHub](https://github.com/pyvista/pyvista))
 - [vedo](https://vedo.embl.es) - 基于 VTK 的 3D 对象科学分析和可视化库.
   （Python，麻省理工学院， [GitHub](https://github.com/marcomusy/vedo))
 - [yt](https://yt-project.org/) - 用于分析和可视化体积数据的工具包.
   （Python、BSD、 [GitHub](https://github.com/yt-project/yt))
-- [F3D](https://kitware.github.io/F3D/) - 具有科学可视化工具的跨平台、快速和简约的 3D 查看器.
-  (C++, BSD, [GitLab](https://gitlab.kitware.com/f3d/f3d))
+- [F3D](https://f3d-app.github.io/f3d/) - 具有科学可视化工具的跨平台、快速和简约的 3D 查看器.
+  (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
 - [TTK](https://topology-tool-kit.github.io/) - 拓扑数据分析和可视化.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
 
