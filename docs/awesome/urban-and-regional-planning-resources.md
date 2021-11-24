@@ -43,7 +43,7 @@
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布.
 - [MACA](https://climate.northwestknowledge.net/MACA/) - MACA 方法是一种统计降尺度方法，用于消除全球气候模型输出的偏差. 
-- [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - A novel tools & data for flexible spatial and temporal analyses of much of the observed and projected climate change information underpinning the Working Group I contribution to the Sixth Assessment Report, including regional synthesis for Climatic Impact-Drivers (CIDs).
+- [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新颖的工具和数据，用于对大部分观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
 - [WUDAPT](https://www.wudapt.org/) - 该数据库旨在提供与全球气候和环境研究相关的城市形态的形式和功能的可访问的连贯一致的描述和信息.
 
 ### Demographic
@@ -67,8 +67,8 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一项公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托对美国 100 个最大城市的公园访问和质量进行了综合评估. 
-- [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
+- [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities. 
+- [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 构建和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户包括网络地图、应用程序、地图库、本地倡议门户、保护数据和其他资源.
 
 ### Equity and Environmental Justice
@@ -84,11 +84,11 @@
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
 - [HealthData.gov](https://healthdata.gov/) - 该网站致力于让企业家、研究人员和政策制定者更容易获得美国的高价值健康数据，以期为所有人带来更好的健康结果.  
-- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区与健康相关的结果的负担和地理分布，并协助他们规划公共卫生干预措施.
+- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区健康相关结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 
 ### Historic Preservation
 
-- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家历史名胜名录是国家值得保护的历史名胜的官方列表.
+- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家历史名胜名录是国家值得保护的历史名胜的官方名单.
 - [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产地是联合国教科文组织世界遗产委员会维护的遗产名录中的一个地点，被称为“世界遗产名录”，“它认为具有突出的普遍价值”.
 
 ### Land Use and Land Cover
@@ -109,7 +109,7 @@
 ### Resilience and Natural Hazards
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
-- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earth quakes going back to 2150 BC to present with geographic information.
+- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，用于识别最有可能面临 18 种自然灾害风险的社区.
 - [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more. 
 
@@ -153,11 +153,12 @@
 
 ### Urban Observation
 
-- [Numina](https://numina.co/)  - 利用边缘计算设备来测量各种路边活动.  Numina 以匿名的方式汇总提供了街道上旅客和物体的体积计数、路径和交通行为.
+- [Numina](https://numina.co/)  - 利用边缘计算设备来测量各种路边活动.  Numina 以匿名的方式汇总地提供了街道中旅客和物体的体积计数、路径和交通行为.
 - [Transoft](https://safety.transoftsolutions.com/)  - Transfoft ITS 安全解决方案利用计算机视觉来识别街道上的“险些”行为. 该技术曾在《规划》杂志上发表 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，在增加收入的同时使街道不那么拥挤、更可持续、更公平. 
+- [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠的方式快速量化建筑环境中发生的事件. 
 - [Vade](https://www.vadepark.com/) - 使用自定义物联网摄像头和计算机视觉，通过基于 Web 的 API 轻松查询实时停车可用性. 
-- [StreetsSimplified](https://www.streetsimplified.com/) - 部署临时摄像头，利用计算机视觉来检查各种交通行为，例如超速、遵守规则和闯红灯.  
+- [StreetSimplified](https://www.streetsimplified.com/) - 部署临时摄像头，利用计算机视觉来检查各种交通行为，例如超速、遵守规则和闯红灯.  
 
 ### Travel Behavior
 
@@ -165,7 +166,7 @@
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
-- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
+- [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
 - [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新数据产品，例如实时停车和交通信息解决方案. 
 
@@ -203,7 +204,7 @@ Python 库和相关资源.
 - [Pandas](https://pandas.pydata.org/) - 灵活强大的 Python 数据分析/操作库，提供类似于 R 数据框架对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
-- [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
+- [Geopandas](https://geopandas.org/) - GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
@@ -228,7 +229,7 @@ R 包和相关资源.
 ### Other
 其他编码库和资源.
 
-- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)  - 公民技术和公民应用的常见模式和反模式. 附加信息：由 Code for America 提供.
+- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
 ### Web and JS
 前端 web 相关的包和资源.
@@ -254,7 +255,7 @@ R 包和相关资源.
 旨在帮助环境规划或气候适应和减缓规划的软件、工具和平台. 
 
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的好处和价值. 基于同行评审的美国农业部林务局研究.
-- [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus) - FEMA's Hazus Program provides standardized tools and data for estimating risk from earthquakes, floods, tsunamis, and hurricanes. Risk assessment resources and tools from the Hazus program are always freely available and transparently developed. 
+- [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划中的风险评估资源和工具始终免费提供并以透明方式开发. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，主要目的是在几乎没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
 - [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 用于分析和优化城市能源系统的工具. 
 
@@ -284,7 +285,7 @@ R 包和相关资源.
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 收集了 20 多种桌面和移动应用程序和服务，用于摄影、设计、视频、网络、用户体验等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
 - [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，可用于 GNU/Linux、macOS、Windows 和更多操作系统.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
-- [TestFit](https://testfit.io/) - TestFit features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
+- [TestFit](https://testfit.io/) - TestFit 具有算法和共创工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑工地计划.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Delve 使用衍生式设计和 AI 为您的项目优先级和站点设计指标揭示最佳选项. 
 
 ### Urban Planning Tools and Platforms
@@ -309,7 +310,7 @@ R 包和相关资源.
 ---
 
 ### AICP Resources
-Resources pertaining to AICP certification test preparation, continuing education, and other resources.
+与 AICP 认证考试准备、继续教育和其他资源相关的资源.
 
 - [AICP Get Certified! Webpage](https://www.planning.org/certification/)  - 美国注册规划师协会 (AICP) 的官方资源库，提供有关资格、注册和准备的详细信息. 还列出了即将到来的 AICP“认证周期”的重要日期.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的“五步法”备考方法，并列出了可帮助您在 AICP 考试中取得成功的资源/材料.
@@ -329,7 +330,7 @@ Resources pertaining to AICP certification test preparation, continuing educatio
 
 ### General Planning Information and News
 用于城市规划、建筑环境或社区的网站和新闻资源.
-- [Planopedia](https://www.planetizen.com/planopedia) - 由规划新闻聚合器组织 [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
+- [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
 - [ULI](https://uli.org/) - ULI 是世界上历史最悠久、规模最大的跨学科房地产和土地使用专家网络.
 
 ### Podcasts
@@ -364,7 +365,7 @@ Resources pertaining to AICP certification test preparation, continuing educatio
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - 哈佛 Dataverse 是研究数据的存储库. 它包含涵盖科学的各种数据集，其中许多数据集用于公共领域. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的资源集合已由来自全球 100 多个国家/地区的公民技术从业者众包.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新型交通、自动驾驶汽车、电子商务和其他创新对城市和社区的潜在影响，并列出了与它们相关的各种资源和工具.
-- [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并提供了关于如何理解其应用的分类法. 
+- [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
 - [Digital.Gov](https://digital.gov/) - 有关在政府中建立更好的数字服务的指南和资源.
 
 ---

@@ -116,7 +116,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [penkit](https://github.com/paulgb/penkit) - 用于创建基于行的 SVG 图形的 Python 库.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - 生成可打印 PDF 的示例处理代码.
 - [Let's make map](https://svg-exporter.netlify.com) - 基于 Web 的工具，用于从 Mapzen 切片导出 SVG 地图.
-- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 一个生成的线条艺术网络应用程序.
+- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 生成式线条艺术网络应用程序.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - 处理中的涂鸦图像转换.
 - [Maker.js](https://maker.js.org) - 用于为 CNC 和激光切割机创建 2D 矢量绘图的库.
 - [Turtletoy](https://turtletoy.net) - 带有 SVG 导出的基于浏览器的 JavaScript 海龟图形 API.
@@ -156,7 +156,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪的快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣算法的详细解释和示例.
-- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图仪艺术家.
+- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图师.
 - [Hektor](http://juerglehni.com/works/hektor) - 2002 年的原始基于电缆的绘图机器人.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 创建用于绘图的生成图形的两部分介绍.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - 使用 Python 和 Penplot 深入研究表面投影和隐藏线去除.
@@ -191,6 +191,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
 - [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf) 
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
+- [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual/)
 
 ### Ephemera
 

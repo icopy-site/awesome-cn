@@ -37,7 +37,7 @@
 #### Text Editors
 
 * [Atom](https://atom.io) - 由 GitHub 制作的 21 世纪可破解的文本编辑器. [Atom Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#atom-plugin). [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mehcode/awesome-atom#readme)
-* [Bear Writer](http://www.bear-writer.com/)  - 用于制作笔记和散文的美观、灵活的写作应用程序.  [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&amp;mt=12)
+* [Bear Writer](http://www.bear-writer.com/)  - 用于制作笔记和散文的漂亮、灵活的写作应用程序.  [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&amp;mt=12)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - 一个强大的桌面应用程序，用于使用 Bootstrap 框架创建响应式网站.
 * [Brackets](http://brackets.io)  - 了解网页设计的现代开源文本编辑器.  [![开源软件][OSS图标]](https://github.com/adobe/brackets/) ![免费软件][免费软件图标]
 * [Chocolat](https://chocolatapp.com/) - 本机文本编辑器.
@@ -528,7 +528,7 @@
 * [Textual](https://www.codeux.com/textual)  - 互联网中继聊天 (IRC) 客户端.  [![开源软件][OSS图标]](https://github.com/Codeux-Software/Textual)
 * [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12)  - Mac 官方微信应用.  ![免费软件][免费软件图标] ![App Store][app-store 图标]
 * [WeeChat](https://weechat.org/)  - 可扩展的命令行聊天客户端.  ![免费软件][免费软件图标]
-* [WhatsApp Desktop](https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12)  - 可在 Mac App Store、桌面版 Whatsapp 中获得.  ![应用商店][应用商店图标]
+* [WhatsApp Desktop](https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12)  - 在 Mac App Store 中可用，桌面版 Whatsapp.  ![应用商店][应用商店图标]
 
 #### Email Clients
 
@@ -571,7 +571,7 @@
 * [Gifski](https://github.com/sindresorhus/gifski-app)  - 将视频转换为高质量的 GIF.  ![开源软件][OSS图标] ![免费软件][免费软件图标][![App Store][应用商店图标]](https://itunes.apple.com/no/app/gifski/id1351639930 ?mt=12)
 * [HandBrake](https://handbrake.fr/)  - 用于将视频从几乎任何格式转换为一系列现代、广泛支持的编解码器的工具.  [![开源软件][OSS图标]](https://github.com/HandBrake/HandBrake)
 * [Hydrogen](http://hydrogen-music.org/)  - 适用于 GNU/Linux 的专业但简单直观的基于模式的鼓编程.  [![开源软件][OSS图标]](https://github.com/hydrogen-music/hydrogen)
-* [ffWorks](https://www.ffworks.net/)  - 适用于 macOS 的综合媒体工具. 使每个人都可以访问高质量的视频编码.
+* [ffWorks](https://www.ffworks.net/)  - 适用于 macOS 的综合媒体工具. 让每个人都可以使用高质量的视频编码.
 * [IINA](https://lhc70000.github.io/iina/)  - 适用于 macOS 的现代视频播放器. 基于mpv，强大的媒体播放器项目.  [![开源软件][OSS图标]](https://github.com/lhc70000/iina) ![免费软件][免费软件图标]
 * [Kodi](https://kodi.tv/)  - 屡获殊荣的免费和开源 (GPL) 软件媒体中心，用于播放视频、音乐、图片、游戏等.  [![开源软件][OSS图标]](https://github.com/xbmc/xbmc) ![免费软件][免费软件图标]
 * [LMMS](https://www.lmms.io)  LMMS 的前身是“Linux MultiMedia Studio”，是一个功能强大的数字音频工作站，其设计类似于 FL Studio（以前的 Fruity Loops）.  [![开源软件][OSS图标]](https://github.com/lmms/lmms) ![免费软件][免费软件图标]
@@ -600,7 +600,7 @@
 * [XLD](http://tmkk.undo.jp/xld/index_e.html)  - 解码、转换和播放各种“无损”音频文件的工具.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://code.google.com/archive/p/xld/source)
 * [MusicPlus](https://musicplus.io)  - 免费搜索、播放和下载音乐.  ![免费软件][免费软件图标]
 * [Recordia](https://sindresorhus.com/recordia)  - 直接从菜单栏或使用全局键盘快捷键录制音频.  [![App Store][应用商店图标]](https://apps.apple.com/app/id1529006487)
-* [Omniplayer](https://okaapps.com/product/1470926410#)  - Mac 上最好的媒体播放器，支持几乎所有格式.  [![App Store][app-store Icon]](https://github.com/jaywcjlove/awesome-mac/blob/master/macappstore://itunes.apple.com/app/id1470926410?pt=119209922&amp;l= en&amp;mt=12&amp;ct=newhomepage)
+* [Omniplayer](https://okaapps.com/product/1470926410#)  - Mac 上最好的媒体播放器，支持几乎所有格式.  [![App Store][应用商店图标]](https://github.com/jaywcjlove/awesome-mac/blob/master/macappstore://itunes.apple.com/app/id1470926410?pt=119209922&amp;l= en&amp;mt=12&amp;ct=newhomepage)
 
 ### Audio Record and Process
 * [GarageBand](https://www.apple.com/mac/garageband/) 来自 Apple 的免费数字音频工作站 (DAW)，提供简单的界面和专业级的音频制作功能.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&amp;ls=1&amp;mt=12)
@@ -613,7 +613,7 @@
 * [Deluge](https://deluge-torrent.org/)  - Deluge 是一个轻量级、免费软件、跨平台的 BitTorrent 客户端.  [![开源软件][OSS 图标]](https://dev.deluge-torrent.org/wiki/Development) ![免费软件][免费软件图标]
 * [FOLX](http://mac.eltima.com/download-manager.html)  - 适用于 Mac OS X 的免费下载管理器，具有真正的 Mac 风格界面.  ![免费软件][免费软件图标]
 * [Free Download Manager](http://www.freedownloadmanager.org/)  - 适用于 Windows 和 Mac 的强大、现代的下载加速器和管理器.  （免费）！[免费软件][免费软件图标]
-* [JDownloader](http://jdownloader.org/)  - 免费的开源下载管理工具，拥有庞大的开发人员社区，使下载变得尽可能简单和快速.  ![免费软件][免费软件图标] ![开源软件][OSS 图标]
+* [JDownloader](http://jdownloader.org/) - Free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]
 * [Motrix](https://motrix.app/) - Motrix 是一款功能齐全的下载管理器，支持下载 HTTP、FTP、BitTorrent、Magnet、百度网盘等[![开源软件][OSS 图标]](https://github.com/agalwood/ Motrix) ![免费软件][免费软件图标]
 * [qBittorrent](https://www.qbittorrent.org/)  - 一个项目旨在提供 μTorrent 的开源软件替代品.  [![开源软件][OSS图标]](https://github.com/qbittorrent/qBittorrent) ![免费软件][免费软件图标]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - 任何链接的简易下载管理器.
@@ -692,7 +692,7 @@
 * [Surge](https://nssurge.com/) - 适用于 iOS 9 的 Web 开发人员工具和代理实用程序. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637 )
 * [tinc](https://www.tinc-vpn.org)  - 安全网状 VPN 软件.  [![开源软件][OSS图标]](https://www.tinc-vpn.org/git/browse?p=tinc) ![免费软件][免费软件图标]
 * [Tunnelbear](https://www.tunnelbear.com)  - 非常简单的 VPN，可以私密且安全地浏览网页. 使用适用于 Mac、PC、iOS、Android 和 Chrome 的应用程序解锁世界各地的网站.
-* [Tunnelblick](https://tunnelblick.net/downloads.html) - Free, open-source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
+* [Tunnelblick](https://tunnelblick.net/downloads.html) - OS X 上 OpenVPN 的免费、开源图形用户界面.！[免费软件][免费软件图标]
 * [V2rayU](https://github.com/yanue/V2rayU)  - 基于 v2ray 的 Macos 客户端.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/yanue/V2rayU)
 * [Windscribe](https://windscribe.com)  - 每月免费当场提供 10GB，并提供有限的（免费）位置控制. 连接也需要非常少的时间.
 * [ClashX](https://github.com/yichengchen/clashX)  - 基于 Clash 的基于规则的 Mac 代理.  [![开源软件][OSS图标]](https://github.com/yichengchen/clashX)![免费软件][免费软件图标]
@@ -701,7 +701,7 @@
 
 #### Clipboard Tools
 
-* [ClipMenu](http://www.clipmenu.com) - Mac OS X 剪贴板管理器. [![开源软件][OSS 图标]](https://github.com/naotaka/ClipMenu) ![免费软件][免费软件图标]
+* [ClipMenu](http://www.clipmenu.com) - Mac OS X 的剪贴板管理器. [![开源软件][OSS 图标]](https://github.com/naotaka/ClipMenu) ![免费软件][免费软件图标]
 * [Clipy](https://clipy-app.com/)  - Clipy 是适用于 macOS 的剪贴板扩展应用程序. 基于 ClipMenu.  [![开源软件][OSS图标]](https://github.com/Clipy/Clipy) ![免费软件][免费软件图标]
 * [CopyQ](https://hluk.github.io/CopyQ)  - 具有高级功能的剪贴板管理器.  [![开源软件][OSS图标]](https://github.com/hluk/CopyQ) ![免费软件][免费软件图标]
 * [iPaste](https://en.toolinbox.net/iPaste)  - 轻量级高效的剪贴板工具.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_me)
@@ -824,8 +824,9 @@
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock.
 * [Magnet](http://magnet.crowdcafe.com/)  - 使您的工作区井井有条的窗口管理器.  [![App Store][app-store Icon]](https://itunes.apple.com/us/app/id441258766)
 * [Moom](http://manytricks.com/moom/) - 允许您使用鼠标或键盘轻松移动和缩放窗口或到另一个显示器.
+* [rcmd](https://lowtechguys.com/rcmd/)  - 使用<kbd>⌘ Right Command</kbd>键根据名称切换应用程序.  [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
 * [Rectangle](https://rectangleapp.com)  - 基于 Spectacle 的窗口管理应用程序，用 Swift 编写.  [![开源软件][OSS图标]](https://github.com/rxhanson/Rectangle) ![免费软件][免费软件图标]
-* [ShiftIt](https://github.com/fikovnik/ShiftIt)  - 在 OSX 中管理窗口大小和位置.  [![开源软件][OSS图标]](https://github.com/fikovnik/ShiftIt) ![免费软件][免费软件图标]
+* [ShiftIt](https://github.com/fikovnik/ShiftIt)  - 在 OSX 中管理窗口大小和位置.  [![开源软件][OSS 图标]](https://github.com/fikovnik/ShiftIt) ![免费软件][免费软件图标]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的、以键盘为中心的窗口管理.
 * [Slate](https://github.com/jigish/slate)  - 类似于 Divvy 和 SizeUp 的窗口管理应用程序（除了更好和免费！）.  (**需要配置文件**) [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/jigish/slate)
 * [Total Spaces](http://totalspaces.binaryage.com/)  - 提供类似于 ubuntu 的窗口管理. 为工作区创建热键，让您可以轻松地四处走动.
@@ -842,7 +843,7 @@
 * [Keeweb](https://keeweb.info/)  - 与 KeePass 兼容的免费跨平台密码管理器.  [![开源软件][OSS图标]](https://github.com/keeweb/keeweb) ![免费软件][免费软件图标]
 * [KeepassXC](https://keepassxc.org/)  - 免费、开源、跨平台的密码管理器.  [![开源软件][OSS图标]]![免费软件][免费软件图标]
 * [LastPass](https://lastpass.com/) - Mac OS 和浏览器的密码管理工具.
-* [MacPass](https://macpass.github.io/)  - 开源 KeePass Mac OS 客户端.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/mstarke/MacPass)
+* [MacPass](https://macpass.github.io/)  - 开源 KeePass Mac OS 客户端.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/mstarke/MacPass)
 * [SafeInCloud](https://safe-in-cloud.com/en/)  - 跨平台密码管理，低成本应用！  [![App Store][app-store Icon]](https://itunes.apple.com/app/safeincloud-password-manager/id883070818)
 
 #### Finder Tools
@@ -871,7 +872,7 @@
 
 * [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704)  - 覆盖您的节能设置并让您的 Mac 保持清醒.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://itunes.apple.com/us/app/amphetamine/id937984704)
 * [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject)  - 适用于 macOS 和 iOS 的您最喜欢的免费广告拦截器：不再在 Safari 中看到烦人的广告. 更快地打开网站. 浏览网页更安全！[免费软件][免费软件图标] [![App Store][app-store 图标]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218&amp;ct= GitHub&amp;mt=8)
-* [AppCleaner](http://freemacsoft.net/appcleaner/)  - 允许您彻底卸载不需要的应用程序的小应用程序.  ![免费软件][免费软件图标]
+* [AppCleaner](http://freemacsoft.net/appcleaner/)  - 小应用程序，可让您彻底卸载不需要的应用程序.  ![免费软件][免费软件图标]
 * [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/)  - 用于在购买 M1 Mac 之前检查 Apple Silicon 应用程序兼容性的基于浏览器的工具.  [![开源软件][OSS图标]](https://github.com/ThatGuySam/doesitarm) ![免费软件][免费软件图标]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic)  - 自动暂停您的音乐，设置单个应用程序的音量并录制系统音频.  [![开源软件][OSS图标]](https://github.com/kyleneideck/BackgroundMusic)
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8)  - 多合一磁盘清理管理器：清理您的 Mac 并优化其性能. 立即运行快速扫描以验证什么占用了您的存储空间.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&amp;ct=GitHub&amp;mt=8)

@@ -28,7 +28,7 @@
 
 ### Web
 
-- [npms](https://npms.io) - 精湛的包装搜索，使用一个对包装质量的深入分析 [myriad of metrics](https://npms.io/about).
+- [npms](https://npms.io) - 精湛的包装搜索，使用深度分析包装质量 [myriad of metrics](https://npms.io/about).
 	- [npm-introspect](http://npm-introspect.z3d.tech) - 基于 npms 的实用程序，用于直观地探索包依赖项的质量.
 - [npmsearch](http://npmsearch.com) - 快速包搜索，根据星级、家属、发布频率等指标进行排名.
 - [node-modules](http://node-modules.com) - 基于您的 GitHub 社交图的个性化包搜索.
@@ -38,16 +38,17 @@
 - [npmgraph](http://npm.anvaka.com) - 依赖关系的可视化.
 - [npm trends](http://www.npmtrends.com) - 随着时间的推移比较包下载计数.
 - [npm-compare](https://npmcompare.com) - 轻松搜索和比较包.
-- [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm 用户通过下载.
+- [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - 下载 npm 用户.
 - [npm semver calculator](http://semver.npmjs.com) - 直观地探索 semver 范围匹配的软件包版本.
 - [ghub.io](https://ghub.io) - 重定向到 npm 包的 GitHub 存储库.
 - [npm addict](https://npmaddict.com) - 你每天注入的 npm 包.
 - [moiva](https://moiva.io) - 发现和比较包.
+- [Openbase](https://openbase.com) - 比较具有强大指标和用户评论的开源包.
 
 ### Browser extensions
 
 - [Octo-Linker](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome 扩展程序可轻松浏览 GitHub 上的 npm 包.
-- [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - 用于探索 GitHub 存储库上的 npm 依赖项的 Chrome 扩展.
+- [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - 用于探索 GitHub 存储库上的 npm 依赖项的 Chrome 扩展程序.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上查看 npm 下载统计信息.
 - [npm-search-update](https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh) - Chrome 扩展程序可快速搜索依赖项并监控 npm 注册表中的更改.
 
@@ -74,12 +75,12 @@
 - [latest-version](https://github.com/sindresorhus/latest-version-cli) - 获取最新版本的 npm 包.
 - [npm-keyword](https://github.com/sindresorhus/npm-keyword) - 获取带有特定关键字的 npm 包列表.
 - [npm-user](https://github.com/sindresorhus/npm-user) - 获取 npm 用户的用户信息.
-- [npm-email](https://github.com/sindresorhus/npm-email) - 获取 npm 用户的电子邮件.
+- [npm-email](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
 - [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - 通过 npm 用户获取包.
 - [dpn](https://github.com/gillstrom/dpn) - 获取用户 npm 包的依赖项.
 - [npm-stats](https://github.com/hughsk/npm-stats) - 从 npm 注册表中获取数据.
 - [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - 登录到 npm.
-- [nrm](https://github.com/Pana/nrm) - 注册表管理器.
+- [nrm](https://github.com/Pana/nrm) - 注册管理器.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - 易于设置和维护 npm 注册表和代理.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 轻量级私有 npm 代理注册表.
 - [cloudsmith](https://cloudsmith.io/l/npm-registry/) - 完全托管的包管理 SaaS，支持公共和私有 npm 注册表（以及许多其他注册表）.
@@ -95,8 +96,8 @@
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - 在 Windows 上升级 npm.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - 搭建一个 npm 包.
 - [pkg-up](https://github.com/sindresorhus/pkg-up) - 找到最近的 package.json 文件.
-- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - 阅读最接近的 package.json 文件.
-- [normalize-package-data](https://github.com/npm/normalize-package-data) - 标准化包元数据.
+- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - 阅读最近的 package.json 文件.
+- [normalize-package-data](https://github.com/npm/normalize-package-data) - 规范包元数据.
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - 从最近的 package.json 获取命名空间配置.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - 按名称在终端中运行本地安装的二进制文件，就像使用全局二进制文件一样.
 - [local-npm](https://github.com/nolanlawson/local-npm) - 使用 npm [offline](https://addyosmani.com/blog/using-npm-offline/).
@@ -111,8 +112,8 @@
 - [redrun](https://github.com/coderaiser/redrun) - 从 package.json 扩展脚本以提高执行速度.
 - [package-size](https://github.com/egoist/package-size) - 获取 npm 包的包大小.
 - [synp](https://github.com/imsnif/synp) - 将 yarn.lock 转换为 package-lock.json，反之亦然.
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - 用于并行或串行运行多个 npm 脚本的 CLI 工具.
-- [onchange](https://github.com/Qard/onchange) - 监视文件和文件夹并在发生变化时运行命令.
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - 并行或串行运行多个 npm 脚本的 CLI 工具.
+- [onchange](https://github.com/Qard/onchange) - 观察文件和文件夹，并在发生变化时运行命令.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - 当 npm 脚本失败时发送本机桌面通知.
 - [luna](https://github.com/rvpanoz/luna) - 管理 npm 依赖项的应用程序.
 - [emma-cli](https://github.com/maticzav/emma-cli) - 交互式 CLI 包搜索实用程序.
@@ -158,14 +159,14 @@ $ npm install --global npm
 别名 nit = &#39;npm install &amp;&amp; npm test&#39;
 别名 nk=&#39;npm 链接&#39;
 别名 nr = &#39;npm 运行&#39;
-别名 ns = &#39;npm 开始&#39;
+别名 ns = &#39;npm start&#39;
 alias nf=&#39;npm cache clean &amp;&amp; rm -rf node_modules &amp;&amp; npm install&#39;
 别名 nlg = &#39;npm 列表 --global --depth = 0&#39;
 ```
 
 ### Don't add to package.json when installing
 
-默认情况下，npm 会将您安装的包添加到 package.json 中的 `dependencies` 字段（自 v5 起）. 您可以通过指定 `--no-save` 标志来防止这种情况. 你可以使用 `--save-dev`/`-D` 向 `devDependencies` 添加一个包：
+默认情况下，npm 会将您安装的包添加到 package.json 中的 `dependencies` 字段（从 v5 开始）. 您可以通过指定 `--no-save` 标志来防止这种情况. 您可以使用`--save-dev`/`-D`将包添加到`devDependencies`：
 
 ```
 $ npm install --save-dev ava
@@ -173,7 +174,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script) 通过将它们添加到 package.json 中的 `&quot;scripts&quot;` 字段来使用 npm 并使用 `npm run 运行它们<script-name> `. 运行 `npm run` 以查看可用脚本. 本地安装包的二进制文件在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable))，因此您可以按名称运行它们.
+你可以轻松 [run scripts](https://docs.npmjs.com/cli/run-script) 通过将它们添加到 package.json 中的 `&quot;scripts&quot;` 字段来使用 npm 并使用 `npm run 运行它们<script-name> `. 运行 `npm run` 以查看可用的脚本. 本地安装包的二进制文件在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable))，因此您可以按名称运行它们.
 
 ```json
 {
@@ -228,7 +229,7 @@ awesome-package
 
 `npm run` 有一个 `--silent` 选项，这在结合 npm 脚本时特别有用.
 
-想象一下，您有一个用于检查 JavaScript 文件的设置，如下所示：
+想象一下，您有一个用于对 JavaScript 文件进行 linting 的设置，如下所示：
 
 ```json
 {
@@ -308,7 +309,7 @@ $ npm 开始
 $ npm 测试
 ```
 
-This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.
+这将在运行测试之前整理您的文件. 如果 linting 失败，测试将不会运行. 或者更一般地说：如果按顺序运行的脚本之一退出时的退出代码不是 0，则不会执行以下脚本.
 
  *注意：`pre` 和 `post` 脚本也可用于您的自定义 npm 脚本. 所以 `npm run foo` 也将运行 `prefoo` 和 `postfoo` 如果定义.*
 
@@ -325,7 +326,7 @@ This will lint your files before running your tests. The tests will not run if l
 }
 ```
 
-如果已经安装了二进制文件，它将从`node_modules/.bin` 执行.
+如果二进制文件已经安装，它将从`node_modules/.bin` 执行.
 
 ```
 $ npx 猫名
@@ -342,7 +343,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-使用 `npx`（与 npm v5.2.0 或更新版本捆绑）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 包，您可以轻松地在不同的 Node.js 版本中尝试代码，而无需使用类似的版本管理器 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 或者 [`n`](https://github.com/tj/n).
+使用 `npx`（与 npm v5.2.0 或更新版本捆绑）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 包，您可以轻松地在不同的 Node.js 版本中尝试代码，而无需使用像这样的版本管理器 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 或者 [`n`](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0 - node --version

@@ -17,7 +17,7 @@
 - [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js 客户端.
 - [WebdriverIO](http://webdriver.io) - 通过预定义的 50 多个操作更好地实现 WebDriver 绑定.
 - [CasperJS](http://casperjs.org/) - 开源导航脚本和测试实用程序.
-- [Zombie.js](http://zombie.js.org/) - 非常快速、无头的全栈测试.
+- [Zombie.js](http://zombie.js.org/) - 非常快的无头全栈测试.
 - [DalekJS](http://dalekjs.com/) - 自动跨浏览器测试.
 - [SlimerJS](http://slimerjs.org/) - 面向 Web 开发人员的可编写脚本的浏览器.
 - [Nightwatch](http://nightwatchjs.org/) - 高效而直接的 Javascript 端到端测试.
@@ -61,6 +61,7 @@
 - [Serenity](http://www.thucydides.info/)  - 它是一个开源库，用于更快地编写质量更好的自动化验收测试.  （原修昔底德）.
 - [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery)  - 在 Java 中用于 WebDriver 的类似 jQuery 的跨驱动程序接口. 设计为一个薄层，它可以单独使用或在您最喜欢的框架之上使用，只是为了在需要时使某些情况（例如断言/等待）更简单.
 - [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Selenium WebDriver 二进制文件的自动管理.
+- [Lightning](https://github.com/aerokube/lightning-java) - 轻量级和闪电般快速的 WebDriver 客户端.
 
 #### C#
 
@@ -148,7 +149,7 @@
 - [Browserstack](https://www.browserstack.com/)  - 测试您的网站在真实浏览器上的跨浏览器兼容性. 即时访问多个桌面和移动浏览器. 获得免费试用.
 - [LambdaTest](https://www.lambdatest.com/selenium-automation)  - 测试您的网站在 2000 多个真实浏览器和操作系统上的跨浏览器兼容性. 获得免费试用.
 - [TestingBot](https://testingbot.com) - TestingBot 在云中使用 Selenium 提供简单的跨浏览器测试.
-- [Moon Cloud](https://aerokube.com/moon/#cloud) - 您在公共云平台中的专用 Selenium 集群，按分钟计费，浏览器数量不受限制.
+- [Moon Cloud](https://aerokube.com/moon-cloud/) - 您在公共云平台中的专用 Selenium 集群，按分钟计费，浏览器数量不受限制.
 - [Mail7](https://www.mail7.io/) - 一次性电子邮件服务来自动化电子邮件工作流程测试， [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) 解释如何使用 Selenium 实现 Mail7
 - [Thundra Foresight](https://www.thundra.io/foresight) - 通过立即发现测试失败来查看测试套件的可见性工具.
 

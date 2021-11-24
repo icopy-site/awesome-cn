@@ -69,6 +69,7 @@
 -  [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
 -  [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的 `dark` 变体.
 -  [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 基于`prefers-color-scheme` 媒体查询添加`dark` 变体.
+-  [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
 -  [Gap](https://github.com/benface/tailwindcss-gap) - 添加 `gap` 实用程序.
 -  [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - 添加“纵横比”实用程序.
 -  [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - 利用 Tailwind CSS 的配置来允许创建实用程序.
@@ -276,7 +277,7 @@
 
 ## Starters & Themes
 
-**图例**：包·命令行工具/生成器·可克隆
+**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
 
 -  [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - 添加 Tailwind CSS 和 PurgeCSS 的 CRA 脚本.
 -  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - 将 Tailwind CSS 添加到 Laravel 框架.
@@ -301,7 +302,7 @@
 -  [Dogpatch](https://github.com/jack-pallot/dogpatch) - 使用 Webpack、Vue、Babel 和 Tailwind CSS 的 WordPress 初学者.
 -  [Next.js Starter](https://github.com/oddstronaut/tailwind-next) - 使用 Tailwind CSS 的 Next.js 样板.
 -  [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) - 使用 Sapper、Tailwind CSS、Purge CSS、Prettier 和 ESLint 的 Svelte 样板.
--  [Netlify Lambda Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - Netlify Lambda boilerplate using Tailwind CSS.
+-  [Netlify Lambda Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) - 使用 Tailwind CSS Netlify Lambda 样板.
 -  [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) - 使用 Tailwind CSS 的 Hugo 主题启动器.
 -  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - 使用 Eleventy、Tailwind CSS、Webpack 和 PostCSS 的入门套件.
 -  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) - 使用 Tailwind CSS 的 Nanoc 启动器.

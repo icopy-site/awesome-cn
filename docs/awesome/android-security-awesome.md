@@ -15,11 +15,12 @@
 10. [Virustotal](https://www.virustotal.com/) - 最大 128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) - 不是免费
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  - 用于移动应用安全测试 Android 和 iOS 移动应用的企业工具. 实验室自动化功能在云中的真实设备上进行动态和静态分析，可在几分钟内返回结果. 不免费
-15. [App Detonator](https://appdetonator.run/)  - 引爆 APK 二进制文件以提供源代码级详细信息，包括应用程序作者、签名、构建和清单信息.  3 分析/天免费配额.
+15. [App Detonator](https://appdetonator.run/)  - 引爆 APK 二进制文件以提供源代码级别的详细信息，包括应用程序作者、签名、构建和清单信息.  3 分析/天免费配额.
 16. [BitBaan](https://malab.bitbaan.com/)
-17. [Pithus](https://beta.pithus.org/)  - 开源 APK 分析器. 目前仍处于 Beta 阶段，目前仅限于静态分析. 可以使用 Yara 规则捕获恶意软件. 更多 [here](https://beta.pithus.org/about/).
-18. [Approver](https://approver.talos-sec.com/)  - Approver 是适用于 Android 和 iOS 应用程序的全自动安全分析和风险评估平台. 不免费.
-19. ~~[AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 一个产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
+17. [Pithus](https://beta.pithus.org/)  - 开源 APK 分析器. 目前仍处于 Beta 阶段，目前仅限于静态分析. 可以使用 Yara 规则寻找恶意软件. 更多 [here](https://beta.pithus.org/about/).
+18. [Approver](https://approver.talos-sec.com/)  - Approver 是适用于 Android 和 iOS 应用程序的全自动安全分析和风险评估平台. 不是免费的.
+1. [Oversecured](https://oversecured.com/)  - 适用于 Android 和 iOS 应用程序的企业漏洞扫描程序，它使应用程序所有者和开发人员能够通过将 Oversecured 集成到开发过程中来保护移动应用程序的每个新版本. 不是免费的.
+19. ~~[AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 一种产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
 12. ~~[AppCritique](https://appcritique.boozallen.com) - 上传您的 Android APK 并接收全面的免费安全评估~~
 15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) - 2019年10月31日日落~~
 4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
@@ -75,7 +76,6 @@
 1. [QARK](https://github.com/linkedin/qark/) - LinkedIn 的 QARK 用于应用程序开发人员扫描应用程序的安全问题
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
-4. [Oversecured](https://oversecured.com/)  - 移动应用程序漏洞扫描器，专为安全研究人员和漏洞赏金黑客而设计. 它还允许集成到企业的 DevOps 流程中.
 5. ~~[Devknox](https://devknox.io/)  - 用于构建安全 Android 应用程序的 IDE 插件. 不维护了~~
 
 ### Dynamic Analysis Tools
@@ -83,7 +83,7 @@
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- 用于评估 Android 应用程序、逆向工程和恶意软件分析的虚拟机
 3. [House](https://github.com/nccgroup/house)- House：带有 Web GUI 的运行时移动应用程序分析工具包，由 Frida 提供支持，用 Python 编写.
-4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework 是一个智能的、一体化的开源移动应用程序 (Android/iOS) 自动化渗透测试框架，能够执行静态、动态分析和 Web API 测试.
+4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework 是一种智能的、一体化的开源移动应用程序（Android/iOS）自动化渗透测试框架，能够执行静态、动态分析和 Web API 测试.
 5. [AppUse](https://appsec-labs.com/AppUse/) – 用于渗透测试的自定义构建
 6. [Droidbox](https://github.com/pjlantz/droidbox)
 10. [Drozer](https://github.com/mwrlabs/drozer)
@@ -97,13 +97,13 @@
 18. [Mem](https://github.com/MobileForensicsResearch/mem) - 安卓内存分析（需要root）
 19. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – 无法找到实际的工具
 20. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) -auditd 的 android 端口，不再处于积极开发状态
-21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - 不再处于积极开发阶段
+21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - 不再处于积极开发状态
 23. [Aurasium](https://github.com/xurubin/aurasium) – 通过字节码重写和就地参考监视器为 Android 应用程序实施实用的安全策略.
 24. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
-25. [Appie](https://manifestsecurity.com/appie/)  - Appie 是一个预配置的软件包，可用作 Android 渗透测试环境. 它是完全便携的，可以通过 USB 记忆棒或智能手机携带. 这是 Android 应用程序安全评估所需的所有工具的一站式解决方案，也是现有虚拟机的绝佳替代方案.
+25. [Appie](https://manifestsecurity.com/appie/)  - Appie 是一个预先配置为可用作 Android 渗透测试环境的软件包. 它是完全便携的，可以通过 U 盘或智能手机携带. 这是对 Android 应用程序安全评估所需的所有工具的一站式解决方案，也是现有虚拟机的绝佳替代方案.
 26. [StaDynA](https://github.com/zyrikby/StaDynA)  - 在存在动态代码更新功能（动态类加载和反射）的情况下支持安全应用程序分析的系统. 该工具结合了 Android 应用程序的静态和动态分析，以揭示隐藏/更新的行为并使用此信息扩展静态分析结果.
 27. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - 不完整
-28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - 用于移动应用渗透测试和移动恶意软件分析的虚拟机
+28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - 用于移动应用程序渗透测试和移动恶意软件分析的虚拟机
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - 移动应用逆向工程和分析框架
 30. [Taintdroid](http://appanalysis.org) - 需要 AOSP 编译
 31. [ARTist](https://artist.cispa.saarland)  - 一个灵活的开源工具和混合分析框架，适用于 Android 应用程序和 Android 的 java 中间件. 它基于 Android 运行时 (ART) 编译器并在设备编译期间修改代码.
@@ -113,7 +113,7 @@
 35. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor（Android 应用程序的 Python API 监视器）是一个基于 Frida 的 Python 工具，用于在应用程序执行期间监控用户选择的 API.
 36. [Android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer) - 该工具用于分析本地存储中 android 应用程序的内容.
 37. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux 发行版) 早些时候它曾经是一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
-38. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（安卓逆向工程）不再处于积极开发中~~
+38. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（安卓逆向工程）不再处于积极开发状态~~
 39. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 40. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 41. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – 用于恶意软件分析的自定义图像~~
@@ -150,9 +150,9 @@
 32. [Dwarf](https://github.com/iGio90/Dwarf) - 用于逆向工程的 GUI
 33. [Andromeda](https://github.com/secrary/Andromeda) - 另一个基本的命令行逆向工程工具
 34. [apk-mitm](https://github.com/shroudedcode/apk-mitm) - 为 HTTPS 检查准备 Android APK 文件的 CLI 应用程序
-35. [Noia](https://github.com/0x742/noia) - 简单的安卓应用沙盒文件浏览器工具
+35. [Noia](https://github.com/0x742/noia) - 简单的安卓应用沙箱文件浏览器工具
 36. [Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk 是一种模块化 Python 工具，用于在不需要源代码的情况下混淆 Android 应用程序.
-37. [ARMANDroid](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND（Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection）是一种新颖的防篡改保护方案，将逻辑炸弹和AT检测节点直接嵌入到apk文件中，无需源代码.
+37. [ARMANDroid](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND（Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection）是一种新颖的防篡改保护方案，将逻辑炸弹和AT检测节点直接嵌入到apk文件中，无需它们的源代码.
 38. [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) - 一系列实用程序，用于简化和自动化收集取证痕迹的过程，有助于识别 Android 和 iOS 设备的潜在危害
 39. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java反编译器~~
 40. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
@@ -171,7 +171,7 @@
 
 ### App Repackaging Detectors
 
-1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - 基于应用程序资源哈希比较检测重新打包的Android应用程序的工具.
+1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - 基于应用资源哈希比较检测重新打包的Android应用的工具.
 
 ### Market Crawlers
 
@@ -194,7 +194,7 @@
 8. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts 扫描设备以查找一组漏洞
 9. [AppMon](https://github.com/dpnishant/appmon) - AppMon 是一个自动化框架，用于监控和篡改原生 macOS、iOS 和 android 应用程序的系统 API 调用. 它基于弗里达.
 10. [Internal Blue](https://github.com/seemoo-lab/internalblue) - 基于Broadcom蓝牙控制器逆向工程的蓝牙实验框架
-11. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Android 设备的安全功能数据库
+11. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Android 设备的安全特性数据库
 12. [Android Mobile Device Hardening](https://github.com/SecTheTech/AMDH) - AMDH 扫描和强化设备的设置，并根据权限列出有害的已安装应用程序.
 13. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 14. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - 现在好像死了
@@ -208,6 +208,7 @@
 4. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
 6. [Insecureshop](https://github.com/optiv/insecureshop)
+1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa)
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 
@@ -254,7 +255,7 @@
 8. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 种恶意软件已被逆向工程并记录在案
 9. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
 10. [Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - 该数据集包含 10479 个样本，通过使用七种不同的混淆技术混淆 MalGenome 和 Contagio Minidump 数据集获得.
-11. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo 是从多个来源收集的不断增长的 Android 应用程序集合，包括官方 Google Play 应用程序市场.
+11. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo 是一个不断增长的 Android 应用程序集合，从多个来源收集而来，包括官方 Google Play 应用程序市场.
 7. ~~[Admire](http://admire.necst.it/)~~
 
 ### Bounty Programs
