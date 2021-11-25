@@ -69,6 +69,7 @@
 -  [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
 -  [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的 `dark` 变体.
 -  [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 基于`prefers-color-scheme` 媒体查询添加`dark` 变体.
+-  [Themeable](https://github.com/upupming/tailwindcss-themeable) - 为 Tailwind CSS 添加了多个主题支持.
 -  [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
 -  [Gap](https://github.com/benface/tailwindcss-gap) - 添加 `gap` 实用程序.
 -  [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - 添加“纵横比”实用程序.
@@ -277,7 +278,7 @@
 
 ## Starters & Themes
 
-**Legend**: 💼 Package · 📟 Command line tool/generator · 🚀 Cloneable
+**图例**：包·命令行工具/生成器·可克隆
 
 -  [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - 添加 Tailwind CSS 和 PurgeCSS 的 CRA 脚本.
 -  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - 将 Tailwind CSS 添加到 Laravel 框架.
@@ -359,7 +360,7 @@
 -  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - 使用 Tailwind CSS 构建电影制作登陆页面.
 -  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - 使用 Tailwind CSS 构建响应式导航栏.
 -  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - 使用 Tailwind CSS 进行 Dribbble 拍摄.
--  [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Tailwind CSS 的完整演练，从安装到部署优化.
+- 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Tailwind CSS 的完整演练，从安装到部署优化.
 -  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - 使用 Tailwind CSS 构建 Tweet 组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - 使用 Tailwind CSS 创建模态对话框.
 -  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - 构建 Shopify、Spotify、Netlify 和 Atlassian 的 UI.

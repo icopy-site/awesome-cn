@@ -28,7 +28,7 @@
 - [Check All](https://chrispederick.com/work/web-developer/)  - “全选”通常不可用. 为什么不自己带？
 - [Xmind](http://www.xmind.net/) - 用于记录测试的最佳（免费）思维导图工具.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - 开源测试用例管理系统
-- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
+- [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和 DOM 变化比较和回归.
 - [recheck-web](https://github.com/retest/recheck-web) - 具有本地金牌大师的开源更改比较工具、类似 git 的忽略语法和“牢不可破的 selenium”测试.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - 开源测试用例管理系统.
 - [Captura](https://github.com/MathewSachin/Captura) - 开源视频录制工具.
@@ -54,12 +54,11 @@
 - [UI is Communication](https://amzn.to/2vbiALY) - 如何制作直观的用户界面（UI 和可用性测试）.
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - 关于我们如何做出决定以及如何进行实验（实验 == 测试）.
 - [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - 一本关于如何设计和执行受控软件故障实验的书.
-- [Software Testing: From Theory to Practice](https://sttp.site) - 代尔夫特理工大学测试讲座的讲义.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - 一本关于面向开发人员的 JavaScript 测试工具和技术的书.
 - [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - 一本教您设计和执行可发现隐藏问题的受控实验的书.
 - [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您从第一个简单的单元测试到构建可维护、可读和值得信赖的完整测试集的书.
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - 通过实施自动化测试流程来保证您的 Web API 的质量和一致性.
-- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 创建高质量测试的实践指南，从第一行代码到交付前检查.
+- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 为开发人员提供有关如何以系统有效的方式创建高质量测试的实践指南.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训清单
@@ -99,11 +98,11 @@
 - [How They Test](https://github.com/abhivaikar/howtheytest) - 来自科技公司关于他们如何测试他们的软件和建立质量文化的精选公共资源
 
 ## QA and Testing Road Map
-- [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) - 一份广泛而丰富的策略、主题和技能列表，您需要在软件测试和自动化领域开始职业生涯.
+- [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) - 您在软件测试和自动化领域开始职业生涯所需的广泛而丰富的策略、主题和技能列表.
 
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - 来自测试人员的协作播放列表，当红雾降临时.
-- [Software Testing Conferences](http://testingconferences.org/) - 软件测试会议和研讨会列表.
+- [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常有问题的待办事项列表，以方便面对面的采访.
 
 ## Contributing

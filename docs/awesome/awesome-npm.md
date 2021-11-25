@@ -30,7 +30,6 @@
 
 - [npms](https://npms.io) - 精湛的包装搜索，使用深度分析包装质量 [myriad of metrics](https://npms.io/about).
 	- [npm-introspect](http://npm-introspect.z3d.tech) - 基于 npms 的实用程序，用于直观地探索包依赖项的质量.
-- [npmsearch](http://npmsearch.com) - 快速包搜索，根据星级、家属、发布频率等指标进行排名.
 - [node-modules](http://node-modules.com) - 基于您的 GitHub 社交图的个性化包搜索.
 - [NodeICO](https://nodei.co/) - 包装徽章.
 - [Libraries.io](https://libraries.io/npm) - 包发现.
@@ -75,7 +74,7 @@
 - [latest-version](https://github.com/sindresorhus/latest-version-cli) - 获取最新版本的 npm 包.
 - [npm-keyword](https://github.com/sindresorhus/npm-keyword) - 获取带有特定关键字的 npm 包列表.
 - [npm-user](https://github.com/sindresorhus/npm-user) - 获取 npm 用户的用户信息.
-- [npm-email](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
+- [npm-email](https://github.com/sindresorhus/npm-email) - 获取 npm 用户的电子邮件.
 - [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - 通过 npm 用户获取包.
 - [dpn](https://github.com/gillstrom/dpn) - 获取用户 npm 包的依赖项.
 - [npm-stats](https://github.com/hughsk/npm-stats) - 从 npm 注册表中获取数据.
@@ -139,7 +138,7 @@ $ npm install --global npm
 
 - `npm and` → `npm install`
 - `npm i -D` → `npm install --save-dev`
-- `asl t` →` asl test`
+- `asl t` →` asl 测试`
 - `npm it` →` npm install &amp;&amp; npm test`
 - `npm r` →` npm uninstall`
 - `npm un` →` npm uninstall`
@@ -309,7 +308,7 @@ $ npm 开始
 $ npm 测试
 ```
 
-这将在运行测试之前整理您的文件. 如果 linting 失败，测试将不会运行. 或者更一般地说：如果按顺序运行的脚本之一退出时的退出代码不是 0，则不会执行以下脚本.
+This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.
 
  *注意：`pre` 和 `post` 脚本也可用于您的自定义 npm 脚本. 所以 `npm run foo` 也将运行 `prefoo` 和 `postfoo` 如果定义.*
 
