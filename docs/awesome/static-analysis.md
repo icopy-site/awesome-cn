@@ -138,7 +138,7 @@
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - 遵循 Google 风格指南的自动化 C++ 检查器.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) ：警告： - C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: - C 和 C 预处理器代码的复杂性和质量指标.
-- [ESBMC](http://esbmc.org) - ESBMC 是一种开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
+- [ESBMC](http://esbmc.org) - ESBMC 是一个开源的、许可的、上下文有界的模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
 - [flawfinder](http://dwheeler.com/flawfinder/) - 发现可能的安全弱点.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) - 跨平台、零依赖的 flint 端口，这是 Facebook 开发和使用的 C++ lint 程序.
 - [Frama-C](http://frama-c.com) - 用于 C 代码的健全且可扩展的静态分析器.
@@ -184,7 +184,7 @@
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - 遵循 Google 风格指南的自动化 C++ 检查器.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) ：警告： - C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: - C 和 C 预处理器代码的复杂性和质量指标.
-- [ESBMC](http://esbmc.org) - ESBMC 是一种开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
+- [ESBMC](http://esbmc.org) - ESBMC 是一个开源的、许可的、上下文有界的模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
 - [flawfinder](http://dwheeler.com/flawfinder/) - 发现可能的安全弱点.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) - 跨平台、零依赖的 flint 端口，这是 Facebook 开发和使用的 C++ lint 程序.
 - [Frama-C](http://frama-c.com) - 用于 C 代码的健全且可扩展的静态分析器.
@@ -309,7 +309,7 @@
 - [structcheck](https://gitlab.com/opennota/check) - 查找未使用的结构字段.
 - [structslop](https://github.com/orijtech/structslop) - Go 的静态分析器，推荐结构字段重新排列以提供最大的空间/分配效率
 - [test](http://golang.org/pkg/testing) - 从 stdlib 测试模块显示测试失败的位置.
-- [unconvert](https://github.com/mdempsky/unconvert) :warning: - 检测冗余类型转换.
+- [unconvert](https://github.com/mdempsky/unconvert) ：警告： - 检测冗余类型转换.
 - [unparam](https://github.com/mvdan/unparam) - 查找未使用的函数参数.
 - [varcheck](https://gitlab.com/opennota/check) - 查找未使用的全局变量和常量.
 - [wsl](https://github.com/bombsimon/wsl) - 在正确的位置强制执行空行.
@@ -568,7 +568,7 @@
 - [Rudra](https://github.com/sslab-gatech/Rudra)  :copyright: - Rust 内存安全和未定义行为检测. 它能够分析单个 Rust 包以及 crates.io 上的所有包.
 - [Rust Language Server](https://github.com/rust-lang-nursery/rls) - 支持“转到定义”、符号搜索、重新格式化和代码完成等功能，并支持重命名和重构.
 - [rust-analyzer](https://rust-analyzer.github.io) - 支持“转到定义”、类型推断、符号搜索、重新格式化和代码完成等功能，并支持重命名和重构.
-- [rust-audit](https://github.com/Shnatsel/rust-audit)  - 审计 Rust 二进制文件中的已知错误或安全漏洞. 这是通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分中来实现的.
+- [rust-audit](https://github.com/Shnatsel/rust-audit)  - 审核 Rust 二进制文件中的已知错误或安全漏洞. 这是通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分中来实现的.
 - [rustfix](https://github.com/rust-lang/rustfix) - 阅读并应用 rustc 提出的建议（以及第三方 lint，如由 clippy 提供的建议）.
 - [rustfmt](https://github.com/rust-lang/rustfmt) - 根据样式指南格式化 Rust 代码的工具.
 - [RustViz](https://github.com/rustviz/rustviz)  - RustViz 是一个从简单的 Rust 程序生成可视化的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有图形指示器的 SVG 文件，这些指示器与 mdbook 集成以在 Rust 程序中呈现数据流的可视化.
@@ -688,7 +688,7 @@
 - [Corrode](https://github.com/jameysharp/corrode)  :warning: - 从 C 到 Rust 的半自动翻译. 可以通过显示 Rust 编译器警告和错误来揭示原始实现中的错误. 被 C2Rust 取代.
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 - [cqc](https://github.com/xcatliu/cqc) :warning: - 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
-- [dawnscanner](https://github.com/thesp0nge/dawnscanner)  - 用于 ruby​​ 编写的 Web 应用程序的静态分析安全扫描器. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
+- [dawnscanner](https://github.com/thesp0nge/dawnscanner)  - 用于 ruby​​ 编写的 Web 应用程序的静态分析安全扫描程序. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
 - [DeepCode](https://www.deepcode.ai)  :copyright: - DeepCode 基于 AI 发现漏洞、安全漏洞、性能和 API 问题.  DeepCode 的分析速度使我们能够实时分析您的代码并在您点击 IDE 中的保存按钮时提供结果. 支持的语言包括 Java、C/C++、JavaScript、Python 和 TypeScript. 与 GitHub、BitBucket 和 Gitlab 的集成.
 - [DeepSource](https://deepsource.io)  :copyright: - 深入的静态分析以查找错误风险、安全性、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的本地集成. 误报率低于 5%.
 - [Depends](https://github.com/multilang-depends/depends) - 分析Java、C/C++、Ruby代码元素的综合依赖.
@@ -717,7 +717,7 @@
 - [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: - Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM.com](https://lgtm.com)  :copyright: - 对 GitHub 和 Bitbucket 进行深入的代码分析，以发现安全漏洞和关键的代码质量问题（使用 Semmle QL）. 拉取请求的自动代码审查； 免费用于公共存储库.
-- [lizard](https://github.com/terryyin/lizard)  - Lizard 是一个可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算没有注释的代码行数、CCN（圈复杂度数）、函数的标记计数、函数的参数计数.
+- [lizard](https://github.com/terryyin/lizard)  - Lizard 是一种可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算没有注释的代码行数、CCN（圈复杂度数）、函数的标记计数、函数的参数计数.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) - 由于其 70 多个嵌入式 Linter，Mega-Linter 可以处理任何类型的项目，
  其高级报告，可在任何 CI 系统或本地运行，
  通过辅助安装和配置，能够应用格式和修复
@@ -821,7 +821,7 @@
 - [mcsema](https://github.com/lifting-bits/mcsema)  - 将 x86、amd64、aarch64、sparc32 和 sparc64 程序二进制文件提升到 LLVM 位码的框架. 它将可执行二进制文件从本地机器代码转换（“提升”）为 LLVM 位代码，这对于执行程序分析方法非常有用.
 - [Nauz File Detector](https://github.com/horsicq/Nauz-File-Detector) - 适用于 Windows、Linux 和 MacOS 的静态链接器/编译器/工具检测器.
 - [Twiggy](https://rustwasm.github.io/twiggy)  - 分析二进制调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
-- [VMware chap](https://github.com/vmware/chap)  - chap 分析未检测的 ELF 核心文件的泄漏、内存增长和损坏. 它足够可靠，可用于自动化以在泄漏发生之前捕获泄漏. 作为一种交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
+- [VMware chap](https://github.com/vmware/chap)  - chap 分析未检测的 ELF 核心文件的泄漏、内存增长和损坏. 它足够可靠，可用于自动化以在泄漏发生之前捕获泄漏. 作为一个交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
 - [zydis](https://zydis.re) - 快速轻量级的 x86/x86-64 反汇编库
 
 
@@ -991,7 +991,6 @@
 
 <h2 id="security">安全/SAST</h2>
 
-- [Attackflow Extension](https://www.attackflow.com/Extension) :copyright: - 用于 Visual Studio 的 Attackflow 插件，它使开发人员能够在没有任何先验知识的情况下实时发现源代码中的关键安全漏洞.
 - [AzSK](https://azsk.azurewebsites.net/)  - 适用于 Azure (AzSK) 的安全 DevOps 套件在基础架构即代码中提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础架构错误配置. 通过 ARM 支持 Azure.
 - [Datree](https://datree.io/) - 通过确保清单和 Helm 图表遵循最佳实践以及您组织的政策来防止 Kubernetes 错误配置的 CLI 工具
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - 一个 SAST 工具，用于检测 git 存储库中的硬编码秘密，如密码、api 密钥和令牌.

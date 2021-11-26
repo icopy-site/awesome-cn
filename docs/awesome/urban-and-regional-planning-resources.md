@@ -67,7 +67,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一项公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托对美国 100 个最大城市的公园访问和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 构建和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户包括网络地图、应用程序、地图库、本地倡议门户、保护数据和其他资源.
 
@@ -105,7 +105,12 @@
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是一个基于 Web 的 OpenStreetMap 数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefiles）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
 - [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data)  - HOT 为 OSM 社区提供了丰富的工具集. 一个特别有用的工具是 [Export Tool](https://export.hotosm.org/en/v3/).
 - [Tasking Manager](https://tasks.hotosm.org/)  - 任务管理器是一个平台，任何人都可以在这个平台上学习使用开放街道地图并为绘制世界上未绘制地图的区域做出贡献. 这项工作对于发展中国家的备灾和抗灾能力至关重要，以便救援人员和社区成员在灾难发生时能够获得准确的地图.
- 
+
+### Politics
+
+- [OpenPrecincts](https://openprecincts.org/) - OpenPrecincts 是一种数据和软件资源，用于向所有公民开放重新划分选区的过程，并确保选区边界对所有选民都是公平的.
+- [MIT Election Lab](https://electionlab.mit.edu/data)  - 选举实验室是数据集的交换所，可以推动对选举及其进行方式的研究. 查找我们和其他人制作的选举数据和研究工具.
+
 ### Resilience and Natural Hazards
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
@@ -139,7 +144,7 @@
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道级图像和 AI 衍生的地图数据. 通过请求新的覆盖范围或使用易于使用的移动应用程序捕获您自己的覆盖范围来填补空白.
-- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式将基础设施资产数字化. 
+- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 
 ### Land Use and Land Cover
 
@@ -149,7 +154,7 @@
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 由第一街基金会提供，该工具可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 该工具由第一街基金会提供，可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前处于风险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
 
 ### Urban Observation
 
@@ -166,7 +171,7 @@
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
-- [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
+- [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
 - [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新数据产品，例如实时停车和交通信息解决方案. 
 
@@ -189,7 +194,7 @@
 - [GTFS](https://developers.google.com/transit/gtfs) - General Transit Feed Specification 是描述交通系统的流行标准.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [GBFS](https://github.com/NABSA/gbfs) - 通用自行车馈送规范是共享移动系统可用性的标准化数据馈送.
-- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，可实现移动公司和地方政府之间的通信.
+- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、公交车专用车道、快速车道，特别是如果资源是动态定价的.
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
@@ -204,7 +209,7 @@ Python 库和相关资源.
 - [Pandas](https://pandas.pydata.org/) - 灵活强大的 Python 数据分析/操作库，提供类似于 R 数据框架对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
-- [Geopandas](https://geopandas.org/) - GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types.
+- [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
@@ -229,7 +234,7 @@ R 包和相关资源.
 ### Other
 其他编码库和资源.
 
-- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
+- [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)  - 公民技术和公民应用的常见模式和反模式. 附加信息：由 Code for America 提供.
 
 ### Web and JS
 前端 web 相关的包和资源.
@@ -237,7 +242,7 @@ R 包和相关资源.
 - [Bootstrap](https://getbootstrap.com/)  - 广泛使用、文档齐全的库，用于快速设计和定制网站. 附加信息： [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 - [Chart.js](https://www.chartjs.org/)  - 为网络和移动设备创建简单（或高级）的数据可视化. 附加信息： [GitHub](https://github.com/chartjs/Chart.js).
 - [Leaflet](https://leafletjs.com/)  - 用于移动友好型交互式地图的开源 JavaScript 库. 可用于扩展功能的插件（例如，故事地图、热图、动画）. 附加信息： [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
-- [Turf.js](https://turfjs.org/)  - 浏览器和 Node.js 的高级地理空间分析. 附加信息： [GitHub](https://github.com/Turfjs/turf).
+- [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
 ### Learning to Code
@@ -265,8 +270,8 @@ R 包和相关资源.
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (ESRI) 维护的地图和地理信息.
 - [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更有效的交付路线、更好的行为营销、战略性商店布局等等.
-- [kepler.gl](https://kepler.gl/)  - Kepler 是一种数据不可知、WebGL 授权的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
-- [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
+- [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
+- [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成图表，几何图形的大小会根据数据发生扭曲. 
 - [Omnisci](https://www.omnisci.com/) - 启用地理时间的高性能数据库，能够执行 GPU 加速查询.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
@@ -312,7 +317,7 @@ R 包和相关资源.
 ### AICP Resources
 与 AICP 认证考试准备、继续教育和其他资源相关的资源.
 
-- [AICP Get Certified! Webpage](https://www.planning.org/certification/)  - 美国注册规划师协会 (AICP) 的官方资源库，提供有关资格、注册和准备的详细信息. 还列出了即将到来的 AICP“认证周期”的重要日期.
+- [AICP Get Certified! Webpage](https://www.planning.org/certification/) - The American Institute of Certified Planners's (AICP) offical resource repository that provides details on eligibility, registration, and preparation. Important dates for upcoming AICP "Certification Cycles" are also listed.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的“五步法”备考方法，并列出了可帮助您在 AICP 考试中取得成功的资源/材料.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员连接到精选的主题相关资源集合——包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和主题分组，包括书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国注册规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
@@ -330,7 +335,7 @@ R 包和相关资源.
 
 ### General Planning Information and News
 用于城市规划、建筑环境或社区的网站和新闻资源.
-- [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
+- [Planopedia](https://www.planetizen.com/planopedia) - 由规划新闻聚合器组织 [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
 - [ULI](https://uli.org/) - ULI 是世界上历史最悠久、规模最大的跨学科房地产和土地使用专家网络.
 
 ### Podcasts
