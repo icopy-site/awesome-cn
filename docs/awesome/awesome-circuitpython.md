@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="adafruit/awesome-circuitpython"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
-  <img width="400" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
+  <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -9,8 +9,7 @@
 &gt; 精选的 CircuitPython 指南、视频、库、框架、软件和资源列表.
 
 
-
-https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov
+<video style="display: block; max-width: 720px; width: 100%; margin: auto;" controls src="https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-84bf-3f7af59948a3.mov"></video>
 
 
 
@@ -40,14 +39,14 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 
 - [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或作为您订单的一部分从 [the Adafruit store](https://www.adafruit.com/product/3944)) - 介绍和讨论 Circuit Playground Express，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)  - 本书可帮助您开始使用 CircuitPython 开发. 本书使用 Adafruit ItsyBitsy M0 Express 板进行开发.
-- [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - Japanese by author [Aoyama_PROD](https://twitter.com/AoyamaProd) 将于 2019 年 9 月从 [TechBookFest](https://techbookfest.org/).
+- [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 将于 2019 年 9 月从 [TechBookFest](https://techbookfest.org/).
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论 MicroPython 语言.
 - [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - 包含许多使用 CircuitPython 的可穿戴项目.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd) - 日本人.
 - [Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath](https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361)
-- [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise with Circuit Python.
+- [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - 十二个使用 Circuit Python 制作音乐、声音和噪音的项目.
 - [Ten Games for the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - 适用于Circuit Python的十款经典游戏.
-- [Initiation au langage CircuitPython et à la puce nRF52840](https://www.elektor.fr/initiation-au-langage-circuitpython-et-a-la-puce-nrf52840) - 对 CircuitPython 和 nRF52840 的法语介绍.
+- [Initiation au langage CircuitPython et à la puce nRF52840](https://www.elektor.fr/initiation-au-langage-circuitpython-et-a-la-puce-nrf52840) - A French introduction to CircuitPython and the nRF52840.
 
 ## Code
 
@@ -72,13 +71,13 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - [Thonny, a Python IDE for beginners](https://thonny.org/) - 支持 CircuitPython 和 MicroPython 的编辑器.
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Visual Studio Code 中的 Virtual Circuit Playground Express 和 CircuitPython 编程.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/)  - 专为 Chromebook 设计的浏览器内编辑器. 几乎可以在任何可以运行基于 Chromium 的浏览器的计算机上运行.
-* [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - VS Code 的全功能扩展，可自动下载最新的 CircuitPython 包，包括访问串行控制台和自动完成.
+- [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - VS Code 的全功能扩展，可自动下载最新的 CircuitPython 包，包括对串行控制台的访问和自动完成.
 
 ## Hardware
 
 可以在以下位置查看所有支持的板 [circuitpython.org](https://circuitpython.org/downloads) 包括描述、图片和兼容的 CircuitPython 构建.  circuitpython.org 上当前电路板的摘要：
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express、Adafruit Feather M0 Basic、Adafruit Feather M0 Express、Adafruit Feather M0 Adalogger、Adafruit Feather M0 RFM9x、Adafruit Feather M0 RFM69、Adafruit Feather M4 Express、Adafruit Feather nRF52832、Adafruit Feather nRF58dafruitnRF、Adafruit Feather nRF58dafruitnRFM9x CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Express, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit ItsyBitsy NRF52840 Express, Adafruit Metro M0 Express, Adafruit ESP2 Metro M4 -S2、Adafruit Metro nRF52840 Express、Adafruit NeoTrellis M4、Adafruit Trinket M0、Adafruit PyPortal、Adafruit PyPortal Titano、Adafruit PyPortal Pynt、Adafruit pIRkey、Adafruit Feather Huzzah、Adafruit PyBadge、Adafruit PyBadge、Adafruit Pydafruit Pydafruit Pydafruit Pydafruit Advance、Adafruit Metro M4 AirLift Lite、Adafruit Gemma M0 PyCon 2018、Adafruit Circuit Playground Express  Digi-Key、Adafruit Circuit Playground Express 4-H、Adafruit Circuit Playground Express + Crickit、Adafruit Circuit Playground Express Bluefruit、Adafruit Feather M0 Express + Crickit、Adafruit PyRuler、Adafruit EdgeBadge、Adafruit M7 1011、Adafruit Matrix Portal M4、Adafruit Feather M4 CAN、Adafruit Feather STM32F405 Express、Adafruit MagTag、Adafruit MONSTER M4SK、Adafruit QT Py、Adafruit QT Py Haxpress.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express、Adafruit Feather M0 Basic、Adafruit Feather M0 Express、Adafruit Feather M0 Adalogger、Adafruit Feather M0 RFM9x、Adafruit Feather M0 RFM69、Adafruit Feather M4 Express、Adafruit Feather nRF52832、Adafruit Feather nRF58dafruitnRF、Adafruit Feather nRF58dafruitnRFM9x CLUE, Adafruit Gemma M0, Adafruit Grand Central M4 Express, Adafruit HalloWing M0 Express, Adafruit HalloWing M4 Express, Adafruit ItsyBitsy M0 Express, Adafruit ItsyBitsy M4 Express, Adafruit ItsyBitsy NRF52840 Express, Adafruit Metro M0 Express, Adafruit ESP2 Metro M4 -S2、Adafruit Metro nRF52840 Express、Adafruit NeoTrellis M4、Adafruit Trinket M0、Adafruit PyPortal、Adafruit PyPortal Titano、Adafruit PyPortal Pynt、Adafruit pIRkey、Adafruit Feather Huzzah、Adafruit PyBadge、Adafruit PyBadge、Adafruit Pydafruit Pydafruit Pydafruit Pydafruit Advance、Adafruit Metro M4 AirLift Lite、Adafruit Gemma M0 PyCon 2018、Adafruit Circuit Playground Express  Digi-Key、Adafruit Circuit Playground Express 4-H、Adafruit Circuit Playground Express + Crickit、Adafruit Circuit Playground Express Bluefruit、Adafruit Feather M0 Express + Crickit、Adafruit PyRuler、Adafruit EdgeBadge、Adafruit M7 1011、Adafruit Matrix Portal M4、Adafruit Feather M4 CAN、Adafruit Feather STM32F405 Express、Adafruit MagTag、Adafruit MONSTER M4SK、Adafruit QT Py、Adafruit QT Py Haxpress、Adafruit Macropad RP2040、Adafruit Neo Trinkey - SAMD21 USB 密钥、Adafruit QT Py RP204040、Adafruit Adafruit RP2040 ESP32-S2、Adafruit KB2040、Adafruit Feather RP2040.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR WAN 1300, Arduino MKR Zero, Arduino Zero, Arduino Nano 33 BLE, Arduino Nano 33 IoT.
 - [Electronic Cats](https://electroniccats.com/) - [CatWAN USB Stick](https://electroniccats.com/producto/catwan_usb-stick/), [Meow Meow](https://electroniccats.com/producto/meowmeow/), [Escornabot Makech](https://github.com/ElectronicCats/Escornabot-Makech), [NFC Copy Cat](https://github.com/ElectronicCats/NFC-Copy-Cat) [bast_pro_mini_m0](https://electroniccats.com/store/bast-pro-mini-m0/), [Bast Wifi](https://electroniccats.com/store/bast-wifi/).
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) - [nRF52840 Micro Dev Kit](https://store.makerdiary.com/collections/frontpage/products/nrf52840-mdk-iot-development-kit), [nRF52840 Micro Dev Kit USB Dongle](https://store.makerdiary.com/collections/frontpage/products/nrf52840-mdk-usb-dongle), [M60 Mechanical Keyboard](https://makerdiary.com/products/m60-mechanical-keyboard-pcba), [Pitaya Go](https://store.makerdiary.com/products/pitaya-go), [nRF52840 M.2 Developer Kit](https://makerdiary.com/products/nrf52840-m2-developer-kit).
@@ -129,6 +128,7 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - Hangzhou LeBan - HiiBot BlueFi, HiiBot IoTs2.
 --Ikigaisense- [Ikigaisense Vita](https://hackaday.io/project/173761-vita-hardware).
 - 杰里米·吉利克 - [Thunderpack](https://github.com/jgillick/ThunderPack).
+- JP康斯坦丁诺 - [BlueMicro840](https://github.com/adafruit/awesome-circuitpython/blob/master/ https://www.tindie.com/products/21640/), [PyKey60](https://www.tindie.com/products/24940/)
 - 微芯片 - [SAM E54 Xplained Pro](https://www.microchipdirect.com/product/search/all/ATSAME54-XPRO).
 - 微开发 - [microS2](https://www.tindie.com/products/microdev/micros2/).
 - 博物馆 - [NanoESP32 S2](https://github.com/wuxx/nanoESP32-S2).
@@ -142,6 +142,7 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - TG-Techie - [TG-Watch02A](https://github.com/TG-Techie/TG-Watch02-PCB).
 - [TinkeringTech](https://tinkeringtech.com) - [ScoutMakes Azul](https://tinkeringtech.com/blog/scoutmakes-azul/).
 - [Unexpected Maker](https://unexpectedmaker.com) - [Unexpected Maker FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2).
+- [S2 Nugget](https://github.com/HakCat-Tech/S2-Nugget) - Wi-Fi Nugget 分线板与基于 ESP32S2 的 S2 Mini 开发板相结合.
 
 将新板添加到 CircuitPython 列表中 [circuitpython.org](https://circuitpython.org): 请在 GitHub 上做一个拉取请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython 开发人员可以帮助获取正确的引脚数据和其他信息来映射新板.
 
@@ -158,7 +159,7 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 ## News
 
 - [Program CircuitPython devices with iPhone & iOS 13](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - 随着 iOS 13 的推出，iPhone 用户现在可以在 CircuitPython USB 设备上编辑代码！
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 这 [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126)，2019 年 7 月 27 日，作者：Kattni Rembor.
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - the [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126)，2019 年 7 月 27 日，作者 Kattni Rembor.
 - [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - MagPi 杂志，第 84 期，Melissa LeBlanc-Williams，2019 年 7 月.
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/) - 2019 年 7 月 1 日.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - 面向 Python 核心开发人员的 CircuitPython 讨论，PyCon 2019.
@@ -219,14 +220,13 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - [Real Python Podcast Episode 75: Building With CircuitPython & Constraints of Python for Microcontrollers](https://realpython.com/podcasts/rpp/75/) 与主持人克里斯托弗·贝利和嘉宾斯科特·肖克罗夫特
 - [Episode #272: No IoT things in hand? Simulate them with Device Simulator Express](https://talkpython.fm/episodes/show/272/no-iot-things-in-hand-simulate-them-with-device-simulator-express)
 - [Episode #325: MicroPython + CircuitPython](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 主要
 
 ## Events
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - CircuitPython 的 Discord 聊天空间，会议通常在美国东部时间周一下午 2 点举行.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - 每周的 Adafruit Show-and-tell 计划经常展示与 CircuitPython 相关的项目.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - 在“硬件部分的 Python”期间，每周运行时间最长的关于电子产品的 YouTube 直播节目、关于 CircuitPython 的信息.
-- [PyCon 2020](https://us.pycon.org/2020/about/) - 美国宾夕法尼亚州匹兹堡 2020 年 4 月 15 日至 23 日，计划了 CircuitPython 硬件和冲刺.
+- [PyCon 2022](https://us.pycon.org/2022/) - 2022 年 4 月 27 日至 5 月 5 日，美国犹他州盐湖城.
 
 ## Swag
 
@@ -256,6 +256,7 @@ https://user-images.githubusercontent.com/1685947/115119719-d6e21f00-9f77-11eb-8
 - [PyCon India - 2019 Interactive Hardware Poster Presentation powered by CircuitPython by Ayan Pahwa and Aakanksha Agrawal](https://youtu.be/mmLI0HKfPQI) - Ayan Pahwa 和 Aakanksha Agrawal.
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - 尼娜扎哈连科.
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - 在 PyCon Australia 上由 Damien George 编写快速高效的 MicroPython.
+- [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko 在 PyCon 2021 上.
 
 
 ## Contributing

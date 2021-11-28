@@ -26,12 +26,12 @@
 ## Async
 
 - [AsyncEx ★1,253](https://github.com/StephenCleary/AsyncEx) - async/await 的辅助库.
-- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) - 一个基于任务的 LINQ，设计用于异步/等待.
+- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) - 基于任务的 LINQ，旨在与 async/await 配合使用.
 
 
 ## Charts
 
-- [MicroCharts ★1052](https://github.com/dotnet-ad/Microcharts) - 创建跨平台（Xamarin、Windows 等）简单图表.
+- [MicroCharts ★1052](https://github.com/microcharts-dotnet/Microcharts) - 创建跨平台（Xamarin、Windows 等）简单图表.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts 绑定支持在 Xamarin Forms 中使用.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - .NET 的跨平台绘图库.
 
@@ -45,7 +45,7 @@
 
 ## Database
 
-- [Akavache ★1,692](https://github.com/reactiveui/akavache) - 本机应用程序的异步键值存储.
+- [Akavache ★1,692](https://github.com/reactiveui/akavache) - 用于本机应用程序的异步键值存储.
 - [Breeze ★63](https://github.com/Breeze/breeze.sharp) - 面向富客户端应用程序开发人员的数据管理库.
 - [Couchbase.Lite ★299](https://github.com/couchbase/couchbase-lite-net) - 轻量级嵌入式 NoSQL 数据库.
 - [Lager ★2](https://github.com/ghuntley/Lager) - 使用 Akavache 作为存储后端的跨平台设置存储.
@@ -101,7 +101,7 @@
 
 ## Internationalization
 
-- [I18NPortable ★49](https://github.com/xleon/I18N-Portable) - Xamarin 和 .NET 的简单和跨平台国际化/翻译.
+- [I18NPortable ★49](https://github.com/xleon/I18N-Portable) - Xamarin 和 .NET 的简单跨平台国际化/翻译.
 - [Resxible ★9](https://github.com/apcurium/resxible) - 从单个 RESX 文件自动生成多个平台相关资源文件的工具.
 - [Vernacular ★167](https://github.com/rdio/vernacular) - 跨平台本地化，转换标准字符串格式的工具.
 - [SimpleLocalize ★19](https://github.com/simplelocalize/simplelocalize-cli) - 用于在 Xmarin 项目中管理 i18n 密钥的开源工具.
@@ -114,7 +114,7 @@
 
 ## Media
 
-- [EZ-Compress ★11](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - Xamarin 的简单图像流压缩插件.
+- [EZ-Compress ★11](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - 一个简单的 Xamarin 图像流压缩插件.
 - [Fast & Furious Image Loading ★820](https://github.com/luberda-molinet/FFImageLoading) - Xamarin 库可快速轻松地加载图像.
 - [Lottie ★643](https://github.com/Baseflow/LottieXamarin) - 在 Android 和 iOS 上为 Xamarin 本地渲染 After Effects 动画.
 - [LibVLCSharp ★174](https://github.com/videolan/libvlcsharp) - libvlc 的 Xamarin 绑定，为 VideoLAN 制作的 VLC 应用程序提供支持的多媒体框架.
@@ -133,14 +133,14 @@
 
 - [Bind ★158](https://github.com/praeclarum/Bind) - 绑定为您提供了简单的对象属性之间的双向数据绑定.
 - [EBind](https://github.com/SIDOVSKY/EBind) - 简洁、快速且功能丰富的 .NET 数据绑定与一些 Xamarin 好东西.
-- [FreshMvvm ★324](https://github.com/rid00z/FreshMvvm) - 专为 Xamarin.Forms 设计的超轻量 Mvvm 框架.
+- [FreshMvvm ★324](https://github.com/rid00z/FreshMvvm) - 专为 Xamarin.Forms 设计的超轻 Mvvm 框架.
 - [Infinite Scroll Plugin ★24](https://github.com/HBSequence/Sequence.Plugins) - 促进分页数据源的仅向前增量滚动的插件.
 - [MVVMCross ★2,657](https://github.com/MvvmCross/MvvmCross) - 跨平台 mvvm 移动开发框架.
   - [Cheesebaron.MvxPlugins ★79](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) - 插件集合.
   - [MvxAms ★1](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxAms) - MVVMCross Azure 移动服务插件.
   - [MvxForms ★1](https://github.com/MobiliTips/MvxPlugins/tree/master/MvxForms) - 用于使用 Xamarin.Forms 的 MVVMCross 插件.
 - [MugenMvvmToolkit ★127](https://github.com/MugenMvvmToolkit/MugenMvvmToolkit) - 跨平台 MVVM 工具包.
-- [MVVMLight](http://www.mvvmlight.net) - 跨平台 MVVM 开发框架.
+- [MVVMLight](https://github.com/lbugnion/mvvmlight) - 跨平台 MVVM 开发框架.
 - [MvvmNano ★46](https://github.com/aspnetde/MvvmNano) - 使用 ❤ 为 Xamarin.Forms 制作的小型智能 MVVM 框架.
 - [Prism ★2,365](https://github.com/prismlibrary/prism) - 跨平台 MVVM 开发框架.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) - Rx MVVM 框架.
@@ -159,7 +159,7 @@
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - 用于读取 NFC 标签的 Xamarin 插件.
 - [Push Notification ★1](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - 简单的跨平台插件来处理推送通知事件，例如 Android 和 iOS 上的注册、注销和消息到达.
 - [Reachability ★25](https://github.com/has-taiar/Reachability.Net) - 在线/离线连接检查.
-- [Refit ★2,762](https://github.com/reactiveui/refit) - Xamarin 和 .NET 的自动类型安全 REST 库.
+- [Refit ★2,762](https://github.com/reactiveui/refit) - 用于 Xamarin 和 .NET 的自动类型安全 REST 库.
 - [RestEase ★339](https://github.com/canton7/RestEase) - 改装类固醇，更简单的身份验证，解析...
 - [RestLess ★57](https://github.com/letsar/RestLess) - .Net Standard 的自动类型安全无反射 REST API 客户端库.
 - [RestSharp ★6,994](https://github.com/restsharp/RestSharp) - 用于 .NET 的简单 REST 和 HTTP API 客户端.
@@ -169,7 +169,7 @@
 
 ## Reactive
 
-- [Akavache ★1,692](https://github.com/reactiveui/Akavache) - 本机应用程序的异步键值存储.
+- [Akavache ★1,692](https://github.com/reactiveui/Akavache) - 用于本机应用程序的异步键值存储.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) - Rx MVVM 框架.
 - [Refit ★2,762](https://github.com/reactiveui/refit) - Refit 是一个深受 Square 的 Retrofit 库启发的库，它将您的 REST API 变成了一个实时界面.
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) - 在 Reactive Extensions 下提供 MVVM 和异步支持功能.
@@ -180,7 +180,7 @@
 
 ## Security
 
-- [Portable.BouncyCastle ★136](https://github.com/novotnyllc/bc-csharp) - Portable version of Bouncy Castle with support for .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core.
+- [Portable.BouncyCastle ★136](https://github.com/novotnyllc/bc-csharp) - Bouncy Castle 的便携式版本，支持 .NET 4、.NET Standard 2.0、MonoAndroid、Xamarin.iOS、.NET Core.
 - [BreachDetector ★11](https://github.com/nmilcoff/BreachDetector) - 检测 Xamarin 应用程序中的根、模拟、调试模式和其他安全问题.
 - [Cryoprison](https://github.com/padresmurfa/cryoprison) - Xamarin 的越狱/根检测
 - [Fingerprint Plugin ★165](https://github.com/smstuebe/xamarin-fingerprint) - 用于访问指纹传感器的 Xamarin 和 MvvMCross 插件.
@@ -197,7 +197,7 @@
 ## TDD/BDD
 
 - [FluentAssertions](https://fluentassertions.com) - TDD/BDD 流畅断言.
-- [NBehave ★47](https://github.com/nbehave/NBehave) - Framework for Behaviour-Driven Development.
+- [NBehave ★47](https://github.com/nbehave/NBehave) - 行为驱动开发框架.
 - [VSMac-CodeCoverage](https://github.com/ademanuele/VSMac-CodeCoverage) - 从 Visual Studio for Mac 收集单元测试项目的代码覆盖率结果.
 
 
@@ -219,13 +219,13 @@
 
 ## UI
 - [Xamarin.Forms.Breadcrumb](https://github.com/IeuanWalker/Xamarin.Forms.Breadcrumb) - 自动生成面包屑控件的控件
-- [Xamarin.Forms.StateButton](https://github.com/IeuanWalker/Xamarin.Forms.StateButton)  - 使用此控件，您可以创建任何样式的按钮. 这是可能的，因为它充当 XAML 的包装器，并为您提供要绑定的事件/命令和属性.
+- [Xamarin.Forms.StateButton](https://github.com/IeuanWalker/Xamarin.Forms.StateButton) - With this control you are able to create any style of button. This is possible as it acts as a wrapper to your XAML and provides you the events/ commands and properties to bind too.
 - [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Xamarin.Forms 应用程序的漂亮 XAML 页面.
 - [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - 用于使用密码锁定应用程序的 Xamarin 组件.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - 签名板使在 Xamarin.iOS、Xamarin.Android 和 Windows 上捕获、保存、导出和显示签名变得极其简单.
-- [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Xamarin.Forms、Xamarin.iOS 和 Xamarin.Android 应用程序的丰富 UI 组件和文件格式库集.
+- [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - 用于 Xamarin.Forms、Xamarin.iOS 和 Xamarin.Android 应用程序的一组丰富的 UI 组件和文件格式库.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) - Xamarin.Forms 的触摸效果.
-- [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) - 适用于 Xamarin 的 Telerik UI 提供更多 70 个控件，可从单个代码库为 iOS、Android 和 UWP 构建具有专业外观的现代移动应用程序.
+- [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) - Xamarin 的 Telerik UI 提供了更多 70 个控件，可从单个代码库为 iOS、Android 和 UWP 构建具有专业外观的现代移动应用程序.
 - [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView)  - _Xamarin.Android_ 本机展示视图. 易于使用的可定制展示案例视图，带有圆形展示动画.
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - 确定/不确定加载视图动画.
 - [Animated Icon Button](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - Xamarin.iOS 的动画图标按钮.
@@ -249,25 +249,25 @@
 - [Android AppCompat ★34](https://github.com/nativecode-dev/oss-xamarin) - 现在为 Xamarin.Forms 应用程序提供 Material Design 主题，无需黑客攻击.
 - [BadgeView ★31](https://github.com/SuavePirate/BadgeView) - 一个简单的 Xamarin.Forms 控件，用于显示圆形徽章.
 - [Circle Image Control](https://github.com/jamesmontemagno/ImageCirclePlugin) - 在 Xamarin.Forms 项目中显示圆形图像的简单而优雅的方式.
-- [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - 提供从 Xamarin.Forms 项目访问 Windows Phone、iOS 和 Android 上的指南针的简单方法.
+- [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - 提供从您的 Xamarin.Forms 项目访问 Windows Phone、iOS 和 Android 上的指南针的简单方法.
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - 简单的跨平台插件来处理移动设备的屏幕方向.
 - [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - 在 Xamarin.Forms 项目中获取设备方向或收到方向更改通知的简单方法.
 - [NControl ★243](https://github.com/chrfalch/NControl) - NGraphics 的 Xamarin.Forms 控件.
 - [Magic Gradients ★128](https://github.com/mgierlasinski/MagicGradients) - 提供了一种在 Xamarin.Forms 中实现各种渐变的简单方法.
 - [MvxForms ★8](https://github.com/MobiliTips/MvxPlugins) - 用于使用 Xamarin.Forms 的 MVVMCross 插件.
 - [PancakeView ★454](https://github.com/sthewissen/Xamarin.Forms.PancakeView) - Xamarin.Forms 的扩展 ContentView，具有圆角、边框、阴影、渐变等.
-- [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - [已弃用] 在 Xamarin.Forms 中拉动以刷新 ScrollView 或 ListView.
-- [Rb.Forms.Barcode ★34](https://github.com/rebuy-de/rb-forms-barcode) - 用于扫描条码的 Xamarin.Forms 视图.
+- [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - [已弃用] 拉动以刷新 Xamarin.Forms 中的 ScrollView 或 ListView.
+- [Rb.Forms.Barcode ★34](https://github.com/rebuy-de/rb-forms-barcode) - Xamarin.Forms view for scanning barcodes.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) - Xamarin.Forms 的跨平台插件，允许将 Xamarin.Forms 页面作为弹出窗口打开.
 - [SharedTransitions ★223](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) - Xamarin.Forms (IOS/Android) 中页面之间的共享元素转换.
 - [Sharpnado.Presentation.Forms ★28](https://github.com/roubachof/Sharpnado.Presentation.Forms) - Horizo​​ntalListView、TaskViewLoader 和分页器.
 - [SolTech Xamarin Forms Toolkit ★31](https://github.com/soltechinc/soltechxf) - Xamarin Forms 框架的有用扩展集.
 - [Store Rating Plugin ★7](https://github.com/voxdev/Xamarin.Plugins) - 评价应用程序弹出窗口.
 - [SVG ★1](https://github.com/paulpatarinski/Xamarin.Forms.Plugins/tree/master/SVG) - SVG 文件格式支持.
-- [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
+- [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - Xamarin.Forms 的类似 Tinder 的滑动控件.
 - [Toasts Plugin ★208](https://github.com/EgorBo/Toasts.Forms.Plugin) - 在 Xamarin.Forms 应用程序中显示一些通知的简单方法.
 - [TwinTechsFormsLib ★187](https://github.com/twintechs/TwinTechsFormsLib) - FastCell、FastImage、FastGridCell.
-- [Web Atoms for Xamarin.Forms](https://www.webatoms.in/index.html) - 在 JSX/JavaScript 中编写 Xamarin.Forms 应用程序，轻松发布新版本，使用几行代码集成现有应用程序，使用 MVVM 进行代码推送生产
+- [Web Atoms for Xamarin.Forms](https://www.webatoms.in/index.html) - 用 JSX/JavaScript 编写 Xamarin.Forms 应用程序，轻松发布新版本，用几行代码集成现有应用程序，使用 MVVM 代码推送生产
 - [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Xamarin 和 Xamarin.Forms 的跨平台控件（使用 SkiaSharp 的复选框）.
 - [Xamarin-Forms-Labs ★1,392](https://github.com/XLabs/Xamarin-Forms-Labs) - 强大的跨平台控件和助手集.
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Xamarin.Forms 的 Monogame 包装器.
@@ -275,6 +275,8 @@
 - [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) - MVVMCross.Forms Visual Studio 2017 项目模板（iOS、Android、UWP）.
 - [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials 为开发人员提供了用于其移动应用程序的跨平台 API.
 - [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete)  - 自定义控制哪些功能在打字时为您提供建议. 有多种建议模式. 建议的文本可以显示在下拉列表中，以便您可以从不同的选项中进行选择.
+- [Xamarin.Forms.Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton)  - Xamarin Forms 应用程序中加载方法的最新趋势. 可以在 Xaml 中包含的每个视图上轻松实现骨架.
+- [MaterialDesignControlsPlugin](https://github.com/HorusSoftwareUY/MaterialDesignControlsPlugin) - Xamarin Forms 的 MaterialDesignControls 插件是应用 Material Design Guidelines 的 Xamarin.Forms 控件的集合.
 
 ## XPlat APIs
 
@@ -293,9 +295,9 @@
 - [Shiny ★428](https://github.com/shinyorg/shiny) - 用于后台和设备硬件服务的 Xamarin 框架.
 - [Telephony ★17](https://github.com/ghuntley/telephony) - 电子邮件、短信、语音和视频通话功能.
 - [userdialogs ★510](https://github.com/aritchie/userdialogs) - 来自共享/便携式库的标准用户对话框.
-- [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - 从捆绑中获取应用程序版本.
+- [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) - 从捆绑包中获取应用程序版本.
 - [Xamarin.Badge ★33](https://github.com/B1naryStudio/Xamarin.Badge) - 使用应用程序徽章的简单跨平台插件.
-- [Xamarin.Essentials ★560](https://github.com/xamarin/Essentials)  - Xamarin 团队为 iOS 和 Android 提供的基本跨平台 API. 提供对以下各项的轻松访问或使用：加速度计、应用程序信息、电池、剪贴板、指南针、连接性、数据传输（共享）、设备显示信息、设备信息、电子邮件、文件系统助手、手电筒、地理编码、地理定位、陀螺仪、磁力计、打开浏览器、方向传感器、电源、电话拨号器、首选项、屏幕锁定、安全存储、短信、文本到语音、版本跟踪、振动.
+- [Xamarin.Essentials ★560](https://github.com/xamarin/Essentials)  - Xamarin 团队为 iOS 和 Android 提供的基本跨平台 API. 提供对以下各项的轻松访问或使用：加速度计、应用程序信息、电池、剪贴板、指南针、连接性、数据传输（共享）、设备显示信息、设备信息、电子邮件、文件系统帮助程序、手电筒、地理编码、地理定位、陀螺仪、磁力计、打开浏览器、方向传感器、电源、电话拨号器、首选项、屏幕锁定、安全存储、短信、文本到语音、版本跟踪、振动.
 - [Xamarin.LocalNotifications ★40](https://github.com/B1naryStudio/Xamarin.LocalNotifications) - 简单的跨平台插件来处理移动本地通知.
 - [Xamarin.Mobile ★237](https://github.com/xamarin/Xamarin.Mobile) - 读取用户的通讯录并使用相机.
 - [Xamarin-plugins ★39](https://github.com/domaven/xamarin-plugins) - 设备运动、地理围栏、推送通知（测试版）.
@@ -306,16 +308,16 @@
 - [Awesome Xamarin Bookmarks ★9](https://github.com/wcoder/awesome-xamarin-bookmarks) - 为 Xamarin 开发人员精心挑选的有趣（必须）链接的书签.
 - [Open Source Xamarin Apps ★11](https://github.com/wcoder/open-source-xamarin-apps) - 开源 Xamarin 应用程序列表.
 - [Xamarin Bindings ★112](https://github.com/aloisdeniel/Xamarin.Bindings) - 现有库绑定列表.
-- [Xamarin Components ★1,338](https://github.com/xamarin/XamarinComponents) - 在这里，您将找到 Xamarin 跨平台插件列表，这些插件通过单个 API 支持 Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Windows 平台.
-- [Xamarin Universal Library ★3](https://github.com/xamarinuniverse/XamarinUniversalLibrary/) - 这是一个通用库，包含我们需要了解的有关 Xamarin 宇宙的所有信息.
+- [Xamarin Components ★1,338](https://github.com/xamarin/XamarinComponents) - 在这里你会找到 Xamarin 的跨平台插件列表，这些插件通过单个 API 支持 Xamarin.iOS、Xamarin.Android、Xamarin.Forms 和 Windows 平台.
+- [Xamarin Universal Library ★3](https://github.com/xamarinuniverse/XamarinUniversalLibrary/) - 这是一个通用库，包含我们需要了解的有关 Xamarin 世界的所有信息.
 
 
 ## Websites
 
 - [Planet Xamarin](https://www.planetxamarin.com)  - 来自 Xamarin 社区成员的内容聚合器. 当您可以订阅一个方便的 RSS 提要时，为什么还要单独订阅？ 如果您不喜欢 RSS，请按照 [Twitter](https://twitter.com/PlanetXamarin) 或者 [Facebook](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fplanetxamarin%2F) 使用来自社区的最新内容自动更新的帐户.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - 用于学习 Xamarin 的精选资源列表.
-- [Weekly Xamarin](https://weeklyxamarin.com/)  - 每周精选最佳 Xamarin 开发链接. 由 Geoffrey Huntley 策划，每周五出版. 自由.
-- [Xamarin Online Courses](https://classpert.com/topics/xamarin) - 来自 Classpert Online Course Search 的 60 多个在线课程（免费和付费）列表.
+- [Weekly Xamarin](https://weeklyxamarin.com/)  - 每周精选的最佳 Xamarin 开发链接. 由 Geoffrey Huntley 策划，每周五出版. 自由.
+- [Xamarin Online Courses](https://classpert.com/search/xamarin) - 来自 Classpert Online Course Search 的 60 多个在线课程（免费和付费）列表.
 
 
 ## License

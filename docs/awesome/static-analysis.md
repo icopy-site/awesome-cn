@@ -26,6 +26,7 @@
     <td><a href="https://deepcode.ai"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/deepcode.png" /></a></td>
     <td><a href="https://codescene.io/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/codescene.svg" /></a></td>
     <td><a href="https://r2c.dev/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/r2c.svg" /></a></td>
+    <td><a href="https://codiga.io/"><img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/sponsors/codiga.svg" /></a></td>
   </tr>
 </table>
 
@@ -342,7 +343,7 @@
 - [CogniCrypt](https://www.eclipse.org/cognicrypt) :warning: - 检查 Java 源代码和字节码是否不正确使用加密 API.
 - [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: - DesigniteJava 支持检测各种架构、设计和实现气味以及各种代码质量指标的计算.
 - [Doop](https://bitbucket.org/yanniss/doop)  - Doop 是 Java/Android 程序静态分析的声明式框架，以指针分析算法为中心.  Doop 提供了大量的分析以及周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
-- [Error-prone](https://errorprone.info) - 捕捉常见的 Java 错误作为编译时错误.
+- [Error-prone](https://errorprone.info) - 将常见的 Java 错误捕获为编译时错误.
 - [fb-contrib](http://fb-contrib.sourceforge.net) - 带有附加错误检测器的 FindBugs 插件.
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  - 检测并禁止调用特定的方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
 - [google-java-format](https://github.com/google/google-java-format) - 谷歌风格重新格式化.
@@ -366,7 +367,7 @@
 - [complexity-report](https://github.com/escomplex/complexity-report) ：警告： - JavaScript 项目的软件复杂性分析.
 - [DeepScan](https://deepscan.io) :copyright: - 一个针对运行时错误和质量问题而不是编码约定的 JavaScript 分析器.
 - [es6-plato](https://github.com/the-simian/es6-plato) - 可视化 JavaScript (ES6) 源代码的复杂性.
-- [escomplex](https://github.com/jared-stilwell/escomplex) :warning: - Software complexity analysis of JavaScript-family abstract syntax trees.
+- [escomplex](https://github.com/jared-stilwell/escomplex) ：警告： - JavaScript 家族抽象语法树的软件复杂性分析.
 - [Esprima](https://esprima.org) - 用于多用途分析的 ECMAScript 解析基础设施.
 - [flow](https://flow.org) - JavaScript 的静态类型检查器.
 - [hegel](https://hegel.js.org) - JavaScript 的静态类型检查器，偏向于类型推断和强类型系统.
@@ -486,8 +487,8 @@
 - [bellybutton](https://github.com/hchasestevens/bellybutton) - 支持自定义项目特定规则的 linting 引擎.
 - [Black](https://black.readthedocs.io/en/stable) - 不妥协的 Python 代码格式化程序.
 - [Bowler](https://pybowler.io/)  - 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码编译和运行. 它提供了简单的命令行界面和 Python 中的流畅 API，用于在代码中生成复杂的代码修改.
-- [cohesion](https://github.com/mschwager/cohesion) :warning: - 一种测量 Python 类内聚力的工具.
-- [Dlint](https://github.com/dlint-py/dlint) - A tool for ensuring Python code is secure.
+- [cohesion](https://github.com/mschwager/cohesion) :warning: - A tool for measuring Python class cohesion.
+- [Dlint](https://github.com/dlint-py/dlint) - 确保 Python 代码安全的工具.
 - [fixit](https://pypi.org/project/fixit) - 用于为源代码创建 lint 规则和相应的自动修复的框架.
 - [InspectorTiger](https://github.com/thg-consulting/it)  :warning: - IT，Inspector Tiger，是一个现代的 Python 代码审查工具/框架. 它带有一堆预定义的处理程序，可以警告您有关改进和可能的错误. 除了这些处理程序，您还可以编写自己的或使用社区的处理程序.
 - [jedi](https://jedi.readthedocs.io/en/latest) - Python 的自动完成/静态分析库.
@@ -568,7 +569,7 @@
 - [Rudra](https://github.com/sslab-gatech/Rudra)  :copyright: - Rust 内存安全和未定义行为检测. 它能够分析单个 Rust 包以及 crates.io 上的所有包.
 - [Rust Language Server](https://github.com/rust-lang-nursery/rls) - 支持“转到定义”、符号搜索、重新格式化和代码完成等功能，并支持重命名和重构.
 - [rust-analyzer](https://rust-analyzer.github.io) - 支持“转到定义”、类型推断、符号搜索、重新格式化和代码完成等功能，并支持重命名和重构.
-- [rust-audit](https://github.com/Shnatsel/rust-audit)  - 审核 Rust 二进制文件中的已知错误或安全漏洞. 这是通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分中来实现的.
+- [rust-audit](https://github.com/Shnatsel/rust-audit)  - 审计 Rust 二进制文件中的已知错误或安全漏洞. 这是通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分中来实现的.
 - [rustfix](https://github.com/rust-lang/rustfix) - 阅读并应用 rustc 提出的建议（以及第三方 lint，如由 clippy 提供的建议）.
 - [rustfmt](https://github.com/rust-lang/rustfmt) - 根据样式指南格式化 Rust 代码的工具.
 - [RustViz](https://github.com/rustviz/rustviz)  - RustViz 是一个从简单的 Rust 程序生成可视化的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有图形指示器的 SVG 文件，这些指示器与 mdbook 集成以在 Rust 程序中呈现数据流的可视化.
@@ -670,7 +671,6 @@
 - [coala](https://coala.io) - 用于创建代码分析的语言独立框架 - 支持 [over 60 languages](https://coala.io/languages) 默认情况下.
 - [Cobra](http://spinroot.com/cobra) ：版权： - 美国宇航局喷气推进实验室的结构源代码分析器.
 - [Codacy](https://www.codacy.com) ：版权： - 代码分析以更快地交付更好的代码.
-- [Code Inspector](https://www.code-inspector.com) :copyright: - 支持 10 多种语言的代码质量和技术债务管理平台.
 - [Code Intelligence](https://www.code-intelligence.com) :copyright: - 与 CI/CD 无关的 DevSecOps 平台，该平台结合了行业领先的模糊引擎，用于查找错误和可视化代码覆盖率
 - [Codeac](https://www.codeac.io/?ref=awesome-static-analysis)  :copyright: - 自动代码审查工具与 GitHub、Bitbucket 和 GitLab（甚至自托管）集成. 适用于 JavaScript、TypeScript、Python、Ruby、Go、PHP、Java、Docker 等.  （开源免费）
 - [codeburner](http://groupon.github.io/codeburner) :warning: - 提供统一的界面来对发现的问题进行排序和处理.
@@ -685,10 +685,11 @@
 - [CodeScan](https://www.codescan.io/)  ：版权： - Salesforce 开发人员的代码质量和安全性.  CodeScan 的代码分析解决方案专为 Salesforce 平台设计，可让您全面了解代码健康状况.
 - [CodeScene](https://codescene.com)  :copyright: - CodeScene 是一个高质量的软件可视化工具. 优先考虑技术债务、检测交付风险并衡量组织方面. 全自动.
 - [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) :copyright: - Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
+- [Codiga](https://www.codiga.io) :copyright: - 支持 12 种以上语言的自动化代码审查和技术债务管理平台.
 - [Corrode](https://github.com/jameysharp/corrode)  :warning: - 从 C 到 Rust 的半自动翻译. 可以通过显示 Rust 编译器警告和错误来揭示原始实现中的错误. 被 C2Rust 取代.
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 - [cqc](https://github.com/xcatliu/cqc) :warning: - 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
-- [dawnscanner](https://github.com/thesp0nge/dawnscanner)  - 用于 ruby​​ 编写的 Web 应用程序的静态分析安全扫描程序. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
+- [dawnscanner](https://github.com/thesp0nge/dawnscanner)  - 用于 ruby​​ 编写的 Web 应用程序的静态分析安全扫描器. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
 - [DeepCode](https://www.deepcode.ai)  :copyright: - DeepCode 基于 AI 发现漏洞、安全漏洞、性能和 API 问题.  DeepCode 的分析速度使我们能够实时分析您的代码并在您点击 IDE 中的保存按钮时提供结果. 支持的语言包括 Java、C/C++、JavaScript、Python 和 TypeScript. 与 GitHub、BitBucket 和 Gitlab 的集成.
 - [DeepSource](https://deepsource.io)  :copyright: - 深入的静态分析以查找错误风险、安全性、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的本地集成. 误报率低于 5%.
 - [Depends](https://github.com/multilang-depends/depends) - 分析Java、C/C++、Ruby代码元素的综合依赖.
@@ -859,7 +860,7 @@
 - [ansible-lint](https://docs.ansible.com/ansible-lint) - 检查可能会改进的实践和行为的剧本.
 - [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) - 根据策略即代码规则检查本地 CloudFormation 模板并从现有模板生成规则.
 - [AzSK](https://azsk.azurewebsites.net/)  - 适用于 Azure (AzSK) 的安全 DevOps 套件在基础架构即代码中提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础架构错误配置. 通过 ARM 支持 Azure.
-- [cfn-lint](https://github.com/awslabs/cfn-python-lint) - AWS 实验室 CloudFormation linter.
+- [cfn-lint](https://github.com/awslabs/cfn-python-lint) - AWS Labs CloudFormation linter.
 - [cfn_nag](https://github.com/stelligent/cfn_nag) - AWS CloudFormation 模板的 linter.
 - [checkov](https://www.checkov.io) - Terraform 文件的静态分析工具 (tf&gt;=v0.12)，防止构建时云错误配置.
 - [cookstyle](https://docs.chef.io/cookstyle.html) - Cookstyle 是一种基于用于 Chef 食谱的 RuboCop Ruby linting 工具的 linting 工具.
@@ -890,7 +891,7 @@
 - [OpenSCAP](https://www.open-scap.org/) - 一套自动化审计工具，用于根据 NIST 认证的安全内容自动化协议 (SCAP) 检查配置和已知漏洞.
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: - 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 - [sysdig](https://sysdig.com/)  ：版权： - 用于云和容器取证的安全 DevOps 平台.  Sysdig 构建在开源堆栈上，提供 Docker 镜像扫描并创建了 Falco，这是容器、Kubernetes 和云运行时威胁检测的开放标准. 
-- [Vuls](https://vuls.io/) - 基于来自 NVD、OVAL 等的信息的无代理 Linux 漏洞扫描器.它有一些容器映像支持，但不是特定于容器的工具.
+- [Vuls](https://vuls.io/) - 基于来自 NVD、OVAL 等的信息的无代理 Linux 漏洞扫描器.它有一些容器镜像支持，但不是特定于容器的工具.
 
 
 <h2 id="ci">持续集成</h2>
@@ -967,7 +968,7 @@
 - [redex](https://fbredex.com)  - Redex 提供了一个用于读取、写入和分析 .dex 文件的框架，以及一组使用该框架改进字节码的优化通道.  Redex 优化的 APK 应该更小更快.
 
 
-<h2 id="nodejs">节点.js</h2>
+<h2 id="nodejs">Node.js</h2>
 
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint 一个 npm 或 yarn 锁文件来分析和检测安全问题
 - [njsscan](https://opensecurity.in) - 一种静态应用程序测试 (SAST) 工具，可以使用来自 libsast 的简单模式匹配器和语法感知语义代码模式搜索工具 semgrep 在您的 node.js 应用程序中找到不安全的代码模式.
@@ -1067,6 +1068,11 @@
 
 - [Spectral](https://stoplight.io/open-source/spectral) - 灵活的 JSON/YAML linter，不支持 OpenAPI v2/v3 和 AsyncAPI v2.
 - [yamllint](https://yamllint.readthedocs.io) - 检查 YAML 文件的语法有效性、密钥重复和外观问题，例如行长、尾随空格和缩进.
+
+
+<h2 id="git">走</h2>
+
+- [commitlint](https://commitlint.js.org) - 检查你的提交信息是否符合传统的提交格式
 
 
 ## More Collections

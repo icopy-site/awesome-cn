@@ -7,7 +7,7 @@
 一个很棒的精选清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
 
 #### What is Site Reliability Engineering?
- &gt; “从根本上说，这就是当您要求软件工程师设计运维功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
+ &gt; “从根本上说，这就是当您要求软件工程师设计操作功能时会发生的情况.”  - Ben Treynor Sloss，谷歌工程副总裁，谷歌 SRE 创始人
 
 ## Contributing
 
@@ -239,6 +239,7 @@
 * [Finding a problem at the bottom of the Google stack](https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems)
 * [How maintenance windows affect your error budget](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
 * [The Production Readiness Spectrum](https://dastergon.gr/posts/2020/09/the-production-readiness-spectrum/)
+* [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -328,7 +329,8 @@
 * [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook/)
 * [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 * [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
- 
+* [Elephant in the Blameless War Room: Accountability](https://www.blameless.com/incident-response/elephant-in-the-blameless-war-room-accountability)
+
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
 * [Collection of Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
@@ -404,6 +406,8 @@
 * [The Tail at Scale](https://billduncan.org/the-tail-at-scale/)
 * [The Tail at Scale Revisited](https://billduncan.org/the-tail-at-scale-revisited/)
 * [Defining SLOs for services with dependencies](https://cloud.google.com/blog/products/gcp/defining-slos-for-services-with-dependencies-cre-life-lessons)
+* [Service Level Disagreements](https://blog.b3k.us/2009/07/15/service-level-disagreements.html)
+* [How We Use Sloth to do SLO Monitoring and Alerting with Prometheus](https://mattermost.com/blog/sloth-for-slo-monitoring-and-alerting-with-prometheus/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -447,7 +451,7 @@
 * [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
 
 ## Real-time Messaging
-* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般讨论站点可靠性工程.
+* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般地讨论站点可靠性工程.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - 关于事件响应的讨论.
 * [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
@@ -459,7 +463,7 @@
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - 关于 SRE、软件工程和微服务的各种博客文章.
 * [SysAdvent](https://sysadvent.blogspot.com) - 12 月的每一天一篇文章，在第 25 篇文章结束.
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - 关于 SRE 的博客文章
-* [Increment](https://increment.com/) - 关于团队如何大规模构建和操作软件系统的数字杂志.
+* [Increment](https://increment.com/) - 一本关于团队如何大规模构建和操作软件系统的数字杂志.
 * [GopherSRE](http://www.gophersre.com/) - 关于 Go 和 SRE 的博客文章.
 * [Cindy Sridharan](https://medium.com/@copyconstruct) - 关于分布式系统及其管理的博客文章.
 * [Blameless Blog](https://www.blameless.com/blog/) - 关于 SRE 文化和实践的博客文章.
@@ -479,7 +483,7 @@
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - 官方 SRE 会议.
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) - 关于 SysAdmin/DevOps/SRE 的著名会议.
-* [SRE Tech Talks](https://developers.google.com/events/sre/) - 由 Google 主持的 SRE 会谈.
+* [SRE Tech Talks](https://developers.google.com/events/sre/) - 由谷歌主持的 SRE 会谈.
 * [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - 为解决 Web 规模系统可靠性挑战的个人而设的小组.
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - 一群对可靠、高性能的软件系统充满热情的人.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - 在慕尼黑啤酒节城市更大区域的 SRE 聚会.
@@ -488,14 +492,14 @@
 * [Site Reliability Engineering India](https://www.meetup.com/site-reliability-enggineering/) - SRE Meetup 印度
 
 ## Twitter
-* [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE Twitter 帐户.
+* [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE 推特账户.
 * [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书的官方推特账号.
 * [SREcon](https://twitter.com/SREcon) - SRECon 的官方推特账号.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作簿的官方 Twitter 帐户.
-* [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE相关帖子来自 [dev.to](https://dev.to).
+* [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自 SRE 的相关帖子 [dev.to](https://dev.to).
 * [Twitter SRE](https://twitter.com/TwitterSRE) - Twitter SRE 团队的官方 Twitter 帐户.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - SRE Weekly Newsletter 的官方推特账号.
-* [USENIX Association](https://twitter.com/usenix) - 官方USENIX推特账户.
+* [USENIX Association](https://twitter.com/usenix) - USENIX官方推特账号.
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - 站点可靠性和生产工程工具的精选列表

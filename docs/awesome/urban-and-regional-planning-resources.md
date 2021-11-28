@@ -39,7 +39,7 @@
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收集了包括大气、海洋、陆地和洪水数据（包括当前和历史数据）以及全球建模和同化办公室 (GMAO) 运营的天气分析数据和更新四次的预测的精选数据集日常的.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人身伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
-- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和每半小时气象数据和三种最常见的太阳辐射测量值的集合：全球水平、直接法向和漫射水平辐照度.
+- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和每半小时气象数据和太阳辐射的三种最常见测量值的完整集合：全球水平、直接法向和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布.
 - [MACA](https://climate.northwestknowledge.net/MACA/) - MACA 方法是一种统计降尺度方法，用于消除全球气候模型输出的偏差. 
@@ -65,7 +65,7 @@
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务使用. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一项公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托对美国 100 个最大城市的公园访问和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 构建和维护树冠覆盖 (TCC) 数据集.
@@ -84,11 +84,11 @@
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
 - [HealthData.gov](https://healthdata.gov/) - 该网站致力于让企业家、研究人员和政策制定者更容易获得美国的高价值健康数据，以期为所有人带来更好的健康结果.  
-- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区健康相关结果的负担和地理分布，并协助他们规划公共卫生干预措施.
+- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区与健康相关的结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 
 ### Historic Preservation
 
-- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家历史名胜名录是国家值得保护的历史名胜的官方名单.
+- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家历史名胜名录是国家值得保护的历史名胜的官方列表.
 - [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产地是联合国教科文组织世界遗产委员会维护的遗产名录中的一个地点，被称为“世界遗产名录”，“它认为具有突出的普遍价值”.
 
 ### Land Use and Land Cover
@@ -158,7 +158,7 @@
 
 ### Urban Observation
 
-- [Numina](https://numina.co/)  - 利用边缘计算设备来测量各种路边活动.  Numina 以匿名的方式汇总地提供了街道中旅客和物体的体积计数、路径和交通行为.
+- [Numina](https://numina.co/)  - 利用边缘计算设备来测量各种路边活动.  Numina 以匿名的方式汇总提供了街道上旅客和物体的体积计数、路径和交通行为.
 - [Transoft](https://safety.transoftsolutions.com/)  - Transfoft ITS 安全解决方案利用计算机视觉来识别街道上的“险些”行为. 该技术曾在《规划》杂志上发表 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，在增加收入的同时使街道不那么拥挤、更可持续、更公平. 
 - [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠的方式快速量化建筑环境中发生的事件. 
@@ -195,7 +195,7 @@
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [GBFS](https://github.com/NABSA/gbfs) - 通用自行车馈送规范是共享移动系统可用性的标准化数据馈送.
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
-- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、公交车专用车道、快速车道，特别是如果资源是动态定价的.
+- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、公交专用道、快速车道，特别是如果资源是动态定价的.
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
 ## Planning Coding Resources
@@ -208,7 +208,7 @@ Python 库和相关资源.
 
 - [Pandas](https://pandas.pydata.org/) - 灵活强大的 Python 数据分析/操作库，提供类似于 R 数据框架对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
-- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
+- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
@@ -219,7 +219,7 @@ Python 库和相关资源.
 - [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 不允许代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一小组 Python 函数，用于从 OpenStreetMap 数据绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
-- [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic 是一个 Python 包，它使用 HERE 提供的 API 抓取您喜欢的路线、城市的交通流量数据.
+- [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 
 
 ### R
@@ -242,7 +242,7 @@ R 包和相关资源.
 - [Bootstrap](https://getbootstrap.com/)  - 广泛使用、文档齐全的库，用于快速设计和定制网站. 附加信息： [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 - [Chart.js](https://www.chartjs.org/)  - 为网络和移动设备创建简单（或高级）的数据可视化. 附加信息： [GitHub](https://github.com/chartjs/Chart.js).
 - [Leaflet](https://leafletjs.com/)  - 用于移动友好型交互式地图的开源 JavaScript 库. 可用于扩展功能的插件（例如，故事地图、热图、动画）. 附加信息： [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
-- [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
+- [Turf.js](https://turfjs.org/)  - 浏览器和 Node.js 的高级地理空间分析. 附加信息： [GitHub](https://github.com/Turfjs/turf).
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息：未经许可：WSDOT.
 
 ### Learning to Code
@@ -279,7 +279,10 @@ R 包和相关资源.
 ### Public Engagement Tools and Platforms
 旨在帮助公众参与和外展活动的软件、工具和平台. 
 - [bangthetable](https://www.bangthetable.com/) - 提供对集中社区参与的平台的访问，通过一个平台轻松捕获、分析和报告全市范围的参与.
+- [Metroquest](https://metroquest.com/) - 综合社区参与平台，提供调查、游戏和互动地图，让公众围绕规划问题进行参与. 
 - [PollEverywhere](https://www.polleverywhere.com/) - 提供在多个平台上为交互式参与生成民意调查和问题的能力. 
+- [NJTPA Engage](https://engage.njtpa.org/)  - 包含 300 多种公众参与工具、技术和软件的数据库. 可在多个级别上搜索. 
+- [Ushahidi](https://www.ushahidi.com/) - 开源的众包制图工具，旨在通过收集公民意见，使世界各地的社区能够解决自己的问题. 
 
 ### Urban Design Tools and Platforms
 用于协助城市设计和建筑环境中类似创意应用的软件、工具和平台. 
@@ -326,8 +329,8 @@ R 包和相关资源.
 
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 
-- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和交通部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题和为决策者提供信息方面享有盛誉.
+- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和运输部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表 APA 在关键规划问题上的官方立场，并用工具来宣传为所有人创造伟大社区的政策.
@@ -337,6 +340,7 @@ R 包和相关资源.
 用于城市规划、建筑环境或社区的网站和新闻资源.
 - [Planopedia](https://www.planetizen.com/planopedia) - 由规划新闻聚合器组织 [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
 - [ULI](https://uli.org/) - ULI 是世界上历史最悠久、规模最大的跨学科房地产和土地使用专家网络.
+- [Streetsblog](https://www.streetsblog.org/) - 与步行、骑自行车和公交相关的新闻博客. 
 
 ### Podcasts
 涉及建筑环境或社区的播客. 
@@ -370,7 +374,7 @@ R 包和相关资源.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - 哈佛 Dataverse 是研究数据的存储库. 它包含涵盖科学的各种数据集，其中许多数据集用于公共领域. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的资源集合已由来自全球 100 多个国家/地区的公民技术从业者众包.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新型交通、自动驾驶汽车、电子商务和其他创新对城市和社区的潜在影响，并列出了与它们相关的各种资源和工具.
-- [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application. 
+- [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并提供了关于如何理解其应用的分类法. 
 - [Digital.Gov](https://digital.gov/) - 有关在政府中建立更好的数字服务的指南和资源.
 
 ---
