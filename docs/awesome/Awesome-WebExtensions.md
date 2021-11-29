@@ -24,7 +24,7 @@
 - [Mozilla Discourse](https://discourse.mozilla.org/c/add-ons) - 讨论.
 - [`#addons:mozilla.org`](https://matrix.to/#/#addons:mozilla.org) - Mozilla 的矩阵频道.
 - [`google-chrome-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension) - 相关问题.
-- [`firefox-webextensions` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-webextensions) - 相关问题.
+- [`firefox-addon-webextensions` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-addon-webextensions) - 相关问题.
 - [`microsoft-edge-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/microsoft-edge-extension) - 相关问题.
 
 ## Libraries and Frameworks
@@ -52,7 +52,7 @@
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) - WebExtension 可直接在商店中查看扩展的源代码.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) - 自动发布到 Chrome Web Store、Mozilla Addons 和 Opera Addons 的工具.
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack 加载器，可让您指定`manifest.json` 属性仅出现在特定浏览器中.
-- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制的 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将 &#39;manifest.json&#39; 作为您唯一的 webpack 入口点.
+- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制的 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将“manifest.json”作为您唯一的 webpack 入口点.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - 在开发过程中自动重新加载浏览器扩展的 Webpack 插件.
 - [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - 为使用 Webpack 构建的 WebExtensions 添加代码拆分支持
 

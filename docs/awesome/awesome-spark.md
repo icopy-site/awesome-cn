@@ -30,7 +30,7 @@ Apache Spark 的用户可以选择不同的 Python、R、Scala 和 Java 编程�
 
 ### SQL Data Sources
 
-SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/latest/sql-data-sources-load-save-functions.html#manually-specifying-options) 对于文件. 这些包括 `csv`、`json`、`parquet`、`orc` 和 `avro`. 它还支持 JDBC 数据库以及 Apache Hive. 可以通过包含下面列出的包或编写自己的包来添加其他数据源. 
+SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/latest/sql-data-sources-load-save-functions.html#manually-specifying-options) 对于文件. 这些包括 `csv`、`json`、`parquet`、`orc` 和 `avro`. 它还支持 JDBC 数据库以及 Apache Hive. 可以通过包含下面列出的包或编写自己的包来添加其他数据源.
 
 
 ### Storage
@@ -95,8 +95,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 * [Large-Scale Intelligent Microservices](https://arxiv.org/pdf/2009.08044.pdf) - Microsoft 论文，提出了一个基于 Apache Spark 的微服务编排框架，该框架将数据库操作扩展为包括 Web 服务原语.
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf) - 介绍核心分布式内存抽象的论文.
-* [Structured Streaming: A Declarative API for Real-Time
- Applications in Apache Spark](https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf) - Structured Streaming是一种新的高级流API，它是一个基于自动递增静态的声明式API关系查询.
+* [Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark](https://cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf) - Structured Streaming 是一个新的高级流API，它是一个基于自动递增静态关系查询的声明式API.
 
 ### MOOCS
 
