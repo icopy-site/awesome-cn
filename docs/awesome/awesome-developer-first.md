@@ -32,7 +32,7 @@
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [Okta](https://developer.okta.com/) - 带有 SSO 的嵌入式身份验证.
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
-* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
+* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Hanko](https://www.hanko.io/) - 无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR 兼容.
@@ -93,6 +93,7 @@
 *文档解决方案.*
 * [readme](https://readme.com/) - 个性化和动态的开发人员文档.
 * [DeveloperHub](https://developerhub.io/) - 协作开发人员文档平台.
+* [swimm](https://swimm.io/) - 与您的代码相结合的文档，自动同步，适用于您的 IDE.
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*
@@ -123,7 +124,7 @@
 * [Mailgun](https://www.mailgun.com/) - 发送、跟踪和接收电子邮件.
 * [Sendgrid](https://sendgrid.com/) - 电子邮件 API.
 * [Lob](https://www.lob.com/) - 电子邮件和地址验证.
-* [FormSpree](https://formspree.io/) - 通过电子邮件接收表单提交.
+* [FormSpree](https://formspree.io/) - Receive form submissions by email.
 * [Hunter.io](https://hunter.io/) - 电子邮件线索和验证 API.
 * [Anymail finder](https://anymailfinder.com) - 验证并查找电子邮件 API.
 

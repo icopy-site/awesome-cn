@@ -96,6 +96,7 @@
 - [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 用 [urql](https://github.com/FormidableLabs/urql) 带有 Preact 核心 + 挂钩.
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head)  - 操纵`的钩子<head> ` DOM 部分. 它有一个带有核心 preact 支持的子包（使用 `preact/hooks`）.
 - [Teaful](https://github.com/teafuljs/teaful) - Tiny (800B)、简单而强大的 (P)React 状态管理.
+- [Nano Stores](https://github.com/nanostores/nanostores) - 具有许多原子树可摇动存储的小型（199 字节）状态管理器.
 
 
 ### Testing Utils

@@ -3,7 +3,7 @@
 ## Awesome Cassandra [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 <a href="http://cassandra.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" align="right" width="140"></a>
 
- Cassandra 是一个免费、开源、分布式、广泛的列存储 NoSQL 数据库管理系统，旨在处理跨多个商品服务器的大量数据，提供高可用性且无单点故障.  Cassandra 由 Apache 软件基金会支持，也称为 Apache Cassandra.
+ Cassandra 是一个免费、开源、分布式、广泛的列存储 NoSQL 数据库管理系统，旨在处理跨许多商品服务器的大量数据，提供高可用性且无单点故障.  Cassandra 由 Apache 软件基金会支持，也称为 Apache Cassandra.
 
 这是一个很棒的精选列表 [Cassandra](https://github.com/apache/cassandra) 包和资源. 由 Rahul Singh 维护 [Anant](http://anant.us) . 如果您想在此列表和其他很棒的列表上进行协作，请随时与我联系. [Awesome Cassandra](https://github.com/Anant/awesome-cassandra) , [Awesome Solr](https://github.com/Anant/awesome-solr), [Awesome Lucene](https://github.com/Anant/awesome-lucene) . 这为 *Resources* 部分提供了动力 [Cassandra.Link](https://cassandra.link)、丰富的博客提要和精选链接作为可搜索的知识库.
 
@@ -45,7 +45,7 @@
 - [DataStax Astra](https://dtsx.io/38htEun) - DataStax Astra Cassandra 即服务，在 AWS 和 GCP 上可用的 Kubernetes 运营商 Cassandra 上运行.
 - [IBM Cloud Databases for DataStax](https://www.ibm.com/cloud/databases-for-datastax) - 适用于 DataStax Enterprise 的 IBM Cloud Managed Service.
 - [Instaclustr Managed Cassandra as a Service](https://www.instaclustr.com/solutions/managed-apache-cassandra/) - Instaclustr 为 AWS、Azure、GCP 和 IBM Cloud 上的 Cassandra® 提供完全托管和 SOC 2 认证的托管和托管服务.
-- [Aiven for Cassandra](https://aiven.io/cassandra/) - Aiven for Cassandra is a managed and hosted distributed NoSQL database providing scalability, high availability, and excellent fault tolerance. Cassandra as a Service is available on Google Cloud Platform, Amazon Web Services, Microsoft Azure, DigitalOcean, and UpCloud.
+- [Aiven for Cassandra](https://aiven.io/cassandra/)  - Aiven for Cassandra 是一个托管和托管的分布式 NoSQL 数据库，提供可扩展性、高可用性和出色的容错能力.  Cassandra 即服务可在 Google Cloud Platform、Amazon Web Services、Microsoft Azure、DigitalOcean 和 UpCloud 上使用.
 - [Microsoft Azure Managed Instance for Cassandra](https://docs.microsoft.com/en-us/azure/managed-instance-apache-cassandra/)  - 适用于 Cassandra 的 Azure 托管实例为托管开源 Cassandra 数据中心提供自动化部署和缩放操作. 它可以加速混合场景并减少持续维护.
 
 #### Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
@@ -88,12 +88,13 @@
 - [RDBMS to NoSQL](http://www.datastax.com/relational-database-to-nosql) - 了解 NoSQL 是否适合您的路线图.
 - [Cassandra Schemas for Beginners (like me)](https://medium.com/@jochasinga/cassandra-schemas-for-beginners-like-me-9714cee9236a) - 适合 Cassandra 新开发人员的好文章.
 - [Cassandra Query Language: CQL vs SQL](https://medium.com/@alexbmeng/cassandra-query-language-cql-vs-sql-7f6ed7706b4c) - 记录 CQL 和 SQL 之间的异同的博客文章.
-- [Real-Time Replication from MySQL to Cassandra](https://planet.mcb.guru/?p=6890) - 将数据从 MySQL 迁移到 Cassandra 的演示. 
+- [Real-Time Replication from MySQL to Cassandra](https://planet.mcb.guru/?p=6890) - 将数据从 MySQL 迁移到 Cassandra 的演示.
+- [Cassandra Tutorial for Beginners](https://www.guru99.com/cassandra-tutorial.html) - 刚开始使用 Cassandra 的用户的课程计划.
 
 ### Cassandra Data Modeling
 
 - [Basic Rules Of Cassandra Data Modeling](http://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling)  - 选择正确的数据模型是使用 Cassandra 最困难的部分. 如果您有关系背景，CQL 会看起来很熟悉，但您使用它的方式可能会大不相同.
-- [CQL: This is not the SQL you are Looking For](https://www.slideshare.net/aploetz/cql-this-is-not-the-sql-you-are-loooking-for) - Presentation that explores and explains the differences between the CQL and SQL languages.
+- [CQL: This is not the SQL you are Looking For](https://www.slideshare.net/aploetz/cql-this-is-not-the-sql-you-are-loooking-for) - 探索和解释 CQL 和 SQL 语言之间差异的演示文稿.
 - [A Deep Look at the CQL Where Clause](https://www.datastax.com/dev/blog/a-deep-look-to-the-cql-where-clause) - 描述 CQL WHERE 子句支持的内容以及它与普通 SQL 不同的原因的博客文章.
 - [killrvideo-sample-schema](https://github.com/pmcfadin/killrvideo-sample-schema) - YouTube 克隆的示例 Cassandra CQL 架构.
 - [Spring Data Cassandra Examples](https://github.com/jxblum/spring-data-cassandra-examples/blob/master/src/main/resources/cassandra-example-schema.cql) - Maven 项目，其中包含展示 Spring Data Cassandra 项目特性和功能的示例.
@@ -133,7 +134,7 @@
 - [Deletes and Tombstones](http://thelastpickle.com/blog/2011/05/15/Deletes-and-Tombstones.html) - 解释删除如何在 Cassandra 中创建墓碑以及它们是什么.
 - [About Deletes and Tombstones in Cassandra](http://thelastpickle.com/blog/2016/07/27/about-deletes-and-tombstones.html) - 从 Cassandra 等系统中删除分布式和复制的数据比在关系数据库中要复杂得多.
 - [Null bindings on prepared statements and undesired tombstone creation](http://thelastpickle.com/blog/2016/09/15/Null-bindings-on-prepared-statements-and-undesired-tombstone-creation.html) - 对上一篇关于墓碑的文章进行了很好的跟进.
-- [Undetectable tombstones in Cassandra](http://thelastpickle.com/blog/2018/07/05/undetectable-tombstones-in-apache-cassandra.html) - 深入分析细胞和范围墓碑.
+- [Undetectable tombstones in Cassandra](http://thelastpickle.com/blog/2018/07/05/undetectable-tombstones-in-apache-cassandra.html) - 深入分析单元格和范围墓碑.
 - [Common Problems with Cassandra Tombstones](https://opencredo.com/cassandra-tombstones-common-issues/) - 大量墓碑导致延迟和堆压力.
 - [Curious Case of Tombstones](https://medium.com/cassandra-tombstones-clearing-use-case/the-curios-case-of-tombstones-d897f681a378) - 有人如何处理墓碑问题并在集群中回收空间.
 - [Understanding the Nuance of Compaction in Cassandra](http://thelastpickle.com/blog/2017/03/16/compaction-nuance.html) - Cassandra 如何管理磁盘数据的概述.
@@ -205,8 +206,8 @@
 - [Cassandra Node Diagnostics Tools](https://github.com/smartcat-labs/cassandra-diagnostics) - Cassandra 的监控和审计电源套件.
 - [TWCS part 1 - how does it work and when should you use it?](http://thelastpickle.com/blog/2016/12/08/TWCS-part1.html) - 最适合过期的时间序列数据，时间窗口压缩策略带有一些警告.
 - [Performing User Defined Compactions in Cassandra](http://thelastpickle.com/blog/2016/10/18/user-defined-compaction.html) - 记录我们告诉 Cassandra 为一个或多个表显式创建压缩任务的过程.
-- [Graphing cassandra-stress](http://thelastpickle.com/blog/2015/10/23/cassandra-stress-and-graphs.html) - 使用 cassandra-stress 工具对架构和配置更改进行基准测试，然后再将此类更改推送到生产环境中，这是每个 Cassandra 开发人员都应该知道并定期练习的事情之一.
-- [Modeling real life workloads with cassandra-stress is hard](http://thelastpickle.com/blog/2017/02/08/Modeling-real-life-workloads-with-cassandra-stress.html) - 博客文章详细说明了在对真实工作负载建模时使用 cassandra-stress 的注意事项.
+- [Graphing cassandra-stress](http://thelastpickle.com/blog/2015/10/23/cassandra-stress-and-graphs.html) - 使用 cassandra-stress 工具对架构和配置更改进行基准测试，然后将此类更改推送到生产环境是每个 Cassandra 开发人员应该知道并定期练习的事情之一.
+- [Modeling real life workloads with cassandra-stress is hard](http://thelastpickle.com/blog/2017/02/08/Modeling-real-life-workloads-with-cassandra-stress.html) - Blog post detailing caveats with cassandra-stress when modeling real workloads.
 - [Gatling DSE Stress](https://github.com/datastax/gatling-dse-stress) - 压力测试 DSE 的工具.
 - [Gatling DSE Plugin for Gatling Load injector](https://github.com/datastax/gatling-dse-plugin)  - Gatling 负载注入器的插件. 它在 Gatling 中为 Datastax Enterprise 添加了 CQL 支持. 它允许对 Datastax Enterprise 功能进行基准测试，包括 DSE Graph Fluent API.
 - [Gatling DSE Stress Simulation Catalog](https://github.com/datastax/gatling-dse-simcatalog)  - repo 的目标是提供 Gatling DSE Stress Framework 的使用示例. 随意提交带有示例模拟的拉取请求.
@@ -238,14 +239,14 @@
 - [How To Setup A Highly Available Multi-AZ Cassandra Cluster On AWS EC2](http://highscalability.com/blog/2016/8/1/how-to-setup-a-highly-available-multi-az-cassandra-cluster-o.html)
 - [tlp-cluster, a tool for launching Cassandra clusters in AWS](https://github.com/thelastpickle/tlp-cluster)  - Cassandra 的配置工具，专为希望对 Cassandra 的正确性进行基准测试和测试的开发人员而设计. 它有助于在 AWS 上构建和启动实例.
 - [Setting Up Cassandra Cluster Through Ansible](https://blog.knoldus.com/setting-up-cassandra-cluster-through-ansible/) - 详细介绍如何使用 Ansible 通过自动化设置 Cassandra 集群的指南.
-- [Running Cassandra on DC/OS (Mesos)](http://thelastpickle.com/blog/2016/05/07/dcos.html) - 该博客展示了如何在 Amazon 云中设置 DC/OS、如何在 DC/OS 集群上安装 Cassandra，以及安装后与 Cassandra 交互的新方法.
+- [Running Cassandra on DC/OS (Mesos)](http://thelastpickle.com/blog/2016/05/07/dcos.html) - 展示如何在 Amazon 云中设置 DC/OS、如何在 DC/OS 集群上安装 Cassandra 以及安装后与 Cassandra 交互的新方法的博客.
 - [Benchmarking Cassandra with Local Storage on Azure](https://www.instaclustr.com/benchmarking-cassandra-with-local-storage-on-azure/) - 了解在具有本地存储和远程存储的 Azure VM 上比较 Cassandra.
 
 #### Cassandra Deployment on Docker / Containerized Cassandra
 
 - [Docker Meet Cassandra. Cassandra Meet Docker](http://thelastpickle.com/blog/2018/01/23/docker-meet-cassandra.html) - 文章回顾了如何设置一个完整的 Cassandra 应用程序，并在 Docker 上进行监控.
 - [Example code from the Docker Meet Cassandra Article](https://github.com/thelastpickle/docker-cassandra-bootstrap)
-- [Docker-Cassandra](https://github.com/nicolasff/docker-cassandra) - 一组脚本和配置文件，用于从 Docker 运行 Cassandra 集群.
+- [Docker-Cassandra](https://github.com/nicolasff/docker-cassandra) - Set of scripts and config files to run a Cassandra cluster from Docker.
 - [Cassandra & Zeppelin Notebook on Docker](https://github.com/academyofdata/cassandra-zeppelin) - 用于 Cassandra + Zeppelin 设置的 Docker-Compose 脚本.
 - [Packer: Cassandra Image](https://github.com/cloudurable/cassandra-image)  - Cassandra 映像使用 Packer 用于 Docker 和 EC2 AMI. 涵盖使用 Ansible 管理 EC2 Cassandra 集群.
 - [Cassandra Docker](https://github.com/instaclustr/cassandra-docker)  - Cassandra 的 Instaclustr 公共 docker 镜像. 它包含 Cassandra 3.0 和 3.11.1 的 docker 镜像.
@@ -273,6 +274,17 @@
 <!-- - TODO:: Streaming -->
 <!-- - TODO:: ETL -->
 <!-- - TODO:: CDC -->
+
+#### .NET and Cassandra
+
+- [Cassandra API with .NET](https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra/manage-data-dotnet) - 有关如何使用 .NET 和 Azure Cosmos DB Cassandra API 构建配置文件应用程序的快速入门指南.
+- [DataStax C# Driver](https://github.com/datastax/csharp-driver) - C# Driver for Cassandra from DataStax.
+- [DataStax C# Driver Documentation](https://docs.datastax.com/en/developer/csharp-driver/3.4/) - Documentation on the C# Driver for Cassandra from DataStax.
+- [CQL data types to C# types](https://docs.datastax.com/en/developer/csharp-driver/3.4/features/datatypes/) - Documentation on CQL data types to C# types.
+- [Connect to Cassandra with C#](https://www.instaclustr.com/support/documentation/cassandra/using-cassandra/connect-to-cassandra-with-c-sharp/#) - Instaclustr article on how to connect to Cassandra with C#.
+- [Access Amazon Keyspaces with a Cassandra .NET Core Driver](https://docs.aws.amazon.com/keyspaces/latest/devguide/using_dotnetcore_driver.html) - 文章展示了如何使用 .NET Core 客户端驱动程序连接到 Amazon Keyspaces.
+- [Cassandra ADO.NET Driver](https://www.cdata.com/drivers/cassandra/ado/) - Cassandra ADO.NET 数据提供程序使用户能够轻松地从 .NET 应用程序连接到 Cassandra 数据.
+- [Cassandra Pagination with ASP.NET Core C#](https://bhonemyintkyaw777.medium.com/cassandra-pagination-with-asp-net-core-c-a85fd58f6b2b) - Article covering how to create infinite scroll pagination with Cassandra and ASP.NET Core C#.
 
 #### Spark
 
@@ -306,7 +318,7 @@
 - [OpenNMS/newts](https://github.com/OpenNMS/newts) - 支持 OpenNMS 的新型时间序列数据存储.
 - [Hawkular.org](https://www.hawkular.org/) - 由 Redhat 提供的 Cassandra 支持的时间序列/分布式跟踪数据库.
 - [Hawkular GitHub](https://github.com/hawkular) - Hawkular 的 GitHub 资源.
-- [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb)  - OpenTSDB 的 GitHub 资源. 基于时间序列数据库的分布式可扩展监控系统.
+- [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) - GitHub resources for OpenTSDB. A Distributed, Scalable Monitoring System built on a Time Series Database.
 
 ### Graph
 
@@ -320,6 +332,7 @@
 
 ### Miscellaneous
 
+- [Cassandra vs MongoDB](https://www.spec-india.com/blog/cassandra-vs-mongodb) - 文章比较了两种流行的 NoSQL 数据库.
 - [Stargate](https://github.com/stargate/stargate) - Stargate 是一个开源数据网关，为 Cassandra 提供 REST、GraphQL 和无模式 JSON 接口.
 - [Meet Stargate, DataStax's GraphQL for databases. First stop - Cassandra](https://www.zdnet.com/article/meet-stargate-datastaxs-graphql-for-databases-first-stop-cassandra/) - 星际之门的介绍和高级概述.
 - [Apache/Usergrid](https://github.com/apache/usergrid) - Cassandra 上的开源后端即服务 (BaaS)、Elasticsearch 以及适用于 iOS/Android/.NET/Java 的客户端 SDK.
@@ -359,7 +372,7 @@
 - [Ansible-dse](https://github.com/rackerlabs/ansible-dse) - 将构建 Datastax Enterprise 集群的一组 Ansible 剧本.
 - [dseansible](https://github.com/yabinmeng/dseansible) - Ubuntu Linux 的 DSE 安装和升级 Ansible 剧本/角色.
 - [DbSchema - Cassandra Designer](https://dbschema.com/database-designer/Cassandra.html) - DbSchema：Cassandra 图表设计器和 GUI 管理工具，可以在其他数据库中执行 Cassandra.
-- [DBeaver - Free Universal Database Tool](https://dbeaver.io/) - Third party tool for dealing with all sorts of databases including Cassandra.
+- [DBeaver - Free Universal Database Tool](https://dbeaver.io/) - 用于处理包括 Cassandra 在内的各种数据库的第三方工具.
 - [RazorSQL - Multi DB Manager Tool](https://razorsql.com/) - 适用于 Cassandra 的 Linux、Mac 和 Windows 多数据库工具.
 - [Cassandra Reaper](http://cassandra-reaper.io/)  - Cassandra 的自动修复. 支持所有版本.
 - [cstar perf](https://github.com/datastax/cstar_perf) - Cassandra 性能测试平台.
@@ -375,7 +388,7 @@
 - [cql-vim](https://github.com/elubow/cql-vim) - 用于 Vim 的 Cassandra CQL 语法荧光笔.
 - [Presto](https://prestodb.io/)  - 用于大数据的分布式 SQL 查询引擎.  Presto 允许查询数据所在的位置，包括 Hive、Cassandra、关系数据库甚至专有数据存储.
 - [SSTable Tools](https://github.com/tolbertam/sstable-tools) - 使用 Cassandra 3.x SSTables 解析、创建和做其他有趣事情的工具包.
-- [Cassandra-Exporter](https://github.com/masumsoft/cassandra-exporter) - 将 Cassandra 表导出/导入 JSON 的简单工具.
+- [Cassandra-Exporter](https://github.com/masumsoft/cassandra-exporter) - Simple Tool to Export / Import Cassandra Tables into JSON.
 - [Cassandra SStable Tools](https://github.com/instaclustr/cassandra-sstable-tools) - 多种不同的工具合二为一，帮助管理员获取摘要、元数据、分区信息、单元信息.
 - [Cassandra-Client](https://github.com/Kindrat/cassandra-client) - 用于在 Cassandra 中浏览表格和数据的简单 gui 工具.
 - [CQL Data Modeler](https://www.sestevez.com/sestevez/CassandraDataModeler/) - 非常有用的工具，用于测试 CQL 模式并可视化分区与列和行的关系.
@@ -454,6 +467,7 @@
 - [Stack Overflow: Cassandra](https://stackoverflow.com/questions/tagged/cassandra)
 - [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 - [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
+- [Stack Overflow: Astra DataStax - ASP.NET Core](https://stackoverflow.com/questions/66506642/astra-datastax-asp-net-core-secure-connect-bundle-zip-file-working-in-loca) - 回答了有关连接 DataStax Astra 和发布到 Microsoft Azure 的 ASP.NET Core API 的问题.
 - [Quora: Cassandra](https://www.quora.com/topic/Cassandra-database)
 - [Meetups: Cassandra](https://www.meetup.com/topics/cassandra/?_cookie-check=mHgLvBy3N6Cke1RU)
 
@@ -465,7 +479,7 @@
 - [Instaclustr](https://www.instaclustr.com/blog/) - 管理和支持 Cassandra、Kafka、Elasticsearch 和 Redis 的开源解决方案.
 - [OpenCredo:Cassandra](https://opencredo.com/tag/cassandra/) - OpenCredo 是一家咨询公司，可帮助客户围绕云原生和开源技术以及公共云服务做出明智的决策.
 - [DOAN DuyHai's Blog: Cassandra](http://www.doanduyhai.com/blog/?cat=57) - Duyhai Doan 是一名自由大数据和云架构师，他重视分享知识并为技术社区做出贡献.
-- [Amy Tobert](https://tobert.github.io/)  - Amy Tobert 是一位全栈工程师和领导者，对可持续系统和以人为本的领导充满热情. 她的博客详细介绍了不同的 Cassandra 部署以及其他主题.
+- [Amy Tobert](https://tobert.github.io/)  - Amy Tobert 是一名全栈工程师和领导者，对可持续系统和以人为本的领导充满热情. 她的博客详细介绍了不同的 Cassandra 部署以及其他主题.
 - [Christopher Batey: Cassandra](http://batey.info/cassandra.html) - Christopher Batey 是一名拥有超过 15 年经验的软件工程师，是 Akka 的主要贡献者，偶尔也为 Cassandra 做出贡献.
 - [Distributed Bytes: Cassandra](https://distributedbytes.timojo.com/search/label/cassandra)  - Tim Ojo 是分布式字节的创建者和 Capital one 的软件工程师. 这些是他围绕 Cassandra 主题的帖子集.
 - [The Netflix Tech Blog](https://medium.com/netflix-techblog) - 了解 Netflix 世界一流的工程工作、公司文化、产品开发等.
@@ -475,10 +489,11 @@
 
 ### Videos
 
-- [Best Practices for Running Cassandra on AWS](https://www.youtube.com/watch?v=IuJldwJLyFM) - 亚马逊网络服务 (AWS) 和 AWS 技术合作伙伴 Stackdriver 之间的联合网络研讨会，以学习适用于存储、分析和管理相当于每天超过 10 亿次测量的查询的最佳实践.
+- [Best Practices for Running Cassandra on AWS](https://www.youtube.com/watch?v=IuJldwJLyFM) - 亚马逊网络服务 (AWS) 和 AWS 技术合作伙伴 Stackdriver 之间的联合网络研讨会，学习适用于存储、分析和管理相当于每天超过 10 亿次测量的查询的最佳实践.
 - [Monitoring Cassandra: Don't Miss a Thing (Alain Rodriguez, The Last Pickle) | C* Summit 2016](https://www.youtube.com/watch?v=Q9AAR4UQzMk) - The Last Pickle 的顾问 Alain Rodriguez 发表的演讲，讨论了在 Cassandra 中要监控的内容、方式和原因.
 - [Tuning the Spark Cassandra Connector](https://www.youtube.com/watch?v=cKIHRD6kUOc&feature=youtu.be) - Spark Cassandra 连接器的维护者 Russell Spitzer 的精彩演讲.
 - [Cassandra.Lunch](https://github.com/Anant/Cassandra.Lunch) - 过去所有 Cassandra.Lunch 网络研讨会的集合，包括围绕 Cassandra 的所有主题的视频、幻灯片和博客文章.
+- [Working with .NET and Cassandra/DataStax Enterprise](https://www.youtube.com/watch?v=7W1tOmfREnw) - Getting a C# .NET core application started to work against a Cassandra or DSE database.
 
 ### Slides
 

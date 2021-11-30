@@ -61,7 +61,7 @@
 
 ## Datasets
 
-- [Ford Dataset](https://avdata.ford.com/)  - 数据集带有时间戳，包含来自所有传感器的原始数据、校准值、姿态轨迹、地面实况姿态和 3D 地图. 数据与机器人操作系统 (ROS) 兼容.
+- [Ford Dataset](https://avdata.ford.com/)  - 数据集带有时间戳，包含来自所有传感器的原始数据、校准值、姿态轨迹、地面真实姿态和 3D 地图. 数据与机器人操作系统 (ROS) 兼容.
   - [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) - 该数据集具有 2D 语义分割、3D 点云、3D 边界框和车辆总线数据.
@@ -142,6 +142,8 @@
 - [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - 3D LIDAR 数据中的移动对象分割
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
+- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg)  - ROS兼容地平面分割； 用于将平面拟合到 LIDAR 的库.
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：实时激光雷达里程计和测绘.

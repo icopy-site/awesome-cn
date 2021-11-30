@@ -2,9 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 精选的精彩资源列表 [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) 发展.
+&gt; 用于 WebExtensions 开发的精选资源列表.
 
- WebExtensions 是一个用于开发浏览器插件的跨浏览器系统. 该系统在很大程度上兼容 [extension API](https://developer.chrome.com/docs/extensions/reference) 由 Google Chrome 和 Opera 支持. 为这些浏览器编写的扩展在大多数情况下可以在 Firefox 或 Microsoft Edge 中运行，只需 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+ WebExtensions 是一个用于开发浏览器插件的跨浏览器系统. 系统在很大程度上兼容谷歌浏览器支持的扩展API. 在大多数情况下，为此浏览器编写的扩展程序只需在 Firefox 中运行 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+
+Follow [@fregante](https://fregante.com) 了解更多与 webext 相关的新闻.
 
 
 
@@ -54,7 +56,7 @@
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack 加载器，可让您指定`manifest.json` 属性仅出现在特定浏览器中.
 - [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  - 加载浏览器定制的 manifest.json 的 Webpack 加载器. 它还导入所有可导入的属性，允许您将“manifest.json”作为您唯一的 webpack 入口点.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - 在开发过程中自动重新加载浏览器扩展的 Webpack 插件.
-- [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - 为使用 Webpack 构建的 WebExtensions 添加代码拆分支持
+- [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) - 为使用 Webpack 构建的 WebExtensions 添加代码拆分支持.
 
 ## Testing
 
@@ -80,9 +82,3 @@
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
 - [mdn/webextension-examples](https://github.com/mdn/webextensions-examples) - 为 MDN 文档策划的各种示例扩展.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Federico Brigante](https://fregante.com) 已放弃本作品的所有版权和相关或邻接权.

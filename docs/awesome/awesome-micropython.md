@@ -197,7 +197,7 @@
 * [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - MicroPython + esp8266 + ntp + 网络服务器.
 * [micropython-ntpd](https://github.com/dave2/micropython-ntpd) - MicroPython 中 ntpd 的实现.
 * [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - 为 MicroPython 编写的 NTP 服务器.
-* [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
+* [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - 使用 uasyncio 的 MicroPython NTP 客户端.
 
 #### OneWire
 
@@ -334,7 +334,7 @@
 * [micropython-stage](https://github.com/python-ugame/micropython-stage) - Stage 游戏库的 MicroPython 端口.
 * [micropython-png](https://github.com/Ratfink/micropython-png) - 与 MicroPython 一起使用的 PyPNG 的衍生物.
 * [mpy-img-decoder](https://github.com/remixer-dec/mpy-img-decoder) - 纯 MicroPython 中的 PNG 和 JPEG 解码器/解析器/渲染器.
-* [micropython-oled-progressbars](https://github.com/follower46/micropython-oled-progressbars) - 用于 OLED 显示器上的 esp8266 和 esp32 的一组进度条.
+* [micropython-oled-progressbars](https://github.com/follower46/micropython-oled-progressbars) - A collection of progress bars for use with esp8266 and esp32's on OLED displays.
 * [microplot](https://github.com/romilly/microplot) - 简单的 MicroPython 绘图包.
 
 #### GUI
@@ -342,7 +342,7 @@
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - 一个面向对象的基于组件的高级 GUI 库，具有 MicroPython 绑定.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - 用于 Pyboard 和 LCD160CR 彩色显示器的基于简单触摸驱动事件的 GUI.
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - 用于基于 RA8875 的显示器的 MicroPython 设备驱动程序和 nano-GUI.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个仅用于显示的微型 GUI，带有一组有限的 GUI 对象（小部件），用于显示驱动程序是从 framebuf 类子类化的显示器. 带有用于 TFT、电子纸和 OLED 显示器的驱动程序.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个仅用于显示的微型 GUI，带有一组有限的 GUI 对象（小部件），用于显示驱动程序是从 framebuf 类子类化的显示器. 带有用于 TFT、电子纸和 OLED 显示器的驱动器.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) 源自 nano-gui 并支持相同的显示器和主机，这为用户提供
 通过按钮或导航操纵杆和可选的旋转编码器输入.
 * [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) 基于 SSD1963 控制器和 XPT2046 触摸控制器的大型显示器快速触摸 GUI.  
@@ -587,7 +587,7 @@
 #### Biometric
 
 * [micropython-fingerprint](https://github.com/chrisb2/micropython-fingerprint) - 用于读取 Grow 和 ZhianTec 指纹传感器的 MicroPython 库.
-* [MAX30102-MicroPython-driver](https://github.com/n-elia/MAX30102-MicroPython-driver)  - 移植到 MicroPython 的 MAX30102 驱动程序. 它也适用于 MAX30105.
+* [MAX30102-MicroPython-driver](https://github.com/n-elia/MAX30102-MicroPython-driver)  - 移植到 MicroPython 的 MAX30102 驱动程序. 它也应该适用于 MAX30105.
 
 #### Camera
 
@@ -894,11 +894,12 @@
 * [ampy](https://github.com/scientifichackers/ampy) - MicroPython 工具 - 通过串行连接与 MicroPython 板交互的实用程序.
 * [mpfshell](https://github.com/wendlers/mpfshell) - 一个用于 ESP8266 和 WiPy 的基于 shell 的简单文件浏览器.
 * [mpsync](https://github.com/Uhlo/mpsync) - 一个小工具，可在检测到更改时将文件夹同步到 MicroPython 板.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) 强大的官方shell 支持挂载主机当前目录到目标上. 在不更改目标文件系统的情况下运行代码.
 
 ## Miscellaneous
 
 * [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 名支持者承诺提供 97,803 英镑以帮助实现该项目.
-* [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 backers pledged £28,534 to help bring this project to life.
+* [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 名支持者承诺提供 28,534 英镑来帮助实现该项目.
 
 ## Contributing
 

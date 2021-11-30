@@ -45,6 +45,7 @@
     - [drupo](https://github.com/d1str0/drupot) - Drupal 蜜罐.
     - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - 基于 Python 的 Web 服务器蜜罐构建器.
     - [honeyup](https://github.com/LogoiLab/honeyup) - 一个看起来像糟糕的网站安全性的上传蜜罐.
+    - [owa-honeypot](https://github.com/joda32/owa-honeypot) - 基于烧瓶的基本 Outlook Web 蜜罐.
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - 简单有效的 phpMyAdmin 蜜罐.
     - [shockpot](https://github.com/threatstream/shockpot) - 用于检测 Shell Shock 攻击尝试的 WebApp Honeypot.
     - [smart-honeypot](https://github.com/freak3dot/smart-honeypot) - 演示智能蜜罐的 PHP 脚本.

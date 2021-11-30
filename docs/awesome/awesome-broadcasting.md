@@ -23,7 +23,7 @@
 
 * [dial-discovery-ios](https://github.com/bbc/dial-discovery-ios) - 用于在 iOS 平台上通过 DIAL 协议发现设备的库.
 * [dvbcss-synckit-ios](https://github.com/bbc/dvbcss-synckit-ios) - 用于与电视帧精确同步的配套屏幕应用程序的 iOS 库.
-* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - 一种测量电视或伴侣同步准确度的系统.
+* [dvbcss-synctiming](https://github.com/BBC/dvbcss-synctiming) - 用于测量电视或伴侣同步准确度的系统.
 * [pydvbcss](https://github.com/BBC/pydvbcss) - 用于同步媒体播放的 DVB Companion Screens 和 Streams 协议的实现.
 
 ## Connected TVs
@@ -35,7 +35,7 @@
 ## Control Systems
 
 * [Lawo EmberPlus](https://github.com/Lawo/ember-plus) - Ember Plus - 用于与广播控制系统交互的开放协议.
-* [MIDIMonster](https://github.com/cbdevnet/midimonster) - 用于常见表演控制协议的轻量级适配器工具.
+* [MIDIMonster](https://github.com/cbdevnet/midimonster) - 用于常见节目控制协议的轻量级适配器工具.
 
 ## Distributed Media Processing
 
@@ -50,7 +50,7 @@
 * [DTT 2 IP](https://github.com/ebu/dtt2ip) - 用于 Wifi 室内覆盖的广播到 IP 转换.
 * [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - 一个开源 DVB 分析器.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - 一个简单而强大的 MPEG-2/TS 解复用器和流媒体应用程序.
-* [dvbshout](https://github.com/njh/dvbshout) - 将 DVB 音频发送到喊叫服务器或 RTP 流的工具.
+* [dvbshout](https://github.com/njh/dvbshout) - 将 DVB 音频发送到 Shotcast 服务器或 RTP 流的工具.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - 一个免费和开源的 MPEG2 传输流数据生成器和数据包操纵器.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB 解复用工具.
 * [ts2mpa](https://github.com/njh/ts2mpa) - 从 MPEG 传输流 (TS) 中提取 MPEG 音频的简单工具.
@@ -88,9 +88,9 @@
 * [EBU LIST](https://github.com/ebu/pi-list) - 实时 IP 软件工具包，以协助 EBU 成员实施基于 IP 的设施.
 * [Icecast](https://icecast.org/) - 支持 Ogg（Vorbis 和 Theora）、Opus、WebM 和 MP3 的流媒体（音频/视频）服务器.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - 在瑞典成立的一个项目，旨在发布用于专业无线电广播的开源软件.
-* [Kamailio](http://www.kamailio.org/) - 开放的 SIP 服务器，通常用于使用 SIP (EBU ACIP) 的 IP 音频贡献.
+* [Kamailio](http://www.kamailio.org/) - 打开 SIP 服务器，通常用于使用 SIP (EBU ACIP) 的 IP 音频贡献.
 * 见 [NMOS](#nmos) AMWA 网络媒体开放规范和开源实现和工具列表.
-* [OpenOB](https://jamesharrison.github.io/openob/) - 基于 Opus 的无线电贡献链接和演播室发射器链接的开放外部广播项目.
+* [OpenOB](https://jamesharrison.github.io/openob/) - 为基于 Opus 的无线电贡献链接和演播室发射机链接开放外部广播项目.
 * [PJSIP](https://www.pjsip.org/) - 实现 SIP、SDP、RTP、STUN、TURN 和 ICE 的开源多媒体库.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - 用于从 Linux 广播实时音频的简单工具集.
 
@@ -111,7 +111,7 @@
 ## Metadata
 
 * [BMXlib](https://sourceforge.net/projects/bmxlib/)  - 用于读取和写入广播媒体文件的库和实用程序. 主要支持 MXF 文件格式.
-* [EBUCore](https://github.com/ebu/ebucore) - 用于维护的 Github [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
+* [EBUCore](https://github.com/ebu/ebucore) - Github 用于维护 [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [jebu-core](https://github.com/mikrosimage/jebu-core) - Java 端口 [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU 核心元数据，包括 [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
 * [libadm](https://github.com/irt-open-source/libadm) - 音频定义模型 (ITU-R BS.2076) 处理 C++11 库.
 * [libklvanc](https://github.com/stoth68000/libklvanc) - 用于从 SDI 和 SMPTE ST 2110-40（CEA-708、AFD、SCTE-104 等）中提取辅助数据的 C 库.
@@ -162,9 +162,10 @@
 * [OBS-Studio](https://github.com/obsproject/obs-studio) - 用于直播和屏幕录制的软件.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - 从开源组件构建的广播编码器.
 * [rgain](https://bitbucket.org/fk/rgain) - 用于读取、写入和计算重放增益的工具和 Python 库.
-* [rtmp](https://github.com/c-bata/rtmp) - 在 Go 中 Adob​​e 的 RTMP 1.0 协议的服务器实现.
+* [rtmp](https://github.com/c-bata/rtmp) - Adob​​e 的 RTMP 1.0 协议在 Go 中的服务器实现.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - 实时视频混合器.
 * [SoX](http://sox.sourceforge.net/) - 声音处理程序的瑞士军刀.
+* [SVT Encore](https://github.com/svt/encore) - 自托管视频转码平台，围绕 FFmpeg 构建.
 * [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - 基于 OpenFX 插件标准的开源图像处理框架.
 * [UPipe](https://github.com/cmassiot/upipe/) - 主要设计为多媒体播放器、转码器或流媒体的核心.
 * [VideoContext](https://github.com/bbc/videocontext) - 用于创建交互式和响应式网络视频的实验性 HTML5/WebGL 库.
@@ -198,7 +199,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - 用于多媒体流媒体的瑞士军刀（[documentation](https://www.liquidsoap.info/doc.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) 开源 LPFM IPTV 广播自动化. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - 用于管理和浏览音频档案的 ruby​​ 应用程序.
-* [Rivendell](https://github.com/ElvishArtisan/rivendell) - 完整的无线电广播自动化解决方案，翻译成多种语言并在全球范围内使用.
+* [Rivendell](https://github.com/ElvishArtisan/rivendell) - 完整的无线电广播自动化解决方案，已翻译成多种语言并在全球范围内使用.
 
 ## Software-defined radio
 
@@ -226,7 +227,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - 一个 JavaScript 库，用于作为 MOS 设备或 NRCS 进行连接和 MOS 消息传递.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - 用于照明行业的旅行适配器，用于互连 DMX-512、IP 和 USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - DMX 或模拟照明系统（灯头、调光器等）的跨平台控制.
-* [TallyArbiter](http://tallyarbiter.com/) - 通过手机或低成本硬件为任何相机提供跨平台 Tally 接口和 Tally 灯.
+* [TallyArbiter](http://tallyarbiter.com/) - 通过电话或低成本硬件为任何相机提供跨平台 Tally 接口和 Tally 灯.
 * [Teleprompter](https://github.com/ImaginarySense/Imaginary-Teleprompter) - Web 浏览器和独立的 Electron 应用程序提示器.
 
 ## Streaming
@@ -234,7 +235,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [Owncast](https://github.com/owncast/owncast) - 自托管视频流平台 (https://owncast.online/)
 
 ## Resources
-各种资源，例如书籍、网站和文章，用于提高您的技能和知识.
+各种资源，例如书籍、网站和文章，以提高您的技能和知识.
 
 ## Blogs
 
@@ -249,4 +250,4 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 <!-- This page is available on https://ebu.io/opensource -->
 
 ## Contributing
-请看 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 详情.

@@ -16,9 +16,9 @@
 
 ## Learning
 
-- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - David Kemp 用于量子门计算的交互式学习.
+- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - David Kemp 的量子门计算交互式学习.
 - [CNOT](https://cnot.io/) - 易于理解，逐步介绍量子计算概念.
-- [Chris Ferrie](https://csferrie.medium.com/) - 澳大利亚悉尼大学教授，《婴儿量子计算（以及更多）》的作者以及关于 Medium 的优秀量子计算讲座.
+- [Chris Ferrie](https://csferrie.medium.com/) - 澳大利亚悉尼大学教授，《婴儿量子计算》（以及更多）的作者，以及关于 Medium 的优秀量子计算讲座.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Rigetti Computing 的 SDK 教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - 有关量子计算的光子连续变量方法的背景信息，以及 Xanadu 的 SDK 教程.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) - 演示和教育资源以及访问 D-Wave 的量子计算机.
@@ -47,18 +47,18 @@
 
 ## MOOCs
 
-- [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/)  - 通过问题的解释. 与微软和 Alphabet X 一起策划.
+- [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/)  - 通过问题的解释. 与 Microsoft 和 Alphabet X 一起策划.
 - [Introduction to Quantum Information Science](https://www.arturekert.org/iqis) - 牛津大学 Artur Ekert 教授的“量子信息导论”.
-- [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - 麻省理工学院量子信息科学课程系列讲义.
+- [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) - 麻省理工学院量子信息科学课程讲义系列.
 - [Programming a Quantum Computer with Qiskit](https://www.coursera.org/projects/programming-quantum-computer-qiskit) - 2 小时的指导课程，重点是学习如何利用 Qiskit 为量子计算机编码.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - 关于量子密码学和如何运行量子程序的入门课程.
-- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - 了解 D-Wave 量子退火器架构以及一些实际任务.
+- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - 了解 D-Wave 量子退火炉架构以及一些实际任务.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) - 了解量子通信如何提供由自然法则保证的安全性.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - 量子信息和计算基础课程.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - 了解量子技术可以为机器学习带来的好处.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - 对量子力学基本原理的概念介绍.
-- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - 对计算、其背后的数学及其量子对应物的微妙介绍，然后深入讨论了一些量子算法.
-    - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - 上一课的同一位教授，这次更侧重于量子概念而不是数学.
+- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) - 对计算的微妙介绍、其背后的数学及其量子对应物，然后深入讨论了一些量子算法.
+    - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu) - 上一课的同一教授，这次更侧重于量子概念而不是数学.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - 了解量子计算机和量子互联网发展背后的原理和承诺，以及它们将如何影响我们的未来.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - 用最少的数学介绍量子计算的关键概念.
 
@@ -77,7 +77,7 @@
 - [Project Q](http://projectq.ch/) - 在 Python 中实现量子计算的框架.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - 使用 Rigetti 的 Quil 进行量子编程的 Python 库.
 - [pytket](https://cqcl.github.io/pytket/build/html/index.html)  - 用于与剑桥量子计算的 t|ket&gt; 接口的 Python 模块； 用于电路优化和量子位分配的工具.
-- [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)  - 用于量子计算机的较旧的 C 语言. 只有一个模拟器和调试器.
+- [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)  - 用于量子计算机的较旧的类似 C 的语言. 只有一个模拟器和调试器.
 - [Qiskit SDK](https://qiskit.org) - IBM 的软件开发工具包，用于在模拟器和真实硬件上编写和运行量子算法.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) - IBM 制作的用于 JavaScript 的 Qiskit.
 - [Qrack](https://vm6502q.readthedocs.io) - 高性能 LGPL 许可的 C++ 量子模拟器库、文档和测试代码.
@@ -89,19 +89,19 @@
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Python 中的量子工具箱，用于模拟开放量子系统的动力学.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [Strangeworks Platform](https://quantumcomputing.com/) - 一个与硬件无关的平台和接口，允许专注于开发而不是特定的硬件解决方案构建.
-- [TensorFlow Quantum](https://www.tensorflow.org/quantum) - 一个量子机器学习库，它集成了 Cirq 和 TensorFlow，用于经典或量子数据的混合量子经典模型的原型设计.
+- [TensorFlow Quantum](https://www.tensorflow.org/quantum) - 一个将 Cirq 与 TensorFlow 集成在一起的量子机器学习库，用于为经典或量子数据构建混合量子经典模型的原型.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - 由 Alan Aspuru-Guzik 小组（多伦多大学）开发的可扩展量子信息和学习架构.
 
 ## Blogs
 
 - [Algorithmic Assertions](http://algassert.com/) - 克雷格·吉德尼（Craig Gidney）——谷歌量子计算团队成员，关于量子计算和一般计算.
-- [Bits of Quantum](http://blog.qutech.nl/) - 由 QuTech 机构，分享他们的研究和日常生活.
+- [Bits of Quantum](http://blog.qutech.nl/) - 由 QuTech 机构分享他们的研究和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - 通过可视化向数据科学家解释量子算法.
-- [Decodoku](https://medium.com/@decodoku) - 关于量子计算的有趣帖子，作者是 James Wootton.
+- [Decodoku](https://medium.com/@decodoku) - James Wootton 关于量子计算的有趣帖子.
 - [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum 程序范围的更新.
 - [Musty Thoughts](http://mustythoughts.com) - Michał Stęchły 的个人博客，包括许多文章供人们开始学习量子计算.
 - [Qiskit blog](https://medium.com/qiskit) - 来自 Qiskit 社区团队的所有关于量子计算的信息.
-- [Quantumfy](https://quantumnews.io/) - 最新量子计算新闻的片段.
+- [Quantumfy](https://quantumfyed.com/) - 最新量子计算新闻和量子信息图表的片段.
 - [Quantum Frontiers](https://quantumfrontiers.com/) - 由量子信息与物质研究所提供，分享幕后研究见解.
 - [Quantum Weekly](https://quantumweekly.com/) - 量子计算、密码学、纠缠等所有事物的每周相关性.
 - [Quantum Zeitgeist](https://quantumzeitgeist.com/) - 涵盖量子计算以及 QC 公司和职业的最新消息. 
@@ -143,7 +143,7 @@
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - 量子编程的原因和方式，重点是 Rigetti 的 Python Forest SDK.
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)  - 面向计算机科学家的介绍性量子计算的 Microsoft Research Talk. 时长：1小时28分钟.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - 一系列关于量子计算基础的讲座 [Michael Nielsen](http://michaelnielsen.org/).
-- [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - 量子计算系列讲座 [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
+- [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) - 一系列关于量子计算的讲座 [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 - [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - 了解量子计算如何帮助科学家解决一些世界上最具挑战性的问题，例如土地优化. 
 - [Quantum Computing Seminar Series](https://www.youtube.com/watch?v=iKgysY097Ok&list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2) - Qiskit 系列讨论最近的研究.
 - [Quantum Mechanics by PBS Space Time](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) - YouTube 播放列表针对具有量子力学和计算相关通用概念的广泛受众. 
