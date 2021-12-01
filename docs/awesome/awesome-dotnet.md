@@ -56,7 +56,7 @@
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - 业务层开发框架 https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins 是一个通用框架，用于创建可扩展的应用程序，以及创建扩展这些应用程序的插件
-* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，提供易于使用且灵活的规则引擎，旨在解决常见的挑战，例如并发处理、事务支持、容错、线程、可扩展性、异步和多客户端支持以及易于测试，所有这些没有巨大的学习曲线！
+* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，它提供了一个易于使用且灵活的规则引擎，旨在解决常见的挑战，例如并发处理、事务支持、容错、线程、可伸缩性、异步和多客户端支持以及易于测试，所有这些没有巨大的学习曲线！
 * [Plastic](https://github.com/sang-hyeon/Plastic)  - Plastic 在应用程序中提供域、应用程序规则、业务规则或业务逻辑等内容的封装. 为此，使用命令模式.
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET 是一个开源应用程序框架，使构建企业 .NET 应用程序更容易
 * [DotNetty](https://github.com/Azure/DotNetty) - DotNetty 是 Netty 的一个端口，异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端.
@@ -274,7 +274,7 @@
 
 ## Database
 
-* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元组存储
+* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元存储
 * [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze 数据库是一个开源的嵌入式键值存储
 * [Event Store](https://github.com/EventStore/EventStore) - 在 JavaScript 中具有复杂事件处理功能的开源函数式数据库
 * [LiteDB](https://github.com/mbdavid/LiteDB) - 单个数据文件中的 .NET NoSQL 文档存储 - https://www.litedb.org
@@ -438,7 +438,7 @@
 * [LibTessDotNet](https://github.com/speps/LibTessDotNet) - 著名的 GLU Tessellator 的 .NET 端口，三角化多边形
 * [Oxyplot](https://github.com/oxyplot/) - OxyPlot 是一个用于 .NET 的跨平台绘图库
 * [OpenTK](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
-* [NGraphics](https://github.com/praeclarum/NGraphics) - NGraphics 是一个跨平台的库，用于在 .NET 上渲染矢量图形
+* [NGraphics](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 * [Aspose.Drawing](https://products.aspose.com/drawing/net)  - 完全托管、跨平台、完整的 2D 图形库，用于绘制文本、几何图形和图像，具有 System.Drawing 兼容 API.  **[$]**
 * [ScottPlot](https://swharden.com/scottplot/)  - 以交互方式显示大型数据集的绘图库. 折线图、条形图、饼图、散点图等. 它支持 WinForms、WPF、Avalonia、Console.
 * [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)  - 适用于 .Net 的简单、灵活、交互式且功能强大的图表、地图和仪表.  LiveCharts2 支持 WPF、WinForms、Xamarin、Avalonia、WinUI、UWP.
@@ -541,7 +541,7 @@
 
 * [Wix Toolset](https://wixtoolset.org/) - 可用于创建 Windows 安装体验的最强大工具集
 * [Squirrel](https://github.com/squirrel/squirrel.windows) - Squirrel 既是一组工具又是一个库，可以完全管理桌面 Windows 应用程序的安装和更新.
-* [Chocolatey](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
+* [Chocolatey](https://github.com/chocolatey/choco) - 类似于 `yum` 或 `apt-get`，但适用于 Windows.
 * [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - WiX 项目的交互式编辑器.
 * [Onova](https://github.com/Tyrrrz/Onova) - 一个不受约束的桌面应用程序自动更新框架.
 
@@ -726,6 +726,7 @@
 
 ## MVVM
 
+* [Community Toolkit](https://github.com/CommunityToolkit)  - 各种 .NET 技术的控件和帮助程序库和示例的集合. 包含由 Microsoft 支持的现代 MVVM 库. 包括 [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)， 和 [Dotnet Community Toolkit](https://github.com/CommunityToolkit/dotnet).
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小而强大的框架，专为跨所有 XAML 平台构建应用程序而设计. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
 * [Catel](https://www.catelproject.com/)  - Catel 是一个专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）的应用程序开发平台.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
@@ -751,7 +752,7 @@
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper)  - .NET 中基于约定的对象-对象映射器.  https://automapper.org
 * [TinyMapper](https://github.com/TinyMapper/TinyMapper) - 用于 .NET 的小巧快速的对象映射器.
-* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 轻量级、快速的 .NET 映射器，以自动化和简单的方式将一种类型的对象映射到另一种类型.  ExpressMapper 完全依赖于表达式树.
+* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 轻量级、快速的 .NET 映射器，以自动化且简单的方式将一种类型的对象映射到另一种类型.  ExpressMapper 完全依赖于表达式树.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - 支持 .NET Standard 1.0 的零配置对象-对象映射器
 * [Mapster](https://github.com/MapsterMapper/Mapster) - .net 中的高性能对象映射器
 
@@ -788,7 +789,7 @@
 * [Massive](https://github.com/FransBouma/Massive) - 一款永远爱你的小巧、快乐的数据访问工具.
 * [LINQ to DB](https://github.com/linq2db/linq2db) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供简单、轻便、快速且类型安全的层.
 * [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM 是一个用于 .NET 框架的微型对象关系映射器. 它旨在易于使用、可扩展和可测试.
-* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - 适合您的 POCO 的一个小 ORM 风格的东西
+* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - POCO 的一个小 ORM 风格的东西
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) - 期待已久的完全异步 PetaPoco 分叉
 * [NPoco](https://github.com/schotime/NPoco)  - 将查询结果映射到 POCO 对象的简单 microORM. 基于 Schotime 的 PetaPoco 分支
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - 使用 SQL 片段且不需要模型类的混合 ORM.

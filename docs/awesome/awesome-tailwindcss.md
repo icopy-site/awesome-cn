@@ -161,7 +161,7 @@
 
 -  [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Tailwind CSS 的颜色阴影生成器.
 -  [Palette generator](https://adevade.github.io/color-scheme-generator) - 输出 Tailwind CSS 配置文件的调色板生成器.
--  [Tailwind Colors](https://tailwind-colors.meidev.co) - Tailwind CSS 的颜色配置生成器.
+-  [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Tailwind CSS 的颜色浏览器.
 -  [TailwindInk](https://tailwind.ink/) - AI 调色板生成器，使用 Tailwind CSS 调色板训练.
 -  [Gradient Designer](https://gradient-designer.csspost.com/) - 为 Tailwind 2.0+ 生成渐变.
@@ -193,7 +193,7 @@
 -  [Windy](https://usewindy.com) - 将 HTML 元素转换为 Tailwind CSS 的浏览器扩展.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - 反应本机打字系统.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - Tailwind CSS 的 TypeScript 类型.
--  [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
+-  [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - 盖茨比的 Tailwind CSS 集成.
 -  [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Gridsome 的 Tailwind CSS 集成.
 -  [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - 快速 Tailwind CSS 文档搜索应用程序.
 -  [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - 用于将 Tailwind CSS 集成到 Angular-CLI 项目的 CLI 工具.
@@ -213,6 +213,7 @@
 -  [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 -  [Gust](https://www.getgust.com) - 用于 WordPress 的拖放页面构建器.
 -  [clb](https://github.com/crswll/clb) - clb（类列表构建器）是一个实用函数，它基于一个类列表构建一个类列表. [Stitches](https://stitches.dev/) 像API.
+-  [Inspect Flow](https://inspectflow.io) - Tailwind CSS 的完整开发者工具.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 -  [Protoship Codegen](https://protoship.io) - 代码生成器，可从 Sketch 设计中创建基于 Tailwind CSS 的 HTML 和 CSS.
 -  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
@@ -244,7 +245,7 @@
 -  [Treact](https://treact.owaiskhan.me) - 使用 Tailwind CSS 构建的 React UI 模板和组件.
 -  [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - 使用 Tailwind CSS 的管理模板.
 -  [themes.dev](https://www.themes.dev/) - 手工制作的免费优质 Tailwind CSS 主题和组件.
--  [Kutty](https://kutty.netlify.app) - Web 应用程序中常用的可访问和可重用的组件.
+-  [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 -  [Sail UI](https://sailui.github.io/) - 基于 Tailwind CSS 构建的基本 UI 组件的集合.
 -  [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - 使用 jQuery 和 Tailwind CSS 切换.
 -  [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - 与框架无关、Vue.js、React 和 Angular 组件.
@@ -360,7 +361,7 @@
 -  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - 使用 Tailwind CSS 构建电影制作登陆页面.
 -  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - 使用 Tailwind CSS 构建响应式导航栏.
 -  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - 使用 Tailwind CSS 进行 Dribbble 拍摄.
-- 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Tailwind CSS 的完整演练，从安装到部署优化.
+-  [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Tailwind CSS 的完整演练，从安装到部署优化.
 -  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - 使用 Tailwind CSS 构建 Tweet 组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - 使用 Tailwind CSS 创建模态对话框.
 -  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - 构建 Shopify、Spotify、Netlify 和 Atlassian 的 UI.
