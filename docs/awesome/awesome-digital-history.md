@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/maehr/awesome-digital-history/master/android-chrome-512x512.png" align="right" width="100">](https://maehr.github.io/awesome-digital-history/)
 
-&gt; 在线查找主要资源并学习如何以数字方式研究历史.
+> Find primary sources online and learn how to research history digitally.
 
 寻找文本和多媒体的辅助工具 [primary sources](https://en.wikipedia.org/wiki/Primary_source) 以西半球和 19 世纪和 20 世纪为重点. 以数字方式探索历史的课程和学习工具.
 
@@ -26,7 +26,7 @@
 - [Europeana](https://www.europeana.eu/) - 欧洲文本和非文本档案资源的搜索引擎.
 - [Mapire](https://mapire.eu/) - 交互式历史地图.
 - [Monasterium](https://www.monasterium.net/mom/home) - 来自欧洲各地的事迹.
-- [Project Gutenberg](https://www.gutenberg.org/) - 超过 60,000 种免费电子书的图书馆.
+- [Project Gutenberg](https://www.gutenberg.org/) - 超过 60,000 本免费电子书的图书馆.
 - [Visual Archive Southeastern Europe](http://gams.uni-graz.at/context:vase) - 来自东南欧的历史和当代视觉材料.
 
 ### France
@@ -36,7 +36,7 @@
 
 ### Germany
 
-- [Archivportal](https://www.archivportal-d.de/) - German archives search engine.
+- [Archivportal](https://www.archivportal-d.de/) - 德国档案搜索引擎.
 - [Bavarikon](https://www.bavarikon.de/) - 巴伐利亚地图、地方、报纸等的集合.
 - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) - 超过 1200 万个对象.
 - [Digitale Sammlungen](https://www.digitale-sammlungen.de/) - 慕尼黑数字化中心的收藏.
@@ -58,8 +58,10 @@
 - [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - 地图、手稿和声音.
 - [fxtop.com](https://fxtop.com/) - 自 1953 年以来的外汇汇率历史.
 - [Internet Archive](https://archive.org/) - 数百万免费书籍、电影、软件、音乐、网站等的非营利性图书馆.
+- [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - 图书搜索引擎，可在全球目录中查找数亿种媒体.
 - [Marxist Internet Archive](https://www.marxists.org/) - 你想知道的关于马克思（和其他重要的社会主义者）的一切.
 - [OldMapsOnline](https://www.oldmapsonline.org/) - 地图，始于 17 世纪.
+- [OpenCat](https://opencat.io/) - 全球图书馆的搜索引擎.
 - [WayBackMachine](https://archive.org/web/) - 探索随着时间的推移保存的超过 4860 亿个网页.
 
 ### Great Britain
@@ -84,7 +86,7 @@
 
 ### Switzerland
 
-- [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - 联邦公报、联邦当局的行政判例法以及来自瑞士联邦档案馆的更多文件.
+- [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - 联邦公报、联邦当局的行政判例法以及瑞士联邦档案馆的更多文件.
 - [Archives Online](https://www.archives-online.org/) - 瑞士档案搜索引擎.
 - [arCHeco](https://www.archeco.info/) - 瑞士和列支敦士登档案馆经济收藏索引.
 - [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV 包括 1968 年苏黎世夏天事件的数字版.
@@ -105,7 +107,7 @@
 - [Kartenportal](http://www.kartenportal.ch/) - 地图搜索引擎.
 - [Le Temps](https://www.letempsarchives.ch/) - Gazette de Lausanne 和 Journal de Genève 档案.
 - [map.geo.admin.ch](https://map.geo.admin.ch/) - 通过瑞士地图穿越时空.
-- [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 家瑞士记忆机构的 415,634 份视听文件的访问.
+- [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 个瑞士记忆机构的 415,634 份视听文件的访问.
 - [swisscollections](https://swisscollections.ch/) - 瑞士图书馆和档案馆中历史和现代收藏的元搜索引擎.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - 联邦委员会向议会报告过去几年的收入和支出.
 
@@ -113,12 +115,12 @@
 
 - [AdFontes](https://www.adfontes.uzh.ch/) - 在档案中使用资源的介绍.
 - [Clio Guide](https://guides.clio-online.de/) - 历史科学数字资源手册.
-- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - 历史学家（教师和学生、档案工作者和博物馆馆长、教授和业余爱好者）的网络简介，他们希望制作在线历史作品，或者在这一重要的新媒体中建立和改进他们已经开始的项目.
+- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - 历史学家（教师和学生、档案管理员和博物馆馆长、教授和业余爱好者）的网络简介，他们希望制作在线历史作品，或者在这一重要的新媒体中建立和改进他们已经开始的项目.
 - [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - 卡尔顿大学肖恩格雷厄姆的数字历史方法和阅读.
-- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学 Cameron Blevins 在数字历史中的方法和阅读.
+- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学的 Cameron Blevins 在数字历史中的方法和阅读.
 - [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.
-- [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评审的教程，可帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.
+- [The Programming Historian](https://programminghistorian.org/) - 适合新手的、经过同行评审的教程，可帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - 数字历史和数字人文领域概述.
 - [We think History](https://wethink.hypotheses.org/) - 有关数字历史的新闻和创新.
 

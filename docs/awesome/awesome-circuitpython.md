@@ -267,16 +267,18 @@
 
 ### Contribution Workflow Overview
 
-1. 在 GitHub 上分叉 repo.
+1.叉子 [this repository](https://github.com/adafruit/awesome-circuitpython) 在 GitHub 上.
 1. 将分叉的 repo 克隆到您的驱动器.
 1. 使用所有者 adafruit 和原始 URL 添加一个遥控器.
 1. 拿到遥控器.
-1. 合并 adafruit master（或 main）.
+1. 合并 adafruit 或 main.
 1. 创建一个分支.
 1. 做出改变.
 1. 提交并推送到你的仓库.
 1. 在官方 repo 上创建拉取请求.
 1.一旦被接受，重复从官方仓库合并到你的分支的主人，并重新分支.
+
+问题？ 我们很高兴 [help you to contribute on Discord](https://discord.com/invite/5FBsBHU).
 
 ## License & Trademarks
 

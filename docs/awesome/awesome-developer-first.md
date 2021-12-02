@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-一个很棒的开发者优先工具和产品的精选列表.
+精选的开发人员优先工具和产品的精选列表.
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
@@ -62,6 +62,7 @@
 *存储和处理数据.*
 * [Airtable](https://airtable.com/) - 带有 API 的数据库和电子表格混合.
 * [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
+* [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放.
 
 ## Debugging 
 *有助于跟踪错误的工具.*

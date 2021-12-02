@@ -51,7 +51,7 @@
 - [meiga](https://github.com/alice-biometrics/meiga) - 简单、类型化和基于 monad 的结果类型.
 - [option](https://github.com/MaT1g3R/option) - Rust 像 Option 和 Result 类型.
 - [phantom-types](https://github.com/antonagestam/phantom-types) - 幻影类型.
-- [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+- [returns](https://github.com/dry-python/returns) - 让你的函数返回一些有意义的、类型化的和安全的.
 - [safetywrap](https://github.com/mplanchard/safetywrap) - 完全类型安全、类似 Rust 的结果和选项类型.
 - [typet](https://github.com/contains-io/typet) - 长度有界类型，动态对象验证.
 
@@ -66,17 +66,18 @@
 
 ### Linters
 
-- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - flake8 插件以验证注释的复杂性.
+- [flake8-annotations-complexity](https://github.com/best-doctor/flake8-annotations-complexity) - flake8 插件来验证注释的复杂性.
 - [flake8-annotations](https://github.com/sco1/flake8-annotations) - flake8 插件，用于检查函数定义中是否存在类型注释.
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，为类型提示存根文件提供专业化.
+- [flake8-type-checking](https://github.com/snok/flake8-type-checking) - 帮助您正确保护任何仅类型注释导入的插件.
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查输入的输入是否受到适当保护的插件.
-- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在移动导入后如何调整类型注释.
+- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，可帮助确定将哪些导入放入类型检查块，以及在导入移动后如何调整类型注释.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格和最固执的 Python linter.
 
 ### Testing
 
 - [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - 用于测试 mypy 类型、存根和插件的 Pytest 插件.
-- [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) - 用于测试 mypy 静态类型分析的 Pytest 插件.
+- [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) - 用于 Pytest 的 Mypy 静态类型检查器插件.
 
 ### Working with types
