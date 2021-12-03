@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/APA-Technology-Division/planning-technology-resources)
 [![GitHub license](https://img.shields.io/github/license/APA-Technology-Division/planning-technology-resources)](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/LICENSE) 
 
-该存储库包含不同城市和区域规划数据和技术资源的精选列表. 那些对构建环境感兴趣的人被邀请审查并为这个存储库做出贡献.
+This repository contains curated list of different urban & regional planning data &amp; technology resources. Those interested in the built environment are invited to review and contribute to this repository.
 
 ---
 <!--lint disable awesome-toc-->
@@ -39,7 +39,7 @@
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收集了包括大气、海洋、陆地和洪水数据（包括当前和历史数据）以及全球建模和同化办公室 (GMAO) 运营的天气分析数据和更新四次的预测的精选数据集日常的.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人身伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
-- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一个连续完整的每小时和每半小时气象数据和三种最常见的太阳辐射测量值的集合：全球水平、直接法向和漫射水平辐照度.
+- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - The National Solar Radiation Database (NSRDB) is a serially complete collection of hourly and half-hourly values of meteorological data and the three most common measurements of solar radiation: global horizontal, direct normal and diffuse horizontal irradiance.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼出长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区级别的温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布.
 - [MACA](https://climate.northwestknowledge.net/MACA/) - MACA 方法是一种统计降尺度方法，用于消除全球气候模型输出的偏差. 
@@ -65,7 +65,7 @@
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从大自然中获得的许多好处，在美国通常称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和地图服务. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务使用. 这些数据集可以帮助为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一项公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托对美国 100 个最大城市的公园访问和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 构建和维护树冠覆盖 (TCC) 数据集.
@@ -77,14 +77,14 @@
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)  - EJSCREEN 使用地图和报告来呈现三种信息：环境指标、人口指标和 EJ 指数. 附加信息： [Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了负担能力的综合视图，其中包括社区层面的住房成本和交通成本. 由邻里技术中心提供.
 - [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供邻里家庭住房和交通成本的估计值以及建筑环境和人口统计的成分数据来缩小这一差距.  
-- [Opportunity Atlas](https://www.opportunityatlas.org/) - 这些 [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
+- [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
 - [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 一个交互式地图，将地理校正的房主贷款公司 (HOLC) 地图分层到美国的现代底图上. 这些彩色编码的 HOLC 地图是被称为 *redlining* 的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国本土 48 个州的主要大都市区（1935-1940）.
 
 ### Health
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
 - [HealthData.gov](https://healthdata.gov/) - 该网站致力于让企业家、研究人员和政策制定者更容易获得美国的高价值健康数据，以期为所有人带来更好的健康结果.  
-- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区健康相关结果的负担和地理分布，并协助他们规划公共卫生干预措施.
+- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区与健康相关的结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 
 ### Historic Preservation
 
@@ -102,7 +102,7 @@
 - [BBBike](https://download.bbbike.org/osm/bbbike/)  - 为世界各地的城市提供 shapefile 和原始 OSM 格式，每周提取. 如果您正在寻找单个城市的数据提取，这将非常有用.
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap 提取物以 PBF 或 shapefile 格式准备，每天下载.  
 - [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM Extracts 都会镜像整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，可供下载为适用于 GIS 的格式. 
-- [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是一个基于 Web 的 OpenStreetMap 数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefiles）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
+- [Overpass Turbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map. 
 - [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data)  - HOT 为 OSM 社区提供了丰富的工具集. 一个特别有用的工具是 [Export Tool](https://export.hotosm.org/en/v3/).
 - [Tasking Manager](https://tasks.hotosm.org/)  - 任务管理器是一个平台，任何人都可以在这个平台上学习使用开放街道地图并为绘制世界上未绘制地图的区域做出贡献. 这项工作对于发展中国家的备灾和抗灾能力至关重要，以便救援人员和社区成员在灾难发生时能够获得准确的地图.
 
@@ -116,7 +116,7 @@
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理者和规划者提供海平面上升和沿海洪水影响的初步观察.
 - [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是来自 FEMA 的在线地图应用程序，用于识别最有可能面临 18 种自然灾害风险的社区.
-- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more. 
+- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - 该站点在开放的公共领域内提供国家基金会级地理空间数据，这些数据可用于支持社区准备、弹性、研究等. 
 
 
 ### Transportation
@@ -149,7 +149,7 @@
 ### Land Use and Land Cover
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的包裹数据，可以即时访问详细的财产特征、销售记录、估价和当前县评估员文件的数字副本.
-- [CoStar](https://www.costar.com/) - 服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
+- [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用人工智能将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑足迹. 
 
 ### Resilience and Natural Hazards
@@ -170,7 +170,7 @@
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，基于基于活动的建模过程，提供丰富的源-目的地、支出和场景影响分析.
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问联网汽车数据变得简单而安全. 这些数据可用于起点-目的地分析、安全和速度研究等所有方面. 
-- [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
+- [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 按时并在预算范围内执行您的任务，24/7 全天候访问您需要的计数、OD 和其他指标.
 - [Strava](https://developers.strava.com/)  - 用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
 - [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新数据产品，例如实时停车和交通信息解决方案. 
@@ -182,7 +182,7 @@
 
 ### Built Environment
 
-- [LBCS](https://www.planning.org/lbcs/standards/) - The [American Planning Assoication's](https://www.planning.org/) 基于土地的分类标准从五个维度（活动、功能、结构、场地和所有权）对土地利用进行分类. 
+- [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Assoication's](https://www.planning.org/) 基于土地的分类标准从五个维度（活动、功能、结构、场地和所有权）对土地利用进行分类. 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以通过该语言定义他们希望在其拓扑中使用的实体的语言. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力，为建筑和施工许可数据创建共享数据规范.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - House Facts 数据标准是一种统一的格式，用于报告有关住宅建筑的运行、安全和性能的政府数据.
@@ -194,8 +194,8 @@
 - [GTFS](https://developers.google.com/transit/gtfs) - General Transit Feed Specification 是描述交通系统的流行标准.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [GBFS](https://github.com/NABSA/gbfs) - 通用自行车馈送规范是共享移动系统可用性的标准化数据馈送.
-- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
-- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、公交车专用车道、快速车道，特别是如果资源是动态定价的.
+- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，可实现移动公司和地方政府之间的通信.
+- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在由管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、公交专用道、快速车道，特别是如果资源是动态定价的.
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
 ## Planning Coding Resources
@@ -208,7 +208,7 @@ Python 库和相关资源.
 
 - [Pandas](https://pandas.pydata.org/) - 灵活强大的 Python 数据分析/操作库，提供类似于 R 数据框架对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方式来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
-- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - 适用于 Python 的 ArcGIS API 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互方式运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
+- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务既可以交互运行，也可以使用脚本运行. 该库支持在 ArcGIS 平台内轻松使用 Pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 Pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 Pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息： 许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
@@ -270,7 +270,7 @@ R 包和相关资源.
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - 该平台是一个地理信息系统 (GIS)，用于处理由环境系统研究所 (ESRI) 维护的地图和地理信息.
 - [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更有效的交付路线、更好的行为营销、战略性商店布局等等.
-- [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
+- [kepler.gl](https://kepler.gl/)  - Kepler 是一种数据不可知、WebGL 授权的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流程图. 可视化位置之间的移动次数（起点-终点数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成图表，几何图形的大小会根据数据发生扭曲. 
 - [Omnisci](https://www.omnisci.com/) - 启用地理时间的高性能数据库，能够执行 GPU 加速查询.
@@ -332,15 +332,15 @@ R 包和相关资源.
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是具体的论文，而是他们的策展人. 
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是在公路和运输部门的行政长官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求的基础上制定的.  AASHTO 研究与创新特别委员会 (R&amp;I) 选出最有价值的主题，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题和为决策者提供信息方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表 APA 在关键规划问题上的官方立场，并用工具来宣传为所有人创造伟大社区的政策.
 - [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome)  - 提供对来自国家交通图书馆的一系列全文当前和历史文件的访问. 资源可来自所有交通方式以及相关学科，例如气候变化研究. 
-- [Automated Decision-Making and the Law Clearinghouse Project](https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/) - 因此，该交换所项目的目的是突出重点关注人工智能决策和法律问题的开创性和有影响力的文章
+- [Automated Decision-Making and the Law Clearinghouse Project](https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/) - 因此，该交换所项目的目的是突出重点关注人工智能决策和法律问题的开创性和有影响力的文章.
 
 ### General Planning Information and News
-用于城市规划、建筑环境或社区的网站和新闻资源.
+Websites and news resources for urban planning, the built environment, or communities.
 - [Planopedia](https://www.planetizen.com/planopedia) - 由规划新闻聚合器组织 [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
 - [ULI](https://uli.org/) - ULI 是世界上历史最悠久、规模最大的跨学科房地产和土地使用专家网络.
 - [Streetsblog](https://www.streetsblog.org/) - 与步行、骑自行车和公交相关的新闻博客. 
@@ -360,11 +360,11 @@ R 包和相关资源.
 ---
 
 ### Other GitHub Resource Lists
-此页面已注册为 [awesome-list](https://github.com/topics/awesome-list) ，但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源的管理策展. 
+This page is registered as an [awesome-list](https://github.com/topics/awesome-list) ，但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源的管理策展. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型移动工具和数据资源的集合.
-- [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - 一份精心策划的开放技术项目清单，以维持稳定的气候、能源供应和重要的自然资源.
+- [awesome-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - 一份开放技术项目的精选清单，以维持稳定的气候、能源供应和重要的自然资源.
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS 是地理空间相关资源的集合，包括制图工具、地理分析工具、开发工具、数据、会议和社区、新闻、大规模开放在线课程、一些令人惊叹的地图站点等.
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - 用于农业、耕作和园艺的开源技术.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
@@ -392,7 +392,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 我们正在积极寻求对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面查看我们推荐的格式. 对于大量贡献，请先提交问题. 以这种方式为 repo 做出贡献的好处是，你对这个共享资源的添加将被记录下来. 
 
 ## License and Citation
-与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
+与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了对这个资源产生更多的贡献和理解，我们非常感谢分享这个存储库或在适当的时候引用它. 
 
 
 如果你确实引用了这个存储库，你可以： 

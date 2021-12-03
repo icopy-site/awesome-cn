@@ -6,7 +6,7 @@
 [<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
 <!--lint enable double-link-->
 
-&gt; 精心策划的精彩脚本小部件列表.
+&gt; 精心策划的很棒的可编写脚本的小部件列表.
 
 <!--lint disable double-link-->
 [Scriptable](https://scriptable.app/) 是一个使用 JavaScript 自动化 iOS 的应用程序. 
@@ -16,7 +16,11 @@
 
 ## Cars
 
-- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - 有关您的福特汽车的信息，例如位置或里程.
+- [BMW Linker](https://github.com/opp100/bmw-scriptable-widgets) - 有关您的 BMW 的信息，例如位置或里程.
+
+  <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/raw/main/screenshots/sc_1.png?raw=true" />
+
+- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - 有关您的福特的信息，例如位置或里程.
 
   <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
@@ -122,7 +126,7 @@
 
 ## Social
 
-- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - 联系人图标以开始对话.
+- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - 用于开始对话的联系人图标.
 
   <img src="https://raw.githubusercontent.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
@@ -152,7 +156,7 @@
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
-- [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - 足球队即将举行的比赛.
+- [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - 即将举行的足球队比赛.
 
 ## Tools
 
@@ -164,7 +168,7 @@
 
 - [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - 关于 Plesk 服务器的信息.
 
-- [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - 来自 PurpleAir 传感器的空气质量.
+- [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - PurpleAir 传感器的空气质量.
 
   <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
 

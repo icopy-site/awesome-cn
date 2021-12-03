@@ -111,7 +111,7 @@
 
 <h2 id="ada">有</h2>
 
-- [Codepeer](http://www.adacore.com/codepeer) :copyright: - Detects run-time and logic errors.
+- [Codepeer](http://www.adacore.com/codepeer) :copyright: - 检测运行时和逻辑错误.
 - [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) :copyright: - 提供代码验证，证明源代码中不存在溢出、被零除、越界数组访问和某些其他运行时错误.
 - [SPARK](https://www.adacore.com/about-spark) :copyright: - Ada 的静态分析和形式验证工具集.
 
@@ -139,7 +139,7 @@
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - 遵循 Google 风格指南的自动化 C++ 检查器.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) ：警告： - C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: - C 和 C 预处理器代码的复杂性和质量指标.
-- [ESBMC](http://esbmc.org) - ESBMC 是一种开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
+- [ESBMC](http://esbmc.org) - ESBMC 是一个开源的、许可的、上下文有界的模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
 - [flawfinder](http://dwheeler.com/flawfinder/) - 发现可能的安全弱点.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) - 跨平台、零依赖的 flint 端口，这是 Facebook 开发和使用的 C++ lint 程序.
 - [Frama-C](http://frama-c.com) - 用于 C 代码的健全且可扩展的静态分析器.
@@ -185,7 +185,7 @@
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - 遵循 Google 风格指南的自动化 C++ 检查器.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) ：警告： - C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: - C 和 C 预处理器代码的复杂性和质量指标.
-- [ESBMC](http://esbmc.org) - ESBMC 是一种开源、许可许可、上下文有界模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
+- [ESBMC](http://esbmc.org) - ESBMC 是一个开源的、许可的、上下文有界的模型检查器，基于可满足性模理论，用于验证单线程和多线程 C/C++ 程序.
 - [flawfinder](http://dwheeler.com/flawfinder/) - 发现可能的安全弱点.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) - 跨平台、零依赖的 flint 端口，这是 Facebook 开发和使用的 C++ lint 程序.
 - [Frama-C](http://frama-c.com) - 用于 C 代码的健全且可扩展的静态分析器.
@@ -302,7 +302,7 @@
 - [ineffassign](https://github.com/gordonklaus/ineffassign) - 检测 Go 代码中的无效赋值.
 - [interfacer](https://github.com/mvdan/interfacer) :warning: - 建议可以使用的更窄的接口.
 - [lll](https://github.com/walle/lll) ：警告： - 报告长行.
-- [maligned](https://github.com/mdempsky/maligned) - 检测如果对字段进行排序将占用较少内存的结构.
+- [maligned](https://github.com/mdempsky/maligned) - Detect structs that would take less memory if their fields were sorted.
 - [misspell](https://github.com/client9/misspell) - 查找常见拼写错误的英语单词.
 - [nakedret](https://github.com/alexkohler/nakedret) - 发现赤裸裸的回报.
 - [nargs](https://github.com/alexkohler/nargs) - 在函数声明中查找未使用的参数.
@@ -314,7 +314,7 @@
 - [staticcheck](https://staticcheck.io) - 进行静态分析，专门用于查找错误、简化代码和提高性能.
 - [structcheck](https://gitlab.com/opennota/check) - 查找未使用的结构字段.
 - [structslop](https://github.com/orijtech/structslop) - Go 的静态分析器，推荐结构字段重新排列以提供最大的空间/分配效率
-- [test](http://golang.org/pkg/testing) - Show location of test failures from the stdlib testing module.
+- [test](http://golang.org/pkg/testing) - 从 stdlib 测试模块显示测试失败的位置.
 - [unconvert](https://github.com/mdempsky/unconvert) :warning: - 检测冗余类型转换.
 - [unparam](https://github.com/mvdan/unparam) - 查找未使用的函数参数.
 - [varcheck](https://gitlab.com/opennota/check) - 查找未使用的全局变量和常量.
@@ -414,7 +414,7 @@
 
 <h2 id="matlab">MATLAB</h2>
 
-- [mlint](https://mathworks.com/help/matlab/ref/mlint.html) :copyright: - Check MATLAB code files for possible problems.
+- [mlint](https://mathworks.com/help/matlab/ref/mlint.html) :copyright: - 检查 MATLAB 代码文件是否存在可能的问题.
 
 
 <h2 id="nim">他</h2>
@@ -568,7 +568,7 @@
 - [Saikuro](https://metricfu.github.io/Saikuro) ：警告： - Ruby 圈复杂度分析器.
 - [SandiMeter](https://rubygems.org/gems/sandi_meter) ：警告： - 用于检查 Ruby 代码的 Sandi Metz 规则的静态分析工具.
 - [Sorbet](https://sorbet.org) - 专为 Ruby 设计的快速、强大的类型检查器.
-- [Standard Ruby](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
+- [Standard Ruby](https://github.com/testdouble/standard) - Ruby 风格指南，带有 linter 和自动代码修复程序
 - [Steep](https://github.com/soutaro/steep) - Ruby 的渐进式打字.
 
 
@@ -577,7 +577,7 @@
 - [C2Rust](https://c2rust.com)  - C2Rust 可帮助您将符合 C99 的代码迁移到 Rust. 翻译器（或转译器）会产生不安全的 Rust 代码，这些代码与输入的 C 代码非常相似.
 - [cargo udeps](https://github.com/est31/cargo-udeps)  - 在 Cargo.toml 中查找未使用的依赖项. 它要么打印出列出板条箱的“未使用的板条箱”行，要么打印出一行表示没有未使用的板条箱.
 - [cargo-audit](https://rustsec.org) - 审计 Cargo.lock 是否有安全漏洞报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
-- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  - 找出什么占用了可执行文件中的大部分空间. 支持 ELF (Linux, BSD), Mach-O (macOS) 和 PE (Windows) 二进制文件.
 - [cargo-deny](https://embarkstudios.github.io/cargo-deny)  - 用于检查依赖项的货物插件. 它也可以用作命令行、Rust crate 或 CI 的 Github 操作. 它会检查有效的许可证信息、重复的箱子、安全漏洞等.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
 - [cargo-inspect](https://github.com/mre/cargo-inspect) - 检查没有语法糖的 Rust 代码，看看编译器在幕后做了什么.
@@ -614,7 +614,7 @@
 
 <h2 id="scala">梯子</h2>
 
-- [linter](https://github.com/HairyFotr/linter) :warning: - Linter 是一个 Scala 静态分析编译器插件，它为各种可能的错误、低效率和样式问题添加了编译时检查.
+- [linter](https://github.com/HairyFotr/linter) :warning: - Linter is a Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
 - [Scalastyle](http://www.scalastyle.org) - Scalastyle 检查您的 Scala 代码并指出它的潜在问题.
 - [scapegoat](https://github.com/sksamuel/scapegoat) - 用于静态代码分析的 Scala 编译器插件.
 - [WartRemover](https://www.wartremover.org) - 灵活的 Scala 代码检查工具.
@@ -776,6 +776,7 @@
 - [todocheck](https://github.com/preslavmihaylov/todocheck) - 用于将带注释的 TODO 与您的问题跟踪器集成的 Linter
 - [trivy](https://github.com/aquasecurity/trivy)  - 一个简单而全面的容器和其他工件的漏洞扫描器，适用于 CI.  Trivy 检测操作系统包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
+- [trunk](https://trunk.io)  :copyright: - 现代存储库包括许多技术，每种技术都有自己的一组短绒. 凭借 30 多个 linter 和计数，Trunk 使识别、安装、配置和运行所有存储库的正确 linter、静态分析器和格式化程序变得非常简单.
 - [TscanCode](https://github.com/Tencent/TscanCode) - A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.
 - [Undebt](https://github.com/Yelp/undebt) - 独立于语言的工具，用于基于简单模式定义的大规模、自动、可编程重构.
 - [Understand](https://www.scitools.com) :copyright: - 代码可视化工具，为 Ada、VHDL 等提供代码分析、标准测试、度量、图形、依赖性分析等.
@@ -818,7 +819,7 @@
 - [BinSkim](https://github.com/Microsoft/binskim) - 一种二进制静态分析工具，可为 Windows 可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) :copyright: - 分析源代码和二进制文件的可重用代码、必要许可证和潜在安全方面的工具.
 - [bloaty](https://github.com/google/bloaty)  - 有没有想过是什么让你的二进制文件变大？  Bloaty McBloatface 将向您显示二进制文件的大小配置文件，以便您了解内部占用的空间.  Bloaty 对二进制文件进行了深入分析.  Bloaty 使用自定义 ELF、DWARF 和 Mach-O 解析器，旨在准确地将二进制文件的每个字节归因于生成它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
-- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
+- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  - 找出什么占用了可执行文件中的大部分空间. 支持 ELF (Linux, BSD), Mach-O (macOS) 和 PE (Windows) 二进制文件.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker 在二进制可执行文件中发现易受攻击的模式.
 - [Ghidra](https://ghidra-sre.org) - 由 NSA 研究理事会开发的软件逆向工程 (SRE) 工具套件，用于支持网络安全任务
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) :copyright: - 二进制代码分析工具.
@@ -828,7 +829,7 @@
 - [mcsema](https://github.com/lifting-bits/mcsema)  - 将 x86、amd64、aarch64、sparc32 和 sparc64 程序二进制文件提升到 LLVM 位码的框架. 它将可执行二进制文件从本地机器代码转换（“提升”）为 LLVM 位代码，这对于执行程序分析方法非常有用.
 - [Nauz File Detector](https://github.com/horsicq/Nauz-File-Detector) - 适用于 Windows、Linux 和 MacOS 的静态链接器/编译器/工具检测器.
 - [Twiggy](https://rustwasm.github.io/twiggy)  - 分析二进制调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
-- [VMware chap](https://github.com/vmware/chap)  - chap 分析未检测的 ELF 核心文件的泄漏、内存增长和损坏. 它足够可靠，可用于自动化以在泄漏发生之前捕获泄漏. 作为一个交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
+- [VMware chap](https://github.com/vmware/chap)  - chap 分析未检测的 ELF 核心文件的泄漏、内存增长和损坏. 它足够可靠，可用于自动化以在泄漏发生之前捕获泄漏. 作为一种交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
 - [zydis](https://zydis.re) - 快速轻量级的 x86/x86-64 反汇编库
 
 
@@ -1051,7 +1052,7 @@
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: - 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  ：警告： - 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新类型的分析.
 - [Reshift](https://www.reshiftsecurity.com) :copyright: - 用于检测和管理 Java 安全漏洞的源代码分析工具.
-- [scorecard](https://github.com/ossf/scorecard) - 安全记分卡 - 开源的安全健康指标
+- [scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
 - [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/)  :copyright: - 识别托管在 Github、Google Code、MS CodePlex、SourceForge 等上的开源代码项目中的漏洞. 该工具带有 130 多个默认搜索，可识别 SQL 注入、跨站点脚本 (XSS)、不安全的远程和本地文件包含、硬编码密码等. 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: - 检测安全风险、发现错误并为 PHP 项目提供可操作的指标.
 - [tfsec](https://github.com/tfsec/tfsec)  - Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反 AWS、Azure 和 GCP 安全最佳实践建议.

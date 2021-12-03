@@ -26,7 +26,7 @@
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) - CircuitPython 和社区的概述.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - 学习 CircuitPython 的基本功能.
 - [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - 关于 CircuitPython 的 Adafruit 学习指南.
-- [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) - 关于 CircuitPython 和 MicroPython 的指南.
+- [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) - Guides on both CircuitPython and MicroPython.
 
 ## Community
 
@@ -51,7 +51,7 @@
 ## Code
 
 - CircuitPython 版本：在每块板上选择 [CircuitPython.org](https://circuitpython.org/downloads) （最简单）或访问 [GitHub](https://github.com/adafruit/circuitpython/releases).
-- CircuitPython Beta Releases: Select per board at [CircuitPython.org](https://circuitpython.org/downloads) （最简单）
+- CircuitPython Beta 版本：选择每块板 [CircuitPython.org](https://circuitpython.org/downloads) （最简单）
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - 可用于 CircuitPython 的函数和文档列表.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - 学习 CircuitPython 的基本功能.
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - 特定于使用 CircuitPython 的 Circuit Playground Express 的功能和文档.
@@ -60,6 +60,7 @@
 - [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/master/circuitpython_community_library_list.md)  - CircuitPython 社区库. 有超过 45 个以上的库可用.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - Raspberry Pi 和其他运行 Linux 的兼容单板计算机 (SBC) 上的 CircuitPython 库.
 - [Coding CircuitPython on iOS 13.x](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - 随着 iOS 13 的推出，iPhone 用户现在可以在 CircuitPython USB 设备上编辑代码！
+- [Awesome List for the rp2040 Macropad](https://github.com/prcutler/awesome-macropad) - 很棒的 Macropad 应用程序、宏、3D 打印计划等的列表.
 
 ## Frameworks
 
@@ -144,7 +145,7 @@
 - [Unexpected Maker](https://unexpectedmaker.com) - [Unexpected Maker FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2).
 - [S2 Nugget](https://github.com/HakCat-Tech/S2-Nugget) - Wi-Fi Nugget 分线板与基于 ESP32S2 的 S2 Mini 开发板相结合.
 
-将新板添加到 CircuitPython 列表中 [circuitpython.org](https://circuitpython.org): 请在 GitHub 上做一个拉取请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython 开发人员可以帮助获取正确的引脚数据和其他信息来映射新板.
+Adding new boards to the CircuitPython list on [circuitpython.org](https://circuitpython.org): 请在 GitHub 上做一个拉取请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython 开发人员可以帮助获取正确的引脚数据和其他信息来映射新板.
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - 传感器、LCD、显示器、机器人、分线板等的完整列表.
 
@@ -153,13 +154,13 @@
 ## Newsletter
 
 - [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - 关于 MicroPython 和 CircuitPython 的每周时事通讯，一个无垃圾邮件列表.
-- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - 为时事通讯做出贡献的指南.
 - [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) - 从 2016 年 11 月开始发布的每份时事通讯的列表.
 
 ## News
 
 - [Program CircuitPython devices with iPhone & iOS 13](https://blog.adafruit.com/2019/09/19/program-circuitpython-devices-with-iphone-ios-13/) - 随着 iOS 13 的推出，iPhone 用户现在可以在 CircuitPython USB 设备上编辑代码！
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 这 [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126)，2019 年 7 月 27 日，作者 Kattni Rembor.
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 这 [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126)，2019 年 7 月 27 日，作者：Kattni Rembor.
 - [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - MagPi 杂志，第 84 期，Melissa LeBlanc-Williams，2019 年 7 月.
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/) - 2019 年 7 月 1 日.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - 面向 Python 核心开发人员的 CircuitPython 讨论，PyCon 2019.
@@ -169,7 +170,7 @@
 - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) - CircuitPython 在 Texas Instrument 计算器上运行.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
 - [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum 杂志关于面向创客的 Python 编程语言的文章.
-- [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) - 4-H 品牌版本已获得美国农业部的批准，这是第一个同时获得 4-H 批准的 CircuitPython 供电板！
+- [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) - 4-H 品牌版本已获得美国农业部的批准，这是第一个也获得 4-H 批准的 CircuitPython 供电板！
 - [CircuitPython in Space](https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/)  - _CircuitPython 提供了一种使用硬件进行科学的平易近人且合乎逻辑的方法. 与显示在太空中工作的低成本硬件相结合，我们可以让新一代人质疑和探索未知事物. 有了必要的“卫星内容”，学生可以花时间尝试新事物，而不是重新发明轮子_.
 - [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) - 在 CircuitPython 和 IoT 设备 PyPortal 上自行中断播客.
 - [Cool Tools](https://youtu.be/Kz4C7sCLWb0) - Sophy Wong 谈论 Circuit Playground Express，包括 CircuitPython.
@@ -242,7 +243,8 @@
 
 ## Talks
 
-- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 通过开源、热情和指导改变生活，Kattni Rembor 在 Pyohio 2019 的主题演讲.
+- [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython程序！入门级CircuitPython中文教程01：从零到Hello World（YouTube）.
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 通过开源、热情和指导改变生活，Kattni Rembor 在 PyOhio 2019 的主题演讲.
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython：Dave Astels 在 PyCon Canada 的硬件上的 Python.
 - [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Ayan Pahwa 在 FOSSASIA 峰会上为使用 MicroPython 和 CircuitPython 的每个人进行嵌入式编程.
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/) - 尼古拉斯·托勒维.

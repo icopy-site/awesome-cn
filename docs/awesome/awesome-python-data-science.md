@@ -30,14 +30,6 @@
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - 用于图形结构化数据的无监督机器学习库.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于采样图形结构化数据的库.
 
-### Time Series
-* [Prophet](https://github.com/facebook/prophet) - 自动预测程序.
-* [PyFlux](https://github.com/RJT1990/pyflux) - 用于 Python 的开源时间序列库.
-* [bayesloop](https://github.com/christophmark/bayesloop) - 促进时变参数模型的客观模型选择的概率编程框架.
-* [luminol](https://github.com/linkedin/luminol) - 异常检测和关联库.
-* [dateutil](https://dateutil.readthedocs.io/en/stable/) - 对标准日期时间模块的强大扩展
-* [maya](https://github.com/timofurrer/maya) - 使解析字符串和更改时区变得非常容易
-
 ### Automated Machine Learning
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - 强大的自动化机器学习 python 库.
 
@@ -75,7 +67,7 @@
 
 ## Web Scraping
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)：为初学者抓取静态网站的最简单的库
-* [Scrapy](https://scrapy.org/) ：快速且可扩展的抓取库. 可以编写规则并创建自定义scraper，而无需触及核心
+* [Scrapy](https://scrapy.org/) ：快速且可扩展的抓取库. 可以编写规则并创建自定义scraper，而无需接触内核
 * [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction)：使用 Selenium Python API 像真实用户一样以直观的方式访问 Selenium WebDriver 的所有功能.
 * [Pattern](https://github.com/clips/pattern) ：针对 Google、Twitter 和 Wikipedia 等成熟网站的高级抓取. 还有 NLP、机器学习算法和可视化
 * [twitterscraper](https://github.com/taspinar/twitterscraper)：抓取推特的高效库
@@ -85,11 +77,11 @@
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - 强大的 Python 数据分析工具包.
 * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - 从 Pandas DataFrame 对象创建 HTML 分析报告
-* [xpandas](https://github.com/alan-turing-institute/xpandas) - 具有 Transformers 的通用 1d/2d 数据容器，用于数据分析的功能 [The Alan Turing Institute](https://www.turing.ac.uk/).
+* [xpandas](https://github.com/alan-turing-institute/xpandas) - 具有 Transformers 的通用 1d/2d 数据容器.用于数据分析的功能 [The Alan Turing Institute](https://www.turing.ac.uk/).
 * [Arctic](https://github.com/manahl/arctic) - 用于时间序列和刻度数据的高性能数据存储.
 * [swifter](https://github.com/jmcarpenter2/swifter) - 以最快的可用方式有效地将任何函数应用于熊猫数据帧或系列的包.
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - 一个允许轻松编写自己的 Pandas 风格的包.
-* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - 一个包，允许提供有关基本 Pandas 操作的反馈并找到业务逻辑和性能问题.
+* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - 一个包，允许提供有关基本熊猫操作的反馈并找到业务逻辑和性能问题.
 * [vaex](https://github.com/vaexio/vaex) - 用于 Python、ML 的核心外数据帧，以每秒 10 亿行的速度可视化和探索大型表格数据.
 
 ### Pipelines
@@ -122,7 +114,7 @@
 * [plotly](https://plot.ly/python/) - 一个制作交互式和出版质量图表的 Python 库.
 * [Bokeh](https://github.com/bokeh/bokeh) - 用于 Python 的交互式网络绘图.
 * [Altair](https://altair-viz.github.io/)  - Python 的声明性统计可视化库. 可以轻松地在代码中进行许多数据转换以创建图形
-* [bqplot](https://github.com/bqplot/bqplot) - 用于 IPython/Jupyter 笔记本的绘图库
+* [bqplot](https://github.com/bqplot/bqplot) - IPython/Jupyter 笔记本的绘图库
 ### Map
 * [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - 可以轻松地在交互式开放街道地图上可视化数据
 * [geemap](https://github.com/giswqs/geemap) - 用于与 Google Earth Engine (GEE) 交互映射的 Python 包
@@ -144,7 +136,7 @@
 
 ## Model Explanation
 * [Shapley](https://github.com/benedekrozemberczki/shapley) - 一个数据驱动的框架，用于量化机器学习集成中分类器的价值. 
-* [Alibi](https://github.com/SeldonIO/alibi) - 监控和解释机器学习模型的算法.
+* [Alibi](https://github.com/SeldonIO/alibi) - 用于监控和解释机器学习模型的算法.
 * [anchor](https://github.com/marcotcr/anchor) - “高精度模型不可知解释”论文的代码.
 * [aequitas](https://github.com/dssg/aequitas) - 偏见和公平审计工具包.
 * [ELI5](https://github.com/TeamHG-Memex/eli5) - 用于调试/检查机器学习分类器并解释其预测的库.
@@ -169,12 +161,12 @@
 * [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - 可扩展的强化学习.
 * [Horizon](https://github.com/facebookresearch/Horizon) - 应用强化学习平台.
 * [Dopamine](https://github.com/google/dopamine) - 强化学习算法快速原型设计的研究框架.
-* [ChainerRL](https://github.com/chainer/chainerrl) - 建立在 Chainer 之上的深度强化学习库.
+* [ChainerRL](https://github.com/chainer/chainerrl) - 一个建立在 Chainer 之上的深度强化学习库.
 
 ## Probabilistic Methods
 * [PyMC](https://github.com/pymc-devs/pymc) - Python 中的贝叶斯随机建模.
 * [sampled](https://github.com/ColCarroll/sampled) - PyMC3 中可重用模型的装饰器.
-* [PyStan](https://github.com/stan-dev/pystan) - 使用 No-U-Turn 采样器（Python 接口）进行贝叶斯推理.
+* [PyStan](https://github.com/stan-dev/pystan) - 使用 No-U-Turn 采样器（Python 接口）的贝叶斯推理.
 * [pgmpy](https://github.com/pgmpy/pgmpy) - 用于处理概率图形模型的 Python 库.
 * [emcee](https://github.com/dfm/emcee) - 用于仿射不变 MCMC 的 Python 集成采样工具包.
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - 具有显式持续时间的隐藏半马尔可夫模型库.
@@ -201,6 +193,14 @@
 * [Talos](https://github.com/autonomio/talos) - Keras 模型的超参数优化.
 * [nlopt](https://github.com/stevengj/nlopt) - 非线性优化库（全局和局部，约束或无约束）.
 
+## Time Series
+* [Prophet](https://github.com/facebook/prophet) - 自动预测程序.
+* [PyFlux](https://github.com/RJT1990/pyflux) - 用于 Python 的开源时间序列库.
+* [bayesloop](https://github.com/christophmark/bayesloop) - 促进时变参数模型的客观模型选择的概率编程框架.
+* [luminol](https://github.com/linkedin/luminol) - 异常检测和相关库.
+* [dateutil](https://dateutil.readthedocs.io/en/stable/) - 对标准日期时间模块的强大扩展
+* [maya](https://github.com/timofurrer/maya) - 使解析字符串和更改时区变得非常容易
+
 ## Natural Language Processing
 * [NLTK](https://github.com/nltk/nltk) - 支持自然语言处理研究和开发的模块、数据集和教程.
 * [CLTK](https://github.com/cltk/cltk) - 古典语言工具包.
@@ -210,7 +210,6 @@
 * [Phonemizer](https://github.com/bootphon/phonemizer) - 多种语言的简单文本到音素转换器.
 * [flair](https://github.com/zalandoresearch/flair) - 最先进的 NLP 的非常简单的框架.
 * [spaCy](https://spacy.io/) - 工业强度的自然语言处理.
-
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
@@ -240,7 +239,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) - 分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) - 分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) - 微软分布式机器学习工具包.
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft 分布式机器学习工具包.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) - 并行分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) - Python 中的分布式计算.
 
@@ -253,7 +252,7 @@
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - 用于评估推荐系统的有用指标和图表库.
 * [Metrics](https://github.com/benhamner/Metrics) - 机器学习评估指标.
-* [AI Fairness 360](https://github.com/IBM/AIF360) - 数据集和 ML 模型的公平性指标、解释和算法，以减轻数据集和模型中的偏差.
+* [AI Fairness 360](https://github.com/IBM/AIF360) - 数据集和机器学习模型的公平性指标、解释和算法，以减轻数据集和模型中的偏差.
 
 ## Computations
 * [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
@@ -272,7 +271,7 @@
 * [QML](https://github.com/qmlcode/qml) - 用于量子机器学习的 Python 工具包.
 
 ## Conversion
-* [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估算器转换为 C、Java、JavaScript 等.
+* [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估计器转换为 C、Java、JavaScript 等.
 * [ONNX](https://github.com/onnx/onnx) - 开放神经网络交换.
 * [MMdnn](https://github.com/Microsoft/MMdnn) - 一组帮助用户在不同深度学习框架之间互操作的工具.
 
@@ -281,7 +280,7 @@
 阅读<a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>贡献指南</a>.
 
 ## License
-本作品根据知识共享署名 4.0 国际许可协议获得许可 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+本作品已根据知识共享署名 4.0 国际许可协议获得许可 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
 	<a href="other/deprecated.md">弃用的库</a>
