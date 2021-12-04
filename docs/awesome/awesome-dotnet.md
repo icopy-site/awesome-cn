@@ -188,7 +188,7 @@
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - 用于 .NET 的终端 UI 工具包.
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs)  - PowerArgs 将命令行参数转换为易于编程的 .NET 对象. 它还提供了大量可选功能，例如参数验证、自动生成的用法、制表符完成和大量的可扩展性
 * [ReadLine](https://github.com/tonerdo/readline) - 用于 .NET/.NET Core 的类似 GNU-Readline 的库.
-* [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，利用对象树作为命令.
+* [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 独特的命令行解析器，利用对象树进行命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - 一个可以更轻松地创建漂亮的控制台应用程序的库.
 
@@ -274,7 +274,7 @@
 
 ## Database
 
-* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元存储
+* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元组存储
 * [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze 数据库是一个开源的嵌入式键值存储
 * [Event Store](https://github.com/EventStore/EventStore) - 在 JavaScript 中具有复杂事件处理功能的开源函数式数据库
 * [LiteDB](https://github.com/mbdavid/LiteDB) - 单个数据文件中的 .NET NoSQL 文档存储 - https://www.litedb.org
@@ -731,7 +731,7 @@
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
 * [Catel](https://www.catelproject.com/)  - Catel 是一个专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）的应用程序开发平台.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
 * [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现“INotifyPropertyChanged”或声明“DependencyProperty”. 它将控件直接连接到 CLR 属性. 这使它非常适合 Model/View/ViewModel 模式.
-* [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
+* [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 以应用程序为中心的 Windows 8.1 MVVM 框架，在构建时考虑到了依赖注入，包括一整套 Visual Studio MVVM 模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 跨平台的桌面和移动 MVVM 开发框架.
 * [Win Application Framework (WAF)](https://github.com/jbe2277/waf)  - 一个轻量级框架，可帮助您创建结构良好的 WPF 和 UWP 应用程序. 它支持您应用分层架构和模型-视图-视图模型模式.
@@ -752,7 +752,7 @@
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper)  - .NET 中基于约定的对象-对象映射器.  https://automapper.org
 * [TinyMapper](https://github.com/TinyMapper/TinyMapper) - 用于 .NET 的小巧快速的对象映射器.
-* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 轻量级、快速的 .NET 映射器，以自动化且简单的方式将一种类型的对象映射到另一种类型.  ExpressMapper 完全依赖于表达式树.
+* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 轻量级、快速的 .NET 映射器，以自动化和简单的方式将一种类型的对象映射到另一种类型.  ExpressMapper 完全依赖于表达式树.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - 支持 .NET Standard 1.0 的零配置对象-对象映射器
 * [Mapster](https://github.com/MapsterMapper/Mapster) - .net 中的高性能对象映射器
 
@@ -911,6 +911,7 @@
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - 公共语言基础设施的 MessagePack 实现
 * [Jil](https://github.com/kevin-montrose/Jil) - 基于 Sigil 构建的快速 .NET JSON 序列化器（由 StackOverflow 使用）
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+* [FlatSharp](https://github.com/jamescourtney/FlatSharp)  - 快速、惯用的 FlatBuffers 实现. 使用 .fbs 文件或属性.
 * [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond](https://github.com/Microsoft/bond)  - 用于处理模式化数据的跨平台框架. 它支持跨语言反序列化和强大的通用机制，用于有效地操作数据.
 * [Hyperion](https://github.com/akkadotnet/Hyperion) - .NET 框架的高性能多态序列化器.
