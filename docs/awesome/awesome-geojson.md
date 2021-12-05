@@ -23,7 +23,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [point-grouper](https://github.com/substack/point-grouper): 将 geojson 点分组为包含多边形
 * [geojson-join](https://github.com/tmcw/geojson-join): 针对 json、dbf 和 csv 文件加入 geojson
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): 将 ramer-douglas-peucker 线简化应用于 JS 或 CLI 中的 geojson 特征或特征集合
-* [turf](https://github.com/Turfjs/turf)：空间操作和分析的函数集合
+* [turf](https://github.com/Turfjs/turf): 空间操作和分析的函数集合
 * [winnow](https://github.com/dmfenton/winnow): 使用 javascript 对 geojson 运行 sql 查询
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): 为每个功能添加一个唯一的 id
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): 在 GeoJSON 中提取多边形的共享边界
@@ -36,11 +36,11 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson.io](http://geojson.io/): 基于网络的编辑器，支持多种文件类型的导入导出、操作、通过GitHub共享
 * [umap](http://umap.openstreetmap.fr/en/): 基于网页的编辑器，支持现场分享
 * [geojson.tools](http://geojson.tools/)：来自 HERE XYZ 的基于 Web 的编辑器
-* [mapstarter](http://mapstarter.com/)：帮助从 GeoJSON 生成 svg、图像和代码
+* [mapstarter](http://mapstarter.com/): 帮助从 GeoJSON 生成 svg、图像和代码
 * [gjv](https://github.com/anandthakker/gjv) ：电子应用程序可以在本地查看 GeoJSON 并使用草皮对其进行破解； 离线工作
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/)：谷歌的简单geojson编辑器的修改版
 * [geojson2image](https://github.com/brycejohnston/geojson2image): 用于从 GeoJSON 生成图像的库
-* [dropchop](http://dropchop.io/): 基于 Turf.js 的基于浏览器的 GIS
+* [dropchop](http://dropchop.io/): 基于浏览器的基于 Turf.js 的 GIS
 * [Web GIS](https://drewweth.github.io/geodebugger)：查看、检查和操作地理空间数据的工具
 
 ### validation
@@ -58,7 +58,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojsonlint](http://geojsonlint.com/)：用于 GeoJSON 验证的 REST 接口
 * [mapshaper](http://mapshaper.org/)：GeoJSON 和 TopoJSON 的简化和转换的简单接口
 * [koop](https://koopjs.github.io)：带有插件的服务器，可将 Esri、GitHub、Socrata 和其他服务重新转换为 GeoJSON 端点
-* [featureserver](https://github.com/featureserver/featureserver)：一个开源的 Esri 风格的功能服务器
+* [featureserver](https://github.com/featureserver/featureserver)：一个开源的 Esri-Style Feature Server
 
 ### conversion
 
@@ -76,7 +76,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [tokml](https://github.com/mapbox/tokml): 将 GeoJSON 转换为 KML
 * [topojson](https://github.com/topojson/topojson): 将 GeoJSON 和 TopoJSON 相互转换，从 CSV 连接数据
 * [wellknown](https://github.com/mapbox/wellknown): 将 WKT 转换为 GeoJSON
-* [esri2open](https://github.com/project-open-data/esri2open) 将专有 Esri 格式转换为 GeoJSON
+* [esri2open](https://github.com/project-open-data/esri2open) 将专有的 Esri 格式转换为 GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): 将 GTFS 传输数据转换为 GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): 将任何大小的 geojson 流转换为流式 CSV、Shapefile 或 KML 等.
 * [supercluster](https://github.com/mapbox/supercluster)：用于浏览器和 Node.js 的快速 GeoJSON 集群库.
@@ -96,11 +96,12 @@ GeoJSON 实用程序将使您的生活更轻松.
   * [geojson2osm](https://github.com/Rub21/geojson2osm): 将 GeoJSON 转换为 OSM XML
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): 将 GeoJSON 转换为 OSM XML 并将 OSM XML 转换为 GeoJSON
   * [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/): 将 GeoJSON 转换为 OSM XML
+  * [query-overpass](https://github.com/perliedman/query-overpass)  CLI 进行 Overpass 查询并将结果转换为 GeoJSON. 基于 [osmtogeojson](https://github.com/tyrasd/osmtogeojson)
 
 
 ### data
 
-* [natural earth](http://www.naturalearthdata.com/)：国家、省和地理数据
+* [natural earth](http://www.naturalearthdata.com/): 国家、省和地理数据
 * [geojson.xyz](http://geojson.xyz/)：带有热链接的网页友好尺寸的自然地球数据
 * [world-atlas](https://github.com/topojson/world-atlas)：可定制的简化版自然地球数据
 * [geo-maps](https://github.com/simonepri/geo-maps)：以编程方式生成的高质量 GeoJSON 地图.
@@ -110,7 +111,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [whereonearth-airport](https://github.com/straup/whereonearth-airport): 每个机场的轮廓
 * [whereonearth-building](https://github.com/straup/whereonearth-building/): 建筑轮廓
 * [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth)：Aaron Straup Cope 从 GeoPlanet 输出的其他特征
-* [tgn-geojson](https://github.com/straup/tgn-geojson)：地理名称 (TGN) 作为 GeoJSON 的盖蒂词库.
+* [tgn-geojson](https://github.com/straup/tgn-geojson)：作为 GeoJSON 的 Getty 地名辞典 (TGN).
 * [strava-to-geojsonio](https://github.com/taketime/strava-to-geojsonio)：将跑步和骑行从 Strava 导出到 GeoJSON
 * [strava-geojson](https://github.com/tmcw/strava-geojson): 在节点 &amp; 中将 _all_ strava 数据导出到 geojson [on the web](http://www.macwright.org/strava-geojson/)
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): 通过 openstreetmap id 获取 geojson 文件
