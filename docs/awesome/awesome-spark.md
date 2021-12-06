@@ -35,7 +35,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Storage
 
-
+* [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - 与lakeFS 原子版本化存储层集成.
 ### Bioinformatics
 
 
@@ -87,7 +87,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Books
 
 * [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)  - 包含 Spark 3.0 的 Spark API 简介. 关于基本概念的良好知识来源.
-* [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do)  - 有用的 Spark 处理模式集合. 附带 GitHub 存储库： [sryza/aas](https://github.com/sryza/aas).
+* [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - Useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas](https://github.com/sryza/aas).
 * [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - 有趣的笔记汇编 [Jacek Laskowski](https://github.com/jaceklaskowski) . 专注于 Spark 内部的不同方面.
 * [Spark Gotchas](https://github.com/awesome-spark/spark-gotchas) - 提示、技巧和常见编程错误的主观汇编.
 

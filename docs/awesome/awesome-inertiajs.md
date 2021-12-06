@@ -79,8 +79,8 @@
 ### Presets
 
 - ⭐ [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel 的官方认证脚手架，带有 Tailwind CSS 和 Inertia.js.
-- ⭐ [Inertia Preset](https://github.com/use-preset/laravel-inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的一键式 Laravel 预设.
 - ⭐ [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
+- [Inertia Preset](https://github.com/laravel-presets/inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的一键式 Laravel 预设.
 - [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Inertia.js 的 Laravel 前端预设.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Titanium](https://github.com/usetitanium/inertia) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
@@ -90,7 +90,7 @@
 
 - [Kakunin](https://github.com/Juhlinus/kakunin) - 用于实时表单验证的 Laravel 包.
 - [Resource Links](https://github.com/spatie/laravel-resource-links) - 用于添加 API 资源链接的 Laravel 包.
-- [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - 提供一个 DataTable 组件与集成 [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
+- [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - 提供与集成的 DataTable 组件 [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
 
 ### Articles
 

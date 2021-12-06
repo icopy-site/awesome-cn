@@ -38,6 +38,7 @@
 * [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 * [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 * [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+* [Mathologer](https://www.youtube.com/c/Mathologer) 
 
 ## Tools
 
@@ -58,6 +59,7 @@
 * [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
+* [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
 ## Questions and Answers
 
@@ -87,7 +89,7 @@
 * [BetterExplained](https://betterexplained.com/) - 由 Kalid Azad 维护
 * [ILoveMaths](http://ilovemaths.com/) - 适用于 K-12 系统中的 6 至 12 年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
-* [Mathsisfun](https://www.mathsisfun.com) 适合高中学生的简单文本轻量级网站
+* [Mathsisfun](https://www.mathsisfun.com) 适合高中生的简单文本轻量级网站
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（美国西弗吉尼亚州亨廷顿马歇尔大学数学教授）
 
 ## Misc
@@ -204,7 +206,7 @@
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - 大卫乔伊斯（克拉克大学）
 * [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) - F. 奥吉尔
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) - Thomas W. Judson、Robert A. Beezer（奥斯汀州立大学）
-* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) ——罗伯特·豪利特
+* [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - 罗伯特·豪利特
 * [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - EH Connell（迈阿密大学）
 * [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - 罗伯特·阿什
 * [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - 本尼迪克特格罗斯
@@ -215,14 +217,14 @@
 * [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - 马克·里德
 * [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - JS米尔恩
 * [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - 彼得·J·卡梅伦
-* [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - 佩德拉格奇维塔诺维奇
+* [Group Theory](http://www.cns.gatech.edu/GroupTheory/index.html) - 佩德拉奇维塔诺维奇
 
 ### Linear Algebra
 
 * [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - 詹姆斯·B·卡雷尔
 * [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - 马丁诅咒
-* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) ——罗伯特·豪利特
-* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) ——吉姆·赫弗伦
+* [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - 罗伯特·豪利特
+* [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - 吉姆·赫弗伦
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - 胡安·克洛珀
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - 基思马修斯
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - 罗布·布雷泽
@@ -230,7 +232,7 @@
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, CC Wang
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, CC Wang
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd（斯坦福大学）、Lieven Vandenberghe（加州大学洛杉矶分校）
-* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - 谢尔盖特雷尔
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - 谢尔盖·特雷尔
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J. Ström、K. Åström 和 T. Akenine-Möller
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - 丹·玛格丽特和约瑟夫·拉比诺夫
 * [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) ——詹姆斯·希律
@@ -269,7 +271,7 @@
 * [Fundamentals of Geometry](http://polly.phys.msu.ru/~belyaev/geometry.pdf) - 奥列格 A.别利亚耶夫
 * [A=B](https://www.math.upenn.edu/~wilf/AeqB.html) - M. Petkovsek、H. Wilf、D. Zeilberger
 * [Elements](http://aleph0.clarku.edu/~djoyce/java/elements/toc.html) - 欧几里得
-* [Euclid's Elements Redux](http://starrhorse.com/euclid/) ——丹尼尔·卡拉汉
+* [Euclid's Elements Redux](http://starrhorse.com/euclid/) - 丹尼尔·卡拉汉
 * [Mathematical Illustrations](http://www.math.ubc.ca/~cass/graphics/manual/) - 比尔卡塞尔曼
 * [Byrne's Euclid](https://www.c82.net/euclid/) - 奥利弗·伯恩
 * [Plane Geometry](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - 乔治·温特沃斯和大卫·尤金·史密斯 (1913)
@@ -337,7 +339,7 @@
 * [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - 埃利亚斯定律
 * [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - 埃利亚斯定律
 * [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) - 林恩·卢米斯，施洛莫·斯腾伯格
-* [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) ——劳伦斯·巴格特
+* [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) - 劳伦斯·巴格特
 * [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) - 约翰·M·厄德曼
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) ——威尔弗雷德·卡普兰、唐纳德·J·刘易斯
@@ -380,7 +382,7 @@
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) - 杰拉尔德·特施尔
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) - 克里斯蒂安·雷姆林
 * [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) - 施洛莫·斯腾伯格
-* [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) ——劳伦斯·巴格特
+* [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) - 劳伦斯·巴格特
 
 ### Measure Theory
 
@@ -436,12 +438,12 @@
 * [Theory of Statistics](http://mason.gmu.edu/~jgentle/books/MathStat.pdf) - James E. Gentle（乔治梅森大学）
 * [Theory of Statistics](http://math.arizona.edu/~jwatkins/notests.pdf) - Joseph C. Watkins（亚利桑那大学）
 * [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - 人工智能访问
-* [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - 加州大学洛杉矶分校数字研究与教育研究所 (IDRE) 策划的统计论文列表，涉及自举法和因子不变性等方法.
+* [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - 由加州大学洛杉矶分校数字研究与教育研究所 (IDRE) 整理的关于自举法和因子不变性等方法的统计论​​文列表.
 * [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - 针对科学家和工程师的实用统计资源.
 * [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) ——理查德·洛瑞
 * [Rough set data analysis: A road to non-invasive knowledge discovery](http://www.cosc.brocku.ca/~duentsch/papers/methprimer2.html) - Ivo Düntsch, Günther Gediga
 * [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - 罗素 A. Poldrack
-* [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) ——乔纳森·韦斯伯格
+* [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - 乔纳森·韦斯伯格
 * [Seeing Theory](https://seeing-theory.brown.edu/) - Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com/) - 亚历克斯·莱因哈特
 * [All of Statistics: A Concise Course in Statistical Inference](https://link.springer.com/book/10.1007/978-0-387-21736-9) - 拉里·沃瑟曼
@@ -451,7 +453,7 @@
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - 加雷斯·詹姆斯、丹妮拉·维滕、特雷弗·哈斯蒂、罗伯特·蒂布希拉尼
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) - 特雷弗·哈斯蒂、罗伯特·蒂布希拉尼、杰罗姆·弗里德曼
 * [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
-* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
+* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) - 理查德 S. 萨顿、安德鲁 G. 巴托
 
 ### Stochastic processes
 
@@ -472,7 +474,7 @@
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold（明尼苏达大学）
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - JM McDonough（肯塔基大学）
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - 阿尔弗雷德·施密特，阿尔森·纳里曼扬
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - 阿尔弗雷德·施密特，Arsen Narimanyan
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) - 道格拉斯·威廉·哈德
 
 

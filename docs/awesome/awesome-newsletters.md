@@ -91,13 +91,12 @@
 - [CSS Weekly](https://css-weekly.com/) .  Zoran Jambor 策划的 css 文章、教程、实验和工具的每周电子邮件汇总.
 - [CSS-Tricks](https://css-tricks.com) . 注册位于页面底部的 **Get the newsletter** 标题下方！.
 - [CSS Layout News](http://csslayout.news/) . 每周收集有关 CSS 布局的所有内容的教程、新闻和信息.
-- [Sass News](http://sass.news) . 获取有关所有 Sass-y 伟大之处的最新和最棒的新闻、教程和代码示例. [Archive](http://sass.news/issues).
 - [Tailwind Weekly](https://tailwindweekly.com/) . 关于 TailwindCSS 的所有内容的每周时事通讯.
 
 ### Design
 
 - [Web Design Weekly](https://web-design-weekly.com/) . 只是纯真棒链接到最好的新闻和文章在一周内访问互联网.
-- [Sidebar](https://sidebar.io). Five design-centric posts each day.
+- [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
 - [Web Designer News](https://www.webdesignernews.com) . 为设计师策划的故事.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 免费的、每周一次的响应式设计文章、工具、技巧、教程和鼓舞人心的链接汇总.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 关于界面可用性、网站设计和用户体验研究的最新文章.
@@ -153,7 +152,7 @@
 ### C# #
 
 - [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
-- [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter) . 一组很棒的 .Net 库、工具和框架.
+- [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter) . 很棒的 .Net 库、工具和框架的集合.
 
 ### Node.js
 
@@ -174,8 +173,8 @@
 
 ### Go
 
-- [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
-- [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 最流行的 Go 新闻、文章和图书馆的每周概览.
+- [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周时事通讯. [Archive](https://golangweekly.com/issues).
+- [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语 Go 编程语言的每周通讯.
 
@@ -361,7 +360,7 @@
 
 ## Technology in General
 
-- [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是每日精选的时事通讯，其中包含最有趣的技术故事的链接和摘要.
+- [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 - [Barista.io](https://www.barista.io/) . 每天通过电子邮件发送来自网络的大众精选文章，掌握当今最流行的技术新闻.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) . 每个工作日有 4 个关于（主要是面向研究的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) . 每周工作日早上来自 CS 世界的有趣/有影响力/重要的论文，由 Adrian Colyer 选择.

@@ -5,12 +5,12 @@
 
 
 ## Pre-Literate
-* [Scratch Jr.](https://www.scratchjr.org/)  - 一个应用程序，教孩子们如何以视觉方式编写交互式故事和游戏.  Scratch 网站的简化版本，适用于平板电脑. 
+* [Scratch Jr.](https://www.scratchjr.org/)  - 一个应用程序，可教幼儿如何以视觉方式编写交互式故事和游戏.  Scratch 网站的简化版本，适用于平板电脑. 
 * [The Foos](https://itunes.apple.com/app/id923441570) - 一个有趣的、未识字的 iPad 游戏，教授命令、参数、循环和条件的概念. 
-* [Cubetto](https://www.primotoys.com/)  - 昂贵但无屏幕的编码介绍，尤其适用于蒙台梭利环境. 包括一个机器人和一个带有可拆卸命令件的木制编程板. 
+* [Code-a-pillar](https://www.fisher-price.com/en-us/product/think-learn-code-a-pillar-twist-gfp25) - 一个会走路和唱歌的弹射器玩具，可以通过连接一系列给出指令的部分来编程.
 
 ## Lower Elementary 
-* [Scratch](https://scratch.mit.edu/)  - Scratch 是一种流行的面向初学者的可视化编程语言，由 MIT 创建.  Scratch 网站是一个让孩子们制作互动故事并相互分享的平台.
+* [Scratch](https://scratch.mit.edu/)  - Scratch 是一种流行的初学者可视化编程语言，由麻省理工学院创建.  Scratch 网站是一个让孩子们制作互动故事并相互分享的平台.
 * [Hopscotch](https://www.gethopscotch.com/)  - Hopscotch 是一个类似于 Scratch 的代码块编辑器，但在 iOS 应用程序中. 可以编写代码以对倾斜和摇晃设备做出反应. 
 * [Evo from Ozobot](https://ozoblockly.com/editor?lang=en&robot=evo&mode=2)  - Evo 是一个可以移动、发光和发出声音的微型机器人. 它还检测它正在驱动的颜色. 它可以根据它所遵循的行的颜色来遵循命令. 或者，它可以使用代码块编辑器（如 Scratch）进行编程. 将机器人举到屏幕上一个闪烁的点上，网站将通过闪烁的灯光将程序加载到机器人上. 
 * [Lightbot](https://lightbot.com/)  - 使用命令、循环和条件来解决难题. 包含 Lightbot 和 lightbot Jr，以及移动应用程序或桌面网站.   
@@ -18,7 +18,7 @@
 * [Code Master](https://www.thinkfun.com/products/code-master/)  - 一款令人上瘾的棋盘游戏，可培养解决问题的能力和对编程逻辑的理解. 从基本开始，然后移动到非常高级. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8)  - iPad 应用程序使用命令、循环、条件语句解决约束问题. 比 Lightbot 更难的谜题.
 * [Python Turtle](https://github.com/PythonTurtle/PythonTurtle) 原始（1986-2021）简单的“Python-Turtle”模型.
-* [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age)  - 更多图形来学习 Python 类型的代码.  （高级水平不免费）
+* [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age)  - 更多的图形来学习 Python 类型的代码.  （高级水平不免费）
 
 
 ## Upper Elementary
@@ -33,6 +33,7 @@
 * [CS Unplugged](http://csunplugged.org/) - 一系列免费学习活动，通过使用卡片、绳子、蜡笔和大量跑动的引人入胜的游戏和拼图来教授计算机科学.
 * [Lauren Ipsum](http://laurenipsum.org/)  - 一本在编程环境中教授解决问题概念的书. 在线提供示例章节.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - 乐高机器人套件.
-* [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - 一个在线教程游戏，带有很酷的音乐，可以教授 Ruby 编程.
+* [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - 一个在线教程游戏，带有很酷的音乐，教授 Ruby 编程.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - 用于学习 Swift 的 Apple 有趣的 iPad 应用程序.
-* [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - 一套儿童教育工具，包括用于游戏开发、Minecraft 改装、硬件黑客等的在线环境.
+* [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - 一套儿童教育工具，包括用于游戏开发、我的世界模组、硬件黑客等的在线环境.
+* [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - 球形机器人，可以在配套应用程序中使用块编程语言进行编程.

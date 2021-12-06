@@ -76,7 +76,7 @@
 * [DlangScience](https://github.com/DlangScience) - 科学图书馆和 D 工具的联络点和第一站.
 * [Circular Studios](https://github.com/Circular-Studios)  - 我们是 Rochester Institute of Technology 的一群游戏开发者，他们构建游戏和游戏技术. 主机 [Dash](https://github.com/Circular-Studios/Dash)，一个用 D 编写的 3D 游戏引擎，以及其他相关的库.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - 一个游戏开发相关存储库的组织，包括一个名为的 D 游戏开发工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
-* [EMSI](https://github.com/economicmodeling)  - 一家以 D 为主要语言的职业发展公司. 托管他们的开源项目.
+* [EMSI](https://github.com/economicmodeling)  - 一家以 D 作为主要语言的职业发展公司. 托管他们的开源项目.
 * [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自给自足的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数字图书馆开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 总部位于柏林的公司，专门从事在线广告的实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 已将其代码库的大部分开源作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
@@ -92,7 +92,7 @@
 * [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - 无论您是 D 世界的新手，还是已经在 D 中开发过应用程序，或者如果您想利用 D 的力量进行 Web 开发，那么这本书都是您的理想之选.
 
 ## Tutorials
-*D related tutorials.*
+*D 相关教程.*
 * [The Dlang Tour](https://tour.dlang.org/) - 受 Golang Tour 启发的 D 交互式教程.
 * [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html)  - 这是对 D 编程语言的实用介绍. 安德烈亚斯·茨温考.
 * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)  - 专门针对 D 模板的教程. 关于模板的很好的解释. 有pdf版本. 菲利普·西高
@@ -143,8 +143,10 @@
 * [dmd](https://github.com/dlang/dmd)  - D 编程语言的参考编译器. 稳定，构建速度非常快，非常适合学习和快速原型设计/开发. 目前前端是用 D 实现的，在 dmd、ldc 和 gdc 之间共享，后端是用 C++ 实现的.
 * [ldc](https://github.com/ldc-developers/ldc)  - 基于 LLVM 的 D 编译器. 使用 DMD 前端和 LLVM 后端. 构建速度比 dmd 慢，但生成的代码比 DMD 更优化. 它支持LLVM的所有目标平台.
 * [gdc](https://github.com/D-Programming-GDC/GDC)  - GNU D 编译器. 使用 DMD 前端和 GCC 后端. 由于使用 GCC，目前针对大多数平台. 在大多数情况下，生成的代码运行速度比 DMD 快，与 LDC 相当. 在与官方 GCC 工具链集成的过程中.
+
+## WIP Compilers
+
 * [sdc](https://github.com/snazzy-d/SDC)  - 愚蠢的 D 编译器. 写在 D. 每天都变得更聪明.
-* [dil](https://code.google.com/p/dil/)  - D 编程语言的编译器. 写在 D.
 
 
 ## Dev Tools
@@ -304,7 +306,7 @@
 
 ## Command Line
 * [hunt-console](https://github.com/huntlabs/hunt-console) - Hunt 控制台创建更容易创建强大的命令行应用程序. 
-* [tilix](https://github.com/gnunn1/tilix) - 使用 GTK+ 3 的 Linux 平铺终端模拟器.
+* [tilix](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 * [scriptlike](https://github.com/Abscissa/scriptlike) - 帮助在 D 中编写类似脚本的程序的实用程序库.
 * [todod](https://github.com/BlackEdder/todod)  - Todod 是一个基于命令行的待办事项列表管理器. 它还支持基于shell交互 [linenoise](https://github.com/antirez/linenoise).
 * [d-colorize](https://code.dlang.org/packages/colorize) - ruby​​ 库的一个端口 [colorize](https://github.com/fazibear/colorize) . 它添加了一些方法来使用 ANSI 转义序列更容易地在控制台上设置颜色、背景颜色和文本效果.
@@ -351,7 +353,7 @@
 	* 核 - 即时 UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
 	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WegGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - 压缩 - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
 	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
 	* OpenAL - 音频引擎 - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
@@ -386,6 +388,10 @@
 	* DevIL（废弃IL）， 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
+
+## Game Engine Bindings
+
+* [Godot-D](https://github.com/godot-d/godot-d) - Godot 引擎的 GDNative API 的 D 语言绑定
 
 ## Game Frameworks
 

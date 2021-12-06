@@ -86,7 +86,7 @@ _Svelte 框架的研究与研究._
 
 _移动用户界面框架._
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Svelte Native](https://svelte-native.technology/) - 通过 Nativescript 控制原生组件的 Svelte.
 - [Framework7](https://framework7.io/svelte/) - 用于构建 iOS 和 Android 应用程序的全功能 HTML 框架.
 
 ## UI Libraries
@@ -116,6 +116,7 @@ _烤面包机/小吃店 - 用无模式的临时小弹出窗口通知用户._
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - 可以在任何 JS 应用程序中使用的 Toast 通知组件.
 - [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 添加收藏夹图标和徽章的自定义组件，可用于显示例如未读消息的数量等.
+- [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - 简单优雅的吐司通知.
 
 ### Grid
 
@@ -181,7 +182,7 @@ _SSR 框架._
 - [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) - 包含 Sapper、Firebase 函数和托管、TypeScript 和 TypeGraphQL、Tailwind CSS、ESLint 以及使用 GitHub Actions 自动构建和部署的模板.
 - [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - 带有 mdsvex 的默认 Sapper 模板.
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - 带有 Tailwind CSS 的默认 Sapper 模板.
-- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - 包含 Sapper、TypeScript 预处理和通过 TypeGraphQL 的 GraphQL 服务器的模板.
+- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - Template that includes Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL.
 - [sapper-start](https://github.com/matt3224/sapper-start) - 带有固执的默认设置的 Sapper Rollup 模板，例如 SCSS 支持、速记路径、更少的样板文件等等.
 
 ## Utilities

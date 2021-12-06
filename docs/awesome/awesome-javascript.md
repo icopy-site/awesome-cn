@@ -159,7 +159,7 @@
 * [way.js](https://github.com/gwendall/way.js) - 简单、轻量、持久的双向数据绑定.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril 是一个客户端 MVC 框架（轻量级、健壮、快速）.
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks 是更好的 MV-ish 框架.
-* [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
+* [LiquidLava](http://www.lava-framework.com/) - 用于构建用户界面的透明 MVC 框架.
 * [feathers](https://github.com/feathersjs/feathers) - 面向未来应用的极简实时 JavaScript 框架.
 * [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
@@ -538,6 +538,7 @@
 * [TensorFlow.js](https://js.tensorflow.org) - 用于在浏览器和 Node.js 上训练和部署 ML 模型的 JavaScript 库.
 * [ml5.js](https://ml5js.org) - 友好的网络机器学习.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - 轻量级跨平台神经网络库.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一种 CLI 工具，可将经过训练的经典 ML 模型转换为具有零依赖关系的本机 JavaScript 代码.
 
 
 ## Browser Detection
@@ -640,7 +641,7 @@
 * [Strut](https://github.com/tantaman/Strut) - Strut - 一个 Impress.js 和 Bespoke.js 演示编辑器
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 适用于移动和桌面的 JavaScript 图片库，模块化，独立于框架.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - 带有 CSS 动画的响应式滑块 jQuery 插件.
-* [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) - 使用简单，主题简单，定制简单.
+* [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) - 使用简单，主题简单，自定义简单.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - 带有自适应彩色 figcaption 和导航的滑块的 jQuery 插件.
 * [slidr](https://github.com/bchanx/slidr) - 添加一些幻灯片效果.
 * [Flickity](https://github.com/metafizzy/flickity) - 触摸、反应灵敏、可轻弹的画廊.
@@ -649,7 +650,7 @@
 
 ## Range Sliders
 
-* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 功能强大且易于自定义的范围滑块，具有许多选项和皮肤支持.
+* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 强大且易于定制的范围滑块，具有许多选项和皮肤支持.
 * [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - 支持日期的 JavaScript 滑块选择器.
 * [noUiSlider](https://github.com/leongersen/noUiSlider) - 轻量级、高度可定制的范围滑块，不会膨胀.
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) - HTML5 输入范围滑块元素填充.
@@ -667,7 +668,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件神奇地将一个简单的文本输入转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式化复选框和单选按钮的 jQuery 插件. 有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 零依赖的超轻量级、可用、美观的自动完成.  - http://leaverou.github.io/awesomplete
+* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 零依赖的超轻量级、可用、美观的自动完成功能.  - http://leaverou.github.io/awesomplete
 
 ### Calendar
 
@@ -732,7 +733,7 @@
 * [jBox](https://github.com/StephanWagner/jBox) - jBox 是一个强大而灵活的 jQuery 插件，可以处理您所有的弹出窗口、工具提示、通知等.
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - 一个可定制的、模块化的、响应式的、用于 jQuery 的灯箱画廊插件.
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) - 轻量级、无依赖、支持可访问性的 TypeScript 库，用于创建模态窗口.
-* [screenfull.js](https://github.com/sindresorhus/screenfull.js)  - JavaScript Fullscreen API，可让您将页面或任何元素全屏显示. 消除浏览器实现差异，因此您不必这样做.
+* [screenfull.js](https://github.com/sindresorhus/screenfull.js)  - JavaScript 全屏 API，可让您将页面或任何元素全屏显示. 消除浏览器实现差异，因此您不必这样做.
 
 ## Scroll
 
@@ -789,7 +790,7 @@
 ## Boilerplates
 
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 专业的前端模板，用于构建快速、强大且适应性强的 Web 应用程序或站点.
- * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - 一个前端模板，可帮助您构建快速、现代的移动 Web 应用程序.
+ * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
  * [webplate](https://github.com/chrishumboldt/webplate) - 一个很棒的前端框架，可让您专注于构建网站或应用程序，同时又非常易于使用.
  * [Cerberus](https://github.com/TedGoas/Cerberus)  - 一些简单但可靠的响应式 HTML 电子邮件模式. 即使在 Outlook 中.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) - 介绍页面，带有全宽背景图像、醒目的动画菜单和导航背后的类似 iOS 的模糊效果.
@@ -843,12 +844,12 @@
  * [ractive-player](https://github.com/ysulyma/ractive-player) - 在 React.js 中制作交互式视频的库.
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg 针对浏览器使用进行了优化：最小尺寸以加快加载速度、asm.js、性能调整等.
  * [flv.js](https://github.com/bilibili/flv.js) - 用纯 JavaScript 编写的 HTML5 Flash 视频 (FLV) 播放器，不含 Flash.
- * [hls.js](https://github.com/video-dev/hls.js)  - 实现 HTTP Live Streaming 客户端的 JavaScript 库. 它依赖于 HTML5 视频和 MediaSource 扩展来播放.
+ * [hls.js](https://github.com/video-dev/hls.js)  - 实现 HTTP Live Streaming 客户端的 JavaScript 库. 它依赖于 HTML5 视频和 MediaSource 扩展进行播放.
 
 ## Typography
 
  * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) - 最好的 Web 排版：基于元素宽度的字体大小和行高.
- * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本与特定宽度匹配所需的字体大小和字间距.
+ * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本匹配到特定宽度所需的字体大小和字间距.
  * [circletype](https://github.com/peterhry/circletype) - 一个 jQuery 插件，可让您在网络上输入曲线.
  * [slabText](https://github.com/freqDec/slabText/) - 一个 jQuery 插件，用于生成大、粗体和响应式标题.
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 向您的网站添加一个超级简单的旋转文本，几乎没有标记.

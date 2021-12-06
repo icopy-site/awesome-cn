@@ -36,11 +36,11 @@
 * [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
 * [Repman](https://repman.io) - 一个私有的 PHP 包存储库管理器和 Packagist 代理.
 * [Satis](https://github.com/composer/satis) - 静态 Composer 存储库生成器.
-* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 使用 Composer 管理项目中 PHAR 文件的库.
+* [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 使用 Composer 在项目中管理 PHAR 文件的库.
 * [Toran Proxy](https://toranproxy.com) - 静态 Composer 存储库和代理.
 
 ### Frameworks
-*Web 开发框架.*
+*Web development frameworks.*
 
 * [CakePHP](https://cakephp.org/) - 一个快速的应用程序开发框架.
 * [Laminas](https://getlaminas.org/) - 由单个组件组成的框架（以前称为 Zend 框架）.
@@ -61,7 +61,7 @@
 
 * [Backdrop](https://backdropcms.org) - 针对中小型企业和非营利组织的 CMS（Drupal 的一个分支）.
 * [Concrete5](https://www.concrete5.org/) - 针对具有最低技术技能的用户的 CMS.
-* [CraftCMS](https://github.com/craftcms/cms) - 一个灵活的、用户友好的 CMS，用于在网络和其他地方创建自定义数字体验.
+* [CraftCMS](https://github.com/craftcms/cms) - 一个灵活、用户友好的 CMS，用于在网络及其他地方创建自定义数字体验.
 * [Drupal](https://www.drupal.org) - 企业级CMS.
 * [Grav](https://github.com/getgrav/grav) - 现代平面文件 CMS.
 * [Joomla](https://www.joomla.org/) - 另一个领先的 CMS.
@@ -75,13 +75,13 @@
 ### Components
 *来自 Web 开发框架和开发组的独立组件.*
 
-* [Aura](http://auraphp.com/) - 独立的组件，相互之间以及与任何框架完全分离.
+* [Aura](http://auraphp.com/) - 独立的组件，彼此完全解耦并与任何框架解耦.
 * [CakePHP Plugins](https://plugins.cakephp.org/) - CakePHP 插件目录.
 * [Hoa Project](https://hoa-project.net/En/) - 另一个 PHP 组件包.
 * [Laravel Components](https://github.com/illuminate) - Laravel 框架组件.
 * [League of Extraordinary Packages](https://thephpleague.com/) - 一个 PHP 包开发组.
 * [Spatie Open Source](https://spatie.be/open-source) - 开源 PHP 和 Laravel 包的集合.
-* [Symfony Components](https://symfony.com/components) - 组成 Symfony 的组件.
+* [Symfony Components](https://symfony.com/components) - 构成 Symfony 的组件.
 * [Laminas Components](https://docs.laminas.dev/components/) - 构成 Laminas 框架的组件.
 
 ### Micro Frameworks
@@ -143,10 +143,10 @@
 ### Scraping
 *用于抓取网站的库.*
 
-* [Chrome PHP](https://github.com/chrome-php/chrome) - 从 PHP 检测无头 Chrome/Chromium 实例. 
+* [Chrome PHP](https://github.com/chrome-php/chrome) - 来自 PHP 的仪器无头 Chrome/Chromium 实例. 
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - 超快的 HTML 抓取器和解析器.
 * [Embed](https://github.com/oscarotero/Embed) - 来自任何网络服务或页面的信息提取器.
-* [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网络爬虫.
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网页抓取工具.
 * [Symfony Panther](https://github.com/symfony/panther) - 用于 PHP 和 Symfony 的浏览器测试和网络爬行库.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - 一个可配置和可扩展的 PHP 网络蜘蛛.
 
@@ -215,7 +215,7 @@
 * [Glide](https://github.com/thephpleague/glide) - 按需图像处理库.
 * [Image Hash](https://github.com/jenssegers/imagehash) - 用于生成感知图像哈希的库.
 * [Image Optimizer](https://github.com/psliwa/image-optimizer) - 用于优化图像的库.
-* [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - 一个图像处理库.
+* [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - 图像处理库.
 * [Intervention Image](https://github.com/Intervention/image) - 另一个图像处理库.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库.
 
@@ -328,12 +328,12 @@
 *用于执行 PHP 代码静态分析的库.*
 
 * [Exakat](https://github.com/exakat/exakat) - PHP 的静态分析引擎.
-* [Deptrac](https://github.com/sensiolabs-de/deptrac) - 一种静态代码分析工具，有助于强制执行软件层之间依赖关系的规则.
+* [Deptrac](https://github.com/sensiolabs-de/deptrac) - 一种静态代码分析工具，有助于强制执行软件层之间的依赖关系规则.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具.
 * [phan](https://github.com/phan/phan) - 基于 PHP 7+ 和 php-ast 扩展的静态分析器.
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) - 易于使用的 PHP 架构测试工具.
-* [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP CodeSniffer 的 PHP 兼容性检查器.
-* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 创建可自定义依赖关系图的工具.
+* [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - 用于 PHP CodeSniffer 的 PHP 兼容性检查器.
+* [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 创建可定制的依赖图的工具.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - 静态指标库.
 * [PHP Migration](https://github.com/monque/PHP-Migration) - 用于 PHP 版本迁移的静态分析器.
 * [PHPStan](https://github.com/phpstan/phpstan) - PHP 静态分析工具.
@@ -384,10 +384,10 @@
 ### Task Runners
 *用于自动化和运行任务的库.*
 
-* [Bldr](https://bldr.io/) - A PHP Task runner built on Symfony components.
+* [Bldr](https://bldr.io/) - 基于 Symfony 组件构建的 PHP 任务运行器.
 * [Jobby](https://github.com/jobbyphp/jobby) - 无需修改 crontab 的 PHP cron 作业管理器.
 * [Robo](https://github.com/consolidation/Robo) - 具有面向对象配置的 PHP 任务运行器.
-* [Task](https://taskphp.github.io/) - 受 Grunt 和 Gulp 启发的纯 PHP 任务运行程序.
+* [Task](https://taskphp.github.io/) - 受 Grunt 和 Gulp 启发的纯 PHP 任务运行器.
 
 ### Navigation
 *用于构建导航结构的工具.*
@@ -404,7 +404,7 @@
 * [Symfony Encore](https://github.com/symfony/webpack-encore) - 一个简单但功能强大的 API，用于处理和编译围绕 Webpack 构建的资产.
 
 ### Geolocation
-*用于对地址进行地理编码和处理纬度和经度的库.*
+*用于地理编码地址和处理纬度和经度的库.*
 
 * [Country List](https://github.com/umpirsky/country-list) - 具有名称和 ISO 3166-1 代码的所有国家/地区的列表.
 * [GeoCoder](https://geocoder-php.org/) - 地理编码库.
@@ -431,7 +431,7 @@
 * [Event](https://github.com/thephpleague/event) - 一个专注于领域事件的事件库.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) - 事件源库.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) - 另一个网络套接字库.
-* [Pawl](https://github.com/ratchetphp/Pawl) - 异步网络套接字客户端.
+* [Pawl](https://github.com/ratchetphp/Pawl) - 一个异步网络套接字客户端.
 * [Prooph Event Store](https://github.com/prooph/event-store) - 用于持久化事件消息的事件源组件
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang 对 PHP 的 defer 语句.
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - 一个网络套接字库.
@@ -449,12 +449,12 @@
 *用于支付和建立在线电子商务商店的库和应用程序.*
 
 * [Money](https://github.com/moneyphp/money) - Fowler 货币模式的 PHP 实现.
-* [Brick\Money](https://github.com/brick/money) - PHP 货币库，支持上下文、现金舍入、货币转换.
+* [Brick\Money](https://github.com/brick/money) - 用于 PHP 的货币库，支持上下文、现金舍入、货币转换.
 * [OmniPay](https://github.com/thephpleague/omnipay) - 一个与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) - 支付抽象库.
 * [Shopware](https://github.com/shopware/shopware) - 高度可定制的电子商务软件
 * [Swap](https://github.com/florianv/swap) - 汇率图书馆.
-* [Sylius](https://sylius.com/) - 开源电子商务解决方案.
+* [Sylius](https://sylius.com/) - 一个开源电子商务解决方案.
 
 ### PDF
 *用于处理 PDF 文件的库和软件.*
@@ -486,7 +486,7 @@
 * [Laravel Eloquent](https://github.com/illuminate/database) - 一个简单的 ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - PostgreSQL 的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
-* [RedBean](https://redbeanphp.com/index.php) - 轻量级、无配置的 ORM.
+* [RedBean](https://redbeanphp.com/index.php) - 轻量级、无需配置的 ORM.
 * [Slimdump](https://github.com/webfactory/slimdump) - 一个简单的 MySQL 转储工具.
 * [Spot2](https://github.com/spotorm/spot2) - MySQL 数据文件夹 ORM.
 
@@ -566,12 +566,11 @@
 * [Decoda](https://github.com/milesj/decoda) - 轻量级标记解析器库.
 * [Essence](https://github.com/essence/essence) - 用于提取网络媒体的库.
 * [Embera](https://github.com/mpratt/Embera) - Oembed 消费者图书馆.
-* [Emoji](https://github.com/heyupdate/Emoji) - 将 unicode 字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将 HTML 转换为 Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) - HTML5 解析器和序列化器库.
 * [Parsedown](https://github.com/erusev/parsedown) - 另一个 Markdown 解析器.
 * [PHP CSS Parser](https://github.com/sabberworm/PHP-CSS-Parser) - 用 PHP 编写的 CSS 文件解析器.
-* [PHP Markdown](https://github.com/michelf/php-markdown) - 一个 Markdown 解析器.
+* [PHP Markdown](https://github.com/michelf/php-markdown) - Markdown 解析器.
 * [Shiki PHP](https://github.com/spatie/shiki-php) - 一种 [Shiki](https://github.com/shikijs/shiki) PHP中的代码高亮包.
 * [VObject](https://github.com/sabre-io/vobject) - 用于解析 VCard 和 iCalendar 对象的库.
 
@@ -682,7 +681,7 @@
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - 适用于 PHP 世界的快速简便的部署器.
 
 ### Internationalisation and Localisation
-*国际化 (I18n) 和本地化 (L10n) 库.*
+*用于国际化 (I18n) 和本地化 (L10n) 的库.*
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - 提供国际化 (I18N) 工具，特别是面向包的 per-locale 消息翻译.
 * [CakePHP I18n](https://github.com/cakephp/i18n) - 日期和数字的消息翻译和本地化.
@@ -752,7 +751,7 @@
 * [Docker](https://www.docker.com/) - 一个容器化平台.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - 在 Docker 容器中轻松安装 PHP 扩展.
 * [Expose](https://github.com/beyondcode/expose) - 一个开源的 PHP 隧道服务.
-* [Lando](https://lando.dev/) - 一键式开发环境.
+* [Lando](https://lando.dev/) - 按钮式开发环境.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - Laravel 的本地开发环境. 
 * [Laradock](http://laradock.io/) - 基于 Docker 的完整 PHP 开发环境.
 * [Puppet](https://puppet.com/) - 服务器自动化框架和应用程序.
@@ -771,7 +770,7 @@
 
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - 基于 Eclipse 平台的 PHP IDE.
 * [Apache NetBeans](https://netbeans.apache.org/) - 支持 PHP 和 HTML5 的 IDE.
-* [PhpStorm](https://www.jetbrains.com/phpstorm/) - 商业 PHP IDE.
+* [PhpStorm](https://www.jetbrains.com/phpstorm/) - 一个商业 PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - 一个开源代码编辑器.
 
 ### Web Applications
@@ -804,7 +803,7 @@
 * [libs.garden: PHP](https://libs.garden/php) - 增长最快的 PHP 库概述.
 * [Nomad PHP](https://nomadphp.com/) - 在线 PHP 学习资源.
 * [Laravel News](https://laravel-news.com/) - Laravel 官方博客.
-* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - PHP 新闻的月度摘要.
+* [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) - PHP 新闻的每月摘要.
 * [PHP Best Practices](https://phpbestpractices.org/) - PHP 最佳实践指南.
 * [PHP FIG](https://www.php-fig.org/) - PHP 框架互操作性小组.
 * [PHP Package Development Standards](http://php-pds.com) - PHP 的包开发标准.

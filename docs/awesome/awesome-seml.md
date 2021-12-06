@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md)
 
-机器学习软件工程是构建 ML 应用程序的技术和指南，这些应用程序不涉及核心 ML 问题（例如新算法的开发），而是涉及数据摄取、编码、测试、版本控制、部署、质量控制等周边活动，以及团队协作.
+机器学习软件工程是构建 ML 应用程序的技术和指南，这些应用程序不涉及核心 ML 问题——例如新算法的开发——而是涉及数据摄取、编码、测试、版本控制、部署、质量控制等周边活动，以及团队协作.
 良好的软件工程实践使用机器学习组件增强了生产级应用程序的开发、部署和维护.
 
 ⭐ 必读
@@ -47,7 +47,7 @@
 
 ## Model Training
 
-如何组织您的模型训练实验.
+如何组织模型训练实验.
 
 - [10 Best Practices for Deep Learning](https://nanonets.com/blog/10-best-practices-deep-learning/#track-model-experiments)
 - [Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement](https://dl.acm.org/doi/abs/10.1145/1882471.1882479) 
@@ -107,6 +107,7 @@
 - [Inherent trade-offs in the fair determination of risk scores](https://arxiv.org/abs/1609.05807) 
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 - [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
+- [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478) 
 
 ## Tooling
 
@@ -124,7 +125,7 @@
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - 与管道集成的数据验证和测试.
 - [HParams](https://github.com/PetrochukM/HParams) - 一种深思熟虑的机器学习项目配置管理方法.
 - [Kubeflow](https://www.kubeflow.org/) - 为想要构建和试验机器学习管道的数据科学家提供的平台.
-- [Label Studio](https://github.com/heartexlabs/label-studio) - 具有标准化输出格式的多类型数据标记和注释工具.
+- [Label Studio](https://github.com/heartexlabs/label-studio) - 具有标准化输出格式的多类型数据标注和注释工具.
 - [LiFT](https://github.com/linkedin/LiFT) - Linkedin 公平工具包.
 - [MLFlow](https://mlflow.org/) - 管理机器学习生命周期，包括实验、部署和中央模型注册.
 - [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)  - 简化和自动化模型卡的生成； 用于模型文档.
