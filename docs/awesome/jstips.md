@@ -1,40 +1,40 @@
 <div class="github-widget" data-repo="loverajoel/jstips"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[![header](https://pbs.twimg.com/profile_banners/4539400881/1604319005/1500x500)](https://www.jstips.co/book/?utm_source=github&utm_medium=header&utm_campaign=book&utm_content=pro)
+[![header](https://pbs.twimg.com/profile_banners/4539400881/1613214971/1500x500)](https://www.jstips.co/book/?utm_source=github&utm_medium=header&utm_campaign=book&utm_content=pro)
 
 ## JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;有用的JavaScript技巧
 
-这是一个很棒的项目，涉及简短而有用的JavaScript技巧，可帮助您改善代码编写. 在不到2分钟的时间内，您将能够阅读有关性能，约定，黑客技巧，面试问题以及这门超棒语言的未来对我们的所有影响.
+&gt; 有用的 JavaScript 提示
 
-提示经常添加（如果您想保持联系，请进一步阅读）.
+这是一个很棒的项目，关于简短而有用的 JavaScript 技巧，可以让您改进代码编写. 在不到 2 分钟的时间内，您将能够阅读有关性能、约定、技巧、面试问题以及这种令人敬畏的语言的未来为我们带来的所有项目.
+
+经常添加提示（如果您想保持联系，请进一步阅读）.
 
 ## Support the community
-如果您发现JS技巧有用，或者您喜欢社区的作家，那么您现在可以通过技巧来表示尊重和支持！
+
+如果您发现 JS 提示有用或者您喜欢社区的作者，那么现在您可以通过提示表示尊重和支持！
 
 ### Can you help us enrich it?
-当然，您可以通过两种方式帮助项目，即发送您的提示或查看将来的提示.
-任何改进或建议都将受到欢迎！
+
+当然，您可以通过两种方式帮助该项目，发送您的提示或查看未来的提示.
+非常欢迎任何改进或建议！
 [Instructions are here](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md).
 
 ### Let’s keep in touch
 
-有很多获取更新，选择自己的方式
+获取更新的方式有很多，选择你自己
 
 - [Official Blog](http://www.jstips.co)
 - [Official Twitter Account](https://twitter.com/tips_js)
 - [Hubot](https://github.com/dggriffin/hubot-jstips)
 - [Slackbot](https://github.com/radibit/js-tips-slack-bot)
-- [js2016.tips](http://js2016.tips/)
-- [Hingsir](http://hingsir.com/jstips-site/dist/tips/)
-- [Awesomelists](https://awesomelists.top/#/repos/loverajoel/jstips)
 - [iOS App](https://goo.gl/Y9WiBc)
-- [Android App](https://goo.gl/lYorrU)
 
-&gt;别忘了给★★回购加注星标，因为这有助于促进项目！
+&gt; 不要忘记为 repo 加星★，因为这有助于促进项目！
 
 ## Tips list
 
+- 74 - [Check the reason make your page re-render by changed props and state](http://www.jstips.co/en/react/trace-the-reason-make-your-page-rerender/)
 - 73 - [Hash maps without side effects](http://www.jstips.co/en/javascript/hash-maps-without-side-effects/)
 - 72 - [Adventurers Guide to React (Part I)](http://www.jstips.co/en/react/adventurers-guide-to-react/)
 - 71 - [VueJS, How VueJS makes a copy-update-replace inside the data binding](http://www.jstips.co/en/more/vuejs-how-vuejs-makes-a-copy-update-replace-inside-the-data-binding/)
@@ -78,7 +78,7 @@
 - 36 - [Observe DOM changes in extensions](http://www.jstips.co/en/javascript/observe-dom-changes/)
 - 35 - [Assignment Operators](http://www.jstips.co/en/javascript/assignment-shorthands/)
 - 34 - [Implementing asynchronous loop](http://www.jstips.co/en/javascript/implementing-asynchronous-loops/)
-- 33 - [Create Range 0...N easily using one line](http://www.jstips.co/en/javascript/create-range-0...n-easily-using-one-line/)
+- 33 - [Create Range 0...N easily using one line](http://www.jstips.co/en/javascript/create-range-0-n-easily-using-one-line/)
 - 32 - [`Map()` to the rescue: adding order to Object properties](http://www.jstips.co/en/javascript/map-to-the-rescue-adding-order-to-object-properties/)
 
 - 31 - [Avoid modifying or passing `arguments` into other functions — it kills optimization](http://www.jstips.co/en/javascript/avoid-modifying-or-passing-arguments-into-other-functions-it-kills-optimization/)
@@ -115,4 +115,5 @@
 - 00 - [Insert item inside an Array](http://www.jstips.co/en/javascript/insert-item-inside-an-array/)
 
 ### License
+
 [GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)

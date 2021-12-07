@@ -23,7 +23,7 @@
 * [volo](https://github.com/volojs/volo) - 从模板创建前端项目，添加依赖项，并自动化生成的项目.
 * [Duo](https://github.com/duojs/duo) - 下一代包管理器，融合了来自 Component、Browserify 和 Go 的最佳创意，使组织和编写前端代码变得快速而轻松.
 * [yarn](https://yarnpkg.com/) - 快速、可靠和安全的依赖管理.
-* [pnpm](https://pnpm.js.org/) - 快速、节省磁盘空间的包管理器.
+* [pnpm](https://pnpm.io/) - 快速、节省磁盘空间的包管理器.
 
 
 ## Component Management
@@ -61,7 +61,7 @@
 
 * [TypeScript](https://www.typescriptlang.org/) - 编译为纯 JavaScript 的 JavaScript 类型超集.
 * [Flow.js](https://flow.org/en/) - 来自 Facebook 的 JavaScript 静态类型检查器.
-* [Hegel](https://jsmonk.github.io/hegel/) - JavaScript 的静态类型检查器，偏向于强类型系统的类型推断.
+* [Hegel](https://hegel.js.org/) - JavaScript 的静态类型检查器，偏向于强类型系统的类型推断.
 * [TypL](https://github.com/getify/TypL) - 偏向于类型推断的 JavaScript Type Linter.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - 使用类似 Haskell 的 Hindley Milner 类型签名对 JavaScript 函数进行运行时类型检查.
 
@@ -85,7 +85,7 @@
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) - 用于 node.js 和浏览器的 BDD / TDD 断言框架，可以与任何测试框架配对.
-* [Enzyme](http://airbnb.io/enzyme/index.html) - Enzyme 是 React 的 JavaScript 测试实用程序，可以更轻松地断言、操作和遍历 React 组件的输出.
+* [Enzyme](https://airbnb.io/enzyme/index.html) - Enzyme 是 React 的 JavaScript 测试实用程序，可以更轻松地断言、操作和遍历 React 组件的输出.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) - 简单而完整的 React DOM 测试实用程序，鼓励良好的测试实践.
 * [Sinon.JS](https://github.com/sinonjs/sinon) - 测试 JavaScript 的间谍、存根和模拟.
 * [expect.js](https://github.com/Automattic/expect.js) - Node.JS 和浏览器的简约 BDD 风格断言.
@@ -107,7 +107,7 @@
 * [karma](https://github.com/karma-runner/karma) - 壮观的 JavaScript 测试运行程序.
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于 node.js 和 selenium webdriver 的 UI 自动化测试框架.
 * [intern](https://github.com/theintern/intern) - 用于 JavaScript 的下一代代码测试堆栈.
-* [yolpo](http://www.yolpo.com) - A statement-by-statement JavaScript interpreter in the browser.
+* [yolpo](http://www.yolpo.com) - 浏览器中的逐语句 JavaScript 解释器.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - 由 Google Chrome 官方团队提供的 Headless Chrome Node.js API.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Node.js 的下一代 WebDriver 测试自动化框架.
 * [taiko](https://github.com/getgauge/taiko) - 一个 Node.js 库，带有一个简单的 API 来自动化基于 Chromium 的浏览器.
@@ -137,13 +137,13 @@
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的 Web 应用程序的 JavaScript 框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单的、无处不在的数据库、在线数据、纯 JavaScript 网络框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代 DOM 操作.
-* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+* [vue](https://github.com/vuejs/vue) - 用于构建交互式界面的直观、快速且可组合的 MVVM.
 * [svelte](https://github.com/sveltejs/svelte)  - Svelte 是一种构建 Web 应用程序的新方法. 它是一个编译器，它接受您的声明性组件并将它们转换为有效的 JavaScript，从而手术地更新 DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout 可以更轻松地使用 JavaScript 创建丰富的响应式 UI.
 * [spine](https://github.com/spine/spine) - 用于构建 JavaScript 应用程序的轻量级 MVC 库.
 * [espresso.js](https://github.com/techlayer/espresso.js) - 用于制作用户界面的最小 JavaScript 库.
 * [canjs](https://github.com/canjs/canjs) - 可以做JS，更好，更快，更容易.
-* [react](https://facebook.github.io/react/)  - 用于构建用户界面的库. 它是声明式的、高效的并且非常灵活. 使用虚拟 DOM.
+* [react](https://reactjs.org/)  - 用于构建用户界面的库. 它是声明式的、高效的并且非常灵活. 使用虚拟 DOM.
 * [hyperapp](https://github.com/hyperapp/hyperapp) - 用于构建前端应用程序的 1kb JavaScript 库.
 * [preact](https://github.com/developit/preact)  - 具有相同 ES6 API 的快速 3kb React 替代方案. 组件和虚拟 DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) - 使用 JavaScript 构建真正原生的跨平台 iOS 和 Android 应用程序.
@@ -161,9 +161,9 @@
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks 是更好的 MV-ish 框架.
 * [LiquidLava](http://www.lava-framework.com/) - 用于构建用户界面的透明 MVC 框架.
 * [feathers](https://github.com/feathersjs/feathers) - 面向未来应用的极简实时 JavaScript 框架.
-* [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
+* [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
-* [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+* [Alpine.js](https://github.com/alpinejs/alpine) - 以低得多的成本为您提供大型框架（如 Vue 或 React）的响应式和声明式特性.
 * [inferno](https://github.com/infernojs/inferno) - 用于构建现代用户界面的极快的、类似于 React 的 JavaScript 库.
 * [FoalTS](https://foalts.org) - 用于构建 Web 应用程序的优雅且包罗万象的 Node.JS 框架（TypeScript）.
 * [Lucia](https://github.com/aidenybai/lucia) - 用于小型网络应用程序的 3kb 库.
@@ -192,7 +192,7 @@
 *模板引擎允许您执行字符串插值.*
 
 * [mustache.js](https://github.com/janl/mustache.js) - 在 JavaScript 中使用 {{mustaches}} 最小化模板.
-* [handlebars.js](https://github.com/wycats/handlebars.js/) - Mustache 模板语言的扩展.
+* [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Mustache 模板语言的扩展.
 * [nunjucks](https://mozilla.github.io/nunjucks/) - 来自 Mozilla 的丰富而强大的 JavaScript 模板语言.
 * [hogan.js](https://github.com/twitter/hogan.js) - Mustache 模板语言的编译器.
 * [doT](https://github.com/olado/doT) - 适用于 nodejs 和浏览器的最快 + 简洁的 JavaScript 模板引擎.
@@ -210,11 +210,11 @@
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - 关于 JavaScript Functional 概念的文章.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - 一系列关于 JavaScript 构建块的文章.
-* [Multi-threading using web-workers](https://www.loginradius.com/engineering/blog/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers：向 JavaScript 添加多线程
-* [this keyword in JavaScript](https://www.loginradius.com/engineering/blog/breaking-down-this-keyword-in-javascript/) - 分解 JavaScript 中的“this”关键字
+* [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers：向 JavaScript 添加多线程
+* [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - 分解 JavaScript 中的“this”关键字
 
 ## Data Visualization
-*Data visualization tools for the web.*
+*网络数据可视化工具.*
 
 * [d3](https://github.com/d3/d3) - 用于 HTML 和 SVG 的 JavaScript 可视化库.
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - 为简洁、有原则的数据图形和布局而优化的库.
@@ -260,7 +260,7 @@
 * [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 功能齐全的图论库.
 * [cola.js](https://ialab.it.monash.edu/webcola/) - 使用基于约束的优化技术排列 HTML5 文档和图表的库
 * [jointjs](https://github.com/clientIO/joint) - 用于创建静态图表或完全交互式图表工具的图表库.
-还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), [highchart](http://www.highcharts.com/)， 和 [lightning chart](https://www.arction.com/lightningchart-js/).
+还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/)， 和 [lightning chart](https://www.arction.com/lightningchart-js/).
 
 
 ## Timeline
@@ -302,9 +302,9 @@
 
 ## Documentation
 
-* [DevDocs](http://devdocs.io/) 是一个多合一的 API 文档阅读器，具有快速、有组织且一致的界面.
+* [DevDocs](https://devdocs.io/) 是一个多合一的 API 文档阅读器，具有快速、有组织且一致的界面.
 * [dexy](http://www.dexy.it/) 是一种自由格式的文学文档工具，用于编写包含代码的任何类型的技术文档.
-* [docco](http://jashkenas.github.io/docco/) 是一个快速而肮脏的、百行长、文学编程风格的文档生成器.
+* [docco](http://ashkenas.com/docco/) 是一个快速而肮脏的、百行长、文学编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn) 建立手册. 它将简单的、人类可读的文本文件转换为用于终端显示的 roff，以及用于 Web 的 HTML.
 * [dox](https://github.com/tj/dox) 是一个用 node 编写的 JavaScript 文档生成器.  Dox 不再为您的文档生成固定的结构或样式，它只是为您提供 JSON 表示，允许您使用 Markdown 和 JSDoc 样式的标签.
@@ -314,7 +314,7 @@
 * [coddoc](http://doug-martin.github.io/coddoc/) 是一个jsdoc解析库.  Coddoc 的不同之处在于它很容易扩展，允许用户通过使用 coddoc.addTagHandler 和 coddoc.addCodeHandler 添加标签和代码解析器.  coddoc 还解析要在 API 中使用的源代码.
 * [sphinx](http://www.sphinx-doc.org/) 一个可以轻松创建智能且美观的文档的工具
 * [Using JSDoc](http://usejsdoc.org/)
-* [Beautiful docs](http://beautifuldocs.com/) 是一个基于 Markdown 文件的文档查看器.
+* [Beautiful docs](https://github.com/beautiful-docs/beautiful-docs) 是一个基于 Markdown 文件的文档查看器.
 * [documentation.js](http://documentation.js.org) - API 文档生成器，支持 ES2015+ 和流注释.
 * [jsduck](https://github.com/senchalabs/jsduck) - 为 Sencha JavaScript 框架制作的 API 文档生成器，但也可用于其他框架.
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) 是一种通过在源代码中放置面包屑来学习和记录代码库的可视化工具.
@@ -325,7 +325,7 @@
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - 强大的 CSV 库，支持解析 CSV 文件/字符串并导出为 CSV.
 * [jBinary](https://github.com/jDataView/jBinary) - 二进制文件的高级 I/O（加载、解析、操作、序列化、保存），具有用于描述文件类型和数据结构的声明性语法.
-* [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+* [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff 输出解析器和漂亮的 HTML 生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF 生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) - JavaScript 中的 PDF 阅读器.
 
@@ -350,7 +350,7 @@
 * [RxJS](https://github.com/ReactiveX/rxjs) - JavaScript 的反应式编程库.
 * [Bacon](https://github.com/baconjs/bacon.js) - 用于 JavaScript 的 FRP（函数式反应式编程）库.
 * [Kefir](https://github.com/pozadi/kefir) - 受 Bacon.js 和 RxJS 启发的 JavaScript FRP 库，专注于高性能和低内存消耗.
-* [Highland](http://highlandjs.org/) - 重新思考 JavaScript 实用程序带，Highland 轻松管理同步和异步代码，仅使用标准 JavaScript 和 Node-like Streams.
+* [Highland](https://caolan.github.io/highland/) - 重新思考 JavaScript 实用程序带，Highland 轻松管理同步和异步代码，仅使用标准 JavaScript 和 Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - 高性能玻璃钢库.
 * [MobX](https://github.com/mobxjs/mobx) - 用于简单、可扩展的状态管理的 TFRP 库.
 * [Cycle.js](https://cycle.js.org) - 一个功能性和反应性 JavaScript 库，用于更清晰的代码.
@@ -386,7 +386,7 @@
 ## String
 *字符串库.*
 
-* [voca](https://github.com/panzerdp/voca) - 终极 JavaScript 字符串库
+* [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting](https://github.com/EvandroLG/selecting) - 允许您访问用户选择的文本的库.
 * [underscore.string](https://github.com/epeli/underscore.string) - Underscore.js JavaScript 库的字符串操作扩展.
 * [string.js](https://github.com/jprichardson/string.js) - 额外的 JavaScript 字符串方法.
@@ -493,7 +493,7 @@
 
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript)  - 用于 JavaScript 的在线正则表达式测试器和调试器. 还支持 Python、PHP 和 PCRE.
-* [RegExr](http://regexr.com) - 基于 HTML/JS 的工具，用于创建、测试和学习正则表达式.
+* [RegExr](https://regexr.com/) - 基于 HTML/JS 的工具，用于创建、测试和学习正则表达式.
 
 
 ## Voice Command
@@ -510,9 +510,9 @@
 * [amygdala](https://github.com/lincolnloop/amygdala) - 用于 JavaScript 驱动的 Web 应用程序的 RESTful HTTP 客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - 用于轻松使用 RESTful API 的 jQuery 插件.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - Ruby on Rails API 的固执的 REST 客户端.
-* [wretch](https://github.com/elbywan/wretch) - 一个围绕 fetch 构建的小包装器，具有直观的语法.
+* [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) - 支持 OAuth / API Key / Basic / 等的通用 API 客户端.
-* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - 为简单起见，现代 Fetch API 包装器，具有简洁的文件上传功能.
+* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 * [Optic](https://github.com/opticdev/optic) - Optic 自动记录和测试您的 API.
 * [SWR](https://github.com/vercel/swr) - 用于远程数据获取的 React Hooks 库.
 * [React Query](https://github.com/tannerlinsley/react-query) - 用于在 React 中获取、缓存和更新异步数据的钩子.
@@ -525,7 +525,7 @@
 ## Vision Detection
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - 网络计算机视觉的现代方法.
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in JavaScript via Emscripten.
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) - 通过 Emscripten 在 JavaScript 中使用 OCR.
 
 
 ## Machine Learning
@@ -535,7 +535,7 @@
 * [Brain.js](https://github.com/harthur/brain) - JavaScript 中的神经网络.
 * [Mind.js](https://github.com/stevenmiller888/mind) - 灵活的神经网络库.
 * [Synaptic.js](https://github.com/cazala/synaptic) - 用于 node.js 和浏览器的无架构神经网络库.
-* [TensorFlow.js](https://js.tensorflow.org) - 用于在浏览器和 Node.js 上训练和部署 ML 模型的 JavaScript 库.
+* [TensorFlow.js](https://www.tensorflow.org/js/) - 用于在浏览器和 Node.js 上训练和部署 ML 模型的 JavaScript 库.
 * [ml5.js](https://ml5js.org) - 友好的网络机器学习.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - 轻量级跨平台神经网络库.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一种 CLI 工具，可将经过训练的经典 ML 模型转换为具有零依赖关系的本机 JavaScript 代码.
@@ -563,7 +563,7 @@
 *用于指示负载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - 创建 Google Material Design 进度条.
-* [NProgress](http://ricostacruz.com/nprogress/) - Ajax&#39;y 应用程序的细长进度条.
+* [NProgress](https://ricostacruz.com/nprogress/) - Ajax&#39;y 应用程序的细长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) - 旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) - 为页面上的每个对象创建和管理进度条.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且响应迅速的进度条.
@@ -584,7 +584,7 @@
 * [validator.js](https://github.com/chriso/validator.js) - 字符串验证和清理.
 * [validate.js](https://github.com/rickharrison/validate.js) - 受 CodeIgniter 启发的轻量级 JavaScript 表单验证库.
 * [validatr](https://github.com/jaymorrow/validatr/) - 跨浏览器 HTML5 表单验证.
-* [FormValidation](http://formvalidation.io/)  - 用于验证表单字段的最佳 jQuery 插件. 以前的 BootstrapValidator.
+* [FormValidation](https://formvalidation.io/)  - 用于验证表单字段的最佳 jQuery 插件. 以前的 BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) - 检查类型、正则表达式、存在、时间等.
 * [FieldVal](https://github.com/FieldVal/fieldval-js)  - 多用途验证库. 支持同步和异步验证.
 * [Funval](https://github.com/neuledge/funval) - 使用函数接口进行数据验证（支持 TypeScript）.
@@ -604,14 +604,14 @@
 
 * [intro.js](https://github.com/usablica/intro.js) - 为您的网站和项目提供新功能介绍和分步用户指南的更好方法.
 * [shepherd](https://github.com/HubSpot/shepherd) - 引导您的用户浏览您的应用程序.
-* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - 使用 Twitter Bootstrap Popovers 快速轻松地浏览产品.
+* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 * [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的游览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 您的应用程序的简单叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能导览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将焦点放在 DOM 元素上，向页面的其余部分添加覆盖层.
-* [driver.js](https://github.com/kamranahmedse/driver.js) - 强大而轻量级的原生 JavaScript 引擎，可将用户的注意力集中在整个页面上
+* [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## Notifications
 
@@ -664,11 +664,11 @@
 * [tag-it](https://github.com/aehlke/tag-it) - 用于处理多标签字段以及标签建议/自动完成的 jQuery UI 插件.
 * [At.js](https://github.com/ichord/At.js) - 将 GitHub 之类的提及自动完成添加到您的应用程序.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - 用于 HTML5 占位符属性的 JavaScript 填充.
-* [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
+* [fancyInput](https://github.com/yairEO/fancyInput) - 通过 CSS3 效果使输入字段中的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件神奇地将一个简单的文本输入转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式化复选框和单选按钮的 jQuery 插件. 有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 零依赖的超轻量级、可用、美观的自动完成功能.  - http://leaverou.github.io/awesomplete
+* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 零依赖的超轻量级、可用、美观的自动完成功能.  - https://projects.verou.me/awesomplete/
 
 ### Calendar
 
@@ -699,7 +699,7 @@
 
 ### Other
 
-* [form](https://github.com/malsup/form) - jQuery 表单插件.
+* [form](https://github.com/jquery-form/form) - jQuery 表单插件.
 * [Garlic.js](https://github.com/guillaumepotier/Garlic.js) - 自动保留表单的文本并在本地选择字段值，直到提交表单.
 * [Countable](https://github.com/RadLikeWhoa/Countable) - 一个 JavaScript 函数，用于向 HTML 元素添加实时段落、单词和字符计数.
 * [card](https://github.com/jessepollak/card) - 在一行代码中使您的信用卡形式更好.
@@ -770,17 +770,17 @@
 * [jTable](https://github.com/hikalkan/jtable) - 用于创建基于 AJAX 的 CRUD 表的 jQuery 插件.
 * [DataTables](https://www.datatables.net/) - (jQuery插件) 一个高度灵活的工具，基于渐进增强的基础，可以为任何HTML表格添加高级交互控件.
 * [Tabulator](http://olifolkerd.github.io/tabulator/) -（jQuery 插件）一个极其灵活的库，可以从任何 JSON 数据源或现有的 HTML 表创建具有一系列交互功能的表.
-* [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/) - 流行的 Bootstrap 框架的扩展，用于创建适合您网站风格的表格，无需额外的标记.
+* [Bootstrap Table](https://bootstrap-table.com/) - 流行的 Bootstrap 框架的扩展，用于创建适合您网站风格的表格，无需额外的标记.
 * [floatThead](https://github.com/mkoryak/floatThead)  -（jQuery 插件）在主体内滚动时锁定任何表的标题. 适用于任何表格，不需要自定义 html 或 css.
-* [Masonry](http://masonry.desandro.com/) - 级联网格布局库.
-* [Packery](http://packery.metafizzy.co/)  - 使用装箱算法的网格布局库. 可用于可拖动布局.
-* [Isotope](http://isotope.metafizzy.co/)  - 一个可过滤、可排序的网格布局库. 可以实现 Masonry、Packery 和其他布局.
+* [Masonry](https://masonry.desandro.com/) - 级联网格布局库.
+* [Packery](https://packery.metafizzy.co/)  - 使用装箱算法的网格布局库. 可用于可拖动布局.
+* [Isotope](https://isotope.metafizzy.co/)  - 一个可过滤、可排序的网格布局库. 可以实现 Masonry、Packery 和其他布局.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - 基于 CSS3 flexbox 的网格.
 * [Jspreadsheet](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建与其他电子表格软件兼容的令人惊叹的基于 Web 的交互式表格和电子表格.
 
 ## Frameworks
 
-* [Semantic UI](http://semantic-ui.com/) - 包含许多主题和元素的 UI 套件.
+* [Semantic UI](https://semantic-ui.com/) - 包含许多主题和元素的 UI 套件.
 * [w2ui](http://w2ui.com/) - 一组用于数据驱动 Web 应用程序前端开发的 jQuery 插件.
 * [fluidity](https://github.com/mrmrs/fluidity) - 世界上最小的全响应 css 框架.
 * [Ink](https://github.com/sapo/Ink) - SAPO 使用的 HTML5/CSS3 框架，用于快速高效的网站设计和原型制作.
@@ -820,7 +820,7 @@
 * [kartograph.js](https://github.com/kartograph/kartograph.js) - 用于 Kartograph SVG 地图的开源 JavaScript 渲染器.
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API，一个传单插件.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery 矢量地图库.
-* [OpenLayers3](http://openlayers.org/) - 满足您所有制图需求的高性能、功能丰富的库.
+* [OpenLayers3](https://openlayers.org/) - 满足您所有制图需求的高性能、功能丰富的库.
 * [H3js](https://github.com/uber/h3) - Uber 将六角分层地理空间索引系统移植到 javascript 以进行地理空间可视化.
 
 ## Video/Audio
@@ -830,8 +830,8 @@
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play&#39;em 是一个 JavaScript 组件，它管理音乐/视频轨道队列并通过在 HTML DIV 中嵌入多个播放器（包括 Youtube、Soundcloud 和 Vimeo）来播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
- <https://flowplayer.org/>
- * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>带有 Flash 和 Silverlight 垫片的播放器，模仿 HTML5 MediaElement API，在所有浏览器中实现一致的 UI.<http://mediaelementjs.com/>
+ <https://flowplayer.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>带有 Flash 和 Silverlight 垫片的播放器，模仿 HTML5 MediaElement API，在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使在网络上处理音频更容易的库. 它为在不同浏览器中播放音频提供了一致的 API.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于嵌入宽度可变的视频.
@@ -875,7 +875,7 @@
 * [animatable](https://github.com/LeaVerou/animatable) - 一种属性，两种价值，无限可能.
 * [shuffle-images](https://github.com/peachananr/shuffle-images) - 以创意方式随机播放图像的最简单方法.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - 使用 jQuery 实现不显眼的页面转换.
-* [Anime.js](http://animejs.com) - JavaScript 动画引擎.
+* [Anime.js](https://animejs.com/) - JavaScript 动画引擎.
 * [Mo.js](http://mojs.io) - 用于网络的动态图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - 用于创建粒子的轻量级 JavaScript 库.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的和改进的particles.js 版本，包含错误修复和许多新功能.
@@ -921,13 +921,13 @@
 * [echo](https://github.com/toddmotto/echo) - 延迟加载具有 data-* 属性的图像.
 * [picturefill](https://github.com/scottjehl/picturefill) - &lt;picture&gt;、srcset、sizes 的响应式图像填充.
 * [platform.js](https://github.com/bestiejs/platform.js) - 适用于几乎所有 JavaScript 平台的平台检测库.
-* [json3](https://github.com/bestiejs/json3) - 与几乎所有 JavaScript 平台兼容的现代 JSON 实现.
-* [Logical Or Not](http://gabinaureche.com/logicalornot/) - 关于 JavaScript 特性的游戏.
+* [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
+* [Logical Or Not](https://gabinaureche.com/logicalornot/) - 关于 JavaScript 特性的游戏.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - JavaScript 位向量实现.
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  - 剧透警告！ 一个快乐的小 jquery 插件，可以在您的网站上隐藏剧透.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) - 振动 API 包装器
 * [list.js](https://github.com/javve/list.js)  - 为表格、列表和各种 HTML 元素添加搜索、排序、过滤器和灵活性. 构建为不可见并在现有 HTML 上工作.
-http://www.listjs.com
+https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - 过滤器和排序插件.
 * [grid](https://github.com/hootsuite/grid) - 用于二维、可调整大小和响应式列表的拖放库.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - 一个响应式的 jQuery 等高插件.
@@ -940,7 +940,7 @@ http://www.listjs.com
 * [iooxa](https://github.com/iooxa/article) - 交互式科学写作、反应性文档和可探索性解释的组件.
 * [Idyll](https://github.com/idyll-lang/idyll)  - 创建可探索的解释和交互式讲故事的文章. 可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 在 JavaScript 中实现的算法和数据结构，带有解释和进一步阅读的链接.
-* [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
+* [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - 从浏览器指纹中创建访问者标识符，在隐身模式下和浏览器数据被清除时保持不变.
 * [Peg.js](https://github.com/pegjs/pegjs)  - 一个简单的 JavaScript 解析器生成器，可生成具有出色错误报告的快速解析器. 可从浏览器、命令行或通过 JavaScript API 使用.
 * [lune](https://github.com/ryanseys/lune) - 准确计算月相的库.
 * [jsemu](https://github.com/fcambus/jsemu) - 用 Ja​​vaScript 编程语言编写的模拟器列表.
@@ -948,7 +948,7 @@ http://www.listjs.com
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - 关于 JavaScript 和 Web 平台的现场视频广播播客.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - 面向初学者的关于 JavaScript 的播客.
-* [JavaScript Jabber](https://devchat.tv/js-jabber) - 关于 JavaScript 的每周播客，包括 Node.js、前端技术、职业、团队等.
+* [JavaScript Jabber](https://devchat.tv/show/javascript-jabber) - 关于 JavaScript 的每周播客，包括 Node.js、前端技术、职业、团队等.
 
 ## Worth Reading
 
@@ -956,11 +956,11 @@ http://www.listjs.com
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 关于 JS 最佳实践、公认的编码标准和 Web 链接的易于阅读的快速参考.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费 JavaScript 电子书目录.
 * [Superhero.js](http://superherojs.com) - 有关创建、测试和维护大型 JavaScript 代码库的资源集合.
-* [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon 是一项社区驱动的尝试，旨在用几个简单的词来解释当前 JavaScript 生态系统的大量流行语.
+* [SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon 是一项社区驱动的尝试，旨在用几个简单的词来解释当前 JavaScript 生态系统的大量流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 通过一系列步骤发布 JavaScript 开源库的综合指南.
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - 从各种用户排名的在线教程中在线学习 Javascript.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - JavaScript 中务实、平衡的 FP.
-* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - 适用于 JavaScript 的清洁代码概念.
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 
 ## Other Awesome Lists
@@ -990,6 +990,6 @@ http://www.listjs.com
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [chencheng](https://github.com/sorrycc) 已放弃本作品的所有版权和相关或邻接权.

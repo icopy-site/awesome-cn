@@ -16,7 +16,7 @@
 
 - [Editor](https://playcanvas.com/) - 基于浏览器的实时协作 WebGL 编辑器.
 - [Engine](https://github.com/playcanvas/engine) - 获得 MIT 许可的 PlayCanvas 运行时的完整源代码.
-- [glTF Viewer](https://playcanvas.com/viewer) - 符合 glTF 2.0 的模型查看器.
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
 - [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
@@ -80,6 +80,7 @@
 - [How Not To Suck At Money](https://hntsam.com/) - Invesco 关于个人理财的教育游戏.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - 慈善家庭为每个孩子举办的虚拟艺术展.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - 一款流行手机游戏的交互式 3D 广告.
+- [Party Space](https://www.party.space/) - 虚拟活动平台.
 - [Pocketverse](https://pocketverse.net/) - 程序生成的恒星系统.
 - [Ride Along 2](https://vimeo.com/152996271) - 使用 WebGL 来宣传好莱坞电影的发行.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - 在伦敦皮卡迪利广场推广橄榄球世界杯.
@@ -134,13 +135,14 @@
 - [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - iMessage 多人游戏.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - 点球比赛.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - 头对头篮球比赛.
-- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - 从鲍勃的头顶射出水果.
 
 ## Automotive
 
 - [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - 旅行拖车可视化工具.
 - [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - 船配置器.
 - [BMW Car Design](https://www.bmw.com/en/design/car-design-the-keys-to-bmw-design.html) - 宝马设计的互动探索.
+- [BMW i4 M50 Showcase](https://www.bmw.com/en/performance/electric-sports-car-BMWi4-M50-driving-dynamic-test.html) - 包含新 i4 技术概述的博客文章.
 - [BMW i8](http://car.playcanvas.com) - 汽车可视化.
 - [DAB Motors](https://dabmotors.com/configurator/) - 摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
@@ -173,12 +175,9 @@
 ## Blockchain/Crypto/NFT
 
 - [Aritelia](https://aritelia.io/) - 具有沙盒构建和可收集 NFT 的开放世界社交 MMO.
+- [Doge Temple](https://www.dogetemple.io/) - 致力于狗狗币的在线微宇宙.
 - [The Crypt](https://www.crypt.art/) - 珍稀艺术品和收藏品画廊.
 - [RareRooms](https://www.rarerooms.io/) - 用于 NFT 收藏的 3D 虚拟房间.
-
-## Virtual Events
-
-- [Party Space](https://www.party.space/) - 虚拟活动平台.
 
 ## Contributing
 

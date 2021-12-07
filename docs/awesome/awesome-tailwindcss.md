@@ -59,8 +59,8 @@
 **图例**：官方插件 · 主题 · 实用工具 · 变体 · 组件 · 已弃用
 
 -  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加了一个 `prose` 类.
--  [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的纵横比实用程序.
--  [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供实用程序，用于在固定行数后从视觉上截断文本.
+- 💙💼 [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的纵横比实用程序.
+- 💙💼 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供实用程序，用于在固定行数后从视觉上截断文本.
 -  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 -  [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量进行主题化，支持暗模式.
 -  [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - 添加基于媒体查询和/或 CSS 选择器的主题变体.
@@ -83,7 +83,7 @@
 -  [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - 添加`border-image`渐变实用程序.
 -  [RFS](https://github.com/aerni/tailwindcss-rfs) - 添加 [`RFS`](https://github.com/twbs/rfs) 公用事业.
 -  [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - 重新添加在 Tailwind CSS 1.0 之前移除的 `list-reset` 类.
--  [Fluid](https://github.com/bradlc/tailwindcss-fluid) - Adds fluid sizing utilities.
+-  [Fluid](https://github.com/bradlc/tailwindcss-fluid) - 添加流体调整实用程序.
 -  [Typography](https://github.com/benface/tailwindcss-typography) - 添加排版实用程序.
 -  [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - 添加 CSS 三角形实用程序.
 -  [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - 添加粗布实用程序.
@@ -132,10 +132,10 @@
 -  [Caret Color](https://github.com/naoray/tailwind-caret-color) - 添加 `caret` 颜色实用程序.
 -  [benface's gradients](https://github.com/benface/tailwindcss-gradients) - 添加渐变实用程序.
 -  [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - 添加背景渐变实用程序.
--  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - 添加屏幕阅读器实用程序.
+-  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - 添加了`object-fit` 实用程序.
 -  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - 添加“对象位置”实用程序.
--  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - 添加屏幕阅读器实用程序.
+-  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
 -  [Layout](https://github.com/benface/tailwindcss-layout) - 添加了一些布局实用程序.
 -  [Grid](https://github.com/chrisrowe/tailwindcss-grid) - 添加 CSS 网格实用程序.
 -  [Transforms](https://github.com/benface/tailwindcss-transforms) - 添加 `transform` 实用程序.
@@ -161,7 +161,7 @@
 
 -  [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Tailwind CSS 的颜色阴影生成器.
 -  [Palette generator](https://adevade.github.io/color-scheme-generator) - 输出 Tailwind CSS 配置文件的调色板生成器.
--  [Tailwind Colors](https://tailwind-colors.meidev.co) - Color configuration generator for Tailwind CSS.
+-  [Tailwind Colors](https://tailwind-colors.meidev.co) - Tailwind CSS 的颜色配置生成器.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Tailwind CSS 的颜色浏览器.
 -  [TailwindInk](https://tailwind.ink/) - AI 调色板生成器，使用 Tailwind CSS 调色板训练.
 -  [Gradient Designer](https://gradient-designer.csspost.com/) - 为 Tailwind 2.0+ 生成渐变.
@@ -199,6 +199,7 @@
 -  [ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - 用于将 Tailwind CSS 集成到 Angular-CLI 项目的 CLI 工具.
 -  [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - 将 Tailwind CSS 添加到项目的 Vue CLI 插件.
 -  [Tailwind CSS Figma Kit](https://github.com/ecklf/tailwindcss-figma-kit) - 用于 Tailwind CSS 的 Figma 套件.
+-  [Tailwind CSS Figma UI Design Kit](https://flowbite.com/figma/) - 用于 Tailwind CSS 的 Figma UI 设计工具包.
 -  [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - 集成 Tailwind CSS 的 Figma 插件.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - 带有 PurgeCSS 和现代 CSS（预设 env 1）的 NuxtJS 的 Tailwind CSS 模块.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Preact 的 Tailwind CSS 集成.
@@ -222,6 +223,7 @@
 -  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - 单个文件中的 Tailwind CSS 类名称.
 -  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名称、变体和指令备忘单.
 -  [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
+-  [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - 可搜索界面中的 Tailwind CSS 实用程序类名称.
 
 ## UI Libraries, Components & Templates
 
@@ -238,14 +240,14 @@
 -  [tails](https://github.com/thedevdojo/tails) - 使用 Tailwind CSS 手工制作的模板和组件.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
--  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
+-  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
 -  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - 越来越多的文本/图像卡收藏.
 -  [Tailwind Templates](https://www.tailwindtemplates.io) - 模板和组件的集合.
 -  [Treact](https://treact.owaiskhan.me) - 使用 Tailwind CSS 构建的 React UI 模板和组件.
 -  [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - 使用 Tailwind CSS 的管理模板.
 -  [themes.dev](https://www.themes.dev/) - 手工制作的免费优质 Tailwind CSS 主题和组件.
--  [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
+-  [Kutty](https://kutty.netlify.app) - Web 应用程序中常用的可访问和可重用的组件.
 -  [Sail UI](https://sailui.github.io/) - 基于 Tailwind CSS 构建的基本 UI 组件的集合.
 -  [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - 使用 jQuery 和 Tailwind CSS 切换.
 -  [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - 与框架无关、Vue.js、React 和 Angular 组件.
@@ -276,6 +278,7 @@
 -  [OhMySMTP Templates](https://github.com/ohmysmtp/templates) - 使用 Maizzle 构建的一组事务性 HTML 电子邮件模板
 -  [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - 免费的 Tailwind CSS 和 React UI 套件.
 -  [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - 免费的 Tailwind CSS 和 React 管理模板.
+-  [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - 带有 Vite 和 Vue CLI 支持的免费 Vue.js 3 Tailwind CSS 管理模板.
 
 ## Starters & Themes
 

@@ -740,6 +740,7 @@
 - [Balancer](https://github.com/balancer-labs/frontend-v2) - 在以太坊上运行的去中心化金融应用程序. 
 - [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - 开源且易于使用的 Vuetify Vuejs Laravel 管理模板，具有优雅的设计和独特的布局.
 - [NuxTube](https://github.com/joek85/NuxTube) - 使用 NuxtJs 制作的 YouTube 隐私应用程序.
+
 ### Commercial Products
 
 - [Wijmo](http://wijmo.com/products/wijmo-5/) - 支持 VueJS 的 UI 控件集合.
@@ -763,7 +764,7 @@
 - [NxShell](https://github.com/nxshell/nxshell) - 一个易于使用的 SSH 新终端，基于 Electron 和 VueJS.
 - [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - 最强大、开发人员友好、生产就绪且全面的 Vuetify VueJS 管理模板.
 - [NocoDB](https://github.com/nocodb/nocodb) - 开源 Airtable 替代方案.
-
+- [KodaDot](https://github.com/kodadot/nft-gallery) - Polkadot 上的 NFT 市场作为公益项目资助，用 Vue.js 编写
 
 ### Apps/Websites
 
@@ -1051,7 +1052,7 @@
 
 _表格/数据网格_
 
-- [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.
+- [vuetable-2](https://github.com/ratiw/vuetable-2) - 数据表简化.
 - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 网格组件.
 - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - 用于创建动态表的 vue.js 服务器端组件.
 - [ag-grid-vue](https://github.com/ag-grid/ag-grid) - 用于 ag-Grid 的 Vue 适配器.
@@ -1397,7 +1398,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Vue.js 的甜甜圈图组件.
 - [v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.x 和 Echarts 的图表组件.
 - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - 用于绘制纯 CSS 圆环图的轻量级 Vue 组件.
-- [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Vue.js 的简单趋势图
+- [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
 - [vueplotlib](https://github.com/keller-mark/vueplotlib) - 声明性的、交互式的、链接的绘图组件
 - [vgauge](https://github.com/amroessam/vgauge) - GaugeJS 的 Vue 包装器 - 创建漂亮的仪表
 - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - 包装 [plotly.js](https://plot.ly/javascript/) 声明式图表库，附带 20 种图表类型，包括 3D 图表、统计图和 SVG 地图.
@@ -2105,7 +2106,7 @@ _显示图片_
 - [vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - Vue.js 的简单画布效果集合.
 - [vue-konva](https://github.com/rafaesc/vue-konva) - Vue &amp; Canvas - 使用 Vue 绘制复杂画布图形的 JavaScript 库.
 - [vue-html2canvas](https://github.com/mycure-inc/vue-html2canvas) - Vue mixin 捕获 html 并使用 Html2Canvas 将其转换为图像.
-- [vue-canvas-nest](https://github.com/ZYSzys/vue-canvas-nest) - 用于画布嵌套的 Vue.js 组件.
+- [vue-canvas-nest](https://github.com/ZYSzys/vue-canvas-nest) - A Vue.js component for canvas-nest.
 - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) - Vue 签名板组件
 - [vg-editor](https://github.com/ChrisShen93/VGEditor) - 基于 G6 和 Vue 的可视化图形编辑器，灵感来自 GGEditor
 - [vue-pencil.js](https://github.com/pencil-js/vue-pencil.js) - 在您的 Vue 项目中构建反应式 2D 图形场景.
@@ -2366,7 +2367,7 @@ _处理用户事件（滚动、点击、击键等）_
 #### Responsive Design
 
 - [vue-viewports](https://github.com/scaccogatto/vue-viewports) - 定义您的自定义视口并在您的组件中使用它们.
-- [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
+- [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) 指令使用 Bootstrap 4、3 或自定义断点隐藏/显示 HTML 元素.
 - [vue-match-media](https://github.com/drenglish/vue-match-media) - Vue 2.x 兼容插件，提供一致的语义方法来使组件具有媒体查询感知能力.
 - [vue-media-query-mixin](https://github.com/jofftiquez/vue-media-query-mixin)  - Vue 2 媒体查询 mixin，可用于组件 js 和组件模板. 与 bootstrap 和 vuetify 视口兼容. 如果屏幕宽度是 xs，`wXS` 返回，如果屏幕宽度是 sm，`wSM` 返回真，等等......
 - [vue-breakpoints](https://github.com/apertureless/vue-breakpoints) - Vue 2 minimal components to show and hide elements based on breakpoints. Inspired by Airbnb.
@@ -2739,6 +2740,7 @@ _国际化/L10n/本地化/翻译_
 - [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - 一个超轻量级和最小的插件，通过简单的 API 将国际化引入您的 Vue.js 应用程序.
 - [v-google-translate](https://github.com/i7eo/v-google-translate) - 一个使用谷歌翻译来国际化你的 Vue.js 应用程序的组件.
 - [fluent-vue](https://github.com/Demivan/fluent-vue)  - Vue.js 的国际化插件（2 和 3）.  Fluent.js 的 Vue.js 集成 - Project Fluent 的 JavaScript 实现
+- [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x)  - Uni 本地化 Vue 2 集成示例. 使用 Web 组件构建的可定制语言菜单小部件.
 
 #### Custom Events
 
@@ -2777,7 +2779,7 @@ _本地存储等_
 - [vue-sync](https://github.com/buhrmi/vue-sync) - 将 Vue 状态与浏览器 URL、服务器后端和其他端点同步.
 - [vuelm](https://github.com/keuller/vuelm) - 受 Elm 架构启发的轻量级状态管理.
 - [vuez](https://github.com/markselby9/vuez) - 一个简单但功能强大的 Vue.js 状态管理，只有 2 个 API.
-- [vuet](https://github.com/medevicex/vuet) - Vue.js state management model for Agile Development
+- [vuet](https://github.com/medevicex/vuet) - 用于敏捷开发的 Vue.js 状态管理模型
 - [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) - 另一个带有更新/补丁事件发射器的存储存储，类似于 v-bind.sync
 - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - 自动为 Vue.js 模型分配元素值.
 - [vue-stash](https://github.com/cklmercer/vue-stash) - 在您的 Vue 组件之间轻松共享反应式数据.
@@ -3122,7 +3124,7 @@ _与服务或其他框架集成_
 - [Storybook](https://storybook.js.org)  - UI 开发环境. 适用于 v3.2+ 以后.
 - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - 用于搜索、预览和选择 Font Awesome 图标的 Chrome 扩展程序，并将所选图标的 HTML 代码和 Unicode 复制到剪贴板.
 - [vue-dummy](https://github.com/paulcollett/vue-dummy) - 占位符文本和虚拟图像作为简单的“v-dummy”指令.
-- [Bit](https://github.com/teambit/bit)  - 在项目之间管理和重用 `vue` 组件. 轻松地从任何项目中隔离和共享组件，而无需更改其源代码、组织精选的集合并安装在不同的项目中.
+- [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - 是一个组件设计来开发和测试其他组件，自动绑定他们的道具.
 - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - 用于构建 vue-cli 自定义模板的开发服务器.
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - 有助于更新和重构 Vue 和 JavaScript 文件的 codemod 脚本集合.

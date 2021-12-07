@@ -24,7 +24,7 @@
 
 ## Entertainment
 
-- [football-cli](https://github.com/ManrajGrover/football-cli) - 获取几乎每场足球比赛/联赛的实时比分、赛程、积分榜.
+- [football-cli](https://github.com/ManrajGrover/football-cli) - 获取几乎所有足球比赛/联赛的实时比分、赛程、积分榜.
 - [pockyt](https://github.com/arvindch/pockyt) - 阅读、管理和自动化您 [Pocket](https://getpocket.com) 收藏.
 - [newsboat](https://github.com/newsboat/newsboat) - 用于文本终端的可扩展 RSS 提要阅读器.
 
@@ -68,7 +68,7 @@
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves) - Roguelike 建筑和管理模拟.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike 建设和管理模拟.
 - [Cataclysm-DDA](https://cataclysmdda.org) - 以后世界末日世界为背景的回合制生存游戏.
 
 ### Books
@@ -94,7 +94,7 @@
 
 ### Text Editors
 
-- [emacs](https://github.com/emacs-mirror/emacs) - 一个可扩展、可定制、免费/自由的文本编辑器——等等.
+- [emacs](https://github.com/emacs-mirror/emacs) - 可扩展、可定制、免费/自由的文本编辑器——等等.
 - [vim](https://github.com/vim/vim) - Vim - 无处不在的文本编辑器.
 - [neovim](https://github.com/neovim/neovim) - Vim fork 专注于可扩展性和可用性.
 - [kakoune](https://github.com/mawww/kakoune) - 受vim启发的模态编辑器.
@@ -132,7 +132,7 @@
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示功能的 MySQL 客户端.
 - [pgcli](https://github.com/dbcli/pgcli) - 具有自动补全和语法高亮功能的 Postgres 客户端.
 - [sqlline](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 发出 SQL 的 Shell.
-- [iredis](https://github.com/laixintao/iredis) - Redis 客户端具有自动完成和语法突出显示功能.
+- [iredis](https://github.com/laixintao/iredis) - 具有自动完成和语法突出显示的 Redis 客户端.
 - [usql](https://github.com/xo/usql) - 具有自动完成和语法突出显示的通用 SQL 客户端.
 
 ### Devops
@@ -142,7 +142,7 @@
 - [s3cmd](https://github.com/s3tools/s3cmd) - 功能齐全的 S3 客户端.
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程经理.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
-- [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 系统日志.
 - [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息平台和电子邮件发送消息/警报.
@@ -210,7 +210,7 @@
 
 - [idea](https://github.com/IonicaBizau/idea) - 一种轻量级工具，可快速轻松地将想法保存在安全的地方.
 - [geeknote](https://github.com/jeffkowalski/geeknote) - 印象笔记客户端.
-- [Taskwarrior](http://taskwarrior.org) - 管理您的待办事项列表.
+- [Taskwarrior](https://taskwarrior.org/) - 管理您的待办事项列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 一个快速的笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 输入和存储您的想法.
 - [sncli](https://github.com/insanum/sncli) - Simplenote 客户端.
@@ -222,7 +222,7 @@
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - 终端上强大的复式记账系统
+- [ledger](https://ledger-cli.org/) - 终端上功能强大的复式记账系统
 - [moeda](https://github.com/thompsonemerson/moeda) - 外汇汇率和货币兑换.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 转换货币汇率.
 - [cointop](https://github.com/miguelmota/cointop) - 跟踪加密货币.
@@ -237,11 +237,11 @@
 
 ### Calendars
 
-- [calcurse](http://calcurse.org/) - 日历和日程安排.
+- [calcurse](https://calcurse.org/) - 日历和日程安排.
 - [gcalcli](https://github.com/insanum/gcalcli) - 谷歌日历客户端.
 - [khal](https://github.com/pimutils/khal) - CalDAV 就绪 CLI 和 TUI 日历.
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer) - CalDAV 同步.
-- [remind](https://dianne.skoll.ca/projects/remind) - 一个复杂的日历和闹钟程序.
+- [remind](https://dianne.skoll.ca/projects/remind/) - 复杂的日历和闹钟程序.
 
 ## Utilities
 
@@ -255,6 +255,7 @@
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成漂亮的代码图像.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩列表.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git 集成备份工具.
+- [deadlink](https://github.com/nschloe/deadlink) - 查找文件中的死链接.
 
 ### macOS
 
@@ -286,7 +287,7 @@
 ### Network Utilities
 
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - 获取可用端口.
-- [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
+- [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可达.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用 speedtest.net 测试互联网连接速度和 ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同 UI 的 `speedtest-net` 包装器.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
@@ -306,7 +307,7 @@
 - [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
 - [Ultimate Plumber](https://github.com/akavel/up) - 编写带有实时预览的 Linux 管道.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台进程杀手.
-- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 线性执行的队列作业.
+- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts/) - 线性执行的队列作业.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - 去掉前面复制粘贴的终端命令的“$”.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - 从标准输入、管道和 ttys 运行可执行文件，而无需创建临时文件.
 
@@ -314,11 +315,12 @@
 
 - [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - 获取当前电池电量.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - 改变屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
-- [yank](https://github.com/mptre/yank) - 将终端输出到剪贴板.
+- [yank](https://github.com/mptre/yank) - 将终端输出连接到剪贴板.
 - [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在您的本地机器上下载并安装 Google Web Fonts.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
+- [tiptop](https://github.com/nschloe/tiptop) - 系统监视器.
 
 ### Markdown
 
@@ -343,7 +345,7 @@
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com) - 用用户提交的解决方案呈现小壳挑战.
-- [explainshell](http://www.explainshell.com) - 键入一个片段以查看每个参数的帮助文本.
+- [explainshell](https://www.explainshell.com/) - 键入一个片段以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) - 即时编码答案.
 - [how2](https://github.com/santinic/how2) - Howdoi 的 Node.js 实现.
 - [The Fuck](https://github.com/nvbn/thefuck) - 宏伟的应用程序，可更正您之前的控制台命令.
@@ -370,7 +372,7 @@
 - [fx](https://github.com/antonmedv/fx) - 命令行 JSON 查看器.
 - [vj](https://github.com/busyloop/vj) - 使 JSON 可读.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - 用于破解 JSON 和 Javascript 的实用腰带.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - 从 JSON 中去除注释.
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - 从 JSON 中删除评论.
 - [GROQ](https://github.com/sanity-io/groq-cli) – 带有查询和投影的 JSON 处理器.
 
 ### Columns
@@ -401,7 +403,7 @@
 - [del-cli](https://github.com/sindresorhus/del-cli) - 删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 复制文件.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - 快速重命名文件.
-- [renameutils](https://www.nongnu.org/renameutils) - 在您的编辑器中批量重命名.
+- [renameutils](https://www.nongnu.org/renameutils/) - 在您的编辑器中批量重命名.
 - [diskonaut](https://github.com/imsnif/diskonaut) - 磁盘空间导航器.
 
 ### Files
@@ -409,7 +411,7 @@
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - CLI 来观察文件系统的变化.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - 检测文件或标准输入的文件类型.
 - [bat](https://github.com/sharkdp/bat) - 带有语法突出显示的猫克隆.
-- [NCDu](https://dev.yorhel.nl/ncdu) - 一个带有 ncurses 接口的磁盘使用分析器.
+- [NCDu](https://dev.yorhel.nl/ncdu) - 带有 ncurses 接口的磁盘使用分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 用于 Unix 权限的瑞士军刀.
 - [transmission-cli](https://transmissionbt.com) - 命令行的 Torrent 客户端.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) - 流洪流客户端.
@@ -536,12 +538,12 @@
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - 获取当前用户的全名.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件的 gzip 大小.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  - 散列变得简单. 获取文本或标准输入的哈希值.
-- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 删除所有 Chrome 标签以提高性能、减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用 Levenshtein 距离算法测量两个字符串之间的差异.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - 将匹配的双引号转换为单引号.
 - [hget](https://github.com/bevacqua/hget) - 从您的终端以纯文本形式呈现网站.
-- [alex](https://github.com/wooorm/alex) - 抓住不敏感、不体贴的写作.
+- [alex](https://github.com/wooorm/alex) - 捕捉不敏感、不体贴的写作.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 下载美国宇航局当天的图片.
 - [trino](https://github.com/eneserdogan/trino) - 单词和短语的翻译.
 - [translate-shell](https://github.com/soimort/translate-shell) - 谷歌翻译界面.
@@ -566,6 +568,6 @@
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃本作品的所有版权和相关或邻接权.

@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="ossu/computer-science"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
+![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">开源社会大学</h3>
 <p align="center">
@@ -21,7 +21,7 @@
 
 OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 这不仅仅是为了职业培训或职业发展.
-它适用于那些想要对所有计算学科的基本概念有适当的、*全面的*基础的人，
+它适用于那些想要对所有计算学科的基本概念进行适当的、*全面的* 基础的人，
 对于那些有纪律、意愿和（最重要的是！）良好习惯的人来说，主要靠自己获得这种教育，
 但在全球学习者社区的支持下.
 
@@ -33,7 +33,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 **课程必须**：
 - 开放报名
 - 定期运行（最好以自定进度的格式运行，否则每年运行多次）
-- 在教材和教学原则方面具有普遍的高质量
+- 在教材和教学原则方面总体上具有高质量
 - 符合课程标准 [CS 2013](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md): 计​​算机科学本科学位课程课程指南 
 
 当没有任何课程符合上述标准时，课程作业将附上一本书.
@@ -44,13 +44,13 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 - *介绍 CS*：让学生尝试 CS，看看它是否适合他们
 - *Core CS*：大致对应于计算机科学课程的前三年，参加所有专业都必须参加的课程
 - *Advanced CS*：大致相当于计算机科学课程的最后一年，根据学生的兴趣选修课
-- *最终项目*：学生验证、巩固和展示知识的项目，供全球同行评估
+- *最终项目*：学生验证、巩固和展示他们的知识的项目，供全球同行评估
 
  **期间**. 如果您仔细计划并每周投入大约 20 小时的学习时间，则有可能在大约 2 年内完成学业. 学习者可以使用[这个传播
  ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) 来估计它们的结束日期. 复印一份并在“时间表”表中输入您的开始日期和每周预计工作时间. 当您完成课程时，您可以在“课程数据”表中输入您的实际课程完成日期并获得更新的完成估算.
 
  **成本**. 所有或几乎所有的课程材料都是免费提供的. 但是，某些课程可能会为要评分的作业/测试/项目收费.
-请注意，两者 [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) 和 [edX](https://courses.edx.org/financial-assistance/) 提供经济援助.
+请注意，两者 [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) 和 [edX](https://courses.edx.org/financial-assistance/) 提供经济援助.
 
 根据您自己的时间和预算决定花费多少或多少；
 请记住，您无法购买成功！
@@ -64,7 +64,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 **[How to contribute](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md)**
 
-**[Getting help](https://github.com/ossu/computer-science/blob/master/HELP.md)**（有关我们的常见问题和聊天室的详细信息）
+**[Getting help](https://github.com/ossu/computer-science/blob/master/HELP.md)**（有关我们的常见问题解答和聊天室的详细信息）
 
 ## Community
 
@@ -83,10 +83,10 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 ## Prerequisites
 
-- [Core CS](#core-cs) 假设学生已经采取了 [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites)，包括代数、几何和微积分.
+- [Core CS](#core-cs) 假设学生已经采取 [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites)，包括代数、几何和微积分.
 - [Advanced CS](#advanced-cs) 假设学生已经完成了整个 Core CS
 并且现在有足够的知识来决定选择哪些选修课.
-- 注意 [Advanced systems](#advanced-systems) 假设学生已经修过基础物理课程（例如高中的 AP 物理）.
+- 注意 [Advanced systems](#advanced-systems) 假设学生已修过基础物理课程（例如高中的 AP 物理）.
 
 ## Intro CS
 
@@ -104,7 +104,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学的世界. 无论是从上述课程还是通过其他地方的学习，已经了解编程的学生都应该参加本课程，以便对即将到来的材料有所了解. 如果你完成课程想要更多，计算机科学很可能适合你！
+本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方学习而被引入编程的学生应该参加本课程，以了解即将到来的材料. 如果你完成课程想要更多，计算机科学很可能适合你！
 
 **涵盖的主题**：
 `computation`
@@ -114,7 +114,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ) |  9 周 |  15 小时/周 | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ) |  9 周 |  15 小时/周 | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
@@ -129,7 +129,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 `单元测试`
 `面向对象的设计`
 `静态类型`
-`动态类型`
+`动态打字`
 `ML 系列语言（通过标准 ML）`
 `Lisp 家族语言（通过 Racket）`
 `Ruby`
@@ -164,11 +164,11 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) ) |  13 周 |  6-10 小时/周 | 替代课程涵盖这门课程和以下 2 门课程 | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)  |  13 周 |  5-10 小时/周 |  - | 微积分 1A | [chat](https://discord.gg/sddAsZg)
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  |  6 周 |  5-10 小时/周 |  - | 微积分 1B | [chat](https://discord.gg/FNEcNNq)
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ) |  13 周 |  5 小时/周 | 具有问题集解决方案的替代版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 有困难的同学可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一的. 它更具交互性但不太全面，并且需要花钱才能解锁完整的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ) |  13 周 |  5 小时/周 | 解决问题集的替代版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 有困难的同学可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一的. 它更具交互性但不太全面，并且需要花钱才能解锁完整的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
-理解理论很重要，但您也需要创建程序. 有许多工具被广泛用于使该过程更容易. 现在学习它们以减轻您未来的工作编写程序.
+理解理论很重要，但您也需要创建程序. 有许多工具被广泛使用来简化这个过程. 现在学习它们以减轻您未来的工作编写程序.
 
 **涵盖的主题**：
 `终端和shell脚本`
@@ -201,10 +201,10 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 课程 | 持续时间 | 努力 | 附加文本/作业| 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ) |  6 周 |  7-13 小时/周 |  - | 类C 编程语言| [chat](https://discord.gg/vxB2DRV)
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/) ) |  6 周 |  7-13 小时/周 |  - | 类C 编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6 周 |  12-18 小时/周 |  - | 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), 从 Nand 到俄罗斯方块第一部分 | [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12 周 |  6-10 小时/周 |  - | 算法， [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) 有用| [chat](https://discord.gg/wZNgpep)
-[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  8 周 |  4-12 小时/周 | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.htm)  | 代数，概率，基本 CS | [chat](https://discord.gg/MJ9YXyV)
+[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12 周 |  6-10 小时/周 |  - | 算法， [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) 有用| [chat](https://discord.gg/wZNgpep)
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  8 周 |  4-12 小时/周 | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)  | 代数，概率，基本 CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
 
@@ -224,7 +224,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)  |  4 周 |  4-8 小时/周 | 任何编程语言，计算机科学数学| [chat](https://discord.gg/mKRS7tY)
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)  |  4 周 |  4-8 小时/周 | 分而治之，排序和搜索，以及随机算法| [chat](https://discord.gg/Qstqe4t)
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)  |  4 周 |  4-8 小时/周 | 分而治之，排序和搜索，以及随机化算法 | [chat](https://discord.gg/Qstqe4t)
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)  |  4 周 |  4-8 小时/周 | 图搜索、最短路径和数据结构 | [chat](https://discord.gg/dWVvjuz)
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)  |  4 周 |  4-8 小时/周 | 贪心算法、最小生成树和动态规划 | [chat](https://discord.gg/dYuY78u)
 
@@ -276,8 +276,8 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) |  2 周 |  10 小时/周 | 核心编程| [chat](https://discord.gg/P8SPPyF)
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) |  2 周 |  10 小时/周 | 核心编程| [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/learn/machine-learning) |  11 周 |  4-6 小时/周 | 线性代数| [chat](https://discord.gg/NcXHDjy)
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) |  6 周 |  12 小时/周 |  C++ 或 Java，线性代数 | [chat](https://discord.gg/68WqMNV)
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)  |  6 周 |  8-10 小时/周 | 核心编程，以及 [sizable project](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2) |  6 周 |  12 小时/周 |  C++ 或 Java，线性代数 | [chat](https://discord.gg/68WqMNV)
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)  |  6 周 |  8-10 小时/周 | 核心编程，以及 [sizable project](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
 
 ### Core Ethics
 
@@ -297,7 +297,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 ## Advanced CS
 
-在完成 Core CS 中的**每门必修课程**后，学生应根据兴趣从 Advanced CS 中选择一部分课程.
+完成 Core CS 中的**每门必修课程**后，学生应根据兴趣从 Advanced CS 中选择一部分课程.
 并非每个子类别的课程都需要学习.
 但是学生应该参加与他们打算进入的领域相关的*每门*课程.
 
@@ -314,14 +314,14 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--: 
-[Parallel Programming](https://www.coursera.org/learn/parprog1) |  4 周 |  6-8 小时/周 | 斯卡拉编程
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) |  4 周 |  6-8 小时/周 | 斯卡拉编程
 [Compilers](https://www.edx.org/course/compilers)  |  9 周 |  6-8 小时/周 | 没有任何
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) |  14 周 |  - |  ——
 [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf) )*|  12 周 |  - |  ——
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8 周 |  6 小时/周 |  Python，面向对象编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4 周 |  6 小时/周 |  Python，编程经验
 
-(*) Blackburn, Bos, Striegnitz 的书（编译自 [source](https://github.com/LearnPrologNow/lpn)，重新分配下 [CC license](http://creativecommons.org/licenses/by-sa/4.0/))
+(*) Blackburn, Bos, Striegnitz 的书（编译自 [source](https://github.com/LearnPrologNow/lpn)，重新分配下 [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
 ### Advanced systems
 
@@ -368,7 +368,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) ) |  8 周 |  10 小时/周 | 离散数学、逻辑、算法
-[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x)  |  16 周 |  8 小时/周 | 算法，C++
+[Computational Geometry](https://www.edx.org/course/computational-geometry)  |  16 周 |  8 小时/周 | 算法，C++
 [Game Theory](https://www.coursera.org/learn/game-theory-1)  |  8 周 |  3 小时/周 | 数学思维、概率、微积分
 
 ### Advanced math
@@ -382,20 +382,20 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 ## Final project
 
 OSS 大学以项目为中心.
-每门课程的作业和考试都是为了让您准备好使用您的知识来解决现实世界的问题.
+每门课程的作业和考试都是为了让您准备好使用您的知识解决现实世界的问题.
 
 在您完成所有 Core CS 和与您相关的 Advanced CS 部分之后，您应该考虑一个可以使用您获得的知识解决的问题.
 Not only does real project work look great on a resume, but the project will also validate and consolidate your knowledge.
 您可以创建全新的东西，或者您可以通过以下网站找到需要帮助的现有项目
 [CodeTriage](https://www.codetriage.com/)
 or
-[First Timers Only](http://www.firsttimersonly.com/).
+[First Timers Only](https://www.firsttimersonly.com/).
 
-希望在创建项目时获得更多指导的学生可以选择使用一系列面向项目的课程. 以下是选项示例（还有更多可用选项，此时您应该能够识别出与您相关且有趣的系列）：
+希望在创建项目时获得更多指导的学生可以选择使用一系列面向项目的课程. 这是一个选项示例（还有更多可用选项，此时您应该能够确定一个与您相关且有趣的系列）：
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
-[Fullstack Open](https://fullstackopen.com/en)  |  12 周 |  6 小时/周 | 编程
+[Fullstack Open](https://fullstackopen.com/en/)  |  12 周 |  6 小时/周 | 编程
 [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics)  |  26 周 |  2-5 小时/周 | 大一物理，线性代数，微积分， [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)  |  30 周 |  2-5 小时/周 | 机器学习
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30 周 |  3-5 小时/周 | 没有任何
@@ -414,7 +414,7 @@ or
 
   - 降价：`[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
   - HTML：`<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
-- 使用我们 [community](#community) 向你的同学宣布的渠道.
+- 使用我们 [community](#community) 向同学们宣布的渠道.
 
 征求 OSSU 同行的反馈.
 你不会被传统意义上的“评分”——每个人都有自己对他们认为成功的衡量标准.
@@ -447,11 +447,11 @@ or
 - 看看 [readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md) 对于经典书籍，您可以阅读这将提高您的技能并扩展您的知识.
 - 加入本地开发者聚会（例如通过 [meetup.com](https://www.meetup.com/)).
 - 关注软件开发领域的新兴技术：
-  + 探索**演员模型** [Elixir](http://elixir-lang.org/)，一种基于久经考验的 Erlang 虚拟机的新型 Web 函数式编程语言！
+  + 探索 **actor 模型** [Elixir](https://elixir-lang.org/)，一种基于久经考验的 Erlang 虚拟机的新型 Web 函数式编程语言！
   + 探索**借贷和生命周期** [Rust](https://www.rust-lang.org/)，一种无需垃圾收集器即可实现内存和线程安全的系统语言！
   + 探索**依赖类型系统** [Idris](https://www.idris-lang.org/)，一种受 Haskell 启发的新语言，对类型驱动开发提供前所未有的支持.
 
-![keep learning](http://i.imgur.com/REQK0VU.jpg)
+![keep learning](https://i.imgur.com/REQK0VU.jpg)
 
 ## Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
@@ -462,7 +462,7 @@ or
 1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
-现在您已经拥有我们官方版块的副本，您只需在学习过程中将卡片传递到“正在做”栏或“已完成”栏即可.
+现在您已经拥有了我们官方版块的副本，您只需在学习过程中将卡片传递到“正在做”栏或“已完成”栏即可.
 
 我们还提供**标签**，以帮助您更好地控制整个过程.
 每个标签的含义是：
@@ -470,13 +470,13 @@ or
 - `主要课程`：带有该标签的卡片代表我们课程中列出的课程.
 - `额外资源`：带有该标签的卡片代表学生添加的课程.
 - `Doing`：带有该标签的卡片代表学生当前正在做的课程.
--“完成”：带有该标签的卡片代表学生完成的课程.
+- `Done`：带有该标签的卡片代表学生完成的课程.
 这些卡片还应该包含至少一个项目/文章的链接，这些项目/文章是使用在此类课程中获得的知识构建的.
 - `Section`：带有该标签的卡片代表我们课程中的部分.
 带有“Section”标签的卡片仅用于帮助组织完成列.
-您应该将*课程的卡片*放在其各自的*部分卡片*下方.
+您应该将*课程的卡片*放在其各自的*部分卡片*的下方.
 
-该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们进步的能力.
+该板的目的是为我们的学生提供一种跟踪他们进步的方式，以及通过一个公共页面向朋友、家人、雇主等展示他们进步的能力.
 您可以将看板的状态更改为 *public* 或 *private*.
 
 ## Team
