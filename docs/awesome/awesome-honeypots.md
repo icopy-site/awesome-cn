@@ -123,7 +123,7 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
 
 - 分布式传感器部署
     - [Community Honey Network](https://communityhoneynetwork.readthedocs.io/en/stable/)  - CHN 旨在使部署蜜罐和蜜罐管理工具变得简单和灵活. 默认部署方式使用 Docker Compose 和 Docker，通过几个简单的命令进行部署.
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - 多 Snort 和蜜罐传感器管理，使用虚拟机网络、小规模 SNORT 安装、隐蔽的 dionaeas 和集中式服务器进行管理.
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - 多 snort 和蜜罐传感器管理，使用虚拟机网络、小规模 SNORT 安装、隐蔽的 dionaeas 和集中式服务器进行管理.
 
 - 网络分析工具
     - [Tracexploit](https://code.google.com/archive/p/tracexploit/) - 重播网络数据包.
@@ -142,7 +142,7 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
     - [mitmproxy](https://mitmproxy.org/) - 允许拦截、检查、修改和重放流量.
 
 - 系统仪表
-    - [Sysdig](https://sysdig.com/opensource/) - 开源的系统级探索允许从正在运行的 GNU/Linux 实例捕获系统状态和活动，然后保存、过滤和分析结果.
+    - [Sysdig](https://sysdig.com/opensource/) - Open source, system-level exploration allows one to capture system state and activity from a running GNU/Linux instance, then save, filter, and analyze the results.
     - [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪 Windows 内核的工具.
 
 - 用于 USB 传播恶意软件的蜜罐
@@ -275,8 +275,9 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
     - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo 配置为后门网屏.
     - [Kojoney2](https://github.com/madirish/kojoney2) - 用 Python 编写的低交互 SSH 蜜罐，基于 Jose Antonio Coret 的 Kojoney.
     - [Kojoney](http://kojoney.sourceforge.net/) - 基于 Python 的低交互蜜罐，可模拟使用 Twisted Conch 实现的 SSH 服务器.
+    - [Longitudinal Analysis of SSH Cowrie Honeypot Logs](https://github.com/deroux/longitudinal-analysis-cowrie) - 基于 Python 的命令行工具，可随着时间的推移分析 cowrie 日志.
     - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - 分析 SSH 蜜罐日志.
-    - [Malbait](https://github.com/batchmcnulty/Malbait) - Simple TCP/UDP honeypot implemented in Perl.
+    - [Malbait](https://github.com/batchmcnulty/Malbait) - 在 Perl 中实现的简单 TCP/UDP 蜜罐.
     - [MockSSH](https://github.com/ncouture/MockSSH) - 模拟 SSH 服务器并定义它​​支持的所有命令（Python、Twisted）.
     - [cowrie2neo](https://github.com/xlfe/cowrie2neo) - 将贝壳蜜罐日志解析到 Neo4j 数据库中.
     - [go-sshoney](https://github.com/ashmckenzie/go-sshoney) - SSH蜜罐.
