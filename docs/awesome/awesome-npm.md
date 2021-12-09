@@ -43,6 +43,7 @@
 - [npm addict](https://npmaddict.com) - 你每天注入的 npm 包.
 - [moiva](https://moiva.io) - 发现和比较包.
 - [Openbase](https://openbase.com) - 比较具有强大指标和用户评论的开源包.
+- [Codelib.club](https://codelib.club) - 按依赖项搜索和发现开源应用程序.
 
 ### Browser extensions
 
@@ -138,7 +139,7 @@ $ npm install --global npm
 
 - `npm and` → `npm install`
 - `npm i -D` → `npm install --save-dev`
-- `asl t` →` asl 测试`
+- `asl t` →` asl test`
 - `npm it` →` npm install &amp;&amp; npm test`
 - `npm r` →` npm uninstall`
 - `npm un` →` npm uninstall`

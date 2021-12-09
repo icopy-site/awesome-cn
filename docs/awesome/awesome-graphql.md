@@ -106,7 +106,7 @@
 - [react-apollo](https://www.apollographql.com/docs/react/) - 核心@apollo/client 库提供了与 React 的内置集成.
 - [relay](https://github.com/facebook/relay) - Relay 是一个 JavaScript 框架，用于构建数据驱动的 React 应用程序.
 - [urql](https://github.com/FormidableLabs/urql) - 一个简单的 React 缓存 GraphQL 客户端.
-- [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小钩子优先 GraphQL 客户端.
+- [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client with caching and server-side rendering support.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
@@ -118,7 +118,7 @@
 - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用 Hapi 创建一个 GraphQL HTTP 服务器.
 - [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于 GraphiQL 集成的 HAPI 插件.
 - [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - 从头开始​​实现 GraphQL.js 并支持原生 ESM 的 GraphQL Koa 中间件.
-- [koa-graphql](https://github.com/chentsulin/koa-graphql) --GraphQL Koa 中间件.
+- [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 - [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts)  - GraphQL Koa 1 文件简化. 对快速测试有用
 - [gql](https://github.com/deno-libs/gql) - 适用于 Deno 的通用 GraphQL HTTP 中间件.
 - [mercurius](https://github.com/mercurius-js/mercurius) - Fastify 的 GraphQL 插件.
@@ -176,7 +176,7 @@
 #### JavaScript Examples
 
 - [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - 使用 React、Relay、GraphQL 和 JAM 堆栈架构的前端入门套件.
-- [SWAPI GraphQL Wrapper](https://github.com/graphql/swapi-graphql) - GraphQL 架构和服务器包装 SWAPI.
+- [SWAPI GraphQL Wrapper](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping SWAPI.
 - [Relay TodoMVC](https://github.com/taion/relay-todomvc) - 使用路由中继 TodoMVC.
 - [Apollo Client documentation](https://www.apollographql.com/react/) - 使用 apollo 客户端构建 GraphQL 应用程序的文档和示例.
 - [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - 用于构建 GraphQL 服务器和连接到 SQL、MongoDB 和 REST 端点的文档、教程和示例.
@@ -252,7 +252,7 @@
 - [graphene](https://github.com/graphql-python/graphene) - 一个以 Pythonic 简单的方式创建 GraphQL 模式/类型的包.
 - [graphene-gae](https://github.com/graphql-python/graphene-gae) - 向 Google AppEngine (GAE) 添加 GraphQL 支持.
 - [django-graphiql](https://github.com/GraphQL-python-archive/django-graphiql) - 将 GraphiQL 轻松集成到您的 Django 项目中.
-- [flask-graphql](https://github.com/graphql-python/flask-graphql) - 向 Flask 应用程序添加 GraphQL 支持.
+- [flask-graphql](https://github.com/graphql-python/flask-graphql) - 向您的 Flask 应用程序添加 GraphQL 支持.
 - [python-graphql-client](https://github.com/prisma/python-graphql-client) - 适用于 Python 2.7+ 的简单 GraphQL 客户端
 - [python-graphjoiner](https://github.com/healx/python-graphjoiner) - 使用连接、SQL 或其他方式创建 GraphQL API.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - 石墨烯的 Django 集成.
@@ -296,7 +296,7 @@
 
 #### Custom Scalars
 
-- [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
+- [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO 日期是一组符合 RFC 3339 的日期/时间标量类型，可与 graphql-java 一起使用.
 - [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - graphql-java 的扩展标量.
 
 <a name="java-example" />
@@ -554,7 +554,7 @@
 - [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - 支持编辑 GraphQL 查询的 HTTP 客户端.
 - [Apollo Sandbox](https://sandbox.apollo.dev/) - 导航和测试 GraphQL 端点的最快方法.
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) – 将任何 GraphQL 模式视为动态和交互式图形.
-- [AST Explorer](https://astexplorer.net/) - 选择顶部的“GraphQL”，浏览 GraphQL AST 并通过单击查询突出显示不同的部分.
+- [AST Explorer](https://astexplorer.net/) - 选择顶部的“GraphQL”，探索 GraphQL AST 并通过单击查询突出显示不同的部分.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - 最快的协作式 GraphQL 游乐场.
 
 <a name="tool-security" />
@@ -594,7 +594,7 @@
 ### Tools - Miscellaneous
 
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - 基于架构和文档的 GraphQL 代码生成器.
-- [swagger-to-graphql](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
+- [swagger-to-graphql](https://github.com/yarax/swagger-to-graphql)  - 基于 Swagger 中描述的 REST API 的 GraphQL 类型构建器. 允许从 REST 迁移到 GraphQL 5 分钟
 - [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - 语言服务插件完成并验证 TypeScript 模板字符串中的 GraphQL 查询.
 - [apollo-tracing](https://github.com/apollographql/apollo-tracing) - GraphQL 扩展，使您能够轻松获取解析器级性能信息作为 GraphQL 响应的一部分.
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) - 基于 JSON 数据文件，在不到 30 秒的时间内获得零编码的完整假 GraphQL API.
@@ -610,7 +610,7 @@
 
 ## Databases
 
-- [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+- [Dgraph](https://dgraph.io/) - 以GraphQL为查询语言的可扩展、分布式、低延迟、高吞吐量的图数据库
 - [EdgeDB](https://edgedb.com/) - 具有原生 GraphQL 支持的下一代对象关系数据库.
 - [FaunaDB](https://fauna.com) - 关系型 NoSQL 数据库 [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) 支持连接、索引和多区域 ACID 事务，无服务器按使用付费定价.
 - [ArangoDB](https://arangodb.com/) - 原生多模型数据库 [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) 通过内置 [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
@@ -693,7 +693,8 @@
 ## Style Guides
 
 - [Shopify GraphQL Design Tutorial](https://github.com/Shopify/graphql-design-tutorial)  - 本教程最初由 Shopify 为内部目的而创建. 它基于近 3 年来在 Shopify 创建和发展生产模式的经验教训.
-- [Gitlab GraphQL API Style Guide](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html) - 本文档概述了 GitLab GraphQL API 的风格指南.
+- [GitLab GraphQL API Style Guide](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html) - 本文档概述了 GitLab GraphQL API 的风格指南.
+- [Yelp GraphQL Guidelines](https://yelp.github.io/graphql-guidelines/) - 此 repo 包含文档和指南，用于标准化且最合理的 GraphQL 方法（在 Yelp）.
 
 <a name="blogs" />
 

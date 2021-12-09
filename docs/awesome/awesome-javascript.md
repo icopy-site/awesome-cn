@@ -137,7 +137,7 @@
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的 Web 应用程序的 JavaScript 框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单的、无处不在的数据库、在线数据、纯 JavaScript 网络框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代 DOM 操作.
-* [vue](https://github.com/vuejs/vue) - 用于构建交互式界面的直观、快速且可组合的 MVVM.
+* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 * [svelte](https://github.com/sveltejs/svelte)  - Svelte 是一种构建 Web 应用程序的新方法. 它是一个编译器，它接受您的声明性组件并将它们转换为有效的 JavaScript，从而手术地更新 DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout 可以更轻松地使用 JavaScript 创建丰富的响应式 UI.
 * [spine](https://github.com/spine/spine) - 用于构建 JavaScript 应用程序的轻量级 MVC 库.
@@ -161,9 +161,9 @@
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks 是更好的 MV-ish 框架.
 * [LiquidLava](http://www.lava-framework.com/) - 用于构建用户界面的透明 MVC 框架.
 * [feathers](https://github.com/feathersjs/feathers) - 面向未来应用的极简实时 JavaScript 框架.
-* [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+* [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
-* [Alpine.js](https://github.com/alpinejs/alpine) - 以低得多的成本为您提供大型框架（如 Vue 或 React）的响应式和声明式特性.
+* [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 * [inferno](https://github.com/infernojs/inferno) - 用于构建现代用户界面的极快的、类似于 React 的 JavaScript 库.
 * [FoalTS](https://foalts.org) - 用于构建 Web 应用程序的优雅且包罗万象的 Node.JS 框架（TypeScript）.
 * [Lucia](https://github.com/aidenybai/lucia) - 用于小型网络应用程序的 3kb 库.
@@ -173,6 +173,7 @@
 * [litegraph.js](https://github.com/jagenjo/litegraph.js) - 类似于 PD 或 UDK 蓝图的图形节点引擎和编辑器，在 HTML5 Canvas2D 中带有自己的编辑器.
 * [Drawflow](https://github.com/jerosoler/Drawflow) - 这使您可以轻松快速地创建数据流.
 * [Blockly](https://github.com/google/blockly) - 一个库，可将可视化代码编辑器添加到 Google 的网络和移动应用程序中.
+* [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 
 ## Node-Powered CMS Frameworks
 
@@ -325,7 +326,7 @@
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - 强大的 CSV 库，支持解析 CSV 文件/字符串并导出为 CSV.
 * [jBinary](https://github.com/jDataView/jBinary) - 二进制文件的高级 I/O（加载、解析、操作、序列化、保存），具有用于描述文件类型和数据结构的声明性语法.
-* [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff 输出解析器和漂亮的 HTML 生成器.
+* [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF 生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) - JavaScript 中的 PDF 阅读器.
 
@@ -377,7 +378,7 @@
 * [ms.js](https://github.com/rauchg/ms.js) - 微小的毫秒转换实用程序.
 * [countdown.js](https://github.com/gumroad/countdown.js) - 超级简单的倒计时.
 * [timeago.js](https://github.com/hustcc/timeago.js) - 用于使用 `*** time ago` 语句格式化日期的简单库（小于 2kb）.
-* [fecha](https://github.com/taylorhakes/fecha)  - 轻量级日期格式化和解析 (~2KB). 旨在替换 moment.js 的解析和格式化功能.
+* [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代 JavaScript 日期实用程序库.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - 建立在谷歌地图之上的浏览器倒计时.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB 不可变日期库替代 Moment.js，具有相同的现代 API.
@@ -386,7 +387,7 @@
 ## String
 *字符串库.*
 
-* [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
+* [voca](https://github.com/panzerdp/voca) - 终极 JavaScript 字符串库
 * [selecting](https://github.com/EvandroLG/selecting) - 允许您访问用户选择的文本的库.
 * [underscore.string](https://github.com/epeli/underscore.string) - Underscore.js JavaScript 库的字符串操作扩展.
 * [string.js](https://github.com/jprichardson/string.js) - 额外的 JavaScript 字符串方法.
@@ -512,7 +513,7 @@
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - Ruby on Rails API 的固执的 REST 客户端.
 * [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) - 支持 OAuth / API Key / Basic / 等的通用 API 客户端.
-* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
+* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - 为简单起见，现代 Fetch API 包装器，具有简洁的文件上传功能.
 * [Optic](https://github.com/opticdev/optic) - Optic 自动记录和测试您的 API.
 * [SWR](https://github.com/vercel/swr) - 用于远程数据获取的 React Hooks 库.
 * [React Query](https://github.com/tannerlinsley/react-query) - 用于在 React 中获取、缓存和更新异步数据的钩子.
@@ -568,8 +569,8 @@
 * [progress.js](https://github.com/usablica/progress.js) - 为页面上的每个对象创建和管理进度条.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且响应迅速的进度条.
 * [pace](https://github.com/HubSpot/pace) - 自动向您的站点添加进度条.
-* [topbar](https://github.com/buunguyen/topbar) - 小巧美观的全站点进度指示器.
-* [nanobar](https://github.com/jacoborus/nanobar)  - 非常轻量级的进度条. 没有 jQuery.
+* [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+* [nanobar](https://github.com/jacoborus/nanobar)  - 非常轻量级的进度条. 没有jQuery.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - 一组使用 CSS 动画的加载指示器.
 * [Ladda](https://github.com/hakimel/Ladda) - 带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 一组使用 CSS 动画的加载微调器
@@ -604,14 +605,14 @@
 
 * [intro.js](https://github.com/usablica/intro.js) - 为您的网站和项目提供新功能介绍和分步用户指南的更好方法.
 * [shepherd](https://github.com/HubSpot/shepherd) - 引导您的用户浏览您的应用程序.
-* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
-* [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的游览.
+* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - 使用 Twitter Bootstrap Popovers 快速轻松地浏览产品.
+* [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的导览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 您的应用程序的简单叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能导览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将焦点放在 DOM 元素上，向页面的其余部分添加覆盖层.
-* [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+* [driver.js](https://github.com/kamranahmedse/driver.js) - 强大而轻量级的原生 JavaScript 引擎，可将用户的注意力集中在整个页面上
 
 ## Notifications
 
@@ -621,7 +622,7 @@
 * [pnotify](https://github.com/sciactive/pnotify) - Bootstrap、jQuery UI 和 Web 通知草案的 JavaScript 通知.
 * [toastr](https://github.com/CodeSeven/toastr) - 简单的 JavaScript Toast 通知.
 * [humane-js](https://github.com/wavded/humane-js) - 一个简单、现代的浏览器通知系统.
-* [smoke.js](https://github.com/hxgf/smoke.js) - 与框架无关的 JavaScript 样式警报系统.
+* [smoke.js](https://github.com/hxgf/smoke.js) - 与框架无关的 JavaScript 风格警报系统.
 * [notie](https://github.com/jaredreich/notie) - 没有依赖性的简单通知和输入.
 * [notifire](https://github.com/notifirehq/notifire) - 产品的开源通知基础设施.
 
@@ -650,7 +651,7 @@
 
 ## Range Sliders
 
-* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 强大且易于定制的范围滑块，具有许多选项和皮肤支持.
+* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 功能强大且易于自定义的范围滑块，具有许多选项和皮肤支持.
 * [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - 支持日期的 JavaScript 滑块选择器.
 * [noUiSlider](https://github.com/leongersen/noUiSlider) - 轻量级、高度可定制的范围滑块，不会膨胀.
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) - HTML5 输入范围滑块元素填充.
@@ -664,7 +665,7 @@
 * [tag-it](https://github.com/aehlke/tag-it) - 用于处理多标签字段以及标签建议/自动完成的 jQuery UI 插件.
 * [At.js](https://github.com/ichord/At.js) - 将 GitHub 之类的提及自动完成添加到您的应用程序.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - 用于 HTML5 占位符属性的 JavaScript 填充.
-* [fancyInput](https://github.com/yairEO/fancyInput) - 通过 CSS3 效果使输入字段中的输入变得有趣.
+* [fancyInput](https://github.com/yairEO/fancyInput) - 使用 CSS3 效果使输入字段中的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件神奇地将一个简单的文本输入转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式化复选框和单选按钮的 jQuery 插件. 有皮肤支持.
@@ -733,7 +734,7 @@
 * [jBox](https://github.com/StephanWagner/jBox) - jBox 是一个强大而灵活的 jQuery 插件，可以处理您所有的弹出窗口、工具提示、通知等.
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - 一个可定制的、模块化的、响应式的、用于 jQuery 的灯箱画廊插件.
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) - 轻量级、无依赖、支持可访问性的 TypeScript 库，用于创建模态窗口.
-* [screenfull.js](https://github.com/sindresorhus/screenfull.js)  - JavaScript 全屏 API，可让您将页面或任何元素全屏显示. 消除浏览器实现差异，因此您不必这样做.
+* [screenfull.js](https://github.com/sindresorhus/screenfull.js)  - JavaScript Fullscreen API，可让您将页面或任何元素全屏显示. 消除浏览器实现差异，因此您不必这样做.
 
 ## Scroll
 
@@ -741,7 +742,7 @@
 * [headroom](https://github.com/WickyNilliams/headroom.js)  - 为您的页面留出一些空间. 隐藏你的标题，直到你需要它.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用 One Page Scroll 插件创建类似 Apple 的一页滚动网站（iPhone 5S 网站）.
 * [iscroll](https://github.com/cubiq/iscroll) - iScroll 是一个高性能、占用空间小、无依赖、多平台的 JavaScript 滚动器.
-* [skrollr](https://github.com/Prinzhorn/skrollr)  - 适用于移动设备（Android + iOS）和桌面设备的独立视差滚动库. 没有 jQuery.
+* [skrollr](https://github.com/Prinzhorn/skrollr)  - 适用于移动设备（Android + iOS）和桌面设备的独立视差滚动库. 没有jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出反应的视差引擎.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - 视差滚动变得容易.
 * [plax](https://github.com/cameronmcefee/plax) - jQuery 驱动的视差.
@@ -849,7 +850,7 @@
 ## Typography
 
  * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) - 最好的 Web 排版：基于元素宽度的字体大小和行高.
- * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本匹配到特定宽度所需的字体大小和字间距.
+ * [BigText](https://github.com/zachleat/BigText) - jQuery 插件，计算将一行文本与特定宽度匹配所需的字体大小和字间距.
  * [circletype](https://github.com/peterhry/circletype) - 一个 jQuery 插件，可让您在网络上输入曲线.
  * [slabText](https://github.com/freqDec/slabText/) - 一个 jQuery 插件，用于生成大、粗体和响应式标题.
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 向您的网站添加一个超级简单的旋转文本，几乎没有标记.
@@ -887,7 +888,7 @@
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - 带有过滤器和实用功能的图像处理库.
 * [pica](https://github.com/nodeca/pica) - 高质量图像调整大小（使用快速 Lanczos 过滤器，在纯 JS 中实现）.
-* [cropper](https://github.com/fengyuanchen/cropper) - 一个简单的 jQuery 图片裁剪插件.
+* [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 ## ES6
 
@@ -921,7 +922,7 @@
 * [echo](https://github.com/toddmotto/echo) - 延迟加载具有 data-* 属性的图像.
 * [picturefill](https://github.com/scottjehl/picturefill) - &lt;picture&gt;、srcset、sizes 的响应式图像填充.
 * [platform.js](https://github.com/bestiejs/platform.js) - 适用于几乎所有 JavaScript 平台的平台检测库.
-* [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
+* [json3](https://github.com/bestiejs/json3) - 与几乎所有 JavaScript 平台兼容的现代 JSON 实现.
 * [Logical Or Not](https://gabinaureche.com/logicalornot/) - 关于 JavaScript 特性的游戏.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - JavaScript 位向量实现.
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  - 剧透警告！ 一个快乐的小 jquery 插件，可以在您的网站上隐藏剧透.

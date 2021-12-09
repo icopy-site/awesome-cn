@@ -28,7 +28,7 @@
 
 - [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) - 使用 Rust + Yew + WebAssembly 构建的示例性真实世界应用程序.
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - 一个完全用 Rust 编写的 Web 应用程序，前端是用 Yew 构建的.
-- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - 易于测试和工作的 Rust 代码，并附有博客文章来解释它们.
+- [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - 易于测试和工作的 Rust 代码，带有博客文章来解释它们.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - 一个完全用 Rust 编写的网络应用程序，用于愚蠢的派对游戏.
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级 (~2mb) 桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view)，作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - 该项目展示了如何使用 Yew 组件中的 React 组件创建 Web 应用程序.
@@ -51,8 +51,8 @@
 - [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) - 这是一个 Rust / Wasm 客户端 Web 应用程序，它是一个任务控制中心.
-- [note-to-yew](https://github.com/GalAster/note-to-yew) - 在线将您的标记转换为 Yew 宏，这也是由 Yew 制作的.
-- [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 可配置的 Hangman 游戏，适合 ASCII 艺术奖励的儿童.
+- [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
+- [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 具有 ASCII 艺术奖励的可配置 Hangman 游戏.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用 Yew，Rust 为后端 API 提供动力.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现的 2048 游戏并编译为 Wasm.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我通过 Yew/Wasm 用 Rust 编写的个人网站.
@@ -71,7 +71,7 @@
 
 - [Create Yew App](https://github.com/jetli/create-yew-app) - 通过运行一个命令“npx create-yew-app my-app”来设置现代 Yew Web 应用程序.
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - 用于启动与 wasm-pack 一起使用的 Yew 项目的模板.
-- [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - A minimal template for starting a Yew project using wasm-bindgen and wasm-pack.
+- [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - 使用 wasm-bindgen 和 wasm-pack 启动 Yew 项目的最小模板.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 带有 Yew-Router 和 Parcel 应用程序的令人敬畏的红豆杉.
 
 ## Crates
@@ -115,8 +115,9 @@
 - [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - Github 操作通过下载可执行文件来安装 `wasm-bindgen` 以加速 CI/CD.
 - [cargo-web](https://github.com/koute/cargo-web) - 客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑并将您的 Rust Wasm 应用程序发送到网络.
+- [trunk-action](https://github.com/jetli/trunk-action) - Github 操作通过下载可执行文件来安装 `Trunk` 以加速 CI/CD.
 - [wabt](https://github.com/WebAssembly/wabt) - WebAssembly 二进制工具包，用于 `wasm-strip` 和 `wasm-objdump` 工具以减少 .wasm 文件大小.
-- [binaryen](https://github.com/WebAssembly/binaryen) - WebAssembly 的编译器基础结构和工具链库，用于“wasm-opt”工具以减少 .wasm 文件大小.
+- [binaryen](https://github.com/WebAssembly/binaryen) - 用于 WebAssembly 的编译器基础设施和工具链库，用于“wasm-opt”工具以减少 .wasm 文件大小.
 
 ## Articles
 
@@ -147,7 +148,7 @@
 Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项激动人心的新技术的潜力.
 
 - [Draco](https://github.com/utkarshkukreti/draco) - 用于使用 WebAssembly 构建客户端 Web 应用程序的 Rust 库.
-- [Percy](https://github.com/chinedufn/percy) - 一个模块化工具包，用于使用 Rust + WebAssembly 构建同构 Web 应用程序.
+- [Percy](https://github.com/chinedufn/percy) - 用于使用 Rust + WebAssembly 构建同构 Web 应用程序的模块化工具包.
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
 - [Seed](https://github.com/seed-rs/seed) - 用于创建 Web 应用程序的 Rust 框架.
 - [Smithy](https://github.com/rbalicki2/smithy) - 在 Rust 中构建 WebAssembly 应用程序的框架.

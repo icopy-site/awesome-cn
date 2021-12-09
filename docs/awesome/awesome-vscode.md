@@ -98,7 +98,7 @@ VSCode 团队提供来自流行编辑器的键盘映射，使向 VSCode 的过�
 
 Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的方法.
 
-请务必访问它 [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 ## Lint and IntelliSense
 
@@ -142,7 +142,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 #### More
 
-* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+- [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
 
 ## C\#, ASP .NET and .NET Core
 
@@ -366,6 +366,36 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Hashicorp Terraform 的语法高亮、linting、格式化和验证
 
+## GitHub
+
+## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
+
+ &gt; 提供 GitHub 工作流支持. 例如浏览项目、问题、文件（当前行）、创建和管理拉取请求. 计划支持其他提供程序（例如 gitlab 或 bitbucket）.
+
+## [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+&gt; 审查和管理 GitHub 拉取请求和问题
+
+## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+
+ &gt; 允许您完全在编辑器中管理 GitHub Gists. 您可以打开、创建、删除、分叉、星标和克隆 gist，然后像在本地一样无缝地开始编辑文件. 它就像您自己的开发人员库，用于构建和引用代码片段、常用配置/脚本、与编程相关的注释/文档和交互式示例.
+
+![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
+
+## [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
+
+&gt; 显示 GitHub Actions 工作流程和运行
+
+## [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+
+&gt; 远程浏览和编辑任何 GitHub 存储库
+
+## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
+
+&gt; 此扩展使用 GitHub api 来监控您的拉取请求的状态，并让您知道何时需要合并或是否有人请求更改.
+
+![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
+
 ## Productivity
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
@@ -437,12 +467,6 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
 
-## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
-
- &gt; 允许您完全在编辑器中管理 GitHub Gists. 您可以打开、创建、删除、分叉、星标和克隆 gist，然后像在本地一样无缝地开始编辑文件. 它就像您自己的开发人员库，用于构建和引用代码片段、常用配置/脚本、与编程相关的注释/文档和交互式示例.
-
-![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
-
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
 &gt; 查看 git 日志、文件或行历史
@@ -471,16 +495,6 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
 
-## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
-
- &gt; 提供 GitHub 工作流支持. 例如浏览项目、问题、文件（当前行）、创建和管理拉取请求. 计划支持其他提供程序（例如 gitlab 或 bitbucket）.
-&gt; 看看 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) 关于如何开始设置此扩展程序.
-
-## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
-&gt; 此扩展使用 GitHub api 来监控您的拉取请求的状态，并让您知道何时需要合并或是否有人请求更改.
-
-![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
-
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
  &gt; 添加 GitLab 侧边栏图标以查看问题、合并请求和其他 GitLab 资源. 您还可以查看 GitLab CI/CD 管道的结果并检查您的 `.gitlab-ci.yml` 的语法.
 
@@ -492,7 +506,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
-> Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+&gt; 流行图标字体的片段，例如 Font Awesome、Ionicons、Glyphicons、Octicons、Material Design Icons 等等！
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
@@ -555,7 +569,6 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 &gt; 只需在 vscode 中编辑 Markdown 文档，并在您键入时立即在浏览器中预览它.
 
 ![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
-
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
@@ -624,7 +637,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
-&gt; 允许用户打开容器、远程机器、容器或 Windows 子系统 Linux (WSL) 中的任何文件夹，并利用 VS Code 的完整功能集.
+&gt; 允许用户打开容器、远程机器、容器或 Windows Linux 子系统 (WSL) 中的任何文件夹，并利用 VS Code 的完整功能集.
 
 ![Remote SSH extension at work](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
 

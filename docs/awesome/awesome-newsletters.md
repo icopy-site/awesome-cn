@@ -16,7 +16,6 @@
 ## Frontend
 
 - [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
-- [Front End Newsletter](http://frontendnewsletter.com/) . 最好的前端相关新闻、文章、项目等的免费每周时事通讯.  JavaScript、React、Angular、Ember、Polymer、Meteor、RxJS、Elm 等. [Archive](http://frontendnewsletter.com/issues).
 - [Dev Tips](https://umaar.com/dev-tips/) . 每周在您的收件箱中以 gif 的形式提供开发人员提示.
 - [Friday Front-end](https://zendev.com/friday-frontend.html) . 每周五 15 篇优秀的前端文章、教程和公告.  CSS/SCSS、JavaScript 和其他很棒的东西的部分. [Archive](https://zendev.com/category/friday-frontend.html).
 - [Unreadit/Frontend](https://unread.it/n/frontend/) . 来自最佳 subreddits 的最佳前端开发新闻.
@@ -46,6 +45,7 @@
 - [JSter](http://jster.net/blog) . 每两周一次到您邮箱的精选 JavaScript 链接的废话列表. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
 - [Best of JavaScript](https://weekly.bestofjs.org/) . 关于与 Node.js 和 Web 平台相关的最流行开源项目的每周排名.
 - [JavaScript Kicks](https://javascriptkicks.com/) .  JavaScript 开发者社区每周发送的最受好评文章的精选列表.
+- [Bytes](https://bytes.dev/) . 成为更聪明的 JavaScript 开发人员. 随时了解 JavaScript 生态系统从未如此有趣. 每周一免费送货.
 
 #### React
 
@@ -84,7 +84,7 @@
 
 - [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter) . 每周二将 D3.js 和数据可视化新闻、文章、工作等发送到您的收件箱.
 - [Best in Visual Storytelling](https://us16.list-manage.com/subscribe?u=5c12dabe1e59a9fbde1174b8c&id=e27a48af53) . 周一汇总了过去一周最好的数据新闻. 付费版本还包括数据可视化职位发布.
-- [Generative Collective](https://generative.substack.com/). News, tutorials, articles and inspirations covering the generative / functional arts every Saturday morning.
+- [Generative Collective](https://generative.substack.com/) . 每周六早上涵盖生成/功能艺术的新闻、教程、文章和灵感.
 
 ### CSS
 
@@ -96,7 +96,7 @@
 ### Design
 
 - [Web Design Weekly](https://web-design-weekly.com/) . 只是纯真棒链接到最好的新闻和文章在一周内访问互联网.
-- [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
+- [Sidebar](https://sidebar.io). Five design-centric posts each day.
 - [Web Designer News](https://www.webdesignernews.com) . 为设计师策划的故事.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 免费的、每周一次的响应式设计文章、工具、技巧、教程和鼓舞人心的链接汇总.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 关于界面可用性、网站设计和用户体验研究的最新文章.
@@ -168,13 +168,13 @@
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter) . 精选的 Swift 库和资源列表.
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/) .  Sundell 每月时事通讯介绍 Swift！
 - [iOS Goodies](https://ios-goodies.com) . 每周 iOS 通讯. [Archive](https://ios-goodies.com/archive).
-- [Indie iOS Focus Weekly](https://indieiosfocus.com) . 最佳 iOS 开发、营销、Swift、设计和 Xcode 链接.
+- [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) . 每周精选的时事通讯，包含精心挑选的最新链接、视频、工具和教程，供有兴趣使用 Swift 设计和开发自己的 iOS、macOS、watchOS 和 tvOS 应用程序的人们使用.
 
 ### Go
 
 - [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周时事通讯. [Archive](https://golangweekly.com/issues).
-- [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
+- [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 最流行的 Go 新闻、文章和图书馆的每周概览.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语 Go 编程语言的每周通讯.
 
@@ -412,7 +412,7 @@
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) . 每周 tl;dr 网络安全通讯，包括新闻、快乐角落、您的每周网络猫等等. 它每周日发送.
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa) .  10 条信息安全新闻的每日摘要，不一定会引起很多关注.
 - [tl;dr sec](https://tldrsec.com/) . 每周提炼最佳安全工具、博客文章和会议演讲，涵盖 AppSec、云和容器安全、DevSecOps 等.
-- [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
+- [Advisory Week](https://advisoryweek.com/) . 包含主要软件供应商发布的安全建议综述的每周电子邮件.
 
 ## Miscellaneous
 
@@ -430,7 +430,7 @@
 - [Startup Watching](https://startupwatching.com/) . 为初创公司精心策划的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术爱好者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自 Reddit 最佳帖子的关于创业、成长、投资和初创公司的前沿新闻.
-- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简短时事通讯. 每一期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
+- [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周发送一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.
