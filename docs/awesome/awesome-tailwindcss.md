@@ -66,16 +66,9 @@
 -  [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - 添加基于媒体查询和/或 CSS 选择器的主题变体.
 -  [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 添加基于单个`theme` 属性的主题变体.
 -  [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - 使用 CSS 变量进行主题化，支持媒体查询.
--  [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
--  [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的 `dark` 变体.
--  [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 基于`prefers-color-scheme` 媒体查询添加`dark` 变体.
 -  [Themeable](https://github.com/upupming/tailwindcss-themeable) - 为 Tailwind CSS 添加了多个主题支持.
 -  [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
--  [Gap](https://github.com/benface/tailwindcss-gap) - 添加 `gap` 实用程序.
--  [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - 添加“纵横比”实用程序.
 -  [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - 利用 Tailwind CSS 的配置来允许创建实用程序.
--  [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - 根据配置的颜色添加`box-shadow`实用程序.
--  [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - 添加了`text-indent` 实用程序.
 -  [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - 添加“图像渲染”实用程序.
 -  [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - 添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 公用事业.
 -  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - 添加`writing-mode`实用程序.
@@ -96,27 +89,19 @@
 -  [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - 为背景、边框和文本添加各种品牌颜色.
 -  [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - 生成 Bootstrap 风格的 flexbox 网格系统.
 -  [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - 添加实用程序来修剪文本空白，使用 [Capsize](https://github.com/seek-oss/capsize).
--  [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - 添加了`text-decoration-color` 实用程序.
 -  [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - 为可视化隐藏滚动条添加了 `scrollbar-hide` 类.
 -  [Downwind CSS Easings](https://github.com/downwindcss/easings) - 扩展了`transition-timing-function` 实用程序.
 -  [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - 为内容占位符图像添加实用程序.
 -  [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - 公开 `scrollbar-none` 以在视觉上隐藏滚动条.
--  [Scroll Behavior](https://github.com/lukewarlow/tailwind-scroll-behavior) - 添加 `scroll-smooth` 和 `scroll-auto` 类来控制平滑滚动.
--  [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - 添加强调色实用程序.
--  [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
--  [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
 -  [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
--  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - 添加了`RTL` 和`LTR` 变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
--  [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体.
 -  [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅使用特定语言的实用程序.
--  [Important](https://github.com/chasegiunta/tailwindcss-important) - 添加了一个“重要”变体.
 -  [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加用于匹配嵌套边框半径的变体.
 -  [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 -  [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 提供样式列表和`的实用程序<summary> ` 标记.
 -  [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - 为 Tailwind CSS 默认没有的伪类和伪元素添加变体.
 -  [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
--  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 成分.
+-  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 -  [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加了一个“响应式嵌入”组件.
 -  [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 基于 Bootstrap 的表格添加表格组件.
 -  [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.
@@ -149,6 +134,20 @@
 -  [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) - 添加“混合模式”实用程序.
 -  [Colorize](https://github.com/philippbosch/tailwindcss-colorize) - 添加`过滤器`实用程序.
 -  [Scroll Snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - 添加了 `scroll-snap` 实用程序.
+-  [Scroll Behavior](https://github.com/lukewarlow/tailwind-scroll-behavior) - 添加 `scroll-smooth` 和 `scroll-auto` 类来控制平滑滚动.
+-  [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - 添加强调色实用程序.
+-  [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - 添加了`text-indent` 实用程序.
+-  [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - 添加了`text-decoration-color` 实用程序.
+-  [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
+-  [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
+-  [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - 添加“纵横比”实用程序.
+-  [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - 根据配置的颜色添加`box-shadow`实用程序.
+-  [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体实用程序.
+-  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - 添加了`RTL` 和`LTR` 变体.
+-  [Important](https://github.com/chasegiunta/tailwindcss-important) - 添加了一个“重要”变体.
+-  [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
+-  [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的 `dark` 变体.
+-  [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 基于`prefers-color-scheme` 媒体查询添加`dark` 变体.
 -  [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - 为现有颜色添加不透明度变体.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - 向 Tailwind CSS 的配置添加自定义变体.
 -  [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - 添加一个微调组件.
@@ -184,7 +183,7 @@
 -  [tailwind.run](https://tailwind.run) - 带有内置功能的 Tailwind CSS 小提琴（在线）.
 -  [tailzilla.app](https://tailzilla.app) - Tailwind CSS 的在线游乐场.
 -  [Flowrift](https://flowrift.com) - 设计精美的 Tailwind CSS UI 块.
--  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind 类的前缀工具.
+-  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
 -  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - 通过建议最匹配的类将 CSS 转换为 Tailwind CSS.
 -  [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap 到 Tailwind CSS 转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) - 用于将 HTML 文件从 Tailwind CSS v0.x 升级到 v1.0 的转换工具.
@@ -240,7 +239,7 @@
 -  [tails](https://github.com/thedevdojo/tails) - 使用 Tailwind CSS 手工制作的模板和组件.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
--  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
+-  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
 -  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - 越来越多的文本/图像卡收藏.
 -  [Tailwind Templates](https://www.tailwindtemplates.io) - 模板和组件的集合.

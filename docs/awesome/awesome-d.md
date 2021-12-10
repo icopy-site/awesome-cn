@@ -336,6 +336,7 @@
 *用 D 编写的操作系统*
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) - 用 D 编写的内核 
+* [SerpentOS](https://serpentos.com/) - Snek工厂（[source code](https://gitlab.com/serpent-os))
 * [Trinix](https://github.com/Rikarin/Trinix) - 用 D 编写的 x64 PC 混合操作系统
 * [XOmB](https://github.com/xomboverlord/xomb) - 一个用 D 编写的 exokernel 操作系统
 

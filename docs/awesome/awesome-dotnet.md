@@ -275,7 +275,7 @@
 
 ## Database
 
-* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元组存储
+* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元存储
 * [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze 数据库是一个开源的嵌入式键值存储
 * [Event Store](https://github.com/EventStore/EventStore) - 在 JavaScript 中具有复杂事件处理功能的开源函数式数据库
 * [LiteDB](https://github.com/mbdavid/LiteDB) - 单个数据文件中的 .NET NoSQL 文档存储 - https://www.litedb.org
@@ -335,7 +335,7 @@
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) 组件和拓扑. 为分布式和容错事件流处理提供高级抽象.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - 用于构建分布式应用程序的可插拔基础块.
 * [MBrace](https://github.com/mbraceproject) - 云的集成数据脚本
-* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - 用于 Golang 和 C 的超快速分布式 Actor#
+* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - 原型演员 - Golang 和 C 的超快速分布式演员#
 
 ## DLR
 
@@ -526,7 +526,7 @@
 
 * [ImageResizer](https://imageresizing.net/)  - 将命令添加到图像 URL 以在几毫秒内获得更改的版本. 实时调整图像大小、编辑等.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - 用于即时操作图像的开源 .NET 库.
-* [ImageSharp](https://github.com/SixLabors/ImageSharp) - 用于处理图像文件的完全托管的跨平台库.
+* [ImageSharp](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
 * [DynamicImage](https://dynamicimage.apphb.com/) - 用于 ASP.NET 的高性能开源图像处理库.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - 从图像文件中提取 Exif、IPTC、XMP、ICC 和其他元数据.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - OpenCV 库的跨平台 .NET 包装器.
@@ -669,6 +669,7 @@
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - libvlc 的 Xamarin 绑定，为 VideoLAN 制作的 VLC 应用程序提供支持的多媒体框架.
 * [NAudio](https://github.com/naudio/NAudio) - 播放、解码和编码多种文件格式的音频，如 MP3、MP4、WAV、AIFF、Speex 等.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **[$]**
+* [SeeShark](https://github.com/vignetteapp/SeeShark) - .NET 的跨平台相机库，使用 FFmpeg 支持超过 190 像素格式
 
 ## Metrics
 
@@ -805,7 +806,7 @@
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - .NET 包管理器
-* [BaGet](https://github.com/loic-sharma/BaGet/) - 跨平台、轻量级的 NuGet 和 Symbol 服务器
+* [BaGet](https://github.com/loic-sharma/BaGet/) - 跨平台的轻量级 NuGet 和 Symbol 服务器
 * [Cloudsmith](https://cloudsmith.com/nuget-feed/)  - 完全托管的包管理 SaaS，支持 NuGet、Npm、Docker 等.  **[公共/OSS免费]** **[$]**
 * [MyGet](https://www.myget.org/)  - NuGet、NPM、Bower 和 VSIX 的托管包存储库. 还提供 CI 即服务.  **[$]**
 * [Paket](https://github.com/fsprojects/Paket)  - .NET 的包依赖管理器，支持 NuGet 包和 GitHub 存储库.  https://fsprojects.github.io/Paket/
@@ -818,7 +819,7 @@
 * [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，允许您创建、改编、检查和维护便携式文档格式 (PDF)**[$]** **[OSS 免费]**
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer 是一个基于 PDFium 项目的 PDF 查看器.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
-* [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) . 一种 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可用于轻松包含到您的项目中.**[$]**
+* [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) . 一个 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可用于轻松包含到您的项目中.**[$]**
 * [QuestPDF](https://www.questpdf.com/) - QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API.
 
 ## Profiler
@@ -1068,8 +1069,8 @@
 
 ## Web Servers
 
-* [Kestrel](https://github.com/aspnet/KestrelHttpServer) - 基于 libuv 的 ASP.NET Core Web 服务器
-* [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+* [Kestrel](https://github.com/aspnet/KestrelHttpServer) - 基于 libuv 的 ASP.NET Core 网络服务器
+* [EmbedIO](https://github.com/unosquare/embedio) - 基于 Mono 和跨平台构建的 Web 服务器
 * [XSP](https://github.com/mono/xsp)  - Mono 的 ASP.NET 托管服务器. 该模块包括一个 Apache 模块，一个可以连接到其他 Web 服务器的 FastCGI 模块以及用于测试的独立服务器（类似于微软的 Cassini）
 
 ## WebSocket
