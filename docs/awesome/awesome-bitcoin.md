@@ -32,7 +32,7 @@
 * [Smartbit](https://www.smartbit.com.au)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - 自托管支付网关.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Chainradar 的区块链资源管理器 API.
-* [One-Time Address](https://github.com/alexk111/One-Time-Address) 分享您的比特币地址的更好方式.
+* [One-Time Address](https://github.com/alexk111/One-Time-Address) 分享您的比特币地址的更好方法.
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/)  JSON REST API（免费和付费），可访问市场数据. 还可以下载 CSV 数据文件.
@@ -71,6 +71,7 @@
 * [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) - 用于 node.js 和浏览器的 Javascript 比特币库.
+* [Libauth](https://libauth.org/) – 轻量级、零依赖、JavaScript/TypeScript 比特币库.
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
@@ -118,6 +119,7 @@
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe：阻止比特币和类似货币的浏览器.
 * [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) - 适用于 Azure 云平台的可扩展且容错的区块链索引器.
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - 图形数据库生成器.
+* [Chaingraph](https://github.com/bitauth/chaingraph/) – 多节点区块链索引器和 GraphQL API.
 
 ## Full nodes
 * [btcd](https://github.com/btcsuite/btcd/) - 自 2013 年以来基于 Go 的完整节点.

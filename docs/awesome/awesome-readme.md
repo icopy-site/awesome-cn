@@ -5,19 +5,19 @@
 ## Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 &gt; 精选自述文件列表
 
-漂亮的 README 中的元素包括但不限于：图片、截图、GIF、文本格式等.
+漂亮的 README 中的元素包括但不限于：图像、截图、GIF、文本格式等.
 
 ## Examples
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - 项目标识、清晰的描述、截图、安装步骤说明.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图.  TOC 便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 徽章、项目GIF、简明描述、快速链接、逐步安装说明.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用. 动图演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用. 动图演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简描述. 项目的GIF演示. 主要特点. 如何安装指南. 学分.
-- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 附有示意图的项目的清晰概述. 动图演示. 广泛的代码示例.
+- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 带有解释图形的项目和用例描述. 使用多种工具和集成说明构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题.  TOC 便于导航.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - 丰富的 Markdown 功能，现代布局，清晰的描述，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的截图. 简单的安装说明.  TOC 便于导航. 良好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 折叠上方的漂亮小菜单带有有用的链接. 主要问题的常见问题解答. 支持者. 语言好.
@@ -45,7 +45,7 @@
 - [node-chat](https://github.com/IgorAntun/node-chat#readme)  - 项目截图. 信息徽章. 清晰的描述. 易于安装/使用说明. 现场演示.
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme)  - 项目标志. 动图演示. 使用艺术品. 使用代码示例.
 - [OliverOverend/gym-simplifiedtetris](https://github.com/OliverOverend/gym-simplifiedtetris#readme)  - GIF 演示. 项目的简短描述. 徽章. 目录. 安装和使用说明，带有可复制粘贴的注释和依赖项. 贡献文件. 提供的环境和代理概述.
-- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 多个徽章、项目标志、屏幕截图、分步安装和升级说明、易于导航的目录.
+- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 多个徽章、项目标志、屏幕截图、分步安装和升级说明、易于导航的TOC.
 - [PostHog/posthog](https://github.com/PostHog/posthog#readme) - 定制版块图标、演示 GIF、部署按钮、贡献者的个人资料图片、简洁、清晰的结构、项目徽标.
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  - TOC 便于导航. 清楚地介绍项目的作用. 存储库中所有文件的完整列表及其功能. 使用部分. 干净简洁的桌子.
 - [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme)  - 动态统计. 黑白主题. 抛光布局. 包含贡献和当前项目的快速、可浏览的表格. 将技术徽章链接到主页. 图像中的秘密隐写术.
@@ -61,12 +61,14 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 建立徽章. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制的号召性用语徽章. 使用展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁徽标. 关于发展的简要更新. 详细的贡献指南. 贡献建议.
-- [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 屏幕截图、表情符号的使用.
+- [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 截图、表情符号的使用.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 安装分步说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多说明性的例子.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  - 项目标志. 有用的徽章和链接（网站、文档、演示）. 截屏. 功能列表. 安装、开发和测试的分步说明. 链接到贡献指南. 不错的手机总结.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme)  - 项目徽标、认知漏斗、动画示例. 颜色协调. 清洁文档.
 - [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme)  - 原创英雄部分. 清晰的导航. 极简设计. 附录.
+- [zenml-io/zenml](https://github.com/zenml-io/zenml#readme)  - 清洁项目标志. 有用的目录. 功能列表中的清晰代码示例. 快速入门示例.
+
 
 ## Articles
 
@@ -78,7 +80,7 @@
 
 ## Tools
 
-- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+- [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - 有用的 README.md、LICENSE、CONTRIBUTING.md、CODE_OF_CONDUCT.md、SECURITY.md、GitHub 问题、拉取请求和操作模板来快速启动您的项目.
 - [Common Readme](https://github.com/noffle/common-readme#readme)  - Node.js 的常见自述样式. 包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - 自述文件编辑和项目分析/反馈.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  - 帮助在 README 上显示对 repo 贡献者的认可. 具有新的/趋势/顶级贡献者. 每小时更新一次.
