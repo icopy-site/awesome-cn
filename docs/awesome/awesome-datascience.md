@@ -18,8 +18,8 @@
  | 链接 | 预览 |
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合数据的技术、算法开发、数据干扰等多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学课程中._ |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才. 这种模式在 1990 年代后期被搜索工程师重复使用，他们的精湛技能很快就被教授到计算机科学课程中._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是将成熟的统计学学科与非常年轻的学科——计算机科学结合起来的故事.  “数据科学”一词是最近才出现的，专门用来指代一个新的职业，该职业有望理解海量的大数据存储. 但是理解数据有着悠久的历史，多年来一直被科学家、统计学家、图书馆员、计算机科学家和其他人讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、定义和相关术语的尝试._ |
@@ -199,7 +199,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，带有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code） |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code）|
 | [Neptune.ai](https://neptune.ai) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
 | [steppy](https://github.com/neptune-ml/steppy)  | 用于快速且可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
 | [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
@@ -215,10 +215,10 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [SciPy](https://www.scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供有效的例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
 | [Data Science Toolbox](http://datasciencetoolbox.org/)  | 博客 |
-| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 获取数值、文本、图像、GIS 或其他数据并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由革命性的基于知识的 Wolfram 语言提供支持.  |
+| [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 获取数值、文本、图像、GIS 或其他数据并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由基于革命性知识的 Wolfram 语言提供支持.  |
 | [Datadog](https://www.datadoghq.com/)  | 用于大规模数据科学的解决方案、代码和 DevOps.  |
 | [Variance](http://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
-| [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
+| [Kite Development Kit](http://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统上构建系统变得更容易.  |
 | [Domino Data Labs](http://www.dominodatalab.com)  | 运行、扩展、共享和部署您的模型——无需任何基础设施或设置.  |
 | [Apache Flink](http://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](http://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
@@ -401,7 +401,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [ICML](http://icml.cc/2015/) - 机器学习国际会议
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议 (GECCO)
 - [epjdatascience](http://epjdatascience.springeropen.com/)
-- [Journal of Data Science](http://www.jds-online.com/) - 致力于广泛应用统计方法的国际期刊
+- [Journal of Data Science](http://www.jds-online.com/) - 致力于统计方法应用的国际期刊
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
 - [Journal of Big Data](http://journalofbigdata.springeropen.com/)
 - [Big Data & Society](http://journals.sagepub.com/home/bds)
@@ -427,8 +427,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ## Podcasts
 
-- [Adversarial Learning](http://adversariallearning.com/)
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
+- [Adversarial Learning](http://adversariallearning.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
 - [Data Crunch](http://vaultanalytics.com/datacrunch/)
@@ -449,10 +450,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Partially Derivative](http://partiallyderivative.com/)
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [The Data Engineering Show](https://www.dataengineeringshow.com/)
+- [The Radical AI Podcast](https://www.radicalai.org/)
 - [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
-
 
 ## Books
 

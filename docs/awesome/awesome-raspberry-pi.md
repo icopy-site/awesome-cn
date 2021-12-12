@@ -66,9 +66,9 @@
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [OpenELEC](http://openelec.tv/) - 打开嵌入式 Linux 娱乐中心，这是一个非常轻量级的 Kodi 构建.
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) - OpenHAB 家庭自动化软件的预配置版本. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
-- [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络附加存储 (NAS) 解决方案，其中包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络附加存储 (NAS) 解决方案，包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，其映像基于其稳定版 Leap 和滚动版 Tumbleweed. 可以找到许多 Pis 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4). 
-- [OpenWRT](https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
+- [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
 - [OSMC](https://osmc.tv/) - 基于 Kodi 的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型 DVS 系统，允许您控制带有时间码黑胶唱片的数字音乐文件.
 - [PiNet](http://pinet.org.uk/) - 管理树莓派教室的系统.
@@ -125,7 +125,7 @@
 
 ## Projects
 
-- [40-node Raspberry Pi Cluster](http://hackaday.com/2014/02/17/40-node-raspi-cluster/) - 集群旨在低于全塔桌面的大小.
+- [40-node Raspberry Pi Cluster](http://hackaday.com/2014/02/17/40-node-raspi-cluster/) - 集群旨在低于全塔式桌面的大小.
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - 具有广告/跟踪器/其他阻止、IP 地址重定向和 DNS-over-HTTPS 的 DNS 中继站.
 - [BeeMonitor](https://beemonitor.org/setup/) - 蜂巢监测项目.
 - [Bitcoin Tracker](https://github.com/jonathanrjpereira/Bitcoin-Bar) - 一个实时显示比特币统计数据的物理仪表板. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
@@ -133,7 +133,7 @@
 - [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - 使用 Docker、Resin 和 3G 互联网远程部署延时摄影机.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - 为在学校使用 Chromebook 的学生提供定时充电站.
 - [Ceil](https://github.com/helmuthva/ceil) - 在裸机上运行 K8S 的自动配置的 RPi 集群. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [Circle](https://github.com/rsta2/circle) - 用于 Raspberry Pi 的 C++ 裸机环境.
+- [Circle](https://github.com/rsta2/circle) - 树莓派的 C++ 裸机环境.
 - [clockOS](https://github.com/iGerli/clockOS) - 使用 Raspberry Pi 显示器的简单智能桌面时钟.
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - Google 员工的一个开源项目，旨在将 Raspberry Pi 变成一个简单、小巧的个人 Web 服务器和基于 Web 的开发环境.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky 被几乎任何带有 USB 端口的设备识别为 USB HID，从而允许您像运行键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
@@ -280,7 +280,7 @@
 - [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - 无需以太网/wifi 连接、键盘或屏幕即可通过 USB 电缆启动和访问 Raspberry Pi Zero 的指南. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - 设置 Plex 媒体服务器以流式传输所有媒体内容的初学者指南.
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) - 设置 pi0 以便能够通过 USB ssh 和 vnc. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
-- [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - 有关在多个网络中使用 Raspberry Pi 的教程.
+- [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - 在多个网络中使用 Raspberry Pi 的教程.
 - [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) - 在 Raspberry Pi 上观看 Netflix 的教程.
 - [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 

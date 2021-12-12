@@ -159,7 +159,6 @@
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - 电梯配置器.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - 背包配置器.
-- [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - 检重机可视化器.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
 - [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - 万宝龙钢笔、手表、钱包和耳机的产品可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - 壁橱配置器.
