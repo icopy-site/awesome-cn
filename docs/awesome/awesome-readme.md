@@ -5,17 +5,17 @@
 ## Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 &gt; 精选自述文件列表
 
-漂亮的 README 中的元素包括但不限于：图像、截图、GIF、文本格式等.
+漂亮的 README 中的元素包括但不限于：图片、截图、GIF、文本格式等.
 
 ## Examples
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [ai/size-limit](https://github.com/ai/size-limit#readme) - 项目标识、清晰的描述、截图、安装步骤说明.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图.  TOC 便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 徽章、项目GIF、简明描述、快速链接、逐步安装说明.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用. 动图演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用. 动图演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简描述. 项目的GIF演示. 主要特点. 如何安装指南. 学分.
-- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 附有示意图的项目的清晰概述. 动图演示. 广泛的代码示例.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 带有解释图形的项目和用例描述. 使用多种工具和集成说明构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题.  TOC 便于导航.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - 丰富的 Markdown 功能，现代布局，清晰的描述，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的截图. 简单的安装说明.  TOC 便于导航. 良好的贡献者指南.
@@ -59,9 +59,9 @@
 - [shama/gaze](https://github.com/shama/gaze#readme)  - 项目标志. 简明描述. 功能列表. 使用部分. 常问问题. 很棒的 AP​​I 文档. 发布历史.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme)  - 概述. 所需依赖项列表. 存储库中所有文件的完整列表及其功能. 这一切如何联系在一起的可视化图表.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 建立徽章. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分.
-- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制的号召性用语徽章. 使用展示.
+- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme) - Clean animated screenshot. Customized call to action badge. Usage showcase.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁徽标. 关于发展的简要更新. 详细的贡献指南. 贡献建议.
-- [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 截图、表情符号的使用.
+- [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 屏幕截图、表情符号的使用.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 安装分步说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多说明性的例子.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  - 项目标志. 有用的徽章和链接（网站、文档、演示）. 截屏. 功能列表. 安装、开发和测试的分步说明. 链接到贡献指南. 不错的手机总结.
@@ -83,12 +83,13 @@
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - 有用的 README.md、LICENSE、CONTRIBUTING.md、CODE_OF_CONDUCT.md、SECURITY.md、GitHub 问题、拉取请求和操作模板来快速启动您的项目.
 - [Common Readme](https://github.com/noffle/common-readme#readme)  - Node.js 的常见自述样式. 包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - 自述文件编辑和项目分析/反馈.
-- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  - 帮助在 README 上显示对 repo 贡献者的认可. 具有新的/趋势/顶级贡献者. 每小时更新一次.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/)  - 编写自述文件的指南. 包括带有实时 Markdown 渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - 一个可以复制粘贴 README.md 的地方
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - 生成漂亮的 README.md 文件的 CLI
 - [Readme.so](https://readme.so/) - 一个简单的编辑器，可让您快速添加和自定义项目自述文件所需的所有部分.
 - [READMINE](https://github.com/mhucka/readmine)  - 用于软件项目的全面、清晰和自描述的 README 文件模板； 复制它并根据需要进行编辑.
+- [StackEdit](https://stackedit.io/) - 一个用户友好的在线编辑器，可让您快速自定义项目自述文件所需的所有部分.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme)  - 标准的 README 样式规范. 也有一个生成器来帮助创建符合规范的自述文件.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - 帮助您涵盖所有基础知识的简单模板.
 

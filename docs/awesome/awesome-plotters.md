@@ -69,13 +69,14 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 
 - [grbl](https://github.com/grbl/grbl) - 用于 Atmega 328 微控制器和 Arduino 的高性能 G 代码解释固件.
 - [cncjs](https://github.com/cncjs/cncjs) - 基于 Web 的界面控制运行 grbl、TinyG 或其他基于 G 代码的固件的 CNC 机器.
-- [node-gcode](https://github.com/ryansturmer/node-gcode) - 基于 Node.js 的 G 代码解释器和模拟器.
-- [svg2gcode](https://github.com/em/svg2gcode) - 基于 Node.js 的命令行实用程序，用于将 SVG 转换为 G 代码.
-- [svg2gcode](https://github.com/vishpat/svg2gcode) - 基于 Python 的实用程序，用于快速 SVG 到 G 代码的转换.
+- [node-gcode](https://github.com/ryansturmer/node-gcode) - Node.js G 代码解释器和模拟器.
+- [svg2gcode](https://github.com/em/svg2gcode) - 用于将 SVG 转换为 G 代码的 Node.js 命令行实用程序.
+- [svg2gcode](https://github.com/vishpat/svg2gcode) - 用于快速 SVG 到 G 代码转换的 Python 实用程序.
 - [jscut](http://jscut.org/) - 用于将 SVG 转换为 G 代码的基于 Web 的实用程序.
 - [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - 基于 Java 的 grbl 兼容的跨平台 G 代码发送器.
 - [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - 基于 Web 的模块化工作区，用于可视化 G 代码和控制硬件.
 - [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing)  - 处理库，旨在从简单的形状创建 gcode.  （专为与 Creality CR10 一起使用而设计）
+- [gcodeplot](https://github.com/arpruss/gcodeplot) - 用于将 SVG 和 HPGL 转换为 3 轴 CNC 机床的 G 代码的 Python 实用程序.
 
 ### Plotter-Specific
 
@@ -116,7 +117,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [penkit](https://github.com/paulgb/penkit) - 用于创建基于行的 SVG 图形的 Python 库.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - 生成可打印 PDF 的示例处理代码.
 - [Let's make map](https://svg-exporter.netlify.com) - 基于 Web 的工具，用于从 Mapzen 切片导出 SVG 地图.
-- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 生成式线条艺术网络应用程序.
+- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 一个生成的线条艺术网络应用程序.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - 处理中的涂鸦图像转换.
 - [Maker.js](https://maker.js.org) - 用于为 CNC 和激光切割机创建 2D 矢量绘图的库.
 - [Turtletoy](https://turtletoy.net) - 带有 SVG 导出的基于浏览器的 JavaScript 海龟图形 API.
@@ -156,7 +157,7 @@ HPGL 是一种基于串行/文本的协议，被大多数旧的笔式绘图仪�
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪的快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣算法的详细解释和示例.
-- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图师.
+- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图仪艺术家.
 - [Hektor](http://juerglehni.com/works/hektor) - 2002 年的原始基于电缆的绘图机器人.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 创建用于绘图的生成图形的两部分介绍.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - 使用 Python 和 Penplot 深入研究表面投影和隐藏线去除.

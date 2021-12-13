@@ -166,6 +166,7 @@
 * [Building Secure and Reliable Systems](https://landing.google.com/sre/book.html)
 * [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering/)
 * [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
+* [Four Steps to Creating Effective Game Day Tests](https://shopify.engineering/four-steps-creating-effective-game-day-tests)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
@@ -240,6 +241,7 @@
 * [How maintenance windows affect your error budget](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
 * [The Production Readiness Spectrum](https://dastergon.gr/posts/2020/09/the-production-readiness-spectrum/)
 * [How we’re building a production readiness review process at Grafana Labs](https://grafana.com/blog/2021/10/13/how-were-building-a-production-readiness-review-process-at-grafana-labs/)
+* [Resiliency Planning for High-Traffic Events](https://shopify.engineering/resiliency-planning-for-high-traffic-events)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -359,6 +361,7 @@
 * [Our incident postmortem template](https://www.hostedgraphite.com/blog/incident-postmortem-template)
 * [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
 * [Improving Postmortem Practices with Veteran Google SRE, Steve McGhee](https://www.blameless.com/improve-postmortem-with-sre-steve-mcghee/)
+* [Inhumanity of Root Cause Analysis](https://www.verica.io/blog/inhumanity-of-root-cause-analysis/)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
@@ -411,6 +414,10 @@
 * [How We Use Sloth to do SLO Monitoring and Alerting with Prometheus](https://mattermost.com/blog/sloth-for-slo-monitoring-and-alerting-with-prometheus/)
 * [SLI Deep Dive](https://medium.com/site-reliability-engineering-leadership/sli-deep-dive-cae92bd90a79)
 * [Measuring Reliability in GCP: Step By Step SLO creation guide using Cloud Operation Sandbox](https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f)
+* [SLO tracker](https://slotracker.com/)
+* [SLO Alerting for Mortals](https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/)
+* [SRE methods and climate change](https://bpetit.nce.re/2021/03/sre-methods-and-climate-change/)
+* [What made SLOs so messy (and what we can do about it)](https://medium.com/lightstephq/what-made-slos-so-messy-and-what-we-can-do-about-it-89be415a80b3)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -496,7 +503,7 @@
 
 ## Twitter
 * [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE 推特账户.
-* [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书籍的官方推特账号.
+* [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书的官方推特账号.
 * [SREcon](https://twitter.com/SREcon) - SRECon 的官方推特账号.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作簿的官方 Twitter 帐户.
 * [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自 SRE 的相关帖子 [dev.to](https://dev.to).

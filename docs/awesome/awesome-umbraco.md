@@ -45,6 +45,11 @@
 * [Plumber](https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/) - 向 Umbraco 添加了大量有用的零碎内容，以允许多阶段工作流批准.
 * [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - 让您在 Umbraco 内部处理翻译过程的所有步骤.
 * [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/hot-chilli-page-not-found-manager) - 从 Umbraco 管理您的网站 404 页面.
+* [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - 为 Umbraco 重定向经理.
+* [SimpleRedirects](https://our.umbraco.com/packages/backoffice-extensions/simpleredirects/) - 为 Umbraco 重定向经理.
+* [Newsletter Studio*](https://our.umbraco.com/packages/backoffice-extensions/newsletter-studio-the-email-studio/) - 响应式电子邮件编辑器可为所有客户创建电子邮件.
+* [Backoffice Themes](https://our.umbraco.com/packages/backoffice-extensions/backoffice-themes/) - 允许在后台选择您自己的主题.
+* [MemberListView](https://our.umbraco.com/packages/backoffice-extensions/memberlistview/) - 为会员区添加仪表板，以便于管理.
 
 ### Form Builders
 
@@ -54,11 +59,12 @@
 
 * [Meganav](https://our.umbraco.com/packages/backoffice-extensions/umbnav/) - 一个灵活的、可拖动的链接选择器，用于构建大大小小的站点导航菜单.
 * [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - 一个简单的属性编辑器，可替代核心真/假数据类型.
+* [Open or closed](https://our.umbraco.com/packages/backoffice-extensions/open-or-closed/) - 允许设置营业时间的属性编辑器.
 
 ## Developer tools
 
 * [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - 用于将数据库元素读取和写入磁盘的同步工具.
-* [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - 为 Umbraco 重定向经理.
+* [Diplo God Mode](https://our.umbraco.com/packages/developer-tools/diplo-god-mode/) - 为开发人员公开了大量信息.
 
 ### Deployment
 
@@ -70,6 +76,11 @@
 ## Starter Kits
 
 * [Clean Starter Kit](https://our.umbraco.com/packages/starter-kits/clean-starter-kit/) - 干净简单的网站开始使用
+
+## Website Utilities
+
+* [InboundLinkErrors](https://our.umbraco.com/packages/website-utilities/inbound-link-errors/) - 跟踪 404 响应，以便您可以轻松添加新的重定向.
+* [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - 为您的网站设置搜索的快速简便方法.
 
 ## Code Libraries
 

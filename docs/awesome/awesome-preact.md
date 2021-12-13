@@ -31,10 +31,10 @@
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - 用于使用 Preact 构建 SPA / PWA / 离线前端应用程序的 Webpack2 样板.
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Preact with TypeScript 的准系统入门项目.
 - [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) - 带有 TypeScript 和 SASS 的 PWA Starter (131kb)
+- [Electron TypeScript Preact Boilerplate](https://github.com/yoctopuce-examples/electron-typescript-preact-boilerplate) - 支持 TypeScript 和 Preact 的 Electron 入门项目，由 esbuild 提供支持.
 - [Preact Modern Startupper](https://github.com/kolodziejczakM/preact-modern-startupper) - 支持 TypeScript、Goober、Unistore 和 Plop 的 PWA 样板.
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例进行服务器端渲染.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA 专注于原始性能、服务器端渲染、预渲染、redux、express、汇总.
-- [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - 绝对最小的 Preact 入门项目，由 Parcel 提供支持.
 - [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - 全功能 Preact Chrome 扩展入门套件.
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ 带有 Preact 的 WebExtension Vite 入门模板.
 
@@ -57,10 +57,10 @@
 - [Preact Cycle](https://git.io/preact-cycle) - Preact 的功能反应范式.
 - [Preact Layout](https://download.github.io/preact-layout/) - 小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact 插件 [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 用 [flyd](https://github.com/paldepind/flyd) Preact + JSX 中的 FRP 流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 利用 [flyd](https://github.com/paldepind/flyd) Preact + JSX 中的 FRP 流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) - 整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过 Preact [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) - MUI CSS Preact 库.
-- [Preact MDL](https://git.io/preact-mdl) - 用 [MDL](https://getmdl.io) 作为 Preact 组件.
+- [Preact MDL](https://git.io/preact-mdl) - 利用 [MDL](https://getmdl.io) 作为 Preact 组件.
 - [Preact Photon](https://git.io/preact-photon) - 构建漂亮的桌面用户界面 [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - 创建没有 class 关键字的预制组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - 用于创建元素的类似 Hyperscript 的语法.
@@ -69,7 +69,7 @@
 - [Preact Helmet](https://github.com/download/preact-helmet) - Preact 的文档主管.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - 委托 DOM 事件.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - 跳过组件的服务器端渲染.
-- [Preact Head](https://github.com/matthewmueller/preact-head)  - 独立的，声明式的 \<Head /\> 对于 Preact.
+- [Preact Head](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) - 创建其嵌套道具更改映射到全局副作用的组件.
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact 与 [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) - 实时更新 Preact 的 leveldb 列表组件.
@@ -93,7 +93,7 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - 提供了一个用于创建 preact 组件的替代 api，深受 elm 的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) - 零学习曲线的 React、Preact 和 Inferno 快速轻松的状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 用 [urql](https://github.com/FormidableLabs/urql) 带有 Preact 核心 + 挂钩.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 利用 [urql](https://github.com/FormidableLabs/urql) 带有 Preact 核心 + 挂钩.
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head)  - 操纵`的钩子<head> ` DOM 部分. 它有一个带有核心 preact 支持的子包（使用 `preact/hooks`）.
 - [Teaful](https://github.com/teafuljs/teaful) - Tiny (800B)、简单而强大的 (P)React 状态管理.
 - [Nano Stores](https://github.com/nanostores/nanostores) - 具有许多原子树可摇动存储的小型（199 字节）状态管理器.
@@ -117,7 +117,7 @@
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) - 用于将 Hacker News 构建为 PWA 的 Preact 演示.
 - [TodoMVC](https://github.com/developit/preact-todomvc)  - 在 Preact 中完成的 TodoMVC. 低于 6kb 且速度很快.
-- [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
+- [Colors App](https://github.com/lukeed/colors-app)  - PWA 用于从流行的调色板复制值. 支持 HEX、RGB 和 HSL 格式.
 - [Tracks](https://github.com/jordic/tracks_preact/)  - 用于跟踪一般事物的 PWA.  Gdrive 同步.
 - [Hueify](https://github.com/kvartborg/hueify) - 飞利浦 Hue 灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) - 足球数据 mnmlist 方式.
@@ -129,7 +129,7 @@
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact 提高了速度.
 - [**ESBench**](http://esbench.com) 是使用 Preact 构建的.
 - [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
-- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
+- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃子：
 - [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
 - [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
 - [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：

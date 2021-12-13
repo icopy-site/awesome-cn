@@ -26,7 +26,7 @@ Git 备忘单可以让您免于背诵所有命令.
 
 <hr>
 
-Git 备忘单英文
+Git备忘单英文
 ===============
 ### Index
 
@@ -56,12 +56,12 @@ $ git config --system --list
 
 ##### Set a name that is identifiable for credit when review version history:
 ```
-$ git config --global user.name “[firstname lastname]”
+$ git config --global user.name &quot;[名字姓氏]&quot;
 ```
 
 ##### Set an email address that will be associated with each history marker:
 ```
-$ git config --global user.email “[valid-email]”
+$ git config --global user.email &quot;[valid-email]&quot;
 ```
 
 ##### Set automatic command line coloring for Git for easy reviewing:
@@ -115,12 +115,12 @@ $ git clone http://domain.com/user/repo.git
 
 ##### Create a new local repository in the current directory:
 ```
-$ git初始化
+$ git 初始化
 ```
 
 ##### Create a new local repository in a specific directory:
 ```
-$ git初始化<directory>
+$ git 初始化<directory>
 ```
 
 <hr>
@@ -134,12 +134,12 @@ $ git 状态
 
 ##### Changes to tracked files:
 ```
-$ git diff
+$ git 差异
 ```
 
 ##### See changes/difference of a specific file:
 ```
-$ git diff<file>
+$ git 差异<file>
 ```
 
 ##### Add all current changes to the next commit:
@@ -251,7 +251,7 @@ $ git log -S &#39;关键字&#39;
 
 ##### Show commits that introduced a specific keyword (using a regular expression)
 ```
-$ git log -S &#39;keyword&#39; --pickaxe-regex
+$ git log -S &#39;关键字&#39; --pickaxe-regex
 ```
 
 <hr>
@@ -306,7 +306,7 @@ $ git reflog 删除
 将 Index.txt 重命名为 Index.html
 
 ```
-$ git mv Index.txt Index.html
+$ git mv 索引.txt 索引.html
 ```
 
 <hr>
@@ -582,7 +582,7 @@ $ git reset --hard<commit>
 
 ##### Reset your HEAD pointer to a remote branch current state.
 ```
- $ git reset --hard<remote/branch> 例如，上游/主，起源/我的特征
+ $ git reset --hard<remote/branch> 例如，上游/主，来源/我的特征
 ```
 
 ##### Reset your HEAD pointer to a previous commit and preserve all changes as unstaged changes:

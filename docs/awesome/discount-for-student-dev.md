@@ -69,7 +69,7 @@
 
   * [Tabnine](https://www.tabnine.com/students)  [免费] - Tabnine 是一种 AI 代码完成工具，可在任何 IDE 上运行并支持所有编程语言.  Tabnine 专业版免费 1 年.
 
-  * [Xojo](https://education.github.com/pack/redeem/xojo) [免费] - 一种跨平台开发工具，用于在学生期间免费为 Desktop.Xojo 桌面许可证制作本机应用程序.
+  * [Xojo](https://education.github.com/pack/redeem/xojo) [免费] - 一个跨平台开发工具，用于在学生期间免费为 Desktop.Xojo 桌面许可证制作本机应用程序.
   
   * [Yakindu](https://education.github.com/pack/redeem/yakindu) [免费] - 基于状态机概念的反应式事件驱动系统的规范和开发的集成建模环境.Yakindu 专业版免费 1 年.
 
@@ -173,9 +173,9 @@
 
 * [Heroku](https://heroku.com/github-students) [免费] - 一个灵活、易于使用的平台，用于部署、运行和管理您的应用程序. 一个免费的 Hobby Dyno 最多两年通过 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/)  - Microsoft Azure 是一组不断扩展的云服务，可帮助您构建、管理和部署应用程序. 通过学习云计算技能提升您的想法，并使用免费的 Azure 学生帐户获得 100 美元的信用额度 - 无需信用卡.
+* [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications. Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
 
-* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
+* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [免费] - Kaltura VPaaS 简化了在全球范围内构建智能、交互式 VOD、实时和实时视频体验和应用程序.当您还是学生时，Kaltura VPaaS 学分每年可获得 10,000 美元.
 
 * [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，支持许多开箱即用的语言和 Docker 支持. 每个人可获得 100 美元的免费学分 + 每年通过学生计划获得 1000 美元的免费学分（询问 support@flashdrive.io）
 
@@ -305,13 +305,13 @@
 
 * [Appfigures](https://appfigures.com/landing/github-student)  [免费] - App Store 分析、优化和智能. 免费使用 Grow 计划 1 年.
 
-* [Scrapinghub](https://education.github.com/pack/redeem/scrapinghub)  [免费] - Scrapinghub 的 Scrapy Cloud 是一个经过实战考验的云平台，用于运行网络爬虫. 大规模管理和自动化您的网络蜘蛛.1 免费的 Forever Scrapy Cloud Unit - 无限的团队成员、项目或请求. 无限抓取时间和 120 天数据保留.
+* [Scrapinghub](https://education.github.com/pack/redeem/scrapinghub)  [免费] - Scrapinghub 的 Scrapy Cloud 是一个经过实战考验的云平台，用于运行网络爬虫. 大规模管理和自动化您的网络蜘蛛.1 免费的 Forever Scrapy Cloud Unit - 无限的团队成员、项目或请求. 无限的抓取时间和 120 天的数据保留.
 
 * [Typeform](https://education.github.com/pack/redeem/typeform) [免费] - 互动表格、调查和测验，以吸引和发展您的受众.一年的免费专业计划.
 
 * [Baremetrics](https://education.github.com/pack/redeem/baremetrics-student) [免费] - 适用于 SaaS 和订阅业务的指标、催款和参与工具.当您还是学生时，免费获得高达 250 美元的每月经常性收入的 Baremetrics.
 
-* [CodeScene](https://education.github.com/pack/redeem/codescene-student) [免费] - 一个强大的可视化工具，它使用预测分析来识别代码中的社交模式、检测交付风险和管理技术债务.一个免费的学生帐户来分析私有 GitHub 存储库.
+* [CodeScene](https://education.github.com/pack/redeem/codescene-student) [免费] - 一个强大的可视化工具，它使用预测分析来识别代码中的社交模式、检测交付风险和管理技术债务.一个免费的学生帐户，用于分析私有 GitHub 存储库.
 
 * [Simple Analytics](https://simpleanalytics.com/students) [免费] - 隐私友好的分析，具有简单的界面和 API.Starter 计划，免费一年，包括每月 100k 的页面浏览量.
 
@@ -321,10 +321,12 @@
 
 * [Raygun](https://education.github.com/pack/redeem/raygun)  [免费] - 网络和移动应用程序的错误、崩溃和性能监控. 创业平台计划，免费一年.
 
+* [AnyChart](https://www.anychart.com/buy/non-commercial-license/)  [免费] - 一个灵活的 JavaScript 库，用于为可视化分析创建交互式图表、地图和仪表板. 为学生提供免费许可，用于他们的教育或其他非商业项目.
+
 
 ## Game Development Tools
 
- * [Unity3D](https://education.github.com/pack/redeem/unity) [免费] - 使用世界领先的实时开发平台来完成您的创作目标，该平台曾用于制作世界上一半的游戏.学生期间免费使用Unity Student Plan.
+ * [Unity3D](https://education.github.com/pack/redeem/unity) [免费] - 使用世界领先的实时开发平台来完成您的创作目标，该平台曾用于创作世界上一半的游戏.学生时期免费使用Unity Student Plan.
 
 * [Unreal Game Engine](https://www.unrealengine.com/education)  [免费] - 虚幻引擎 4 是一套完整的游戏开发工具. 从 2D 手机游戏到主机大片和 VR，虚幻引擎 4 为您提供启动、发布、发展和脱颖而出所需的一切. 的一部分 [Github Student Developer Pack](https://education.github.com/pack)
 
@@ -386,7 +388,7 @@
 
 * [next.tech](https://next.tech/github-students)  [免费] - 通过真实的在线计算环境直接从浏览器学习技术技能和构建软件. 免费访问所有交互式课程和云计算环境 12 个月.
 
-* [Educative](https://www.educative.io/github-students)  [免费] - 通过基于文本的交互式课程，按照自己的节奏升级流行的编码技能. 获得 6 个月免费的 60 多门课程，涵盖 Web 开发、Python、Java 和机器学习等热门主题.
+* [Educative](https://www.educative.io/github-students)  [免费] - 通过基于文本的交互式课程，按照自己的节奏升级流行的编码技能. 免费获得 6 个月的 60 多门课程，涵盖 Web 开发、Python、Java 和机器学习等热门主题.
 
 * [Interview Cake](https://www.interviewcake.com/github-students)  [免费] - Interview Cake 通过练习题、数据结构和算法参考页、备忘单等使编码面试变得轻而易举. 参加为期 3 周的完整编码面试准备课程.
 
