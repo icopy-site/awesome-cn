@@ -23,7 +23,7 @@
 
 ### General Web Development
 
-- [Weekend Reading](https://tinyletter.com/assaf) . 关于 Web 开发、设计和创业生活的每周电子邮件.
+- [Labnotes](https://labnotes.org/) . 关于软件开发、技术和其他任何有趣内容的每周电子邮件.
 - [Web Development Reading List](https://wdrl.info) . 本时事通讯分享 Web 开发方面的最新文章.
 - [Fullweb Weekly](http://fullweb.io/) . 面向全栈 Web 开发人员的每周时事通讯. 它每周向您发送有关 Web 前端和后端、DevOps 和用户体验的前 5 个链接.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周时事通讯，讨论有关网络平台的有趣和热门话题. [Archive](https://ponyfoo.com/weekly/history).
@@ -96,7 +96,7 @@
 ### Design
 
 - [Web Design Weekly](https://web-design-weekly.com/) . 只是纯真棒链接到最好的新闻和文章在一周内访问互联网.
-- [Sidebar](https://sidebar.io). Five design-centric posts each day.
+- [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
 - [Web Designer News](https://www.webdesignernews.com) . 为设计师策划的故事.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 免费的、每周一次的响应式设计文章、工具、技巧、教程和鼓舞人心的链接汇总.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 关于界面可用性、网站设计和用户体验研究的最新文章.
@@ -146,7 +146,7 @@
 
 ### ObjectiveC
 
-- [ObjC](https://www.objc.io/) . 免费的月刊，涵盖高级 iOS 和 OS X 开发的最重要方面.
+- [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter) . 一个很棒的 iOS 库的精选列表，包括 Objective-C 和 Swift 项目.
 
 ### C# #
@@ -168,12 +168,12 @@
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter) . 精选的 Swift 库和资源列表.
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/) .  Sundell 每月时事通讯介绍 Swift！
 - [iOS Goodies](https://ios-goodies.com) . 每周 iOS 通讯. [Archive](https://ios-goodies.com/archive).
-- [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
+- [Indie iOS Focus Weekly](https://indieiosfocus.com) . 最佳 iOS 开发、营销、Swift、设计和 Xcode 链接.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) . 每周精选的时事通讯，包含精心挑选的最新链接、视频、工具和教程，供有兴趣使用 Swift 设计和开发自己的 iOS、macOS、watchOS 和 tvOS 应用程序的人们使用.
 
 ### Go
 
-- [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周时事通讯. [Archive](https://golangweekly.com/issues).
+- [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 最流行的 Go 新闻、文章和图书馆的每周概览.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语 Go 编程语言的每周通讯.
@@ -218,7 +218,7 @@
 
 ### Elixir
 
-- [Elixir Radar](http://plataformatec.com.br/elixir-radar) . 包含博客文章、最新图书馆、讲座、活动和工作机会的每周电子邮件.
+- [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
 - [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter) . 精选的 Elixir 和 Erlang 包和资源的精选列表. [Archive](https://elixir.libhunt.com/newsletter/archive).
 - [Elixir Digest](https://elixirdigest.net/) .  Elixir 和 Phoenix 善良的每周部分. [Archive](https://elixirdigest.net/digests).
 
@@ -360,7 +360,7 @@
 
 ## Technology in General
 
-- [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
+- [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是每日精选的时事通讯，其中包含最有趣的技术故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) . 每天通过电子邮件发送来自网络的大众精选文章，掌握当今最流行的技术新闻.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) . 每个工作日有 4 个关于（主要是面向研究的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) . 每周工作日早上来自 CS 世界的有趣/有影响力/重要的论文，由 Adrian Colyer 选择.
@@ -379,7 +379,7 @@
 ## Business/Finance
 
 - [Finimize](https://insider.finimize.com/) .  3分钟了解今日财经新闻. 免费.
-- [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章，可帮助初创公司和企业主了解如何实施定价策略.
+- [The Pricing Newsletter](https://taprun.com/newsletter/). Q&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
 - [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月最重要的关于亚马逊业务的新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于驾驭指数基金时代、了解经济和入侵资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周策划的创业世界中的佼佼者.
@@ -430,7 +430,7 @@
 - [Startup Watching](https://startupwatching.com/) . 为初创公司精心策划的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术爱好者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自 Reddit 最佳帖子的关于创业、成长、投资和初创公司的前沿新闻.
-- [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
+- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简短时事通讯. 每一期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周发送一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.

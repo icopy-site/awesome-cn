@@ -343,6 +343,7 @@
 * [mesh](https://github.com/crcn/mesh.js) - 流式数据同步实用程序.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - JavaScript 的核心函数式编程.
 * [rambda](https://github.com/selfrefactor/rambda) - 比 *Ramda* 更快、更小的替代品.
+* [fxts](https://github.com/marpple/FxTS) - 懒惰的评估和并发.
 
 
 ## Reactive Programming
@@ -570,12 +571,10 @@
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且响应迅速的进度条.
 * [pace](https://github.com/HubSpot/pace) - 自动向您的站点添加进度条.
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
-* [nanobar](https://github.com/jacoborus/nanobar)  - 非常轻量级的进度条. 没有jQuery.
+* [nanobar](https://github.com/jacoborus/nanobar)  - 非常轻量级的进度条. 没有 jQuery.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - 一组使用 CSS 动画的加载指示器.
 * [Ladda](https://github.com/hakimel/Ladda) - 带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 一组使用 CSS 动画的加载微调器
-
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/), 和生成器像 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -606,7 +605,7 @@
 * [intro.js](https://github.com/usablica/intro.js) - 为您的网站和项目提供新功能介绍和分步用户指南的更好方法.
 * [shepherd](https://github.com/HubSpot/shepherd) - 引导您的用户浏览您的应用程序.
 * [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - 使用 Twitter Bootstrap Popovers 快速轻松地浏览产品.
-* [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的导览.
+* [tourist](https://github.com/easelinc/tourist) - 为您的应用提供简单、灵活的游览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 您的应用程序的简单叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
@@ -622,7 +621,7 @@
 * [pnotify](https://github.com/sciactive/pnotify) - Bootstrap、jQuery UI 和 Web 通知草案的 JavaScript 通知.
 * [toastr](https://github.com/CodeSeven/toastr) - 简单的 JavaScript Toast 通知.
 * [humane-js](https://github.com/wavded/humane-js) - 一个简单、现代的浏览器通知系统.
-* [smoke.js](https://github.com/hxgf/smoke.js) - 与框架无关的 JavaScript 风格警报系统.
+* [smoke.js](https://github.com/hxgf/smoke.js) - 与框架无关的 JavaScript 样式警报系统.
 * [notie](https://github.com/jaredreich/notie) - 没有依赖性的简单通知和输入.
 * [notifire](https://github.com/notifirehq/notifire) - 产品的开源通知基础设施.
 
@@ -642,7 +641,7 @@
 * [Strut](https://github.com/tantaman/Strut) - Strut - 一个 Impress.js 和 Bespoke.js 演示编辑器
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 适用于移动和桌面的 JavaScript 图片库，模块化，独立于框架.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - 带有 CSS 动画的响应式滑块 jQuery 插件.
-* [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) - 使用简单，主题简单，自定义简单.
+* [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) - 使用简单，主题简单，定制简单.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - 带有自适应彩色 figcaption 和导航的滑块的 jQuery 插件.
 * [slidr](https://github.com/bchanx/slidr) - 添加一些幻灯片效果.
 * [Flickity](https://github.com/metafizzy/flickity) - 触摸、反应灵敏、可轻弹的画廊.
@@ -669,7 +668,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件神奇地将一个简单的文本输入转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式化复选框和单选按钮的 jQuery 插件. 有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 零依赖的超轻量级、可用、美观的自动完成功能.  - https://projects.verou.me/awesomplete/
+* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 零依赖的超轻量级、可用、美观的自动完成.  - https://projects.verou.me/awesomplete/
 
 ### Calendar
 
@@ -742,7 +741,7 @@
 * [headroom](https://github.com/WickyNilliams/headroom.js)  - 为您的页面留出一些空间. 隐藏你的标题，直到你需要它.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用 One Page Scroll 插件创建类似 Apple 的一页滚动网站（iPhone 5S 网站）.
 * [iscroll](https://github.com/cubiq/iscroll) - iScroll 是一个高性能、占用空间小、无依赖、多平台的 JavaScript 滚动器.
-* [skrollr](https://github.com/Prinzhorn/skrollr)  - 适用于移动设备（Android + iOS）和桌面设备的独立视差滚动库. 没有jQuery.
+* [skrollr](https://github.com/Prinzhorn/skrollr)  - 适用于移动设备（Android + iOS）和桌面设备的独立视差滚动库. 没有 jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出反应的视差引擎.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - 视差滚动变得容易.
 * [plax](https://github.com/cameronmcefee/plax) - jQuery 驱动的视差.
@@ -845,7 +844,7 @@
  * [ractive-player](https://github.com/ysulyma/ractive-player) - 在 React.js 中制作交互式视频的库.
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg 针对浏览器使用进行了优化：最小尺寸以加快加载速度、asm.js、性能调整等.
  * [flv.js](https://github.com/bilibili/flv.js) - 用纯 JavaScript 编写的 HTML5 Flash 视频 (FLV) 播放器，不含 Flash.
- * [hls.js](https://github.com/video-dev/hls.js)  - 实现 HTTP Live Streaming 客户端的 JavaScript 库. 它依赖于 HTML5 视频和 MediaSource 扩展进行播放.
+ * [hls.js](https://github.com/video-dev/hls.js)  - 实现 HTTP Live Streaming 客户端的 JavaScript 库. 它依赖于 HTML5 视频和 MediaSource 扩展来播放.
 
 ## Typography
 

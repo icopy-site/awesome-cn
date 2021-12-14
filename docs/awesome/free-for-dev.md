@@ -247,7 +247,7 @@
 
 ## Artifact Repos
 
- * [Artifactory](https://jfrog.com/start-free/)  - 一个工件存储库，支持多种包格式，如 Maven、Docker、Cargo、Helm、PyPI、CocoaPods 和 GitLFS. 包括包扫描工具 XRay 和 CI/CD 工具 Pipelines（以前的 Shippable），免费套餐为每月 2,000 CI/CD 分钟.
+ * [Artifactory](https://jfrog.com/start-free/)  - 一个工件存储库，支持多种包格式，如 Maven、Docker、Cargo、Helm、PyPI、CocoaPods 和 GitLFS. 包括包扫描工具 XRay 和 CI/CD 工具 Pipelines（以前称为 Shippable），免费套餐为每月 2,000 CI/CD 分钟.
  * [central.sonatype.org](https://central.sonatype.org) — Apache Maven、SBT 和其他构建系统的默认工件存储库.
  * [cloudrepo.io](https://cloudrepo.io)  - 基于云的、私有和公共的、Maven 和 PyPi 存储库. 开源项目免费.
  * [cloudsmith.io](https://cloudsmith.io)  — 简单、安全和集中的存储库服务，适用于 Java/Maven、RedHat、Debian、Python、Ruby、Vagrant 等. 免费层 + 免费开源.
@@ -342,7 +342,7 @@
 
 ## Code Quality
 
-  * [SoftaCheck](https://www.softacheck.com/)  — 使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析并自动为使用doxygen的用户生成代码文档的在线工具. 这个工具是免费使用的.
+  * [SoftaCheck](https://www.softacheck.com/)  — 使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析并为使用doxygen的用户自动生成代码文档的在线工具. 这个工具是免费使用的.
   * [beanstalkapp.com](https://beanstalkapp.com/) — 编写、审查和部署代码的完整工作流程），1 个用户的免费帐户和 1 个具有 100 MB 存储空间的存储库
   * [browserling.com](https://www.browserling.com/) — 实时交互式跨浏览器测试，在 1024 x 768 分辨率的 Vista 下使用 MS IE 9 进行仅 3 分钟的免费会话
   * [codacy.com](https://www.codacy.com/) — PHP、Python、Ruby、Java、JavaScript、Scala、CSS 和 CoffeeScript 的自动代码审查，免费用于无限的公共和私有存储库
@@ -351,7 +351,7 @@
   * [codeclimate.com](https://codeclimate.com/)  — 自动代码审查，免费开放源代码和无限的组织拥有的私人存储库（最多 4 个合作者）. 学生和机构也免费.
   * [codecov.io](https://codecov.io/) — 代码覆盖工具 (SaaS)，开源免费和 1 个免费私人仓库
   * [CodeFactor](https://www.codefactor.io)  — Git 的自动代码审查. 免费版包括无限用户、无限公共存储库和 1 个私人存储库.
-  * [codescene.io](https://codescene.io/)  - CodeScene 根据开发人员如何使用代码并可视化组织因素（如团队耦合和系统掌握）来确定技术债务的优先级. 开源免费.
+  * [codescene.io](https://codescene.io/)  - CodeScene 根据开发人员如何使用代码并可视化组织因素（如团队耦合和系统掌握）来优先考虑技术债务. 开源免费.
   * [coveralls.io](https://coveralls.io/) — 显示测试覆盖率报告，开源免费
   * [dareboost](https://dareboost.com) - 每月 5 份免费的网络性能、可访问性、安全性分析报告
   * [deepcode.ai](https://www.deepcode.ai)  — DeepCode 基于 AI 发现漏洞、安全漏洞、性能和 API 问题.  DeepCode 的分析速度使我们能够实时分析您的代码并在您点击 IDE 中的保存按钮时提供结果. 支持的语言包括 Java、C/C++、JavaScript、Python 和 TypeScript. 与 GitHub、BitBucket 和 GitLab 的集成. 开源和私有存储库免费，最多可免费为 30 位开发人员提供.
@@ -431,6 +431,7 @@
   * [lambdatest.com](https://www.lambdatest.com/) — 在 selenium 和 cypress 上进行手动、可视化、屏幕截图和自动浏览器测试， [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)
   * [browserstack.com](https://www.browserstack.com/) — 手动和自动浏览器测试， [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
   * [checkbot.io](https://www.checkbot.io/)  — 测试您的网站是否遵循 50 多个 SEO、速度和安全最佳实践的浏览器扩展. 小型网站的免费套餐.
+  * [checklyhq.com](https://checklyhq.com)  - Checkly 是现代堆栈的 API 和 E2E 监控平台：可编程、灵活和热爱 JavaScript. 为开发人员提供的免费套餐.
   * [crossbrowsertesting.com](https://crossbrowsertesting.com) - 云端手动、可视化和 Selenium 浏览器测试 - [free for Open Source](https://crossbrowsertesting.com/open-source)
   * [cypress.io](https://www.cypress.io/)  - 对浏览器中运行的任何内容进行快速、简单和可靠的测试.  Cypress Test Runner 始终是免费和开源的，没有任何限制和限制.  Cypress Dashboard 可免费用于最多 5 个用户的开源项目.
   * [everystep-automation.com](https://www.everystep-automation.com/) — 记录和重放在 Web 浏览器中执行的所有步骤并创建脚本，...免费，选项较少
@@ -596,7 +597,7 @@
   * [pagertree.com](https://pagertree.com/)  - 用于提醒和随叫随到管理的简单界面. 最多 5 个用户免费.
   * [pingbreak.com](https://pingbreak.com/)  — 现代正常运行时间监控服务. 检查无限的 URL 并通过 Discord、Slack 或电子邮件获取停机通知.
   * [pingpong.one](https://pingpong.one/)  — 具有监控功能的高级状态页面平台. 免费套餐包括一个带有 SSL 子域的公共可自定义状态页面. 专业计划免费提供给开源项目和非营利组织.
-  * [sematext.com](https://sematext.com/) — 24 小时免费指标、无限数量的服务器、10 个自定义指标、500,000 个自定义指标数据点、无限制的仪表板、用户等.
+  * [sematext.com](https://sematext.com/) — 免费提供 24 小时指标、无限数量的服务器、10 个自定义指标、500,000 个自定义指标数据点、无限制的仪表板、用户等.
   * [sitemonki.com](https://sitemonki.com/) — 网站、域名、Cron 和 SSL 监控，每个类别 5 个免费监控器
   * [skylight.io](https://www.skylight.io/) — 前 100,000 个请求免费（仅限 Rails）
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — 性能监控 API，检查 Ping、DNS 等.
@@ -817,7 +818,7 @@
   * [outsystems.com](https://www.outsystems.com/) — 用于本地或云的企业 Web 开发 PaaS，免费的“个人环境”产品允许无限代码和高达 1 GB 的数据库
   * [pipedream.com](https://pipedream.com)  - 为开发人员构建的集成平台. 基于任何触发器开发任何工作流程. 工作流是可以运行的代码 [for free](https://docs.pipedream.com/pricing/) . 无需管理服务器或云资源.
   * [pythonanywhere.com](https://www.pythonanywhere.com/)  — 云 Python 应用托管. 初学者帐户是免费的，1 个 Python Web 应用程序位于 your-username.pythonanywhere.com 域，512 MB 私有文件存储空间，一个 MySQL 数据库
-  * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP 的内存平台即服务产品. 免费的开发者帐户包含 1 GB 结构化数据、1 GB 非结构化数据和 1 GB Git 数据，并允许您运行 HTML5、Java 和 HANA XS 应用程序
+  * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP 的内存平台即服务产品. 免费的开发者帐户带有 1 GB 结构化数据、1 GB 非结构化数据和 1 GB Git 数据，并允许您运行 HTML5、Java 和 HANA XS 应用程序
   * [staroid.com](https://staroid.com)  - 旨在为开源开发人员提供资金的托管 Kubernetes 命名空间服务. 释放 8 个 CPU 和 16GB 的 RAM 命名空间，用于测试公共存储库的分支和拉取请求. 免费测试命名空间每 30 分钟关闭一次. 最多 2 个并发测试命名空间.
   * [SUSE Developer Program](https://developer.suse.com)  — 免费体验云原生生产力. 通过您自己的开发人员沙箱亲身体验 SUSE Cloud Application Platform.  1 免费申请. 免费子域与 CLI 的 API 一起提供.  1 GB 的存储和内存配额.
   * [fly.io](https://fly.io/)  - Fly 是一个适用于需要在全球范围内运行的应用程序的平台. 它在靠近用户的地方运行您的代码，并在您的应用程序最繁忙的城市扩展计算. 编写您的代码，将其打包到 Docker 映像中，将其部署到 Fly 的平台，然后让这些工作完成所有工作以保持您的应用程序快速运行. 副项目免费，每月 10 美元的服务信用自动适用于任何付费服务. 如果您运行非常小的虚拟机，积分将大有帮助.
@@ -950,7 +951,7 @@
    * [StackBy](https://stackby.com/)  — 一种将电子表格的灵活性、数据库的强大功能以及与您最喜爱的业务应用程序的内置集成结合在一起的工具. 免费计划包括无限用户、10 个堆栈、每个堆栈 2GB 的附件.
    * [InfluxDB](https://www.influxdata.com/) — 时间序列数据库，释放高达 3MB/5 分钟的写入、30MB/5 分钟的读取和 10,000 个基数系列
    * [Quickmetrics](https://www.quickmetrics.io/) — 包含仪表板的时间序列数据库，每天最多可释放 10,000 个事件和总共 5 个指标.
-   * [restdb.io](https://restdb.io/)  - 快速简单的 NoSQL 云数据库服务. 使用 restdb.io，您可以获得架构、关系、自动 REST API（带有类似 MongoDB 的查询）和用于处理数据的高效多用户管理 UI. 免费计划允许每秒 3 个用户、2500 条记录和 1 个 API 请求.
+   * [restdb.io](https://restdb.io/)  - 快速简单的 NoSQL 云数据库服务. 使用 restdb.io，您可以获得模式、关系、自动 REST API（带有类似 MongoDB 的查询）和用于处理数据的高效多用户管理 UI. 免费计划允许每秒 3 个用户、2500 条记录和 1 个 API 请求.
    * [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — 免费 CockroachDB 高达 5GB 和 1vCPU（有限 [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))
    * [Neo4j Aura](https://neo4j.com/cloud/aura/)  — 使用 Cypher 查询语言和 REST API 管理原生图形 DBMS/分析平台. 图大小限制（50k 节点，175k 关系）.
    * [Dgraph Cloud](https://cloud.dgraph.io/pricing?type=free)  — 使用 GraphQL API 管理原生 Graph DBMS. 每天限制为 1 MB 数据传输.
@@ -1083,7 +1084,7 @@
    * [transloadit.com](https://transloadit.com/)  — 处理文件上传和视频、音频、图像、文档的编码. 通过 GitHub 学生开发者包免费提供给开源、慈善机构和学生. 商业应用程序免费获得 2 GB 用于试驾
    * [twicpics.com](https://www.twicpics.com)  - 响应式图像即服务. 它提供了一个图像 CDN、一个媒体处理 API 和前端库来自动化图像优化. 该服务免费高达 3GB 流量/月.
    * [uploadcare.com](https://uploadcare.com/hub/developers/)  — Uploadcare 为媒体管道提供基于尖端算法的终极工具包. 开发人员可以完全免费使用所有功能：文件上传 API 和 UI、图像 CDN 和源服务、自适应交付和智能压缩. 限制免费层有 3000 次上传、3 GB 流量和 3 GB 存储空间.
-   * [imagekit.io](https://imagekit.io)  – 具有自动优化、实时转换和存储功能的图像 CDN，您可以在几分钟内与现有设置集成. 免费计划包括每月高达 20GB 的带宽.
+   * [imagekit.io](https://imagekit.io)  – 具有自动优化、实时转换和存储功能的图像 CDN，您可以在几分钟内将其与现有设置集成. 免费计划包括每月高达 20GB 的带宽.
    * [internxt.com](https://internxt.com)  – Internxt Drive 是一种基于绝对隐私和不妥协安全性的零知识文件存储服务. 注册并永久免费获得 2 GB！
    * [degoo.com](https://degoo.com/) – 基于 AI 的云存储，最多可免费使用 100 Gb、5 台设备、500 Gb 推荐奖金（365 天帐户不活动）.
 
@@ -1202,14 +1203,14 @@
    * [Code::Blocks](https://codeblocks.org)  — 免费的 Fortran 和 C/C++ IDE. 开源并在 Windows、macOS 和 Linux 上运行.
    * [codesnip.com.br](https://codesnip.com.br)  — 带有类别、搜索和标签的简单代码片段管理器. 免费且无限制.
    * [cocalc.com](https://cocalc.com/)  —（以前在 cloud.sagemath.com 上的 SageMathCloud）— 云中的协作计算. 浏览器访问完整的 Ubuntu，内置协作和许多免费的数学、科学、数据科学软件，预装：Python、LaTeX、Jupyter Notebooks、SageMath、scikitlearn 等.
-   * [ide.cs50.io](https://ide.cs50.io/) - 由哈佛大学的 AWS Cloud9 提供支持的免费 IDE.
+   * [ide.cs50.io](https://ide.cs50.io/) - 由哈佛大学 AWS Cloud9 提供支持的免费 IDE.
    * [codepen.io](https://codepen.io/) — CodePen 是 Web 前端的游乐场.
    * [codesandbox.io](https://codesandbox.io/) — React、Vue、Angular、Preact 等的在线游乐场.
    * [Components.studio](https://webcomponents.dev/) - 独立编码组件，在故事中可视化它们，测试它们并在 npm 上发布它们.
    * [Eclipse Che](https://www.eclipse.org/che/)  - 面向具有多语言支持的开发团队的基于 Web 的 Kubernetes 原生 IDE. 开源和社区驱动. 由 Red Hat 托管的在线实例可在 [workspaces.openshift.com](https://workspaces.openshift.com/).
    * [fakejson.com](https://fakejson.com/)  — FakeJSON 可帮助您使用其 API 快速生成假数据. 发出一个 API 请求，描述你想要什么以及你想要它的方式.  API 以 JSON 格式返回所有内容. 加快创意进入市场的过程并伪造它直到你成功.
    * [gitpod.io](https://www.gitpod.io)  — 用于 GitHub 项目的即时、可编写代码的开发环境. 免费开源.
-   * [ide.goorm.io](https://ide.goorm.io)  goormIDE 是云上的完整 IDE. 多语言支持，基于 linux 的容器通过功能齐全的基于 web 的终端，端口转发，自定义 url，实时协作和聊天，共享链接，Git/Subversion 支持. 还有更多功能（免费套餐包括每个容器 1GB RAM 和 10GB 存储空间，5 个容器插槽）.
+   * [ide.goorm.io](https://ide.goorm.io)  goormIDE 是云上的完整 IDE. 多语言支持，基于 linux 的容器，通过功能齐全的基于 Web 的终端，端口转发，自定义 url，实时协作和聊天，共享链接，Git/Subversion 支持. 还有更多功能（免费套餐包括每个容器 1GB RAM 和 10GB 存储空间，5 个容器插槽）.
    * [JDoodle](https://www.jdoodle.com) — 用于 60 多种编程语言的在线编译器和编辑器，提供免费的 REST API 代码计划，每天最多可编译 200 个学分.
    * [jetbrains.com](https://jetbrains.com/products.html) — 生产力工具、IDE 和部署工具（又名 [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) ， 等等）. 学生、教师、开源和用户组的免费许可证.
    * [jsbin.com](https://jsbin.com) — JS Bin 是前端 Web（HTML、CSS 和 JavaScript.也支持 Markdown、Jade 和 Sass）的另一个游乐场和代码共享站点.
@@ -1222,7 +1223,7 @@
    * [mockaroo](https://mockaroo.com/)  — Mockaroo 可让您以 CSV、JSON、SQL 和 Excel 格式生成真实的测试数据. 您还可以为后端 API 创建模拟.
    * [Mocklets](https://mocklets.com) - 基于 HTTP 的模拟 API 模拟器，可帮助模拟 API 以实现更快的并行开发和更全面的测试，并具有终生免费层.
    * [Paiza](https://paiza.cloud/en/)  — 在浏览器中开发 Web 应用程序，无需进行任何设置. 免费计划提供 1 台服务器，具有 24 小时的使用寿命和每天 4 小时的运行时间，具有 2 个 CPU 内核、2 GB RAM 和 1 GB 存储空间.
-   * [Prepros](https://prepros.io/)  - Prepros 可以开箱即用地编译 Sass、Less、Stylus、Pug/Jade、Haml、Slim、CoffeeScript 和 TypeScript，重新加载您的浏览器并使开发和测试您的网站变得非常容易，这样您就可以专注于使它们变得完美. 您还可以通过单击几下来添加自己的工具.
+   * [Prepros](https://prepros.io/)  - Prepros 可以开箱即用地编译 Sass、Less、Stylus、Pug/Jade、Haml、Slim、CoffeeScript 和 TypeScript，重新加载您的浏览器并使开发和测试您的网站变得非常容易，这样您就可以专注于使它们变得完美. 只需单击几下，您还可以添加自己的工具.
    * [Replit](https://replit.com/) — 适用于各种程序语言的云编码环境.
    * [SoloLearn](https://code.sololearn.com)  — 非常适合运行代码片段的云编程游乐场. 支持多种编程语言. 运行代码不需要注册，但需要在他们的平台上保存代码时需要. 还为初学者和中级编码员提供免费课程.
    * [stackblitz.com](https://stackblitz.com/)  — 用于创建、编辑和部署全栈应用程序的在线/云代码 IDE. 支持任何流行的基于 NodeJs 的前端和后端框架. 创建新项目的短链接： [https://node.new](https://node.new).
@@ -1236,7 +1237,7 @@
 ## Analytics, Events and Statistics
 
    * [Statvoo Analytics](https://analytics.statvoo.com/) — 永久免费为您的所有网站提供客户分析，每月无限次活动
-   * [Avo](https://avo.app/)  — 简化的分析发布工作流程. 单一来源的真实跟踪计划、类型安全分析跟踪库、应用程序内调试器、数据可观察性以在发布之前捕获所有数据问题.  2 个工作区成员免费和 1 小时数据可观察性回顾.
+   * [Avo](https://avo.app/)  — 简化的分析发布工作流程. 单一来源的真实跟踪计划、类型安全分析跟踪库、应用内调试器、数据可观察性，可在发布之前捕获所有数据问题.  2 个工作区成员免费和 1 小时数据可观察性回顾.
    * [Branch](https://branch.io)  — 移动分析平台. 免费套餐为多达 10,000 名移动应用用户提供深层链接和其他服务.
    * [Clicky](https://clicky.com)  — 网站分析平台.  1 个网站的免费计划，具有 3000 次浏览分析.
    * [Databox](https://databox.com)  — 通过结合其他分析和 BI 平台，获得商业洞察力和分析. 免费计划提供 3 个用户、仪表板和数据源.  11M 历史数据记录.
@@ -1426,4 +1427,4 @@
   * [Themeselection](https://themeselection.com/) — 精选高品质、现代设计、专业且易于使用的免费管理仪表板模板，
 HTML 主题和 UI 套件可更快地创建您的应用程序！
   * [Web.Dev](https://web.dev/measure/) — 这是一款免费工具，可让您查看网站的性能并改进 SEO 以在搜索引擎中获得更高的排名.
-  * [SmallDev.tools](https://smalldev.tools/)  — 为开发人员提供的免费工具，允许您编码/解码各种格式、缩小 HTML/CSS/Javascript、美化、以 JSON/CSV 和多种其他格式生成假/测试真实数据集以及更多功能. 具有令人愉悦的界面.
+  * [SmallDev.tools](https://smalldev.tools/)  — 开发人员的免费工具，允许您编码/解码各种格式、缩小 HTML/CSS/Javascript、美化、以 JSON/CSV 和多种其他格式生成虚假/测试真实数据集以及更多功能. 具有令人愉悦的界面.
