@@ -5,7 +5,7 @@
 很棒的 CSS 框架列表.  
 随意地 [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
-**支持者 [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
+**支持 [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
 
 <a href="https://frontaid.io/?pk_campaign=cssfw"><img
   src=&quot;https://raw.githubusercontent.com/troxler/awesome-css-frameworks/master/media/frontaid.png&quot;
@@ -60,7 +60,7 @@
 
 使用语义 HTML 且不依赖于类的框架.
 
-- [**Water.css**](https://watercss.kognise.dev/) - 只需添加 CSS 样式集合，即可让简单的网站变得更好看.  
+- [**Water.css**](https://watercss.kognise.dev/) - 只需添加 CSS 样式集合，就可以让简单的网站更好看.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo](https://github.com/kognise/water.css)
   | #CSS
@@ -156,12 +156,6 @@
   [Docs](https://getuikit.com/docs/introduction),
   [Repo](https://github.com/uikit/uikit)
   | #LESS #SCSS
-
-- [**Spectre.css**](https://picturepan2.github.io/spectre/) - 轻量级、响应式和现代的 CSS 框架.  
-  ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
-  [Docs](https://picturepan2.github.io/spectre/getting-started.html),
-  [Repo](https://github.com/picturepan2/spectre)
-  | #SCSS
 
 - [**Primer**](https://primer.style/) - 支持 GitHub 前端设计的 CSS 框架.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
@@ -301,7 +295,7 @@
 
 ## Toolkits
 
-工具包更接近于库而不是框架.
+工具包更接近于一个库而不是一个框架.
 它们不提供实际的样式，但提供您可以在 CSS 预处理器中使用的实用程序（例如 mixins）.
 
 - [**Bourbon**](https://www.bourbon.io/) - 轻量级的 Sass 工具集.  
@@ -314,7 +308,7 @@
 
 ## Stalled Development
 
-大约一年多没有看到任何真正开发或正式弃用的框架.
+大约一年多没有看到任何实际开发或正式弃用的框架.
 我们将它们保留在这里以供参考/启发并希望复兴.
 
 <details>
@@ -333,6 +327,12 @@
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
 
+- [**Spectre.css**](https://picturepan2.github.io/spectre/) - 轻量级、响应式和现代的 CSS 框架.  
+  ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
+  [Docs](https://picturepan2.github.io/spectre/getting-started.html),
+  [Repo](https://github.com/picturepan2/spectre)
+  | #SCSS
+
 - [**Flexbox Grid**](https://flexboxgrid.com) - 基于 CSS3 flexbox 的网格.  
   ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
   [Repo](https://github.com/kristoferjoseph/flexboxgrid)
@@ -341,7 +341,7 @@
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
 
-- [**Neat**](https://neat.bourbon.io/) - 轻巧灵活的 Sass 网格.  
+- [**Neat**](https://neat.bourbon.io/) - 轻量级和灵活的 Sass 网格.  
   ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
   [Demo](https://neat.bourbon.io/examples/),
   [Docs](https://neat.bourbon.io/docs/latest/),
@@ -366,7 +366,7 @@
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
 
-- [**Cutestrap**](https://www.cutestrap.com) - 时髦、固执的 CSS 框架，是 Bootstrap 的一个小替代品.  
+- [**Cutestrap**](https://www.cutestrap.com) - 时髦、固执的 CSS 框架，是 Bootstrap 的一个微小替代品.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
 

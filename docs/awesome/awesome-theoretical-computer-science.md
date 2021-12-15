@@ -40,7 +40,7 @@
 #### Books
 - [Michael Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - 介绍自动机、语言和计算理论的本科教科书.
-- [Barak. Introduction to TCS](https://introtcs.org/public/index.html)  - 为本科生介绍理论计算机科学的现代、简短且易于访问的文本. 它包括通常不包含在标准本科教科书中的主题.
+- [Barak. Introduction to TCS](https://introtcs.org/public/index.html)  - 为本科生介绍理论计算机科学的现代、简短且易于理解的文本. 它包括通常不包含在标准本科教科书中的主题.
 
 #### Puzzles and Problem Sets
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - 针对自动机、语言和复杂性的问题集文本.
@@ -61,10 +61,10 @@
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)  - 计算复杂性理论本科课程； 它遵循 Sipser 第三部分的相同精神.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - 它涵盖了在复杂性理论研究中被认为是开始的大部分内容.
 #### Lecture Notes
-- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下界、平均情况复杂度、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
+- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学研究所暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下界、平均情况复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
 #### Books
-- [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - 黄金标准教科书，为研究生和研究人员测量计算复杂性理论.
-- [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - 计算复杂性理论的毕业介绍，强调复杂性理论概念背后的思想.
+- [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - 一本黄金标准教科书，为研究生和研究人员测量计算复杂性理论.
+- [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - 计算复杂性理论的研究生介绍，强调复杂性理论概念背后的思想.
 - [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - 对计算复杂性的一些基本思想的非常温和的介绍，例如 NP 完整性和 P vs NP.
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - 一个可访问的、面向算法的、以研究为中心的、最新的复杂性理论一些最有趣技术的指南.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html)  - 用于研究计算机算法的性能和局限性的知识体系. 涵盖的主题包括：约简和 NP 完整性、密码学​​和协议、随机算法以及优化问题的近似性、电路复杂性、P=NP 问题的“结构”方面、并行计算和多项式层次结构.
@@ -89,7 +89,7 @@
 ## Algorithms
 
 ### Lecture Video Playlists
-- [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - 用实际方法来证明问题的班级无法有效地解决.
+- [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - 用实际方法来证明问题的课堂不能有效地解决.
 ### Books
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - 它表明游戏和谜题可以作为强大的计算模型，提供一种新的计算思维方式.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth 关于算法设计和分析的传奇系列.
@@ -100,9 +100,9 @@
 ### Computability Theory
 #### Books
 ##### Introductory
-- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地，它解释了可计算函数的概念：可以以有效或自动方式计算其值的函数.
+- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地，它解释了可计算函数的概念：可以有效或自动计算其值的函数.
 - [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - 对当代可计算性理论、技术和结果的简洁、全面和权威的介绍.
-- [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - 在这本经典教材中，Davis 博士清楚地介绍了本科高级水平的可计算性，满足了专家和非专家的需求.
+- [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - 在这本经典教材中，Davis 博士清晰地介绍了本科高级水平的可计算性，满足了专家和非专家的需求.
 ##### Collected Papers
 - [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - 计算机科学家、数学家和哲学家讨论可计算性概念的概念基础以及最近的理论发展. 
 ##### Popular Science
@@ -124,13 +124,13 @@
 ## Philosophy
 
 ### Lecture Notes
-- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，相反，哲学可以对理论计算机科学做出贡献.
+- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，相反，哲学可以对理论计算机科学做出什么贡献.
 ### Books
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - 信仰与科学之间关系的一般说明.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - 图灵在科学史和科学哲学中的地位.
 
 ### Popular Science
-- [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - 现实的结构呈现出一种惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
+- [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality 呈现出一种惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
 
 ### Papers
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识的性质和其他哲学问题带来了新的视角.
@@ -142,7 +142,7 @@
 
 ### Books
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459) - 费曼的计算课程
-  - 另请参阅 40 年后 Preskill 的更新 [here](https://arxiv.org/abs/2106.10522)
+  - 另见 40 年后 Preskill 的更新 [here](https://arxiv.org/abs/2106.10522)
 
 
 
@@ -156,13 +156,13 @@
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 致力于数学主题及其与计算机科学相关性的系列.
-- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 简明扼要，作为专业计算机科学家的数理逻辑参考资料.
+- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 为专业计算机科学家提供的简明数理逻辑参考资料.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
 - [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221)  - 对于低年级本科生，它向读者介绍了逻辑、证明、集合和数论，重点是基础. 它提供了形式证明的完整细节和推导.
 - [Ayala-Rincón & Moura. Applied Logic for Computer Scientists: Computational Deduction and Formal Proofs](https://www.springer.com/gp/book/9783319516516)  - 作为任何演绎计算框架基础的逻辑介绍. 它包含用于认证软件和硬件系统稳健性的特殊章节
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - 使用语义表是因为它们理论上合理且易于理解.
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - 利用您对编程和软件思想的熟悉程度来教授数学.
-- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程奠定坚实的基础，从回顾数系统及其与数字计算机的相关性开始，到微积分和积分学结束.
+- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程奠定坚实的基础，从回顾数字系统及其与数字计算机的相关性开始，最后是微积分和积分.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - 提出了一种数学分析的算法方法，重点是建模和分析的应用.
 #### Lecture Notes
 - [Maciej Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - 为本科计算机科学学生教授的微积分讲义
@@ -189,7 +189,7 @@
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - 一篇关于量子霸权的非凡论文.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - 计算复杂性的历史概述.
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - 计算复杂性的历史概述.
-- [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作及其对密码学基础的影响.
+- [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作以及他们的工作对密码学基础的影响.
 
 
 
@@ -198,15 +198,15 @@
 ### Blog Posts and Essays
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/)  - 研究方法课程，专注于如何而不是什么. 它侧重于计算机科学理论研究中常见的研究实践.
 - [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/)  - 庆祝 Oded Goldreich 和 Avi Wigderson 撰写的“TOC：科学视角（1996）”25 周年. 它指出了针对 TCS 的批评，即它不如 Math 深入，不如 CS 有用.
-- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - 曼努埃尔·布鲁姆 (Manuel Blum)，TCS 中非常受欢迎的人物，为大三学生提供研究建议.
-- [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58) - 如果您想在科学研究中取得成功，必须遵守的三个规则的注释.
+- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - 曼努埃尔·布鲁姆 (Manuel Blum)，TCS 中非常受欢迎的人物，为后辈提供研究建议.
+- [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58) - 如果您想在科学研究中取得成功，必须遵循的三个规则的注释.
 - [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)  - Oded Goldreich 的个人散文. 他们在 TCS 及其社区的概念信息方面非常独特.
 - [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/) - 给对理论计算机科学感兴趣的任何人的提示.
 - [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/) - 针对高中、本科甚至研究人员的调查.
 - [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - 帖子更多地面向技术不太成熟的受众.
 - [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - Karp 致辞：1968 年伯克利的计算机科学有问题，两个部门独立工作开发程序，以及他的个人反思.
 - [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)  - 为什么做出重大贡献的科学家如此之少，而从长远来看，却有如此多的科学家被遗忘？ 谈话是关于汉明学到的东西.
-- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Steven Weinberg 为学生和研究人员提供的课程.
+- [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - 史蒂文温伯格为学生和研究人员提供的课程.
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - 关于数学学术生涯问题的各种建议的集合，大致按与建议最相关的职业阶段排列.
 
 
@@ -236,6 +236,7 @@
   - [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE)
   - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
   - 斯科特亚伦森： [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA)
 
 
 ## Related Awesome Lists

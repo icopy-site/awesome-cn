@@ -46,6 +46,7 @@
 - [Best of JavaScript](https://weekly.bestofjs.org/) . 关于与 Node.js 和 Web 平台相关的最流行开源项目的每周排名.
 - [JavaScript Kicks](https://javascriptkicks.com/) .  JavaScript 开发者社区每周发送的最受好评文章的精选列表.
 - [Bytes](https://bytes.dev/) . 成为更聪明的 JavaScript 开发人员. 随时了解 JavaScript 生态系统从未如此有趣. 每周一免费送货.
+- [Deno Weekly](https://denoweekly.com/) . 来自 Deno 领域的每周新闻、教程和项目汇总，这是区块上最新的 JavaScript 运行时.
 
 #### React
 
@@ -109,7 +110,7 @@
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画时事通讯让您及时了解最佳网络动画、动画设计和 UX 资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动作设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
-- [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
+- [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和出色的设计相关内容来自最佳 subreddits.
 - [Figmalion](https://figmalion.com) . 双周刊策划的关于 [Figma](https://www.figma.com/).
 
@@ -146,7 +147,7 @@
 
 ### ObjectiveC
 
-- [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
+- [ObjC](https://www.objc.io/) . 免费的月刊，涵盖高级 iOS 和 OS X 开发的最重要方面.
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter) . 一个很棒的 iOS 库的精选列表，包括 Objective-C 和 Swift 项目.
 
 ### C# #
@@ -173,7 +174,7 @@
 
 ### Go
 
-- [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
+- [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周时事通讯. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 最流行的 Go 新闻、文章和图书馆的每周概览.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语 Go 编程语言的每周通讯.
@@ -218,7 +219,7 @@
 
 ### Elixir
 
-- [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
+- [Elixir Radar](http://plataformatec.com.br/elixir-radar) . 包含博客文章、最新图书馆、讲座、活动和工作机会的每周电子邮件.
 - [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter) . 精选的 Elixir 和 Erlang 包和资源的精选列表. [Archive](https://elixir.libhunt.com/newsletter/archive).
 - [Elixir Digest](https://elixirdigest.net/) .  Elixir 和 Phoenix 善良的每周部分. [Archive](https://elixirdigest.net/digests).
 
@@ -334,7 +335,7 @@
 - [Mobile Web Weekly](https://mobiledevweekly.com/) . 每周对影响面向移动 Web 的 Web 开发人员的发布、文章和链接的汇总.
 - [Android Weekly](https://androidweekly.net/) . 免费时事通讯，可帮助您在 Android 开发方面保持领先地位.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) . 精选的 Android 软件包和资源列表.
-- [Weekly Xamarin](http://weeklyxamarin.com) .  Xamarin 开发.
+- [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
 - [Flutter Weekly](https://flutterweekly.net/) . 由颤振爱好者为颤振爱好者提供的每周时事通讯.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) . 移动开发人员每周时事通讯 - iOS、Android、Flutter 和 React Native.
 - [Flutter Croissants](https://flutter-croissants.com/) . 每周一接收有关 Flutter 和移动世界的所有新闻.
@@ -355,7 +356,7 @@
 ## Blockchain / Cryptocurrencies
 
 - [Inside Bitcoin](https://inside.com/bitcoin) . 跟踪有关比特币和加密货币的趋势、新闻和分析.
-- [Crypto Weekly](https://cryptoweekly.co/) . 每周向您的收件箱发送最好的加密货币新闻和见解.
+- [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 没有牛市的区块链技术——每周一剂区块链现实，对技术有很大的偏见.
 
 ## Technology in General
@@ -379,7 +380,7 @@
 ## Business/Finance
 
 - [Finimize](https://insider.finimize.com/) .  3分钟了解今日财经新闻. 免费.
-- [The Pricing Newsletter](https://taprun.com/newsletter/). Q&As, lessons, and news articles to help startups and business owners understand how to implement pricing strategy.
+- [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章，可帮助初创公司和企业主了解如何实施定价策略.
 - [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月最重要的关于亚马逊业务的新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于驾驭指数基金时代、了解经济和入侵资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周策划的创业世界中的佼佼者.
@@ -417,7 +418,7 @@
 ## Miscellaneous
 
 - [Founder Weekly](http://www.founderweekly.com/) . 为企业家提供的免费每周通讯，其中包含最佳策划内容、必读文章、指南、技巧和窍门、资源、活动等.
-- [WebRTC Weekly](https://webrtcweekly.com/) . 每周和简短的时事通讯，其中包含 WebRTC 上的所有最新新闻和活动.
+- [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 每周为对 Web Audio API、Web MIDI API 或网络上的声音感兴趣的人们提供的时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇数据集的每周通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周通讯，从初创公司生态系统中收集最佳资源.

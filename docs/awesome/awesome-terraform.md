@@ -6,7 +6,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编码为声明性配置文件，可在团队成员之间共享、视为代码、编辑、审查和版本化.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编码为声明性配置文件，这些文件可在团队成员之间共享、视为代码、编辑、审查和版本化.
 
 由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
@@ -208,6 +208,7 @@
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform 的 Terraform 静态分析工具&gt;=0.12
 - [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform 和 Live Cloud 基于上下文的分析工具，用于 terraform&gt;=0.12 :heavy_dollar_sign:
+- [driftctl](https://github.com/snyk/driftctl) - 检测、跟踪和警报基础设施漂移
 - [flora](https://github.com/ketchoop/flora) - Terraform 版本管理器.
 - [fogg](https://github.com/chanzuckerberg/fogg) - 用于消除管理 terraform 存储库的辛劳的工具.
 - [former2](https://github.com/iann0036/former2) - 从您的 AWS 账户中的现有资源生成 terraform 配置.
@@ -220,7 +221,7 @@
 - [inframap](https://github.com/cycloidio/inframap) - 阅读您的 tfstate 或 HCL 以生成特定于每个提供程序的图表，仅显示最重要/最相关的资源.
 - [json2hcl](https://github.com/kvz/json2hcl)  - 将 JSON 转换为 HCL，反之亦然.  ：鬼：
 - [modules.tf](https://modules.tf/) - 基础设施作为代码生成器 - 来自使用创建的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到地形. [Source code](https://github.com/antonbabenko/modules.tf-lambda).
-- [para](https://github.com/paraterraform/para)  - 缺少的第 3 方插件管理器和用于 Terraform/Terragrunt 的“瑞士军刀” - 只是一种工具来促进所有工作流程.  ：颅骨：
+- [para](https://github.com/paraterraform/para)  - 缺少的第 3 方插件管理器和用于 Terraform/Terragrunt 的“瑞士军刀” - 仅 1 个工具可以促进所有工作流程.  ：颅骨：
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - 预先提交 git hooks 来处理 Terraform 配置（自动格式化、验证、更新文档）.
 - [pretf](https://github.com/raymondbutcher/pretf)  - 使用 Python 生成 Terraform 配置的嵌入式 Terraform 包装器. 看 [pretf documentation](https://pretf.readthedocs.io/en/latest/)
 - [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自 Github 的外部模块以在 Terraform 中使用.
