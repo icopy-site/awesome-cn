@@ -10,13 +10,13 @@
 
 精选的 AWS 库、开源存储库、指南、博客和其他资源的精选列表.
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 清单.
+灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 ## The Fiery Meter of AWSome
 
 * 0100+ 星的回购：：火：
-* 0200+ 星的回购：:fire::fire:
-* 拥有 0500+ 颗星的回购：:fire::fire::fire:
+* 拥有 0200+ 颗星星的回购：:fire::fire:
+* 拥有 0500+ 颗星星的回购：:fire::fire::fire:
 * 1000+ 星的回购：:fire::fire::fire::fire:
 * 拥有 2000 多个星星的回购：:fire::fire::fire::fire::fire:
 
@@ -26,7 +26,7 @@
 
 [![Build Status](https://travis-ci.org/donnemartin/awesome-aws.svg?branch=master)](https://travis-ci.org/donnemartin/awesome-aws) [![Codecov](https://img.shields.io/codecov/c/github/donnemartin/awesome-aws.svg)](https://codecov.io/github/donnemartin/awesome-aws) [![PyPI version](https://badge.fury.io/py/awesome-aws.svg)](http://badge.fury.io/py/awesome-aws)
 
-Python 模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/master/awesome) 定期扫描回购 [Awesome AWS](https://github.com/donnemartin/awesome-aws) 保持`Fiery Meter of AWSome`的准确性.
+Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/master/awesome) 定期扫描 repos [Awesome AWS](https://github.com/donnemartin/awesome-aws) 保持`Fiery Meter of AWSome`的准确性.
 
 ## Contributing
 
@@ -280,7 +280,7 @@ Python 模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/ma
 
 ## Open Source Repos
 
- *AWS 和社区开源项目，按服务分组. 看 [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) 了解更多详情.*
+ *AWS 和社区开源项目，按服务分组. 看 [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) 更多细节.*
 
 <br/>
 <p align="center">
@@ -292,7 +292,7 @@ Python 模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/ma
 
 AWS 存储库：
 
-* [api-gateway-secure-pet-store :fire::fire:](https://github.com/awslabs/api-gateway-secure-pet-store) - 通过 Lambda 的 Cognito 凭证.
+* [api-gateway-secure-pet-store :fire::fire:](https://github.com/awslabs/api-gateway-secure-pet-store) - 通过 Lambda 的 Cognito 凭据.
 * [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - 用于 Java 的 SDK.
 * [aws-apigateway-swagger-importer :fire::fire::fire:](https://github.com/awslabs/aws-apigateway-importer) - 使用 Swagger 的工具.
 
@@ -371,7 +371,7 @@ AWS 存储库：
 
 * [cloudwatch-logs-subscription-consumer :fire::fire:](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis 流阅读器.
 * [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - 关于使用 Amazon ECS 和 Amazon CloudWatch 日志的博文中的资产.
-* [logstash-output-cloudwatchlogs](https://github.com/awslabs/logstash-output-cloudwatchlogs) - 将日志发送到 CloudWatch 的 logstash 插件.
+* [logstash-output-cloudwatchlogs](https://github.com/awslabs/logstash-output-cloudwatchlogs) - 一个将日志发送到 CloudWatch 的 logstash 插件.
 * [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks 示例食谱.
 
 社区回购：
@@ -416,7 +416,7 @@ AWS 存储库：
 * [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) - 同步 iOS SDK.
 * [amazon-cognito-js :fire::fire:](https://github.com/aws/amazon-cognito-js) - 同步 JavaScript 的 SDK.
 * [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - 消费流示例.
-* [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) - Node.js 示例应用程序.
+* [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) - Node.js 的示例应用程序.
 
 社区回购：
 
@@ -437,7 +437,7 @@ AWS 存储库：
 
 AWS 存储库：
 
-* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - APPI android TestNG 测试.
+* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Appium TestNG Android 测试.
 * [aws-device-farm-calabash-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) - 葫芦安卓测试.
 * [aws-device-farm-gradle-plugin](https://github.com/awslabs/aws-device-farm-gradle-plugin) - Gradle 插件.
 * [aws-device-farm-jenkins-plugin](https://github.com/awslabs/aws-device-farm-jenkins-plugin) - 詹金斯插件.
@@ -463,7 +463,7 @@ AWS 存储库：
 * [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - 导入和导出示例.
 * [dynamodb-online-index-violation-detector](https://github.com/awslabs/dynamodb-online-index-violation-detector) - 查找在线 GSI 的散列键和范围键上的违规行为.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - Kinesis 接口，用于使用和处理来自 DynamoDB 流的数据.
-* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - 轻量级的 Python 应用程序.
+* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - 轻量级 python 应用程序.
 * [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) - Titan 的存储后端.
 * [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) - 跨多个项目和表执行原子写入和隔离读取.
 * [logstash-input-dynamodb :fire:](https://github.com/awslabs/logstash-input-dynamodb) - Logstash 输入插件.
@@ -487,14 +487,14 @@ AWS 存储库：
 * [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) - 示例快递应用程序.
 * [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) - Express 框架和 Bootstrap Node.js 示例应用程序.
 * [eb-node-express](https://github.com/awslabs/eb-node-express) - 开发人员指南中引用的示例应用程序.
-* [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - 说明工作者角色的 Python 应用程序.
+* [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - 说明工作角色的 Python 应用程序.
 * [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) - 带有 Flask 和 Bootstrap 的 Python 注册表单应用程序.
 * [eb-python-flask](https://github.com/awslabs/eb-python-flask) - 简单的 Python 和 Flask 应用程序.
 * [eb-wif-sample](https://github.com/awslabs/eb-wif-sample) - 带有 Web 身份联合的示例登录应用程序.
 
 社区回购：
 
-* [alienfast/elastic-beanstalk :fire:](https://github.com/alienfast/elastic-beanstalk) - Gem 具有用于 Rails 应用程序的 rake 配置和部署.
+* [alienfast/elastic-beanstalk :fire:](https://github.com/alienfast/elastic-beanstalk) - Gem 具有用于 rails 应用程序的 rake 配置和部署.
 * [ThoughtWorksStudios/eb_deployer :fire::fire:](https://github.com/ThoughtWorksStudios/eb_deployer) - 蓝绿部署自动化.
 
 ### Elastic Compute Cloud
@@ -507,7 +507,7 @@ AWS 存储库：
 
 * [alestic/ec2-consistent-snapshot :fire::fire:](https://github.com/alestic/ec2-consistent-snapshot) - 在 EC2 中启动一致的 EBS 快照.
 * [ConradIrwin/aws-name-server :fire::fire::fire:](https://github.com/ConradIrwin/aws-name-server) - 可让您按名称查找实例的 DNS 服务器.
-* [cristim/autospotting :fire::fire::fire::fire:](https://github.com/autospotting/autospotting) - 使用兼容的 Spot 实例自动滚动替换 AutoScaling 组中的按需 EC2 实例.
+* [cristim/autospotting :fire::fire::fire::fire::fire:](https://github.com/autospotting/autospotting) - 使用兼容的 Spot 实例自动滚动替换 AutoScaling 组中的按需 EC2 实例.
 * [evannuil/aws-snapshot-tool :fire::fire:](https://github.com/evannuil/aws-snapshot-tool) - 自动化 EBS 快照和旋转.
 * [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way)  - 在 EC2 上以艰难的方式引导 Kubernetes. 没有脚本.
 * [mirakui/ec2ssh :fire::fire:](https://github.com/mirakui/ec2ssh) - SSH 配置管理器.
@@ -524,14 +524,14 @@ AWS 存储库：
 * [amazon-ecs-init :fire:](https://github.com/aws/amazon-ecs-init) - 为支持 Amazon ECS 容器代理而开发的 RPM.
 * [blox :fire::fire::fire:](https://github.com/blox/blox) - 用于在 ECS 上构建自定义调度程序的开源工具.
 * [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) - ECS 上的蓝绿部署.
-* [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - 来自使用 Amazon ECS 和 Amazon CloudWatch 日志的博客资产.
+* [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - 来自使用 Amazon ECS 和 Amazon CloudWatch 日志的博客的资产.
 * [ecs-demo-php-simple-app :fire:](https://github.com/awslabs/ecs-demo-php-simple-app) - 简单的 PHP 应用程序.
 * [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) - 集成了 Apache Mesos.
 * [ecs-refarch-continuous-deployment :fire::fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - 使用 CodePipeline 持续部署到 ECS 的参考架构.
 * [ecs-task-kite](https://github.com/awslabs/ecs-task-kite) - 用于任务间通信的简单大使容器.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - 使用 SQS 和 ECS 扩展 Lambda.
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python 示例应用程序.
-* [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - 通过 Consul 和 Amazon ECS 来自博客服务发现的资产.
+* [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - 来自博客服务发现的资产，通过 Consul 和 Amazon ECS.
 
 社区回购：
 
@@ -651,7 +651,7 @@ AWS 存储库：
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - 受 StatusPage.io 启发的状态页面系统，基于 AWS Lambda 构建.
 * [kubek2k/lambdoku :fire::fire::fire:](https://github.com/kubek2k/lambdoku) - 使用 Lambda 时类似 Heroku 的体验.
 * [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) - 基于 Lambda 的持续集成系统.
-* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) - Lambda 函数通过 S3 对象进行并发控制（each、map、reduce、filter）.
+* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) - Lambda 函数通过 S3 对象进行并发控制（每个、映射、减少、过滤）.
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - 轻松部署、运行并获得结果.
 * [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) - 带有 AWS Lambda + API 网关的无服务器 WSGI Python Web 应用程序.
 * [nficano/python-lambda :fire::fire::fire::fire:](https://github.com/nficano/python-lambda) - 用于在 Lambda 中开发和部署无服务器 Python 代码的工具包.
@@ -712,7 +712,7 @@ AWS 存储库：
 
 * [Lumoslabs/aleph](https://github.com/lumoslabs/aleph) - 用于编写和运行 Redshift 的全功能 Web 应用程序
 查询. 支持查询的修订跟踪并具有基本的可视化支持.
-* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/)  - 允许轻松查询现有数据库、共享数据集并以不同方式对其进行可视化的 Web 应用程序. 最初是为了与 Redshift 一起使用而开发的，并且对它有很大的支持.
+* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/)  - 允许轻松查询现有数据库、共享数据集并以不同方式对其进行可视化的 Web 应用程序. 最初是为了与 Redshift 一起使用而开发的，并且得到了很好的支持.
 * [everythingMe/redshift_console](https://github.com/EverythingMe/redshift_console)  - 监控和管理 Redshift 集群的简单工具. 第一个版本具有用于监控正在运行的查询、WLM 队列和您的表/模式的基本工具.
 
 ### Route 53
@@ -800,11 +800,11 @@ AWS 存储库：
 
 AWS 存储库：
 
-* [amazon-sqs-java-messaging-lib :fire:](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - 持有 Java 消息服务以与 SQS 通信.
+* [amazon-sqs-java-messaging-lib :fire:](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - 持有 Java 消息服务与 SQS 进行通信.
 
 社区回购：
 
-* [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - 一个超级高效的基于 SQS 线程的 Ruby 消息处理器.
+* [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - 一个用于 Ruby 的基于 SQS 线程的超高效消息处理器.
 
 ### Data
 
@@ -823,7 +823,7 @@ AWS 存储库：
 
 社区回购：
 
-* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - 用于管理的规则引擎，yaml 中的 DSL 用于查询、过滤和对资源的操作.
+* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - 用于管理的规则引擎，yaml 中的 DSL，用于查询、过滤和对资源的操作.
 * [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) - aws Chef 食谱的开发存储库.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - 管理资源的工具，包括 EC2、EBS、RDS 和 Route53.
 * [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec 测试您的资源.
@@ -880,7 +880,7 @@ AWS 存储库：
 
 社区回购：
 
-* [startup-class/setup :fire::fire:](https://github.com/startup-class/setup) - 启动工程 MOOC 的 EC2 安装文件.
+* [startup-class/setup :fire::fire:](https://github.com/startup-class/setup) - 启动工程 MOOC 的 EC2 设置文件.
 
 ### Miscellaneous Repos
 
@@ -975,8 +975,8 @@ AWS 指南：
 
 ### Books
 
-* 亚马逊网络服务在行动 [Manning](https://www.manning.com/books/amazon-web-services-in-action) 或 [Amazon.com](http://amzn.com/1617292885)
-* AWS Lambda 实战 [Manning](https://www.manning.com/books/aws-lambda-in-action) 或 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* 亚马逊网络服务在行动 [Manning](https://www.manning.com/books/amazon-web-services-in-action) 或者 [Amazon.com](http://amzn.com/1617292885)
+* AWS Lambda 实战 [Manning](https://www.manning.com/books/aws-lambda-in-action) 或者 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ### Whitepapers
 
@@ -1181,7 +1181,7 @@ AWS 会议：
 <br/>
 
 * 过去 30 天内活跃客户超过 100 万.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
-* $ 7B + 年收入运行率业务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+* $7B+ 年收入运行率业务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
     * 81% 的收入同比增长.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * EC2 使用量同比增长 95%.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * S3 数据传输同比增长 120%.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
@@ -1210,7 +1210,7 @@ AWS 会议：
 * [Blox](https://blox.github.io/) - 用于在 ECS 上构建自定义调度程序的开源项目.
 * [EC2 Container Service (ECS)](https://aws.amazon.com/ecs/) - 支持 EC2 实例上的 Docker 容器.
 * [EC2 Systems Manager](https://aws.amazon.com/ec2/systems-manager/) - 轻松配置和管理 EC2 和本地系统.
-* [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - 提供云中应用程序的快速部署和管理.
+* [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - 提供云中应用的快速部署和管理.
 * [Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/) - 使用 Xen 提供可扩展的虚拟专用服务器.
 * [Elastic GPUs](https://aws.amazon.com/ec2/Elastic-GPUs/) - 将低成本 GPU 连接到 EC2 实例以实现图形加速.
 * [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - 自动跨多个 EC2 实例分配传入流量.
@@ -1240,7 +1240,7 @@ AWS 会议：
 * [Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - 托管 Elasticsearch，一种流行的开源搜索和分析引擎.
 * [Glue](https://aws.amazon.com/glue/) - 准备数据并将数据加载到数据存储.
 * [Kinesis](https://aws.amazon.com/kinesis/) - 提供对大型分布式数据流的实时数据处理.
-* [Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - 无需学习任何新的编程技能，即可对流数据编写标准 SQL 查询.
+* [Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - 无需学习任何新的编程技能，即可针对流数据编写标准 SQL 查询.
 * [Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - 捕获流数据并将其自动加载到 S3 和 Redshift.
 * [Quicksight](https://aws.amazon.com/quicksight/) - 以传统 BI 解决方案 1/10 的成本提供基于云的商业智能.
 * [Redshift](https://aws.amazon.com/redshift/) - 提供具有列式存储和多节点计算的 PB 级数据仓库.
@@ -1266,8 +1266,8 @@ AWS 会议：
 
 ### Security and Identity Services
 
-* [Certificate Manager](https://aws.amazon.com/certificate-manager/) - 让您可以轻松预置、管理和部署 SSL/TLS 证书以用于 AWS 服务.
-* [CloudHSM](https://aws.amazon.com/cloudhsm/) - 通过在 AWS 云中使用专用硬件安全模块 (HSM) 设备，帮助满足企业、合同和法规对数据安全的合规性要求.
+* [Certificate Manager](https://aws.amazon.com/certificate-manager/) - 让您轻松预置、管理和部署 SSL/TLS 证书以用于 AWS 服务.
+* [CloudHSM](https://aws.amazon.com/cloudhsm/) - 通过在 AWS 云中使用专用的硬件安全模块 (HSM) 设备，帮助满足企业、合同和法规对数据安全的合规性要求.
 * [Directory Service](https://aws.amazon.com/directoryservice/) - 一项托管服务，允许您将资源与现有的本地 Microsoft Active Directory 连接或在 AWS 云中设置新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - 隐式服务，用于验证对各种服务的访问的验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) - 一项自动化安全评估服务，有助于提高部署在 AWS 上的应用程序的安全性和合规性.
@@ -1277,7 +1277,7 @@ AWS 会议：
 
 ### Internet of Things Service
 
-* [IoT](https://aws.amazon.com/iot/) - 通过 MQTT 和 HTTP 在联网的事物（例如传感器、执行器、嵌入式设备或智能设备）与 AWS 云之间实现安全的双向通信.
+* [IoT](https://aws.amazon.com/iot/) - 通过 MQTT 和 HTTP 在联网的事物（例如传感器、执行器、嵌入式设备或智能设备）和 AWS 云之间实现安全的双向通信.
 
 ### Mobile Services
 
@@ -1295,7 +1295,7 @@ AWS 会议：
 * [Glacier](https://aws.amazon.com/glacier/) - 提供用于归档数据的低成本、长期存储选项.
 * [Import/Export](https://aws.amazon.com/importexport/) - 使用便携式存储设备进行传输，加速将大量数据移入和移出 AWS.
 * [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - 提供基于 Web 服务的存储.
-* [Storage Gateway](https://aws.amazon.com/storagegateway/) - 具有基于云备份的 iSCSI 块存储虚拟设备.
+* [Storage Gateway](https://aws.amazon.com/storagegateway/) - 具有基于云的备份的 iSCSI 块存储虚拟设备.
 
 ### Databases
 
@@ -1313,7 +1313,7 @@ AWS 会议：
 * [AppStream](https://aws.amazon.com/appstream/) - 适用于应用和游戏的灵活、低延迟的流媒体服务.
 * [DevPay](https://aws.amazon.com/devpay/) - 提供计费和帐户管理.
 * [Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - 提供 S3 托管视频的视频转码.
-* [Flexible Payments Service (FPS)](https://payments.amazon.com/developer) - 提供小额支付接口.
+* [Flexible Payments Service (FPS)](https://payments.amazon.com/developer) - 提供小额支付的接口.
 * [Simple Email Service (SES)](https://aws.amazon.com/ses/) - 提供批量和交易电子邮件发送.
 * [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - 为应用程序提供托管的多协议“推送”消息.
 * [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) - 为 Web 应用程序提供托管消息队列.
@@ -1331,7 +1331,7 @@ AWS 会议：
 
 ### Miscellaneous Services
 
-* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - 为卖家提供程序化网络服务，以使用亚马逊物流将商品运送到亚马逊或从亚马逊运送商品.
+* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - 为卖家提供程序化网络服务，使用亚马逊物流将商品运送到亚马逊或从亚马逊运送商品.
 * [Mechanical Turk](https://www.mturk.com/mturk/welcome) - 管理分布在许多人中的小型工作单元.
 * [Partner Network (APN)](https://aws.amazon.com/partners/) - 为合作伙伴提供技术信息以及销售和营销支持，以增加商机.
 * [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - 提供对产品数据和电子商务功能的访问.

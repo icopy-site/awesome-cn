@@ -101,7 +101,7 @@ them.
 
 ### Quadrilateral and hexahedral meshing
 
-- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - 可扩展和强大的四边形.
+- [QuadriFlow](https://stanford.edu/~jingweih/papers/quadriflow/) - 三角测量的可扩展和强大的四边形测量.
   (C++, BSD, [GitHub](https://github.com/hjwdzh/QuadriFlow))
 
 ### Mesh tools
@@ -136,12 +136,12 @@ them.
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - 大型、稀疏、非对称线性方程组的直接求解.
   (C, 主要是 BSD, [GitHub](https://github.com/xiaoyeli/superlu))
-- [KryPy](https://github.com/andrenarchy/krypy) - Krylov subspace methods for the solution of linear algebraic systems.
-  （Python、麻省理工学院、GitHub）
 - [PyAMG](https://pyamg.github.io) - Python 中的代数多重网格求解器.
   （Python，麻省理工学院， [GitHub](https://github.com/pyamg/pyamg))
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - 高性能预处理器和求解器库.
   (C, Apache 2.0 / MIT, [GitHub](https://github.com/hypre-space/hypre))
+- [krylov](https://github.com/nschloe/krylov) - Python 的迭代线性求解器.
+  （Python、麻省理工学院、GitHub）
 
 ## Visualization
 
