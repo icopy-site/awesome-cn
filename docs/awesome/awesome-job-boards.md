@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
 
-一个很棒的利基工作板的精选列表.
+精选的令人敬畏的利基工作板列表.
 
 
 
@@ -57,11 +57,11 @@
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - 由 InfoSec 专业人士开发的社区运营的工作平台
-* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜而精益的信息安全工作委员会
+* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜和精简的信息安全工作委员会
 
 ## Metaverse
 
-* [Metaverse Jobs](https://www.themetaversejobs.com/) - Metaverse 工作的工作板
+* [Metaverse Jobs](https://www.themetaversejobs.com/) - 元界工作的工作板
 * [Hire.AR](https://www.hire.ar/) - 增强现实工作的工作板
 
 ## Programming
@@ -90,7 +90,6 @@
 
 ### JavaScript
 
-* [Angular Work](https://angular.work/)
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
@@ -124,6 +123,7 @@
 
 ### Rust
 
+* [Rust Jobs](https://rustjobs.dev)
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 
 ### Scala
@@ -143,13 +143,13 @@
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
 * [Just Remote](https://justremote.co/remote-jobs)
-* [Dynamite Jobs](https://www.dynamitejobs.com/) - 来自远程优先公司的工作
+* [Dynamite Jobs](https://dynamitejobs.com/) - 来自远程优先公司的工作
 
 ### Aggregator
 
 * [4 day week](https://4dayweek.io/) - 具有更好的工作与生活平衡的软件工作
-* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司中删除数千个远程工作
-* [remote | OK](https://remoteok.io/)
+* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司刮下数千个远程工作
+* [remote | OK](https://remoteok.com/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 
@@ -162,7 +162,7 @@
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [GOODJOBS](https://goodjobs.careers/) - 在试图解决气候变化和粮食不安全等问题的公司中精心挑选工程职位的工作委员会
-* [Relocate.me](https://relocate.me/) - 经验证的搬迁包
+* [Relocate.me](https://relocate.me/) - 已验证的搬迁包
 * [underpin](https://www.underpin.company/) - 来自实际招聘人员的技术工作和求职建议
 
 ### Australia

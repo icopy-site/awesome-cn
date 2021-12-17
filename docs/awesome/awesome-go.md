@@ -111,7 +111,7 @@
 * [govkbot](https://github.com/nikepan/govkbot) - 简单的去 [VK](https://vk.com) 机器人库.
 * [hanu](https://github.com/sbstjn/hanu) - 编写 Slack 机器人的框架.
 * [Kelp](https://github.com/stellar/kelp) - 官方交易和做市机器人 [Stellar](https://www.stellar.org/) 地标. 开箱即用，用 Golang 编写，兼容中心化交易所和自定义交易策略.
-* [larry](https://github.com/ezeoleaf/larry) - Larry 是一个非常简单的 Twitter bot 生成器，它可以从 Go 内置的 Github 中发送随机存储库.
+* [larry](https://github.com/ezeoleaf/larry) - Larry 是一个非常简单的 Twitter bot 生成器，可以从 Go 内置的 Github 中发送随机存储库.
 * [margelet](https://github.com/zhulik/margelet) - 构建 Telegram 机器人的框架.
 * [micha](https://github.com/onrik/micha) - 去电报机器人 API 库.
 * [olivia](https://github.com/olivia-ai/olivia) - 使用人工神经网络构建的聊天机器人.
@@ -186,7 +186,7 @@
 * [ts](https://github.com/liujianping/ts) - 时间戳转换和比较工具.
 * [ukautz/clif](https://github.com/ukautz/clif) - 小型命令行界面框架.
 * [urfave/cli](https://github.com/urfave/cli) - 用于在 Go（以前称为 codegangsta/cli）中构建命令行应用程序的简单、快速和有趣的包.
-* [wlog](https://github.com/dixonwille/wlog) - 支持跨平台颜色和并发的简单日志记录界面.
+* [wlog](https://github.com/dixonwille/wlog) - 简单的日志界面，支持跨平台颜色和并发.
 * [wmenu](https://github.com/dixonwille/wmenu) - 提示用户做出选择的 cli 应用程序的易于使用的菜单结构.
 
 
@@ -343,7 +343,7 @@
 * [go-rquad](https://github.com/aurelien-rainone/go-rquad) - 具有高效点定位和邻居发现的区域四叉树.
 * [gocache](https://github.com/eko/gocache) - 一个完整的 Go 缓存库，具有多个存储（内存、memcache、redis 等）、可链接、可加载、指标缓存等.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) - 并发 FIFO 队列.
-* [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMap、树、HashSet 等.
+* [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMaps、树、HashSet 等.
 * [gofal](https://github.com/xxjwxc/gofal) - Go 的小数 api.
 * [golang-set](https://github.com/deckarep/golang-set) - 线程安全和非线程安全的 Go 高性能集.
 * [goset](https://github.com/zoumo/goset) - 一个有用的 Go 集合集合实现.
@@ -751,7 +751,7 @@
 * [stl](https://gitlab.com/russoj88/stl)  - 用于读取和写入 STL（立体光刻）文件的模块. 并发读取算法.
 * [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 对于 tar 文件.
 * [todotxt](https://github.com/1set/todotxt) - 去 Gina Trapani 的图书馆 [*todo.txt*](http://todotxt.org/) 文件，支持解析和操作文件中的任务列表 [*todo.txt* format](https://github.com/todotxt/todo.txt).
-* [vfs](https://github.com/C2FO/vfs) - 一组可插入的、可扩展的和自以为是的文件系统功能，适用于 Go 跨许多文件系统类型，例如 os、S3 和 GCS.
+* [vfs](https://github.com/C2FO/vfs) - 一组可插拔、可扩展和自以为是的文件系统功能，适用于 Go 跨多种文件系统类型，例如 os、S3 和 GCS.
 
 
 ## Financial
@@ -788,7 +788,7 @@
 * [conform](https://github.com/leebenson/conform)  - 控制用户输入. 根据结构标签修剪、清理和清理数据.
 * [form](https://github.com/go-playground/form)  - 将 url.Values 解码为 Go 值并将 Go 值编码为 url.Values. 双阵列和全图支持.
 * [formam](https://github.com/monoculum/formam) - 将表单的值解码为一个结构体.
-* [forms](https://github.com/albrow/forms) - 用于解析和验证支持多部分表单和文件的表单/JSON 数据的框架无关库.
+* [forms](https://github.com/albrow/forms) - 与框架无关的库，用于解析和验证支持多部分表单和文件的表单/JSON 数据.
 * [gorilla/csrf](https://github.com/gorilla/csrf) - CSRF protection for Go web applications & services.
 * [nosurf](https://github.com/justinas/nosurf) - Go 的 CSRF 保护中间件.
 * [qs](https://github.com/sonh/qs) - 用于将结构编码为 URL 查询参数的模块.
@@ -1031,7 +1031,7 @@
 * [gatt](https://github.com/paypal/gatt) - Gatt 是用于构建低功耗蓝牙外围设备的 Go 包.
 * [gobot](https://github.com/hybridgroup/gobot/) - Gobot 是一个用于机器人、物理计算和物联网的框架.
 * [huego](https://github.com/amimof/huego) - 用于 Go 的广泛的 Philips Hue 客户端库.
-* [iot](https://github.com/vaelen/iot/) - IoT 是用于实现 Google IoT Core 设备的简单框架.
+* [iot](https://github.com/vaelen/iot/) - IoT 是一个用于实现 Google IoT Core 设备的简单框架.
 * [mainflux](https://github.com/Mainflux/mainflux) - 工业物联网消息和设备管理服务器.
 * [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 * [sensorbee](https://github.com/sensorbee/sensorbee) - 用于物联网的轻量级流处理引擎.
@@ -1107,7 +1107,7 @@
 * [go-log](https://github.com/subchen/go-log) - Go 中简单且可配置的登录，带有级别、格式化程序和编写器.
 * [go-log](https://github.com/siddontang/go-log) - 日志库支持级别和多处理程序.
 * [go-log](https://github.com/ian-kent/go-log) - Go 中的 Log4j 实现.
-* [go-logger](https://github.com/apsdehal/go-logger) - 带有级别处理程序的 Go 程序的简单记录器.
+* [go-logger](https://github.com/apsdehal/go-logger) - Go 程序的简单记录器，带有级别处理程序.
 * [gologger](https://github.com/sadlil/gologger) - 简单易用的日志库，可在彩色控制台、简单控制台、文件或 Elasticsearch 中登录.
 * [gomol](https://github.com/aphistic/gomol) - 具有可扩展日志输出的 Go 的多输出、结构化日志记录.
 * [gone/log](https://github.com/One-com/gone/tree/master/log) - 快速、可扩展、功能齐全、std-lib 源兼容的日志库.
@@ -1133,7 +1133,7 @@
 * [logxi](https://github.com/mgutz/logxi) - 12 要素应用记录器，速度快，让您开心.
 * [lumberjack](https://github.com/natefinch/lumberjack) - 简单的滚动记录器，实现 io.WriteCloser.
 * [mlog](https://github.com/jbrodriguez/mlog) - 简单的 go 日志记录模块，有 5 个级别，一个可选的旋转日志文件功能和 stdout/stderr 输出.
-* [onelog](https://github.com/francoispqt/onelog)  - Onelog 是一个非常简单但非常高效的 JSON 记录器. 它是所有场景中最快的 JSON 记录器. 此外，它是分配最低的记录器之一.
+* [onelog](https://github.com/francoispqt/onelog)  - Onelog 是一个非常简单但非常高效的 JSON 记录器. 它是所有场景中最快的 JSON 记录器. 此外，它是分配最少的记录器之一.
 * [ozzo-log](https://github.com/go-ozzo/ozzo-log)  - 支持日志严重性、分类和过滤的高性能日志记录. 可以将过滤的日志消息发送到各种目标（例如控制台、网络、邮件）.
 * [phuslu/log](https://github.com/phuslu/log) - 结构化日志记录变得容易.
 * [rollingwriter](https://github.com/arthurkiller/rollingWriter) - RollingWriter 是一个自动旋转的 `io.Writer` 实现，具有多策略以提供日志文件轮换.
@@ -1333,7 +1333,7 @@ _**非官方** 用于构建项目的模式集._
 * [browscap_go](https://github.com/digitalcrab/browscap_go) - GoLang 库 [Browser Capabilities Project](https://browscap.org/).
 * [captcha](https://github.com/steambap/captcha) - 包验证码为验证码生成提供了一个易于使用、不受​​约束的 API.
 * [conv](https://github.com/cstockton/go-conv) - Package conv 提供跨 Go 类型的快速直观的转换.
-* [datacounter](https://github.com/miolini/datacounter) - 去为 reader/writer/http.ResponseWriter 计数器.
+* [datacounter](https://github.com/miolini/datacounter) - 为 reader/writer/http.ResponseWriter 计数器.
 * [faker](https://github.com/pioz/faker) - Go 的随机假数据和结构生成器.
 * [ffmt](https://github.com/go-ffmt/ffmt) - 美化人类的数据显示.
 * [gatus](https://github.com/TwinProduction/gatus) - 自动化服务健康仪表板.
@@ -1648,7 +1648,7 @@ _**非官方** 用于构建项目的模式集._
 * [gonum/plot](https://github.com/gonum/plot) - gonum/plot 提供了一个 API，用于在 Go 中构建和绘制绘图.
 * [goraph](https://github.com/gyuho/goraph) - 纯 Go 图论库（数据结构、算法可视化）.
 * [gosl](https://github.com/cpmech/gosl) - 用于线性代数、FFT、几何、NURBS、数值方法、概率、优化、微分方程等的科学库.
-* [GoStats](https://github.com/OGFris/GoStats) - GoStats 是一个开源的 GoLang 数学统计库，主要用于机器学习领域，它涵盖了大多数统计测量功能.
+* [GoStats](https://github.com/OGFris/GoStats) - GoStats 是一个用于数学统计的开源 GoLang 库，主要用于机器学习领域，它涵盖了大多数统计测量功能.
 * [graph](https://github.com/yourbasic/graph) - 基本图形算法库.
 * [jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) - 使用 graphviz 支持操作 JSONL 图的工具.
 * [ode](https://github.com/ChristopherRabotin/ode) - 常微分方程 (ODE) 求解器，支持扩展状态和基于通道的迭代停止条件.
@@ -2214,7 +2214,7 @@ _**非官方** 用于构建项目的模式集._
 * [tik](https://github.com/andy2046/tik) - 简单易用的 Go 计时轮包.
 * [tome](https://github.com/cyruzin/tome) - Tome 旨在对简单的 RESTful API 进行分页.
 * [toolbox](https://github.com/viant/toolbox)  - 切片、映射、多映射、结构、函数、数据转换实用程序. 服务路由器、宏评估器、标记器.
-* [ugo](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
+* [ugo](https://github.com/alxrm/ugo) - ugo 是 Go 语法简洁的切片工具箱.
 * [UNIS](https://github.com/esemplastic/unis) - Go 中字符串实用程序的通用架构™.
 * [usql](https://github.com/knq/usql) - usql 是 SQL 数据库的通用命令行界面.
 * [util](https://github.com/shomali11/util)  - 有用的实用功能的集合.  （字符串，并发，操作，...）.
@@ -2277,7 +2277,7 @@ _**非官方** 用于构建项目的模式集._
 
 * [gmf](https://github.com/3d0c/gmf) - 通过 \ * 库绑定 FFmpeg.
 * [go-astisub](https://github.com/asticode/go-astisub) - 在 GO 中处理字幕（.srt、.stl、.ttml、.webvtt、.ssa/.ass、teletext、.smi 等）.
-* [go-astits](https://github.com/asticode/go-astits) - 在 GO 中本地解析和解复用 MPEG 传输流 (.ts).
+* [go-astits](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
 * [go-m3u8](https://github.com/quangngotan95/go-m3u8) - Apple m3u8 播放列表的解析器和生成器库.
 * [go-mpd](https://github.com/unki2aut/go-mpd) - MPEG-DASH 清单文件的解析器和生成器库.
 * [goav](https://github.com/giorgisio/goav) - FFmpeg 的综合 Go 绑定.
@@ -2472,7 +2472,7 @@ _**非官方** 用于构建项目的模式集._
 * [php-parser](https://github.com/z7zmey/php-parser) - 用 Go 编写的 PHP 解析器.
 * [staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 * [tarp](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp 在 Go 源代码中查找没有直接单元测试的函数和方法.
-* [tickgit](https://github.com/augmentable-dev/tickgit) - CLI 和 go 包用于显示代码注释 TODO（以任何语言）并应用 `git blame` 来识别作者.
+* [tickgit](https://github.com/augmentable-dev/tickgit) - CLI 和 go 包用于显示代码注释 TODO（以任何语言）并应用 `gitblame` 来识别作者.
 * [todocheck](https://github.com/preslavmihaylov/todocheck) - 静态代码分析器，将代码中的 TODO 注释与问题跟踪器中的问题联系起来.
 * [unconvert](https://github.com/mdempsky/unconvert) - 从 Go 源中删除不必要的类型转换.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - 未使用的检查 Go 代码中未使用的常量、变量、函数和类型.
@@ -2486,7 +2486,7 @@ _**非官方** 用于构建项目的模式集._
 * [Go plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9568-go) - JetBrains IDE 的 Go 插件.
 * [go-language-server](https://github.com/theia-ide/go-language-server) - 将 VSCode go 扩展转换为支持语言服务器协议的语言服务器的包装器.
 * [go-mode](https://github.com/dominikh/go-mode.el) - GNU/Emacs 的 Go 模式.
-* [go-plus](https://github.com/joefitzgerald/go-plus) - 用于 Atom 的 Go (Golang) 包，它添加了自动完成、格式化、语法检查、Linting 和审查.
+* [go-plus](https://github.com/joefitzgerald/go-plus) - 添加自动完成、格式化、语法检查、Linting 和审查的 Atom 的 Go (Golang) 包.
 * [gocode](https://github.com/nsf/gocode) - Go 编程语言的自动完成守护进程.
 * [goimports-reviser](https://github.com/incu6us/goimports-reviser) - 用于导入的格式化工具.
 * [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - 此扩展为 VS Code 添加了对 Go 语言的基准分析支持.
@@ -2652,6 +2652,7 @@ _**非官方** 用于构建项目的模式集._
 * [mockingjay](https://github.com/quii/mockingjay-server)  - 来自一个配置文件的虚假 HTTP 服务器和消费者驱动的合同. 您还可以让服务器随机出现异常行为，以帮助进行更真实的性能测试.
 * [myLG](https://github.com/mehrdadrad/mylg) - 用 Go 编写的命令行网络诊断工具.
 * [naclpipe](https://github.com/unix4fun/naclpipe) - 用 Go 编写的简单的基于 NaCL EC25519 的加密管道工具.
+* [Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay)  - 牛赛重生. 为新时代.
 * [nes](https://github.com/fogleman/nes) - 用 Go 编写的任天堂娱乐系统 (NES) 模拟器.
 * [Orbit](https://github.com/gulien/orbit) - 用于运行命令和从模板生成文件的简单工具.
 * [peg](https://github.com/pointlander/peg) - Peg，解析表达式语法，是 Packrat 解析器生成器的实现.

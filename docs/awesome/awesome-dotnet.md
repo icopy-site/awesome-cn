@@ -111,6 +111,7 @@
 
 * [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - 一组基于 Bootstrap 和 Blazor 的企业级 UI 组件.
 * [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 一组基于 Ant Design 和 Blazor WebAssembly 的企业级 UI 组件.
+* [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) - 一组基于 Material Design 和 Blazor WebAssembly 的企业级 UI 组件.
 
 ## Blockchain
 
@@ -189,7 +190,7 @@
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - 用于 .NET 的终端 UI 工具包.
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs)  - PowerArgs 将命令行参数转换为易于编程的 .NET 对象. 它还提供了大量可选功能，例如参数验证、自动生成的用法、制表符完成和大量的可扩展性
 * [ReadLine](https://github.com/tonerdo/readline) - 用于 .NET/.NET Core 的类似 GNU-Readline 的库.
-* [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 独特的命令行解析器，利用对象树进行命令.
+* [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，利用对象树作为命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - 一个可以更轻松地创建漂亮的控制台应用程序的库.
 
@@ -275,7 +276,7 @@
 
 ## Database
 
-* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元存储
+* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元组存储
 * [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze 数据库是一个开源的嵌入式键值存储
 * [Event Store](https://github.com/EventStore/EventStore) - 在 JavaScript 中具有复杂事件处理功能的开源函数式数据库
 * [LiteDB](https://github.com/mbdavid/LiteDB) - 单个数据文件中的 .NET NoSQL 文档存储 - https://www.litedb.org
@@ -335,7 +336,7 @@
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) 组件和拓扑. 为分布式和容错事件流处理提供高级抽象.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - 用于构建分布式应用程序的可插拔基础块.
 * [MBrace](https://github.com/mbraceproject) - 云的集成数据脚本
-* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - 原型演员 - Golang 和 C 的超快速分布式演员#
+* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - 用于 Golang 和 C 的超快速分布式 Actor#
 
 ## DLR
 
@@ -1008,7 +1009,7 @@
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用程序.  **[免费][专有]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 * [Netling](https://github.com/hallatore/Netling)  - 一个负载测试客户端，用于简单的 Web 测试. 它在使用很少的 CPU 或内存时非常快.
-* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一种开源（基于 .NET）测试电子邮件查看器，它在本地运行，内置 SMTP 服务器，旨在接收和通知测试电子邮件消息.
+* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理 Visual Studio 的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行的操作、错误/延迟的随机生成和实验性 GraphQL 支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI](https://github.com/dotnet/cli)
@@ -1062,14 +1063,14 @@
 * [Coalesce](https://coalesce.intellitect.com/) - Coalesce 是一个用于快速开发 ASP.NET Core Web 应用程序的框架.
 * [FubuMVC](https://github.com/DarthFubuMVC/fubumvc) - .NET 的前端控制器风格的 MVC 框架
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在 .NET 和 Mono 上构建基于 HTTP 的服务的轻量级、低仪式性的框架
-* [IISNode](https://github.com/tjanczuk/iisnode) - Host Node.js applications in IIS
+* [IISNode](https://github.com/tjanczuk/iisnode) - 在 IIS 中托管 Node.js 应用程序
 * [Suave.IO](https://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in F#.
 * [DotVVM](https://github.com/riganti/dotvvm) - 适用于不喜欢编写 JavaScript 的人的 MVVM 框架，具有 OWIN 和 ASP.NET Core 支持以及 Visual Studio 2015 和 2017 的免费扩展.
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## Web Servers
 
-* [Kestrel](https://github.com/aspnet/KestrelHttpServer) - 基于 libuv 的 ASP.NET Core 网络服务器
+* [Kestrel](https://github.com/aspnet/KestrelHttpServer) - 基于 libuv 的 ASP.NET Core Web 服务器
 * [EmbedIO](https://github.com/unosquare/embedio) - 基于 Mono 和跨平台构建的 Web 服务器
 * [XSP](https://github.com/mono/xsp)  - Mono 的 ASP.NET 托管服务器. 该模块包括一个 Apache 模块，一个可以连接到其他 Web 服务器的 FastCGI 模块以及用于测试的独立服务器（类似于微软的 Cassini）
 

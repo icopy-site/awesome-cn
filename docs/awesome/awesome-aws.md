@@ -804,7 +804,7 @@ AWS 存储库：
 
 社区回购：
 
-* [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - 一个用于 Ruby 的基于 SQS 线程的超高效消息处理器.
+* [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - 一个用于 Ruby 的超高效基于 SQS 线程的消息处理器.
 
 ### Data
 
@@ -828,7 +828,7 @@ AWS 存储库：
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - 管理资源的工具，包括 EC2、EBS、RDS 和 Route53.
 * [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec 测试您的资源.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - 使用 Vagrant 管理您的 EC2 和 VPC 实例.
-* [NixOS/nixops :fire::fire::fire:](https://github.com/NixOS/nixops) - 使用 NixOS 配置 EC2 实例、S3 存储桶和其他资源.
+* [NixOS/nixops :fire::fire::fire::fire:](https://github.com/NixOS/nixops) - 使用 NixOS 配置 EC2 实例、S3 存储桶和其他资源.
 
 ### Security
 
@@ -1180,7 +1180,7 @@ AWS 会议：
 </p>
 <br/>
 
-* 过去 30 天内活跃客户超过 100 万.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
+* 过去 30 天内活跃的客户超过 100 万.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * $7B+ 年收入运行率业务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
     * 81% 的收入同比增长.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * EC2 使用量同比增长 95%.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
@@ -1193,7 +1193,7 @@ AWS 会议：
 * 102Tbps 网络容量进入数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 * 自 2014 年以来推出的 500 多项主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 * 所有其他 14 家云提供商的总容量是 AWS 总容量的 1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-* 每天，AWS 都会增加足够的新服务器容量来支持 Amazon 的所有全球基础设施，当时它是一家年收入为 7B 美元的企业（2004 年）.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+* 每天，AWS 都会增加足够的新服务器容量来支持 Amazon 的所有全球基础设施，当时它的年收入为 7B 美元（2004 年）.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 

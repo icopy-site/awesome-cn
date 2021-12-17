@@ -37,6 +37,9 @@
 - [Dr. Jacob Baker](http://cmosedu.com) - 课程和教程，拉斯维加斯内华达大学教授.
 - [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)， 和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
 
+## Documentation
+- [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Inkscape 的电路图符号
+
 ## Simulators
 
 ### Analog and Mixed Signal Circuit Simulators
@@ -78,7 +81,7 @@
 - [Eagle](https://www.autodesk.com/products/eagle/overview) - 最受欢迎的 EDA 软件包之一，因为它是（板尺寸受限）免费版本.
 - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - 无限制的免费 EDA 包，由 RS Components 赞助.
 - [Altium CircuitMaker](https://circuitmaker.com/) - 来自 go to pro 软件制造商的免费软件包.
-- [gEDA](http://geda-project.org) - 另一个开源包，适合只喜欢脚本和 makefile、Linux 和 BSD 的人.
+- [gEDA](http://geda-project.org) - 另一个开源包，适合那些只喜欢脚本和 makefile、Linux 和 BSD 的人.
 - [DipTrace](https://diptrace.com) - 带有（引脚和信号层受限）免费版本的质量原理图捕获和 PCB 设计软件.
 - [LibrePCB](https://librepcb.org/) - 适用于所有人、跨平台和 GNU GPLv3 的全新、强大且直观的 EDA 工具.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) - 一个免费开源的EDA工具，专注于快捷操作.
@@ -106,7 +109,7 @@
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - 相当多的不同PCB批量和组装服务的比较服务.
-- [OSH Park](https://oshpark.com) - 低成本 PCB 批量服务，采用带有标志性紫色丝网印刷的高质量电路板.
+- [OSH Park](https://oshpark.com) - 低成本 PCB 批量服务，采用带有标志性紫色丝网印刷的高品质电路板.
 - [Aisler](https://aisler.net) - 在欧洲（德国）制造和发货的经济实惠的优质电路板.
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - 低成本的 PCB 批处理服务，以其“肮脏”的质量而自豪.
 - [JLCPCB](https://jlcpcb.com/) - 低成本 PCB 批量服务和内部低成本 SMT 服务.
@@ -121,7 +124,7 @@
 - [Kitspace](https://kitspace.org)  - 项目共享网站，可帮助您购买零件和重建项目. 开源并真正由您开发.
 - [Hackaday.io](https://hackaday.io) - 用于分享热门博客项目的社交网站.
 - [Hackster.io](https://www.hackster.io/)  - 另一个用于共享项目的社交网站. 按平台、主题和产品组织良好.
-- [InventHub](https://inventhub.io/) - 基于 Git 的项目托管和协作平台，用于硬件开发.
+- [InventHub](https://inventhub.io/) - 用于硬件开发的基于 Git 的项目托管和协作平台.
 - [CADLAB](https://cadlab.io/) - 另一个用于硬件开发的基于 Git 的项目托管和协作平台.
 
 
@@ -144,7 +147,7 @@
 - [Hackaday](https://hackaday.com) - 可能是最流行的博客，涵盖了全体作家的电子和硬件黑客攻击.
 - [bunniestudios.com](https://www.bunniestudios.com) - Andrew &#39;Bunnie&#39; Huang 涵盖硬件黑客、开放硬件、制造等.
 - [Bald Engineer](https://www.baldengineer.com) - James Lewis 撰写的有关电子和嵌入式软件的项目日志、教程和文章.
-- [Rheingold Heavy](https://rheingoldheavy.com) - 更多关于电子和嵌入式软件的项目日志、教程和文章，这些是由 Dan Hienzsch 撰写的.
+- [Rheingold Heavy](https://rheingoldheavy.com) - 更多关于电子和嵌入式软件的项目日志、教程和文章，这些是 Dan Hienzsch 的作品.
 - [Hackster.io](https://www.hackster.io/news) - 另一个涵盖电子产品的博客.
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) - 关于开源硬件项目和有趣的应用笔记的博客.
 - [N-O-D-E](https://n-o-d-e.net/) - 关于 DIY 电子产品、硬件和技术的博客.
@@ -166,7 +169,7 @@
 - [The Amp Hour](https://theamphour.com/) - 与 Chris Gammel 和 Dave Jones (EEVBlog) 关于电子产品的即兴聊天，经常与客人
 - [Embedded.fm](https://embedded.fm/) - Christopher 和 Elecia White 经常与客人讨论嵌入式系统开发等等.
 - [The Spark Gap Podcast](http://thesparkgap.net) - 每集涵盖一个特定的 EE 主题，有时还有嘉宾.
-- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - 每周播客，来自 MacroFab 的 Parker 和 Stephen 讨论 EE 主题和行业新闻.
+- [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - 每周播客，MacroFab 的 Parker 和 Stephen 讨论 EE 主题和行业新闻.
 - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - 涵盖从机械到电气的一般工程主题.
 
 
@@ -176,7 +179,7 @@
 - [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube 频道，通过大量喜剧来揭穿和解释 EE 主题.
 - [Micah Scott](https://www.youtube.com/user/micahjd) - 逆向工程和以创造性方式重新利用消费电子硬件的视频日志.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - 电子项目教程，通常也适合初学者.
-- [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - 对实验室设备和原型产品进行非常深入的拆解、维修和审查.
+- [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - 非常深入地拆解、维修和审查实验室设备和原型产品.
 - [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - 以经典电子设备为重点的拆卸、维修和修复.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) - 电子教程、项目和操作方法.
@@ -188,19 +191,19 @@
 
 ## Subscription Kit Services
 - [AdaBox](https://www.adafruit.com/adabox/)  - 精选的 Adafruit 产品、独特的收藏品和独家折扣. 全部按季度交付.
-- [HackerBoxes](https://hackerboxes.com/) - 包含项目、组件、模块和工具的每月惊喜盒.
+- [HackerBoxes](https://hackerboxes.com/) - 包含项目、组件、模块和工具的每月惊喜礼盒.
 
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) - 社区支持的具有大量电子元件模型的 3D 模型数据库.
 - [3D ContentCentral](https://www.3dcontentcentral.com) - 专用于零件 3D 模型的网站（需要登录）.
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 一份来自中国的廉价电子产品清单，您可以在您的项目中使用它们.
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 可以在您的项目中使用的来自中国的廉价电子产品清单.
 - [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - 所有可用软件工具的更全面列表.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - 另一个 GitHub 列表：电子爱好者和硬件黑客的资源.
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - 很棒的 FPGA 资源列表.
-- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - 机器人电子产品资源、项目和产品的 GitHub 列表.
+- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - 机器人电子产品的资源、项目和产品的 GitHub 列表.
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - 很棒的嵌入式编程资源列表.
 - [TCAD Central](https://tcad.com/Software.html) - 来自 DEVSIM 制造商的技术 CAD (TCAD) 软件和资源列表.
 - [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - 精选的优秀开源 FPGA 板列表.
-- [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - 精心挑选的硬件设计工具列表，重点关注芯片设计.
+- [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - 精选的硬件设计工具列表，重点是芯片设计.

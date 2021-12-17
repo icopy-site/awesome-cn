@@ -25,7 +25,6 @@
 
 - [Labnotes](https://labnotes.org/) . 关于软件开发、技术和其他任何有趣内容的每周电子邮件.
 - [Web Development Reading List](https://wdrl.info) . 本时事通讯分享 Web 开发方面的最新文章.
-- [Fullweb Weekly](http://fullweb.io/) . 面向全栈 Web 开发人员的每周时事通讯. 它每周向您发送有关 Web 前端和后端、DevOps 和用户体验的前 5 个链接.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周时事通讯，讨论有关网络平台的有趣和热门话题. [Archive](https://ponyfoo.com/weekly/history).
 - [Dev Awesome](https://devawesome.io/) . 每两周在您的收件箱中获取最新的编程新闻、酷炫的库和生产力技巧.
 - [Insnippets](https://insnippets.com) . 包含 TL;DR 的每日时事通讯，关于 Web 开发、Devops 和分布式系统的有趣话题.
@@ -110,7 +109,7 @@
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画时事通讯让您及时了解最佳网络动画、动画设计和 UX 资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动作设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
-- [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
+- [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和出色的设计相关内容来自最佳 subreddits.
 - [Figmalion](https://figmalion.com) . 双周刊策划的关于 [Figma](https://www.figma.com/).
 
@@ -174,7 +173,7 @@
 
 ### Go
 
-- [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周时事通讯. [Archive](https://golangweekly.com/issues).
+- [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 最流行的 Go 新闻、文章和图书馆的每周概览.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语 Go 编程语言的每周通讯.
@@ -219,7 +218,7 @@
 
 ### Elixir
 
-- [Elixir Radar](http://plataformatec.com.br/elixir-radar) . 包含博客文章、最新图书馆、讲座、活动和工作机会的每周电子邮件.
+- [Elixir Radar](http://plataformatec.com.br/elixir-radar). A weekly email with blog posts, latest libraries, talks, events and job opportunities.
 - [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter) . 精选的 Elixir 和 Erlang 包和资源的精选列表. [Archive](https://elixir.libhunt.com/newsletter/archive).
 - [Elixir Digest](https://elixirdigest.net/) .  Elixir 和 Phoenix 善良的每周部分. [Archive](https://elixirdigest.net/digests).
 
@@ -418,7 +417,7 @@
 ## Miscellaneous
 
 - [Founder Weekly](http://www.founderweekly.com/) . 为企业家提供的免费每周通讯，其中包含最佳策划内容、必读文章、指南、技巧和窍门、资源、活动等.
-- [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
+- [WebRTC Weekly](https://webrtcweekly.com/) . 每周和简短的时事通讯，其中包含 WebRTC 上的所有最新新闻和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 每周为对 Web Audio API、Web MIDI API 或网络上的声音感兴趣的人们提供的时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇数据集的每周通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周通讯，从初创公司生态系统中收集最佳资源.
@@ -432,7 +431,7 @@
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术爱好者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自 Reddit 最佳帖子的关于创业、成长、投资和初创公司的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简短时事通讯. 每一期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
-- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，关注最新的移动、网络、人工智能、UI/UX、工作/职业以及与开发人员和行业相关的任何内容.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周发送一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.
 
