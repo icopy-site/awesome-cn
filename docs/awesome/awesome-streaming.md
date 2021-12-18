@@ -14,7 +14,7 @@
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - 大数据流和批处理的统一平台.
 - [Apache Ballista](https://github.com/apache/arrow-datafusion/tree/master/ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
-- [Apache Flink](https://github.com/apache/flink) [Java] - 支持有状态计算、数据驱动窗口语义和迭代流处理的高吞吐量、低延迟数据流处理系统.
+- [Apache Flink](https://github.com/apache/flink) [Java] - 支持有状态计算、数据驱动的窗口语义和迭代流处理的高吞吐量、低延迟数据流处理系统.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - 可以轻松构建可扩展的容错流应用程序.
@@ -46,9 +46,9 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Apache Kafka Streams](https://github.com/apache/kafka) [Java] - Apache Kafka 中包含的轻量级流处理库（从 0.10 版本开始）.
 - [Akka Streams](https://github.com/akka/akka) [Scala] - Akka Actors 上的流处理库. 
 - [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos 是一种高性能且有弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作、转换和过滤器
-- [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合流 I/O 库.
+- [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合式、流式 I/O 库.
 - [monix](https://github.com/monix/monix) [Scala] - 用于编写异步和基于事件的程序的高性能 Scala / Scala.js 库.
-- [Scramjet Framework](https://github.com/scramjetorg/scramjet) - 在 Node.js 对象流之上编写的函数式反应流编程框架.
+- [Scramjet Framework](https://github.com/scramjetorg/scramjet) - 在 Node.js 对象流之上编写的功能性反应流编程框架.
 - [Streamline](https://github.com/hortonworks/streamline)  [Java] - Hortonworks 的流分析框架，设计为围绕现有流解决方案（如 Storm）的包装器. 旨在允许用户拖放流式组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python] - Airbnb 的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala] - 用于 Scala 的轻量级反应流基础设施工具包.
@@ -78,7 +78,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 
 ### Data Pipeline
 
-- [Apache Kafka](https://github.com/apache/kafka) [Scala/Java] - 分布式、分区、复制提交日志服务，它提供消息传递系统的功能，但具有独特的设计.
+- [Apache Kafka](https://github.com/apache/kafka) [Scala/Java] - 分布式、分区、复制提交日志服务，提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java] - 分布式发布-订阅消息平台，具有非常灵活的消息模型和直观的客户端 API.
 - [brooklin](https://github.com/linkedin/Brooklin/) [Java] - 一个分布式系统，用于在各种异构源和目标系统之间流式传输数据，具有高可靠性和来自 Linkedin（取代数据总线）的大规模吞吐量.
 - [camus](https://github.com/linkedin/camus) [Java] - Linkedin 的 Kafka -&gt; HDFS 管道.
@@ -109,13 +109,12 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C] - 一个开源关系数据库，它在流上连续运行 SQL 查询，以增量方式将结果存储在表中.
 - [squall](https://github.com/epfldata/squall) [Java] - Squall 在 Storm 之上执行 SQL 查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java] - 实时计算系统上的连续查询语言.
-- [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 云原生、源代码可用 [database](https://ksqldb.io/) 专为流处理应用程序构建
+- [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 一个云原生的，源代码可用 [database](https://ksqldb.io/) 专为流处理应用程序构建
 - [Materialize](https://materialize.com) [Rust] - 一个源可用的流式 SQL 引擎，用于维护来自消息代理和数据库的数据的物化视图.
 - [Siddhi](https://github.com/siddhi-io/siddhi) [Java] - 云原生流和复杂事件处理引擎，了解流 SQL 查询，以便从不同数据源捕获事件、处理它们、检测复杂条件并将输出实时发布到各种端点.
 
 ### Benchmark
 
-- [storm-benchmark](https://github.com/intel-hadoop/storm-benchmark) [Java] - 一组测试 Storm 性能的基准.
 - [storm-perf-test](https://github.com/yahoo/storm-perf-test) [Java] - 一个简单的风暴性能/压力测试.
 - [streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) [Java] - 低延迟（流）解决方案的基准测试，包括 Apache Storm、Apache Spark、Apache Flink 等.
 - [flotilla](https://github.com/tylertreat/Flotilla) [Go] - 用于扩展基准测试的自动化消息队列编排.
@@ -125,7 +124,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [akka](https://github.com/akka/akka) [Scala] - 用于在 JVM 上构建高度并发、分布式和弹性消息驱动应用程序的工具包和运行时.
 - [pulsar](https://github.com/quantmind/pulsar/) [Python] - 基于 Actor 的事件驱动的 Python 并发框架.
 - [aeron](https://github.com/real-logic/Aeron) [Java/C++] - 高效可靠的单播和多播消息传输.
-- [StreamFlow](https://github.com/lmco/streamflow) [Java] - 旨在帮助构建和监控处理工作流的流处理工具.
+- [StreamFlow](https://github.com/lmco/streamflow) [Java] - 流处理工具，旨在帮助构建和监控处理工作流.
 - [samza-luwak](https://github.com/romseygeek/samza-luwak) [Java] - 使用 Luwak，一个建立在 Lucene 上的存储查询引擎，实现对流的全文搜索.
 - [Turbine](https://github.com/Netflix/Turbine) [Java] - 用于将服务器发送事件 (SSE) JSON 数据流聚合为单个流的工具.
 

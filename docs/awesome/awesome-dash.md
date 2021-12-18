@@ -23,7 +23,7 @@
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - 关于如何开始使用 Dash 的高级概述.
 - [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html) - 构建大脚怪目击仪表板的演练. [Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html), [Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html).
 - [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - Dash 替代品的环境扫描，然后是教程.
-- [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - Detailed introduction to creating interactive dashboards.
+- [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - 创建交互式仪表板的详细介绍.
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - 探索 Dash 功能的五部分系列.
 - [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - 官方介绍视频.
 - [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - 关于如何使用 Dash Component Boilerplate cookiecutter 模板将 React 组件转换为 Dash 组件的官方教程.
@@ -63,10 +63,10 @@
 - [Live Wind Streaming](https://plot.ly/dash/gallery/live-wind-data/) - 持续查询 SQL 数据库并显示实时风速和风向图表. [Source Code.](https://github.com/plotly/dash-wind-streaming)
 - [Recession in 255 Charts](https://plot.ly/dash/gallery/recession-report/) - 改编自纽约时报的优秀 [How the Recession Reshaped the Economy in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html). [Source Code.](https://github.com/plotly/dash-recession-report-demo)
 - [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - 改编自纽约时报的优秀 [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-yield-curve)
-- [Finding Bigfoot](https://bigfoot-sightings-dash.herokuapp.com/) - 多个绘图（包括地图）、使用 Bootstrap 构建的网格布局、与输入字段的交互和缓存（另请参见 [Tutorials](#tutorials)). [Source Code.](https://github.com/timothyrenner/bigfoot-dash-app)
+- [Finding Bigfoot](https://bigfoot-sightings-dash.herokuapp.com/) - 多个图（包括地图）、使用 Bootstrap 构建的网格布局、与输入字段的交互和缓存（另请参见 [Tutorials](#tutorials)). [Source Code.](https://github.com/timothyrenner/bigfoot-dash-app)
 - [Visualize Earthquakes with Plotly Dash](https://belle-croissant-54211.herokuapp.com/)  - 出色的用户界面和 Dash 地理空间分析的使用. 包括 [basic unit tests](https://github.com/jackdbd/dash-earthquakes/tree/master/tests). [Source Code.](https://github.com/jackdbd/dash-earthquakes)
 - [街道质量识别 [SQUID]](https://squid-syracuse.herokuapp.com/) - 用地图、数据表和违规道路的照片突出显示质量较差的道路. [Source Code.](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
-- [VoxelViz](http://lukas-snoek.com/voxelviz) - 用于（f）MRI 数据集的竞赛获奖可视化工具. [Source Code.](https://github.com/lukassnoek/VoxelViz)
+- [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code.](https://github.com/lukassnoek/VoxelViz)
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - 探究 2015 年英国发生的 140,008 起交通事故. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
 - [New York Taxi Rides](https://dash.vaex.io/)  - YellowCab Taxi 公司从鼎盛时期开始的一整年数据，其出行次数超过 1 亿次.  Dash + Vaex 数据框超过 1 亿行. [Source Code.](https://github.com/vaexio/dash-120million-taxi-app)
 - [GutenSearch](https://gutensearch.com/) - 查看古腾堡计划的书籍. [Source Code.](https://github.com/cordb/gutensearch)
@@ -84,6 +84,9 @@
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Dash (SciPy 2017) 的创建者 Chris Parmer.
 - [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) - Dash 的创建者 Chris Parmer 在 Dash 推出之前谈到了背后的动机（Plotcon NYC 2016）.
 - [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev（仅幻灯片）.
+
+## Books
+- [Interactive Dashboards and Data Apps with Plotly and Dash](https://www.amazon.com/Interactive-Dashboards-Data-Apps-Plotly-ebook/dp/B08XMW45VY)：利用 Python 中成熟的前端 Web 框架的强大功能——无需 JavaScript.
 
 ## Cheat sheets
 - [plotly.py Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)

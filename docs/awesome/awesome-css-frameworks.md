@@ -31,15 +31,15 @@
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展、可扩展、基于 Sass 的 OOCSS 框架，适用于大型且持久的 UI 项目.  
-  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
-  [Repo](https://github.com/inuitcss/inuitcss)
-  | #SCSS
-
 - [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - 可以用作 CSS 项目基础的微小重置.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
+
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展、可扩展、基于 Sass 的 OOCSS 框架，适用于大型且持久的 UI 项目.  
+  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
+  [Repo](https://github.com/inuitcss/inuitcss)
+  | #SCSS
 
 - [**ress**](https://github.com/filipelinhares/ress) - 现代 CSS 重置.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
@@ -175,6 +175,13 @@
   [Repo](https://github.com/fomantic/fomantic-ui/)
   | #LESS
 
+- [**Pico.css**](https://picocss.com/) - 所有原生 HTML 元素的优雅样式，自动启用暗模式.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
+
 - [**Blaze UI**](https://www.blazeui.com) - 开源模块化工具包为快速构建网站提供了良好的结构，具有可扩展和可维护的基础.  
   ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
@@ -182,18 +189,18 @@
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
-- [**PatternFly**](https://www.patternfly.org/) - 企业 Web 应用程序的 UI 框架.  
-  ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
-  [Demo](https://www.patternfly.org/pattern-library/),
-  [Docs](https://www.patternfly.org/get-started/),
-  [Repo](https://github.com/patternfly/patternfly)
-  | #SCSS #LESS
-
 - [**Base**](https://getbase.org) - 坚如磐石的响应式 HTML/CSS 框架.  
   ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
   [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
   [Repo](https://github.com/getbase/base)
   | #SCSS #LESS
+
+- [**Cirrus**](https://cirrus-ui.netlify.app/) - 为快速原型设计而设计的以组件和实用程序为中心的 SCSS 框架.  
+  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
+  [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
+  [Repo](https://github.com/Spiderpig86/Cirrus)
+  | #CSS
 
 - [**turretcss**](https://turretcss.com) - 可访问和语义网站的响应式前端框架.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
@@ -202,19 +209,19 @@
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
-- [**Cirrus**](https://cirrus-ui.netlify.app/) - 为快速原型设计而设计的以组件和实用程序为中心的 SCSS 框架.  
-  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
-  [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
-  [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
-  [Repo](https://github.com/Spiderpig86/Cirrus)
-  | #CSS
-  
-- [**Pico.css**](https://picocss.com/) - 所有原生 HTML 元素的优雅样式，自动启用暗模式.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo](https://github.com/picocss/pico)
+- [**Vanilla Framework**](https://vanillaframework.io/)  - 简单、可扩展的 CSS 框架. 由 Canonical Web 团队编写.  
+  ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
+  [Demo](https://vanillaframework.io/docs/examples),
+  [Docs](https://vanillaframework.io/docs/),
+  [Repo](https://github.com/canonical-web-and-design/vanilla-framework)
   | #SCSS
+
+- [**PatternFly**](https://www.patternfly.org/) - 企业 Web 应用程序的 UI 框架.  
+  ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
+  [Demo](https://www.patternfly.org/pattern-library/),
+  [Docs](https://www.patternfly.org/get-started/),
+  [Repo](https://github.com/patternfly/patternfly)
+  | #SCSS #LESS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - 具有响应式排版和输入样式的简单 CSS 基础.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
@@ -269,16 +276,16 @@
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - 像爱德华·塔夫特 (Edward Tufte) 的讲义一样设计您的网页.  
+  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
+  [Repo](https://github.com/edwardtufte/tufte-css)
+  | #CSS
+
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - 正确打印网页的现代框架.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](https://bafs.github.io/Gutenberg/),
   [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
-
-- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - 像爱德华·塔夫特 (Edward Tufte) 的讲义一样设计您的网页.  
-  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
-  [Repo](https://github.com/edwardtufte/tufte-css)
-  | #CSS
 
 - [**Bojler**](https://bojler.slicejack.com) - 用于开发响应式和轻量级电子邮件模板的电子邮件框架.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
@@ -308,7 +315,7 @@
 
 ## Stalled Development
 
-大约一年多没有看到任何实际开发或正式弃用的框架.
+大约一年多没有看到任何真正开发或正式弃用的框架.
 我们将它们保留在这里以供参考/启发并希望复兴.
 
 <details>
