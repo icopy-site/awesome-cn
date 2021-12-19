@@ -19,6 +19,8 @@
 - [Echarts](https://github.com/ecomfe/echarts) - 为大数据集准备的高度可定制和交互式图表.
 - [Epoch](https://github.com/epochjs/epoch) - 非常适合创建实时图表.
 - [Google Charts](https://developers.google.com/chart) - 浏览器和移动设备的交互式图表.
+- [G2](https://g2plot.antv.vision/en) - 基于图形语法的交互式响应式图表库，由阿里巴巴维护
+- [GraphicsJS](http://www.graphicsjs.org) - 基于 SVG/VML 的具有直观 API 的轻量级 JS 图形库.
 - [lit-line](https://github.com/apinet/lit-line) - SVG 折线图 Web 组件 - 轻量、快速、交互式和完全响应.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - 针对时间序列数据进行了优化.
 - [NVD3](https://github.com/novus/nvd3) - 用 d3.js 编写的可重用图表库.
@@ -33,7 +35,7 @@
 - [Cytoscape.js](https://js.cytoscape.org/) - 用于图形绘制的 JavaScript 库由维护 [Cytoscape](https://www.cytoscape.org) 核心开发人员.
 - [Sigma.js](https://sigmajs.org/) - 专用于图形绘制的 JavaScript 库.
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - 用于 JavaScript 的图形绘制库.
-- [G6](https://github.com/antvis/g6) - 阿里巴巴的 JavaScript 图形可视化框架.
+- [G6](https://github.com/antvis/g6) - 由 Javascript 和 Typescript 提供支持的图形可视化库，由阿里巴巴维护
 - [diagram.js](https://github.com/bpmn-io/diagram-js) - 作为camunda 在线BPMN 建模器基础的Javascript 图表库.
 - [Uber React Digraph](https://github.com/uber/react-digraph) - 由 UBER 维护的基于 React.js 的有向图库.
 
@@ -41,8 +43,10 @@
 - [CARTO](https://github.com/CartoDB/cartodb) - CARTO 是一个开源工具，允许在网络上存储和可视化地理空间数据.
 - [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D 地球仪和地图.
 - [Deck.gl](https://deck.gl/) - 用于大型数据集的可视化探索性数据分析的 WebGL 框架.
-- [L7](https://github.com/antvis/L7) - 蚂蚁金服基于 WebGL 的大规模地理空间数据可视化
+- [L7](https://github.com/antvis/L7) - 由阿里巴巴维护的基于 WebGL 的大规模地理空间数据可视化分析框架
+- [L7 Plot](https://github.com/antvis/L7Plot) - 地理空间可视化图表库，由阿里巴巴维护
 - [DataMaps](https://github.com/markmarkoh/datamaps) - 使用 D3.js 的交互式 SVG 地图.
+- [Dipper](https://github.com/antvis/dipper) - 由阿里巴巴维护的由 L7 提供支持的地图应用程序开发框架.
 - [Leaflet](https://leafletjs.com) - 用于移动友好型交互式地图的 JavaScript 库.
 - [Mapael](https://github.com/neveldo/jQuery-Mapael) - 基于 raphael.js 的 jQuery 插件来显示矢量地图.
 
@@ -50,7 +54,8 @@
 - 看 [Awesome D3](https://github.com/wbkd/awesome-d3)
 
 ### React
-- [BizCharts](https://github.com/alibaba/BizCharts) - 基于 G2 和 React 的阿里巴巴数据可视化库.
+- [BizCharts](https://github.com/alibaba/BizCharts) - 基于的数据可视化库 [G2](https://github.com/antvis/G2) 和反应
+- [Graphin](https://github.com/antvis/Graphin) - 由 React 和 Typescript 提供支持的图形可视化库（建立在 G6 之上，由阿里巴巴维护.
 - [React-vis](https://github.com/uber/react-vis) - 反应组件以构建数据可视化.
 - [Recharts](https://github.com/recharts/recharts) - 声明性反应组件来呈现 D3 图表.
 - [Victory](https://formidable.com/open-source/victory/) - 用于构建交互式数据可视化的可组合组件
@@ -58,7 +63,11 @@
 - [React Svg Textures](https://github.com/finnfiddle/react-svg-textures)  - Textures.js 移植到 React. 完全同构.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - 用于 Bootstrap 和 Material Design 的高性能基于插件的 React 图表.
 
+## React Native
+- [F2](https://github.com/antvis/F2) - 一个优雅的、交互式的、灵活的移动图表库，由阿里巴巴维护
+
 ### Misc
+- [Graphology](https://github.com/graphology/graphology)  - 适用于 javascript 和 TypeScript 的强大且多用途的 Graph 对象； 作为基础库为其他图形可视化库提供动力.
 - [Piecon](https://github.com/lipka/piecon) - 您的收藏夹图标中的饼图.
 - [Textures.js](https://riccardoscalco.github.io/textures/) - 创建 SVG 图案的库.
 - [Timeline.js](https://timeline.knightlab.com/) - 创建交互式时间线.
@@ -104,7 +113,7 @@
 - [missingno](https://github.com/ResidentMario/missingno) - 提供灵活的数据可视化实用程序工具集，允许基于 matplotlib 快速直观地总结数据集的完整性.
 - [plotly](https://plot.ly/python/) - 建立在基于 Web 的交互式可视化之上 [plotly.js](https://github.com/plotly/plotly.js)
 - [PyQtGraph](https://www.pyqtgraph.org/) - 交互式和实时 2D/3D/图像绘图和科学/工程小部件.
-- [PyVista](https://github.com/pyvista/pyvista) – 通过可视化工具包 (VTK) 的简化界面进行 3D 绘图和网格分析
+- [PyVista](https://github.com/pyvista/pyvista) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [seaborn](https://seaborn.pydata.org/) - 用于制作有吸引力且信息丰富的统计图形的库.
 - [toyplot](https://toyplot.readthedocs.io/en/stable/) - 具有成人大小目标的儿童大小的 Python 绘图工具包.
 - [three.py](https://github.com/stemkoski/three.py/)  - 基于 PyOpenGL 的易于使用的 3D 库. 灵感来自 Three.js.
@@ -136,22 +145,25 @@
 - [Charted](https://github.com/mikesall/charted) - 一种图表工具，可从任何数据文件生成自动、可共享的图表.
 - [Gephi](https://github.com/gephi/gephi) - 用于可视化和操作大型图形的开源平台
 - [Kepler.gl](https://kepler.gl/) - 用于大规模数据集的地理空间分析工具.
-- [Mermaid](https://github.com/knsv/mermaid) - 一种用于以与 Markdown 类似的方式从文本生成图表和流程图的工具.
+- [Mermaid](https://github.com/knsv/mermaid) - 一种用于以类似于 Markdown 的方式从文本生成图表和流程图的工具.
 - [RAW](https://rawgraphs.io) - 从 CSV 或 Excel 文件创建网络可视化.
 - [Spark](https://github.com/holman/spark)  - 外壳的迷你图. 它有几个 [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 - [Visual-Insights](https://github.com/ObservedObserver/visual-insights) - 数据分析中的自动洞察提取和可视化规范.
+- [X6](https://x6.antv.vision/en) - 用于快速构建DAG图、ER图、流程图等应用的图创建库，由阿里巴巴维护
+
 
 ## Resources
 
 ## Books
 - [Design for Information](https://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061) 伊莎贝尔·梅雷勒斯 (Isabel Meirelles)
 - [The Best American Infographics 2014](https://www.amazon.com/Best-American-Infographics-2014/dp/0547974515) 通过加雷斯库克.
+- [The Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/) 通过利兰威尔金森. 基本的可视化理论.
 - [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142) 通过爱德华·塔夫特.
 - [The Wall Street Journal Guide to Information Graphics](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393347281) 作者：Dona M. Wong
 - [Visualization Analysis and Design](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914) 作者：塔玛拉·蒙兹纳
 - [Interactive Data Visualization for the Web](https://chimera.labs.oreilly.com/books/1230000000345) 通过斯科特默里. 可以在线阅读. 专注于D3.
 - [Data Visualization Toolkit](https://datavisualizationtoolkit.com) 通过巴雷特奥斯汀克拉克. 使用 D3、Ruby on Rails、Postgres、PostGIS 和 Leaflet.
-- [Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/) 通过利兰威尔金森. 基本的可视化理论.
+- [Data Visualisation: A Handbook for Data Driven Design](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/) 通过安迪柯克
 
 ## Catalogs
 - [The Data Visualization Catalogue](https://www.datavizcatalogue.com) - 一组数据可视化方法，各有利弊.
@@ -161,12 +173,11 @@
 - [Chartopedia](https://www.anychart.com/chartopedia)
 - [Interactive Chart Chooser](https://depictdatastudio.com/charts/) 由描绘数据工作室
 - 维基百科
-  - [Examples of diagrams used for data visualization](https://en.wikipedia.org/wiki/Data_visualization#Examples_of_diagrams_used_for_data_visualization)
+  - [Data visualization techniques](https://en.wikipedia.org/wiki/Data_visualization#Techniques)
   - [List of graphical methods](https://en.wikipedia.org/wiki/List_of_graphical_methods)
-  - [Types of diagrams](https://en.wikipedia.org/wiki/Diagram#Main_diagram_types)
+  - [Types of diagrams](https://en.wikipedia.org/wiki/Diagram#Gallery_of_diagram_types)
   - [Types of plots](https://en.wikipedia.org/wiki/Plot_(graphics)#Types_of_plots)
-  - [Types of charts](https://en.wikipedia.org/wiki/Chart#Types_of_charts)
-- [Data Visualisation: A Handbook for Data Driven Design](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/) 通过安迪柯克
+  - [Types of charts](https://en.wikipedia.org/wiki/Chart#Types)
 
 ## Podcasts
 - [Data Stories](https://datastori.es/)
@@ -175,7 +186,9 @@
 
 ## Twitter accounts
 - [Alberto Cairo](https://twitter.com/albertocairo)
+- [Andrei Kashcha](https://twitter.com/anvaka)
 - [Benjamin Wiederkehr](https://twitter.com/datavis)
+- [Jan Žák](https://twitter.com/zakjan)
 - [Mara Averick](https://twitter.com/dataandme)
 - [Martin Wattenberg](https://twitter.com/wattenberg)
 - [Mike Bostock](https://twitter.com/mbostock)
@@ -203,7 +216,7 @@
 
 ## Contributing
 
-- Please check for duplicates first.
+- 请先检查重复项.
 - 保持描述简短、简单和公正.
 - 请为每个建议单独提交
 - 如果需要，添加一个新类别.
@@ -216,8 +229,7 @@
 - Fabio Souto 最初创建了这个 repo，与 Fabio 联系在 [fabiosouto.me](https://fabiosouto.me/).
 - [Javier Luraschi](https://github.com/javierluraschi) 是当前的维护者，他在 [Hal9](https://hal9.com).
 
-## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+- - -
 
-在法律允许的范围内，维护者已放弃本作品的所有版权和相关或邻接权.
+如果您对此自以为是的列表有任何疑问，请随时与我联系 [@javierluraschi](https://twitter.com/javierluraschi) 在 Twitter 上或在 GitHub 上打开一个问题.

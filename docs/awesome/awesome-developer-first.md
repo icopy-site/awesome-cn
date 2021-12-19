@@ -23,7 +23,7 @@
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
-* [Heap](https://heap.io/) - 适用于 Web 和移动设备的产品分析 API，可捕获所有事件. 
+* [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型网络分析.
 
 ## Authentication & Identity
@@ -208,6 +208,7 @@
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉 UI 测试.
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
+* [Loadmill](https://www.loadmill.com/) - 根据用户行为生成测试.
 
 ---
 

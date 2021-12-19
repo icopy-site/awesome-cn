@@ -90,7 +90,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式语言来编�
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - 基于打包类声明 Coq 层次结构的命令集合.
 - [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) - 类似于 Coq 的经典 Ltac 语言的实验类型策略语言.
 - [MetaCoq](https://github.com/MetaCoq/metacoq) - 在 Coq 中对 Coq 进行形式化的项目，并提供用于操作 Coq 术语和开发认证插件的工具.
-- [Mtac2](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
+- [Mtac2](https://github.com/Mtac2/Mtac2) - 为反向推理添加类型化策略的插件.
 - [Paramcoq](https://github.com/coq-community/paramcoq) - 用于生成 Coq 术语的参数化翻译的插件.
 - [QuickChick](https://github.com/QuickChick/QuickChick) - 用于随机属性测试的插件.
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - 检查来自外部 SAT 和 SMT 求解器的证明证人的工具.
@@ -203,7 +203,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式语言来编�
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - 关于 Coq 实用工程的教科书，它教授高级实用技巧和非常具体的证明风格.
 - [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - 解释如何使用分离逻辑构建程序逻辑的书，附有 Coq 中的形式模型，该模型应用于 Clight 编程语言和其他示例.
 - [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - 本书同时提供了关于程序正确性的形式逻辑推理的一般介绍，以及为此目的使用 Coq.
-- [Programs and Proofs](https://ilyasergey.net/pnp/) - 这本书对 Coq 中的交互式证明进行了简短且实用的介绍，强调了通过来自 SSReflect 证明语言的一小组原语对可判定命题进行归纳推理的计算性质.
+- [Programs and Proofs](https://ilyasergey.net/pnp/) - 这本书对 Coq 中的交互式证明进行了简短且实用的介绍，该书强调了通过来自 SSReflect 证明语言的一小组原语对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - 描述如何使用 Flocq 库在 Coq 中正式指定和验证浮点算法的书.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向有数学倾向的用户的书，侧重于数学组件库和 SSReflect 证明语言.
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - 本书涵盖使用 Coq 的计算逻辑主题，包括基础、规范案例研究和实用编程.
@@ -212,16 +212,17 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式语言来编�
 ### Course Material
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑来推理 Coq 中的顺序命令式程序.
-- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - 介绍基本逻辑原理、构造类型理论和使用 Coq 证明的交互定理.
-- [Proofs and reliable programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2020/) - 使用 Coq 开发和验证程序的介绍.
+- [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数的介绍课程.
+- [Introduction to Computational Logic](https://cms.sic.saarland/icl_21/2/Resources) - 介绍逻辑原理、构造类型理论和使用 Coq 证明的交互定理.
+- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2020/) - 使用 Coq 开发和验证程序的介绍.
 
 ### Tutorials and Hints
 
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - 在线证明挑战.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
-- [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
-- [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.
+- [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 来定义逻辑概念和函数以及对它们的推理.
+- [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - 使用规范结构进行编程和证明的设计模式演示.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - 数学组件教程的源代码.
-- [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - 使用 Coq 编写形式证明的基础知识.
+- [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 - [Tricks in Coq](https://github.com/tchajed/coq-tricks) - 难以发现的提示、技巧和功能.

@@ -80,7 +80,7 @@
   - [REST Assured](https://github.com/rest-assured/rest-assured) - 用于轻松测试 REST 服务的 Java DSL.
 
 ### BRE
-*Business Rules Engines and Business Rules Management Systems.*
+*业务规则引擎和业务规则管理系统.*
 - [Drools](https://www.drools.org) - 开源工具，完全运行时支持一致性级别 3 的决策模型和符号 (DMN) 模型，以及用于核心开发的 Eclipse IDE 插件.
 - [Easy Rules](https://github.com/j-easy/easy-rules) - 一个简单的 Java 规则引擎.
 - [NxBRE](https://github.com/ddossot/NxBRE/wiki) - .NET 平台的开源规则引擎.
@@ -200,6 +200,7 @@
 - [NATS](https://github.com/nats-io/gnatsd) - 用于微服务、物联网和云原生系统的轻量级、高性能消息系统.
 - [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - Oracle Advanced Queuing (AQ) 提供跨多个行业的企业消息功能，并广泛用于数据库本身. 
 - [RabbitMQ](https://www.rabbitmq.com) - 最初实现高级消息队列协议 (AMQP) 的开源消息代理.
+- [Redpanda](https://github.com/vectorizedio/redpanda)  - 用于关键任务工作负载的流媒体平台. 与 Kafka® 兼容，无需 Zookeeper®，无需 JVM，无需更改代码.
 - [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - 基于红帽 AMQ 的开源社区，如 Apache ActiveMQ 和 Apache Kafka.
 - [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - TIBCO EMS 是基于标准的 Java™ 消息服务 (JMS) 实现，允许任何支持 JMS 的应用程序（无论是本地开发的还是第三方的）快速轻松地交换消息.  
 
@@ -302,7 +303,7 @@
 - [Messaging Mapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingMapper.html) - 如何在域对象和消息传递基础设施之间移动数据，同时保持两者相互独立？
 - [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - 如何处理语义相同但以不同格式到达的消息？
 - [Pipes and Filters](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html) - 我们如何在保持独立性和灵活性的同时对消息进行复杂的处理？  
-- [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - 呼叫者如何确定只有一位接收者会收到文件或执行呼叫？
+- [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - How can the caller be sure that exactly one receiver will receive the document or perform the call?
 - [Polling Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html) - 当应用程序准备好时，应用程序如何使用消息？  
 - [Process Manager](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ProcessManager.html) - 当所需的步骤在设计时可能未知并且可能不是连续的时，我们如何通过多个处理步骤路由消息？
 - [Publish-Subscribe Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html) - 发送方如何向所有感兴趣的接收方广播一个事件？

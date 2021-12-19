@@ -6,7 +6,7 @@
 
 &gt; 欢迎来到 **Awesome Golem**，这是一个社区策划的 Golem 资源、链接、项目、工具和应用程序列表！
 
- Golem 的用户以 Rust 实现 Yagna 的形式运行参考实现. 用户共同组成了 Golem 网络，这是一个计算资源的 P2P 市场，个人可以在其中充当两个非排他性角色之一； 提供者出售闲置资源，或请求者购买资源来运行任务.
+ Golem 的用户以 Rust 实现 Yagna 的形式运行参考实现. 用户共同组成了 Golem 网络，这是一个计算资源的 P2P 市场，个人可以充当两个非排他性角色之一； 提供者出售闲置资源，或请求者购买资源来运行任务.
 
 
 
@@ -28,13 +28,13 @@
 
 ## Network Statistics
 
-- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和供应商资源利用率.
+- [Golem Network Stats](https://stats.golem.network) - Golem 网络中的统计跟踪任务和提供商资源利用率.
 - [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Golem 网络统计页面的后端，包括 API 端点 URL.
 - [Stats API Documentation](https://docs.stats.golem.network/) - Golem 网络统计页面用于显示其数据的 API 端点.
 
 ## Apps
 
-- [Golem SLATE](https://golem-slate.xyz/)  - 托管代码笔 SPA，用于编写请求者脚本以使网络计算工作. 利用 dockerized yagna 环境在后台与 Golem 网络进行通信.
+- [Golem SLATE](https://golem-slate.xyz/)  - 托管代码笔 SPA，用于编写请求者脚本以使网络计算工作. 利用 dockerized yagna 环境在后台与 Golem Network 进行通信.
 - [Chess On Golem](https://chessongolem.app/) - 托管国际象棋应用程序，利用 Stockfish 开源国际象棋引擎与网络供应商对战.
 - [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - 基于 Web 的批量图像编辑器，允许用户上传多个图像并对它们应用批量操作.
 
@@ -53,12 +53,13 @@
 ### VPN
 
 - [Yagna httpx client](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - Yagna 上的 VPN 使用演示了与基于提供商的 HTTP 服务器的通信，就像您与任何其他 HTTP 服务器通信一样.
+- [Golem Provider with network access](https://github.com/jedbrooke/golem-network-requestor) - 作为运行提供商的 http 代理的请求者，允许他们访问更广泛的互联网.
 
 ### Games
 
 - [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - 大小不同的数独游戏.
-- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - 通过运行大量模拟游戏，帮助《炉石传说》社区设计和构建套牌.
-- [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem)  - 第一个应用程序部分中描述的国际象棋开源存储库. 包括 React 前端，用于通过 Golem 后端相互对抗的 2 个 AI.
+- [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - 通过运行大量模拟游戏帮助炉石社区设计和构建套牌.
+- [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem)  - 第一个应用程序部分中描述的国际象棋开源存储库. 包括用于通过 Golem 后端相互对抗的 2 个 AI 的 React 前端.
 - [Golem Fleet Battle Simulator](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator)  - 计算两个敌对星舰舰队之间战斗结果的系统. 在 iOS 游戏 Rock Paper Frigate 中用于确定 PvP 舰队战斗的结果.
 
 ### CLI Tools
@@ -70,7 +71,7 @@
 
 - [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video)  - 用于转码视频的示例应用程序. 选择您的转码配置文件，然后上传您的视频.
 - [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - 基于 React + Spring 的 webapp 接受视频文件作为输入并将这些文件转码为不同的格式.
-- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - 运行自动编辑器自动执行一些视频编辑功能，将视频处理卸载到 Golem.
+- [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - 运行 Auto-Editor 自动执行一些视频编辑功能，将视频处理卸载到 Golem.
 
 ### Data Analysis
 
@@ -83,7 +84,7 @@
 
 ### Data Simulation
 
-- [cadCAD Golem](https://github.com/rogervs/cadcadgolem)  - 用于 cadCAD 的封装包装器，用于将模拟工作负载分派到多个 Golem 节点. 支持 Jupyter 笔记本.
+- [cadCAD Golem](https://github.com/rogervs/cadcadgolem)  - cadCAD 的封装包装器，用于将模拟工作负载分派到多个 Golem 节点. 支持 Jupyter 笔记本.
 - [Golem Array](https://github.com/johngrantuk/golem-array) - 天线阵列设计和仿真.
 - [Limit visualization](https://github.com/vporton/limit-visualization)  - 绘制具有各种限制的图形. 支持不连续图.
 - [GolemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - 生成图形框架，然后将它们组合成动画.
@@ -103,12 +104,12 @@
 - [Golem Image Classifier](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - 通过主动服务训练和分类图像.
 
 ### Deep Learning
-- [Mlg](https://github.com/rezahsnz/mlg) - CNN 预测服务，这是一种深度学习应用程序，可分发使用 ImageNet 数据集进行预训练的流行 CNN.
-- [Deepart Golem](https://github.com/echinocacti/deepart_golem) - 通过运行 tensorflow 应用程序、上传您的内容和样式图片，使用分布式计算制作艺术作品.
+- [Mlg](https://github.com/rezahsnz/mlg) - CNN 预测服务，一种深度学习应用程序，可分发使用 ImageNet 数据集进行预训练的流行 CNN.
+- [Deepart Golem](https://github.com/echinocacti/deepart_golem) - 通过运行 tensorflow 应用程序，上传您的内容和样式图片，使用分布式计算制作艺术作品.
 
 ### RNG
 - [Gandom](https://github.com/rezahsnz/gandom)  - 从提供者中提取随机流. 支持两种 PRNG，一种基于 Chaos 机器，另一种使用钠.
-- [Entropythief](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
+- [Entropythief](https://github.com/krunch3r76/entropythief) - 使用 linux 熵源或英特尔的 RDRAND cpu 指令（受 Gandom 启发）从多个提供商处以窃取的速率获取随机熵.
 
 ### Password Recovery
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - 运行 John The Ripper 以恢复密码.
@@ -116,8 +117,8 @@
 
 ### DeFi
 
-- [Golem Staking Pool incentivize system for GLM holders](https://github.com/masaun/GLM-stake-pool) - 智能合约，为 GLM 代币持有者提供高产农业的机会.
-- [Magic-doll](https://github.com/bakaoh/magic-doll)  - Sumer 是一个 DeFi 应用程序，人们可以委托他们的 Splinterland 卡来赚取被动收入. 它的核心是“Kyle”，这是一个 Golem 应用程序，它会进行所有计算以选择最佳球队参加每场比赛.
+- [Golem Staking Pool incentivize system for GLM holders](https://github.com/masaun/GLM-stake-pool) - 一个智能合约，为 GLM 代币持有者提供高产农业的机会.
+- [Magic-doll](https://github.com/bakaoh/magic-doll)  - Sumer 是一个 DeFi 应用程序，人们可以委托他们的 Splinterland 卡来赚取被动收入. 它的核心是“Kyle”，这是一个 Golem 应用程序，它会进行所有计算，以选择每场比赛的最佳球队.
 
 ### User Interfaces
 
@@ -125,12 +126,13 @@
 
 ### Miscellaneous
 
-- [Gc__ListOffers](https://github.com/krunch3r76/gc__listoffers) - 使用 GUI 列出 Golem 网络上供应商的报价.
+- [Gc__ListOffers](https://github.com/krunch3r76/gc__listoffers) - 使用 GUI 列出 Golem 网络上的供应商提供的报价.
 - [Gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash)  - 重新计算 gvmi 图像文件的哈希值. 解决了丢失先前上传图像的哈希值或者您不确定某个键是否对应于特定图像的问题.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - 用于编译 VIM 编辑器的 Golemized docker 图像.
-- [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
+- [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi)  - 迎接您的简单 Node.js 请求程序应用程序. 它将一些重要的消息写入文件，然后为您下载，这是请求者应用程序的基本框架. 查看“示例/问候”.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - 锐化图像的工具.
 - [Filterms](https://github.com/krunch3r76/filterms) - 作为 Golem 请求者 (yapapi) 列入白名单或黑名单的市场策略.
+- [golem-bulk-image-handler](https://github.com/figurestudios/golem-bulk-image-handler) - 获取输入图像并使用 Pillow 库以多种不同方式对其进行处理.
 
 ## Bounties and Rewards
 
@@ -148,14 +150,14 @@
 
 ## Provider Resources
 
-- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - 使用手册开始作为 Golem 网络的提供商.
+- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - 使用手册开始作为 Golem 网络的提供者.
 - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - 社区策划的常见问题和答案列表.
 - [Yagna-binaries for aarch64](https://github.com/MarijnStevens/yagna-binaries) - 为 64 位 arm 架构构建，以便能够在 Raspberry Pi 等系统上作为提供程序运行.
 
 ### Monitoring
 
 - [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - ReactJS 仪表板可以快速从您的提供者节点收集状态，而无需通过 SSH 连接到它们.
-- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask 后端从提供者那里收集数据，然后与上面的仪表板项目一起使用.
+- [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask 后端，从提供者那里收集数据，然后与上面的仪表板项目一起使用.
 
 ### Provisioning
 
@@ -163,7 +165,7 @@
 - [WSL](https://github.com/r34x/WSL)  - 允许 Windows 用户在适用于 Linux 的 Windows 子系统中运行 Golem. 删除 Windows 用户需要使用虚拟机的要求.
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform 脚本可在云提供商上自动部署 Golem 提供商并使用 prometheus 设置监控.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志来引导您完成整个过程，从而设置 Golem Provider.
-- [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - 节点的 Docker 版本，可帮助您快速开始在 Docker 容器中作为提供者运行.
+- [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - 节点的 Docker 版本，可帮助您快速开始作为 Docker 容器中的提供者运行.
 - [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
 - [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 产生 x 数量的提供者.
 
@@ -174,7 +176,7 @@
 - [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - 现场研讨会深入探讨具有 Python 或 JS 编码经验的开发人员如何开始构建在 Golem 上运行的应用程序.
 - [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - 作为项目的 Golem 的高级概述和介绍.
 - [Golem Workshop at H3LLO Decentralization](https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c) - 包含实时编码黑客马拉松研讨会和相关资源的资源列表，以帮助开发人员了解和请求 Golem.
-- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - 请求者快速入门手册指南的视频演练，用于在 Golem 网络测试网上获取请求，然后使用 Yagna Python API 在主网上获取请求.
+- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API.
 - [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - 提供者手册指南的视频演练，以开始共享 Golem 网络的计算资源.
 
 ### Unraveling Golem's The Next Milestone Blog Series
@@ -190,11 +192,11 @@
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.
 - [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - 深入 Golem alpha 测试网.
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - Golem 的 SGX 概念验证.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - 新交所 Golem 的概念验证.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Golem 市场的去中心化.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - 很棒的魔像和 Alpha 3 的后续步骤.
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD 提供商支持、网络指标和改进的提案处理.
-- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - 来自社区反馈的改进.
+- [Golem GitHub Digest #10](https://blog.golemproject.net/golem-github-digest-10/) - 社区反馈的改进.
 - [Golem GitHub Digest #11](https://blog.golemproject.net/golem-github-digest-11/) - 简单的日志收集.
 - [Golem GitHub Digest #12](https://blog.golemproject.net/golem-github-digest-12/) - 我们正在主网上线并收集反馈.
 - [Golem GitHub Digest #13](https://blog.golemproject.net/golem-github-digest-13/) - 在 Golem 社区的帮助下进步更快.
@@ -206,7 +208,8 @@
 ## Community
 
 - [Golem Network Discussion Group](https://t.me/GolemProject) - 社区驱动的电报频道.
-- [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - 删除 Reddit 上的 /r/GolemProject 帖子，并在找到特定关键字/命令时回复.
+- [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - 在 /r/GolemProject 上删除 Reddit 帖子，如果找到特定关键字/命令，则回复.
+- [Golem God](https://github.com/Shreyas-Dev-ITB/Golem-God) - 为活动发放“机器人币”，并让用户在足够时兑换和提取代币.
 
 ## Contributing
 

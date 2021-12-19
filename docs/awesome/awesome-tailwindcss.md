@@ -100,6 +100,7 @@
 -  [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 -  [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 提供样式列表和`的实用程序<summary> ` 标记.
 -  [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - 为 Tailwind CSS 默认没有的伪类和伪元素添加变体.
+-  [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 -  [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
 -  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 -  [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加了一个“响应式嵌入”组件.
