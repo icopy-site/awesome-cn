@@ -53,6 +53,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Apache SystemML](https://systemml.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/systemml.svg"> - 基于 Spark 的声明式机器学习框架.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) \[status unknown\] - 线性代数 DSL 和具有类似 R 语法的优化器.
 * [KeystoneML](http://keystone-ml.org/) - 使用 RDD 键入安全的机器学习管道.
+* [MLflow](https://mlflow.org/docs/latest/python_api/mlflow.spark.html#module-mlflow.spark) <img src="https://img.shields.io/github/last-commit/mlflow/mlflow.svg"> - 机器学习编排平台. 
 
 ### Middleware
 
@@ -118,7 +119,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - 带有 Jupyter Notebook 和 Mesos 客户端的 PySpark.
 - [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - 纱线图像来自 [SequenceIQ](http://www.sequenceiq.com/).
-- [datamechanics/spark](https://hub.docker.com/r/datamechanics/spark) - 一个易于为 Apache Spark 设置的 Docker 映像来自 [Data Mechanics](https://www.datamechanics.co/).
+- [datamechanics/spark](https://hub.docker.com/r/datamechanics/spark) - 一个易于为 Apache Spark 设置的 Docker 镜像来自 [Data Mechanics](https://www.datamechanics.co/).
 
 ### Miscellaneous
 

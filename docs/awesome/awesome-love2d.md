@@ -301,6 +301,7 @@
 * [Optikon](https://optikon.co.uk/) - 所见即所得的视觉关卡设计师
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - LÖVE的粒子编辑器
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - 一个基本的 LÖVE 粒子系统编辑器
+* [require.lua](https://github.com/premek/require.lua) - 需要文件夹中的所有文件
 * [splashy](https://github.com/videah/splashy) - 启动画面库
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - 使用 Lua 编写的加速度计数据进行抖动设备检测
 * [tick](https://github.com/bjornbytes/tick) - 对 LÖVE 的运行循环有用的时间调整

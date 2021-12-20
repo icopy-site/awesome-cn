@@ -22,6 +22,12 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Developer Hub GitHub](https://github.com/substrate-developer-hub/) - 开发者中心存储库.
 - [Ecosystem Projects](https://substrate.io/ecosystem/projects/) - 项目和团队建设
   基质.
+- 技术论文
+  - [Polkadot Lightpaper](https://polkadot.network/Polkadot-lightpaper.pdf)
+  - [Polkadot: Vision for a heterogeneous multi-chain framework](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)
+  - [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
+    - [Chinese Translation](https://github.com/AmadeusGB/Overview-of-Polkadot) （按社区）
+
 - [DotJobs](https://dotjobs.net/) - Substrate 和 Polkadot 生态系统项目的工作委员会，
   维护者 [Stateless.Money](https://stateless.money/).
 - [Polkadot Stack](https://github.com/w3f/Grants-Program/blob/master/docs/polkadot_stack.md) - 一个
@@ -72,7 +78,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Base](https://github.com/substrate-developer-hub/substrate-node-template) - 基于最小框架
   节点，准备黑客攻击. 
-- [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - 积云
+- [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus
   启用 Substrate 节点，准备好进行黑客攻击.   
 - [Frontier](https://github.com/substrate-developer-hub/frontier-node-template/) - 启用前线
   EVM 和 Ethereum RPC 兼容的 Substrate 节点，准备好进行黑客攻击. 
@@ -191,7 +197,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   [IPFS](https://ipfs.io/).
 - [Gantree Library](https://github.com/gantree-io/gantree-lib-nodejs) - 一套技术
   通过快速启动和拆除来管理由 Substrate 驱动的平行链网络.
-- [Redspot](https://github.com/patractlabs/redspot) - 一种
+- [Redspot](https://github.com/patractlabs/redspot) - 一个
   [Truffle](https://www.trufflesuite.com/truffle)- 类似于 FRAME 智能合约的工具包
   合同托盘.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - 一个示范
@@ -205,7 +211,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   轻松创建索引数据源并免费在线托管它们.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 的零知识工具
   生态系统.
-- [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
+- [Europa](https://github.com/patractlabs/europa) - 一个用于 Substrate 运行时执行的沙箱
   环境.
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为智能合约编写的测试网
   FRAME 合同托盘.
@@ -216,7 +222,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   本地 Polkadot 测试网络.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
   Polkadot 测试网络，强调运行大型测试网络的能力.
-- [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - 一种
+- [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - 一个
   一组有用的 JavaScript 实用程序，用于使用 Polkadot{JS} API 的 Substrate. 还
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - 图表
@@ -233,7 +239,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   为 Substrate 链等提供服务.
 - [`subsee`](https://github.com/ascjones/subsee) - CLI 来检查 Substrate 节点的元数据作为
   JSON.
-- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一种
+- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一个
   [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
 - [`subwasm`](https://github.com/chevdor/subwasm)  - 用于离线检查运行时 WASM blob 的 CLI. 它
   显示信息、元数据并可以比较运行时. 它还可以帮助您获取运行时

@@ -196,7 +196,7 @@
 
 * [asciigraph](https://github.com/guptarohit/asciigraph) - 去打包制作轻量级的 ASCII 线图╭┈╯ 在命令行应用程序中，没有其他依赖项.
 * [aurora](https://github.com/logrusorgru/aurora) - 支持 fmt.Printf/Sprintf 的 ANSI 终端颜色.
-* [box-cli-maker](https://github.com/Delta456/box-cli-maker) - 为您的 CLI 制作高度定制的盒子.
+* [box-cli-maker](https://github.com/Delta456/box-cli-maker) - 为您的 CLI 制作高度定制的框.
 * [cfmt](https://github.com/mingrammer/cfmt) - 受引导颜色类启发的上下文 fmt.
 * [cfmt](https://github.com/i582/cfmt) - 简单方便的格式化程式化输出与 fmt 库完全兼容.
 * [chalk](https://github.com/ttacon/chalk) - 用于美化终端/控制台输出的直观包.
@@ -343,7 +343,7 @@
 * [go-rquad](https://github.com/aurelien-rainone/go-rquad) - 具有高效点定位和邻居发现的区域四叉树.
 * [gocache](https://github.com/eko/gocache) - 一个完整的 Go 缓存库，具有多个存储（内存、memcache、redis 等）、可链接、可加载、指标缓存等.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) - 并发 FIFO 队列.
-* [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMaps、树、HashSet 等.
+* [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMap、树、HashSet 等.
 * [gofal](https://github.com/xxjwxc/gofal) - Go 的小数 api.
 * [golang-set](https://github.com/deckarep/golang-set) - 线程安全和非线程安全的 Go 高性能集.
 * [goset](https://github.com/zoumo/goset) - 一个有用的 Go 集合集合实现.
@@ -751,7 +751,7 @@
 * [stl](https://gitlab.com/russoj88/stl)  - 用于读取和写入 STL（立体光刻）文件的模块. 并发读取算法.
 * [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 对于 tar 文件.
 * [todotxt](https://github.com/1set/todotxt) - 去 Gina Trapani 的图书馆 [*todo.txt*](http://todotxt.org/) 文件，支持解析和操作文件中的任务列表 [*todo.txt* format](https://github.com/todotxt/todo.txt).
-* [vfs](https://github.com/C2FO/vfs) - 一组可插拔、可扩展和自以为是的文件系统功能，适用于 Go 跨多种文件系统类型，例如 os、S3 和 GCS.
+* [vfs](https://github.com/C2FO/vfs) - 一组可插入的、可扩展的和自以为是的文件系统功能，适用于 Go 跨许多文件系统类型，例如 os、S3 和 GCS.
 
 
 ## Financial
@@ -1279,7 +1279,7 @@
 * [fx](https://github.com/uber-go/fx) - 基于依赖注入的 Go 应用程序框架（建立在 dig 之上）.
 * [gocontainer](https://github.com/vardius/gocontainer) - 简单的依赖注入容器.
 * [goioc/di](https://github.com/goioc/di) - 受 Spring 启发的依赖注入容器.
-* [HnH/di](https://github.com/HnH/di) - 专注于干净的 API 和灵活性的 DI 容器库.
+* [HnH/di](https://github.com/HnH/di) - DI 容器库，专注于干净的 API 和灵活性.
 * [kinit](https://github.com/go-kata/kinit) - 具有全局模式、级联初始化和恐慌安全终结的可定制依赖注入容器.
 * [linker](https://github.com/logrange/linker) - 具有组件生命周期支持的基于反射的依赖注入和控制库反转.
 * [nject](https://github.com/muir/nject) - 用于库、测试和 http 端点以及服务启动的类型安全、反射框架.
@@ -1333,7 +1333,7 @@ _**非官方** 用于构建项目的模式集._
 * [browscap_go](https://github.com/digitalcrab/browscap_go) - GoLang 库 [Browser Capabilities Project](https://browscap.org/).
 * [captcha](https://github.com/steambap/captcha) - 包验证码为验证码生成提供了一个易于使用、不受​​约束的 API.
 * [conv](https://github.com/cstockton/go-conv) - Package conv 提供跨 Go 类型的快速直观的转换.
-* [datacounter](https://github.com/miolini/datacounter) - 为 reader/writer/http.ResponseWriter 计数器.
+* [datacounter](https://github.com/miolini/datacounter) - 去为 reader/writer/http.ResponseWriter 计数器.
 * [faker](https://github.com/pioz/faker) - Go 的随机假数据和结构生成器.
 * [ffmt](https://github.com/go-ffmt/ffmt) - 美化人类的数据显示.
 * [gatus](https://github.com/TwinProduction/gatus) - 自动化服务健康仪表板.
@@ -1944,7 +1944,7 @@ _**非官方** 用于构建项目的模式集._
     * [mxj](https://github.com/clbanning/mxj)  - 将 XML 编码/解码为 JSON 或 map[string]interface{}； 使用点符号路径和通配符提取值. 替换 x2j 和 j2x 包.
     * [normalize](https://github.com/avito-tech/normalize) - 清理、规范化和比较模糊文本.
     * [omniparser](https://github.com/jf-tech/omniparser) - 一个多功能的 ETL 库，它以流式方式解析文本输入 (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc)，并使用数据驱动模式将数据转换为 JSON 输出.
-    * [pagser](https://github.com/foolin/pagser) - Pagser 是一个简单的、可扩展的、可配置的解析和反序列化 html 页面，基于 goquery 和 golang 爬虫的结构标签进行结构化.
+    * [pagser](https://github.com/foolin/pagser) - Pagser 是一个简单的、可扩展的、可配置的解析和反序列化 html 页面，以基于 goquery 和 golang 爬虫的结构标签进行结构化.
     * [podcast](https://github.com/eduncan911/podcast) - Golang 兼容 iTunes 和 RSS 2.0 Podcast Generator
     * [sdp](https://github.com/gortc/sdp) - SDP：会话描述协议 [[RFC 4566](https://tools.ietf.org/html/rfc4566)].
     * [sh](https://github.com/mvdan/sh) - Shell 解析器和格式化程序.
@@ -2033,6 +2033,7 @@ _**非官方** 用于构建项目的模式集._
 * [hipchat (xmpp)](https://github.com/daneharrigan/hipchat) - 通过 XMPP 与 HipChat 通信的 golang 包.
 * [igdb](https://github.com/Henry-Sarabia/igdb) - 去客户端 [Internet Game Database API](https://api.igdb.com/).
 * [kanka](https://github.com/Henry-Sarabia/kanka) - 去客户端 [Kanka API](https://kanka.io/en-US/docs/1.0).
+* [lark](https://github.com/chyroc/lark) - [Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK，支持所有开放API和事件回调.
 * [lastpass-go](https://github.com/ansd/lastpass-go) - 去客户端库 [LastPass](https://www.lastpass.com/) 火.
 * [libgoffi](https://github.com/clevabit/libgoffi) - 用于本机的库适配器工具箱 [libffi](https://sourceware.org/libffi/) 一体化
 * [Medium](https://github.com/Medium/medium-sdk-go) - 用于 Medium 的 OAuth2 API 的 Golang SDK.
@@ -2123,7 +2124,7 @@ _**非官方** 用于构建项目的模式集._
 * [go-safe](https://github.com/kenkyu392/go-safe) - 恐慌安全沙箱.
 * [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - 用 Go 编写的 XML 站点地图生成器.
 * [go-trigger](https://github.com/sadlil/go-trigger) - Go-lang 全局事件触发器，使用 id 注册事件并从项目的任何位置触发事件.
-* [go-type](https://github.com/mikekonan/go-types) - 库提供用于存储/验证和传输 ISO-4217、ISO-3166 和其他类型的 Go 类型.
+* [go-type](https://github.com/mikekonan/go-types) - 为 ISO-4217、ISO-3166 和其他类型的存储/验证和传输提供 Go 类型的库.
 * [goback](https://github.com/carlescere/goback) - 去简单的指数退避包.
 * [goctx](https://github.com/zerosnake0/goctx) - 以高性能获取您的上下文价值.
 * [godaemon](https://github.com/VividCortex/godaemon) - 编写守护进程的实用程序.
@@ -2143,7 +2144,7 @@ _**非官方** 用于构建项目的模式集._
 * [gpath](https://github.com/tenntenn/gpath) - 使用 Go 的反射表达式来简化访问结构字段的库.
 * [grofer](https://github.com/pesos/grofer) - Golang 编写的系统和资源监控工具！
 * [gubrak](https://github.com/novalagung/gubrak)  - 带有语法糖的 Golang 实用程序库. 这就像 lodash，但对于 golang.
-* [handy](https://github.com/miguelpragier/handy) - 许多实用程序和助手，如字符串处理程序/格式化程序和验证程序.
+* [handy](https://github.com/miguelpragier/handy) - Many utilities and helpers like string handlers/formatters and validators.
 * [hostctl](https://github.com/guumaster/hostctl) - 使用简单命令管理 /etc/hosts 的 CLI 工具.
 * [htcat](https://github.com/htcat/htcat) - 并行和流水线式 HTTP GET 实用程序.
 * [hub](https://github.com/github/hub) - 用附加功能包装 git 命令，以便从终端与 github 交互.
@@ -2436,7 +2437,7 @@ _**非官方** 用于构建项目的模式集._
 
 *用于实现零信任架构的库和工具.*
 
-* [Cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+* [Cosign](https://github.com/sigstore/cosign) - OCI 注册表中的容器签名、验证和存储.
 * [in-toto](https://github.com/in-toto/in-toto-golang) - Go 实现 in-toto（提供框架保护软件供应链的完整性）python 参考实现.
 * [Spiffe-Vault](https://github.com/philips-labs/spiffe-vault) - 使用 Spiffe JWT 身份验证和 Hashicorp Vault 进行无秘密身份验证.
 * [Spire](https://github.com/spiffe/spire) - SPIRE（SPIFFE 运行时环境）是一个 API 工具链，用于在各种托管平台的软件系统之间建立信任.

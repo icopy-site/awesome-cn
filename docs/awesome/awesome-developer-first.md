@@ -125,7 +125,7 @@
 * [Mailgun](https://www.mailgun.com/) - 发送、跟踪和接收电子邮件.
 * [Sendgrid](https://sendgrid.com/) - 电子邮件 API.
 * [Lob](https://www.lob.com/) - 电子邮件和地址验证.
-* [FormSpree](https://formspree.io/) - Receive form submissions by email.
+* [FormSpree](https://formspree.io/) - 通过电子邮件接收表单提交.
 * [Hunter.io](https://hunter.io/) - 电子邮件线索和验证 API.
 * [Anymail finder](https://anymailfinder.com) - 验证并查找电子邮件 API.
 
@@ -149,6 +149,7 @@
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发商优先的厂房.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙之后）.
+* [zigi](https://www.zigi.ai/) - 通过 Slack 为开发人员提供人工智能驱动的工作流程个人助理.
 
 ## Monitoring
 *监控您的生产应用程序.*
@@ -173,7 +174,7 @@
 * [Paddle](https://paddle.com/) - 具有广泛地域支持的 SaaS 收入交付平台（与目前的 Stripe 不同）.
 
 ## Repo
-*存储库和工件管理.*
+*Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的软件包存储库.
 * [cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 

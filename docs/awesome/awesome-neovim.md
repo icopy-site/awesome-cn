@@ -533,6 +533,7 @@ Neovim 支持多种 UI.
 - [mini.trailspace](https://github.com/echasnovski/mini.nvim#minitrailspace) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于自动突出显示尾随空格，并具有删除它的功能.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - 类似 VS Code 的 Neovim 重命名 UI，用 Lua 编写.
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - 添加与“删除”分开的“剪切”操作的插件.
+- [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim 插件引入了新的操作员动作以快速替换文本.
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) - 智能支持按行和分隔符排序的排序插件.
 
 ### Formatting
@@ -592,7 +593,7 @@ Neovim 支持多种 UI.
 - [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) - 包装 vim-which-key 的插件以简化 Lua 中的设置.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件，显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的`:map`ping 语法.
-- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的`:map`-系列命令. 与 which-key.nvim 集成.
+- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 模仿 Neovim 的`:map` 系列命令的更简单的键映射 API. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序，可使用级联树简明地映射键. 还允许将 Lua 函数绑定到键.
 
 ### Tmux

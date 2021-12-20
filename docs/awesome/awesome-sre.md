@@ -462,7 +462,7 @@
 * [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
 
 ## Real-time Messaging
-* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般地讨论站点可靠性工程.
+* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般讨论站点可靠性工程.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - 关于事件响应的讨论.
 * [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
@@ -482,6 +482,7 @@
 * [Squadcast Blog](https://www.squadcast.com/blog) - 关于 SRE 最佳实践、可靠性、随叫随到和事件管理的博客文章.
 * [FireHydrant Blog](https://www.firehydrant.io/blog) - 关于复杂系统、事件响应和 SRE 最佳实践的帖子.
 * [Rootly Blog](https://www.rootly.io/blog) - 事件管理最佳实践和指南.
+* [incident.io Blog](https://www.incident.io/blog) - 有关事件管理和响应的指南、建议和资源.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - 关于 SRE、SysAdmin 和 DevOps 新闻、工具、教程和意见的每周时事通讯.
@@ -504,7 +505,7 @@
 
 ## Twitter
 * [Google SRE Twitter Account](https://twitter.com/googlesre) - 谷歌的 SRE 推特账户.
-* [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书的官方推特账号.
+* [SREBook](https://twitter.com/SREBook) - 网站可靠性工程书籍的官方推特账号.
 * [SREcon](https://twitter.com/SREcon) - SRECon 的官方推特账号.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作簿的官方 Twitter 帐户.
 * [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自 SRE 的相关帖子 [dev.to](https://dev.to).

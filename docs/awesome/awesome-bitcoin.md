@@ -111,6 +111,7 @@
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) - 基于网络的区块链概念演示.
 * [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) - 可视化真实交易的比特币脚本执行.
+* [Bitauth IDE](https://ide.bitauth.com/) – 比特币合约的交互式开发环境.
 
 ## Blockchain dump
 * [WebBTC](http://dumps.webbtc.com/bitcoin/) - 这些是由 webbtc.com 生成的 bitcoin-ruby-blockchain 数据库的 postgres 数据库转储.
