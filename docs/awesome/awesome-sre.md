@@ -78,9 +78,6 @@
 * [Intelligent Site Reliability Engineering – A Machine Learning Perspective](http://blog.adnanmasood.com/2016/05/19/intelligent-site-reliability-engineering-a-machine-learning-perspective/)
 * [A crash course in LinkedIn's global site operations](https://engineering.linkedin.com/day-life/crash-course-linkedins-global-site-operations)
 * [Google’s Site Reliability Engineering with Todd Underwood](https://softwareengineeringdaily.com/2016/06/14/googles-site-reliability-engineering-todd-underwood/)
-* [The Rise of the Site Reliability Engineer](https://blog.newrelic.com/2017/10/30/site-reliability-engineer-sre)
-* [Defining Modern Software Roles: SREs at New Relic](https://blog.newrelic.com/2017/12/15/new-relic-sre/)
-* [What Tools Do Site Reliability Engineers Use?](https://blog.newrelic.com/2018/01/23/best-sre-tools/)
 * [What is Site Reliability Engineering? (VMware)](https://blogs.vmware.com/services-education-insights/2018/02/site-reliability-engineering.html)
 * [A Gentle Introduction to SRE](http://geekologist.co/introduction-to-sre/)
 * [Understanding Site Reliability Engineering through Movies and Books](http://engineering.medallia.com/blog/posts/understanding-site-reliability-engineering-through-movies-and-books/)
@@ -186,7 +183,6 @@
 * [Push our limits - reliability testing at Twitter](https://blog.twitter.com/2014/push-our-limits-reliability-testing-at-twitter)
 * [The Verification of a Distributed System by Caitie McCaffrey](http://queue.acm.org/detail.cfm?ref=rss&id=2889274)
 * [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
-* [The Remediation Ballet](https://digital-forensics.sans.org/summit-archives/file/summit-archive-1492182549.pdf)
 * [SRE Hour: Tech Talks by Box & Yelp](https://www.youtube.com/watch?v=YFDwdRVTg4g)
 * [Simplicity: A Prerequisite for Reliability](https://sharpend.io/simplicity-a-prerequisite-for-reliability/)
 * [The Two Sides to Google Infrastructure for Everyone Else](https://speakerdeck.com/garethr/the-two-sides-to-google-infrastructure-for-everyone-else)
@@ -287,7 +283,6 @@
 * [On Being On Call](http://naildrivin5.com/blog/2016/12/07/on-call.html)
 * [The On-Call Handbook](https://github.com/alicegoldfuss/oncall-handbook)
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
-* [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
 * [Run Book / Operations Manual template](https://github.com/SkeltonThatcher/run-book-template)
 * [Automating Your Oncall: Open Sourcing Fossor and Ascii Etch](https://engineering.linkedin.com/blog/2017/12/open-sourcing-fossor-and-ascii-etch)
 * [Project STAR*: Streamlining Our On-Call Process](https://engineering.linkedin.com/blog/2018/01/project-star-streamlining-our-on-call-process)
@@ -373,7 +368,6 @@
 ## Service Level Agreement
 * [If It's in the Cloud, Get It on Paper: Cloud Computing Contract Issues](http://er.educause.edu/articles/2010/6/if-its-in-the-cloud-get-it-on-paper-cloud-computing-contract-issues)
 * [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
-* [Making a point with SLAs](https://blog.serverdensity.com/making-a-point-with-slas/)
 * [SysAdvent- Day 20 - How to set and monitor SLAs](https://sysadvent.blogspot.com/2016/12/day-20-how-to-set-and-monitor-slas.html)
 * [SLOs, SLIs, SLAs, oh my - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html)
 * [Service Levels and Error Budgets](https://www.usenix.org/conference/srecon16/program/presentation/jones)
@@ -462,7 +456,7 @@
 * [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
 
 ## Real-time Messaging
-* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般讨论站点可靠性工程.
+* [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般地讨论站点可靠性工程.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - 关于事件响应的讨论.
 * [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
@@ -483,6 +477,7 @@
 * [FireHydrant Blog](https://www.firehydrant.io/blog) - 关于复杂系统、事件响应和 SRE 最佳实践的帖子.
 * [Rootly Blog](https://www.rootly.io/blog) - 事件管理最佳实践和指南.
 * [incident.io Blog](https://www.incident.io/blog) - 有关事件管理和响应的指南、建议和资源.
+* [Logit.io Blog](https://logit.io/blog) - 有关日志管理、SRE 和 devOps 的资源.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - 关于 SRE、SysAdmin 和 DevOps 新闻、工具、教程和意见的每周时事通讯.

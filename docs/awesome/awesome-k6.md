@@ -39,6 +39,10 @@
 - [Load testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb) - 使用 k6 进行负载、浸泡、压力、尖峰和烟雾测试.
 - [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb)
 - [Load Testing. k6 + TypeScript + Azure DevOps](https://alex-klaus.com/load-test-k6-typescript-azure/)
+- [Performance testing with k6](https://blog.shanelee.name/2021/12/15/performance-testing-with-k6/) - API 性能测试，使用 Open API 和 TypeScript.
+- [k6 introduces browser automation and Prometheus support in k6 OSS](https://grafana.com/blog/2021/11/24/k6-introduces-browser-automation-and-prometheus-support-in-k6-oss/) - 来自 Grafana 博客：ObservabilityCON 2021 上的功能公告.
+- [How to build performance tests into your CI pipeline with k6, GitHub Actions, and Grafana](https://grafana.com/blog/2021/11/29/how-to-build-performance-tests-into-your-ci-pipeline-with-k6-github-actions-and-grafana/) - 来自 Grafana 博客：Matthew Churcher 的 ObservabilityCon 2021 演讲摘要，Vonage QA Architect.
+- [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - 来自 Grafana 博客：摩根大通平台工程执行董事的摘要，Vinodh Ravi 在 ObservabilityCON 2021 上的演讲. 
 
 
 ## Videos

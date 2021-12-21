@@ -99,15 +99,17 @@
 ### Data Mapping Solution
 *数据映射解决方案.*
 - [AltasMap](https://www.atlasmap.io/) - 具有基于 Web 的交互式用户界面的数据映射解决方案，可简化 Java、XML、CSV 和 JSON 数据源之间的集成配置.
+- [JOLT](https://github.com/bazaarvoice/jolt) - 用 Ja​​va 编写的 JSON 到 JSON 转换库，其中转换的“规范”本身就是一个 JSON 文档.
+- [JSLT](https://github.com/schibsted/jslt)  - 一个完整的 JSON 查询和转换语言. 语言设计的灵感来自 jq、XPath 和 XQuery.
 
 ### ESB
 *企业服务总线解决方案.*
 - [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - 在 Mulesoft 的单一平台中结合 API 管理和集成功能.
-- [Apache ServiceMix](https://servicemix.apache.org/) - A flexible, open-source integration container that unifies the features and functionality of Apache ActiveMQ, Camel, CXF, and Karaf.
+- [Apache ServiceMix](https://servicemix.apache.org/) - 一个灵活的开源集成容器，统一了 Apache ActiveMQ、Camel、CXF 和 Karaf 的特性和功能.
 - [ArcESB](https://www.arcesb.com/integration/) - 跨应用程序同步数据，与合作伙伴无缝集成，或使数据可公开访问.
 - [IBM App Connect](https://www.ibm.com/cloud/app-connect)  - 将应用程序连接在一起，无论它们支持何种消息格式或协议. 以前称为 IBM 集成总线.
-- [NServiceBus](https://particular.net/nservicebus) - .NET 对开发人员最友好的服务总线.
-- [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Transforms complex and brittle architectures into agile integration networks by connecting, virtualizing, and managing interactions between services and applications.
+- [NServiceBus](https://particular.net/nservicebus) - The most developer-friendly service bus for .NET.
+- [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - 通过连接、虚拟化和管理服务和应用程序之间的交互，将复杂而脆弱的架构转变为敏捷的集成网络.
 - [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - 使系统开发人员能够设置和管理服务，并将它们编排成复合应用程序和业务流程.
 - [Red Hat Fuse](https://www.redhat.com/en/technologies/jboss-middleware/fuse) - 分布式云原生集成平台.
 - [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - 更快地集成任何东西.
@@ -126,7 +128,7 @@
 - [Pentaho Data Integration](https://github.com/pentaho/pentaho-kettle) - 使用户能够使用可视化工具从任何来源摄取、混合、清理和准备不同的数据，以消除编码和复杂性.
 - [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - 帮助转换、集成、治理和保护数据，同时提高其整体质量和可靠性.
 - [Stitch](https://www.stitchdata.com/)  - 一个简单、强大的 ETL 服务，适用于各种规模的企业，包括企业在内.  Stitch 在可扩展、容错的云平台上运行，集成了来自数十个不同来源的数据.
-- [Talend Data Integration](https://www.talend.com/products/integrate-data/) - 将来自多个来源的数据整合在一起，为您的所有业务决策提供支持.
+- [Talend Data Integration](https://www.talend.com/products/integrate-data/) - 将来自多个来源的数据汇集在一起​​，为您的所有业务决策提供支持.
 
 ### Integration Frameworks
 *基于已知企业集成模式的集成框架.*
@@ -151,7 +153,7 @@
 ### MaaS
 *云消息即服务 (MaaS).*
 - [Amazon MQ](https://aws.amazon.com/amazon-mq) - 用于 Apache ActiveMQ 和 RabbitMQ 的完全托管的消息代理服务.
-- [Amazon MSK](https://aws.amazon.com/msk) - 适用于 Apache Kafka 的 Amazon Managed Streaming.
+- [Amazon MSK](https://aws.amazon.com/msk) -  Amazon Managed Streaming for Apache Kafka.
 - [Amazon SQS](https://aws.amazon.com/sqs) - 亚马逊简单队列服务.
 - [Amazon SNS](https://aws.amazon.com/sns)  - 亚马逊简单通知服务. 发布/订阅功能为分布式系统、微服务和事件驱动的无服务器应用程序之间的高吞吐量、基于推送、多对多消息传递提供主题.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - 来自阿里云的完全托管的 Apache Kafka 服务.
@@ -160,7 +162,7 @@
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - 企业级云消息传递，与 Anypoint 平台完全集成.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - 可靠的云消息即服务 (MaaS) 和简单的混合集成.
-- [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ 即服务.
+- [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ as a Service.
 - [CloudKarafka](https://www.cloudkarafka.com/) - AWS 和 Google Cloud 上提供经济实惠且直接且完全托管的 Kafka 集群.
 - [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - 事件驱动系统和流分析的消息传递和摄取.
 - [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - 在企业应用程序、系统和服务之间轻松移动数据.
@@ -183,7 +185,7 @@
 - [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - 通过管理您的主数据更快、更有效地适应和响应变化.
 - [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - 通过整合和集中管理主数据生命周期，提高整个组织的信息质量和一致性.
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - 提供单一、准确和统一的企业数据视图，将来自各种数据源的信息整合到一个主记录中.
-- [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - 在数据方面提供“一个版本的真相”，确保只有可靠、准确和经批准的信息才能流经您的系统、流程和应用程序.
+- [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - 在数据方面提供“一个版本的真相”，确保只有可靠、准确和经过批准的信息才能流经您的系统、流程和应用程序.
 - [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - 使用一致的参考数据来建立准确的分析数据基础，从而推动显着的投资回报率.
 - [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - 治理、管理和使用所有共享数据资产的单一解决方案.
 
@@ -288,7 +290,7 @@
 - [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) - 通过消息通道连接的两个应用程序如何交换一条信息？
 - [Message Dispatcher](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageDispatcher.html) - 单个通道上的多个消费者如何协调他们的消息处理？
 - [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示何时应将消息视为过时并因此不应处理？
-- [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - How can systems using different data formats communicate with each other using messaging?  
+- [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - 使用不同数据格式的系统如何使用消息传递相互通信？  
 - [Message Broker](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html) - 如何将消息的目的地与发送方分离并保持对消息流的中央控制？
 - [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么是使单独的应用程序能够协同工作，但以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序的架构？  
 - [Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageChannel.html) - 一个应用程序如何使用消息传递与另一个应用程序通信？
@@ -303,7 +305,7 @@
 - [Messaging Mapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingMapper.html) - 如何在域对象和消息传递基础设施之间移动数据，同时保持两者相互独立？
 - [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - 如何处理语义相同但以不同格式到达的消息？
 - [Pipes and Filters](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html) - 我们如何在保持独立性和灵活性的同时对消息进行复杂的处理？  
-- [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - How can the caller be sure that exactly one receiver will receive the document or perform the call?
+- [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - 呼叫者如何确定只有一位接收者会收到文件或执行呼叫？
 - [Polling Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html) - 当应用程序准备好时，应用程序如何使用消息？  
 - [Process Manager](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ProcessManager.html) - 当所需的步骤在设计时可能未知并且可能不是连续的时，我们如何通过多个处理步骤路由消息？
 - [Publish-Subscribe Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html) - 发送方如何向所有感兴趣的接收方广播一个事件？
@@ -316,7 +318,7 @@
 - [Selective Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html) - 消息消费者如何选择它希望接收的消息？  
 - [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html) - 应用程序如何设计可通过各种消息传递技术和非消息传递技术调用的服务？
 - [Smart Proxy](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html) - 如何在向请求者指定的返回地址发布回复消息的服务上跟踪消息？
-- [Splitter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html) - 如果消息包含多个元素，每个元素可能必须以不同的方式进行处理，我们如何处理它？  
+- [Splitter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html) - How can we process a message if it contains multiple elements, each of which may have to be processed in a different way?  
 - [Test Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/TestMessage.html) - 但是，如果一个组件正在积极处理消息，但由于内部故障而导致外发消息出现乱码，会发生什么情况？  
 - [Transactional Client](https://www.enterpriseintegrationpatterns.com/patterns/messaging/TransactionalClient.html) - 客户端如何通过消息传递系统控制其事务？  
 - [Wire Tap](https://www.enterpriseintegrationpatterns.com/patterns/messaging/WireTap.html) - 您如何检查在点对点通道上传输的消息？  

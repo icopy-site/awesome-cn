@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
-&gt; 用于 GNOME 桌面环境的 _awesome_ 应用程序、扩展、模块、主题和工具的精选列表.
+&gt; GNOME 桌面环境的 _awesome_ 应用程序、扩展、模块、主题和工具的精选列表.
 
 [GNOME](https://www.gnome.org/) 是 Linux 和 Unix 的桌面环境，旨在让用户控制并完成工作. 它在其应用程序中使用 GTK，在其官方桌面 shell 中使用 Clutter 和 JavaScript.
 
@@ -77,7 +77,7 @@
 - [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail)  - 简单实用的图像压缩器.  ![GNOME 圈][GNOME 圈]
 - [Drawing](https://github.com/maoschanz/drawing)  - 响应式绘图应用程序.  ![GNOME 圈][GNOME 圈]
 - [Identity](https://gitlab.gnome.org/YaLTeR/identity)  - 比较图像和视频.  ![GNOME 圈][GNOME 圈]
-- [Coulr](https://github.com/Huluti/Coulr) - 在颜色的 RGB 和十六进制代码之间进行转换.
+- [Coulr](https://github.com/Huluti/Coulr) - 在颜色的 RGB 和十六进制代码之间转换.
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - 颜色泡菜，适用于 X11 和 Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - 强大而先进的应用程序来管理您的照片和图像.
 
@@ -93,7 +93,7 @@
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - 高级 GNOME 设置的图形界面.
 - [Tilix](https://github.com/gnunn1/terminix/) - 平铺终端模拟器.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - 如果您使用 Arc 或应用程序菜单等传统应用程序菜单，请管理您的应用程序类别.
-- [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - 为每台显示器设置不同的背景.
+- [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - 为每个显示器设置不同的背景.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - 用于编辑 GNOME 的 XML 壁纸的实用程序
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) - 异构 Linux 服务器的统一管理面板.
 - [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - 动态壁纸等 MacOS 画廊，以及安装它们的简单脚本
@@ -101,7 +101,7 @@
 ### Utilities
 
 - [Dialect](https://flathub.org/apps/details/com.github.gi_lom.dialect)  - 翻译文本.  ![GNOME 圈][GNOME 圈]
-- [Markets](https://flathub.org/apps/details/com.bitstower.Markets)  - 股票、货币和加密货币跟踪器.  ![GNOME 圈][GNOME 圈]
+- [Markets](https://flathub.org/apps/details/com.bitstower.Markets)  - 股票、货币和加密货币追踪器.  ![GNOME 圈][GNOME 圈]
 - [GPaste](https://github.com/Keruspe/GPaste) - 剪贴板管理器（由应用程序和 gnome-shell 扩展组成）.
 - [Peek](https://github.com/phw/peek) - 简单的屏幕录像机，可将您的录音保存为 GIF.
 - [Catfish](https://launchpad.net/catfish-search) - 简单的搜索应用程序.
@@ -110,6 +110,7 @@
 - [RecApp](https://github.com/amikha1lov/RecApp) - 用户友好的开源截屏器.
 - [Sunflower](http://sunflower-fm.org) - 小巧且高度可定制的双面板文件管理器.
 - [Kooha](https://github.com/SeaDve/Kooha) - 一个简单的屏幕录像机.
+- [Junction](https://junction.sonny.re/)  - Junction 允许您选择打开文件和链接的应用程序.  ![GNOME 圈][GNOME 圈]
 
 ### Security and Privacy
 
