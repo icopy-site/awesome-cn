@@ -17,7 +17,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
@@ -47,7 +46,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - 推特客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上的智能且漂亮的 Twitter 客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 - [WeeChat](https://weechat.org/) - 快速、轻便且可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) - IRC 聊天客户端.
@@ -290,7 +289,7 @@
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可达.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用 speedtest.net 测试互联网连接速度和 ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同 UI 的 `speedtest-net` 包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用 speedtest.net 测试互联网带宽.
 - [bandwhich](https://github.com/imsnif/bandwhich) - 按进程跟踪带宽利用率.
 
 ### Theming and Customization
@@ -301,6 +300,7 @@
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为墙纸.
 - [pywal](https://github.com/dylanaraps/pywal) - 生成和更改配色方案，然后在系统范围内将它们应用于您喜欢的所有程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
+- [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
 ### Shell Utilities
 
@@ -496,7 +496,7 @@
 - [gifsicle](https://github.com/kohler/gifsicle) - 创建、操作和优化 GIF 图像和动画.
 - [ttygif](https://github.com/icholy/ttygif) - 将终端录音转换为 gif 动画.
 - [ttygif](https://github.com/sugyan/ttygif) - ttyrec 到 gif.
-- [ttystudio](https://github.com/chjj/ttystudio) - 一个终端到 gif 记录器，减少了头痛.
+- [ttystudio](https://github.com/chjj/ttystudio) - 一个终端到 gif 记录器，减少了麻烦.
 - [asciinema](https://github.com/asciinema/asciinema) - asciinema.org 的终端会话记录器和配套应用程序.
 - [givegif](https://github.com/passy/givegif) - 命令行上的 GIF.
 

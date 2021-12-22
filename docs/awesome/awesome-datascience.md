@@ -18,7 +18,7 @@
  | 链接 | 预览 |
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合技术、算法开发、数据干扰等数据的多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合数据的技术、算法开发、数据干扰等多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才. 这种模式在 1990 年代后期被搜索工程师重复使用，他们的精湛技能很快就被教授到计算机科学课程中._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
@@ -375,6 +375,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
 - [highcarts](http://www.highcharts.com/)
 - [import.io](https://www.import.io/)
+- [ipychart](https://nicohlr.gitlab.io/ipychart/)
 - [jqplot](http://www.jqplot.com/)
 - [Matplotlib](http://matplotlib.org/)
 - [nvd3](http://nvd3.org/)
@@ -401,7 +402,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [ICML](http://icml.cc/2015/) - 机器学习国际会议
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议 (GECCO)
 - [epjdatascience](http://epjdatascience.springeropen.com/)
-- [Journal of Data Science](http://www.jds-online.com/) - 致力于统计方法应用的国际期刊
+- [Journal of Data Science](http://www.jds-online.com/) - 致力于广泛应用统计方法的国际期刊
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
 - [Journal of Big Data](http://journalofbigdata.springeropen.com/)
 - [Big Data & Society](http://journals.sagepub.com/home/bds)

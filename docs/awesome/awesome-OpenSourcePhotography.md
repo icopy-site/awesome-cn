@@ -12,7 +12,7 @@
 
 - [GIMP](http://www.gimp.org/) - *用于图像处理的瑞士刀.*
 - [PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - *非破坏性的照片修饰程序，包括RAW图像显影.*
-- [ImageMagick](http://www.imagemagick.org/) - *A suite of command-line utilities for modifying and working with images.*
+- [ImageMagick](http://www.imagemagick.org/) - *一套用于修改和处理图像的命令行实用程序.*
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick 通常比 ImageMagick 快.*
 
 ## Camera Firmware Mods 
@@ -83,10 +83,11 @@
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) - *一个Android图库应用程序，用于查看类似于android股票图库的照片和视频，支持文件复制/移动/重命名/删除/共享.*
 - [Leaf Pic](https://github.com/HoraApps/LeafPic/) - *材料设计的安卓画廊替代品.*
 - [A Photo Manager](https://github.com/k3b/APhotoManager/) - *在Android上管理本地照片：图库、带有照片地图的地理标记、标签、查找、排序、查看、复制、删除、发送……*
-- [PhotoPrism](https://photoprism.org/) - *PhotoPrism™ 是一个基于服务器的应用程序，用于浏览、组织和共享您的个人照片集.A*
-## EXIF Editors
+- [PhotoPrism](https://photoprism.org/) - *PhotoPrism™ 是一个基于服务器的应用程序，用于浏览、组织和共享您的个人照片集.*
 
+## EXIF Editors
 - [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) - *用于读取、写入和操作图像、音频和视频元数据的程序.*
+- [Exiv2](https://github.com/Exiv2/exiv2/)  - *Exiv2 是一个 C++ 库和一个命令行实用程序，用于读取、写入、删除和修改 Exif、IPTC、XMP 和 ICC 图像元数据.*
 
 ## Photo Downloaders
 
@@ -139,7 +140,7 @@
 - [Natron](https://github.com/MrKepzie/Natron) - *基于节点的合成器，其原理与电影和电视后期制作中使用的最先进工具相同.*
 - [ButtleOFX](https://github.com/buttleofx/ButtleOFX) - *一个简单、用户友好和开源的合成软件.* 
 - [Blender](https://www.blender.org/) - *此开源 3D 图形具有用于视频编辑的工具.*
-- [Shotcut](https://github.com/mltframework/shotcut) - *免费、开源、跨平台的视频编辑器.*
+- [Shotcut](https://github.com/mltframework/shotcut) - *A free, open source, cross-platform video editor.*
 
 ### Video Libraries
 

@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/maehr/awesome-digital-history/master/android-chrome-512x512.png" align="right" width="100">](https://maehr.github.io/awesome-digital-history/)
 
-> Find primary sources online and learn how to research history digitally.
+&gt; 在线查找主要资源并学习如何以数字方式研究历史.
 
 寻找文本和多媒体的辅助工具 [primary sources](https://en.wikipedia.org/wiki/Primary_source) 以西半球和 19 世纪和 20 世纪为重点. 以数字方式探索历史的课程和学习工具.
 
@@ -44,7 +44,8 @@
 - [Docupedia](https://docupedia.de/) - 当代历史研究中的术语、方法和辩论.
 - [leo bw](https://www.leo-bw.de/) - 巴登-符腾堡州国家档案馆平台.
 - [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - 纳粹时期受迫害的音乐家百科全书.
-- [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - 包含 2,000 多位作者的 10,000 部德语作品.
+- [MARCHIVUM](https://druckschriften-digital.marchivum.de/) - 收集曼海姆报纸和有关曼海姆历史的历史印刷品.
+- [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
 - [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - 超过 180 万种图形媒体（照片、地图、绘图）.
 - [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) - 自 1947 年以来的明镜档案.
 - [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) - 手稿、文件、地图和文献.
@@ -107,7 +108,8 @@
 - [Kartenportal](http://www.kartenportal.ch/) - 地图搜索引擎.
 - [Le Temps](https://www.letempsarchives.ch/) - Gazette de Lausanne 和 Journal de Genève 档案.
 - [map.geo.admin.ch](https://map.geo.admin.ch/) - 通过瑞士地图穿越时空.
-- [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 个瑞士记忆机构的 415,634 份视听文件的访问.
+- [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 家瑞士记忆机构的 415,634 份视听文件的访问.
+- [Schweizerisches Wirtschaftsarchiv](https://ub.unibas.ch/de/historische-bestaende/wirtschaftsarchive/) - 该馆藏包括从 1750 年至今的 500 多个商业档案，重点是巴塞尔地区.
 - [swisscollections](https://swisscollections.ch/) - 瑞士图书馆和档案馆中历史和现代收藏的元搜索引擎.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - 联邦委员会向议会报告过去几年的收入和支出.
 
@@ -116,6 +118,7 @@
 - [AdFontes](https://www.adfontes.uzh.ch/) - 在档案中使用资源的介绍.
 - [Clio Guide](https://guides.clio-online.de/) - 历史科学数字资源手册.
 - [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - 历史学家（教师和学生、档案管理员和博物馆馆长、教授和业余爱好者）的网络简介，他们希望制作在线历史作品，或者在这一重要的新媒体中建立和改进他们已经开始的项目.
+- [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - 打开 HGIS 课程和资源.
 - [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - 卡尔顿大学肖恩格雷厄姆的数字历史方法和阅读.
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学的 Cameron Blevins 在数字历史中的方法和阅读.
 - [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.

@@ -691,7 +691,7 @@ AWS 存储库：
 * [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - 简单的 PHP 应用程序.
 * [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - 一个示例 Rails 应用程序.
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch 示例食谱.
-* [opsworks-example-cookbooks ](https://github.com/awslabs/opsworks-example-cookbooks) - 与示例应用程序一起使用的食谱.
+* [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) - 与示例应用程序一起使用的食谱.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) - 用于演示简单食谱的食谱.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - 一个示例 Node.JS 应用程序.
 * [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - 适用于 Windows 的食谱.
