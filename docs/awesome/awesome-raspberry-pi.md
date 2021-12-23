@@ -184,6 +184,7 @@
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - 在 Raspberry Pi 上运行的大数据集群.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - 让您自己的闪电节点运行的最快和最便宜的方式.
 - [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Raspberry Pi 上的 ️⚡Lightning️⚡ 初学者指南.
+- [Relayboard Control](https://github.com/leinir/relayboard-control) - 用于将 Waveshare 8 通道中继板连接到 MQTT 服务器的 Qt 应用程序.
 - [Rhasspy](https://rhasspy.readthedocs.io) - 开源、完全离线的语音助手服务集，可与 Home Assistant、Node-RED、MQTT 等配合使用.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - 用于将各种电机和伺服系统连接到 Pi 的 Python 3 库.
 - [RPI tempmon](https://github.com/gavinlyonsrepo/raspberrypi_tempmon) - 具有各种功能的 CPU GPU 温度监视器，例如 LED GPIO、图形输出、电子邮件、警报限制、通知和日志记录.

@@ -155,7 +155,7 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层的协议，强调安全性.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 就像在 NixOS 上一样管理 macOS 配置.
-* [nixpkgs-wayland](https://github.com/colemickens/nixpkgs-wayland) - 流血边缘的 Wayland 包.
+* [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 流血边缘的 Wayland 包.
 * [NUR](https://github.com/nix-community/NUR/)  - Nix 用户存储库. 所有覆盖的母体，允许访问用户存储库并通过属性安装包.
 
 ## Community

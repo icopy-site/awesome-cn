@@ -25,7 +25,7 @@
 - [Google](https://github.com/google/eslint-config-google) - 可共享的配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - 可共享的配置 [React](https://reactjs.org) 项目.
 - [Shopify](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - 可共享的配置 [Shopify's style guide](https://github.com/Shopify/javascript).
-- [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) - 可共享的配置 [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript)，被使用 [MediaWiki](https://www.mediawiki.org/).
+- [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) - 可共享的配置 [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), 被使用 [MediaWiki](https://www.mediawiki.org/).
 
 ### Other Prominent Configs (100 stars or so)
 
@@ -41,7 +41,7 @@
 - [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - 很棒的项目的 ESLint 配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) - 非常严格的代码的可共享配置.
 - [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - 最严格（但实用）的 ESLint 配置.
-- [Problems](https://github.com/RyanZim/eslint-config-problems) - 可共享的配置，只捕捉实际问题，不强制风格偏好.
+- [Problems](https://github.com/RyanZim/eslint-config-problems) - 仅捕获实际问题的可共享配置，不强制执行风格偏好.
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Supermind 风格的可共享配置.
 
 ## Preconfigured Configs with ESLint Set up
@@ -63,7 +63,7 @@
 ### Compatiblity
 
 - [Compat](https://github.com/amilajack/eslint-plugin-compat) - 使用的 API 的 Lint 浏览器兼容性（[caniuse](http://caniuse.com/#search=fetch) 作为 ESLint 插件）.
-- [ecmascript-compat](https://github.com/robatwilliams/es-compat) - 禁用您的浏览器列表目标不支持的 ECMAScript 语言功能.
+- [ecmascript-compat](https://github.com/robatwilliams/es-compat) - 禁用浏览器列表目标不支持的 ECMAScript 语言功能.
 - [es](https://github.com/mysticatea/eslint-plugin-es) - 禁用特定的 ECMAScript 语言版本或个别功能.
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ES5 用户的 ESLint 插件（禁止使用 ES2015+）.
 - [ie11](https://github.com/Volox/eslint-plugin-ie11) - 检测 IE11 中不受支持的 ES6 功能.
@@ -100,16 +100,16 @@
   - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - JSX 元素的可访问性规则.
   - [React](https://github.com/yannickcr/eslint-plugin-react) - React 和 JSX 的 Linting 规则.
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - React Hooks 的 Linting 规则.
-  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native 特定的 linting 规则.
+  - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - 反应本机特定的 linting 规则.
   - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux 特定的 linting 规则.
 - [Svelte](https://github.com/sveltejs/eslint-plugin-svelte3) - Svelte v3 组件的 Linting 规则.
-- 看过
+- 看法
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - VueJS 插件.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - VueJS 中作用域 CSS 的插件.
 
 ### Languages
 
-- [Coffee](https://github.com/aminland/eslint-plugin-coffee) - 使用 Coffeelint 库中的可选 linting 规则启用对 CoffeeScript 文件的 linting.
+- [Coffee](https://github.com/aminland/eslint-plugin-coffee) - 使用 Coffeelint 库中的可选 linting 规则启用对 CoffeeScript 文件的 linting CoffeeScript 文件.
 - ES5
   - [Babel](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - 添加内置规则的替代品以包含 Babel 功能.
   - [import](https://github.com/benmosher/eslint-plugin-import) - 整理 ES2015+ 导入/导出语法，并防止文件路径和导入名称拼写错误的问题.
@@ -121,7 +121,7 @@
   - [JSON](https://github.com/azeemba/eslint-plugin-json) - 整理您的 JSON 文件.
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  - 整理、格式化和自动修复您的 JSON 文件. 对你的`package.json` 进行排序.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - 用于 JSON、JSONC 和 JSON5 的 ESLint 插件.
-  - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - 使用 JSON Schema Validator 验证 JavaScript、JSON、YAML 和 TOML 中定义的数据.
+  - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - 使用 JSON Schema Validator 验证在 JavaScript、JSON、YAML 和 TOML 中定义的数据.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) - 针对 Node.js 的附加 ESLint 规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - ESLint 的 SQL linting 规则.
@@ -155,7 +155,7 @@
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - 一个用于 linting ESLint 插件的 ESLint 插件.
 - [GitHub](https://github.com/github/eslint-plugin-github)  - 杂项. 来自 GitHub 的规则.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  - 杂项. 规则.
-- [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin)  - 杂项. 规则. 没有个人配置的`@myisticatea`.
+- [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin)  - 杂项. 规则.  `@myisticatea` 没有个人配置.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 检查文件顶部并修复它们的 eslint 规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) - 将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) - 将所有规则转换为警告.
@@ -167,12 +167,12 @@
 
 - [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - 在使用 es2015 数组方法和函数时避免冗余.
 - [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint 规则以确保正确的箭头函数定义.
-- [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - 确保您的项目中的元素检查文件结构和依赖项时遵守您的架构边界.
+- [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - 确保您的项目检查文件结构和依赖项中的元素尊重您的架构边界.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - 函数式编程的 ESLint 规则.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - 在 JavaScript 和 TypeScript 中禁用突变和提升 fp 的 ESLint 规则.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - 禁用 JavaScript 中的所有突变.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用 `new` 抛出错误.
-- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告使用 `this` 和 `bind` 或在构造函数中设置状态来鼓励使用类属性.
+- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告在构造函数中使用 `this` 和 `bind` 或设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - ESLint 的自定义规则，用于检查对象文字中推断的方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 都 2019 年了，你还在用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - 在消息中显示查询语法的内容.
@@ -195,14 +195,14 @@
 
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - 一个检测潜在秘密/凭证的 eslint 插件.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - 检查 `innerHTML`、`outerHTML` 等.
-- [pii](https://github.com/shiva-hack/eslint-plugin-pii)  - 检查并强制执行代码的 PII 合规性. 即评论或字符串文本中没有电子邮件地址、出生日期、IP 地址或电话号码.
+- [pii](https://github.com/shiva-hack/eslint-plugin-pii)  - 检查并强制执行代码的 PII 合规性. 即评论或字符串文字中没有电子邮件地址、出生日期、IP 地址或电话号码.
 - ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的 ESLint 规则.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在代码库中的 XSS 问题最终投入生产之前检测它们.
 
 ### Style
 
-- [const case](https://www.npmjs.com/package/eslint-plugin-const-case) - 强制常量原始文字的大写.
+- [const case](https://www.npmjs.com/package/eslint-plugin-const-case) - 强制大写常量原始文字.
 - [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) - 派生规则 [`.editorconfig`](https://editorconfig.org/).
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - 确保 JavaScript 文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
@@ -246,7 +246,7 @@
 <!--lint ignore awesome-spell-check-->
 
 - [badger](https://github.com/brettz9/eslint-formatter-badger) - 制作基于 SVG 的徽章来总结 ESLint 结果（例如，用于自述文件）.
-- [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - 具有 Git 作者、日期和哈希的 ESLint 格式化程序.
+- [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter 具有 Git 作者、日期和哈希值.
 - [github](https://github.com/hipstersmoothie/eslint-formatter-github) - 直接在拉取请求中查看 ESLint 错误和警告.
 - [gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - 在 GitLab 代码质量结果中输出 ESLint 结果.
 - [mo](https://github.com/fengzilong/eslint-formatter-mo) - 好看的 ESLint 格式化程序，也带来愉快的阅读体验.
@@ -255,7 +255,7 @@
 
 ## Globals
 
-- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - 期望在全局变量上使用 `window` 限定符，否则它们可能会与局部变量混淆.
+- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - 期望在全局变量上使用 `window` 限定符，否则可能会与局部变量混淆.
 - [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自 ESLint）
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - TestCafe 的`fixture` 和`test` 全局变量.
@@ -263,10 +263,9 @@
 ## Tools
 
 - [es-file-traverse](https://github.com/brettz9/es-file-traverse)  - 根据导入和/或从一个或多个条目文件中获取仅那些正在使用的文件的列表； 列表可传递给 ESLint. 预期的 esp. 用于 linting 3rd 方依赖项.
-- [eslint-cli](https://github.com/eslint/eslint-cli) - 这是执行本地安装的 ESLint 的 `eslint` 命令.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - 查找自定义配置中没有的内置 ESLint 规则.
 - [eslint-index](https://github.com/wagerfield/eslint-index) - 用于在 ESLint 配置文件中查找和管理规则的 CLI.
-- [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - 多路复用 eslint 结果并合并常见文件的结果.
+- [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - 对普通文件多路复用 eslint 结果和合并结果.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 通过一次修复一个规则，轻松进入 ESLint.
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - 查找 ESLint 规则文档的 url.
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - 在监视模式下运行 ESLint.
@@ -284,7 +283,7 @@
 ## Tutorials
 
 - [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - 文章介绍了 ESLint 规则和插件的创建.
-- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - 文章介绍了使用 ESLint 的好处.
+- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - 介绍使用 ESLint 的好处的文章.
 - [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - 显示 ESLint 设置和基础知识的视频.
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - 展示如何通过 ESLint 使用 React 和 JSX 的视频.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - 关于如何将插件编写为包含模块化 mixin 配置的节点模块的文章.
@@ -292,4 +291,4 @@
 
 ## Installation and Setup
 
-- [Lintier](https://github.com/josh-stillman/lintier) - CLI 可在 TypeScript 项目中快速构建 ESLint &amp; Prettier 设置.
+- [Lintier](https://github.com/josh-stillman/lintier) - CLI 可在 TypeScript 项目中快速搭建 ESLint &amp; Prettier 设置.
