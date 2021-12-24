@@ -8,6 +8,8 @@
 
 随意添加有关您自己的 db-tools 或您喜欢的第三方 db-tools 的信息.
 
+有关“awesome-db-tools”的更新以及有关数据库/工具/SQL 的想法/新闻，请关注我 [@GraminMaksim](https://twitter.com/GraminMaksim)
+
 
 
 ## IDE
@@ -64,7 +66,7 @@
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - VSCode 的数据库管理.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整且易于使用的 MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - SQL 编辑器和 Clickhouse 的开源简单商业智能.
-- [TablePlus](https://github.com/TablePlus/TablePlus) - 用于关系数据库的现代、原生和友好的 GUI 工具：MySQL、PostgreSQL、SQLite 等.
+- [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 - [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web 管理 GUI - 从任何地方使用您的 PostgreSQL 数据库，具有丰富、闪电般快速的 AJAX Web 界面.
 
 
@@ -205,7 +207,7 @@
 
 ## Administration
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
-- [pgbedrock](https://github.com/Squarespace/pgbedrock) - Manage a Postgres cluster's roles, role memberships, schema ownership, and privileges.
+- [pgbedrock](https://github.com/Squarespace/pgbedrock) - 管理 Postgres 集群的角色、角色成员、架构所有权和权限.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres 分区就像馅饼一样简单.
 
 

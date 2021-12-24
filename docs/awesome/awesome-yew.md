@@ -30,7 +30,7 @@
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - 一个完全用 Rust 编写的 Web 应用程序，前端是用 Yew 构建的.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - 易于测试和工作的 Rust 代码，带有博客文章来解释它们.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - 一个完全用 Rust 编写的网络应用程序，用于愚蠢的派对游戏.
-- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级 (~2mb) 桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view)，作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级 (~2mb) 桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - 该项目展示了如何使用 Yew 组件中的 React 组件创建 Web 应用程序.
 - [Kirk](https://github.com/stkevintan/Kirk) - 只是一个 Rust WebAssembly 博客.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - 学习 Rust 和异步的玩具项目，可以部署到网络上.
@@ -51,7 +51,7 @@
 - [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) - 这是一个 Rust / Wasm 客户端 Web 应用程序，它是一个任务控制中心.
-- [note-to-yew](https://github.com/GalAster/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
+- [note-to-yew](https://github.com/GalAster/note-to-yew) - 在线将您的标记转换为 Yew 宏，这也是由 Yew 制作的.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 具有 ASCII 艺术奖励的可配置 Hangman 游戏.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用 Yew，Rust 为后端 API 提供动力.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现的 2048 游戏并编译为 Wasm.
@@ -95,6 +95,10 @@
 - [Yew Form](https://github.com/jfbilodeau/yew_form) - 使用 Yew 简化处理表单的组件.
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - 当父组件更改宽度/高度时发出事件的 Yew 组件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - 用于虚拟滚动/滚动窗口的 Yew 组件.
+
+### Hooks
+
+- [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 
 ### Utils
 
@@ -145,7 +149,7 @@
 
 ## Alternatives
 
-Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项激动人心的新技术的潜力.
+Yew 团队喜欢与其他项目分享想法，并相信我们可以互相帮助，充分发挥这项激动人心的新技术的潜力.
 
 - [Draco](https://github.com/utkarshkukreti/draco) - 用于使用 WebAssembly 构建客户端 Web 应用程序的 Rust 库.
 - [Percy](https://github.com/chinedufn/percy) - 用于使用 Rust + WebAssembly 构建同构 Web 应用程序的模块化工具包.
