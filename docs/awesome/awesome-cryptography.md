@@ -75,7 +75,7 @@
 - [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  - 本课程解释了密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性以及如何将这些知识应用到实际应用中.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
-- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 在本在线课程中，我们将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
+- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 本在线课程将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
 - [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - 密码学的入门但快节奏的本科/研究生课程，用于哈佛 CS 127.
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - 可汗学院的密码学课程.
 - [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - 现代密码学的实践方面，2006 年冬季华盛顿大学 CSE.
@@ -131,12 +131,13 @@
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - C 中的小型便携式 AES128.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) - 小型、快速、可移植的 TLS/SSL 实现，用于嵌入式设备到云.
+- [XKCP](https://github.com/XKCP/XKCP) — 是一个存储库，收集由 Keccak 团队定义的加密方案的不同免费和开源实现.
 - [xxHash](https://github.com/Cyan4973/xxHash) - 极快的哈希算法.
 
 ### C++
 
 - [Botan](https://botan.randombit.net/) - 用“C++11”编写的密码学库.
-- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library 是一个免费的 C++ 加密方案类库.
+- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
 - [HElib](https://github.com/shaih/HElib) - 实现同态加密 (HE) 的软件库.
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - 低级加密库.
 - [s2n](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
@@ -225,7 +226,7 @@
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript 加密库为 Web 开发人员提供了一组广泛而高效的加密函数.
 - [js-nacl](https://github.com/tonyg/js-nacl) - Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
-- [JShashes](https://github.com/h2non/jshashes) - 适用于 Node.js 和浏览器的快速且无依赖的加密哈希库（支持 MD5、SHA1、SHA256、SHA512、RIPEMD、HMAC）.
+- [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 - [jsrsasign](https://github.com/kjur/jsrsasign) - &#39;jsrsasign&#39;（RSA 签名 JavaScript 库）是一个开源免费加密库，支持 RSA/RSAPSS/ECDSA/DSA 签名/验证.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium 编译为纯 JavaScript，带有方便的包装器.
@@ -270,7 +271,7 @@ algorithm.
 
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - 包装 OpenSSL 的库，但也有纯 Julia 实现供参考.
 - [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - mbed TLS 和密码学 C 库的包装.
-- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - 朱莉娅包装荨麻加密散列/
 提供 MD5、SHA1、SHA2 散列和 HMAC 功能以及 AES 加密/解密的加密库.
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) - 高性能，100% 原生 julia SHA1，SHA2-{224,256,384,512} 实现.
 
@@ -369,7 +370,7 @@ algorithm.
 
 - [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) - “密码学”是一个低噪音的邮件列表，专门讨论密码技术及其政治影响.
 - [Modern Crypto](https://moderncrypto.org/) - 讨论现代密码实践的论坛.
-- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - List for general discussion of cryptography, particularly the technical aspects.
+- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - 密码学的一般讨论列表，特别是技术方面.
 
 ### Web-tools
 

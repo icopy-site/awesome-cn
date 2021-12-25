@@ -24,7 +24,7 @@
 
 Neovim 支持多种 UI.
 
-- [CosmicNvim/cosmic-ui](https://github.com/CosmicNvim/cosmic-ui) - Cosmic-UI is a simple wrapper around specific vim functionality. Built in order to provide a quick and easy way to create a Cosmic UI experience with Neovim!
+- [CosmicNvim/cosmic-ui](https://github.com/CosmicNvim/cosmic-ui)  - Cosmic-UI 是一个围绕特定 vim 功能的简单包装器. 旨在提供一种快速简便的方法来使用 Neovim 创建 Cosmic UI 体验！
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [smolck/uivonim](https://github.com/smolck/uivonim) - 目标：功能丰富的跨平台 GUI，利用最新的 Neovim 功能.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - Swift 中适用于 macOS 的 Neovim GUI.
@@ -33,7 +33,7 @@ Neovim 支持多种 UI.
 - [beeender/glrnvim](https://github.com/beeender/glrnvim) - 在 alacritty 中启动 Neovim 的终端包装器.
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - 用 Golang 编写的 Neovim GUI，使用 Golang qt 后端.
 - [DinVim](http://dinvim.com/) - 适用于 macOS 的 DinVim 是一个安全可靠的 macOS 沙盒工作环境，可为 Vim 用户提供真正的 macOS 体验.
-- [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - A Neovim client in C++.
+- [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) - C++ 中的 Neovim 客户端.
 - [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim) - 用于 Visual Studio Code 的 Neovim 集成.
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim 客户端库和 GUI，在 Qt5 中.
 - [lunixbochs/actualvim](https://github.com/lunixbochs/actualvim) - 使用 Neovim 的 Sublime Text 3 输入模式.
@@ -60,7 +60,7 @@ Neovim 支持多种 UI.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - 更好的 nvim-lsp 操作默认值.
 - [tami5/lspsaga.nvim](https://github.com/tami5/lspsaga.nvim) - 基于 Neovim 内置 lsp 的轻量级 lsp 插件，具有高性能 UI.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - quickfix 中的实时渲染工作区诊断，loclist 中的缓冲区诊断.
-- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - A pretty diagnostics list to help you solve all the trouble your code is causing.
+- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 一个漂亮的诊断列表，可帮助您解决代码引起的所有问题.
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 一个插件，为尚不支持内置 LSP 客户端的配色方案添加缺少的 LSP 诊断突出显示组.
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - 只要在当前光标位置有“textDocument/codeAction”可用，插件就会在符号栏中显示一个灯泡.
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - 该插件为 Neovim lsp 补全添加了类似 vscode 的图标.
@@ -88,7 +88,7 @@ Neovim 支持多种 UI.
 ##### LSP Installer
 
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) - 易于安装语言服务器.
-- [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - Updates installed (or auto installs if missing) LSP servers.
+- [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) - 更新安装（或自动安装如果缺少）LSP 服务器.
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - 轻松安装 50 多个 LSP 服务器 - 完全支持 Windows.
 
 ### Completion
@@ -97,27 +97,27 @@ Neovim 支持多种 UI.
 - [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - 集成 AI 代码辅助的框架.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)  - 用 Lua 编写的 Neovim 补全插件.  nvim-compe 的新版本.
   - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - Neovim 内置 LSP 客户端的 nvim-cmp 源.
-  - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - A nvim-cmp source for luasnip completion.
+  - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - 用于 luasnip 完成的 nvim-cmp 源.
   - [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips) - UltiSnips 的 nvim-cmp 源.
   - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - 文件系统路径的 nvim-cmp 源.
   - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - Git 的 nvim-cmp 源.
   - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - 缓冲区字的 nvim-cmp 源.
   - [tzachar/cmp-tabnine](https://github.com/tzachar/cmp-tabnine) - TabNine 的 nvim-cmp 源.
   - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - Neovim Lua API 的 nvim-cmp 源.
-  - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - Ripgrep 的 nvim-cmp 源。
+  - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - Ripgrep 的 nvim-cmp 源.
   - [f3fora/cmp-spell](https://github.com/f3fora/cmp-spell) - vim 的拼写建议的 nvim-cmp 源.
   - [andersevenrud/compe-tmux](https://github.com/andersevenrud/compe-tmux) - Tmux 的 nvim-cmp 源.
   - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - NPM 的 nvim-cmp 源.
   - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - 用于更好排序的 nvim-cmp 功能.
   <!--lint ignore double-link-->
-- [mini.completion](https://github.com/echasnovski/mini.nvim#minicompletion) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于异步两阶段完成. 支持显示完成项信息和独立函数签名.
+- [mini.completion](https://github.com/echasnovski/mini.nvim#minicompletion) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于异步两阶段完成. 支持显示完成项信息和独立函数签名.
 
 ### Markdown
 
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - 使用发光的 Markdown 预览.
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) - 通过 Neovim 的作业控制 API 使用 pandoc 和实时服务器在浏览器中进行 Markdown 预览.
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) - 利用 yaml 块轻松进行 pandoc 转换.
-- [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) - Press enter to follow internal markdown links.
+- [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) - 按回车键跟随内部降价链接.
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Markdown 笔记本导航（跟随内部和外部 Markdown 链接，创建链接，跳转到链接等）
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) - 一个 Neovim 插件，用于评估 Markdown 文档中的代码块.
 - [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) - 使用 Treesitter 将 Markdown 转换为 vimdoc 的 Neovim 插件.
@@ -130,7 +130,7 @@ Neovim 支持多种 UI.
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - 位置和语法感知文本对象，_做你的意思_.
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - 用 Lua 编写的 Neovim 环绕文本对象插件.
 <!--lint ignore double-link-->
-- [mini.surround](https://github.com/echasnovski/mini.nvim#minisurround) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于处理文本环境（添加、删除、替换、查找、突出显示）. 完全支持点重复.
+- [mini.surround](https://github.com/echasnovski/mini.nvim#minisurround) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于处理文本环境（添加、删除、替换、查找、突出显示）. 完全支持点重复.
 
 ### Terminal integration
 
@@ -169,14 +169,14 @@ Neovim 支持多种 UI.
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf)  - 在`Neovim` (&gt;= 0.5) 中使用 fzf 的 Lua API. 允许 UI 速度和可用性的完全异步.
 - [amirrezaask/fuzzy.nvim](https://github.com/amirrezaask/fuzzy.nvim) - Fuzzy.nvim 提供了一个简单的机制和管道来在 Neovim 中创建模糊匹配.
 - [camspiers/snap](https://github.com/camspiers/snap)  - 一个可扩展的模糊查找器. 类似于 Telescope，并针对性能进行了优化，尤其是在大型代码库中进行 grep 时.
-- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)  - `fzf.vim` 的 Lua 版本，高性能和完全异步，支持 `nvim-web-devicons`、git 指标、LSP、quickfix/位置列表等. 还支持 [`skim`](https://github.com/lotabout/skim) as its fzf binary.
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)  - `fzf.vim` 的 Lua 版本，高性能和完全异步，支持 `nvim-web-devicons`、git 指标、LSP、quickfix/位置列表等. 还支持 [`skim`](https://github.com/lotabout/skim) 作为其 fzf 二进制文件.
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) - 望远镜集成 [zoxide](https://github.com/ajeetdsouza/zoxide)，一个跟踪您使用情况的智能目录选择器.
 <!--lint ignore double-link-->
-- [mini.fuzzy](https://github.com/echasnovski/mini.nvim#minifuzzy) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 具有执行一个字符串与其他字符串的模糊匹配以及快速望远镜分类器的功能.
+- [mini.fuzzy](https://github.com/echasnovski/mini.nvim#minifuzzy) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 具有执行一个字符串与其他字符串的模糊匹配以及快速望远镜分类器的功能.
 
 ### Note Taking
 
-- [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Note taking plugin for neuron that integrates with telescope.nvim.
+- [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - 记录与望远镜.nvim 集成的神经元插件.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - 在 Neovim 中记录您的科学笔记.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)  - 现代性遇到疯狂的可扩展性. 在 Neovim 中组织您的生活的未来.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - 用 Lua 为 Neovim 0.5+ 编写的 Orgmode 克隆.
@@ -199,13 +199,13 @@ Neovim 支持多种 UI.
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - 将 Neovim 主题定义为 Lua 中的 DSL，具有实时反馈.
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - 对开发人员来说逻辑“精简”的配色方案模板.
 <!--lint ignore double-link-->
-- [mini.base16](https://github.com/echasnovski/mini.nvim#minibase16) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 为手动提供的调色板快速实现 base16 主题.
+- [mini.base16](https://github.com/echasnovski/mini.nvim#minibase16) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 为手动提供的调色板快速实现 base16 主题.
 
 ### Colorscheme
 
 #### Tree-sitter Supported Colorscheme
 
-Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your code into a tree that works, even with errors in your syntax. These colorschemes have specifically set colors for Tree-sitter highlight groups. Vim colorschemes will work with the new groups out of the box.
+ Tree-sitter 是 Neovim 0.5 中的一个新系统，它可以增量地将您的代码解析为一个有效的树，即使您的语法有错误. 这些配色方案专门为 Tree-sitter 高光组设置了颜色.  Vim 颜色方案将与开箱即用的新组一起使用.
 
 - [shaeinst/roshnivim-cs](https://github.com/shaeinst/roshnivim-cs) - 用 Lua 编写的 Neovim 配色方案，专为具有 Tree-sitter 支持的 roshnivim 制作.
 - [rafamadriz/neon](https://github.com/rafamadriz/neon)  - 可定制的配色方案，具有出色的斜体和粗体支持、深色和浅色变体. 与 Tree-sitter 一起工作并看起来不错.
@@ -215,18 +215,18 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [bluz71/vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors) - Nightfly 是一种深色 GUI 配色方案，其灵感源自 Sarah Drasner 的 Night Owl 主题.
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - Moonfly 是一种深色配色方案，支持 Tree-sitter.
 - [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode、onedark、nord colorchemes 与 Tree-sitter 支持.
-- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 用 Lua 编写的干净、深色和浅色的 Neovim 主题，支持 LSP、Tree-sitter 和许多插件.
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - 基于 Monokai Pro 的高对比度和鲜艳配色方案.
-- [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - A dark color scheme for Neovim derived from palenight and carbonight.
+- [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - Neovim 的深色配色方案源自 Palenight 和 carbonight.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Neovim 的下一个海洋主题.
-- [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+- [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - 支持 Tree-sitter 的深色配色方案.
 - [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - Neovim 的配色方案，手动支持 LSP、Tree-sitter.
 - [jim-at-jibba/ariake-vim-colors](https://github.com/jim-at-jibba/ariake-vim-colors)  - 伟大的原子主题的端口. 有树保姆支持的黑暗和光明.
 - [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy) - 光暗原子一个主题.
 - [RishabhRD/nvim-rdark](https://github.com/RishabhRD/nvim-rdark) - 用 Lua 编写的 Neovim 深色配色方案.
 - [ishan9299/modus-theme-vim](https://github.com/ishan9299/modus-theme-vim) - 这是 Protesilaos Stavrou 为 emacs 开发的配色方案.
 - [sainnhe/edge](https://github.com/sainnhe/edge) - 灵感来自 Atom One 和 Material 的干净优雅的配色方案.
-- [theniceboy/nvim\-deus](https://github.com/theniceboy/nvim-deus) - Vim-deus with Tree-sitter support.
+- [theniceboy/nvim\-deus](https://github.com/theniceboy/nvim-deus) - 支持 Tree-sitter 的 Vim-deus.
 - [bkegley/gloombuddy](https://github.com/bkegley/gloombuddy) - Neovim 的 Gloom 主题.
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Atom One 启发了 Neovim 的深色和浅色配色方案.
 - [PHSix/nvim-hybrid](https://github.com/PHSix/nvim-hybrid) - 用 Lua 编写的 Neovim 配色方案.
@@ -243,7 +243,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - 基于 Nord 调色板的 Neovim 主题.
 - [MordechaiHadad/nvim-papadark](https://github.com/MordechaiHadad/nvim-papadark) - 我自己的 Neovim 配色方案.
 - [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) - 用于 Neovim 0.5 的 Lua 中的日晒配色方案.
-- [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for NeoVim, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
+- [shaunsingh/moonlight.nvim](https://github.com/shaunsingh/moonlight.nvim) - VSCode 的 NeoVim 月光配色方案的端口，用 Lua 编写，内置支持原生 LSP、Tree-sitter 和更多插件.
 - [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - 基于 Atom 的 One Dark 主题，用 Lua 编写的 Neovim 0.5 的 One Dark 主题.
 - [lourenci/github-colors](https://github.com/lourenci/github-colors) - 利用 Tree-sitter 获得 100% 准确度的 GitHub 颜色.
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox 修改具有更柔和的对比度和 Tree-sitter 支持.
@@ -256,7 +256,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)  - 一个用 Lua 编写的 Neovim、kitty、alacritty 的 GitHub 主题. 支持内置 LSP 和 Tree-sitter.
 - [kdheepak/monochrome.nvim](https://github.com/kdheepak/monochrome.nvim) - 16 位单色配色方案，使用 hsluv 实现感知上不同的灰色，并支持 Tree-sitter 和其他常用插件.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - 全天然松木、人造毛皮和优雅极简主义者的一点苏荷氛围.
-- [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - A collection of vim/neovim colorschemes designed to highlight code using contrasts and font variations.
+- [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - vim/neovim 配色方案的集合，旨在使用对比度和字体变化突出显示代码.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim)  - 温暖的中调深色主题，炫耀充满活力的自我！ 支持原生 LSP、Tree-sitter 等！
 - [FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim) - Neovim 的深色但充满活力的配色方案.
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 柔和的深色、完全可定制的 Neovim 主题，支持 lsp、treesitter 和各种插件.
@@ -274,7 +274,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 这些配色方案可能不是直接专门用于 Tree-sitter 的，而是用 Lua 编写的.
 
-- [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
+- [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - 我的盒子颜色.
 - [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox 社区配色方案 Lua 端口.
 - [metalelf0/jellybeans-nvim](https://github.com/metalelf0/jellybeans-nvim) - Neovim 的 jellybeans 配色方案端口.
 
@@ -282,7 +282,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - 在不丢失窗口布局的情况下删除 Neovim 缓冲区.
 <!--lint ignore double-link-->
-- [mini.bufremove](https://github.com/echasnovski/mini.nvim#minibufremove) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于在保存窗口布局时删除缓冲区（取消显示、删除、擦除）.
+- [mini.bufremove](https://github.com/echasnovski/mini.nvim#minibufremove) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于在保存窗口布局时删除缓冲区（取消显示、删除、擦除）.
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - 保存文件时自动创建丢失的目录.
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - 漂亮且最小的缓冲区切换器窗口.
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) - 酸 + 即兴 = 爵士.
@@ -291,7 +291,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [Pocco81/AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) - 用于管理 vim 缩写的 NeoVim 插件.
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - 根据不同情况删除多个vim缓冲区.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - 将选择或缓冲区发布到在线粘贴箱.
-- [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
+- [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - 创建快捷方式以逃避插入模式而不会延迟.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim.
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) - 在 Neovim 的行尾切换任何字符.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - 改进内置的`vim.ui` 接口与望远镜、fzf 等.
@@ -303,9 +303,9 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 ### Debugging
 
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim.
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Neovim 的调试适配器协议客户端实现.
 - [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) - GDB、LLDB、PDB/PDB++ 和 BashDB 的薄包装.
-- [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap.
+- [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - 用户界面是 nvim-dap.
 - [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - 一个 NeoVim 插件，用于管理 Nvim-dap 的多个调试器.
 
 ### Spellcheck
@@ -323,15 +323,15 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) - 单个文件，无依赖性，轻松复制和粘贴日志文件以添加到您的 Neovim Lua 插件中.
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for Neovim Lua plugins. The `:Luadev` command will open an scratch window which will show output from executing Lua code.
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind)  - Neovim Lua 语言的适配器. 它允许您调试在 Neovim 实例（可以调试 Neovim Lua 插件的 Lua 插件）中运行的任何 Lua 代码.
-- [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - Lua 和 Neovim 的 SQLite/LuaJIT 绑定.
-- [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - init.Lua 和插件开发的开发设置，以及 Neovim Lua API 的完整签名帮助、文档和完成.
+- [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for Lua and Neovim.
+- [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) - init.Lua 的开发设置和插件开发，以及 Neovim Lua API 的完整签名帮助、文档和完成.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - Neovim 的 UI 组件库.
 - [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) - 设置测试基础设施和 GitHub 操作的插件模板.
 
 ### Fennel
 
-- [Olical/aniseed](https://github.com/Olical/aniseed) - Configure and extend Neovim with Fennel (Lisp to Lua).
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
+- [Olical/aniseed](https://github.com/Olical/aniseed) - 使用 Fennel（Lisp 到 Lua）配置和扩展 Neovim.
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Neovim 内部无缝、透明的茴香.
 
 ### Tabline
 
@@ -339,11 +339,11 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - 使用 Lua 构建的 Neovim 的时髦缓冲线.
 - [crispgm/nvim-tabline](https://github.com/crispgm/nvim-tabline) - 带有 Lua 的 tabline.vim 的 Neovim 端口.
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - 一个用 Lua 编写的简单表格.
-- [johann2357/nvim-smartbufs](https://github.com/johann2357/nvim-smartbufs) - Smart buffer management in Neovim.
+- [johann2357/nvim-smartbufs](https://github.com/johann2357/nvim-smartbufs) - Neovim 中的智能缓冲区管理.
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - “缓冲区和标签”标签.
 - [noib3/cokeline.nvim](https://github.com/noib3/cokeline.nvim) - 适合有成瘾性格的人的 Neovim 缓冲线.
 <!--lint ignore double-link-->
-- [mini.tabline](https://github.com/echasnovski/mini.nvim#minitabline) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 对于最小的tabline，在一个选项卡的情况下显示列出的缓冲区，否则回退到默认值.
+- [mini.tabline](https://github.com/echasnovski/mini.nvim#minitabline) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 对于最小的tabline，在一个选项卡的情况下显示列出的缓冲区，否则回退到默认值.
 - [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) - 用户友好的框架，只需几行代码即可构建您梦想中的标签.
 
 ### Statusline
@@ -352,34 +352,34 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - 支持协同程序、函数和作业.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - 快速且易于配置的 Neovim 状态栏.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - 使用 Lua 的 Neovim 状态栏/标签栏插件.
-- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline)  - 状态线/缓冲线. 它的灵感来自 [vim-airline](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
+- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline)  - 状态线/缓冲线. 它的灵感来自 [vim-airline](https://github.com/vim-airline/vim-airline) 但旨在尽可能轻巧和简单.
 - [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) - Neovim 的气泡状态行.
-- [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline for Neovim written in Lua featuring awesome integrations and blazing speed!
+- [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - 用 Lua 编写的 Neovim 的零配置最小状态行，具有出色的集成和极快的速度！
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim)  - Lua 中 Neovim 的现代轻量级状态栏. 主要使用 unicode 符号来显示信息.
 - [Famiu/feline.nvim](https://github.com/Famiu/feline.nvim) - 用 Lua 编写的 Neovim 的简约、时尚和可定制的状态栏.
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - The next generation statusline for Neovim. Animation statusline.
 - [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim) - 受航空公司启发的星系线配置.
 <!--lint ignore double-link-->
-- [mini.statusline](https://github.com/echasnovski/mini.nvim#ministatusline) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于最小和快速状态行. 支持根据窗口宽度更改内容.
+- [mini.statusline](https://github.com/echasnovski/mini.nvim#ministatusline) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于最小和快速状态行. 支持根据窗口宽度更改内容.
 
 ### Statusline component
 
-- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside.
+- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - 简单的状态栏组件，显示您在内部工作的范围.
 
 ### Cursorline
 
-- [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) - Neovim 插件，突出显示光标词和行.
+- [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) - Neovim 的插件，可突出显示光标词和行.
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword)  - nvim-cursorline 的一部分. 突出显示光标下的单词.
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)  - 突出显示光标下的单词.  Neovim的内置LSP可用，可以更智能地突出显示.
 <!--lint ignore double-link-->
-- [mini.cursorword](https://github.com/echasnovski/mini.nvim#minicursorword) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于自动突出显示光标下的单词（在可自定义的延迟后显示）.
+- [mini.cursorword](https://github.com/echasnovski/mini.nvim#minicursorword) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于自动突出显示光标下的单词（在可自定义的延迟后显示）.
 
 ### Startup
 
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - Neovim 的简约仪表板，灵感来自 doom-emacs.
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - 快速且高度可定制的迎宾员，如 [vim-startify](https://github.com/mhinz/vim-startify)/dashboard-nvim 用于 Neovim.
 <!--lint ignore double-link-->
-- [mini.starter](https://github.com/echasnovski/mini.nvim#ministarter) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for start screen. Displayed items are fully customizable, item selection can be done using prefix query with instant visual feedback.
+- [mini.starter](https://github.com/echasnovski/mini.nvim#ministarter) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 对于开始屏幕. 显示的项目是完全可定制的，项目选择可以使用带有即时视觉反馈的前缀查询来完成.
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) - 显示 Neovim 启动时间.
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) - 完全可定制的 Neovim 迎宾器.
 
@@ -393,7 +393,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - Vim-be-good 是一个 Neovim 插件，旨在让您在 Vim 运动方面做得更好.
 - [ThePrimeagen/vim-apm](https://github.com/ThePrimeagen/vim-apm) - Vim APM，每分钟操作数，是自 vim-slicedbread 以来最伟大的插件.
 - [alec-gibson/nvim-tetris](https://github.com/alec-gibson/nvim-tetris) - 为 Neovim 带来 emacs 最大的功能——俄罗斯方块！
-- [seandewar/nvimesweeper](https://github.com/seandewar/nvimesweeper) - Play Minesweeper in your favourite text editor.
+- [seandewar/nvimesweeper](https://github.com/seandewar/nvimesweeper) - 在您最喜欢的文本编辑器中玩扫雷.
 
 ### File explorer
 
@@ -418,7 +418,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - Neovim 的 Magit 克隆，可能会改变一些东西以适应 Vim 哲学.
 - [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) - 一个小插件，使用 Neovims 虚拟文本在当前行的末尾打印 git blame 信息.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)  - 为多个 git 主机生成可共享的文件永久链接. 灵感来自 tpope/vim-fugitive 的 :GBrowse.
-- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin for Neovim to enhance your git experience.
+- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - 用于 Neovim 的可视化 Git 插件，以增强您的 git 体验.
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - 单标签页界面，可轻松循环浏览任何 git rev 的所有修改文件的差异.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - 用于从 Neovim 中调用 lazygit 的插件.
 
@@ -439,12 +439,12 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [glepnir/prodoc.nvim](https://github.com/glepnir/prodoc.nvim) - 评论和支持生成注释.
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - 用 Lua 编写的快速轻便的评论插件.
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - 在您的项目中突出显示、列出和搜索待办事项评论.
-- [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) - Toggle comments in Neovim using the built-in commentstring option.
+- [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) - 使用内置的注释字符串选项在 Neovim 中切换注释.
 - [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim) - 支持计数和多种评论模式等的评论插件.
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - 添加基于源文件的评论框.
 - [danymat/neogen](https://github.com/danymat/neogen)  - 更好的注释生成器. 支持多种语言和注释约定.
 <!--lint ignore double-link-->
-- [mini.comment](https://github.com/echasnovski/mini.nvim#minicomment) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于每行注释. 完全支持点重复.
+- [mini.comment](https://github.com/echasnovski/mini.nvim#minicomment) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于每行注释. 完全支持点重复.
 
 ### Collaborative Editing
 
@@ -452,7 +452,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 ### Quickfix
 
-- [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - The goal of nvim-bqf is to make Neovim's quickfix window better.
+- [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - nvim-bqf 的目标是让 Neovim 的 quickfix 窗口更好.
 - [gitlab.com/yorickpeterse/nvim-pqf](https://gitlab.com/yorickpeterse/nvim-pqf) - 更漂亮的 Neovim 快速修复/位置列表窗口.
 - [stevearc/qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim) - Neovim quickfix 的一系列改进.
 
@@ -462,7 +462,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Hop 是一个类似于 EasyMotion 的插件，允许您以尽可能少的击键次数跳转到文档中的任何位置.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 一个类似 Sneak 的插件，通过提前显示的标签提供无与伦比的导航速度，消除了输入搜索模式和选择目标之间的停顿.
 <!--lint ignore double-link-->
-- [mini.jump](https://github.com/echasnovski/mini.nvim#minijump) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 更智能地跳转到单个字符.
+- [mini.jump](https://github.com/echasnovski/mini.nvim#minijump) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 更智能地跳转到单个字符.
 - [mfussenegger/nvim-ts-hint-textobject](https://github.com/mfussenegger/nvim-ts-hint-textobject) - 区域选择，在由 treeitter 提供支持的文档的 AST 节点上提供提示.
 
 ### Code Runner
@@ -470,7 +470,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) - 直接从 Neovim 运行任何语言的部分代码.
 - [pianocomposer321/yabs.nvim](https://github.com/pianocomposer321/yabs.nvim) - 另一个用 Lua 编写的 Neovim 构建系统.
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - 您可以拥有的最好的代码运行器，具有超能力.
-- [is0n/jaq-nvim](https://github.com/is0n/jaq-nvim) - Just Another Quickrun Plugin for Neovim in Lua.
+- [is0n/jaq-nvim](https://github.com/is0n/jaq-nvim) - Lua 中 Neovim 的另一个 Quickrun 插件.
 
 ### GitHub
 
@@ -493,7 +493,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 ### Mouse
 
-- [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for Neovim.
+- [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Neovim 的鼠标手势插件.
 
 ### Project
 
@@ -504,7 +504,7 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 ### Browser integration
 
-- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim right into your browser, no questions asked.
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - 将 Neovim 直接嵌入您的浏览器，无需提问.
 
 ### Editing support
 
@@ -512,12 +512,12 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - Lua 为 Neovim 编写的极简自动配对.
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) - Neovim 的自动配对插件.
 <!--lint ignore double-link-->
-- [mini.pairs](https://github.com/echasnovski/mini.nvim#minipairs) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于具有最少默认值和功能来执行每个键映射的自动配对.
+- [mini.pairs](https://github.com/echasnovski/mini.nvim#minipairs) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于具有最少默认值和功能来执行每个键映射的自动配对.
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - 扩展增量/减量.
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow :rainbow: 使用 tree-sitter :rainbow: 的 Neovim 括号.
 - [AckslD/nvim-revJ.lua](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua 插件，用于对参数执行与连接线 (J) 相反的操作.
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 一个快速、轻量级的 Neovim Lua 插件，可以密切关注光标的跳跃位置.
-- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - A Neovim plugin for setting the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
+- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)  - 一个 Neovim 插件，用于根据文件中的光标位置设置 `commentstring` 选项. 该位置是通过 treeitter 查询检查的.
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) - 干净优雅的 NeoVim 无干扰写作.
 - [Pocco81/HighStr.nvim](https://github.com/Pocco81/HighStr.nvim) - 一个 NeoVim 插件，用于像在普通文档编辑器中一样突出显示视觉选择！
 - [Pocco81/AutoSave.nvim](https://github.com/Pocco81/AutoSave.nvim) - 一个 NeoVim 插件，用于在世界崩溃或您输入 :qa 之前保存您的工作！
@@ -528,11 +528,11 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - 以不显眼的方式查看线条.
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - 跳出括号、引号、对象等.
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - 在上次编辑位置重新打开文件.
-- [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
+- [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - 将表达式扩展并重复到多行.
 - [h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim) - 分别为每个缓冲区切换和恢复 fcitx 状态.
 - [McAuleyPenney/tidy.nvim](https://github.com/McAuleyPenney/tidy.nvim) - 每次保存时清除文件末尾的尾随空格和空行.
 <!--lint ignore double-link-->
-- [mini.trailspace](https://github.com/echasnovski/mini.nvim#minitrailspace) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于自动突出显示尾随空格，并具有删除它的功能.
+- [mini.trailspace](https://github.com/echasnovski/mini.nvim#minitrailspace) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于自动突出显示尾随空格，并具有删除它的功能.
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - 类似 VS Code 的 Neovim 重命名 UI，用 Lua 编写.
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - 添加与“删除”分开的“剪切”操作的插件.
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim 插件引入了新的操作员动作以快速替换文本.
@@ -566,9 +566,9 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 ### Session
 
-- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim.
+- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - Neovim 的小型自动会话管理器.
 <!--lint ignore double-link-->
-- [mini.sessions](https://github.com/echasnovski/mini.nvim#minisessions) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于会话管理（读、写、删除）.
+- [mini.sessions](https://github.com/echasnovski/mini.nvim#minisessions) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于会话管理（读、写、删除）.
 
 ### Test
 
@@ -578,10 +578,10 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 ### Preconfigured Configuration
 
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim 是用于 Web 开发的轻量级和自以为是的 Neovim 配置，专门设计用于提供 COSMIC 编程体验！
-- [artart222/CodeArt](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
+- [artart222/CodeArt](https://github.com/artart222/CodeArt) - 一个完全用 Lua 编写的快速通用 IDE，带有适用于 Linux/Windows/macOS 的安装程序，并内置了用于更新它的 `:CodeArtUpdate` 命令.
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - doom-emacs 框架的移植，其目标是为 Neovim 添加有用的功能，以便在稳定高效的开发环境中开始工作，而无需花费大量时间配置一切.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim 自定义配置，面向全栈开发人员（rails、ruby、php、html、css、SCSS、JavaScript）.
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
+- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - 该项目旨在帮助人们从 VSCode 过渡到卓越的文本编辑体验.
 - [hackorum/VapourNvim](https://github.com/hackorum/VapourNvim) - 用于类似 vim IDE 的终极体验的 NeoVim 配置.
 - [vi-tality/neovitality](https://github.com/vi-tality/neovitality) - 功能齐全的 NeoVim 发行版，与 Nix Flake 打包在一起，易于安装和重现.
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - 尝试使 Neovim cli 与 IDE 一样具有功能性，同时非常美观且不那么臃肿.
@@ -593,10 +593,11 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 ### Keybinding
 
 - [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) - 包装 vim-which-key 的插件以简化 Lua 中的设置.
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim plugin that shows a popup with possible keybindings of the command you started typing.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件，显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的`:map`ping 语法.
-- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A simpler key mapping API that mimics Neovim's `:map`-family of commands. Integrates with which-key.nvim.
-- [LionC/nest.nvim](https://github.com/LionC/nest.nvim) - Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
+- [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的`:map`-系列命令. 与 which-key.nvim 集成.
+- [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序，可使用级联树简明地映射键. 还允许将 Lua 函数绑定到键.
+- [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Lua 插件来创建键绑定并用望远镜观察它们.
 
 ### Tmux
 
@@ -607,16 +608,16 @@ Tree-sitter is a new system coming in Neovim 0.5 that incrementally parses your 
 
 ### Remote Development
 
-- [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
+- [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 在舒适的本地环境中，在远程机器上编辑文件、运行程序和使用 LSP.
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - 在 docker 容器内开发，就像 VSCode 一样.
 
 ### Split and Window
 
-- [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) - A zen mode for improving code readability on Neovim.
+- [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) - 一种用于提高 Neovim 代码可读性的禅宗模式.
 - [gitlab.com/yorickpeterse/nvim-window](https://gitlab.com/yorickpeterse/nvim-window) - 在 Neovim 窗口之间轻松跳转.
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - 轻松重新布置您的窗户.
-- [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua! Vim splits on steroids.
-- [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Stabilized window content on window open/close events.
+- [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim)  - 用 Lua 编写的 Neovim 的自动聚焦和自动调整分割/窗口大小！  Vim 在类固醇上分裂.
+- [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - 稳定窗口打开/关闭事件的窗口内容.
 
 ## External
 

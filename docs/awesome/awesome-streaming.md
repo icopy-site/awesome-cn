@@ -40,6 +40,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [LightSaber](https://github.com/lsds/LightSaber)  [C++] - 基于窗口的多核流处理引擎.  LightSaber 使用代码生成来实现高效的窗口聚合.
 - [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - 为物联网数据存储和实时处理而构建的流数据库.
 - [Kuiper](https://github.com/emqx/kuiper) [Golang] - 由 Golang 实现的边缘轻量级物联网数据分析/流媒体软件，可以在各种资源受限的边缘设备上运行.
+- [WindFlow](https://paragroup.github.io/WindFlow) [C++] - 用于多核和 GPU 的 C++17 数据流处理并行库
 
 ### Streaming Library
 
@@ -109,7 +110,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C] - 一个开源关系数据库，它在流上连续运行 SQL 查询，以增量方式将结果存储在表中.
 - [squall](https://github.com/epfldata/squall) [Java] - Squall 在 Storm 之上执行 SQL 查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java] - 实时计算系统上的连续查询语言.
-- [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 一个云原生的，源代码可用 [database](https://ksqldb.io/) 专为流处理应用程序构建
+- [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 云原生、源代码可用 [database](https://ksqldb.io/) 专为流处理应用程序构建
 - [Materialize](https://materialize.com) [Rust] - 一个源可用的流式 SQL 引擎，用于维护来自消息代理和数据库的数据的物化视图.
 - [Siddhi](https://github.com/siddhi-io/siddhi) [Java] - 云原生流和复杂事件处理引擎，了解流 SQL 查询，以便从不同数据源捕获事件、处理它们、检测复杂条件并将输出实时发布到各种端点.
 
