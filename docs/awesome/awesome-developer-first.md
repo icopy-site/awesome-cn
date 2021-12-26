@@ -23,7 +23,7 @@
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
-* [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
+* [Heap](https://heap.io/) - 适用于 Web 和移动设备的产品分析 API，可捕获所有事件. 
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型网络分析.
 
 ## Authentication & Identity
@@ -196,6 +196,7 @@
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
 * [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
 * [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.
+* [typesense cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
 
 ## Shipping
 *创建和处理货物装运.*
