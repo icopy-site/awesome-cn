@@ -82,6 +82,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 ### Free Online Courses
 
 + [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ar.md)
++ [Bengali / বাংলা](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-bn.md)
 + [Bulgarian / български](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-bg.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fi.md)

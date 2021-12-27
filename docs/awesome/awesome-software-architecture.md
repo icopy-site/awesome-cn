@@ -10,7 +10,11 @@
   
 [Software architecture](https://en.wikipedia.org/wiki/Software_architecture) 旨在描述高水平 
 软件的结构以及创建它们的学科. 由于这个话题相当广泛，它可能 
-包含一些资源，这些资源也出现在更多利基列表中. 
+包含一些资源，这些资源也出现在更多的利基列表中. 
+
+<i>
+  如果您喜欢此列表，请考虑通过在 Twitter 上关注<a href="https://twitter.com/0x12b/">@0x12b</a>来表达您的支持. 
+</i>
   
 </div>
 
@@ -22,7 +26,7 @@
 ## Design Patterns
 - [Ports and adapters pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) - 将应用程序核心逻辑与其使用的服务分离.
 - [Observer pattern](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2) - 一对多状态变化通知.
-- [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - 开始这一切的那个:orange_book:.
+- [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - 开始这一切的那个：orange_book:.
 - [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) - 常见软件设计模式介绍.
 - [Software Design Patterns and Principes (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) - 关于常见设计模式的原因以及它们的优点和缺点.
 - [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - 使用单独的接口将读取数据的操作与更新数据的操作分开.
@@ -41,7 +45,7 @@
 - [No silver bullet, by Brooks](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - 为小幅增长的软件提供案例：orange_book:.
 - [Clean Architecture, by Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - 构建可持续和可维护软件的关键原则和概念：orange_book:.
 - [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) - 累积技术债务的成本和影响.
-- [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - 将简约理念作为一种实用且务实的软件测试方法.
+- [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - 将简约的理想作为一种实用且务实的软件测试方法.
 - [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) - 关于 TDD 实践和边界的建议，以减少耦合.
 
 ## Documentation
@@ -68,12 +72,12 @@
 ## Tools
 
 - [Sparx Systems Enterprise Architect](https://sparxsystems.com/products/ea/index.html)  - 面向对象的建模套件. 仅适用于 Windows.
-- [Visual Paradigm](https://www.visual-paradigm.com/)  - 类似于企业架构师. 可用于多个平台.
+- [Visual Paradigm](https://www.visual-paradigm.com/)  - 类似于企业架构师. 适用于多个平台.
 - [Lucidchart](https://www.lucidchart.com)  - 付费的基于云的图表编辑器. 可在所有常见平台上使用.
 - [Draw.io](https://www.draw.io)  - 免费和简单的图表编辑器. 与 Visio 等类似. 可在所有常见平台上使用.
 - [Structurizr](https://structurizr.com) - 基于 C4 模型的建模工具（见上文）.
 - [PlantUML](http://plantuml.com/) - 与图表的降价一样，PlantUML 将类似英语的语法呈现为图表.
-- [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - 在 Atlassian 套件中添加了对基于 PlantUML 的图表的支持.
+- [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
 - [Sketchboard.io](https://sketchboard.io/) - 协作画板.
 
 ## Frameworks
@@ -98,8 +102,8 @@
 ### DevOps
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - 结合软件开发和运营实践，在保持高质量的同时缩短上市时间.
-- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - IT、DevOps 并帮助您的业务获胜 :orange_book:.
-- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) - Developers, Digital Disruption and Thriving in the Age of Data :orange_book:.
+- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - IT、Devops 并帮助您的业务获胜 :orange_book:.
+- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) - 数据时代的开发人员、数字颠覆和繁荣：orange_book:.
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - BPDTS 如何使用 CALMS 模型作为其 DevOps 适应的参考. 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - 混沌工程是软件工程中的一门新学科，可建立对大规模分布式系统行为的信心. 
 - [Adidas DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework) - 基于 DevOps 的 CALMS 定义，该框架定义了一组功能和指南，当采用这些功能和指南时，可以提高团队的效率、有效性和幸福感.

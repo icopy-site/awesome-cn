@@ -41,7 +41,7 @@
 #### Hash functions
 
 - [MD5](https://en.wikipedia.org/wiki/MD5)  - 广泛使用的散列函数产生 128 位散列值.  MD5 最初设计用作加密哈希函数，但已发现它存在大量漏洞. 它仍然可以用作校验和来验证数据完整性，但只能用于防止意外损坏.
-- [SHA1](https://en.wikipedia.org/wiki/SHA-1) -  Cryptographic hash function designed by the NSA. SHA-1 produces a 160-bit hash value known as a message digest. SHA-1 is no longer considered secure against well-funded opponents.
+- [SHA1](https://en.wikipedia.org/wiki/SHA-1)  - 由 NSA 设计的加密哈希函数.  SHA-1 产生一个 160 位的哈希值，称为消息摘要.  SHA-1 不再被视为对抗资金充足的对手的安全性.
 - [SHA2](https://en.wikipedia.org/wiki/SHA-2)  - 由 NSA 设计的一组散列函数.  SHA-256 和 SHA-512 是分别用 32 位和 64 位字计算的新颖散列函数. 它们使用不同的移位量和附加常数，但它们的结构实际上是相同的，仅在轮数上有所不同.
 
 ### Articles
@@ -75,7 +75,7 @@
 - [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  - 本课程解释了密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性以及如何将这些知识应用到实际应用中.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
-- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 本在线课程将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
+- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 在本在线课程中，我们将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
 - [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - 密码学的入门但快节奏的本科/研究生课程，用于哈佛 CS 127.
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - 可汗学院的密码学课程.
 - [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - 现代密码学的实践方面，2006 年冬季华盛顿大学 CSE.
@@ -119,25 +119,27 @@
 
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - 标准密码算法的基本实现，如 AES 和 SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - 作为 GnuPG 的独立模块开发的加密库.
+- [libkcapi](https://github.com/smuellerDD/libkcapi) - Linux 内核加密 API 用户空间接口库.
 - [libsodium](https://github.com/jedisct1/libsodium) - 现代且易于使用的加密库.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - 相当全面、模块化和便携的加密工具包.
 - [libVES.c](https://github.com/vesvault/libVES.c) - 通过云存储库端到端加密共享，在密钥丢失的情况下通过病毒式朋友网络安全恢复.
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)  - 小型、自包含且快速的开源加密库. 它支持 RSA、ECDH、ECIES、ECDSA、AES-GCM、SHA2、SHA3 和 Pairing-Based Cryptography.
 - [monocypher](https://monocypher.org) - 受 libsodium 和 TweetNaCl 启发的小型、便携、易于使用的加密库.
 - [NaCl](https://nacl.cr.yp.to/) - 用于网络通信、加密、解密、签名等的高速库.
+- [nettle](https://github.com/gnutls/nettle) - 是一个加密库，旨在或多或少地适合任何上下文：在面向对象语言（C++、Python、Pike 等）的加密工具包中，在 LSH 或 GNUPG 等应用程序中，甚至在内核空间中.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL 和加密库.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL 使开发人员可以轻松地在他们的（嵌入式）产品中包含加密和 SSL/TLS 功能，从而以最少的编码空间促进此功能.
 - [RHash](https://github.com/rhash/RHash) - 计算散列和的强大工具.
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - C 中的小型便携式 AES128.
-- [wolfSSL](https://github.com/wolfSSL/wolfssl) - 小型、快速、可移植的 TLS/SSL 实现，用于嵌入式设备到云.
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - 小型、快速、可移植的 TLS/SSL 实现，用于嵌入式设备到云端.
 - [XKCP](https://github.com/XKCP/XKCP) — 是一个存储库，收集由 Keccak 团队定义的加密方案的不同免费和开源实现.
 - [xxHash](https://github.com/Cyan4973/xxHash) - 极快的哈希算法.
 
 ### C++
 
 - [Botan](https://botan.randombit.net/) - 用“C++11”编写的密码学库.
-- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library 是一个免费的 C++ 加密方案类库.
 - [HElib](https://github.com/shaih/HElib) - 实现同态加密 (HE) 的软件库.
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - 低级加密库.
 - [s2n](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
@@ -162,7 +164,7 @@
 
 - [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - 常用密码功能的集合.
 - [ironclad](http://method-combination.net/lisp/ironclad/) - 常见加密快捷方式的集合.
-- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - Common Lisp 的 SSH 客户端库（基于 libssh2）.
+- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
 
 ### Delphi
 
@@ -226,7 +228,7 @@
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript 加密库为 Web 开发人员提供了一组广泛而高效的加密函数.
 - [js-nacl](https://github.com/tonyg/js-nacl) - Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
-- [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [JShashes](https://github.com/h2non/jshashes) - 适用于 Node.js 和浏览器的快速且无依赖的加密哈希库（支持 MD5、SHA1、SHA256、SHA512、RIPEMD、HMAC）.
 - [jsrsasign](https://github.com/kjur/jsrsasign) - &#39;jsrsasign&#39;（RSA 签名 JavaScript 库）是一个开源免费加密库，支持 RSA/RSAPSS/ECDSA/DSA 签名/验证.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium 编译为纯 JavaScript，带有方便的包装器.
@@ -258,7 +260,7 @@
 - [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt 是 OpenBSD Blowfish 密码散列的实现
 algorithm.
 - [Keycloak](https://github.com/keycloak/keycloak) - 现代应用程序和服务的开源身份和访问管理.
-- [keywhiz](https://github.com/square/keywhiz) - 用于分发和管理机密的系统.
+- [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 - [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
 - [Password4j](https://github.com/Password4j/password4j) - 一个 Java 用户友好的加密库，用于使用不同的密钥派生函数 (KDF) 和加密哈希函数 (CHF) 对密码进行散列和检查.
 - [Project Kalium](http://abstractj.github.io/kalium/) - Java 绑定到网络和密码学 (NaCl) 库以及 libsodium 的强大功能.
@@ -337,7 +339,7 @@ algorithm.
 - [rustls](https://github.com/ctz/rustls) - Rustls 是一个用 Rust 编写的新的现代 TLS 库.
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - 氧化钠：Rust 的快速加密库（绑定到 libsodium）.
 - [suruga](https://github.com/klutzy/suruga) - Rust 中的 TLS 1.2 实现.
-- [webpki](https://github.com/briansmith/webpki) - Rust 中的 Web PKI TLS X.509 证书验证.
+- [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Scala
 

@@ -144,7 +144,7 @@
 - [Yagna handbook](https://handbook.golem.network/) - 魔像手册，实现名称，Yagna.
 - [Yagna Python API docs](https://yapapi.readthedocs.io/) - Yapapi 的文档.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - Yagna 的 GitHub 版本.
-- [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - 快速开始并在 Golem 上创建您的第一个任务/请求.
+- [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - 如果您有想要回答的有趣问题，请使用 Yagna 标签.
 - [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - 开发人员可以更好地了解如何使用 JavaScript API 运行任务的 JS 指南.
 
@@ -153,6 +153,7 @@
 - [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - 使用手册开始作为 Golem 网络的提供者.
 - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - 社区策划的常见问题和答案列表.
 - [Yagna-binaries for aarch64](https://github.com/MarijnStevens/yagna-binaries) - 为 64 位 arm 架构构建，以便能够在 Raspberry Pi 等系统上作为提供程序运行.
+- [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - 检查 stats.golem.network 上价格中位数并更新供应商节点上与价格相关的所有 3 个值的脚本.
 
 ### Monitoring
 
@@ -176,7 +177,7 @@
 - [Golem: Architecture, SDKs and tips with Jakub Mazurek at 0xHack](https://youtu.be/1UoZWC9XI2g) - 现场研讨会深入探讨具有 Python 或 JS 编码经验的开发人员如何开始构建在 Golem 上运行的应用程序.
 - [Golem: Growing an ecosystem the Golem way with María Paula Fernández at 0xHack](https://youtu.be/FmrdyU90NVE) - 作为项目的 Golem 的高级概述和介绍.
 - [Golem Workshop at H3LLO Decentralization](https://gist.github.com/zakaprov/5366bffa49b3c116748bf9b5b73c602c) - 包含实时编码黑客马拉松研讨会和相关资源的资源列表，以帮助开发人员了解和请求 Golem.
-- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - Video walk-through of the requestor quick-start handbook guide to get a request on Golem Network testnet and then mainnet using the Yagna Python API.
+- [Mainnet Requestor quickstart Walk-through](https://youtu.be/GcdTq3i_wdY) - 请求者快速入门手册指南的视频演练，用于在 Golem 网络测试网上获取请求，然后使用 Yagna Python API 在主网上获取请求.
 - [Mainnet Provider quickstart Walk-through](https://youtu.be/RITdKtEOV_E) - 提供者手册指南的视频演练，以开始共享 Golem 网络的计算资源.
 
 ### Unraveling Golem's The Next Milestone Blog Series
@@ -192,7 +193,7 @@
 - [Golem GitHub Digest #3](https://blog.golemproject.net/golem-github-digest-3/) - 深入研究 Golem 存储库的拉取请求.
 - [Golem GitHub Digest #4](https://blog.golemproject.net/golem-github-digest-4/) - 深入了解 Golem 存储库中的最新版本.
 - [Golem GitHub Digest #5](https://blog.golemproject.net/golem-github-digest-5/) - 深入 Golem alpha 测试网.
-- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - 新交所 Golem 的概念验证.
+- [Golem GitHub Digest #6](https://blog.golemproject.net/golem-github-digest-6/) - Golem 的 SGX 概念验证.
 - [Golem GitHub Digest #7](https://blog.golemproject.net/golem-github-digest-7/) - Golem 市场的去中心化.
 - [Golem GitHub Digest #8](https://blog.golemproject.net/golem-github-digest-8/) - 很棒的魔像和 Alpha 3 的后续步骤.
 - [Golem GitHub Digest #9](https://blog.golemproject.net/golem-github-digest-9/) - AMD 提供商支持、网络指标和改进的提案处理.
