@@ -46,6 +46,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crt.cr](https://github.com/maiha/crt.cr) - libncursesw 和 crt 的绑定
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - 绑定 [Duktape](https://github.com/svaarala/duktape) javascript引擎
+ * [fftw.cr](https://github.com/firejox/fftw.cr) - 绑定 [FFTW](https://fftw.org/) 图书馆
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - 绑定 [libgphoto2](http://www.gphoto.org/) 图书馆
  * [icu.cr](https://github.com/olbat/icu.cr) - 绑定 [ICU](http://site.icu-project.org/) 图书馆
  * [libnotify.cr](https://github.com/splattael/libnotify.cr) - Libnotify 的绑定
@@ -54,6 +55,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - OpenBSD 的 `pledge(2)` 绑定
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - libssh2 库的绑定
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) -`syslog` 的绑定
+ * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - libxdo 的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
@@ -61,7 +63,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## CLI Builders
  * [admiral](https://github.com/jwaldrip/admiral.cr) - 用于编写命令行界面的强大 DSL
- * [Athena Console](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
+ * [Athena Console](https://github.com/athena-framework/console) - 允许创建基于 CLI 的命令
  * [clicr](https://github.com/j8r/clicr) - 一个简单的声明式命令行界面构建器
  * [clim](https://github.com/at-grandpa/clim) - Slim 命令行界面构建器
  * [commander](https://github.com/mrrooijen/commander) - 命令行界面构建器
@@ -252,7 +254,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Rosetta](https://github.com/wout/rosetta) - 极快的国际化 (i18n) 库，具有支持 YAML 和 JSON 格式的编译时键查找功能
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
+ * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
  * [Log](https://crystal-lang.org/api/Log.html) - 日志实用程序（Crystal stdlib）
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) 客户端库
 
@@ -288,7 +290,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) - 用于构建 Serf 处理程序的框架，具有一套有用​​的内置功能
  * [simple_retry](https://github.com/spider-gazelle/simple_retry) - 用于重试失败代码块的简单工具
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) - 水晶碎片包装 rbsec/sslscan 实用程序
- * [version_tools](https://github.com/anicholson/crystal-version-tools) - 依赖于版本的行为，在编译时指定
+ * [version_tools](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
  * [wafalyzer](https://github.com/NeuraLegion/wafalyzer) - Web 应用程序防火墙 (WAF) 检测器 - 分片 + cli
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - 文件名清理
 
@@ -336,7 +338,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [werk](https://github.com/marghidanu/werk) - 具有并发支持的死简单任务运行器，非常适合本地 CI
 
 ## Project Generators
- * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+ * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - 本地库的自动绑定生成器
  * [fez](https://github.com/jwoertink/fez) - Kemal 应用程序生成器
  * [libgen](https://github.com/olbat/libgen) - 使用 JSON/YAML 文件配置的自动绑定生成器
 

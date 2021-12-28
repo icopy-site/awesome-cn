@@ -111,6 +111,7 @@
   1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
   1. [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication/)
   1. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
+  1. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -384,7 +385,7 @@
   1. [Intellum](https://www.intellum.com/)  - 我们建立员工协作、绩效和学习工具. 红宝石、iOS、Android、AWS、GCS.
   1. [Intevity](https://www.intevity.com/)
   1. [InVision](https://www.invisionapp.com/company#jobs) - 原型设计、协作和工作流平台.
-  1. [iRonin.IT](https://careers.ironin.it) - software house. Polish language. Ruby on Rails, Node.js, JavaScript, React, Angular, Vue.js.
+  1. [iRonin.IT](https://careers.ironin.it)  - 软件屋. 波兰语.  Ruby on Rails、Node.js、JavaScript、React、Angular、Vue.js.
   1. [Isos Technology](https://careers.isostech.com/) - 首要的 Atlassian 白金和企业解决方案合作伙伴，帮助组织使用 Atlassian 工具解决复杂的开发和业务问题.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) - 非营利组织的数字优先技术和战略.
   1. [Jibble Group](http://careers.jibblegroup.com/) - 跨越 15 个不同国家的远程团队构建下一个世界级的劳动力管理和工资软件即服务.
@@ -401,6 +402,7 @@
   1. [Litmus](https://litmus.com/careers)  - 电子邮件专业人士的优化工具. 在波士顿和伦敦设有办事处，但近 50% 的团队远程工作.
   1. [LiveChat](https://www.livechat.com/careers/jobs/) - 具有在线聊天、服务台软件和网络分析功能的在线客户服务软件
   1. [LivingSocial](https://jobs.groupon.com/)  - 对经验丰富的远程开发人员团队的全公司支持. 很多自主权.
+  1. [Logit.io](https://logit.io/about-us#careers) - 完全远程的第一家日志记录和指标管理公司，100% 的运营和开发基于远程
   1. [Lullabot](https://www.lullabot.com/jobs) - 使用 Drupal 进行战略、设计和开发.
   1. [madewithlove](https://madewithlove.com/jobs) - 我们帮助公司构建数字产品，并为似乎陷入困境的团队带来新的动力.
   1. [Maintainer Mountaineer](https://maintainer.io) - 开源社区管理即服务.
@@ -480,7 +482,7 @@
   27. [Surge](https://www.surgeforward.com/careers/) - 100% 远程咨询公司，主要在 Node.JS、iOS、.NET、PHP 和 Android 上工作
   28. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote)  - Square 帮助数百万卖家开展业务——从安全的信用卡处理到销售点解决方案. 产品：Square 和 Cash App.
   29. [Sysdig Cloud](https://sysdig.com/jobs/)
-  30. [Taskade](https://www.taskade.com/contact/) - 远程团队建设实时协作和团队协作编辑.
+  30. [Taskade](https://www.taskade.com/contact/) - 远程团队构建实时协作和团队协作编辑.
   31. [TaxJar](https://www.taxjar.com/jobs/) - 消除销售税难题.
   32. [Teamed.io](https://www.teamed.io/)
   33. [TeamSnap](https://www.teamsnap.com/about/careers)  - TeamSnap 是排名第一的在线运动队管理软件.  80% 远程员工
@@ -561,9 +563,10 @@
   1. [TeamHub](https://teamhub.app/) — 直接在您的 IDE 中实时报告状态和进度
   1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) — 沉浸式视频通话提示
   1. [Twist](https://twist.com/) — 一个长篇讨论和随意信息和谐共存的交流平台.
-  1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
+  1. [Whereby](https://whereby.com) – 基于浏览器的无插件群组视频通话.
   1. [Zoom](https://zoom.us) — 高质量群组视频和共享屏幕，运行在 linux 上，记录会话并支持电话呼叫.
   1. [Krisp](https://krisp.ai/) - 在任何通信应用程序中静音背景噪音.
+  1. [flat.social](https://flat.social/) - 为在线会议、团队活动和虚拟社交创建有趣的虚拟空间.
 
 #### Project Management
   1. [Asana](https://asana.com/) - 适合分布式团队的项目管理.
@@ -583,7 +586,7 @@
   1. [EasyRetro](https://easyretro.io) - EasyRetro 是分布式团队的回顾性在线板.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - 聆听维基百科最近更改提要的声音.
   1. [Noisli](https://www.noisli.com/) - Noisli 有一系列不同的环境声音，可以组合起来提高创造力和注意力.
-  1. [musicforprogramming.net](https://musicforprogramming.net/) - `返回&#39;一系列用于聆听的混音，而&#39;+任务+&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.&#39;;`
+  1. [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
   1. [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈 (Mac).
   1. [Miro](https://miro.com) (fka Realtime Board) - 分布式永久虚拟白板.
   1. [Teleport Sundial](https://sundial.teleport.org) - 管理分布式团队的位置和时区.

@@ -40,14 +40,16 @@
 - [ORM](https://github.com/encode/orm) - 一个异步 ORM.
 - [ormar](https://collerek.github.io/ormar/)  - Ormar 是一个使用 Pydantic 验证的异步 ORM，可以直接在 FastAPI 请求和响应中使用，因此您只需要维护一组模型. 包括 Alembic 迁移.
   - [FastAPI Example](https://collerek.github.io/ormar/fastapi/) - 在 ormar 中使用 FastAPI.
-- [Piccolo](https://github.com/piccolo-orm/piccolo) - 一个异步 ORM 和查询构建器，支持 Postgres 和 SQLite，带有电池（迁移、安全等）.
-  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - 将 FastAPI 与 Piccolo 一起使用.
+- [Piccolo](https://github.com/piccolo-orm/piccolo) - 异步 ORM 和查询构建器，支持 Postgres 和 SQLite，带电池（迁移、安全等）.
+  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
   - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - 强大且现代的管理 GUI，使用 Piccolo ORM.
+- [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - 自动生成的、完全类型安全的 ORM 由 Pydantic 提供支持并专门为您的架构量身定制 - 支持 SQLite、PostgreSQL、MySQL、MongoDB、MariaDB 等.
+  - [FastAPI Example](https://github.com/RobertCraigie/prisma-client-py/tree/main/examples/fastapi-basic)
 - [Tortoise ORM](https://tortoise.github.io) - 受 Django 启发的易于使用的 asyncio ORM（对象关系映射器）.
   - [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - Tortoise-ORM FastAPI 集成的一个例子.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
   - [Aerich](https://github.com/tortoise/aerich) - Tortoise ORM 迁移工具.
-- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
+- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel（由 Pydantic 和 SQLAlchemy 提供支持）是一个库，用于通过 Python 代码与 Python 对象与 SQL 数据库进行交互.
 
 #### Query Builders
 
@@ -72,14 +74,14 @@
 - [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) - 从 OpenAPI 文件创建 FastAPI 应用程序，支持架构驱动开发.
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - 从 OpenAPI 规范生成一个 mypy 和 IDE 友好的 API 客户端.
 - [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - joerick/pyinstrument 的 FastAPI 中间件，用于检查您的服务性能.
-- [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API 版本控制.
+- [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - 将您的 Jupyter 笔记本作为 RESTful API 端点运行.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) - 用于生成和管理 FastAPI 项目的 CLI 工具.
 - [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - 自动 [MessagePack](https://msgpack.org/) 内容协商.
 
 ### Email
 
-- [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+- [FastAPI Mail](https://github.com/sabuhish/fastapi-mail) - 用于发送电子邮件和附件（个人和批量）的轻量级邮件系统.
 
 ### Utils
 
@@ -217,7 +219,7 @@ Compute:
 - [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code](https://github.com/iwpnd/fastapi-aws-lambda-example))
 - [Google Cloud Functions](https://cloud.google.com/functions/)
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-- [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthcor/cloudrun-fastapi))
+- [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthonycorletti/cloudrun-fastapi))
 
 ## Projects
 

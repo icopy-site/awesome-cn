@@ -50,13 +50,13 @@
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 * [ABP](https://github.com/abpframework/abp) - 下一代 ASP.NET Boilerplate Web 应用程序框架.
 * [Butterfly Server .NET](https://butterflyserver.io)  - 启用定义 Web API 和订阅 API，以在连接的客户端之间自动同步数据集. 允许以最少的努力构建实时 Web 应用程序和本机应用程序.
-* [Orleans](https://github.com/dotnet/orleans) - Orleans 是一个框架，它为构建分布式大规模计算应用程序提供了一种直接的方法，无需学习和应用复杂的并发或其他扩展模式
+* [Orleans](https://github.com/dotnet/orleans) - Orleans 是一个框架，它提供了一种构建分布式大规模计算应用程序的直接方法，无需学习和应用复杂的并发或其他扩展模式
 * [Newbe.Claptrap](https://github.com/newbe36524/Newbe.Claptrap)  - 这是一套以反应式、事件溯源和Actor模式为基础理论的服务器端开发框架. 最重要的是，开发人员可以更简单地开发“分布式”、“横向扩展”和“易于测试”的应用程序.
 * [CoreFX](https://github.com/dotnet/corefx)  - corefx 存储库包含 .NET Core 的库实现（称为“CoreFX”）. 它包括 System.Collections、System.IO、System.Xml 和许多其他组件.
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - 业务层开发框架 https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins 是一个通用框架，用于创建可扩展的应用程序，以及创建扩展这些应用程序的插件
-* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，它提供了一个易于使用且灵活的规则引擎，旨在解决常见的挑战，例如并发处理、事务支持、容错、线程、可伸缩性、异步和多客户端支持以及易于测试，所有这些没有巨大的学习曲线！
+* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，提供易于使用且灵活的规则引擎，旨在解决常见的挑战，例如并发处理、事务支持、容错、线程、可扩展性、异步和多客户端支持以及易于测试，所有这些没有巨大的学习曲线！
 * [Plastic](https://github.com/sang-hyeon/Plastic)  - Plastic 在应用程序中提供域、应用程序规则、业务规则或业务逻辑等内容的封装. 为此，使用命令模式.
 * [Signals](https://github.com/EmitKnowledge/Signals) - Signals 是一个基于 .NET5 的框架，它专注于通过为开发团队提供工具、方面和流程来提高他们的质量和生产力.
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET 是一个开源应用程序框架，使构建企业 .NET 应用程序更容易
@@ -337,7 +337,7 @@
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) 组件和拓扑. 为分布式和容错事件流处理提供高级抽象.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - 用于构建分布式应用程序的可插拔基础块.
 * [MBrace](https://github.com/mbraceproject) - Integrated Data Scripting for the Cloud
-* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - 用于 Golang 和 C 的超快速分布式 Actor#
+* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - 原型演员 - Golang 和 C 的超快速分布式演员#
 
 ## DLR
 
@@ -648,7 +648,7 @@
 * [MailKit](https://github.com/jstedfast/MailKit)  - 完整的跨平台邮件堆栈，包括 IMAP、POP3、SMTP、身份验证等. 建立在 MimeKit 之上.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - 一个跨平台的 .NET MIME 创建和解析器库，支持 S/MIME、PGP、TNEF 和 Unix mbox 假脱机.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
-* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和细分、为您的列表创建自定义字段等.还包括一个用于 SendGrid Webhooks 的解析器.
+* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和细分、为您的列表创建自定义字段等.还包括一个 SendGrid Webhooks 解析器.
 
 ## Mathematics
 
@@ -736,7 +736,7 @@
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
 * [Catel](https://www.catelproject.com/)  - Catel 是一个专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）的应用程序开发平台.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
 * [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现“INotifyPropertyChanged”或声明“DependencyProperty”. 它将控件直接连接到 CLR 属性. 这使它非常适合 Model/View/ViewModel 模式.
-* [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
+* [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 以应用程序为中心的 Windows 8.1 MVVM 框架，在构建时考虑到了依赖注入，包括一整套 Visual Studio MVVM 模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 跨平台的桌面和移动 MVVM 开发框架.
 * [Win Application Framework (WAF)](https://github.com/jbe2277/waf)  - 一个轻量级框架，可帮助您创建结构良好的 WPF 和 UWP 应用程序. 它支持您应用分层架构和模型-视图-视图模型模式.
@@ -772,7 +772,7 @@
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 * [NetOffice](https://github.com/NetOfficeFw/NetOffice) - Microsoft Office 应用程序的 .NET 包装程序集.
 * [GemBox.Bundle](https://www.gemboxsoftware.com/bundle)  - .NET 组件包，可以快速、简单和高效地处理办公文件（Excel、Word、PowerPoint、PDF 和电子邮件）.  **[$]****[免费精简版]**
-* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm)  - 用于 Outlook 对象模型和（扩展的）MAPI 的库. 支持 Outlook 98 - 2019.在 Exchange 和 Outlook 中处理对象/邮件/帐户/文件夹.  **[$]**
+* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm)  - 用于 Outlook 对象模型和（扩展的）MAPI 的库. 支持 Outlook 98 - 2019.在 Exchange 和 Outlook 中使用对象/邮件/帐户/文件夹.  **[$]**
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - 无需安装 Microsoft Office 即可处理 PowerPoint 演示文稿的流畅 API.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - 一个微型 Excel 助手避免 OOM 和高性能来创建/映射/模板填充数据.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET 文本提取框架支持几种文件格式
@@ -794,7 +794,7 @@
 * [Massive](https://github.com/FransBouma/Massive) - 一款永远爱你的小巧、快乐的数据访问工具.
 * [LINQ to DB](https://github.com/linq2db/linq2db) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供简单、轻便、快速且类型安全的层.
 * [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM 是一个用于 .NET 框架的微型对象关系映射器. 它旨在易于使用、可扩展和可测试.
-* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - POCO 的一个小 ORM 风格的东西
+* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - 适合您的 POCO 的一个小 ORM 风格的东西
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) - 期待已久的完全异步 PetaPoco 分叉
 * [NPoco](https://github.com/schotime/NPoco)  - 将查询结果映射到 POCO 对象的简单 microORM. 基于 Schotime 的 PetaPoco 分支
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - 使用 SQL 片段且不需要模型类的混合 ORM.
@@ -803,7 +803,7 @@
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 高度关注查询组合、粒度和代码美学的数据访问框架.
 * [SmartSql](https://github.com/dotnetcore/SmartSql)  - SmartSql = MyBatis + 缓存（内存|  Redis）+ ZooKeeper + R/W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - .NET 的混合 ORM 库.
-* [Venflow](https://github.com/TwentyFourMinutes/Venflow) - 一个用于 PostgreSQL 的超快速和轻量级 ORM.
+* [Venflow](https://github.com/TwentyFourMinutes/Venflow) - 用于 PostgreSQL 的超快速和轻量级 ORM.
 * [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - 一个类似于“实体框架”的 MongoDB 接口
 
 ## Package Management
@@ -1021,6 +1021,7 @@
 * [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Navigate through `project.json`, `packages.config`, `*.props`, `*.targets`, and C#/F#/VB.NET project files efficiently with the OctoLinker browser extension for GitHub.
 * [YARP](https://github.com/microsoft/reverse-proxy) - YARP 是一个反向代理工具包，用于使用来自 ASP.NET 和 .NET 的基础结构在 .NET 中构建快速代理服务器.
 * [JSON Formatter and Validator](https://elmah.io/tools/json-formatter/) - 极快的 JSON 格式化程序和验证程序，不会与服务器共享 JSON.
+* [CSharpier](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) 印刷过程.
 
 ## Trading
 
@@ -1074,7 +1075,7 @@
 
 * [Kestrel](https://github.com/aspnet/KestrelHttpServer) - 基于 libuv 的 ASP.NET Core Web 服务器
 * [EmbedIO](https://github.com/unosquare/embedio) - 基于 Mono 和跨平台构建的 Web 服务器
-* [XSP](https://github.com/mono/xsp)  - Mono 的 ASP.NET 托管服务器. 该模块包括一个 Apache 模块，一个可以连接到其他 Web 服务器的 FastCGI 模块以及用于测试的独立服务器（类似于微软的 Cassini）
+* [XSP](https://github.com/mono/xsp)  - Mono 的 ASP.NET 托管服务器. 该模块包括一个 Apache 模块，一个可以连接到其他 web 服务器的 FastCGI 模块以及一个用于测试的独立服务器（类似于微软的 Cassini）
 
 ## WebSocket
 
