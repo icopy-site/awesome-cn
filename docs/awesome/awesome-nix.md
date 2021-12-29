@@ -24,11 +24,12 @@
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - 轻松搜索所有或选定的 Nix 相关存储库.
+* [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - 查找频道中可用的软件包的所有版本以及您可以从中下载的版本.
 * [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 软件包的数据库.
 
 ### Newsletters
 
-* [NixOS Weekly](https://weekly.nixos.org/) - *The* 时事通讯，随时了解社区更新.
+* [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
 
 ## Installation Media
 
@@ -48,7 +49,7 @@
 * [KubeNix](https://github.com/xtruder/kubenix) - 使用 Nix 的 Kubernetes 资源构建器.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - 通过 Nix 包的单依赖 Kubernetes 集群.
 * [morph](https://github.com/DBCDK/morph) - 用于管理现有 NixOS 主机的工具.
-* [Nixery](https://github.com/google/nixery) - A Docker-compatible container registry which builds images ad-hoc via Nix.
+* [Nixery](https://github.com/google/nixery) - 一个与 Docker 兼容的容器注册表，它通过 Nix 临时构建图像.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - 使用 Nix 的简单无头 VM 配置（类似于 Vagrant）.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
@@ -61,6 +62,7 @@
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - 用于 nixpkgs 的 Nix 代码格式化程序.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - 将您的包装表达打成一个形状.
+* [nix-alien](https://github.com/thiagokokada/nix-alien) - 在 Nix/NixOS 上轻松运行未打补丁的二进制文件.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - 解释为什么两个 Nix 派生不同的工具.
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位包含特定文件的 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.

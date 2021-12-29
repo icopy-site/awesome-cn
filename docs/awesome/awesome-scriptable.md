@@ -20,7 +20,7 @@
 
   <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/raw/main/screenshots/sc_1.png?raw=true" />
 
-- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - 有关您的福特的信息，例如位置或里程.
+- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - 有关您的福特汽车的信息，例如位置或里程.
 
   <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
@@ -67,6 +67,10 @@
 - [btc-usd-course.js](https://github.com/wickenico/btc-usd-course.js) - 以美元显示当前的比特币课程.
 
   <img src="https://raw.githubusercontent.com/wickenico/btc-usd-course.js/blob/main/img/bitcoin-usd-course-widget-small.png?raw=true" height="200"/>
+  
+- [Tradegate Stock Widget](https://github.com/Chrischi-/tradegate-stock-widget-for-scriptable) - 股票小工具显示来自 Tradegate Exchange 的股价.
+
+  <img src="https://user-images.githubusercontent.com/6323217/147655180-c4d3041c-58c1-4108-b001-29e01767025d.png" height="200"/>
 
 ## Food
 

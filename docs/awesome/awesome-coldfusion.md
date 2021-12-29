@@ -20,28 +20,27 @@
 * [CFWheels](https://cfwheels.org) - 受 Ruby on Rails 启发的开源 CFML 框架.
 * [ColdBox](http://www.coldbox.org) - 企业 ColdFusion MVC 开发平台
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - 轻量级、约定优于配置的 MVC 应用程序框架
-* [ModelGlue](http://model-glue.com)  - 基于 CFML 的全栈前端控制器，基于 MVC. 功能包括脚手架、ORM 集成等
 
 ## Testing
 
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) - 用于 ColdFusion 的本地 Selenium RC 绑定
-* [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - ColdFusion 模拟/存根框架
+* [MockBox](https://testbox.ortusbooks.com/mocking/mockbox) - ColdFusion 模拟/存根框架
 * [MXUnit](https://github.com/mxunit/mxunit) - xUnit 风格的单元测试框架
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) - 观察目录中的文件更改（.cfc、.cfm、.xml）以触发 mxunit 测试套件完整运行，并在控制台中显示结果
 * [TestBox](https://github.com/Ortus-Solutions/TestBox) - BDD 风格的单元测试框架
 
 ## Dependency Injection
 
-* [ColdSpring](http://www.coldspringframework.org/)  - ColdSpring 使您的 CFC 的配置和依赖关系更易于管理.  ColdSpring 将流行的 Java Spring 框架的强大功能引入 ColdFusion.
-* [DI/1 - Inject One](https://github.com/framework-one/di1) - 一个非常轻量级的、约定优于配置、依赖注入（控制反转）的框架
-* [Wirebox](http://wiki.coldbox.org/wiki/WireBox.cfm) - 企业依赖注入框架
+* [ColdSpring](https://github.com/coldspringframework/coldspring1)  - ColdSpring 使您的 CFC 的配置和依赖关系更易于管理.  ColdSpring 为 ColdFusion 带来了流行的 Java Spring 框架的强大功能.
+* [DI/1 - Inject One](https://github.com/framework-one/di1) - 一个非常轻量级、约定优于配置、依赖注入（控制反转）的框架
+* [Wirebox](https://wirebox.ortusbooks.com/) - 企业依赖注入框架
 
 ## CMS
 
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
-* [Mura](https://github.com/blueriver/MuraCMS)
+* [Mura](https://www.murasoftware.com/)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - Railo 语言的开源 CMS
-* [Slatwall](https://github.com/ten24/Slatwall) - 一个开源商务平台
+* [Slatwall](https://www.slatwallcommerce.com/) - 一个开源商务平台
 
 ## NoSQL
 
@@ -51,25 +50,22 @@
 
 ## REST
 
-* [ColdBox REST](http://wiki.coldbox.org/wiki/Building_Rest_APIs.cfm) - 原生 REST 路由和渲染功能
+* [ColdBox REST](https://coldbox.ortusbooks.com/digging-deeper/recipes/building-rest-apis) - 原生 REST 路由和渲染功能
 * [FW/1 REST](https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis) - 原生 REST 路由和渲染功能
 * [Taffy](http://taffy.io) - ColdFusion 和 Railo 的 REST Web 服务框架
 * [CFWheels RESTful](https://guides.cfwheels.org/docs/routing) - CFWheels 鼓励传统的 RESTful 和足智多谋的请求处理风格.
 
 ## Other Libraries
 
-* [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - 企业 ColdFusion 缓存引擎、聚合器和 API
+* [CacheBox](https://cachebox.ortusbooks.com/) - Enterprise ColdFusion 缓存引擎、聚合器和 API
 * [cfbackport](https://github.com/misterdai/cfbackport) - 较新版本的 ColdFusion 中包含的向后移植功能.
 * [cfpayment](https://github.com/ghidinelli/cfpayment)  - ColdFusion 支付处理库使管道电子商务应用程序变得容易. 信用卡充值从未如此简单. 灵感来自 Ruby 的 ActiveMerchant.
-* [Hoth](https://github.com/aarongreenlee/Hoth) - 异常跟踪
 * [BugLogHQ](https://github.com/oarevalo/BugLogHQ) - 异常跟踪
-* [iQuery](https://github.com/atuttle/iquery)  - 用于 Adob​​e ColdFusion 的健全的脚本查询语法，与 CF9 兼容. 看起来和行为很像 `queryExecute()`.
 * [JavaLoader](https://github.com/markmandel/JavaLoader) - JavaLoader 是一个库，旨在简化 Java 在 ColdFusion 应用程序中的使用、开发和集成.
-* [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - 企业 ColdFusion 日志库
+* [LogBox](https://logbox.ortusbooks.com/) - 企业 ColdFusion 日志库
 * [Moment.cfc](https://github.com/AlumnIQ/momentcfc) - Moment.js 启发了 CFML 的日期/时间操作库（不是直接端口）
-* [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) 用于冷聚变
+* [Mustache.cfc](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) 用于 ColdFusion
 * [UnderscoreCF](https://github.com/russplaysguitar/UnderscoreCF)  - 用于 Coldfusion 的 UnderscoreJS 端口. 函数式编程库.
-* [ValidateThis](http://validatethis.org) - ColdFusion 对象的验证框架
 
 ## Editors
 
@@ -84,7 +80,7 @@
 
 ## Tools
 
-* [CommandBox](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI、包管理器、REPL 等
+* [CommandBox](https://www.ortussolutions.com/products/commandbox) - ColdFusion (CFML) CLI、包管理器、REPL 等
 * [Unofficial Updater](http://www.uu-2.info/) - 帮助安装 ColdFusion 修补程序的实用程序
 
 ## References
@@ -97,16 +93,17 @@
 * [Try ColdFusion](http://trycf.com/) - CFML 实时交互式学习工具
 
 ## Resources
-* [CFRepo](http://www.gpickin.com/cfrepo/) - 由 Gavin Pickin 创建的 ColdFusion 安装程序存储库
+* [CFRepo](http://www.cfmlrepo.com/) - 由 Gavin Pickin 创建的 ColdFusion 安装程序存储库
 * [lucee5-heroku](https://github.com/mikesprague/lucee5-heroku) - Mike Sprague 用于将 Lucee 5 应用程序部署到 Heroku 的应用程序模板
 * [Vagrant LEMTL](https://github.com/mikesprague/vagrant-lemtl) - 带有 Linux、Nginx、MariaDB（或 MySQL）、Tomcat 和 Lucee 的 Vagrant box，用于使用 CFML 进行本地开发，作者 Mike Sprague
+* ACF Docker 镜像 [Amazon ECR](https://gallery.ecr.aws/adobe/coldfusion) 和 [Docker Hub](https://hub.docker.com/u/adobecoldfusion) - 来自 Adob​​e 的官方 Docker 镜像
+* Lucee Docker 镜像 [Docker Hub](https://hub.docker.com/u/lucee) - 来自 Lucee 的官方 Docker 镜像
 
 ## Documentation
 
 * [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - 官方 Adob​​e ColdFusion 文档
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML 文档参考.
 * [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) - Tony Junkes 的 CFML 标签到脚本转换
-* [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion 文档
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) - Adam Cameron 的 CFScript 文档
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - 官方 Lucee 文档
 * [Official Lucee Server Documentation](http://docs.lucee.org/) - 新的 Lucee 文档

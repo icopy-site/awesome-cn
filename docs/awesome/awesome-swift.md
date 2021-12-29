@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1070 |  2021 年 12 月 26 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: | 第1071章 2021 年 12 月 29 日
 
 
 
@@ -174,7 +174,7 @@
 * [Elephant](https://github.com/s2mr/Elephant) - 优雅的 SVG 动画套件.
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - 基于自然块的核心动画框架.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini 是丰富的基于滚动的动画框架.
-* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - 使用 IBAnimatable 在 Interface Builder 中为 App Store 就绪的应用程序设计和原型 UI、交互、导航、过渡和动画.
+* [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - 使用 IBAnimatable 在 Interface Builder 中为 App Store 就绪应用程序设计和原型 UI、交互、导航、过渡和动画.
 * [Interpolate](https://github.com/marmelroy/Interpolate) - 用于创建交互式手势驱动动画的插值框架.
 * [Kinieta](https://github.com/mmick66/kinieta) - 一个简单的 iOS 动画引擎，具有直观的 API 和可读的代码.
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - 用于原生渲染 After Effects 矢量动画的 iOS 库.
@@ -226,7 +226,7 @@
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - 轻量级的应用内购买框架.
 
 ### Audio
-*Libs to work with audio* [back to top](#readme) 
+*用于处理音频的库* [back to top](#readme) 
 
 * [AudioKit](https://github.com/audiokit/AudioKit) - 强大的音频合成、处理和分析，没有陡峭的学习曲线.
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - AVPlayer 的包装器，具有一些很酷的功能.
@@ -401,7 +401,7 @@
 * [Gloss](https://github.com/hkellaway/Gloss) :penguin: - 闪亮的 JSON 解析库.
 * [HandyJSON](https://github.com/alibaba/handyjson) - 一个方便的 JSON 对象序列化/反序列化库.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - 类型安全的 JSON 解码库.
-* [JASON](https://github.com/delba/JASON) - JSON 解析性能出色，操作符方便.
+* [JASON](https://github.com/delba/JASON) - JSON 解析性能出色，操作方便.
 * [JSONHelper](https://github.com/isair/JSONHelper) - 适用于 iOS 和 OS X 的闪电般快速的 JSON 反序列化和值转换库.
 * [JSONNeverDie](https://github.com/johnlui/JSONNeverDie) - 从 JSON 到模型的自动反射工具，用户友好的 JSON 编码器/解码器，旨在永不消亡.
 * [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - JSON 对象映射器.
@@ -752,7 +752,7 @@
 
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)  - 一个优雅的解决方案，用于在显示键盘时保持任何 UIView 可见. 不需要 UIScrollView.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无代码插入式通用库允许防止键盘向上滑动和覆盖 UITextField/UITextView 的问题.
-* [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - 无代码管理器通过点击 iOS 的视图来隐藏键盘.
+* [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - 通过点击 iOS 视图来隐藏键盘的无代码管理器.
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)  - 向您的 macOS 应用程序添加用户可自定义的全局键盘快捷键. 包括 Cocoa 和 SwiftUI 组件.
 * [Ribbon](https://github.com/chriszielinski/Ribbon) - 适用于 iOS 和 macOS 的简单跨平台工具栏/自定义输入附件视图库.
 * [Typist](https://github.com/totocaster/Typist) - 适用于 iOS 应用程序的小型嵌入式 UIKit 键盘管理器 - 无需通知中心即可帮助管理键盘的屏幕状态和行为.
@@ -1134,7 +1134,7 @@
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 音乐播放指示器，如 iTunes.
 * [Family](https://github.com/zenangst/Family) - 一个子视图控制器框架，使设置父控制器像馅饼一样简单.
 * [FAQView](https://github.com/mukeshthawani/faqview) - 易于使用的 iOS 常见问题解答视图.
-* [Fashion](https://github.com/vadymmarkov/Fashion) - 时尚配饰和美容工具，用于共享和重复使用 UI 样式.
+* [Fashion](https://github.com/vadymmarkov/Fashion) - 共享和重复使用 UI 样式的时尚配饰和美容工具.
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - 漂亮的旗帜图标，可在应用程序和网络上使用.
 * [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - 响应 UIScrollView 滚动的容器视图.
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - 浮动评级系统.
@@ -1154,7 +1154,7 @@
 * [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) - 在 iOS 上构建即时搜索功能的小部件和助手库.
 * [KALoader](https://github.com/Kirillzzy/KALoader) - 用于显示数据加载的漂亮动画占位符.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - 一个 UINavigationController 子类，支持带有隐藏或显示的流行交互 UINavigationBar.
-* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 嵌入式通用库可帮助您管理导航栏样式，并使不同导航栏样式之间的过渡动​​画平滑，同时推动或弹出所有方向的视图控制器.
+* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 插入式通用库可帮助您管理导航栏样式并使不同导航栏样式之间的过渡动​​画平滑，同时推动或弹出所有方向的视图控制器.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - 添加对多行占位符的支持的 UITextView 子类.
 * [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明式、可配置和高度可重用的 UI 开发，就像制作乐高积木一样.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - 自动生成所有依赖项的 Plist 的命令行工具.
@@ -1174,12 +1174,13 @@
 * [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider 克隆具有多个拇指和值、范围突出显示、可选的捕捉间隔、可选的值标签，垂直或水平.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - UIScrollView 的简单视差标头.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - 提供了原生 iOS UIModalPresentationFormSheet 的替代方案，增加了对 iPhone 的支持以及设置控制器大小和感觉表单表的额外机会.
-* [NeumorphismKit](https://github.com/y-okudera/NeumorphismKit) - UIKit 的 Neumorphism 框架.
+* [NeumorphismKit](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.
 * [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - 针对 iOS 7 及更高版本优化的“不断增长的文本视图”的下一代.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - 漂亮的加载动画的集合.
 * [OverlayContainer](https://github.com/applidium/OverlayContainer) - OverlayContainer 可以更轻松地开发基于叠加层的界面，例如在 Apple Maps 或 Stocks 应用程序中呈现的界面.
 * [PPAssetsActionController](https://github.com/pavelpantus/PPAssetsActionController) - 具有资产预览的高度可定制的动作表控制器.
 * [Preferences](https://github.com/sindresorhus/Preferences) - 在几分钟内为您的 macOS 应用程序添加首选项窗口.
+* [ProgressIndicatorView](https://github.com/exyte/ProgressIndicatorView) - 用 SwiftUI 编写的进度指示器视图库.
 * [PullToDismiss](https://github.com/sgr-ksmt/PullToDismiss) - 您可以通过拉动滚动视图或导航栏来关闭模态视图控制器.
 * [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider) - 可自定义的范围滑块，如 iOS 的 UISlider.
 * [Reel search](https://github.com/Ramotion/reel-search) - 作为卷轴管理的选项列表.
@@ -1274,7 +1275,7 @@
 * [CalendarView](https://github.com/mmick66/CalendarView) - 日历组件，它具有垂直和水平布局（和滚动）和本机日历事件的显示.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - 用于选择日期和时间的更好的 iOS UI 组件.
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - SwiftUI 中缺少优雅的全屏日历.
-* [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - 一个声明性、高性能的 iOS 日历 UI 组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例.
+* [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - 一个声明式、高性能的 iOS 日历 UI 组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - UI日历处理程序.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - 类似 GitHub 的工作贡献时间表.
 
@@ -1417,7 +1418,7 @@
 * [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - 带有可切换图标的自定义 TextField，可显示或隐藏密码并强制执行良好的密码策略.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - “浮动标签模式”的漂亮灵活的文本字段控件实现.
 * [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) - 声明式构建和快速渲染属性字符串库.
-* [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField 字符计数器，具有可爱的 UX.
+* [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - UITextField 字符计数器与可爱的 UX.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - UITextFields 的几个现成的效果.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation)  - UITextField-Navigation 将下一个、上一个和完成按钮添加到您的 UITextField 的键盘上. 高度可定制.
 * [VKPinCodeView](https://github.com/Sunspension/VKPinCodeView) - 用于输入 PIN 的简单而优雅的 UI 组件.

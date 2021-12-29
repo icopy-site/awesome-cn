@@ -81,7 +81,7 @@ Neovim 支持多种 UI.
 - [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) - 通过定义任意数量的自定义 LaTeX 构建引擎并使用魔术注释选择它们来增强 Texlab 的 lspconfig 设置.
 - [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) - LSP 功能的基本包装器.
 - [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - 代码操作的浮动弹出菜单，用于显示代码操作信息和差异预览.
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Neovim (&gt;= 0.5) 的异步 linter 插件，对内置语言服务器协议支持进行了补充.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Neovim (&gt;= 0.5) 的异步 linter 插件，作为对内置语言服务器协议支持的补充.
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 一个 Neovim Lua 插件，提供对 [SchemaStore](https://github.com/SchemaStore/schemastore) 目录.
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - Neovim 缺少的 IDE 功能.
 
@@ -270,6 +270,7 @@ Neovim 支持多种 UI.
 <!--lint ignore double-link-->
 - [minischeme](https://github.com/echasnovski/mini.nvim#plugin-colorscheme) - 配色方案 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 它是 base16 的变体，具有根据最佳感知均匀性选择的强调色.
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - 一个现代的 gruvbox 主题，具有完整的 treeitter 支持.
+- [titanzero/zephyrium](https://github.com/titanzero/zephyrium) - zephyr 风格的主题，用 Lua 编写，支持 TreeSitter.
 
 #### Lua Colorscheme
 
@@ -365,7 +366,7 @@ Neovim 支持多种 UI.
 
 ### Statusline component
 
-- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - 简单的状态栏组件，显示您在内部工作的范围.
+- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - 简单的状态行组件，显示您在内部工作的范围.
 
 ### Cursorline
 

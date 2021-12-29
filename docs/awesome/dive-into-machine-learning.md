@@ -15,7 +15,7 @@
 
 当然，获得专业知识没有捷径可走. 另外，_我不是专家！_我只是想将您与_来自_专家的一些重要资源联系起来.  ML 的应用无处不在. 我认为我们中的更多人更多地了解 ML 符合公共利益.
 
-无论是什么促使_你_深入研究机器学习，如果你对 Python 有所了解，现在你都可以在不到一个小时的时间里亲身体验机器学习 _“Hello World！”_.
+无论是什么促使 _you_ 深入研究机器学习，如果您对 Python 有所了解，现在您都可以在不到一个小时的时间内亲身体验机器学习 _“Hello World！”_.
 
 ## Let's get started
 
@@ -78,7 +78,7 @@
 
 整篇论文都充满了价值，但我想指出两点：
 
- - **仅靠数据是不够的.** 这是机器学习中科学与艺术相遇的地方. 引用 Domingos 的话：“......学习中对知识的需求不应该令人惊讶.机器学习不是魔术；它不能从无到有.它所做的是从更少的东西中获得更多.编程，就像所有工程一样，是一种很多工作：我们必须从头开始构建一切.学习更像是农业，它让大自然来做大部分工作.农民将种子与营养结合起来种植庄稼.学习者将知识与数据结合起来发展计划.”
+ - **仅靠数据是不够的.** 这是机器学习中科学与艺术相遇的地方. 引用 Domingos 的话：“......学习中对知识的需求不应该令人惊讶.机器学习不是魔术；它不能从无到有.它所做的是从更少的东西中获得更多.编程，就像所有工程一样，是一种很多工作：我们必须从头开始构建一切.学习更像是农业，它让自然完成大部分工作.农民将种子与营养结合起来种植庄稼.学习者将知识与数据结合起来发展计划.”
  - **更多的数据可以击败更聪明的算法.** 听着，程序员. 我们喜欢很酷的工具. 抵制重新发明轮子或过度设计解决方案的诱惑. 你的出发点是 [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html) . 引用 Domingos 的话：“假设你已经构建了最好的特征集，但是你得到的分类器仍然不够准确.你现在能做什么？有两个主要选择：设计一个更好的学习算法，或者收集更多数据.[...] 根据经验，拥有大量数据的愚蠢算法胜过拥有少量数据的聪明算法.（毕竟，机器学习就是让数据完成繁重的工作.） ”
 
 当您处理真正的机器学习问题时，在优化算法选择之前，您应该将精力集中在 **领域知识** 和 **数据** 上. 宁愿做简单的事情，直到你_拥有_来增加复杂性. 你不应该急于进入神经网络，因为你认为它们很酷. 要改进您的模型，**获取更多数据.**然后利用您对问题的了解 [explore and process](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning) 数据. 只有在收集到足够的数据并且处理得当之后，才应该优化算法的选择.
@@ -93,7 +93,7 @@
 
 <details><summary>完全可选：一些播客片段</summary>
 
-一、下载 [an interview with Prof. Domingos on the _Data Skeptic_podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 周日写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
+一、下载 [an interview with Prof. Domingos on the _Data Skeptic_podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 星期天写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
 你也可以开始阅读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm) ，清晰易懂的机器学习概述.  （它也可以作为有声读物使用.）
 
 接下来，订阅更多机器学习和数据科学播客！ 这些是很棒的、省力的资源，您可以随意从中学习更多. 到 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn)，随着时间的推移聆听，有足够的空间. [By the way, don't speed up technical podcasts, that can hinder your comprehension.](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
@@ -117,7 +117,7 @@
 
 接下来，从**一个或多个**笔记本开始.
 
-- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
+- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - 按主题分类的各种笔记本：
     - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) -“这是交互式机器学习实验的集合.每个实验都包含️ Jupyter/Colab notebook（以了解模型是如何训练的）和演示页面”
@@ -138,9 +138,9 @@
 ## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
 
-您可能想在旁边玩一个宠物项目. 当你准备好时，你可以探索其中之一 [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets).
+您可能想在旁边玩一个宠物项目. 当您准备好时，您可以探索其中之一 [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) . 如果你和我一样，你可能也会玩得开心 [`arxiv-public-datasets`, "scripts to grab public datasets from resources related to arXiv"](https://github.com/mattbierbaum/arxiv-public-datasets) ([arXiv](https://arxiv.org/abs/1905.00075)).
 
-另外，你应该拿一本深入的教科书作为参考. 我反复看到的两个建议是 _[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) 您可以在这些链接中以 PDF 格式免费下载每本书 - 所以抓住它们！
+另外，建议拿一本教科书作为深入参考. 我最常看到推荐的两个是 _[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) 您可以在这些链接中以 PDF 格式免费下载每本书 - 所以抓住它们！
 
 ### Tips for this course
 
@@ -175,8 +175,9 @@
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) 课程和教科书 [Computational and Inferential Thinking](https://www.inferentialthinking.com/) 教授数据科学中的关键概念.
 * Mark A. Girolami 教授 [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) 适合有很强数学背景的人.
 * Coursera [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
-* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) . 交互的.
+* [Stanford CS229: Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 * [Harvard CS109: Data Science](https://cs109.github.io/2015/)
+* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) . 交互的.
 * [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 
 </details>
@@ -213,7 +214,7 @@
 我遇到了一些不错的备忘单.  （请 [submit a Pull Request](https://github.com/hangtwenty/dive-into-machine-learning/pulls) 添加其他有用的备忘单.）
 
 * [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-* [Stanford CS 229 cheat sheets](https://stanford.edu/~shervine/teaching/cs-229/)，可在网络上获得，并且 [as PDFs](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en)
+* [Stanford CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning) [cheat sheets](https://stanford.edu/~shervine/teaching/cs-229/)，可在网络上获得，并且 [as PDFs](https://github.com/afshinea/stanford-cs-229-machine-learning/tree/master/en)
   * [Supervised learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
   * [Unsupervised learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
   * [Deep learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning) [(more)](https://stanford.edu/~shervine/teaching/cs-230/)
@@ -277,7 +278,7 @@
 </details>
 
 <details>
-<summary>建立机器学习职业生涯的更多方法</summary>
+<summary>更多机器学习职业建议</summary>
 
 * ["Advice on building a machine learning career and reading research papers by Prof. Andrew Ng"](https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html)
 	
@@ -341,7 +342,7 @@
 
 * **[Dive into Deep Learning](https://d2l.ai/) - 一本关于深度学习的互动书**
   *“包含代码、数学和讨论的交互式深度学习书”
-  *“使用 NumPy/MXNet、PyTorch 和 TensorFlow 实现”
+  * “使用 NumPy/MXNet、PyTorch 和 TensorFlow 实现”
   * “被来自 50 个国家的 200 所大学采用”
 * **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - “深度学习论文已实施，并附有注释” - “我们正在积极维护此存储库并几乎每周添加新的实施.”
  * **[大卫·汉弗莱 (David Humphrey) 的“[深度] 学习的乐趣”.](https://github.com/humphd/have-fun-with-machine-learning)** 这是“取得成功的绝佳方式”自己”和hack-first. 然后你会很兴奋地继续……
@@ -357,7 +358,7 @@
 
 * **[Replicate](https://replicate.com) “让共享正在运行的机器学习模型变得容易”**
   * 从浏览器轻松试用深度学习模型
-  * 演示链接到 GitHub 上的论文/代码，如果你想深入了解一些东西是如何工作
+  * 演示链接到 GitHub 上的论文/代码，如果你想深入了解它是如何工作
   * 模型在构建的容器中运行 [`cog`](https://github.com/replicate/cog) ，“机器学习的容器”. 它是一个开源工具，用于将模型放入可复制的 Docker 容器中.
 
 ----
@@ -414,11 +415,12 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 <summary>这里有一些用于学习贝叶斯方法的很棒的资源.</summary>
 
 * **免费书** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)_. Made with a "computation/understanding-first, mathematics-second point of view." Uses [PyMC](https://github.com/pymc-devs/pymc) . 它也有印刷版！
- * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一个机器学习游戏，它会向您提问并猜测您正在思考的对象”，并且**解释了它使用的贝叶斯统计技术！**
+ * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一种机器学习游戏，它会向您提问并猜测您正在思考的对象”，并且**解释了它使用的贝叶斯统计技术！**
 * [_Time Series Forecasting with Bayesian Modeling by Michael Grogan_](https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling)，一个 5 个项目的系列 - 付费但第一个项目是免费的.
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) . 用途 [PyMC](https://github.com/pymc-devs/pymc) 以及.
 
 </details>
+
 
 ----
 
@@ -428,7 +430,6 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 * 书签 [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning), 一个精选的列表 [awesome](https://github.com/bayandin/awesome-awesomeness) Python 语言中的库和软件 - 有一个关于机器学习的部分.
 * 对于可能不在 PyPI、GitHub 等上的机器学习库，有 [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/) . 似乎有许多学术图书馆.
 * 朱莉娅： [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), 一个精选的列表 [awesome](https://github.com/bayandin/awesome-awesomeness) Julia 语言中的库和软件 - 有一个关于机器学习的部分.
-
 
 ### Natural Language Processing (NLP)
 

@@ -59,14 +59,15 @@
 **图例**：官方插件 · 主题 · 实用工具 · 变体 · 组件 · 已弃用
 
 -  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加了一个 `prose` 类.
-- 💙💼 [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的纵横比实用程序.
-- 💙💼 [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供实用程序，用于在固定行数后从视觉上截断文本.
+-  [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的纵横比实用程序.
+-  [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供实用程序，用于在固定行数后从视觉上截断文本.
 -  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 -  [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量进行主题化，支持暗模式.
 -  [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - 添加基于媒体查询和/或 CSS 选择器的主题变体.
 -  [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) - 添加基于单个`theme` 属性的主题变体.
 -  [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - 使用 CSS 变量进行主题化，支持媒体查询.
 -  [Themeable](https://github.com/upupming/tailwindcss-themeable) - 为 Tailwind CSS 添加了多个主题支持.
+-  [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - 添加对带有 CSS 变量和变体的 Tailwind CSS 的主题支持.
 -  [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
 -  [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - 利用 Tailwind CSS 的配置来允许创建实用程序.
 -  [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - 添加“图像渲染”实用程序.
@@ -118,10 +119,10 @@
 -  [Caret Color](https://github.com/naoray/tailwind-caret-color) - 添加 `caret` 颜色实用程序.
 -  [benface's gradients](https://github.com/benface/tailwindcss-gradients) - 添加渐变实用程序.
 -  [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - 添加背景渐变实用程序.
--  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
+-  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - 添加屏幕阅读器实用程序.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) - 添加了`object-fit` 实用程序.
 -  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - 添加“对象位置”实用程序.
--  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - Adds screen reader utilities.
+-  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) - 添加屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) - 添加了一些布局实用程序.
 -  [Grid](https://github.com/chrisrowe/tailwindcss-grid) - 添加 CSS 网格实用程序.
 -  [Transforms](https://github.com/benface/tailwindcss-transforms) - 添加 `transform` 实用程序.
@@ -243,7 +244,7 @@
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 -  [Meraki UI Components](https://merakiui.com) - 漂亮的 Tailwind CSS 组件，支持 RTL 语言.
 -  [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - 越来越多的文本/图像卡收藏.
--  [Tailwind Templates](https://www.tailwindtemplates.io) - 模板和组件的集合.
+-  [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 -  [Treact](https://treact.owaiskhan.me) - 使用 Tailwind CSS 构建的 React UI 模板和组件.
 -  [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - 使用 Tailwind CSS 的管理模板.
 -  [themes.dev](https://www.themes.dev/) - 手工制作的免费优质 Tailwind CSS 主题和组件.
@@ -263,6 +264,7 @@
 -  [Tailwind Typeahead](https://github.com/basarozcan/vue-tailwindcss-typeahead) - 使用 Vue.js 和 Tailwind CSS 构建的预先输入/自动完成组件.
 -  [Material Tailwind](https://material-tailwind.com/) - 易于使用的 Tailwind CSS 和 Material Design 组件库.
 -  [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Tailwind CSS 的布局和 UI 模式.
+-  [HyperUI](https://hyperui.dev/) - 开源营销和电子商务 Tailwind CSS 组件.
 -  [Vue Notus](https://www.creative-tim.com/product/vue-notus) - 开源 Tailwind CSS 和 Vue.js UI 套件.
 -  [Red Pixel Themes](https://redpixelthemes.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) - 使用 Tailwind CSS 制作的免费增值、易于定制的模板.
@@ -286,8 +288,8 @@
 
 -  [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) - 添加 Tailwind CSS 和 PurgeCSS 的 CRA 脚本.
 -  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) - 将 Tailwind CSS 添加到 Laravel 框架.
--  [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - 使用 Tailwind CSS for Laravel 的前端预设.
--  [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - 使用 Tailwind CSS for Laravel 的黑暗主题前端预设.
+- 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - 使用 Tailwind CSS for Laravel 的前端预设.
+- 📟💼 [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - 使用 Tailwind CSS for Laravel 的黑暗主题前端预设.
 -  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - 使用 Tailwind CSS 和 Emotion JS 的 CRA 样板.
 -  [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - 支持 Tailwind CSS 和 TypeScript 的 CRA 模板.
 -  [Next.js PWA](https://github.com/msaaddev/create-next-pwa) – 生成 Next.js PWA 样板代码以及 Tailwind CSS 集成的 CLI.
