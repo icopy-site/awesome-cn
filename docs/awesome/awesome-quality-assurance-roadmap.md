@@ -21,14 +21,14 @@
 
 ## The Road Map
 
-![QA Engineer Road Map 2022](https://i.imgur.com/WdAMbRW.png)
-![QA Engineer Road Map 2022](https://i.imgur.com/jgfN9Hh.png)
+![QA Engineer Road Map 2022](https://i.imgur.com/cM9cM8T.png)
+![QA Engineer Road Map 2022](https://i.imgur.com/meodAKp.png)
 
 ## Advices
 
 - 不要相信你没有看到它失败的测试代码.
 
- - 了解软件测试，不要跳入自动化； 就个人而言，我将自动化归类为处理冗余任务的有效方式. 确保正确设计您的测试标准，然后您可以自动实现之前的标准.
+ - 了解软件测试，不要跳入自动化； 就个人而言，我将自动化归类为处理冗余任务的有效方式. 确保正确设计您的测试标准，然后，您可以自动实现之前的标准.
 
 - 自动化不仅仅是记录手动编写的测试并以代码可读、可理解和可重用的方式对其进行设计.
 

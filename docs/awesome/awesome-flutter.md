@@ -19,6 +19,7 @@
 <a href="https://flutter.dev/">Flutter</a>是 Google 的 UI 工具包，用于从单个代码库为移动、Web 和桌面构建漂亮的、本地编译的应用程序.
 如果您欣赏内容，支持项目可见性，请给予 |  ⭐| 
 
+
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
   <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
@@ -37,6 +38,10 @@
 
 
 </tr></table></div>
+
+<a href="https://www.reddit.com/r/Bitstamp/comments/qzxk0r/please_bitstamp_respond_its_been_1_year_and_now_2/">
+  <img width="500" alt="Bitstamp want to keep my tokens" src="https://user-images.githubusercontent.com/1295961/147749304-22f5695f-fbf5-4f08-a30b-67bcaa4b92f4.png" />
+</a>
 
 
 
@@ -112,7 +117,7 @@
 ### Demonstrations
 
 - [Official Gallery](https://github.com/flutter/gallery) - Flutter 团队提供的材料设计小部件的演示.
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [5861⭐] - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz).
+- [Flutter Examples](https://github.com/nisrulz/flutter-examples) [5861⭐] - 开发者的简单基本隔离应用程序 [Nishant Srivastava](https://github.com/nisrulz).
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [1601⭐] - 展示 Flutter 组件，并排源代码视图，作者 [X-Wei](https://github.com/X-Wei).
 - [Generative Art](https://github.com/Solido/flutter-d-art) [401⭐] - Generative Art by [Robert Felker](https://github.com/Solido).
 
@@ -173,7 +178,7 @@
 
 #### Sliders
 
-- [RangeSlider](https://github.com/boeledi/RangeSlider) [318⭐] - 2-thumb 可配置 RangeSlider by [Didier Boelens](https://www.didierboelens.com).
+- [RangeSlider](https://github.com/boeledi/RangeSlider) [318⭐] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [262⭐] - 具有最小设计和流畅动画的滑块 [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [336⭐] - 一个材质设计滑块和范围滑块，水平和垂直，支持 RTL [Ali-Azmoud](https://github.com/Ali-Azmoud).
 
@@ -229,7 +234,7 @@
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [1178⭐] - 轮播滑块小部件，支持无限滚动和自定义子部件 [serenader](https://github.com/serenader2014).
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [238⭐] - 图像视差 [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [1478⭐] - 可扩展的图像视图，带有加载占位符 [Renan C. Araújo](https://github.com/renancaraujo).
-- [SVG](https://github.com/dnfield/flutter_svg) [1270⭐] - SVG 解析、渲染和小部件库 [Dan Field](https://github.com/dnfield).
+- [SVG](https://github.com/dnfield/flutter_svg) [1270⭐] - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield).
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [814⭐] - 裁剪图像支持比例、旋转、缩放 [HungHD](https://github.com/hnvn).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) [1911⭐] - 显示来自互联网的图像并将它们保存在缓存目录中.
 - [Lottie](https://github.com/xvrh/lottie-flutter) [665⭐] - 使用airbnb的热门 [After Effects Animation library](https://airbnb.design/lottie/) 经过 [xvrh](https://github.com/xvrh/lottie-flutter).
@@ -278,7 +283,7 @@
 - [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) [157⭐] - Apple 登录 [Tom Gilder](https://github.com/tomgilder).
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) [170⭐] - Buffer、Strava、Unsplash、Github OAuth 由 [Joe Birch](http://www.hitherejoe.com).
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  - 通过短信验证电话号码 [Gildásio Filho](https://github.com/gildaswise).
-- [SimpleAuth](https://github.com/Clancey/simple_auth) [314⭐] - Azure Active Directory、Amazon、Dropbox、Facebook、Github、Google、Instagram、Linked In、Microsoft Live Connect、Github、OAuth、Basic Auth [James Clancey](https://github.com/Clancey).
+- [SimpleAuth](https://github.com/Clancey/simple_auth) [314⭐] - Azure Active Directory、Amazon、Dropbox、Facebook、Github、Google、Instagram、Linked In、Microsoft Live Connect、Github、OAuth、Basic Auth by [James Clancey](https://github.com/Clancey).
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) [176⭐] - 提供 AppAuth iOS 和 Android SDK 包装的插件 [Michael Bui](https://github.com/MaikuB).
 
 
@@ -304,7 +309,7 @@
 
 - [GenLang](https://github.com/KingWu/gen_lang) [88⭐] - 国际化的代码生成器 [King Wu](https://github.com/KingWu).
 - [Flutter Translate](https://github.com/bratan/flutter_translate) [279⭐] - 国际化 (i18n) 库 [Florin Bratan](http://bratan.me).
-- [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc).
+- [attranslate](https://github.com/fkirc/attranslate) - ARB 或 JSON 文件的半自动翻译 [fkirc](https://github.com/fkirc).
 
 
 ### Styling

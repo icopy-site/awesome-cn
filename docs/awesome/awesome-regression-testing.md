@@ -8,7 +8,7 @@
 
 ## Foreword
 
-这是关于视觉回归测试的*不完整*资源列表. 它不是针对特定领域或角色（开发人员/QA/UX 设计师）量身定制的. 请注意，这适用于所有回归软件测试领域*在*有问题的代码被编写之后. 有关一般软件测试的精彩列表，请参见例如 [awesome-testing](https://github.com/TheJambo/awesome-testing).
+这是一个关于视觉回归测试的*不完整*资源列表. 它不是针对特定领域或角色（开发人员/QA/UX 设计师）量身定制的. 请注意，这适用于所有回归软件测试领域*在*编写相关代码之后. 有关一般软件测试的精彩列表，请参见例如 [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
 最后，我相信阅读此列表的每个人都有他们想要添加的一件事. 请阅读 [How to Contribute](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) 页面和**随意添加到列表中！！**. 如果您认为这对您有帮助**请给个星★**.
 
@@ -18,7 +18,6 @@
 
 - [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 - [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
-- [visualregressiontesting.com](https://visualregressiontesting.com/) - 链接的基本集合.
 
 ## Browser automation
 
@@ -34,7 +33,7 @@
 ## Tools and frameworks
 
 - [OSnap](https://github.com/eWert-Online/osnap) - 适用于您的项目的快速且易于使用的快照测试工具（1200 个快照将在 3 分钟内运行）.
-- [basset](https://basset.io)  - 用于生成和查看视觉差异的开源平台. 支持多个浏览器，集成 github 和 slack.
+- [basset](https://basset.io)  - 用于生成和查看视觉差异的开源平台. 支持多种浏览器，集成 github 和 slack.
 - [AyeSpy](https://github.com/newsuk/ayespy) - 90 秒内进行 44 次图像比较.
 - [Wraith](https://github.com/BBC-News/wraith) - 具有 docker 支持的易于使用的 ruby​​ 工具.
 - [BackstopJS](https://github.com/garris/BackstopJS) - 配置驱动的自动截图测试框架.
@@ -48,9 +47,9 @@
 - [Hardy](https://github.com/thingsinjars/Hardy) - 硒驱动、黄瓜驱动的 CSS 测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) - 现代 Web 开发堆栈的自动化浏览器测试.
 - [Needle](https://github.com/python-needle/needle) - Needle 是一种使用 Selenium 和鼻子 (Python) 测试视觉效果的工具.
-- [gatling](https://github.com/gabrielrotbart/gatling) - 集成的可视化 RSpec 匹配器，使真正的可视化测试变得容易 (Ruby).
+- [gatling](https://github.com/gabrielrotbart/gatling) - 集成视觉 RSpec 匹配器，使真正的视觉测试变得容易 (Ruby).
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - 插件通过您网站的截图照片会话来防止您的项目布局损坏.
-- [vrtest](https://github.com/nathanmarks/vrtest) - 用于通过 selenium 在跨浏览器组件上运行视觉回归测试的 JavaScript 库.
+- [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript 库，用于通过 selenium 在跨浏览器的组件上运行视觉回归测试.
 - [Happo](https://github.com/Galooshi/happo) - 用户界面的 CI 中的视觉差异.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - 输出易于阅读的单个文件 html 报告的可视化回归测试工具.
 - [Nightmare](https://github.com/segmentio/nightmare) - 基于 Electron 的高级浏览器自动化库.
@@ -62,7 +61,7 @@
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - 使用 Javascript 和 HTML5 分析和比较图像.
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - 使用 Chrome 的视觉回归测试框架 [Mocha](https://mochajs.org/) 和 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - 简单的视觉回归测试 [Ember](https://emberjs.com/).
-- [AET](https://github.com/Cognifide/aet) - 可扩展的测试工具，提供可视化回归测试、可访问性和性能验证、标记分析等.
+- [AET](https://github.com/Cognifide/aet) - 可扩展的测试工具，提供视觉回归测试、可访问性和性能验证、标记分析等.
 - [Wendigo](https://github.com/angrykoala/wendigo) - 基于 Puppeteer 的面向测试的浏览器自动化库.
 - [Loki](https://github.com/oblador/loki) - 在 docker 等人中使用 Chrome 对 Storybook 进行视觉回归测试.
 - [Zombie.js](http://zombie.js.org/) - 使用 Node.js 进行快速、无头的全栈测试.
@@ -71,6 +70,7 @@
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于 Node.js 并使用 Webdriver 协议的自动化测试和持续集成框架.
 - [Protractor](https://github.com/angular/protractor) - Angular 应用的 E2E 测试框架.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - 使用 Jest 和 puppeteer 对 React 组件进行视觉回归测试
+- [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - 使用执行图像比较的 Jest 匹配器 [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 - [test-crawler](https://github.com/apiel/test-crawler) - 视觉回归测试，通过抓取网站并提供快照比较报告.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - webdriver.io 的视觉回归工具
 - [Selenide](https://github.com/selenide/selenide) - 由 Selenium WebDriver 提供支持的框架，用于用 Java 编写易于阅读和易于维护的自动化测试.
@@ -79,7 +79,7 @@
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com)  - 开源免费. 支持 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-- [LambdaTest](https://www.lambdatest.com/) - 在线对 2000 多个真实浏览器和操作系统执行自动和实时交互式跨浏览器测试.
+- [LambdaTest](https://www.lambdatest.com/) - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.
 - [screener.io](https://screener.io) - 对于 React，看起来是开源的.
 - [applitools](https://applitools.com) - 基于云的视觉测试.
 - [percy.io](https://percy.io) - 对网络应用程序的持续视觉审查.
@@ -90,7 +90,7 @@
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - 在 1500 多个真实浏览器和移动设备上进行手动和探索性测试.
 - [Argos-CI](https://www.argos-ci.com) - 自动化视觉回归测试.
 - [Diffy](https://diffy.website)  - 基于云的视觉回归工具. 使用 puppeteer 和专有比较算法（检测布局偏移）.  AWS Lambda 具有出色的可扩展性.
-- [Chromatic](https://www.chromatic.com/)  - 组件库的可视化测试和 UI 审查. 基于云. [Video](https://youtu.be/6KDLJBcutQE)
+- [Chromatic](https://www.chromatic.com/)  - 组件库的视觉测试和 UI 审查. 基于云. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) - 灵活的视觉回归测试服务.
 - [Happo](https://happo.io/) - 基于云的屏幕截图测试服务，支持多种浏览器.
 - [Visual Knight](https://visual-knight.io/) - 基于云的可视化测试平台，为测试工具提供实时结果.
@@ -123,7 +123,7 @@
 
 ## Books
 
-- [Regression, a Friendly Guide](https://www.manning.com/books/regression-a-friendly-guide) - 使用线性和逻辑回归进行准确预测和揭示数据关系的友好、有趣的指南.
+- [Regression, a Friendly Guide](https://www.manning.com/books/regression-a-friendly-guide) - 使用线性和逻辑回归进行准确预测和揭示数据关系的友好、有趣指南.
 
 ## Slideshows, talks and videos
 
@@ -143,7 +143,7 @@
 - [PhantomJS](https://github.com/ariya/phantomjs)  - 可编写脚本的 Headless WebKit. 自 2018 年 6 月 2 日起不再维护.
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS)  - 使用 PhantomJS 或 SlimerJS 进行视觉/CSS 回归测试. 自 2017 年 12 月 22 日起不再维护.
 - [PhantomFlow](https://github.com/Huddle/PhantomFlow) - 基于决策树的 UI 测试实验方法.
-- [DalekJS](https://github.com/dalekjs/dalek)  - 使用 JavaScript 进行自动化跨浏览器测试. 自 2017 年 6 月 4 日起不再维护.
+- [DalekJS](https://github.com/dalekjs/dalek)  - 使用 JavaScript 进行自动跨浏览器测试. 自 2017 年 6 月 4 日起不再维护.
 - [dpxdt](https://github.com/bslatkin/dpxdt) - 使用 Python 进行端到端测试.
 - [Visual Review](https://github.com/xebia/VisualReview) - 用于测试和审查视觉回归的人性化工具.
 - [Huxley](https://github.com/facebookarchive/huxley) - 基于 Python 框架 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
@@ -171,4 +171,4 @@
 [![CC-BY-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 这项工作已获得许可 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-许可证持有人是 [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).
+执照持有人是 [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).

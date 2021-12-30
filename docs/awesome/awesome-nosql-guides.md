@@ -12,6 +12,7 @@ NoSQL 数据库的基本定义可以在维基百科上找到：
 [here](https://github.com/sindresorhus/awesome#databases),
 [here](https://hostingdata.co.uk/nosql-database/),
 [here](https://db-engines.com/en/ranking),
+[here](https://dbdb.io/),
 [here](https://github.com/igorbarinov/awesome-data-engineering#databases)， 或者
 [here](https://github.com/kahun/awesome-sysadmin#nosql) . 另外，不要与关系数据库管理系统混淆， [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
 
@@ -25,7 +26,7 @@ NoSQL 数据库的基本定义可以在维基百科上找到：
 - [NoSQL Distilled](https://martinfowler.com/books/nosql.html) - 描述不同 NoSQL 数据库并帮助您决定使用 NoSQL 数据库是否适合您的项目的非常易于理解且价格合理的书.
 - [Seven Databases in Song (1:43)](https://www.youtube.com/watch?v=jyx8iP5tfCI) - 2012 年关于七个（六个是 NoSQL）数据库的有趣歌曲，其中简要概述了每个数据库的工作原理.
 - [NoSQL Databases: a Survey and Decision Guidance (2016)](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d) - “这个 NoSQL 工具箱使我们能够推导出一个简单的决策树，以帮助从业者和研究人员根据中央应用程序需求过滤潜在的系统候选者”.
-- [Data Management in the Cloud: Limitations and Opportunities (PDF)](http://www.cs.umd.edu/~abadi/papers/abadi-cloud-ieee09.pdf) - Abadi (2009) 讨论了云中数据管理和数据分析的局限性和机会.
+- [Data Management in the Cloud: Limitations and Opportunities (PDF)](http://www.cs.umd.edu/~abadi/papers/abadi-cloud-ieee09.pdf) - Abadi (2009) 讨论了云中数据管理和数据分析的局限性和机遇.
 - [10 NoSQL Misconceptions](https://www.dummies.com/programming/big-data/10-nosql-misconceptions/) - 关于 NoSQL 数据库的一些误解与主题有关，例如它们是什么、ACID 合规性和安全性.
 - [10 Reasons Developers Love NoSQL](https://www.dummies.com/programming/big-data/10-reasons-developers-love-nosql/) - 开发人员喜欢使用 NoSQL 数据库的十个理由的列表.
 - [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems (PDF)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=90909)  - Gorton 和 Klein (2014) 论文讨论了在分发、数据和部署方面处理大数据系统时的软件工程问题. 也可访问 [here](https://doi.org/10.1109/MS.2014.51).
@@ -79,7 +80,7 @@ NoSQL 数据库的基本定义可以在维基百科上找到：
 
 ## Criticisms and Debates
 
-- [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) - 反对 NoSQL 数据库的九项批评，因为它们适用于 CouchDB，但也可能适用于其他数据库.
+- [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) - 反对对 NoSQL 数据库的九项批评，因为它们适用于 CouchDB，但也可能适用于其他数据库.
 - [Thank You For Your Help NoSQL, But We Got It From Here (2020)](https://web.archive.org/web/20200913032621/https://www.memsql.com/blog/why-nosql-databases-wrong-tool-for-modern-application/) - 考虑到可扩展性问题，NoSQL 数据库推动了数据库的发展，但现在 NewSQL 已经解决了这些问题（从 MemSQL 的角度来看）.
 - [The Five Stages Of NoSQL (2016)](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) - 挑选和使用反映悲伤的五个阶段的 NoSQL 数据库的阶段.
 - [The Biggest Challenges Of Moving To NoSQL (2017)](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) - 速度和可扩展性以及开发人员的喜悦是从迁移到 NoSQL 的挑战中获得的收益.

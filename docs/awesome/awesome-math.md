@@ -120,6 +120,7 @@
 * [Introduction to Logic](https://pdfs.semanticscholar.org/6967/f52773d9c2ccfc94658657a5761e0f00e95a.pdf) - Michael Genesereth, Eric Kao（斯坦福大学）
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - PD Magnus（奥尔巴尼大学）
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk（特伦特大学）
+* [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland（赫尔大学）
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - 乔恩·巴威斯，约翰·埃切门迪
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - 赫尔穆特·施威滕贝格
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson（宾夕法尼亚州立大学）
@@ -255,7 +256,7 @@
 ## Combinatorics
 
 * [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner（田纳西大学）
-* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔 T. 凯勒、威廉 T. 特罗特
+* [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔·T·凯勒、威廉·T·特罗特
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - 彼得·J·卡梅伦
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - 菲利普·弗拉乔莱、罗伯特·塞奇维克
 * [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) - 赫伯特威尔夫
@@ -326,7 +327,7 @@
 
 ### Real Analysis
 
-* [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. 链
+* [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) - G. 股
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - H. Jerome Keisler 教授
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - John K. Hunter（加州大学戴维斯分校）
 * [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench（德克萨斯州三一大学）
