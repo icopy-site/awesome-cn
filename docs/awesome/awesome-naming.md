@@ -56,7 +56,7 @@ Famously...
 
 ## Libraries and Frameworks
 
-- [clooney](https://github.com/GoogleChromeLabs/clooney)  - 一个 JavaScript 库，用于实现并发计算的 actor 模型. 这个词是指乔治克鲁尼，他也是一名演员.
+- [clooney](https://github.com/GoogleChromeLabs/clooney)  - 一个 JavaScript 库，用于实现并发计算的参与者模型. 这个词是指乔治克鲁尼，他也是一名演员.
 - [Puppeteer](https://github.com/puppeteer/puppeteer)  - 浏览器自动化库. 如果浏览器是木偶，这就是木偶操纵者.
 - [Uglify](https://github.com/mishoo/UglifyJS)  - 一个 JavaScript 压缩器. 删除所有使代码可读和漂亮的东西，使其更小.
 - [uppy](https://github.com/transloadit/uppy)  - 一个以狗为主题的上传组件. 该名称是 _upload_ 和 _puppy_ 的混合. 它甚至带有一个名为 _Golden Retriever_ 的崩溃恢复插件.
@@ -87,6 +87,11 @@ Famously...
 - [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) - 一个游戏世界，展示了非常简单的成分可以产生惊人的复杂性.
 - [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - 一个黑匣子，它甚至可以神奇地给出诸如停机问题之类的不可解释的问题的答案. 
 - [Pumping lemma](https://en.wikipedia.org/wiki/Pumping_lemma) - 事实上，在某些形式语言中，任何足够长的字符串都可以_泵送_其子字符串的重复，并且结果保持在相同的形式语言中.
+
+## Tools
+
+- [tldr](https://tldr.sh/) - 带有实际示例的简化手册页.
+- [yarn](https://yarnpkg.com/) - NodeJS 依赖管理器.
 
 ## Other
 

@@ -67,6 +67,7 @@
 - [PIX](https://raw.githubusercontent.com/deepmind/dm_pix) - PIX 是 JAX 中的图像处理库，用于 JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 - [bayex](https://raw.githubusercontent.com/alonfnt/bayex) - 由 JAX 提供支持的贝叶斯优化. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
 - [JaxDF](https://raw.githubusercontent.com/ucl-bug/jaxdf) - 具有任意离散化的可微模拟器框架. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
+- [tree-math](https://github.com/google/tree-math) - 将在数组上运行的函数转换为在 PyTrees 上运行的函数.
 
 <a name="models-and-projects" />
 
@@ -146,8 +147,8 @@
 
 <!--lint ignore awesome-list-item-->
 - [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - 描述 JAX 早期版本的白皮书，详细介绍了如何跟踪和编译计算.
-- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX、MD，这是一个可微物理库，其中包括模拟环境、交互势、神经网络等.
-- [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - Uses JAX's JIT and VMAP to achieve faster differentially private than existing libraries.
+- [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - 引入 JAX, MD，这是一个可微物理库，其中包括模拟环境、交互电位、神经网络等.
+- [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - 使用 JAX 的 JIT 和 VMAP 实现比现有库更快的差异私有化.
 <!--lint enable awesome-list-item-->
 
 <a name="tutorials-and-blog-posts" />

@@ -19,7 +19,7 @@
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合数据的技术、算法开发、数据干扰等多个方面来研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才. 这种模式在 1990 年代后期被搜索工程师重复使用，他们的精湛技能很快就被教授到计算机科学课程中._ |
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“宽客”. 在那些日子里，拥有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易获得的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的精湛技能很快就被教授到计算机科学课程中._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据专家，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是将成熟的统计学学科与非常年轻的学科——计算机科学结合起来的故事.  “数据科学”一词是最近才出现的，专门用来指代一个新的职业，该职业有望理解海量的大数据存储. 但是理解数据有着悠久的历史，多年来一直被科学家、统计学家、图书馆员、计算机科学家和其他人讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、定义和相关术语的尝试._ |
@@ -90,7 +90,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - k-均值
 - 支持向量机
 - 先验
-- EM
+- 在
 - 网页排名
 - AdaBoost
 - kNN
@@ -196,6 +196,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | --- | --- |
 | [The Data Science Lifecycle Process](https://github.com/dslp/dslp)  | 数据科学生命周期过程是一个将数据科学团队从创意到价值重复和可持续的过程. 该过程记录在此 repo 中 |
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template)  | 数据科学生命周期项目的模板库|
+| [RexMex](https://github.com/AstraZeneca/rexmex)  | 用于公平评估的通用推荐指标库.  |
+| [ChemicalX](https://github.com/AstraZeneca/chemicalx)  | 基于 PyTorch 的用于药物对评分的深度学习库.  |
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，带有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
@@ -409,7 +411,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
 - [datatau.com/news](http://www.datatau.com/news) - 像 Hacker News，但对于数据
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/topic/data-science) - 媒体上与数据科学相关的出版物
+- [Medium Data Science Topic](https://medium.com/topic/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) - 与遗传算法相关的关于数据科学的出版物
 
 ## Presentations
@@ -602,9 +604,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Sebastian's Blog](http://sebastianruder.com/#open) - NLP 和迁移学习的博客！
 - [Distill](http://distill.pub) - 致力于清晰解释机器学习！
 - [Chris Albon's Website](https://chrisalbon.com/) - 数据科学和人工智能笔记
-- [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - 数据科学与深奥的编程语言
+- [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - 进化算法博客
-- [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
+- [Jingles](https://jinglescode.github.io/) - 从学术论文中回顾和提取关键概念
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - 数据科学笔记本
 - [Deep and Shallow](https://deep-and-shallow.com/) - 数据科学中所有深浅不一的事物
 - [Loic Tetrel](https://ltetrel.github.io/) - 数据科学博客
@@ -679,7 +681,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程、移动、网络. 人工智能、智能机器人、机器学习、数据挖掘、自然语言处理、数据科学.  |
  | 马克史蒂文森 |  Salt (@SaltJobs) 的数据分析招聘专家分析 - 洞察 - 大数据 - 数据科学 |
 | [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师的意见，目前正在玩数据科学家. 偶尔的父亲，管理，有机园艺.  |
-| [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
+| [Matthew Russell](https://twitter.com/ptwobrussell) | Mining the Social Web. |
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify 的数据科学家，开发人员 |
 | [Monica Rogati](https://twitter.com/mrogati)  | 数据@Jawbone. 在 LinkedIn 上将数据转化为故事和产品. 文本挖掘、应用机器学习、推荐系统. 前游戏玩家，前机器编码员； 名字.  |
 | [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手.  vis 书籍作者：http://www.oreilly.com/pub/au/4419 |
@@ -692,7 +694,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
 | [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学极客@ UALR |
 | [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家、遗传折纸师、硬件爱好者 |
-| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验，因果推理，统计学，机器学习，经济学.  |
+| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
 | [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
 | [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子|
@@ -764,7 +766,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ## Competitions
 
-部分数据挖掘比赛平台
+Some data mining competition platforms
 
 - [Kaggle](https://www.kaggle.com/)
 - [DrivenData](https://www.drivendata.org/)

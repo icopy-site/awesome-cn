@@ -55,11 +55,11 @@
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - 这本书涵盖了密码学中不同任务的许多结构.
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - 现代密码学简介.
 - [Crypto101](https://www.crypto101.io/) - Crypto 101 是密码学的入门课程.
-- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - 学习构建在现实世界中工作的加密协议.
-- [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) - 本书旨在作为专业密码学家的参考.
+- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
+- [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - 本书旨在作为专业密码学家的参考.
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - 从现代计算机科学角度编写的密码学入门级处理.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于 OpenSSL 的书.
-- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 关于现代密码学（哈希、MAC 码、对称和非对称密码、密钥交换、椭圆曲线、数字签名）的开发人员友好的书籍，其中包含大量代码示例.
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 关于现代密码学（哈希、MAC 代码、对称和非对称密码、密钥交换、椭圆曲线、数字签名）的开发人员友好书籍，其中包含大量代码示例.
 - [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术来理解和应用系统和应用程序各个级别的安全性.
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）撰写了一本非凡的教科书.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) - A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson.
@@ -75,10 +75,10 @@
 - [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  - 本课程解释了密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性以及如何将这些知识应用到实际应用中.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
-- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 在本在线课程中，我们将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
+- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 本在线课程将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（例如密码、公钥或私钥）来保护私人或敏感信息免遭未经授权的访问.
 - [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - 密码学的入门但快节奏的本科/研究生课程，用于哈佛 CS 127.
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - 可汗学院的密码学课程.
-- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - 现代密码学的实践方面，2006 年冬季华盛顿大学 CSE.
+- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.
 - [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - 现代密码学简介、在实践中和在 Google 使用密码学、安全和安全定义的证明以及密码学中的一个专题.
 
 ### Other lists
@@ -132,7 +132,7 @@
 - [RHash](https://github.com/rhash/RHash) - 计算散列和的强大工具.
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - C 中的小型便携式 AES128.
-- [wolfSSL](https://github.com/wolfSSL/wolfssl) - 小型、快速、可移植的 TLS/SSL 实现，用于嵌入式设备到云端.
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - 小型、快速、可移植的 TLS/SSL 实现，用于嵌入式设备到云.
 - [XKCP](https://github.com/XKCP/XKCP) — 是一个存储库，收集由 Keccak 团队定义的加密方案的不同免费和开源实现.
 - [xxHash](https://github.com/Cyan4973/xxHash) - 极快的哈希算法.
 
@@ -164,7 +164,7 @@
 
 - [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - 常用密码功能的集合.
 - [ironclad](http://method-combination.net/lisp/ironclad/) - 常见加密快捷方式的集合.
-- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
+- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - Common Lisp 的 SSH 客户端库（基于 libssh2）.
 
 ### Delphi
 
@@ -260,7 +260,7 @@
 - [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt 是 OpenBSD Blowfish 密码散列的实现
 algorithm.
 - [Keycloak](https://github.com/keycloak/keycloak) - 现代应用程序和服务的开源身份和访问管理.
-- [keywhiz](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
+- [keywhiz](https://github.com/square/keywhiz) - 用于分发和管理机密的系统.
 - [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
 - [Password4j](https://github.com/Password4j/password4j) - 一个 Java 用户友好的加密库，用于使用不同的密钥派生函数 (KDF) 和加密哈希函数 (CHF) 对密码进行散列和检查.
 - [Project Kalium](http://abstractj.github.io/kalium/) - Java 绑定到网络和密码学 (NaCl) 库以及 libsodium 的强大功能.
@@ -327,11 +327,13 @@ algorithm.
 
 ### Rust
 
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - 是 BLAKE3 加密哈希函数的官方 Rust 和 C 实现.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
 - [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 加密库，它很难被误用，符合人体工程学，并且性能良好.
 - [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互认证的 Rust 库.
 - [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
 - [proteus](https://github.com/wireapp/proteus) - Axolotl 协议实现，没有标题键，在 Rust 中.
+- [rage](https://github.com/str4d/rage) - 是一种简单、现代且安全的文件加密工具，使用年龄格式. 
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - 一个纯 Rust 库，它实现了用于构建多跳代理重新加密方案的加密原语，称为转换加密.
 - [ring](https://github.com/briansmith/ring) - 使用 Rust &amp; BoringSSL 的密码学原语的安全、快速、小型加密.
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) - 主要是各种加密算法的纯 Rust 实现.

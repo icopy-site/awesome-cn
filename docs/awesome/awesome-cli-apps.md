@@ -195,7 +195,7 @@
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
 - [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
 - [googler](https://github.com/jarun/googler) - 从终端谷歌.
-- [papis](http://github.com/alejandrogallo/papis) - 可扩展的文档和书目管理器.
+- [papis](https://github.com/papis/papis) - 可扩展的文档和书目管理器.
 
 ### Time Tracking
 
@@ -298,7 +298,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面壁纸.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器、终端、墙纸、Slack 等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为墙纸.
-- [pywal](https://github.com/dylanaraps/pywal) - 生成和更改配色方案，然后在系统范围内将它们应用于您喜欢的所有程序.
+- [pywal](https://github.com/dylanaraps/pywal) - 生成和更改配色方案，然后将它们在系统范围内应用于您喜欢的所有程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
 - [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
