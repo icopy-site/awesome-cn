@@ -7,13 +7,13 @@
 如果你想贡献，请先阅读 [CONTRIBUTING.md][contributing].
 它包含许多提示和指南，可帮助您保持井井有条.
 只需单击 [README.md][editreadme] 即可提交 [拉取请求][editreadme].
-If this list is not complete, you can [contribute][editreadme] to make it so. Here is a great video tutorial to learn how to [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github).
+如果此列表不完整，您可以[贡献][editreadme] 使其完整. 这是一个很棒的视频教程，可以学习如何 [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github).
 
 **_你可以看到更新 [TWITTER](https://twitter.com/awesome_docker)_**
 
  &gt; **请**，帮助组织这些资源，以便新人_容易找到_和_理解_. 查看如何 **[Contribute][contributing]** 获取提示！
 
- **_如果您在此处看到的链接（不再）适合，您可以通过提交 [pull request][editreadme] 来修复它以改进此文件. 谢谢！_**
+ **_如果您在这里看到的链接（不再）适合，您可以通过提交 [pull request][editreadme] 来修复它以改进此文件. 谢谢！_**
 
 此列表的创建者和维护者不会收到任何形式的付款来接受任何贡献者所做的更改. 该页面在任何方面都不是官方的 Docker 产品. 它是一个项目链接列表，由志愿者维护. 欢迎大家踊跃投稿. 这个 repo 的目标是索引开源项目，而不是为了盈利而做广告.
 
@@ -155,7 +155,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Logspout](https://github.com/gliderlabs/logspout) - Docker 容器日志的日志路由 [@gliderlabs][gliderlabs]
 - [monit-docker](https://github.com/decryptus/monit-docker)  - 监控 docker 容器资源使用情况或状态并执行 docker 命令或在容器内执行.  [@decryptus][解密]
 - [NexClipper](https://github.com/NexClipper/NexClipper) - NexClipper 是专门针对 Docker、Apache Mesos、Marathon、DC/OS、Mesosphere、Kubernetes 的容器监控和性能管理解决方案，由 [@Nexclipper](https://github.com/NexClipper)
-- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  - 开箱即用的 Docker 主机和容器监控、日志记录和警报，使用 cAdvisor、Prometheus、Grafana 进行监控，使用 Elasticsearch、Kibana 和 Logstash 进行日志记录以及使用 elastalert 和 Alertmanager 进行警报.  5 分钟内完成设置. 用于生产的安全模式，内置 [Automated Nginx Reverse Proxy (jwilder&#39;s)][nginxproxy].
+- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  - 开箱即用的 Docker 主机和容器监控、日志记录和警报，使用 cAdvisor、Prometheus、Grafana 进行监控，使用 Elasticsearch、Kibana 和 Logstash 进行日志记录，使用 elastalert 和 Alertmanager 进行警报.  5 分钟内完成设置. 用于生产的安全模式，内置 [Automated Nginx Reverse Proxy (jwilder&#39;s)][nginxproxy].
 - [SuperVisor CPM](https://t0xic0der.medium.com/simply-accessible-container-performance-monitoring-with-supervisor-7fb47f925f3b) [Frontend Service](https://github.com/t0xic0der/supervisor-frontend-service/) 和 [Driver Service](https://github.com/t0xic0der/supervisor-driver-service/) :construction: - A simple 和 accessible FOSS container performance monitoring service written in Python by [@t0xic0der](https://github.com/t0xic0der/)
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) - 监控 Docker Swarm 并在发现没有运行健康服务任务的容器时发送 Pushover 警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  - Zabbix 模块，提供正在运行的容器、CPU/内存/blk IO/net 容器指标的发现. 还支持 Systemd Docker 和 LXC 执行驱动程序. 它是一个动态链接的共享对象库，因此它的性能比任何脚本解决方案都要好（~10 倍）.
@@ -311,7 +311,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer 通过以下方式帮助您开始使用在 Docker 中运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
 - [docui](https://github.com/skanehira/docui)  - 用于管理 Docker 容器的交互式 shell UI. 也适用于 Windows. 由 [@skanehira]
 - [dry](https://github.com/moncho/dry) - Docker 容器的交互式 CLI [@moncho](https://github.com/moncho)
-- [lazydocker](https://github.com/jesseduffield/lazydocker)  - 管理一切 docker 的懒惰方式. 一个简单的 docker 和 docker-compose 终端用户界面，用 gocui 库用 Go 编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
+- [lazydocker](https://github.com/jesseduffield/lazydocker)  - 管理一切 docker 的懒惰方式. 一个简单的 docker 和 docker-compose 终端 UI，用 Go 语言编写，使用 gocui 库. 经过 [@jesseduffield](https://github.com/jesseduffield)
 - [sen](https://github.com/TomasTomecek/sen) - :skull: docker 引擎的终端用户界面，作者 [@TomasTomecek][tomastomecek]
 
 ##### CLI tools
@@ -375,7 +375,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [autodock](https://github.com/prologic/autodock) - Docker 自动化守护进程 [@prologic](https://github.com/prologic)
 - [Chaperone](https://github.com/garywiz/chaperone)  - 为 docker 容器设计的单个 PID1 进程. 用户管理、日志管理、启动、僵尸收割，都在一个小包中. 经过 [@garywiz](https://github.com/garywiz)
 - [ckron](https://github.com/nicomt/ckron) - 用于 docker 的 cron 式作业调度程序，由 [@nicomt](https://github.com/nicomt)
-- [CoreOS][coreos] - 用于大规模服务器部署的 Linux
+- [CoreOS][coreos] - Linux for Massive Server Deployments
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 以语言为中心的 docker 图像，减去操作系统，由 [@GoogleContainerTools][googlecontainertools]
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - [@gliderlabs][gliderlabs] 使用 Alpine Linux 的超小型 Docker 基础映像 _(5MB)_
 - [docker-gen](https://github.com/jwilder/docker-gen) - 通过 [@jwilder][jwilder] 从 docker 容器元数据生成文件
@@ -463,13 +463,14 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 用于安全存储 Docker 映像的服务.
 
-- [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) - Amazon EC2 Container Registry (ECR) 是一个完全托管的 Docker 容器注册表，可让开发人员轻松存储、管理和部署 Docker 容器映像.
+- [Amazon Elastic Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) - Amazon Elastic Container Registry (ECR) 是一个完全托管的 Docker 容器注册表，可让开发人员轻松存储、管理和部署 Docker 容器映像.
 - [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/services/container-registry/) - 将 Docker 私有注册表作为一流的 Azure 资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  - 用于在裸机或云上运行 Docker 引擎的基本操作系统. 经过 [@RedCoolBeans](https://github.com/RedCoolBeans)
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - 从实现 API v2 的 Docker Registry 中删除图像清单的小工具，通过以下方式为 GC 取消引用它们 [@hcguersoy](https://github.com/hcguersoy)
 - [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/)  - 完全托管的包管理 SaaS，为公共和私有 Docker 注册表（以及许多其他注册表）提供一流的支持，包括 Kubernetes 生态系统的 Helm 图表. 有一个慷慨的免费层，并且对于开源也是完全免费的.
 - [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/) - Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) - 裸机容器托管.
+- [DigitalOcean :heavy_dollar_sign:](https://www.digitalocean.com/products/container-registry/) - DigitalOcean 容器注册表.
 - [Dist :heavy_dollar_sign:](https://www.dist.cloud/product/container-registry/) - 基于私有云的 Docker 容器注册表
 - [Docker Hub](https://hub.docker.com/) 由 Docker Inc. 提供.
 - [Docker Registry v2][distribution] - 用于打包、运送、存储和交付内容的 Docker 工具集
@@ -619,7 +620,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [CodeShip](https://www.cloudbees.com/products/codeship) :heavy_dollar_sign: - 使用您已建立的 Docker 工作流程，同时使用我们致力于速度和安全性的托管平台自动化您的测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) :heavy_dollar_sign: - 面向开发人员和 DevOps 团队管道的 CI SaaS 平台.
 - [Semaphore CI](https://semaphoreci.com/) :heavy_dollar_sign: — 一种高性能云解决方案，可以轻松构建、测试容器并将其运送到生产环境.
-- [Shippable](https://app.shippable.com/) :heavy_dollar_sign: - A SaaS platform for developers and DevOps teams that significantly reduces the time taken for code to be built, tested and deployed to production.
+- [Shippable](https://app.shippable.com/) :heavy_dollar_sign: - 面向开发人员和 DevOps 团队的 SaaS 平台，可显着减少构建、测试和部署代码所需的时间.
 - [TravisCI](https://travis-ci.org/) :heavy_dollar_sign: - 一个免费的 github 项目，面向开发人员和 Devops 的持续集成 Saas 平台.
 
 ### CaaS
@@ -720,7 +721,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Contributing to Docker by Andrew "Tianon" Page (InfoSiftr)](https://www.youtube.com/watch?v=1jwo8-1HYYg) (34:31)
 - [Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic](https://www.youtube.com/watch?v=GpHMTR7P2Ms) (3:11:06) 由 [@jpetazzo][jpetazzo]
 - [Docker and SELinux by Daniel Walsh from Red Hat](https://www.youtube.com/watch?v=zWGFqMuEHdw) (40:23)
-- [Docker Course](https://www.youtube.com/watch?v=UZpyvK6UGFo) （西班牙语）由 [@pablokbs](https://github.com/pablokbs)
+- [Docker Course](https://www.youtube.com/watch?v=UZpyvK6UGFo) (Spanish) by [@pablokbs](https://github.com/pablokbs)
 - [Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) (54:26) by [@jpetazzo][jpetazzo] &lt;== 很好的介绍、背景、演示
 - [Docker from scratch](https://www.youtube.com/playlist?list=PLLhEJK7fQIxD-btrjrqdEfQHbkZnQrmqE) (1:22:01) 在 YouTube 上由巴黎 Nakita 天皇
 - [Docker: How to Use Your Own Private Registry](https://www.youtube.com/watch?v=CAewZCBT4PI) (15:01)
@@ -811,7 +812,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [sindresorhus]：https://github.com/sindresorhus/awesome
 [spotify]：https://github.com/spotify
 [tomastomecek]：https://github.com/TomasTomecek
-[vegasbrianc]：https://github.com/vegasbriac
+[vegasbriac]：https://github.com/vegasbriac
 [编织]：https://github.com/weaveworks/weave
 [VMWare]：https://github.com/vmware
 [@byrnedo]：https://github.com/byrnedo

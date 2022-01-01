@@ -120,7 +120,7 @@
 
 ## Books
   1. [Async Remote](https://products.arkency.com/async-remote/).
-     作者：Robert Pankowecki 和 Andrzej Krzywda（阿肯色州），2014 年.
+     by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
   1. [Distributed Teams](https://oduinn.com/book/).
      作者：John O&#39;Duinn，2018 年.
   1. [Remote: Office Not Required](https://37signals.com/remote).
@@ -189,10 +189,11 @@
   1. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找 Vue.js 工作 - 单击“远程”选项卡.
   1. [React.js Jobs](https://www.react-jobs.com) 在世界各地查找 React.js 工作 - 单击“远程”切换按钮.
   1. [Remote.com](https://remote.com) - 尝试自动为您匹配工作，可以从 LinkedIn 导入个人资料
-  1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  1. [We Work Remotely](https://weworkremotely.com/)
-  1. [Workana](https://www.workana.com/) 西班牙语和葡萄牙语的自由职业委员会
-  1. [Working Nomads](https://www.workingnomads.co/jobs)
+  2. [Web3Jobs](https://web3.career/remote-jobs) - 远程 Web3 工作
+  3. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+  4. [We Work Remotely](https://weworkremotely.com/)
+  5. [Workana](https://www.workana.com/) 西班牙语和葡萄牙语的自由职业委员会
+  6. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/)  - 通过监控超过 150,000 家公司的职业页面，提供最广泛的远程技术工作选择. 全文搜索和人工智能驱动的地理过滤器. 免费，无需注册.
@@ -246,10 +247,10 @@
   3. [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - 带有共享编辑器、代码编译器和视频会议的远程结对编程面试工具
   4. [interviewing.io](https://interviewing.io/) - 在技术面试中表现出色
   5. [karat.io](https://karat.com/) - 与专业面试官进行免费练习编码面试
-  6. [pramp](https://pramp.com) - 与其他候选人练习编码面试（表格的两边）
+  6. [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
   7. [remoteinterview.io](https://www.remoteinterview.io/) - 编码测试和结对编程面试工具
   8. [skillmeter.com](https://skillmeter.com/) - 招聘人员和公司的在线技能测试平台
-  9. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
+  9. [hackerrank.com](https://www.hackerrank.com/) - 代码学习和招聘的在线平台也提供工作机会
   10. [Codility](https://www.codility.com/) - 提供赞助挑战的在线平台
 
 ## Events
@@ -371,7 +372,7 @@
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](https://www.healthfinch.com/careers)  - 提高医疗保健系统的可用性. 总部位于美国威斯康星州麦迪逊市. 红宝石，JavaScript.
   1. [Heap](https://heapanalytics.com/careers/jobs) – 网络和移动分析，我们 8 位队友中有 2 位是远程的.
-  1. [Heetch](https://jobs.heetch.com)  – 在欧洲和非洲运营的叫车服务. 在欧洲或类似时区完全远程. 去吧，AWS.
+  1. [Heetch](https://jobs.heetch.com) – Ride Hailing service, operating in Europe and Africa. Fully Remote across Europe or similar timezones. Go, AWS.
   1. [Help Scout](https://www.helpscout.net/careers/) - 为坚持令人愉快的客户体验的团队提供的帮助台.
   1. [Heroku](https://www.heroku.com/careers) - PaaS 云，让开发者的体验很棒，Ruby、Erlang、JavaScript、Golang、Python.
   1. [Honeybadger](https://www.honeybadger.io/)  - 红宝石.  100% 远程.
@@ -482,7 +483,7 @@
   27. [Surge](https://www.surgeforward.com/careers/) - 100% 远程咨询公司，主要在 Node.JS、iOS、.NET、PHP 和 Android 上工作
   28. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote)  - Square 帮助数百万卖家开展业务——从安全的信用卡处理到销售点解决方案. 产品：Square 和 Cash App.
   29. [Sysdig Cloud](https://sysdig.com/jobs/)
-  30. [Taskade](https://www.taskade.com/contact/) - 远程团队构建实时协作和团队协作编辑.
+  30. [Taskade](https://www.taskade.com/contact/) - 远程团队建设实时协作和团队协作编辑.
   31. [TaxJar](https://www.taxjar.com/jobs/) - 消除销售税难题.
   32. [Teamed.io](https://www.teamed.io/)
   33. [TeamSnap](https://www.teamsnap.com/about/careers)  - TeamSnap 是排名第一的在线运动队管理软件.  80% 远程员工
@@ -586,7 +587,7 @@
   1. [EasyRetro](https://easyretro.io) - EasyRetro 是分布式团队的回顾性在线板.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - 聆听维基百科最近更改提要的声音.
   1. [Noisli](https://www.noisli.com/) - Noisli 有一系列不同的环境声音，可以组合起来提高创造力和注意力.
-  1. [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
+  1. [musicforprogramming.net](https://musicforprogramming.net/) - `返回&#39;一系列用于聆听的混音，而&#39;+任务+&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.&#39;;`
   1. [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈 (Mac).
   1. [Miro](https://miro.com) (fka Realtime Board) - 分布式永久虚拟白板.
   1. [Teleport Sundial](https://sundial.teleport.org) - 管理分布式团队的位置和时区.

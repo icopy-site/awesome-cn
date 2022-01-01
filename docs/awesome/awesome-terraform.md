@@ -83,7 +83,7 @@
 
 ### Multi-Environment Configuration
 
-- [Terraform Design Patterns: the Terrafile](http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/) - Managing Terraform modules and their versions within Terraform projects with Terrafile.
+- [Terraform Design Patterns: the Terrafile](http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/) - 使用 Terrafile 在 Terraform 项目中管理 Terraform 模块及其版本.
 - [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - 在具有多个环境的大型项目中使用 Terraform 的一些问题以及如何避免它们.
 - [Using Pipelines to Manage Environments with Infrastructure as Code](https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5) - 解释了构建管道以处理从一个环境转移到另一个环境的基础设施变化的不同方法.
 
@@ -135,13 +135,13 @@
 - [terraform-aws-managed-service-prometheus](https://github.com/clowdhaus/terraform-aws-managed-service-prometheus) - 在 AWS 上为 Prometheus (AMP) 资源创建 AWS 托管服务.
 - [terraform-aws-modules](https://github.com/terraform-aws-modules) - 社区支持的 Terraform AWS 模块集合（包括官方 AWS 模块）.
 - [terraform-aws-msk-kafka-cluster](https://github.com/clowdhaus/terraform-aws-msk-kafka-cluster) - 在 AWS 上创建 AWS MSK（Kafka 托管流）资源.
-- [terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - Creates SNS topic and Lambda function which sends notifications to Slack.
+- [terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) - 创建向 Slack 发送通知的 SNS 主题和 Lambda 函数.
 - [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - 在 RDS 上创建 PostgreSQL.
 - [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - 在 AWS 上创建 RDS 资源（经过验证的模块）.
 - [terraform-aws-rds-aurora](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora) - 在 AWS 上创建 RDS Aurora 集群资源（经过验证的模块）.
 - [terraform-aws-rds-proxy](https://github.com/clowdhaus/terraform-aws-rds-proxy) - 在 AWS 上创建 AWS RDS 代理资源.
 - [terraform-aws-redshift](https://github.com/terraform-aws-modules/terraform-aws-redshift) - 在 AWS 上创建 Redshift 资源.
-- [terraform-aws-route53](https://github.com/terraform-aws-modules/terraform-aws-route53) - Creates Route53 resources on AWS.
+- [terraform-aws-route53](https://github.com/terraform-aws-modules/terraform-aws-route53) - 在 AWS 上创建 Route53 资源.
 - [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - 使用基于 CIS Amazon Web Services Foundations 的安全基线配置设置您的 AWS 账户.
 - [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - 在 AWS 上创建 EC2-VPC 安全组（经过验证的模块）.
 - [terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) - Terraform 计划将 ssh 堡垒部署为 AWS 上的无状态服务.
@@ -210,7 +210,7 @@
 
 ## Testing
 
-- [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - 提供一组 Test Kitchen 插件，使系统能够使用 Test Kitchen 收敛 Terraform 配置并使用 InSpec 控件验证生成的 Terraform 状态.
+- [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls.
 - [rspec-terraform](https://github.com/bsnape/rspec-terraform) - Terraform 模块的 RSpec 测试.
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - Terraform 文件的 BDD 测试.
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - 协助在 Terraform 中执行用户定义的标准.
@@ -235,20 +235,20 @@
 - [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML 到 Terraform HCL 转换器.
 - [KICS](https://github.com/Checkmarx/kics)  - 扫描 IaC 项目的安全漏洞、合规性问题和基础设施配置错误. 目前正在处理 Terraform 项目、Kubernetes 清单、Dockerfiles、AWS CloudFormation 模板和 Ansible 剧本.
 - [Infracost](https://github.com/infracost/infracost) - CLI 和拉取请求中 Terraform 的云成本估算.
-- [inframap](https://github.com/cycloidio/inframap) - 阅读您的 tfstate 或 HCL 以生成特定于每个提供程序的图表，仅显示最重要/最相关的资源.
+- [inframap](https://github.com/cycloidio/inframap) - 阅读您的 tfstate 或 HCL 以生成特定于每个提供商的图表，仅显示最重要/最相关的资源.
 - [json2hcl](https://github.com/kvz/json2hcl)  - 将 JSON 转换为 HCL，反之亦然.  ：鬼：
 - [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - 基础设施作为代码生成器从使用创建的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到地形.
 - [para](https://github.com/paraterraform/para)  - 缺少的第 3 方插件管理器和用于 Terraform/Terragrunt 的“瑞士军刀” - 仅 1 个工具可以促进所有工作流程.  ：颅骨：
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - 预先提交 git hooks 来处理 Terraform 配置（自动格式化、验证、更新文档）.
 - [pretf](https://github.com/raymondbutcher/pretf)  - 使用 Python 生成 Terraform 配置的嵌入式 Terraform 包装器. 看 [pretf documentation](https://pretf.readthedocs.io/en/latest/)
 - [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自 Github 的外部模块以在 Terraform 中使用.
-- [prettyplan](https://github.com/chrislewisdev/prettyplan)  - Prettyplan（[此处在线提供] (https://chrislewisdev.github.io/prettyplan/)）是一个小工具，可帮助您轻松查看大型 Terraform 计划.  ：鬼：
+- [prettyplan](https://github.com/chrislewisdev/prettyplan) - 漂亮计划（[available online here](https://chrislewisdev.github.io/prettyplan/) ) 是一个小工具，可帮助您轻松查看大型 Terraform 计划.  ：鬼：
 - [regula](https://github.com/fugue/regula) - 在部署之前针对潜在的 AWS、Azure 和 Google Cloud 安全配置错误和合规性违规评估 Terraform 基础设施即代码.
 - [rover](https://github.com/im2nguyen/rover) - 交互式 Terraform 状态和配置浏览器.
 - [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - 用于调用 terraform 命令的简单 Ruby 包装器.
 - [scenery](https://github.com/dmlittle/scenery)  - 另一个 Terraform 计划输出美化器.  ：鬼：
 - [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - 帮助模块开发的简单 Python 工具 - 从 `main.tf` 中提取变量以生成 `variables.tf` 并从 `variables.tf` 制作模块使用存根.
-- [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf 是一个自以为是的开源框架，用于使用 Terraform 在 AWS 上开发、构建、部署和保护无服务器应用程序和基础设施. [Read more](https://github.com/antonbabenko/serverless.tf).
+- [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more](https://github.com/antonbabenko/serverless.tf).
 - [Shisho](https://github.com/flatt-security/shisho) - Terraform 的轻量级静态分析器.
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Ansible 和 Terraform 的强大功能 + Docker Swarm 的简单性 = 基础设施即代码和 DevOps 最佳实践.
 - [tau](https://github.com/avinor/tau) - Tau 是 terraform 之上的一个瘦包装器，用于管理多个部署、依赖项和机密.
@@ -299,7 +299,7 @@
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem 为运行 Hashicorp Terraform 提供 rake 任务.
 - [tgf](https://github.com/coveo/tgf) - Terragrunt 前端，用于通过 Docker 执行 Terragrunt/Terraform.
 - [xterrafile](https://github.com/devopsmakers/xterrafile) 从模块注册表、git 或本地目录系统地管理外部模块以在 Terraform 中使用（用 Go 编写）.
-- [yor](https://github.com/bridgecrewio/yor) - 自动将基础设施标记和跟踪为代码框架（Terraform、Cloudformation 和 Serverless）.
+- [yor](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation and Serverless) .
 
 ## Libraries
 

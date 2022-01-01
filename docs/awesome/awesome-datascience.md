@@ -381,6 +381,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [jqplot](http://www.jqplot.com/)
 - [Matplotlib](http://matplotlib.org/)
 - [nvd3](http://nvd3.org/)
+- [Netron](https://github.com/lutzroeder/netron)
 - [Opendata-tools](http://opendata-tools.org/en/visualization/)
 - [Openrefine](http://openrefine.org/)
 - [plot.ly](https://plot.ly/)
@@ -694,7 +695,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
 | [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学极客@ UALR |
 | [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家、遗传折纸师、硬件爱好者 |
-| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
+| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验，因果推理，统计学，机器学习，经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
 | [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
 | [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子|

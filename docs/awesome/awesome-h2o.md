@@ -56,11 +56,11 @@
 - [Depression Level Prediction in People with Parkinson’s Disease during the COVID-19 Pandemic](https://embc.embs.org/2021/)) Hashneet Kaur, Patrick Ka-Cheong Poon, Sophie Yuefei Wang, Diane Myung-kyung Woodbridge. (2021)
 - [Machine Learning-based Meal Detection Using Continuous Glucose Monitoring on Healthy Participants: An Objective Measure of Participant Compliance to Protocol](https://embc.embs.org/2021/) 维克多·帕拉西奥斯、黛安·明京·伍德布里奇、让·L·弗莱.  (2021)
 - [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna、Joel Bernanke、Kakyeong Kim、Natalie Aw、Jordan D. Dworkin、Jiook Cha、Jonathan Posner (2021).
-- [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) 阿尔贝托·萨托里、毛罗·波达、埃曼纽尔·博泰里、罗伯托·帕塞拉、费迪南多·阿格雷斯塔、阿尔贝托·阿雷佐.  (2021) 
+- [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) 阿尔贝托·萨托里、毛罗·波达、埃曼纽尔·博泰利、罗伯托·帕塞拉、费迪南多·阿格雷斯塔、阿尔贝托·阿雷佐.  (2021) 
 - [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf) 沙菲乌拉·库雷希、巴楚、范妮·S·德默斯.  (2021)
 - [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321)  Nussaïbah B. Raja、Andreas Lauchstedt、John M. Pandolfi、Sun W. Kim、Ann F. Budd、Wolfgang Kiessling.  (2021)
 - [Machine Learning as a Tool for Improved Housing Price Prediction](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2739783/masterthesis.pdf?sequence=1)  Henrik I W. Wolstad 和 Didrik Dewan.  (2020)
-- [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) 蒂莫西 J. 马奎尔，斯科特 OC 蒙德尔.  (2020)
+- [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) 蒂莫西·J·马奎尔，斯科特·OC·蒙德尔.  (2020)
 - [Predicting Risk of Delays in Postal Deliveries with Neural Networks and Gradient Boosting Machines](https://www.diva-portal.org/smash/get/diva2:1467609/FULLTEXT01.pdf) 玛蒂尔达·瑟德霍尔姆.  (2020)
 - [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  马尔卡·塔克勒.  (2020)
 - [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf) . 艾琳·勒戴尔、塞巴斯蒂安·波瓦里尔 (2020)
@@ -72,13 +72,13 @@
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970) 费尔南多·伊塔诺、里卡多·皮雷斯、米格尔·安杰洛·德·阿布雷乌·德·索萨、埃米利奥·德尔-莫拉尔-埃尔南德萨.  (2019)
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)  费尔南多·伊塔诺、米格尔·安杰洛·德·阿布雷乌·德·索萨、埃米利奥·德尔-莫拉尔-埃尔南德斯.  (2018)
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B. Auffenberg、Khurshid R. Ghani、Shreyas Ramani、Etiowo Code、Brian Denton、Craig Rogers、Benjamin Stockton、David C. Miller、Karandeep Singh.  (2018)
-- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato、Christophe Dutang 和 Leonardo Petrini.  (2018)
+- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf) 乔治·阿尔弗雷多·斯皮迪卡托、克里斯托夫·杜唐和莱昂纳多·佩特里尼.  (2018)
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940) 尤里·科丘拉、谢尔吉·斯蒂连科、尤里·戈尔迪延科.  (2017)
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14) 安德烈斯·阿雷瓦洛、海梅·尼诺、德国人埃尔南德斯、哈维尔·桑多瓦尔、迭戈·莱昂、阿尔贝·阿拉贡.  (2017)
 - [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407)  Jacob W. Kamminga、Helena C. Bisby、Duc V. Le、Nirvana Meratnia、Paul JM Havea.  (2017)
 - [Soil nutrient maps of Sub-Saharan Africa: assessment of soil nutrient content at 250 m spatial resolution using machine learning](https://link.springer.com/content/pdf/10.1007%2Fs10705-017-9870-x.pdf)  Tomislav Hengl、Johan GB Leenaars、Keith D. Shepherd、Markus G. Walsh、Gerard BM Heuvelink、Tekalign Mamo、Helina Tilahun、Ezra Berkhout、Matthew Cooper、Eric Fegraus、Ichsani Wheeler、Nketia A. Kwabena.  (2017)
 - [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf) Kara E. Rudolph, Oleg Sofrygin, Wenjing Zheng, and Mark J. van der Laan. (2017)
-- [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641) 文森特·多里、詹妮弗·希尔、乌里·沙利特、马克·斯科特、丹·塞沃内.  (2017)
+- [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641) 文森特·多瑞、詹妮弗·希尔、乌里·沙利特、马克·斯科特、丹·塞沃内.  (2017)
 - [Using deep learning to predict the mortality of leukemia patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf) 瑞娜·肖·穆塔拉利.  (2017)
 - [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable) 劳拉·艾西翁、戴安娜·凯尔曼斯基、马克·范德兰、伊桑·萨克、德肖纳·琼斯、斯蒂芬·阿恩德.  (2017)
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf) 詹尼斯·蒂曼、约翰内斯·皮尔曼、克里斯蒂安·维特菲尔德.  (2017)
@@ -116,11 +116,12 @@
 
 ## Software
 
-- [modeltime.h2o R package](https://business-science.github.io/modeltime.h2o/)：使用 H2O AutoML 进行预测
+- [modeltime.h2o R package](https://business-science.github.io/modeltime.h2o/): 使用 H2O AutoML 进行预测
 - [Evaporate](https://github.com/ML4LHS/Evaporate) ：通过 Javascript 在浏览器中运行 H2O 模型. 更多信息 [here](https://twitter.com/kdpsinghlab/status/1367992786239242248).
 - [splash R package](https://github.com/ML4LHS/splash) ：将用户界面泼到 H2O MOJO 文件上. 更多信息 [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 - [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip)：用于将 h2o 算法与 [parsnip](https://parsnip.tidymodels.org/) 包裹.
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
+- [Forecast the US demand for electricity](https://github.com/RamiKrispin/USelectricity): 实时 [dashboard](https://ramikrispin.github.io/USelectricity/) 美国电力需求（使用 H2O GLM 预测）
 
 ## License
 
