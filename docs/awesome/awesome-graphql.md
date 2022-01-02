@@ -37,7 +37,7 @@
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 小组讨论、文章和知识共享.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
-- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题和解答. 使用标签`graphql`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题与解答. 使用标签`graphql`.
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共 GraphQL API 的集合列表.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - 有趣且信息丰富的 GraphQL 内容和讨论的 Subreddit.
 - [GraphQL Jobs](https://graphql.jobs) - 全球初创公司中基于 GraphQL 的工作列表.
@@ -109,7 +109,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client with caching and server-side rendering support.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 组件. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
 
 #### Servers
 
@@ -252,7 +252,7 @@
 - [graphene](https://github.com/graphql-python/graphene) - 一个以 Pythonic 简单的方式创建 GraphQL 模式/类型的包.
 - [graphene-gae](https://github.com/graphql-python/graphene-gae) - 向 Google AppEngine (GAE) 添加 GraphQL 支持.
 - [django-graphiql](https://github.com/GraphQL-python-archive/django-graphiql) - 将 GraphiQL 轻松集成到您的 Django 项目中.
-- [flask-graphql](https://github.com/graphql-python/flask-graphql) - 向您的 Flask 应用程序添加 GraphQL 支持.
+- [flask-graphql](https://github.com/graphql-python/flask-graphql) - 向 Flask 应用程序添加 GraphQL 支持.
 - [python-graphql-client](https://github.com/prisma/python-graphql-client) - 适用于 Python 2.7+ 的简单 GraphQL 客户端
 - [python-graphjoiner](https://github.com/healx/python-graphjoiner) - 使用连接、SQL 或其他方式创建 GraphQL API.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - 石墨烯的 Django 集成.
@@ -275,7 +275,7 @@
 
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java 实现.
 - [DGS Framework](https://github.com/Netflix/dgs-framework) - 一个用于 Spring Boot 的 GraphQL 服务器框架，由 Netflix 开发.
-- [graphql-java-generator](https://github.com/graphql-java-generator) - 一种 [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) 和一个 [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) 可以生成 **Client** 和 **Server**（POJO 和实用程序类）. 服务器部分基于 graphql-java，并隐藏其所有样板代码.
+- [graphql-java-generator](https://github.com/graphql-java-generator) - 一个 [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) 和一个 [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) 可以生成 **Client** 和 **Server**（POJO 和实用程序类）. 服务器部分基于 graphql-java，并隐藏其所有样板代码.
 - [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - 自动生成用于 GraphQL Java 的类型
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)  - 将 POJO 转换为 GraphQL Java 可查询对象集的模式生成和执行包. 启用使用注释将任何服务公开为 GraphQL 服务.
 - [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 为使用 GraphQL Java 的模式定义提供基于注释的语法.
@@ -556,6 +556,7 @@
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) – 将任何 GraphQL 模式视为动态和交互式图形.
 - [AST Explorer](https://astexplorer.net/) - 选择顶部的“GraphQL”，探索 GraphQL AST 并通过单击查询突出显示不同的部分.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - 最快的协作式 GraphQL 游乐场.
+- [CraftQL](https://github.com/yamafaktory/craftql) - 用于可视化 GraphQL 模式并将图形数据结构输出为 graphviz .dot 格式的 CLI 工具.
 
 <a name="tool-security" />
 

@@ -50,7 +50,7 @@
 * [tbox](https://github.com/tboox/tbox)  - 一个类似 glib 的多平台 c 库.  [阿帕奇2] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/)  - 一个C++跨平台快速应用开发框架.  [BSD]
 * [uSTL](http://msharov.github.io/ustl/)  - 小型 STL 库.  [麻省理工学院]
-* [Windows Template Library](http://sourceforge.net/projects/wtl/)  - 用于开发 Windows 应用程序和 UI 组件的 C++ 库.  [民众]
+* [Windows Template Library](http://sourceforge.net/projects/wtl/)  - 用于开发 Windows 应用程序和 UI 组件的 C++ 库.  [上市]
 * [Yomm2](https://github.com/jll63/yomm2)  - 快速、正交、开放的多种方法. 取代 [Yomm11](https://github.com/jll63/yomm11) [促进]
 
 ## Artificial Intelligence
@@ -218,6 +218,7 @@
 * [NCCL](https://github.com/NVIDIA/nccl)  - 用于集体多 GPU 通信的优化原语.  [BSD]
 * [OpenCL](https://www.khronos.org/opencl/) - 异构系统并行编程的开放标准.
 * [OpenMP](http://openmp.org/) - OpenMP API.
+* [rotor](https://github.com/basiliscos/cpp-rotor)  - 事件循环友好的 C++ 演员微框架.  [麻省理工学院]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  - 在一个相当小的 C++ 框架中实现 Actor、发布-订阅和 CSP 模型.  [BSD-3-条款]
 * [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度器框架，建立在 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - RaftLib C++ 库，通过类似 C++ iostream 的操作符实现流/数据流并发 [Apache2]
@@ -297,7 +298,7 @@
 * [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp)  - ClickHouse DBMS 的 C++ 客户端.  [阿帕奇2]
 * [hiberlite](https://github.com/paulftw/hiberlite)  - sqlite3 的 C++ 对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)  - Redis 数据库的简约 C 客户端库.  [BSD]
-* [LevelDB](https://github.com/google/leveldb)  - 由 Google 编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
+* [LevelDB](https://github.com/google/leveldb)  - 一个由 Google 编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
 * [LMDB](http://symas.com/mdb/)  - 非常快速的嵌入式键/值存储，具有完整的 ACID 语义.  [开放LDAP]
 * [LMDB++](https://github.com/bendiken/lmdbxx)  - LMDB 嵌入式数据库库的 C++11 包装器.  [公共区域]
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) - 用于 C 的 MongoDB 客户端库. [Apache2]
@@ -313,7 +314,7 @@
 * [SQLite](http://www.sqlite.org/)  - 一个完全嵌入的、功能齐全的关系数据库，大小为 100k，您可以将其直接包含到您的项目中.  [公共区域]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)  - SQLiteC++ (SQLiteCpp) 是一个智能且易于使用的 C++ SQLite3 包装器.  [麻省理工学院]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)  - 仅标头 C++14 围绕 sqlite 库的包装器.  [麻省理工学院]
-* [sqlite_orm](https://github.com/fnc12/sqlite_orm)  - 用于现代 C++ 的 SQLite ORM 光标头库.  [AGPL + 付费麻省理工学院]
+* [sqlite_orm](https://github.com/fnc12/sqlite_orm)  - 用于现代 C++ 的 SQLite ORM 轻量标头库.  [AGPL + 付费麻省理工学院]
 * [sqlpp11](https://github.com/rbock/sqlpp11)  - 一种类型安全的嵌入式领域特定语言，用于 SQL 查询和 C++ 中的结果.  [BSD-2-条款]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)  - 快速密集和稀疏多维数组 DBMS.  [麻省理工学院] [website](https://tiledb.io/)
 * [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
@@ -657,7 +658,7 @@
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - 用于 C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 以 Python 请求模块为模型.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3-Clause &amp; GPL-2.0] [website](https://www.dpdk.org/)
@@ -785,7 +786,7 @@
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
 * [Cython](https://github.com/cython/cython)  - Cython 是 Python 编程语言和扩展 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
-* [Duktape](https://github.com/svaarala/duktape)  - 可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
+* [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
 * [libffi](https://github.com/libffi/libffi)  - 一个可移植的外部函数接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  - 用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
@@ -825,7 +826,7 @@
 
 * [pdqsort](https://github.com/orlp/pdqsort)  - 打败模式的快速排序.  [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort)  - 一种模板化的稳定排序函数，对于反向或半排序数据，其性能优于基于快速排序的算法，包括 std::sort.  [麻省理工学院]
-* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 一种排序包装器，它允许将 std::sort（和其他随机访问排序函数）与非随机访问容器一起使用，并且还提高了随机访问容器中大/非平凡可复制类型的排序性能和数组.  [zLib] [website](https://plflib.org/indiesort.htm)
+* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 一种排序包装器，它允许将 std::sort（和其他随机访问排序函数）与非随机访问容器一起使用，并且还提高了随机访问容器中大型/非平凡可复制类型的排序性能和数组.  [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
 
@@ -979,7 +980,7 @@
 * [CLion](http://www.jetbrains.com/clion/) - 来自 JetBrains 的跨平台 C 和 C++ IDE.
 * [Code::Blocks](http://www.codeblocks.org/) - 免费的 C、C++ 和 Fortran IDE.
 * [CodeLite](http://codelite.org/)  - 另一个跨平台的免费 C 和 C++ IDE.  [GPL2 插件除外]
-* [color_coded](https://github.com/jeaye/color_coded)  - 用于基于 libclang 的高亮显示的 vim 插件.  [麻省理工学院]
+* [color_coded](https://github.com/jeaye/color_coded)  - 基于 libclang 的高亮显示的 vim 插件.  [麻省理工学院]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 一个可移植的 C / C ++ / C ++ 11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - 基于 Eclipse 平台的全功能 C 和 C++ IDE.
 * [Geany](http://www.geany.org/)  - 小巧、快速、跨平台的 IDE.  [通用公共许可证]
@@ -1164,7 +1165,7 @@
 
 * [lists](https://github.com/jnv/lists) - 在 GitHub 上策划的（很棒的）列表列表.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 令人敬畏的精选清单.
-* [awesome](https://github.com/sindresorhus/awesome) :zap: - 精选列表的精选列表.
+* [awesome](https://github.com/sindresorhus/awesome) :zap: - 精选的精选列表.
 * [C++ links](https://github.com/MattPD/cpplinks) - C++ 资源的分类列表.
 * [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness() 的镜像.
 * [Awesome C++](https://cpp.libhunt.com/) - LibHunt 的镜像.
