@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-精选的开发人员优先工具和产品的精选列表.
+一个很棒的开发者优先工具和产品的精选列表.
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
@@ -149,7 +149,7 @@
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发商优先的厂房.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙之后）.
-* [zigi](https://www.zigi.ai/) - 通过 Slack 为开发人员提供人工智能驱动的工作流程个人助理.
+* [zigi](https://www.zigi.ai/) - 通过 Slack 处理普通非编码任务的开发人员助手.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像用于生产力的格子.
 
 ## Monitoring

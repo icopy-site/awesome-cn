@@ -24,7 +24,7 @@
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme)  - 标志性的 SVG、字体和 CSS 工具包.  ([Website](https://fontawesome.com))
 - [Heroicons](https://github.com/refactoringui/heroicons#readme)  - 一组免费的高质量 SVG 图标，供您在 Web 项目中使用.  ([Website](https://heroicons.dev))
 - [IconPark](https://github.com/bytedance/IconPark#readme)  - IconPark 提供了 1,400 多个高质量图标的访问权限，并引入了用于自定义图标的界面.  ([Website](https://iconpark.bytedance.com))
- - ICONSVG - 快速可自定义的 SVG 图标，轻松自定义路径的笔划、末端和连接.  ([Website](https://iconsvg.xyz))
+ - ICONSVG - 快速可自定义的 SVG 图标，轻松自定义笔画、末端和路径连接.  ([Website](https://iconsvg.xyz))
 - [Ion icons](https://github.com/ionic-team/ionicons#readme)  - 无处不在的 Ionic 框架和网络应用程序的高级图标字体.  ([Website](https://ionicons.com))
 - [Material design icons](https://github.com/google/material-design-icons#readme)  - 谷歌的材料设计图标.  ([Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme)  - 由 GitHub 用 &lt;3 手工制作的一组可扩展的图标.  ([Website](https://octicons.github.com))
@@ -37,28 +37,29 @@
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - 一组超过 300 个免费的 MIT 许可的高质量 SVG 图标，供您在 Web 项目中使用.
 - [Teenyicons](https://github.com/teenyicons/teenyicons)  - 1000 多个 MIT 许可的 SVG 图标，可轻松放入非常小的空间 :pinching_hand: 并保持清晰的外观 :sparkles:.  ([Website](https://teenyicons.com))
 - [The Noun Project](https://thenounproject.com/) - 一切图标，超过 200 万个精选图标，由全球社区创建.
-- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons，是一个网站，充满了登陆页面等的免费图标.
+- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons 是一个网站，里面充满了登陆页面等的免费图标.
 - [Unicons](https://github.com/iconscout/unicons)  - 为您的下一个项目提供 1000 多个像素完美的矢量图标和图标字体.  ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Visual Studio Code 中使用的图标的深色和浅色版本.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - 天气主题图标和 CSS.
- - Zondicons - 一组免费的优质 SVG 图标，供您在您的数字产品上使用.  ([Website](http://www.zondicons.com))
+ - Zondicons - 一组免费的高级 SVG 图标，供您在数字产品上使用.  ([Website](http://www.zondicons.com))
 
 ## Logos
 
 不同品牌或公司或技术的标志.
 
-- [Browser Logos](https://github.com/alrra/browser-logos#readme) - 高分辨率网络浏览器徽标.
+- [Browser Logos](https://github.com/alrra/browser-logos#readme) - 高分辨率网络浏览器标志.
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - 您最喜欢的加密货币的完整矢量/网络字体图标包.
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme)  - 所有主要加密货币和山寨币的一组图标.  ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme)  - 为开发人员制作的标志性字体.  ([Website](http://vorillaz.github.io/devicons))
 - [Devicon](https://github.com/devicons/devicon#readme)  - 旨在收集代表开发语言和工具的所有标志.  ([Website](https://devicons.github.io/devicon))
 - [Simple icons](https://github.com/simple-icons/simple-icons#readme)  - 流行品牌的免费 SVG 图标.  ([Website](https://simpleicons.org))
+- [VectorLogoZone](https://github.com/VectorLogoZone/vectorlogozone#readme)  - 大小/格式一致的 SVG 标志.  ([Website](https://www.vectorlogo.zone/))
 
 ## Special
 
 不是一般的图标或徽标，而是特殊的东西.
 
-- [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - 漂亮的旗帜图标，可用于应用程序和网络.
+- [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - 漂亮的旗帜图标，可在应用程序和网络上使用.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - 世界上每个国家的免费地图集.
 
 ## Other

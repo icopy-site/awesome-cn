@@ -97,7 +97,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何写清楚
 任何特定语言，因此无论您是
 最熟悉 JavaScript、Ruby、Python、Java 或 C++.
 
-The book features hundreds of interesting and practical examples of
+这本书包含数百个有趣和实用的例子
 涵盖整个语言及其最重要库的惯用 Go 代码，
 和广泛的应用.
 源代码可从本书的配套网站免费下载
@@ -234,7 +234,7 @@ The book features hundreds of interesting and practical examples of
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
-一个开发者的 golang 经验.
+A developer's exprience in golang.
 
 ### [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
 
@@ -246,7 +246,7 @@ The book features hundreds of interesting and practical examples of
  
 <img src="https://static.packt-cdn.com/products/9781786466204/cover/smaller" width="120px"/>
 
-使用 TDD 学习惯用、高效、干净和可扩展的 Go 设计和并发模式.
+Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
@@ -276,7 +276,7 @@ Go 中的动手依赖注入采用务实的方法，重点关注代码、用户�
 
 这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 您将被引导完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持大型链接图的高效核外处理. 
 
-您将了解各种前沿和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包 Go 服务，并自动将其部署到 Kubernetes 集群.
+您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包 Go 服务，并自动将其部署到 Kubernetes 集群.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
 
@@ -303,7 +303,7 @@ code.
 
 在本书中，我们将共同创建一种编程语言.
 
-我们将从 0 行代码开始，最终得到一个完整的 Monkey* 编程语言解释器.
+我们将从 0 行代码开始，最后得到一个完整的 Monkey* 编程语言解释器.
 
 一步步. 从令牌到输出. 显示并包含所有代码. 全面测试.
 
@@ -325,11 +325,11 @@ code.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/411o0BkQoQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="120px"/>
 
-The Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书. 
+The Ultimate Go Notebook is the official companion book for the Ardan Labs Ultimate Go class. 
 
 通过这本书，您将学习如何编写更多地道和高性能的代码，重点是微观层面的工程决策. 
 
-This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
+本笔记本旨在为课堂上提到的所有内容提供参考，就好像它们是您自己的个人笔记一样.
 
 ### [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
 
@@ -343,9 +343,35 @@ This notebook has been designed to provide a reference to everything mentioned i
 
 <img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1637343170143-XPC7BV7IZDWTUDW8KHBH/cover.png?format=120w" width="120px"/>
 
- Go 是编写 DevOps 和系统程序，尤其是命令行工具的流行选择. 我们如何用 Go 编写简单、强大、惯用甚至漂亮的工具？ 本书涵盖了所有必要的技术：功能选项、标志和参数、文件和文件系统、执行命令、编写 shell 和管道、JSON 和 YAML 争论，甚至复杂的 API 客户端. 
+ Go 是编写 DevOps 和系统程序，尤其是命令行工具的流行选择. 我们如何用 Go 编写简单、强大、惯用甚至漂亮的工具？ 这本书涵盖了所有必要的技术：功能选项、标志和参数、文件和文件系统、执行命令、编写 shell 和管道、JSON 和 YAML 争论，甚至复杂的 API 客户端. 
 
 更重要的是，这本书教你如何像软件工程师一样_思考_：如何将问题分解成可管理的块，如何在编写函数之前对其进行测试，以及如何设计让用户满意的 Go CLI.
+
+### [Powerful Command-Line Applications in Go](https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/)
+
+<img src="https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/rggo-250.jpg" width="120px"/>
+
+使用 Go 编程语言编写您自己的快速、可靠和跨平台的命令行工具.  Go 可能是实现任务自动化、分析数据、解析日志、与网络服务对话或满足其他系统需求的最快——也可能是最有趣的——方式. 创建各种用于处理文件、连接到服务和管理外部进程的命令行工具，同时使用测试和基准测试来确保您的程序快速且正确.
+
+### [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+
+<img src="https://images.manning.com/360/480/resize/book/d/fc0c3c2-6ae1-4722-b867-a29dc6e3ed70/Harsanyi-MEAP-HI.png" width="120px"/>
+
+ 100 个 Go 错误以及如何避免它们聚焦 Go 代码中的常见错误，您甚至可能不知道自己正在犯这些错误. 您将探索该语言的关键领域，例如并发性、测试、数据结构等，并学习如何避免和修复您自己项目中的错误.
+
+### [Effective Go](https://www.manning.com/books/effective-go)
+
+<img src="https://images.manning.com/360/480/resize/book/d/af5a665-64b2-45cc-9543-d072437c27c2/Gumus-MEAP-HI.png" width="120px"/>
+
+ Effective Go 是编写易于测试和维护的高质量代码的实用指南. 这本书充满了要采用的最佳实践和要躲避的反模式. 它探讨了是什么让 Go 与其他语言如此显着不同，以及您如何仍然可以利用现有技能编写出色的 Go 代码. 针对希望从 Go 语言开发毕业的 Go 初学者，您将编写和测试命令行应用程序、Web API 客户端和服务器、并发程序等.
+
+### [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492076322/120w/" width="120px"/>
+
+ Docker、Kubernetes 和 Prometheus 有什么共同点？ 所有这些云原生技术都是用 Go 编程语言编写的.
+这本实用的书向您展示了如何利用 Go 的优势来开发具有可扩展性和弹性的云原生服务，即使在不可预测的环境中也是如此.
+您将探索这些应用程序的组成和构造，从 Go 的低级特性到中级设计模式，再到高级架构考虑.
 
 **Web开发**
 ----
@@ -355,7 +381,7 @@ This notebook has been designed to provide a reference to everything mentioned i
 
 ### [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
-Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+另一本用 Golang 学习 Web 开发的很棒的书. 免费到 [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 ### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
@@ -409,7 +435,7 @@ Another awesome book for learning Web Development in Golang. Free to [read onlin
 
 <a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
 
-A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) 指南以及如何使用 Go 和 Docker 实现它们.
+一本包含如何使用 Docker 和 Go 创建终极 12 Factor 应用程序示例的书. 它遍历了各个步骤 [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) guidelines and how to implement them with Go and Docker.
 
 ### [Build SaaS apps in Go](https://buildsaasappingo.com)
 
@@ -443,7 +469,7 @@ A book filled with examples on how to use Docker and Go to create the ultimate 1
 
 虽然通常被认为是一种快速且紧凑的编程语言，但 Go 通常会创建难以在低内存或低功耗设备（如微控制器或物联网）上运行的大型可执行文件.  TinyGo 是一种新的编译器，允许开发人员为此类低功耗设备编译他们的程序. 由于 TinyGo 支持 Go 编程语言的所有标准功能，因此您无需调整代码以适应微控制器.
 
-这本书是一本动手指南，里面装满了有趣的 DIY 项目，将向您展示如何构建嵌入式应用程序. 您将学习如何对传感器进行编程并使用 Arduino UNO 和 Arduino Nano IoT 33 等微控制器.接下来的章节将向您展示如何使用各种流行的设备（如 LED、7 段显示器）开发多个实际嵌入式项目显示器和计时器. 接下来，您将逐步构建交互式原型，例如交通灯系统、非接触式洗手计时器等. 随着您的进步，您将创建天气警报系统的 IoT 原型，并在 TinyGo WASM 仪表板上显示这些警报. 最后，您将构建一个在 TinyGo WASM 仪表板上显示统计信息的家庭自动化项目.
+这本书是一本动手指南，里面装满了有趣的 DIY 项目，将向您展示如何构建嵌入式应用程序. 您将学习如何对传感器进行编程并使用 Arduino UNO 和 Arduino Nano IoT 33 等微控制器.接下来的章节将向您展示如何使用各种流行的设备（如 LED、7 段）开发多个实际嵌入式项目显示器和计时器. 接下来，您将逐步构建交互式原型，例如交通灯系统、非接触式洗手计时器等. 随着您的进步，您将创建天气警报系统的 IoT 原型，并在 TinyGo WASM 仪表板上显示这些警报. 最后，您将构建一个在 TinyGo WASM 仪表板上显示统计信息的家庭自动化项目.
 
 读完这本微控制器书，您将掌握使用 TinyGo 构建真实嵌入式项目所需的技能.
 
@@ -451,13 +477,13 @@ A book filled with examples on how to use Docker and Go to create the ultimate 1
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些都将使您在日常工作或业余项目中的编码更容易、更快、更有趣.
+通过学习如何设计、开发和部署分布式服务，让您的 Go 技能更上一层楼. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些都将使您在日常工作或业余项目中的编码更容易、更快、更有趣.
 
 ### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
- Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算进入这个迷人的世界，你必须知道 Go 如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序等等一些.  *使用 GO 构建系统：Gopher 必须知道的一切* 分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供了可在任何 Go 中使用的最强大库的示例和解释发展. 拥有 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，本书帮助早期采用者和有经验的开发人员真实地了解用 Go 构建的系统是什么样子.
+ Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算进入这个迷人的世界，你必须知道 Go 如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序等等一些.  *使用 GO 构建系统：Gopher 必须知道的一切* 分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供示例和解释，说明可在任何 Go 中使用的最强大的库发展. 拥有 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，本书帮助早期采用者和有经验的开发人员真实地了解用 Go 构建的系统是什么样子.
 
 ### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 
@@ -470,7 +496,7 @@ A book filled with examples on how to use Docker and Go to create the ultimate 1
 <img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
 
 本书首先介绍了 Go 的数据结构和算法. 您将学习如何使用链表、数组、堆栈和队列来存储数据. 继续前进，您将发现如何实现排序和搜索算法，然后是二叉搜索树. 本书还将通过在算法设计中串接数据类型和实现散列结构来帮助您提高应用程序的性能. 最后，您将能够应用传统数据结构来解决实际问题.
-读完本书，您将熟练地在 Go 中实现经典的数据结构和算法，从而推动您成为一名自信的 Go 程序员.
+By the end of the book, you'll have become adept at implementing classic data structures and algorithms in Go, propelling you to become a confident Go programmer.
 
 Resources
 ====

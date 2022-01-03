@@ -11,6 +11,7 @@
 [V](https://vlang.io/) 是一种用于开发可维护软件的简单、快速、安全的编译语言.
 
 
+  - [Books](#books).
 
 ## Applications
 
@@ -39,8 +40,9 @@
 ### Web
 
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
-- [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且反应灵敏的博客系统.
+- [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*. 
 
 ### Graphics
 
@@ -58,11 +60,11 @@
 
 - [HN-top](https://github.com/BafS/hn-top) - 一个简单的命令来列出来自黑客新闻的最新消息.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，将 v 源文件生成为 AST json 文件.
-- [symlinker](https://github.com/serkonda7/symlinker) - 用于管理符号链接的小型 Linux 工具.
+- [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译用各种编程语言编写的代码的工具.
 - [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
-- [vspect](https://github.com/zakuro9715/vspect) - 检查 vlang 源文件的工具.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
+- [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
 
 ### Project management
 
@@ -84,6 +86,7 @@
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
 - [vargs](https://github.com/nedpals/vargs)  - 用于从类似 argv 的数组中解析参数的 V 库.  （存档）
 - [vesseract](https://github.com/barrack-obama/vesseract) - Tesseract-OCR（光学字符识别）的 V 包装器.
+- [spinners](https://github.com/rhygg/spinners) - 在您的终端中创建微调器！
 
 ### Text processing
 
@@ -140,7 +143,7 @@
 
 ### Networking
 
-- [vmq](https://github.com/jordan-bonecutter/vmq) - V 包装器 [ZMQ](https://zeromq.org/) （又名 ZeroMQ、ØMQ、0MQ：高性能异步消息库）
+- [vmq](https://github.com/jordan-bonecutter/vmq) - V 包装器 [ZMQ](https://zeromq.org/) （又名 ZeroMQ、ØMQ、0MQ：高性能异步消息传递库）.
 
 ### Automation
 
@@ -192,7 +195,7 @@
 ### Syntax highlighting
 
 - [v-vim](https://github.com/ollykel/v-vim) - 支持 Vim 中的 V 语法高亮显示.
-- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
+- [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的高质量语法突出显示.
 - [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - Visual Studio Code 的 V 语言扩展.
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V 语法高亮显示 [Kate](https://kate-editor.org/).
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V 语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
@@ -219,7 +222,7 @@
 ### Programming contests
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - V 中 Rosetta 代码的解决方案.
-- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中 Code 2019 的解决方案.
+- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中 Code 2019 的出现解决方案.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - 在 V 中实现 SoloLearn 编码挑战.
 
 ### Tutorials
@@ -236,6 +239,11 @@
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
 - [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
+- [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
+
+### Books
+
+- [Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec](https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1) - 关于 V 的介绍书.
 
 ### Communities
 
@@ -248,4 +256,4 @@
 
 ### Operating Systems & OS Development Examples
 
-- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - 使用 V 编写一个非常简单的 Linux 内核模块的演示和测试.
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.

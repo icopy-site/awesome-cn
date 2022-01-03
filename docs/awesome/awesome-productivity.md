@@ -3,8 +3,6 @@
 ## Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 &gt; 精选的令人愉快的生产力资源列表.
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西.
-
 
 
 ## Websites
@@ -24,7 +22,7 @@
 
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - 深度工作是一种专注于认知要求高的任务而不会分心的能力.
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) - 一种非常简单有效的时间管理方法.
-- [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) - 处理优先级、调度、技术和能源管理的全方位生产力方法.
+- [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) - An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## Tools and Apps
 
@@ -67,7 +65,7 @@
 - [Timing](https://timingapp.com/)  - 用于 Mac 的自动时间和生产力跟踪. 帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间.
 - [Tinido](https://tinido.com/) - 一个漂亮而简单的任务管理应用程序，它还可以通过在类似于您在 GitHub 个人资料中找到的贡献图表中显示您已完成的任务来为您提供见解.
 - [Todo.txt](http://todotxt.com/)  - 厌倦了使用复杂的应用程序来组织您的任务？  Todo.txt 是一种使用单个“.txt”文件来帮助您完成工作的技术.
-- [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
+- [Todoist](https://todoist.com/) - 强大的跨平台生产力工具.
 - [Topydo](https://github.com/topydo/topydo) - 使用 todo.txt 格式的强大待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间.
 - [Trello](https://trello.com) - 看板方法任务板.
 - [VivifyScrum](https://www.vivifyscrum.com)  - 适用于交付团队的敏捷项目管理应用程序. 可定制的 Scrum 和看板.

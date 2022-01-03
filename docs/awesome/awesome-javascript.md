@@ -261,8 +261,9 @@
 * [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 功能齐全的图论库.
 * [cola.js](https://ialab.it.monash.edu/webcola/) - 使用基于约束的优化技术排列 HTML5 文档和图表的库
 * [jointjs](https://github.com/clientIO/joint) - 用于创建静态图表或完全交互式图表工具的图表库.
+* [vizzu](https://github.com/vizzuhq/vizzu-lib) - 用于动画数据可视化和数据故事的库.
+ 
 还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/)， 和 [lightning chart](https://www.arction.com/lightningchart-js/).
-
 
 ## Timeline
 
@@ -354,7 +355,7 @@
 * [Kefir](https://github.com/pozadi/kefir) - 受 Bacon.js 和 RxJS 启发的 JavaScript FRP 库，专注于高性能和低内存消耗.
 * [Highland](https://caolan.github.io/highland/) - 重新思考 JavaScript 实用程序带，Highland 轻松管理同步和异步代码，仅使用标准 JavaScript 和 Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - 高性能玻璃钢库.
-* [MobX](https://github.com/mobxjs/mobx) - 用于简单、可扩展的状态管理的 TFRP 库.
+* [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - 一个功能性和反应性 JavaScript 库，用于更清晰的代码.
 * [concent](https://github.com/concentjs/concent) - 绝对是 ❤️ 最简单但 ⚡️ 最强的 react 状态管理，它是可预测的、渐进的和高效的.
 
@@ -512,7 +513,7 @@
 * [amygdala](https://github.com/lincolnloop/amygdala) - 用于 JavaScript 驱动的 Web 应用程序的 RESTful HTTP 客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - 用于轻松使用 RESTful API 的 jQuery 插件.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - Ruby on Rails API 的固执的 REST 客户端.
-* [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+* [wretch](https://github.com/elbywan/wretch) - 一个围绕 fetch 构建的小包装器，具有直观的语法.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) - 支持 OAuth / API Key / Basic / 等的通用 API 客户端.
 * [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - 为简单起见，现代 Fetch API 包装器，具有简洁的文件上传功能.
 * [Optic](https://github.com/opticdev/optic) - Optic 自动记录和测试您的 API.
@@ -650,7 +651,7 @@
 
 ## Range Sliders
 
-* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 功能强大且易于自定义的范围滑块，具有许多选项和皮肤支持.
+* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - 强大且易于定制的范围滑块，具有许多选项和皮肤支持.
 * [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - 支持日期的 JavaScript 滑块选择器.
 * [noUiSlider](https://github.com/leongersen/noUiSlider) - 轻量级、高度可定制的范围滑块，不会膨胀.
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) - HTML5 输入范围滑块元素填充.
@@ -844,7 +845,7 @@
  * [ractive-player](https://github.com/ysulyma/ractive-player) - 在 React.js 中制作交互式视频的库.
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg 针对浏览器使用进行了优化：最小尺寸以加快加载速度、asm.js、性能调整等.
  * [flv.js](https://github.com/bilibili/flv.js) - 用纯 JavaScript 编写的 HTML5 Flash 视频 (FLV) 播放器，不含 Flash.
- * [hls.js](https://github.com/video-dev/hls.js)  - 实现 HTTP Live Streaming 客户端的 JavaScript 库. 它依赖于 HTML5 视频和 MediaSource 扩展来播放.
+ * [hls.js](https://github.com/video-dev/hls.js)  - 实现 HTTP Live Streaming 客户端的 JavaScript 库. 它依赖于 HTML5 视频和 MediaSource 扩展进行播放.
 
 ## Typography
 

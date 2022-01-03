@@ -79,7 +79,7 @@
 -  [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - 重新添加在 Tailwind CSS 1.0 之前移除的 `list-reset` 类.
 -  [Fluid](https://github.com/bradlc/tailwindcss-fluid) - 添加流体调整实用程序.
 -  [Typography](https://github.com/benface/tailwindcss-typography) - 添加排版实用程序.
--  [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - 添加 CSS 三角形实用程序.
+-  [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - Adds CSS triangles utilities.
 -  [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - 添加粗布实用程序.
 -  [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - 添加实用程序来截断多行文本元素.
 -  [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) - 为 CSS 逻辑属性生成实用程序.
@@ -185,7 +185,7 @@
 -  [tailwind.run](https://tailwind.run) - 带有内置功能的 Tailwind CSS 小提琴（在线）.
 -  [tailzilla.app](https://tailzilla.app) - Tailwind CSS 的在线游乐场.
 -  [Flowrift](https://flowrift.com) - 设计精美的 Tailwind CSS UI 块.
--  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind classes' prefixer tool.
+-  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind 类的前缀工具.
 -  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - 通过建议最匹配的类将 CSS 转换为 Tailwind CSS.
 -  [Tailwindo](https://github.com/awssat/tailwindo) - Bootstrap 到 Tailwind CSS 转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) - 用于将 HTML 文件从 Tailwind CSS v0.x 升级到 v1.0 的转换工具.
@@ -239,6 +239,7 @@
 -  [a17t](https://a17t.miles.land) - 用于扩展 Tailwind CSS 的原子设计工具包.
 -  [tails-ui](https://github.com/knipferrc/tails-ui) - 使用 Tailwind CSS 响应 UI 库.
 -  [tails](https://github.com/thedevdojo/tails) - 使用 Tailwind CSS 手工制作的模板和组件.
+-  [Svelte Headless UI](https://github.com/rgossiaux/svelte-headlessui) - Headless UI 的非官方 Svelte 端口.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多个不同的即用型 Tailwind CSS 块.
 -  [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
