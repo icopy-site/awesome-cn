@@ -21,7 +21,7 @@
 
 ### Articles
 
-- [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - 在组织内运行安全培训的指南.
+- [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _寻呼机职责_ - 在组织内运行安全培训的指南.
 
 ### Books
 
@@ -33,7 +33,7 @@
 
 ### Conferences
 
-- [AppSec Day](https://appsecday.io/) - _OWASP_ - 由 OWASP 举办的澳大利亚应用程序安全会议.
+- [AppSec Day](https://appsecday.io/) - _OWASP_ - 由 OWASP 举办的澳大利亚应用安全会议.
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - 由 Snyk 运行的 DevSecOps 会议网络.
 
 ### Podcasts
@@ -49,30 +49,30 @@
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) - _OWASP_ - 帮助开发人员设计和开发安全 Web 应用程序的安全要求和控制框架.
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) - _CERT_ - C、C++、Java 和 Android 开发的安全开发标准集合.
 - [Fundamental Practices for Secure Software Development](https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf) - _SAFECode_ - 在整个 SDLC 中实施关键安全开发实践的指南.
-- [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP 列出的应该在每个软件开发项目中实现的十大控件.
+- [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP 列出的应该在每个软件开发项目中实施的十大控件.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - _Mozilla_ - 包含用于安全 Web 应用程序开发的特定安全开发标准的指南.
 - [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - 用于验证是否遵循安全开发标准的清单.
 
 ### Secure Development Lifecycle Framework
 
-- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - 通过观察和分析领先软件安全计划的数据创建的软件安全框架.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - 通过观察和分析来自领先软件安全计划的数据创建的软件安全框架.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - 一组工具和实践，用作安全开发生命周期的框架.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - 由安全开发生命周期的实践、任务和实施示例组成的框架.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - 衡量和提高安全开发生命周期成熟度的框架.
 
 ### Toolchains
 
-- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - 一张海报，其中包含安全 Web 应用技术 (SWAT) 清单、SANS 云安全课程、云安全 10 大、Kubernetes 12 大威胁和安全 DevOps 工具链.
+- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - 一张海报，其中包含安全 Web 应用程序技术 (SWAT) 清单、SANS 云安全课程、云安全 10 大、Kubernetes 12 大威胁和安全 DevOps 工具链.
 - [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - _XebiaLabs_ - 按工具功能分类的 DevSecOps 工具集合.
 
 ### Training
 
-- [Application Security Education](https://github.com/duo-labs/appsec-education) - _Duo Security_ - Duo 应用程序安全团队创建的培训材料，包括介绍性和高级培训演示以及动手实验.
+- [Application Security Education](https://github.com/duo-labs/appsec-education) - _Duo Security_ - 由 Duo 应用程序安全团队创建的培训材料，包括介绍性和高级培训演示以及动手实验.
 - [Cybrary](https://www.cybrary.it/) - _Cybrary_ - 基于订阅的在线课程，具有专门的网络安全和 DevSecOps 类别.
 - [PentesterLab](https://pentesterlab.com/) - _PentesterLab_ - 动手实验以了解和利用简单和高级的 Web 漏洞.
 - [Practical DevSecOps](https://www.practical-devsecops.com) - _实用 DevSecOps_ - 使用最先进的基于浏览器的实验室，从具有实用 DevSecOps 的行业专家那里学习 DevSecOps 概念、工具和技术.
 - [SafeStack](https://academy.safestack.io/) - _SafeStack_ - 针对软件开发团队的安全培训，旨在供个人和小型团队以及大型组织访问.
-- [Secure Code Warrior](https://www.securecodewarrior.com/) - _安全代码战士_ - 游戏化和动手安全开发培训，支持课程、评估和锦标赛.
+- [Secure Code Warrior](https://www.securecodewarrior.com/) - _安全代码战士_ - 游戏化和动手的安全开发培训，支持课程、评估和锦标赛.
 - [SecureFlag](https://www.secureflag.com/platform.html) - _OWASP_ - 面向开发人员和构建/发布工程师的动手安全编码培训.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) - _Pager Duty_ - PagerDuty 创建并开源的演示文稿，旨在为软件工程师提供安全培训.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) - _Pager Duty_ - PagerDuty 创建并开源的演示文稿，用于为员工提供安全培训.
@@ -90,6 +90,7 @@
 
 开源软件包可以让开发人员无需编写所有代码即可实现功能，从而加快开发过程. 然而，随着开源代码的出现，开源漏洞也随之而来. 依赖管理工具通过识别和更新具有已知漏洞的包来帮助管理开源包中的漏洞.
 
+- [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2，强大的运行时漏洞扫描器，适用于 kubernetes、虚拟机和无服务器.
 - [Dependabot](https://dependabot.com/) - _GitHub_ - 自动扫描 GitHub 存储库中的漏洞并创建拉取请求以合并已修补的依赖项.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) - _OWASP_ - 使用 CLI 或构建服务器插件扫描公开披露的漏洞的依赖项.
 - [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - 随着时间的推移，跨多个项目监控易受攻击的依赖项的数量和严重性.
@@ -112,7 +113,7 @@
 
 ### Infrastructure as Code Analysis
 
-基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅确保基础设施得到持续强化，而且还提供了静态和动态分析基础设施定义的机会，以了解易受攻击的依赖项、硬编码的秘密、不安全的配置和安全配置中的意外更改. 以下工具有助于此分析.
+基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础设施始终得到强化，而且还提供了一个机会，可以静态和动态地分析基础设施定义中的脆弱依赖项、硬编码机密、不安全配置和安全配置中的意外更改. 以下工具有助于进行此分析.
 
 #### Multi-Platform
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - 扫描 Terraform、AWS CloudFormation 和 Kubernetes 模板以进行不安全配置.
@@ -120,7 +121,7 @@
 
 <!-- omit in toc -->
 #### Cloud Formation
-- [Cfn Nag](https://github.com/stelligent/cfn_nag) - _Stelligent_ - 扫描 AWS CloudFormation 模板以进行不安全配置.
+- [Cfn Nag](https://github.com/stelligent/cfn_nag) - _Stelligent_ - 扫描 AWS CloudFormation 模板以查找不安全的配置.
 
 <!-- omit in toc -->
 #### Containers
@@ -160,7 +161,7 @@
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - 一组用于学习的易受攻击的 Web 应用程序.
 
 ### Monitoring
-在发布之前测试和强化我们的软件是不够的. 我们还必须监控生产软件的使用情况、性能和错误，以捕获我们可能需要响应或解决的恶意行为和潜在安全漏洞. 有多种工具可用于监控生产软件和基础设施的不同方面.
+在发布之前测试和强化我们的软件是不够的. 我们还必须监控我们的生产软件的使用情况、性能和错误，以捕获我们可能需要响应或解决的恶意行为和潜在安全漏洞. 有多种工具可用于监控生产软件和基础设施的不同方面.
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - 一组内容安全策略工具，可以测试策略、监控 CSP 报告并提供指标和警报.
 
@@ -171,13 +172,13 @@
 - [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html) - _Ansible_ - 在 Ansible 管道中安全地存储秘密.
 - [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) - _Amazon AWS_ - 在 AWS 中创建和管理加密密钥.
 - [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/) - _Amazon AWS_ - 在 AWS 中安全地存储可检索的应用程序机密.
-- [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/) - _Microsoft Azure_ - 在 Azure 中安全存储机密.
+- [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/) - _Microsoft Azure_ - 在 Azure 中安全地存储机密.
 - [BlackBox](https://github.com/StackExchange/blackbox) - _StackExchange_ - 在您的代码存储库中加密凭据.
 - [Chef Vault](https://github.com/chef/chef-vault) - _Chef_ - 在 Chef 中安全地存储秘密.
 - [CredStash](https://github.com/fugue/credstash) - _Fugue_ - 使用 KMS 和 DynamoDB 在 AWS 中安全地存储秘密.
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - _Cyber​​Ark_ - 应用程序的秘密管理，包括秘密轮换和审计.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - _Docker_ - 在 Docker 群中存储和管理对秘密的访问.
-- [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - 扫描 git 存储库以查找在代码或提交消息中提交的秘密.
+- [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - 扫描 git 存储库以获取在代码或提交消息中提交的秘密.
 - [Gopass](https://github.com/gopasspw/gopass)  - _Gopass_ - 依赖 Git 和 gpg 的团队的密码管理器. 管理加密文件和存储库中的机密.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - _Google Cloud Platform_ - 在 GCP 中安全存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - 通过 UI、CLI 或 HTTP API 安全地存储机密.
@@ -187,21 +188,21 @@
 
 ### Secrets Scanning
 
-即使 repo 是私有的，源代码管理也不是一个安全的地方来存储机密信息，例如凭据、API 密钥或令牌. 秘密扫描工具可以扫描和监视 git 存储库和秘密拉取请求，并可用于防止秘密被提交，或查找和删除已经提交到源控制的秘密.
+即使 repo 是私有的，源代码控制也不是一个安全的地方来存储机密信息，例如凭据、API 密钥或令牌. 秘密扫描工具可以扫描和监控 git 存储库和秘密拉取请求，并可用于防止秘密被提交，或查找和删除已经提交到源控制的秘密.
 
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - 可以作为 Azure DevOps 管道中的任务运行的凭据扫描工具.
 - [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - 一个恰当命名的模块，用于（惊喜，惊喜）检测代码库中的秘密.
-- [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - 一种基于 Web 的解决方案，用于扫描和监控公共和私有 git 存储库中的秘密.
+- [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - A web-based solution that scans and monitors public and private git repositories for secrets.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks 是一个 SAST 工具，用于检测 git 存储库中的硬编码秘密，如密码、api 密钥和令牌.
 - [git-secrets](https://github.com/awslabs/git-secrets)  - _AWS 实验室_ - 扫描提交、提交消息并合并秘密. 对 AWS 秘密模式的本机支持，但可以配置为支持其他模式.
 - [Nightfall](https://nightfall.ai/solutions/product/github) - _Nightfall_ - 一个基于网络的平台，可监控多个 SDLC 工具（包括 GitHub 存储库）中的敏感数据泄露.
-- [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - 可以作为 CLI、Docker 容器或在 AWS Lambda 中运行的秘密扫描工具.
+- [Repo-supervisor](https://github.com/auth0/repo-supervisor) - _Auth0_ - 可以作为 CLI、Docker 容器或 AWS Lambda 运行的秘密扫描工具.
 - [SpectralOps](https://spectralops.io) - _Spectral_ - 自动代码安全、机密、令牌和敏感数据扫描.
 - [truffleHog](https://github.com/trufflesecurity/truffleHog) - _Truffle Security_ - 在 git 存储库中搜索秘密，深入挖掘提交历史和分支.
 
 ### Static Analysis
 
-静态分析安全测试 (SAST) 工具无需执行目标软件即可扫描软件中的漏洞. 通常，静态分析会扫描源代码中是否存在安全漏洞，例如使用不安全功能、硬编码机密和配置问题.  SAST 工具通常以 IDE 插件和 CLI 的形式出现，可以集成到 CI/CD 管道中.
+静态分析安全测试 (SAST) 工具无需执行目标软件即可扫描软件中的漏洞. 通常，静态分析会扫描源代码中是否存在安全漏洞，例如使用不安全的功能、硬编码机密和配置问题.  SAST 工具通常以 IDE 插件和 CLI 的形式出现，可以集成到 CI/CD 管道中.
 
 <!-- omit in toc -->
 #### Multi-Language Support
@@ -209,10 +210,10 @@
 - [DevSkim](https://github.com/microsoft/DevSkim) - _Microsoft_ - 一组 IDE 插件、CLI 和其他工具，可为多种编程语言提供安全分析.
 - [Graudit](https://github.com/wireghoul/graudit/) - _Eldar Marcussen_ - 带有自定义或预配置正则表达式签名的潜在安全漏洞的 Grep 源代码.
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) - _Hawkeyesec_ - 用于项目安全、漏洞和一般风险突出显示的模块化 CLI 工具.
-- [LGTM](https://lgtm.com/) - _Semmle_ - 使用自定义或内置 CodeQL 查询扫描和监控安全漏洞的代码.
-- [RIPS](https://www.ripstech.com/) - _RIPS Technologies_ - Automated static analysis for PHP, Java and Node.js projects.
+- [LGTM](https://lgtm.com/) - _Semmle_ - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
+- [RIPS](https://www.ripstech.com/) - _RIPS 技术_ - PHP、Java 和 Node.js 项目的自动静态分析.
 - [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep 是一种快速、开源的静态分析工具，可在编辑器、提交和 CI 时间发现错误并强制执行代码标准.
-- [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - 一个 IDE 插件，突出显示潜在的安全安全问题、代码质量问题和错误. 
+- [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - 一个 IDE 插件，突出潜在的安全安全问题、代码质量问题和错误. 
 - [SonarQube](https://www.sonarqube.org/) - _SonarSource_ - 扫描安全和质量问题的代码，支持多种语言.
 
 <!-- omit in toc -->
@@ -239,7 +240,7 @@
 <!-- omit in toc -->
 #### JavaScript
 
-- [ESLint](https://eslint.org/) - _JS Foundation_ - 用于 JavaScript 的 Linting 工具，具有多个可用的安全 linting 规则.
+- [ESLint](https://eslint.org/) - _JS Foundation_ - Linting tool for JavaScript with multiple security linting rules available.
 
 <!-- omit in toc -->
 #### Go
@@ -255,7 +256,7 @@
 #### PHP
 
 - [Phan](https://github.com/phan/phan) - _Phan_ - 对 PHP 应用程序进行广泛的静态分析，并支持一些安全扫描功能.
-- [PHPCS Security Audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - _Floe_ - 带有 PHP、Drupal 7 和 PHP 相关 CVE 规则的 PHP 静态分析.
+- [PHPCS Security Audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - _Floe_ - PHP 静态分析，包含针对 PHP、Drupal 7 和 PHP 相关 CVE 的规则.
 - [Progpilot](https://github.com/designsecurity/progpilot) - _设计安全_ - PHP 源代码的静态分析.
 
 <!-- omit in toc -->
@@ -275,6 +276,7 @@
 供应链攻击有不同的形式，针对 SDLC 中固有的第 3 方部分：CI 中的工具、已执行的外部代码等等. 供应链安全工具可以抵御这些类型的攻击.
 
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - 帮助您验证脚本和可执行文件，以减轻 CI 和其他系统中的供应链攻击，例如最近 [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
+- [Sigstore](https://www.sigstore.dev/) - sigstore 是一套免费使用和开源的工具，包括 [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) 和 [rekor](https://github.com/sigstore/rekor), h和ling digital signing, verification 和 checks for provenance needed to make it safer to distribute 和 use open source software.
 
 
 ### Threat Modelling
@@ -285,7 +287,7 @@
 - [SecuriCAD](https://www.foreseeti.com/) - _Forseeti_ - 处理 IT 基础设施的建模和攻击模拟.
 - [IriusRisk](https://iriusrisk.com/) - _IriusRisk_ - 绘制威胁模型并捕获威胁和对策并管理风险.
 - [Raindance Project](https://github.com/devsecops/raindance) - _DevSecOps_ - 使用攻击图来识别可能导致危害的攻击面和对手策略.
-- [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - _安全指南针_ - 识别威胁并对其进行排名，生成可操作的任务并跟踪相关故障单.
+- [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) - _安全指南针_ - 识别威胁并对其进行排名，生成可操作的任务并跟踪相关票证.
 - [Threat Dragon](https://owasp.org/www-project-threat-dragon/) - _OWASP_ - 威胁模型图表工具.
 - [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) - _Microsoft_ - 威胁模型图表工具.
 - [Threatspec](https://threatspec.org/) - _Threatspec_ - 将威胁建模定义为代码.

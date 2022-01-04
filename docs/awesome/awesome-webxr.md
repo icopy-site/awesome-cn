@@ -24,6 +24,7 @@
 
 - [Brushwork VR](https://brushworkvr.com/) - 一款 VR 应用程序，可模拟使用虚拟画布、调色板、颜色混合等进行绘画的过程.
 - [Hatsumi](https://www.hatsumivr.com/) - 一个 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来说明生活体验.
+- [Obscura](https://obscura.world/) - 四处漂流，探索灵感来自卡洛·斯卡帕 (Carlo Scarpa) 建筑的结构.
 - [Silk Brush](https://www.silkbrush.app/) - 一个 Tilt Brush 到 WebXR 的端口，并有未来扩展的计划.
 - [VARTISTE](https://vartiste.xyz/) - 用于 2D 绘图和图像编辑以及 3D 模型纹理的 VR 应用程序.
 
@@ -85,6 +86,7 @@
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR 机构和 WebXR 游戏开发工作室.
 - [REM5](https://www.rem5forgood.com/) - 专注于教育和社会公平计划的数字沉浸式体验设计工作室.
 - [Sketchfab](https://sketchfab.com/) - 提供 VR 预览器的 3D 模型市场.
+- [Third Axis](https://thirdaxis.io/) - 一家位于纽约的设计工作室，在网络上创建 3D、AR 和 VR 内容.
 - [Vhite Rabbit](https://vhiterabbit.com/) - Construct Arcade 背后的母公司.
 
 

@@ -4,7 +4,7 @@
 
 &gt; 与 eBPF 相关的优秀项目的精选列表.
 
- BPF，就像_Berkeley Packet Filter_一样，是一个内核虚拟机，运行从用户空间传递过来的程序. 最初在 BSD 上实现，然后在 Linux 上实现，（现在是传统的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起使用，用于过滤内核中的数据包，以避免无用的副本到用户空间. 最近，Linux 中的 BPF 基础设施已经完全重新设计并赋予“扩展 BPF”或 eBPF 生命，它获得了新功能（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务. 在非常低的级别 (XDP) 处理数据包、跟踪和监视系统上的事件或对 cgroup 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子.
+ BPF，就像_Berkeley Packet Filter_一样，是一个内核虚拟机，运行从用户空间传递过来的程序. 最初在 BSD 上实现，然后在 Linux 上实现，（现在是传统的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起使用，用于过滤内核中的数据包以避免无用的副本到用户空间. 最近，Linux 中的 BPF 基础设施已经完全重新设计并赋予“扩展 BPF”或 eBPF 生命，它获得了新功能（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务. 在非常低的级别 (XDP) 处理数据包、跟踪和监视系统上的事件或对 cgroup 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子.
 
 Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网站，名为 [ebpf.io](https://ebpf.io/) . 它的用途与此列表类似，具有 [an introduction to eBPF](https://ebpf.io/what-is-ebpf) 和链接到 [related projects](https://ebpf.io/projects).
 
@@ -50,7 +50,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 
 如果您是 eBPF 的新手，您可能想尝试本节中描述为“介绍”的链接.
 
-- [A brief introduction to XDP and eBPF](https://blogs.igalia.com/dpino/2019/01/07/introduction-to-xdp-and-ebpf/) - An accessible introduction providing context, history, and details about the functioning of eBPF.
+- [A brief introduction to XDP and eBPF](https://blogs.igalia.com/dpino/2019/01/07/introduction-to-xdp-and-ebpf/) - 一个可访问的介绍，提供有关 eBPF 功能的上下文、历史和详细信息.
 - eBPF 概述 - Adrian Ratiu 的博客系列，涵盖 eBPF 基础设施的许多方面：
 
   - [Part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
@@ -153,7 +153,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 
 - [bcc Reference Guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - 开始使用 bcc 和 eBPF 的许多增量步骤，主要集中在跟踪和监控上.
 - [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) - 带有 bcc，但针对 17 个“课程”中的 Python 位.
-- [Building BPF applications with libbpf-bootstrap](https://nakryiko.com/posts/libbpf-bootstrap/) - 帮助生成最小或高级模板以引导您自己的应用程序（地图和程序的内核端和用户空间管理），具有 CO-RE、全局变量和环形缓冲区等功能.
+- [Building BPF applications with libbpf-bootstrap](https://nakryiko.com/posts/libbpf-bootstrap/) - Helps generate minimal or advanced templates to bootstrap your own applications (kernel side and user space management for maps and programs) with features like CO-RE, global variables, and ring buffer.
 - [How I ended up writing opensnoop in pure C using eBPF](https://bolinfest.github.io/opensnoop-native/) - 关于如何编写 eBPF 程序的全面演练，首先仅使用 bpf() 系统调用，然后是 libbpf 库，以及可重现的代码示例.
 - [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) - 涉及使用多个 BPF 工具进行跟踪.
 - [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) - 使用 perf 和 bcc 程序对 ping 请求和回复进行故障排除.
@@ -183,7 +183,6 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 ### bcc
 
 - [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监视. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
-- [P4 compiler for BPF targets for bcc](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4/compiler) - 受限 C 的替代方案.
 - [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - 另一个 C 的替代品，甚至是 bcc 中使用的大多数 Python 代码.
 
 ### iproute2
@@ -275,10 +274,10 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 
 - [Sysdig](https://github.com/draios/sysdig) - 用于“具有对容器的本机支持的通用系统可见性”的工具，现在支持 eBPF.
 - [InKeV: In-Kernel Distributed Network Virtualization for DCN](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf)
-- [gobpf - utilizing eBPF from Go](https://fosdem.org/2017/schedule/event/go_bpf/) - 从 Go 创建、加载和使用 eBPF 程序的库.
+- [gobpf - utilizing eBPF from Go](https://fosdem.org/2017/schedule/event/go_bpf/) - A library to create, load and use eBPF programs from Go.
 - [ply](https://wkz.github.io/ply/) - 适用于 Linux 的小型但灵活的开源动态跟踪器，具有类似于 bcc 工具的功能，但具有受 awk 和 DTrace 启发的更简单的语言.
 - [bpftrace](https://github.com/iovisor/bpftrace)  - 一个跟踪工具，同样有自己的 DSL. 它足够灵活，可以设想作为 DTrace 和 SystemTap 的 Linux 替代品.
-- [kubectl trace](https://github.com/iovisor/kubectl-trace) - 用于在 Kubernetes 集群中执行 bpftrace 程序的 kubectl 插件.
+- [kubectl trace](https://github.com/iovisor/kubectl-trace) - A kubectl plug-in for executing bpftrace programs in a Kubernetes cluster.
 - [bpfd](https://github.com/genuinetools/bpfd)  - 在 Linux 上作为守护进程运行带有规则的 BPF 程序的框架. 容器意识.
 - [BPFd](https://github.com/joelagnel/bpfd) - 一个独特的 BPF 守护进程，试图利用 bcc 工具的灵活性来跟踪和调试远程目标，特别是运行 Android 的设备.
 - [adeb](https://github.com/joelagnel/adeb) - 在带有 BPFd 的 Android 上使用跟踪工具的 Linux shell 环境.
@@ -309,7 +308,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 ## Development and Community
 
 - [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  - BPF 补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身在每次发布时合并到 Linus 的树中.
-- [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - About contributions to BPF.
+- [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - 关于对 BPF 的贡献.
 - [The netdev mailing list](http://lists.openwall.net/netdev/)  - Linux 内核网络堆栈开发的邮件列表. 所有补丁都发送到那里进行审查和包含.
 - [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - 专门用于 XDP 编程的邮件列表（用于架构或寻求帮助）.
 - [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF 是项目的核心，并在邮件列表中定期讨论.
@@ -324,7 +323,7 @@ Recently [Cilium](https://cilium.io) 推出了一个关于 eBPF 的很棒的网�
 
 ## Acknowledgement
 
-Thank you to Quentin Monnet and Daniel Borkmann for their original work on [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) 这成为了这份清单的基础.
+感谢 Quentin Monnet 和 Daniel Borkmann 的原创工作 [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) 这成为了这份清单的基础.
 
 ## Contributing
 

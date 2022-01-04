@@ -465,7 +465,7 @@ $ git pull --rebase<remote><branch>
 
 ##### Publish local changes on a remote:
 ```
-$ git push 远程<remote><branch>
+$ git push<remote><branch>
 ```
 
 ##### Delete a branch on the remote:

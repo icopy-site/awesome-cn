@@ -18,7 +18,7 @@
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/)  - 加密工作是人才与机会相遇的地方. 我们的目标是将热情的区块链和加密货币开发人员与重视其才能和专业知识的公司联系起来.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - 区块链和加密货币工作的领先工作委员会
-* [Blockchain Works](https://blockchain.works-hub.com/) - 通过 **Blockchain Works** 发现**最好的**区块链机会和文章
+* [Blockchain Works](https://blockchain.works-hub.com/jobs) - 通过 **Blockchain Works** 发现**最好的**区块链机会和文章
 
 ## Cloud
 
@@ -78,7 +78,7 @@
 
 * [FunctionalJobs.dev](https://functionaljobs.dev/) - 面向函数式编程爱好者的高度活跃的工作板
 * [Functional Jobs](https://www.functionaljobs.com/) - 功能程序员的工作板
-* [Functional Works](https://functional.works-hub.com/) - 发现本地和远程函数式编程机会
+* [Functional Works](https://functional.works-hub.com/jobs) - 发现本地和远程函数式编程机会
 
 ### Go
 
@@ -86,7 +86,7 @@
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
-* [Golang Works](https://golang.works-hub.com/) - 本地和远程 Golang 机会、文章和开源.
+* [Golang Works](https://golang.works-hub.com/jobs) - 本地和远程 Golang 机会、文章和开源.
 
 ### JavaScript
 
@@ -96,7 +96,7 @@
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.dev/)
-* [Javascript Works](https://javascript.works-hub.com/) - 本地和远程 JavaScript 机会、文章和开源.
+* [Javascript Works](https://javascript.works-hub.com/jobs) - 本地和远程 JavaScript 机会、文章和开源.
 
 ### Kotlin
 * [Kotlin Jobs](https://kotlinjobs.dev)
@@ -149,10 +149,10 @@
 ### Aggregator
 
 * [4 day week](https://4dayweek.io/) - 具有更好的工作与生活平衡的软件工作
-* [Career Vault](https://careervault.io/) - 每隔几个小时就会从 900 多家公司刮下数千个远程工作
 * [remote | OK](https://remoteok.com/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
+* [TheRemoteWork](https://theremotework.co/)
 
 ## Startups
 

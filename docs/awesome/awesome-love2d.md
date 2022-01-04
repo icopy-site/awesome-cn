@@ -89,7 +89,7 @@
 * [adorbs](https://github.com/JosephShering/adorbs) - 最小的、功能性的实体组件系统
 * [Concord](https://github.com/Tjakka5/Concord) - 功能齐全的 ECS 库
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - 极简的功能ECS
-* [nata](https://github.com/tesselode/nata) - 混合 OOP/ECS 实体管理
+* [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - 简单、灵活且有用的 Lua 实体组件系统
 
 ## <a name="helper"></a>Helper Libraries
@@ -99,7 +99,7 @@
 * [batteries](https://github.com/1bardesign/batteries/) - 填写lua的稀疏标准库，并提供对游戏有用的通用算法和数据结构的实现.
 * [cartographer](https://github.com/tesselode/cartographer) - 小平铺地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) - 一个帮助库，可让您快速加载大量资产
-* [hump](https://github.com/vrld/hump)  - 使用 LÖVE 开发游戏的工具集（游戏状态、定时器/补间、矢量、类、信号、相机）. 回购处于非活动状态，但正在改进中 [this fork](https://github.com/HDictus/hump/tree/temp-master) （分支临时主）
+* [hump](https://github.com/HDictus/hump) - 使用 LÖVE 开发游戏的工具集（游戏状态、定时器/补间、矢量、类、信号、相机）.
 * [iffy](https://github.com/YoungNeer/iffy) - LÖVE 的 SpriteSheet 和 Tileset 辅助库
 * [knife](https://github.com/airstruck/knife) - Lua 有用微模块的集合（类、状态机、绑定、链、协程、事件、记忆、实体、测试、计时器）
 * [shard](https://github.com/MineGame159/shard) - 收集有用的迷你模块
@@ -179,7 +179,7 @@
 * [selene](https://github.com/novafacing/selene) - 在没有预编译的情况下用 Moonscript 而不是 Lua 编写游戏的项目模板
 
 ## Performance
-*性能测量工具*
+*Performance measurement tools*
 
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具
 * [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形配置文件
@@ -219,7 +219,7 @@
 * [arson](https://github.com/flamendless/arson.lua) - 用于注册可由 json.lua 编码和解码的自定义数据类型的配套库 
 * [binser](https://github.com/bakpakin/binser) - 可定制的 Lua 序列化器
 * [bitser](https://github.com/gvx/bitser) - 使用 LuaJIT 序列化和反序列化 Lua 值
-* [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
+* [cdata](https://github.com/excessive/cdata) - 使用 LuaJIT 的 FFI 在 Lua 数据和 C 数据之间进行序列化
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - 将数据序列化为 Lua 脚本
 * [Lady](https://github.com/gvx/Lady)  - 保存和加载保存游戏； 基于 Ser
 * [moonblob](https://github.com/megagrump/moonblob) - 二进制序列化和数据解析库
@@ -291,8 +291,8 @@
 * [log.lua](https://github.com/rxi/log.lua) - 用于可配置日志输出的库
 * [love-loader](https://github.com/kikito/love-loader) - 线程资源加载
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - 资产加载器
-* [love-pe](https://github.com/RamiLego4Game/love-pe) - A tool made in LÖVE for changing LÖVE icon itself
-* [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - A tool that makes setting up and using Love2d easier and with Moonscript support
+* [love-pe](https://github.com/RamiLego4Game/love-pe) - LÖVE 制造的用于更改 LÖVE 图标本身的工具
+* [lovely-engine](https://github.com/vinnyhorgan/lovely-engine) - 一个使设置和使用 Love2d 更容易并支持 Moonscript 的工具
 * [Lily](https://github.com/MikuAuahDark/lily) - 异步资产加载器
 * [luasteam](https://github.com/uspgamedev/luasteam) - Steamworks API 的 Lua 绑定
 * [Luvent](https://github.com/ejmr/Luvent) - 简单的事件驱动编程
@@ -341,7 +341,7 @@
 	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - 用于 VSCode 的 Lua IDE/调试器插件
 	* [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - IntelliJ-IDEA 的 Lua 插件
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - IntelliJ-IDEA 的片段和代码完成
-* [Vim](https://vim.sourceforge.io/) - Vim 是一个高度可配置的文本编辑器，可以非常高效地创建和更改任何类型的文本
+* [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient
 	* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Vim 的语法高亮
 * [Notepad++](https://notepad-plus-plus.org) - Notepad++ 是一个免费的源代码编辑器和记事本替代品，支持多种语言
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) - Notepad++ 的代码完成和文档
