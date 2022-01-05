@@ -57,7 +57,7 @@
 * [html2warc](https://github.com/steffenfritz/html2warc)  - 将离线数据转换为单个 WARC 文件的简单脚本.  *（稳定的）*
 * [HTTrack](http://www.httrack.com/)  - 一个开源网站复制实用程序.  *（稳定的）*
 * [monolith](https://github.com/Y2Z/monolith)  - 将网页保存为单个 HTML 文件的 CLI 工具.  *（稳定的）*
-* [Obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file. *(Stable)*
+* [Obelisk](https://github.com/go-shiori/obelisk)  - Go 包和 CLI 工具，用于将网页保存为单个 HTML 文件.  *（稳定的）*
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile)  - Firefox/Chrome 浏览器扩展和 CLI 工具，可将完整页面的忠实副本保存为单个 HTML 文件.  *（稳定的）*
 * [SiteStory](http://mementoweb.github.com/SiteStory/)  - 一个交易档案，它有选择地捕获和存储在 Web 客户端（浏览器）和 Web 服务器之间发生的交易.  *（稳定的）*
 * [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/)  - 使用户能够从 Twitter、Tumblr、Flickr 和新浪微博公共 API 创建社交媒体收藏的开源软件.  *（稳定的）*
@@ -126,10 +126,11 @@
 * [jwarc](https://github.com/iipc/jwarc) - 使用类型安全 API (Java) 读取和写入 WARC 文件.
 * [Jwat](https://sbforge.org/display/JWAT/JWAT)  - 用于读取/写入/验证 WARC/ARC/GZIP 文件 (Java) 的库和工具.  *（稳定的）*
 * [node-warc](https://github.com/N0taN3rd/node-warc) - 解析 WARC 文件或使用任一创建 WARC 文件 [Electron](https://electron.atom.io/) 或者 [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （节点.js）.  *（稳定的）*
+* [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压缩 WARC 和 WACZ 文件的命令行界面 (Python).
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARChive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 存档 IO (Python) 的流式 WARC/ARC 库.
 * [warctools](https://github.com/internetarchive/warctools) - 用于处理 ARC 和 WARC 文件的库 (Python).
-* [webarchive](https://github.com/richardlehane/webarchive) - ARC 和 WARC webarchive 格式 (Golang) 的 Golang 阅读器.
+* [webarchive](https://github.com/richardlehane/webarchive) - Golang readers for ARC and WARC webarchive formats (Golang).
 
 ### Analysis
 

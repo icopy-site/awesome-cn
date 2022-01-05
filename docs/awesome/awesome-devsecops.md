@@ -116,8 +116,10 @@
 基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础设施始终得到强化，而且还提供了一个机会，可以静态和动态地分析基础设施定义中的脆弱依赖项、硬编码机密、不安全配置和安全配置中的意外更改. 以下工具有助于进行此分析.
 
 #### Multi-Platform
+
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - 扫描 Terraform、AWS CloudFormation 和 Kubernetes 模板以进行不安全配置.
 - [KICS](https://github.com/Checkmarx/kics) - _Checkmarx_ - 在开发周期的早期发现安全漏洞、合规性问题和基础架构错误配置.
+- [Spectral DeepConfig](https://spectralops.io/blog/spectral-launches-deepconfig-to-ensure-no-misconfiguration-at-all-layers-of-software/) - _Spectral_ - 尽早在提交时发现基础设施和应用程序中的错误配置.
 
 <!-- omit in toc -->
 #### Cloud Formation
@@ -182,16 +184,18 @@
 - [Gopass](https://github.com/gopasspw/gopass)  - _Gopass_ - 依赖 Git 和 gpg 的团队的密码管理器. 管理加密文件和存储库中的机密.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - _Google Cloud Platform_ - 在 GCP 中安全存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - 通过 UI、CLI 或 HTTP API 安全地存储机密.
+- [Keyscope](https://github.com/SpectralOps/keyscope) - _Spectral_ - Keyscope 是一个用 Rust 构建的开源密钥和秘密工作流工具（验证、失效等）.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - 安全地存储、轮换和审计机密.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - 加密存储在 YAML、JSON、ENV、INI 和 BINARY 文件中的密钥.
 - [Teller](https://github.com/spectralops/teller) - _Spectral_ - 开发人员的秘密管理工具 - 永远不要为了秘密而离开您的命令行.
+
 
 ### Secrets Scanning
 
 即使 repo 是私有的，源代码控制也不是一个安全的地方来存储机密信息，例如凭据、API 密钥或令牌. 秘密扫描工具可以扫描和监控 git 存储库和秘密拉取请求，并可用于防止秘密被提交，或查找和删除已经提交到源控制的秘密.
 
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - 可以作为 Azure DevOps 管道中的任务运行的凭据扫描工具.
-- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - 一个恰当命名的模块，用于（惊喜，惊喜）检测代码库中的秘密.
+- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 - [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - A web-based solution that scans and monitors public and private git repositories for secrets.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks 是一个 SAST 工具，用于检测 git 存储库中的硬编码秘密，如密码、api 密钥和令牌.
 - [git-secrets](https://github.com/awslabs/git-secrets)  - _AWS 实验室_ - 扫描提交、提交消息并合并秘密. 对 AWS 秘密模式的本机支持，但可以配置为支持其他模式.
@@ -240,7 +244,7 @@
 <!-- omit in toc -->
 #### JavaScript
 
-- [ESLint](https://eslint.org/) - _JS Foundation_ - Linting tool for JavaScript with multiple security linting rules available.
+- [ESLint](https://eslint.org/) - _JS Foundation_ - 用于 JavaScript 的 Linting 工具，具有多个可用的安全 linting 规则.
 
 <!-- omit in toc -->
 #### Go

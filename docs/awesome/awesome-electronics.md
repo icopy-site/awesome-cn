@@ -35,7 +35,7 @@
 
 - [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) - 全面的 EE 和 CS 课程网站档案.
 - [Dr. Jacob Baker](http://cmosedu.com) - 课程和教程，拉斯维加斯内华达大学教授.
-- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)， 和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
+- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)， 和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - 课程材料，UT Austin 教授
 
 ## Documentation
 - [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Inkscape 的电路图符号
@@ -56,6 +56,7 @@
 - [Scilab with Xcos](https://www.scilab.org/)  - MATLAB 的免费、开源数值计算替代品.  Xcos 提供类似于 Simulink 的电气系统建模功能.
 - [iCircuit](http://icircuitapp.com/) - 易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时不间断分析功能.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - 具有多种交互式模拟类型的专业级混合信号模拟器.
+- [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - 开源电力电子电路模拟器. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) . 直接 [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) 由于网站损坏.
 
 ### Verilog HDL Simulators
 
@@ -161,7 +162,7 @@
 
 ### Help
 - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - 子 reddit 致力于帮助电子主题.
-- [Electronics Stack Exchange](https://electronics.stackexchange.com) - 在流行的 Stack Overflow 服务上运行的电子产品的问答网站.
+- [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
 - [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - 初学者提问的好地方，EEVblog上的其他子论坛应该适合更高级主题的问题.
 
 
@@ -180,10 +181,10 @@
 - [Micah Scott](https://www.youtube.com/user/micahjd) - 逆向工程和以创造性方式重新利用消费电子硬件的视频日志.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) - 电子项目教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - 非常深入地拆解、维修和审查实验室设备和原型产品.
-- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
+- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - 关于基本和复杂模拟硬件的优秀教程.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - 以经典电子设备为重点的拆卸、维修和修复.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) - 电子教程、项目和操作方法.
-- [Julian Ilett](https://www.youtube.com/user/julius256) - 购买他能找到的最便宜的电子模块，并尝试用它们做有用的事情.
+- [Julian Ilett](https://www.youtube.com/user/julius256) - Buys cheapest electronic modules he can find and tries to do useful things with them.
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - 拆解、大型照明项目、X 射线等.
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - 在面包板上构建 8 位计算机的系列视频，对所有子电路进行了出色的解释.
 - [Robert Feranec](https://www.youtube.com/user/matarofe)  - 100 多个硬件设计技巧和窍门. 有关原理图设计和 PCB 布局的视频.

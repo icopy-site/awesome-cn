@@ -7,7 +7,7 @@
 &gt; 为用户和开发人员精心策划的 **EOSIO** 资源列表.
 
 <p>
-  EOSIO 是最强大的去中心化应用程序和开源智能合约平台的基础设施.
+  EOSIO 是最强大的去中心化应用基础设施和开源智能合约平台.
   EOSIO 软件使企业能够快速构建和部署基于区块链的高性能和高安全性应用程序.
 </p>
 
@@ -35,6 +35,12 @@ EdenOS 资源.
 - [Website](http://edeneos.org/) - 官方网站.
 - [eoscommunity](https://github.com/eoscommunity) - 官方 GitHub.
 - [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - 丹尼尔·拉里默 (Daniel Larimer) 的书.
+
+## Mandel
+
+曼德尔资源.
+
+- [eosnetworkfoundation/mandel](https://github.com/eosnetworkfoundation/mandel) - 官方 GitHub.
 
 ## Learn
 
@@ -136,7 +142,7 @@ EOSIO 学习资源.
 ### Testnets
 
 - [The EOSIO Testnet](https://testnet.eos.io/)  - Block.one 的官方 EOSIO 测试网. 在功能齐全的 EOSIO 稳定版本上进行测试.
-- [Jungle Testnet](https://jungletestnet.io/) - 丛林测试网由 EOSIO 诞生以来，由许多开发团队和 EOS 区块生产者发起并作为沙箱.
+- [Jungle Testnet](https://jungletestnet.io/) - Jungle TestNet 由 EOSIO 诞生以来，由许多开发团队和 EOS 区块生产者发起并作为沙箱.
 - [CryptoKylin Testnet](https://www.cryptokylin.io/) - CryptoKylin 测试网是由一组 EOS 主网区块生产者维护的对开发人员友好的测试网.
 
 ### Libraries and Frameworks
@@ -163,7 +169,7 @@ EOSIO 学习资源.
 - [Transit API for EOS](https://www.eostransit.com/) - 通过基于 EOSIO 的区块链的开源、模块化和简单标准连接签名提供者和 dApp.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) - 官方 GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - 文章.
-- [greymass/eosio](https://github.com/greymass/eosio-core/) - 强类型的 JavaScript 库.
+- [greymass/eosio](https://github.com/greymass/eosio-core/) - 强类型 JavaScript 库.
 - [greymass/swift-eosio](https://github.com/greymass/swift-eosio) - 支持 ESR 的 Swift SDK.
 
 #### Authentication and Signing libraries
@@ -188,7 +194,7 @@ EOSIO 学习资源.
 - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) - 基于 Python 的 EOSIO 智能合约开发和单元测试框架.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) - 与 EOS 交互的框架，用 Swift 编写.
 - [infeos](https://github.com/infiniteXLabs/infeos) - 基于 JavaScript 的框架，用于开发、构建、部署和单元测试 EOSIO dApp.
-- [EOSLIME](https://github.com/LimeChain/eoslime) - 用于在 EOS 区块链上进行开发、部署和测试的类似松露的框架.
+- [EOSLIME](https://github.com/LimeChain/eoslime) - 类似于松露的框架，用于在 EOS 区块链上进行开发、部署和测试.
 
 ### Developer Tools
 
@@ -214,13 +220,13 @@ EOSIO 学习资源.
 - [ipfs-eos-demo](https://github.com/wpuricz/ipfs-eos-demo) - 演示将文本和图像保存到 ipfs 并将哈希存储在 EOSIO 区块链上.
 - [eosnewyork/erp](https://github.com/eosnewyork/erp) - EOS 资源规划器.
 - [greymass/anchor-link-demo](https://github.com/greymass/anchor-link-demo) - 示例 VueJS 应用程序集成了 greymass/anchor-link.
-- [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) - 示例 ReactJS 应用程序集成了 greymass/anchor-link.
+- [greymass/anchor-link-demo-multipass](https://github.com/greymass/anchor-link-demo-multipass) - 集成了greymass/anchor-link 的ReactJS 应用程序示例.
 - [greymass/ual-anchor-demo](https://github.com/greymass/ual-anchor-demo) - 集成了greymass/ual-anchor的ReactJS应用示例.
 - [greymass/eosio-signing-request-demo](https://github.com/greymass/eosio-signing-request-demo) - 使用 greymass/eosio-signing-request 生成交易的示例.
 
 ### Block Producer tools
 
-- [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) - Terraform 模块，用于在 Google Cloud Platform (GCP) 上创建 EOS 区块生产者 (BP) 节点.
+- [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) - 在谷歌云平台 (GCP) 上创建 EOS 区块生产者 (BP) 节点的 Terraform 模块.
 - [Patroneos](https://github.com/EOSIO/patroneos) - EOSIO 节点的 RPC 检查点.
 - [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - 用于监控内部区块生产者基础设施的仪表板工具.
 - [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) - EOSIO 区块生产者故障转移脚本.

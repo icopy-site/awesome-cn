@@ -6,7 +6,7 @@
 
 &gt; 精选的超棒激光雷达传感器及其应用列表.
 
-[LIDAR](https://en.wikipedia.org/wiki/Lidar)是一种遥感传感器，它使用激光以~cm 的精度测量周围环境. 感官数据通常称为点云，这意味着 3D 或 2D 中的数据点集. 该列表包含硬件、数据集、点云处理算法、点云框架、模拟器等.
+[LIDAR](https://en.wikipedia.org/wiki/Lidar) 是一种遥感传感器，它使用激光以~cm 的精度测量周围环境. 感官数据通常称为点云，这意味着 3D 或 2D 中的一组数据点. 该列表包含硬件、数据集、点云处理算法、点云框架、模拟器等.
 
 欢迎投稿！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) 我们的指导方针.
 
@@ -74,7 +74,7 @@
 - [NuScenes](https://www.nuscenes.org/) - 用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - 由配备激光雷达和摄像头的福特 Fusion 车队收集的公共数据集.
-- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - Widespread public dataset, pirmarily focusing on computer vision applications, but also contains LIDAR point cloud.
+- [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 广泛的公共数据集，主要专注于计算机视觉应用，但也包含激光雷达点云.
 - [Semantic KITTI](http://semantic-kitti.org/) - 用于语义和全景场景分割的数据集.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
 - [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - 在恶劣天气条件下（下雪天气）自动驾驶的公共大规模数据集.
@@ -144,6 +144,9 @@
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 - [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg)  - ROS兼容地平面分割； 用于将平面拟合到 LIDAR 的库.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
+- [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- 具有超点图的大规模点云语义分割
+  - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：实时激光雷达里程计和测绘.
@@ -171,11 +174,15 @@
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - 作者：Peiyun Hu、Jason Ziglar、David Held、Deva Ramanan，2019 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
   - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
+- [urban_road_filter :newspaper:](https://doi.org/10.3390/s22010194)-
+基于实时激光雷达的自动驾驶城市道路和人行道检测
+  - [GitHub repository :octocat:](https://github.com/jkk-research/urban_road_filter)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=9tdzo2AyaHM)
 
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - 跨平台通用机器人模拟器（以前称为 V-REP）.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
-- [OSRF Gazebo](http://gazebosim.org/) - 基于 OGRE 的通用机器人模拟器，兼容 ROS/ROS2.
+- [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
 - [CARLA](https://carla.org/)  - 基于虚幻引擎的汽车应用模拟器. 兼容 Autoware、百度 Apollo 和 ROS/ROS2.
   - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
@@ -198,7 +205,7 @@
 - [Awesome deep learning :octocat:](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 - [Awesome reinforcement learning :octocat:](https://github.com/aikorea/awesome-rl/#readme)
 - [Awesome SLAM datasets :octocat:](https://github.com/youngguncho/awesome-slam-datasets#readme)
-- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme) 
+- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme)
 - [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## Others
