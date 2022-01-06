@@ -79,7 +79,7 @@
 * [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Joan Daemen 和 Vincent Rijmen 的原始 Rijndael 提案.
 * [Ongoing Research Areas in Symmetric Cryptography](http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - ECRYPT 密码学卓越网络正在进行的密钥加密和哈希研究概述.
 * [The Galois/Counter Mode of Operation (GCM)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
-* [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全，更具体地说，是 David A. McGrew 和 John Viega 的 AES GCM 模式.
+* [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全，更具体地说，是 AES GCM 模式，作者：David A. McGrew 和 John Viega.
 * [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) --一种具有更高反冲突概率的 AES GCM 随机数生成分析和算法，作者：Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata.
 * [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - 现有可搜索加密方案的概述，以及 Eugene Pilyankevich、Dmytro Korniev、Artem Storozhuk 对基于 AES-GCM、盲索引和布隆过滤器构建的方案的分析.
 
@@ -104,7 +104,7 @@
 * [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - 而是对 RSA 背后的每一点的教育解释.
 * [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)  - R. Merkle 的论文，早于“密码学的新方向”，尽管它是在它之后发表的.  Diffie-Hellman 密钥交换是这种 Merkle 系统的实现.
 * [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao 模型是一种形式模型，用于证明交互式密码协议的属性.
-* [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf) - 共享秘密的安全方法.
+* [How to Share a Secret](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - 共享秘密的安全方法.
 * [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) - Dan Boneh 对攻击 RSA 及其内部结构的深入调查. 
 * [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - D. Boneh, D. Brumley 攻击实际加密实现的一个例子.
 * [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - K. Bentahar.
@@ -135,7 +135,7 @@
 * [Knowledge complexity of interactive proof systems](http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf)  - GoldWasser、Micali 和 Rackoff. 在零知识证明中定义“知识”的计算复杂度. 
 * [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - 原始 ZKP 协议的精彩介绍.
 * [Zero Knowledge Protocols and Small Systems](http://www.tml.tkk.fi/Opinnot/Tik-110.501/1995/zeroknowledge.html) - 零知识协议的一个很好的介绍.
-* [Multi-Theorem Preprocessing NIZKs from Lattices](https://link.springer.com/chapter/10.1007%2F978-3-319-96881-0_25) - Sam Kim 和 David J. Wu 使用基于格的预处理模型构建非交互式零知识 (NIZK) 证明.
+* [Multi-Theorem Preprocessing NIZKs from Lattices](https://link.springer.com/chapter/10.1007%2F978-3-319-96881-0_25) - 使用基于格的预处理模型构建非交互式零知识 (NIZK) 证明，作者：Sam Kim 和 David J. Wu.
 
 #### Key Management
 

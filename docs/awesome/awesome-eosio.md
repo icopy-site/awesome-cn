@@ -20,6 +20,7 @@
 官方资源.
 
 - [EOS Community](https://eoscommunity.org/)
+- [EOS Network Foundation](https://www.eosn.foundation/)
 - [GitHub](https://github.com/EOSIO)
 - [Technical White Paper](https://github.com/EOSIO/Documentation)
 - [Bug Bounty Program](https://hackerone.com/eosio)
@@ -228,7 +229,7 @@ EOSIO 学习资源.
 
 - [GoogleCloudPlatform/eos-block-producer](https://github.com/GoogleCloudPlatform/eos-block-producer) - 在谷歌云平台 (GCP) 上创建 EOS 区块生产者 (BP) 节点的 Terraform 模块.
 - [Patroneos](https://github.com/EOSIO/patroneos) - EOSIO 节点的 RPC 检查点.
-- [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - 用于监控内部区块生产者基础设施的仪表板工具.
+- [Cypherglass WINDSHIELD](https://github.com/cypherglassdotcom/windshield) - 用于监控内部 Block Producer 基础设施的仪表板工具.
 - [pete001/eos-bp-failover](https://github.com/pete001/eos-bp-failover) - EOSIO 区块生产者故障转移脚本.
 - [eosdetroit/bp-playbook](https://github.com/eosdetroit/bp-playbook) - 一组使管理 EOS.IO 节点更容易的剧本.
 - [eoseoul/eos-ramcost](https://github.com/eoseoul/eos-ramcost) - 在启动的最后阶段调整代币的供应和 bancor 的连接器余额.

@@ -227,8 +227,8 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - 一个 JavaScript 库，用于作为 MOS 设备或 NRCS 进行连接和 MOS 消息传递.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - 用于照明行业的旅行适配器，用于互连 DMX-512、IP 和 USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - DMX 或模拟照明系统（灯头、调光器等）的跨平台控制.
+* [QPrompt Teleprompter App](https://qprompt.app) - 融合提词器软件，可与演播室提词器、平板电脑提词器、网络摄像头和手机配合使用.
 * [TallyArbiter](http://tallyarbiter.com/) - 通过电话或低成本硬件为任何相机提供跨平台 Tally 接口和 Tally 灯.
-* [Teleprompter](https://github.com/ImaginarySense/Imaginary-Teleprompter) - Web 浏览器和独立的 Electron 应用程序提示器.
 
 ## Streaming
 

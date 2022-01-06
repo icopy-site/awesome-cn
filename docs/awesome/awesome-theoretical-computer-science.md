@@ -17,7 +17,7 @@
 
 #### Lecture Videos Playlists
 - [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - 它涵盖了您在阅读和进行计算机科学理论研究时需要了解的大量数学/计算机科学主题.
-  - 或者： [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
+  - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 
 #### Lecture Notes
 - [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/) - 它涵盖了您在阅读和进行计算机科学理论研究时需要了解的大量数学/计算机科学主题.
@@ -38,9 +38,9 @@
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - 它侧重于计算的重大基本问题，以及了解算法的能力和局限性如何帮助我们开发工具，使现实世界的计算机更智能、更快、更安全. 
 
 #### Books
-- [Michael Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
+- [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - 介绍自动机、语言和计算理论的本科教科书.
-- [Barak. Introduction to TCS](https://introtcs.org/public/index.html)  - 为本科生介绍理论计算机科学的现代、简短且易于理解的文本. 它包括通常不包含在标准本科教科书中的主题.
+- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 
 #### Puzzles and Problem Sets
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - 针对自动机、语言和复杂性的问题集文本.
@@ -134,7 +134,7 @@
 
 ### Papers
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识的性质和其他哲学问题带来了新的视角.
-- [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - It describes how quantum mechanics can be tested in the limit of high complexity regime by extending the usual scientific paradigm to include.
+- [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - 它描述了如何通过扩展通常的科学范式来在高复杂性范围内测试量子力学.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它强调了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图分离出一些新问题.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - 复杂性理论的基础，及其对计算机科学哲学、数学哲学和认识论的潜在意义.
 
@@ -142,7 +142,10 @@
 
 ### Books
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459) - 费曼的计算课程
-  - 另见 40 年后 Preskill 的更新 [here](https://arxiv.org/abs/2106.10522)
+  - 另请参阅 40 年后 Preskill 的更新 [here](https://arxiv.org/abs/2106.10522)
+
+### Monographs
+- [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7)  - 提出并讨论了热力学和复杂性之间的重要联系. 以教学方式编写，作为对黑洞及其复杂物理解释的基本介绍
 
 
 
@@ -152,20 +155,20 @@
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - 面向计算机科学和工程的离散数学简介.
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books
-- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
+- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩充了 Knuth 的经典 Art of Computer Programming 中的 Mathematical Preliminaries 部分，但呈现方式更加悠闲，对个别主题的覆盖更加深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 致力于数学主题及其与计算机科学相关性的系列.
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 为专业计算机科学家提供的简明数理逻辑参考资料.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
-- [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221)  - 对于低年级本科生，它向读者介绍了逻辑、证明、集合和数论，重点是基础. 它提供了形式证明的完整细节和推导.
+- [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221)  - 对于低年级本科生，它向读者介绍了逻辑、证明、集合和数论，重点是基础. 它提供了正式证明的完整细节和推导.
 - [Ayala-Rincón & Moura. Applied Logic for Computer Scientists: Computational Deduction and Formal Proofs](https://www.springer.com/gp/book/9783319516516)  - 作为任何演绎计算框架基础的逻辑介绍. 它包含用于认证软件和硬件系统稳健性的特殊章节
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - 使用语义表是因为它们理论上合理且易于理解.
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - 利用您对编程和软件思想的熟悉程度来教授数学.
 - [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程奠定坚实的基础，从回顾数字系统及其与数字计算机的相关性开始，最后是微积分和积分.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - 提出了一种数学分析的算法方法，重点是建模和分析的应用.
 #### Lecture Notes
-- [Maciej Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - 为本科计算机科学学生教授的微积分讲义
+- [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - 为本科计算机科学学生教授的微积分讲义
 ### Transition To Pure Rigour Math
 它已经被策划 [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - 介绍性证明和数学成熟度.
 
@@ -213,7 +216,7 @@
 ### Magazines/Journals/News
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM 的学生杂志计算理论特刊 
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导者撰写的专着，涵盖主题的教程、研究回顾以及提供该期刊范围内最先进评论的调查论文. 
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导者撰写的专着，这些专着涵盖了该期刊范围内的学科、研究回顾以及提供最先进评论的调查论文. 
 
 ### Popular Science
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694)
