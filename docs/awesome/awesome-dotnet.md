@@ -10,7 +10,7 @@
 
 灵感来自 [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) 和 [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
 
-总是欢迎贡献！ 请看一下 [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) 页首. 我们也接受专有和商业软件.
+总是欢迎贡献！ 请看一下 [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
 谢谢大家 [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors) ，你太棒了，没有你就不可能！ 目标是建立一个由社区驱动的非常知名资源的分类集合.
 
@@ -124,7 +124,7 @@
 * [CLR via C#](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp) - teaches how to best leverage the functional features of the C# language. **[$]**
 * [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C# without the jargon and theory. **[$]**
-* [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition) - A comprehensive guide to building microservice systems using the .NET stack. **[$]**
+* [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition)  - 使用 .NET 堆栈构建微服务系统的综合指南.  **[$]**
 * [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-principles-practices-patterns) [2nd edition](https://www.manning.com/books/dependency-injection-principles-practices-patterns)  - 教你使用依赖注入来减少 .NET 中应用程序组件之间的硬编码依赖.  **[$]**
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)  - 教授如何使用 ASP.NET Core 编写 Web 应用程序.  **[$]**
 * [ASP.NET Core in Action, Second Edition](https://www.manning.com/books/asp-net-core-in-action-second-edition)  - 使用 ASP.NET Core 5.0 创建 Web 应用程序的综合指南.  **[$]**
@@ -277,8 +277,8 @@
 
 ## Database
 
-* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元组存储
-* [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
+* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB 是一个原生的 .NET RDF 三元存储
+* [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze 数据库是一个开源的嵌入式键值存储
 * [Event Store](https://github.com/EventStore/EventStore) - 在 JavaScript 中具有复杂事件处理功能的开源函数式数据库
 * [LiteDB](https://github.com/mbdavid/LiteDB) - 单个数据文件中的 .NET NoSQL 文档存储 - https://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - 支持 LINQ 的 .NET 文档数据库
@@ -303,12 +303,13 @@
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - 官方 Couchbase .NET 客户端库，基于 Enyim memcached 客户端
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
 * [Storage.Net](https://github.com/aloneguid/storage) - 流行的云存储提供商的通用存储抽象和实现，如 Amazon S3、Azure 服务总线、Azure 事件中心、Azure 存储、Azure 数据湖存储等.
+* [Stowage](https://github.com/aloneguid/stowage) - 无膨胀零依赖 .NET 云存储工具包，至少支持主要的云提供商.
 
 ## Datetime
 
 * [NodaTime](https://github.com/nodatime/nodatime)  - Noda Time 是 .NET 的替代日期和时间 API. 它可以帮助您更清晰地思考您的数据，并更准确地表达对该数据的操作.  https://nodatime.org/
-* [DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions) - 以“System.DateTime”扩展形式的常见日期时间操作，包括对多种文化语言环境的假期和工作日计算.
-* [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various `DateTime`, `DateTimeOffset`, `TimeSpan` extension methods.
+* [DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions) - “System.DateTime”扩展形式的常见日期时间操作，包括对多种文化语言环境的假期和工作日计算.
+* [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange、工作日和各种`DateTime`、`DateTimeOffset`、`TimeSpan` 扩展方法.
 
 ## Decompilation
 
@@ -337,7 +338,7 @@
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) 组件和拓扑. 为分布式和容错事件流处理提供高级抽象.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - 用于构建分布式应用程序的可插拔基础块.
 * [MBrace](https://github.com/mbraceproject) - Integrated Data Scripting for the Cloud
-* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - 原型演员 - Golang 和 C 的超快速分布式演员#
+* [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - 用于 Golang 和 C 的超快速分布式 Actor#
 
 ## DLR
 
@@ -579,7 +580,7 @@
 * [DryIoc](https://github.com/dadhi/DryIoc) - 简单、快速的全功能 IoC 容器.
 * [Ninject](https://github.com/ninject/ninject) - .NET 依赖注入器的忍者
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET 是一个开源应用程序框架，使构建企业 .NET 应用程序更容易
-* [Lamar](https://jasperfx.github.io/lamar/) - 一个快速 IoC 容器，针对 ASP.NET Core 和其他 .NET 服务器端应用程序中的使用进行了大量优化.
+* [Lamar](https://jasperfx.github.io/lamar/) - 一个快速的 IoC 容器，针对 ASP.NET Core 和其他 .NET 服务器端应用程序中的使用进行了大量优化.
 * [LightInject](https://github.com/seesharper/LightInject) - 一个超轻量级的 IoC 容器
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) - Simple Injector 是一个易于使用的依赖注入 (DI) 库，适用于 .NET 4+，支持 Silverlight 4+、Windows Phone 8、Windows 8，包括通用应用程序和 Mono.
 * [Microsoft.Extensions.DependencyInjection](https://github.com/aspnet/DependencyInjection) - ASP.NET Core 应用程序的默认 IoC 容器.
@@ -611,7 +612,7 @@
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的严肃日志库. 将最好的传统和结构化诊断日志记录在一个易于使用的包中.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - 用于堆栈交换网络的错误处理程序
 * [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging)  - 扩展 System.Diagnostics.Tracing 命名空间（EventSource 类）的内置功能，以登录到多个接收器，包括 Azure 表、数据库、文件（JSON、XML、文本）. 支持通过 ETW 和 Rx 进行进程内和进程外日志记录，用于实时过滤/聚合事件.
-* [ULogViewer](https://github.com/carina-studio/ULogViewer)  - 跨平台（Windows/macOS/Linux）通用日志查看器，支持读取和解析各种类型的日志. 您还可以定义自己的配置文件来解析和显示日志.
+* [ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) - 流畅的日志 API，可用于在整个应用程序中记录消息.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - 无异常的 .NET 客户端
 * [Loupe](https://onloupe.com)  - 集中的 .NET 日志记录和监控.  **[专有]** **[免费套餐]**
@@ -734,7 +735,7 @@
 
 * [Community Toolkit](https://github.com/CommunityToolkit)  - 各种 .NET 技术的控件和帮助程序库和示例的集合. 包含由 Microsoft 支持的现代 MVVM 库. 包括 [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)， 和 [Dotnet Community Toolkit](https://github.com/CommunityToolkit/dotnet).
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小而强大的框架，专为跨所有 XAML 平台构建应用程序而设计. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
-* [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
+* [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
 * [Catel](https://www.catelproject.com/)  - Catel 是一个专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）的应用程序开发平台.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
 * [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现“INotifyPropertyChanged”或声明“DependencyProperty”. 它将控件直接连接到 CLR 属性. 这使它非常适合 Model/View/ViewModel 模式.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
@@ -773,7 +774,7 @@
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 * [NetOffice](https://github.com/NetOfficeFw/NetOffice) - Microsoft Office 应用程序的 .NET 包装程序集.
 * [GemBox.Bundle](https://www.gemboxsoftware.com/bundle)  - .NET 组件包，可以快速、简单和高效地处理办公文件（Excel、Word、PowerPoint、PDF 和电子邮件）.  **[$]****[免费精简版]**
-* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm)  - 用于 Outlook 对象模型和（扩展的）MAPI 的库. 支持 Outlook 98 - 2019.在 Exchange 和 Outlook 中处理对象/邮件/帐户/文件夹.  **[$]**
+* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm)  - 用于 Outlook 对象模型和（扩展的）MAPI 的库. 支持 Outlook 98 - 2019.在 Exchange 和 Outlook 中使用对象/邮件/帐户/文件夹.  **[$]**
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - 无需安装 Microsoft Office 即可处理 PowerPoint 演示文稿的流畅 API.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - 一个微型 Excel 助手避免 OOM 和高性能来创建/映射/模板填充数据.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET 文本提取框架支持几种文件格式
@@ -795,7 +796,7 @@
 * [Massive](https://github.com/FransBouma/Massive) - 一款永远爱你的小巧、快乐的数据访问工具.
 * [LINQ to DB](https://github.com/linq2db/linq2db) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供简单、轻便、快速且类型安全的层.
 * [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM 是一个用于 .NET 框架的微型对象关系映射器. 它旨在易于使用、可扩展和可测试.
-* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - 适合您的 POCO 的一个小 ORM 风格的东西
+* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - POCO 的一个小 ORM 风格的东西
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) - 期待已久的完全异步 PetaPoco 分叉
 * [NPoco](https://github.com/schotime/NPoco)  - 将查询结果映射到 POCO 对象的简单 microORM. 基于 Schotime 的 PetaPoco 分支
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - 使用 SQL 片段且不需要模型类的混合 ORM.
@@ -810,7 +811,7 @@
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - .NET 包管理器
-* [BaGet](https://github.com/loic-sharma/BaGet/) - 跨平台的轻量级 NuGet 和 Symbol 服务器
+* [BaGet](https://github.com/loic-sharma/BaGet/) - 跨平台、轻量级的 NuGet 和 Symbol 服务器
 * [Cloudsmith](https://cloudsmith.com/nuget-feed/)  - 完全托管的包管理 SaaS，支持 NuGet、Npm、Docker 等.  **[公共/OSS免费]** **[$]**
 * [MyGet](https://www.myget.org/)  - NuGet、NPM、Bower 和 VSIX 的托管包存储库. 还提供 CI 即服务.  **[$]**
 * [Paket](https://github.com/fsprojects/Paket)  - .NET 的包依赖管理器，支持 NuGet 包和 GitHub 存储库.  https://fsprojects.github.io/Paket/
@@ -1011,7 +1012,7 @@
 * [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange 的监控系统
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用程序.  **[免费][专有]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
-* [Netling](https://github.com/hallatore/Netling)  - 一个负载测试客户端，用于简单的 Web 测试. 它在使用很少的 CPU 或内存时非常快.
+* [Netling](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
 * [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一种开源（基于 .NET）测试电子邮件查看器，它在本地运行，内置 SMTP 服务器，旨在接收和通知测试电子邮件消息.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理 Visual Studio 的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行的操作、错误/延迟的随机生成和实验性 GraphQL 支持.

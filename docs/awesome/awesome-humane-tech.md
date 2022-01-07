@@ -44,7 +44,7 @@
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - 程序员的道德誓言，堪比希波克拉底誓言.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/site/2017) - 实践道德设计的网站和项目的马斯洛需求层次.
 - [Ethical OS Toolkit](https://ethicalos.org/) - 预测当今技术对未来影响的指南.
-- [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
+- [ACM Code of Ethics](https://ethics.acm.org/) - 计算机协会的道德和职业行为准则.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) - 旨在将我们的道德框架和原则应用于您的数据工作的全球倡议.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - 建立符合道德标准的体验的可选誓言.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) - 参与开发物联网的每个人的行为准则.
@@ -54,7 +54,7 @@
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - 基于基本权利和道德原则的可信赖人工智能指南.
 - [Ethical Web Dev](https://edri.org/our-work/ethical-web-dev-2/) - 道德网站开发和维护指南.
 - [Declaration of Digital Autonomy](https://techautonomy.org/) - 我们的技术必须尊重使用它的人的权利和自由.
-- [A New Digital Manifesto](https://anewdigitalmanifesto.com) - 我们在数字时代不可剥夺的权利.
+- [A New Digital Manifesto](https://anewdigitalmanifesto.com) - Our inalienable rights within the digital age.
 - [Society Centered Design](https://societycentered.design/)  - 超越以人为本的设计. 我们必须为集体设计，为社会设计.
 
 ## Security
@@ -74,7 +74,7 @@
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PrivacyScore/PrivacyScore) - 一个网络隐私测量平台.
 - [arkenfox user.js](https://github.com/arkenfox/user.js) - 用于配置和强化 Firefox 隐私、安全和反指纹的 user.js 模板.
 - [user.js](https://github.com/pyllyukko/user.js) - 配置 Firefox 以强化浏览器设置并使其更安全.
-- [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - Browser extension that emulates Content Delivery Networks to improve your online privacy.
+- [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - 模拟内容交付网络的浏览器扩展，以改善您的在线隐私.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - 浏览器扩展允许通过更改 User-Agent 标头来冒充另一个浏览器.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) - 在指定的时间间隔后自动替换用户代理的浏览器扩展.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smart-referer/smart-referer/) - 更改域时自动隐藏引用的浏览器扩展.
@@ -106,7 +106,7 @@
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - 电子前沿基金会的 Privacy Badger 阻止间谍广告和隐形跟踪器.
 - [uBlock Origin](https://github.com/gorhill/uBlock)  - 适用于各种浏览器的高效拦截器插件. 快速、有力且精益求精.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - 分析 Android 应用程序中的隐私问题.
-- [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) - App for Exodus Privacy that lets you know what trackers are embedded in apps.
+- [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) - Exodus Privacy 应用程序，让您知道应用程序中嵌入了哪些跟踪器.
 - [Exodify](https://github.com/FacettsOpen/exodify)  - 想知道应用程序是否正在跟踪您？ 现在您可以直接在 Play 商店中看到它.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) - 将您的在线生活分成不同颜色的标签，以保护隐私.
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) - 将 Facebook 活动与您的其他网络活动隔离，以防止跟踪.
@@ -157,6 +157,7 @@
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  - 公平的网络分析. 在您的用户完全控制他们的数据的同时获得洞察力.
 - [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) - 在 Crystal 中进行的以隐私为中心的网站分析 - 在欧盟托管.
 - [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) - 网络分析变得简单，因此隐私友好.
+- [Swetrix](https://swetrix.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/swetrix/swetrix-js) - 面向隐私的高度可定制和自托管的分析服务.
 
 ## Blocklists
 
@@ -164,7 +165,7 @@
 - [Blocklists](https://github.com/jmdugan/blocklists) - 人们可能想用主机文件阻止的问题域的共享列表.
 - [Referrer Spam List](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-list) - 社区贡献的推荐垃圾邮件发送者黑名单.
 - [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) - 广告、跟踪器、恶意软件和烦恼的过滤器和主机列表目录.
-- [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - 专门设计用于 dnsmasq 的基于主机和域名的阻止列表.
+- [hosts-blocklists](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
 - [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List) - 彻底阻止跟踪器、广告、不需要的 cookie 的 Adblock 列表.
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) - 修复和删除许多网站上烦人和分散注意力的网络元素.
 - [Wiper](https://github.com/davidahmed/wiper) - Firefox 扩展程序，可根据您定义的阻止列表删除 Google 搜索结果.
@@ -227,6 +228,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是人性化技术在�
 - [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/argosopentech/argos-translate) - 开源神经机器翻译.
 - [gtranslate](https://git.sr.ht/~yerinalexey/gtranslate) - 谷歌翻译的前端，它不会跟踪你并且在没有 JavaScript 的情况下工作.
 - [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web) - SimplyTranslate 的简单前端，多个搜索引擎的外观.
+- [Nekocap](https://nekocap.com/)[<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nopol10/nekocap) - 用于为 YouTube、niconico 和其他视频共享网站创建和上传社区字幕的浏览器扩展.
 
 ## Freedom
 
@@ -291,7 +293,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是人性化技术在�
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mindfulness-at-the-computer/mindfulness-at-the-computer) - 帮助您在使用计算机时注意呼吸.
 - [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) - 用于 Linux 的 Internet 拦截器，带有 allowLists/blockLists 和计时器，可提高工作效率.
-- [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/skidding/jobs-done) - 一款以 Deep Work 为灵感的结束工作日仪式应用.
+- [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/skidding/jobs-done) - 一个以 Deep Work 为灵感的结束工作日的仪式应用程序.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer-app) - 用于定期休息和防止 RSI、眼睛疲劳和疲劳的应用程序.
 - [MindBell](https://dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) - 适用于 Android 的正念铃和冥想计时器.
 - [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) - 生成一个虚假的应用程序来替换任何令人上瘾的应用程序.
@@ -362,7 +364,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是人性化技术在�
 - [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - 在本地托管和管理应用程序，而不是从 SaaS 提供商那里租用.
 - [Awesome Decentralized](https://github.com/croqaz/awesome-decentralized) - 去中心化、P2P 和分布式平台和应用程序的精选列表.
 - [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - 点对点资源的精选列表.
-- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 一份精选的激进数字工具清单.
+- [Awesome Activism Tools](https://github.com/drewrwilson/toolsforactivism) - 用于激进主义的精彩数字工具的精选列表.
 - [Awesome Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - 用于建立更具同情心的工程文化的精选清单.
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity) - 有关技术多样性的精彩文章、网站和资源的精选列表.
 - [Awesome Free Software](https://github.com/johnjago/awesome-free-software) - 自由软件中的免费精选列表.
@@ -371,7 +373,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是人性化技术在�
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - 保持气候、能源供应和自然资源稳定的项目.
 - [Awesome Sustainable VPS](https://codeberg.org/jonatasbaldin/awesome-sustainable-vps) - 可持续的 VPS（虚拟专用服务器）提供商列表.
 
-还可以查看这些网站，了解您现在可能正在使用的垄断、侵犯隐私的软件的绝佳替代品：
+Also check out these sites for great alternatives to the monopolistic, privacy-invading software you may now be using:
 
 - [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tycrek/degoogle)  - 大量 Google 产品的替代品. 隐私提示、技巧和链接.
 - [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) - 知名软件的道德、易于使用和注重隐私的替代品.

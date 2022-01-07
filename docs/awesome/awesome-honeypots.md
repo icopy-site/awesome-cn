@@ -35,6 +35,7 @@
     - [HellPot](https://github.com/yunginnanet/HellPot) - 试图使访问其位置的机器人和客户端崩溃的蜜罐.
     - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Laravel 应用程序的简单垃圾邮件预防包.
     - [Nodepot](https://github.com/schmalle/Nodepot) - NodeJS Web 应用蜜罐.
+    - [PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI 蜜罐.
     - [Servletpot](https://github.com/schmalle/servletpot) - 网络应用蜜罐.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - 适用于 PHP、Perl 和 Python 应用程序的模块化 Web 应用程序防火墙/高交互蜜罐.
     - [StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot) - 基于 Apache 2 的 Struts 蜜罐以及用于 Apache 2 服务器的检测模块.
@@ -56,14 +57,15 @@
     - [tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot)  - 模仿 Tomcat 管理器端点的蜜罐. 记录请求并保存攻击者的 WAR 文件以供日后研究
     - WordPress 蜜罐
         - [HonnyPotter](https://github.com/MartinIngesen/HonnyPotter) - WordPress 登录蜜罐，用于收集和分析失败的登录尝试.
-        - [HoneyPress](https://github.com/kungfuguapo/HoneyPress) - Python based WordPress honeypot in a Docker container.
+        - [HoneyPress](https://github.com/kungfuguapo/HoneyPress) - Docker 容器中基于 Python 的 WordPress 蜜罐.
         - [wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot) - WordPress 插件，通过更智能的蜜罐减少垃圾评论.
         - [wordpot](https://github.com/gbrindisi/wordpot) - WordPress 蜜罐.
 
 - 服务蜜罐
     - [ADBHoney](https://github.com/huuck/ADBHoney) - 模拟运行 Android 调试桥 (ADB) 服务器进程的 Android 设备的低交互蜜罐. 
     - [AMTHoneypot](https://github.com/packetflare/amthoneypot) - 针对英特尔 AMT 固件漏洞 CVE-2017-5689 的蜜罐.
-X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜罐.
+    - [DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN（软件定义网络）蜜罐.
+    - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜罐.
     - [HoneyPy](https://github.com/foospidy/HoneyPy) - 低交互蜜罐.
     - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - 基于 Twisted 的多用途模块化蜜罐.
     - [Honeyport](https://github.com/securitygeneration/Honeyport) - 用 Bash 和 Python 编写的简单蜜端口.
@@ -138,11 +140,11 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
 - 蜜网农场流量重定向器
     - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - 部署多个传感器，将流量重定向到蜜罐的集中集合.
 
-- HTTPS 代理
+- HTTPS Proxy
     - [mitmproxy](https://mitmproxy.org/) - 允许拦截、检查、修改和重放流量.
 
 - 系统仪表
-    - [Sysdig](https://sysdig.com/opensource/) - Open source, system-level exploration allows one to capture system state and activity from a running GNU/Linux instance, then save, filter, and analyze the results.
+    - [Sysdig](https://sysdig.com/opensource/) - 开源的系统级探索允许从正在运行的 GNU/Linux 实例捕获系统状态和活动，然后保存、过滤和分析结果.
     - [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪 Windows 内核的工具.
 
 - 用于 USB 传播恶意软件的蜜罐
@@ -192,7 +194,7 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
     - [SIREN](https://github.com/blaverick62/SIREN) - 半智能蜜罐网络 - HoneyNet 智能虚拟环境.
     - [TelnetHoney](https://github.com/balte/TelnetHoney) - 简单的 telnet 蜜罐.
     - [UDPot Honeypot](https://github.com/jekil/UDPot) - 简单的 UDP/DNS 蜜罐脚本.
-    - [Yet Another Fake Honeypot (YAFH)](https://github.com/fnzv/YAFH) - 用 Go 编写的简单蜜罐.
+    - [Yet Another Fake Honeypot (YAFH)](https://github.com/fnzv/YAFH) - Simple honeypot written in Go.
     - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - 低交互蜜罐.
     - [fapro](https://github.com/fofapro/fapro) - 假协议服务器.
     - [glutton](https://github.com/mushorg/glutton) - 都吃蜜罐.
@@ -201,7 +203,7 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
     - [honeymail](https://github.com/sec51/honeymail) - 用 Golang 编写的 SMTP 蜜罐.
     - [honeytrap](https://github.com/tillmannw/honeytrap) - 编写用于捕获针对 TCP 和 UDP 服务的攻击的低交互蜜罐和网络安全工具.
     - [imap-honey](https://github.com/yvesago/imap-honey) - 用 Golang 编写的 IMAP 蜜罐.
-    - [mwcollectd](https://www.openhub.net/p/mwcollectd) - 多功能恶意软件收集守护程序，结合猪笼草和蜜罐的最佳功能.
+    - [mwcollectd](https://www.openhub.net/p/mwcollectd) - 多功能恶意软件收集守护程序，结合了猪笼草和蜜罐的最佳功能.
     - [potd](https://github.com/lnslbrty/potd) - 高度可扩展的中低交互 SSH/TCP 蜜罐，专为 OpenWrt/IoT 设备设计，利用多个 Linux 内核功能，例如命名空间、seccomp 和线程功能.
     - [portlurker](https://github.com/bartnv/portlurker) - Rust 中的端口侦听器，具有协议猜测和安全字符串显示功能.
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - 简单的低交互端口监控蜜罐.
@@ -290,7 +292,7 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
     - [hornet](https://github.com/czardoz/hornet) - 支持多个虚拟主机的中等交互SSH蜜罐.
     - [ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger) - 低/零交互 SSH 身份验证日志蜜罐.
     - [ssh-honeypot](https://github.com/droberson/ssh-honeypot) - 记录 IP 地址、用户名和密码的假 sshd.
-    - [ssh-honeypot](https://github.com/amv42/sshd-honeypot) - Modified version of the OpenSSH deamon that forwards commands to Cowrie where all commands are interpreted and returned.
+    - [ssh-honeypot](https://github.com/amv42/sshd-honeypot) - 将命令转发到 Cowrie 的 OpenSSH 守护进程的修​​改版本，在 Cowrie 中解释和返回所有命令.
     - [ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd) - 用 C 编写的低交互 SSH 蜜罐.
     - [sshForShits](https://github.com/traetox/sshForShits) - 高交互 SSH 蜜罐的框架.
     - [sshesame](https://github.com/jaksi/sshesame) - 允许每个人进入并记录他们的活动的假 SSH 服务器.
@@ -348,7 +350,7 @@ X - [Ensnare](https://github.com/ahoernecke/ensnare) - 易于部署的 Ruby 蜜�
     - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - Docker化 [Thug](https://github.com/buffer/thug) 分析恶意网页内容.
     - [Dockerpot](https://github.com/mrschyte/dockerpot) - 基于 Docker 的蜜罐.
     - [Manuka](https://github.com/andrewmichaelsmith/manuka) - 基于 Docker 的蜜罐（Dionaea 和 Kippo）.
-    - [honey_ports](https://github.com/run41/honey_ports) - 非常简单但有效的 docker 部署蜜罐来检测您环境中的端口扫描.
+    - [honey_ports](https://github.com/run41/honey_ports) - Very simple but effective docker deployed honeypot to detect port scanning in your environment.
     - [mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - 在 Docker 中实现的现代蜂蜜网络的核心元素.
  
 - 网络分析

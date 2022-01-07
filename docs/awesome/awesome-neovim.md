@@ -205,7 +205,7 @@ Neovim 支持多种 UI.
 
 #### Tree-sitter Supported Colorscheme
 
- Tree-sitter 是 Neovim 0.5 中的一个新系统，它可以增量地将您的代码解析为一个有效的树，即使您的语法有错误也是如此. 这些配色方案专门为 Tree-sitter 高光组设置了颜色.  Vim 颜色方案将与开箱即用的新组一起使用.
+ Tree-sitter 是 Neovim 0.5 中的一个新系统，它可以增量地将您的代码解析为一个有效的树，即使您的语法有错误. 这些配色方案专门为 Tree-sitter 高光组设置了颜色.  Vim 颜色方案将与开箱即用的新组一起使用.
 
 - [shaeinst/roshnivim-cs](https://github.com/shaeinst/roshnivim-cs) - 用 Lua 编写的 Neovim 配色方案，专为具有 Tree-sitter 支持的 roshnivim 制作.
 - [rafamadriz/neon](https://github.com/rafamadriz/neon)  - 可定制的配色方案，具有出色的斜体和粗体支持、深色和浅色变体. 与 Tree-sitter 一起工作并看起来不错.
@@ -488,6 +488,7 @@ Neovim 支持多种 UI.
 
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - Neovim 的滚动条.
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 显示交互式滚动条的 Neovim 插件.
+- [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - 显示诊断和搜索结果的可扩展滚动条.
 
 ### Scrolling
 

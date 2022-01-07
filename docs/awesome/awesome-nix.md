@@ -19,7 +19,7 @@
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
 * [nix.dev](https://nix.dev/) - 开发人员使用 Nix 生态系统完成工作的自以为是的指南.
-* [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线互动教程.
+* [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
 
 ### Discovery
 
@@ -29,7 +29,7 @@
 
 ### Newsletters
 
-* [NixOS Weekly](https://weekly.nixos.org/) - *The* newsletter to stay informed about community updates.
+* [NixOS Weekly](https://weekly.nixos.org/) - *The* 时事通讯，随时了解社区更新.
 
 ## Installation Media
 
@@ -158,6 +158,7 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层的协议，强调安全性.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 就像在 NixOS 上一样管理 macOS 配置.
+* [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - 为 macOS 自动更新 Firefox 二进制包.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 流血边缘的 Wayland 包.
 * [NUR](https://github.com/nix-community/NUR/)  - Nix 用户存储库. 所有覆盖的母体，允许访问用户存储库并通过属性安装包.
 

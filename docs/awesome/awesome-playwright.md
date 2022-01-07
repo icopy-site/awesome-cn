@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Playwright [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 使用 Playwright 的精选工具、实用程序和项目的精选列表
+&gt; 精选的使用 Playwright 的出色工具、实用程序和项目列表
 
 [Playwright](https://github.com/microsoft/playwright) 是一个 Node.js 库，通过单个 API 自动化基于 Firefox、WebKit 和 Chromium 的浏览器.
 
@@ -12,14 +12,14 @@
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - 用于运行 Playwright 的 Jest 适配器.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Node.js 的增压 End 2 End 测试框架.
-- [QA Wolf](https://github.com/qawolf/qawolf) - 以 10 倍的速度创建浏览器测试.
+- [QA Wolf](https://github.com/qawolf/qawolf) - 创建浏览器测试的速度提高 10 倍.
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - 支持在 AWS Lambda 和 Google Cloud Functions 上运行 Microsoft 的 Playwright.
 - [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - Playwright 的浏览器构建，可在 Amazon Linux 2 上运行.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - 用于安装所有必需依赖项的 GitHub 操作.
 - [pytest-playwright](https://github.com/mxschmitt/pytest-playwright/) - 用于将 Playwright 页面与装置一起使用的 Pytest 插件.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack 用于在 Heroku Dyno 上运行 Playwright.
 - [playwright-test](https://github.com/microsoft/playwright-test) - 与 Playwright 正式构建跨浏览器端到端测试套件.
-- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - 让 Playwright 使用 axe-core 运行可访问性 (a11y) 检查的自定义命令.
+- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Playwright 使用 axe-core 运行可访问性 (a11y) 检查的自定义命令.
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - 期望匹配器在您的 Playwright 测试中执行 Ax 可访问性测试.
 
 ## Language Support
@@ -40,7 +40,7 @@
 - [playwright-video](https://github.com/qawolf/playwright-video) - 记录您的 Chromium 浏览器会话.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - 围绕 Playwright 的 Fluent API Wrapper.
 - [headless-testing](https://headlesstesting.com) - 将您的 Playwright 测试与云中的浏览器连接起来.
-- [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect 实用程序匹配器功能可简化与 Playwright Test 或 Jest Playwright 一起使用的 expect 语句.
+- [expect-playwright](https://github.com/playwright-community/expect-playwright) - 期望实用程序匹配器功能可简化与 Playwright Test 或 Jest Playwright 一起使用的期望语句.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - 满足您的 Playwright 测试需求的 ESLint 插件.
 - [Moon](https://github.com/aerokube/moon) - 用于在 Kubernetes 集群中并行执行 Playwright 测试的工具.
 - [playwright-session](https://github.com/domderen/playwright-session) - 用于剧作家自动化的可视化调试器.
@@ -48,10 +48,10 @@
 
 ## Showcases
 
-- [playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - 结合 Jest Playwright 工具测试流行网站的示例.
-- [playwright-demos](https://github.com/nmanikiran/playwright-demos) - 用于报废和 UI 测试/自动化测试工作流程的剧作家演示.
+- [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - 使用 Playwright 的各种测试场景，使用官方测试运行程序和在 TypeScript 中编写的脚本.
+- [playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - 结合 Jest Playwright 工具来测试流行网站的示例.
 - [VS Code](https://github.com/microsoft/vscode) - Playwright 用于在其 Web 构建上运行跨浏览器测试.
-- [TypeScript](https://github.com/microsoft/TypeScript) - Playwright 用于跨浏览器测试 typescript.js.
+- [TypeScript](https://github.com/microsoft/TypeScript) - 剧作家用于跨浏览器测试 typescript.js.
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright 用于跨浏览器运行基准测试.
 - [Blockstack](https://github.com/blockstack/ux) - Playwright 用于运行跨浏览器 UI 测试.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright 用于运行跨浏览器集成测试.

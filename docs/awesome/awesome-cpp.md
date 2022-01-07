@@ -164,7 +164,7 @@
  * [termbox](https://github.com/nsf/termbox)  - 用于编写基于文本的用户界面的 AC 库.  [麻省理工学院]
  * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  - 用于编写多平台终端应用程序的小型头文件 C++ 库.  [麻省理工学院]
  * [FTXUI](https://github.com/ArthurSonzogni/FTXUI)  - C++ 功能终端用户界面.  [麻省理工学院]
- * [imtui](https://github.com/ggerganov/imtui) - 即时模式基于文本的用户界面 [麻省理工学院]
+ * [imtui](https://github.com/ggerganov/imtui) - 即时模式基于文本的用户界面 [MIT]
 
 ## Compression
 *压缩和存档库*
@@ -215,7 +215,7 @@
 * [libcds](https://github.com/khizmax/libcds)  - 并发数据结构的 C++ 库.  [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph)  - 基于 OpenCL 的 GPU 加速 SPH 流体模拟库.  [麻省理工学院]
 * [libdill](https://github.com/sustrik/libdill/) - 在 C 中引入结构化并发. [麻省理工学院]
-* [libdispatch](https://github.com/apple/swift-corelibs-libdispatch)  - Grand Central Dispatch (GCD)，由苹果公司开发，是一种基于线程池模式的任务并行技术.  libdispatch 是一个提供 GCD 服务实现的库.  [Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
+* [libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. [Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 * [libmill](https://github.com/sustrik/libmill/) - 在 C 中引入 Go 风格的并发. [麻省理工学院]
 * [marl](https://github.com/google/marl) - Marl 是用 C++ 11 编写的混合线程/光纤任务调度程序. [Apache-2.0]
 * [moderngpu](https://github.com/moderngpu/moderngpu)  - Moderngpu 是一个用于在 GPU 上进行通用计算的生产力库. 它是一个为 CUDA 编写的只有头文件的 C++ 库. 该库的独特价值在于其用于解决不规则并行问题的加速原语.  [FreeBSD 和版权，肖恩·巴克斯特]
@@ -596,6 +596,7 @@
 * [ceres-solver](http://ceres-solver.org/)  - 来自 google 的用于建模和解决大型复杂非线性最小二乘问题的 C++ 库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)  - 高效可靠的几何算法的集合.  [LGPL&amp;GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)  - 用于游戏和图形的免费 C++ 数学库.  [促进]
+* [CNL](https://github.com/johnmcfarlane/cnl/)  - C++ 的组合数字库.  [促进]
 * [CXXGraph](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. [AGPL-3.0]
 * [Dlib](https://github.com/davisking/dlib)  :zap: - 现代 C++11 机器学习、计算机视觉、数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/)  - 用于线性代数、矩阵和向量运算、数值求解器和相关算法的模板头的高级 C++ 库.  [MPL2]
@@ -742,7 +743,7 @@
 * [Magic Enum](https://github.com/Neargye/magic_enum)  - 仅标头的 C++17 库为枚举（到字符串、从字符串、迭代）提供静态反射，可处理任何枚举类型，无需任何宏或样板代码.  [麻省理工学院]
 * [magic_get](https://github.com/apolukhin/magic_get)  - std::tuple 类似用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)  - C++ 中仅标头、非侵入性和无宏的运行时反射系统.  [麻省理工学院]
-* [Nameof](https://github.com/Neargye/nameof)  - 仅头文件的 C++17 库提供了宏和函数的名称以获取变量、类型、函数、宏和枚举的简单名称.  [麻省理工学院]
+* [Nameof](https://github.com/Neargye/nameof)  - 仅头文件的 C++17 库提供了宏和函数的名称，以获取变量、类型、函数、宏和枚举的简单名称.  [麻省理工学院]
 * [Ponder](https://github.com/billyquith/ponder)  - 用于反射的 C++11 库.  [麻省理工学院]
 * [RTTR](https://github.com/rttrorg/rttr)  - 用于反射的 C++11 库.  [麻省理工学院] [website](http://www.rttr.org)
 * [visit_struct](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. [BSL-1.0]
@@ -830,7 +831,7 @@
 
 * [pdqsort](https://github.com/orlp/pdqsort)  - 打败模式的快速排序.  [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort)  - 一种模板化的稳定排序函数，对于反向或半排序数据，其性能优于基于快速排序的算法，包括 std::sort.  [麻省理工学院]
-* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 一种排序包装器，它允许将 std::sort（和其他随机访问排序函数）与非随机访问容器一起使用，并且还提高了随机访问容器中大型/非平凡可复制类型的排序性能和数组.  [zLib] [website](https://plflib.org/indiesort.htm)
+* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 一种排序包装器，它允许将 std::sort（和其他随机访问排序函数）与非随机访问容器一起使用，并且还提高了随机访问容器中大/非平凡可复制类型的排序性能和数组.  [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
 
@@ -938,7 +939,7 @@
 *C 或 C++ 编译器列表*
 
 * [8cc](https://github.com/rui314/8cc) - 一个小型的 C 编译器.
-* [c](https://github.com/ryanmjacobs/c)  - 一口气编译和执行C“脚本”！  [麻省理工学院]
+* [c](https://github.com/ryanmjacobs/c)  - 一口气编译并执行C“脚本”！  [麻省理工学院]
 * [Clang](http://clang.llvm.org/)  - LLVM 的 AC 编译器. 支持 C++11/14/1z C11. 由 LLVM 团队开发.  [国家安全局]
 * [GCC](https://gcc.gnu.org/)  - GNU 编译器集合. 支持 C++11/14/1z C11 和 OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)  - 一个非常古老的 C 编译器. 支持 C99.
@@ -961,7 +962,7 @@
 * [repl.it](https://repl.it) - 一个强大而简单的工具和平台，适用于教育者、学习者和开发者.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多个编译器（Clang、GCC、MSVC）和多个编辑器.
 * [Try It Online](https://tio.run/) - TIO 是一个在线解释器家族，适用于越来越多的实用和娱乐编程语言.
-* [Wandbox](http://melpon.org/wandbox/) - 带有 Boost 的在线 Clang/GCC 编译器.
+* [Wandbox](http://melpon.org/wandbox/) - 具有 Boost 的在线 Clang/GCC 编译器.
 * [paiza.io](https://paiza.io/en) - 具有多个文件支持功能、Github(gist) 集成和协作编辑的在线 C/C++ 编译器.
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - 一个简单易用的在线 C++ 编译器.
 
@@ -984,7 +985,7 @@
 * [CLion](http://www.jetbrains.com/clion/) - 来自 JetBrains 的跨平台 C 和 C++ IDE.
 * [Code::Blocks](http://www.codeblocks.org/) - 免费的 C、C++ 和 Fortran IDE.
 * [CodeLite](http://codelite.org/)  - 另一个跨平台的免费 C 和 C++ IDE.  [GPL2 插件除外]
-* [color_coded](https://github.com/jeaye/color_coded)  - 基于 libclang 的高亮显示的 vim 插件.  [麻省理工学院]
+* [color_coded](https://github.com/jeaye/color_coded)  - 用于基于 libclang 的高亮显示的 vim 插件.  [麻省理工学院]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 一个可移植的 C / C ++ / C ++ 11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - 基于 Eclipse 平台的全功能 C 和 C++ IDE.
 * [Geany](http://www.geany.org/)  - 小巧、快速、跨平台的 IDE.  [通用公共许可证]
@@ -1070,7 +1071,7 @@
 * [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) - CppCon 2015 演示材料.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) - CppCon 2014 演示材料.
 * [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) - 在 C++Now 2019 上展示的展示材料.
-* [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
+* [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - 在 C++Now 2018 上展示的演示材料.
 * [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) - 在 C++Now 2017 上展示的演示材料.
 * [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) - 在 C++Now 2016 上展示的演示材料.
 * [C++Now 2015 Presentations](https://github.com/boostcon/cppnow_presentations_2015) - 在 C++Now 2015 上提供的演示材料.
@@ -1169,7 +1170,7 @@
 
 * [lists](https://github.com/jnv/lists) - 在 GitHub 上策划的（很棒的）列表列表.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 令人敬畏的精选清单.
-* [awesome](https://github.com/sindresorhus/awesome) :zap: - 精选的精选列表.
+* [awesome](https://github.com/sindresorhus/awesome) :zap: - 精选列表的精选列表.
 * [C++ links](https://github.com/MattPD/cpplinks) - C++ 资源的分类列表.
 * [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness() 的镜像.
 * [Awesome C++](https://cpp.libhunt.com/) - LibHunt 的镜像.

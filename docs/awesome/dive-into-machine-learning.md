@@ -5,7 +5,7 @@
 你好呀！ 本指南适用于以下情况：
 
 * 你知道 Python 或 [you're learning it](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) ：蛇：
-* 你是新手 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * 你关心 [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
   * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
   * [Open Ethics Canvas](https://openethics.ai/canvas/)
@@ -93,10 +93,10 @@
 
 <details><summary>完全可选：一些播客片段</summary>
 
-一、下载 [an interview with Prof. Domingos on the _Data Skeptic_podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 星期天写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
+一、下载 [an interview with Prof. Domingos on the _Data Skeptic_podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  (2018). 教授. 周日写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
 你也可以开始阅读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm) ，清晰易懂的机器学习概述.  （它也可以作为有声读物使用.）
 
-接下来，订阅更多机器学习和数据科学播客！ 这些是很棒的、省力的资源，您可以随意从中学习更多. 到 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn), listen over time, with plenty of headspace. [By the way, don't speed up technical podcasts, that can hinder your comprehension.](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
+接下来，订阅更多机器学习和数据科学播客！ 这些是很棒的、省力的资源，您可以随意从中学习更多. 到 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn)，随着时间的推移聆听，有足够的空间. [By the way, don't speed up technical podcasts, that can hinder your comprehension.](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
 
 订阅_**[Talking Machines](http://www.thetalkingmachines.com/)**_.
 
@@ -120,7 +120,7 @@
 - [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家初创公司工作，该公司刚刚获得资金，开发了一款智能手机应用程序，可以从智能手机拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型从花中进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - 按主题分类的各种笔记本：
-    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - “这是一个交互式机器学习实验的集合.每个实验都包含️ Jupyter/Colab notebook（查看模型是如何训练的）和演示页面”
+    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) -“这是交互式机器学习实验的集合.每个实验都包含️ Jupyter/Colab notebook（以了解模型是如何训练的）和演示页面”
     - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - 系列笔记本：
     - [ageron/handson-ml2](https://github.com/ageron/handson-ml2)  - “Jupyter 笔记本，带您了解 Python 中机器学习和深度学习的基础知识.”  Scikit-Learn、Keras、TensorFlow 2.
@@ -256,7 +256,7 @@
 有哪些练习方法？
 
 <details>
-<summary><strong>一种方式：</strong>竞争和挑战</summary>
+<summary><strong>One way:</strong> competitions and challenges</summary>
 
 你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice 和 evaluate yourself](https://news.ycombinat或者.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) 和 [ChaLearn](http://www.chalearn.或者g/) 是机器学习竞赛的中心.  （你可以找到更多的比赛 [here](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) 或者 [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
 
@@ -356,9 +356,9 @@ You also need **understanding.** You should review what Kaggle competition winne
   * “被来自 50 个国家的 200 所大学采用”
   *“整本书是在 Jupyter 笔记本中起草的，将说明图、数学和交互式示例与自包含代码无缝集成.” 
   *“您可以修改代码并调整超参数以获得即时反馈，以积累深度学习的实践经验.”
-* **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - “深度学习论文已实施，并附有注释” - “我们正在积极维护此存储库并几乎每周添加新的实施.”
- * **[大卫·汉弗莱 (David Humphrey) 的“[深度] 学习的乐趣”.](https://github.com/humphd/have-fun-with-machine-learning)** 这是“取得成功的绝佳方式”自己”和hack-first. 然后你会很兴奋地继续……
-* **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** 有五门课程，作为课程的一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
+* **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - 代码、笔记本 - “实施了深度学习论文，并附有注释” - “我们几乎每周都在积极维护这个存储库并添加新的实现.”
+ * **[大卫·汉弗莱 (David Humphrey) 的“[深度] 学习的乐趣”.](https://github.com/humphd/have-fun-with-machine-learning)** 这可能是“超越自己”并以黑客为先. 也许作为另一个课程的斜坡，例如......
+* **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** 有五门课程，作为课程的一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) . 这些课程是他新事业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
   * 关于它的一些课程笔记： [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)
 * **[_Deep Learning_](https://www.deeplearningbook.org/)，麻省理工学院出版社出版的免费书籍.** 作者：Ian Goodfellow、Yoshua Bengio 和 Aaron Courville
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — 由 Greg Brockman（OpenAI 的联合创始人兼 CTO，前 Stripe 的 CTO）回答
@@ -366,6 +366,7 @@ You also need **understanding.** You should review what Kaggle competition winne
 * [Distill.pub](https://distill.pub/about/) 发布了非常棒的可探索性解释.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
 * [`explosion/thinc`](https://github.com/explosion/thinc), “深度学习的令人耳目一新的功能，与您最喜欢的库兼容”
+* [`fastai/fastbook`](https://github.com/fastai/fastbook) 作者：Jeremy Howard 和 Sylvain Gugger -“这些笔记本介绍了深度学习， [fastai](https://docs.fast.ai/)， 和 [PyTorch](https://pytorch.org/)."
 * [JAX - official quickstart Colab Notebooks to get to know JAX](https://github.com/google/jax#quickstart-colab-in-the-cloud)
 
 ### Easier sharing of deep learning models and demos
@@ -381,7 +382,7 @@ You also need **understanding.** You should review what Kaggle competition winne
 
 机器学习可以很强大，但它不是魔术.
 
-每当您应用机器学习来解决问题时，您都将在某个特定的问题域中工作. 为了获得好的结果，您或您的团队将需要“实质性专业知识”（重复使用之前的短语），这与“领域知识”有关. 为自己学习你能做的事......但你也应该**与专家合作.**如果你与专家合作，你会得到更好的结果 [subject-matter experts and domain experts](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)).
+每当您应用机器学习来解决问题时，您都将在某个特定的问题域中工作. 为了获得良好的结果，您或您的团队将需要“实质性专业知识”（重复使用之前的短语），这与“领域知识”有关. 为自己学习你能做的事......但你也应该**与专家合作.**如果与专家合作，你会获得更好的结果 [subject-matter experts and domain experts](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)).
 
 ### Machine Learning and User Experience (UX)
 

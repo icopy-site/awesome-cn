@@ -3,7 +3,8 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-一个很棒的开发者优先工具和产品的精选列表.
+一个很棒的开发者优先工具和产品的精选列表.  
+你可以关注我 [Twitter](https://twitter.com/agammore) 更多开发相关内容:) 
 
 这个 repo 的开发者优先的定义是：
 * 开发者是目标受众.
@@ -36,6 +37,7 @@
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Hanko](https://www.hanko.io/) - 无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR 兼容.
+* [SuperTokens](https://supertokens.io/]) - 使用预构建的 UI 开源和托管电子邮件和 Oauth 身份验证.
 
 ## CI/CD
 *持续集成/交付.*
@@ -57,6 +59,7 @@
 * [clarifai](https://www.clarifai.com/) - 一组计算机视觉 API.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌识别.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
+* [roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
 
 ## Databases & Spreadsheets
 *存储和处理数据.*
@@ -115,7 +118,11 @@
 * [Codota](https://www.codota.com/) - IDE 的 AI 代码完成.
     * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
 * [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
-    
+
+## Integrations
+*Integration management systems or products that ease integration development*
+* [apideck](https://www.apideck.com) - 集成市场构建器，与 3rd 方的一个 API，用于快速开发.
+
 ## Localization
 *翻译您的产品（也表示为 i18n）.*
 * [Localazy](https://localazy.com/) - 为开发人员构建的应用程序翻译.
@@ -175,7 +182,7 @@
 * [Paddle](https://paddle.com/) - 具有广泛地域支持的 SaaS 收入交付平台（与目前的 Stripe 不同）.
 
 ## Repo
-*Repository and artifacts management.*
+*存储库和工件管理.*
 * [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的软件包存储库.
 * [cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 
