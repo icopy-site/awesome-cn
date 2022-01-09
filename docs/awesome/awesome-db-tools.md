@@ -121,7 +121,7 @@
 
 ## Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
 
 
 ## Wrappers
@@ -151,7 +151,7 @@
 - [Datasette](https://github.com/simonw/datasette) - 探索和发布数据的工具.
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
 - [pgsync](https://github.com/ankane/pgsync) - 在数据库之间同步 Postgres 数据.
-- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像以 JSONB 形式存储到 PostgreSQL 中.
+- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像作为 JSONB 存储到 PostgreSQL 中.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - 使用 Postgres 逻辑解码功能通过 websocket 流式传输 Postgres 更改的 Golang 网络服务器至少一次.
 - [repmgr](https://github.com/2ndQuadrant/repmgr) - 最流行的 PostgreSQL 复制管理器.
 
@@ -283,6 +283,7 @@
 
 ### Formatters
   - [CodeBuff](https://github.com/antlr/codebuff) - 通过机器学习实现与语言无关的漂亮打印.
+  - [pgFormatter](https://github.com/darold/pgFormatter) - 一个 PostgreSQL SQL 语法美化器.
   - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - 用于漂亮打印 SQL 查询的 JavaScript 库.
 
 ### Parsers

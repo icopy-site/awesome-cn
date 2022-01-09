@@ -8,7 +8,7 @@
 ## Websites
 
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - 使用这些技巧驯服您的 Outlook，以便更接近令人敬畏的 _Inbox Zero_.
-- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - 关于如何使用“记住牛奶”实现 GTD 的教程.
+- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
 - [Inbox Zero](http://www.43folders.com/izero) - 严格的电子邮件管理方法旨在始终保持收件箱（几乎）为空.
 - [Lifehacker](http://lifehacker.com/) - 用于完成任务的提示、技巧和下载的首选博客.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - 将您的任务分成 25 分钟的包，并在更短的时间内完成更多工作.
@@ -70,11 +70,12 @@
 - [Todoist](https://todoist.com/) - 强大的跨平台生产力工具.
 - [Topydo](https://github.com/topydo/topydo) - 一个使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间.
 - [Trello](https://trello.com) - 看板方法任务板.
-- [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
+- [Tweek](https://tweek.so) - 超级简单的待办事项列表和每周任务管理.
 - [VivifyScrum](https://www.vivifyscrum.com)  - 交付团队的敏捷项目管理应用程序. 可定制的 Scrum 和看板.
 
 ### Habit Trackers
 
+- [Emoji Log](https://emojilog.rosano.ca) - 平静的、基于表情符号的跟踪器，用于不使用条纹的任意事物.
 - [Everyday](https://everyday.app/) - 通过每天做事来形成新的习惯.
 - [Habitica](https://habitica.com) - 在角色扮演游戏（以前称为_HabitRPG_）中完成您现实生活中的日常目标.
 - [HabitBull](http://www.habitbull.com/) - 高级习惯追踪器.
@@ -86,6 +87,7 @@
 - [AutoIt](https://www.autoitscript.com/) - Windows 的小工具，用于自动化 Windows GUI，但也可用于其他目的.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey 是一款免费的开源宏创建和自动化软件，适用于 Windows，允许用户自动执行重复性任务.
 - [IFTTT](https://ifttt.com) - 允许您在 Web 服务之间创建条件语句链（称为_recipes_），以使 Web 为您工作并提高您的工作效率.
+- [n8n](https://n8n.io) - 用于连接 Web 服务的开源工作流自动化，并可选择自托管.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈.
 - [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关的自定义任务的 Android 应用程序（_e.g._ 当您到家时自动打开 wifi）.
 - [Zapier](https://zapier.com/) - 自动化工具，可让您连接数百个 Web 服务并在流程之间创建自动化.

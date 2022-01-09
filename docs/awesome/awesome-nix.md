@@ -4,9 +4,9 @@
 
 &gt; Nix 社区中最佳资源的精选列表.
 
-[Nix](https://github.com/nixos/nix) 是 Linux 和其他 Unix 系统的强大包管理器，使包管理可靠且可重现.
+[Nix](https://github.com/nixos/nix) 是适用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
 
-*请阅读 [contribution guidelines](https://github.com/nix-community/awesome-nix/blob/master/CONTRIBUTING.md) 在贡献之前. *
+*请阅读 [contribution guidelines](https://github.com/nix-community/awesome-nix/blob/master/CONTRIBUTING.md) 在贡献之前.*
 
 
 
@@ -14,22 +14,22 @@
 
 ### Learning
 
-* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像一个让我们玩，但对于晦涩的软件文档.
-* [Nix Notes](https://github.com/noteed/nix-notes) - 一组关于 Nix 的简短注释，每个注释都贡献于同一个虚拟机映像.
+* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像 Let&#39;s Play，但用于晦涩的软件文档.
+* [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
-* [nix.dev](https://nix.dev/) - 开发人员使用 Nix 生态系统完成工作的自以为是的指南.
-* [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
+* [nix.dev](https://nix.dev/) - 为开发人员提供关于使用 Nix 生态系统完成工作的自以为是的指南.
+* [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线互动教程.
 
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - 轻松搜索所有或选定的 Nix 相关存储库.
-* [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - 查找频道中可用的软件包的所有版本以及您可以从中下载的版本.
-* [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 软件包的数据库.
+* [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - 查找频道中可用的软件包的所有版本以及可以从中下载的版本.
+* [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 包的数据库.
 
 ### Newsletters
 
-* [NixOS Weekly](https://weekly.nixos.org/) - *The* 时事通讯，随时了解社区更新.
+* [NixOS Weekly](https://weekly.nixos.org/) - *The* 时事通讯随时了解社区更新.
 
 ## Installation Media
 
@@ -39,13 +39,13 @@
 ## Channel History
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
-* [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git commit.
-* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - PR 是否已进入频道的跟踪器.
+* [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git 提交.
+* [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已进入频道的跟踪器.
 
 ## Deployment Tools
 
-* [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为模型.
-* [deploy-rs](https://github.com/serokell/deploy-rs) - 一个简单的多配置 Nix-flake 部署工具.
+* [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为蓝本.
+* [deploy-rs](https://github.com/serokell/deploy-rs) - 一个简单的多配置文件 Nix-flake 部署工具.
 * [krops](https://cgit.krebsco.de/krops/about/) - 用于远程或本地部署 NixOS 系统的轻量级工具包.
 * [KubeNix](https://github.com/xtruder/kubenix) - 使用 Nix 的 Kubernetes 资源构建器.
 * [KuberNix](https://github.com/saschagrunert/kubernix) - 通过 Nix 包的单依赖 Kubernetes 集群.
@@ -53,35 +53,36 @@
 * [Nixery](https://github.com/google/nixery) - 一个与 Docker 兼容的容器注册表，它通过 Nix 临时构建图像.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - 使用 Nix 的简单无头 VM 配置（类似于 Vagrant）.
-* [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
-* [terraform-nixos](https://github.com/tweag/terraform-nixos) - 一组旨在部署 NixOS 的 Terraform 模块.
-* [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统来编写您的 Terraform 代码.
+* [pushnix](https://github.com/arnarg/pushnix) - 推送 NixOS 配置并使用 ssh 触发重建的简单 cli 实用程序.
+* [terraform-nixos](https://github.com/tweag/terraform-nixos) - 一组用于部署 NixOS 的 Terraform 模块.
+* [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统编写您的 Terraform 代码.
 
 ## Command-Line Tools
 
 * [comma](https://github.com/Shopify/comma)  - 快速运行任何二进制文件； 将 `nix run` 和 `nix-index` 包装在一起.
-* [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一样式.
+* [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - 用于 nixpkgs 的 Nix 代码格式化程序.
-* [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - 将您的包装表达打成一个形状.
+* [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - 将您的包装表情打成形状.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - 在 Nix/NixOS 上轻松运行未打补丁的二进制文件.
 * [nix-diff](https://github.com/Gabriel439/nix-diff) - 解释为什么两个 Nix 派生不同的工具.
-* [nix-index](https://github.com/bennofs/nix-index) - 快速定位包含特定文件的 Nix 包.
+* [nix-index](https://github.com/bennofs/nix-index) - 快速定位具有特定文件的 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
+* [statix](https://github.com/nerdypepper/statix) - 用于检查和修复 Nix 代码中的反模式的 linter/fixer.
 
 ## Development
 
 * [Arion](https://github.com/hercules-ci/arion) - 在 Nix/NixOS 的帮助下运行 `docker-compose`.
-* [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - `nix-shell` 替代品，它使用缓存快速打开后续 shell.
-* [Cachix](https://cachix.org/)  - 托管二进制缓存服务； 开源项目免费.
-* [devshell](https://github.com/numtide/devshell) - 带有额外位和 toml 配置选项的 `mkShell` 能够载入非 nix 用户.
-* [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用程序功能可帮助编写薄片.
-* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的`.gitignore` 集成.
-* [lorri](https://github.com/target/lorri/) - 一个更好的`nix-shell` 用于开发，增强了 direnv.
+* [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - 使用缓存快速打开后续 shell 的“nix-shell”替代品.
+* [Cachix](https://cachix.org/)  - 托管二进制缓存服务； 免费用于开源项目.
+* [devshell](https://github.com/numtide/devshell) - `mkShell` 带有额外的位和 toml 配置选项，以便能够加入非 nix 用户.
+* [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用功能，以帮助编写薄片.
+* [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
+* [lorri](https://github.com/target/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
-* [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和 flake 兼容配置.
+* [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和符合 flake 的配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
-* [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和 CI 上运行 linter/格式化程序.
+* [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和你的 CI 上运行 linter/formatters.
 
 ## Programming Languages
 
@@ -103,19 +104,19 @@
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Nixpkgs 的替代 Haskell 基础设施.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Emacs 中的自动 Haskell 设置.
 * [nixkell](https://github.com/pwm/nixkell) - 使用 Nix 和 direnv 的 Haskell 项目模板.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) - 为 Haskell 项目生成 nix 表达式.
+* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
 
 ### Node.js
 
-* [Napalm](https://github.com/nmattia/napalm) - 支持使用轻量级 npm 注册表在 Nix 中构建 npm 包.
-* [node2nix](https://github.com/svanderburg/node2nix) - 从`package.json`（或`package-lock.json`）生成Nix 表达式（存储为文件）.
-* [npmlock2nix](https://github.com/tweag/npmlock2nix) - 从`package-lock.json`（内存中）生成 Nix 表达式，主要用于 Web 项目.
+* [Napalm](https://github.com/nmattia/napalm) - 支持在 Nix 中使用轻量级 npm 注册表构建 npm 包.
+* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（以文件形式存储）.
+* [npmlock2nix](https://github.com/tweag/npmlock2nix) - 从“package-lock.json”（内存中）生成 Nix 表达式，主要用于 Web 项目.
 * [yarn2nix](https://github.com/nix-community/yarn2nix) - 从 `yarn.lock` 文件生成 Nix 表达式.
 
 ### PHP
 
-* [composer2nix](https://github.com/svanderburg/composer2nix) - 生成 Nix 表达式以构建 Composer 包.
-* [composition-c4](https://github.com/fossar/composition-c4) - 支持从 `composer.lock`（使用 IFD）构建 Composer 包.
+* [composer2nix](https://github.com/svanderburg/composer2nix) - 生成 Nix 表达式以构建作曲家包.
+* [composition-c4](https://github.com/fossar/composition-c4) - 支持从 `composer.lock` 构建作曲家包（使用 IFD）.
 * [nix-phps](https://github.com/fossar/nix-phps) - Flake 包含旧的和未维护的 PHP 版本（用于 CI 使用）.
 
 ### PureScript
@@ -124,7 +125,7 @@
 
 ### Python
 
-* [mach-nix](https://github.com/DavHau/mach-nix) - 创建高度可重现的 Python 环境的工具.
+* [mach-nix](https://github.com/DavHau/mach-nix) - 创建高度可重现的 python 环境的工具.
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接从构建 Python 包 [Poetry's](https://python-poetry.org/)  `poetry.lock`. 无需转换步骤.
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - 为 Python 包生成 Nix 表达式.
 
@@ -134,7 +135,7 @@
 
 ### Rust
 
-* [fenix](https://github.com/nix-community/fenix) - 每晚用于 nix 的 Rust 工具链和 Rust 分析器.
+* [fenix](https://github.com/nix-community/fenix) - 适用于 nix 的 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与 Rust 工具链和 Firefox 的叠加.
@@ -144,23 +145,23 @@
 ### Scala
 
 * [sbt-derivation](https://github.com/zaninime/sbt-derivation) - sbt 的 mkDerivation，类似于 buildGoModule.
-* [sbt-nix.g8](https://github.com/gvolpe/sbt-nix.g8) - 用于具有 Nix 支持的新 Scala 项目的 gter8 模板.
+* [sbt-nix.g8](https://github.com/gvolpe/sbt-nix.g8) - 带有 Nix 支持的新 Scala 项目的 giter8 模板.
 
 ## NixOS Modules
 
 * [musnix](https://github.com/musnix/musnix) - 在 NixOS 中进行实时音频工作.
-* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Nixpkgs 扩展，专注于轻松部署 Web 相关技术.
-* [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，由 NixOS 模块管理.
+* [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Nixpkgs 扩展，重点是易于部署网络相关技术.
+* [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，使用 NixOS 模块进行管理.
 
 ## Overlays
 
-* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算包集.
+* [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算套件.
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层的协议，强调安全性.
-* [nix-darwin](https://github.com/LnL7/nix-darwin) - 就像在 NixOS 上一样管理 macOS 配置.
-* [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - 为 macOS 自动更新 Firefox 二进制包.
-* [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 流血边缘的 Wayland 包.
-* [NUR](https://github.com/nix-community/NUR/)  - Nix 用户存储库. 所有覆盖的母体，允许访问用户存储库并通过属性安装包.
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层协议，强调安全性.
+* [nix-darwin](https://github.com/LnL7/nix-darwin) - 像在 NixOS 上一样管理 macOS 配置.
+* [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - 自动更新 macOS 的 Firefox 二进制包.
+* [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 前沿的 Wayland 套餐.
+* [NUR](https://github.com/nix-community/NUR/)  - Nix 用户存储库. 所有覆盖之母，允许访问用户存储库并通过属性安装包.
 
 ## Community
 
@@ -168,5 +169,5 @@
 * [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - 获得帮助和讨论 Nix 相关主题的最佳场所.
-* [NixCon](https://nixcon.org/) - Nix 和 NixOS 贡献者和用户的年度社区会议.
+* [NixCon](https://nixcon.org/) - Nix 和 NixOS 的贡献者和用户的年度社区会议.
 * [Wiki (Unofficial)](https://nixos.wiki)
