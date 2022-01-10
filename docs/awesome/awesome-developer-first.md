@@ -127,7 +127,7 @@
 
 ## Integrations
 *简化集成开发的集成管理系统或产品*
-* [apideck](https://www.apideck.com) - 集成市场构建器，与第三方的一个 API，用于快速开发.
+* [Apideck](https://www.apideck.com) - 集成市场构建器，与第三方的一个 API，用于快速开发.
 
 ## Localization
 *Translating your product (also denoted i18n).*

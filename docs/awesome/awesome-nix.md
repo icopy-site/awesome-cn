@@ -83,6 +83,7 @@
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和符合 flake 的配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和你的 CI 上运行 linter/formatters.
+* [robotnix](https://github.com/danielfullmer/robotnix) - 用于 Android (AOSP) 图像的声明性和可重现的构建系统.
 
 ## Programming Languages
 
@@ -103,8 +104,8 @@
 * [cabal2nix](https://github.com/NixOS/cabal2nix) - 将 Cabal 文件转换为 Nix 构建表达式.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Nixpkgs 的替代 Haskell 基础设施.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Emacs 中的自动 Haskell 设置.
-* [nixkell](https://github.com/pwm/nixkell) - 使用 Nix 和 direnv 的 Haskell 项目模板.
-* [stack2nix](https://github.com/input-output-hk/stack2nix) - Generate nix expressions for Haskell projects.
+* [nixkell](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+* [stack2nix](https://github.com/input-output-hk/stack2nix) - 为 Haskell 项目生成 nix 表达式.
 
 ### Node.js
 

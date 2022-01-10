@@ -24,7 +24,7 @@
 * [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
 * [C++ Workflow](https://github.com/sogou/workflow)  - C++ 并行计算和异步网络引擎.  [阿帕奇2]
 * [Cinder](https://libcinder.org/)  - 一个社区开发的免费开源库，用于专业品质的创意编码.  [BSD]
-* [CO](https://github.com/idealvin/co)  - C++ 库集合，包含 go 风格的协程库、日志、JSON、RPC 框架和其他基础组件.  [麻省理工学院]
+* [cocoyaxi](https://github.com/idealvin/cocoyaxi)  - C++ 库集合，包含 go 风格的协程库、日志、JSON、RPC 框架和其他基础组件.  [麻省理工学院]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  - 一个小型的、仅包含标头的库，可将各种工具从最新的 C++ 标准向后移植到 C++03 及更高版本.  [麻省理工学院]
 * [Dlib](https://github.com/davisking/dlib) :zap: - 用于在 C++ 中制作真实世界机器学习和数据分析应用程序的工具包 [Boost] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  - 电子艺术标准模板库.  [BSD]
@@ -424,7 +424,7 @@
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/)  - 一个功能丰富的基于 Qt/OpenGL 的 C++ 编程库，本质上提供了一堆 3D 小部件.  [zlib]
 * [RmlUi](https://github.com/mikke89/RmlUi)  - HTML/CSS 用户界面库不断发展.  libRocket 的分支.  [麻省理工学院]
 * [Sciter](http://sciter.com/)  - Sciter 是一个可嵌入的 HTML/CSS/脚本引擎，旨在用作现代桌面应用程序的 UI 层.  [免费/商业]
-* [wxWidgets](http://wxwidgets.org/)  - 一个 C++ 库，允许开发人员使用单一代码库创建适用于 Windows、Mac OS X、Linux 和其他平台的应用程序.  [拥有 LGPL]
+* [wxWidgets](http://wxwidgets.org/)  - 一个 C++ 库，允许开发人员使用单一代码库为 Windows、Mac OS X、Linux 和其他平台创建应用程序.  [拥有 LGPL]
 * [xtd](https://github.com/gammasoft71/xtd)  - 现代 C++17/20 框架，用于在 Windows、macOS、Linux、iOS 和 android 上创建控制台 (CLI)、表单（类似于 WinForms 的 GUI）和 tunit（类似于 Microsoft 单元测试框架的单元测试）应用程序.  [麻省理工学院]
 * [Yue](https://github.com/yue/yue)  - 用于创建本机跨平台 GUI 应用程序的库.  [LGPLv2]
 
@@ -868,7 +868,7 @@
 * [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
 
 ## XML
- *XML 是废话. 真的. 没有任何借口.  XML 对人类来说很难解析，即使对计算机来说解析也是一场灾难. 这种可怕的废话没有理由存在.  - 莱纳斯·托瓦兹*
+ *XML 是废话. 真的. 没有任何借口.  XML 对人类来说是令人讨厌的解析，即使对计算机来说解析也是一场灾难. 这种可怕的废话没有理由存在.  - 莱纳斯·托瓦兹*
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
 * [Expat](http://www.libexpat.org/) - 用 C 编写的 XML 解析器库.[麻省理工学院]

@@ -6,7 +6,7 @@
 [<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
 <!--lint enable double-link-->
 
-&gt; 精心策划的很棒的可编写脚本的小部件列表.
+&gt; 精心策划的超棒 Scriptable 小部件列表.
 
 <!--lint disable double-link-->
 [Scriptable](https://scriptable.app/) 是一个使用 JavaScript 自动化 iOS 的应用程序. 
@@ -18,9 +18,9 @@
 
 - [BMW Linker](https://github.com/opp100/bmw-scriptable-widgets) - 有关您的 BMW 的信息，例如位置或里程.
 
-  <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/raw/main/screenshots/sc_1.png?raw=true" />
+  <img src="https://raw.githubusercontent.com/opp100/bmw-scriptable-widgets/main/screenshots/sc_1.png" width="400"/>
 
-- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - 有关您的福特汽车的信息，例如位置或里程.
+- [FordPassWidget](https://github.com/dschablowsky/FordPassWidget) - 关于您的福特汽车的信息，例如位置或里程.
 
   <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
@@ -42,7 +42,7 @@
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
   
-- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - 带有 Unsplash 背景的日期和时间问候语. 
+- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - 来自 Unsplash 的带有背景的日期和时间问候语. 
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - 来自联系人的即将到来的生日列表.
 
@@ -52,7 +52,7 @@
 
   <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
-- [ScriptableWordClockWidget](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - 以书面形式显示当前时间的时钟.
+- [ScriptableWordClockWidget](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - 时钟以书面形式显示当前时间.
 
   <img src="https://user-images.githubusercontent.com/59827320/133928177-b32f866d-0ae5-46c8-89c9-aa2cb21971e4.png" width="400"/>
 
@@ -74,13 +74,13 @@
 
 ## Food
 
-- [FoodRecipeWidget](https://github.com/shfrmn/scriptable-recipe) - 在 YouTube 上打开烹饪视频的随机食物食谱小部件.
+- [scriptable-recipe](https://github.com/shfrmn/scriptable-recipe) - 在 YouTube 上打开烹饪视频的随机食物食谱小部件.
 
   <img src="https://user-images.githubusercontent.com/12446468/108283292-f11b9e80-717a-11eb-9a79-8848e5803166.PNG" width="400"/>
 
 ## Gaming
 
-- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - 有关 Minecraft 服务器的信息.
+- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - 关于 Minecraft 服务器的信息.
 
 - [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - 显示用户 Steam 愿望清单中的项目.
 
@@ -100,7 +100,7 @@
 
   <img src="https://user-images.githubusercontent.com/8177259/96705591-cb7db480-1395-11eb-8fb3-cff401898bc2.jpg" width="800"/>
 
-- [VodafoneDE](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - 基于 Vodafone DE 资费的数据消耗.
+- [VodafoneDE](https://github.com/ThisIsBenny/iOS-Widgets/tree/main/VodafoneDE) - 基于 Vodafone DE 关税的数据消耗.
 
   <img src="https://raw.githubusercontent.com/ThisIsBenny/iOS-Widgets/main/VodafoneDE/previewLight.jpeg" width="200"/>
 
@@ -124,19 +124,19 @@
 
   <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
-- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - 来自德国新闻网站 _Tagesschau_ 的最新文章.
+- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - 来自德国新闻网站_Tagesschau_ 的最新文章.
 
   <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
 
 ## Social
 
-- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - 用于开始对话的联系人图标.
+- [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - 联系人图标开始对话.
 
   <img src="https://raw.githubusercontent.com/andyngo/conversable-for-scriptable/raw/main/conversable.png" width="400"/>
 
 - [ig-latest-post.js](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - 来自选定 Instagram 用户的最新帖子.
 
-- [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - 类似终端的用户数量输出.
+- [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - 用户数量的终端式输出.
 
   <img src="https://user-images.githubusercontent.com/32114380/90952313-18780400-e495-11ea-9791-20634a895af6.PNG" width="400"/>
   
@@ -144,7 +144,7 @@
 
 - [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - 货币汇率.
 
-- [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - 附近药店提供卫生纸.
+- [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - 附近药店的卫生纸供应.
 
   <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
 
@@ -164,29 +164,31 @@
 
 ## Tools
 
-- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - 来自 GitLab 的统计数据，例如分配的合并请求的数量.
+- [gitlab-stats-for-scribtable](https://github.com/p0fi/gitlab-stats-for-scribtable) - 来自 GitLab 的统计数据，例如分配的合并请求数.
 
   <img src="https://raw.githubusercontent.com/p0fi/gitlab-stats-for-scribtable/raw/main/cover.png" width="800"/>
 
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - 创建“隐形”背景.
 
-- [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - 关于 Plesk 服务器的信息.
+- [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - 有关 Plesk 服务器的信息.
 
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - PurpleAir 传感器的空气质量.
 
   <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
 
+- [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - 获取有关 TestFlight 测试版中新点的通知.
+
 - [Scriptables-WindowWidget](https://github.com/Robby3St/Scriptables-WindowWidget) - 设置房间通风提醒.
 
   <img src="https://raw.githubusercontent.com/Robby3St/Scriptables-WindowWidget/main/preview.jpg" width="400"/>
 
-- [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - 网络服务器的可达性.
+- [server-status-widget.js](https://gist.github.com/dioncodes/cd4554d8593814a94925735cbcdea0c8) - Web 服务器的可达性.
 
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - WooCommerce 商店的销售统计数据.
 
   <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
-- [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - 当前或随机 xkcd 漫画.
+- [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - 当前或随机的 xkcd 漫画.
 
 ## Traveling
 
@@ -196,7 +198,7 @@
 
 ### Download helper
 
-- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - 将代码（即从 Pastebin、GitHub）下载到 Scriptable 的脚本.
+- [Import-Script.js](https://github.com/supermamon/scriptable-scripts/blob/master/Import-Script.js) - 将代码（即，从 Pastebin、GitHub）下载到 Scriptable 中的脚本.
 
 - [scriptdu.de](https://scriptdu.de) - 脚本的下载器和更新器.
 
