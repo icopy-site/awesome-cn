@@ -8,9 +8,9 @@
 ## Websites
 
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - 使用这些技巧驯服您的 Outlook，以便更接近令人敬畏的 _Inbox Zero_.
-- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - A tutorial on how to implement GTD with Remember the Milk.
+- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - 关于如何使用“记住牛奶”实现 GTD 的教程.
 - [Inbox Zero](http://www.43folders.com/izero) - 严格的电子邮件管理方法旨在始终保持收件箱（几乎）为空.
-- [Lifehacker](http://lifehacker.com/) - 用于完成任务的提示、技巧和下载的首选博客.
+- [Lifehacker](http://lifehacker.com/) - The go-to blog for tips, tricks, and downloads for getting things done.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - 将您的任务分成 25 分钟的包，并在更短的时间内完成更多工作.
 - [r/Productivity](https://www.reddit.com/r/productivity/) - 生产力 subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - 多年来一直保持桌面清洁的小技巧.
@@ -42,7 +42,7 @@
 - [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的跨平台笔记应用程序.
 - [Joplin](https://joplinapp.org/) - 具有同步功能的笔记和待办事项应用程序.
 - [Notion](https://www.notion.so/) - 用于笔记、任务、wiki 和列表的一体化高度可定制的工作区.
-- [Yana](https://yana.js.org) - 具有嵌套文档、全文搜索、富文本编辑器、代码片段编辑器等功能的强大笔记应用.
+- [Yana](https://yana.js.org) - 具有嵌套文档、全文搜索、富文本编辑器、代码片段编辑器等功能的强大笔记应用程序.
 - [OneNote](https://www.onenote.com/) - 非常好的笔记管理解决方案，但最适合 Windows 用户.
 - [Preserver](https://github.com/hsbalar/preserver) - 基于 Electron 的笔记管理器桌面应用程序.
 - [Simplenote](https://simplenote.com/)  - 轻便、干净、免费.  Simplenote 现在可用于 iOS、Android、Mac、Windows、Linux 和 Web.
@@ -89,6 +89,7 @@
 - [IFTTT](https://ifttt.com) - 允许您在 Web 服务之间创建条件语句链（称为_recipes_），以使 Web 为您工作并提高您的工作效率.
 - [n8n](https://n8n.io) - 用于连接 Web 服务的开源工作流自动化，并可选择自托管.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈.
+- [Parabola](https://parabola.io) - 拖放工具来构建自定义报告、工作流和集成，以自动化您的手动流程.
 - [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关的自定义任务的 Android 应用程序（_e.g._ 当您到家时自动打开 wifi）.
 - [Zapier](https://zapier.com/) - 自动化工具，可让您连接数百个 Web 服务并在流程之间创建自动化.
 
