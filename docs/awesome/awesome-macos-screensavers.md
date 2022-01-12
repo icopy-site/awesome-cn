@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; macOS 屏幕保护程序的精选列表.
+&gt; 精选的 macOS 屏幕保护程序列表.
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出东西.
+灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
 
 
@@ -26,13 +26,13 @@
 
 ### Word Clock
 
- &gt; 一个由文字组成的时钟. 它在圆形和段落布局之间切换.
+ &gt; 一个由文字组成的时钟. 它在循环布局和段落布局之间切换.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
 
 ### Fractal Clock
 
-&gt; 一个时钟，当它移动时会在它周围产生一个分形树图案.
+&gt; 一个时钟，它在移动时会在其周围产生分形树图案.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
 
@@ -44,19 +44,19 @@
 
 ### Grid Clock
 
-&gt; 十二小时的时间.
+&gt; 十二小时的文字时间.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/gridClock.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
 
 ### Word Clock
 
-&gt; 一个超级简单的字钟，就像你的电脑正在为你打字一样.
+&gt; 一个超级简单的字时钟，就像你的电脑正在为你输入时间一样.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
 ### Simple Clock
 
-&gt; 一个简单的时钟屏幕保护程序，以不同的模拟钟面作为​​皮肤.
+&gt; 一个简单的时钟屏幕保护程序，具有不同的模拟钟面作为​​皮肤.
 
 Free
 
@@ -64,13 +64,13 @@ Free
 
 ### ColorClock
 
-&gt; 显示与当前时间相对应的纯色.
+&gt; 显示与当前时间对应的纯色.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
 ### ScreenMazer
 
-&gt; 连续建造然后解决迷宫，同时显示当前时间.
+&gt; 不断构建然后解决迷宫，同时显示当前时间.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
@@ -84,13 +84,13 @@ Free
 
 ### Predator
 
-&gt; 受掠食者启发的时钟屏幕保护程序.
+&gt; 受捕食者启发的时钟屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
 
 ### Death Counter
 
-&gt; 一个简单的计数器屏幕保护程序，可以倒计时到您的死亡. 
+&gt; 一个简单的计数器屏幕保护程序，可以倒计时到你的死亡. 
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
 
@@ -102,23 +102,29 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
+### MultiClock
+
+&gt; 使用 24 个独立时钟显示时间（和动画）
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/multiclock.png)](https://github.com/amiantos/multiclock)
+
 ## Apple Inspired
 
 ### Aerial
 
-&gt; 适用于 Mac 的 Apple TV 空中屏保.
+&gt; 适用于 Mac 的 Apple TV 空中屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
 
 ### Apple Watch
 
-&gt; 看起来像 Apple Watch 的屏幕保护程序.
+&gt; 一个看起来像 Apple Watch 的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
 ### Brooklyn
 
-&gt; 灵感来自 Apple 2018 年 10 月 30 日活动的屏幕保护程序
+&gt; 受 Apple 2018 年 10 月 30 日活动启发的屏幕保护程序
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
 
@@ -126,7 +132,7 @@ Free
 
 ## MusaicFM
 
-&gt; 灵感来自 Spotify 和 Last.fm 的 iTunes Artwork Screensaver 的屏幕保护程序.
+&gt; 受 iTunes Artwork Screensaver for Spotify 和 Last.fm 启发的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
@@ -134,13 +140,13 @@ Free
 
 ### iOS Lockscreen for macOS
 
-&gt; 看起来像 iPhone 和 iPad 上的锁屏的屏幕保护程序.
+&gt; 一个看起来像 iPhone 和 iPad 上的锁屏的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
 
 ### October 30
 
-&gt; 在 2018 年 iPad 活动中的 371 个 Apple 标志之间顺畅地变换.
+&gt; 在 2018 年 iPad 活动中的 371 个 Apple 徽标之间平滑切换.
 
 Free
 
@@ -158,7 +164,7 @@ Free
 
 ### PongSaver
 
- &gt; PongSaver 是一个 macOS 屏幕保护程序/时钟，它通过使用 Pong 游戏的分数来计时. 左边每小时赢一次，右边每分钟赢一次.
+ &gt; PongSaver 是一个 macOS 屏幕保护程序/时钟，它通过使用 Pong 游戏的分数来保持时间. 左边一小时赢一次，右边一分钟赢一次.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
@@ -174,19 +180,19 @@ $0.99
 
 ### The Github Matrix Screensaver
 
-&gt; 来自 GitHub 的最新提交以矩阵风格的动画形式呈现.
+&gt; 来自 GitHub 的最新提交以 Matrix 风格的动画可视化.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
 
 ### StarWarsScroll
 
-&gt; 重现了前 6 部星球大战电影的开场标题.
+&gt; 重现前 6 部星球大战电影的片头.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/starWarsScroll.png)](http://download.cnet.com/StarWarsScroll-Screen-Saver/3000-2257_4-82580.html)
 
 ### Matrix
 
-&gt; 矩阵的一种解释.
+&gt; 黑客帝国的一种解释.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
@@ -224,7 +230,7 @@ Free
 
 ### Windows Kernel Panic
 
-&gt; Mac 蓝屏死机 (BSOD) 屏幕保护程序.
+&gt; 适用于 Mac 的蓝屏死机 (BSOD) 屏幕保护程序.
 
 Free
 
@@ -234,7 +240,7 @@ Free
 
 ### Electric Sheep Infinite Evolving Artwork
 
-&gt; 不断变化的分形动画.
+&gt; 进化分形的动画.
 
 Free
 
@@ -250,7 +256,7 @@ Donationware
 
 ### Emoji Saver
 
-&gt; 以 7 种不同的效果为 Apple、EmojiOne 和 Twitter 表情符号制作动画，并提供许多可自定义的设置.
+&gt; 以 7 种不同的效果为 Apple、EmojiOne 和 Twitter Emoji 设置动画，并带有许多可自定义的设置.
 
 精简版（免费）和完整版（3 美元）
 
@@ -258,7 +264,7 @@ Donationware
 
 ### Life Saver
 
-&gt; 设计师友好的 Conway 生命游戏抽象可视化.
+&gt; 康威生命游戏的设计师友好的抽象可视化.
 
 免费（开源）
 
@@ -266,7 +272,7 @@ Donationware
 
 ### ElectropaintOSX
 
-&gt; 迷人的 Silicon Graphics 屏幕保护程序的端口
+&gt; 令人着迷的 Silicon Graphics 屏幕保护程序的端口
 
 免费（开源）
 
@@ -284,7 +290,7 @@ Free
 
 ### Last Statement
 
-&gt; 与 macOS 的“每日一词”屏幕保护程序类似，但不是单词和定义，而是德克萨斯州执行人员的姓名和最后声明.
+&gt; 与 macOS 的“每日词汇”屏幕保护程序类似，但不是单词和定义，而是德克萨斯州执行人员的姓名和最后陈述.
 
 免费（开源）
 
@@ -306,4 +312,4 @@ Free
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃本作品的所有版权和相关或邻近权利.
