@@ -41,6 +41,7 @@
 - [beets](https://github.com/beetbox/beets) - 音乐库管理器和标记器.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify 客户端.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify 歌词.
+- [dzr](https://github.com/yne/dzr) - deezer.com 播放器.
 
 ### Social Media
 
@@ -142,7 +143,7 @@
 - [s3cmd](https://github.com/s3tools/s3cmd) - 功能齐全的 S3 客户端.
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程管理器.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
-- [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) - 用于 apache-common、apache error 和 RFC3164 syslog 等日志格式的虚假日志生成器.
 - [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息传递平台和电子邮件发送消息/警报.
@@ -194,7 +195,7 @@
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker 客户端.
 - [g3l](https://github.com/svtek/g3l) - 世界上最简单的 git cli！
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
-- [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
+- [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [googler](https://github.com/jarun/googler) - 从终端谷歌.
 - [papis](https://github.com/papis/papis) - 可扩展的文档和书目管理器.
 
@@ -205,6 +206,7 @@
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 具有简单秒表、基于日历的回填和灵活报告的实用程序.
 - [Watson](https://github.com/TailorDev/Watson) - 为客户生成报告并管理您的时间.
 - [utt](https://github.com/larose/utt) - 简单的时间跟踪工具.
+- [Bartib](https://github.com/nikolassv/bartib) - 易于使用的时间跟踪工具.
 
 ### Note Taking and Lists
 
@@ -321,7 +323,7 @@
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在您的本地计算机上下载并安装 Google Web Fonts.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
-- [tiptop](https://github.com/nschloe/tiptop) - System monitor.
+- [tiptop](https://github.com/nschloe/tiptop) - 系统监视器.
 
 ### Markdown
 
@@ -442,7 +444,7 @@
 - [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对文件和目录的快速访问，灵感来自 autojump、z 和 v.
 - [pm](https://github.com/Angelmmiguel/pm) - 在 shell 上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) - z 是新的 j，哟.
-- [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker 会为您提供一个漂亮的用户界面来选择您感兴趣的文件.
+- [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker 会为您提供一个漂亮的 UI，以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) - z 的无缝模糊选项卡完成.
 - [goto](https://github.com/iridakos/goto) - 具有自动完成功能的 shell 的目录别名.
 - [z.lua](https://github.com/skywind3000/z.lua) - `cd` 命令学习你的习惯.
@@ -452,7 +454,7 @@
 
 - [happyfinder](https://github.com/hugows/hf) - （另一个）命令行的模糊文件查找器.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过上层目录查找文件.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - 一种面向行的搜索工具，可递归地在当前目录中搜索正则表达式模式.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - 一种面向行的搜索工具，可以递归地在当前目录中搜索正则表达式模式.
 - [fzf](https://github.com/junegunn/fzf) - 通用命令行模糊查找器，可用于任何列表：文件/目录、命令历史记录、进程、主机名、书签、git 提交等.
 - [fselect](https://github.com/jhspetersson/fselect) - 使用类似 SQL 的查询查找文件.
 - [fd](https://github.com/sharkdp/fd) - 一个简单、快速和用户友好的 `find` 替代方案.

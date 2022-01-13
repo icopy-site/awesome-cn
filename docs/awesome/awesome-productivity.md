@@ -10,7 +10,7 @@
 - [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) - 使用这些技巧驯服您的 Outlook，以便更接近令人敬畏的 _Inbox Zero_.
 - [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) - 关于如何使用“记住牛奶”实现 GTD 的教程.
 - [Inbox Zero](http://www.43folders.com/izero) - 严格的电子邮件管理方法旨在始终保持收件箱（几乎）为空.
-- [Lifehacker](http://lifehacker.com/) - The go-to blog for tips, tricks, and downloads for getting things done.
+- [Lifehacker](http://lifehacker.com/) - 用于完成任务的提示、技巧和下载的首选博客.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - 将您的任务分成 25 分钟的包，并在更短的时间内完成更多工作.
 - [r/Productivity](https://www.reddit.com/r/productivity/) - 生产力 subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - 多年来一直保持桌面清洁的小技巧.
@@ -31,9 +31,10 @@
 - [Box](https://www.box.com) - 非常适合企业客户的云存储解决方案.
 - [Dropbox](https://www.dropbox.com) - 简单、优雅、多功能的云存储解决方案.
 - [Google Drive](https://www.google.ca/drive/) - 深度集成在谷歌生态系统中的云存储解决方案.
-- [OneDrive](https://onedrive.live.com) - 适用于 Windows 用户的最佳云存储解决方案.
 - [Mega](https://mega.nz/) - 一个非常大方（从一开始就 50G）和高度安全的云存储解决方案.
 - [Nextcloud](https://nextcloud.com) - 让您掌控一切的自托管生产力平台.
+- [OneDrive](https://onedrive.live.com) - 适用于 Windows 用户的最佳云存储解决方案.
+- [pCloud](https://www.pcloud.com/) - 高度关注安全性的云存储解决方案.
 
 ### Note Management
 
@@ -42,7 +43,7 @@
 - [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的跨平台笔记应用程序.
 - [Joplin](https://joplinapp.org/) - 具有同步功能的笔记和待办事项应用程序.
 - [Notion](https://www.notion.so/) - 用于笔记、任务、wiki 和列表的一体化高度可定制的工作区.
-- [Yana](https://yana.js.org) - 具有嵌套文档、全文搜索、富文本编辑器、代码片段编辑器等功能的强大笔记应用程序.
+- [Yana](https://yana.js.org) - 具有嵌套文档、全文搜索、富文本编辑器、代码片段编辑器等功能的强大笔记应用.
 - [OneNote](https://www.onenote.com/) - 非常好的笔记管理解决方案，但最适合 Windows 用户.
 - [Preserver](https://github.com/hsbalar/preserver) - 基于 Electron 的笔记管理器桌面应用程序.
 - [Simplenote](https://simplenote.com/)  - 轻便、干净、免费.  Simplenote 现在可用于 iOS、Android、Mac、Windows、Linux 和 Web.
@@ -66,7 +67,7 @@
 - [Timely](https://memory.ai/timely)  - 自动时间跟踪软件. 获得所有项目和团队时间的完美数字记录，无需手动计时器和记笔记的麻烦.
 - [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间.
 - [Tinido](https://tinido.com/) - 一个漂亮而简单的任务管理应用程序，它还可以通过在类似于您在 GitHub 个人资料中找到的贡献图中显示您已完成的任务来为您提供见解.
-- [Todo.txt](http://todotxt.com/)  - 厌倦了用复杂的应用程序来组织你的任务？  Todo.txt 是一种使用单个“.txt”文件来帮助您完成工作的技术.
+- [Todo.txt](http://todotxt.com/)  - 厌倦了使用复杂的应用程序来组织您的任务？  Todo.txt 是一种使用单个“.txt”文件来帮助您完成工作的技术.
 - [Todoist](https://todoist.com/) - 强大的跨平台生产力工具.
 - [Topydo](https://github.com/topydo/topydo) - 一个使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间.
 - [Trello](https://trello.com) - 看板方法任务板.
@@ -95,7 +96,7 @@
 
 ### Password Manager
 
-- [Bitwarden](https://bitwarden.com) - 免费、受信任的密码管理器，可以在线或通过本机应用程序存储、同步和生成密码.
+- [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
 - [LastPass](https://lastpass.com) - 免费增值密码管理器，可在线存储加密密码.
 
 ### Knowledge Management
