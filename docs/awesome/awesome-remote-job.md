@@ -183,17 +183,18 @@
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - 来自亚洲的远程技术、艺术/设计和营销机会，包括全球薪资服务.
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
-  1. [SwissDev Jobs](https://swissdevjobs.ch/) -过滤器-&gt;“远程/在家工作”
-  1. [Upwork](https://www.upwork.com) - 查找任何类别的远程工作
-  1. [Virtual Vocations](https://www.virtualvocations.com/)
-  1. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找 Vue.js 工作 - 单击“远程”选项卡.
-  1. [React.js Jobs](https://www.react-jobs.com) 在世界各地查找 React.js 工作 - 单击“远程”切换按钮.
-  1. [Remote.com](https://remote.com) - 尝试自动匹配您的工作，可以从 LinkedIn 导入个人资料
-  2. [Web3Jobs](https://web3.career/remote-jobs) - 远程 Web3 作业
-  3. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  4. [We Work Remotely](https://weworkremotely.com/)
-  5. [Workana](https://www.workana.com/) 西班牙语和葡萄牙语的自由职业委员会
-  6. [Working Nomads](https://www.workingnomads.co/jobs)
+  2. [Stream Native Jobs](https://streamnative.io/careers/) - 向下滚动到“加入我们”
+  3. [SwissDev Jobs](https://swissdevjobs.ch/) -过滤器-&gt;“远程/在家工作”
+  4. [Upwork](https://www.upwork.com) - 查找任何类别的远程工作
+  5. [Virtual Vocations](https://www.virtualvocations.com/)
+  6. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找 Vue.js 工作 - 单击“远程”选项卡.
+  7. [React.js Jobs](https://www.react-jobs.com) 在世界各地查找 React.js 工作 - 单击“远程”切换按钮.
+  8. [Remote.com](https://remote.com) - 尝试自动匹配您的工作，可以从 LinkedIn 导入个人资料
+  9. [Web3Jobs](https://web3.career/remote-jobs) - 远程 Web3 作业
+  10. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+  11. [We Work Remotely](https://weworkremotely.com/)
+  12. [Workana](https://www.workana.com/) 西班牙语和葡萄牙语的自由职业委员会
+  13. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/)  - 通过监控超过 150,000 家公司的职业页面，提供最广泛的远程技术工作选择. 里面有全文搜索和人工智能驱动的地理过滤器. 免费，无需注册.
@@ -201,7 +202,7 @@
   1. [Findwork](https://findwork.dev/) 使用 Glassdoor（评论）和 Crunchbase（资金）抓取多个工作委员会并丰富工作职位.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)   – 来自对位置、工作类型等敏感的多个委员会和雇主站点的聚合. 了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [JS Remotely](https://jsremotely.com/) - 一块板上的所有远程 JavaScript 作业
-  1. [Meerkad](https://meerkad.com/) - 由来自最受欢迎的远程工作委员会、公司网站、Facebook 群组、Twitter 搜索、Reddit、StackOverflow、HackerNews、Dribbble、Behance 等的社区工作精心挑选和策划  
+  1. [Meerkad](https://meerkad.com/) - 由来自最受欢迎的远程工作委员会、公司网站、Facebook 群组、Twitter 搜索、Reddit、StackOverflow、HackerNews、Dribbble、Behance 和许多其他人的社区工作精心挑选和策划  
   1. [Remote.io](https://www.remote.io/) - 远程工作的工作板和聚合器，主要是技术.
   1. [Remote 4 Me](https://remote4me.com/) - 技术和非技术远程工作的聚合器.
   1. [Remote Leaf](https://remoteleaf.com) - 从 40 多个远程工作委员会、1500 多个公司职业页面、Twitter 提要、Linkedin、Reddit、黑客新闻招聘中精心挑选的远程工作，并且只发送适合您的工作.
@@ -289,10 +290,10 @@
   1. [Alley](https://alley.co/jobs/)  - 数字代理. 我们是为出版商、非营利机构、博物馆和品牌打造定制数字体验的战略家、研究人员、设计师和开发人员.
   1. [ALICE](https://www.aliceplatform.com/careers/)  - 远程友好的初创公司. 我们正在为酒店业创建全球运营平台.  ALICE 使世界上最好的酒店能够提供卓越的宾客体验.
   1. [amazee.io](https://www.amazee.io/careers)  - 开源容器托管 - 高性能灵活的解决方案.  Kubernetes、TypeScript（Node.js 和 React）、Go、GraphQL.
-  1. [Ameego](http://ameego.ca/) - 餐厅调度软件.
+  1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails 和 React.js 专家，完全远程/异步.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
-  1. [AT&T](https://att.jobs) - 几乎 [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
+  1. [AT&T](https://att.jobs) - 几乎 [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) 远程工作.
   1. [Auth0](https://auth0.com/jobs) - 面向开发人员的零摩擦认证和授权.
   1. [Authentic F & F](https://authenticff.com/) - 位于丹佛和明尼苏达州的独立设计和技术工作室
   1. [Aurity](https://www.aurity.co/) - 100% 远程公司，专注于 React 和 React Native.
@@ -320,7 +321,7 @@
   1. [Circonus](https://www.circonus.com/careers)  - SaaS 和本地监控、分析、警报等.  C、围棋、Java、Perl. 总部位于 Fulton MD，大多数员工都在偏远地区.
   1. [Clevertech](https://clevertech.biz/careers) - 我们构建了令人难以置信的、改变游戏规则的技术.
   1. [Close](https://jobs.close.com/) - 面向初创公司和中小型企业的内部销售 CRM.
-  1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
+  1. [Codeship](https://codeship.com/jobs) - SaaS持续交付
   1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - 基于 Wine 的开源软件.
   1. [Collabora](https://www.collabora.com/careers.html) - 基于开源软件的咨询.
   1. [Collage](https://www.collage.com/careers)  - 我们提供最简单、最通用的工具，帮助您将照片变成回忆.  100% 远程团队.
@@ -475,45 +476,46 @@
   19. [Splice Machine](https://www.splicemachine.com/company/careers/) 在一个统一的 AI 平台中结合了关系数据库、数据仓库和机器学习的功能.
   20. [Spreaker](https://www.spreaker.com/jobs) 发现并收听您最喜爱的播客.
   21. [StackExchange](https://stackoverflow.com/company/work-here)
-  22. [Stripe](https://stripe.com/blog/remote-hub) Stripe 为互联网构建金融工具和经济基础设施
-  23. [Strongloop](https://strongloop.com/careers/)
-  24. [StyleSeat](http://static.styleseat.com/jobs/index.html) - 我们喜欢高影响力的远程工程师、协作、创造力、python、angularjs
-  25. [SuperOrbital](https://superorbit.al) - Kubernetes 工程和培训.
-  26. [Surevine](https://www.surevine.com/jobs/)
-  27. [Surge](https://www.surgeforward.com/careers/) - 100% 远程咨询公司，主要在 Node.JS、iOS、.NET、PHP 和 Android 领域工作
-  28. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote)  - Square 帮助数百万卖家开展业务——从安全的信用卡处理到销售点解决方案. 产品：Square 和 Cash App.
-  29. [Sysdig Cloud](https://sysdig.com/jobs/)
-  30. [Taskade](https://www.taskade.com/contact/) - 远程团队构建实时协作和团队协作编辑.
-  31. [TaxJar](https://www.taxjar.com/jobs/) - 消除销售税问题.
-  32. [Teamed.io](https://www.teamed.io/)
-  33. [TeamSnap](https://www.teamsnap.com/about/careers)  - TeamSnap 是排名第一的在线运动团队管理软件.  80% 远程员工
-  34. [TED](https://www.ted.com/about/our-organization/jobs-at-ted)  - 技术团队支持 ted.com 和内部工具. 所有工程师都是远程的.  Ruby on Rails、JavaScript、Ember.js
-  35. [Teleport](https://teleport.org/jobs/)
-  36. [Tesera](https://tesera.com/)  - 我们打破传统思维以扩大可能性. 我们在共同的未来点燃变革.
-  37. [The Grid](https://thegrid.io/)  - 人工智能网站建设者.  100% 分布式团队.
-  38. [Thermeon](https://thermeon.com/vacancies/) - 租车软件 - 100% 远程技术团队
-  39. [Thorn](https://thorn.org/careers) - 100% 远程公司，构建技术以打击在线儿童性虐待和贩运.
-  40. [TimeDoctor](https://www.timedoctor.com/about-us.html) - 使用屏幕截图、网络和应用程序使用监控以及集成进行时间跟踪.
-  41. [Tipe](https://tipe.io)  - 具有 GraphQL 或 REST API 的下一代 API-first CMS. 使用 Nuxt.js、无服务器、AWS 构建.  25% 远程
-  42. [Toggl](https://jobs.toggl.com/)
-  43. [Toptal](https://www.toptal.com/careers) - 100%远程开发公司，解决全球人才短缺问题
-  44. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - 城市旅行的背包.
-  45. [Transloadit](https://transloadit.com/jobs/) - 自 2009 年以来，由 devs for devs 提供的世界上最通用的文件上传和编码服务
-  46. [Trello](https://trello.com/jobs)
-  47. [Tyk](https://tyk.io/current-vacancies/)  - API 网关和 API 管理. 用 Go 构建，开源.
-  48. [Vidalingua](https://www.vidalingua.com/amaze.php) - 使语言应用程序栩栩如生.
-  49. [WAAT](https://waat.eu/job/) - 适应项目需求的跨职能数字机构.
-  50. [Walltime](https://walltime.info) - 使用区块链技术的巴西数字资产交易所和其他产品和服务.
-  51. [Water Lily Pond](https://waterlilypond.co.uk/) - 广告和营销传播服务.
-  52. [wemake.services](https://wemake.services/meta/employees)  - 我们出售可重复的软件开发过程. 完全远程.  Python、JavaScript、Vue
-  53. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
-  54. [X-Team](https://x-team.com/join/)  - 与非凡的开发人员一起从事令人难以置信的网络和移动项目. 释放你的潜力. 从任何地方. 我们是 X 团队.
-  55. [You Need a Budget](https://www.youneedabudget.com/jobs/) - 银行同步和目标和债务管理.
-  56. [YourSports](https://www.yoursports.com/jobs) - 您最喜欢的团队的社交网络.
-  57. [Zamphyr](https://zamphyr.com/)  - 学习计算机科学的学校 2.0. 远程优先，100% JavaScript，主要是 Meteor.
-  58. [Zapier](https://zapier.com/about/)
-  59. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst 商店有一些最好的 Perl 开发人员远程工作.
-  60. [The Appraisal Lane](https://www.theappraisallane.com/careers)  - 第三方车辆评估服务. 工作空间主要在奥斯汀和蒙得维的亚，但在其他国家也有.
+  22. [Stream Native](https://streamnative.io) 由 Apache Pulsar 提供支持的云原生消息传递和事件流
+  23. [Stripe](https://stripe.com/blog/remote-hub) Stripe 为互联网构建金融工具和经济基础设施
+  24. [Strongloop](https://strongloop.com/careers/)
+  25. [StyleSeat](http://static.styleseat.com/jobs/index.html) - 我们喜欢高影响力的远程工程师、协作、创造力、python、angularjs
+  26. [SuperOrbital](https://superorbit.al) - Kubernetes 工程和培训.
+  27. [Surevine](https://www.surevine.com/jobs/)
+  28. [Surge](https://www.surgeforward.com/careers/) - 100% 远程咨询公司，主要在 Node.JS、iOS、.NET、PHP 和 Android 领域工作
+  29. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote)  - Square 帮助数百万卖家开展业务——从安全的信用卡处理到销售点解决方案. 产品：Square 和 Cash App.
+  30. [Sysdig Cloud](https://sysdig.com/jobs/)
+  31. [Taskade](https://www.taskade.com/contact/) - 远程团队构建实时协作和团队协作编辑.
+  32. [TaxJar](https://www.taxjar.com/jobs/) - 消除销售税问题.
+  33. [Teamed.io](https://www.teamed.io/)
+  34. [TeamSnap](https://www.teamsnap.com/about/careers)  - TeamSnap 是排名第一的在线运动团队管理软件.  80% 远程员工
+  35. [TED](https://www.ted.com/about/our-organization/jobs-at-ted)  - 技术团队支持 ted.com 和内部工具. 所有工程师都是远程的.  Ruby on Rails、JavaScript、Ember.js
+  36. [Teleport](https://teleport.org/jobs/)
+  37. [Tesera](https://tesera.com/)  - 我们打破传统思维以扩大可能性. 我们在共同的未来点燃变革.
+  38. [The Grid](https://thegrid.io/)  - 人工智能网站建设者.  100% 分布式团队.
+  39. [Thermeon](https://thermeon.com/vacancies/) - 租车软件 - 100% 远程技术团队
+  40. [Thorn](https://thorn.org/careers) - 100% 远程公司，构建技术以打击在线儿童性虐待和贩运.
+  41. [TimeDoctor](https://www.timedoctor.com/about-us.html) - 使用屏幕截图、网络和应用程序使用监控以及集成进行时间跟踪.
+  42. [Tipe](https://tipe.io)  - 具有 GraphQL 或 REST API 的下一代 API-first CMS. 使用 Nuxt.js、无服务器、AWS 构建.  25% 远程
+  43. [Toggl](https://jobs.toggl.com/)
+  44. [Toptal](https://www.toptal.com/careers) - 100%远程开发公司，解决全球人才短缺问题
+  45. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - 城市旅行的背包.
+  46. [Transloadit](https://transloadit.com/jobs/) - 自 2009 年以来，由 devs for devs 提供的世界上最通用的文件上传和编码服务
+  47. [Trello](https://trello.com/jobs)
+  48. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
+  49. [Vidalingua](https://www.vidalingua.com/amaze.php) - 使语言应用程序栩栩如生.
+  50. [WAAT](https://waat.eu/job/) - 适应项目需求的跨职能数字机构.
+  51. [Walltime](https://walltime.info) - 使用区块链技术的巴西数字资产交易所和其他产品和服务.
+  52. [Water Lily Pond](https://waterlilypond.co.uk/) - 广告和营销传播服务.
+  53. [wemake.services](https://wemake.services/meta/employees)  - 我们出售可重复的软件开发过程. 完全远程.  Python、JavaScript、Vue
+  54. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
+  55. [X-Team](https://x-team.com/join/)  - 与非凡的开发人员一起从事令人难以置信的网络和移动项目. 释放你的潜力. 从任何地方. 我们是 X 团队.
+  56. [You Need a Budget](https://www.youneedabudget.com/jobs/) - 银行同步和目标和债务管理.
+  57. [YourSports](https://www.yoursports.com/jobs) - 您最喜欢的团队的社交网络.
+  58. [Zamphyr](https://zamphyr.com/)  - 学习计算机科学的学校 2.0. 远程优先，100% JavaScript，主要是 Meteor.
+  59. [Zapier](https://zapier.com/about/)
+  60. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst 商店有一些最好的 Perl 开发人员远程工作.
+  61. [The Appraisal Lane](https://www.theappraisallane.com/careers)  - 第三方车辆评估服务. 工作空间主要在奥斯汀和蒙得维的亚，但在其他国家也有.
 
 ## Q&A
   1. Chegg导师： [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
@@ -585,7 +587,7 @@
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity 重现咖啡馆的环境声音，以提高您的创造力并帮助您更好地工作.
   1. [Fiverr](https://www.fiverr.com/) - Fiverr 是世界上最大的精益企业家自由职业者服务市场，您可以在其中雇用远程工作者为您完成小任务.
   1. [EasyRetro](https://easyretro.io) - EasyRetro 是分布式团队的回顾性在线板.
-  1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - 聆听 Wikipedia 最近的更改提要的声音.
+  1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - 听听维基百科最近的变化提要的声音.
   1. [Noisli](https://www.noisli.com/) - Noisli 有一系列不同的环境声音，可以组合起来以提高创造力和专注力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) - `返回&#39;一系列用于聆听的混音，同时&#39;+任务+&#39;以帮助集中注意力并提高生产力（也与其他活动兼容）.&#39;;`
   1. [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈 (Mac).

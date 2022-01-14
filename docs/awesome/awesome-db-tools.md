@@ -47,8 +47,9 @@
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
 - [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，具有非技术用户的完整用户权限.
+- [ocelotgui](https://github.com/ocelot-inc/ocelotgui)  - 对于 MySQL、MariaDB 和 Tarantool. 为 Linux 开发，但可以在 Windows 上运行.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - 用于数据库管理的 Web 工具.
-- [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
+- [Pgweb](https://github.com/sosedoff/pgweb) - 基于 Web 的 PostgreSQL 数据库浏览器，用 Go 编写，可在 macOS、Linux 和 Windows 机器上运行.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - 基于 Web 的 SQLite 数据库管理工具，用 PHP 编写，支持 SQLite3 和 SQLite2.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL 和 MariaDB 的 Web 界面.
 - [psequel](http://www.psequel.com) - PSequel 提供了一个干净简单的界面让您快速执行常见的 PostgreSQL 任务.
@@ -78,7 +79,7 @@
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
 - [SQLLine](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 向关系数据库发出 SQL 的命令行 shell.
-- [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) 包括 NoSQL 和非关系型数据库！
+- [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 的通用命令行界面， [and many other databases](https://github.com/xo/usql#database-support) 包括 NoSQL 和非关系型数据库！
 
 ### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以进行自动补全和语法高亮.
@@ -98,7 +99,7 @@
 
 
 ## Modelers
-- [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler)  - 用于高质量数据模型的易于使用的数据库建模软件. 它是面向数据建模师和数据架构师的完整数据建模解决方案.
+- [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
 - [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler 是一个免费的图形工具，可提高生产力并简化数据建模任务.
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - 为 PostgreSQL 设计的数据建模工具.
@@ -121,7 +122,7 @@
 
 ## Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
 
 
 ## Wrappers
@@ -203,7 +204,7 @@
 ### Data generator
 - [Databene Benerator](https://sourceforge.net/projects/benerator) - 它是一个框架，用于为您的被测系统生成真实有效的大量测试数据（避免 Datalite 反模式）.
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 强大的 GUI 工具，用于创建大量真实的测试数据.
-- [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 小而强大的 GUI 工具，用于使用大量真实的测试数据填充 Oracle 模式.
+- [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充具有真实测试数据的选定表或整个数据库. 为 Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS 生成测试数据.
@@ -247,7 +248,7 @@
 
 
 ## Schema samples
-- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle 数据库示例模式.
 
 
 ## Reporting
@@ -288,6 +289,7 @@
 
 ### Parsers
   - [General SQL Parser](https://www.sqlparser.com) - SQL 的解析、格式化、修改和分析.
+  - [jOOQ](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
   - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - 解析 SQL 语句并将其转换为 Java 类的层次结构.
   - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - 将 SQL 解析为 JSON.
   - [sqlparse](https://github.com/andialbrecht/sqlparse) - 用于 Python 的非验证 SQL 解析器.

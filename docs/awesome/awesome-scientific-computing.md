@@ -40,6 +40,7 @@ them.
   （Python，主要是 BSD， [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) - 使用 Python 进行科学计算所需的基本软件包.
   （Python、BSD、 [GitHub](https://github.com/numpy/numpy))
+- [DifferentialEquations.jl](https://diffeq.sciml.ai/)  - 用于数值求解不同类型微分方程的工具箱.  （朱莉娅，麻省理工学院， [GitHub](https://github.com/SciML/DifferentialEquations.jl))
 
 ## Finite Elements
 
@@ -106,7 +107,7 @@ them.
 
 ### Mesh tools
 
-- [meshio](https://github.com/nschloe/meshio) - 各种网格格式的 I/O，文件转换.
+- [meshio](https://github.com/nschloe/meshio) - I/O for various mesh formats, file conversion.
   （Python，麻省理工学院，GitHub）
 - [MOAB](https://sigma.mcs.anl.gov/moab-library/) - 表示和评估网格数据.
   （C++，主要是 LGPL 3， [Bitbucket](https://bitbucket.org/fathomteam/moab/))
@@ -214,7 +215,7 @@ them.
 
 ## Community
 
-- [SciComp StackExchange](https://scicomp.stackexchange.com/) - Computational Science on the StackExchange network.
+- [SciComp StackExchange](https://scicomp.stackexchange.com/) - StackExchange 网络上的计算科学.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) - MATH 676：科学计算中的有限元方法.
 - [Nick Higham's blog](https://nhigham.com/) - 主要在 MATLAB 上，一般计算建议.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 个关于近似理论/实践和科学计算的视频讲座.
