@@ -11,7 +11,7 @@
   <br />
 </p>
 
-<h2 align="center">很棒的 Inertia.js</h2>
+<h2 align="center">很棒的惯性.js</h2>
 
 <p align="center">
   使用经典服务器端路由和控制器构建单页应用程序的工具.
@@ -32,7 +32,7 @@
 
 ## Useful Links
 
-**图例**：``官方·`⭐`精选
+**传奇**：``官方·`⭐`精选
 
 - [Documentation](http://inertiajs.com) - 官方网站和文档.
 - [Twitter](https://twitter.com/inertiajs) - 官方推特账号.
@@ -80,11 +80,11 @@
 
 - ⭐ [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel 的官方认证脚手架，带有 Tailwind CSS 和 Inertia.js.
 - ⭐ [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
-- [Inertia Preset](https://github.com/laravel-presets/inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的一键式 Laravel 预设.
-- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Inertia.js 的 Laravel 前端预设.
+- [Inertia Preset](https://github.com/laravel-presets/inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的单命令 Laravel 预设.
+- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - 用于 Inertia.js 的 Laravel 前端预设.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Titanium](https://github.com/usetitanium/inertia) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
-- [Breeze React](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS、Inertia.js 和 React.
+- [Breeze React](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork，带有 Tailwind CSS、Inertia.js 和 React.
 
 ### Packages
 
@@ -109,12 +109,13 @@
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - 使用 CakePHP 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - 使用 Masonite 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - 使用 Laravel React 制作的演示应用程序.
-- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - 使用 Clojure 和 Reagent 制作的演示应用程序.
+- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - 使用 Clojure 和试剂制作的演示应用程序.
+- [Ping CRM / Flask](https://github.com/j0ack/pingcrm-flask) - 使用 Flask 和 Vue.js 制作的演示应用程序.
 
-### Other 
+### Other
 
-- [Built with Inertia](https://builtwithinertia.com/) - 展示使用 Inertia.js 构建的产品.
-- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - 用于 Inertia.js 的 PhpStorm/Intellij Ultimate 插件.
+- [Built with Inertia](https://builtwithinertia.com/) - 使用 Inertia.js 构建的产品展示.
+- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - Inertia.js 的 PhpStorm/Intellij Ultimate 插件.
 
 <p align="center">
   <br />
