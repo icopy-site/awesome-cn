@@ -15,7 +15,7 @@
 
 当然，通往专业的道路并不容易. 另外，_我不是专家！_ 我只是想将_来自_专家的一些重要资源与您联系起来.  ML 的应用无处不在. 我认为让更多人了解更多关于机器学习的知识，尤其是动手实践，这符合公众利益，因为有很多不同的学习方式.
 
-无论是什么促使_你_深入机器学习，如果你了解一点 Python，现在你可以在几分钟内亲身体验机器学习 _“Hello World！”_.
+无论是什么促使_你_潜入机器学习，如果你了解一点 Python，现在你可以在几分钟内亲身体验机器学习 _“Hello World！”_.
 
 ## Let's get started
 
@@ -94,7 +94,7 @@
 <details><summary>完全可选：一些值得注意的播客剧集</summary>
 
 一、下载 [an interview with Prof. Domingos on the _Data Skeptic_podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  （2018 年）. 教授多明戈斯写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
-你也可以开始读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm), a clear and accessible overview of machine learning. (It's available as an audiobook too.)
+你也可以开始读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm) ，一个清晰易懂的机器学习概述.  （它也可以作为有声读物使用.）
 
 接下来，订阅更多机器学习和数据科学播客！ 这些都是很棒的、省力的资源，您可以随意从中学到更多. 到 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn)，随着时间的推移聆听，有足够的顶部空间. [By the way, don't speed up technical podcasts, that can hinder your comprehension.](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
 
@@ -105,7 +105,7 @@
 * **下载 ["Starting Simple"](http://www.thetalkingmachines.com/episodes/starting-simple-and-machine-learning-meds) 插曲，很快就会听到.**它支持我们从多明戈斯那里读到的内容. [Ryan Adams](http://people.seas.harvard.edu/~rpa/) 正如我们上面讨论的那样，谈论从简单开始.  Adams 还强调了特征工程的重要性. 特征工程是对 Domingos 所写的“知识”的练习. 在之后的一集中， [they share many concrete tips for feature engineering](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning).
 * 然后，随着时间的推移，您可以收听整个播客系列（从头开始）.
 
-想要订阅更多播客？ 这里是 [a good listicle](https://towardsdatascience.com/5-data-science-ai-and-machine-learning-podcasts-to-listen-to-now-e5078b18d184) 的建议， [and another](https://mty.ai/blog/the-best-ai-podcasts/).
+Want to subscribe to more podcasts? Here's [a good listicle](https://towardsdatascience.com/5-data-science-ai-and-machine-learning-podcasts-to-listen-to-now-e5078b18d184) 的建议， [and another](https://mty.ai/blog/the-best-ai-podcasts/).
 
 </details>
 
@@ -117,7 +117,7 @@
 
 接下来，从**一个或多个**笔记本开始播放.
 
-- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家刚刚获得资金的初创公司工作，该公司刚刚获得资金创建一个智能手机应用程序，该应用程序可以从智能手机上拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型对花朵进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
+- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家刚刚获得资金的初创公司工作，该公司刚刚获得资金创建一个智能手机应用程序，该应用程序可以从智能手机上拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型对花朵进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值来识别物种.”
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - 按主题分类的各种笔记本：
     - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - “这是一个交互式机器学习实验的集合.每个实验都包含️ Jupyter/Colab notebook（查看模型是如何训练的）和演示页面”
@@ -165,21 +165,24 @@
 
 ## Other courses
 
-<details>
-<summary>以下是我推荐的其他一些免费在线课程.  （机器学习、数据科学和相关主题.）</summary>
-
 * **作为 Jupyter Notebooks 的数据科学课程：**
   * [Practical Data Science](http://radimrehurek.com/data_science_python/)
   * [Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Prof. Pedro Domingos's introductory video series](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr). [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) 写了这篇论文 ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)，在本指南前面推荐.
-* [[2021]](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme) [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners) — “Microsoft 的 Azure Cloud Advocates 很高兴提供为期 10 周、20 节课的关于数据科学的课程.每节课都包括课前和课后测验、完成课程的书面说明、解决方案和作业. 我们以项目为基础的教学法让您在构建的同时学习，这是新技能‘坚持’的一种行之有效的方式.”
+*  [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners) — [added in 2021](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme) —“关于数据科学的 10 周 20 节课的课程.每节课都包括课前和课后测验、完成课程的书面说明、解决方案和作业.我们基于项目的教学法让您学习在构建的同时，这是一种让新技能‘坚持’的行之有效的方法.”
+  * 也可以看看 [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
+
+<details>
+<summary>我看到推荐的更多免费在线课程.  （机器学习、数据科学和相关主题.）</summary>
+
 * Coursera  [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+* [Prof. Pedro Domingos's introductory video series](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr). [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) 写了这篇论文 ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)，您可能还记得本指南前面的内容.
+* [`ossu/data-science`](https://github.com/ossu/data-science) （也可以看看 [`ossu/computer-science`](https://github.com/ossu/computer-science))
 * [Stanford CS229: Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 * [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 * [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) . 交互的.
 * Kevin Markham 的视频系列， [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)，从我们已经介绍的内容开始，然后在舒适的地方继续.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) 课程和教科书 [Computational and Inferential Thinking](https://www.inferentialthinking.com/) 教授数据科学中的关键概念.
-* Mark A. Girolami 教授 [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) 适合有很强数学背景的人.
+* Mark A. Girolami 教授 [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) “适合有很强数学背景的人.”
 * [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 
 </details>
@@ -261,7 +264,7 @@
 
 你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice 和 evaluate yourself](https://news.ycombinat或者.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) 和 [ChaLearn](http://www.chalearn.或者g/) 是机器学习竞赛的中心.  （你可以找到更多的比赛 [here](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) 或者 [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
 
-您还需要**理解.**您应该查看 Kaggle 竞赛获胜者对他们的解决方案的评价， [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
+You also need **understanding.** You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) . 一开始这些可能会让你头疼，但一旦你开始理解和欣赏这些，你就会知道你正在到达某个地方.
 	
 比赛和挑战只是练习的一种方式！ [Machine Learning isn't just about Kaggle competitions](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
 	
@@ -296,12 +299,12 @@
 
 #### Some communities to know about
 
-非正式地寻求反馈的好地方，在你学习的时候：
 * [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
+* [/r/MachineLearning](https://reddit.com/r/MachineLearning)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
-* [/r/MachineLearning](https://reddit.com/r/MachineLearning)
 * [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
+* [`ossu/data-science` has a Discord server and newsletter](https://github.com/ossu/data-science#:~:text=Discord%20server)
 
 ### Peer review
 
@@ -364,7 +367,7 @@
 * [`fastai/fastbook`](https://github.com/fastai/fastbook) Jeremy Howard 和 Sylvain Gugger 着——“深度学习、fastai 和 PyTorch 简介”.
 * **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** 作为课程的一部分，有五门课程 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) . 这些课程是他新事业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
   *一些关于它的课程笔记： [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)
-* **[_Deep Learning_](https://www.deeplearningbook.org/)，麻省理工学院出版社出版的免费书籍.** 由 Ian Goodfellow、Yoshua Bengio 和 Aaron Courville 撰写.
+* **[_Deep Learning_](https://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville.
   * 一个值得注意的证明在这里： ["What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
 * [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 代码、笔记本 - “深度学习论文已实施，并附有注释” - “我们几乎每周都在积极维护这个 repo 并添加新的实施.”
 * [JAX - official quickstart Colab Notebooks to get to know JAX](https://github.com/google/jax#quickstart-colab-in-the-cloud)
@@ -390,7 +393,7 @@
 
 我不能说得更好：
 
-> **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
+&gt; **机器学习无法弄清楚要解决什么问题.**如果你不符合人类的需求，你只会构建一个非常强大的系统来解决一个非常小的——或者可能不存在的——问题.
 
 该报价来自 ["The UX of AI" by Josh Lovejoy](https://design.google/library/ux-ai/) . 换句话说， **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).** 建议阅读： [Martin Zinkevich's "Rules of ML Engineering", Rule #23: "You are not a typical end user"](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system)
 
