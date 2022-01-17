@@ -98,6 +98,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template)  - 自以为是的游戏模板. 它包括持续集成、带有图形转换的场景加载和游戏暂停处理.
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - 带有第一人称控制器的模板，可从 Inspector 轻松调整.
+- [Godot FPS Camera](https://github.com/tavurth/godot-simple-fps-camera) - 一个简单的 FPS 相机，具有跳跃和移动功能.
+- [Godot Game Of Life](https://github.com/tavurth/godot-game-of-life) - 康威的*生活游戏*使用着色器.
 - [Minimum Game](https://github.com/benmarz/minimum_game) - 模板自上而下的 2D 像素艺术游戏，具有多个房间、HUD、菜单和自动保存.
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - 多人第一人称射击游戏示例项目.
 - [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) - 多人第三人称射击游戏示例项目.
@@ -146,7 +148,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Various Godot versions
 
 - [2D Day/Night Cycle](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - 2D 的☀️ 日/夜循环（Godot 3.x）.
-- [2D Destructible Objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - 一个脚本，它需要一个精灵，将它分成块并让它们爆炸（Godot 3.x）.
+- [2D Destructible Objects](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - 一个脚本，需要一个精灵，将它分成块并让它们爆炸（Godot 3.x）.
 - [AgonesSDK](https://github.com/AndreMicheletti/godot-agones-sdk) - 插件添加 [Agones](https://github.com/googleforgames/agones) Godot (Godot 3.x) 的 SDK 功能.
 - [Anima](https://github.com/ceceppa/anima) - 与 Tween (Godot 3.x) 相比，使用更少的代码运行顺序和并行动画.
 - [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - 用于从 Aseprite 作为 SpriteFrames 导入动画的插件（Godot 3.x）.
@@ -157,6 +159,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Escoria](https://github.com/godotengine/escoria) - 指向&amp;点击冒险游戏框架（Godot 2.1、3.2+）.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix 框架 (Godot 3.*) 的 Channels API 的 GDScript 和 Godot 引擎实现.
+- [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - 用着色器代码编写的径向菜单以提高性能.
 - [Godot Recipes](http://godotrecipes.com/) - 大量的教程和技术，无论大小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，可以在项目中使用 SQLite 数据库作为数据存储（Godot 3.2+）.
@@ -270,7 +273,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Flash Module](https://github.com/funexpected/godot-flash-module) - 在 Godot 中使用 Adob​​e Animate (Flash) 项目.
 - [GodotAIGym](https://github.com/lupoglaz/GodotAIGym) - 将您的 Godot 项目变成 OpenAI Gym 环境，以使用 PyTorch 训练 RL 模型.
 - [godotcord](https://github.com/drachenfrucht1/godotcord) - 一个包装器 [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
+- [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - 在 Godot 中使用 Apple 登录的模块.
 - [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个港口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用的包装器方法和对 Godot 友好的类型 [PortAudio](http://www.portaudio.com).
@@ -339,7 +342,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Godot Asset Library](https://godotengine.org/asset-library/asset)  - 官方 Godot 资产库. 包括用户创建的游戏、项目、模板、演示、教程、插件和脚本.
 - [Godot Shaders](https://godotshaders.com/) - 用于 Godot 游戏引擎的社区驱动的着色器库.
-- [Gotm.io](https://gotm.io/about) - 用于托管在 Godot 中制作的 HTML5 游戏的网站.
+- [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 - [This Week in Godot](https://thisweekingodot.com/) - 每周时事通讯，包含新闻、教程、游戏和演示版本等.
 
 ## Other

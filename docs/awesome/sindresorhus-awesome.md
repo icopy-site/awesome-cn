@@ -185,10 +185,11 @@
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 为您的站点提供 CDN、DNS、DDoS 保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - 谷歌助手的开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - 具有 WiFi 和广泛物联网应用的低成本微控制器.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - 使用 V8 并内置于 Rust 的 JavaScript 和 TypeScript 安全运行时.
+- [Deno](https://github.com/denolib/awesome-deno#readme) - JavaScript 和 TypeScript 的安全运行时，使用 V8 并内置于 Rust.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 用于 1980 年代和 1990 年代初期流行的基于 x86 的个人计算机的操作系统.
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重复.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能合作.
+- [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
 
 ## Programming Languages
 
@@ -199,7 +200,7 @@
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - 存在的不可能的探测项目.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - 对于 npm 包.
 	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - 包管理器.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) - 测试赛跑者.
@@ -331,7 +332,7 @@
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器渲染的 React 应用程序框架.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - JavaScript 的 HTML 模板库.
-- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
+- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预建标记的现代 Web 开发架构.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
@@ -505,7 +506,7 @@
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于网络技术的跨平台终端应用程序.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - 跨平台的面向对象的外壳.
-- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - 适用于 macOS 的生产力应用程序.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - 创建任务以自动化您的工作流程并在 GitHub 上与他人共享.
 
@@ -550,7 +551,7 @@
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术.
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 用于录制、转换和流式传输音频和视频的跨平台解决方案.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - 可下载的 SVG/PNG/字体图标项目.
-- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - 专业环境中的照明、音频和视频.
+- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - 跨平台媒体播放器软件和流媒体服务器.
 
 ## Learn
@@ -662,7 +663,7 @@
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - 使用计算方法研究神经系统的多学科科学.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - 计算机辅助的历史科学调查.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - 使用 Markdown、reStructuredText 和 Jupyter 笔记本进行无干扰的科学写作.
 
 ## Events
 
