@@ -38,6 +38,7 @@
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Hanko](https://www.hanko.io/) - 无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR 兼容.
 * [SuperTokens](https://supertokens.io/]) - 带有预建 UI 的开源和托管电子邮件和 Oauth 身份验证.
+* [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
 
 ## CI/CD
 *持续集成/交付.*
@@ -65,7 +66,7 @@
 *存储数据并处理它.*
 * [Airtable](https://airtable.com/) - 数据库和电子表格与 API 混合.
 * [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
-* [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放.
+* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 
 ## Debugging 
 *有助于跟踪错误的工具.*
@@ -130,7 +131,7 @@
 * [Apideck](https://www.apideck.com) - 集成市场构建器，与第三方的一个 API，用于快速开发.
 
 ## Localization
-*Translating your product (also denoted i18n).*
+*翻译您的产品（也表示为 i18n）.*
 * [Localazy](https://localazy.com/) - 为开发人员构建的应用程序翻译.
 
 ## Mail

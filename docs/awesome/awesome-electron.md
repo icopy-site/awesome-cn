@@ -14,7 +14,7 @@
 
 <br>
 <br>
-<div align="center"><h3><a href="https://www.producthunt.com/posts/actions-4">我的 Actions 应用正在 Product Hunt 上</a></h3></div>
+<div align="center"><h3><a href="https://sindresorhus.com/one-thing">看看我的新应用：一件事</a></h3></div>
 <br>
 <br>
 
@@ -108,7 +108,7 @@
 - [Kakapo](https://github.com/bluedaniel/kakapo-app) - 用于放松或提高工作效率的环境混音器.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) - 语音控制智能镜子.
 - [Koko](https://github.com/hachibasu/koko) - IRC 客户端.
-- [KeeWeb](https://github.com/keeweb/keeweb) - 非官方的 KeePass 应用程序.
+- [KeeWeb](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
 - [Gitify](https://github.com/manosim/gitify) - 菜单栏中的 GitHub 通知.
 - [Friends](https://github.com/moose-team/friends) - P2P 聊天.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - 菜单栏中的 SoundCloud 播放器.
@@ -193,13 +193,13 @@
 - [Rambox](https://github.com/saenzramiro/rambox) - 聊天和电子邮件应用程序，结合了 Discord、Hangouts、Gmail 和 Outlook 等多种服务.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终端.
 - [Materialette](https://github.com/mike-schultz/materialette) - 菜单栏中的材料设计调色板.
-- [Dext](https://github.com/vutran/dext) - Launcher.
+- [Dext](https://github.com/vutran/dext) - 启动器.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet 客户端.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的 GroupMe 应用程序.
 - [ndm](https://github.com/720kb/ndm) - npm 桌面管理器.
 - [GIFBar](https://github.com/dcrousso/GIFBar) - 在您的菜单栏中搜索 GIF.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu 系统优化器.
-- [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
+- [Zazu](https://github.com/tinytacoteam/zazu) - 启动器.
 - [Inpad](https://github.com/sarah-seo/Inpad) - 带有 GitHub 风格的 Markdown 的 Notes 应用程序.
 - [Cerebro](https://github.com/KELiON/cerebro) - 带有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - 控制任何显示器的亮度.
@@ -324,7 +324,7 @@
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - 利用 npm 部署更新的自动更新程序.
 - [fix-path](https://github.com/sindresorhus/fix-path)  - 从 GUI 应用程序运行时修复 macOS 上的 $PATH. 在生成子进程时很有用.
 - [auto-launch](https://github.com/Teamwork/node-auto-launch) - 在系统启动时启动应用程序.
-- [nuts](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
+- [nuts](https://github.com/GitbookIO/nuts) - 发布带有自动更新程序和 GitHub 作为后端的服务器.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) - 简化文件下载.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) - 具有前端和自动更新程序支持的自托管发布服务器.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - 针对当前安装的 Electron 版本重建原生 Node.js 模块.
@@ -391,7 +391,7 @@
 - [devtool](https://github.com/Jam3/devtool) - 使用 Chrome DevTools 调试 Node.js.
 - [nativefier](https://github.com/jiahaog/nativefier) - 创建任何网站的应用程序.
 - [electron-stream](https://github.com/juliangruber/electron-stream) - 流式包装.
-- [Nightmare](http://www.nightmarejs.org) - 高级浏览器自动化库（替代 PhantomJS）.
+- [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从 URL、HTML 或 Markdown 文件生成 PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览 GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在 Electron 中运行 Mocha 测试.

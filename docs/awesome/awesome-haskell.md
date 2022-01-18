@@ -261,6 +261,7 @@
 
 ## Messaging
 
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - 最私密、最安全的开源聊天和应用平台 - 现在采用双棘轮 E2E 加密.
 * [Stomp](http://stomp.github.io/) - 是简单（或流）面向文本的消息传递协议. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [amqp](https://github.com/hreinhardt/amqp) - AMQP 服务器的客户端库（目前只有 RabbitMQ）.
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - 用于 Internet 中继聊天 (IRC) 的协作黑客列表.

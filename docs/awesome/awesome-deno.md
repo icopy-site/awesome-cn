@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/denolib/awesome-deno/master/deno-logo.png" align="right" width="100">](https://deno.land)
 
-Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并使用 Rust 构建.
+Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并内置于 Rust.
 
 这个列表是最好的 Deno 模块和资源的集合.
 
@@ -22,7 +22,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ### External Docs
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
-- [DenoBeginner.com](https://DenoBeginner.com) - 针对初学者的完全免费的 deno 速成课程.
+- [DenoBeginner.com](https://DenoBeginner.com) - 面向初学者的完全免费的 deno 速成课程.
 
 ### Online Playgrounds
 
@@ -35,7 +35,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ## Modules
 
-__注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/std/).
+__NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land/std/).
 考虑提交给 [deno.land/x](https://deno.land/x/) 注册表.
 
 ### Automation
@@ -43,26 +43,26 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 
 ### CLI utils
 - [cac](https://github.com/cacjs/cac) - 用于构建命令行应用程序的简单而强大的框架.
-- [charmd](https://github.com/littletof/charmd) - 一个简单的、可扩展的 Markdown 渲染器，适用于您的终端.
-- [chart](https://github.com/maximousblk/chart) - 没有依赖性的控制台 ASCII 折线图.
-- [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - 在运行长任务时在终端中显示微调器.
+- [charmd](https://github.com/littletof/charmd) - 适用于您的终端的简单、可扩展的降价渲染器.
+- [chart](https://github.com/maximousblk/chart) - 没有依赖关系的控制台 ASCII 折线图.
+- [cli-spinner](https://github.com/ameerthehacker/cli-spinners) - 运行长任务时在终端中显示微调器.
 - [cliffy](https://github.com/c4spar/deno-cliffy) - 构建交互式命令行工具的完整解决方案.
-- [kia](https://github.com/HarryPeach/kia) - Deno 的简单终端旋转器 
+- [kia](https://github.com/HarryPeach/kia) - Deno 的简单终端微调器 
 - [terminal_images](https://github.com/mjrlowe/terminal_images) - 用于在终端中显示图像的 Deno 模块和 CLI 工具.
 
 ### Database
 - [deno_mysql](https://github.com/denodrivers/mysql) - MySQL 数据库驱动程序.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB 数据库驱动程序.
-- [redis](https://github.com/denodrivers/redis) - deno 的 redis 客户端的实验性实现.
-- [denodb](https://github.com/eveningkid/denodb) - 用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM.
+- [redis](https://github.com/denodrivers/redis) - 用于 deno 的 redis 客户端的实验性实现.
+- [denodb](https://github.com/eveningkid/denodb) - 适用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM.
 - [dndb](https://github.com/denyncrawford/dndb) - 为 Deno 编写的持久且可嵌入的 NoSQL 数据库引擎.
-- [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - 一个使用 JSON 格式的简单持久键值数据库.
-- [dso](https://github.com/manyuanrong/dso) - 基于mysql的简单ORM库.
+- [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - 一个使用 JSON 格式的简单的持久键值数据库.
+- [dso](https://github.com/manyuanrong/dso) - 基于 mysql 的简单 ORM 库.
 - [postgres](https://github.com/denodrivers/postgres) - PostgreSQL 数据库驱动程序.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
-- [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 一个允许使用 MaxmindDB geoIP 数据库文件的库
+- [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 允许使用 MaxmindDB geoIP 数据库文件的库
 - [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
-- [yongo](https://github.com/yooneskh/yongo) - deno 中的猫鼬 api 子集（如填充）但不会完全复制猫鼬
+- [yongo](https://github.com/yooneskh/yongo) - deno 中的 Mongoose api 子集（如填充）但不会完全复制 mongoose
 
 ### Editor framework
 
@@ -88,85 +88,85 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 
 ### String utils
 - [camelcase](https://github.com/denolib/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
-- [deno_case_style](https://github.com/zekth/deno_case_style)  - 不同大小写样式的字符串验证器和格式器. 例如：camelCase 等.
+- [deno_case_style](https://github.com/zekth/deno_case_style)  - 不同案例风格的字符串验证器和格式化程序. 例如：camelCase 等.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - 格式化、修剪和删除字符串中字符之间的多余空格.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - deno 的字符串 slugifier.
-- [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - 删除字符串中的重音/变音符号.
+- [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - 删除字符串中的重音符号/变音符号.
 
 ### Template engine
-- [dejs](https://github.com/syumai/dejs) - deno 的 Ejs 模板引擎.
+- [dejs](https://github.com/syumai/dejs) - 用于 deno 的 Ejs 模板引擎.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - deno 的模板渲染器.
-- [eta](https://github.com/eta-dev/eta) - 快速、轻量且可配置的嵌入式模板引擎.
-- [handlebars](https://github.com/alosaur/handlebars) - deno 的把手模板引擎
+- [eta](https://github.com/eta-dev/eta) - 快速、轻量级和可配置的嵌入式模板引擎.
+- [handlebars](https://github.com/alosaur/handlebars) - deno 的车把模板引擎
 - [mustache](https://github.com/alosaur/mustache) - deno 的 Mustache 模板引擎
 
 ### Testing
-- [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - deno 的彩色 assertEqual.
+- [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - deno 的多彩 assertEqual.
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - 提供高级 API 以通过 DevTools 协议控制 Chromium 或 Chrome 的库.
-- [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试一样的笑话的助手.
-- [merlin](https://github.com/crewdevio/merlin) - deno 的测试和基准测试框架 ‍♂️
+- [expect](https://github.com/allain/expect) - 编写笑话的助手，例如在 deno 中的期望测试.
+- [merlin](https://github.com/crewdevio/merlin) - deno 的测试和基准测试框架‍♂️
 - [pretty_benching](https://github.com/littletof/prettyBenching) - 一个小型库，可让您的 Deno 基准测试进度和结果看起来很漂亮.
 - [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - 用于测试 Deno HTTP 服务器的超级代理驱动库.
-- [superoak](https://github.com/asos-craigmorten/superoak) - 通过 SuperDeno 使 Oak 的 HTTP 断言变得容易.
-- [tincan](https://github.com/gcaptn/tincan) - 一个类似 Jest 的 Deno 测试库.
+- [superoak](https://github.com/asos-craigmorten/superoak) - 通过 SuperDeno 轻松实现 Oak 的 HTTP 断言.
+- [tincan](https://github.com/gcaptn/tincan) - Deno 的类似 Jest 的测试库.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
 ### Utils
 - [buckets](https://github.com/jacoborus/deno-buckets) - 将资产和脚本捆绑在一个可执行文件中.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - 格式化字节（Uint8Array、ArrayBufferView 等）输出，在调试 IO 函数时很有用.
-- [coffee](https://github.com/irandeno/coffee) - Deno 配置 - 一种类型安全、易于使用的 Deno 配置管理器.
+- [coffee](https://github.com/irandeno/coffee) - Deno 配置 - 一个类型安全、易于使用的 Deno 配置管理器.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi 喜欢 Typescript 和 Deno 的验证器.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean，下次运行时重新加载 deps.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - 带有等待生成器的文件观察器.
 - [deno-config](https://github.com/yooneskh/deno-config) - 通过 cli、.env 和 json 文件简化 deno 应用程序配置管理的实用程序
 - [deno-context](https://github.com/code-hex/deno-context)  - 将截止日期、取消和其他请求范围的值传播到多个承诺. 这种行为就像 Go 的上下文.
-- [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您编写具有大量灵活性的人类可读的 cron 语法
-- [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 使 Deno 程序在后台运行.
+- [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您以极大的灵活性编写人类可读的 cron 语法
+- [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 让 Deno 程序在后台运行.
 --deno-dotenv
-  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) deno 的 Dotenv 操作.
+  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) deno 的 Dotenv 动作.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
-- [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno，glob 到正则表达式的端口.
+- [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式.
 - [deno_notify](https://github.com/PandawanFr/deno_notify) - 在所有平台上发送桌面通知.
 - [deno-opn](https://github.com/hashrock/deno-opn)  - 打开网站、文件、可执行文件等内容. 跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - 用于管理 Deno 原生插件依赖项的库.
-- [deno_random_interval](https://github.com/zekth/deno_random_interval) - 生成随机间隔的助手.
+- [deno_random_interval](https://github.com/zekth/deno_random_interval) - 帮助生成随机间隔.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
-- [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 Python 风格.
-- [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的小库.
-- [ensure](https://github.com/eankeen/ensure) - 确保您运行的是最低版本的 Deno、Typescript 或 V8.
-- [evt](https://github.com/garronej/evt) - 为 EventEmitter 键入安全替换.
-- [fastest-validator](https://github.com/icebob/fastest-validator) - 适用于所有 javascript 平台的架构验证器 
+- [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
+- [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
+- [ensure](https://github.com/eankeen/ensure) - 确保您运行的是 Deno、Typescript 或 V8 的最低版本.
+- [evt](https://github.com/garronej/evt) - 键入 EventEmitter 的安全替换.
+- [fastest-validator](https://github.com/icebob/fastest-validator) - 所有 javascript 平台的模式验证器 
 - [fossil](https://github.com/matteocrippa/fossil) - 值类型验证套件.
-- [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 内插环境变量.
+- [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 插值环境变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.
 - [invert-kv](https://github.com/denorg/invert-kv) - 在 Deno 中反转键值对.
-- [lazy](https://github.com/luvies/lazy) - 类似 linq 的惰性评估迭代模块.
+- [lazy](https://github.com/luvies/lazy) - 类似 linq 的惰性求值迭代模块.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - 用于生成、解决、分析和显示迷宫的 Javascript 模块.
 - [ms](https://github.com/denolib/ms) - 轻松将各种时间格式转换为毫秒.
 - [online](https://github.com/denorg/online) - 检查您当前是否在 Deno 在线.
 - [optionals](https://github.com/OliverBrotchie/optionals) - 类似 Rust 的错误处理和具有详尽模式匹配的选项.
-- [qrcode](https://github.com/denorg/qrcode) - Deno 的二维码图像生成器.
+- [qrcode](https://github.com/denorg/qrcode) - Deno 的 QR 码图像生成器.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - 在 Deno 中递归读取目录.
-- [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是有效.
+- [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是工作.
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
 - [type-fest](https://github.com/denoserverless/type-fest) - 基本 TypeScript 类型的集合（sindresorhus/type-fest 的端口）.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 加密和解密 gzip.
 - [watch](https://github.com/jinjor/deno-watch) - 文件观察者.
-- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - 使用 wu(O(NP)) 算法计算两个切片之间差异的差异库.
+- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - 使用 wu（O（NP））算法计算两个切片之间差异的差异库.
 
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - 一个更好的 Deno 框架来创建 Web 应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - 具有许多装饰器的 Deno Web 框架.
-- [attain](https://github.com/aaronwlee/Attain)  - Deno 的中间件 Web 框架，它使用受 express 和 Oak 启发的 http 标准库. 通过适当的内存使用快速而稳定.
+- [attain](https://github.com/aaronwlee/Attain)  - Deno 的中间件 Web 框架，它使用受 express 和 Oak 启发的 http 标准库. 使用适当的内存快速稳定.
 - [aqua](https://github.com/l2ig/aqua) - Deno 的最小且快速的 Web 框架.
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
-- [denotrain](https://github.com/Caesar2011/denotrain) - 多合一的 Web 框架，如具有中间件支持的 Node.js 的 express 或 fastify.
-- [dinatra](https://github.com/syumai/dinatra) - Sinatra 喜欢 deno 的轻量级 Web 应用程序框架.
-- [doa](https://github.com/johannlai/doa)  - Deno 的 http 服务的中间件框架. 用❤️从Koa移植过来
+- [denotrain](https://github.com/Caesar2011/denotrain) - 多合一 Web 框架，例如用于 Node.js 的 express 或 fastify，具有中间件支持.
+- [dinatra](https://github.com/syumai/dinatra) - Sinatra 喜欢用于 deno 的轻量级 Web 应用程序框架.
+- [doa](https://github.com/johannlai/doa)  - Deno 的 http 服务的中间件框架. 用 ❤️ 从 Koa 移植
 - [drash](https://github.com/drashland/deno-drash) - Deno 的 HTTP 服务器的 REST 微框架，具有零依赖性.
-- [dragon](https://github.com/xanny-projects/dragon) - ⚡强大的 HTTP 路由器和 URL 匹配器，用于使用 Dragon 构建 Deno Web 服务器.
+- [dragon](https://github.com/xanny-projects/dragon) - ⚡一个强大的 HTTP 路由器和 URL 匹配器，用于使用 Dragon 构建 Deno Web 服务器.
 - [microraptor](https://github.com/matteocrippa/microraptor) - 轻量级框架，可通过验证轻松实现网络路由.
 - [oak](https://github.com/oakserver/oak) - Deno 网络服务器的中间件框架.
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Deno Oak HTTP 服务器的代理中间件.
@@ -176,48 +176,48 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [servest](https://github.com/keroxp/servest) - 渐进式 HTTP 服务器/路由器.
 
 ### WebSocket
-- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 一个简单的 WebSocket 库，如 node.js 库的 ws.
-- [dropper](https://github.com/denyncrawford/dropper-deno) - 自定义基于事件的 WebSockets 框架，用于在 Deno 上构建实时应用程序 
-- [websocket_server](https://github.com/JohanWinther/websocket_server) - 一个 WebSocket 服务器库.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 一个简单的 WebSocket 库，例如 node.js 库的 ws.
+- [dropper](https://github.com/denyncrawford/dropper-deno) - 用于在 Deno 上构建实时应用的自定义基于事件的 WebSockets 框架 
+- [websocket_server](https://github.com/JohanWinther/websocket_server) - WebSocket 服务器库.
 - [sockets](https://github.com/drashland/sockets) - Deno 的 WebSocket 库.
 
 ### Web utils
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP 压缩中间件.
-- [djwt](https://github.com/timonson/djwt) - 基于 JWT 和 JWS 规范在 Deno 上制作 JSON Web Tokens (JWT).
+- [djwt](https://github.com/timonson/djwt) - 根据 JWT 和 JWS 规范在 Deno 上制作 JSON Web Tokens (JWT).
 - [forwarded](https://github.com/deno-libs/forwarded) - `forwarded` 库的 Deno 端口.
-- [gentleRpc](https://github.com/timonson/gentleRpc) - 用于 Deno 和浏览器的 JSON-RPC 2.0 TypeScript 库.
+- [gentleRpc](https://github.com/timonson/gentleRpc) - 适用于 Deno 和浏览器的 JSON-RPC 2.0 TypeScript 库.
 - [gql](https://github.com/deno-libs/gql) - 通用 GraphQL HTTP 中间件.
 - [graphql-tag](https://github.com/deno-libs/graphql-tag) - 来自模板文字的 GraphQL 模式 AST.
 - [nats](https://github.com/nats-io/nats.deno) - 一个 Deno 客户端 [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/oslabs-beta/obsidian) - 原生 GraphQL 缓存客户端和服务器模块.
 - [qs](https://github.com/denolib/qs) - 具有嵌套支持的查询字符串解析器.
-- [router](https://github.com/zhmushan/router) - 一个高性能的基本路由器可以在任何地方工作.
+- [router](https://github.com/zhmushan/router) - 高性能基本路由器可在任何地方工作.
 - [status](https://github.com/denosaurs/status) - Deno 的 HTTP 代码和状态实用程序.
-- [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - 普罗米修斯客户端.
+- [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - 一个普罗米修斯客户端.
 - [up](https://github.com/denorg/up) - 检查网站是否在 Deno 中启动.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) - 用于与 YouTube 进行任何交互的 YouTube 数据 API 的 Deno 客户端库.
 
 ### Webview
-- [webview](https://github.com/eliassjogreen/deno_webview) - Webview 的 Deno 绑定，一个用于创建基于 Web 的桌面 GUI 的小库.
+- [webview](https://github.com/eliassjogreen/deno_webview) - 用于 webview 的 Deno 绑定，这是一个用于创建基于 Web 的桌面 GUI 的小型库.
 
 ### XML
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) - 从 segmentio/xml-parser 移植的 Deno XML 解析器.
-- [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - SAX 风格的 XML 解析器移植自 [sax-js](https://github.com/isaacs/sax-js).
+- [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) - 移植自 SAX 样式的 XML 解析器 [sax-js](https://github.com/isaacs/sax-js).
 
 ## Registries
 
-- [crux.land](https://crux.land/) - 用于托管小型 (&lt;10kB) 单个 deno 脚本的免费注册服务.
-- [Deno PKG](https://denopkg.com/) - 在 Deno 项目中使用来自 GitHub 的代码的更简单方法.
+- [crux.land](https://crux.land/) - 用于托管小型（&lt; 10kB）单个 deno 脚本的免费注册服务.
+- [Deno PKG](https://denopkg.com/) - 在你的 Deno 项目中使用来自 GitHub 的代码的更简单方法.
 - [deno.land/x/](https://deno.land/x/) - 官方的第 3 方模块注册表.
 - [nest.land](https://nest.land) - 一个不可变的、由区块链驱动的 Deno 包注册表. 
 
 ## Showcases
 
 - [AuthCompanion](https://github.com/pmprosociety/authcompanion) - 基于令牌的用户管理服务器.
-- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - deno RESTful apis 的样板.
-- [Deno Seed](https://github.com/tamasszoke/deno-seed)  - 用于开发的完整样板.  ：幼苗：
-- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 在自述文件中添加动态生成的 GitHub Trophy
-- [UsingDeno](https://usingdeno.com) - 使用 Deno 精选的 Web 应用程序和项目列表.
+- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - deno RESTful api 的样板.
+- [Deno Seed](https://github.com/tamasszoke/deno-seed)  - 完整的开发样板.  ：幼苗：
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 在您的自述文件中添加动态生成的 GitHub Trophy
+- [UsingDeno](https://usingdeno.com) - 使用 Deno 的 Web 应用程序和项目的精选列表.
 
 ## Tools
 
@@ -226,44 +226,44 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [decense](https://github.com/vinliao/decense) - 使用一个 `deno run` 命令生成许可证.
 - [dedep](https://github.com/egoist/dedep) - 管理依赖版本.
 - [denoget](https://github.com/syumai/denoget) - Denoget 安装可执行的 Deno 脚本.
-- [denoify](https://github.com/garronej/denoify) - 对于想要支持 Deno 但不想编写和维护端口的 NPM 模块作者.
+- [denoify](https://github.com/garronej/denoify) - 对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
-- [denoliver](https://github.com/joakimunge/denoliver) - 具有实时重新加载功能的简单、无依赖的文件服务器.
+- [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.
 - [denomander](https://github.com/siokas/denomander) - 受commander.js 启发的Deno 命令行界面.
-- [denon](https://github.com/denosaurs/denon)  - 守护进程脚本运行程序，如 nodemon. 为 Deno 内置.
-- [denopkg](https://github.com/denopkg/denopkg.com) - 在 Deno 项目中使用来自 GitHub 的代码的更简单方法.
+- [denon](https://github.com/denosaurs/denon)  - 一个守护程序脚本运行程序，如 nodemon. 为 Deno 内置.
+- [denopkg](https://github.com/denopkg/denopkg.com) - 在你的 Deno 项目中使用来自 GitHub 的代码的更简单方法.
 - [denoversion](https://github.com/lucascaro/denoversion) - Deno 的 SemVer 和 git 版本管理.
-- [denox](https://github.com/BentoumiTech/denox) - 类似于packages.json 脚本，但用于具有权限支持的Deno.
+- [denox](https://github.com/BentoumiTech/denox) - 与 packages.json 脚本类似，但对于具有权限支持的 Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
-- maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
+- maxmcd  [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
 - 海德 [deno-docker](https://github.com/hayd/deno-docker) 几个泊坞窗图像.
-- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展来利用 vscode 中内置的 typedef 和智能感知.
+- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展利用 vscode 中内置的 typedef 和 intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) - 让 TypeScript 文件直接在 script 标签中使用.
 - [dmm](https://github.com/drashland/dmm) - 轻量级 Deno 模块管理器
 - [dpm](https://github.com/BoltDoggy/deno#dpm)  - Deno 包管理器，为 deno 安装全局命令. 像 denoget.
-- 虚拟机
+- dvm
   - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno 版本管理器：管理多个活动的 Deno 版本.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - 没有运行时依赖的 Deno 版本管理器.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd)  - 适用于 Windows 的 Deno 版本管理器. 编写为单个批处理文件.
   - [ghosind/dvm](https://github.com/ghosind/dvm) - 适用于 Linux/MacOS 的轻量级 Deno 版本管理器.
-- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - 用 Deno 编写的 elm live reloader.
+- [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - 一个用 Deno 编写的 elm live reloader.
 - [kopo-cli](https://github.com/littletof/kopo-cli) - 终端中的 Deno 注册表浏览器.
-- [lume](https://github.com/lumeland/lume) - 类似于 Jekyll 或 Eleventy 的静态站点生成器，支持多种文件格式.
+- [lume](https://github.com/lumeland/lume) - 一个类似于 Jekyll 或 Eleventy 的静态站点生成器，支持多种文件格式.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - 自动使 package.json 项目（例如 npm 包和 node.js 模块）与 Deno 兼容.
 - [nessie](https://github.com/halvardssm/deno-nessie) - 为 PostgreSQL、MySQL 和 SQLite 创建、迁移和回滚迁移.
-- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以使用 Deno 脚本轻松构建虚拟机映像.
-- [pagic](https://github.com/xcatliu/pagic) - 从降价生成静态 html 页面的最简单方法，使用 Deno 构建.
+- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以轻松使用 Deno 脚本构建虚拟机映像.
+- [pagic](https://github.com/xcatliu/pagic) - 从 Markdown 生成静态 html 页面的最简单方法，使用 Deno 构建.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
-- [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - 为 Deno 项目预先提交 git 钩子.
+- [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - 为 Deno 项目预先提交 git 挂钩.
 - [starter](https://github.com/denorg/starter) - 带有 GitHub Actions CI 的 Deno 模块入门模板
 - [task-runner](https://github.com/jinjor/deno-task-runner) - 像 npm 脚本一样编写任务.
 - [trex](https://github.com/crewdevio/Trex) - 包管理，如用于 deno 的 npm.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) - Deno 语言服务插件，在编辑器中的 TypeScript 文件中提供智能感知.
-- [udd](https://github.com/hayd/deno-udd) - 更新 Deno 依赖项：将导入语句更新为最新发布的版本.
-- [velociraptor](https://github.com/umbopepato/velociraptor) - 一个用于 Deno 的 npm 风格的脚本运行器.
+- [udd](https://github.com/hayd/deno-udd) - 更新 Deno 依赖项：将导入语句更新为其最新发布的版本.
+- [velociraptor](https://github.com/umbopepato/velociraptor) - Deno 的 npm 风格的脚本运行器.
 - [vscode-deno](https://github.com/denoland/vscode_deno) - 使用“TypeScript Deno 语言服务插件”提供 Deno 支持的 VS Code 扩展.
-- [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action 将具有最新 Deno 版本的文件放入您的存储库中.
-- [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - 使用 Deno 和 Docker 制作的自托管 Deno 函数.
+- [Update Deno](https://github.com/marketplace/actions/update-deno) - 将具有最新 Deno 版本的文件放入存储库的 Github 操作.
+- [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - 使用 Deno 和 Docker 制作的自托管 Deno 功能.
 
 ## Articles
 
@@ -288,7 +288,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
-- 带有 Oak 教程系列的 Deno REST API [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
+- 使用 Oak 教程系列的 Deno REST API [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
 - [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
 - [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)
@@ -314,7 +314,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 - [Bert Belder - Deno - dotJS 2019](https://www.youtube.com/watch?v=puXyo1jGQys)
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
-- [Matías Insaurralde - Deno：V8 互操作性的实验方法 [EN 字幕] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
+- [Matías Insaurralde - Deno：V8 互操作性的实验方法 [英文字幕] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
 ## Resources in Other Languages
 
@@ -366,3 +366,7 @@ __注意__：Deno 有一些官方模块可以在 [deno_std](https://deno.land/st
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 - [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
+
+### Darija
+
+- [A first look at Deno | BlaBlaConf 2021 🇲🇦](https://www.youtube.com/watch?v=Y_etUvzAa4s) 
