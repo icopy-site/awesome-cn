@@ -89,7 +89,7 @@
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Python 中的量子工具箱，用于模拟开放量子系统的动力学.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [Strangeworks Platform](https://quantumcomputing.com/) - 一个与硬件无关的平台和接口，允许专注于开发而不是特定的硬件解决方案构建.
-- [TensorFlow Quantum](https://www.tensorflow.org/quantum) - 一个量子机器学习库，将 Cirq 与 TensorFlow 集成，用于为经典或量子数据的混合量子经典模型进行原型设计.
+- [TensorFlow Quantum](https://www.tensorflow.org/quantum) - 一个量子机器学习库，将 Cirq 与 TensorFlow 集成在一起，用于为经典或量子数据的混合量子经典模型进行原型设计.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - Alan Aspuru-Guzik 小组（多伦多大学）开发的可扩展量子信息和学习架构.
 
 ## Blogs
@@ -169,6 +169,7 @@
 
 - [Meet the meQuanics](https://soundcloud.com/mequanics) - 采访关键量子计算人物，针对非专业人士.
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Ethan Hansen 的播客涵盖三个主要主题：量子计算的基础知识、采访和最新消息.
+- [The Qubit Guy's Podcast](https://www.classiq.io/insights#podcasts) - Yuval Boger 的播客来自 [Classiq Technologies](https://www.classiq.io) 来自量子计算行业的思想领袖.
 
 ## License
 

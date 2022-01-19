@@ -78,6 +78,7 @@
 
 ### Testing
 
+- [mypy-test](https://github.com/orsinium-labs/mypy-test) - 测试 mypy 插件、存根、自定义类型.
 - [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) - 用于测试 mypy 类型、存根和插件的 Pytest 插件.
 - [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) - 用于测试 mypy 静态类型分析的 Pytest 插件.
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) - 用于 Pytest 的 Mypy 静态类型检查器插件.
@@ -90,7 +91,8 @@
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - 通过添加或删除代码注释使 mypy 静音.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - 将带有 mypy 注释的静态类型 Python 模块编译为 CPython C 扩展.
 - [retype](https://github.com/ambv/retype) - 另一个将存根应用于代码的工具.
-- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
+- [pep585-upgrade](https://github.com/snok/pep585-upgrade) - 预提交钩子配置为自动将您的类型提示升级到 PEP 585 中实现的新本机类型.
+- [typeforce](https://github.com/orsinium-labs/typeforce) - CLI 工具，可通过类型注释丰富您的 Python 环境，增强 mypy.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - typing_inspect 模块定义了实验性 API，用于对 `typing` 模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) - 用于处理类型化对象和 JSON 的库.
 
@@ -142,7 +144,7 @@
 - [PEP-563](https://www.python.org/dev/peps/pep-0563/) - 推迟对注释的评估.
 - [PEP-585](https://www.python.org/dev/peps/pep-0585/) - 在标准集合中键入提示泛型.
 - [PEP-586](https://www.python.org/dev/peps/pep-0586/) - 文字类型.
-- [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict：使用一组固定键为字典键入提示.
+- [PEP-589](https://www.python.org/dev/peps/pep-0589/) - TypedDict: Type Hints for Dictionaries with a Fixed Set of Keys.
 - [PEP-591](https://www.python.org/dev/peps/pep-0591/) - 为打字添加最终限定符.
 - [PEP-593](https://www.python.org/dev/peps/pep-0593/) - 灵活的功能和变量注释.
 - [PEP-604](https://www.python.org/dev/peps/pep-0604/) - Union[] 的补充语法.

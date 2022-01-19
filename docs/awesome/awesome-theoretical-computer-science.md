@@ -29,10 +29,10 @@
 ### Automata, Computability, & Complexity<a name="introductory_theoretical_computer_science_automata_computability_complexity"></a>
 
 #### Lecture Notes<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_notes"></a>
-- [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - 计算理论的本科介绍
+- [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
 
 #### Lecture Videos Playlists<a name="introductory_theoretical_computer_science_automata_computability_complexity_lecture_videos_playlists"></a>
-- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - 计算理论的本科介绍
+- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - 关于理论计算机科学中选定的著名主题的一系列讲座
 
 #### MOOC<a name="introductory_theoretical_computer_science_automata_computability_complexity_mooc"></a>
@@ -63,7 +63,7 @@
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)  - 计算复杂性理论本科课程； 它遵循了 Sipser 第三部分的相同精神.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - 它涵盖了大多数被认为已知的复杂性理论研究的入门知识.
 #### Lecture Notes<a name="computational_complexity_general_lecture_notes"></a>
-- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下限、平均案例复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
+- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下限、平均情况复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
 #### Books<a name="computational_complexity_general_books"></a>
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - 一本黄金标准教科书，为研究生和研究人员调查计算复杂性理论.
 - [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - 计算复杂性理论的研究生介绍，强调复杂性理论概念背后的思想.
@@ -160,7 +160,7 @@
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - 面向计算机科学和工程的离散数学简介.
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 #### Books<a name="math_logic_preliminaries_general_books"></a>
-- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典计算机程序设计艺术中的数学预备部分，但呈现方式更悠闲，个别主题涵盖更深入.
+- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典的计算机编程艺术中的数学预备部分，但呈现的风格更从容，个别主题的涵盖更深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 一个致力于数学主题及其与计算机科学相关性的系列.
@@ -204,6 +204,44 @@
 
 
 
+
+- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - 所有与 TCS 相关的博客的博客聚合器.
+
+
+- [CS Theory Events Aggregator](https://cstheory-events.org/) - CS 理论研讨会和学校的聚合器.
+- [Theory Announcements](https://dmatheorynet.blogspot.com/) - DMANET 传播有关离散数学和算法的会议、研讨会、研讨会等信息.
+- [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS 会议收集在一张表中.
+
+- [TCS+](https://www.youtube.com/user/TCSplusSeminars)  - 一系列理论计算机科学在线研讨会. 目标是让尽可能广泛的受众能够参与到引人入胜的演讲中.
+- [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html)  - 在线非正式会谈，专门讨论计算复杂性理论和相关领域感兴趣的话题. 目标是作为讨论和快速传播结果的论坛.
+- [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大化整个理论计算机科学界的影响和参与的计划、活动和研讨会.
+
+- [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
+ - ACM AM 图灵奖得主访谈. 伯克利 - 采访伯克利的图灵奖得主.
+	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
+- 80 年代的伯克利 - 采访伯克利理论计算机科学领域的知名人士.
+	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
+- [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - 填充计算理论的简短可访问视频.
+- Lex Podcast - 非正式讨论播客.
+  - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - 研讨会的集合.
+- [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍 TCS 的高级故事及其与其他领域的交叉点.
+
+
+- [CS Theory Jobs](https://cstheory-jobs.org) - TCS 工作公告.
+
+- [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - TCS 中的主程序列表.
+- [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - TCS 中的主程序列表.
+
+
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，涵盖主题的教程，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围. 
+- [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
+
+- [TCS Stack Exchange](https://cstheory.stackexchange.com/) - 理论计算机科学的堆栈交换 (QnA).
+- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- 理论计算机科学的 subreddit.
+
+
+
 ## Other Resources
 
 ### Blog Posts and Essays<a name="other_resources_blog_posts_and_essays"></a>
@@ -220,11 +258,8 @@
 - [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Steven Weinberg 为学生和研究人员提供的课程.
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - 关于数学学术职业问题的各种建议的集合，大致按建议最相关的职业阶段排列.
 
-
 ### Magazines/Journals/News<a name="other_resources_magazines_journals_news"></a>
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM 的学生杂志计算理论特刊 
-- [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，提供主题的教程覆盖，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围. 
 
 ### Popular Science<a name="other_resources_popular_science"></a>
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694)
@@ -232,43 +267,16 @@
 ### Cheat-Sheets<a name="other_resources_cheat_sheets"></a>
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - 一张包含任何理论计算机科学家所需的基本工具箱的笔记.
 
+### Network Groups<a name="other_resources_network_groups"></a>
+- [SIGACT](https://www.sigact.org/articles/web_pages.html) - ACM 算法和计算理论特别兴趣小组的信息页面.
+- [PolyTCS](https://polytcs.wordpress.com/) - 一个促进大规模合作以解决理论计算机科学问题的项目.
+- [Complexity Network](https://sites.google.com/view/complexitynetwork/home)  - 主持伦敦帝国理工学院、牛津大学和华威大学三个计算复杂性小组之间的合作. 它促进了三个群体之间及其他群体之间的思想顺畅流动. 
+- [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - 理论计算机科学的会议和研讨会列表.
 
-## Talks
-- [TCS+](https://www.youtube.com/user/TCSplusSeminars)  - 一系列理论计算机科学在线研讨会. 目标是让尽可能广泛的受众能够参与到引人入胜的演讲中.
-- [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html)  - 在线非正式会谈，专门讨论计算复杂性理论和相关领域感兴趣的话题. 目标是作为讨论和快速传播结果的论坛.
-- [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
- - ACM AM 图灵奖得主访谈. 伯克利 - 采访伯克利的图灵奖得主.
-	- [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
-- 80 年代的伯克利 - 采访伯克利理论计算机科学领域的知名人士.
-	- [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
-- [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大化整个理论计算机科学界的影响和参与的计划、活动和研讨会.
-- [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - 填充计算理论的简短可访问视频.
-- 莱克斯播客
-  - 唐纳德·克努斯： [1](https://www.youtube.com/watch?v=2BdBfsXbST8), [2](https://www.youtube.com/watch?v=EE1R8FYUJm0)
-  - [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE)
-  - [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs)
-  - 斯科特·阿伦森： [1](https://www.youtube.com/watch?v=uX5t8EivCaM), [2](https://www.youtube.com/watch?v=nAMjv0NAESM)
-- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA)
-- [Chi-Ning Chou. Mini-Course: What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/))
 
 
 ## Related Awesome Lists
 - [Algorithms](https://github.com/tayllan/awesome-algorithms) - 算法设计和分析的真棒列表
 - [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) - 很棒的免费数学讲义列表
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算列表
-
-
-## Useful Links
-- [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - 所有与 TCS 相关的博客的博客聚合器.
-- [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - TCS 中的主程序列表.
-- [Barak. Research Masters in TCS](https://docs.google.com/spreadsheets/d/1znVmERIVm2Fz2cbYjXE97VH9eIx7UdaLh5n3FBYb8o8/edit?usp=sharing) - TCS 中的主程序列表.
-- [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS 会议收集在一张表中.
-- [CS Theory Events Aggregator](https://cstheory-events.org/) - CS 理论研讨会和学校的聚合器.
-- [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - 理论计算机科学的会议和研讨会列表.
-- [Theory Announcements](https://dmatheorynet.blogspot.com/) - DMANET 传播有关离散数学和算法的会议、研讨会、研讨会等信息.
-- [PolyTCS](https://polytcs.wordpress.com/) - 一个促进大规模合作以解决理论计算机科学问题的项目.
-- [Complexity Network](https://sites.google.com/view/complexitynetwork/home)  - 主持伦敦帝国理工学院、牛津大学和华威大学三个计算复杂性小组之间的合作. 它促进了三个群体之间及其他群体之间的思想顺畅流动. 
-- [SIGACT](https://www.sigact.org/articles/web_pages.html) - ACM 算法和计算理论特别兴趣小组的信息页面.
-- [TCS Stack Exchange](https://cstheory.stackexchange.com/) - 理论计算机科学的堆栈交换 (QnA).
-- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- 理论计算机科学的 subreddit.
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography) - 很棒的密码学列表
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算清单
