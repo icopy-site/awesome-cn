@@ -30,7 +30,7 @@
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - 一个完全用 Rust 编写的 Web 应用程序，前端是用 Yew 构建的.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - 易于测试和工作的 Rust 代码与博客文章来解释它们.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - 一个完全用 Rust 编写的网络应用程序，用于一个愚蠢的派对游戏.
-- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级（~2mb）桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view), as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
+- [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级（~2mb）桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view)，作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) - 该项目展示了如何使用 Yew 组件中的 React 组件创建 Web 应用程序.
 - [Kirk](https://github.com/stkevintan/Kirk) - 只是一个 Rust WebAssembly 博客.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - 学习 Rust 和异步的玩具项目，可以部署到网络上.
@@ -58,14 +58,15 @@
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我通过 Yew/Wasm 用 Rust 编写的个人网站.
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
-- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
+- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - Showing a d3 chart with Yew.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
 - [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+紫杉.
 - [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - 使用 wasm/yew 前端为 graphql 服务清洁样板.
 - [surfer](https://github.com/zzy/surfer) - 一个建立在 yew + graphql 上的博客，有 [live demo site](https://gaiding.com) .  graphql 服务的后端和 Web 应用程序的前端.
-- [qubit](https://abhimanyu003.github.io/qubit) - 一个方便的计算器，基于 Rust 和 WebAssembly. [Live Demo](https://abhimanyu003.github.io/qubit/)
+- [qubit](https://abhimanyu003.github.io/qubit) - 一个方便的计算器，基于 Rust 和 WebAssembly， [Live Demo](https://abhimanyu003.github.io/qubit/).
+- [Paudle](https://github.com/pmsanford/paudle) - Josh Wardle 对优秀文字游戏 Wordle 的重新实现.
 
 ## Templates
 
@@ -98,6 +99,8 @@
 ### Hooks
 
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
+- [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 协调 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
+- [Bounce](https://github.com/futursolo/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
 
 ### Utils
 

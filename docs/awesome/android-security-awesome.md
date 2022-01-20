@@ -10,7 +10,6 @@
 ### Online Analyzers
 
 1. [AndroTotal](http://andrototal.org/)
-2. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - 为开发人员提供免费、快速的安卓应用程序安全测试
 5. [Appknox](https://www.appknox.com/) - 不是免费
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - 最大 128MB
@@ -19,8 +18,8 @@
 15. [App Detonator](https://appdetonator.run/)  - 引爆 APK 二进制文件以提供源代码级别的详细信息，包括应用作者、签名、构建和清单信息.  3 分析/天免费配额.
 16. [BitBaan](https://malab.bitbaan.com/)
 17. [Pithus](https://beta.pithus.org/)  - 开源 APK 分析器. 目前仍处于测试阶段，暂时仅限于静态分析. 可以使用 Yara 规则搜索恶意软件. 更多 [here](https://beta.pithus.org/about/).
-18. [Approver](https://approver.talos-sec.com/)  - Approver 是一个适用于 Android 和 iOS 应用程序的全自动安全分析和风险评估平台. 不是免费的.
-1. [Oversecured](https://oversecured.com/)  - 适用于 Android 和 iOS 应用程序的企业漏洞扫描程序，它使应用程序所有者和开发人员能够通过将 Oversecured 集成到开发过程中来保护移动应用程序的每个新版本. 不是免费的.
+18. [Approver](https://approver.talos-sec.com/)  - Approver 是适用于 Android 和 iOS 应用程序的全自动安全分析和风险评估平台. 不是免费的.
+1. [Oversecured](https://oversecured.com/)  - 适用于 Android 和 iOS 应用程序的企业漏洞扫描程序，它为应用程序所有者和开发人员提供了通过将 Oversecured 集成到开发过程中来保护移动应用程序的每个新版本的能力. 不是免费的.
 2. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - 为开发人员提供免费、快速的 Android 应用程序安全测试
 19. ~~[AMAaaS](https://amaaas.com)  - 免费的安卓恶意软件分析服务. 裸机服务具有针对 Android 应用程序的静态和动态分析功能. 的产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
 12. ~~[AppCritique](https://appcritique.boozallen.com) - 上传您的 Android APK 并获得全面的免费安全评估~~
@@ -102,12 +101,12 @@
 21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - 不再处于积极开发中
 23. [Aurasium](https://github.com/xurubin/aurasium) – 通过字节码重写和就地引用监视器对 Android 应用程序执行实用的安全策略.
 24. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
-25. [Appie](https://manifestsecurity.com/appie/)  - Appie 是一个已预先配置为用作 Android 测试环境的软件包. 它是完全便携的，可以在 U 盘或智能手机上携带. 这是 Android 应用程序安全评估所需的所有工具的一站式解决方案，也是现有虚拟机的绝佳替代品.
+25. [Appie](https://manifestsecurity.com/appie/)  - Appie 是一个已预先配置为用作 Android 测试环境的软件包. 它是完全便携的，可以在 U 盘或智能手机上携带. 这是 Android 应用程序安全评估所需的所有工具的一站式解决方案，也是现有虚拟机的绝佳替代方案.
 26. [StaDynA](https://github.com/zyrikby/StaDynA)  - 在存在动态代码更新功能（动态类加载和反射）的情况下支持安全应用程序分析的系统. 该工具结合了 Android 应用程序的静态和动态分析，以揭示隐藏/更新的行为，并利用这些信息扩展静态分析结果.
 27. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - 不完整
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - 用于移动应用程序渗透测试和移动恶意软件分析的虚拟机
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - 移动应用逆向工程和分析框架
-30. [Taintdroid](http://appanalysis.org) - 需要 AOSP 编译
+30. [Taintdroid](http://appanalysis.org) - requires AOSP compilation
 31. [ARTist](https://artist.cispa.saarland)  - 一个灵活的开源仪器和混合分析框架，适用于 Android 应用程序和 Android 的 java 中间件. 它基于 Android 运行时 (ART) 编译器，并在设备上编译期间修改代码.
 32. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
 33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool)  - 从 Android APK 中提取静态和动态特征的工具. 它结合了不同的知名安卓应用分析工具，如 DroidBox、FlowDroid、Strace、AndroGuard 或 VirusTotal 分析.

@@ -104,6 +104,30 @@
 			</div>
 			<b>为开发人员构建的极其简单的软件许可和分发 API</b>
 		</a>
+		<br>
+		<br>
+		<br>
+		<br>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
+			</div>
+		</a>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -200,7 +224,7 @@
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - 存在的不可能的探测项目.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - 对于 npm 包.
 	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - 包管理器.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) - 测试赛跑者.
@@ -317,7 +341,7 @@
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS 工具.
+- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - React 的富文本编辑器框架.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
@@ -371,7 +395,7 @@
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java 框架.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - 自动化 Linux 容器操作的开源平台.
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP 微框架.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java Web 应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
@@ -390,7 +414,7 @@
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - 使用 Ruby 学习、实施和应用机器学习.
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Apple 机器学习框架的模型.
-	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - 用 Ja​​va 编写的开源分布式机器学习平台，带有 R、Python 和 Scala 的 API.
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - 从实验到生产级机器学习.
 	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - 用机器学习解决金融问题.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - 自动微分和 XLA 编译相结合，用于高性能机器学习研究.
@@ -407,7 +431,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - 用于训练和部署模型的 WebGL 加速机器学习 JavaScript 库.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 优化 TensorFlow 模型以进行设备上机器学习的框架.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 被引用最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
@@ -535,7 +559,7 @@
 - [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - 从不同的支持数据存储（如 ElasticSearch 和 MongoDB）中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - 一切使使用数据库更容易的东西.
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - 逻辑数据库，将大型复杂的数据网络组织为一个知识体系.
-- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - 开源、分布式、宽列存储、NoSQL 数据库管理系统.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## Media
 
@@ -551,7 +575,7 @@
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术.
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 用于录制、转换和流式传输音频和视频的跨平台解决方案.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - 可下载的 SVG/PNG/字体图标项目.
-- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - 专业环境中的照明、音频和视频.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - 跨平台媒体播放器软件和流媒体服务器.
 
 ## Learn
@@ -798,7 +822,7 @@
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - 如何从非结构化的生物医学数据和文本中提取信息.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - 努力为子孙后代保护网络.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - WordPress 的命令行界面.
-- [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人划分为风险等级的方法.
+- [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
 - [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.

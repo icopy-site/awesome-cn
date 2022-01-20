@@ -6,7 +6,7 @@
 		<br>
 		<br>
 		<br>
-		<h3><a href="https://www.producthunt.com/posts/actions-4">我的 Actions 应用正在 Product Hunt 上</a></h3>
+		<h3><a href="https://sindresorhus.com/one-thing">查看我的新 One Thing 应用</a></h3>
 		<br>
 		<br>
 	</div>
@@ -90,6 +90,29 @@
 				</sub>
 			</div>
 		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
+			</div>
+		</a>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -161,7 +184,7 @@
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
 - [is-up](https://github.com/sindresorhus/is-up) - 检查一个网站是打开还是关闭.
 - [is-online](https://github.com/sindresorhus/is-online) - 检查互联网连接是否正常.
-- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+- [public-ip](https://github.com/sindresorhus/public-ip) - 获取您的公共 IP 地址.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 在终端上复制和粘贴.
 - [XO](https://github.com/xojs/xo) - 使用 JavaScript 幸福风格强制执行严格的代码风格.
 - [Standard](https://github.com/feross/standard) - JavaScript 标准风格——一种风格来统治它们.
@@ -191,7 +214,7 @@
 - [itunes-remote](https://github.com/mischah/itunes-remote) - 交互式控制 iTunes.
 - [mobicon](https://github.com/samverschueren/mobicon-cli) - 移动应用程序图标生成器.
 - [mobisplash](https://github.com/samverschueren/mobisplash-cli) - 移动应用启动画面生成器.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 漂亮的 git diff 到 HTML 生成器.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 - [Cash](https://github.com/dthree/cash) - 纯 JavaScript 中的跨平台 Unix shell 命令.
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - 在终端中试用 npm 包.
 - [jscpd](https://github.com/kucherenko/jscpd) - 复制/粘贴源代码检测器.
@@ -216,7 +239,7 @@
 - [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) - 用于 JavaScript 中通用函数式编程的库套件，允许您编写优雅的模块化应用程序，错误更少，重用更多.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别是您可以选择仅加载您需要的模块/功能，没有额外的开销.
-- [Bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming.
+- [Bacon.js](https://github.com/baconjs/bacon.js) - 功能反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
 - [Lazy.js](https://github.com/dtao/lazy.js) - 类似于 lodash/Underscore 的实用程序库，但具有惰性评估，在许多情况下可以转化为卓越的性能.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 专注于高性能和低内存使用的反应式库.
@@ -270,7 +293,7 @@
 ### Command-line utilities
 
 - [chalk](https://github.com/chalk/chalk) - 终端字符串样式正确.
-- [meow](https://github.com/sindresorhus/meow) - CLI 应用程序助手.
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper.
 - [yargs](https://github.com/yargs/yargs) - 命令行解析器，自动生成优雅的用户界面.
 - [ora](https://github.com/sindresorhus/ora) - 优雅的终端微调器.
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - 更简单的标准输入.
@@ -282,7 +305,7 @@
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - 各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) - 带有 Windows CMD 后备的 Unicode 符号.
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建框.
-- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - 在终端中创建可点击的链接.
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
@@ -303,7 +326,7 @@
 - [multispinner](https://github.com/codekirei/node-multispinner) - 多个、同时、单独可控的 CLI 微调器.
 - [omelette](https://github.com/f/omelette) - 外壳自动完成助手.
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台设置环境变量.
-- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
+- [shelljs](https://github.com/shelljs/shelljs) - 便携式 Unix shell 命令.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - 阻止用户以 root 权限运行您的应用程序.
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - 使未处理的承诺拒绝大声失败，而不是默认的静默失败.
 - [sparkly](https://github.com/sindresorhus/sparkly) - 生成迷你图`▂▃▅▂▇`.
@@ -318,7 +341,7 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的 Web 应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
 - [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块捆绑器.
-- [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config.
+- [gulp](https://github.com/gulpjs/gulp) - 流式传输和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明式配置、快速增量编译和自以为是的工作流程.
 - [Start](https://github.com/deepsweet/start) - 具有可共享预设的功能性任务运行器.
@@ -395,7 +418,7 @@
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的文件名.
 - [lnfs](https://github.com/kevva/lnfs) - 强制创建符号链接，如 `ln -fs`.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本还是二进制文件.
-- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - 完全重新设计的文件系统 API，方便日常使用.
+- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - `fs` 模块的额外方法.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 找到一个 npm 包的根目录.
 - [filehound](https://github.com/nspragg/filehound) - 用于搜索文件系统的灵活流畅的界面.
@@ -449,7 +472,7 @@
 - [Socket.io](https://github.com/socketio/socket.io) - 启用基于事件的实时双向通信.
 - [Faye](https://github.com/faye/faye) - 基于 Bayeux 协议的实时客户端-服务器消息总线.
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - 可在多个 CPU 内核上运行的可扩展 HTTP + WebSocket 引擎.
-- [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
+- [Primus](https://github.com/primus/primus) - 实时框架的抽象层，以防止模块锁定.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - 可扩展的实时微服务框架.
 - [Kalm](https://github.com/kalm/kalm.js) - 低级套接字路由器和中间件框架.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - MQTT 客户端 - 基于 Pub-sub 的消息传递协议，用于 TCP/IP 之上.
@@ -551,7 +574,7 @@
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从 JSON 缓冲区中提取一个值，而不解析整个内容.
 - [Stylecow](https://github.com/stylecow/stylecow)  - 解析、操作和转换现代 CSS 以使其与所有浏览器兼容. 可通过插件扩展.
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常快的 YAML 解析器.
-- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML 到 JavaScript 对象转换器.
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - [Jison](https://github.com/zaach/jison)  - 友好的 JavaScript 解析器生成器. 它与 Bison、Yacc 和家人共享基因.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - 解析、格式化、存储和验证电话号码.
 - [ref](https://github.com/TooTallNate/ref) - 在缓冲区中读取/写入结构化二进制数据.
@@ -579,7 +602,7 @@
 ### Network
 
 - [get-port](https://github.com/sindresorhus/get-port) - 获取可用端口.
-- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+- [ipify](https://github.com/sindresorhus/ipify) - 获取您的公共 IP 地址.
 - [getmac](https://github.com/bevry/getmac) - 获取计算机 MAC 地址.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP 客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) - 纯 JS 中的 Netcat 端口.
@@ -588,7 +611,7 @@
 
 - 司机
 	- [PostgreSQL](https://github.com/brianc/node-postgres)  - PostgreSQL 客户端. 纯 JavaScript 和本机 libpq 绑定.
-	- [Redis](https://github.com/luin/ioredis) - Redis 客户端.
+	- [Redis](https://github.com/luin/ioredis) - Redis 客户.
 	- [LevelUP](https://github.com/Level/levelup) - 水平数据库.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL 客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB 客户端.
@@ -674,7 +697,7 @@
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
+- [Passport](https://github.com/jaredhanson/passport) - 简单、不显眼的身份验证.
 - [Grant](https://github.com/simov/grant) - Express、Koa、Hapi、Fastify、AWS Lambda、Azure、Google Cloud、Vercel 等的 OAuth 提供商.
 
 ### Authorization
@@ -795,7 +818,7 @@
 - [mem](https://github.com/sindresorhus/mem) - 记忆函数 - 一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续函数调用.
 - [import-fresh](https://github.com/sindresorhus/import-fresh) - 绕过缓存导入模块.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - 从字符串/缓冲区/流中去除 UTF-8 字节顺序标记 (BOM).
-- [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统区域设置.
+- [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 客户端和服务器模块.
 - [adit](https://github.com/markelog/adit) - SSH 隧道变得简单.
 - [import-lazy](https://github.com/sindresorhus/import-lazy) - 懒惰地导入一个模块.
@@ -815,7 +838,7 @@
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - 解析模块的路径，如 `require.resolve()`，但来自给定路径.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 事件驱动的网络爬虫.
 - [jsdom](https://github.com/tmpvar/jsdom) - HTML 和 DOM 的 JavaScript 实现.
-- [hypernova](https://github.com/airbnb/hypernova) - 服务器端呈现您的 JavaScript 视图.
+- [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - 键入检查值.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - 使用点路径获取、设置或删除 process.env 的嵌套属性.
 - [emittery](https://github.com/sindresorhus/emittery) - 简单而现代的异步事件发射器.
@@ -824,7 +847,7 @@
 - [cashify](https://github.com/xxczaki/cashify) - 货币转换.
 - [genepi](https://github.com/Geode-solutions/genepi) - 从 C++ 代码自动生成本机 Node.js 插件.
 - [husky](https://github.com/typicode/husky) - 创建 Git 挂钩脚本.
-- [patch-package](https://github.com/ds300/patch-package) - 制作并保留对 npm 依赖项的修复.
+- [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 - [editly](https://github.com/mifi/editly) - 声明式视频编辑 API.
 
 ## Resources

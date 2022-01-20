@@ -1,7 +1,10 @@
 <div class="github-widget" data-repo="bolshchikov/js-must-watch"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;这是专门介绍JavaScript的必看视频的列表 
+&gt; 这是专门针对 JavaScript 的必看视频列表 
+
+## 2020
+1. [David Neal: **JavaScript: Past, Present and Future**](https://youtu.be/n-N67Q0O52U) [47:26]
 
 ## 2019
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
@@ -33,7 +36,7 @@
 1. [Kyle Simpson: **Advanced Async and Concurrency Patterns in JavaScript**](https://www.youtube.com/watch?v=Qg1SvpIau6U) [39:42]
 
 ## 2015 
-1. Axel Rauschmayer博士：**今天使用ECMAScript 6 ** 
+1. Axel Rauschmayer 博士：**今天使用 ECMAScript 6** 
 	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
 	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
 1. [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) [19:17] 
@@ -81,10 +84,11 @@
 1. [Brendan Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM) [25:44]
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
 1. [Mark Trostler: **Testable JavaScript - Architecting Your Application for Testability**](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) [45:35]
+1. [James Shore: **The Definitive Guide to Object-Oriented Javascript**](https://www.youtube.com/watch?v=PMfcsYzj-9M)
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
-1. Addy Osmani：**扩展JavaScript应用程序**
+1. Addy Osmani：**扩展您的 JavaScript 应用程序**
 	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
 	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
 	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]
