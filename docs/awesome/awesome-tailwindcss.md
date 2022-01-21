@@ -163,7 +163,7 @@
 -  [Tailwind Color Shades](https://javisperez.github.io/tailwindcolorshades) - Tailwind CSS 的颜色阴影生成器.
 -  [Palette generator](https://adevade.github.io/color-scheme-generator) - 输出 Tailwind CSS 配置文件的调色板生成器.
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) - Tailwind CSS 的颜色配置生成器.
--  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Color explorer for Tailwind CSS.
+-  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) - Tailwind CSS 的颜色浏览器.
 -  [TailwindInk](https://tailwind.ink/) - AI 调色板生成器，使用 Tailwind CSS 调色板进行训练.
 -  [Gradient Designer](https://gradient-designer.csspost.com/) - 为 Tailwind 2.0+ 生成渐变.
 -  [Grayscale Design](https://grayscale.design/) - 基于亮度的调色板生成器.
@@ -252,7 +252,7 @@
 -  [Kutty](https://kutty.netlify.app) - Web 应用程序中常用的可访问和可重用组件.
 -  [Sail UI](https://sailui.github.io/) - 基于 Tailwind CSS 构建的基本 UI 组件的集合.
 -  [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - 使用 jQuery 和 Tailwind CSS 切换.
--  [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - 与框架无关的、Vue.js、React 和 Angular 组件.
+-  [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 -  [lofi ui](https://lofiui.co/) - 低保真 Tailwind CSS 组件.
 -  [Gust UI](https://www.gustui.com/) - 用于 React 和 HTML 中的 Web 应用程序的时尚 Tailwind CSS 组件.
 -  [Windstrap](https://windstrap.netlify.app) - 带有 Bootstrap JS 的 Tailwind CSS.
@@ -282,6 +282,7 @@
 -  [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - 免费的 Tailwind CSS 和 React UI 工具包.
 -  [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - 免费的 Tailwind CSS 和 React 管理模板.
 -  [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - 免费的 Vue.js 3 Tailwind CSS 管理模板，支持 Vite 和 Vue CLI.
+-  [Cruip](https://cruip.com/) - 设计精美的 HTML、React 和 Vue.js 模板.
 
 ## Starters & Themes
 

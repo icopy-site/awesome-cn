@@ -12,7 +12,7 @@
 - [Inbox Zero](http://www.43folders.com/izero) - 严格的电子邮件管理方法旨在始终保持收件箱（几乎）为空.
 - [Lifehacker](http://lifehacker.com/) - 用于完成任务的提示、技巧和下载的首选博客.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - 将您的任务分成 25 分钟的包，并在更短的时间内完成更多工作.
-- [r/Productivity](https://www.reddit.com/r/productivity/) - 生产力 subreddit.
+- [r/Productivity](https://www.reddit.com/r/productivity/) -生产力subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - 多年来一直保持桌面清洁的小技巧.
 - [ShortLib](https://shortlib.netlify.app/) - 收集数百个适用于 Windows、Mac 和 Linux 的快捷方式.
 - [The Bullet Journal](http://bulletjournal.com/) - 一种将简单的笔记本变成高效生产力工具的笔和纸方法.
@@ -60,6 +60,7 @@
 - [KanbanFlow](https://kanbanflow.com) - 具有番茄工作法的看板方法任务板.
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - 基于奇妙清单技术的微软基于云的任务管理应用程序.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 一个用于 macOS 和 iOS 的基于 Getting Things Done 的任务管理器.
+- [Paymo](https://www.paymoapp.com/)  - 让您的团队保持一致和参与. 从同一平台管理任务、创建团队日程、跟踪工作时间并为您的客户开具账单.
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - 用于您的菜单栏/托盘的番茄钟应用程序.
 - [Remember the Milk](https://www.rememberthemilk.com) - 擅长管理待办事项和基于位置的任务的标签.
 - [Taskade](https://taskade.com) - 团队的简单和协作任务列表.
@@ -67,7 +68,7 @@
 - [Timely](https://memory.ai/timely)  - 自动时间跟踪软件. 获得所有项目和团队时间的完美数字记录，无需手动计时器和记笔记的麻烦.
 - [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间.
 - [Tinido](https://tinido.com/) - 一个漂亮而简单的任务管理应用程序，它还可以通过在类似于您在 GitHub 个人资料中找到的贡献图中显示您已完成的任务来为您提供见解.
-- [Todo.txt](http://todotxt.com/)  - 厌倦了使用复杂的应用程序来组织您的任务？  Todo.txt 是一种使用单个“.txt”文件来帮助您完成工作的技术.
+- [Todo.txt](http://todotxt.com/)  - 厌倦了用复杂的应用程序来组织你的任务？  Todo.txt 是一种使用单个“.txt”文件来帮助您完成工作的技术.
 - [Todoist](https://todoist.com/) - 强大的跨平台生产力工具.
 - [Topydo](https://github.com/topydo/topydo) - 一个使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间.
 - [Trello](https://trello.com) - 看板方法任务板.
@@ -91,12 +92,12 @@
 - [n8n](https://n8n.io) - 用于连接 Web 服务的开源工作流自动化，并可选择自托管.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈.
 - [Parabola](https://parabola.io) - 拖放工具来构建自定义报告、工作流和集成，以自动化您的手动流程.
-- [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关的自定义任务的 Android 应用程序（_e.g._ 当您到家时自动打开 wifi）.
+- [Tasker](http://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) - 自动化工具，可让您连接数百个 Web 服务并在流程之间创建自动化.
 
 ### Password Manager
 
-- [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
+- [Bitwarden](https://bitwarden.com) - 免费、受信任的密码管理器，可以在线或通过本机应用程序存储、同步和生成密码.
 - [LastPass](https://lastpass.com) - 免费增值密码管理器，可在线存储加密密码.
 
 ### Knowledge Management

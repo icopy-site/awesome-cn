@@ -26,7 +26,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [turf](https://github.com/Turfjs/turf)：用于空间操作和分析的功能集合
 * [de9im](https://github.com/dpmcmlxxvi/de9im): 用于空间 javascript 操作的快速函数集合
 * [winnow](https://github.com/dmfenton/winnow): 使用 javascript 对 geojson 运行 sql 查询
-* [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
+* [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): 为每个 Feature 添加一个唯一的 id
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): 在 GeoJSON 中提取多边形的共享边界
 * [geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels): 从 GeoJSON 多边形生成点标签
 * [geojsontools](https://github.com/micolous/geojsontools): 用于操作 GeoJSON 文件的 Python 工具
@@ -71,7 +71,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): 从 Mapbox 矢量瓦片中提取 GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组geojson特征生成一个静态rtree（使用terraformer）
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): 将任何东西转换成任何东西
-  * [fiona](https://github.com/toblerity/fiona): 在 ogr 之上的漂亮的 python 界面
+  * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
 * [shp2json](https://github.com/substack/shp2json): 将 shapefile zip 存档转换为流式 GeoJSON
 * [togeojson](https://github.com/tmcw/togeojson): 将 GPX &amp; KML 转换为 geojson
 * [tokml](https://github.com/mapbox/tokml): 将 GeoJSON 转换为 KML
@@ -82,6 +82,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [geoxform](https://github.com/koopjs/geoxform): 将任意大小的 geojson 流转换为流式 CSV、Shapefile 或 KML 等.
 * [supercluster](https://github.com/mapbox/supercluster)：用于浏览器和 Node.js 的快速 GeoJSON 集群库.
 * **SVG**
+  * [geojson2svg](https://github.com/gagan-bansal/geojson2svg)：给定 SVG 视口大小和地图范围，将 GeoJSON 转换为 SVG 字符串.
   * [geojson-svgify](https://github.com/juliuste/geojson-svgify)：将 GeoJSON 几何路径转换为 ​​SVG 折线元素.
   * [geojson-to-svg-cli](https://github.com/derhuerst/geojson-to-svg-cli): 将 GeoJSON 转换为 SVG 的命令行工具.
   * [svg-to-geojson](https://github.com/mapbox/svg-to-geojson)：将 SVG 拖放到地图上，它会将 GeoJSON 返回给您.
