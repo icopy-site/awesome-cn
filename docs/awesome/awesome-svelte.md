@@ -115,7 +115,7 @@ _表格和数据网格._
 _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - 可以在任何 JS 应用程序中使用的 Toast 通知组件.
-- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 一个自定义组件，它添加了一个图标和一个徽章，您可以使用它们来显示例如未读消息的数量等.
+- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 添加图标和徽章的自定义组件，可用于显示未读消息的数量等.
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - 简单优雅的吐司通知.
 
 ### Grid
@@ -128,6 +128,7 @@ _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 - [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - 简单的图标组件.
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - 很棒的 SVG 图标组件，使用 Font Awesome 图标构建.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - 图标组件.
+- [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - 图标，由 Tailwind CSS 的创建者制作.
 
 ### Calendar
 
@@ -159,7 +160,7 @@ _开关/开/关切换/复选框._
 
 ## Scaffold
 
-_模板/样板/种子/入门套件/堆栈集成/ Yeoman generator._
+_模板/样板/种子/入门套件/堆栈合奏/ Yeoman generator._
 
 #### Client
 

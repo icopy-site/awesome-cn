@@ -32,7 +32,7 @@
 
 *以音频和视听体验为中心的项目.*
 
-- [beats](https://beats.gatunes.com/) - 一个半协作的应用程序，带有各种房间，任何人都可以在其中创建或修改现有的音乐循环.
+- [beats](https://beats.gatunes.com/) - 一个半协作的应用程序，带有不同的房间，任何人都可以在其中创建或修改现有的音乐循环.
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听方的录音部分仍然可以查看.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家的云.
 - [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
@@ -40,7 +40,7 @@
 
 ## Avatars
 
-*Resources for creating and utilizing 3D avatars in immersive experiences.*
+*用于在沉浸式体验中创建和利用 3D 化身的资源.*
 
 - [Exokit Avatars](https://github.com/exokitxr/avatars) - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿 IK、通过视位元进行面部动画等功能.
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以下载 glTF 格式.
@@ -83,8 +83,9 @@
 
 - [Active Replica](https://www.activereplica.com/) - 通过 Mozilla Hubs 提供虚拟活动托管.
 - [Active Theory](https://activetheory.net/) - 开发了 Dreamwave 平台.
+- [Aircards](https://www.aircards.co/) - WebAR 广告/营销机构.
 - [Laguna Labs](https://lagunalabs.io/) - 沉浸式网络技术机构.
-- [Playko Software](https://www.playko.com/) - VR/AR/WebXR 代理和 WebXR 游戏开发工作室.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - 专注于教育和社会公平计划的数字沉浸式体验设计工作室.
 - [Sketchfab](https://sketchfab.com/) - 提供 VR 预览器的 3D 模型市场.
 - [Third Axis](https://thirdaxis.io/) - 位于纽约市的设计工作室，在网络上创建 3D、AR 和 VR 内容.

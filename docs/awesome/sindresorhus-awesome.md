@@ -2,8 +2,6 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/actions-4">我的 Actions 应用正在 Product Hunt 上</a></h3>
-	<br>
 	<br>
 	<br>
 	<hr>
@@ -107,10 +105,9 @@
 		<br>
 		<br>
 		<br>
-		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
 			</div>
 			<br>
 			<div>
@@ -119,7 +116,7 @@
 		</a>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="220" alt="Stream">
 			</div>
 			<br>
 			<div>
@@ -508,6 +505,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动玩的电子游戏.
 
 ## Development Environment
 
@@ -706,6 +704,7 @@
 - [k6](https://github.com/k6io/awesome-k6#readme) - 开源、以开发人员为中心的性能监控和负载测试解决方案.
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js 库，使用单个 API 自动化 Chromium、Firefox 和 WebKit.
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - 如何开始和建立软件测试职业.
+- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - 基于 Scala、Akka 和 Netty 的开源负载和性能测试框架.
 
 ## Miscellaneous
 
