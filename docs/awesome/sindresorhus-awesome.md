@@ -211,6 +211,7 @@
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重复.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能合作.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
+- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - 允许业务专业人员在几乎没有编码技能的情况下自行解决他们的需求.
 
 ## Programming Languages
 
@@ -355,7 +356,7 @@
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - JavaScript 的 HTML 模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预建标记的现代 Web 开发架构.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
-- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
+- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - 有助于了解页面速度和用户体验的指标.
@@ -428,7 +429,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - 用于训练和部署模型的 WebGL 加速机器学习 JavaScript 库.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 优化 TensorFlow 模型以进行设备上机器学习的框架.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 被引用最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
