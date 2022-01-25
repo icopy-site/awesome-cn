@@ -4,15 +4,15 @@
  
  [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
- **我们喜欢的论文**（* PWL *）是一个围绕阅读，讨论和学习更多有关计算机科学论文的社区. 该存储库充当社区可以找到的一些最佳论文的目录，将散布在网络上的文档汇总在一起. 您也可以访问 [Papers We Love site](http://paperswelove.org/) 有关更多信息.
+ **Papers We Love** (*PWL*) 是一个围绕阅读、讨论和了解更多有关计算机科学学术论文的社区. 该存储库是社区可以找到的一些最佳论文的目录，汇集了散布在网络上的文档. 您还可以访问 [Papers We Love site](http://paperswelove.org/) 了解更多信息.
 
-由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管文件（这样做时，您会在自述目录中的标题旁边看到一个：scroll：表情符号），但是我们可以提供指向其位置的链接.
+由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管论文（当我们这样做时，您会在自述文件目录中的标题旁边看到一个 :scroll: 表情符号），但我们可以提供指向其位置的链接.
 
-如果您喜欢这些论文，也许可以停下来参加当地分会，然后参加围绕它们的热烈讨论. 您还可以在我们的网站上讨论* PWL *事件，此存储库中的内容和/或与* PWL *相关的​​任何内容 [Slack](https://paperswelove.slack.com/messages/general/)，之后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
+如果您喜欢这些论文，也许可以在当地的分会聚会上停下来，加入围绕它们的充满活力的讨论. 您还可以在我们的网站上讨论 *PWL* 事件、此存储库中的内容和/或与 *PWL* 相关的任何内容 [Slack](https://paperswelove.slack.com/messages/general/)， 后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
 ### Chapters
 
-这是我们的官方章节. 让我们知道您是否有兴趣 [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 在你的城市！
+这是我们的官方章节. 让我们知道您是否有兴趣 [starting one](https://github.com/papers-we-love/organizers) 在你的城市！
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
@@ -63,11 +63,11 @@
 
 ### Past Presentations
 
-看看我们 [YouTube](https://www.youtube.com/user/PapersWeLove) 和 [MixCloud](https://www.mixcloud.com/paperswelove/) （仅音频格式）通道.
+看看我们 [YouTube](https://www.youtube.com/user/PapersWeLove) 和 [MixCloud](https://www.mixcloud.com/paperswelove/) （纯音频格式）频道.
 
 ## Info
 
-我们正在寻找与我们应添加的论文相关的请求请求，可以更好地组织我们拥有的论文，和/或指向我们应指向的其他论文库的链接.
+我们正在寻找与我们应该添加的论文相关的拉取请求，更好地组织我们拥有的论文，和/或指向我们应该指向的其他论文存储库的链接.
 
 ### Other Good Places to Find Papers
 
@@ -93,11 +93,11 @@
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
 
-请检查我们 [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) 指向值得一读的博客，书籍，交流的链接.
+请查看我们 [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) 对于值得一读的博客、书籍、交流的链接.
 
 ### How To Read a Paper
 
-阅读论文与阅读博客或小说并不相同. 这里有一些方便的资源可以帮助您入门.
+阅读论文与阅读博文或小说不同. 这里有一些方便的资源可以帮助您入门.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
@@ -107,7 +107,7 @@
  
 ### Applications/Ideas built around Papers We Love
 
-*爱论文- [@loveapaper](https://twitter.com/loveapaper)
+*爱纸 - [@loveapaper](https://twitter.com/loveapaper)
 
 ### Download papers
 
@@ -117,9 +117,9 @@
 $ ./scripts/download.sh
 ```
 
-这将抓取markdown文件以获取PDF链接，并将论文下载到其相应目录.
+这将抓取 Markdown 文件以获取 PDF 链接并将论文下载到各自的目录.
 
-See [README.md](https://github.com/papers-we-love/papers-we-love/blob/master/./scripts/README.md) 有关更多选项.
+See [README.md](https://github.com/papers-we-love/papers-we-love/blob/master/./scripts/README.md) 更多选择.
 
 ## Contributing Guidelines
 
@@ -127,4 +127,4 @@ See [README.md](https://github.com/papers-we-love/papers-we-love/blob/master/./s
 
 ## Copyright
 
- “ Papers We Love”的名称和该组织的徽标均受版权保护，并由Papers We Love Ltd.拥有所有权，保留所有权利. 开始一章时，请复习 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们有关徽标的使用.
+ “Papers We Love”的名称和该组织的徽标受版权保护，并归 Papers We Love Ltd 所有，保留所有权利. 开始章节时，请查看 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们有关使用徽标的信息.

@@ -36,11 +36,11 @@
 
 #### Transform Encryption
 
-- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - 转换加密使用三个在数学上相关的密钥：一个用于将明文加密给收件人，第二个用于解密密文，第三个用于转换加密给一个收件人的密文，以便其他收件人可以解密.
+- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - 转换加密使用三个数学相关的密钥：一个用于将明文加密给收件人，第二个用于解密密文，第三个用于转换加密给一个收件人的密文，以便其他收件人可以解密.
 
 #### Hash functions
 
-- [MD5](https://en.wikipedia.org/wiki/MD5)  - 广泛使用的散列函数产生 128 位散列值.  MD5 最初设计为用作加密哈希函数，但被发现存在大量漏洞. 它仍然可以用作校验和来验证数据完整性，但只能防止意外损坏.
+- [MD5](https://en.wikipedia.org/wiki/MD5) - Widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
 - [SHA1](https://en.wikipedia.org/wiki/SHA-1)  - 由 NSA 设计的加密哈希函数.  SHA-1 产生一个 160 位的散列值，称为消息摘要.  SHA-1 对于资金雄厚的对手不再被认为是安全的.
 - [SHA2](https://en.wikipedia.org/wiki/SHA-2)  - 由 NSA 设计的散列函数集.  SHA-256 和 SHA-512 是分别使用 32 位和 64 位字计算的新型哈希函数. 它们使用不同的移位量和附加常数，但它们的结构实际上是相同的，仅在轮数上有所不同.
 
@@ -55,12 +55,12 @@
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - 这本书涵盖了密码学中不同任务的许多结构.
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - 现代密码学简介.
 - [Crypto101](https://www.crypto101.io/) - Crypto 101 是密码学的入门课程.
-- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
+- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - 学习构建适用于现实世界的加密协议.
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - 本书旨在为专业密码学家提供参考.
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - 从现代计算机科学的角度编写的密码学入门级处理.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于 OpenSSL 的书.
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 开发人员友好的现代密码学书籍（哈希、MAC 码、对称和非对称密码、密钥交换、椭圆曲线、数字签名），包含大量代码示例.
-- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术来理解和应用系统和应用程序各个级别的安全性.
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用密码技术来理解和应用系统和应用程序各个级别的安全性.
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）写了一本非凡的教科书.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) - Jean-Philippe Aumasson 的现代加密实用介绍.
 - [The Code Book](https://simonsingh.net/books/the-code-book/)  - 这本书是密码学历史的摘要，涵盖了古代和较新的密码学方法. 最后有练习，解决这些问题的奖励是 10.000 美元.
@@ -78,13 +78,13 @@
 - [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - 这个在线课程我们将介绍密码学如何成为安全的基石，以及如何通过使用不同的加密方法（如密码、公钥或私钥）来保护私人或敏感信息免受未经授权的访问.
 - [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - 介绍性但节奏快的本科/研究生密码学入门课程，用于哈佛 CS 127.
 - [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - 可汗学院的密码学课程.
-- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.
-- [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - 现代密码学简介，在实践中和在 Google 中使用密码学，安全性证明和安全性定义以及密码学专题.
+- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - 现代密码学的实用方面，2006 年冬季，华盛顿大学 CSE.
+- [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - 现代密码学简介、在实践中和在 Google 中使用密码学、安全性证明和安全定义以及密码学专题.
 
 ### Other lists
 
 - [Awesome crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – 加密论文、文章、教程和操作指南的精选列表.
-- [Awesome HE](https://github.com/jonaschn/awesome-he) – 同态加密库、软件和资源的精选列表.
+- [Awesome HE](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
 
 ## Tools
 
@@ -138,6 +138,7 @@
 
 ### C++
 
+- [=nil; Crypto3](https://github.com/NilFoundation/crypto3) - C++17 中的现代密码学套件（完整的应用密码学套件，从分组密码开始，到阈值密码学、zk 证明系统等结束）.
 - [Botan](https://botan.randombit.net/) - 用“C++11”编写的密码库.
 - [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library 是一个免费的 C++ 加密方案类库.
 - [HElib](https://github.com/shaih/HElib) - 实现同态加密 (HE) 的软件库.
@@ -149,8 +150,8 @@
 - [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - 通用加密库.
 - [libsodium-net](https://github.com/adamcaudill/libsodium-net) - 安全加密库，.NET 的 libsodium 端口.
 - [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - 许多标准加密算法的 .NET Framework 实现.
-- [PCLCrypto](https://github.com/AArnott/PCLCrypto) - 为平台实现的算法提供加密 API，包括将它们暴露给可移植库.
-- [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET 加密做得对.
+- [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+- [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
 - [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - 使用 libsodium 和 protobuf 进行流加密和解密.
 
 ### Clojure
@@ -158,7 +159,7 @@
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - 加密 API.
 - [clj-crypto](https://github.com/macourtney/clj-crypto/) - 充气城堡的包装.
 - [pandect](https://github.com/xsc/pandect) - Clojure 的快速且易于使用的消息摘要、校验和和 HMAC 库.
-- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
+- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（例如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
 
 ### Common Lisp
 
@@ -224,7 +225,7 @@
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 Node.js 提供标准和安全的加密算法.
 - [forge](https://github.com/digitalbazaar/forge) - JavaScript 中 TLS 的本机实现以及用于编写基于加密和网络密集型 Web 应用程序的工具.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松为 Node.js 应用程序添加强大的数据控制.
-- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，一种代理重新加密的变体，用于在浏览器中轻松安全地管理端到端加密.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于在浏览器中轻松安全地管理端到端加密.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library 为 Web 开发人员提供了一套广泛而高效的加密功能.
 - [js-nacl](https://github.com/tonyg/js-nacl) - 用于 Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
@@ -253,7 +254,7 @@
 - [Apache Shiro](http://shiro.apache.org/) - 执行身份验证、授权、加密和会话管理.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html)  - 通用加密库.  JCA 提供者，从基本助手到 PGP/SMIME 操作的广泛功能.
 - [Flexiprovider](http://www.flexiprovider.de/) - 用于 Java 密码体系结构的强大工具包.
-- [GDH](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
+- [GDH](https://github.com/maxamel/GDH) - 在 Vert.x 框架之上为多方构建的通用 Diffie-Hellman 密钥交换 Java 库.
 - [Google Keyczar](https://github.com/google/keyczar) - 易于使用且安全的加密框架，带有密钥版本控制.
 - [Google Tink](https://github.com/google/tink) - 一个小型加密库，提供安全、简单、敏捷和快速的方式来完成一些常见的加密任务.
 - [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
@@ -274,7 +275,7 @@ algorithm.
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - 包装 OpenSSL 的库，但也有纯 Julia 实现供参考.
 - [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - 包装 mbed TLS 和密码学 C 库.
 - [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - 围绕荨麻加密散列的 Julia 包装器/
-提供 MD5、SHA1、SHA2 散列和 HMAC 功能以及 AES 加密/解密的加密库.
+加密库提供 MD5、SHA1、SHA2 散列和 HMAC 功能，以及 AES 加密/解密.
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) - 高性能、100% 原生 julia SHA1、SHA2-{224,256,384,512} 实现.
 
 ### Lua
@@ -334,7 +335,7 @@ algorithm.
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - 是 BLAKE3 加密哈希函数的官方 Rust 和 C 实现.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
-- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码库，它难以误用、符合人体工程学且性能卓越.
+- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码学库，难以误用、符合人体工程学且性能卓越.
 - [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互身份验证的 Rust 库.
 - [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
 - [proteus](https://github.com/wireapp/proteus) - Rust 中的 Axolotl 协议实现，没有标头键.
@@ -344,7 +345,7 @@ algorithm.
 - [rust-crypto](https://github.com/DaGenix/rust-crypto) - 主要是各种加密算法的纯 Rust 实现.
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - Rust 的 OpenSSL 绑定.
 - [rustls](https://github.com/ctz/rustls) - Rustls 是一个用 Rust 编写的新的现代 TLS 库.
-- [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+- [sodiumoxide](https://github.com/dnaq/sodiumoxide) - 氧化钠：Rust 的快速密码库（绑定到 libsodium）.
 - [suruga](https://github.com/klutzy/suruga) - Rust 中的 TLS 1.2 实现.
 - [webpki](https://github.com/briansmith/webpki) - Rust 中的 Web PKI TLS X.509 证书验证.
 

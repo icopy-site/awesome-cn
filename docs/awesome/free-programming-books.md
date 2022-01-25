@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-该页面是一个易于阅读的网站，网址为 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+此页面可作为易于阅读的网站在 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 
 ## List of Free Learning Resources In Many Languages
@@ -15,16 +15,16 @@
 
 ## Intro
 
-这个列表最初是一个克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 来自 Karan Bhangui 和 George Stocker 的贡献.
+此列表最初是 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) Karan Bhangui 和 George Stocker 的贡献.
 
-该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/), 拥有 210,000 多个星星、6800 多个提交、1900 多个贡献者和 45,000 多个分支.
+该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有 210,000+ 颗星、6800+ 提交、1900+ 贡献者和 45,000+ 分叉.
 
-The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这是一个非营利组织，致力于促进免费电子书的创建、分发、存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会在美国可以免税.
+The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这是一个非营利组织，致力于促进免费电子书的创作、分发、存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会在美国可以免税.
 
 
 ### How To Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md) . 如果你是 GitHub 的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md) ！ 记得遵守我们 [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md) 也.  ([translations](https://github.com/EbookFoundation/free-programming-books/blob/master/#translations) 也提供）
+请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md) . 如果你是 GitHub 新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md) ！ 记得遵守我们 [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md) 也.  ([translations](https://github.com/EbookFoundation/free-programming-books/blob/master/#translations) 也提供）
 
 
 ### How to Share
@@ -64,7 +64,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩文/韩文 [韩文]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
++ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)
@@ -104,6 +104,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Kazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-km.md)
 + [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
++ [Malayalam / മലയാളം](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ml.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pl.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pt_BR.md)
@@ -132,7 +133,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ### Podcast - Screencast
 
-免费播客和截屏视频：
+免费播客和截屏：
 
 + [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
@@ -160,12 +161,12 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ### Translations
 
-我们将贡献、操作方法和行为准则文档翻译成多种语言.
+我们已将贡献、操作指南和行为准则文档翻译成多种语言.
 
-- 阿拉伯语/阿拉伯语/阿拉伯语
+- 阿拉伯语 / al arabiya / 阿拉伯语
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-ar.md)
-- 阿塞拜疆语 / Азәрбајҹан дили / آذربايجانجا ديلي
-- 孟加拉语/বাংলা
+- 阿塞拜疆 / Азәрбајҹан дили / آذربايجانجا ديلي
+- 孟加拉语 / বাংলা
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-bn.md)
 - 波斯尼亚语 / bosanski jezik
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-bs.md)
@@ -178,16 +179,16 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-zh_TW.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-zh_TW.md)
 - 捷克语 / čeština / český jazyk
-- 丹麦语/丹麦语
-- 荷兰语 / 荷兰语
+- 丹麦语 / dansk
+- 荷兰语/荷兰语
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-nl.md)
 - 英语
   - [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
-- 爱沙尼亚 / eesti 龙骨
-- 芬兰语/芬兰语/芬兰语
-- 菲律宾语
+- 爱沙尼亚语 / eesti keel
+- 芬兰语 / 芬兰语 / 芬兰语
+- 菲律宾人
   - [Kodigo ng Pag-uugali](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-fil.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-fil.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-fil.md)
@@ -195,7 +196,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
   - [Code de Contrat](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-fr.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-fr.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-fr.md)
-- 德语 德语
+- 德语德语
   - [Verhaltenskodex](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-de.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-de.md)
   - [Mitwirken](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-de.md)
@@ -208,18 +209,18 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
   - [आचार संहिता](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-hi.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-hi.md)
 - 匈牙利语/匈牙利语/匈牙利语
-- 印尼语 / 印尼语
+- 印尼语/印尼语
   - [Berkontribusi](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-id.md)
   - [Kode Etik](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-id.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-id.md)
-- 意大利语 / 意大利语
+- 意大利语/意大利语
   - [Codice di Comportamento](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-it.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-it.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-it.md)
 - Japanese / 日本语
-- 高棉语 / 柬埔寨语 / ខ្មែរ
+- 高棉/柬埔寨/ខ្មែរ
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-km.md)
-- 韩文 / 韩文 [韩文]
+- 韩语/韩语 [韩语]
   - [행동강령](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-ko.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-ko.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-ko.md)
@@ -237,7 +238,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-pt_BR.md)
 - 葡萄牙语（葡萄牙）
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-pt_PT.md)
-- 罗马尼亚语（罗马尼亚）/limba română/român
+- 罗马尼亚语（罗马尼亚）/limba română / român
 - 俄语/俄语
   - [Кодекс поведения](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-ru.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-ru.md)
@@ -247,7 +248,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
   - [Código de Conducta](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT-es.md)
   - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING-es.md)
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-es.md)
-- 瑞典语 / 瑞典语
+- 瑞典语/瑞典语
   - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO-sv.md)
 - 泰米尔语 / தமிழ்
 - 泰语/泰语
