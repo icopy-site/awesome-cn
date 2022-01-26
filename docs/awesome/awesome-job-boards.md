@@ -18,7 +18,6 @@
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/)  - 加密工作是人才遇到机会的地方. 我们的目标是将热情的区块链和加密货币开发人员与重视他们的人才和专业知识的公司联系起来.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - 区块链和加密货币工作的领先工作委员会
-* [Blockchain Works](https://blockchain.works-hub.com/jobs) - 通过 **Blockchain Works** 发现**最好的**区块链机会和文章
 * [Web3 Jobs](https://web3.career)  - 寻找 web3 工作？  Web3 Jobs 拥有 8,387 多个 web3 远程和离线工作，例如 Web3 开发人员、智能合约开发人员、Solidity 开发人员等等. 将您的职业生涯切换到 Web3 并加入未来！
 
 ## Cloud
@@ -65,11 +64,19 @@
 * [Metaverse Jobs](https://www.themetaversejobs.com/) - Metaverse 工作的工作板
 * [Hire.AR](https://www.hire.ar/) - 增强现实工作的工作委员会
 
+## Machine Learning
+
+* [Jobhunt.ai](https://jobhunt.ai/) - 机器学习和数据科学工作，也有一个远程部分
+
 ## Programming
 
 ### Aggregator
 
 * [findwork.dev](https://findwork.dev/)
+
+### Clojure
+
+* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure 工作，还有一个远程部分
 
 ### Full-Stack
 
@@ -79,15 +86,13 @@
 
 * [FunctionalJobs.dev](https://functionaljobs.dev/) - 面向函数式编程爱好者的高度活跃的工作板
 * [Functional Jobs](https://www.functionaljobs.com/) - 功能程序员的工作板
-* [Functional Works](https://functional.works-hub.com/jobs) - 发现本地和远程功能编程机会
 
 ### Go
 
-* [Golangprojects](https://www.golangprojects.com/)
+* [Golangprojects](https://www.golangprojects.com/)- 自 2014 年以来的 Golang 工作，也有一个远程部分
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
-* [Golang Works](https://golang.works-hub.com/jobs) - 本地和远程 Golang 机会、文章和开源.
 
 ### JavaScript
 
@@ -97,7 +102,6 @@
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.dev/)
-* [Javascript Works](https://javascript.works-hub.com/jobs) - 本地和远程 JavaScript 机会、文章和开源.
 
 ### Kotlin
 * [Kotlin Jobs](https://kotlinjobs.dev)

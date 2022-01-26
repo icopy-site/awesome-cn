@@ -2,38 +2,44 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Fuzzing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) 或模糊测试是一种自动化的软件测试技术，涉及提供无效，意外或随机数据作为计算机程序的输入. 然后监视程序是否存在异常，例如崩溃，内置代码断言失败或潜在的内存泄漏. 通常，模糊器用于测试采用结构化输入的程序. 
+> [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) 或模糊测试是一种自动化软件测试技术，涉及提供无效、意外或随机数据作为计算机程序的输入. 然后监视程序是否存在异常，例如崩溃、内置代码断言失败或潜在的内存泄漏. 通常，模糊器用于测试采用结构化输入的程序. 
 
-精选的超赞Fuzzing安全测试参考列表. 此外，还有免费提供的学术论文，工具等的集合.
+用于安全测试的令人敬畏的 Fuzzing 参考的精选列表. 此外，还有一系列免费提供的学术论文、工具等.
 
-您喜欢的工具或您自己的论文没有列出？ 叉并创建一个添加请求的拉取请求！
+您最喜欢的工具或您自己的论文未列出？  Fork 并创建一个 Pull Request 来添加它！
 
 
 
 
 
 ## Books
+- [Fuzzing-101](https://github.com/antonio-morales/Fuzzing101)
 - [The Fuzzing Book](https://www.fuzzingbook.org/) (2019)
 - [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - 
-实际上，该文档是一篇论文，但它包含的内容比任何其他书籍都更为重要和重要.
+实际上，这份文件是一篇论文，但它包含的内容比任何其他书籍都重要.
 - [Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/) (2018)
 - [Fuzzing: Brute Force Vulnerability Discovery, 1st Edition](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/) (2007)
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
 
 
 ## Talks
-- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8)，黑帽欧洲2016
-- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0)，NYU Talk 2018年
-- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo)，NDC会议2018
+- [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ)， YouTube
+- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8), 黑帽欧洲 2016
+- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0), 纽约大学讲座 2018
+- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo), 2018 年国家数据中心会议
 
 ## Papers
-为了达到明确的范围，我选择将有关绒毛的出版物纳入最后的4篇论文集.
-从2008年1月到2019年7月举行的主要安全会议和其他会议.
-它包括（i）网络和分布式系统安全研讨会（NDSS），（ii）IEEE研讨会
-安全和隐私（S＆P），（iii）USENIX安全研讨会（USEC），以及（iv）ACM计算机和通信安全（CCS）会议.
+为了达到明确定义的范围，我选择在 4
+2008 年 1 月至 2019 年 7 月举行的顶级主要安全会议和其他会议.
+它包括 (i) 网络和分布式系统安全研讨会 (NDSS)，(ii) IEEE Symposium on
+安全和隐私 (S&amp;P)，(iii) USENIX 安全研讨会 (USEC)，和 (iv) ACM 计算机和通信安全会议 (CCS).
 
 
 ### The Network and Distributed System Security Symposium (NDSS)
+- [WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, 2021](https://taesoo.kim/pubs/2021/jung:winnie.pdf)
+- [Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing, 2021](https://www.cs.ucr.edu/~heng/pubs/afl-hier.pdf)
+- [PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, 2021](https://beerkay.github.io/papers/Berkay2021PGFuzzNDSS.pdf)
+- [Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-2_24224_paper.pdf/)
 - [HFL: Hybrid Fuzzing on the Linux Kernel, 2020](https://www.unexploitable.systems/publication/kimhfl/)
 - [HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing, 2020](https://www.researchgate.net/publication/339164746_HotFuzz_Discovering_Algorithmic_Denial-of-Service_Vulnerabilities_Through_Guided_Micro-Fuzzing)
 - [HYPER-CUBE: High-Dimensional Hypervisor Fuzzing, 2020](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)
@@ -54,6 +60,11 @@
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
+- [STOCHFUZZ: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting, 2021](https://www.cs.purdue.edu/homes/zhan3299/res/SP21b.pdf)
+- [One Engine to Fuzz 'em All: Generic Language Processor Testing with Semantic Validation, 2021](https://huhong789.github.io/papers/polyglot-oakland2021.pdf)
+- [NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis, 2021](https://softsec.kaist.ac.kr/~jschoi/data/oakland2021.pdf)
+- [DIFUZZRTL: Differential Fuzz Testing to Find CPU Bugs, 2021](https://lifeasageek.github.io/papers/jaewon-difuzzrtl.pdf)
+- [DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices, 2021](https://conand.me/publications/redini-diane-2021.pdf)
 - [Fuzzing JavaScript Engines with Aspect-preserving Mutation, 2020](https://jakkdu.github.io/pubs/2020/park:die.pdf)
 - [IJON: Exploring Deep State Spaces via Fuzzing, 2020](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/27/IJON-Oakland20.pdf)
 - [Krace: Data Race Fuzzing for Kernel File Systems, 2020](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
@@ -73,6 +84,12 @@
 
 
 ### USENIX Security
+- [Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/nagy)
+- [ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/tychalas)
+- [Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/aafer)
+- [Constraint-guided Directed Greybox Fuzzing, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-gwangmu)
+- [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo)
+- [UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers, 2021](https://www.usenix.org/conference/usenixsecurity21/presentation/li-yuwei)
 - [FANS: Fuzzing Android Native System Services via Automated Interface Analysis, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/liu)
 - [Analysis of DTLS Implementations Using Protocol State Fuzzing, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/fiterau-brostean)
 - [EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/yue)
@@ -97,6 +114,15 @@
 
 
 ### ACM Conference on Computer and Communications Security (ACM CCS)
+- [SoFi: Reflection-Augmented Fuzzing for JavaScript Engines, 2021](https://dl.acm.org/doi/pdf/10.1145/3460120.3484823)
+- [T-Reqs: HTTP Request Smuggling with Differential Fuzzing, 2021](https://bahruz.me/papers/ccs2021treqs.pdf)
+- [V-SHUTTLE: Scalable and Semantics-Aware Hypervisor Fuzzing, 2021](https://nesa.zju.edu.cn/download/ppt/pgn_slides_V-SHUTTLE.pdf)
+- [Same Coverage, Less Bloat: Accelerating Binary-only Fuzzing with Coverage-preserving Coverage-guided Tracing, 2021](https://people.cs.vt.edu/snagy2/papers/21CCS.pdf)
+- [HyperFuzzer: An Efficient Hybrid Fuzzer For Virtual CPUs, 2021](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/hyperfuzzer-ccs21.pdf)
+- [Regression Greybox Fuzzing, 2021](https://mboehme.github.io/paper/CCS21.pdf)
+- [Hardware Support to Improve Fuzzing Performance and Precision, 2021](https://gts3.org/assets/papers/2021/ding:snap.pdf)
+- [SNIPUZZ: Black-box Fuzzing of IoT Firmware via Message Snippet Inference, 2021](https://arxiv.org/pdf/2105.05445.pdf)
+- [FREEDOM: Engineering a State-of-the-Art DOM Fuzzer, 2020](https://gts3.org/assets/papers/2020/xu:freedom.pdf)
 - [Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing, 2019](https://dl.acm.org/citation.cfm?id=3354249)
 - [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts, 2019](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf)
 - [Matryoshka: fuzzing deeply nested branches, 2019](https://web.cs.ucdavis.edu/~hchen/paper/chen2019matryoshka.pdf)
@@ -145,54 +171,55 @@
 
 
 ## Tools
-有关可用于进行模糊测试的各种开源工具的信息.
+有关可用于利用模糊测试的各种开源工具的信息.
 ### General-purpose
-- [radamsa](https://gitlab.com/akihe/radamsa) -通用模糊器.
-- [zzuf](https://github.com/samhocevar/zzuf) -透明的应用程序输入模糊器.
+- [radamsa](https://gitlab.com/akihe/radamsa) - 一个通用的模糊器.
+- [zzuf](https://github.com/samhocevar/zzuf) - 一个透明的应用程序输入模糊器.
 ### Binary
-- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时工具和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
-- [WinAFL](https://github.com/googleprojectzero/winafl) -AFL的一个分支，用于模糊Windows二进制文件.
-- [libFuzzer](http://llvm.org/docs/LibFuzzer.html) -用于覆盖率指导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
-- [Driller](https://github.com/shellphish/driller) -的实现 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) . 此实现基于AFL构建，其中angr用作符号跟踪器.
-- [shellphish fuzzer](https://github.com/shellphish/fuzzer) -AFL的Python接口，可轻松注入测试用例和其他功能.
-- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) -一种基于二进制的模糊测试工具，该工具通过利用一种称为灰匣子conolic测试的新技术，改进了基于经典coverage的模糊测试.
-- [Jazzer](https://github.com/CodeIntelligenceTesting/jazzer)  -Java虚拟机的覆盖率指导的进程内模糊器. 它基于libFuzzer，可以直接应用于已编译的应用程序.
+- [American Fuzzy Lop plus plus (AFL++)](https://github.com/AFLplusplus/AFLplusplus)  - 优于 Google 的 AFL 的分支. 更快的速度，更多更好的突变，更多更好的仪器，自定义模块支持等. [paper](https://www.usenix.org/conference/woot20/presentation/fioraldi)
+- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - 一种面向安全的模糊器，它采用一种新型的编译时工具和遗传算法来自动发现干净、有趣的测试用例，这些测试用例会触发目标二进制文件中的新内部状态. 
+- [WinAFL](https://github.com/googleprojectzero/winafl) - 用于模糊 Windows 二进制文件的 AFL 分支.
+- [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - 用于覆盖引导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
+- [Driller](https://github.com/shellphish/driller) - 的实施 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) . 这个实现建立在 AFL 之上，angr 被用作符号跟踪器.
+- [shellphish fuzzer](https://github.com/shellphish/fuzzer) - AFL 的 Python 接口，允许轻松注入测试用例和其他功能.
+- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) - 基于二进制的模糊测试工具，通过利用一种称为灰盒 concolic 测试的新技术，改进了经典的基于覆盖的模糊测试.
+- [Jazzer](https://github.com/CodeIntelligenceTesting/jazzer)  - 用于 Java 虚拟机的覆盖引导的进程内模糊器. 它基于 libFuzzer，可以直接应用于已编译的应用程序.
 ### Web, JavaScript
-- [jsfunfuzz](https://github.com/MozillaSecurity/funfuzz) -JavaScript引擎模糊器.
-- [IFuzzer](https://github.com/vspandan/IFuzzer) -使用遗传编程的进化解释器模糊器.
-- [domato](https://github.com/googleprojectzero/domato) -来自的DOM模糊器 [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
-- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) -由SamuelGroß编写的（覆盖率）导向的Javascript引擎模糊器.
-- [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) -由KAIST SoftSec Lab编写的JavaScript引擎模糊器.
-- [test-each](https://github.com/ehmicky/test-each) -使用不同的输入重复测试.
-- [gremlins.js](https://github.com/marmelab/gremlins.js) -gremlins.js是用JavaScript编写的猴子测试库.
+- [jsfunfuzz](https://github.com/MozillaSecurity/funfuzz) - JavaScript 引擎模糊器.
+- [IFuzzer](https://github.com/vspandan/IFuzzer) - 使用遗传编程的进化解释器模糊器.
+- [domato](https://github.com/googleprojectzero/domato) - DOM fuzzer 来自 [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
+- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - 一个（覆盖）引导的 Javascript 引擎模糊器，由 Samuel Groß 编写.
+- [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript 引擎模糊器，由 KAIST SoftSec 实验室编写.
+- [test-each](https://github.com/ehmicky/test-each) - 使用不同的输入重复测试.
+- [gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js 是一个用 JavaScript 编写的猴子测试库.
 ### Network protocol
-- [dtls-fuzzer](https://github.com/assist-project/dtls-fuzzer) -一种Java工具，用于执行DTLS服务器的协议状态模糊测试.
-- [T-Fuzz](https://github.com/HexHive/T-Fuzz) -T-Fuzz利用覆盖率指导的模糊器生成输入.
-- [TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) -用于分析TLS库的基于Java的框架.
-- [DELTA](https://github.com/seungsoo-lee/DELTA) -SDN安全评估框架.
-- [boofuzz](https://github.com/jtpereyda/boofuzz)  -人类的网络协议模糊测试. 可从http://boofuzz.readthedocs.io/获得文档，包括精美的快速入门指南.
-- [LL-Fuzzer](https://github.com/mit-ll/LL-Fuzzer) -适用于Android设备的自动NFC模糊测试框架.
-- [tlsfuzzer](https://github.com/tomato42/tlsfuzzer) -SSL和TLS协议测试套件和模糊器.
-- [TumbleRF](https://github.com/riverloopsec/tumblerf) -协调将模糊技术应用于RF系统的框架. 
-- [PULSAR](https://github.com/hgascon/pulsar) -一种用于专有网络协议的状态黑盒模糊测试的方法.
-- [SPIKE](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) -模糊的开发框架，如sulley，sulley的前身.
-- [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) -协议实施的安全性测试.
+- [dtls-fuzzer](https://github.com/assist-project/dtls-fuzzer) - 执行 DTLS 服务器的协议状态模糊测试的 Java 工具.
+- [T-Fuzz](https://github.com/HexHive/T-Fuzz) - T-Fuzz 利用覆盖引导的模糊器生成输入.
+- [TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) - 用于分析 TLS 库的基于 Java 的框架.
+- [DELTA](https://github.com/seungsoo-lee/DELTA) - SDN 安全评估框架.
+- [boofuzz](https://github.com/jtpereyda/boofuzz)  - 人类网络协议模糊测试. 文档可在 http://boofuzz.readthedocs.io/ 获得，包括漂亮的快速入门指南.
+- [LL-Fuzzer](https://github.com/mit-ll/LL-Fuzzer) - 适用于 Android 设备的自动 NFC 模糊测试框架.
+- [tlsfuzzer](https://github.com/tomato42/tlsfuzzer) - SSL 和 TLS 协议测试套件和模糊器.
+- [TumbleRF](https://github.com/riverloopsec/tumblerf) - 一个将模糊测试技术应用于射频系统的框架. 
+- [PULSAR](https://github.com/hgascon/pulsar) - 一种专有网络协议的状态黑盒模糊测试方法.
+- [SPIKE](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - 类似 sulley 的 fuzzer 开发框架，是 sulley 的前身.
+- [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - 协议实现的安全测试.
 ### Driver
-- [Charm](https://github.com/trusslab/charm) -有助于对移动系统的设备驱动程序进行动态分析的系统解决方案.
+- [Charm](https://github.com/trusslab/charm) - 一种有助于对移动系统的设备驱动程序进行动态分析的系统解决方案.
 ## Platform
-- [certfuzz](https://github.com/CERTCC/certfuzz) -它包含CMU CERT基本模糊框架（BFF）和CERT故障观察引擎（FOE）的源代码.
-- [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) -自动化安全测试平台，可通过查找硬件和软件系统中的漏洞来防止零日攻击.
-- [Blackhat USA 2018 AFL workshop training materials](https://github.com/wrauner/afl-fuzzing-training) -来自三星研究院的@wrauner.
-- [CI Fuzz](https://code-intelligence.com) -与CI / CD无关的平台，用于对本机应用程序和Java Web应用程序进行基于反馈的模糊测试.
+- [certfuzz](https://github.com/CERTCC/certfuzz) - 它包含 CMU CERT 基本模糊测试框架 (BFF) 和 CERT 故障观察引擎 (FOE) 的源代码.
+- [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) - 一个自动化的安全测试平台，通过查找硬件和软件系统中的漏洞来防止零日攻击.
+- [Blackhat USA 2018 AFL workshop training materials](https://github.com/wrauner/afl-fuzzing-training) - 来自三星研究院的@wrauner.
+- [CI Fuzz](https://code-intelligence.com) - 一个与 CI/CD 无关的平台，用于对本机应用程序和 Java Web 应用程序进行基于反馈的模糊测试.
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/cpuu/awesome-fuzzing/blob/master/contributing.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/cpuu/awesome-fuzzing/blob/master/contributing.md) 第一的.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，cpuu放弃了所有版权和
-相关或邻接权.
+在法律允许的范围内，cpuu 已放弃所有版权和
+本作品的相关或邻接权.
