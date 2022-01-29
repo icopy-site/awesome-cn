@@ -65,7 +65,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 - [heatmiser](https://github.com/node-red/node-red-nodes/tree/master/hardware/heatmiser) - Temperature and frost protection for Heatmiser thermostats.
 - [intel-galileo](https://github.com/node-red/node-red-nodes/tree/master/hardware/intel) - A collection for the Intel Galileo and Edison.
 - [ledborg](https://github.com/node-red/node-red-nodes/tree/master/hardware/LEDborg) - [LEDborg](https://www.piborg.org/ledborg) plug on module.
-- [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) - Read from a [MakeyMakey](http://www.makeymakey.com/) 输入设备。
+- [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) - Read from a [MakeyMakey](http://www.makeymakey.com/) input device.
 - [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) - An alternative to the default PI GPIO nodes that allows remote access.
 - [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) - Read from MCP300x series Analogue to Digital Converter chips via the SPI bus.
 - [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) - Drive a strip of NeoPixels directly.
@@ -106,7 +106,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 - [alexa-home-skill-v3](https://github.com/coldfire84/node-red-contrib-alexa-home-skill-v3) - Controls things via Alexa and Google Home.
     - [alexa-home-skill-v3-web](https://github.com/coldfire84/node-red-alexa-home-skill-v3-web) - Web Service for Alexa and Google Home.
     - [alexa-home-skill-v3-lambda](https://github.com/coldfire84/node-red-alexa-home-skill-v3-lambda) - Lambda function for node-red-alexa-home-skill-v3-web.
-- [alexa-remote-cakebaked](https://github.com/cakebake/node-red-contrib-alexa-remote-cakebaked) - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
+- [alexa-remote-cakebaked](https://github.com/cakebake/node-red-contrib-alexa-remote-cakebaked) <i>- Interacting with the Alexa API.</i> <b>- 与 Alexa API 交互。</b> <i>Emulates routine behaviour, control and query your devices.</i><b>模拟日常行为、控制和查询您的设备。</b>
 - [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) - Integrate and control YAMAHA™ audio/video receiver via YNCA protocol.
 - [ccu](https://github.com/rdmtc/node-red-contrib-ccu) - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
 - [deconz](https://github.com/deconz-community/node-red-contrib-deconz) - Access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights via deCONZ.
@@ -123,6 +123,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 - [loxone](https://github.com/codmpm/node-red-contrib-loxone) - Connect to the Loxone Miniserver.
 - [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) - Controls KNX intallation. With optional ETS group address importer and gateway simulation. 
 - [openhab3](https://github.com/jeroenhendricksen/node-red-contrib-openhab3) - Integration of openHAB item states and commands.
+- [power-saver](https://power-saver.smoky.no/) - Automatically save money on variable electricity prices.
 - [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) - Google smart home Action integration via Smart NORA.
 - [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) - Controls Sonos player in your local network.
 - [tado-client](https://github.com/mattdavis90/node-red-contrib-tado-client) - Connect to the Tado Web API.
@@ -151,6 +152,7 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 - [sms77](https://github.com/sms77io/nodered-contrib-sms77) - Uses [sms77](https://www.sms77.io/) service for SMS, text-to-speech calls and number lookups.
 - [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) - Contains a receiver and a sender node which act as a Telegram Bot.
 - [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
+- [whin](https://github.com/inUtil-info/node-red-contrib-whin) - Send and receive whatsapps from within a nodered flow.
 - [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) - Connect to an XMPP server to send and receive messages.
 - [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
 
