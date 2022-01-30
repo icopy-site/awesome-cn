@@ -55,10 +55,10 @@
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 具有 ASCII 艺术奖励的儿童可配置刽子手游戏.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用 Yew，Rust 为后端 API 提供支持.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
-- [website-wasm](https://github.com/kamiyaa/website-wasm) - 我通过 Yew/Wasm 用 Rust 编写的个人网站.
+- [website-wasm](https://github.com/kamiyaa/website-wasm) - My personal website written in Rust via Yew/Wasm.
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
-- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - Showing a d3 chart with Yew.
+- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
@@ -108,6 +108,7 @@
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于 styled-components，但适用于 Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 适用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
+- [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 
 ### Wasm
 
