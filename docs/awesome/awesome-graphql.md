@@ -562,6 +562,7 @@
 
 ### Tools - Security
 
+- [Escape GraphQL Quickscan](https://escape.tech/quickscan/)  - 一键安全扫描您的 GraphQL 端点. 免费，无需登录.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 - [Tinfoil Security - GraphQL Security Scanner](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 - [InQL Scanner](https://github.com/doyensec/inql) - GraphQL 安全测试的 Burp 扩展
@@ -646,7 +647,7 @@
 
 ## Books
 
-- [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
+- [The GraphQL Guide](https://graphql.guide) 作者：John Resig 和 Loren Sands-Ramshaw
 - [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) 由 Eve Porcello 和 Alex Banks
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) 布鲁斯·威廉姆斯和本·威尔逊
 - [The Road to GraphQL](https://www.roadtographql.com/)
