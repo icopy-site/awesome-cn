@@ -36,6 +36,7 @@
 - [Fisher](https://github.com/jorgebucaran/fisher) - 从 CLI 管理函数、完成、绑定和片段.
 - [Fundle](https://github.com/danhper/fundle) - 基于`config.fish`的插件管理器.
 - [GitNow](https://github.com/joseluisq/gitnow) - 一组实用功能，可加快您的 git 工作流程.
+- [Sponge](https://github.com/andreiborisov/sponge) - 自动清除拼写错误的命令历史记录.
 - [Autopair](https://github.com/jorgebucaran/autopair.fish)  - 在 Fish 命令行中自动完成匹配对.  ([Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI 选项解析器（替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置）.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - Fish 的基于 TAP 的测试运行程序.
