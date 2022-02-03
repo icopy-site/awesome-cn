@@ -2,27 +2,28 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
 
-精选的利基工作委员会列表.
+A curated list of awesome niche job boards.
 
 
 
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
-* [ai-jobs.net](https://ai-jobs.net/) - 人工智能和大数据方面的工作
-* [Data Yoshi](https://www.datayoshi.com/) - 数据科学、分析、人工智能和机器学习方面的工作
-* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习工作
+* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
+* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 
 ## Blockchain
 
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
-* [Crypto Job](https://crypto-job.com/)  - 加密工作是人才遇到机会的地方. 我们的目标是将热情的区块链和加密货币开发人员与重视他们的人才和专业知识的公司联系起来.
-* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - 区块链和加密货币工作的领先工作委员会
-* [Web3 Jobs](https://web3.career)  - 寻找 web3 工作？  Web3 Jobs 拥有 8,387 多个 web3 远程和离线工作，例如 Web3 开发人员、智能合约开发人员、Solidity 开发人员等等. 将您的职业生涯切换到 Web3 并加入未来！
+* [Crypto Job](https://crypto-job.com/) - Crypto Job is the place where talent meets opportunity. Our goal is to connect passionate blockchain and cryptocurrency developers with companies that value their talent and expertise.
+* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
+* [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
+* [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 
 ## Cloud
 
-* [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes 和云原生作业
+* [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
 
 ## Customer Support
 
@@ -31,7 +32,7 @@
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
-* [Authentic Jobs](https://authenticjobs.com/) - “设计师、黑客和创意专业人士的主要工作委员会.”
+* [Authentic Jobs](https://authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](https://ixda.org/jobs/)
@@ -43,12 +44,13 @@
 ## DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
-* [Kube Jobs](https://kubejobs.io) - 精心挑选和策划的 Kubernetes 工作.
-* [Kube Careers](https://kube.careers) — 精心挑选的 Kubernetes 工作，明确的薪资范围并直接适用于公司.
+* [Kube Jobs](https://kubejobs.io) - Hand-picked and curated Kubernetes jobs.
+* [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+* [devops-jobs.net](https://devops-jobs.net) — Awesome jobs in DevOps, Cloud and Digital Infrastructure.
 
 ## Gaming
 
-* [Work With Indies](https://www.workwithindies.com) - 在一个地方找到独立游戏中所有很酷的工作
+* [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
 
 ## Growth Hacking
 
@@ -56,17 +58,17 @@
 
 ## InfoSec
 
-* [NinjaJobs](https://ninjajobs.org/) - 由 InfoSec 专业人士开发的社区运营工作平台
-* [infosec-jobs.com](https://infosec-jobs.com/) - 一个新鲜和精益的信息安全工作委员会
+* [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
+* [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Metaverse
 
-* [Metaverse Jobs](https://www.themetaversejobs.com/) - Metaverse 工作的工作板
-* [Hire.AR](https://www.hire.ar/) - 增强现实工作的工作委员会
+* [Metaverse Jobs](https://www.themetaversejobs.com/) - Job board for Metaverse jobs
+* [Hire.AR](https://www.hire.ar/) - Job board for Augmented Reality jobs
 
 ## Machine Learning
 
-* [Jobhunt.ai](https://jobhunt.ai/) - 机器学习和数据科学工作，也有一个远程部分
+* [Jobhunt.ai](https://jobhunt.ai/) - Machine learning and data science jobs, also got a remote section
 
 ## Programming
 
@@ -76,23 +78,25 @@
 
 ### Clojure
 
-* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure 工作，还有一个远程部分
+* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
 
 ### Full-Stack
 
-* [Full-Stack Developer Jobs](https://fullstackjob.com/) - 全栈开发人员的工作板
+* [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
 ### Functional
 
-* [FunctionalJobs.dev](https://functionaljobs.dev/) - 面向函数式编程爱好者的高度活跃的工作板
-* [Functional Jobs](https://www.functionaljobs.com/) - 功能程序员的工作板
+* [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
+* [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
+* [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
 
 ### Go
 
-* [Golangprojects](https://www.golangprojects.com/)- 自 2014 年以来的 Golang 工作，也有一个远程部分
+* [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 * [Golang Developer Jobs](https://golangjob.xyz)
+* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source.
 
 ### JavaScript
 
@@ -102,6 +106,7 @@
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.dev/)
+* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
 ### Kotlin
 * [Kotlin Jobs](https://kotlinjobs.dev)
@@ -115,7 +120,7 @@
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
-* [WPhired](https://www.wphired.com/) - WordPress 工作
+* [WPhired](https://www.wphired.com/) - WordPress Jobs
 
 ### Python
 
@@ -153,7 +158,7 @@
 
 ### Aggregator
 
-* [4 day week](https://4dayweek.io/) - 具有更好工作与生活平衡的软件工作
+* [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 * [remote | OK](https://remoteok.com/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
@@ -161,35 +166,35 @@
 
 ## Startups
 
-* [BerlinStartupJobs](https://berlinstartupjobs.com/) - 自 2011 年以来柏林最优秀的初创公司和规模化企业中最热门的工作
+* [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
 * [Startup Jobs](https://startup.jobs/)
 
 ## Tech
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
-* [GOODJOBS](https://goodjobs.careers/) - 一个工作委员会，在试图解决气候变化和粮食不安全等问题的公司中精心挑选工程职位
-* [Relocate.me](https://relocate.me/) - 经验证的搬迁包
-* [underpin](https://www.underpin.company/) - 来自实际招聘人员的技术工作和求职建议
+* [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
+* [Relocate.me](https://relocate.me/) - Verified relocation packages
+* [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
 ### Australia
 
-* [Breakout Careers](https://breakout.careers/jobs/) - 澳大利亚最好的科技和创业工作委员会
-* [Headhunted](https://www.headhunted.com.au/jobs/) - 在澳大利亚寻找下一份 IT 工作
+* [Breakout Careers](https://breakout.careers/jobs/) - Australia's best tech and startup job board
+* [Headhunted](https://www.headhunted.com.au/jobs/) - Find your next IT Job in Australia
 
 ### Canada
 
-* [Work in Tech](https://www1.communitech.ca/jobs) - 探索滑铁卢地区及其他地区的机会
+* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
 
 ### Europe
 
-* [GermanTech Jobs](https://germantechjobs.de/) - 德国专门的技术工作委员会
-* [SwissDev Jobs](https://swissdevjobs.ch/) - 为希望在瑞士工作的欧盟软件开发人员提供工作
-* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - 瑞士的开发人员和 IT 工作 
+* [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
+* [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
+* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
 
 ### United Kingdom
 
-* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - 包括免费的技术技能组合趋势、工资/承包商率基准和实时职位空缺统计.
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
 
 ## Writing
 
-* [Write the Docs Job Board](https://jobs.writethedocs.org/) - 关心文档的人的工作
+* [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation

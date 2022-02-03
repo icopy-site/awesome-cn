@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
-&gt; 精选列表 [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
+> A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -27,16 +27,16 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Libraries
 
 - [smoothfade](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
-- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - 用于以声明方式操作 Web 音频 API 的库.
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 - [XSound.js](https://xsound.app/) - Full stack library.
 - [Sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications.
 - [Meyda](https://github.com/meyda/meyda) - Audio feature extraction library including a variety of widely used audio features.
 - [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
-- [Audiojs](https://github.com/audiojs/audio) - 使您能够更轻松地存储、读取和写入 PCM 音频数据的对象.
+- [Audiojs](https://github.com/audiojs/audio) - An object that enables you to store, read, and write PCM audio data more easily.
 - [Tuna](https://github.com/Theodeus/tuna) - 音频效果库。
 - [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 - [Howler.js](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
-- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - 一个 JS 库，用于使用 Web Audio API 和 ECharts 在圆形波中进行音频可视化.
+- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 - [Wad](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 - [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) - An extension that adds Web Audio functionality to the creative coding library [p5.js](https://p5js.org/).
 - [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser, by having some neat abstractions over the Webaudio API.
@@ -57,22 +57,26 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Apps
 
 - [BassoonTracker](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
-- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - 使用 Web 音频和 Web MIDI API 构建的 MIDI 循环器、模块化合成器和采样器应用程序.
+- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 - [X Sound](https://xsound.app/) - Multi Sound Application that uses XSound.js.
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [mod-synth.io](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
-- [GridSound](https://gridsound.github.io) - 正在进行中的 DAW（数字音频工作站）.
-- [Learning Music](https://learningmusic.ableton.com/) - 学习音乐制作的基础知识.
+- [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
+- [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 - [Super Oscillator](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
-- [AudioNodes](https://audionodes.com) - 模块化音频制作套件，具有多轨混音、音频效果、参数自动化、MIDI 编辑、合成、云制作等.
+- [AudioNodes](https://audionodes.com) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
 - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 - [SoundCycle](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes.
-- [DSP.audio Worklet Editor](https://dsp.audio/editor/)  - 用于草图和协作的在线音频工作集编辑器，带有采样器、MIDI 和分析器. 像 JSFiddle，但用于 DSP.
+- [DSP.audio Worklet Editor](https://dsp.audio/editor/) <i>- Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers.</i> <b>- 用于草图和协作的在线音频工作集编辑器，带有采样器、MIDI 和分析器。</b> <i>Like a JSFiddle, but for DSP.</i><b>像 JSFiddle，但用于 DSP。</b>
 - [AudioMass](https://audiomass.co/) - free, open source, web-based Audio and Waveform Editor.
 - [Csound IDE](https://ide.csound.com/) - web IDE for [CSound programming language](https://en.wikipedia.org/wiki/Csound).
 - [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 - [Web Audio Metronome](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
-- [EarSketch](https://earsketch.gatech.edu/landing/#/) - 免费的教育编程环境，通过音乐创作和混音教授 Python 和 Javascript
+- [EarSketch](https://earsketch.gatech.edu/landing/#/) - free educational programming environment to teach Python and Javascript through music composing and remixing
+- [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
+- [web-audio-beat-detector](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
+
+
 
 ## Resources
 
@@ -80,16 +84,16 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 - [WebAudio School](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops to learn WebAudio.
 - [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) - A reference that aims to be easy to understand for those who know some JavaScript and basic audio principles.
-- [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - WebAudio 简介.
+- [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
-- [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Dan Tramte 的视频教程播放列表，托管在 Audio Programmer YouTube 频道上.
+- [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 
 ### Books
 
-- [JavaScript for Sound Artists](https://www.routledge.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - 自下而上的 JavaScript / DOM 课程，所有示例都使用 Web 音频.
-- [Web Audio API](https://webaudioapi.com/book/)  - 旨在成为几乎没有数字音频专业知识的 Web 开发人员的跳板. 面向游戏音频和交互式应用程序.
+- [JavaScript for Sound Artists](https://www.routledge.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
+- [Web Audio API](https://webaudioapi.com/book/) - Intended to be a springboard for web developers with little to no digital audio expertise. Geared towards game audio and interactive apps.
 
 ### Newsletters
 
@@ -108,11 +112,11 @@ Projects without activity since January 2019 or officially dead.
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) - A wavetable synthesizer for interactive music and sound effects.
 - [WAAX](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
 - [Band.js](https://github.com/meenie/band.js/) An interface for the Web Audio API that supports rhythms, multiple instruments, repeating sections, and complex time signatures.
-- [reverbGen](https://github.com/adelespinasse/reverbGen) - 用于生成人工混响脉冲响应的 JavaScript 库.
+- [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
 - [TuneJS](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
-- [Beet.js](https://github.com/zya/beet.js) - 用于创建欧几里得节奏和多节奏的音序器库.
+- [Beet.js](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
-- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - CI 的网络音频测试库.
+- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 - [osc-msg](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
 - [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
@@ -121,8 +125,8 @@ Projects without activity since January 2019 or officially dead.
 - [audio contour](https://github.com/danigb/audio-contour) - A 5 stage audio envelope generator.
 - [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
 - [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
-- [playnote](https://github.com/createbits/playnote) - 在浏览器中演奏您最喜欢的乐器，具有复杂的音符间隔和音阶.
-- [Recorderjs](https://github.com/mattdiamond/Recorderjs) - 用于记录/导出 Web Audio API 节点输出的插件.
+- [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
+- [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
