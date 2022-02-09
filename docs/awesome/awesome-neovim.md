@@ -338,6 +338,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 <!--lint ignore double-link-->
 - [mini.doc](https://github.com/echasnovski/mini.nvim#minidoc) - Module of [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
+- [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
+- [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - A reference for builtin lua functions.
 
 ### Fennel
 
@@ -618,7 +620,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim plugin that shows a popup with possible keybindings of the command you started typing.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的`:map`ping 语法。
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim) - A simpler key mapping API that mimics Neovim's `:map`-family of commands. Integrates with which-key.nvim.
-- [LionC/nest.nvim](https://github.com/LionC/nest.nvim) - Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
+- [LionC/nest.nvim](https://github.com/LionC/nest.nvim) <i>- Lua utility to map keys concisely using cascading trees.</i> <b>- Lua 实用程序使用级联树简洁地映射键。</b> <i>Also allows binding Lua functions to keys.</i><b>还允许将 Lua 函数绑定到键。</b>
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Lua plugin to create key-bindings and watch them with telescope.
 - [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - A ridiculously fun alternative keymap for the workman keyboard layout with nvim features like LSP support, built and configured with lua.
 

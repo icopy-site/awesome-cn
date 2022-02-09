@@ -21,7 +21,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
 
 
-  * [Regular Expression](https://github.com/quozd/awesome-dotnet/blob/master/regular-expression)
 
 ## Algorithms and Data structures
 
