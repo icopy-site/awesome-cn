@@ -25,7 +25,7 @@ This repository contains curated list of different urban & regional planning dat
 ---
 
 ## Public Data Resources
-<i>Data resources that are publicly available for use.</i><b>可公开使用的数据资源。</b> <i>Licenses may apply.</i><b>许可证可能适用。</b> 
+Data resources that are publicly available for use. Licenses may apply. 
 
 Open Data Sites and national scale datasets should be near the top of each section.
 
@@ -131,7 +131,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/) - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information: [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - Collection of all rapid transit corridors worldwide, including bus rapid transit, light rail, and subway, published by the Institute for Transportation & Development Policy. 
 - [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - Equity analysis of transit systems in seven (and counting) US cities, published by TransitCenter.
-- [Accessibility Observatory](http://access.umn.edu/data/datasets/) - As part of the Access Across America series the Accessibility Observatory at UMN evaluates accessibility in major U.S. metropolitan areas. It is the most detailed evaluation to date of access to jobs by auto, transit, bike, and walk and it enables direct comparison of the accessibility performance of America's largest metropolitan areas. Reports are published annually, and select data sets are available through the University of Minnesota's Digital Conservatory.
+- [Accessibility Observatory](http://access.umn.edu/data/datasets/) - As part of the Access Across America series the Accessibility Observatory at UMN evaluates multiple modes of transportation accessibility in major U.S. metropolitan areas. Reports are published annually, and select data sets are available through the University of Minnesota's Digital Conservatory.
 
 ## Vendor Data Resources
 Vendors that can provide purchased or licensed data for a variety of uses. 
@@ -195,7 +195,7 @@ A collection of urban planning related data specifications and standards for use
 - [CurbLR](https://www.curblr.org) -  An open data specification for curb regulations maintained by SharedStreets. Additional Information: [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), Blog post: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).    
 - [CDS](https://github.com/openmobilityfoundation/curb-data-specification) - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
 - [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
-- [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange is a European standard to exchange standardized time tables and other system characteristics used to describe transit systems. 
+- [NeTEx](https://netex-cen.eu/) - 网络时间表交换是一种欧洲标准，用于交换用于描述交通系统的标准化时间表和其他系统特征。 
 - [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - This standard provides users transit data updates in real time greatly enhances their experience of transit services. 
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - Service Interface for Real Time Information (SIRI) is a European standard for real-time information which has had limited adoption in the United States, but would be compatible with hardware and network systems which meet European standards.
 - [shared-row](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways. 
@@ -221,7 +221,7 @@ Python Libraries & Related Resources.
 - [UrbanSim](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - Geospatial & temporal neighborhood analysis using US Census Data.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
-- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取自行车共享数据，从而提供了一组连贯且通用的类和方法来访问此类信息。
+- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息。
 - [Leafmap](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 - [HerePy](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs. 
@@ -318,7 +318,7 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [Streetmix](https://streetmix.net/) - A collaborative civic engagement platform for urban design. Design, remix, and share your neighborhood street with Streetmix.
 - [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 - [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
-- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
+- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) <i>- Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level.</i> <b>- 综合交通和健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于在城市和国家层面对交通情景和政策的健康影响进行综合评估。</b> <i>This page points to different literature, R code, and</i><b>此页面指向不同的文献、R 代码和</b> [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
 
 ## Educational and Informational Resources
@@ -402,6 +402,6 @@ We are actively looking for contributions from those interested in urban plannin
 Similar to other [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
 
 
-如果您确实引用了此存储库，则可以： 
+If you do cite this repository you can as: 
 
 urban-and-regional-planning-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division

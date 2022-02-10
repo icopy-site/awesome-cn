@@ -1,14 +1,13 @@
 <div class="github-widget" data-repo="markets/awesome-ruby"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<div>
-  <p align="center">
+<div align="center">
+  <p>
     <a href="https://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_m.png"></a>
   </p>
-  <h3 align="center"><a href="https://awesome-ruby.com">Awesome Ruby</a></h3>
-  <p align="center">
+  <h3><a href="https://awesome-ruby.com">Awesome Ruby</a></h3>
+  <p>
     <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   </p>
-  <hr>
 </div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
@@ -16,6 +15,24 @@ A categorized community-driven collection of awesome Ruby libraries, tools, fram
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
+
+<div align="center">
+  <hr>
+  <sup><b>Supported by:</b></sup>
+  <br>
+  <br>
+  <a href="https://railsdevs.com?utm_source=AwesomeRuby">
+    <div>
+      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/railsdevs.png" width="90" alt="railsdevs">
+    </div>
+    <div>
+      Find your next freelance gig on railsdevs,<br>
+      the reverse job board for Ruby on Rails developers.
+    </div>
+  </a>
+  <br>
+  <hr>
+</div>
 
 
 ## Abstraction
@@ -254,7 +271,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Configuration
 
-* [Chamber](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+* [Chamber](https://github.com/thekompanee/chamber) - 令人惊讶的可定制的基于约定的方法来管理您的应用程序的配置。
 * [Configatron](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
 * [Configus](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
 * [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
@@ -474,7 +491,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [MidiSmtpServer](https://4commerce-technologies-ag.github.io/midi-smtp-server/) - The highly customizable ruby SMTP-Service library with builtin support for AUTH and SSL/STARTTLS, 8BITMIME and SMTPUTF8, IPv4 and IPv6 and more.
 * [Pony](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
-* [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
+* [premailer-rails](https://github.com/fphilipe/premailer-rails) - CSS 样式的电子邮件没有麻烦。
 * [Roadie](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
 * [Sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 * [Truemail](https://truemail-rb.org/truemail-gem) - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS and SMTP. Be sure that email address valid and exists.
@@ -1025,7 +1042,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Decidim](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 * [diaspora*](https://github.com/diaspora/diaspora) - A privacy aware, distributed, open source social network.
 * [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-* [Mailboxer](https://github.com/mailboxer/mailboxer) - Rails 应用程序的私人消息系统。
+* [Mailboxer](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
 * [Mastodon](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
 * [Social Shares](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
 * [Thredded](https://github.com/thredded/thredded) - Rails 4.2+ forums/messageboards engine. Its goal is to be as simple and feature rich as possible.
@@ -1051,7 +1068,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Static Site Generation
 
 * [Bridgetown](https://github.com/bridgetownrb/bridgetown) - A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era.
-* [High Voltage](https://github.com/thoughtbot/high_voltage) - 在 Rails 应用程序中轻松包含静态页面。
+* [High Voltage](https://github.com/thoughtbot/high_voltage) - Easily include static pages in your Rails app.
 * [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
   * [Awesome Jekyll](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
 * [Middleman](http://middlemanapp.com) - A static site generator using all the shortcuts and tools in modern web development.
@@ -1088,6 +1105,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [RR](https://github.com/rr/rr) - A test double framework that features a rich selection of double techniques and a terse syntax.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Provides Test::Unit- and RSpec-compatible one-liners that test common Rails functionality. These tests would otherwise be much longer, more complex, and error-prone.
   * [Spinach](https://github.com/codegram/spinach) - Spinach is a high-level BDD framework that leverages the expressive Gherkin language (used by Cucumber) to help you define executable specifications of your application or library's acceptance criteria.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench is a principled test framework for Ruby and MRuby aiming to offer precisely what is needed to test well-designed code effectively and easily.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby.
 * Fake Data
   * [Fabrication](http://fabricationgem.org/) - A simple and powerful object generation library.

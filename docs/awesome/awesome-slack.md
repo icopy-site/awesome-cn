@@ -1,153 +1,73 @@
-<div class="github-widget" data-repo="matiassingers/awesome-slack"></div>
+<div class="github-widget" data-repo="filipelinhares/awesome-slack"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Slack Communities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
-</p>
+A list of communities about web development and design that are powered by **Slack**.
 
-<p align="center">
-    <h3 align="center">Awesome Slack</h3>
-</p>
-
-<p align="center">
-    A curated list of awesome, Slack-related things.
-</p>
-
-***
-
-An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
+## What's Slack
+> Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go. *- slack.com*
 
 
-## :pencil: &nbsp; Lists
-- [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
-- [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps 
-- [Slack Emojis](https://emoji.gg) - Unofficial directory of custom emojis for Slack
+## Development
+- [Ember](https://ember-community-slackin.herokuapp.com/)
+- [Laravel](https://larachat.co/)
+- [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
+- [Front end](https://frontenddevelopers.org/)
+- [Android](https://androidchat.co/)
+- [GO](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596)
+- [PHP Chat](https://phpchat.co)
+- [Clojure](http://clojurians.net/)
+- [iOS Developers](https://ios-developers.io/)
+- [Elixir](https://elixir-slackin.herokuapp.com/)
+- [slashrocket](https://slashrocket.io/)
+- [Cordova](http://slack.cordova.io/)
+- [Python Community](https://pythoncommunity.herokuapp.com/)
+- [CFML/ColdFusion](https://cfml-slack.herokuapp.com/)
 
-## :art: &nbsp; Themes
 
-- [Slack Themes](http://slackthemes.net/) - A Slack sidebar theme browser
-- [Sweet Themes Are Made of These](http://sweetthemesaremadeofthe.se/) - Website for sharing Slack custom palettes
+## Regional
+- [Australia & New Zealand](http://devanz.co)
+- [Les Pitonneux - Montreal QC Canada](https://pitonneux.slack.com)
+- [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
+- [Remote workers in Romania](https://github.com/filipelinhares/awesome-slack/blob/master/weworkremotely.slack.com/)
+- [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
+- [Kazan Developers](https://devkzn.slack.com/)
+- [Polish developers](http://slackin.devstyle.pl/)
+- [Spanish-speaking developer communities list](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+- [Ruby Turkey Community](https://rubytr.herokuapp.com/)
+- [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
+- [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
 
-## :hammer_and_wrench: &nbsp; Libraries and SDKs
+## Design
+- [Sketch](http://teamsketch.io/)
+- [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1)
+- [Designer Hangout](https://www.designerhangout.co/)
 
-### C&#35;
+## Misc
+- [WordPress](https://make.wordpress.org/chat/)
+- [Chit Chats](http://www.chitchats.co/)
+- [The Evangelist Collective](https://github.com/evangelistcollective/)
+- [Psychedelic Chat](http://psychedelicchat.com/)
+- [LGBTQ in Technology](https://lgbtq.technology/)
+- [#Startup](http://startup.chat)
+- [Safelight](http://safelight.herokuapp.com/) - Photography.
+- [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security.
+- [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - 为开源贡献者提供帮助/指导。
+- [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners and decision-makers
+- [SaaS Community](https://join.slack.com/t/saas-hgv7803/shared_invite/zt-qwvrywyr-8DmSpEzBiSWD2WQuB9r9pw) - Community for SaaS product builders, to discuss the challenges involved.
 
-- [margiebot](https://github.com/jammerware/margiebot) - A .NET library designed to make building bots for Slack fast, easy, and fun
-- [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) - A library to work with Slack webhooks more easily
-- [SlackAPI](https://github.com/Inumedia/SlackAPI) - A third-party implementation of Slack's API written in C#
+## DevOps
+- [Google Cloud Platform](http://bit.ly/gcp-slack)
+- [Kubernetes](http://slack.kubernetes.io/)
+- [DevOps](https://devopschat.co/)
+- [Devop Engineers](https://www.devopsengineers.com/)
+- [SweetOps](https://slack.cloudposse.com/)
+## Looking for more lists like that
+- [Awesome Community](https://github.com/phpearth/awesome-community)
 
-### Erlang
+## Contribute
+Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
 
-- [slacker](https://github.com/julienXX/slacker) - Erlang Slack REST API wrapper
-
-### Go
-
-- [webhook](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack
-
-### Java
-
-- [java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack's official Java framework for building Slack apps
-- [simple-slack-api](https://github.com/Ullink/simple-slack-api) - Java 中的 Slack 客户端库
-
-### JavaScript/TypeScript
-
-- [bolt-js](https://github.com/slackapi/bolt-js) - Slack's official JavaScript framework for building Slack apps
-- [jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
-- [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
-- [slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
-
-### PHP
-
-- [SlackBundle](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2
-- [slack-php-app-framework](https://github.com/slack-php/slack-php-app-framework) - Robust PHP framework for building Slack apps in PHP
-- [slack-php-block-kit](https://github.com/jeremeamia/slack-block-kit) - Fluent interface for composing Slack Block Kit messages and modals in PHP 
-- [slack-php-socket-mode](https://github.com/slack-php/slack-php-socket-mode) - A Socket Mode implementation for [slack-php-app-framework](https://github.com/slack-php/slack-php-app-framework)
-- [slack-php-slick](https://github.com/slack-php/slack-php-slick) - Dependency-free micro-framework for building Slack apps in PHP   
-
-### Python
-
-- [blockkit](https://github.com/imryche/blockkit) - A fast way to build Block Kit interfaces in Python
-- [bolt-python](https://github.com/slackapi/bolt-python) - Slack's official Python framework for building Slack apps
-- [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
-- [django-slack-oauth](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
-- [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) - Slack Events API adapter for Python 
-- [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack's official SDK for Python
-- [slackblocks](https://github.com/nicklambourne/slackblocks) - Python API for building Slack Block Kit messages
-- [slack-php-api](https://github.com/jolicode/slack-php-api) - PHP Slack client based on the official OpenAPI specification 
-- [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
-- [slashbot](https://github.com/ebrassell/slashbot) - An easy way to create slash commands using AWS Lambda functions
-
-### R
-
-- [slackr](https://github.com/hrbrmstr/slackr) - A package to send webhook API messages to Slack channels/users from R
-
-### Ruby
-
-- [slack-notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack
-- [slack-notify](https://github.com/sosedoff/slack-notify) - Send notifications to Slack
-- [slack-poster](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
-- [slack-ruby-block-kit](https://github.com/CGA1123/slack-ruby-block-kit) - A ruby wrapper for Slack's Block Kit
-- [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
-- [slack-ruby-bot-server](https://github.com/slack-ruby/slack-ruby-bot-server) - Ruby library for building Slack applications
-- [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby client for the Slack Web and RealTime Messaging APIs
-
-### Rust
-
-- [slack-morphism-rust](https://github.com/abdolence/slack-morphism-rust) - A modern async Slack API client for Rust
-
-### Scala
-
-- [slack-scala-client](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
-
-### Swift
-
-- [SwiftBlocksUI](https://github.com/SwiftBlocksUI/SwiftBlocksUI/) - Interactive Slack messages and modals using a SwiftUI-like declarative style
-
-## :gear: &nbsp; Open-Source Slack Apps and Integrations
-
-### CoffeeScript
-
-- [jinora](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
-
-### Java
-
-- [simple-slack-api](https://github.com/Ullink/simple-slack-api) - Java 中的 Slack 客户端库
-- [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
-
-### JavaScript/Typescript
-
-- [definition-app](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
-- [slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
-- [slack-reporting-tool](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
-- [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
-- [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
-
-### PHP
-
-- [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
-- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to Slack  
-
-### Python
-
-- [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
-- [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
-- [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
-- [wee-slack](https://github.com/rawdigits/wee-slack) - A WeeChat plugin for Slack
-
-### Ruby
-
-- [slack-gamebot](https://github.com/dblock/slack-gamebot) - A game bot for Slack
-- [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack
-- [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
-- [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
-
-## :busts_in_silhouette: &nbsp; Contributions
-
-Contributions are always welcome! Please read the [contribution guidelines](https://github.com/matiassingers/awesome-slack/blob/master/contributing.md) first.
-
-## :classical_building: &nbsp; License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
