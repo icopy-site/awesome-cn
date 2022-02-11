@@ -6,57 +6,59 @@
 
 ## Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-精选的比特币支付处理器列表，使商家、企业和非营利组织能够接受比特币支付.
+A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-为什么他们很棒？
+Why are they awesome?
 
-1. 他们要么不受金融审查的影响，要么不实践.
-2. 他们通过本地比特币地址接受比特币，不需要钱包来使用 [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
-3. 他们没有 [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
+1. They are either immune to financial censorship or they don't practice it.
+2. They accept Bitcoin via native Bitcoin addresses and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
+3. They don't [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
 
 
 ## Self-Hosted Bitcoin Payment Processors
 
-自托管支付处理器在您的服务器上运行，让您可以完全控制整个支付流程和资金. 没有第三方参与 - 这显着提高了您和您的客户的抗审查性、隐私性和安全性. 
+Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers. 
 
- | 处理器 | 费用| 闪电| 直接发送到您的钱包 | 转换为菲亚特 | 要求 |
+| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [BTCPay Server](https://btcpayserver.org/)  | 不收费| 是 | 是 | 通过 [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) 和 [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)  |  2 GB 内存、80 GB 存储、Docker |
-| [One Time Address](https://github.com/alexk111/One-Time-Address)  | 不收费| 没有 | 是 | 没有 |  NodeJS |
-| [CryptoWoo](https://www.cryptowoo.com/)  | 每年 $34 - $99 | 没有 | 是 | 没有 |  PHP 5.6+，Wordpress 4.3+，WooCommerce 3.0+ |
-| [BitcartCC](https://bitcartcc.com)  | 不收费| 是 | 是 | 没有 |  1 GB 内存、10 GB 存储、Docker |
-| [LnMe](https://github.com/bumi/lnme)  | 不收费| 是 | 是 | 没有 |  LND 节点 |
-| [SatSale](https://github.com/nickfarrow/SatSale)  | 不收费| 是 | 是 | 没有 | 一个比特币节点和 Python. 闪电节点和 Woocommerce 可选 |
-| [CypherpunkPay](https://cypherpunkpay.org/)  | 不收费| 没有 | 是 | 没有 |  Linux (1GB 内存) |
+| [BTCPay Server](https://btcpayserver.org/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | 2 GB RAM, 80 GB Storage, Docker |
+| [One Time Address](https://github.com/alexk111/One-Time-Address) | No fees | No | Yes | No | NodeJS |
+| [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
+| [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
+| [LnMe](https://github.com/bumi/lnme) | No fees | Yes | Yes | No | LND node |
+| [SatSale](https://github.com/nickfarrow/SatSale) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/nickfarrow/SatSale/blob/master/config.toml#L82), no-KYC | A Bitcoin node and Python. Lightning node & Woocommerce optional |
+| [CypherpunkPay](https://cypherpunkpay.org/) | No fees | No | Yes | No | Linux (1GB RAM) |
 
 ## Hosted Bitcoin Payment Processors
 
-托管支付处理器在其他人的服务器上运行. 这简化了初始设置过程，但减少了您对付款过程的控制量.
+Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process.
 
 ### Non-Custodial
 
- | 处理器 | 费用| 闪电| 直接发送到您的钱包 | 转换为菲亚特 | 要求 |
+| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [Blockonomics](https://www.blockonomics.co/merchants)  |  1% | 没有 | 是 | 通过 [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html)  | 没有 |
-| [Bittery.io](https://bittery.io/)  | 不收费| 是 | 是 | 通过 [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) 和 [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)  | 没有 |
-| [Payscrypt](https://payscrypt.com/)  | 不收费| 没有 | 是 | 没有 | 没有 |
+| [Blockonomics](https://www.blockonomics.co/merchants) | 1% | No | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) | No |
+| [Bittery.io](https://bittery.io/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
+| [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
+| [Bitrequest](https://bitrequest.io/) | No fees | No | Yes | No | No |
 
 ### Custodial
 
- ⚠ 以下处理器使用自己的钱包接收付款. 他们不仅收集有关付款的数据，而且可以完全控制资金.
+⚠ The following processors use their own wallets for receiving payments. They not only collect data about payments, they have full control over the funds.
 
- | 处理器 | 费用| 闪电| 直接发送到您的钱包 | 转换为菲亚特 | 要求 |
+| Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [Confirmo](https://confirmo.net/)  |  0.8% | 没有 | 没有 | 是 | 有关业务/网站的信息. 可能需要某些文件.  |
-| [CoinGate](https://coingate.com/accept-bitcoin)  |  1%（商家）+一些 [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee)  (客户) | 是 | 没有 | 是 | 需要 [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq) , 正式翻译成英文.  |
-| [CoinPayments](https://www.coinpayments.net/)  |  0.5% | 是 | 没有 | 没有 | 取款时可能需要多种形式的身份证明，并需要结清任何未付金额.  |
-| [GloBee](https://globee.com/)  |  1%（最低 10 美元发票）| 是 | 没有 | 通过 [Luno](https://www.luno.com) 和 [Uphold](https://uphold.com/)  | 有关业务/网站的信息. 可能需要某些文件.  |
-| [OpenNode](https://www.opennode.co/)  |  1% | 是 | 没有 | 是 | 需要 [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
-| [Strike](https://strike.acinq.co/)  |  1% | 只有 | 没有 | 没有 | 对于公司，公司名称和实际地址.  |
-| [Coinremitter](https://coinremitter.com/)  |  0.23% + 0.0001 | 不不不不
-| [Utrust](https://utrust.com/)  |  1% | 没有 | 没有 | 是 | 需要某些文件.  |
-| [NOWPayments](https://nowpayments.io/)  |  ≤0.5% | 没有 | 没有 | 没有 |  KYC/AML 程序适用于某些客户、钱包地址和特定资产.  |
+| [Confirmo](https://confirmo.net/) | 0.8% | Yes | No | Yes | Information about business / website. May require certain documents. |
+| [CoinGate](https://coingate.com/accept-bitcoin) | 1% (merchant) + some [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee) (customer) | Yes | No | Yes | Requires [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq), officially translated in english. |
+| [CoinPayments](https://www.coinpayments.net/) | 0.5% | Yes | No | No | On withdrawal may require a number of forms of identification and will require settlement of any outstanding amounts. |
+| [GloBee](https://globee.com/) | 1% ($10 min. invoice) | Yes | No | Via [Luno](https://www.luno.com) and [Uphold](https://uphold.com/) | Information about business / website. May require certain documents. |
+| [OpenNode](https://www.opennode.co/) | 1% | Yes | No | Yes | Requires [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
+| [Strike](https://strike.acinq.co/) | 1% | Only | No | No | For companies, the name of a company and a physical address. |
+| [Coinremitter](https://coinremitter.com/) | 0.23% + 0.0001 | No | No | No | No |
+| [Utrust](https://utrust.com/) | 1% | No | No | Yes | Require certain documents. |
+| [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
+| [COINQVEST](https://www.coinqvest.com/) | 0.5-1%, [Free to try](https://www.coinqvest.com/en/pricing) | No | No | Yes (USD, EUR, ARS, BRL, NGN) | Requires KYC verification. |
 
 ## Backers 💝
 
@@ -71,4 +73,4 @@
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-[[Donate](https://mynode.alexkaul.com/gh-donate)] 谢谢您的支持！ 
+[[Donate](https://mynode.alexkaul.com/gh-donate)] Thank you for your support! 🙌
