@@ -4,35 +4,35 @@
 
 [<img src="https://raw.githubusercontent.com/bakke92/awesome-gdpr/master/GDPR.png" align="right" width="300">](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
-通用数据保护条例（GDPR）是关于欧盟和欧洲经济区内所有个人的数据保护和隐私的条例. 该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
+The General Data Protection Regulation (GDPR) is a regulation on data protection and privacy for all individuals within the European Union and the European Economic Area. The regulation has increased the focus on privacy in companies and strengthened the data subjects influence.
 
 
 ## Legal text
-* [GDPR-info](https://gdpr-info.eu/) -GDPR链接到相关文章和序言部分（非官方网站）.
-* [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5)  -比较法规，指令和国家法规. 链接到序言中的相关部分（非官方网站）.
-* [GDPRhub -> GDPR Articles](https://gdprhub.eu/index.php?title=Category:GDPR_Articles) -GDPR文章包括评论.
+* [GDPR-info](https://gdpr-info.eu/) - GDPR linked to relevant articles and section in the preamble (Non-official site).
+* [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5) - Compare the Regulation, Directive and National legislation. Linked to relevant section in preamble (Non-official site).
+* [GDPRhub -> GDPR Articles](https://gdprhub.eu/index.php?title=Category:GDPR_Articles) - GDPR articles included commentary.
   
 ## Guidelines
-* EDPB： [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
+* EDPB: [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)
 * [ICO: Guide to GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
-* [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) -欧盟发行的手册.
-* EDPS： [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) -欧盟数据保护主管的概况介绍.
+* [Handbook on European data protection law ](https://publications.europa.eu/en/publication-detail/-/publication/5b0cfa83-63f3-11e8-ab9c-01aa75ed71a1) - Handbook issued by EU.
+* EDPS: [Factsheets](https://edps.europa.eu/data-protection/our-work/our-work-by-type/factsheets_en) - Factsheets from EU Data Protection Supervisor.
   
 ## Privacy by Design - Guides for developers (art. 25)
 * [CNIL - GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
-* [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) -来自ENISA的假名化技术报告.
+* [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 
 ## Security (art. 32)
-* [OWASP Top 10](https://owasp.org/www-project-top-ten/) -十大Web应用程序安全风险.
-* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) -精简收集有关特定应用程序安全性主题的高价值信息.
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.
 
 ## Incident management (art. 33 and 34)
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 * [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 * [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
-* [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) -罚款和处罚概述.
+* [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ## Data Protection Impact Assessments (DPIA, art. 35)
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
@@ -41,42 +41,43 @@
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 
 ## Tools
-* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) -EDPS检查软件.
-* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) -（CNIL）每个国家/地区数据保护级别的地图. 
-* [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) -（DLA Piper）比较世界各地的数据保护法律.
+* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+* [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
+* [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
  
 ## Data Protection Authorities 
-* [European Data Protection Board](https://edpb.europa.eu/) -EDPB.
-* [European Data Protection Supervisor](https://edps.europa.eu/) -EDPS.
-* [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection) -ENISA.
+* [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
+* [European Data Protection Supervisor](https://edps.europa.eu/) - EDPS.
+* [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection) - ENISA.
 * [List of Data Protection Authorities](https://pdpecho.com/the-list/)
   
 ## Organisations / Projects
-* [Electronic Frontier Foundation](https://www.eff.org/) -非营利组织捍卫数字隐私，言论自由和创新.
-* [International Association of Privacy Professionals](https://iapp.org/) -隐私专业人员的资源.
-* [Privacy International](https://www.privacyinternational.org) -慈善机构挑战了想要了解个人，团体和整个社会的一切的政府和公司.
-* [NOYB](https://noyb.eu/) -将重要问题引起DPA注意，在民事法院执行法律或直接与公司联系的组织.
-* [GDPR.eu](https://gdpr.eu/) -研究GDPR的组织和个人的资源（非官方网站）.
-* [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) -有关了解和改善隐私和安全性可用性的研究.
-* [EPIC](https://epic.org/) -电子隐私信息中心.
-* [Future of Privacy Forum](https://fpf.org/) -促进隐私权领导和奖学金的催化剂，推进有原则的数据实践以支持新兴技术.
-* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) -引领网络发挥其全部潜力.
+* [Electronic Frontier Foundation](https://www.eff.org/) - Nonprofit defending digital privacy, free speech, and innovation.
+* [International Association of Privacy Professionals](https://iapp.org/) - A resource for privacy professionals.
+* [Privacy International](https://www.privacyinternational.org) - Charity that challenges the governments and companies that want to know everything about individuals, groups, and whole societies.
+* [NOYB](https://noyb.eu/) - Organisation that brings important issues to the attention of DPAs, enforces the law in civil court or directly engages with companies.
+* [GDPR.eu](https://gdpr.eu/) - Resource for organisations and individuals researching the GDPR (Not official website).
+* [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - Research related to understand and improving the usability of privacy and security.
+* [EPIC](https://epic.org/) - Electronic Privacy Information Center.
+* [Future of Privacy Forum](https://fpf.org/) - Catalyst for privacy leadership and scholarship, advancing principled data practices in support of emerging technologies.
+* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - Leading the web to its full potential.
 
 ## Publications
-* [GDPR Today](https://www.gdprtoday.org/) -来自开放权利小组的隐私新闻.
-* [Spread Privacy](https://spreadprivacy.com/) -DuckDuckGo博客.
-* [Freedom To Tinker](https://freedom-to-tinker.com/) -普林斯顿大学CITP博客，该中心是研究公共生活中的数字技术的研究中心.
-* [pdpEcho](https://pdpecho.com/) -由Gabriela Zanfir-Fortuna提供的有关个人数据保护和隐私的所有内容.
-* [GDPRhub](https://gdprhub.eu/) -免费开放的Wiki，任何人都可以在欧洲找到并分享GDPR见解.
+* [GDPR Today](https://www.gdprtoday.org/) - Privacy news from the Open Rights Group.
+* [Spread Privacy](https://spreadprivacy.com/) - DuckDuckGo Blog.
+* [Freedom To Tinker](https://freedom-to-tinker.com/) - Blog from Princeton's CITP, a research center that studies digital technologies in public life.
+* [pdpEcho](https://pdpecho.com/) - All about personal data protection and privacy, by Gabriela Zanfir-Fortuna.
+* [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
 * [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme)
-* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) -尊重免费，开源和隐私的服务以及私有服务的替代方法的列表.
+* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) - 免费、开源和尊重隐私的服务以及私有服务的替代品列表。
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
+* [Analytics without cookies](https://www.gocookieless.com/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，Harald O. Bakke放弃了该作品的所有版权以及相关或邻近的权利.
+To the extent possible under law, Harald O. Bakke has waived all copyright and related or neighboring rights to this work.

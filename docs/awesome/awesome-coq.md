@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Coq [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://raw.githubusercontent.com/coq-community/awesome-coq/master/coq-logo.svg" align="right" width="100" title="Awesome Coq is a coq-community project">](https://raw.githubusercontent.com/coq-community/manifesto)
+[<img src="https://raw.githubusercontent.com/coq-community/awesome-coq/master/coq-logo.svg?sanitize=true" align="right" width="100" alt="coq-community logo" title="Awesome Coq is a coq-community project">](https://github.com/coq-community/manifesto)
 
 > A curated list of awesome Coq libraries, plugins, tools, and resources.
 
