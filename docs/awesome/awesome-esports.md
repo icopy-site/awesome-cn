@@ -49,7 +49,7 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 ## Unofficial documentations
 
-> Community-maintained documentation of editor APIs.
+> Community-maintained documentations of editor APIs.
 
 - [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
 - [Rift Explorer](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
