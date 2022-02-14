@@ -192,7 +192,7 @@ of required frequency response to a filter implementation.
 * [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to Thingspeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 * [uMQTT](https://github.com/andrewmk/uMQTT) - MQTT publish for MicroPython on the WiPy board.
 * [micropython-mqtt](https://github.com/chrismoorhouse/micropython-mqtt) - 异步 MQTT 库，可自动重新连接 MicroPython 设备，例如 ESP32 或 Pycom 设备。
-* [micropython-adafruit-mqtt-esp8266](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) <i>- Using MQTT to Publish/Subscribe to adafruit io.</i> <b>- 使用 MQTT 发布/订阅 adafruit io。</b> <i>MicroPython/CircuitPython implementation on ESP8266/ESP32.</i> <b>ESP8266/ESP32 上的 MicroPython/CircuitPython 实现。</b>
+* [micropython-adafruit-mqtt-esp8266](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266) - Using MQTT to Publish/Subscribe to adafruit io. MicroPython/CircuitPython implementation on ESP8266/ESP32.
 * [MicropythonCayenneMQTTClient](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
 * [mqtt_upython](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 
@@ -290,7 +290,7 @@ of required frequency response to a filter implementation.
 
 #### WiFi
 
-* [HueBridge](https://github.com/FRC4564/HueBridge) - Philips Hue Bridge.
+* [HueBridge](https://github.com/FRC4564/HueBridge) - 飞利浦色相桥。
 * [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - A simple network configuration utility for MicroPython on the ESP8266 board.
 * [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 
@@ -784,6 +784,7 @@ input via pushbuttons or a navigation joystick and an optional rotary encoder.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with mongo shell like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory json-based database for MicroPython.
 * [micropython-firebase-realtime-database](https://github.com/ckoever/micropython-firebase-realtime-database) - Firebase implementation for MicroPython optimized for ESP32.
+* [micropython-firebase-firestore](https://github.com/WoolDoughnut310/micropython-firebase-firestore) - Firebase Firestore implementation for Micropython.
 * [uSQLite](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
 #### EEPROM

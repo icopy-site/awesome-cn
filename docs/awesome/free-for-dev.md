@@ -217,8 +217,8 @@ Table of Contents
   * [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
   * [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.
   * [Supportivekoala](http://supportivekoala.com/) <i>— Allows you to autogenerate images by your input via templates.</i> <b>— 允许您通过模板输入自动生成图像。</b> <i>Free plan allows you to create up to 100 images per week.</i><b>免费计划允许您每周创建多达 100 张图像。</b>
-  * [QuickMocker](https://quickmocker.com/) <i>— Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header.</i> <b>— 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点。</b> <i>Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.</i><b>免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 条历史记录。</b>
-  * [RequestBin.com](https://requestbin.com) <i>— Create a free endpoint to which you can send HTTP requests.</i> <b>— 创建一个可以向其发送 HTTP 请求的免费端点。</b> <i>Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.</i><b>发送到该端点的任何 HTTP 请求都将与相关的有效负载和标头一起记录，以便您可以观察来自 webhook 和其他服务的请求。</b>
+  * [QuickMocker](https://quickmocker.com/) <i>— Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header.</i> <b>— 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点。</b> <i>Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.</i><b>免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 个历史记录。</b>
+  * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
   * [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. Free tier includes up to 1,000 free source images.
   * [ROBOHASH](https://robohash.org/) - Web service to generate unique (cool :) images from any text.
@@ -423,7 +423,7 @@ Table of Contents
   * [Continuous PHP](https://continuousphp.com/) — continuousphp is the first and only PHP-centric Platform to build, package, test and deploy applications in the same workflow. Free for Community Projects i.e. OSS/Public/Educational projects.
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
-  * [LayerCI](https://layerci.com) — CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .
+  * [LayerCI](https://layerci.com) <i>— CI for full stack projects.</i> <b>— 全栈项目的 CI。</b> <i>1 full stack preview environment with 5GB memory &amp; 3 CPUs .</i> <b>1 个具有 5GB 内存和 3 个 CPU 的完整堆栈预览环境。</b>
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [Octopus Deploy](https://octopus.com) - Automated deployment and release-management. Free for <= 10 deployment targets.
   * [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
@@ -930,7 +930,7 @@ Table of Contents
 ## DNS
   * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - Free public DNS Resolver which is fast and secure (encrypt your DNS query), provided by CloudFlare. Useful to bypass your internet provider's DNS blocking, prevent DNS query spying, and [to block adult & malware content](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families). Can also be used [via API](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests). Note: Just a DNS resolver, not a DNS hoster.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
-  * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
+  * [biz.mail.ru](https://biz.mail.ru) — 最多可容纳 5,000 名用户的免费电子邮件和 DNS 托管
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
   * [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
@@ -1029,6 +1029,7 @@ Table of Contents
    * [Codegiant](https://codegiant.io) — Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.
    * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
+   * [Crucial Human Project](https://crucialhuman.com/products/project/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
    * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users and files storage.
    * [easyretro.io](https://www.easyretro.io/) — Free simple and intuitive sprint retrospective tool
@@ -1287,7 +1288,7 @@ Table of Contents
    * [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
    * [Flagsmith](https://www.molasses.app) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise
-   * [GoatCounter](https://www.goatcounter.com/) <i>— GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app.</i> <b>— GoatCounter 是一个开源网络分析平台，可作为托管服务（非商业用途免费）或自托管应用程序提供。</b> <i>It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo.</i><b>它旨在提供易于使用且有意义的隐私友好型网络分析，以替代 Google Analytics 或 Matomo。</b> <i>Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.</i><b>免费套餐用于非商业用途，包括无限数量的网站、6 个月的数据保留期和 10 万次/月的网页浏览量。</b>
+   * [GoatCounter](https://www.goatcounter.com/) — GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo. Free tier is for non-commerical use and includes unlimited number of sites, 6 months of data retention, and 100k pageviews/month.
    * [Google Analytics](https://analytics.google.com/) — Google Analytics
    * [Expensify](https://www.expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [getinsights.io](https://getinsights.io) - Privacy-focused, cookie free analytics, free for up to 5k events/month.
@@ -1358,7 +1359,6 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive and fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
-  * [TreeScale.com](https://treescale.com/) — Host and manage container images with group permissions. Free tier offers 1 GB storage for private repositories.
   * [Platform9](https://platform9.com/) - Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself.
 
 

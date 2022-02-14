@@ -620,7 +620,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [fzf-z](https://github.com/andrewferrier/fzf-z) - Brings together the *z* plugin and *fzf* to allow you to easily browse recently used directories at any point on the command line.
 * [fzy](https://github.com/aperezdc/zsh-fzy) - Plugin that uses [fzy](https://github.com/jhawthorn/fzy) for certain fuzzy matching operations.
 * [gcloud-project](https://github.com/avivl/gcloud-project) - Easy selection of Google Cloud Projects.
-* [gdbm](https://github.com/zdharma-continuum/zgdbm) - 添加 GDBM 作为插件。
+* [gdbm](https://github.com/zdharma-continuum/zgdbm) - Adds GDBM as a plugin.
 * [geeknote](https://github.com/s7anley/zsh-geeknote) - [Geeknote](https://geeknote.me) plugin for ZSH.
 * [gentoo](https://github.com/MattiaG-afk/gentoo-ohmyzsh) - Adds some aliases and functions to work with Gentoo Linux.
 * [geometry-datetime](https://github.com/desyncr/geometry-datetime) - [Geometry](https://github.com/geometry-zsh/geometry) datetime plugin. Shows datetime (`date` unix command) in your prompt.
@@ -650,7 +650,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [git-scripts](https://github.com/packruler/zsh-git-scripts) - Adds `git-squash-branch` and `git-remove-merged` commands.
 * [git-secret](https://github.com/sobolevn/git-secret) - 一个 bash 工具，用于将您的私人数据存储在 `git` 存储库中。
 * [git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) - Adds extra `git` commands to make some common `git` usages more efficient.
-* [git-smart-commends-wrapper](https://github.com/jelek21/omz-git-smart-commands) - Wraps [git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the oh-my-zsh plugins system.
+* [git-smart-commends-wrapper](https://github.com/jelek21/omz-git-smart-commands) - 包裹 [git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) to make it compatible with the oh-my-zsh plugins system.
 * [git-sync](https://github.com/caarlos0/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
 * [git-tree](https://github.com/dehlen/git-tree-zsh) - [fzf](https://github.com/junegunn/fzf) powered `git worktree` helper.
 * [git-worktree](https://github.com/alexiszamanidis/zsh-git-worktree) - Wraps some `git worktree` operations for simplicity and productivity. Includes `fzf` tooling.
@@ -893,6 +893,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [quotify](https://github.com/damofthemoon/zsh-quotify) - Displays inspiring coding quotes from our pairs when starting up.
 * [randeme](https://github.com/ex-surreal/randeme) - Chooses a random theme for each session. If you not like the chosen theme you can run `randeme_rm` to never show that theme again.
 * [random-quotes](https://github.com/vkolagotla/zsh-random-quotes) - Displays random quotes or facts.
+* [redis](https://github.com/z-shell/redis) - Will run `redis-server` pointing it to the `redis.conf` configuration file. This can be used with the [zdharma/zredis](https://github.com/z-shell/zredis) plugin to share variables between shells.
 * [razer-status-code](https://github.com/michaelmcallister/razer-status-code) - Change the colour of your [Razer Mouse](https://openrazer.github.io/) based on the status of the last executed command. Requires [OpenRazer](https://openrazer.github.io) linux drivers.
 * [rbenv (ecortinas)](https://github.com/ecortinas/zsh-rbenv) - Based on the [zsh-pyenv](https://github.com/mattberther/zsh-pyenv) plugin. This plugin will install rbenv and make it readily available
 * [rbenv (elliottcable)](https://github.com/ELLIOTTCABLE/rbenv.plugin.zsh) - A faster fork of the rbenv plugin from oh-my-zsh.
@@ -924,6 +925,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 * [sealion](https://github.com/xyproto/sealion) - Allows you to set reminders that will appear in your terminal when your prompt is refreshed.
 * [search-directory-history](https://github.com/cmaahs/search-directory-history) - Allows complex search of per-directory history created using the [per-directory-history](https://github.com/jimhester/per-directory-history) plugin.
 * [sed-sub](https://github.com/MenkeTechnologies/zsh-sed-sub) - Adds keybindings to do global search and replace on current command line.
+* [select](https://github.com/z-shell/zsh-select) - Multi-term searched selection list with approximate matching and uniq mode.
 * [send](https://github.com/robertzk/send.zsh) - Single command to `git add`, `git commit`, and `git push` for much faster `git` workflow.
 * [sensei-git](https://github.com/aswitalski/oh-my-zsh-sensei-git-plugin) - Adds many `git` aliases and helper shell functions.
 * [session-sauce](https://github.com/ChrisPenner/session-sauce) - An fzf interface for tmux session creation and management for all your projects.
