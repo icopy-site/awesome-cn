@@ -4,11 +4,6 @@
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
 		<br>
-		<br>
-		<br>
-		<h1><a href="https://posthog.com/blog/send-love-to-open-source">Send love to open-source projects</a></h1>
-		<br>
-		<br>
 	</div>
 	<br>
 	<hr>
@@ -145,7 +140,7 @@
 
 ### Mad science
 
-- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
+- [webtorrent](https://github.com/feross/webtorrent) - 适用于 Node.js 和浏览器的流式 torrent 客户端。
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [dat](https://github.com/datproject/dat-node) - Real-time replication and versioning for data sets.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 分布式文件系统，旨在将所有计算设备与相同的文件系统连接起来。
@@ -393,7 +388,7 @@
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
-- [tempy](https://github.com/sindresorhus/tempy) - 获取一个随机的临时文件或目录路径。
+- [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Control flow
 

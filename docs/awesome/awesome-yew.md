@@ -26,7 +26,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 ## Projects
 
-- [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly.
+- [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `functional components` and `hooks`. It also supports desktop application powered by [Tauri](https://github.com/tauri-apps/tauri).
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust, frontend is built with Yew.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - Easily testable and working Rust codes with blog posts to explain them.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.

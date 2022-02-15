@@ -29,7 +29,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_).
 * [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
-* [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+* [Alfred](https://github.com/rknell/alfred) - 带有路由和中间件的受 ExpressJS 启发的最小服务器。
 
 ## Other Frameworks
 * [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
@@ -60,8 +60,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
-* [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL.
-* [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL.
 
 ## Package Managers
 
@@ -143,7 +141,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
 * [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
-* [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - 如何使用 pub 中的任何包版本来解决包版本冲突。
+* [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
 
 ## Community
 

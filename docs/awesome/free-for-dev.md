@@ -33,28 +33,27 @@ Table of Contents
     * BigQuery - 1 TB of querying per month, 10 GB of storage each month
     * Cloud Build - 120 build-minutes per day
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * Full, detailed list - https://cloud.google.com/free
+    * 完整的详细列表 - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * Amazon CloudFront - 1TB egress per month
-    * Amazon DynamoDB - 25GB NoSQL DB
-    * Amazon EC2 - 100GB aggregated egress per month
-    * Amazon EC2 - t2.micro 或 t3.micro 每月 750 小时
-    * Amazon EBS - 30GB per month of General Purpose (SSD) or Magnetic
-    * Amazon ELB - 750 hours per month
-    * Amazon Lambda - 1 million requests per month
-    * Amazon SNS - 1 million publishes per month
-    * Amazon SES - 62.000 messages per month
-    * Amazon Cloudwatch - 10 custom metrics and 10 alarms
-    * Amazon Glacier - 10GB long-term object storage
-    * Amazon SQS - 1 million messaging queue requests
-    * Amazon CodeBuild - 100min of build time per month
-    * Amazon CodeCommit - 5 active users per month
-    * Amazon CodePipeline - 1 active pipeline per month
+    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month
+    * [Cloudwatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and 10 alarms
+    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
+    * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
+    * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo)
+    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
+    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
+    * [Glacier](https://aws.amazon.com/glacier) - 10GB 长期对象存储
+    * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
+    * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
+    * [SES](https://aws.amazon.com/ses/) - 62.000 messages per month
+    * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
     * Full, detailed list - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
-    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM
+    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
     * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile or API apps
     * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
     * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
@@ -65,15 +64,15 @@ Table of Contents
     * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
     * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load balanced IP (VIP)
     * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
-    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 5GB egress per month
+    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo) & 5GB egress per month
     * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 5GB storage and 400 RUs of provisioned throughput
     * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy and host static apps and serverless functions, with free SSL, Authentication/Authorization and custom domains
-    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage
+    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo)
     * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
     * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
     * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
     * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
-    * Full, detailed list - [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/)
+    * Full, detailed list - https://azure.microsoft.com/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
     * Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
@@ -124,7 +123,7 @@ Table of Contents
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic, also you have an ionic repo
   * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
-  * [OSDN](https://osdn.net/) - OSDN.net 是为开源软件开发人员提供的免费服务，提供 SVN/Git/Mercurial/Bazaar/CVS 存储库等。
+  * [OSDN](https://osdn.net/) - OSDN.net is a free-of-charge service for open source software developers, offering SVN/Git/Mercurial/Bazaar/CVS repositories and more.
   * [Pagure.io](https://pagure.io) — Pagure.io is a free and open source software code collaboration platform for FOSS-licensed projects, Git-based
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — Free 1GB Cloud and  Git, Mercurial, or SVN repositories.
   * [pijul.com](https://pijul.com/) - Unlimited free and open source distributed version control system. Its distinctive feature is to be based on a sound theory of patches, which makes it easy to learn and use, and really distributed. Solves many problems of git/hg/svn/darcs.
@@ -189,7 +188,7 @@ Table of Contents
   * [IPFast](https://ip-fast.com/) — Find out your IP Address and related detailed information using the free, fastest and simple lookup tool.
   * [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames and ASN details. Free for personal and business users.
   * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
-  * [IPTrace](https://iptrace.io) — 一个非常简单的 API，可为您的企业提供可靠且有用的 IP 地理位置数据。
+  * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration required for free tier. Using CORS data can be requested using client side JS directly from browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [konghq.com/](https://konghq.com/) — API Marketplace and powerful tools for private and public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
   * [Kreya](https://kreya.app) — Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
@@ -217,8 +216,8 @@ Table of Contents
   * [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
   * [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.
   * [Supportivekoala](http://supportivekoala.com/) <i>— Allows you to autogenerate images by your input via templates.</i> <b>— 允许您通过模板输入自动生成图像。</b> <i>Free plan allows you to create up to 100 images per week.</i><b>免费计划允许您每周创建多达 100 张图像。</b>
-  * [QuickMocker](https://quickmocker.com/) <i>— Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header.</i> <b>— 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点。</b> <i>Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.</i><b>免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 个历史记录。</b>
-  * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.
+  * [QuickMocker](https://quickmocker.com/) <i>— Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header.</i> <b>— 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点。</b> <i>Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.</i><b>免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 条历史记录。</b>
+  * [RequestBin.com](https://requestbin.com) <i>— Create a free endpoint to which you can send HTTP requests.</i> <b>— 创建一个可以向其发送 HTTP 请求的免费端点。</b> <i>Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.</i><b>发送到该端点的任何 HTTP 请求都将与相关的有效负载和标头一起记录，以便您可以观察来自 webhook 和其他服务的请求。</b>
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
   * [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. Free tier includes up to 1,000 free source images.
   * [ROBOHASH](https://robohash.org/) - Web service to generate unique (cool :) images from any text.
@@ -269,7 +268,7 @@ Table of Contents
 ## Tools for Teams and Collaboration
 
   * [3Cols](https://3cols.com/) - A free cloud based code snippet manager for personal and collaborative code.
-  * [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
+  * [Bitwarden](https://bitwarden.com) — 个人、团队和企业组织存储、共享和同步敏感数据的最简单、最安全的方式。
   * [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also it provide self-hostable open-source version.
   * [cally.com](https://cally.com/) — Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
   * [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.
@@ -289,7 +288,7 @@ Table of Contents
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
   * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
-  * [Keybase](https://keybase.io/) — Keybase 是 Slack 的一个很酷的 FOSS 替代品，它确保每个人的聊天和文件安全，从家庭到社区再到公司。
+  * [Keybase](https://keybase.io/) — Keybase is a cool FOSS alternative to Slack, it keeps everyone's chats and files safe, from families to communities to companies.
   * [Google Meet](https://meet.google.com/) — Use Google Meet for your business's online video meeting needs. Meet provides secure, easy-to-join online meetings.
   * [/meet for Slack](https://meetslack.com) - Start Google Meetings directly from Slack by using /meet in any channel, group or DM. Free without any limitations.
   * [MarkUp](https://www.markup.io/) — MarkUp lets you collect feedback directly on top of your websites, PDFs and images.
@@ -343,7 +342,7 @@ Table of Contents
   * [DatoCMS](https://www.datocms.com/) - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.
   * [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. No limitations or paywalls.
   * [Forestry.io/](https://forestry.io/) — Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere
-  * [FrontAid](https://frontaid.io/) — Headless CMS that stores JSON content directly in your own Git repository. No restrictions.
+  * [FrontAid](https://frontaid.io/) <i>— Headless CMS that stores JSON content directly in your own Git repository.</i> <b>— 将 JSON 内容直接存储在您自己的 Git 存储库中的无头 CMS。</b> <i>No restrictions.</i><b>无限制。</b>
   * [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.
   * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
   * [Sanity.io](https://www.sanity.io/) - Platform for structured content that comes with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, 3 non-admin users, 2 datasets, 500K API CDN requests, 10GB bandwidth, 5GB assets included for free per project.
@@ -423,7 +422,7 @@ Table of Contents
   * [Continuous PHP](https://continuousphp.com/) — continuousphp is the first and only PHP-centric Platform to build, package, test and deploy applications in the same workflow. Free for Community Projects i.e. OSS/Public/Educational projects.
   * [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
   * [drone](https://cloud.drone.io/) - Drone Cloud enables developers to run Continuous Delivery pipelines across multiple architectures - including x86 and Arm (both 32 bit and 64 bit) - all in one place
-  * [LayerCI](https://layerci.com) <i>— CI for full stack projects.</i> <b>— 全栈项目的 CI。</b> <i>1 full stack preview environment with 5GB memory &amp; 3 CPUs .</i> <b>1 个具有 5GB 内存和 3 个 CPU 的完整堆栈预览环境。</b>
+  * [LayerCI](https://layerci.com) — CI for full stack projects. 1 full stack preview environment with 5GB memory & 3 CPUs .
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
   * [Octopus Deploy](https://octopus.com) - Automated deployment and release-management. Free for <= 10 deployment targets.
   * [scalr.com](https://scalr.com/) - Remote state & operations backend for Terraform with full CLI support, integration with OPA and a hierarchical configuration model. Free up to 5 users.
@@ -613,7 +612,7 @@ Table of Contents
   * [meercode.io](https://meercode.io/) — Meercode is the ultimate monitoring dashboard for your CI/CD builds. Free for open-source and 1 private repository.
   * [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!
   * [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything, then analyze, troubleshoot, and optimize your entire software stack. Free tier offers 100GB/month of free data ingest, 1 free full access user, and unlimited free basic users.
-  * [nixstats.com](https://nixstats.com) <i>- Free for one server.</i> <b>- 一台服务器免费。</b> <i>E-Mail Notifications, public status page, 60 second interval and more.</i><b>电子邮件通知、公共状态页面、60 秒间隔等。</b>
+  * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
   * [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 10 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Free for up to 3 users, alerts via Slack, Discord, and Email.
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
@@ -930,7 +929,7 @@ Table of Contents
 ## DNS
   * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - Free public DNS Resolver which is fast and secure (encrypt your DNS query), provided by CloudFlare. Useful to bypass your internet provider's DNS blocking, prevent DNS query spying, and [to block adult & malware content](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families). Can also be used [via API](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests). Note: Just a DNS resolver, not a DNS hoster.
   * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
-  * [biz.mail.ru](https://biz.mail.ru) — 最多可容纳 5,000 名用户的免费电子邮件和 DNS 托管
+  * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
   * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
   * [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
   * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
@@ -944,7 +943,6 @@ Table of Contents
   * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
   * [nsupdate.info](https://www.nsupdate.info/) — Free and open-source Dynamic DNS service
   * [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
-  * [qingcloud](https://www.qingcloud.com/products/dns/) — Free DNS hosting by QingCloud.
   * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting with unlimited records, anycast
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
@@ -1031,7 +1029,7 @@ Table of Contents
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
    * [Crucial Human Project](https://crucialhuman.com/products/project/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
    * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
-   * [freedcamp.com](https://freedcamp.com/) - tasks, discussions, milestones, time tracking, calendar, files and password manager. Free plan with unlimited projects, users and files storage.
+   * [freedcamp.com](https://freedcamp.com/) <i>- tasks, discussions, milestones, time tracking, calendar, files and password manager.</i> <b>- 任务、讨论、里程碑、时间跟踪、日历、文件和密码管理器。</b> <i>Free plan with unlimited projects, users and files storage.</i><b>免费计划，无限项目、用户和文件存储。</b>
    * [easyretro.io](https://www.easyretro.io/) — Free simple and intuitive sprint retrospective tool
    * [GForge](https://gforge.com) — Project Management & Issue Tracking toolset for complex projects with self-premises and SaaS options. SaaS free plan offers first 5 users free & free for Open Source Projects.
    * [gleek.io](https://www.gleek.io) — Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyword.
@@ -1073,7 +1071,7 @@ Table of Contents
    * [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free, Premium and Team plans are available. Discounts provided for eligible users.
    * [trello.com](https://trello.com/) — Board-based project management. Unlimited Personal Boards, 10 Team Boards.
    * [Tweek](https://tweek.so/) — Simple Weekly To-Do Calendar & Task Management.
-   * [ubertesters.com](https://ubertesters.com/) — 测试平台、集成和众测者，2 个项目，5 名成员
+   * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
    * [vabotu](https://vabotu.com/) - A collaborative tool for project management. Free and other plans are available. The Freelance plan is for 10 users, include messaging, task-boards, 5GB online storage, workspaces, export data.
    * [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
    * [Wikifactory](https://wikifactory.com/) — Product designing Service with Projects, VCS & Issues. Free plan offers unlimited projects & collaborators and 3GB storage.
@@ -1146,7 +1144,7 @@ Table of Contents
   * [Invision App](https://www.invisionapp.com) - UI design and prototyping tool. Desktop and webapp available. Free to use with 1 active prototype.
   * [landen.co](https://www.landen.co) — Generate, edit and publish beautiful websites and landing pages for your startup. All without code. Free tier allows you to have one website, fully customizable and published on the web.
   * [lensdump.com](https://lensdump.com/) - Free cloud image hosting.
-  * [Lorem Picsum](https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.
+  * [Lorem Picsum](https://picsum.photos/) <i>- A Free tool, easy to use stylish placeholders.</i> <b>- 免费工具，易于使用的时尚占位符。</b> <i>Just add your desired image size (width &amp; height) after our URL, and you&#39;ll get a random image.</i><b>只需在我们的 URL 后添加您想要的图像尺寸（宽度和高度），您就会得到一张随机图像。</b>
   * [LottieFiles](https://lottiefiles.com/) - The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
   * [MagicPattern](https://www.magicpattern.design/tools) — A collection of CSS & SVG background generators & tools for gradients, patterns, and blobs.
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free plan limited to one user and one project.
@@ -1327,7 +1325,7 @@ Table of Contents
    * [smartlook.com](https://www.smartlook.com/) — Web 和移动应用程序的免费包（1500 个会话/月）、3 个热图、1 个漏斗、1 个月的数据历史记录
    * [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
    * [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
-   * [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
+   * [UXtweak.com](https://www.uxtweak.com/) <i>— Record and watch how visitors use your web site or app.</i> <b>— 记录并观察访问者如何使用您的网站或应用程序。</b> <i>Free unlimited time for small projects</i><b>小项目的免费无限时间</b>
 
 
 ## International Mobile Number Verification API and SDK
