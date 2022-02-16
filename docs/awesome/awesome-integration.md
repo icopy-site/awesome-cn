@@ -51,7 +51,7 @@ System integration is the process of linking together different IT systems (co
 - [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
 - [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) -  API Gateway built on top of the Spring Ecosystem, including: Spring 5, Spring Boot 2 and Project Reactor.
-- [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
+- [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - 一个开源企业 API 网关，支持 REST、GraphQL、TCP 和 gRPC 协议。
 
 ### API Testing
 *API testing tools.*
@@ -226,7 +226,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [Activiti](https://github.com/Activiti/Activiti) - A lightweight and java-centric open-source BPMN engine.
 - [Apache Airflow](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) -  An open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-- [Azkaban](https://github.com/azkaban/azkaban) - 分布式工作流管理器，在 LinkedIn 实施，用于解决 Hadoop 作业依赖性问题。
+- [Azkaban](https://github.com/azkaban/azkaban) - A distributed Workflow Manager, implemented at LinkedIn to solve the problem of Hadoop job dependencies.
 - [Bonita](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
 - [Cadence](https://github.com/uber/cadence) - Fault-Tolerant Stateful Code Platform.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform.
@@ -290,7 +290,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [Invalid Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html) - How can a messaging receiver gracefully handle receiving a message that makes no sense?
 - [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) - How can two applications connected by a message channel exchange a piece of information?
 - [Message Dispatcher](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageDispatcher.html) - How can multiple consumers on a single channel coordinate their message processing?
-- [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - How can a sender indicate when a message should be considered stale and thus shouldn`t be processed?
+- [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示消息何时应被视为陈旧，因此不应处理？
 - [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - How can systems using different data formats communicate with each other using messaging?  
 - [Message Broker](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html) - How can you decouple the destination of a message from the sender and maintain central control over the flow of messages?
 - [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - What is an architecture that enables separate applications to work together, but in a decoupled fashion such that applications can be easily added or removed without affecting the others?  
@@ -363,6 +363,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) - Java Database Connectivity (JDBC) API provides universal data access from the Java programming language.
 - [JMS](https://javaee.github.io/jms-spec/) - Java Message Service (JMS) API.
 - [ODBC](https://docs.microsoft.com/en-us/sql/odbc/reference/odbc-overview) - Open Database Connectivity (ODBC) is a widely accepted application programming interface (API) for database access.
+- [OData](https://www.odata.org/) - An open protocol that allows the creation and consumption of queryable and interoperable REST APIs in a simple and standard way.
 
 ### Structure and Validation
 - [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data.

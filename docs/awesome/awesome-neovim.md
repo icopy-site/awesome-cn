@@ -164,6 +164,7 @@ Neovim supports a wide variety of UI's.
 ### Marks
 
 - [chentau/marks.nvim](https://github.com/chentau/marks.nvim) - A better user experience for viewing and interacting with vim marks.
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
 ### Fuzzy Finder
 
@@ -340,6 +341,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [mini.doc](https://github.com/echasnovski/mini.nvim#minidoc) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
 - [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
 - [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - A reference for builtin lua functions.
+- [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - Another neovim plugin template, using GitHub's template feature.
 
 ### Fennel
 
@@ -595,6 +597,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) - The ultimate testing plugin for NeoVim.
 - [David-Kunz/jester](https://github.com/David-Kunz/jester) - A Neovim plugin to easily run and debug Jest tests.
+- [klen/nvim-test](https://github.com/klen/nvim-test) - A Neovim wrapper for running tests.
 
 ### Competitive Programming
 

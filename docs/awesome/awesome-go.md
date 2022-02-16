@@ -424,6 +424,7 @@ _Generic datastructures and algorithms in Go._
 - [slices](https://github.com/srfrog/slices) - Functions that operate on slices; like `package strings` but adapted to work with slices.
 - [timedmap](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
 - [treap](https://github.com/perdata/treap) - Persistent, fast ordered map using tree heaps.
+- [treemap](https://github.com/igrmk/treemap) - Generic key-sorted map using a red-black tree under the hood.
 - [trie](https://github.com/derekparker/trie) - Trie implementation in Go.
 - [ttlcache](https://github.com/ReneKroon/ttlcache) - In-memory string-interface{} cache with various time-based expiration options and callbacks.
 - [typ](https://github.com/gurukami/typ) - Null Types, Safe primitive type conversion and fetching value from complex structures.
@@ -608,7 +609,7 @@ _Libraries for connecting and operating databases._
   - [elastigo](https://github.com/mattbaird/elastigo) - Elasticsearch client library.
   - [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
   - [goes](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
-  - [riot](https://github.com/go-ego/riot) - 开源、分布式、简单高效的搜索引擎。
+  - [riot](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient Search Engine.
   - [skizze](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
 
 - Multiple Backends.
@@ -728,6 +729,7 @@ _Libraries and tools that implement email creation and sending._
 - [mailchain](https://github.com/mailchain/mailchain) - Send encrypted emails to blockchain addresses written in Go.
 - [mailgun-go](https://github.com/mailgun/mailgun-go) - Go library for sending mail with the Mailgun API.
 - [MailHog](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
+- [mailx](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 - [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 - [smtp](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
 - [smtpmock](https://github.com/mocktools/go-smtp-mock) - Lightweight configurable multithreaded fake SMTP server. Mimic any SMTP behaviour for your test environment.
@@ -2648,7 +2650,7 @@ _Software written in Go._
 - [grapes](https://github.com/yaronsumel/grapes) - Lightweight tool designed to distribute commands over ssh with ease.
 - [GVM](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Hey](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
-- [httpref](https://github.com/dnnrly/httpref) - httpref is a handy CLI reference for HTTP methods, status codes, headers, and TCP and UDP ports.
+- [httpref](https://github.com/dnnrly/httpref) - httpref 是一个方便的 CLI 参考，用于 HTTP 方法、状态代码、标头以及 TCP 和 UDP 端口。
 - [jcli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
 - [kala](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 - [kcli](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.

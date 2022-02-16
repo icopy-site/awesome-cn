@@ -252,7 +252,7 @@
 - 🧩 [Kutty](https://kutty.netlify.app) - Accessible and reusable components that are commonly used in web applications.
 - 🧩 [Sail UI](https://sailui.github.io/) - Collection of basic UI components built on Tailwind CSS.
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
-- 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - 与框架无关的、Vue.js、React 和 Angular 组件。
+- 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 - 🧩 [lofi ui](https://lofiui.co/) - Low-fidelity Tailwind CSS components.
 - 🧩 [Gust UI](https://www.gustui.com/) - Sleek Tailwind CSS components for web applications in React and HTML.
 - 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
@@ -268,11 +268,12 @@
 - 🧩 [HyperUI](https://hyperui.dev/) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Snippets](https://snippets.alexandru.so/) - Open source collection of animation snippets made for Tailwind CSS.
 - 🧩 [Fancy Tailwind](https://fancytailwind.com/) - Large collection of Tailwind CSS UI components (700+).
+- 🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 - 📁 [Vue Notus](https://www.creative-tim.com/product/vue-notus) - Open-source Tailwind CSS and Vue.js UI kit.
 - 📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 - 📁 [EasyTailwind](https://easytailwind.now.sh) - Freemium, easily customizable templates made with Tailwind CSS.
 - 📁 [Windmill Dashboard](https://windmill-dashboard.vercel.app/) - Multi theme, completely accessible dashboard template.
-- 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - Administration panel template with Tailwind CSS.
+- 📁 [Tailwind Admin](https://github.com/tailwindadmin/admin) - 带有 Tailwind CSS 的管理面板模板。
 - 📁 [Landing Gradients](https://landing-gradients.netlify.app/) - Landing page template using gradients (1.7+).
 - 📁 [Resume](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
 - 📁 [Resume](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
