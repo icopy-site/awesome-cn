@@ -184,6 +184,7 @@ A collection of urban planning related data specifications and standards for use
 
 ### Built Environment
 
+- [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdiciplinary common operating platform for civic systems. 
 - [LBCS](https://www.planning.org/lbcs/standards/) - The [American Planning Assoication's](https://www.planning.org/) Land Based Classification Standards classifies land uses across five dimensions (Activity, Function, Structure, Site, and Ownership). 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - The Digital Twins Definition Language is the language by which developers can define the language of the entities they expect to use in their topologies. 
 - [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
@@ -318,7 +319,7 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [Streetmix](https://streetmix.net/) - A collaborative civic engagement platform for urban design. Design, remix, and share your neighborhood street with Streetmix.
 - [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 - [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use. 
-- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) <i>- Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level.</i> <b>- 综合交通和健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于在城市和国家层面对交通情景和政策的健康影响进行综合评估。</b> <i>This page points to different literature, R code, and</i><b>此页面指向不同的文献、R 代码和</b> [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
+- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim) - Integrated Transport and Health Impact Model (ITHIM) refers to a range of related models and tools developed to perform integrated assessment of the health effects of transport scenarios and policies at the urban and national level. This page points to different literature, R code, and [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
 
 ## Educational and Informational Resources
@@ -402,6 +403,6 @@ We are actively looking for contributions from those interested in urban plannin
 Similar to other [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
 
 
-If you do cite this repository you can as: 
+如果您确实引用了此存储库，则可以： 
 
 urban-and-regional-planning-resources. (2020) APA Technology Division. Taken from: from https://github.com/APA-Technology-Division

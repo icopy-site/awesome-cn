@@ -16,7 +16,7 @@
 
 - [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
 - [Engine](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
-- [glTF Viewer](https://playcanvas.com/viewer) - 符合 glTF 2.0 的模型查看器。
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 - [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 - [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
@@ -51,7 +51,7 @@
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-- [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
+- [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - 用于 2D 动画的 PlayCanvas 的 Spine 插件。
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
@@ -165,6 +165,7 @@
 - [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - 万宝龙钢笔、手表、钱包和耳机的产品可视化工具。
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
+- [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
 ## AR/VR/XR

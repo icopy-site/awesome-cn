@@ -4,7 +4,9 @@
     <img src="https://raw.githubusercontent.com/margaretmz/awesome-tensorflow-lite/master/images/awesome-tflite.png" alt="awesome tflite" width="500">
 </p>
 
+<!-- omit in toc -->
 ## Awesome TensorFlow Lite [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter](https://img.shields.io/badge/Twitter-%40margaretmz-blue)](https://twitter.com/margaretmz)
+
 [TensorFlow Lite](https://www.tensorflow.org/lite) is a set of tools that help convert and optimize TensorFlow models to run on mobile and edge devices. It's currently running on more than 4 billion devices! With TensorFlow 2.x, you can train a model with tf.Keras, easily convert a model to .tflite and deploy it; or you can download a pretrained TensorFlow Lite model from the model zoo.
 
 This is an awesome list of TensorFlow Lite models with sample apps, helpful tools and learning resources -
@@ -14,6 +16,8 @@ This is an awesome list of TensorFlow Lite models with sample apps, helpful tool
 
 Please submit a PR if you would like to contribute and follow the guidelines [here](https://github.com/margaretmz/awesome-tensorflow-lite/blob/master/CONTRIBUTING.md).
 
+<!-- omit in toc -->
+ ## Contents
 
 ## Past announcements:
 Here are some past feature annoucements of TensorFlow Lite:
@@ -74,6 +78,7 @@ Note: pretrained TensorFlow Lite models from MediaPipe are included, which you c
 | -|-|-|-|
 | GANs                            | [U-GAT-IT](https://github.com/taki0112/UGATIT) (Selfie2Anime)                                                                                                     | [Project repo](https://github.com/margaretmz/selfie2anime-with-tflite) \| [Android](https://github.com/margaretmz/selfie2anime-with-tflite/tree/master/android) \| [Tutorial](https://medium.com/google-developer-experts/selfie2anime-with-tflite-part-1-overview-f97500800ffe)                                                                                                                                       | Community          |
 | GANs                            | [White-box CartoonGAN](https://github.com/SystemErrorWang/White-box-Cartoonization) ([download](https://tfhub.dev/sayakpaul/lite-model/cartoongan/dr/1))          | [Project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite) \| [Android](https://github.com/margaretmz/Cartoonizer-with-TFLite/tree/master/android) \| [Tutorial](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html)                                                                                                                                                           | Community          |
+<i>|</i> <b>|</b> <i>GANs - Image Extrapolation |</i> <b>GANs - 图像外推 |</b> <i>Boundless on</i><b>无边无际</b> [TF Hub](https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/dr/1)                                                     | [Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb)  \| [Original Paper](https://arxiv.org/pdf/2003.06792v2.pdf)                                                                                                                           | Community          |
 #### Post estimation
 | Task | Model | App \| Reference | Source |
 | -|-|-|-|
@@ -85,7 +90,6 @@ Note: pretrained TensorFlow Lite models from MediaPipe are included, which you c
 | Task | Model | App \| Reference | Source |
 | -|-|-|-|
 | Low-light image enhancement   | [Models on TF Hub](https://tfhub.dev/sayakpaul/mirnet-fixed/1)                                                     | [Project repo](https://github.com/sayakpaul/MIRNet-TFLite)  \| [Original Paper](https://arxiv.org/pdf/2003.06792v2.pdf) \| [Flutter](https://github.com/sayannath/MIRNet-Flutter)|                                                                                                                           | Community          |
-| Image Extrapolation   | [Models on TF Hub](https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/dr/1)                                                     | [Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb)  \| [Original Paper](https://arxiv.org/pdf/2003.06792v2.pdf)                                                                                                                           | Community          |
 | OCR                             |[Models on TF Hub](https://tfhub.dev/tulasiram58827/lite-model/keras-ocr/dr/2)     | [Project Repository](https://github.com/tulasiram58827/ocr_tflite)  | Community
 
 
@@ -150,7 +154,7 @@ These are TensorFlow models that could be converted to .tflite and then implemen
 * 2018-05-22 [ML Kit on Android 1: Intro](https://medium.com/google-developer-experts/exploring-firebase-mlkit-on-android-introducing-mlkit-part-one-98fcfedbeee0).
 
 ## Plugins and SDKs
-* [Edge Impulse](https://www.edgeimpulse.com/) - 由...制作 [@EdgeImpulse](https://twitter.com/EdgeImpulse) to help you to train TensorFlow Lite models for embedded devices in the cloud.
+* [Edge Impulse](https://www.edgeimpulse.com/) - Created by [@EdgeImpulse](https://twitter.com/EdgeImpulse) to help you to train TensorFlow Lite models for embedded devices in the cloud.
 * [Fritz.ai](https://www.fritz.ai/) - An ML platform by [@fritzlabs](https://twitter.com/fritzlabs) that makes mobile development easier: with pre-trained ML models and end-to-end platform for building and deploying custom trained models.
 * [MediaPipe](https://github.com/google/mediapipe) - A cross platform (mobile, desktop and Edge TPUs) AI pipeline by Google AI. (PM [Ming Yong](https://twitter.com/realmgyong)) | [MediaPipe examples](https://mediapipe.readthedocs.io/en/latest/examples.html).
 * [Coral Edge TPU](https://coral.ai/) - Edge hardware by Google. [Coral Edge TPU examples](https://coral.ai/examples/).
