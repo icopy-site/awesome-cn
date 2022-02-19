@@ -4,6 +4,7 @@
 
 
 A curated list of awesome developer-first tools and products.  
+I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter), check it out!  
 You can follow me on [Twitter](https://twitter.com/agammore) for more dev related content :) 
 
 The definition of developer-first for this repo is:
@@ -67,7 +68,7 @@ The definition of developer-first for this repo is:
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
-* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
+* [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放。
 
 ## Debugging 
 *Tools that help in tracking bugs.*
@@ -132,7 +133,7 @@ The definition of developer-first for this repo is:
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
 
 ## Localization
-*翻译您的产品（也表示为 i18n）。*
+*Translating your product (also denoted i18n).*
 * [Localazy](https://localazy.com/) - App translation built for developers.
 
 ## Mail
