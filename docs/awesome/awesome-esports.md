@@ -14,18 +14,22 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 > Programming libraries organized per use cases.
 
-### API wrappers
+### APIs & Web Services
 
 - [Blizzard.js](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
 - [Discord.js](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
 - [HLTV](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
 - [liquipediapy](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 - [steam](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
+- [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
+- [SteamID](https://github.com/DoctorMcKay/node-steamid) - A Node.js library for manipulating Steam IDs.
+- [SteamUser](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
+- [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
 - [valorant.js](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
 
-### Team management
+### Authentication
 
-- [LoL in-house bot](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
+- [Passport-Steam](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
 
 ### Data parsing and analysis
 
@@ -35,6 +39,10 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 - [Clarity](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
 - [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
 - [Rattletrap](https://github.com/tfausak/rattletrap) - 用于解析和生成火箭联盟重播的 Haskell 库。
+
+### Team management
+
+- [LoL in-house bot](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
 
 ### Tournaments management
 
