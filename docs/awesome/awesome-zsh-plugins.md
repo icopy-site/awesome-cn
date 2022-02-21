@@ -1136,6 +1136,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [batect](https://github.com/batect/batect-zsh-completion/) - Adds tab completions for [batect](https://batect.dev/) build system.
 - [berkshelf-completions](https://github.com/berkshelf/berkshelf-zsh-plugin) - Adds tab completion for berkshelf.
 - [better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better tab completion for `npm`.
+- [bio](https://github.com/yamaton/zsh-completions-bio/) - 完成生物信息学工具。
 - [bosh-zsh-autocompletion](https://github.com/krujos/bosh-zsh-autocompletion) - Adds BOSH autocompletion.
 - [brew-services](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for homebrew services.
 - [buidler](https://github.com/gonzalobellino/buidler-zsh) - Adds completion and useful aliases for NomicLabs Buidler tool [buidler.dev](https://buidler.dev).
@@ -1253,7 +1254,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [yabai](https://github.com/Amar1729/yabai-zsh-completions) - Add completions for macOS [yabai](https://github.com/koekeishiya/yabai/) tiling window manager.
 - [yarn](https://github.com/g-plane/zsh-yarn-autocompletions) - Add autocompletions for `yarn add`, `yarn remove`, `yarn upgrade`, `yarn why` and `yarn run`.
 - [zargparse](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
-- [zstyle-completions](https://github.com/zshzoo/zstyle-completions) - 给 [prezto-style](https://github.com/sorin-ionescu/prezto) completions when you hit tab.
+- [zstyle-completions](https://github.com/zshzoo/zstyle-completions) - Gives [prezto-style](https://github.com/sorin-ionescu/prezto) completions when you hit tab.
 
 ## Themes
 

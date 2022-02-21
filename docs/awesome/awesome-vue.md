@@ -623,7 +623,7 @@
 - [core-server](https://github.com/skyhark-projects/core-server) - Highly scalable VueJs framework with an integrated API system, and multiple advanced features.
 - [discord-logo](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 - [node-vue-template](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
-- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) <i>- Vue.js Storefront - PWA for eCommerce.</i> <b>- Vue.js Storefront - 电子商务的 PWA。</b> <i>100% offline, platform agnostic, headless, Magento2 supported.</i> <b>100% 离线，平台无关，无头，支持 ​​Magento2。</b>
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 - [fd-vue](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 - [wildfire](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
 - [Ride Receipts](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
@@ -905,7 +905,7 @@
 - [Beacon](https://beaconapp.in) - :blue_heart: A service that allows you to share your content across multiple websites.
 - [Artfinder](https://www.artfinder.com/) - Artfinder is a website for buying & selling art paintings.
 - [Rolodromo](https://rolodromo.com) - A spanish website dedicated to tabletop RPG.
-- [GitHubExplorer](https://kiinlam.github.io/GitHubExplorer/) <i>- Pure static page webapp for exploring GitHub.</i> <b>- 用于探索 GitHub 的纯静态页面 webapp。</b> <i>Using `Vuejs` and `GitHub GraphQL API v4`.</i><b>使用 `Vuejs` 和 `GitHub GraphQL API v4`。</b>
+- [GitHubExplorer](https://kiinlam.github.io/GitHubExplorer/) - Pure static page webapp for exploring GitHub. Using `Vuejs` and `GitHub GraphQL API v4`.
 - [Keynote](https://github.com/znck/keynote) - Present with Vue.
 - [HappyPlants](https://github.com/morkro/happy-plants) - A progressive web app for organizing your plants 🌱.
 - [Pocket Lists](https://pocketlists.com) - World's friendliest to-do list app.
@@ -1887,7 +1887,7 @@ _Date / datetime / time Picker_
 - [vue-drag-it-dude](https://github.com/Esvalirion/vue-drag-it-dude) - Vue2 component, that allows you to drag object wherever you want.
 - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) - Vue Drag and Drop library without any dependency. Simple and easy to use.
 - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
-- [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan.
+- [vue-tinder](https://github.com/shanlh/vue-tinder) - 拥有自己的 Tinder 和 TanTan。
 - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) - A touch slider for vue.js, support sliding in any direction to switch cards, compatible with PC and mobile.
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board.
 - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
@@ -2053,7 +2053,7 @@ _Display images_
 - [vue-mouse-menu](https://github.com/zgj233/vue-mouse-menu) - A popup menu for vue 2.6+ with support for mobile.
 - [vue-context](https://github.com/rawilk/vue-context) - A simple but flexible context menu for vue js.
 - [vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) - Simple context-menu component built for Vue. Works well with both left and right clicks.
-- [vue-context-menu-popup](https://github.com/Johnathan/vue-context-menu-popup) - Context Menu popup for Vue 2. Works on right click or can be triggered programatically.
+- [vue-context-menu-popup](https://github.com/Johnathan/vue-context-menu-popup) - Vue 2 的上下文菜单弹出窗口。右键单击即可工作，也可以以编程方式触发。
 - [@kiyoaki_w/vue-context](https://github.com/Kiyoaki-w/Ki-vue-context) - A customizable context menu component built for Vue2, supporting fontawesome icons.
 - [@overcoder/vue-context-menu](https://github.com/MicroDroid/vue-context-menu) - Minimal context menus
 
@@ -2198,7 +2198,7 @@ _Set of components + responsive layout system_
 - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
 - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
 - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
-- [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
+- [AT-UI](https://at.aotu.io) - 一个清新扁平的 UI-Kit 专门用于桌面应用程序，由 ♥ by Vue.js 2.0 制作
 - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
 - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.
 - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
@@ -2844,6 +2844,7 @@ _LocalStorage etc._
 - [pinia-undo](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
 - [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 - [pinia-persistedstate](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
+- [pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
 ##### Authentication/Authorization
 
@@ -3141,7 +3142,7 @@ _Integrate with services or other frameworks_
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
 - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
 - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
-- [vue-dummy](https://github.com/paulcollett/vue-dummy) - 占位符文本和虚拟图像作为简单的 `v-dummy` 指令。
+- [vue-dummy](https://github.com/paulcollett/vue-dummy) - Placeholder Text and Dummy Images as a simple `v-dummy` directive.
 - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) - is a component design to develop and test other components, automatically binding their props.
 - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) - A development server for building vue-cli custom templates.

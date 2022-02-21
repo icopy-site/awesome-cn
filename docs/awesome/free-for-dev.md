@@ -166,7 +166,7 @@ Table of Contents
   * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, MATLAB and others.
   * [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
   * [DynaPictures](https://dynapictures.com) - Design automation tool which lets you dynamically generate images over REST API. Change colors, texts, logos and images on the fly. Free plan includes 30 generated images per month and 3 image templates.
-  * [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
+  * [Efemarai](https://efemarai.com) <i>- Testing and debugging platform for ML models and data.</i> <b>- 机器学习模型和数据的测试和调试平台。</b> <i>Visualize any computational graph.</i><b>可视化任何计算图。</b> <i>Free 30 debugging sessions per month for developers.</i><b>每月为开发人员免费提供 30 次调试会话。</b>
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
   * [Export SDK](https://exportsdk.com) - PDF generator API with drag and drop template editor that also provides an SDK and no-code integrations. Free plan comes with 250 pages per month, unlimited users and three templates.
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
@@ -268,7 +268,7 @@ Table of Contents
 ## Tools for Teams and Collaboration
 
   * [3Cols](https://3cols.com/) - A free cloud based code snippet manager for personal and collaborative code.
-  * [Bitwarden](https://bitwarden.com) — 个人、团队和企业组织存储、共享和同步敏感数据的最简单、最安全的方式。
+  * [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
   * [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also it provide self-hostable open-source version.
   * [cally.com](https://cally.com/) — Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
   * [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. Free plan provides 1 Calendar connection per user and Unlimited meetings. Desktop and Mobile apps also provided.
@@ -342,7 +342,7 @@ Table of Contents
   * [DatoCMS](https://www.datocms.com/) - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.
   * [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. No limitations or paywalls.
   * [Forestry.io/](https://forestry.io/) — Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere
-  * [FrontAid](https://frontaid.io/) <i>— Headless CMS that stores JSON content directly in your own Git repository.</i> <b>— 将 JSON 内容直接存储在您自己的 Git 存储库中的无头 CMS。</b> <i>No restrictions.</i><b>无限制。</b>
+  * [FrontAid](https://frontaid.io/) — Headless CMS that stores JSON content directly in your own Git repository. No restrictions.
   * [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.
   * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
   * [Sanity.io](https://www.sanity.io/) - Platform for structured content that comes with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, 3 non-admin users, 2 datasets, 500K API CDN requests, 10GB bandwidth, 5GB assets included for free per project.
@@ -554,7 +554,7 @@ Table of Contents
   * [humio.com](https://www.humio.com/) — Free up to 2 GB/day with 7 days retention
   * [logdna.com](https://logdna.com) - Free for a single user, no retention, unlimited hosts and sources
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
-  * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
+  * [loggly.com](https://www.loggly.com/) — Free for a single user, 200MB/day with 7 days retention
   * [logz.io](https://logz.io/) — Free up to 3 GB/day, 3 days retention
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-log-management) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 1 Month retention.
   * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
@@ -795,7 +795,7 @@ Table of Contents
 ## CDN and Protection
 
   * [Arvan Cloud](https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.). Free plan offers :
-    - CDN with Free SSL. 100 GB Traffic + 1 Million HTTP(S) Requests.
+    <i>- CDN with Free SSL.</i> <b>- 带有免费 SSL 的 CDN。</b> <i>100 GB Traffic + 1 Million HTTP(S) Requests.</i> <b>100 GB 流量 + 100 万个 HTTP(S) 请求。</b>
     - Free Cloud DNS for unlimited domains.
     - Free Cloud Security with Basic DDoS Protection + 5 Firewall Rules.
     - Free VoD (Video On Demand) Platform with 10 GB Storage + 50 GB Traffic.
@@ -1281,7 +1281,7 @@ Table of Contents
    * [Clicky](https://clicky.com) — Website Analytics Platform. Free Plan for 1 website with 3000 views analytics.
    * [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
    * [Deploy With Flags](https://deploywithflags.com) — Feature Flags Service. Free for individual developers managing flags for a single project.
-   * [indicative.com](https://indicative.com/) — Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 50M events/month.
+   * [indicative.com](https://indicative.com/) — Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 25M events/month, 6 months data retention.
    * [Panelbear.com](https://panelbear.com/) — Blazingly fast and private, free tier includes 5,000 pageviews per month for unlimited websites
    * [Hitsteps.com](https://hitsteps.com/) — 2,000 pageviews per month for 1 website
    * [amplitude.com](https://amplitude.com/) — 1 million monthly events, up to 2 apps
