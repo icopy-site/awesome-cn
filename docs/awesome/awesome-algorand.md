@@ -187,6 +187,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
 - [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
+- [GlitterFinance](https://glitter.finance/) - Centralized (soon to be decentralized upon TEAL 6) bridge for Solana, Polygon, Terra and Cudos to Algorand.
 
 ## Oracles
 
@@ -219,6 +220,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
 - [genpyteal](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 - [AgorHash](http://www.agorhash.com/) - Public, permissionless, decentralized and uncensorable free speech protocol.
+- [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 
 ## ARCs
 

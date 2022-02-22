@@ -4,7 +4,7 @@
 
 > A curated list of awesome projects related to eBPF.
 
-<i>BPF, as in _Berkeley Packet Filter_, is an in-kernel virtual machine running programs passed from user space.</i> <b>BPF，就像在_Berkeley Packet Filter_中一样，是一个运行从用户空间传递的程序的内核虚拟机。</b> <i>Initially implemented on BSD, then Linux, the (now legacy) &quot;classic BPF&quot; or cBPF machine would be used with tools like tcpdump for filtering packets in the kernel to avoid useless copies to user space.</i><b>最初在 BSD 上实现，然后是 Linux，（现在是传统的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起用于过滤内核中的数据包以避免对用户空间的无用副本。</b> <i>More recently, the BPF infrastructure in Linux has been completely reworked and gave life to the &quot;extended BPF&quot;, or eBPF, which gained new features (safety and termination checks, JIT-compiling for programs, persistent maps, a standard library, hardware offload support, etc.) and is now used for many tasks.</i><b>最近，Linux 中的 BPF 基础架构已经完全重新设计并赋予“扩展 BPF”或 eBPF 生命，它获得了新特性（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务。</b> <i>Processing packets at a very low level (XDP), tracing and monitoring events on the system, or enforcing access control over cgroups are but a few examples to which eBPF brings performance, programmability and flexibility.</i><b>在非常低的级别（XDP）处理数据包，跟踪和监视系统上的事件，或者对 cgroup 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子。</b>
+<i>BPF, as in _Berkeley Packet Filter_, is an in-kernel virtual machine running programs passed from user space.</i> <b>BPF，就像在_Berkeley Packet Filter_中一样，是一个运行从用户空间传递的程序的内核虚拟机。</b> <i>Initially implemented on BSD, then Linux, the (now legacy) &quot;classic BPF&quot; or cBPF machine would be used with tools like tcpdump for filtering packets in the kernel to avoid useless copies to user space.</i><b>最初在 BSD 上实现，然后在 Linux 上实现，（现在是传统的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起用于过滤内核中的数据包以避免对用户空间的无用副本。</b> <i>More recently, the BPF infrastructure in Linux has been completely reworked and gave life to the &quot;extended BPF&quot;, or eBPF, which gained new features (safety and termination checks, JIT-compiling for programs, persistent maps, a standard library, hardware offload support, etc.) and is now used for many tasks.</i><b>最近，Linux 中的 BPF 基础架构已经完全重新设计并赋予“扩展 BPF”或 eBPF 生命，它获得了新特性（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务。</b> <i>Processing packets at a very low level (XDP), tracing and monitoring events on the system, or enforcing access control over cgroups are but a few examples to which eBPF brings performance, programmability and flexibility.</i><b>在非常低的级别（XDP）处理数据包，跟踪和监视系统上的事件，或者对 cgroup 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子。</b>
 
 Recently [Cilium](https://cilium.io) launched a great website about eBPF called [ebpf.io](https://ebpf.io/). It serves a similar purpose to this list, with [an introduction to eBPF](https://ebpf.io/what-is-ebpf) and links to [related projects](https://ebpf.io/projects).
 
@@ -104,7 +104,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [The eXpress Data Path](https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/) - A very accessible introduction to XDP, providing sample code to show how to process packets.
 - All XDP details in a technical paper: [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper), by Toke Høiland-Jørgensen, Jesper Dangaard Brouer, Daniel Borkmann, John Fastabend, Tom Herbert, David Ahern and David Miller, all being essential eBPF and XDP contributors.
 - [Work-in-progress documentation for XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html)
-- [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - Guide from the Cilium project.
+- [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - Cilium 项目的指南。
 - [XDP Project overview](https://www.iovisor.org/technology/xdp)
 - [eXpress Data Path (XDP)](https://github.com/iovisor/bpf-docs/raw/master/Express_Data_Path.pdf) - The first presentation about XDP.
 - [BoF - What Can BPF Do For You?](https://events.linuxfoundation.org/sites/events/files/slides/iovisor-lc-bof-2016.pdf)
@@ -178,7 +178,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) - Examples coming along with the bcc tools, mostly about tracing.
 - [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
 - [MPLSinIP sample](https://github.com/fzakaria/eBPF-mpls-encap-decap) - A heavily commented sample demonstrating how to encapsulate & decapsulate MPLS within IP. The code is commented for those new to BPF development.
-- [ebpf-samples](https://github.com/vbpf/ebpf-samples) - 从多个项目收集的已编译（作为 ELF 目标文件）样本的集合，主要用作用户空间验证者的测试用例。
+- [ebpf-samples](https://github.com/vbpf/ebpf-samples) - A collection of compiled (as ELF object files) samples gathered from several projects, primarily intended to serve as test cases for user space verifiers.
 - [ebpf-kill-example](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 - [redbpf examples](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
 
@@ -232,6 +232,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 - [rbpf](https://github.com/qmonnet/rbpf) - Written in Rust. Interpreter for Linux, macOS and Windows, and JIT-compiler for x86_64 under Linux.
 - [PREVAIL](https://github.com/vbpf/ebpf-verifier) - A user space verifier for eBPF [using an abstract interpretation layer](https://elazarg.github.io/pldi19main-final.pdf), with support for loops.
 - [oster](https://github.com/grantseltzer/oster) - Written in Go. A tool for tracing execution of Go programs by attaching eBPF to uprobes.
+- [wachy](https://rubrikinc.github.io/wachy/) - A tracing profiler that aims to make eBPF uprobe-based debugging easier to use. This is done by displaying traces in a UI next to the source code and allowing interactive drilldown analysis.
 
 ### Testing in Virtual Environments
 

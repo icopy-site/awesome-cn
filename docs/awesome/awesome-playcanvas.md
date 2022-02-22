@@ -51,7 +51,7 @@
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-- [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - 用于 2D 动画的 PlayCanvas 的 Spine 插件。
+- [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
@@ -75,7 +75,6 @@
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
-- [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
@@ -137,7 +136,7 @@
 - [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - Penalty kick game.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
-- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - 从鲍勃的头顶射出水果。
 
 ## Automotive
 

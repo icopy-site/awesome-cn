@@ -171,7 +171,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [citizen](https://github.com/outsideris/citizen) - Private Terraform Module Registry
 - [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Terraform 注册协议的简单实现。
-- [terraform-registry](https://github.com/philips-labs/terraform-registry) - 提供由 GitHub 版本支持的 terraform 提供者注册表。
+- [terraform-registry](https://github.com/philips-labs/terraform-registry) - 提供由 GitHub 版本支持的 terraform 提供程序注册表。
 
 ## Private Provider Registries
 
@@ -251,7 +251,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [KICS](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
-- [json2hcl](https://github.com/kvz/json2hcl) <i>- Convert JSON to HCL and vice versa.</i> <b>- 将 JSON 转换为 HCL，反之亦然。</b> <i>:ghost:</i> <b>：鬼：</b>
+- [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa. :ghost:
 - [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
 - [para](https://github.com/paraterraform/para) - The missing 3rd-party plugin manager and a "swiss army knife" for Terraform/Terragrunt - just 1 tool to facilitate all workflows. :skull:
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).
@@ -262,7 +262,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [rover](https://github.com/im2nguyen/rover) - Interactive Terraform state and configuration explorer.
 - [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - Simple Ruby wrapper for invoking terraform commands.
 - [scenery](https://github.com/dmlittle/scenery) - Another Terraform plan output prettifier. :ghost:
-- [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
+- [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - 帮助模块开发的简单 Python 工具 - 从 `main.tf` 中提取 vars 以生成 `variables.tf` 并从 `variables.tf` 制作模块使用存根。
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf is an opinionated open-source framework for developing, building, deploying, and securing serverless applications and infrastructures on AWS using Terraform. [Read more](https://github.com/antonbabenko/serverless.tf).
 - [Shisho](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 - [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
@@ -358,6 +358,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - Integrating Terraform with an on-premise bare metal provisioning.
 - [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - Example of using Kitchen-Terraform to test our Terraform code that creates a Google Compute.
 - [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) - How to refactor your Terraform code in a careful way with minimum risk.
+- [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - Complete course from beginner to pro, with no cloud provider focus, with a general approach
 
 ## Editor Plugins
 
