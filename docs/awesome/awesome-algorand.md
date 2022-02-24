@@ -43,6 +43,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
+- [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
 
 ## Portfolio Trackers
 
@@ -167,7 +168,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
 - [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
 - [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
-- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
+- [Otherverse](https://otherverse.io/) - NFT 收藏市场。
 - [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
 - [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
 - [Dahai](https://www.dahai.uk/) - NFT art gallery and marketplace.
@@ -179,6 +180,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
 - [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
 - [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
+- [Pact](https://www.pact.fi/) - Decentralised Automated Market Maker (AMM) built on the Algorand protocol.
 - [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
 - [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 - [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
@@ -227,7 +229,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 > Standards and specs defined in *finalized* ARCs.
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
-- [ARC69](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).
+- [ARC69](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
 
 ## Metrics
 
