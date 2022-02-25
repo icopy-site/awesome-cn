@@ -22,7 +22,9 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 - [liquipediapy](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 - [steam](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
 - [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
-- [SteamID](https://github.com/DoctorMcKay/node-steamid) - A Node.js library for manipulating Steam IDs.
+- SteamID - A library for manipulating Steam IDs.
+  - [Node.js](https://github.com/DoctorMcKay/node-steamid)
+  - [PHP](https://github.com/DoctorMcKay/php-steamid)
 - [SteamUser](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
 - [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
 - [valorant.js](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.

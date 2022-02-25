@@ -7,134 +7,134 @@
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<br>
-	如何从非结构化生物医学数据和文本中提取信息.
+	How to extract information from unstructured biomedical data and text.
 	<br>
 	
 </div>
 
-什么是BioIE？ 它包括从非结构化（或至少不一致结构化）的生物学，临床或其他生物医学数据中提取结构化信息的任何工作. 数据源通常是一些用技术语言编写的文本文档的集合. 如果所得到的信息在各个来源之间都是可验证的并且一致的，那么我们可以考虑_knowledge_. 从生物数据中提取信息并产生知识需要适应针对其他类型的非结构化数据开发的方法.
+What is BioIE? It includes any effort to extract structured information from _unstructured_ (or, at least inconsistently structured) biological, clinical, or other biomedical data. The data source is often some collection of text documents written in technical language. If the resulting information is verifiable and consistent across sources, we may then consider it _knowledge_. Extracting information and producing knowledge from bio data requires adaptations upon methods developed for other types of unstructured data.
 
-此处包含的资源优先是那些无需花钱就能获得的资源，并且对许可证的要求是有限的. 方法和数据集应公开可用并积极维护.
+Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-也可以看看 [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) 和 [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
+See also [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
 
-_请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie/blob/master/contributing.md) 在贡献之前. 请通过筹集资金添加您喜欢的资源 [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
+_Please read the [contribution guidelines](https://github.com/caufieldjh/awesome-bioie/blob/master/contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
 
 ## Research Overviews
 
-* [Biomedical Informatics on the Cloud: A Treasure Hunt for Advancing Cardiovascular Medicine](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.117.310967) -概述如何将BioIE和生物信息学工作流程应用于心血管健康和医学研究中的问题.
-* [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563) -截至2016年9月发表的临床IE论文综述.来自Mayo Clinic小组（请参见下文）.
-* [Literature Based Discovery: Models, methods, and trends](https://www.sciencedirect.com/science/article/pii/S1532046417301909) -回顾基于文学的发现（LBD），或在看似无关的科学文献之间可能找到有意义的联系的哲学. 
-  *有关LBD的一些历史背景，请参阅芝加哥大学的Don Swanson和Neil Smalheiser的论文，包括 [_Undiscovered Public Knowledge_](https://www.jstor.org/stable/4307965) （付费专区）和 [_Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
-* [Mining Electronic Health Records (EHRs): A Survey](https://arxiv.org/abs/1702.03222)  -审查挖掘电子健康记录的方法和理念，包括将其用于不良事件检测. 截至2017年中，相关论文列表见表2.
-* [Capturing the Patient's Perspective: a Review of Advances in Natural Language Processing of Health-Related Text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6250990/)  -2017年对自然语言处理方法的回顾，该方法适用于健康记录和社交媒体文本中的信息提取. 此次审查的重要提示：“该领域的主要挑战之一是可共享的数据的可用性，社区可以使用这些数据来推动基于可比较和可重复研究的方法的开发”.
+* [Biomedical Informatics on the Cloud: A Treasure Hunt for Advancing Cardiovascular Medicine](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.117.310967) - An overview of how BioIE and bioinformatics workflows can be applied to questions in cardiovascular health and medicine research.
+* [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563) - A review of clinical IE papers published as of September 2016. From Mayo Clinic group (see below).
+* [Literature Based Discovery: Models, methods, and trends](https://www.sciencedirect.com/science/article/pii/S1532046417301909) - A review of Literature Based Discovery (LBD), or the philosophy that meaningful connections may be found between seemingly unrelated scientific literature. 
+  * For some historical context on LBD, see papers by University of Chicago's Don Swanson and Neil Smalheiser, including [_Undiscovered Public Knowledge_](https://www.jstor.org/stable/4307965) (paywalled) and [_Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
+* [Mining Electronic Health Records (EHRs): A Survey](https://arxiv.org/abs/1702.03222) - A review of the methods and philosophy behind mining electronic health records, including using them for adverse event detection. See Table 2 for a list of relevant papers as of mid-2017.
+* [Capturing the Patient's Perspective: a Review of Advances in Natural Language Processing of Health-Related Text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6250990/) - A 2017 review of natural language processing methods applied to information extraction in health records and social media text. An important note from this review: "One of the main challenges in the field is the availability of data that can be shared and which can be used by the community to push the development of methods based on comparable and reproducible studies".
 
 
 ## Groups Active in the Field
 
-* [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) -由曾在Mayo Clinic和Apache cTAKES项目中的Guergana Savova博士领导.
-* [BD2K](https://commonfund.nih.gov/bd2k) -美国国立卫生研究院（NIH）通过大数据到知识（BD2K）计划资助了13个卓越中心，其中几个开发了BioIE的工具和资源.
-  * [HeartBD2K](http://www.heartbd2k.org/)  -总部位于加利福尼亚大学洛杉矶分校（UCLA）. 由裴培培博士领导.
-  * [KnowEng](https://knoweng.org/about/people/)  -设在伊利诺伊大学香槟分校（UIUC）. 韩佳伟博士领导.
-  * [Mobilize](http://mobilize.stanford.edu/)  -设在斯坦福. 由Scott Delp博士领导.
-* [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) -总部设在布朗大学，由尼尔·萨卡（Neil Sarkar）博士领导，其研究小组致力于临床NLP和IE的主题.
-* [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) -总部设在丹佛的科罗拉多大学，由拉里·亨特（Larry Hunter）领导- [see their GitHub repos here.](https://github.com/UCDenver-ccp)
-*美国国立卫生研究院（NIH）/国立医学图书馆（NLM）的小组：
+* [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
+* [BD2K](https://commonfund.nih.gov/bd2k) - The U.S. National Institutes of Health (NIH) funded 13 Centers of Excellence through their Big Data to Knowledge (BD2K) program, several of which developed tools and resources for BioIE.
+  * [HeartBD2K](http://www.heartbd2k.org/) - Based at University of California, Los Angeles (UCLA). Led by Dr. Peipei Ping.
+  * [KnowEng](https://knoweng.org/about/people/) - Based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
+  * [Mobilize](http://mobilize.stanford.edu/) - Based at Stanford. Led by Dr. Scott Delp.
+* [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - Based at Brown University and directed by Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
+* [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver and led by Larry Hunter - [see their GitHub repos here.](https://github.com/UCDenver-ccp)
+* Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
   * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
-  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) -由陆志勇博士领导，对生物医学文献的搜索和管理进行改进（例如，通过PubMed）.
-* [JensenLab](https://jensenlab.org/) -设在丹麦哥本哈根大学的诺和诺德蛋白质研究基金会中心. 
-* [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) -NaCTeM总部位于曼彻斯特大学，由Sophia Ananiadou教授领导，通常关注文本挖掘，但特别关注生物医学应用.
-* [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) -在过去20年中，Mayo Clinic的几个小组对BioIE（例如Apache cTAKES平台）做出了重大贡献.
-* [Monarch Initiative](https://monarchinitiative.org/) -俄勒冈州立大学，俄勒冈健康与科学大学，劳伦斯·伯克利国家实验室，杰克逊实验室以及其他几家研究机构之间的共同努力，力求“利用语义整合生物学信息，并以新颖的方式利用表型将其呈现出来.弥合知识鸿沟”.
-* [TurkuNLP](https://turkunlp.org/) -总部位于图尔库大学，主要关注NLP，重点是BioNLP和临床应用.
-* [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) -总部设在德克萨斯州休斯敦大学健康科学中心的生物医学信息学学院，由徐华博士领导.
-* [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) -总部位于弗吉尼亚联邦大学，由布里奇特·麦金尼斯（Bridget McInnes）博士领导.
-* [Zaklab](http://zaklab.org) -哈佛医学院生物医学信息学系的Isaac Kohane博士领导的小组（Kohane博士还是n2c2（以前称为i2b2）数据集的管理者-请参见 [Datasets](#datasets) 以下）.
-* [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/)  -由博士领导.  George Hripcsak和NoémieElhadad.
+  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - Develops improvements to biomedical literature search and curation (e.g., through PubMed), led by Dr. Zhiyong Lu.
+* [JensenLab](https://jensenlab.org/) - Based at the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen, Denmark. 
+* [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - Based at the University of Manchester and led by Prof. Sophia Ananiadou, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications.
+* [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE (for example, the Apache cTAKES platform) over the past 20 years.
+* [Monarch Initiative](https://monarchinitiative.org/) - A joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others, seeking to "integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
+* [TurkuNLP](https://turkunlp.org/) - Based at the University of Turku and concerned with NLP in general with a focus on BioNLP and clinical applications.
+* [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - Based in the University of Texas Health Science Center at Houston, School of Biomedical Informatics and led by Dr. Hua Xu.
+* [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - Based at Virginia Commonwealth University and led by Dr. Bridget McInnes.
+* [Zaklab](http://zaklab.org) - Group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics (Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below).
+* [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) - Led by Drs. George Hripcsak and Noémie Elhadad.
 
 
 ## Organizations
 
-* [AMIA](https://www.amia.org/)  -研究生物医学信息学的许多人（当然不是全部）是美国医学信息学协会的成员.  AMIA出版了期刊《 JAMIA》（见下文）.
-* [IMIA](https://imia-medinfo.org/)  -国际医学信息学协会. 出版《 IMIA医学信息学年鉴》.
+* [AMIA](https://www.amia.org/) - Many—but certainly not all—individuals studying biomedical informatics are members of the American Medical Informatics Association. AMIA publishes a journal, JAMIA (see below).
+* [IMIA](https://imia-medinfo.org/) - The International Medical Informatics Association. Publishes the IMIA Yearbook of Medical Informatics.
 
 
 ## Journals and Events
 
- BioIE的跨学科性质意味着该领域的研究人员可以通过多种方式共享他们的发现和工具. 他们可能会在期刊上发表论文，这在生物医学和生命科学中很常见. 他们可以发表会议论文，并在接受后在活动中发表海报和/或口头陈述； 这是计算机科学和工程领域的普遍做法. 会议论文经常发表在论文集中. 预印本出版也是一种越来越流行且得到机构认可的方式来发布调查结果. 这些正式的书面产品周围是 [open science](https://en.wikipedia.org/wiki/Open_science)，开放数据和开放源代码：BioIE研究人员开发的代码，数据和软件是社区的宝贵资源.
+The interdisciplinary nature of BioIE means researchers in this space may share their findings and tools in a variety of ways. They may publish papers in journals, as is common in the biomedical and life sciences. They may publish conference papers and, upon acceptance, give a poster and/or oral presentation at an event; this is common practice in computer science and engineering fields. Conference papers are often published in collections of proceedings. Preprint publication is an increasingly popular and institutionally-accepted way to publish findings as well. Surrounding these formal, written products are the ideas of [open science](https://en.wikipedia.org/wiki/Open_science), open data, and open source: the code, data, and software BioIE researchers develop are valuable resources to the community.
 
 ### Journals
 
-对于预印本，请尝试 [arXiv](https://arxiv.org)，尤其是主题计算和语言（cs.CL）和信息检索（cs.IR）； [bioRxiv](https://www.biorxiv.org/) ; 或者 [medRxiv](https://www.medrxiv.org/)，尤其是“健康信息学”主题领域.
+For preprints, try [arXiv](https://arxiv.org), especially the subjects Computation and Language (cs.CL) and Information Retrieval (cs.IR); [bioRxiv](https://www.biorxiv.org/); or [medRxiv](https://www.medrxiv.org/), especially the Health Informatics subject area.
 
-* [Database](https://academic.oup.com/database)  -其副标题为“生物数据库与治疗杂志”. 开放存取.
-* [NAR](https://academic.oup.com/nar)  -核酸研究. 具有广泛的生物分子焦点，但其年度数据库问题尤为突出.
-* [JAMIA](https://academic.oup.com/jamia)  -美国医学信息学协会杂志. 关注“在临床护理，临床研究，转化科学，实施科学，影像学，教育，消费者健康，公共卫生和政策领域的文章”.
-* [JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)  -生物医学信息学杂志. 尽管它具有开放访问的“ X”版本，但默认情况下不是开放访问.
-* [Scientific Data](https://www.nature.com/sdata/) -公开获取的Springer Nature期刊，出版了“具有科学价值的数据集的描述以及促进科学数据共享和重用的研究”.
+* [Database](https://academic.oup.com/database) - Its subtitle is "The Journal of Biological Databases and Curation". Open access.
+* [NAR](https://academic.oup.com/nar) - Nucleic Acids Research. Has a broad biomolecular focus but is particularly notable for its annual database issue.
+* [JAMIA](https://academic.oup.com/jamia) - The Journal of the American Medical Informatics Association. Concerns "articles in the areas of clinical care, clinical research, translational science, implementation science, imaging, education, consumer health, public health, and policy".
+* [JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) <i>- The Journal of Biomedical Informatics.</i> <b>- 生物医学信息学杂志。</b> <i>Not open access by default, though it does have an open-access &quot;X&quot; version.</i><b>默认情况下不开放访问，尽管它确实有一个开放访问“X”版本。</b>
+* [Scientific Data](https://www.nature.com/sdata/) - An open-access Springer Nature journal publishing "descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data".
 
 ### Conferences and Other Events
 
-* [ACM-BCB](http://acm-bcb.org/)  -ACM生物信息学，计算生物学和健康信息学会议. 自2010年以来每年举行一次.
-* [BIBM](http://ieeebibm.org/BIBM2019/) -IEEE国际生物信息学和生物医学会议.
-* [PSB](https://psb.stanford.edu/) -太平洋生物计算专题讨论会.
+* [ACM-BCB](http://acm-bcb.org/) - The ACM Conference on Bioinformatics, Computational Biology, and Health Informatics. Held annually since 2010.
+* [BIBM](http://ieeebibm.org/BIBM2019/) - The IEEE International Conference on Bioinformatics and Biomedicine.
+* [PSB](https://psb.stanford.edu/) - The Pacific Symposium on Biocomputing.
 
 ### Challenges
 
-BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根据给定的数据集开发自己的计算解决方案.
+Some events in BioIE are organized around formal tasks and challenges in which groups develop their own computational solutions, given a dataset.
 
-* [BioASQ](http://bioasq.org/)  -生物医学语义索引和问题解答方面的挑战. 自2013年以来，每年举行一次挑战赛和讲习班.
-* [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) -这些工作坊自2004年起举办，BioCreative VI于2017年2月举行， [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) 于2018年举行.请参阅 [Datasets](#datasets) 以下. 
-* [SemEval workshop](http://alt.qcri.org/semeval2020/)  -计算语义分析中的任务和评估. 任务因年份而异，但通常涵盖科学和/或生物医学语言，例如 [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
-* [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/)  -鼓励“开发自动从以西班牙语编写的eHealth文档中提取大量知识的软件技术”面临的挑战. 以前作为 [TASS](http://www.sepln.org/workshops/tass/)，这是一年一度的西班牙语语义分析研讨会.
+* [BioASQ](http://bioasq.org/) - Challenges on biomedical semantic indexing and question answering. Challenges and workshops held annually since 2013.
+* [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) - These workshops have been organized since 2004, with  BioCreative VI happening February 2017 and the [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) held in 2018. See [Datasets](#datasets) below. 
+* [SemEval workshop](http://alt.qcri.org/semeval2020/) - Tasks and evaluations in computational semantic analysis. Tasks vary by year but frequently cover scientific and/or biomedical language, e.g. the [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
+* [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/) - Challenges for encouraging "development of software technologies to automatically extract a large variety of knowledge from eHealth documents written in the Spanish Language". Previously held as part of [TASS](http://www.sepln.org/workshops/tass/), an annual workshop for semantic analysis in Spanish.
 
 
 ## Tutorials
 
-领域变化很快，以至于任何超过几年的教程都缺少关键的细节. 下面列出了一些近期的教育资源. 对文本挖掘技术有良好的基础知识非常有帮助，Python和/或R语言的一些基本经验也很有帮助. 从开始 [NLTK tutorials](https://www.nltk.org/book/) 然后尝试 [Flair framework](https://github.com/zalandoresearch/flair) 将以Python提供自然语言处理，文本挖掘和现代机器学习驱动方法的出色示例. 但是，大多数示例都不包含任何生物医学内容，因此最好的选择可能是边做边学.
+The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. Starting with the [NLTK tutorials](https://www.nltk.org/book/) and then trying out the tutorials for the [Flair framework](https://github.com/zalandoresearch/flair) will provide excellent examples of natural language processing, text mining, and modern machine learning-driven methods, all in Python. Most of the examples don't include anything biomedical, however, so the best option may be to learn by doing.
 
 ### Guides
 
-* [Getting Started in Text Mining](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040020)  -来自Cohen和Hunter的生物文本挖掘的简要介绍. 已有十多年的历史了，但仍然很有意义. 另请参阅 [earlier paper by the same authors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/).
-* [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) -2014年以来（非免费）的《分子生物学方法》卷.各章介绍了文本挖掘的入门原则，生物科学中的应用以及在临床或医学安全场景中的应用潜力. 
+* [Getting Started in Text Mining](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040020) - A brief introduction to bio-text mining from Cohen and Hunter. More than ten years old but still quite relevant. See also an [earlier paper by the same authors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/).
+* [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) - A (non-free) volume of Methods in Molecular Biology from 2014. Chapters covers introductory principles in text mining, applications in the biological sciences, and potential for use in clinical or medical safety scenarios. 
 
 ### Video Lectures and Online Courses
 
-* [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data)  -大约三个小时的视频讲座，内容涉及处理各种类型和结构的医疗数据，包括文本和图像数据. 外观相当高级，适合初学者.
+* [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 * [JensenLab text mining exercises](https://jensenlab.org/training/textmining/)
-* [VIB text mining and curation training](https://www.bits.vib.be/training-list/111-bits/training/previous-trainings/183-text-mining) -该培训讲习班于2013年举行，但幻灯片仍在线.
+* [VIB text mining and curation training](https://www.bits.vib.be/training-list/111-bits/training/previous-trainings/183-text-mining) - This training workshop happenened in 2013 but the slides are still online.
 
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -Python工具主要用于生物信息学和计算分子生物学目的，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) - A framework for biomedical coreference resolution.
-* [medaCy](https://github.com/NLPatVCU/medaCy)  -用于建立预测医学自然语言处理模型的系统. 建立在 [spaCy](https://spacy.io/) 框架. 
-* [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) -版本 [spaCy](https://spacy.io/) 科学和生物医学文献的框架.
-* [rentrez](https://github.com/ropensci/rentrez) -用于访问NCBI资源（包括PubMed）的R实用程序.
-* [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) -用于与药物相关概念进行NER的Python软件包和模型（用于spaCy）.
+* [medaCy](https://github.com/NLPatVCU/medaCy) - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) 框架。 
+* [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
+* [rentrez](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
+* [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code)  -与MIMIC-III数据集关联的代码（请参见下文）. 包括一些有用 [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials).
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials).
 
 
 ## Tools, Platforms, and Services
 
-* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes)  -用于处理电子病历中文本的系统. 广泛使用和开源. 
-* [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212)  -旨在与临床报告中的文本配合使用的自然语言处理工具包. 看看他们 [live demo](https://clamp.uth.edu/clampdemo.php) 首先看看它的作用. 免费用于学术研究.
-* [DeepPhe](https://github.com/DeepPhe/DeepPhe-Release)  -用于处理描述癌症表现的文档的系统. 基于cTAKES（请参见上文）.
-* [DNorm](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/dnorm/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810844/)  -一种用于疾病标准化的方法，即将疾病名称和缩写的提及链接到唯一的概念标识符. 可下载的版本包括NCBI疾病语料库和BC5CDR（请参见下面的带注释的文本数据）.
-* [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727)  -一个网络平台，可识别PubMed文章和PubMed Central全文中的五种不同类型的生物医学概念. 完整的注释集可下载（请参阅 [Annotated Text Data](#annotated-text-data) 以下）.
-* [Pubrunner](https://github.com/jakelever/pubrunner) -一个框架，用于在PubMed的最新文档集上运行文本挖掘工具.
-* [SemEHR](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/)  -用于电子病历（EHR）的IE基础结构. 建立在 [CogStack project](https://github.com/CogStack).
-* [TaggerOne](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/taggerone/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018376/)  -执行概念归一化（另请参见上面的DNorm）. 可以接受针对特定概念类型的培训，并且可以独立于其他归一化功能执行NER.
-* [TabInOut](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) -文献表中的IE框架.
+* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) - A system for processing the text in electronic medical records. Widely used and open source. 
+* [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - A natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.
+* [DeepPhe](https://github.com/DeepPhe/DeepPhe-Release) - A system for processing documents describing cancer presentations. Based on cTAKES (see above).
+* [DNorm](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/dnorm/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810844/) - A method for disease normalization, i.e., linking mentions of disease names and acronyms to unique concept identifiers. Downloadable version includes the NCBI Disease Corpus and BC5CDR (see Annotated Text Data below).
+* [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - A web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
+* [Pubrunner](https://github.com/jakelever/pubrunner) - A framework for running text mining tools on the newest set(s) of documents from PubMed.
+* [SemEHR](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
+* [TaggerOne](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/taggerone/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018376/) - Performs concept normalization (see also DNorm above). Can be trained for specific concept types and can perform NER independent of other normalization functions.
+* [TabInOut](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
 
 ### Annotation Tools
 
-* [Anafora](https://github.com/weitechen/anafora) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) -具有裁决和进度跟踪功能的注释工具.
+* [Anafora](https://github.com/weitechen/anafora) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - An annotation tool with adjudication and progress tracking features.
 * [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [_stav_ tool](https://github.com/nlplab/stav/). 
 
 
@@ -142,92 +142,92 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 
 ### Text Embeddings
 
-[This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) 演示了在生物医学或临床文本上受过训练的文本嵌入如何能够（但并非总是）在生物医学自然语言处理任务上表现更好. 话虽如此，预训练的嵌入可能适合您的需求，特别是因为训练特定于领域的嵌入可能需要大量计算.
+[This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
 
 ### Word Embeddings
 
-* [BioASQword2vec](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts) - [paper](http://bioasq.lip6.fr/info/BioASQword2vec/) -使用流行的生物医学文本（&gt; 1000万篇PubMed摘要）衍生的Qord嵌入 [word2vec](https://code.google.com/archive/p/word2vec/) 工具.
-* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) -从生物医学文本（&gt; 2700万篇PubMed标题和摘要）衍生的词嵌入，包括基于MeSH的子词嵌入模型.
+* [BioASQword2vec](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts) - [paper](http://bioasq.lip6.fr/info/BioASQword2vec/) - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular [word2vec](https://code.google.com/archive/p/word2vec/) 工具。
+* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
 
 ### Language Models
 
-* [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) -的PubMed和PubMed中央培训版 [BERT language model](https://arxiv.org/abs/1810.04805).
- * ClinicalBERT-在临床文本上训练的两种语言模型具有相似的名称. 两者都是在来自MIMIC-III数据集的临床笔记文本上训练的BERT模型.
+* [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
+* ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
   * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
   * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519)  -通过Flair框架和嵌入方法可用的语言模型. 到2015年为止，对5％的PubMed摘要样本进行了培训，或者总共训练了超过120万个摘要.
-* [SciBERT](https://github.com/allenai/scibert) - [paper](https://arxiv.org/abs/1903.10676) -在来自语义学者数据库的&gt; 1M论文中训练的BERT模型.
-* [BlueBERT](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) -在PubMed文本和MIMIC-III注释上进行了预训练的BERT模型.
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+* [SciBERT](https://github.com/allenai/scibert) - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
+* [BlueBERT](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - A BERT model trained from scratch on PubMed, with versions trained on abstracts+full texts and on abstracts alone.
 
 
 ## Datasets
 
-下面列出的一些数据集需要一个 [UMLS Terminology Services (UTS) account](https://www.nlm.nih.gov/databases/umls.html#license_request) 访问. 请注意，通过UTS帐户授予的许可要求用户提交有关其UMLS资源使用情况的年度报告. 这没有听起来那么具有挑战性.
+Some of the datasets listed below require a [UMLS Terminology Services (UTS) account](https://www.nlm.nih.gov/databases/umls.html#license_request) to access. Please note that the license granted with the UTS account requires users to submit an annual report about their use of UMLS resources. This is less challenging than it sounds.
 
 ### Biomedical Text Sources
 
-以下资源包含生物医学科学中的索引文本文件.
-* [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557)  -1987年至1991年之间的348,566条MEDLINE条目（标题有时有时是摘要）.包括MeSH标签. 主要具有历史意义.
-* [PubMed Central Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)  -一组PubMed Central文章，可根据传统版权以外的许可使用，尽管确切的许可因出版物和来源而异. 文章以PDF和XML的形式提供.
-* [CORD-19](https://pages.semanticscholar.org/coronavirus-research)  -有关COVID-19的学术手稿集. 文章主要来自PubMed Central和预印服务器，尽管该文章集还包含纸上的元数据，但没有全文本.
+The following resources contain indexed text documents in the biomedical sciences.
+* [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557) - 348,566 MEDLINE entries (title and sometimes abstract) from between 1987 and 1991. Includes MeSH labels. Primarily of historical significance.
+* [PubMed Central Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/) - A set of PubMed Central articles usable under licenses other than traditional copyright, though the exact licenses vary by publication and source. Articles are available as PDF and XML.
+* [CORD-19](https://pages.semanticscholar.org/coronavirus-research) - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
 
 ### Annotated Text Data
 
-* [SPL-ADR-200db](https://bionlp.nlm.nih.gov/tac2017adversereactions/) - [paper](https://www.nature.com/articles/sdata20181) -包含标准化信息和文本注释的试验性数据集，涉及200种FDA批准的药物的约5,000种已知不良反应.
-* [BioCreAtIvE 1](https://sourceforge.net/projects/biocreative/files/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S1)  -注释15,000个句子（10,000个培训和5,000个测试）以说明蛋白质和基因名称.  1,000篇全文的生物医学研究文章，标注了蛋白质名称和Gene Ontology术语.
-* [BioCreAtIvE 2](https://sourceforge.net/projects/biocreative/files/) - [paper](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-s2-s1)  -标注蛋白质和基因名称的15,000个句子（10,000个训练和5,000个测试，与第一个语料不同）.  542个链接到EntrezGene标识符的摘要. 各种研究文章都注有蛋白质与蛋白质相互作用的特征.
-* [BioCreAtIvE V CDR Task Corpus (BC5CDR)](https://biocreative.bioinformatics.udel.edu/accounts/login/?next=/resources/corpora/biocreative-v-cdr-corpus/) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414)  -2014年或以后发表的1,500篇文章（标题和摘要）被注释了4,409种化学物质，5,818种疾病和3116种化学-疾病相互作用. 需要注册.
-* [BioCreative VI CHEMPROT Corpus](https://biocreative.bioinformatics.udel.edu/resources/corpora/chemprot-corpus-biocreative-vi/#chemprot-corpus-biocreative-vi:downloads) - [paper](https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf)  -&gt; 2,400篇文章，注明了多种关系类型的化学-蛋白质相互作用. 需要注册.
-* [CRAFT](https://github.com/UCDenver-ccp/CRAFT) - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53)  -67篇全文的生物医学文章，以各种方式进行注释，包括概念和共同引用. 现在是版本3.
-* [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/)  -哈佛医学院的生物医学信息学系（DBMI）管理着自2006年以来一直在运行的国家NLP临床挑战和整合生物学信息学以及床边挑战的数据.在访问和使用它们之前，需要进行注册. 数据集包括各种主题. 见 [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) 用于个人说明.
-* [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) - [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974) -793种生物医学摘要的语料库，标有疾病名称和MeSH和 [OMIM](https://omim.org/).
-* [PubTator Central datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727)  -可通过RESTful API或FTP下载进行访问. 包括对超过2900万份摘要和300万份全文文档的注释.
-* [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223)  -203个歧义词和37,888个自动提取的词在生物医学研究出版物中的使用实例. 需要UTS帐户.
-* [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) -也称为CQC或爱荷华州收藏，这些是医师在办公室就诊时提出的数千个问题以及相关的答案.
-* [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/)  -来自六个共享任务的数据，尽管其中一些可能不容易获得； 尝试使用CG任务集（BioNLP2013CG）获得广泛的实体和事件注释.
-* [BioScope](https://rgai.inf.u-szeged.hu/node/105) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/) -来自医学和生物学文献的句子的语料库，注明否定，推测和语言范围.
+* [SPL-ADR-200db](https://bionlp.nlm.nih.gov/tac2017adversereactions/) - [paper](https://www.nature.com/articles/sdata20181) - A pilot dataset containing standardised information, and annotations of occurence in text, about ~5,000 known adverse reactions for 200 FDA-approved drugs.
+* [BioCreAtIvE 1](https://sourceforge.net/projects/biocreative/files/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S1) - 15,000 sentences (10,000 training and 5,000 test) annotated for protein and gene names. 1,000 full text biomedical research articles annotated with protein names and Gene Ontology terms.
+* [BioCreAtIvE 2](https://sourceforge.net/projects/biocreative/files/) - [paper](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-s2-s1) - 15,000 sentences (10,000 training and 5,000 test, different from the first corpus) annotated for protein and gene names. 542 abstracts linked to EntrezGene identifiers. A variety of research articles annotated for features of protein–protein interactions.
+* [BioCreAtIvE V CDR Task Corpus (BC5CDR)](https://biocreative.bioinformatics.udel.edu/accounts/login/?next=/resources/corpora/biocreative-v-cdr-corpus/) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414) - 1,500 articles (title and abstract) published in 2014 or later, annotated for 4,409 chemicals, 5,818 diseases and 3116 chemical–disease interactions. Requires registration.
+* [BioCreative VI CHEMPROT Corpus](https://biocreative.bioinformatics.udel.edu/resources/corpora/chemprot-corpus-biocreative-vi/#chemprot-corpus-biocreative-vi:downloads) - [paper](https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf) - >2,400 articles annotated with chemical-protein interactions of a variety of relation types. Requires registration.
+* [CRAFT](https://github.com/UCDenver-ccp/CRAFT) - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53) - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.
+* [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) - The Department of Biomedical Informatics (DBMI) at Harvard Medical School manages data for the National NLP Clinical Challenges and the Informatics for Integrating Biology and the Bedside challenges running since 2006. They require registration before access and use. Datasets include a variety of topics. See the [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) for individual descriptions.
+* [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) - [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974) - A corpus of 793 biomedical abstracts annotated with names of diseases and related concepts from MeSH and [OMIM](https://omim.org/).
+* [PubTator Central datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - Accessible through a RESTful API or FTP download. Includes annotations for >29 million abstracts and ∼3 million full text documents.
+* [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223) - 203 ambiguous words and 37,888 automatically extracted instances of their use in biomedical research publications. Requires UTS account.
+* [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) - also known as CQC or the Iowa collection, these are several thousand questions posed by physicians during office visits along with the associated answers.
+* [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/) - data from six shared tasks, though some may not be easily accessible; try the CG task set (BioNLP2013CG) for extensive entity and event annotations.
+* [BioScope](https://rgai.inf.u-szeged.hu/node/105) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/) - a corpus of sentences from medical and biological documents, annotated for negation, speculation, and linguistic scope.
 
 ### Protein-protein Interaction Annotated Corpora
-蛋白质间相互作用简称为PPI. 以下几组可用 [BioC format](http://bioc.sourceforge.net/) . 较旧的设置（AIMed，BioInfer，HPRD50，IEPA和LLL）由以下公司提供： [WBI corpora repository](http://corpora.informatik.hu-berlin.de) 最初是由 [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
+Protein-protein interactions are abbreviated as PPI. The following sets are available in [BioC format](http://bioc.sourceforge.net/). The older sets (AIMed, BioInfer, HPRD50, IEPA, and LLL) are available courtesy of the [WBI corpora repository](http://corpora.informatik.hu-berlin.de) and were originally derived from the original sets by a [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
 
-* [AIMed](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/aimed_bioc.xml.zip) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/15811782) -225条MEDLINE摘要为PPI注释.
-* [BioC-BioGRID](http://bioc.sourceforge.net/BioC-BioGRID.html) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw147/2884890)  -120篇全文文章，注明PPI和遗传相互作用. 在BioCreative V BioC任务中使用.
-* [BioInfer](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/bioinfer_bioc.xml.zip) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-50) -来自生物医学研究摘要的1,100句注释了关系（包括PPI），命名实体和句法依存关系. [Additional information and download links are here.](http://mars.cs.utu.fi/BioInfer/)
-* [HPRD50](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/hprd50_bioc.xml.zip) - [paper](https://academic.oup.com/bioinformatics/article/23/3/365/236564) -人类蛋白质参考数据库引用的50篇科学摘要，标注了PPI.
-* [IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) - [paper](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) -来自生物医学研究摘要的486句注释了共生化学物质对，包括蛋白质（因此，带有PPI注释）.
-* [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) -关于枯草芽孢杆菌细菌的研究文章中的77个句子，注释了蛋白质与基因的相互作用（因此，与PPI注释相当接近）. [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
+* [AIMed](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/aimed_bioc.xml.zip) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/15811782) - 225 MEDLINE abstracts annotated for PPI.
+* [BioC-BioGRID](http://bioc.sourceforge.net/BioC-BioGRID.html) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw147/2884890) - 120 full text articles annotated for PPI and genetic interactions. Used in the BioCreative V BioC task.
+* [BioInfer](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/bioinfer_bioc.xml.zip) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-50) - 1,100 sentences from biomedical research abstracts annotated for relationships (including PPI), named entities, and syntactic dependencies. [Additional information and download links are here.](http://mars.cs.utu.fi/BioInfer/)
+* [HPRD50](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/hprd50_bioc.xml.zip) - [paper](https://academic.oup.com/bioinformatics/article/23/3/365/236564) - 人类蛋白质参考数据库引用的 50 篇科学摘要，为 PPI 注释。
+* [IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) - [paper](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) - 486 sentences from biomedical research abstracts annotated for pairs of co-occurring chemicals, including proteins (hence, PPI annotations).
+* [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) - 77 sentences from research articles about the bacterium _Bacillus subtilis_, annotated for protein–gene interactions (so, fairly close to PPI annotations). [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
 
 ### Other Datasets
 
-* [Columbia Open Health Data](http://cohd.io) - [paper](https://www.nature.com/articles/sdata2018273)  -从电子健康记录中提取的疾病，药物，程序和患者人口统计信息的患病率和共现频率的数据库. 不包括原始记录文本.
-* [Comparative Toxicogenomics Database](https://ctdbase.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323936/)  -化学，基因产物，表型，疾病和环境暴露之间的人工策划关联数据库. 可用于组装相关概念的本体，例如化学物质的类型.
-* [MIMIC-III](https://mimic.physionet.org/) - [paper](https://www.nature.com/articles/sdata201635)  -来自约60,000个重症监护病房入院的不确定健康数据. 需要完成在线培训课程（CITI培训）并在使用前接受数据使用协议.
-* [MIMIC-IV](https://mimic-iv.mit.edu/) -MIMIC-III的多模式患者数据的更新，现在涵盖了最近几年的入院情况，以及新的数据结构，急诊科记录以及指向MIMIC-CXR图像的链接.
-* [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178)  -来自20万人次重症监护病房入院的观察结果数据库，结构一致. 需要注册，培训课程完成和数据使用协议.
+* [Columbia Open Health Data](http://cohd.io) - [paper](https://www.nature.com/articles/sdata2018273) - A database of prevalence and co-occurrence frequencies of conditions, drugs, procedures, and patient demographics extracted from electronic health records. Does not include original record text.
+* [Comparative Toxicogenomics Database](https://ctdbase.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323936/) - A database of manually curated associations between chemicals, gene products, phenotypes, diseases, and environmental exposures. Useful for assembling ontologies of the related concepts, such as types of chemicals.
+* [MIMIC-III](https://mimic.physionet.org/) - [paper](https://www.nature.com/articles/sdata201635) - Deidentified health data from ~60,000 intensive care unit admissions. Requires completion of an online training course (CITI training) and acceptance of a data use agreement prior to use.
+* [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
+* [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
 
 ## Ontologies and Controlled Vocabularies
 
-* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/)  -人类疾病的本体论. 具有与MeSH，ICD，NCI词库，SNOMED和OMIM的交叉链接. 公共区域. 适用于 [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) 并在 [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
-* [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170)  -临床药物和药品包装的标准化名称，包括成分，强度和形式的组合，以及语义网络中分配的类型（请参见下文）. 每月发布.
-* [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/)  -包含许多生物医学术语的通用英语词典. 自1994年以来每年进行更新，到2019年仍进行更新.UMLS的一部分，但不需要下载UTS帐户.
-* [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/)  -超过380万个概念，1400万个概念名称以及200多种生物医学词汇和标识符来源之间的映射. 好大这可能有助于准备带有以下内容的Metathesaurus的子集： [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) 但我们仍在谈论2019年版本所需的〜30 Gb磁盘空间. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/) . 需要UTS帐户.
-* [UMLS Semantic Network](https://semanticnetwork.nlm.nih.gov/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447396/)  -涵盖生物医学概念和词汇的133种语义类型和54种语义关系的列表.  Metathesaurus是否太复杂，无法满足您的需求？ 尝试这个. 不需要UTS帐户下载.
+* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
+* [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
+* [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - A general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
+* [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about ~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
+* [UMLS Semantic Network](https://semanticnetwork.nlm.nih.gov/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447396/) - Lists of 133 semantic types and 54 semantic relationships covering biomedical concepts and vocabulary. Is the Metathesaurus too complex for your needs? Try this. Does not require UTS account to download.
 
 
 ## Data Models
 
-你需要一个 [data model](https://en.wikipedia.org/wiki/Data_model) ？ 如果您正在使用生物医学数据，那么答案可能是“是”.
+Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
-* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model)  -生物实体的数据模型. 提供为 [YAML](https://yaml.org/) 文件.
-* [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754)  -用于生物医学数据分析，集成和可视化的体系结构. 概念上基于视觉建模语言 [UML](https://www.uml.org/what-is-uml.htm).
-* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) -观察性医疗数据的标准.
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+* [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
+* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) - a standard for observational healthcare data.
 
 
 ## Credits
 
-[Credits](https://github.com/caufieldjh/awesome-bioie/blob/master/./CREDITS.md) 用于策展人和资源.
+[Credits](https://github.com/caufieldjh/awesome-bioie/blob/master/./CREDITS.md) for curators and sources.
 
 ## License
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
