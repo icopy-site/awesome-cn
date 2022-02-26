@@ -158,6 +158,7 @@
 - [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
+- [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - Backpack configurator.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
