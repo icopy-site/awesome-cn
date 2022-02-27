@@ -67,6 +67,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [surfer](https://github.com/zzy/surfer) - A blog built on yew + graphql, with [live demo site](https://gaiding.com). Backend for graphql services, and frontend for web application.
 - [qubit](https://abhimanyu003.github.io/qubit) - A handy calculator, based on Rust and WebAssembly, [Live Demo](https://abhimanyu003.github.io/qubit/).
 - [Paudle](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
+- [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
 
 ## Templates
 
@@ -160,6 +161,8 @@ Yew team love to share ideas with other projects and believe we can all help eac
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron is an HTML web framework for building web-apps.
 - [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 - [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+- [Sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ## Related lists
 

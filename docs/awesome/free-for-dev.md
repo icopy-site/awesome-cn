@@ -166,7 +166,7 @@ Table of Contents
   * [dominodatalab.com](https://www.dominodatalab.com) — Data science with support for Python, R, Spark, Hadoop, MATLAB and others.
   * [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
   * [DynaPictures](https://dynapictures.com) - Design automation tool which lets you dynamically generate images over REST API. Change colors, texts, logos and images on the fly. Free plan includes 30 generated images per month and 3 image templates.
-  * [Efemarai](https://efemarai.com) - Testing and debugging platform for ML models and data. Visualize any computational graph. Free 30 debugging sessions per month for developers.
+  * [Efemarai](https://efemarai.com) <i>- Testing and debugging platform for ML models and data.</i> <b>- 机器学习模型和数据的测试和调试平台。</b> <i>Visualize any computational graph.</i><b>可视化任何计算图。</b> <i>Free 30 debugging sessions per month for developers.</i><b>每月为开发人员免费提供 30 次调试会话。</b>
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
   * [Export SDK](https://exportsdk.com) - PDF generator API with drag and drop template editor that also provides an SDK and no-code integrations. Free plan comes with 250 pages per month, unlimited users and three templates.
   * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. Free Micro plan has 500 transactions per month.
@@ -204,7 +204,7 @@ Table of Contents
   * [reqres.in](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
   * [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
   * [neptune.ai](https://neptune.ai/) <i>- Log, store, display, organize, compare and query all your MLOps metadata.</i> <b>- 记录、存储、显示、组织、比较和查询所有 MLOps 元数据。</b> <i>Free for individuals: 1 member, 100 GB of metadata storage, 200h of monitoring/month</i><b>个人免费：1 名成员、100 GB 元数据存储、200 小时监控/月</b>
-  * [News API](https://newsapi.org) — Search news on the web with code, get JSON results. Developers get 3,000 queries free each month.
+  * [News API](https://newsapi.org) <i>— Search news on the web with code, get JSON results.</i> <b>— 使用代码在网络上搜索新闻，获取 JSON 结果。</b> <i>Developers get 3,000 queries free each month.</i><b>开发人员每月免费获得 3,000 个查询。</b>
   * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
   * [Duply.co](https://duply.co) — Create dynamic images from API & URL, design template once and reuse it. Free tier offers 70 images/month creation from API & URL and Up to 100 through Form.
   * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
@@ -216,7 +216,7 @@ Table of Contents
   * [ProxyCrawl](https://proxycrawl.com/) — Crawl and scrape websites without the need of proxies, infrastructure or browsers. We solve captchas for you and prevent you being blocked. The first 1000 calls are free of charge.
   * [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.
   * [Supportivekoala](http://supportivekoala.com/) <i>— Allows you to autogenerate images by your input via templates.</i> <b>— 允许您通过模板输入自动生成图像。</b> <i>Free plan allows you to create up to 100 images per week.</i><b>免费计划允许您每周创建多达 100 张图像。</b>
-  * [QuickMocker](https://quickmocker.com/) <i>— Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header.</i> <b>— 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点。</b> <i>Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.</i><b>免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 条历史记录。</b>
+  * [QuickMocker](https://quickmocker.com/) <i>— Manage online fake API endpoints under your own subdomain, forward requests to localhost URL for webhooks development and testing, use RegExp and multiple HTTP methods for URL path, prioritize endpoints, more than 100 shortcodes (dynamic or fake response values) for response templating, import from OpenAPI (Swagger) Specifications in JSON format, proxy requests, restrict endpoint by IP address and authorization header.</i> <b>— 在您自己的子域下管理在线虚假 API 端点，将请求转发到 localhost URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先考虑端点，100 多个短代码（动态或虚假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点。</b> <i>Free account provides 1 random subdomain, 10 endpoints, 5 RegExp URL paths, 50 shortcodes per endpoint, 100 requests per day, 50 history records in requests log.</i><b>免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 个历史记录。</b>
   * [RequestBin.com](https://requestbin.com) <i>— Create a free endpoint to which you can send HTTP requests.</i> <b>— 创建一个可以向其发送 HTTP 请求的免费端点。</b> <i>Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe requests from webhooks and other services.</i><b>发送到该端点的任何 HTTP 请求都将与相关的有效负载和标头一起记录，以便您可以观察来自 webhook 和其他服务的请求。</b>
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface.
   * [Roboflow](https://roboflow.com) - create and deploy a custom computer vision model with no prior machine learning experience required. Free tier includes up to 1,000 free source images.
@@ -309,6 +309,7 @@ Table of Contents
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
   * [Spectrum](https://spectrum.chat/) - Create public or private communities for free.
   * [StatusPile](https://www.statuspile.com/) - A status page of status pages. Track the status pages of your upstream providers.
+  * [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, 1 GB storage.
   * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
   * [Tefter](https://tefter.io) - Bookmarking app with a powerful Slack integration. Free for open-source teams.
   * [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
@@ -343,7 +344,7 @@ Table of Contents
   * [DatoCMS](https://www.datocms.com/) - Offers free tier for small projects. DatoCMS is a GraphQL based CMS. On the lower tier you have 100k/month calls.
   * [Directus](https://directus.io) — Headless CMS. A completely free and open-source platform for managing assets and database content on-prem or in the Cloud. No limitations or paywalls.
   * [Forestry.io/](https://forestry.io/) — Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere
-  * [FrontAid](https://frontaid.io/) <i>— Headless CMS that stores JSON content directly in your own Git repository.</i> <b>— 将 JSON 内容直接存储在您自己的 Git 存储库中的无头 CMS。</b> <i>No restrictions.</i><b>无限制。</b>
+  * [FrontAid](https://frontaid.io/) — Headless CMS that stores JSON content directly in your own Git repository. No restrictions.
   * [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.
   * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
   * [Sanity.io](https://www.sanity.io/) - Platform for structured content that comes with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, 3 non-admin users, 2 datasets, 500K API CDN requests, 10GB bandwidth, 5GB assets included for free per project.
@@ -797,7 +798,7 @@ Table of Contents
 ## CDN and Protection
 
   * [Arvan Cloud](https://arvancloud.com/) — Offers cloud related services (CDN,Cloud DNS, PaaS, Security etc.). Free plan offers :
-    <i>- CDN with Free SSL.</i> <b>- 带有免费 SSL 的 CDN。</b> <i>100 GB Traffic + 1 Million HTTP(S) Requests.</i> <b>100 GB 流量 + 100 万个 HTTP(S) 请求。</b>
+    - CDN with Free SSL. 100 GB Traffic + 1 Million HTTP(S) Requests.
     - Free Cloud DNS for unlimited domains.
     - Free Cloud Security with Basic DDoS Protection + 5 Firewall Rules.
     - Free VoD (Video On Demand) Platform with 10 GB Storage + 50 GB Traffic.
@@ -858,6 +859,7 @@ Table of Contents
   * [Napkin](https://www.napkin.io/) - FaaS with 1Gb of memory, a default timeout of 15 seconds and 1,000,000 free API calls/month.
   * [Meteor Cloud](https://www.meteor.com/cloud) — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.
   * [Northflank](https://northflank.com) — Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.
+  * [Porter](https://getporter.dev/) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers 1 cluster with up to 10 vCPU and 20 GB memory.
 
 
 ## BaaS
@@ -1035,7 +1037,6 @@ Table of Contents
    * [Codegiant](https://codegiant.io) — Project Management with Repository hosting & CI/CD. Free Plan Offers Unlimited Repositories,Projects & Documents with 5 Team Members. 500 CI/CD minutes per month. 30000 Serverless Code Run minutes per month.1GB repository storage.
    * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.
    * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
-   * [Crucial Human Project](https://crucialhuman.com/products/project/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
    * [diagrams.net/](https://app.diagrams.net/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
    * [freedcamp.com](https://freedcamp.com/) <i>- tasks, discussions, milestones, time tracking, calendar, files and password manager.</i> <b>- 任务、讨论、里程碑、时间跟踪、日历、文件和密码管理器。</b> <i>Free plan with unlimited projects, users and files storage.</i><b>免费计划，无限项目、用户和文件存储。</b>
    * [easyretro.io](https://www.easyretro.io/) — Free simple and intuitive sprint retrospective tool
@@ -1063,9 +1064,10 @@ Table of Contents
    * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
    * [saas.zentao.pm](https://saas.zentao.pm/) - An Application Lifecycle Management solution for Issue Tracking and Project Management, on-premise and open source version are available as well.
    * [ScrumFast](https://www.scrumfast.com) - Scrum board with a very intuitive interface, free up to 5 users.
+   * [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
    * [Shortcut](https://shortcut.com/) - Project management platform. Free for up to 10 users forever.
    * [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
-   * [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
+   * [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
    * [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams up to 10
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [Tara AI](https://tara.ai/) — Simple sprint management service. Free plan has unlimited tasks, sprints and workspaces, with no user limits.

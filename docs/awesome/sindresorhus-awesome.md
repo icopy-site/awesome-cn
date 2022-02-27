@@ -4,9 +4,6 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
-	<h1><a href="https://www.producthunt.com/posts/speediness">Check out my internet connection speed test app </a></h1>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<p>
@@ -404,6 +401,7 @@
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## Computer Science
 
@@ -450,7 +448,7 @@
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - 大规模数据处理的统一引擎。
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
@@ -674,7 +672,7 @@
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用。
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
