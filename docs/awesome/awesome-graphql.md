@@ -114,7 +114,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 #### Servers
 
-- [apollo-server](https://github.com/apollographql/apollo-server) - Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
+- [apollo-server](https://github.com/apollographql/apollo-server) <i>- Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way.</i> <b>- 符合规范和生产就绪的 JavaScript GraphQL 服务器，可让您以模式优先的方式进行开发。</b> <i>Built for Express, Connect, Hapi, Koa, and more.</i><b>专为 Express、Connect、Hapi、Koa 等而打造。</b>
 - [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
 - [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
@@ -611,6 +611,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Retool](https://retool.com/) – Internal tools builder on top of your GraphQL APIs + GraphQL IDE with a schema explorer.
 - [dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - An opinionated JavaScript library for automatically generating predictable, type safe DataLoaders over a set of resources (e.g. HTTP endpoints).
 - [raphql-inspector](https://github.com/kamilkisiela/graphql-inspector): alidate schema, get schema change notifications, validate operations, find breaking changes, look for similar types, schema coverage.
+- [amplication](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
 
 <a name="databases" />
 
