@@ -68,6 +68,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [qubit](https://abhimanyu003.github.io/qubit) - A handy calculator, based on Rust and WebAssembly, [Live Demo](https://abhimanyu003.github.io/qubit/).
 - [Paudle](https://github.com/pmsanford/paudle) - A reimplementation of the excellent word game Wordle by Josh Wardle.
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
+- [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
+- [zzhack](https://github.com/youncccat/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/technology).
 
 ## Templates
 
@@ -90,6 +92,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [yew-feather](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 - [yew-components](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
+- [yew-chart](https://github.com/titanclass/yew-chart) - A Yew-based charting library that provides SVG based components for rendering charts.
 
 ### Components
 
@@ -143,6 +146,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 - [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 - [Create a desktop app in Rust using Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe)
+- [A code walkthrough video of Yew with a real-world app with Christopher Hunt and Kiki Carter](https://www.youtube.com/watch?v=ilrGIJGdqRo)
 
 ## Books
 

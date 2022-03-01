@@ -106,7 +106,7 @@ Note: pretrained TensorFlow Lite models from MediaPipe are included, which you c
 | Task               | Model                              | App \| Reference                                                                      | Source       |
 | ------------------ |------------------------------------| ------------------------------------------------------------------------------------- | ------------ |
 | Speech Recognition | DeepSpeech                         | [Reference](https://github.com/mozilla/DeepSpeech/tree/master/native_client/java)     | Mozilla      |
-| Speech Recognition | CONFORMER                          | [Android](https://github.com/windmaple/tflite-asr) | Community |
+| Speech Recognition | CONFORMER                          | [Inference](https://github.com/neso613/ASR_TFLite)  [Android](https://github.com/windmaple/tflite-asr) | Community |
 | Speech Synthesis   | Tacotron-2, FastSpeech2, MB-Melgan | [Android](https://github.com/TensorSpeech/TensorflowTTS/tree/master/examples/android) | TensorSpeech |
 | Speech Synthesis(TTS)   | Tacotron2, FastSpeech2, MelGAN, MB-MelGAN, HiFi-GAN, Parallel WaveGAN | [Inference Notebook](https://github.com/tulasiram58827/TTS_TFLite/blob/main/End_to_End_TTS.ipynb)      \| [Project Repository](https://github.com/tulasiram58827/TTS_TFLite/)  | Community  |
 
