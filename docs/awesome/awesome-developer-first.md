@@ -3,7 +3,7 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-A curated list of awesome developer-first tools and products.  
+A curated list of awesome developer-first products.  
 I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter), check it out!  
 You can follow me on [Twitter](https://twitter.com/agammore) for more dev related content :) 
 
@@ -63,12 +63,13 @@ The definition of developer-first for this repo is:
 * [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
 * [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
 * [roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
+* [Scanbot SDK](https://scanbot.io/) - Structured data extraction from images for applications.
 
 ## Databases & Spreadsheets
 *Storing data and processing it.*
 * [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
 * [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase.
-* [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放。
+* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
 
 ## Debugging 
 *Tools that help in tracking bugs.*
@@ -181,7 +182,7 @@ The definition of developer-first for this repo is:
 ## Natural Language Processing
 *Interactions with natural language.*
 * [Wit.ai](https://wit.ai) - Voice/text chatbot framework by Facebook.
-* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
+* [DialogFlow](https://cloud.google.com/dialogflow) - Google 的语音/文本聊天机器人框架。
 
 ## Payments
 *Handling payments, credit card processing, and invoices.*

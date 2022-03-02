@@ -66,6 +66,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Internet Archive](https://archive.org/) - Non-profit library of millions of free books, movies, software, music, websites, and more.
 - [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - Book search engine for finding hundreds of millions of media in catalogs worldwide.
 - [Marxist Internet Archive](https://www.marxists.org/) - Everything you ever wanted to know about Marx (and other important socialists).
+- [Mementoweb](http://timetravel.mementoweb.org/) - Find archived web pages in Internet Archive, Archive-It, British Library, archive.today, and GitHub.
 - [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 - [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 - [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
@@ -96,6 +97,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - Federal Gazette, Administrative Case Law of the Federal Authorities and more documents from the Swiss Federal Archives.
 - [Année Politique Suisse](https://anneepolitique.swiss/) - Sources on developments in Swiss politics and society.
 - [Archives Online](https://www.archives-online.org/) - Archival search engine for Switzerland.
+- [chgov](https://www.chgov.bar.admin.ch/) - Minutes of the Federal Council (1848-1963).
 - [arCHeco](https://www.archeco.info/) - Index of economic collections in archives of Switzerland and Liechtenstein.
 - [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV includes a digital edition of the events of the Zurich summer of 1968.
 - [Digithek](https://www.digithek.ch/de/) - A collection of digital finding aids for secondary and vocational schools.
