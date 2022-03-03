@@ -10,7 +10,7 @@ Regression testing is a type of software testing which verifies that software wh
 
 This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
+<i>Finally, I&#39;m sure everyone who reads this list has one thing they want to add.</i><b>最后，我相信每个阅读此列表的人都有他们想要添加的一件事。</b> <i>Please read the</i><b>请阅读</b> [How to Contribute](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
 
 
@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+- [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
 - [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 - [screener.io](https://screener.io) - For React, looks open source.
 - [applitools](https://applitools.com) - Cloud base visual tests.
@@ -162,7 +163,7 @@ See the [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
-国籍、个人外貌、种族、宗教或性身份和性取向。
+nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### License
 

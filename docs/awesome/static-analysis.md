@@ -169,7 +169,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 - [NDepend](http://www.ndepend.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 - [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
-- [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) — A collection of static analyzers based on Roslyn that integrates with VS.
+- [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) :warning: — A collection of static analyzers based on Roslyn that integrates with VS.
 - [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) — .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 
@@ -315,7 +315,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 - [structslop](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
 - [test](http://golang.org/pkg/testing) — Show location of test failures from the stdlib testing module.
-- [unconvert](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
+- [unconvert](https://github.com/mdempsky/unconvert) :warning: — 检测冗余类型转换。
 - [unparam](https://github.com/mvdan/unparam) — Find unused function parameters.
 - [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 - [wsl](https://github.com/bombsimon/wsl) — Enforces empty lines at the right places.
@@ -354,7 +354,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) <i>— Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset).</i> <b>— 检测并禁止对特定方法/类/字段的调用（例如从没有字符集的文本流中读取）。</b> <i>Maven/Gradle/Ant compatible.</i> <b>Maven/Gradle/Ant 兼容。</b>
 - [google-java-format](https://github.com/google/google-java-format) — Google Style Reformat.
 - [HuntBugs](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — 捆绑了许多对 Java 和 Kotlin 的检查，并包括用于重构、格式化等的工具。
+- [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — 捆绑了许多对 Java 和 Kotlin 的检查，包括用于重构、格式化等的工具。
 - [JArchitect](https://www.jarchitect.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 - [JBMC](https://www.cprover.org/jbmc) — Bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses.
 - [NullAway](https://github.com/uber/NullAway) — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
@@ -410,7 +410,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 - [luacheck](https://github.com/mpeterv/luacheck) :warning: — A tool for linting and static analysis of Lua code.
 - [lualint](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
-- [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — An IDE for statically typed Lua development.
+- [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) :warning: — An IDE for statically typed Lua development.
 
 
 <h2 id="matlab">MATLAB</h2>
@@ -516,7 +516,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [prospector](https://github.com/PyCQA/prospector) — A wrapper around `pylint`, `pep8`, `mccabe` and others.
 - [py-find-injection](https://github.com/uber/py-find-injection) :warning: — Find SQL injection vulnerabilities in Python code.
 - [pyanalyze](https://pyanalyze.readthedocs.io/en/latest/) — A tool for programmatically detecting common mistakes in Python code, such as references to undefined variables and type errors. It can be extended to add additional rules and perform checks specific to particular functions.
-- [PyCodeQual](https://pycodequ.al) <i>:copyright: — PyCodeQual gives you insights into complexity and bug risks.</i> <b>:copyright: — PyCodeQual 让您深入了解复杂性和错误风险。</b> <i>It adds automatic reviews to your pull requests.</i><b>它将自动审查添加到您的拉取请求中。</b>
+- [PyCodeQual](https://pycodequ.al) :copyright: — PyCodeQual gives you insights into complexity and bug risks. It adds automatic reviews to your pull requests.
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) — (Formerly `pep8`) Check Python code against some of the style conventions in PEP 8.
 - [pydocstyle](http://www.pydocstyle.org) — Check compliance with Python docstring conventions.
 - [pyflakes](https://pypi.org/project/pyflakes) — Check Python source files for errors.
@@ -672,7 +672,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 <h2 id="vim-script">Vim Script</h2>
 
-- [vint](https://github.com/Kuniwak/vint) — Fast and Highly Extensible Vim script Language Lint implemented by Python.
+- [vint](https://github.com/Kuniwak/vint) :warning: — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
 
 ## Multiple languages
@@ -1003,7 +1003,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 <h2 id="markdown">Markdown</h2>
 
 - [markdownlint](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
-- [mdformat](https://mdformat.rtfd.io) — CommonMark 兼容的 Markdown 格式化程序
+- [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 - [mdl](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 - [remark-lint](https://remark.js.org) — Pluggable Markdown code style linter written in JavaScript.
 
