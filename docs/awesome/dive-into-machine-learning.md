@@ -1,8 +1,34 @@
 <div class="github-widget" data-repo="hangtwenty/dive-into-machine-learning"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![image](https://badgen.net/badge/Support/Ukraine/?color=0057B8&labelColor=FFD700)](https://supportukrainenow.org)
 
-Hi there! You might find this guide helpful if:
+* **[SupportUkraineNow.org — "Real ways you can help Ukraine"](https://supportukrainenow.org)**
+
+----
+
+### Initiatives
+
+If you're here, you might be interested in these projects.
+
+#### Related to machine learning
+
+* [AlgorithmWatch](https://algorithmwatch.org/en/) — [newsletter](https://algorithmwatch.org/en/newsletter/) — "a non-profit research and advocacy organization that is committed to watch, unpack and analyze automated decision-making (ADM) systems and their impact on society."
+* [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai) — "Awful AI is a curated list to track current scary usages of AI — hoping to raise awareness"
+
+#### Code against climate change
+
+* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown is the most comprehensive plan yet published for how to solve Global Warming. Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions."
+* [`philsturgeon/awesome-earth`](https://github.com/philsturgeon/awesome-earth)
+* [`daviddao/code-against-climate-change`](https://github.com/daviddao/code-against-climate-change)
+* [`protontypes/open-sustainable-technology`](https://github.com/protontypes/open-sustainable-technology)
+
+----
+
+[![Dive Into Machine Learning](https://raw.githubusercontent.com/hangtwenty/dive-into-machine-learning/master/./banner.png)](https://github.com/hangtwenty/dive-into-machine-learning/blob/master/#)
+
+## Dive into Machine Learning
+
+Hi there! You might find this resource helpful if:
 
 * You know Python or [you're](https://github.com/alexmojaki/futurecoder) [learning](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) [it](https://github.com/vinta/awesome-python#resources) [:snake:](https://github.com/ossu/computer-science#introduction-to-programming)
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
@@ -54,7 +80,7 @@ Now, follow along with this brief exercise: **[An introduction to machine learni
 
 [![I'll wait.](https://user-images.githubusercontent.com/2420688/29441281-00eff0c4-837f-11e7-9666-d653a1cd2372.jpeg)](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
-## What just happened?
+### What just happened?
 
 You just classified some hand-written digits using [scikit-learn](http://scikit-learn.org/stable/index.html). Neat huh?
 
@@ -86,13 +112,13 @@ Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.wa
 
 Next, code along with one or more of these notebooks.
 
-- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
-    - [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
-- Various topical notebooks:
-    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)
-    - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - Series of notebooks:
   - **2022:** [`rasbt/machine-learning-book`](https://github.com/rasbt/machine-learning-book) — notebooks from [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
+  - [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
+- Various topical notebooks:
+  - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)
+  - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 
 Find more great Jupyter Notebooks when you're ready:
 
@@ -104,7 +130,7 @@ Find more great Jupyter Notebooks when you're ready:
 
 Pick one of the courses below and start on your way.
 
-## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
+## [Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
 **[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [And emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
@@ -114,14 +140,14 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 ### Public datasets and pet projects
 
 You might like to have a pet project to play with, on the side. When you are ready for that, you
-could explore one of these: [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets), [paperswithcode.com/datasets](https://paperswithcode.com/datasets), [datasetlist.com](https://www.datasetlist.com/)
+could explore one of these: [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets), [paperswithcode.com/datasets](https://paperswithcode.com/datasets), [datasetlist.com](https://www.datasetlist.com/), [`KKulma/climate-change-data`](https://github.com/KKulma/climate-change-data#open-data)
 
 ### Tips for this course
 
 * [Study tips for Prof. Andrew Ng's course, by Ray Li](https://rayli.net/blog/data/coursera-machine-learning-review/)
 * If you're wondering, _Is it still a relevant course?_ or trying to figure out if it fits for you personally, check out these reviews:
-    * [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
-    * [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews)
+  * [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
+  * [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews)
 
 ### Tips for studying on a busy schedule
 
@@ -142,7 +168,7 @@ I am not a machine learning expert. I'm just a software developer and these reso
   * [Practical Data Science](http://radimrehurek.com/data_science_python/)
   * [Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)
 *  [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners) — [added in 2021](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme) — "10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'."
-  * See also [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
+* See also [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
 
 <details>
 <summary>More free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)</summary>
@@ -205,7 +231,7 @@ These debugging tools can be used inside (or outside) a Jupyter notebook:
   [`snoop`](https://github.com/alexmojaki/snoop)
 * [`pandas-log`](https://github.com/eyaltrabelsi/pandas-log.git)
 
-There are many more tools than that, but those might get you started, or might be
+还有比这更多的工具，但那些可能会让你开始，或者可能是
 especially useful while you're learning. Beyond learning, troubleshooting is more than just
 logs or debuggers, of course... [there's also some MLOps links, later in this guide](#production-deployment-mlops).
 
@@ -269,6 +295,13 @@ Recommended awesomelists to save/star/watch:
 * **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
 * **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)**
 
+### Easier sharing of deep learning models and demos
+
+* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
+  * Easily try out deep learning models from your browser
+  * The demos link to papers/code on GitHub, if you want to dig in and see how something works
+  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
+
 ----
 
 ## Deep Learning
@@ -278,10 +311,10 @@ Take note: some experts warn us not to get too far ahead of ourselves, and encou
 When you're ready to dive into Deep Learning, here are some helpful resources.
 
 * **[_Dive into Deep Learning_](https://d2l.ai/) - An interactive book about deep learning** ([view on GitHub](https://github.com/d2l-ai/d2l-en))
-  * 快速开始：
+  * Quickstart:
     * [Run this book locally, using Jupyter Notebooks](https://d2l.ai/chapter_installation/index.html)
     * [Run this book in your browser, using Google Colab](https://d2l.ai/chapter_appendix-tools-for-deep-learning/colab.html)
-  * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code." 
+  * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code."
   * "You can modify the code and tune hyperparameters to get instant feedback to accumulate practical experiences in deep learning."
 
 <details><summary>More deep learning links</summary>
@@ -291,7 +324,7 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
 * **[_Deep Learning_](https://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville.
   * A notable testimonial for it is here: ["What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
 * [`fastai/fastbook`](https://github.com/fastai/fastbook) by Jeremy Howard and Sylvain Gugger — "an introduction to deep learning, fastai and PyTorch."
-* [`explosion/thinc`](https://github.com/explosion/thinc) is an interesting library that wraps **PyTorch**, **TensorFlow** and **MXNet** models. 
+* [`explosion/thinc`](https://github.com/explosion/thinc) is an interesting library that wraps **PyTorch**, **TensorFlow** and **MXNet** models.
   * "Concise functional-programming approach to model definition, using composition rather than inheritance."
   * "Integrated config system to describe trees of objects and hyperparameters."
 * [paperswithcode.com](https://paperswithcode.com/) — "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables."
@@ -299,13 +332,6 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
 * [Distill.pub](https://distill.pub/about/) 发布探索性的解释，绝对值得探索和关注！
 
 </details>
-
-### Easier sharing of deep learning models and demos
-
-* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
-  * Easily try out deep learning models from your browser
-  * The demos link to papers/code on GitHub, if you want to dig in and see how something works
-  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
 
 ----
 
@@ -376,8 +402,6 @@ As you repeat this process, your practice studies will become more scientific, i
 Here are some additional Data Science resources:
 
 * **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
-* Accessible data science book, no coding experience required: [_Data Smart_ by John Foreman](https://www.goodreads.com/book/show/17682206-data-smart)
-* [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
 * [`r0f1/datascience`](https://github.com/r0f1/datascience) — "A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks."
 
 ### Aside: Bayesian Statistics and Machine Learning

@@ -116,6 +116,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 ### Utils
 - [buckets](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - Format bytes (Uint8Array, ArrayBufferView, etc) output, useful when debugging IO functions.
+- [canonify](https://github.com/truestamp/truestamp-canonify) - Stringify data structures to deterministically ordered JSON for consistent hashing and digital signatures per JCS [RFC8785](https://datatracker.ietf.org/doc/html/rfc8785).
 - [coffee](https://github.com/irandeno/coffee) - Deno Configuration - a type-safe, easy to use Deno config manager.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean, reloading deps when next running.
@@ -211,13 +212,13 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
-- [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
+- [deno.land/x/](https://deno.land/x/) - 官方的第 3 方模块注册表。
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
 ## Showcases
 
 - [AuthCompanion](https://github.com/pmprosociety/authcompanion) - A token-based user management server.
-- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - deno RESTful api 的样板。
+- [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
@@ -373,5 +374,5 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 
 ### Kurdish (Central)
 
-- [deno.land](https://deno-ckb.vercel.app)
+- [deno.land](https://denoland-ckb.deno.dev/)
 - [A short introduction to Deno](https://devs.krd/about-deno).
