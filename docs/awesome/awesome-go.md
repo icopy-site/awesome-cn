@@ -36,7 +36,7 @@ _Special thanks to_
 <img src="https://avelino.run/sponsors/workos-logo-white-bg.svg" width="200" alt="WorkOS"><br/>
 <b>Your app, enterprise-ready.</b><br/>
 <sub>Start selling to enterprise customers with just a few lines of code.</sub><br/>
-<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+<sup>在几分钟而不是几个月内添加单点登录（以及更多）。</sup>
 </a>
 </td>
 <td>
@@ -873,7 +873,7 @@ _Awesome game development libraries._
 
 - [Azul3D](https://github.com/azul3d/engine) - 3D game engine written in Go.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - dead simple 2D game library in Go.
-- [engo](https://github.com/EngoEngine/engo) <i>- Engo is an open-source 2D game engine written in Go.</i> <b>- Engo 是一个用 Go 编写的开源 2D 游戏引擎。</b> <i>It follows the Entity-Component-System paradigm.</i><b>它遵循实体-组件-系统范式。</b>
+- [engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
 - [g3n](https://github.com/g3n/engine) - 去 3D 游戏引擎。
 - [go-astar](https://github.com/beefsack/go-astar) - Go implementation of the A\* path finding algorithm.
 - [go-sdl2](https://github.com/veandco/go-sdl2) - Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/).
@@ -2406,6 +2406,7 @@ _Full stack web frameworks._
 - [goweb](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
 - [Goyave](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
 - [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
+- [Huma](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 - [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 - [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
 - [Microservice](https://github.com/claygod/microservice) - The framework for the creation of microservices, written in Golang.
@@ -2662,7 +2663,7 @@ _Software written in Go._
 - [grapes](https://github.com/yaronsumel/grapes) - Lightweight tool designed to distribute commands over ssh with ease.
 - [GVM](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Hey](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
-- [httpref](https://github.com/dnnrly/httpref) - httpref 是一个方便的 CLI 参考，用于 HTTP 方法、状态代码、标头以及 TCP 和 UDP 端口。
+- [httpref](https://github.com/dnnrly/httpref) - httpref is a handy CLI reference for HTTP methods, status codes, headers, and TCP and UDP ports.
 - [jcli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
 - [kala](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 - [kcli](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
