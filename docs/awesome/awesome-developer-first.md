@@ -39,7 +39,8 @@ The definition of developer-first for this repo is:
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 * [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
-* [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
+* [Permit.io](https://www.permit.io/) - 权限和访问控制即服务。
+* [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 
 ## CI/CD
 *Continious Integration/Delivery.*
@@ -182,7 +183,7 @@ The definition of developer-first for this repo is:
 ## Natural Language Processing
 *Interactions with natural language.*
 * [Wit.ai](https://wit.ai) - Voice/text chatbot framework by Facebook.
-* [DialogFlow](https://cloud.google.com/dialogflow) - Google 的语音/文本聊天机器人框架。
+* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Payments
 *Handling payments, credit card processing, and invoices.*
