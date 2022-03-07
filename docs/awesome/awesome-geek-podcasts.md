@@ -274,7 +274,7 @@ A curated list of podcasts we like to listen to.
 * [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - Podcast de la Asociación Cultural KDE España.
 * [Salmorejo Geek](https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html) - Batiburrillo Digital. Sobre todo Linux.
 * [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
-* [uGeek](https://ugeek.github.io/) - 技术、Android、Linux、服务器等等...
+* [uGeek](https://ugeek.github.io/) - Tecnología, Android, Linux, Servidores y mucho más...
 
 ## In Georgian
 
@@ -320,6 +320,7 @@ A curated list of podcasts we like to listen to.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 * [IFTTD – If This Then Dev](https://ifttd.io/) - Weekly french podcast interviewing experts in various tech domains (AI, blockchain, security, devops,...). Hosted by Bruno Soulez.
 * [Electro Monkeys](https://electro-monkeys.fr/) - Weekly french podcast, Electro Monkeys is the most offbeat podcast on the planet on cloud native technologies! Hosted by Stéphane Beuret.
+* [Dev Café](https://dev-cafe.fr/) - Tous les lundis, retrouvez l'actualité tech' vue par un développeur ! Hosted by Edouard Marquez.
 
 ## In German
 
@@ -371,7 +372,7 @@ A curated list of podcasts we like to listen to.
 * [Ask Developer](http://www.askdeveloper.com/) - An online audio podcast in Egyptian Arabic dialect discusses the technology and software development landscape in Egypt and Middle East.
 * [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - About technology and its pioneers.
 * [Essam Cafe](https://essamcafe.com/) - Weekly episodes with people, possibly we agree or disagree with them, it is important to learn and benefit from some and a small weekly episode on a random topic from the Twitter nominations.
-* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
+* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) 一个埃及阿拉伯语播客讨论技术新闻。
 * [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) - Topics are in two axes: 1- Management and entrepreneurship, and what is related to them in terms of investment, operation, marketing, partnership, etc. 2- Life, relationships, success, and methods drawn, and how we live it in a way that ensures reconciliation with oneself.
 * [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) - An Arabic podcast for e-commerce, business and marketing to help business owners measure, understand and develop their online sales.
 
