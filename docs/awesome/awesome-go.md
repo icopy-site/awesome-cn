@@ -36,7 +36,7 @@ _Special thanks to_
 <img src="https://avelino.run/sponsors/workos-logo-white-bg.svg" width="200" alt="WorkOS"><br/>
 <b>Your app, enterprise-ready.</b><br/>
 <sub>Start selling to enterprise customers with just a few lines of code.</sub><br/>
-<sup>在几分钟而不是几个月内添加单点登录（以及更多）。</sup>
+<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
 </a>
 </td>
 <td>
@@ -873,7 +873,7 @@ _Awesome game development libraries._
 
 - [Azul3D](https://github.com/azul3d/engine) - 3D game engine written in Go.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - dead simple 2D game library in Go.
-- [engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
+- [engo](https://github.com/EngoEngine/engo) <i>- Engo is an open-source 2D game engine written in Go.</i> <b>- Engo 是一个用 Go 编写的开源 2D 游戏引擎。</b> <i>It follows the Entity-Component-System paradigm.</i><b>它遵循实体-组件-系统范式。</b>
 - [g3n](https://github.com/g3n/engine) - 去 3D 游戏引擎。
 - [go-astar](https://github.com/beefsack/go-astar) - Go implementation of the A\* path finding algorithm.
 - [go-sdl2](https://github.com/veandco/go-sdl2) - Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/).
@@ -1851,7 +1851,6 @@ _Libraries and tools for templating and lexing._
 
 - [ace](https://github.com/yosssi/ace) - Ace is an HTML template engine for Go, inspired by Slim and Jade. Ace is a refinement of Gold.
 - [amber](https://github.com/eknkc/amber) - Amber is an elegant templating engine for Go Programming Language It is inspired from HAML and Jade.
-- [damsel](https://github.com/dskinner/damsel) - Markup language featuring html outlining via css-selectors, extensible via pkg html/template and others.
 - [ego](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 - [extemplate](https://github.com/dannyvankooten/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
@@ -1861,10 +1860,8 @@ _Libraries and tools for templating and lexing._
 - [goview](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
 - [hero](https://github.com/shiyanhui/hero) - Hero is a handy, fast and powerful go template engine.
 - [jet](https://github.com/CloudyKit/jet) - Jet template engine.
-- [kasia.go](https://github.com/ziutek/kasia.go) - Templating system for HTML and other text documents - go implementation.
 - [liquid](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
 - [maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
-- [mustache](https://github.com/hoisie/mustache) - Go implementation of the Mustache template language.
 - [pongo2](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
 - [raymond](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
@@ -1872,7 +1869,6 @@ _Libraries and tools for templating and lexing._
 - [Soy](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
 - [sprig](https://github.com/Masterminds/sprig) - Go 模板的有用模板功能。
 - [tbd](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
-- [velvet](https://github.com/gobuffalo/velvet) - Complete handlebars implementation in Go.
 
 
 ## Testing
@@ -2663,7 +2659,7 @@ _Software written in Go._
 - [grapes](https://github.com/yaronsumel/grapes) - Lightweight tool designed to distribute commands over ssh with ease.
 - [GVM](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 - [Hey](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
-- [httpref](https://github.com/dnnrly/httpref) - httpref is a handy CLI reference for HTTP methods, status codes, headers, and TCP and UDP ports.
+- [httpref](https://github.com/dnnrly/httpref) - httpref 是一个方便的 CLI 参考，用于 HTTP 方法、状态代码、标头以及 TCP 和 UDP 端口。
 - [jcli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
 - [kala](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 - [kcli](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.

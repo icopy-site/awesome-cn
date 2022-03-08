@@ -12,7 +12,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1079 | February 21, 2022
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1080 | March 08, 2022
 
 
 
@@ -340,6 +340,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 ### Concurrency
 *Easier ways to work with concurrency.* [back to top](#readme) 
 
+* [async+](https://github.com/async-plus/async-plus) :penguin: - A chainable interface for Swift 5.5's async/await.
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 * [Futures](https://github.com/davidask/Futures) :penguin: - Lightweight promises for iOS, macOS, tvOS, watchOS, and server-side.
 * [GroupWork](https://github.com/quanvo87/GroupWork) :penguin: - Easy concurrent, asynchronous tasks.
@@ -372,10 +373,10 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [CloudCore](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 * [DataKernel](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-* [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+* [Graph](https://github.com/CosmicMind/Graph) - 一个优雅的 Core Data 数据驱动框架。
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 * [JustPersist](https://github.com/justeat/JustPersist) - Easiest and safest way to do persistence on iOS with Core Data support out of the box.
-* [QueryKit](https://github.com/QueryKit/QueryKit) - 一种使用核心数据过滤的简单方法。
+* [QueryKit](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 * [Skopelos](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
 * [SugarRecord](https://github.com/modo-studio/SugarRecord) - 帮助核心数据和领域。
 

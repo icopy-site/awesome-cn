@@ -146,7 +146,7 @@
 
 ### Serial Communications
 - [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
-- [vserialx](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
+- [vserialx](https://github.com/erdetn/vserialx) - 一个用 V 编写的用于 Linux 的小型（包装器）串行通信库。
 - [vi2c](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
 
 ### Automation
@@ -161,6 +161,7 @@
 
 - [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
 - [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
+- [vord](https://github.com/9xN/vord) - Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).
 
 ### IRC
 
@@ -179,8 +180,8 @@
 
 - [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 - [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-- [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
-- [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
+- [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
+- [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 
 ### Scientific computing
 
