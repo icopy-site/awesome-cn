@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-涵盖 Nginx、Nginx + Lua、OpenResty 和 Tengine 的资源集合.
+A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
-此列表由维护 [Frederic Cambus](https://www.cambus.net) . 有关更新，请在 Twitter 上关注我： [@fcambus](https://twitter.com/fcambus)
+This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter: [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -39,6 +39,8 @@
 - [NGINX Config - Online nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
 - [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
 - [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
+- [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
+- [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy)
 
 ## Tutorials
 
@@ -134,4 +136,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
