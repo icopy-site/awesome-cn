@@ -19,7 +19,7 @@
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
-* [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线互动教程。
+* [Tour of Nix](https://nixcloud.io/tour) - An online interactive tutorial on Nix language constructs.
 
 ### Discovery
 
@@ -40,6 +40,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
 * [Nix Infra Status](https://status.nixos.org) - Get the age and current git commit of each Nix channel.
+* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - Reports showing problematic dependencies (dependencies causing the most failed builds) for major Hydra jobsets.
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - A tracker for whether a PR has made it into a channel yet.
 
 ## Deployment Tools
@@ -55,7 +56,7 @@
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
 * [pushnix](https://github.com/arnarg/pushnix) - Simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
 * [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
-* [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
+* [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统编写您的 Terraform 代码。
 
 ## Command-Line Tools
 

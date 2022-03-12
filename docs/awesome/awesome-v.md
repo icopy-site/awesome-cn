@@ -58,7 +58,7 @@
 ### Command-line
 
 - [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-- [vast](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
+- [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，生成 v 源文件到 AST json 文件。
 - [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 - [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 - [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
@@ -96,6 +96,7 @@
 - [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
+- [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 
 ### Graphics
 
@@ -104,6 +105,7 @@
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 - [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
+- [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
 
 ### Game development
 
@@ -146,7 +148,7 @@
 
 ### Serial Communications
 - [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
-- [vserialx](https://github.com/erdetn/vserialx) - 一个用 V 编写的用于 Linux 的小型（包装器）串行通信库。
+- [vserialx](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
 - [vi2c](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
 
 ### Automation

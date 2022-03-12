@@ -134,7 +134,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Coqtail Math](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.
 - [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 - [Finmap](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
-- [Four Color Theorem](https://github.com/math-comp/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
+- [Four Color Theorem](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 - [Gaia](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
 - [Goedel](https://github.com/coq-community/goedel) - Constructive proof of the Gödel-Rosser incompleteness theorem.

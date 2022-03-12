@@ -36,7 +36,7 @@ This list is a collection of the best Deno modules and resources.
 ## Modules
 
 __NOTICE__: Deno has a few official modules that could be found at [deno_std](https://deno.land/std/).
-考虑提交给 [deno.land/x](https://deno.land/x/) registry.
+Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Automation
 - [autopilot](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
@@ -169,6 +169,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [doa](https://github.com/johannlai/doa) - A middleware framework for Deno's http serve🦕. Transplanted from Koa with ❤️
 - [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [dragon](https://github.com/xanny-projects/dragon) - ⚡A powerful HTTP router and URL matcher for building Deno web servers with dragon 🐲.
+- [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 - [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 - [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
@@ -228,7 +229,7 @@ __NOTICE__: Deno has a few official modules that could be found at [deno_std](ht
 - [commands](https://github.com/buttercubz/commands) - Create commands shortcuts for node js and deno
 - [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 - [decense](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
-- [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
+- [dedep](https://github.com/egoist/dedep) - 管理依赖版本。
 - [denoflow](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [denoget](https://github.com/syumai/denoget) - Denoget installs executable Deno script.
 - [denoify](https://github.com/garronej/denoify) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.

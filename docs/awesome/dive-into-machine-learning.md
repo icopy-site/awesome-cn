@@ -6,23 +6,24 @@
 
 ### Initiatives
 
-If you're here, you might be interested in these projects.
+Before we [dive in](#dive-into-machine-learning), here are some notable projects and initiatives that might interest you as well.
 
 #### Related to machine learning
 
 * [AlgorithmWatch](https://algorithmwatch.org/en/) — [newsletter](https://algorithmwatch.org/en/newsletter/) — "a non-profit research and advocacy organization that is committed to watch, unpack and analyze automated decision-making (ADM) systems and their impact on society."
 * [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai) — "Awful AI is a curated list to track current scary usages of AI — hoping to raise awareness"
+* [`humanetech-community/awesome-humane-tech`](https://github.com/humanetech-community/awesome-humane-tech) — "Promoting solutions that improve wellbeing, freedom and society"
 
 #### Code against climate change
 
-* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown is the most comprehensive plan yet published for how to solve Global Warming. Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions."
+* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions." Python and Jupyter Notebooks.
 * [`philsturgeon/awesome-earth`](https://github.com/philsturgeon/awesome-earth)
 * [`daviddao/code-against-climate-change`](https://github.com/daviddao/code-against-climate-change)
 * [`protontypes/open-sustainable-technology`](https://github.com/protontypes/open-sustainable-technology)
 
 ----
 
-[![Dive Into Machine Learning](https://raw.githubusercontent.com/hangtwenty/dive-into-machine-learning/master/./banner.png)](https://github.com/hangtwenty/dive-into-machine-learning/blob/master/#)
+[![Dive Into Machine Learning](https://raw.githubusercontent.com/hangtwenty/dive-into-machine-learning/master/./banner.png)](https://github.com/hangtwenty/dive-into-machine-learning/blob/master/#dive-into-machine-learning)
 
 ## Dive into Machine Learning
 

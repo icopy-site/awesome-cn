@@ -222,7 +222,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - Manage [Spinnaker](https://www.spinnaker.io/) applications and pipelines with Terraform.
 - [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Devops automation platform for AWS, Azure, GCP.
 - [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - Provider for Stripe.
-- [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
+- [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - 管理 UCloud 资源的提供商。
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - Provider to manage uptimerobot resources.
 - [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
 
@@ -279,7 +279,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
 - [terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 - [TerraDepot](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-- [terradozer](https://github.com/jckuester/terradozer) - Terraform 在没有配置文件的情况下销毁。
+- [terradozer](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
 - [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 - [terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
@@ -342,6 +342,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfe-state-explorer](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 - [Scalr](https://scalr.com) - Alternative to Terraform Enterprise with OPA integration :heavy_dollar_sign:
 - [env0](https://env0.com) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy_dollar_sign:
+- [modulehub](https://www.modulehub.io) - Private Terraform Module Registry and State backend.
+- [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure
 
 ## Videos
 

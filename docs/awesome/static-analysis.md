@@ -90,7 +90,6 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
     <li><a href="#swift">Swift</a></li>
     <li><a href="#tcl">Tcl</a></li>
     <li><a href="#typescript">TypeScript</a></li>
-    <li><a href="#vbscript">VBScript</a></li>
     <li><a href="#verilog">Verilog/SystemVerilog</a></li>
     <li><a href="#vim-script">Vim Script</a></li>
     </ul>
@@ -354,7 +353,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) <i>— Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset).</i> <b>— 检测并禁止对特定方法/类/字段的调用（例如从没有字符集的文本流中读取）。</b> <i>Maven/Gradle/Ant compatible.</i> <b>Maven/Gradle/Ant 兼容。</b>
 - [google-java-format](https://github.com/google/google-java-format) — Google Style Reformat.
 - [HuntBugs](https://github.com/amaembo/huntbugs) :warning: — Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
-- [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — 捆绑了许多对 Java 和 Kotlin 的检查，包括用于重构、格式化等的工具。
+- [IntelliJ IDEA](https://www.jetbrains.com/idea) :copyright: — 捆绑了许多对 Java 和 Kotlin 的检查，并包括用于重构、格式化等的工具。
 - [JArchitect](https://www.jarchitect.com) :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 - [JBMC](https://www.cprover.org/jbmc) — Bounded model-checker for Java (bytecode), verifies user-defined assertions, standard assertions, several coverage metric analyses.
 - [NullAway](https://github.com/uber/NullAway) — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
@@ -656,11 +655,6 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
 
 
-<h2 id="vbscript">VBScript</h2>
-
-- [Test Design Studio](http://patterson-consulting.net/tds) :copyright: — A full IDE with static code analysis for Micro Focus Unified Functional Testing VBScript-based automated tests.
-
-
 <h2 id="verilog">Verilog/SystemVerilog</h2>
 
 - [Icarus Verilog](https://github.com/steveicarus/iverilog) — A Verilog simulation and synthesis tool that operates by compiling source code written in IEEE-1364 Verilog into some target format
@@ -743,7 +737,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [ocular](https://www.shiftleft.io/ocular/) :copyright: — Enables code auditors and security teams to interactively investigate their unique code bases  to find business logic flaws and technical vulnerabilities that traditional SASTs cannot. This is done by enabling the analyst to write their own custom queries. Can find hard-coded secrets, authentication issues, and malicious code like rootkits and backdoors.
 - [Offensive 360](https://offensive360.com/) :copyright: — Commercial Static Code Analysis system doesn't require building the source code or pre-compilation.
 - [parasoft](https://www.parasoft.com/) :copyright: — Automated Software Testing Solutions for unit-, API-, and web UI testing. Complies with MISRA, OWASP, and others.
-- [pfff](https://github.com/facebookarchive/pfff/wiki/Main) — Facebook 用于多种语言的代码分析、可视化或保留样式的源转换工具。
+- [pfff](https://github.com/facebookarchive/pfff/wiki/Main) — Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages.
 - [PMD](https://pmd.github.io) — A source code analyzer for Java, Salesforce Apex, Javascript, PLSQL, XML, XSL and others.
 - [pre-commit](https://pre-commit.com) — A framework for managing and maintaining multi-language pre-commit hooks.
 - [Prettier](https://prettier.io) — An opinionated code formatter.
@@ -1114,7 +1108,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 - [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
 
 
-<h2 id="terraform">Terraform</h2>
+<h2 id="terraform">地形</h2>
 
 - [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 - [shisho](https://docs.shisho.dev/) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
