@@ -494,7 +494,7 @@ _Current implementations of the JVM/JDK._
 - [Open JDK](https://openjdk.java.net) - Open JDK community home. (GPL-2.0-only WITH Classpath-exception-2.0)
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview) - RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
-- [SAP Machine](https://sap.github.io/SapMachine/) <i>- SAP&#39;s no-cost, rigorously tested and JCK-verified OpenJDK friendly fork.</i> <b>- SAP 的免费、经过严格测试和 JCK 验证的 OpenJDK 友好分支。</b> <i>(GPL-2.0-only WITH Classpath-exception-2.0)</i> <b>（仅 GPL-2.0 WITH Classpath-exception-2.0）</b>
+- [SAP Machine](https://sap.github.io/SapMachine/) - SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork. (GPL-2.0-only WITH Classpath-exception-2.0)
 - [Zulu](https://www.azul.com/products/zulu-community/) - OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 
 ### Logging
@@ -502,6 +502,7 @@ _Current implementations of the JVM/JDK._
 _Libraries that log the behavior of an application._
 
 - [Apache Log4j 2](https://logging.apache.org/log4j/) - Complete rewrite with a powerful plugin and configuration architecture.
+- [Echopraxia](https://github.com/tersesystems/echopraxia) - API designed around structured logging, rich context, and conditional logging. There are Logback and Log4J2 implementations, but Echopraxia's API is completely dependency-free, meaning it can be implemented with any logging API.
 - [Graylog](https://www.graylog.org) - Open-source aggregator suited for extended role and permission management. (GPL-3.0-only)
 - [Kibana](https://www.elastic.co/kibana) - Analyzes and visualizes log files. Some features require payment.
 - [Logback](http://logback.qos.ch) - Robust logging library with interesting configuration options via Groovy.
@@ -1033,7 +1034,7 @@ _Libraries that analyze the content of websites._
 - [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
 - [jsoup](https://jsoup.org) - Scrapes, parses, manipulates and cleans HTML.
 - [StormCrawler](http://stormcrawler.net) - SDK for building low-latency and scalable web crawlers.
-- [webmagic](https://github.com/code4craft/webmagic) - Scalable crawler with downloading, url management, content extraction and persistent.
+- [webmagic](https://github.com/code4craft/webmagic) - 具有下载、网址管理、内容提取和持久性的可扩展爬虫。
 
 ### Web Frameworks
 

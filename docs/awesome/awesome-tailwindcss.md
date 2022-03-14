@@ -92,7 +92,7 @@
 - 💼 [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 - 💼 [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - Adds utilities to trim text whitespace, using [Capsize](https://github.com/seek-oss/capsize).
 - 💼 [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
-- 💼 [Downwind CSS Easings](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
+- 💼 [Downwind CSS Easings](https://github.com/downwindcss/easings) - 扩展 `transition-timing-function` 实用程序。
 - 💼 [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - Adds utilities for content placeholder images.
 - 💼 [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - Exposes `scrollbar-none` to visually hide a scrollbar.
 - 💼 [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - Adds fluid type (`font-size`) utilities.
@@ -128,7 +128,7 @@
 - 🛑💼 [Layout](https://github.com/benface/tailwindcss-layout) - Adds some layout utilities.
 - 🛑💼 [Grid](https://github.com/chrisrowe/tailwindcss-grid) - Adds CSS grids utilities.
 - 🛑💼 [Transforms](https://github.com/benface/tailwindcss-transforms) - Adds `transform` utilities.
-- 🛑💼 [benface's transitions](https://github.com/benface/tailwindcss-transitions) - 添加可配置的转换实用程序，有或没有 CSS 变量。
+- 🛑💼 [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
 - 🛑💼 [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 - 🛑💼 [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - Adds basic transition utilities.
 - 🛑💼 [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - Extends `cursor` utilities.
@@ -256,7 +256,7 @@
 - 🧩 [jQuery Toggler](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) - Switches using jQuery and Tailwind CSS.
 - 🧩 [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) - Framework-agnostic, Vue.js, React and Angular components.
 - 🧩 [lofi ui](https://lofiui.co/) - Low-fidelity Tailwind CSS components.
-- 🧩 [Gust UI](https://www.gustui.com/) - Sleek Tailwind CSS components for web applications in React and HTML.
+- 🧩 [Gust UI](https://www.gustui.com/) - 用于 React 和 HTML 中的 Web 应用程序的时尚 Tailwind CSS 组件。
 - 🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 - 🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
 - 🧩 [Daisy UI](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
@@ -298,7 +298,7 @@
 - 📟💼 [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) - Front-end preset using Tailwind CSS for Laravel.
 - 📟💼 [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) - Dark-themed front-end preset using Tailwind CSS for Laravel.
 - 🚀 [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) - CRA boilerplate using Tailwind CSS and Emotion JS.
-- 📟 [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - 支持 Tailwind CSS 和 TypeScript 的 CRA 模板。
+- 📟 [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) - CRA template with support for Tailwind CSS and TypeScript.
 - 📟 [Next.js PWA](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 - 📟 [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 - 🚀 [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) - Tailwind CSS boilerplate using Parcel.
@@ -334,6 +334,7 @@
 - 🚀 [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - Production ready, SEO-friendly, performant landing website boilerplate using Jekyll and Tailwind CSS.
 - 🚀 [Next JS Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 - 🚀 [Vitailse](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
+- 🚀 [Vite-Boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
 
 ## Open-Source Projects
 

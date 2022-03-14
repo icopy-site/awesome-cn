@@ -70,6 +70,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - A software developer portfolio, [Live Demo](https://maeurer.dev/).
 - [zzhack](https://github.com/youncccat/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/technology).
+- [Rquote](https://github.com/Altair-Bueno/rquote) - Rquote is a web application built using Rust and WebAssembly. It fetches Anime quotes from the Animechan API. [Live Demo](https://rquote.vercel.app/).
 
 ## Templates
 

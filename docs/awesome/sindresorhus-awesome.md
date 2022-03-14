@@ -1,10 +1,15 @@
 <div class="github-widget" data-repo="sindresorhus/awesome"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
+	<a href="https://vshymanskyy.github.io/StandWithUkraine">
+		<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo-ua.svg?sanitize=true" alt="Awesome">
+		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+	</a>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/pure-paste">Paste as plain text by default on macOS</a></h2>
+	<br>
+	<br>
+	<br>
 	<br>
 	<br>
 	<hr>

@@ -24,6 +24,14 @@ Guides how to learn LaTeX
 - [TeX Live](https://www.tug.org/texlive/) - Most common LaTeX distribution for Unix-like operating systems, including GNU/Linux. Also works on Windows. ![linux] ![windows]
 - [MikTeX](https://miktex.org) - Most common LaTeX distribution for Windows, but also available for Mac, Linux or as Docker image.  ![linux] ![windows] ![mac] ![foss]
 
+## Docker Images
+
+When one aims for a ready-to-run LaTeX environment without installing, Docker images might be the choice.
+
+- [reitzig/texlive-docker](https://github.com/reitzig/texlive-docker) - minimal TeXLive system with package installation possibility
+- [Island of TeX/texlive](https://gitlab.com/islandoftex/images/texlive) - debian-based full TeXLive system
+- [dante-ev/docker-texlive](https://github.com/dante-ev/docker-texlive) - debian-based full TeXLive system with addtions with pandoc, perl, and python pre-installed
+
 ## Engines
 
 - [pdfTeX](https://www.tug.org/applications/pdftex/) - TeX compiler that produces PDF files immediately instead of DVI files (nowadays, this is the standard compiler for many users). ![foss]
@@ -123,7 +131,8 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 
 ### GitHub Actions
 
-- [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) GitHub Action to compile LaTeX documents
+- [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents
+- [dante-ev/latex-action](https://github.com/dante-ev/latex-action) - DANTE e.V.'s GitHub action to compile LaTeX documents. Offers a full TeXLive and pre-installed perl and python.
 
 ## Misc. Tools
 

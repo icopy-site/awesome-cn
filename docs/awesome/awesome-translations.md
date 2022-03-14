@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-&gt; 将文本的含义从一种语言转移到另一种语言.
+> The transfer of the meaning of a text from one language to another.
 
-此列表包含工具、书籍、文章、博客、课程以及与翻译相关的所有内容（[t9n](https://en.wikipedia.org/wiki/Translation) - 翻译， [l10n](https://en.wikipedia.org/wiki/Language_localisation) - 本地化， [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - 全球化， [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - 多语言化， [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - 国际化，全球化的代名词）.
+This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
 
 
 
@@ -19,101 +19,102 @@
 
 **I18n.**
 
-- [Crowdin](https://crowdin.com/) - 闭源基于云的本地化技术和服务公司.
-- [GitLocalize](https://gitlocalize.com/) - 强大的本地化平台，可与您的 GitHub 存储库同步，让您不断翻译其内容.
-- [LocaleApp](https://www.localeapp.com/) - 有效的应用本地化和翻译.
-- [Transifex](https://www.transifex.com/) - 专有的、基于网络的翻译平台、全球化管理系统 (GMS).
-- [Weblate](https://weblate.org/) - 最积极和最有能力的自由软件社区之一的平台.
-- [Zanata](http://zanata.org/) - 基于网络的翻译平台，供翻译人员、内容创建者和开发人员管理本地化项目.
-- [Traduora](https://github.com/traduora/traduora) - 用于管理团队翻译工作流程的平台.
-- [SimpleLocalize](https://simplelocalize.io) - 软件项目的简单翻译管理.
-- [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接传递到您的源代码.
-- [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
+- [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
+- [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
+- [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
+- [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
+- [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
+- [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
+- [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+- [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
+- [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
+- [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
+- [Tolgee](https://tolgee.io) - 开源、开发人员和翻译人员友好的平台，使用户能够直接在他们开发的应用程序中进行翻译。
 
 ## Apps
 
-- [RTranslator](https://github.com/niedev/RTranslator) - 第一个基于 Google API 的 Android 同声翻译应用程序.
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - 适用于 Linux 和 Windows 的简单轻量级翻译器，允许使用 Google、Yandex 和 Bing 翻译 API 翻译和朗读文本.
-- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - 适用于 Windows、Mac 和 Linux 的应用程序，可在复制到剪贴板时自动翻译和调整文本.
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - 适用于 Windows 的 I18n 管理器.
-- [OmegaT](https://omegat.org/) - 适用于 Windows、macOS 和 Linux 的免费翻译记忆库应用程序.
-- [Argos Translate](https://github.com/argosopentech/argos-translate)  - 完全开源的离线翻译应用，用 Python 编写，基于 OpenNMT. 它也可以用作 Python 库.
-- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 基于 Argos Translate 的 100% 自托管网络应用程序来翻译文本.
+- [RTranslator](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
+- [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
+- [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ## Tools
 
-- [deep-translator](https://github.com/nidhaloff/deep-translator) - 一个灵活的免费且无限制（取决于所使用的翻译器）的库，用 Phyton 编写，可以使用多个翻译器以简单的方式在不同语言之间进行翻译，也可以直接在提示中使用.
-- [I18next](https://www.i18next.com/) - 用 Ja​​vaScript 编写的国际化框架.
-- [react-i18next](https://react.i18next.com/) - 基于 i18next 的强大的 React / React Native 国际化框架.
-- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n)  - 使您的浏览器扩展国际化的功能. 您可以使用这些 API 从与您的扩展一起打包的语言环境文件中获取本地化字符串.
-- [npm i18n](https://www.npmjs.com/package/i18n) - 具有动态 json 存储的轻量级简单翻译模块.
-- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails 国际化 (i18n) API.
-- [Quasar I18n](https://quasar.dev/options/app-internationalization) - Quasar 框架中的应用程序国际化 (i18n).
-- [Vue I18n](https://kazupon.github.io/vue-i18n/) - Vue.js 的国际化插件.
-- [i18n Ally](https://github.com/antfu/i18n-ally) - VSCode 的扩展，关于 i18n 的所有功能.
-- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - 在 Swift 中使用谷歌云翻译 API 的框架.
-- [Translate](https://github.com/translate/translate) - 一套软件和文档，旨在帮助本地化人员的生活更加高效，减少挫败感.
-- [Pootle](https://github.com/translate/pootle)  - 具有翻译界面的在线翻译管理工具，专注于应用程序图形用户界面的本地化.  LibreOffice 使用它.
-- [Translator](https://github.com/UlionTse/translators) - 基于谷歌、Yandex、微软（必应）、百度、阿里巴巴、腾讯、网易（有道）、搜狗、Deepl等翻译接口的翻译库.
-- [Bergamot](https://github.com/browsermt) - 浏览器中的客户端翻译.
-- [Python-i18n](https://pypi.org/project/python-i18n/) - Python 国际化 (i18n) 包.
-- [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - 旨在帮助团队轻松本地化网站的技术.
-- [attranslate](https://github.com/fkirc/attranslate) - 用于跨平台应用程序或网站的半自动翻译工具.
-- [Polyglot](https://github.com/untra/polyglot) - Jekyll 博客的快速、轻松、开源的国际化插件.
-- [Globalize](https://github.com/globalizejs/globalize) - 利用官方 Unicode CLDR JSON 数据进行国际化和本地化的 JavaScript 库.
-- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - 用于在项目文件中查找翻译键的 CLI.
-- [Moment.js](https://momentjs.com/) - 在 JavaScript 中解析、验证、操作和显示日期和时间.
-- [WPML](https://wpml.org/) - 一个 WordPress 插件，允许通过单个 WordPress 安装运行多语言网站.
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+- [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
+- [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
+- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
+- [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
+- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
+- [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
+- [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
+- [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+- [Translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+- [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+- [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+- [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
+- [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
+- [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
+- [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+- [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+- [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+- [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
+- [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 
 ## Articles
 
-- [Angular and i18n](https://angular.io/guide/i18n) - 角度 i18n 指南.
-- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - 第 8 章：i18n 和 l10n.
-- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - 国际化您的应用程序.
-- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - Craig Cummings 的“软件全球化和在计算机和移动设备上添加语言”（幻灯片）.
-- [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - 本地化和国际化，有什么区别？
-- [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - i18n/l10n/g11n 之间的实际区别是什么，具体来说它们对开发意味着什么？
-- [W3C](https://www.w3.org/International/questions/qa-i18n) - 本地化与国际化.
-- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - 国际化 Flutter 应用程序.
-- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation)  - CAT（计算机辅助翻译）工具通常被理解为专门促进实际翻译过程的程序. 本文介绍：翻译记忆软件、语言搜索引擎软件、术语管理软件、对齐软件、交互式机器翻译、增强翻译.
-- [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - 一篇关于机器翻译不同技术的论文评论.
-- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611)  - 一篇论文回顾，将现代 NMT 架构的起源追溯到单词和句子嵌入以及编码器-解码器网络系列的早期示例. 它将以对该领域最新趋势的简短调查结束.
-- [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - 什么是“hreflang”属性以及它如何影响您的 SERP.
+- [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
+- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
+- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
+- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software globalization and adding languages on computers and mobile devices" by Craig Cummings (slides).
+- [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+- [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
+- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
+- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
+- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
+- [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - 一篇关于机器翻译不同技术的论文评论。
+- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
+- [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
 - [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
 
 ## Blogs
 
-- [Speakt](https://speakt.com/blog/) - 全面的资源，提供业内最优秀的专业人士提供的有关翻译的所有方面的深入信息.
-- [Lexico](https://www.lexico.com/)  - 提供英语和西班牙语词典的集合，以及对许多单词和语言的好奇心（在“探索”部分）. 它由牛津大学出版社出版.
-- [The Translator's Teacup](https://lingocode.com/translation-blog/) - 包含适合初学者翻译的好技巧.
-- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家运营. 您可以收听音频文件，其中包含他们对自由译者工作的提示和意见.
-- [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德英译者 Jayne Fox 经营. 它讨论了翻译人员的持续专业发展 (CPD) 以及使用技术（尤其是 CAT 工具/TEnT）来支持他们的工作.
-- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - 对本地化管理、协作翻译平台、翻译管理系统、机器翻译以及本地化行业的最大参与者进行了极其详细的描述和意见.
+- [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
+- [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
+- [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
+- [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
+- [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
+- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
 
 ## Online Courses
 
-- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - 华盛顿大学提供的数字产品国际化和国际化3门课程合集.
-- [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - 加州大学为初学者提供的英语语法课程.
-- [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - 加利福尼亚大学为有经验的人提供的英语语法课程.
-- [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - 加州大学为专家提供的英语语法课程.
-- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)  - 教授如何使用机器学习来理解和操纵人类语言. 它需要机器学习的工作知识，中级 Python 经验，包括 DL 框架和精通微积分、线性代数和统计.
-- [Machine Translation](https://www.coursera.org/learn/machinetranslation)  - 解释翻译算法的基本原理. 它由卡尔斯鲁厄理工学院（德国）提供.
+- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of internationalization and internationalization for digital products provided by the University of Washington.
+- [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
+- [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - English grammar course for people with experience provided by the University of California.
+- [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
+- [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explains the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
 
 ## Books
 
-- [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information)  - 建立 NLP 和统计学的背景，然后将基础知识发展到当前的研究. 最终读者可以建立自己的翻译系统. 作者是 [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
-- [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information)  - 机器翻译介绍从神经网络方法的基础开始，达到最先进的水平，同时提供历史、语言和应用背景.  Python 中的代码示例为实现提供了动手蓝图. 作者仍然是Philipp Koehn.
-- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8)  - 从各种语言和文化角度介绍翻译的理论和实践. 作者是 [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) 和 [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
+- [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Establishes background in NLP and statistics, then develops the basics through to current research. By the end readers can build their own translation systems. The author is [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
+- [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - This introduction to machine translation starts from the basics of neural network methods and reaches the state of the art, while giving historical, linguistic, and applied context. Code examples in Python give a hands-on blueprint for implementation. The author is still Philipp Koehn.
+- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) and [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
 ## Other
 
-- [Google Crowdsource](https://crowdsource.google.com/) - 由谷歌开发的众包平台旨在通过面向用户的不同算法的培训（包括翻译和翻译验证部分）来改进一系列谷歌服务.
-- [Localizejs](https://localizejs.com/) - 将网站和应用程序翻译成新语言并简化翻译工作流程.
-- [LocalizationLab](https://www.localizationlab.org/) - 由 7000 多名贡献者组成的全球社区，他们支持互联网自由工具的翻译和本地化.
-- [Pontoon](https://pontoon.mozilla.org/) - 各种 Mozilla 本地化项目.
-- [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - IBM Cloud 上的一项服务，支持动态翻译新闻、专利或会话文档.
-- [Project Fluent](https://projectfluent.org) - 旨在释放自然语言翻译的全部表达能力的本地化范例.
+- [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
+- [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
+- [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
+- [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
+- [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
+- [Project Fluent](https://projectfluent.org) - A localization paradigm designed to unleash the entire expressive power of natural language translations.
 
 ## Contributing
 
-热烈欢迎！ 请通过 [Contribution Guidelines](https://github.com/mbiesiad/awesome-translations/blob/master/CONTRIBUTING.md) 和 [Code of Conduct](https://github.com/mbiesiad/awesome-translations/blob/master/CODE-OF-CONDUCT.md) 第一的.
+Warmly welcome! Kindly go through [Contribution Guidelines](https://github.com/mbiesiad/awesome-translations/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/mbiesiad/awesome-translations/blob/master/CODE-OF-CONDUCT.md) first.

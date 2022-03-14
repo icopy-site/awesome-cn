@@ -38,7 +38,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Computational Complexity<a name=theory_of_computation_computational_complexity></a>
 ### Introductory<a name=theory_of_computation_computational_complexity_introductory></a>
 #### Lecture Videos Playlists<a name=theory_of_computation_computational_complexity_introductory_lecture_videos_playlists></a>
-- [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
+- [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/)) - Undergraduate course on computational complexity theory; It follows the same spirit of Sipser's part III.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - It covers most of what is believed to be known to get started in complexity theory research.
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_introductory_lecture_notes></a>
 - [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/) - Three weeks of lectures from the IAS/Park City Mathematics Institute Summer School on computational complexity. Topics include reductions, lower-bounds, average-case complexity, randomness, interactive proof systems, probabilistically checkable proofs, quantum computing, and proof complexity.
@@ -82,7 +82,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Lecture Videos Playlists<a name=algorithms_lecture_videos_playlists></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
 ## Lecture Notes<a name=algorithms_lecture_notes></a>
-- [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) <i>- Notably uses ideas such as randomness, approximation, high dimensional geometry.</i> <b>- 特别是使用诸如随机性、近似性、高维几何等思想。</b> <i>Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.</i><b>面临不确定性、处理大数据的方法、处理难处理性、启发式方法等。</b>
+- [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ## Books<a name=algorithms_books></a>
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
@@ -180,7 +180,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - Surveys, tutorials, conferences reports, events, open problems and solutions, PhD Theses, and entertaining contributions.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
-- [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
+- [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - 具有该领域的突破，以非专家易于理解的方式编写。
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - A blog Aggregator for all blogs related to TCS.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS 工作公告。
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
@@ -197,6 +197,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/) - Tips for anyone interested in theoretical computer science.
 - [Barak. Surveys For Students](https://thmatters.wordpress.com/surveys/) - Surveys for high-school, undergraduate, and even researchers.
 - [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - Posts oriented more for a less-technically matured audience.
+- [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 - [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - Karp addresses: In 1968 computer science at Berkeley was problematic, with two departments working independently to develop programs, and his personal reflections.
 - [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) - Why do so few scientists make significant contributions and so many are forgotten in the long run? The talk is about what Hamming has learned.
 - [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
