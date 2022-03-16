@@ -241,7 +241,7 @@
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - 胡安·克洛珀
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - 基思马修斯
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - 罗布·布雷泽
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) ——大卫·切尔尼、汤姆·丹顿、安德鲁·沃尔德伦
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) ——大卫·切尔尼、汤姆·丹顿、安德鲁·沃尔德隆
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, CC 王
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, CC 王
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd（斯坦福大学）、Lieven Vandenberghe（加州大学洛杉矶分校）
@@ -522,8 +522,11 @@
 * [Evan Chen](https://web.evanchen.cc/coursework.html)  - 麻省理工学院.  2012 ~ 2018. 涵盖组合数学、数论、荣誉代数、集合论、实分析、图论等.
 * [Dexter Chua](https://dec41.user.srcf.net/notes/)  - 哈佛.  2013 ~ 2018. 涵盖分析、概率、线性代数、复分析、数值分析、统计、优化、代数拓扑、量子场论等.
 
+## Related Awesome Lists
+* [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Cyrille Rossant](http://cyrille.rossant.net) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Cyrille Rossant](http://cyrille.rossant.net) 已放弃本作品的所有版权和相关或邻近权利.
