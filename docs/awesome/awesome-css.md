@@ -91,7 +91,7 @@
 * [Numl](https://numl.design) - 基于 HTML 的语言和设计系统，可让您创建具有任何外观的响应式和可访问的高质量 Web 界面.
 * [Pure.css](http://purecss.io/) - 一组小型的响应式 CSS 模块，您可以在每个 Web 项目中使用它们.
 * [Semantic UI](http://semantic-ui.com/) - 使用人性化 HTML 的强大框架.
-* [Shorthand Framework](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
+* [Shorthand Framework](https://github.com/shorthandcss/shorthand) - 新十年的功能丰富的 CSS 框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - 一个轻量级、响应式和现代的 CSS 框架.
 * [Strawberry](https://github.com/jfet97/strawberry) - 一组常用的 flexbox 实用程序，专注于使用嵌套的 flexbox 让您的生活更轻松、更快捷.
 * [Tachyons](http://tachyons.io/) - 人类的功能性 CSS.
@@ -110,13 +110,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [Bourbon](http://bourbon.io/) - 一个简单轻量级的 Sass 混合库.
 * [Susy](https://www.oddbird.net/susy/) - Sass 的响应式布局工具包.
-
-<sub>[⇧ back to top](#contents)</sub>
-
-## CSS Structure
-
-- [ITCSS](https://twitter.com/itcss_io) - 用于大型 UI 项目的健全的、可扩展的、托管的 CSS 架构.
-- [RSCSS](https://github.com/rstacruz/rscss) - CSS 样式表结构的合理标准.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -142,9 +135,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) 保罗戴维斯
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) 经过 [Ian Feather](https://twitter.com/ianfeather)
 * [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 经过 [Jacob Thornton](https://twitter.com/fat)
-* [Scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) 经过 [Bob经过 Grace](https://twitter.com/bob经过grace)
-* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
+* [Scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -153,9 +145,12 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Code Guide](http://codeguide.co/) 经过 [Mark Otto](https://twitter.com/mdo)
 * [CSS Guidelines](http://cssguidelin.es/) 经过 [Harry Roberts](https://twitter.com/csswizardry)
 * [CSS Styleguide](https://github.com/grvcoelho/css) 经过 [Guilherme Rv Coelho](https://github.com/grvcoelho)
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 由 Dropbox
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) 由谷歌
-* [idiomatic CSS](https://github.com/necolas/idiomatic-css) 经过 [Nicolas Gallagher](https://twitter.com/necolas)
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) 经过 [Nicolas Gallagher](https://twitter.com/necolas)
+* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 通过鲍比格雷斯
 * [Sass Guidelines](https://sass-guidelin.es/) 经过 [Kitty Giraudel](https://twitter.com/KittyGiraudel)
+* [SASS Style Guide](http://sass-lang.com/styleguide) 由萨斯团队
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) 由 ThinkUp
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) 世界出版社
 
@@ -165,13 +160,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) 由 Atlassian 设计
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 通过孤独星球
-* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 由 Dropbox
 * [Fluent UI](https://github.com/microsoft/fluentui) 由微软
 * [GitHub CSS Style Guide](https://primer.github.io/) 来自 Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) 由 Salesforce
-* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 通过鲍比格雷斯
 * [Patterns](https://ux.mailchimp.com/patterns) 通过 MailChimp
-* [SASS Style Guide](http://sass-lang.com/styleguide) 由萨斯团队
 * [Solid](http://solid.buzzfeed.com/) 通过 BuzzFeed
 * [Style Guide](https://www.starbucks.com/static/reference/styleguide/) 由星巴克
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by 很棒的人
@@ -199,7 +191,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Atomic Design](http://patternlab.io/resources.html)
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [ITCSS](http://itcss.io/)
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 * [MaintainableCSS](http://maintainablecss.com)
@@ -255,7 +246,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - 一个使用选择器查找错误标记的 CSS 小书签，在您编写错误 HTML 的地方以无衬线漫画显示丑陋的粉红色错误消息
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject)  - 一个`<div>  `. 很多可能性.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - 常见 JS UI 组件的 CSS 替代品.
-* [xpath-to-selector](https://github.com/steambap/xpath-to-selector) - 将 xpath 转换为 css 选择器.
+* [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) - 将 xpath 转换为 css 选择器.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -265,7 +256,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Podcast](https://thecsspodcast.libsyn.com/) - Una Kravets 和 Adam Argyle，以及发展.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - 寻找最优秀、最聪明的数字艺术创意人士，以及随附的博客和用户体验.
-* [Shop Talk Show](http://shoptalkshow.com/) - 由 Anna Debenham 和 Brad Frost 主持的关于前端网页设计的 Chris Coyier 和 Dave Rupert 的现场播客.
+* [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front-end web design,hosted by Anna Debenham and Brad Frost.
 * [Syntax](https://syntax.fm/) - 面向 Web 开发人员的美味点心播客.、排版、网络技术
 * [The Big Web Show](http://5by5.tv/bigwebshow/) - 像网络发布这样的主题，都是为了让你了解最新的开源技术.
 * [The Changelog](https://changelog.com/)  - 变更日志的标语说明了一切：“开源发展迅速. 赶上.” 这个播客，还有更多. 重要的是网络.
@@ -281,7 +272,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Adam Morse](https://twitter.com/mrmrs_) - 倡导用户和开源.
 * [Andrey Sitnik](https://twitter.com/andreysitnik) - @Autoprefixer、http://easings.net 和 @PostCSS 的作者.
 * [Ben Briggs](https://twitter.com/ben_eb)  - 最后一年的网络技术学生.  node.js、javascript、开源模块、客户端优化、Web 性能.
-* [Brad Frost](https://twitter.com/brad_frost) - Web designer, speaker, writer, consultant, musician.
+* [Brad Frost](https://twitter.com/brad_frost) - 网页设计师、演讲者、作家、顾问、音乐家.
 * [Chris Coyier](https://twitter.com/chriscoyier)  - 设计师@CodePen. 作家@Real_CSS_Tricks.
 * [Connor Sears](https://twitter.com/connors) - GitHub 的设计师.
 * [CSS Animation](https://twitter.com/cssanimation)
@@ -359,7 +350,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [30 Seconds of CSS](https://www.30secondsofcode.org/css/p/1) - 精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解.
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) - 热门推荐资源.
-* [CSS Diner](https://flukeout.github.io/) - 使用 CSS 学习选择的交互式游戏化教程.
+* [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - 从 Mozilla 学习 CSS Grid 的简单教程.
 * [CSS Grids videos tutorial](https://cssgrid.io/) - Wes Bos 学习 CSS 网格的免费视频课程.
 * [Flexbox video tutorial](https://flexbox.io/) - Wes Bos 的免费视频课程，用于学习 flexbox.

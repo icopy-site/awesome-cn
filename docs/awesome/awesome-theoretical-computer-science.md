@@ -27,7 +27,7 @@
 - [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 ### MOOC<a name=theory_of_computation_introductory_mooc></a>
-- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学的基本概念，例如 NP 完全性，以及它们对解决棘手的算法问题的意义.
+- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学中的基本概念，例如 NP 完备性，以及它们对解决棘手的算法问题的意义.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - 它侧重于计算的重大基本问题，以及理解算法的力量和局限性如何帮助我们开发工具，使现实世界的计算机更智能、更快、更安全.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
@@ -41,7 +41,7 @@
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/) ) - 计算复杂性理论本科课程； 它遵循了 Sipser 第三部分的相同精神.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - 它涵盖了大多数被认为已知的复杂性理论研究的入门知识.
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_introductory_lecture_notes></a>
-- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下限、平均案例复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
+- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下限、平均情况复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
 #### Books<a name=theory_of_computation_computational_complexity_introductory_books></a>
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - 一本黄金标准教科书，为研究生和研究人员调查计算复杂性理论.
 - [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - 计算复杂性理论的研究生介绍，强调复杂性理论概念背后的思想.
@@ -66,7 +66,7 @@
 ## Computability Theory<a name=theory_of_computation_computability_theory></a>
 ### Books<a name=theory_of_computation_computability_theory_books></a>
 #### Introductory<a name=theory_of_computation_computability_theory_books_introductory></a>
-- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地说，它解释了可计算函数的概念：其值可以以有效或自动的方式计算的函数.
+- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地说，它解释了可计算函数的概念：其值可以以有效或自动方式计算的函数.
 - [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - 对当代可计算性理论、技术和结果的简明、全面和权威的介绍.
 - [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - 在这本经典著作中，Davis 博士在高级本科阶段对可计算性进行了清晰的介绍，以满足专家和非专家的需求.
 #### Advanced<a name=theory_of_computation_computability_theory_books_advanced></a>
@@ -88,7 +88,11 @@
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth 关于算法设计和分析的传奇系列.
 ## Information/Coding Theory<a name=informationcoding_theory></a>
 ## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
--  [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/)  - 编码和解码的算法任务的一些元素及其与纠错的联系； 这些代码现在是算法设计和分析的工具，也是计算复杂性的许多方面的工具. 重点是算法和渐近重要性的构造. 只需要基本的数学成熟度
+-  [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/)  - 编码和解码的算法任务的一些元素及其与纠错的联系； 这些代码现在是算法设计和分析的工具，也是计算复杂性的许多方面的工具. 重点是算法和渐近重要性的构造. 只需要基本的数学成熟度.
+## Workshops<a name=informationcoding_theory_workshops></a>
+- [Simons Institute. Informaiton Theory Program](https://simons.berkeley.edu/programs/inftheory2015)  - 它旨在加强计算和通信社区之间的联系. 它探讨了 (1) 复杂性理论和组合学中的信息论技术，(2) 编码理论和应用，以及 (3) 信息论、机器学习和大数据.
+## Conferences<a name=informationcoding_theory_conferences></a>
+- [Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - 它弥合了理论计算机科学和生物信息学社区、新数据压缩技术和压缩数据计算之间的差距.
 ## Randomization<a name=randomization></a>
 - [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - 本课程的目的是让学生熟悉一些随机方法.
 ## Cryptography<a name=cryptography></a>
@@ -109,7 +113,7 @@
 - [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - 确定构成该主题基础的一组核心技术和原则.
 - [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - 旨在扩大计算机科学理论在机器学习中的影响力和影响力.
 - [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
-- [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288)  - 形式化方法和机器学习可以从演绎和归纳推理的角度相互告知. 本讲座旨在通过建立学习理论中的一些基本概念来促进两个社区之间的对话.
+- [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288)  - 形式化方法和机器学习可以从演绎和归纳推理的角度相互了解. 本讲座旨在通过建立学习理论中的一些基本概念来促进两个社区之间的对话.
 ## Conferences<a name=machine_learning_theory_conferences></a>
 - [COLT](https://www.learningtheory.org/)
 ## Research Groups<a name=machine_learning_theory_research_groups></a>
@@ -127,7 +131,7 @@
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7)  - 提出并讨论了热力学和复杂性之间的重要联系. 以教学方式编写，作为对黑洞及其复杂物理解释的基本介绍
 ## Philosophy<a name=philosophy></a>
 ## Lecture Notes<a name=philosophy_lecture_notes></a>
-- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，以及相反地，哲学可以为理论计算机科学做出哪些贡献.
+- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，以及相反，哲学可以为理论计算机科学做出哪些贡献.
 ## Books<a name=philosophy_books></a>
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - 信仰与科学之间关系的一般说明.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - 图灵在科学史和科学哲学中的地位.
@@ -166,7 +170,7 @@
 - [Arora. A Theorist's Toolkit](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/)  - 主要针对计划从事理论计算机科学研究的一年级和二年级研究生. 我们将介绍在证明中有用的概率、代数、组合和算法方法.
 ## Discrete Mathematics<a name=mathlogic_preliminaries_discrete_mathematics></a>
 ### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
-- [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - 离散数学荣誉讲义 - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
+- [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 ### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
 - [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - 一本规范的离散数学教科书，即使是高中生也可以使用.
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - 对离散数学的所有主题及其与计算和通信工程的相关性的完整调查.
@@ -192,7 +196,7 @@
 - [TCS+](https://www.youtube.com/user/TCSplusSeminars)  - 一系列理论计算机科学在线研讨会. 目标是让尽可能广泛的受众能够参与到引人入胜的演讲中.
 - [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html)  - 在线非正式会谈，专门讨论计算复杂性理论和相关领域感兴趣的话题. 目标是作为讨论和快速传播结果的论坛.
 - [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大化整个理论计算机科学界的影响和参与的计划、活动和研讨会.
-- [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ)
+- [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
  - ACM AM 图灵奖得主访谈. 伯克利 - 采访伯克利的图灵奖得主.  - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
  - 80 年代的伯克利 - 采访伯克利理论计算机科学领域的知名人士.  - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
@@ -214,7 +218,7 @@
 ## Blog Posts and Essays<a name=other_resources_blog_posts_and_essays></a>
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/)  - 研究方法课程，专注于如何而不是什么. 它侧重于计算机科学理论研究中常见的研究实践.
 - [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/)  - Oded Goldreich 和 Avi Wigderson 为“TOC：科学视角 (1996)”庆祝 25 周年. 它揭示了针对 TCS 的批评，即它没有数学那么深，也没有 CS 有用.
-- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
+- [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum，TCS 中非常受欢迎的人物，为青少年提供研究建议.
 - [Dijkstra. The Three Golden Rules for Successful Scientific Research](https://link.springer.com/chapter/10.1007%2F978-1-4612-5695-3_58) - 如果你想在科学研究中取得成功，必须遵守的三个规则的注释.
 - [Goldreich. Essays and Opinions](http://www.wisdom.weizmann.ac.il/~oded/essays.html)  - Oded Goldreich 的个人随笔. 他们在 TCS 及其社区的概念信息方面非常独特.
 - [Barak. Advice for The Budding Theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/) - 给对理论计算机科学感兴趣的人的提示.
@@ -247,4 +251,4 @@
 - [Algorithms](https://github.com/tayllan/awesome-algorithms) - 算法设计和分析的真棒列表
 - [Mathematics](https://github.com/rossant/awesome-math#mathematics-for-computer-science) - 很棒的免费数学讲义列表
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - 很棒的密码学列表
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算清单
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算列表
