@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Node-RED [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://nodered.org/"><img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="200" align="right" alt="Node-RED"></a>
 
-> Curated list of useful resources for Node-RED.
+&gt; Node-RED 有用资源的精选列表.
 
-[Node-RED](https://nodered.org/) is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+[Node-RED](https://nodered.org/) 是一种编程工具，用于以新颖有趣的方式将硬件设备、API 和在线服务连接在一起.
 
-It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+它提供了一个基于浏览器的编辑器，可以使用调色板中的各种节点轻松地将流连接在一起，只需单击一下即可将其部署到其运行时.
 
 
 
@@ -14,11 +14,11 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 - [Running locally](https://nodered.org/docs/getting-started/local)
 - [Running under Docker](https://github.com/node-red/node-red-docker)
-- [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) - A ready-to-use setup for home automation maintained by [german computer magazine c't](https://www.ct.de/smarthome).
-- [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - Starts an instance within Home Assistant and communicates with it.
-- [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) - Starts an instance within ioBroker and communicates with it.
-- [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
-- [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) - Install Node-RED on a CCU3, smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
+- [c't-Smart-Home](https://github.com/ct-Open-Source/ct-Smart-Home) - 一个现成的家庭自动化设置，由维护 [german computer magazine c't](https://www.ct.de/smarthome).
+- [Home Assistant Community Add-on](https://community.home-assistant.io/t/home-assistant-community-add-on-node-red/55023) - 在 Home Assistant 中启动一个实例并与之通信.
+- [ioBroker node-red Adapter](https://github.com/ioBroker/ioBroker.node-red) - 在 ioBroker 中启动一个实例并与之通信.
+- [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - 从命令行使用 openhab-config 安装 Node-RED，从“可选组件”中选择它.
+- [RedMatic](https://github.com/rdmtc/RedMatic/wiki/Installation) - 在制造商 eQ-3 的智能家居自动化硬件 CCU3 上安装 Node-RED，在德国尤其受欢迎.
 
 ## Documentation
 
@@ -30,177 +30,177 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ### Analysis
 
-- [badwords](https://github.com/node-red/node-red-nodes/tree/master/analysis/swearfilter) - Analyses the payload and tries to filter out any messages containing bad swear words. This only operates on payloads of type string. Everything else is blocked.
-- [wordpos](https://github.com/node-red/node-red-nodes/tree/master/analysis/wordpos) - Analyses the payload and classifies the part-of-speech of each word. The resulting message has msg.pos added with the results. A word may appear in multiple categories (eg, 'great' is both a noun and an adjective).
+- [badwords](https://github.com/node-red/node-red-nodes/tree/master/analysis/swearfilter)  - 分析有效负载并尝试过滤掉任何包含脏话的消息. 这仅适用于字符串类型的有效负载. 其他一切都被阻止.
+- [wordpos](https://github.com/node-red/node-red-nodes/tree/master/analysis/wordpos)  - 分析有效载荷并对每个单词的词性进行分类. 生成的消息在结果中添加了 msg.pos. 一个词可能出现在多个类别中（例如，“great”既是名词又是形容词）.
 
 ### Database
 
-- [influxdb](https://github.com/mblackstock/node-red-contrib-influxdb) - Save and query data from an InfluxDB time series database.
-- [mssql-plus](https://github.com/bestlong/node-red-contrib-mssql-plus) - Execute queries, stored procedures and bulk inserts in Microsoft SQL Server and Azure Databases SQL2000 ~ SQL2019.
-- [stackhero-influxdb-v2](https://github.com/stackhero-io/node-red-contrib-stackhero-influxdb-v2) - Save and query data from an InfluxDB v2 time series database.
-- [stackhero-mysql](https://github.com/stackhero-io/node-red-contrib-stackhero-mysql) - Connect to a MySQL or a MariaDB database, using TLS (SSL) and compatible with "Caching SHA2 password" authentication method (MySQL >= 8).
-- [leveldb](https://github.com/node-red/node-red-nodes/tree/master/storage/leveldb) - Uses LevelDB for a simple key value pair database.
-- [mysql](https://github.com/node-red/node-red-nodes/tree/master/storage/mysql) - Allows basic access to a MySQL database. 
-- [sqlite](https://github.com/node-red/node-red-nodes/tree/master/storage/sqlite) - Supports read and write to a local sqlite database.
+- [influxdb](https://github.com/mblackstock/node-red-contrib-influxdb) - 从 InfluxDB 时间序列数据库中保存和查询数据.
+- [mssql-plus](https://github.com/bestlong/node-red-contrib-mssql-plus) - 在 Microsoft SQL Server 和 Azure 数据库 SQL2000 ~ SQL2019 中执行查询、存储过程和批量插入.
+- [stackhero-influxdb-v2](https://github.com/stackhero-io/node-red-contrib-stackhero-influxdb-v2) - 从 InfluxDB v2 时间序列数据库中保存和查询数据.
+- [stackhero-mysql](https://github.com/stackhero-io/node-red-contrib-stackhero-mysql) - 连接到 MySQL 或 MariaDB 数据库，使用 TLS (SSL) 并兼容“缓存 SHA2 密码”身份验证方法 (MySQL &gt;= 8).
+- [leveldb](https://github.com/node-red/node-red-nodes/tree/master/storage/leveldb) - 将 LevelDB 用于简单的键值对数据库.
+- [mysql](https://github.com/node-red/node-red-nodes/tree/master/storage/mysql) - 允许对 MySQL 数据库进行基本访问. 
+- [sqlite](https://github.com/node-red/node-red-nodes/tree/master/storage/sqlite) - 支持读取和写入本地 sqlite 数据库.
 
 ### Development
 
-- [typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter) - Quick-start template repository for creating new node sets in TypeScript.
+- [typescript-starter](https://github.com/alexk111/node-red-node-typescript-starter) - 用于在 TypeScript 中创建新节点集的快速启动模板存储库.
 
 ### Function
 
-- [datagenerater](https://github.com/node-red/node-red-nodes/tree/master/function/datagenerator) - Generate dummy data in various formats, names, addresses, emails, numbers, words, etc.
-- [pidcontrol](https://github.com/node-red/node-red-nodes/tree/master/function/PID) - A PID control node for numeric inputs - provides simple controll loop feedback capability.
-- [random](https://github.com/node-red/node-red-nodes/tree/master/function/random) - Random number generator - can generate integers for x to y - or floats between x and y.
-- [rbe](https://github.com/node-red/node-red-nodes/tree/master/function/rbe) - Provide report by exception and deadband / bandgap capability for simple inputs.
-- [smooth](https://github.com/node-red/node-red-nodes/tree/master/function/smooth) - Provide various functions across several previous values, including max, min, mean, high and low pass filters.
+- [datagenerater](https://github.com/node-red/node-red-nodes/tree/master/function/datagenerator) - 生成各种格式、名称、地址、电子邮件、数字、单词等的虚拟数据.
+- [pidcontrol](https://github.com/node-red/node-red-nodes/tree/master/function/PID) - 数字输入的 PID 控制节点 - 提供简单的控制回路反馈能力.
+- [random](https://github.com/node-red/node-red-nodes/tree/master/function/random) - 随机数生成器 - 可以为 x 到 y 生成整数 - 或在 x 和 y 之间浮动.
+- [rbe](https://github.com/node-red/node-red-nodes/tree/master/function/rbe) - 为简单的输入提供异常报告和死区/带隙功能.
+- [smooth](https://github.com/node-red/node-red-nodes/tree/master/function/smooth) - 提供跨越多个先前值的各种函数，包括最大值、最小值、平均值、高通和低通滤波器.
 
 ### Hardware
 
-- [arduino](https://github.com/node-red/node-red-nodes/tree/master/hardware/Arduino) - Uses firmata protocol to talk to the board.
-- [beaglebone](https://github.com/node-red/node-red-nodes/tree/master/hardware/BBB) - Nodes for the [Beaglebone Black](https://beagleboard.org/black).
-- [blink1](https://github.com/node-red/node-red-nodes/tree/master/hardware/blink1) - [Blink1](https://blink1.thingm.com/) USB LED from ThingM.
-- [blinkstick](https://github.com/node-red/node-red-nodes/tree/master/hardware/blinkstick) - [BlinkStick](https://www.blinkstick.com/) USB LED device.
+- [arduino](https://github.com/node-red/node-red-nodes/tree/master/hardware/Arduino) - 使用firmata 协议与董事会对话.
+- [beaglebone](https://github.com/node-red/node-red-nodes/tree/master/hardware/BBB) - 节点 [Beaglebone Black](https://beagleboard.org/black).
+- [blink1](https://github.com/node-red/node-red-nodes/tree/master/hardware/blink1) - [Blink1](https://blink1.thingm.com/) ThingM 的 USB LED.
+- [blinkstick](https://github.com/node-red/node-red-nodes/tree/master/hardware/blinkstick) - [BlinkStick](https://www.blinkstick.com/) USB LED 设备.
 - [digirgb](https://github.com/node-red/node-red-nodes/tree/master/hardware/digiRGB) - DigiSpark RGB USB LED.
-- [heatmiser](https://github.com/node-red/node-red-nodes/tree/master/hardware/heatmiser) - Temperature and frost protection for Heatmiser thermostats.
-- [intel-galileo](https://github.com/node-red/node-red-nodes/tree/master/hardware/intel) - A collection for the Intel Galileo and Edison.
-- [ledborg](https://github.com/node-red/node-red-nodes/tree/master/hardware/LEDborg) - [LEDborg](https://www.piborg.org/ledborg) plug on module.
-- [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) - Read from a [MakeyMakey](http://www.makeymakey.com/) input device.
-- [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) - An alternative to the default PI GPIO nodes that allows remote access.
-- [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) - Read from MCP300x series Analogue to Digital Converter chips via the SPI bus.
-- [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) - Drive a strip of NeoPixels directly.
-- [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) - Controls a Pimorini Unicorn HAT 8x8 LED display.
-- [pibrella](https://github.com/node-red/node-red-nodes/tree/master/hardware/Pibrella) - Controls a [Pibrella](https://pibrella.com/) add-on board.
-- [piface](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiFace) - [PiFace](https://www.piface.org.uk/) interface module.
-- [piliter](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiLiter) - Controls a Pimorini Pi-LITEr 8 LED add-on board.
-- [sensortag](https://github.com/node-red/node-red-nodes/tree/master/hardware/sensorTag) - Reads data from the Ti Bluetooth Low Energy SensorTag device.
-- [wemo](https://github.com/node-red/node-red-nodes/tree/master/hardware/wemo) - Drive a [WeMo](https://www.belkin.com/us/Products/home-automation/c/wemo-home-automation/) socket and switch.
-- [scanBLE](https://github.com/node-red/node-red-nodes/tree/master/hardware/scanBLE) - Scans for a particular Bluetooth Low Energy device.
+- [heatmiser](https://github.com/node-red/node-red-nodes/tree/master/hardware/heatmiser) - Heatmiser 恒温器的温度和霜冻保护.
+- [intel-galileo](https://github.com/node-red/node-red-nodes/tree/master/hardware/intel) - 英特尔伽利略和爱迪生的收藏.
+- [ledborg](https://github.com/node-red/node-red-nodes/tree/master/hardware/LEDborg) - [LEDborg](https://www.piborg.org/ledborg) 插入模块.
+- [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) - 从一个读 [MakeyMakey](http://www.makeymakey.com/) 输入设备.
+- [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) - 允许远程访问的默认 PI GPIO 节点的替代方案.
+- [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) - 通过 SPI 总线从 MCP300x 系列模数转换器芯片读取.
+- [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) - 直接驱动一条 NeoPixels.
+- [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) - 控制 Pimorini Unicorn HAT 8x8 LED 显示屏.
+- [pibrella](https://github.com/node-red/node-red-nodes/tree/master/hardware/Pibrella) - 控制一个 [Pibrella](https://pibrella.com/) 附加板.
+- [piface](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiFace) - [PiFace](https://www.piface.org.uk/) 接口模块.
+- [piliter](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiLiter) - 控制 Pimorini Pi-LITER 8 LED 附加板.
+- [sensortag](https://github.com/node-red/node-red-nodes/tree/master/hardware/sensorTag) - 从 Ti 蓝牙低功耗 SensorTag 设备读取数据.
+- [wemo](https://github.com/node-red/node-red-nodes/tree/master/hardware/wemo) - 驾驶 [WeMo](https://www.belkin.com/us/Products/home-automation/c/wemo-home-automation/) 插座和开关.
+- [scanBLE](https://github.com/node-red/node-red-nodes/tree/master/hardware/scanBLE) - 扫描特定的低功耗蓝牙设备.
 
 ### I/O
 
-- [discovery](https://github.com/node-red/node-red-nodes/tree/master/io/mdns) - Discovers other Avahi/Bonjour services on the network.
-- [emoncms](https://github.com/node-red/node-red-nodes/tree/master/io/emoncms) - Post to an [Emoncms](https://emoncms.org/) server.
-- [noble-bluetooth](https://github.com/clausbroch/node-red-contrib-noble-bluetooth) - Based on noble for interaction with Bluetooth Low Energy devices.
-- [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) - Upload timeseries, files and events to MindSphere.
-- [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) - All in one Modbus TCP and Serial package.
-- [mqlight](https://github.com/node-red/node-red-nodes/tree/master/io/mqlight) - Adds nodes to send and receive using MQlight.
-- [ping](https://github.com/node-red/node-red-nodes/tree/master/io/ping) - Pings a machine and returns the trip time in mS.
-- [s7](https://github.com/st-one-io/node-red-contrib-s7) - Interact with Siemens S7 PLCs.
-- [serialport](https://github.com/node-red/node-red-nodes/tree/master/io/serialport) - Send messages to and receive messages from a physical serial port.
-- [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) - SNMP receivers for single OIDs or OID tables.
-- [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) - Publish and subscribe to and from a [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
-- [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) - Sends a Wake-On-LAN magic packet to the mac address specified.
-- [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) - Single "Xiaomi BLE" node that gets all known data from Xiaomi BLE (Bluetooth 4).
+- [discovery](https://github.com/node-red/node-red-nodes/tree/master/io/mdns) - 发现网络上的其他 Avahi/Bonjour 服务.
+- [emoncms](https://github.com/node-red/node-red-nodes/tree/master/io/emoncms) - 发布到 [Emoncms](https://emoncms.org/) 服务器.
+- [noble-bluetooth](https://github.com/clausbroch/node-red-contrib-noble-bluetooth) - 基于高贵与低功耗蓝牙设备的交互.
+- [mindconnect](https://github.com/mindsphere/node-red-contrib-mindconnect) - 将时间序列、文件和事件上传到 MindSphere.
+- [modbus](https://github.com/biancoroyal/node-red-contrib-modbus) - 多合一 Modbus TCP 和串行包.
+- [mqlight](https://github.com/node-red/node-red-nodes/tree/master/io/mqlight) - 添加节点以使用 MQlight 发送和接收.
+- [ping](https://github.com/node-red/node-red-nodes/tree/master/io/ping) - ping 一台机器并以毫秒为单位返回行程时间.
+- [s7](https://github.com/st-one-io/node-red-contrib-s7) - 与西门子 S7 PLC 交互.
+- [serialport](https://github.com/node-red/node-red-nodes/tree/master/io/serialport) - 向物理串行端口发送消息和从物理串行端口接收消息.
+- [snmp](https://github.com/node-red/node-red-nodes/tree/master/io/snmp) - 单个 OID 或 OID 表的 SNMP 接收器.
+- [stomp](https://github.com/node-red/node-red-nodes/tree/master/io/stomp) - 发布和订阅 [STOMP server](https://stomp.github.io/implementations.html#STOMP_Servers).
+- [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) - 将 Wake-On-LAN 魔术包发送到指定的 mac 地址.
+- [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) - 从小米 BLE（蓝牙 4）获取所有已知数据的单个“小米 BLE”节点.
 
 ### Parsers
 
-- [base64](https://github.com/node-red/node-red-nodes/tree/master/parsers/base64) - Converts a payload to/from base64 encoded format.
-- [geohash](https://github.com/node-red/node-red-nodes/tree/master/parsers/geohash) - Converts a lat, lon payload to/from geohash format.
-- [msgpack](https://github.com/node-red/node-red-nodes/tree/master/parsers/msgpack) - Converts a payload to/from msgpack binary packed format.
-- [what3words](https://github.com/node-red/node-red-nodes/tree/master/parsers/what3words) - Encodes or Decodes a lat, lon position into what3words text format.
+- [base64](https://github.com/node-red/node-red-nodes/tree/master/parsers/base64) - 将有效负载转换为/从 base64 编码格式.
+- [geohash](https://github.com/node-red/node-red-nodes/tree/master/parsers/geohash) - 将 lat、lon 有效负载转换为 geohash 格式/从 geohash 格式转换.
+- [msgpack](https://github.com/node-red/node-red-nodes/tree/master/parsers/msgpack) - 将有效负载转换为 msgpack 二进制打包格式/从 msgpack 二进制打包格式转换.
+- [what3words](https://github.com/node-red/node-red-nodes/tree/master/parsers/what3words) - 将 lat、lon 位置编码或解码为 what3words 文本格式.
 
 ### Smarthome
 
-- [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) - 仅在本地网络中与 Alexa 连接 - 不需要额外的云内容。
-- [alexa-home-skill-v3](https://github.com/coldfire84/node-red-contrib-alexa-home-skill-v3) - Controls things via Alexa and Google Home.
-    - [alexa-home-skill-v3-web](https://github.com/coldfire84/node-red-alexa-home-skill-v3-web) - Web Service for Alexa and Google Home.
-    - [alexa-home-skill-v3-lambda](https://github.com/coldfire84/node-red-alexa-home-skill-v3-lambda) - Lambda function for node-red-alexa-home-skill-v3-web.
-- [alexa-remote-cakebaked](https://github.com/cakebake/node-red-contrib-alexa-remote-cakebaked) <i>- Interacting with the Alexa API.</i> <b>- 与 Alexa API 交互。</b> <i>Emulates routine behaviour, control and query your devices.</i><b>模拟日常行为、控制和查询您的设备。</b>
-- [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) - Integrate and control YAMAHA™ audio/video receiver via YNCA protocol.
-- [ccu](https://github.com/rdmtc/node-red-contrib-ccu) - Connect with Homematic, a series of smart home automation hardware from the manufacturer eQ-3, popular especially in Germany.
-- [deconz](https://github.com/deconz-community/node-red-contrib-deconz) - Access Zigbee 3.0 (Z30), Zigbee Home Automation (ZHA) and Zigbee Light Link (ZLL) lights via deCONZ.
-- [fritz](https://github.com/bashgroup/node-red-contrib-fritz) - Provides easy access to your AVM Fritz!Box. Read and write the configuration including the VoIP and Dect configuration.
-- [fritzapi](https://github.com/dnknth/node-red-contrib-fritzapi) - Controls smart home DECT devices and guest wifi through an AVM Fritz!Box.
-- [harmony](https://github.com/Aietes/node-red-contrib-harmony) - Controls devices connected to a Logitech™ Harmony Hub.
-- [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) - Connect with Home Assistant.
-- [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - Various nodes using websockets to assist in setting up communication with Home Assistant.
-- [homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - Integrate Homebridge Accessories into flows.
-- [homee](https://github.com/stfnhmplr/node-red-contrib-homee) - Access the homee api and create virtual devices for homee.
-- [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - Imitate HomeKit devices.
-- [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) - Controls Philips Hue bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors.
-- [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) - Controls LG webOS Smart TVs.
-- [loxone](https://github.com/codmpm/node-red-contrib-loxone) - Connect to the Loxone Miniserver.
+- [alexa-home](https://github.com/mabunixda/node-red-contrib-alexa-home) - 仅在本地网络中与 Alexa 连接 - 不需要额外的云内容.
+- [alexa-home-skill-v3](https://github.com/coldfire84/node-red-contrib-alexa-home-skill-v3) - 通过 Alexa 和 Google Home 控制事物.
+    - [alexa-home-skill-v3-web](https://github.com/coldfire84/node-red-alexa-home-skill-v3-web) - Alexa 和 Google Home 的网络服务.
+    - [alexa-home-skill-v3-lambda](https://github.com/coldfire84/node-red-alexa-home-skill-v3-lambda) - node-red-alexa-home-skill-v3-web 的 Lambda 函数.
+- [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel)  - 与 Alexa API 交互. 模拟日常行为、控制和查询您的设备.
+- [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) - 通过 YNCA 协议集成和控制 YAMAHA™ 音频/视频接收器.
+- [ccu](https://github.com/rdmtc/node-red-contrib-ccu) - 连接 Homematic，这是制造商 eQ-3 的一系列智能家居自动化硬件，在德国尤其受欢迎.
+- [deconz](https://github.com/deconz-community/node-red-contrib-deconz) - 通过 deCONZ 访问 Zigbee 3.0 (Z30)、Zigbee 家庭自动化 (ZHA) 和 Zigbee Light Link (ZLL) 灯.
+- [fritz](https://github.com/bashgroup/node-red-contrib-fritz)  - 提供对您的 AVM Fritz!Box 的轻松访问. 读写配置，包括 VoIP 和 Dect 配置.
+- [fritzapi](https://github.com/dnknth/node-red-contrib-fritzapi) - 通过 AVM Fritz!Box 控制智能家居 DECT 设备和访客 wifi.
+- [harmony](https://github.com/Aietes/node-red-contrib-harmony) - 控制连接到 Logitech™ Harmony Hub 的设备.
+- [home-assistant](https://github.com/AYapejian/node-red-contrib-home-assistant) - 与家庭助理联系.
+- [home-assistant-websocket](https://github.com/zachowj/node-red-contrib-home-assistant-websocket) - 各种节点使用 websocket 来协助建立与 Home Assistant 的通信.
+- [homebridge-automation](https://github.com/NorthernMan54/node-red-contrib-homebridge-automation) - 将 Homebridge 配件集成到流程中.
+- [homee](https://github.com/stfnhmplr/node-red-contrib-homee) - 访问 homee api 并为 homee 创建虚拟设备.
+- [homekit-bridged](https://github.com/NRCHKB/node-red-contrib-homekit-bridged) - 模仿 HomeKit 设备.
+- [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) - 控制飞利浦 Hue 桥、灯、组、场景、规则、水龙头、开关、按钮、运动传感器、温度传感器和 Lux 传感器.
+- [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) - 控制 LG webOS 智能电视.
+- [loxone](https://github.com/codmpm/node-red-contrib-loxone) - 连接到 Loxone 迷你服务器.
 - [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) - Controls KNX intallation. With optional ETS group address importer and gateway simulation. 
-- [openhab3](https://github.com/jeroenhendricksen/node-red-contrib-openhab3) - Integration of openHAB item states and commands.
-- [power-saver](https://power-saver.smoky.no/) - Automatically save money on variable electricity prices.
-- [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) - Google smart home Action integration via Smart NORA.
-- [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) - Controls Sonos player in your local network.
-- [tado-client](https://github.com/mattdavis90/node-red-contrib-tado-client) - Connect to the Tado Web API.
-- [tahoma](https://github.com/nikkow/node-red-contrib-tahoma) - Controls a Somfy Tahoma box (Roller shutters, etc.). 
-- [tasmota](https://github.com/DaveMDS/node-red-contrib-tasmota) - Tasmota devices integration for building automation.
-- [tuya-smart](https://github.com/hgross/node-red-contrib-tuya-smart) - Interface with smart plugs, bulbs, etc. from tuya.
-- [zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee) - Controls Zigbee Devices via a CC253x Module.
-- [zigbee2mqtt](https://github.com/andreypopov/node-red-contrib-zigbee2mqtt) - Zigbee2mqtt connectivity.
-- [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) - Integrates Z-Wave node based on Z-Wave JS.
+- [openhab3](https://github.com/jeroenhendricksen/node-red-contrib-openhab3) - openHAB 项目状态和命令的集成.
+- [power-saver](https://power-saver.smoky.no/) - 自动节省可变电价的费用.
+- [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) - 通过 Smart NORA 集成 Google 智能家居操作.
+- [sonos-plus](https://github.com/hklages/node-red-contrib-sonos-plus) - 控制本地网络中的 Sonos 播放器.
+- [tado-client](https://github.com/mattdavis90/node-red-contrib-tado-client) - 连接到 Tado Web API.
+- [tahoma](https://github.com/nikkow/node-red-contrib-tahoma) - 控制 Somfy Tahoma 盒子（卷帘百叶窗等）. 
+- [tasmota](https://github.com/DaveMDS/node-red-contrib-tasmota) - 用于楼宇自动化的 Tasmota 设备集成.
+- [tuya-smart](https://github.com/hgross/node-red-contrib-tuya-smart) - 与涂鸦智能插头、灯泡等接口.
+- [zigbee](https://github.com/hobbyquaker/node-red-contrib-zigbee) - 通过 CC253x 模块控制 Zigbee 设备.
+- [zigbee2mqtt](https://github.com/andreypopov/node-red-contrib-zigbee2mqtt) - Zigbee2mqtt 连接.
+- [zwave-js](https://github.com/zwave-js/node-red-contrib-zwave-js) - 基于 Z-Wave JS 集成 Z-Wave 节点.
 
 ### Social
 
-- [chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Full featured chat bot for Telegram, Facebook Messenger, Viber, Twilio and Slack.
-- [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) - Interact with Discord, via Discord.js.
-- [dweetio](https://github.com/node-red/node-red-nodes/tree/master/social/dweetio) - Uses [dweetio](https://dweet.io/) to send/receive messages.
-- [email](https://github.com/node-red/node-red-nodes/tree/master/social/email) - Sends and receives simple emails from services like gmail or smtp or imap servers.
-- [feedparser](https://github.com/node-red/node-red-nodes/tree/master/social/feedparser) - Reads messages from an atom or rss feed.
-- [irc](https://github.com/node-red/node-red-nodes/tree/master/social/irc) - Connect to an IRC server to send and receive messages.
-- [notify](https://github.com/node-red/node-red-nodes/tree/master/social/notify) - Uses [Growl](https://growl.info/) to provide a desktop popup. Only useful on the local Apple machine.
-- [prowl](https://github.com/node-red/node-red-nodes/tree/master/social/prowl) - Uses [Prowl](https://www.prowlapp.com/) to push to an Apple device that has the Prowl app installed.
-- [pushbullet](https://github.com/node-red/node-red-nodes/tree/master/social/pushbullet) - Uses [PushBullet](https://www.pushbullet.com/) to push an Android device that has the app installed.
-- [pusher](https://github.com/node-red/node-red-nodes/tree/master/social/pusher) - Publish-Subscribe to a [Pusher](https://pusher.com/) channel/event.
-- [pushover](https://github.com/node-red/node-red-nodes/tree/master/social/pushover) - Sends alerts via [Pushover](https://pushover.net/).
-- [PushStaq](https://github.com/pantchox/node-red-contrib-pushstaq) - Send real time alerts using Push Notifications from your Node-Red flows to any device with [PushStaq](https://www.pushstaq.com).
-- [slack](https://github.com/yayadrian/node-red-slack) - Interact with the Slack API.
-- [sms77](https://github.com/sms77io/nodered-contrib-sms77) - Uses [sms77](https://www.sms77.io/) service for SMS, text-to-speech calls and number lookups.
-- [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) - Contains a receiver and a sender node which act as a Telegram Bot.
-- [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) - Uses [Twilio](https://www.twilio.com/) service to send/receive text messages.
-- [whin](https://github.com/inUtil-info/node-red-contrib-whin) - Send and receive whatsapps from within a nodered flow.
-- [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) - Connect to an XMPP server to send and receive messages.
-- [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
+- [chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Telegram、Facebook Messenger、Viber、Twilio 和 Slack 的全功能聊天机器人.
+- [discord-advanced](https://github.com/Markoudstaal/node-red-contrib-discord-advanced) - 通过 Discord.js 与 Discord 交互.
+- [dweetio](https://github.com/node-red/node-red-nodes/tree/master/social/dweetio) - 用途 [dweetio](https://dweet.io/) 发送/接收消息.
+- [email](https://github.com/node-red/node-red-nodes/tree/master/social/email) - 发送和接收来自 gmail 或 smtp 或 imap 服务器等服务的简单电子邮件.
+- [feedparser](https://github.com/node-red/node-red-nodes/tree/master/social/feedparser) - 从 atom 或 rss feed 读取消息.
+- [irc](https://github.com/node-red/node-red-nodes/tree/master/social/irc) - 连接到 IRC 服务器以发送和接收消息.
+- [notify](https://github.com/node-red/node-red-nodes/tree/master/social/notify) - 用途 [Growl](https://growl.info/) 提供桌面弹出窗口. 仅在本地 Apple 机器上有用.
+- [prowl](https://github.com/node-red/node-red-nodes/tree/master/social/prowl) - 用途 [Prowl](https://www.prowlapp.com/) 推送到安装了 Prowl 应用程序的 Apple 设备.
+- [pushbullet](https://github.com/node-red/node-red-nodes/tree/master/social/pushbullet) - 用途 [PushBullet](https://www.pushbullet.com/) 推送安装了该应用程序的 Android 设备.
+- [pusher](https://github.com/node-red/node-red-nodes/tree/master/social/pusher) - 发布订阅 [Pusher](https://pusher.com/) 频道/事件.
+- [pushover](https://github.com/node-red/node-red-nodes/tree/master/social/pushover) - 通过发送警报 [Pushover](https://pushover.net/).
+- [PushStaq](https://github.com/pantchox/node-red-contrib-pushstaq) - 使用推送通知从您的 Node-Red 流向任何设备发送实时警报 [PushStaq](https://www.pushstaq.com).
+- [slack](https://github.com/yayadrian/node-red-slack) - 与 Slack API 交互.
+- [sms77](https://github.com/sms77io/nodered-contrib-sms77) - 用途 [sms77](https://www.sms77.io/) 短信、文字转语音电话和号码查询服务.
+- [telegrambot](https://github.com/windkh/node-red-contrib-telegrambot) - 包含充当 Telegram Bot 的接收者和发送者节点.
+- [twilio](https://github.com/node-red/node-red-nodes/tree/master/social/twilio) - 用途 [Twilio](https://www.twilio.com/) 发送/接收短信的服务.
+- [whin](https://github.com/inUtil-info/node-red-contrib-whin) - 从节点流中发送和接收whatsapps.
+- [xmpp](https://github.com/node-red/node-red-nodes/tree/master/social/xmpp) - 连接到 XMPP 服务器以发送和接收消息.
+- [open-wa (whatsapp)](https://github.com/open-wa/node-red-contrib-wa-automate) - 有效连接到您的 open-wa whatsapp 自动化服务器的远程实例.
 
 ### System
 
-- [aedes](https://github.com/martin-doyle/node-red-contrib-aedes) - MQTT Broker based on Aedes.
-- [dockerode](https://github.com/naimo84/node-red-contrib-dockerode) - Connect to Docker daemon.
-- [os](https://github.com/Argonne-National-Laboratory/node-red-contrib-os) - Obtain system information.
+- [aedes](https://github.com/martin-doyle/node-red-contrib-aedes) - 基于 Aedes 的 MQTT 代理.
+- [dockerode](https://github.com/naimo84/node-red-contrib-dockerode) - 连接到 Docker 守护进程.
+- [os](https://github.com/Argonne-National-Laboratory/node-red-contrib-os) - 获取系统信息.
 
 ### Time
 
-- [blindcontroller](https://github.com/alisdairjsmyth/node-red-contrib-blindcontroller) - Automate the control of household roller blinds based on the current position of the sun.
-- [bigtimer](https://github.com/scargill/node-red-contrib-bigtimer) - Timing node with support for dusk/sunset dawn/sunrise and variations also day/week/month (and special days) control. The node offers outputs suitable for MQTT, speech and databases.
-- [suncalc](https://github.com/node-red/node-red-nodes/tree/master/time/suncalc) - Uses the suncalc module to generate an output at sunrise and sunset based on a specified location. 
-- [simpletime](https://github.com/Paul-Reed/node-red-contrib-simpletime) - Adds time and date payloads with various formatting options, which can be retreived and used later in the flow.
-- [sun-position](https://github.com/rdmtc/node-red-contrib-sun-position) - Timer based flow control with dusk, dawn (and variations) and much more. Additional you can get sun and moon position or to control a flow by sun or moon position.
-- [timeswitch](https://github.com/node-red/node-red-nodes/tree/master/time/timeswitch) - Lets the user set simple repeating timers for example for simple heating control, etc.
+- [blindcontroller](https://github.com/alisdairjsmyth/node-red-contrib-blindcontroller) - 根据太阳的当前位置自动控制家用卷帘.
+- [bigtimer](https://github.com/scargill/node-red-contrib-bigtimer)  - 支持黄昏/日落黎明/日出和变化的时间节点以及日/周/月（和特殊日子）控制. 该节点提供适用于 MQTT、语音和数据库的输出.
+- [suncalc](https://github.com/node-red/node-red-nodes/tree/master/time/suncalc) - 使用 suncalc 模块根据指定位置在日出和日落时生成输出. 
+- [simpletime](https://github.com/Paul-Reed/node-red-contrib-simpletime) - 添加具有各种格式选项的时间和日期有效负载，可以在流程中稍后检索和使用.
+- [sun-position](https://github.com/rdmtc/node-red-contrib-sun-position)  - 基于定时器的流量控制，包括黄昏、黎明（和变化）等等. 另外，您可以获得太阳和月亮位置或通过太阳或月亮位置控制流量.
+- [timeswitch](https://github.com/node-red/node-red-nodes/tree/master/time/timeswitch) - 让用户设置简单的重复计时器，例如简单的加热控制等.
 
 ### Utility
 
-- [actionflows](https://github.com/Steveorevo/node-red-contrib-actionflows) - Brings easy to use loops and OOP (object oriented programming) features.
-- [alarm](https://github.com/Anamico/node-red-contrib-alarm) - Build your own home alarm system with any number of panels, zones, sensors, triggers and automations.
-- [bool-gate](https://flows.nodered.org/node/node-red-contrib-bool-gate) - Boolean logic gates.
-- [daemon](https://github.com/node-red/node-red-nodes/tree/master/utility/daemon) - Starts up (calls) a long running system program and pipes STDIN, STDOUT and STDERR to and from that process. 
-- [exif](https://github.com/node-red/node-red-nodes/tree/master/utility/exif) - Extracts GPS and other EXIF information from a passed in jpeg image.
-- [german-holidays](https://github.com/rdmtc/node-red-contrib-german-holidays) - Getting german holidays or information if today/tomorrow is a holiday.
-- [ical-events](https://github.com/naimo84/node-red-contrib-ical-events) - Get events from an ical-URL, a caldav-server or from iCloud via [kalender-events](https://github.com/naimo84/kalender-events).
-- [interval-length](https://github.com/bartbutenaers/node-red-contrib-interval-length) - Measure the (time) interval length between successive messages.
-- [moment](https://github.com/totallyinformation/node-red-contrib-moment) - Produces a nicely formatted Date/Time string using the Moment.js library. 
-- [owntracks](https://github.com/hardillb/node-red-contrib-owntracks) - Converts Owntrack Messages into standard geo message and deals with encrypted locations.
-- [persist](https://github.com/DeanCording/node-red-contrib-persist) - Persist data over Node-RED restarts and deploys.
-- [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) - Making Node-RED more resilient by adding self-healing capabilities.
-- [state-machine](https://github.com/DeanCording/node-red-contrib-state-machine) - Wraps around the JavaScript State Machine to implement a finite state machine.
-- [string](https://github.com/steveorevo/node-red-contrib-string) - Provides native and extended chainable JavaScript string parsing and manipulation methods.
-- [twc-weather](https://github.com/johnwalicki/node-red-contrib-twc-weather) - The Weather Company and Weather Underground Personal Weather Station APIs.
-- [users](https://github.com/SenseTecnic/node-red-contrib-users) - Quickly build a very simple user access control for HTTP-based flows.
-- [watson](https://github.com/watson-developer-cloud/node-red-node-watson) - Interact with the IBM Watson services in IBM Cloud.
+- [actionflows](https://github.com/Steveorevo/node-red-contrib-actionflows) - 带来易于使用的循环和 OOP（面向对象编程）功能.
+- [alarm](https://github.com/Anamico/node-red-contrib-alarm) - 使用任意数量的面板、区域、传感器、触发器和自动化构建您自己的家庭报警系统.
+- [bool-gate](https://flows.nodered.org/node/node-red-contrib-bool-gate) - 布尔逻辑门.
+- [daemon](https://github.com/node-red/node-red-nodes/tree/master/utility/daemon) - 启动（调用）一个长时间运行的系统程序，并通过管道将 STDIN、STDOUT 和 STDERR 传送到该进程并从该进程传出. 
+- [exif](https://github.com/node-red/node-red-nodes/tree/master/utility/exif) - 从传入的 jpeg 图像中提取 GPS 和其他 EXIF 信息.
+- [german-holidays](https://github.com/rdmtc/node-red-contrib-german-holidays) - 如果今天/明天是假期，则获取德国假期或信息.
+- [ical-events](https://github.com/naimo84/node-red-contrib-ical-events) - 通过 ical-URL、caldav-server 或 iCloud 获取事件 [kalender-events](https://github.com/naimo84/kalender-events).
+- [interval-length](https://github.com/bartbutenaers/node-red-contrib-interval-length) - 测量连续消息之间的（时间）间隔长度.
+- [moment](https://github.com/totallyinformation/node-red-contrib-moment) - 使用 Moment.js 库生成格式良好的日期/时间字符串. 
+- [owntracks](https://github.com/hardillb/node-red-contrib-owntracks) - 将 Owntrack 消息转换为标准地理消息并处理加密位置.
+- [persist](https://github.com/DeanCording/node-red-contrib-persist) - 通过 Node-RED 重新启动和部署持久化数据.
+- [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) - 通过添加自我修复功能使 Node-RED 更具弹性.
+- [state-machine](https://github.com/DeanCording/node-red-contrib-state-machine) - 环绕 JavaScript 状态机以实现有限状态机.
+- [string](https://github.com/steveorevo/node-red-contrib-string) - 提供原生和扩展的可链接 JavaScript 字符串解析和操作方法.
+- [twc-weather](https://github.com/johnwalicki/node-red-contrib-twc-weather) - Weather Company 和 Weather Underground 个人气象站 API.
+- [users](https://github.com/SenseTecnic/node-red-contrib-users) - 为基于 HTTP 的流快速构建一个非常简单的用户访问控制.
+- [watson](https://github.com/watson-developer-cloud/node-red-node-watson) - 与 IBM Cloud 中的 IBM Watson 服务交互.
 
 ### UI
 
-- [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) - Add browser functionality such as file upload, camera & microphone.
-- [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - Create a live data dashboard.
-    - [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - Dashboard extra nodes.
-- [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - Separates flow json to multiple files.
-- [iglass](https://www.npmjs.com/package/iglass-nodes) - Interaction with [iGlass Automation](https://iglass.international) blocks.
-- [image-output](https://github.com/rikukissa/node-red-contrib-image-output) - Simple image output node. Useful for previewing images (of face detecting, object recognition etc.) inside the flow editor.
-- [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - Create dynamic web interfaces using any (or no) front end libraries for convenience.
-- [web-worldmap](https://github.com/dceejay/RedMap) - Provide a world map web page for plotting "things" on.
+- [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) - 添加浏览器功能，例如文件上传、摄像头和麦克风.
+- [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - 创建实时数据仪表板.
+    - [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - 仪表板额外节点.
+- [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - 将流 json 分离到多个文件.
+- [iglass](https://www.npmjs.com/package/iglass-nodes) - 互动 [iGlass Automation](https://iglass.international) 块.
+- [image-output](https://github.com/rikukissa/node-red-contrib-image-output)  - 简单的图像输出节点. 用于在流编辑器中预览图像（面部检测、对象识别等）.
+- [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - 为方便起见，使用任何（或不使用）前端库创建动态 Web 界面.
+- [web-worldmap](https://github.com/dceejay/RedMap) - 提供用于绘制“事物”的世界地图网页.
 
 ## Community
 
@@ -218,4 +218,4 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/naimo84/awesome-nodered/blob/master/contributing.md) first.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/naimo84/awesome-nodered/blob/master/contributing.md) 第一的.

@@ -99,6 +99,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Portuguese (Portugal)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pt_PT.md)
 + [Romanian (Romania) / limba română / român](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ro.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ru.md)
++ [Serbian / српски језик / srpski jezik](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sr.md)
 + [Slovak / slovenčina](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sk.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md)
 + [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sv.md)

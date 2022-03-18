@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="dariubs/GoBooks"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-很棒的围棋书 [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
 
@@ -82,7 +82,7 @@ Practical Go Lessons 有 41 章和 700 多页的插图.
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
- 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+ 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，呼吁特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -141,7 +141,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 ### [How to Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 
-本书旨在向您介绍使用 Go 编程语言编写程序. 您将学习如何编写可以在远程服务器或本地 Windows、macOS 和 Linux 系统上运行以进行开发的有用工具和应用程序. 可用于 [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) 和 [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
+本书旨在向您介绍使用 Go 编程语言编写程序. 您将学习如何编写可以在远程服务器或本地 Windows、macOS 和 Linux 系统上运行以进行开发的有用工具和应用程序. 可用于 [epub](https://assets.digitalocean.com/books/how-to-code-in-go.epub) and [pdf](https://assets.digitalocean.com/books/how-to-code-in-go.pdf).
 
 ### [For the Love of Go](https://bitfieldconsulting.com/books/love)
 
@@ -191,11 +191,11 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <img src="https://static.packt-cdn.com/products/9781801074858/cover/smaller" width="120px"/>
 
- Gin 是一个高性能的 HTTP Web 框架，用于在 Go 中构建 Web 应用程序和微服务. 本书旨在借助实际示例教您 Gin 框架的来龙去脉.
+ Gin 是一个高性能的 HTTP Web 框架，用于在 Go 中构建 Web 应用程序和微服务. 本书旨在通过实际示例教您 Gin 框架的来龙去脉.
 
 在继续构建真实世界的 RESTful API 之前，您将首先探索 Gin 框架的基础知识. 在此过程中，您将学习如何编写自定义中间件并了解路由机制，以及如何绑定用户数据和验证传入的 HTTP 请求. 本书还演示了如何使用 MongoDB 等 NoSQL 数据库大规模存储和检索数据，以及如何使用 Redis 实现缓存层. 接下来，您将了解如何使用 OAuth 2 和 JWT 等身份验证协议保护和测试 API 端点. 后面的章节将指导您在服务器端渲染 HTML 模板并使用 React Web 框架构建前端应用程序以使用 API 响应. 最后，您将在 Amazon Web Services (AWS) 上部署您的应用程序，并了解如何使用持续集成和持续交付 (CI/CD) 管道自动化部署过程.
 
-By the end of this Gin book, you will be able to design, build, and deploy a production-ready distributed application from scratch using the Gin framework.
+读完这本 Gin 书，您将能够使用 Gin 框架从头开始设计、构建和部署一个生产就绪的分布式应用程序.
 
 
 ### [Test-driven development with Go ](https://leanpub.com/golang-tdd) *Free*
@@ -286,7 +286,7 @@ Go 中的手动依赖注入采用务实的方法，重点关注代码、用户�
 
 <img src="https://static.packt-cdn.com/products/9781838554491/cover/smaller" width="120px"/>
 
-这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 将指导您完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持对大型链接图进行高效的核外处理. 
+这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 将指导您完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持大型链接图的高效核外处理. 
 
 您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包 Go 服务，并自动将它们部署到 Kubernetes 集群.
 
@@ -383,7 +383,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
  Docker、Kubernetes 和 Prometheus 有什么共同点？ 所有这些云原生技术都是用 Go 编程语言编写的.
 这本实用的书向您展示了如何利用 Go 的优势开发可扩展且具有弹性的云原生服务，即使在不可预测的环境中也是如此.
-您将探索这些应用程序的组合和构造，从 Go 的低级特性到中级设计模式再到高级架构考虑.
+您将探索这些应用程序的组成和构造，从 Go 的低级特性到中级设计模式再到高级架构考虑.
 
 ### [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
 
@@ -392,6 +392,19 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 通过使用 Go 和 Docker API 构建您自己的系统，深入了解 Kubernetes 和其他编排系统. 
 
 像 Kubernetes 这样的编排系统协调其他软件子系统和服务，以创建一个完整的有组织的系统. 尽管编排工具以复杂性着称，但它们是围绕适用于软件开发许多方面的少数重要模式设计的. 在 Go 中构建 Orchestrator 通过指导您使用 Go SDK 设计和实现自己的编排框架来揭示编排框架的内部工作原理. 当您创建自己的编排框架时，您将加深对 Kubernetes 及其在分布式系统设计中的作用的理解. 当开箱即用的解决方案不适合时，您还将培养设计自定义编排解决方案所需的技能. 
+
+### [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang)
+
+<img src="https://public-files.gumroad.com/7j27fj7c5xqxm3f9lyxj1pg8oa1w" width="120px"/>
+
+本书是为 Go 开发人员提供的实用示例、课程和技术的汇编. 这些主题涵盖了从学习基础知识到软件测试再到分发和监控的软件生命周期.
+
+- 学习单元测试
+- 制作可爱的 CLI
+- 监控服务
+- Release with GitHub Actions
+- 与 Docker 一起发布
+- 制定 Goroutines
 
 **Web开发**
 ----
@@ -497,7 +510,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-通过学习如何设计、开发和部署分布式服务，将您的围棋技能提升到一个新的水平. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将服务部署到云中. 所有这些将使您在日常工作或副项目中的编码变得更容易、更快、更有趣.
+通过学习如何设计、开发和部署分布式服务，将您的围棋技能提升到一个新的水平. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将服务部署到云中. 所有这些将使您在日常工作或副项目中的编码更容易、更快、更有趣.
 
 ### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
 
