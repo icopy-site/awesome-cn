@@ -218,6 +218,7 @@
 - [Gust](https://www.getgust.com) - 用于 WordPress 的拖放页面构建器.
 - [clb](https://github.com/crswll/clb) - clb（类列表生成器）是一个实用函数，它基于 [Stitches](https://stitches.dev/) 像 API.
 - [Inspect Flow](https://inspectflow.io) - Tailwind CSS 的完整开发人员工具.
+- [twined-components](https://github.com/lowfront/twined-components) - 样式化组件的扩展组件，它优先考虑在 Tailwind CSS 中使用的类名.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
@@ -225,7 +226,7 @@
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS 类名称备忘单.
 - [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - Tailwind CSS 类名称在一个文件中.
 - [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名称、变体和指令备忘单.
-- [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
+- [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
 - [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - 可搜索界面中的 Tailwind CSS 实用程序类名称.
 
 ## UI Libraries, Components & Templates
@@ -287,7 +288,7 @@
 - [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - 免费的 Tailwind CSS 和 React UI 工具包.
 - [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - 免费的 Tailwind CSS 和 React 管理模板.
 - [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - 免费的 Vue.js 3 Tailwind CSS 管理模板，支持 Vite 和 Vue CLI.
-- [Cruip](https://cruip.com/) - 设计精美的 HTML、React 和 Vue.js 模板.
+- [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
 
 ## Starters & Themes
 

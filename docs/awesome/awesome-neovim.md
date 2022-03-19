@@ -24,7 +24,7 @@
 
 Neovim 支持多种 UI.
 
-- [CosmicNvim/cosmic-ui](https://github.com/CosmicNvim/cosmic-ui)  - Cosmic-UI 是对特定 vim 功能的简单封装. 旨在提供一种使用 Neovim 创建 Cosmic UI 体验的快速简便的方法！
+- [CosmicNvim/cosmic-ui](https://github.com/CosmicNvim/cosmic-ui)  - Cosmic-UI 是对特定 vim 功能的简单封装. 旨在提供一种快速简便的方法来使用 Neovim 创建 Cosmic UI 体验！
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia.
 - [smolck/uivonim](https://github.com/smolck/uivonim) - 目标：利用最新 Neovim 功能的功能丰富的跨平台 GUI.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - Swift 中用于 macOS 的 Neovim GUI.
@@ -624,7 +624,7 @@ Neovim 支持多种 UI.
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - 一个完全用 Lua 编写的快速通用 IDE，带有适用于 Linux/Windows/macOS 的安装程序，并内置用于更新它的 `:CodeArtUpdate` 命令.
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - doom-emacs 框架的移植，其目标是为 Neovim 添加有用的功能，以便在稳定高效的开发环境中开始工作，而无需花费大量时间配置一切.
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim 自定义配置，面向全栈开发人员（rails、ruby、php、html、css、SCSS、JavaScript）.
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - 该项目旨在帮助人们从 VSCode 过渡到卓越的文本编辑体验.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 该项目旨在帮助人们从 VSCode 过渡到卓越的文本编辑体验.
 - [hackorum/VapourNvim](https://github.com/hackorum/VapourNvim) - 用于终极 vim IDE 体验的 NeoVim 配置.
 - [vi-tality/neovitality](https://github.com/vi-tality/neovitality) - 一个功能齐全的 NeoVim 发行版，与 Nix Flake 一起打包，便于安装和重现性.
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - 尝试使 Neovim cli 像 IDE 一样功能，同时非常漂亮且不那么臃肿.
@@ -639,7 +639,7 @@ Neovim 支持多种 UI.
 
 - [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) - 包装 vim-which-key 的插件以简化 Lua 中的设置.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件，显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例，与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建一个图例，与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的`:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，它模仿 Neovim 的 `:map` 系列命令. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
