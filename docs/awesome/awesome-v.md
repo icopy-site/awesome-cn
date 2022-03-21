@@ -6,9 +6,9 @@
 
 ## Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 精选的 V 框架、库、软件和资源的精选列表。
+&gt; 精选的 V 框架、库、软件和资源的精选列表.
 
-[V](https://vlang.io/) is a simple, fast, safe, compiled language for developing maintainable software.
+[V](https://vlang.io/) 是一种用于开发可维护软件的简单、快速、安全的编译语言.
 
 
 
@@ -16,211 +16,212 @@
 
 ### Interpreters/Compilers
 
-- [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
-- [vbf](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
-- [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
-- [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
-- [Vork](https://github.com/Itay2805/Vork) - Alternative V compiler/interpreter written in Python.
-- [Foxil](https://github.com/StunxFS/foxil) - An intermediate language designed to facilitate compiler code generation.
+- [v](https://github.com/vlang/v)  - V 本身. 用于开发可维护软件的简单、快速、安全的编译语言.
+- [vbf](https://github.com/vpervenditti/vbf) - 一个脑残的解释器/编译器.
+- [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 并在.
+- [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
+- [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
+- [Foxil](https://github.com/StunxFS/foxil) - 一种中间语言，旨在促进编译器代码生成.
 
 
 ### Operating systems/Kernels
 
-- [Vinix](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+- [Vinix](https://github.com/vlang/vinix) - V 中的小而简单的操作系统.运行 bash.
 
 ### Package managers
 
-- [vpm](https://github.com/yue-best-practices/vpm) - The V language package management tool written in V.
+- [vpm](https://github.com/yue-best-practices/vpm) - 用V编写的V语言包管理工具.
 
 ### Editors
 
-- [ved](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+- [ved](https://github.com/vlang/ved)  - 1 MB 用 V 编写的文本编辑器，带有硬件加速文本渲染. 在 &lt;1s 内编译.
 
 ### Web
 
-- [vorum](https://github.com/vlang/vorum) - Open-source blogging/forum software written in V.
-- [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
-- [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - Fancy statistics and plots for *[Is V still fast?](https://fast.vlang.io/)*. 
+- [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
+- [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
+- [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和情节 *[Is V still fast?](https://fast.vlang.io/)*. 
 
 ### Graphics
 
-- [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+- [vRayTracer](https://github.com/ali-raheem/vraytracer) - 一个用 V 编写的简单光线追踪器.
 
 ### Games
 
-- [Boundstone](https://github.com/organization/boundstone) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
-- [v-pong](https://github.com/thebigsmileXD/v-pong) - A classic paddle game brought back to life through the power of V.
-- [minesweeper](https://github.com/ali-furkan/minesweeper-v) - A simple Minesweeper game written in vlang.
-- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - A simple flappy learning demo in v. ( Archived )
-- [Kurarin](https://github.com/FireRedz/kurarin) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
+- [Boundstone](https://github.com/organization/boundstone) - 高性能/快速编译/轻量级 Minecraft：基岩版服务器.
+- [v-pong](https://github.com/thebigsmileXD/v-pong) - 经典的桨板游戏通过 V 的力量恢复生机.
+- [minesweeper](https://github.com/ali-furkan/minesweeper-v) - 一个用 vlang 编写的简单扫雷游戏.
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的 flappy 学习演示（已存档）
+- [Kurarin](https://github.com/FireRedz/kurarin)  - 奥苏！ 用V制作的beatmap可视化器. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 
 ### Command-line
 
-- [HN-top](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
-- [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，生成 v 源文件到 AST json 文件。
-- [symlinker](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
-- [runner](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
-- [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
-- [vinit](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
-- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
+- [HN-top](https://github.com/BafS/hn-top) - 列出来自hacker-news 的最新消息的简单命令.
+- [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，生成 v 源文件到 AST json 文件.
+- [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
+- [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
+- [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
+- [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
+- [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
+- [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
 
 ### Project management
 
-- [vset](https://github.com/mulh8377/vset) - A project setup and configuration tool for V projects.
+- [vset](https://github.com/mulh8377/vset) - V 项目的项目设置和配置工具.
 
 ### Serialization
 
-- [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
-- [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
-- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
+- [vproto](https://github.com/emily33901/vproto) - V 中的 Protobuf 编译器和运行时.
+- [v-toxml](https://github.com/radare/v-toxml) - V 的 XML 序列化库.
+- [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml)  - V-native YAML 阅读器，包括.  YAML 到 JSON 转换器.
 
 ## Libraries
 
 ### Command line interface (CLI) / Terminal / Shell
 
-- [boxx](https://github.com/thecodrr/boxx) - Create highly customizable terminal boxes that also look great! 📦
-- [lol](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
-- [progressbar](https://github.com/Waqar144/progressbar) - An easy to use V library for creating progress bars in cli.
-- [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables: Simple and highly customizable library to display tables in the terminal.
-- [vargs](https://github.com/nedpals/vargs) - V library for parsing arguments from argv-like arrays. ( Archived )
+- [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！
+- [lol](https://github.com/0xLeif/lol) - Lolcat 的 V 版（文本/字符彩虹生成器）.
+- [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
+- [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
+- [vargs](https://github.com/nedpals/vargs)  - V 库，用于从类似 argv 的数组中解析参数.  （存档）
 - [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
-- [spinners](https://github.com/rhygg/spinners) - Create spinners in your terminal!
+- [spinners](https://github.com/rhygg/spinners) - 在您的终端中创建微调器！
 
 ### Text processing
 
-- [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
-- [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
-- [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
-- [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
-- [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
-- [iconv](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
-- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
-- [strfmt](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
+- [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.
+- [chalk](https://github.com/etienne-napoleone/chalk) - 在终端中为字符串着色.
+- [crayon](https://github.com/thecodrr/crayon)  - 像毕加索一样绘制你的终端输出.  ️
+- [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
+- [ascii_robot](https://github.com/Delta456/ascii_robot) - 用 V 编写的 ASCII 机器人生成器.
+- [iconv](https://github.com/fanlia/iconv) - 为 vlang 包装 iconv.
+- [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
+- [strfmt](https://github.com/BenStigsen/strfmt) - 小巧快速的字符串格式化库，非常适合模板化.
 
 ### Graphics
 
-- [vgl](https://github.com/justicesuh/vgl) - Low-level graphics API access.
-- [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
-- [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
-- [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
-- [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
-- [vgui](https://github.com/BenStigsen/vgui) - Minimal, lightweight and cross-platform GUI library.
+- [vgl](https://github.com/justicesuh/vgl) - 低级图形 API 访问.
+- [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
+- [vsdl](https://github.com/kjlaw89/vsdl) - 基于 C 的 SDL 库的 V 包装器.
+- [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 包装器.
+- [V Earcut](https://github.com/Larpon/earcut) - 基于快速（实时）多边形三角剖分库 [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
+- [vgui](https://github.com/BenStigsen/vgui) - 最小、轻量级和跨平台的 GUI 库.
 
 ### Game development
 
-- [engine](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
-- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
-- [vraylib](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
+- [engine](https://github.com/LouisSchmieder/engine) - V 中的 WIP Vulkan.
+- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - 更新了 V 绑定 [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
+- [vraylib](https://github.com/MajorHard/vraylib) - C 游戏开发框架 raylib 的 V 包装器（绑定）.
 
 ### Web
 
-- [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
-- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
-- [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
-- [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
-- [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - Basic JSON-RPC 2.0-compliant server written on V.
-- [pico.v](https://github.com/S-YOU/pico.v) - A web server in V based on picoev and picohttpparser.
-- [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
-- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [vex](https://github.com/nedpals/vex) - 受 Express 和 Sinatra 启发，基于 V 编写的 Web 框架.
+- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  - V 的内置 web 框架. 被沃鲁姆使用.
+- [validate](https://github.com/endeveit/v-validate) - 一个简单的库来验证 V 中的字符串.
+- [valval](https://github.com/taojy123/valval) - 用 V 编写的 Web 框架，由 vweb 改进.
+- [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - 在 V 上编写的基本 JSON-RPC 2.0 兼容服务器.
+- [pico.v](https://github.com/S-YOU/pico.v) - 基于 picoev 和 picohttpparser 的 V 中的 Web 服务器.
+- [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - 用于 vweb 的简约 Xbox Live 身份验证器.
+- [vcurrency](https://github.com/mehtaarn000/vcurrency) - API 包装器（用 V 编写）用于 [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
 
 ### Database clients
 
-- [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
-- [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
-- [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
+- [redis](https://github.com/patrickpissurno/vredis) - V 的 Redis 客户端，用 V 编写.
+- [vsql](https://github.com/lydiandy/vsql) - V 的 sql 查询生成器.
+- [vmemcached](https://github.com/blacktrub/vmemcached) - V 的 Memcached 客户端，用 V 编写.
 
 ### Audio
 
-- [vave](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
-- [vspeech](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
-- [v-miniaudio](https://github.com/Larpon/v-miniaudio) - Bindings for the excellent miniaudio C audio library.
+- [vave](https://github.com/thecodrr/vave) - 一个疯狂的简单库，用于在 V 中读取/写入 WAV 文件.
+- [vspeech](https://github.com/thecodrr/vspeech) - 为 Mozilla 的基于 DeepSpeech TensorFlow 的 Speech-to-Text 库完成 V 绑定.
+- [v-miniaudio](https://github.com/Larpon/v-miniaudio) - 优秀的 miniaudio C 音频库的绑定.
 
 ### Operating system
 
-- [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
-- [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+- [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
+- [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供本机 V-lang 支持.
 
 ### Networking
 
-- [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+- [vmq](https://github.com/jordan-bonecutter/vmq) - V 包装用于 [ZMQ](https://zeromq.org/) （又名 ZeroMQ、ØMQ、0MQ：高性能异步消息传递库）.
 
 ### Serial Communications
-- [vserialport](https://github.com/erdetn/vserialport) - V wrapper for [libserialport](https://sigrok.org/wiki/Libserialport).
-- [vserialx](https://github.com/erdetn/vserialx) - A tiny (wrapper) serial communication library for Linux written in V.
-- [vi2c](https://github.com/erdetn/vi2c) - A tiny (wrapper) library for I2C serial communication for Linux written in V.
+- [vserialport](https://github.com/erdetn/vserialport) - V 包装用于 [libserialport](https://sigrok.org/wiki/Libserialport).
+- [vserialx](https://github.com/erdetn/vserialx) - 一个用 V 编写的用于 Linux 的小型（包装器）串行通信库.
+- [vi2c](https://github.com/erdetn/vi2c) - 一个用 V 编写的用于 Linux 的 I2C 串行通信的小型（包装器）库.
 
 ### Automation
 
-- [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
+- [vrobot](https://github.com/eioo/vrobot) - V 的桌面自动化.仅支持 Windows.
 
 ### Telegram
 
-- [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
+- [vgram](https://github.com/dariotarantini/vgram) - 电报机器人库.
 
 ### Discord
 
-- [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
-- [discord.v](https://github.com/Terisback/discord.v) - User-friendly Discord bot library.
-- [vord](https://github.com/9xN/vord) - Library for interacting with user account endpoints and gateway (Self-bots, custom clients, etc).
+- [viscord](https://github.com/vlang/viscord) - 用于连接 Discord 网关的非常基本的库.
+- [discord.v](https://github.com/Terisback/discord.v) - 用户友好的 Discord 机器人库.
+- [vord](https://github.com/9xN/vord) - 用于与用户帐户端点和网关（Self-bots、自定义客户端等）交互的库.
 
 ### IRC
 
-- [vitric](https://github.com/m-242/vitric) - A transparent IRC library.
+- [vitric](https://github.com/m-242/vitric) - 一个透明的 IRC 库.
 
 ### Files
 
-- [v-mime](https://github.com/nedpals/v-mime) - MIME detection library for V.
-- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
+- [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
+- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
 
 ### Eventing
 
-- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
+- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - 一个简单的 V 事件总线系统.
 
 ### User Interface toolkits
 
-- [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
-- [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-- [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
-- [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
+- [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
+- [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装器.
+- [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
+- [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 
 ### Scientific computing
 
-- [vsl](https://github.com/vlang/vsl) - A pure-V scientific library with a great variety of functions.
-- [vtl](https://github.com/vlang/vtl) - Numerical computing library supporting n-dimensional data structure, backed by LAPACKE and OpenBLAS.
-- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
+- [vsl](https://github.com/vlang/vsl) - 具有多种功能的纯 V 科学库.
+- [vtl](https://github.com/vlang/vtl) - 支持 n 维数据结构的数值计算库，由 LAPACKE 和 OpenBLAS 支持.
+- [vplot](https://github.com/erdetn/vplot) - GNU Plot 的 V 包装器（`gnuplot_i`）.
 
 ### Utility
 
-- [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
-- [random](https://github.com/Delta456/random) - An all purpose random library written in V.
-- [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
-- [vaker](https://github.com/ChAoSUnItY/vaker) - A light-weight compile-time-generated data faker written in V.
+- [range](https://github.com/Delta456/range) - V 中 Python 的 range() 的功能.
+- [random](https://github.com/Delta456/random) - 一个用 V 编写的通用随机库.
+- [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
+- [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造器.
 
 ## Other
 
 ### Syntax highlighting
 
-- [v-vim](https://github.com/ollykel/v-vim) - Support for V syntax highlighting in Vim.
-- [vim-v](https://github.com/cheap-glitch/vim-v) - Quality syntax highlighting for the V programming language.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - V Language extension for Visual Studio Code.
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
-- [language-v](https://github.com/Cutlery-Drawer/language-v) - V language support for Atom (port of vscode-vlang).
-- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - Emacs major mode for the V programming language.
-- [v-mode](https://github.com/damon-kwok/v-mode) - Emacs major mode for the V programming language.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+- [v-vim](https://github.com/ollykel/v-vim) - 支持 Vim 中的 V 语法高亮显示.
+- [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的高质量语法突出显示.
+- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - Visual Studio Code 的 V 语言扩展.
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V 语法高亮显示 [Kate](https://kate-editor.org/).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V 语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
+- [language-v](https://github.com/Cutlery-Drawer/language-v) - Atom 的 V 语言支持（vscode-vlang 的端口）.
+- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
+- [v-mode](https://github.com/damon-kwok/v-mode) - V 编程语言的 Emacs 主要模式.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
 
 ### Editor plugins
 
-- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
-- [sublime-v](https://github.com/onerbs/sublime-v) - Fully-featured Sublime Text 3 package for the V Programming Language.
+- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - Vim 的 V 工具，包括自动格式化.
+- [sublime-v](https://github.com/onerbs/sublime-v) - V 编程语言的全功能 Sublime Text 3 包.
 
 ### GitHub actions
 
-- [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - GitHub action automation to use V in your workflow.
-- [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - GitHub action to create documentation for V modules.
+- [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) - 在您的工作流程中使用 V 的 GitHub 操作自动化.
+- [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) - 为 V 模块创建文档的 GitHub 操作.
 
 ### Videos
 
@@ -229,15 +230,15 @@
 
 ### Programming contests
 
-- [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - Solutions for Rosetta Code in V.
-- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - Solution of Advent of Code 2019 in V.
-- [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - Implementation of the SoloLearn coding challenges in V.
+- [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - V 中罗塞塔代码的解决方案.
+- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V.2 中 Code 2019 出现的解决方案.
+- [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - 在 V 中实施 SoloLearn 编码挑战.
 
 ### Tutorials
 
 - [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
-- [V by Example](https://github.com/v-community/v_by_example) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
-- [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+- [V by Example](https://github.com/v-community/v_by_example) - V书作为 [GitBook](https://v-community.gitbook.io/v-by-example/).
+- [V learning notes](https://github.com/lydiandy/vlang_note) - 中文个人学习笔记.
 
 ### Online IDEs with V
 
@@ -251,7 +252,7 @@
 
 ### Books
 
-- [Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec](https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1) - Introductory book on V.
+- [Getting Started with V Programming - Navule Pavan Kumar Rao - Packt 2021 Dec](https://www.amazon.com/Getting-Started-Programming-end-end-ebook/dp/B09FKK3JL7/ref=sr_1_1?keywords=Getting+started+with+V+programming&qid=1639480830&sr=8-1) - 关于 V 的介绍性书籍.
 
 ### Communities
 
@@ -264,4 +265,4 @@
 
 ### Operating Systems & OS Development Examples
 
-- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - Demonstration & test of writing a very simple Linux kernel module, using V.
+- [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) - 使用 V 编写一个非常简单的 Linux 内核模块的演示和测试.

@@ -27,7 +27,7 @@
 - [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 ### MOOC<a name=theory_of_computation_introductory_mooc></a>
-- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学中的基本概念，例如 NP 完备性，以及它们对解决棘手的算法问题的意义.
+- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学的基本概念，例如 NP 完全性，以及它们对解决棘手的算法问题的意义.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - 它侧重于计算的重大基本问题，以及理解算法的力量和局限性如何帮助我们开发工具，使现实世界的计算机更智能、更快、更安全.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
@@ -41,7 +41,7 @@
 - [O'Donnell. Undergrad Complexity Theory. Fall 2019 (15-455)](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2) ([Homework](https://www.cs.cmu.edu/~odonnell/15455-s17/) ) - 计算复杂性理论本科课程； 它遵循了 Sipser 第三部分的相同精神.
 - [O'Donnell. Graduate Complexity Theory](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH) - 它涵盖了大多数被认为已知的复杂性理论研究的入门知识.
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_introductory_lecture_notes></a>
-- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下限、平均情况复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
+- [Rudich & Wigderson. Computational Complexity Theory](http://www.ams.org/books/pcms/010/)  - IAS/帕克城数学学院暑期学校关于计算复杂性的为期三周的讲座. 主题包括约简、下限、平均案例复杂性、随机性、交互式证明系统、概率可检查证明、量子计算和证明复杂性.
 #### Books<a name=theory_of_computation_computational_complexity_introductory_books></a>
 - [Arora & Barak. Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf) - 一本黄金标准教科书，为研究生和研究人员调查计算复杂性理论.
 - [Goldreich. Computational Complexity: A Conceptual Perspective](http://www.wisdom.weizmann.ac.il/~oded/cc-book.html) - 计算复杂性理论的研究生介绍，强调复杂性理论概念背后的思想.
@@ -66,7 +66,7 @@
 ## Computability Theory<a name=theory_of_computation_computability_theory></a>
 ### Books<a name=theory_of_computation_computability_theory_books></a>
 #### Introductory<a name=theory_of_computation_computability_theory_books_introductory></a>
-- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地说，它解释了可计算函数的概念：其值可以以有效或自动方式计算的函数.
+- [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地说，它解释了可计算函数的概念：其值可以以有效或自动的方式计算的函数.
 - [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - 对当代可计算性理论、技术和结果的简明、全面和权威的介绍.
 - [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - 在这本经典著作中，Davis 博士在高级本科阶段对可计算性进行了清晰的介绍，以满足专家和非专家的需求.
 #### Advanced<a name=theory_of_computation_computability_theory_books_advanced></a>
@@ -115,12 +115,12 @@
 - [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
 - [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288)  - 形式化方法和机器学习可以从演绎和归纳推理的角度相互了解. 本讲座旨在通过建立学习理论中的一些基本概念来促进两个社区之间的对话.
 ## Conferences<a name=machine_learning_theory_conferences></a>
-- [COLT](https://www.learningtheory.org/)
+- [COLT](https://www.learningtheory.org/).
 ## Research Groups<a name=machine_learning_theory_research_groups></a>
-- [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod)
-- [Harvard Machine Learning Foundations Group](https://mltheory.org/)
+- [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
+- [Harvard Machine Learning Foundations Group](https://mltheory.org/).
 ## Other<a name=machine_learning_theory_other></a>
-- [Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf)
+- [Avrim Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
 ## Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
 - [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php)  - 带我们了解广泛的科学知识和相关技术：古希腊人的命题逻辑（微处理器）； 量子力学（硅芯片）； 网络和系统现象（互联网和搜索引擎）； 计算难处理性（安全加密）； 和高效的算法（基因组测序）.
@@ -131,12 +131,12 @@
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7)  - 提出并讨论了热力学和复杂性之间的重要联系. 以教学方式编写，作为对黑洞及其复杂物理解释的基本介绍
 ## Philosophy<a name=philosophy></a>
 ## Lecture Notes<a name=philosophy_lecture_notes></a>
-- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，以及相反，哲学可以为理论计算机科学做出哪些贡献.
+- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，以及相反地，哲学可以为理论计算机科学做出哪些贡献.
 ## Books<a name=philosophy_books></a>
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - 信仰与科学之间关系的一般说明.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - 图灵在科学史和科学哲学中的地位.
 ## Papers<a name=philosophy_papers></a>
-- [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识的本质和其他哲学问题带来了新的视角.
+- [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识和其他哲学问题的本质带来了新的视角.
 - [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - 它描述了如何通过将通常的科学范式扩展到包括在内，在高复杂度范围内测试量子力学.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它强调了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图孤立一些新的问题.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.
@@ -146,7 +146,7 @@
 ### Lecture Videos Playlist<a name=mathlogic_preliminaries_general_lecture_videos_playlist></a>
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)  - 面向计算机科学和工程的离散数学简介.  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 ### Books<a name=mathlogic_preliminaries_general_books></a>
-- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典的计算机编程艺术中的数学预备部分，但呈现的风格更从容，个别主题的涵盖更深入.
+- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典计算机程序设计艺术中的数学预备部分，但呈现方式更悠闲，个别主题涵盖更深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 一个致力于数学主题及其与计算机科学相关性的系列.
@@ -206,7 +206,7 @@
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍 TCS 的高级故事及其与其他领域的交叉点.
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - 调查、教程、会议报告、活动、未解决的问题和解决方案、博士论文和有趣的贡献.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，涵盖主题的教程，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围.
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，提供主题的教程覆盖，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - 具有该领域的突破，以非专家易于理解的方式编写.
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - 所有与 TCS 相关的博客的博客聚合器.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS 工作公告.
@@ -235,7 +235,7 @@
 - [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - TCS 领域的近期成就和新挑战.
 ## Popular Science Books<a name=other_resources_popular_science_books></a>
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法含义.
-- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 从古代德谟克利特开始，它通过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容和量子力学的解释进展.
+- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 从古代德谟克利特开始，经过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容和量子力学的解释.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality 呈现出惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - 根据图灵的计算世界，一个交互式辅导程序，告诉命运多舛的恋人：一部小说.
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) - Alan Turing 关于可计算性和图灵机的历史论文的导览.

@@ -72,6 +72,7 @@
 
 ## Frameworks :art:
 
+* [AgnosticUI](https://www.agnosticui.com/) - 可访问的 CSS 组件原语，也适用于 React、Vue 3、Svelte 和 Angular.
 * [Awsm.css](https://igoradamenko.github.io/awsm.css/) - 用于语义 HTML 标记的简单 CSS 库.
 * [Bonsai](https://www.bonsaicss.com/) - 小于 50kb 的完整实用程序优先 CSS 框架.
 * [Bootstrap](https://getbootstrap.com/) - 最流行的 HTML、CSS 和 JS 框架.
@@ -364,7 +365,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 [sotayamashita]：https://github.com/sotayamashita
 [Rishabh04-02]：https://github.com/Rishabh04-02
 
-[@sotayamashita][sotayamashita]、[@Rishabh04-02][Rishabh04-02] 还有你！
+[@sotayamashita][sotayamashita]，[@Rishabh04-02][Rishabh04-02] 还有你！
 
 
 ## Contribute
