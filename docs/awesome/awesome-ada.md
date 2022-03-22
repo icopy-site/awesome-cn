@@ -180,7 +180,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -234,7 +234,7 @@
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT 裸金属板支持包 (BSP).
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - 用于 8 位 AVR 微控制器的 GNAT.
 - [ada-runtime] - 一个缩小的 Ada 运行时，可以适应不同的平台.
-- [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - 此软件包包括基于 FreeRTOS 的 GNAT Ada 运行时系统 (RTS)，并针对具有 Cortex-M0、M3、-M4、-M4F MCU 的电路板.
+- [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - 该软件包包括基于 FreeRTOS 的 GNAT Ada 运行时系统 (RTS)，并针对具有 Cortex-M0、M3、-M4、-M4F MCU 的板.
 - [adawebpack](https://github.com/godunko/adawebpack) - WASM 的 GNAT RTL 和 Web API 的绑定.
 
 [ada-runtime]：https://github.com/Componolit/ada-runtime
@@ -315,11 +315,12 @@
 - [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的可立即使用和可扩展的模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 学说模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
-    - [ada-security](https://github.com/stcarrez/ada-security) - OAuth 2.0 client and server framework to secure web applications.
+    - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
     - [ada-el](https://github.com/stcarrez/ada-el) - 该库支持接近 Java 统一表达式语言 (EL) 的简单表达式语言.
     - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（请参阅 JSR 252、JSR 314 和 JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet 允许使用与 Java Servlet 相同的模式创建 Web 应用程序（参见 JSR 154、JSR 315）.
 - [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada support for Swagger codegen: OpenAPI Generator is a code generator that supports generation of API client libraries, server stubs and documentation automatically given an OpenAPI Spec.
+- [ews](https://github.com/simonjwright/ews) - Embedded Web Server 是一个 Web 服务器构建工具包，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
  - [matreshka] - Matreshka 是一个用于开发信息系统的 Ada 框架. 它由五个主要组件组成：联盟、XML 处理器、Web 框架、SQL 访问和建模框架.
 
 [matreshka]：http://forge.ada-ru.org/matreshka
@@ -522,7 +523,7 @@
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
-- [ssprep](https://github.com/persan/ssprep.git) - 一个类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
+- [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，可在 Ada 程序中输出到控制台.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，可从文件夹层次结构中选择文件，概率与其大小成正比.
@@ -650,7 +651,7 @@
 - [pcsc-ada](http://www.codelabs.ch/pcscada)  - PCSC/Ada 提供对 PC/SC 中间件的厚 Ada 绑定. 该库允许用 Ada 编写的程序使用 SCard API 与智能卡进行通信.
 - [areadline](https://github.com/samueltardieu/areadline) - 与 readline 库的 Ada 接口.
 - [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) - 使用 [gtkada] 实现 Turbo Pascal 7.0 单元.
-- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - 使用 [gnoga] 实现 Turbo Pascal 7.0 单元.
+- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with [gnoga].
 - [ada-bfd](https://github.com/stcarrez/ada-bfd)  - Ada BFD 是 GNU Binutils BFD 库的 Ada 绑定. 它允许使用 GNU BFD 读取二进制 ELF、COFF 文件.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada 绑定到 Boehm-Demers-Weiser 保守垃圾收集器.
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) 是一个绑定到 Tcl/Tk 的 Ada.

@@ -501,7 +501,7 @@
 - [bandit](https://bandit.readthedocs.io/en/latest) — 在 Python 代码中查找常见安全问题的工具.
 - [bellybutton](https://github.com/hchasestevens/bellybutton) — 支持自定义项目特定规则的 linting 引擎.
 - [Black](https://black.readthedocs.io/en/stable) — 毫不妥协的 Python 代码格式化程序.
-- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流利的 API，用于在代码中生成复杂的代码修改.
+- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流畅 API，用于在代码中生成复杂的代码修改.
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  :warning: — Linter、格式化程序和测试套件助手. 作为 linter，它是 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的包装器.
 - [cohesion](https://github.com/mschwager/cohesion) :warning: — 一个测量 Python 类凝聚力的工具.
 - [Dlint](https://github.com/dlint-py/dlint) — 确保 Python 代码安全的工具.
@@ -554,7 +554,7 @@
 - [Fasterer](https://github.com/DamirSvrtan/fasterer) — 常见的 Ruby 习语检查器.
 - [flay](https://ruby.sadi.st/Flay.html) — Flay 分析代码的结构相似性.
 - [flog](https://ruby.sadi.st/Flog.html)  — Flog 在一个易于阅读的痛苦报告中报告了最受折磨的代码. 分数越高，代码越痛苦.
-- [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu) — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
+- [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu)  — 用于测量 Ruby 类文件中代码复杂性的工具. 它的分析基于圈复杂度算法生成分数，没有添加“意见”.
 - [laser](https://github.com/michaeledgar/laser) :warning: — Ruby 代码的静态分析和样式 linter.
 - [pelusa](https://github.com/codegram/pelusa) — 静态分析 Lint 类型的工具，用于改进您的 OO Ruby 代码.
 - [quality](https://github.com/apiology/quality) :warning: — 使用社区工具对您的代码进行质量检查，并确保您的数字不会随着时间的推移而变得更糟.
@@ -629,7 +629,7 @@
 - [kmdr](https://kmdr.sh)  :warning: — 用于从终端学习命令的 CLI 工具.  kmdr 提供了对每个属性进行解释的命令分解.
 - [sh](https://pkg.go.dev/mvdan.cc/sh/v3)  — 支持 bash 的 shell 解析器、格式化程序和解释器； 包括 shfmt
 - [shellcheck](https://www.shellcheck.net) — ShellCheck，一种静态分析工具，可为 bash/sh shell 脚本提供警告和建议.
-- [shellharden](https://github.com/anordal/shellharden) — 语法高亮工具和半自动化脚本重写以符合 ShellCheck 的工具，主要侧重于引用.
+- [shellharden](https://github.com/anordal/shellharden) — 一个语法高亮工具和一个半自动化地重写脚本以符合 ShellCheck 的工具，主要集中在引用上.
 
 
 <h2 id="swift">迅速</h2>
@@ -716,7 +716,7 @@
 - [ESLint](https://github.com/eslint/eslint) — 一个 JS 的可扩展 linter，遵循 ECMAScript 标准.
 - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于对 Java Web 应用程序和 Android 应用程序进行安全审计的 SpotBugs 插件.  （也可以使用 Kotlin、Groovy 和 Scala 项目）
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
-- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
 - [goone](https://github.com/masibw/goone) :warning: — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
 - [graudit](http://www.justanotherhacker.com) — Grep rough audit - source code auditing tool.
 - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — 商业静态代码分析.
@@ -725,12 +725,11 @@
 - [imhotep](https://github.com/justinabrahms/imhotep) — 评论进入您的存储库的提交并检查语法错误和一般 lint 警告.
 - [include-gardener](https://github.com/feddischson/include_gardener) :warning: — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 - [Infer](https://fbinfer.com) — Java、C 和 Objective-C 的静态分析器
-- [InsiderSec](https://insidersec.io) :warning: — A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 - [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: — Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: — Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM](https://lgtm.com/)  :copyright: — 使用对源代码的查询来查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费用于开源. 以前的semme.
 - [LGTM.com](https://lgtm.com)  :copyright: — 对 GitHub 和 Bitbucket 进行深度代码分析，以发现安全漏洞和关键代码质量问题（使用 Semmle QL）. 拉取请求的自动代码审查； 公共存储库免费.
-- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一种可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
+- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一个可扩展的圈复杂度分析器，适用于许多编程语言，包括 C/C++（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter 可以处理任何类型的项目，这要归功于其 70 多个嵌入式 Linter，
  它的高级报告，可在任何 CI 系统或本地运行，
  通过辅助安装和配置，能够应用格式化和修复
@@ -765,9 +764,9 @@
 - [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — 一种工具，用于发现文件之间或文件内的相似性，以支持您遇到 DRY 原则违规行为.
 - [Snyk](https://snyk.io) :copyright: — node.js 应用程序依赖项的漏洞扫描程序（开源项目免费）.
 - [SonarCloud](https://sonarcloud.io)  :copyright: — 基于云的多语言静态代码分析. 历史、趋势、安全热点、拉取请求分析等. 开源免费.
-- [SonarLint for Visual Studio](https://vs.sonarlint.org) — SonarLint 是 Visual Studio 2015 和 2017 的扩展，可为开发人员提供有关注入 .NET 代码的新错误和质量问题的即时反馈.
+- [SonarLint for Visual Studio](https://vs.sonarlint.org) — SonarLint is an extension for Visual Studio 2015 and 2017 that provides on-the-fly feedback to developers on new bugs and quality issues injected into .NET code.
 - [SonarQube](http://www.sonarqube.org) — SonarQube 是一个管理代码质量的开放平台.
-- [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新的软件包以最大程度地减少重大更改
+- [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新的包以最大程度地减少重大更改
 - [Soto Platform](https://www.hello2morrow.com/products/sotograph)  :copyright: — 静态分析工具套件，由 Sotoarc（架构分析）、Sotograph（质量分析）和 Sotoreport（质量报告）三个组件组成. 帮助发现架构和实现之间的差异、接口违规（例如子系统私有部分的外部访问、检测所有类、文件、包和通过循环关系强耦合的子系统等等.Sotograph 产品系列在 Windows 和 Linux 上运行. 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: — Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [sqlvet](https://github.com/houqp/sqlvet)  — 对 Go 代码库中的原始 SQL 查询执行静态分析，以发现潜在的运行时错误. 它检查 SQL 语法错误，识别可能导致 SQL 注入的不安全查询，确保列计数与 INSERT 语句中的值计数匹配，并验证表名和列名.
@@ -872,13 +871,13 @@
 - [cfn_nag](https://github.com/stelligent/cfn_nag) — AWS CloudFormation 模板的 linter.
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 - [checkov](https://www.checkov.io) — Terraform 文件的静态分析工具 (tf&gt;=v0.12)，防止在构建时云配置错误.
-- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群以获取资源，对这些资源执行通用和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle 是一种基于用于 Chef 食谱的 RuboCop Ruby linting 工具的 linting 工具.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [foodcritic](http://www.foodcritic.io) — 检查 Chef 食谱中常见问题的 lint 工具.
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 - [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) — 检查您的 Puppet 清单是否符合样式指南.
@@ -893,7 +892,7 @@
 - [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 - [clair](https://github.com/coreos/clair) — 容器的漏洞静态分析.
-- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群以获取资源，对这些资源执行通用和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [collector](https://github.com/banyanops/collector) :warning: — 在容器内运行任意脚本，并收集有用信息.
 - [dagda](https://github.com/eliasgranderubio/dagda) — 对 docker 镜像/容器中的已知漏洞进行静态分析.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
@@ -901,7 +900,7 @@
 - [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — 更智能的 Dockerfile linter，可帮助您构建最佳实践 Docker 映像.
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 - [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
@@ -970,11 +969,11 @@
 <h2 id="kubernetes">州长</h2>
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
-- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群以获取资源，对这些资源执行通用和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
 
