@@ -19,7 +19,7 @@
 
 ## CSS in a nutshell
 
-- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - 这个 Screencast 系列将在大约一小时内教你 CSS 的基础知识.
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - 这个截屏视频系列将在大约一小时内教你 CSS 的基础知识.
 
 ## Fundamental concepts
 
@@ -73,7 +73,7 @@
 ### Grid
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - 所有你需要知道的关于一页上的 CSS 网格布局.
-- [Grid by Example](https://gridbyexample.com) - 除了如何使用 Grid 的示例之外，该站点还有其他有用的学习资源.
+- [Grid by Example](https://gridbyexample.com) - 除了如何使用 Grid 的示例外，该站点还有其他有用的学习资源.
 - [Designing with Grid](https://talks.jensimmons.com/J5VRbA/designing-with-grid) - 谈论 CSS Grid 提供的新布局可能性.
 - [Grid Garden](https://cssgridgarden.com) - 可爱的游戏，您可以在其中编写 CSS 代码来种植胡萝卜花园.
 - [GridBugs](https://github.com/rachelandrew/gridbugs) - 社区策划的网格互操作问题列表和解决方法.

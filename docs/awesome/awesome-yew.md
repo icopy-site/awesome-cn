@@ -38,7 +38,7 @@
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
-- [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序（Yew）构建到本机应用程序的示例.
+- [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) --Tachiyomi 式网络漫画阅读器.tanoshi 的前端.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
@@ -70,7 +70,7 @@
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 具有各种算法的交互式实现的网站（目前仅排序算法）.
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - 软件开发人员组合， [Live Demo](https://maeurer.dev/).
 - [zzhack](https://github.com/youncccat/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/technology).
-- [Rquote](https://github.com/Altair-Bueno/rquote)  - Rquote 是一个使用 Rust 和 WebAssembly 构建的 Web 应用程序. 它从 Animechan API 获取动漫引语. [Live Demo](https://rquote.vercel.app/).
+- [Rquote](https://github.com/Altair-Bueno/rquote) - Rquote is a web application built using Rust and WebAssembly. It fetches Anime quotes from the Animechan API. [Live Demo](https://rquote.vercel.app/).
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 示例演示了Yew服务器端的潮汐和冲浪渲染，它需要Yew的**开发版本**.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款真实的派对游戏，玩家可以在其中尽可能快地猜测图像的内容. 
@@ -81,13 +81,14 @@
 - [yew-wasm-pack-template](https://github.com/yewstack/yew-wasm-pack-template) - 用于启动 Yew 项目的模板，可与 wasm-pack 一起使用.
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - 使用 wasm-bindgen 和 wasm-pack 启动 Yew 项目的最小模板.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 令人敬畏的 Yew 与 Yew-Router 和 Parcel 应用程序.
+- [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
 
 ## Crates
 
 ### Component Libraries
 
 - [yew-mdc](https://github.com/dungeonfog/yew-mdc) - Yew 框架的材料设计组件.
-- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - 用于 Yew 框架的 MUI-CSS 组件.
+- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
 - [material-yew](https://github.com/hamza1311/material-yew) - 材料 Web 组件的 Yew 包装器.
 - [Yewprint](https://github.com/cecton/yewprint) - blueprintjs.com 到 Yew 的端口.
@@ -167,7 +168,7 @@
 Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项令人兴奋的新技术的潜力.
 
 - [Draco](https://github.com/utkarshkukreti/draco) - 用于使用 WebAssembly 构建客户端 Web 应用程序的 Rust 库.
-- [Percy](https://github.com/chinedufn/percy) - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+- [Percy](https://github.com/chinedufn/percy) - 用于使用 Rust + WebAssembly 构建同构 Web 应用程序的模块化工具包.
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
 - [Seed](https://github.com/seed-rs/seed) - 用于创建 Web 应用程序的 Rust 框架.
 - [Smithy](https://github.com/rbalicki2/smithy) - 在 Rust 中构建 WebAssembly 应用程序的框架.

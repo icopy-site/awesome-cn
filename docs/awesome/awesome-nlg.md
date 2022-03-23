@@ -4,72 +4,73 @@
 
 ![Piscis Magnus from BL Harley 647](https://raw.githubusercontent.com/accelerated-text/awesome-nlg/master/logo.png)
 
-Natural Language Generation is a broad domain with applications in chat-bots, story generation, and data descriptions. There is a wide spectrum of different technologies addressing parts or the whole of the NLG process. This list aims to represent this deversity of NLG applications and techniques by providing links to various projects, tools, research papers, and learning materials.
+自然语言生成是一个广泛的领域，在聊天机器人、故事生成和数据描述中都有应用. 有很多不同的技术可以解决部分或整个 NLG 过程. 此列表旨在通过提供各种项目、工具、研究论文和学习材料的链接来代表 NLG 应用程序和技术的多样性.
 
 
 
 ## Datasets
 
-- [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - A dataset for NLG in dialogue systems in the public transport information domain.
-- [Box-score data](https://github.com/harvardnlp/boxscore-data/) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
-- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate English biographies for Semantic Web triples.
-- [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
-- [WebNLG](https://github.com/ThiagoCF05/webnlg) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
-- [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
-- [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - The Schema-Guided Dialogue (SGD) dataset consists of over 20k annotated multi-domain, task-oriented conversations between a human and a virtual assistant.
+- [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) - 公共交通信息领域对话系统中的 NLG 数据集.
+- [Box-score data](https://github.com/harvardnlp/boxscore-data/) - 该数据集由（人工编写的）NBA 篮球比赛摘要与其相应的得分和线得分对齐.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - 该共享任务侧重于最近的端到端 (E2E)、数据驱动的 NLG 方法，这些方法从非对齐数据中共同学习句子规划和表面实现.
+- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) - 存储库包含代码以及所需的语料库，这些语料库用于构建一个“学习”如何为语义 Web 三元组生成英文传记的系统.
+- [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - 来自weather.gov（美国公共预报）的计算机生成的天气预报，以及相应的天气数据.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) - WebNLG 的丰富版本 - 用于评估常见 NLG 任务的资源，包括话语排序、词汇化和引用表达式生成.
+- [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/)  - 该数据集从维基百科收集了 728,321 篇传记. 它旨在评估文本生成算法.
+- [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - Schema-Guided Dialogue (SGD) 数据集包含超过 20k 个带注释的多域、人类和虚拟助手之间面向任务的对话.
 - [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
-- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG 为餐厅评论的自然语言生成提供资源。
+- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG 为餐厅评论的自然语言生成提供资源.
 
 ## Dialog
 
-- [Chatito](https://github.com/rodrigopivi/Chatito) - Generate datasets for AI chatbots, NLP tasks, named entity recognition or text classification models using a simple DSL!
-- [NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial is an open source toolkit for building end-to-end trainable task-oriented dialogue models.
-- [Plato](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents. 
-- [RNNLG](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
-- [TGen](https://github.com/UFAL-DSG/tgen) - Statistical NLG for spoken dialogue systems.
+- [Chatito](https://github.com/rodrigopivi/Chatito) - 使用简单的 DSL 为 AI 聊天机器人、NLP 任务、命名实体识别或文本分类模型生成数据集！
+- [NNDIAL](https://github.com/shawnwun/NNDIAL) - NNDial 是一个开源工具包，用于构建端到端可训练的面向任务的对话模型.
+- [Plato](https://github.com/uber-research/plato-research-dialogue-system) - 这是柏拉图研究对话系统，一个用于开发对话式人工智能代理的灵活平台. 
+- [RNNLG](https://github.com/shawnwun/RNNLG) - RNNLG 是用于口语对话系统应用领域中自然语言生成 (NLG) 的开源基准工具包.
+- [TGen](https://github.com/UFAL-DSG/tgen) - 用于口语对话系统的统计 NLG.
 
 ## Evaluation
 
 - [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt)
-- [compare-mt](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
-- [GEM](https://gem-benchmark.com/) - NLG 的基准环境，侧重于通过人工注释和自动化指标进行评估。
-- [NLG-eval](https://github.com/Maluuba/nlg-eval) - Evaluation code for various unsupervised automated metrics for Natural Language Generation.
-- [VizSeq](https://github.com/facebookresearch/vizseq) - A Visual Analysis Toolkit for Text Generation Tasks.
+- [compare-mt](https://github.com/neulab/compare-mt) - 一种对语言生成系统进行整体分析的工具.
+- [GEM](https://gem-benchmark.com/) - NLG 的基准环境，侧重于通过人工注释和自动化指标进行评估.
+- [NLG-eval](https://github.com/Maluuba/nlg-eval) - 自然语言生成的各种无监督自动化指标的评估代码.
+- [VizSeq](https://github.com/facebookresearch/vizseq) - 用于文本生成任务的可视化分析工具包.
 
 ## Grammar
 
-- [OpenCCG](https://github.com/OpenCCG/openccg) - OpenCCG library for parsing and realization with CCG.
-- [GrammaticalFramework](http://www.grammaticalframework.org/) - A programming language for multilingual grammar applications.
-- [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG: All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
-- [CCG Lab](https://github.com/bozsahin/ccglab) - All combinators, common grammar format, parsing to logical form, parameter estimation for probabilistic CCG.
-- [CCGweb](https://github.com/texttheater/ccgweb) - A Web platform for parsing and annotation.
+- [OpenCCG](https://github.com/OpenCCG/openccg) - OpenCCG 库，用于使用 CCG 进行解析和实现.
+- [GrammaticalFramework](http://www.grammaticalframework.org/) - 用于多语言语法应用程序的编程语言.
+- [EasyCCG](https://github.com/mikelewis0/easyccg) - CCG：所有组合子、通用语法格式、解析为逻辑形式、概率 CCG 的参数估计.
+- [CCG Lab](https://github.com/bozsahin/ccglab) - 所有组合器、通用语法格式、解析为逻辑形式、概率 CCG 的参数估计.
+- [CCGweb](https://github.com/texttheater/ccgweb) - 用于解析和注释的 Web 平台.
 
 ## Libraries
 
-- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
-- [Number Words](https://github.com/tokenmill/numberwords) - Convert a number to an approximated text expression: from '0.23' to 'less than a quarter'.
+- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) - 一个 .NET 库，可将 cron 表达式转换为人类可读的描述.
+- [Number Words](https://github.com/tokenmill/numberwords) - 将数字转换为近似的文本表达式：从“0.23”到“小于四分之一”.
 
 ## Narrative Generation
 
-- [Random Story Generator](https://github.com/aherriot/story-generator) - Using Natural Language Generation (NLG) to create a random short story.
-- [Tracery](https://github.com/galaxykate/tracery) - A story-grammar generation library for JavaScript.
+- [Random Story Generator](https://github.com/aherriot/story-generator) - 使用自然语言生成 (NLG) 创建随机短篇小说.
+- [Tracery](https://github.com/galaxykate/tracery) - JavaScript 的故事语法生成库.
 
 ## Neural Natural Language Generation
 
-- [aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
-- [graph-2-text](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
-- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) - A Neural Network based generative model for captioning images using Tensorflow.
-- [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
-- [PPLM](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
-- [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
-- [Texar](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
-- [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
-- [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
-- [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - For converting information present in the form of structured data into natural language text.
+- [aitextgen](https://github.com/minimaxir/aitextgen) - 一个强大的 Python 工具，用于使用 GPT-2 进行基于文本的 AI 训练和生成.
+- [graph-2-text](https://github.com/diegma/graph-2-text) - 在 Pytorch 中结合 Graph 卷积网络和 opennmt-py 实现的图形到序列.
+- [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) - 基于神经网络的生成模型，用于使用 Tensorflow 为图像添加字幕.
+- [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) - 我们展示了一个作为自动研究助理的 PaperRobot.
+- [PPLM](https://github.com/uber-research/PPLM)  - 即插即用语言模型实现. 允许引导 GPT-2 模型的主题和属性.
+- [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) - 问题生成是从文本段落中自动生成问题的任务.
+- [Texar](https://github.com/asyml/texar) - Texar 是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) - 只需几行代码，即可在任何文本数据集上轻松训练您自己的任何大小和复杂度的文本生成神经网络.
+- [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) - 这是一个允许人们从头开始训练组成单词、定义和示例的 GPT-2 变体的项目.
+- [Transformers](https://github.com/huggingface/transformers) - 用于 TensorFlow 2.0 和 PyTorch 的最先进的自然语言处理.
+- [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) - 用于将结构化数据形式的信息转换为自然语言文本.
 
 ## Papers and Articles
+- [2022: Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text](https://arxiv.org/abs/2202.06935)
 - [2021: Vision: NLG Can Help Humanise Data and AI](https://ehudreiter.com/2021/03/17/vision-nlg-can-help-humanise-data-and-ai/)
 - [2020: The Curious Case of Neural Text Degeneration](https://openreview.net/forum?id=rygGQyrFvH)
 - [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
@@ -89,22 +90,22 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 ## Products 
 
-- [Accelerated Text](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
-- [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
-- [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
+- [Accelerated Text](https://github.com/tokenmill/accelerated-text) - 自动生成不同措辞和结构的数据的多种自然语言描述.
+- [RosaeNLG](https://rosaenlg.org) - 基于 Pug 模板引擎的 node.js 或客户端（浏览器）执行的开源库，用于生成英语、法语、德语和意大利语文本.
+- [Twine](http://twinery.org/) - 用于讲述交互式非线性故事的开源工具.
 
 ## Realizers
 
-- [Genl](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
-- [JSrealB](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
-- [SimpleNLG](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
-- [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
-- [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) - SimpleNLG-EnFr 1.1 is a bilingual English/French adaption of SimpleNLG v4.2.
+- [Genl](https://github.com/kowey/GenI) - 使用树邻接语法的表面实现器（自然语言生成系统的一部分）.
+- [JSrealB](https://github.com/rali-udem/JSrealB) - 用于 Web 开发的 JavaScript 双语文本实现器.
+- [SimpleNLG](https://github.com/simplenlg/simplenlg) - 用于自然语言生成的 Java API.
+- [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) - 德文版 SimpleNLG 4.
+- [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) - SimpleNLG-EnFr 1.1 是 SimpleNLG v4.2 的英法双语改编版本.
 
 ## Templating Languages
 
-- [calyx](https://github.com/maetl/calyx) - A Ruby library for generating text with recursive template grammars.
-- [nalgene](https://github.com/spro/nalgene) - Natural language generation language.
+- [calyx](https://github.com/maetl/calyx) - 一个 Ruby 库，用于使用递归模板语法生成文本.
+- [nalgene](https://github.com/spro/nalgene) - 自然语言生成语言.
 - [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output. 
 
 ## Videos
@@ -119,4 +120,4 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [TokenMill](https://www.tokenmill.ai) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [TokenMill](https://www.tokenmill.ai) 已放弃本作品的所有版权和相关或邻近权利.

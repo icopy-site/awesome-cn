@@ -178,6 +178,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 *托管文件传输 (MFT) 解决方案.*
 - [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - 一体化企业级 MFT.
 - [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Make file transfer services easy to use.
+- [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - 具有高可用性和故障转移功能的企业 MFT 服务器解决方案可消除停机时间.
 - [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - 使用快速且可扩展的文件传输平台，每天传输超过 100 万个文件.
 - [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - 启用安全的文件交换和管理.
 
@@ -207,7 +208,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [RabbitMQ](https://www.rabbitmq.com) - 最初实现高级消息队列协议 (AMQP) 的开源消息代理.
 - [Redpanda](https://github.com/vectorizedio/redpanda)  - 用于关键任务工作负载的流媒体平台. 兼容 Kafka®，无需 Zookeeper®，无需 JVM，也无需更改代码.
 - [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - 基于 Apache ActiveMQ 和 Apache Kafka 等开源社区的 Red Hat AMQ.
-- [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - TIBCO EMS 是基于标准的 Java™ 消息服务 (JMS) 实现，允许任何支持 JMS 的应用程序（无论是本地应用程序还是第三方应用程序）快速轻松地交换消息.
+- [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - TIBCO EMS 是基于标准的 Java™ 消息服务 (JMS) 实现，允许任何支持 JMS 的应用程序（无论是本地开发的还是第三方的）快速轻松地交换消息.
 - [VerneMQ](https://github.com/vernemq/vernemq) - 一个高性能的分布式 MQTT 消息代理.
 
 ### RPA
@@ -244,7 +245,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 ### API Specification
 - [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - AsyncAPI 规范为事件驱动架构 (EDA) 的更大更好的工具生态系统奠定了基础.
 - [GraphQL](https://github.com/graphql/graphql-spec) - API 的查询语言和使用现有数据完成这些查询的运行时.
-- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在无需访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
+- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在不访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API 建模语言.
 - [WSDL](http://www.w3.org/TR/wsdl20) - 基于 SOAP 的服务的基于 XML 的接口描述语言.
 ### Articles
