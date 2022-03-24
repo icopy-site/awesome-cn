@@ -38,9 +38,9 @@
 
 ## Channel History
 
-* [Channel History](https://channels.nix.gsc.io) - Get historical git commits for Nix channels.
+* [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git 提交.
-* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 报告显示主要 Hydra 作业集有问题的依赖关系（导致构建失败最多的依赖关系）.
+* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 报告显示主要 Hydra 作业集的有问题的依赖关系（导致构建失败最多的依赖关系）.
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已进入频道的跟踪器.
 
 ## Deployment Tools
@@ -80,6 +80,7 @@
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用功能，以帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
 * [lorri](https://github.com/target/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
+* [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于在任何地方以任何语言构建、测试和发布项目. 
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和符合 flake 的配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
@@ -157,7 +158,7 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
 * [musnix](https://github.com/musnix/musnix) - 在 NixOS 中进行实时音频工作.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Nixpkgs 扩展，重点是易于部署网络相关技术.
-* [NixVim](https://github.com/pta2002/nixvim) - 使用 Nix 模块和 Nixpkgs 构建的 NeoVim 发行版.
+* [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，使用 NixOS 模块进行管理.
 
 ## Overlays
