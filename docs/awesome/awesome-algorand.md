@@ -8,9 +8,9 @@
 </div>
 <br/>
 <div align="center">
-⚡ A curated list of awesome resources related to the <a href='https://www.algorand.com/'>Algorand</a> Blockchain.
+⚡ 与<a href='https://www.algorand.com/'>Algorand</a>区块链相关的精彩资源的精选列表.
 <br />
-Algorand is an open-source, proof of stake blockchain and smart contract computing platform.
+Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 <br/>
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=green" /></a>
 <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
@@ -23,57 +23,58 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ## Official
 
-- [Algorand](https://www.algorand.com/) - Official website.
-- [Algorand Foundation](https://algorand.foundation/) - Official website of the Foundation.
-- [Algorand FAQ](https://algorand.foundation/faq) - FAQ maintained by the Algorand Foundation.
-- [Algorand Governance](https://governance.algorand.foundation/) - Official website of Algorand Governance program.
-- [Algorand Developer Portal](https://developer.algorand.com/) - Official Algorand developer portal.
+- [Algorand](https://www.algorand.com/) - 官方网站.
+- [Algorand Foundation](https://algorand.foundation/) - 基金会官方网站.
+- [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
+- [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
+- [Algorand Developer Portal](https://developer.algorand.com/) - 官方 Algorand 开发者门户.
 
 ## Wallets
 
-- [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for mobile devices. Maintained by the team behind official Algorand Wallet.
-- [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser.
-- [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
-- [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
+- [Pera Wallet](https://github.com/perawallet)  - 用于移动设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
+- [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的 Web 钱包和 JS 库.
+- [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件 Web Wallet 和 JS 库，用于在浏览器中签署交易.
+- [Method Wallet](https://methodwallet.app/) - 你会喜欢的 Algorand 钱包.
 
 ## Blockchain Explorers
 
-- [AlgoExplorer](https://www.algoexplorer.io/) - Algorand blockchain explorer built by [RandLabs](https://randlabs.io/).
-- [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet) - Algorand blockchain explorer built by [PureStake](https://www.purestake.com/).
-- [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
-- [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
-- [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
-- [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
-- [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
+- [AlgoExplorer](https://www.algoexplorer.io/) - Algorand 区块链浏览器由 [RandLabs](https://randlabs.io/).
+- [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet) - Algorand 区块链浏览器由 [PureStake](https://www.purestake.com/).
+- [NFTExplorer](https://www.nftexplorer.app/) - Algor和 标准资产 (ASA) 资源管理器由 [@TomassoAE](https://twitter.com/TommasoAE) 和 [JoshLmao](https://twitter.com/JoshLmao).
+- [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand 帐户的 2D 图表.
+- [Algorand Multiverse](https://algo3d.live/) - Algorand 帐户的 3D 图表.
+- [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
+- [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
 
 ## Portfolio Trackers
 
-- [Algogator.Finance](https://algogator.finance/) <i>- Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand blockchain anywhere and anytime.</i> <b>- 随时随地跟踪或搜索 Algorand 区块链上的资产、奖励、收益耕作、交易和 NFT。</b> <i>Built by</i><b>由__建造</b> [@TeamAlgogator](https://twitter.com/TeamAlgogator).
-- [ASA Stats](https://www.asastats.com/) - One-stop portfolio tracker used to summarize Algorand asset valuations from up to five wallet addresses.
+- [Algogator.Finance](https://algogator.finance/)  - 随时随地跟踪或搜索 Algorand 区块链上的资产、奖励、收益耕作、交易和 NFT. 由__建造 [@TeamAlgogator](https://twitter.com/TeamAlgogator).
+- [ASA Stats](https://www.asastats.com/) - 一站式投资组合跟踪器，用于从多达五个钱包地址汇总 Algorand 资产估值.
 
 ## Learning
 
 ### Crash Courses
 
-- [Algorand School](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+- [Algorand School](https://github.com/cusma/algorand-school) - Algorand 学校速成课程幻灯片.
+- [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
 
 ### Tutorials
 
-- [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - Tutorial on how to build a lending pool using the Reach language.
-- [Voting using Choice Coin](https://developer.algorand.org/tutorials/voting-using-choice-coin/) - Tutorial on how to use the Choice Coin voting mechanism with Algorand Python SDK.
-- [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - Tutorial on utilizing PyTEAL and Inner Transactions.
-- [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - Redux example using WalletConnect.
-- [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - Build your web app for minting assets using Python, AlgoSigner, and Anvil Platform.
-- [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - Tutorial from algorand developer portal.
-- [Swift iOS app using Augmented Reality for Algorand purchases](https://developer.algorand.org/tutorials/ios-app-using-augmented-reality-for-purchases/) - An iOS App Using Augmented Reality for Purchases.
-- [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - Decentralised co-operative unions with Algorand Multisignature Account.
-- [Algorand on RaspberryPi](https://developer.algorand.org/tutorials/development-on-algorand-using-raspberry-pi-part-1/) - Development on Algorand using Raspberry Pi.
-- [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - Read and Write to the Transaction Note Field with Python.
-- [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - Using Stateful Smart Contract To Create Algorand Standard Asset.
+- [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言构建借贷池的教程.
+- [Voting using Choice Coin](https://developer.algorand.org/tutorials/voting-using-choice-coin/) - 关于如何在 Algorand Python SDK 中使用 Choice Coin 投票机制的教程.
+- [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部事务的教程.
+- [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
+- [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil 平台构建用于铸造资产的 Web 应用程序.
+- [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - 来自algorand 开发者门户的教程.
+- [Swift iOS app using Augmented Reality for Algorand purchases](https://developer.algorand.org/tutorials/ios-app-using-augmented-reality-for-purchases/) - 使用增强现实进行购买的 iOS 应用程序.
+- [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - 使用 Algorand Multisignature Account 的去中心化合作联盟.
+- [Algorand on RaspberryPi](https://developer.algorand.org/tutorials/development-on-algorand-using-raspberry-pi-part-1/) - 使用 Raspberry Pi 在 Algorand 上进行开发.
+- [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - 使用 Python 读取和写入交易记录字段.
+- [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - 使用有状态智能合约创建 Algorand 标准资产.
 
 ## Development
 
-> Awesome client libraries, tools, and community utilities sorted by the language of implementation.
+&gt; 很棒的客户端库、工具和社区实用程序，按实现语言排序.
 
 ### Dart
 
@@ -81,36 +82,36 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ### Go
 
-- [go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
-- [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+- [go-algorand](https://github.com/algorand/go-algorand) - Algorand 在 Go 中的官方实现.
+- [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - Algorand Golang SDK.
 
 ### PHP
 
-- [php-algorand-sdk](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
-- [algorand-php](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK created by [@RootSoft](https://github.com/RootSoft).
+- [php-algorand-sdk](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK 创建者 [@ffsolutions](https://github.com/ffsolutions).
+- [algorand-php](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK 创建者 [@RootSoft](https://github.com/RootSoft).
 
 ### Python
 
-- [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-- [pyteal](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
-- [pyteal-utils](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
+- [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) - Algorand Python SDK.
+- [pyteal](https://github.com/algorand/pyteal) - Python 中的 Algorand 智能合约.
+- [pyteal-utils](https://github.com/algorand/pyteal-utils) - PyTEAL 实用程序库.
 - [tinyman-py-sdk](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 - [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
 ### JavaScript
 
-- [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+- [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - Algorand JavaScript SDK 和示例.
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 
 ### Java
 
-- [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
+- [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) - Algorand Java SDK.
 
 ### .NET
 
-- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
-- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
-- [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.
+- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 创建者 [@RileyGe](https://github.com/RileyGe).
+- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
+- [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 
 ### Rust
 
@@ -118,135 +119,135 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ### Swift
 
-- [algorand-wallet](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
-- [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+- [algorand-wallet](https://github.com/algorand/algorand-wallet) - Swift 中的 Algorand 钱包官方实现.
+- [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - 用于与 Algorand 区块链交互的 Swift SDK.
 
 ### Vertices
 
-- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
 
 ## IDEs
 
-> Awesome client libraries, tools, community plugins and integrations for IDEs.
+&gt; 很棒的客户端库、工具、社区插件和 IDE 集成.
 
 ### vim
 
-- [vim-algorand-teal](https://github.com/aldur/vim-algorand-teal) - Minimalistic syntax highlight for Algorand's TEAL Smart Contract language to vim.
+- [vim-algorand-teal](https://github.com/aldur/vim-algorand-teal) - Algorand 的 TEAL 智能合约语言到 vim 的简约语法高亮显示.
 
 ### IntelliJ
 
-- [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ Plugin.
+- [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ 插件.
 
 ### VSCode
 
-- [Obsidian Labs/vscode-algorand](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
-- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
+- [Obsidian Labs/vscode-algorand](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS 代码扩展.
+- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - 在 VSCode 中使用最少的 AVM 配置调试蓝绿色.
 
 ## Tools
 
 ### Smart Contracts
 
-- [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
-- [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
-- [algoml](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
+- [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApps）的特定领域语言.
+- [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
+- [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
 
 ### Docker
 
-- [Algorand Sandbox](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
-- [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage.
+- [Algorand Sandbox](https://github.com/algorand/sandbox) - 创建和配置 Algorand 开发环境的快速方法.
+- [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - 用于更快的本地开发和 CI/CD 使用的 Docker Hub 映像.
 
 ### Nodes and Indexers
 
-- [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
-- [AlgoNode](https://algonode.cloud) - Node running FAQ, Node/Indexer daily snapshots, Free Node/Indexer APIs.
+- [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - 存档节点、索引器设置（等等）的开发说明.
+- [AlgoNode](https://algonode.cloud) - 节点运行常见问题解答、节点/索引器每日快照、免费节点/索引器 API.
 
 ## NFT Marketplaces
 
-- [AB2](https://ab2.gallery/) - decentralized marketplace for crypto art assets secured on the Algorand blockchain created by [@ab2_gallery](https://twitter.com/AB2_Gallery).
-- [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and markeplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
-- [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
-- [AlgoWorldExplorer](https://algoworldexplorer.io/) - NFT marketplace, explorer and gallery for AlgoWorld NFTs developed by [@millionalgosfather](https://twitter.com/millionalgos).
-- [AlgoMart](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
-- [The GIF Economy](https://gifeconomy.com/) - Decentralized NFT explorer, minting and trading.
-- [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
-- [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
-- [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
-- [Otherverse](https://otherverse.io/) - NFT 收藏市场。
-- [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
-- [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
-- [Dahai](https://www.dahai.uk/) - NFT art gallery and marketplace.
-- [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
-- [ZestBloom](https://zestbloom.com/) - Digital Media NFT marketplace that offers ways to promote artists for their contributions.
+- [AB2](https://ab2.gallery/) - 在 Algorand 区块链上保护的加密艺术资产的去中心化市场，由 [@ab2_gallery](https://twitter.com/AB2_Gallery).
+- [Rand Gallery](https://www.randgallery.com/) - 由 Algorand 标准资产 (ASA) 浏览器和市场开发 [Chris Antaki](https://github.com/ChrisAntaki).
+- [AlgoGems](https://algogems.io/) - 面向 NFT 收藏家的 Algorand 标准资产 (ASA) 市场和交易平台.
+- [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和图库 [@millionalgosfather](https://twitter.com/millionalgos).
+- [AlgoMart](https://github.com/deptagency/algomart) - 开源 NFT 市场白标解决方案.
+- [The GIF Economy](https://gifeconomy.com/) - 去中心化的 NFT 浏览器、铸造和交易.
+- [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
+- [Dartroom](https://dartroom.xyz/overview) - 去中心化的 NFT 浏览器、铸造和交易.
+- [Alchemon](https://alchemon.net/) - 收集怪物的 NFT 纸牌游戏.
+- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
+- [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
+- [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏市场.
+- [Dahai](https://www.dahai.uk/) - NFT 艺术画廊和市场.
+- [Aorist](https://aorist.art/) - NFT 艺术画廊和市场.
+- [ZestBloom](https://zestbloom.com/) - 数字媒体 NFT 市场，提供宣传艺术家贡献的方式.
 
 ## DeFi Platforms
 
-- [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
-- [Tinyman](https://tinyman.org/) - A decentralized trading protocol, AMM and platform.
-- [Algofi](https://www.algofi.org/) - Decentralized lending market and stablecoin on the Algorand blockchain.
-- [Pact](https://www.pact.fi/) - Decentralised Automated Market Maker (AMM) built on the Algorand protocol.
-- [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
-- [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
-- [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
+- [Yieldly](https://yieldly.finance/) - 用于跨链交换、ASA 质押和彩票游戏的 DeFI 套件.
+- [Tinyman](https://tinyman.org/) - 去中心化交易协议、AMM 和平台.
+- [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
+- [Pact](https://www.pact.fi/) - 基于 Algorand 协议的去中心化自动做市商 (AMM).
+- [Lofty.ai](https://www.lofty.ai/) - 代币化房地产投资平台.
+- [Folks.finance](https://folks.finance/) - 去中心化的资本市场协议.
+- [C3](https://c3.io/) - 跨保证金交叉抵押清算引擎协议.
 
 ## Bridges
 
-- [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
-- [QUIGON](https://bridge.quigon.com/) - Centralized cross-chain NFT bridge.
-- [GlitterFinance](https://glitter.finance/) - Centralized (soon to be decentralized upon TEAL 6) bridge for Solana, Polygon, Terra and Cudos to Algorand.
+- [Algomint](https://algomint.io/) - 集中式 BTC 和 ETH 桥接至 Algorand.
+- [QUIGON](https://bridge.quigon.com/) - 集中式跨链 NFT 桥.
+- [GlitterFinance](https://glitter.finance/) - Solana、Polygon、Terra 和 Cudos 到 Algorand 的集中式（很快将在 TEAL 6 上分散）桥.
 
 ## Oracles
 
-- [Algoracle](https://www.algoracle.ai/) - Decentralized oracle networks that connect the Algorand blockchain with the real world.
+- [Algoracle](https://www.algoracle.ai/) - 将 Algorand 区块链与现实世界连接起来的去中心化预言机网络.
 
 ## Name Services
 
-- [NFDomains](https://nf.domains/) - Algorand name service and marketplace for Non-Fungible Domains (NFDs) — unique, readable aliases for wallet addresses.
-- [Algorand Name Service](https://algonameservice.com/home) - ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy.
+- [NFDomains](https://nf.domains/) - 非同质域 (NFD) 的 Algorand 名称服务和市场——钱包地址的唯一、可读别名.
+- [Algorand Name Service](https://algonameservice.com/home)  - ANS 是一种去中心化的命名服务.  Algorand 智能合约存储名称并管理命名策略.
 
 ## Community
 
-> The following contains sections related to open source projects, utilities, and news resources.
+&gt; 以下包含与开源项目、实用程序和新闻资源相关的部分.
 
 ### Projects
 
-- [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
-- [Auction Demo](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
-- [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
-- [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - Collection of ASC1 contracts in pyteal for creating ASA swappers.
-- [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
-- [paytx](https://github.com/algorand-devrel/paytx) - Examples of common pay transaction scenarios using the Algorand Python SDK.
-- [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
-- [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
-- [algonim](https://github.com/cusma/algonim) - First Algorand mini-puzzle-game. Written in Python+PyTEAL by [@cusma](https://twitter.com/cusma_b).
+- [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - 可用于铸造符合 ARC3 的 NFT 的 Dapp.
+- [Auction Demo](https://github.com/algorand/auction-demo) - 使用智能合约进行链上 NFT 拍卖.
+- [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - 会话钱包允许跨多个钱包的持久钱包连接.
+- [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - 在 pyteal 中收集 ASC1 合同，用于创建 ASA 交换器.
+- [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
+- [paytx](https://github.com/algorand-devrel/paytx) - 使用 Algorand Python SDK 的常见支付交易场景示例.
+- [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
+- [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
+- [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/cusma/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
-- [minter](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
-- [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe](https://github.com/Ripe/algovanity).
-- [galvanity](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
-- [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
-- [genpyteal](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
-- [AgorHash](http://www.agorhash.com/) - Public, permissionless, decentralized and uncensorable free speech protocol.
+- [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的散装 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
+- [algovanity](https://algovanity.com/) - Algorand Vanity 地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
+- [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 编写的 Algorand 虚地址生成器.
+- [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
+- [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
+- [AgorHash](http://www.agorhash.com/) - 公共、无需许可、去中心化和不可审查的言论自由协议.
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 
 ## ARCs
 
-> Standards and specs defined in *finalized* ARCs.
+&gt; *finalized* ARC 中定义的标准和规范.
 
-- [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
-- [ARC69](https://github.com/algokittens/arc69) - Unofficial Algorand Standart Asset Parameters Convention popular in Algorand NFT community, inspired by [Open Sea's metadata standards](https://docs.opensea.io/docs/metadata-standards) and [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema), created by [@algokittens](https://twitter.com/AlgoKittens).
+- [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.
+- [ARC69](https://github.com/algokittens/arc69) - 在 Algor和 NFT 社区中流行的非官方 Algor和 标准资产参数约定，灵感来自 [Open Sea's metadata st和ards](https://docs.opensea.io/docs/metadata-st和ards) 和 [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).
 
 ## Metrics
 
-- [Algorand MainNet metrics](https://metrics.algorand.org/) - Dashboard that measures the current scale, security, decentralization, and adoption of the open-source Algorand protocol.
-- [How Big is Algorand?](https://howbigisalgorand.com/) - Algorand's networks size monitor.
-- [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand mempool explorer.
-- [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand network performance and account monitor.
-- [Algorand Stats](https://www.algorandstats.com/) - All stats about Algorand Governance.
+- [Algorand MainNet metrics](https://metrics.algorand.org/) - 衡量开源 Algorand 协议的当前规模、安全性、去中心化和采用情况的仪表板.
+- [How Big is Algorand?](https://howbigisalgorand.com/) - Algorand 的网络规模监视器.
+- [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand 内存池浏览器.
+- [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand 网络性能和帐户监控.
+- [Algorand Stats](https://www.algorandstats.com/) - 关于 Algorand 治理的所有统计数据.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/aorumbayev/Awesome-Algorand/blob/main/contributing.md) first.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/aorumbayev/Awesome-Algorand/blob/main/contributing.md) 第一的.
 
-Special thanks to everyone who forked or starred the repository ❤️
+特别感谢所有对存储库进行分叉或加星标的人❤️
 
 [![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
 
@@ -258,13 +259,13 @@ License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [@aorumbayev](https://github.com/aorumbayev) has waived all copyright and related or neighboring rights to `Awesome Algorand.`
+在法律允许的范围内， [@aorumbayev](https://github.com/aorumbayev) 已放弃“Awesome Algorand”的所有版权和相关或邻接权.
 
-For the full license, see [LICENSE](https://github.com/aorumbayev/Awesome-Algorand/blob/main/LICENSE).
+有关完整许可证，请参阅 [LICENSE](https://github.com/aorumbayev/Awesome-Algorand/blob/main/LICENSE).
 
 Credits
 
-This awesome list is inspired by:
+这个很棒的列表的灵感来自：
 
 - https://github.com/ghostbits/awesome-algorand
 

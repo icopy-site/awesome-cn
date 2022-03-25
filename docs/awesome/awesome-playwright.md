@@ -12,39 +12,36 @@
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - 用于运行 Playwright 的 Jest 适配器.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 适用于 Node.js 的增压 End 2 End 测试框架.
-- [QA Wolf](https://github.com/qawolf/qawolf) - 创建浏览器测试的速度提高 10 倍.
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - 支持在 AWS Lambda 和 Google Cloud Functions 上运行 Microsoft 的 Playwright.
-- [playwright-amazon-linux-build](https://github.com/help-14/playwright-amazon-linux-build) - 为 Playwright 构建在 Amazon Linux 2 上运行的浏览器.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - 安装所有必需依赖项的 GitHub 操作.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - 用于将 Playwright 页面与固定装置一起使用的官方 Pytest 插件.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku buildpack 用于在 Heroku Dyno 上运行 Playwright.
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Playwright 使用 axe-core 运行可访问性 (a11y) 检查的自定义命令.
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - 期望匹配器在您的 Playwright 测试中执行 Axe 可访问性测试.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 用于使用 Typescript 编写基于 Cucumber 和 Playwright 的 E2E 测试的入门存储库.
+- [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - 使用 Playwright 进行负载测试.
 
 ## Language Support
 
 - [playwright](https://git.io/JT2bj) - Node.js（JavaScript 和 TypeScript）的官方剧作家.
 - [playwright-python](https://github.com/microsoft/playwright-python) - 官方 Playwright 移植到 Python.
-- [playwright-sharp](https://github.com/microsoft/playwright-sharp) - Official Playwright port to .NET with C#.
+- [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - 到 .NET 的官方 Playwright 端口.
 - [playwright-java](https://github.com/microsoft/playwright-java) - 官方 Playwright 移植到 Java.
 - [playwright-go](https://github.com/mxschmitt/playwright-go) - Golang 的剧作家端口.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Ruby 的剧作家端口.
 - [playwright-cr](https://github.com/naqvis/playwright-cr) - Crystal 的剧作家端口.
 - [playwright-rust](https://github.com/octaltree/playwright-rust) - Rust 的剧作家端口.
+- [playwright-perl](https://github.com/teodesian/playwright-perl) - Perl 的剧作家端口.
 
 ## Utils
 
 - [Try Playwright](https://try.playwright.tech) - 用于运行 Playwright 测试的交互式游乐场.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - 通过选择 Shadow DOM 根来扩展选择器引擎.
-- [playwright-video](https://github.com/qawolf/playwright-video) - 记录您的 Chromium 浏览器会话.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - 围绕 Playwright 的 Fluent API Wrapper.
 - [headless-testing](https://headlesstesting.com) - 将您的 Playwright 测试与云中的浏览器连接起来.
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - 期望实用程序匹配器函数以简化与 Playwright Test 或 Jest Playwright 一起使用的期望语句.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint 插件可满足您的 Playwright 测试需求.
 - [Moon](https://github.com/aerokube/moon) - 用于在 Kubernetes 集群中并行执行 Playwright 测试的工具.
-- [playwright-session](https://github.com/domderen/playwright-session) - 用于剧作家自动化的可视化调试器.
-- [Playwright CLI](https://github.com/microsoft/playwright-cli)  - 用于常见剧作家动作的 CLI. 记录和生成 Playwright 代码，检查选择器并截取屏幕截图.
 
 ## Showcases
 
