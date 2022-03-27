@@ -36,6 +36,8 @@
 - :earth_americas: [PE format (Microsoft docs)](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
 - ：滚动： [PinDemonium: A DBI-based generic unpacker for Windows executables](https://www.blackhat.com/docs/us-16/materials/us-16-Mariani-Pindemonium-A-Dbi-Based-Generic-Unpacker-For-Windows-Executables-wp.pdf)
 - :earth_americas: [Portable executable (PE)](https://wiki.osdev.org/PE)
+- ：题： [Tuts 4 you - UnPackMe (.NET)](https://forum.tuts4you.com/forum/155-unpackme-net)
+- ：题： [Tuts 4 you | unpackme](https://forum.tuts4you.com/forum/147-unpackme)
 - ：剪贴板： [Win32 portable executable packing uncovered](https://securitylabs.websense.com/content/Assets/HistoryofPackingTechnology.pdf)
 - ：图钉： [Writing a packer](https://dr4k0nia.github.io/dotnet/coding/2021/06/24/Writing-a-Packer.html)
 - ：图钉： [Writing a simple PE packer in detail](https://github.com/levanvn/Packer_Simple-1)
@@ -282,7 +284,7 @@ binaries.
 - [GzExe](https://git.savannah.gnu.org/cgit/gzip.git) - 允许将可执行文件压缩为 shell 脚本的实用程序.
 - [hXOR-Packer](https://github.com/rurararura/hXOR-Packer) - 具有 Huffman 压缩和 XOR 加密的 PE 打包器.
 - [LIAPP](https://liapp.lockincomp.com) - 最简单、最强大的移动应用安全解决方案.
-- [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X 许可证管理器让您可以通过实施各种级别的安全、节省时间和降低业务风险来保护您的产品免受盗版.
+- [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X 许可证管理器让您可以通过实施各种级别的安全性、节省时间和降低业务风险来保护您的产品免受盗版.
 - [m0dern_p4cker](https://github.com/n4sm/m0dern_p4cker) - 只是 elf 二进制文件的现代打包程序（仅适用于 linux 可执行文件）.
 - [MidgetPack](https://github.com/arisada/midgetpack) - Midgetpack 是 ELF 二进制文件的二进制打包器，例如 burneye、upx 或其他工具.
 - [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - 压缩（使用 LZMA）并保护 PE、.NET 或 Mach-O 程序免受逆向工程.
@@ -333,7 +335,7 @@ binaries.
 - [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE 文件打包器依赖 aPlib 进行压缩和/或 XOR 进行加密.
 - [PECompact](http://www.bitsum.com/pec2.asp) - Windows 可执行压缩器具有第三方插件，可防止逆向工程.
 - [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - 压缩您的可执行文件和动态链接库，使其保持较小且对压缩文件功能没有影响.
-- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，用安全防护罩保护目标应用程序，提供一种方法来抵消逆向工程和其他反调试措施.
+- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，使用安全防护罩保护目标应用程序，提供对抗逆向工程和其他反调试措施的方法.
 - [Shiva](https://packetstormsecurity.com/files/31087/shiva-0.95.tar.gz.html) - Shiva 是一个在 Linux 下加密 ELF 可执行文件的工具.
 - [Shrinker](https://web.archive.org/web/20081022073034/http://www.blinkinc.com/shrinker.htm) - 压缩（高达 70%）16 位和 32 位 Windows 和实模式 DOS 程序.
 - [tElock](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/Telock.shtml) - Telock 是一款实用工具，旨在帮助想要保护其工作并减小可执行文件大小的开发人员.
@@ -448,7 +450,6 @@ binaries.
 - [Renovo](https://doi.org/10.1145/1314389.1314399) - 基于TEMU（BitBlaze的动态分析组件）构建的检测工具，基于程序启动后新生成代码的执行和监控内存写入.
 - [RetDec](https://github.com/avast/retdec/releases) - 基于 LLVM 的可重定向机器代码反编译器.
 - [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK：存档器、exe 压缩器、存档器外壳和其他相关实用程序.
-- SAFE - 可执行文件的静态分析器.
 - [SymPack](https://www.amazon.com/Norton-AntiVirus-2007-Old-Version/dp/B000IAOIXW)  - 安全、便携、非常有效但不是用于打包检测和拆包的通用库； 诺顿防病毒解决方案的一部分.
 - [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - 机器学习混合云平台，可大规模收集数千种文件类型，通过机器学习二进制分析加速威胁检测，并持续监控超过 10B 文件的索引以应对未来威胁.
 - [Tuts 4 You](https://tuts4you.com/) - 非商业的、独立的社区，致力于分享逆向代码工程的知识和信息.

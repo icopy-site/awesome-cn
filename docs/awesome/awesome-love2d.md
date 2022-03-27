@@ -74,7 +74,7 @@
 * [deep](https://github.com/Nikaoto/deep)  - 增加 Z 轴； 允许您对动作进行排队并绘制调用.
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块.
 * [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - 与 deep 类似，但您可以设置自定义排序方法并创建多个可嵌套的实例.
-* [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（HSL 的人性化替代方案）.
+* [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
 * [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器.
 * [Push](https://github.com/Ulydev/push) - LÖVE 的简单分辨率处理库.
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染.
@@ -103,7 +103,7 @@
 * [cartographer](https://github.com/tesselode/cartographer) - 小型平铺地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) - 一个帮助库，可让您快速加载大量资产.
 * [grove.color](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - 使用“颜色对象”混合、转换和插入颜色.
-* [hump](https://github.com/HDictus/hump) - 使用 LÖVE 开发游戏的工具集（Gamestates、Timers/Tweens、Vectors、Classes、Signals、Cameras）.
+* [hump](https://github.com/HDictus/hump) - 使用 LÖVE 开发游戏的工具集（游戏状态、定时器/补间、向量、类、信号、相机）.
 * [iffy](https://github.com/YoungNeer/iffy) - LÖVE 的 SpriteSheet 和 Tileset 辅助库.
 * [knife](https://github.com/airstruck/knife) - Lua 有用的微模块集合（类、状态机、绑定、链、协程、事件、记忆、实体、测试、计时器）.
 * [shard](https://github.com/MineGame159/shard) - 有用的迷你模块的集合.
@@ -185,8 +185,9 @@
 ## Performance
 *性能测量工具*
 
+* [AppleCake](https://github.com/EngineerSmith/AppleCake) - LÖVE 的分析库，具有详细的分析和线程支持.
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具.
-* [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
+* [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形配置文件.
 * [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua 是一个小型的、非侵入性的模块，用于查找 Lua 代码中的瓶颈.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，它与 LuaJIT 一起使用，并在列中打印一个漂亮的报告文件.
 
@@ -243,7 +244,7 @@
 
 * [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - 无夹具的测试框架.
-* [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的可定制测试扩展 `assert()`.
+* [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的、可定制的测试扩展 `assert()`.
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit 风格的随机单元测试框架.
 * [lust](https://github.com/bjornbytes/lust) - 最小的测试框架.
 * [Specl](http://gvvaughan.github.io/specl/) - 行为驱动开发 (BDD) 工具.
@@ -338,7 +339,7 @@
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - 在括号中添加 Lua 语法高亮.
 	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - 提供 LÖVE 代码提示.
 	* [Run LÖVE](https://github.com/instilledbee/run-love2d) - 使用热键运行 LÖVE 项目.
-* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio 是一个轻量级的 Lua IDE，具有代码完成、语法突出显示、实时编码、代码分析器和调试支持.
+* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio 是一个轻量级的 Lua IDE，具有代码完成、语法高亮、实时编码、代码分析器和调试支持.
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - 将 LOVE API 语法高亮添加到 ZBS 的脚本.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 功能强大且符合人体工程学的 Java IDE.
 	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - 用于 VSCode 的 Lua IDE/调试器插件.
@@ -353,7 +354,7 @@
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - 在 VSCode 中为 Lua 提供 Intellisense 和 Linting.
     * [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode)  - 没有依赖关系的简单 Lua 调试器.  Löve 提供了特定的 launch.json 示例.
 * [Sublime Text](https://www.sublimetext.com)  - Sublime Text 是一个用于代码、标记和散文的复杂文本编辑器. 您会爱上流畅的用户界面、非凡的功能和惊人的性能.
-	* [Package Manager](https://packagecontrol.io/) - Sublime Text 包管理器让查找、安装和更新包变得非常简单.
+	* [Package Manager](https://packagecontrol.io/) - Sublime Text 包管理器，它使查找、安装和保持包更新变得非常简单.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - 支持语法高亮、自动补全和构建系统.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - 提供 Lua 代码的 linting 和静态分析.
 

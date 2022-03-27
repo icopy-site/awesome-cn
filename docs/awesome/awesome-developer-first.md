@@ -4,7 +4,7 @@
 
 
 精选的开发者优先产品列表.  
-我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （开发者趋势通讯），看看吧！  
+我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
 你可以关注我 [Twitter](https://twitter.com/agammore) 更多开发相关内容:) 
 
 此 repo 的开发者优先的定义是：
@@ -87,7 +87,7 @@
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署而不关心基础设施，适用于所有主要框架.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用.
 * [Fly.io](https://fly.io/) - 通过位置感知服务（减少延迟）部署 dockerized 全栈应用程序.
-* [Railway](https://railway.app/) - 开箱即用的 git 部署自动缩放、数据库、机密和回滚.
+* [Railway](https://railway.app/) - 开箱即用的 git 部署与自动缩放、数据库、机密和回滚.
 
 ## Discussions
 *评论和论坛.*
@@ -106,7 +106,7 @@
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*
-* [Vault](https://www.vaultproject.io/) - API 驱动的密钥管理.
+* [Vault](https://www.vaultproject.io/) - API driven secret key management.
 * [Doppler](https://doppler.com/) - 跨项目的环境变量管理，在一个地方.
 * [1Password Secrets Automation](https://1password.com/secrets/) - 与 1Password 集成的秘密管理.
 * [Envkey](https://www.envkey.com/) - 具有所有应用程序同步机制的环境管理.
