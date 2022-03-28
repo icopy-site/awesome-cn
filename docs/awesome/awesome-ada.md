@@ -131,7 +131,7 @@
 ## Community
 
 #### Questions and Answers
-- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - 有 Usenet 新闻组/论坛.
+- [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - 有Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - 艾达和 Reddit.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 踢 Reddit.
@@ -209,11 +209,12 @@
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - 维护 Ada Bundle：Vim/NeoVim 的完整 Ada 模式.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - 对 Ada 的 TextMate 支持.
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - 对 Ada 的 BBEdit 支持.
+- [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - org-babel 的 Ada/SPARK 支持：使用 Gnu Emacs 和 org 文件评估源代码块.
 
 #### VSCode Extensions
 - [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada)  - 对 Ada 的语言支持. 这包括 [Language Server for Ada](https://github.com/AdaCore/ada_language_server).
 - [ada-vscode](https://github.com/Lucretia/ada-vscode) - Ada 和 GPR 的基本语法突出显示.
-- [ada-utilities](https://github.com/Lucretia/ada-utilities) - VSCode extension Ada programmers which provides a few utility functions.
+- [ada-utilities](https://github.com/Lucretia/ada-utilities) - 提供一些实用功能的 VSCode 扩展 Ada 程序员.
 
 ## Deployment
 
@@ -333,7 +334,7 @@
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.
 
 #### Logging
-- [alog](https://www.codelabs.ch/alog/) - Alog 是 Ada 的可堆叠日志框架.
+- [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
 
 #### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - 模糊机器学习框架.
@@ -437,7 +438,7 @@
 - [radalib](https://github.com/sergio-gomez/Radalib) - 用于分析复杂网络等的 Ada 库和工具.
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它旨在作为集成到其他工具（IDE、静态分析器等）的构建块.
+- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它是作为集成到其他工具（IDE、静态分析器等）的构建块.
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 扫描仪和解析器生成器.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken 是一个 LALR、LR1 和 Packrat 解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - 有一个代码分析器.

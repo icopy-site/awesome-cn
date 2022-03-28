@@ -396,7 +396,7 @@ or
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
-[Fullstack Open](https://fullstackopen.com/en/)  |  12 周 |  6 小时/周 | 编程
+[Fullstack Open](https://fullstackopen.com/en/)  |  12 周 |  15 小时/周 | 编程
 [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics)  |  26 周 |  2-5 小时/周 | 大一物理、线性代数、微积分、 [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)  |  30 周 |  2-5 小时/周 | 机器学习
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30 周 |  3-5 小时/周 | 没有
@@ -460,7 +460,7 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.
@@ -469,12 +469,12 @@ or
 每个标签的含义是：
 
 - `主要课程`：带有该标签的卡片代表我们课程中列出的课程.
-- “额外资源”：带有该标签的卡片代表学生添加的课程.
+- `Extra Resources`：带有该标签的卡片代表学生添加的课程.
 - `Doing`：带有该标签的卡片代表学生当前正在学习的课程.
 - `完成`：带有该标签的卡片代表学生完成的课程.
 这些卡片还应该包含至少一个项目/文章的链接，这些项目/文章是利用在此类课程中获得的知识构建的.
 - `Section`：带有该标签的卡片代表我们课程中的部分.
-那些带有“Section”标签的卡片只是为了帮助组织完成列.
+那些带有“Section”标签的卡片只是为了帮助完成列的组织.
 您应该将 *Course&#39;s cards* 放在其各自的 *Section&#39;s card* 下方.
 
 该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们的进步的能力.

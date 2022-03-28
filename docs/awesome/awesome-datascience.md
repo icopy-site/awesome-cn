@@ -17,7 +17,7 @@
 
  | 链接 | 预览 |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者解决定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快在计算机科学课程中被教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
@@ -187,7 +187,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础知识；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
 
 
 ## Toolboxes - Environment
@@ -258,7 +258,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，将 Pandas 库的功能扩展到 AWS，连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
 | [Amazon Textract](https://aws.amazon.com/textract/)  | 自动从任何文档中提取打印文本、笔迹和数据.  |
-| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检测.识别缺失的产品组件、车辆和结构损坏以及违规行为以进行全面质量控制.|
+| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查.识别缺失的产品组件、车辆和结构损坏以及违规行为以进行全面的质量控制.|
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
@@ -416,6 +416,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) - 遗传算法相关的关于数据科学的出版物
+- [all AI news](https://allainews.com/) - AI/ML/大数据新闻聚合平台
 
 ## Presentations
 

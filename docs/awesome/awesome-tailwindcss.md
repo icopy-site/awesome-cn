@@ -219,7 +219,7 @@
 - [clb](https://github.com/crswll/clb) - clb（类列表生成器）是一个实用函数，它基于 [Stitches](https://stitches.dev/) 像 API.
 - [Inspect Flow](https://inspectflow.io) - Tailwind CSS 的完整开发人员工具.
 - [twined-components](https://github.com/lowfront/twined-components) - 样式化组件的扩展组件，它优先考虑在 Tailwind CSS 中使用的类名.
-- [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
+- [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
 - [Maizzle](https://maizzle.com/) - 使用 Tailwind CSS 进行快速电子邮件原型设计的框架.
@@ -288,7 +288,7 @@
 - [Material Tailwind Kit React](https://www.creative-tim.com/product/material-tailwind-kit-react) - 免费的 Tailwind CSS 和 React UI 工具包.
 - [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - 免费的 Tailwind CSS 和 React 管理模板.
 - [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - 免费的 Vue.js 3 Tailwind CSS 管理模板，支持 Vite 和 Vue CLI.
-- [Cruip](https://cruip.com/) - Beautifully designed HTML, React, and Vue.js templates.
+- [Cruip](https://cruip.com/) - 设计精美的 HTML、React 和 Vue.js 模板.
 
 ## Starters & Themes
 
@@ -347,6 +347,7 @@
 - [Misiki Books](https://github.com/itswadesh/misiki-books) - 使用 Vue + Moltin + Tailwind CSS 的书店.
 - [Ubuntu 20.04](https://github.com/vivek9patel/vivek9patel.github.io) - 使用 React.js + Tailwind CSS 的 Ubuntu 桌面.
 - [Angular Spotify](https://github.com/trungk18/angular-spotify) - 使用 Angular、Nx Workspace 和 Tailwind CSS 构建的 Spotify 客户端.
+- [GitProfile](https://github.com/arifszn/gitprofile) - 基于 GitHub 配置文件的自动投资组合构建器，使用 React.js 和 Tailwind CSS 构建.
 
 ## Learning
 
@@ -361,7 +362,7 @@
 - [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - 如何使用 Jest 测试 Tailwind CSS 插件.
 - [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - 如何使用 PostCSS 和 Webpack 设置 Tailwind CSS.
 - [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - 如何在 CSS-in-JS 中使用 Tailwind CSS.
-- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - 如何在 Laravel 项目中设置 Tailwind CSS.
+- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
 - [Tailwind CSS with Ember](https://github.com/raytiley/tailwind-ember-example) - 如何将 Tailwind CSS 添加到 Ember 应用程序.
 - [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - 如何在 Sage 中设置 Tailwind CSS.
 - [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
@@ -372,7 +373,7 @@
 - [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - 使用 Tailwind CSS 重建 Coinbase [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
 - [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) - 使用 Tailwind CSS 重建 Twitter [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].
 - [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - 使用 Tailwind CSS 重建 YouTube.
-- [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - Rebuilding Netlify with Tailwind CSS.
+- [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - 使用 Tailwind CSS 重建 Netlify.
 - [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - 使用 Tailwind CSS 重建 Resolute.
 - [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - 使用 Tailwind CSS 构建电影制作登陆页面.
 - [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - 使用 Tailwind CSS 构建响应式导航栏.
