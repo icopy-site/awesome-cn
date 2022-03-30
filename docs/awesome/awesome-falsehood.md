@@ -17,19 +17,15 @@
 
 *虚假*是您最初认为是正确的**想法*，但在现实中它被**证明是错误的**.
 
-例如 *idea*：有效的电子邮件地址正好有一个 `@` 字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的\！  *现实*是：电子邮件可以有多个 `@` 字符. 因此，您的实现应该允许这样做. 最初的 *idea* 是您所相信的谎言.
+例如 *idea*：有效的电子邮件地址正好有一个 `@` 字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 正确的？ 错误的！  *现实*是：电子邮件可以有多个 `@` 字符. 因此，您的实现应该允许这样做. 最初的 *idea* 是您所相信的谎言.
 
 下面列出的 *falsehood* 文章将全面列出您应该注意的那些错误信念，以帮助您成为更好的程序员.
 
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- mdformat-toc end -->
 
 ## Meta
 
@@ -61,7 +57,7 @@
 - [More Falsehoods about Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)  - 部分.  2 上面的文章.
 - [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - 另一个采用与时间相关的谎言，强调时区.
 - [Critique of Falsehoods about Time](https://gist.github.com/thanatos/eee17100476a336a711e) - 承接上面的第一篇文章，并提供了对每个谎言的解释，以及更多的背景和外部资源.
-- [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 注意闰秒\！
+- [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 注意闰秒！
 - [Falsehoods about Time Zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/) - 关于 DST 转换的边缘情况有一些很好的观点.
 - [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - 涵盖嵌入和文化影响的列表，由 iOS 和 macOS 开发人员社区制作.
 - [Time Zone Database](https://www.iana.org/time-zones) - 代表全球许多代表性地点的当地时间历史的代码和数据.
@@ -69,7 +65,7 @@
 - [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你为什么.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区听起来可能是个好主意，但有很多复杂情况使其并非如此.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 如果你能提供帮助，一个关于为什么你永远不应该处理时区的视频.
-- [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历会计的后果.
+- [\$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历会计的后果.
 - [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的巨大格式列表、它们如何重叠以及实时示例.
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 关于日期和时间（特别是 UTC）有一些你可能没有想到的极端情况.
@@ -92,23 +88,23 @@
 ## Geography
 
 - [Falsehoods about Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - 采用地点、名称和位置.
-- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
+- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - 地理空间从业人员关于诊断和修复坐标系常见问题的指南.
 - [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “有一组特殊的汉字，即使是日本人也很难阅读：地名.”
 
 ## Human Identity
 
-- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - 开始这一切的文章.
+- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - The article that started it all.
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上述文章的重新审视版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能真正定义一个有严格规则的家庭.
-- 关于性别的谎言： [\#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [\#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
+- 关于性别的谎言： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
 - [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - 姓名与性别和国际化的交叉问题.
 - [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 如何将婚姻存储在数据库中，同时解决关于性别、命名和关系的大部分谎言.
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 世界各地人们的名字有何不同，对 Web 有何影响？
-- [XKCD \#327: Exploits of a Mom](https://xkcd.com/327/) - 关于虚假的实施如何导致安全漏洞的有趣看法.
+- [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - 关于虚假的实施如何导致安全漏洞的有趣看法.
 - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - 现实生活中的例子，说明虚假如何对某人的生活产生负面影响.
-- [My name causes an issue with any booking\!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将“MR”后缀视为“先生”并将其删除.
+- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将“MR”后缀视为“先生”并将其删除.
 - [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - 用于表示人名的灵活数据模型.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - 人名组成部分的本地化表示.
 
@@ -121,7 +117,7 @@
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 有关在国际化代码时需要记住的事项的视频.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 很好地介绍了 unicode、它的历史背景和起源，然后概述了它的内部工作.
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - 令人愉快的 Unicode 花絮、包和资源的精选列表.
-- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
+- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode 很广泛，这里是龙.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - 深入了解 Unicode 并消除关于代码点的神话.
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员在 `Latin-1` 上花费了太多时间，他们忘记了其他脚本的怪癖.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很难，当数据输入的每个损坏层添加自己的香料时更是如此.
@@ -147,7 +143,7 @@
 ## Phone Numbers
 
 - [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 涵盖电话号码、它们的表示和含义.
-- [`libphonenumber`](https://github.com/googlei18n/libphonenumber)  - Google 的通用 Java、C++ 和 JavaScript 库，用于解析、格式化和验证国际电话号码. 也可用于 [C\#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
+- [`libphonenumber`](https://github.com/googlei18n/libphonenumber)  - Google 的通用 Java、C++ 和 JavaScript 库，用于解析、格式化和验证国际电话号码. 也可用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 ## Postal Addresses
 
@@ -187,7 +183,7 @@
 - [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - 文件系统和操作系统的多样性使文件路径比我们想象的要难一些.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 对缓存的误解通常会导致错误的断言，尤其是在并发和竞争条件方面.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 关于 `/dev/urandom` 和 `/dev/random` 有一些事情会一次又一次地重复. 他们仍然是错误的.
-- [Hi\! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个谈话可以被命名为“关于用户名（和其他标识符）的谎言”.
+- [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个谈话可以被命名为“关于用户名（和其他标识符）的谎言”.
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*per-se*，但仍然是实现自动完成的良好实践的一个很好的列表.
 - [Floating Point Math](https://0.30000000000000004.com) - “你的语言没有坏，它在做浮点数学运算.（……）这就是为什么，&#39;0.1 + 0.2 != 0.3&#39;.”
@@ -205,7 +201,7 @@
 
 ## Contributing
 
-随时欢迎您的贡献\！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
 
 ## Footnotes
 

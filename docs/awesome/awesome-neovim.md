@@ -236,7 +236,7 @@ Neovim 支持多种 UI.
 - [bkegley/gloombuddy](https://github.com/bkegley/gloombuddy) - Neovim 的 Gloom 主题.
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Neovim 的 Atom One 启发了深色和浅色配色方案.
 - [PHSix/nvim-hybrid](https://github.com/PHSix/nvim-hybrid) - 用 Lua 编写的 Neovim 配色方案.
-- [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - 一个 spacemacs 启发了 Neovim 的深色和浅色配色方案.
+- [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - 一个 spacemacs 为 Neovim 启发了深色和浅色配色方案.
 - [yonlu/omni.vim](https://github.com/yonlu/omni.vim) - Vim 的 Omni 配色方案.
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 支持 Tree-sitter 和 LSP 的 24 位深色主题.
 - [novakne/kosmikoa.nvim](https://github.com/novakne/kosmikoa.nvim) - Neovim 的配色方案.
@@ -261,7 +261,7 @@ Neovim 支持多种 UI.
 - [nxvu699134/vn-night.nvim](https://github.com/nxvu699134/vn-night.nvim)  - 用 Lua 编写的深色 Neovim 配色方案. 支持内置 LSP 和 Tree-sitter.
 - [adisen99/codeschool.nvim](https://github.com/adisen99/codeschool.nvim) - 用 Lua 编写的 Neovim 的 Codeschool 配色方案，具有 Tree-sitter 和内置 lsp 支持.
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - A GitHub theme for Neovim, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
-- [kdheepak/monochrome.nvim](https://github.com/kdheepak/monochrome.nvim) - 一个 16 位单色配色方案，它使用 hsluv 感知不同的灰色，支持 Tree-sitter 和其他常用插件.
+- [kdheepak/monochrome.nvim](https://github.com/kdheepak/monochrome.nvim) - 一个 16 位单色配色方案，它使用 hsluv 来感知不同的灰色，支持 Tree-sitter 和其他常用插件.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - 全天然松木、人造毛皮和一点苏荷区风格，适合优雅的极简主义者.
 - [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - vim/neovim 配色方案的集合，旨在使用对比和字体变化来突出显示代码.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim)  - 温暖的中色调深色主题，展现你充满活力的自我！ 支持原生 LSP、Tree-sitter 等！
@@ -424,7 +424,7 @@ Neovim 支持多种 UI.
 ### File explorer
 
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - Neovim 的简单快速的文件浏览器树！
-- [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) - 文件资源管理器由 [nnn](https://github.com/jarun/nnn) 和卢亚.
+- [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) - 文件资源管理器由 [nnn](https://github.com/jarun/nnn) 和卢阿.
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) - 简单的文件浏览器.
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) - 用 Lua 编写的 Neovim 文件管理器.
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - Neovim 的简单而惊人的文件浏览器.
@@ -639,6 +639,8 @@ Neovim 支持多种 UI.
 - [shaeinst/roshnivim](https://github.com/shaeinst/roshnivim) - Roshnivim，可以称为neovim 的发行版，是一个预定义的配置，因此您不需要1000 小时来将neovim 设置为IDE.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim 是一个美观且功能丰富的 Neovim 配置，可扩展且易于使用一组出色的插件.
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim)  - 用 Fennel 编写的超快、可配置、最小和 lispy 的 neovim 配置. 基础配置供用户扩展和添加，带来更独特的编辑体验.
+- [jrychn/moduleVim](https://github.com/jrychn/ModuleVim) - 一个非常容易使用
+  对于后端和前端，自动安装 lsp.
 
 ### Keybinding
 

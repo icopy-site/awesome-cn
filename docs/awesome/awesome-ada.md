@@ -180,7 +180,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -524,7 +524,7 @@
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
-- [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
+- [ssprep](https://github.com/persan/ssprep.git) - 一个类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，可在 Ada 程序中输出到控制台.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，可从文件夹层次结构中选择文件，概率与其大小成正比.
@@ -613,7 +613,7 @@
 #### Multimedia
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - 阿波罗 11 号登月模拟器（[gtkada]/Cairo）.
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - 一个简单的 3DS Max 模型渲染器.
-
+- [canta](https://sourceforge.net/projects/canta/) - 帮助唱歌的工具.
 #### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - G 代码解析器和 CNC 控制器（在 Ada 中）.
 

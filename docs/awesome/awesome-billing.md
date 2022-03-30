@@ -13,14 +13,10 @@
 <p>这<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
 
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- mdformat-toc end -->
 
 ## Basics
 
@@ -58,7 +54,7 @@
 
 ### Usage-based Pricing
 
-云资源的默认动态方案.
+弹性资源的动态方案.
 
 - [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商为每个人的最大利益行事.” 还详细说明了其他定价模型的问题.
 
@@ -79,6 +75,8 @@
 - [“Designing billing for a service can be really challenging”](https://news.ycombinator.com/item?id=23536919) - 关于 AWS 简单电子邮件服务定价计划设计的个人轶事.
 
 - [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - 基于使用的定价更加优化和公平：它“允许客户以低成本开始，最大限度地减少开始时的摩擦，同时仍然保留随着时间的推移通过客户获利的能力”.
+
+- [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform&part=691)  - 在云之前，还有另一种按使用量定价的计量资源：电力. 这是国际电工委员会对其词汇量的详细（和多语言）分类.
 
 ### Subscription Plans
 
@@ -114,7 +112,7 @@
 
 - [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542)  - “在保险中，价格就是产品.  （……）我如何改变价格来赚大钱？” 或者如何交付结果（为客户提供最优价格）而不是交付数据（计算客户的风险，这是以前精算师使用的标准方法）.
 
-- [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor–Granger_method)  - 用于调查以确定新产品或服务的价格. 结果可用于生成需求图表和收入曲线.
+- [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method)  - 用于调查以确定新产品或服务的价格. 结果可用于生成需求图表和收入曲线.
 
 - [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter)  - PSM 是一种确定消费者价格偏好的市场技术. 允许绘制收入曲线以估计提供最大收入的价格点.
 
@@ -136,7 +134,7 @@
 
 - [OpenPIM](https://www.openpim.org) - 一个精简的开源项目，专注于 PIM-only 功能.
 
-- [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - 上述三个项目的比较研究.
+- [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - Comparative study of the 3 projects above.
 
 ## Calculator
 
@@ -156,9 +154,9 @@
 
 - [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) - 讨论 Uber 如何在其财务规划平台中应用数据科学和机器学习.
 
-- [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/)), seems to be worth checking to implement a cost forecast tool while taking care of seasonality.
+- [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪一个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/))，似乎值得检查以在考虑季节性的同时实施成本预测工具.
 
-- [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) 上面提到的.
+- [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb)  - 关于如何使用过去数据进行时间前向预测的教程. 并阅读 [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) 上面提到的.
 
 - [Komiser](https://github.com/mlabouardy/komiser) - 开源工具，通过发现隐藏成本、监控支出增长以及根据自定义建议进行有影响力的更改来保持在预算范围内.
 
@@ -176,7 +174,7 @@
 
 - [Papers we love: Auctions and Bidding](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - 关于投标和拍卖的论文集.
 
-- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - 由一个暗示 [HN comment](https://news.ycombinator.com/item?id=19145391) ，其中是的，“&#39;询问人们他们愿意支付什么费用以及有多少很少奏效.&#39;  （……）\[但\]使用类似于谷歌的广告拍卖机制的 Vickrey 拍卖，可以激发一个人的最大支付意愿.”
+- [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - 由一个暗示 [HN comment](https://news.ycombinator.com/item?id=19145391) ，其中是的，“&#39;询问人们他们愿意支付什么费用以及有多少很少奏效.&#39;  （……）\[但\]使用类似于谷歌的广告拍卖机制的 Vickrey 拍卖可以激发一个人的最大支付意愿.”
 
 - [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)  - “哪个先出现，供给还是需求？ 鸡肉还是鸡蛋？”
 
@@ -190,7 +188,7 @@
 
 - [Pricing of Service in Clouds: Optimal Response and Strategic Interactions](http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf)  - “消费者应如何调节其需求以优化其利润？  （……）供应商和消费者应如何协商他们将采用的具体定价结构？” 涵盖非线性模型、分层定价、弹性需求、消费者和供应商策略.
 
-- [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf)  - “亚马逊的现货价格不太可能根据市场供求情况而定. 相反，价格大部分时间都在一个非常窄的区间内波动，这更有可能是某些定价算法的产物，具有预定的底价.”
+- [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf) - “Amazon's spot price is unlikely to be set according to market supply and demand. Rather, price oscillates within a very narrow band most of the time, which is more likely to be an artifact of some pricing algorithm with predetermined reserve price.”
 
 - [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf)  - “我们研究了云计算中的供需经济学.  （……）这些结果解释了为什么目前固定价格占主导地位，尽管似乎需要时变动态. 检查实际的 CPU 利用率为未来提供了一个视角.  (...) 需求波动将与动态定价很重要的三个经典行业（酒店、电力、航空公司）相提并论，而动态价格对效率至关重要.”
 
@@ -202,13 +200,13 @@
 
 - [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一个应对这一挑战的云提供商，它允许客户竞标备用容量，并在竞标者的出价超过定期变化的现货价格时向他们提供资源.”
 
-- [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “谷歌的价格是固定的，而 AWS 使用的是市场模式”.
+- [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “Google's prices are fixed, whereas AWS uses a market model”.
 
  - “查看 3 个月的现货价格历史记录以估算成本并发现可用区和实例类型与额外容量的组合.”  ([source](https://news.ycombinator.com/item?id=16071684)) - 用户正在寻求现货市场的更多透明度.
 
 - [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html) - 当你足够大时 [creating an internal secondary market](https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5) 例如，具有经济意义.
 
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - 可轻松可靠地将（所有）现有 AutoScaling 组转换为更便宜的 Spot 实例的工具.
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances.
 
 ### Online Ads
 
@@ -230,7 +228,7 @@
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表的形式查看会计，然后这些变动如何在小公司的财务报表中实现.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中实现.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它增加了报告和实施细节.
 
@@ -240,7 +238,7 @@
 
 您需要了解的有关保持会计数据干净整洁的日常实践的所有信息.
 
-- [So, you want to learn Bookkeeping\!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护企业交易的日常操作.
+- [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护企业交易的日常操作.
 
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - 广泛的开源个人理财项目列表，这些项目可能非常适合寻找复式记账和簿记的灵感.
 
@@ -310,7 +308,7 @@
 
 - [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - 您必须为信用添加时间限制的原因：未使用的帐户作为我们资产负债表上的负债.
 
-- [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - 关于如何利用促销代码获得无限次免费乘车的警示故事.
+- [Hacking Scooters: How I Created \$100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - 关于如何利用促销代码获得无限次免费乘车的警示故事.
 
 - [China's Pinduoduo reports theft of online discount vouchers to police](https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - 下一级诈骗：“某网络集体利用平台漏洞‘盗取’数千万元优惠券”.
 
@@ -364,7 +362,7 @@
 
 - [Factur-X](https://github.com/akretion/factur-x) - Python 库支持法国和德国的电子发票标准.
 
-- [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
+- [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - 大多数发票软件都可以读取和写入 UBL 文档 (XML) 以进行数据传输.
 
 - [EU eInvoicing](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing) - 电子发票的欧洲标准.
 
@@ -408,7 +406,7 @@
 
 - [Strong Customer Authentication](https://stripe.com/guides/strong-customer-authentication) - [Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive) 2、解释.
 
-- [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - 检查客户帐单地址与信用卡关联的帐单地址是否匹配的系统.
+- [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - 一种检查客户帐单地址与信用卡相关帐单地址匹配的系统.
 
 - [pci-blackbox](https://github.com/trustly/pci-blackbox) - 基于 PostgreSQL 和 PL/pgSQL 的 PCI-DSS 兼容卡系统.
 
@@ -494,7 +492,7 @@
 
 - [More than 600 million users installed Android 'fleeceware' apps from the Play Store](https://www.zdnet.com/article/more-than-600-million-users-installed-android-fleeceware-apps-from-the-play-store/) - 一种新的欺诈行为，在试用期结束后，应用程序会默默地向用户收费.
 
-- [CEO Fraud](https://www.knowbe4.com/ceo-fraud) - 负责收取付款的计费团队是这种欺诈的牺牲品，其中 CEO 被冒充以赞扬特殊的付款交易.
+- [CEO Fraud](https://www.knowbe4.com/ceo-fraud) - 负责收取付款的计费团队是此类欺诈的牺牲品，其中 CEO 被冒充以赞扬特殊的付款交易.
 
 - [The Challenges of Operating a Computing Cloud and Charging for its Use](https://web.stanford.edu/class/cs349d/docs/theimer.pdf)  - 跳过 AWS VP 演示的前 90%（关于一般系统可靠性）. 最后四张幻灯片很好地总结了计费云服务的含义，尤其是使用软配额来限制欺诈.
 
@@ -606,11 +604,13 @@
 
 - [OpenCell](https://opencellsoft.com) - 源自开源电信计费项目的货币化平台.
 
-- [Laravel Spark](https://spark.laravel.com) - Package that provides scaffolding for all of the stuff you don't want to code: subscription and team billing, invoices, but also user accounts features.
+- [Laravel Spark](https://spark.laravel.com) - 为您不想编码的所有内容提供脚手架的软件包：订阅和团队计费、发票，还有用户帐户功能.
 
 - [Bullet Train](https://bullettrain.co) - 与上述相同，但适用于 Ruby on Rails.
 
 - [ASP.NET Zero](https://aspnetzero.com) - 多租户、身份验证和授权、发票和付款.
+
+- [Nextless JS](https://nextlessjs.com) - 使用 React 和无服务器在 Node.js 中构建 SaaS 产品所需的一切：身份验证和授权、发票和付款.
 
 - [Chargebee](https://www.chargebee.com) - 订阅计费和收入操作.
 
@@ -626,11 +626,11 @@
 
 - [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - 会计绘画是荷兰艺术的重要流派.
 
-- [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page \#445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
+- [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
 ## Contributing
 
-随时欢迎您的贡献\！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-billing/blob/master/.github/contributing.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-billing/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 
