@@ -20,7 +20,7 @@
 
 ## Manufacturers
 
-- [Velodyne](https://velodynelidar.com/)  - Velodyne 是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
+- [Velodyne](https://velodynelidar.com/) - Velodyne is a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
 - [Ouster](https://ouster.com/)  - 激光雷达制造商，专门从事数字旋转激光雷达.  Ouster 总部位于美国旧金山.
@@ -123,7 +123,7 @@
 ### Basic matching algorithms
 - [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - 特征匹配应用程序 (ICP) 的必备算法.
   - [GitHub repository :octocat:](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python 实现.
-  - [GitHub repository :octocat:](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
+  - [GitHub repository :octocat:](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher，一个实现 ICP 算法的模块化库.
   - [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher：比较真实数据集上的 ICP 变体.
 - [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - 最新的特征匹配 (NDT) 大规模并行方法.
 
@@ -152,7 +152,7 @@
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：激光雷达里程计和实时制图.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - 用于 ROS 兼容 UGV 的轻型和地面优化激光雷达里程计和测绘 (LeGO-LOAM) 系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 实时同步定位和映射 (SLAM).
+- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 的实时同步定位和映射 (SLAM).
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - 基于 LiDAR 的语义 SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
@@ -222,3 +222,6 @@
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 - [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - 用于导入多个库的重建结果的 Blender 插件.
+- [Foxglove](https://foxglove.dev/) - Foxglove Studio 是一个集成的机器人可视化和诊断工具，可在您的浏览器中使用，也可作为 Linux、Windows 和 macOS 上的桌面应用程序下载.
+  - [GitHub repository :octocat:](https://github.com/foxglove/studio)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)

@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-研究工具列表. 也可在 http://tools.kausalflow.com/tools/ 上找到.
+研究工具列表. 也可在 [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/).
 
 ## TOC
 
@@ -17,7 +17,7 @@
 
  &gt; 首先，每个人都应该知道版本控制系统，也就是 VCS.  VCS 帮助我们跟踪文档中的更改以及文档上的协作. 不用说，版本控制是科学家最有用的工具之一.
 
-* **去**
+* **走**
 * svn
 * 水银
 

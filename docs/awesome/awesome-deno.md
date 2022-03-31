@@ -64,17 +64,19 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 允许使用 MaxmindDB geoIP 数据库文件的库
 - [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
-- [yongo](https://github.com/yooneskh/yongo) - deno 中的 Mongoose api 子集（如填充）但不会完全复制 mongoose
+- [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 
 ### Editor framework
 
 - [Denops](https://github.com/vim-denops/denops.vim) - 使用 Deno 编写 Vim/Neovim 插件的生态系统.
 
 ### Frontend development
-- [postcss](https://github.com/postcss/postcss-deno) - A tool for transforming styles with JS plugins.
+- [postcss](https://github.com/postcss/postcss-deno) - 使用 JS 插件转换样式的工具.
 
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - Deno 中的 React 框架，灵感来自 [Next.js](https://nextjs.org).
+- [fresh](https://github.com/lucacasonato/fresh)  - Preact，但超级前卫. 下一代网络框架.
+- [ultra](https://github.com/exhibitionist-digital/ultra) - Deno 中的现代流式反应框架.
 
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - JavaScript 中的图像处理，利用 WebAssembly 来提高性能.
@@ -137,7 +139,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - 帮助生成随机间隔.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
 - [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
-- [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
+- [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [ensure](https://github.com/eankeen/ensure) - 确保您运行的是 Deno、Typescript 或 V8 的最低版本.
 - [evt](https://github.com/garronej/evt) - 键入 EventEmitter 的安全替换.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - 所有 javascript 平台的模式验证器 
@@ -154,10 +156,19 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - 在 Deno 中递归读取目录.
 - [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是工作.
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
+- [tryify](https://github.com/twilsoft/tryify)  - 函数式错误处理； 永远不要再次抛出/尝试/捕捉/最终.
 - [type-fest](https://github.com/denoserverless/type-fest) - 基本 TypeScript 类型的集合（sindresorhus/type-fest 的端口）.
-- [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 加密和解密 gzip.
+- [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 执行 gzip 操作.
 - [watch](https://github.com/jinjor/deno-watch) - 文件观察者.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - 使用 wu（O（NP））算法计算两个切片之间差异的差异库.
+
+### Validation
+
+- [zod](https://github.com/colinhacks/zod) - 带有静态类型推断的 TypeScript 优先模式验证.
+
+### Video
+
+- [Fast Forward](https://github.com/c4spar/deno-fast-forward) - 一个易于使用的 Deno ffmpeg 模块.
 
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - 一个更好的 Deno 框架来创建 Web 应用程序.
@@ -169,7 +180,6 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra 喜欢用于 deno 的轻量级 Web 应用程序框架.
 - [doa](https://github.com/johannlai/doa)  - Deno 的 http 服务的中间件框架. 用 ❤️ 从 Koa 移植
 - [drash](https://github.com/drashland/deno-drash) - Deno 的 HTTP 服务器的 REST 微框架，具有零依赖性.
-- [dragon](https://github.com/xanny-projects/dragon) - ⚡一个强大的 HTTP 路由器和 URL 匹配器，用于使用 Dragon 构建 Deno Web 服务器.
 - [faster](https://github.com/hviana/faster) - 具有一组有用的中间件的快速且优化的中间件服务器.
 - [microraptor](https://github.com/matteocrippa/microraptor) - 轻量级框架，可通过验证轻松实现网络路由.
 - [oak](https://github.com/oakserver/oak) - Deno 网络服务器的中间件框架.
@@ -231,9 +241,8 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [commands](https://github.com/buttercubz/commands) - 为 node js 和 deno 创建命令快捷方式
 - [clone](https://github.com/ekaragodin/clone) - 方便克隆的简单实用程序.
 - [decense](https://github.com/vinliao/decense) - 使用一个 `deno run` 命令生成许可证.
-- [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
-- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流，使用任何 Deno 模块、Typescript/Javascript 代码
-- [denoget](https://github.com/syumai/denoget) - Denoget 安装可执行的 Deno 脚本.
+- [dedep](https://github.com/egoist/dedep) - 管理依赖版本.
+- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流程，使用任何 Deno 模块、Typescript/Javascript 代码
 - [denoify](https://github.com/garronej/denoify) - 对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.
@@ -248,6 +257,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展利用 vscode 中内置的 typedef 和 intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) - 让 TypeScript 文件直接在 script 标签中使用.
 - [dmm](https://github.com/drashland/dmm) - 轻量级 Deno 模块管理器
+- [dnt](https://github.com/denoland/dnt) - Deno 到 npm 包构建工具.
 - [dpm](https://github.com/BoltDoggy/deno#dpm)  - Deno 包管理器，为 deno 安装全局命令. 像 denoget.
 - dvm
   - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno 版本管理器：管理多个活动的 Deno 版本.
@@ -322,6 +332,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 - [Matías Insaurralde - Deno：V8 互操作性的实验方法 [英文字幕] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
+
 ## Resources in Other Languages
 
 ### Chinese
@@ -334,6 +345,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
 - [Deno 中文开发者社区](https://deno.js.cn)
+- [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
 ### Hebrew
 

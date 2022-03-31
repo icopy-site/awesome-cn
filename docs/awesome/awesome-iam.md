@@ -81,7 +81,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 ## Cryptography
 
-The whole authentication stack is based on cryptography primitives. This can't be overlooked.
+整个身份验证堆栈基于密码学原语. 这是不容忽视的.
 
 - [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)  - 为非密码学工程师的开发人员提供一组最新的建议. 甚至还有一个 [shorter summary](https://news.ycombinator.com/item?id=16749140) 可用的.
 
@@ -159,7 +159,7 @@ The whole authentication stack is based on cryptography primitives. This can't b
 
 - [YubiKey Guide](https://github.com/drduh/YubiKey-Guide)  - 使用 YubiKey 作为 SmartCard 存储 GPG 加密、签名和身份验证密钥的指南，也可用于 SSH. 本文档中的许多原则适用于其他智能卡设备.
 
-- [YubiKey at Datadog](https://github.com/DataDog/yubikey) - Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust.
+- [YubiKey at Datadog](https://github.com/DataDog/yubikey) - 设置 Yubikey、U2F、GPG、git、SSH、Keybase、VMware Fusion 和 Docker Content Trust 的指南.
 
 ### Multi-Factor
 
@@ -273,7 +273,7 @@ The whole authentication stack is based on cryptography primitives. This can't b
 
 - [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)  - “他们这样做是为了提供消息级别的完整性.  OAuth 2 切换到传输级机密性/完整性.”  （由 TLS 提供）（[source](https://news.ycombinator.com/item?id=17486165)).
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以纳入自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以纳入自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的相关新威胁”.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
@@ -285,7 +285,7 @@ The whole authentication stack is based on cryptography primitives. This can't b
 
 - [Keycloak](https://www.keycloak.org)  - 开源身份和访问管理. 支持 OIDC、OAuth 2 和 SAML 2、LDAP 和 AD 目录、密码策略.
 
-- [Casdoor](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+- [Casdoor](https://github.com/casbin/casdoor)  - 基于 UI 优先的集中式身份验证/单点登录 (SSO) 平台. 支持 OIDC 和 OAuth 2、社交登录、用户管理、基于电子邮件和 SMS 的 2FA.
 
 - [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - 适用于 ASP.NET Core 的免费、开源 OpenID Connect 和 OAuth 2.0 框架.
 
@@ -327,7 +327,7 @@ The whole authentication stack is based on cryptography primitives. This can't b
 
 - [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - 因为它需要在很多地方都需要的强制执行、决策架构上将业务逻辑与授权逻辑分开，以及建模以平衡权力和复杂性的多重权衡.
 
-- [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - 基于角色的简单授权模型是不够的，并且由于产品包装、数据本地化、企业组织和合规性而迅速变得复杂.
+- [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - 一个简单的基于角色的授权模型是不够的，并且由于产品包装、数据本地化、企业组织和合规性而迅速变得复杂.
 
 - [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)  - 我们如何从 DAC（unix 权限、秘密 URL）到 MAC（DRM、MFA、2FA、SELinux）再到 RBAC. 详细说明后者如何更好地对策略、ACL、用户和组进行建模.
 
@@ -354,6 +354,8 @@ The whole authentication stack is based on cryptography primitives. This can't b
 - [Casbin](https://github.com/casbin/casbin) - Golang 项目的开源访问控制库.
 
 - [Open Policy Agent](https://github.com/open-policy-agent) - 允许跨 SQL、Kubernetes、Terraform、Kafka、Envoy、S3（通过 Minio）、EC2/ECS/Lambda (Linux) 对您的策略进行端到端测试.
+
+- [Open Policy Administration Layer](https://github.com/permitio/opal)  - OPA 的开源管理层，实时检测策略和策略数据的更改，并将实时更新推送到 OPA 代理.  OPAL 将开放策略提高到实时应用程序所需的速度.
 
 - [Gubernator](https://github.com/mailgun/gubernator) - 高性能限速微服务和库.
 
@@ -407,7 +409,7 @@ The whole authentication stack is based on cryptography primitives. This can't b
 
 - [`gitleaks`](https://github.com/zricethezav/gitleaks) - 审计 git repos 的秘密.
 
-- [`truffleHog`](https://github.com/dxa4481/truffleHog) - 通过 git 存储库搜索高熵字符串和秘密，深入挖掘提交历史.
+- [`truffleHog`](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history.
 
 - [Keywhiz](https://square.github.io/keywhiz/) - 用于管理和分发机密的系统，可以很好地适应面向服务的架构 (SOA).
 
@@ -425,7 +427,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 - [Keystone](https://keystone-enclave.org) - 基于 RISC-V 架构的用于构建具有安全硬件飞地的可信执行环境 (TEE) 的开源项目.
 
-- [Project Oak](https://github.com/project-oak/oak) - 数据安全传输、存储和处理的规范和参考实现.
+- [Project Oak](https://github.com/project-oak/oak) - 用于安全传输、存储和处理数据的规范和参考实现.
 
 - [Everybody be cool, this is a robbery!](https://www.sstic.org/2019/presentation/hsm/) - HSM 的漏洞和可利用性案例研究（法语，抱歉）.
 
@@ -447,7 +449,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 ### User Identity
 
-大多数企业不会收集客户的身份来创建用户配置文件以出售给第三方，不. 但您仍然必须：当地法律要求跟踪大合同下的合同关系 [Know You Customer (KYC)](https://en.wikipedia.org/wiki/Know_your_customer) 横幅.
+Most businesses do not collect customer's identity to create user profiles to sell to third party, no. But you still have to: local laws require to keep track of contract relationships under the large [Know You Customer (KYC)](https://en.wikipedia.org/wiki/Know_your_customer) 横幅.
 
 - [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 本文是否针对身份元系统，它的定律仍然在较小的范围内提供了很好的见解，尤其是第一定律：始终允许用户控制并征求同意以赢得信任.
 
@@ -505,7 +507,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 - [SecLists](https://github.com/danielmiessler/SecLists)  - 收集在安全评估期间使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、模糊测试负载、Web Shell 等等.
 
-- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - 网络钓鱼工具包中威胁参与者使用的电子邮件地址的 CSV 数据库.
+- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
 
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)  - 仅使用免费资源扫描电话号码的工具. 目标是首先非常准确地收集任何国际电话号码上的标准信息，例如国家、地区、运营商和线路类型. 然后在搜索引擎上搜索足迹以尝试找到 VoIP 提供商或识别所有者.
 
@@ -565,7 +567,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 - [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361)  - 一次性和临时电子邮件地址的域列表. 用于过滤您的电子邮件列表以提高打开率（向这些域发送电子邮件可能不会被打开）.
 
-- [`gman`](https://github.com/benbalter/gman)  - “一个红宝石，用于检查给定电子邮件地址或网站的所有者是否为 THE MAN 工作（又名验证政府域）.” 在您的用户群中寻找潜在政府客户的好资源.
+- [`gman`](https://github.com/benbalter/gman) - “A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).” Good resource to hunt for potential government customers in your user base.
 
 - [`Swot`](https://github.com/leereilly/swot) - 本着与上述相同的精神，但这次是标记学术用户.
 
@@ -613,7 +615,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 - [Presidio](https://github.com/microsoft/presidio) - 文本和图像的上下文感知、可插拔和可定制的数据保护和 PII 数据匿名化服务.
 
-- [Diffix: High-Utility Database Anonymization](https://aircloak.com/wp-content/uploads/apf17-reprint.pdf) - Diffix try to provide anonymization, avoid pseudonymization and preserve data quality. [Written in Elixir at Aircloak](https://elixirforum.com/t/aircloak-anonymized-analitycs/10930)，它充当分析师和未修改的实时数据库之间的 SQL 代理.
+- [Diffix: High-Utility Database Anonymization](https://aircloak.com/wp-content/uploads/apf17-reprint.pdf) - Diffix 尝试提供匿名化，避免假名化并保持数据质量. [Written in Elixir at Aircloak](https://elixirforum.com/t/aircloak-anonymized-analitycs/10930)，它充当分析师和未修改的实时数据库之间的 SQL 代理.
 
 ### GDPR
 
@@ -627,7 +629,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 - [GDPR Tracker](https://gdprtracker.io) - 跟踪云服务和子处理器的 GDPR 合规性.
 
-- [GDPR documents](https://github.com/good-lly/gdpr-documents) - Templates for personal use to have companies comply with "Data Access" requests.
+- [GDPR documents](https://github.com/good-lly/gdpr-documents) - 个人使用的模板，让公司遵守“数据访问”请求.
 
 - [Dark Patterns after the GDPR](https://arxiv.org/pdf/2001.02479.pdf) - 本文表明，由于缺乏 GDPR 执法，黑暗模式和默示同意无处不在.
 

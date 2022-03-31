@@ -87,7 +87,7 @@
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署而不关心基础设施，适用于所有主要框架.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用.
 * [Fly.io](https://fly.io/) - 通过位置感知服务（减少延迟）部署 dockerized 全栈应用程序.
-* [Railway](https://railway.app/) - 开箱即用的 git 部署与自动缩放、数据库、机密和回滚.
+* [Railway](https://railway.app/) - 开箱即用的 git 部署自动缩放、数据库、机密和回滚.
 
 ## Discussions
 *评论和论坛.*
@@ -106,7 +106,7 @@
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*
-* [Vault](https://www.vaultproject.io/) - API driven secret key management.
+* [Vault](https://www.vaultproject.io/) - API 驱动的密钥管理.
 * [Doppler](https://doppler.com/) - 跨项目的环境变量管理，在一个地方.
 * [1Password Secrets Automation](https://1password.com/secrets/) - 与 1Password 集成的秘密管理.
 * [Envkey](https://www.envkey.com/) - 具有所有应用程序同步机制的环境管理.
@@ -129,6 +129,11 @@
 * [Codota](https://www.codota.com/) - 为您的 IDE 完成 AI 代码.
     * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
 * [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
+
+## Infrastructure as Code
+*声明您的基础设施并从中可重复地提供云基础设施.*
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+* [Pulumi](https://www.pulumi.com/) - 使用 Python、TypeScript、Go 和更多语言的开发人员优先 IaC...
 
 ## Integrations
 *简化集成开发的集成管理系统或产品*

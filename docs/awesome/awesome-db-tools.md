@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Database Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Community driven list of database tools
+&gt; 社区驱动的数据库工具列表
 
 在这里，我们将收集有关为 DBA、DevOps、开发人员和普通人简化数据库工作的非常有用和令人敬畏的实验工具的信息.
 
@@ -18,7 +18,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库管理器和 SQL 客户端.
-- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - 用于 MySQL 和 MariaDB 数据库开发、管理和管理的通用 IDE.
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - 用于 Oracle 管理、管理和开发的强大 IDE.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - 用于管理和开发数据库和对象的 GUI 工具.
 - [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - 用于 SQL Server 开发、管理、管理、数据分析和报告的强大集成开发环境.
@@ -43,7 +43,7 @@
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
 - [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
-- [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
+- [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [HouseOps](https://github.com/HouseOps/HouseOps) - 企业 ClickHouse Ops UI 可让您运行查询、监控 ClickHouse 运行状况并让许多其他人思考.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
@@ -126,31 +126,40 @@
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
 
 
-## Wrappers
+## API
+为您的数据构建 API
+- [Datasette](https://github.com/simonw/datasette) - 探索和发布数据的工具.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - 用于移动、Web 和 IoT 应用程序的开源 REST API 后端.
-- [FBSQL Frontend Backend SQL](https://github.com/fbsql/fbsql) - 在 HTML 中使用您的后端数据库（安全）.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
-- [jl-sql](https://github.com/avz/jl-sql) - JSON 和 CSV 流的 SQL.
-- [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) - MySQL 的 PostgreSQL 外部数据包装器.
-- [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - 一个中间层 Java 应用程序，ORDS 将 HTTP(S) 动词（GET、POST、PUT、DELETE 等）映射到数据库事务并返回使用 JSON 格式化的任何结果.
+- [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 - [Prisma](https://github.com/prismagraphql/prisma) - Prisma 将您的数据库变成实时 GraphQL API.
 - [PostgREST](https://github.com/PostgREST/postgrest) - 任何 Postgres 数据库的 REST API.
 - [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
 - [restSQL](https://github.com/restsql/restsql) - 带有 Java 和 HTTP API 的 SQL 生成器，使用带有 XML 或 JSON 序列化的简单 RESTful HTTP API.
 - [resquel](https://github.com/formio/resquel) - 轻松将您的 SQL 数据库转换为 REST API.
-- [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码构建器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
 - [sandman2](https://github.com/jeffknupp/sandman2) - 为您的旧数据库自动生成 RESTful API 服务.
 
 
-## Backup/Cloning tools
-- [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Postgres 的即时精简克隆以扩展开发过程.
+## Application platforms
+用于应用程序构建的低代码和无代码平台
+- [Budibase](https://github.com/Budibase/budibase) - 用于在几分钟内创建内部应用程序的低代码平台.
+- [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码构建器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
+
+
+## Backup
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - PostgreSQL 的备份和恢复管理器.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - 可靠的 PostgreSQL 备份和恢复.
+- [pgcopydb](https://github.com/dimitri/pgcopydb) - 将 Postgres 数据库复制到目标 Postgres 服务器（pg_dump | pg_restore on steroids）.
+
+## Cloning
+- [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Postgres 的即时精简克隆以扩展开发过程.
+- [clone_schema](https://github.com/denishpatel/pg-clone-schema) - Postgres 克隆模式实用程序，无需离开数据库.
+- [Spawn](https://spawn.cc/)  - 用于为开发和 CI 创建即时数据库副本的云服务. 不再需要安装本地数据库、即时恢复到任意保存点、每个功能分支或测试的隔离副本. 无论数据库大小如何，都可以即时供应.
 
 
-## Replication/Data operation
-- [Datasette](https://github.com/simonw/datasette) - 探索和发布数据的工具.
+## Replication
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
+- [Litestream](https://github.com/benbjohnson/litestream) - SQLite 的流式复制.
 - [pgsync](https://github.com/ankane/pgsync) - 在数据库之间同步 Postgres 数据.
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像作为 JSONB 存储到 PostgreSQL 中.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - 使用 Postgres 逻辑解码功能通过 websocket 流式传输 Postgres 更改的 Golang 网络服务器至少一次.
@@ -244,7 +253,6 @@
 
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro 加快了发布周期并支持整个 IT 生态系统的敏捷性.
-- [Spawn](https://spawn.cc/)  - 用于为开发和 CI 创建即时数据库副本的云服务. 不再需要安装本地数据库、即时恢复到任意保存点、每个功能分支或测试的隔离副本. 无论数据库大小如何，都可以即时供应.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit 在您的 DevOps 工作流程中执行关键的数据库开发功能，而不会影响质量、性能或可靠性.
 
 
@@ -259,7 +267,7 @@
 
 ## Distributions
 - [DBdeployer](https://github.com/datacharmer/dbdeployer) - 轻松部署 MySQL 数据库服务器的工具.
-- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell 模块，您可能会将其视为命令行 SQL Server Management Studio.
+- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - 打包为标准 Mac 应用程序的全功能 PostgreSQL 安装.
 - [BigSQL](https://www.bigsql.org) - 对开发人员友好的 Postgres 发行版.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - 基于 Web 的 PostgreSQL 管理前端，它捆绑了多个与 PostgreSQL 一起使用的实用程序和应用程序.
@@ -289,7 +297,7 @@
 - [CodeBuff](https://github.com/antlr/codebuff) - 通过机器学习实现与语言无关的漂亮打印.
 - [pgFormatter](https://github.com/darold/pgFormatter) - 一个 PostgreSQL SQL 语法美化器.
 - [Poor SQL](https://poorsql.com) - 即时免费和开源的 T-SQL 格式. 
-- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - 用于漂亮打印 SQL 查询的 JavaScript 库.
 
 ### Parsers
 - [General SQL Parser](https://www.sqlparser.com) - SQL 的解析、格式化、修改和分析.
@@ -299,10 +307,13 @@
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - 用于 Python 的非验证 SQL 解析器.
 
 ### Über SQL
-针对各种数据库、结构化文本等运行 SQL 查询.
+对任何东西运行 SQL 查询
+- [CloudQuery](https://github.com/cloudquery/cloudquery) - 提取、转换和加载您的云资产到规范化的 PostgreSQL 表中.
 - [csvq](https://github.com/mithrandie/csvq) - 用于 CSV 的类似 SQL 的查询语言.
 - [dsq](https://github.com/multiprocessio/dsq) - 用于针对 JSON、CSV、Excel、Parquet 等运行 SQL 查询的命令行工具.
 - [OctoSQL](https://github.com/cube2222/octosql) - 查询工具，允许您使用 SQL 连接、分析和转换来自多个数据库和文件格式的数据.
+- [Resmo](https://www.resmo.com) - 使用 SQL 审计和评估资源.
+- [Steampipe](https://github.com/turbot/steampipe) - 使用 SQL 即时查询您的云服务（AWS、Azure、GCP 等）.
 - [TextQL](https://github.com/dinedal/textql) - 针对 CSV 或 TSV 等结构化文本执行 SQL.
 - [trdsql](https://github.com/noborus/trdsql) - 可以在 CSV、LTSV、JSON 和 TBLN 上执行 SQL 查询的 CLI 工具.
 

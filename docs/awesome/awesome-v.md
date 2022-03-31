@@ -85,7 +85,7 @@
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
 - [vargs](https://github.com/nedpals/vargs)  - V 库，用于从类似 argv 的数组中解析参数.  （存档）
-- [vesseract](https://github.com/barrack-obama/vesseract) - V wrapper for Tesseract-OCR (optical character recognition).
+- [vesseract](https://github.com/barrack-obama/vesseract) - 用于 Tesseract-OCR（光学字符识别）的 V 包装器.
 - [spinners](https://github.com/rhygg/spinners) - 在您的终端中创建微调器！
 
 ### Text processing
@@ -124,6 +124,7 @@
 - [pico.v](https://github.com/S-YOU/pico.v) - 基于 picoev 和 picohttpparser 的 V 中的 Web 服务器.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - 用于 vweb 的简约 Xbox Live 身份验证器.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API 包装器（用 V 编写）用于 [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [vigest](https://github.com/withs/vigest) - 用于摘要认证的简单客户端（用 V 编写）.
 
 ### Database clients
 
@@ -141,7 +142,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供本机 V-lang 支持.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供原生 V-lang 支持.
 
 ### Networking
 
@@ -190,7 +191,7 @@
 
 - [vsl](https://github.com/vlang/vsl) - 具有多种功能的纯 V 科学库.
 - [vtl](https://github.com/vlang/vtl) - 支持 n 维数据结构的数值计算库，由 LAPACKE 和 OpenBLAS 支持.
-- [vplot](https://github.com/erdetn/vplot) - GNU Plot 的 V 包装器（`gnuplot_i`）.
+- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 
 ### Utility
 
