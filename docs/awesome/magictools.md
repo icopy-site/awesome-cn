@@ -182,7 +182,7 @@ _一套游戏框架、引擎和平台_
 - ：自由： [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator，一款支持Cocos2d-js的免费跨平台游戏开发编辑器，帮助开发者快速高效地构建2D和3D游戏场景，编辑游戏UI等游戏资源.
 -： 然后： [Cocos2D](https://github.com/los-cocos/cocos) - 用于游戏和多媒体的图形库，用于 python 语言
 -： 然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++，但有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
-- ：有薪酬的： [Construct](https://www.scirra.com/)  - HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
+- ：钱袋子： [Construct](https://www.scirra.com/)  - HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
 - ：money_with_wings： [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体式 3D 游戏引擎.非常易于使用.
 -： 然后： [Coquette](http://coquette.maryrosecook.com/)  - JavaScript 游戏的微型框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
 -： 然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过其可视化工具、良好的文档和灵活的模块化库，使学习编程变得有趣和游戏开发变得容易.
@@ -293,7 +293,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供了构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有沉浸式 3D 效果和实时物理特性，打开了一个前所未有的非凡网络内容的全新世界.
 -： 然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅基于文本，还支持音乐、图像和声音效果. 基本文本冒险游戏所需的编码知识很少.
 - ：money_with_wings： [Unity 3D](http://unity3d.com/) - 用于创建 2D 和 3D 游戏和互动内容的开发引擎.
-- ：自由： [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games开发的全新游戏引擎技术.
+- ：money_with_wings： [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games开发的全新游戏引擎技术.
 -： 然后： [Urho3D](http://urho3d.github.io/) - 跨平台渲染和游戏引擎.
 -： 然后： [ursina](https://www.ursinaengine.org/) - 由 python 和 panda3d 驱动的游戏引擎.
 -： 然后： [Vassal](http://www.vassalengine.org/)  - Vassal 是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编版本. 在 Internet 上或通过电子邮件直播.  Vassal 在所有平台上运行，并且是免费的开源软件.

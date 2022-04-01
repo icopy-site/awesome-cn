@@ -10,6 +10,7 @@
 
 有关 `awesome-db-tools` 的更新以及有关数据库/工具/SQL 的想法/新闻，请关注我 [@GraminMaksim](https://twitter.com/GraminMaksim)
 
+  - [Replication](#replication) 
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
@@ -18,7 +19,7 @@
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库管理器和 SQL 客户端.
-- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - 用于 MySQL 和 MariaDB 数据库开发、管理和管理的通用 IDE.
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - 用于 Oracle 管理、管理和开发的强大 IDE.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - 用于管理和开发数据库和对象的 GUI 工具.
 - [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - 用于 SQL Server 开发、管理、管理、数据分析和报告的强大集成开发环境.
@@ -75,7 +76,7 @@
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - 连接到数据库以在 IPython 或 IPython Notebook 中发出 SQL 命令.
 - [iredis](https://github.com/laixintao/iredis) - 带有自动完成和语法突出显示的 Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - 用于 PostgreSQL 的顶级管理工具.
-- [pg_activity](https://github.com/julmon/pg_activity) - 用于 PostgreSQL 服务器活动监控的顶级应用程序.
+- [pg_activity](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
@@ -88,7 +89,7 @@
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - 具有自动完成和语法突出显示的 SQL Server 命令行客户端.
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的 MySQL 终端客户端.
 - [pgcli](https://github.com/dbcli/pgcli) - 具有自动完成和语法突出显示的 Postgres CLI.
-- [vcli](https://github.com/dbcli/vcli) - 具有自动完成和语法突出显示的 Vertica CLI.
+- [vcli](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 
 ## DB-schema navigation and visualization
@@ -157,15 +158,6 @@
 - [Spawn](https://spawn.cc/)  - 用于为开发和 CI 创建即时数据库副本的云服务. 不再需要安装本地数据库、即时恢复到任意保存点、每个功能分支或测试的隔离副本. 无论数据库大小如何，都可以即时供应.
 
 
-## Replication
-- [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
-- [Litestream](https://github.com/benbjohnson/litestream) - SQLite 的流式复制.
-- [pgsync](https://github.com/ankane/pgsync) - 在数据库之间同步 Postgres 数据.
-- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像作为 JSONB 存储到 PostgreSQL 中.
-- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - 使用 Postgres 逻辑解码功能通过 websocket 流式传输 Postgres 更改的 Golang 网络服务器至少一次.
-- [repmgr](https://github.com/2ndQuadrant/repmgr) - 最流行的 PostgreSQL 复制管理器.
-
-
 ## Scripts
 - [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
 - [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
@@ -221,7 +213,6 @@
 
 ## Administration
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
-- [pgbedrock](https://github.com/Squarespace/pgbedrock) - 管理 Postgres 集群的角色、角色成员、模式所有权和权限.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres 分区就像馅饼一样简单.
 
 
@@ -267,7 +258,7 @@
 
 ## Distributions
 - [DBdeployer](https://github.com/datacharmer/dbdeployer) - 轻松部署 MySQL 数据库服务器的工具.
-- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
+- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell 模块，您可能会将其视为命令行 SQL Server Management Studio.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - 打包为标准 Mac 应用程序的全功能 PostgreSQL 安装.
 - [BigSQL](https://www.bigsql.org) - 对开发人员友好的 Postgres 发行版.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - 基于 Web 的 PostgreSQL 管理前端，它捆绑了多个与 PostgreSQL 一起使用的实用程序和应用程序.
@@ -320,6 +311,18 @@
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL 语言服务器.
 - [sqls](https://github.com/lighttiger2505/sqls) - 用 Go 编写的 SQL 语言服务器.
+
+
+## Data
+- [dbt](https://github.com/dbt-labs/dbt-core) - 通过简单地编写 select 语句来转换您的数据，而 dbt 处理将这些语句转换为数据仓库中的表和视图.
+
+### Replication
+- [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
+- [Litestream](https://github.com/benbjohnson/litestream) - SQLite 的流式复制.
+- [pgsync](https://github.com/ankane/pgsync) - 在数据库之间同步 Postgres 数据.
+- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像作为 JSONB 存储到 PostgreSQL 中.
+- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - 使用 Postgres 逻辑解码功能通过 websocket 流式传输 Postgres 更改的 Golang 网络服务器至少一次.
+- [repmgr](https://github.com/2ndQuadrant/repmgr) - 最流行的 PostgreSQL 复制管理器.
 
 
 ## Papers

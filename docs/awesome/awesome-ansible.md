@@ -1,8 +1,8 @@
-<div class="github-widget" data-repo="KeyboardInterrupt/awesome-ansible"></div>
+<div class="github-widget" data-repo="ansible-community/awesome-ansible"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable double-link-->
-[<img src="https://raw.githubusercontent.com/KeyboardInterrupt/awesome-ansible/master/ansible_logo.svg?sanitize=true" align="right" width="90">](https://www.ansible.com/)
+[<img src="https://raw.githubusercontent.com/ansible-community/awesome-ansible/master/ansible_logo.svg?sanitize=true" align="right" width="90">](https://www.ansible.com/)
 
 &gt; 令人敬畏的 Ansible 资源、工具、角色、教程和其他相关内容的协作策划列表.
 
@@ -38,6 +38,7 @@
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - 关于如何安装和使用 Ansible 的教程.
 - [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) - Ansible 自动化平台培训课程.
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - DigitalOcean.com 上的基本教程.
+- [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - 基本 Ansible 教程.
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - 面向初学者的 Ansible 简介.
 
 ## Books
@@ -81,13 +82,13 @@
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - 使用 Ansible 剧本弯曲容器并将其转换为容器图像的工具.
 - [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 python 库，在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器映像接口、作为独立工具还是作为可以导入的 Python 模块.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/)  - 使用依赖于非默认依赖项的 Ansible 内容可能会很棘手. 软件包必须安装在每个节点上，与主机系统上安装的其他软件很好地配合，并保持同步.
-- [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible 工具集将所有 ansible 开发工具组合在一个容器中：ansible、a​​nsible-lint 和分子.
+- [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible Toolset combines all ansible development tools in a single container: ansible, ansible-lint and molecule.
 - [kics](https://github.com/Checkmarx/kics) - SAST 工具，可将您的 ansible 基础设施扫描为代码剧本，以发现安全漏洞、合规性问题和错误配置.
 
 
 ## Blog posts and opinions
 
-> Best practices and other opinions on Ansible.
+&gt; 关于 Ansible 的最佳实践和其他意见.
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - 最佳实践指南.
 - [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - 使用带有 Ansible 的 Test-Kitchen 将 playbook 应用到 Windows 机器并使用 [Pester](https://github.com/pester/Pester/).
@@ -98,9 +99,10 @@
 &gt; 令人敬畏的生产就绪剧本和角色让您启动并运行.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
-- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置具有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
+- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置带有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
 - [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - 这些角色帮助您强化基于 Linux 的操作系统以及 MySQl、NginX 和 SSH 服务器/服务.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 为开发环境和生产环境提供和部署 Docker Swarm 集群. 基础架构即代码和 DevOps 最佳实践.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - 使用 AWS SSM 代理预置物理和虚拟主机的 ansible 角色.
+- [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - 用于部署集群的 ansible 连贯角色集合.

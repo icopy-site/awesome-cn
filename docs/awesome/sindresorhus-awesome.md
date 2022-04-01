@@ -832,7 +832,7 @@
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - 努力为子孙后代保护网络.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - WordPress 的命令行界面.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人划分为风险等级的方法.
-- [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
+- [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
 - [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 让以植物为基础的生活方式变得简单易行.
