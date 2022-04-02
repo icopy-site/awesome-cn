@@ -259,7 +259,7 @@
 - [.netshrink](https://www.pelock.com/products/netshrink) - 使用 LZMA 的 Windows 或 Linux .NET 应用程序可执行文件的可执行压缩器.
 - [Alienyze](https://alienyze.com) - Windows 32 位可执行文件的高级软件保护和安全性.
 - [Alternate EXE Packer](https://www.alternate-tools.com/pages/c_exepacker.php) - 可执行文件（EXE 类型）或依赖 UPX 3.96 的 DLL 的压缩工具.
-- [Amber](https://github.com/EgeBalci/amber/releases) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
+- [Amber](https://github.com/EgeBalci/amber/releases) - 与位置无关（反射）的 PE 加载器，可以在内存中执行本机 PE 文件（EXE、DLL、SYS）.
 - [Andromeda](https://blog.morphisec.com/andromeda-tactics-analyzed) - 在恶意软件活动中使用的自定义加壳程序使用 RunPE 技术来规避 AV 缓解方法.
 - [APKProtect](https://sourceforge.net/projects/apkprotect) - 支持 Java 和 C++ 的 APK 加密和外壳保护.
 - [Armadillo](https://web.archive.org/web/20030324043555/https://www.exetools.com/files/protectors/win/armd252b2.zip) - 结合了用于保护 PE 文件的许可证管理器和包装系统.
@@ -339,7 +339,7 @@
 - [Kkrunchy](http://www.farbrausch.de/~fg/kkrunchy) - Kkrunchy 是一个小型 exe 打包程序，主要用于 64k 介绍.
 - [mPack](https://blog.fearcat.in/a?ID=00050-86a031da-e36f-4409-9a08-d3d993dbf8f5) - mPack - mario PACKersimple Win32 PE 可执行压缩器.
 - [NSPack](https://nspack.apponic.com/) - 32/64 位 exe、dll、ocx、scr Windows 程序压缩器.
-- [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE 文件打包器依赖 aPlib 进行压缩和/或 XOR 进行加密.
+- [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE file packer relying on aPlib for compression and/or XOR for encryption.
 - [PECompact](http://www.bitsum.com/pec2.asp) - Windows 可执行压缩器具有第三方插件，可防止逆向工程.
 - [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - 压缩您的可执行文件和动态链接库，使其保持较小且对压缩文件功能没有影响.
 - [RSCC](https://defacto2.net/f/a520164?packer=rscc)  - 玫瑰超级 COM 地穴； 用于大于 300-400B 且小于 60kB 的文件的多态加密器.
@@ -371,7 +371,7 @@
 - [AXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/axe22.zip) - 程序压缩实用程序.
 - [BIN-Lock](https://defacto2.net/f/a520164?packer=bin-lock) - 用于防止逆向工程的 COM 文件加扰器.
 - [BitLok](https://defacto2.net/f/a520164?packer=bitlok) - COM 和 EXE 文件保护器.
-- [C0NtRiVER](https://defacto2.net/f/a520164?packer=c0ntriver) - COM 文件加密器.
+- [C0NtRiVER](https://defacto2.net/f/a520164?packer=c0ntriver) - COM file encryptor.
 - [CauseWay Compressor](https://github.com/tkchia/causeway/tree/1ead4be14c9e536262e225f090b40b0c6cded286/watcom) - DOS EXE 压缩器.
 - [CC Pro](https://defacto2.net/f/a520164?packer=ccpro) - COM 和 EXE 可执行文件压缩实用程序.
 - [CEXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/cexe10a.zip) - 将输入的 EXE 压缩成更小的可执行文件（仅在 WinNT、Win2000 及更高版本上运行 - 不会在 Win95 或 Win98 上运行）.
@@ -388,7 +388,7 @@
 - [Mask](https://defacto2.net/f/a520164?packer=mask) - 使用加密和反调试技巧防止 COM 程序被破解的工具.
 - [Megalite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/megal120.zip) - MS-DOS 可执行文件压缩器.
 - [Mess](https://defacto2.net/f/a520164?packer=mess) - 此工具与 HackStop 的功能相同，但它是用于非商业用途的免费软件.
-- [Neolite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/neolte20.zip)
+- [Neolite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/neolte20.zip) - 压缩 Windows 32 位 EXE 文件和 DLL.
 - [PACK](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pack201.zip) - 可执行文件压缩器.
 - [PCShrink](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pcsnk071.zip) - 依赖于 aPLib 压缩库的 Windows 9x/NT 可执行文件压缩器.
 - [PE Diminisher](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/ped.zip) - 简单的 PE 打包器，依赖于 aPLib 压缩库.
@@ -397,7 +397,7 @@
 - [PEPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pepack10.zip) - 基于更新版本PE-SHIELD代码的PE压缩工具.
 - [PKlite](https://defacto2.net/f/a520164?packer=pklite) - 易于使用的文件压缩程序，用于压缩 DOS 和 Windows 可执行文件.
 - [Pro-Pack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pp219.zip) - DOS 可执行文件压缩器.
-- [RJCrush](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/rjcru110.zip) - EXE and COM files compressor with the ability to compress overlays.
+- [RJCrush](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/rjcru110.zip) - EXE 和 COM 文件压缩器具有压缩覆盖的能力.
 - [Scorpion](https://defacto2.net/f/a520164?packer=scorpion) - EXE 和 COM 文件加密器和保护器.
 - [SecuPack](https://web.archive.org/web/20210119235522/https://www.exetools.com/files/compressors/win/secupack15.zip) - Win32 可执行压缩器.
 - [SysPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/syspack.zip) - 设备驱动程序压缩器.
@@ -448,8 +448,9 @@
 - [GetTyp](https://www.helger.com/gt/gt.htm) - 基于特殊字符串和字节码的 DOS 文件格式检测程序.
 - [GUnpacker](http://qunpack.ahteam.org/?p=327) - 执行 OEP 定位和转储解密代码的 Shell 工具.
 - [Justin](https://doi.org/10.1007/978-3-540-87403-4_6)  - 即时 AV 扫描； 通用拆包解决方案.
+- [Language 2000](https://farrokhi.net/language) - 终极编译器检测实用程序.
 - [LIEF](https://github.com/lief-project/LIEF)  - 仪器可执行格式库； 用于解析 PE、ELF、Mach-O 和 DEX 格式、修改和重建可执行文件的 Python 包.
-- [Malheur](https://github.com/rieck/malheur) - 用于自动分析恶意软件行为的工具（从沙盒环境中的恶意软件中记录）.
+- [Malheur](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
 - [MalUnpack](https://github.com/hasherezade/mal_unpack) - 基于 PE 筛的动态拆包器.
 - [Manalyze](https://github.com/JusticeRage/Manalyze) - 强大的 PE 文件解析器，具有灵活的插件架构，允许用户深入静态分析文件.
 - [OEPdet](https://ieeexplore.ieee.org/abstract/document/7782073) - 自动原始入口点检测器.
@@ -459,7 +460,7 @@
 - [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - 用于帮助解包、解压缩和解密大多数使用高级仿真技术打包、压缩或加密的程序的工具.
 - [PackerGrind](https://github.com/rewhy/adaptiveunpacker) - 用于跟踪打包行为和解包 Android 打包应用程序的自适应解包工具.
 - [PackerID](https://github.com/sooshie/packerid) - 使用 PEid 签名并具有额外的输出类型、格式、数字签名提取和反汇编支持的 packerid.py 的分支.
-- [Packing-Box](https://github.com/dhondta/docker-packing-box) - Docker 映像收集许多与打包相关的工具，并用于制作打包可执行文件的数据集以用于机器学习.
+- [Packing-Box](https://github.com/dhondta/docker-packing-box) - Docker 映像收集许多与打包相关的工具，并用于制作打包可执行文件的数据集以供机器学习使用.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - 对 Bochs PC 仿真器的扩展，使其能够监控解包存根的执行以提取原始代码.
 - [PCjs](https://www.pcjs.org) - PCjs 使用 JavaScript 重新创建 IBM PC 体验，使用原始 ROM、以原始速度运行的 CPU 以及早期的 IBM 视频卡和显示器.
 - [PE Compression Test](http://pect.atspace.com/) - 在几个示例可执行文件上测试的打包程序列表，用于比较压缩大小.
@@ -473,6 +474,7 @@
 - [PEiD (yara)](https://github.com/K-atc/PEiD) - 使用 yara 的另一种 PEiD 实现.
 - [PeLib](https://github.com/avast/pelib) - PE 文件操作库.
 - [PEPack](https://github.com/merces/pev) - PE 文件打包器检测工具，属于 Unix 包“pev”的一部分.
+- [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI 工具扫描 PE 文件以识别它们是如何构建的.
 - [PETools](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
 - [PINdemonium](https://github.com/Phat3/PINdemonium) - 利用 PIN 功能的 PE 文件解包器.
 - [PolyUnpack](https://github.com/PlatonovIvan/PolyUnpack) - 尝试在没有任何启发式假设的情况下提取 PE 文件的原始隐藏代码的一般方法.
