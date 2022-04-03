@@ -7,7 +7,7 @@
  *Packing* 是以不改变其用途的方式修改可执行文件的操作. 一般是以下操作之一或组合：
 - 捆绑：使单个可执行文件具有多个文件
 - 压缩：压缩可执行文件以减小其原始大小
-- 加密：通过加密来混淆可执行文件
+- encryption: obfuscates the executable by encrypting it
 - 突变：改变可执行文件的代码，使其使用修改后的指令集和架构（例如使用寡态）
 - 保护：使可执行文件的逆向更难（即使用反调试、反篡改或其他技巧）
 - 虚拟化：嵌入允许虚拟化可执行指令的虚拟机
@@ -22,8 +22,8 @@
 
 ### Documentation
 
+- :earth_americas: [a.out (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?a.out(5))
 - :earth_americas: [A.out binary format](https://wiki.osdev.org/A.out)
-- :earth_americas: [ABI mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - ：bar_chart： [Android packers: Separating from the pack](https://www.fortiguard.com/events/759/2014-06-12-android-packers-separating-from-the-pack)
 - ：bar_chart： [API deobfuscator: Resolving obfuscated API functions in modern packers](https://www.blackhat.com/docs/us-15/materials/us-15-Choi-API-Deobfuscator-Resolving-Obfuscated-API-Functions-In-Modern-Packers.pdf)
 - ：bar_chart： [The art of unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf)
@@ -33,15 +33,21 @@
 - :earth_americas: [Comparison of executable file formats](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
 - :earth_americas: [Defacto2](https://defacto2.net/defacto2)
 - ：bar_chart： [Dynamic binary analysis and obfuscated codes](https://triton.quarkslab.com/files/sthack2016-rthomas-jsalwan.pdf)
+- :earth_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf(5))
 - :earth_americas: [Executable and linkable format (ELF)](https://wiki.osdev.org/ELF)
 - ：剪贴板： [Executable and linking format (ELF) specification](https://refspecs.linuxfoundation.org/elf/elf.pdf)
 - :earth_americas: [Executable file formats](https://docs.fileformat.com/executable)
+- :earth_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 - ：滚动： [Implementing your own generic unpacker](https://gsec.hitb.org/materials/sg2015/whitepapers/Julien%20Lenoir%20-%20Implementing%20Your%20Own%20Generic%20Unpacker.pdf)
+- ：图钉： [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
+- :earth_americas: [Mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - ：bar_chart： [Mach-O internals](https://yossarian.net/res/pub/macho-internals/macho-internals.pdf)
 - ：剪贴板： [Microsoft portable executable and common object file format specification](http://www.skyfree.org/linux/references/coff.pdf)
+- :earth_americas: [MITRE ATT&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 - :earth_americas: [MZ disk operating system (DOS)](https://wiki.osdev.org/MZ)
 - ：bar_chart： [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All-WP.pdf)
 - ：滚动： [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All.pdf)
+- ：图钉： [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 - :earth_americas: [PE format (Microsoft docs)](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
 - ：滚动： [PinDemonium: A DBI-based generic unpacker for Windows executables](https://www.blackhat.com/docs/us-16/materials/us-16-Mariani-Pindemonium-A-Dbi-Based-Generic-Unpacker-For-Windows-Executables-wp.pdf)
 - :earth_americas: [Portable executable (PE)](https://wiki.osdev.org/PE)
@@ -92,7 +98,7 @@
 - ：砂浆板： [Deobfuscation of packed and virtualization-obfuscation protected binaries](https://repository.arizona.edu/handle/10150/202716) （2011 年 6 月） 
 - ：笔记本： [Design and development of a new scanning core engine for malware detection](https://ieeexplore.ieee.org/document/6388212) （2012 年 10 月） 
 - ：笔记本： [Design and performance evaluation of binary code packing for protecting embedded software against reverse engineering](https://ieeexplore.ieee.org/document/5479571) （2010 年 5 月） 
-- ：笔记本： [Detecting packed executable file: Supervised or anomaly detection method?](https://ieeexplore.ieee.org/abstract/document/7784628) (August 2016)  :star:
+- ：笔记本： [Detecting packed executable file: Supervised or anomaly detection method?](https://ieeexplore.ieee.org/abstract/document/7784628) （2016 年 8 月）：星：
 - ：报纸： [Detecting packed executables based on raw binary data](https://www.semanticscholar.org/paper/DETECTING-PACKED-EXECUTABLES-BASED-ON-RAW-BINARY-Nataraja-Jacobb/53371424fb79de29a096e563b07fcae432f4d201) （2010 年 6 月） 
 - ：笔记本： [Detecting packed executables using steganalysis](https://ieeexplore.ieee.org/document/7018361) （2014 年 12 月） 
 - ：砂浆板： [Detecting packed PE files: Executable file analysis for the Windows operating system](https://uia.brage.unit.no/uia-xmlui/handle/11250/2823655) （2021 年 6 月）:star: :star:
@@ -152,7 +158,7 @@
 - ：笔记本： [MutantX-S: Scalable malware clustering based on static features](https://www.usenix.org/conference/atc13/technical-sessions/presentation/hu) （2013年六月） 
 - ：笔记本： [The new signature generation method based on an unpacking algorithm and procedure for a packer detection](https://www.earticle.net/Article/A147420) （2011 年 2 月） 
 - ：报纸： [Obfuscation: The hidden malware](https://ieeexplore.ieee.org/document/5975134) （2011 年 8 月） 
-- ：笔记本： [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) （2019 年 12 月）：星：
+- ：笔记本： [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) (December 2019)  :star:
 - ：笔记本： [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) （2007 年 12 月）：星：
 - ：报纸： [On the adoption of anomaly detection for packed executable filtering](https://www.sciencedirect.com/science/article/pii/S0167404814000522?via%3Dihub) （2014 年 6 月） 
 - ：笔记本： [OPEM: A static-dynamic approach for machine-learning-based malware detection](https://link.springer.com/chapter/10.1007/978-3-642-33018-6_28) （2012 年 9 月） 
@@ -308,7 +314,7 @@
 - [sePACKER](https://sourceforge.net/projects/sepacker/) - Simple Executable Packer 正在压缩可执行文件的代码部分以减小二进制文件的大小.
 - [Silent-Packer](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer 是一个用纯 C 编写的 ELF / PE 打包器.
 - [Simple-PE32-Packer](https://github.com/z3r0d4y5/Simple-PE32-Packer) - 带有 aPLib 压缩库的简单 PE32 Packer.
-- [Smart Packer](https://www.smartpacker.nl) - 将带有 DLL、数据文件、第 3 方运行时的 32 位和 64 位应用程序打包到一个可立即运行的可执行文件中，无需安装或麻烦.
+- [Smart Packer](https://www.smartpacker.nl) - 将 32 位和 64 位应用程序与 DLL、数据文件、第 3 方运行时打包到一个可立即运行的可执行文件中，无需安装或麻烦.
 - [theArk](https://github.com/aaaddress1/theArk) - C++ 中的 Windows x86 PE 打包程序.
 - [Themida](https://www.oreans.com/themida.php) - 来自 Renovo 论文：Themida 将原始 x86 指令转换为自己的随机指令集中的虚拟指令，然后在运行时解释这些虚拟指令.
 - [UPX](https://upx.github.io/) - 可执行文件的终极打包程序.
@@ -339,15 +345,15 @@
 - [Kkrunchy](http://www.farbrausch.de/~fg/kkrunchy) - Kkrunchy 是一个小型 exe 打包程序，主要用于 64k 介绍.
 - [mPack](https://blog.fearcat.in/a?ID=00050-86a031da-e36f-4409-9a08-d3d993dbf8f5) - mPack - mario PACKersimple Win32 PE 可执行压缩器.
 - [NSPack](https://nspack.apponic.com/) - 32/64 位 exe、dll、ocx、scr Windows 程序压缩器.
-- [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE file packer relying on aPlib for compression and/or XOR for encryption.
+- [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE 文件打包器依赖 aPlib 进行压缩和/或 XOR 进行加密.
 - [PECompact](http://www.bitsum.com/pec2.asp) - Windows 可执行压缩器具有第三方插件，可防止逆向工程.
 - [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - 压缩您的可执行文件和动态链接库，使其保持较小且对压缩文件功能没有影响.
 - [RSCC](https://defacto2.net/f/a520164?packer=rscc)  - 玫瑰超级 COM 地穴； 用于大于 300-400B 且小于 60kB 的文件的多态加密器.
 - [RUCC](https://defacto2.net/f/a520164?packer=rucc)  - ROSE Ultra COM 压缩机； 基于 624 的 COM 和 EXE 压缩实用程序.
-- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，用安全防护罩保护目标应用程序，提供一种方法来抵消逆向工程和其他反调试措施.
+- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，使用安全防护罩保护目标应用程序，提供对抗逆向工程和其他反调试措施的方法.
 - [Shiva](https://packetstormsecurity.com/files/31087/shiva-0.95.tar.gz.html) - Shiva 是一个在 Linux 下加密 ELF 可执行文件的工具.
 - [Shrinker](https://web.archive.org/web/20081022073034/http://www.blinkinc.com/shrinker.htm) - 压缩（高达 70%）16 位和 32 位 Windows 和实模式 DOS 程序.
-- [tElock](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/Telock.shtml) - Telock 是一款实用工具，旨在帮助想要保护其工作并减小可执行文件大小的开发人员.
+- [tElock](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/Telock.shtml) - Telock 是一个实用工具，旨在帮助想要保护他们的工作并减小可执行文件大小的开发人员.
 - [TTProtect](http://www.ttprotect.com) - 专为软件开发人员设计的专业保护工具，用于保护他们的 PE 应用程序免受非法修改或反编译.
 - [UPX-Scrambler](https://defacto2.net/f/a520164?packer=upxs) - 使用 UPX（最高 1.06）打包的文件的扰码器，因此无法使用“-d”选项解压缩它们.
 - [WinLite](http://www.win3x.org/win3board/viewtopic.php?t=1435&language=en) - 为 DOS 下的可执行程序压缩 Windows 可执行文件（例如 Pklite、Diet 或 Wwpack）.
@@ -371,12 +377,13 @@
 - [AXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/axe22.zip) - 程序压缩实用程序.
 - [BIN-Lock](https://defacto2.net/f/a520164?packer=bin-lock) - 用于防止逆向工程的 COM 文件加扰器.
 - [BitLok](https://defacto2.net/f/a520164?packer=bitlok) - COM 和 EXE 文件保护器.
-- [C0NtRiVER](https://defacto2.net/f/a520164?packer=c0ntriver) - COM file encryptor.
+- [C0NtRiVER](https://defacto2.net/f/a520164?packer=c0ntriver) - COM 文件加密器.
 - [CauseWay Compressor](https://github.com/tkchia/causeway/tree/1ead4be14c9e536262e225f090b40b0c6cded286/watcom) - DOS EXE 压缩器.
 - [CC Pro](https://defacto2.net/f/a520164?packer=ccpro) - COM 和 EXE 可执行文件压缩实用程序.
 - [CEXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/cexe10a.zip) - 将输入的 EXE 压缩成更小的可执行文件（仅在 WinNT、Win2000 及更高版本上运行 - 不会在 Win95 或 Win98 上运行）.
 - [COMProtector](https://defacto2.net/f/a520164?packer=comprotector) - 通过随机加密并添加几个反调试技巧，在 DOS .COM 文件周围添加安全信封.
 - [CrackStop](https://defacto2.net/f/a520164?packer=crackstop) - 在 DOS EXE 文件周围创建安全信封以保护其免受破解的工具.
+- [Crunch](https://defacto2.net/f/a520164?packer=crunch) - COM 和 EXE 文件的文件加密器.
 - [EPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/epack16.zip)  - EXE 和 COM 文件压缩器； 适用于 DOS/Windows95 文件.
 - [ExeGuard](https://defacto2.net/f/a520164?packer=exeguard) - DOS EXE 文件免费保护器使用反调试刻度来防止黑客攻击、分析和解包.
 - [EXELOCK 666](https://defacto2.net/f/a520164?packer=exelock666) - 保护 .EXE 文件的实用程序，因此没有人可以破解版权.
@@ -430,6 +437,7 @@
 - [Bintropy](https://github.com/dhondta/bintropy) - 原型分析工具，用于估计二进制文件包含压缩或加密字节的可能性.
 - [BinUnpack](https://doi.org/10.1145/3243734.3243771) - 解包方法免于繁琐的内存访问监控，因此引入了非常小的运行时开销.
 - [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - 分析平台，具有静态和动态分析技术、混合具体和符号执行、全系统仿真和二进制仪器的新颖融合，所有这些都有助于对实际安全问题进行最先进的研究.
+- [ChkEXE](https://defacto2.net/f/a91dea6?dosmachine=svga&dosspeed=max) - 识别几乎所有 EXE/COM 打包程序、加密程序或保护程序.
 - [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - 来自 ClamAV 的解包器.
 - [COM2EXE](https://defacto2.net/f/a520164?tool=com2exe) - 用于将 COM 文件转换为 EXE 格式的免费工具.
 - [de4dot](https://github.com/0xd4d/de4dot) - .NET 反混淆器和解包器.
@@ -450,11 +458,11 @@
 - [Justin](https://doi.org/10.1007/978-3-540-87403-4_6)  - 即时 AV 扫描； 通用拆包解决方案.
 - [Language 2000](https://farrokhi.net/language) - 终极编译器检测实用程序.
 - [LIEF](https://github.com/lief-project/LIEF)  - 仪器可执行格式库； 用于解析 PE、ELF、Mach-O 和 DEX 格式、修改和重建可执行文件的 Python 包.
-- [Malheur](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
+- [Malheur](https://github.com/rieck/malheur) - 用于自动分析恶意软件行为的工具（从沙盒环境中的恶意软件中记录）.
 - [MalUnpack](https://github.com/hasherezade/mal_unpack) - 基于 PE 筛的动态拆包器.
 - [Manalyze](https://github.com/JusticeRage/Manalyze) - 强大的 PE 文件解析器，具有灵活的插件架构，允许用户深入静态分析文件.
 - [OEPdet](https://ieeexplore.ieee.org/abstract/document/7782073) - 自动原始入口点检测器.
-- [OllyDbg Scripts](https://github.com/xshows/ollydbg-script) - OllyDbg 脚本的集合，用于解压许多不同的打包程序.
+- [OllyDbg Scripts](https://github.com/xshows/ollydbg-script) - Collection of OllyDbg scripts for unpacking many different packers.
 - [OmniUnpack](https://doi.org/10.1109/ACSAC.2007.15) - 通过实时监控执行并检测已移除的打包层来快速、通用和安全地解包恶意软件的新技术.
 - [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - 使用内存和代码挂钩来检测加壳程序的工具.
 - [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - 用于帮助解包、解压缩和解密大多数使用高级仿真技术打包、压缩或加密的程序的工具.
@@ -462,7 +470,7 @@
 - [PackerID](https://github.com/sooshie/packerid) - 使用 PEid 签名并具有额外的输出类型、格式、数字签名提取和反汇编支持的 packerid.py 的分支.
 - [Packing-Box](https://github.com/dhondta/docker-packing-box) - Docker 映像收集许多与打包相关的工具，并用于制作打包可执行文件的数据集以供机器学习使用.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - 对 Bochs PC 仿真器的扩展，使其能够监控解包存根的执行以提取原始代码.
-- [PCjs](https://www.pcjs.org) - PCjs 使用 JavaScript 重新创建 IBM PC 体验，使用原始 ROM、以原始速度运行的 CPU 以及早期的 IBM 视频卡和显示器.
+- [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
 - [PE Compression Test](http://pect.atspace.com/) - 在几个示例可执行文件上测试的打包程序列表，用于比较压缩大小.
 - [PE Detective](https://ntcore.com/?page_id=367) - 这个 GUI 工具可以扫描单个 PE 文件或整个目录（也可以递归）并生成完整的报告.
 - [PE-bear](https://github.com/hasherezade/pe-bear-releases) - PE 文件的免费软件反转工具旨在为恶意软件分析师提供快速灵活的“第一视图”，稳定且能够处理格式错误的 PE 文件.
@@ -475,7 +483,8 @@
 - [PeLib](https://github.com/avast/pelib) - PE 文件操作库.
 - [PEPack](https://github.com/merces/pev) - PE 文件打包器检测工具，属于 Unix 包“pev”的一部分.
 - [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI 工具扫描 PE 文件以识别它们是如何构建的.
-- [PETools](https://github.com/petoolse/petools) - Old-school reverse engineering tool (with a long history since 2002) for manipulating PE files.
+- [PETools](https://github.com/petoolse/petools) - 用于操作 PE 文件的老式逆向工程工具（自 2002 年以来有着悠久的历史）.
+- [Pin - A Dynamic Binary Instrumentation Tool](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html) - 用于 IA-32、x86-64 和 MIC 指令集架构的动态二进制检测框架，可以创建动态程序分析工具.
 - [PINdemonium](https://github.com/Phat3/PINdemonium) - 利用 PIN 功能的 PE 文件解包器.
 - [PolyUnpack](https://github.com/PlatonovIvan/PolyUnpack) - 尝试在没有任何启发式假设的情况下提取 PE 文件的原始隐藏代码的一般方法.
 - [PortEx](https://github.com/katjahahn/PortEx) - 用于对 PE 文件进行静态恶意软件分析的 Java 库.
@@ -490,12 +499,14 @@
 - [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
 - [Reko](https://github.com/uxmal/reko) - 机器代码二进制文件的免费反编译器.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - 基于入口点部分的熵值和WRITE属性的打包检测工具.
+- [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.
 - [Renovo](https://doi.org/10.1145/1314389.1314399) - 基于TEMU（BitBlaze的动态分析组件）构建的检测工具，基于程序启动后新生成代码的执行和监控内存写入.
 - [RetDec](https://github.com/avast/retdec) - 基于 LLVM 的可重定向机器代码反编译器.
-- [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK：存档器、exe 压缩器、存档器外壳和其他相关实用程序.
+- [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK: Archivers, exe-compressors, archiver shells and other related utils.
 - [SAFE](https://github.com/dhondta/awesome-executable-packing/blob/master/mailto:mihai@cs.wisc.edu) - 可执行文件的静态分析器（按需提供）.
 - [SymPack](https://www.amazon.com/Norton-AntiVirus-2007-Old-Version/dp/B000IAOIXW)  - 安全、便携、非常有效但不是用于打包检测和拆包的通用库； 诺顿防病毒解决方案的一部分.
 - [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - 机器学习混合云平台，可大规模收集数千种文件类型，通过机器学习二进制分析加速威胁检测，并持续监控超过 10B 文件的索引以应对未来威胁.
+- [TrID](https://mark0.net/soft-trid-e.html) - 用于从二进制签名中识别文件类型的实用程序.
 - [Triton](https://github.com/jonathansalwan/Triton) - 动态二进制分析库.
 - [Tuts 4 You](https://tuts4you.com) - 非商业的、独立的社区，致力于分享逆向代码工程的知识和信息.
 - [Unipacker](https://github.com/unipacker/unipacker) - 基于仿真的 Windows 二进制文件的自动和平台无关解包器.

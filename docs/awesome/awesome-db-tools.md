@@ -40,12 +40,11 @@
 - [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 免费创建、管理、查询和探索 Valentina DB、MySQL、MariaDB、PostgreSQL 和 SQLite 数据库.
 
 
-## GUI Managers/Clients
+## GUI
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
 - [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
-- [HouseOps](https://github.com/HouseOps/HouseOps) - 企业 ClickHouse Ops UI 可让您运行查询、监控 ClickHouse 运行状况并让许多其他人思考.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
 - [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，具有非技术用户的完整用户权限.
@@ -72,11 +71,11 @@
 - [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web 管理 GUI - 从任何地方使用您的 PostgreSQL 数据库，具有丰富、快速的 AJAX Web 界面.
 
 
-## CLI tools
+## CLI
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - 连接到数据库以在 IPython 或 IPython Notebook 中发出 SQL 命令.
 - [iredis](https://github.com/laixintao/iredis) - 带有自动完成和语法突出显示的 Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - 用于 PostgreSQL 的顶级管理工具.
-- [pg_activity](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
+- [pg_activity](https://github.com/julmon/pg_activity) - 用于 PostgreSQL 服务器活动监控的顶级应用程序.
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
@@ -89,25 +88,12 @@
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - 具有自动完成和语法突出显示的 SQL Server 命令行客户端.
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的 MySQL 终端客户端.
 - [pgcli](https://github.com/dbcli/pgcli) - 具有自动完成和语法突出显示的 Postgres CLI.
-- [vcli](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
+- [vcli](https://github.com/dbcli/vcli) - 具有自动完成和语法突出显示的 Vertica CLI.
 
 
-## DB-schema navigation and visualization
-- [dbdiagram.io](https://dbdiagram.io) - 快速简单的工具，可帮助您使用简单的 DSL 语言快速绘制数据库关系图和流程.
-- [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
-- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - 免费的数据库模式发现和理解工具.
-- [Schema Spy](https://github.com/schemaspy/schemaspy) - 将您的数据库生成为 HTML 文档，包括实体关系图.
-- [tbls](https://github.com/k1LoW/tbls) - 用于记录数据库的 CI 友好工具，用 Go 编写.
+## Schema
 
-
-## Modelers
-- [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler)  - 用于高质量数据模型的易于使用的数据库建模软件. 它是面向数据建模师和数据架构师的完整数据建模解决方案.
-- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
-- [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler 是一个免费的图形工具，可提高生产力并简化数据建模任务.
-- [pgmodeler](https://github.com/pgmodeler/pgmodeler) - 为 PostgreSQL 设计的数据建模工具.
-
-
-## Migration tools
+### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - 利用幂等 DDL 脚本概念的数据库配置即代码工具.
 - [Bytebase](https://github.com/bytebase/bytebase) - 面向团队的基于 Web、零配置、无依赖关系的数据库架构更改和版本控制工具.
 - [flyway](https://github.com/flyway/flyway) - 数据库迁移工具.
@@ -117,14 +103,36 @@
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate)  - 专为 postgres 构建的 Node.js 数据库迁移管理.  （但也可以用于其他符合 SQL 标准的数据库 - 例如 CockroachDB.）
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明式数据库架构迁移工具，它使用声明式数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供将 PostgreSQL 数据库模式描述为 YAML 的实用程序.
+- [Reshape](https://github.com/fabianlindfors/reshape) - 一个易于使用、零停机时间的 Postgres 架构迁移工具.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
 - [Sqitch](https://github.com/sqitchers/sqitch) - 明智的数据库原生变更管理，用于无框架开发和可靠部署.
+- [sqldef](https://github.com/k0kubun/sqldef) - MySQL、PostgreSQL 等的幂等模式管理.
 - [yuniql](https://github.com/rdagumampan/yuniql) - 刚刚使用本机 .NET Core 3.0+ 制作的另一个架构版本控制和迁移工具，希望更好.
 
-
-## Code generation tools
+### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
+
+### Diagrams
+- [dbdiagram.io](https://dbdiagram.io) - 快速简单的工具，可帮助您使用简单的 DSL 语言快速绘制数据库关系图和流程.
+- [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
+
+### Documentations
+- [dbdocs](https://dbdocs.io/) - 使用 DSL 代码创建基于 Web 的数据库文档.
+- [DBML](https://github.com/holistics/dbml) - 数据库标记语言，旨在定义和记录数据库结构.
+- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - 免费的数据库模式发现和理解工具.
+- [Schema Spy](https://github.com/schemaspy/schemaspy) - 将您的数据库生成为 HTML 文档，包括实体关系图.
+- [tbls](https://github.com/k1LoW/tbls) - 用于记录数据库的 CI 友好工具，用 Go 编写.
+
+### Modelers
+- [DBDiagram](https://dbdiagram.io) - 一个免费、简单的工具，只需编写代码即可绘制 ER 图.
+- [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler)  - 用于高质量数据模型的易于使用的数据库建模软件. 它是面向数据建模师和数据架构师的完整数据建模解决方案.
+- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
+- [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler 是一个免费的图形工具，可提高生产力并简化数据建模任务.
+- [pgmodeler](https://github.com/pgmodeler/pgmodeler) - 为 PostgreSQL 设计的数据建模工具.
+
+### Samples
+- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle 数据库示例模式.
 
 
 ## API
@@ -132,7 +140,7 @@
 - [Datasette](https://github.com/simonw/datasette) - 探索和发布数据的工具.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - 用于移动、Web 和 IoT 应用程序的开源 REST API 后端.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
-- [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
+- [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - 一个中间层 Java 应用程序，ORDS 将 HTTP(S) 动词（GET、POST、PUT、DELETE 等）映射到数据库事务并返回使用 JSON 格式化的任何结果.
 - [Prisma](https://github.com/prismagraphql/prisma) - Prisma 将您的数据库变成实时 GraphQL API.
 - [PostgREST](https://github.com/PostgREST/postgrest) - 任何 Postgres 数据库的 REST API.
 - [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
@@ -159,8 +167,8 @@
 
 
 ## Scripts
-- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
+- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、即时文档和 SQL Server 的一般管理需求.
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的数据库分析和管理小脚本，由我们的 PostgreSQL 专家团队创建.
 - [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - 用于测量 PostgreSQL 索引和表中的统计膨胀的查询.
 - [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  - 检查您的数据库是否遵循以下规则的 SQL 测试<https://wiki.postgresql.org/wiki/Don't_Do_This> .
 - [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
@@ -192,7 +200,7 @@
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
-- [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 一起使用，为 Oracle 数据库提供多层监控、性能和可用性报告和测量，以及服务器性能指标.
+- [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - 这是 PostgreSQL 数据库的 Zabbix 监控模板.
 - [Pyora](https://github.com/bicofino/Pyora) - 用于监控 Oracle 数据库的 Python 脚本.
 - [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA 是快速、灵活且持续开发的插件，用于监控您的 RDBMS.
@@ -201,15 +209,8 @@
 ## Testing
 - [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对您的数据库代码进行简单的测试驱动开发.
 - [RegreSQL](https://github.com/dimitri/regresql) - 回归测试您的 SQL 查询.
+- [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
 
-
-### Data generator
-- [Databene Benerator](https://sourceforge.net/projects/benerator) - 它是一个框架，用于为您的被测系统生成真实有效的大量测试数据（避免 Datalite 反模式）.
-- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 强大的 GUI 工具，用于创建大量真实的测试数据.
-- [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 小而强大的 GUI 工具，用于使用大量真实的测试数据填充 Oracle 模式.
-- [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
-- [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
-- [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充具有真实测试数据的选定表或整个数据库. 为 Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS 生成测试数据.
 
 ## Administration
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
@@ -247,10 +248,6 @@
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit 在您的 DevOps 工作流程中执行关键的数据库开发功能，而不会影响质量、性能或可靠性.
 
 
-## Schema samples
-- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle 数据库示例模式.
-
-
 ## Reporting
 - [Chartbrew](https://chartbrew.com) - 从多个数据库和服务创建实时仪表板、图表和客户报告.
 - [Poli](https://github.com/shzlw/poli) - 为 SQL 爱好者构建的易于使用的 SQL 报告应用程序.
@@ -258,7 +255,7 @@
 
 ## Distributions
 - [DBdeployer](https://github.com/datacharmer/dbdeployer) - 轻松部署 MySQL 数据库服务器的工具.
-- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell 模块，您可能会将其视为命令行 SQL Server Management Studio.
+- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - 打包为标准 Mac 应用程序的全功能 PostgreSQL 安装.
 - [BigSQL](https://www.bigsql.org) - 对开发人员友好的 Postgres 发行版.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - 基于 Web 的 PostgreSQL 管理前端，它捆绑了多个与 PostgreSQL 一起使用的实用程序和应用程序.
@@ -288,7 +285,7 @@
 - [CodeBuff](https://github.com/antlr/codebuff) - 通过机器学习实现与语言无关的漂亮打印.
 - [pgFormatter](https://github.com/darold/pgFormatter) - 一个 PostgreSQL SQL 语法美化器.
 - [Poor SQL](https://poorsql.com) - 即时免费和开源的 T-SQL 格式. 
-- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - 用于漂亮打印 SQL 查询的 JavaScript 库.
+- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### Parsers
 - [General SQL Parser](https://www.sqlparser.com) - SQL 的解析、格式化、修改和分析.
@@ -315,6 +312,14 @@
 
 ## Data
 - [dbt](https://github.com/dbt-labs/dbt-core) - 通过简单地编写 select 语句来转换您的数据，而 dbt 处理将这些语句转换为数据仓库中的表和视图.
+
+### Generators
+- [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - 为开发、测试和培训目的生成、混淆（匿名化/假名化）和迁移数据.
+- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 强大的 GUI 工具，用于创建大量真实的测试数据.
+- [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 小而强大的 GUI 工具，用于使用大量真实的测试数据填充 Oracle 模式.
+- [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
+- [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
+- [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充具有真实测试数据的选定表或整个数据库. 为 Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS 生成测试数据.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
