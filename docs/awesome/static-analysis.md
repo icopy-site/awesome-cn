@@ -36,7 +36,7 @@
 ## Meaning of Symbols:
 
  - :copyright: 代表专有软件. 所有其他工具都是开源的.
- - :information_source: 表示社区不再建议在新项目中使用此工具. 图标链接到讨论问题.
+ - :information_source: 表示社区不再建议将此工具用于新项目. 图标链接到讨论问题.
 - :warning: 表示此工具超过 1 年未更新，或者 repo 已存档.
 
 非常欢迎请求请求！  
@@ -136,7 +136,7 @@
 - [CPAchecker](https://cpachecker.sosy-lab.org)  — 用于 C 程序的可配置软件验证的工具. 选择 CPAchecker 这个名称是为了反映该工具基于 CPA 概念并用于检查软件程序.
 - [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
-- [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
+- [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — Automated C++ checker that follows Google's style guide.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) — C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: — C 和 C 预处理器代码的复杂性和质量指标.
 - [ESBMC](http://esbmc.org) — ESBMC 是基于可满足性模理论的开源、许可许可、上下文有界模型检查器，用于验证单线程和多线程 C/C++ 程序.
@@ -163,7 +163,7 @@
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 - [code-cracker](http://code-cracker.github.io) — An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) :warning: — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
-- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现异味，计算各种代码质量指标和趋势分析.
+- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — 宪兵检查包含 ECMA CIL 格式（Mono 和 .NET）代码的程序和库.
 - [Infer#](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 - [NDepend](http://www.ndepend.com) :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
@@ -182,7 +182,7 @@
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) — 测量 C 文件的大小和复杂性.
 - [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
-- [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
+- [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — Automated C++ checker that follows Google's style guide.
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) — C 代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) :warning: — C 和 C 预处理器代码的复杂性和质量指标.
 - [ESBMC](http://esbmc.org) — ESBMC 是基于可满足性模理论的开源、许可许可、上下文有界模型检查器，用于验证单线程和多线程 C/C++ 程序.
@@ -255,7 +255,7 @@
 <h2 id="erlang">Erlang</h2>
 
 - [dialyzer](https://www.erlang.org/doc/man/dialyzer.html)  — DIALYZER，ERlang 程序的差异分析器.  Dialyzer 是一个静态分析工具，用于识别软件差异，例如明确的类型错误、由于编程错误而死或无法访问的代码，以及在单个 Erlang 模块或整个（一组）应用程序中的不必要测试.
- Dialyzer 从调试编译的 BEAM 字节码或 Erlang 源代码开始分析. 报告差异的文件和行号以及差异的指示.  Dialyzer 的分析基于成功类型的概念，它允许声音警告（无误报）.
+ Dialyzer 从调试编译的 BEAM 字节码或 Erlang 源代码开始分析. 报告差异的文件和行号以及差异的指示.  Dialyzer 的分析基于成功类型的概念，该概念允许声音警告（无误报）.
 - [elvis](https://github.com/inaka/elvis) — Erlang Style Reviewer.
 - [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) — 对 Erlang 源代码进行基本扫描并报告任何可能导致 Erlang 源代码不安全的函数调用的工具.
 
@@ -315,7 +315,7 @@
 - [structcheck](https://gitlab.com/opennota/check) — 查找未使用的结构字段.
 - [structslop](https://github.com/orijtech/structslop) — Go 的静态分析器，建议重新排列结构字段以提供最大的空间/分配效率
 - [test](http://golang.org/pkg/testing) — 从 stdlib 测试模块显示测试失败的位置.
-- [unconvert](https://github.com/mdempsky/unconvert) :warning: — 检测冗余类型转换.
+- [unconvert](https://github.com/mdempsky/unconvert) — 检测冗余类型转换.
 - [unparam](https://github.com/mvdan/unparam) — 查找未使用的函数参数.
 - [varcheck](https://gitlab.com/opennota/check) — 查找未使用的全局变量和常量.
 - [wsl](https://github.com/bombsimon/wsl) — 在正确的位置强制使用空行.
@@ -437,7 +437,7 @@
 - [deprecation-detector](https://github.com/sensiolabs-de/deprecation-detector) — 查找已弃用 (Symfony) 代码的用法.
 - [deptrac](https://github.com/sensiolabs-de/deptrac) — 对软件层之间的依赖关系实施规则.
 - [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) — 检测 PHP 代码中的设计模式.
-- [EasyCodingSt和ard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-和-php-cs-fixer-in-3-lines) - 结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
+- [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) - 结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer).
 - [Enlightn](https://www.laravel-enlightn.com/)  — Laravel 应用程序的静态和动态分析工具，它提供建议以提高 Laravel 应用程序的性能、安全性和代码可靠性. 包含 120 个自动检查.
 - [exakat](https://www.exakat.io) — PHP 的自动代码审查引擎.
 - [GrumPHP](https://github.com/phpro/grumphp) — 在每次提交时检查代码.
@@ -501,7 +501,7 @@
 - [bandit](https://bandit.readthedocs.io/en/latest) — 在 Python 代码中查找常见安全问题的工具.
 - [bellybutton](https://github.com/hchasestevens/bellybutton) — 支持自定义项目特定规则的 linting 引擎.
 - [Black](https://black.readthedocs.io/en/stable) — 毫不妥协的 Python 代码格式化程序.
-- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流利的 API，用于在代码中生成复杂的代码修改.
+- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流畅 API，用于在代码中生成复杂的代码修改.
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  :warning: — Linter、格式化程序和测试套件助手. 作为 linter，它是 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的包装器.
 - [cohesion](https://github.com/mschwager/cohesion) :warning: — 一个测量 Python 类凝聚力的工具.
 - [Dlint](https://github.com/dlint-py/dlint) — 确保 Python 代码安全的工具.
@@ -626,7 +626,7 @@
 
 - [bashate](https://github.com/openstack/bashate)  — bash 程序的代码样式强制执行. 输出格式旨在遵循 pycodestyle (pep8) 默认输出格式.
 - [i-Code CNES for Shell](https://github.com/lequal/i-CodeCNES) :warning: — Shell 和 Fortran（77 和 90）的开源静态代码分析工具.
-- [kmdr](https://kmdr.sh)  :warning: — 用于从终端学习命令的 CLI 工具.  kmdr 提供了对每个属性进行解释的命令分解.
+- [kmdr](https://github.com/ediardo/kmdr-cli)  :warning: — 用于从终端学习命令的 CLI 工具.  kmdr 提供了对每个属性进行解释的命令分解.
 - [sh](https://pkg.go.dev/mvdan.cc/sh/v3)  — 支持 bash 的 shell 解析器、格式化程序和解释器； 包括 shfmt
 - [shellcheck](https://www.shellcheck.net) — ShellCheck，一种静态分析工具，可为 bash/sh shell 脚本提供警告和建议.
 - [shellharden](https://github.com/anordal/shellharden) — 一个语法高亮工具和一个半自动化地重写脚本以符合 ShellCheck 的工具，主要集中在引用上.
@@ -667,7 +667,7 @@
 
 <h2 id="vim-script">Vim 脚本</h2>
 
-- [vint](https://github.com/Kuniwak/vint) :warning: — 由 Python 实现的快速且高度可扩展的 Vim 脚本语言 Lint.
+- [vint](https://github.com/Kuniwak/vint) — 由 Python 实现的快速且高度可扩展的 Vim 脚本语言 Lint.
 
 
 ## Multiple languages
@@ -686,7 +686,7 @@
 - [CAST Highlight](https://www.castsoftware.com/products/highlight) :copyright: — 商业静态代码分析，在本地运行，但将结果上传到其云端进行演示.
 - [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing) :copyright: — 不需要预编译的商业静态代码分析.
 - [ClassGraph](https://github.com/classgraph/classgraph) — 用于查询或可视化类元数据或类相关性的类路径和模块路径扫描器.
-- [Clayton](https://www.getclayton.com/)  :copyright: — Salesforce 的 AI 驱动的代码审查. 实时保护您的开发、实施最佳实践并控制您的技术债务.
+- [Clayton](https://www.getclayton.com/)  :copyright: — Salesforce 的 AI 驱动的代码审查. 实时保护您的开发、执行最佳实践并控制您的技术债务.
 - [coala](https://coala.io) - 用于创建代码分析的语言独立框架 - 支持 [over 60 languages](https://coala.io/languages) 默认.
 - [Cobra](https://spinroot.com/cobra) :copyright: — NASA 喷气推进实验室的结构源代码分析器.
 - [Codacy](https://www.codacy.com) :copyright: — 代码分析以更快地交付更好的代码.
@@ -729,7 +729,7 @@
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: — Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM](https://lgtm.com/)  :copyright: — 使用对源代码的查询来查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费用于开源. 以前的semme.
 - [LGTM.com](https://lgtm.com)  :copyright: — 对 GitHub 和 Bitbucket 进行深度代码分析，以发现安全漏洞和关键代码质量问题（使用 Semmle QL）. 拉取请求的自动代码审查； 公共存储库免费.
-- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一个可扩展的圈复杂度分析器，适用于许多编程语言，包括 C/C++（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
+- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一种可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter 可以处理任何类型的项目，这要归功于其 70 多个嵌入式 Linter，
  它的高级报告，可在任何 CI 系统或本地运行，
  通过辅助安装和配置，能够应用格式化和修复
@@ -766,7 +766,7 @@
 - [SonarCloud](https://sonarcloud.io)  :copyright: — 基于云的多语言静态代码分析. 历史、趋势、安全热点、拉取请求分析等. 开源免费.
 - [SonarLint for Visual Studio](https://vs.sonarlint.org) — SonarLint 是 Visual Studio 2015 和 2017 的扩展，可为开发人员提供有关注入 .NET 代码的新错误和质量问题的即时反馈.
 - [SonarQube](http://www.sonarqube.org) — SonarQube 是一个管理代码质量的开放平台.
-- [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新的软件包以最大程度地减少重大更改
+- [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新的包以最大程度地减少重大更改
 - [Soto Platform](https://www.hello2morrow.com/products/sotograph)  :copyright: — 静态分析工具套件，由 Sotoarc（架构分析）、Sotograph（质量分析）和 Sotoreport（质量报告）三个组件组成. 帮助发现架构和实现之间的差异、接口违规（例如子系统私有部分的外部访问、检测所有类、文件、包和通过循环关系强耦合的子系统等等.Sotograph 产品系列在 Windows 和 Linux 上运行. 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: — Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [sqlvet](https://github.com/houqp/sqlvet)  — 对 Go 代码库中的原始 SQL 查询执行静态分析，以发现潜在的运行时错误. 它检查 SQL 语法错误，识别可能导致 SQL 注入的不安全查询，确保列计数与 INSERT 语句中的值计数匹配，并验证表名和列名.
@@ -784,7 +784,6 @@
 - [Unibeautify](https://unibeautify.com)  — 带有 GitHub 应用程序的通用代码美化器. 支持 HTML、CSS、JavaScript、TypeScript、JSX、Vue、C++、Go、Objective-C、Java、Python、PHP、GraphQL、Markdown 等.
 - [Upsource](https://www.jetbrains.com/upsource) :copyright: — 具有静态代码分析和代码感知导航的代码审查工具，适用于 Java、PHP、JavaScript 和 Kotlin.
 - [Veracode](http://www.veracode.com/products/static-analysis-sast/static-code-analysis) :copyright: — Find flaws in binaries and bytecode without requiring source. Support all major programming languages: Java, .NET, JavaScript, Swift, Objective-C, C, C++ and more.
-- [Viezly](https://viezly.com)  :copyright: — 带有依赖关系图的代码审查工具. 通过更好的导航和代码分析改进团队的代码审查
 - [WALA](https://github.com/wala/WALA) — Java 字节码和相关语言以及 JavaScript 的静态分析功能.
 - [weggli](https://github.com/googleprojectzero/weggli)  — 用于 C 和 C++ 代码库的快速且强大的语义搜索工具. 它旨在帮助安全研究人员识别大型代码库中的有趣功能.
 - [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) :copyright: — WhiteHat Scout（针对开发人员）与 WhiteHat Sentinel Source（针对运营）相结合，支持 WhiteHat Top 40 和 OWASP Top 10.
@@ -803,7 +802,7 @@
 
 <h2 id="ansible">Ansible</h2>
 
-- [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+- [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
 
 <h2 id="arm">Azure 资源管理器</h2>
@@ -818,7 +817,7 @@
 加载地址：binbloom 可以解析原始二进制固件并确定其加载地址. 字节序：binbloom 可以使用启发式方法来确定固件的字节序.  UDS 数据库：binbloom 可以解析原始二进制固件并检查它是否包含包含 UDS 命令 ID 的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) — 一种二进制静态分析工具，可为 Windows 可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) :copyright: — 分析源代码和二进制文件以获取可重用代码、必要许可证和潜在安全方面的工具.
-- [bloaty](https://github.com/google/bloaty)  — 有没有想过是什么让你的二进制文件变大了？  Bloaty McBloatface 将向您显示二进制文件的大小配置文件，以便您了解内部空间占用的情况.  Bloaty 对二进制文件进行了深入分析. 使用自定义 ELF、DWARF 和 Mach-O 解析器，Bloaty 旨在准确地将二进制文件的每个字节归因于生成它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
+- [bloaty](https://github.com/google/bloaty)  — 有没有想过是什么让你的二进制文件变大了？  Bloaty McBloatface 将向您显示二进制文件的大小配置文件，以便您了解哪些内容占用了内部空间.  Bloaty 对二进制文件进行了深入分析. 使用自定义 ELF、DWARF 和 Mach-O 解析器，Bloaty 旨在准确地将二进制文件的每个字节归因于生成它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  — 找出在您的可执行文件中占用大部分空间的内容. 支持 ELF (Linux, BSD)、Mach-O (macOS) 和 PE (Windows) 二进制文件.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) — cwe_checker 在二进制可执行文件中发现易受攻击的模式.
 - [Ghidra](https://ghidra-sre.org) — 由 NSA 研究局开发的一套软件逆向工程 (SRE) 工具套件，用于支持网络安全任务
@@ -826,7 +825,7 @@
 - [Jakstab](https://github.com/jkinder/jakstab) — Jakstab 是一个基于抽象解释的集成反汇编和静态分析框架，用于设计对可执行文件的分析并恢复可靠的控制流图.
 - [JEB Decompiler](https://www.pnfsoftware.com/)  :copyright: — 反编译和调试二进制代码. 分解和分析文档文件.  Android Dalvik、MIPS、ARM、Intel x86、Java、WebAssembly 和 Ethereum 反编译器.
 - [Manalyze](https://github.com/JusticeRage/Manalyze) — 一种静态分析器，用于检查可移植可执行文件中的恶意内容.
-- [mcsema](https://github.com/lifting-bits/mcsema)  — 用于将 x86、amd64、aarch64、sparc32 和 sparc64 程序二进制文件提升到 LLVM 位码的框架. 它将可执行二进制文件从本机机器代码转换（“提升”）为 LLVM 位码，这对于执行程序分析方法非常有用.
+- [mcsema](https://github.com/lifting-bits/mcsema)  — 用于将 x86、amd64、aarch64、sparc32 和 sparc64 程序二进制文件提升为 LLVM 位码的框架. 它将可执行二进制文件从本机机器代码转换（“提升”）为 LLVM 位码，这对于执行程序分析方法非常有用.
 - [Nauz File Detector](https://github.com/horsicq/Nauz-File-Detector) — 适用于 Windows、Linux 和 MacOS 的静态链接器/编译器/工具检测器.
 - [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
 - [VMware chap](https://github.com/vmware/chap) — chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption.  It is sufficiently reliable that it can be used in automation to catch leaks before  they are committed. As an interactive tool, it helps explain memory growth,  can identify some forms of corruption, and supplements a debugger  by giving the status of various memory locations. 
@@ -875,9 +874,9 @@
 - [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle 是一种基于用于 Chef 食谱的 RuboCop Ruby linting 工具的 linting 工具.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [foodcritic](http://www.foodcritic.io) — 检查 Chef 食谱中常见问题的 lint 工具.
-- [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+- [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 - [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) — 检查您的 Puppet 清单是否符合样式指南.
@@ -898,11 +897,11 @@
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) :warning: — Lint 并验证 Dockerfile 标签.
 - [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — 更智能的 Dockerfile linter，可帮助您构建最佳实践 Docker 映像.
-- [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+- [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
-- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
+- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 - [OpenSCAP](https://www.open-scap.org/) — 一套自动化审计工具，用于按照 NIST 认证的安全内容自动化协议 (SCAP) 检查配置和已知漏洞.
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器原生应用程序保护，提供对容器化应用程序的可见性和控制.
@@ -971,9 +970,9 @@
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 - [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
-- [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+- [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
 
@@ -1070,7 +1069,7 @@
 - [Gitleaks](https://github.com/zricethezav/gitleaks) — 一种 SAST 工具，用于检测 git repos 中的密码、api 密钥和令牌等硬编码机密.
 - [gokart](https://github.com/praetorian-inc/gokart)  — Golang 安全分析，重点是尽量减少误报. 它能够跟踪变量和函数参数的来源，以确定输入源是否安全.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  — iblessing 是一个 iOS 安全漏洞利用工具包. 它可用于逆向工程、二进制分析和漏洞挖掘.
-- [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+- [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) — Lint 一个 npm 或 yarn lockfile 来分析和检测安全问题
 - [njsscan](https://opensecurity.in) — 一个静态应用程序测试 (SAST) 工具，可以使用来自 libsast 的简单模式匹配器和语法感知语义代码模式搜索工具 semgrep 在您的 node.js 应用程序中找到不安全的代码模式.
 - [NodeJSScan](https://opensecurity.in)  — 由 libsast 和 semgrep 提供支持的 Node.js 应用程序的静态安全代码扫描程序，构建在 njsscan cli 工具上. 它具有一个 UI，其中包含有关应用程序安全状态的各种仪表板.
@@ -1111,7 +1110,7 @@
 
 <h2 id="terraform">地形</h2>
 
-- [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
+- [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 

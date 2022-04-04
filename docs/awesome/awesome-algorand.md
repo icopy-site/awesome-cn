@@ -234,6 +234,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
 - [AgorHash](http://www.agorhash.com/) - 公共、无需许可、去中心化和不可审查的言论自由协议.
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
+- [algofractals](https://github.com/aorumbayev/algofractals) - Mint 随机生成带有嵌入式 ARC69 标签的 mandelbrot 分形.
 
 ## ARCs
 

@@ -75,7 +75,7 @@
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - 连接到数据库以在 IPython 或 IPython Notebook 中发出 SQL 命令.
 - [iredis](https://github.com/laixintao/iredis) - 带有自动完成和语法突出显示的 Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - 用于 PostgreSQL 的顶级管理工具.
-- [pg_activity](https://github.com/julmon/pg_activity) - 用于 PostgreSQL 服务器活动监控的顶级应用程序.
+- [pg_activity](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
@@ -95,6 +95,7 @@
 
 ### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - 利用幂等 DDL 脚本概念的数据库配置即代码工具.
+- [Atlas](https://github.com/ariga/atlas) - 检查并将更改应用到您的数据库架构.
 - [Bytebase](https://github.com/bytebase/bytebase) - 面向团队的基于 Web、零配置、无依赖关系的数据库架构更改和版本控制工具.
 - [flyway](https://github.com/flyway/flyway) - 数据库迁移工具.
 - [gh-ost](https://github.com/github/gh-ost) - MySQL 的在线模式迁移.
@@ -114,7 +115,6 @@
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
 
 ### Diagrams
-- [dbdiagram.io](https://dbdiagram.io) - 快速简单的工具，可帮助您使用简单的 DSL 语言快速绘制数据库关系图和流程.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
 
 ### Documentations
@@ -167,8 +167,8 @@
 
 
 ## Scripts
-- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、即时文档和 SQL Server 的一般管理需求.
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的数据库分析和管理小脚本，由我们的 PostgreSQL 专家团队创建.
+- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
 - [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - 用于测量 PostgreSQL 索引和表中的统计膨胀的查询.
 - [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  - 检查您的数据库是否遵循以下规则的 SQL 测试<https://wiki.postgresql.org/wiki/Don't_Do_This> .
 - [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
@@ -186,12 +186,14 @@
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
 - [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
+- [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
 - [pgDash](https://pgdash.io) - 测量和跟踪 PostgreSQL 数据库的各个方面.
 - [PgHero](https://github.com/ankane/pghero) - Postgres 的性能仪表板 - 健康检查、建议的索引等.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - 从正在运行的 PostgreSQL 服务器收集和显示信息和统计信息.
 - [pgMustard](https://www.pgmustard.com) - Postgres 的用户界面解释计划，以及提高性能的提示.
 - [pgstats](https://github.com/gleu/pgstats) - 收集 PostgreSQL 统计数据，并将它们保存在 CSV 文件中或将它们打印到标准输出上.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
+- [Promscale](https://github.com/timescale/promscale) - 由 SQL 支持的度量和跟踪的开源可观察性后端.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
 
 ### Prometheus
@@ -212,11 +214,6 @@
 - [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
 
 
-## Administration
-- [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
-- [pgslice](https://github.com/ankane/pgslice) - Postgres 分区就像馅饼一样简单.
-
-
 ## HA/Failover/Sharding
 - [Citus](https://github.com/citusdata/citus) - Postgres 扩展，将您的数据和查询分布在多个节点上.
 - [patroni](https://github.com/zalando/patroni) - 带有 ZooKeeper、etcd 或 Consul 的 PostgreSQL 高可用性模板.
@@ -224,6 +221,7 @@
 - [stolon](https://github.com/sorintlab/stolon) - 用于 PostgreSQL 高可用性的云原生 PostgreSQL 管理器.
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - 用于自动故障转移和高可用性的 Postgres 扩展和服务.
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL 复制监控和故障转移守护进程.
+- [pgslice](https://github.com/ankane/pgslice) - Postgres 分区就像馅饼一样简单.
 - [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - Postgres 的高可用性，基于行业参考 Pacemaker 和 Corosync.
 - [postgresql_cluster](https://github.com/vitabaks/postgresql_cluster)  - PostgreSQL 高可用性集群（基于“Patroni”和“DCS(etcd)”）. 使用 Ansible 自动部署.
 - [Vitess](https://github.com/vitessio/vitess) - 通过通用分片实现 MySQL 水平扩展的数据库集群系统.
@@ -255,7 +253,7 @@
 
 ## Distributions
 - [DBdeployer](https://github.com/datacharmer/dbdeployer) - 轻松部署 MySQL 数据库服务器的工具.
-- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
+- [dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell 模块，您可能会将其视为命令行 SQL Server Management Studio.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - 打包为标准 Mac 应用程序的全功能 PostgreSQL 安装.
 - [BigSQL](https://www.bigsql.org) - 对开发人员友好的 Postgres 发行版.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - 基于 Web 的 PostgreSQL 管理前端，它捆绑了多个与 PostgreSQL 一起使用的实用程序和应用程序.
@@ -318,6 +316,7 @@
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 强大的 GUI 工具，用于创建大量真实的测试数据.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 小而强大的 GUI 工具，用于使用大量真实的测试数据填充 Oracle 模式.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
+- [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充具有真实测试数据的选定表或整个数据库. 为 Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS 生成测试数据.
 

@@ -62,7 +62,7 @@
 - [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - 涵盖嵌入和文化影响的列表，由 iOS 和 macOS 开发人员社区制作.
 - [Time Zone Database](https://www.iana.org/time-zones) - 代表全球许多代表性地点的当地时间历史的代码和数据.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - 计时中的大多数特质都可以在历史中找到解释.
-- [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你为什么.
+- [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区听起来可能是个好主意，但有很多复杂情况使其并非如此.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 如果你能提供帮助，一个关于为什么你永远不应该处理时区的视频.
 - [\$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历会计的后果.
@@ -94,12 +94,12 @@
 
 ## Human Identity
 
-- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - The article that started it all.
+- [Falsehoods about Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) - 开始这一切的文章.
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上述文章的重新审视版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能真正定义一个有严格规则的家庭.
 - 关于性别的谎言： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
-- [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - 姓名与性别和国际化的交叉问题.
+- [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - Issues at the intersection of names and gender and internationalization.
 - [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 如何将婚姻存储在数据库中，同时解决关于性别、命名和关系的大部分谎言.
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 世界各地人们的名字有何不同，对 Web 有何影响？
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - 关于虚假的实施如何导致安全漏洞的有趣看法.
@@ -131,6 +131,10 @@
 ## Multimedia
 
 - [Falsehoods about Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - 涵盖所有内容：视频解码和播放、文件、图像缩放、色彩空间和转换、显示和字幕.
+- [Horrible edge cases to consider when dealing with music](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html) - 音乐目录数据充满了疯狂的东西.
+- [MusicBrainz database schema](https://musicbrainz.org/doc/MusicBrainz_Database/Schema) - 一个开源项目和数据库，似乎解决了音乐目录管理的复杂性.
+- [DDEX](https://ddex.net/standards/) - 音乐元数据的行业标准，包括存档、录音、销售和使用报告、版税和许可交易.
+- [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - 格式化音乐、艺术和元数据以提高可发现性的质量保险指南.
 
 ## Networks
 
@@ -201,7 +205,7 @@
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) first.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) 第一的.
 
 ## Footnotes
 
