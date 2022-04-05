@@ -10,6 +10,7 @@
 
 有关 `awesome-db-tools` 的更新以及有关数据库/工具/SQL 的想法/新闻，请关注我 [@GraminMaksim](https://twitter.com/GraminMaksim)
 
+  - [Catalog](#catalog) 
   - [Replication](#replication) 
 
 ## IDE
@@ -36,14 +37,14 @@
 - [Slashbase](https://github.com/slashbase/slashbase)  - 用于数据库的开源协作 IDE. 直接从您的浏览器连接到您的数据库、浏览数据、运行大量 SQL 命令或与您的团队共享 SQL 查询.
 - [Toad](https://www.quest.com/toad/)  - Toad 是面向开发人员、管理员和数据分析师的首选数据库解决方案. 使用单一数据库管理工具管理复杂的数据库更改.
 - [Toad Edge](https://www.toadworld.com/products/toad-edge) - MySQL 和 Postgres 的简化数据库开发工具.
-- [TOra](https://github.com/tora-tool/tora) - TOra 是用于 Oracle、MySQL 和 PostgreSQL 数据库的开源 SQL IDE.
+- [TOra](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
 - [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 免费创建、管理、查询和探索 Valentina DB、MySQL、MariaDB、PostgreSQL 和 SQLite 数据库.
 
 
 ## GUI
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
-- [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
+- [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
@@ -75,7 +76,7 @@
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - 连接到数据库以在 IPython 或 IPython Notebook 中发出 SQL 命令.
 - [iredis](https://github.com/laixintao/iredis) - 带有自动完成和语法突出显示的 Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - 用于 PostgreSQL 的顶级管理工具.
-- [pg_activity](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
+- [pg_activity](https://github.com/julmon/pg_activity) - 用于 PostgreSQL 服务器活动监控的顶级应用程序.
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
@@ -102,6 +103,7 @@
 - [liquibase](https://github.com/liquibase/liquibase) - 用于跟踪、管理和应用数据库架构更改的独立于数据库的库.
 - [migra](https://github.com/djrobstep/migra) - 与 diff 类似，但适用于 PostgreSQL 模式.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate)  - 专为 postgres 构建的 Node.js 数据库迁移管理.  （但也可以用于其他符合 SQL 标准的数据库 - 例如 CockroachDB.）
+- [pg-osc](https://github.com/shayonj/pg-osc) - 用于在 PostgreSQL 中进行零停机模式更改和回填的简单 CLI 工具.
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明式数据库架构迁移工具，它使用声明式数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供将 PostgreSQL 数据库模式描述为 YAML 的实用程序.
 - [Reshape](https://github.com/fabianlindfors/reshape) - 一个易于使用、零停机时间的 Postgres 架构迁移工具.
@@ -124,7 +126,8 @@
 - [Schema Spy](https://github.com/schemaspy/schemaspy) - 将您的数据库生成为 HTML 文档，包括实体关系图.
 - [tbls](https://github.com/k1LoW/tbls) - 用于记录数据库的 CI 友好工具，用 Go 编写.
 
-### Modelers
+### Design
+- [Database Design](https://github.com/alextanhongpin/database-design) - 设计健壮的数据库模式的有用技巧.
 - [DBDiagram](https://dbdiagram.io) - 一个免费、简单的工具，只需编写代码即可绘制 ER 图.
 - [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler)  - 用于高质量数据模型的易于使用的数据库建模软件. 它是面向数据建模师和数据架构师的完整数据建模解决方案.
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
@@ -185,14 +188,16 @@
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - 一个安全、简单、无代理的远程服务器监控工具，具有强大的功能，使您的监控尽可能有效.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
 - [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
-- [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
 - [pgDash](https://pgdash.io) - 测量和跟踪 PostgreSQL 数据库的各个方面.
 - [PgHero](https://github.com/ankane/pghero) - Postgres 的性能仪表板 - 健康检查、建议的索引等.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - 从正在运行的 PostgreSQL 服务器收集和显示信息和统计信息.
+- [pgMonitor](https://github.com/CrunchyData/pgmonitor) - 多合一工具，可轻松创建环境以可视化 PostgreSQL 集群的运行状况和性能.
 - [pgMustard](https://www.pgmustard.com) - Postgres 的用户界面解释计划，以及提高性能的提示.
 - [pgstats](https://github.com/gleu/pgstats) - 收集 PostgreSQL 统计数据，并将它们保存在 CSV 文件中或将它们打印到标准输出上.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
+- [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 在您的 PostgreSQL 数据库上提取和提供指标的服务.
+- [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
 - [Promscale](https://github.com/timescale/promscale) - 由 SQL 支持的度量和跟踪的开源可观察性后端.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
 
@@ -202,14 +207,14 @@
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
-- [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
+- [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 一起使用，为 Oracle 数据库提供多层监控、性能和可用性报告和测量，以及服务器性能指标.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - 这是 PostgreSQL 数据库的 Zabbix 监控模板.
 - [Pyora](https://github.com/bicofino/Pyora) - 用于监控 Oracle 数据库的 Python 脚本.
 - [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA 是快速、灵活且持续开发的插件，用于监控您的 RDBMS.
 
 
 ## Testing
-- [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对您的数据库代码进行简单的测试驱动开发.
+- [DbFit](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 - [RegreSQL](https://github.com/dimitri/regresql) - 回归测试您的 SQL 查询.
 - [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
 
@@ -283,12 +288,13 @@
 - [CodeBuff](https://github.com/antlr/codebuff) - 通过机器学习实现与语言无关的漂亮打印.
 - [pgFormatter](https://github.com/darold/pgFormatter) - 一个 PostgreSQL SQL 语法美化器.
 - [Poor SQL](https://poorsql.com) - 即时免费和开源的 T-SQL 格式. 
-- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - 用于漂亮打印 SQL 查询的 JavaScript 库.
 
 ### Parsers
 - [General SQL Parser](https://www.sqlparser.com) - SQL 的解析、格式化、修改和分析.
 - [jOOQ](https://github.com/jOOQ/jOOQ) - 解析 SQL，将其转换为其他方言，并允许表达式树转换.
 - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - 解析 SQL 语句并将其转换为 Java 类的层次结构.
+- [libpg_query](https://github.com/pganalyze/libpg_query) - 用于在服务器环境之外访问 PostgreSQL 解析器的 C 库.
 - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - 将 SQL 解析为 JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - 用于 Python 的非验证 SQL 解析器.
 
@@ -298,6 +304,7 @@
 - [csvq](https://github.com/mithrandie/csvq) - 用于 CSV 的类似 SQL 的查询语言.
 - [dsq](https://github.com/multiprocessio/dsq) - 用于针对 JSON、CSV、Excel、Parquet 等运行 SQL 查询的命令行工具.
 - [OctoSQL](https://github.com/cube2222/octosql) - 查询工具，允许您使用 SQL 连接、分析和转换来自多个数据库和文件格式的数据.
+- [osquery](https://github.com/osquery/osquery) - SQL 驱动的操作系统检测、监控和分析.
 - [Resmo](https://www.resmo.com) - 使用 SQL 审计和评估资源.
 - [Steampipe](https://github.com/turbot/steampipe) - 使用 SQL 即时查询您的云服务（AWS、Azure、GCP 等）.
 - [TextQL](https://github.com/dinedal/textql) - 针对 CSV 或 TSV 等结构化文本执行 SQL.
@@ -307,9 +314,18 @@
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL 语言服务器.
 - [sqls](https://github.com/lighttiger2505/sqls) - 用 Go 编写的 SQL 语言服务器.
 
+### Plan
+- [pev2](https://github.com/dalibo/pev2) - 一个 VueJS 组件，用于显示 PostgreSQL 执行计划的图形化可视化.
+- [pg_flame](https://github.com/mgartner/pg_flame) - Postgres `EXPLAIN ANALYZE` 输出的火焰图生成器.
+
 
 ## Data
 - [dbt](https://github.com/dbt-labs/dbt-core) - 通过简单地编写 select 语句来转换您的数据，而 dbt 处理将这些语句转换为数据仓库中的表和视图.
+
+### Catalog
+- [Amundsen](https://github.com/amundsen-io/amundsen) - 元数据驱动的应用程序，用于提高数据分析师、数据科学家和工程师在与数据交互时的工作效率.
+- [DataHub](https://github.com/datahub-project/datahub) - 现代数据堆栈的元数据平台.
+- [Marquez](https://github.com/MarquezProject/marquez) - 收集、聚合和可视化数据生态系统的元数据.
 
 ### Generators
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - 为开发、测试和培训目的生成、混淆（匿名化/假名化）和迁移数据.
