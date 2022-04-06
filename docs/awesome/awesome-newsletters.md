@@ -167,7 +167,7 @@
 
 ### Go
 
-- [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周通讯. [Archive](https://golangweekly.com/issues).
+- [Go Newsletter](https://golangweekly.com/). A weekly newsletter about the Go programming language. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 每周概述最流行的围棋新闻、文章和库.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划的博客和工具.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于 Go 编程语言的葡萄牙语每周通讯.
@@ -190,7 +190,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
 - [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
@@ -331,6 +331,8 @@
 - [Flutter Weekly](https://flutterweekly.net/) .  Flutter 粉丝为 Flutter 粉丝提供的每周时事通讯.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) . 面向移动开发人员的每周通讯 - iOS、Android、Flutter 和 React Native.
 - [Flutter Croissants](https://flutter-croissants.com/) . 每周一接收有关 Flutter 和移动世界的所有新闻.
+- [Flutter Digest](https://flutter-digest.com/) . 关于 Flutter 和 Dart 的每周法语时事通讯.
+- [Android Croissants](https://android-croissants.com/) . 每个星期一早上，都会收到关于 Android 的最新消息、教程、提示…….
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
@@ -352,7 +354,7 @@
 
 ## Technology in General
 
-- [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
+- [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是一份每日精选的时事通讯，其中包含科技领域最有趣故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) . 每天通过来自 Web 上的群发文章的电子邮件，随时了解当今最流行的科技新闻.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) . 每个工作日有 4 个关于（主要是研究导向的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) . 由 Adrian Colyer 选出的每个工作日早上来自 CS 世界的有趣/有影响/重要的论文.
@@ -392,7 +394,7 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.

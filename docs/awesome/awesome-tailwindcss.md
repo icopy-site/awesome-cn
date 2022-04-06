@@ -32,7 +32,7 @@
 
 **传奇**：官方资源
 
-- [Website](https://tailwindcss.com) - 官方 Tailwind CSS 网站.
+- [Website](https://tailwindcss.com) - Official Tailwind CSS website.
 - [Repository](https://github.com/tailwindcss/tailwindcss) - 官方 Tailwind CSS 存储库.
 - [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - 与其他社区成员就 Tailwind 进行联系的官方场所.
 - [Tailwind UI](https://tailwindui.com) - 使用 Tailwind CSS 制作的组件库.
@@ -172,6 +172,7 @@
 - [Hypercolor](https://hypercolor.dev/) - 带有方向选项的预配置 Tailwind CSS 渐变集合.
 - [Palettolithic](https://palettolithic.com) - 基于一种颜色生成和谐调色板.
 - [Tailwind Gradient Generator](https://tailwindcomponents.com/gradient-generator) - 使用零行代码创建完美的 Tailwind CSS 渐变.
+- [Ui Colors](https://uicolors.app/create) - Tailwind CSS 的调色板生成器.
 - [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - 带有 Tailwind CSS v2 颜色的 Figma 库.
 - [Colorkraken](https://github.com/Bouhoum/colorkraken) - Tailwind CSS 的颜色阴影生成器.
 - [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - 使用 Babel 编译代码时添加自定义暗类的 Babel 插件.
@@ -219,7 +220,7 @@
 - [clb](https://github.com/crswll/clb) - clb（类列表生成器）是一个实用函数，它基于 [Stitches](https://stitches.dev/) 像 API.
 - [Inspect Flow](https://inspectflow.io) - Tailwind CSS 的完整开发人员工具.
 - [twined-components](https://github.com/lowfront/twined-components) - 样式化组件的扩展组件，它优先考虑在 Tailwind CSS 中使用的类名.
-- [re-tailwind](https://github.com/phthhieu/re-tailwind) - ReasonML utility that generates Tailwind classes.
+- [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
 - [Maizzle](https://maizzle.com/) - 使用 Tailwind CSS 进行快速电子邮件原型设计的框架.

@@ -141,7 +141,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)  |  7 周 |  8-10 小时/周 | 没有 | [chat](https://discord.gg/RfqAmGJ)
 [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)  |  6 周 |  8-10 小时/周 | 如何编码：简单数据 | [chat](https://discord.gg/kczJzpm)
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码 ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码（[Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3 周 |  4-8 小时/周 | 编程语言，A 部分 | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3 周 |  4-8 小时/周 | 编程语言，B 部分 | [chat](https://discord.gg/8EZUVbA)
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)  |  4 周 |  4 小时/周 | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)
@@ -164,7 +164,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) ) |  13 周 |  6-10 小时/周 | 替代课程涵盖本课程和以下 2 门课程 | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)  |  13 周 |  5-10 小时/周 |  - | 微积分1A | [chat](https://discord.gg/sddAsZg)
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  |  6 周 |  5-10 小时/周 |  - | 微积分1B | [chat](https://discord.gg/FNEcNNq)
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ) |  13 周 |  5 小时/周 | 具有问题集解决方案的替代版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) .  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) ) |  13 周 |  5 小时/周 | 具有问题集解决方案的替代版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) .  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
@@ -423,7 +423,7 @@ or
 并获得倾听反馈的经验——无论是正面的还是负面的.
 
 最终项目评估有第二个目的：评估 OSSU、
-通过其社区和课程，成功地完成了指导独立学习者获得世界一流的计算机科学教育的使命.
+通过其社区和课程，成功地完成了指导独立学习者获得世界级计算机科学教育的使命.
 
 ### Cooperative work
 
@@ -460,21 +460,21 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
-现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.
+现在您已经拥有了我们的官方版块，您只需在学习过程中将卡片传递到“Doing”列或“Done”列.
 
 我们还提供**标签**，以帮助您更好地控制整个过程.
 每个标签的含义是：
 
 - `主要课程`：带有该标签的卡片代表我们课程中列出的课程.
-- `Extra Resources`：带有该标签的卡片代表学生添加的课程.
+- “额外资源”：带有该标签的卡片代表学生添加的课程.
 - `Doing`：带有该标签的卡片代表学生当前正在学习的课程.
 - `完成`：带有该标签的卡片代表学生完成的课程.
 这些卡片还应该包含至少一个项目/文章的链接，这些项目/文章是利用在此类课程中获得的知识构建的.
 - `Section`：带有该标签的卡片代表我们课程中的部分.
-那些带有“Section”标签的卡片只是为了帮助完成列的组织.
+那些带有“Section”标签的卡片只是为了帮助组织完成列.
 您应该将 *Course&#39;s cards* 放在其各自的 *Section&#39;s card* 下方.
 
 该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们的进步的能力.
