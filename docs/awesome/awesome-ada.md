@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/><br/>
 <div align="center">
-	<img width=300px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.png" alt="Awesome">
+	<img width=450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_2.svg" alt="Awesome">
 </div>
 
 <br><br>
@@ -180,7 +180,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -467,7 +467,7 @@
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 编解码器，例如 Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - Ada 中 Axon 的 ABF 文件格式（电生理学，最常见）的访问例程库.
-- [there-toml] - 现有的 TOML 解析器.
+- [ada-toml] - 存在的 TOML 解析器.
 
 [protobuf]：https://github.com/reznikmm/protobuf
 [ada-toml]：https://github.com/pmderodat/ada-toml
@@ -524,7 +524,7 @@
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
-- [ssprep](https://github.com/persan/ssprep.git) - 一个类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
+- [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，可在 Ada 程序中输出到控制台.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，可从文件夹层次结构中选择文件，概率与其大小成正比.

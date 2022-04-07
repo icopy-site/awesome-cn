@@ -31,7 +31,7 @@
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - 易于测试和工作的 Rust 代码与博客文章来解释它们.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - 一个完全用 Rust 编写的网络应用程序，用于一个愚蠢的派对游戏.
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级（~2mb）桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view)，作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
-- [yew-react-example](https://github.com/hobofan/yew-react-example) - 该项目展示了如何使用 Yew 组件中的 React 组件创建 Web 应用程序.
+- [yew-react-example](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 - [Kirk](https://github.com/stkevintan/Kirk) - 只是一个 Rust WebAssembly 博客.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - 学习 Rust 和异步的玩具项目，可以部署到网络上.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
@@ -70,7 +70,7 @@
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 具有各种算法的交互式实现的网站（目前仅排序算法）.
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - 软件开发人员组合， [Live Demo](https://maeurer.dev/).
 - [zzhack](https://github.com/youncccat/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/technology).
-- [Rquote](https://github.com/Altair-Bueno/rquote) - Rquote is a web application built using Rust and WebAssembly. It fetches Anime quotes from the Animechan API. [Live Demo](https://rquote.vercel.app/).
+- [Rquote](https://github.com/Altair-Bueno/rquote)  - Rquote 是一个使用 Rust 和 WebAssembly 构建的 Web 应用程序. 它从 Animechan API 获取动漫引语. [Live Demo](https://rquote.vercel.app/).
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 示例演示了Yew服务器端的潮汐和冲浪渲染，它需要Yew的**开发版本**.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款真实的派对游戏，玩家可以在其中尽可能快地猜测图像的内容. 
@@ -110,6 +110,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 协调 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/futursolo/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
+- [yewv](https://github.com/yewv/yewv) - 为 Yew 打造的闪电般快速的状态管理模块，以性能和简单性为第一要务.
 
 ### Utils
 
