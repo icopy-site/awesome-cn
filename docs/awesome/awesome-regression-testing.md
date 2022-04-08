@@ -82,7 +82,7 @@
 - [HeadSpin](https://www.headspin.io/) - HeadSpin 的回归测试为您提供了一个强大的比较工具，用于分析新应用程序构建、操作系统版本、功能添加、位置等的退化.
 - [LambdaTest](https://www.lambdatest.com/) - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.
 - [screener.io](https://screener.io) - 对于 React，看起来是开源的.
-- [applitools](https://applitools.com) - Cloud base visual tests.
+- [applitools](https://applitools.com) - 基于云的视觉测试.
 - [percy.io](https://percy.io) - 网络应用程序的持续视觉评论.
 - [screenster.io](http://screenster.io) - 基于云的 Web 和移动 UI 自动化测试平台.
 - [browserling](https://www.browserling.com) - 实时交互式跨浏览器测试.
@@ -102,6 +102,8 @@
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - 用于视觉回归测试的开源自托管服务
 - [Micoo](https://github.com/Mikuu/Micoo) - 所有UI应用可视化回归解决方案的开源服务
 - [TestingBot](https://testingbot.com)  - 提供 +3600 个浏览器来运行自动化视觉测试. 开源免费.
+- [Preflight](https://preflight.com)  - 最简单的视觉回归测试和自动化 Web 测试工具.  （有限）免费使用.
+- [Preflight: Cypress Recorder](https://cypress.preflight.com) - 在您的浏览器中创建 AI 驱动的赛普拉斯测试/POM 模型，并为赛普拉斯自动执行电子邮件和视觉测试.
 
 ## Blog posts
 
@@ -110,7 +112,7 @@
 - [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - 使用 BackstopJS 的教程.
 - [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - 使用 BackstopJS 的教程.
 - [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - 为什么你应该使用 BackstopJS.
-- [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - PhantomCSS 简介.
+- [Pavels Jelisejevs: Visual Regression Testing with PhantomCSS](https://www.sitepoint.com/visual-regression-testing-with-phantomcss) - Introduction to PhantomCSS.
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome 正在颠覆传统的自动化测试方法.
 - [Visual regression testing using Jest, Chromeless and AWS Lambda](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - 使用 Chromeless 和 jest-image-snapshot 的教程.
 - [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - 简介 [Differencify](https://github.com/NimaSoroush/differencify) 以及如何使用它.
@@ -122,7 +124,6 @@
 - [theheadless.dev](https://theheadless.dev) - 包含实用指南和 Playwright 和 Puppeteer 的可运行示例的博客.
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - 如何使用 BackstopJS 自动化 Hugo 的回归测试
 - [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - 介绍如何使用 Mioo 服务进行视觉回归测试 
-
 
 ## Slideshows, talks and videos
 

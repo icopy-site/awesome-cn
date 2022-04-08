@@ -175,7 +175,7 @@ Rust 代码和资源的精选列表.
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) — 高性能可扩展 StatsD 兼容服务器.
 * [OpenTelemetry](https://crates.io/crates/opentelemetry)  — OpenTelemetry 提供一组 API、库、代理和收集器服务，以从您的应用程序中捕获分布式跟踪和指标. 您可以使用 Prometheus、Jaeger 和其他可观察性工具来分析它们. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
 * [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - 用于日志管理的云原生且极具成本效益的搜索引擎. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
-* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并支持设计系统和应用程序以提高可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
+* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并使设计系统和应用程序更具可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) — 高性能、日志、指标和事件路由器.
 
 ### Operating systems
@@ -197,7 +197,7 @@ Rust 代码和资源的精选列表.
 ### Security tools
 
 * [arvancloud/libinjection-rs](https://github.com/arvancloud/libinjection-rs) — Rust 绑定 [libinjection](https://github.com/client9/libinjection) [![build badge](https://api.travis-ci.org/arvancloud/libinjection-rs.svg?branch=master)](https://travis-ci.org/arvancloud/libinjection-rs)
-* [Cherrybomb](https://github.com/blst-security/cherrybomb) - 使用 CLI 工具停止半完成的 API 规范，该工具通过验证 API 规范来帮助您避免未定义的用户行为.
+* [Cherrybomb](https://github.com/blst-security/cherrybomb) - 使用 CLI 工具停止半完成的 API 规范，该工具通过验证 API 规范帮助您避免未定义的用户行为.
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) — 可编写脚本的网络身份验证破解程序 [![build badge](https://api.travis-ci.org/kpcyrd/authoscope.svg?branch=master)](https://travis-ci.org/kpcyrd/authoscope)
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) — 一个 TCP 连接劫持者，shijack 的 rust 重写 [![build badge](https://api.travis-ci.org/kpcyrd/rshijack.svg?branch=master)](https://travis-ci.org/kpcyrd/rshijack)
 * [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) — 半自动 OSINT 框架和包管理器 [![build badge](https://api.travis-ci.org/kpcyrd/sn0int.svg?branch=master)](https://travis-ci.org/kpcyrd/sn0int)
@@ -280,6 +280,7 @@ Rust 代码和资源的精选列表.
 * [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) — 查找和替换源文件中的文本 [![Run tests](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml)
 * [grex](https://github.com/pemistahl/grex) — 用于从用户提供的测试用例生成正则表达式的命令行工具和库 [![build badge](https://api.travis-ci.org/pemistahl/grex.svg?branch=master)](https://travis-ci.org/pemistahl/grex)
 * [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) — 一个简单快速的人类字符串搜索工具
+* [Melody](https://github.com/yoav-lavi/melody) - 一种编译为正则表达式并旨在更易于阅读和维护的语言 [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
 * [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) — ripgrep，还可以搜索 PDF、电子书、Office 文档、zip、tar.gz 等. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
 * [replicadse/complate](https://github.com/replicadse/complate) — 为标准化消息而设计的终端文本模板工具（如 GIT 提交）. [![crates.io](https://img.shields.io/crates/v/complate.svg)](https://crates.io/crates/complate) [![crates.io](https://img.shields.io/crates/d/complate?label=crates.io%20downloads)](https://crates.io/crates/complate) [![build badge](https://github.com/replicadse/complate/workflows/pipeline/badge.svg?branch=master)](https://github.com/replicadse/complate/actions)
 * [ripgrep](https://crates.io/crates/ripgrep) — 将 Silver Searcher 的可用性与 grep 的原始速度相结合 [![build badge](https://api.travis-ci.org/BurntSushi/ripgrep.svg?branch=master)](https://travis-ci.org/BurntSushi/ripgrep)
@@ -479,7 +480,7 @@ Rust 代码和资源的精选列表.
   * [PyO3/PyO3](https://github.com/PyO3/PyO3) — Python 解释器的 Rust 绑定 [![build badge](https://api.travis-ci.org/PyO3/pyo3.svg?branch=master)](https://travis-ci.org/PyO3/pyo3)
 * 红宝石
   * [d-unseductable/ruru](https://github.com/d-unseductable/ruru) — 用 Rust 编写的原生 Ruby 扩展 [![build badge](https://api.travis-ci.org/d-unseductable/ruru.svg?branch=master)](https://travis-ci.org/d-unseductable/ruru)
-  * [danielpclark/rutie](https://github.com/danielpclark/rutie) — native Ruby extensions written in Rust and vice versa [![Build Status](https://api.travis-ci.org/danielpclark/rutie.svg?branch=master)](https://travis-ci.org/danielpclark/rutie)
+  * [danielpclark/rutie](https://github.com/danielpclark/rutie) — 用 Rust 编写的原生 Ruby 扩展，反之亦然 [![Build Status](https://api.travis-ci.org/danielpclark/rutie.svg?branch=master)](https://travis-ci.org/danielpclark/rutie)
   * [tildeio/helix](https://github.com/tildeio/helix) — 用 Rust 编写 Ruby 类 [![build badge](https://api.travis-ci.org/tildeio/helix.svg?branch=master)](https://travis-ci.org/tildeio/helix)
 * 网络组装
   * [rhysd/wain](https://github.com/rhysd/wain) - wain: WebAssembly INterpreter 从零依赖的安全 Rust 中 [![build badge](https://github.com/rhysd/wain/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/rhysd/wain/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
@@ -554,7 +555,7 @@ Rust 代码和资源的精选列表.
 * 代码覆盖率
   * [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — 为 Rust 设计的代码覆盖工具 [![build badge](https://api.travis-ci.org/repositories/xd009642/tarpaulin.svg?branch=master)](https://travis-ci.org/xd009642/tarpaulin)
 * 持续集成
-  * [trust](https://github.com/japaric/trust) — Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate，并发布适用于 Linux、macOS 和 Windows 的二进制版本
+  * [trust](https://github.com/japaric/trust) — 一个 Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate，并发布适用于 Linux、macOS 和 Windows 的二进制版本
 * 框架和跑步者
   * [AlKass/polish](https://github.com/AlKass/polish) — 迷你测试/测试驱动框架 [![Build Status](https://api.travis-ci.org/AlKass/polish.svg?branch=master)](https://travis-ci.org/AlKass/polish) [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
   * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 一个货物扩展，用于简化在智能手机和其他小型处理器设备上运行库测试和工作台.
@@ -1222,7 +1223,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [achanda/ipnetwork](https://github.com/achanda/ipnetwork) — 在纯 Rust 中处理 IP 网络的库 [![build badge](https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master)](https://travis-ci.org/achanda/ipnetwork)
   * [candrew/netsim](https://github.com/canndrew/netsim) — 用于网络模拟和测试的 Rust 库 [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
 * 低级
-  * [actix/actix](https://github.com/actix/actix) — Rust 的 Actor 库 [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
+  * [actix/actix](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) — 自定义 TCP/UDP 协议定义
   * [libpnet/libpnet](https://github.com/libpnet/libpnet) — 跨平台的低级网络 [![build badge](https://api.travis-ci.org/libpnet/libpnet.svg?branch=master)](https://travis-ci.org/libpnet/libpnet)
   * [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
@@ -1456,7 +1457,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — 提出者 [Michael Gattozzi](https://github.com/mgattozzi) @RustConf 2017
 * 学习
   * [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming) - 社区策划的关于 Rust 的直播列表.
-  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — 乐于助人的 Rust 导师列表，他们愿意接受学员并就 Rust 和编程进行教育.
+  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — 一份乐于助人的 Rust 导师名单，他们愿意接受学员并向他们介绍 Rust 和编程.
   * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
   * [Easy Rust](https://github.com/Dhghomon/easy_rust) - 用简单的英语学习 Rust.
   * [exercism.org](https://exercism.org/tracks/rust) — 帮助您学习 Rust 新概念的编程练习.

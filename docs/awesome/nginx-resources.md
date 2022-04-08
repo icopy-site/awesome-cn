@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
+涵盖 Nginx、Nginx + Lua、OpenResty 和 Tengine 的资源集合.
 
-This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter: [@fcambus](https://twitter.com/fcambus)
+此列表由维护 [Frederic Cambus](https://www.cambus.net) . 如需更新，请在 Twitter 上关注我： [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -56,6 +56,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
 - [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
+- [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
 
 ## Modules development
 
@@ -136,4 +137,4 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 已放弃本作品的所有版权和相关或邻近权利.

@@ -53,7 +53,7 @@
 - [HypriotOS](http://blog.hypriot.com/about/) - 最小的基于 Debian 的操作系统，针对运行 Docker 进行了优化.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - 用于 ARM 设备的渗透测试和道德黑客 Linux 发行版.
 - [Kano OS](https://help.kano.me/hc/en-us/articles/360001063620-How-to-Install-Reinstall-Kano-OS-for-Raspberry-Pi) - 用于探索、创造和玩耍的开源操作系统——Raspberry Pi 和新的 Pi 3 免费.
-- [Lakka](http://lakka.tv) - 完全基于 RetroArch 的 Raspberry Pi 上的复古游戏.
+- [Lakka](http://lakka.tv) - 完全基于 RetroArch 构建的 Raspberry Pi 上的复古游戏.
 - [LibreELEC](https://libreelec.tv/) - 足够 Kodi 使用的操作系统
 - [Manjaro](https://manjaro.org/download/) - 用于 Raspberry Pi 的友好的开源 Linux 发行版.
 - [Minibian](https://minibianpi.wordpress.com/) - 最小的 Raspbian（比 Jessie Lite 轻）.
@@ -65,7 +65,7 @@
 - [OctoPi](https://octopi.octoprint.org/) - 3d 打印机的分发.
 - [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - OpenHAB 家庭自动化软件的预配置版本. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络附加存储 (NAS) 解决方案，包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，具有基于其稳定版 Leap 和滚动版 Tumbleweed 的映像. 可以找到许多 Pis 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4). 
+- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，具有基于其稳定版 Leap 和滚动版 Tumbleweed 的映像. 可以找到许多 Pis 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4).
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
 - [OSMC](https://osmc.tv/) - 基于 Kodi 的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型 DVS 系统允许您使用时间码乙烯基控制数字音乐文件.
@@ -76,7 +76,7 @@
 - [Raspbian](http://www.raspbian.org/) - Raspbian 是基于 Debian 的免费操作系统，针对 Raspberry Pi 硬件进行了优化.
 - [RasPlex](http://www.rasplex.com/) - 用于 Raspberry Pi 的 Plex 客户端.
 - [Recalbox](https://www.recalbox.com) - 在 Raspberry Pi 上拖放轻量级复古游戏和媒体中心.
-- [RetroPie](https://retropie.org.uk/) - Raspberry Pi 上的复古游戏.
+- [RetroPie](https://retropie.org.uk/) - Retro-gaming on the Raspberry Pi.
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi) - 非 Linux 操作系统起源于开发 ARM 微处理器的小组.
 - [Rocket Show](https://rocketshow.net) - 在舞台上实时播放同步的背景音轨、视频和 DMX 灯光序列. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [RuneAudio](http://www.runeaudio.com/) - 将嵌入式硬件变成 Hi-Fi 音乐播放器的免费和开源操作系统.
@@ -118,7 +118,7 @@
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - 一种将 Raspberry Pi OS 和其他操作系统安装到 SD 卡的简单方法，可与您的 Raspberry Pi 一起使用
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  - 在 Raspbian 上启动 QEMU 的简单工具，并对系统和内核进行必要的修改. 自动网络访问. 方便在您的 PC 中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 简单的应用程序/repo 将 Raspberry Pi 的 wlan0 接口桥接到通过以太网 (eth0) 插入其中的设备.
-- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都会启动完全配置并准备好工作. 或者玩.
+- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都启动完全配置并准备好工作. 或者玩.
 - [stressberry](https://github.com/nschloe/stressberry) - 对您的 Raspberry Pi 进行压力测试并绘制温度图.
 - [TorTiPi](https://github.com/r0hi7/tortipi) - 用于自动将 Raspberry Pi 转换为基于 Tor 的 wifi 热点的任务的 Shell 脚本.
 - [WebStation SYSMON](https://github.com/t0xic0der/sysmon) - 一个直观的可远程访问的系统性能监控和任务管理工具，适用于服务器和无头 Raspberry Pi 设置.
@@ -136,6 +136,7 @@
 - [Ceil](https://github.com/helmuthva/ceil) - 在裸机上运行 K8S 的自动配置 RPi 集群. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - 用于 Raspberry Pi 的 C++ 裸机环境.
 - [clockOS](https://github.com/iGerli/clockOS) - 使用 Raspberry Pi 显示器的简单智能桌面时钟.
+- [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - 可通过浏览器和触摸屏控制的高级鸡尾酒制作机.
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - Google 员工的一个开源项目，旨在将 Raspberry Pi 变成一个简单、微型的个人 Web 服务器和基于 Web 的开发环境.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky 几乎可以被任何带有 USB 端口的设备识别为 USB HID，因此您可以像运行键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - 监控 DOCSIS 有线网络下游负载的工具.
@@ -164,7 +165,7 @@
 - [Occu-Pi](https://github.com/bww/occu-pi) - Occu-pi 的控制器软件，一个非常棒的浴室门传感器.
 - [P4wnP1](https://github.com/mame82/P4wnP1) - P4wnP1 是一个高度可定制的 USB 攻击平台，基于低成本 Raspberry Pi Zero 或 Raspberry Pi Zero W（HID 后门所需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - 捕获图像，与谷歌物联网云平台生态系统集成.
-- [pi_payments](https://github.com/anshulahuja98/pi_payments) - Payment module based on RFID.
+- [pi_payments](https://github.com/anshulahuja98/pi_payments) - 基于RFID的支付模块.
 - [Pi-hole](https://pi-hole.net/) - 互联网广告的黑洞.
 - [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP 以通过 Web UI 或 VNC 使用 FullHD 视频、鼠标、虚拟驱动器、IPMI、Wake-on-LAN 和许多其他东西来管理远程计算机.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - 来自 Rclone 远程存储服务等的远程无头多功能 PiCamera 操作.
@@ -253,7 +254,7 @@
 - [Raspberry Pi Beginner's Guide v2](https://magpi.raspberrypi.com/books/beginners-guide-2nd-ed) - 了解如何开始使用您的 **Raspberry Pi 4**.
 - [Raspberry Pi Beginner's Guide v3](https://magpi.raspberrypi.com/books/beginners-guide-3rd-ed) - 了解如何开始使用您的 **Raspberry Pi 4**.
 - [Raspberry Pi Beginner's Guide v4](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - 了解如何开始使用您的 **Raspberry Pi 4 和 Raspberry Pi 400**.
-- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - 了解如何将您的高质量相机或相机模块与您的 Raspberry Pi 一起使用. 
+- [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - 了解如何将您的高质量相机或相机模块与您的 Raspberry Pi 一起使用.
 - [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - 一系列 Raspberry Pi 项目，包含项目指南和 Raspberry Pi 产品评论.
 - [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - 第二个 Raspberry Pi 项目集合，包含项目指南和 Raspberry Pi 产品评论.
 - [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - 第三个 Raspberry Pi 项目集合，包含项目指南和 Raspberry Pi 产品评论.
@@ -261,7 +262,7 @@
 - [Raspberry Pi Projects Book 5](https://magpi.raspberrypi.com/books/projects-5) - 第五个 Raspberry Pi 项目集合，包含项目指南和 Raspberry Pi 产品评论.
 - [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - 关于如何设置您的 Raspberry Pi 来玩经典游戏以及如何制作自己的游戏的指南.
 - [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - 帮助您充分利用 Raspberry Pi 计算机的指南、基本信息、项目创意、教程和评论.
-- [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022)  - 帮助您充分利用 Raspberry Pi 计算机的指南、基本信息、项目创意、教程和评论.  **为 Raspberry Pi Pico 更新.** 
+- [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022)  - 帮助您充分利用 Raspberry Pi 计算机的指南、基本信息、项目创意、教程和评论.  **为 Raspberry Pi Pico 更新.**
 
 ### Tutorials
 
