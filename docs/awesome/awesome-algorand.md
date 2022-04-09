@@ -55,7 +55,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Crash Courses
 
-- [Algorand School](https://github.com/cusma/algorand-school) - Algorand 学校速成课程幻灯片.
+- [Algorand School](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
 
 ### Tutorials
@@ -152,6 +152,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApps）的特定领域语言.
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
 - [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
+- [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 
 ### Docker
 
@@ -224,7 +225,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
 - [paytx](https://github.com/algorand-devrel/paytx) - 使用 Algorand Python SDK 的常见支付交易场景示例.
 - [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
-- [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
+- [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand Realm 的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的散装 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
