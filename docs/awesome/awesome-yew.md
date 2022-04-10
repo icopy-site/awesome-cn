@@ -31,7 +31,7 @@
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) - 易于测试和工作的 Rust 代码与博客文章来解释它们.
 - [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - 一个完全用 Rust 编写的网络应用程序，用于一个愚蠢的派对游戏.
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) - 演示如何将 yew 用于编译为 WebAssembly 并捆绑为轻量级（~2mb）桌面应用程序的 todomvc [web-view](https://github.com/Boscop/web-view)，作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 还有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
-- [yew-react-example](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+- [yew-react-example](https://github.com/hobofan/yew-react-example) - 该项目展示了如何使用 Yew 组件中的 React 组件创建 Web 应用程序.
 - [Kirk](https://github.com/stkevintan/Kirk) - 只是一个 Rust WebAssembly 博客.
 - [rust-async-wasm-demo](https://github.com/extraymond/rust-async-wasm-demo) - 学习 Rust 和异步的玩具项目，可以部署到网络上.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
@@ -59,7 +59,7 @@
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
-- [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
+- [Oxfeed](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
 - [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+紫杉.
@@ -82,6 +82,7 @@
 - [yew-wasm-pack-minimal](https://github.com/yewstack/yew-wasm-pack-minimal) - 使用 wasm-bindgen 和 wasm-pack 启动 Yew 项目的最小模板.
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 令人敬畏的 Yew 与 Yew-Router 和 Parcel 应用程序.
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
+- [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - 将 Tailwindcss 与 Yew 结合使用的简单布局.
 
 ## Crates
 
@@ -121,6 +122,7 @@
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的范围 CSS.
+- [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 
 ### Wasm
 

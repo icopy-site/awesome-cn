@@ -185,6 +185,7 @@ Rust 代码和资源的精选列表.
 * [nebulet/nebulet](https://github.com/nebulet/nebulet) — 实现在 Ring 0 中运行的 WebAssembly “用户模式”的微内核.
 * [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) — [![build badge](https://api.travis-ci.org/redox-os/redox.svg?branch=master)](https://travis-ci.org/redox-os/redox)
 * [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) — [![build badge](https://api.travis-ci.org/thepowersgang/rust_os.svg?branch=master)](https://travis-ci.org/thepowersgang/rust_os)
+* [theseus-os/Theseus](https://github.com/theseus-os/Theseus) — 用纯 Rust 从头开始​​编写的安全语言、单一地址空间和单一特权级操作系统 - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
 * [tock/tock](https://github.com/tock/tock) — 用于基于 Cortex-M 的微控制器的安全嵌入式操作系统
 
 ### Productivity
@@ -197,7 +198,7 @@ Rust 代码和资源的精选列表.
 ### Security tools
 
 * [arvancloud/libinjection-rs](https://github.com/arvancloud/libinjection-rs) — Rust 绑定 [libinjection](https://github.com/client9/libinjection) [![build badge](https://api.travis-ci.org/arvancloud/libinjection-rs.svg?branch=master)](https://travis-ci.org/arvancloud/libinjection-rs)
-* [Cherrybomb](https://github.com/blst-security/cherrybomb) - 使用 CLI 工具停止半完成的 API 规范，该工具通过验证 API 规范帮助您避免未定义的用户行为.
+* [Cherrybomb](https://github.com/blst-security/cherrybomb) - 使用 CLI 工具停止半完成的 API 规范，该工具通过验证 API 规范来帮助您避免未定义的用户行为.
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) — 可编写脚本的网络身份验证破解程序 [![build badge](https://api.travis-ci.org/kpcyrd/authoscope.svg?branch=master)](https://travis-ci.org/kpcyrd/authoscope)
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) — 一个 TCP 连接劫持者，shijack 的 rust 重写 [![build badge](https://api.travis-ci.org/kpcyrd/rshijack.svg?branch=master)](https://travis-ci.org/kpcyrd/rshijack)
 * [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) — 半自动 OSINT 框架和包管理器 [![build badge](https://api.travis-ci.org/kpcyrd/sn0int.svg?branch=master)](https://travis-ci.org/kpcyrd/sn0int)
@@ -415,7 +416,7 @@ Rust 代码和资源的精选列表.
 ### Deployment
 
 * 码头工人
-  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — 用于使用 musl-libc 和 musl-gcc 编译静态 Rust 二进制文件的 Docker 映像，以及有用的 C 库的静态版本
+  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) — 一个非常小的 rust docker 镜像的示例项目 [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) — 多个版本（使用 musl 工具）Rust Docker 映像
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - 用于缓存 Docker 构建之间的编译远程依赖项的工具和预构建图像.
@@ -555,7 +556,7 @@ Rust 代码和资源的精选列表.
 * 代码覆盖率
   * [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — 为 Rust 设计的代码覆盖工具 [![build badge](https://api.travis-ci.org/repositories/xd009642/tarpaulin.svg?branch=master)](https://travis-ci.org/xd009642/tarpaulin)
 * 持续集成
-  * [trust](https://github.com/japaric/trust) — 一个 Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate，并发布适用于 Linux、macOS 和 Windows 的二进制版本
+  * [trust](https://github.com/japaric/trust) — Travis CI 和 AppVeyor 模板，用于在 5 种架构上测试您的 Rust crate，并发布适用于 Linux、macOS 和 Windows 的二进制版本
 * 框架和跑步者
   * [AlKass/polish](https://github.com/AlKass/polish) — 迷你测试/测试驱动框架 [![Build Status](https://api.travis-ci.org/AlKass/polish.svg?branch=master)](https://travis-ci.org/AlKass/polish) [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
   * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 一个货物扩展，用于简化在智能手机和其他小型处理器设备上运行库测试和工作台.
@@ -973,7 +974,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * 船长原型
   * [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) — [![build badge](https://api.travis-ci.org/capnproto/capnproto-rust.svg?branch=master)](https://travis-ci.org/capnproto/capnproto-rust)
 * CBOR
-  * [serde_cbor](https://crates.io/crates/serde_cbor) - CBOR 支持 serde [![build badge](https://api.travis-ci.org/pyfisch/cbor.svg?branch=master)](https://travis-ci.org/pyfisch/cbor)
+  * [serde_cbor](https://crates.io/crates/serde_cbor) - 对 serde 的 CBOR 支持 [![build badge](https://api.travis-ci.org/pyfisch/cbor.svg?branch=master)](https://travis-ci.org/pyfisch/cbor)
 * 字符编码
   * [hsivonen/encoding_rs](https://github.com/hsivonen/encoding_rs) [[encoding_rs](https://crates.io/crates/encoding_rs)] — Rust 中编码标准的面向 Gecko 的实现 [![build badge](https://api.travis-ci.org/hsivonen/encoding_rs.svg?branch=master)](https://travis-ci.org/hsivonen/encoding_rs)
   * [lifthrasiir/rust-encoding](https://github.com/lifthrasiir/rust-encoding) — [![build badge](https://api.travis-ci.org/lifthrasiir/rust-encoding.svg?branch=master)](https://travis-ci.org/lifthrasiir/rust-encoding)
@@ -1223,7 +1224,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [achanda/ipnetwork](https://github.com/achanda/ipnetwork) — 在纯 Rust 中处理 IP 网络的库 [![build badge](https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master)](https://travis-ci.org/achanda/ipnetwork)
   * [candrew/netsim](https://github.com/canndrew/netsim) — 用于网络模拟和测试的 Rust 库 [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
 * 低级
-  * [actix/actix](https://github.com/actix/actix) — Actor library for Rust [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
+  * [actix/actix](https://github.com/actix/actix) — Rust 的 Actor 库 [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) — 自定义 TCP/UDP 协议定义
   * [libpnet/libpnet](https://github.com/libpnet/libpnet) — 跨平台的低级网络 [![build badge](https://api.travis-ci.org/libpnet/libpnet.svg?branch=master)](https://travis-ci.org/libpnet/libpnet)
   * [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) — A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems [![build badge](https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master)](https://travis-ci.org/smoltcp-rs/smoltcp)
@@ -1397,13 +1398,13 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [branca](https://crates.io/crates/branca) — Branca 的纯 Rust 实现，用于经过身份验证和加密的 API 令牌. [![build badge](https://api.travis-ci.org/return/branca.svg?branch=master)](https://travis-ci.org/return/branca)
   * [carllerche/tower-web](https://github.com/carllerche/tower-web) [[tower-web](https://crates.io/crates/tower-web)] — 一个快速、无样板的 Rust 网络框架 [![build badge](https://api.travis-ci.org/carllerche/tower-web.svg?branch=master)](https://travis-ci.org/carllerche/tower-web)
   * [danclive/sincere](https://github.com/danclive/sincere) — 基于超线程和多线程的 Rust(stable) 微型 Web 框架. [![build badge](https://api.travis-ci.org/danclive/sincere.svg?branch=master)](https://travis-ci.org/danclive/sincere)
-  * [daogangtang/sapper](https://github.com/daogangtang/sapper) — 一个基于 async hyper 的轻量级 Web 框架，用 Rust 语言实现. [![build badge](https://api.travis-ci.org/daogangtang/sapper.svg?branch=master)](https://travis-ci.org/daogangtang/sapper)
   * [GildedHonour/frank_jwt](https://github.com/GildedHonour/frank_jwt) — Rust 中的 JSON Web Token 实现. [![build badge](https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master)](https://travis-ci.org/GildedHonour/frank_jwt)
   * [Gotham](https://github.com/gotham-rs/gotham) — 一个灵活的 Web 框架，不会牺牲安全性、安全性或速度. [![build badge](https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master)](https://travis-ci.org/gotham-rs/gotham)
   * [handlebars-rust](https://github.com/sunng87/handlebars-rust) — Iron Web 框架中间件. [![build badge](https://api.travis-ci.org/sunng87/handlebars-iron.svg?branch=master)](https://travis-ci.org/sunng87/handlebars-iron)
   * [hyperium/hyper](https://github.com/hyperium/hyper) — HTTP 实现 [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
   * [Iron](https://github.com/iron/iron) — 基于中间件的服务器框架 [![build badge](https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master)](https://travis-ci.org/GildedHonour/frank_jwt)
   * [Juniper](https://github.com/graphql-rust/juniper) — Rust 的 GraphQL 服务器库 [![build badge](https://api.travis-ci.org/graphql-rust/juniper.svg?branch=master)](https://travis-ci.org/graphql-rust/juniper)
+  * [miketang84/sapper](https://github.com/miketang84/sapper) — 一个基于 async hyper 的轻量级 Web 框架，用 Rust 语言实现.
   * [Nickel](https://github.com/nickel-org/nickel.rs/) ——灵感来自 [Express](http://expressjs.com/) [![build badge](https://api.travis-ci.org/nickel-org/nickel.rs.svg?branch=master)](https://travis-ci.org/nickel-org/nickel.rs)
   * [Ogeon/rustful](https://github.com/Ogeon/rustful) — Rust 的 RESTful Web 框架  [![build badge](https://api.travis-ci.org/Ogeon/rustful.svg?branch=master)](https://travis-ci.org/Ogeon/rustful)
   * [oltdaniel/zap](https://github.com/oltdaniel/zap) — 一个用于 Rust 的闪电般快速的 http 框架
