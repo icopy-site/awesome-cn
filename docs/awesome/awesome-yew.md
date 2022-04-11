@@ -59,7 +59,7 @@
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
-- [Oxfeed](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
+- [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
 - [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+紫杉.
@@ -83,6 +83,7 @@
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 令人敬畏的 Yew 与 Yew-Router 和 Parcel 应用程序.
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
 - [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - 将 Tailwindcss 与 Yew 结合使用的简单布局.
+- [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - 一个启动项目，为全栈 Rust Web 应用程序设置 Axum 和 Yew.
 
 ## Crates
 
@@ -175,7 +176,7 @@ Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮�
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
 - [Seed](https://github.com/seed-rs/seed) - 用于创建 Web 应用程序的 Rust 框架.
 - [Smithy](https://github.com/rbalicki2/smithy) - 在 Rust 中构建 WebAssembly 应用程序的框架.
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - 优雅的类似 React 的库，用于为桌面、Web、移动、SSR、liveview 等构建用户界面.
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - 用于在 Rust 和 WebAssembly 中创建 Web 应用程序的反应库.
 
 ## Related lists

@@ -283,7 +283,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Donovan Hutchinson](https://twitter.com/donovanh)  - 设计师、开发者、作家. 偶尔在 http://Hop.ie 上写博客，目前正在构建 @cssanimation.
 * [Dudley Storey](https://twitter.com/dudleystorey) - Web 开发作家、教师和演讲者.
 * [Eric Bidelman](https://twitter.com/ebidel) - Google 工程师，负责 Chrome、Web 组件和 Polymer.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5 &amp; CSS Freak 教授. 临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计者.  @multimedial_utn HTML5 &amp; CSS Freak 教授. 临时翻译.
 * [Guy Routledge](https://twitter.com/guyroutledge) - 前端开发人员，@GA_London 老师，http://www.atozcss.com 的 Screencaster，财产势利小人，美食家.
 * [Harry Roberts](https://twitter.com/csswizardry)- 顾问前端架构师：@google、@Etsy、@kickstarter、@BBC、@Deloitte、@FT 等.
 * [Heydon Pickering](https://twitter.com/heydonworks)  - 适度消费大米. 也是 UX 设计师、作者、@smashingmag 编辑器和程序员.
@@ -354,6 +354,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - 从 Mozilla 学习 CSS Grid 的简单教程.
 * [CSS Grids videos tutorial](https://cssgrid.io/) - Wes Bos 学习 CSS 网格的免费视频课程.
+* [CSS Math Functions](https://stackdiary.com/css-math-functions/) - 使用 CSS Math 进行响应式设计.
 * [Flexbox video tutorial](https://flexbox.io/) - Wes Bos 的免费视频课程，用于学习 flexbox.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - 深入介绍 OOCSS、BEM、SMACSS，并附有示例.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - 检查动画.

@@ -69,7 +69,7 @@
 - [Airbnb (react-dates)](https://airbnb.io/react-dates/)
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
-- [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
+- [AXA France Design System](https://axaguildev.github.io/react-toolkit/latest/storybook)
 - [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example)
 - [Apideck Components](https://www.apideck.design/)
 - [Qui - Vue 2/3 Design system](https://github.com/Qvant-lab/qui-max)

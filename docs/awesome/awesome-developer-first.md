@@ -49,7 +49,6 @@
 * [Gitpod](https://www.gitpod.io/) - 自动化的云开发环境. 
 
 ## CMS (headless)
-* [Tipe](https://tipe.io/) - 开源无头 CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 构建器.
 * [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如. [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
 
@@ -93,10 +92,8 @@
 *评论和论坛.*
 * [Commento](https://commento.io/) - 以隐私为中心的嵌入式评论系统.
 * [MuutIo](https://muut.io/) - 创建社区驱动的应用程序的工具.
-* [TurnTo](https://www.turntonetworks.com/) - 评分、社区问答、评论和评论即服务.
 * [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - 评级，评论即服务.
 * [Yotpo](https://www.yotpo.com/platform/reviews/) - 评论评级和问答即服务.
-* [Gitter](https://gitter.im) - 开发人员的聊天和网络平台.
 
 ## Documentation
 *文档解决方案.*
@@ -106,7 +103,7 @@
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*
-* [Vault](https://www.vaultproject.io/) - API 驱动的密钥管理.
+* [Vault](https://www.vaultproject.io/) - API driven secret key management.
 * [Doppler](https://doppler.com/) - 跨项目的环境变量管理，在一个地方.
 * [1Password Secrets Automation](https://1password.com/secrets/) - 与 1Password 集成的秘密管理.
 * [Envkey](https://www.envkey.com/) - 具有所有应用程序同步机制的环境管理.
@@ -132,7 +129,7 @@
 
 ## Infrastructure as Code
 *声明您的基础设施并从中可重复地提供云基础设施.*
-* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL，开源和免费（付费解决方案增加了团队管理、策略即代码......）.
 * [Pulumi](https://www.pulumi.com/) - 使用 Python、TypeScript、Go 和更多语言的开发人员优先 IaC...
 
 ## Integrations
@@ -188,7 +185,6 @@
 
 ## Natural Language Processing
 *与自然语言的交互.*
-* [Wit.ai](https://wit.ai) - Facebook 的语音/文本聊天机器人框架.
 * [DialogFlow](https://cloud.google.com/dialogflow) - Google 的语音/文本聊天机器人框架.
 
 ## Payments
@@ -205,7 +201,7 @@
 
 ## Reports Generation
 *生成报告，主要是 PDF*
-* [PDFBlade](https://pdfblade.com/#pricing) - 基于 HTML 到 PDF API 使用的定价.
+* [PDFBlade](https://pdfblade.com/) - 基于 HTML 到 PDF API 使用的定价.
 * [Carbone](https://carbone.io/) - JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 * [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
 

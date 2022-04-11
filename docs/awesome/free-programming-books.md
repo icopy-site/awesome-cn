@@ -184,6 +184,8 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ### Programming Playgrounds
 
+在浏览器中编写、编译和运行您的代码. 试试看！
+
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)
 

@@ -57,7 +57,7 @@
 - [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Cloud Academy 的 Ansible 简介.
 - [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Jeff Geerling 制作的关于 Ansible 的精彩视频系列.
 - [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - 关于 Ansible 的视频教程.
-- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Red Hat 提供的关于 Ansible 要领的免费视频课堂.
+- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Free Video Classroom on Ansible essentials by Red Hat.
 - [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1) - Ansible 上的免费视频课程，包括实验室.
 - [Getting started with Ansible](https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - LearnLinuxTV 的 YouTube 教程系列.
 
@@ -82,9 +82,11 @@
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - 使用 Ansible 剧本弯曲容器并将其转换为容器图像的工具.
 - [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 python 库，在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器映像接口、作为独立工具还是作为可以导入的 Python 模块.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/)  - 使用依赖于非默认依赖项的 Ansible 内容可能会很棘手. 软件包必须安装在每个节点上，与主机系统上安装的其他软件很好地配合，并保持同步.
-- [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible Toolset combines all ansible development tools in a single container: ansible, ansible-lint and molecule.
+- [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible 工具集将所有 ansible 开发工具组合在一个容器中：ansible、a​​nsible-lint 和分子.
 - [kics](https://github.com/Checkmarx/kics) - SAST 工具，可将您的 ansible 基础设施扫描为代码剧本，以发现安全漏洞、合规性问题和错误配置.
-
+- [php-ansible Library](https://github.com/maschmann/php-ansible) - Ansible 的 OOP-Wrapper，使 Ansible 在 PHP 中可用.
+- [TD4A](https://github.com/cidrblock/td4a) - 用于构建和测试 jinja2 模板的设计辅助工具，将 yaml 格式的数据与 jinja2 模板组合并呈现输出.
+- [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - 用于创建表示 Ansible 剧本剧本、任务和角色的图形的命令行工具.
 
 ## Blog posts and opinions
 
@@ -99,9 +101,9 @@
 &gt; 令人敬畏的生产就绪剧本和角色让您启动并运行.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
-- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置带有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
+- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置具有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
 - [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - 这些角色帮助您强化基于 Linux 的操作系统以及 MySQl、NginX 和 SSH 服务器/服务.
-- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 为开发环境和生产环境提供和部署 Docker Swarm 集群. 基础架构即代码和 DevOps 最佳实践.
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 提供 Docker Swarm 集群并将其部署到开发环境和生产环境. 基础架构即代码和 DevOps 最佳实践.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - 使用 AWS SSM 代理预置物理和虚拟主机的 ansible 角色.
