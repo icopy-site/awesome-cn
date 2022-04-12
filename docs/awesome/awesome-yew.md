@@ -74,6 +74,7 @@
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 示例演示了Yew服务器端的潮汐和冲浪渲染，它需要Yew的**开发版本**.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款真实的派对游戏，玩家可以在其中尽可能快地猜测图像的内容. 
+- [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 一个用 Rust 编写的快速打字网络应用程序.
 
 ## Templates
 
@@ -137,7 +138,7 @@
 - [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - 通过下载可执行文件来安装“wasm-bindgen”以加速 CI/CD 的 Github 操作.
 - [cargo-web](https://github.com/koute/cargo-web) - 客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑和发布你的 Rust Wasm 应用程序到网络.
-- [trunk-action](https://github.com/jetli/trunk-action) - 通过下载可执行文件来安装“Trunk”以加速 CI/CD 的 Github 操作.
+- [trunk-action](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 - [wabt](https://github.com/WebAssembly/wabt) - WebAssembly 二进制工具包，用于 `wasm-strip` 和 `wasm-objdump` 工具以减少 .wasm 文件大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) - WebAssembly 的编译器基础设施和工具链库，用于 `wasm-opt` 工具以减少 .wasm 文件大小.
 
@@ -176,7 +177,7 @@ Yew 团队喜欢与其他项目分享想法，并相信我们都可以互相帮�
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
 - [Seed](https://github.com/seed-rs/seed) - 用于创建 Web 应用程序的 Rust 框架.
 - [Smithy](https://github.com/rbalicki2/smithy) - 在 Rust 中构建 WebAssembly 应用程序的框架.
-- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - 优雅的类似 React 的库，用于为桌面、Web、移动、SSR、liveview 等构建用户界面.
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - 用于在 Rust 和 WebAssembly 中创建 Web 应用程序的反应库.
 
 ## Related lists

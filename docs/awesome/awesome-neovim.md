@@ -61,7 +61,7 @@ Neovim 支持多种 UI.
 - [tami5/lspsaga.nvim](https://github.com/tami5/lspsaga.nvim) - 基于 Neovim 内置 lsp 的轻量级 lsp 插件，具有高性能 UI.
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - quickfix 中的实时渲染工作区诊断，loclist 中的缓冲区诊断.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 一个漂亮的诊断列表，可帮助您解决代码造成的所有问题.
-- [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 为尚不支持内置 LSP 客户端的配色方案添加缺失 LSP 诊断突出显示组的插件.
+- [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 为尚不支持内置 LSP 客户端的配色方案添加缺少的 LSP 诊断突出显示组的插件.
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - 只要在当前光标位置有 `textDocument/codeAction` 可用，插件就会在符号列中显示一个灯泡.
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) - 该插件为 Neovim lsp 补全添加了类似 vscode 的图标.
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - 一个让 LSP 客户端使用 FZF 的小插件.
@@ -112,6 +112,7 @@ Neovim 支持多种 UI.
   - [andersevenrud/compe-tmux](https://github.com/andersevenrud/compe-tmux) - Tmux 的 nvim-cmp 源.
   - [David-Kunz/cmp-npm](https://github.com/David-Kunz/cmp-npm) - NPM 的 nvim-cmp 源.
   - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - 一个用于更好排序的 nvim-cmp 函数.
+  - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - GitHub copilot 的 nvim-cmp 源.
   <!--lint ignore double-link-->
 - [mini.completion](https://github.com/echasnovski/mini.nvim#minicompletion) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 用于异步两阶段完成. 支持显示完成项信息和独立函数签名.
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - 一个用 Rust 编写的 Neovim 自动完成框架.
@@ -152,7 +153,7 @@ Neovim 支持多种 UI.
 ### Snippet
 
 - [norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim) - Lua 中的片段.
-- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - 用 Lua 编写的 Neovim 片段引擎.
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - A snippet engine for Neovim written in Lua.
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - 用 Lua 编写的片段插件，支持 [vim-snippets](https://github.com/honza/vim-snippets).
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - 直接从 Neovim 创建漂亮的代码片段.
 
@@ -233,7 +234,7 @@ Neovim 支持多种 UI.
 - [RishabhRD/nvim-rdark](https://github.com/RishabhRD/nvim-rdark) - 用 Lua 编写的 Neovim 的深色方案.
 - [ishan9299/modus-theme-vim](https://github.com/ishan9299/modus-theme-vim) - 这是 Protesilaos Stavrou 为 emacs 开发的配色方案.
 - [sainnhe/edge](https://github.com/sainnhe/edge) - 灵感来自 Atom One 和 Material 的简洁优雅的配色方案.
-- [theniceboy/nvim\-deus](https://github.com/theniceboy/nvim-deus) - Vim-deus with Tree-sitter support.
+- [theniceboy/nvim\-deus](https://github.com/theniceboy/nvim-deus) - 支持树人的 Vim-deus.
 - [bkegley/gloombuddy](https://github.com/bkegley/gloombuddy) - Neovim 的 Gloom 主题.
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - Neovim 的 Atom One 启发了深色和浅色配色方案.
 - [PHSix/nvim-hybrid](https://github.com/PHSix/nvim-hybrid) - 用 Lua 编写的 Neovim 配色方案.
@@ -469,7 +470,7 @@ Neovim 支持多种 UI.
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - 用 Lua 编写的评论插件.
 - [glepnir/prodoc.nvim](https://github.com/glepnir/prodoc.nvim) - Comment and support generate annotation.
 - [gennaro-tedesco/nvim-commaround](https://github.com/gennaro-tedesco/nvim-commaround) - 用 Lua 编写的快速轻便的评论插件.
-- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - Highlight, list and search todo comments in your projects.
+- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - 在您的项目中突出显示、列出和搜索待办事项评论.
 - [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) - 使用内置的评论字符串选项在 Neovim 中切换评论.
 - [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim) - 一个评论插件，支持计数和多种评论模式等等.
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - 添加基于源文件的注释框.
@@ -547,7 +548,7 @@ Neovim 支持多种 UI.
 
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - 使用 treesitter 自动关闭和自动重命名 xml、html、jsx 标签.
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - 由 Lua 编写的 Neovim 的极简自动配对.
-- [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - 由 Lua 编写的 Neovim 终极智能配对.
+- [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs for Neovim written by Lua.
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) - Neovim 的自动配对插件.
 <!--lint ignore double-link-->
 - [mini.pairs](https://github.com/echasnovski/mini.nvim#minipairs) - 模块 [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) 对于具有最小默认值和功能来执行每个键映射的自动配对.
@@ -657,7 +658,7 @@ Neovim 支持多种 UI.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，它模仿 Neovim 的 `:map` 系列命令. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Lua 插件创建键绑定并用望远镜观察它们.
-- [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - 一个非常有趣的替代键盘映射，用于具有 nvim 功能（如 LSP 支持）的 workman 键盘布局，使用 lua 构建和配置.
+- [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - 一个非常有趣的替代键盘映射，用于工作人员键盘布局，具有 nvim 功能，如 LSP 支持，使用 lua 构建和配置.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - 以更有条理的方式创建和管理键绑定和命令，并通过 Telescope 快速搜索它们.
 
 ### Tmux

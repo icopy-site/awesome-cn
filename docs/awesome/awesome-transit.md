@@ -4,7 +4,7 @@
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
-有什么要添加或更改的吗？ 打开一个 [pull request](https://github.com/CUTR-在-USF/awesome-transit/pulls) 要么 [issue](https://github.com/CUTR-在-USF/awesome-transit/issues) 在 [CUTR-在-USF/awesome-transit](https://github.com/CUTR-在-USF/awesome-transit).
+有什么要添加或更改的吗？ 打开一个 [pull request](https://github.com/CUTR-在-USF/awesome-transit/pulls) 或者 [issue](https://github.com/CUTR-在-USF/awesome-transit/issues) 在 [CUTR-在-USF/awesome-transit](https://github.com/CUTR-在-USF/awesome-transit).
 
 ------------------------------
 
@@ -92,7 +92,7 @@
 - [Linked Connections](http://linkedconnections.org/)  - 一个开源的、可扩展的多式联运路线规划引擎，它允许客户端执行路线规划算法（而不是服务器）. 使用 GTFS 数据.
 - [MOTIS](https://github.com/motis-project/motis)  - 多目标旅游信息系统，用 C++ 和 Java 编写. 可以使用 GTFS 或 HAFAS 格式的时间表以及 GTFS-RT（和 RISML，德国铁路公司的专有格式）中的实时信息作为输入数据. 对于行人路线（由 Per Pedes Routing 处理）和汽车路线（由 OSRM 处理），使用 OpenStreetMap 数据.
 - [Navitia](https://github.com/CanalTP/navitia) 是背后的开源引擎 [Navitia.io](http://www.navitia.io/) 实时 API.
-- [OneBusAway](http://onebusaway.org/) - 一个使用 GTFS 和 GTFS-Realtime 的 Java 应用程序（以及 [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
+- [OneBusAway](http://onebusaway.org/) - 一个使用 GTFS 和 GTFS-Realtime 的 Java 应用程序（以及 [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) 并将它们变成易于使用 [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
 - [OpenTripPlanner](http://www.opentripplanner.org/) - 用于多模式和多机构旅程规划的开源平台，以及返回有关多模式图的信息（使用 GTFS 和 [OpenStreetMap](http://www.openstreetmap.org/)).
 - [pyBikes](https://github.com/eskerda/pybikes) - 软件供电 [CityBikes](http://api.citybik.es) 全球共享单车系统信息
 - [TransitClock](http://thetransitclock.org)  - 可以使用原始车辆位置并以 GTFS-realtime 等格式生成预测时间的 Java 应用程序. 以前称为“时空”.
@@ -155,7 +155,7 @@
 - OneBusAway 应用程序 - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
 - [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - 一个Android应用程序 [OpenTripPlanner](http://www.opentripplanner.org/)
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) - 一个 iOS 应用程序 [OpenTripPlanner](http://www.opentripplanner.org/)
-- [opentripplanner-client-library](https://github.com/CUTR-at-USF/opentripplanner-client-library) - Kotlin 多平台库，用于发出 API 请求并解析来自 OpenTripPlanner v2 服务器的响应，以获取旅行计划、自行车租赁信息以及 Android、iOS 和 Web 的服务器元数据.
+- [opentripplanner-client-library](https://github.com/CUTR-at-USF/opentripplanner-client-library) - Kotlin 多平台库，用于发出 API 请求并解析来自 OpenTripPlanner v2 服务器的响应，以获取旅行计划、自行车租赁信息以及适用于 Android、iOS 和 Web 的服务器元数据.
 - [Transportr](https://github.com/grote/Transportr) 一个 Android 应用程序，使用 [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) 为了连接到全球许多不同的运输网络.
 - [Offi Directions](https://gitlab.com/oeffi/oeffi) - 一款为欧洲及其他地区的交通当局提供旅行计划、时间表、实时出发时间和中断信息的 Android 应用程序.
 - [Trufi App](https://github.com/trufi-association/trufi-app) - 一个跨平台的 Flutter 应用程序，使用 [OpenTripPlanner](http://www.opentripplanner.org/)
@@ -278,7 +278,7 @@
 
 #### GTFS Data Collection and Maintenance Tools
 
-- [bus-router](https://github.com/atlregional/bus-router) - 使用路由为 GTFS 生成缺失 shape.txt 的 Python 脚本 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 要么 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+- [bus-router](https://github.com/atlregional/bus-router) - 使用路由为 GTFS 生成缺失 shape.txt 的 Python 脚本 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 或者 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [gtfs-blocks-to-transfers](https://github.com/TransitApp/GTFS-blocks-to-transfers) - 用于转换 GTFS 块的 Python 工具，由设置定义 [trip.block\_id](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) 成一系列 [trip-to-trip transfers (proposal)](https://github.com/google/transit/pull/303).
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor)  - 一个（自托管）基于 Web 的 GTFS 编辑框架.  （注意：此项目已被弃用，取而代之的是 [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) - 使用快速设置 GTFS 编辑器（上图） [Vagrant](https://www.vagrantup.com/)
@@ -374,7 +374,7 @@
 - [Concentrate](https://github.com/mbta/concentrate)  - 将来自多个来源的实时交通信息合并到单个输出文件中. 由 [ 维护
 马萨诸塞湾交通管理局 (MBTA)](https://github.com/mbta).
 - [gtfs-realtime-test-service](https://github.com/CUTR-at-USF/gtfs-realtime-test-service) - 用于模拟 GTFS 实时提要内容的工具（例如，用于测试 GTFS 实时消费应用程序）.
-- [GTFS-realtime Munin Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - 提供一个 [Munin](http://munin-monitoring.org/) 用于记录有关 GTFS 实时提要的信息的插件.
+- [GTFS-realtime Munin Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - 提供一个 [Munin](http://munin-monitoring.org/) plugin for logging information about a GTFS-realtime feed.
 - [GTFS-realtime Nagio Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - 提供一个 [Nagios](https://www.nagios.org/) 用于监控 GTFS 实时提要的插件
 - [GTFS-realtime Printer](https://github.com/laidig/gtfs-rt-printer) - 基于 Java 的实用程序，用于从 GTFS 实时文件或 URL 中打印信息.
 - [gtfs-rt-admin](https://github.com/conveyal/gtfs-rt-admin) - 用于管理 GTFS-RT 服务警报（JavaScript 和 Java）的管理工具.
@@ -426,6 +426,7 @@
 - [shared-row](https://github.com/d-wasserman/shared-row) - SharedStreets 参考的通行权 (ROW) 规范.
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120)  - 本研究的目的是为参与提供需求响应运输的实体制定交易数据的技术规范. 预计完成日期为 2018 年底.
 - [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) - 公交 ITS 数据交换规范 (TIDES) 是一项提议的努力，旨在为历史公交 ITS 数据（包括 AVL、APC 和 AFC 数据）创建标准数据结构、API 和数据管理工具.
+- [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) - 旨在解决缺乏标准格式来表示司机、调度员和规划人员用于执行交通运营的交通时间表的问题. 
 - [Transport Operator Mobility-as-a-service Provider (TOMP)-API](https://github.com/TOMP-WG/TOMP-API) - 荷兰的工作组，目标是开发一种 API，供运输运营商和移动即服务提供商使用，用于运营商发现、旅行计划、最终用户交互、预订和支付.
 
 ### Resources
