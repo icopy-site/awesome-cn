@@ -85,6 +85,7 @@
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
 - [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - 将 Tailwindcss 与 Yew 结合使用的简单布局.
 - [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - 一个启动项目，为全栈 Rust Web 应用程序设置 Axum 和 Yew.
+- [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri，桌面应用程序的全栈 Rust 开发.
 
 ## Crates
 
@@ -122,7 +123,7 @@
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于 styled-components，但适用于 Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 适用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
-- [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
+- [Tailwind RS](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的范围 CSS.
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 
@@ -138,7 +139,7 @@
 - [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - 通过下载可执行文件来安装“wasm-bindgen”以加速 CI/CD 的 Github 操作.
 - [cargo-web](https://github.com/koute/cargo-web) - 客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑和发布你的 Rust Wasm 应用程序到网络.
-- [trunk-action](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
+- [trunk-action](https://github.com/jetli/trunk-action) - 通过下载可执行文件来安装“Trunk”以加速 CI/CD 的 Github 操作.
 - [wabt](https://github.com/WebAssembly/wabt) - WebAssembly 二进制工具包，用于 `wasm-strip` 和 `wasm-objdump` 工具以减少 .wasm 文件大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) - WebAssembly 的编译器基础设施和工具链库，用于 `wasm-opt` 工具以减少 .wasm 文件大小.
 

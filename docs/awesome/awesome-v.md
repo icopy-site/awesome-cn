@@ -21,7 +21,6 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 并在.
 - [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
-- [Foxil](https://github.com/StunxFS/foxil) - 一种中间语言，旨在促进编译器代码生成.
 
 
 ### Operating systems/Kernels
@@ -142,7 +141,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供原生 V-lang 支持.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 
 ### Networking
 
@@ -191,7 +190,7 @@
 
 - [vsl](https://github.com/vlang/vsl) - 具有多种功能的纯 V 科学库.
 - [vtl](https://github.com/vlang/vtl) - 支持 n 维数据结构的数值计算库，由 LAPACKE 和 OpenBLAS 支持.
-- [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
+- [vplot](https://github.com/erdetn/vplot) - GNU Plot 的 V 包装器（`gnuplot_i`）.
 
 ### Utility
 

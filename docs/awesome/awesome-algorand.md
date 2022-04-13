@@ -28,6 +28,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
 - [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
 - [Algorand Developer Portal](https://developer.algorand.com/) - 官方 Algorand 开发者门户.
+- [Algorand Discord](https://discord.com/invite/YgPTCVk) - 官方 Algorand Discord 服务器.
 
 ## Wallets
 
@@ -221,7 +222,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - 可用于铸造符合 ARC3 的 NFT 的 Dapp.
 - [Auction Demo](https://github.com/algorand/auction-demo) - 使用智能合约进行链上 NFT 拍卖.
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - 会话钱包允许跨多个钱包的持久钱包连接.
-- [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - 在 pyteal 中收集 ASC1 合同，用于创建 ASA 交换器.
+- [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - AlgoWorld 使用的所有智能合约的集合，用 PyTeal 编写.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
 - [paytx](https://github.com/algorand-devrel/paytx) - 使用 Algorand Python SDK 的常见支付交易场景示例.
 - [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
