@@ -25,11 +25,11 @@
 
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - 多部分入门指南，帮助您开始使用 k6.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - 简要概述 k6 的特性和功能.
-- [Integrating k6 with Apache Kafka](https://mostafa.dev/blog/integrating-k6-with-apache-kafka) - 将 k6 的输出发送到 Apache Kafka.
+- [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - 将 k6 的输出发送到 Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - 设置负载测试并使用 grafana 仪表板将其可视化.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) - 最流行的开源负载测试工具的详细比较.
-- [Load Testing Your API with Swagger/OpenAPI and k6](https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6) - 根据 OpenAPI 规范生成 k6 负载测试脚本.
-- [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) - 如何使用 Postman 集合来负载测试您的 API.
+- [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6) - 根据 OpenAPI 规范生成 k6 负载测试脚本.
+- [Load Testing Your API with Postman](https://k6.io/blog/load-testing-with-postman-collections/) - 如何使用 Postman 集合来负载测试您的 API.
 - [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - Back Market 如何通过基于 k6 的负载测试为黑色星期五做好准备.
 - [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - 如何使用 xk6-sql 扩展直接测试 SQL 数据库. 
 - [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - 将 k6 输出报告给 TestRail. 

@@ -18,7 +18,7 @@
  | 链接 | 预览 |
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者解决定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方法来推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快在计算机科学课程中被教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可行的计划._ |
@@ -72,7 +72,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ### Semi-Supervised Learning
 
 - S3VM
-- 聚类 
+- 聚类
 - 生成模型
 - 低密度分离
 - 拉普拉斯正则化
@@ -103,7 +103,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 卷积神经网络 (CNN)
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
-- 汽车编码器
+- Autoencoder
 - 生成对抗网络 (GAN)
 - 自组织地图
 
@@ -122,7 +122,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
 - [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 - [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online) 
+- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
 - [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 
 ## Intensive Programs
@@ -179,7 +179,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Python时间序列模型部署教程.
-- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/) 
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 
 ### Free Courses
 
@@ -187,7 +187,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础知识；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
 
 
 ## Toolboxes - Environment
@@ -253,12 +253,12 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [UBIAI](https://ubiai.tools)  | 易于使用的文本注释工具，具有最全面的自动注释功能的团队. 支持 NER、关系和文档分类以及用于发票标签的 OCR 注释 |
 | [Trains](https://github.com/allegroai/clearml)  | 自动魔术实验管理器、人工智能版本控制和 DevOps |
 | [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有特征存储的开源数据密集型机器学习平台. 摄取和管理在线（MySQL 集群）和离线（Apache Hive）访问、训练和服务模型的大规模特性.  |
-| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是面向开发人员的可解释 AutoML 框架. 使用 MindsDB，您只需一行代码即可构建、训练和使用最先进的 ML 模型.  |
+| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是面向开发人员的可解释 AutoML 框架. 使用 MindsDB，您可以像一行代码一样简单地构建、训练和使用最先进的 ML 模型.  |
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一个基于 Pytorch 的框架，将机器学习问题分解成更小的块，这些块可以无缝地粘合在一起，目标是用一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，将 Pandas 库的功能扩展到 AWS，连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
 | [Amazon Textract](https://aws.amazon.com/textract/)  | 自动从任何文档中提取打印文本、笔迹和数据.  |
-| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查.识别缺失的产品组件、车辆和结构损坏以及违规行为以进行全面的质量控制.|
+| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检测.识别缺失的产品组件、车辆和结构损坏以及违规行为以进行全面质量控制.|
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
@@ -275,7 +275,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyStan](https://pypi.org/project/pystan/)  |  Stan 的 Python 接口（贝叶斯推理和建模）|
 | [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习和推理
 | [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
-| [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器中发现、创建和启动多云应用程序.
+| [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器中发现、创建和启动多云应用程序.  |
+| [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
+
 ## Machine Learning in General Purpose
 
 * [scikit-learn](https://scikit-learn.org/)
@@ -414,7 +416,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
 - [datatau.com/news](https://www.datatau.com/news) - 像 Hacker News，但针对数据
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
+- [Medium Data Science Topic](https://medium.com/tag/data-science) - 媒体上的数据科学相关出版物
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) - 遗传算法相关的关于数据科学的出版物
 - [all AI news](https://allainews.com/) - AI/ML/大数据新闻聚合平台
 
@@ -670,7 +672,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 工作@_GrubHub_ 关于数据和熊猫 |
 | [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD 和 SIGKDD 联合创始人，曾是 2 家初创公司的首席科学家，兼职哲学家.  |
-| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计兼职教授.  |
+| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计副教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家 |
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel 常驻数据科学家.  |
 | [Jeff Hammerbacher](https://twitter.com/hackingdata)   | 转发关于数据科学的推文 |
@@ -718,7 +720,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ## Newsletters
 
 - [AI Digest](https://aidigest.net/) . 每周时事通讯，以了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
-- [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
+- [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的通讯. [Archive](https://roundup.getdbt.com/archive).
 
 
@@ -772,7 +774,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ## Competitions
 
-Some data mining competition platforms
+部分数据挖掘竞赛平台
 
 - [Kaggle](https://www.kaggle.com/)
 - [DrivenData](https://www.drivendata.org/)
