@@ -53,6 +53,7 @@
 - [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) - Visual Studio Code 的调色板生成器扩展.
 - [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - Neovim 的 IntelliSense 扩展.
 - [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - 探索项目 Tailwind CSS 设置中可用的类.
+- [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - 突出显示 Visual Studio Code 的实用程序扩展.
 
 ## Plugins
 
@@ -105,7 +106,7 @@
 - [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 - [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - 为 FormKit 添加输入和表单状态的变体.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 成分.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加一个 `responsive-embed` 组件.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 基于 Bootstrap 的表格添加表格组件.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.

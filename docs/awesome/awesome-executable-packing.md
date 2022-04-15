@@ -7,7 +7,7 @@
  *Packing* 是以不改变其用途的方式修改可执行文件的操作. 一般是以下操作之一或组合：
 - 捆绑：使单个可执行文件具有多个文件
 - 压缩：压缩可执行文件以减小其原始大小
-- encryption: obfuscates the executable by encrypting it
+- 加密：通过加密来混淆可执行文件
 - 突变：改变可执行文件的代码，使其使用修改后的指令集和架构（例如使用寡态）
 - 保护：使可执行文件的逆向更难（即使用反调试、反篡改或其他技巧）
 - 虚拟化：嵌入允许虚拟化可执行指令的虚拟机
@@ -113,7 +113,7 @@
 - ：报纸： [Efficient automatic original entry point detection](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=169_2256) （2019 年 1 月）：星：
 - ：报纸： [An efficient block-discriminant identification of packed malware](https://link.springer.com/article/10.1007%2Fs12046-015-0399-x) （2015 年 8 月） 
 - ：笔记本： [Efficient malware packer identification using support vector machines with spectrum kernel](https://ieeexplore.ieee.org/document/6621654) （2013 年 7 月） 
-- ：报纸： [Efficient SVM based packer identification with binary diffing measures](https://ieeexplore.ieee.org/document/8754440/) （2019 年 7 月）：明星：
+- ：报纸： [Efficient SVM based packer identification with binary diffing measures](https://ieeexplore.ieee.org/document/8754440/) （2019 年 7 月）：星：
 - ：报纸： [ELF-Miner: Using structural knowledge and data mining methods to detect new (Linux) malicious executables](https://dl.acm.org/doi/10.5555/2150963.2150968) （2012 年 3 月） 
 - ：报纸： [EMBER: An open dataset for training static PE malware machine learning models](https://arxiv.org/abs/1804.04637) （2018 年 4 月）：星：
 - ：笔记本： [An empirical evaluation of an unpacking method implemented with dynamic binary instrumentation](https://www.jstage.jst.go.jp/article/transinf/E94.D/9/E94.D_9_1778/_article) （2011 年 9 月） 
@@ -147,10 +147,10 @@
 - ：报纸： [Mal-flux: Rendering hidden code of packed binary executable](http://www.sciencedirect.com/science/article/pii/S1742287618303736) （2019 年 3 月）：星：
 - ：报纸： [Mal-XT: Higher accuracy hidden-code extraction of packed binary executable](https://iopscience.iop.org/article/10.1088/1757-899X/453/1/012001) （2018 年 11 月）：星：
 - ：报纸： [Mal-xtract: Hidden code extraction using memory analysis](https://doi.org/10.1088%2F1742-6596%2F801%2F1%2F012058) （2017 年 1 月） 
-- ：报纸： [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) （2017 年 7 月）：明星：
+- ：报纸： [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) （2017 年 7 月）：星：
 - ：报纸： [Malware analysis using visualized images and entropy graphs](https://link.springer.com/article/10.1007%2Fs10207-014-0242-0) （2015 年 2 月） 
 - ：笔记本： [Malware obfuscation techniques: A brief survey](https://ieeexplore.ieee.org/document/5633410) （2010 年 11 月） 
-- ：笔记本： [Malware obfuscation through evolutionary packers](https://doi.org/10.1145/2739482.2764940) （2015 年 7 月）：明星：
+- ：笔记本： [Malware obfuscation through evolutionary packers](https://doi.org/10.1145/2739482.2764940) （2015 年 7 月）：星：
 - ：报纸： [Malwise - An effective and efficient classification system for packed and polymorphic malware](https://ieeexplore.ieee.org/document/6171162) （2013年六月） 
 - ：笔记本： [McBoost: Boosting scalability in malware collection and analysis using statistical classification of executables](https://ieeexplore.ieee.org/document/4721567) （2008 年 12 月） 
 - ：笔记本： [Memory behavior-based automatic malware unpacking in stealth debugging environment](https://ieeexplore.ieee.org/document/5665794) （2010 年 10 月） 
@@ -158,8 +158,8 @@
 - ：笔记本： [MutantX-S: Scalable malware clustering based on static features](https://www.usenix.org/conference/atc13/technical-sessions/presentation/hu) （2013年六月） 
 - ：笔记本： [The new signature generation method based on an unpacking algorithm and procedure for a packer detection](https://www.earticle.net/Article/A147420) （2011 年 2 月） 
 - ：报纸： [Obfuscation: The hidden malware](https://ieeexplore.ieee.org/document/5975134) （2011 年 8 月） 
-- ：笔记本： [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) (December 2019)  :star:
-- ：笔记本： [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) （2007 年 12 月）：星：
+- ：笔记本： [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) （2019 年 12 月）：星：
+- ：笔记本： [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) (December 2007)  :star:
 - ：报纸： [On the adoption of anomaly detection for packed executable filtering](https://www.sciencedirect.com/science/article/pii/S0167404814000522?via%3Dihub) （2014 年 6 月） 
 - ：笔记本： [OPEM: A static-dynamic approach for machine-learning-based malware detection](https://link.springer.com/chapter/10.1007/978-3-642-33018-6_28) （2012 年 9 月） 
 - ：报纸： [An original entry point detection method with candidate-sorting for more effective generic unpacking](https://www.jstage.jst.go.jp/article/transinf/E98.D/4/E98.D_2014EDP7268/_article) （2015 年 1 月） 
@@ -185,7 +185,7 @@
 - ：bar_chart： [Qualitative and quantitative evaluation of software packers](http://webdiis.unizar.es/~ricardo/files/slides/industrial/slides_NcN-15.pdf) （2015 年 12 月） 
 - ：笔记本： [RAMBO: Run-Time packer analysis with multiple branch observation](https://link.springer.com/chapter/10.1007/978-3-319-40667-1_10) （2016 年 7 月） 
 - ：砂浆板： [REFORM: A framework for malware packer analysis using information theory and statistical methods](https://researchrepository.rmit.edu.au/view/delivery/61RMIT_INST/12246783310001341/13248377300001341) （2010 年 4 月） 
-- ：笔记本： [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) （2007 年 11 月）：星：
+- ：笔记本： [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star:
 - ：笔记本： [RePEconstruct: Reconstructing binaries with self-modifying code and import address table destruction](https://ieeexplore.ieee.org/document/7888727) （2016 年 10 月）：星：
 - ：笔记本： [Research and implementation of compression shell unpacking technology for PE file](https://ieeexplore.ieee.org/document/5231651) （2009 年 5 月） 
 - ：报纸： [Revealing packed malware](https://ieeexplore.ieee.org/document/4639028) （2008 年 9 月） 
@@ -193,7 +193,7 @@
 - ：砂浆板： [Robust static analysis of portable executable malware](https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Robust%20Static%20Analysis%20ofPortable%20ExecutableMalware.pdf) （2014 年 12 月） 
 - ：bar_chart： [Runtime packers testing experiences](https://docs.google.com/a/caro.org/viewer?a=v&pid=sites&srcid=Y2Fyby5vcmd8Y2Fyby13b3Jrc2hvcC0yMDA4fGd4OjZkNzk3MmI2YjZlMWMxZGI) （2008 年 5 月） 
 - ：笔记本： [SATURN - Software deobfuscation framework based on LLVM](https://doi.org/10.1145/3338503.3357721) （2019 年 11 月）：星：
-- ：报纸： [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) （2020 年 7 月）：明星：
+- ：报纸： [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) （2020 年 7 月）：星：
 - ：笔记本： [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://doi.org/10.1145/3422337.3447848) （2021 年 4 月）：星：：星：
 - ：报纸： [Secure and advanced unpacking using computer emulation](https://link.springer.com/article/10.1007%2Fs11416-007-0046-0) （2007 年 8 月） 
 - ：笔记本： [Semi-supervised learning for packed executable detection](https://ieeexplore.ieee.org/document/6060027) （2011 年 9 月） 
@@ -218,13 +218,13 @@
 - ：砂浆板： [Unpacking framework for packed malicious executables](https://repositorio-aberto.up.pt/bitstream/10216/68815/2/25935.pdf) （2013 年 7 月） 
 - ：报纸： [Unpacking techniques and tools in malware analysis](https://www.scientific.net/AMM.198-199.343) （2012 年 9 月） 
 - ：笔记本： [Unpacking virtualization obfuscators](https://dl.acm.org/doi/10.5555/1855876.1855877) （2009 年 8 月） 
-- ：报纸： [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) （2018 年 7 月）：明星：
+- ：报纸： [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) （2018 年 7 月）：星：
 - ：报纸： [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) （2007 年 3 月） 
 - ：笔记本： [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) （2017 年 8 月）：星：
 - ：bar_chart： [WaveAtlas: Surfing through the landscape of current malware packers](https://www.virusbulletin.com/virusbulletin/2016/12/vb2015-paper-waveatlas-surfing-through-landscape-current-malware-packers/) （2015 年 9 月） 
 - ：bar_chart： [When malware is packing heat](https://www.eurecom.fr/publication/5372) （2018 年 1 月）：星：
 - ：报纸： [WYSINWYX: What you see is not what you execute](https://doi.org/10.1145/1749608.1749612) （2010 年 8 月） 
-- ：报纸： [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) （2020 年 7 月）：明星：
+- ：报纸： [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) （2020 年 7 月）：星：
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -236,10 +236,12 @@
 - [Dataset of Packed ELF](https://github.com/dhondta/dataset-packed-elf) - 打包的 ELF 样本数据集.
 - [Dataset of Packed PE](https://github.com/dhondta/dataset-packed-pe) - 原始数据集 PackingData 的净化版本，从 Notpacked 文件夹中移除打包样本，但也移除打包器文件夹中未能打包的样本（与原始解压可执行文件具有相同的哈希值）.
 - [Ember](https://github.com/elastic/ember) - 从作为研究人员基准数据集的 PE 文件中收集特征.
+- [MaleX](https://github.com/Mayachitra-Inc/MaleX) - 恶意软件研究人员的恶意软件和良性 Windows 可执行样本数据集包含 1,044,394 个 Windows 可执行二进制文件和相应的图像表示，其中 864,669 个标记为恶意软件，179,725 个标记为良性.
 - [Malfease](https://web.archive.org/web/20141221153307/http://malfease.oarci.net) - 大约 5,000 个打包恶意软件样本的数据集.
 - [Malheur](https://www.sec.cs.tu-bs.de/data/malheur) - 包含记录的恶意软件（malware）行为，并已用于开发对恶意软件行为进行分类和聚类的方法（参见 2011 年的 JCS 文章）.
 - [Malicia](http://malicia-project.com/dataset.html) - 2013 年 11 个月期间从 500 个路过式下载服务器收集的 11,688 个恶意 PE 文件的数据集（已停产）.
 - [MalShare](https://malshare.com) - 免费的恶意软件存储库为研究人员提供访问样本、恶意源和 Yara 结果的权限.
+- [MalwareBazaar](https://bazaar.abuse.ch) - 由 abuse.ch 运营的项目旨在收集和共享恶意软件样本，帮助 IT 安全研究人员和威胁分析师保护他们的选区和客户免受网络威胁.
 - [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Internet 中的另一个恶意软件集合.
 - [OARC Malware Dataset](https://www.dns-oarc.net) - 2005 年 9 月至 2006 年 1 月通过邮件陷阱、用户提交、蜜罐和 OARC 汇总的其他来源在野外捕获的 3,467 个样本的半公开数据集，可根据要求提供给合格的学术和行业研究人员.
 - [Open Malware](https://web.archive.org/web/20190116100735/http://www.offensivecomputing.net/) - 在线收集恶意软件样本.
@@ -310,16 +312,16 @@
 - [PE-Toy](https://github.com/r0ngwe1/petoy) - PE 文件打包器.
 - [PELock](https://www.pelock.com)  - Windows 可执行文件的软件保护系统； 保护您的应用程序免遭篡改和逆向工程，并为软件许可证密钥管理提供广泛支持，包括对时间试用期的支持.
 - [PePacker](https://github.com/SamLarenN/PePacker) - 加密 .text 部分的简单 PE 打包器 我发布了一个简单的 PE 文件打包器，它加密 .text 部分并在最后一部分的末尾添加一个解密存根.
-- [PEShield](https://webscene.ir/tools/show/PE-SHIELD-0.25) - PE-SHIELD 是一个程序，它加密 32 位 Windows EXE 文件，使其仍然可执行.
+- [PEShield](https://webscene.ir/tools/show/PE-SHIELD-0.25) - PE-SHiELD is a program, which encrypts 32-bit Windows EXE files, leaving them still executable.
 - [PEtite](https://www.un4seen.com/petite/) - 免费的 Win32 (Windows 95/98/2000/NT/XP/Vista/7/etc) 可执行 (EXE/DLL/etc) 压缩器.
 - [sePACKER](https://sourceforge.net/projects/sepacker/) - Simple Executable Packer 正在压缩可执行文件的代码部分以减小二进制文件的大小.
 - [Silent-Packer](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer 是一个用纯 C 编写的 ELF / PE 打包器.
 - [Simple-PE32-Packer](https://github.com/z3r0d4y5/Simple-PE32-Packer) - 带有 aPLib 压缩库的简单 PE32 Packer.
-- [Smart Packer](https://www.smartpacker.nl) - 将带有 DLL、数据文件、第 3 方运行时的 32 位和 64 位应用程序打包到一个可立即运行的可执行文件中，无需安装或麻烦.
+- [Smart Packer](https://www.smartpacker.nl) - Packs 32 & 64bit applications with DLLs, data files, 3rd party run-time into one single executable that runs instantly, with no installs or hassles.
 - [theArk](https://github.com/aaaddress1/theArk) - C++ 中的 Windows x86 PE 打包程序.
 - [Themida](https://www.oreans.com/themida.php) - 来自 Renovo 论文：Themida 将原始 x86 指令转换为自己的随机指令集中的虚拟指令，然后在运行时解释这些虚拟指令.
 - [UPX](https://upx.github.io/) - 可执行文件的终极打包程序.
-- [Ward](https://github.com/ex0dus-0x/ward) - 这是一个 ELF 打包器的简单实现，它创建了用于在内存中加载恶意 ELF 的隐蔽释放器.
+- [Ward](https://github.com/ex0dus-0x/ward) - 这是一个 ELF 打包器的简单实现，它创建了用于在内存中加载恶意 ELF 的隐秘释放器.
 - [xorPacker](https://github.com/nqntmqmqmb/xorPacker) - 使用所有 PE 文件的简单打包程序，这些文件使用 XOR 实现加密您的 exe.
 - [ZProtect](http://www.jiami.net) - 重命名元数据实体并支持高级混淆方法，这些方法可以强化保护方案并完全阻止逆向工程.
 
@@ -329,7 +331,7 @@
 
 - [20to4](http://20to4.net) - 可执行压缩器，能够将大约 20k 最好的代码和数据填充到小于 4k 的空间中.
 - [ACProtect](https://www.yaldex.com/Bestsoft/Utilities/acprotect.htm) - 允许保护 Windows 可执行文件免受盗版的应用程序，使用 RSA 创建和验证注册密钥和解锁代码.
-- [AHPack](https://www.delphibasics.info/home/delphibasicscounterstrikewireleases/ahpacker01byfeuerraderahteam) - PE 和 PE + 文件打包器.
+- [AHPack](https://www.delphibasics.info/home/delphibasicscounterstrikewireleases/ahpacker01byfeuerraderahteam) - PE 和 PE+ 文件打包器.
 - [Application Protector](https://sourceforge.net/projects/balaji/) - 用于保护 Windows 应用程序的工具.
 - [AT4RE Protector](https://en.52yma.com/thread-5444-1-1.html) - 在 ASM 中编程的非常简单的 PE 文件保护器.
 - [AverCryptor](https://web.archive.org/web/20071012084924/http://secnull.org) - 小巧且非常方便的实用程序，旨在加密您可以存储任何私人信息的笔记 - 它有助于隐藏您的防病毒感染.
@@ -372,7 +374,7 @@
 - [624](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/624-11.zip) - COM 打包器，可以压缩小于 25000 字节的 COM 程序.
 - [ABK Scrambler](https://defacto2.net/f/a520164?packer=abk-scrambler) - 从 ABKprot 重新编码的 COM 文件加扰器和保护器.
 - [AEP](https://defacto2.net/f/a520164?packer=aep) - 为 COM 和 EXE 文件添加编码保护.
-- [AINEXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/ain232.zip) - DOS 可执行打包程序（AIN Archiver 套件的一部分）.
+- [AINEXE](https://defacto2.net/f/a520164?packer=ainexe) - DOS 可执行打包程序（AIN Archiver 套件的一部分）.
 - [aPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/apack099.zip) - 16 位实模式 DOS 可执行文件（.EXE 和 .COM）压缩器.
 - [AVPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/avpck122.zip) - 加密 EXE 或 COM 文件，以便它们只能在您的 PC 上启动.
 - [AXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/axe22.zip) - 程序压缩实用程序.
@@ -390,7 +392,7 @@
 - [EXELOCK 666](https://defacto2.net/f/a520164?packer=exelock666) - 保护 .EXE 文件的实用程序，因此没有人可以破解版权.
 - [FSE](https://defacto2.net/f/a520164?packer=fse) - 最终幻想安全信封免费软件，用于保护 COM 和 EXE 程序.
 - [Gardian Angel](https://defacto2.net/f/a520164?packer=gardian-angel) - 使用各种反调试技巧的 COM 和 EXE 加密器和保护器.
-- [JMCryptExe](https://defacto2.net/f/a520164?packer=jmce) - DOS EXE 加密.
+- [JMCryptExe](https://defacto2.net/f/a520164?packer=jmce) - DOS EXE 加密器.
 - [LGLZ](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/lglz104b.zip) - DOS EXE 和 COM 文件压缩器使用修改后的 LZ77.
 - [LzExe](https://defacto2.net/f/a520164?packer=lzexe) - MS-DOS 可执行文件压缩器.
 - [Mask](https://defacto2.net/f/a520164?packer=mask) - 使用加密和反调试技巧防止 COM 程序被破解的工具.
@@ -436,7 +438,7 @@
 - [Assiste (Packer)](https://assiste.com/Packer.html) - Assiste.com 的打包程序示例列表.
 - [AVClass](https://github.com/malicialab/avclass) - 用于标记/标记恶意软件样本的 Python 工具.
 - [Bintropy](https://github.com/dhondta/bintropy) - 原型分析工具，用于估计二进制文件包含压缩或加密字节的可能性.
-- [BinUnpack](https://doi.org/10.1145/3243734.3243771) - 解包方法免于繁琐的内存访问监控，因此引入了非常小的运行时开销.
+- [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 - [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - 分析平台，具有静态和动态分析技术、混合具体和符号执行、全系统仿真和二进制仪器的新颖融合，所有这些都有助于对实际安全问题进行最先进的研究.
 - [ChkEXE](https://defacto2.net/f/a91dea6?dosmachine=svga&dosspeed=max) - 识别几乎所有 EXE/COM 打包程序、加密程序或保护程序.
 - [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - 来自 ClamAV 的解包器.
@@ -463,7 +465,7 @@
 - [MalUnpack](https://github.com/hasherezade/mal_unpack) - 基于 PE 筛的动态拆包器.
 - [Manalyze](https://github.com/JusticeRage/Manalyze) - 强大的 PE 文件解析器，具有灵活的插件架构，允许用户深入静态分析文件.
 - [OEPdet](https://ieeexplore.ieee.org/abstract/document/7782073) - 自动原始入口点检测器.
-- [OllyDbg Scripts](https://github.com/xshows/ollydbg-script) - Collection of OllyDbg scripts for unpacking many different packers.
+- [OllyDbg Scripts](https://github.com/xshows/ollydbg-script) - OllyDbg 脚本的集合，用于解压许多不同的打包程序.
 - [OmniUnpack](https://doi.org/10.1109/ACSAC.2007.15) - 通过实时监控执行并检测已移除的打包层来快速、通用和安全地解包恶意软件的新技术.
 - [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - 使用内存和代码挂钩来检测加壳程序的工具.
 - [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - 用于帮助解包、解压缩和解密大多数使用高级仿真技术打包、压缩或加密的程序的工具.
@@ -471,7 +473,7 @@
 - [PackerID](https://github.com/sooshie/packerid) - 使用 PEid 签名并具有额外的输出类型、格式、数字签名提取和反汇编支持的 packerid.py 的分支.
 - [Packing-Box](https://github.com/dhondta/docker-packing-box) - Docker 映像收集许多与打包相关的工具，并用于制作打包可执行文件的数据集以用于机器学习.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - 对 Bochs PC 仿真器的扩展，使其能够监控解包存根的执行以提取原始代码.
-- [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
+- [PCjs](https://www.pcjs.org) - PCjs 使用 JavaScript 重新创建 IBM PC 体验，使用原始 ROM、以原始速度运行的 CPU 以及早期的 IBM 视频卡和显示器.
 - [PE Compression Test](http://pect.atspace.com/) - 在几个示例可执行文件上测试的打包程序列表，用于比较压缩大小.
 - [PE Detective](https://ntcore.com/?page_id=367) - 这个 GUI 工具可以扫描单个 PE 文件或整个目录（也可以递归）并生成完整的报告.
 - [PE-bear](https://github.com/hasherezade/pe-bear-releases) - PE 文件的免费软件反转工具旨在为恶意软件分析师提供快速灵活的“第一视图”，稳定且能够处理格式错误的 PE 文件.
@@ -485,6 +487,7 @@
 - [PEPack](https://github.com/merces/pev) - PE 文件打包器检测工具，属于 Unix 包“pev”的一部分.
 - [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - CLI 工具扫描 PE 文件以识别它们是如何构建的.
 - [PETools](https://github.com/petoolse/petools) - 用于操作 PE 文件的老式逆向工程工具（自 2002 年以来有着悠久的历史）.
+- [PEview](http://wjradburn.com/software) - 提供一种快速简便的方法来查看 32 位可移植可执行文件 (PE) 和组件对象文件格式 (COFF) 文件的结构和内容.
 - [Pin - A Dynamic Binary Instrumentation Tool](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html) - 用于 IA-32、x86-64 和 MIC 指令集架构的动态二进制检测框架，可以创建动态程序分析工具.
 - [PINdemonium](https://github.com/Phat3/PINdemonium) - 利用 PIN 功能的 PE 文件解包器.
 - [PolyUnpack](https://github.com/PlatonovIvan/PolyUnpack) - 尝试在没有任何启发式假设的情况下提取 PE 文件的原始隐藏代码的一般方法.
@@ -497,13 +500,13 @@
 - [Quick Unpack](http://qunpack.ahteam.org/?p=458) - 通用解包器，有助于解包过程.
 - [RapidEXE](https://sourceforge.net/projects/rapidexe) - 将 PHP/Python 脚本转换为独立可执行文件的简单有效的方法.
 - [RDG Packer Detector](http://www.rdgsoft.net) - 封隔器检测工具.
-- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
+- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 用于协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
 - [Reko](https://github.com/uxmal/reko) - 机器代码二进制文件的免费反编译器.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - 基于入口点部分的熵值和WRITE属性的打包检测工具.
 - [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.
 - [Renovo](https://doi.org/10.1145/1314389.1314399) - 基于TEMU（BitBlaze的动态分析组件）构建的检测工具，基于程序启动后新生成代码的执行和监控内存写入.
 - [RetDec](https://github.com/avast/retdec) - 基于 LLVM 的可重定向机器代码反编译器.
-- [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK: Archivers, exe-compressors, archiver shells and other related utils.
+- [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK：存档器、exe 压缩器、存档器外壳和其他相关实用程序.
 - [SAFE](https://github.com/dhondta/awesome-executable-packing/blob/master/mailto:mihai@cs.wisc.edu) - 可执行文件的静态分析器（按需提供）.
 - [SymPack](https://www.amazon.com/Norton-AntiVirus-2007-Old-Version/dp/B000IAOIXW)  - 安全、便携、非常有效但不是用于打包检测和拆包的通用库； 诺顿防病毒解决方案的一部分.
 - [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - 机器学习混合云平台，可大规模收集数千种文件类型，通过机器学习二进制分析加速威胁检测，并持续监控超过 10B 文件的索引以应对未来威胁.
@@ -516,6 +519,7 @@
 - [Uunp (IDA Pro plugin)](https://www.hex-rays.com/blog/unpacking-mpressed-pe-dlls-with-the-bochs-plugin/) - IDA Pro 调试器插件模块自动分析和解包打包的二进制文件.
 - [VirusTotal](https://www.virustotal.com/gui/) - 用于检测恶意软件的文件分析 Web 服务.
 - [VMUnpacker](https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - 基于虚拟机技术的解包器.
+- [Winbindex](https://github.com/m417z/winbindex) - Windows 二进制文件的索引，包括可执行文件（如 exe、dll 和 sys 文件）的下载链接.
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 

@@ -15,7 +15,7 @@
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) - 用于构建客户端 Web 应用程序的 Rust / WebAssembly 框架.
-- [Live demo](https://yew-todomvc.netlify.com) --一个 todomvc 演示.
+- [Live demo](https://yew-todomvc.netlify.com) - todomvc 演示.
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) - 官方回购中包含的较小示例.
 - [API Docs](https://docs.rs/yew) - docs.rs 上的文档.
 - [Website](https://yew.rs/) - 官方网站.
@@ -102,6 +102,7 @@
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder)  - 使用 docker-compose 为 Yew 构建 Tailwind CSS. 也支持Trunk.
 - [yew-components](https://github.com/angular-rust/yew-components) - Yew 框架的材料设计组件.
 - [yew-chart](https://github.com/titanclass/yew-chart) - 一个基于 Yew 的图表库，为渲染图表提供基于 SVG 的组件.
+- [tailyew](https://github.com/fuzzycloud/tailyew) - 围绕 DaisyUI（基于 tailwindcss）组件的 Yew 包装器.
 
 ### Components
 
@@ -123,7 +124,7 @@
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于 styled-components，但适用于 Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 适用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
-- [Tailwind RS](https://github.com/oovm/tailwind-rs) - Tailwind style tracer in rust, JIT + AOT interpreter.
+- [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的范围 CSS.
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 
@@ -164,7 +165,7 @@
 ## Books
 
 - [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - 使用 Web 并生成 .wasm 文件.
-- [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - 如何绑定 Rust 和 JavaScript API.
+- [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - How to bind Rust and JavaScript APIs.
 - [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - 如何构建和使用 rust 生成的 WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 包括“与 Yew 的高级 JavaScript 集成”一章，介绍如何使用 Yew 创建应用程序.
 - [Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/) - 第 5 章，`使用 Yew 创建客户端 WebAssembly 应用程序`.
