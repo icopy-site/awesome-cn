@@ -69,7 +69,7 @@
 - ：报纸： [An accurate packer identification method using support vector machine](https://www.jstage.jst.go.jp/article/transfun/E97.A/1/E97.A_253/_article) （2014年1月） 
 - ：笔记本： [Adaptive unpacking of Android Apps](https://ieeexplore.ieee.org/document/7985676) （2017 年 5 月） 
 - ：报纸： [All-in-one framework for detection, unpacking, and verification for malware analysis](https://www.hindawi.com/journals/scn/2019/5278137/) （2019 年 1 月）：星：
-- ：报纸： [Analysis of machine learning approaches to packing detection](https://arxiv.org/abs/2105.00473) （2021 年 5 月）:star: :star:
+- ：报纸： [Analysis of machine learning approaches to packing detection](https://arxiv.org/abs/2105.00473) （2021 年 5 月） :star: :star: :star:
 - ：笔记本： [Anti-unpacker tricks](http://2008.caro.org/downloads/unpackers.pdf) （2008 年 5 月） 
 - ：笔记本： [Application of string kernel based support vector machine for malware packer identification](https://ieeexplore.ieee.org/document/6707043) （2013年八月） 
 - ：笔记本： [AppSpear: Bytecode decrypting and DEX reassembling for packed Android malware](https://link.springer.com/chapter/10.1007/978-3-319-26362-5_17) （2015 年 11 月） 
@@ -80,12 +80,13 @@
 - ：报纸： [BinStat tool for recognition of packed executables](http://www.ijofcs.org/abstract-v06n1-pp03.html) （2010 年 9 月） 
 - ：笔记本： [BitBlaze: A new approach to computer security via binary analysis](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_1) （2008 年 12 月） 
 - ：笔记本： [Boosting scalability in anomaly-based packed executable filtering](https://link.springer.com/chapter/10.1007%2F978-3-642-34704-7_3) （2011 年 11 月） 
-- ：砂浆板： [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) （2020 年 6 月）：星：
+- ：砂浆板： [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) （2020 年 6 月）:star: :star:
 - ：笔记本： [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) （2018 年 1 月）：星：
 - ：笔记本： [Challenging anti-virus through evolutionary malware obfuscation](https://link.springer.com/chapter/10.1007%2F978-3-319-31153-1_11) （2016 年 4 月） 
 - ：报纸： [Classification of packed executables for accurate computer virus detection](http://www.sciencedirect.com/science/article/pii/S0167865508002110) （2008 年 10 月） 
 - ：笔记本： [Classifying packed programs as malicious software detected](https://www.semanticscholar.org/paper/Classifying-Packed-Programs-as-Malicious-Software-Osaghae/676f38819a0ed3028acce36f4f11b0c77e4cc0ae) （2016 年 12 月）：星：
-- ：笔记本： [Collective classification for packed executable identification](https://doi.org/10.1145/2030376.2030379) （2012 年 6 月）：星：
+- ：报纸： [A close look at a daily dataset of malware samples](https://doi.org/10.1145/3291061) （2019 年 1 月）：星：
+- ：笔记本： [Collective classification for packed executable identification](https://doi.org/10.1145/2030376.2030379) （2012 年 6 月） 
 - ：笔记本： [A comparative analysis of classifiers in the recognition of packed executables](https://ieeexplore.ieee.org/abstract/document/8995252) （2019 年 11 月）：星：
 - ：笔记本： [A comparative assessment of malware classification using binary texture analysis and dynamic analysis](https://dl.acm.org/doi/10.1145/2046684.2046689) （2011 年 9 月） 
 - ：笔记本： [Comparing malware samples for unpacking: A feasibility study](https://ieeexplore.ieee.org/document/7782073) （2016 年 8 月） 
@@ -101,11 +102,12 @@
 - ：笔记本： [Detecting packed executable file: Supervised or anomaly detection method?](https://ieeexplore.ieee.org/abstract/document/7784628) （2016 年 8 月）：星：
 - ：报纸： [Detecting packed executables based on raw binary data](https://www.semanticscholar.org/paper/DETECTING-PACKED-EXECUTABLES-BASED-ON-RAW-BINARY-Nataraja-Jacobb/53371424fb79de29a096e563b07fcae432f4d201) （2010 年 6 月） 
 - ：笔记本： [Detecting packed executables using steganalysis](https://ieeexplore.ieee.org/document/7018361) （2014 年 12 月） 
-- ：砂浆板： [Detecting packed PE files: Executable file analysis for the Windows operating system](https://uia.brage.unit.no/uia-xmlui/handle/11250/2823655) （2021 年 6 月）:star: :star:
-- ：笔记本： [Detection of metamorphic malware packers using multilayered LSTM networks](https://www.springerprofessional.de/en/detection-of-metamorphic-malware-packers-using-multilayered-lstm/18635334) （2020 年 11 月）：星：
+- ：砂浆板： [Detecting packed PE files: Executable file analysis for the Windows operating system](https://uia.brage.unit.no/uia-xmlui/handle/11250/2823655) （2021 年 6 月）:star::star::star:
+- ：笔记本： [Detection of metamorphic malware packers using multilayered LSTM networks](https://www.springerprofessional.de/en/detection-of-metamorphic-malware-packers-using-multilayered-lstm/18635334) （2020 年 11 月）:star::star:
 - ：笔记本： [Detection of packed executables using support vector machines](https://ieeexplore.ieee.org/document/6016774) （2011 年 7 月） 
 - ：笔记本： [Detection of packed malware](https://doi.org/10.1145/2490428.2490431) （2012 年 8 月） 
-- ：笔记本： [DexHunter: Toward extracting hidden code from packed Android applications](https://link.springer.com/chapter/10.1007/978-3-319-24177-7_15) （2015 年 9 月）：星：
+- ：笔记本： [DexHunter: Toward extracting hidden code from packed Android applications](https://link.springer.com/chapter/10.1007/978-3-319-24177-7_15) （2015 年 9 月） 
+- ：笔记本： [Disabling anti-debugging techniques for unpacking system in user-level debugger](https://ieeexplore.ieee.org/document/8939719) （2019 年 10 月）：星：
 - ：笔记本： [Dynamic binary instrumentation for deobfuscation and unpacking](https://hal.inria.fr/inria-00431666) （2009 年 11 月） 
 - ：笔记本： [Dynamic classification of packing algorithms for inspecting executables using entropy analysis](https://ieeexplore.ieee.org/document/6703681) （2013 年 10 月） 
 - ：报纸： [Effective, efficient, and robust packing detection and classification](http://www.sciencedirect.com/science/article/pii/S0167404818311040) （2018 年 1 月）：星：
@@ -122,7 +124,7 @@
 - ：笔记本： [ESCAPE: Entropy score analysis of packed executable](https://dl.acm.org/doi/10.1145/2388576.2388607) （2012 年 10 月） 
 - ：笔记本： [Ether: Malware analysis via hardware virtualization extensions](https://doi.org/10.1145/1455770.1455779) （2008 年 10 月） 
 - ：笔记本： [Eureka: A framework for enabling static malware analysis](https://link.springer.com/chapter/10.1007%2F978-3-540-88313-5_31) （2008 年 10 月） 
-- ：笔记本： [Experimental comparison of machine learning models in malware packing detection](https://ieeexplore.ieee.org/document/9237007) （2020 年 9 月）：星：
+- ：笔记本： [Experimental comparison of machine learning models in malware packing detection](https://ieeexplore.ieee.org/document/9237007) （2020 年 9 月） :star: :star:
 - ：笔记本： [An experimental study on identifying obfuscation techniques in packer](https://docplayer.net/63501103-An-experimental-study-on-identifying-obfuscation-techniques-in-packer.html) （2016 年 6 月） 
 - ：笔记本： [A fast flowgraph based classification system for packed and polymorphic malware on the endhost](https://ieeexplore.ieee.org/document/5474800/) （2010 年 4 月） 
 - ：笔记本： [Feature set reduction for the detection of packed executables](https://ieeexplore.ieee.org/document/6912767) （2014 年 6 月） 
@@ -150,16 +152,17 @@
 - ：报纸： [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) （2017 年 7 月）：星：
 - ：报纸： [Malware analysis using visualized images and entropy graphs](https://link.springer.com/article/10.1007%2Fs10207-014-0242-0) （2015 年 2 月） 
 - ：笔记本： [Malware obfuscation techniques: A brief survey](https://ieeexplore.ieee.org/document/5633410) （2010 年 11 月） 
-- ：笔记本： [Malware obfuscation through evolutionary packers](https://doi.org/10.1145/2739482.2764940) （2015 年 7 月）：星：
+- ：笔记本： [Malware obfuscation through evolutionary packers](https://doi.org/10.1145/2739482.2764940) （2015 年 7 月） 
 - ：报纸： [Malwise - An effective and efficient classification system for packed and polymorphic malware](https://ieeexplore.ieee.org/document/6171162) （2013年六月） 
 - ：笔记本： [McBoost: Boosting scalability in malware collection and analysis using statistical classification of executables](https://ieeexplore.ieee.org/document/4721567) （2008 年 12 月） 
 - ：笔记本： [Memory behavior-based automatic malware unpacking in stealth debugging environment](https://ieeexplore.ieee.org/document/5665794) （2010 年 10 月） 
 - ：笔记本： [Modern linux malware exposed](https://www.eurecom.fr/fr/publication/5584) （2018 年 6 月） 
 - ：笔记本： [MutantX-S: Scalable malware clustering based on static features](https://www.usenix.org/conference/atc13/technical-sessions/presentation/hu) （2013年六月） 
 - ：笔记本： [The new signature generation method based on an unpacking algorithm and procedure for a packer detection](https://www.earticle.net/Article/A147420) （2011 年 2 月） 
+- ：笔记本： [Obfuscation-resilient executable payload extraction from packed malware](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin) （2021 年 8 月） :star: :star: :star:
 - ：报纸： [Obfuscation: The hidden malware](https://ieeexplore.ieee.org/document/5975134) （2011 年 8 月） 
 - ：笔记本： [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) （2019 年 12 月）：星：
-- ：笔记本： [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) (December 2007)  :star:
+- ：笔记本： [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) （2007 年 12 月） 
 - ：报纸： [On the adoption of anomaly detection for packed executable filtering](https://www.sciencedirect.com/science/article/pii/S0167404814000522?via%3Dihub) （2014 年 6 月） 
 - ：笔记本： [OPEM: A static-dynamic approach for machine-learning-based malware detection](https://link.springer.com/chapter/10.1007/978-3-642-33018-6_28) （2012 年 9 月） 
 - ：报纸： [An original entry point detection method with candidate-sorting for more effective generic unpacking](https://www.jstage.jst.go.jp/article/transinf/E98.D/4/E98.D_2014EDP7268/_article) （2015 年 1 月） 
@@ -180,21 +183,22 @@
 - ：笔记本： [PE file header analysis-based packed PE file detection technique (PHAD)](https://ieeexplore.ieee.org/document/4654055) （2008 年 10 月） 
 - ：笔记本： [PE-Probe: Leveraging packer detection and structural information to detect malicious portable executables](https://www.semanticscholar.org/paper/PE-Probe%3A-Leveraging-Packer-Detection-and-to-Detect-Shafiq-Tabish/9811ec751f2b5bb41ee46c0ee2a3b6eccc39bb9a) （2009 年 6 月） 
 - ：笔记本： [PEAL - Packed executable analysis](https://link.springer.com/chapter/10.1007/978-3-642-29280-4_28) （2012 年 1 月） 
-- ：笔记本： [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) （2006 年 12 月） :star: :star: :star:
-- ：笔记本： [Prevalence and impact of low-entropy packing schemes in the malware ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf) （2020 年 2 月） :star:
+- ：笔记本： [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) （2006 年 12 月） 
+- ：笔记本： [Prevalence and impact of low-entropy packing schemes in the malware ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf) （2020 年 2 月） :star: :star:
 - ：bar_chart： [Qualitative and quantitative evaluation of software packers](http://webdiis.unizar.es/~ricardo/files/slides/industrial/slides_NcN-15.pdf) （2015 年 12 月） 
 - ：笔记本： [RAMBO: Run-Time packer analysis with multiple branch observation](https://link.springer.com/chapter/10.1007/978-3-319-40667-1_10) （2016 年 7 月） 
 - ：砂浆板： [REFORM: A framework for malware packer analysis using information theory and statistical methods](https://researchrepository.rmit.edu.au/view/delivery/61RMIT_INST/12246783310001341/13248377300001341) （2010 年 4 月） 
-- ：笔记本： [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star:
+- ：笔记本： [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) （2007 年 11 月） 
 - ：笔记本： [RePEconstruct: Reconstructing binaries with self-modifying code and import address table destruction](https://ieeexplore.ieee.org/document/7888727) （2016 年 10 月）：星：
+- :notebook: RePEF — 用于恢复打包可执行文件以进行恶意软件分析的系统（2011 年 7 月） 
 - ：笔记本： [Research and implementation of compression shell unpacking technology for PE file](https://ieeexplore.ieee.org/document/5231651) （2009 年 5 月） 
 - ：报纸： [Revealing packed malware](https://ieeexplore.ieee.org/document/4639028) （2008 年 9 月） 
 - ：笔记本： [Reverse engineering self-modifying code: Unpacker extraction](https://ieeexplore.ieee.org/document/5645447) （2010 年 10 月） 
 - ：砂浆板： [Robust static analysis of portable executable malware](https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Robust%20Static%20Analysis%20ofPortable%20ExecutableMalware.pdf) （2014 年 12 月） 
 - ：bar_chart： [Runtime packers testing experiences](https://docs.google.com/a/caro.org/viewer?a=v&pid=sites&srcid=Y2Fyby5vcmd8Y2Fyby13b3Jrc2hvcC0yMDA4fGd4OjZkNzk3MmI2YjZlMWMxZGI) （2008 年 5 月） 
-- ：笔记本： [SATURN - Software deobfuscation framework based on LLVM](https://doi.org/10.1145/3338503.3357721) （2019 年 11 月）：星：
-- ：报纸： [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) （2020 年 7 月）：星：
-- ：笔记本： [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://doi.org/10.1145/3422337.3447848) （2021 年 4 月）：星：：星：
+- ：笔记本： [SATURN - Software deobfuscation framework based on LLVM](https://doi.org/10.1145/3338503.3357721) （2019 年 11 月）:star: :star:
+- ：报纸： [SCORE: Source code optimization & reconstruction](https://ieeexplore.ieee.org/document/9139493) （2020 年 7 月） :star: :star:
+- ：笔记本： [SE-PAC: A self-evolving packer classifier against rapid packers evolution](https://doi.org/10.1145/3422337.3447848) （2021 年 4 月）:star::star::star:
 - ：报纸： [Secure and advanced unpacking using computer emulation](https://link.springer.com/article/10.1007%2Fs11416-007-0046-0) （2007 年 8 月） 
 - ：笔记本： [Semi-supervised learning for packed executable detection](https://ieeexplore.ieee.org/document/6060027) （2011 年 9 月） 
 - ：笔记本： [Semi-supervised learning for unknown malware detection](https://link.springer.com/chapter/10.1007/978-3-642-19934-9_53) （2011 年 4 月） 
@@ -205,7 +209,7 @@
 - ：笔记本： [A static, packer-agnostic filter to detect similar malware samples](https://link.springer.com/chapter/10.1007/978-3-642-37300-8_6) （2012 年 7 月） 
 - ：笔记本： [Structural feature based anomaly detection for packed executable identification](https://link.springer.com/chapter/10.1007%2F978-3-642-21323-6_29) （2011 年 6 月） 
 - ：笔记本： [The study of evasion of packed PE from static detection](https://ieeexplore.ieee.org/document/6280206) （2012 年 6 月） 
-- ：笔记本： [A study of the packer problem and its solutions](https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6) （2008 年 9 月）：星：
+- ：笔记本： [A study of the packer problem and its solutions](https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6) （2008 年 9 月） 
 - ：笔记本： [Survey on malware evasion techniques: State of the art and challenges](https://ieeexplore.ieee.org/abstract/document/6174775) （2012 年 2 月） 
 - ：笔记本： [Syntia: Synthesizing the semantics of obfuscated code](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko) （2017 年 8 月）：星：
 - ：笔记本： [Things you may not know about Android (Un) packers: A systematic study based on whole-system emulation.](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-4_Duan_paper.pdf) （2018 年 2 月）：星：
@@ -218,13 +222,13 @@
 - ：砂浆板： [Unpacking framework for packed malicious executables](https://repositorio-aberto.up.pt/bitstream/10216/68815/2/25935.pdf) （2013 年 7 月） 
 - ：报纸： [Unpacking techniques and tools in malware analysis](https://www.scientific.net/AMM.198-199.343) （2012 年 9 月） 
 - ：笔记本： [Unpacking virtualization obfuscators](https://dl.acm.org/doi/10.5555/1855876.1855877) （2009 年 8 月） 
-- ：报纸： [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) （2018 年 7 月）：星：
+- ：报纸： [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) （2018 年 7 月）：星：：星：
 - ：报纸： [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) （2007 年 3 月） 
 - ：笔记本： [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) （2017 年 8 月）：星：
 - ：bar_chart： [WaveAtlas: Surfing through the landscape of current malware packers](https://www.virusbulletin.com/virusbulletin/2016/12/vb2015-paper-waveatlas-surfing-through-landscape-current-malware-packers/) （2015 年 9 月） 
 - ：bar_chart： [When malware is packing heat](https://www.eurecom.fr/publication/5372) （2018 年 1 月）：星：
 - ：报纸： [WYSINWYX: What you see is not what you execute](https://doi.org/10.1145/1749608.1749612) （2010 年 8 月） 
-- ：报纸： [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) （2020 年 7 月）：星：
+- ：报纸： [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) （2020 年 7 月） :star: :star:
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -289,7 +293,7 @@
 - [DotBundle](https://web.archive.org/web/20160508074421/http://www.dotbundle.com:80/download.html) - 用于压缩、加密广告密码保护 .NET 应用程序或嵌入 .NET 库的 GUI 工具.
 - [DotNetZ](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/NETZ.shtml) - 用 C 语言编写的简单、轻量级的命令行软件，可让您压缩和打包 Microsoft .NET Framework 可执行文件.
 - [ElecKey](https://www.sciensoft.com) - 一套软件和工具，为软件保护、复制保护和许可证管理提供完整的解决方案.
-- [ELFuck](https://github.com/timhsutw/elfuck) - 来自 sd 的 sk2 的 i386 原始版本的 ELF 打包程序.
+- [ELFuck](https://github.com/timhsutw/elfuck) - ELF packer for i386 original version from sk2 by sd.
 - [Enigma Protector](https://www.enigmaprotector.com) - 可执行文件许可和保护的专业系统.
 - [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - 适用于 Windows 的应用程序虚拟化系统.
 - [Eronona-Packer](https://github.com/Eronana/packer) - 这是win32下的exe打包器.
@@ -321,7 +325,7 @@
 - [theArk](https://github.com/aaaddress1/theArk) - C++ 中的 Windows x86 PE 打包程序.
 - [Themida](https://www.oreans.com/themida.php) - 来自 Renovo 论文：Themida 将原始 x86 指令转换为自己的随机指令集中的虚拟指令，然后在运行时解释这些虚拟指令.
 - [UPX](https://upx.github.io/) - 可执行文件的终极打包程序.
-- [Ward](https://github.com/ex0dus-0x/ward) - 这是一个 ELF 打包器的简单实现，它创建了用于在内存中加载恶意 ELF 的隐秘释放器.
+- [Ward](https://github.com/ex0dus-0x/ward) - 这是一个 ELF 打包器的简单实现，它创建了用于在内存中加载恶意 ELF 的隐蔽释放器.
 - [xorPacker](https://github.com/nqntmqmqmb/xorPacker) - 使用所有 PE 文件的简单打包程序，这些文件使用 XOR 实现加密您的 exe.
 - [ZProtect](http://www.jiami.net) - 重命名元数据实体并支持高级混淆方法，这些方法可以强化保护方案并完全阻止逆向工程.
 
@@ -353,7 +357,7 @@
 - [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - 压缩您的可执行文件和动态链接库，使其保持较小且对压缩文件功能没有影响.
 - [RSCC](https://defacto2.net/f/a520164?packer=rscc)  - 玫瑰超级 COM 地穴； 用于大于 300-400B 且小于 60kB 的文件的多态加密器.
 - [RUCC](https://defacto2.net/f/a520164?packer=rucc)  - ROSE Ultra COM 压缩机； 基于 624 的 COM 和 EXE 压缩实用程序.
-- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，用安全防护罩保护目标应用程序，提供一种方法来抵消逆向工程和其他反调试措施.
+- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，使用安全防护罩保护目标应用程序，提供对抗逆向工程和其他反调试措施的方法.
 - [Shiva](https://packetstormsecurity.com/files/31087/shiva-0.95.tar.gz.html) - Shiva 是一个在 Linux 下加密 ELF 可执行文件的工具.
 - [Shrinker](https://web.archive.org/web/20081022073034/http://www.blinkinc.com/shrinker.htm) - 压缩（高达 70%）16 位和 32 位 Windows 和实模式 DOS 程序.
 - [tElock](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/Telock.shtml) - Telock 是一款实用工具，旨在帮助想要保护其工作并减小可执行文件大小的开发人员.
@@ -500,7 +504,7 @@
 - [Quick Unpack](http://qunpack.ahteam.org/?p=458) - 通用解包器，有助于解包过程.
 - [RapidEXE](https://sourceforge.net/projects/rapidexe) - 将 PHP/Python 脚本转换为独立可执行文件的简单有效的方法.
 - [RDG Packer Detector](http://www.rdgsoft.net) - 封隔器检测工具.
-- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 用于协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
+- [Red Curtain](https://mandiant-red-curtain.apponic.com) - Free software for Incident Responders that assists with the analysis of malware ; it examines executable files (e.g., .exe, .dll, and so on) to determine how suspicious they are based on a set of criteria.
 - [Reko](https://github.com/uxmal/reko) - 机器代码二进制文件的免费反编译器.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - 基于入口点部分的熵值和WRITE属性的打包检测工具.
 - [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.
