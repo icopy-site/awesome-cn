@@ -232,7 +232,7 @@
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - 通过可配置的路由提供 JSON 文件或 JavaScript 对象的内容来构建假后端.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - 使用符合 RFC 的缓存支持包装原生 HTTP 请求.
 - [gotql](https://github.com/khaosdoctor/gotql) - 基于 GraphQL 请求库 [got](https://github.com/sindresorhus/got).
-- [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+- [global-agent](https://github.com/gajus/global-agent) - 可使用环境变量配置的全局 HTTP/HTTPS 代理.
 - [smoke](https://github.com/sinedied/smoke) - 具有记录功能的基于文件的 HTTP 模拟服务器.
 - [purest](https://github.com/simov/purest) - REST 客户端.
 
@@ -393,7 +393,7 @@
 	- [pify](https://github.com/sindresorhus/pify) - 承诺一个回调风格的函数.
 	- [delay](https://github.com/sindresorhus/delay) - 将承诺延迟指定的时间.
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 记忆承诺返回功能，具有过期和预取.
-	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回函数的执行率.
+	- [valvelet](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
 - 可观察
@@ -561,9 +561,9 @@
 
 ### Database
 
-- 司机
+- Drivers
 	- [PostgreSQL](https://github.com/brianc/node-postgres)  - PostgreSQL 客户端. 纯 JavaScript 和本机 libpq 绑定.
-	- [Redis](https://github.com/luin/ioredis) - Redis 客户.
+	- [Redis](https://github.com/luin/ioredis) - Redis 客户端.
 	- [LevelUP](https://github.com/Level/levelup) - 水平数据库.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL 客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB 客户端.
@@ -586,7 +586,7 @@
 	- [Knex](https://github.com/knex/knex) - 用于 PostgreSQL、MySQL 和 SQLite3 的查询生成器，设计灵活、便携且使用起来很有趣.
 - 其他
 	- [NeDB](https://github.com/louischatriot/nedb) - 用 Ja​​vaScript 编写的嵌入式持久数据库.
-	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+	- [Lowdb](https://github.com/typicode/lowdb) - 由 Lodash 提供支持的小型 JavaScript 数据库.
 	- [Keyv](https://github.com/jaredwray/keyv) - 支持多个后端的简单键值存储.
 	- [Finale](https://github.com/tommybananas/finale) - 用于 Sequelize 模型的 RESTful 端点生成器.
 	- [database-js](https://github.com/mlaanderson/database-js) - 具有类 JDBC 连接的多个数据库的包装器.
@@ -669,7 +669,7 @@
 - [idoit](https://github.com/nodeca/idoit) - 具有高级作业控制的 Redis 支持的作业队列引擎.
 - [node-resque](https://github.com/actionhero/node-resque) - Redis 支持的作业队列.
 - [rsmq](https://github.com/smrchy/rsmq) - Redis 支持的消息队列.
-- [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能 Redis 支持的作业队列.
+- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 简单的高性能 Redis 消息队列，具有实时监控功能.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 无需样板即可构建基于 Amazon Simple Queue Service (SQS) 的应用程序.
 - [better-queue](https://github.com/diamondio/better-queue) - 当您无法使用 Redis 时，简单高效的作业队列.
@@ -750,7 +750,7 @@
 
 - [snappy](https://github.com/kesla/node-snappy) - Google 的 Snappy 压缩库的本机绑定.
 - [protobuf](https://github.com/protobufjs/protobuf.js) - 协议缓冲区的实现.
-- [compactr](https://github.com/compactr/compactr.js) - Compactr 协议的实施.
+- [compactr](https://github.com/compactr/compactr.js) - Compactr 协议的实现.
 
 ### Miscellaneous
 
@@ -828,7 +828,6 @@
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [Nodetuts](https://nodetuts.com) - 系列讲座，包括 TCP 和 HTTP API 服务器、异步编程等.
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - 垃圾谈论 V8 垃圾收集器.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Node.js 的创建者对它的一些限制进行了富有洞察力的谈话.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - 关于如何使用 Node.js 制作 REST API 的视频课程.
@@ -848,9 +847,6 @@
 - [Mastering Node](https://visionmedia.github.io/masteringnode/)
 - [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way/)
 - [Professional Node.js: Building JavaScript Based Scalable Software](https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
-- [Practical Node.js: Building Real-World Scalable Web Apps](https://practicalnodebook.com)
-- [Mixu's Node book](https://book.mixu.net/node/)
-- [Pro Express.js](https://proexpressjs.com)
 - [Secure Your Node.js Web Application](https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
@@ -887,7 +883,6 @@
 
 ### Community
 
-- [`#node.js` on Freenode](https://webchat.freenode.net/?channels=node.js)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/node.js)
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)

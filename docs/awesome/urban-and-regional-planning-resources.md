@@ -36,7 +36,7 @@ Data resources that are publicly available for use. Licenses may apply.
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft 地图正在美国发布全国范围内的开放式建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
-- [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了包括大气、海洋、陆地和洪水数据在内的当前和历史数据，以及四次更新的全球模拟和同化办公室 (GMAO) 天气分析数据和预测日常的.
+- [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了包括大气、海洋、陆地和洪水数据在内的当前和历史数据，以及四次更新的全球模拟和同化办公室 (GMAO) 天气分析数据和预测日常.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人身伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google 地球）、CSV（逗号分隔）和 XML.
 - [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是气象数据的每小时和半小时值的系列完整集合，以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
@@ -65,7 +65,7 @@ Data resources that are publicly available for use. Licenses may apply.
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国毗连的主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从自然中获得的许多好处，通常在美国被称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和作为地图服务. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地清单 (NWI) 是一个公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托基金对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
@@ -76,7 +76,7 @@ Data resources that are publicly available for use. Licenses may apply.
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社会脆弱性程度确定在灾难之前、期间或之后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)  - EJSCREEN 使用地图和报告来呈现三种信息：环境指标、人口统计指标和 EJ 指数. 附加信息： [Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了负担能力的综合视图，包括住房成本和社区层面的交通成本. 由社区技术中心提供.
-- [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供社区层面的家庭住房和交通成本估算以及建筑环境和人口统计数据的构成数据来缩小这一差距.  
+- [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供社区层面的家庭住房和交通成本估计值以及建筑环境和人口统计数据的构成数据来缩小这一差距.  
 - [Opportunity Atlas](https://www.opportunityatlas.org/) - 这些 [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
 - [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 将地理校正的房主贷款公司 (HOLC) 地图分层到美国现代底图上的交互式地图. 这些彩色编码的 HOLC 地图是被称为 *redlining* 的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国下 48 个州的主要都市区（1935-1940）.
 
@@ -121,7 +121,7 @@ Data resources that are publicly available for use. Licenses may apply.
 
 
 ### Transportation
-
+- [Accessibility Observatory](http://access.umn.edu/data/datasets/)  - 作为 Access Across America 系列的一部分，UMN 的无障碍观测站评估了美国主要大都市地区的多种交通可达性模式. 报告每年发布一次，部分数据集可通过明尼苏达大学的数字音乐学院获得.
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据网站上，浏览作为 BTS 国家交通地图集数据库 (NTAD) 产品一部分的地理空间数据.  NTAD 是一套全国性（美国）的交通设施和网络公共空间信息地理数据库； 交通网络上的人员、货物、车辆和工艺的流动； 以及影响或受交通网络影响的社会、经济和环境条件.
 - [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（以及历史人口普查十年一次）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家庭到工作的流量和小型地理区域的基于工作场所的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - HPMS 是一个国家级公路信息系统，包括有关国家公路的范围、状况、性能、使用和运营特征的数据.
@@ -130,8 +130,10 @@ Data resources that are publicly available for use. Licenses may apply.
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - Repository of operations, financial, and asset data that US transit agencies are required to report to the Federal Transit Administration. 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)  - 即用型全球街道网络模型和 GIS 格式的计算指标. 附加信息： [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - 由交通与发展政策研究所出版的全球所有快速交通走廊的集合，包括快速公交、轻轨和地铁. 
+- [TIGER](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) - 拓扑集成地理编码和
+参考 (TIGER) 数据库包含从美国人口普查的主地址文件中提取的边界、道路线和边界信息. 
 - [Transit Equity Dashboards](https://dashboard.transitcenter.org/) - 由 TransitCenter 发布的七个（并且还在增加）美国城市的交通系统的公平性分析.
-- [Accessibility Observatory](http://access.umn.edu/data/datasets/)  - 作为 Access Across America 系列的一部分，UMN 的无障碍观测站评估了美国主要大都市地区的多种交通可达性模式. 报告每年发布一次，部分数据集可通过明尼苏达大学的数字音乐学院获得.
+
 
 ## Vendor Data Resources
 可以为各种用途提供购买或许可数据的供应商. 
@@ -146,17 +148,17 @@ Data resources that are publicly available for use. Licenses may apply.
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道级图像和 AI 衍生的地图数据. 通过请求新的报道或使用易于使用的移动应用程序捕获您自己的报道来填补空白.
-- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用人工智能将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
+- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 
 ### Land Use and Land Cover
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的包裹数据，提供对当前县评估员文件的详细财产特征、销售记录、估值和数字副本的即时访问.
 - [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
-- [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用 AI 将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑足迹. 
+- [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用人工智能将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑足迹. 
 
 ### Resilience and Natural Hazards
 
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 由第一街基金会提供，该工具可以轻松确定房产是否曾因过去的重大事件而被洪水淹没，目前是否处于危险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损害成本.
+- [FloodFactor](https://firststreet.org/flood-factor/)  - 由第一街基金会提供，该工具可以轻松确定房产是否曾因过去的重大事件而被洪水淹没，目前是否处于危险之中，以及该风险如何随时间变化. 它还可以帮助估计与洪水相关的损害成本.
 
 ### Urban Observation
 
@@ -223,7 +225,7 @@ Python 库和相关资源.
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个建立城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供者：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
-- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取自行车共享数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
+- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
 - [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一组 Python 函数，用于从 OpenStreetMap 数据中绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
@@ -310,7 +312,7 @@ R 包和相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人士能够发布生活计划并通过支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划，并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划者和建模者设计，用于生成长期、小区域社会经济预测，使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
@@ -340,7 +342,7 @@ R 包和相关资源.
 
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是特定的论文，而是它们的策展人. 
-- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和运输部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
+- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和交通部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新的近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题并为决策者提供信息方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），和 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
