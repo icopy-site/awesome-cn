@@ -17,7 +17,7 @@
 
 此列表最初是 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) Karan Bhangui 和 George Stocker 的贡献.
 
-该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有超过 226,000 颗星，大约 9,600 名观察者，超过 7,000 次提交，1,900 多个贡献者和 47,700 多个分叉.
+该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有超过 226,000 颗星、大约 9,600 名观察者、超过 7,000 次提交、1,900 多个贡献者和 47,700 多个分叉.
 
 <div align="center" markdown="1">
 
@@ -91,7 +91,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-en.md)
++ [Korean / 한국어[韩国语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ko.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)
@@ -132,7 +132,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ja.md)
 + [Kazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-km.md)
-+ [韩语/韩语 [韩语]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
++ [Korean / 한국어[韩国语]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ml.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pl.md)
@@ -194,11 +194,11 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 志愿者已将我们的许多贡献、操作指南和行为准则文件翻译成我们列表中涵盖的语言.
 
-- 英语
-  - [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
-  - [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
-  - [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
-- ... *[More languages](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations)* ...
++ 英语
+  + [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
+  + [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
+  + [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
++ ... *[More languages](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations)* ...
 
 你可能会注意到有 [some missing translations here](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations) - 也许你想帮忙 [contributing a translation](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 

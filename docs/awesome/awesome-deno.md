@@ -128,8 +128,8 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno-context](https://github.com/code-hex/deno-context)  - 将截止日期、取消和其他请求范围的值传播到多个承诺. 这种行为就像 Go 的上下文.
 - [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您以极大的灵活性编写人类可读的 cron 语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 让 Deno 程序在后台运行.
---deno-dotenv
-  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) deno 的 Dotenv 动作.
+- deno-dotenv
+  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 处理.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式.
@@ -137,12 +137,14 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno-opn](https://github.com/hashrock/deno-opn)  - 打开网站、文件、可执行文件等内容. 跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - 用于管理 Deno 原生插件依赖项的库.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - 帮助生成随机间隔.
-- [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
+- [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - A simple tokenizer for deno.
 - [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
-- [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
+- [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
+- [durationjs](https://github.com/retraigo/duration.js) - 从时间戳或人类可读的字符串中获取持续时间.
 - [ensure](https://github.com/eankeen/ensure) - 确保您运行的是 Deno、Typescript 或 V8 的最低版本.
 - [evt](https://github.com/garronej/evt) - 键入 EventEmitter 的安全替换.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - 所有 javascript 平台的模式验证器 
+- [fortuna](https://github.com/queenochaos/fortuna) - 加权扭蛋系统.
 - [fossil](https://github.com/matteocrippa/fossil) - 值类型验证套件.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 插值环境变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.

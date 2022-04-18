@@ -6,7 +6,7 @@
 
 欢迎投稿.
 通过拉取请求添加链接或创建问题以开始讨论.
-请阅读 [contribution guidelines](https://github.com/liuchong/awesome-roadmaps/blob/master/contributing.md)， 谢谢！
+请阅读 [contribution guidelines](https://github.com/liuchong/awesome-roadmaps/blob/master/contributing.md)， 谢谢你！
 
 
 
@@ -23,6 +23,7 @@
 - [Angular Developer Roadmap 2](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap) - 2021 年成为 Angular 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap).
 - [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - 2021 年成为 ASP .NET Core 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
 - [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - 面向开发人员的社区驱动的路线图、文章和资源 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
+- [Frontend development roadmap](https://raw.githubusercontent.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf) - 前端开发面试清单和路线图 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/blob/main/2022_FE_roadmap.pdf).
 - [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) - 2020 年成为 Laravel 开发者的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
 - [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - 2019 年成为 React 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
 - [Vue Developer Roadmap](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap) - 2019 年成为 Vue.js 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap).
