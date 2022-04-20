@@ -198,7 +198,7 @@
 * [hogan.js](https://github.com/twitter/hogan.js) - Mustache 模板语言的编译器.
 * [doT](https://github.com/olado/doT) - 适用于 nodejs 和浏览器的最快 + 简洁的 JavaScript 模板引擎.
 * [dustjs](https://github.com/linkedin/dustjs/) - 浏览器和 node.js 的异步模板.
-* [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
+* [eco](https://github.com/sstephenson/eco/) - 嵌入式 CoffeeScript 模板.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - 压缩后约 400 字节的小型 JavaScript 模板框架.
 * [Pug](https://github.com/pugjs/pug)  - 强大、优雅、功能丰富的 nodejs 模板引擎.  （原名翡翠）
@@ -206,6 +206,17 @@
 * [xtemplate](https://github.com/xtemplate/xtemplate) - 用于节点和浏览器的可扩展模板引擎库
 * [marko](https://github.com/marko-js/marko) - 用于 Node.js 和浏览器的快速、轻量级、基于 HTML 的模板引擎，具有异步、流、自定义标签和 CommonJS 模块作为编译输出.
 * [swig](https://github.com/paularmstrong/swig) - （已归档）一个简单、强大且可扩展的 Node.js 和基于浏览器的 JavaScript 模板引擎.
+
+## Game Engines
+* [A-Frame](https://aframe.io) - 制作 WebVR.
+* [Cocos](https://www.cocos.com) - 开源跨平台游戏开发框架.
+* [Impact](https://impactjs.com) - 影响 - HTML5 画布和 JavaScript 游戏引擎.
+* [GDevelop](https://gdevelop.io) - 免费和简单的游戏制作应用程序.
+* [Kaboom.js](https://kaboomjs.com) - 一个游戏编程库，可帮助您快速有趣地制作游戏.
+* [Matter.js](https://brm.io/matter-js) - 2D 刚体 JavaScript 物理引擎.
+* [Phaser](https://phaser.io) - Phaser - 一个快速、有趣且免费的开源 HTML5 游戏框架.
+* [PixiJS](https://pixijs.com) - HTML5 创建引擎.
+* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL 游戏引擎.
 
 ## Articles and Posts
 
@@ -238,7 +249,7 @@
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) - 动态 HTML5 可视化.
 * [rickshaw](https://github.com/shutterstock/rickshaw) - 用于创建交互式实时图表的 JavaScript 工具包.
 * [flot](https://github.com/flot/flot) - 用于 jQuery 的有吸引力的 JavaScript 图表.
-* [morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
+* [morris.js](https://github.com/morrisjs/morris.js) - 漂亮的时间序列折线图.
 * [nvd3](https://github.com/novus/nvd3) - 为 d3.js 构建可重复使用的图表和图表组件.
 * [svg.js](https://github.com/wout/svg.js) - 用于操作和动画 SVG 的轻量级库.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - 基于 HTML5 画布的热图的 JavaScript 库.
@@ -253,7 +264,7 @@
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - 使用 HTML 5 和 WebGL 构建 3D 游戏的框架.
 * [recharts](https://github.com/recharts/recharts) - 重新定义了使用 React 和 D3 构建的图表库.
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS) - 基于 SVG/VML 技术的具有直观 API 的轻量级 JavaScript 图形库.
-* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图形和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本地运行.
+* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图表和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本地运行.
 * [Frappe Charts](https://github.com/frappe/charts) - 受 GitHub 启发的简单而现代的 SVG 图表，适用于网络，零依赖.
 * [Frappe Gantt](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 * [G2](https://github.com/antvis/G2) - 用于统计图表的高度交互式数据驱动的可视化语法.
@@ -417,7 +428,7 @@
 
 ## Storage
 
-* [store.js](https://github.com/marcuswestin/store.js)  - 所有浏览器的 LocalStorage 包装器，不使用 cookie 或 flash. 在底层使用 localStorage、globalStorage 和 userData 行为.
+* [store.js](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
 * [localForage](https://github.com/mozilla/localForage)  - 离线存储，改进. 使用简单但功能强大的 API 包装 IndexedDB、WebSQL 或 localStorage.
 * [jStorage](https://github.com/andris9/jStorage) - jStorage 是一个简单的键/值数据库，用于在浏览器端存储数据.
 * [cross-storage](https://github.com/zendesk/cross-storage) - 跨域本地存储，具有权限.
@@ -463,7 +474,7 @@
 * [contra](https://github.com/bevacqua/contra/) - 具有功能性的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - 功能齐全的承诺库，专注于创新功能和性能.
 * [when](https://github.com/cujojs/when) - 一个可靠、快速的 Promises/A+ 和 when() 实现，以及其他异步好东西.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供一个添加对事件监听器支持的原型（与浏览器上可用的 DOMElements 中的 EventTarget 具有相同的行为）.
 * [sporadic](https://github.com/marcoonroad/sporadic) - 在 Promise 之上，用于 Node 和浏览器引擎的可组合并发抽象（例如流、协程和类似 Go 的通道）.
 
 
@@ -488,7 +499,7 @@
 ## Log
 
 * [log](https://github.com/adamschwartz/log) - 带有风格的 Console.log.
-* [Conzole](https://github.com/Oaxoa/Conzole) - 内置在 JavaScript 中的调试面板，将 JavaScript 本机控制台对象方法和功能包装在页面内显示的面板中.
+* [Conzole](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
 * [console.log-wrapper](https://github.com/patik/console.log-wrapper) - 在任何浏览器中清晰地登录到控制台.
 * [loglevel](https://github.com/pimterry/loglevel) - JavaScript 的最小轻量级日志记录，添加可靠的日志级别方法来包装任何可用的 console.log 方法.
 * [minilog](http://mixu.net/minilog/) – 使用 Stream-API 后端的轻量级客户端和服务器端日志记录.
@@ -566,7 +577,7 @@
 *用于指示负载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - 创建 Google Material Design 进度条.
-* [NProgress](https://ricostacruz.com/nprogress/) - Ajax&#39;y 应用程序的细长进度条.
+* [NProgress](https://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
 * [Spin.js](https://github.com/fgnass/spin.js) - 旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) - 为页面上的每个对象创建和管理进度条.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且响应迅速的进度条.
@@ -575,7 +586,7 @@
 * [nanobar](https://github.com/jacoborus/nanobar)  - 非常轻量级的进度条. 没有 jQuery.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - 一组使用 CSS 动画的加载指示器.
 * [Ladda](https://github.com/hakimel/Ladda) - 带有内置加载指示器的按钮.
-* [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+* [css-loaders](https://github.com/lukehaas/css-loaders) - 一组使用 CSS 制作动画的加载微调器
 
 
 ## Validation
@@ -668,7 +679,7 @@
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - HTML5 占位符属性的 JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) - 使用 CSS3 效果在输入字段中输入乐趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件将一个简单的文本输入神奇地转换为一个很酷的标签列表.
-* [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - A pure JavaScript mask input.
+* [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式复选框和单选按钮的 jQuery 插件. 有皮肤支持.
 * [awesomplete](https://github.com/LeaVerou/awesomplete)  - 超轻量级、可用、美观的自动完成，零依赖.  - https://projects.verou.me/awesomplete/
 
@@ -687,7 +698,7 @@
 
 * [selectize.js](https://github.com/selectize/selectize.js)  - Selectize 是文本框和 ` 的混合体<select>`盒子.它是基于 jQuery 的，它具有自动完成和原生感觉的键盘导航；可用于标记、联系人列表等.
 * [select2](https://github.com/select2/select2)  - 基于 jQuery 的选择框替换. 它支持搜索、远程​​数据集和无限滚动结果.
-* [chosen](https://github.com/harvesthq/chosen) - 使冗长、笨重的选择框更加友好的库.
+* [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
 
 ### File Uploader
 
@@ -742,7 +753,7 @@
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) - 一个简单而快速的 API，用于在您滚动时监控元素.
 * [headroom](https://github.com/WickyNilliams/headroom.js)  - 给你的页面一些空间. 隐藏你的标题，直到你需要它.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用 One Page Scroll 插件创建类似 Apple 的一页滚动网站（iPhone 5S 网站）.
-* [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform JavaScript scroller.
+* [iscroll](https://github.com/cubiq/iscroll) - iScroll 是一款高性能、占用空间小、无依赖、多平台的 JavaScript 滚动器.
 * [skrollr](https://github.com/Prinzhorn/skrollr)  - 用于移动（Android + iOS）和桌面的独立视差滚动库. 没有 jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出反应的视差引擎.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - 视差滚动变得容易.
@@ -931,7 +942,7 @@
 * [list.js](https://github.com/javve/list.js)  - 为表格、列表和各种 HTML 元素添加搜索、排序、过滤器和灵活性. 构建为不可见并在现有 HTML 上工作.
 https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - 过滤和排序插件.
-* [grid](https://github.com/hootsuite/grid) - 用于二维、可调整大小和响应式列表的拖放库.
+* [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - 一个响应式的 jQuery 等高插件.
 * [SurveyJS](https://github.com/surveyjs/survey-library)  - SurveyJS 是一个 JavaScript 调查和表单库.  https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://objectexplorer.netlify.app/) - 帮助确定在任何给定时间最好使用哪种原生 JavaScript 方法的资源.
@@ -954,7 +965,7 @@ https://listjs.com
 
 ## Worth Reading
 
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 可能是用现代 JavaScript 编写的最好的书，完全免费在线阅读，或者可以购买以支持作者.
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 关于 JS 最佳实践、公认的编码标准和 Web 链接的易于阅读的快速参考.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费 JavaScript 电子书目录.
 * [Superhero.js](http://superherojs.com) - 关于创建、测试和维护大型 JavaScript 代码库的资源集合.

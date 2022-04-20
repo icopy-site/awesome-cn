@@ -16,7 +16,7 @@
 
 - [Editor](https://playcanvas.com/) - 基于浏览器的实时协作 WebGL 编辑器.
 - [Engine](https://github.com/playcanvas/engine) - 麻省理工学院许可的 PlayCanvas 运行时的完整源代码.
-- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
+- [glTF Viewer](https://playcanvas.com/viewer) - 符合 glTF 2.0 的模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
 - [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
@@ -43,6 +43,7 @@
 - [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) - 使用 PlayCanvas 和 Substance 为车辆配置器创建高端艺术品.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One 的 PlayCanvas 主题博客.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - 制作简单的基于物理的游戏的教程.
+- [Solar Games Mentorship](https://solargames.io/mentorship/) - 高级 PlayCanvas 培训和指导服务.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - 用于简短 PlayCanvas 教程的 YouTube 播放列表.
 
 ## Extensions and Utilities
@@ -157,8 +158,8 @@
 
 - [3D Plans](https://3dplans.com) - 房地产市场的虚拟旅游和互动地图.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - 交互式 3D 家具配置器.
-- [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - 电梯配置器.
-- [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - 电梯配置器.
+- [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
+- [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - 背包配置器.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
