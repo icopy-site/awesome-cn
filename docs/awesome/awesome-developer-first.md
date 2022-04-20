@@ -61,7 +61,7 @@
 *操纵和检测视觉数据.*
 * [clarifai](https://www.clarifai.com/) - 一组计算机视觉 API.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌识别.
-* [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
+* [Google Vision AI](https://cloud.google.com/vision) - 谷歌的人工智能视觉 API.
 * [roboflow](https://roboflow.com/) - 为开发人员简化计算机视觉模型创建.
 * [Scanbot SDK](https://scanbot.io/) - 从应用程序的图像中提取结构化数据.
 
@@ -100,6 +100,7 @@
 * [readme](https://readme.com/) - 个性化和动态的开发人员文档.
 * [DeveloperHub](https://developerhub.io/) - 协作开发者文档平台.
 * [swimm](https://swimm.io/) - 与您的代码耦合的文档，自动同步，适用于您的 IDE.
+* [Mintlify](https://www.mintlify.com/) - 人工智能驱动的代码文档，IDE 扩展（开源）.
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*

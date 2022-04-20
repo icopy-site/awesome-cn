@@ -25,6 +25,7 @@
 * [Ximera](https://ximera.osu.edu/) : 免费互动数学教科书（俄亥俄州立大学）
 * [Dzdx.xyz](https://www.dzdx.xyz/)
 * [Almost Fun](https://www.almostfun.org/lessons/)
+* [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 
 ## Learn to Learn
 
@@ -41,6 +42,7 @@
 * [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 * [Mathologer](https://www.youtube.com/c/Mathologer)
 * [The Math District](https://www.youtube.com/TheMathDistrict)
+* [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
 
 ## Tools
 
@@ -101,7 +103,7 @@
 * [ILoveMaths](http://ilovemaths.com/) - 适用于 K-12 系统中的 6 至 12 年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
 * [Mathsisfun](https://www.mathsisfun.com) 适合高中学生的简单文本轻量级网站
-* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（马歇尔大学数学教授，美国亨廷顿）
+* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（美国亨廷顿马歇尔大学数学教授）
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
@@ -117,7 +119,7 @@
 
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
-* [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - 埃利亚斯法
+* [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - 埃利亚斯·扎康
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak（弗吉尼亚联邦大学）
 
 ### Set Theory
@@ -141,7 +143,7 @@
 * [Proofs and Concepts: the fundamentals of abstract mathematics](http://people.uleth.ca/~dave.morris/books/proofs+concepts.html) - 乔伊莫里斯，戴夫莫里斯
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathreasoning) - 特德桑德斯特伦
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/) - Jeremy Avigad、Robert Y. Lewis 和 Floris van Doorn
-* [QED - an interactive textbook](https://teorth.github.io/QED) - Terence Tao
+* [QED - an interactive textbook](https://teorth.github.io/QED) - 陶特伦斯
 * [Open Logic Textbook](http://builds.openlogicproject.org/) - 协作努力，列出主要贡献者 [here](https://openlogicproject.org/people/)
 
 ### Category Theory
@@ -155,13 +157,13 @@
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - 彼得弗雷德
 * [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - PJ希金斯
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - 通用汽车凯利
-* [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - 吉里·阿达梅克、霍斯特·赫尔利希、乔治·斯崔彻
+* [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - 吉里·阿达梅克、霍斯特·赫利希、乔治·斯特雷克
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong 和 David I. Spivak（麻省理工学院）
 * [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl（约翰霍普金斯大学）  
 
 ### Type Theory
 * [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) ——让-伊夫·吉拉德
-* [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) ——马丁-洛夫
+* [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - 每马丁-洛夫
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - 西蒙汤普森
 * [Programming in Martin-Lof’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) - Bengt Nordstrom、Kent Petersson、Jan M. Smith
 
@@ -171,7 +173,7 @@
 
 ### Surreal Numbers
 
-* [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) ——德·克努特
+* [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - 德克努斯
 * [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) ——格雷琴·格林
 * [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 * [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) -菲利普诚实
@@ -235,13 +237,13 @@
 ### Linear Algebra
 
 * [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) ——詹姆斯·B·卡瑞尔
-* [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - 马丁诅咒
+* [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) ——马丁·弗鲁奇
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) ——罗伯特·豪利特
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) ——吉姆·赫弗伦
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - 胡安·克洛珀
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - 基思马修斯
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - 罗布·布雷泽
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) ——大卫·切尔尼、汤姆·丹顿、安德鲁·沃尔德隆
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) ——大卫·切尔尼、汤姆·丹顿、安德鲁·沃尔德伦
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, CC 王
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, CC 王
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd（斯坦福大学）、Lieven Vandenberghe（加州大学洛杉矶分校）
@@ -311,7 +313,7 @@
 * [Algebraic Geometry](http://www.cis.upenn.edu/~jean/algeoms.pdf) - Jean Gallier、Stephen S. Shatz（宾夕法尼亚大学）
 * [Algebraic Geometry](http://www.jmilne.org/math/CourseNotes/AG.pdf) - JS米尔恩
 * [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann（凯泽斯劳滕大学）
-* [The Stacks Project](https://stacks.math.columbia.edu/) - Maintained by Aise Johan de Jong (Columbia)
+* [The Stacks Project](https://stacks.math.columbia.edu/) - 由 Aise Johan de Jong（哥伦比亚）维护
 
 ### Topology
 
@@ -349,11 +351,11 @@
 * [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C.麦克马伦
 * [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - 理查德 F. 巴斯
 * [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer（印第安纳大学）
-* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - 埃利亚斯法
-* [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - 埃利亚斯法
+* [Mathematical Analysis Vol I](http://www.trillia.com/zakon-analysisI.html) - 埃利亚斯·扎康
+* [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) - 埃利亚斯·扎康
 * [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) ——林恩·卢米斯，施洛莫·斯腾伯格
 * [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) ——劳伦斯·巴格特
-* [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - Dan Sloughter
+* [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - 丹斯劳特
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) ——约翰·M·厄德曼
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) ——威尔弗雷德·卡普兰、唐纳德·J·刘易斯
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) ——威尔弗雷德·卡普兰、唐纳德·J·刘易斯
@@ -399,17 +401,17 @@
 
 ### Measure Theory
 
-* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
+* [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - 陶伦斯（加州大学洛杉矶分校）
 * [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa，T. D&#39;Aprile
 * [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - 克里斯特·博雷尔
-* [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
+* [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) ——史蒂夫·程
 * [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter（加州大学戴维斯分校）
 * [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon（苏黎世联邦理工学院）
 * [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - 布鲁斯 K. 司机
 
 ### Ordinary Differential Equations
 
-* [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - Dan Sloughter
+* [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - 丹斯劳特
 * [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
 * [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - 欧根·J·约纳斯库
 * [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) ——彼得·菲利普
@@ -438,7 +440,7 @@
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - 里克·杜雷特
 * [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - 马蒂亚斯·瓦伦丁（加州大学伯克利分校）
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - 威廉陈
-* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
+* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) 
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
 
 ### Statistics
@@ -465,7 +467,7 @@
 
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) - 加雷斯·詹姆斯、丹妮拉·维滕、特雷弗·哈斯蒂、罗伯特·蒂布希拉尼
 * [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf) ——特雷弗·哈斯蒂、罗伯特·蒂布希拉尼、杰罗姆·弗里德曼
-* [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - Percy Liang
+* [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) - 梁佩西
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf) ——理查德·S·萨顿、安德鲁·G·巴托
 
 ### Stochastic processes
@@ -476,7 +478,7 @@
 * [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé、Bettina Keller 和 Jan-Hendrik Prinz（柏林自由大学）
 * [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Zitkovic（德克萨斯大学）
 * [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - 马特斯科特（滑铁卢大学）
-* [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spiesma（莱顿大学）
+* [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma（莱顿大学）
 * [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) ——大卫·A·莱文、尤瓦尔·佩雷斯、伊丽莎白·L·威尔默
 * [Convergence of Stochastic Processes](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf) ——大卫·波拉德
 
@@ -529,4 +531,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Cyrille Rossant](http://cyrille.rossant.net) 已放弃本作品的所有版权和相关或邻近权利.
+在法律允许的范围内， [Cyrille Rossant](http://cyrille.rossant.net) 已放弃本作品的所有版权和相关或邻接权.

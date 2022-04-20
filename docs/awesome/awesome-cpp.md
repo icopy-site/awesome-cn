@@ -82,7 +82,7 @@
 * [libhv](https://github.com/ithewei/libhv) - Cross-platform event loop library. [BSD]
 * [libuv](https://github.com/libuv/libuv)  - 跨平台异步 I/O.  [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp)  - 实现 Promise/A+ 标准的仅标头库.  【反996】
-* [uvw](https://github.com/skypjack/uvw)  - libuv 的 C++ 包装器.  [我的]
+* [uvw](https://github.com/skypjack/uvw)  - libuv 的 C++ 包装器.  [麻省理工学院]
 
 ## Audio
 *音频、声音、音乐、数字化语音库*
@@ -120,7 +120,7 @@
 
 ## BitTorrent
 
-* [jech/dht](https://github.com/jech/dht) - C 语言中的 BitTorrent DHT 库 [麻省理工学院]
+* [jech/dht](https://github.com/jech/dht) - C 中的 BitTorrent DHT 库.[麻省理工学院]
 * [libtorrent](https://github.com/arvidn/libtorrent)  (aka libtorrent-rasterbar) - 一个高效的功能完整的 C++ bittorrent 实现.  [BSD]
 * [LibTorrent](https://github.com/rakshasa/libtorrent)  （又名 libtorrent-rakshasa）-BitTorrent 库.  [通用公共许可证]
 * [libutp](https://github.com/bittorrent/libutp)  - uTorrent 传输协议库.  [麻省理工学院]
@@ -291,9 +291,10 @@
 ## CSV
 *用于解析逗号分隔值 (CSV) 文件的库*
 
-* [csv2](https://github.com/p-ranav/csv2)  - 现代 C++ 的快速 CSV 解析器.  [麻省理工学院]
+* [csv2](https://github.com/p-ranav/csv2)  - 现代 C++ 的快速 CSV 解析器.  [和]
 * [Csv::Parser](https://github.com/ashaduri/csv-parser)  - 用 C++17 编写的编译时和运行时 CSV 解析器.  [Zlib]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)  - 用于读取 CSV 文件的小型、易于使用和快速的仅标头库.  [BSD-3-条款]
+* [lazycsv](https://github.com/ashtum/lazycsv)  - 适用于现代 C++ 的快速、轻量级和单头 csv 解析器.  [麻省理工学院]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)  - 一个快速、独立的流式 C++17 CSV 解析器，具有可选的类型转换和统计信息.  [麻省理工学院]
 
 ## Database
@@ -665,7 +666,7 @@
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 现代 C++ HTTP 请求库，具有简单但功能强大的接口. 仿照 Python 请求模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
@@ -798,7 +799,7 @@
 * [libffi](https://github.com/libffi/libffi)  - 一个可移植的外来函数接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  - 用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge)  - 用于将 Lua 绑定到 C++ 的轻量级、无依赖库.  [麻省理工学院]
-* [luacxx](https://github.com/dafrito/luacxx)  - 用于创建 Lua 绑定的 C ++ 11 API.  [麻省理工学院]
+* [luacxx](https://github.com/dafrito/luacxx)  - 用于创建 Lua 绑定的 C++11 API.  [麻省理工学院]
 * [nbind](https://github.com/charto/nbind)  - 使您的 C++ 库可从 JavaScript 访问的神奇标头.  [麻省理工学院]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)  - 使用 C++ 构建 PHP 扩展的库.  [阿帕奇2] [website](http://www.php-cpp.com/)
 * [pybind11](https://github.com/pybind/pybind11)  - C++11 和 Python 之间的无缝可操作性.  [BSD]
@@ -924,7 +925,7 @@
 * [sigslot](http://sigslot.sourceforge.net/)  - C++ 信号/插槽库.  [公共区域]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal)  - 高性能 C++11 信号.  [公共区域]
 * [Stage](https://github.com/rtv/Stage)  - 移动机器人模拟器.  [GPL2]
-* [stdman](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). [MIT]
+* [stdman](https://github.com/jeaye/stdman) 格式化的 C++11/14 stdlib 手册页（来自 cppreference）.  [麻省理工学院]
 * [stb](https://github.com/nothings/stb)  :zap: - 一系列用于 C/C++ 的单文件库.  [公共区域]
 * [StrTk](http://www.partow.net/programming/strtk/index.html)  - 由高性能字符串处理例程组成的 C++ 库.  [麻省理工学院]
 * [Tulip Indicators](https://tulipindicators.org)  - 超过 100 个金融技术分析指标的 AC 库.  [LGPL]
@@ -1009,7 +1010,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -1021,7 +1022,7 @@
 * [MesonBuild](http://mesonbuild.com) - 一个开源构建系统意味着非常快速，更重要的是，尽可能用户友好.
 * [Ninja](https://ninja-build.org/) - 一个专注于速度的小型构建系统.
 * [Scons](http://www.scons.org/) - 使用 Python 脚本配置的软件构建工具.
-* [Sconsolidator](http://www.sconsolidator.com/) - Scons 为 Eclipse CDT 构建系统集成.
+* [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [Spack](https://spack.io/)  - 一个灵活的包管理器，支持多个版本、配置、平台和编译器.  [Apache-2.0/MIT]
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.
