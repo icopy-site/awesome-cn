@@ -4,7 +4,7 @@
 
 [![Godot Engine logo](https://raw.githubusercontent.com/godotengine/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-精选列表 [free/libre](https://www.gnu.org/philosophy/free-sw.html) Godot 的游戏、插件、附加组件和脚本.
+精选列表 [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
 
 在 Godot 中寻找第三方编程语言支持？
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
@@ -20,7 +20,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3.2+
 
 - [Everplast](https://github.com/WraithWinterly/Everplast) - 独特的 2D 平台体验，充满愤怒、冲刺、速度和喷射.
-- [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
+- [Librerama](https://codeberg.org/Yeldham/librerama) - 免费/自由的快节奏街机迷你游戏合集.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 门户游戏的 2D 重制.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - 带有可自定义条目的猜词游戏.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) - 快节奏的本地派对游戏，星际飞船在自上而下的竞技场中战斗.
@@ -100,6 +100,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template)  - 自以为是的游戏模板. 它包括持续集成、带有图形转换的场景加载和游戏暂停处理.
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - 带有第一人称控制器的模板，可从 Inspector 轻松调整.
 - [Godot First Person Camera](https://github.com/tavurth/godot-simple-fps-camera) - 一个简单的 FPS 启动器，带有跳跃、移动、手电筒和带有动画的玩家角色.
+- [Godot FPS Template](https://github.com/MilkAndBanana01/godot-fps-template) - Godot 引擎的免费第一人称游戏模板.
 - [Godot Game Of Life](https://github.com/tavurth/godot-game-of-life) - 康威的*生活游戏*使用着色器.
 - [Minimum Game](https://github.com/benmarz/minimum_game) - 模板自上而下的 2D 像素艺术游戏，具有多个房间、HUD、菜单和自动保存.
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) - 多人第一人称射击游戏示例项目.
@@ -223,7 +224,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - 基于体素的体积光照和雾插件.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript 体素插件，用于在引擎和游戏中创建、导入和编辑体素内容.
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D 顶点绘画插件.
-- [Waterways](https://github.com/Arnklit/WaterGenGodot) - 使用基于贝塞尔曲线的流动和泡沫贴图生成河流网格的工具.
+- [Waterways](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - 用于创建视觉小说游戏的集成编辑器.
 
 #### Godot 3.1
@@ -310,7 +311,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - 语法高亮.
 - [GNU Nano](https://github.com/GodotID/nano-gdscript) - 语法高亮.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - 语法高亮.
-- [Vim](https://github.com/habamax/vim-godot)  - 使用 Godot 编辑器提供的 LSP 服务器进行语法高亮显示、自动完成和 linting. 还支持 Godot 着色器语言.
+- [Vim](https://github.com/habamax/vim-godot)  - 使用 Godot 编辑器提供的 LSP 服务器进行语法高亮、自动完成和 linting. 还支持 Godot 着色器语言.
 - 视觉工作室代码
   - [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools)  - 在 Visual Studio Code 中使用 Godot 引擎编写游戏的一整套工具. 包括一个 GDScript 语言客户端.
   - [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
@@ -338,7 +339,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *Bash 脚本可以放在`~/.local/bin` 中.*
 
 - [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - （和 [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) 编译和运行 Godot 的脚本，如果需要，会尝试安装依赖项.
-- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - 自动下载和启动 Godot 最新版本的脚本，或者编译和启动 Git `master` 分支的脚本.
+- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - 自动下载并启动 Godot 最新版本的脚本，或编译并启动 Git `master` 分支的脚本.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) - 帮助 Debian 和 Ubuntu 用户安装和使用 Godot 的脚本.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - 使用一个主文件更新文件副本的脚本.
 
@@ -360,5 +361,5 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用 Node.js 与 Godot 客户端通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于处理 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
-- [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
+- [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 为 RetroPie 安装 Godot“模拟器”的脚本模块.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.

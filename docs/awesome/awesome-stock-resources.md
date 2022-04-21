@@ -6,7 +6,7 @@
 
 &gt; 精选的精选图片、视频和插图网站列表.
 
-我尽力维护这个存储库并使其保持最新，但如果你发现一个损坏的链接或未列出的资源，请随时提出拉取请求.
+我尽力维护此存储库并使其保持最新，但如果您发现损坏的链接或未列出的资源，请随时提出拉取请求.
 
 
 
@@ -29,7 +29,7 @@
 * [Freely Photos](https://freelyphotos.com/) - 完全免费的高质量基督教图库摄影.
 * [Furious Camera](http://furiouscamera.com/)  - 免费的 Life Hi-Fi 照片，可用于您的个人和商业项目. 每天都有新照片.
 * [Gratisography](https://gratisography.com/)  - 您可以在个人和商业项目中使用免费的高分辨率图片. 每周添加新图片.
-* [Jay Mantri](http://jaymantri.com/)  - 免费图片. 做任何事情. 制造魔法.
+* [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - 免费提供高分辨率的商业或个人使用照片.
 * [LibreShot](https://libreshot.com/) - 数百张用于个人或商业用途的高质量免费库存图片的集合.
 * [Life of Pix](http://www.lifeofpix.com/)  - 免费的高分辨率照片，没有版权限制. 每周添加照片.
@@ -135,6 +135,7 @@
 包含不适合其他部分的库存图形元素的资源集合.
 
 * [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) 免费非商业、署名许可的 SVG 地图目录，包含两个级别的详细信息：高和低.
+* [Bioicons](https://bioicons.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) 高质量的科学插图.
 * [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) 来自 Facebook 的设计资源集合，包括 iOS9 GUI 和各种流行的设备模板.
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) 查找免费矢量、PSD、图标和照片.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) 一个有趣的矢量爱好者小社区，他们共享免费矢量图形.
@@ -217,14 +218,16 @@ CSS 和基于图像的模式资源的混合.
 * [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) 图标由 [Topcoat](http://topcoat.io/).
 * [Typicons](http://s-ings.com/typicons/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) 带有 336 个图标的圆形图标集.
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons 是唯一具有 222 个天气主题图标的图标字体和 CSS.
-* [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
+* [WeLoveIconFonts](http://weloveiconfonts.com) – 免费和开源的图标字体托管服务（如 Google Web Fonts，但仅限图标字体）.
 
 ### Icons Packages and Collections
 
 可用于您的界面和网站设计的 SVG 图标资源集合.
 
+* [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 为您的下一个项目免费提供 400 多个手工制作的图标.
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) 精心制作的图标集 [Daniel Bruce](http://www.danielbruce.se/).
 * [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons 是来自 Microsoft 的一系列熟悉、友好和现代的图标.
+* [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) 越来越多的 SVG 图标集合主要针对视频游戏.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) 来自 Tailwind CSS 制造商的漂亮、免费的 SVG 图标.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) 大量 SVG 和 PNG 格式的图标可供选择.
@@ -236,7 +239,7 @@ CSS 和基于图像的模式资源的混合.
 
 ## Colors
 
-A selection of websites offering color schemes.
+一系列提供配色方案的网站.
 
 * [0to255](http://www.0to255.com/) - 一个简单的工具，可以帮助网页设计师找到任何颜色的变化.
 * [0xrgb](http://0xrgb.com/) - 用于知名调色板（Material、iOS、FlatUI、Metro、Tango、Solarized）的简约颜色选择器.
