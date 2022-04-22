@@ -74,7 +74,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Base](https://github.com/substrate-developer-hub/substrate-node-template) - 基于最小框架
   节点，派生自 [upstream](https://github.com/paritytech/substrate/tree/master/bin/node-template). 
-- [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - Cumulus
+- [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - 积云
   启用的 Substrate 节点，源自 [upstream](https://github.com/paritytech/cumulus/tree/master/parachain-template).   
 - [Frontier](https://github.com/paritytech/frontier/tree/master/template) - 启用前沿
   EVM 和 Ethereum RPC 兼容的 Substrate 节点，准备好进行黑客攻击. 
@@ -138,6 +138,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
   [Nodle.io](https://github.com/NodleCode)
 - [`sube`](https://github.com/virto-network/sube) - 支持类型信息的轻量级 Rust 客户端库和 CLI.
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 及更多，由 Subscan 开发.
+- [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - 从底层元数据生成去（反）序列化/客户端代码.
 
 
 ## Mobile
@@ -220,7 +221,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
   Polkadot 测试网络，强调运行大型测试网络的能力.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - 一种
-  使用 Polkadot{JS} API 的 Substrate 的一组有用的 JavaScript 实用程序. 还
+  set of useful JavaScript utilities for Substrate that uses the Polkadot{JS} API. Also
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - 图表
   FRAME 托盘的基准输出.

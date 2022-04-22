@@ -15,7 +15,7 @@
 
 ## Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[AppImage](https://appimage.org) 是一种基于社区的格式，可将应用程序分发到各种主流 Linux 发行版，而无需集中存储. 一个应用程序 = 一个文件！ 此列表包含使用 AppImages 的工具，例如为应用程序创建 AppImages 并将 AppImages 轻松集成到系统中. 随着 AppImage 周围充满活力的社区不断壮大，这个列表也在增长.
+[AppImage](https://appimage.org) 是一种基于社区的格式，用于将应用程序分发到各种主流 Linux 发行版，而无需集中存储. 一个应用程序 = 一个文件！ 此列表包含使用 AppImages 的工具，例如为应用程序创建 AppImages 并将 AppImages 轻松集成到系统中. 随着 AppImage 周围充满活力的社区不断壮大，这个列表也在增长.
 
 
 
@@ -54,7 +54,7 @@
 - [appimage2desktop](https://github.com/me1ting/appimage2desktop) - 在系统中为 AppImage 创建桌面文件和图标，仅此而已.
 - [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - 用于创建、删除、控制和组织 AppImage 快捷方式的程序.
 - [LinuxPA](https://github.com/CalebQ42/LinuxPA) - 适用于具有 AppImage 支持的 Linux 的 PortableApps.com 类型启动器.
-- [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
+- [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - 无需守护程序即可为 AppImages 创建菜单条目.
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) - 为 GNOME 和 KDE 兼容桌面环境的文件管理器中显示的 AppImage 生成图标.
  - [XApp Thumbnailers] - GTK 桌面环境的缩略图，包括一个用于 AppImage 文件格式的缩略图. 使基于 Gtk 的文件管理器，如 Caja (MATE)、Nautilus (GNOME)、Nemo (Cinnamon)、PCManFM (LXDE) 和 Thunar (Xfce) 在 AppImages 上显示应用程序图标.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - 从 Gnome 桌面监控和（卸载）安装 AppImages.
@@ -82,6 +82,7 @@
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - AppImages 和 Shell 脚本的包管理器.
 - [AppMan](https://github.com/ivan-hc/AppMan) - 像 APT 或 Pacman 一样工作的 AppImage 管理器.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
+- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一、静态、无依赖的二进制文件. 用围棋写的.
 
 ### Linux distributions
 
@@ -173,7 +174,7 @@
 ### Continuous integration
 
 - [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - 如何将使用 GitHub Actions 构建的 AppImages 上传到 GitHub Releases 的示例.
-- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - 更大、更复杂的示例，说明如何使用 GitHub Actions 构建和上传 AppImage.
+- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - 使用 appimage-builder 生成 AppImages 的 GitHub 操作.
 - [jniltinho/packages](https://github.com/jniltinho/packages) - 使用 go-appimagetool 生成 AppImages 的 Drone.io 示例.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - 如何直接链接到 GitLab CI 上的最新构建工件的示例（可能很棘手）.
@@ -192,7 +193,7 @@
 - [qt-qml-project-template-with-ci](https://github.com/219-design/qt-qml-project-template-with-ci)  - 包含电池的 Qt/QML 应用程序模板：GitHub CI、自动 GUI 测试、自动代码格式检查等. 为 Linux (AppImage)、Mac 和 Android 编译.
 - [mini-qml](https://github.com/patrickelectric/mini-qml) - 用于 Linux (AppImage)、Windows、macOS 和 WebAssembly 的最小 Qml 应用程序模板.
 - [wxWidgetsTemplate](https://github.com/Ravbug/wxWidgetsTemplate) - wxWidgets C++的跨平台应用模板，带有预设文件和IDE项目，支持AppImage.
-- [Briefcase Linux AppImage Template](https://github.com/beeware/briefcase-linux-appimage-template) - Cookiecutter 模板，用于构建将在 Linux 下运行的 Python 应用程序，打包为 AppImage.
+- [Briefcase Linux AppImage Template](https://github.com/beeware/briefcase-linux-appimage-template) - 用于构建将在 Linux 下运行的 Python 应用程序的 Cookiecutter 模板，打包为 AppImage.
 
 ## Resources
 
@@ -208,7 +209,7 @@
 
 ### Tutorials
 
-- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作一个捆绑了_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且还可以在比构建系统的_旧_系统上运行.
+- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作捆绑_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且可以在比构建系统的_旧_系统上运行.
 
 ### Articles
 
@@ -241,7 +242,7 @@
 - [#AppImage channel on libera.chat](https://web.libera.chat/#AppImage) - 在 AppImage 开发人员和用户闲逛的地方聊天，如果您没有立即得到答案，请准备好在频道中停留几天.
 - [discourse.appimage.org](https://discourse.appimage.org/) - 面向用户和应用程序开发人员的官方 AppImage 论坛.
 - [Stack Overflow](https://stackoverflow.com/tags/AppImage) - Stack Overflow 上标记为“[appimage]”的问题.
-- [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage subreddit.
+- [r/AppImage/](https://www.reddit.com/r/AppImage/) - AppImage 子版块.
 
 ### Miscellaneous
 

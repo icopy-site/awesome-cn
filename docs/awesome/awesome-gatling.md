@@ -16,7 +16,6 @@
   - [Gatling](https://gatling.io/open-source/) - 开源版本.
   - [Gatling Enterprise](https://gatling.io/enterprise/) - 企业版（以前称为 Gatling FrontLine），具有高级分析和集成.
 - [Documentation](https://gatling.io/docs/gatling/)
-- [Cheat-sheet](https://gatling.io/docs/gatling/reference/current/cheat-sheet/)
 - [Source code](https://github.com/gatling/gatling)
 
 ## Getting Started
@@ -93,13 +92,14 @@
 ## Trainings & Courses
 
 - [Gatling Academy](https://gatling.io/academy/)
-- [Gatling Courses by Udemy](https://www.udemy.com/topic/gatling/)
+- [Gatling Courses](https://www.udemy.com/topic/gatling/) - 由 Udemy.
+- [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - 通过教育.
 
 ## Videos
 
 ### Talks
 
-- [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - Stéphane Landelle @ Voxxed Days Belgrade 2015
+- [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - Stéphane Landelle @ Voxxed Days Belgrade 2015.
 
 ### Video Tutorials
 

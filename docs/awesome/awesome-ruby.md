@@ -94,11 +94,11 @@
 
 ## Authentication and OAuth
 
+* [API Guard](https://github.com/Gokul595/api_guard) - 针对 Rails API 的 JWT 身份验证解决方案.
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic 是一个干净、简单且不显眼的 ruby​​ 身份验证解决方案.
 * [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
 * [Devise](https://github.com/heartcombo/devise) - 基于 Warden 的灵活的 Rails 身份验证解决方案.
 * [JWT](https://github.com/jwt/ruby-jwt) - Ruby 中的 JSON Web 令牌实现.
-* [Knock](https://github.com/nsarno/knock) - Rails API 的无缝 JWT 身份验证.
 * [Monban](https://github.com/halogenandtoast/monban) - 一个非常简单且可扩展的 Rails 用户身份验证库.
 * [OmniAuth](https://github.com/omniauth/omniauth) - 一个使用 Rack 中间件标准化多提供商身份验证的库.
 * [Rodauth](https://github.com/jeremyevans/rodauth) - Rack 应用程序的身份验证和帐户管理框架.
@@ -184,7 +184,7 @@
 
 * [Awesome Print](https://github.com/awesome-print/awesome_print) - 漂亮地打印您的 Ruby 对象 - 全彩和适当的缩进
 * [Betty](https://github.com/pickhardt/betty)  - 友好的类似英语的命令行界面. 不记得命令？ 问贝蒂.
-* [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加具有设置文本颜色、背景颜色和文本效果的方法的 ColorizedString.
+* [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加带有方法的 ColorizedString 来设置文本颜色、背景颜色和文本效果.
 * [colorls](https://github.com/athityakumar/colorls) - 美化了`ls`命令，带有颜色和字体很棒的图标.
 * [formatador](https://github.com/geemus/formatador) - STDOUT 文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置 ANSI 终端颜色的简单快捷方式.
@@ -216,7 +216,7 @@
 
 * [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 * [Coverband](https://github.com/danmayer/coverband) - 机架中间件，以帮助测量生产代码覆盖率.
-* [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个受 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲高度启发的命令行工具，让您的 Ruby 运行得更快.
+* [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个命令行工具让你的 Ruby 运行得更快，灵感来自 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲.
 * [Flay](https://github.com/seattlerb/flay)  - Flay 分析代码的结构相似性. 文字值、变量、类、方法名称、空格、编程风格、大括号与 do/end 等方面的差异都将被忽略. 使这完全是辐射.
 * [Flog](https://github.com/seattlerb/flog)  - Flog 在一个易于阅读的痛苦报告中报告最受折磨的代码. 分数越高，代码越痛苦.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) - 具有丰富网络前端的复杂性分析工具.
@@ -227,7 +227,7 @@
 * [Reek](https://github.com/troessner/reek) - Ruby 的代码气味检测器.
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - Ruby 代码质量报告员.
 * [Scientist](https://github.com/github/scientist) - 一个用于仔细重构关键路径的 Ruby 库.
-* [SimpleCov](https://github.com/colszowka/simplecov) - Ruby 1.9+ 的代码覆盖率，具有强大的配置库和跨测试套件的自动合并覆盖率.
+* [SimpleCov](https://github.com/colszowka/simplecov) - Ruby 1.9+ 的代码覆盖率，具有强大的配置库和跨测试套件的自动覆盖率合并.
 * [Sorbet](https://github.com/sorbet/sorbet) - Ruby 的静态类型检查器.
 * [Suture](https://github.com/testdouble/suture) - 一个 Ruby gem，可帮助您重构遗留代码.
 * [Traceroute](https://github.com/amatsuda/traceroute) - 一个 Rake 任务宝石，可帮助您找到 Rails 3+ 应用程序的死路和操作
@@ -376,7 +376,7 @@
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - 数据库查看器和 SQL 查询运行器.
 * [Rein](https://github.com/nullobject/rein) - 数据库约束使 ActiveRecord 变得容易.
 * [Scenic](https://github.com/thoughtbot/scenic) - Rails 的版本化数据库视图.
-* [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus 为 ActiveRecord 提供了一系列增强和扩展
+* [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
 * [SecondBase](https://github.com/customink/secondbase)  - Rails 的第二个数据库无缝集成.  SecondBase 通过扩展创建、迁移和测试应用程序的 ActiveRecord 任务来支持 Rails 管理双数据库.
 * [Seedbank](https://github.com/james2m/seedbank) - Seedbank 允许您构建 Rails 种子数据，而不是将其全部转储到一个大文件中.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 任务将数据库的（部分）转储到 db/seeds.rb.
@@ -459,7 +459,7 @@
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) - 每周一次关于编程的小组讨论，主要使用 Ruby.
 * [Ruby Weekly](https://rubyweekly.com/) - 每周一次的免费电子邮件汇总 Ruby 新闻和文章.
 * [The Ruby Bibliography](https://rubybib.org) - 关于 Ruby 的研究论文.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) - Ruby 和 Rails 插件、gem、工具和资源的综合目录，基于 GitHub 观察者和 Gem 下载的流行度评级，供 Ruby 开发人员使用.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) - Ruby 和 Rails 插件、gem、工具和资源的综合目录，为 Ruby 开发人员提供基于 GitHub 观察者和 Gem 下载的流行度评级.
 
 ## Documentation
 
@@ -578,7 +578,7 @@
 
 * [Guard](https://github.com/guard/guard) - 一个命令行工具，可轻松处理文件系统修改事件.
 * [Guard::LiveReload](https://github.com/guard/guard-livereload) - 修改“查看”文件时自动重新加载浏览器.
-* [Listen](https://github.com/guard/listen) - Listen gem 监听文件修改并通知您有关更改.
+* [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 * [Rerun](https://github.com/alexch/rerun)  - 文件系统更改时重新启动应用程序. 如果在 OS X 上，则使用咆哮和 FSEventStream.
 
 ## Form Builder
@@ -791,7 +791,7 @@
 
 * [bootsnap](https://github.com/Shopify/bootsnap) - 更快地启动大型 Rub​​y/Rails 应用程序.
 * [fast_blank](https://github.com/SamSaffron/fast_blank) - 提供 C 优化方法来确定字符串是否为空白.
-* [fast_underscore](https://github.com/kddeisz/fast_underscore) - 提供一种 C 优化方法，用于将字符串从任何大小写转换为下划线分隔
+* [fast_underscore](https://github.com/kddeisz/fast_underscore) - 提供一种 C 优化方法，用于将字符串从任何大写转换为下划线分隔
 * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - Ruby 的流式 JSON 解析和编码库（C 绑定到 yajl）.
 
 ## ORM/ODM
@@ -804,7 +804,7 @@
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - 用于 Ruby 的 RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) - Redis 的对象哈希映射库.
 * [Redis-Objects](https://github.com/nateware/redis-objects) - Redis Objects 通过 redis gem 上的薄层将 Redis 数据类型映射到 Ruby 对象，为 Redis 提供 Rubyish 接口.
-* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，旨在提供强大的对象映射功能，而不会限制数据存储的全部功能.
+* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，其目标是在不限制数据存储的全部功能的情况下提供强大的对象映射功能.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel 是一个简单、灵活、强大的 Ruby 的 SQL 数据库访问工具包.
 
 ## ORM/ODM Extensions
@@ -1015,7 +1015,7 @@
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.
 * 具体
   * [BioRuby](https://github.com/bioruby/bioruby) - 用于开发生物信息学软件的库.
-  * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
+  * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - Ruby 中的 BloomFilter(s)：本机计数过滤器 + Redis 计数/非计数过滤器.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个 ruby​​ 库，它实现了用于决策树学习的 ID3（信息增益）算法.
 * 实用程序
   * [algorithms](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
@@ -1143,7 +1143,7 @@
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库接受标准的可执行规范.
   * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是一个用于 Ruby 和 MRuby 的有原则的测试框架，旨在准确地提供有效和轻松地测试精心设计的代码所需的内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
-* Fake Data
+* 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
   * [factory_bot](https://github.com/thoughtbot/factory_bot) - 用于将 Ruby 对象设置为测试数据的库.
   * [Fake Person](https://github.com/adamcooke/fake-person) - 使用美国和英国一些最流行的给定和姓氏.
