@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/><br/>
 <div align="center">
-	<img width=450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_2.svg" alt="Awesome">
+	<img width=450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada.svg" alt="Awesome">
 </div>
 
 <br><br>
@@ -180,7 +180,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -468,7 +468,7 @@
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 编解码器，例如 Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - Ada 中 Axon 的 ABF 文件格式（电生理学，最常见）的访问例程库.
-- [ada-toml] - 存在的 TOML 解析器.
+- [there-toml] - 现有的 TOML 解析器.
 
 [protobuf]：https://github.com/reznikmm/protobuf
 [ada-toml]：https://github.com/pmderodat/ada-toml

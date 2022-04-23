@@ -24,7 +24,9 @@
 
 - :earth_americas: [a.out (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?a.out(5))
 - :earth_americas: [A.out binary format](https://wiki.osdev.org/A.out)
+- :earth_americas: [About anti-debug tricks](https://anti-debug.checkpoint.com/about)
 - ：bar_chart： [Android packers: Separating from the pack](https://www.fortiguard.com/events/759/2014-06-12-android-packers-separating-from-the-pack)
+- ：图钉： [Anti debugging protection techniques with examples](https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software)
 - ：bar_chart： [API deobfuscator: Resolving obfuscated API functions in modern packers](https://www.blackhat.com/docs/us-15/materials/us-15-Choi-API-Deobfuscator-Resolving-Obfuscated-API-Functions-In-Modern-Packers.pdf)
 - ：bar_chart： [The art of unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf)
 - ：图钉： [Cloak and dagger: Unpacking hidden malware attacks](https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/unpacking-hidden-malware-attacks)
@@ -79,7 +81,7 @@
 - ：报纸： [Binary-code obfuscations in prevalent packer tools](https://doi.org/10.1145/2522968.2522972) （2013 年 10 月）：星：
 - ：报纸： [BinStat tool for recognition of packed executables](http://www.ijofcs.org/abstract-v06n1-pp03.html) （2010 年 9 月） 
 - ：笔记本： [BitBlaze: A new approach to computer security via binary analysis](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_1) （2008 年 12 月） 
-- ：笔记本： [Boosting scalability in anomaly-based packed executable filtering](https://link.springer.com/chapter/10.1007%2F978-3-642-34704-7_3) （2011 年 11 月） 
+- ：笔记本： [Boosting scalability in anomaly-based packed executable filtering](https://link.springer.com/chapter/10.1007%2F978-3-642-34704-7_3) (November 2011) 
 - ：砂浆板： [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) （2020 年 6 月）:star: :star:
 - ：笔记本： [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) （2018 年 1 月）：星：
 - ：笔记本： [Challenging anti-virus through evolutionary malware obfuscation](https://link.springer.com/chapter/10.1007%2F978-3-319-31153-1_11) （2016 年 4 月） 
@@ -293,7 +295,7 @@
 - [DotBundle](https://web.archive.org/web/20160508074421/http://www.dotbundle.com:80/download.html) - 用于压缩、加密广告密码保护 .NET 应用程序或嵌入 .NET 库的 GUI 工具.
 - [DotNetZ](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/NETZ.shtml) - 用 C 语言编写的简单、轻量级的命令行软件，可让您压缩和打包 Microsoft .NET Framework 可执行文件.
 - [ElecKey](https://www.sciensoft.com) - 一套软件和工具，为软件保护、复制保护和许可证管理提供完整的解决方案.
-- [ELFuck](https://github.com/timhsutw/elfuck) - ELF packer for i386 original version from sk2 by sd.
+- [ELFuck](https://github.com/timhsutw/elfuck) - 来自 sd 的 sk2 的 i386 原始版本的 ELF 打包程序.
 - [Enigma Protector](https://www.enigmaprotector.com) - 可执行文件许可和保护的专业系统.
 - [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - 适用于 Windows 的应用程序虚拟化系统.
 - [Eronona-Packer](https://github.com/Eronana/packer) - 这是win32下的exe打包器.
@@ -303,7 +305,7 @@
 - [GzExe](https://git.savannah.gnu.org/cgit/gzip.git) - 允许将可执行文件压缩为 shell 脚本的实用程序.
 - [hXOR-Packer](https://github.com/rurararura/hXOR-Packer) - 具有 Huffman 压缩和 XOR 加密的 PE 打包器.
 - [LIAPP](https://liapp.lockincomp.com) - 最简单、最强大的移动应用安全解决方案.
-- [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X 许可证管理器让您可以通过实施各种级别的安全、节省时间和降低业务风险来保护您的产品免受盗版.
+- [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X 许可证管理器让您可以通过实施各种级别的安全性、节省时间和降低业务风险来保护您的产品免受盗版.
 - [m0dern_p4cker](https://github.com/n4sm/m0dern_p4cker) - 只是 elf 二进制文件的现代打包程序（仅适用于 linux 可执行文件）.
 - [MidgetPack](https://github.com/arisada/midgetpack) - Midgetpack 是 ELF 二进制文件的二进制打包器，例如 burneye、upx 或其他工具.
 - [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - 压缩（使用 LZMA）并保护 PE、.NET 或 Mach-O 程序免受逆向工程.
@@ -316,7 +318,8 @@
 - [PE-Toy](https://github.com/r0ngwe1/petoy) - PE 文件打包器.
 - [PELock](https://www.pelock.com)  - Windows 可执行文件的软件保护系统； 保护您的应用程序免遭篡改和逆向工程，并为软件许可证密钥管理提供广泛支持，包括对时间试用期的支持.
 - [PePacker](https://github.com/SamLarenN/PePacker) - 加密 .text 部分的简单 PE 打包器 我发布了一个简单的 PE 文件打包器，它加密 .text 部分并在最后一部分的末尾添加一个解密存根.
-- [PEShield](https://webscene.ir/tools/show/PE-SHIELD-0.25) - PE-SHiELD is a program, which encrypts 32-bit Windows EXE files, leaving them still executable.
+- [PEShield](https://webscene.ir/tools/show/PE-SHIELD-0.25) - PE-SHIELD 是一个程序，它加密 32 位 Windows EXE 文件，使其仍然可执行.
+- [PESpin](http://downloads.fyxm.net/PESpin-95477.html)
 - [PEtite](https://www.un4seen.com/petite/) - 免费的 Win32 (Windows 95/98/2000/NT/XP/Vista/7/etc) 可执行 (EXE/DLL/etc) 压缩器.
 - [sePACKER](https://sourceforge.net/projects/sepacker/) - Simple Executable Packer 正在压缩可执行文件的代码部分以减小二进制文件的大小.
 - [Silent-Packer](https://github.com/SilentVoid13/Silent_Packer) - Silent Packer 是一个用纯 C 编写的 ELF / PE 打包器.
@@ -347,7 +350,7 @@
 - [EXECryptor](https://execryptor.freedownloadscenter.com/windows) - 保护 EXE 程序免受逆向工程、分析、修改和破解.
 - [eXPressor](https://www.cgsoftlabs.ro/express.html) - 用作压缩器，此工具可以将 EXE 文件压缩到正常大小的一半.
 - [FSG](https://web.archive.org/web/20030324043555/https://www.exetools.com/files/compressors/win/fsg.zip) - *Fast Small Good*，适合小型 exe 的完美压缩器，例如.
-- [GHF Protector](https://www.delphibasics.info/home/delphibasicscounterstrikewireleases/ghfprotector10) - 基于开源引擎 Morphine 和 AHPack 的可执行打包程序/保护程序.
+- [GHF Protector](https://www.delphibasics.info/home/delphibasicscounterstrikewireleases/ghfprotector10) - Executable packer / protector based on open source engines Morphine and AHPack.
 - [HackStop](https://defacto2.net/f/a520164?packer=hs) - EXE 和 COM 程序加密器和保护器.
 - [Kkrunchy](http://www.farbrausch.de/~fg/kkrunchy) - Kkrunchy 是一个小型 exe 打包程序，主要用于 64k 介绍.
 - [mPack](https://blog.fearcat.in/a?ID=00050-86a031da-e36f-4409-9a08-d3d993dbf8f5) - mPack - mario PACKersimple Win32 PE 可执行压缩器.
@@ -357,7 +360,7 @@
 - [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - 压缩您的可执行文件和动态链接库，使其保持较小且对压缩文件功能没有影响.
 - [RSCC](https://defacto2.net/f/a520164?packer=rscc)  - 玫瑰超级 COM 地穴； 用于大于 300-400B 且小于 60kB 的文件的多态加密器.
 - [RUCC](https://defacto2.net/f/a520164?packer=rucc)  - ROSE Ultra COM 压缩机； 基于 624 的 COM 和 EXE 压缩实用程序.
-- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，使用安全防护罩保护目标应用程序，提供对抗逆向工程和其他反调试措施的方法.
+- [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，用安全防护罩保护目标应用程序，提供一种方法来抵消逆向工程和其他反调试措施.
 - [Shiva](https://packetstormsecurity.com/files/31087/shiva-0.95.tar.gz.html) - Shiva 是一个在 Linux 下加密 ELF 可执行文件的工具.
 - [Shrinker](https://web.archive.org/web/20081022073034/http://www.blinkinc.com/shrinker.htm) - 压缩（高达 70%）16 位和 32 位 Windows 和实模式 DOS 程序.
 - [tElock](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/Telock.shtml) - Telock 是一款实用工具，旨在帮助想要保护其工作并减小可执行文件大小的开发人员.
@@ -433,7 +436,7 @@
 
 ## :wrench: Tools
 
-- [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) - .NET 反混淆器和解包器列表.
+- [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) - List of .NET Deobfuscators and Unpackers.
 - [Android Unpacker](https://github.com/strazzere/android-unpacker) - 在 Defcon 22 上展示的 Android Unpacker：Android Hacker Protection Level 0.
 - [Angr](https://github.com/angr/angr) - 平台无关的二进制分析框架.
 - [APKiD](https://github.com/rednaga/APKiD) - 用于打包器、保护器、混淆器和怪异的 Android 应用程序标识符 - 适用于 Android 的 PEiD.
@@ -444,6 +447,7 @@
 - [Bintropy](https://github.com/dhondta/bintropy) - 原型分析工具，用于估计二进制文件包含压缩或加密字节的可能性.
 - [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 - [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - 分析平台，具有静态和动态分析技术、混合具体和符号执行、全系统仿真和二进制仪器的新颖融合，所有这些都有助于对实际安全问题进行最先进的研究.
+- [Capstone](https://www.capstone-engine.org) - 轻量级多平台、多架构反汇编框架.
 - [ChkEXE](https://defacto2.net/f/a91dea6?dosmachine=svga&dosspeed=max) - 识别几乎所有 EXE/COM 打包程序、加密程序或保护程序.
 - [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - 来自 ClamAV 的解包器.
 - [COM2EXE](https://defacto2.net/f/a520164?tool=com2exe) - 用于将 COM 文件转换为 EXE 格式的免费工具.
@@ -476,6 +480,7 @@
 - [PackerGrind](https://github.com/rewhy/adaptiveunpacker) - 用于跟踪打包行为和解包 Android 打包应用程序的自适应解包工具.
 - [PackerID](https://github.com/sooshie/packerid) - 使用 PEid 签名并具有额外的输出类型、格式、数字签名提取和反汇编支持的 packerid.py 的分支.
 - [Packing-Box](https://github.com/dhondta/docker-packing-box) - Docker 映像收集许多与打包相关的工具，并用于制作打包可执行文件的数据集以用于机器学习.
+- [PANDA](https://github.com/panda-re/panda) - 架构中性动态分析平台.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - 对 Bochs PC 仿真器的扩展，使其能够监控解包存根的执行以提取原始代码.
 - [PCjs](https://www.pcjs.org) - PCjs 使用 JavaScript 重新创建 IBM PC 体验，使用原始 ROM、以原始速度运行的 CPU 以及早期的 IBM 视频卡和显示器.
 - [PE Compression Test](http://pect.atspace.com/) - 在几个示例可执行文件上测试的打包程序列表，用于比较压缩大小.
@@ -504,7 +509,7 @@
 - [Quick Unpack](http://qunpack.ahteam.org/?p=458) - 通用解包器，有助于解包过程.
 - [RapidEXE](https://sourceforge.net/projects/rapidexe) - 将 PHP/Python 脚本转换为独立可执行文件的简单有效的方法.
 - [RDG Packer Detector](http://www.rdgsoft.net) - 封隔器检测工具.
-- [Red Curtain](https://mandiant-red-curtain.apponic.com) - Free software for Incident Responders that assists with the analysis of malware ; it examines executable files (e.g., .exe, .dll, and so on) to determine how suspicious they are based on a set of criteria.
+- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
 - [Reko](https://github.com/uxmal/reko) - 机器代码二进制文件的免费反编译器.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - 基于入口点部分的熵值和WRITE属性的打包检测工具.
 - [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.
@@ -512,6 +517,7 @@
 - [RetDec](https://github.com/avast/retdec) - 基于 LLVM 的可重定向机器代码反编译器.
 - [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK：存档器、exe 压缩器、存档器外壳和其他相关实用程序.
 - [SAFE](https://github.com/dhondta/awesome-executable-packing/blob/master/mailto:mihai@cs.wisc.edu) - 可执行文件的静态分析器（按需提供）.
+- [ShowStopper](https://github.com/CheckPointSW/showstopper) - 帮助恶意软件研究人员探索和测试反调试技术或验证调试器插件或其他与标准反调试方法冲突的解决方案的工具.
 - [SymPack](https://www.amazon.com/Norton-AntiVirus-2007-Old-Version/dp/B000IAOIXW)  - 安全、便携、非常有效但不是用于打包检测和拆包的通用库； 诺顿防病毒解决方案的一部分.
 - [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - 机器学习混合云平台，可大规模收集数千种文件类型，通过机器学习二进制分析加速威胁检测，并持续监控超过 10B 文件的索引以应对未来威胁.
 - [TrID](https://mark0.net/soft-trid-e.html) - 用于从二进制签名中识别文件类型的实用程序.
