@@ -46,7 +46,7 @@
 * [claire](https://github.com/robotlolita/claire) – 一个基于属性的测试库，用于明确指定代码不变量和行为.
 * [FPO.js](https://github.com/getify/fpo)  – Kyle Simpson（又名 getify）的 JavaScript FP 库. 支持命名参数样式方法.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) – 受 Haskell 的 Parsec 启发的 Javascript 解析器组合器实现
-* [fun-task](https://github.com/rpominov/fun-task)  – 用于管理 JS 中的异步代码的抽象.  Tasks 与 Promises 类似，关键区别在于 Tasks 可以表示计算，而 Promises 只能表示计算的结果. 附带流类型定义.
+* [fun-task](https://github.com/rpominov/fun-task)  – 用于管理 JS 中的异步代码的抽象.  Tasks 类似于 Promises，关键区别在于 Tasks 可以表示计算，而 Promises 只能表示计算的结果. 附带流类型定义.
 * [most](https://github.com/cujojs/most) – 超高性能的反应式编程，可帮助您在值和事件流上组合异步操作，而不会出现副作用和可变共享状态的许多危害.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ 最简单的信号库
 * [funfix](https://github.com/funfix/funfix)  – Funfix 是一个类型类和数据类型库，用于 JavaScript、TypeScript 和 Flow 中的函数式编程.  +CT，+TS.
@@ -72,6 +72,7 @@
 * [RxEffects](https://github.com/mnasyrov/rx-effects)  - 使用 RxJS 进行反应式状态和效果管理.  +TS
 * [fxts](https://github.com/marpple/FxTS)  - 延迟评估和并发.  +TS
 * [ts-belt](https://mobily.github.io/ts-belt/)  - TypeScript 中用于 FP 的快速、现代且实用的实用程序库.  （使用数据优先的方法，如 remeda，但 [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) 比 remeda、ramda、rambda 和 lodash / fp.)
+* [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS 轻量级值-多方法实用程序
 
 ### Data Structures
 
@@ -84,7 +85,7 @@
 * [Baobab](https://github.com/Yomguithereal/baobab) – 带有游标的持久和可选的不可变数据树.
 * [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) – JavaScript 中不可变序列的高性能实现，基于 [Finger Trees](https://github.com/qiao/fingertree.js).
 * [Timm](http://guigrpa.github.io/timm/) – 具有快速读取和可接受写入的不变性助手.
-* [Lazy.js](https://github.com/dtao/lazy.js) - 一个实用程序库，引擎盖下有一个惰性引擎，力求在尽可能灵活的同时做尽可能少的工作.
+* [Lazy.js](https://github.com/dtao/lazy.js) - 一个实用程序库，在引擎盖下有一个惰性引擎，力求在尽可能灵活的同时做尽可能少的工作.
 * [DerivableJS](https://github.com/ds300/derivablejs)  – JavaScript 和 TypeScript 的功能反应状态.  DerivableJS 使您能够就您的状态位之间的关系做出优雅的声明性陈述.  +TS.
 * [imlazy](https://github.com/benji6/imlazy) - 使用 ES2015 迭代协议创建和操作惰性迭代的库.
 * [collectable](https://github.com/frptools/collectable)  – 适用于现代 JavaScript 和 TypeScript 应用程序的超高性能不可变数据结构.  +TS.
@@ -108,7 +109,7 @@
 * [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – 通用组合子.
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds)  – Haskell 包 Data.Aviary.Birds 的端口. 一切满足您的组合需求.
 * [crocks](https://github.com/evilsoft/crocks)  – 流行的代数数据类型的集合，其主要目标是管理和提供不仅在每种类型之间的通用接口，而且还提供开始运行所需的所有辅助函数.  -TS.
-* [kudo-js](https://github.com/blitzritz/kudojs) - 带有一组代数数据类型和辅助函数的小型实用程序库，可帮助您以 Javascript 的函数式编程风格编写代码
+* [kudo-js](https://github.com/blitzritz/kudojs) - 一个带有一组代数数据类型和辅助函数的小型实用程序库，可帮助您在 Javascript 中以函数式编程风格编写代码
 * [purify](https://github.com/gigobyte/purify)  - 专注于 ADT 的 TypeScript 函数式编程库.  +CT，+TS.
 * [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先、固执己见的函数式语言，旨在与 JavaScript 引擎 100% 兼容
 * [Pratica](https://github.com/rametta/pratica)  - 小型、简单、易用的 FP 数据类型，适用于需要快速交付可靠代码的务实且高效的开发人员.  +CT，+TS.
@@ -142,7 +143,7 @@
 * [ion](https://github.com/ion-lang/ion) - 没有 BS JS
 * [RamdaScript](https://github.com/yosbelms/ramdascript) - 在 RamdaJS 之上编译成自以为是的 JavaScript 的 Lisp
 * [RacketScript](https://github.com/vishesh/racketscript) – RacketScript 旨在利用 JavaScript 和 Racket 的生态系统，并使它们之间的互操作性清晰流畅.
-* [Koka](https://www.microsoft.com/en-us/research/project/koka/) – Koka 是一种面向函数的编程语言，它使用熟悉的类似 JavaScript 的语法将纯值从副作用计算中分离出来.
+* [Koka](https://www.microsoft.com/en-us/research/project/koka/) – Koka 是一种面向函数的编程语言，它使用熟悉的类似 JavaScript 的语法将纯值与副作用计算分开.
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript 是 JavaScript 的类型化超集，可编译为纯 JavaScript.
 * [Gleam](https://gleam.run) - Gleam 是一种类型化的函数式语言，可编译为 Erlang 和 JavaScript.
 
@@ -151,7 +152,7 @@
 * [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - 函数式编程的 ESLint 规则
 * [4.5](https://github.com/TylorS/4.5)  – 一个功能性断言库. 如果你更喜欢 JavaScript 中的函数式 API 和实践，这个库旨在通过惰性和单子的面向函数的断言来解决这个问题.
 * [hm-def](https://github.com/xodio/hm-def) – 使用 Hindley Milner 签名的 JS 运行时类型检查.
-* [ftor](https://github.com/kongware/ftor) - 一个可插入的运行时类型检查器和功能调试工具，通过 Scott Encoding 支持参数和行多态、隐式 rank-2 类型和代数数据类型.
+* [ftor](https://github.com/kongware/ftor) - 一个可插入的运行时类型检查器和功能调试工具，通过 Scott Encoding 支持参数和行多态性、隐式 rank-2 类型和代数数据类型.
 
 ## Resources
 
@@ -169,8 +170,8 @@
 ### Articles
 
 * [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)  – 介绍 JavaScript 中的函数式编程概念. 使用 Ramda 库通过最简单的示例教授组合、无点样式和函子的概念.
-* [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html) – 另一个 JavaScript 函数式编程介绍，重点关注三个关键主题：计算作为函数的应用、无状态、避免副作用.
-* [A gentle introduction to functional JavaScript](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) – 一个由四部分组成的 JavaScript 函数式编程系列介绍，让您快速了解关于函数式编程的所有炒作.
+* [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html) – JavaScript 函数式编程的另一个介绍，重点关注三个关键主题：计算作为函数的应用、无状态、避免副作用.
+* [A gentle introduction to functional JavaScript](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) – 一个由四部分组成的 JavaScript 函数式编程系列介绍，让您了解关于函数式编程的所有炒作的全部内容.
 * [Functors from first principle - explained with JS](https://dev.to/snird/functors-from-first-principle-37lh) - 使用 JavaScript 解释函子概念.
 * [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/) – 关于如何使用柯里化编写可重用和声明性代码的简短概述.
 * [Favoring Curry](http://fr.umio.us/favoring-curry/) - 使用 Ramda 进行柯里化的实际应用.
@@ -201,7 +202,7 @@
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC) – 使用 React 和 JavaScript 函数式编程构建“实用”Web 应用程序的系列.
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) – Underscore.js 声称是一个函数式编程库，但这是真的吗？
 * [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM) – 了解函子、应用程序和单子的实际用例.
-* [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen 将向您展示如何通过抛开循环并将函数作为抽象的主要单元来显着提升您的游戏.
+* [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen 将向您展示如何通过将循环抛在脑后并将函数作为抽象的主要单元来显着提升您的游戏.
 * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson 的系列文章，来自 youtube 频道 FunFunFunction，专门介绍 JavaScript 中函数式编程的普及.
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - 简单易懂地介绍 javascript 中的函数式编程.
 * [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs) - 完整的 javascript 函数式编程介绍使 ES6 变得简单.
@@ -217,7 +218,7 @@
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)  – 学习应用计算机科学研究前沿的技术来解决 Javascript 中的实际问题. 探索函数式编程，并逐步演示如何使用 Monads、Functors、Monoids 和 Applicatives 等抽象接口构建示例 Web 应用程序.  （_商业的_）
 * [Escape from Callback Mountain](https://github.com/justsml/escape-from-callback-mountain)  - 基于 Promise 的函数式 JavaScript 的设计和重构技巧. 主要好处包括更好的可读性、可测试性和可重用性. 麻省理工学院.
 * [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) - 数十个带有解决方案和解释的练习.
-* [Learn Rx](http://reactivex.io/learnrx/) – 一系列交互式练习，介绍函数式（反应式）编程的五个基本要素：`map`、`filter`、`concatAll`、`reduce` 和 `zip` 函数.
+* [Learn Rx](http://reactivex.io/learnrx/) – 一系列互动练习，介绍函数式（反应式）编程的五个基本要素：`map`、`filter`、`concatAll`、`reduce` 和 `zip` 函数.
 * [Holdem Evaluator](https://github.com/laberin/holdem-eval) - 另一个具有 Ramda 功能风格的 Holdem Evaluator
 
 ## Community

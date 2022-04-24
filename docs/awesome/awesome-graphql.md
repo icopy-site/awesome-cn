@@ -110,7 +110,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小钩子优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 组件. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 进行缓存.
 
 #### Servers
 
@@ -119,7 +119,7 @@
 - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用 Hapi 创建 GraphQL HTTP 服务器.
 - [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于 GraphiQL 集成的 HAPI 插件.
 - [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa 中间件，从头实现 GraphQL.js 并支持原生 ESM.
-- [koa-graphql](https://github.com/chentsulin/koa-graphql) --GraphQL Koa 中间件.
+- [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa 中间件.
 - [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts)  - 简化了 GraphQL Koa 1 文件. 用于快速测试
 - [gql](https://github.com/deno-libs/gql) - 用于 Deno 的通用 GraphQL HTTP 中间件.
 - [mercurius](https://github.com/mercurius-js/mercurius) - Fastify 的 GraphQL 插件.
@@ -147,7 +147,7 @@
 - [type-graphql](https://github.com/19majkel94/type-graphql) - 使用类和装饰器，使用 TypeScript 创建 GraphQL 模式和解析器！
 - [graphql-nexus](https://github.com/graphql-nexus/nexus) - 代码优先、类型安全、GraphQL 模式构建.
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)：GraphQL 代码生成器，灵活支持自定义插件和模板，如 TypeScript（前端和后端）、React Hooks、解析器签名等.
-- [giraphql](https://github.com/hayes/giraphql) - 基于插件的模式构建器，用于在 TypeScript 中创建代码优先的 GraphQL 模式.
+- [pothos](https://github.com/hayes/pothos)  - Pothos 是一个基于插件的 GraphQL 模式构建器，用于打字稿. 它使在 typescript 中构建 graphql 模式变得容易、快速和愉快.
 
 #### Miscellaneous
 
@@ -218,7 +218,7 @@
 - [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用 GitHub 的 GraphQL API 的示例 Rails 应用程序.
 - [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 用于带有 Rails GraphQL 服务器的 Relay 应用程序的准系统入门套件.
 - [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - 由 graphql、relay 和标准 rails 应用程序驱动的演示博客.
-- [to_eat_app](https://github.com/jcdavison/to_eat_app) - 带有相关 3 部分文章系列的示例 graphql/rails/relay 应用程序.
+- [to_eat_app](https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
 - [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用 Agoo 服务器演示一个简单的 GraphQL 应用程序.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - 带有设计、graphql 和 JWT 身份验证的 rails 6 样板.
 
@@ -470,7 +470,7 @@
 
 - [apollo-ios](https://github.com/apollographql/apollo-ios) - 用于 iOS 的强类型缓存 GraphQL 客户端，用 Swift 编写.
 - [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - [Apollo iOS] 的 Apollo Client Devtools 桥.
-- [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Type Safe GraphQL directly from SwiftUI.
+- [Graphaello](https://github.com/nerdsupremacist/Graphaello) - 直接从 SwiftUI 输入 Safe GraphQL.
 
 <a name="ios-example" />
 
@@ -557,7 +557,7 @@
 - [Altair GraphQL Client](https://github.com/altair-graphql/altair) - 适用于所有平台的功能丰富的漂亮 GraphQL 客户端.
 - [Insomnia](https://insomnia.rest/) - 具有第一方 GraphQL 查询编辑器的全功能 API 客户端.
 - [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - 支持编辑 GraphQL 查询的 HTTP 客户端.
-- [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
+- [Apollo Sandbox](https://sandbox.apollo.dev/) - 导航和测试 GraphQL 端点的最快方法.
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) – 将任何 GraphQL 模式视为动态和交互式图表.
 - [AST Explorer](https://astexplorer.net/) - 选择顶部的“GraphQL”，探索 GraphQL AST 并通过单击查询突出显示不同的部分.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - 最快的协作 GraphQL 游乐场.
@@ -594,7 +594,7 @@
 ### Tools - Editor Plugins
 
 - [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - 丰富的编辑器支持与 Apollo 平台无缝集成的 GraphQL 客户端和服务器开发
-- [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL 语言支持 IntelliJ IDEA 和 WebStorm，包括 JavaScript 和 TypeScript 中的 Relay.QL 标记模板.
+- [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - 对 IntelliJ IDEA 和 WebStorm 的 GraphQL 语言支持，包括 JavaScript 和 TypeScript 中的 Relay.QL 标记模板.
 - [vim-graphql](https://github.com/jparise/vim-graphql) - 一个提供 GraphQL 文件检测和语法高亮的 Vim 插件.
 - [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - 帮助您使用 Apollo Federation 开发和模拟联合模式的工具.
 - [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) - 从 Atom 中的 GraphQL 端点自动完成和 lint.
