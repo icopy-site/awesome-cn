@@ -21,7 +21,7 @@
 
 ### Angular
 
-> Angular is a development platform for building mobile and desktop web applications.
+&gt; Angular 是一个用于构建移动和桌面 Web 应用程序的开发平台.
 
 #### Official Resources
 
@@ -131,7 +131,7 @@
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) 基于 Material Design Lite 的 Angular 2 组件、指令和样式
 * [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carusel, grid, lightbox, selectfield, sticky header, ...)
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) Angular 2 环绕 Materialize 库
-* [Material Light](https://github.com/YagoLopez/material-light) 用于 Angular 2+ 的轻量、快速且易于使用的 Material Design 组件（尤其是对于移动 UI）. 有几种替代方案，但在我看来，这个具有附加价值和优势（在 Readme.md 中查找详细信息）. 还有一个在线演示可以看到它的实际效果.  （API 文档仍然缺乏，但正在处理中）.
+* [Material Light](https://github.com/YagoLopez/material-light) 用于 Angular 2+ 的轻量、快速且易于使用的 Material Design 组件（尤其是对于移动 UI）. 有几种选择，但在我看来，这个具有附加值和优势（在 Readme.md 中寻找详细信息）. 还有一个在线演示可以看到它的实际效果.  （API 文档仍然缺乏，但正在处理中）.
 * [Blox Material](https://github.com/src-zone/material) Angular 的轻量级 Material Design 库，基于 Google 的 Material Components for Web.
 * [Material Web Components](https://trimox.github.io/angular-mdc-web)  Angular 的 Material Web 组件. 忠实而准确地展示了 Web 上设想的 Material Design.
 * [MDBootstrap](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) 使用 Angular 7、Bootstrap 4 和 TypeScript 强大的 UI KIT 构建，提供一组流畅的响应式页面模板、布局、组件和小部件，以快速构建响应式、移动优先的网站和应用程序.
@@ -289,12 +289,12 @@ WebWorker 中的大多数核心 Angular 框架.
 
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) 《忍者小队》
-* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-* [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `曼宁出版物`
+* [Angular in Action](https://www.manning.com/books/angular-in-action) `曼宁出版物`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `精益酒吧`
 * [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) `打包发布`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
-* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
+* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `曼宁出版物`
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
@@ -432,7 +432,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [Jest](https://github.com/briebug/jest-schematic): 配置 Angular 以使用 Jest 而不是 Karma + Jasmine 执行单元测试
 * [Prettier](https://github.com/schuchard/prettier-schematic): 添加 Prettier 和 pre-commit 挂钩，用于在 Angular 应用程序中格式化暂存文件
 * [Tailwind CSS](https://github.com/ngneat/tailwind): 将 Tailwind CSS 添加到 Angular 应用程序
-* [Threejs](https://github.com/JohnnyDevNull/ng-three-template): 新的 three.js 入门应用
+* [Threejs](https://github.com/JohnnyDevNull/ng-three-template): 新的three.js 入门应用
 
 ---
 
@@ -612,7 +612,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [Nebular](https://github.com/akveo/nebular) - 一组用于复杂 Angular 应用程序的基本（主题、UI 工具包、身份验证、安全）模块
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - 基于 Ant Design Mobile 和 Angular 的企业级移动 UI 组件.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - 基于 Ant Design 和 Angular 的企业级 UI 组件.
-* [ng-lightning](https://github.com/ng-lightning/ng-lightning) 用于闪电设计系统的原生 Angular 2 组件和指令
+* [ng-lightning](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ng-metro4](https://github.com/morrisjdev/ng-metro4) - UI 框架 Metro4 的 Angular 实现
 * [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui)  - Angular 的简单质量 UI 套件. 由开发人员为开发人员构建！ [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - 基于语义 UI 的 UI 组件
@@ -755,6 +755,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [NG-MATERO](https://github.com/ng-matero/ng-matero) - 这个 Ng-Matero 是一个用 Material 组件制作的 Angular 管理员模板.
 * [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - 为 Angular 创建开源库的入门项目
 * [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 一个完整的 Angular 10、NgRx、Angular CLI 和 Angular Material 入门项目
+* [Eoapi](https://github.com/eolinker/eoapi) - 基于 Angular 和 Electron 的轻量级、可扩展的 API 工具
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 ---
@@ -817,7 +818,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Traceur 的官方 GitHub 存储库
+* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Tracer 的官方 GitHub 存储库
 
 #### Traceur Seed Projects
 
@@ -982,7 +983,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 #### Security
 
- * 所以你认为你使用 AngularJS 是安全的吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern 在 2017 年伦敦 OWASP 演讲
+ * 所以你认为你使用 AngularJS 是安全的吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
   #####验证
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
