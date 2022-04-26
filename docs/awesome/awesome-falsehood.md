@@ -15,9 +15,9 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-*虚假*是您最初认为是正确的**想法*，但在现实中它被**证明是错误的**.
+*错误*是您最初认为是正确的**想法*，但实际上，它被**证明是错误的**.
 
-例如 *idea*：有效的电子邮件地址正好有一个 `@` 字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 正确的？ 错误的！  *现实*是：电子邮件可以有多个 `@` 字符. 因此，您的实现应该允许这样做. 最初的 *idea* 是您所相信的谎言.
+例如 *idea*：有效的电子邮件地址正好有一个 `@` 字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的！  *现实*是：电子邮件可以有多个 `@` 字符. 因此，您的实现应该允许这样做. 最初的 *idea* 是您所相信的谎言.
 
 下面列出的 *falsehood* 文章将全面列出您应该注意的那些错误信念，以帮助您成为更好的程序员.
 
@@ -62,17 +62,17 @@
 - [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) - 涵盖嵌入和文化影响的列表，由 iOS 和 macOS 开发人员社区制作.
 - [Time Zone Database](https://www.iana.org/time-zones) - 代表全球许多代表性地点的当地时间历史的代码和数据.
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - 计时中的大多数特质都可以在历史中找到解释.
-- [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
+- [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你为什么.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区听起来可能是个好主意，但有很多复杂情况使其并非如此.
-- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 如果你能提供帮助，一个关于为什么你永远不应该处理时区的视频.
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
 - [\$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历会计的后果.
-- [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的巨大格式列表、它们如何重叠以及实时示例.
+- [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的巨大格式列表，它们如何重叠，以及活生生的例子.
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 关于日期和时间（特别是 UTC）有一些你可能没有想到的极端情况.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “仅以 UTC 存储日期”并不总是正确的方法.
-- [How to chooose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - 取决于您在 SI 秒、地球自转同步、闰秒避免之间的优先级.
+- [How to choose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - 取决于您在 SI 秒、地球自转同步、闰秒避免之间的优先级.
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - 臭名昭著的 Stack Overflow 回答关于复杂的历史时区，以及如何通过较新版本的软件重新解释历史日期.
-- [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 unix 纪元的 32 位秒溢出，根据系统需要注意的特殊日期列表.
+- [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 Unix 纪元的 32 位秒溢出，根据系统需要注意的特殊日期列表.
 
 ## Education
 
@@ -99,7 +99,7 @@
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能真正定义一个有严格规则的家庭.
 - 关于性别的谎言： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
-- [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - Issues at the intersection of names and gender and internationalization.
+- [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - 姓名与性别和国际化的交叉问题.
 - [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 如何将婚姻存储在数据库中，同时解决关于性别、命名和关系的大部分谎言.
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 世界各地人们的名字有何不同，对 Web 有何影响？
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - 关于虚假的实施如何导致安全漏洞的有趣看法.
@@ -146,7 +146,7 @@
 
 ## Phone Numbers
 
-- [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 涵盖电话号码、它们的表示和含义.
+- [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber)  - Google 的通用 Java、C++ 和 JavaScript 库，用于解析、格式化和验证国际电话号码. 也可用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 ## Postal Addresses
@@ -189,7 +189,7 @@
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 关于 `/dev/urandom` 和 `/dev/random` 有一些事情会一次又一次地重复. 他们仍然是错误的.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个谈话可以被命名为“关于用户名（和其他标识符）的谎言”.
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
-- [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*per-se*，但仍然是实现自动完成的良好实践的一个很好的列表.
+- [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
 - [Floating Point Math](https://0.30000000000000004.com) - “你的语言没有坏，它在做浮点数学运算.（……）这就是为什么，&#39;0.1 + 0.2 != 0.3&#39;.”
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  - 下载您在浏览器选项卡中看到的那个小图标应该是一个简单的练习. 结果比你想象的要复杂得多. 小心你没有给牦牛剃毛.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - 挪威的 ISO 国家代码对于 False 也是有效的 YAML.

@@ -423,6 +423,7 @@ _用于预处理 CSS 文件的库._
 - [go-geoindex](https://github.com/hailocab/go-geoindex) - 内存中的地理索引.
 - [go-rquad](https://github.com/aurelien-rainone/go-rquad) - 具有高效点定位和邻居查找的区域四叉树.
 - [go-tuple](https://github.com/barweiss/go-tuple) - Go 1.18+ 的通用元组实现.
+- [go18ds](https://github.com/daichi-m/go18ds) - 使用 Go 1.18 泛型的 Go 数据结构.
 - [gofal](https://github.com/xxjwxc/gofal) - Go 的分数 api.
 - [gota](https://github.com/kniren/gota) - 为 Go 实现数据帧、系列和数据整理方法.
 - [hide](https://github.com/emvi/hide) - 带有编组到/从散列的 ID 类型，以防止向客户端发送 ID.
@@ -781,7 +782,7 @@ _实现电子邮件创建和发送的库和工具._
 - [email](https://github.com/jordan-wright/email) - 一个强大而灵活的 Go 电子邮件库.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - 用于电子邮件验证的 Go 库，无需发送任何电子邮件.
 - [go-dkim](https://github.com/toorop/go-dkim) - DKIM 库，用于签名和验证电子邮件.
-- [go-email-validator](https://github.com/go-email-validator/go-email-validator) - 用于语法、一次性、smtp 等的模块化电子邮件验证器...检查.
+- [go-email-validator](https://github.com/go-email-validator/go-email-validator) - 用于语法、一次性、smtp 等...检查的模块化电子邮件验证器.
 - [go-imap](https://github.com/emersion/go-imap) - 用于客户端和服务器的 IMAP 库.
 - [go-message](https://github.com/emersion/go-message) - Internet 消息格式和邮件消息的流媒体库.
 - [go-premailer](https://github.com/vanng822/go-premailer) - Go 中 HTML 邮件的内联样式.
