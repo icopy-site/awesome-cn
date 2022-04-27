@@ -615,6 +615,7 @@
 - [dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 一个自以为是的 JavaScript 库，用于在一组资源（例如 HTTP 端点）上自动生成可预测的、类型安全的 DataLoader.
 - [raphql-inspector](https://github.com/kamilkisiela/graphql-inspector)：验证模式、获取模式更改通知、验证操作、查找重大更改、查找相似类型、模式覆盖率.
 - [amplication](https://github.com/amplication/amplication) : Amplication 是一个开源的低代码开发工具. 它使用 REST API 和 GraphQL 为 CRUD 构建具有关系、排序、过滤、分页的数据库应用程序.
+- [Blendbase](https://github.com/blendbase/blendbase) ：单个开源 GraphQL API 将 CRM 连接到您的 SaaS. 使用 SaaS 应用程序中的单个 API 查询查询任何客户 CRM 系统（Salesforce、Hubspot 等）.
 
 <a name="databases" />
 

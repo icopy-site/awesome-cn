@@ -74,7 +74,7 @@
 * [deep](https://github.com/Nikaoto/deep)  - 增加 Z 轴； 允许您对动作进行排队并绘制调用.
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块.
 * [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - 与 deep 类似，但您可以设置自定义排序方法并创建多个可嵌套的实例.
-* [HSLUV](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL).
+* [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（HSL 的人性化替代方案）.
 * [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器.
 * [Push](https://github.com/Ulydev/push) - LÖVE 的简单分辨率处理库.
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染.
@@ -98,12 +98,12 @@
 ## Helpers
 *提供可重用功能的游戏特定库包*
 
-* [astray](https://github.com/SiENcE/astray) - Astray 是一个基于 lua 的迷宫、房间和地牢生成库，用于地牢爬行者和 Roguelike 视频游戏.
+* [astray](https://github.com/SiENcE/astray) - Astray 是一个基于 lua 的迷宫、房间和地牢生成库，用于地牢爬行者和 roguelike 视频游戏.
 * [batteries](https://github.com/1bardesign/batteries/) - 填充lua的稀疏标准库，提供对游戏有用的常用算法和数据结构的实现.
 * [cartographer](https://github.com/tesselode/cartographer) - 小型平铺地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) - 一个帮助库，可让您快速加载大量资产.
 * [grove.color](https://github.com/FloatingBanana/Grove/blob/master/grove/color.lua) - 使用“颜色对象”混合、转换和插入颜色.
-* [hump](https://github.com/HDictus/hump) - 使用 LÖVE 开发游戏的工具集（游戏状态、定时器/补间、向量、类、信号、相机）.
+* [hump](https://github.com/HDictus/hump) - 使用 LÖVE 开发游戏的工具集（Gamestates、Timers/Tweens、Vectors、Classes、Signals、Cameras）.
 * [iffy](https://github.com/YoungNeer/iffy) - LÖVE 的 SpriteSheet 和 Tileset 辅助库.
 * [knife](https://github.com/airstruck/knife) - Lua 有用的微模块集合（类、状态机、绑定、链、协程、事件、记忆、实体、测试、计时器）.
 * [shard](https://github.com/MineGame159/shard) - 有用的迷你模块的集合.
@@ -114,7 +114,7 @@
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于对齐一次显示一个字符的文本的库.
 * [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
-* [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE / lua 端口.
+* [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE/lua 端口.
 * [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE 框架的屏幕/状态管理.
 * [shack](https://github.com/Ulydev/shack) - Shack 是一个 LÖVE 库，可让您轻松添加屏幕效果，例如摇晃和旋转.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - 平铺地图加载器和渲染器.
@@ -187,12 +187,12 @@
 
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - LÖVE 的分析库，具有详细的分析和线程支持.
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具.
-* [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形配置文件.
+* [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形分析器.
 * [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua 是一个小型的、非侵入性的模块，用于查找 Lua 代码中的瓶颈.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，它与 LuaJIT 一起使用，并在列中打印一个漂亮的报告文件.
 
 ## Physics
-*碰撞检测和物理包装器*
+*Collision Detection & Physics Wrappers*
 
 * [breezefield](https://github.com/HDictus/breezefield) - 一个轻量级和简单的love.physics 包装器（风场替代品）.
 * [Bump](https://github.com/kikito/bump.lua) - Lua 的碰撞检测库.
@@ -274,7 +274,7 @@
 * [Lynx](https://gitlab.com/TSnake41/lynx) - 非常轻量级的基于列表的 UI 库.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - 灵活的布局库.
 * [Patchy](https://github.com/excessive/patchy) - 9patch 库.
-* [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
+* [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 在 LÖVE 游戏引擎上运行的用 Lua 编写的高度可配置的文本编辑器/编码工具.
 * [SafeWord](https://github.com/josefnpat/safeword) - LÖVE 的过扫描检测库.
 * [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
@@ -333,7 +333,7 @@
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开 Atom 即可为当前项目启动 LÖVE.
 	* [Löve IDE](https://atom.io/packages/love-ide) - 这个包自动安装了几个用于在 Atom 中编写 Love2D 游戏的实用程序.
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE 的自动完成和片段.
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - LÖVE 的 Hyperclick 提供程序，显示 wiki.
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Atom 中的 Lua 语法错误检查.
 * [Brackets](http://brackets.io/) - Adob​​e 的现代开源文本编辑器（已过时）.
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - 在括号中添加 Lua 语法高亮.
@@ -354,7 +354,7 @@
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - 在 VSCode 中为 Lua 提供 Intellisense 和 Linting.
     * [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode)  - 没有依赖关系的简单 Lua 调试器.  Löve 提供了特定的 launch.json 示例.
 * [Sublime Text](https://www.sublimetext.com)  - Sublime Text 是一个用于代码、标记和散文的复杂文本编辑器. 您会爱上流畅的用户界面、非凡的功能和惊人的性能.
-	* [Package Manager](https://packagecontrol.io/) - Sublime Text 包管理器，它使查找、安装和保持包更新变得非常简单.
+	* [Package Manager](https://packagecontrol.io/) - Sublime Text 包管理器让查找、安装和更新包变得非常简单.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - 支持语法高亮、自动补全和构建系统.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - 提供 Lua 代码的 linting 和静态分析.
 
@@ -366,6 +366,7 @@
 * [love-release](https://github.com/MisterDA/love-release)  - 一个自动分发游戏的 Lua 脚本. 支持 Windows、macOS、Debian、Linux.
 * [makelove](https://github.com/pfirsich/makelove) - 先进的多平台工具，用于融合您用 Python 3 编写的游戏.支持 Windows 和 Linux 以及 AppImage.
 * [love-deploy](https://github.com/tducasse/love-deploy) - 在 itch.io 上构建和部署游戏（支持 windows 和 web 导出）.
+* [love-fuser](https://github.com/MikuAuahDark/love-fuser)  - 使用 GitHub Actions 打包 LÖVE Games. 支持 Windows、Linux 和 Android.
 
 ## Related
 

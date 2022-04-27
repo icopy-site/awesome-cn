@@ -229,7 +229,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Learn how to use JWT for Authentication](https://github.com/dwyl/learn-json-web-tokens) - 了解如何使用 JWT 保护您的 Web 应用程序.
 
-- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供了细粒度的安全性、同质身份验证架构、分散式发布、OAuth2 合规性、可调试性、过期控制、设备管理.
+- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供了细粒度的安全性、同质身份验证架构、去中心化发布、OAuth2 合规性、可调试性、过期控制、设备管理.
 
 - [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) - JWT 具有各种灵活性，使其难以很好地使用.
 
@@ -261,7 +261,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱，以使其不那么令人生畏.
 
-- [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 一个很好的概述，其中包含有关 Teleport（一种开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实际案例研究.
+- [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 关于 Teleport（开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实用案例研究的一个很好的概述.
 
 - [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - 一张不错的摘要卡.
 
@@ -291,7 +291,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [authentik](https://goauthentik.io/?#correctness) - 类似于 Keycloak 的开源身份提供程序.
 
-- [ZITADEL](https://github.com/caos/zitadel)  - 使用 Go 和 Angular 构建的开源解决方案，用于管理您的所有系统、用户和服务帐户及其角色和外部身份.  ZITADEL 为您提供 OIDC、OAuth 2.0、登录和注册流程、无密码和 MFA 身份验证. 所有这些都建立在事件源之上，并结合 CQRS 提供了一个很好的审计跟踪.
+- [ZITADEL](https://github.com/zitadel/zitadel)  - 使用 Go 和 Angular 构建的开源解决方案，用于管理您的所有系统、用户和服务帐户及其角色和外部身份.  ZITADEL 为您提供 OIDC、OAuth 2.0、登录和注册流程、无密码和 MFA 身份验证. 所有这些都建立在事件源之上，并结合 CQRS 提供了一个很好的审计跟踪.
 
 ### SAML
 
@@ -371,7 +371,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊将近 5 年的时间里，我每天、每周都会抽出一点时间浏览论坛、客户票，以找出人们遇到问题的地方.”
 
-- [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - 安全评估工具，可识别最低权限违规并生成风险优先级报告.
+- [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - 安全评估工具，可识别违反最低权限并生成风险优先级报告.
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  - 手动编写具有安全意识的 IAM 策略可能非常乏味且效率低下.  Policy Sentry 可帮助用户在几秒钟内创建最低权限策略.
 
@@ -389,7 +389,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 分发和委托授权的聪明好奇心.
 
-- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果给我一个 Macaroon 授权我在某些限制下执行某些操作，我可以非交互地构建第二个具有更严格限制的 Macaroon，然后我可以给你.
+- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果给了我一个 Macaroon 授权我在某些限制下执行某些操作，我可以非交互地构建第二个具有更严格限制的 Macaroon，然后我可以给你.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
@@ -427,7 +427,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 - [Keystone](https://keystone-enclave.org) - 基于 RISC-V 架构的用于构建具有安全硬件飞地的可信执行环境 (TEE) 的开源项目.
 
-- [Project Oak](https://github.com/project-oak/oak) - 用于安全传输、存储和处理数据的规范和参考实现.
+- [Project Oak](https://github.com/project-oak/oak) - 数据安全传输、存储和处理的规范和参考实现.
 
 - [Everybody be cool, this is a robbery!](https://www.sstic.org/2019/presentation/hsm/) - HSM 的漏洞和可利用性案例研究（法语，抱歉）.
 
@@ -639,7 +639,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 ## UX/UI
 
-作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计它. 这里有一些指南可以帮助您完善这种体验.
+作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
 
 - [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - 涵盖用户入职的所有重要方面.
 
@@ -657,7 +657,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 - [Why are the username and password on two different pages?](https://www.twilio.com/blog/why-username-and-password-on-two-different-pages)  - 支持 SSO 和基于密码的登录. 现在，如果分两步打破登录漏斗对用户来说太恼火了，请像 Dropbox 一样解决这个问题： [an AJAX request when you enter your username](https://news.ycombinator.com/item?id=19174355).
 
-- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的`<input>  ` 元素和 HTML 属性，这将有助于加快我们用户的双因素身份验证体验”.
+- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的`<input>  ` 元素和 HTML 属性将有助于加快我们用户的双因素身份验证体验”.
 
 - [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了删除密码屏蔽对消费者信任的影响.
 
