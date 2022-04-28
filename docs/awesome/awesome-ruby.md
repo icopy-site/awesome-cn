@@ -214,9 +214,9 @@
 
 ## Code Analysis and Metrics
 
-* [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
+* [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描程序.
 * [Coverband](https://github.com/danmayer/coverband) - 机架中间件，以帮助测量生产代码覆盖率.
-* [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个命令行工具让你的 Ruby 运行得更快，灵感来自 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲.
+* [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个受 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲高度启发的命令行工具，让您的 Ruby 运行得更快.
 * [Flay](https://github.com/seattlerb/flay)  - Flay 分析代码的结构相似性. 文字值、变量、类、方法名称、空格、编程风格、大括号与 do/end 等方面的差异都将被忽略. 使这完全是辐射.
 * [Flog](https://github.com/seattlerb/flog)  - Flog 在一个易于阅读的痛苦报告中报告最受折磨的代码. 分数越高，代码越痛苦.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) - 具有丰富网络前端的复杂性分析工具.
@@ -302,7 +302,7 @@
   * [AttrExtras](https://github.com/barsoom/attr_extras) - 使用 attr_initialize 等方法从 Ruby 中提取一些样板.
 * 哈希
   * [Hashie](https://github.com/intridea/hashie) - 一组扩展哈希并使其更有用的工具.
-* 细绳
+* String
   * [string_pattern](https://github.com/MarioRuiz/string_pattern) - 生成提供简单模式的字符串.
 
 ## Country Data
@@ -433,7 +433,7 @@
 * [Logstash](https://github.com/elastic/logstash) - 日志/事件传输、处理、管理、搜索.
 * [Mina](https://github.com/mina-deploy/mina) - 真正快速的部署器和服务器自动化工具.
 * [Puppet](https://github.com/puppetlabs/puppet) - 适用于 Linux、Unix 和 Windows 系统的自动化管理引擎，基于集中式规范执行管理任务（例如添加用户、安装包和更新服务器配置）.
-* [Rubber](https://github.com/rubber/rubber) - Rubber 插件支持将 RubyOnRails 应用程序的相对复杂的多实例部署到 Amazon 的 Elastic Compute Cloud (EC2).
+* [Rubber](https://github.com/rubber/rubber) - Rubber 插件支持将 RubyOnRails 应用程序相对复杂的多实例部署到 Amazon 的 Elastic Compute Cloud (EC2).
 * [SSHKey](https://github.com/bensie/sshkey) - 纯 Ruby（RSA 和 DSA）中的 SSH 私钥和公钥生成器.
 * [Sunzi](https://github.com/kenn/sunzi) - 极简主义者的服务器配置实用程序
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) - Linux 容器的原生 ruby​​ 绑定.
@@ -732,7 +732,7 @@
 
 ## Markdown Processors
 
-* [kramdown](https://github.com/gettalong/kramdown) - Kramdown 是另一个降价解析器，但快速、纯 Ruby，使用严格的语法定义并支持几个常见的扩展.
+* [kramdown](https://github.com/gettalong/kramdown) - Kramdown 是另一个降价解析器，但速度快，纯 Ruby，使用严格的语法定义并支持几个常见的扩展.
 * [Maruku](https://github.com/bhollis/maruku) - 一个纯 Ruby Markdown 超集解释器.
 * [Redcarpet](https://github.com/vmg/redcarpet) - 一个快速、安全和可扩展的 Markdown 到 (X)HTML 解析器.
 * [word-to-markdown](https://github.com/benbalter/word-to-markdown) - Gem 将 Microsoft Word 文档转换为 Markdown.
@@ -791,7 +791,7 @@
 
 * [bootsnap](https://github.com/Shopify/bootsnap) - 更快地启动大型 Rub​​y/Rails 应用程序.
 * [fast_blank](https://github.com/SamSaffron/fast_blank) - 提供 C 优化方法来确定字符串是否为空白.
-* [fast_underscore](https://github.com/kddeisz/fast_underscore) - 提供一种 C 优化方法，用于将字符串从任何大写转换为下划线分隔
+* [fast_underscore](https://github.com/kddeisz/fast_underscore) - 提供一种 C 优化方法，用于将字符串从任何大小写转换为下划线分隔
 * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - Ruby 的流式 JSON 解析和编码库（C 绑定到 yajl）.
 
 ## ORM/ODM
@@ -804,7 +804,7 @@
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - 用于 Ruby 的 RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) - Redis 的对象哈希映射库.
 * [Redis-Objects](https://github.com/nateware/redis-objects) - Redis Objects 通过 redis gem 上的薄层将 Redis 数据类型映射到 Ruby 对象，为 Redis 提供 Rubyish 接口.
-* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，其目标是在不限制数据存储的全部功能的情况下提供强大的对象映射功能.
+* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，旨在提供强大的对象映射功能，而不会限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel 是一个简单、灵活、强大的 Ruby 的 SQL 数据库访问工具包.
 
 ## ORM/ODM Extensions
@@ -874,7 +874,7 @@
 ## Pagination
 
 * [Kaminari](https://github.com/amatsuda/kaminari) - 基于范围和引擎的、干净、强大、可定制和复杂的分页器，适用于现代 Web 应用程序框架和 ORM.
-* [order_query](https://github.com/glebm/order_query) - 一个键集分页库，可以有效地找到相对于当前记录的下一个或上一个记录，例如无限滚动.
+* [order_query](https://github.com/glebm/order_query) - 一个键集分页库，可以有效地查找相对于当前记录的下一个或上一个记录，例如无限滚动.
 * [Pagy](https://github.com/ddnexus/pagy)  - Pagy 是最终的分页宝石，在每个基准和比较中都优于其他分页宝石. 更多细节可以在 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 * [will_paginate](https://github.com/mislav/will_paginate) - 与 Ruby on Rails、Sinatra、Merb、DataMapper 和 Sequel 集成的分页库.
 
@@ -958,7 +958,6 @@
 * [Hobo](https://github.com/Hobo/hobo) - Rails 的 Web 应用程序构建器.
 * [orats](https://github.com/nickjj/orats) - 自以为是的 Rails 应用程序模板.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - 用于入门应用程序的类固醇的 Rails 生成器.
-* [railsnew.io](https://railsnew.io) - 使用（或不使用！）所有的花里胡哨的生成新 Rails 应用程序的最简单方法.
 * [Raygun](https://github.com/carbonfive/raygun) - 使用已经完成的常见定制内容构建应用程序.
 * [Suspenders](https://github.com/thoughtbot/suspenders) - Suspenders 是 thinkbot 使用的基础 Rails 应用程序.
 
@@ -1092,7 +1091,7 @@
 
 ## State Machines
 
-* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).
+* [AASM](https://github.com/aasm/aasm) - Ruby 类的状态机（普通 Ruby、Rails Active Record、Mongoid）.
 * [FiniteMachine](https://github.com/peter-murach/finite_machine) - 一个简单的 Ruby 状态机，具有直接和富有表现力的语法.
 * [MicroMachine](https://github.com/soveran/micromachine) - 少于 50 行代码的最小有限状态机实现.
 * [simple_states](https://github.com/svenfuchs/simple_states) - 一个超薄的类似状态机的支持库.
@@ -1166,7 +1165,7 @@
   * [CQL](https://github.com/enkessler/cql) - CQL 是一个用于对 Cucumber 样式测试套件进行查询的库.
   * [cuke_modeler](https://github.com/enkessler/cuke_modeler) - `.feature` 文件的建模库，它是 `gherkin` gem 之上的抽象层，为构建其他 Gherkin 相关工具提供了稳定的基础.
   * [gitarro](https://github.com/openSUSE/gitarro) - 针对您的 GitHub 拉取请求运行、重新触发、处理所有类型和操作系统无关的测试.
-  * [Knapsack](https://github.com/ArturT/knapsack) - RSpec、Cucumber、Minitest、Spinach 和 Turnip 跨 CI 节点的最佳测试套件并行化.
+  * [Knapsack](https://github.com/ArturT/knapsack) - 跨 RSpec、Cucumber、Minitest、Spinach 和 Turnip 的 CI 节点的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) - Mutant 是 Ruby 的突变测试工具.
   * [Parallel Tests](https://github.com/grosser/parallel_tests) - 通过在多个 CPU（或内核）上并行运行加速测试::Unit + RSpec + Cucumber.
   * [power_assert](https://github.com/k-tsj/power_assert) - Ruby 的电源断言.

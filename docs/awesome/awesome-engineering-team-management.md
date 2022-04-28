@@ -43,7 +43,7 @@
 
 - [17 Reasons not to be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/) - 一篇文章 [discourage the faint-hearted recruits](https://youtu.be/b07887ZzKiw?t=40).
 
-- [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html) - “当你成为他们的经理后，你就丧失了以任何身份开玩笑说他们在公司的工作的权利.”
+- [Advice to New Managers: Don't Joke About Firing People](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html) - “当你成为他们的经理的那一刻，你就丧失了以任何身份开玩笑说他们在公司的工作的权利.”
 
 - [Advice to new managers](https://twitter.com/ValaAfshar/status/966125964861280256) - 成为一名优秀经理所需的 9 条基本行为原则.
 
@@ -55,11 +55,15 @@
 
 - [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - 关于现代管理实践的完整、详细的指南.
 
+- [On being an Engineering Manager](https://ruiper.es/f746f5b7fff042c0a2565b6e36d236a4) - 其中一些点需要细微差别，但其他点对于初次担任经理的人来说是一种很好的体验.
+
 - [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - 经理（负责）和工程师（负责）之间的最大区别：“‘坏事’发生在负责人身上，而负责人可以继续下一个项目.”
 
  - “这是一份工作，你的目标是最慢地让人们失望.”  ([source](https://news.ycombinator.com/item?id=18222488)).
 
  - “所以诀窍基本上是让他们（你的直接下属）负责，而不是你. 你有配角，他们可以向你索取东西. 但目标需要非常明确.”  ([source](https://news.ycombinator.com/item?id=23973859)) - 关于如何与您的直接下属合作的秘诀，来自 [7 habits of highly effective people](https://amzn.com/B01069X4H0/?tag=kevideld-20).
+
+- [The One Minute Manager Meets the Monkey](https://amzn.com/0688103804/?tag=kevideld-20)  - 作者使用了一个寓言，其中问题是猴子. 没有经验的经理让猴子被转移到他们身上，在他们的背上堆积和复合. 由此，本书教你如何从承担责任转变为委派，不至于成为瓶颈.
 
 ## Building Teams
 
@@ -179,7 +183,7 @@
 
 - “顾问是手册中领先 4 页的人”（[source](https://news.ycombinator.com/item?id=20786286)).
 
-- “大多数组织从顾问那里获得的价值（......）是他们一直知道应该做出改变的政治掩护，但没有社会资本或焦点来做出这些改变”（[source](https://news.ycombinator.com/item?id=21714791) ）. 这就是官僚机构和高度政治化的组织成为顾问的沃土的原因.
+- “大多数组织从顾问那里获得的价值（……）是他们一直知道应该做出改变的政治掩护，但没有社会资本或焦点来做出这些改变”（[source](https://news.ycombinator.com/item?id=21714791) ）. 这就是官僚机构和高度政治化的组织成为顾问的沃土的原因.
 
 - [The Prosperous Software Consultant](https://dabit3.medium.com/the-prosperous-software-consultant-5dc8d705c5dd) - 本文让您了解独立顾问的运作方式.
 
@@ -209,7 +213,7 @@
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - 招聘过程的详细描述，当您的公司变得足够大以开始正式化时，这是一个很好的灵感来源.
 
-- [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs 发布了他们的流程“为候选人创造熟悉度并消除偏见，从而获得更好的候选人体验和招聘决策.”
+- [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs 发布了他们的流程，“让候选人熟悉并消除偏见，从而获得更好的候选人体验和招聘决策.”
 
 - [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “在他们实际上并不擅长的事情上测试程序员并期望了解他们在贵公司的工作方式是一种妄想，我认为这种面试只会让招聘团队感觉更聪明，并确保为具有传统 CS 背景的工程师提供更好的结果.”
 
@@ -275,7 +279,7 @@
 
 - [As a manager of a new employee I make an absolute point of being a "helicopter mom" from the moment they hit the area until about week 2 or 3](https://news.ycombinator.com/item?id=24404676) - 在新组织的前几周导航会很困难，经理的存在可以帮助加快速度.
 
-- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - 作者开发了一种算法，可以在加入现有团队时快速提升，在该团队中他存在大量知识缺陷且没有预先存在的关系.
+- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start) - 作者开发了一种算法，可以在加入现有团队时快速提升，而在该团队中，他存在大量知识缺陷且没有预先存在的关系.
 
 - [Meeting everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html)  - 在继承了一个由 50 名工程师组成的组织的最高职位后，作者通过在 30 分钟内 1:1 与每个人会面，从而引导了与这个大团队的关系. 这是一项巨大的时间投资，尽管担心无聊，但它可以识别出需要进行哪些改变的模式.
 
@@ -311,7 +315,7 @@
 
 - [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf)  - 在完美的效率和完全的灵活性之间有一个范围. 本文探讨了生态系统以及生态系统内不同生物之间的物质和能量流动.  ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
-- [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - 如果您仍然怀疑管理文化能否成就或破坏一个行业：“低效的管理实践使南欧公司无法充分利用 IT 革命”.
+- [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - If you still doubt management culture could make or break an industry: “inefficient management practices have kept southern European firms from taking full advantage of the IT revolution”.
 
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - “人们更聪明，你的经理（和他们的经理）非常关心你，而且很容易调动.”
 
@@ -327,9 +331,9 @@
 
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) - 关于如何设计更好的组织的书籍、网页和视频列表，分为 3 类：组织和动机、健康和保健以及特定于软件开发.
 
-- [A Conversation with Werner Vogels, Learning from the Amazon technology platform](https://queue.acm.org/detail.cfm?id=1142065)  - 扩展系统不仅是一项技术挑战. 它也必须与团队和文化有关. 从 AWS 早期学到的一个教训是：“赋予开发人员运营责任极大地提高了服务质量，无论是从客户角度还是技术角度.  （……）你构建它，你运行它.”
+- [A Conversation with Werner Vogels, Learning from the Amazon technology platform](https://queue.acm.org/detail.cfm?id=1142065)  - 扩展系统不仅是一项技术挑战. 它也必须与团队和文化有关. 从 AWS 早期学到的一个教训是：“从客户和技术的角度来看，赋予开发人员运营责任极大地提高了服务质量.  （……）你构建它，你运行它.”
 
-- [The principles of Amazon service-oriented collaboration](https://www.theregister.com/2019/05/14/amazons_away_teams/?page=2) - 来自 AWS 的匿名来源汇编，与上面的采访相呼应：“团队表面上是自主的，可以做出实现目标所需的任何重要决定.”
+- [The principles of Amazon service-oriented collaboration](https://www.theregister.com/2019/05/14/amazons_away_teams/?page=2) - 来自 AWS 的匿名来源汇编，与上述采访相呼应：“团队表面上是自主的，可以做出实现目标所需的任何重要决定.”
 
 ## Cognitive Tools
 
@@ -339,7 +343,7 @@
 
 广泛的知名模型和概念列表.
 
-- [Gigerenzer's simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/)  - 我们经常依赖这些简单的启发式方法的原因：“在实验室之外，在现实世界中，我们不能仅仅依靠逻辑理性来做好，我们需要生态理性——这种思维可以帮助我们在一个环境中得到我们想要的东西不确定性和动态性. 这意味着运用我们的直觉，使用简单但强大的经验法则.”
+- [Gigerenzer's simple rules](https://www.foundingfuel.com/article/gigerenzers-simple-rules/)  - 我们经常依赖这些简单的启发式方法的原因：“在实验室之外，在现实世界中，我们不能仅仅靠逻辑理性来做好，我们需要生态理性——这种思维可以帮助我们在一个环境中得到我们想要的东西不确定性和动态性. 这意味着运用我们的直觉，使用简单但强大的经验法则.”
 
 - [The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/#military_and_war) - 109 个模型的集合.
 
@@ -359,7 +363,7 @@
 
 - [Regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) - 或者为什么在一段强烈的兴奋和野心之后，事情会慢慢恢复到平时的平庸.
 
-- [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - 一个关于“人们相信他们在多大程度上可以控制他们生活中事件的结果，而不是他们无法控制的外部力量”的框架.
+- [Locus of control](https://en.wikipedia.org/wiki/Locus_of_control) - 一个关于“人们相信他们可以控制生活中事件结果的程度，而不是他们无法控制的外部力量”的框架.
 
 ### Problem Solving
 
@@ -391,7 +395,7 @@
 
 - [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 用于说服商业专业人士的 6 条影响力普遍原则：互惠、一致性、社会认同、让人们喜欢你、权威和稀缺性.
 
-- [On Bullshit](http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/bullshit.pdf) - 这 [HN comment](https://news.ycombinator.com/item?id=23147605) 完美地描述了这个概念.  “与谎言/欺诈不同，谎言是工具性的，法兰克福将胡说八道定义为潜在的虚假言论，其中真相*根本不重要*. 胡说八道的特点是给人一种自信、智慧或令人信服的论点的*表面外观*； 它是否真的是无关紧要的.”
+- [On Bullshit](http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/bullshit.pdf) - 这 [HN comment](https://news.ycombinator.com/item?id=23147605) 完美地描述了这个概念.  “与谎言/欺诈不同，谎言是工具性的，法兰克福将胡说八道定义为潜在的虚假言论，其中真相*根本不重要*. 胡说八道的特点是给人以自信、智慧或令人信服的论点的*表面表现*； 它是否真的是无关紧要的.”
 
 ## Team Dynamics
 
@@ -411,7 +415,7 @@
 
 - [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - 某种推回不应被解释为蓄意破坏，而应被解释为溺水者为了自救而沉没救生艇.
 
-- “社区已经存在，你只需为它创建一个交流平台”（[source](https://news.ycombinator.com/item?id=21828666)) - 或者为什么尝试从头开始创建社区可能不是看待事物的正确方式：更好、更微妙的策略是赋予现有渠道权力并使其可见.
+- “社区已经存在，你只需为它创建一个交流平台”（[source](https://news.ycombinator.com/item?id=21828666)) - 或者为什么尝试从头开始创建社区可能不是看待事物的正确方式：更好和更微妙的策略是赋予现有渠道权力并使其可见.
 
 - [OpenTeams](https://openteam.info)  - “团队可以可视化他们的互动网络，并将这些数据与团队人口统计、专业和心理特征的信息相结合.” 作为经理，请确保这些指标为团队带来积极成果. 出于政治原因，很容易将它们工具化.
 
@@ -423,7 +427,7 @@
 
 你不应该把时间花在编码上. 把它留给工程师：你的价值现在在别处. 但这是否意味着你必须忘记所有技术性的东西？ 答案是惊人的*NO*. 以下是一些论据：
 
-- [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/)  - 是的.  “展望未来 30 年的管理趋势，似乎只有几件事是确定的：管理者应该是技术型的，而技术型的定义将不断变化.”
+- [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/)  - 是的.  “展望未来 30 年的管理趋势，似乎只有几件事是确定的：管理者应该是技术型的，技术型的定义会不断变化.”
 
 - [If Your Boss Could Do Your Job, You're More Likely to Be Happy at Work](https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work) - “虽然我们发现许多因素对工作中的幸福感很重要——例如，职业类型、教育水平、任期和行业也很重要——但它们甚至不如老板的技术重要权限.”
 
@@ -443,7 +447,7 @@
 
 - [I try to optimize my code around reducing state, coupling, complexity and code, in that order](https://news.ycombinator.com/item?id=11042400) - 工程师认为应首先解决哪些优先事项以提高系统的稳健性.
 
-- [SpaceX's 5-Step design and manufacturing process](https://www.youtube.com/watch?v=t705r8ICkRw&t=13m30s) - “1. Make requirement less dumb; 2. Try to delete parts; 3. Simplify or optimize; 4. Accelerate cycle time; 5. Automate”. See [full transcript](https://news.ycombinator.com/item?id=28517976).
+- [SpaceX's 5-Step design and manufacturing process](https://www.youtube.com/watch?v=t705r8ICkRw&t=13m30s)  - “1. 使需求不那么愚蠢；  2.尝试删除部分；  3. 简化或优化；  4.加快循环时间；  5. 自动化”. 看 [full transcript](https://news.ycombinator.com/item?id=28517976).
 
 ### Technology
 
@@ -505,7 +509,7 @@
 
 两个人 + 一个（虚拟）房间 = 一个会议.
 
-- [Dear Manager, You’re Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)  - “当会议减少 40% 时，员工的工作效率提高了 71%. 这主要是因为员工感到更有能力和自主权. 他们不是把日程安排当老板，而是拥有自己的待办事项清单，并对自己负责.”
+- [Dear Manager, You're Holding Too Many Meetings](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)  - “当会议减少 40% 时，员工的工作效率提高了 71%. 这主要是因为员工感到更有能力和自主权. 他们不是把日程安排当老板，而是拥有自己的待办事项清单，并对自己负责.”
 
 - [How to have great meetings, according to 200 scientific studies](https://qz.com/work/1713662/how-to-have-great-meetings-according-to-200-scientific-studies/) - A roadmap for getting meetings right.
 
@@ -519,13 +523,13 @@
 
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) - 来自经理的高级问题的个人列表.
 
-- [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions) - A mega list in which most of them are great starters for conversation, some others are clearly bad ideas. A great source of inspiration nonetheless, but choose carefully.
+- [1 on 1 Meeting Questions](https://github.com/VGraupera/1on1-questions)  - 一个大型列表，其中大多数都是很好的谈话开场白，其他一些显然是坏主意. 尽管如此，这是一个很好的灵感来源，但请谨慎选择.
 
 ### Standups
 
 敏捷礼仪的主要内容，经常被滥用.
 
-- [Your daily standups should be async. Here's why](https://www.cadencework.com/blog/async-standups.html) - “每天的实时会议对远程团队来说不实用”可能是最好的实际理由.
+- [Your daily standups should be async. Here's why](https://www.cadencework.com/blog/async-standups.html) - “每日实时会议对远程团队来说不实用”可能是最好的实际理由.
 
 - [The Good, the Bad and the Ugly Standup](https://kristoff.it/blog/good-bad-ugly-standup/) - 作者在为他的团队工作之前经历了 3 种形式的站立会议，并得出结论：“构成良好会议的细节是微妙的，追求人为的美学标准会阻止你进行必要的实验来从丑陋的平衡中改善”.
 
@@ -597,7 +601,7 @@
 
 - [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式企业家，但仍然充满参考书中关于客户关系、定价和营销产品的精彩报价.
 
-- [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400)  - 您的组织最终会使用 Atlassian 产品，因为“他们的商业模式是： 1. 从客户和潜在客户那里收集需求清单；  2. 确保他们的产品检查每一个该死的盒子，无论多么愚蠢.”
+- [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400)  - 您的组织最终会使用 Atlassian 产品，因为“他们的商业模式是： 1. 从客户和潜在客户那里收集需求列表；  2. 确保他们的产品检查每一个该死的盒子，无论多么愚蠢.”
 
 - “Linear roadmaps are misleading” ([source](https://twitter.com/PavelASamsonov/status/1296818042928861184)).
 
@@ -653,7 +657,7 @@
 
 - [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/)  - “有些公司的最后期限是一成不变的，错过最后期限就会被解雇. 这就是问题开始的时候.”
 
-- [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/)  - 如何不管理接近最后期限的项目：“削减完成的功能，对人大喊大叫，让工作人员精神崩溃. 然后他们想到了一个绝妙的主意：让我们从其他团队中偷走一百多名工程师，然后这个项目就会神奇地按时完成.”
+- [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/)  - 如何不管理接近截止日期的项目：“削减完成的功能，对人大喊大叫，让工作人员精神崩溃. 然后他们想到了一个绝妙的主意：让我们从其他团队中偷走一百多名工程师，然后这个项目就会神奇地按时完成.”
 
 - [Robert "Uncle Bob" Martin talk about professionalism in software development](https://youtu.be/LmRl0D-RkPU?t=3202)  - 唯一诚实的估计是“我不知道”. 但是您可以提出某种可能性评估，这将告知风险的形状. 这与PERT没有什么不同，其中一个活动受 [optimistic, pessimistic and most-likely time](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique#Time) . 现在，如果管理者不采取范围作为答案，不要落入那个陷阱. 告诉他们你已经尽可能地尝试了.  “然后经理将不得不做一些非常陌生的事情：他们必须管理. 这就是管理：管理风险.”
 
@@ -785,7 +789,7 @@ KPI 是团队或组织级别的一组定量测量，用于衡量业务的成功.
 
 - [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - 微软关于如何提高写作以使其更具包容性和多样性的指南.
 
-- [alex](https://github.com/get-alex/alex) - 无论是您自己的还是其他人的作品，alex 都可以帮助您在文本中找到性别偏爱、两极分化、种族相关、宗教不考虑或其他不平等的措辞.
+- [alex](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - 生成文本的废话内容的标准化度量.
 
@@ -897,7 +901,7 @@ KPI 是团队或组织级别的一组定量测量，用于衡量业务的成功.
 
 - [The Prince](https://en.wikipedia.org/wiki/The_Prince)  - 马基雅维利关于如何作为领导者获得荣誉和权力的想法. 在公司中诉诸这种级别的政治肯定会使文化变得剧毒，并在各个层面腐蚀和削弱组织的士气.
 
-- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - 基于 *The Office* 的愤世嫉俗、黯淡但仍然令人着迷的管理阶梯.
+- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
 
 - [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20)  ——罗伯特·格林. 可以教您如何掩饰自己的屁股并在高度政治化的组织中发挥作用.
 
@@ -939,7 +943,7 @@ KPI 是团队或组织级别的一组定量测量，用于衡量业务的成功.
 
 ### Team-level
 
-- [Why it's difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337)  - 描述了经理可以采取的 3 种不同的方法来容纳团队中的新人： 1. 下沉或游泳；  2.拆分和吸收；  3.吸收和分裂.
+- [Why it's difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337)  - 描述经理可以采取的 3 种不同的方法来容纳团队中的新人： 1. 下沉或游泳；  2.拆分和吸收；  3.吸收和分裂.
 
 - [Teams are like bread](https://blog.jessitron.com/2019/06/15/teams-are-like-bread/)  - 与上面讨论的 *Absorb and Split* 策略产生共鸣：“如果您有一支魔法蓬勃发展的团队，请不要杀死它. 喂它，让它成长，让它成为更强大团队的来源. 不着急.”
 
@@ -963,7 +967,7 @@ KPI 是团队或组织级别的一组定量测量，用于衡量业务的成功.
 
  - “当一切都取得巨大成功时，成功背后的人会影响未来能够取得成功的人.  (...) Netflix 是一个很好的例子，说明了如何正确地进行大转型.  Netflix 通过邮寄业务租用 DVD. 当决定转向流媒体时，Netflix 的 CEO 不允许负责 DVD 租赁业务的经理参加计划未来的会议.”  ([source](https://news.ycombinator.com/item?id=21395557)).
 
-- [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36)  - 在一家缺陷严重的公司工作了 3 年之后，作者得出了一个谦逊的结论：领导者应该体现员工的价值. 不是反过来.  “高层的变化——不是演讲、培训或主题标签——会产生最大的文化影响. 如果你想要真正和持久的文化变革，那就扫除在以前的文化下成功的造就者，提拔那些外表、行为和思维更像员工而不是经理的人.”
+- [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36)  - 在一家缺陷严重的公司工作了 3 年之后，作者得出了一个谦逊的结论：领导者应该体现员工的价值. 不是反过来.  “高层的变化——不是演讲、培训或主题标签——会产生最大的文化影响. 如果你想要真正和持久的文化变革，那就扫除在旧文化下成功的成功人士，提拔那些外表、行为和思维更像员工而不是经理的人.”
 
 ### Acquisition
 
@@ -995,7 +999,7 @@ KPI 是团队或组织级别的一组定量测量，用于衡量业务的成功.
 
  ——“倦怠是由怨恨引起的.  (...) 不会.当您反复为失败的高风险问题做出大量牺牲和/或努力时，就会导致倦怠. 这是伏隔核中负预测错误的结果. 你有效地调节了你的大脑，将工作与失败联系起来.”  ([source](https://news.ycombinator.com/item?id=5630618)).
 
-- [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)  - “我们过度工作和倦怠的倾向是由涉及我们的专业、我们的组织和我们自己的因素的复杂组合构成的. 它的核心是不安全感.”
+- [If You're So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)  - “我们过度工作和倦怠的倾向是由涉及我们的专业、组织和我们自己的复杂因素组合而成的. 它的核心是不安全感.”
 
 - [What Happens When Your Career Becomes Your Whole Identity](https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity) - “高成就、激烈竞争和过度工作文化的特殊融合使许多人陷入了职业纠缠和倦怠的完美风暴.”
 
@@ -1031,7 +1035,7 @@ KPI 是团队或组织级别的一组定量测量，用于衡量业务的成功.
 
 - [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - 关于销售和营销如何接管以产品为中心的公司.
 
-- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - 当一家公司缺乏技术领导力时：开发人员将时间浪费在代价高昂的重构、过度设计的系统上，最终脱离了业务和产品.
+- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - 当公司缺乏技术领导力时：开发人员将时间浪费在代价高昂的重构、过度设计的系统上，最终脱离业务和产品.
 
 ## Exits
 

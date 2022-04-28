@@ -43,7 +43,7 @@
 
 - [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - 让 B2B 用户满意的大部分功能将由 IAM 边界实现.
 
-- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过度宽松的 AWS IAM 政策允许 `s3:GetObject` 使用 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
+- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098)  - “过度宽松的 AWS IAM 政策允许 `s3:GetObject` 到 `*`（所有）资源”，导致 Capital One 被罚款 8000 万美元. 作为企业主，您不能忽视 IAM 的唯一原因.
 
 - [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/)  - 有点 *click-baity*，但作者承认“这取决于您对他们的信任程度 1. 继续经营；  2. 不抬高你的价格；  3. 不弃用您旗下的服务；  4. 在业务加速方面为您提供的价值比在灵活性方面带来的价值更大.”
 
@@ -69,7 +69,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Separate the account, user and login/auth details](https://news.ycombinator.com/item?id=21151830) - 为面向未来的 IAM API 奠定基础的合理建议.
 
-- [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/) - 关于用户名作为标识符的概念，以及当 unicode 字符满足唯一性要求时引入的复杂性.
+- [Identity Beyond Usernames](https://lord.io/blog/2020/usernames/) - 关于用户名作为标识符的概念，以及 unicode 字符满足唯一性要求时引入的复杂性.
 
 - [Kratos](https://github.com/ory/kratos) - 用户登录、用户注册、2FA 和个人资料管理.
 
@@ -229,7 +229,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Learn how to use JWT for Authentication](https://github.com/dwyl/learn-json-web-tokens) - 了解如何使用 JWT 保护您的 Web 应用程序.
 
-- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供了细粒度的安全性、同质身份验证架构、去中心化发布、OAuth2 合规性、可调试性、过期控制、设备管理.
+- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供了细粒度的安全性、同质身份验证架构、分散式发布、OAuth2 合规性、可调试性、过期控制、设备管理.
 
 - [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) - JWT 具有各种灵活性，使其难以很好地使用.
 
@@ -261,7 +261,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱，以使其不那么令人生畏.
 
-- [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 关于 Teleport（开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实用案例研究的一个很好的概述.
+- [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 一个很好的概述，其中包含有关 Teleport（一种开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实际案例研究.
 
 - [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - 一张不错的摘要卡.
 
@@ -292,6 +292,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [authentik](https://goauthentik.io/?#correctness) - 类似于 Keycloak 的开源身份提供程序.
 
 - [ZITADEL](https://github.com/zitadel/zitadel)  - 使用 Go 和 Angular 构建的开源解决方案，用于管理您的所有系统、用户和服务帐户及其角色和外部身份.  ZITADEL 为您提供 OIDC、OAuth 2.0、登录和注册流程、无密码和 MFA 身份验证. 所有这些都建立在事件源之上，并结合 CQRS 提供了一个很好的审计跟踪.
+
+- [a12n-server](https://github.com/curveball/a12n-server) - 一个简单的身份验证系统，仅实现 OAuth2 标准的相关部分.
 
 ### SAML
 
@@ -393,7 +395,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
-- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463)  - 作为蛋白杏仁饼干的消费者/验证者，它们允许您（通过第三方警告）将某些授权决定推迟给其他人.  JWT 没有.
+- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463)  - 作为杏仁饼的消费者/验证者，它们允许您（通过第三方警告）将某些授权决定推迟给其他人.  JWT 没有.
 
 ## Secret Management
 
@@ -639,7 +641,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 ## UX/UI
 
-作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
+作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计它. 这里有一些指南可以帮助您完善这种体验.
 
 - [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - 涵盖用户入职的所有重要方面.
 

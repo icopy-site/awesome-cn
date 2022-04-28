@@ -7,7 +7,7 @@
   <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>
 </div>
 
-> Board games are played on a tabletop, often employ combinations of strategy, skill, and luck, and are a great way to pass the time with friends and loved ones.
+&gt; 棋盘游戏在桌面上进行，通常采用策略、技巧和运气的组合，是与朋友和亲人打发时间的好方法.
 
 
 
@@ -19,13 +19,13 @@
 
 ![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 8 |        8 |  20m |
+ |  2 - 8 |  8 |  20m |
 
 ### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
-&gt; ...一次越野火车冒险，玩家在其中收集各种类型的火车车厢卡，使他们能够声称连接世界各国城市的铁路路线。
+&gt; ...一次越野火车冒险，玩家在其中收集各种类型的火车车厢卡，使他们能够声称连接世界各国城市的铁路路线.
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
@@ -39,7 +39,7 @@
 
 ![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 - 4 |  8 |  45m |
 
@@ -49,49 +49,49 @@
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 5 |       10 |  45m |
+ |  2 - 5 |  10 |  45m |
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
-> Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
+ &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能被禁足.这个游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息共同规划地形和构建真正的电路.
 
 ![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 - 5 |  10 |  60m |
 
 ### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
 
-> Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
+ &gt; 以洛夫克拉夫特式的恐怖世界为背景，合作调查一个满是奇怪文物和陌生恶魔的博物馆. 收集可怕的符号，“古老的标志”，关闭传送门，防止生物入侵我们的世界. 在时间结束之前收集足够的东西，否则就会遭受远古者的愤怒.
 
 ![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  1 - 8 |  13 |  90m |
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
-> Players all begin as allies exploring a haunted house filled with dangers, traps, items, and omens.\
+&gt; 玩家开始时都是盟友，探索充满危险、陷阱、物品和预兆的鬼屋.\
 &gt; 当玩家前往豪宅的新区域时，会随机选择房间瓷砖并放置在游戏板上.\
 &gt; 最终“出没”开始，一个玩家通常会“背叛”其他玩家并站在鬼魂、怪物或其他敌人的一边，而其余玩家则合作击败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   3 - 6 |       13 |  60m |
+ |  3 - 6 |  13 |  60m |
 
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
-> Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
+&gt; 玩家使用一副带有梦幻图像的卡片，选择与“讲故事者”建议的标题相匹配的卡片，并尝试猜测“讲故事者”选择了哪张卡片.
 
 ![Dixit_game_image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dixitgame.jpg/200px-Dixitgame.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  3 - 8 |  8 |  30m |
 
@@ -107,7 +107,7 @@
 
 ### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
 
-> Build a Unicorn Army. Betray your friends. Unicorns are your friends now.
+ &gt; 建立独角兽军队. 背叛你的朋友. 独角兽现在是你的朋友.
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
@@ -117,15 +117,15 @@
 
 ### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
 
-> The master of Ravenloft is having guests for dinner – and you are invited!\
-> Evil lurks in the towers and dungeons of Castle Ravenloft, and only heroes of exceptional bravery can survive the horrors within.\
+&gt; 鸦阁的主人请客共进晚餐——你被邀请了！\
+&gt; 恶魔潜伏在鸦阁城堡的塔楼和地牢中，只有极其勇敢的英雄才能在里面的恐怖中幸存下来.\
 &gt; 这款棋盘游戏专为 1-5 名玩家设计，具有多种场景、具有挑战性的任务和合作玩法.
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   1 - 5 |       13 |  60m |
+ |  1 - 5 |  13 |  60m |
 
 ### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
 
@@ -133,9 +133,9 @@
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   1 - 6 |       12 | 60-120m |
+ |  1 - 6 |  12 |  60-120m |
 
 ### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
 
@@ -145,37 +145,37 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |        3 | 15-21m |
+ |  2 - 4 |  3 |  15-21m |
 
 ### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 
-> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones.
+ &gt; 也称为 Snakes and Ladders，Chutes and Ladders 简单易玩，即使对于不识字的人也是如此. 上梯子，下坡道，孩子会（通过图片）了解善行的回报和淘气的后果.
 
 ![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |        4 | 15-30m |
+ |  2 - 4 |  4 |  15-30m |
 
 ### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
 
-> Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board. If you land on a Slide you can zip to the end and bump your opponents' pawns or your own!
+ &gt; 滑动、碰撞和得分，赢得对不起游戏！ 抽牌看看你能在棋盘上移动你的一个棋子多远. 如果您降落在滑梯上，您可以拉到最后并撞到对手的棋子或您自己的棋子！
 
 ![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 - 4 |  6 |  30m |
 
 ### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
 
-> Klask is a board game that has a ball field shape with two deep holes functioning as goals in each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
+ &gt; Klask 是一款棋盘游戏，具有球场形状，球场两端各有两个深洞作为球门. 游戏的目的是用你的磁铁/游戏块在球场上推动小球，将球射过障碍物和你的对手并进入球门洞.
 
 ![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|       2 |        8 |  10m |
+ |  2 |  8 |  10m |
 
 ### [Battleball](https://boardgamegeek.com/boardgame/6795/battleball)
 
@@ -183,19 +183,19 @@
 
 ![Battleball Image](https://cf.geekdo-images.com/itemrep/img/_ybsCFVKunSnqyGPCiuXbT2kuDo=/fit-in/246x300/filters:strip_icc()/pic227687.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|       2 |        8 |  45m |
+ |  2 |  8 |  45m |
 
 ### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
 
-> Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
+ &gt; Pachisi 是印度的国球，可追溯到公元 4 年，至今仍很流行.  Parcheesi 是西化的版本.  Parcheesi 通常使用两个骰子，每个玩家四个棋子和一个游戏板，游戏板在外面有一个轨道，四个角落空间和四个通向中心端空间的家庭路径. 将所有四个棋子移至本位即可赢得比赛.
 
 ![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |        8 | 30-60m |
+ |  2 - 4 |  8 |  30-60m |
 
 ### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
 
@@ -205,11 +205,11 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 5 |        8 |    45m |
+ |  2 - 5 |  8 |  45m |
 
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
-<i>&gt; Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple.</i> <b>&gt; 圣托里尼是一款易于上手的策略游戏，对于小学课堂来说足够简单，同时旨在提供游戏深度和内容供铁杆游戏玩家探索，规则很简单。</b> <i>Each turn consists of 2 steps.</i><b>每个回合包括 2 个步骤。</b> <i>those are Move (move one of your builders into a neighboring space) and Build (construct a building level adjacent to the builder you move).</i><b>它们是移动（将您的一个建造者移动到相邻的空间）和建造（建造与您移动的建造者相邻的建筑物级别）。</b> <i>If either of your builders reaches the third level, you win.</i><b>如果你的任何一个建造者达到第三级，你就赢了。</b>
+ &gt; 圣托里尼是一款易于上手的策略游戏，对于小学课堂来说足够简单，同时旨在为铁杆游戏玩家提供探索的游戏深度和内容，规则很简单. 每个回合包括 2 个步骤. 它们是移动（将您的一个建造者移动到相邻的空间）和建造（建造与您移动的建造者相邻的建筑物级别）. 如果你的任何一个建造者达到第三级，你就赢了.
 
 ![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
 
@@ -219,7 +219,7 @@
 
 ### [Sushi Draft](https://boardgamegeek.com/boardgame/144865/sushi-draft)
 
-> Sushi Draft is a card game that looks good enough to eat! Sushi Draft includes a deck of 32 sushi cards (8 ikura, 7 ebi, 6 maguro, 5 tamago, 4 kappa and 2 "wild" triples) and 18 point tokens (three each for the five types of sushi and three for dessert); the point tokens range in value from 1-5, with the more plentiful sushi dishes being worth more points. Over three rounds, players draft plates of sushi and collect sushi points, which are drawn randomly. The player with the most diverse menu gets dessert. Players tally their points, and whoever has the highest score wins. Sushi Draft is quick to learn and fun for the whole family, and is the perfect introduction to the classic genre of pick-and-pass/card-drafting games!
+ &gt; Sushi Draft 是一款看起来很好吃的纸牌游戏！  Sushi Draft 包括一副 32 张寿司卡（8 ikura、7 ebi、6 maguro、5 tamago、4 kappa 和 2 个“wild”三元组）和 18 点代币（五种寿司各三张，甜点三张）； 积分代币的价值范围为 1-5，寿司菜肴越丰富，积分越多. 在三个回合中，玩家抽取寿司盘并收集寿司点，这些点是随机抽取的. 拥有最多样化菜单的玩家将获得甜点. 玩家计算他们的分数，得分最高的人获胜.  Sushi Draft 上手快，适合全家人一起玩耍，是经典的接传/纸牌游戏类型的完美介绍！
 
 ![Sushi Draft image](https://cf.geekdo-images.com/VBF3tF7GdSMA0j1E6HPlvQ__itemrep/img/wAInfSxdweuNqVxnL5Qsq5P_wtk=/fit-in/246x300/filters:strip_icc()/pic2062272.jpg)
 
@@ -229,7 +229,7 @@
 
 ### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
 
-> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks over the course of the game. They will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. Each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year. 
+ &gt; PARKS 是对美国国家公园的庆祝活动，以五十九公园的杰出艺术为特色. 在 PARKS 中，玩家将扮演两名徒步旅行者的角色，他们将在游戏过程中徒步穿越小径参观景点、观察野生动物、拍照并参观国家公园. 他们将采取行动并收集您的徒步旅行者去过的地方的记忆. 这些记忆由各种资源令牌代表，如山脉和森林. 成组收集这些记忆将允许玩家在每次徒步旅行结束时将它们换成参观国家公园. 每条小径由瓷砖代表，代表不同的季节，随着每个季节的流逝，小径会发生变化并逐渐变长. 每一回合，玩家都会派一名徒步旅行者沿着小径前进. 在小径上，徒步旅行者会看到美丽的景点，并在到达时采取行动. 当徒步旅行者到达小径的尽头时，他们可以使用收到的代币参观公园并赚取积分. 您的目标是在年底从您的公园、照片和个人奖金中获得最高分. 
 
 ![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc()/pic4852372.jpg)
 
@@ -240,7 +240,7 @@
 
 ### [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
- &gt; 在 Kingdomino 中，您将扮演一位正在寻找新土地来扩展您的王国的领主. 您必须探索所有土地，包括麦田、湖泊和山脉，以找到最好的地块，同时与其他领主竞争抢先获得它们. 这个游戏就像多米诺骨牌. 它使用具有两个部分的瓷砖. 每一回合，玩家将选择一个新的多米诺骨牌连接到他们现有的王国，确保它的至少一个侧面连接到已经在游戏中的匹配地形类型. 谁先选择的顺序取决于之前选择的瓷砖，更好的瓷砖迫使玩家在下一轮稍后选择. 当每个玩家完成一个 5x5 网格时，游戏结束，然后根据连接瓷砖和皇冠符号的数量计算点数.
+ &gt; 在 Kingdomino 中，您将扮演一位正在寻找新土地来扩展您的王国的领主. 您必须探索所有土地，包括麦田、湖泊和山脉，以找到最好的地块，同时与其他领主竞争抢先获得它们. 这个游戏就像多米诺骨牌. 它使用具有两个部分的瓷砖. 每回合，玩家将选择一个新的多米诺骨牌连接到他们现有的王国，确保至少有一个侧面连接到已经在游戏中的匹配地形类型. 谁先选择的顺序取决于之前选择的瓷砖，更好的瓷砖迫使玩家在下一轮稍后选择. 当每个玩家完成一个 5x5 网格时，游戏结束，然后根据连接瓷砖和皇冠符号的数量计算点数.
 
 ![Kingdomino image](https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__itemrep/img/iL7bbm8d4meLUnnrFrmKx0Xk2k0=/fit-in/246x300/filters:strip_icc()/pic3132685.png)
 
@@ -250,33 +250,33 @@
 
 ### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
 
-> Players take turns rolling the dice — which feature six unique symbols — then race to grab the tile with the matching pattern before anyone else. Whoever grabs six tiles first wins!
+ &gt; 玩家轮流掷骰子——其中有六个独特的符号——然后抢在其他人之前抢夺具有匹配图案的瓷砖. 谁先抢到六张牌，谁就赢了！
 
 ![Cobra Paw image](https://cf.geekdo-images.com/4dwXEEXmCGd8JIiRg7njUA__itemrep/img/vEPbqyeRa30jmstCkz2rkvHom5E=/fit-in/246x300/filters:strip_icc()/pic5349983.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 6 |        5 |  5-15m |
+ |  2 - 6 |  5 |  5-15m |
 
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
 
-> It is one of the oldest known board games. It is a two player game where each player has fifteen pieces (checkers) which move between twenty-four triangles (points) according to the roll of two dice. The objective of the game is to be first to bear off, i.e. move all fifteen checkers off the board.
+ &gt; 它是已知最古老的棋盘游戏之一. 这是一个两人游戏，每个玩家有十五个棋子（棋子），根据掷两个骰子在二十四个三角形（点）之间移动. 游戏的目标是先下棋，即将所有十五个棋子移出棋盘.
 
 ![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ----: |
-|       2 |        5 | 5-60m |
+ |  2 |  5 |  5-60m |
 
 ### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
 
-<i>&gt; The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called &quot;stones&quot;, creating a road.</i> <b>&gt; Tak 的目标是成为第一个将棋盘的任意两个相对边缘与它们的棋子（称为“石头”）连接起来，形成一条道路。</b> <i>To this end, players will take turns attacking and capturing their opponent&#39;s pieces while supporting their own.</i><b>为此，玩家将轮流攻击和捕获对手的棋子，同时支持自己的棋子。</b>
+ &gt; Tak 的目标是成为第一个将棋盘的任意两个相对边缘与它们的棋子（称为“石头”）连接起来，形成一条道路. 为此，玩家将轮流攻击和捕获对手的棋子，同时支持自己的棋子.
 
 ![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 |  5 |  30m |
 
@@ -286,7 +286,7 @@
 
 ![7 Wonders game image](https://cf.geekdo-images.com/RvFVTEpnbb4NM7k0IF8V7A__itemrep/img/F__zhk-OFDgFcMBysW2JlcYJADw=/fit-in/246x300/filters:strip_icc()/pic860217.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  3 - 7 |  10 |  45m |
 
@@ -296,9 +296,9 @@
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|       2 |       10 |  30m |
+ |  2 |  10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
@@ -306,9 +306,9 @@
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|       2 |       13 |  75m |
+ |  2 |  13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
@@ -318,9 +318,9 @@
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   1 - 5 |       10 |  45m |
+ |  1 - 5 |  10 |  45m |
 
 ### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
 
@@ -328,23 +328,23 @@
 
 ![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
 
-| Players | Min. Age |     Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -------: |
-|   1 - 5 |       14 | 120-180m |
+ |  1 - 5 |  14 |  120-180m |
 
 ### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
 
-> A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
+ &gt; 权力的游戏允许玩家扮演几个争夺七大王国控制权的大家族的角色，包括史塔克家族、兰尼斯特家族、拜拉席恩家族、葛雷乔伊家族、提利尔家族，以及在资料片 A Clash国王，马爹利家族. 玩家调动军队以在七大王国的各个地区获得支持，目标是获得足够的支持以夺取铁王座. 基本的游戏机制让人想起外交，尤其是在下达命令的过程中，尽管《权力的游戏》总体上要复杂得多.
 
 ![Game of thrones boardgame image](https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__itemrep/img/ZdvVWyy_BWv4QMZ7x1bxYGU0DE0=/fit-in/246x300/filters:strip_icc()/pic1077906.jpg)
 
-| Players | Min. Age |     Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -------: |
  |  3 - 6 |  12 |  180-360m |
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
-> Players start with five rings on the board. First player to remove 3 rings becomes the winner. Every time a ring is moved, it leaves a marker behind. Markers are white on one side and black on the other, and each time they are jumped they must be flipped. Once a player forms a row of 5 markers of their color, they can remove a ring. The challenge is each row you make brings you closer to victory-but also makes you weaker, because you have one fewer ring to play with.
+ &gt; 玩家从棋盘上的五个环开始. 第一个移除 3 个环的玩家成为获胜者. 每次移动一个环，它都会留下一个标记. 标记一侧为白色，另一侧为黑色，每次跳跃时都必须翻转. 一旦玩家形成一排 5 个与其颜色相同的标记，他们就可以移除一枚戒指. 挑战在于你所做的每一行都会让你更接近胜利——但也会让你变得更弱，因为你可以玩的戒指减少了.
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
@@ -354,63 +354,63 @@
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
-> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
+ &gt; Cthulhu Wars 是一款关于世界末日的快节奏策略游戏. 你扮演各种寻求主宰世界的可怕外星人的角色. 您可以扮演伟大的克苏鲁本人，也可以负责其他派系，例如爬行混沌的滑行部落，或黄色标志的疯狂爪牙.
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   2 - 8 |       12 | 90-120m |
+ |  2 - 8 |  12 |  90-120m |
 
 ### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
- &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四个道路的标志性领袖角色，不仅为人民的至高无上和福祉而奋斗，而且为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
+ &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四道标志性领袖的角色，不仅为人民的至高无上和福祉而奋斗，还为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
  |  1 - 4 |  15 |  30-120m |
 
 ### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
 
-> In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
+ &gt; 在 Clockwork Wars 中，每个玩家都指挥着一个独特的生物种族，在一个以幻想蒸汽朋克世界为背景的紧张战争游戏中. 控制精明的纯种动物、勤劳的穴居人、强大的犀牛或骄傲的杂种. 你的目标是战胜你的敌人并通过九个回合累积最多的胜利点. 您通过争夺包含宝贵自然资源的领土的控制权来获得积分. 为了赢得这些战斗，您需要通过占领村庄并将其发展为城市来获得人力. 投资于研究并发现惊人的新技术，定位你的部队，研究强大的发现，利用间谍活动，并征服你的敌人来赢得比赛！
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/hqnGEUQvqBevvs6vmA_N8Q__itemrep/img/YBF6w9nWSsasYnzP_mQ4drM02-g=/fit-in/246x300/filters:strip_icc()/pic2355823.jpg)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
  |  2 - 4 |  13 |  90-120m |
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt; 一个腐败的城市，受制于邪恶和贪婪，处于邪恶人物的控制之下. 权力的宝座是空的，等着你去拿——除非别人先拿. 在 Complots 中，就像在原始游戏 Coup 中一样，你控制两个角色并从两个硬币开始，然后通过诡计、操纵和虚张声势，你想消灭所有其他阻碍你的玩家，可能通过让他们沿着大大地.
+ &gt; 一个腐败的城市，受制于邪恶和贪婪，处于邪恶人物的控制之下. 权力的宝座是空的，等着你去拿——除非别人先拿. 在 Complots 中，就像在原始游戏 Coup 中一样，你控制两个角色并从两个硬币开始，然后通过诡计、操纵和虚张声势，你想消灭所有其他阻碍你的玩家，可能通过让他们沿着方式.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 8 |        8 |  15m |
+ |  2 - 8 |  8 |  15m |
 
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
-> Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
+ &gt; 棋子放置游戏，玩家在其中绘制并放置一块带有法国南部风景的棋子. 建造你的城堡，将它们与道路和草地连接起来，将 meeples 分配给角色并得分.
 
 ![Carcassonne game image](https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc()/pic2337577.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 5 |        8 | 30-90m |
+ |  2 - 5 |  8 |  30-90m |
 
 ### [Exploding Kittens](https://explodingkittens.com/)
 
-> Exploding Kittens is a highly-strategic, kitty-powered version of Russian roulette. It was the most-funded game in the history of Kickstarter and has paved the way for peace and tranquility in the modern world. It also features cards illustrated by The Oatmeal.
+ &gt; Exploding Kittens 是俄罗斯轮盘赌的一种高度战略性、以猫咪为动力的版本. 这是 Kickstarter 历史上资金最多的游戏，为现代世界的和平与安宁铺平了道路. 它还具有 The Oatmeal 插图的卡片.
 
 ![Exploding Kittens image](https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__itemrep/img/ON0bQporMQQ9KJlVC2UP8LAa_WI=/fit-in/246x300/filters:strip_icc()/pic2691976.png)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 5 |        7 |  15m |
+ |  2 - 5 |  7 |  15m |
 
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
@@ -424,7 +424,7 @@
 
 ### [Commonspoly](https://commonspoly.cc/)
 
-> Commonspoly is a fun strategy and turn based RPG game where players of the game work together to defend their world from being taken over by speculators. The game is like the direct opposite of what one does in the game of Monopoly. For in Commonspoly owning private goods is frowned upon and converting the privately owned goods to either public or community owned ones will be the task of the players. The game is really fun as its a pit against good and evil, where evil is/are depicted by the speculator characters in the game. Speculators go around the game and try to undo the efforts of the defendors. Also the game is released under Peer Production License and can be downloaded for free and printed at home to play.
+ &gt; Commonspoly 是一款有趣的策略和回合制 RPG 游戏，游戏中的玩家共同努力保护他们的世界不被投机者占领. 游戏就像在大富翁游戏中所做的完全相反. 因为在 Commonspoly 中，拥有私人物品是不受欢迎的，将私人拥有的物品转换为公共或社区拥有的物品将是玩家的任务. 游戏真的很有趣，因为它是一个对抗善恶的坑，游戏中的投机者角色描绘了邪恶. 投机者在比赛中四处走动，试图抵消防守者的努力. 此外，该游戏是在 Peer Production License 下发布的，可以免费下载并在家打印来玩.
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
@@ -448,17 +448,17 @@
 
 ![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   3 - 5 |       14 |  60m |
+ |  3 - 5 |  14 |  60m |
 
 ### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
 
- &gt; 辉煌让你置身于文艺复兴时期的富商，试图与他人竞争，以建立全欧洲最赚钱和最负盛名的珠宝业务. 玩家将相互竞争购买宝石矿、交通工具和店面，以增加自己的财富并积累最多的声望点. 随着你的名气和财富的增长，你甚至可能会引起当地贵族的注意......
+ &gt; Splendor 让您置身于文艺复兴时期的富商，试图与他人竞争，以建立全欧洲最赚钱和最负盛名的珠宝业务. 玩家将相互竞争购买宝石矿、交通工具和店面，以增加自己的财富并积累最多的声望点. 随着你的名气和财富的增长，你甚至可能会引起当地贵族的注意......
 
 ![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  30m |
 
@@ -478,60 +478,60 @@
 
 ![Gorgasali: Battle Royale Image](https://cf.geekdo-images.com/rEZCI1GVQMDIeeZ-IWGtRw__itemrep/img/L_ehmv4w5hR9hPdOF1RwoZIovK4=/fit-in/246x300/filters:strip_icc()/pic4960193.jpg)
 
-| Players | Min. Age |   Time   |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -------: |
  |  2-10 |  10 |  40-180m |
 
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
  &gt; Shadow Hunters 是一款生存棋盘游戏，背景设定在充满恶魔的森林中，其中有三组角色——暗影，黑夜生物； 猎人，试图摧毁超自然生物的人类； 和中立人，被卷入这场古老战争中的平民——为了生存而相互斗争.
-<i>&gt; You belong to one of these groups and must conceal your identity from others since you don&#39;t know whom you can trust—at least not initially.</i> <b>&gt; 你属于这些群体之一，并且必须向其他人隐瞒你的身份，因为你不知道你可以信任谁——至少一开始不知道。</b> <i>Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.</i><b>然而，随着时间的推移，有人可能会通过你的行为或隐士牌来破译你的身份，或者你甚至可能会暴露自己以使用你的特殊能力。</b>
+ &gt; 你属于这些群体之一，并且必须向其他人隐瞒你的身份，因为你不知道你可以信任谁——至少一开始不知道. 然而，随着时间的推移，有人可能会通过你的行为或隐士牌来破译你的身份，或者你甚至可能会暴露自己以使用你的特殊能力.
 
 ![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|     4-8 |       13 |  45m |
+ |  4-8 |  13 |  45m |
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
-> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
+&gt; 波斯战争是一款卡片驱动的战争游戏，描绘了公元前 494 年至 466 年的希腊-波斯冲突 玩家控制波斯帝国及其将军 Xerxes、Artabazus、Artayntes、Artemisia 和 Mardonius，或者控制希腊城邦及其将军，雅典人 Xanthippus、Miltiades 和 Themistocles 和 Spartans、Leonidas 和 Pausanias.
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |       12 | 60-90m |
+ |  2 - 4 |  12 |  60-90m |
 
 ### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
 
-> Guess the color of hidden pegs. A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.
+ &gt; 猜猜隐藏的钉子的颜色. 一种推理游戏，每个玩家轮流进行有限数量的猜测，使用逻辑来推断对手隐藏的钉子.
 
 ![Mastermind image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/226px-Mastermind.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 |  8 |  30m |
 
 ### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
 
-> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
+ &gt; Call to Adventure 是一款桌面游戏，玩家在其中竞争以打造拥有最伟大命运的英雄. 玩牌来塑造你的角色，施放符文来面对挑战，并选择是走英雄之路还是邪恶之路. 核心游戏模式是 2-4 人竞技游戏，但 Call to Adventure 也可以单人或合作玩！
 
 ![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |       13 | 30-45m |
+ |  2 - 4 |  13 |  30-45m |
 
 ### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
-> Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
+ &gt; 加入有史以来的战斗！ 从所有不同时代、物种和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
 
 ![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 4 |        8 |  90m |
+ |  2 - 4 |  8 |  90m |
 
 ### [Stone Age](https://boardgamegeek.com/boardgame/34635/stone-age)
 
@@ -541,15 +541,15 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-<i>|</i> <b>|</b> <i>2 - 4 |</i> <b>2 - 4 |</b> <i>10 |</i> <b>10 |</b> <i>60-90m |</i> <b>60-90m |</b>
+ |  2 - 4 |  10 |  60-90m |
 
 ### [Axis & Allies](https://en.wikipedia.org/wiki/Axis_%26_Allies)
 
-> Played on a board depicting a Spring 1942 political map of Earth divided by territories, players take the role of one or more of the five major belligerents of World War II: the Axis powers of Germany and Japan; and the Allied powers of the Soviet Union, the United Kingdom, and the United States. Turn rotates among these belligerents, who control armies of playing pieces with which they attempt to capture enemy territories, with results determined by dice rolls.
+ &gt; 在描绘 1942 年春季地球政治地图的棋盘上，玩家扮演二战五个主要交战国中的一个或多个角色：德国和日本的轴心国； 以及苏联、英国和美国的同盟国. 回合在这些交战方之间轮换，他们控制着试图占领敌方领土的棋子军队，结果由掷骰子决定.
 
 ![Axis & Allies image](https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc()/pic24006.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
 |   2 - 5 |       12 | 180m |
 
@@ -565,33 +565,33 @@
 
 ### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
 
-> Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
+ &gt; 玩家扮演投资者的角色，通过在 The Estates 开发建筑来赚取最多的钱.  The Estates 是一个新的城市发展项目，拥有高端基础设施和现代氛围. 市议会最近批准了 The Estates 的分区图. 它需要两排四栋建筑，位于河流和大街之间. 河对岸的草地仍将是城市的休闲区. 玩家将竞标各种建筑部件并将它们放置在庄园中以谋取利益. 完整行中的所有建筑物得分为正分，而未完成行中的所有建筑物得分为负分. 可能有零个已完成的建筑物行. 最后，得分最高的玩家将赢得庄园！
 
 ![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc()/pic4071903.jpg)
 
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 5 |       10 | 40-60m |
+ |  2 - 5 |  10 |  40-60m |
 ### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
 
  &gt; 在这个推理、逻辑和直觉的解谜挑战中，玩家将正面交锋，看看谁能第一个猜出对手的秘密方块. 每一个动作转折都会让你更接近找到隐藏的古老符号. 但要小心； 你的对手可能比你想象的更接近解决你的秘密方块！  Telepathy 棋盘游戏是一款出色的逻辑构建工具，非常适合教育工作者和解谜者. 如果您喜欢数独、Mastermind 或 Battleship，这款游戏适合您.
 
 ![Telepathy Image](https://cf.geekdo-images.com/HUrpAkrqZVwcjN8HXzaZaQ__itemrep/img/glE42FIgi4qCUEiDZxT_qJ1Vckk=/fit-in/246x300/filters:strip_icc\(\)/pic5283740.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 - 4 |  12 |  20m |
 
 ### [Chinese Checkers](https://en.wikipedia.org/wiki/Chinese_checkers)
 
-> Sternhalma, commonly known as Chinese checkers or Chinese chequers, is a strategy board game of German origin which can be played by two, three, four, or six people, playing individually or with partners. The game is a modern and simplified variation of the game Halma.
+ &gt; Sternhalma，俗称中国跳棋或中国跳棋，是一款源自德国的战略棋盘游戏，可由二人、三人、四人或六人单独或与伙伴一起玩. 该游戏是游戏豪迈的现代简化变体.
 
 ![Chinese Checkers game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ChineseCheckersboard.jpeg/300px-ChineseCheckersboard.jpeg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 6 |       7  | 10–30m |
+ |  2 - 6 |  7 |  10–30m |
 
 ### [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game))
 
@@ -605,89 +605,99 @@
 
 ### [Leaving Earth](https://boardgamegeek.com/boardgame/173064/leaving-earth)
 
-> The year is 1956. Mankind stands at the dawn of a new age, the Space Age, when the flying bombs of yesteryear will become the rocket ships of tomorrow. As the director of a national space program, your country is depending on you for success in this great contest. You may be the first to create an artificial satellite, send a probe to another planet, or even put a man on the moon.
+ &gt; 这一年是 1956 年.人类站在新时代的黎明，太空时代，昔日的飞行炸弹将成为明天的火箭飞船. 作为国家太空计划的负责人，您的国家在这场伟大的竞赛中取得成功取决于您. 你可能是第一个制造人造卫星、向另一个星球发送探测器，甚至是把人送上月球的人.
 
 ![Leaving Earth game image](https://cf.geekdo-images.com/rpjQ2X1g2fau-VsgAYvo2A__itemrep/img/6tc-Bi7iqr-DRoszSytamoIoQjw=/fit-in/246x300/filters:strip_icc()/pic2624698.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   1 - 5 |     15+  | 60-180m |
+ |  1 - 5 |  15+ |  60-180m |
 
 ### [Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)
 
-> In Ark Nova, you will plan and design a modern, scientifically managed zoo. With the ultimate goal of owning the most successful zoological establishment, you will build enclosures, accommodate animals, and support conservation projects all over the world. Specialists and unique buildings will help you in achieving this goal.
+ &gt; 在 Ark Nova，您将规划和设计一个现代化、科学管理的动物园. 以拥有最成功的动物园为最终目标，您将建造围栏、容纳动物并支持世界各地的保护项目. 专家和独特的建筑将帮助您实现这一目标.
 
 ![Ark Nova](https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__itemrep/img/IRqrT7kOqPQilogauyQkOnLx-HU=/fit-in/246x300/filters:strip_icc()/pic6293412.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   1 - 4 |      14+ | 90-150m |
+ |  1 - 4 |  14+ |  90-150m |
+
+### [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
+
+ &gt; Rising Sun 是一款 3 到 5 名玩家的棋盘游戏，背景设定在传奇的封建日本. 随着神族从天而降，按照他们的形象重塑这片土地，每个玩家都有责任带领他们的部落走向胜利. 利用政治来推动你的事业，谈判寻求最有利可图的联盟，崇拜神来赢得他们的青睐，招募传说中的怪物来支持你的力量，并明智地利用你的资源在战斗中取得胜利.
+
+![Rising Sun image](https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__itemrep/img/QC2OAbicZssRpGJkUmp0Zbto-cs=/fit-in/246x300/filters:strip_icc()/pic3880340.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | ------: |
+ |  3 - 5 |  14 |  90-120m |
 
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
 
-> In Jungle Speed, you must rely on your keen sense of observation and quick reflexes. It requires a steady hand -- which can be hard to maintain during the many fits of maniacal laughter! The wooden Totem sits in the middle of the table, waiting for the player with the fastest reflexes to snatch it up and win the game. Each player is dealt a hand of cards. In order to win you must be the first player to get rid of all of your cards. Each turn, all of the players reveal one of their cards. If two cards are identical, those players must make a grab for the Totem. The faster player then gives their cards to their unfortunate adversary.
+ &gt; 在丛林飞车中，你必须依靠敏锐的观察力和快速的反应能力. 它需要一只稳定的手——在无数次疯狂的笑声中很难维持！ 木制图腾坐在桌子中间，等待反应最快的玩家抢夺它并赢得比赛. 每个玩家都发了一手牌. 为了获胜，您必须是第一个摆脱所有牌的玩家. 每回合，所有玩家都展示他们的一张牌. 如果两张牌相同，则这些玩家必须抢夺图腾. 然后速度更快的玩家将他们的牌交给他们不幸的对手.
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 8 |        7 |  10m |
+ |  2 - 8 |  7 |  10m |
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
 
-> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
+ &gt; 作为一个小组，从最近被谋杀的幽灵那里得到消息，以解决这个协作侦探中的谋杀案. 对于初学者和经验丰富的游戏玩家来说，每场游戏都可以轻松玩新东西.
 
 ![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 7 |       10 |  42m |
+ |  2 - 7 |  10 |  42m |
 
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
-> This is a small and quite simple party game designed to make you sing beside the fireplace, or anywhere. Two teams compete using predetermined words. As soon as a player sings part of a song which contains the current word, the other team must find another song containing the word. As soon as a team fails, the other one wins the card.
+ &gt; 这是一款小巧而简单的派对游戏，旨在让您在壁炉旁或任何地方唱歌. 两队使用预定的词语进行比赛. 一旦玩家唱出包含当前单词的歌曲的一部分，另一支球队必须找到另一首包含该单词的歌曲. 一旦一队失败，另一队将赢得这张牌.
 
 ![Shabadabada game image](https://cf.geekdo-images.com/itemrep/img/YqqT45T_SyzsmTPiVOfgqqpGLec=/fit-in/246x300/pic1646452.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  4 - 16 |  8 |  45m |
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
-> In the not too distant future, the government is run for profit by a new “royal class” of multi-national CEOs. ... To be successful, you must destroy the influence of your rivals and drive them into exile. In these turbulent times there is only room for one to survive.
+ &gt; 在不久的将来，政府将由新的跨国CEO“皇室阶层”以营利为目的.  ...要成功，您必须摧毁对手的影响力并将他们驱逐出境. 在这个动荡的时代，只有一个人生存的空间.
 
 ![Coup game image](https://cf.geekdo-images.com/iwjc_79Aqz3lMb6orn7XhDplgKc=/fit-in/246x300/pic2016054.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  2 - 6 |  10 |  15m |
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
- &gt; Munchkin 是一款关于地牢冒险的热门纸牌游戏……没有那种愚蠢的角色​​扮演游戏. 您和您的朋友竞争杀死怪物并抢夺魔法物品. 还有什么魔法物品！ 戴上角质头盔和踢屁股的靴子. 使用凝固汽油弹之杖……或者血腥肢解的电锯. 从屠宰盆栽植物和流口水史莱姆开始，然后一路杀到钚龙……
+> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   3 - 6 |       10 | 60-120m |
+ |  3 - 6 |  10 |  60-120m |
 
 ### [Ludo](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Ludo_(board_game)>)
 
- &gt; 这个棋盘游戏可以在任何年龄组的最少 2 到最多 4 人之间进行. 两个骰子之一可用于移动令牌. 所有代币先到家的玩家为赢家. 玩家可以通过将他的令牌与同一个方格碰撞来杀死其他玩家的令牌. 其他玩家的令牌再次回到房子. 一些棋盘提供了特殊的方格，其中令牌是安全的并且不能被杀死. 玩家可以决定他们是否想要在获得 6 时获得额外回合来掷骰子的规则.更多令人兴奋的规则可以在 Wikipedia 链接上找到.
+ &gt; 这个棋盘游戏可以在任何年龄组的最少 2 到最多 4 人之间进行. 两个骰子之一可用于移动令牌. 所有代币先到家的玩家为赢家. 玩家可以通过将他的令牌与同一个方格碰撞来杀死其他玩家的令牌. 其他玩家的令牌再次回到房子. 一些棋盘提供了特殊的方格，其中令牌是安全的并且不能被杀死. 玩家可以决定他们是否想要在获得 6 后获得额外回合来掷骰子的规则.更多令人兴奋的规则可以在 Wikipedia 链接上找到.
 
 ![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 4 |        4 | 30-60m |
+ |  2 - 4 |  4 |  30-60m |
 
 ### [Carrom](https://en.wikipedia.org/wiki/Carrom)
 
-> This board game is played by two to four players. The objective is to use a striker disk with a flick of a finger to hit black or white lighter disks called carrom men and put them in the pockets present at the corners. The aim of the game is to pot (pocket) one's nine carrom men and the queen before the other opponent does. The carrom queen is analogous to the 8 ball (black ball) in the game of eight-ball pool.
+ &gt; 这个棋盘游戏由两到四名玩家玩. 目标是用一个手指轻弹的撞盘击打称为卡罗姆人的黑色或白色较轻的圆盘，并将它们放入角落的口袋中. 游戏的目的是在另一个对手之前将一个人的九个卡罗姆人和皇后放在（口袋里）. 卡罗姆皇后类似于八球台球比赛中的 8 球（黑球）.
 
 ![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg/256px-Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
 
@@ -701,13 +711,13 @@
 
 ![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  3 - 6 |  15 |  30m |
 
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
-> One Night Ultimate Werewolf is a fast-paced game where everyone gets to be a different role. In the course of only one night and the following morning, the players will determine who among them is a werewolf...hopefully.
+ &gt; One Night Ultimate Werewolf 是一款快节奏的游戏，每个人都可以扮演不同的角色. 在仅仅一个晚上和第二天早上的过程中，玩家将确定其中谁是狼人……希望如此.
 
 ![werewolf game image](https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__itemrep/img/qv0WkrvyQumuNtJry2pjodxjZ5k=/fit-in/246x300/filters:strip_icc()/pic1809823.jpg)
 
@@ -717,17 +727,17 @@
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
-> Ever wanted to play the popular Game Show game Who Wants To Be A Millionaire? Check out this board game version of Who Wants To Be A Millionaire. Other than the TV cameras, Regis Philbin, and the real money, this is the same game including easy laughable \$100 questions, life lines, and a over 2,000 questions.
+ &gt; 曾经想玩流行的游戏秀游戏《谁想成为百万富翁》？ 看看谁想成为百万富翁的这个棋盘游戏版本. 除了电视摄像机、Regis Philbin 和真钱之外，这是同一款游戏，包括简单可笑的 100 美元问题、生命线和 2,000 多个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 5 |       12 | 45-60m |
+ |  2 - 5 |  12 |  45-60m |
 
 ### [Catan](https://www.catan.com/game/catan)
 
-> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
+ &gt; 想象自己处于发现时代：经过漫长的极度贫困航行后，您的船只终于抵达了一个未知岛屿的海岸. 它的名字应该是卡坦！ 但你不是唯一的发现者. 其他无所畏惧的海员也登陆了卡坦海岸：定居该岛的竞赛已经开始！
 
 ![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg)
 
@@ -741,9 +751,9 @@
 
 ![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 5 |        8 |  15m |
+ |  2 - 5 |  8 |  15m |
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
@@ -751,19 +761,19 @@
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
  |  1 - 4 |  13 |  90-120m |
 
 ### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
 
-> Bears vs Babies is a card game in which you build handsome, incredible monsters who go to war with horrible, awful babies. The shared deck of cards consists of bear parts (and other monster parts) and baby cards. When you draw a part, you use it to build a monster for yourself; when you draw a baby, it goes in the center of the table. When babies are provoked, they attack, and anyone who has fewer monster parts than the number of attacking babies loses their monster; everyone with more parts than babies defeats this infantile army and scores.
+ &gt; Bears vs Babies 是一款纸牌游戏，您可以在其中打造英俊、令人难以置信的怪物，与可怕、可怕的婴儿作战. 共享的纸牌由熊零件（和其他怪物零件）和婴儿卡组成. 当你画一个零件时，你用它来为自己建造一个怪物； 当你画一个婴儿时，它会在桌子的中央. 当婴儿被激怒时，他们会攻击，任何怪物部件少于攻击婴儿数量的人都会失去他们的怪物； 每个拥有比婴儿更多的零件的人都击败了这支幼稚的军队并得分.
 
 ![Bears vs. Babies Image](https://cf.geekdo-images.com/iJpO2VOezeMXuclGqR_mXg__itemrep/img/TQYpLmeNOiCXBmEVHLDOpa9oxGI=/fit-in/246x300/filters:strip_icc()/pic3231155.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 5 |        7 | 15-20m |
+ |  2 - 5 |  7 |  15-20m |
 
 ### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
 
@@ -771,20 +781,20 @@
 
 ![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  3 - 6 |  14 |  240m |
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt; 《氰化物与幸福》的创作者推出了一款纸牌游戏，玩家可以在其中竞争完成一部糟糕的连环画.
- &gt; 创作者说：“网上有人曾经告诉我们，制作简笔画漫画很容易，而且我们又丑又愚蠢.他们在所有方面都是对的.所以，在哭了几个小时之后，我们创造了Random Comic Generator 自 2014 年推出以来，已经通过计算机生成的喜剧娱乐了数百万人.在玩了 Random Comic Generator 几周后，我们开始怀疑它的数百个随机面板是否适合纸牌游戏，其中“你和你的朋友竞争完成一部带有有趣妙语的漫画.所以我们打印了所有的 RCG 面板并开始与他们一起玩.” 抽7张牌. 套牌打出第一张牌，选择法官打第二张牌，然后每个人选择第三张牌来创建三幅漫画. 法官选出获胜者. 该游戏包括一副 250 张独特的面板卡 - 即 1540 万种漫画组合！
+ &gt; 创作者说：“网上有人曾经告诉我们，制作简笔画漫画很容易，而且我们又丑又笨.他们在所有方面都是对的.所以，在哭了几个小时之后，我们创造了Random Comic Generator 自 2014 年推出以来，已经通过计算机生成的喜剧娱乐了数百万人.在玩了 Random Comic Generator 几周后，我们开始怀疑它的数百个随机面板是否适合纸牌游戏，其中“你和你的朋友竞争完成一部带有有趣妙语的漫画.所以我们打印了所有的 RCG 面板并开始与他们一起玩.” 抽7张牌. 牌组打出第一张牌，选择法官打第二张牌，然后每个人选择第三张牌来制作三幅漫画. 法官选出获胜者. 该游戏包括一副 250 张独特的面板卡 - 即 1540 万种漫画组合！
 
 ![Joking Hazard image](https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__itemrep/img/5CtvRcuyQMZZV1QYhGNeSGo4J7Q=/fit-in/246x300/filters:strip_icc()/pic6411897.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|  3 - 10 |       18 | 30-90m |
+ |  3 - 10 |  18 |  30-90m |
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
@@ -798,13 +808,13 @@
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 
-> Terror Below is a game of government experiments gone wild in the Nevada desert. The faster you move, the more vibrations you make, attracting the attention of the vicious worms underground. Navigate the difficult terrain to collect valuable worm eggs and deliver them to locations around town to claim bounties. If you're feeling lucky, collect items and weapons to go hunt 'em.
+ &gt; Terror 下面是一场在内华达沙漠中疯狂的政府实验游戏. 你移动得越快，你发出的振动就越多，吸引地下恶毒蠕虫的注意. 导航困难的地形以收集有价值的蠕虫卵并将它们运送到城镇周围的地点以获得赏金. 如果你觉得幸运，收集物品和武器去猎杀他们.
 
 ![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   1 - 5 |       10 | 45-60m |
+ |  1 - 5 |  10 |  45-60m |
 
 ### [Terraforming Mars](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
@@ -812,59 +822,59 @@
 
 ![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   1 - 5 |       12 | 120m |
+ |  1 - 5 |  12 |  120m |
 
 ### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
 
-> Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.
+ &gt; Secret Hitler 是一部以 1930 年代德国为背景的政治阴谋和背叛的戏剧性游戏. 每个玩家都被随机且秘密地分配为自由主义者或法西斯主义者，其中一名玩家是秘密希特勒. 法西斯分子相互协调，播下不信任的种子，安插他们冷血的领袖； 自由主义者必须在为时已晚之前找到并阻止秘密希特勒. 自由派团队总是占多数.
 
 ![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|  5 - 10 |       13 |  45m |
+ |  5 - 10 |  13 |  45m |
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
-> The "shufflebuilding" game Smash Up begins with a simple premise: take the 20-card decks of two factions, shuffle them into a deck of forty cards, then compete to crush more Bases than your opponents! Each faction involves a different gaming mechanism - the pirates move the cards, the zombies bring back the cards from the discard pile, the dinosaurs have enormous power - and each combination of factions brings a different gaming experience.
+ &gt; “洗牌”游戏 Smash Up 从一个简单的前提开始：拿走两个阵营的 20 张牌，将它们洗成一副 40 张牌，然后竞争比对手粉碎更多的基地！ 每个派系都涉及不同的游戏机制——海盗移动纸牌，僵尸从弃牌堆中取回纸牌，恐龙拥有巨大的力量——每个派系组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 4 |       12 |  45m |
+ |  2 - 4 |  12 |  45m |
 
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
-> Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world. Players must work together out of necessity to clear out menacing dungeons and forgotten ruins. In the process, they will enhance their abilities with experience and loot, discover new locations to explore and plunder, and expand an ever-branching story fueled by the decisions they make.
+ &gt; Gloomhaven 是一款以欧洲为灵感的战术战斗游戏，在不断变化的动机世界中进行. 玩家将扮演一个流浪冒险家的角色，拥有自己的特殊技能和前往世界这个黑暗角落的原因. 玩家必须在必要时共同努力，清除险恶的地牢和被遗忘的废墟. 在这个过程中，他们将通过经验和战利品来增强他们的能力，发现新的探索和掠夺地点，并扩展一个由他们做出的决定所推动的不断分支的故事.
 
 ![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
 
-| Players | Min. Age |    Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
-|   1 - 4 |       12 | 60-120m |
+ |  1 - 4 |  12 |  60-120m |
 
 ### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
 
-> Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.
+ &gt; 每个玩家首先画出一个由掷骰决定的 TELESTRATIONS 单词. 老式的沙子计时器可能会限制他们执行草图的时间，但它肯定不会限制创造力！ 时间到！ 所有玩家同时将他们的草图传递给下一个玩家，下一个玩家必须猜出画的是什么. 玩家然后同时将他们的猜测 - 希望与原始单词匹配（或者是吗？？） - 给下一个必须尝试绘制他们看到的单词的玩家 - 等等.
 
 ![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  4 - 8 |  12 |  30m |
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
-> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabatoge other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+ &gt; Trash Pandas 是一款纸牌游戏，您可以在其中扮演浣熊，在您翻阅纸牌组时尝试收集有用的垃圾. 开始收集珍贵的垃圾物品，例如一天大的比萨饼或吃了一半的糖果，并获得积分，成为街区里最好的垃圾熊猫. 但是等等，掷骰子来破坏其他蒙面恶魔，以防止他们占据你在顶部的位置，但要确保你不会惹恼任何可能会惹恼你的 Doggos. 垃圾就是宝，把最多的垃圾藏起来！
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 5 |        8 |  15m |
+ |  2 - 5 |  8 |  15m |
 
 ### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
@@ -874,9 +884,9 @@
 
 ![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 8 |       14 |  15m |
+ |  2 - 8 |  14 |  15m |
 
 ### [SuperFight](https://www.superfightgame.com/)
 
@@ -886,9 +896,9 @@
 
 ![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 8 |        8 |  15m |
+ |  2 - 8 |  8 |  15m |
 
 ### [Love Letter](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Love_Letter_(card_game)>)
 
@@ -896,9 +906,9 @@
 
 ![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 4 |       10 |  20m |
+ |  2 - 4 |  10 |  20m |
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
@@ -908,15 +918,15 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|       2 |       13 | 30-60m |
+ |  2 |  13 |  30-60m |
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
-> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
+ &gt; 在这个思维敏捷、节奏快的类别游戏中与你的对手和蜂鸣器对战. 在压力下，你能说出多少名演员、披萨馅料、红色的东西或狗的品种？  &#39;Pinch&#39; 和 &#39;pass&#39; 类别卡的不同之处在于，您试图通过从该类别中喊出一些东西来从其他玩家那里抢到捏卡，而您试图通过说出该类别中的某些内容来摆脱 pass 卡的烫手风格. 当蜂鸣器响起时，谁还拿着牌，谁就受益（捏牌）或受罚（通行牌）. 第一个到达终点线的玩家是赢家，但不要因为被抓到太多通行卡而被淘汰！ 每个玩家还可以召集另一名玩家进行正面交锋. 你只能做一次，所以让它计数！
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
 |   3 - 6 |       12 |  30m |
 
@@ -926,19 +936,19 @@
 
 ![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
  |  4 - 16 |  13 |  60m |
 
 ### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
 
-> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
+ &gt; Mind the Gap 是一款复制了伦敦地铁地图标志性设计的纸牌游戏，该游戏由伦敦交通局授权. 玩家有一手牌，每张牌代表伦敦地铁的车站. 每个玩家将一张牌正面朝上放置，然后玩家轮流打出与前一张牌相匹配的牌. 如果他们不能下牌，他们就抓一张牌. 获胜者是第一个用尽手牌的玩家.
 
 ![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
 
-| Players | Min. Age | Time |
+ | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 8 |        6 |  20m |
+ |  2 - 8 |  6 |  20m |
 
 ### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates)
 
@@ -952,7 +962,7 @@
 
 ### [The Mind](https://www.boardgamegeek.com/boardgame/244992/mind)
 
-> The Mind is more than just a game. It's an experiment, a journey, a team experience in which you can't exchange information, yet will become one to defeat all the levels of the game. In more detail, the deck contains cards numbered 1-100, and during the game you try to complete 12, 10, or 8 levels of play with 2, 3, or 4 players. In a level, each player receives a hand of cards equal to the number of the level: one card in level 1, two cards in level 2, etc. Collectively you must play these cards into the center of the table on a single discard pile in ascending order but you cannot communicate with one another in any way as to which cards you hold. You simply stare into one another's eyes, and when you feel the time is right, you play your lowest card. If no one holds a card lower than what you played, great, the game continues! If someone did, all players discard face up all cards lower than what you played, and you lose one life.
+ &gt; The Mind 不仅仅是一个游戏. 这是一个实验，一个旅程，一个团队体验，你不能在其中交换信息，但将成为一个打败游戏所有级别的人. 更详细地说，套牌包含编号为 1-100 的牌，在游戏过程中，您尝试与 2、3 或 4 名玩家一起完成 12、10 或 8 个级别的游戏. 在一个级别中，每个玩家都会收到与级别数量相等的手牌：第 1 级中的一张牌，第 2 级中的两张牌，等等.您必须将这些牌一起打到桌子中央的一个弃牌堆上按升序排列，但您无法以任何方式相互交流您持有哪些卡. 你只是盯着对方的眼睛，当你觉得时机成熟时，你会打出最低的牌. 如果没有人持有低于您所玩牌的牌，那太好了，游戏继续！ 如果有人这样做了，所有玩家将面朝上弃掉所有比你打出的牌低的牌，你就会失去一个生命.
 
 ![The Mind image](https://cf.geekdo-images.com/itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png)
 
@@ -962,18 +972,18 @@
 
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
-> Compete with other influential families in the city to achieve the most honorable titles through the skillful use of assistants and resources at your disposal. The player who succeeds in doing this best becomes the new "Obermufti" of Marrakesh.
+ &gt; 与城市中其他有影响力的家族竞争，通过熟练使用您可以使用的助手和资源来获得最尊贵的头衔. 成功做到最好的球员将成为马拉喀什的新“Obermufti”.
  &gt; 马拉喀什分三轮进行，每轮由四轮组成. 每回合，玩家同时从屏幕后面偷偷选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些在前一轮中被卡住但现在已经出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的未来行动. 行动可以让玩家获得财富，这些财富可以用来换取城市的影响力. 随着游戏的进行，执行各种动作也可以获得奖励并进一步增强动作. 游戏结束时得分最高的玩家获胜.
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | --------:|
-|   2 - 4 |      14+ |     120m |
+ |  2 - 4 |  14+ |  120m |
 
 ### [Rat-a-Tat Cat](https://www.boardgamegeek.com/boardgame/3837/rat-tat-cat)
 
-> Get rid of the rats and go for the cats! In Rat-a-Tat Cat, less is always better, and you want to go out with the lowest score. Can you remember the numbers on the other players' cards? Can you keep a poker face, but notice when another player looks pleased? Sharpen your memory and your timing, and have fun with the cool cats and bad rats of Rat-a-Tat Cat. This is the Gamewright version.
+ &gt; 赶走老鼠，去找猫！ 在 Rat-a-Tat Cat 中，越少越好，你想以最低的分数出去. 你能记住其他玩家卡片上的数字吗？ 你能保持一副扑克脸，但注意到其他玩家看起来很高兴吗？ 提高您的记忆力和时间，与 Rat-a-Tat Cat 的酷猫和坏老鼠一起玩. 这是Gamewright版本.
 
 ![Rat-a-Tat Cat image](https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__itemrep/img/7bCQhZauNwAuekRT3xwbt2FCLlo=/fit-in/246x300/filters:strip_icc()/pic147435.jpg)
 
@@ -983,7 +993,7 @@
 
 ### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
 
-> This beautiful and functional board has room for two teams of large marbles. Players take turns pushing the marbles around the board, with the goal of pushing six of the opposing player's marbles off the board. The central idea is that a column of marbles has weight given by the number of marbles in line. Someone will need to push with a heavier group of marbles in order to push the column along that axis. However, with six possible directions, it's difficult to defend yourself perfectly. Also, it's possible to play the game with up to six players when supplemental marble sets are purchased.
+ &gt; 这个美丽而实用的棋盘可容纳两队大弹珠. 玩家轮流推动棋盘周围的弹珠，目标是将对方玩家的六颗弹珠推离棋盘. 中心思想是一列弹珠的重量由排列的弹珠数量决定. 有人需要用一组更重的弹珠推动，以便沿着该轴推动柱子. 然而，有六个可能的方向，很难完美地为自己辩护. 此外，购买补充大理石套装时，最多可以与六名玩家一起玩游戏.
 
 ![Abalone image](http://cdn.aktivcommunication.cz/images/products/box/4426.jpg)
 
@@ -993,13 +1003,13 @@
 
 ### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
 
-> The board consists of a grid with twenty-four intersections or points. Each player has nine pieces, or "men", usually coloured black and white. Players try to form 'mills'—three of their own men lined horizontally or vertically—allowing a player to remove an opponent's man from the game. A player wins by reducing the opponent to two pieces (where they could no longer form mills and thus be unable to win), or by leaving them without a legal move.
+ &gt; 棋盘由一个带有二十四个交叉点或点的网格组成. 每个玩家有九个棋子，或“人”，通常是黑色和白色. 玩家尝试组成“磨坊”——三个自己的人水平或垂直排列——允许玩家将对手的人从游戏中移除. 玩家通过将对手减少为两块（他们无法再形成磨坊，因此无法获胜）或让他们没有合法移动而获胜.
 
 ![Nine Men's Morris image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nine_Men%27s_Morris_board_with_coordinates.svg/300px-Nine_Men%27s_Morris_board_with_coordinates.svg.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | --------:|
-|       2 |       5+ |   5m-60m |
+ |  2 |  5+ |  5m-60m |
 
 ### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
 
@@ -1009,18 +1019,18 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | --------:|
-|   2 - 4 |      10+  |      90m |
+ |  2 - 4 |  10+ |  90m |
 
 ### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
 
-> Be unanimous on 6 words!
+&gt; 一致同意 6 个字！
  &gt; 一张牌放在桌子中央. 在那一刻，每个玩家在他的记事本上写下受主题启发的文字. 让你的灵感引导你……但要小心，无论你做什么，都不要原创. 唯一有价值的答案是与其他玩家相同的答案！
 
 ![Rat-a-Tat Cat image](https://cf.geekdo-images.com/7KL7IYpSbZ3xWVYVdKfUeg__itemrep/img/t5OBTFFAWagqcmrW6odyvW3Zn1I=/fit-in/246x300/filters:strip_icc()/pic4415146.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | --------:|
-|  3 - 12 |     10+  |      30m |
+ |  3 - 12 |  10+ |  30m |
 
 ### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
 
@@ -1047,7 +1057,7 @@
 ### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
 
 > Hit the road for a roller-coaster life of adventure, family, unexpected surprises, and pets! Want to take the family path, start a career, or venture down a risky road? In this game, players can make their own exciting choices as they move through the twists and turns of life. Move the car token around the gameboard from Start to Retirement, and experience unexpected surprises related to family, career, and other milestones of life. Players can adopt pets in this version of The Game of Life game. The player with the most money at the end of the game wins!
-> Adult assembly required.
+&gt; 需要成人组装.
 &gt; 这个棋盘游戏也有数字应用版本.
 
 ![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
@@ -1058,13 +1068,13 @@
 
 ### [The Singaporean Dream](https://www.thesingaporeandream.com/)
 
-> A spin-off from Monopoly Deal, Singaporean Dream is an interactive card game where you can sabo, complain and pay your way to be the perfect Singaporean.
+&gt; 作为 Monopoly Deal 的衍生产品，Singaporean Dream 是一款互动纸牌游戏，您可以在其中进行拼杀、抱怨和付费，以成为完美的新加坡人.
 
 ![The Singaporean Dream image](https://cf.geekdo-images.com/AgAtrZRUwIttv1wRlvMskQ__itemrep/img/T6flb1-mQiTpzWu2S1dSQrhoUjw=/fit-in/246x300/filters:strip_icc()/pic4481765.png)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 6 |      18+ | 20-30m |
+ |  2 - 6 |  18+ |  20-30m |
 
 
 ### [Battleship](https://board-games-galore.fandom.com/wiki/Battleship)
@@ -1085,10 +1095,10 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 6 |      5 | 20-30m |
+ |  2 - 6 |  5 |  20-30m |
 
 ## Contribute
 
-Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
+欢迎和鼓励贡献！ 首先阅读[贡献指南][contrib-guide].
 
-[contrib-guide]: contributing.md
+[贡献指南]：贡献.md

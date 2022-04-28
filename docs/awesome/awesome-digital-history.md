@@ -16,13 +16,13 @@
 
 - [ANNO](https://anno.onb.ac.at/) - 奥地利在线报纸.
 - [Digitarium](https://digitarium-app.acdh-dev.oeaw.ac.at/) - 历史维也纳报的数字版.
-- [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利文化和当代历史录音和视频档案.
+- [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利的文化和当代历史录音和视频档案.
 - [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) - 它基于 Felix Czeike 的《维也纳历史词典》，目前有 50,156 条贡献和 12,510 张图像.
 
 ### Europe
 
 - [Archives Portal Europe](https://www.archivesportaleurope.net/) - 欧洲档案搜索引擎.
-- [CENDARI](https://archives.cendari.dariah.eu/) - Search engine for libraries containing resources on the Medieval era and World War One.
+- [CENDARI](https://archives.cendari.dariah.eu/) - 包含中世纪和第一次世界大战资源的图书馆搜索引擎.
 - [Encyclopédie d'histoire numérique](https://ehne.fr/) - 通过更新的史学对象和重大当代挑战的欧洲历史.
 - [Europeana](https://www.europeana.eu/) - 欧洲文本和非文本档案资源的搜索引擎.
 - [Mapire](https://mapire.eu/) - 交互式历史地图.
@@ -67,9 +67,10 @@
 - [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - 图书搜索引擎，用于在全球目录中查找数以亿计的媒体.
 - [Marxist Internet Archive](https://www.marxists.org/) - 你想知道的关于马克思（和其他重要的社会主义者）的一切.
 - [Mementoweb](http://timetravel.mementoweb.org/) - 在 Internet Archive、Archive-It、British Library、archive.today 和 GitHub 中查找存档网页.
-- [OldMapsOnline](https://www.oldmapsonline.org/) - 地图，始于 17 世纪.
+- [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 - [OpenCat](https://opencat.io/) - 全球图书馆的搜索引擎.
 - [OpenHistoricalMap](https://openhistoricalmap.org/) - 由制图师和历史学家社区创建的时间旅行地图.
+- [Public Books Database](http://www.publicbooks.org/public-books-database/) - 开放获取学术文献.
 - [WayBackMachine](https://archive.org/web/) - 探索随着时间的推移保存的超过 4860 亿个网页.
 - [World Historical Gazeteer](https://whgazetteer.org/) - 收集允许世界历史学家在全球和跨区域尺度的数据丰富的环境中进行空间和时间推理和可视化的内容和服务.
 
@@ -88,7 +89,8 @@
 - [Chronicling America](https://chroniclingamerica.loc.gov/) - 1777-1963 年间美国的历史报纸.
 - [Computer Gaming World Museum](https://www.cgwmuseum.org/) - 各种游戏杂志的存档.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) - 超过 94,000 张地图和相关图像.
-- [Digital Public Library of America](https://dp.la/)
+- [Digital Public Library of America](https://dp.la/) - 美国档案馆、图书馆、博物馆和其他文化遗产机构持有的公共领域和公开许可内容的发现工具或联合目录.
+- [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - 国际 LGBTQ+ 关联数据词汇.
 - [Eugenics Archive](https://eugenicsarchive.ca/) - 挑战优生学的学者、幸存者、学生和社区合作伙伴.
 - [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - 超过 250,000 张地图.
 - [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - 探索 1800 年至大萧条期间女性对美国经济生活的影响.
@@ -102,6 +104,7 @@
 - [chgov](https://www.chgov.bar.admin.ch/) - 联邦委员会会议纪要 (1848-1963).
 - [arCHeco](https://www.archeco.info/) - 瑞士和列支敦士登档案馆的经济收藏索引.
 - [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV 包括 1968 年苏黎世夏季事件的数字版.
+- [DigiBern](https://www.digibern.ch/) - 互联网上的伯尔尼文化和历史.
 - [Digithek](https://www.digithek.ch/de/) - 中学和职业学校的数字查找辅助工具集.
 - [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - 瑞士的外交文件.
 - [e-codices](http://e-codices.ch/) - 瑞士的虚拟手稿图书馆，包含来自 92 个不同馆藏的 2297 份手稿.
@@ -132,6 +135,7 @@
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - 打开 HGIS 课程和资源.
 - [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - 卡尔顿大学的 Shawn Graham 的《数字历史中的方法和阅读》.
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学的 Cameron Blevins 在数字历史中的方法和阅读.
+- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 您将学习如何批判性地分析历史条件、发展、模式和断裂——或者，如何质疑这些.
 - [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.
 - [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评审的教程，帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.

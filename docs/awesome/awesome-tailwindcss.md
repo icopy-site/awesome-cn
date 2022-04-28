@@ -32,7 +32,7 @@
 
 **传奇**：官方资源
 
-- [Website](https://tailwindcss.com) - Official Tailwind CSS website.
+- [Website](https://tailwindcss.com) - 官方 Tailwind CSS 网站.
 - [Repository](https://github.com/tailwindcss/tailwindcss) - 官方 Tailwind CSS 存储库.
 - [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - 与其他社区成员就 Tailwind 进行联系的官方场所.
 - [Tailwind UI](https://tailwindui.com) - 使用 Tailwind CSS 制作的组件库.
@@ -77,7 +77,7 @@
 - [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - 添加“连字符”实用程序.
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - 添加 `border-image` 渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) - 添加 [`RFS`](https://github.com/twbs/rfs) 公用事业.
-- [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - 添加了在 Tailwind CSS 1.0 之前删除的 `list-reset` 类.
+- [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) - 添加流体尺寸实用程序.
 - [Typography](https://github.com/benface/tailwindcss-typography) - 添加排版实用程序.
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - 添加 CSS 三角形实用程序.
@@ -97,6 +97,7 @@
 - [Content Placeholder](https://github.com/javisperez/tailwindcontentplaceholder) - 为内容占位符图像添加实用程序.
 - [No Scrollbar](https://github.com/redwebcreation/tailwindcss-no-scrollbar) - 公开 `scrollbar-none` 以在视觉上隐藏滚动条.
 - [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
+- [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - 添加 `grid-areas` 和 `grid-area` 实用程序.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅对某些语言使用实用程序.
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加匹配嵌套边界半径的变体.
@@ -141,7 +142,7 @@
 - [Scroll Snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - 添加 `scroll-snap` 实用程序.
 - [Scroll Behavior](https://github.com/lukewarlow/tailwind-scroll-behavior) - 添加 `scroll-smooth` 和 `scroll-auto` 类来控制平滑滚动.
 - [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - 添加强调色实用程序.
-- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - 添加“文本缩进”实用程序.
+- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
 - [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - 添加 `text-decoration-color` 实用程序.
 - [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
 - [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
@@ -214,6 +215,7 @@
 - [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) - 生成 Tailwind 配置的 Zeplin 扩展.
 - [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - 将 Tailwind CSS 类转换为 CSS-in-JS 库的对象的 Babel 宏.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 在任何 CSS-in-JS 库中使用 Tailwind 类.
+- [tailwindcss-webpack-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - 开箱即用的 Tailwind CSS，支持“在 Devtools 中设计”模式并可视化 Tailwind CSS 配置.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - 用于可视化 Tailwind CSS 配置文件的本地 UI 工具.
 - [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的刀片表单组件.
 - [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
@@ -364,10 +366,10 @@
 - [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - 如何使用 Jest 测试 Tailwind CSS 插件.
 - [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - 如何使用 PostCSS 和 Webpack 设置 Tailwind CSS.
 - [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - 如何在 CSS-in-JS 中使用 Tailwind CSS.
-- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
+- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - 如何在 Laravel 项目中设置 Tailwind CSS.
 - [Tailwind CSS with Ember](https://github.com/raytiley/tailwind-ember-example) - 如何将 Tailwind CSS 添加到 Ember 应用程序.
 - [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - 如何在 Sage 中设置 Tailwind CSS.
-- [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - How to use Tailwind CSS with Gatsby.
+- [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - 如何在 Gatsby 中使用 Tailwind CSS.
 - [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) - 如何在 Phoenix 1.4 中设置 Tailwind CSS.
 - [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) - 如何扩展 Tailwind CSS.
 - [Web2Tailwind](https://web2tailwind.com) - 如何使用 AlpineJS 使用 Tailwind CSS 构建 Web 组件.
@@ -380,7 +382,7 @@
 - [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - 使用 Tailwind CSS 构建电影制作登陆页面.
 - [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - 使用 Tailwind CSS 构建响应式导航栏.
 - [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - 使用 Tailwind CSS 进行运球投篮.
-- [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Tailwind CSS 的完整演练，从安装到优化部署.
+- [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 - [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - 使用 Tailwind CSS 构建 Tweet 组件.
 - [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - 使用 Tailwind CSS 创建模式对话框.
 - [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - 构建 Shopify、Spotify、Netlify 和 Atlassian 的 UI.
