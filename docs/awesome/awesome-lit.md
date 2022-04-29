@@ -132,9 +132,10 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 自定义元素符合 Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - 用于创建使用 lit-html 和 LitElement 构建的界面的 Web 组件.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - chartjs 的 Web 组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
+- [Dile Components](https://github.com/Polydile/dile-components) - 一般用于网站和应用程序的 Web 组件.
 - [ESP Web Tools](https://github.com/esphome/esp-web-tools) - 允许通过浏览器刷新 ESPHome 或其他基于 ESP 的固件.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - 企业就绪的 Web 组件集，最适合与 Eclipse Furo 配合使用.
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Equinor Fusion 使用的一系列 Web 组件.
@@ -197,7 +198,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 - [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - lit-html 模板字符串的语法高亮和 IntelliSense.
 - [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - lit-html 的语法高亮显示、类型检查和代码完成.
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - 为 ES6 多行字符串中的 HTML 提供语法高亮的 VSCode 扩展.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - 标记模板文字内的 HTML 语法突出显示和缩进.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
 
 ### TypeScript Plugins
 

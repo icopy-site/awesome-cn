@@ -316,7 +316,7 @@
 - [planningalerts-app](https://github.com/openaustralia/planningalerts)  - 一个计划中的应用程序跟踪应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.planningalerts.org.au)
 - [popHealth](https://github.com/pophealth/popHealth) - 人口健康报告应用程序（使用 Rails 4.1）.
 - [publify](https://github.com/publify/publify) - 一个博客应用程序（使用 Rails 5.2）.
-- [quant](https://github.com/jdjkelly/quant) - 个人健康追踪器（使用 Rails 4.1）.
+- [quant](https://github.com/jdjkelly/quant) -  A personal health tracker (using Rails 4.1).
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - 一个自行车比赛组织应用程序（使用 Rails 5.2）.
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) - 援助工作者的信息提供者应用程序（使用 Rails 4.0）.
 - [redmine](https://github.com/edavis10/redmine)  - 一个项目管理应用程序（使用 Rails 5.2）.  - [:earth_africa:](http://demo.redmine.org)
@@ -476,7 +476,7 @@
 - [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - 使用 Le Wagon 最佳实践快速开始您的 Rails 开发.
 - [rails-templates(nimblehq)](https://github.com/nimblehq/rails-templates) - 我们在项目中使用的优化 Rails 模板.
 - [rails-vue-template](https://github.com/scottrobertson/rails-vue-template) - 如何使用 VueJS 作为 Rails 中使用 Webpacker 的单页应用程序的示例.
-- [rails_new](https://github.com/lockstep/rails_new)  - 一个精心设计的模板，用于构建现代 Rails 应用程序. 在几分钟而不是几小时内开始.  railsnew.io 在 [generators](#generators) 部分.
+- [rails_new](https://github.com/lockstep/rails_new)  - 一个精心设计的模板，用于构建现代 Rails 应用程序. 在几分钟而不是几小时内开始.
 - [suspenders](https://github.com/thoughtbot/suspenders) - 带有我们标准默认设置的 Rails 模板，可以部署到 Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails 启动工具包 GitHub 模板，用于开发混合移动应用程序.
 - [rails_api_base](https://github.com/rootstrap/rails_api_base) - 用于 JSON RESTful API 的 Rails 6 样板项目.
@@ -494,7 +494,6 @@
 
  | 发电机 | 准备运行 | 复杂的应用程序 | 设置 git |  Heroku 配置 |
 | --------- | ------------ | ------------ | -------- | ------------- |
-| [railsnew.io](https://railsnew.io) | A web app where you pick some options from a limited menu, and it generates a template for you to clone. It also has instructions to quickly verify that everything is happy after setup. | yes | yes | yes | no
 | [Rails Composer](https://github.com/RailsApps/rails-composer) | 是的，但是需要配置 Stripe | 使用 Stripe 到达 SaaS 的示例应用.  | 是的 | 是的 |
 | [Hix on Rails](https://hixonrails.com) | 是的 | 监控，Redis Sentinel，Sidekiq.  | 是的 | 没有 |
 

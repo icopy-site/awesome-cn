@@ -37,14 +37,14 @@
 - [Slashbase](https://github.com/slashbase/slashbase)  - 用于数据库的开源协作 IDE. 直接从您的浏览器连接到您的数据库、浏览数据、运行大量 SQL 命令或与您的团队共享 SQL 查询.
 - [Toad](https://www.quest.com/toad/)  - Toad 是面向开发人员、管理员和数据分析师的首选数据库解决方案. 使用单一数据库管理工具管理复杂的数据库更改.
 - [Toad Edge](https://www.toadworld.com/products/toad-edge) - MySQL 和 Postgres 的简化数据库开发工具.
-- [TOra](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
+- [TOra](https://github.com/tora-tool/tora) - TOra 是用于 Oracle、MySQL 和 PostgreSQL 数据库的开源 SQL IDE.
 - [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 免费创建、管理、查询和探索 Valentina DB、MySQL、MariaDB、PostgreSQL 和 SQLite 数据库.
 
 
 ## GUI
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
-- [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+- [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
@@ -133,6 +133,7 @@
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
 - [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler 是一个免费的图形工具，可提高生产力并简化数据建模任务.
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - 为 PostgreSQL 设计的数据建模工具.
+- [WWW SQL Designer](https://github.com/ondras/wwwsqldesigner) - 在线 SQL 图表工具.
 
 ### Samples
 - [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle 数据库示例模式.
@@ -214,14 +215,14 @@
 
 
 ## Testing
-- [DbFit](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+- [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对数据库代码进行简单的测试驱动开发.
 - [RegreSQL](https://github.com/dimitri/regresql) - 回归测试您的 SQL 查询.
 - [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
 
 
 ## HA/Failover/Sharding
 - [Citus](https://github.com/citusdata/citus) - Postgres 扩展，将您的数据和查询分布在多个节点上.
-- [patroni](https://github.com/zalando/patroni) - 带有 ZooKeeper、etcd 或 Consul 的 PostgreSQL 高可用性模板.
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 - [Percona XtraDB Cluster](https://github.com/percona/percona-xtradb-cluster) - MySQL 集群和高可用性的高可扩展性解决方案.
 - [stolon](https://github.com/sorintlab/stolon) - 用于 PostgreSQL 高可用性的云原生 PostgreSQL 管理器.
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - 用于自动故障转移和高可用性的 Postgres 扩展和服务.
@@ -295,12 +296,13 @@
 - [jOOQ](https://github.com/jOOQ/jOOQ) - 解析 SQL，将其转换为其他方言，并允许表达式树转换.
 - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - 解析 SQL 语句并将其转换为 Java 类的层次结构.
 - [libpg_query](https://github.com/pganalyze/libpg_query) - 用于在服务器环境之外访问 PostgreSQL 解析器的 C 库.
-- [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - 将 SQL 解析为 JSON.
+- [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - 用于 Python 的非验证 SQL 解析器.
+- [SQLGlot](https://github.com/tobymao/sqlglot) - 纯 Python SQL 解析器、转译器和构建器.
 
 ### Über SQL
 对任何东西运行 SQL 查询
-- [CloudQuery](https://github.com/cloudquery/cloudquery) - 提取、转换和加载您的云资产到规范化的 PostgreSQL 表中.
+- [CloudQuery](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 - [csvq](https://github.com/mithrandie/csvq) - 用于 CSV 的类似 SQL 的查询语言.
 - [dsq](https://github.com/multiprocessio/dsq) - 用于针对 JSON、CSV、Excel、Parquet 等运行 SQL 查询的命令行工具.
 - [OctoSQL](https://github.com/cube2222/octosql) - 查询工具，允许您使用 SQL 连接、分析和转换来自多个数据库和文件格式的数据.

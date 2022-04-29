@@ -56,8 +56,10 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Crash Courses
 
-- [Algorand School](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+- [Algorand School](https://github.com/cusma/algorand-school) - Algorand 学校速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
+- [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 
 ### Tutorials
 
