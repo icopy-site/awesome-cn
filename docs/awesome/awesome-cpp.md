@@ -432,7 +432,7 @@
 
 ## Graphics
 
-* [assimp](https://github.com/assimp/assimp)  - Open Asset Import Library (assimp) 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供通用 API.  [BSD-3-条款] [website](http://www.assimp.org)
+* [assimp](https://github.com/assimp/assimp)  - 开放资产导入库 (assimp) 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供通用 API.  [BSD-3-条款] [website](http://www.assimp.org)
 * [bgfx](https://github.com/bkaradzic/bgfx)  - 一个跨平台的渲染库.  [BSD]
 * [Blend2D](https://github.com/blend2d/blend2d)  - 由 JIT 编译器驱动的 2D 矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  - 用于开发实时图形应用程序的现代 C++14 库.  [麻省理工学院]
@@ -481,7 +481,7 @@
 * [OpenEXR](http://www.openexr.com/)  - 用于高动态范围成像的跨平台库.  [修改后的 BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)  - 强大的图像和纹理处理库，支持多种常见的有损和 RAW 格式.  [修改后的 BSD]
 * [SAIL](https://github.com/happy-sea-fox/sail)  - 易于使用的跨平台图像解码库，带有可插拔的图像编解码器.  [麻省理工学院]
-* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)，用于 ARM 的 NEON.  [麻省理工学院]
+* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)、NEON for ARM.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  - STB 单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  - OCR 引擎.  [阿帕奇2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)  - 适用于 JPEG 的符合 ISO 标准的微型 C++ EXIF 和 XMP 解析库.  [麻省理工学院]
@@ -596,7 +596,7 @@
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code)  - 用于线性代数和科学计算的快速 C++ 库.  [阿帕奇2] [website](http://arma.sourceforge.net/)
 * [autodiff](https://github.com/autodiff/autodiff)  - 用于自动区分的现代、快速和富有表现力的 C++ 库.  [麻省理工学院] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze)  - 用于密集和稀疏算术的高性能 C++ 数学库.  [BSD]
-* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  - 在 C++ 中提供更高范围/精度的整数、有理数和浮点类型，仅标头或带有 GMP/MPFR/LibTomMath 后端.  [促进]
+* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  - 在 C++ 中提供更高范围/精度的整数、有理数和浮点类型、仅标头或带有 GMP/MPFR/LibTomMath 后端.  [促进]
 * [ceres-solver](http://ceres-solver.org/)  - 用于建模和解决来自谷歌的大型复杂非线性最小二乘问题的 C++ 库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)  - 收集高效可靠的几何算法.  [LGPL&amp;GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)  - 用于游戏和图形的免费 C++ 数学库.  [促进]
@@ -667,7 +667,7 @@
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 现代 C++ HTTP 请求库，具有简单但功能强大的接口. 仿照 Python 请求模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
@@ -703,7 +703,7 @@
 * [Tufão](https://github.com/vinipsmaker/tufao)  - 基于 Qt 构建的 C++ 异步 Web 框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  - 严格符合 RFC 3986 的 URI 解析和处理库.  [BSD-3-条款]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  - µWS 是可用的最轻量级、最高效和可扩展的 WebSocket 和 HTTP 服务器实现之一.  [Zlib]
-* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻型软件平台，用于可扩展的服务器端和网络应用程序. 想想 C 程序员的 node.js.  [GPL2]
+* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻软件平台，用于可扩展的服务器端和网络应用程序. 想想 C 程序员的 node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)  - 用于构建异步、事件驱动的现代 C++ 服务的客户端/服务器应用程序框架.  [Apache-2.0]
 * [wdt](https://github.com/facebook/wdt)  - 一个嵌入式库（和命令行工具），旨在通过多个 TCP 路径在 2 个系统之间尽可能快地传输数据.  [BSD-3-条款]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp)  - 基于 C++/Boost Asio 的 websocket 客户端/服务器库.  [BSD]
@@ -834,7 +834,7 @@
 ## Sorting
 
 * [pdqsort](https://github.com/orlp/pdqsort)  - 击败模式的快速排序.  [zlib]
-* [Timsort](https://github.com/gfx/cpp-TimSort)  - 一个模板化的稳定排序功能，它优于基于快速排序的算法，包括 std::sort，用于反向或半排序数据.  [麻省理工学院]
+* [Timsort](https://github.com/gfx/cpp-TimSort)  - 一个模板化的稳定排序函数，它优于基于快速排序的算法，包括 std::sort，用于反向或半排序数据.  [麻省理工学院]
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 一个排序包装器，它允许在非随机访问容器中使用 std::sort（和其他随机访问排序功能），并且还提高了随机访问容器中大型/非平凡可复制类型的排序性能和数组.  [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
@@ -901,6 +901,7 @@
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  - 受 Python 内置函数和 itertools 库启发的基于范围的 for 循环插件.  [BSD-2-条款]
 * [DynaMix](https://github.com/iboB/dynamix)  - 允许您在运行时组合和修改对象的库.  [麻省理工学院]
+* [fccf](https://github.com/p-ranav/fccf)  - 递归搜索目录以查找与搜索字符串匹配的 C/C++ 源代码的命令行工具.  [麻省理工学院]
 * [{fmt}](https://github.com/fmtlib/fmt)  :zap: - 小型、安全和快速的 C++ 格式化库.  [简化 BSD]
 * [FastFormat](http://www.fastformat.org) - 受 log4j 和 Pantheios [Simplified BSD] 启发的快速、安全的 C++ 格式化
 * [casacore](https://code.google.com/p/casacore/)  - 一组从 aips++ 派生的 c++ 核心库.  [LGPL]
@@ -963,7 +964,7 @@
 * [coliru](http://coliru.stacked-crooked.com/) - 支持各种 C++ 编译器的在线编译器/shell.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有可用汇编输出的交互式编译器.
 * [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - 在 Linux 上在线编译和执行 C++.
-* [Ideone](http://ideone.com/) - 一个在线编译器和调试工具，可让您以 60 多种编程语言编译和在线执行源代码.
+* [Ideone](http://ideone.com/) - 一个在线编译器和调试工具，可让您以 60 多种编程语言编译源代码并在线执行.
 * [repl.it](https://repl.it) - 一个强大而简单的工具和平台，适用于教育工作者、学习者和开发人员.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多种编译器（Clang、GCC、MSVC）和多种编辑器.
 * [Try It Online](https://tio.run/) - TIO 是一个在线解释器系列，用于不断增长的实用和娱乐编程语言列表.
@@ -1011,7 +1012,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]

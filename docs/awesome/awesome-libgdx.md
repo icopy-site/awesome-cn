@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome libGDX Logo](https://raw.githubusercontent.com/rafaskb/awesome-libgdx/master/logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
 
-## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing)
+## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing) ![Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=libGDX&style=flat-square)
 
 > <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
@@ -11,7 +11,6 @@
 &gt; 此列表是精选资源、工具、教程和项目的精选集合，使用 [libGDX](https://libgdx.com/) 游戏框架，帮助开发者制作 _awesome_ 游戏，符合 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 >
 &gt; 投稿_非常欢迎_但先看 [Contributing](#contributing).
-
 
 ---
 
@@ -98,7 +97,7 @@ _新手和经验丰富的开发人员的教程._
 
 ### Getting Started
 
-- [Official libGDX Wiki](https://libgdx.com/wiki/) - 包含大量信息的官方 libGDX wiki.
+- [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
 - [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - 初学者如何从头开始创建游戏的优秀指南.
 - [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) - 从头开始​​制作完整的 Android 游戏的视频教程系列.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - 在游戏窗口加载之前创建启动画面以显示的视频教程.
@@ -107,14 +106,15 @@ _新手和经验丰富的开发人员的教程._
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - 关于使用 JSON 存储数据的一般教程.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) - 通过示例讨论不同进度条设计技术的优缺点.
 - [libGDX External Tutorials](https://libgdx.com/wiki/articles/external-tutorials) - 官方非官方教程的大清单.
+- [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) - 涵盖了 Scene2D 中 UI 设计的基础知识，这是 libGDX 的首屈一指的场景图和布局工具包.
 
 ### Advanced
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - 关于为 libGDX 项目启用代码热交换以提高生产力的视频教程.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - 详细说明如何使用像素图创建蒙版.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - 2019 年使用 RoboVM 部署到 iOS.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - 像素完美的平滑滚动.
-
+- [Introduction to 3D Series](https://www.youtube.com/playlist?list=PLjUR2MkQ0cuHZ70Ps8F9WMyoyKHKAbYvQ) - 使用 gdx-gltf 的 libGDX 3D 教程系列.
 
 ## Assets
 
@@ -144,7 +144,7 @@ _其他可能对 libGDX 开发人员有用的很棒的列表._
 - [Java](https://github.com/akullpp/awesome-java) - 很棒的 Java 框架、库和软件的精选列表.
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin) - 精选的 Kotlin 相关内容的精选列表.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - 让魔法发生的游戏开发资源列表.
-- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)  - 包容性游戏设计的直接参考，以确保游戏对尽可能多的人来说同样有趣.  **受到推崇的**
+- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)  - 包容性游戏设计的直接参考，以确保游戏对尽可能广泛的人来说同样有趣.  **受到推崇的**
 
 
 ---

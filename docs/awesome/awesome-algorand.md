@@ -227,7 +227,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - AlgoWorld 使用的所有智能合约的集合，用 PyTeal 编写.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
 - [paytx](https://github.com/algorand-devrel/paytx) - 使用 Algorand Python SDK 的常见支付交易场景示例.
-- [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
+- [TinyBar App](https://tinybar.app) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand Realm 的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
@@ -239,6 +239,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AgorHash](http://www.agorhash.com/) - 公共、无需许可、去中心化和不可审查的言论自由协议.
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint 随机生成带有嵌入式 ARC69 标签的 mandelbrot 分形.
+- [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上. 
 
 ## ARCs
 
