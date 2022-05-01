@@ -157,7 +157,7 @@
 - [Celery](https://docs.celeryproject.org/) - 用于处理异步任务和调度的最常用的 Python 库.
 - [Dramatiq](https://flask-dramatiq.rtfd.io/) - 芹菜的快速可靠替代品.
 - [Flask-RQ](https://github.com/mattupstate/flask-rq) - [RQ](https://python-rq.org/) （Redis 队列）集成.
-- [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)- 基于任务队列，旨在为执行任务提供一个简单但灵活的框架.
+- [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)基于任务队列，旨在为执行任务提供一个简单而灵活的框架.
 
 ### Utils
 
@@ -170,7 +170,7 @@
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) - Flask 路由的速率限制功能.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - 分页支持.
-- [Flask-Reactize](https://github.com/jchomarat/flask-reactize) - 用 Flask 替换 React 的 Node.js 开发后端.
+- [Flask-Reactize](https://github.com/Azure-Samples/flask-reactize) - 将 React 的 Node.js 开发后端隐藏在 Flask 应用程序后面.
 - [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - Python 子进程 API 的 RESTful/HTTP 包装器，因此您可以将任何命令行工具转换为 RESTful API 服务.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - 站点地图生成.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO 集成.

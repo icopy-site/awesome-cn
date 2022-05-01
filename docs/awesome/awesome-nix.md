@@ -4,7 +4,7 @@
 
 &gt; Nix 社区中最佳资源的精选列表.
 
-[Nix](https://github.com/nixos/nix) 是用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
+[Nix](https://github.com/nixos/nix) 是适用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
 
 *请阅读 [contribution guidelines](https://github.com/nix-community/awesome-nix/blob/master/CONTRIBUTING.md) 在贡献之前.*
 
@@ -14,7 +14,7 @@
 
 ### Learning
 
-* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像 Let&#39;s Play，但用于晦涩的软件文档.
+* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像 Let&#39;s Play，但用于晦涩难懂的软件文档.
 * [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
@@ -160,6 +160,7 @@
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Nixpkgs 扩展，重点是易于部署网络相关技术.
 * [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，使用 NixOS 模块进行管理.
+* [Stylix](https://github.com/danth/stylix) - NixOS 的系统范围的配色方案和排版.
 
 ## Overlays
 
