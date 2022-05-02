@@ -7,7 +7,7 @@
 
 令人敬畏的 Alfred 工作流程的精选列表.
 
-[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展提高您的效率.
+[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展来提高您的效率.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -41,7 +41,7 @@
 - [Packagist](https://github.com/vinkla/alfred-packagist) - 搜索 PHP 包 [Packagist](https://packagist.org).
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出、搜索和开放源代码树存储库.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - 使用 Alfred2 列出和控制 Vagrant 环境.
-- [VSCode] (https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - 使用 Visual Studio Code 打开文件或文件夹的 Alfred 4 工作流.
+- [VSCode](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - 使用 Visual Studio Code 打开文件或文件夹的 Alfred 4 工作流.
 
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - 通过 base64、html、url 和 utf-8 编码/解码转换您的查询字符串.
@@ -50,6 +50,7 @@
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - 根据外观或名称搜索实体字符.
 - [Pandoctor](https://github.com/smargh/alfred_pandoctor) - 阿尔弗雷德接口 [pandoc](http://pandoc.org)，一种允许在文本格式（Markdown、LaTeX、DOC、DOCX、...）之间进行转换的工具.
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - 搜索 Unicode 符号.
+- [VSCodeDiff](https://github.com/logicxd/alfred-vscodediff) - 使用 VSCode 显示剪贴板历史记录中最后 2 个项目的差异.
 
 ## Scientific
 - [Convert](https://github.com/deanishe/alfred-convert) - 单位和（加密）货币的离线转换.
@@ -117,7 +118,7 @@
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
 - [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
-- [PacMax](https://pacmax.org/) – Pacmax 是作为 Alfred 爱好者查找和分享他们最喜欢的工作流程、片段和主题的一种方式.
+- [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 
 ## Contributing

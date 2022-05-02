@@ -23,7 +23,8 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [point-grouper](https://github.com/substack/point-grouper)：将geojson点分组为包含多边形
 * [geojson-join](https://github.com/tmcw/geojson-join): 针对 json、dbf 和 csv 文件加入 geojson
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson)：将 ramer-douglas-peucker 行简化应用于 JS 或 CLI 中的 geojson 特征或特征集合
-* [turf](https://github.com/Turfjs/turf)：用于空间操作和分析的功能集合
+* [turf](https://github.com/Turfjs/turf): 空间操作和分析功能的集合
+* [turf_dart](https://github.com/dartclub/turf_dart): Dart 和 Flutter 的 turf.js 端口
 * [de9im](https://github.com/dpmcmlxxvi/de9im): 用于空间 javascript 操作的快速函数集合
 * [winnow](https://github.com/dmfenton/winnow): 使用 javascript 对 geojson 运行 sql 查询
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): 为每个 Feature 添加一个唯一的 id
@@ -66,7 +67,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * **CSV**
   * [csv2geojson](https://github.com/mapbox/csv2geojson): 将 CSV 转换为 geojson
   * [geojson2dsv](https://github.com/tmcw/geojson2dsv): 将 geojson 转换为 CSV 和 TSV
-* [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify): 将 GeoJSON 对象转换为带有嵌入 GeoJSON 数据和 simplestyle-spec 派生样式的 Mapnik XML 样式表.
+* [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify)：将 GeoJSON 对象转换为 Mapnik XML 样式表，其中包含嵌入的 GeoJSON 数据和 simplestyle-spec 派生样式.
 * [geojson-vt](https://github.com/mapbox/geojson-vt): 在浏览器中动态地将 GeoJSON 切片成矢量图块
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): 从 Mapbox 矢量瓦片中提取 GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组geojson特征生成一个静态rtree（使用terraformer）
