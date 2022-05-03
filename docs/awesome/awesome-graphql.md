@@ -172,6 +172,7 @@
 - [graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - 使用 JavaScript 的实时 GraphQL 实时查询.
 - [GraphVinci](https://github.com/Comcast/graphvinci) - GraphQL API 的交互式模式可视化工具.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - 扩展 [supertest](https://github.com/visionmedia/supertest) 轻松测试 GraphQL 端点
+- [schemathesis](https://github.com/schemathesis/schemathesis) - 运行与 GraphQL 模式匹配的任意查询以查找服务器错误.
 
 <a name="js-example" />
 

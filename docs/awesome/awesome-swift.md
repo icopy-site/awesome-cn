@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1083 |  2022 年 4 月 26 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1084 |  2022 年 5 月 3 日
 
 
 
@@ -121,7 +121,7 @@
 * [Spin](https://github.com/Spinners/Spin.Swift) - 提供与 RxSwift、ReactiveSwift 和 Combine 一起使用的多功能反馈循环实现.
 * [StateViewController](https://github.com/davidask/StateViewController) - 有状态的 UIVIewController 组合——大规模视图控制器的 MVC 治疗.
 * [The Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) - SwiftUI x Concurrency 的声明性状态管理和依赖注入库.
-* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - 一个用于以一致且可理解的方式构建应用程序的库，其中考虑了组合、测试和人体工程学.
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - 一个以一致且易于理解的方式构建应用程序的库，其中考虑了组合、测试和人体工程学.
 * [Viperit](https://github.com/ferranabello/Viperit) - 适用于 iOS 的 Viper 框架.
 
 ## Misc
@@ -151,7 +151,7 @@
 * [Capable](https://github.com/chrs1885/Capable) - 跟踪可访问性设置，利用高对比度颜色，并使用可缩放字体以使残障用户能够使用您的应用程序.
 
 ### AI
-*用于基于 AI 的项目（机器学习、神经网络等）的库.* [back to top](#readme) 
+*Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - 一系列独特的 Core ML 模型.
 * [DL4S](https://github.com/palle-k/DL4S) - 从 CNN 和 RNN 到变压器的自动微分、快速张量运算和动态神经网络.
@@ -173,7 +173,7 @@
 *帮助动画的库* [back to top](#readme) 
 
 * [Advance](https://github.com/timdonnelly/Advance) - 适用于 iOS、tvOS 和 OS X 的强大动画框架.
-* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - 精美的两级集合视图布局和动画.
+* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 * [Comets](https://github.com/cruisediary/Comets) - 动画粒子.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - 易于阅读和编写可链接的动画.
 * [Ease](https://github.com/roberthein/Ease) - 轻松动画一切.
@@ -195,7 +195,7 @@
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 在屏幕上编排动画.
 * [Stellar](https://github.com/AugustRush/Stellar) - 物理动画库.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation)  - 类型安全的 CAAnimation 包装器. 它可以防止设置错误的类型值.
-* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - 只需一行代码，即可让您的 UI 栩栩如生.
 * [YapAnimator](https://github.com/yapstudios/YapAnimator) - 您快速友好的基于物理的动画系统.
 
 ### API
@@ -289,7 +289,7 @@
 [back to top](#readme) 
 
 * [Charts](https://github.com/danielgindi/Charts) - 适用于 iOS/tvOS/OSX（MPAndroidChart 端口）的精美图表.
-* [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying beautiful charts effortlessly
+* [ChartView](https://github.com/AppPear/ChartView) - 用于轻松显示漂亮图表的 Swift 包
 * [FLCharts](https://github.com/francescoleoni98/FLCharts) - 易于使用且高度可定制的 iOS 图表库.
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - 一个简单漂亮的带有动画的图表库.
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) - 适用于 iOS 的自适应可滚动图形视图，用于可视化简单的离散数据集.
@@ -768,7 +768,7 @@
 * [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - 无代码管理器通过点击 iOS 视图来隐藏键盘.
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)  - 为您的 macOS 应用程序添加用户可自定义的全局键盘快捷键. 包括一个 Cocoa 和 SwiftUI 组件.
 * [Ribbon](https://github.com/chriszielinski/Ribbon) - 适用于 iOS 和 macOS 的简单跨平台工具栏/自定义输入附件视图库.
-* [Typist](https://github.com/totocaster/Typist) - 适用于 iOS 应用的小型嵌入式 UIKit 键盘管理器 - 无需通知中心即可帮助管理键盘的屏幕存在和行为.
+* [Typist](https://github.com/totocaster/Typist) - 适用于 iOS 应用程序的小型嵌入式 UIKit 键盘管理器 - 无需通知中心即可帮助管理键盘的屏幕存在和行为.
 
 ### Kit
 *使用简化 API 进行编码的库* [back to top](#readme) 
@@ -788,7 +788,7 @@
 * [Neon](https://github.com/mamaral/Neon) - 一个强大的程序化 UI 布局框架.
 * [PinLayout](https://github.com/layoutBox/PinLayout)  - 没有自动布局的快速视图布局. 没有魔法，纯代码，完全控制和超快. 简洁的语法，直观，可读和可链接.  [iOS/macOS/tvOS]
 * [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView)  - 带有粘性标题的滚动视图，当您滚动时会缩小. 用 SwiftUI 编写.
-* [Static](https://github.com/venmo/Static) - A simple static table views for iOS.
+* [Static](https://github.com/venmo/Static) - 适用于 iOS 的简单静态表格视图.
 * [Stevia](https://github.com/freshOS/Stevia) - 优雅的 iOS 视图布局.
 
 #### Auto Layout
@@ -830,7 +830,7 @@
 [back to top](#readme) 
 
 * [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) - Apple CoreLocation 框架与现代并发 Swift (async/await) 的包装器.
-* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - 优雅而简单的 3D 天桥位置请求屏幕.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ### Logging
 *用于写入和读取设备日志的实用程序* [back to top](#readme) 
@@ -857,7 +857,7 @@
 [back to top](#readme) 
 
 * [Cluster](https://github.com/efremidze/Cluster) - 简单的地图注释聚类.
-* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 使您能够以零努力在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 让您可以零努力地在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - 使使用地理模型和计算交叉点、重叠、投影等变得更容易.
 * [LocoKit](https://github.com/sobri909/LocoKit) - iOS 的位置和活动记录框架.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  - 使用任何自定义视图作为具有酷动画的 MKMapView 的自定义标注视图. 使用任何图像作为注释视图.
@@ -1042,7 +1042,7 @@
 ### SVG
 [back to top](#readme) 
 
-* [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+* [SVGView](https://github.com/exyte/SVGView) - 用 SwiftUI 编写的 SVG 解析器和渲染器.
 
 ### System
 [back to top](#readme) 
@@ -1154,14 +1154,14 @@
 * [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - 响应 UIScrollView 滚动的容器视图.
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - 浮动评级系统.
 * [Fluid Slider](https://github.com/Ramotion/fluid-slider) - 带有弹出气泡的滑块小部件，显示所选的精确值.
-* [GaugeKit](https://github.com/skywinder/GaugeKit)  - 可定制的仪表. 轻松重现 Apple 的风格仪表.
+* [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Geometry](https://github.com/artman/Geometry) - UIView 的扩展.
 * [GMStepper](https://github.com/gmertk/GMStepper) - 中间有滑动标签的步进器.
 * [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - 动画渐变进度条.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - 灵活的 Mustache 模板.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - 支持自动增长、占位符和长度限制的 UITextView.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - 适用于 iOS 应用程序的自定义可重用圆形滑块控件.
-* [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - 一个库，它添加了在通过 hidesNavigationBarWhenPushed 标志推送视图控制器时隐藏导航栏的功能.
+* [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - 一个库，增加了在通过 hidesNavigationBarWhenPushed 标志推送视图控制器时隐藏导航栏的功能.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - 像 Instagram 一样的水平滚动表盘.
 * [HPParallaxHeader](https://github.com/ngochiencse/HPParallaxHeader) - UIScrollView 的简单视差标头.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 适用于 iOS 的可自定义颜色选择器.
@@ -1405,7 +1405,7 @@
 
 * [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - 自适应标签栏.
 * [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController 是一个为标签栏项目添加动画的模块.
-* [CardTabBar](https://github.com/yusadogru/CardTabBar) - 为 iOS 标签栏项目添加动画.
+* [CardTabBar](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 * [CircleBar](https://github.com/softhausHQ/CircleBar) - 适用于 iOS 的有趣、易于使用的标签栏导航控制器.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - 显示标签的有趣方式.
 * [DTPagerController](https://github.com/tungvoduc/DTPagerController) - 容器视图控制器在水平滚动视图中显示一组 ViewController.
@@ -1510,7 +1510,7 @@
 * [SwiftyComments](https://github.com/tsucres/SwiftyComments) - 可扩展/可折叠单元格的嵌套层次结构，可轻松构建优雅的讨论线程.
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - 基于股票 Mail.app 的可滑动 UITableViewCell.
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - 当 UITableView 的数据集为空时，可以自定义视图的组件.
-* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
+* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - 适用于 iOS 的令人敬畏的可扩展、可折叠的 tableview 单元格.
 
 #### Walkthrough
 [back to top](#readme) 
@@ -1550,7 +1550,7 @@
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) :penguin: - 功能强大且易于使用的查询生成器.
 * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor 使用协议和类型别名轻松实现 Flux 设计模式.
 * [Focus](https://github.com/typelift/Focus) - 受 Haskell 的 Lens 库启发的光学库（包括 Lens、Prisms 和 Isos）.
-* [Highlighter](https://github.com/younatics/Highlighter)  - 突出你想要的任何东西！  Highlighter 会神奇地在您的 UITableViewCell 或其他 Class 中找到 UI 对象，例如 UILabel、UITextView、UITextTfield、UIButton.
+* [Highlighter](https://github.com/younatics/Highlighter)  - 突出你想要的任何东西！  Highlighter 会神奇地在你的 UITableViewCell 或其他 Class 中找到 UI 对象，例如 UILabel、UITextView、UITextTfield、UIButton.
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - 在您开发应用程序时，表面保留周期/内存问题.
 * [Lumos](https://github.com/sushinoya/Lumos) - 一个易于使用的用于 Objective-C 运行时函数的 API.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - 用于 Objective C 运行时函数的 API.
@@ -1629,7 +1629,7 @@
 * [MobilePlayer](https://github.com/sahin/mobileplayer-ios) - 适用于 iOS 的强大且完全可定制的媒体播放器.
 * [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - 导出和转码媒体.
 * [Player](https://github.com/piemonte/Player) - iOS 视频播放器，用于播放和流媒体的简单组件.
-* [PlayerView](https://github.com/davidlondono/PlayerView) - 使用 UIView 易于使用的视频播放器，管理播放器状态的再现率、屏幕截图和回调代理.
+* [PlayerView](https://github.com/davidlondono/PlayerView) - 使用 UIView 易于使用的视频播放器，管理播放器状态的再现率、屏幕截图和回调委托.
 * [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 修剪和裁剪视频.
 * [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - FFmpeg C API 的包装器.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - 易于使用的 UIView 子类，用于实现视频背景.
