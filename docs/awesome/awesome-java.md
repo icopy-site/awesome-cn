@@ -56,7 +56,7 @@ _提供缓存设施的库._
 _与 CLI 相关的所有内容的库._
 
 - [ASCII Table](https://github.com/vdmeer/asciitable) - 以 ASCII 格式绘制表格的库.
-- [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
+- [Airline](https://github.com/airlift/airline) - 基于注释的框架，用于解析类似 Git 的命令行参数.
 - [args4j](http://args4j.kohsuke.org) - 用于解析命令行参数的小型库.
 - [Jansi](https://github.com/fusesource/jansi) - ANSI 转义码来格式化控制台输出.
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形原语.
@@ -87,7 +87,6 @@ _提供指标和质量测量的工具._
 - [NullAway](https://github.com/uber/NullAway) - 以低构建时间开销消除 NullPointerExceptions.
 - [PMD](https://github.com/pmd/pmd) - 用于查找不良编码实践的源代码分析.
 - [SonarJava](https://github.com/SonarSource/sonar-java)  - SonarQube 和 SonarLint 的静态分析器.  （仅限 LGPL-3.0）
-- [Sourcetrail](https://www.sourcetrail.com) - 可视源代码导航器.
 - [Spoon](https://github.com/INRIA/spoon) - 用于分析和转换 Java 源代码的库.
 - [Spotbugs](https://github.com/spotbugs/spotbugs)  - 字节码的静态分析以发现潜在的错误.  （仅限 LGPL-2.1）
 
@@ -227,7 +226,7 @@ _与处理日期和时间相关的库._
 
 - [Almanac Converter](https://github.com/chrisengelsma/almanac-converter) - 不同日历系统之间的简单转换.
 - [iCal4j](https://github.com/ical4j/ical4j) - 解析和构建 iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) 数据模型.
-- [Jollyday](http://jollyday.sourceforge.net) - 确定给定年份、国家/名称和最终州/地区的假期.
+- [Jollyday](https://github.com/svendiedrichsen/jollyday) - 确定给定年份、国家/名称和最终州/地区的假期.
 - [ThreeTen-Extra](https://github.com/ThreeTen/threeten-extra) - 补充 JDK 8 中的附加日期时间类.
 - [Time4J](https://github.com/MenoData/Time4J)  - 高级日期和时间库.  （仅限 LGPL-2.1）
 
@@ -424,7 +423,7 @@ _尝试简化开发的多个方面的集成开发环境._
  - [IntelliJ IDEA ![c]](https://www.jetbrains.com/idea/) - 支持多种 JVM 语言，为 Android 开发提供了不错的选择. 商业版面向企业部门.
 - [jGRASP](https://www.jgrasp.org) - 创建以提供与调试器结合使用的软件可视化，例如控制结构图、UML 类图和对象查看器.
 - [NetBeans](https://netbeans.apache.org) - 提供从数据库访问到 HTML5 的多个 Java SE 和 EE 功能的集成.
-- [Recaf](https://www.coley.software/Recaf/) - 字节码编辑器.
+- [Recaf](https://www.coley.software/Recaf/) - Bytecode editor.
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/java) - 通过使用来自内部市场的扩展，通过简单、现代的工作流程为轻量级项目提供 Java 支持.
 
 ### Imagery
@@ -497,7 +496,7 @@ _JVM/JDK 的当前实现._
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  - 适用于 iOS 的具有非阻塞并发 GC 的 VM.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)  - RedHat 的 OpenJDK 发行版.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
 - [SAP Machine](https://sap.github.io/SapMachine/)  - SAP 的免费、经过严格测试和 JCK 验证的 OpenJDK 友好分支.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
-- [Zulu](https://www.azul.com/products/zulu-community/)  - OpenJDK 为 Windows、Linux 和 macOS 构建.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
+- [Zulu](https://www.azul.com/products/zulu-community/) - OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 
 ### Logging
 
@@ -574,10 +573,10 @@ _其他一切._
 
 - [CQEngine](https://github.com/npgall/cqengine) - 对 Java 集合进行超快速、类似 SQL 的查询.
 - [Design Patterns](https://github.com/iluwatar/java-design-patterns) - 最常见的设计模式的实现和解释.
-- [FF4J](https://github.com/ff4j/ff4j) - Feature Flags for Java.
+- [FF4J](https://github.com/ff4j/ff4j) - Java 的功能标志.
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)  - 严肃的商人为严肃的商业目的制作的 FizzBu​​zz 的严肃实施.  （无明确许可）
 - [J2ObjC](https://github.com/google/j2objc) - Java 到 Objective-C 的翻译器，用于将 Android 库移植到 iOS.
-- [JBake](https://jbake.org) - Static website generator.
+- [JBake](https://jbake.org) - 静态网站生成器.
 - [JBot](https://github.com/rampatra/jbot)  - 构建聊天机器人的框架.  （仅限 GPL-3.0）
 - [JCuda](http://jcuda.org) - JCuda 为 CUDA 和 CUDA 相关库提供 Java 绑定.
 - [Jimfs](https://github.com/google/jimfs) - 内存文件系统.
@@ -620,7 +619,7 @@ _监控生产中应用程序的工具._
 - [inspectIT](https://www.inspectit.rocks)  - 通过可以动态更改的挂钩捕获详细的运行时信息. 它支持通过 OpenTracing API 对多个系统进行跟踪，并且可以将数据与最终用户监控相关联.
  - [Instrumental ![c]](https://instrumentalapp.com) - 实时 Java 应用程序性能监控. 具有免费开发帐户的商业服务.
 - [JavaMelody](https://github.com/javamelody/javamelody) - 性能监控和分析.
-- [Jaeger client](https://github.com/jaegertracing/jaeger-client-java) - 客户 Jaeger.
+- [Jaeger client](https://github.com/jaegertracing/jaeger-client-java) - Jaeger 客户端.
 - [jmxtrans](https://github.com/jmxtrans/jmxtrans)  - 连接到多个 JVM 并通过 JMX 查询它们的属性. 它的查询语言基于 JSON，它允许非 Java 程序员访问 JVM 属性. 支持不同的输出写入，包括 Graphite、Ganglia 和 StatsD.
 - [Jolokia](https://jolokia.org) - 基于 REST 的 JMX.
 - [Metrics](https://github.com/dropwizard/metrics) - 通过 JMX 或 HTTP 公开指标并将它们发送到数据库.
@@ -714,7 +713,7 @@ _帮助处理 PDF 文件的工具._
 
 ### Performance analysis
 
-_Tools for performance analysis, profiling and benchmarking._
+_用于性能分析、分析和基准测试的工具._
 
 - [fastThread ![c]](https://fastthread.io) - 使用基于云的免费上传界面分析和可视化线程转储.
  - [GCeasy ![c]](https://gceasy.io) - 分析和可视化 GC 日志的工具. 它提供了一个免费的基于云的上传界面.
@@ -752,7 +751,7 @@ _包含多个类别的多个库套件的框架._
 - [Exec](http://commons.apache.org/proper/commons-exec/) - 用于处理 Java 中的外部流程执行和环境管理的 API.
 - [FileUpload](http://commons.apache.org/proper/commons-fileupload/) - 为您的 servlet 和 Web 应用程序提供文件上传功能.
 - [Finder](http://commons.apache.org/sandbox/commons-finder/) - 受 UNIX find 命令启发的 Java 库.
-- [Flatfile](http://commons.apache.org/sandbox/commons-flatfile/) - 用于处理平面数据结构的 Java 库.
+- [Flatfile](http://commons.apache.org/sandbox/commons-flatfile/) - Java library for working with flat data structures.
 - [Functor](http://commons.apache.org/proper/commons-functor/) - 可以作为对象操作的函数，或表示单个通用函数的对象.
 - [Graph](http://commons.apache.org/sandbox/commons-graph/) - 通用图形 API 和算法.
 - [I18n](http://commons.apache.org/sandbox/commons-i18n/) - 添加由一个或多个本地化文本组成的本地化消息包的功能.
@@ -767,7 +766,7 @@ _包含多个类别的多个库套件的框架._
 - [JNet](http://commons.apache.org/sandbox/commons-jnet/) - JNet 允许通过 java.net API 使用动态注册 url 流处理程序.
 - [JXPath](http://commons.apache.org/proper/commons-jxpath/) - 使用 XPath 语法操作 Java Bean 的实用程序.
 - [Lang](http://commons.apache.org/proper/commons-lang/) - 为 java.lang 中的类提供额外的功能.
-- [Logging](https://commons.apache.org/proper/commons-logging/) - 包装各种日志 API 实现.
+- [Logging](https://commons.apache.org/proper/commons-logging/) - Wrapper around a variety of logging API implementations.
 - [Math](http://commons.apache.org/proper/commons-math/) - 轻量级、独立的数学和统计组件.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring/) - 监控旨在为 Java 应用程序提供一个简单但可扩展的监控解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla/) - Nabla provides automatic differentiation classes that can generate derivative of any function implemented in the Java language.
@@ -910,7 +909,7 @@ _在模板中替换表达式的工具._
 - [Jamal](https://github.com/verhas/jamal) - 嵌入到 Maven/JavaDoc 中的可扩展模板引擎，支持多个扩展（Groovy、Ruby、JavaScript、JShell、PlantUml），并支持片段处理.
 - [jte](https://github.com/casid/jte) - 编译为类，并使用简单的语法，多种功能使开发更容易，并提供快速执行和占用空间小.
 - [Jtwig](https://github.com/jtwig/jtwig) - 模块化、可配置且经过全面测试的模板引擎.
-- [Pebble](https://pebbletemplates.io)  - 受到 Twig 的启发，并以其继承特性和易于阅读的语法将自己分开. 它带有内置的安全自动转义功能，并且包括对国际化的集成支持.
+- [Pebble](https://pebbletemplates.io)  - 受到 Twig 的启发，并以其继承特性和易于阅读的语法将自己分开. 它带有内置的自动转义以确保安全，并且包括对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) - 优化、内存高效和快速的模板引擎，生成静态类型的普通对象.
 - [StringTemplate](https://github.com/antlr/stringtemplate4) - 用于生成源代码、网页、电子邮件或任何其他格式化文本输出的模板引擎.
 - [Thymeleaf](https://www.thymeleaf.org) - 旨在成为 JSP 的替代品并适用于 XML 文件.
@@ -1110,6 +1109,7 @@ _产生重大影响且仍然值得一读的书籍._
 
 _编程时可以看或听的东西._
 
+- [140 Second Ducklings](https://twitter.com/debugagent/status/1491075324805001219?s=20&t=pJat2j-HN-iRfY3CY5f6qQ) - Twitter 上的短视频深入解释 Java 调试.
 - [A Bootiful Podcast](https://bootifulpodcast.fm)
 - [Inside Java](https://inside.java/podcast) （官方的）
 - [Java Off Heap](http://www.javaoffheap.com)

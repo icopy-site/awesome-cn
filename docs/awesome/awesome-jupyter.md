@@ -11,6 +11,7 @@
 </div>
 
 
+<!--lint ignore awesome-toc alphabetize-lists-->
 
 ---
 
@@ -54,7 +55,8 @@
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
 - [ipychart](https://github.com/nicohlr/ipychart) - Jupyter 中的交互式 Chart.js 绘图.
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 在 Jupyter 中使用 cytoscape.js 进行交互式图形可视化的小部件.
-- [ipydagred3](https://github.com/timkpaine/ipydagred3) - ipywidgets 库，用于在 jupyterlab 中使用 dagre-d3 绘制有向无环图.
+<!--lint ignore double-link-->
+- [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中 Leaflet.js 地图的交互式可视化库.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
@@ -81,8 +83,8 @@
 
 ## Rendering/Publishing/Conversion
 
-- [Binder](http://mybinder.org) - 将 GitHub 存储库变成交互式笔记本的集合.
-- [Bookbook](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
+- [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
+- [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展可在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本、编辑和执行笔记本，并通过 REST 接口直接集成它们.
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文档.
@@ -122,13 +124,14 @@
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - 显示 drawio/mxgraph 图的扩展.
 - [elyra](https://github.com/elyra-ai/elyra) - 用于在本地或远程创建和运行笔记本（或 Python 脚本）管道的可视化编辑器.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到 JupyterLab 中的变量或函数定义的扩展.
-- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
+- [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google Drive 集成的扩展.
 - [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - 在 JupyterLab 中自动对笔记本进行版本控制.
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - 从 JupyterLab 中通过电子邮件发送笔记本及其内容.
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - 在 Jupyter 中用于多个后端的类似文件系统的内容管理器.
 - [jupyterlab_iframe](https://github.com/timkpaine/jupyterlab_iframe) - 在 JupyterLab 中将 HTML 视为嵌入式 iframe.
+<!--lint ignore double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 扩展以将笔记本发布到 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.
 - [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - 结合 VS Code 的 SynthWave &#39;84 和 JupyterLab 的 Neon Night 主题.
 - [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元完成浏览器通知.
@@ -171,7 +174,7 @@
 - [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - Jupyter 扩展，用于大规模地理定位数据集的可视化探索.
 - [lolviz](https://github.com/parrt/lolviz) - 用于列表、列表、字典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - 基于 Jupyter 的金融研究平台.
-- [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - 在 Jupyter 笔记本中运行的 VPython 3D 引擎.
+- [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
 ## Hosted Notebook Solutions
 
@@ -187,8 +190,9 @@
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - 使用 Google Cloud Dataproc 的 Apache Spark 的 Jupyter 和 JupyterLab.
 - [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.
 - [Gryd](https://gryd.us) - 简单、托管、即用型、基于云的 Jupyter 笔记本，支持多种语言.
+<!--lint ignore double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.
-- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
+- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - 云中基于 JupyterLab 的数据科学环境.
@@ -209,6 +213,7 @@
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
+<!--lint ignore double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
 - 派皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
 是 Jupyter 项目的 PyPI 宝库分类器.

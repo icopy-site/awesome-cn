@@ -86,7 +86,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) - 静态代码分析工具
- * [linguist.cr](https://github.com/microgit-com/linguist.cr) - 使用多种方法查找文件中使用的编程语言，基于 Github 的 Linguist
+ * [linguist.cr](https://github.com/microgit-com/linguist.cr) - 基于 Github 的 Linguist，使用多种方法查找文件中使用的编程语言
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Tar归档格式的读者和作者
@@ -336,6 +336,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Processes and Threads
  * [await_async](https://github.com/anykeyh/await_async) - 在 Crystal Lang 中添加关键字 await &amp; async
+ * [concurrent.cr](https://github.com/didactic-drunk/concurrent.cr) - 使用流/管道、等待组、信号量、smores 等简化并发
  * [neph](https://github.com/tbrand/neph) - 可以同时执行作业的现代命令行作业处理器
  * [promise](https://github.com/spider-gazelle/promise) - 带有类型推断的 Promise 实现
  * [werk](https://github.com/marghidanu/werk) - 具有并发支持的简单任务运行器，非常适合本地 CI
@@ -414,8 +415,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - 该库使用 AWS v4 签署您的 HTTP 请求
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 接口
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - 签署 HTTP::Request 对象并生成预签名的帖子表单
- * [crystal-consul](https://github.com/rogerwelin/crystal-consul) - 客户端 API 控制台
- * [crystal-darksky](https://github.com/sb89/crystal-darksky) - 包装器 [Dark Sky](https://darksky.net) 火
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) - 领事 API 客户端
+ * [crystal-darksky](https://github.com/sb89/crystal-darksky) - 包装器 [Dark Sky](https://darksky.net) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - 星球大战 API (SWAPI) 包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) - 解析 Slack 斜杠命令或发送传入网络挂钩的工具
  * [GDAX](https://github.com/mccallofthewild/gdax) - 带有请求签名的 GDAX REST 和 WebSocket API 包装器
@@ -426,7 +427,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - 用于向 Mixpanel 发送事件的库
  * [mollie.cr](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) 支付 API 包装器（信用卡、PayPal、Apple Pay、Sofort、Klarna 等）
  * [office365](https://github.com/PlaceOS/office365) - Microsoft Graph API 包装器
- * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
+ * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - 乌鸦是客户 [Sentry](https://github.com/getsentry/sentry)
  * [stripe.cr](https://github.com/confact/stripe.cr) - 条纹 api 包装器
  * [tmdb.cr](https://github.com/mmacia/tmdb.cr) - 电影数据库 (TMDb) api 包装器
@@ -437,7 +438,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Crystal Objects 的可共享验证库
  * [Athena Validator](https://github.com/athena-framework/validator) - 强大而灵活的验证框架
- * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
+ * [validations](https://github.com/vladfaust/validations.cr) - 验证混合
  * [validator](https://github.com/Nicolab/crystal-validator) - 数据检查和验证
 
 ## Web Frameworks
@@ -499,7 +500,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - 调试解析器和格式化程序的辅助工具
- * [crystal-base](https://github.com/ruivieira/crystal-base) - 用于 Crystal 开发的 CentOS 基础 docker 映像
+ * [crystal-base](https://github.com/ruivieira/crystal-base) - 用于 Crystal 开发的 CentOS 基础 docker 镜像
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) 文档集生成器
  * [public_suffix](https://github.com/toddsundsted/public_suffix) - 一个旨在使公共后缀列表 (https://publicsuffix.org/) 更易于使用的小型库
 
@@ -523,7 +524,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 高亮文本的水晶语法高亮
  * 文本伴侣
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal 语法高亮、编译、格式化命令、片段
- * 我来了
+ * 维姆
    * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - 对 Crystal 的 Vim 文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) - 俚语模板引擎的 Vim 文件类型支持
  * 视觉工作室代码

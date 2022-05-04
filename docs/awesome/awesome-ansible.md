@@ -57,7 +57,7 @@
 - [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Cloud Academy 的 Ansible 简介.
 - [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Jeff Geerling 制作的关于 Ansible 的精彩视频系列.
 - [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - 关于 Ansible 的视频教程.
-- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Red Hat 提供的关于 Ansible 要领的免费视频课堂.
+- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Free Video Classroom on Ansible essentials by Red Hat.
 - [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1) - Ansible 上的免费视频课程，包括实验室.
 - [Getting started with Ansible](https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - LearnLinuxTV 的 YouTube 教程系列.
 
@@ -98,15 +98,15 @@
 
 ### German
 
-- [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
+- [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - 关于 Ansbile 的不同主题的文章，例如模块、角色、用例等.
 
-## Playbooks and Roles
+## Playbooks, Roles and Collections
 
-&gt; 令人敬畏的生产就绪剧本和角色让您启动并运行.
+&gt; 令人敬畏的生产就绪剧本、角色和集合让您启动并运行.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
 - [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置具有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
-- [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - 这些角色帮助您强化基于 Linux 的操作系统以及 MySQl、NginX 和 SSH 服务器/服务.
+- [DevSec Hardening Framework](https://dev-sec.io/) - DevSec 集合可帮助您强化基于 Linux 的操作系统以及 MySQL、NGINX 和 SSH 服务器/服务.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 为开发环境和生产环境提供和部署 Docker Swarm 集群. 基础架构即代码和 DevOps 最佳实践.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbooks.

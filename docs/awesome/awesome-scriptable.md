@@ -192,6 +192,10 @@
 
 ## Traveling
 
+- [citi_bike.js](https://gist.github.com/coughski/43c7a4da3829a3ffe394d6eeb6a8c90a) - 一个车站状态跟踪器，显示纽约市花旗自行车共享计划的自行车可用性.
+
+<img src="https://user-images.githubusercontent.com/945761/161787518-9cbd252c-64f4-4c77-9793-a4b3d3c3f1ef.jpg" width="400"/>
+
 - [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - 从当前位置显示谷歌地图图像.
 
 ## Related

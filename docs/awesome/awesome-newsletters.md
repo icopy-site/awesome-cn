@@ -191,9 +191,9 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
-- [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
+- [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
 ### Python
 
@@ -205,7 +205,7 @@
 
 ### Groovy
 
-- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) . 最新版本、有趣的文章、采访、演示、相关推文或 Google+ 帖子、播客或截屏视频的链接、代码片段、书籍、即将发生的事件等.
+- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) . 最新版本、有趣的文章、访谈、演示文稿、相关推文或 Google+ 帖子、播客或截屏视频的链接、代码片段、书籍、即将发生的事件等.
 
 ### Perl
 
@@ -357,10 +357,10 @@
 
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是一份每日精选的时事通讯，其中包含科技领域最有趣故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) . 每天通过来自 Web 上的群发文章的电子邮件，随时了解当今最流行的科技新闻.
-- [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) . 每个工作日有 4 个关于（主要是研究导向的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) . 由 Adrian Colyer 选出的每个工作日早上来自 CS 世界的有趣/有影响/重要的论文.
 - [TechMeme](https://www.techmeme.com/) .  Techmeme 是近乎实时的汇总、过滤、可归档的摘要，介绍了技术中的新事物并引发了对话.
 - [Unzip.dev](https://unzip.dev/) . 开发者趋势通讯，一次打开一个趋势.
+- [Daily Tech](https://dailytech.email) .  Daily Tech 是一份关于技术、初创公司、产品和软件工程的精选时事通讯.
 
 
 ## Leadership
