@@ -104,7 +104,7 @@
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*
-* [Vault](https://www.vaultproject.io/) - API driven secret key management.
+* [Vault](https://www.vaultproject.io/) - API 驱动的密钥管理.
 * [Doppler](https://doppler.com/) - 跨项目的环境变量管理，在一个地方.
 * [1Password Secrets Automation](https://1password.com/secrets/) - 与 1Password 集成的秘密管理.
 * [Envkey](https://www.envkey.com/) - 具有所有应用程序同步机制的环境管理.
@@ -130,7 +130,7 @@
 
 ## Infrastructure as Code
 *声明您的基础设施并从中可重复地提供云基础设施.*
-* [Terraform](https://www.hashicorp.com/products/terraform) - DSL，开源和免费（付费解决方案增加了团队管理、策略即代码......）.
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 * [Pulumi](https://www.pulumi.com/) - 使用 Python、TypeScript、Go 和更多语言的开发人员优先 IaC...
 
 ## Integrations
@@ -187,6 +187,12 @@
 ## Natural Language Processing
 *与自然语言的交互.*
 * [DialogFlow](https://cloud.google.com/dialogflow) - Google 的语音/文本聊天机器人框架.
+
+## Orchestration
+*用于（微）服务的编排工具.*
+* [Camunda- Platform](https://camunda.com/) - 提供可扩展的按需流程自动化的工作流引擎.
+* [AWS Step Functions](https://aws.amazon.com/step-functions/) - 用于构建分布式应用程序和自动化流程的可视化工作流服务
+
 
 ## Payments
 *处理付款、信用卡处理和发票.*

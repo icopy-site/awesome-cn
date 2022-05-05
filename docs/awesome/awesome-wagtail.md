@@ -128,8 +128,7 @@
 
 ### Forms
 
-在查看表单附加组件之前，请先查看 [Wagtail's Form Builder](https://docs.wagtail.org/en/stable/reference/contrib/forms/).
-
+- [Wagtail's built in Form Builder](https://docs.wagtail.org/en/stable/reference/contrib/forms/) 对于一般用例. 
 - [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha 提供了一种简单的方法来集成 [django-recaptcha](https://github.com/praekelt/django-recaptcha) 使用 Wagtail 表单生成器时的字段.
 - [Wagtail Simple Captcha](https://github.com/acarasimon96/wagtail-django-simple-captcha) - Wagtail ReCaptcha 的自托管替代方案，可轻松集成 [django-simple-captcha](https://github.com/mbi/django-simple-captcha) 字段进入 Wagtail 表单构建器.
 - [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - 在 Wagtail 的管理员中构建表单以用于流场.
@@ -229,7 +228,7 @@
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) 由 Mikalai Radchuk 撰写 - 本次演讲是用俄语介绍 Wagtail.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 埃德·鲍德里.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 丹尼尔·普罗奇达.
-- [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) 由罗宾范德赖斯特.
+- [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) 罗宾·范德赖斯着.
 - [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) 埃德·鲍德里.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) 通过汤姆戴森.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) 通过伯特兰博尔达奇.
@@ -294,14 +293,14 @@
 ### Podcasts
 
 - [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) - 在这一集中，Tom Dyson 解释了 Wagtail 是如何被创建的，它与其他选项的区别是什么，以及你应该在什么时候为你的项目实施它.
-- [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) - 在 Wagtail 上对 Tom Dyson 的采访，Wagtail 是领先的基于 Django 的 CMS，被包括谷歌、NASA 和英国 NHS 在内的数以万计的组织使用.
+- [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) - 在 Wagtail 上对 Tom Dyson 的采访，Wagtail 是领先的基于 Django 的 CMS，被包括 Google、NASA 和英国 NHS 在内的数以万计的组织使用.
 
 ### Videos
 
 - [Learn Wagtail](https://learnwagtail.com/) - 有关 Wagtail 各个方面的定期视频教程.
 - [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - 该视频将向您展示如何使用 Wagtail CMS 创建和显示页面.
 - [Draftail extensions – custom entities tutorial](https://www.youtube.com/watch?v=nCMgoTerEb4) - 为 Draftail 进行扩展的分步教程.
-- [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) - Catherine 向您介绍了向 Wagtail 管理员添加一些有用的补充文本字段的步骤.
+- [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) - Catherine 向您介绍了向 Wagtail 管理员添加一些有用的补充文本字段时可以采取的步骤.
 - [Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail](https://www.youtube.com/watch?v=ei7ot_Wry3o) - Catherine 将向您介绍自定义富文本编辑器以控制内容编辑器可用的功能的步骤.
 - [Wagtail Wednesdays #03 - Using tabs to create a cleaner admin interface](https://www.youtube.com/watch?v=uZc0aZrHtQw) - Chris 通过使用选项卡来组织字段与您交谈.
 - [Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections](https://www.youtube.com/watch?v=HGXHtFpLDCA) - Kieran 与您讨论将图像和文档组织成集合的过程.

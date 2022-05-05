@@ -38,7 +38,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Stack Exchange](https://substrate.stackexchange.com/) - 最适合所有技术问题.
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - 白手套
   为使用 Substrate 的有远见的团队提供解决方案和专门的支持团队.
-- [Web3 Foundation Grants](https://web3.foundation/grants) - 为生态系统发展提供资金.
+- [Web3 Foundation Grants](https://web3.foundation/grants) - Funding for ecosystem development.
 
 ## Social
 
@@ -151,7 +151,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate 工具.
 
 ## Tools
-
+- [fudge](https://github.com/centrifuge/fudge) - 用于访问和（任意）操作基板数据库的核心库，包括本地块的构建和导入.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - 半官方区块浏览器和前端
   对于基于底物的链.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 浏览器扩展
@@ -202,6 +202,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - 基于 Python 的水龙头
   发展目的.
 - [Hydra](https://github.com/Joystream/hydra) - Substrate 节点的 GraphQL 框架.
+- [Subsquid](https://subsquid.io) - 一个索引框架（SDK + 基础设施），可以快速轻松
+  将 Substrate 和 EVM 链上数据转换为 API 并托管它们.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL 索引器
   基于底物的链.
 - [SubQuery](https://subquery.network) - 一个 GraphQL 索引器和查询服务，允许用户
@@ -221,7 +223,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地的工具
   Polkadot 测试网络，强调运行大型测试网络的能力.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) - 一种
-  set of useful JavaScript utilities for Substrate that uses the Polkadot{JS} API. Also
+  使用 Polkadot{JS} API 的 Substrate 的一组有用的 JavaScript 实用程序. 还
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - 图表
   FRAME 托盘的基准输出.
