@@ -108,13 +108,14 @@
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供将 PostgreSQL 数据库模式描述为 YAML 的实用程序.
 - [Reshape](https://github.com/fabianlindfors/reshape) - 一个易于使用、零停机时间的 Postgres 架构迁移工具.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
+- [Skeema](https://github.com/skeema/skeema) - MySQL 和 MariaDB 的声明式纯 SQL 模式管理系统，支持分片和外部在线模式更改工具.
 - [Sqitch](https://github.com/sqitchers/sqitch) - 明智的数据库原生变更管理，用于无框架开发和可靠部署.
 - [sqldef](https://github.com/k0kubun/sqldef) - MySQL、PostgreSQL 等的幂等模式管理.
 - [yuniql](https://github.com/rdagumampan/yuniql) - 刚刚使用本机 .NET Core 3.0+ 制作的另一个架构版本控制和迁移工具，希望更好.
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
 
 ### Diagrams
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
@@ -215,7 +216,7 @@
 
 
 ## Testing
-- [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对数据库代码进行简单的测试驱动开发.
+- [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对您的数据库代码进行简单的测试驱动开发.
 - [RegreSQL](https://github.com/dimitri/regresql) - 回归测试您的 SQL 查询.
 - [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
 
@@ -302,7 +303,7 @@
 
 ### Über SQL
 对任何东西运行 SQL 查询
-- [CloudQuery](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
+- [CloudQuery](https://github.com/cloudquery/cloudquery) - 提取、转换和加载您的云资产到规范化的 PostgreSQL 表中.
 - [csvq](https://github.com/mithrandie/csvq) - 用于 CSV 的类似 SQL 的查询语言.
 - [dsq](https://github.com/multiprocessio/dsq) - 用于针对 JSON、CSV、Excel、Parquet 等运行 SQL 查询的命令行工具.
 - [OctoSQL](https://github.com/cube2222/octosql) - 查询工具，允许您使用 SQL 连接、分析和转换来自多个数据库和文件格式的数据.
@@ -331,7 +332,7 @@
 
 ### Generators
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - 为开发、测试和培训目的生成、混淆（匿名化/假名化）和迁移数据.
-- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 强大的 GUI 工具，用于创建大量真实的测试数据.
+- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 小而强大的 GUI 工具，用于使用大量真实的测试数据填充 Oracle 模式.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
@@ -348,7 +349,7 @@
 
 
 ## Papers
-关于数据库工具的文件、文章、宣言和其他理论资料
+Documents, articles, manifestos and other theoretical materials on database tools
 - [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - 将您的数据库视为代码.
 
 
