@@ -14,7 +14,7 @@
 
 ### Learning
 
-* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像 Let&#39;s Play，但用于晦涩难懂的软件文档.
+* [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 这就像 Let&#39;s Play，但用于晦涩的软件文档.
 * [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
 * [Nix Pills](https://nixos.org/nixos/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
@@ -40,7 +40,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git 提交.
-* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 报告显示主要 Hydra 作业集的有问题的依赖关系（导致构建失败最多的依赖关系）.
+* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 报告显示主要 Hydra 作业集有问题的依赖关系（导致构建失败最多的依赖关系）.
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已进入频道的跟踪器.
 
 ## Deployment Tools
@@ -60,6 +60,7 @@
 
 ## Command-Line Tools
 
+* [alejandra](https://github.com/kamadorueda/alejandra) - 一个固执己见的 Nix 代码格式化程序，针对速度和一致性进行了优化.
 * [comma](https://github.com/Shopify/comma)  - 快速运行任何二进制文件； 将 `nix run` 和 `nix-index` 包装在一起.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - 用于 nixpkgs 的 Nix 代码格式化程序.
@@ -99,7 +100,7 @@
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - 将 `elm.json` 转换为 Nix 表达式.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
 
 ### Haskell
 
@@ -158,7 +159,7 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
 * [musnix](https://github.com/musnix/musnix) - 在 NixOS 中进行实时音频工作.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Nixpkgs 扩展，重点是易于部署网络相关技术.
-* [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+* [NixVim](https://github.com/pta2002/nixvim) - 使用 Nix 模块和 Nixpkgs 构建的 NeoVim 发行版.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，使用 NixOS 模块进行管理.
 * [Stylix](https://github.com/danth/stylix) - NixOS 的系统范围的配色方案和排版.
 
