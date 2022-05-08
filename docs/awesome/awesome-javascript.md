@@ -37,7 +37,6 @@
 * [browserify](https://github.com/substack/node-browserify) - 浏览器端 require() node.js 方式.
 * [SeaJS](https://github.com/seajs/seajs) - 用于 Web 的模块加载器.
 * [HeadJS](https://github.com/headjs/headjs) - 您 HEAD 中唯一的脚本.
-* [curl](https://github.com/cujojs/curl) - 一个小型、快速、可扩展的模块加载器，可处理 AMD、CommonJS Modules/1.1、CSS、HTML/text 和遗留脚本.
 * [lazyload](https://github.com/rgrove/lazyload/) - 小巧、无依赖的异步 JavaScript 和 CSS 加载器.
 * [script.js](https://github.com/ded/script.js) - 异步 JavaScript 加载器和依赖管理器.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD、CJS 和 ES6 规范兼容的模块加载器.
@@ -159,7 +158,6 @@
 * [way.js](https://github.com/gwendall/way.js) - 简单、轻量级、持久的双向数据绑定.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril 是一个客户端 MVC 框架（轻量级、健壮、快速）.
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks 是更好的 MV-ish 框架.
-* [LiquidLava](http://www.lava-framework.com/) - 用于构建用户界面的透明 MVC 框架.
 * [feathers](https://github.com/feathersjs/feathers) - 适用于未来应用程序的极简实时 JavaScript 框架.
 * [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
@@ -256,7 +254,7 @@
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - jQuery JavaScript 库的插件，可直接在浏览器中生成小型迷你图.
 * [trianglify](https://github.com/qrohlf/trianglify) - 带有 d3.js 的低聚风格背景生成器.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - 在 JavaScript 中创建词云.
-* [d4](https://github.com/heavysixer/d4) - 适用于 D3 的友好可重用图表 DSL.
+* [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 * [dimple.js](http://dimplejs.org) - 由 d3 提供支持的用于业务分析的简单图表.
 * [chartist-js](https://github.com/gionkunz/chartist-js) - 简单的响应图表.
 * [epoch](https://github.com/epochjs/epoch) - 一个通用的实时图表库.
@@ -264,9 +262,9 @@
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - 使用 HTML 5 和 WebGL 构建 3D 游戏的框架.
 * [recharts](https://github.com/recharts/recharts) - 重新定义了使用 React 和 D3 构建的图表库.
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS) - 基于 SVG/VML 技术的具有直观 API 的轻量级 JavaScript 图形库.
-* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图表和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本地运行.
+* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图形和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本地运行.
 * [Frappe Charts](https://github.com/frappe/charts) - 受 GitHub 启发的简单而现代的 SVG 图表，适用于网络，零依赖.
-* [Frappe Gantt](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+* [Frappe Gantt](https://github.com/frappe/gantt) - 一个简单、交互式、现代的网络甘特图库.
 * [G2](https://github.com/antvis/G2) - 用于统计图表的高度交互式数据驱动的可视化语法.
 * [G2Plot](https://github.com/antvis/G2Plot)  - 交互式和响应式图表库. 基于图形的语法.
 * [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 一个功能齐全的图论库.
@@ -286,6 +284,7 @@
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable 是一个供开发人员使用的 JavaScript/HTML5 电子表格库
 * [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable 是一个简单、现代和交互式的数据表库，用于显示表格数据. 
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet 是一个类似于 excel 的在线电子表格，功能强大、配置简单且完全开源.
+ * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建令人惊叹的基于 Web 的交互式表格和与其他电子表格软件兼容的电子表格.
 
 ## Editors
 
@@ -310,7 +309,7 @@
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - 简单、漂亮的所见即所得编辑器
 * [wysihtml5](https://github.com/xing/wysihtml5)  - 基于 HTML5 和渐进增强方法的开源富文本编辑器. 使用复杂的安全概念，旨在通过防止无法维护的标签汤和内联样式来生成完全有效的 HTML5 标记.
 * [popline](https://github.com/kenshin54/popline) - Popline 是一个 HTML5 富文本编辑器工具栏.
-* [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
+* [Summernote](https://github.com/summernote/summernote) - 超级简单的所见即所得编辑器.
 
 
 ## Documentation
@@ -352,7 +351,6 @@
 * [lazy.js](https://github.com/dtao/lazy.js) - 像下划线，但更懒惰.
 * [ramda](https://github.com/CrossEye/ramda) - 适用于 JavaScript 程序员的实用函数库.
 * [mout](https://github.com/mout/mout) - 模块化 JavaScript 实用程序.
-* [mesh](https://github.com/crcn/mesh.js) - 流式数据同步实用程序.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - JavaScript 的核心函数式编程.
 * [rambda](https://github.com/selfrefactor/rambda) - *Ramda* 的更快更小的替代方案.
 * [fxts](https://github.com/marpple/FxTS) - 延迟评估和并发.
@@ -391,7 +389,7 @@
 * [ms.js](https://github.com/rauchg/ms.js) - 微小的毫秒转换实用程序.
 * [countdown.js](https://github.com/gumroad/countdown.js) - 超级简单的倒计时.
 * [timeago.js](https://github.com/hustcc/timeago.js) - 简单的库（小于 2kb）用于使用 `*** time ago` 语句格式化日期.
-* [fecha](https://github.com/taylorhakes/fecha)  - 轻量级日期格式化和解析 (~2KB). 旨在替换 moment.js 的解析和格式化功能.
+* [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代 JavaScript 日期实用程序库.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - 建立在谷歌地图之上的浏览器倒计时.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB 不可变日期库替代 Moment.js 具有相同的现代 API.
@@ -428,7 +426,7 @@
 
 ## Storage
 
-* [store.js](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
+* [store.js](https://github.com/marcuswestin/store.js)  - 所有浏览器的 LocalStorage 包装器，不使用 cookie 或 flash. 在底层使用 localStorage、globalStorage 和 userData 行为.
 * [localForage](https://github.com/mozilla/localForage)  - 离线存储，改进. 使用简单但功能强大的 API 包装 IndexedDB、WebSQL 或 localStorage.
 * [jStorage](https://github.com/andris9/jStorage) - jStorage 是一个简单的键/值数据库，用于在浏览器端存储数据.
 * [cross-storage](https://github.com/zendesk/cross-storage) - 跨域本地存储，具有权限.
@@ -465,6 +463,7 @@
 * [polyglot](https://github.com/airbnb/polyglot.js) - 微型 i18n 帮助程序库.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n 具有人性化的 API 和内置的复数支持.
 * [ttag](https://github.com/ttag-org/ttag) - 基于 ES6 标记模板和良好的旧 GNU gettext 的现代 javascript i18n 本地化库.
+* [attranslate](https://github.com/fkirc/attranslate) - 用于同步翻译文件的 JavaScript 工具，包括 JSON/YAML/XML 和其他格式.
 
 ## Control Flow
 
@@ -474,7 +473,7 @@
 * [contra](https://github.com/bevacqua/contra/) - 具有功能性的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - 功能齐全的承诺库，专注于创新功能和性能.
 * [when](https://github.com/cujojs/when) - 一个可靠、快速的 Promises/A+ 和 when() 实现，以及其他异步好东西.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供一个添加对事件监听器支持的原型（与浏览器上可用的 DOMElements 中的 EventTarget 具有相同的行为）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 * [sporadic](https://github.com/marcoonroad/sporadic) - 在 Promise 之上，用于 Node 和浏览器引擎的可组合并发抽象（例如流、协程和类似 Go 的通道）.
 
 
@@ -499,7 +498,7 @@
 ## Log
 
 * [log](https://github.com/adamschwartz/log) - 带有风格的 Console.log.
-* [Conzole](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
+* [Conzole](https://github.com/Oaxoa/Conzole) - 内置在 JavaScript 中的调试面板，将 JavaScript 本机控制台对象方法和功能包装在页面内显示的面板中.
 * [console.log-wrapper](https://github.com/patik/console.log-wrapper) - 在任何浏览器中清晰地登录到控制台.
 * [loglevel](https://github.com/pimterry/loglevel) - JavaScript 的最小轻量级日志记录，添加可靠的日志级别方法来包装任何可用的 console.log 方法.
 * [minilog](http://mixu.net/minilog/) – 使用 Stream-API 后端的轻量级客户端和服务器端日志记录.
@@ -577,7 +576,7 @@
 *用于指示负载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - 创建 Google Material Design 进度条.
-* [NProgress](https://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
+* [NProgress](https://ricostacruz.com/nprogress/) - Ajax&#39;y 应用程序的细长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) - 旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) - 为页面上的每个对象创建和管理进度条.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且响应迅速的进度条.
@@ -679,7 +678,7 @@
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - HTML5 占位符属性的 JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) - 使用 CSS3 效果在输入字段中输入乐趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件将一个简单的文本输入神奇地转换为一个很酷的标签列表.
-* [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
+* [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - A pure JavaScript mask input.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式复选框和单选按钮的 jQuery 插件. 有皮肤支持.
 * [awesomplete](https://github.com/LeaVerou/awesomplete)  - 超轻量级、可用、美观的自动完成，零依赖.  - https://projects.verou.me/awesomplete/
 
@@ -702,9 +701,9 @@
 
 ### File Uploader
 
-* [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - 具有多个文件选择、拖放支持、进度条、验证和预览图像、jQuery 音频和视频的文件上传小部件.
+* [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - 文件上传小部件，具有多个文件选择、拖放支持、进度条、验证和预览图像、jQuery 音频和视频.
 * [dropzone](https://github.com/enyo/dropzone)  - Dropzone 是一个易于使用的拖放库. 它支持图像预览并显示漂亮的进度条.
-* [flow.js](https://github.com/flowjs/flow.js) - 一个 JavaScript 库，通过 HTML5 File API 提供多个同时、稳定、容错和可恢复/可重新启动的文件上传.
+* [flow.js](https://github.com/flowjs/flow.js) - 一个 JavaScript 库，通过 HTML5 File API 提供多个同时、稳定、容错和可恢复/可重启的文件上传.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) - 具有进度条、拖放、直接到 S3 上传的多文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  - 一组用于处理文件的 JavaScript 工具. 多重上传、拖放和分块文件上传. 图像：通过 EXIF 裁剪、调整大小和自动定位.
 * [plupload](https://github.com/moxiecode/plupload) - 用于处理文件上传的 JavaScript API，它支持多个文件选择、文件类型过滤、请求分块、客户端图像缩放等功能，并且它使用不同的运行时来实现这一点，例如 HTML 5、Silverlight 和 Flash.
@@ -753,7 +752,7 @@
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) - 一个简单而快速的 API，用于在您滚动时监控元素.
 * [headroom](https://github.com/WickyNilliams/headroom.js)  - 给你的页面一些空间. 隐藏你的标题，直到你需要它.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用 One Page Scroll 插件创建类似 Apple 的一页滚动网站（iPhone 5S 网站）.
-* [iscroll](https://github.com/cubiq/iscroll) - iScroll 是一款高性能、占用空间小、无依赖、多平台的 JavaScript 滚动器.
+* [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform JavaScript scroller.
 * [skrollr](https://github.com/Prinzhorn/skrollr)  - 用于移动（Android + iOS）和桌面的独立视差滚动库. 没有 jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出反应的视差引擎.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - 视差滚动变得容易.
@@ -789,7 +788,7 @@
 * [Packery](https://packery.metafizzy.co/)  - 使用装箱算法的网格布局库. 可用于可拖动布局.
 * [Isotope](https://isotope.metafizzy.co/)  - 一个可过滤、可排序的网格布局库. 可以实现 Masonry、Packery 和其他布局.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - 基于 CSS3 flexbox 的网格.
-* [Jspreadsheet](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建令人惊叹的基于 Web 的交互式表格和与其他电子表格软件兼容的电子表格.
+ 
 
 ## Frameworks
 
@@ -900,7 +899,7 @@
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - 带有滤镜和实用功能的图像处理库.
 * [pica](https://github.com/nodeca/pica) - 高质量图像调整大小（使用快速 Lanczos 过滤器，在纯 JS 中实现）.
-* [cropper](https://github.com/fengyuanchen/cropper) - 一个简单的 jQuery 图像裁剪插件.
+* [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 ## ES6
 
@@ -965,7 +964,7 @@ https://listjs.com
 
 ## Worth Reading
 
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 可能是用现代 JavaScript 编写的最好的书，完全免费在线阅读，或者可以购买以支持作者.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 关于 JS 最佳实践、公认的编码标准和 Web 链接的易于阅读的快速参考.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费 JavaScript 电子书目录.
 * [Superhero.js](http://superherojs.com) - 关于创建、测试和维护大型 JavaScript 代码库的资源集合.

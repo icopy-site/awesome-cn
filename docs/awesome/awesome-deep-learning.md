@@ -32,98 +32,117 @@
 
 ### Books
 
-1.  [Deep Learning](http://www.deeplearningbook.org/) 通过Yoshua Bengio，Ian Goodfellow和Aaron Courville（05/07/2015）
-2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 由Michael Nielsen（2014年12月）
-3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) 由Microsoft Research（2013）
-4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) 蒙特利尔大学LISA实验室（2015年1月6日）
-5.  [neuraltalk](https://github.com/karpathy/neuraltalk) 由Andrej Karpathy撰写：基于numpy的RNN / LSTM实现
+1.  [Deep Learning](http://www.deeplearningbook.org/) 作者：Yoshua Bengio、Ian Goodfellow 和 Aaron Courville (05/07/2015)
+2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) 迈克尔尼尔森（2014 年 12 月）
+3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) 微软研究院 (2013)
+4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) 作者：蒙特利尔大学 LISA 实验室（2015 年 1 月 6 日）
+5.  [neuraltalk](https://github.com/karpathy/neuraltalk) 作者 Andrej Karpathy：基于 numpy 的 RNN/LSTM 实现
 6.  [An introduction to genetic algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
-11. [Dive into Deep Learning](https://d2l.ai/) -基于numpy的交互式深度学习书
-12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) -有关生产过程中的优化技术的书.
-13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) -作者：Krishnendu Chaudhury
-14. [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) -苏珊·加内加达拉
- 
+10. [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+11. [Dive into Deep Learning](https://d2l.ai/) - 基于 numpy 的交互式深度学习书
+12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) - 一本关于生产过程中优化技术的书.
+13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) ——克里希南杜·乔杜里
+14. [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) ——图珊·甘尼格达拉
+15. [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) - Stephan Raaijmakers 着
+16. [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices) ——安德鲁·费利奇
+17. [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) ——爱德华·拉夫
+18. [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) ——弗朗索瓦·肖莱
+19. [Evolutionary Deep Learning](https://www.manning.com/books/evolutionary-deep-learning) ——迈克尔·兰纳姆
+20. [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms) - 王池和唐纳德·司徒
+21. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) 通过 Aurélien Géron |  2019 年 10 月 15 日
+
 ### Courses
 
-1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) 吴安德（Andrew Ng）在Coursera（2010-2014）
-2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) 由Yaser Abu-Mostafa（2012-2014）
-3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) 作者：汤姆·米切尔（Tom Mitchell）（2011年春季）
-2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) 由杰弗里·欣顿（Geoffrey Hinton）在Coursera（2012）中
-3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 作者：舍布鲁克大学的雨果·拉罗谢尔（Hugo Larochelle）（2013年）
-4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) 通过CILVR实验室@纽约大学（2014）
-5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) 丹·克莱恩（Dan Klein）和彼得阿比尔（Pieter Abbeel）（2013）
-6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 帕特里克·亨利·温斯顿（2010）
-7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) 由MIT的Shimon Ullman，Tomaso Poggio，Ethan Meyers @麻省理工学院（2013）
+1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) 作者 Andrew Ng 在 Coursera (2010-2014)
+2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) 亚瑟·阿布-穆斯塔法 (2012-2014)
+3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) 汤姆·米切尔（Tom Mitchell）（2011 年春季）
+2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) 杰弗里·辛顿（Geoffrey Hinton）在 Coursera（2012 年）
+3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 作者：舍布鲁克大学的 Hugo Larochelle（2013 年）
+4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) CILVR 实验室@纽约大学 (2014)
+5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) Dan Klein 和 Pieter Abbeel（2013 年）
+6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 帕特里克·亨利·温斯顿 (Patrick Henry Winston) (2010)
+7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) 作者：Shimon Ullman、Tomaso Poggio、Ethan Meyers @ MIT (2013)
 9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)
 10.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
 11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
 13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
-14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) 杰弗里·欣顿（Geoffrey Hinton），约书亚（Yoshua Bengio），扬·勒库恩（Yann LeCun），吴安德（Andrew Ng），南多·德·弗雷塔斯（Nando de Freitas）等@ IPAM，UCLA（2012）
-15.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) Vincent Vanhoucke和Arpan Chakraborty（2016）
-16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) 由滑铁卢大学的Ali Ghodsi教授撰写（2015年）
-17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) 拉里·瓦瑟曼教授
-18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) Yann LeCun（2016年）
+14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) 作者：Geoffrey Hinton、Yoshua Bengio、Yann LeCun、Andrew Ng、Nando de Freitas 和其他几个人@IPAM，加州大学洛杉矶分校（2012 年）
+15.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) 文森特·范胡克和阿潘·查克拉博蒂 (2016)
+16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) 作者：滑铁卢大学 Ali Ghodsi 教授（2015 年）
+17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) 拉里·沃瑟曼教授
+18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) 作者：Yann LeCun (2016)
 19. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
 20. [UVA Deep Learning Course](http://uvadlc.github.io) 阿姆斯特丹大学人工智能硕士.
 21. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-25. [Practical Deep Learning For Coders](http://course.fast.ai/) 杰里米·霍华德（Jeremy Howard）撰写的文章-Fast.ai
-26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) 由教授比克莎·拉吉（2017）
-27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) 吴恩达（2019）
-28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) -在麻省理工学院设计的为期7天的训练营，旨在介绍深度学习方法和应用（2019）
-29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) -免费的五周计划，供自学者学习深度学习架构的基础，例如CNN，LSTM，RNN，VAE，GAN，DQN，A3C等（2019）
-30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -OpenAI提供的免费深度强化学习课程（2019）
-31. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) -通过NG Andrew的最佳课程进入AI.
-32. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) Alex Smola和Mu Li（2019）
-33. [Machine Learning for Mere Mortals video course](https://www.manning.com/livevideo/machine-learning-for-mere-mortals) by Nick Chase
-34. [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) -Google AI
-35. [Deep Learning from the Foundations](https://course.fast.ai/part2) 杰里米·霍华德-Fast.ai
-36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) 3至6个月的Udacity纳米学位，涵盖多个课程（2018）
-37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) 博卡恩斯（2018）
-38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) 由Hakan Cebeci
-39. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) Classpert在线课程搜索中的深度学习在线课程列表（有些是免费的）
-40. [AWS Machine Learning](https://aws.training/machinelearning) 来自Amazon的机器学习狂热的机器学习和深度学习课程
-41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) -Udacity和Facebook AI关于深度学习的精彩入门课程
-42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) -Kaggle的深度学习免费课程
+25. [Practical Deep Learning For Coders](http://course.fast.ai/) 通过杰里米霍华德-Fast.ai
+26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) 由教授比丘拉吉 (2017)
+27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) 吴恩达 (2019)
+28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - 在麻省理工学院设计的为期 7 天的训练营，旨在介绍深度学习方法和应用程序（2019 年）
+29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - 一个免费的五周计划，让自学者学习深度学习架构的基础知识，如 CNN、LSTM、RNN、VAE、GAN、DQN、A3C 等（2019 年）
+30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - OpenAI 的免费深度强化学习课程（2019 年）
+31. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - 通过 Andrew NG 的最佳课程进入 AI.
+32. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) 亚历克斯·斯莫拉 (Alex Smola) 和穆力 (2019)
+33. [Machine Learning for Mere Mortals video course](https://www.manning.com/livevideo/machine-learning-for-mere-mortals) 通过尼克蔡斯
+34. [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) -谷歌人工智能
+35. [Deep Learning from the Foundations](https://course.fast.ai/part2) 杰里米霍华德 - Fast.ai
+36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) 3-6 个月的 Udacity 纳米学位，涵盖多门课程（2018 年）
+37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) 博·卡恩斯 (2018)
+38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) 哈坎·塞贝西
+39. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) Classpert 在线课程搜索中的深度学习在线课程列表（有些是免费的）
+40. [AWS Machine Learning](https://aws.training/machinelearning) 来自亚马逊机器学习大学的机器学习和深度学习课程
+41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - Udacity 和 Facebook AI 的深度学习入门课程
+42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle 的深度学习免费课程
+43. [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) - DS-GA 1008 · 2021 年春季 
+44. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
+45. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
 
 ### Videos and Lectures
 
-1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) 雷·库兹韦尔（Ray Kurzweil）
-2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) 吴安德
-3.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) 杰夫·欣顿（Geoff Hinton）
-4.  [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) 由Yann LeCun
-5.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) 由Yoshua Bengio
-6.  [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) 杰夫·霍金斯（Jeff Hawkins）
+1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) 雷·库兹韦尔
+2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) 吴恩达
+3.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton
+4.  [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) 作者：Yann LeCun
+5.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) 约书亚·本吉奥
+6.  [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) 通过杰夫霍金斯
 7.  [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) 通过亚当科茨
-8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates
-9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates
-10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) 扬·勒村（Yann LeCun）
-11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) 作者：Geoffrey Hinton在GoogleTechTalks上
-12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) TEDx布鲁塞尔的杰里米·霍华德（Jeremy Howard）
-13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) 吴安德（Andrew Ng）在斯坦福大学（2011）
-14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) 斯坦福大学的克里斯·曼宁
-15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) 娜塔莉·哈默尔（Natalie Hammel）和洛林·尤申斯基（Lorraine Yurshansky）
-16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) 由斯坦福大学VLAB的Steve Jurvetson（和小组）撰写.
-17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) 摩托罗拉移动总部的Leo Isikdogan
-18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) -NIPS 2016
-19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)：Leo Isikdogan在YouTube上举办的一系列微型讲座（2018）
-20. [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) 奥利弗·齐格曼（Oliver Zeigermann）
-21. [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)：现场视频课程，教您如何使用功能强大的Keras库及其R语言界面将深度学习应用于文本和图像.
-22. [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b) ：本教程的风格是关于具有深度学习的医学成像的研究生讲座. 这将涵盖流行的医学图像领域（胸部X射线和组织学）的背景，以及解决多模式/视图，分割和计数任务的方法.
-23. [Deepmind x UCL Deeplearning](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)：2020版本 
-24. [Deepmind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)：深度强化学习
-25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) 课程：11-785，Bhiksha Raj撰写的深度学习入门 
-26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) ：最终部分着重于深度学习作者：Andrew Ng
+8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) 亚当·科茨
+9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) 亚当·科茨
+10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) 作者：Yann LeCun
+11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) 作者：GoogleTechTalks 的 Geoffrey Hinton
+12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) 杰里米霍华德在 TEDxBrussels
+13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) Andrew Ng 在斯坦福（2011 年）
+14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) 克里斯·曼宁（Chris Manning）在斯坦福
+15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) 娜塔莉·哈梅尔和洛林·尤尔尚斯基
+16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) 斯坦福 VLAB 的 Steve Jurvetson（和小组）.
+17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) 作者：摩托罗拉移动总部的 Leo Isikdogan
+18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
+19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): Leo Isikdogan 在 YouTube 上的一系列迷你讲座（2018 年）
+20. [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) 作者：奥利弗指标人
+21. [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)：一个实时视频课程，教授如何使用强大的 Keras 库及其 R 语言界面将深度学习应用于文本和图像.
+22. [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b) ：本教程的风格是关于深度学习医学成像的研究生讲座. 这将涵盖流行医学图像领域（胸部 X 射线和组织学）的背景以及处理多模态/视图、分割和计数任务的方法.
+23. [Deepmind x UCL Deeplearning](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): 2020 版 
+24. [Deepmind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb): 深度强化学习
+25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) 课程：11-785，Bhiksha Raj 的深度学习介绍 
+26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : 结尾部分侧重于深度学习 作者 Andrew Ng
+27. [What is Neural Structured Learning by Andrew Ferlitsch](https://youtu.be/LXWSE_9gHd0)
+28. [Deep Learning Design Patterns by Andrew Ferlitsch](https://youtu.be/_DaviS6K0Vc)
+29. [Architecture of a Modern CNN: the design pattern approach by Andrew Ferlitsch](https://youtu.be/QCGSS3kyGo0)
+30. [Metaparameters in a CNN by Andrew Ferlitsch](https://youtu.be/K1PLeggQ33I)
+31. [Multi-task CNN: a real-world example by Andrew Ferlitsch](https://youtu.be/dH2nuI-1-qM)
+32. [A friendly introduction to deep reinforcement learning by Luis Serrano](https://youtu.be/1FyAh07jh0o)
+33. [What are GANs and how do they work? by Edward Raff](https://youtu.be/f6ivp84qFUc)
+34. [Coding a basic WGAN in PyTorch by Edward Raff](https://youtu.be/7VRdaqMDalQ)
+35. [Training a Reinforcement Learning Agent by Miguel Morales](https://youtu.be/8TMT-gHlj_Q)
 
 ### Papers
-*您还可以从以下位置找到引用最多的深度学习论文 [here](https://github.com/terryum/awesome-deep-learning-papers)*
+*您还可以从以下网站找到被引用次数最多的深度学习论文 [here](https://github.com/terryum/awesome-deep-learning-papers)*
 
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
@@ -173,6 +192,10 @@
 46. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 47. [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
 48. [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
+49. [VOLO: Vision Outlooker for Visual Recognition](https://arxiv.org/pdf/2106.13112.pdf)
+50. [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
+51. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)
+52. [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf?fbclid=IwAR0colWFHPGBCB1APZq9JVsWeWtmeZd9oCTNQvR52T5PRUJP_dLOwB8pt0I)
 
 ### Tutorials
 
@@ -197,7 +220,7 @@
 18. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 19. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
 20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
-21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://medium.com/sicara/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 22. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
 23. [Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
 24. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
@@ -340,7 +363,7 @@
 16.  [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
 17.  [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
 18.  [AI Weekly](http://aiweekly.co)
-19.  [stat.ucla.edu](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
+19.  [stat.ucla.edu](http://statistics.ucla.edu/)
 20.  [deeplearning.cs.toronto.edu](http://deeplearning.cs.toronto.edu/i2t)
 21.  [jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
 22.  [visualqa.org](http://www.visualqa.org/)
@@ -359,15 +382,16 @@
 35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 37.  [The Epic Code](https://theepiccode.com/)
+38.  [all AI news](https://allainews.com/)
 
 ### Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) 手写数字
-2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) 从街景
+2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) 从街景看
 3.  [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
 4.  [IMAGENET](http://www.image-net.org/)
-5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 8000万个小图像6.  
-6.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 1亿Yahoo数据集
+5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 8000 万张微小图像6.  
+6.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 1亿个雅虎数据集
 7.  [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 8.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 9.  [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
@@ -377,112 +401,121 @@
 13. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
 14. [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
 15. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
-16. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html)  -空运数据集是光线追踪的图像序列，以及基于纹理特征的地面真相分割.  （455张图片+ GT，每张160x120像素）.  （格式：PNG）  
-17. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/)  -ALOI是一千个小物体的彩色图像集合，出于科学目的而记录. 为了捕获物体记录中的感官变化，我们系统地改变了每个物体的视角，照明角度和照明颜色，并另外捕获了宽基线立体图像. 我们记录了每个对象的一百多幅图像，总共收集了110,250张图像.  （格式：png）
-18. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/)  -使用AAM-API通过各种ASM / AAM分析补充了大多数图像和注释.  （格式：bmp，asf）
+16. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html)  - 空运数据集是一个光线追踪图像序列以及基于纹理特征的地面实况分割.  （455 张图片 + GT，每张 160x120 像素）.  （格式：PNG）  
+17. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/)  - ALOI 是一千个小物体的彩色图像集合，为科学目的而记录. 为了捕捉物体记录中的感官变化，我们系统地改变每个物体的视角、照明角度和照明颜色，并额外捕捉宽基线立体图像. 我们记录了每个物体的一百多张图像，总共产生了 110,250 张图像用于收藏.  （格式：png）
+18. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/)  - 大多数图像和注释都通过使用 AAM-API 的各种 ASM/AAM 分析进行补充.  （格式：bmp,asf）
 19. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)  
-21. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html)  -各种数据集，包括geons，对象和“ greebles”. 适合测试识别算法.  （格式：pict）
-22. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) -包含90种各种人类活动序列的90K视频帧，具有XML地面真相检测和行为分类（格式：MPEG2和JPEG）
+21. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html)  - 各种数据集，包括geons、objects和“greebles”. 适合测试识别算法.  （格式：图片）
+22. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90 个各种人类活动序列中的 90K 视频帧，具有检测和行为分类的 XML 基本事实（格式：MPEG2 和 JPEG）
 23. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
-25. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) -8张图像（格式：gif）
-26. [CMU CIL's Stereo Data with Ground Truth](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/cil-ster.html) -3组11张图像，包括具有分光光度法的彩色tiff图像（格式：gif，tiff）
-27. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) -在13种姿势，43种光照条件下，用4种不同表情拍摄的68368人的41368张面部图像数据库.
-28. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) -图像，序列，立体声对（数千个图像）（格式：Sun Rasterimage）
-29. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html)  -约20张图片-大多数是小物件和玩具的俯视图.  （格式：GIF）
-30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/)  -对超过60种3D纹理样本的纹理和反射率测量，可以通过200多种观察和照明方向组合进行观察.  （格式：bmp）
-31. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html)  -面向计算色彩恒定性的数据集，但通常对计算机视觉很有用. 它包括合成数据，相机传感器数据和700多个图像.  （格式：tiff）
+25. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 张图片（格式：gif）
+26. [CMU CIL's Stereo Data with Ground Truth](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/cil-ster.html) - 3 组 11 幅图像，包括带有光谱辐射测量的彩色 tiff 图像（格式：gif、tiff）
+27. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - 在 13 种姿势、43 种照明条件和 4 种不同表情下拍摄的 68 个人的 41,368 张人脸图像的数据库.
+28. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - 图像、序列、立体对（数千张图像）（格式：Sun Rasterimage）
+29. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html)  - 大约 20 张图片 - 大部分是小物件和玩具的俯视图.  （格式：GIF）
+30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/)  - 超过 60 个 3D 纹理样本的纹理和反射率测量，通过超过 200 种不同的观察和照明方向组合进行观察.  （格式：bmp）
+31. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html)  - 面向计算颜色恒常性的数据集，但通常对计算机视觉有用. 它包括合成数据、相机传感器数据和 700 多张图像.  （格式：tiff）
 32. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
-34. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg)
+34. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/)  - 11 组彩色图像，用于测试基于内容的检索算法. 大多数集合都有一个描述文件，其中包含每个图像中的对象名称.  （格式：jpg）
 35. [Efficient Content-based Retrieval Group](http://www.cs.washington.edu/research/imagedatabase/)
-37. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html)  -密集采样的视角球-两个玩具对象的视角球的上半部分，每个都有2500张图像.  （格式：tiff）
+37. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html)  - 密集采样的视野球 - 两个玩具对象的视野球的上半部分，每个有 2500 张图像.  （格式：tiff）
 38. [Computer Science VII (Graphical Systems)](http://ls7-www.cs.uni-dortmund.de/)
-40. [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html)  -数字胚胎是可用于开发和测试物体识别系统的新颖物体. 它们具有有机外观.  （格式：可根据要求提供各种格式）
+40. [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html)  - 数字胚胎是可用于开发和测试对象识别系统的新对象. 它们具有有机外观.  （格式：可根据要求提供各种格式）
 41. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/users/kersten//kersten-lab/kersten-lab.html) 
-42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com)  -从胃肠道视频内窥镜检查获得的研究结果的图像和视频.  （格式：jpg，mpg，gif）
-43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm)  -数据库包含1002张面部图像，显示不同年龄的对象.  （格式：jpg）
-44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/)  -FVC2000是首个国际指纹验证算法竞赛. 四个指纹数据库构成FVC2000基准（总共3520个指纹）.
-45. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) -博洛尼亚大学
-46. [Face and Gesture images and image sequences](http://www.fg-net.org) -几个面部和手势的图像数据集，标有基本事实，用于基准测试
-47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html)  -数据库包含35个手势，并且由1400个图像序列组成，这些图像序列包含在不均匀的日光照明条件下记录的20个不同人物的手势.  （格式：mpg，jpg）  
+42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com)  - 从胃肠视频内窥镜检查中获取的研究成果的图像和视频.  （格式：jpg、mpg、gif）
+43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm)  - 数据库包含 1002 张不同年龄的人脸图像.  （格式：jpg）
+44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/)  - FVC2000 是首届国际指纹验证算法竞赛. 四个指纹数据库构成了 FVC2000 基准测试（总共 3520 个指纹）.
+45. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) - 博洛尼亚大学
+46. [Face and Gesture images and image sequences](http://www.fg-net.org) - 几个面部和手势的图像数据集，这些图像数据集被标注为基准测试
+47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html)  - 该数据库包含 35 个手势，由 1400 个图像序列组成，其中包含在非均匀日光照明条件下记录的 20 个不同人的手势.  （格式：mpg，jpg）  
 48. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
-50. [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) -4000 + 1536x1024（16位）校准的室外图像（格式：自制）
-51. [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/~schindler/Data) -从不同的观看高度出发的2个转盘序列，每个序列36张图像，分辨率1000x750，彩色（格式：PPM）
+50. [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024（16 位）校准的户外图像（格式：自制）
+51. [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/~schindler/Data) - 来自不同观看高度的 2 个转盘序列，每个 36 个图像，分辨率 1000x750，彩色（格式：PPM）
 52. [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
-54. [IEN Image Library](http://www.ien.it/is/vislib/) -1000幅以上的图像，主要是室外序列（格式：原始，ppm）  
-55. [INRIA's Syntim images database](http://www-rocq.inria.fr/~tarel/syntim/images.html) -简单对象的15彩色图像（格式：gif）
+54. [IEN Image Library](http://www.ien.it/is/vislib/) - 1000 多张图像，主要是户外序列（格式：原始、ppm）  
+55. [INRIA's Syntim images database](http://www-rocq.inria.fr/~tarel/syntim/images.html) - 简单对象的 15 色图像（格式：gif）
 56. [INRIA](http://www.inria.fr/)
-57. [INRIA's Syntim stereo databases](http://www-rocq.inria.fr/~tarel/syntim/paires.html) -34个校准的彩色立体声对（格式：gif）
-58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html)  -从各种成像方式获得的图像-原始CFA图像，范围图像和大量“医学图像”.  （格式：自制）
+57. [INRIA's Syntim stereo databases](http://www-rocq.inria.fr/~tarel/syntim/paires.html) - 34 个校准的彩色立体声对（格式：gif）
+58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html)  - 从各种成像方式获得的图像——原始 CFA 图像、范围图像和大量“医学图像”.  （格式：自制）
 59. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging)
-61. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) -包含一些纹理的图像数据库  
-62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html)  -JAFFE数据库包含213张日本女性受试者的图像，这些图像构成了6种基本面部表情以及中性姿势. 出于研究目的，还免费提供情绪形容词的评级.  （格式：TIFF灰度图像.）
+61. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - 包含一些纹理的图像数据库  
+62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html)  - JAFFE 数据库包含 213 张日本女性受试者的图像，其中包括 6 种基本面部表情以及中性姿势. 出于研究目的，也可以免费获得情绪形容词的评级.  （格式：TIFF 灰度图像.）
 63. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
-64. [JISCT Stereo Evaluation](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.vislist.com/IMAGERY/JISCT/)  -44个图像对. 这些数据已用于立体分析的评估中，如RCBolles，HHBaker和MJHannah（263--274）在1993年4月的ARPA图像理解研讨会论文``JISCT立体声评估&#39;&#39;中所述（格式：SSI）
-65. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) -图片存档（超过100张图片）（格式：ppm）
-66. [MIT face images and more](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://whitechapel.media.mit.edu/pub/images) -数百张图像（格式：自制）
-67. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) -Jain，Kasturi，Schunck教科书中的图片（超过20张图片）（格式：GIF TIFF）
-68. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html)  -具有地面真相的100幅或更多乳房X线照片. 可根据要求提供其他图像，并提供指向其他几个乳房X线照相术数据库的链接.  （格式：自制）
-69. [https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip) -许多图像（格式：未知）
-70. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html)  -包含平面区域的场景的六个多帧立体数据集. 每个数据集包含9幅彩色图像和亚像素精度的地面数据.  （格式：ppm）
-71. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) -米德伯里学院
-72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) -来自世界各地的高海拔影像，用于环境建模，以支持NASA EOS程序（格式：JPG和HDF）
-73. [NIST Fingerprint and handwriting](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sequoyah.ncsl.nist.gov/pub/databases/data) -数据集-数千张图像（格式：未知）
-74. [NIST Fingerprint data](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) -压缩的多部分uuencoded tar文件
-75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) -颜色，CAT和MRI图像样本-超过30张图像（格式：jpeg）
-76. [National Design Repository](http://www.designrepository.org)  -超过55,000个3D CAD和（主要是）机械/机械工程设计的实体模型.  （格式：gif，vrml，wrl，stp，sat） 
+64. [JISCT Stereo Evaluation](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.vislist.com/IMAGERY/JISCT/)  - 44 个图像对. 这些数据已用于立体分析的评估，如 1993 年 4 月 ARPA 图像理解研讨会论文“JISCT 立体评估”中所述，RCBolles、HHBaker 和 MJHannah，263--274（格式：SSI）
+65. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - 图像存档（100 多张图像）（格式：ppm）
+66. [MIT face images and more](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://whitechapel.media.mit.edu/pub/images) - 数百张图片（格式：自制）
+67. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - Jain、Kasturi、Schunck 的教科书图片（20 多张图片）（格式：GIF TIFF）
+68. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html)  - 100 张或更多具有真实情况的乳房 X 线照片. 可根据要求提供其他图像，并提供其他几个乳房 X 线照相术数据库的链接.  （格式：自制）
+69. [https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip) - 许多图像（格式：未知）
+70. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html)  - 六个包含平面区域的场景的多帧立体数据集. 每个数据集包含 9 个彩色图像和亚像素精度的真实数据.  （格式：ppm）
+71. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - 米德尔伯里学院
+72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - 来自世界各地的高海拔图像，用于支持 NASA EOS 计划的环境建模（格式：JPG 和 HDF）
+73. [NIST Fingerprint and handwriting](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - 数据集 - 数千张图像（格式：未知）
+74. [NIST Fingerprint data](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - 压缩的多部分 uuencoded tar 文件
+75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - 彩色、CAT 和 MRI 图像样本 - 超过 30 张图像（格式：jpeg）
+76. [National Design Repository](http://www.designrepository.org)  - 超过 55,000 个 3D CAD 和（大部分）机械/机加工工程设计的实体模型.  （格式：gif、vrml、wrl、stp、sat） 
 77. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu)
-79. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) -几年来收集的几套3D对象模型用于对象识别研究（格式：自制软件，VRML）
-80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) -数百张真实和合成图像（格式：gif，自制）
-81. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) -超过1000种范围的图像，3D对象模型，静止图像和运动序列（格式：gif，ppm，vrml，自制软件）
+79. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) - 多年来收集的多组 3D 对象模型，用于对象识别研究（格式：自制软件、vrml）
+80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - 数以百计的真实和合成图像（格式：gif、自制）
+81. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) - 超过 1000 个范围图像、3D 对象模型、静止图像和运动序列（格式：gif、ppm、vrml、自制软件）
 82. [Signal Analysis and Machine Perception Laboratory](http://sampl.eng.ohio-state.edu)
-84. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html)  -具有机器可读的地面真实光流场的合成和真实序列，以及为新序列生成地面真实的工具.  （格式：ppm，tif，自制）
+84. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html)  - 具有机器可读地面实况光流场的合成和真实序列，以及为新序列生成地面实况的工具.  （格式：ppm、tif、自制）
 85. [Vision Research Group](http://www.cs.otago.ac.nz/research/vision/index.html)
-87. [https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/)  -用于测试“粒子图像测速”应用程序的真实和合成图像序列. 这些图像可用于测试光流和图像匹配算法.  （格式：pgm（原始））
+87. [https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/)  - 用于测试粒子图像测速应用程序的真实和合成图像序列. 这些图像可用于测试光流和图像匹配算法.  （格式：pgm（原始））
 88. [LIMSI-CNRS/CHM/IMM/vision](http://www.limsi.fr/Recherche/IMM/PageIMM.html)
 89. [LIMSI-CNRS](http://www.limsi.fr/)
-90. [Photometric 3D Surface Texture Database](http://www.taurusstudio.net/research/pmtexdb/index.htm)  -这是第一个3D纹理数据库，提供完整的真实表面旋转和已注册的光度立体数据（30个纹理，1680张图像）.  （格式：TIFF）
-91. [SEQUENCES FOR OPTICAL FLOW ANALYSIS (SOFA)](http://www.cee.hw.ac.uk/~mtc/sofa)  -9个合成序列设计用于测试运动分析应用程序，包括运动的完整地面真相和摄像机参数.  （格式：gif）
+90. [Photometric 3D Surface Texture Database](http://www.taurusstudio.net/research/pmtexdb/index.htm)  - 这是第一个提供完整真实表面旋转和注册光度立体数据（30 个纹理，1680 个图像）的 3D 纹理数据库.  （格式：TIFF）
+91. [SEQUENCES FOR OPTICAL FLOW ANALYSIS (SOFA)](http://www.cee.hw.ac.uk/~mtc/sofa)  - 9 个合成序列，专为测试运动分析应用程序而设计，包括运动和相机参数的完整真实情况.  （格式：gif）
 92. [Computer Vision Group](http://www.cee.hw.ac.uk/~mtc/research.html)
-94. [Sequences for Flow Based Reconstruction](http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html) -用于从运动算法测试结构的合成序列（格式：pgm）
-95. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/)  -走廊的一小组合成图像，其中添加了不同数量的噪声. 使用这些图像对您的立体声算法进行基准测试.  （格式：原始，viff（khoros）或tiff）
-96. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) -从网络上可用的高分辨率多边形模型获取的合成范围图像的集合（格式：自制）
+94. [Sequences for Flow Based Reconstruction](http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html) - 用于从运动算法测试结构的合成序列（格式：pgm）
+95. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/)  - 一小组走廊的合成图像，添加了不同数量的噪声. 使用这些图像对您的立体算法进行基准测试.  （格式：raw、viff (khoros) 或 tiff）
+96. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) - 从网络上可用的高分辨率多边形模型中获取的合成范围图像集合（格式：自制）
 97. [Department Image Understanding](http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html)
-99. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html)  -包含4,000张彩色图像，分别对应126人的面孔（70位男性和56位女性）. 具有面部表情，照明和遮挡的正面视图.  （格式：RAW（RGB 24-bit））
+99. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html)  - 包含 4,000 多幅彩色图像，对应 126 个人脸（70 名男性和 56 名女性）. 具有面部表情、照明和遮挡变化的正面视图.  （格式：RAW（RGB 24 位））
 100. [Purdue Robot Vision Lab](http://rvl.www.ecn.purdue.edu/RVL/)
-101. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html)  -用于测试多类目标检测和场景识别算法的数据库. 带有7873个带注释帧的超过72,000张图像. 超过50种带注释的对象类.  （格式：jpg）
-102. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/)  -在三种不同的照明条件下（漫射/环境/定向）拍摄的100个对象的300多个真实图像的集合.  -使用这些图像测试用于检测和补偿彩色图像中镜面反射高光的算法.  （格式：TIFF）
+101. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html)  - 用于测试多类对象检测和场景识别算法的数据库. 超过 72,000 张图像，带有 2873 个带注释的帧. 超过 50 个带注释的对象类.  （格式：jpg）
+102. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/)  - 在三种不同的照明条件（漫反射/环境/定向）下拍摄的 100 个物体的 300 多幅真实图像的集合.  -- 使用这些图像来测试用于检测和补偿彩色图像中的镜面高光的算法.  （格式：TIFF）
 103. [Robot Vision Laboratory](http://rvl1.ecn.purdue.edu/RVL/)
-105. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk)  -XM2VTSDB包含四个数字记录，在四个月的时间内拍摄了295人. 该数据库包含面部的图像和视频数据.
+105. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk)  - XM2VTSDB 包含四个月内 295 人的四个数字录音. 该数据库包含人脸的图像和视频数据.
 106. [Centre for Vision, Speech and Signal Processing](http://www.ee.surrey.ac.uk/Research/CVSSP)
-107. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) -数以千计的数字化交通图像序列序列以及“大理石块”序列（灰度图像）（格式：GIF）
+107. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) - 数千帧数字化交通图像序列以及“大理石块”序列（灰度图像）（格式：GIF）
 108. [IAKS/KOGS](http://i21www.ira.uka.de)
-110. [U Bern Face images](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.iam.unibe.ch/pub/Images/FaceImages) -数百张图像（格式：Sun rasterfile）
-111. [U Michigan textures](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://freebie.engin.umich.edu/pub/misc/textures) （格式：原始压缩）
-112. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) -包括分类-1000多种彩色图像（格式：ppm）
-113. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html)  -用于使用预定义的地面真实性进行图像检索的基准数据库.  （格式：tiff）
-115. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/)  -具有航空，太空，立体，医学图像等的大型图像数据库.  （格式：自制）
-116. [UNC's 3D image database](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) -许多图像（格式：GIF）
-117. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) -80个图像集（格式：Sun rasterimage）
-118. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) -包含在不同光源和相机校准条件下人脸的彩色图像，以及每个人的皮肤光谱反射率测量值.
+110. [U Bern Face images](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.iam.unibe.ch/pub/Images/FaceImages) - 数百张图片（格式：Sun rasterfile）
+111. [U Michigan textures](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://freebie.engin.umich.edu/pub/misc/textures) （格式：压缩原始）
+112. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) - 包括分类 - 1000 多幅彩色图像（格式：ppm）
+113. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html)  - 具有预定义基本事实的图像检索基准数据库.  （格式：tiff）
+115. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/)  - 包含航空、空间、立体、医学图像等的大型图像数据库.  （格式：自制）
+116. [UNC's 3D image database](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - 许多图像（格式：GIF）
+117. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 个图像集（格式：太阳光栅图像）
+118. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - 包含不同光源和相机校准条件下的面部彩色图像以及每个人的皮肤光谱反射率测量值.
 119. [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
-121. [University of Oulu Texture Database](http://www.outex.oulu.fi)  -320个表面纹理的数据库，每个表面纹理均在三种光源，六种空间分辨率和九种旋转角度下捕获. 还提供了一组测试套件，以便可以以标准方式测试纹理分割，分类和检索算法.  （格式：bmp，ras，xv）
+121. [University of Oulu Texture Database](http://www.outex.oulu.fi)  - 包含 320 个表面纹理的数据库，每个纹理在三个光源、六个空间分辨率和九个旋转角度下捕获. 还提供了一组测试套件，以便可以以标准方式测试纹理分割、分类和检索算法.  （格式：bmp、ras、xv）
 122. [Machine Vision Group](http://www.ee.oulu.fi/mvg)
-124. [Usenix face database](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.uu.net/published/usenix/faces) -来自许多不同地点的数千张人脸图像（大约994年）
-125. [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html)  -从许多不同的角度看到的8个对象的图像. 使用具有172个图像/球的测地线对视球进行采样. 提供两组训练和测试.  （格式：ppm）
+124. [Usenix face database](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.uu.net/published/usenix/faces) - 来自许多不同站点的数千张面部图像（大约 994）
+125. [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html)  - 从许多不同的角度看到的 8 个物体的图像. 使用测地线对视图球体进行采样，每个球体有 172 个图像. 有两套用于训练和测试.  （格式：ppm）
 126. [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
-127. [Vision-list Imagery Archive](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.vislist.com/IMAGERY/) -许多图像，多种格式
-128. [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm)  -成千上万的手推车，梯子，凳子，自行车，椅子和凌乱的场景的图像，边缘和区域带有地面真相标签.  （格式：jpg）
+127. [Vision-list Imagery Archive](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.vislist.com/IMAGERY/) - 许多图像，许多格式
+128. [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm)  - 数以千计的手推车、梯子、凳子、自行车、椅子和杂乱场景的图像，并带有边缘和区域的真实标签.  （格式：jpg）
 129. [3D Vision Group](http://www.cs.cmu.edu/0.000000E+003dvision/)
-131. [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) -具有不同光照，表情和遮挡配置的165张图像（15个人）.
-132. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html)  -在576个观看条件下（9个姿势x 64个照明条件）分别观看了10760个对象的5760个单光源图像.  （格式：PGM）
+131. [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) - 165 张图像（15 个人）具有不同的照明、表情和遮挡配置.
+132. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html)  - 在 576 种观看条件（9 种姿势 x 64 种照明条件）下看到的 10 个主题的 5760 张单光源图像.  （格式：PGM）
 133. [Center for Computational Vision and Control](http://cvc.yale.edu/)
-134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data)  -来自CNN和DailyMail的文字质量检查语料库. 总共超过30万个文档. [Paper](http://arxiv.org/abs/1506.03340) 以供参考.
-135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) -YouTube-8M是一个带有标签的大规模视频数据集，包含800万个YouTube视频ID和来自4800个视觉实体的多种词汇的相关标签.
-136. [Open Images dataset](https://github.com/openimages/dataset) -Open Images是约900万个URL的数据集，这些URL的图像已用6000多个类别的标签进行了注释.
-137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) -VOC2012数据集包含12k图像和20个带注释的类，用于对象检测和分割.
-138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)  -MNIST之类的时尚产品数据集，包含60,000个示例的训练集和10,000个示例的测试集. 每个示例都是一个28x28灰度图像，与来自10个类别的标签相关联.
-139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)  -包含超过800,000种多样的时尚图片. 该数据集中的每幅图像都标记有50个类别，1,000个描述性属性，边界框和服装地标
-140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) -包含约一千万种使用以下内容分类的新闻文章 [opensources.co](http://opensources.co) 类型
+134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data)  - 来自 CNN 和 DailyMail 的文本质量保证语料库. 总共超过 300K 的文档. [Paper](http://arxiv.org/abs/1506.03340) 以供参考.
+135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M 是一个大规模的标记视频数据集，由 800 万个 YouTube 视频 ID 和来自 4800 个视觉实体的不同词汇的相关标签组成.
+136. [Open Images dataset](https://github.com/openimages/dataset) - Open Images 是一个包含约 900 万个图像 URL 的数据集，这些图像已使用跨越 6000 多个类别的标签进行注释.
+137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 数据集包含 12k 图像和 20 个用于对象检测和分割的注释类.
+138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)  - 类似于 MNIST 的时尚产品数据集，由 60,000 个示例的训练集和 10,000 个示例的测试集组成. 每个示例都是一个 28x28 灰度图像，与来自 10 个类别的标签相关联.
+139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)  - 包含超过 800,000 张不同的时尚图片. 该数据集中的每张图像都标有 50 个类别、1,000 个描述性属性、边界框和服装地标
+140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - 包含大约 1000 万篇使用分类的新闻文章 [opensources.co](http://opensources.co) 类型
+141. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) - 15488 幅可见红外配对图像（30976 幅图像）用于低光视觉研究， [Project_Page](https://bupt-ai-cz.github.io/LLVIP/)
+142. [MSDA](https://github.com/bupt-ai-cz/Meta-SelfLearning) - 来自 5 个不同领域的超过 500 万张图像用于多源 ocr/文本识别 DA 研究， [Project_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
+143. [SANAD: Single-Label Arabic News Articles Dataset for Automatic Text Categorization](https://data.mendeley.com/datasets/57zpx667y9/2)  - SANAD 数据集是大量阿拉伯新闻文章的集合，可用于不同的阿拉伯 NLP 任务，例如文本分类和词嵌入. 这些文章是使用专门为三个流行新闻网站编写的 Python 脚本收集的：AlKhaleej、AlArabiya 和 Akhbarona. 
+144. [Referit3D](https://referit3d.github.io)  - 两个大规模互补的视觉语言数据集（又名 Nr3D 和 Sr3D），用于识别 ScanNet 场景中的细粒度 3D 对象.  Nr3D 包含 41.5K 自然、自由形式的话语，而 Sr3d 包含 83.5K 基于模板的话语.
+145. [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - 斯坦福大学发布了约 100,000 个英语 QA 对和约 50,000 个无法回答的问题
+146. [FQuAD](https://fquad.illuin.tech/) - Illuin Technology 发布了约 25,000 对法国 QA 对
+147. [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad) - deepset 发布了约 14,000 个德国 QA 对
+148. [SberQuAD](https://github.com/annnyway/QA-for-Russian) - Sberbank 发布了约 90,000 对俄罗斯 QA 对
+149. [ArtEmis](http://artemisdataset.org/) - 包含 450K 情感反应的情感注释和 80,000 幅 WikiArt 艺术品的语言解释.
 
 ### Conferences
 
@@ -568,20 +601,26 @@
 64.  [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax)
 65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
+67.  [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI)
+68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
+69.  [Maze](https://github.com/enlite-ai/maze) - 面向应用的深度强化学习框架，解决现实世界的决策问题.
+70.  [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching](https://github.com/chncwang/InsNet)
 
 ### Tools
 
-1.  [Netron](https://github.com/lutzroeder/netron) -用于深度学习和机器学习模型的可视化工具
-2.  [Jupyter Notebook](http://jupyter.org) -用于交互式计算的基于Web的笔记本环境
-3.  [TensorBoard](https://github.com/tensorflow/tensorboard) -TensorFlow的可视化工具包
-4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) -开发，调试和部署深度学习和AI解决方案
-5.  [TensorWatch](https://github.com/microsoft/tensorwatch) -深度学习的调试和可视化
-6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) -用于机器学习和数据科学的基于Web的多合一IDE.
-7.  [dowel](https://github.com/rlworkgroup/dowel)  -用于机器学习研究的小记录器. 只需调用一次logger.log（），即可将任何对象记录到控制台，CSV，TensorBoard，文本日志文件等中.
-8.  [Neptune](https://neptune.ml/) -用于实验跟踪和结果可视化的轻量级工具. 
-9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) -浏览器扩展（[Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) 和 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds 和 links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
-10. [Determined](https://github.com/determined-ai/determined) -深度学习培训平台，集成支持分布式培训，超参数调整，智能GPU调度，实验跟踪和模型注册表.
-11. [DAGsHub](https://dagshub.com/) -开源ML社区平台–管理实验，数据和模型，并轻松创建协作ML项目.
+1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - 易于使用的库，可利用多个深度学习编译器促进深度学习推理.
+2.  [Netron](https://github.com/lutzroeder/netron) - 深度学习和机器学习模型的可视化工具
+2.  [Jupyter Notebook](http://jupyter.org) - 用于交互式计算的基于 Web 的笔记本环境
+3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow 的可视化工具包
+4.  [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - 开发、调试和部署深度学习和人工智能解决方案
+5.  [TensorWatch](https://github.com/microsoft/tensorwatch) - 深度学习的调试和可视化
+6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 用于机器学习和数据科学的多合一基于 Web 的 IDE.
+7.  [dowel](https://github.com/rlworkgroup/dowel)  - 用于机器学习研究的小记录器. 只需一次调用 `logger.log()` 即可将任何对象记录到控制台、CSV、TensorBoard、文本日志文件等
+8.  [Neptune](https://neptune.ai/) - 用于实验跟踪和结果可视化的轻量级工具. 
+9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - 浏览器扩展（[Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) 和 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds 和 links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
+10. [Determined](https://github.com/determined-ai/determined) - 深度学习训练平台，集成支持分布式训练、超参数调优、智能 GPU 调度、实验跟踪和模型注册.
+11. [DAGsHub](https://dagshub.com/) - 开源机器学习社区平台——管理实验、数据和模型并轻松创建协作机器学习项目.
+12. [hub](https://github.com/activeloopai/Hub)  - 由 activeloop.ai 为 TensorFlow/PyTorch 提供最快的非结构化数据集管理. 流和版本控制数据. 将大数据转换为云上单个类似 numpy 的数组，可在任何机器上访问.
 
 ### Miscellaneous
 
@@ -616,24 +655,25 @@
 30. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 31. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
 32. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-33. [Dockerface](https://github.com/natanielruiz/dockerface) -易于安装和使用深度学习对Docker容器中的图像和视频进行更快的R-CNN人脸检测.
-34. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) -与音乐相关的深度学习科学研究相关文章的精选清单
-35. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) -与图级别的图结构化数据的深度学习科学研究相关的文章的精选清单.
-36. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) -与节点级别的图结构化数据的深度学习科学研究相关的文章的精选清单.
-37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) 包含用于构建推荐系统的示例，实用程序和最佳实践. 提供了几种最新算法的实现，可以在您自己的应用程序中进行自学习和自定义.
-38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) -Andrej Karpathy有关使用RNN生成文本的博客文章.
-39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) -Keras实现阶梯式网络进行半监督学习 
+33. [Dockerface](https://github.com/natanielruiz/dockerface) - 易于安装和使用深度学习 Faster R-CNN 人脸检测，用于 docker 容器中的图像和视频.
+34. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - 与应用于音乐的深度学习科学研究相关的精选文章列表
+35. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 精选的与图形级别的图形结构化数据的深度学习科学研究相关的文章列表.
+36. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - 与节点级别的图形结构化数据的深度学习科学研究相关的文章列表.
+37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) 包含构建推荐系统的示例、实用程序和最佳实践. 提供了几种最先进算法的实现，用于在您自己的应用程序中进行自学和定制.
+38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - 关于使用 RNN 生成文本的 Andrej Karpathy 博客文章.
+39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - 用于半监督学习的梯形网络的 Keras 实现 
 40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) -成为人工智能专家的路线图
+42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
+43. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
 
 -----
 ### Contributing
-您有什么想法很不错，并且适合该列表吗？ 随时发送 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
+有什么您认为很棒并且适合此列表的内容吗？ 随意发送 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
 
 -----
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Christos Christofidis](https://linkedin.com/in/Christofidis) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Christos Christofidis](https://linkedin.com/in/Christofidis) 已放弃本作品的所有版权和相关或邻近权利.

@@ -15,7 +15,7 @@
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) - 用于构建客户端 Web 应用程序的 Rust / WebAssembly 框架.
-- [Live demo](https://yew-todomvc.netlify.com) - todomvc 演示.
+- [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) - 官方回购中包含的较小示例.
 - [API Docs](https://docs.rs/yew) - docs.rs 上的文档.
 - [Website](https://yew.rs/) - 官方网站.
@@ -48,7 +48,7 @@
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - 使用 Rust、Wasm 和 Yew 编写的单页应用程序 (SPA).
-- [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以在其中找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
+- [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) - 这是一个 Rust / Wasm 客户端 Web 应用程序，它是一个任务控制中心.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) - 在线将您的标记转换为 Yew 宏，该宏也是由 Yew 制作的.
@@ -75,6 +75,7 @@
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款真实的派对游戏，玩家可以在其中尽可能快地猜测图像的内容. 
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 一个用 Rust 编写的快速打字网络应用程序.
+- [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - 这是 wecome KM ITB 的 monorepo， [Live Demo](https://wecome-itb.com/).
 
 ## Templates
 
@@ -166,7 +167,7 @@
 ## Books
 
 - [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - 使用 Web 并生成 .wasm 文件.
-- [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - How to bind Rust and JavaScript APIs.
+- [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - 如何绑定 Rust 和 JavaScript API.
 - [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - 如何构建和使用 rust 生成的 WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 包括“与 Yew 的高级 JavaScript 集成”一章，介绍如何使用 Yew 创建应用程序.
 - [Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/) - 第 5 章，`使用 Yew 创建客户端 WebAssembly 应用程序`.
