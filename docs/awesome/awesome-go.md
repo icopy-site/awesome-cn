@@ -132,7 +132,6 @@ _用于实现身份验证方案的库._
 - [scs](https://github.com/alexedwards/scs) - HTTP 服务器的会话管理器.
 - [securecookie](https://github.com/chmike/securecookie) - 高效的安全 cookie 编码/解码.
 - [session](https://github.com/icza/session) - Web 服务器的 Go 会话管理（包括对 Google App Engine - GAE 的支持）.
-- [sessiongate-go](https://github.com/f0rmiga/sessiongate-go) - 使用 SessionGate Redis 模块进行会话管理.
 - [sessions](https://github.com/adam-hanna/sessions) - 用于 go http 服务器的简单、高性能、高度可定制的会话服务.
 - [sessionup](https://github.com/swithek/sessionup) - 简单而有效的 HTTP 会话管理和识别包.
 - [sjwt](https://github.com/brianvoe/sjwt) - 简单的 jwt 生成器和解析器.
@@ -390,7 +389,7 @@ _用于预处理 CSS 文件的库._
 - [bloom](https://github.com/yourbasic/bloom) - Golang 布隆过滤器实现.
 - [bloomfilter](https://github.com/OldPanda/bloomfilter) - Go 中的另一个 Bloomfilter 实现，与 Java 的 Guava 库兼容.
 - [boomfilters](https://github.com/tylertreat/BoomFilters) - 用于处理连续无界流的概率数据结构.
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个全面的布谷鸟过滤器，与其他工具相比可配置和空间优化，原论文中提到的所有功能都可用.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合布谷鸟过滤器，与其他工具相比可配置和空间优化，原论文中提到的所有功能都可用.
 - [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo 过滤器：Go 中实现的计数布隆过滤器的一个很好的替代方案.
 - [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
 
@@ -421,6 +420,7 @@ _用于预处理 CSS 文件的库._
 - [conjungo](https://github.com/InVisionApp/conjungo) - 一个小巧、强大且灵活的合并库.
 - [count-min-log](https://github.com/seiflotfy/count-min-log) - Go 实现 Count-Min-Log 草图：使用近似计数器进行近似计数（类似于 Count-Min 草图，但使用更少的内存）.
 - [fsm](https://github.com/cocoonspace/fsm) - 有限状态机包.
+- [genfuncs](https://github.com/nwillc/genfuncs) - 受 Kotlin 的 Sequence 和 Map 启发的 Go 1.18+ 泛型包.
 - [go-geoindex](https://github.com/hailocab/go-geoindex) - 内存中的地理索引.
 - [go-rquad](https://github.com/aurelien-rainone/go-rquad) - 具有高效点定位和邻居查找的区域四叉树.
 - [go-tuple](https://github.com/barweiss/go-tuple) - Go 1.18+ 的通用元组实现.
@@ -429,7 +429,7 @@ _用于预处理 CSS 文件的库._
 - [gota](https://github.com/kniren/gota) - 为 Go 实现数据帧、系列和数据整理方法.
 - [hide](https://github.com/emvi/hide) - 带有编组到/从散列的 ID 类型，以防止向客户端发送 ID.
 - [hilbert](https://github.com/google/hilbert) - 用于将值映射到空间填充曲线和从空间填充曲线（例如 Hilbert 和 Peano 曲线）映射的包.
-- [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间缩减的 HyperLogLog 实施.
+- [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间减少的 HyperLogLog 实施.
 - [slices](https://github.com/srfrog/slices)  - 对切片进行操作的函数； 像`package strings`，但适用于切片.
 - [slices](https://github.com/twharmon/slices) - 切片的纯通用函数.
 
@@ -458,7 +458,7 @@ _用于预处理 CSS 文件的库._
 - [bleve](https://github.com/blevesearch/bleve) - 现代文本索引库.
 - [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - 执行自适应基数树.
 - [go-edlib](https://github.com/hbollon/go-edlib) - 与 Unicode 兼容的 Go 字符串比较和编辑距离算法库（Levenshtein、LCS、Hamming、Damerau levenshtein、Jaro-Winkler 等）.
-- [levenshtein](https://github.com/agext/levenshtein) - Levenshtein 距离和相似性度量，具有可定制的编辑成本和通用前缀的 Winkler 式奖金.
+- [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 - [levenshtein](https://github.com/agnivade/levenshtein) - 在 Go 中计算 levenshtein 距离的实现.
 - [mspm](https://github.com/BlackRabbitt/mspm) - 用于信息检索的多字符串模式匹配算法.
 - [parsefields](https://github.com/MonaxGT/parsefields) - 用于解析类似 JSON 的日志以收集唯一字段和事件的工具.
@@ -738,7 +738,7 @@ _有助于构建分布式系统的软件包._
 - [go-health](https://github.com/InVisionApp/go-health) - 用于在您的服务中启用异步依赖健康检查的库.
 - [go-jump](https://github.com/dgryski/go-jump) - Google 的“跳转”一致性哈希函数的端口.
 - [go-kit](https://github.com/go-kit/kit) - 支持服务发现、负载平衡、可插拔传输、请求跟踪等的微服务工具包.
-- [go-micro](https://github.com/micro/go-micro) - A distributed systems development framework.
+- [go-micro](https://github.com/micro/go-micro) - 分布式系统开发框架.
 - [go-mysql-lock](https://github.com/sanketplus/go-mysql-lock) - 基于 MySQL 的分布式锁.
 - [go-pdu](https://github.com/pdupub/go-pdu) - 一个分散的基于身份的社交网络.
 - [go-sundheit](https://github.com/AppsFlyer/go-sundheit) - 为支持定义 golang 服务的异步服务健康检查而构建的库.
@@ -1097,7 +1097,7 @@ _与硬件交互的库、工具和教程._
 - [go-rpio](https://github.com/stianeikeland/go-rpio) - Go 的 GPIO，不需要 cgo.
 - [goroslib](https://github.com/aler9/goroslib) - Go 的机器人操作系统 (ROS) 库.
 - [joystick](https://github.com/0xcafed00d/joystick) - 一个轮询 API，用于读取连接的操纵杆的状态.
-- [sysinfo](https://github.com/zcalusic/sysinfo) - A pure Go library providing Linux OS / kernel / hardware system information.
+- [sysinfo](https://github.com/zcalusic/sysinfo) - 提供 Linux 操作系统/内核/硬件系统信息的纯 Go 库.
 
 
 ## Images
@@ -1579,7 +1579,7 @@ _使用人类语言的图书馆._
 - [gotext](https://github.com/leonelquinteros/gotext) - 用于 Go 的 GNU gettext 实用程序.
 - [icu](https://github.com/goodsign/icu)  - icu4c C 库检测和转换功能的 Cgo 绑定. 保证与版本 50.1 的兼容性.
 - [iuliia-go](https://github.com/mehanizm/iuliia-go) - 以各种可能的方式音译西里尔字母 → 拉丁语.
-- [t](https://github.com/youthlin/t) - golang 的另一个 i18n pkg，它遵循 GNU gettext 样式并支持 .po/.mo 文件：`tT (gettext)`、`tN (ngettext)` 等.它包含一个 cmd 工具 [xtemplate](https://github.com/youthlin/t/blob/main/cmd/xtemplate)，它可以从 text/html 模板中提取消息作为 pot 文件.
+- [t](https://github.com/youthlin/t) - 另一个 golang 的 i18n pkg，遵循 GNU gettext 样式并支持 .po/.mo 文件：`tT (gettext)`、`tN (ngettext)` 等.它包含一个 cmd 工具 [xtemplate](https://github.com/youthlin/t/blob/main/cmd/xtemplate)，它可以从 text/html 模板中提取消息作为 pot 文件.
 
 ### Transliteration
 
@@ -1820,7 +1820,7 @@ _科学计算和数据分析库._
 - [gonum/plot](https://github.com/gonum/plot) - gonum/plot 提供了一个用于在 Go 中构建和绘制绘图的 API.
 - [goraph](https://github.com/gyuho/goraph) - 纯 Go 图论库（数据结构、算法可视化）.
 - [gosl](https://github.com/cpmech/gosl) - 用于线性代数、FFT、几何、NURBS、数值方法、概率、优化、微分方程等的科学图书馆.
-- [GoStats](https://github.com/OGFris/GoStats) - GoStats 是一个用于数学统计的开源 GoLang 库，主要用于机器学习领域，它涵盖了大多数统计度量函数.
+- [GoStats](https://github.com/OGFris/GoStats) - GoStats 是一个用于数学统计的开源 GoLang 库，主要用于机器学习领域，它涵盖了大多数统计测量函数.
 - [graph](https://github.com/yourbasic/graph) - 基本图算法库.
 - [jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) - 使用 graphviz 支持来操作 JSONL 图的工具.
 - [ode](https://github.com/ChristopherRabotin/ode) - 常微分方程 (ODE) 求解器，支持扩展状态和基于通道的迭代停止条件.
@@ -1922,7 +1922,7 @@ _用于二进制序列化的库和工具._
 - [jackal](https://github.com/ortuman/jackal) - 一个用 Go 编写的 XMPP 服务器.
 - [lets-proxy2](https://github.com/rekby/lets-proxy2) - 用于处理 https 的反向代理，并从lets-encrypt 发出证书.
 - [minio](https://github.com/minio/minio) - Minio 是一个分布式对象存储服务器.
-- [Moxy](https://github.com/sinhashubham95/moxy) - Moxy 是一个简单的模拟器和代理应用程序服务器，您可以创建模拟端点以及代理请求，以防端点不存在模拟.
+- [Moxy](https://github.com/sinhashubham95/moxy) - Moxy 是一个简单的模拟程序和代理应用程序服务器，您可以创建模拟端点以及代理请求，以防端点不存在模拟.
 - [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) - Nginx 日志解析器和导出器到 Prometheus.
 - [nsq](https://nsq.io/) - 实时分布式消息传递平台.
 - [protoxy](https://github.com/camgraff/protoxy) - 将 JSON 请求正文转换为协议缓冲区的代理服务器.
@@ -1971,7 +1971,7 @@ _用于模板和词法分析的库和工具._
 _用于测试代码库和生成测试数据的库._
 
 - 测试框架
-  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或 HTTP 处理程序的简单且可扩展的行为测试库，支持模拟外部 http 调用和序列图的呈现.
+  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或 HTTP 处理程序的简单且可扩展的行为测试库，支持模拟外部 http 调用和呈现序列图.
   - [assert](https://github.com/go-playground/assert) - 与原生 go 测试一起使用的基本断言库，具有自定义断言的构建块.
   - [badio](https://github.com/cavaliercoder/badio) - Go 的 `testing/iotest` 包的扩展.
   - [baloo](https://github.com/h2non/baloo) - 富有表现力和多功能的端到端 HTTP API 测试变得容易.
@@ -2292,7 +2292,7 @@ _使您的生活更轻松的通用实用程序和工具._
 - [Death](https://github.com/vrecan/death) - 使用信号管理 go 应用程序关闭.
 - [Deepcopier](https://github.com/ulule/deepcopier) - Go 的简单结构复制.
 - [delve](https://github.com/derekparker/delve) - 去调试器.
-- [dlog](https://github.com/kirillDanshin/dlog) - 编译时控制的记录器，使您的版本更小，而无需删除调试调用.
+- [dlog](https://github.com/kirillDanshin/dlog) - 编译时控制的记录器，在不删除调试调用的情况下使您的版本更小.
 - [equalizer](https://github.com/reugn/equalizer) - Go 的配额管理器和速率限制器集合.
 - [ergo](https://github.com/cristianoliveira/ergo) - 在不同端口上运行的多个本地服务的管理变得容易.
 - [evaluator](https://github.com/nullne/evaluator)  - 根据 s 表达式动态评估表达式. 它简单且易于扩展.
@@ -2672,7 +2672,7 @@ _源代码分析工具，也称为静态应用程序安全测试（SAST）工具
 - [golines](https://github.com/segmentio/golines) - 自动缩短 Go 代码中长行的格式化程序.
 - [GoLint](https://github.com/golang/lint) - Golint 是 Go 源代码的 linter.
 - [Golint online](http://go-lint.appspot.com/) - 使用 golint 包对 GitHub、Bitbucket 和 Google Project Hosting 上的在线 Go 源文件进行 Lints.
-- [GoPlantUML](https://github.com/jfeliu007/goplantuml) - 库和 CLI 生成文本 Plantump 类图，其中包含有关结构和接口的信息以及它们之间的关系.
+- [GoPlantUML](https://github.com/jfeliu007/goplantuml) - 库和 CLI 生成文本 Plantump 类图，其中包含有关结构和接口以及它们之间关系的信息.
 - [goreturns](https://sourcegraph.com/github.com/sqs/goreturns) - 添加零值返回语句以匹配 func 返回类型.
 - [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - gosimple 是专门用于简化代码的 Go 源代码的 linter.
 - [gostatus](https://github.com/shurcooL/gostatus) - 命令行工具，显示包含 Go 包的存储库的状态.
@@ -2799,7 +2799,7 @@ _用 Go 编写的软件._
 - [kubernetes](https://github.com/kubernetes/kubernetes) - 来自 Google 的容器集群管理器.
 - [kwatch](https://github.com/abahmed/kwatch) - 立即监控和检测 Kubernetes(K8s) 集群中的崩溃.
 - [lstags](https://github.com/ivanilves/lstags) - 用于跨不同注册表同步 Docker 映像的工具和 API.
-- [lwc](https://github.com/timdp/lwc) - UNIX wc 命令的实时更新版本.
+- [lwc](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 - [manssh](https://github.com/xwjdsh/manssh) - manssh 是一个命令行工具，用于轻松管理您的 ssh 别名配置.
 - [Mantil](https://github.com/mantil-io/mantil) - 用于在 AWS 上构建无服务器应用程序的 Go 特定框架，使您能够专注于纯 Go 代码，而 Mantil 负责基础设施.
 - [Mizu](https://github.com/up9inc/mizu) - 用于 Kubernetes 的 API 流量查看器，使您能够查看微服务之间的所有 API 通信，多协议支持：HTTP1.1、HTTP/2、AMQP、Kafka、Redis.

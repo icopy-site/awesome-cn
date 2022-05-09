@@ -82,7 +82,7 @@
 | **[Midnight Commercial](http://midnightcommercial.com/) ** |  \[纽约] |  _联合不同的数字和物理世界_ |
 | **[MindBuffer](https://mindbuffer.net/) ** |  \[柏林] |  _视听研究与数字设计工作室_ |
 | **[Moment Factory](https://momentfactory.com/home) ** |  \[蒙特利尔] \[洛杉矶] \[伦敦] \[东京] \[巴黎] \[纽约] |  _节目、目的地、内容、互动、场景_ |
-| **[Motse](https://www.behance.net/motseart/projects)** | \[Shenzhen] | _digital art_ |
+| **[Motse](https://www.behance.net/motseart/projects) ** |  \[深圳] |  _数码艺术_ |
 | **[Nowhere](https://studionowhere.com/) ** |  \[上海] |  _营销活动、互动体验_ |
 | **[Oat Foundry](https://www.oatfoundry.com/) ** |  \[费城] |  _分体式显示器、机电产品、智囊团、产品、体验_ |
 | **[Onformative](https://onformative.com/) ** |  \[柏林] |  _数字艺术与设计工作室，挑战艺术与设计与技术的界限_ |
@@ -91,14 +91,14 @@
 | **[Potion Design](https://www.potiondesign.com/) ** |  \[纽约] |  _设计和技术工作室，互动，博物馆_ |
 | **[Rare Volume](https://rarevolume.com/) ** |  \[纽约] |  _设计和技术工作室，交互式视频墙_ |
 | **[Red Paper Heart](https://redpaperheart.com) ** |  \[纽约] |  _来自现实世界互动的艺术_ |
-| **[Rockwell Group Lab](https://www.labatrockwellgroup.com) ** |  \[纽约] |  _建筑和设计、品牌体验、沉浸式环境、弹出窗口_ |
+| **[The Lab at Rockwell Group](https://www.labatrockwellgroup.com) ** |  \[纽约] |  _建筑和设计、品牌体验、沉浸式环境、弹出窗口_ |
 | **[Rosie Lee Creative](https://rosieleecreative.com/) ** |  \[伦敦] \[阿姆斯特丹] \[纽约] |  _设计、创意、数字和咨询_ |
 | **[Second Story](https://secondstory.com/) ** |  \[亚特兰大] \[波特兰] \[纽约] |  _展览、互动、软件、体验、硬件、VR、AR、投影_ |
 | **[Seeeklab](https://www.seeeklab.com/en/) ** |  \[厦门] |  _营销活动、互动装置_ |
 | **[space150](https://www.space150.com/) ** |  \[明尼阿波利斯] \[洛杉矶] \[纽约市] |  _一个技术驱动的创意机构_ |
 | **[Staat](https://www.staat.com/) ** |  \[阿姆斯特丹] |  _品牌、社论、事件、电影、平面设计、插图、安装、互动、室内设计、生产、零售_ |
 | **[StoreyStudio](https://www.storeystudio.com/) ** |  \[伦敦] |  _空间设计、布景设计、橱窗展示、动态影像_ |
-| **[Team Epiphany](https://www.teamepiphany.com/) ** |  \[纽约市]\[洛杉矶] |  _影响者营销、IRL、垂直整合_ |
+| **[Team Epiphany](https://www.teamepiphany.com/) ** |  \[纽约市] \[洛杉矶] |  _影响者营销、IRL、垂直整合_ |
 | **[Tellart](https://www.tellart.com/) ** |  \[普罗维登斯] \[阿姆斯特丹] \[旧金山] |  _变革性体验、发明、物理和数字体验、新技术_ |
 | **[The Gathery](http://www.thegathery.com/) ** |  \[纽约] |  _专门从事品牌营销和内容创作的编辑出身的创意机构_ |
 | **[The Projects](http://theprojects.com/) ** |  \[伦敦] \[洛杉矶] \[纽约市] \[悉尼] |  _品牌咨询、有意义的体验、讲故事_ |
@@ -130,7 +130,7 @@
 
 | Name | Locations | Keywords |
 |---|:---:|---|
-| **[BEDNARK](https://builtbybednark.com/) ** |  \[纽约] |  _全方位服务的制造、生产、安装_ |
+| **[Bednark](https://builtbybednark.com/) ** |  \[纽约] |  _全方位服务的制造、生产、安装_ |
 | **[Pink Sparrow](https://www.pinksparrow.com/) ** |  \[纽约市] \[洛杉矶] |  _环境设计、项目管理_ |
 | **[Visionary Effects](http://www.visionaryeffects.com/) ** |  \[匹兹堡] |  _带有数字设计和制造的老式制造工艺_ |
 
@@ -191,7 +191,7 @@
 |---|:---:|---|
 | **[&Walsh](https://andwalsh.com/) ** |  \[纽约] |  _跨平台的品牌战略、艺术指导、设计和制作_ |
 | **[ManvsMachine](https://mvsm.com/) ** |  \[伦敦] \[洛杉矶] |  _多维创意工作室_ |
-| **[Media Monks](https://www.mediamonks.com/) ** |  \[阿姆斯特丹] \[伦敦] \[迪拜] \[斯德哥尔摩] \[纽约市] \[洛杉矶] \[旧金山] \[墨西哥城] \[圣保罗] \[布宜诺斯艾利斯] \[上海] \[新加坡] |  _创意制作_ |
+| **[Media Monks](https://www.mediamonks.com/) ** |  \[阿姆斯特丹] \[伦敦] \[迪拜] \[斯德哥尔摩] \[纽约] \[洛杉矶] \[旧金山] \[墨西哥城] \[圣保罗] \[布宜诺斯艾利斯] \[上海] \[新加坡] |  _创意制作_ |
 | **[R/GA](https://www.rga.com/) ** |  \[奥斯汀] \[芝加哥] \[洛杉矶] \[纽约市] \[波特兰] \[旧金山] \[柏林] \[布加勒斯特] \[伦敦] \[布宜诺斯艾利斯] \[圣地亚哥] \[圣保罗] \[墨尔本] \[上海] \[新加坡] \[悉尼] \[东京] |  _业务、体验和营销转型_ |
 | **[The Mill](https://www.themill.com/) ** |  \[伦敦] \[纽约市] \[洛杉矶] \[芝加哥] \[班加罗尔] \[柏林] |  _体验者、媒体和品牌激活、创新设计和创新技术_ |
 

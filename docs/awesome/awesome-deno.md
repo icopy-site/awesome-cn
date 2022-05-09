@@ -96,6 +96,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - 格式化、修剪和删除字符串中字符之间的多余空格.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - deno 的字符串 slugifier.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - 删除字符串中的重音符号/变音符号.
+- [written](https://github.com/vixalien/written) - A 提供了一组用于操作文本的实用程序，重点是提供排版工具而不是纯字符串操作.
 
 ### Template engine
 - [dejs](https://github.com/syumai/dejs) - 用于 deno 的 Ejs 模板引擎.
@@ -318,7 +319,6 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
   - [Slides](https://tinyclouds.org/jsconf2018.pdf)
 - [JSDC 2018#A01 - Deno, A New Server-Side Runtime By Ryan Dahl](https://www.youtube.com/watch?v=FlTG0UXRAkE)
-  - [Slides](https://tinyclouds.org/deno_jsdc.pptx)
 - [Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring](https://www.youtube.com/watch?v=z6JRlx5NC9E)
   - [Slides](https://www.slideshare.net/JSFestUA/js-fest-2019-ryan-dahl-deno-a-new-way-to-javascript)
 - [Rafał Pocztarski — 从 Node.js 到 Deno - 使用 V8 和 Rust 构建的 JavaScript/TypeScript 运行时 [EN]](https://www.youtube.com/watch?v=Aib1OZLy0_c)

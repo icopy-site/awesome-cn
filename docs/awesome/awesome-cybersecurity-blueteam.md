@@ -23,7 +23,7 @@
 - [Ansible Lockdown](https://ansiblelockdown.io/) - 精心策划的以信息安全为主题的 Ansible 角色集合，这些角色经过审查和积极维护.
 - [Clevis](https://github.com/latchset/clevis) - 用于自动解密的可插入框架，通常用作 Tang 客户端.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - 用 Python 编写的可扩展网络取证分析框架，支持快速开发插件以支持剖析网络数据包捕获.
-- [Dev-Sec.io](https://dev-sec.io/) - 服务器加固框架，提供各种基线安全配置的 Ansible、Chef 和 Puppet 实现.
+- [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
 - [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - 可编写脚本的 PDF 文件分析器.
 - [PyREBox](https://talosintelligence.com/pyrebox) - 基于 QEMU 的 Python 可编写脚本的逆向工程沙箱.
 - [Watchtower](https://containrrr.dev/watchtower/) - 基于容器的解决方案，用于自动更新 Docker 容器基础映像，提供无人值守的升级体验.
@@ -64,7 +64,7 @@
 - [Cortex](https://cortexmetrics.io/) - 为 Prometheus 提供水平可扩展、高可用、多租户、长期存储.
 - [Jaeger](https://www.jaegertracing.io/) - 分布式跟踪平台后端，用于监控和故障排除基于微服务的分布式系统.
 - [OpenTelemetry](https://opentelemetry.io/) - 云原生软件的可观察性框架，包括一组工具、API 和 SDK，用于将应用程序性能指标导出到跟踪后端（以前由 OpenTracing 和 OpenCensus 项目维护）.
-- [Prometheus](https://prometheus.io/) - Open-source systems monitoring and alerting toolkit originally built at SoundCloud.
+- [Prometheus](https://prometheus.io/) - 最初在 SoundCloud 构建的开源系统监控和警报工具包.
 - [Zipkin](https://zipkin.io/) - 分布式跟踪系统后端，帮助收集解决服务架构中的延迟问题所需的时间数据.
 
 ### Kubernetes
@@ -116,7 +116,7 @@
 - [Snyk](https://snyk.io/) - 查找并修复开源依赖项和容器映像中的漏洞和许可违规.
 - [SonarQube](https://sonarqube.org) - 持续检查工具，可在自动测试期间提供详细报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) - 用于容器和其他工件的简单而全面的漏洞扫描器，适用于持续集成管道.
-- [Vault](https://www.vaultproject.io/) - 用于通过统一接口安全访问 API 密钥、密码或证书等秘密的工具.
+- [Vault](https://www.vaultproject.io/) - 通过统一接口安全访问 API 密钥、密码或证书等秘密的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  - git中的透明文件加密； 您选择保护的文件在提交时被加密，在签出时被解密.
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) - Helm 插件，可帮助使用 Git 工作流程管理机密并将它们存储在任何地方，由 SOPS 支持.
 
@@ -170,7 +170,7 @@
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  - 自托管蜜令牌生成器和报告仪表板； 演示版可在 [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) - 为资源不足的蓝队提供可持续的一体化蜜罐和蜜令牌协调器.
-- [Manuka](https://github.com/spaceraccoon/manuka) - 开源情报 (OSINT) 蜜罐，用于监控威胁参与者的侦察尝试并为蓝队提供可操作的情报.
+- [Manuka](https://github.com/spaceraccoon/manuka) - 开源情报 (OSINT) 蜜罐，用于监控威胁参与者的侦察尝试，并为蓝队提供可操作的情报.
 
 ### Tarpits
 
@@ -220,7 +220,7 @@
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - 免费的 macOS 计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) - 适用于 macOS 的法医证据收集和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch 脚本和 Unix Bash 脚本，用于在事件响应期间全面收集主机取证数据.
-- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 命令行实用程序（可使用或不使用 Amazon EC2 实例）以并行化远程内存获取.
+- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 命令行实用程序（适用于或不使用 Amazon EC2 实例）以并行化远程内存获取.
 
 ## Network perimeter defenses
 
@@ -248,9 +248,9 @@
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) - SSLMate 的证书透明度日志监视器会在为您的域之一颁发 SSL/TLS 证书时提醒您.
 - [Gophish](https://getgophish.com/) - 强大的开源网络钓鱼框架，可以轻松测试您的组织对网络钓鱼的暴露程度.
-- [King Phisher](https://github.com/securestate/king-phisher) - 通过模拟现实世界的网络钓鱼攻击来测试和提高用户意识的工具.
+- [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) - Outlook 插件用于帮助您的用户向安全团队报告可疑电子邮件.
-- [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) - Framework that will assist with the detection and response to phishing attacks.
+- [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) - 有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - 允许创建和管理（虚假）网络钓鱼活动的平台，旨在培训人们识别可疑邮件. 
 - [mailspoof](https://github.com/serain/mailspoof) - 扫描 SPF 和 DMARC 记录以查找可能允许电子邮件欺骗的问题.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) - 可配置的脚本，用于在证书透明度日志 (CTL) 中使用 [CertStream](https://certstream.calidog.io/) 服务.
@@ -298,7 +298,7 @@
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - 捕获欺骗性的 NetBIOS 名称服务 (NBNS) 响应并向电子邮件或日志文件发出警报.
 - [Stenographer](https://github.com/google/stenographer) - 完整的数据包捕获实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应.
 - [Suricata](https://suricata-ids.org/) - 免费、跨平台的 IDS/IPS，具有在线和离线分析模式和深度数据包检测功能，也可使用 Lua 编写脚本.
-- [Tsunami](https://github.com/google/tsunami-security-scanner) - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. 
+- [Tsunami](https://github.com/google/tsunami-security-scanner) - 具有可扩展插件系统的通用网络安全扫描器，用于以高可信度检测高严重性漏洞. 
 - [VAST](https://github.com/tenzir/vast) - 用于数据驱动的安全调查的免费和开源网络遥测引擎.
 - [Wireshark](https://www.wireshark.org) - 用于网络故障排除或取证网络流分析的免费和开源数据包分析器.
 - [Zeek](https://zeek.org/) - 专注于安全监控的强大网络分析框架，原名Bro.
@@ -354,6 +354,11 @@
 - [Unfetter](https://nsacyber.github.io/unfetter/) - 利用 Mitre 的 ATT&amp;CK 框架识别安全态势中的防御漏洞.
 - [Viper](https://github.com/viper-framework/viper) - 二进制分析和管理框架，可以轻松组织恶意软件和漏洞利用样本.
 - [YARA](https://github.com/VirusTotal/yara) - 旨在（但不限于）帮助恶意软件研究人员识别和分类恶意软件样本的工具，被描述为文件模式和签名的“模式匹配瑞士军刀”.
+
+### Fingerprinting
+
+- [HASSH](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
+- [JA3](https://ja3er.com/) - 提取 SSL/TLS 握手设置，以对给定的 TLS 实现进行指纹识别和通信.
 
 ### Threat signature packages and collections
 

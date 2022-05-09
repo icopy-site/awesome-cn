@@ -21,7 +21,7 @@
 * [Code-Drills](https://code-drills.com/tools/comparator) - 练习题推荐器（包括 Codeforces、Codechef 和 Spoj）.
 * [CP-Algorithms](https://cp-algorithms.com/) - 算法和数据结构在竞争性编程领域特别流行.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - 可视化数据结构的行为并玩弄它的操作.
-* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well-explained and implemented algorithms.
+* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - 很多很多解释清楚和实现的算法.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A\*、IDA\*、广度优先搜索、最佳优先搜索等算法如何描述两点 A 和 B 之间的路径的可视化表示.
 * [Programiz](https://www.programiz.com/dsa) - 易于遵循的数据结构和算法教程以及合适的示例.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - 一个编程语言网站，旨在以不同的编程语言呈现许多算法和数据结构的实现.
@@ -48,9 +48,10 @@
 * [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - 很好解释的算法.
 * [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - 与前一个类似，但算法不同.
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - 简单且解释清楚的算法介绍.
+* [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - 它涵盖了广泛应用于现代算法设计的一系列几何技术.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - 基于 Python 的算法课程.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - 初学者的算法课程，带有有趣的插图，基于 Grokking Algorithms 一书
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - 许多关于各种计算机科学主题的解释清楚的视频.~~ _帐户因违反 Youtube 政策而被终止._
+* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - 大量关于各种计算机科学主题的解释清楚的视频.~~ _帐户因违反 Youtube 政策而被终止._
 
 ## Books
 
@@ -167,7 +168,7 @@
 
 *在线评委练习您在上面学到的内容*
 
-* [A2 Online Judge](https://a2oj.com/) - 在线法官和问题存档.
+* [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
 * [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - 以前 ACM-ICPC 地区赛和世界总决赛的数百道题.
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - 日本在线法官.
 * [Algo Muse](http://www.algomuse.appspot.com) - 基于研究的算法问题. 
