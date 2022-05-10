@@ -87,7 +87,6 @@
 		</a>
 		<br>
 		<br>
-		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
@@ -104,6 +103,40 @@
 			<br>
 			<div>
 				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
+			</div>
+			<br>
+			<b>您最喜欢的所有 IDE 现在都可以在云端使用</b>
+			<div>
+				<sub>
+				Neverinstall 为您提供不间断的开发体验和改进的可访问性，
+				<br>
+				让您可以在自己喜欢的 IDE 上更快、更好、更方便地编写代码，例如
+				<br>
+				使用浏览器的 Android Studio、VS Code、Jupyter 和 PyCharm.
+				</sub>
+			</div>
+		</a>
+		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
+			</div>
+			<br>
+			<b>您最喜欢的所有 IDE 现在都可以在云端使用</b>
+			<div>
+				<sub>
+				Neverinstall 为您提供不间断的开发体验和改进的可访问性，
+				<br>
+				让您可以在自己喜欢的 IDE 上更快、更好、更方便地编写代码，例如
+				<br>
+				使用浏览器的 Android Studio、VS Code、Jupyter 和 PyCharm.
+				</sub>
 			</div>
 		</a>
 		<br>
@@ -216,7 +249,7 @@
 
 - [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 更好更快的 Underscore.js.
 - [immutable](https://github.com/immutable-js/immutable-js) - 不可变的数据集合.
-- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
+- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序实现的灵活功能组合. 避免变异数据.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别是您可以选择仅加载您需要的模块/功能，没有额外的开销.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 专注于高性能和低内存使用的反应式库.
@@ -371,7 +404,7 @@
 - [del](https://github.com/sindresorhus/del) - 使用 glob 删除文件/文件夹.
 - [globby](https://github.com/sindresorhus/globby) - 支持多种模式的 Glob 文件.
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
-- [chokidar](https://github.com/paulmillr/chokidar) - 文件系统观察器，用于稳定来自 `fs.watch` 和 `fs.watchFile` 的事件，以及在 macOS 上使用本机 `fsevents`.
+- [chokidar](https://github.com/paulmillr/chokidar) - 文件系统观察器，可稳定来自 `fs.watch` 和 `fs.watchFile` 的事件，以及在 macOS 上使用本机 `fsevents`.
 - [find-up](https://github.com/sindresorhus/find-up) - 通过上层目录查找文件.
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间和机器间锁定文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - 读取并解析 JSON 文件.
@@ -393,7 +426,7 @@
 	- [pify](https://github.com/sindresorhus/pify) - 承诺一个回调风格的函数.
 	- [delay](https://github.com/sindresorhus/delay) - 将承诺延迟指定的时间.
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 记忆承诺返回功能，具有过期和预取.
-	- [valvelet](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
+	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回函数的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
 - 可观察
@@ -501,7 +534,7 @@
 ### Data validation
 
 - [joi](https://github.com/sideway/joi) - JavaScript 对象的对象模式描述语言和验证器.
-- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - 使用代码生成非常快的 JSON Schema 验证器.
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 - [property-validator](https://github.com/nettofarah/property-validator) - Express 的简单属性验证.
 - [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API 清理和验证.
 - [ajv](https://github.com/ajv-validator/ajv)  - 最快的 JSON Schema 验证器. 支持 v5、v6 和 v7 提案.
@@ -561,20 +594,20 @@
 
 ### Database
 
-- Drivers
+- 司机
 	- [PostgreSQL](https://github.com/brianc/node-postgres)  - PostgreSQL 客户端. 纯 JavaScript 和本机 libpq 绑定.
 	- [Redis](https://github.com/luin/ioredis) - Redis 客户端.
 	- [LevelUP](https://github.com/Level/levelup) - 水平数据库.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL 客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB 客户端.
-	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike 客户端.
+	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase 客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB 驱动程序.
 - ODM / ORM
 	- [Sequelize](https://github.com/sequelize/sequelize)  - 多方言 ORM. 支持 PostgreSQL、SQLite、MySQL 等.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - 用于 PostgreSQL、MySQL 和 SQLite3 的 ORM，采用 Backbone.js 风格.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的 MongoDB 对象建模.
-	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+	- [Waterline](https://github.com/balderdashy/waterline) - 与数据存储无关的工具，可显着简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  - 用于 PostgreSQL、MySQL、SQLite3 和 RESTful 数据存储的 ORM. 类似于 ActiveRecord.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用 Promise 的原生 SQL 的 PostgreSQL 框架.
 	- [slonik](https://github.com/gajus/slonik) - 具有严格类型、详细日志记录和断言的 PostgreSQL 客户端.
@@ -630,7 +663,7 @@
 - [themis](https://github.com/cossacklabs/themis) - 使典型加密方案易于使用的多语言框架：静态数据、经过身份验证的数据交换、传输保护、身份验证等.
 - [GuardRails](https://github.com/apps/guardrails) - 在拉取请求中提供安全反馈的 GitHub 应用程序.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - 蛮力和 DDoS 攻击保护.
-- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - 异步非阻塞哈希.
+- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - 使用 JOSE（JSON 对象签名和加密）标准对数据进行加密和解密.
 
 ### Benchmarking
@@ -669,7 +702,7 @@
 - [idoit](https://github.com/nodeca/idoit) - 具有高级作业控制的 Redis 支持的作业队列引擎.
 - [node-resque](https://github.com/actionhero/node-resque) - Redis 支持的作业队列.
 - [rsmq](https://github.com/smrchy/rsmq) - Redis 支持的消息队列.
-- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+- [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能 Redis 支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 简单的高性能 Redis 消息队列，具有实时监控功能.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 无需样板即可构建基于 Amazon Simple Queue Service (SQS) 的应用程序.
 - [better-queue](https://github.com/diamondio/better-queue) - 当您无法使用 Redis 时，简单高效的作业队列.
@@ -678,7 +711,7 @@
 ### Node.js management
 
 - [n](https://github.com/tj/n) - Node.js 版本管理.
-- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
+- [nave](https://github.com/isaacs/nave) - Node.js 的虚拟环境.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - 与 Python 的 virtualenv 兼容的 Node.js 虚拟环境.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Windows 的版本管理.
 - [nodenv](https://github.com/nodenv/nodenv)  - 类似于 Ruby 的 rbenv 的版本管理器. 它支持自动版本切换.
@@ -750,7 +783,7 @@
 
 - [snappy](https://github.com/kesla/node-snappy) - Google 的 Snappy 压缩库的本机绑定.
 - [protobuf](https://github.com/protobufjs/protobuf.js) - 协议缓冲区的实现.
-- [compactr](https://github.com/compactr/compactr.js) - Compactr 协议的实现.
+- [compactr](https://github.com/compactr/compactr.js) - Compactr 协议的实施.
 
 ### Miscellaneous
 
@@ -768,7 +801,7 @@
 - [file-type](https://github.com/sindresorhus/file-type) - 检测缓冲区的文件类型.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - 使节流变得容易的速率限制器.
 - [ow](https://github.com/sindresorhus/ow) - 人类的函数参数验证.
-- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - 使用本机线程的轻量级 Web Worker API 实现.
+- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - 访问系统剪贴板（复制/粘贴）.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - 使从二进制文件发布和安装 Node.js C++ 插件变得容易.
 - [opencv](https://github.com/peterbraden/node-opencv)  - OpenCV 的绑定. 事实上的计算机视觉库.
@@ -828,12 +861,12 @@
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - 垃圾谈论 V8 垃圾收集器.
+- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Node.js 的创建者对它的一些限制进行了富有洞察力的谈话.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - 关于如何使用 Node.js 制作 REST API 的视频课程.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - 在不使用 Express 等框架的情况下构建 REST API.
 - [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) - V8 架构的基础知识以及它如何优化 JavaScript 执行.
-- [Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](https://www.youtube.com/watch?v=UJPdhx5zTaw) - How V8 optimizes JavaScript execution.
+- [Google I/O 2012 - Breaking the JavaScript Speed Limit with V8](https://www.youtube.com/watch?v=UJPdhx5zTaw) - V8 如何优化 JavaScript 执行.
 - [Google I/O 2013 - Accelerating Oz with V8: Follow the Yellow Brick Road to JavaScript Performance](https://www.youtube.com/watch?v=VhpdsjBUS3g) - 如何利用 V8 知识检测应用程序瓶颈并优化性能.
 - [Node.js Internal Architecture | Ignition, Turbofan, Libuv](https://www.youtube.com/watch?v=OCjvhCFFPTw) - Node.js 如何在内部工作，重点是 V8 和 libuv.
 - [Introduction to libuv: What's a Unicorn Velociraptor?](https://www.youtube.com/watch?v=_c51fcXRLGw) - `libuv` 架构、线程池和事件循环，及其源代码.
@@ -875,7 +908,7 @@
 ### Tools
 
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 链接 GitHub 上 package.json、.js、.jsx、.coffee 和 .md 文件中的依赖项的 Chrome 扩展.
-- [npm-hub](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展程序在 repo 的自述文件底部显示 npm 依赖项.
+- [npm-hub](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展程序.
 - [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.

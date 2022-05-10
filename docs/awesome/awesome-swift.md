@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1084 |  2022 年 5 月 3 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1085 |  2022 年 5 月 10 日
 
 
 
@@ -151,7 +151,7 @@
 * [Capable](https://github.com/chrs1885/Capable) - 跟踪可访问性设置，利用高对比度颜色，并使用可缩放字体以使残障用户能够使用您的应用程序.
 
 ### AI
-*Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
+*用于基于 AI 的项目（机器学习、神经网络等）的库.* [back to top](#readme) 
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - 一系列独特的 Core ML 模型.
 * [DL4S](https://github.com/palle-k/DL4S) - 从 CNN 和 RNN 到变压器的自动微分、快速张量运算和动态神经网络.
@@ -788,7 +788,7 @@
 * [Neon](https://github.com/mamaral/Neon) - 一个强大的程序化 UI 布局框架.
 * [PinLayout](https://github.com/layoutBox/PinLayout)  - 没有自动布局的快速视图布局. 没有魔法，纯代码，完全控制和超快. 简洁的语法，直观，可读和可链接.  [iOS/macOS/tvOS]
 * [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView)  - 带有粘性标题的滚动视图，当您滚动时会缩小. 用 SwiftUI 编写.
-* [Static](https://github.com/venmo/Static) - 适用于 iOS 的简单静态表格视图.
+* [Static](https://github.com/venmo/Static) - A simple static table views for iOS.
 * [Stevia](https://github.com/freshOS/Stevia) - 优雅的 iOS 视图布局.
 
 #### Auto Layout
@@ -857,7 +857,7 @@
 [back to top](#readme) 
 
 * [Cluster](https://github.com/efremidze/Cluster) - 简单的地图注释聚类.
-* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 让您可以零努力地在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 使您能够以零努力在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - 使使用地理模型和计算交叉点、重叠、投影等变得更容易.
 * [LocoKit](https://github.com/sobri909/LocoKit) - iOS 的位置和活动记录框架.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  - 使用任何自定义视图作为具有酷动画的 MKMapView 的自定义标注视图. 使用任何图像作为注释视图.
@@ -1292,6 +1292,7 @@
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - SwiftUI 中缺少优雅的全屏日历.
 * [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - 一个声明性、高性能的 iOS 日历 UI 组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - UI 日历处理程序.
+* [KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - 适用于 Apple 平台的最完全自定义日历
 * [Workaholic](https://github.com/hemangshah/Workaholic) - 类似 GitHub 的工作贡献时间表.
 
 #### Cards

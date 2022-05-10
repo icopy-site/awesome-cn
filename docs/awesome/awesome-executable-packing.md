@@ -308,7 +308,7 @@
 - [GzExe](https://git.savannah.gnu.org/cgit/gzip.git) - 允许将可执行文件压缩为 shell 脚本的实用程序.
 - [hXOR-Packer](https://github.com/rurararura/hXOR-Packer) - 具有 Huffman 压缩和 XOR 加密的 PE 打包器.
 - [LIAPP](https://liapp.lockincomp.com) - 最简单、最强大的移动应用安全解决方案.
-- [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X 许可证管理器让您可以通过实施各种级别的安全性、节省时间和降低业务风险来保护您的产品免受盗版.
+- [LM-X License Manager](https://www.x-formation.com/lm-x-license-manager) - LM-X 许可证管理器让您可以通过实施各种级别的安全、节省时间和降低业务风险来保护您的产品免受盗版.
 - [m0dern_p4cker](https://github.com/n4sm/m0dern_p4cker) - 只是 elf 二进制文件的现代打包程序（仅适用于 linux 可执行文件）.
 - [MidgetPack](https://github.com/arisada/midgetpack) - Midgetpack 是 ELF 二进制文件的二进制打包器，例如 burneye、upx 或其他工具.
 - [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - 压缩（使用 LZMA）并保护 PE、.NET 或 Mach-O 程序免受逆向工程.
@@ -486,6 +486,7 @@
 - [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - 用于帮助解包、解压缩和解密大多数使用高级仿真技术打包、压缩或加密的程序的工具.
 - [PackerGrind](https://github.com/rewhy/adaptiveunpacker) - 用于跟踪打包行为和解包 Android 打包应用程序的自适应解包工具.
 - [PackerID](https://github.com/sooshie/packerid) - 使用 PEid 签名并具有额外的输出类型、格式、数字签名提取和反汇编支持的 packerid.py 的分支.
+- [PackID](https://github.com/mesaleh/PackiD) - 使用与 PEiD 相同的数据库语法的 Packer 识别多平台工具/库.
 - [Packing-Box](https://github.com/dhondta/docker-packing-box) - Docker 映像收集许多与打包相关的工具，并用于制作打包可执行文件的数据集以用于机器学习.
 - [PANDA](https://github.com/panda-re/panda) - 架构中性动态分析平台.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - 对 Bochs PC 仿真器的扩展，使其能够监控解包存根的执行以提取原始代码.
@@ -516,7 +517,7 @@
 - [PyPeid](https://github.com/FFRI/pypeid) - 使用 yara-python 的另一个 PEiD 实现.
 - [Quick Unpack](http://qunpack.ahteam.org/?p=458) - 通用解包器，有助于解包过程.
 - [RDG Packer Detector](http://www.rdgsoft.net) - 封隔器检测工具.
-- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
+- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 用于协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
 - [Reko](https://github.com/uxmal/reko) - 机器代码二进制文件的免费反编译器.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - 基于入口点部分的熵值和WRITE属性的打包检测工具.
 - [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.

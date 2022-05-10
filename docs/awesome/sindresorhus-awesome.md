@@ -133,6 +133,40 @@
 		</a>
 		<br>
 		<br>
+		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
+			</div>
+			<br>
+			<b>您最喜欢的所有 IDE 现在都可以在云端使用</b>
+			<div>
+				<sub>
+				Neverinstall 为您提供不间断的开发体验和改进的可访问性，
+				<br>
+				让您可以在自己喜欢的 IDE 上更快、更好、更方便地编写代码，例如
+				<br>
+				使用浏览器的 Android Studio、VS Code、Jupyter 和 PyCharm.
+				</sub>
+			</div>
+		</a>
+		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
+			</div>
+			<br>
+			<b>您最喜欢的所有 IDE 现在都可以在云端使用</b>
+			<div>
+				<sub>
+				Neverinstall 为您提供不间断的开发体验和改进的可访问性，
+				<br>
+				让您可以在自己喜欢的 IDE 上更快、更好、更方便地编写代码，例如
+				<br>
+				使用浏览器的 Android Studio、VS Code、Jupyter 和 PyCharm.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -152,7 +186,7 @@
 <br>
 
 <div align="center">
-	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter 帐户</a>以获取有关新列表添加的更新.</b>
+	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
@@ -209,7 +243,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于谷歌云平台的应用开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一组帮助您构建机器人应用程序的软件库和工具.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 为您的站点提供 CDN、DNS、DDoS 保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - 谷歌助手的开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - 具有 WiFi 和广泛物联网应用的低成本微控制器.
@@ -316,7 +350,7 @@
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于 XML 的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript 库.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript 工具包.
@@ -393,7 +427,7 @@
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - 全栈开发解决方案，包含由 Laravel 社区构建的库.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby 的 Web 应用程序框架.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包裹.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - 网络服务器.
@@ -456,7 +490,7 @@
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - 分布式存储和处理超大型数据集的框架.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - 大规模数据处理的统一引擎.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - 用于数据可视化、分析和报告应用程序的商业智能平台.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - 实时搜索、监控和分析结构化和非结构化机器生成的大数据的平台.
 
@@ -579,7 +613,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 用于录制、转换和流式传输音频和视频的跨平台解决方案.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - 可下载的 SVG/PNG/字体图标项目.
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - 专业环境中的照明、音频和视频.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - 跨平台媒体播放器软件和流媒体服务器.
@@ -822,7 +856,7 @@
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及以什么条件访问.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用程序和功能的技术堆栈.
-- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - 为计算生物学家提供基于图像的生物表型分析.
+- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - 开源消息传递协议.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - 网站的广告和程序化媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - 寻找解决气候危机的方法.
@@ -843,7 +877,7 @@
 
 - [All Awesome Lists](https://github.com/topics/awesome) - GitHub 上的所有 Awesome 列表.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - 搜索 Awesome 数据集.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+- [Awesome Search](https://awesomelists.top) - 快速搜索真棒列表.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - 使用浏览器扩展从 Awesome 数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - 一个简单的命令行工具，用于深入了解 Awesome 列表.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - 以上所有真棒列表的可视化工具.

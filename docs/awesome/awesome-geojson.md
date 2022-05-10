@@ -4,6 +4,8 @@
 
 GeoJSON 实用程序，让您的生活更轻松.
 
+<a href='https://www.placemark.io/'><i><img src='https://raw.githubusercontent.com/tmcw/awesome-geojson/master/.github/placemark.png' width='16' alt='Placemark' height='16' /> 由 Placemark 赞助，这是一个地图协作编辑器，对 GeoJSON 有很好的支持
+
 ### operations
 
 * [CoGran](https://github.com/berlinermorgenpost/cogran): 将一组 GeoJSON 多边形的统计数据重新采样到另一组
@@ -89,7 +91,6 @@ GeoJSON 实用程序，让您的生活更轻松.
   * [svg-to-geojson](https://github.com/mapbox/svg-to-geojson)：将 SVG 拖放到地图上，它会将 GeoJSON 返回给您.
 * [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): 将 GeoJSON 转换为/从换行符分隔的 GeoJSON
 * [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): 将 GeoJSON 转换为/从 GeoBuf
-
 * **开放街图**
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): 将 OpenStreetMap 数据转换为 GeoJSON
   * [osm2geojson](https://github.com/rclark/osm2geojson): 将 OSM XML 转换为 GeoJSON

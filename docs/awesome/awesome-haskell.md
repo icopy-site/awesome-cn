@@ -99,7 +99,7 @@
 
 * [Deiko-config](http://hackage.haskell.org/package/deiko-config) - 使用的小型类型安全库 [HOCON](https://github.com/lightbend/config#features-of-hocon) 配置格式
 * [Dhall](https://github.com/dhall-lang/dhall-haskell) - 保证终止的配置语言 
-* [Configurator](http://hackage.haskell.org/package/configurator) - 一个配置管理库，它支持自动、动态地重新加载以响应对配置文件的修改.
+* [Configurator](http://hackage.haskell.org/package/configurator) - 一个配置管理库，支持自动、动态地重新加载以响应对配置文件的修改.
 
 ## Cryptography & Hashing
 
@@ -145,7 +145,7 @@
 
     ---
 *其他库*
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖性的本地 Haskell 代码.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖关系的本地 Haskell 代码.
 
 ## Data Structures
 * [Data Structures & IO Libraries](https://wiki.haskell.org/Applications_and_libraries/Data_structures) - 官方网站资源.
@@ -261,7 +261,7 @@
 
 ## Messaging
 
-* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - 最私密、最安全的开源聊天和应用平台 - 现在采用双棘轮 E2E 加密.
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - 第一个设计为 100% 私密的聊天平台 - 它无法访问您的连接图！
 * [Stomp](http://stomp.github.io/) - 是简单（或流）面向文本的消息传递协议. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [amqp](https://github.com/hreinhardt/amqp) - AMQP 服务器的客户端库（目前只有 RabbitMQ）.
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - 用于 Internet 中继聊天 (IRC) 的协作黑客列表.
@@ -374,7 +374,7 @@
 * [Revised report](https://www.haskell.org/onlinereport/)  - Haskell 98 语言和库. 修订报告.
 * [H-99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems) - 九十九个 Haskell 问题.
 
-    ### 网络教程 
+    ###网络教程 
     * [Introduction to Haskell - Web Programming](http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html)
     * [Your First Web Application with Spock](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
     * [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples)

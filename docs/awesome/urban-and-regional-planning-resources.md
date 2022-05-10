@@ -49,7 +49,7 @@
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助当地官员、社区领袖和企业了解其社区正在发生的变化. 它是美国详细的人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 提供者： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及与 GIS 兼容的边界文件，从 1790 年到现在以及所有级别的美国人口普查地理，包括州、县、地区和街区.
 
 ### Education 
@@ -127,7 +127,7 @@
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - HPMS 是一个国家级公路信息系统，包括有关国家公路的范围、状况、性能、使用和运营特征的数据.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，收集来自超过 55 个国家/地区的 2,500 多家公交运营商的 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪音地图中的数据代表全国特定年份平均每年的潜在噪音水平. 
-- [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - Repository of operations, financial, and asset data that US transit agencies are required to report to the Federal Transit Administration. 
+- [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据的存储库. 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)  - 即用型全球街道网络模型和 GIS 格式的计算指标. 附加信息： [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 - [Rapid Transit Database](https://www.itdp.org/rapid-transit-database/) - 由交通与发展政策研究所出版的全球所有快速交通走廊的集合，包括快速公交、轻轨和地铁. 
 - [TIGER](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) - 拓扑集成地理编码和
@@ -177,7 +177,7 @@
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 在预算内按时执行任务，24/7 全天候访问计数、OD 和您需要的其他指标.
 - [Strava](https://developers.strava.com/)  - 适用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
-- [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
+- [Inrix](https://inrix.com/) - 为汽车和交通行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
 
 ## Planning Data Specifications
 城市规划相关数据规范和标准的集合，用作计划和项目的一部分.
@@ -199,7 +199,7 @@
 ### Transportation
 
 - [SharedStreets](https://www.sharedstreets.io)  - SharedStreets 参考系统是一个全局的、非专有的线性参考系统，用于描述由 SharedStreets 维护的街道. 附加信息： [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
-- [CurbLR](https://www.curblr.org)  - SharedStreets 维护的路边法规的开放数据规范. 附加信息： [GitHub](https://www.github.com/sharedstreets/curblr), 演示：交互式 [map and example feed](https://demo.curblr.org/), 博文： [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).    
+- [CurbLR](https://www.curblr.org)  - SharedStreets 维护的路边法规的开放数据规范. 附加信息： [GitHub](https://www.github.com/sharedstreets/curblr), Demo: Interactive [map and example feed](https://demo.curblr.org/), 博文： [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).    
 - [CDS](https://github.com/openmobilityfoundation/curb-data-specification) - 路边数据规范提供路边法规的数据规范以及连接的事件和指标 API，旨在帮助城市管理其路边区域计划和周边区域，并衡量利用率和影响.
 - [GTFS](https://developers.google.com/transit/gtfs) - 通用运输供给规范是描述运输系统的流行标准.
 - [NeTEx](https://netex-cen.eu/) - 网络时间表交换是一种欧洲标准，用于交换用于描述交通系统的标准化时间表和其他系统特征. 
@@ -228,8 +228,8 @@ Python 库和相关资源.
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个建立城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供者：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
-- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取自行车共享数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
-- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
+- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一组 Python 函数，用于从 OpenStreetMap 数据中绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic 是一个 Python 包，它使用 HERE 提供的 API 抓取您喜欢的路线、城市的交通流量数据.
@@ -315,7 +315,7 @@ R 包和相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人士能够发布生活计划并通过支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划，并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划者和建模者设计，用于生成长期、小区域社会经济预测，使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
@@ -323,7 +323,7 @@ R 包和相关资源.
 旨在协助运输规划任务和流程的软件、工具和平台. 
 - [Remix](https://www.remix.com/)  - 一个平台，使城市能够规划最佳的交通系统——从公共交通到更安全的街道，再到不断增加的新交通方式.  Remix 提供了编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
 - [Streetmix](https://streetmix.net/)  - 用于城市设计的协作式公民参与平台. 使用 Streetmix 设计、混音和分享您的社区街道.
-- [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索效果，并使用生成的可视化来传达建议. 获得 Apache 许可，可在任何地方使用 OpenStreetMap 运行，并可在 Web 上运行或作为离线下载.
+- [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 - [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim)  - 综合交通和健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于在城市和国家层面对交通情景和政策的健康影响进行综合评估. 此页面指向不同的文献、R 代码和 [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
@@ -332,6 +332,7 @@ R 包和相关资源.
 - [Encode Plus](https://www.encodeplus.com/) - 帮助现代化规划和分区条例并简化县或市法规和附则管理的软件.
 - [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的许可和办公室内流程的数字政府解决方案（供应商在技术上是公共机构）.
 - [Digiplan](https://digeplan.com/) - 为完全集成的电子计划审查和接收流程提供软件.
+- [OpenGov](https://opengov.com/products/citizen-services/) - 云解决方案通过用户友好的工作流程为每个许可证、许可证和检查提供支持. 
 
 ## Educational and Informational Resources
 与规划相关的文献、信息聚合器或类似资源的集合.
@@ -350,7 +351,7 @@ R 包和相关资源.
 
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是特定的论文，而是它们的策展人. 
-- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和交通部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
+- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和运输部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新的近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题并为决策者提供信息方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），和 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
@@ -408,7 +409,7 @@ R 包和相关资源.
 https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
 
 ### GitHub Contributions
-我们正在积极寻找对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面查看我们推荐的格式. 对于大额贡献，请先提出问题. 以这种方式为 repo 做出贡献的好处是，您对该共享资源的添加将被记录下来. 
+我们正在积极寻找对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面查看我们推荐的格式. 对于大额贡献，请先提出问题. 以这种方式为 repo 做贡献的好处是，您对该共享资源的添加将被记录下来. 
 
 ## License and Citation
 与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0 中. 我们不需要引用，但为了对这个资源产生更多的贡献和理解，我们非常感谢分享这个存储库或在适当的地方引用它. 

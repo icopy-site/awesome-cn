@@ -89,10 +89,10 @@
 * [Material-components-web](https://github.com/material-components/material-components-web) - 适用于 Web 的模块化和可定制的 Material Design UI 组件.
 * [Materialize](http://materializecss.com/) - 基于 Material Design 的现代响应式前端框架.
 * [Milligram](http://milligram.io) - 一个极简的 CSS 框架.
-* [Numl](https://numl.design) - 基于 HTML 的语言和设计系统，可让您创建具有任何外观的响应式和可访问的高质量 Web 界面.
+* [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
 * [Pure.css](http://purecss.io/) - 一组小型的响应式 CSS 模块，您可以在每个 Web 项目中使用它们.
 * [Semantic UI](http://semantic-ui.com/) - 使用人性化 HTML 的强大框架.
-* [Shorthand Framework](https://github.com/shorthandcss/shorthand) - 新十年的功能丰富的 CSS 框架.
+* [Shorthand Framework](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - 一个轻量级、响应式和现代的 CSS 框架.
 * [Strawberry](https://github.com/jfet97/strawberry) - 一组常用的 flexbox 实用程序，专注于使用嵌套的 flexbox 让您的生活更轻松、更快捷.
 * [Tachyons](http://tachyons.io/) - 人类的功能性 CSS.
@@ -257,7 +257,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Podcast](https://thecsspodcast.libsyn.com/) - Una Kravets 和 Adam Argyle，以及发展.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - 寻找最优秀、最聪明的数字艺术创意人士，以及随附的博客和用户体验.
-* [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front-end web design,hosted by Anna Debenham and Brad Frost.
+* [Shop Talk Show](http://shoptalkshow.com/) - 由 Anna Debenham 和 Brad Frost 主持的关于前端网页设计的 Chris Coyier 和 Dave Rupert 的现场播客.
 * [Syntax](https://syntax.fm/) - 面向 Web 开发人员的美味点心播客.、排版、网络技术
 * [The Big Web Show](http://5by5.tv/bigwebshow/) - 像网络发布这样的主题，都是为了让你了解最新的开源技术.
 * [The Changelog](https://changelog.com/)  - 变更日志的标语说明了一切：“开源发展迅速. 赶上.” 这个播客，还有更多. 重要的是网络.
@@ -327,7 +327,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ### 2016
 
 1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `37:24`-Pete Hunt @ CSS conf 2016.
-1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) :page_facing_up: [transcript](https://2016.cssconf.com/) : 观看: `29: 27` - Jen Kramer @ CSS conf 2016.
+1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `29:27` - Jen Kramer @ CSS conf 2016.
 1. [Houdini: Demystifying the Future of CSS](https://www.youtube.com/watch?v=sE3ttkP15f8) ：观看：`36:58`@Google I/O 2016.
 
 ### 2015
@@ -350,8 +350,9 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Tutorials :clapper:
 
 * [30 Seconds of CSS](https://www.30secondsofcode.org/css/p/1) - 精选的有用 CSS 片段集合，您可以在 30 秒或更短的时间内理解.
+* [All selectors in CSS](https://medium.com/@ymzEmre/css-cascade-specificity-basic-selectors-c5adc01dd861) - CSS 中的所有选择器.
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) - 热门推荐资源.
-* [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
+* [CSS Diner](https://flukeout.github.io/) - 使用 CSS 学习选择的交互式游戏化教程.
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - 从 Mozilla 学习 CSS Grid 的简单教程.
 * [CSS Grids videos tutorial](https://cssgrid.io/) - Wes Bos 学习 CSS 网格的免费视频课程.
 * [CSS Math Functions](https://stackdiary.com/css-math-functions/) - 使用 CSS Math 进行响应式设计.
@@ -366,7 +367,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 [sotayamashita]：https://github.com/sotayamashita
 [Rishabh04-02]：https://github.com/Rishabh04-02
 
-[@sotayamashita][sotayamashita]，[@Rishabh04-02][Rishabh04-02] 还有你！
+[@sotayamashita] [sotayamashita]，[@Rishabh04-02] [Rishabh04-02] 还有你！
 
 
 ## Contribute
