@@ -481,7 +481,7 @@
 * [OpenEXR](http://www.openexr.com/)  - 用于高动态范围成像的跨平台库.  [修改后的 BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)  - 强大的图像和纹理处理库，支持多种常见的有损和 RAW 格式.  [修改后的 BSD]
 * [SAIL](https://github.com/happy-sea-fox/sail)  - 易于使用的跨平台图像解码库，带有可插拔的图像编解码器.  [麻省理工学院]
-* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)、NEON for ARM.  [麻省理工学院]
+* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)，用于 ARM 的 NEON.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  - STB 单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  - OCR 引擎.  [阿帕奇2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)  - 适用于 JPEG 的符合 ISO 标准的微型 C++ EXIF 和 XMP 解析库.  [麻省理工学院]
@@ -623,7 +623,7 @@
 * [StatsLib](https://github.com/kthohr/stats)  - 一个只有 C++ 头文件的统计分布函数库.  [阿帕奇2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine)  - 快速符号操作库，用 C++ 重写 SymPy 的核心.  [麻省理工学院]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  - 用于从字符串解析和评估数学表达式的 AC 库.  [zlib]
-* [Vc](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. [BSD]
+* [Vc](https://github.com/VcDevel/Vc)  - C++ 的 SIMD 向量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 用于几何代数的（快速）通用 C++ 库，包括欧几里得、投影、保形、时空（等）.
 * [Wykobi](http://www.wykobi.com/)  - 一个高效、强大且易于使用的 C++ 2D/3D 面向计算几何例程的 C++ 库.  [麻省理工学院]
 * [xtensor](https://github.com/xtensor-stack/xtensor)  - 受 NumPy 语法启发，用于使用多维数组表达式进行数值分析的 C++14 库.  [BSD 3 条款] [website](https://xtensor-stack.github.io/xtensor)
@@ -667,7 +667,7 @@
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 现代 C++ HTTP 请求库，具有简单但功能强大的接口. 仿照 Python 请求模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
@@ -703,7 +703,7 @@
 * [Tufão](https://github.com/vinipsmaker/tufao)  - 基于 Qt 构建的 C++ 异步 Web 框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  - 严格符合 RFC 3986 的 URI 解析和处理库.  [BSD-3-条款]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  - µWS 是可用的最轻量级、最高效和可扩展的 WebSocket 和 HTTP 服务器实现之一.  [Zlib]
-* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻软件平台，用于可扩展的服务器端和网络应用程序. 想想 C 程序员的 node.js.  [GPL2]
+* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻型软件平台，用于可扩展的服务器端和网络应用程序. 想想 C 程序员的 node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)  - 用于构建异步、事件驱动的现代 C++ 服务的客户端/服务器应用程序框架.  [Apache-2.0]
 * [wdt](https://github.com/facebook/wdt)  - 一个嵌入式库（和命令行工具），旨在通过多个 TCP 路径在 2 个系统之间尽可能快地传输数据.  [BSD-3-条款]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp)  - 基于 C++/Boost Asio 的 websocket 客户端/服务器库.  [BSD]
@@ -834,7 +834,7 @@
 ## Sorting
 
 * [pdqsort](https://github.com/orlp/pdqsort)  - 击败模式的快速排序.  [zlib]
-* [Timsort](https://github.com/gfx/cpp-TimSort)  - 一个模板化的稳定排序函数，它优于基于快速排序的算法，包括 std::sort，用于反向或半排序数据.  [麻省理工学院]
+* [Timsort](https://github.com/gfx/cpp-TimSort)  - 一个模板化的稳定排序功能，它优于基于快速排序的算法，包括 std::sort，用于反向或半排序数据.  [麻省理工学院]
 * [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 一个排序包装器，它允许在非随机访问容器中使用 std::sort（和其他随机访问排序功能），并且还提高了随机访问容器中大型/非平凡可复制类型的排序性能和数组.  [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
@@ -964,7 +964,7 @@
 * [coliru](http://coliru.stacked-crooked.com/) - 支持各种 C++ 编译器的在线编译器/shell.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有可用汇编输出的交互式编译器.
 * [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - 在 Linux 上在线编译和执行 C++.
-* [Ideone](http://ideone.com/) - 一个在线编译器和调试工具，可让您以 60 多种编程语言编译源代码并在线执行.
+* [Ideone](http://ideone.com/) - 一个在线编译器和调试工具，可让您以 60 多种编程语言编译和在线执行源代码.
 * [repl.it](https://repl.it) - 一个强大而简单的工具和平台，适用于教育工作者、学习者和开发人员.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多种编译器（Clang、GCC、MSVC）和多种编辑器.
 * [Try It Online](https://tio.run/) - TIO 是一个在线解释器系列，用于不断增长的实用和娱乐编程语言列表.
@@ -1012,7 +1012,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -1049,11 +1049,12 @@
 * [Linticator](http://linticator.com) - Pc-/FlexeLint 的 Eclipse CDT 集成.
 * [IKOS](https://github.com/NASA-SW-VnV/ikos)  - 基于抽象解释理论的 C/C++ 静态分析器.  [NOSA 1.3]
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
+* [OptView2](https://github.com/OfekShilon/optview2) - 检查错过的 Clang 优化
 
 ## Coding Style Tools
 
 * [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
-* [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - 格式化 C/C++/Obj-C 代码的工具.
+* [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - 基于 Clang 的 C++ linter 工具.
 * [EditorConfig](https://editorconfig.org/) - EditorConfig 有助于在不同的编辑器和 IDE 之间保持一致的编码风格.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) - 代码美化器.
@@ -1175,7 +1176,7 @@
 *其他非常棒的清单*
 
 * [lists](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 一个令人敬畏的精选列表.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 令人敬畏的精选列表.
 * [awesome](https://github.com/sindresorhus/awesome) :zap: - 精选列表.
 * [C++ links](https://github.com/MattPD/cpplinks) - C++ 资源的分类列表.
 * [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness() 的镜像.

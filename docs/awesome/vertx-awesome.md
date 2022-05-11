@@ -33,11 +33,11 @@
 * [Kovert](https://github.com/kohesive/kovert) - Kotlin + Vert.x Web 的隐形 REST 框架.
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) - Vert.x 的开放网络框架.
 * [QBit](https://github.com/advantageous/qbit) - REST 和 WebSocket 方法调用编组和反应库.
-* [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
+* [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - 文件系统或 redis 数据库中 REST 资源的持久性.
 * [Jubilee](https://github.com/isaiah/jubilee) - 基于 Vert.x 3 构建的机架兼容 Ruby HTTP 服务器.
 * [Knot.x](https://github.com/Cognifide/knotx) - 基于 Vert.x 3 构建的现代网站的高效和高性能集成平台.
 * [Irked](https://github.com/GreenfieldTech/irked) - Vert.x 3 Web 和控制器框架的基于注释的配置.
-* [REST.VertX](https://github.com/zandero/rest.vertx) - 轻量级 JAX-RS (RestEasy)，例如 Vert.x 垂直领域的注释处理器.
+* [REST.VertX](https://github.com/zandero/rest.vertx) - 轻量级 JAX-RS (RestEasy)，类似于 Vert.x 垂直领域的注释处理器.
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) - 用于 JVM 的实时客户端服务器框架，支持 WebSockets 和具有跨浏览器回退的服务器发送事件.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - 在 Vert.x 上运行 Vaadin 应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) - 允许您仅使用路由处理程序注释快速轻松地设置 Vert.x 驱动的服务器.
@@ -141,7 +141,7 @@
 
 ## Middleware
 
-* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) 用于将 Camel 与 Vert.x 事件总线桥接的组件.
+* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
 * [Gateleen](https://github.com/swisspush/gateleen) - 基于 Vert.x 的中间件库，用于构建高级 JSON/REST 通信服务器.
 * [Gravitee.io](https://gravitee.io) - 一个OSS API平台，包括一个API网关和一个基于Vert.x Core/Vert.x Web等模块的OAuth2/OIDC授权服务器.
 * [API Framework](https://github.com/vinscom/api-framework)  - 基于 Vert.x 和 Glue 的微服务框架消除了独立应用程序和无服务应用程序之间的区别. 所有服务都可以在独立服务器中运行，但如果需要，可以使用相同的代码库将任何服务作为无服务器应用程序运行.
@@ -237,7 +237,7 @@
 
 ## Dependency Injection
 
-* [Vert.x Guice](https://github.com/englishtown/vertx-guice) - 用于 Guice 依赖注入的 Vert.x 垂直工厂.
+* [Vert.x Guice](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
 * [Vert.x HK2](https://github.com/englishtown/vertx-hk2) - 用于 HK2 依赖注入的 Vert.x 垂直工厂.
 * [Spring Vert.x Extension](https://github.com/amoAHCP/spring-vertx-ext) - 用于 Spring DI 注入的 Vert.x 垂直工厂.
 * [Vert.x Beans](https://github.com/rworsnop/vertx-beans) - 将 Vert.x 对象作为 bean 注入到您的 Spring 应用程序中.
@@ -289,6 +289,7 @@
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) - 用于部署到的示例 Vert.x [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
 * [Knative](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) - 关于如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 和 [Knative](https://github.com/knative).
 * [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) - REST API Starter 和项目模板可随时部署，其中包含大量管道代码、示例和文档，可在几乎不了解 vert.x 且不浪费任何时间的情况下快速开发 API.
+* [AI model output API based on PMML with Vert.x](https://github.com/immusen/vertx-pmml)  - 基于 Vert.x 的高性能 PMML 评估器 API. 支持通过 JSON 对多个 PMML 模型进行动态路由配置.
 
 ## Deployment
 

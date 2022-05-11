@@ -22,7 +22,7 @@
 
  - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
- - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) - 有关 MongoDB 设计模式的系列文章以及每种设计模式的常见用例以及真实世界的示例.
+ - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) - 关于 MongoDB 设计模式的系列文章和每个设计模式的常见用例以及真实世界的示例.
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - 规模 101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - 你需要/必须知道的关于索引的一切
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
@@ -34,7 +34,7 @@
  - [Builder Book](https://builderbook.org) - 了解如何从头开始构建全栈 JavaScript Web 应用程序
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
  - [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - 如何开发有效和优化的数据操作和分析管道
- - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - 基本介绍
+ - [The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) - 基本介绍
  - [SaaS Boilerplate Book](https://builderbook.org/book) - 了解如何从头开始构建生产就绪的 SaaS Web 应用程序
 
 ### Talks
