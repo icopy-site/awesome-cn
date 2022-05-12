@@ -17,7 +17,7 @@
 - [Arduino](https://www.arduino.cc/)  - Arduino 是一个基于易于使用的硬件和软件的开源电子平台. 它适用于任何制作交互式项目的人.
 - [BeagleBoard](http://beagleboard.org/) - BeagleBoard 是德州仪器与 Digi-Key 和 Newark element14 联合生产的低功耗开源硬件单板计算机.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)  - DragonBoard 410c 是艾睿电子的产品，是基于中端 Qualcomm® Snapdragon™ 410E 处理器的开发板. 它具有先进的处理能力、Wi-Fi、蓝牙连接和 GPS，所有这些都封装在一张信用卡大小的板上.
-- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的继任者.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代互联产品中的微控制器.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的继任者.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代连接产品中的微控制器.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard 是基于 1GHz 飞思卡尔 i.MX6 SoC 的三个支持 Linux 和 Android 的开源 SBC 系列，具有类似 Pi 的 26 针 I/O 连接器.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔® Galileo Gen 2 开发板是 Arduino* 认证开发和原型开发板系列中的第一款，基于英特尔® 架构，专为创客、学生、教育工作者和 DIY 电子爱好者设计.
 - [Microduino](https://www.microduino.cc/)  - Microduino 和 mCookie 为各个年龄段的制造商、设计师、工程师、学生和好奇的修补匠带来了强大、小巧、可堆叠的电子硬件. 构建开源项目或创建创新的新项目.
@@ -39,13 +39,13 @@
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - **注意：Android Things 已贬值.** Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置并与彼此以及您的智能手机无缝协作. 
- - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上，用于路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，小到足以适应家庭路由器中有限的存储空间和内存.
+ - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，足够小以适应家庭路由器中有限的存储空间和内存.
  - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy)  - Snappy Ubuntu Core 是带有事务更新的 Ubuntu 新版本. 它提供了一个最小的服务器映像，其中包含与今天的 Ubuntu 相同的库，但应用程序是通过更简单的机制提供的.
  - [Mbed OS](https://os.mbed.com/)  - 物联网 (IoT) Cortex-M 板的开源操作系统：低功耗、受限和连接.  Mbed OS 为其运行的微控制器提供了一个抽象层，因此开发人员可以编写在任何支持 Mbed 的板上运行的 C/C++ 应用程序.
  - [NodeOS](http://node-os.com/) - NodeOS 是一个完全用 Javascript 编写的操作系统，由 npm 在 Linux 内核之上管理.
  - [Raspbian](https://raspbian.org/) - Raspbian 是基于 Debian 的免费操作系统，针对 Raspberry Pi 硬件进行了优化.
  - [RIOT](http://www.riot-os.org/) - 物联网友好的操作系统.
- - [Tiny OS](https://github.com/tinyos/tinyos-main) - TinyOS 是一个开源的、获得 BSD 许可的操作系统，专为低功耗无线设备而设计，例如用于传感器网络、普适计算、个人区域网络、智能建筑和智能电表的设备.
+ - [Tiny OS](https://github.com/tinyos/tinyos-main) - TinyOS 是一个开源的、获得 BSD 许可的操作系统，专为低功耗无线设备设计，例如用于传感器网络、普适计算、个人区域网络、智能建筑和智能电表的设备.
  - [UBOS](https://ubos.net/)  - UBOS 是一个 Linux 发行版，专注于简化家庭服务器和运行 Web 应用程序的独立物联网设备的系统管理.  Arch Linux 的衍生产品，可在 PC、Raspberry Pis、ESPRESSObin 和云上运行.
  - [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT 是 Windows 10 版本系列，面向广泛的智能设备，从小型工业网关到更大更复杂的设备，如销售点终端和 ATM.
   - [Zephyr Project](https://www.zephyrproject.org/) - Zephyr™ 项目是一个可扩展的实时操作系统 (RTOS)，支持多种硬件架构，针对资源受限的设备进行了优化，并在构建时考虑了安全性.
@@ -56,7 +56,7 @@
 
  - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - 一种通用的命令式计算机编程语言，支持结构化编程、词法变量范围和递归，而静态类型系统可防止许多意外操作.
  - [C++](https://en.wikipedia.org/wiki/C%2B%2B)  - 一种通用编程语言. 它具有命令式、面向对象和通用编程特性，同时还提供了低级内存操作的工具.
- - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉和易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
+ - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉且易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
  - [Lua](http://www.lua.org/)  - Lua 是一种强大、快速、轻量级、可嵌入的脚本语言.  Lua 是动态类型的，通过解释基于寄存器的虚拟机的字节码运行，并具有自动内存管理和增量垃圾收集，使其成为配置、脚本和快速原型设计的理想选择.
  - [eLua](http://www.eluaproject.net/) - eLua 代表 Embedded Lua，该项目为嵌入式世界提供 Lua 编程语言的完整实现，并通过特定功能对其进行扩展，以实现高效和可移植的软件嵌入式开发.
  - [ELFE](http://c3d.github.io/elfe/)  - ELFE 是一种非常简单且小型的编程语言. 虽然它是一种通用编程语言，但它经过专门调整以促进对传感器或执行器等小型设备群的配置和控制.
@@ -79,7 +79,7 @@
  - [Iotivity](https://iotivity.org/) - IoTivity 是一个开源软件框架，可实现设备到设备的无缝连接，以满足物联网的新兴需求.
  - [Kura](https://eclipse.org/kura/)  - Kura 旨在为在服务网关中运行的 M2M 应用程序提供基于 Java/OSGi 的容器.  Kura 为 M2M 应用程序所需的最常见服务提供或聚合开源实现.
  - [Lelylan](http://www.lelylan.com/)  - Lelylan 是一个基于轻量级微服务架构的物联网云平台.  Lelylan 平台既与硬件无关，也与平台无关. 这意味着您可以连接任何硬件，从 ESP8266 到最专业的嵌入式硬件解决方案以及介于两者之间的一切 - 它可以在任何公共云、您自己的私有数据中心甚至混合环境中运行，无论是虚拟化还是裸机.
- - [Macchina.io](https://github.com/macchina-io/macchina.io)  - macchina.io EDGE 是一个丰富的软件框架，用于快速构建在基于 Linux 的设备上运行的物联网设备应用程序.  macchina.io EDGE 实现了一个支持 Web 的、安全的、模块化和可扩展的 JavaScript 和 C++ 运行时环境，并提供了即用型和经过行业验证的软件构建块. 这些使设备能够与各种传感器、其他设备和云服务通信，并在本地、边缘设备或本地网络内处理、分析和过滤传感器数据.
+ - [Macchina.io](https://github.com/macchina-io/macchina.io)  - macchina.io EDGE 是一个丰富的软件框架，用于快速构建在基于 Linux 的设备上运行的物联网设备应用程序.  macchina.io EDGE 实现了一个支持 Web 的、安全的、模块化的和可扩展的 JavaScript 和 C++ 运行时环境，并提供了即用型和经过行业验证的软件构建块. 这些使设备能够与各种传感器、其他设备和云服务通信，并在本地、边缘设备或本地网络内处理、分析和过滤传感器数据.
  - [Mihini](https://wiki.eclipse.org/Mihini)  - Mihini 的主要目标是提供在 Linux 之上运行的嵌入式运行时，它公开用于构建 M2M 应用程序的高级 API.  Mihini 旨在通过促进对 M2M 系统的 I/O 的访问、提供通信层等来实现简单和可移植的开发.
  - [OpenHAB](http://www.openhab.org/)  - openHAB 运行时是一组部署在 OSGi 框架 (Equinox) 上的 OSGi 包. 因此，它是一个纯 Java 解决方案，需要 JVM 才能运行. 基于 OSGi，它提供了高度模块化的架构，甚至允许在运行时添加和删除功能而无需停止服务.
  - [Gobot](http://gobot.io/) - Gobot 是一个用于机器人、物理计算和物联网的框架，用 Go 编程语言编写.
@@ -95,7 +95,7 @@
 #### Middlewares
 
  - [Corlysis](https://corlysis.com/)  - Corlysis 是一个平台，可帮助您存储和可视化您的时间序列数据. 它基于 SpaceX 使用的开源项目 Grafana 和 InfluxDB.
- - [IFTTT](https://ifttt.com/)  - IFTTT 是一项基于 Web 的服务，它允许用户创建称为“食谱”的简单条件语句链，这些语句是基于对其他 Web 服务（如 Gmail、Facebook、Instagram 和 Pinterest）的更改而触发的.  IFTTT 是“If This Then That”的缩写（读作“gift”，不带“g”）.
+ - [IFTTT](https://ifttt.com/)  - IFTTT 是一项基于 Web 的服务，它允许用户创建称为“食谱”的简单条件语句链，这些条件语句会根据其他 Web 服务（如 Gmail、Facebook、Instagram 和 Pinterest）的更改而触发.  IFTTT 是“If This Then That”的缩写（读作“gift”，不带“g”）.
  - [OPC Router](https://www.opc-router.com/opc-router-details/) - 具有各种插件的物联网网关（OPC UA、Mqtt、SQL、REST、SAP、InfluxDB、打印机等）
  - [Huginn](https://github.com/cantino/huginn) - Huginn 是一个系统，用于构建代理，为您在线执行自动化任务.
  - [Kaa](http://www.kaaproject.org/) - 用于快速创建物联网解决方案的开源中间件平台.
@@ -109,7 +109,7 @@
  - [Thingspeak](https://thingspeak.com/)  - 一种开源物联网分析平台服务，可让您聚合、可视化和分析云中的实时数据流. 您可以从您的设备向 ThingSpeak 发送数据，创建实时数据的即时可视化，并发送警报.
  - [VerneMQ](https://github.com/erlio/vernemq)  - VerneMQ 是一个高性能的分布式 MQTT 代理，可连接 IoT、M2M、移动和 Web 应用程序. 它在商品硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle)  - 具有实时发布/订阅或地理围栏等高级功能的开源后端以及支持 MQTT、LoRaWAN 等的多协议接口.  ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
- - [DevicePilot](https://www.devicepilot.com) - 连接设备的操作分析（包括永久免费层）.
+ - [DevicePilot](https://www.devicepilot.com) - 连接设备的运营分析（包括永久免费层）.
  - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
  - [Waterstream](https://waterstream.io/) - MQTT 代理利用 Apache Kafka 作为自己的存储和分发引擎.
  - [NanoMQ](https://github.com/nanomq/nanomq) - 用于 IoT Edge 平台的轻量级和超快的 MQTT 代理.
@@ -120,7 +120,7 @@
 
  - [Cylon.js](http://cylonjs.com/)  - Cylon.js 是一个用于机器人、物理计算和物联网的 JavaScript 框架. 它使指挥机器人和设备变得异常容易.
  - [Luvit](https://luvit.io/)  - Luvit 实现了与 Node.js 相同的 API，但在 Lua 中！ 尽管此框架不直接参与物联网开发，但它仍然是快速构建强大但内存高效的嵌入式 Web 应用程序的*好方法.
- - [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
+ - [Johnny-Five](http://johnny-five.io/)  - Johnny-Five 是最初的 JavaScript Robotics 编程框架. 由 Bocoup 于 2012 年发布，Johnny-Five 由一个充满热情的软件开发人员和硬件工程师组成的社区维护.
  - [Pi4J](http://pi4j.com/) - Pi4j 旨在为 Java 程序员提供友好的面向对象的 I/O API 和实现库，以访问 Raspberry Pi 平台的完整 I/O 功能.
  - [WiringPi](http://wiringpi.com/) - WiringPi 是一个用 C 语言编写的 GPIO 访问库，用于 Raspberry Pi 中使用的 BCM2835.
  - [Node-RED](http://nodered.org/) - 用于连接物联网的可视化工具.
@@ -139,13 +139,14 @@
  - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建者.
  - [Nebula](http://nebula.readthedocs.io) - 一个用于管理物联网设备的 docker 编排器.
  - [Gladys](https://gladysassistant.com) - Gladys 是一个在树莓派上运行并集成到整个家庭网络系统中的开源程序.
+ - [authBroker](https://github.com/authbroker/authbroker) - Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter，如 Aedes.
 ## Protocols and Networks
 
 ### Physical layer
 
 #### <img width="50" src="http://www.ieee802.org/15/pub/ieee802-15%20logo.jpg" /> - [802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15.4) (IEEE)
 
- IEEE 802.15.4 是一种标准，它规定了低速率无线个人区域网络 (LR-WPAN) 的物理层和媒体访问控制. 它由 IEEE 802.15 工作组维护，该工作组于 2003 年对其进行了定义.它是 ZigBee、ISA100.11a、WirelessHART 和 MiWi 规范的基础，每个规范都通过开发不属于在 IEEE 802.15.4 中定义. 或者，它可以与 6LoWPAN 和标准互联网协议一起使用，以构建无线嵌入式互联网.  - [Wikipedia](https://en.wikipedia.org/wiki/IEEE_802.15.4)
+ IEEE 802.15.4 是一个标准，它规定了低速率无线个人区域网络 (LR-WPAN) 的物理层和媒体访问控制. 它由 IEEE 802.15 工作组维护，该工作组于 2003 年对其进行了定义.它是 ZigBee、ISA100.11a、WirelessHART 和 MiWi 规范的基础，每个规范都通过开发不属于在 IEEE 802.15.4 中定义. 或者，它可以与 6LoWPAN 和标准互联网协议一起使用，以构建无线嵌入式互联网.  - [Wikipedia](https://en.wikipedia.org/wiki/IEEE_802.15.4)
 
  &gt; IEEE 标准 802.15.4 旨在提供一种无线个人区域网络 (WPAN) 的基本较低网络层，该网络专注于设备之间的低成本、低速无处不在的通信. 它可以与提供更多带宽并需要更多功率的其他方法（例如 Wi-Fi）进行对比. 重点是在几乎没有基础设施的情况下与附近设备进行非常低成本的通信，旨在利用这一点进一步降低功耗.
 
@@ -157,9 +158,9 @@
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bluetooth_Smart_Logo.svg/241px-Bluetooth_Smart_Logo.svg.png" /> - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy) (Bluetooth Special Interest Group)
 
-低功耗蓝牙（Bluetooth LE，BLE，作为蓝牙智能销售）是一种由蓝牙特别兴趣小组设计和销售的无线个人区域网络技术，旨在针对医疗保健、健身、信标、安全和家庭娱乐行业的新应用.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
+低功耗蓝牙（Bluetooth LE，BLE，作为蓝牙智能销售）是一种无线个人区域网络技术，由蓝牙特别兴趣小组设计和销售，旨在医疗保健、健身、信标、安全和家庭娱乐行业的新应用.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
 
- &gt; 与经典蓝牙相比，智能蓝牙旨在提供显着降低的功耗和成本，同时保持相似的通信范围. 蓝牙 SIG 预测，到 2018 年，超过 90% 的蓝牙智能手机将支持蓝牙智能.
+> Compared to Classic Bluetooth, Bluetooth Smart is intended to provide considerably reduced power consumption and cost while maintaining a similar communication range. The Bluetooth SIG predicts that by 2018 more than 90 percent of Bluetooth-enabled smartphones will support Bluetooth Smart.
 
 #### [EC-GSM-IoT](http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/) (EC-GSM-IoT Group)
 
@@ -205,7 +206,7 @@ Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络�
  Thread 使用 6LoWPAN，后者又使用 IEEE 802.15.4 无线协议和网状通信，ZigBee 和其他系统也是如此. 然而，Thread 是 IP 可寻址的，具有云访问和 AES 加密. 它支持网络上的 250 多个设备.
 
 
- ZigBee 是一套基于 IEEE 802.15.4 的高级通信协议规范，用于创建具有小型、低功率数字无线电的个人区域网络.  - [Wikipedia](https://en.wikipedia.org/wiki/ZigBee)
+ ZigBee 是一种基于 IEEE 802.15.4 的规范，用于一套高级通信协议，用于创建具有小型、低功率数字无线电的个人区域网络.  - [Wikipedia](https://en.wikipedia.org/wiki/ZigBee)
 
  &gt; ZigBee 规范定义的技术旨在比蓝牙或 Wi-Fi 等其他无线个人区域网络 (WPAN) 更简单、更便宜. 应用包括无线灯开关、带有家庭显示器的电表、交通管理系统以及其他需要短距离低速率无线数据传输的消费类和工业设备.
 
@@ -213,7 +214,7 @@ Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络�
 
  Z-Wave 是一种无线通信规范，旨在允许家庭设备（例如照明、访问控制、娱乐系统和家用电器）相互通信以实现家庭自动化.  - [Wikipedia](https://en.wikipedia.org/wiki/Z-Wave)
 
- &gt; Z-Wave 技术将功耗降至最低，因此适用于电池供电的设备.  Z-Wave 旨在以高达 100kbit/s 的数据速率提供可靠、低延迟的小数据包传输，这与主要为高数据速率设计的 Wi-Fi 和其他基于 IEEE 802.11 的无线 LAN 系统不同.  Z-Wave 在 900 MHz 左右的亚千兆赫频率范围内运行.
+ &gt; Z-Wave 技术将功耗降至最低，因此适用于电池供电的设备.  Z-Wave 旨在以高达 100kbit/s 的数据速率提供可靠、低延迟的小数据包传输，这与主要用于高数据速率的 Wi-Fi 和其他基于 IEEE 802.11 的无线 LAN 系统不同.  Z-Wave 在 900 MHz 左右的亚千兆赫频率范围内运行.
 
 ### Application layer
 
@@ -254,7 +255,7 @@ iBeacon 是 Apple 标准化的协议，并于 2013 年在 Apple 全球开发者�
 
  PJON®（填充抖动操作网络）是一种与 Arduino 兼容的多主机多媒体网络协议. 它提出了一个标准，它被设计为一个框架并实现了一个完全软件模拟的网络协议栈，可以在许多架构上轻松交叉编译，如 ATtiny、ATmega、ESP8266、ESP32、STM32、Teensy、Raspberry Pi、Linux、Windows x86和苹果机器. 它是快速、全面地构建设备网络的有效工具. 访问 wiki 和文档以了解有关 PJON 标准的更多信息.
 
-&gt; PJON 被用于数千台设备，其社区因以下 6 个关键因素而遍布全球：新技术、多媒体支持、增强的安全性、增强的可靠性、高灵活性和低成本.
+&gt; PJON 被用于成千上万的设备，其社区因以下 6 个关键因素而遍布全球：新技术、多媒体支持、增强的安全性、增强的可靠性、高灵活性和低成本.
 
 #### <img width="50" src="https://stomp.github.io/images/project-logo.png" /> - [STOMP](https://stomp.github.io/)
 
@@ -266,11 +267,11 @@ iBeacon 是 Apple 标准化的协议，并于 2013 年在 Apple 全球开发者�
 
 WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. - [Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 
- &gt; WebSocket 旨在在 Web 浏览器和 Web 服务器中实现，但它可以被任何客户端或服务器应用程序使用.  WebSocket 协议是一个独立的基于 TCP 的协议.  WebSocket 协议使浏览器和网站之间的更多交互成为可能，促进实时内容和实时游戏的创建. 这是通过为服务器提供一种标准化的方式来实现的，该方式无需客户端请求即可向浏览器发送内容，并允许在保持连接打开的同时来回传递消息.
+ &gt; WebSocket 设计用于在 Web 浏览器和 Web 服务器中实现，但它可以被任何客户端或服务器应用程序使用.  WebSocket 协议是一个独立的基于 TCP 的协议.  WebSocket 协议使浏览器和网站之间的更多交互成为可能，促进实时内容和实时游戏的创建. 这是通过为服务器提供一种标准化的方式来实现的，该方式无需客户端请求即可向浏览器发送内容，并允许在保持连接打开的同时来回传递消息.
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" /> - [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
- Extensible Messaging and Presence Protocol (XMPP) 是一种基于 XML（可扩展标记语言）的面向消息中间件的通信协议.  - [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
+ Extensible Messaging and Presence Protocol (XMPP) 是一种基于 XML（可扩展标记语言）的面向消息的中间件的通信协议.  - [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
 
  &gt; 它支持在任何两个或多个网络实体之间近乎实时地交换结构化但可扩展的数据. 该协议设计为可扩展的，还被用于发布订阅系统、VoIP 信令、视频、文件传输、游戏、物联网 (IoT) 应用（如智能电网）和社交网络服务.
 
@@ -303,10 +304,10 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许工业环境语�
 - [LoRa Alliance](https://www.lora-alliance.org/)  - LoRa 联盟是一个开放的、非营利的成员协会，它相信物联网时代已经到来. 它由行业领导者发起，其使命是标准化世界各地部署的低功耗广域网 (LPWAN)，以支持物联网 (IoT)、机器对机器 (M2M) 和智慧城市以及工业应用.
 - [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/)  - OPC 基金会的使命是管理一个全球性组织，用户、供应商和联盟在其中合作创建数据传输标准，以实现工业自动化中的多供应商、多平台、安全和可靠的互操作性. 为了支持这一使命，OPC 基金会
 创建和维护规范，通过认证测试确保符合 OPC 规范，并与行业领先的标准组织合作.
-- [Thread Group](http://threadgroup.org/) - 由来自 Nest、三星、ARM、飞思卡尔、Silicon Labs、Big Ass Fans 和耶鲁大学的成员组成的 Thread Group 推动了 Thread 网络协议的发展.
-- [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® 是一个全球性的公司网络，由几家公司组成一个全球非营利协会，其目标是通过新的无线网络技术推动最佳用户体验——无论品牌如何.
+- [Thread Group](http://threadgroup.org/) - 由 Nest、三星、ARM、飞思卡尔、Silicon Labs、Big Ass Fans 和耶鲁大学的成员组成的 Thread Group 推动了 Thread 网络协议的发展.
+- [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® 是一个全球性的公司网络，由几家公司组成一个全球非营利性协会，其目标是通过新的无线网络技术推动最佳用户体验——无论品牌如何.
 - [Zigbee Alliance](http://www.zigbee.org/) - ZigBee 联盟是一个由大约 450 名成员组成的开放的非营利性协会，致力于推动创新、可靠和易于使用的 ZigBee 标准的开发.
-- [Z-Wave Alliance](http://z-wavealliance.org/) - Z-Wave 联盟成立于 2005 年，由全球行业领导者组成，他们致力于开发和扩展 Z-Wave，将其作为“智能”家庭和商业应用的关键支持技术.
+- [Z-Wave Alliance](http://z-wavealliance.org/) - Z-Wave 联盟成立于 2005 年，由全球行业领导者组成，他们致力于开发和扩展 Z-Wave 作为“智能”家庭和商业应用的关键支持技术.
 
 ## Resources
 
@@ -318,7 +319,7 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许工业环境语�
 
 #### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) *by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)* [4.5]
 
- &gt; 准备好使用 ZigBee 无线网络协议和 Series 2 XBee 无线电创建分布式传感器系统和智能交互设备. 当您完成这本快节奏的实践指南的一半时，您将构建一系列有用的项目，包括提供遥感数据的完整 ZigBee 无线网络.
+ &gt; 准备好使用 ZigBee 无线网络协议和 Series 2 XBee 无线电来创建分布式传感器系统和智能交互设备. 当您完成这本快节奏的实践指南的一半时，您将构建一系列有用的项目，包括提供遥感数据的完整 ZigBee 无线网络.
 
 #### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1) (2013) *by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)* [4.0]
 
@@ -348,7 +349,7 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许工业环境语�
 - [A Reference Architecture for the Internet of Things](http://wso2.com/wso2_resources/wso2_whitepaper_a-reference-architecture-for-the-internet-of-things.pdf) - 本白皮书介绍了物联网 (IoT) 的参考架构：这包括设备以及与设备交互和管理设备所需的服务器端和云架构.
 - [Developing solutions for the Internet of Things](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/white-papers/developing-solutions-for-iot.pdf) - 英特尔在实现物联网 (IoT) 安全无缝解决方案方面的愿景.
 - [Evaluation of indoor positioning based on Bluetooth Smart technology](http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf) - 计算机系统和网络项目的理学硕士论文.
-- [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf)  - 本文提出了以云为中心的物联网全球实施愿景. 讨论了可能在不久的将来推动物联网研究的关键使能技术和应用领域.
+- [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf)  - 本文提出了以云为中心的全球物联网实施愿景. 讨论了可能在不久的将来推动物联网研究的关键使能技术和应用领域.
 - [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - 电信行业协会 (TIA) 的白皮书，以一系列建议的形式向政策制定者提出，以利用和实现物联网市场的潜力.
 - [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - 本白皮书比较了当前物联网市场的兴起与其他工业革命、它带来的挑战以及它对我们日常生活的影响.
 

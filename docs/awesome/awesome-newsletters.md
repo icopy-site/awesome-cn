@@ -191,15 +191,15 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
-- [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
+- [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
 ### Python
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
 - [Weekly Python Newsletter](https://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox. [Archive](https://importpython.com/newsletter/archive/).
-- [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向对 Python 开发和有关 Python 的各种主题感兴趣的人.
+- [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，适用于那些对 Python 开发和有关 Python 的各种主题感兴趣的人.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周概述最流行的 Python 新闻、文章和包.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
 
@@ -262,6 +262,7 @@
 - [BSD Weekly](https://bsdweekly.com/) . 一份免费的、每周一次的 BSD 新闻和文章综合电子邮件.
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) . 每周最新的 MacMost 教程、提示和新闻都在您的收件箱中.
 - [NixOS Weekly](https://weekly.nixos.org) . 最新消息 [NixOS](https://nixos.org)
+- [Console Weekly](https://console.substack.com/) . 发现酷炫的开源项目，每周采访一位开发人员. 
 
 ## Git
 
@@ -378,7 +379,7 @@
 
 - [Finimize](https://insider.finimize.com/) .  3分钟了解今日财经新闻. 免费.
 - [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章可帮助初创公司和企业主了解如何实施定价策略.
-- [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
+- [FBA monthly](https://www.fbamonthly.com/) .  FBA 月刊是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于导航指数基金时代、了解经济和破解资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选的创业世界中的佼佼者.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，其中包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
@@ -395,7 +396,7 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
@@ -416,7 +417,7 @@
 
 - [Founder Weekly](http://www.founderweekly.com/) . 面向企业家的免费每周通讯，其中包含最佳策划内容、必读文章、指南、提示和技巧、资源、活动等.
 - [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
-- [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络上的声音感兴趣的人们提供的每周通讯.
+- [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web 音频 API、Web MIDI API 或一般网络上的声音感兴趣的人们提供的每周通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇数据集的每周通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周通讯，汇集了初创公司生态系统中的最佳资源.
 - [Changelog Nightly](https://changelog.com/nightly) . 每天晚上 10 点发送一封电子邮件，在 GitHub 上挖掘最热门的新存储库.
