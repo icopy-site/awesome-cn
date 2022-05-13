@@ -501,7 +501,7 @@
 - [bandit](https://bandit.readthedocs.io/en/latest) — 在 Python 代码中查找常见安全问题的工具.
 - [bellybutton](https://github.com/hchasestevens/bellybutton) — 支持自定义项目特定规则的 linting 引擎.
 - [Black](https://black.readthedocs.io/en/stable) — 毫不妥协的 Python 代码格式化程序.
-- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流畅 API，用于在代码中生成复杂的代码修改.
+- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流利的 API，用于在代码中生成复杂的代码修改.
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  :warning: — Linter、格式化程序和测试套件助手. 作为 linter，它是 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的包装器.
 - [cohesion](https://github.com/mschwager/cohesion) :warning: — 一个测量 Python 类凝聚力的工具.
 - [Dlint](https://github.com/dlint-py/dlint) — 确保 Python 代码安全的工具.
@@ -641,7 +641,7 @@
 
 <h2 id="tcl">Tcl</h2>
 
-- [Frink](http://catless.ncl.ac.uk/Programs/Frink) — 一个 Tcl 格式化和静态检查程序（可以美化程序、最小化、混淆或只是完整性检查）.
+- [Frink](http://catless.ncl.ac.uk/Programs/Frink) — Tcl 格式化和静态检查程序（可以美化程序、最小化、混淆或只是健全性检查）.
 - [Nagelfar](https://sourceforge.net/projects/nagelfar) — Tcl 的静态语法检查器.
 - [tclchecker](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — 一个静态语法分析模块（作为 [TDK](https://github.com/ActiveState/tdk)).
 
@@ -717,7 +717,7 @@
 - [ESLint](https://github.com/eslint/eslint) — 一个 JS 的可扩展 linter，遵循 ECMAScript 标准.
 - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于对 Java Web 应用程序和 Android 应用程序进行安全审计的 SpotBugs 插件.  （也可以使用 Kotlin、Groovy 和 Scala 项目）
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
-- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
 - [goone](https://github.com/masibw/goone) :warning: — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
 - [graudit](http://www.justanotherhacker.com) — Grep 粗略审计——源代码审计工具.
 - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — 商业静态代码分析.
@@ -819,7 +819,7 @@
 - [binbloom](https://github.com/quarkslab/binbloom)  — 分析原始二进制固件并确定字节序或加载地址等特性. 该工具与所有架构兼容.
 加载地址：binbloom 可以解析原始二进制固件并确定其加载地址. 字节序：binbloom 可以使用启发式方法来确定固件的字节序.  UDS 数据库：binbloom 可以解析原始二进制固件并检查它是否包含包含 UDS 命令 ID 的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) — 一种二进制静态分析工具，可为 Windows 可移植可执行文件提供安全性和正确性结果.
-- [Black Duck](https://www.blackducksoftware.com) :copyright: — 分析可重用代码、必要许可证和潜在安全方面的源代码和二进制文件的工具.
+- [Black Duck](https://www.blackducksoftware.com) :copyright: — 分析源代码和二进制文件以获取可重用代码、必要许可证和潜在安全方面的工具.
 - [bloaty](https://github.com/google/bloaty)  — 有没有想过是什么让你的二进制文件变大了？  Bloaty McBloatface 将向您显示二进制文件的大小配置文件，以便您了解内部空间占用的情况.  Bloaty 对二进制文件进行了深入分析. 使用自定义 ELF、DWARF 和 Mach-O 解析器，Bloaty 旨在准确地将二进制文件的每个字节归因于生成它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  — 找出在您的可执行文件中占用大部分空间的内容. 支持 ELF (Linux, BSD)、Mach-O (macOS) 和 PE (Windows) 二进制文件.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) — cwe_checker 在二进制可执行文件中发现易受攻击的模式.
@@ -848,7 +848,7 @@
 - [CSSLint](http://csslint.net) — 进行基本的语法检查并发现有问题的模式或效率低下的迹象.
 - [GraphMyCSS.com](https://graphmycss.com) — CSS 特异性图生成器.
 - [Nu Html Checker](https://validator.github.io/validator/) — 帮助您发现 HTML/CSS/SVG 中的问题
-- [Parker](https://github.com/katiefenn/parker) :warning: — Stylesheet analysis tool.
+- [Parker](https://github.com/katiefenn/parker) :warning: — 样式表分析工具.
 - [PostCSS](https://postcss.org)  — 使用 JS 插件转换样式的工具. 这些插件可以 lint 你的 CSS，支持变量和 mixins，转换未来的 CSS 语法，内联图像等等.
 - [Project Wallace CSS Analyzer](https://www.projectwallace.com) — CSS 分析，其中的一部分 [Project Wallace](https://www.projectwallace.com).
 - [sass-lint](https://github.com/sasstools/sass-lint) :warning: — 适用于 sass 和 scss 语法的仅限节点的 Sass linter.
@@ -873,7 +873,7 @@
 - [cfn_nag](https://github.com/stelligent/cfn_nag) — AWS CloudFormation 模板的 linter.
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 - [checkov](https://www.checkov.io) — Terraform 文件的静态分析工具 (tf&gt;=v0.12)，防止在构建时云配置错误.
-- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群以获取资源，对这些资源执行通用和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle 是一种基于用于 Chef 食谱的 RuboCop Ruby linting 工具的 linting 工具.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [foodcritic](http://www.foodcritic.io) — 检查 Chef 食谱中常见问题的 lint 工具.
@@ -894,7 +894,7 @@
 - [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 - [clair](https://github.com/coreos/clair) — 容器的漏洞静态分析.
-- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群以获取资源，对这些资源执行通用和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [collector](https://github.com/banyanops/collector) :warning: — 在容器内运行任意脚本，并收集有用信息.
 - [dagda](https://github.com/eliasgranderubio/dagda) — 对 docker 镜像/容器中的已知漏洞进行静态分析.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
@@ -904,9 +904,9 @@
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
 - [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
-- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
+- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 - [kubeval](https://kubeval.instrumenta.dev) :warning: — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
-- [OpenSCAP](https://www.open-scap.org/) — 一套自动化审计工具，用于按照 NIST 认证的安全内容自动化协议 (SCAP) 检查配置和已知漏洞.
+- [OpenSCAP](https://www.open-scap.org/) — Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器原生应用程序保护，提供对容器化应用程序的可见性和控制.
 - [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在开源堆栈之上，提供 Docker 图像扫描并创建了 Falco，这是用于容器、Kubernetes 和云的运行时威胁检测的开放标准. 
 - [Vuls](https://vuls.io/) — 基于 NVD、OVAL 等信息的无代理 Linux 漏洞扫描程序.它具有一些容器映像支持，尽管不是特定于容器的工具.
@@ -953,7 +953,7 @@
 - [Bootlint](https://github.com/twbs/bootlint) — Bootstrap 项目的 HTML linter.
 - [ERB Lint](https://github.com/Shopify/erb-lint) — 整理您的 ERB 或 HTML 文件
 - [grunt-bootlint](https://github.com/twbs/grunt-bootlint) — Grunt 包装器 [Bootlint](https://github.com/twbs/bootlint), Bootstrap 项目的 HTML linter.
-- [gulp-bootlint](https://github.com/tschortsch/gulp-bootlint) — 一个 gulp 包装器 [Bootlint](https://github.com/twbs/bootlint), Bootstrap 项目的 HTML linter.
+- [gulp-bootlint](https://github.com/tschortsch/gulp-bootlint) :warning: — 一个 gulp 包装器 [Bootlint](https://github.com/twbs/bootlint), Bootstrap 项目的 HTML linter.
 - [HTML Inspector](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector 是一种代码质量工具，可帮助您和您的团队编写更好的标记.
 - [HTML Tidy](http://www.html-tidy.org) — 通过修复标记错误并将遗留代码升级到现代标准来更正和清理 HTML 和 XML 文档.
 - [HTML-Validate](https://html-validate.org/) — 离线 HTML5 验证器.
@@ -971,7 +971,7 @@
 <h2 id="kubernetes">Kubernetes</h2>
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
-- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群以获取资源，对这些资源执行通用和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.

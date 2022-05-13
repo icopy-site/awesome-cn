@@ -33,7 +33,7 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于衡量位置效率的全国性地理数据资源. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft 地图正在美国发布全国范围内的开放式建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑足迹，这些建筑足迹是使用我们的卫星图像计算机视觉算法得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft 地图正在美国发布全国范围内的开放式建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了包括大气、海洋、陆地和洪水数据在内的当前和历史数据，以及四次更新的全球模拟和同化办公室 (GMAO) 天气分析数据和预测日常.
@@ -45,6 +45,7 @@
 - [MACA](https://climate.northwestknowledge.net/MACA/) - MACA 方法是一种统计降尺度方法，用于消除全球气候模型输出的偏差. 
 - [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新颖的工具和数据，用于对许多观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
 - [WUDAPT](https://www.wudapt.org/) - 该数据库旨在提供与全球气候和环境研究相关的城市形态形态和功能的连贯一致的描述和信息.
+- [LANDSAT Products](https://www.usgs.gov/landsat-missions/landsat-us-analysis-ready-data) - Landsat 美国分析就绪数据 (ARD) 产品始终按照最高科学标准和处理水平进行处理，可直接用于监测和评估景观变化. 
 
 ### Demographic
 
@@ -63,7 +64,7 @@
 
 ### Environment and Ecosystem Services
 
-- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
+- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国毗连的主要生长季节作物覆盖的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从自然中获得的许多好处，通常在美国被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和作为地图服务. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地清单 (NWI) 是一个公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
@@ -102,7 +103,7 @@
 - [OpenStreetMap](https://www.openstreetmap.org/)  - OpenStreetMap 是免费的 wiki 世界地图. 这个合作项目是世界上最大的志愿地理信息数据库之一. 其内容包括兴趣点、可路由网络和其他地理数据. 
 - [BBBike](https://download.bbbike.org/osm/bbbike/)  - 为世界各地的城市提供 shapefile 和原始 OSM 格式，每周提取一次. 如果您正在寻找单个城市的数据提取，这很有用.
 - [Geofabrik](http://download.geofabrik.de/) - 以 PBF 或 shapefile 格式准备的 OpenStreetMap 提取，以供每日下载.  
-- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM 提取物都会反映整个 OpenStreetMap 星球，并创建城市和区域大小的提取物，以供下载为可用于 GIS 的格式. 
+- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM 提取物都会反映整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，以供下载为可用于 GIS 的格式. 
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是一个基于 Web 的 OpenStreetMap 数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefile）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
 - [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data)  - HOT 为 OSM 社区提供了丰富的工具集. 一个特别有用的工具是 [Export Tool](https://export.hotosm.org/en/v3/).
 - [Tasking Manager](https://tasks.hotosm.org/)  - Tasking Manager 是一个平台，任何人都可以在其中学习使用 Open Street Map 并为绘制世界地图不足的区域做出贡献. 这项工作对于发展中国家的备灾和恢复能力至关重要，以便救援人员和社区成员在灾难发生时能够获得准确的地图.
@@ -148,7 +149,7 @@
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道级图像和 AI 衍生的地图数据. 通过请求新的报道或使用易于使用的移动应用程序捕获您自己的报道来填补空白.
-- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用人工智能将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
+- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 
 ### Land Use and Land Cover
 
@@ -177,7 +178,7 @@
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 在预算内按时执行任务，24/7 全天候访问计数、OD 和您需要的其他指标.
 - [Strava](https://developers.strava.com/)  - 适用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
-- [Inrix](https://inrix.com/) - 为汽车和交通行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
+- [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
 
 ## Planning Data Specifications
 城市规划相关数据规范和标准的集合，用作计划和项目的一部分.
@@ -228,8 +229,8 @@ Python 库和相关资源.
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个建立城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供者：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
-- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
-- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取自行车共享数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
+- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一组 Python 函数，用于从 OpenStreetMap 数据中绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic 是一个 Python 包，它使用 HERE 提供的 API 抓取您喜欢的路线、城市的交通流量数据.
@@ -315,7 +316,7 @@ R 包和相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划，并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人士能够发布生活计划并通过支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划者和建模者设计，用于生成长期、小区域社会经济预测，使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
@@ -351,7 +352,7 @@ R 包和相关资源.
 
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是特定的论文，而是它们的策展人. 
-- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和运输部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
+- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和交通部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新的近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题并为决策者提供信息方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），和 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
@@ -363,12 +364,12 @@ R 包和相关资源.
 用于城市规划、建筑环境或社区的网站和新闻资源.
 - [Planopedia](https://www.planetizen.com/planopedia) - 由规划新闻聚合器组织 [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
 - [ULI](https://uli.org/) - ULI 是世界上历史最悠久、规模最大的跨学科房地产和土地使用专家网络.
-- [Streetsblog](https://www.streetsblog.org/) - 有关步行、骑自行车和过境的新闻博客. 
+- [Streetsblog](https://www.streetsblog.org/) - Blog for news related to walking, biking, and transit. 
 
 ### Podcasts
 涉及建筑环境或社区的播客. 
 - [Talking Headways](https://streetsblog.libsyn.com/) - Talking Headways 播客是关于交通和城市设计的每周播客.
-- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的被忽视的建筑和设计.
+- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的未被注意的建筑和设计.
 - [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题的采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在财务上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
 - [The Urban Planner's Podcast](https://www.gigitheplanner.com/podcast) - This podcast is for urban planners, urban planning students and those interested in the topic of urban planning.

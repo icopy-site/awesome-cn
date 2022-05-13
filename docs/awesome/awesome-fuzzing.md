@@ -167,6 +167,8 @@
 - [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012](https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf)
 - [Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008](https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html)
 - [Feedback-directed random test generation, 2007](https://dl.acm.org/citation.cfm?id=1248841)
+- [MTF-Storm:a high performance fuzzer for Modbus/TCP, 2018](https://doi.org/10.1109/ETFA.2018.8502600)
+- [A Modbus/TCP Fuzzer for testing internetworked industrial systems, 2015](https://doi.org/10.1109/ETFA.2015.7301400)
 
 
 
@@ -175,6 +177,7 @@
 ### General-purpose
 - [radamsa](https://gitlab.com/akihe/radamsa) - 一个通用的模糊器.
 - [zzuf](https://github.com/samhocevar/zzuf) - 一个透明的应用程序输入模糊器.
+- [FireCracker](https://github.com/blst-security/firecracker) - BLST CLI 工具获取您的 HTTP 日志，使用它们来映射您的 API 流并发现风险.
 ### Binary
 - [American Fuzzy Lop plus plus (AFL++)](https://github.com/AFLplusplus/AFLplusplus)  - 优于 Google 的 AFL 的分支. 更快的速度，更多更好的突变，更多更好的仪器，自定义模块支持等. [paper](https://www.usenix.org/conference/woot20/presentation/fioraldi)
 - [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - 一种面向安全的模糊器，它采用一种新型的编译时工具和遗传算法来自动发现干净、有趣的测试用例，这些测试用例会触发目标二进制文件中的新内部状态. 
@@ -204,6 +207,8 @@
 - [PULSAR](https://github.com/hgascon/pulsar) - 一种专有网络协议的状态黑盒模糊测试方法.
 - [SPIKE](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - 类似 sulley 的 fuzzer 开发框架，是 sulley 的前身.
 - [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - 协议实现的安全测试.
+- [MTF](https://github.com/artemiosv/etfa2015) - 用于测试互联工业系统的 Modbus/TCP Fuzzer
+- [MTF-Storm](https://github.com/ntinosk-mtf/etfa2018) - 用于 Modbus/TCP 的高性能模糊器.
 ### Driver
 - [Charm](https://github.com/trusslab/charm) - 一种有助于对移动系统的设备驱动程序进行动态分析的系统解决方案.
 ## Platform

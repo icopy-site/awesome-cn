@@ -104,12 +104,14 @@
 		</a>
 		<br>
 		<br>
+		<br>
 		<a href="https://keygen.sh">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
 			</div>
 			<b>为开发人员构建的极其简单的软件许可和分发 API</b>
 		</a>
+		<br>
 		<br>
 		<br>
 		<br>
@@ -131,6 +133,7 @@
 				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
 			</div>
 		</a>
+		<br>
 		<br>
 		<br>
 		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
@@ -167,6 +170,37 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>使数据工作的文书工作.</b>
+			<div>
+				<sub>
+				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
+				<br>
+				在您的产品中构建文书工作自动化的最简单方法.
+				</sub>
+			</div>
+		</a>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>使数据工作的文书工作.</b>
+			<div>
+				<sub>
+				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
+				<br>
+				在您的产品中构建文书工作自动化的最简单方法.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -176,7 +210,7 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">什么是很棒的清单？</a>
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">投稿指南</a>
 	<a href="create-list.md">创建列表</a>
 	<a href="https://twitter.com/awesome__re">推特</a>
@@ -186,7 +220,7 @@
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter 帐户</a>以获取有关新列表添加的更新.</b>
 </div>
 
 <br>
@@ -243,7 +277,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于谷歌云平台的应用开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一组帮助您构建机器人应用程序的软件库和工具.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 为您的站点提供 CDN、DNS、DDoS 保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - 谷歌助手的开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - 具有 WiFi 和广泛物联网应用的低成本微控制器.
@@ -427,7 +461,7 @@
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - 全栈开发解决方案，包含由 Laravel 社区构建的库.
 - [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby 的 Web 应用程序框架.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包裹.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - 网络服务器.
@@ -458,7 +492,7 @@
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - 从实验到生产级机器学习.
 	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - 用机器学习解决金融问题.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - 自动微分和 XLA 编译相结合，用于高性能机器学习研究.
-	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - 为机器学习方法提供洞察力、解释和可解释性.
+	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
@@ -699,7 +733,7 @@
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - 审查代码.
-- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - 专注于结合计算、设计、艺术和用户体验的企业和团体.
+- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - 简历写作指南和雇用实习生的公司.
 
 ## Networking
@@ -851,12 +885,12 @@
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - 使用计算机解决复杂的科学问题.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
-- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - 从最初的概念到生产设计产品.
+- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将您的数据库变成 GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及以什么条件访问.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用程序和功能的技术堆栈.
-- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
+- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - 为计算生物学家提供基于图像的生物表型分析.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - 开源消息传递协议.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - 网站的广告和程序化媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - 寻找解决气候危机的方法.
