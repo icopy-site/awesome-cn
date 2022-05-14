@@ -53,7 +53,7 @@
 * [Sublime Text](http://www.sublimetext.com/3) - Sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [TextMate](https://macromates.com)  - 将 Apple 的操作系统方法带入文本编辑器世界的编辑器.  [![开源软件][OSS图标]](https://github.com/textmate/textmate) ![免费软件][免费软件图标]
 * [Vim](http://www.vim.org/) - 高度可配置的文本编辑器，可以非常高效地创建和更改任何类型的文本， [Vim Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
-* [Vimr](http://vimr.org/) - 为 OS X 优化 Vim 体验.[![开源软件][OSS 图标]](https://github.com/qvacua/vimr/) ![免费软件][免费软件图标]
+* [Vimr](http://vimr.org/) - 为 OS X 优化 Vim 体验.[![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 
 #### Office
 
@@ -130,7 +130,7 @@
 * [Leaf](http://www.rockysandstudio.com/) - 惊人的新闻阅读器，致力于帮助您享受每日新闻并轻松管理您的订阅.
 * [NetNewsWire](https://ranchero.com/netnewswire/)  - 它是适用于 macOS 的免费和开源的提要阅读器.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/brentsimmons/NetNewsWire)
 * [ReadKit](http://readkitapp.com/)  - 支持所有主要提供商的 Mac 稍后阅读客户端：Instapaper、Pocket 和 Readability. 更重要的是，ReadKit 也是一个功能齐全的 RSS 阅读器.
-* [Reeder 4](http://reederapp.com/)  - Feedbin、Feedly、Feed Wrangler 等的新闻阅读器.  ![免费软件][免费软件图标]
+* [Reeder 5](http://reederapp.com/)  - Feedbin、Feedly、Feed Wrangler 等的新闻阅读器.  ![免费软件][免费软件图标]
 * [Vienna](http://viennarss.github.io/) - 适用于 Mac OS X 的 RSS/Atom 阅读器.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 * [Feedy](https://krillapps.com/feedy/)  - 适用于 Mac 的优雅轻量级 RSS 客户端和新闻阅读器.  [![App Store][app-store Icon]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&amp;mt=12)
 
@@ -181,7 +181,7 @@
 * [Beyond Compare](http://www.scootersoftware.com/)  - 使用简单而强大的命令比较文件和文件夹，这些命令专注于您感兴趣的差异并忽略您不感兴趣的差异.  ![免费软件][免费软件图标]
 * [Bidbar](https://www.getbidbar.com) - 从菜单栏中管理 bash 命令并使用键盘快捷键运行它们.
 * [Cacher](https://www.cacher.io/) - 基于云的、支持团队的代码片段管理器，带有 Gist 同步、VSCode/Atom/Sublime 包和 Mac/Windows/Linux/Web 客户端.
-* [canSnippet](https://www.cansnippet.com/) - 强大的片段管理工具，可在整个操作系统中使用，始终通过简单的键盘快捷键访问.
+* [canSnippet](https://www.cansnippet.com/) - 强大的片段管理工具，适用于整个操作系统，始终通过简单的键盘快捷键访问.
 * [CodeKit](https://codekitapp.com/) - Web 开发工具，可以自动编译 Less、Sass、CoffeeScript、TypeScript、Jade 和 JavaScript，自动刷新浏览器等等.
 * [Conduktor](https://www.conduktor.io)  - 卡夫卡桌面客户端.  ![免费软件][免费软件图标]
 * [Dash](https://kapeli.com/dash) - 很棒的 AP​​I 文档浏览器和代码片段管理器.
@@ -353,7 +353,7 @@
 #### Databases
 
 * [Apache Directory Studio](https://directory.apache.org/studio/)  - LDAP 浏览器和 Active Directory 客户端.  [![开源软件][OSS图标]](https://directory.apache.org/sources.html) ![免费软件][免费软件图标]
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台数据库工具，用于 Microsoft 家庭内部部署和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台的数据库工具，用于微软家族的本地和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的redis桌面管理器.[![开源软件][OSS图标]](https://directory.apache.org/sources.html)![免费软件][免费软件图标]
 * [Base 2](http://menial.co.uk/base/) - 用于创建、设计、编辑和浏览 SQLite 3 数据库文件的应用程序.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 流畅的 SQL 编辑器和数据库管理器 [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
@@ -709,7 +709,7 @@
 * [Surge](https://nssurge.com/) - 适用于 iOS 9 的 Web 开发人员工具和代理实用程序.[![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637 )
 * [tinc](https://www.tinc-vpn.org)  - 安全网状 VPN 软件.  [![开源软件][OSS 图标]](https://www.tinc-vpn.org/git/browse?p=tinc) ![免费软件][免费软件图标]
 * [Tunnelbear](https://www.tunnelbear.com)  - 真正简单的 VPN，可以私密且安全地浏览网页. 使用适用于 Mac、PC、iOS、Android 和 Chrome 的应用程序解锁世界各地的网站.
-* [Tunnelblick](https://tunnelblick.net/downloads.html) - 用于 OS X 上 OpenVPN 的免费、开源图形用户界面.！[免费软件][免费软件图标]
+* [Tunnelblick](https://tunnelblick.net/downloads.html) - OS X 上 OpenVPN 的免费、开源图形用户界面.！[免费软件][免费软件图标]
 * [V2rayU](https://github.com/yanue/V2rayU)  - 基于 v2ray 的 Macos 客户端.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/yanue/V2rayU)
 * [Windscribe](https://windscribe.com)  - 每月当场免费提供 10gb，并提供有限（免费）位置控制. 连接所需的时间也非常少.
 * [ClashX](https://github.com/yichengchen/clashX)  - 基于 Clash 的基于规则的 Mac 代理.  [![开源软件][OSS图标]](https://github.com/yichengchen/clashX)![免费软件][免费软件图标]
@@ -795,7 +795,7 @@
 * [Microsoft To-Do](https://todo.microsoft.com/)  - 微软奇妙清单的继任者.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12)
 * [Nozbe](https://nozbe.com)  - 适用于个人和团队的强大 GTD 应用程序，支持每台 Apple 设备（Mac、iPhone、iPad、Watch）.  [![App Store][app-store Icon]](https://itunes.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?mt=12)
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 很好的 GTD 应用程序，由 OmniGroups 制作.
-* [Super Productivity](https://super-productivity.com)  - 具有集成时间盒和时间跟踪功能的跨平台待办事项列表应用程序.  [![开源软件][OSS图标]](https://github.com/johannesjo/super-productivity) ![免费软件][免费软件图标] [![App Store][app-store图标]]( https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12)
+* [Super Productivity](https://super-productivity.com)  - 具有集成时间盒和时间跟踪功能的跨平台待办事项列表应用程序.  [![开源软件][OSS 图标]](https://github.com/johannesjo/super-productivity) ![免费软件][免费软件图标] [![App Store][app-store Icon]]( https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12)
 * [Taskade](https://www.taskade.com) - Real-time collaborative editor for teams.
 * [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
 * [Things](https://culturedcode.com/things/)  - 令人愉快且易于使用的任务管理器.  （**屡获殊荣的应用程序**）

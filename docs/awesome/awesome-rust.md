@@ -14,7 +14,7 @@ Rust 代码和资源的精选列表.
 
 * [alacritty](https://github.com/alacritty/alacritty) — 一个跨平台、GPU 增强的终端仿真器
 * [andschwa/rust-genetic-algorithm](https://github.com/andschwa/rust-genetic-algorithm) — 学术基准问题的遗传算法 [![build badge](https://api.travis-ci.org/andschwa/rust-genetic-algorithm.svg?branch=master)](https://travis-ci.org/andschwa/rust-genetic-algorithm)
-* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 rust 编写的交互式程序集外壳.
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 rust 编写的交互式程序集 shell.
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间 WireGuard VPN 实施 [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 * [datafusion](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion 和 Ballista 查询引擎
 * [denoland/deno](https://github.com/denoland/deno) — 使用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
@@ -287,7 +287,7 @@ Rust 代码和资源的精选列表.
 * [dmerejkowsky/ruplacer](https://github.com/dmerejkowsky/ruplacer) — 查找和替换源文件中的文本 [![Run tests](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/dmerejkowsky/ruplacer/actions/workflows/test.yml)
 * [grex](https://github.com/pemistahl/grex) — 用于从用户提供的测试用例生成正则表达式的命令行工具和库 [![build badge](https://api.travis-ci.org/pemistahl/grex.svg?branch=master)](https://travis-ci.org/pemistahl/grex)
 * [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) — 一个简单快速的人类字符串搜索工具
-* [Melody](https://github.com/yoav-lavi/melody) - 一种编译为正则表达式的语言，旨在更易于阅读和维护 [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
+* [Melody](https://github.com/yoav-lavi/melody) - 一种编译为正则表达式并旨在更易于阅读和维护的语言 [![build badge](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml/badge.svg)](https://github.com/yoav-lavi/melody/actions/workflows/rust.yml) [![crates.io](https://img.shields.io/crates/v/melody_compiler?label=compiler)](https://crates.io/crates/melody_compiler)
 * [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) — ripgrep，还可以搜索 PDF、电子书、Office 文档、zip、tar.gz 等. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
 * [replicadse/complate](https://github.com/replicadse/complate) — 为标准化消息而设计的终端文本模板工具（如 GIT 提交）. [![crates.io](https://img.shields.io/crates/v/complate.svg)](https://crates.io/crates/complate) [![crates.io](https://img.shields.io/crates/d/complate?label=crates.io%20downloads)](https://crates.io/crates/complate) [![build badge](https://github.com/replicadse/complate/workflows/pipeline/badge.svg?branch=master)](https://github.com/replicadse/complate/actions)
 * [ripgrep](https://crates.io/crates/ripgrep) — 将 Silver Searcher 的可用性与 grep 的原始速度相结合 [![build badge](https://api.travis-ci.org/BurntSushi/ripgrep.svg?branch=master)](https://travis-ci.org/BurntSushi/ripgrep)
@@ -427,7 +427,7 @@ Rust 代码和资源的精选列表.
 ### Deployment
 
 * 码头工人
-  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — 用于使用 musl-libc 和 musl-gcc 编译静态 Rust 二进制文件的 Docker 映像，以及有用 C 库的静态版本
+  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — 用于使用 musl-libc 和 musl-gcc 编译静态 Rust 二进制文件的 Docker 映像，以及有用的 C 库的静态版本
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) — 一个非常小的 rust docker 镜像的示例项目 [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) — 多个版本（使用 musl 工具）Rust Docker 映像
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - 用于缓存 Docker 构建之间的编译远程依赖项的工具和预构建图像.
@@ -535,7 +535,7 @@ Rust 代码和资源的精选列表.
     * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - vscode 中的 TOML 支持
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — LLDB 扩展
     * [crates](https://github.com/serayuzgur/crates) — crates 是 crates.io 依赖项的扩展. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates) [![build badge](https://api.travis-ci.org/serayuzgur/crates.svg?branch=master)](https://travis-ci.org/serayuzgur/crates)
-    * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) — RLS 的替代 rust 语言服务器
+    * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — RLS 的替代 rust 语言服务器
     * [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — 对 Visual Studio Code 的 Rust 支持（同时支持 RLS 和 rust-analyzer）
 
 ### Profiling
@@ -873,7 +873,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [PickleDB](https://pythonhosted.org/pickleDB/)
     * [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs) — 一个轻量级且简单的键值存储，深受 Python 的 PickleDB 启发. [![build badge](https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master)](https://travis-ci.org/seladb/pickledb-rs)
   * 雷迪斯 [[redis](https://crates.io/keywords/redis)]
-    * [mitsuhiko/redis-rs](https://github.com/mitsuhiko/redis-rs) — [Redis](https://redis.io/) Rust 中的库 [![build badge](https://api.travis-ci.org/mitsuhiko/redis-rs.svg?branch=master)](https://travis-ci.org/mitsuhiko/redis-rs)
+    * [redis-rs](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) Rust 中的库 [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
   * [RocksDB](https://rocksdb.org/)
     * [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB 绑定 [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
   * [UnQLite](https://unqlite.org/)

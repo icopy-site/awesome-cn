@@ -15,7 +15,7 @@
 ## Official
 
 - [Yew](https://github.com/yewstack/yew) - 用于构建客户端 Web 应用程序的 Rust / WebAssembly 框架.
-- [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
+- [Live demo](https://yew-todomvc.netlify.com) - todomvc 演示.
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) - 官方回购中包含的较小示例.
 - [API Docs](https://docs.rs/yew) - docs.rs 上的文档.
 - [Website](https://yew.rs/) - 官方网站.
@@ -76,6 +76,7 @@
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款真实的派对游戏，玩家可以在其中尽可能快地猜测图像的内容. 
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 一个用 Rust 编写的快速打字网络应用程序.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - 这是 wecome KM ITB 的 monorepo， [Live Demo](https://wecome-itb.com/).
+- [blog-rs](https://github.com/songday/blog-rs)  - 一个前端和后端都用 Rust 编写的博客系统. 后端由 Warp 提供支持，前端基于 Yew (WASM).
 
 ## Templates
 
@@ -86,7 +87,7 @@
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
 - [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - 将 Tailwindcss 与 Yew 结合使用的简单布局.
 - [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - 一个启动项目，为全栈 Rust Web 应用程序设置 Axum 和 Yew.
-- [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri，桌面应用程序的全栈 Rust 开发.
+- [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 - [Yew PWA Minimal](https://github.com/fkohlgrueber/yew-pwa-minimal) - 使用 Yew 的最小渐进式 Web 应用程序.
 
 ## Crates

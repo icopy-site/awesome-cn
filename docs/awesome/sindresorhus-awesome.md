@@ -235,7 +235,7 @@
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于 Chrome 的 V8 JavaScript 引擎构建的异步非阻塞事件驱动 JavaScript 运行时.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在 Node.js 上编写跨平台代码.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - 苹果手机和平板电脑的移动操作系统.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - 谷歌开发的移动操作系统.
@@ -447,6 +447,35 @@
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - 在不构建 API 的情况下制作单页应用程序.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - 用于快速构建网站的模板、布局、组件和小部件.
 
+<br>
+
+---
+
+<br>
+
+<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
+	<div>
+		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="120" alt="neverinstall">
+	</div>
+	<br>
+	<sup>您最喜欢的所有 IDE 现在都可以在云端使用</sup>
+	<br>
+</a>
+<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
+	<div>
+		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="120" alt="neverinstall">
+	</div>
+	<br>
+	<sup>您最喜欢的所有 IDE 现在都可以在云端使用</sup>
+	<br>
+</a>
+
+<br>
+
+---
+
+<br>
+
 ## Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python 框架.
@@ -492,7 +521,7 @@
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - 从实验到生产级机器学习.
 	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - 用机器学习解决金融问题.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - 自动微分和 XLA 编译相结合，用于高性能机器学习研究.
-	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - 为机器学习方法提供洞察力、解释和可解释性.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
@@ -692,7 +721,7 @@
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS 专注于灵活性和用户体验.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - 基于 PHP 的轻量级 CMS.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - 可扩展的基于 PHP 的 CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - 内容优先的 CMS.
 - [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET 数字营销平台，将 CMS 与用于管理多个网站的工具相结合.
@@ -885,7 +914,7 @@
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - 使用计算机解决复杂的科学问题.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
-- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
+- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - 从最初的概念到生产设计产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将您的数据库变成 GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及以什么条件访问.

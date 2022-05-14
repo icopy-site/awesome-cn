@@ -789,6 +789,7 @@
   * [FontGet](https://www.fontget.com/) - 有多种字体可供下载，并带有标签整齐地排序.
   * [Fontshare](https://www.fontshare.com/)  - 是一项免费的字体服务. 这是一个不断增长的专业级字体集合，100% 免费供个人和商业使用.
   * [Befonts](https://befonts.com/) - 提供几种独特的字体供个人或商业使用.
+  * [Font of web](https://fontofweb.com/) - 识别网站上使用的所有字体及其使用方式.
 
 
 ## Forms
