@@ -25,7 +25,7 @@
 *以艺术创作为中心的项目.*
 
 - [Brushwork VR](https://brushworkvr.com/) - 一个 VR 应用程序，它使用虚拟画布、调色板、颜色混合等来模拟绘画过程.
-- [Hatsumi](https://www.hatsumivr.com/) - 一个 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来说明生活体验.
+- [SoulPaint](https://hatsumi.netlify.app/) - 一个 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来说明生活体验.
 - [Obscura](https://obscura.world/) - 漂浮并探索受卡洛·斯卡帕建筑启发的结构.
 - [Silk Brush](https://www.silkbrush.app/) - 将 Tilt Brush 移植到 WebXR，并计划未来扩展.
 - [VARTISTE](https://vartiste.xyz/) - 用于 2D 绘图和图像编辑以及 3D 模型纹理的 VR 应用程序.
@@ -38,7 +38,7 @@
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听方的录音部分仍然可以查看.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家的云.
 - [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
-- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验进行线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
+- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
@@ -65,7 +65,7 @@
 
 - [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - 最早的 WebXR 相关组，最初是为 WebVR 制作的.
 - [WebXR](https://www.facebook.com/groups/arvrweb/) - 稍新的以 WebXR 为中心的组.
-- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - Belivvr 创建的韩国 WebXR 组.
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - 由 Belivvr 创建的韩国 WebXR 组.
 - [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - WebXR Paris 小组的伙伴 [Meetup](https://www.meetup.com/WebXR-Paris/).
 
 ### Forums
@@ -86,6 +86,7 @@
 - [Active Replica](https://www.activereplica.com/) - 通过 Mozilla Hubs 提供虚拟活动托管.
 - [Active Theory](https://activetheory.net/) - 开发了 Dreamwave 平台.
 - [Aircards](https://www.aircards.co/) - WebAR 广告/营销机构.
+- [Hatsumi](https://www.hatsumivr.com/) - 一个设计工作室，在医疗保健和艺术的交汇处开发经验.
 - [Immers Space](https://web.immers.space/) - 一个分布式合作组织 (DisCO)，专注于实现开放和联合的沉浸式 Web 内容.
 - [Laguna Labs](https://lagunalabs.io/) - 沉浸式网络技术机构.
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR 代理和 WebXR 游戏开发工作室.
@@ -107,7 +108,7 @@
 
 ### Engines
 
-- [Godot](https://godotengine.org/) - 自 3.2.4 版起支持 WebXR 的跨平台开源引擎.
+- [Godot](https://godotengine.org/) - 从 3.2.4 版开始支持 WebXR 的跨平台开源引擎.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
 - [nunuStudio](https://www.nunustudio.org/) - 基于three.js 构建的多平台开源引擎，可在本地或在浏览器中使用.
@@ -140,7 +141,7 @@
 
 - [p5.xr](https://p5xr.org/) - 库 p5.js 的附加组件，可让您创建身临其境的 p5 草图.
 
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - Three.js 的 React 渲染器. 其他 WebXR 特定的钩子和组件可在 [React XR](https://github.com/pmndrs/react-xr) 也是.
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - Three.js 的 React 渲染器. 其他 WebXR 特定的钩子和组件可在 [React XR](https://github.com/pmndrs/react-xr) 以及.
 
 - [Spaces VR](https://github.com/spacesvr/spacesvr) - 用于快速创建基于 react-three-fiber 的 VR 网站的前端框架.
 

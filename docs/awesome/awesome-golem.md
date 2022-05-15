@@ -49,6 +49,7 @@
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - 适用于 Rust 项目的自适应分布式测试执行器.
 - [Golem CI](https://github.com/hhio618/golem-ci) - 分散的任务管道.
 - [Golem SLATE](https://github.com/deutschklub/golem-slate) - 上述应用部分中描述的 Golem SLATE 的开源存储库.
+- [ThorgPress](https://github.com/figurestudios/thorgpress) - 一种对供应商进行基准测试并揭示其真实能力的工具，超出了市场所能看到的范围.
 
 ### VPN
 
@@ -142,7 +143,7 @@
 ## Developer and Requestor Resources
 
 - [Yagna handbook](https://handbook.golem.network/) - 魔像手册，实现名称，Yagna.
-- [Yagna Python API docs](https://yapapi.readthedocs.io/) - Documentation for Yapapi.
+- [Yagna Python API docs](https://yapapi.readthedocs.io/) - 重复文档.
 - [Releases List](https://github.com/golemfactory/yagna/releases) - Yagna 的 GitHub 版本.
 - [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - 快速开始并在 Golem 上创建您的第一个任务/请求.
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - 如果您有一个有趣的问题想要回答，请使用 Yagna 标签.
@@ -169,8 +170,8 @@
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志设置 Golem 提供程序，指导您完成整个过程.
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - Docker 版本的节点可帮助您快速开始作为 Docker 容器中的提供者运行.
-- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上面的 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件并指定您想要生成多少副本.
-- [Scaleable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 生成 x 数量的提供者.
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上面的 Alxexandre-abrioux 项目的分支，它允许从 ENV 变量动态生成配置文件并指定您想要生成多少个副本.
+- [Scalable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 生成 x 数量的提供者.
 
 ## Learning Resources
 

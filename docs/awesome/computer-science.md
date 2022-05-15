@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
 
-<h3 align="center">开源社会大学</h3>
+<h3 align="center">开源社会大学</h3>数
 <p align="center">
   计算机科学免费自学教育之路！
 </p>
@@ -21,7 +21,7 @@
 
 OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 这不仅仅是为了职业培训或职业发展.
-它适用于那些想要在所有计算学科的基础概念中获得正确、*全面*基础的人，
+It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
 对于那些有纪律、意志和（最重要的是！）良好习惯，主要靠自己获得这种教育的人，
 但在全球学习者社区的支持下.
 
@@ -38,7 +38,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 
 当没有课程符合上述标准时，课程作业将辅以书籍.
 当有课程或书籍不适合课程但质量很高时，
-他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 要么 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
+他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 或者 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
 
  **组织**. 课程设计如下：
 - *介绍 CS*：让学生尝试 CS，看看它是否适合他们
@@ -95,7 +95,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 如果您从未编写过 for 循环，或者不知道编程中的字符串是什么，请从这里开始. 本课程是自定进度的，允许您调整每周花费的小时数以满足您的需求.
 
 **涵盖的主题**：
-`简单的程序`
+`simple programs`
 `简单的数据结构`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
@@ -110,7 +110,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 `computation`
 `命令式编程`
 `基本数据结构和算法`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -133,7 +133,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 `ML 系列语言（通过标准 ML）`
 `Lisp 系列语言（通过 Racket）`
 `Ruby`
-`等等`
+`and more`
 
 How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.org/2003-09-26/) . 第一版可在线免费获得，包括问题集和解决方案. 鼓励学生完成这些作业.
 
@@ -152,12 +152,12 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 离散数学（Math for CS）是先决条件，与算法和数据结构的研究密切相关. 微积分既为学生准备离散数学，又帮助学生发展数学成熟度.
 
 **涵盖的主题**：
-`discrete mathematics`
+`离散数学`
 `数学证明`
 `基本统计`
 `O-notation`
 `离散概率`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 笔记 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -175,7 +175,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `vim`
 `命令行环境`
 `版本控制`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -197,7 +197,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `compilers`
 `操作系统`
 `网络协议`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 附加文本/作业| 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -219,7 +219,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `最小生成树`
 `动态规划`
 `NP-completeness`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -236,9 +236,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `威胁和攻击`
 `网络安全`
 `Cryptography`
-`等等`
-
-注意：**_这些课程是暂时推荐的_**. 有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639) 关于安全课程的选择. 鼓励贡献者比较 RFC 中的各种课程并提供反馈.
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -268,7 +266,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `无监督学习`
 `OpenGL`
 `光线追踪`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -287,12 +285,12 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `职业道德`
 `知识产权`
 `隐私和公民自由`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
 [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) |  9 周 |  2 小时/周 | 没有 | [chat](https://discord.gg/6ttjPmzZbe)
-[Intellectual Property Law in Digital Age](https://www.coursera.org/learn/intellectual-property-law-in-digital-age) |  4 周 |  2 小时/周 | 没有 | [chat](https://discord.gg/YbuERswpAK)
+[Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) |  4 周 |  2 小时/周 | 没有 | [chat](https://discord.gg/YbuERswpAK)
 [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) |  3 周 |  3 小时/周 | 没有 | [chat](https://discord.gg/64J34ajNBd)
 
 ## Advanced CS
@@ -310,12 +308,12 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `面向对象的分析与设计`
 `UML`
 `大型软件架构和设计`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
 [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) |  4 周 |  6-8 小时/周 | 斯卡拉编程
-[Compilers](https://www.edx.org/course/compilers)  |  9 周 |  6-8 小时/周 | 没有
+[Compilers](https://www.edx.org/course/compilers)  |  9 周 |  6-8 小时/周 | 没有任何
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) |  14 周 |  - |  -
 [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alt](https://github.com/ossu/computer-science/files/6085884/lpn.pdf) )*|  12 周 |  - |  -
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8 周 |  6 小时/周 |  Python，面向对象编程
@@ -339,11 +337,11 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `虚拟内存`
 `同步原语`
 `系统调用接口`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016)  |  10 周 |  6 小时/周 | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
 [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)  |  10 周 |  6 小时/周 | 计算结构 1
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)  |  10 周 |  6 小时/周 | 计算结构 2
 
@@ -363,7 +361,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `关系逻辑`
 `赫布兰德逻辑`
 `游戏树`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
@@ -376,7 +374,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 :-- | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  |  14 周 |  12 小时/周 | 并存：线性代数的本质 | [chat](https://discord.gg/k7nSWJH)
-[Introduction to Numerical Analysis](https://www.coursera.org/learn/intro-to-numerical-analysis)([alt](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) )|  7 周 |  3-4 小时/周 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)， 可选的： [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
+[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) |  14 周 |  12 小时/周 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
 [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)  |  10 周 |  4-8 小时/周 | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
 [Probability](https://projects.iq.harvard.edu/stat110/home)  |  24 周 |  12 小时/周 | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
@@ -399,10 +397,10 @@ or
 [Fullstack Open](https://fullstackopen.com/en/)  |  12 周 |  15 小时/周 | 编程
 [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics)  |  26 周 |  2-5 小时/周 | 大一物理、线性代数、微积分、 [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)  |  30 周 |  2-5 小时/周 | 机器学习
-[Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30 周 |  3-5 小时/周 | 没有
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30 周 |  3-5 小时/周 | 没有任何
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things)  |  30 周 |  1-5 小时/周 | 强大的编程
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing)  |  30 周 |  2-6 小时/周 |  C++ 编程
-[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)  |  43 周 |  1-6 小时/周 | 没有
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)  |  43 周 |  1-6 小时/周 | 没有任何
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala)  |  29 周 |  4-5 小时/周 | 一年编程经验
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development)  |  6 个月 |  5 小时/周 | 编程、交互设计
 
@@ -423,7 +421,7 @@ or
 并获得倾听反馈的经验——无论是正面的还是负面的.
 
 最终项目评估有第二个目的：评估 OSSU、
-通过其社区和课程，成功地完成了指导独立学习者获得世界级计算机科学教育的使命.
+通过其社区和课程，成功地完成了指导独立学习者获得世界一流的计算机科学教育的使命.
 
 ### Cooperative work
 
@@ -448,7 +446,7 @@ or
 - 查看 [readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md) 对于您可以阅读的经典书籍，这些书籍将提高您的技能并扩展您的知识.
 - 加入本地开发者聚会（例如通过 [meetup.com](https://www.meetup.com/)).
 - 关注软件开发领域的新兴技术：
-  + 探索**演员模型**通过 [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
+  + 探索**演员模型**通过 [Elixir](https://elixir-lang.org/)，一种基于久经考验的 Erlang 虚拟机的新型网络函数式编程语言！
   + 探索 **借款和生命周期** 通过 [Rust](https://www.rust-lang.org/)，一种无需垃圾收集器即可实现内存和线程安全的系统语言！
   + 探索**依赖类型系统**通过 [Idris](https://www.idris-lang.org/)，一种受 Haskell 启发的新语言，对类型驱动开发提供前所未有的支持.
 
@@ -460,10 +458,10 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
-现在您已经拥有了我们的官方版块，您只需在学习过程中将卡片传递到“Doing”列或“Done”列.
+现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.
 
 我们还提供**标签**，以帮助您更好地控制整个过程.
 每个标签的含义是：
