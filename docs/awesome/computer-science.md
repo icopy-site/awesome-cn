@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
 
-<h3 align="center">开源社会大学</h3>数
+<h3 align="center">开源社会大学</h3>
 <p align="center">
   计算机科学免费自学教育之路！
 </p>
@@ -21,7 +21,7 @@
 
 OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 这不仅仅是为了职业培训或职业发展.
-It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
+它适用于那些想要在所有计算学科的基础概念中获得正确、*全面*基础的人，
 对于那些有纪律、意志和（最重要的是！）良好习惯，主要靠自己获得这种教育的人，
 但在全球学习者社区的支持下.
 
@@ -304,7 +304,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 **涵盖的主题**：
 `调试理论与实践`
 `面向目标的编程`
-`并行计算`
+`parallel computing`
 `面向对象的分析与设计`
 `UML`
 `大型软件架构和设计`
@@ -458,7 +458,7 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.

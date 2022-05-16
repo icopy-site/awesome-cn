@@ -45,11 +45,11 @@
 - [Robosense](http://www.robosense.ai/) - RoboSense（速腾创新科技有限公司）是一家位于深圳和北京（中国）的激光雷达传感器、人工智能算法和 IC 芯片组制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
-- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家位于德国汉堡的汽车行业/环境检测激光扫描仪/激光雷达制造商.
+- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家汽车行业/环境检测激光扫描仪/激光雷达制造商，总部位于德国汉堡.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) - Innoviz 技术/专注于固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
-- [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 在测绘、工业自动化、运输和安全领域提供端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
+- [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 在测绘、工业自动化、运输和安全方面提供端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
 - [Cepton](https://www.cepton.com/index.html)  - Cepton（Cepton Technologies, Inc.）/无摩擦、无反光镜设计的先驱，自主研发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
@@ -152,7 +152,7 @@
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：激光雷达里程计和实时制图.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - 用于 ROS 兼容 UGV 的轻型和地面优化激光雷达里程计和测绘 (LeGO-LOAM) 系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 的实时同步定位和映射 (SLAM).
+- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 实时同步定位和映射 (SLAM).
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - 基于 LiDAR 的语义 SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
@@ -225,3 +225,5 @@
 - [Foxglove](https://foxglove.dev/) - Foxglove Studio 是一个集成的机器人可视化和诊断工具，可在您的浏览器中使用，也可作为 Linux、Windows 和 macOS 上的桌面应用程序下载.
   - [GitHub repository :octocat:](https://github.com/foxglove/studio)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
+- [MeshLab](https://www.meshlab.net/) - MeshLab 是一个开源、可移植和可扩展的系统，用于处理和编辑 3D 三角形网格和点云.
+  - [GitHub repository :octocat:](https://github.com/cnr-isti-vclab/meshlab) 

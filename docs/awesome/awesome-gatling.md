@@ -88,6 +88,7 @@
 ## CI
 
 - [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) 对于加特林.
+- [run-gatling](https://github.com/liatrio/run-gatling) - GitHub Action 可轻松将 Gatling 性能测试集成到 GitHub 工作流程.
 
 ## Trainings & Courses
 

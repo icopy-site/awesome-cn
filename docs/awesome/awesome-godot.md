@@ -213,7 +213,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - 减轻 SkeletonIK 的缩放效果.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器动画骨骼.
-- [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统，旨在轻松使用适用于 iOS/Android 的本机库进行操作. 它还关注插件依赖关系并提供无忧的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：应用跟踪透明度，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
+- [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统，旨在轻松操作 iOS/Android 的原生库. 它还关注插件依赖关系并提供无忧的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：应用跟踪透明度，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  - 对 Godot 的 Quake `.map` 文件支持. 让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/) 用于关卡设计.
 - [Scatter](https://github.com/HungryProton/scatter) - 用道具或其他场景随机填充一个区域.
 - [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - Godot 的 3D 毛皮节点.
@@ -263,6 +263,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-python](https://github.com/touilleMan/godot-python) - 对 Godot 3 的 Python 支持.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - 创建体积世界的模块（Godot 3.1+）.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - Godot 3 的 ENet 包装器.
+- [GodotHook](https://github.com/Mestima/GodotHook) - Godot 引擎（Godot 3.x、4.x）的精简自定义事件系统.
 - [GodotSteam](https://github.com/Gramps/GodotSteam)  - Godot 的 Steam API 库绑定. 支持 Windows、macOS 和 Linux (Godot 3.x).
 - [Texture Packer](https://github.com/Relintai/texture_packer) - 在运行时分层、打包和合并纹理的工具（Godot 3.2+、4.0）.
 - [Voxelman](https://github.com/Relintai/voxelman) - 一个体素引擎，更专注于编辑器集成、游戏相关功能和可扩展性（Godot 3.2+、4.0）.
