@@ -19,7 +19,7 @@
 
 ## CircuitPython.org
 
-[CircuitPython.org](https://circuitpython.org/) 是信息蛇高速公路的第一站. 在这里你可以看到所有 [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 80 boards supported in the CircuitPython family!
+[CircuitPython.org](https://circuitpython.org/) 是信息蛇高速公路的第一站. 在这里你可以看到所有 [supported boards and download](https://circuitpython.org/downloads) 每个固件的特定固件，包括 beta、最新和以前的版本. 下载可以按制造商、功能、名称等进行排序. 目前，CircuitPython 系列支持超过 80 块板！
 
 ## Guides
 
@@ -39,7 +39,7 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - Circuit Playground Express 的介绍和讨论，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
+- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - 介绍和讨论 Circuit Playground Express，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)  - 本书帮助您开始使用 CircuitPython 开发. 本书使用 Adafruit ItsyBitsy M0 Express 板进行开发.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 将于 2019 年 9 月从 [TechBookFest](https://techbookfest.org/).
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论 MicroPython 语言.
@@ -123,8 +123,8 @@
 - [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230)  - 由 Liz Clark - Apress.  CircuitPython（MicroPython 的一个分支，从一开始就设计为对初学者友好.）这允许最终用户将 Python 用于他们的电子硬件项目，类似于他们在 Arduino IDE 中使用 C/C++ 的方式.
 - [Method's Magazine](https://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - 方法 eZine：设计趋势和万物转型以硬件上的 Python 为特色，第 35 页 - [PDF](https://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) - CircuitPython 以专题文章和项目登上 HackSpace 杂志的封面.
-- [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) - 社区呼吁 2019 年 CircuitPython 的需求和需求.
-- [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/) - 一篇讨论 CircuitPython 2018 版未来方向的文章.
+- 社区呼吁每年在 CircuitPython 中需要和需要什么： [2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/), [2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/), [2021](https://blog.adafruit.com/2021/01/01/where-should-circuitpython-go-in-2021-circuitpython2021-circuitpython/), [2022](https://blog.adafruit.com/2022/02/01/the-circuitpython-community-a-round-up-and-a-look-forward-to-202/)
+
 - [CircuitPython in MicroSolutions Digital Magazine](https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/)  - Microchip 的 MicroSolutions，设计角文章中的“微控制器上的 Python”.  MicroSolutions 是 Microchip 的双月刊数字杂志.
 - [CircuitPython Snakes its Way onto Adafruit Hardware](https://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) - MAKE 关于 CircuitPython 的文章.
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.com/articles/adafruit-circuit-playground-express-review) - Raspberry Pi 评论 Circuit Playground Express.
@@ -145,7 +145,7 @@
 - [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Instagram 上的帖子标记为 CircuitPython.
 - [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - MicroPython 论坛上标记为 CircuitPython 的文章.
 - [CircuitPython tagged on Reddit](https://www.reddit.com/domain/adafruit.com/search?q=circuit+python&sort=new&t=week) - 与 CircuitPython 相关的 Reddit 帖子.
-- [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - 在 reddit 上 CircuitPython 的专用主页 [r/circuitpython/](https://www.reddit.com/r/circuitpython/).
+- [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - Dedicated home of CircuitPython on reddit [r/circuitpython/](https://www.reddit.com/r/circuitpython/).
 - [CircuitPython on Hackaday.io](https://hackaday.io/list/163331-circuitpython) - hackaday.io 上的精选项目列表.
 - [CircuitPython on hackster.io](https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/) - hackster.io 上硬件项目上的 Python，包括 CircuitPython.
 - [CircuitPython on Instructables](https://www.instructables.com/howto/circuitpython/) - 在 Autodesk 的 Instructables 上使用 CircuitPython 的操作方法、指南等.
@@ -203,9 +203,9 @@
 
 ### Contribution Workflow Overview
 
-1. 叉子 [this repository](https://github.com/adafruit/awesome-circuitpython) 在 GitHub 上.
+1. Fork [this repository](https://github.com/adafruit/awesome-circuitpython) 在 GitHub 上.
 1. 将分叉的 repo 克隆到您的驱动器.
-1. Add a remote using owner adafruit and the original URL.
+1. 使用所有者 adafruit 和原始 URL 添加一个遥控器.
 1. 取遥控器.
 1.合并adafruit或main.
 1. 创建一个分支.

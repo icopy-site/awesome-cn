@@ -115,7 +115,7 @@ _表格和数据网格._
 _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - 可以在任何 JS 应用程序中使用的 Toast 通知组件.
-- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 添加图标和徽章的自定义组件，可用于显示未读消息的数量等.
+- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 一个自定义组件，它添加了一个图标和一个徽章，您可以使用它们来显示例如未读消息的数量等.
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - 简单优雅的吐司通知.
 
 ### Grid
@@ -150,7 +150,7 @@ _让用户创建和编辑数据._
 
 #### Checkbox
 
-_开关/开/关切换/复选框._
+_Switch / on/off toggle / checkbox._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - 一个复选框组件（很酷的动画，可定制）.
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - 带有样式的基本切换组件.
@@ -203,6 +203,7 @@ _SSR 框架._
 - [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - 用于管理表单的轻量级库.
 - [felte](https://felte.dev/) - 可扩展的表单库，内置 Yup、Zod、Vest 和 Superstruct 验证.
 - [vest](https://github.com/ealush/vest) - 受单元测试启发的声明式表单验证框架.
+- [svelte-formly](https://github.com/arabdevelop/svelte-formly) - 使用具有自定义样式的核心和自定义规则生成和控制动态表单的良好解决方案.
 
 ### WebGL
 
@@ -220,7 +221,7 @@ _SSR 框架._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化.
-- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Svelte 的国际化库.
 - [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - 用于整合 [i18n](https://www.npmjs.com/package/i18n) SvelteKit 中的样式本地化.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - 基于 Web 的本地化工具，使用户能够直接在他们开发的 Svelte 应用程序中进行翻译.
 
@@ -266,7 +267,7 @@ _创建文档._
 
 - [svelte-jester](https://github.com/mihar-22/svelte-jester) - 在将组件导入测试之前编译组件的 Jest 转换器.
 - [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - 简单而完整的 Svelte DOM 测试实用程序，鼓励良好的测试实践.
-- [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - 有用于 Svelte 组件的 Transformer.
+- [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - 用于 Svelte 组件的 Jest Transformer.
 
 ### Editors
 

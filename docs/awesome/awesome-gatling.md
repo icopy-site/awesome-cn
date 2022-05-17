@@ -36,7 +36,7 @@
 
 - [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - 使用来自官方 Gatling 文档的多台机器托管的多个 Gatling 实例的配方.
 - [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
-- [Gatling – Scaling Out Your Load Tests](http://www.nimrodstech.com/gatling-cluster-load-testing/)
+- [Gatling – Scaling Out Your Load Tests](https://web.archive.org/web/20210625094528/http://www.nimrodstech.com/gatling-cluster-load-testing/)
 - [Distributed Gatling](https://github.com/Abiy/distGatling) - 在分布式/集群环境中运行 Gatling 模拟测试的解决方案.
 
 ## Tools

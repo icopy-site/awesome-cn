@@ -99,7 +99,7 @@
 
   - [kippo_detect](https://github.com/andrew-morris/kippo_detect) - 检测 kippo 蜜罐存在的攻击性组件.
 
-- ICS / SCADA 蜜罐
+- ICS/SCADA 蜜罐
 
   - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA 蜜罐.
   - [GasPot](https://github.com/sjhilt/GasPot) - Veeder Root Gaudian AST，在石油和天然气行业中很常见.
@@ -110,6 +110,7 @@
 - 其他/随机
 
   - [Damn Simple Honeypot (DSHP)](https://github.com/naorlivne/dshp) - 带有可插入处理程序的蜜罐框架.
+  - [Masscanned](https://github.com/ivre/masscanned)  - 让我们被扫描. 专注于网络扫描仪和机器人的低交互蜜罐. 它与 IVRE 很好地集成，以构建 GreyNoise 的自托管替代方案.
   - [NOVA](https://github.com/DataSoft/Nova) - 使用蜜罐作为检测器，看起来像一个完整的系统.
   - [OpenFlow Honeypot (OFPot)](https://github.com/upa/ofpot) - Redirects traffic for unused IPs to a honeypot, built on POX.
   - [OpenCanary](https://github.com/thinkst/opencanary) - 模块化和分散的蜜罐守护程序，运行多个金丝雀版本的服务，当服务被（ab）使用时发出警报.
@@ -252,7 +253,7 @@
 - 数据收集/数据共享
 
   - [HPfriends](http://hpfriends.honeycloud.net/#/home) - 蜜罐数据共享平台.
-    - [hpfriends - real-time social data-sharing](https://heipei.io/sigint-hpfriends/) - 关于 HPFriends 饲料系统的介绍
+    - [hpfriends - real-time social data-sharing](https://heipei.io/sigint-hpfriends/) - Presentation about HPFriends feed system
   - [HPFeeds](https://github.com/rep/hpfeeds/) - 轻量级认证发布-订阅协议.
 
 - 中央管理工具
@@ -403,7 +404,7 @@
   - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - 码头化 [Thug](https://github.com/buffer/thug) 分析恶意网页内容.
   - [Dockerpot](https://github.com/mrschyte/dockerpot) - 基于 Docker 的蜜罐.
   - [Manuka](https://github.com/andrewmichaelsmith/manuka) - 基于 Docker 的蜜罐（Dionaea 和 Kippo）.
-  - [honey_ports](https://github.com/run41/honey_ports) - Very simple but effective docker deployed honeypot to detect port scanning in your environment.
+  - [honey_ports](https://github.com/run41/honey_ports) - 非常简单但有效的 docker 部署蜜罐来检测您环境中的端口扫描.
   - [mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - 现代蜂蜜网络的核心元素在 Docker 中实现.
 
 - 网络分析
@@ -421,7 +422,7 @@
 
 - 蜜币
   - [CanaryTokens](https://github.com/thinkst/canarytokens)  - 自托管蜜令牌生成器和报告仪表板； 演示版可在 [CanaryTokens.org](https://canarytokens.org/generate).
-  - [Honeybits](https://github.com/0x4D31/honeybits) - 简单的工具旨在通过在生产服务器和工作站上传播面包屑和蜜令牌来提高陷阱的有效性，以将攻击者引向您的蜜罐.
+  - [Honeybits](https://github.com/0x4D31/honeybits) - 简单的工具旨在通过在您的生产服务器和工作站上传播面包屑和蜜令牌来提高陷阱的有效性，以将攻击者引向您的蜜罐.
   - [Honeyλ (HoneyLambda)](https://github.com/0x4D31/honeylambda) - 简单的无服务器应用程序，旨在在 AWS Lambda 和 Amazon API Gateway 之上创建和监控 URL 蜜令牌.
   - [dcept](https://github.com/secureworks/dcept) - 用于部署和检测 Active Directory 蜜令牌使用的工具.
   - [honeyku](https://github.com/0x4D31/honeyku) - 基于 Heroku 的网络蜜罐，可用于创建和监控虚假 HTTP 端点（即蜜令牌）.
@@ -487,6 +488,7 @@
   - [HoneyMap](https://github.com/fw42/honeymap) - 精美的 SVG 世界地图上的 GPS 事件的实时 websocket 流.
   - [HoneyStats](https://sourceforge.net/projects/honeystats/) - 在 Honeynet 上记录的活动的统计视图.
   - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - 可视化应用程序来可视化 hpfeeds 日志.
+  - [IVRE](https://github.com/ivre/ivre)  - 网络侦察框架，由@cea-sec 和@ANSSI-FR 发布. 构建您自己的、自托管和完全控制的 Shodan / ZoomEye / Censys 和 GreyNoise 替代方案，运行您的被动 DNS 服务，从您的传感器收集和分析网络情报，等等！
   - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious 应用程序显示您的 kippo SSH 蜜罐的统计数据.
   - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - 用于可视化来自 Kippo SSH 蜜罐的统计数据的全功能脚本.
   - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - 从蜜罐创建可操作的信息.

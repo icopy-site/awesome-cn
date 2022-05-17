@@ -23,7 +23,7 @@
 - [Ansible Lockdown](https://ansiblelockdown.io/) - 精心策划的以信息安全为主题的 Ansible 角色集合，这些角色经过审查和积极维护.
 - [Clevis](https://github.com/latchset/clevis) - 用于自动解密的可插入框架，通常用作 Tang 客户端.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - 用 Python 编写的可扩展网络取证分析框架，支持快速开发插件以支持剖析网络数据包捕获.
-- [Dev-Sec.io](https://dev-sec.io/) - Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.
+- [Dev-Sec.io](https://dev-sec.io/) - 服务器加固框架，提供各种基线安全配置的 Ansible、Chef 和 Puppet 实现.
 - [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - 可编写脚本的 PDF 文件分析器.
 - [PyREBox](https://talosintelligence.com/pyrebox) - 基于 QEMU 的 Python 可编写脚本的逆向工程沙箱.
 - [Watchtower](https://containrrr.dev/watchtower/) - 基于容器的解决方案，用于自动更新 Docker 容器基础映像，提供无人值守的升级体验.
@@ -49,7 +49,6 @@
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 - [Aaia](https://github.com/rams3sh/Aaia) - 在 Neo4j 的帮助下，帮助以图形格式可视化 AWS IAM 和组织.
-- [Checkov](https://www.checkov.io/) - Terraform（基础设施即代码）的静态分析，以帮助检测 CIS 策略违规并防止云安全配置错误.
 - [Falco](https://falco.org/) - 行为活动监视器旨在通过审核 Linux 内核并通过运行时数据（如 Kubernetes 指标）来检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用感觉和执行类似于容器的轻量级虚拟机保护容器运行时，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
 - [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) - 通过能够识别 AWS 账户或 AWS 组织的 AWS Identity and Access Management (IAM) 配置中的风险的脚本和库，快速评估 AWS 中的 IAM 权限.
@@ -87,14 +86,14 @@
 
 也可以看看 [ServiceMesh.es](https://servicemesh.es/).
 
-- [Consul](https://consul.io/) - 跨动态、分布式基础设施连接和配置应用程序的解决方案，并通过 Consul Connect 实现安全的服务到服务通信，并具有自动 TLS 加密和基于身份的授权.
+- [Consul](https://consul.io/) - 跨动态、分布式基础架构连接和配置应用程序的解决方案，并通过 Consul Connect 实现安全的服务到服务通信，并具有自动 TLS 加密和基于身份的授权.
 - [Istio](https://istio.io/) - 开放平台，用于提供统一的方式来集成微服务、管理跨微服务的流量、执行策略和聚合遥测数据.
 
 ## Communications security (COMSEC)
 
 也可以看看 [Transport-layer defenses](#transport-layer-defenses).
 
-- [GPG Sync](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
+- [GPG Sync](https://github.com/firstlookmedia/gpgsync) - 在组织或团队的所有成员之间集中和自动化 OpenPGP 公钥分发、撤销和更新.
 - [Geneva (Genetic Evasion)](https://censorship.ai/) - 新的实验性遗传算法，改进了针对民族国家级审查员的基于数据包操作的审查规避策略，以增加其他被阻止内容的可用性.
 - [GlobaLeaks](https://www.globaleaks.org/) - 免费的开源软件使任何人都可以轻松设置和维护安全的举报平台.
 - [SecureDrop](https://securedrop.org/) - 媒体组织和非政府组织可以安装开源举报人提交系统，以安全地接受来自匿名来源的文件.
@@ -106,19 +105,22 @@
 
 - [Bane](https://github.com/genuinetools/bane) - 用于 Docker 容器的自定义和更好的 AppArmor 配置文件生成器.
 - [BlackBox](https://github.com/StackExchange/blackbox) - 通过使用 GnuPG 在“静止状态”加密它们，将机密安全地存储在 Git/Mercurial/Subversion 中.
+- [Checkov](https://www.checkov.io/) - Terraform（基础设施即代码）的静态分析，以帮助检测 CIS 策略违规并防止云安全配置错误.
 - [Cilium](https://cilium.io/) - 开源软件，用于透明地保护使用 Linux 容器管理平台（如 Docker 和 Kubernetes）部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) - 静态分析工具，用于探测通过应用程序容器（例如 Docker）图像引入的漏洞.
 - [CodeQL](https://securitylab.github.com/tools/codeql) - 通过对代码执行查询来发现代码库中的漏洞，就像它是数据一样.
 - [DefectDojo](https://www.defectdojo.org/) - 为 DevOps 和持续安全集成构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) - 常规持续集成构建管道期间的渗透测试应用程序.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - 防止您将密码和其他敏感信息提交到 git 存储库.
-- [SOPS](https://github.com/mozilla/sops) - 支持 YAML、JSON、ENV、INI 和二进制格式并使用 AWS KMS、GCP KMS、Azure Key Vault 和 PGP 加密的加密文件的编辑器.
+- [SOPS](https://github.com/mozilla/sops) - 加密文件的编辑器，支持 YAML、JSON、ENV、INI 和二进制格式，并使用 AWS KMS、GCP KMS、Azure Key Vault 和 PGP 进行加密.
 - [Snyk](https://snyk.io/) - 查找并修复开源依赖项和容器映像中的漏洞和许可违规.
 - [SonarQube](https://sonarqube.org) - 持续检查工具，可在自动测试期间提供详细报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) - 用于容器和其他工件的简单而全面的漏洞扫描器，适用于持续集成管道.
 - [Vault](https://www.vaultproject.io/) - 通过统一接口安全访问 API 密钥、密码或证书等秘密的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  - git中的透明文件加密； 您选择保护的文件在提交时被加密，在签出时被解密.
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) - Helm 插件，可帮助使用 Git 工作流程管理机密并将它们存储在任何地方，由 SOPS 支持.
+- [terrascan](https://runterrascan.io/) - 用于基础设施即代码工具的静态代码分析器，有助于在配置云原生资源之前检测合规性和安全违规行为以降低风险.
+- [tfsec](https://aquasecurity.github.io/tfsec/) - 用于在本地和 CI 管道中运行的 Terraform 代码的静态分析安全扫描器.
 
 ### Application or Binary Hardening
 
@@ -145,7 +147,7 @@
 也可以看看 [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 * [Atheris](https://pypi.org/project/atheris/) - 基于 libFuzzer 的覆盖引导 Python 模糊测试引擎，支持 Python 代码的模糊测试，也支持为 CPython 编写的本机扩展.
-* [FuzzBench](https://google.github.io/fuzzbench/) - 免费服务，以 Google 规模评估各种真实世界的基准测试中的模糊器.
+* [FuzzBench](https://google.github.io/fuzzbench/) - 免费服务，以 Google 规模评估各种真实世界基准测试中的模糊器.
 * [OneFuzz](https://github.com/microsoft/onefuzz) - 自托管的 Fuzzing-as-a-Service (FaaS) 平台.
 
 ### Policy enforcement
@@ -169,7 +171,7 @@
 也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  - 自托管蜜令牌生成器和报告仪表板； 演示版可在 [CanaryTokens.org](https://canarytokens.org/).
-- [Kushtaka](https://kushtaka.org) - 为资源不足的蓝队提供可持续的一体化蜜罐和蜜令牌协调器.
+- [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 - [Manuka](https://github.com/spaceraccoon/manuka) - 开源情报 (OSINT) 蜜罐，用于监控威胁参与者的侦察尝试，并为蓝队提供可操作的情报.
 
 ### Tarpits
@@ -357,7 +359,7 @@
 
 ### Fingerprinting
 
-- [HASSH](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
+- [HASSH](https://github.com/salesforce/hassh) - 网络指纹标准，可用于识别特定的客户端和服务器 SSH 实现.
 - [JA3](https://ja3er.com/) - 提取 SSL/TLS 握手设置，以对给定的 TLS 实现进行指纹识别和通信.
 
 ### Threat signature packages and collections
@@ -365,7 +367,7 @@
 - [ESET's Malware IoCs](https://github.com/eset/malware-ioc) - 从 ESET 的各种调查中得出的妥协指标 (IOC).
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - 收集 Snort 和 YARA 规则以检测使用 FireEye 自己的 Red Team 工具进行的攻击，该工具在 FireEye 于 2020 年 12 月披露违规行为后首次发布.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) - 收集各种语言的 IoC，用于检测后门 SolarWinds Orion NMS 活动和相关漏洞.
-- [YARA Rules](https://github.com/Yara-Rules/rules) - 涵盖 IT 安全研究人员需要拥有一个单一存储库的项目，其中不同的 Yara 签名被编译、分类并尽可能保持最新.
+- [YARA Rules](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
 
 ## Tor Onion service defenses
 
@@ -386,7 +388,7 @@
 - [Innernet](https://github.com/tonarino/innernet) - 在后台使用 WireGuard 的免费软件专用网络系统，可自托管.
 - [Nebula](https://github.com/slackhq/nebula) - 受 tinc 启发，完全开源、自托管、可扩展的覆盖网络工具，专注于性能、简单性和安全性.
 - [OpenVPN](https://openvpn.net/) - 长期存在的自由软件传统的基于 SSL/TLS 的虚拟专用网络.
-- [OpenZITI](https://openziti.github.io/) - 开源计划专注于通过覆盖网络、调谐应用程序和众多 SDK 将零信任引入任何应用程序.
+- [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
 - [Tailscale](https://tailscale.com/) - 建立在 WireGuard 之上的托管免费增值网状 VPN 服务.
 - [WireGuard](https://www.wireguard.com/) - 使用最先进的加密技术的极其简单但快速且现代的 VPN.
 - [tinc](https://tinc-vpn.org/) - 完全在用户空间中实施的免费软件网状 VPN，支持可扩展的网络空间、桥接以太网段等.

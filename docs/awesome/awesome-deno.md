@@ -84,11 +84,18 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - 适用于任何地方的 JavaScript 的有用日志记录实用程序.
 
+### Machine learning
+- [netsaur](https://github.com/denosaurs/netsaur) - 强大的机器学习，由 WebGPU 加速
+- [synaptic](https://github.com/load1n9/synaptic) - Dependency-less neural network library ported to deno
+
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - deno 的 smtp 邮件发件人.
 
 ### Markdown
 - [marked](https://github.com/denolib/marked/) - Markdown 到 HTML 转换器.
+
+### Math
+- [neo](https://github.com/denosaurs/neo/) - 矩阵和其他数学，由 WebGPU 加速
 
 ### String utils
 - [camelcase](https://github.com/denolib/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
@@ -156,7 +163,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [online](https://github.com/denorg/online) - 检查您当前是否在 Deno 在线.
 - [optionals](https://github.com/OliverBrotchie/optionals) - 类似 Rust 的错误处理和具有详尽模式匹配的选项.
 - [qrcode](https://github.com/denorg/qrcode) - Deno 的 QR 码图像生成器.
-- [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
+- [recursive-readdir](https://github.com/denorg/recursive-readdir) - 在 Deno 中递归读取目录.
 - [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是工作.
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
 - [tryify](https://github.com/twilsoft/tryify)  - 函数式错误处理； 永远不要再次抛出/尝试/捕捉/最终.
@@ -246,7 +253,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [clone](https://github.com/ekaragodin/clone) - 方便克隆的简单实用程序.
 - [decense](https://github.com/vinliao/decense) - 使用一个 `deno run` 命令生成许可证.
 - [dedep](https://github.com/egoist/dedep) - 管理依赖版本.
-- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流，使用任何 Deno 模块、Typescript/Javascript 代码
+- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流程，使用任何 Deno 模块、Typescript/Javascript 代码
 - [denoify](https://github.com/garronej/denoify) - 对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.

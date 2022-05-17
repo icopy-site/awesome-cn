@@ -76,7 +76,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink 提要令牌接口.
 - [Official in Substrate](https://github.com/paritytech/substrate/tree/master/frame) - 大量收藏，保持平价.
-- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - 社区维护的 Substrate 运行时模块集合.
+- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - 用于管理赏金计划的分布式自治组织 (DAO).
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - 受 Keybase 启发的身份管理.
 - [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - 为开发链分配资源.
@@ -146,10 +146,11 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为 FRAME Con​​tracts 托盘和墨​​水编写的智能合约测试网！
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 生态系统的零知识工具.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
+- [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC 的 Polkadot 节点监控和警报解决方案，兼容许多 Substrate 链. 
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于使用 Polkadot 和任何 Substrate 链进行开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - 基于 Substrate 的链的半官方区块浏览器和前端.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 用于与基于 Substrate 的链交互的浏览器扩展.
-- [Polkascan](https://polkascan.io/) - Multi-chain block explorer maintained by Polkascan Foundation.
+- [Polkascan](https://polkascan.io/) - 由 Polkascan 基金会维护的多链区块浏览器.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - 演示基于 Substrate 原语构建的安全、方便和灵活的热钱包架构.
 - [Redspot](https://github.com/patractlabs/redspot) - 一种 [Truffle](https://www.trufflesuite.com/truffle)- 类似于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - 与 Substrate 节点一起运行的 REST 服务.
