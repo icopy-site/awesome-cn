@@ -226,7 +226,7 @@
 <br>
 
 <p align="center">
-	<sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可前往此处.</sub> <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter 上</a>关注我.</sub>
+	<sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可前往此处.</sub> <sub>查看我的<a href="https://sindresorhus.com/apps">应用程序</a>并在<a href="https://twitter.com/sindresorhus">Twitter 上</a>关注我.</sub>
 </p>
 <br>
 

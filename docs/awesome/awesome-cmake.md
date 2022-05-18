@@ -54,8 +54,8 @@
 * [Book](https://leanpub.com/effective-cmake) - Effective CMake：编写更好 CMake 的实用建议（尚未完全编写）.
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - 现代 CMake 简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)  - 如何使 CMake 好.  [```[CC0-1.0]```][CC0-1.0]
-* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - 更现代的 CMake ([slides & examples](https://github.com/Bagira80/More-Modern-CMake))- 作者：Deniz Bahadir，2018 年 C++ 会议.
-* [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk)  - 不好了！ 更现代的 CMake ([slides](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf))- 由 Deniz Bahadir，C++ 2019 会议.
+* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - 更现代的 CMake ([slides & examples](https://github.com/Bagira80/More-Modern-CMake)) - Deniz Bahadir，会议 C ++ 2018.
+* [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk)  - 不好了！ 更现代的 CMake ([slides](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf)) - Deniz Bahadir，会议 C ++ 2019.
 * [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/)  - 修改默认的 CMake 构建类型/标志、工具链和补丁 - 天哪！  ——克里斯蒂安·亚当.
 * [Tutorial](https://github.com/schweitzer/modern-cmake-tutorial) - 如何正确使用现代 CMake 的教程和示例.
 
@@ -79,11 +79,11 @@
 * [CMake](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale)的常用 CMake 模块.  [```[BSD3]```][BSD-3-Clause]
 * [cmake-modules](https://github.com/jedbrown/cmake-modules)  - 一些科学图书馆的 CMake 模块.  [```[BSD2]```][BSD-2-Clause]
 * [cgcmake](https://github.com/chadmv/cgcmake)  - 用于与计算机图形相关的常见应用程序的 CMake 模块.  [```[麻省理工学院]```][麻省理工学院]
-* [FindMathematica](https://github.com/sakra/FindMathematica)  - Mathematica 的 CMake 模块.  [```[带]```][带]
+* [FindMathematica](https://github.com/sakra/FindMathematica)  - Mathematica 的 CMake 模块.  [```[麻省理工学院]```][麻省理工学院]
 * [extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE)的 CMake 的额外模块和脚本.  [```[BSD3]```][BSD-3-Clause]
 * [FindICU.cmake](https://github.com/julp/FindICU.cmake)  - 用于查找 Unicode (ICU) 库的国际组件的 CMake 模块.  [```[BSD2]```][BSD-2-Clause]
 * [FindTBB](https://github.com/justusc/FindTBB)  - 英特尔线程构建块的 CMake 查找模块.  [```[麻省理工学院]```][麻省理工学院]
-* [FindWiX](https://github.com/apriorit/FindWiX) - 用于构建的 CMake 模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 包与 [WiX toolset](http://wixtoolset.org) ,  [```[BSD3]```][BSD-3-Clause]
+* [FindWiX](https://github.com/apriorit/FindWiX) - 用于构建的 CMake 模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 包与 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]```][BSD-3-Clause]
 * [FindIDL](https://github.com/apriorit/FindIDL) - 用于构建的 CMake 模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) 带有 MIDL 的文件并使用生成 CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) .  [```[带]```][带]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei)的 CMake 模块集合.  [```[麻省理工学院]```][麻省理工学院]
 * [YCM](https://github.com/robotology/ycm) - 额外的 CMake 模块 [Yet Another Robot Platform](https://github.com/robotology/yarp) 和朋友.  [```[BSD3]```][BSD-3-Clause]
@@ -170,7 +170,7 @@
 * [catkin](https://github.com/ros/catkin)  - 基于 CMake 的构建系统，用于构建机器人操作系统 (ROS) 中的所有包.  [```[BSD3]```][BSD-3-Clause]
 * [suitesparse-metis-for-windows](https://github.com/jlblancoc/suitesparse-metis-for-windows)  - 轻松使用 SuiteSparse+METIS 的 CMake 脚本.  [```[BSD3]```][BSD-3-Clause]
 * [osg-3rdparty-cmake](https://github.com/bjornblissing/osg-3rdparty-cmake)  - 用于构建 OpenSceneGraph 第三方库的 CMake 脚本.  ```[混合许可]```
-* [cmake-d](https://github.com/dcarp/cmake-d)  - D2 的 CMake.  [```[麻省理工学院]```] [麻省理工学院]
+* [cmake-d](https://github.com/dcarp/cmake-d)  - D2 的 CMake.  [```[麻省理工学院]```][麻省理工学院]
 * [cmakeprojectmanager2](https://github.com/h4tr3d/cmakeprojectmanager2)  - 增强了 Qt Creator 的 CMake 项目管理器插件.  ```[无许可证]```
 * [cmake-lint](https://github.com/richq/cmake-lint)  - 检查 CMake 文件中的编码风格问题.  cmakelint 需要 Python.  [```[APACHE2]```][APACHE2]
 * [git-cmake-format](https://github.com/kbenzie/git-cmake-format)  - 将 clang-format 集成到托管在 git 存储库中的 CMake 项目中.  [```[许可证]```]（https://github.com/kbenzie/git-cmake-format/blob/master/license.txt）
@@ -180,6 +180,7 @@
 * [cmake_check](https://github.com/DaelDe/cmake_check)  - CMake 语言的静态分析（linter）（例如强制执行现代 CMake 规则）.  [```[麻省理工学院]```][麻省理工学院]
 * [cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [```[MIT]```][MIT]
 * [cmake-maven-plugin](https://github.com/cmake-maven-project/cmake-maven-project)  - Maven 构建的 CMake 集成.  [```[APACHE2]```][APACHE2]
+* [version-from-git](https://github.com/MhmRhm/version-from-git)  - 将 git 信息烘焙到您的二进制文件中.  [```[麻省理工学院]```][麻省理工学院]
 
 ## License
 
@@ -194,6 +195,6 @@ This is released under the [**```Creative Commons Attribution 4.0 International`
 [BSD-2-Clause]：https://opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]：https://opensource.org/licenses/BSD-3-Clause
 [APACHE2]：http://www.apache.org/licenses/LICENSE-2.0
-[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
+[CC0-1.0]：https://creativecommons.org/publicdomain/zero/1.0/
 [MPL]：https://www.mozilla.org/en-US/MPL/2.0/
 [无许可证]：https://unlicense.org/

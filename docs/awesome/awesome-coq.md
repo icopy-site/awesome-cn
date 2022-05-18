@@ -160,7 +160,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的形式模型，类型系统的逻辑关系，以及一些 Rust 库的安全证明.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - RISC-V 处理器指令集架构和扩展的定义.
-- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 验证了拓扑排序和在有限图中查找强连通分量的算法的实现.
+- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 验证了用于拓扑排序和在有限图中查找强连通分量的算法的实现.
 - [Vélus](http://velus.inria.fr) - 经过验证的 Lustre/Scade 类数据流同步语言编译器.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Raft 分布式共识协议的实现，在 Coq 中使用 Verdi 框架进行了验证.
 
@@ -201,13 +201,13 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Books
 
 - [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/) - 第一本致力于 Coq 的书.
-- [Software Foundations](https://softwarefoundations.cis.upenn.edu) - 一系列基于 Coq 的关于逻辑、函数式编程和编程语言基础的教科书，旨在让初学者可以使用.
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu) - 一系列基于 Coq 的关于逻辑、函数式编程和编程语言基础的教科书，旨在为初学者提供便利.
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - 关于 Coq 实用工程的教科书，它教授高级实用技巧和非常具体的证明风格.
 - [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - 解释如何使用分离逻辑构造程序逻辑的书，并附有适用于 Clight 编程语言和其他示例的 Coq 形式模型.
 - [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - 同时提供关于程序正确性的形式逻辑推理的一般介绍以及为此目的使用 Coq 的书.
 - [Programs and Proofs](https://ilyasergey.net/pnp/) - 这本书对 Coq 中的交互式证明进行了简短且实用的介绍，强调了通过 SSReflect 证明语言中的一小部分原语对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - 描述如何使用 Flocq 库在 Coq 中正式指定和验证浮点算法的书.
-- [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向数学倾向用户的书籍，侧重于数学组件库和 SSReflect 证明语言.
+- [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向数学倾向用户的书籍，重点介绍数学组件库和 SSReflect 证明语言.
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - 涵盖使用 Coq 的计算逻辑主题的书籍，包括基础、规范案例研究和实用编程.
 - [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于 Kirby 和 Paris 的 hydra 战斗以及 Coq 中其他有趣的形式化数学的持续进行中的书籍，包括库代码和练习.
 
@@ -223,7 +223,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) - 在线证明挑战.
 - [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) - Coq&#39;Art 书中的 Coq 代码和练习，包括附加教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - 介绍如何使用 Coq 定义逻辑概念和功能以及对它们的推理.
-- [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.0-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.
+- [Coq requirements in Common Criteria evaluations](https://www.ssi.gouv.fr/uploads/2014/11/anssi-requirements-on-the-use-of-coq-in-the-context-of-common-criteria-evaluations-v1.1-en.pdf) - 关于如何在高保证应用程序中编写可读和可审查的 Coq 代码的指南.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - 使用规范结构进行编程和证明的设计模式的演示.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - 数学组件教程的源代码.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - 使用 Coq 编写正式证明的基础知识.

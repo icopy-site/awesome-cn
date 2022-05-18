@@ -40,6 +40,7 @@
 - ：剪贴板： [Executable and linking format (ELF) specification](https://refspecs.linuxfoundation.org/elf/elf.pdf)
 - :earth_americas: [Executable file formats](https://docs.fileformat.com/executable)
 - :earth_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
+- ：剪贴板： [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
 - ：滚动： [Implementing your own generic unpacker](https://gsec.hitb.org/materials/sg2015/whitepapers/Julien%20Lenoir%20-%20Implementing%20Your%20Own%20Generic%20Unpacker.pdf)
 - ：图钉： [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
 - :earth_americas: [Mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
@@ -49,6 +50,7 @@
 - :earth_americas: [MZ disk operating system (DOS)](https://wiki.osdev.org/MZ)
 - ：bar_chart： [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All-WP.pdf)
 - ：滚动： [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All.pdf)
+- ：图钉： [Packer detection tool evaluation](https://github.com/FFRI/PackerDetectionToolEvaluation)
 - ：图钉： [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 - :earth_americas: [PE format (Microsoft docs)](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format)
 - ：滚动： [PinDemonium: A DBI-based generic unpacker for Windows executables](https://www.blackhat.com/docs/us-16/materials/us-16-Mariani-Pindemonium-A-Dbi-Based-Generic-Unpacker-For-Windows-Executables-wp.pdf)
@@ -245,6 +247,7 @@
 - [Dataset of Packed ELF](https://github.com/dhondta/dataset-packed-elf) - 打包的 ELF 样本数据集.
 - [Dataset of Packed PE](https://github.com/dhondta/dataset-packed-pe) - 原始数据集 PackingData 的净化版本，从 Notpacked 文件夹中移除打包样本，但也移除打包器文件夹中未能打包的样本（与原始解压可执行文件具有相同的哈希值）.
 - [Ember](https://github.com/elastic/ember) - 从作为研究人员基准数据集的 PE 文件中收集特征.
+- [FFRI Dataset Scripts](https://github.com/FFRI/ffridataset-scripts) - 制作数据集，如 FFRI 数据集.
 - [MaleX](https://github.com/Mayachitra-Inc/MaleX) - 恶意软件研究人员的恶意软件和良性 Windows 可执行样本数据集包含 1,044,394 个 Windows 可执行二进制文件和相应的图像表示，其中 864,669 个标记为恶意软件，179,725 个标记为良性.
 - [Malfease](https://web.archive.org/web/20141221153307/http://malfease.oarci.net) - 大约 5,000 个打包恶意软件样本的数据集.
 - [Malheur](https://www.sec.cs.tu-bs.de/data/malheur) - 包含记录的恶意软件（malware）行为，并已用于开发对恶意软件行为进行分类和聚类的方法（参见 2011 年的 JCS 文章）.
@@ -256,6 +259,7 @@
 - [Open Malware](https://web.archive.org/web/20190116100735/http://www.offensivecomputing.net/) - 在线收集恶意软件样本.
 - [PackingData](https://github.com/chesvectain/PackingData) - 原始数据集，包含带有各种打包程序的示例 PE 文件，包括 ASPack、BeRoEXEPacker、exe32pack、eXpressor、FSG、JDPack、MEW、Molebox、MPRESS、Neolite、NSPack、Pckman、PECompact、PEtite、RLPack、UPX、WinUpack、尤达的密码器和尤达的保护者.
 - [Packware](https://github.com/ucsb-seclab/packware) - 重现论文“When Malware is Packing Heat”中的实验所需的数据集和代码.
+- [RCE Lab](https://github.com/apuromafo/RCE_Lab)  - Crackme 的，keygenme 的，serialme 的；  “tuts4you”文件夹包含许多打包的二进制文件.
 - [Runtime Packers Testset](https://www.researchgate.net/publication/268030543_Runtime_Packers_The_Hidden_Problem) - 10 个常见恶意软件文件的数据集，包含超过 500 个版本和选项的大约 40 个不同的运行时打包程序，总共大约 5,000 个样本.
 - [SOREL](https://github.com/sophos-ai/SOREL-20M) - Sophos-ReversingLabs 2000 万数据集.
 - [theZoo](https://github.com/ytisf/theZoo) - 为使恶意软件分析的可能性向公众开放和可用而创建的项目.
@@ -299,7 +303,7 @@
 - [ElecKey](https://www.sciensoft.com) - 一套软件和工具，为软件保护、复制保护和许可证管理提供完整的解决方案.
 - [ELFCrypt](https://github.com/droberson/ELFcrypt) - 使用 RC4 加密的简单 ELF 加密器.
 - [ELFuck](https://github.com/timhsutw/elfuck) - 来自 sd 的 sk2 的 i386 原始版本的 ELF 打包程序.
-- [Enigma Protector](https://www.enigmaprotector.com) - 可执行文件许可和保护的专业系统.
+- [Enigma Protector](https://www.enigmaprotector.com) - Professional system for executable files licensing and protection.
 - [Enigma Virtual Box](https://www.enigmaprotector.com/en/aboutvb.html) - 适用于 Windows 的应用程序虚拟化系统.
 - [Eronona-Packer](https://github.com/Eronana/packer) - 这是win32下的exe打包器.
 - [EXE Bundle](https://www.webtoolmaster.com/exebundle.htm) - 将应用程序文件捆绑到单个 PE32 文件中.
@@ -320,7 +324,7 @@
 - [Papaw](https://github.com/dimkr/papaw) - 使用 LZMA Zstandard 或 Deflate 压缩的 ELF 可执行文件的许可打包程序.
 - [PE-Packer](https://github.com/czs108/PE-Packer) - Windows 32 位 PE 文件的简单打包程序.
 - [PE-Toy](https://github.com/r0ngwe1/petoy) - PE 文件打包器.
-- [PELock](https://www.pelock.com)  - Windows 可执行文件的软件保护系统； 保护您的应用程序免受篡改和逆向工程，并为软件许可证密钥管理提供广泛的支持，包括对时间试用期的支持.
+- [PELock](https://www.pelock.com)  - Windows 可执行文件的软件保护系统； 保护您的应用程序免遭篡改和逆向工程，并为软件许可证密钥管理提供广泛支持，包括对时间试用期的支持.
 - [PePacker](https://github.com/SamLarenN/PePacker) - 加密 .text 部分的简单 PE 打包器 我发布了一个简单的 PE 文件打包器，它加密 .text 部分并在最后一部分的末尾添加一个解密存根.
 - [PEShield](https://webscene.ir/tools/show/PE-SHIELD-0.25) - PE-SHIELD 是一个程序，它加密 32 位 Windows EXE 文件，使其仍然可执行.
 - [PESpin](http://downloads.fyxm.net/PESpin-95477.html)
@@ -362,7 +366,7 @@
 - [NSPack](https://nspack.apponic.com/) - 32/64 位 exe、dll、ocx、scr Windows 程序压缩器.
 - [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE 文件打包器依赖 aPlib 进行压缩和/或 XOR 进行加密.
 - [PECompact](http://www.bitsum.com/pec2.asp) - Windows 可执行压缩器具有第三方插件，可防止逆向工程.
-- [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - 压缩您的可执行文件和动态链接库，使其保持较小且对压缩文件功能没有影响.
+- [RLPack](https://web.archive.org/web/20070527132336/http://rlpack.jezgra.net) - Compresses your executables and dynamic link libraries in a way that keeps them small and has no effect on compressed file functionality.
 - [RSCC](https://defacto2.net/f/a520164?packer=rscc)  - 玫瑰超级 COM 地穴； 用于大于 300-400B 且小于 60kB 的文件的多态加密器.
 - [RUCC](https://defacto2.net/f/a520164?packer=rucc)  - ROSE Ultra COM 压缩机； 基于 624 的 COM 和 EXE 压缩实用程序.
 - [Sentinel HASP Envelope](https://cpl.thalesgroup.com/en-gb/software-monetization/all-products/sentinel-hasp) - 包装应用程序，用安全防护罩保护目标应用程序，提供一种方法来抵消逆向工程和其他反调试措施.
@@ -375,7 +379,7 @@
 - [WinUpack](https://www.sac.sk/download/pack/wupck039.zip) - Upack 的图形界面，这是一个用于从 Windows PE 文件创建自解压档案的命令行程序.
 - [XComp](http://www.soft-lab.de/JoKo/index_old.htm) - PE32 映像文件打包器和重建器.
 - [Yoda Crypter](https://sourceforge.net/projects/yodap/files/Yoda%20Crypter/1.3/yC1.3.zip/download) - 支持多态加密、软检测、反调试API、反倾销等，加密导入表和擦除PE Header.
-- [Yoda Protector](http://yodap.sourceforge.net) - Free, open source, Windows 32-bit software protector.
+- [Yoda Protector](http://yodap.sourceforge.net) - 免费、开源、Windows 32 位软件保护程序.
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -409,6 +413,7 @@
 - [Mask](https://defacto2.net/f/a520164?packer=mask) - 使用加密和反调试技巧防止 COM 程序被破解的工具.
 - [Megalite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/megal120.zip) - MS-DOS 可执行文件压缩器.
 - [Mess](https://defacto2.net/f/a520164?packer=mess) - 此工具与 HackStop 的功能相同，但它是用于非商业用途的免费软件.
+- [Morphine](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - 应用PE文件加密.
 - [Neolite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/neolte20.zip) - 压缩 Windows 32 位 EXE 文件和 DLL.
 - [PACK](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pack201.zip) - 可执行文件压缩器.
 - [PCShrink](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pcsnk071.zip) - 依赖于 aPLib 压缩库的 Windows 9x/NT 可执行文件压缩器.
@@ -496,7 +501,7 @@
 - [PE-bear](https://github.com/hasherezade/pe-bear-releases) - PE 文件的免费软件反转工具旨在为恶意软件分析师提供快速灵活的“第一视图”，稳定且能够处理格式错误的 PE 文件.
 - [Pefeats](https://github.com/roussieau/masterthesis/tree/master/src/detector/tools/pefeats) - 从 PE 文件中提取 119 个特征以用于机器学习算法的实用程序.
 - [Pefile](https://github.com/erocarrera/pefile) - 用于解析和使用可移植可执行文件的多平台 Python 模块.
-- [PEFrame](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
+- [PEFrame](https://github.com/guelfoweb/peframe) - 对 PE 恶意软件和通用可疑文件进行静态分析的工具.
 - [PEiD](http://www.secretashell.com/codomain/peid/) - 打包的可执行标识符.
 - [PEiD (CLI)](https://github.com/dhondta/peid) - PEiD 的 Python 实现具有用于制作新签名的附加工具.
 - [PEiD (yara)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
@@ -517,7 +522,7 @@
 - [PyPeid](https://github.com/FFRI/pypeid) - 使用 yara-python 的另一个 PEiD 实现.
 - [Quick Unpack](http://qunpack.ahteam.org/?p=458) - 通用解包器，有助于解包过程.
 - [RDG Packer Detector](http://www.rdgsoft.net) - 封隔器检测工具.
-- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 用于协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
+- [Red Curtain](https://mandiant-red-curtain.apponic.com)  - 协助分析恶意软件的事件响应者的免费软件； 它检查可执行文件（例如，.exe、.dll 等）以根据一组标准确定它们的可疑程度.
 - [Reko](https://github.com/uxmal/reko) - 机器代码二进制文件的免费反编译器.
 - [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - 基于入口点部分的熵值和WRITE属性的打包检测工具.
 - [REMnux](https://remnux.org) - 用于逆向工程和分析恶意软件的 Linux 工具包.
@@ -526,10 +531,10 @@
 - [RetDec](https://github.com/avast/retdec) - 基于 LLVM 的可重定向机器代码反编译器.
 - [SAC](https://www.sac.sk/files.php?d=7&l=) - PACK：存档器、exe 压缩器、存档器外壳和其他相关实用程序.
 - [SAFE](https://github.com/dhondta/awesome-executable-packing/blob/master/mailto:mihai@cs.wisc.edu) - 可执行文件的静态分析器（按需提供）.
-- [ShowStopper](https://github.com/CheckPointSW/showstopper) - 帮助恶意软件研究人员探索和测试反调试技术或验证调试器插件或其他与标准反调试方法冲突的解决方案的工具.
+- [ShowStopper](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 - [SymPack](https://www.amazon.com/Norton-AntiVirus-2007-Old-Version/dp/B000IAOIXW)  - 安全、便携、非常有效但不是用于打包检测和拆包的通用库； 诺顿防病毒解决方案的一部分.
 - [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - 机器学习混合云平台，可大规模收集数千种文件类型，通过机器学习二进制分析加速威胁检测，并持续监控超过 10B 文件的索引以应对未来威胁.
-- [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
+- [TrID](https://mark0.net/soft-trid-e.html) - 用于从二进制签名中识别文件类型的实用程序.
 - [Triton](https://github.com/jonathansalwan/Triton) - 动态二进制分析库.
 - [Tuts 4 You](https://tuts4you.com) - 非商业的、独立的社区，致力于分享逆向代码工程的知识和信息.
 - [Unipacker](https://github.com/unipacker/unipacker) - 基于仿真的 Windows 二进制文件的自动和平台无关解包器.
