@@ -262,7 +262,7 @@
 - [BSD Weekly](https://bsdweekly.com/) . 一份免费的、每周一次的 BSD 新闻和文章综合电子邮件.
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) . 每周最新的 MacMost 教程、提示和新闻都在您的收件箱中.
 - [NixOS Weekly](https://weekly.nixos.org) . 最新消息 [NixOS](https://nixos.org)
-- [Console Weekly](https://console.substack.com/) . 发现酷炫的开源项目，每周采访一位开发人员. 
+- [Console Weekly](https://console.substack.com/) . 发现酷炫的开源项目，每周采访一位开发人员.
 
 ## Git
 
@@ -379,7 +379,7 @@
 
 - [Finimize](https://insider.finimize.com/) .  3分钟了解今日财经新闻. 免费.
 - [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章可帮助初创公司和企业主了解如何实施定价策略.
-- [FBA monthly](https://www.fbamonthly.com/) .  FBA 月刊是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
+- [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于导航指数基金时代、了解经济和破解资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选的创业世界中的佼佼者.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，其中包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
@@ -396,7 +396,7 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
@@ -417,14 +417,14 @@
 
 - [Founder Weekly](http://www.founderweekly.com/) . 面向企业家的免费每周通讯，其中包含最佳策划内容、必读文章、指南、提示和技巧、资源、活动等.
 - [WebRTC Weekly](https://webrtcweekly.com/). A weekly & brief newsletter with all the latest news and activities on WebRTC.
-- [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web 音频 API、Web MIDI API 或一般网络上的声音感兴趣的人们提供的每周通讯.
+- [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络上的声音感兴趣的人们提供的每周通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇数据集的每周通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周通讯，汇集了初创公司生态系统中的最佳资源.
 - [Changelog Nightly](https://changelog.com/nightly) . 每天晚上 10 点发送一封电子邮件，在 GitHub 上挖掘最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) . 每周一次的 Linux 内核邮件列表线程综述，但带有更多的讽刺意味.
-- [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中挑选了一个订阅者，其电子邮件提交将发送给所有其他订阅者. 主题在主题和质量上各不相同.
+- [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中一个订阅者被选中，其电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [tl;dr Marketing](https://tldrmarketing.com/) . 面向数字营销人员的每周通讯，涵盖 SEO、PPC 和社交媒体方面的新闻.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术迷的硬件和软件新闻.

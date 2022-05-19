@@ -19,7 +19,7 @@
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf)  - Gltf 资产加载器和测试渲染器； 支持骨骼动画和变形目标.
 * [Lovox](https://github.com/tjakka5/Lovox) - 用于处理体素的伪 3D 库.
 * [g3d](https://github.com/groverburger/g3d) - LÖVE 简单易用的 3D 引擎.
-* [model_renderer](https://github.com/xiejiangzhi/model_renderer) - love2d 的简单 3d 模型渲染器.
+* [model_renderer](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
 
 
 ## AI
@@ -70,16 +70,15 @@
 
 * [Artal](https://github.com/unXedDani/Artal) - LÖVE 的 .PSD 解析库.
 * [Autobatch](https://github.com/rxi/autobatch) - 用于自动使用 SpriteBatches 的小型 LÖVE 模块.
-* [cindy](https://github.com/megagrump/cindy) - 在 LÖVE 11+ 中使用字节颜色值.
 * [deep](https://github.com/Nikaoto/deep)  - 增加 Z 轴； 允许您对动作进行排队并绘制调用.
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块.
-* [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - 与 deep 类似，但您可以设置自定义排序方法并创建多个可嵌套的实例.
+* [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（HSL 的人性化替代方案）.
 * [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器.
 * [Push](https://github.com/Ulydev/push) - LÖVE 的简单分辨率处理库.
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染.
 * [svglover](https://github.com/globalcitizen/svglover) - 在 LÖVE 中导入和显示简单 SVG 的库.
-* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - 用于图形、位置、屏幕捕获和着色器的像素艺术缩放器.
+* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
 * [Sölar](https://github.com/JanWerder/soelar) - 一个相当简单的太阳系模拟器.
 * [Tove2d](https://github.com/poke1024/tove2d) - LÖVE 的动画矢量图形.
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - LÖVE 的海龟图形库.
@@ -188,11 +187,10 @@
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - LÖVE 的分析库，具有详细的分析和线程支持.
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具.
 * [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形分析器.
-* [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) - Profile.lua 是一个小型的、非侵入性的模块，用于查找 Lua 代码中的瓶颈.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，它与 LuaJIT 一起使用，并在列中打印一个漂亮的报告文件.
 
 ## Physics
-*Collision Detection & Physics Wrappers*
+*碰撞检测和物理包装器*
 
 * [breezefield](https://github.com/HDictus/breezefield) - 一个轻量级和简单的love.physics 包装器（风场替代品）.
 * [Bump](https://github.com/kikito/bump.lua) - Lua 的碰撞检测库.
@@ -242,7 +240,7 @@
 ## Testing
 *用于单元测试的库和工具*
 
-* [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions.
+* [busted](https://github.com/Olivine-Labs/busted) - 带有可定制断言的简单单元测试框架.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - 无夹具的测试框架.
 * [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的、可定制的测试扩展 `assert()`.
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit 风格的随机单元测试框架.
@@ -302,7 +300,7 @@
 * [luasteam](https://github.com/uspgamedev/luasteam) - Steamworks API 的 Lua 绑定.
 * [Luvent](https://github.com/ejmr/Luvent) - 简单的事件驱动编程.
 * [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - 在 Windows/Mac/Linux 上打开文件选择器.
-* [nativefs](https://github.com/megagrump/nativefs) - 在 LÖVE 允许的路径之外读取和写入文件.
+* [nativefs](https://github.com/EngineerSmith/nativefs) - 在 LÖVE 允许的路径之外读取和写入文件.
 * [Optikon](https://optikon.co.uk/) - 所见即所得的视觉关卡设计师.
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - LÖVE 的粒子编辑器.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - 一个基本的 LÖVE 粒子系统编辑器.
@@ -333,7 +331,7 @@
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开 Atom 即可为当前项目启动 LÖVE.
 	* [Löve IDE](https://atom.io/packages/love-ide) - 这个包自动安装了几个用于在 Atom 中编写 Love2D 游戏的实用程序.
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE 的自动完成和片段.
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - LÖVE 的 Hyperclick 提供程序，显示 wiki.
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Atom 中的 Lua 语法错误检查.
 * [Brackets](http://brackets.io/) - Adob​​e 的现代开源文本编辑器（已过时）.
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - 在括号中添加 Lua 语法高亮.
@@ -343,7 +341,6 @@
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - 将 LOVE API 语法高亮添加到 ZBS 的脚本.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 功能强大且符合人体工程学的 Java IDE.
 	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - 用于 VSCode 的 Lua IDE/调试器插件.
-	* [Lua for IDEA](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Home) - IntelliJ-IDEA 的 Lua 插件.
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) - IntelliJ-IDEA 的片段和代码完成.
 * [Vim](https://vim.sourceforge.io/) - Vim 是一个高度可配置的文本编辑器，可以非常高效地创建和更改任何类型的文本.
 	* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) - Vim 的语法高亮显示.

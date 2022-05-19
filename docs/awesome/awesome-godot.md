@@ -154,6 +154,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [AgonesSDK](https://github.com/AndreMicheletti/godot-agones-sdk) - 插件添加 [Agones](https://github.com/googleforgames/agones) Godot (Godot 3.x) 的 SDK 功能.
 - [Anima](https://github.com/ceceppa/anima) - 与 Tween (Godot 3.x) 相比，使用更少的代码运行顺序和并行动画.
 - [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) - 用于从 Aseprite 作为 SpriteFrames 导入动画的插件（Godot 3.x）.
+- [AutoColliders](https://github.com/graycastle/godot-AutoColliders) - 允许为 Sprites 自动生成对撞机，并计划在未来扩展以处理 3D 网格（Godot 3.x）.
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 一个用许多着色器参数模拟 CRT 显示器的 Godot 着色器（Godot 3.x）.
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
@@ -213,7 +214,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
 - [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - 减轻 SkeletonIK 的缩放效果.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器动画骨骼.
-- [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统，旨在轻松操作 iOS/Android 的原生库. 它还关注插件依赖关系并提供无忧的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：应用跟踪透明度，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
+- [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统，旨在轻松使用适用于 iOS/Android 的本机库进行操作. 它还关注插件依赖关系并提供无忧的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：应用跟踪透明度，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  - 对 Godot 的 Quake `.map` 文件支持. 让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/) 用于关卡设计.
 - [Scatter](https://github.com/HungryProton/scatter) - 用道具或其他场景随机填充一个区域.
 - [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - Godot 的 3D 毛皮节点.
@@ -224,7 +225,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - 基于体素的体积光照和雾插件.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript 体素插件，用于在引擎和游戏中创建、导入和编辑体素内容.
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D 顶点绘画插件.
-- [Waterways](https://github.com/Arnklit/WaterGenGodot) - Tool to generate river meshes with flow and foam maps based on Bézier curves.
+- [Waterways](https://github.com/Arnklit/WaterGenGodot) - 使用基于贝塞尔曲线的流动和泡沫贴图生成河流网格的工具.
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - 用于创建视觉小说游戏的集成编辑器.
 
 #### Godot 3.1
@@ -332,7 +333,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *这些构建将允许您使用最新版本的 Godot Git，但它们可能不如官方版本稳定 - 使用风险自负.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - 主要是master分支，其他分支可以找到 [here](https://archive.hugo.pro/builds/godot/).
-- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app))，仅主分支.
+- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - Distributed via Itch.io (automatic updates with [app](https://itch.io/app))，仅主分支.
 - [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM 为 Raspberry Pi 4 构建 Godot 引擎.
 
 ## Bash scripts
@@ -361,6 +362,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - 将 GDScript 翻译成 GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用 Node.js 与 Godot 客户端通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
-- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于处理 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
+- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于使用 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 为 RetroPie 安装 Godot“模拟器”的脚本模块.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.

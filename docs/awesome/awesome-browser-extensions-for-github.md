@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-所有数字每天都会更新，包括扩展在所有浏览器中的总体使用情况、最后发布日期和 GitHub 存储库的星标！
+所有数字每天更新，包括所有浏览器中扩展的总体使用情况、最后发布日期和 GitHub 存储库的星标！
 
 ## Codeless contribution
 
@@ -44,7 +44,7 @@ GitHub 的下一级代码导航.
 安装：175 | 星星：10 | 最后更新：2022 年 4 月 26 日
 
 
-GitHub Chrome 扩展的 CoderStats 链接显示 GitHub 上当前显示的用户或组织配置文件页面的 CoderStats 页面的链接.
+GitHub Chrome 扩展的 CoderStats 链接显示了指向 GitHub 上当前显示的用户或组织配置文件页面的 CoderStats 页面的链接.
 
 安装：776 | 星星：16 | 最后更新：2020 年 11 月 20 日
 
@@ -116,7 +116,7 @@ Installs: 993 | Stars: 276 | Last update: 4 Nov 2021
 
 在 GitHub 上显示 npm 包统计信息
 
-安装：547 | 星数：48 | 最后更新：2020 年 5 月 31 日
+Installs: 547 | Stars: 48 | Last update: 31 May 2020
 
 
 自动将存储库大小添加到 GitHub 的存储库摘要.
@@ -194,12 +194,17 @@ Chrome 扩展程序可帮助您不要错过与您的回购相关的新闻线程�
 安装：19 | 星数：13 | 最后更新：2018 年 10 月 1 日
 
 
+您的所有问题、PR、回购和其他工作文档都在您的新标签中
+
+安装：不适用 | 星星：不适用 | 最后更新：不适用
+
+
 Chrome 和 Firefox 扩展，无需离开当前页面即可在弹出窗口中快速查看通知.
 
 安装：498 | 星数：133 | 最后更新：2022 年 4 月 27 日
 
 
-显示您的 GitHub 通知未读计数. 支持 GitHub Enterprise 以及仅显示您参与的问题的未读计数的选项.您可以单击该图标以快速查看未读通知.
+显示您的 GitHub 通知未读计数. 支持 GitHub Enterprise 和仅显示您参与的问题的未读计数的选项.您可以单击该图标以快速查看未读通知.
 
 安装：10494 | 星数：1501 | 最后更新：2022 年 3 月 2 日
 
@@ -299,7 +304,7 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 
 github的文件树，不仅如此.
 
-Installs: 10683 | Stars: n/a | Last update: 28 Apr 2022
+安装：10683 | 星星：不适用 | 最后更新：2022 年 4 月 28 日
 
 
 在 1400px、1600px 和 1800px 处添加断点，以在大屏幕上获得完整的 GitHub 体验. 还删除了存储库浏览器中文件和目录名称的截断.

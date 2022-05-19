@@ -103,7 +103,7 @@
 * [ILoveMaths](http://ilovemaths.com/) - 适用于 K-12 系统中的 6 至 12 年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
 * [Mathsisfun](https://www.mathsisfun.com) 适合高中学生的简单文本轻量级网站
-* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（美国亨廷顿马歇尔大学数学教授）
+* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（马歇尔大学数学教授，美国亨廷顿）
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
@@ -438,9 +438,9 @@
 * [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese（昆士兰大学）
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - 里克·杜雷特
-* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - 马蒂亚斯·瓦伦丁（加州大学伯克利分校）
+* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - 马蒂亚斯瓦伦丁（加州大学伯克利分校）
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - 威廉陈
-* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) 
+* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
 
 ### Statistics
@@ -485,12 +485,12 @@
 
 ## Numerical Analysis
 
-* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/books/na.pdf) - Doron Levy（马里兰大学）
+* [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/resources/notes.pdf) - Doron Levy（马里兰大学）
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) - Douglas N. Arnold（明尼苏达大学）
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) - JM McDonough（肯塔基大学）
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) ——阿尔弗雷德·施密特，阿尔森·纳里曼扬
-* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) ——道格拉斯·威廉·哈德
+* [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) ——道格拉斯·威廉·哈德
 
 
 ## Signal processing
@@ -531,4 +531,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Cyrille Rossant](http://cyrille.rossant.net) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Cyrille Rossant](http://cyrille.rossant.net) 已放弃本作品的所有版权和相关或邻近权利.
