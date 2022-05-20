@@ -65,7 +65,7 @@
 - [VueJS Brasil - Telegram Group [葡萄牙语]](https://t.me/vuejsbrasil)
 - [VueJS 巴西 - Facebook 页面 [葡萄牙语]](https://www.facebook.com/vuejsbrasil/)
 - [VueJS 巴西 - Facebook 群组 [葡萄牙语]](https://www.facebook.com/groups/vuejsbr/)
-- [VueJS 西班牙语 - Facebook 群组 [西班牙语]](https://www.facebook.com/groups/vue.es/)
+- [VueJS en español - Facebook 群组 [西班牙语]](https://www.facebook.com/groups/vue.es/)
 - [VueJS India 🇮🇳 - Discord chat server](https://goo.gl/mYXKUv)
 - [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsindonesia)
 - [VueJS 印度尼西亚 - Facebook 组 [印度尼西亚]](https://www.facebook.com/groups/1675298779418239/)
@@ -450,7 +450,7 @@
 - [TodoMVC Vue 3 Composition API](https://github.com/blacksonic/todomvc-vue-composition-api) - Vue 3 Composition API 中的完整 TodoMVC 实现，包含组件、存储、单元 e2e 测试和 linting.
 - [TodoMVC Vue](https://github.com/blacksonic/todomvc-vue) - Vue 2 中的完整 TodoMVC 实现，包含组件、存储、单元 e2e 测试和 linting.
 - [Movie search app with Composition API](https://github.com/blacksonic/movie-search-vue) - 在 Vue 2 中使用 Composition API 插件实现的电影搜索应用程序
-- [Nuxt with JWT authentication via OTP](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - 具有基本注册和启用 OTP 的登录功能的 Nuxt.js 样板.
+- [Nuxt with JWT authentication via OTP](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - 具有基本注册和启用 OTP 登录功能的 Nuxt.js 样板.
 - [vuetify-i18n-boilerplate](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - 使用 Vuetify、Vue-i18n、Vuex 和 Vue-router 快速启动 Vue 项目的样板文件
 - [Google Keep Clone with Vue + Firestore](https://github.com/wobsoriano/vue-keep) - 使用 TypeScript 编写的带有 Vue 和 Firestore 的 Google Keep 克隆.
 - [Go-echo-vuejs-boilerplate](https://github.com/faisaltheparttimecoder/go-echo-vuejs-boilerplate) - 使用 go with echo 框架作为后端和服务 Web 流量的 vuejs 的样板.
@@ -570,7 +570,7 @@
 - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) - Vue.js 2 + Webpack 2 基于 GitHub 页面的博客.
 - [Vuedo](https://github.com/Vuedo/vuedo) - 博客平台，使用 Laravel 和 Vue.js 构建.
 - [vue-music163](https://github.com/pluto1114/vue-music163) - 一个 Vue.js 音乐项目.
-- [Tomato5](https://github.com/zhangxin840/tomato5) - 实时协作工具，它将番茄工作法与团队状态共享板相结合.
+- [Tomato5](https://github.com/zhangxin840/tomato5) - 实时协作工具，它结合了番茄工作法和团队状态共享板.
 - [Web Learn](https://github.com/freearhey/web-learn) - 一项服务，可让您轻松访问数千个有关 Web 开发和编程的视频教程.
 - [ExcelJSON](https://github.com/palerdot/exceljson) - 将 CSV、TSV 转换为 JSON 的工具.
 - [Materialize-blog](https://github.com/forehalo/materialize-blog) - 使用 Laravel5.3 和 Vue2.x 构建的素材博客.
@@ -824,7 +824,7 @@
 - [Easy Mock](https://easy-mock.com)
 - [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) - 使用 Vue 2.0、vue-router 和 vuex 构建的博客，带有服务器端渲染
 - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - 使用 Vue.js 和 Firebase 构建的 JSON 模式的直观编辑器.
-- [Winsome Trivia](https://splode.github.io/trivia/) - 单人或多人问答游戏，包含 2,000 多个使用 Vue.js 构建并由 Open Trivia Database 提供支持的独特问题.
+- [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 - [Moon Organizer](https://moonorganizer.com/calendar/) - 农历应用程序
 - [Flash-Vue](https://flash-vue.com) - “未来的抽认卡”让学习无处不在 :rocket:
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - 带有 Vue2.0、Vuex、Vue 路由器的完整在线商店 SPA
@@ -900,7 +900,7 @@
 - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL 是第一个独立的虚拟商品市场.
 - [Scroll.in](https://scroll.in) - Scroll.in 是一家独立的新闻、信息和娱乐企业.
 - [Akunyi](https://akunyi.com) - 慈善网站
-- [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - 励志网站，基于 Mark Ruffalo 在数百次试镜中失败后才获得成功的故事.
+- [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - 基于 Mark Ruffalo 在数百次试镜中失败后才获得成功的故事的励志网站.
 - [Brandy](https://getbrandy.io) - 菜单栏的品牌资产管理器.
 - [NBC Sports](https://www.nbcsports.com/) - NBC Sports 是一个体育新闻网站.
 - [WITHIN](https://www.with.in/) - 虚拟现实中的非凡故事.
@@ -943,7 +943,7 @@
 - [QMK Configurator](https://config.qmk.fm/) - 从您的浏览器配置、构建和下载自定义 QMK 固件.
 - [Worksome](https://www.worksome.com/) - 为合格的 IT 专业人士和自由职业者以及希望雇用他们的公司提供市场/平台.
 - [Translator-vuejs](https://manuel-suarez-abascal.github.io/translator-vuejs/) - 使用 Vuejs、Yandex API 和 ResponsiveVoice.js API 构建的翻译应用程序.
-- [Big Timer](https://www.bigtimer.net/)  - 用于研讨会、会议和演示的全屏倒计时.  Big Timer 帮助研讨会主持人、会议主席、设计短跑运动员、演示者和有抱负的游戏节目主持人坚持他们的计划.
+- [Big Timer](https://www.bigtimer.net/)  - 用于研讨会、会议和演示的全屏倒数计时器.  Big Timer 帮助研讨会主持人、会议主席、设计短跑运动员、演示者和有抱负的游戏节目主持人坚持他们的计划.
 - [Wirenook](https://wirenook.com/)  - 用于构建响应式网站线框的免费在线应用程序. 高保真和低保真、项目共享和 svg 下载.
 - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - 为建筑行业量身定制的挪威管理系统.
 - [Poolside FM](https://poolside.fm/) - 复古风格的音乐播放器
@@ -1095,7 +1095,7 @@ _表格/数据网格_
 - [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) - 具有过滤、排序、编辑、分组、数据导出等功能的Vue数据网格.
 - [vue-jqxpivotgrid](https://github.com/jqwidgets/vue/tree/master/pivotgrid) - 具有枢轴设计器的 Vue 枢轴数据网格、钻取单元格、枢轴功能.
 - [toast-ui.vue-grid](https://github.com/nhnent/toast-ui.vue-grid) - Vue 包装器 [TOAST UI Grid](http://ui.toast.com/tui-grid/).
-- [vueye-datatable](https://github.com/boussadjra/vueye-table) - Vueye 数据表是基于 Vue.js 2 的响应式数据表组件，它按页面组织您的数据，以便轻松导航.
+- [vueye-datatable](https://github.com/boussadjra/vueye-table) - Vueye 数据表是基于 Vue.js 2 的响应式数据表组件，它按页面组织数据以便轻松导航.
 - [vue-sorted-table](https://github.com/BernhardtD/vue-sorted-table)  - 将表格转换为排序表格的插件. 支持嵌套对象键、自定义图标和可重用组件.
 - [vue-bootstrap4-table](https://github.com/rubanraj54/vue-bootstrap4-table) - 基于 Vue 2 和 Bootstrap 4 的高级数据表，包括多列过滤、多列排序、分页和信息、复选框行和高度可定制的插槽选项.
 - [vuejs-smart-table](https://github.com/tochoromero/vuejs-smart-table) - Straight Forward Table Component using the vanilla HTML Table Structure with Sorting, Filtering, Pagination and Selection out of the box.
@@ -1135,7 +1135,7 @@ _Toaster/snackbar——用一个无模式的临时小弹出窗口通知用户_
 - [@voerro/vue-notifications](https://github.com/voerro/vue-notifications) - 带有 HTML 和样式支持的简单 Vue.js 2 通知插件.
 - [vue-awesome-notifications](https://github.com/f3oall/vue-awesome-notifications) - 具有高级异步支持的轻量级 Vue.js 通知库.
 - [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) - IziToast 的 Vue.js 2 包装器.
-- [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - 基于 Vue.js 的简单 toast 通知 [toastr](https://github.com/CodeSeven/toastr)
+- [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)
 - [vue-snack](https://github.com/zerodois/vue-snack) - 基于 Google Material 的 Snackbars Vue.JS 插件.
 - [vue-m-message](https://github.com/mengdu/m-message) - vue 的消息插件.
 - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
@@ -1184,13 +1184,13 @@ _加载器/微调器/进度条——让用户知道有东西正在加载_
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - 用于创建占位符加载的 SVG 组件，如 Facebook 卡片加载
 - [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - 高度可定制的 Vue.js 3 圆形进度条组件.
 - [uspin](https://github.com/peterroe/uspin) - 在加载时添加自旋掩码的 vue3 组件.
-- [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
+- [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - 在加载时提供屏蔽的 vue3 指令.
 
 ##### Progress Bar
 
 _页面顶部的细长进度条_
 
-- [vue-progressbar](https://github.com/hilongjw/vue-progressbar) - A lightweight progress bar for vue.
+- [vue-progressbar](https://github.com/hilongjw/vue-progressbar) - vue 的轻量级进度条.
 - [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) - 最简单的 Youtube Like Vue 2 加载栏组件.
 - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Vue.js 的另一个顶级进度加载栏组件.
 - [vue-nprogress](https://github.com/vue-bulma/nprogress) - 进度条基于 Vue 的 nprogress.
@@ -1265,11 +1265,11 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) - 易于与 Vuetify 一起使用的对话框.
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - 基于 Vuetify 和 Vuex 的 Vue Promisify 模态组件插件.
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) - 一个简单易用的组件包装器，可帮助您从组件创建自定义和动态模式.
-- [@kouts/vue-modal](https://github.com/kouts/vue-modal) - 一个可定制的、可堆叠的、轻量级的模态组件，它遵循 W3C 的 WAI-ARIA 对话框（模态）部分中设置的准则.
+- [@kouts/vue-modal](https://github.com/kouts/vue-modal) - 一个可定制、可堆叠和轻量级的模态组件，它遵循 W3C 的 WAI-ARIA 对话框（模态）部分中设置的准则.
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) Tailwind 友好、高度可定制、可堆叠的模态组件.
 - [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - 简单的模态窗口 Vue.js 组件，负责覆盖、居中、动画、外部点击/`Escape` 键/`X-mark` 关闭，并允许您只专注于其内容.
 - [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - 用于 Vue.js 的简单图像/（YouTube）视频灯箱组件.
-- [v3confirm](https://github.com/malekim/v3confirm) - 一个专用于 vue3 的插件，用于显示确认对话框模式.
+- [v3confirm](https://github.com/malekim/v3confirm) - 专用于 vue3 的插件，用于显示确认对话框模式.
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - 让您在 Vue 3（组合或选项 API）中轻松创建基于承诺的对话框！
 - [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Vue3 易于使用且灵活的模态侧边栏组件.
 
@@ -1329,7 +1329,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) - 具有一组基本功能的简单菜单组件，在 80% 的情况下就足够了
 - [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation) - 具有 vue-router 支持的 Vue.js 2 树导航
 - [bp-vuejs-dropdown](https://github.com/borisbutenko/bp-vuejs-dropdown)  - Vuejs =&gt; 2 下拉菜单. 易于使用，无需外部，可选.
-- [vue-bulma-accordion](https://github.com/Lunrtick/vue-bulma-accordion) - 简单、易于配置的手风琴或可折叠样式，带有 Bulma 自定义或内置图标
+- [vue-bulma-accordion](https://github.com/Lunrtick/vue-bulma-accordion) - 简单、易于配置的手风琴或可折叠风格，带有 Bulma 自定义或内置图标
 - [v-selectmenu](https://github.com/TerryZ/v-selectmenu) - 一个简单、更容易和高度定制的 Vue2 菜单解决方案.
 - [vue-burger-menu](https://github.com/mbj36/vue-burger-menu) - 具有不同 CSS 动画的非画布侧边栏菜单组件.
 - [vue-dynamic-dropdown](https://github.com/JonathanDn/vue-dropdown) - 一个高度可定制、易于使用的优雅下拉组件
@@ -1420,7 +1420,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Vue.js 的简单趋势图
 - [vueplotlib](https://github.com/keller-mark/vueplotlib) - Declarative, interactive, linked plot components
 - [vgauge](https://github.com/amroessam/vgauge) - GaugeJS 的 Vue 包装器 - 创建漂亮的仪表
-- [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - 包装 [plotly.js](https://plot.ly/javascript/) 声明性图表库，附带 20 种图表类型，包括 3D 图表、统计图表和 SVG 地图.
+- [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - 包装 [plotly.js](https://plot.ly/javascript/) 带有 20 种图表类型的声明性图表库，包括 3D 图表、统计图表和 SVG 地图.
 - [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js)  - Vue.js 的漏斗图绘制库. 创建垂直和水平动画 SVG 漏斗图并添加标签、值、图例和其他信息.
 - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) - 轻量级 vue 图表实现，没有任何图表库依赖
 - [f2-vue](https://github.com/justice47/f2-vue) - f2 的 Vue 包装器 - 优雅、交互和灵活的移动图表库
@@ -1462,7 +1462,7 @@ _显示时间/日期/年龄_
 
 _在日历中显示不可编辑的事件_
 
-- [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar)  - Vue 日历 fullCalendar. 不需要 jQuery. 安排事件管理.
+- [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar)  - Vue 日历 fullCalendar. 不需要 jQuery. 计划事件管理.
 - [vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) - 一个简单的 Vue2 事件日历，除了 Vue2 之外没有依赖项.
 - [vue-calendar-picker](https://github.com/FranckFreiburger/vue-calendar-picker) - 用于事件显示、期间选择和日期选择器的轻量级日历组件.
 - [vue-lunar-calendar](https://github.com/KimWooHyun/vue-lunar-calendar)  - 一个用于农历的 vue 组件. 使用 Moment.js 进行日期操作.
@@ -1852,7 +1852,7 @@ _日期/日期时间/时间选择器_
 - [material-vue-daterange-picker](https://github.com/ly525/material-vue-daterange-picker) - Vuejs 2.x 的 Material Design 风格的日期范围选择器，与 vuetify 兼容，对移动设备友好.
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker)  - 一个干净且响应迅速的日期选择器，具有 Vuejs 2.x 的 Material Design 风格.  （日期/月/季度 &amp;&amp; 日期范围选择器）：新：
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker)  - 用于选择波斯日期的日期选择器组件.  **（单选和范围选择、选择日期和时间、用键盘选择、可定制的样式、本地化）**
-- [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - 一个简单易用的 VueJS (2.x) 日期范围选择组件
+- [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 - [@vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker) - Vue 3 最完整的日期选择器解决方案
 - [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - datepicker / timepicker / datetimepicker / calendar 的 Vue 3.x 组件
 
@@ -2091,7 +2091,7 @@ _显示图像_
 - [vue-float-label](https://github.com/bkzl/vue-float-label) - Vue.js 的浮动标签模式.
 - [vue-longpress](https://github.com/javisperez/vuelongpress) - 一个 VueJS (2.x) 按钮组件，需要您按住以确认给定的操作.
 - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - Google Maps Places API 的 Vue.js (2.x) 自动建议组件.
-- [vue-default-value](https://github.com/termosa/vue-default-value) - Vue.js 2.x directive to set a default value for editable elements with no affect to the model state
+- [vue-default-value](https://github.com/termosa/vue-default-value) - Vue.js 2.x 指令为可编辑元素设置默认值，而不影响模型状态
 - [vue-model-autoset](https://github.com/outluch/vue-model-autoset) - 一个 Vue.js 插件，用于解决 Vue 在使用 v-model 指令观察动态添加的属性时的限制
 - [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - Ladda 的简单实现（[1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) 不到 90 行代码，没有依赖关系.
 - [vue-rate](https://github.com/SinanMtl/vue-rate) - Vue 的评分组件
@@ -2194,13 +2194,13 @@ _整体/主视图的布局_
 - [vue-ads-layout](https://github.com/arnedesmedt/vue-ads-layout)  - 一个小型 Vue 组件库，用于快速生成带有工具栏、左/右抽屉和页脚的响应式 Web 应用程序布局. 所有组件都可以固定或相对定位.
 - [vue-magic-grid](https://github.com/imlinus/Vue-Magic-Grid) - 用于 Vue.js 2 的 Magic Grid 的一个小端口.
 - [vue-splitter-pane](https://github.com/venkatperi/vue-splitter-pane) - 一个 Vuejs 组件，它以可调整的拆分排列（垂直或水平）呈现两个插槽.
-- [splitpanes](https://github.com/antoniandre/splitpanes) - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
+- [splitpanes](https://github.com/antoniandre/splitpanes) - 一个 Vue JS 可靠、简单且可触摸的窗格拆分器/大小调整器.
 - [vue-mock-layout](https://github.com/promosis/vue-mock-layout) - 轻松模拟 Vue 应用程序的布局.
 - [vue-simple-drawer](https://github.com/dreambo8563/vue-simple-drawer)  - 带有弹跳动画、支持嵌套和自定义主题的小抽屉面板. 方向：左/右/上/下
 - [vue-grd](https://github.com/1000ch/vue-grd) - 用于网格布局的简单、轻量级和灵活的 Vue.js 组件.
 - [vue-masonry-component](https://github.com/Guillaume69/vue-masonry-component) - 一个 Vue.js 组件包装砌体布局库.
 - [vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) - 智能小部件是 Vue.js 2.x 的灵活且可扩展的内容容器组件.
-- [vue-colrow](https://github.com/phphe/vue-colrow)  - 响应式网格布局组件：Row, Col. 基于 css flexbox. 支持 SSR，固定或分数宽度，自动增长 Col.
+- [vue-colrow](https://github.com/phphe/vue-colrow) - Responsive grid layout components: Row, Col. Based on css flexbox. Support SSR, fixed or fraction width, auto grow Col.
 - [vue-diagonal](https://github.com/albertodeago/vue-diagonal) - 用于创建对角线元素的简单轻量级组件.
 - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) - 使用 vue 和 typescript 制作的响应式、可拖动和可调整大小的仪表板（网格）.
 - [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) - 纯 vue 响应式砌体布局，无需直接 dom 操作，ssr 友好和延迟加载.
@@ -2303,7 +2303,7 @@ _没有布局系统的组件集_
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - 全功能 45+ Vue.js 组件，包括数据网格、图表、调度程序和图表组件等.
 - [Banshee](https://github.com/banshee-ui/banshee) - 一个基本无渲染的 Vue UI 组件和实用程序框架，不附带 CSS.
 - [vue-atlas](https://github.com/nvms/vue-atlas) - 漂亮的 Vue 组件库.
-- [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) - 65 多个响应式且功能齐全的 Vue UI 组件，具有可自定义的 Material Design 和 Bootstrap 兼容主题.
+- [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) - 65 多个响应式且功能齐全的 Vue UI 组件，具有可定制的 Material Design 和 Bootstrap 兼容主题.
 - [jqwidgets](https://www.jqwidgets.com/vue/) - 70 多个带有 Material Design 主题的 Vue.js 2.0 UI 组件.
 - [vue-uix](https://github.com/juijs/vue-uix) - 在 Vue.js 中实现网页的 UI 集合
 - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - Vue.js 的极简主义黑暗设计系统
@@ -2607,6 +2607,7 @@ _无缝滚动_
 - [vue-typical](https://github.com/Turkyden/vue-typical) Vue 动画输入约 400 字节的 JavaScript.
 - [vue3-lottie](https://github.com/megasanjay/vue3-lottie) Vue 3 中用于导入和显示 Lottie 动画的组件
 - [@morev/vue-transitions](https://github.com/morevm/vue-transitions) Vue 2 和 3 的过渡库，无需 CSS
+- [@formkit/auto-animate](https://github.com/formkit/auto-animate) 使用一行代码为您的应用程序添加动作
 
 #### Meta Tags
 
@@ -2713,7 +2714,7 @@ _与 UI 没有直接关系的实用程序_
 - [vuex-overlay-tools](https://github.com/Mirazex/vuex-overlay) - 一个用于监控 Vuex 商店的 Vue 3 插件（也支持时间旅行）
 - [vuse-rx](https://github.com/Raiondesu/vuse-rx) - 对 Vue 3 的完整一流的 rxjs 支持
 - [vue-props-validation](https://github.com/rubnvp/vue-props-validation) - 使用 Vue 原生语法为对象和数组中的嵌套验证提取 Vue 道具验证逻辑.
-- [vue-next-rx](https://github.com/NOPR9D/vue-next-rx)  - 为 Vue.js 完成 RxJS 集成.  （vue-rx的更新）
+- [vue-next-rx](https://github.com/NOPR9D/vue-next-rx)  - 为 Vue.js 完成 RxJS 集成.  (vue-rx的更新)
 - [fontawesome-autogen](https://github.com/GTANAdam/fontawesome-autogen) - 自动检测并导入 webapp 中使用的 fontawesome 图标.
 
 #### Typescript
@@ -3126,7 +3127,7 @@ _与服务或其他框架集成_
 - [vue-facebook-login-component](https://github.com/adi518/vue-facebook-login-component) - 用于集成 Facebook 登录的完全可定制的组件.
 - [vue-programmatic-invisible-google-recaptcha](https://github.com/promosis/vue-programmatic-invisible-google-recaptcha) - 一个简单的不可见的 Google reCAPTCHA 组件，仅专注于程序调用.
 - [vbuild](https://github.com/manatlan/vbuild)  - 它的主要目的是让您在您的 vuejs 应用程序中使用组件（.vue 文件），而无需完整的 nodejs 堆栈. 从 0.6 版本开始：您可以创建 [your component in pure python](https://github.com/manatlan/vbuild/blob/master/doc/PyComponent.md) !
-- [feathers-vuex](https://github.com/feathers-plus/feathers-vuex)  - 是 Feathers Client 和 Vuex 的一流集成. 它在后台实现了许多 Redux 最佳实践，消除了许多样板代码，并且仍然允许您轻松自定义 Vuex 商店.
+- [feathers-vuex](https://github.com/feathers-plus/feathers-vuex)  - 是 Feathers Client 和 Vuex 的一流集成. 它在底层实现了许多 Redux 最佳实践，消除了许多样板代码，并且仍然允许您轻松自定义 Vuex 商店.
 - [vue-nocaptcha](https://github.com/chiaweilee/vue-nocaptcha) - Vue.js 的阿里云 noCAPTCHA 组件
 - [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) - Ionic v4 的 Vue.js 集成
 - [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) - 0xcert 框架的 Vue.js 集成 - 一个开源库，提供用于构建强大的去中心化应用程序的工具
@@ -3324,7 +3325,7 @@ _脚手架/样板/种子/入门套件/堆栈合奏/约曼发电机_
 - [Mevn-CLI](https://github.com/madlabsinc/mevn-cli) - 基于 MEVN 堆栈的应用程序的光速设置.
 - [vue-cli-template-registry](https://github.com/eliranmal/vue-cli-template-registry) - 用于安装托管在私有/企业存储库上的 vue-cli 自定义模板的解决方案.
 - [Vuejs Firebase CRUD Starter with Auth](https://github.com/Timtech4u/vuejs-firebase-cruder)
-- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - 使用 Vue CLI 3 为新的 Vue SPA 项目提供不断发展、非常固执己见的架构和开发环境.
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - 使用 Vue CLI 3 为新的 Vue SPA 项目提供不断发展的、非常固执己见的架构和开发环境.
 - [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/)  - 为 VueJS 搜索可用的脚手架项目和入门工具包. 功能搜索和 github 统计信息可用.
 - [janak](https://github.com/vinayakkulkarni/janak) - 轻而易举地构建您的 Vue 3 应用程序
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 下一个 Vue 可组合的极简主义起点.
@@ -3351,7 +3352,7 @@ _仅在浏览器中渲染 Vue 应用程序_
 - [vue-webpack-chrome-extension-template](https://github.com/ALiangLiang/vue-webpack-chrome-extension-template) - 开发时在 Vuejs 热重载上快速创建 Chrome 扩展的模板.
 - [**vue-auth-boilerplate**](https://github.com/VPetar/vue-auth-boilerplate)  - 带有路由器/Vuex/CLI3 和身份验证功能的 Vue SPA 样板（看起来很酷的注册和登录）. 开箱即用的最小设置 [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 - [**vue-atomic-design**](https://github.com/alexander-elgin/vue-atomic-design) - 基于原子设计方法的 Vue 前端样板.
-- [vue3-compact-template](https://github.com/upupming/vue3-compact-template) - ⚡️ 一个简单紧凑的 vue 3 模板，采用当前最前沿的前端技术.
+- [vue3-compact-template](https://github.com/upupming/vue3-compact-template) - ⚡️ 一个简单紧凑的 vue 3 模板，采用当前最先进的前端技术.
 
 #### Universal
 
@@ -3395,7 +3396,7 @@ _应用程序的脚手架部分_
 - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - vue 组件生成器，支持 Vue1.X 和 Vue2.X.
 - [rapydml_cmp](https://github.com/valq7711/rapydml_cmp) - Vue 组件 pythonic 生成器，建立在 RapydML 和 RapydScript 之上.
 - [vue-authoring-template](https://github.com/DrSensor/vue-authoring-template) - 用于创作的模板还以简单的方式以故事场景（故事书）格式发布 Vue 组件及其用例.
-- [vue-component-boilerplate](https://github.com/codetheorist/vue-component-boilerplate) - 用于为 VueJS 组件生成样板代码的模板，预装了构建脚本和测试.
+- [vue-component-boilerplate](https://github.com/codetheorist/vue-component-boilerplate) - 用于为 VueJS 组件生成样板代码的模板，并预装了构建脚本和测试.
 - [vue-generate-component-typescript](https://github.com/Kamar-Meddah/vue-generate-component-typescript) - vue 的打字稿代码生成器，它可以生成组件、指令、过滤器.
 - [vuejs-generate](https://github.com/tomosterlund/generate-vue-component) - 用于生成 Vue 组件、存储、存储模块和单元测试的简单 CLI.
 - [vue-sh-cli](https://github.com/ddosdor/vue-sh-cli)  - 用于生成 Vue 组件、视图、存储模块和单元测试的 CLI. 支持 Vue 3 组件模板和 Typescript.

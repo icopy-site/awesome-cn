@@ -365,7 +365,6 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 - [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
 - [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
-- [Deno Land Indonesia website](https://denoland.id/)
 - [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
 ### Italian

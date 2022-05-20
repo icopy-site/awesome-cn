@@ -90,6 +90,7 @@
 #### Entry Point
 - [learn](https://learn.adacore.com/) - 交互式学习平台，旨在教授 Ada 和 SPARK 编程语言.
 - [programming-with-ada](https://pyjarrett.github.io/programming-with-ada/) - 学习 Ada 2012 的轶事和总结.
+- [celebrating-ada](https://www.celebratingada.com/) - 艾达历史关键时刻.
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore 大学视频教程.
@@ -98,7 +99,7 @@
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) - 在 SPARK 中收集经过验证的函数和数据类型.
 
 #### Online books
-- [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks 上的 Ada 编程书.
+- [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks 上有一本编程书籍.
 - [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - Ada 为 Ada 2005 蒸馏.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95：面向对象编程的工艺.
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - C++ 或 Java 开发人员的 Ada.
@@ -181,7 +182,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -203,13 +204,13 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Visual Studio 2017 的 Ada 语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时允许访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
+- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时支持访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源的 Gnu Emacs 主要模式.
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - 维护 Ada Bundle：Vim/NeoVim 的完整 Ada 模式.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - 对 Ada 的 TextMate 支持.
-- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
+- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - 对 Ada 的 BBEdit 支持.
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - org-babel 的 Ada/SPARK 支持：使用 Gnu Emacs 和 org 文件评估源代码块.
 
 #### VSCode Extensions
@@ -265,10 +266,10 @@
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
 - [pasta](http://pasta.phyrama.com/)  - 意大利面！ 是“三消”类型的游戏，在 [gnoga] 中实现.
 - [buttons](https://github.com/andreacervetti/buttons) - 一个简单的 [gtkada] Button Mania 游戏.
-- [mine-detector](https://github.com/jrcarter/Mine_Detector) - 地雷探测器：一款无需猜测的探雷游戏.
+- [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 玩 2048！ 是流行的 2048 游戏的克隆，在 Ada 中实现，使用 [asfml] 用于图形和 [ada-toml] 用于保存状态.
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果游戏应用程序
- - [civ-klon] - 文明风格的回合制策略游戏. 需要 [asfml].
+- [civ-klon] - Civilization-style turn-based strategy game. Requires [asfml].
 
 [文明克隆]：https://github.com/HonkiTonk/Civ-Klon
 
@@ -319,7 +320,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS 是在 Ada 中开发基于 Web 的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的可立即使用和可扩展的模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
+- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的即用型和可扩展模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 学说模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
@@ -436,7 +437,7 @@
 [zip-adapt]：https://github.com/zertovitch/zip-ada
 
 #### Patterns
-- [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
+- [ada-promises](https://github.com/briot/Ada-promises)  - 在 Ada 中实现承诺. 类型安全、高效、线程安全.
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - 作业的任务池系统.
 - [rxada](https://github.com/mosteo/rxada) - Rx 方法的 Ada 2012 实施.
 
@@ -474,7 +475,7 @@
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 编解码器，例如 Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - Ada 中 Axon 的 ABF 文件格式（电生理学，最常见）的访问例程库.
-- [ada-toml] - 存在的 TOML 解析器.
+- [there-toml] - 现有的 TOML 解析器.
 
 [protobuf]：https://github.com/reznikmm/protobuf
 [ada-toml]：https://github.com/pmderodat/ada-toml
@@ -575,7 +576,7 @@
 - [em-brick](https://github.com/it-cosmos/emBRICK) - emBRICK 驱动程序和对 Ada 中 emBRICK 的支持.
 - [dw1000](https://github.com/damaki/DW1000) - 适用于 DecaWave DW1000 超宽带 (UWB) 无线电芯片的 Ada/SPARK 驱动程序.
 - [evb1000](https://github.com/damaki/EVB1000) - 用于控制 DecaWave EVB1000 评估板的板载外设的 Ada/SPARK 驱动程序.
-- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - 这包含为 AdaPilot 实现 AdaRacer MCU 驱动程序的探索，使用来自 AdaCore 的 Ada 2012 的 Ravenscar 配置文件和使用 SVD2Ada 生成的设备绑定.
+- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - 这包含探索，对于 AdaPilot，实现 AdaRacer MCU 的驱动程序，使用来自 AdaCore 的 Ada 2012 的 Ravenscar 配置文件和使用 SVD2Ada 生成的设备绑定.
 
 #### Controllers
 - [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - 用于电磁发动机的软件控制器 (Ada/STM32F4).
