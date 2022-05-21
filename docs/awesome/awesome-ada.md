@@ -204,7 +204,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Visual Studio 2017 的 Ada 语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时支持访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
+- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时允许访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源的 Gnu Emacs 主要模式.
@@ -243,7 +243,7 @@
 [ada-runtime]：https://github.com/Componolit/ada-runtime
 
 ## OS and Kernels
-- [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
+- [m2os](https://m2os.unican.es/) - 具有对小型微控制器的简单任务支持的 RTOS.
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是一个适用于嵌入式应用程序的硬实时操作系统，它遵循 Minimal Real-Time POSIX.13 子集. 它为开发多线程实时应用程序提供了一个易于使用和受控的环境.
 - [muen](https://muen.codelabs.ch/) - 用于高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
@@ -266,10 +266,10 @@
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
 - [pasta](http://pasta.phyrama.com/)  - 意大利面！ 是“三消”类型的游戏，在 [gnoga] 中实现.
 - [buttons](https://github.com/andreacervetti/buttons) - 一个简单的 [gtkada] Button Mania 游戏.
-- [mine-detector](https://github.com/jrcarter/Mine_Detector) - Mine Detector: a mine-finding game that never requires guessing.
+- [mine-detector](https://github.com/jrcarter/Mine_Detector) - 地雷探测器：一款无需猜测的探雷游戏.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 玩 2048！ 是流行的 2048 游戏的克隆，在 Ada 中实现，使用 [asfml] 用于图形和 [ada-toml] 用于保存状态.
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果游戏应用程序
-- [civ-klon] - Civilization-style turn-based strategy game. Requires [asfml].
+ - [civ-klon] - 文明风格的回合制策略游戏. 需要 [asfml].
 
 [文明克隆]：https://github.com/HonkiTonk/Civ-Klon
 
@@ -306,6 +306,7 @@
 
 - [curses](https://github.com/annexi-strayline/Curses) - 高级 UNIX 终端 UI Ada 绑定包.
 - [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - 用于 ncurses 的 Ada95 绑定.
+- [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - 绑定到 Linenoise 行编辑库（已修补以支持 UTF-8）
 
 #### 3D
 - [globe-3d](https://github.com/zertovitch/globe-3d) - 基于 GL 对象的 3D 引擎.
@@ -320,7 +321,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS 是在 Ada 中开发基于 Web 的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的即用型和可扩展模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
+- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的可立即使用和可扩展的模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 学说模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
@@ -338,7 +339,7 @@
 语言. 它在 JUnit 和 AUnit 的一些想法之后松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
-- [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.
+- [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog 是 Ada 的可堆叠日志框架.
@@ -420,7 +421,7 @@
 - [sip-hash](https://github.com/grim7reaper/SipHash) - SipHash PRF 的纯 Ada 实现.
 - [libkeccak](https://github.com/damaki/libkeccak) - Keccak 系列海绵函数和相关结构的 SPARK 实现.
 - [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - 带有附加数据算法的 Ascon 认证加密的 Ada/SPARK 实现.
-- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - Ada/SPARK implementation of the SipHash keyed hash function.
+- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - SipHash 键控散列函数的 Ada/SPARK 实现.
 - [spark-norx](https://github.com/jhumphry/SPARK_NORX) - 带有附加数据算法的 NORX 认证加密的 Ada/SPARK 实现.
 - [spark-nacl](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 重新实现了 TweetNaCl 加密库.
 - [stotp](https://github.com/jklmnn/STOTP) - SPARK 中的定时一次性填充 (RFC 6238) 实施.
@@ -446,7 +447,7 @@
 - [radalib](https://github.com/sergio-gomez/Radalib) - 用于分析复杂网络等的 Ada 库和工具.
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它旨在作为集成到其他工具（IDE、静态分析器等）的构建块.
+- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它是作为集成到其他工具（IDE、静态分析器等）的构建块.
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 扫描仪和解析器生成器.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken 是一个 LALR、LR1 和 Packrat 解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - Ada 代码分析器.
@@ -475,7 +476,8 @@
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 编解码器，例如 Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - Ada 中 Axon 的 ABF 文件格式（电生理学，最常见）的访问例程库.
-- [there-toml] - 现有的 TOML 解析器.
+- [ada-toml] - 存在的 TOML 解析器.
+- [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI 和 MIME 解析器和操作库.
 
 [protobuf]：https://github.com/reznikmm/protobuf
 [ada-toml]：https://github.com/pmderodat/ada-toml
@@ -485,9 +487,10 @@
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP 是 Ada 中 DHCP 协议的实现.
 - [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 套接字库（TCP、UDP 和多播）.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - D_Bus/Ada 库提供了与 D-Bus 消息总线系统的 Ada 绑定.
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - 绑定到 ZeroMQ 通信库.
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - 各种客户端/服务器和发布/订阅消息协议（AMQP、STOMP 和 ZeroMQ）的包装器，专注于文本消息通信.
 - [mosquitto-ada](https://github.com/persan/mosquitto-ada) - MQTT 代理 Mosquitto 的绑定.
+- [tlsada](https://git.sr.ht/~nytpu/tlsada) - 绑定到 libtls TLS/SSL 库.
 
 #### Chatting and Communication
 - [axmpp](https://github.com/coopht/axmpp) - 使用 AXMPP 库，您可以连接到 Jabber 服务器以发送和接收消息.
@@ -544,6 +547,7 @@
 - [ada-bundler](https://github.com/flyx/ada-bundler)  - 用于在 Ada 应用程序中透明地处理数据和配置文件访问的库和工具. 支持 MacOSX、Linux 和 Windows.
 - [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - 提供 GCC &#39;specs&#39; 文件以应对 SDK 策略更改.    
 - [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode 扩展字符串.
+- [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - 在 Ada 中 getopt(3) 的可移植实现.
 
 #### Robotics
 - [rclada](https://github.com/ada-ros/rclada) - 用于 ROS2/RCL 的 Ada 客户端库.
@@ -559,7 +563,7 @@
 #### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
 - [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Microsft NetFramework Api 的 Ada 绑定.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada 绑定到 Microsoft NetFramework Api.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 
@@ -576,7 +580,7 @@
 - [em-brick](https://github.com/it-cosmos/emBRICK) - emBRICK 驱动程序和对 Ada 中 emBRICK 的支持.
 - [dw1000](https://github.com/damaki/DW1000) - 适用于 DecaWave DW1000 超宽带 (UWB) 无线电芯片的 Ada/SPARK 驱动程序.
 - [evb1000](https://github.com/damaki/EVB1000) - 用于控制 DecaWave EVB1000 评估板的板载外设的 Ada/SPARK 驱动程序.
-- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - 这包含探索，对于 AdaPilot，实现 AdaRacer MCU 的驱动程序，使用来自 AdaCore 的 Ada 2012 的 Ravenscar 配置文件和使用 SVD2Ada 生成的设备绑定.
+- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - 这包含为 AdaPilot 实现 AdaRacer MCU 驱动程序的探索，使用来自 AdaCore 的 Ada 2012 的 Ravenscar 配置文件和使用 SVD2Ada 生成的设备绑定.
 
 #### Controllers
 - [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - 用于电磁发动机的软件控制器 (Ada/STM32F4).
@@ -601,7 +605,7 @@
 - [etherscope](https://github.com/stcarrez/etherscope) - STM32F746 板上的以太网流量监控器.
 
 #### Bindings
-- [svd2ada](https://github.com/AdaCore/svd2ada) - 来自 SVD 描述的 Ada 绑定生成器，用于裸板 ARM 设备.
+- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Pebble Time 智能手表的 Ada 绑定.
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - 用于 WiringPi 的 Ada 绑定.
 

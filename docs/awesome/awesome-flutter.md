@@ -24,17 +24,17 @@
 </a>
 
 
-
 #### Demonstrations
 <div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
-    <img src="https://user-images.githubusercontent.com/1295961/158429732-0a5dc21e-d051-4c8a-8eea-e58734f9cfd7.gif" width="180"/>
+  <td style="text-align: center, width: 180">
     
-    立即 
-    聊天整合
-    与流！
-  </a>
+<a href="https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome">
+    <img alt="Stream" src="https://raw.githubusercontent.com/Solido/awesome-flutter/master/./.github/stream-animation.gif" /> 
+    </a>
+    
+[Instant Chat Integration with Stream!](https://getstream.io/chat/sdk/flutter/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Mar2022_FlutterChatSDK&utm_term=Awesome)
+    
+
   </td>
    <td style="text-align: center">
     <img width="180" alt="BMW" src="https://user-images.githubusercontent.com/1295961/160239273-ce881c0c-c3de-4953-9448-dfd12d7ffe30.png">
@@ -457,7 +457,7 @@
 ### Storage
 
 - [Sqflite](https://github.com/tekartik/sqflite) [2289⭐] - SQLite 颤振插件 [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
-- [Moor](https://github.com/simolus3/moor) - Moor 是由 [.
+- [Moor](https://github.com/simolus3/moor) - Moor 是 [.
 西蒙·宾德](https://github.com/simolus3)
 
 ### Services
@@ -475,7 +475,7 @@
 
 #### Standard
 
-- [Bloc](https://github.com/felangel/bloc) [8181⭐] - 帮助实现 BLoC 设计模式的软件包集合 [Felix Angelov](https://github.com/felangel).
+- [Bloc](https://github.com/felangel/bloc) [8181⭐] - 帮助实现 BLoC 设计模式的包集合 [Felix Angelov](https://github.com/felangel).
 - [MobX](https://github.com/mobxjs/mobx.dart)  [2037⭐] - 使用透明功能响应式编程 (TFRP) 增强应用程序中的状态管理. 来自 Js/React 领域的 MobX 端口.
 - [Provider](https://github.com/rrousselGit/provider) [3974⭐] - Flutter 的状态管理库 [Remi Rousselet](https://github.com/rrousselGit).
 - [RiverPod](https://github.com/rrousselGit/river_pod) [2214⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
@@ -519,7 +519,7 @@
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) [384⭐] - 根据 SVG 路径数据创建画线动画 [Carl Hauck](https://twitter.com/cahaucks).
 - [Simple Animations](https://github.com/felixblaschke/simple_animations) - 通过以下方式轻松创建真棒自定义动画 [Felix Blaschke](https://github.com/felixblaschke).
 - [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) [264⭐] - 轻松构建动画集 [efoxTeam](https://github.com/efoxTeam).
-- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [977⭐] - 轻松将交错动画添加到您的 ListView、GridView、Column 和 Row by [mobiten](https://mobiten.com/).
+- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [977⭐] - 轻松添加交错动画到您的 ListView、GridView、Column 和 Row by [mobiten](https://mobiten.com/).
 - [Animate Do](https://pub.dev/packages/animate_do) - 受 Animate.css 启发的动画包 [Fernando Herrera](https://twitter.com/Fernando_Her85).
 - [Funvas](https://github.com/creativecreatorormaybenot/funvas) [361⭐] - 创建有趣的*基于时间的画布动画* [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
@@ -552,7 +552,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Open source games
 
-- [Flip](https://github.com/RedBrogdon/flutterflip) [201⭐] - 黑白棋游戏由 [Andrew Brogdon](https://github.com/RedBrogdon).
+- [Flip](https://github.com/RedBrogdon/flutterflip) [201⭐] - 返回的游戏 [Andrew Brogdon](https://github.com/RedBrogdon).
 - [2048](https://github.com/anuranBarman/2048) [205⭐] - 2048 游戏 [Anuran Barman](https://github.com/anuranBarman).
 - [TRex](https://github.com/renancaraujo/trex-flame) [316⭐] - 著名的 Chrome 的 Trex 游戏的端口 [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crush](https://github.com/boeledi/flutter_crush) [409⭐] - 如何构建一个 Math-3 游戏，如 Candy Crush，宝石迷阵 [Didier Boelens](https://didierboelens.com).

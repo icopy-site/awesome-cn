@@ -74,7 +74,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): 从 Mapbox 矢量瓦片中提取 GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组geojson特征生成一个静态rtree（使用terraformer）
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): 将任何东西转换成任何东西
-  * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
+  * [fiona](https://github.com/toblerity/fiona): 在 ogr 之上的漂亮的 python 界面
 * [shp2json](https://github.com/substack/shp2json): 将 shapefile zip 存档转换为流式 GeoJSON
 * [togeojson](https://github.com/tmcw/togeojson): 将 GPX &amp; KML 转换为 geojson
 * [tokml](https://github.com/mapbox/tokml): 将 GeoJSON 转换为 KML
@@ -121,6 +121,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): 通过openstreetmap id获取geojson文件
 * [country-levels](https://github.com/hyperknot/country-levels-export) 完整的地球 GeoJSON 提取，基于 ISO 和 FIPS 代码.
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps)：收集世界国家和文化区域的地理参考边界，用于在世界范围内绘制历史数据.
+* [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): 以 GeoJSON 和其他文件格式生成任何海陆边界或 [download directly from the web](https://99boundaries.com)
 
 ### serialization
 
@@ -129,7 +130,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [rust-geojson](https://github.com/georust/rust-geojson): 将 geojson 序列化到/从 rust 数据类型
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson): 将 GeoJSON 与 Java 数据类型进行序列化（基于 [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java](https://github.com/mapbox/mapbox-java): 将 GeoJSON 与 Java 数据类型进行序列化（基于 [Gson](https://github.com/google/gson))
-* [geojson-serializer](https://github.com/ancore/geojson-serializer): 将带有注解的 Java 序列化为 GeoJSON
+* [geojson-serializer](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
 
 ### resources
 

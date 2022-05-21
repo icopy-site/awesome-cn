@@ -73,7 +73,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Notion
 
-适合团队和个人的多合一工作区.
+团队和个人的多合一工作区.
 
 ![Notion](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-notion.gif)
 
@@ -110,7 +110,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Figma
 
-更好的设计方式. 使用 Figma 在浏览器中进行设计、原型制作和协作.
+更好的设计方式. 使用 Figma 在浏览器中进行设计、原型设计和协作.
 
 ![Figma](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-figma.gif)
 
@@ -118,7 +118,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 |-----------|--------------------------------------|
  | 开发商 | [Figma](https://www.figma.com/blog/) |
  | 成本 | 免费增值（_$0-45/月_）|
- | 平台 |  macOS、Windows、网络 |
+| Platform  | macOS, Windows, web                  |
  | 网址 |  https://www.figma.com |
 
 ### Taskade
@@ -136,7 +136,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Notejoy
 
-A collaborative note-taking application that is simple, intuitive and allows you to focus on the notes rather than the process around those.
+一个简单、直观的协作式笔记应用程序，让您可以专注于笔记而不是围绕这些笔记的过程.
 
  | 物业 | 价值 |
 |-----------|--------------------------------------------------------------------|
@@ -171,12 +171,27 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
  | 平台 | 网站 |
  | 网址 |  https://logchimp.codecarrot.net |
 
+
+### Hellonext
+
+ Hellonext 帮助您关闭用户反馈循环. 附带反馈门户、路线图和变更日志.
+
+![hellonext](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/hellonext.png)
+
+ | 物业 | 价值 |
+|-----------|--------------------------------------------------------------------|
+ | 开发商 | [Hellonext, Inc.](https://hellonext.co)                            |
+ | 成本 | 付费（19 美元/月）|
+ | 平台 | 网站 |
+ | 网址 |  https://hellonext.co |
+
 ## Articles
 
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - 经过 [Wayne Chang](https://twitter.com/Wayne).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - 经过 [Wayne Chang](https://twitter.com/Wayne).
 - [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - 经过 [Jason Fried](https://twitter.com/jasonfried).
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) - 经过 [Ben Horowitz](https://twitter.com/bhorowitz).
+- [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - 通过 Hellonext, Inc.
 - [Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html) - 经过 [Marc Andresssen](https://twitter.com/pmarca).
 - [Guide to Personal Productivity](https://pmarchive.com/guide_to_personal_productivity.html) - 经过 [Marc Andresssen](https://twitter.com/pmarca).
 - [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - 经过 [Steven Sinofsky](https://twitter.com/stevesi).
@@ -236,7 +251,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654) - 唐诺曼.
 - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509) - 金斯科特.
 - [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - Jake Knapp、John Zeratsky、Braden Kowitz.
-- [Creative Selection](http://creativeselection.io/) - 肯科辛达.
+- [Creative Selection](http://creativeselection.io/) - 肯烹饪.
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) - 马蒂·卡根.
 - [The Customer-Driven Playbook](https://www.oreilly.com/library/view/the-customer-driven-playbook/9781491981269/) - 杰西卡·里奇和特拉维斯·洛德米尔克.
 - [Escaping The Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/) - 梅丽莎佩里.
@@ -247,6 +262,10 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [Shape Up](https://basecamp.com/shapeup/webbook) - 瑞恩辛格.
 - [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) ——约书亚·赛登.
 - [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - 道格拉斯·斯通.
+- [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) ——理查德·鲁梅尔特.
+- [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - 杰弗里 A. 摩尔.
+- [EMPOWERED: Ordinary People, Extraordinary Products](https://www.barnesandnoble.com/w/empowered-marty-cagan/1137059391?ean=9781119691297) - 马蒂·卡根，克里斯·琼斯.
+- [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) ——查尔斯·杜希格.
 
 ## Podcasts
 
@@ -271,7 +290,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品是困难的. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品是困难的. 在 INDUSTRY，您将看到其他人如何在不同的环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自谷歌、Slack、亚马逊、Airbnb、Netflix、Facebook 等的产品领导者. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司进行互动.
 
 ## Additional resources
