@@ -211,6 +211,7 @@
 * [PDFBlade](https://pdfblade.com/) - 基于 HTML 到 PDF API 使用的定价.
 * [Carbone](https://carbone.io/) - JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 * [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
+* [DocRaptor[(https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF 库.
 
 ## Scraping
 *不通过预期的 API 从网站获取数据.*

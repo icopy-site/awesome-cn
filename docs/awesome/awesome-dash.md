@@ -17,7 +17,8 @@
 - [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
 - [Plotly's tutorials - Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
 - [Plotly's tutorials - Part 4: Callbacks With State](https://plot.ly/dash/state)
-- [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - MVC 模型与 Dash 的关系以及构建应用程序的演练.
+- [Charming Data YouTube channel](https://www.youtube.com/charmingdata) - 一个专门教授 Dash 和 Plotly 的频道，拥有超过 25,000 名订阅者.
+- [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 - [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb) - 逐步构建复杂的仪表板.
 - [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - 如何将 Jupyter 笔记本与 Dash 结合使用来创建映射即.
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - 如何开始使用 Dash 的高级概述.
@@ -33,7 +34,7 @@
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-- [Dash Bio Components](https://dash.plot.ly/dash-bio) - 一套生物信息学组件，可以更简单地分析和可视化生物信息学数据，并在 Dash 应用程序中与它们进行交互.
+- [Dash Bio Components](https://dash.plot.ly/dash-bio) - 生物信息学组件套件，可以更轻松地分析和可视化生物信息学数据并在 Dash 应用程序中与它们交互.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) - 使用 Dash 进行图像注释和图像处理的模块.
 - [Awesome React Components](https://github.com/brillout/awesome-react-components) - React.js 组件的目录可能会被包装到 Dash 组件中.
 - [Awesome React](https://github.com/enaqx/awesome-react) - 用于开发 React.js 组件的有用资源.
@@ -59,7 +60,7 @@
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - 随着时间的推移和链接的可视化探索石油和天然气生产. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
 - [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - 显示 2014 年纽约市的所有 Uber 行程.后端的 Pandas 过滤一个 0.5gig 的数据文件. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
 - [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - 从谷歌财经查询数据并将结果显示为烛台图. [Source Code.](https://github.com/plotly/dash-stock-tickers-demo-app)
-- [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - Fetches CBOE options chain data from Yahoo Finance with Pandas Datareader and calculates the implied volatility of each option visualised in a 3D mesh chart. [Source Code.](https://github.com/plotly/dash-volatility-surface)
+- [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - 使用 Pandas Datareader 从 Yahoo Finance 获取 CBOE 期权链数据，并计算在 3D 网格图中可视化的每个期权的隐含波动率. [Source Code.](https://github.com/plotly/dash-volatility-surface)
 - [Drug Discovery](https://plot.ly/dash/gallery/drug-explorer/) - 当您将鼠标悬停在图表中的点上时显示药物描述. [Source Code.](https://github.com/plotly/dash-drug-discovery-demo/)
 - [Live Wind Streaming](https://plot.ly/dash/gallery/live-wind-data/) - 持续查询 SQL 数据库并显示风速和风向的实时图表. [Source Code.](https://github.com/plotly/dash-wind-streaming)
 - [Recession in 255 Charts](https://plot.ly/dash/gallery/recession-report/) - 改编自纽约时报的优秀 [How the Recession Reshaped the Economy in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html). [Source Code.](https://github.com/plotly/dash-recession-report-demo)

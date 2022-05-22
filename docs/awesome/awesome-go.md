@@ -245,12 +245,13 @@ _用于构建标准或基本命令行应用程序的库._
 - [argv](https://github.com/cosiner/argv) - 使用 bash 语法转到库以将命令行字符串拆分为参数数组.
 - [carapace](https://github.com/rsteube/carapace) - spf13/cobra 的命令参数完成生成器.
 - [carapace-bin](https://github.com/rsteube/carapace-bin) - 多壳多命令参数完成器.
+- [carapace-spec](https://github.com/rsteube/carapace-spec) - 使用规范文件定义简单的完成.
 - [cli](https://github.com/mkideal/cli) - 基于 golang struct 标签的功能丰富且易于使用的命令行包.
 - [cli](https://github.com/teris-io/cli) - 用于在 Go 中构建命令行界面的简单而完整的 API.
 - [climax](https://github.com/tucnak/climax) - 具有“人脸”的替代 CLI，本着 Go 命令的精神.
 - [clîr](https://github.com/leaanthony/clir)  - 一个简单明了的 CLI 库. 无依赖.
 - [cmd](https://github.com/posener/cmd) - 扩展标准的 `flag` 包以支持子命令和更多的惯用方式.
-- [cmdr](https://github.com/hedzr/cmdr) - A POSIX/GNU style, getopt-like command-line UI Go library.
+- [cmdr](https://github.com/hedzr/cmdr) - 一个 POSIX/GNU 风格、类似 getopt 的命令行 UI Go 库.
 - [cobra](https://github.com/spf13/cobra) - 现代 Go CLI 交互的指挥官.
 - [command-chain](https://github.com/rainu/go-command-chain) - 用于配置和运行命令链的 go 库 - 例如 unix shell 中的流水线.
 - [commandeer](https://github.com/jaffee/commandeer) - 对开发人员友好的 CLI 应用程序：根据结构字段和标签设置标志、默认值和用法.
@@ -264,7 +265,7 @@ _用于构建标准或基本命令行应用程序的库._
 - [go-andotp](https://github.com/grijul/go-andotp) - 用于加密/解密的 CLI 程序 [andOTP](https://github.com/andOTP/andOTP) 文件. 也可以用作图书馆.
 - [go-arg](https://github.com/alexflint/go-arg) - Go 中基于结构的参数解析.
 - [go-commander](https://github.com/yitsushi/go-commander) - Go 库以简化 CLI 工作流程.
-- [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser.
+- [go-flags](https://github.com/jessevdk/go-flags) - 去命令行选项解析器.
 - [go-getoptions](https://github.com/DavidGamba/go-getoptions) - Go 选项解析器的灵感来自 Perl 的 GetOpt::Long 的灵活性.
 - [gocmd](https://github.com/devfacet/gocmd) - 用于构建命令行应用程序的 Go 库.
 - [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - 具有自动配置和依赖注入的 cli 应用程序框架.
@@ -356,7 +357,7 @@ _帮助持续集成的工具._
 - [gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt) - 去测试人类的输出.
 - [goveralls](https://github.com/mattn/goveralls) - Coveralls.io 连续代码覆盖跟踪系统的 Go 集成.
 - [overalls](https://github.com/go-playground/overalls) - Multi-Package go 项目封面配置文件，用于 gooveralls 等工具.
-- [roveralls](https://github.com/LawrenceWoodman/roveralls) - 递归覆盖测试工具.
+- [roveralls](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
 
 
 ## CSS Preprocessors
@@ -671,7 +672,7 @@ _用于构建和使用 SQL 的库._
 - [neo4j](https://github.com/cihangir/neo4j) - Golang 的 Neo4j Rest API 绑定.
 - [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) - Golang 中的 Neo4j REST 客户端.
 - [neoism](https://github.com/jmcvetta/neoism) - Golang 的 Neo4j 客户端.
-- [qmgo](https://github.com/qiniu/qmgo)  - Go 的 MongoDB 驱动程序. 它基于官方的 MongoDB 驱动程序，但像 Mgo 一样更易于使用.
+- [qmgo](https://github.com/qiniu/qmgo) - The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo.
 - [redeo](https://github.com/bsm/redeo) - Redis 协议兼容的 TCP 服务器/服务.
 - [redigo](https://github.com/gomodule/redigo) - Redigo 是 Redis 数据库的 Go 客户端.
 - [redis](https://github.com/go-redis/redis) - Golang 的 Redis 客户端.
@@ -933,6 +934,7 @@ _支持 Go 函数式编程的包._
 - [go-underscore](https://github.com/tobyhede/go-underscore) - 有用的 Go 收集实用程序的有用集合.
 - [gofp](https://github.com/rbrahul/gofp) - 一个类似于 lodash 的强大的 Golang 实用程序库.
 - [underscore](https://github.com/rjNemo/underscore) - Go 1.18 及更高版本的函数式编程助手.
+- [valor](https://github.com/phelmkamp/valor) - 可选包含值的通用选项和结果类型.
 
 
 ## Game Development
@@ -2061,7 +2063,7 @@ _用于测试代码库和生成测试数据的库._
   - [chromedp](https://github.com/knq/chromedp) - 一种驱动/测试 Chrome、Safari、Edge、Android Webview 和其他支持 Chrome 调试协议的浏览器的方法.
   - [ggr](https://github.com/aerokube/ggr) - 一个轻量级服务器，将 Selenium WebDriver 请求路由和代理到多个 Selenium 集线器.
   - [playwright-go](https://github.com/mxschmitt/playwright-go) - 浏览器自动化库，通过单一 API 控制 Chromium、Firefox 和 WebKit.
-  - [rod](https://github.com/go-rod/rod) - 一个 Devtools 驱动程序，使 Web 自动化和抓取变得容易.
+  - [rod](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
   - [selenoid](https://github.com/aerokube/selenoid) - 在容器中启动浏览器的替代 Selenium 集线器服务器.
 
 - 注入失败
@@ -2484,7 +2486,7 @@ _用于版本控制的库._
 _用于处理视频的库._
 
 - [gmf](https://github.com/3d0c/gmf) - FFmpeg av\* 库的 Go 绑定.
-- [go-astisub](https://github.com/asticode/go-astisub) - 在 GO 中操作字幕（.srt、.stl、.ttml、.webvtt、.ssa/.ass、图文电视、.smi 等）.
+- [go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 - [go-astits](https://github.com/asticode/go-astits) - 在 GO 中本地解析和解复用 MPEG 传输流 (.ts).
 - [go-m3u8](https://github.com/quangngotan95/go-m3u8) - Apple m3u8 播放列表的解析器和生成器库.
 - [go-mpd](https://github.com/unki2aut/go-mpd) - MPEG-DASH 清单文件的解析器和生成器库.
@@ -2666,7 +2668,7 @@ _源代码分析工具，也称为静态应用程序安全测试（SAST）工具
 - [gcvis](https://github.com/davecheney/gcvis) - 实时可视化 Go 程序 GC 跟踪数据.
 - [go-checkstyle](https://github.com/qiniu/checkstyle)  - checkstyle 是一个类似于 java checkstyle 的样式检查工具. 这个工具的灵感来自于 java checkstyle, golint. 该风格引用了 Go Code Review Comments 中的一些观点.
 - [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - 创建 go-cleanarch 是为了验证 Clean Architecture 规则，例如 Go 项目中的依赖规则和包之间的交互.
-- [go-critic](https://github.com/go-critic/go-critic) - source code linter that brings checks that are currently not implemented in other linters.
+- [go-critic](https://github.com/go-critic/go-critic) - 源代码 linter，它带来了当前未在其他 linter 中实现的检查.
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - 一种查找 Go 项目过时依赖项的简单方法.
 - [go-outdated](https://github.com/firstrow/go-outdated) - 显示过时软件包的控制台应用程序.
 - [goast-viewer](https://github.com/yuroyoro/goast-viewer) - 基于 Web 的 Golang AST 可视化工具.
@@ -2860,7 +2862,7 @@ _用 Go 编写的软件._
 - [GoDocTooltip](https://github.com/diankong/GoDocTooltip) - Go Doc 站点的 Chrome 扩展，在功能列表中将功能描述显示为工具提示.
 - [Gokapi](https://github.com/Forceu/gokapi)  - 用于共享文件的轻量级服务器，这些文件会在一定的下载量或数天后过期. 类似于 Firefox Send，但没有公开上传.
 - [GoLand](https://jetbrains.com/go) - 全功能的跨平台 Go IDE.
-- [Gor](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
+- [Gor](https://github.com/buger/gor) - Http 流量复制工具，用于实时回放从生产环境到阶段/开发环境的流量.
 - [Guora](https://github.com/meloalright/guora) - 一个用 Go 编写的类似 Quora 的自托管 Web 应用程序.
 - [hoofli](https://github.com/dnnrly/hoofli) - 从 Chrome 或 Firefox 网络检查生成 PlantUML 图.
 - [hugo](https://gohugo.io/) - 快速和现代的静态网站引擎.

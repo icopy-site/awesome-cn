@@ -82,7 +82,6 @@
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - 使用 Ansible 剧本弯曲容器并将其转换为容器图像的工具.
 - [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 python 库，在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器映像接口、作为独立工具还是作为可以导入的 Python 模块.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/)  - 使用依赖于非默认依赖项的 Ansible 内容可能会很棘手. 软件包必须安装在每个节点上，与主机系统上安装的其他软件很好地配合，并保持同步.
-- [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible 工具集将所有 ansible 开发工具组合在一个容器中：ansible、a​​nsible-lint 和分子.
 - [kics](https://github.com/Checkmarx/kics) - SAST 工具，可将您的 ansible 基础设施扫描为代码剧本，以发现安全漏洞、合规性问题和错误配置.
 - [php-ansible Library](https://github.com/maschmann/php-ansible) - Ansible 的 OOP-Wrapper，使 Ansible 在 PHP 中可用.
 - [TD4A](https://github.com/cidrblock/td4a) - 用于构建和测试 jinja2 模板的设计辅助工具，将 yaml 格式的数据与 jinja2 模板组合并呈现输出.
