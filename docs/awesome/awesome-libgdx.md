@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome libGDX Logo](https://raw.githubusercontent.com/rafaskb/awesome-libgdx/master/logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
 
-## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing) ![Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=libGDX&style=flat-square)
+## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Latest libGDX Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)
 
 > <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
@@ -80,7 +80,7 @@ _可在 libGDX 代码中用于提升框架功能的资源._
 - [Particle Park](https://github.com/raeleus/Particle-Park) - 通过实时预览展示可下载的粒子效果.
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) - 可避免批量刷新的 ShapeRenderer 的高性能替代方案.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D 文件格式支持（导入/导出）、PBR 着色器和其他高级渲染.
-- [libgdx-graph](https://github.com/marcinsc/libgdx-graph) - 提供一个 GUI 来设计您的渲染管道和着色器，以及一个可以轻松地将它们合并到您的游戏中的库.
+- [gdx-graph](https://github.com/MarcinSc/gdx-graph) - 提供一个 GUI 来设计您的渲染管道和着色器，以及一个可以轻松地将它们合并到您的游戏中的库.
 
 ### Others
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) - 用于调试常见问题的 Java 代理，例如未处理的对象和修改 Color.WHITE 等常量. 

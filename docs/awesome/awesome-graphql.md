@@ -59,7 +59,6 @@
 - [Dallas-Fort Worth](https://www.meetup.com/DFW-GraphQL-Meetup/)
 - [Hamburg](https://www.meetup.com/GraphQL-Hamburg/)
 - [London](https://www.meetup.com/GraphQL-London/)
-- [Manchester](https://www.meetup.com/GraphQL-Manchester/)
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
 - [Montreal](https://www.meetup.com/GraphQL-Montreal/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
@@ -173,6 +172,7 @@
 - [GraphVinci](https://github.com/Comcast/graphvinci) - GraphQL API 的交互式模式可视化工具.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - 扩展 [supertest](https://github.com/visionmedia/supertest) 轻松测试 GraphQL 端点
 - [schemathesis](https://github.com/schemathesis/schemathesis) - 运行与 GraphQL 模式匹配的任意查询以查找服务器错误.
+- [microfiber](https://github.com/anvilco/graphql-introspection-tools) - 以有用的方式查询和操作 GraphQL 自省查询结果.
 
 <a name="js-example" />
 
@@ -368,7 +368,7 @@
 
 #### Scala Examples
 
-- [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - 使用 akka-http 编写的示例 GraphQL 服务器和 [sangria](https://sangria-graphql.github.io/)
+- [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - 使用 like-http 编写的示例 GraphQL 服务器和 [sangria](https://sangria-graphql.github.io/)
 - [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - 使用 Play 和 sangria 编写的 GraphQL 服务器示例.
 
 <a name="dotnet" />
@@ -396,7 +396,7 @@
 
 #### Elixir Examples
 
-- [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - 安装在 Phoenix 中的 GraphQL Elixir Plug 端点示例 - [View demo online](http://playground.graphql-elixir.org).
+- [hello_graphql_phoenix](https://github.com/graphql-elixir/hello_graphql_phoenix) - 安装在 Phoenix 中的 GraphQL Elixir Plug 端点示例
 
 <a name="haskell" />
 
@@ -617,6 +617,7 @@
 - [raphql-inspector](https://github.com/kamilkisiela/graphql-inspector)：验证模式、获取模式更改通知、验证操作、查找重大更改、查找相似类型、模式覆盖率.
 - [amplication](https://github.com/amplication/amplication) : Amplication 是一个开源的低代码开发工具. 它使用 REST API 和 GraphQL 为 CRUD 构建具有关系、排序、过滤、分页的数据库应用程序.
 - [Blendbase](https://github.com/blendbase/blendbase) ：单个开源 GraphQL API 将 CRM 连接到您的 SaaS. 使用 SaaS 应用程序中的单个 API 查询查询任何客户 CRM 系统（Salesforce、Hubspot 等）.
+- [microfiber](https://github.com/anvilco/graphql-introspection-tools) - 以有用的方式查询和操作 GraphQL 自省查询结果.
 
 <a name="databases" />
 
