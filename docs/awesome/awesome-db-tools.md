@@ -115,7 +115,7 @@
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
 
 ### Diagrams
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
@@ -324,9 +324,10 @@
 
 ## Data
 - [dbt](https://github.com/dbt-labs/dbt-core) - 通过简单地编写 select 语句来转换您的数据，而 dbt 处理将这些语句转换为数据仓库中的表和视图.
+- [QuickTable](https://quicktable.io) - 使每个人无需代码即可访问、清理、分析、转换和建模数据.
 
 ### Catalog
-- [Amundsen](https://github.com/amundsen-io/amundsen) - 元数据驱动的应用程序，用于提高数据分析师、数据科学家和工程师在与数据交互时的工作效率.
+- [Amundsen](https://github.com/amundsen-io/amundsen) - 元数据驱动的应用程序，用于提高数据分析师、数据科学家和工程师在与数据交互时的生产力.
 - [DataHub](https://github.com/datahub-project/datahub) - 现代数据堆栈的元数据平台.
 - [Marquez](https://github.com/MarquezProject/marquez) - 收集、聚合和可视化数据生态系统的元数据.
 

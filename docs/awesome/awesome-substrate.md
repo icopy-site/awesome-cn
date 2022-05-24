@@ -182,7 +182,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - 由 LimeChain 维护.
 - [C](https://github.com/MatthewDarnell/cScale) - 由马修达内尔维护.
-- [C++](https://github.com/soramitsu/kagome/tree/master/core/scale) --由Soramitsu维护.
+- [C++](https://github.com/soramitsu/scale-codec-cpp) --由Soramitsu维护.
 - [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - 官方编解码器文档.
 - [Go](https://github.com/itering/scale.go) - 由维护 [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - 由维护 [Robonomics Network](https://robonomics.network/).
@@ -191,5 +191,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Python](https://github.com/polkascan/py-scale-codec) - 由 Polkascan 基金会维护.
 - [Ruby](https://github.com/itering/scale.rb) - 由 Itering 维护.
 - [Scales](https://github.com/virto-network/scales) - 使用类型注册表中的类型信息序列化 SCALE.
-- [TypeScript](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.
-- [TypeScript](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - 由 Josep M Sobrepere 维护.
+- JavaScript / TypeScript 实现：
+  - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.
+  - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - 由 Josep M Sobrepere 维护.
+  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) --由Soramitsu维护. 

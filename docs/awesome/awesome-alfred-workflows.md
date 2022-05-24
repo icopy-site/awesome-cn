@@ -32,7 +32,7 @@
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - 快速查找字体真棒图标并将所需的图标添加到剪贴板.
 - [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub 命令栏，类似于 Github 中的命令栏.
 - [Git Repos](https://github.com/deanishe/alfred-repos) - 在您的系统上搜索并打开 Git 存储库.
-- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - 使用 JetBrains 的产品之一打开项目.
+- [JetBrains](https://github.com/bchatard/alfred-jetbrains) - 使用 JetBrains 的产品之一打开项目.
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge，在 Laravel Forge 上打开并运行命令.
 - [mdi](https://github.com/importre/alfred-mdi) - 寻找 [Material Design Icons](https://github.com/google/material-design-icons).
 - [npms](https://github.com/sindresorhus/alfred-npms) - 搜索 npm 包 [npms.io](https://npms.io).

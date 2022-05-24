@@ -6,6 +6,11 @@
 		<br>
 	</div>
 	<br>
+	<br>
+	<h2><a href="https://www.producthunt.com/posts/folder-peek">查看我的最新应用</a></h2>
+	<br>
+	<br>
+	<br>
 	<hr>
 	<p>
 		<p>
@@ -65,7 +70,7 @@
 				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
 			</div>
 			<div>
-				 <sup>OSS Capital成立于2018年，是第一家也是唯一一家专注于风险投资的平台</sup><sup><br></sup><sup>专门用于支持早期 COSS（商业开源）初创公司的创始人.</sup>
+				 <sup>OSS Capital成立于2018年，是第一家也是唯一一家专注于风险投资的平台</sup><sup><br></sup><sup>专门支持早期 COSS（商业开源）初创公司创始人.</sup>
 			</div>
 		</a>
 		<br>
@@ -234,7 +239,7 @@
 - [npm-home](https://github.com/sindresorhus/npm-home) - 打开包的 npm 页面.
 - [trash](https://github.com/sindresorhus/trash) - `rm` 的更安全的替代品.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 测试您的互联网连接速度和 ping.
-- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
+- [pageres](https://github.com/sindresorhus/pageres) - 捕获网站截图.
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
 - [vtop](https://github.com/MrRio/vtop) - 更好的顶部，带有漂亮的图表.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
@@ -252,7 +257,7 @@
 - [fkill](https://github.com/sindresorhus/fkill-cli)  - 惊人地杀死进程. 跨平台.
 - [pjs](https://github.com/danielstjules/pjs)  - 可管道的 JavaScript. 从终端快速过滤、映射和减少.
 - [license-checker](https://github.com/davglass/license-checker) - 检查您的应用程序依赖项的许可证.
-- [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+- [browser-run](https://github.com/juliangruber/browser-run) - 在浏览器环境中轻松运行代码.
 - [tmpin](https://github.com/sindresorhus/tmpin) - 为任何接受文件输入的 CLI 应用程序添加标准输入支持.
 - [wifi-password](https://github.com/kevva/wifi-password-cli) - 获取当前的wifi密码.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - 更改桌面壁纸.
@@ -282,7 +287,7 @@
 
 - [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 更好更快的 Underscore.js.
 - [immutable](https://github.com/immutable-js/immutable-js) - 不可变的数据集合.
-- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
+- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序实现的灵活功能组合. 避免变异数据.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别是您可以选择仅加载您需要的模块/功能，没有额外的开销.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 专注于高性能和低内存使用的反应式库.
@@ -374,7 +379,7 @@
 
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的 Web 应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
-- [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块捆绑器.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 - [gulp](https://github.com/gulpjs/gulp) - 流式传输和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明式配置、快速增量编译和自以为是的工作流程.
@@ -585,7 +590,7 @@
 - [URI.js](https://github.com/medialize/URI.js) - 网址突变.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - 流式处理 JSON.parse 和 stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)  - 快速 CSV 解析器. 上述回调接口.
-- [csv-parser](https://github.com/mafintosh/csv-parser) - 旨在比其他人更快的流式 CSV 解析器.
+- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/matthewmueller/x-ray) - 网页抓取实用程序.
 - [nearley](https://github.com/kach/nearley) - 简单、快速、强大的 JavaScript 解析.

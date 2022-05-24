@@ -14,7 +14,7 @@
 
 <br>
 <br>
-<div align="center"><h3><a href="https://sindresorhus.com/velja">看看我的新应用：Velja</a></h3></div>
+<div align="center"><h3><a href="https://www.producthunt.com/posts/folder-peek">查看我的新应用：Folder Peek</a></h3></div>
 <br>
 <br>
 
@@ -162,7 +162,7 @@
 - [Kaku](https://github.com/EragonJ/Kaku) - 音乐播放器.
 - [Markn](https://github.com/minodisk/markn) - 降价查看器.
 - [Shiba](https://github.com/rhysd/Shiba) - 带有 linting 的实时 Markdown 预览.
-- [Yays](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
+- [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 菜单栏中的 YouTube 音乐播放器.
 - [Monu](https://github.com/maxogden/monu) - 过程监控.
 - [DevDocs](https://github.com/egoist/devdocs-app) - 非官方的 DevDocs.io 应用程序.
 - [google-music-electron](https://github.com/twolfson/google-music-electron) - 非官方的谷歌音乐应用.
@@ -176,7 +176,7 @@
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL 客户端.
 - [docker-indicator](https://github.com/khornberg/docker-indicator) - 非官方的 Docker 菜单栏应用.
 - [Light Table](https://github.com/LightTable/LightTable) - 具有即时反馈的代码编辑器.
-- [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
+- [Tubehead](https://github.com/makotot/Tubehead) - 菜单栏中的 YouTube 音乐播放器.
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的 Google Play 音乐应用.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - 打包为应用程序的 Chrome DevTools.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - 使用信标进行聚会签到.
@@ -221,7 +221,7 @@
 - [Moonview](https://github.com/teesloane/moonview) - 环境记事本.
 - [DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL 客户端.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) - 物理网络信标广播.
-- [Rambox](https://github.com/saenzramiro/rambox) - 结合了 Discord、Hangouts、Gmail 和 Outlook 等多种服务的聊天和电子邮件应用程序.
+- [Rambox](https://github.com/saenzramiro/rambox) - 聊天和电子邮件应用程序，结合了 Discord、Hangouts、Gmail 和 Outlook 等多种服务.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终端.
 - [Materialette](https://github.com/mike-schultz/materialette) - 菜单栏中的材料设计调色板.
 - [Dext](https://github.com/vutran/dext) - 启动器.
@@ -295,7 +295,7 @@
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
-- [CatLight](https://catlight.io) - 构建状态通知器.
+- [CatLight](https://catlight.io) - Build status notifier.
 - [Automint](http://automint.in) - 汽车企业的 CRM.
 - [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 为 Cocos2D-x 创建网页和原生游戏的游戏编辑器.
@@ -377,7 +377,7 @@
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - macOS 应用程序的代码签名.
 - [electron-detach](https://github.com/parro-it/electron-detach) - 重新启动一个 Electron 应用程序作为一个分离的进程.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建、测试和打包 Ember 应用程序.
-- [electrify](https://github.com/arboleya/electrify) - 打包 Meteor 应用程序.
+- [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron](https://github.com/electron/spectron) - 使用 ChromeDriver 测试 Electron 应用程序.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel 预设，仅编译特定电子版本所需的内容.
 - [electron-is](https://github.com/delvedor/electron-is) - 实用功能.
@@ -444,7 +444,7 @@
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) - 输入元素的上下文菜单.
 - [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - 类似 Chrome 的标签.
 - [titlebar](https://github.com/kapetan/titlebar) - 模拟 macOS 窗口标题栏.
-- [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
+- [Brightwheel](https://github.com/loranallensmith/brightwheel) - 使用 Photon 和 Etch 构建和管理 UI 组件.
 - [Xel](https://xel-toolkit.org) - 用于构建类原生应用程序的小部件工具包.
 
 ## Documentation

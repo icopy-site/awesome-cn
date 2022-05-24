@@ -192,7 +192,7 @@
 * [ReadLine](https://github.com/tonerdo/readline) - 用于 .NET/.NET Core 的类似 GNU-Readline 的库.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，将对象树用于命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
-* [spectre.console](https://github.com/spectresystems/spectre.console) - 一个库，可以更轻松地创建漂亮的控制台应用程序.
+* [spectre.console](https://github.com/spectresystems/spectre.console) - 一个可以更轻松地创建漂亮的控制台应用程序的库.
 
 ## CLR
 
@@ -374,7 +374,7 @@
 
 ## Event aggregator and messenger
 
-* [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - 一个简单的 .NET 调解器，用于发送命令、发布事件和请求响应，支持管道
+* [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - 一个简单的 .NET 中介器，用于发送命令、发布事件和请求响应，支持管道
 * [MediatR](https://github.com/jbogard/MediatR) - .NET 中简单、无野心的中介实现
 * [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - 来自 Reactive.EventAggregator 的超简单响应式扩展代码
 * [TinyMessenger](https://github.com/grumpydev/TinyMessenger) - 用于松散耦合通信的轻量级事件聚合器/信使.
@@ -649,7 +649,7 @@
 * [MailKit](https://github.com/jstedfast/MailKit)  - 一个完整的跨平台邮件堆栈，包括 IMAP、POP3、SMTP、身份验证等. 建立在 MimeKit 之上.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - 一个跨平台的 .NET MIME 创建和解析器库，支持 S/MIME、PGP、TNEF 和 Unix mbox 假脱机.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
-* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和段、为列表创建自定义字段等.还包括 SendGrid Webhook 的解析器.
+* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和段、为您的列表创建自定义字段等.还包括 SendGrid Webhook 的解析器.
 
 ## Mathematics
 
@@ -716,7 +716,7 @@
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [Warden](https://github.com/warden-stack/Warden)  - 为您的应用程序、资源和基础设施定义“健康检查”. 让您的守望者时刻保持警惕
-* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示的值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
+* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
 * [Jot](https://github.com/anakic/jot) - 一个用于持久化和恢复应用程序状态的库（一个更好的替代 .settings 文件）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 该库使您能够在 .NET 中枚举和与 Hid 兼容的 USB 设备进行通信.
@@ -736,7 +736,7 @@
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小而强大的框架，专为跨所有 XAML 平台构建应用程序而设计. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
 * [Catel](https://www.catelproject.com/)  - Catel 是一个应用程序开发平台，专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
-* [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不需要您实现“INotifyPropertyChanged”或声明“DependencyProperty”. 它将控件直接连接到 CLR 属性. 这使其非常适合模型/视图/视图模型模式.
+* [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现 `INotifyPropertyChanged` 或声明 `DependencyProperty`. 它将控件直接连接到 CLR 属性. 这使其非常适合模型/视图/视图模型模式.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了响应式扩展 (Rx) 框架，使开发人员能够使用 WPF、Windows 应用商店应用程序、WP8 或 Xamarin 构建优雅、可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 一个以应用程序为中心的 Windows 8.1 MVVM 框架，在构建时考虑了依赖项注入，包括一整套 Visual Studio MVVM 模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 一个跨平台的桌面和移动 MVVM 开发框架.
@@ -887,6 +887,7 @@
 
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - 具有流畅界面的任务调度程序，可从您的应用程序运行自动化作业
 * [NCrontab](https://github.com/atifaziz/NCrontab) - 用于解析和格式化的类库 [crontab](http://crontab.org/) 表达式以及根据 crontab 计划计算时间的出现
+* [NCrontab.Scheduler](https://github.com/thomasgalliker/NCrontab.Scheduler) - 用于调度基于 NCrontab 的任务的简单任务调度程序库
 * [QuartzNet](https://github.com/quartznet/quartznet) - Quartz 企业调度程序 .NET
 * [Hangfire](https://github.com/HangfireIO) - 一种在 .NET 应用程序中执行即发即弃、延迟和重复任务的简单方法
 * [Chroniton](https://github.com/leosperry/Chroniton) - 一个简单、完全可集成且可定制的库，用于按计划运行强类型作业（任务）.

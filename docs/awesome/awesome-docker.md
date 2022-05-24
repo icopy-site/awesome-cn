@@ -83,7 +83,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - Docker CE = 基于 Moby 的免费产品发布
 - Docker EE = 基于 Docker CE 的商业产品发布.
 
-&gt; Docker EE 与 Docker CE 在同一代码库上，因此也是从 Moby 构建的，并添加了商业组件，例如“docker 数据中心/通用控制平面”
+&gt; Docker EE 与 Docker CE 使用相同的代码库，因此也是从 Moby 构建的，并添加了商业组件，例如“docker 数据中心/通用控制平面”
 
 - [Moby](https://github.com/moby/moby)
 - [Docker Images](https://hub.docker.com)
@@ -124,7 +124,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Deployment and Infrastructure
 
 - [awesome-stacks](https://github.com/ethibox/awesome-stacks) - 使用一个 Docker 命令部署 80 多个开源 Web 应用程序
-- [blackfish](https://gitlab.com/blackfish/blackfish) - 一个 CoreOS 虚拟机，用于构建用于开发和生产的 swarm 集群 [@blackfish](https://gitlab.com/blackfish/)
+- [blackfish](https://gitlab.com/blackfish/blackfish) - 一个 CoreOS 虚拟机，用于为开发和生产构建 swarm 集群 [@blackfish](https://gitlab.com/blackfish/)
 - [BosnD](https://gitlab.com/n0r1sk/bosnd) - BosnD，水手长守护程序 - 动态配置文件编写器和服务重新加载器，用于动态变化的容器环境.
 - [Centurion](https://github.com/newrelic/centurion)  - Centurion 是 Docker 舰队的大规模部署工具. 它从 Docker 注册表中获取容器，并在一组具有正确环境变量、主机卷映射和端口映射的主机上运行它们. 经过 [@newrelic](https://github.com/newrelic)
 - [Clocker](https://github.com/brooklyncentral/clocker)  - Clocker 创建和管理 Docker 云基础设施.  Clocker 支持多节点应用程序的单击部署和运行时管理，这些应用程序作为容器在 Docker 和 Marathon 上分布在多个主机上运行. 它利用 [Calico][calico] 和 [Weave][weave] 进行联网和 [Brooklyn](https://brooklyn.apache.org/) 用于应用程序蓝图. 经过 [@brooklyncentral](https://github.com/brooklyncentral)
@@ -253,7 +253,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [KICS](https://github.com/checkmarx/kics)  - 基础架构即代码扫描工具，可在开发周期的早期发现安全漏洞、合规性问题和基础架构错误配置. 可以延长额外的政策. 经过 [Checkmarx](https://github.com/Checkmarx)
 - [notary](https://github.com/theupdateframework/notary)  - 用于运行可信集合并与之交互的服务器和客户端. 经过 [@TUF](https://github.com/theupdateframework)
 - [oscap-docker](https://github.com/OpenSCAP/openscap)  - OpenSCAP 提供 oscap-docker 工具，用于扫描 Docker 容器和镜像. 经过 [OpenSCAP](https://github.com/OpenSCAP)
-- [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: - （以前的 Twistlock 安全套件）检测漏洞，强化容器镜像，并在应用程序的整个生命周期内执行安全策略.
+- [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: - （以前的 Twistlock 安全套件）检测漏洞，强化容器映像，并在应用程序的整个生命周期内执行安全策略.
 - [Sysdig Falco](https://github.com/falcosecurity/falco)  - Sysdig Falco 是一个开源容器安全监视器. 它可以监控应用程序、容器、主机和网络活动，并对未经授权的活动发出警报.
 - [Sysdig Secure](https://sysdig.com/products/secure/runtime-security/) :heavy_dollar_sign: - Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
 - [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy_dollar_sign: - 趋势科技 DeepSecurity 为容器工作负载和主机提供运行时保护，以及运行前扫描图像以识别漏洞、恶意软件和硬编码机密等内容.
@@ -473,7 +473,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/services/container-registry/) - 将 Docker 私有注册表作为一流的 Azure 资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  - 在裸机或云上运行 Docker 引擎的基本操作系统. 经过 [@RedCoolBeans](https://github.com/RedCoolBeans)
 - [cleanreg](https://github.com/hcguersoy/cleanreg) - 从实现 API v2 的 Docker Registry 中删除镜像清单的小工具，通过 GC 取消引用它们 [@hcguersoy](https://github.com/hcguersoy)
-- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/)  - 完全托管的包管理 SaaS，对公共和私有 Docker 注册表（以及许多其他，包括 Kubernetes 生态系统的 Helm 图表）提供一流的支持. 有一个慷慨的免费层，而且对开源也是完全免费的.
+- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/docker-registry/)  - 一个完全托管的包管理 SaaS，对公共和私有 Docker 注册表（以及许多其他，包括 Kubernetes 生态系统的 Helm 图表）提供一流的支持. 有一个慷慨的免费层，而且对开源也是完全免费的.
 - [Container Registry Service :heavy_dollar_sign:](https://container-registry.com/)  - 基于 Harbor 的容器管理解决方案即为团队和组织提供的服务. 免费套餐为私有存储库提供 1 GB 存储空间.
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) - 裸机容器托管.
 - [DigitalOcean :heavy_dollar_sign:](https://www.digitalocean.com/products/container-registry/) - DigitalOcean 容器注册表.
@@ -549,7 +549,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Crashcart](https://github.com/oracle/crashcart) - [@Oracle][oracle] 将 Linux 二进制文件旁加载到正在运行的容器中以进行故障排除
 - [dde](https://github.com/whatwedo/dde)  :construction: - 基于 Docker 的本地开发环境工具集. 经过 [@whatwedo](https://github.com/whatwedo)
 - [Devstep](https://github.com/fgrehm/devstep) :skull: - 由 Docker 提供支持的开发环境和 [@fgrehm][fgrehm] 提供的 buildpacks
-- [Dinghy](https://github.com/codekitchen/dinghy) - 在 Mac OS X 上使用 Docker Machine 与 virtualbox、vmware、xhyve 或 parallels 的另一种方法
+- [Dinghy](https://github.com/codekitchen/dinghy) - 在 Mac OS X 上使用 Docker Machine 和 virtualbox、vmware、xhyve 或 parallels 的另一种方法
 - [DIP](https://github.com/bibendi/dip)  - 用于直接配置和与 docker-compose 配置的应用程序交互的 CLI 实用程序. 经过 [@bibendi](https://github.com/bibendi)
 - [DLite](https://github.com/nlf/dlite)  :skull: - 在 OSX 上使用 Docker 的最简单方法，不需要 VM. 经过 [@nlf](https://github.com/nlf)
 - [dobi](https://github.com/dnephin/dobi)  - 用于 Docker 应用程序的构建自动化工具. 经过 [@dnephin](https://github.com/dnephin)
@@ -629,8 +629,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [CodeShip](https://www.cloudbees.com/products/codeship) :heavy_dollar_sign: - 使用您已建立的 Docker 工作流程，同时使用我们致力于速度和安全性的托管平台自动化您的测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) :heavy_dollar_sign: - 面向开发人员和 DevOps 团队管道的 CI SaaS 平台.
 - [Semaphore CI](https://semaphoreci.com/) :heavy_dollar_sign: — A high-performance cloud solution that makes it easy to build, test and ship your containers to production.
-- [Shippable](https://app.shippable.com/) :heavy_dollar_sign: - 面向开发人员和 DevOps 团队的 SaaS 平台，可显着减少构建、测试和部署到生产中的代码时间.
-- [TravisCI](https://travis-ci.org/) :heavy_dollar_sign: - 一个免费的 github 项目为开发人员和 Devops 持续集成 Saas 平台.
+- [Shippable](https://app.shippable.com/) :heavy_dollar_sign: - 面向开发人员和 DevOps 团队的 SaaS 平台，可显着减少代码构建、测试和部署到生产的时间.
+- [TravisCI](https://travis-ci.org/) :heavy_dollar_sign: - 一个免费的 github 项目持续集成 Saas 平台，供开发人员和 Devops 使用.
 
 ### CaaS
 
@@ -688,7 +688,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Demos and Examples
 
-- [An Annotated Docker Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development) 使用 Docker 的本地开发环境允许您将项目所需的 devops 压缩包装为配置，从而使入门无摩擦.
+- [An Annotated Docker Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development) 使用 Docker 的本地开发环境允许您将项目所需的 devops 收缩包装为配置，从而使入门无摩擦.
 - [Local Docker DB](https://github.com/alexmacarthur/local-docker-db) 许多数据库的 docker-compose 示例列表 [@alexmacarthur](https://github.com/alexmacarthur)
 - [Webstack-micro](https://github.com/ferbs/webstack-micro) 演示 Web 应用程序展示了如何使用 Docker Compose 将 API 网关、集中式身份验证、后台工作人员和 WebSockets 设置为容器化服务.
 
@@ -746,7 +746,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (1:36:58)
 - [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) 免费的 Udacity 课程
 - [State of containers: a debate with CoreOS, VMware and Google](https://www.youtube.com/watch?v=IiITP3yIRd8) (27:38)
-
+- [List of online courses (free and paid) about Docker](https://skillcombo.com/topic/docker/)
 
 ## Communities and Meetups
 
