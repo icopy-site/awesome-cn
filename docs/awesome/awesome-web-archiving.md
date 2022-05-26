@@ -17,9 +17,8 @@
   * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 归档生命周期模型试图将 Web 归档的技术和程序化武器整合到一个框架中，该框架将与任何寻求从 Web 归档内容的组织相关.  Archive-It 是 Internet Archive 的网络存档服务，它基于与世界各地的记忆机构的合作开发了该模型.
   * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
   * [UNT Web Archiving Course 2022](https://github.com/vphill/web-archiving-course)
-  * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
-  * 
-* The WARC Standard:
+  * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/) 
+* WARC 标准：
   * 这 [warc-specifications](https://iipc.github.io/warc-specifications/) 社区 HTML 版本的官方规范和新提案的中心.
   * 这 [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
 * 对于使用网络档案的研究人员：
@@ -46,7 +45,7 @@
 * [ArchiveBox](https://github.com/pirate/ArchiveBox)  - 使用 wget、Chrome 无头和其他方法（以前称为“书签存档器”）维护来自 RSS 提要、书签和链接的附加存档的工具.  *（开发中）*
 * [archivenow](https://github.com/oduwsdl/archivenow) - 一种 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将 Web 资源推送到按需 Web 档案中.  *（稳定的）*
 * [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重播网页并将其导出为 WARC 数据. 也可作为基于 Electron 的桌面应用程序使用.
-* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真爬虫系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的爬虫.
+* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真抓取系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的抓取.
 * [Brozzler](https://github.com/internetarchive/brozzler)  - 一个分布式网络爬虫（爬虫），它使用真实的浏览器（Chrome 或 Chromium）来获取页面和嵌入的 url 并提取链接.  *（稳定的）*
 * [Cairn](https://github.com/wabarc/cairn)  - 用于保存网页的 npm 包和 CLI 工具.  *（稳定的）*
 * [Chronicler](https://github.com/CGamesPlay/chronicler)  - 具有记录和回放功能的网络浏览器.  *（开发中）*
@@ -96,13 +95,13 @@
 * [playback](https://github.com/wabarc/playback) - 用于搜索存档网页的工具包 [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) 超越.  *（开发中）*
 * [SecurityTrails](https://securitytrails.com/)  - WHOIS 和 DNS 记录的基于 Web 的存档. 免费提供 REST API. 
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间的网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
-* [Tempas v2](http://tempas.L3S.de/v2) - 基于从 1996 年到 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不仅限于德语页面，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ).  *（稳定的）*
+* [Tempas v2](http://tempas.L3S.de/v2) - 基于从 1996 年到 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不限于德语页面，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ）.  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及一些能够使用下面显示的索引的相关工具.  *（稳定的）*
   * [Shine](https://github.com/ukwa/shine) - 与研究人员一起开发的原型网络档案探索 UI，作为 [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
-  * [SolrWayback](https://github.com/netarchivesuite/solrwayback) - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) 在易于安装的开箱即用解决方案中包含所有软件和依赖项.
+  * [SolrWayback](https://github.com/netarchivesuite/solrwayback)  - 带有自由文本搜索和内置播放引擎的后端 Java 和前端 VUE JS 项目. 要求 Warc 文件已使用 Warc-Indexer 进行索引. 该 Web 应用程序还具有广泛的数据可视化工具和数据导出工具，可用于整个 Web 存档. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) 在易于安装的开箱即用解决方案中包含所有软件和依赖项.
   * [Warclight](https://github.com/archivesunleashed/warclight)  - 基于 Project Blacklight 的 Rails 引擎，支持发现以 WARC 和 ARC 格式保存的 Web 档案.  *（开发中）*
   * [Wasp](https://github.com/webis-de/wasp) - 一个功能齐全的个人原型 [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf) .  *（开发中）*
-  * 构建前端的其他可能选项列在 `webarchive-discovery` wiki 中， [here](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
+  * 构建前端的其他可能选项在 `webarchive-discovery` wiki 中列出， [here](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
 ### Utilities
 
@@ -130,6 +129,7 @@
 * [jwarc](https://github.com/iipc/jwarc) - 使用类型安全 API (Java) 读写 WARC 文件.
 * [Jwat](https://sbforge.org/display/JWAT/JWAT)  - 用于读取/写入/验证 WARC/ARC/GZIP 文件 (Java) 的库和工具.  *（稳定的）*
 * [node-warc](https://github.com/N0taN3rd/node-warc) - 解析 WARC 文件或使用任一创建 WARC 文件 [Electron](https://electron.atom.io/) 或者 [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  (Node.js).  *（稳定的）*
+* [Sparkling](https://github.com/internetarchive/Sparkling)  - Internet Archive 的闪亮数据处理库.  *（稳定的）*
 * [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压缩 WARC 和 WACZ 文件 (Python) 的命令行界面.
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARCHive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 归档 IO (Python) 的流式 WARC/ARC 库.
@@ -138,6 +138,7 @@
 
 ### Analysis
 
+* [Archives Research Compute Hub](https://github.com/internetarchive/arch)  - 用于 Archive-It 网络档案集合的分布式计算分析的网络应用程序.  *（稳定的）*
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark)  - 用于 Web 档案的 Apache Spark 框架（不仅如此），可以轻松进行数据处理、提取和派生.  *（稳定的）*
 * [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks)  - 使用 Archives Unleashed Toolkit 和 Archives Unleashed Toolkit 生成的衍生工具用于处理 Web 档案的笔记本.  *（稳定的）*
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut)  - Archives Unleashed Toolkit (AUT) 是一个开源平台，用于使用 Apache Spark 分析 Web 档案.  *（稳定的）*
@@ -152,9 +153,9 @@
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - 浏览器扩展：在浏览器选项卡之间切换.
 * [FlameShot](https://github.com/lupoDharkael/flameshot) - Ubuntu 上的屏幕截图和注释.
 * [PlayOnLinux](https://www.playonlinux.com/en/) - 用于在 Ubuntu 上运行 Xenu 和 Notepad++.
-* [PlayOnMac](https://www.playonmac.com/en/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
+* [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
 * [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots)  - 用于部分屏幕捕获和注释的 Windows 内置. 在 macOS 上，您可以使用 Command + Shift + 4（用于获取部分屏幕截图的键盘快捷键）.
-* [WineBottler](http://winebottler.kronenberg.org/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
+* [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
 * [xDoTool](https://github.com/jordansissel/xdotool) - 在 Ubuntu 上单击自动化.
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) - 适用于 Windows 的桌面链接检查器.
 
@@ -190,7 +191,7 @@
 
 * [IIPC Slack](https://iipc.slack.com/) - 问 [@netpreserve](https://twitter.com/NetPreserve?s=20) 访问.
 * [Archives Unleashed Slack](https://archivesunleashed.slack.com/) - [Fill out this request form](https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link) 用于访问使用网络档案的研究人员组.
-* [Archivers Slack](https://archivers.slack.com) - [Invite yourself](https://archivers-slack.herokuapp.com/) 为归档项目的多学科努力 [EDGI](https://envirodatagov.org/archiving/) 和 [Data Together](http://datatogether.org/).
+* [Archivers Slack](https://archivers.slack.com) - [Invite yourself](https://archivers-slack.herokuapp.com/) 为归档项目的多学科努力 [EDGI](https://envirodatagov.org/archiving/) and [Data Together](http://datatogether.org/).
 
 ### Twitter
 

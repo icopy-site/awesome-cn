@@ -54,6 +54,7 @@
 
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - 这本书涵盖了密码学中不同任务的许多结构.
 - [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - 现代密码学简介.
+- [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028) - 这个密码学经典为您提供现代密码学的全面调查. 
 - [Crypto101](https://www.crypto101.io/) - Crypto 101 是密码学的入门课程.
 - [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - 学习构建适用于现实世界的加密协议.
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - 本书旨在为专业密码学家提供参考.
@@ -159,7 +160,7 @@
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - 加密 API.
 - [clj-crypto](https://github.com/macourtney/clj-crypto/) - 充气城堡的包装.
 - [pandect](https://github.com/xsc/pandect) - Clojure 的快速且易于使用的消息摘要、校验和和 HMAC 库.
-- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（例如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
+- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
 
 ### Common Lisp
 
@@ -225,7 +226,7 @@
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 Node.js 提供标准和安全的加密算法.
 - [forge](https://github.com/digitalbazaar/forge) - JavaScript 中 TLS 的本机实现以及用于编写基于加密和网络密集型 Web 应用程序的工具.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松为 Node.js 应用程序添加强大的数据控制.
-- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于在浏览器中轻松安全地管理端到端加密.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，一种代理重新加密的变体，用于在浏览器中轻松安全地管理端到端加密.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library 为 Web 开发人员提供了一套广泛而高效的加密功能.
 - [js-nacl](https://github.com/tonyg/js-nacl) - 用于 Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
@@ -238,7 +239,7 @@
  - 高贵 - 高安全性、易于审计的一组包含的密码库和工具. 每个零依赖.
   - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) — BLS12-381 配对友好曲线（阈值信号）.
   - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) — ed25519 曲线 + ristretto255（加密，签名）.
-  - [noble-ripemd160](https://github.com/paulmillr/noble-ripemd160) - RIPEMD160 哈希.
+  - [noble-ripemd160](https://github.com/paulmillr/noble-ripemd160) — RIPEMD160 哈希.
   - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — secp256k1 Koblitz 曲线（加密、ECDH、sigs）.
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - 适用于 Node.js 的 bcrypt.
 - [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - JavaScript 的 OpenPGP 实现.
@@ -335,7 +336,7 @@ algorithm.
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - 是 BLAKE3 加密哈希函数的官方 Rust 和 C 实现.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
-- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码学库，难以误用、符合人体工程学且性能卓越.
+- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码库，它难以误用、符合人体工程学且性能卓越.
 - [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互身份验证的 Rust 库.
 - [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
 - [proteus](https://github.com/wireapp/proteus) - Rust 中的 Axolotl 协议实现，没有标头键.

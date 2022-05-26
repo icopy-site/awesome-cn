@@ -11,7 +11,7 @@
   
   当我在埃克德学院时，我反复碰到社会企业的概念. 首先，学习一门名为“技术、社会和环境”的课程，然后通过与一家社会企业的 CTO 会面，最后学习一门名为“社会企业家精神”的课程. 一路走来，我更爱上了社会企业的概念. 然而，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
   
-  最后，我设置了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 获取与“社会企业家”相关的任何内容的每周摘要. 那行得通，但我仍然觉得我错过了一些东西. 快进几年后，我发现自己积极参与了一个名为 [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+  最后，我设置了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 获取与“社会企业家”相关的任何内容的每周摘要. 那行得通，但我仍然觉得我错过了一些东西. 快进几年后，我发现自己积极参与了一个名为 [hackNY](https://hackny.org/) ，在《纽约时报》工作，比以往任何时候都更渴望了解社会企业. 因此，我已经开始编制这份资源清单，以使人们更容易与社会企业的世界建立联系. 有关一些常见问题，请参阅底部的常见问题解答.
   
 </details>
 
@@ -63,7 +63,8 @@
 
  | 标题 | 作者 | 年份 | 笔记 |
 |-------|--------|------|-------|
- | 社会企业家精神：每个人都需要知道的| 大卫伯恩斯坦 |  2010 | 伟大的社会企业家介绍. 简短而甜蜜，对常见问题有很多很好的答案.  |
+| Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
+| [Ladderworks books](https://www.ladderworks.co/)  | 各种|  2022 | 多样化的图画书，让超过一百万的孩子成为社会企业家.  |
 
 ## Podcasts 🎧
 * [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/)  - 谈论社会企业结构并采访经营它们的人. 由社会企业家和工程师主持 [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
@@ -101,7 +102,7 @@ Coursera
 * [Wharton Social Entrepreneurship](https://entrepreneurship.wharton.upenn.edu/wharton-social-entrepreneurship/)
 * [Copenhagen Business School Social Entrepreneurship](https://www.cbs.dk/en/knowledge-society/interdisciplinary-initiatives/entrepreneurship/organization/clusters/social-entrepreneurship)
 * [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
-* [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - 加拿大第一所社会创新学院
+* [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - 加拿大第一所社会创新学院.
 
 
 ## Tools 🔨
@@ -204,7 +205,7 @@ Coursera
  A：为人们提供资源，让他们深入社会企业的世界. 让人们对社会企业感到兴奋. 传播社会企业的信息.
 
 Q：您喜欢社会企业的哪些方面？  
-答：我喜欢将非营利组织的好处和企业的效率结合在一起的想法. 并非所有的非营利组织都是低效的，也不是所有的企业都是坏的. 然而，我想鼓励人们去探索以高效的商业实践来最大化社会影响的潜力.
+答：我喜欢将非营利组织的好处和企业的效率结合起来的想法. 并非所有的非营利组织都是低效的，也不是所有的企业都是坏的. 然而，我想鼓励人们去探索以高效的商业实践来最大化社会影响的潜力.
 
 问：为什么是社会企业而不是社会创业？  
 答：我想关注组织结构，而不是组织内的个人. 社会企业家精神可以意味着任何东西，从支持社会事业的大型组织到从事社区发展的孤独者. 虽然这两者都很重要且有价值，但这是一种面向对事物的组织方面感兴趣的人的资源.
