@@ -44,7 +44,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [NFTExplorer](https://www.nftexplorer.app/) - Algor和 标准资产 (ASA) 资源管理器由 [@TomassoAE](https://twitter.com/TommasoAE) 和 [JoshLmao](https://twitter.com/JoshLmao).
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand 帐户的 2D 图表.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 帐户的 3D 图表.
-- [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
+- [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
 
 ## Portfolio Trackers
@@ -243,6 +243,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源. 
 - [daotools](https://daotools.org/) - 在一个 Dapp 中管理您的所有 DAO 投票会话.
+- [FORUM](https://forum.ax/) - Algorand 区块链上的股权证明社交网络.
 
 ## ARCs
 

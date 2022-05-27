@@ -21,7 +21,7 @@ document**.
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced) - 潘多克
     Atom 的集成和实用程序.
   - [Autocomplete BibTeX for Atom](https://github.com/apcshields/autocomplete-bibtex) - BibTeX 对 Atom 的支持.
-- [Marktext](https://marktext.app/) - Markdown 文本编辑器.
+- [Marktext](https://github.com/marktext/marktext) - Markdown 文本编辑器.
 - [R Studio](https://github.com/rstudio/rstudio) - R 的 IDE.
   - [bookdown](https://github.com/rstudio/bookdown) - R 包，方便编写书籍和长篇文章，使用 R Markdown 报告：书签：：链接：.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R 包在 Markdown 旁边写 R
@@ -72,24 +72,17 @@ document**.
 补充文件和工具.
 
 - [Cicero](https://cicero.xyz/) - 呈现 HTML 演示文稿的 Python 包
-  来自 Markdown 源，使用 remark 或reveal.js :link:.
+  from Markdown source using remark or reveal.js :link:.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python包可以
   将 reStructuredText 转换为各种格式并提供命令行
   执行此操作的工具：链接：.
-- [Jupyter Book](https://jupyterbook.org/) - 转换的静态站点生成器
+- [Jupyter Book](https://jupyterbook.org/en/stable/) - 转换的静态站点生成器
   将 CommonMark、MyST markdown 和 Jupyter 笔记本集合到 HTML 网站中.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - 显着结构化文本，
   CommonMark 降价的超集，具有类似 reStructuredText 的功能.
 - [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - 转换 Jupyter
   将笔记本放入 `reveal.js` 演示文稿、PDF、HTML、Markdown、
   reStructuredText 等等.
-  - [bookbook](https://github.com/takluyver/bookbook/#readme) - 实验性 Python
-    扩展“nbconvert”并增加交叉引用能力的包
-    笔记本内部和跨笔记本：链接：.
-  - [ipypublish](https://github.com/chrisjsewell/ipypublish/#readme) - 工作流程
-    创建和编辑准备出版的科学报告和演示文稿，
-    来自一个或多个 Jupyter Notebook，无需离开浏览器 :bookmark:
-    ：关联：.
 - [pandoc](https://pandoc.org/MANUAL) - 用于转换的 Haskell 库
   一种标记格式转换为另一种标记格式，以及使用此格式的命令行工具
   图书馆：书签：：链接：.
@@ -150,7 +143,7 @@ document**.
 - [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - 最小
    基于 R Markdown 和 bookdown 的书籍示例.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - 干净的学术 pandoc LaTeX 模板.
-- [Template for writing a PhD thesis in
+- [博士论文写作模板
    Markdown](https://github.com/tompollard/phd_thesis_markdown#readme) - Clean
    文件的组织，以提供一个框架来撰写博士论文
    主要是 Markdown 和一点点 LaTeX，并用 Pandoc 编译.

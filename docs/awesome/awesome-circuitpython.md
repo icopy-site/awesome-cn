@@ -39,7 +39,7 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - 介绍和讨论 Circuit Playground Express，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
+- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - Circuit Playground Express 的介绍和讨论，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)  - 本书帮助您开始使用 CircuitPython 开发. 本书使用 Adafruit ItsyBitsy M0 Express 板进行开发.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 将于 2019 年 9 月从 [TechBookFest](https://techbookfest.org/).
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论 MicroPython 语言.
@@ -61,7 +61,7 @@
 - [CircuitPython Community Libraries](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md)  - CircuitPython 社区库. 有超过 45 个以上的库可用.
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - Raspberry Pi 和其他运行 Linux 的兼容单板计算机 (SBC) 上的 CircuitPython 库.
 - [Awesome List for the RP2040 Macropad](https://github.com/prcutler/awesome-macropad) - 很棒的 Macropad 应用程序、宏、3D 打印计划等列表.
-
+- [Tod Kurt's CircuitPython Tips and Tricks](https://github.com/todbot/circuitpython-tricks)  - CircuitPython 的提示和技巧集合. 也可作为 Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
 ## Frameworks
 
 - [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - 亦是 [video](https://youtu.be/NYpcjDBA6xw)， 开发中.
@@ -139,13 +139,13 @@
 
 ## Social
 
-- [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah) - Twitter 帖子标记为 CircuitPython.
+- [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah) - Twitter posts tagged CircuitPython.
 - [CircuitPython Twitter](https://twitter.com/circuitpython) - 用于 CircuitPython 新闻等的 Twitter 帐户聚合器.
 - [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython) - YouTube 帖子标记为 CircuitPython.
 - [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Instagram 上的帖子标记为 CircuitPython.
 - [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - MicroPython 论坛上标记为 CircuitPython 的文章.
 - [CircuitPython tagged on Reddit](https://www.reddit.com/domain/adafruit.com/search?q=circuit+python&sort=new&t=week) - 与 CircuitPython 相关的 Reddit 帖子.
-- [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - Dedicated home of CircuitPython on reddit [r/circuitpython/](https://www.reddit.com/r/circuitpython/).
+- [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - 在 reddit 上 CircuitPython 的专用主页 [r/circuitpython/](https://www.reddit.com/r/circuitpython/).
 - [CircuitPython on Hackaday.io](https://hackaday.io/list/163331-circuitpython) - hackaday.io 上的精选项目列表.
 - [CircuitPython on hackster.io](https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/) - hackster.io 上硬件项目上的 Python，包括 CircuitPython.
 - [CircuitPython on Instructables](https://www.instructables.com/howto/circuitpython/) - 在 Autodesk 的 Instructables 上使用 CircuitPython 的操作方法、指南等.
@@ -180,7 +180,7 @@
 - [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython程序！CircuitPython入门级中文教程01：从零到Hello World（YouTube）.
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 通过开源、热情和指导改变生活，Kattni Rembor 在 PyOhio 2019 上的主题演讲.
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython：Dave Astels 在加拿大 PyCon 的硬件 Python.
-- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Ayan Pahwa 在 FOSSASIA 峰会上为每个使用 MicroPython 和 CircuitPython 的人提供嵌入式编程.
+- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Ayan Pahwa 在 FOSSASIA 峰会上为所有人使用 MicroPython 和 CircuitPython 进行嵌入式编程.
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/) - 尼古拉斯·托勒维.
 - [EuroPython 2019 talk video: Radomir Dopieralski – Game Development with CircuitPython](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-radomir-dopieralski-game-development-with-circuitpython-cirecuitpython-europython-deshipu/) - 拉多米尔·多皮拉尔斯基.
 - [Extending MicroPython: Using C for good](https://www.youtube.com/watch?v=437CZBnK8vI)  - 了解如何扩展 MicroPython 以添加功能并提高性能. 作者：澳大利亚 PyCon 的 Matt Trentini.

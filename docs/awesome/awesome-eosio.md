@@ -113,7 +113,7 @@ EOSIO 学习资源.
 ### Block explorers, Voting portals
 
 - [EOS Network Monitor](http://eosnetworkmonitor.io/)  - “CryptoLions”的 EOSIO 网络监视器. 对开发人员有用. 分散友好.
-- [eosflare](https://eosflare.io/) - 流行的区块浏览器包括资源统计、最新的配置文件操作以及关于“热门竞标”和“热门投票者”的统计.
+- [eosflare](https://eosflare.io/) - 流行的区块浏览器包括资源统计、最新的个人资料操作和关于“热门竞标”和“热门投票者”的统计.
 - [EOS Tracker](https://eostracker.io/) - 开源区块浏览器包括生产者信息和账户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - 官方 GitHub.
 - [Bloks](https://bloks.io/)  - 快速区块浏览器，可用于投票. 包括有关区块生产者和代币的信息.
@@ -122,6 +122,7 @@ EOSIO 学习资源.
 <!--lint enable awesome-spell-check-->
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) - 投票代理浏览器.
 - [EOS GO](https://www.eosgo.io/)
+- [bdata.one](https://bdata.one/) - 关于多个 EOSIO 链的账户和代币的区块链数据.
 
 ### General
 
@@ -238,9 +239,9 @@ EOSIO 学习资源.
 ### Code examples
 
 - [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) - 提供 EOSIO 区块链的一些基本功能的智能合约.
-- [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
+- [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex 交易所智能合约.
   - [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - 文章.
-- [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - 使用 EOSIO SDK for Java 演示与基于 EOSIO 的区块链集成的应用程序.
+- [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
 - [poorman.token](https://github.com/generEOS/poorman.token) - 带有刻录和注册的 EOSIO 代币（用于使代币 RAM 便宜）.
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - 一组使用 eosjs 和 Scatter 的集成演示.
 - [ping-eos](https://github.com/eosasia/ping-eos) - 在 EOSIO / React.js 之间实现 ping.
