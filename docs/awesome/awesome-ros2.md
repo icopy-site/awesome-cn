@@ -110,7 +110,7 @@
 ### Middleware
 
 - [Micro XRCE-DDS Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - 微型 XRCE-DDS 代理充当 DDS 网络和微型 XRCE-DDS 客户端之间的服务器.
-- [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - 包含 Micro XRCE-DDS 代理的 Docker 映像.
+- [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
 - [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS 实施客户端-服务器协议，使资源受限的设备（客户端）能够参与 DDS 通信.
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) - 使用 Micro XRCE-DDS 代理的 ROS 2 包.
 - [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) 是一种可扩展且性能极高的协议，可以透明地用于与 [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) 以及对于 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (https://img.shields.io/github/stars/eclipse-zenoh/zenoh)
@@ -157,7 +157,8 @@
 - [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - 用于 Ouster OS-1 激光雷达的 ROS2 驱动程序. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - 有关 micro-ROS 项目中使用和支持的硬件平台的信息和文档.
 - [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) - Blickfeld Cube 1 和 Cube Range 的 ROS2 驱动程序.
-- [Universal Robots](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
+- [Universal Robots](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - 用于 UR CB3 和 e 系列的 ROS2 驱动程序.
+- [odrive_ros2_control](https://github.com/Factor-Robotics/odrive_ros2_control) - 用于 ros2_control 的 ODrive 驱动程序.
 
 ### Client libraries
 
@@ -346,7 +347,7 @@
 ### ROS Industrial Conference 2017
 
 - 微型机器人操作系统：用于高度资源受限设备的 ROS [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
-- ROS2 - 它来了 [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
+- ROS2 - it's coming [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
 
 ### ROSCon 2017
 
@@ -425,7 +426,7 @@ DDS 安全.
 - [Rover Robotics](https://roverrobotics.com/) - 坚固的工业级机器人.
 - [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
 - [synapticon](https://www.synapticon.com/technology) - 兼容ROS的运动控制和驱动产品，努力支持ROS2.
-- [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - ROS2 for VxWorks.
+- [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - VxWorks 的 ROS2.
 
 ## Organizations
 

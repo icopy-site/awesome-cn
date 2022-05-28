@@ -48,6 +48,7 @@
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
+- [Malewicz](https://github.com/mgramin/malewicz) - 另一个用于 DB 模式探索和性能分析的 WEB 客户端，但最初是专门为破解和扩展而创建的.
 - [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，具有非技术用户的完整用户权限.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui)  - 对于 MySQL、MariaDB 和 Tarantool. 为 Linux 开发，但可以在 Windows 上运行.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - 用于数据库管理的 Web 工具.
@@ -69,7 +70,7 @@
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整且易于使用的 MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - 适用于 Clickhouse 的 SQL 编辑器和开源简单商业智能.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - 适用于关系数据库的现代、原生和友好的 GUI 工具：MySQL、PostgreSQL、SQLite 等.
-- [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web 管理 GUI - 从任何地方使用您的 PostgreSQL 数据库，具有丰富、快速的 AJAX Web 界面.
+- [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
 
 
 ## CLI
@@ -84,10 +85,10 @@
 - [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
 
 ### dbcli
-- [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以进行自动补全和语法高亮.
+- [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以进行自动完成和语法高亮显示.
 - [litecli](https://github.com/dbcli/litecli) - 用于 SQLite 数据库的 CLI，具有自动完成和语法高亮功能.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - 具有自动完成和语法突出显示的 SQL Server 命令行客户端.
-- [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的 MySQL 终端客户端.
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - 具有自动完成和语法突出显示的 Postgres CLI.
 - [vcli](https://github.com/dbcli/vcli) - 具有自动完成和语法突出显示的 Vertica CLI.
 
@@ -200,7 +201,7 @@
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
 - [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 在您的 PostgreSQL 数据库上提取和提供指标的服务.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
-- [Promscale](https://github.com/timescale/promscale) - 由 SQL 支持的度量和跟踪的开源可观察性后端.
+- [Promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
 
 ### Prometheus
@@ -223,7 +224,7 @@
 
 ## HA/Failover/Sharding
 - [Citus](https://github.com/citusdata/citus) - Postgres 扩展，将您的数据和查询分布在多个节点上.
-- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+- [patroni](https://github.com/zalando/patroni) - 带有 ZooKeeper、etcd 或 Consul 的 PostgreSQL 高可用性模板.
 - [Percona XtraDB Cluster](https://github.com/percona/percona-xtradb-cluster) - MySQL 集群和高可用性的高可扩展性解决方案.
 - [stolon](https://github.com/sorintlab/stolon) - 用于 PostgreSQL 高可用性的云原生 PostgreSQL 管理器.
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - 用于自动故障转移和高可用性的 Postgres 扩展和服务.
@@ -327,13 +328,13 @@
 - [QuickTable](https://quicktable.io) - 使每个人无需代码即可访问、清理、分析、转换和建模数据.
 
 ### Catalog
-- [Amundsen](https://github.com/amundsen-io/amundsen) - 元数据驱动的应用程序，用于提高数据分析师、数据科学家和工程师在与数据交互时的生产力.
+- [Amundsen](https://github.com/amundsen-io/amundsen) - 元数据驱动的应用程序，用于提高数据分析师、数据科学家和工程师在与数据交互时的工作效率.
 - [DataHub](https://github.com/datahub-project/datahub) - 现代数据堆栈的元数据平台.
 - [Marquez](https://github.com/MarquezProject/marquez) - 收集、聚合和可视化数据生态系统的元数据.
 
 ### Generators
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - 为开发、测试和培训目的生成、混淆（匿名化/假名化）和迁移数据.
-- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
+- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 强大的 GUI 工具，用于创建大量真实的测试数据.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 小而强大的 GUI 工具，用于使用大量真实的测试数据填充 Oracle 模式.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
@@ -350,7 +351,7 @@
 
 
 ## Papers
-Documents, articles, manifestos and other theoretical materials on database tools
+关于数据库工具的文件、文章、宣言和其他理论资料
 - [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - 将您的数据库视为代码.
 
 

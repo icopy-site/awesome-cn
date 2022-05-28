@@ -199,7 +199,7 @@
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
 - [Weekly Python Newsletter](https://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox. [Archive](https://importpython.com/newsletter/archive/).
-- [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，适用于那些对 Python 开发和有关 Python 的各种主题感兴趣的人.
+- [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向对 Python 开发和有关 Python 的各种主题感兴趣的人.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周概述最流行的 Python 新闻、文章和包.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
 
@@ -274,6 +274,10 @@
 
 - [Vim Weekly](http://www.vimweekly.com/) . 每个星期一，我们都会发送 5 个提示，这些提示可以帮助您提高 vim 生产力，您可以将其视为每天一个提示！
 - [Mastering Vim Quickly](https://masteringvim.com/) . 最好的 Vim 东西，每周一次.
+
+### VSCode
+
+- [vscode.email](https://vscode.email/) . 有关 VS Code 和 IDE 的新闻和提示的时事通讯.
 
 ## Databases
 
@@ -393,10 +397,10 @@
 - [TED](https://www.ted.com/newsletter) .  TED 收件箱中的灵感
 - [KickStarter](https://www.kickstarter.com/newsletters) .  KickStarter 我们喜爱的项目存档
 - [Startup Digest](https://www.startupdigest.com/reading-lists) . 来自世界各地的精选阅读材料，根据您​​的兴趣定制.
-- [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
+- [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
-- [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供了一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
@@ -423,7 +427,7 @@
 - [Changelog Nightly](https://changelog.com/nightly) . 每天晚上 10 点发送一封电子邮件，在 GitHub 上挖掘最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
-- [lkml.wtf](https://lkml.wtf/) . 每周一次的 Linux 内核邮件列表线程综述，但带有更多的讽刺意味.
+- [lkml.wtf](https://lkml.wtf/) . 每周一次的 Linux 内核邮件列表线程综述，但讽刺意味更多.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中一个订阅者被选中，其电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [tl;dr Marketing](https://tldrmarketing.com/) . 面向数字营销人员的每周通讯，涵盖 SEO、PPC 和社交媒体方面的新闻.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.

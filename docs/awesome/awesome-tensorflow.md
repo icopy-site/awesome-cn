@@ -44,7 +44,7 @@
 
 ## Models/Projects
 
-* [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) - A simple and well-designed template for your tensorflow project.
+* [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) - 为您的 tensorflow 项目设计的简单且精心设计的模板.
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) - 无监督跨域图像生成的实现
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) - 基于注意力的图像字幕生成器
 * [Neural Style](https://github.com/cysmith/neural-style-tf) 神经风格的实现
@@ -143,11 +143,13 @@
 * [TensorIO](https://doc-ai.github.io/tensorio/) - 用于将 TensorFlow Lite 模型部署到移动设备的轻量级跨平台库. 
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - 图形机器学习，一个用于对图形结构（网络结构）数据进行机器学习的 Python 库.
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - 用于实现通用架构堆栈的高级 Keras 补充，用作易于使用的即插即用模块
+* [Tensorflow-Probability](https://www.tensorflow.org/probability) - 基于 TensorFlow 构建的概率编程，可轻松在现代硬件上结合概率模型和深度学习.
 
 <a name="tools-utils" />
 
 ## Tools/Utilities
 
+* [Nebullvm](https://github.com/nebuly-ai/nebullvm) - 易于使用的库，可利用多个深度学习编译器来促进 AI 推理.
 * [Guild AI](https://guild.ai) - TensorFlow 的任务运行器和包管理器
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace)  - 用于机器学习和数据科学的多合一 Web IDE. 将 Tensorflow、Jupyter、VS Code、Tensorboard 和许多其他工具/库组合到一个 Docker 映像中.
 
@@ -183,14 +185,14 @@
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - 在本文中，我们扩展了最近提出的 Google TensorFlow 以使用消息传递接口 (MPI) 在大规模集群上执行
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - 本文描述了背后的模型 [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - 本文描述了 TensorFlow 数据流模型与现有系统的对比，并展示了引人注目的性能
-* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551) - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (Winner of The Best Open Source Software Award of ACM MM 2017)
+* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551)  - 本文描述了一个多功能 Python 库，旨在帮助研究人员和工程师有效地开发深度学习系统.  （ACM MM 2017 最佳开源软件奖获得者）
 
 <a name="blogs" />
 
 ## Official announcements
 
 * [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - TensorFlow 简介
-* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - 发布 SyntaxNet，“一个在 TensorFlow 中实现的开源神经网络框架，为自然语言理解系统提供了基础.
+* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
 
 ## Blog posts
 * [Official Tensorflow Blog](http://blog.tensorflow.org/)
@@ -234,6 +236,7 @@
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow)  ——鲁道夫·波宁. 这本书涵盖了 TensorFlow 中的各种项目，这些项目揭示了 TensorFlow 在不同场景中可以做什么. 本书提供了有关训练模型、机器学习、深度学习和使用各种神经网络的项目. 每个项目都是一个引人入胜且富有洞察力的练习，它将教您如何使用 TensorFlow，并向您展示如何通过使用张量来探索数据层.
 * [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059)  - 郝东等人. 本书涵盖了深度学习和使用 TensorFlow 和 TensorLayer 的实现.
 * [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action)  - 苏珊·甘尼格达拉着. 这本使用 TensorFlow 2.0 的新功能构建深度学习模型的实用指南充满了引人入胜的项目、简单的语言和最新算法的覆盖面.
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)  - 由卡梅伦戴维森 - 皮隆. 使用 tensorflow-probability（或者 PyMC2/3）介绍贝叶斯方法和概率图形模型. 
 
 
 

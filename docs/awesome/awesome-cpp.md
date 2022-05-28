@@ -45,7 +45,7 @@
 * [Reason](http://code.google.com/p/reason/)  - 一个跨平台框架，旨在为需要 C++ 性能和强度的开发人员带来 Java、.Net 或 Python 的易用性.  [GPL2]
 * [ROOT](https://root.cern.ch/)  - 一组 OO 框架，具有以非常有效的方式处理和分析大量数据所需的所有功能. 在欧洲核子研究中心使用.  [LGPL]
 * [Seastar](https://github.com/scylladb/seastar)  - 用于现代硬件上的高性能服务器应用程序的高级开源 C++ 框架.  [Apache-2.0 许可证] [seastar.io](http://seastar.io/)
-* [STLport](http://www.stlport.org/)  - STL 的示例版本.  [自由]
+* [STLport](http://www.stlport.org/)  - STL 的示例版本.  [自由的]
 * [STXXL](http://stxxl.sourceforge.net/)  - 超大数据集的标准模板库.  [促进]
 * [tbox](https://github.com/tboox/tbox)  - 一个类似 glib 的多平台 c 库.  [阿帕奇2] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/)  - C++ 跨平台快速应用开发框架.  [BSD]
@@ -60,7 +60,7 @@
 * [Evolving Objects](http://eodev.sourceforge.net/)  - 基于模板的 ANSI-C++ 进化计算库，可帮助您快速编写自己的随机优化算法.  [LGPL]
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep)  - 仅用于在 C++ 中使用 Keras 模型的标头库.  [麻省理工学院]
 * [Genann](https://github.com/codeplea/genann) - C 中的简单神经网络库.[zlib]
-* [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、变异感知的数据流 Dep 调度器； 适用于 Python、R、Julia、Scala、Go、Javascript 等 [website](https://mxnet.apache.org)
+* [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、突变感知的数据流 Dep 调度器； 适用于 Python、R、Julia、Scala、Go、Javascript 等 [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - Python 中的张量和动态神经网络，具有强大的 GPU 加速功能. [website](https://pytorch.org)
 * [flashlight](https://github.com/flashlight/flashlight)  - Flashlight 是一个快速、灵活的机器学习库，完全用 C++ 编写.  [BSD]
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation)  - (3D) 导航网格生成器和探路者，主要用于游戏.  [zlib]
@@ -182,7 +182,7 @@
 * [LZHAM](https://code.google.com/p/lzham/)  - 无损数据压缩库，压缩比与 LZMA 类似，但解压速度更快.  [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html)  :zap: - 7z 格式的默认和通用压缩方法.  [公共区域]
 * [LZMAT](http://www.matcode.com/lzmat.htm)  - 一个极快的实时无损数据压缩库.  [通用公共许可证]
-* [miniz](https://github.com/richgel999/miniz)  - 单个 C 源文件 Deflate/Inflate 压缩库，具有与 zlib 兼容的 API、ZIP 归档读取/写入、PNG 写入.  [麻省理工学院]
+* [miniz](https://github.com/richgel999/miniz)  - 单个 C 源文件 Deflate/Inflate 压缩库，具有与 zlib 兼容的 API、ZIP 存档读取/写入、PNG 写入.  [麻省理工学院]
 * [Minizip](https://github.com/nmoinvaz/minizip)  - Zlib 具有支持 PKWARE 磁盘跨越、AES 加密和 IO 缓冲的最新错误修复.  [zlib]
 * [smaz](https://github.com/antirez/smaz)  - 小字符串压缩库.  [BSD]
 * [Snappy](https://google.github.io/snappy/)  - 一个快速的压缩器/解压器.  [BSD]
@@ -433,7 +433,7 @@
 
 ## Graphics
 
-* [assimp](https://github.com/assimp/assimp)  - 开放资产导入库 (assimp) 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供通用 API.  [BSD-3-条款] [website](http://www.assimp.org)
+* [assimp](https://github.com/assimp/assimp)  - Open Asset Import Library (assimp) 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供通用 API.  [BSD-3-条款] [website](http://www.assimp.org)
 * [bgfx](https://github.com/bkaradzic/bgfx)  - 一个跨平台的渲染库.  [BSD]
 * [Blend2D](https://github.com/blend2d/blend2d)  - 由 JIT 编译器驱动的 2D 矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  - 用于开发实时图形应用程序的现代 C++14 库.  [麻省理工学院]
@@ -482,7 +482,7 @@
 * [OpenEXR](http://www.openexr.com/)  - 用于高动态范围成像的跨平台库.  [修改后的 BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)  - 强大的图像和纹理处理库，支持多种常见的有损和 RAW 格式.  [修改后的 BSD]
 * [SAIL](https://github.com/happy-sea-fox/sail)  - 易于使用的跨平台图像解码库，带有可插拔的图像编解码器.  [麻省理工学院]
-* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)，用于 ARM 的 NEON.  [麻省理工学院]
+* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)、NEON for ARM.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  - STB 单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  - OCR 引擎.  [阿帕奇2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)  - 适用于 JPEG 的符合 ISO 标准的微型 C++ EXIF 和 XMP 解析库.  [麻省理工学院]
@@ -575,7 +575,7 @@
 * [darknet](https://github.com/pjreddie/darknet)  - 用 C 和 CUDA 编写的开源神经网络框架.  [公共区域] [website](https://pjreddie.com/darknet/)
 * [Dlib](https://github.com/davisking/dlib)  :zap: - 现代 C++11 机器学习、计算机视觉、数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Fido](https://github.com/FidoProject/Fido)  - 用于嵌入式电子和机器人技术的高度模块化 C++ 机器学习库.  [麻省理工学院] [website](http://fidoproject.github.io/)
-* [flashlight](https://github.com/facebookresearch/flashlight)  - 来自 Facebook AI Research 的快速、灵活的机器学习库，完全用 C++ 编写，基于 ArrayFire 张量库.  [BSD-3-条款] [website](https://fl.readthedocs.io/en/latest/)
+* [flashlight](https://github.com/facebookresearch/flashlight)  - 来自 Facebook AI Research 的快速、灵活的机器学习库，完全用 C++ 编写并基于 ArrayFire 张量库.  [BSD-3-条款] [website](https://fl.readthedocs.io/en/latest/)
 * [libsvm](https://github.com/cjlin1/libsvm)  - 一个简单、易用、高效的支持向量机库.  [BSD-3-条款] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen)  - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖关系的本机 C 代码.  [麻省理工学院]
 * [MeTA](https://github.com/meta-toolkit/meta)  - 现代 C++ 数据科学工具包.  [麻省理工学院] [website](https://meta-toolkit.org/)
@@ -583,6 +583,7 @@
 * [mlpack](https://github.com/mlpack/mlpack)  - 一个可扩展的 c++ 机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
 * [OpenCV](https://github.com/Itseez/opencv)  :zap: - 开源计算机视觉库.  [BSD] [website](http://opencv.org/)
 * [oneDAL](https://github.com/oneapi-src/oneDAL)  - 一个强大的机器学习库，有助于加快大数据分析.  [阿帕奇]
+* [ONNX runtime](https://github.com/microsoft/onnxruntime)  - 用于训练和推理 ONNX 模型的 C 和 C++ 库.  ONNX 是 AI 模型可以转换成的标准，无论它们使用什么库进行训练.  [麻省理工学院] [website](https://onnxruntime.ai/)
 * [Recommender](https://github.com/GHamrouni/Recommender)  - 使用协同过滤 (CF) 进行产品推荐/建议的 C 库.  [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib)  - RNNLIB 是一个用于序列学习问题的循环神经网络库.  [GPLv3]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)  - Shogun 机器学习工具箱.  [GPLv3]
@@ -638,7 +639,7 @@
 * [memory](https://github.com/foonathan/memory)  - STL 兼容的 C++ 内存分配器库.  [ZLib]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators)  - 自定义内存分配器以提高动态内存分配的性能.  [麻省理工学院]
 * [mimalloc](https://github.com/microsoft/mimalloc)  - 具有出色性能的紧凑型通用分配器.  [麻省理工学院]
-* [rpmalloc](https://github.com/mjansson/rpmalloc) - 跨平台无锁线程缓存用 C 实现的 16 字节对齐内存分配器.[PublicDomain]
+* [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐的内存分配器.[PublicDomain]
 * [snmalloc](https://github.com/microsoft/snmalloc)  - 基于消息传递的高性能分配器.  [麻省理工学院]
 * [TCMalloc](https://github.com/google/tcmalloc)  - Google 的快速、多线程 malloc 实现.  [Apache-2.0] [website](https://google.github.io/tcmalloc/)
 * [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的小型垃圾收集器.  [BSD]
@@ -704,7 +705,7 @@
 * [Tufão](https://github.com/vinipsmaker/tufao)  - 基于 Qt 构建的 C++ 异步 Web 框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  - 严格符合 RFC 3986 的 URI 解析和处理库.  [BSD-3-条款]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  - µWS 是可用的最轻量级、最高效和可扩展的 WebSocket 和 HTTP 服务器实现之一.  [Zlib]
-* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻软件平台，用于可扩展的服务器端和网络应用程序. 想想 C 程序员的 node.js.  [GPL2]
+* [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻型软件平台，用于可扩展的服务器端和网络应用程序. 想想 C 程序员的 node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)  - 用于构建异步、事件驱动的现代 C++ 服务的客户端/服务器应用程序框架.  [Apache-2.0]
 * [wdt](https://github.com/facebook/wdt)  - 一个嵌入式库（和命令行工具），旨在通过多个 TCP 路径在 2 个系统之间尽可能快地传输数据.  [BSD-3-条款]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp)  - 基于 C++/Boost Asio 的 websocket 客户端/服务器库.  [BSD]
@@ -1003,7 +1004,7 @@
 * [Microsoft Visual Studio](https://www.visualstudio.com/) - 来自 Microsoft 的 IDE.
 * [Microsoft Visual Studio Code](https://code.visualstudio.com/)  :zap: - 来自 Microsoft 的开源 IDE.  [麻省理工学院]
 * [NetBeans](https://netbeans.org/) - 一个主要使用 Java 进行开发的 IDE，也可以使用其他语言进行开发，特别是 PHP、C/C++ 和 HTML5.
-* [Qt Creator](http://www.qt.io/developers/) :zap: - 一个跨平台的 C++、JavaScript 和 QML IDE，它是 Qt SDK 的一部分.
+* [Qt Creator](http://www.qt.io/developers/) :zap: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt.
 * [rtags](https://github.com/Andersbakken/rtags) - 一个 c/c++ 客户端/服务器索引器，用于与基于 clang 的 emacs 集成.
 * [Xcode](https://developer.apple.com/xcode/) - 由苹果公司开发.
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - YouCompleteMe 是一个快速的、随你输入的、用于 Vim 的模糊搜索代码完成引擎.
@@ -1013,7 +1014,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -1025,7 +1026,7 @@
 * [MesonBuild](http://mesonbuild.com) - 一个开源构建系统意味着非常快速，更重要的是，尽可能用户友好.
 * [Ninja](https://ninja-build.org/) - 一个专注于速度的小型构建系统.
 * [Scons](http://www.scons.org/) - 使用 Python 脚本配置的软件构建工具.
-* [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
+* [Sconsolidator](http://www.sconsolidator.com/) - Scons 为 Eclipse CDT 构建系统集成.
 * [Spack](https://spack.io/)  - 一个灵活的包管理器，支持多个版本、配置、平台和编译器.  [Apache-2.0/MIT]
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.
@@ -1039,7 +1040,7 @@
 *通过代码分析提高质量和减少缺陷的工具列表*
 
 * [Cppcheck](http://cppcheck.sourceforge.net/)  - 用于静态 C/C++ 代码分析的工具.  - [source](https://github.com/danmar/cppcheck)
-* [CppDepend](https://www.cppdepend.com/) - 通过分析和可视化代码依赖关系、定义设计规则、进行影响分析和比较不同版本的代码，简化复杂 C/C++ 代码库的管理.
+* [CppDepend](https://www.cppdepend.com/) - Simplifies managing a complex C/C++ code base by analyzing and visualizing code dependencies, by defining design rules, by doing impact analysis, and comparing different versions of the code.
 * [cpplint](https://github.com/cpplint/cpplint) - 遵循 Google 的 C++ 样式指南的 C++ 样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
@@ -1135,7 +1136,7 @@
 
 * [Standard C++](https://isocpp.org/) :zap: - 关于标准 C++ 的新闻、状态和讨论.
 * [CppCon](http://cppcon.org/) - C++ 会议.
-* [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+* [C++ reference](http://cppreference.com/) - C++98、C++03、C++11、C++14 参考.
 * [C++ by Example](http://www.cbyexample.com/) - 通过示例学习 C++.
 * [cplusplus.com](http://www.cplusplus.com/) - C++ 资源网络.
 * [C FAQ](http://c-faq.com/) -C 常见问题.

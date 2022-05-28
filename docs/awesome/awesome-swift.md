@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1087 |  2022 年 5 月 27 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1088 |  2022 年 5 月 28 日
 
 
 
@@ -173,7 +173,7 @@
 *帮助动画的库* [back to top](#readme) 
 
 * [Advance](https://github.com/timdonnelly/Advance) - 适用于 iOS、tvOS 和 OS X 的强大动画框架.
-* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView) - 精美的两级集合视图布局和动画.
 * [Comets](https://github.com/cruisediary/Comets) - 动画粒子.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - 易于阅读和编写可链接的动画.
 * [Ease](https://github.com/roberthein/Ease) - 轻松动画一切.
@@ -195,7 +195,7 @@
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 在屏幕上编排动画.
 * [Stellar](https://github.com/AugustRush/Stellar) - 物理动画库.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation)  - 类型安全的 CAAnimation 包装器. 它可以防止设置错误的类型值.
-* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - 只需一行代码，即可让您的 UI 栩栩如生.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
 * [YapAnimator](https://github.com/yapstudios/YapAnimator) - 您快速友好的基于物理的动画系统.
 
 ### API
@@ -540,7 +540,7 @@
 * [Dip](https://github.com/AliSoftware/Dip) - 一个简单的依赖注入容器.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) - 宁静的依赖注入框架.
 * [Locatable](https://github.com/vincent-pradeilles/locatable) - 一个利用属性包装器来实现服务定位器模式的微框架.
-* [Pure](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
+* [Pure](https://github.com/devxoul/Pure) - 一种在没有 DI 容器的情况下进行依赖注入的方法.
 * [Swinject](https://github.com/Swinject/Swinject) - 依赖注入框架.
 * [Typhoon](https://github.com/appsquickly/Typhoon) - 依赖注入工具包.
 * [Weaver](https://github.com/scribd/Weaver) - 一个声明性、易于使用和安全的依赖注入框架.
@@ -784,7 +784,7 @@
 * [CGLayout](https://github.com/k-o-d-e-n/CGLayout) :penguin: - 强大的自动布局框架，可以管理 UIView(NSView)、CALayer、未渲染视图等.提供占位符.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的 Facebook 瑜伽 Flexbox 实现的漂亮和干净的界面.
 * [Grid](https://github.com/exyte/Grid) - SwiftUI 中最强大的 Grid 容器.
-* [LayoutKit](https://github.com/LinkedInAttic/LayoutKit) - LayoutKit 是适用于 iOS、macOS 和 tvOS 的快速视图布局库.
+* [LayoutKit](https://github.com/LinkedInAttic/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
 * [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - 编写更少的 UI 代码.
 * [Neon](https://github.com/mamaral/Neon) - 一个强大的程序化 UI 布局框架.
 * [PinLayout](https://github.com/layoutBox/PinLayout)  - 没有自动布局的快速视图布局. 没有魔法，纯代码，完全控制和超快. 简洁的语法，直观，可读和可链接.  [iOS/macOS/tvOS]
@@ -831,7 +831,7 @@
 [back to top](#readme) 
 
 * [AsyncLocationKit](https://github.com/AsyncSwift/AsyncLocationKit) - Apple CoreLocation 框架与现代并发 Swift (async/await) 的包装器.
-* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - 优雅而简单的 3D 天桥位置请求屏幕.
 
 ### Logging
 *用于写入和读取设备日志的实用程序* [back to top](#readme) 
@@ -952,7 +952,7 @@
 * [Ambassador](https://github.com/envoy/Ambassador) - 基于 SWSGI 的超轻量级 Web 框架.
 * [Corvus](https://github.com/apodini/corvus) :penguin: - 使用声明性语法构建 REST API 的 Web 框架.
 * [Curassow](https://github.com/kylef-archive/Curassow) :penguin: - 使用 pre-fork worker 模型的 HTTP 服务器.
-* [Embassy](https://github.com/envoy/Embassy) :penguin: - 超轻量级异步 HTTP 服务器库.
+* [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Kitura](https://github.com/Kitura/Kitura) :penguin: - IBM 的 Web 框架和 Web 服务服务器.
 * [Lightning](https://github.com/skylab-inc/Lightning) :penguin: - 多平台单线程非阻塞 Web 和网络框架.
 * [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - 事件 I/O 流，如 Node.js.
@@ -1146,7 +1146,7 @@
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) - 面向协议、类型安全、可扩展的 iOS 设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) - 适用于 iOS 的 Material Design 下拉菜单.
 * [Element](https://github.com/eonist/Element) - macOS 的程序化 UI 框架.
-* [Elissa](https://github.com/KitchenStories/Elissa) - 在 UITabBarItem 或任何 UIView 锚视图顶部显示通知以显示其他信息.
+* [Elissa](https://github.com/KitchenStories/Elissa) - Displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) - 音乐播放指示器，如 iTunes.
 * [Family](https://github.com/zenangst/Family) - 一个子视图控制器框架，使您的父控制器的设置变得像馅饼一样简单.
 * [FAQView](https://github.com/mukeshthawani/faqview) - 适用于 iOS 的易于使用的常见问题解答视图.
@@ -1155,7 +1155,7 @@
 * [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - 响应 UIScrollView 滚动的容器视图.
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - 浮动评级系统.
 * [Fluid Slider](https://github.com/Ramotion/fluid-slider) - 带有弹出气泡的滑块小部件，显示所选的精确值.
-* [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
+* [GaugeKit](https://github.com/skywinder/GaugeKit)  - 可定制的仪表. 轻松重现 Apple 的风格仪表.
 * [Geometry](https://github.com/artman/Geometry) - UIView 的扩展.
 * [GMStepper](https://github.com/gmertk/GMStepper) - 中间有滑动标签的步进器.
 * [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - 动画渐变进度条.
@@ -1414,6 +1414,7 @@
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - 一个高度可定制的 TabBarController 组件，继承自 UITabBarController.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) - 轻量级的自定义标签栏视图.
 * [PolioPager](https://github.com/YuigaWada/PolioPager) - 一个灵活的 TabBarController，带有像 SNKRS 这样的搜索选项卡.
+* [TabBar](https://github.com/onl1ner/TabBar) - 用于 SwiftUI 应用程序的高度可定制的标签栏.
 * [Tabman](https://github.com/uias/Tabman) - 一个功能强大的带有指示条的分页视图控制器.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - 分页视图控制器和滚动选项卡视图.
 
@@ -1431,7 +1432,7 @@
 * [DTTextField](https://github.com/iDhaval/DTTextField) - DTTextField 是一个带有浮动占位符和错误标签的自定义文本字段.
 * [FloatingLabelTextFieldSwiftUI](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI 是一个小而轻的 SwiftUI 框架，完全用 SwiftUI（不使用 UIViewRepresentable）编写，允许创建漂亮且可自定义的浮动标签文本字段！
 * [HTYTextField](https://github.com/hanton/HTYTextField) - 带有弹性占位符的 UITextField.
-* [iTextField ⌨️](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
+* [iTextField ⌨️](https://github.com/benjaminsage/iTextField) - 一个完全包装的 `UITextField` 完全在 SwiftUI 中工作.
 * [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - 带有可切换图标的自定义文本字段，可显示或隐藏密码并执行良好的密码策略.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - “浮动标签模式”的美观灵活的文本字段控件实现.
 * [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) - 声明式构建和快速渲染属性字符串库.
@@ -1604,7 +1605,7 @@
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - 适用于 iOS 的基于模式的用户输入格式化程序、解析器和验证器.
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单、可扩展、灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
-* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - iOS 的字符串验证（受 validator.js 启发）.
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
 * [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - 使用属性包装器轻松验证您的属性.
 * [Validator](https://github.com/adamwaite/Validator) - 为您的 iOS 应用程序添加用户输入验证.
 
