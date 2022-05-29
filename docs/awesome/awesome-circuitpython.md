@@ -39,7 +39,7 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - Circuit Playground Express 的介绍和讨论，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
+- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - 介绍和讨论 Circuit Playground Express，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)  - 本书帮助您开始使用 CircuitPython 开发. 本书使用 Adafruit ItsyBitsy M0 Express 板进行开发.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 将于 2019 年 9 月从 [TechBookFest](https://techbookfest.org/).
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论 MicroPython 语言.
@@ -64,7 +64,7 @@
 - [Tod Kurt's CircuitPython Tips and Tricks](https://github.com/todbot/circuitpython-tricks)  - CircuitPython 的提示和技巧集合. 也可作为 Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
 ## Frameworks
 
-- [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - 亦是 [video](https://youtu.be/NYpcjDBA6xw)， 开发中.
+- [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - 也 [video](https://youtu.be/NYpcjDBA6xw)， 开发中.
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - CircuitPython 推荐的 Python 编辑器.
 - [For developers, Mu: A Python Code Editor](https://mu.readthedocs.io/en/latest/) - Mu 的文档.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - 讨论该过程的博客文章.
@@ -73,6 +73,7 @@
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Visual Studio Code 中的 Virtual Circuit Playground Express 和 CircuitPython 编程.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/)  - 专为 Chromebook 设计的浏览器内编辑器. 适用于几乎任何可以运行基于 Chromium 的浏览器的计算机.
 - [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - VS Code 的全功能扩展，可自动下载最新的 CircuitPython 包，包括访问串行控制台和自动完成.
+- [PewPew workshops](https://pewpew.rtfd.io) - 以最少的问题运行 Python 游戏编程和电子研讨会的材料、示例、库和硬件.
 
 ## Hardware
 
@@ -130,7 +131,7 @@
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.com/articles/adafruit-circuit-playground-express-review) - Raspberry Pi 评论 Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) - 对斯科特·肖克罗夫特的采访.
 - [CircuitPython on Hackaday](https://hackaday.com/blog/?s=circuitpython) - 与 CircuitPython 相关的 Hackaday 帖子.
-- [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - hackster.io 上与 CircuitPython 相关的帖子.
+- [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - Posts on hackster.io related to CircuitPython.
 - [CircuitPython on MAKE](https://makezine.com/?s=circuitpython) - 关于 MAKE 的 CircuitPython 相关内容.
 
 ## Art
@@ -139,7 +140,7 @@
 
 ## Social
 
-- [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah) - Twitter posts tagged CircuitPython.
+- [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah) - Twitter 帖子标记为 CircuitPython.
 - [CircuitPython Twitter](https://twitter.com/circuitpython) - 用于 CircuitPython 新闻等的 Twitter 帐户聚合器.
 - [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython) - YouTube 帖子标记为 CircuitPython.
 - [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Instagram 上的帖子标记为 CircuitPython.
@@ -180,7 +181,7 @@
 - [CircuitPython 入门](https://youtu.be/kVDFoyLCqXU) - CircuitPython程序！CircuitPython入门级中文教程01：从零到Hello World（YouTube）.
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 通过开源、热情和指导改变生活，Kattni Rembor 在 PyOhio 2019 上的主题演讲.
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython：Dave Astels 在加拿大 PyCon 的硬件 Python.
-- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Ayan Pahwa 在 FOSSASIA 峰会上为所有人使用 MicroPython 和 CircuitPython 进行嵌入式编程.
+- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) - Ayan Pahwa 在 FOSSASIA 峰会上为每个使用 MicroPython 和 CircuitPython 的人提供嵌入式编程.
 - [EuroPython 2019 talk video: Nicholas Tollervey – Tools of the Trade: The Making of a Code Editor](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-nicholas-tollervey-tools-of-the-trade-the-making-of-a-code-editor-python-circuitpython-europython-ntoll/) - 尼古拉斯·托勒维.
 - [EuroPython 2019 talk video: Radomir Dopieralski – Game Development with CircuitPython](https://blog.adafruit.com/2019/10/01/europython-2019-talk-video-radomir-dopieralski-game-development-with-circuitpython-cirecuitpython-europython-deshipu/) - 拉多米尔·多皮拉尔斯基.
 - [Extending MicroPython: Using C for good](https://www.youtube.com/watch?v=437CZBnK8vI)  - 了解如何扩展 MicroPython 以添加功能并提高性能. 作者：澳大利亚 PyCon 的 Matt Trentini.
@@ -203,7 +204,7 @@
 
 ### Contribution Workflow Overview
 
-1. Fork [this repository](https://github.com/adafruit/awesome-circuitpython) 在 GitHub 上.
+1. 叉子 [this repository](https://github.com/adafruit/awesome-circuitpython) 在 GitHub 上.
 1. 将分叉的 repo 克隆到您的驱动器.
 1. 使用所有者 adafruit 和原始 URL 添加一个遥控器.
 1. 取遥控器.

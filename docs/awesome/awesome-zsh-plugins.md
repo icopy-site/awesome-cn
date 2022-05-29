@@ -36,7 +36,7 @@ ZSH 框架、插件、教程和主题的集合，灵感来自各种很棒的列�
 
 ### [ansible-role-zsh](https://github.com/viasite-ansible/ansible-role-zsh)
 
- **ansible-role-zsh** 是一个零知识安装的 ansible 角色. 它用 [antigen](https://github.com/zsh-users/antigen) 管理捆绑包和 [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/ohmyz.sh) . 可以有条件地加载包. 默认情况下，它包括 powerlevel9k 主题、自动建议、语法高亮和 [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) 和 [fzf-marks](https://github.com/urbainvaes/fzf-marks) . 完全可定制.
+ **ansible-role-zsh** 是一个零知识安装的 ansible 角色. 它用 [antigen](https://github.com/zsh-users/antigen) 管理捆绑包和 [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/ohmyz.sh) . 可以有条件地加载包. 默认情况下，它包括 powerlevel9k 主题、自动建议、语法高亮和 [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) 和 [fzf-marks](https://github.com/urbainvaes/fzf-marks). Fully customizable.
 
 ### [ant-zsh](https://github.com/anthraxx/ant-zsh)
 
@@ -172,7 +172,7 @@ ZSH 微插件管理器.
 
 ZSH 的轻量级插件管理器，它是一个扩展了辉煌的分支 [zgen](https://github.com/tarjoilija/zgen) 并提供更多功能和错误修复，同时完全向后兼容.
 
-为了在新的终端会话期间保持快速加载，`zgenom` 会生成一个静态的 `init.zsh` 文件，它只会获取您的插件并将它们附加到您的 `fpath` 中.
+为了在新的终端会话期间保持快速加载，`zgenom` 会生成一个静态的 `init.zsh` 文件，它除了获取插件并将它们附加到您的 `fpath` 之外什么都不做.
 
 这通过在每个 shell 会话启动期间不必执行耗时的逻辑（插件检查、更新等）来最小化启动时间. 不利的一面是，每当您更新 `.zshrc` 中的插件列表时，都必须使用 `zgenom reset` 手动刷新 init 脚本.
 
@@ -199,7 +199,7 @@ Zgenom 可以加载 [oh-my-zsh](http://ohmyz.sh/)-兼容和 [prezto](https://git
  - Turbo 模式 – ZSH 启动速度提高 80%！ 例如：不是 200 毫秒，而是 40 毫秒
 - 完成管理（有选择地禁用和启用完成）
 - 片段（↔ 通过 URL 下载的常规文件，例如：脚本）并通过它们 Oh My Zsh 和 Prezto 插件支持（→ 低开销）
-- 附件（↔ Zinit 扩展）
+- Annexes (↔ Zinit extensions)
 - 报告（来自插件加载 - 插件不再是黑匣子）
 - 插件卸载（允许例如：动态主题切换）
 - `bindkey` 捕获和重新映射
@@ -384,12 +384,12 @@ Znap 可以：
 #### [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
   - `ConEmu`/`zsh` 开箱即用配置为在 `ConEmu` 重启后恢复以前打开的选项卡和 shell 工作目录
-  - 开始新的 SuperConsole 会话时在干净和继承的环境之间进行选择
+  - Choose between clean and inherited environment when starting new SuperConsole sessions
   - 自定义彩色方案，各种命令的彩色输出
   - 包括`MSYS2`，`zsh`和预装的必要软件，使用zsh-grml-config
   - 用途 [Antigen](https://github.com/zsh-users/antigen) 用于 ZSH 主题和配置管理
   - 启用了许多 ZSH 插件来激活完成、突出显示和历史记录，以便最舒适地使用
-  - 为 `MSYS2` 环境配置了正确的 `git` 和 `git lfs` 支持的 Git-for-Windows 存储库，`git` 客户端已经安装.
+  - 为 `MSYS2` 环境配置了正确的 `git` 和 `git lfs` 支持的 Git-for-Windows 存储库，已经安装了 `git` 客户端.
   - `git` 的 `ssh-agent` 开箱即用，将您的密钥添加到 `ConEmu/msys64/ConEmu/msys64/home/user/.ssh` 目录
   - 非阻塞 ZSH 提示状态更新感谢 [agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt)
   - 为“MSYS2”定制的 Command-not-found 处理程序建议安装什么包
@@ -422,7 +422,7 @@ Znap 可以：
 - [apparix](https://github.com/micans/apparix) - 带有跳转到书签、子目录选项卡完成、远程列表等的命令行目录书签.
 - [apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) - 添加 MacBook Pro 触控栏支持 [iTerm 2](https://iterm2.com).
 - [appup](https://github.com/Cloudstek/zsh-plugin-appup)  - 当在当前目录（例如您的应用程序）中检测到 `docker-compose.yml` 或 `Vagrantfile` 时添加 `start`、`stop`、`up` 和 `down` 命令. 只需运行 `up` 并开始编码！
-- [arc](https://github.com/anton-rudeshko/zsh-arc) - 为 Yandex 版本控制系统添加别名.
+- [arc](https://github.com/anton-rudeshko/zsh-arc) - Adds aliases for Yandex version control system.
 - [arduino](https://github.com/raghur/zsh-arduino)  - 添加脚本以从命令行构建、上传和监控 arduino 草图. 需要 [`jq`](https://stedolan.github.io/jq/).
 - [artisan](https://github.com/jessarcher/zsh-artisan) - 用于 ZSH 的 Laravel `artisan` 插件可帮助您从项目树中的任何位置运行 `artisan`，并通过选项卡完成！
 - [asciidoctor](https://github.com/sparsick/asciidoctor-zsh) - AsciiDoctor 的插件.
@@ -432,7 +432,7 @@ Znap 可以：
 - [assume-role](https://github.com/weizard/assume-role)  - ZSH 插件可让您轻松承担 AWS IAM 角色. 包括完成.
 - [async](https://github.com/mafredri/zsh-async)  - 在 ZSH 中运行异步任务的库，无需任何外部工具. 允许您运行多个异步作业，强制执行唯一作业（同一作业的多个实例不会运行），刷新所有当前正在运行的作业并创建多个工作人员（每个工作人员都有自己的工作）.
 - [atom-plugin](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - 基于 [Sublime](https://github.com/valentinocossar/sublime) 插件，可让您在其中启动文件或文件夹 [Atom](https://atom.io) 从 [iTerm 2](https://iterm2.com).
-- [atuin](https://github.com/ellie/atuin)  - 用 SQLite 数据库替换你现有的 shell 历史，并为你的命令记录额外的上下文. 此外，它还通过 Atuin 服务器在机器之间提供可选且完全加密的历史同步.
+- [atuin](https://github.com/ellie/atuin)  - 用 SQLite 数据库替换你现有的 shell 历史，并为你的命令记录额外的上下文. 此外，它还可以通过 Atuin 服务器在机器之间提供可选且完全加密的历史同步.
 - [aur-install](https://github.com/redxtech/zsh-aur-install) - 从 AUR 安装软件包的小插件.
 - [auto-color-ls](https://github.com/gretzky/auto-color-ls) - 使用“colorls”自动列出目录.
 - [auto-fortune-cowsay](https://github.com/babasbot/auto-fortune-cowsay-zsh) - 打印出一头牛的 ASCII 图片，在每个 zsh 开始时说一句随机警句.
@@ -467,7 +467,7 @@ Znap 可以：
 - [azure-subscription](https://github.com/dmakeienko/azure-subscription-prompt) - 显示有关 Azure 当前订阅和租户的信息.
 - [backcountry](https://github.com/jvzaniolo/zsh-backcountry) - 管理偏远地区的项目.
 - [background](https://github.com/zpm-zsh/background) - 在后台执行功能的 ZSH 插件.
-- [base16](https://github.com/chriskempson/base16-shell)  - 添加脚本以允许您更改 shell 的默认 ANSI 颜色，但最重要的是，更改 shell 的 256 色空间的 17 到 21 色（如果您的终端支持）. 这个脚本可以在为应用程序提供额外的 base16 颜色的同时，尊重 shell 的原始明亮颜色（例如，亮绿色仍然是绿色等等） [Vim](https://www.vim.org).
+- [base16](https://github.com/chriskempson/base16-shell)  - 添加脚本以允许您更改 shell 的默认 ANSI 颜色，但最重要的是，更改 shell 的 256 色空间的颜色 17 到 21（如果您的终端支持）. 这个脚本可以在为应用程序提供额外的 base16 颜色的同时，尊重 shell 的原始明亮颜色（例如，亮绿色仍然是绿色等等） [Vim](https://www.vim.org).
 - [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts)  - 在你的外壳中打印随机棒球相关的“有趣的事实”. 取决于安装的 `fortune` 和 `cowsay`.
 - [basex](https://github.com/dirkk/zsh-basex) - 增加了几个 [BaseX](http://basex.org/) 简化使用的别名.
 - [bash-quote](https://github.com/jtprog/bash-quote) - 从 Bash.im 获取随机报价.
@@ -610,7 +610,7 @@ Znap 可以：
 - [favorite-directories](https://github.com/seletskiy/zsh-favorite-directories) - 快速跳转到您最喜欢的目录.
 - [fd](https://github.com/aubreypwd/zsh-plugin-fd) - 利用 [fzf](https://github.com/junegunn/fzf) 浏览目录.
 - [figures](https://github.com/zpm-zsh/figures) - ZSH 的 Unicode 符号.
-- [firebase (Seqi)](https://github.com/Seqi/firebase-zsh) - 在 Firebase 项目目录或子目录中时显示当前工作项目或项目别名.
+- [firebase (Seqi)](https://github.com/Seqi/firebase-zsh) - 在 Firebase 项目目录或子目录中显示当前工作项目或项目别名.
 - [firebase (rmrs)](https://github.com/rmrs/firebase-zsh) - 在提示中添加一个指示符，表明您位于具有 `firebase.json` 文件（又名“firebase 项目”）的目录中.
 - [fixnumpad-osx](https://github.com/zackintosh/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh) - 使 Apple 键盘的数字键能够在 ZSH 中被识别.
 - [flow-plugin](https://github.com/sandstorm/oh-my-zsh-flow-plugin) - 这个插件在 TYPO3 Flow 发行版的每个子目录中都可以使用 `flow` 命令.
@@ -619,7 +619,7 @@ Znap 可以：
 - [functional](https://github.com/Tarrasch/zsh-functional) - ZSH 高阶函数.
 - [fuzzy-search-and-edit](https://github.com/seletskiy/zsh-fuzzy-search-and-edit) - ZSH 插件用于模糊搜索文件并在匹配的行上立即打开匹配的文件.
 - [fuzzy-wd](https://github.com/spodin/zsh-fuzzy-wd) - 添加模糊搜索扭曲的目录 [WD](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/wd) 插入.
-- [fz](https://github.com/changyuheng/fz) - Seamlessly adds fuzzy search to [z](https://github.com/rupa/z)的选项卡完成，让您轻松地在历史记录中的目录之间跳转.
+- [fz](https://github.com/changyuheng/fz) - 无缝添加模糊搜索 [z](https://github.com/rupa/z)的选项卡完成，让您轻松地在历史记录中的目录之间跳转.
 - [fzf (unixorn)](https://github.com/unixorn/fzf-zsh-plugin/tree/master) - 启用 [fzf](https://github.com/junegunn/fzf) 历史和文件搜索.
 - [fzf-fasd](https://github.com/wookayin/fzf-fasd) - 整合 [fzf](https://github.com/junegunn/fzf) 和 [fasd](https://github.com/clvv/fasd) --- 使用 fzf 的模糊搜索完成 `z` 的制表符！
 - [fzf-finder](https://github.com/leophys/zsh-plugin-fzf-finder) - 插件有一个很酷的搜索键绑定 [fzf](https://github.com/junegunn/fzf) 和（可选） [bat](https://github.com/sharkdp/bat) 和 [fd](https://github.com/sharkdp/fd). Falls back to `find` 和 `cat`. Searches in the local tree of subdirectories for files.
@@ -693,7 +693,7 @@ Znap 可以：
 - [grunt-plugin](https://github.com/clauswitt/zsh-grunt-plugin) - 为 `grunt` 添加自动完成功能.
 - [gsh](https://github.com/cjayross/gsh) - `git` 的辅助函数集合
 - [gtm-terminal-plugin](https://github.com/git-time-metric/gtm-terminal-plugin) - 终端插件 [git time metrics](https://github.com/git-time-metric/gtm/blob/master/README.md).
-- [gtr](https://github.com/Zocker1999NET/zsh-gtr) - 允许使用标签名称 **release-YYYY-MM-DD-HH-MM*- 和标题 **Release YYYY-MM-DD HH:MM** 在 git 中快速标记发布.
+- [gtr](https://github.com/Zocker1999NET/zsh-gtr) - 允许在 git 中使用标签名称 **release-YYYY-MM-DD-HH-MM*- 和标题 **Release YYYY-MM-DD HH:MM** 快速标记发布.
 - [guish](https://github.com/gcarrarom/oh-my-guish) - 实用函数和别名的集合.
 - [gumsible](https://github.com/Lowess/gumsible-oh-my-zsh-plugin) - 包装器插件 [Molecule](https://molecule.readthedocs.io/en/latest/index.html).
 - [gunstage](https://github.com/LucasLarson/gunstage)  - 至少有八种方法可以在 `git` 存储库中取消暂存文件. 这是一个用于撤消 `git add` 的命令行 shell 插件.
@@ -703,7 +703,7 @@ Znap 可以：
 - [hacker-quotes](https://github.com/oldratlee/hacker-quotes) - 打开终端时随机输出黑客报价.
 - [hadoop-plugin](https://github.com/valek/zsh-hadoop-plugin) - 为 hadoop 函数添加一些方便的别名.
 - [hanami](https://github.com/davydovanton/hanami-zsh) - ZSH 插件 [hanami](http://hanamirb.org) 项目.
-- [hangul](https://github.com/gomjellie/zsh-hangul)  - 自动将韩文（韩文，韩文）更正为英文，而应该输入英文. 你必须输入英文，但如果你输入韩文，它会自动更正.
+- [hangul](https://github.com/gomjellie/zsh-hangul)  - 当应该输入英文时，自动将韩文（韩文，韩文）更正为英文. 你必须输入英文，但如果你输入韩文，它会自动更正.
 - [hbt](https://github.com/lzambarda/hbt) - 基于过去命令使用的启发式 ZSH 建议系统.
 - [hints](https://github.com/joepvd/zsh-hints) - 在您的编辑缓冲区下显示全局和参数标志以及其他不可完成的信息.
 - [hipchat](https://github.com/robertzk/hipchat.zsh) - 从外壳发送 hipchat 消息.
@@ -725,7 +725,7 @@ Znap 可以：
 - [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) - 一个简单的插件，用于将 `hub` ci-status 添加到您的 ZSH 主题.
 - [hub](https://github.com/soraliu/zsh-hub) - 用于分叉模型的 ZSH 插件.
 - [igit](https://github.com/ytakahashi/igit) - 使用交互式 `git` 命令 [fzf](https://github.com/junegunn/fzf).
-- [ing](https://github.com/rummik/zsh-ing) - Streamlined `ping` output.
+- [ing](https://github.com/rummik/zsh-ing) - 简化的“ping”输出.
 - [instant-repl](https://github.com/jandamm/instant-repl.zsh) - 为当前 ZSH 会话中的任何命令激活 REPL.
 - [interactive-cd](https://github.com/changyuheng/zsh-interactive-cd) - `cd` 的类似鱼的交互式选项卡完成.
 - [iosctl](https://github.com/obayer/iosctl) - 快速访问正在运行的模拟器的应用程序、数据和日志.
@@ -735,10 +735,10 @@ Znap 可以：
 - [iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - 在 MacbookPro TouchBar 中显示 iTerm2 反馈（当前目录、git 分支和状态）.
 - [iterm2-colors](https://github.com/shayneholmes/zsh-iterm2colors) - 从命令行管理您的 iTerm 2 的配色方案.
 - [iterm2-tabs](https://github.com/gimbo/iterm2-tabs.zsh) - 设置 iTerm 2 选项卡的颜色和标题.
-- [iterm2-utilities](https://github.com/decayofmind/zsh-iterm2-utilities) - 帮助下载各种 iTerm2 实用程序，并让您省略整个 iterm2 网站存储库的克隆或依赖可能不同步的其他存储库.
+- [iterm2-utilities](https://github.com/decayofmind/zsh-iterm2-utilities) - 帮助下载各种 iTerm2 实用程序，让您无需克隆整个 iterm2 网站存储库或依赖其他可能不同步的存储库.
 - [iterm2](https://github.com/laggardkernel/zsh-iterm2) - 将 iTerm 的 ZSH 集成脚本打包到 ZSH 插件中，以避免污染您的 $HOME 目录，仅增加 2ms 的时间可以忽略不计.
 - [jabba](https://github.com/2m/zsh-jabba) - 添加外壳集成代码和完成 [jabba](https://github.com/shyiko/jabba) Java 版本管理器.
-- [java-zsh-plugin](https://github.com/Xetius/java-zsh-plugin) - 添加 `setjdk` 命令，以便您可以在 jdk 的不同版本之间轻松切换.
+- [java-zsh-plugin](https://github.com/Xetius/java-zsh-plugin) - 添加一个 `setjdk` 命令，以便您可以在 jdk 的不同版本之间轻松切换.
 - [javaVersions](https://github.com/miguefl/javaVersions) - 使用单个命令在不同的 Java 版本之间进行更改.
 - [jdk-switch](https://github.com/LockonS/jdk-switch) - 一个仅用于在 jdk 版本之间切换的 macOS 插件.
 - [jenkins](https://github.com/tomplex/jenkins-zsh) - ZSH 的 jenkins 插件，深受优秀 jira 插件的启发.
@@ -825,7 +825,7 @@ Znap 可以：
 - [nodenv (c-uo)](https://github.com/C-uo/zsh-nodenv) - 在您的工作目录中查找 nodeenv 并在找到时加载它.
 - [nodenv (jsahlen)](https://github.com/jsahlen/nodenv.plugin.zsh) - 自动加载 `nodenv` 及其完成到 shell.
 - [nodenv (mattberther)](https://github.com/mattberther/zsh-nodenv)  - 安装、更新和加载“nodeenv”. 灵感来自 zsh-rbenv.
-- [nodo](https://github.com/nicolodiamante/nodo) - 此插件通过取消同步目录来帮助您防止 `node_modules` 目录填满您的 iCloud 存储，或者可以通过删除所选根目录中的所有 `node_modules` 目录来节省更多空间.
+- [nodo](https://github.com/nicolodiamante/nodo) - 此插件通过取消同步目录来帮助您防止 `node_modules` 目录填满您的 iCloud 存储空间，或者可以通过删除所选根目录中的所有 `node_modules` 目录来节省更多空间.
 - [nohup](https://github.com/micrenda/zsh-nohup) - 按 `Ctrl-H` 将`nohup` 添加到当前命令.
 - [noreallyjustfuckingstopalready](https://github.com/eventi/noreallyjustfuckingstopalready) - macOS 用户知道试图找出在他们的 macOS 版本上实际刷新 DNS 缓存的命令的痛苦，而这个插件让这种烦恼消失了.
 - [notes (aperezdc)](https://github.com/aperezdc/zsh-notes) - 灵感来自 [terminal_velocity](https://www.seanh.cc/terminal_velocity/)，它提供了一个快速的接口来创建和访问一组 [Markdown](https://en.wikipedia.org/wiki/Markdown) 目录中的文本文件.
@@ -960,7 +960,7 @@ Znap 可以：
 - [setenv](https://github.com/kalpakrg/setenv) - 更改目录时运行脚本.
 - [shelf](https://github.com/ecmma/shelf) - 可用于使用助记符为任何文件添加书签和直接访问的实用程序.
 - [shellfirm](https://github.com/kaplanelad/shellfirm)  - Shellfirm 是一个方便的实用程序，可帮助避免在没有额外批准步骤的情况下运行危险命令. 当检测到有风险的模式时，您将立即收到一个小的提示挑战，这将双重验证您的操作.
-- [shift-select](https://github.com/jirutka/zsh-shift-select) - ZSH 的 Emacs shift-select 模式 - 使用 Shift 在命令行中选择文本，就像在许多文本编辑器、浏览器和其他 GUI 程序中一样.
+- [shift-select](https://github.com/jirutka/zsh-shift-select) - Emacs ZSH 的 shift-select 模式 - 使用 Shift 在命令行中选择文本，就像在许多文本编辑器、浏览器和其他 GUI 程序中一样.
 - [show-path](https://github.com/redxtech/zsh-show-path) - 提供逐行显示`$PATH`的功能.
 - [silverstein-quotes](https://github.com/silversteinsoftware/silverstein_quotes) - 在 shell 启动期间显示 Silverstein 歌曲的随机引用.
 - [simpleserver](https://github.com/sathish09/zsh_plugins/tree/master/simpleserver) - 轻松启动 python `SimpleHTTPServer` 和 `SimpleHTTPSServer` 的插件.
@@ -1105,8 +1105,8 @@ Znap 可以：
 - [z.lua](https://github.com/skywind3000/z.lua)  - 一个命令行工具，可帮助您通过学习习惯来更快地导航. 一个替代方案 [z.sh](https://github.com/rupa/z) 具有 Windows 和 posix shell 支持和各种改进. 比 fasd 和 autojump 快 10 倍，比 fasd 快 3 倍 [z.sh](https://github.com/rupa/z).
 - [zabb](https://github.com/Mellbourn/zabb) - `zabb` 是一个命令，它试图找出可供用户使用的目录的最短记忆缩写 [z](https://github.com/ajeetdsouza/zoxide) 明确地跳转到该目录.
 - [zabrze](https://github.com/Ryooooooga/zabrze) - ZSH 缩写扩展插件.
-- [zaw](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
-- [zbrowse](https://github.com/zdharma-continuum/zbrowse) - 在做shell工作时，经常会调用echo $variable多次，检查循环结果等.使用ZBrowse，你只需要按`Ctrl-B`，调用ZBrowse – Zshell变量浏览器.
+- [zaw](https://github.com/zsh-users/zaw) - ZSH any.el-like 小部件.
+- [zbrowse](https://github.com/zdharma-continuum/zbrowse) - 在做shell工作时，经常会调用echo $variable多次，检查循环结果等.使用ZBrowse，你只需要按下`Ctrl-B`，调用ZBrowse – Zshell变量浏览器.
 - [zce](https://github.com/hchbaw/zce.zsh) - Vim 的 EasyMotion / Emacs 的 ZSH ace-jump-mode.
 - [zcolors](https://github.com/marlonrichert/zcolors) - 使用你的 `$LS_COLORS` 为 Git 和你的 Zsh 提示、补全和生成一个连贯的主题 [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting).
 - [zconvey](https://github.com/zdharma-continuum/zconvey) - 添加向其他 ZSH 会话发送命令的功能，例如，您可以在所有活动的 ZSH 会话上使用它来“cd $PWD”.
@@ -1124,7 +1124,7 @@ Znap 可以：
 - [zi-rbenv](https://github.com/z-shell/zi-rbenv) - 如果您正在使用快速 `rbenv` 加载 [zi](https://github.com/z-shell/zi/).
 - [zimfw-extras](https://github.com/PatTheMav/zimfw-extras) - zimfw 的自定义附加功能，打包到 zimfw 插件中.
 - [zinfo_line](https://github.com/kmhjs/zinfo_line) - 为 ZSH 主题提供更多信息.
-- [zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - [zinit](https://github.com/zdharma-continuum/zinit) 在不更改 $PATH 的情况下公开二进制文件的扩展，安装 Ruby gems 和 Node 模块并轻松公开它们的二进制文件，并在更新相关插件或片段时更新 gems 和模块.
+- [zinit-annex-bin-gem-node](https://github.com/zdharma-continuum/zinit-annex-bin-gem-node) - [zinit](https://github.com/zdharma-continuum/zinit) 在不更改“$PATH”的情况下公开二进制文件的扩展，安装 Ruby gems 和 Node 模块并轻松公开它们的二进制文件，并在更新相关插件或片段时更新 gems 和模块.
 - [zinit-annex-default-ice](https://github.com/zdharma-continuum/zinit-annex-default-ice) - 允许用户为多个 zinit 命令定义激活的 ice.
 - [zinit-annex-man](https://github.com/zdharma-continuum/zinit-annex-man) - [Zinit](https://github.com/zdharma-continuum/zinit) 为所有插件和片段生成手册页的扩展
 - [zinit-annex-meta-plugins](https://github.com/zdharma-continuum/zinit-annex-meta-plugins) - 使用单个标签安装插件组（[zinit](https://github.com/zdharma-continuum/zinit) 只要）.
@@ -1144,7 +1144,7 @@ Znap 可以：
 - [zredis](https://github.com/zdharma-continuum/zredis)  - 添加 Redis 数据库支持，使用 `database_key` &lt;-&gt; `shell_variable` 绑定. 支持所有数据类型.
 - [zservice-py3http](https://github.com/z-shell/zservice-py3http) - 使用标准库中的 Python 3 的 http 服务器为给定目录提供服务.
 - [zsh-in-docker](https://github.com/deluan/zsh-in-docker)  - 自动将 ZSH + Oh-My-ZSH 安装到开发容器中. 适用于 Alpine、Ubuntu、Debian、CentOS 或 Amazon Linux.
-- [zsh-not-vim](https://github.com/redxtech/zsh-not-vim) - 提供自动羞辱用户忘记他们没有在 vim 中的功能.
+- [zsh-not-vim](https://github.com/redxtech/zsh-not-vim) - 提供一个自动羞辱用户忘记他们不在 vim 中的功能.
 - [zsh-select](https://github.com/z-shell/zsh-select)  - 显示选择列表. 它类似于`selecta`，但使用curses库来做显示，和比较时 [fzf](https://github.com/junegunn/fzf)，主要区别是近似匹配而不是模糊匹配.
 - [zsh-z (agkozak)](https://github.com/agkozak/zsh-z)  - 快速跳转到您“经常”访问的目录.  `z.sh` 的原生 ZSH 端口 - 没有 `awk`、`sed`、`sort` 或 `date`.
 - [zsh-z (ptavares)](https://github.com/ptavares/zsh-z) - 安装和加载 [z](https://github.com/rupa/z.git).
@@ -1185,7 +1185,7 @@ Znap 可以：
 - [cabal](https://github.com/d12frosted/cabal.plugin.zsh) - 为 cabal 添加自动完成功能.
 - [carapace-bin](https://github.com/rsteube/carapace-bin) - 多壳多命令参数完成器.
 - [carapace](https://github.com/rsteube/carapace)  - Bash、Elvish、Fish、Oil、Powershell、Xonsh 和 ZSH 的完成生成器. 注意 - 不是动态的，您必须显式运行它才能为命令生成完成.
-- [cargo](https://github.com/MenkeTechnologies/zsh-cargo-completion) - 原始 OMZ 货物补全的所有功能，通过 `cargo add` 中的 `cargo search` 额外支持远程板条箱.
+- [cargo](https://github.com/MenkeTechnologies/zsh-cargo-completion) - 原始 OMZ 货物补全的所有功能，通过 `cargo add` 中的 `cargo search` 额外支持远程 crate.
 - [carthage](https://github.com/squarefrog/zsh-carthage) - 提供补全和别名以供使用 [Carthage](https://github.com/Carthage/Carthage).
 - [cf-zsh-autocomplete](https://github.com/norman-abramovitz/cf-zsh-autocomplete-plugin) - 为所有人添加自动完成功能 [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/) 命令.
 - [click-completion](https://github.com/click-contrib/click-completion) - 添加自动完成支持 [Click](http://click.pocoo.org/)，包括在选项卡完成期间显示选项和命令帮助.
@@ -1193,7 +1193,7 @@ Znap 可以：
 - [codeception](https://github.com/shengyou/codeception-zsh-plugin) - 为 Codeception 测试框架添加命令完成.
 - [codemachine](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) - 显示 git 信息，是否通过 `ssh` 登录，返回最后一个命令的代码.
 - [comonicon](https://github.com/Roger-luo/ComoniconZSHCompletion.jl) - 选项卡完成 [comonicon](https://github.com/Roger-luo/Comonicon.jl).
-- [completions](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
+- [completions](https://github.com/zsh-users/zsh-completions) - ZSH 的额外完成集合.
 - [conda](https://github.com/esc/conda-zsh-completion) - conda 的 ZSH 选项卡完成.
 - [cpan](https://github.com/MenkeTechnologies/zsh-cpan-completion)  - 添加`cpan安装字<tab> ` 和 `cpanm 安装<tab> ` 完成远程 CPAN 包名称.
 - [ctop](https://github.com/gantsign/zsh-plugins/tree/master/ctop) - 选项卡完成 [ctop](https://github.com/bcicen/ctop).
@@ -1210,7 +1210,7 @@ Znap 可以：
 - [efibootmgr](https://github.com/wehlando/efibootmgr-zsh-completion) - `efibootmgr` 的选项卡完成.
 - [etcdctl](https://github.com/sheax0r/etcdctl-zsh) - 添加 etcdctl 选项卡补全.
 - [expressvpn](https://github.com/tk7r/zsh-expressvpn) - 为 [expressVPN](https://www.expressvpn.com/support/vpn-setup/app-for-linux/) 客户.
-- [extract (le0me55i)](https://github.com/le0me55i/zsh-extract) - 定义一个名为 extract 的函数，用于提取您传递给它的存档文件，并支持多种存档文件类型.
+- [extract (le0me55i)](https://github.com/le0me55i/zsh-extract) - 定义了一个名为 extract 的函数，用于提取您传递给它的存档文件，并支持多种存档文件类型.
 - [extract (thetic)](https://github.com/thetic/extract) - oh-my-zsh 提取插件的分支.
 - [fly-zsh-autocomplete](https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin) - 为所有人添加自动完成选项 [Concourse CLI](https://concourse-ci.org/fly.html) 命令.
 - [fzf-gcloud](https://github.com/mbhynes/fzf-gcloud) - 导航和预览所有 Google Cloud SDK `gcloud` CLI 命令的模糊补全
@@ -1220,7 +1220,7 @@ Znap 可以：
 - [gcloud](https://github.com/littleq0903/gcloud-zsh-completion) - 为 Google Cloud SDK 添加补全.
 - [gentoo](https://github.com/gentoo/gentoo-zsh-completions) - 为上游缺少补全脚本的各种 Gentoo 工具提供 ZSH 补全支持.
 - [git-annex](https://github.com/Schnouki/git-annex-zsh-completion) - 允许大多数 git-annex 命令的选项卡完成.
-- [git-flow](https://github.com/bobthecow/git-flow-completion) - ZSH completion support for [git-flow](http://github.com/nvie/gitflow).
+- [git-flow](https://github.com/bobthecow/git-flow-completion) - ZSH 完成支持 [git-flow](http://github.com/nvie/gitflow).
 - [git-fzf](https://github.com/alexiszamanidis/zsh-git-fzf)  - ZSH 插件，包装了 `git` 操作以实现简单性和生产力. 它还包含完成并结合了对 [fzf](https://github.com/junegunn/fzf).
 - [github-cli](https://github.com/sudosubin/zsh-github-cli) - github cli 的选项卡完成.
 - [gitlab-runner](https://github.com/pseyfert/zsh-gitlab-runner-completion) - gitlab-ci-multi-runner 的 ZSH 完成.
@@ -1228,7 +1228,7 @@ Znap 可以：
 - [gradle-completion (ninrod)](https://github.com/ninrod/gradle-zsh-completion) - 对 gradle 的 ZSH 完成支持.
 - [grid5000](https://github.com/pmorillon/grid5000-zsh-plugin) - Grid 5000 插件 - 添加主题、自动补全.
 - [gstreamer](https://github.com/CraigCarey/gstreamer-tab) - 标签完成 [GStreamer](https://gstreamer.freedesktop.org/).
-- [gulp (akoenig)](https://github.com/akoenig/gulp.plugin.zsh) - Autocompletion for your gulp.js tasks in the Z-Shell (ZSH).
+- [gulp (akoenig)](https://github.com/akoenig/gulp.plugin.zsh) - 在 Z-Shell (ZSH) 中自动完成 gulp.js 任务.
 - [gulp (srijanshetty)](https://github.com/srijanshetty/gulp-autocompletion-zsh) - gulp 的自动补全.
 - [hashlink](https://github.com/tong/zsh.plugin.hashlink) - 完成 [https://hashlink.haxe.org/](https://hashlink.haxe.org/).
 - [haskell](https://github.com/coot/zsh-haskell) - 为 `cabal`、`ghc` 和 `ghc-pkgs` 命令添加补全.
@@ -1273,7 +1273,7 @@ Znap 可以：
 - [pipenv (AlexGascon)](https://github.com/AlexGascon/pipenv-oh-my-zsh) - 为最常见的 pipenv 命令启用别名.
 - [pipenv (gangleri)](https://github.com/gangleri/pipenv) - `pipenv` 的完成.
 - [pks-autocomplete](https://github.com/tybritten/pks-zsh-autocomplete-plugin) - 为 Pivotal 的添加完成 [PKS CLI](https://network.pivotal.io/products/pivotal-container-service)
-- [pmy](https://github.com/relastle/pmy) - General purpose context-aware ZSH completion engine powered by [fzf](https://github.com/junegunn/fzf).
+- [pmy](https://github.com/relastle/pmy) - 通用的上下文感知 ZSH 完成引擎，由 [fzf](https://github.com/junegunn/fzf).
 - [quickjump](https://github.com/fikovnik/zsh-quickjump) - 添加选项卡完成支持 [skim](https://github.com/lotabout/skim) 对于最近使用的文件和目录 [fasd](https://github.com/whjvenyl/fasd).
 - [racket completion](https://github.com/racket/shell-completion) - 完成 [Racket](http://racket-lang.org).
 - [rake-completion](https://github.com/unixorn/rake-completion.zshplugin) - 为 rakefile 目标添加快速选项卡完成.
@@ -1317,7 +1317,8 @@ Znap 可以：
 - [aaron](https://github.com/aaronjamesyoung/aaron-zsh-theme) - 基于索林主题.
 - [abbr (theme)](https://github.com/PhilsLab/abbr-zsh-theme)  - 显示当前目录路径的缩写版本，显示 Python virtualenv、Rust 版本、`git` 状态和最后一个命令的退出代码. 默认情况下适用于深色背景，但可以轻松自定义颜色.
 - [absolute](https://github.com/NelsonBrandao/absolute) - 非常干净的主题，带有 git 状态、节点版本和最后一个命令的退出代码.
-- [adamdodev](https://github.com/adamdodev/adamdodev-zsh-theme) - 包括 `git` 状态装饰、AWS 配置文件的名称、Azure 服务主体的名称、kubernetes 上下文、terraform 工作区、命令状态和当前工作目录.
+- [acenoster](https://github.com/HiDe-Techno-Tips/Acenoster-ZSH-Theme)  - 具有非常详细的 `git` 和 `mercurial` 支持的多用途主题. 还包括 AWS 配置文件名称、虚拟环境名称（如果有）、后台任务数量、当前目录和上一个命令的退出代码（如果非零）的装饰器.
+- [adamdodev](https://github.com/adamdodev/adamdodev-zsh-theme) - 包括 `git` 状态装饰、AWS 配置文件名称、Azure 服务主体名称、kubernetes 上下文、terraform 工作区、命令状态和当前工作目录.
 - [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) - macOS 主题，需要与电力线兼容的字体.
 - [af-magic-dynamic](https://github.com/rslavin/af-magic-dynamic) - 修改版 [af-magic](https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme) 动态路径缩短.
 - [aflah-bhari](https://github.com/AflahB/aflah-bhari-zsh-theme) - 修改版 [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) oh-my-zsh 中的主题.
@@ -1327,7 +1328,7 @@ Znap 可以：
 - [agnoster-fcamblor](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) - 日晒 [Agnoster](https://gist.github.com/agnoster/3712874) 带有 `git` 状态信息的变体. 需要 unicode 字体，最好使用 [solarized](https://github.com/altercation/solarized) 终端.
 - [agnoster-fseguin](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [agnoster](https://gist.github.com/agnoster/3712874) 带有正确提示的变体.
 - [agnoster-gentoo](https://github.com/r7l/agnoster-gentoo-zsh-theme) - Gentoo 风格的版本 [Agnoster ZSH Theme](https://github.com/agnoster/agnoster-zsh-theme) 其中包括 user@hostname 和 `git` 状态装饰. 使用 unicode 字体效果更好.
-- [agnoster-j](https://github.com/apjanke/agnosterj-zsh-theme) - 优化 [solarized](https://ethanschoonover.com/solarized/) 配色方案、`git` 或其他 VCS 工具以及兼容 unicode 的字体. 包括上次命令运行的状态、user@hostname、`git` 状态装饰、工作目录、是否以 root 身份运行、后台作业是否正在运行等信息.
+- [agnoster-j](https://github.com/apjanke/agnosterj-zsh-theme) - 优化 [solarized](https://ethanschoonover.com/solarized/) 配色方案、`git` 或其他 VCS 工具以及兼容 unicode 的字体. 包括上次命令运行的状态、user@hostname、`git` 状态修饰、工作目录、是否以 root 身份运行、后台作业是否正在运行等信息.
 - [agnoster-mod](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) 带有正确提示的变体.
 - [agnoster-plus](https://github.com/jiahut/agnoster-plus.zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) 变体优化用于 [Solarized Dark](https://github.com/altercation/solarized/blob/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors) 终端配色方案. 包括 `git` 状态.
 - [agnoster-refresh](https://github.com/fusion94/Agnoster-refresh) - [Agnoster](https://gist.github.com/agnoster/3712874) 变体，包括电池和在线状态.
@@ -1395,13 +1396,13 @@ Znap 可以：
 - [blackrain](https://github.com/ginfuru/zsh-blackrain) - 另一个 `git`-aware 主题.
 - [blazux](https://github.com/blazux/omz-theme) - 包括 `git` 状态装饰和最后一个命令退出状态的笑脸/悲伤脸指示器.
 - [blinks (max13ft)](https://github.com/max13fr/blinks.zsh-theme) - 为 oh-my-zsh 添加了 mercurial 支持 [blink](https://github.com/max13fr/blinks.zsh-theme) 主题.
-- [blinks-xfan](https://github.com/ixfan/blinks-xfan) - 基于现有主题 [blinks](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/blinks.zsh-theme).
+- [blinks-xfan](https://github.com/ixfan/blinks-xfan) - Based on the existing theme [blinks](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/blinks.zsh-theme).
 - [bliss](https://github.com/joshjon/bliss-zsh)  - 一个精致的主题，在不压倒您的工作空间的情况下注入色彩. 设计用于与 [bliss iTerm](https://github.com/joshjon/bliss-iterm) 配色方案和 [bliss dircolors](https://github.com/joshjon/bliss-dircolors) . 包括 `git` 状态装饰.
 - [blokkzh](https://github.com/KorvinSilver/blokkzh) - 基于 oh-my-zsh 的内置主题 [gnzh](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme) 主题. 需要支持 unicode 的字体.
 - [blox](https://github.com/yardnsm/blox-zsh-theme)  - 一个最小且快速的 ZSH 主题，向您展示您的需求. 它由块组成：每个块都显示在一对\[方括号\]内，您可以通过简单地创建一个函数来添加块.
 - [bluehigh](https://github.com/hiroppy/bluehigh.zsh-theme) - 最小的主题，显示 `git` 信息.
 - [bluelines](https://github.com/apbarrero/bluelines) - 清晰的蓝色主题.
-- [bluo](https://github.com/varunpbardwaj/bluo) - 五颜六色的提示片段让人想起 [bullet-train](https://github.com/caiogondim/bullet-train.zsh) 或者 [powerlevel10k](https://github.com/romkatv/powerlevel10k). Includes `git` status dec或者ations.
+- [bluo](https://github.com/varunpbardwaj/bluo) - 五颜六色的提示片段让人想起 [bullet-train](https://github.com/caiogondim/bullet-train.zsh) or [powerlevel10k](https://github.com/romkatv/powerlevel10k) . 包括 `git` 状态装饰.
 - [bogo](https://github.com/cubasepp/zsh-bogo-theme) - 灵感来自 [zeta](https://github.com/skylerlee/zeta-zsh-theme) . 包括 `git` 和 ruby​​ 版本的装饰.
 - [boom](https://github.com/the0neWhoKnocks/zsh-theme-boom) - 多行主题，最适合深色背景.
 - [boxy](https://github.com/evil-tim/boxy-zsh-theme)  - 适用于日晒终端颜色. 包括 `username@hostname`、当前目录、`git` 状态、最后一个命令的返回码和最后一个命令运行的时间的装饰器.
@@ -1413,7 +1414,7 @@ Znap 可以：
 - [brunty](https://github.com/Brunty/omz-brunty) - 布鲁蒂主题.
 - [bryce-robbyrussell](https://github.com/Bryan-Cee/bryce-robbyrussell) - 灵感来自 [powerline](https://github.com/Lokaltog/vim-powerline) 和 [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) 主题.
 - [bttf-color](https://github.com/yasuhiroki/bttf-color-zsh) - BTTF 颜色主题.
-- [bubblegum](https://github.com/ice-bear-forever/bubblegum-zsh) - 极简主义亮粉色主题，带有三角形字形和您的工作目录，仅此而已 - 为您提供最干净的外壳.
+- [bubblegum](https://github.com/ice-bear-forever/bubblegum-zsh) - 极简主义的亮粉色主题，带有三角形字形和您的工作目录，仅此而已 - 为您提供最干净的外壳.
 - [bubblified (hohmannr)](https://github.com/hohmannr/bubblified) - 灵感来自 [agnoster](https://github.com/agnoster/agnoster-zsh-theme) . 最适合搭配 [nerdfonts](https://github.com/ryanoasis/nerd-fonts).
 - [bubblified (varaki)](https://github.com/varaki/bubblified-varaki.zsh-theme) - 基于 [bubblified (hohmannr)](https://github.com/hohmannr/bubblified) . 生根时变色.
 - [bullet-train](https://github.com/caiogondim/bullet-train.zsh) - Inspired by the Powerline Vim plugin. It aims for simplicity, showing information only when it's relevant.
@@ -1465,6 +1466,7 @@ Znap 可以：
 - [cordial](https://github.com/stevelacy/cordial-zsh-theme) - 干净有效的 ZSH 主题，支持 git 和 npm.
 - [cr](https://github.com/cruzrovira/cr-zsh-theme) - 包括目录、时间、主机名、最后一个命令退出状态和 `git` 状态装饰.
 - [cramin](https://github.com/FelipeCRamos/craminzsh) - 支持 github 插件的最小界面，基于 [hyperzsh](https://github.com/tylerreckart/hyperzsh).
+- [cryo-long](https://github.com/cryocaustik/cryo-long-zsh-theme) - 变体 [cryo](https://github.com/cryocaustik/cryo-zsh-theme/) 为主机名和当前目录添加了装饰器.
 - [cryo](https://github.com/cryocaustik/cryo-zsh-theme) - 添加日期和时间的原始 oh-my-zsh 主题的独立克隆.
 - [crème fraîche](https://github.com/koenwoortman/creme-fraiche-zsh-theme) - 最适合轻终端背景，包括 `git` 和 `vi`-mode 状态装饰.
 - [cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - 基于 Powerline Vim 插件的带有可爱表情符号的 macOS oh-my-zsh shell 主题.
@@ -1543,7 +1545,7 @@ Znap 可以：
 - [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) - 基于的主题 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) 哦，我的 zsh 主题.
 - [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - 红色版本 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) 来自 oh-my-zsh 的主题.
 - [fritz](https://github.com/fritzccc/fritz-zsh-theme)  - 适用于深色背景. 包括 `git` 状态装饰.
-- [frlo](https://github.com/fiorillo/frlo) - 使用您计算机的主机名提出（希望）独特的三色主题以显示在您的提示中，因此您一眼就知道您登录的是哪台机器.
+- [frlo](https://github.com/fiorillo/frlo) - 使用您计算机的主机名提出（希望）独特的三色主题以显示在您的提示中，以便您一眼就知道您登录的是哪台机器.
 - [funkyberlin](https://github.com/Ottootto2010/funkyberlin-zsh-theme) - 支持 `git` 和 `svn` 的彩色两行主题.
 - [furio](https://github.com/hectorpalmatellez/furio-theme) - 叉子 [Cloud](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/cloud.zsh-theme) 哦，我的 zsh 主题. 用不同的颜色和表情符号.
 - [furry-umbrella](https://github.com/kb10uy/zsh-theme-furry-umbrella) - 彩色主题，在深色背景下效果更好.
@@ -1612,7 +1614,7 @@ Znap 可以：
 - [horizontal](https://github.com/nuimk/horizontal) - 带有水平分隔符的两行提示.
 - [hornix](https://github.com/fusion809/zsh-theme) - 显示时间和日期、操作系统（包括 Linux 上的发行版）、目录以及是否以 root 身份运行.
 - [horse-sh](https://github.com/emileswarts/horse-sh) - 一个非常简约的棕色/红色 ZSH 主题.
-- [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - 简单干净，包括最后执行的命令的返回码.
+- [hub](https://gist.github.com/hub23/c226b1c77446e099f7684b0d21c6b22a) - Simple and clean, includes the return code of the last command executed.
 - [hug](https://github.com/xxninjabunnyxx/hug-zsh)  - 当你工作并需要一个拥抱时. 包括 `git` 状态.
 - [humbled](https://github.com/saravanabalagi/zsh-theme-humbled) - 一个简洁的主题，支持 `condaenv`、`virtualenv` 和 `git` 状态装饰，以粗体与工作目录对齐.
 - [hydrogen](https://github.com/xylous/hydrogen)  - 一个简单的多行 zsh 主题. 它显示用户名、主机名、当前目录和 `git` 状态装饰.
@@ -1665,7 +1667,7 @@ Znap 可以：
 - [kinda-fishy](https://github.com/folixg/kinda-fishy-theme) - 基于 Fishy 主题，但显示完整路径而不是缩写目录，并且仅在 `ssh` 会话和 docker 容器中显示 user@machine.
 - [kirkdawson](https://github.com/kdawson133/KirkDawson)  - 受电力线启发. 包括 `git` 状态、最后命令退出状态、用户@主机名、工作目录以及用户是否以 root 身份运行的提示装饰.
 - [kiss](https://github.com/rileytwo/kiss)  - 用于 oh-my-zsh、VSCode、iTerm2、Neovim 和 RStudio 的简单主题. 包括 `git` 状态装饰.
-- [kketcham](https://github.com/prototype27/kketcham) - 在 `git` 信息上有漂亮颜色的主题.
+- [kketcham](https://github.com/prototype27/kketcham) - `git` 信息上带有漂亮颜色的主题.
 - [korittg](https://github.com/dkorittki/korittg-zsh-theme)  - 简约但内容丰富. 包括 `git` 状态、当前目录和 `kubectl` 上下文和命名空间的装饰.
 - [kote](https://github.com/wendygaoyuan/kote-zsh-theme)  - 最适合深色背景. 包括 `git` 状态装饰.
 - [kotterstep](https://github.com/sorenvonsarvort/kotterstep-zsh-theme) - 为深色终端设计的两行主题，具有 `git` 装饰.
@@ -1790,14 +1792,14 @@ Znap 可以：
 - [nknu](https://github.com/aanc/oh-my-zsh-nknu-theme) - 一个简单的 oh-my-zsh 主题.
 - [nmaxcom](https://github.com/nmaxcom/nmaxcom-zsh-theme) - 带有 `git` 状态装饰的极简主义 ZSH 主题.
 - [node](https://github.com/skuridin/oh-my-zsh-node-theme) - oh-my-zsh 的节点主题，为了便于与其他插件管理器一起使用而进行了拆分.
-- [nodeys](https://github.com/marszall87/nodeys-zsh-theme) - Based on the ys theme, with added NodeJS version (from NVM plugin).
+- [nodeys](https://github.com/marszall87/nodeys-zsh-theme) - 基于 ys 主题，添加了 NodeJS 版本（来自 NVM 插件）.
 - [noon](https://github.com/silky/noon.zsh-theme) - 有浅色和深色的变体，显示 `git` 信息.
 - [nord](https://github.com/TyWR/Nord-zsh) - 包括 `git` 状态装饰并显示活动的 conda 环境.
 - [normanius](https://github.com/normanius/normanius-zsh-theme) - 源自 [bira](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme).
 - [nothing](https://github.com/eendroroy/nothing) - 闪电般快速且非常简单，因为它几乎没有任何内容.
 - [nova](https://github.com/body20002/nova)  - 包括 `git` 状态 decroations. 覆盖 `LS_COLORS` 和 `LSCOLORS` 设置.
 - [nox](https://github.com/kbrsh/nox) - 深色主题，显示当前工作目录和 git 状态.
-- [nt9](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme)  - 一个干净、无干扰且以“git”为重点的开发主题. 显示相对于 `git` 根的路径（或 ~ 当在 `git` 存储库之外时）、自上次提交以来的时间、当前 SHA、分支和分支状态.
+- [nt9](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme)  - 一个干净、无干扰且以“git”为重点的开发主题. 显示相对于 `git` 根目录的路径（或在 `git` 存储库之外时）、自上次提交以来的时间、当前 SHA、分支和分支状态.
 - [nunorc](https://github.com/nunorc/nunorc.zsh-theme)  - 极简主义主题，适用于深色背景. 包括 `git`、`mercurial` 和 `svn` satus 装饰.
 - [nuqlezsh](https://github.com/Nuqlear/nuqlezsh.zsh-theme) - prezto 和 oh-my-zsh 的简单主题.
 - [nuts](https://github.com/rafaelsq/nuts.zsh-theme) - 极简主题，包括 `git` 状态装饰和时间.
@@ -1819,7 +1821,7 @@ Znap 可以：
 - [owiewestside](https://github.com/owenstranathan/owiewestside.zsh-theme) - 包括 `git` 状态和 virtualenv 信息.
 - [oxide](https://github.com/dikiaap/dotfiles/blob/master/.oh-my-zsh/themes/oxide.zsh-theme) - 简约和黑暗的 ZSH 主题.
 - [ozono](https://github.com/sfabrizio/ozono-zsh-theme) OZ0NO - 让我们呼吸干净的 ZSH.
-- [p9k-theme-pastel](https://github.com/iboyperson/p9k-theme-pastel) - 一个主题 [powerlevel10k](https://github.com/romkatv/powerlevel10k) 提示强调简单性，同时仍然可以获取重要信息.
+- [p9k-theme-pastel](https://github.com/iboyperson/p9k-theme-pastel) - 一个主题 [powerlevel10k](https://github.com/romkatv/powerlevel10k) prompt that puts an emphasis on simplcity while still getting important information across.
 - [pad](https://github.com/eproxus/pad.zsh-theme) - 简洁多彩的 oh-my-zsh 主题.
 - [page](https://github.com/SLIB53/page-zsh-theme)  - 一个带有 VCS 支持的简单主题. 提示显示当前工作目录的 1 级、分支和一个颜色编码的弯曲粗箭头.
 - [palenight (jenssegers)](https://github.com/jenssegers/palenight.zsh-theme) - 允许显示主机信息，包括 `git` 分支装饰.
@@ -1853,10 +1855,10 @@ Znap 可以：
 - [powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Powerlevel9k 是 ZSH 的主题，它使用 [Powerline Fonts](https://github.com/powerline/fonts) . 它可以与 vanilla ZSH 或 ZSH 框架一起使用，例如 [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh), [Prezto](https://github.com/sorin-ionescu/prezto), [Antigen](https://github.com/zsh-users/antigen)， 和 [many others](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions).
 - [powerlevelHipstersmoothie](https://github.com/hipstersmoothie/PowerlevelHipstersmoothie) - 附加组件 [powerlevel9k](https://github.com/bhilburn/powerlevel9k).
 - [powerline (brucehsu)](https://github.com/brucehsu/oh-my-zsh-powerline-theme) - 两线版本的电力线：一根用于信息，一根用于输入.
-- [powerline (jeremy)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)  - 另一种电力线主题. 可以很好地配置，但至少需要一个支持 256 色的终端，并带有与电力线兼容的终端字体.
+- [powerline (jeremy)](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)  - 另一种电力线主题. 可以很好地配置，但至少需要一个具有电力线兼容终端字体的 256 色终端.
 - [powerline (syui)](https://github.com/syui/powerline.zsh) - 一个 `git` 感知电力线主题.
 - [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - 基于 [bullet-train](https://github.com/caiogondim/bullet-train.zsh).
-- [powerline-go](https://github.com/justjanne/powerline-go)  - 一个漂亮实用的低延迟提示，用 golang 编写. 包括 `git` 和 `hg` 状态装饰、上次命令运行的退出状态、当前 Python 虚拟环境、是否在 [nix](https://nixos.org/) 外壳，并且易于扩展.
+- [powerline-go](https://github.com/justjanne/powerline-go)  - 一个漂亮实用的低延迟提示，用 golang 编写. 包括 `git` 和 `hg` 状态装饰、上一次命令运行的退出状态、当前 Python virtualenv、是否在 [nix](https://nixos.org/) 外壳，并且易于扩展.
 - [powerline-hs](https://github.com/rdnetto/powerline-hs) - 一个 [Powerline](https://github.com/powerline/powerline) 用 Haskell 编写的克隆. 它比原始实现要快得多，并且使 shell 的响应速度明显更快.
 - [powerline-pills](https://github.com/lucasqueiroz/powerline-pills-zsh) - 在 Ruby 中创建，使用电力线字符来模拟具有有用信息的药丸.
 - [powerline-shell (b-ryan)](https://github.com/b-ryan/powerline-shell)  - 漂亮而有用的 Bash、ZSH、Fish 和 tcsh 提示生成器. 包括 `git`、`svn`、`fossil` 和 `hg` 装饰、Python virtualenv 信息和最后一个命令退出状态.
@@ -1935,7 +1937,7 @@ Znap 可以：
 - [s7c](https://github.com/Samega7Cattac/s7c.zsh-theme)  - 适用于深色背景. 包括 `git` 状态装饰.
 - [samshell](https://github.com/samuelb/samshell) - 带有 `git`、kubernetes 和 python virtualenv 装饰的简约 zsh 主题.
 - [saraiva](https://github.com/ruisaraiva19/saraiva-theme) - 包括 `git` 状态装饰，适用于深色终端背景.
-- [saturn](https://github.com/gantoreno/saturn-prompt) - 为热爱空间并希望在终端上拥有一点空间的用户提供柔和简约的提示，具有酷炫的表情符号和高度可定制的提示元素（例如图标、颜色、时间格式等）.
+- [saturn](https://github.com/gantoreno/saturn-prompt) - 为那些热爱空间并希望在终端上拥有一点空间的人提供柔和而简约的提示，具有酷炫的表情符号和高度可定制的提示元素（例如图标、颜色、时间格式等）.
 - [schminitz-v2](https://github.com/mashdots/schminitz-v2) - 显示 `git` 状态装饰、user@host 信息、最​​后一个命令的退出状态以及是否以 root 身份运行.
 - [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - 当使用 `:sh` 命令时，显示 `vim` 是否在后台运行.
 - [scythe](https://github.com/kostoskistefan/scythe)  - 让人想起电力线的主题. 包括`git`，最后一个命令退出状态和目录装饰.
@@ -1963,11 +1965,11 @@ Znap 可以：
 - [shtr0m](https://github.com/kyle-pollock/shtr0m) - 包括 `git` 状态装饰.
 - [shuttle](https://github.com/Pandademic/Shuttle/)  - 用 golang 编写. 具有操作系统、用户、当前目录和最后一个命令运行的退出代码的装饰器.
 - [siegerts](https://github.com/siegerts/zsh-theme) - 在正确的提示中包含 `git` 状态装饰.
-- [silver](https://github.com/reujab/silver) - 一个跨外壳可定制的类似电力线的提示，灵感来自 [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) . 更快的生锈端口 [bronze](https://github.com/reujab/bronze) . 需要 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts). Very configurable, includes `git` status decorations.
+- [silver](https://github.com/reujab/silver) - 一个跨外壳可定制的类似电力线的提示，灵感来自 [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) . 更快的生锈端口 [bronze](https://github.com/reujab/bronze) . 需要 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) . 非常可配置，包括 `git` 状态装饰.
 - [simpalt](https://github.com/m-lima/simpalt) - 基于 ZSH 的信息丰富的小足迹主题 [Agnoster](https://github.com/agnoster/agnoster-zsh-theme).
 - [simple (daopengz)](https://github.com/DaopengZ/simple-zsh-theme)  - 适用于浅色和深色终端主题. 包括 `vcs`、`username` 和 `path` 装饰.
 - [simple (pavdmyt)](https://github.com/pavdmyt/simple-oh-my-zsh-theme) - 基于极简主义主题 [robbyrussel](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) 在 iTerm 的窗口标题栏中嵌入 `git` 状态信息，而不是在提示中使用空格.
-- [simple (rkitover)](https://github.com/rkitover/sh-prompt-simple)  - 一个简单、轻量且外观漂亮的提示，即使在 MSYS2、Cygwin 和 WSL 等非常慢的 shell 中也能快速运行. 它显示了当前环境的短名称（发行版、操作系统等）在 `git` 签出时的 `git` 分支，以及最后一个命令退出状态（绿色复选标记表示成功，红色 X 标记表示非零退出.）
+- [simple (rkitover)](https://github.com/rkitover/sh-prompt-simple)  - 一个简单、轻量级且外观漂亮的提示，即使在 MSYS2、Cygwin 和 WSL 等非常慢的 shell 中也能快速运行. 它显示了当前环境的短名称（发行版、操作系统等）在 `git` 签出时的 `git` 分支，以及最后一个命令退出状态（绿色复选标记表示成功，红色 X 标记表示非零退出.）
 - [simple (savecoders)](https://github.com/Savecoders/simpleTheme-zsh-theme) - 带有 `git`、`username` 和执行状态装饰的简单而简约的主题.
 - [simple (tourcoder)](https://github.com/tourcoder/simple.zsh-theme) - 极简提示，包括 `git` 状态装饰.
 - [simple (yhiraki)](https://github.com/yhiraki/zsh-simple-prompt) - 最小提示，不需要特殊字体.
@@ -2132,7 +2134,7 @@ Znap 可以：
 - [Input Mono](https://store.typenetwork.com/foundry/djr/series/input?family=input-mono)  - 专为代码设计的字体系列. 它提供等宽字体和比例字体，并包括电力线字形.
 - [Iosevka](https://github.com/be5invis/Iosevka)  - 编码器的字体，由代码构建. 高度可定制.
 - [Monoid](https://larsenwork.com/monoid/) - Monoid 可定制和优化，即使在低分辨率显示器上也能以 15 像素行高的位图清晰度进行编码.
-- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)  - 收集超过 20 种修补字体（超过 2,000 种变体）和 FontForge 字体修补程序 python 脚本，适用于 Powerline、Font Awesome、Octicons、Devions 和 Vim Devicons. 包括：Droid Sans、Meslo、源代码、AnonymousPro、Hack、ProFont、Inconsolata 等等.
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)  - 收集超过 20 种修补字体（超过 2,000 种变体）和 FontForge 字体修补程序 python 脚本，用于 Powerline、Font Awesome、Octicons、Devions 和 Vim Devicons. 包括：Droid Sans、Meslo、源代码、AnonymousPro、Hack、ProFont、Inconsolata 等等.
 - [Powerline patched font collection](https://github.com/powerline/fonts) - 十几种字体的集合，经过修补，包括电力线字形.
 - [Terminus](http://files.ax86.net/terminus-ttf/) - 包含电力线字形的 Terminus 的 TTF 版本.
 

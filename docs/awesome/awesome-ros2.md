@@ -6,7 +6,7 @@
 
 &gt; 精选的机器人操作系统版本 2.0 (ROS 2) 资源和库的精选列表.
 
-机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 可以满足您下一个机器人项目的需求. 而且它都是开源的.
+机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且它都是开源的.
 
 
 
@@ -28,7 +28,7 @@
 
 ### Benchmarking
 
-- [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking)  - ROS2 基准测试框架.  ROS2 通信特性可以在多个轴上快速且自动地进行评估. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
+- [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking)  - ROS2 基准测试框架.  ROS2 通信特性可以在多个轴上快速且自动化地进行评估. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
 - [performance_test](https://github.com/ApexAI/performance_test) - 测试 ROS 2、FastRTPS 和 Connext DDS Micro 等各种通信方式的性能和延迟. ![performance_test](https://img.shields.io/github/stars/ApexAI/performance_test.svg)
 
 ### Containerization
@@ -38,6 +38,9 @@
 - [micro-ROS/docker](https://github.com/micro-ROS/docker) - 与 Docker 相关的材料，用于使用 micro-ROS 硬件进行设置、配置和开发.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - 将 ROS 和 ROS 2 工作空间交叉编译到非本地架构并生成相应的 Docker 映像.
 - [ros2-docker](https://husarnet.com/blog/ros2-docker) - 通过互联网连接在 Docker 容器中运行的 ROS 2 节点.
+- [osrf/docker_images](https://github.com/osrf/docker_images) - Dockerfiles [Official Library on Docker Hub](https://hub.docker.com/_/ros) 和 [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
+- [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles 提供 HTML5 VNC 接口来访问 Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
+- [ros2-lxd](https://ubuntu.com/blog/install-ros-2-humble-in-ubuntu-20-04-or-18-04-using-lxd-containers) - 使用 LXD 容器在 Ubuntu 20.04 或 18.04 中安装 ROS 2 Humble.
 
 ### Networking
 
@@ -110,7 +113,7 @@
 ### Middleware
 
 - [Micro XRCE-DDS Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) - 微型 XRCE-DDS 代理充当 DDS 网络和微型 XRCE-DDS 客户端之间的服务器.
-- [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - Docker image containing the Micro XRCE-DDS Agent.
+- [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - 包含 Micro XRCE-DDS 代理的 Docker 映像.
 - [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) - Micro XRCE-DDS 实施客户端-服务器协议，使资源受限的设备（客户端）能够参与 DDS 通信.
 - [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) - 使用 Micro XRCE-DDS 代理的 ROS 2 包.
 - [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) 是一种可扩展且性能极高的协议，可以透明地用于与 [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) 以及对于 [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (https://img.shields.io/github/stars/eclipse-zenoh/zenoh)
@@ -417,7 +420,7 @@ DDS 安全.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - 机器人和辅助系统.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - 智能自动化服务提供商.
 - [Husarnet](https://husarnet.com) - 机器人专用的开源、P2P、低延迟VPN.
-- [iRobot](https://www.irobot.de/) - 吸尘和拖地机器人制造商.
+- [iRobot](https://www.irobot.de/) - Manufacturer of vacuuming and mopping robots.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS 工具箱.
 - [Mission Robotics](https://missionrobotics.us/) - 海洋智能新时代的硬件和软件.
