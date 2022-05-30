@@ -28,7 +28,7 @@
 
 ### Benchmarking
 
-- [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking)  - ROS2 基准测试框架.  ROS2 通信特性可以在多个轴上快速且自动化地进行评估. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
+- [ros2_benchmarking](https://github.com/piappl/ros2_benchmarking)  - ROS2 基准测试框架.  ROS2 通信特性可以在多个轴上快速且自动地进行评估. ![ros2_benchmarking](https://img.shields.io/github/stars/piappl/ros2_benchmarking.svg)
 - [performance_test](https://github.com/ApexAI/performance_test) - 测试 ROS 2、FastRTPS 和 Connext DDS Micro 等各种通信方式的性能和延迟. ![performance_test](https://img.shields.io/github/stars/ApexAI/performance_test.svg)
 
 ### Containerization
@@ -240,6 +240,10 @@
 - [Ubuntu Server](https://ubuntu.com/server)
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - 用于关键基础设施的安全、可靠、可认证的实时操作系统
 - [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS 旨在安全可靠.
+
+## Packaging
+
+- [ros2-snap](https://snapcraft.io/docs/ros2-applications) - 为您的 ROS 2 应用程序创建快照.
 
 ## Forks
 

@@ -132,12 +132,12 @@
   - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
   - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
   - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
-  - [AutoMeter](https://github.com/intuit/autometer) - 基于 JMeter 主从架构，使用分布式从属扩展负载测试的自动化工具.
+  - [AutoMeter](https://github.com/intuit/autometer) - 基于 JMeter 主从架构的使用分布式从属扩展负载测试的自动化工具.
 - 云端测试
   - Kubernetes
     - [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - JMeter 集群支持 Kubernetes 和 OpenShift.
     - [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s 入门套件，具有实时测试报告、JMeter 监控、k8s 监控和模拟即服务.
-    - [kangal](https://github.com/hellofresh/kangal) - Kubernetes 和 Go Automatic Loader 解决方案，使用多个负载生成器在 Kubernetes 集群中运行性能测试.
+    - [kangal](https://github.com/hellofresh/kangal) - Kubernetes 和 Go Automatic Loader 解决方案，用于使用多个负载生成器在 Kubernetes 集群中运行性能测试.
     - [aks_testing_fwk](https://github.com/petegrimsdale/aks_testing_fwk) - 基于 AKS 的可扩展 JMeter 测试框架，带有 Grafana 报告.
   - 亚马逊网络服务
     - [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) - 在 Amazon EC2 上自动运行 Apache JMeter.
@@ -207,7 +207,7 @@
   - [JMeter Results from ClickHouse](https://grafana.com/grafana/dashboards/9561) - 使用 [JMeter Listener pack](https://gitlab.com/testload/jmeter-listener/-/wikis/3.3-ClickHouse-usage)、ClickHouse 和 Grafana 来收集和监控测试结果.
   - [jmeter-clickhouse-listener](https://gitlab.com/testload-group/jmeter-clickhouse-listener) - JMeter 插件允许将负载测试数据即时写入 ClickHouse.
 - 后端监听器实现
-  - [jmeter-elasticsearch-backend-listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter 插件将测试结果发送到 ElasticSearch 引擎.
+  - [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) - JMeter 插件将测试结果发送到 ElasticSearch 引擎.
   - [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) - 用于将测试结果发送到 Azure Application Insights 的 JMeter 插件.
   - [jmeter-backend-listener-kafka](https://github.com/rahulsinghai/jmeter-backend-listener-kafka) - JMeter 插件将测试结果发送到 Kafka 服务器.
   - [jmeter-listener](https://gitlab.com/testload/jmeter-listener) - JMeter 插件可将负载测试数据即时写入 ClickHouse、InfluxDB、ElasticSearch.

@@ -70,7 +70,8 @@
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整且易于使用的 MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - 适用于 Clickhouse 的 SQL 编辑器和开源简单商业智能.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - 适用于关系数据库的现代、原生和友好的 GUI 工具：MySQL、PostgreSQL、SQLite 等.
-- [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
+- [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web 管理 GUI - 从任何地方使用您的 PostgreSQL 数据库，具有丰富、快速的 AJAX Web 界面.
+- [Query.me](https://query.me)  - Notebook 格式的协作 SQL 编辑器. 让您使用 JINJA 引用查询结果、可视化数据以及安排运行和导出.
 
 
 ## CLI
@@ -81,14 +82,15 @@
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
+- [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等.
 - [SQLLine](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 向关系数据库发出 SQL 的命令行 shell.
 - [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
 
 ### dbcli
-- [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以进行自动完成和语法高亮显示.
+- [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以进行自动补全和语法高亮.
 - [litecli](https://github.com/dbcli/litecli) - 用于 SQLite 数据库的 CLI，具有自动完成和语法高亮功能.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - 具有自动完成和语法突出显示的 SQL Server 命令行客户端.
-- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的 MySQL 终端客户端.
 - [pgcli](https://github.com/dbcli/pgcli) - 具有自动完成和语法突出显示的 Postgres CLI.
 - [vcli](https://github.com/dbcli/vcli) - 具有自动完成和语法突出显示的 Vertica CLI.
 
@@ -148,15 +150,17 @@
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - 一个中间层 Java 应用程序，ORDS 将 HTTP(S) 动词（GET、POST、PUT、DELETE 等）映射到数据库事务并返回使用 JSON 格式化的任何结果.
 - [Prisma](https://github.com/prismagraphql/prisma) - Prisma 将您的数据库变成实时 GraphQL API.
+- [PostGraphile](https://github.com/graphile/postgraphile) - 通过将 PostGraphile 指向您现有的 PostgreSQL 数据库，立即启动 GraphQL API 服务器.
 - [PostgREST](https://github.com/PostgREST/postgrest) - 任何 Postgres 数据库的 REST API.
 - [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
 - [restSQL](https://github.com/restsql/restsql) - 带有 Java 和 HTTP API 的 SQL 生成器，使用带有 XML 或 JSON 序列化的简单 RESTful HTTP API.
-- [resquel](https://github.com/formio/resquel) - 轻松将您的 SQL 数据库转换为 REST API.
+- [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - 为您的旧数据库自动生成 RESTful API 服务.
 
 
 ## Application platforms
 用于应用程序构建的低代码和无代码平台
+- [Appsmith](https://github.com/appsmithorg/appsmith) - 强大的开源低代码框架，非常快速地构建内部应用程序.
 - [Budibase](https://github.com/Budibase/budibase) - 用于在几分钟内创建内部应用程序的低代码平台.
 - [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码构建器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
 
@@ -189,7 +193,7 @@
 - [Monyog](https://www.webyog.com/product/monyog) - 无代理且经济高效的 MySQL 监控工具.
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) - 使用 collectd、InfluxDB 和 Grafana 监控 Linux 上的 SQL Server 性能.
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - 一个安全、简单、无代理的远程服务器监控工具，具有强大的功能，使您的监控尽可能有效.
-- [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
+- [Percona Monitoring and Management](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 - [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
 - [pgDash](https://pgdash.io) - 测量和跟踪 PostgreSQL 数据库的各个方面.
@@ -201,7 +205,7 @@
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
 - [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 在您的 PostgreSQL 数据库上提取和提供指标的服务.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
-- [Promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL.
+- [Promscale](https://github.com/timescale/promscale) - 由 SQL 支持的度量和跟踪的开源可观察性后端.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
 
 ### Prometheus
@@ -238,7 +242,7 @@
 ## Kubernetes
 - [KubeDB](https://kubedb.com) - 在 Kubernetes 上轻松运行生产级数据库.
 - [Postgres operator](https://github.com/zalando/postgres-operator) - Postgres Operator 在由 Patroni 提供支持的 Kubernetes (K8s) 上启用高可用性 PostgreSQL 集群.
-- [Spilo](https://github.com/zalando/spilo) - 使用 Docker 的 HA PostgreSQL 集群.
+- [Spilo](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
 - [StackGres](https://gitlab.com/ongresinc/stackgres) - Kubernetes 上的企业级全栈 PostgreSQL.
 
 
@@ -313,6 +317,7 @@
 - [Steampipe](https://github.com/turbot/steampipe) - 使用 SQL 即时查询您的云服务（AWS、Azure、GCP 等）.
 - [TextQL](https://github.com/dinedal/textql) - 针对 CSV 或 TSV 等结构化文本执行 SQL.
 - [trdsql](https://github.com/noborus/trdsql) - 可以在 CSV、LTSV、JSON 和 TBLN 上执行 SQL 查询的 CLI 工具.
+- [Trino](https://github.com/trinodb/trino) - Trino 是一种分布式 SQL 查询引擎，旨在查询分布在一个或多个异构数据源上的大型数据集.
 
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL 语言服务器.

@@ -244,6 +244,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源. 
 - [daotools](https://daotools.org/) - 在一个 Dapp 中管理您的所有 DAO 投票会话.
 - [FORUM](https://forum.ax/) - Algorand 区块链上的股权证明社交网络.
+- [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
 
 ## ARCs
 

@@ -19,7 +19,7 @@
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf)  - Gltf 资产加载器和测试渲染器； 支持骨骼动画和变形目标.
 * [Lovox](https://github.com/tjakka5/Lovox) - 用于处理体素的伪 3D 库.
 * [g3d](https://github.com/groverburger/g3d) - LÖVE 简单易用的 3D 引擎.
-* [model_renderer](https://github.com/xiejiangzhi/model_renderer) - A simple 3d model renderer for love2d.
+* [model_renderer](https://github.com/xiejiangzhi/model_renderer) - love2d 的简单 3d 模型渲染器.
 
 
 ## AI
@@ -72,7 +72,7 @@
 * [Autobatch](https://github.com/rxi/autobatch) - 用于自动使用 SpriteBatches 的小型 LÖVE 模块.
 * [deep](https://github.com/Nikaoto/deep)  - 增加 Z 轴； 允许您对动作进行排队并绘制调用.
 * [draft](https://github.com/pelevesque/draft) - 用于绘制复杂形状的模块.
-* [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - Similar to deep, but you can set a custom sorting method and create multiple, nestable instances.
+* [grove.draworder](https://github.com/FloatingBanana/Grove/blob/master/grove/draworder.lua) - 与 deep 类似，但您可以设置自定义排序方法并创建多个可嵌套的实例.
 * [HSLUV](https://github.com/hsluv/hsluv-lua) - HSLuv 的 Lua 实现（HSL 的人性化替代方案）.
 * [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器.
 * [Push](https://github.com/Ulydev/push) - LÖVE 的简单分辨率处理库.
@@ -97,7 +97,7 @@
 ## Helpers
 *提供可重用功能的游戏特定库包*
 
-* [astray](https://github.com/SiENcE/astray) - Astray 是一个基于 lua 的迷宫、房间和地牢生成库，用于地牢爬行者和 roguelike 视频游戏.
+* [astray](https://github.com/SiENcE/astray) - Astray 是一个基于 lua 的迷宫、房间和地牢生成库，用于地牢爬行者和 Roguelike 视频游戏.
 * [batteries](https://github.com/1bardesign/batteries/) - 填充lua的稀疏标准库，提供对游戏有用的常用算法和数据结构的实现.
 * [cartographer](https://github.com/tesselode/cartographer) - 小型平铺地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) - 一个帮助库，可让您快速加载大量资产.
@@ -186,7 +186,7 @@
 
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - LÖVE 的分析库，具有详细的分析和线程支持.
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具.
-* [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形分析器.
+* [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，它与 LuaJIT 一起使用，并在列中打印一个漂亮的报告文件.
 
 ## Physics
@@ -272,7 +272,8 @@
 * [Lynx](https://gitlab.com/TSnake41/lynx) - 非常轻量级的基于列表的 UI 库.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - 灵活的布局库.
 * [Patchy](https://github.com/excessive/patchy) - 9patch 库.
-* [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
+* [Slicy](https://github.com/wqferr/slicy) - 更新的 9patch/9slice 库修复了 Patchy 的一些问题.
+* [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 在 LÖVE 游戏引擎上运行的用 Lua 编写的高度可配置的文本编辑器/编码工具.
 * [SafeWord](https://github.com/josefnpat/safeword) - LÖVE 的过扫描检测库.
 * [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.

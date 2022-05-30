@@ -350,7 +350,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Patchwork](http://patchwork2.org/) - 用于重新定义用户空间功能的库.
 * [Pipeline](https://github.com/thephpleague/pipeline) - 管道模式实现.
 * [Porter](https://github.com/ScriptFUSION/Porter) - 用于使用 Web API 和其他数据源的数据导入抽象库.
-* [Ruler](https://github.com/bobthecow/Ruler) - 一个简单的无状态生产规则引擎.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - 一个强大的规则引擎和规范模式的实现.
 
 ### Debugging and Profiling
@@ -470,7 +469,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - 用于处理 Microsoft PowerPoint 演示文稿的库.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - 用于处理 Microsoft Word 文档的库.
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 一个用于读写电子表格文件的纯 PHP 库（PHPExcel 的继承者）.
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 用于读写电子表格文件的纯 PHP 库（PHPExcel 的继承者）.
 * [Spout](https://github.com/box/spout) - 以快速且可扩展的方式读写电子表格文件（CSV、XLSX 和 ODS）.
 
 ### Database
@@ -489,7 +488,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
 * [RedBean](https://redbeanphp.com/index.php) - 一个轻量级、无配置的 ORM.
 * [Slimdump](https://github.com/webfactory/slimdump) - 一个简单的 MySQL 转储工具.
-* [Spot2](https://github.com/spotorm/spot2) - MySQL 数据文件夹 ORM.
+* [Spot2](https://github.com/spotorm/spot2) - MySQL 数据映射器 ORM.
 
 ### Migrations
 帮助管理数据库模式和迁移的库.
@@ -572,7 +571,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Parsedown](https://github.com/erusev/parsedown) - 另一个 Markdown 解析器.
 * [PHP CSS Parser](https://github.com/sabberworm/PHP-CSS-Parser) - 用 PHP 编写的 CSS 文件解析器.
 * [PHP Markdown](https://github.com/michelf/php-markdown) - Markdown 解析器.
-* [Shiki PHP](https://github.com/spatie/shiki-php) - 一种 [Shiki](https://github.com/shikijs/shiki) PHP中的代码高亮包.
+* [Shiki PHP](https://github.com/spatie/shiki-php) - 一个 [Shiki](https://github.com/shikijs/shiki) PHP中的代码高亮包.
 * [VObject](https://github.com/sabre-io/vobject) - 用于解析 VCard 和 iCalendar 对象的库.
 
 ### JSON
@@ -620,7 +619,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [CakePHP Validation](https://github.com/cakephp/validation) - 另一个验证库.
 * [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的 PHP 过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 一个用于根据 ISO、国际金融、公共管理、GS1、图书业、许多国家的电话号码和邮政编码标准验证输入的库.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持 YAML、JSON 和 XML 的模式验证库.
 * [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) - 用于处理文件上传和验证的库.

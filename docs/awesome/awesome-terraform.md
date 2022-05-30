@@ -6,7 +6,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编码为声明性配置文件，可以在团队成员之间共享、视为代码、编辑、审查和版本化.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一个开源工具，可将 API 编码为声明性配置文件，可以在团队成员之间共享、视为代码、编辑、审查和版本化.
 
 由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
@@ -60,7 +60,7 @@
 
 ### Beginner Guides
 
-- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - “Terraform: Up &amp; Running”作者的系列博客文章，指导读者从 Terraform 开始到在现实世界中使用它.
+- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - “Terraform: Up &amp; Running”作者的一系列博客文章，指导读者从 Terraform 开始到在现实世界中使用它.
 - [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - 配置 EC2 实例.
 - [Hello, world: The Fargate/Terraform tutorial I wish I had](https://section411.com/2019/07/hello-world/) - 描述从头开始设置 ECS Fargate 集群的博客文章
 
@@ -73,14 +73,14 @@
 ### How-To
 
 - [How To Write OPA for Terraform](https://www.scalr.com/blog/opa-series-part-1-open-policy-agent-and-terraform/) - 如何使用 Open Policy Agent 来评估和执行 Terraform 计划的策略
-- [Deploying Discourse with Terraform](https://web.archive.org/web/20181001135342/http://www.hashicorp.com/blog/deploying-discourse-with-terraform) - 展示 Terraform 如何通过一个命令在 DigitalOcean 上创建一个正在运行的 Discourse 实例.
+- [Deploying Discourse with Terraform](https://web.archive.org/web/20181001135342/http://www.hashicorp.com/blog/deploying-discourse-with-terraform) - 展示了 Terraform 如何通过一个命令在 DigitalOcean 上创建一个正在运行的 Discourse 实例.
 - [Deploying Django to AWS ECS with Terraform](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/) - 了解如何使用 Terraform 启动所需的 AWS 基础设施，以便在 ECS 上运行 Django 应用程序.
 - [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - 说明如何将 Terraform 整合到微服务部署管道中.
 - [Terraform for a Highly Available VPN between AWS and Azure](https://web.archive.org/web/20210616132857/https://deployeveryday.com/2020/04/13/vpn-aws-azure-terraform.html) - 用于在 AWS 和 Azure 之间部署高可用性 VPN 的 Terraform 代码.
 - [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - 1Password 如何从 CloudFormation 迁移到 Terraform.
 - [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用 OpenStack Terraform 提供程序部署 Web 服务器是多么容易.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - 确保您的基础设施零停机.
-- [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - 展示如何使用 terraform 创建安全的 Google Kubernetes 集群、Google Cloud Run 服务和其他基础设施元素，花费不到 [10$](https://nufailtd.github.io/budget-gcp/) 一个月.
+- [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - 展示如何使用 terraform 创建安全的 Google Kubernetes 集群、Google Cloud Run 服务和其他基础设施元素，成本低于 [10$](https://nufailtd.github.io/budget-gcp/) 一个月.
 
 ### Multi-Environment Configuration
 
@@ -138,8 +138,8 @@
 - [terraform-aws-eventbridge](https://github.com/terraform-aws-modules/terraform-aws-eventbridge) - 在 AWS 上创建 EventBridge 资源.
 - [terraform-aws-jenkins-ha-agents](https://github.com/neiman-marcus/terraform-aws-jenkins-ha-agents)  - 基于 EC2 的 Jenkins 部署与 HA（现场）代理. 在 EFS 上运行以实现不变性. 完全可定制，具有合理的默认值.
 - [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - 使用 Jenkins 构建 Docker 映像，将其保存到 ECR 存储库，并将其部署到运行 Docker 堆栈的 Elastic Beanstalk.
-- [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - 自动生成 SSH 密钥对（公钥/私钥）.
-- [terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform 模块，它构建依赖项和包，并以无数种组合创建 AWS Lambda 资源.
+- [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
+- [terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) - Terraform 模块，它构建依赖项和包，并以无数组合创建 AWS Lambda 资源.
 - [terraform-aws-lambda-auto-package](https://github.com/nozaq/terraform-aws-lambda-auto-package) - 用于定义 lambda 函数的 terraform 模块，自动构建和打包源文件以用于 lambda 部署.
 - [terraform-aws-managed-service-prometheus](https://github.com/clowdhaus/terraform-aws-managed-service-prometheus) - 在 AWS 上为 Prometheus (AMP) 资源创建 AWS Managed Service.
 - [terraform-aws-modules](https://github.com/terraform-aws-modules) - 社区支持的 Terraform AWS 模块集合（包括官方 AWS 模块）.
@@ -178,6 +178,7 @@
 - [modulehub](https://www.modulehub.io) - 私有 Terraform 模块注册表和状态后端.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Terraform 注册协议的简单实现.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - 提供由 GitHub 版本支持的 terraform 提供程序注册表.
+- [terrareg](https://github.com/matthewjohn/terrareg) - 带有 UI 和 git 支持的索引/导入的私有 Terraform 模块注册表
 
 ## Private Provider Registries
 
@@ -251,7 +252,7 @@
 - [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform 和 Live Cloud 基于上下文的分析工具，用于 terraform&gt;=0.12 :heavy_dollar_sign:
 - [driftctl](https://github.com/snyk/driftctl) - 检测、跟踪和提醒基础设施漂移
 - [flora](https://github.com/ketchoop/flora) - Terraform 版本管理器.
-- [fogg](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
+- [fogg](https://github.com/chanzuckerberg/fogg) - 用于消除管理 terraform 存储库的工作的工具.
 - [former2](https://github.com/iann0036/former2) - 从您的 AWS 账户中的现有资源生成 terraform 配置.
 - [gaia](https://github.com/gaia-app/gaia) - 用于导入和运行 Terraform 模块的 Web 应用程序.
 - [hcldump](https://github.com/magodo/hcldump) - 转储 HCL (v2) 抽象语法树.
@@ -266,10 +267,10 @@
 - [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) - 基础设施作为代码生成器从创建的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到 Terraform.
 - [para](https://github.com/paraterraform/para)  - 缺少的第 3 方插件管理器和 Terraform/Terragrunt 的“瑞士军刀” - 只需 1 个工具即可促进所有工作流程.  ：颅骨：
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - 预先提交 git 挂钩以处理 Terraform 配置（自动格式化、验证、更新文档）.
-- [pretf](https://github.com/raymondbutcher/pretf) - drop-in Terraform wrapper that generates Terraform configuration with Python. See [pretf documentation](https://pretf.readthedocs.io/en/latest/)
+- [pretf](https://github.com/raymondbutcher/pretf)  - 使用 Python 生成 Terraform 配置的插入式 Terraform 包装器. 看 [pretf documentation](https://pretf.readthedocs.io/en/latest/)
 - [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自 Github 的外部模块，以便在 Terraform 中使用.
 - [prettyplan](https://github.com/chrislewisdev/prettyplan) - 漂亮计划（[available online here](https://chrislewisdev.github.io/prettyplan/) ) 是一个小工具，可帮助您轻松查看大型 Terraform 计划.  ：鬼：
-- [regula](https://github.com/fugue/regula) - 在部署之前评估 Terraform 基础设施即代码的潜在 AWS、Azure 和 Google Cloud 安全配置错误和合规性违规行为.
+- [regula](https://github.com/fugue/regula) - 在部署之前评估 Terraform 基础设施即代码的潜在 AWS、Azure 和 Google Cloud 安全配置错误和合规违规行为.
 - [rover](https://github.com/im2nguyen/rover) - 交互式 Terraform 状态和配置浏览器.
 - [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - 用于调用 terraform 命令的简单 Ruby 包装器.
 - [scenery](https://github.com/dmlittle/scenery)  - 另一个 Terraform 计划输出美化器.  ：鬼：
@@ -280,14 +281,14 @@
 - [tau](https://github.com/avinor/tau) - Tau 是 terraform 之上的一个瘦包装器，用于管理多个部署、依赖项和机密.
 - [terraboard](https://github.com/camptocamp/terraboard) - 用于检查 Terraform 状态的 Web 仪表板.
 - [terraboot](https://github.com/MastodonC/terraboot) - DSL 生成一个 terraform 配置并运行它.
-- [terracognita](https://github.com/cycloidio/terracognita) - 从现有的云提供商（反向 Terraform）中读取数据，并将您的基础设施生成为 Terraform 配置上的代码.
+- [terracognita](https://github.com/cycloidio/terracognita) - 从现有的云提供商（反向 Terraform）中读取数据并将您的基础设施生成为 Terraform 配置上的代码.
 - [terracost](https://github.com/cycloidio/terracost) - 在 CLI 中估算 Terraform 的云成本.
 - [TerraDepot](https://github.com/derBroBro/TerraDepot)  Terraform 状态存储库，基于默认的 http 远程后端. 允许在 AWS S3 上集中管理 tfstates.
 - [terradozer](https://github.com/jckuester/terradozer) - Terraform 在没有配置文件的情况下销毁.
 - [terrafile](https://github.com/coretech/terrafile) - 系统地管理来自 Github 的外部模块，用于 Terraform（用 Go 编写）.
 - [terrafile](https://github.com/dxw/terrafile) - 系统地管理来自 Github 的外部模块，用于 Terraform（用 Ruby 编写）.
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle)  - 轻松构建包含 Terraform 二进制文件和提供程序二进制文件的包. 对于 CI 和气隙 Terraform Enterprise 很有用.
-- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Terraform 的 CDK（云开发工具包）允许开发人员使用熟悉的编程语言来定义云基础设施并通过 HashiCorp Terraform 进行配置.
+- [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - 用于 Terraform 的 CDK（云开发工具包）允许开发人员使用熟悉的编程语言来定义云基础设施并通过 HashiCorp Terraform 进行配置.
 - [terraform-credentials-vault](https://github.com/oulman/terraform-credentials-vault) - 一个 Terraform “凭证助手”插件，允许通过环境变量为 Terraform 本地服务（私有模块注册表、Terraform 云等）提供凭证.
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs) - 从 terraform 模块生成文档的快速实用程序.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - 命令行工具允许将 terraform graph 命令的几乎不可用的输出转换为更有意义和解释性的东西.
@@ -306,10 +307,10 @@
 - [terrahelp](https://github.com/opencredo/terrahelp) - 旨在提供补充功能的命令行实用程序，在使用 Terraform 时有时会被证明是有用的.
 - [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时 terraform 执行，以及历史 terraform 运行的审计和报告功能.  :heavy_dollar_sign:
 - [terramate](https://github.com/mineiros-io/terramate) - 用于管理多个 Terraform 堆栈的工具，支持更改检测和代码生成
-- [terrascan](https://github.com/accurics/terrascan) - 收集用于 terraform 模板的静态代码分析的安全性和最佳实践测试
+- [terrascan](https://github.com/accurics/terrascan) - Collection of security and best practice test for static code analysis of terraform templates
 - [terraspace](https://terraspace.cloud) - Terraform 框架
 - [terrastate](https://github.com/rohinivsenthil/terrastate) - 用于监视/部署/销毁工作区中的 Terraform 资源的 Visual Studio Code 扩展
-- [terratag](https://github.com/env0/terratag) - Terratag 是一个 CLI 工具，它使 Terraform 的用户能够在其整个 AWS、Azure 和 GCP 资源集上自动创建和维护标签.
+- [terratag](https://github.com/env0/terratag) - Terratag 是一个 CLI 工具，它使 Terraform 的用户能够在其整个 AWS、Azure 和 GCP 资源集中自动创建和维护标签.
 - [tf-init-booster](https://github.com/hayorov/terraform-init-booster) 一个 Pre-terraform 例程，可加速 terraform 模块下载庞大的蓝图.
 - [tfaction](https://github.com/suzuki-shunsuke/tfaction) - Opinionated Terraform 工作流的 GitHub Actions 集合
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI 通知计划结果并作为 Pull Request 评论应用.
