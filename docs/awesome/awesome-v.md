@@ -34,6 +34,9 @@
 ### Editors
 
 - [ved](https://github.com/vlang/ved)  - 1 MB 用 V 编写的文本编辑器，带有硬件加速文本渲染. 在 &lt;1s 内编译.
+- [vee](https://github.com/Larpon/vee)  - V 编辑器引擎. 提供文本编辑器功能的 AV 模块. 附带一个 [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
+- [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - 来自官方 V 示例的小型文本编辑器.
+
 
 ### Web
 
@@ -141,7 +144,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供原生 V-lang 支持.
 
 ### Networking
 
@@ -183,8 +186,8 @@
 
 - [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
 - [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装器.
-- [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
-- [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
+- [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) 图形用户界面工具包.
+- [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) 图形用户界面工具包.
 
 ### Scientific computing
 
@@ -211,7 +214,7 @@
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - Atom 的 V 语言支持（vscode-vlang 的端口）.
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
 - [v-mode](https://github.com/damon-kwok/v-mode) - V 编程语言的 Emacs 主要模式.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
 
 ### Editor plugins
 

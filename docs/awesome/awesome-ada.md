@@ -253,6 +253,7 @@
 - [cxos](https://github.com/ajxs/cxos) - Ada 操作系统开发示例.
 - [havk](https://github.com/RavSS/HAVK) - 使用 SPARK 创建以 x86-64 为中心的安全操作系统.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS 是一个多处理器、64 位、（部分）正式验证的通用操作系统，目前用于 x86-64 架构.
+- [ironclad](https://github.com/streaksu/Ironclad) - 一个致力于 POSIX 兼容性的 x86_64 设备的内核，用于多个发行版，如 [Gloire](https://github.com/streaksu/Gloire).
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) - 带有蒸汽朋克背景的天空 Roguelike.
@@ -336,7 +337,7 @@
 
 #### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven 是一个用于 Ada 编程的简单单元测试库和框架.
-语言. 它在 JUnit 和 AUnit 的一些想法之后松散地建模.
+语. 它在 JUnit 和 AUnit 的一些想法之后松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
@@ -605,7 +606,7 @@
 - [etherscope](https://github.com/stcarrez/etherscope) - STM32F746 板上的以太网流量监控器.
 
 #### Bindings
-- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
+- [svd2ada](https://github.com/AdaCore/svd2ada) - 来自 SVD 描述的 Ada 绑定生成器，用于裸板 ARM 设备.
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Pebble Time 智能手表的 Ada 绑定.
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - 用于 WiringPi 的 Ada 绑定.
 
@@ -618,7 +619,7 @@
 - [hunter](https://github.com/thindil/hunter) - Linux 的图形 ([gtkada]) 文件管理器.
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder 是一个邮件过滤器，作为邮件服务器的插件运行，提供对数十个标准的过滤以及对已知良好邮件的管理.
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder 是一个邮件过滤器，可作为邮件服务器的插件运行，提供对数十个标准的过滤以及对已知良好邮件的管理.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - 由 SPARK/Ada 验证的权威 DNS 服务器.
@@ -645,7 +646,7 @@
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - Ada95 库单元规范的 HTML 生成器.
 - [pascal-to-ada](https://github.com/zertovitch/pascal-to-ada) - Pascal 到 Ada 的翻译器.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - 用于平铺地图编辑器的代码生成器.
-- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 此工具将在 Ada Conformity Assessment Authority 上共享的 CVS 存储库导入 Git 存储库.
+- [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - This tool imports CVS repository shared on Ada Conformity Assessment Authority into the Git repository.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Ada 源代码中 Java 有效源代码的翻译器.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS 是实验性开源编译器，[matreshka] 的组件.
 - [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  - SofCheck AdaMagic 是针对 C 和/或 C++ 的 ACATS 验证和认证的 Ada 编译器（用于微调的 4 个命令行开关）.  ObjectAda 和其他几个商业编译器与 AdaMagic 共享引擎.  MapuSoft 将 AdaMagic 作为 AppCOE 的组成部分分发.

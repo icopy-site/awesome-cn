@@ -6,7 +6,7 @@
 
 以下是使用的所有很棒的项目、应用程序、研究、教程、课程和书籍的精选列表 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O 提供许多有监督和无监督机器学习算法的并行实现，例如广义线性模型、梯度提升机（包括 XGBoost）、随机森林、深度神经网络（深度学习）、堆叠集成、朴素贝叶斯、Cox 比例风险、K-means 、PCA、Word2Vec，以及全自动机器学习算法（AutoML）.
 
-[H2O.ai](http://www.h2o.ai/about/) 产生许多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) 关于 H2O，但下面的列表包含由更大的 H2O 用户社区制作的精彩内容.
+[H2O.ai](http://www.h2o.ai/about/) 产生许多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 关于 H2O，但下面的列表包含由更大的 H2O 用户社区制作的精彩内容.
 
 我们刚刚开始使用此列表，因此非常感谢拉取请求！ 请查看 [contribution guidelines](https://github.com/h2oai/awesome-h2o/blob/master/contributing.md) 在提出拉取请求之前. 如果您不是 GitHub 用户并且想要做出贡献，请发送电子邮件至 community@h2o.ai.
 
@@ -53,11 +53,12 @@
 
 ## Research Papers
 
+- [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor)  Padmavati Kulkarnia、V.Sreekantha、Adithi R.Upadhyab、Hrishikesh ChandraGautama.  (2022)
 - [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/)  Noa Galtung、Eva Diehl-Wiesenecker、Dana Lehmann、Natallia Markmann、Wilma H Bergström、James Wacker、Oliver Liesenfeld、Michael Mayhew、Ljubomir Buturovic、Roland Luethy、Timothy E Sweeney、Rudolf Tauber、Kai Kappert、Rajan Somasundaram、Wolfgang Bauer.  (2022)
 - [Depression Level Prediction in People with Parkinson’s Disease during the COVID-19 Pandemic](https://embc.embs.org/2021/) ) Hashneet Kaur、Patrick Ka-Cheong Poon、Sophie Yuefei Wang、Diane Myung-kyung Woodbridge.  (2021)
-- [Machine Learning-based Meal Detection Using Continuous Glucose Monitoring on Healthy Participants: An Objective Measure of Participant Compliance to Protocol](https://embc.embs.org/2021/) 维克多·帕拉西奥斯、黛安·明京·伍德布里奇、让·L·弗莱.  (2021)
+- [Machine Learning-based Meal Detection Using Continuous Glucose Monitoring on Healthy Participants: An Objective Measure of Participant Compliance to Protocol](https://embc.embs.org/2021/)  Victor Palacios、Diane Myung-kyung Woodbridge、Jean L. Fry.  (2021)
 - [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna、Joel Bernanke、Kakyeong Kim、Natalie Aw、Jordan D. Dworkin、Jiook Cha、Jonathan Posner（2021 年）.
-- [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) 阿尔贝托·萨托里、毛罗·波达、伊曼纽尔·博特里、罗伯托·帕塞拉、费迪南多·阿格雷斯塔、阿尔贝托·阿雷佐.  (2021) 
+- [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) Alberto Sartori, Mauro Podda, Emanuele Botteri, Roberto Passera, Ferdinando Agresta, Alberto Arezzo. (2021) 
 - [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf) Shafiullah Qureshi, Ba Chu, Fanny S. Demers. (2021)
 - [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321)  Nussaïbah B. Raja、Andreas Lauchstedt、John M. Pandolfi、Sun W. Kim、Ann F. Budd、Wolfgang Kiessling.  (2021)
 - [Machine Learning as a Tool for Improved Housing Price Prediction](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2739783/masterthesis.pdf?sequence=1)  Henrik I W. Wolstad 和 Didrik Dewan.  (2020)
@@ -98,7 +99,7 @@
 ## Benchmarks
 
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)  - 分类编码方案的基准和对基于树的模型的影响（Scikit-learn vs H2O）.  2016 年 10 月 28 日
-- [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - R. 中开源深度学习包的基准测试，2016 年 3 月 7 日
+- [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - R 中开源深度学习包的基准测试.2016 年 3 月 7 日
 - [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  - 随机森林、GBM、深度学习和 GLM 在通用开源 ML 框架中实现的基准.  2015 年 7 月 3 日
 
 ## Presentations
@@ -119,7 +120,7 @@
 
 - [modeltime.h2o R package](https://business-science.github.io/modeltime.h2o/): 使用 H2O AutoML 进行预测
 - [Evaporate](https://github.com/ML4LHS/Evaporate) ：通过 Javascript 在浏览器中运行 H2O 模型. 更多信息 [here](https://twitter.com/kdpsinghlab/status/1367992786239242248).
-- [splash R package](https://github.com/ML4LHS/splash) : 在 H2O MOJO 文件上飞溅用户界面. 更多信息 [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
+- [splash R package](https://github.com/ML4LHS/splash) : 在 H2O MOJO 文件上添加用户界面. 更多信息 [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 - [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip): 将 h2o 算法与 [parsnip](https://parsnip.tidymodels.org/) 包裹.
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
 - [Forecast the US demand for electricity](https://github.com/RamiKrispin/USelectricity): 实时 [dashboard](https://ramikrispin.github.io/USelectricity/) 美国电力需求（使用 H2O GLM 预测）

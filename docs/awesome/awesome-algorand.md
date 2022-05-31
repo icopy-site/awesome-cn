@@ -153,7 +153,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### Smart Contracts
 
 - [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApps）的特定领域语言.
-- [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
+- [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 - [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 
@@ -245,6 +245,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [daotools](https://daotools.org/) - 在一个 Dapp 中管理您的所有 DAO 投票会话.
 - [FORUM](https://forum.ax/) - Algorand 区块链上的股权证明社交网络.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
+- [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用、显示 NFT、账户分析等.
 
 ## ARCs
 

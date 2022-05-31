@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
 
-A curated list of amazingly awesome PHP libraries, resources and shiny things.
+精选的令人惊叹的 PHP 库、资源和闪亮的东西的列表.
 
 ## Contributing and Collaborating
 请参见 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
@@ -66,7 +66,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Drupal](https://www.drupal.org) - 企业级 CMS.
 * [Grav](https://github.com/getgrav/grav) - 一个现代的平面文件 CMS.
 * [Joomla](https://www.joomla.org/) - 另一个领先的 CMS.
-* [Kirby](https://getkirby.com/) - 适用于任何项目的平面文件 CMS.
+* [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://magento.com/) - 最受欢迎的电子商务平台.
 * [Moodle](https://moodle.org/) - 一个开源学习平台.
 * [Pico CMS](http://picocms.org/) - 一个极其简单、速度极快的平面文件 CMS.
@@ -92,7 +92,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lumen](https://lumen.laravel.com) - Laravel 的微框架.
 * [Mezzio](https://getexpressive.org/) - Laminas 的微框架.
 * [Radar](https://github.com/radarphp/Radar.Adr) - PHP 的 Action-Domain-Responder 实现.
-* [Silly](https://github.com/mnapoli/silly) - CLI 应用程序的微框架.
+* [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - 另一个简单的微框架.
 
 ### Micro Framework Extras
@@ -114,6 +114,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Templating
 *用于模板和词法分析的库和工具.*
 
+* [Latte](https://latte.nette.org/) - 最安全和真正直观的 PHP 模板.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - HAML 模板语言的 PHP 实现.
 * [Mustache](https://github.com/bobthecow/mustache.php) - Mustache 模板语言的 PHP 实现.
 * [PHPTAL](https://phptal.org/) - 一个 PHP 实现 [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) 模板语言.
@@ -124,7 +125,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Static Site Generators
 
 * [Couscous](http://couscous.io)  - Couscous 将 Markdown 文档变成漂亮的网站. 这是类固醇的 GitHub 页面.
-* [Jigsaw](http://jigsaw.tighten.co/) - 使用 Laravel&#39;s Blade 的简单静态站点.
+* [Jigsaw](http://jigsaw.tighten.co/) - Simple static sites with Laravel's Blade.
 * [Sculpin](https://sculpin.io) - 将 Markdown 和 Twig 转换为静态 HTML 的工具.
 * [Spress](http://spress.yosymfony.com) - 将 Markdown 和 Twig 转换为 HTML 的可扩展工具.
 
@@ -145,7 +146,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *用于抓取网站的库.*
 
 * [Chrome PHP](https://github.com/chrome-php/chrome) - 从 PHP 中检测无头 Chrome/Chromium 实例. 
-* [DiDOM](https://github.com/Imangazaliev/DiDOM) - 一个超快速的 HTML 抓取器和解析器.
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) - 一个超快速的 HTML 抓取和解析器.
 * [Embed](https://github.com/oscarotero/Embed) - 从任何 Web 服务或页面中提取信息.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网络爬虫.
 * [Symfony Panther](https://github.com/symfony/panther) - PHP 和 Symfony 的浏览器测试和网络爬虫库.
@@ -452,7 +453,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Brick\Money](https://github.com/brick/money) - PHP 的货币库，支持上下文、现金四舍五入、货币转换.
 * [OmniPay](https://github.com/thephpleague/omnipay) - 与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) - 支付抽象库.
-* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+* [Shopware](https://github.com/shopware/shopware) - 高度可定制的电子商务软件
 * [Swap](https://github.com/florianv/swap) - 汇率库.
 * [Sylius](https://sylius.com/) - 一个开源电子商务解决方案.
 
@@ -563,7 +564,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - 一个快速且可扩展的 Markdown 解析器.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - 高度可扩展的 Markdown 解析器，完全支持 [CommonMark spec](https://spec.commonmark.org/).
-* [Decoda](https://github.com/milesj/decoda) - 轻量级标记解析器库.
+* [Decoda](https://github.com/milesj/decoda) - 一个轻量级的标记解析器库.
 * [Essence](https://github.com/essence/essence) - 用于提取网络媒体的库.
 * [Embera](https://github.com/mpratt/Embera) - Oembed 消费者图书馆.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将 HTML 转换为 Markdown.
@@ -634,6 +635,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Drest](https://github.com/leedavis81/drest) - 将 Doctrine 实体公开为 REST 资源端点的库.
 * [HAL](https://github.com/blongden/hal) - 超文本应用程序语言 (HAL) 构建器库.
 * [Hateoas](https://github.com/willdurand/Hateoas) - HATEOAS REST Web 服务库.
+* [Jane](https://github.com/janephp/janephp/) - 具有验证支持的 OpenApi 客户端生成器.
 * [Restler](https://github.com/Luracast/Restler) - 将 PHP 方法公开为 RESTful Web API 的轻量级框架.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - 从 SOAP WSDL 文件生成 PHP 类的工具.
 
@@ -714,7 +716,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Twilio](https://github.com/twilio/twilio-php) - 官方 Twilio PHP REST API.
 
 ### Extensions
-*Libraries to help build PHP extensions.*
+*帮助构建 PHP 扩展的库.*
 
 * [PHP CPP](https://www.php-cpp.com/) - 用于开发 PHP 扩展的 C++ 库.
 * [Zephir](https://github.com/phalcon/zephir) - PHP 和 C++ 之间的编译语言，用于开发 PHP 扩展.
@@ -824,7 +826,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - 本书将向您展示如何通过理解函数式编程原理来利用这些新的 PHP5.3+ 特性
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - Chris Hartjes 撰写的关于使用 PHPUnit 进行单元测试的书.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - Brandon Savage 的一本关于面向对象的 PHP 的书.
-* [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - Josh Lockhart 撰写的关于 PHP 新特性和最佳实践的书.
+* [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - Josh Lockhart 关于 PHP 新特性和最佳实践的书.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - Paul M. Jones 撰写的一本关于对遗留 PHP 应用程序进行现代化改造的书.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - Colin O&#39;Dell 的电子书，涵盖 PHP 7 中的所有功能和更改.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - Dayle Rees 的一本关于学习编写 PHP 的书.

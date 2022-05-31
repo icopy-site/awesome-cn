@@ -22,7 +22,7 @@ Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/wor
 
 本书是对使用 Go 语言进行计算机编程的简短介绍.  Go 由 Google 设计，是一种通用编程语言，具有现代特性、简洁的语法和健壮的文档齐全的公共库，使其成为您学习的第一门编程语言的理想语言.
 
-这本书是免费 [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
+这本书是免费 [read online](http://www.golang-book.com/) 或者 [pdf f或者m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -54,7 +54,21 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://go101.org/article/res/101-front-cover-1400x.jpg" width="120px"/>
 
- Go 101 是一本专注于 Go 语法/语义和各种运行时相关事物（Go 1.17-pre 就绪）的书，并试图帮助 gophers 深入和彻底地理解 Go. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
+ Go 101 是一本专注于 Go 语法/语义和各种运行时相关的东西（Go 1.17-pre 准备好）的书，并试图帮助 gophers 对 Go 进行深入而透彻的理解. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
+
+### [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
+<img src="https://d2sofvawe08yqg.cloudfront.net/go-from-the-beginning/s_hero?1651955611" width="120px">
+
+在本书中，您将学习以下内容：
+
+- 构建控制台应用程序
+- 创建 Web API
+- 测试你的代码
+- 创建和发布其他人可以使用的可重用包
+- 在项目中组织您的文件
+- 处理文件和目录
+- 使用字符串库和正则表达式解析文本.
+
 
 ### [Practical Go Lessons](https://www.practical-go-lessons.com/) *Free*
 
@@ -70,7 +84,7 @@ Practical Go Lessons 有 41 章和 700 多页的插图.
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
 
- Go in Action 介绍了 Go 语言，引导你从好奇的开发者到 Go 大师. 本书首先介绍了 Go 的独特功能和概念.  （我们假设您已经掌握了另一种编程语言的速度，所以不要期望花费大量时间排练您已经知道的东西.）然后，您将获得编写包括 Web 在内的真实世界应用程序的实践经验网站和网络服务器，以及以让您的朋友嫉妒的速度操纵和转换数据的技术. 在最后几章中，您将深入了解 Go 语言，并了解 Go 大师们用来使他们的应用程序执行的技巧和秘密. 例如，您将学习使用 Go 强大的反射库并使用与 C 代码集成的真实示例.
+ Go in Action 介绍了 Go 语言，引导你从好奇的开发者到 Go 大师. 本书首先介绍了 Go 的独特功能和概念.  （我们假设您已经掌握了另一种编程语言，所以不要期望花费大量时间排练您已经知道的东西.）然后，您将获得编写包括 Web 在内的真实世界应用程序的实践经验网站和网络服务器，以及以让您的朋友嫉妒的速度操纵和转换数据的技术. 在最后几章中，您将深入了解 Go 语言，并了解 Go 大师们用来使他们的应用程序执行的技巧和秘密. 例如，您将学习使用 Go 强大的反射库并使用与 C 代码集成的真实示例.
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
@@ -82,7 +96,7 @@ Practical Go Lessons 有 41 章和 700 多页的插图.
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
- 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，呼吁特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+ 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -108,7 +122,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <a href="https://www.oreilly.com/library/view/introducing-go/9781491941997/"><img src="https://learning.oreilly.com/library/cover/9781491941997/250w/" width="120px"/></a>
 
-这本动手指南非常适合熟悉编程基础的初学者，简单介绍了 Google 的通用编程语言 Go. 作者 Caleb Doxsey 介绍了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学内容.
+这本动手指南非常适合熟悉编程基础知识的初学者，它提供了对 Google 通用编程语言 Go 的简单介绍. 作者 Caleb Doxsey 介绍了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学内容.
 
 ### [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -120,7 +134,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <a href="https://www.amazon.com/dp/B00TWLZVQQ/ref=cm_sw_em_r_mt_dp_hL5bGbWM00XG6"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
 
- Go，通常被称为golang，是谷歌于2007年最初开发的一种编程语言.本书帮助你开始使用Go编程. 它描述了语言的所有元素，并通过代码示例说明了它们的使用.
+Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
 
 ### [Go Recipes](https://link.springer.com/book/10.1007/978-1-4842-1188-5)
 
@@ -191,11 +205,11 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <img src="https://static.packt-cdn.com/products/9781801074858/cover/smaller" width="120px"/>
 
- Gin 是一个高性能的 HTTP Web 框架，用于在 Go 中构建 Web 应用程序和微服务. 本书旨在通过实际示例教您 Gin 框架的来龙去脉.
+ Gin 是一个高性能的 HTTP Web 框架，用于在 Go 中构建 Web 应用程序和微服务. 本书旨在借助实际示例教您 Gin 框架的来龙去脉.
 
 在继续构建真实世界的 RESTful API 之前，您将首先探索 Gin 框架的基础知识. 在此过程中，您将学习如何编写自定义中间件并了解路由机制，以及如何绑定用户数据和验证传入的 HTTP 请求. 本书还演示了如何使用 MongoDB 等 NoSQL 数据库大规模存储和检索数据，以及如何使用 Redis 实现缓存层. 接下来，您将了解如何使用 OAuth 2 和 JWT 等身份验证协议保护和测试 API 端点. 后面的章节将指导您在服务器端渲染 HTML 模板并使用 React Web 框架构建前端应用程序以使用 API 响应. 最后，您将在 Amazon Web Services (AWS) 上部署您的应用程序，并了解如何使用持续集成和持续交付 (CI/CD) 管道自动化部署过程.
 
-读完这本 Gin 书，您将能够使用 Gin 框架从头开始设计、构建和部署一个生产就绪的分布式应用程序.
+在这本 Gin 书的最后，您将能够使用 Gin 框架从头开始设计、构建和部署一个生产就绪的分布式应用程序.
 
 
 ### [Test-driven development with Go ](https://leanpub.com/golang-tdd) *Free*
@@ -240,7 +254,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <img src="https://images.manning.com/360/480/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png" width="120px"/>
 
- Go in Practice 指导您了解包管理、微服务通信等关键领域的数十种实际技术. 遵循食谱风格的问题/解决方案/讨论格式，这本实用手册建立在 Go 语言的基本概念之上，并介绍了您可以在日常应用程序中使用的特定策略. 您将学习构建 Web 服务、在云中使用 Go、测试和调试、路由、网络应用程序等技术.
+ Go in Practice 将指导您了解包管理、微服务通信等关键领域的数十种实际技术. 遵循食谱风格的问题/解决方案/讨论格式，这本实用手册建立在 Go 语言的基本概念之上，并介绍了您可以在日常应用程序中使用的特定策略. 您将学习构建 Web 服务、在云中使用 Go、测试和调试、路由、网络应用程序等技术.
 
 ### [A Go Developer's Notebook](https://leanpub.com/GoNotebook/)
 
@@ -355,7 +369,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1637343170143-XPC7BV7IZDWTUDW8KHBH/cover.png?format=120w" width="120px"/>
 
- Go 是编写 DevOps 和系统程序的流行选择，尤其是命令行工具. 我们如何在 Go 中编写简单、强大、惯用甚至漂亮的工具？ 这本书涵盖了所有必要的技术：功能选项、标志和参数、文件和文件系统、执行命令、编写 shell 和管道、JSON 和 YAML 争论，甚至是复杂的 API 客户端. 
+ Go 是编写 DevOps 和系统程序的流行选择，尤其是命令行工具. 我们如何在 Go 中编写简单、强大、惯用甚至漂亮的工具？ 本书涵盖了所有必要的技术：功能选项、标志和参数、文件和文件系统、执行命令、编写 shell 和管道、JSON 和 YAML 争论，甚至是复杂的 API 客户端. 
 
 更重要的是，本书教你如何像大师级软件工程师一样思考：如何将问题分解为可管理的块，如何在编写函数之前对其进行测试，以及如何设计让用户满意的 Go CLI.
 
@@ -402,7 +416,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 - 学习单元测试
 - 制作可爱的 CLI
 - 监控服务
-- Release with GitHub Actions
+- 使用 GitHub Actions 发布
 - 与 Docker 一起发布
 - 制定 Goroutines
 
@@ -456,7 +470,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <a href="https://amzn.com/B01LD8K5C0"><img src="https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL.jpg" width="120px"/></a>
 
-本课程是帮助您了解 Go 的强大功能以构建简单、可靠、安全和高效的 Web 应用程序的宝贵资源.
+本课程是一个非常宝贵的资源，可帮助您了解 Go 的强大功能，以构建简单、可靠、安全和高效的 Web 应用程序.
 
 ### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 
@@ -482,7 +496,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
- Let&#39;s Go 一步一步教你如何使用 Go 创建快速、安全和可维护的 Web 应用程序. 它会指导您从头到尾构建一个真实的应用程序——涵盖如何构建代码、管理依赖项、验证和授权用户、保护您的服务器和测试您的应用程序等主题.
+ Let&#39;s Go 一步一步教你如何使用 Go 创建快速、安全和可维护的 Web 应用程序. 它指导您从头到尾构建一个真实的应用程序——涵盖如何构建代码、管理依赖项、验证和授权用户、保护您的服务器和测试您的应用程序等主题.
 
 ### [Let's Go Further](https://lets-go-further.alexedwards.net/)
 
@@ -510,7 +524,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-通过学习如何设计、开发和部署分布式服务，将您的围棋技能提升到一个新的水平. 从存储处理的基本要素开始，通过将客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将服务部署到云中. 所有这些将使您在日常工作或副项目中的编码更容易、更快、更有趣.
+Take your Go skills to the next level by learning how to design, develop, and deploy a distributed service. Start from the bare essentials of storage handling, work your way through networking a client and server, turn that single-node application into a distributed system with service discovery and consensus, and then deploy your service to the cloud. All this will make coding in your day job or side projects easier, faster, and more fun.
 
 ### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
 
@@ -529,7 +543,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 <img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
 
 本书首先介绍了 Go 数据结构和算法. 您将学习如何使用链表、数组、堆栈和队列来存储数据. 继续前进，您将了解如何实现排序和搜索算法，然后是二叉搜索树. 本书还将通过在算法设计中对数据类型进行字符串化和实现散列结构来帮助您提高应用程序的性能. 最后，您将能够应用传统的数据结构来解决实际问题.
-By the end of the book, you'll have become adept at implementing classic data structures and algorithms in Go, propelling you to become a confident Go programmer.
+读完本书，你将熟练地在 Go 中实现经典的数据结构和算法，推动你成为一个自信的 Go 程序员.
 
 ### [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
 

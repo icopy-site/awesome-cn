@@ -177,7 +177,7 @@ _用于构建和使用机器人的库._
 - [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - 简单干净的电报机器人客户端.
 - [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec 终端命令.
 - [Tenyks](https://github.com/kyleterry/tenyks) - 使用 Redis 和 JSON 进行消息传递的面向服务的 IRC 机器人.
-- [wayback](https://github.com/wabarc/wayback) - Telegram、Mastodon、Slack 和其他消息平台存档网页的机器人.
+- [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 
 ## Build Automation
@@ -202,7 +202,7 @@ _帮助构建自动化的库和工具._
 
 _用于构建控制台应用程序和控制台用户界面的库._
 
-- [asciigraph](https://github.com/guptarohit/asciigraph) - 在命令行应用程序中打包以制作轻量级 ASCII 线图╭┈╯，没有其他依赖项.
+- [asciigraph](https://github.com/guptarohit/asciigraph) - 在没有其他依赖项的命令行应用程序中打包以制作轻量级 ASCII 线图╭┈╯.
 - [aurora](https://github.com/logrusorgru/aurora) - 支持 fmt.Printf/Sprintf 的 ANSI 终端颜色.
 - [box-cli-maker](https://github.com/Delta456/box-cli-maker) - 为您的 CLI 制作高度定制的盒子.
 - [cfmt](https://github.com/mingrammer/cfmt) - 受引导颜色类启发的上下文 fmt.
@@ -218,7 +218,7 @@ _用于构建控制台应用程序和控制台用户界面的库._
 - [gocui](https://github.com/jroimartin/gocui) - 旨在创建控制台用户界面的极简主义 Go 库.
 - [gommon/color](https://github.com/labstack/gommon/tree/master/color) - 样式终端文本.
 - [gookit/color](https://github.com/gookit/color) - 终端显色工具库，支持16色、256色、RGB显色输出，兼容Windows.
-- [marker](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
+- [marker](https://github.com/cyucelen/marker) - 为彩色终端输出匹配和标记字符串的最简单方法.
 - [mpb](https://github.com/vbauerster/mpb) - 终端应用程序的多进度条.
 - [progressbar](https://github.com/schollz/progressbar) - 适用于每个操作系统的基本线程安全进度条.
 - [pterm](https://github.com/pterm/pterm) - 一个库，用于美化每个平台上的控制台输出，具有许多可组合的组件.
@@ -280,7 +280,7 @@ _用于构建标准或基本命令行应用程序的库._
 - [sand](https://github.com/Zaba505/sand) - 用于创建解释器的简单 API 等等.
 - [sflags](https://github.com/octago/sflags) - 用于 flag、urfave/cli、pflag、cobra、kingpin 和其他库的基于结构的标志生成器.
 - [strumt](https://github.com/antham/strumt) - 创建提示链的库.
-- [subcmd](https://github.com/bobg/subcmd)  - 解析和运行子命令的另一种方法. 与标准的 `flag` 包一起工作.
+- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
 - [ts](https://github.com/liujianping/ts) - 时间戳转换和比较工具.
 - [ukautz/clif](https://github.com/ukautz/clif) - 小型命令行界面框架.
 - [urfave/cli](https://github.com/urfave/cli) - 用于在 Go 中构建命令行应用程序的简单、快速且有趣的包（以前称为 codegangsta/cli）.
@@ -295,7 +295,7 @@ _用于配置解析的库._
 - [aconfig](https://github.com/cristalhq/aconfig) - 简单、有用和固执己见的配置加载器.
 - [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - 简约的配置阅读器（来自文件、ENV 和任何你想要的地方）.
 - [config](https://github.com/JeremyLoy/config)  - 云原生应用程序配置. 仅用两行将 ENV 绑定到结构.
-- [config](https://github.com/num30/config) - 在两行代码中使用文件、环境变量或标志配置您的应用程序 
+- [config](https://github.com/num30/config) - 在两行代码中使用文件、环境变量或标志配置您的应用程序
 - [config](https://github.com/olebedev/config) - 带有环境变量和标志解析的 JSON 或 YAML 配置包装器.
 - [configuration](https://github.com/BoRuDar/configuration) - 用于从环境变量、文件、标志和“默认”标签初始化配置结构的库.
 - [configure](https://github.com/paked/configure) - 通过多种来源提供配置，包括 JSON、标志和环境变量.
@@ -308,7 +308,7 @@ _用于配置解析的库._
 - [envconf](https://github.com/ian-kent/envconf) - 从环境配置.
 - [envconfig](https://github.com/vrischmann/envconfig) - 从环境变量中读取您的配置.
 - [envh](https://github.com/antham/envh) - 管理环境变量的助手.
-- [fig](https://github.com/kkyr/fig) - 用于从文件和环境变量（带有验证和默认值）读取配置的微型库.
+- [fig](https://github.com/kkyr/fig) - 用于从文件和环境变量（具有验证和默认值）读取配置的微型库.
 - [gcfg](https://github.com/go-gcfg/gcfg)  - 将 INI 样式的配置文件读入 Go 结构； 支持用户定义的类型和小节.
 - [genv](https://github.com/sakirsensoy/genv) - 使用 dotenv 支持轻松读取环境变量.
 - [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - 从 AWS System Manager - Parameter Store 获取参数的 Go 包.
@@ -895,7 +895,7 @@ _会计和财务软件包._
 - [currency](https://github.com/bnkamalesh/currency) - 高性能和准确的货币计算包.
 - [decimal](https://github.com/shopspring/decimal) - 任意精度的定点十进制数.
 - [fastme](https://github.com/newity/fastme) - 快速可扩展匹配引擎 Go 实现.
-- [fpdecimal](https://github.com/nikolaydubina/fpdecimal) - 小定点小数的快速和精确的序列化和算术  
+- [fpdecimal](https://github.com/nikolaydubina/fpdecimal) - 小定点小数的快速和精确的序列化和算术
 - [go-finance](https://github.com/FlashBoys/go-finance) - 围棋中的综合金融市场数据.
 - [go-finance](https://github.com/alpeb/go-finance) - 货币时间价值（年金）、现金流、利率转换、债券和折旧计算的财务函数库.
 - [go-finance](https://github.com/pieterclaerhout/go-finance) - 获取汇率、通过 VIES 检查增值税号和检查 IBAN 银行帐号的模块.
@@ -937,6 +937,7 @@ _支持 Go 函数式编程的包._
 - [fuego](https://github.com/seborama/fuego) - Go 中的功能实验.
 - [go-underscore](https://github.com/tobyhede/go-underscore) - 有用的 Go 收集实用程序的有用集合.
 - [gofp](https://github.com/rbrahul/gofp) - 一个类似于 lodash 的强大的 Golang 实用程序库.
+- [mo](https://github.com/samber/mo) - Monads 和流行的 FP 抽象，基于 Go 1.18+ 泛型（选项，结果，无论...）.
 - [underscore](https://github.com/rjNemo/underscore) - Go 1.18 及更高版本的函数式编程助手.
 - [valor](https://github.com/phelmkamp/valor) - 可选包含值的通用选项和结果类型.
 
@@ -998,7 +999,7 @@ _地理工具和服务器_
 - [pbf](https://github.com/maguro/pbf) - OpenStreetMap PBF golang 编码器/解码器.
 - [S2 geojson](https://github.com/pantrif/s2-geojson) - 将 geojson 转换为 s2 单元格并在地图上展示一些 S2 几何特征.
 - [S2 geometry](https://github.com/golang/geo) - Go 中的 S2 几何库.
-- [simplefeatures](https://github.com/peterstace/simplefeatures) - simplesfeatures 是一个 2D 几何库，它提供了对几何进行建模的 Go 类型以及对其进行操作的算法.
+- [simplefeatures](https://github.com/peterstace/simplefeatures) - simplesfeatures 是一个 2D 几何库，它提供了对几何进行建模的 Go 类型，以及对其进行操作的算法.
 - [Tile38](https://github.com/tidwall/tile38) - 具有空间索引和实时地理围栏的地理定位数据库.
 - [Web-Mercator-Projection](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
 - [WGS84](https://github.com/wroge/wgs84) - 坐标转换和转换库（ETRS89、OSGB36、NAD83、RGF93、Web Mercator、UTM）.
@@ -1324,7 +1325,7 @@ _机器学习库._
 - [Goptuna](https://github.com/c-bata/goptuna)  - 用 Go 编写的黑盒函数的贝叶斯优化框架. 一切都会被优化.
 - [goRecommend](https://github.com/timkaye11/goRecommend) - 用 Go 编写的推荐算法库.
 - [gorgonia](https://github.com/gorgonia/gorgonia) - 基于图形的计算库，如 Go 的 Theano，提供用于构建各种机器学习和神经网络算法的原语.
-- [gorse](https://github.com/zhenghaoz/gorse) - 基于 Go 语言编写的协同过滤的离线推荐系统后端.
+- [gorse](https://github.com/zhenghaoz/gorse) - 基于 Go 编写的协同过滤的离线推荐系统后端.
 - [goscore](https://github.com/asafschers/goscore) - Go Scoring API for PMML.
 - [gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
 - [libsvm](https://github.com/datastream/libsvm) - 基于 LIBSVM 3.14 的 libsvm golang 版本派生工作.
@@ -1423,6 +1424,7 @@ _使用依赖注入的库._
 - [di](https://github.com/goava/di) - Go 编程语言的依赖注入容器.
 - [dig](https://github.com/uber-go/dig) - 基于反射的 Go 依赖注入工具包.
 - [dingo](https://github.com/i-love-flamingo/dingo) - 基于 Guice 的 Go 依赖注入工具包.
+- [do](https://github.com/samber/do) - 基于泛型的依赖注入框架.
 - [fx](https://github.com/uber-go/fx) - 基于依赖注入的 Go 应用程序框架（构建在 dig 之上）.
 - [gocontainer](https://github.com/vardius/gocontainer) - 简单的依赖注入容器.
 - [goioc/di](https://github.com/goioc/di) - 受 Spring 启发的依赖注入容器.
@@ -1525,7 +1527,7 @@ _这些库放在这里是因为其他类别似乎都不适合._
 - [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - 生成样板 http 输入和输出处理.
 - [varint](https://github.com/chmike/varint) - 一种比标准库中提供的更快的变长整数编​​码器/解码器.
 - [xdg](https://github.com/rkoesters/xdg) - 在 Go 中实现的 FreeDesktop.org (xdg) 规范.
-- [xkg](https://github.com/go-xkg/xkg) - X 键盘抓取器.
+- [xkg](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
 - [xz](https://github.com/ulikunitz/xz) - 用于读写 xz 压缩文件的纯 golang 包.
 
 
@@ -1590,7 +1592,7 @@ _使用人类语言的图书馆._
 - [gotext](https://github.com/leonelquinteros/gotext) - 用于 Go 的 GNU gettext 实用程序.
 - [icu](https://github.com/goodsign/icu)  - icu4c C 库检测和转换功能的 Cgo 绑定. 保证与版本 50.1 的兼容性.
 - [iuliia-go](https://github.com/mehanizm/iuliia-go) - 以各种可能的方式音译西里尔字母 → 拉丁语.
-- [spreak](https://github.com/vorlif/spreak) - 灵活的 Go 翻译和人性化库，基于 gettext 背后的概念. 
+- [spreak](https://github.com/vorlif/spreak) - 灵活的 Go 翻译和人性化库，基于 gettext 背后的概念.
 - [t](https://github.com/youthlin/t) - 另一个 golang 的 i18n pkg，遵循 GNU gettext 样式并支持 .po/.mo 文件：`tT (gettext)`、`tN (ngettext)` 等.它包含一个 cmd 工具 [xtemplate](https://github.com/youthlin/t/blob/main/cmd/xtemplate)，它可以从 text/html 模板中提取消息作为 pot 文件.
 
 ### Transliteration
@@ -1713,7 +1715,7 @@ _在 Go 中使用 OpenGL 的库._
 _实现对象关系映射或数据映射技术的库._
 
 - [cacheme](https://github.com/Yiling-J/cacheme-go) - 用于 Go 的基于模式的类型化 Redis 缓存/memoize 框架.
-- [ent](https://github.com/facebook/ent)  - Go 的实体框架. 用于建模和查询数据的简单但强大的 ORM.
+- [ent](https://github.com/facebook/ent)  - Go 的实体框架. 用于建模和查询数据的简单但功能强大的 ORM.
 - [go-firestorm](https://github.com/jschoedt/go-firestorm) - 用于 Google/Firebase Cloud Firestore 的简单 ORM.
 - [go-pg](https://github.com/go-pg/pg) - PostgreSQL ORM，专注于 PostgreSQL 特定功能和性能.
 - [go-queryset](https://github.com/jirfag/go-queryset) - 100% 类型安全的 ORM，具有代码生成和基于 GORM 的 MySQL、PostgreSQL、Sqlite3、SQL Server 支持.
@@ -1759,7 +1761,7 @@ _用于包和依赖管理的非官方库._
 - [govendor](https://github.com/kardianos/govendor)  - 去包管理器. 使用标准供应商文件的 Go 供应商工具.
 - [gpm](https://github.com/pote/gpm) - Go 的准系统依赖管理器.
 - [johnny-deps](https://github.com/VividCortex/johnny-deps) - 使用 Git 的最小依赖版本.
-- [modgv](https://github.com/lucasepe/modgv) - 将“go mod graph”输出转换为 Graphviz 的 DOT 语言.
+- [modgv](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language.
 - [mvn-golang](https://github.com/raydac/mvn-golang) - 在 Maven 项目基础设施中为 Golang SDK 的自动加载、依赖管理和启动构建环境提供方式的插件.
 - [nut](https://github.com/jingweno/nut) - 供应商 Go 依赖项.
 - [VenGO](https://github.com/DamnWidget/VenGO) - 创建和管理可导出的隔离 Go 虚拟环境.
@@ -2348,7 +2350,7 @@ _使您的生活更轻松的通用实用程序和工具._
 - [goreporter](https://github.com/wgliang/goreporter) - 执行静态分析、单元测试、代码审查和生成代码质量报告的 Golang 工具.
 - [goseaweedfs](https://github.com/linxGnu/goseaweedfs) - SeaweedFS 客户端库具有几乎完整的功能.
 - [gostrutils](https://github.com/ik5/gostrutils) - 字符串操作和转换函数的集合.
-- [gotenv](https://github.com/subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go.
+- [gotenv](https://github.com/subosito/gotenv) - 从 Go 中的 `.env` 或任何 `io.Reader` 加载环境变量.
 - [goval](https://github.com/maja42/goval) - 评估 Go 中的任意表达式.
 - [gpath](https://github.com/tenntenn/gpath) - 使用 Go 的反射表达式简化访问结构字段的库.
 - [grofer](https://github.com/pesos/grofer) - 一个用 Golang 编写的系统和资源监控工具！
@@ -2362,7 +2364,7 @@ _使您的生活更轻松的通用实用程序和工具._
 - [intrinsic](https://github.com/mengzhuo/intrinsic) - 使用 x86 SIMD，无需编写任何汇编代码.
 - [jsend](https://github.com/clevergo/jsend) - JSend 用 Go 编写的实现.
 - [jump](https://github.com/gsamokovarov/jump) - Jump通过学习你的习惯帮助你更快地导航.
-- [koazee](https://github.com/wesovilabs/koazee) - 受惰性评估和函数式编程启发的库，消除了使用数组的麻烦.
+- [koazee](https://github.com/wesovilabs/koazee) - 受惰性评估和函数式编程启发的库，可消除使用数组的麻烦.
 - [lets-go](https://github.com/aplescia-chwy/lets-go)  - 为云原生 REST API 开发提供通用实用程序的 Go 模块. 还包含 AWS 特定实用程序.
 - [limiters](https://github.com/mennanov/limiters) - Golang 中分布式应用程序的速率限制器，具有可配置的后端和分布式锁.
 - [lo](https://github.com/samber/lo) - 基于 Go 1.18+ 泛型（映射、过滤器、包含、查找...）的类似 Lodash 的 Go 库
@@ -2515,7 +2517,7 @@ _全栈网络框架._
 - [anoweb](https://github.com/go-the-way/anoweb) - 轻量级和强大的 Web 框架，使用 Go.Another 的新方式.
 - [appy](https://github.com/appist/appy) - 一个固执己见的高效网络框架，有助于更轻松地扩展业务.
 - [Banjo](https://github.com/nsheremet/banjo) - 非常简单快速的 Go 网络框架.
-- [Beego](https://github.com/beego/beego) - beego 是一个用于 Go 编程语言的开源、高性能 Web 框架.
+- [Beego](https://github.com/beego/beego) - beego 是用于 Go 编程语言的开源、高性能 Web 框架.
 - [Buffalo](https://gobuffalo.io) - 将 Rails 的生产力带到 Go！
 - [Confetti Framework](https://confetti-framework.github.io/docs/)  - Confetti 是一个 Go Web 应用程序框架，具有富有表现力、优雅的语法.  Confetti 结合了 Laravel 的优雅和 Go 的简单性.
 - [Echo](https://github.com/labstack/echo) - 高性能、极简的 Go web 框架.
@@ -2711,7 +2713,7 @@ _文本编辑器和 IDE 的插件._
 - [go-plus](https://github.com/joefitzgerald/go-plus) - 用于 Atom 的 Go (Golang) 包，添加了自动完成、格式化、语法检查、Linting 和审查.
 - [gocode](https://github.com/nsf/gocode) - Go 编程语言的自动完成守护进程.
 - [goimports-reviser](https://github.com/incu6us/goimports-reviser) - 用于导入的格式化工具.
-- [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - 此扩展将 Go 语言的基准分析支持添加到 VS Code.
+- [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - 此扩展为 VS Code 添加了对 Go 语言的基准分析支持.
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) - 文本编辑器 SublimeText 3 的 Golang 插件集合，提供代码完成和其他类似 IDE 的功能.
 - [gounit-vim](https://github.com/hexdigest/gounit-vim) - Vim 插件，用于根据函数或方法的签名生成 Go 测试.
 - [theia-go-extension](https://github.com/theia-ide/theia-go-extension) - Theia IDE 的 Go 语言支持.
@@ -2753,8 +2755,8 @@ _文本编辑器和 IDE 的插件._
 - [igo](https://github.com/rocketlaunchr/igo) - 一个 igo to go 转译器（Go 语言的新语言功能！）
 - [modver](https://github.com/bobg/modver) - 比较 Go 模块的两个版本以检查所需的版本号更改（主要、次要或补丁级别），根据 [semver](https://semver.org/) 规则.
 - [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用 GitHub 的 OctoLinker 浏览器扩展有效地浏览 go 文件.
-- [richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
-- [roumon](https://github.com/becheran/roumon) - 通过命令行界面监控所有活动 goroutines 的当前状态.
+- [richgo](https://github.com/kyoh86/richgo) - 使用文本装饰丰富“go test”输出.
+- [roumon](https://github.com/becheran/roumon) - 通过命令行界面监控所有活动 goroutine 的当前状态.
 - [rts](https://github.com/galeone/rts)  - RTS：对结构的响应. 从服务器响应生成 Go 结构.
 - [typex](https://github.com/dtgorski/typex) - 检查 Go 类型及其传递依赖项，或者将结果导出为 TypeScript 值对象（或类型）声明.
 

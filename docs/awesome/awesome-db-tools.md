@@ -59,6 +59,7 @@
 - [PopSQL](https://popsql.com) - 为您的团队提供现代、协作的 SQL 编辑器.
 - [Postico](https://eggerapps.at/postico) - 适用于 Mac 的现代 PostgreSQL 客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（前身为 Robomongo）是一个以 shell 为中心的跨平台 MongoDB 管理工具.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - macOS 的 MySQL/MariaDB 数据库管理.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro 是一个快速、易于使用的 Mac 数据库管理应用程序，用于处理 MySQL 和 MariaDB 数据库.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 上使用 SQL Server、Azure SQL DB 和 SQL DW.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
@@ -100,7 +101,7 @@
 ### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - 利用幂等 DDL 脚本概念的数据库配置即代码工具.
 - [Atlas](https://github.com/ariga/atlas) - 检查并将更改应用到您的数据库架构.
-- [Bytebase](https://github.com/bytebase/bytebase) - 面向团队的基于 Web、零配置、无依赖关系的数据库架构更改和版本控制工具.
+- [Bytebase](https://github.com/bytebase/bytebase) - 基于 Web、零配置、无依赖的数据库模式更改和团队版本控制工具.
 - [flyway](https://github.com/flyway/flyway) - 数据库迁移工具.
 - [gh-ost](https://github.com/github/gh-ost) - MySQL 的在线模式迁移.
 - [liquibase](https://github.com/liquibase/liquibase) - 用于跟踪、管理和应用数据库架构更改的独立于数据库的库.
@@ -193,8 +194,8 @@
 - [Monyog](https://www.webyog.com/product/monyog) - 无代理且经济高效的 MySQL 监控工具.
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) - 使用 collectd、InfluxDB 和 Grafana 监控 Linux 上的 SQL Server 性能.
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - 一个安全、简单、无代理的远程服务器监控工具，具有强大的功能，使您的监控尽可能有效.
-- [Percona Monitoring and Management](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
-- [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
+- [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
+- [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
 - [pgDash](https://pgdash.io) - 测量和跟踪 PostgreSQL 数据库的各个方面.
 - [PgHero](https://github.com/ankane/pghero) - Postgres 的性能仪表板 - 健康检查、建议的索引等.
@@ -274,7 +275,7 @@
 ## Security
 - [Acra](https://github.com/cossacklabs/acra)  - 数据库安全套件. 具有字段级加密的数据库代理、搜索加密数据、SQL 注入预防、入侵检测、蜜罐. 支持客户端和代理端（“透明”）加密.  SQL，NoSQL.
 - [Databunker](https://github.com/securitybunker/databunker) - 建立在常规数据库之上的客户记录的特殊 GDPR 兼容安全保险库.
-- [Inspektor](https://github.com/poonai/inspektor)  - 数据库的访问控制层.  Inspektor 利用开放策略代理来制定策略决策.
+- [Inspektor](https://github.com/poonai/inspektor)  - 数据库的访问控制层.  Inspector 利用开放策略代理来制定策略决策.
 
 
 ## SQL
@@ -359,6 +360,9 @@
 关于数据库工具的文件、文章、宣言和其他理论资料
 - [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - 将您的数据库视为代码.
 
+## Machine Learning
+- [MindsDB](https://github.com/mindsdb/mindsdb) - 数据库内机器学习.
+- [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - 将 SQL 和 AI 结合在一起.
 
 ## Contributing
  - 随时欢迎您的贡献！ 请阅读 [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/contributing.md) 第一的.

@@ -7,7 +7,7 @@
 
 令人敬畏的 Alfred 工作流程的精选列表.
 
-[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展来提高您的效率.
+[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展提高您的效率.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -103,6 +103,7 @@
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - 从 bugmenot 获取登录信息.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - 在隐身窗口中打开 Chrome 最前面的选项卡.
+- [Default Browser](https://github.com/wmorland/alfred-py3-default-browser) - 切换默认网络浏览器.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - 在 Alfred 中搜索和浏览 subreddits 和热门帖子.
 
 ## Helpers
@@ -118,7 +119,7 @@
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
 - [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
-- [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
+- [PacMax](https://pacmax.org/) – Pacmax 是作为 Alfred 爱好者查找和分享他们最喜欢的工作流程、片段和主题的一种方式.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 
 ## Contributing
