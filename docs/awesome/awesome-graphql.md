@@ -37,7 +37,7 @@
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 讨论、文章和知识共享的小组.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
-- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题与解答. 使用标签`graphql`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题和解答. 使用标签`graphql`.
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共 GraphQL API 的集合列表.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - 一个用于有趣和信息丰富的 GraphQL 内容和讨论的 Subreddit.
 - [GraphQL Jobs](https://graphql.jobs) - 全球初创公司中基于 GraphQL 的工作列表.
@@ -109,7 +109,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小钩子优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 组件. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 进行缓存.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 进行缓存.
 
 #### Servers
 
@@ -280,7 +280,7 @@
 
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java 实现.
 - [DGS Framework](https://github.com/Netflix/dgs-framework) - 由 Netflix 开发的用于 Spring Boot 的 GraphQL 服务器框架.
-- [graphql-java-generator](https://github.com/graphql-java-generator) - 一种 [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) 和一个 [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) 可以生成 **Client** 和 **Server**（POJO 和实用程序类）. 服务器部分基于 graphql-java，并隐藏了它的所有样板代码.
+- [graphql-java-generator](https://github.com/graphql-java-generator) - 一个 [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) 和一个 [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) 可以生成 **Client** 和 **Server**（POJO 和实用程序类）. 服务器部分基于 graphql-java，并隐藏了它的所有样板代码.
 - [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - 自动生成用于 GraphQL Java 的类型
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)  - 将 POJO 转换为 GraphQL Java 可查询对象集的模式生成和执行包. 允许使用注释将任何服务公开为 GraphQL 服务.
 - [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 为使用 GraphQL Java 的模式定义提供基于注释的语法.
@@ -288,7 +288,7 @@
 - [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin)  - 用于生成 Java 类型和解析器接口的模式优先 maven 插件. 与 graphql-java-tools 完美结合. 灵感来自 [swagger-codegen-maven-plugin](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin).
 - [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin)  - 用于生成 Java 类型和解析器接口的模式优先 gradle 插件. 与 graphql-java-tools 完美结合. 灵感来自 [gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin).
 - [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 一个与框架无关的 java servlet，用于通过 GET、POST 和分段上传公开 graphql-java 查询端点.
-- [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 架构优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 优秀 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Java example](#example-java) 以下.
+- [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 架构优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Java example](#example-java) 以下.
 - [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) - Spring 框架 GraphQL 库.
 - [graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL 和 GraphiQL Spring 框架启动启动器.
 - [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - 微服务的异步 GraphQL 服务发现和查询.
@@ -312,14 +312,15 @@
 - [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - 使用 Spring MVC 和 GraphQL-SPQR 编写的示例 GraphQL 服务器.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - 一个简单的应用程序，客户端和服务器，演示 Manifold GraphQL 库.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - 使用 GraphQL Java Kickstart 项目的示例.
-- [spring-boot-federation-example](https://github.com/setchy/spring-boot-federation-example) - GraphQL Java Kickstart 联合示例.
+- [graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - GraphQL Java Kickstart 联合示例.
+- [dgs-federation-example](https://github.com/Netflix/dgs-federation-example) - Netflix DGS 联盟示例.
 
 <a name="kotlin" />
 
 ### Kotlin
 
 - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin 实现.
-- [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 架构优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 优秀 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Kotlin example](#example-kotlin) 以下.
+- [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 架构优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Kotlin example](#example-kotlin) 以下.
 - [KGraphQL](https://github.com/aPureBase/KGraphQL)：用于设置 GraphQL 服务器的纯 Kotlin 实现.
 - [Kobby](https://github.com/ermadmi78/kobby) - Codegen 插件 [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) 通过 GraphQL 模式. 生成的 DSL 支持在 Kotlin 中执行复杂的 GraphQL 查询、变异和订阅，其语法类似于原生 GraphQL 语法.
 
@@ -457,7 +458,7 @@
 ### Android
 
 - [apollo-android](https://github.com/apollographql/apollo-android) - 用于 Android 的强类型缓存 GraphQL 客户端，用 Java 编写.
-- [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 架构优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 优秀 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Java example](#example-java) 以下.
+- [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 架构优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Java example](#example-java) 以下.
 
 <a name="android-example" />
 

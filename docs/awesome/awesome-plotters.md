@@ -82,7 +82,8 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 特定于特定绘图仪或控制器的软件.
 
-- [axidraw](https://github.com/evil-mad/axidraw) - Inkscape 的官方 AxiDraw 扩展.
+- [axidraw](https://
+.com/evil-mad/axidraw) - Inkscape 的官方 AxiDraw 扩展.
 - [axi](https://github.com/fogleman/axi) - AxiDraw v3 的非官方 Python 库.
 - [xy](https://github.com/fogleman/xy) - Makeblock XY 绘图仪机器人套件的​​实用程序.
 - [LaserGRBL](https://github.com/arkypita/LaserGRBL)  - 用于 grbl 控制器的激光优化 Windows GUI. 可重新用于使用螺线管进行笔上下移动的 DIY 笔式绘图仪.
@@ -184,21 +185,28 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Commodore 1520 Printer Plotter Manual (1983)](https://archive.org/details/1520PrinterPlotterUsersManualStyleA)
 - [Commodore 1520 Printer Plotter Manual](https://archive.org/details/1520PrinterPlotterusersManualStyleB)
 - [Control Data 165/165-2 Plotter Manual](https://archive.org/details/bitsavers_cdc160139c_4086972)
+- [Houston Instrument DMP-160 Plotter Operation Manual](https://archive.org/details/houston-instrument-dmp-160-series-plotters-operation-manual)
 - [HP 7475A Graphics Plotter Operation and Interconnection Manual](https://archive.org/details/HP7475AOperationManual)
 - [HP 7570A DraftPro Plotter Hardware Support Manual](https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86)
 - [HP 7585B Drafting Plotter Service Manual (1983)](https://archive.org/details/bitsavers_hpplotter0_18190273)
 - [HP DraftPro Plotter User's Guide (1986)](https://archive.org/details/draftproplotterusersguide0757090017163pagesmay86)
 - [HP DraftPro Plotter Programmers Reference (1986)](https://archive.org/details/draftproprogrammersreference0757090001387pagessep86)
+- [Olivetti PL10 Microplotter User Guide (1983)](https://archive.org/details/olivettipl10microplotter)
 - [Radio Shack TRS-80 Plotter Printer Manual](https://archive.org/details/Plotter_Printer_19xx_Radio_Shack)
+- [Radio Shack TRS-80 Color Graphic Printer Operation Manual](https://archive.org/details/cgp-115_operation_manual)
+- [Radio Shack TRS-80 Color Graphic Printer Service Manual](https://archive.org/details/cgp-115-service-manual)
 - [Roland DXY-880 Operation Manual (1984)](https://archive.org/details/RolandDXY880PlotterOperationManual)
+- [Roland DXY-980 Operation Manual (1985)](https://archive.org/details/rolanddxy980operationmanual)
 - [Roland DXY-990 Operation Manual (1986)](https://archive.org/details/roland-dxy-990)
+- [Roland DXY-1300 -1200 -1100 Command Reference Manual](https://archive.org/details/rolanddxy130012001100commandreferencemanualaf)
 - [Roland DPX-2000 User's Manual](https://archive.org/details/roland-dpx-2000-manual)
-- [Roland DPX-3300 Operation Manual](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
-- [Roland DPX-3300 Service Notes (1987) (GitHub)](https://archive.org/details/dpx-3300-service-manual)
+- [Roland DPX-3300 Operation Manual (GitHub)](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
+- [Roland DPX-3300 Service Notes (1987)](https://archive.org/details/dpx-3300-service-manual)
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
-- [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf) 
+- [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf)
+- [Rotring Tubular Plotter Points Practical Tips and Information](https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation)
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
-- [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual/)
+- [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
 
 ### Ephemera
 
@@ -215,6 +223,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)
 - [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 - [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - 一本关于绘图仪和数字化仪的书.
+- [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
 
 ## Community
 
