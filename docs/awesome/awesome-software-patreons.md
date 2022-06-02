@@ -94,8 +94,8 @@ _使用开源许可证发布的项目._
 - [Webpack](https://opencollective.com/webpack) - JavaScript 模块捆绑器.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - 使用 Node.js 构建的 Wiki 平台.
 - [WireGuard](https://www.patreon.com/zx2c4) - 下一代安全网络隧道.
-- [Xfce](https://salt.bountysource.com/teams/xfce) - 类 UNIX 操作系统的桌面环境.
-- [Zig](https://www.patreon.com/andrewrk) - 优先考虑稳健性、最优性和清晰性的系统编程语言.
+- [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - 类 UNIX 操作系统的桌面环境.
+- [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - 优先考虑稳健性、最优性和清晰性的系统编程语言.
 - [Zrythm](https://liberapay.com/Zrythm) - 高度自动化和直观的数字音频工作站.
 - [Kitbashery](https://www.patreon.com/kitbashery) - 3D kitbashing 解决方案和 CC0 模型库.
 
@@ -150,6 +150,7 @@ _操作系统和 Linux 发行版._
 _游戏和游戏相关项目._
 
 - [Battle for Wesnoth](https://liberapay.com/Wesnoth) - 回合制策略游戏.
+- [Cemu](https://www.patreon.com/cemu) - 任天堂 Wii U 模拟器.
 - [Citra](https://www.patreon.com/citraemu) - 任天堂 3DS 模拟器.
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于 Windows 的 Xbox 模拟器.
@@ -159,9 +160,9 @@ _游戏和游戏相关项目._
 - [Play!](https://www.patreon.com/jpd002) - PS2 模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.
 - [Ryujinx](https://www.patreon.com/ryujinx) - 任天堂开关模拟器.
+- [Xemu](https://www.patreon.com/mborgerson) - Xbox 模拟器.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 模拟器.
 - [yuzu](https://www.patreon.com/yuzuteam) - 任天堂开关模拟器.
-- [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) - Space Roughlike/4x Hybrid
 
 ### Open Source Art
 _开发人员创建艺术项目并为与艺术相关的开源工具和库做出贡献._
@@ -185,6 +186,7 @@ _硬件相关的项目和制造商._
 - [Espruino](https://www.patreon.com/espruino) - 微控制器的 JavaScript 解释器.
 - [Frank Buss](https://www.patreon.com/frankbuss) - FPGA 和其他硬件项目.
 - [GitClear](https://github.com/sponsors/gitclear) - 改进了对触摸板的 Linux 支持.
+- [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett 软件.
 - [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi，对 Apple Silicon Mac 的 Linux 支持.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - 视频和硬件. 
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - 适用于 Sony DualShock 控制器等的 Windows 驱动程序.
@@ -250,6 +252,7 @@ _为多个项目做出贡献的开发人员要求支持他们的工作._
 - [Patrick Wardle](https://www.patreon.com/objective_see) - Objective-See 的所有者，各种 macOS 安全工具和文章.
 - [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist 和 XcodeProj 库、文章.
 - [Pedro Carrasco](https://github.com/sponsors/pedrommcarrasco) - 各种 iOS 库和项目.
+- [Povilas Kanapickas](https://www.patreon.com/p12tic) - X 服务器、Buildbot CI、Barrier 等等.
 - [Raph Levien](https://github.com/sponsors/raphlinus) - 德鲁伊和其他 Rust 项目.
 - [Reini Urban](https://www.patreon.com/rurban) - 维护和开发cperl、parrot、大量perl5模块、safeclib和libredwg等软件.
 - [René Rebe](https://www.patreon.com/user?u=9504919) - T2 系统开发环境.

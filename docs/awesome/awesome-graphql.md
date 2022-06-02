@@ -45,6 +45,7 @@
 - [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - 专用于 GraphQL 的 Discord 服务器.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯，重点介绍来自 GraphQL 社区的资源和新闻.
 - [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - 跨 Javascript、Java、PHP、Go、Scala 等搜索 graphql 自定义标量.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 
 <a name="meetup" />
 
@@ -569,7 +570,8 @@
 
 ### Tools - Security
 
-- [Escape GraphQL Quickscan](https://escape.tech/quickscan/)  - 一键安全扫描您的 GraphQL 端点. 免费，无需登录.
+- [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键安全扫描您的 GraphQL 端点. 免费，无需登录.
+- [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 - [Tinfoil Security - GraphQL Security Scanner](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 - [InQL Scanner](https://github.com/doyensec/inql) - GraphQL 安全测试的 Burp 扩展
@@ -639,7 +641,7 @@
 - [AWS AppSync](https://aws.amazon.com/appsync/) - 可扩展的托管 GraphQL 服务，带有用于构建实时和离线优先应用程序的订阅
 - [FakeQL](https://fakeql.com/) - GraphQL API 模拟作为服务......因为 GraphQL API 模拟应该很容易！
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
-- [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它为您的模型自动生成 GraphQL API，支持突变、查询和订阅.
+- [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器的后端即服务. 几分钟内您的 GraphQL 和 REST over GraphQL 后端.
 - [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.

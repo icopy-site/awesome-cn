@@ -17,7 +17,7 @@
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio 是面向数据库开发人员、DBA 和分析师的生产力软件.
 - [Database .net](http://fishcodelib.com/Database.htm) - 多数据库管理工具，支持 20 多个数据库.
-- [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
+- [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库管理器和 SQL 客户端.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - 用于 MySQL 和 MariaDB 数据库开发、管理和管理的通用 IDE.
@@ -59,7 +59,7 @@
 - [PopSQL](https://popsql.com) - 为您的团队提供现代、协作的 SQL 编辑器.
 - [Postico](https://eggerapps.at/postico) - 适用于 Mac 的现代 PostgreSQL 客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（前身为 Robomongo）是一个以 shell 为中心的跨平台 MongoDB 管理工具.
-- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - macOS 的 MySQL/MariaDB 数据库管理.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 适用于 macOS 的 MySQL/MariaDB 数据库管理.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro 是一个快速、易于使用的 Mac 数据库管理应用程序，用于处理 MySQL 和 MariaDB 数据库.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 上使用 SQL Server、Azure SQL DB 和 SQL DW.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
@@ -101,7 +101,7 @@
 ### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - 利用幂等 DDL 脚本概念的数据库配置即代码工具.
 - [Atlas](https://github.com/ariga/atlas) - 检查并将更改应用到您的数据库架构.
-- [Bytebase](https://github.com/bytebase/bytebase) - 基于 Web、零配置、无依赖的数据库模式更改和团队版本控制工具.
+- [Bytebase](https://github.com/bytebase/bytebase) - 面向团队的基于 Web、零配置、无依赖关系的数据库架构更改和版本控制工具.
 - [flyway](https://github.com/flyway/flyway) - 数据库迁移工具.
 - [gh-ost](https://github.com/github/gh-ost) - MySQL 的在线模式迁移.
 - [liquibase](https://github.com/liquibase/liquibase) - 用于跟踪、管理和应用数据库架构更改的独立于数据库的库.
@@ -153,9 +153,9 @@
 - [Prisma](https://github.com/prismagraphql/prisma) - Prisma 将您的数据库变成实时 GraphQL API.
 - [PostGraphile](https://github.com/graphile/postgraphile) - 通过将 PostGraphile 指向您现有的 PostgreSQL 数据库，立即启动 GraphQL API 服务器.
 - [PostgREST](https://github.com/PostgREST/postgrest) - 任何 Postgres 数据库的 REST API.
-- [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
+- [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
 - [restSQL](https://github.com/restsql/restsql) - 带有 Java 和 HTTP API 的 SQL 生成器，使用带有 XML 或 JSON 序列化的简单 RESTful HTTP API.
-- [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+- [resquel](https://github.com/formio/resquel) - 轻松将您的 SQL 数据库转换为 REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - 为您的旧数据库自动生成 RESTful API 服务.
 
 
@@ -178,8 +178,8 @@
 
 
 ## Scripts
-- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
+- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、即时文档和 SQL Server 的一般管理需求.
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的数据库分析和管理小脚本，由我们的 PostgreSQL 专家团队创建.
 - [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - 用于测量 PostgreSQL 索引和表中的统计膨胀的查询.
 - [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  - 检查您的数据库是否遵循以下规则的 SQL 测试<https://wiki.postgresql.org/wiki/Don't_Do_This> .
 - [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
@@ -195,7 +195,7 @@
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) - 使用 collectd、InfluxDB 和 Grafana 监控 Linux 上的 SQL Server 性能.
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - 一个安全、简单、无代理的远程服务器监控工具，具有强大的功能，使您的监控尽可能有效.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
-- [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
+- [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
 - [pgDash](https://pgdash.io) - 测量和跟踪 PostgreSQL 数据库的各个方面.
 - [PgHero](https://github.com/ankane/pghero) - Postgres 的性能仪表板 - 健康检查、建议的索引等.
@@ -204,7 +204,7 @@
 - [pgMustard](https://www.pgmustard.com) - Postgres 的用户界面解释计划，以及提高性能的提示.
 - [pgstats](https://github.com/gleu/pgstats) - 收集 PostgreSQL 统计数据，并将它们保存在 CSV 文件中或将它们打印到标准输出上.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
-- [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 在您的 PostgreSQL 数据库上提取和提供指标的服务.
+- [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
 - [Promscale](https://github.com/timescale/promscale) - 由 SQL 支持的度量和跟踪的开源可观察性后端.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
@@ -212,6 +212,7 @@
 ### Prometheus
 - [pgSCV](https://github.com/weaponry/pgscv) - PostgreSQL 和 Postgres 相关服务的指标导出器.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - 用于 PostgreSQL 服务器指标的 Prometheus 导出器.
+- [pg_exporter](https://github.com/Vonng/pg_exporter) - 用于 PostgreSQL 和 Pgbouncer 的完全可定制的 Prometheus 导出器，具有细粒度的执行控制.
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
@@ -243,7 +244,7 @@
 ## Kubernetes
 - [KubeDB](https://kubedb.com) - 在 Kubernetes 上轻松运行生产级数据库.
 - [Postgres operator](https://github.com/zalando/postgres-operator) - Postgres Operator 在由 Patroni 提供支持的 Kubernetes (K8s) 上启用高可用性 PostgreSQL 集群.
-- [Spilo](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
+- [Spilo](https://github.com/zalando/spilo) - 使用 Docker 的 HA PostgreSQL 集群.
 - [StackGres](https://gitlab.com/ongresinc/stackgres) - Kubernetes 上的企业级全栈 PostgreSQL.
 
 
@@ -270,12 +271,13 @@
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - 打包为标准 Mac 应用程序的全功能 PostgreSQL 安装.
 - [BigSQL](https://www.bigsql.org) - 对开发人员友好的 Postgres 发行版.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - 基于 Web 的 PostgreSQL 管理前端，它捆绑了多个与 PostgreSQL 一起使用的实用程序和应用程序.
+- [Pigsty](https://github.com/Vonng/pigsty) - 包含电池的 PostgreSQL 开源发行版，为开发人员提供终极可观察性和数据库即代码工具箱.
 
 
 ## Security
 - [Acra](https://github.com/cossacklabs/acra)  - 数据库安全套件. 具有字段级加密的数据库代理、搜索加密数据、SQL 注入预防、入侵检测、蜜罐. 支持客户端和代理端（“透明”）加密.  SQL，NoSQL.
 - [Databunker](https://github.com/securitybunker/databunker) - 建立在常规数据库之上的客户记录的特殊 GDPR 兼容安全保险库.
-- [Inspektor](https://github.com/poonai/inspektor)  - 数据库的访问控制层.  Inspector 利用开放策略代理来制定策略决策.
+- [Inspektor](https://github.com/poonai/inspektor)  - 数据库的访问控制层.  Inspektor 利用开放策略代理来制定策略决策.
 
 
 ## SQL

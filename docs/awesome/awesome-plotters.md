@@ -128,6 +128,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [SVG.js](https://svgjs.dev/) - 用于创建、操作和动画 SVG 的无依赖轻量级库.
 - [Components AI](https://components.ai/) - 用于探索生成空间的实验计算设计平台.
 - [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - 用于将图像转换为线条图的跨平台软件.
+- [linedraw](https://github.com/LingDong-/linedraw) - 用于将图像转换为粗略矢量线图的 Python 工具.
 
 ### Vector Utilities
 
@@ -181,6 +182,8 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 ### Manuals
 
 - [Apple Color Plotter User's Manual](https://archive.org/details/AppleColorPlotter)
+- [Atari 1020 Color Printer Owner's Guide (1982)](https://archive.org/details/atari-1020-color-printer)
+- [Atari 1020 Color Printer Field Service Manual (1983)](https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari)
 - [Programming CalComp Pen Plotters (1968)](https://archive.org/details/bitsavers_calcompProlottersJun68_2464236)
 - [Commodore 1520 Printer Plotter Manual (1983)](https://archive.org/details/1520PrinterPlotterUsersManualStyleA)
 - [Commodore 1520 Printer Plotter Manual](https://archive.org/details/1520PrinterPlotterusersManualStyleB)
