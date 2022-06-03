@@ -100,14 +100,14 @@
 
 ### German
 
-- [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - 关于 Ansbile 的不同主题的文章，例如模块、角色、用例等.
+- [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - 认为作者喜欢 Ansible Ad-Hoc 模式.
 
 ## Playbooks, Roles and Collections
 
-&gt; 令人敬畏的生产就绪剧本、角色和集合让您启动并运行.
+&gt; 令人敬畏的生产就绪剧本、角色和集合让您启动和运行.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
-- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置带有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
+- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置具有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
 - [DevSec Hardening Framework](https://dev-sec.io/) - DevSec 集合可帮助您强化基于 Linux 的操作系统以及 MySQL、NGINX 和 SSH 服务器/服务.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).

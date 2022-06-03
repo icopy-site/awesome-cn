@@ -65,7 +65,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言构建借贷池的教程.
 - [Voting using Choice Coin](https://developer.algorand.org/tutorials/voting-using-choice-coin/) - 关于如何在 Algorand Python SDK 中使用 Choice Coin 投票机制的教程.
-- [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部事务的教程.
+- [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 关于利用 PyTEAL 和内部事务的教程.
 - [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil 平台构建用于铸造资产的 Web 应用程序.
 - [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - 来自algorand 开发者门户的教程.
@@ -107,6 +107,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 - [algo-builder](https://github.com/scale-it/algo-builder) - 自动开发 Algorand 资产和智能合约的框架.
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - 用于 Algo Builder 的 Dapps 模板.
+- [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapp（打字稿）的更简单的 Algo sdk.
 
 ### Java
 
@@ -129,7 +130,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Vertices
 
-- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
+- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
 
 ## IDEs
 
@@ -153,7 +154,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### Smart Contracts
 
 - [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApps）的特定领域语言.
-- [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
+- [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
 - [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 
@@ -162,10 +163,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Sandbox](https://github.com/algorand/sandbox) - 创建和配置 Algorand 开发环境的快速方法.
 - [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - 用于更快的本地开发和 CI/CD 使用的 Docker Hub 映像.
 
-### Testing 
+### Testing
 
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
 - [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
+- [irulan](https://irulan.dev/) - 用于部署 + 测试智能合约的 Web 应用程序（[open source! + PRs welcome](https://github.com/ncc/irulan)).
 
 ### Nodes and Indexers
 
@@ -241,11 +243,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint 随机生成带有嵌入式 ARC69 标签的 mandelbrot 分形.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
-- [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源. 
+- [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源.
 - [daotools](https://daotools.org/) - 在一个 Dapp 中管理您的所有 DAO 投票会话.
 - [FORUM](https://forum.ax/) - Algorand 区块链上的股权证明社交网络.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
 - [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用、显示 NFT、账户分析等.
+- [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
 
 ## ARCs
 

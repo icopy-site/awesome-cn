@@ -81,7 +81,7 @@
 &gt;- 特定寄存器；
 &gt;- 特定的错误、怪癖和可利用的行为.
 >
-&gt;如果您的目标是为 SGB 或 GBC 开发您的软件，或者您想知道它如何在其他系统上运行，您可能想要利用并适应这些差异，请查看 [Game Boy Color](#game-boy-color) 类别并查找对 GBC/CGB 和 SGB 的具体参考.
+&gt;如果您的目标是为 SGB 或 GBC 开发您的软件，或者您想知道它如何在其他系统上运行，您可能想利用并适应这些差异，请查看 [Game Boy Color](#game-boy-color) 类别并查找对 GBC/CGB 和 SGB 的具体参考.
 
 
 ## Community
@@ -94,6 +94,7 @@
 - [**Pan Docs**](https://gbdev.github.io/pandocs/)  - 向公众提供的唯一、最全面的 Game Boy 技术参考. 由社区更正、更新和维护.
 - [The Cycle-Accurate Game Boy Docs](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) - AntonioND 的精确文档，用于制作周期精确的 Game Boy 模拟器.
 - [Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) - 通过 Gekkio.
+- [Game Boy Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/game-boy/) ——罗德里戈·科佩蒂.
 - [Game Boy Project Report](http://www.cs.columbia.edu/~sedwards/classes/2019/4840-spring/reports/GameBoy.pdf) - 硬件报告 [emulator](https://github.com/kitsuneh/SVGameBoy) （在 Terasic DE1-SoC 板上）作为哥伦比亚大学 CSEE4840 嵌入式系统设计课程的最终项目开发.
 
 #### Opcodes
@@ -274,7 +275,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 #### Graphics utilities
 
-- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS Web 应用程序，将位图图像转换为适合在基于图块的图形应用程序中使用的十六进制数据，特别是 GB.
+- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS Web 应用程序，将位图图像转换为适用于基于图块的图形应用程序（特别是 GB）的十六进制数据.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) - Game Boy Tile Designer (GBTD) 和 Game Boy Map Builder (GBMB) 工具的一些来源和主页.
 - [GBTiles](https://github.com/bashaus/gbtiles) - 将使用 Harry Mulder 的 Tile Designer (GBTD) 创建的 .GBR 文件和使用 Harry Mulder 的 Map Builder (GBMB) 创建的 .GBM 文件转换为不同的格式，以供 Game Boy 和 GBDK 使用.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
@@ -387,7 +388,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://hh.gbdev.io)  - 以社区为主导的尝试，收集、存档和保存为 Game Boy 发布的所有未经许可和自制游戏. 参赛作品可在线播放.
+- [Homebrew Hub](https://hh.gbdev.io)  - 以社区为主导的尝试收集、存档和保存为 Game Boy 发布的所有未经许可和自制游戏. 参赛作品可在线播放.
 
 ### ASM
 
@@ -552,7 +553,7 @@ Game Boy 打印机仿真（例如从相机中检索图像）：
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - 绕过任天堂标志检查.
  - 在 2017 年制作 Game Boy 游戏：A “Sheep It Up！” 验尸（[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
-- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒都必须显示真实的徽标才能被视为有效并运行，但显然有些公司设法利用了检查系统.
+- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒都必须显示真实徽标才能被视为有效并运行，但显然有些公司设法利用了检查系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) - 用于与 LSDj 保存格式 (.sav)、歌曲文件 (.lsdsng) 等交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) - 用于修改 LSDj ROM 映像上的示例、字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - 一些使用 STAT 中断进行有趣视频操作的小实验.

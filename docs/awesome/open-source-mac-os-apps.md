@@ -35,7 +35,7 @@
 - ![elm_icon] - 榆树语言.
 - ![haskell_icon] - Haskell 语言.
 - ![javascript_icon] - JavaScript 语言.
--! [lua_icon] - Lua 语言.
+- ![lua_icon] - Lua 语言.
 - ![objective_c_icon] - Objective-C 语言.
 - ![python_icon] - Python 语言.
 - ![ruby_icon] - Ruby 语言.
@@ -51,7 +51,7 @@
 ### Audio
 - [AUHost](https://github.com/vgorloff/AUHost)  - 使用 AVFoundation API 托管 AudioUnits v3 的应用程序.  ![swift_icon] 
 - [Audacity](https://github.com/audacity/audacity) - 免费、开源、跨平台的音频软件！[c_icon] 
-- [Aural Player](https://github.com/maculateConception/aural-player)  - Aural Player 是一款适用于 macOS 平台的音频播放器应用程序. 受经典的 Windows 版 Winamp 播放器的启发，它的设计宗旨是直截了当且易于使用.  ![swift_icon] 
+- [Aural Player](https://github.com/maculateConception/aural-player)  - Aural Player 是一款适用于 macOS 平台的音频播放器应用程序. 受经典的 Windows 版 Winamp 播放器的启发，它的设计目标明确且易于使用.  ![swift_icon] 
 - [AutoMute](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep. ![objective_c_icon] 
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)  - 背景音乐，一个 macOS 音频实用程序：自动暂停您的音乐，设置各个应用程序的音量和录制系统音频.  ![cpp_icon] 
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole)  - BlackHole 是现代 macOS 虚拟音频驱动程序，允许应用程序以零额外延迟将音频传递给其他应用程序.  ![c_icon] 
@@ -66,7 +66,7 @@
 - [MPV](https://github.com/mpv-player/mpv)  - 轻量级、高度可配置的媒体播放器.  ![c_icon] 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)  - 直接从菜单或键盘原生键控制外接显示器的亮度、对比度或音量.  ![swift_icon] ![objective_c_icon] 
 - [Mous Player](https://github.com/bsdelf/mous)  - 适用于 BSD/Linux/macOS 的简单而强大的音频播放器.  ![cpp_icon] 
-- [Music Bar](https://github.com/musa11971/Music-Bar/)  - 音乐栏是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
+- [Music Bar](https://github.com/musa11971/Music-Bar/)  - Music Bar 是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy)  - 在触控栏或菜单栏中控制 AirPods Pro 的聆听模式.  ![swift_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus)  - PlayStatus 是一个 macOS 应用程序，允许从菜单栏控制 Spotify 和 iTunes 音乐播放.  ![swift_icon] 
 - [Plug](https://github.com/wulkano/Plug)  - 发现并聆听 Hype Machine 的音乐.  ![swift_icon] 
@@ -84,7 +84,7 @@
 - [fre:ac](https://github.com/enzo1982/freac)  - fre:ac 音频转换器项目.  ![cpp_icon] 
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control)  - 这个应用程序允许您使用音量增大和音量减小热键来控制 iTunes 音量.  ![objective_c_icon] 
 - [jmc](https://github.com/jcm93/jmc)  - jmc 是新的 macOS 媒体管理器.  ![swift_icon] 
-- [shairport-sync](https://github.com/mikebrady/shairport-sync)  - macOS/Linux/FreeBSD/OpenBSD Airplay 音频接收器.  ![c_icon] ![cpp_icon] 
+- [shairport-sync](https://github.com/mikebrady/shairport-sync) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver. ![c_icon] ![cpp_icon] 
 - [waveSDR](https://github.com/getoffmyhack/waveSDR)  - 使用 RTL-SDR USB 设备的 macOS 本机桌面软件定义无线电应用程序.  ![swift_icon] 
 
 ### Backup
@@ -95,13 +95,12 @@
 - [shallow-backup](https://github.com/alichtman/shallow-backup)  - 轻松创建已安装应用程序、点文件等的轻量级文档.  ![python_icon] 
 
 ### Browser
-- [Beaker Browser](https://github.com/beakerbrowser/beaker) - Beaker is an experimental peer-to-peer Web browser.   ![javascript_icon] 
+- [Beaker Browser](https://github.com/beakerbrowser/beaker)  - Beaker 是一个实验性的点对点网络浏览器.  ![javascript_icon] 
 - [Brave Browser](https://github.com/brave/brave-browser)  - 适用于运行 Windows、macOS 和 Linux 的台式机和笔记本电脑的勇敢浏览器.  ![javascript_icon] 
 - [Chromium](https://chromium.googlesource.com/chromium/src/)  - Chromium 是一个开源浏览器项目，旨在为所有用户构建更安全、更快、更稳定的网络体验方式.  ![javascript_icon] ![cpp_icon] ![c_icon] 
 - [Finicky](https://github.com/johnste/finicky)  - 始终打开正确的浏览器.  ![swift_icon] 
-- [Firefox](https://hg.mozilla.org/mozilla-central/)  - 来自非营利组织的快速、隐私意识浏览器. 在 Windows、macOS 和 Linux 上运行.  ![javascript_icon] ![rust_icon] ![cpp_icon] 
+- [Firefox](https://hg.mozilla.org/mozilla-central/)  - 来自非营利组织的快速、具有隐私意识的浏览器. 在 Windows、macOS 和 Linux 上运行.  ![javascript_icon] ![rust_icon] ![cpp_icon] 
 - [Helium](https://github.com/JadenGeller/Helium)  - macOS 的浮动浏览器窗口.  ![objective_c_icon] ![swift_icon] 
-- [Kaktus](https://github.com/kaktus/kaktus)  - 具有简约设计的实验性网络浏览器. 运行 Windows、macOS 和 Linux.  ![javascript_icon] 
 - [Min Browser](https://github.com/minbrowser/min)  - 快速高效的最小网络浏览器.  ![javascript_icon] 
 - [Pennywise](https://github.com/kamranahmedse/pennywise)  - Pennywise 在一个位于所有其他应用程序之上的小浮动窗口中打开任何网站或媒体. 它是氦气的绝佳替代品.  ![javascript_icon] 
 - [Plash](https://github.com/sindresorhus/Plash)  - 让任何网站成为您的桌面壁纸.  ![swift_icon] 
@@ -168,7 +167,7 @@
 - [GPM](https://github.com/mtgto/GPM)  - 用于轻松操作 GitHub 项目的 macOS 应用程序.  ![swift_icon] 
 - [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool)  - 用于交互式变基的全功能基于终端的序列编辑器.  ![rust_icon] 
 - [GitBlamePR](https://github.com/maoyama/GitBlamePR) - 显示拉取请求最后修改文件每一行的 Mac 应用程序！[swift_icon] 
-- [GitHub Desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop.  ![typescript_icon] 
+- [GitHub Desktop](https://github.com/desktop/desktop)  - 从您的桌面进行简单的协作.  ![typescript_icon] 
 - [GitSync](https://github.com/eonist/GitSync)  - 适用于 Mac 的简约 Git 客户端.  ![swift_icon] 
 - [GitUp](https://github.com/git-up/GitUp)  - 你错过了一辈子的Git界面终于来了.  ![objective_c_icon] 
 - [GitX](https://github.com/gitx/gitx)  - git 版本控制系统的图形客户端.  ![objective_c_icon] 
@@ -222,7 +221,7 @@
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)  - 可让您打开 .car 文件并浏览/提取其图像的应用程序.  ![objective_c_icon] ![swift_icon] 
 - [Assets](https://github.com/e7711bbear/Assets)  - Assets 是一个 macOS 应用程序，用于管理您的开发项目（Xcode、Web 等）的资产.  ![swift_icon] 
 - [Attabench](https://github.com/attaswift/Attabench)  - Attabench 是一款适用于 macOS 的微基准测试应用程序，旨在测量和可视化 Swift 代码的性能.  ![swift_icon] 
-- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub)  - 在原生 macOS 应用程序中监控 GitHub 项目网页的小型应用程序:octocat:!  ![objective_c_icon] 
+- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:!  ![objective_c_icon] 
 - [Brisk](https://github.com/br1sk/brisk)  - 用于提交雷达的 macOS 应用程序.  ![swift_icon] 
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner)  - 使用 react-native-macOS 构建的 Xcode.app 清洁器.  ![objective_c_icon] 
 - [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client)  - 用于测试 HTTP/REST 端点的原生 Apple macOS 应用程序.  ![objective_c_icon] 
@@ -301,7 +300,7 @@
 ### Extensions
 - [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - 最先进的 Safari 广告拦截扩展！[javascript_icon] 
 - [BetterPiP](https://github.com/Capevace/BetterPiP)  - 在浏览器中使用原生画中画，例如用于 HTML5 视频的 Google Chrome.  ![swift_icon] 
-- [Is It Private?](https://github.com/ffittschen/IsItPrivate)  - 一个 Safari 扩展，提供一个工具栏图标，如果启用隐私浏览，它会改变其视觉外观.  ![swift_icon] 
+- [Is It Private?](https://github.com/ffittschen/IsItPrivate)  - 一个 Safari 扩展，提供一个工具栏图标，如果启用隐私浏览，该图标会改变其视觉外观.  ![swift_icon] 
 - [Middleclick](https://github.com/DaFuqtor/MiddleClick-Catalina) - 用三指点击或点击 MacBook 触控板和魔术鼠标模拟滚轮点击！[c_icon] 
 - [PageExtender](https://github.com/fphilipe/PageExtender.app)  - 使用您自己的 CSS 和 JS 文件扩展页面.  ![swift_icon] ![javascript_icon] 
 - [PiPTool](https://github.com/bfmatei/PiPTool)  - 为 macOS 中的 YouTube、Netflix、Plex 和其他视频广播服务添加画中画功能.  ![javascript_icon] 
@@ -352,7 +351,7 @@
 - [Material Colors Native](https://github.com/BafS/Material-Colors-native)  - 选择您的材料颜色并复制十六进制代码.  ![objective_c_icon] 
 - [Pencil2D Animation](https://github.com/pencil2d/pencil)  - Pencil2D 是适用于 macOS、Windows 和 Linux 的动画/绘图软件. 它允许您使用位图和矢量图形创建传统的手绘动画（卡通）.  ![cpp_icon] 
 - [ScreenToLayers for macOS](https://github.com/duyquoc/ScreenToLayers)  - ScreenToLayers 是一个 macOS 应用程序，可以轻松地将您的屏幕捕获为分层 PSD 文件.  ![objective_c_icon] ![css_icon] 
-- [macSVG](https://github.com/dsward2/macSVG)  - macOS 应用程序，用于使用 WebKit 网络视图设计 HTML5 SVG（可缩放矢量图形）艺术和动画.  ![objective_c_icon] 
+- [macSVG](https://github.com/dsward2/macSVG)  - macOS 应用程序，用于使用 WebKit Web 视图设计 HTML5 SVG（可缩放矢量图形）艺术和动画.  ![objective_c_icon] 
 
 ### IDE
 - [Apache Netbeans](https://github.com/apache/netbeans)  - Apache NetBeans 是一个适用于 Java、JavaScript、PHP、HTML5、CSS 等开发的 IDE、工具平台和应用程序框架.  ![java_icon] 
@@ -422,7 +421,7 @@
 - [MeetingBar](https://github.com/leits/MeetingBar) - 日历会议的菜单栏应用程序！[swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters)  - 适用于 macOS 的 CPU、内存、磁盘和网络监控工具.  ![objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness)  - macOS 应用程序可更改菜单栏上的屏幕亮度.  ![javascript_icon] 
-- [Music Bar](https://github.com/musa11971/Music-Bar/)  - 音乐栏是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
+- [Music Bar](https://github.com/musa11971/Music-Bar/)  - Music Bar 是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
 - [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control)  - Night Shift Control 是一个简单的 macOS 菜单栏应用程序，用于控制 Night Shift. 它的目的是从 f.lux 中引入 Night Shift 中缺少的功能，例如禁用某些应用程序的 Night Shift.  ![swift_icon] 
 - [Nocturnal](https://github.com/joshjon/nocturnal)  - 菜单栏应用程序具有比黑暗更暗的调光、Night Shift 微调以及关闭 MacBook Pro 上的 TouchBar 的功能.  ![swift_icon] 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy)  - 在触控栏或菜单栏中控制 AirPods Pro 的聆听模式.  ![swift_icon] 
@@ -450,7 +449,7 @@
 - [Karaoke Forever](https://github.com/bhj/karaoke-forever)  - 举办精彩的卡拉 OK 派对，每个人都可以从手机浏览器中排队播放歌曲. 使用 WebGL 可视化播放 MP3+G 和 MP4.  ![javascript_icon] 
 - [Lilypond UI](https://github.com/doches/lilypond-ui)  - 使用 LilyPond 创建优美的乐谱.  ![javascript_icon] 
 - [MPV](https://github.com/mpv-player/mpv)  - 轻量级、高度可配置的媒体播放器.  ![c_icon] 
-- [Music Bar](https://github.com/musa11971/Music-Bar/)  - 音乐栏是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
+- [Music Bar](https://github.com/musa11971/Music-Bar/)  - Music Bar 是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy)  - 在触控栏或菜单栏中控制 AirPods Pro 的聆听模式.  ![swift_icon] 
 - [PlayStatus](https://github.com/nbolar/PlayStatus)  - PlayStatus 是一个 macOS 应用程序，允许从菜单栏控制 Spotify 和 iTunes 音乐播放.  ![swift_icon] 
 - [Plug](https://github.com/wulkano/Plug)  - 发现并聆听 Hype Machine 的音乐.  ![swift_icon] 
@@ -582,7 +581,7 @@
 - [Aerial](https://github.com/JohnCoates/Aerial)  - 适用于 macOS 的 Apple TV 空中屏幕保护程序.  ![swift_icon] 
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 受 2018 年 10 月 30 日 Apple 活动启发的屏幕保护程序.![swift_icon] 
 - [Epoch Flip Clock Screensaver](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver)  - Unix 纪元时间戳翻转时钟屏幕保护程序.  ![objective_c_icon] 
-- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper)  - 实用应用程序有助于选择用作桌面墙纸或 Mac 计算机屏幕保护程序的图像.  ![swift_icon] 
+- [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper)  - 实用应用程序有助于选择用作桌面壁纸或 Mac 计算机屏幕保护程序的图像.  ![swift_icon] 
 - [Irvue](https://github.com/leonspok/Irvue-Screensaver)  - macOS 的屏幕保护程序.  ![objective_c_icon] 
 - [Life Saver](https://github.com/amiantos/lifesaver) - 基于 Conway 的生命游戏的抽象屏幕保护程序，使用 SpriteKit 实现！[swift_icon] 
 - [MinimalClock](https://github.com/mattiarossini/MinimalClock)  - 显示时间的简单和优雅的屏幕保护程序.  ![swift_icon] 
@@ -711,7 +710,7 @@
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl)  - 直接从菜单或键盘原生键控制外接显示器的亮度、对比度或音量.  ![swift_icon] ![objective_c_icon] 
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - 从 macOS 中删除不必要的语言资源！[swift_icon] 
 - [Mos](https://github.com/Caldis/Mos) - 平滑鼠标滚动并反转鼠标滚动方向！[swift_icon] 
-- [Music Bar](https://github.com/musa11971/Music-Bar/)  - 音乐栏是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
+- [Music Bar](https://github.com/musa11971/Music-Bar/)  - Music Bar 是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
 - [Nocturnal](https://github.com/joshjon/nocturnal)  - 菜单栏应用程序具有比黑暗更暗的调光、Night Shift 微调以及关闭 MacBook Pro 上的 TouchBar 的功能.  ![swift_icon] 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy)  - 在触控栏或菜单栏中控制 AirPods Pro 的聆听模式.  ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/)  - 在您的 Mac 上接收 Android 通知（使用 PushBullet）.  ![swift_icon] 
@@ -749,7 +748,7 @@
 
 ### VPN & Proxy
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)  - 下一代 ShadowsocksX.  ![swift_icon] 
-- [Specht](https://github.com/zhuhaow/Specht)  - 使用 macOS 的网络扩展构建的基于规则的代理应用程序.  ![swift_icon] 
+- [Specht](https://github.com/zhuhaow/Specht) - Rule-based proxy app built with Network Extension for macOS.  ![swift_icon] 
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite)  - 适用于 macOS 的基于规则的代理应用程序.  ![swift_icon] 
 - [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)  - Tunnelblick 是 macOS 上 OpenVPN 的图形用户界面.  ![objective_c_icon] 
 - [clashX](https://github.com/yichengchen/clashX)  - 基于规则的自定义代理，带有基于冲突的 Mac 图形用户界面.  ![swift_icon] 
@@ -769,7 +768,7 @@
 - [MenuTube](https://github.com/edanchenkov/MenuTube)  - 将 YouTube 加入您的 macOS 菜单栏！  ![javascript_icon] 
 - [OpenShot](https://github.com/OpenShot/openshot-qt)  - 易于使用、快速学习和令人惊讶的强大视频编辑器.  ![python_icon] 
 - [Quick Caption](https://github.com/LumingYin/Caption)  - 无需手动输入时间码即可转录和生成字幕文件（SRT、ASS 和 FCPXML）.  ![swift_icon] 
-- [QuickLook Video](https://github.com/Marginal/QLVideo)  - 该软件包允许 macOS Finder 显示大多数类型视频文件的缩略图、静态 QuickLook 预览、封面艺术和元数据.  ![objective_c_icon] 
+- [QuickLook Video](https://github.com/Marginal/QLVideo)  - 此软件包允许 macOS Finder 显示大多数类型视频文件的缩略图、静态 QuickLook 预览、封面和元数据.  ![objective_c_icon] 
 - [Subler](https://bitbucket.org/galad87/subler/src)  - Subler 是一个 macOS 应用程序，用于复用和标记 mp4 文件.  ![objective_c_icon] 
 - [VLC](https://github.com/videolan/vlc) - VLC是一款免费开源的跨平台多媒体播放器！[c_icon] 
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator)  - macOS 应用程序在视频播放中插入测验，并使用 LISNR API 将这些视频播放到接收设备.  ![swift_icon] 
@@ -816,7 +815,7 @@
 [coffee_script_icon]: ./icons/coffeescript-16.png &#39;CoffeeScript 语言.&#39;
 [css_icon]: ./icons/css-16.png &#39;CSS 语言.&#39;
 [go_icon]: ./icons/golang-16.png &#39;Go 语言.&#39;
-[elm_icon]: ./icons/elm-16.png 'Elm Language'
+[elm_icon]: ./icons/elm-16.png &#39;榆树语言&#39;
 [haskell_icon]: ./icons/haskell-16.png &#39;Haskell 语言.&#39;
 [java_icon]: ./icons/java-16.png &#39;Java 语言.&#39;
 [javascript_icon]: ./icons/javascript-16.png &#39;JavaScript 语言.&#39;
