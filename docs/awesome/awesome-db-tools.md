@@ -17,7 +17,7 @@
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio 是面向数据库开发人员、DBA 和分析师的生产力软件.
 - [Database .net](http://fishcodelib.com/Database.htm) - 多数据库管理工具，支持 20 多个数据库.
-- [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
+- [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库管理器和 SQL 客户端.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - 用于 MySQL 和 MariaDB 数据库开发、管理和管理的通用 IDE.
@@ -43,10 +43,11 @@
 
 ## GUI
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
+- [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 上使用 SQL Server、PostgreSQL、Azure SQL DB 和 SQL DW.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
 - [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
-- [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
+- [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
 - [Malewicz](https://github.com/mgramin/malewicz) - 另一个用于 DB 模式探索和性能分析的 WEB 客户端，但最初是专门为破解和扩展而创建的.
 - [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，具有非技术用户的完整用户权限.
@@ -61,7 +62,6 @@
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（前身为 Robomongo）是一个以 shell 为中心的跨平台 MongoDB 管理工具.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 适用于 macOS 的 MySQL/MariaDB 数据库管理.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro 是一个快速、易于使用的 Mac 数据库管理应用程序，用于处理 MySQL 和 MariaDB 数据库.
-- [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 上使用 SQL Server、Azure SQL DB 和 SQL DW.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - 基于 Web 的 SQL 编辑器在您自己的私有云中运行.
@@ -83,7 +83,7 @@
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
-- [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等.
+- [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等等.
 - [SQLLine](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 向关系数据库发出 SQL 的命令行 shell.
 - [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
 
@@ -92,7 +92,7 @@
 - [litecli](https://github.com/dbcli/litecli) - 用于 SQLite 数据库的 CLI，具有自动完成和语法高亮功能.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - 具有自动完成和语法突出显示的 SQL Server 命令行客户端.
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的 MySQL 终端客户端.
-- [pgcli](https://github.com/dbcli/pgcli) - 具有自动完成和语法突出显示的 Postgres CLI.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [vcli](https://github.com/dbcli/vcli) - 具有自动完成和语法突出显示的 Vertica CLI.
 
 
@@ -160,7 +160,7 @@
 
 
 ## Application platforms
-用于应用程序构建的低代码和无代码平台
+Low-code and no-code platforms for application building
 - [Appsmith](https://github.com/appsmithorg/appsmith) - 强大的开源低代码框架，非常快速地构建内部应用程序.
 - [Budibase](https://github.com/Budibase/budibase) - 用于在几分钟内创建内部应用程序的低代码平台.
 - [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码构建器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
@@ -178,8 +178,8 @@
 
 
 ## Scripts
-- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、即时文档和 SQL Server 的一般管理需求.
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的数据库分析和管理小脚本，由我们的 PostgreSQL 专家团队创建.
+- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
 - [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - 用于测量 PostgreSQL 索引和表中的统计膨胀的查询.
 - [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  - 检查您的数据库是否遵循以下规则的 SQL 测试<https://wiki.postgresql.org/wiki/Don't_Do_This> .
 - [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
@@ -204,7 +204,7 @@
 - [pgMustard](https://www.pgmustard.com) - Postgres 的用户界面解释计划，以及提高性能的提示.
 - [pgstats](https://github.com/gleu/pgstats) - 收集 PostgreSQL 统计数据，并将它们保存在 CSV 文件中或将它们打印到标准输出上.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
-- [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
+- [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 在您的 PostgreSQL 数据库上提取和提供指标的服务.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户对 Postgres 数据库的健康状况进行深入分析.
 - [Promscale](https://github.com/timescale/promscale) - 由 SQL 支持的度量和跟踪的开源可观察性后端.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
@@ -305,7 +305,7 @@
 - [jOOQ](https://github.com/jOOQ/jOOQ) - 解析 SQL，将其转换为其他方言，并允许表达式树转换.
 - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - 解析 SQL 语句并将其转换为 Java 类的层次结构.
 - [libpg_query](https://github.com/pganalyze/libpg_query) - 用于在服务器环境之外访问 PostgreSQL 解析器的 C 库.
-- [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+- [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - 将 SQL 解析为 JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - 用于 Python 的非验证 SQL 解析器.
 - [SQLGlot](https://github.com/tobymao/sqlglot) - 纯 Python SQL 解析器、转译器和构建器.
 

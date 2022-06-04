@@ -93,6 +93,7 @@
 
 ### Frameworks
 
+- [Angular](https://github.com/angular-eslint/angular-eslint) - Angular (v2+) 的 Linting 规则.
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - 遵守的 Linting 规则 [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Astro](https://github.com/ota-meshi/eslint-plugin-astro) - 插件 [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Backbone 的 Linting 规则.
