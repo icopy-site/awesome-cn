@@ -65,7 +65,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言构建借贷池的教程.
 - [Voting using Choice Coin](https://developer.algorand.org/tutorials/voting-using-choice-coin/) - 关于如何在 Algorand Python SDK 中使用 Choice Coin 投票机制的教程.
-- [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 关于利用 PyTEAL 和内部事务的教程.
+- [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部事务的教程.
 - [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil 平台构建用于铸造资产的 Web 应用程序.
 - [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - 来自algorand 开发者门户的教程.
@@ -130,7 +130,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Vertices
 
-- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
 
 ## IDEs
 
@@ -155,7 +155,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApps）的特定领域语言.
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
-- [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
+- [algoml](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 
 ### Docker
@@ -228,6 +228,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Auction Demo](https://github.com/algorand/auction-demo) - 使用智能合约进行链上 NFT 拍卖.
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - 会话钱包允许跨多个钱包的持久钱包连接.
 - [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - AlgoWorld 使用的所有智能合约的集合，用 PyTeal 编写.
+- [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - 由 Algorand Smart Signatures 提供支持的免费且无需信任的 ASA 交换器.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
 - [paytx](https://github.com/algorand-devrel/paytx) - 使用 Algorand Python SDK 的常见支付交易场景示例.
 - [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.

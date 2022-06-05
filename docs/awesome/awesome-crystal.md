@@ -45,7 +45,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## C bindings
  * [augeas.cr](https://github.com/fernandes/augeas.cr) - 绑定 [Augeas](https://augeas.net/)
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - Libclang 绑定
- * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+ * [crt.cr](https://github.com/maiha/crt.cr) - libncursesw 和 crt 的绑定
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - 绑定 [Duktape](https://github.com/svaarala/duktape) javascript引擎
  * [fftw.cr](https://github.com/firejox/fftw.cr) - 绑定 [FFTW](https://fftw.org/) 图书馆
@@ -86,7 +86,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) - 静态代码分析工具
- * [linguist.cr](https://github.com/microgit-com/linguist.cr) - 基于 Github 的 Linguist，使用多种方法查找文件中使用的编程语言
+ * [linguist.cr](https://github.com/microgit-com/linguist.cr) - 使用多种方法查找文件中使用的编程语言，基于 Github 的 Linguist
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) - Tar归档格式的读者和作者
@@ -256,7 +256,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Rosetta](https://github.com/wout/rosetta) - 一个超快的国际化 (i18n) 库，具有支持 YAML 和 JSON 格式的编译时密钥查找
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
+ * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
+ * [fiber_metrics.cr](https://github.com/didactic-drunk/fiber_metrics.cr) - 跟踪每个“Fiber”、方法或块的运行时间、等待时间或内存分配
  * [Log](https://crystal-lang.org/api/Log.html) - 日志记录实用程序（水晶标准库）
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) 客户端库
 
@@ -306,7 +307,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS 协议实现和解析器
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  - JSON-socket 客户端和服务器实现. 灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - 一个 MQTT 客户端
- * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本 1、2c 和 3 的 SNMP 实施
+ * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
  * [jwt](https://github.com/crystal-community/jwt) - JWT（JSON Web Token）的实现
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS 服务发现和多播 DNS
