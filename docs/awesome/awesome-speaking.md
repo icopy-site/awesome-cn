@@ -12,7 +12,6 @@ awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 * [Nine Secrets to Powerful Public Speaking](http://www.gq-magazine.co.uk/article/public-speaking-tips) - **朱利安宝藏**
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - **克里斯蒂娜·沃特克**
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - **特洛伊亨特**
-* [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - **德里克·贝利**
 * [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - **莉娜莱因哈德**
 * [Hosting virtual events for developers pt.1: Audience, topic, event title, & event description](https://www.codementor.io/blog/developer-virtual-events-guide1-dgzxdgnfmf)
 * [Hosting virtual events for developers pt.2: Structure, slide decks, and event flow](https://www.codementor.io/blog/developer-virtual-events-guide2-disafwxxav)
@@ -29,7 +28,7 @@ awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 * [Callback Women](http://www.callbackwomen.com/) - 通过共享 CFP [Twitter](https://twitter.com/callbackwomen).
 * [PaperCall](https://papercall.io/) - 管理您的演讲和提交的地方.
-* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - IT 会议列表征文，更改也通过 Twitter 发布 [@ItCfpList](https://twitter.com/ItCfpList).
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - IT 会议列表征集论文，更改也通过 Twitter 发布 [@ItCfpList](https://twitter.com/ItCfpList).
 * [Tulu.la](https://tulu.la)  - 策划的技术事件列表和开放的 CFP. 友好的社区和演讲者支持冠军. 社区驱动.
 * [Codementor Events](https://www.codementor.io/events) - 精心策划的技术活动列表和以开发人员为中心的全年虚拟活动.
 

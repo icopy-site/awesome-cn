@@ -8,30 +8,23 @@
 
 由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管论文（当我们这样做时，您会在自述文件目录中的标题旁边看到一个 :scroll: 表情符号），但我们可以提供指向其位置的链接.
 
-如果您喜欢这些论文，也许可以在当地的分会聚会上停下来，加入围绕它们的充满活力的讨论. 您还可以在我们的网站上讨论 *PWL* 事件、此存储库中的内容和/或与 *PWL* 相关的任何内容 [Slack](https://paperswelove.slack.com/messages/general/)， 后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
+如果你喜欢这些论文，也许可以在当地的分会聚会上停下来，加入围绕它们的充满活力的讨论. 您还可以在我们的网站上讨论 *PWL* 事件、此存储库中的内容和/或与 *PWL* 相关的任何内容 [Slack](https://paperswelove.slack.com/messages/general/)， 后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
 ### Chapters
 
 这是我们的官方章节. 让我们知道您是否有兴趣 [starting one](https://github.com/papers-we-love/organizers) 在你的城市！
 
-* [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
 * [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
-* [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
-* [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
 * [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
-* [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
 * [Buenos Aires](https://paperswelove.org/buenos-aires/)
-* [Cairo](http://www.meetup.com/Papers-We-Love-Cairo/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 * [Chicago](http://www.meetup.com/papers-we-love-chicago/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
-* [Gothenburg](https://www.meetup.com/Papers-We-Love-Gothenburg/)
-* [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iowa City](https://www.meetup.com/techcorridorio)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
@@ -39,19 +32,16 @@
 * [Lebanon](http://www.paperswelovelb.club)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
-* [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [New York City](http://www.meetup.com/papers-we-love/)
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
-* [Rio de Janeiro](https://www.meetup.com/pt-BR/papers-we-love-rio-de-janeiro/)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
 * [Seattle](http://www.meetup.com/Papers-We-Love-Seattle/)
 * [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
-* [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
 * [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)

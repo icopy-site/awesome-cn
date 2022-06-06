@@ -70,7 +70,7 @@
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - 表情符号的片段包.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - 从文本中查找相关的表情符号.
-- [Gitmoji](https://github.com/leolabs/alfred-gitmoji/) - 搜索 [Gitmojis](https://gitmoji.carloscuesta.me/) 容易地.
+- [Gitmoji](https://github.com/techouse/alfred-gitmoji) - 搜索 [Gitmojis](https://gitmoji.dev) 容易地.
 - [Lorem Ipsum](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - 从 Alfred 生成 Internet (...) 文本.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - 从文本中查找相关的颜文字.
 - [Moment](https://github.com/perfectworks/alfred-workflow-moment) - 高级时间实用程序，灵感来自 [moment.js](https://momentjs.com).
@@ -95,10 +95,10 @@
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - 关键线索、菜单栏和键盘大师热键搜索
 - [Network Info](http://www.packal.org/workflow/network-info) - 显示所有网络接口的 IP 地址或 MAC 地址.
 - [SSH](https://github.com/isometry/alfred-ssh/) - 基于 `~/.ssh/known_hosts`、`~/.ssh/config` 和 `/etc/hosts` 自动完成 SSH 会话
-- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - 查询 `~/.ssh/config` 并使用 iTerm 徽章打开 ssh 主机.
+- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - 在打开的窗口和浏览器 (Safari/Chrome) 选项卡之间切换.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - 在指定的时间段内将其计算机的音量静音.
-- [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
+- [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - 在终端/iTerm 中打开当前 Finder 窗口的 Alfred 工作流程，反之亦然.
 
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - 从 bugmenot 获取登录信息.
@@ -108,6 +108,7 @@
 
 ## Helpers
 - [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - 用于编写 Alfred 工作流的 Python 库.
+- [Alfred Workflow (for Dart)](https://github.com/techouse/alfred_workflow)  - 用于编写 Alfred 工作流程的 Dart 库. 灵感来自 [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) 对于 Python.
 - [Alfy](https://github.com/sindresorhus/alfy) - 轻松创建 Alfred 工作流的 Node.js 库.
 - [AwGo](https://github.com/deanishe/awgo) - 用于 Go 的全功能库，可快速构建闪电般的工作流程.
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - 将模糊搜索添加到任何脚本过滤器.
@@ -118,8 +119,8 @@
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
-- [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
-- [PacMax](https://pacmax.org/) – Pacmax 是作为 Alfred 爱好者查找和分享他们最喜欢的工作流程、片段和主题的一种方式.
+- [Packal](http://www.packal.org/) - 找到工作流的最大地方.
+- [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 
 ## Contributing

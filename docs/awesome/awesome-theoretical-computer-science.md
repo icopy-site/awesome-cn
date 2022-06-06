@@ -136,7 +136,7 @@
 - [Diakonikolas & Dughmi. Topics in Learning and Game Theory](https://viterbi-web.usc.edu/~shaddin/cs699fa17/index.html) - 学习和博弈论接口的最新研究趋势.
 ## Books<a name=game_theory_books></a>
 - [Apt & Grädel. Lectures in Game Theory for Computer Scientists](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lectures-game-theory-computer-scientists) - 游戏为交互提供了数学模型，计算机科学中的许多任务都可以用博弈论的术语来表述.
-- [Eva Tardos. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 均衡算法方法、机制设计和组合拍卖的基本章节之后是重要博弈论应用的章节，如激励和定价、成本分摊、信息市场和密码学和安全性.
+- [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 均衡算法方法、机制设计和组合拍卖的基本章节之后是重要博弈论应用的章节，如激励和定价、成本分摊、信息市场和密码学和安全性.
 ## Workshops<a name=game_theory_workshops></a>
 - [Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015)  - 交叉点的动机是大规模数字拍卖和市场等应用，以及纳什均衡的计算复杂性以及机制设计中的复杂性和近似性等基本问题. 此外，为了有效地建模和研究互联网及其新颖的计算现象，可以从博弈论和经济理论中获得模型和见解. 另一方面，计算的观点对于理解市场网络化并且经济交易的默认平台是算法的世界至关重要.
 - [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - 交叉点表现在（1）机器学习算法的数据输入由自利方生成，（2）机器学习用于优化经济系统或行为，（3）关键系统中使用的机器学习模型变得越来越容易对抗性攻击，以及（4）几种机器学习方法可以被定义为寻找游戏的平衡.
@@ -151,7 +151,7 @@
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7)  - 提出并讨论了热力学和复杂性之间的重要联系. 以教学方式编写，作为对黑洞及其复杂物理解释的基本介绍
 ## Philosophy<a name=philosophy></a>
 ## Lecture Notes<a name=philosophy_lecture_notes></a>
-- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，以及相反，哲学可以为理论计算机科学做出哪些贡献.
+- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与哲学中传统问题的相关性，以及相反地，哲学可以为理论计算机科学做出哪些贡献.
 ## Books<a name=philosophy_books></a>
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - 信仰与科学之间关系的一般说明.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - 图灵在科学史和科学哲学中的地位.
@@ -227,7 +227,7 @@
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍 TCS 的高级故事及其与其他领域的交叉点.
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - 调查、教程、会议报告、活动、未解决的问题和解决方案、博士论文和有趣的贡献.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，提供主题的教程覆盖，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围.
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，涵盖主题的教程，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - 具有该领域的突破，以非专家易于理解的方式编写.
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - 所有与 TCS 相关的博客的博客聚合器.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS 工作公告.

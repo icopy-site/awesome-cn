@@ -20,7 +20,7 @@
 - [GraphQL](https://github.com/graphql/graphql-spec) - GraphQL 规范的工作草案.
 - [GraphQL over HTTP](https://github.com/graphql/graphql-over-http) - “GraphQL over HTTP”规范的工作草案.
 - [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - 符合中继的 GraphQL 服务器规范.
-- [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD 是数据库的 GraphQL CRUD API 规范.
+- [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
 - [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - 阿波罗联盟规范
 
 <a name="foundation" />
@@ -474,6 +474,7 @@
 - [apollo-ios](https://github.com/apollographql/apollo-ios) - 用于 iOS 的强类型缓存 GraphQL 客户端，用 Swift 编写.
 - [ApolloDeveloperKit](https://github.com/manicmaniac/ApolloDeveloperKit) - [Apollo iOS] 的 Apollo Client Devtools 桥.
 - [Graphaello](https://github.com/nerdsupremacist/Graphaello) - 直接从 SwiftUI 输入 Safe GraphQL.
+- [GQLite iOS SDK](https://graphqlite.com/sdk-ios) - GQLite iOS SDK 是一个轻松使用 GraphQL 服务器的工具包.
 
 <a name="ios-example" />
 
@@ -641,7 +642,7 @@
 - [AWS AppSync](https://aws.amazon.com/appsync/) - 可扩展的托管 GraphQL 服务，带有用于构建实时和离线优先应用程序的订阅
 - [FakeQL](https://fakeql.com/) - GraphQL API 模拟作为服务......因为 GraphQL API 模拟应该很容易！
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
-- [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
+- [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它为您的模型自动生成 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器的后端即服务. 几分钟内您的 GraphQL 和 REST over GraphQL 后端.
 - [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
@@ -766,6 +767,7 @@
 - [Level up your serverless game with a GraphQL data-as-a-service layer](https://hasura.io/blog/level-up-your-serverless-game-with-a-graphql-data-as-a-service-layer/)
 - [A deep-dive into Relay, the friendly & opinionated GraphQL client](https://hasura.io/blog/deep-dive-into-relay-graphql-client/)
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
+- [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 
 <a name="workshopper" />
 
