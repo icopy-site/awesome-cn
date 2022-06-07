@@ -10,17 +10,15 @@
 
 ### Plotters
 
-- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - 笔式绘图仪 [Evil Mad Scientist](https://www.evilmadscientist.com), 很受欢迎 [#plottertwitter](https://twitter.com/hashtag/plottertwitter).
+- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - 笔式绘图仪 [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
 - [Line-us](https://www.line-us.com) - 一个可爱的小机器人绘图臂.
-- [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) - 可破解的 XY 绘图仪套件（已停产？）.
-- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw 克隆 w/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行 grbl 固件.
-- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - 另一个 3d 可打印 AxiDraw 克隆，带/ [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行 grbl 固件.
+- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 带有运行 grbl 固件的 Arduino CNC Shield 控制器的 3d 可打印 AxiDraw 克隆.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - 另一个 3d 可打印 AxiDraw 克隆，带有运行 grbl 固件的 Arduino CNC Shield 控制器.
 - [WaterColorBot](https://watercolorbot.com) - XY 艺术机器人和软件来绘制水彩颜料.
 - [EggBot](https://egg-bot.com) - 用于蛋形和球形物体的笔式绘图仪.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  - 来自 HPGL 标准创建者的老式台式和落地式笔式绘图仪.  7475A 型号非常常见，通常可以在 eBay 上找到.
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg)  - 老式平板 HPGL 笔式绘图仪. 在 eBay 上搜索“roland dxy”.
 - [Polargraph](http://www.polargraph.co.uk) - 原始的极谱仪硬件和软件项目.
-- [Makelangelo](http://www.makelangelo.com) - 开源极谱仪 artbot.
 - [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - 由摇杆、伺服系统和运行 Python 的 Raspberry Pi 制成的廉价而简单的绘图仪.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - 一个相当简单的 3d 打印 AxiDraw 风格的绘图仪，带有良好的视频文档.
 
@@ -28,7 +26,7 @@
 
 - [grblShield](https://github.com/synthetos/grblShield) - 转动电机所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc) 使用 grbl 固件进入基于 G 代码的运动控制器.  ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)  - 功能更强大、更强大的 6 轴基于 G 代码的运动控制硬件.  ([adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 适用于 Arduino 的 Grbl 兼容步进电机控制扩展板，类似于 [grblShield](https://github.com/synthetos/grblShield).
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 用于 Arduino 的 Grbl 兼容步进电机控制屏蔽，类似于 grblShield.
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  - 带有步进控制器和运行 grbl 的微控制器的 Raspberry Pi 附加板. 与 Pi 的串行引脚接口.
 
 ### Accessories
@@ -38,9 +36,8 @@
 
 ### Pens
 
-- [Sharpie Fine Point Plotter Adapter](https://www.thingiverse.com/thing:229982) - 3d 打印适配器，可将标准 Sharpie 安装在 HP-GL 绘图仪中.
-- [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.org/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - 可调节模型打印各种笔的适配器.
-- [Plotter Pen STL Models](https://www.thingiverse.com/thing:227985) - 短和长标准绘图笔的准确 STL 模型.
+- [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d 打印适配器，可将标准 Sharpie 安装在 HP-GL 绘图仪中.
+- [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - 短和长标准绘图笔的准确 STL 模型.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - 适用于一般绘图仪滥用的笔列表.
 - [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - 以鸡蛋和玻璃为重点的钢笔建议，但仍然是普遍适用的信息.
 - [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - 对许多白色墨水笔的全面审查，并附有其覆盖特征的图片.
@@ -52,7 +49,6 @@
 HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用的基于串行/文本的协议.
 
 - [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 并与串行绘图仪连接的 Python 库.
-- [Chiplotle on Parallel Port](https://gitlab.com/mononym/chiplotle-on-parallel-port) - 调整 Chiplotle 以使用并行端口连接.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描 PDF 手册.
 - [djipco/hpgl](https://github.com/djipco/hpgl) - 一个 Node.js 库，用于与 HPGL 兼容的绘图仪和打印机进行通信.
@@ -82,14 +78,13 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 特定于特定绘图仪或控制器的软件.
 
-- [axidraw](https://
-.com/evil-mad/axidraw) - Inkscape 的官方 AxiDraw 扩展.
+- [axidraw](https://github.com/evil-mad/axidraw) - Inkscape 的官方 AxiDraw 扩展.
 - [axi](https://github.com/fogleman/axi) - AxiDraw v3 的非官方 Python 库.
 - [xy](https://github.com/fogleman/xy) - Makeblock XY 绘图仪机器人套件的​​实用程序.
 - [LaserGRBL](https://github.com/arkypita/LaserGRBL)  - 用于 grbl 控制器的激光优化 Windows GUI. 可重新用于使用螺线管进行笔上下移动的 DIY 笔式绘图仪.
-- [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - 将图纸发送到 [Line-us plotter](https://www.line-us.com) 直接来自 Inkscape.
-- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - 示例代码 [Line-us](https://www.line-us.com) 绘图仪的基于 G 代码的 API.
-- [@beardicus/line-us](https://github.com/beardicus/line-us) - 用于控制的 JavaScript 库 [Line-us](https://www.line-us.com) 机器从节点或浏览器.
+- [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - 直接从 Inkscape 将绘图发送到 Line-us 绘图仪.
+- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Line-us 绘图仪基于 G 代码的 API 的示例代码.
+- [@beardicus/line-us](https://github.com/beardicus/line-us) - 用于从 Node 或浏览器控制 Line-us 机器的 JavaScript 库.
 - [PenPlotter](https://github.com/RickMcConney/PenPlotter) - 使用 repetier 固件的 Polargraph 控制器.
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Makeangelo 极谱仪机器人的固件.
 - [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 软件.
@@ -146,7 +141,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 单行矢量字体或“雕刻字体”.
 
-- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
+- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息和其他资源和字体的链接.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代矢量字体的“.fnt”格式. 包括对字体原始数据格式的一个很好的概述.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - 好时字体的 C 库和原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) - 一些单行字体可供购买的商业网站.
@@ -157,8 +152,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 博客文章、文章、教程、画廊、视频等.
 
-- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 关于开始使用旧 HPGL 绘图仪的好信息.
-- [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) - 老式笔式绘图仪的另一个介绍.
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 有关开始使用旧 HPGL 绘图仪的好信息.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 编程矢量路径的一些基础知识，包括排序、连接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣的算法的 13 部分精彩演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - 罗兰平板绘图仪快速入门指南.
@@ -168,16 +162,14 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 创建用于绘图的生成图形的两部分介绍.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - 使用 Python 和 penplot 深入研究表面投影和隐藏线移除.
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - 创建基于线的分形图形的技术.
-- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 绘图仪简介、AxiDraw、“penplot”库的演练.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - 旅行商问题（单路径）艺术资源.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - 讨论和链接到用于删除 STL 文件的线框代码.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - 很多不错的提示，并非都是针对 Axidraw 的，还有一些笔评论和方便的 3D 打印工具.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - 很好地概述了 AxiDraw 及其克隆，以及一些 DIY 选项.
-- [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - Vera Molnár 的一本笔记本，日期为 1983-1985
 
 ## Manuals and Ephemera
 
-扫描的绘图仪手册和营销蜉蝣 [Internet Archive](https://archive.org)
+Scanned plotter manuals and marketing ephemera from the [Internet Archive](https://archive.org)
 
 ### Manuals
 
@@ -251,7 +243,6 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.chromatocosmos.com/)
-- [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
@@ -266,9 +257,3 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters)
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Brian Boucheron](https://boucheron.org/brian) 已放弃本作品的所有版权和相关或邻近权利.

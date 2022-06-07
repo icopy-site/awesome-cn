@@ -64,7 +64,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 允许使用 MaxmindDB geoIP 数据库文件的库
 - [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
-- [yongo](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
+- [yongo](https://github.com/yooneskh/yongo) - deno 中的 Mongoose api 子集（如填充）但不会完全复制 mongoose
 
 ### Discord
 - [discordeno](https://discordeno.mod.land/) - Deno 的 Discord API 库
@@ -80,6 +80,11 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [aleph.js](https://github.com/postui/aleph.js) - Deno 中的 React 框架，灵感来自 [Next.js](https://nextjs.org).
 - [fresh](https://github.com/lucacasonato/fresh)  - Preact，但超级前卫. 下一代网络框架.
 - [ultra](https://github.com/exhibitionist-digital/ultra) - Deno 中的现代流式反应框架.
+
+### Game engine
+- [caviar](https://github.com/load1n9/caviar) - ⚡ 由 WebGPU 为 Deno 和浏览器提供支持的快速、现代的游戏引擎
+- [neko](https://github.com/load1n9/neko) - 鱼子酱的双帧缓冲 deno 模块，带有帧缓冲画布实现
+- [sdl2](https://github.com/littledivy/deno_sdl2) - Deno 的 SDL2 模块
 
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - JavaScript 中的图像处理，利用 WebAssembly 来提高性能.
@@ -143,7 +148,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 处理.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
-- [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式.
+- [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 - [deno_notify](https://github.com/PandawanFr/deno_notify) - 在所有平台上发送桌面通知.
 - [deno-opn](https://github.com/hashrock/deno-opn)  - 打开网站、文件、可执行文件等内容. 跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - 用于管理 Deno 原生插件依赖项的库.
@@ -170,7 +175,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是工作.
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
 - [tryify](https://github.com/twilsoft/tryify)  - 函数式错误处理； 永远不要再次抛出/尝试/捕捉/最终.
-- [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
+- [type-fest](https://github.com/denoserverless/type-fest) - 基本 TypeScript 类型的集合（sindresorhus/type-fest 的端口）.
 - [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - 强大而简单的锁（互斥）库，用于处理零依赖的竞争条件
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 执行 gzip 操作.
 - [watch](https://github.com/jinjor/deno-watch) - 文件观察者.
@@ -282,7 +287,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [kopo-cli](https://github.com/littletof/kopo-cli) - 终端中的 Deno 注册表浏览器.
 - [lume](https://github.com/lumeland/lume) - 一个类似于 Jekyll 或 Eleventy 的静态站点生成器，支持多种文件格式.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - 自动使 package.json 项目（例如 npm 包和 node.js 模块）与 Deno 兼容.
-- [nessie](https://github.com/halvardssm/deno-nessie) - 为 PostgreSQL、MySQL 和 SQLite 创建、迁移和回滚迁移.
+- [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以轻松使用 Deno 脚本构建虚拟机映像.
 - [pagic](https://github.com/xcatliu/pagic) - 从 Markdown 生成静态 html 页面的最简单方法，使用 Deno 构建.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)

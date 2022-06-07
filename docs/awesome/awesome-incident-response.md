@@ -20,7 +20,7 @@
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 模块化的、菜单驱动的、跨平台的工具，用于构建可重复的、延时的、分布式的安全事件. 为蓝队演习和传感器/警报映射轻松创建自定义事件链. 红队可以制造诱饵事件、干扰和诱饵来支持和扩展他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 进行对抗模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
-* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
+* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA 提供了一个脚本框架，旨在允许蓝队测试其针对恶意交易的检测能力，以 MITRE ATT&amp;CK 为模型.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - 用于对手仿真和威胁搜寻的虚拟机.
 
 ### All-In-One Tools
@@ -33,7 +33,7 @@
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于 Windows 的应用程序，提供工作流自动化、案例管理和安全响应功能.
 * [Flare](https://github.com/fireeye/flare-vm) - 一个完全可定制的、基于 Windows 的安全分发，用于恶意软件分析、事件响应、渗透测试.
 * [Fleetdm](https://github.com/fleetdm/fleet)  - 为安全专家量身定制的最先进的主机监控平台. 利用 Facebook 久经考验的 osquery 项目，Fleetdm 为重大问题提供持续更新、功能和快速答案.
-* [GRR Rapid Response](https://github.com/google/grr)  - 专注于远程实时取证的事件响应框架. 它由安装在目标系统上的 python 代理（客户端）和可以管理代理并与之对话的 python 服务器基础结构组成. 除了包含的 Python API 客户端， [PowerGRR](https://github.com/swisscom/PowerGRR) 在 PowerShell 中提供 API 客户端库，可在 Windows、Linux 和 macOS 上运行，用于 GRR 自动化和脚本编写.
+* [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR](https://github.com/swisscom/PowerGRR) 在 PowerShell 中提供 API 客户端库，可在 Windows、Linux 和 macOS 上运行，用于 GRR 自动化和脚本编写.
 * * [IRIS](https://github.com/dfir-iris/iris-web) - IRIS 是事件响应分析师的网络协作平台，允许在技术层面共享调查.
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) - 数字取证调查平台
 * [Limacharlie](https://www.limacharlie.io/) - 端点安全平台由一系列小项目组成，所有项目协同工作，为您提供跨平台（Windows、OSX、Linux、Android 和 iOS）低级环境，用于管理额外模块并将其推送到内存中以扩展其功能.
@@ -78,7 +78,7 @@
 * [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - artifactcollector 项目提供了一个在系统上收集取证文物的软件.
 * [bulk_extractor](https://github.com/simsong/bulk_extractor)  - 计算机取证工具，可扫描磁盘映像、文件或文件目录并提取有用信息，而无需解析文件系统或文件系统结构. 由于忽略了文件系统结构，该程序在速度和彻底性方面与众不同.
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) - 简化的解析器列表，可快速分析取证图像文件（`dd`、E01、`.vmdk` 等）并输出九份报告.
-* [CyLR](https://github.com/orlikoski/CyLR) - CyLR 工具快速、安全地从具有 NTFS 文件系统的主机收集取证工件，并将对主机的影响降至最低.
+* [CyLR](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 * [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) - 数字取证神器存储库
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch 脚本和 Unix Bash 脚本，用于在事件响应期间全面收集主机取证数据.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - 从基于 Windows、OSX 和 \*nix 的操作系统收集易失性数据的自动化工具.
@@ -102,7 +102,7 @@
 ### Knowledge Bases
 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - 数字取证神器知识库
-* [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
+* [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows 事件攻击示例
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows 注册表知识库
 
 ### Linux Distributions
@@ -111,7 +111,7 @@
 * [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) - 包含在分析过程中帮助调查人员的众多工具，包括法医证据收集.
 * [CCF-VM](https://github.com/rough007/CCF-VM) - CyLR CDQR 取证虚拟机 (CCF-VM)：用于解析收集的数据的一体化解决方案，通过内置的常用搜索使其易于搜索，可同时搜索单个和多个主机.
 * [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/)  - 用于计算机取证收集的 Linux 发行版. 它与 Windows 的数字高级响应工具包 (DART) 捆绑在一起. 还提供名为 DEFT Zero 的轻量版 DEFT，它主要专注于法医健全的证据收集.
-* [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux 发行版，其中包括对网络安全专业人员有用的大量同类最佳开源网络安全应用程序.
+* [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux 发行版，其中包含大量对网络安全专业人员有用的同类最佳开源网络安全应用程序.
 * [PALADIN](https://sumuri.com/software/paladin/)  - 修改了 Linux 发行版，以合理的方式执行各种取证任务. 它附带了许多开源取证工具.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - 针对具有高级分析工具的网络安全监控的特殊 Linux 发行版.
 * [SANS Investigative Forensic Toolkit (SIFT) Workstation](http://digital-forensics.sans.org/community/downloads) - 证明先进的事件响应能力和针对入侵的深入数字取证技术可以使用免费且经常更新的尖端开源工具来完成.
@@ -127,6 +127,7 @@
 * [Chainsaw](https://github.com/countercept/chainsaw) - Chainsaw 提供强大的“第一响应”功能，可快速识别 Windows 事件日志中的威胁.
 * [Event Log Explorer](https://eventlogxp.com/) - 为快速分析日志文件和其他数据而开发的工具.
 * [Event Log Observer](https://lizard-labs.com/event_log_observer.aspx) - 使用此 GUI 工具查看、分析和监控 Microsoft Windows 事件日志中记录的事件.
+* [Hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa 是一个 Windows 事件日志快速取证时间线生成器和威胁搜寻工具，由日本 Yamato 安全组创建.
 * [Kaspersky CyberTrace](https://support.kaspersky.com/13850)  - 威胁情报融合和分析工具，将威胁数据馈送与 SIEM 解决方案集成. 用户可以立即利用威胁情报在其现有安全操作的工作流程中进行安全监控和事件报告 (IR) 活动.
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx)  - 针对结构化日志数据执行 SQL 查询：服务器日志、Windows 事件、文件系统、Active Directory、log4net 日志、逗号/制表符分隔的文本、XML 或 JSON 文件. 还为 Microsoft LogParser 2.2 提供了一个具有强大 UI 元素的 GUI：语法编辑器、数据网格、图表、数据透视表、仪表板、查询管理器等.
 * [Lorg](https://github.com/jensvoid/lorg) - 用于高级 HTTPD 日志文件安全分析和取证的工具.
@@ -135,6 +136,7 @@
 * [Sigma](https://github.com/SigmaHQ/sigma) - 已包含大量规则集的 SIEM 系统的通用签名格式.
 * [StreamAlert](https://github.com/airbnb/streamalert) - 无服务器、实时日志数据分析框架，能够摄取自定义数据源并使用用户定义的逻辑触发警报.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch 通过聚合事件日志使 Windows 事件日志分析更有效且耗时更少.
+* [WELA](https://github.com/Yamato-Security/WELA) - Windows 事件日志分析器旨在成为 Windows 事件日志的瑞士军刀.
 * [Zircolite](https://github.com/wagga40/Zircolite) - 一个独立且快速的基于 SIGMA 的 EVTX 或 JSON 检测工具.
 
 ### Memory Analysis Tools
@@ -191,11 +193,11 @@
 * [Kansa](https://github.com/davehull/Kansa/) - PowerShell 中的模块化事件响应框架.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT 目录树重建和记录信息.
 * [Munin](https://github.com/Neo23x0/munin) - VirusTotal 和其他服务的在线哈希检查器.
-* [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
+* [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse 是一个 PowerShell 模块，专注于在安全事件响应期间进行有针对性的遏制和补救.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - 非常简单的多线程多规则多文件 YARA 扫描恶意软件动物园和 IR 的 Python 脚本.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - 允许在 Windows、Linux 和 OS X 上使用 YARA 扫描磁盘和内存以查找 IOC.
 * [RaQet](https://raqet.github.io/) - 非常规的远程采集和分类工具，允许对使用专门构建的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
-* [Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+* [Raccine](https://github.com/Neo23x0/Raccine) - 一个简单的勒索软件保护
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 出现问题时收集有关 MySQL 的取证数据.
 * [Scout2](https://nccgroup.github.io/Scout2/) - 可让 Amazon Web Services 管理员评估其环境的安全状况的安全工具.
 * [Stenographer](https://github.com/google/stenographer)  - 数据包捕获解决方案，旨在快速将所有数据包假脱机到磁盘，然后提供对这些数据包子集的简单、快速访问. 它存储尽可能多的历史记录，管理磁盘使用情况，并在达到磁盘限制时删除. 它非常适合在事件之前和期间捕获流量，而无需明确需要存储所有网络流量.
@@ -246,7 +248,7 @@
 ### Scanner Tools
 
 * [Fenrir](https://github.com/Neo23x0/Fenrir)  - 简单的 IOC 扫描仪. 它允许在普通 bash 中扫描任何 Linux/Unix/OSX 系统的 IOC. 由 THOR 和 LOKI 的创造者创建.
-* [LOKI](https://github.com/Neo23x0/Loki) - 免费的 IR 扫描仪，用于使用 yara 规则和其他指标 (IOC) 扫描端点.
+* [LOKI](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [Spyre](https://github.com/spyre-project/spyre) - 用 Go 编写的简单的基于 YARA 的 IOC 扫描仪
 
 ### Timeline Tools
@@ -274,7 +276,7 @@
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)  - Mandiant 提供的免费工具，用于收集主机系统数据并报告入侵指标 (IOC) 的存在. 仅支持 Windows. 不再维护. 仅完全支持 Windows 7 / Windows Server 2008 R2.
 * [IRTriage](https://github.com/AJMartel/IRTriage) - 事件响应分类 - 用于取证分析的 Windows 证据收集.
 * [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)  - Eric Zimmerman 的 Kroll Artifact Parser and Extractor (KAPE). 一种分类工具，可以找到最流行的数字工件，然后快速解析它们. 当时间至关重要时，伟大而彻底.  
-* [LOKI](https://github.com/Neo23x0/Loki) - 免费的 IR 扫描仪，用于使用 yara 规则和其他指标 (IOC) 扫描端点.
+* [LOKI](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) - 适用于 Windows 的基于 PowerShell 的分类和威胁搜寻.
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时 Windows 系统上的快速事件概览.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 使用 PowerShell 的实时磁盘取证平台.

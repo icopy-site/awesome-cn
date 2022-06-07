@@ -60,7 +60,7 @@
 * [Evolving Objects](http://eodev.sourceforge.net/)  - 基于模板的 ANSI-C++ 进化计算库，可帮助您快速编写自己的随机优化算法.  [LGPL]
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep)  - 仅用于在 C++ 中使用 Keras 模型的标头库.  [麻省理工学院]
 * [Genann](https://github.com/codeplea/genann) - C 中的简单神经网络库.[zlib]
-* [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、突变感知的数据流 Dep 调度器； 适用于 Python、R、Julia、Scala、Go、Javascript 等 [website](https://mxnet.apache.org)
+* [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、变异感知的数据流 Dep 调度器； 适用于 Python、R、Julia、Scala、Go、Javascript 等 [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - Python 中的张量和动态神经网络，具有强大的 GPU 加速功能. [website](https://pytorch.org)
 * [flashlight](https://github.com/flashlight/flashlight)  - Flashlight 是一个快速、灵活的机器学习库，完全用 C++ 编写.  [BSD]
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation)  - (3D) 导航网格生成器和探路者，主要用于游戏.  [zlib]
@@ -182,7 +182,7 @@
 * [LZHAM](https://code.google.com/p/lzham/)  - 无损数据压缩库，压缩比与 LZMA 类似，但解压速度更快.  [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html)  :zap: - 7z 格式的默认和通用压缩方法.  [公共区域]
 * [LZMAT](http://www.matcode.com/lzmat.htm)  - 一个极快的实时无损数据压缩库.  [通用公共许可证]
-* [miniz](https://github.com/richgel999/miniz)  - 单个 C 源文件 Deflate/Inflate 压缩库，具有与 zlib 兼容的 API、ZIP 存档读取/写入、PNG 写入.  [麻省理工学院]
+* [miniz](https://github.com/richgel999/miniz)  - 单个 C 源文件 Deflate/Inflate 压缩库，具有与 zlib 兼容的 API、ZIP 归档读取/写入、PNG 写入.  [麻省理工学院]
 * [Minizip](https://github.com/nmoinvaz/minizip)  - Zlib 具有支持 PKWARE 磁盘跨越、AES 加密和 IO 缓冲的最新错误修复.  [zlib]
 * [smaz](https://github.com/antirez/smaz)  - 小字符串压缩库.  [BSD]
 * [Snappy](https://google.github.io/snappy/)  - 一个快速的压缩器/解压器.  [BSD]
@@ -413,7 +413,7 @@
 * [GacUI](https://github.com/vczh-libraries/GacUI)  - GPU 加速的 C++ 用户界面，具有所见即所得的开发工具、XML 支持、内置数据绑定和 MVVM 功能.  [女士-PL]
 * [GTK+](http://www.gtk.org/)  - 用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)  - 流行的 GUI 库 GTK+ 的官方 C++ 接口.  [LGPL]
-* [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+* [imgui](https://github.com/ocornut/imgui)  - 具有最小依赖性的即时模式图形用户界面.  [麻省理工学院]
 * [implot](https://github.com/epezent/implot)  - imgui 的即时模式绘图小部件.  [麻省理工学院]
 * [iup](https://www.tecgraf.puc-rio.br/iup)  - 用于构建图形用户界面的多平台工具包.  [麻省理工学院]
 * [libui](https://github.com/andlabs/libui)  - 简单且可移植（但并非不灵活）的 C 语言 GUI 库，它使用它支持的每个平台的本机 GUI 技术.  [麻省理工学院]
@@ -433,7 +433,7 @@
 
 ## Graphics
 
-* [assimp](https://github.com/assimp/assimp)  - Open Asset Import Library (assimp) 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供通用 API.  [BSD-3-条款] [website](http://www.assimp.org)
+* [assimp](https://github.com/assimp/assimp)  - 开放资产导入库 (assimp) 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供通用 API.  [BSD-3-条款] [website](http://www.assimp.org)
 * [bgfx](https://github.com/bkaradzic/bgfx)  - 一个跨平台的渲染库.  [BSD]
 * [Blend2D](https://github.com/blend2d/blend2d)  - 由 JIT 编译器驱动的 2D 矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  - 用于开发实时图形应用程序的现代 C++14 库.  [麻省理工学院]
@@ -442,6 +442,7 @@
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  - 一个现代的跨平台低级 3D 图形库.  [阿帕奇2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)  - 用于在 C++ 中编写 DirectX 11.x 代码的帮助类集合.  [麻省理工学院]
 * [GLFW](https://github.com/glfw/glfw)  - 一个简单的跨平台 OpenGL 争论库.  [zlib/libpng]
+* [Harfang 3D](https://github.com/harfang3d/harfang3d) 可用于 C++、Python、Lua 和 Go 的 3D 可视化库. 基于BGFX.  [GPLv3/LGPLv3/商业] [website](https://www.harfang3d.com)
 * [herebedragons](https://github.com/kosua20/herebedragons)  - 使用各种引擎、框架或 API 实现的基本 3D 场景.  [麻省理工学院] [website](http://simonrodriguez.fr/dragon/)
 * [Horde3D](https://github.com/horde3d/Horde3D)  - 一个小型 3D 渲染和动画引擎.  [英超]
 * [Ion](https://github.com/google/ion)  - 一组小型且高效的库，用于构建使用 3D 图形的跨平台客户端或服务器应用程序.  [阿帕奇2] [website](https://google.github.io/ion/)
@@ -455,7 +456,7 @@
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)  - Pixar 的库，用于在 CPU 和 GPU 上评估和渲染细分曲面.  [修改Apache2]
 * [OpenVDB](http://www.openvdb.org/)  - 用于存储、编辑和渲染体积数据集的库和工具.  [MPL2]
 * [Panda3D](http://www.panda3d.org/)  - 用于 Python 和 C++ 的 3D 渲染和游戏开发框架.  [BSD]
-* [Partio](https://github.com/wdas/partio)  - 用于处理粒子数据的库，支持最常见的文件格式.  [修改后的 BSD]
+* [Partio](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. [Modified BSD]
 * [Skia](https://github.com/google/skia)  - 用于绘制文本、几何图形和图像的完整 2D 图形库.  [BSD] [website](https://skia.org/)
 * [TinySpline](https://github.com/msteinbeck/tinyspline)  - 一个小而强大的 ANSI C 库，用于插值、转换和查询任意 NURBS、B 样条和 Bézier 曲线.  [麻省理工学院]
 * [urho3d](https://github.com/urho3d/Urho3D)  - 跨平台渲染和游戏引擎.  [许多不同，主要是麻省理工学院]
@@ -532,13 +533,13 @@
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  - 用于与 JSON 交互的 C++ 库.  [麻省理工学院]
 * [json-parser](https://github.com/udp/json-parser) - 用可移植 ANSI C 编写的占用空间极小的 JSON 解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  - 一个用于 C++11 的小型 JSON 库.  [麻省理工学院]
-* [json-struct](https://github.com/jorgen/json_struct)  - 高性能、单头 JSON 解析器解析到 C++ 结构和从 C++ 结构解析.  [麻省理工学院]
+* [json-struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. [MIT]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  - C++ 的 JSON 库. 支持 C++11. 没有依赖关系，快速且对开发人员友好.  [阿帕奇2]
 * [jute](https://github.com/amir-s/jute)  - 非常简单的 C++ JSON 解析器.  [公共区域]
 * [libjson](https://github.com/vincenthz/libjson)  - C 中的 JSON 解析器和打印机库.易于与任何模型集成.  [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/)  - 轻量级 JSON 库.  [?]
 * [LIBUCL](https://github.com/vstakhov/libucl) :zap: - 通用配置库解析器 [BSD-2-Clause]
-* [parson](https://github.com/kgabis/parson) - Parson 是一个用 C 语言编写的轻量级 json 库.[麻省理工学院]
+* [parson](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. [MIT]
 * [PicoJSON](https://github.com/kazuho/picojson)  - C++ 中的仅限头文件的 JSON 解析器序列化程序.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)  - 一个简单的类，用于将 JSON 数据解析为 QVariant 层次结构，反之亦然.  [GPLv3]
 * [QJson](https://github.com/flavio/qjson)  - 一个基于 qt 的库，将 JSON 数据映射到 QVariant 对象.  [LGPL2]
@@ -559,7 +560,7 @@
 * [G3log](https://github.com/KjellKod/g3log)  - 带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) - 谷歌日志模块的 C++ 实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)  - 用于灵活记录到文件、系统日志、IDSA 和其他目标的 C++ 类库.  [LGPL]
-* [log4cplus](https://github.com/log4cplus/log4cplus)  - 一个简单易用的 C++ 日志 API，提供线程安全、灵活和任意粒度的日志管理和配置控制.  [BSD 和 Apache2]
+* [log4cplus](https://github.com/log4cplus/log4cplus)  - 一个简单易用的 C++ 日志 API，提供对日志管理和配置的线程安全、灵活和任意粒度的控制.  [BSD 和 Apache2]
 * [loguru](https://github.com/emilk/loguru)  - 轻量级 C++ 日志库.  [公共区域]
 * [plog](https://github.com/SergiusTheBest/plog)  - 少于 1000 行代码的便携式和简单的 C++ 日志.  [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)  - 用于 C++ 的低延迟、高吞吐量、异步日志库.  [麻省理工学院]
@@ -679,7 +680,7 @@
 * [H2O](https://github.com/h2o/h2o)  - 优化的 HTTP 服务器，支持 HTTP/1.x 和 HTTP/2. 它也可以用作图书馆.  [麻省理工学院]
 * [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - C 的 http 请求/响应解析器. [麻省理工学院]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)  - 一种快速可靠的 ARQ 协议，可帮助应用程序减少网络延迟.  [麻省理工学院]
-* [libcurl](http://curl.haxx.se/libcurl/)  - 多协议文件传输库.  [MIT/X 衍生许可证]
+* [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libhttpserver](https://github.com/etr/libhttpserver)  - 用于创建嵌入式 Rest HTTP 服务器（以及更多）的 C++ 库.  [LGPL2.1]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)  - GNU libmicrohttpd 是一个小型 C 库，它应该可以轻松地将 HTTP 服务器作为另一个应用程序的一部分运行.  [LGPL v2.1+]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)  - 用于网络流量捕获的可移植 C/C++ 库.  [BSD] [website](https://www.tcpdump.org/)
@@ -791,7 +792,7 @@
 
 * [AngelScript](https://www.angelcode.com/angelscript/)  - AngelScript 是一种面向游戏的解释/编译脚本语言.  [zlib]
 * [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html)  - 一个 C++ 库，可实现 C++ 和 Python 编程语言之间的无缝互操作性.  [促进]
-* [cppimport](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python! [MIT]
+* [cppimport](https://github.com/tbenthompson/cppimport)  - 直接从 Python 导入 C++ 文件！  [麻省理工学院]
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
@@ -824,7 +825,7 @@
 * [cppcodec](https://github.com/tplgy/cppcodec)  - 仅包含头文件的 C++11 库，可使用一致、灵活的 API 对 base64、base32 和十六进制进行编码/解码.  [麻省理工学院]
 * [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers)  - 一个内存高效的序列化库.  [阿帕奇2]
-* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
+* [MessagePack](https://github.com/msgpack/msgpack-c)  - C 和 C++ 的高效二进制序列化格式“像 JSON”.  [阿帕奇2] [website](http://msgpack.org/)
 * [mrpt-serialization](https://github.com/mrpt/mrpt/)  - 版本化序列化为二进制或文本格式.  [BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 * [nanopb](https://github.com/nanopb/nanopb) - ANSI C 中的小代码大小协议缓冲区实现.[Zlib]
 * [protobuf](https://github.com/protocolbuffers/protobuf)  - 协议缓冲区 - Google 的数据交换格式.  [BSD]
@@ -946,7 +947,7 @@
 ## Compiler
 *C 或 C++ 编译器列表*
 
-* [8cc](https://github.com/rui314/8cc) - A Small C Compiler.
+* [8cc](https://github.com/rui314/8cc) - 小型 C 编译器.
 * [c](https://github.com/ryanmjacobs/c)  - 一次编译并执行C“脚本”！  [麻省理工学院]
 * [Clang](http://clang.llvm.org/)  - LLVM 的 AC 编译器. 支持 C++11/14/1z C11. 由 LLVM 团队开发.  [NCSA]
 * [GCC](https://gcc.gnu.org/)  - GNU 编译器集合. 支持 C++11/14/1z C11 和 OpenMP.  [GNU GPL3]
@@ -1014,7 +1015,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]

@@ -68,6 +68,7 @@
 - **[Galaxy](https://github.com/galaxyproject) ** - 一个流行的开源、基于网络的平台，用于数据密集型生物医学研究. 具有多种功能，从数据分析到工作流管理再到可视化工具. [ [paper-2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030816) | [web](https://galaxyproject.org) ]
 - **[Nextflow](https://github.com/nextflow-io/nextflow) （推荐）** - 围绕 UNIX 管道概念建模的流畅 DSL，以可移植方式简化并行和可扩展管道的编写. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
 - **[Ruffus](https://github.com/cgat-developers/ruffus)** - 广泛用于科学和生物信息学的 Python 计算管道库. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20847218) | [web](http://www.ruffus.org.uk) ]
+- **[SciPipe](https://github.com/scipipe/scipipe)** - Go 编程语言中嵌入的工作流库，专注于支持复杂的工作流构造，编译为单个二进制文件，为每个输出提供强大的文件命名和全面的审计报告 [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 - **[SeqWare](https://github.com/SeqWare/seqware)** - 基于 Hadoop Oozie 的工作流系统，专注于云环境中的基因组数据分析. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/21210981) | [web](https://seqware.github.io) ]
 - **[Snakemake](https://bitbucket.org/snakemake)** - Python 中的工作流管理系统，旨在通过提供快速舒适的执行环境来降低创建工作流的复杂性. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29788404) | [web](https://snakemake.readthedocs.io) ]
 - **[Workflow Descriptor Language](https://github.com/broadinstitute/wdl)** - Broad 开发的工作流程标准. [ [web](https://software.broadinstitute.org/wdl) ]
@@ -88,8 +89,8 @@
 - **[AfterQC](https://github.com/OpenGene/AfterQC)** - fastq 数据的自动过滤、修剪、错误消除和质量控制. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28361673) ]
 - **[FastQC](https://github.com/s-andrews/FastQC)** - 用于高通量序列数据的质量控制工具. [ [web](http://www.bioinformatics.babraham.ac.uk/projects/fastqc) ]
 - **[Fastqp](https://github.com/mdshw5/fastqp)** - 使用 Python 进行 FASTQ 和 SAM 质量控制.
-- **[Fastx Tookit](https://github.com/agordon/fastx_toolkit)** - FASTQ/A 短读预处理工具：多路分解、修剪、剪辑、质量过滤和掩蔽实用程序. [ [web](http://hannonlab.cshl.edu/fastx_toolkit) ]
-- **[MultiQC](https://github.com/ewels/MultiQC)** - Aggregate results from bioinformatics analyses across many samples into a single report. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27312411) | [web](http://multiqc.info) ]
+- **[Fastx Tookit](https://github.com/agordon/fastx_toolkit)** - FASTQ/A 短读段预处理工具：多路分解、修剪、剪辑、质量过滤和屏蔽实用程序. [ [web](http://hannonlab.cshl.edu/fastx_toolkit) ]
+- **[MultiQC](https://github.com/ewels/MultiQC)** - 将多个样本的生物信息学分析结果汇总到一份报告中. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27312411) | [web](http://multiqc.info) ]
 - **[SeqFu](https://github.com/telatin/seqfu2)** - 用 Nim 编写的 FASTA/FASTQ 文件的序列操作工具包. [ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
 - **[SeqKit](https://github.com/shenwei356/seqkit)** - Golang 中用于 FASTA/Q 文件操作的跨平台和超快工具包. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27706213) | [web](https://bioinf.shenwei.me/seqkit) ]
 - **[seqmagick](https://github.com/fhcrc/seqmagick)** - 在 Biopython 中以方便的方式进行文件格式转换. [ [web](http://seqmagick.readthedocs.io) ]
@@ -206,7 +207,7 @@
 
 - **[canu](https://github.com/marbl/canu)** - 用于大小基因组的单分子序列组装器.
 - **[flye](https://github.com/fenderglass/Flye)** - 使用重复图进行单分子测序读取的从头组装器. 
-- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确高保真读取的单倍型解析汇编程序.
+- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确高保真读取的单倍型解析汇编器.
 - **[wtdbg2](https://github.com/ruanjue/wtdbg2)** - 一种用于长噪声读取组装的模糊 Bruijn 图方法
 
 ## Visualization
@@ -222,7 +223,7 @@
 - **[Circleator](https://github.com/jonathancrabtree/Circleator)** - 使用 BioPerl 和 SVG 对基因组相关数据进行灵活的循环可视化. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075113) ]
 - **[DNAism](https://github.com/drio/dnaism)** - 基于地平线图 D3 的 DNA 数据 JavaScript 库. [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0891-2) | [web](http://drio.github.io/dnaism/) ]
 - **[IGV js](https://github.com/igvteam/igv) ** - 基于 Java 的浏览器. 用于基因组学数据和注释的快速、高效、可扩展的可视化工具. 处理多种格式. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383) | [web](https://software.broadinstitute.org/software/igv) ]
-- **[Island Plot](https://github.com/lairdm/islandplot) ** - 基于 D3 JavaScript 的基因组查看器. 构造 SVG. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/25916842/) ]
+- **[Island Plot](https://github.com/lairdm/islandplot)** - D3 JavaScript based genome viewer. Constructs SVGs. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/25916842/) ]
 - **[JBrowse](https://github.com/GMOD/jbrowse)** - JavaScript 基因组浏览器，可通过插件和跟踪自定义进行高度定制. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27072794) | [web](http://jbrowse.org/) ]
 - **[PHAT](https://github.com/chgibb/PHAT)** - 指向和点击的跨平台套件，用于分析和可视化下一代测序数据集. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30561651) | [web](https://chgibb.github.io/PHATDocs) ]
 - **[pileup.js](https://github.com/hammerlab/pileup.js)** - JavaScript 库，可用于生成交互式和高度可定制的基于 Web 的基因组浏览器. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27153605) ]
@@ -275,7 +276,7 @@
 - [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia 提供了关于 RNA-seq 和成功进行 RNA-seq 实验所需选择的精彩概述.
 - [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - 为 RNA-seq 计算分析提供了很棒的路线图，包括挑战/障碍和需要注意的事情，以及如何将 RNA-seq 数据与其他数据类型集成.
 - [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Lior Pachter 博士分享了他在著名 RNA-seq 分析软件 CuffDiff 和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
-- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - 维基百科上的大量分析所需的 RNA-seq 生物信息学工具列表，涵盖分析流程的所有部分，从质量控制、比对、剪接分析和可视化.
+- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - 维基百科上广泛列出分析所需的 RNA-seq 生物信息学工具，包括分析管道的所有部分，从质量控制、对齐、剪接分析和可视化.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)对进行 RNA-seq 分析时的各种步骤和注意事项的注释.
 
 ### ChIP-Seq
@@ -285,7 +286,7 @@
 ### YouTube Channels and Playlists
 
 - [Current Topics in Genome Analysis 2016](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/) - 在 NIH 就当前基因组学主题进行了 14 场精彩系列讲座，从序列分析到测序技术，甚至更多的转化主题，如基因组医学.
-- [GenomeTV](https://www.youtube.com/user/GenomeTV) - “GenomeTV 是 NHGRI 收集的官方视频资源，从讲座到新闻纪录片，再到解决基因组研究的研究、问题和临床应用的会议的完整视频集.”
+- [GenomeTV](https://www.youtube.com/user/GenomeTV) - “GenomeTV 是 NHGRI 的官方视频资源集合，从讲座到新闻纪录片，再到解决基因组研究的研究、问题和临床应用的会议的完整视频集合.”
 - [Leading Strand](https://www.youtube.com/user/LeadingStrand)  - 冷泉港实验室 (CSHL) 会议的主题演讲. 更多关于 [The Leading Strand](http://theleadingstrand.cshl.edu/).
 - [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) - “我们的研讨会致力于 GBM 的关键交叉点，深入研究将深刻塑造未来的‘前沿’技术和方法.”
 - [Rafael Irizarry's Channel](https://www.youtube.com/user/RafalabChannel/videos) - Rafael Irizarry 博士关于基因组学统计学的讲座和学术讲座.
@@ -301,7 +302,7 @@
 ### Miscellaneous
 
 - [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) - 专业策划的基因组学论文，以快速了解基因组学、RNA-seq、统计学（用于基因组学）、软件开发等.
-- [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) - “本文介绍了数百个可能感兴趣的免费视频课程目录，供那些希望扩展其生物信息学和计算生物学知识的人使用.这些课程以大学系为蓝本分为 11 个学科领域，并附有评论和职业建议. &quot;
+- [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) - “本文介绍了数百个可能感兴趣的免费视频课程目录，供那些希望扩展其生物信息学和计算生物学知识的人使用.这些课程以大学系为模型分为 11 个学科领域，并附有评论和职业建议. &quot;
 - [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) - Lincoln D. Stein 关于 Perl 编程语言在人类基因组计划中的重要性的轶事.
 - [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - 关于计算生物学和生物信息学中使用的各种方法的引物和简短教育文章的链接页面.
 - [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - 由 Keith Crandall 和 Claus White 策划的工具集，旨在整理 PeerJ 中最有趣、创新和相关的生物信息学工具文章.

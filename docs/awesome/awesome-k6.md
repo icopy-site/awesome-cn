@@ -81,7 +81,7 @@
 
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - 用于将 k6 输出转换为 JUnit XML 以便与 CI 一起使用的工具.
 - [k6-reporter](https://github.com/benc-uk/k6-reporter) - 将 k6 输出转换为 HTML 报告的工具.
-- [k6-reporter](https://github.com/szboynono/k6-html-reporter) - 用于生成 k6 HTML 报告的工具.
+- [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) - 用于生成 k6 HTML 报告的工具.
 - [har-to-k6](https://github.com/grafana/har-to-k6) - 用于将 HAR 录音转换为 k6 测试脚本的工具.
 - [postman-to-k6](https://github.com/grafana/postman-to-k6) - 将 Postman 集合转换为 k6 测试脚本的工具.
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
