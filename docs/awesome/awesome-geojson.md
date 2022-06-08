@@ -53,7 +53,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [check-geojson](https://github.com/placemark/check-geojson)：geojsonhint 的替代品
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): 许多验证功能，加上简单的 gjv 命令行工具
 * [gjf](https://github.com/yazeed44/gjf): 修复无效 GeoJSON 对象的工具
-
+* [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson)：为评估 GeoJSON 数据量身定制的 Jest Javascript 单元测试框架的一组扩展匹配器函数
 
 ### services
 
@@ -95,7 +95,7 @@ GeoJSON 实用程序，让您的生活更轻松.
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): 将 OpenStreetMap 数据转换为 GeoJSON
   * [osm2geojson](https://github.com/rclark/osm2geojson): 将 OSM XML 转换为 GeoJSON
   * [osm2geojson](https://github.com/aspectumapp/osm2geojson): (Python) 将 OSM XML 和 Overpass XML/JSON 转换为 GeoJSON
-  * [minjur](https://github.com/mapbox/minjur)：将 OpenStreetMap 数据转换为 GeoJSON 比其他任何东西都快
+  * [minjur](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
   * [geojsontoosm](https://github.com/tyrasd/geojsontoosm): 将 GeoJSON 转换为 OSM XML
   * [geojson2osm](https://github.com/Rub21/geojson2osm): 将 GeoJSON 转换为 OSM XML
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): 将 GeoJSON 转换为 OSM XML 和 OSM XML 转换为 GeoJSON
@@ -130,7 +130,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [rust-geojson](https://github.com/georust/rust-geojson): 将 geojson 序列化到/从 rust 数据类型
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson): 将 GeoJSON 与 Java 数据类型进行序列化（基于 [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java](https://github.com/mapbox/mapbox-java): 将 GeoJSON 与 Java 数据类型进行序列化（基于 [Gson](https://github.com/google/gson))
-* [geojson-serializer](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
+* [geojson-serializer](https://github.com/ancore/geojson-serializer): 将带有注解的 Java 序列化为 GeoJSON
 
 ### resources
 
@@ -142,4 +142,4 @@ GeoJSON 实用程序，让您的生活更轻松.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
 
-在法律允许的范围内， [Tom MacWright](http://www.macwright.org) 已放弃本作品的所有版权和相关或邻近权利.
+在法律允许的范围内， [Tom MacWright](http://www.macwright.org) 已放弃本作品的所有版权和相关或邻接权.

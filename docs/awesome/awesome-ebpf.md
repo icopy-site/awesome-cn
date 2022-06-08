@@ -112,9 +112,9 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [eXpress Data Path](http://www.slideshare.net/IOVisor/express-data-path-linux-meetup-santa-clara-july-2016) - 包含使用 mlx4 驱动程序获得的一些基准测试结果.
 - Jesper Dangaard Brouer 有几组幻灯片描述了 XDP 的内部结构：
 
-  - [XDP − eXpress Data Path, Intro and future use-cases](http://people.netfilter.org/hawk/presentations/xdp2016/xdp_intro_and_use_cases_sep2016.pdf) - Linux Kernel's fight against DPDK. Future plans (as of this writing) for XDP and comparison with DPDK.
+  - [XDP − eXpress Data Path, Intro and future use-cases](http://people.netfilter.org/hawk/presentations/xdp2016/xdp_intro_and_use_cases_sep2016.pdf)  - Linux Kernel 对抗 DPDK.  XDP 的未来计划（在撰写本文时）以及与 DPDK 的比较.
   - [Network Performance Workshop](http://netdevconf.org/1.2/session.html?jesper-performance-workshop) - 关于 XDP 内部结构和预期演变的附加提示.
-  - [XDP – eXpress Data Path, Used for DDoS protection](http://people.netfilter.org/hawk/presentations/OpenSourceDays2017/XDP_DDoS_protecting_osd2017.pdf) - 有关 XDP 的详细信息和用例，带有基准测试结果和代码片段，用于基准测试以及使用 eBPF/XDP（基于 IP 黑名单方案）进行基本 DDoS 保护.
+  - [XDP – eXpress Data Path, Used for DDoS protection](http://people.netfilter.org/hawk/presentations/OpenSourceDays2017/XDP_DDoS_protecting_osd2017.pdf) - 关于 XDP 的详细信息和用例，带有基准测试结果和代码片段，用于基准测试以及使用 eBPF/XDP 进行基本 DDoS 保护（基于 IP 黑名单方案）.
   - [Memory vs. Networking, Provoking and fixing memory bottlenecks](http://people.netfilter.org/hawk/presentations/MM-summit2017/MM-summit2017-JesperBrouer.pdf) - 有关 XDP 开发人员当前面临的内存问题的高级详细信息.
   - [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek)  - 如何开始为普通人使用 eBPF 和 XDP. 也由 Julia Evans 总结 [her blog](http://jvns.ca/blog/2017/04/07/xdp-bpf-tutorial/).
   - [XDP now with REDIRECT](http://people.netfilter.org/hawk/presentations/LLC2018/XDP_LLC2018_redirect.pdf) - 更新 XDP，特别是重定向操作.
@@ -130,7 +130,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ### bpfilter
 
-- [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - Cilium 发表的一篇关于 eBPF 和 bpfilter 背后动机的博客文章，其中包含几个示例以及使用 eBPF 和 bpfilter 的其他项目的链接.
+- [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) - Cilium 的一篇关于 eBPF 和 bpfilter 背后动机的博客文章，其中包含几个示例以及使用 eBPF 和 bpfilter 的其他项目的链接.
 - [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf) - 来自 Quentin Monnet 演讲的幻灯片，具有 eBPF 的背景并将 bpfilter 与 iptables 进行比较.
 
 ### BTF
@@ -152,7 +152,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [eBPF/XDP hardware offload to SmartNICs](http://netdevconf.org/1.2/session.html?jakub-kicinski) - Netronome 引入的使用 TC 或 XDP（Linux 内核 4.9+）的 eBPF 的硬件卸载.
 - [Comprehensive XDP offload---Handling the edge cases](https://www.netdevconf.org/2.2/session.html?viljoen-xdpoffload-talk) - 关于上述主题的更新.
 - [hBPF - eBPF in hardware](https://github.com/rprinz08/hBPF) - 为 FPGA 编写的 eBPF CPU.
-- [OpenCSD eBPF SSD offloading](https://github.com/Dantali0n/qemu-csd) - 具有 FUSE LFS 文件系统的计算存储模拟 (QEMU) 平台，用于分区命名空间 NVMe SSD，使用 uBPF 进行计算内核卸载，所有这些都在用户空间中.
+- [OpenCSD eBPF SSD offloading](https://github.com/Dantali0n/qemu-csd) - 带有 FUSE LFS 文件系统的计算存储模拟 (QEMU) 平台，用于分区命名空间 NVMe SSD，使用 uBPF 进行计算内核卸载，所有这些都在用户空间中.
 
 ## Tutorials
 
@@ -177,7 +177,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [iproute2/examples/bpf/](https://git.kernel.org/pub/scm/network/iproute2/iproute2-next.git/tree/examples/bpf) - 一些连接到 TC 接口的网络程序.
 - [Netronome sample network applications](https://github.com/Netronome/bpf-samples/) - 提供基本但完整的 eBPF 应用程序示例，也与硬件卸载兼容.
 - [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) - 与密件抄送工具一起提供的示例，主要是关于跟踪.
-- [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools)  - 这些工具本身可以被视为 BPF 程序的示例用例，主要用于跟踪和监控.  bcc 工具已被打包用于某些 Linux 发行版.
+- [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools) - These tools themselves can be seen as example use cases for BPF programs, mostly for tracing and monitoring. bcc tools have been packaged for some Linux distributions.
 - [MPLSinIP sample](https://github.com/fzakaria/eBPF-mpls-encap-decap)  - 一个备受评论的示例，展示了如何在 IP 中封装和解封装 MPLS. 该代码是为那些刚接触 BPF 开发的人注释的.
 - [ebpf-samples](https://github.com/vbpf/ebpf-samples) - 从多个项目收集的已编译（作为 ELF 目标文件）样本的集合，主要用作用户空间验证者的测试用例.
 - [ebpf-kill-example](https://github.com/niclashedam/ebpf-kill-example) - 一个完整记录和测试的 eBPF 探针示例，记录所有强制终止并在用户空间中打印出来.
@@ -219,9 +219,9 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ### bpftool and Other Tools from the Kernel Tree
 
-- [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 内核树中还有一些其他工具，位于 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 之后：
+- [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 内核树中还有一些其他工具，位于 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 在那之后：
 
-  - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和地图交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除地图，或附加和分离程序到 cgroups.
+  - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和地图进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除地图，或附加和分离程序到 cgroups.
   - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编器.
   - [`bpf_dbg`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_dbg.c) - 用于 cBPF 程序的小型调试器.
   - [`bpf_jit_disasm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_jit_disasm.c) - 两种 BPF 风格的反汇编器，对 JIT 调试非常有用.
@@ -296,6 +296,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [Project Calico](https://projectcalico.docs.tigera.io/about/about-calico)  - Calico 是一个开源网络和网络安全解决方案，适用于容器、虚拟机和基于本地主机的工作负载.  Calico 的 eBPF 数据平面通过丰富的网络安全策略模型提供低延迟、高吞吐量的数据平面.
   - [Enabling eBPF data plane with Calico](https://projectcalico.docs.tigera.io/maintenance/ebpf/enabling-bpf)
 - [Falco](https://falco.org/) - 用作 Kubernetes 威胁检测引擎的云原生运行时安全项目.
+- [SkyWalking Rover](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) 是一个开源应用程序性能监控 (APM) 平台，专为具有微服务、云原生和基于容器 (Kubernetes) 架构的分布式系统而设计.  SkyWalking Rover 是基于 eBPF 的分析器和指标收集器，适用于 C、C++、Golang 和 Rust 应用程序.
 - [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  - 一个安全监控工具. 这取决于 [SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF).
 - [Red Canary Linux Agent](https://redcanary.com/blog/ebpf-for-security) - Red Canary 已经开始将 eBPF 整合到他们的 Linux 安全传感器中. 
 - [Tracee](https://github.com/aquasecurity/tracee) - 适用于 Linux 的运行时安全和取证工具，它使用 eBPF 技术在运行时跟踪系统和应用程序，并分析收集的事件以检测可疑行为模式.
@@ -305,7 +306,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ## eBPF in Security
 
-- [Embrace The Red: Offensive BPF!](https://embracethered.com/blog/tags/ebpf)  - 一系列关于 BPF 介绍的帖子，重点是攻击性设置，以及如何检测其滥用. 帖子包括关于 eBPF 的 rootkit 功能的讨论，或者关于不同用例需要哪种跟踪类型的讨论.
+- [Embrace The Red: Offensive BPF!](https://embracethered.com/blog/tags/ebpf)  - 关于 BPF 介绍的一系列帖子，重点是攻击性设置，以及如何检测其滥用. 帖子包括关于 eBPF 的 rootkit 功能的讨论，或者关于不同用例需要哪种跟踪类型的讨论.
 - [eBPF: Block Linux Fileless Payload "Malware" Execution with BPF LSM](https://djalal.opendz.org/post/ebpf-block-linux-fileless-payload-execution-with-bpf-lsm/) - 关于 BPF 如何帮助检测和阻止无文件恶意软件的博客文章.
 - [Blackhat 2021: With Friends Like eBPF, Who Needs Enemies?](https://www.blackhat.com/us-21/briefings/schedule/#with-friends-like-ebpf-who-needs-enemies-23619)  - 谈论 eBPF rootkit 以及如何滥用 eBPF 的功能.  rootkit 也是 Defcon 演讲的对象， [eBPF, I thought we were friends !](https://defcon.org/html/defcon-29/dc-29-speakers.html#fournier).
 - [ebpfkit](https://github.com/Gui774ume/ebpfkit) - 一个利用多个 eBPF 功能来实施攻击性安全技术的 rootkit.
@@ -327,7 +328,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - JIT 编译器在各自架构的目录下，例如文件 [linux/arch/x86/net/bpf_jit_comp.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/arch/x86/net/bpf_jit_comp.c) 对于 x86\. 用于硬件卸载的 JIT 编译器例外，位于其驱动程序中，例如 [linux/drivers/net/ethernet/netronome/nfp/bpf/jit.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/drivers/net/ethernet/netronome/nfp/bpf/jit.c) 用于 Netronome NFP.
 - [linux/net/sched/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/sched) - 特别是在文件 `act_bpf.c` (action) 和 `cls_bpf.c` (filter) 中：与 BPF 操作和 TC 过滤器相关的代码.
 - [linux/kernel/seccomp.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/seccomp.c)
-- [linux/net/core/dev.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/core/dev.c)  - 包含函数 `dev_change_xdp_fd()`，在从用户空间加载到内核后，通过 Netlink 命令调用该函数以将 XDP 程序挂接到设备. 该函数依次使用来自相关驱动程序的回调.
+- [linux/net/core/dev.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/core/dev.c)  - 包含函数 `dev_change_xdp_fd()`，在从用户空间加载到内核后，通过 Netlink 命令调用该函数以将 XDP 程序挂钩到设备. 该函数依次使用来自相关驱动程序的回调.
 
 ## Development and Community
 

@@ -43,6 +43,7 @@
 
 ## GUI
 - [Adminer](https://github.com/vrana/adminer) - 单个 PHP 文件中的数据库管理.
+- [Arctype](https://arctype.com) - 使用起来很有趣的 SQL 客户端和数据库管理工具.
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 上使用 SQL Server、PostgreSQL、Azure SQL DB 和 SQL DW.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
 - [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.

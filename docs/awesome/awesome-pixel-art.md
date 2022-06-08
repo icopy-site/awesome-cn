@@ -40,12 +40,12 @@
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - 具有 8 位复古美学的经典动作冒险，采用现代 NES 游戏的外观.
 - [Hyper Light Drifter](https://heartmachine.com/hyper-light)  - 在散发着光和温暖的科幻世界中自上而下的动作. 使用色彩缤纷的调色板和万花筒霓虹灯营造出严峻的氛围.
 - [Owlboy](http://www.owlboygame.com/)  - 在云端探索详细的蒸汽朋克世界. 凭借其一系列可爱的动画和表情，世界及其角色变得栩栩如生.
-- [Stardew Valley](https://stardewvalley.net/) - 从自上而下的角度管理一个农场，并在 16 位元中融入一个迷人而欢快的世界.
+- [Stardew Valley](https://stardewvalley.net/) - 从自上而下的角度管理农场，并在 16 位元中融入迷人而欢快的世界.
 - [Starbound](https://playstarbound.com/) - 穿越充满活力、色彩缤纷和广阔的星系，包括富有创意的动态动画.
-- [Void Golf](https://cactusmancer.itch.io/void-golf) - 在极简主义的俯视图中，使用引力场、反物理墙和虫洞将巨大的太空岩石射入黑洞.
+- [Void Golf](https://cactusmancer.itch.io/void-golf) - 在极简的俯视图中，使用引力场、反物理墙和虫洞将巨大的太空岩石射入黑洞.
 
 ### Videos
-- [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - 肖恩·布朗宁 (Sean Browning) 的像素动画合集，从简单的场景到对 Steven&#39;s Universe 和 RWBY 等热门节目的再现.
+- [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - 肖恩·布朗宁 (Sean Browning) 的像素动画合集，从简单的场景到 Steven&#39;s Universe 和 RWBY 等热门节目的再现.
 - [Pixel Paul - An Interview with Pixel Artist and Animator Paul Veer](https://vimeo.com/68038321) - Paul Veer，一位从事 Super Crate Box 等游戏的专业像素艺术家，分享了他对像素艺术的兴趣以及他的工作流程和风格分解.
 - [MortMort channel](https://www.youtube.com/channel/UCsn9MzwyPKeCE6MEGtMU4gg) - 创意视频和流媒体，包括提示、讨论和教程.
 
@@ -58,7 +58,7 @@
 - [eBoy](http://hello.eboy.com/eboy/)  - 德国像素艺术团体，由 Kai Vermehr、Steffen Sauerteig 和 Svend Smital 于 1997 年创立. 他们被称为“像素艺术教父”.
 - [Paul Robertson](http://probertson.tumblr.com/) - 澳大利亚人，创造可爱的，有时是宇宙和迷幻的，有时是怪异的噩梦般的像素艺术.
 - [Syosa](http://collet66.blog52.fc2.com/) - 日式少女风格，使用明亮的有机调色板创造出可爱的人类和动物.
-- [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - 澳大利亚，黑暗和成熟：骑士、恐龙、海盗、史诗般的野兽、解剖学和历史以及一切扭曲和怪异的事物的粉丝.
+- [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - 澳大利亚，黑暗和成熟：骑士、恐龙、海盗、史诗野兽、解剖学和历史以及一切扭曲和怪异的事物的粉丝.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - 澳大利亚，以不饱和的色彩捕捉日常生活的小动画场景.
 - [Slynyrd](https://www.patreon.com/slynyrd) - 美国游戏设计师，拥有大量材料、游戏特定知识和迷你教程.
 
@@ -77,7 +77,6 @@
 - [PixelCraft](https://rgab1508.github.io/PixelCraft/)  - 开源且免费，可在浏览器中使用. 易于在浏览器中试用并作为 PWA 离线.
 - [rx](https://rx.cloudhead.io/)  - 开源且免费，适用于 Linux、macOS 和 Windows. 极简主义和键盘驱动，支持动画.
 - [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 编辑器，让像素艺术充满生机，但有点晃动.
-- [PixaPics](https://pixa.pics/)  - 开源且免费，可在浏览器中使用. 它可以将任何东西转换为像素艺术； 然后，绘制并矢量化它！
 
 ### Miscellaneous
 - [Broider](https://maxbittker.github.io/broider/) - 制作 9-patch 边框，导出为 CSS.

@@ -13,7 +13,7 @@
 基于网络的软件架构设计](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding 定义 REST 的论文
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
+* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - 解决安全性、分页、过滤、版本控制、部分答案、CORS 等的完整指南.
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​跨多个团队进行大规模 RESTful 集成的经验教训.
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
@@ -88,7 +88,7 @@
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务 Web 框架，可让您通过 RESTful 资源、套接字和灵活的插件来控制您的数据.
 * [Expressa](https://github.com/thomas4019/expressa) - 使用简单的管理编辑器和权限模型从 JSON 模式创建 API 的快速中间件.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 基于支持关系数据的猫鼬模型生成 RESTful API.
-* [Nestjsx/crud](https://github.com/nestjsx/crud) - 使用 NestJS 和 TypeORM 为 RESTful API 生成 CRUD 控制器和服务.
+* [Nestjsx/crud](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ### PHP
 
@@ -178,6 +178,7 @@
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - 使用基于 Web 的简单 HTTP 客户端发出 HTTP 请求.
 * [TestMace](https://testmace.com) - 用于 API 自动化测试的跨平台简单但功能强大的 IDE.
 * [Milkman](https://github.com/warmuuh/milkman) - 可扩展的跨平台请求/响应工作台，不仅适用于 http 调用.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ### Mocking
 
@@ -186,10 +187,12 @@
 * [FakeRest](https://github.com/marmelab/FakeRest) - 修补 XMLHttpRequest 以伪造 REST API 客户端.
 * [json-server](https://github.com/typicode/json-server) - 使用快速原型从夹具文件提供 REST API.
 * [Mocky.io](http://www.mocky.io/) - 免费在线服务来创建虚假的 HTTP 响应.
+* [MockServer](https://www.mock-server.com/) - 轻松模拟您通过 HTTP 或 HTTPS 集成的任何系统.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - 基于 swagger 模式的 Mock RESTful API
 * [Request Baskets](https://github.com/darklynx/request-baskets) - 收集 HTTP 请求并通过 RESTful API 或 Web UI 检查它们的服务.
 * [DuckRails](https://github.com/iridakos/duckrails) - 快速和动态地模拟 API 端点.
 * [Mockoon](https://mockoon.com)  - 在本地轻松创建模拟 API. 无需远程部署，无需账号，开源.
+* [Mockintosh](https://mockintosh.io/) - 一个模拟服务器生成器，能够生成 RESTful API 并与消息队列通信以模仿异步任务.
 
 ### Public REST APIs To Use In Tests
 * [Deck of Cards API](http://deckofcardsapi.com) - 用于模拟一副纸牌的开放 API.
@@ -233,7 +236,7 @@
 ## Miscellaneous
 
 * [react-admin](https://github.com/marmelab/react-admin) - 将 ReactJS 管理 GUI 添加到任何 RESTful API.
-* [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
+* [ng-admin](https://github.com/marmelab/ng-admin) - 将 AngularJS 管理 GUI 添加到任何 RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - 在给定 OpenAPI 规范（以前称为 Swagger 规范）的情况下自动生成客户端库或服务器存根.
 * [Lumber](https://github.com/ForestAdmin/lumber) - 生成应用程序的管理界面.
 

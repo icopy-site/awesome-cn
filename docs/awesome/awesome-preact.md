@@ -47,21 +47,21 @@
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - “Web 的材料组件”的 Preact 包装器.
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - 一个 (800b gzip) 标题，将在滚动 Preact 时显示/隐藏.
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Preact 的简单轻量级（~590 字节 gzip）进度条组件.
-- [Preact Compat](https://git.io/preact-compat) - 使用任何带有 Preact 的 React 库 *([full example](http://git.io/preact-compat-example))*.
-- [Preact Render To String](https://git.io/preact-render-to-string) - 通用渲染.
-- [Preact Markup](https://git.io/preact-markup) - 将 HTML 和自定义元素渲染为 JSX 和组件.
-- [Preact Portal](https://git.io/preact-portal) - 将 Preact 组件渲染到 (a) SPACE 中.
-- [Preact Richtextarea](https://git.io/preact-richtextarea) - 简单的 HTML 编辑器组件.
+- [Preact Compat](https://github.com/preactjs/preact-compat) - 使用任何带有 Preact 的 React 库 *([full example](https://github.com/developit/preact-compat-example))*.
+- [Preact Render To String](https://github.com/preactjs/preact-render-to-string) - 通用渲染.
+- [Preact Markup](https://github.com/developit/preact-markup) - 将 HTML 和自定义元素渲染为 JSX 和组件.
+- [Preact Portal](https://github.com/developit/preact-portal) - 将 Preact 组件渲染到 (a) SPACE 中.
+- [Preact Richtextarea](https://github.com/developit/preact-richtextarea) - 简单的 HTML 编辑器组件.
 - [Preact Token Input](https://github.com/developit/preact-token-input) - 标记输入的文本字段，例如标签.
 - [Preact Virtual List](https://github.com/developit/preact-virtual-list) - 轻松呈现具有数百万行的列表（[demo](https://jsfiddle.net/developit/qqan9pdo/)).
-- [Preact Cycle](https://git.io/preact-cycle) - Preact 的功能反应范式.
+- [Preact Cycle](https://github.com/developit/preact-cycle) - Preact 的功能反应范式.
 - [Preact Layout](https://download.github.io/preact-layout/) - 小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 采用 [flyd](https://github.com/paldepind/flyd) Preact + JSX 中的 FRP 流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 利用 [flyd](https://github.com/paldepind/flyd) Preact + JSX 中的 FRP 流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) - 整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过 Preact [i18nline](https://github.com/download/i18nline).
-- [Preact MUI](https://git.io/v1aVO) - MUI CSS Preact 库.
-- [Preact MDL](https://git.io/preact-mdl) - 采用 [MDL](https://getmdl.io) 作为 Preact 组件.
-- [Preact Photon](https://git.io/preact-photon) - 构建漂亮的桌面用户界面 [photon](http://photonkit.com).
+- [Preact MUI](https://github.com/luisvinicius167/preact-mui) - MUI CSS Preact 库.
+- [Preact MDL](https://github.com/developit/preact-mdl) - 利用 [MDL](https://getmdl.io) 作为 Preact 组件.
+- [Preact Photon](https://github.com/developit/preact-photon) - 构建漂亮的桌面用户界面 [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - 创建没有 class 关键字的 preact 组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - 用于创建元素的类似 Hyperscript 的语法.
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) - 简化了 `shouldComponentUpdate` 助手.
@@ -94,14 +94,14 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - 提供用于创建 preact 组件的替代 api，深受 elm 的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) - 零学习曲线的 React、Preact 和 Inferno 快速轻松的状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 采用 [urql](https://github.com/FormidableLabs/urql) 使用 Preact 核心 + 钩子.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 利用 [urql](https://github.com/FormidableLabs/urql) 使用 Preact 核心 + 钩子.
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head)  - 操作 ` 的钩子<head> ` DOM 部分. 这有一个带有核心 preact 支持的子包（使用 `preact/hooks`）.
 - [Teaful](https://github.com/teafuljs/teaful) - 小巧 (800B)，简单而强大的 (P)React 状态管理.
 - [Nano Stores](https://github.com/nanostores/nanostores) - 一个小型（199 字节）状态管理器，具有许多原子可摇树存储.
 
 
 ### Testing Utils
-- [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX 断言测试_（没有 DOM，就在 Node 中）_.
+- [Preact JSX Chai](https://github.com/developit/preact-jsx-chai) - JSX 断言测试_（没有 DOM，就在 Node 中）_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - 渲染 Preact 组件并访问生成的虚拟 dom 以进行测试.
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - 在 preact 中模拟 react-test-utils 酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) - 简单而完整的 Preact DOM 测试实用程序，鼓励良好的测试实践.
@@ -131,7 +131,7 @@
 - [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact 提高了速度.
 - [**ESBench**](http://esbench.com) 是使用 Preact 构建的.
 - [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
-- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃子：
+- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
 - [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
 - [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
 - [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：
