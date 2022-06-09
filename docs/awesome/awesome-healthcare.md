@@ -85,6 +85,7 @@
   * [Blaze](https://github.com/samply/blaze) - 具有内部快速 CQL 评估引擎的 FHIR 存储
   * [CareKit](https://github.com/carekit-apple/CareKit/) - 用于创建应用程序的开源软件框架，帮助人们更好地了解和管理他们的健康.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - 适用于 FDA、HIPAA 和 HL7 兼容应用的 Meteor.
+  * [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) - 临床质量语言是临床知识表达的 HL7 标准.
   * [FHIRBase](https://fhirbase.github.io) - 基于 FHIR 标准的存储.
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - 在将 FHIR 数据传入和传出 Azure API 时充当中介的安全应用程序.
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR 适用于 AWS 部署.
@@ -98,6 +99,7 @@
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - 适用于 iOS 和 OS X 的 FHIR 框架上的 Swift SMART.
 
 ### Libraries
+  * [Android FHIR SDK](https://github.com/google/android-fhir) - Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - 用 Ja​​va 编写的 OpenEHR 库.
   * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
   * [Datamol](https://github.com/datamol-org/datamol)  - 分子操作变得容易. 构建在 RDKit 之上的轻量级 Python 包装器.
@@ -105,6 +107,8 @@
   * [dicom](https://github.com/suyashkumar/dicom) - GoLang 中的高性能 DICOM 医学图像解析器.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - 适用于 .NET、.NET Core、通用 Windows、Android、iOS、Mono 和 Unity 的 DICOM.
+  * [FHIRKit Client](https://github.com/Vermonster/fhir-kit-client) - 节点 FHIR 客户端库.
+  * [FHIRModels](https://github.com/apple/FHIRModels) - FHIRModels 是一个用于 FHIR 资源数据模型的 Swift 库.
   * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) - 用于 HL7 FHIR 的官方 .NET API.
   * [fhir.js](https://github.com/FHIR/fhir.js) - FHIR 的 JavaScript 客户端.
   * [FHIR protocol buffers](https://github.com/google/fhir) - 用于 FHIR 的协议缓冲区的 Google 实现.
@@ -138,6 +142,7 @@
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - 一个开源项目，可以将健康数据从传统格式转换为 FHIR.
   * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - 将一种结构的数据转换为另一种结构的引擎
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - 医疗保健一体化的瑞士军刀.
+  * [Open eHealth Integration Platform](https://github.com/oehf/ipf) - Apache Camel 路由和中介引擎的扩展
   * [OpenHIM](http://openhim.org/) - 健康信息调解员.
 
 ### Hardware
@@ -158,7 +163,7 @@
   * [cTAKES](https://ctakes.apache.org/) - 自然语言处理系统，用于从电子病历临床自由文本中提取信息.
   * [DHIS](https://dhiskp.gov.pk/) - 地区卫生管理信息系统和数据仓库.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - 用于管理卫生人力资源的卫生信息系统.
-  * [Inferno](https://github.com/onc-healthit/inferno) - Open source tool that tests whether patients can access their health data through a standard interface.
+  * [Inferno](https://github.com/onc-healthit/inferno) - 测试患者是否可以通过标准接口访问其健康数据的开源工具.
   * [OpenSAFELY](https://www.opensafely.org) - NHS 中电子健康记录的安全分析平台.
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) - 具有修订控制功能和协作创作平台功能的高度可扩展的开源术语服务器. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) - 模拟合成患者病史的合成患者生成器.

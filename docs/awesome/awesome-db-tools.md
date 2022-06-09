@@ -161,10 +161,11 @@
 
 
 ## Application platforms
-Low-code and no-code platforms for application building
+用于应用程序构建的低代码和无代码平台
 - [Appsmith](https://github.com/appsmithorg/appsmith) - 强大的开源低代码框架，非常快速地构建内部应用程序.
 - [Budibase](https://github.com/Budibase/budibase) - 用于在几分钟内创建内部应用程序的低代码平台.
 - [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码构建器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
+- [Tooljet](https://github.com/ToolJet/ToolJet) - 用于构建内部工具的开源低代码平台.
 
 
 ## Backup
@@ -289,7 +290,7 @@ Low-code and no-code platforms for application building
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - 用于描述、识别和报告 TSQL 脚本中存在的反模式的工具.
 
 ### Extensions
-- [PartiQL](https://partiql.org) - 对关系、半结构化和嵌套数据的 SQL 兼容访问.
+- [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
 
 ### Frameworks
 - [Apache Calcite](https://calcite.apache.org) - 具有高级 SQL 功能的动态数据管理框架.

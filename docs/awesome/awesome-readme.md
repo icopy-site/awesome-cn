@@ -12,9 +12,9 @@
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - 项目标志、清晰的描述、屏幕截图、分步安装说明.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图. 目录便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 徽章、项目 GIF、简明描述、快速链接、逐步安装说明.
-- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
+- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 对它是什么的极简描述. 项目的 GIF 演示. 主要特点. 如何安装指南. 学分.
+- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 对它是什么的极简描述. 项目的 GIF 演示. 主要特征. 如何安装指南. 学分.
 - [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标志. 简要说明. 解释了所有功能. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 清晰的项目概述并附有示意图.  GIF 演示. 广泛的代码示例.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 项目描述和用例说明图. 使用多种工具和集成说明进行构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题. 目录便于导航.
@@ -50,10 +50,9 @@
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 多个徽章、项目标志、屏幕截图、逐步安装和升级说明、目录，便于导航.
 - [PostHog/posthog](https://github.com/PostHog/posthog#readme) - 自定义部分图标、演示 GIF、部署按钮、贡献者的个人资料图片、简洁、清晰的结构、项目徽标.
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  - 目录便于导航. 清楚地介绍项目的作用. 存储库中所有文件的完整列表及其功能. 使用部分. 干净简洁的桌子.
-- [rayhanadev/rayhanadev](https://github.com/rayhanadev/rayhanadev#readme)  - 动态统计. 黑白主题. 抛光布局. 包含贡献和当前项目的快速、可浏览的表格. 将技术徽章链接到主页. 图像中的秘密隐写术.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - 项目标志、漫画展示主要思想、徽章、带有代码片段的示例、演示项目、api 文档、编辑器配置.
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
-- [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目标志、现场演示链接、关键功能的 GIF 动画、TL；DR 用法.
+- [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目标志、现场演示链接、关键功能的 GIF 动画、TL;DR 用法.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  - 带有演示 GIF 的项目功能的清晰概述. 徽章. 可扩展目录. 使用说明和示例. 贡献指南. 详细发布.
 - [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  - GIF 演示. 带有屏幕截图的简单安装和设置部分. 建立徽章. 用例的好例子.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  - 清洁项目标志. 顶部简要说明. 桑基图、快速链接、徽章、操作系统特定图标、目录、详细的发布变更日志.
@@ -112,7 +111,7 @@
 
 ## Get Feedback
 
-- [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+- [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme)  - 免费 README 编辑+反馈，让您的开源项目成长. 请参阅 README 成熟度模型以帮助您继续前进.
 - [maintainer.io](https://maintainer.io/) - 免费 README 标准化和反馈，如果您点击“预约审核”.
  - 这个存储库. 使用您的 README 提交 PR！
 

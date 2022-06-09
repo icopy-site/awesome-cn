@@ -22,7 +22,7 @@
 - [Chatroom](https://discord.gg/VQck8X4) - 它非常活跃，是提问的好地方.
 - [Reddit](https://www.reddit.com/r/yew_web/) - 专用子 Reddit.
 - [Financial Contribute](https://opencollective.com/yew) - 成为财务贡献者并帮助我们维持我们的社区.
-- [Yewtify](https://github.com/yewstack/yewtify) - 用于 Yew 框架的 Vuetify 组件.
+- [Yewtify](https://github.com/yewstack/yewtify) - Yew 框架的 Vuetify 组件.
 
 ## Projects
 
@@ -38,7 +38,7 @@
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
-- [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序（Yew）构建到本机应用程序的示例.
+- [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) --Tachiyomi 式网络漫画阅读器.tanoshi 的前端.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
@@ -74,7 +74,7 @@
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 示例演示了Yew服务器端的潮汐和冲浪渲染，它需要Yew的**开发版本**.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款真实的派对游戏，玩家可以在其中尽可能快地猜测图像的内容. 
-- [Crabtyper](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+- [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 一个用 Rust 编写的快速打字网络应用程序.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - 这是 wecome KM ITB 的 monorepo， [Live Demo](https://wecome-itb.com/).
 - [blog-rs](https://github.com/songday/blog-rs)  - 一个前端和后端都用 Rust 编写的博客系统. 后端由 Warp 提供支持，前端基于 Yew (WASM).
 
@@ -95,7 +95,7 @@
 ### Component Libraries
 
 - [yew-mdc](https://github.com/dungeonfog/yew-mdc) - Yew 框架的材料设计组件.
-- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - 用于 Yew 框架的 MUI-CSS 组件.
+- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
 - [material-yew](https://github.com/hamza1311/material-yew) - 材料 Web 组件的 Yew 包装器.
 - [Yewprint](https://github.com/cecton/yewprint) - blueprintjs.com 到 Yew 的端口.
@@ -113,6 +113,7 @@
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - 当父组件改变宽度/高度时发出事件的 Yew 组件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - 用于虚拟滚动/滚动窗口的 Yew 组件.
 - [yew-oauth2](https://github.com/ctron/yew-oauth2/) - 一个普通的 Yew OAuth2/OpenIDConnect 组件，不依赖于任何 CSS 框架.
+- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - 红豆杉的自定义滚动区域.
 
 ### Hooks
 
@@ -129,7 +130,7 @@
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 适用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
-- [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的范围 CSS.
+- [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 
 ### Wasm

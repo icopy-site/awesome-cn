@@ -57,7 +57,7 @@
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [openHAB](https://marketplace.visualstudio.com/items?itemName=openhab.openhab)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
-- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal)， 要么 [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) （仅适用于 Windows）
+- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal)， 或者 [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) （仅适用于 Windows）
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
@@ -113,7 +113,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - VSC 中丰富的 1С:Enterprise 8 (BSL) 语言支持 - 为 VSC 中的 *.bsl и *.os 文件添加语法高亮，为 1С lang 添加 IntelliSense 和语法助手
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - VSC 中丰富的 1С:Enterprise 8 (BSL) 语言支持 - 为 VSC 中的 *.bsl 和 *.os 文件添加语法高亮，为 1С lang 添加 IntelliSense 和语法助手
 
 ## AutoHotkey
 
@@ -173,7 +173,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ![CSS Peek](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)
 
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - 皮棉 CSS/SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   解析 CSS、SCSS、LESS 并自动添加供应商前缀.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
@@ -382,7 +382,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
+ &gt; 允许您完全在编辑器中管理 GitHub Gists. 您可以打开、创建、删除、fork、星标和克隆 gist，然后无缝地开始编辑文件，就好像它们是本地文件一样. 它就像您自己的开发人员库，用于构建和引用代码片段、常用配置/脚本、与编程相关的注释/文档和交互式示例.
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -396,7 +396,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
 
-&gt; 此扩展使用 GitHub api 来监控您的拉取请求的状态，并让您知道何时合并或是否有人请求更改.
+&gt; 此扩展使用 GitHub api 来监控您的拉取请求的状态，并让您知道何时需要合并或是否有人请求更改.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
@@ -404,7 +404,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
- &gt; 显示 Azure 资源管理器 (ARM) 模板的图形预览. 该视图将显示带有官方 Azure 图标的所有资源以及资源之间的链接.
+> Displays a graphical preview of Azure Resource Manager (ARM) templates. The view will show all resources with the official Azure icons and also linkage between the resources.
 
 ![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://raw.githubusercontent.com/benc-uk/armview-vscode/master/assets/readme/screen1.png)
 
@@ -416,7 +416,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
 
-&gt; Azure IoT 开发所需的一切：与 Azure IoT Hub 交互，管理连接到 Azure IoT Hub 的设备，并使用 Azure IoT Hub 的代码片段进行开发
+&gt; Azure IoT 开发所需的一切：与 Azure IoT Hub 交互、管理连接到 Azure IoT Hub 的设备以及使用 Azure IoT Hub 的代码片段进行开发
 
 ![Code snippets for Azure IoT Hub screenshot](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/device-explorer.png)
 
@@ -435,6 +435,12 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 &gt; 快速生成测试文件的扩展.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
+
+## [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron)
+
+ &gt; 一个可以将 Visual Studio Code 变成 PKM 工具的扩展，具有出色的 UX，使用 Markdown 文件来组织和引用任何数量的知识. 无论您是使用 PARA 或 Zettelkasten 组织笔记，还是像 Roam 一样将笔记链接在一起，或者只是以临时方式创建笔记，Dendron 都可以提供帮助. 把它想象成第二个大脑，帮助你理解你关心的所有信息. 奖励：如果还使用 `dendron-cli`，Dendron 还可以通过 NextJS 发布静态站点.
+
+![dendron.dendron](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/graph-intro.gif)
 
 ## [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
 
@@ -647,7 +653,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
 
-&gt; 允许用户直接在 Visual Studio Code 中从远程服务器编辑文件.
+&gt; 允许用户直接在 Visual Studio Code 中编辑来自远程服务器的文件.
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
@@ -657,7 +663,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
- &gt; 用于文本操作的多合一扩展：过滤 (grep)、删除行、插入数字序列和 GUID、将内容格式化为表格、更改大小写、转换数字等等. 非常适合在日志中查找信息和处理文本.
+ &gt; 文本操作的多合一扩展：过滤 (grep)、删除行、插入数字序列和 GUID、将内容格式化为表格、更改大小写、转换数字等等. 非常适合在日志中查找信息和处理文本.
 
 ![Text Power Tools](https://raw.githubusercontent.com/qcz/vscode-text-power-tools/89a1d9d7be3edfc9bcf112fe427c662655cb60cc/images/filtering.gif)
 
@@ -855,7 +861,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-&gt; 一个简单的扩展，使缩进更易读.
+> A simple extension to make indentation more readable.
 
 ![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
@@ -906,7 +912,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
 ## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
- &gt; 提供与 Spotify 桌面客户端的集成. 在状态栏中显示当前播放的歌曲，搜索歌词并提供用于通过按钮和热键控制 Spotify 的命令.
+ &gt; 提供与 Spotify 桌面客户端的集成. 在状态栏中显示当前正在播放的歌曲、搜索歌词并提供通过按钮和热键控制 Spotify 的命令.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
 
@@ -942,7 +948,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [JFrog](https://marketplace.visualstudio.com/items?itemName=JFrog.jfrog-vscode-extension)
 
-> Adds JFrog Xray scanning of project dependencies to your VS Code IDE. It allows developers to view panels displaying vulnerability information about the components and their dependencies directly in their VS Code IDE. The extension also allows developers to track the status of the code while it is being built, tested and scanned on the CI server.
+ &gt; 将项目依赖项的 JFrog Xray 扫描添加到您的 VS Code IDE. 它允许开发人员直接在他们的 VS Code IDE 中查看显示有关组件及其依赖项的漏洞信息的面板. 该扩展还允许开发人员在 CI 服务器上构建、测试和扫描代码时跟踪代码的状态.
 
 ![JFrog](https://raw.githubusercontent.com/jfrog/jfrog-vscode-extension/master/resources/readme/gifs/show_in_dependency_tree.gif)
 
