@@ -36,7 +36,7 @@
 ## Meaning of Symbols:
 
  - :copyright: 代表专有软件. 所有其他工具都是开源的.
- - :information_source: 表示社区不再建议将此工具用于新项目. 图标链接到讨论问题.
+ - :information_source: 表示社区不再建议在新项目中使用此工具. 图标链接到讨论问题.
 - :warning: 表示此工具超过 1 年未更新，或者 repo 已存档.
 
 非常欢迎请求请求！  
@@ -329,7 +329,7 @@
 <h2 id="haskell">哈斯克尔</h2>
 
 - [brittany](https://github.com/lspitzner/brittany) — Haskell 源代码格式化程序
-- [HLint](https://github.com/ndmitchell/hlint) — HLint 是一个建议对 Haskell 代码进行改进的工具.
+- [HLint](https://github.com/ndmitchell/hlint) — HLint is a tool for suggesting possible improvements to Haskell code.
 - [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog/) — Liquid Haskell 是 Haskell 程序的细化类型检查器.
 - [Stan](https://kowainik.github.io/projects/stan) — Stan 是一个命令行工具，用于分析 Haskell 项目并以有用的方式输出发现的漏洞，并为检测到的问题提供可能的解决方案.
 - [Weeder](https://github.com/ocharles/weeder) — 在 Haskell 代码中检测死导出或包导入的工具.
@@ -578,7 +578,7 @@
 
 - [C2Rust](https://c2rust.com)  — C2Rust 帮助您将符合 C99 的代码迁移到 Rust. 翻译器（或转译器）生成不安全的 Rust 代码，这些代码与输入的 C 代码非常相似.
 - [cargo udeps](https://github.com/est31/cargo-udeps)  — 在 Cargo.toml 中查找未使用的依赖项. 它要么打印出一个列出箱子的“未使用的箱子”行，要么打印出一行说明没有未使用的箱子.
-- [cargo-audit](https://rustsec.org) — 审核 Cargo.lock 中存在安全漏洞的 crate 报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
+- [cargo-audit](https://rustsec.org) — 审核 Cargo.lock 以查找具有安全漏洞的 crate 报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  — 找出在您的可执行文件中占用大部分空间的内容. 支持 ELF (Linux, BSD)、Mach-O (macOS) 和 PE (Windows) 二进制文件.
 - [cargo-deny](https://embarkstudios.github.io/cargo-deny)  — 一个用于检查依赖项的货物插件. 它也可以用作命令行、Rust crate 或 CI 的 Github 操作. 它会检查有效的许可证信息、重复的 crate、安全漏洞等.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) — Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
@@ -718,9 +718,9 @@
 - [ESLint](https://github.com/eslint/eslint) — 一个 JS 的可扩展 linter，遵循 ECMAScript 标准.
 - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于对 Java Web 应用程序和 Android 应用程序进行安全审计的 SpotBugs 插件.  （也可以使用 Kotlin、Groovy 和 Scala 项目）
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
-- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
 - [goone](https://github.com/masibw/goone) :warning: — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
-- [graudit](http://www.justanotherhacker.com) — Grep 粗略审计——源代码审计工具.
+- [graudit](http://www.justanotherhacker.com) — Grep rough audit - source code auditing tool.
 - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — 商业静态代码分析.
 - [Hopper](https://github.com/cuplv/hopper) :warning: — 一个用 scala 编写的静态分析工具，用于在 JVM 上运行的语言.
 - [Hound CI](https://houndci.com)  — 对 GitHub 拉取请求中的样式违规的评论. 支持 Coffeescript、Go、HAML、JavaScript、Ruby、SCSS 和 Swift.
@@ -731,7 +731,7 @@
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: — Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM](https://lgtm.com/)  :copyright: — 使用对源代码的查询来查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费用于开源. 以前的semme.
 - [LGTM.com](https://lgtm.com)  :copyright: — 对 GitHub 和 Bitbucket 进行深度代码分析，以发现安全漏洞和关键代码质量问题（使用 Semmle QL）. 拉取请求的自动代码审查； 公共存储库免费.
-- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一个可扩展的圈复杂度分析器，适用于许多编程语言，包括 C/C++（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
+- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一种可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter 可以处理任何类型的项目，这要归功于其 70 多个嵌入式 Linter，
  它的高级报告，可在任何 CI 系统或本地运行，
  通过辅助安装和配置，能够应用格式化和修复
@@ -769,7 +769,7 @@
 - [SonarCloud](https://sonarcloud.io)  :copyright: — 基于云的多语言静态代码分析. 历史、趋势、安全热点、拉取请求分析等. 开源免费.
 - [SonarLint for Visual Studio](https://vs.sonarlint.org) — SonarLint 是 Visual Studio 2015 和 2017 的扩展，可为开发人员提供有关注入 .NET 代码的新错误和质量问题的即时反馈.
 - [SonarQube](http://www.sonarqube.org) — SonarQube 是一个管理代码质量的开放平台.
-- [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新的软件包以最大程度地减少重大更改
+- [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新的包以最大程度地减少重大更改
 - [Soto Platform](https://www.hello2morrow.com/products/sotograph)  :copyright: — 静态分析工具套件，由 Sotoarc（架构分析）、Sotograph（质量分析）和 Sotoreport（质量报告）三个组件组成. 帮助发现架构和实现之间的差异、接口违规（例如子系统私有部分的外部访问、检测所有类、文件、包和通过循环关系强耦合的子系统等等.Sotograph 产品系列在 Windows 和 Linux 上运行. 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: — Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [sqlvet](https://github.com/houqp/sqlvet)  — 对 Go 代码库中的原始 SQL 查询执行静态分析，以发现潜在的运行时错误. 它检查 SQL 语法错误，识别可能导致 SQL 注入的不安全查询，确保列计数与 INSERT 语句中的值计数匹配，并验证表名和列名.
@@ -943,7 +943,7 @@
 - [ERB Lint](https://github.com/Shopify/erb-lint) — 整理您的 ERB 或 HTML 文件
 
 
-<h2 id="gherkin">Gherkin</h2>
+<h2 id="gherkin">小黄瓜</h2>
 
 - [gherkin-lint](https://github.com/vsiakka/gherkin-lint) — 用 Ja​​vascript 编写的 Gherkin-Syntax 的 linter.
 
@@ -1018,7 +1018,7 @@
 
 <h2 id="mobile">Mobile</h2>
 
-- [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.
+- [Android Lint](http://tools.android.com/tips/lint) — 对 Android 项目运行静态分析.
 - [android-lint-summary](https://passy.github.io/android-lint-summary) :warning: — 将多个项目的 lint 错误合并为一个输出，一次检查多个子项目的 lint 结果.
 - [FlowDroid](https://github.com/secure-software-engineering/FlowDroid) — 用于 Android 应用程序的静态污点分析工具.
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  — iblessing 是一个 iOS 安全漏洞利用工具包. 它可用于逆向工程、二进制分析和漏洞挖掘.
@@ -1120,7 +1120,7 @@
 
 <h2 id="translation">翻译</h2>
 
-- [dennis](https://github.com/willkg/dennis) :warning: — 一组用于处理 PO 文件以简化开发和提高质量的实用程序.
+- [dennis](https://github.com/willkg/dennis) — 一组用于处理 PO 文件的实用程序，以简化开发并提高质量.
 
 
 <h2 id="vue">Vue.js</h2>
@@ -1172,7 +1172,7 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matthias Endler](https://endler.dev) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Matthias Endler](https://endler.dev) 已放弃本作品的所有版权和相关或邻近权利.
 用于格式化和显示该内容的底层源代码在 MIT 许可下获得许可.
 
 

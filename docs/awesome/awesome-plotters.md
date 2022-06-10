@@ -28,6 +28,7 @@
 - [TinyG](https://github.com/synthetos/TinyG)  - 功能更强大、更强大的 6 轴基于 G 代码的运动控制硬件.  ([adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 用于 Arduino 的 Grbl 兼容步进电机控制屏蔽，类似于 grblShield.
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  - 带有步进控制器和运行 grbl 的微控制器的 Raspberry Pi 附加板. 与 Pi 的串行引脚接口.
+- [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - 基于 USB 的双步进电机控制器板，最初是为 EggBot 设计的.
 
 ### Accessories
 
@@ -37,6 +38,7 @@
 ### Pens
 
 - [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d 打印适配器，可将标准 Sharpie 安装在 HP-GL 绘图仪中.
+- [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - 可调节模型打印各种笔的适配器.
 - [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - 短和长标准绘图笔的准确 STL 模型.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - 适用于一般绘图仪滥用的笔列表.
 - [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - 以鸡蛋和玻璃为重点的钢笔建议，但仍然是普遍适用的信息.

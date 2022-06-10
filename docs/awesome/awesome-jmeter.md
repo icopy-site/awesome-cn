@@ -137,7 +137,7 @@
   - Kubernetes
     - [jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - JMeter 集群支持 Kubernetes 和 OpenShift.
     - [jmeter-k8s-starterkit](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s 入门套件，具有实时测试报告、JMeter 监控、k8s 监控和模拟即服务.
-    - [kangal](https://github.com/hellofresh/kangal) - Kubernetes 和 Go Automatic Loader 解决方案，用于使用多个负载生成器在 Kubernetes 集群中运行性能测试.
+    - [kangal](https://github.com/hellofresh/kangal) - Kubernetes 和 Go Automatic Loader 解决方案，使用多个负载生成器在 Kubernetes 集群中运行性能测试.
     - [aks_testing_fwk](https://github.com/petegrimsdale/aks_testing_fwk) - 基于 AKS 的可扩展 JMeter 测试框架，带有 Grafana 报告.
   - 亚马逊网络服务
     - [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) - 在 Amazon EC2 上自动运行 Apache JMeter.
@@ -165,6 +165,7 @@
 ## Results Processing
 
 - [JMeter Report Dashboard](https://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter 支持仪表板报告生成，以从测试计划中获取图表和统计数据.
+- [Latency Lingo](https://latencylingo.com) - 发布测试结果以生成包含洞察力的托管交互式仪表板.
 
 ### Results Analysis
 
@@ -199,7 +200,7 @@
 - 麋鹿栈
   - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - 使用 Elasticsearch、Logstash 和 Kibana 可视化 JMeter 测试结果.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - 使用 ElasticSearch 后端监听器和 Grafana/Kibana 实时监控结果.
-  - [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) - 使用 Docker 和 Logstash 实时或在测试结束后解析 JTL 结果，并将数据发送到 Elasticsearch 或 InfluxDb，以获得漂亮的仪表板并比较不同的测试.
+  - [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) - Parse JTL result with Docker and Logstash in real time or after test end, and send data to Elasticsearch or InfluxDb, to have a nice dashboard and compare different tests.
 - 普罗米修斯
   - [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) - Apache JMeter 的 Prometheus 侦听器，在 HTTP API 中公开结果.
   - [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) - 用于 Prometheus 指标导出的 Apache JMeter 后端侦听器实现.
@@ -342,7 +343,7 @@
 
 ## Videos
 
-- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
+- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - 逐步自动化.
 - [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - 由 QAInsights 提供.
 - [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - 由 xavki :fr:.
 

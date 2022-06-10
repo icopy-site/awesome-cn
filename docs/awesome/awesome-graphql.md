@@ -566,6 +566,7 @@
 - [AST Explorer](https://astexplorer.net/) - 选择顶部的“GraphQL”，探索 GraphQL AST 并通过单击查询突出显示不同的部分.
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - 最快的协作 GraphQL 游乐场.
 - [CraftQL](https://github.com/yamafaktory/craftql) - 一个 CLI 工具，用于可视化 GraphQL 模式并将图形数据结构输出为 graphviz .dot 格式.
+- [gqt](https://github.com/eerimoq/gqt) - 在终端中构建和执行 GraphQL 查询.
 
 <a name="tool-security" />
 
