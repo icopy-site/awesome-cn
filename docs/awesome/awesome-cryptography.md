@@ -72,7 +72,7 @@
 
 - [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) - 本文试图以一种学生可以用来学习密码分析技术和破解算法的方式来组织现有的分组密码密码分析文献，作者 Bruce Schneier.
 - [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  - 密码学存在于日常生活中，从使用信用卡支付到使用电话. 了解有关在计算中制作和破解难题的所有信息.
-- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - 本次演讲将涵盖广泛部署的系统中的加密漏洞，以及最小的疏忽如何导致灾难.
+- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - 本演讲将涵盖广泛部署的系统中的加密漏洞，以及最小的疏忽如何导致灾难.
 - [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  - 本课程解释密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性以及如何将这些知识应用于实际应用.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论了当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
@@ -160,7 +160,7 @@
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - 加密 API.
 - [clj-crypto](https://github.com/macourtney/clj-crypto/) - 充气城堡的包装.
 - [pandect](https://github.com/xsc/pandect) - Clojure 的快速且易于使用的消息摘要、校验和和 HMAC 库.
-- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
+- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（例如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
 
 ### Common Lisp
 
@@ -226,7 +226,7 @@
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 Node.js 提供标准和安全的加密算法.
 - [forge](https://github.com/digitalbazaar/forge) - JavaScript 中 TLS 的本机实现以及用于编写基于加密和网络密集型 Web 应用程序的工具.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松为 Node.js 应用程序添加强大的数据控制.
-- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，一种代理重新加密的变体，用于在浏览器中轻松安全地管理端到端加密.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于在浏览器中轻松安全地管理端到端加密.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library 为 Web 开发人员提供了一套广泛而高效的加密功能.
 - [js-nacl](https://github.com/tonyg/js-nacl) - 用于 Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
@@ -336,9 +336,10 @@ algorithm.
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - 是 BLAKE3 加密哈希函数的官方 Rust 和 C 实现.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
-- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码库，它难以误用、符合人体工程学且性能卓越.
+- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码学库，难以误用、符合人体工程学且性能卓越.
 - [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互身份验证的 Rust 库.
 - [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
+- [orion](https://github.com/orion-rs/orion)  - 是一个用纯 Rust 编写的密码库. 它旨在提供简单易用的加密货币，同时尽量减少不安全代码的使用.
 - [proteus](https://github.com/wireapp/proteus) - Rust 中的 Axolotl 协议实现，没有标头键.
 - [rage](https://github.com/str4d/rage) - 是一个简单、现代、安全的文件加密工具，使用年龄格式. 
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - 一个纯 Rust 库，它实现了用于构建多跳代理重加密方案的加密原语，称为转换加密.
@@ -394,7 +395,7 @@ algorithm.
 
 ### Web-sites
 
-- [Applied Crypto Hardening](https://bettercrypto.org/) - 大量准备好使用最佳实践示例来保护 Web 服务器等.
+- [Applied Crypto Hardening](https://bettercrypto.org/) - 准备好使用最佳实践示例来保护 Web 服务器等.
 - [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - Reddit 上讨论的最活跃加密货币的仪表板.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange 是一个面向软件开发人员、数学家和其他对密码学感兴趣的人的问答网站.
 - [Cryptohack](https://cryptohack.org/) - 一个具有许多交互式密码学挑战的平台，类似于 Cryptopals.

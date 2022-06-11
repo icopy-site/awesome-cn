@@ -55,7 +55,7 @@
 ![MapBox favicon](http://www.google.com/s2/favicons?domain=mapbox.com) [**MapBox**](http://mapbox.com/) | [Open Source - MapBox](http://mapbox.com/about/open)  |  :octocat:[Misc](https://github.com/mapbox) |  |
 ![Neocities favicon](http://www.google.com/s2/favicons?domain=neocities.org) [**Neocities**](https://neocities.org/) | [(archive) Neocities - stats](http://wayback.archive.org/web/20150907143713id_/https://neocities.org/stats)  |  :octocat:[Neocities.org](https://github.com/neocities/neocities) |*[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)*|
 ![New Vector favicon](https://www.google.com/s2/favicons?domain=vector.im) [**New Vector**](https://vector.im/) | [Work in the open](https://vector.im/)  |  :octocat:[Misc](https://github.com/vector-im/) |  |
-![Niteo favicon](https://www.google.com/s2/favicons?domain=niteo.co) [**Niteo**](https://niteo.co/) | [Niteo Handbook](https://github.com/niteoweb/handbook) |  |  |
+![Niteo favicon](https://www.google.com/s2/favicons?domain=niteo.co) [**Niteo**](https://niteo.co/) | [Niteo Handbook](https://github.com/niteoweb/handbook)  |  :octocat:[Pareto Security](https://github.com/paretoSecurity/) |  |
 ![OpenCraft favicon](http://www.google.com/s2/favicons?domain=opencraft.com) [**OpenCraft**](http://opencraft.com/) | [OpenCraft — Open edX Development &amp; Hosting Services](http://opencraft.com/)  | 不适用 |  |
 ![ProtonMail favicon](https://www.google.com/s2/favicons?domain=protonmail.ch) [**ProtonMail**](https://protonmail.ch) | [ProtonMail is Open Source!](https://protonmail.com/blog/protonmail-open-source/) | [Web Client](https://github.com/ProtonMail/WebClient); [OpenPGPjs](https://github.com/openpgpjs/openpgpjs) | [ProtonMail Open Source Cryptography](https://protonmail.com/blog/protonmail-open-source-crytography/) | |
 ![Read the Docs favicon](http://www.google.com/s2/favicons?domain=readthedocs.org) [**Read the Docs**](https://readthedocs.org/) | [Read the Docs Open Source Philosophy](https://docs.readthedocs.io/en/latest/open-source-philosophy.html)  |  :octocat:[readthedocs.org](https://github.com/rtfd/readthedocs.org) |  | [Funding](http://blog.readthedocs.com/read-the-docs-2017-stats/#funding) |
@@ -91,7 +91,7 @@
 - [The Open Company Initiative directory](http://www.opencompany.org/directory/) (OCI):
   一组明确采纳OCI开放承诺的公司
   - *（休眠）*
-- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/)： 一种 [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) 寻找前 100 家开放式创新公司
+- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/)： 一个 [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) 寻找前 100 家开放式创新公司
   - *（已失效——这些链接来自网络档案）*
 - VAR Guy [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
   - *（未维护）*

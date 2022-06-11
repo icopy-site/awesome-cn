@@ -37,6 +37,7 @@
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA 专注于原始性能、服务器端渲染、预渲染、redux、express、rollup.
 - [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - 全功能 Preact Chrome 扩展入门套件.
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ 带有 Preact 的 WebExtension Vite 入门模板.
+- [Preact Neutralino TypeScript Starter](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - 用于使用 Preact 和neutino.js 构建轻量级桌面应用程序的入门项目.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - Preact 的 URL 路由器.
@@ -56,7 +57,7 @@
 - [Preact Virtual List](https://github.com/developit/preact-virtual-list) - 轻松呈现具有数百万行的列表（[demo](https://jsfiddle.net/developit/qqan9pdo/)).
 - [Preact Cycle](https://github.com/developit/preact-cycle) - Preact 的功能反应范式.
 - [Preact Layout](https://download.github.io/preact-layout/) - 小而简单的布局库.
-- [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
+- [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact 插件 [Socrates](http://github.com/matthewmueller/socrates).
 - [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 利用 [flyd](https://github.com/paldepind/flyd) Preact + JSX 中的 FRP 流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) - 整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过 Preact [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://github.com/luisvinicius167/preact-mui) - MUI CSS Preact 库.
@@ -76,7 +77,7 @@
 - [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - 基于为 Preact 制作的 bootstrap 3 的国家选择器.
 - [Preact Fluid](https://github.com/ajainvivek/preact-fluid) - Preact 的最小 UI 工具包.
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Preact 的羽毛图标.
-- [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - 属性更改时添加 CSS3 动画.
+- [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) - preact-router 的异步路由组件.
 - [MU Forms](https://github.com/mobiushorizons/mu-forms) - (P)React 的死简单表单库.
 - [Pimg](https://github.com/ooade/pimg)  - 渐进式图像组件； 用于延迟加载图像.

@@ -22,7 +22,7 @@
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快就在计算机科学课程中教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可行的计划._ |
-| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是成熟的统计学学科与非常年轻的学科——计算机科学相结合的故事.  “数据科学”一词最近才出现，专门指定一个新的职业，该职业有望理解大量的大数据存储. 但理解数据的历史由来已久，科学家、统计学家、图书馆员、计算机科学家和其他人多年来一直在讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、尝试定义它以及相关术语._ |
+| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是成熟的统计学学科与非常年轻的学科——计算机科学相结合的故事.  “数据科学”一词最近才出现，专门指定一个新的职业，该职业有望理解大量的大数据存储. 但理解数据的历史由来已久，科学家、统计学家、图书馆员、计算机科学家和其他人多年来一直在讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、定义它的尝试以及相关术语._ |
 
 
 ## Learn Data Science
@@ -200,7 +200,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，带有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的多合一 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如，Tensorflow、PyTorch）和开发工具（例如，Jupyter、VS Code）|
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的多合一基于 Web 的 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如，Tensorflow、PyTorch）和开发工具（例如，Jupyter、VS Code）|
 | [Neptune.ai](https://neptune.ai) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
 | [steppy](https://github.com/minerva-ml/steppy)  | 用于快速和可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
 | [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
@@ -211,7 +211,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
 | [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形用户界面 |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 机器学习 |
-| [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型、多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
+| [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
 | [SciPy](https://scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供了高效的例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
@@ -236,7 +236,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
 | [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 与 Jupyter 交互环境相结合的 Julia 语言后端 |
@@ -465,7 +465,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 - [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
-- [Become a Leader in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - 抢先体验
+- [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - 抢先体验
 - [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -519,6 +519,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - 抢先体验
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - 抢先体验
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
+- [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Dive into Deep Learning](https://d2l.ai/)
 
 
@@ -665,7 +666,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 工作@_GrubHub_ 关于数据和熊猫 |
 | [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD &amp; SIGKDD 联合创始人，曾是 2 家初创公司的首席科学家，兼职哲学家.  |
-| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计兼职教授.  |
+| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计副教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家 |
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel 常驻数据科学家.  |
 | [Jeff Hammerbacher](https://twitter.com/hackingdata)   | 转发关于数据科学的推文 |

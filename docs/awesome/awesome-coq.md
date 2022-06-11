@@ -18,6 +18,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Frameworks
 
+- [ConCert](https://github.com/AU-COBRA/ConCert) - 智能合约测试和验证框架，具有多种智能合约语言的代码提取管道.
 - [CoqEAL](https://github.com/CoqEAL/CoqEAL) - 简化证明中数据表示的更改的框架.
 - [FCF](https://github.com/adampetcher/fcf) - 密码学证明框架.
 - [Fiat](https://github.com/mit-plv/fiat) - 大部分是按构造正确的程序的自动合成.
@@ -50,7 +51,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [CoqInterval](https://gitlab.inria.fr/coqinterval/interval/) - 对实数表达式进行不等式证明的策略.
 - [Coq record update](https://github.com/tchajed/coq-record-update) - 提供更新 Coq 记录字段的通用方法的库.
 - [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Coq 的扩展替代标准库.
-- [ExtLib](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
+- [ExtLib](https://github.com/coq-community/coq-ext-lib) - 收集可能对其他 Coq 开发有用的理论和插件.
 - [FCSL-PCM](https://github.com/imdea-software/fcsl-pcm) - 用于验证指针操作程序的部分可交换幺半群的形式化.
 - [Flocq](https://gitlab.inria.fr/flocq/flocq) - 浮点数和计算的形式化.
 - [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) - 无法确定的问题和它们之间的减少库.
@@ -67,7 +68,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Package and Build Management
 
-- [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - 与 Coq 一起分发并基于生成 makefile 的构建工具.
+- [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - Build tool distributed with Coq and based on generating a makefile.
 - [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix 帮助脚本，用于自动化 Coq 的本地构建和持续集成.
 - [Coq Package Index](https://coq.inria.fr/opam/www/) - 基于 opam 的 Coq 包集合.
 - [Coq Platform](https://github.com/coq/platform) - 精选的软件包集合以支持 Coq 在工业、教育和研究中的使用.
@@ -95,6 +96,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Paramcoq](https://github.com/coq-community/paramcoq) - 生成 Coq 术语的参数化翻译的插件.
 - [QuickChick](https://github.com/QuickChick/QuickChick) - 用于基于随机属性的测试的插件.
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - 检查来自外部 SAT 和 SMT 求解器的证明证人的工具.
+- [Tactician](https://coq-tactician.github.io) - 交互式工具，它从所有已安装的 Coq 包中的先前编写的策略脚本中学习，并建议下一个要执行的策略或尝试完全自动化证明合成.
 - [Unicoq](https://github.com/unicoq/unicoq) - 用增强的统一算法替换现有统一算法的插件.
 
 ### Tools
@@ -111,14 +113,14 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
   - [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - 自动最小化产生错误的源文件，为 Coq 错误创建小测试用例.
   - [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - 处理源文件以使依赖项的加载对文件名的阴影具有鲁棒性.
   - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载，从开发中创建独立的源文件.
-  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
+  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - Removes loading of unused dependencies.
   - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
   - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提升许多白话命令和内部引理.
   - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释以加快并行证明.
 - [Cosette](https://github.com/uwdb/Cosette) - 用于推理 SQL 查询等价的自动求解器.
 - [hs-to-coq](https://github.com/plclub/hs-to-coq) - 从 Haskell 代码转换为等效的 Coq 代码.
 - [lngen](https://github.com/plclub/lngen) - 用于生成本地无名 Coq 定义和证明的工具.
-- [Menhir](http://gallium.inria.fr/~fpottier/menhir/) - Parser generator that can output Coq code for verified parsers.
+- [Menhir](http://gallium.inria.fr/~fpottier/menhir/) - 可以为经过验证的解析器输出 Coq 代码的解析器生成器.
 - [mCoq](https://github.com/EngineeringSoftware/mcoq) - Coq 项目的突变分析工具.
 - [Ott](https://github.com/ott-lang/ott) - 用于编写可翻译为 Coq 的编程语言和微积分定义的工具.
 - [Roosterize](https://github.com/EngineeringSoftware/roosterize) - 在 Coq 项目中建议引理名称的工具.
@@ -200,7 +202,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 ### Books
 
-- [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/) - 第一本致力于 Coq 的书.
+- [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/) - 第一本专门介绍 Coq 的书.
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu) - 一系列基于 Coq 的关于逻辑、函数式编程和编程语言基础的教科书，旨在为初学者提供便利.
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - 关于 Coq 实用工程的教科书，它教授高级实用技巧和非常具体的证明风格.
 - [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - 解释如何使用分离逻辑构造程序逻辑的书，并附有适用于 Clight 编程语言和其他示例的 Coq 形式模型.

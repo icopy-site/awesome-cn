@@ -164,7 +164,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alt](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) ) |  13 周 |  6-10 小时/周 | 替代课程涵盖本课程和以下 2 门课程 | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)  |  13 周 |  5-10 小时/周 |  - | 微积分1A | [chat](https://discord.gg/sddAsZg)
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  |  6 周 |  5-10 小时/周 |  - | 微积分1B | [chat](https://discord.gg/FNEcNNq)
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) ) |  13 周 |  5 小时/周 | 具有问题集解决方案的替代版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) .  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) ) |  13 周 |  5 小时/周 | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) .  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
@@ -418,7 +418,7 @@ or
 征求你的 OSSU 同行的反馈.
 你不会被传统意义上的“评分”——每个人都有自己的衡量标准来衡量他们认为的成功.
 评估的目的是作为您向世界宣布您是计算机科学家的第一个声明
-并获得倾听反馈的经验——无论是正面的还是负面的.
+并获得倾听反馈的经验——无论是积极的还是消极的.
 
 最终项目评估有第二个目的：评估 OSSU、
 通过其社区和课程，成功地完成了指导独立学习者获得世界一流的计算机科学教育的使命.
@@ -458,7 +458,7 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.

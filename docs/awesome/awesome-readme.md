@@ -91,7 +91,7 @@
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - 生成漂亮的 README.md 文件的 CLI
 - [Readme.so](https://readme.so/) - 一个简单的编辑器，可让您快速添加和自定义项目自述文件所需的所有部分.
 - [READMINE](https://github.com/mhucka/readmine)  - 用于软件项目的全面、清晰和自我描述的 README 文件模板； 复制它并根据需要进行编辑.
-- [StackEdit](https://stackedit.io/) - 一个用户友好的在线编辑器，可让您快速自定义项目自述文件所需的所有部分.
+- [StackEdit](https://stackedit.io/) - 用户友好的在线编辑器，可让您快速自定义项目自述文件所需的所有部分.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme)  - 一个标准的 README 风格规范. 也有一个生成器来帮助创建符合规范的自述文件.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - 简单的模板可帮助您涵盖所有基础知识.
 
@@ -104,7 +104,7 @@
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
 - [LICEcap](https://www.cockos.com/licecap/) - **免费** - 不那么直观，功能更多.
 - [Peek](https://github.com/phw/peek#readme) - **免费** - Linux 用户简单易用.
-- [Recordit](https://recordit.co/) - **免费** - 简单、干净的用户界面，但会自动上传到 [recordit.co](https://recordit.co/)
+- [Recordit](https://recordit.co/) - **免费** - 简单、干净的 UI，但会自动上传到 Recordit.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **免费** - 开源、可定制的 UI 和可轻松编辑的 GIF，易于上手.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **免费** - 记录您的终端并生成动画 gif 图像或共享网络播放器.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **免费** - 对于命令行工具，一个终端到 gif 的记录器可以消除头痛.
