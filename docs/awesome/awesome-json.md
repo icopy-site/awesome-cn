@@ -350,6 +350,7 @@
 * [js-schema](https://github.com/molnarg/js-schema)  -一种描述JavaScript中对象模式的新方法. 它具有简洁的语法，并且能够与流行的JSON Schema格式进行序列化.
 * [aptos](https://github.com/pennsignals/aptos) -使用JSON Schema验证数据并将JSON Schema文档转换为不同的数据交换格式的工具.
 * [JSON Schema $Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) -解析，解析和取消引用JSON模式$ ref指针
+* [ExtendsClass.com](https://extendsclass.com/json-schema-validator.html) -JSON对象的JSON模式生成器.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) -一个旨在为JSON模式提供更多可访问文档的网站.
