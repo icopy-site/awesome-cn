@@ -5,7 +5,7 @@
 这份清单的灵感来自于 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
 您可以通过发送拉取请求来添加更多服务来提供帮助. 请阅读 [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) 第一的.
-Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
+一旦我在这个 README 文件中有一组好的链接，我将研究一个更好的信息和链接布局（也很感激帮助）.
 
 如果你不想做 PR，你可以发推特给我 [@acho_arnold](https://twitter.com/acho_arnold)!
 
@@ -19,7 +19,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
 
   * [Bitbucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp) [免费] - 为学术用户和团队免费提供无限制的公共和私人存储库.
   
-  * [GitHub](https://education.github.com/pack) [免费] - 个人帐户（通常为 7 美元/月），在您还是学生时拥有无限的私人存储库.
+  * [GitHub](https://education.github.com/pack) [免费] - 个人帐户（通常为每月 7 美元），在您还是学生时拥有无限的私人存储库.
 
 
 ## IDE and Code Editing
@@ -177,7 +177,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
 
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/)  - Microsoft Azure 是一组不断扩展的云服务，可帮助您构建、管理和部署应用程序. 通过学习云计算技能提升您的想法，并使用免费的 Azure for Students 帐户获得 100 美元的信用额度——无需信用卡.
 
-* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [免费] - Kaltura VPaaS 简化了在全球范围内构建智能、交互式 VOD、实时和实时视频体验和应用程序.当您还是学生时，每年 10,000 美元的 Kaltura VPaaS 积分.
+* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
 
 * [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，具有许多开箱即用的支持语言和 Docker 支持. 每个人 100 美元的免费积分 + 学生计划每年 1000 美元的免费积分（询问 support@flashdrive.io）
 
@@ -198,7 +198,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
 
 * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) [FREE / CREDIT] - 免费学生计划，最多可访问 5 个私有存储库的 StyleCI.
 
-* [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) [FREE / DISCOUNT]- Free account for students and educators with a 25% discount for qualifying schools and institutions.
+* [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) [免费/折扣]- 学生和教育工作者的免费帐户，符合条件的学校和机构可享受 25% 的折扣.
 
 * [ConfigCat](https://configcat.com/student/) [免费] - 通过行业领先的功能标志服务学习功能标志.1000 个功能标志，∞ 用户免费.
 
@@ -214,8 +214,6 @@ Once I have a good set of links in this README file, I'll look into a better lay
 * [Yellow Circle](https://yellowcircle.net) [免费] - 通过创建和配置虚拟路由器、虚拟机、虚拟防火墙、负载平衡器和存储设备，为各级学生和教师提供免费的在线沙盒，以学习和练习 IT、网络和编程技能.
 
 * [Vertabelo](https://www.vertabelo.com/)  [免费] - 用于数据库设计的全功能在线工具. 免费用于教育目的.
-
-* [Phrase](https://phrase.com/lp/github-student-package/) [免费] - 一个基于云的翻译管理系统，旨在加速多语言数字产品的开发.Phrase Lite 计划为学生免费提供长达 12 个月.
 
 * [SQLSmash](https://student.sqlsmash.com/) [免费] - SQL Server Management Studio 的生产力插件，用于编写可维护的 SQL 脚本和更快的导航.为学生提供免费标准许可证.
 
@@ -259,7 +257,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
 
   * [NameCheap](https://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年的域名，在 .io、.tech、.com 和 .website 上注册可享受大幅折扣. 包括可选的免费一年托管 Ghost 博客平台或 Exposure 照片网站.
 
-* [.tech](https://get.tech/students) [折扣] - .tech TLD 注册一年，只需 0.99 美元，推荐免费续订.
+* [.tech](https://get.tech/students) [折扣] - 以 0.99 美元的价格在 .tech TLD 上注册一年，推荐免费续订.
 
 * [name.com](https://www.name.com/partner/github-students) [免费] - 域名、虚拟主机和网站. 一个免费域名和免费高级安全（SSL、隐私保护等），通过 [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -276,7 +274,7 @@ Once I have a good set of links in this README file, I'll look into a better lay
 
 * [Astra](https://www.getastra.com/github-student-developer-pack) [免费] - 您网站的安全套件 - 防火墙、恶意软件扫描程序和托管漏洞赏金平台.6 个月访问网站防火墙和恶意软件扫描程序.
 
-* [BrowserStack](https://www.browserstack.com/github-students) [免费] - 使用 BrowserStack 的 Real Device Cloud 测试您的 Web 应用程序，它让您可以即时访问 2000 多种浏览器以及真正的 iOS 和 Android 设备.1 个并行和 1 个用户 1 年的免费自动化移动计划.
+* [BrowserStack](https://www.browserstack.com/github-students) [免费] - 使用 BrowserStack 的 Real Device Cloud 测试您的 Web 应用程序，它让您可以即时访问 2000 多种浏览器以及真正的 iOS 和 Android 设备.1 个并行和 1 个用户的免费自动化移动计划，为期 1 年.
 
 * [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [免费] - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.免费 LambdaTest 在线计划一年.
 
@@ -381,11 +379,9 @@ Once I have a good set of links in this README file, I'll look into a better lay
 
 * [One Month](https://onemonth.com/github/students) [免费] - 只需 30 天即可学习 HTML、CSS、JavaScript 和 Python！您将获得为期 30 天的免费一个月订阅.
 
-* [Flatiron School](https://flatironschool.com/github-student-pack/)  [免费] - 从面向开发人员的首要编码训练营学习 Web 开发. 如果您想循序渐进，这是一门很棒的课程. 免费获得为期一个月的社区支持训练营会员资格.
-
 * [GO RAILS](https://gorails.com/github-students)  [免费] - 为 Web 开发人员学习 Ruby、Rails、Javascript、Turbolinks、Stimulus.js、Vue.js 等提供的教程. 在 12 个月内免费访问所有视频和课程.
 
-* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
+* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [免费] - 学习 Web 开发基础知识，开启您作为开发人员的职业生涯.1 个月访问 Web 开发课程.
 
 * [SymfonyCasts](https://symfonycasts.com/github-student)  [免费] - 通过视频教程和代码挑战掌握 Symfony 和 PHP. 学生可免费订阅 3 个月. 
 

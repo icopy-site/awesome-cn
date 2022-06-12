@@ -11,7 +11,7 @@
 ## General analytics
 * [userTrack](https://www.usertrack.net/)  - 带有热图、会话记录、A/B 测试等的自托管 Web 分析.  `©` `自托管` `PHP`
 * [Panelbear](https://panelbear.com/)  - 免费的实时网站分析. 支持自定义事件跟踪、电子邮件摘要和站点速度指标.  `©` `SaaS`
-* [PostHog](https://posthog.com)  - 用于跟踪用户、事件、渠道和趋势的开源产品分析.  Mixpanel/Amplitude/Heap 的替代方案.  ([Source Code](https://github.com/posthog/posthog)) `WITH` `Python`
+* [PostHog](https://posthog.com)  - 用于跟踪用户、事件、渠道和趋势的开源产品分析.  Mixpanel/Amplitude/Heap 的替代方案. 还包括会话记录（HotJar 的替代品）和功能标志/实验工具（Optimizely 的替代品）.（[Source Code](https://github.com/posthog/posthog)) `WITH` `Python`
 * [Hotjar](https://www.hotjar.com/)  - 真正了解您的网站和移动网站访问者的新方法和简单方法.  `©` `SaaS`
 * [Matomo](https://matomo.org/)  - 领先的开源分析平台，为您提供的不仅仅是强大的分析，以前称为 Piwik.  ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
 * [Heap](https://heap.io)  - 跟踪您的应用用户、点击、表单提交和其他任何内容.  `©` `SaaS`
@@ -23,11 +23,11 @@
 * [Clicktale](https://www.clicktale.com)  - 准确记录并观察访问者如何使用您的网站.  `©` `SaaS`
 * [GoSquared](https://www.gosquared.com/)  - 带有访客标签的分析，可帮助您更深入地了解一位用户的访问.  `©` `SaaS`
 * [Clicky](http://clicky.com/)  - 跟踪访问和转换，您还可以跟踪您的视频和音频分析.  `©` `SaaS`
-* [Woopra](https://www.woopra.com/)  - 跟踪您的用户来自哪里.  `©` `SaaS`
+* [Woopra](https://www.woopra.com/) - track where your users are coming from. `©` `SaaS`
 * [Mint](https://haveamint.com/)  - 自托管分析解决方案（不再销售）.  `©` `SaaS`
 * [Going Up](https://www.goingup.com/)  - 使用一种工具管理 SEO 分析和 Web 应用程序分析.  `©` `SaaS`
 * [Chartbeat](https://chartbeat.com/)  - 用于 Web 应用程序的漂亮、实时的应用程序分析工具.  `©` `SaaS`
-* [Gauges](http://get.gaug.es/)  - 实时网络分析工具.  `©` `SaaS`
+* [Gauges](http://get.gaug.es/) - real-time web analytics tool. `©` `SaaS`
 * [Indicative](https://www.indicative.com/)  - 网络和移动分析工具，重点强调细分和漏斗可视化.  `©` `SaaS`
 * [Open Web Analytics](http://www.openwebanalytics.com/)  - 谷歌分析和 Matomo 替代品.  ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
 * [Statcounter](https://statcounter.com/)  - 可用的原始网络分析工具之一.  `©` `SaaS`
@@ -42,7 +42,7 @@
 * [Metabase](https://www.metabase.com) - 开源分析/BI 工具`©` `SaaS`
 * [LiveSession](https://livesession.io)  - 会话重播用户分析.  `©` `SaaS`
 * [Glassbox](https://glassboxdigital.com/)  - 客户体验和会话记录分析.  `©` `SaaS`
-* [Redash](https://redash.io/) - open source analytics/BI tool `©` `SaaS`
+* [Redash](https://redash.io/) - 开源分析/BI工具`©``SaaS`
 * [AWStats](http://www.awstats.org/)  - 以图形方式生成 Web、流媒体、ftp 或邮件服务器统计信息.  ([Source Code](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 * [Countly](https://count.ly)  - 实时移动和网络分析、崩溃报告和推送通知平台.  ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
 * [Druid](http://druid.io/)  - 分布式、面向列的实时分析数据存储.  ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` Java`
@@ -52,16 +52,16 @@
 
 ## Real-time
 
-* [GoAccess](http://goaccess.io/)  - 在终端中运行的实时网络日志分析器和交互式查看器.  ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` C`
+* [GoAccess](http://goaccess.io/)  - 在终端中运行的实时网络日志分析器和交互式查看器.  ([Source Code](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 
 ## Website analytics
 
-* [KISSS](https://kis3.dev)  - 非常简约（KISS）的网站统计工具.  ([Source Code](https://github.com/kis3/kis3)) `麻省理工学院`去`
+* [KISSS](https://kis3.dev)  - 非常简约（KISS）的网站统计工具.  ([Source Code](https://github.com/kis3/kis3))`麻省理工学院``去`
 
 ## Endpoints
-* [Census](https://getcensus.com/)  - 将您的客户数据从您的云数据仓库同步到 Salesforce、Marketo、HubSpot、Zendesk 等 SaaS 应用程序的最简单方法.Census 是一个运营分析平台，可将您的数据仓库与所有您喜欢的应用程序同步. 通过保持客户数据同步，让您的客户成功、销售和营销团队在同一页面上. 不需要任何工程方面的支持——只需 SQL.  `SaaS`
+* [Census](https://getcensus.com/)  - 将您的客户数据从您的云数据仓库同步到 Salesforce、Marketo、HubSpot、Zendesk 等 SaaS 应用程序的最简单方法.Census 是一个运营分析平台，可将您的数据仓库与所有您喜欢的应用程序同步. 通过保持客户数据同步，让您的客户成功、销售和营销团队保持同步. 不需要任何工程方面的支持——只需 SQL.  `SaaS`
 * [RudderStack](https://rudderstack.com/)  - 为您在数据仓库上构建 CDP 的仓库优先客户数据平台 (CDP).  RudderStack 可以轻松收集、统一、转换和存储您的客户数据，并将其安全地传送到各种常见、流行的营销、销售和产品工具（Segment 等的开源替代品）.  ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
-* [Snowplow](http://snowplowanalytics.com/)  - 具有大量数据的网络应用程序的分析工具. 将来自您的网站、移动应用程序、桌面应用程序和服务器端系统的每一个事件都存储在您自己的数据仓库中，并可实时执行.  ([Source Code](https://github.com/snowplow/)) `Apache-2.0` Scala` `实时`
+* [Snowplow](http://snowplowanalytics.com/)  - 具有大量数据的网络应用程序的分析工具. 将来自您的网站、移动应用程序、桌面应用程序和服务器端系统的每一个事件都存储在您自己的数据仓库中，并可实时执行.  ([Source Code](https://github.com/snowplow/)) `Apache-2.0` `Scala` `实时`
 
 ## SEO
 * [Serposcope](https://serposcope.serphacker.com/)  - Serposcope 是一个免费的开源排名跟踪器，用于监控网站在 Google 中的排名并提高您的 SEO 性能.  ([Source Code](https://github.com/serphacker/serposcope)) `WITH` `Java`
@@ -75,14 +75,14 @@
 * [Nibspace](https://nibspace.com/) - 经济实惠、轻量级、隐私友好的网站分析 `©` `SaaS`
 * [Metrical](https://metrical.xyz/)  - 适合所有人的隐私优先网络分析工具.  `©` `SaaS`
 * [Shynet](https://github.com/milesmcc/shynet)  - 现代、隐私友好和详细的网络分析，无需 cookie 或 JS. 专为自托管而设计.  `Apache-2.0` `Python`
-* [Umami](https://umami.is/)  - Umami 是一个简单、易于使用、自托管的网络分析解决方案. 目标是为您提供更友好、注重隐私的 Google Analytics 替代方案，以及免费、开源的付费解决方案替代方案.  ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)) `WITH` `Nodejs`
+* [Umami](https://umami.is/)  - Umami 是一个简单、易于使用、自托管的网络分析解决方案. 目标是为您提供更友好、注重隐私的 Google Analytics 替代方案，以及免费、开源的付费解决方案替代方案.  ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)) `MIT``Nodejs`
 * [Koko Analytics](https://www.kokoanalytics.com/)  - 适用于 WordPress 的隐私友好型开源分析插件.  ([Source Code](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
 * [Offen](https://www.offen.dev/)  - Offen 是一个公平和开放的网络分析工具. 在您的用户可以完全访问其数据的同时获得洞察力. 轻量级、自托管和免费.  ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 * [Freshlytics](https://github.com/sheshbabu/freshlytics)  - 尊重隐私、无 cookie 和低资源使用分析平台.  `MIT` `Docker/Nodejs`
 * [Kindmetrics](https://kindmetrics.io/)  - 清理以隐私为中心的网站分析.  ([Source Code](https://github.com/kindmetrics/kindmetrics)) `WITH``水晶`
-* [Ackee](https://ackee.electerious.com)  - 为那些关心隐私的人提供自托管分析工具.  ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `WITH` `Nodejs`
-* [piratepx](https://www.piratepx.com/)  - 为您的个人或独立项目提供一点分析见解.  100% 免费和开源.  ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `WITH` `Nodejs`
-* [Piwik PRO](https://piwik.pro/)  - 具有内置同意管理的 Google Analytics 的隐私友好型替代方案. 托管在欧盟、您的私有云或本地.  `©` `SaaS` `自托管`
+* [Ackee](https://ackee.electerious.com)  - 为那些关心隐私的人提供自托管分析工具.  ([Demo](http://demo.ackee.electerious.com), [Source Code](https://github.com/electerious/Ackee)) `MIT``Nodejs`
+* [piratepx](https://www.piratepx.com/)  - 为您的个人或独立项目提供一点分析见解.  100% 免费和开源.  ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source](https://github.com/piratepx/app)) `MIT``Nodejs`
+* [Piwik PRO](https://piwik.pro/)  - 具有内置同意管理的 Google Analytics 的隐私友好型替代方案. 在欧盟、您的私有云或本地托管.  `©` `SaaS` `自托管`
 
 ## Heatmap analytics
 
@@ -150,7 +150,7 @@
 * [Buffer](https://bufferapp.com/)  - 社交媒体发布和分析平台.  `©` `SaaS`
 * [Topsy](http://topsy.com/)  - 带有搜索功能的社交分析工具.  `©` `SaaS`
 * [SocialBlade](http://socialblade.com/)  - 首映 YouTube 统计跟踪.  `©` `SaaS`
-* [Hootsuite](https://hootsuite.com/)  - 社交媒体管理仪表板.  ©``SaaS`
+* [Hootsuite](https://hootsuite.com/)  - 社交媒体管理仪表板.  `©` `SaaS`
 * [Sproutsocial](http://sproutsocial.com/)  - 社交媒体管理和分析平台.  `©` `SaaS`
 
 ## Developer analytics
@@ -158,6 +158,7 @@
 * [GitSpo](https://gitspo.com/)  - 开源分析.  `©` `SaaS`
 * [Pull Panda](https://pullpanda.com/analytics) - 工程团队的指标和见解`©` `SaaS`
 * [Screenful](https://screenful.com/) - 可视化并分享您的项目进度`©` `SaaS`
+* [Hatica](https://www.hatica.io/) - 提高开发人员生产力的工程分析`©``SaaS`
 * [Haystack](https://usehaystack.io) - 工程团队的指标和见解`©` `SaaS`
 * [Pull Panda](https://pullpanda.com/analytics) - 工程团队的指标和见解`©` `SaaS`
 * [Plandek](https://plandek.com) - 软件交付的指标和见解`©` `SaaS`
@@ -170,10 +171,10 @@
 * [Geckboard](https://www.geckoboard.com/)  - 一个地方的关键指标仪表板.  `©` `SaaS`
 * [Klipfolio](https://www.klipfolio.com/)  - Klipfolio 是一个在线仪表板平台，用于为您的团队或客户构建强大的实时业务仪表板.  `©` `SaaS`
 * [Vizia](https://www.brandwatch.com/products/vizia/) - 可视化指挥中心仪表板解决方案`©``SaaS`
-* [Metabase](https://metabase.com/)  - Metabase 是您公司中每个人提出问题和从数据中学习的一种简单的开源方式. 简单的仪表板和 GUI 查询工具、夜间电子邮件和与 PostgreSQL、MySQL、Redshift 和其他数据库的 Slack 集成.  ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java`
-* [Chartbrew](https://chartbrew.com)  - Chartbrew 允许您查询数据库和 API 以创建实时图表并可视化您的数据. 您可以与任何人共享您的图表，或将它们嵌入您自己的网站、博客、Notion 等.（[Demo](https://app.chartbrew.com/live-demo), [Source Code](https://github.com/chartbrew/chartbrew)) `WITH` `NodeJS`
-* [Redash](http://redash.io)  - 连接到超过 18 种类型的数据库（SQL 和“NoSQL”），查询您的数据，将其可视化并创建仪表板. 一切都有一个可以共享的 URL.  Slack 和 HipChat 集成.  ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD-2-Clause` Python`
-* [Superset](http://superset.apache.org/)  - 现代、企业就绪的商业智能 Web 应用程序.  ([Source Code](https://github.com/apache/incubator-superset)) `Apache-2.0` Python`
+* [Metabase](https://metabase.com/)  - Metabase 是您公司中的每个人提出问题和从数据中学习的一种简单、开源的方式. 简单的仪表板和 GUI 查询工具、夜间电子邮件和与 PostgreSQL、MySQL、Redshift 和其他数据库的 Slack 集成.  ([Source Code](https://github.com/metabase/metabase)) `AGPL-3.0` `Java`
+* [Chartbrew](https://chartbrew.com)  - Chartbrew 允许您查询数据库和 API 以创建实时图表并可视化您的数据. 您可以与任何人共享您的图表，或将它们嵌入您自己的网站、博客、Notion 等.（[Demo](https://app.chartbrew.com/live-demo), [Source Code](https://github.com/chartbrew/chartbrew)) `MIT``NodeJS`
+* [Redash](http://redash.io)  - 连接到超过 18 种类型的数据库（SQL 和“NoSQL”），查询您的数据，将其可视化并创建仪表板. 一切都有一个可以共享的 URL.  Slack 和 HipChat 集成.  ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
+* [Superset](http://superset.apache.org/)  - 现代、企业就绪的商业智能 Web 应用程序.  ([Source Code](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 * [Socioboard](https://socioboard.org/)  - `⚠`社交媒体管理、分析和报告平台，支持九个开箱即用的社交媒体网络.  ([Source Code](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
 * [EDA](https://eda.jortilles.com/en/jortilles-english/)  - EDA 是专为企业用户设计的用户友好型分析工具.  ([Source Code](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 
@@ -182,4 +183,4 @@
 - 更多列表 [awesome](https://github.com/sindresorhus/awesome).
 - 另一个清单？ [list](https://github.com/jnv/lists).
 - 见鬼！ [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+- 分析 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).

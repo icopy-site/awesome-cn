@@ -145,7 +145,7 @@
 
     ---
 *其他库*
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖关系的本地 Haskell 代码.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖性的本地 Haskell 代码.
 
 ## Data Structures
 * [Data Structures & IO Libraries](https://wiki.haskell.org/Applications_and_libraries/Data_structures) - 官方网站资源.
@@ -397,6 +397,7 @@
 
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - DelftX 在 edX 上的 2014 年秋季 MOOC，以 Haskell 为主要关注语言.
 * [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/) - 格拉斯哥大学的 Haskell 函数式编程入门 MOOC. 
+* [Haskell MOOC](https://haskell.mooc.fi/) - 赫尔辛基大学关于使用 Haskell 的函数式编程的 MOOC.
 
 ## Conferences
 

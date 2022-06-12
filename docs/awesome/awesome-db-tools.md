@@ -35,6 +35,7 @@
 - [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - 专门针对为 Oracle 数据库开发存储程序单元的 IDE.
 - [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - 完整而强大的 PostgreSQL 数据库管理、管理和开发工具.
 - [Slashbase](https://github.com/slashbase/slashbase)  - 用于数据库的开源协作 IDE. 直接从您的浏览器连接到您的数据库、浏览数据、运行大量 SQL 命令或与您的团队共享 SQL 查询.
+- [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) 是一个集成环境，用于管理 SQL Server 和 Azure SQL 数据库的任何 SQL 基础结构.
 - [Toad](https://www.quest.com/toad/)  - Toad 是面向开发人员、管理员和数据分析师的首选数据库解决方案. 使用单一数据库管理工具管理复杂的数据库更改.
 - [Toad Edge](https://www.toadworld.com/products/toad-edge) - MySQL 和 Postgres 的简化数据库开发工具.
 - [TOra](https://github.com/tora-tool/tora) - TOra 是用于 Oracle、MySQL 和 PostgreSQL 数据库的开源 SQL IDE.
@@ -48,7 +49,7 @@
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
 - [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
-- [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
+- [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
 - [Malewicz](https://github.com/mgramin/malewicz) - 另一个用于 DB 模式探索和性能分析的 WEB 客户端，但最初是专门为破解和扩展而创建的.
 - [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，具有非技术用户的完整用户权限.
@@ -84,7 +85,7 @@
 - [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶部”.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是适用于 Oracle 数据库的免费命令行界面.
-- [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等等.
+- [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等.
 - [SQLLine](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 向关系数据库发出 SQL 的命令行 shell.
 - [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
 
@@ -93,7 +94,7 @@
 - [litecli](https://github.com/dbcli/litecli) - 用于 SQLite 数据库的 CLI，具有自动完成和语法高亮功能.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - 具有自动完成和语法突出显示的 SQL Server 命令行客户端.
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的 MySQL 终端客户端.
-- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - 具有自动完成和语法突出显示的 Postgres CLI.
 - [vcli](https://github.com/dbcli/vcli) - 具有自动完成和语法突出显示的 Vertica CLI.
 
 
@@ -114,7 +115,7 @@
 - [Reshape](https://github.com/fabianlindfors/reshape) - 一个易于使用、零停机时间的 Postgres 架构迁移工具.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
 - [Skeema](https://github.com/skeema/skeema) - MySQL 和 MariaDB 的声明式纯 SQL 模式管理系统，支持分片和外部在线模式更改工具.
-- [Sqitch](https://github.com/sqitchers/sqitch) - 明智的数据库原生变更管理，用于无框架开发和可靠部署.
+- [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [sqldef](https://github.com/k0kubun/sqldef) - MySQL、PostgreSQL 等的幂等模式管理.
 - [yuniql](https://github.com/rdagumampan/yuniql) - 刚刚使用本机 .NET Core 3.0+ 制作的另一个架构版本控制和迁移工具，希望更好.
 
@@ -149,12 +150,12 @@
 为您的数据构建 API
 - [Datasette](https://github.com/simonw/datasette) - 探索和发布数据的工具.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - 用于移动、Web 和 IoT 应用程序的开源 REST API 后端.
-- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - 一个中间层 Java 应用程序，ORDS 将 HTTP(S) 动词（GET、POST、PUT、DELETE 等）映射到数据库事务并返回使用 JSON 格式化的任何结果.
 - [Prisma](https://github.com/prismagraphql/prisma) - Prisma 将您的数据库变成实时 GraphQL API.
 - [PostGraphile](https://github.com/graphile/postgraphile) - 通过将 PostGraphile 指向您现有的 PostgreSQL 数据库，立即启动 GraphQL API 服务器.
 - [PostgREST](https://github.com/PostgREST/postgrest) - 任何 Postgres 数据库的 REST API.
-- [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+- [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
 - [restSQL](https://github.com/restsql/restsql) - 带有 Java 和 HTTP API 的 SQL 生成器，使用带有 XML 或 JSON 序列化的简单 RESTful HTTP API.
 - [resquel](https://github.com/formio/resquel) - 轻松将您的 SQL 数据库转换为 REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - 为您的旧数据库自动生成 RESTful API 服务.
@@ -195,7 +196,7 @@
 - [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) - 提供 Oracle 和 PostgreSQL 数据库中活动会话历史数据的图形视图.
 - [Monyog](https://www.webyog.com/product/monyog) - 无代理且经济高效的 MySQL 监控工具.
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) - 使用 collectd、InfluxDB 和 Grafana 监控 Linux 上的 SQL Server 性能.
-- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - 一个安全、简单、无代理的远程服务器监控工具，具有强大的功能，使您的监控尽可能有效.
+- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
 - [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
@@ -244,7 +245,7 @@
 
 
 ## Kubernetes
-- [KubeDB](https://kubedb.com) - 在 Kubernetes 上轻松运行生产级数据库.
+- [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
 - [Postgres operator](https://github.com/zalando/postgres-operator) - Postgres Operator 在由 Patroni 提供支持的 Kubernetes (K8s) 上启用高可用性 PostgreSQL 集群.
 - [Spilo](https://github.com/zalando/spilo) - 使用 Docker 的 HA PostgreSQL 集群.
 - [StackGres](https://gitlab.com/ongresinc/stackgres) - Kubernetes 上的企业级全栈 PostgreSQL.
@@ -290,7 +291,7 @@
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - 用于描述、识别和报告 TSQL 脚本中存在的反模式的工具.
 
 ### Extensions
-- [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
+- [PartiQL](https://partiql.org) - 对关系、半结构化和嵌套数据的 SQL 兼容访问.
 
 ### Frameworks
 - [Apache Calcite](https://calcite.apache.org) - 具有高级 SQL 功能的动态数据管理框架.
