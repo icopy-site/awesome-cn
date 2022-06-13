@@ -48,6 +48,7 @@
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 上使用 SQL Server、PostgreSQL、Azure SQL DB 和 SQL DW.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺隐私.
 - [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
+- [DB Lens](https://github.com/dblens/app) - 开源 Postgres GUI - 自动 ER 图、内部数据库洞察、磁盘利用率、性能指标、索引使用、顺序扫描计数等.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
@@ -62,7 +63,7 @@
 - [PopSQL](https://popsql.com) - 为您的团队提供现代、协作的 SQL 编辑器.
 - [Postico](https://eggerapps.at/postico) - 适用于 Mac 的现代 PostgreSQL 客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（前身为 Robomongo）是一个以 shell 为中心的跨平台 MongoDB 管理工具.
-- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 适用于 macOS 的 MySQL/MariaDB 数据库管理.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro 是一个快速、易于使用的 Mac 数据库管理应用程序，用于处理 MySQL 和 MariaDB 数据库.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
@@ -150,7 +151,7 @@
 为您的数据构建 API
 - [Datasette](https://github.com/simonw/datasette) - 探索和发布数据的工具.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - 用于移动、Web 和 IoT 应用程序的开源 REST API 后端.
-- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - 一个中间层 Java 应用程序，ORDS 将 HTTP(S) 动词（GET、POST、PUT、DELETE 等）映射到数据库事务并返回使用 JSON 格式化的任何结果.
 - [Prisma](https://github.com/prismagraphql/prisma) - Prisma 将您的数据库变成实时 GraphQL API.
 - [PostGraphile](https://github.com/graphile/postgraphile) - 通过将 PostGraphile 指向您现有的 PostgreSQL 数据库，立即启动 GraphQL API 服务器.

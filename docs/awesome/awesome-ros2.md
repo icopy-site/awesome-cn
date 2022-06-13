@@ -404,6 +404,10 @@ DDS 安全.
 
 ## Services
 
+### Cloud robotics
+
+- [robolaunch](https://www.robolaunch.io/)
+
 ### Robotics Capture the Flag (RCTF)
 
 - [rctf-list](https://github.com/aliasrobotics/RCTF) - 机器人 CTF (RCTF) 场景列表.

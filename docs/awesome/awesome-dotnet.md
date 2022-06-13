@@ -18,7 +18,7 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Vitali Fokin](https://github.com/quozd) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Vitali Fokin](https://github.com/quozd) 已放弃本作品的所有版权和相关或邻近权利.
 
 
 
@@ -32,6 +32,7 @@
 
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET 客户端 [Telegram Bot API](https://core.telegram.org/bots/api)
 * [TLSharp](https://github.com/sochix/TLSharp) - 它非常适合任何想要直接向 Telegram 用户发送数据或编写自己的自定义 Telegram 客户端的开发人员.
+* [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - 使用最新版本的 Telegram 自动化用户帐户 [Telegram Client API](https://core.telegram.org/methods)
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在 .NET 和 Mono 上构建基于 HTTP 的服务的轻量级、低仪式框架
 * [ASP.NET Web API](https://dotnet.microsoft.com/apps/aspnet/apis) - 可以轻松构建覆盖广泛客户端（包括浏览器和移动设备）的 HTTP 服务的框架
 * [Breeze](https://breeze.github.io/doc-net/) - API framework enabling rich data access by using the OData 3 protocol. Client libraries available for JavaScript and C#.
@@ -195,7 +196,7 @@
 * [ReadLine](https://github.com/tonerdo/readline) - 用于 .NET/.NET Core 的类似 GNU-Readline 的库.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，将对象树用于命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
-* [spectre.console](https://github.com/spectresystems/spectre.console) - 一个库，可以更轻松地创建漂亮的控制台应用程序.
+* [spectre.console](https://github.com/spectresystems/spectre.console) - 一个可以更轻松地创建漂亮的控制台应用程序的库.
 
 ## CLR
 
@@ -597,7 +598,7 @@
 * [ClearScript](https://github.com/Microsoft/ClearScript)  - 一个库，可以轻松地将脚本添加到您的 .NET 应用程序. 它目前支持 JavaScript（通过 V8 和 JScript）和 VBScript.
 * [Edge.js](https://github.com/tjanczuk/edge) - 在 Windows、macOS 和 Linux 上运行 .NET 和 Node.js 代码
 * [Jint](https://github.com/sebastienros/jint) - 适用于 .NET 的 JavaScript 解释器，它完全符合 ECMA 5.1 标准，可以在任何 .NET 平台上运行.
-* [Jurassic](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+* [Jurassic](https://github.com/paulbartrum/jurassic)  - ECMAScript 语言和运行时的实现. 它旨在为 .NET 提供性能最佳且最符合标准的 JavaScript 实现.
 * [YantraJS](https://github.com/yantrajs/yantra) - 适用于 .NET Standard 的 JavaScript 运行时（类似于 NodeJS），将 JavaScript 编译为 IL，支持许多 ES6 功能、生成器、CommonJS 模块、CSX 模块和表达式编译器.
 
 ## Logging
@@ -725,7 +726,7 @@
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 该库使您能够在 .NET 中枚举和与 Hid 兼容的 USB 设备进行通信.
 * [SystemWrapper](https://github.com/jozefizso/SystemWrapper) - SystemWrapper 是 .NET 库，用于更轻松地测试系统 API.
-* [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+* [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - 用于提取元数据和下载 Youtube 视频和播放列表的终极库.
 * [DeviceId](https://github.com/MatthewKing/DeviceId) - 生成可用于唯一标识计算机的“设备 ID”.
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - 通用设备检测库将解析任何用户代理并检测浏览器、操作系统、使用的设备（台式机、平板电脑、移动设备、电视、汽车、控制台等）、品牌和型号.
 * [NaturalSort.Extension](https://github.com/tompazourek/NaturalSort.Extension) - StringComparer 的扩展方法，增加了对自然排序的支持（例如“abc1”、“abc2”、“abc10”而不是“abc1”、“abc10”、“abc2”）.
@@ -739,10 +740,10 @@
 * [Community Toolkit](https://github.com/CommunityToolkit)  - 收集各种 .NET 技术的控制和帮助程序库和示例. 包含 Microsoft 支持的现代 MVVM 库. 包括 [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)， 和 [Dotnet Community Toolkit](https://github.com/CommunityToolkit/dotnet).
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小而强大的框架，专为跨所有 XAML 平台构建应用程序而设计. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
-* [Catel](https://www.catelproject.com/)  - Catel 是一个应用程序开发平台，专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
-* [UpdateControls](https://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
+* [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
+* [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现 `INotifyPropertyChanged` 或声明 `DependencyProperty`. 它将控件直接连接到 CLR 属性. 这使其非常适合模型/视图/视图模型模式.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了响应式扩展 (Rx) 框架，使开发人员能够使用 WPF、Windows 应用商店应用程序、WP8 或 Xamarin 构建优雅、可测试的应用程序.
-* [Okra App Framework](https://okraframework.github.io) - 一个以应用程序为中心的 MVVM 框架，适用于 Windows 8.1，构建时考虑了依赖项注入，包括一整套 Visual Studio MVVM 模板.
+* [Okra App Framework](https://okraframework.github.io) - 一个以应用程序为中心的 Windows 8.1 MVVM 框架，在构建时考虑了依赖项注入，包括一整套 Visual Studio MVVM 模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 一个跨平台的桌面和移动 MVVM 开发框架.
 * [Win Application Framework (WAF)](https://github.com/jbe2277/waf)  - 一个轻量级框架，可帮助您创建结构良好的 WPF 和 UWP 应用程序. 它支持您应用分层架构和模型-视图-视图模型模式.
 * [MVVMCross](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
@@ -762,7 +763,7 @@
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper)  - .NET 中基于约定的对象-对象映射器.  https://automapper.org
 * [TinyMapper](https://github.com/TinyMapper/TinyMapper) - 用于 .NET 的小而快的对象映射器.
-* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 一个轻量级、快速的 .NET 映射器，以自动化和简单的方式将一种类型的对象映射到另一种类型.  ExpressMapper 完全依赖于表达式树.
+* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 一个轻量级、快速的 .NET 映射器，以自动化和简单的方式将一种类型的对象映射到另一种类型的对象.  ExpressMapper 完全依赖于表达式树.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - 支持 .NET Standard 1.0 的零配置对象-对象映射器
 * [Mapster](https://github.com/MapsterMapper/Mapster) - .net 中的高性能对象映射器
 
@@ -793,7 +794,7 @@
 * [SqlSugar](https://github.com/donet5/SqlSugar) - 另一个 ORM 库支持许多 RDBMS，包括 MySql、SqlServer、Sqlite、Oracle、Postgresql
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 * [NHibernate](https://github.com/nhibernate) - NHibernate 对象关系映射器
-* [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) - 流畅、无 XML、编译安全、自动化、基于约定的 NHibernate 映射.
+* [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - .net 的流利迁移框架
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - 轻便、简单、快速的基于约定的 POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - 一个小而快乐的数据访问工具，会永远爱你.
@@ -805,7 +806,7 @@
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - 使用 SQL 片段且不需要模型类的混合 ORM.
 * [LLBLGen Pro](https://www.llblgen.com)  - 实体框架、NHibernate、Linq to SQL 及其自己的 ORM 框架的实体建模解决方案：LLBLGen Pro 运行时框架.  **[$][免费精简版]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database 是一个快速、轻量级的 .NET 微 ORM
-* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
+* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 数据访问框架，重点关注查询组合、粒度和代码美学.
 * [SmartSql](https://github.com/dotnetcore/SmartSql)  - SmartSql = MyBatis + 缓存（内存 |  Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - .NET 的混合 ORM 库.
 * [Venflow](https://github.com/TwentyFourMinutes/Venflow) - 一个用于 PostgreSQL 的超快速和轻量级的 ORM.
@@ -893,7 +894,7 @@
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - 具有流畅界面的任务调度程序，可从您的应用程序运行自动化作业
 * [NCrontab](https://github.com/atifaziz/NCrontab) - 用于解析和格式化的类库 [crontab](http://crontab.org/) 表达式以及根据 crontab 计划计算时间的出现
 * [NCrontab.Scheduler](https://github.com/thomasgalliker/NCrontab.Scheduler) - 用于调度基于 NCrontab 的任务的简单任务调度程序库
-* [QuartzNet](https://github.com/quartznet/quartznet) - Quartz 企业调度程序 .NET
+* [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 * [Hangfire](https://github.com/HangfireIO) - 一种在 .NET 应用程序中执行即发即弃、延迟和重复任务的简单方法
 * [Chroniton](https://github.com/leosperry/Chroniton) - 一个简单、完全可集成且可定制的库，用于按计划运行强类型作业（任务）.
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
@@ -996,7 +997,7 @@
 * [NSubstitute](https://nsubstitute.github.io/) - .NET 模拟框架的友好替代品
 * [NUnit](https://github.com/nunit/nunit) - 适用于所有 .NET 语言的单元测试框架
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - .NET 的动态模拟框架
-* [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时简单而简洁.
+* [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时简单明了.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - .NET Core 和 .NET Framework 的快照测试工具
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - 将业务需求绑定到 .Net 代码
 * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的变异测试

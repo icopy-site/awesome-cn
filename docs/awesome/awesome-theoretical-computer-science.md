@@ -156,7 +156,7 @@
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - 信仰与科学之间关系的一般说明.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - 图灵在科学史和科学哲学中的地位.
 ## Papers<a name=philosophy_papers></a>
-- [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识的本质和其他哲学问题带来了新的视角.
+- [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论为数学知识和其他哲学问题的本质带来了新的视角.
 - [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - 它描述了如何通过将通常的科学范式扩展到包括在内，在高复杂度范围内测试量子力学.
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它强调了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图孤立一些新的问题.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - 复杂性理论的基础及其对计算机科学哲学、数学哲学和认识论的潜在意义.
@@ -164,7 +164,7 @@
 ## Math/Logic Preliminaries<a name=mathlogic_preliminaries></a>
 ## General<a name=mathlogic_preliminaries_general></a>
 ### Lecture Videos Playlist<a name=mathlogic_preliminaries_general_lecture_videos_playlist></a>
-- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)  - 面向计算机科学和工程的离散数学简介.  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)  - 介绍面向计算机科学和工程的离散数学.  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 ### Books<a name=mathlogic_preliminaries_general_books></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典计算机程序设计艺术中的数学预备部分，但呈现方式更悠闲，个别主题涵盖更深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
@@ -173,7 +173,7 @@
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 为专业计算机科学家提供的一份简明扼要的数理逻辑参考资料.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
 - [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221)  - 面向低年级本科生，以基础为重点，向读者介绍逻辑、证明、集合和数论. 它提供了正式证明的完整细节和推导.
-- [Ayala-Rincón & Moura. Applied Logic for Computer Scientists: Computational Deduction and Formal Proofs](https://www.springer.com/gp/book/9783319516516)  - 介绍逻辑作为任何演绎计算框架的基础. 它包含用于证明软件和硬件系统的稳健性的特殊章节
+- [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4)
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - Semantic tableaux are used because they are theoretically sound and easy to understand.
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
 - [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程提供坚实的基础，从复习数字系统及其与数字计算机的相关性开始，最后以微积分和积分结束.
@@ -213,7 +213,7 @@
 - [CS Theory Events Aggregator](https://cstheory-events.org/) - CS 理论研讨会和学校的聚合器.
 - [Theory Announcements](https://dmatheorynet.blogspot.com/) - DMANET 传播有关离散数学和算法的会议、研讨会、研讨会等信息.
 - [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS 会议收集在一张表中.
-- [TCS+](https://www.youtube.com/user/TCSplusSeminars)  - 一系列理论计算机科学在线研讨会. 目标是让尽可能多的观众能够参与到引人入胜的演讲中.
+- [TCS+](https://www.youtube.com/user/TCSplusSeminars)  - 一系列理论计算机科学在线研讨会. 目标是让尽可能广泛的受众能够参与到引人入胜的演讲中.
 - [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html)  - 在线非正式会谈，专门讨论计算复杂性理论和相关领域感兴趣的话题. 目标是作为讨论和快速传播结果的论坛.
 - [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大化整个理论计算机科学界的影响和参与的计划、活动和研讨会.
 - [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - 旨在对计算机科学中的基本问题进行数学理解，并利用这种理解来产生更好的算法、协议和系统，并确定高效计算的固有局限性.

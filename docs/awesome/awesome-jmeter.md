@@ -200,7 +200,7 @@
 - 麋鹿栈
   - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - 使用 Elasticsearch、Logstash 和 Kibana 可视化 JMeter 测试结果.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - 使用 ElasticSearch 后端监听器和 Grafana/Kibana 实时监控结果.
-  - [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) - Parse JTL result with Docker and Logstash in real time or after test end, and send data to Elasticsearch or InfluxDb, to have a nice dashboard and compare different tests.
+  - [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) - 使用 Docker 和 Logstash 实时或在测试结束后解析 JTL 结果，并将数据发送到 Elasticsearch 或 InfluxDb，以获得漂亮的仪表板并比较不同的测试.
 - 普罗米修斯
   - [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) - Apache JMeter 的 Prometheus 侦听器，在 HTTP API 中公开结果.
   - [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) - 用于 Prometheus 指标导出的 Apache JMeter 后端侦听器实现.
@@ -343,7 +343,7 @@
 
 ## Videos
 
-- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - 逐步自动化.
+- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
 - [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - 由 QAInsights 提供.
 - [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - 由 xavki :fr:.
 
@@ -394,15 +394,15 @@
 
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - 免费软件测试和验证资源列表.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - 精选的测试资源列表.
-- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - 有助于了解页面速度和用户体验的指标.
-- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - Web 性能优化的精选列表.
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - 可扩展、可靠和高性能的大型系统的模式.
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - 现场可靠性和生产工程资源的精选列表.
-- [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - 开源 Java 应用性能管理工具.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - 开源多协议分布式负载测试工具，用 Erlang 开发.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - 基于 Scala、Akka 和 Netty 的开源负载和性能测试框架.
 - [Awesome k6](https://github.com/grafana/awesome-k6) - 开源、以开发人员为中心的性能监控和负载测试解决方案.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - 用 Python 编写的开源可扩展负载测试框架.
+
+### Other
+
+- [How They Load Test](https://github.com/aliesbelik/how-they-load) - 有关世界各地公司如何执行负载测试的公开可用资源的精选集合.
+- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - 用于调试、基准测试、加载和压力测试您的代码或服务的开源工具集合.
 
 ## Contributing
 

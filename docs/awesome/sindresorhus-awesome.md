@@ -246,7 +246,7 @@
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - 移动应用程序开发 IDE、测试和分发.
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - 虚拟机，可让您为 Linux 系统编写更高效、更强大的跟踪和监控.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - 基于 Arch Linux 的 Linux 发行版和项目.
 	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - 将应用程序打包在一个文件中，适用于各种主流 Linux 发行版.
 - macOS - Apple Mac 电脑的操作系统.
@@ -261,7 +261,7 @@
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P 超媒体协议.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子们编程，但功能更多.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台 GUI 应用程序框架.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
@@ -286,7 +286,7 @@
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重复.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能合作.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
-- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - 允许业务专业人员在几乎没有编码技能的情况下自行解决他们的需求.
+- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - 用于构建 Web Native 应用程序的跨平台开源运行时.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - 开发人员的地图和位置分析平台.
 
@@ -306,7 +306,7 @@
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - 棉绒.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - 任务运行器.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - 您可以在 30 秒内理解的代码片段.
 	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - 与 polyfill 类似，但不覆盖原生 API.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple 的编译型编程语言，安全、现代、对程序员友好且快速.
@@ -784,6 +784,7 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - 用于几乎同时交换媒体和数据的网络协议.
+- [SNMP](https://github.com/eozer/awesome-snmp#readme) - 一种协议，用于收集、修改和组织有关 IP 网络上受管设备的信息.
 
 ## Decentralized Systems
 
@@ -798,7 +799,7 @@
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - 用于 Web 3.0 应用程序和去中心化解决方案的开源区块链平台和开发工具集.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - 在 Rust 中编写可扩展、可升级的区块链的框架.
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - 计算资源的开源对等市场.
-- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - 由比特币保护的智能合约平台.
+- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - 一个开源的权益证明区块链和智能合约计算平台.
 
 ## Higher Education
@@ -848,7 +849,7 @@
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 - [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
-- [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
+- [Gulp](https://github.com/alferov/awesome-gulp#readme) - 任务运行器.
 - [AMA](https://github.com/sindresorhus/amas#readme) - 问我什么.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)

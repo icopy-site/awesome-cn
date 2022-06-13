@@ -184,7 +184,7 @@ _一套游戏框架、引擎和平台_
 -： 钱袋子： [Construct](https://www.scirra.com/)  - HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
 - ：money_with_wings： [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体式 3D 游戏引擎.非常易于使用.
 -： 然后： [Coquette](http://coquette.maryrosecook.com/)  - JavaScript 游戏的微型框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
--： 然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过其可视化工具、良好的文档和灵活的模块化库，使学习编程变得有趣和游戏开发变得容易.
+-： 然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过它的可视化工具、良好的文档和灵活的模块化库使学习编程变得有趣和游戏开发变得容易.
 -： 然后： [Dash](https://github.com/Circular-Studios/Dash) - 一个免费且开放的 3D 游戏引擎，用 D 语言编写.
 -： 然后： [Dear Imgui](https://github.com/ocornut/imgui/) - 用于 C++ 的无膨胀即时模式 GUI，具有最小的依赖性.
 -： 然后： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
@@ -264,7 +264,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [PixiJS](http://www.pixijs.com/)  - 是一个新来的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 以获得更快的性能. 如果不支持 WebGL，引擎将回退到标准画布.
 -： 然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
 - ：money_with_wings： [PlayCanvas](https://playcanvas.com/) - WebGL 游戏引擎.
--： 然后： [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
+-： 然后： [Polycode](http://polycode.org) - 用于在 C++ 中创建游戏的开源框架（使用 Lua 绑定）.
 -： 然后： [Processing](https://www.processing.org/) - Processing 是一种编程语言，适用于艺术家、设计师、研究人员的开发环境.
 -： 然后： [PuzzleScript](http://www.puzzlescript.net/) - 开源 HTML5 益智游戏引擎.
 -： 然后： [PyGame](http://pygame.org/hifi.html) - Python 中的 2D 游戏引擎.
@@ -274,13 +274,14 @@ _一套游戏框架、引擎和平台_
 -： 然后： [raylib](https://www.raylib.com/) - 一个简单易用的库，用于享受视频游戏编程，使用 OpenGL（1.1、2.1、3.3 或 ES 2.0）进行硬件加速
 -： 然后： [Ren'Py](http://www.renpy.org/)  - 一个使用 Python 语言的简化形式的开源视觉小说引擎. 它支持 Windows、Mac OS X、Linux、Android 和 iOS.
 -： 然后： [Rpgboss](http://rpgboss.com)  - 基于 scala 和 libgdx 的 2d rpg 游戏引擎和编辑器. 易于使用，无需编程知识.
+-： 然后： [Screen 13](https://github.com/attackgoat/screen-13)  - 一个易于使用的 Vulkan 渲染引擎. 为 Rust 提供渲染图.
 -： 然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
 -： 然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 -： 然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于易于迭代和使用.
 -： 然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
 -： 然后： [Spring](http://springrts.com/) - 一个强大的免费跨平台RTS引擎.
 - ：自由的： [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D 游戏引擎.
--： 然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级快速 2D HTML5 渲染和布局引擎.
+-： 然后： [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 -： 然后： [Starling](http://gamua.com/starling/) - GPU 驱动的 2D Flash API
 - ：money_with_wings： [Stencyl](http://www.stencyl.com/) - 一个游戏创建平台，允许用户为计算机、移动设备和网络创建 2D 视频游戏.
 -： 然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.

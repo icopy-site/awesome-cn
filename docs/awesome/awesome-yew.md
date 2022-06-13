@@ -69,7 +69,7 @@
 - [Paudle](https://github.com/pmsanford/paudle) - Josh Wardle 对优秀文字游戏 Wordle 的重新实现.
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 具有各种算法的交互式实现的网站（目前仅排序算法）.
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - 软件开发人员组合， [Live Demo](https://maeurer.dev/).
-- [zzhack](https://github.com/youncccat/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/technology).
+- [zzhack](https://github.com/youncccat/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/).
 - [Rquote](https://github.com/Altair-Bueno/rquote)  - Rquote 是一个使用 Rust 和 WebAssembly 构建的 Web 应用程序. 它从 Animechan API 获取动漫引语. [Live Demo](https://rquote.vercel.app/).
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 示例演示了Yew服务器端的潮汐和冲浪渲染，它需要Yew的**开发版本**.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
