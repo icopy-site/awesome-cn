@@ -30,6 +30,7 @@
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - 十大 Web 应用程序安全风险.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - 关于特定应用程序安全主题的高价值信息的简明收集.
+* [Anonymisation, pseudonymisation and privacy enhancing technologies guidance](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
 ## Incident management (art. 33 and 34)
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
@@ -50,7 +51,7 @@
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) 每个国家/地区的数据保护级别地图. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) 比较世界各地的数据保护法.
  
-## Data Protection Authorities 
+## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
 * [European Data Protection Supervisor](https://edps.europa.eu/) - 电子数据处理系统.
 * [European Union Agency for Network and Information Security (ENISA)](https://www.enisa.europa.eu/topics/data-protection) - 埃尼萨.
@@ -64,7 +65,7 @@
 * [GDPR.eu](https://gdpr.eu/) - 研究 GDPR 的组织和个人的资源（非官方网站）.
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - 与理解和提高隐私和安全可用性相关的研究.
 * [EPIC](https://epic.org/) - 电子隐私信息中心.
-* [Future of Privacy Forum](https://fpf.org/) - 隐私领导力和学术研究的催化剂，推进有原则的数据实践以支持新兴技术.
+* [Future of Privacy Forum](https://fpf.org/) - 促进隐私领导和学术研究，推进有原则的数据实践以支持新兴技术.
 * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - 引领网络发挥其全部潜力.
 * [CISPE Code of Conduct](https://www.codeofconduct.cloud/) - 第 40 条下针对云基础设施服务提供商的泛欧行业特定代码.
 
@@ -87,4 +88,4 @@
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，Harald O. Bakke 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内，Harald O. Bakke 放弃了本作品的所有版权和相关或邻接权.

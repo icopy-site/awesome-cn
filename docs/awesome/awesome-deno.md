@@ -53,17 +53,18 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [yargs](https://github.com/yargs/yargs) - 乐观主义者的现代海盗主题继任者.
 
 ### Database
-- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL 数据库驱动程序.
-- [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB 数据库驱动程序.
-- [redis](https://github.com/denodrivers/redis) - 用于 deno 的 redis 客户端的实验性实现.
+- [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
+- [dangoDB](https://github.com/oslabs-beta/dangoDB) - Deno 的 MongoDB ODM.
 - [denodb](https://github.com/eveningkid/denodb) - 适用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM.
+- [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB 数据库驱动程序.
+- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL 数据库驱动程序.
 - [dndb](https://github.com/denyncrawford/dndb) - 为 Deno 编写的持久且可嵌入的 NoSQL 数据库引擎.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - 一个使用 JSON 格式的简单的持久键值数据库.
 - [dso](https://github.com/manyuanrong/dso) - 基于 mysql 的简单 ORM 库.
-- [postgres](https://github.com/denodrivers/postgres) - PostgreSQL 数据库驱动程序.
-- [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-deno) - 允许使用 MaxmindDB geoIP 数据库文件的库
-- [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
+- [postgres](https://github.com/denodrivers/postgres) - PostgreSQL 数据库驱动程序.
+- [redis](https://github.com/denodrivers/redis) - 用于 deno 的 redis 客户端的实验性实现.
+- [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [yongo](https://github.com/yooneskh/yongo) - deno 中的 Mongoose api 子集（如填充）但不会完全复制 mongoose
 
 ### Discord
@@ -149,7 +150,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 处理.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
-- [deno-globrex](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
+- [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式.
 - [deno_notify](https://github.com/PandawanFr/deno_notify) - 在所有平台上发送桌面通知.
 - [deno-opn](https://github.com/hashrock/deno-opn)  - 打开网站、文件、可执行文件等内容. 跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - 用于管理 Deno 原生插件依赖项的库.
@@ -157,7 +158,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
 - [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
 - [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
-- [durationjs](https://github.com/retraigo/duration.js) - 从时间戳或人类可读的字符串中获取持续时间.
+- [durationjs](https://github.com/retraigo/duration.js) - Get time duration from a timestamp or a human-readable string.
 - [ensure](https://github.com/eankeen/ensure) - 确保您运行的是 Deno、Typescript 或 V8 的最低版本.
 - [evt](https://github.com/garronej/evt) - 键入 EventEmitter 的安全替换.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - 所有 javascript 平台的模式验证器
@@ -165,7 +166,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [fossil](https://github.com/matteocrippa/fossil) - 值类型验证套件.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 插值环境变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.
-- [invert-kv](https://github.com/denorg/invert-kv) - 在 Deno 中反转键值对.
+- [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 - [lazy](https://github.com/luvies/lazy) - 类似 linq 的惰性求值迭代模块.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - 用于生成、解决、分析和显示迷宫的 Javascript 模块.
 - [ms](https://github.com/denolib/ms) - 轻松将各种时间格式转换为毫秒.
@@ -177,7 +178,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
 - [tryify](https://github.com/twilsoft/tryify)  - 函数式错误处理； 永远不要再次抛出/尝试/捕捉/最终.
 - [type-fest](https://github.com/denoserverless/type-fest) - 基本 TypeScript 类型的集合（sindresorhus/type-fest 的端口）.
-- [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - 强大而简单的锁（互斥）库，用于处理零依赖的竞争条件
+- [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - 强大而简单的锁（互斥）库来处理零依赖的竞争条件
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 执行 gzip 操作.
 - [watch](https://github.com/jinjor/deno-watch) - 文件观察者.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - 使用 wu（O（NP））算法计算两个切片之间差异的差异库.
@@ -288,7 +289,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [kopo-cli](https://github.com/littletof/kopo-cli) - 终端中的 Deno 注册表浏览器.
 - [lume](https://github.com/lumeland/lume) - 一个类似于 Jekyll 或 Eleventy 的静态站点生成器，支持多种文件格式.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - 自动使 package.json 项目（例如 npm 包和 node.js 模块）与 Deno 兼容.
-- [nessie](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+- [nessie](https://github.com/halvardssm/deno-nessie) - 为 PostgreSQL、MySQL 和 SQLite 创建、迁移和回滚迁移.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以轻松使用 Deno 脚本构建虚拟机映像.
 - [pagic](https://github.com/xcatliu/pagic) - 从 Markdown 生成静态 html 页面的最简单方法，使用 Deno 构建.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)

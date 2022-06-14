@@ -15,7 +15,7 @@
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
-- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio 是面向数据库开发人员、DBA 和分析师的生产力软件.
+- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
 - [Database .net](http://fishcodelib.com/Database.htm) - 多数据库管理工具，支持 20 多个数据库.
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
@@ -63,7 +63,7 @@
 - [PopSQL](https://popsql.com) - 为您的团队提供现代、协作的 SQL 编辑器.
 - [Postico](https://eggerapps.at/postico) - 适用于 Mac 的现代 PostgreSQL 客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（前身为 Robomongo）是一个以 shell 为中心的跨平台 MongoDB 管理工具.
-- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 适用于 macOS 的 MySQL/MariaDB 数据库管理.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro 是一个快速、易于使用的 Mac 数据库管理应用程序，用于处理 MySQL 和 MariaDB 数据库.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
@@ -116,7 +116,7 @@
 - [Reshape](https://github.com/fabianlindfors/reshape) - 一个易于使用、零停机时间的 Postgres 架构迁移工具.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
 - [Skeema](https://github.com/skeema/skeema) - MySQL 和 MariaDB 的声明式纯 SQL 模式管理系统，支持分片和外部在线模式更改工具.
-- [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
+- [Sqitch](https://github.com/sqitchers/sqitch) - 明智的数据库原生变更管理，用于无框架开发和可靠部署.
 - [sqldef](https://github.com/k0kubun/sqldef) - MySQL、PostgreSQL 等的幂等模式管理.
 - [yuniql](https://github.com/rdagumampan/yuniql) - 刚刚使用本机 .NET Core 3.0+ 制作的另一个架构版本控制和迁移工具，希望更好.
 
@@ -137,6 +137,7 @@
 ### Design
 - [Database Design](https://github.com/alextanhongpin/database-design) - 设计健壮的数据库模式的有用技巧.
 - [DBDiagram](https://dbdiagram.io) - 一个免费、简单的工具，只需编写代码即可绘制 ER 图.
+- [DbSchema](https://dbschema.com/)  - 通用数据库设计器，用于开箱即用的模式管理、模式文档、团队设计以及在多个数据库上的部署.  DbSchema 具有用于编写和执行查询、探索数据、生成数据和构建报告的工具.
 - [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler)  - 用于高质量数据模型的易于使用的数据库建模软件. 它是面向数据建模师和数据架构师的完整数据建模解决方案.
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
 - [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler 是一个免费的图形工具，可提高生产力并简化数据建模任务.
@@ -197,7 +198,7 @@
 - [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) - 提供 Oracle 和 PostgreSQL 数据库中活动会话历史数据的图形视图.
 - [Monyog](https://www.webyog.com/product/monyog) - 无代理且经济高效的 MySQL 监控工具.
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) - 使用 collectd、InfluxDB 和 Grafana 监控 Linux 上的 SQL Server 性能.
-- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
+- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - 一个安全、简单、无代理的远程服务器监控工具，具有强大的功能，使您的监控尽可能有效.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - 用于管理和监控 MySQL 和 MongoDB 性能的开源平台.
 - [pganalyze collector](https://github.com/pganalyze/collector) - 用于收集 PostgreSQL 指标和日志数据的 Pganalyze 统计收集器.
 - [pgbadger](https://github.com/dalibo/pgbadger) - 一个快速的 PostgreSQL 日志分析器.
@@ -221,7 +222,7 @@
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 一起使用，为 Oracle 数据库提供多层监控、性能和可用性报告和测量，以及服务器性能指标.
-- [pg_monz](https://github.com/pg-monz/pg_monz) - 这是 PostgreSQL 数据库的 Zabbix 监控模板.
+- [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 - [Pyora](https://github.com/bicofino/Pyora) - 用于监控 Oracle 数据库的 Python 脚本.
 - [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA 是快速、灵活且持续开发的插件，用于监控您的 RDBMS.
 
@@ -229,7 +230,7 @@
 ## Testing
 - [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对您的数据库代码进行简单的测试驱动开发.
 - [RegreSQL](https://github.com/dimitri/regresql) - 回归测试您的 SQL 查询.
-- [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
+- [SQLancer](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 
 ## HA/Failover/Sharding
@@ -246,7 +247,7 @@
 
 
 ## Kubernetes
-- [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
+- [KubeDB](https://kubedb.com) - 在 Kubernetes 上轻松运行生产级数据库.
 - [Postgres operator](https://github.com/zalando/postgres-operator) - Postgres Operator 在由 Patroni 提供支持的 Kubernetes (K8s) 上启用高可用性 PostgreSQL 集群.
 - [Spilo](https://github.com/zalando/spilo) - 使用 Docker 的 HA PostgreSQL 集群.
 - [StackGres](https://gitlab.com/ongresinc/stackgres) - Kubernetes 上的企业级全栈 PostgreSQL.
@@ -300,7 +301,7 @@
 
 ### Formatters
 - [CodeBuff](https://github.com/antlr/codebuff) - 通过机器学习实现与语言无关的漂亮打印.
-- [pgFormatter](https://github.com/darold/pgFormatter) - 一个 PostgreSQL SQL 语法美化器.
+- [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 - [Poor SQL](https://poorsql.com) - 即时免费和开源的 T-SQL 格式. 
 - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - 用于漂亮打印 SQL 查询的 JavaScript 库.
 

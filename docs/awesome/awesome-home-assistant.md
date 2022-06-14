@@ -35,7 +35,7 @@ Awesome Home Assistant 是一个精选的很棒的列表
 
 Awesome Home Assistant 是一个很棒的列表，适合那些试图自动化每个
 他们家的一面. 使您的家庭自动化是一个漫长、艰难且从未完成的过程
-通常涉及大量修补的任务.
+task that usually involves a lot of tinkering.
 
 您可以通过以下方式浏览列表：
 
@@ -142,13 +142,13 @@ _任何人都可以创建附加组件，以下是由社区创建的._
 - [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) - 基于浏览器的实时日志查看实用程序.
 - [Tautulli](https://github.com/hassio-addons/addon-tautulli) - 监控并从您的 Plex 服务器获取统计信息.
 - [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单、优雅且功能丰富的 CCTV/NVR 摄像机.
-- [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码、方程式、可视化和解释性文本的文档.
+- [JupyterLab](https://github.com/hassio-addons/addon-jupyterlab) - 创建包含实时代码、方程式、可视化和解释性文本的文档.
 - [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到 Google Drive.
-- [Glances](https://github.com/hassio-addons/addon-glances) - 用 Python 编写的跨平台系统监控工具.
+- [Glances](https://github.com/hassio-addons/addon-glances) - A cross-platform system monitoring tool written in Python.
 - [Matrix](https://github.com/hassio-addons/addon-matrix) - 一个安全和分散的通信平台.
 - [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 一个网络范围的广告和跟踪器阻止具有家长控制的 DNS 服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) - Traccar 是现代 GPS 跟踪平台.
-- [Home Panel](https://github.com/hassio-addons/addon-home-panel) - A touch-compatible web frontend for controlling the home.
+- [Home Panel](https://github.com/hassio-addons/addon-home-panel) - 用于控制家庭的触摸兼容网络前端.
 - [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) - 一个完整且易于配置的解决方案，用于将您的快照备份到 Google Drive.
 - [Grocy](https://github.com/hassio-addons/addon-grocy)  - ERP 超越您的冰箱！ 适合您家的杂货和家庭管理解决方案.
 - [EmonCMS](https://github.com/inverse/hassio-addon-emoncms) - 一个强大的开源网络应用程序，用于处理、记录和可视化能源、温度和其他环境数据.
@@ -163,6 +163,7 @@ _Home Assistant 前端已经很漂亮了，但你可以自定义它
 - [Share the Love](https://sharethelove.io) - Lovelace 的自定义卡片演示和配置示例.
 - [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) - JuanMTech 为初学者提供的优秀分步视频.
 - [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) - 在您的前端使用来自 Font Awesome 的免费图标.
+- [Hass Hue Icons](https://github.com/arallsopp/hass-hue-icons) - 额外的飞利浦 Hue 灯泡和灯具图标.
 
 ### Themes
 
@@ -218,16 +219,17 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) - LG TV WebOS 的遥控器.
 - [Restriction Card](https://github.com/iantrich/restriction-card) - 提供对其中定义的 Lovelace 卡的限制的卡.
 - [Vacuum Card](https://github.com/denysdovhan/vacuum-card) - 用于控制真空吸尘器机器人的卡对卡.
-- [Purifier Card](https://github.com/denysdovhan/purifier-card) - A card for controlling air purifiers.
+- [Purifier Card](https://github.com/denysdovhan/purifier-card) - 用于控制空气净化器的卡.
 - [Raspberry Pi Status Card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - 显示您的树莓派的状态.
 
 ### Alternative Dashboards
 
 - [TileBoard](https://github.com/resoai/TileBoard) - 一个简单但高度可配置的仪表板.
+- [Dwains Dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) - 适用于台式机、平板电脑和移动设备的全自动生成仪表板.
 
-## Custom Components
+## Custom Integrations
 
-_家庭助理的附加组件，由社区创建._
+_由社区创建的家庭助理的其他集成._
 
 - [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 将设备跟踪器位置转换为人类可读的地址.
 - [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - 集成 Lutron Caseta Smart Bridge PRO / RA2 Select.
@@ -243,6 +245,7 @@ _家庭助理的附加组件，由社区创建._
 - [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) - 昼夜节律照明缓慢地将您的变色灯与全天正常自然发生的天空色温同步.
 - [HASS Aarlo](https://github.com/twrecked/hass-aarlo)  - 异步 Arlo 集成. 类似于 Arlo 网站； 监控所有基站、摄像头和门铃的事件和状态.
 - [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - 无需生根即可显示小米（Roborock/Viomi/Roidmi/Dreame）真空吸尘器的实时视图.
+- [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - 通过 WebRTC 或带有平移/缩放控件的 MSE 实时查看来自 IP 摄像机的 RTSP 流.
 
 ## DIY
 
@@ -298,7 +301,7 @@ _坐下来，放松，观看和学习._
 - [DrZzs](https://www.youtube.com/channel/UC7G4tLa4Kt6A9e3hJ-HO8ng) - 很棒的操作视频和直播.
 - [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - 教程等，还有关于家庭自动化的视频.
 - [HASSCASTS](https://www.youtube.com/channel/UCGOCeqMJnLvr-5C-ypUw7IQ) - 提示、技巧和教程，主要转向直播.
-- [JuanMTech](https://www.youtube.com/juanmtech) - Easy to follow how-to videos, product reviews and more.
+- [JuanMTech](https://www.youtube.com/juanmtech) - 易于遵循的操作视频、产品评论等.
 - [vCloudInfo](https://www.youtube.com/vCloudInfo) - 根据他的家和 GitHub 存储库发布视频.
 - [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - 硬件项目和 Tasmota 自动化教程.
 - [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - 教程和评论：相机、家庭网络、ESP8266 板、Node-RED.
@@ -336,7 +339,7 @@ _有价值的链接，不属于上述任何类别（还！）._
 - [hassctl](https://github.com/dale3h/hassctl) - 简单的命令行实用程序可帮助调试您的配置.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - 用于开发自定义语音助手的工具包.
 - [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) - 高度可配置的 Android Kiosk 浏览器和应用启动器.
-- [AppDaemon](https://github.com/AppDaemon/appdaemon) - AppDaemon 是用于编写自动化应用程序的松散耦合、多线程、沙盒 Python 执行环境.
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
 - [Developer Documentation](https://developers.home-assistant.io/) - 官方开发者文档.
 - [HASS Configurator](https://github.com/danielperna84/hass-configurator) - 基于浏览器的配置文件编辑器.
 - [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) - 用于控制 Docker 容器的 RESTful 开关的 Node.js 服务.

@@ -4,7 +4,7 @@
 <!--lint ignore double-link-->
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-gatling/master/assets/images/gatling-logo.svg?sanitize=true" align="right" width="260" alt="Gatling">](https://gatling.io/)
 <!--lint ignore double-link-->
-精选的资源集合，涵盖负载测试的所有方面，使用 [Gatling](https://gatling.io/) 和相关的东西：插件、集成、测试技术、DevOps 实践等.
+精选的资源集合，涵盖负载测试的各个方面，使用 [Gatling](https://gatling.io/) 和相关的东西：插件、集成、测试技术、DevOps 实践等.
 <!--lint ignore double-link-->
 > [Gatling](https://gatling.io/) 是一个基于 Scala、Akka 和 Netty 的开源负载和性能测试框架.
 
@@ -119,16 +119,17 @@
 
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - 免费软件测试和验证资源列表.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - 精选的测试资源列表.
-- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - 有助于了解页面速度和用户体验的指标.
-- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - Web 性能优化的精选列表.
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - 可扩展、可靠和高性能的大型系统的模式.
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - 现场可靠性和生产工程资源的精选列表.
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - 开源负载测试和性能测量工具，用 Java 编写.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - 开源多协议分布式负载测试工具，用 Erlang 开发.
 - [Awesome k6](https://github.com/grafana/awesome-k6) - 开源、以开发人员为中心的性能监控和负载测试解决方案.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - 用 Python 编写的开源可扩展负载测试框架.
 
+### Other
+
+- [How They Load Test](https://github.com/aliesbelik/how-they-load) - 有关世界各地公司如何执行负载测试的公开可用资源的精选集合.
+- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - 用于调试、基准测试、加载和压力测试您的代码或服务的开源工具集合.
+
 ## Contributing
 
 欢迎投稿！<br>
-请看一下 [contribution guidelines](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md) 第一的.
+请看一下 [CONTRIBUTING](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md) 首先是指导方针.

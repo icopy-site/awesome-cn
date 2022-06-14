@@ -88,6 +88,7 @@
 - [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从 IDE 运行 k6 的市场扩展.
+- [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
 
 
 ## CI

@@ -107,7 +107,7 @@
 - [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 - [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - 为 FormKit 添加输入和表单状态的变体.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 组件.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 成分.
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加一个 `responsive-embed` 组件.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 基于 Bootstrap 的表格添加表格组件.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.
@@ -223,6 +223,7 @@
 - [clb](https://github.com/crswll/clb) - clb（类列表生成器）是一个实用函数，它基于 [Stitches](https://stitches.dev/) 像 API.
 - [Inspect Flow](https://inspectflow.io) - Tailwind CSS 的完整开发人员工具.
 - [twined-components](https://github.com/lowfront/twined-components) - 样式化组件的扩展组件，它优先考虑在 Tailwind CSS 中使用的类名.
+- [Tails Devtools](https://github.com/vechai/tails-devtools) - Tailwind CSS 的多合一浏览器扩展.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.

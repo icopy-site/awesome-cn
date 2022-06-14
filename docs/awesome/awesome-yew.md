@@ -44,7 +44,7 @@
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
 - [Freecell](https://github.com/Stigjb/freecell) - 用 Rust 和 Yew 编写的耐心游戏.
 - [Daydream](https://github.com/MTRNord/Daydream) - 一个用 Rust 编写的小型 Matrix Web 客户端.
-- [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - 使用 Yew 进行的简单 WebRTC 聊天.
+- [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - 使用 Rust、Wasm 和 Yew 编写的单页应用程序 (SPA).
@@ -77,6 +77,7 @@
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 一个用 Rust 编写的快速打字网络应用程序.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - 这是 wecome KM ITB 的 monorepo， [Live Demo](https://wecome-itb.com/).
 - [blog-rs](https://github.com/songday/blog-rs)  - 一个前端和后端都用 Rust 编写的博客系统. 后端由 Warp 提供支持，前端基于 Yew (WASM).
+[mb2](https://devctm.com)  - 带有 Yew 客户端的扑克服务器. 点击“Demo”按钮，然后点击“Start”查看客户端.
 
 ## Templates
 
@@ -130,7 +131,7 @@
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 适用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
-- [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
+- [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的范围 CSS.
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 
 ### Wasm
