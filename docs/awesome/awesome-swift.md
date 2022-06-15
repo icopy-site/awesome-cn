@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1088 |  2022 年 5 月 28 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1089 |  2022 年 6 月 15 日
 
 
 
@@ -60,7 +60,7 @@
 
 ## Boilerplates
 
-* [iOS project template](https://github.com/messeb/ios-project-template) - iOS 项目模板，带有 fastlane 通道、Travis CI 作业和 Codecov 的 GitHub 集成、用于 SwiftLint 和 Danger 的 HoundCI.
+* [iOS project template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 * [Swift Module Template](https://github.com/fulldecent/swift5-module-template) - 令人敬畏的、可重用模块的自以为是的起点.
 
 ## REPL
@@ -661,7 +661,7 @@
 
 
 #### 3D Touch
-*Easy handle new 3D Touch / Force Touch feature thanks to these libs.* [back to top](#readme) 
+*借助这些库，轻松处理新的 3D Touch / Force Touch 功能.* [back to top](#readme) 
 
 
 #### Bluetooth
@@ -724,6 +724,7 @@
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 是一个获得 BSD 许可的框架，用于 GPU 加速的视频和图像处理.
 * [GPUImage 3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 是一个获得 BSD 许可的框架，用于使用 Metal 进行 GPU 加速的视频和图像处理.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - 适用于 iOS 的轻量级通用缓存，特别喜欢图像.
+* [Harbeth](https://github.com/yangKJ/Harbeth) - 用于 GPU 加速图形和视频以及相机过滤器框架的金属 API.
 * [ImageDetect](https://github.com/Feghal/ImageDetect) - 使用 iOS 11 Vision API 检测和裁剪图像中的人脸、条形码和文本.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - 适用于 iOS 的轻量级快速图像加载器.
 * [ImageScout](https://github.com/kaishin/ImageScout) - 实施 [fastimage](https://pypi.org/project/fastimage/0.2.1/) - 支持 PNG、GIF 和 JPEG.
@@ -784,7 +785,7 @@
 * [CGLayout](https://github.com/k-o-d-e-n/CGLayout) :penguin: - 强大的自动布局框架，可以管理 UIView(NSView)、CALayer、未渲染视图等.提供占位符.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的 Facebook 瑜伽 Flexbox 实现的漂亮和干净的界面.
 * [Grid](https://github.com/exyte/Grid) - SwiftUI 中最强大的 Grid 容器.
-* [LayoutKit](https://github.com/LinkedInAttic/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
+* [LayoutKit](https://github.com/LinkedInAttic/LayoutKit) - LayoutKit 是适用于 iOS、macOS 和 tvOS 的快速视图布局库.
 * [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - 编写更少的 UI 代码.
 * [Neon](https://github.com/mamaral/Neon) - 一个强大的程序化 UI 布局框架.
 * [PinLayout](https://github.com/layoutBox/PinLayout)  - 没有自动布局的快速视图布局. 没有魔法，纯代码，完全控制和超快. 简洁的语法，直观，可读和可链接.  [iOS/macOS/tvOS]
@@ -1217,7 +1218,7 @@
 * [SwiftyUI](https://github.com/haoking/SwiftyUI) - 高性能和轻量级的 UIView、UIImage、UIImageView、UIlabel、UIButton 等.
 * [TagListView](https://github.com/ElaWorkshop/TagListView) - 简单但高度可定制的 iOS 标签列表视图.
 * [Toaster](https://github.com/devxoul/Toaster) - 通知祝酒.
-* [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - 具有单行代码的轻量级触摸可视化库.
+* [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle](https://github.com/piemonte/Twinkle) - 让您的 iOS 应用程序中的元素闪烁的简单方法.
 * [UIPheonix](https://github.com/MKGitHub/UIPheonix) - 简单、灵活、动态和高度可扩展的 UI 框架 + 可重用组件/控件驱动应用程序的概念.
 * [UltraDrawerView](https://github.com/super-ultra/UltraDrawerView) - 轻量级、快速和可定制的抽屉视图实现与 Apple 地图、股票等相同.
@@ -1399,7 +1400,7 @@
 [back to top](#readme) 
 
 * [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - 适用于 iOS 的可自定义 Switch UI，灵感来自 Google 的 Material Design.
-* [paper-switch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch 是一个材料设计 UI 模块，当打开开关时，它会在父视图上进行绘制.
+* [paper-switch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch 是一个材料设计 UI 模块，当开关打开时，它会在父视图上进行绘制.
 * [Switch](https://github.com/T-Pham/Switch) - 具有完整界面生成器支持的开关控件.
 
 #### Tab
@@ -1432,7 +1433,7 @@
 * [DTTextField](https://github.com/iDhaval/DTTextField) - DTTextField 是一个带有浮动占位符和错误标签的自定义文本字段.
 * [FloatingLabelTextFieldSwiftUI](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - FloatingLabelTextFieldSwiftUI 是一个小而轻的 SwiftUI 框架，完全用 SwiftUI（不使用 UIViewRepresentable）编写，允许创建漂亮且可自定义的浮动标签文本字段！
 * [HTYTextField](https://github.com/hanton/HTYTextField) - 带有弹性占位符的 UITextField.
-* [iTextField ⌨️](https://github.com/benjaminsage/iTextField) - 一个完全包装的 `UITextField` 完全在 SwiftUI 中工作.
+* [iTextField ⌨️](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 * [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - 带有可切换图标的自定义文本字段，可显示或隐藏密码并执行良好的密码策略.
 * [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - “浮动标签模式”的美观灵活的文本字段控件实现.
 * [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) - 声明式构建和快速渲染属性字符串库.
@@ -1577,7 +1578,7 @@
 * [SwiftBoost](https://github.com/sparrowcode/SwiftBoost) - 收集 Swift 扩展以促进开发过程.
 * [Swiftbot](https://github.com/noppefoxwolf/Swiftbot) - 在 slack 上运行 swift 代码.
 * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - 包含 500 多个本地扩展的便捷集合，可提高您的工作效率.
-* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - 为所有 Storyboard、Scenes 和 Segues 常量 + 适当的便利访问器自动生成“枚举”的工具.
+* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - 为您的所有故事板、场景和 Segues 常量 + 适当的便利访问器自动生成“枚举”的工具.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - 它从一个 url 进行预览，获取所有信息，如标题、相关文本和图像.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML)  - 用于从 Swift 源代码生成 UML 类的命令行工具和 Swift 包. 也可用作 Xcode 源代码编辑器扩展.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - 一个微小的随机数据生成器.

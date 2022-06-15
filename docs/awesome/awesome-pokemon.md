@@ -48,6 +48,7 @@
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - 一个程序，用于识别和显示游戏 Pokémon Shuffle 的最佳下一步动作.
 - [pokecry](https://github.com/fent/pokecry) - 从他们的哭声中猜出神奇宝贝.
 - [Pokedex](https://github.com/skydoves/Pokedex) - 使用 Dagger、Hilt、Motion、Coroutines、Flow 和 Jetpack 的 Android Pokedex.
+- [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) - 从他们的剪影猜测神奇宝贝.
 
 #### Bots
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - 为 Pokestops 和 Pokémon 耕种的 Pokémon GO 机器人.
@@ -69,10 +70,10 @@
 - [x-pokemon](https://github.com/passy/x-pokemon) - 一个显示神奇宝贝的网络组件.
 - [pokered](https://github.com/pret/pokered) - Pokémon Red/Blue 的拆解.
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - 用于编译和反汇编 Pokémon Red 和 Pokémon Crystal 的工具.
-- [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokemon GO WITH Proxy.
+- [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM 代理.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - 带有实时编辑器的 WebGL Pokémon MMO 引擎.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - 向您展示确定哪些神奇宝贝变成糖果所需的 IV 和信息.
-- [PoGoTools](https://github.com/nelsyeung/PoGoTools) - 一组用于获取 IV、转移神奇宝贝、进化神奇宝贝和丢弃物品的 CLI 工具.
+- [PoGoTools](https://github.com/nelsyeung/PoGoTools) - 一套用于获取 IV、转移神奇宝贝、进化神奇宝贝和丢弃物品的 CLI 工具.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - 将所有神奇宝贝上传到 Slack 表情符号的工具.
 - [slack-emoji-pokemon](https://github.com/Templarian/slack-emoji-pokemon) - Slack 的神奇宝贝表情符号列表.
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) - 自动将您的神奇宝贝重命名为他们的 IV 统计数据.
@@ -85,7 +86,7 @@
 
 ## Resources & Others
 #### Communities
-- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokemon GO Subreddit.
+- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon GO Subreddit.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - 逆向工程游戏/API.
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - 非常深入的游戏讨论等.
 - [RazerGo](https://go.razerzone.com/) - 本地化 Pokémon GO 聊天.

@@ -76,7 +76,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 
 -： 钱袋子： [FilterForge](https://www.filterforge.com/) - Adob​​e Photoshop 插件，可让您构建自己的滤镜.
 - ：自由的： [Live Normal](https://tenebrislab.github.io/livenormal/)  - 用于随时随地生成无缝材料的 Android 和 iOS 应用程序. 您拍摄一张照片，Live Normal 创建一个可平铺的纹理并生成纹理贴图，为您选择的 PBR 引擎做好准备.
--： 钱袋子： [PixPlant](http://www.pixplant.com/) - PixPlant 是一款智能 3D 纹理工具，可以从照片中创建高质量的法线、置换、镜面贴图和无缝纹理.
+-： 钱袋子： [PixPlant](http://www.pixplant.com/) - PixPlant 是一款智能 3D 纹理工具，可从照片中创建高质量的法线、置换、镜面贴图和无缝纹理.
 
 #### Character Generators
 
@@ -87,7 +87,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [ArrayPainter](http://arraypainter.com/) - Array Painter 是让 2D 数组准备好复制粘贴到您自己的程序中的最简单和最快的方法.
 -： 钱袋子： [AutoTileGen](http://pixelatto.com) - AutoTileGen 是用于 2D 游戏地形的自动图块集生成器.
 -： 然后： [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk 是一款面向独立开发者的开源 2D 关卡编辑器，非常注重用户友好性.
--： 然后： [OGMO Editor](https://ogmo-editor-3.github.io/)- 通用关卡编辑器.
+-： 然后： [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 -： 然后： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - 具有与引擎无关的理念的 2D 关卡和 UI 编辑器.
 -： 然后： [Tiled](http://www.mapeditor.org/) - 免费、易于使用且灵活的平铺地图编辑器.
 
@@ -98,7 +98,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 -： 钱袋子： [Spine](http://esotericsoftware.com/) - Spine 专注于 2D 动画，提供高效的工作流程，既可以创建令人惊叹的动画，也可以将其集成到您的游戏中.
 -： 钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 精灵动画的现代工具.
 -： 然后： [DragonBones](http://dragonbones.com) - Flash 的开源 2D 骨架动画解决方案
--： 然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而来的动画数据.
+-： 然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而成的动画数据.
 -： 钱袋子： [Mixamo](https://www.mixamo.com/#/) - 3D人形模型的自动装配和动画工具，
 
 #### Vector/Image Editor
@@ -184,7 +184,7 @@ _一套游戏框架、引擎和平台_
 -： 钱袋子： [Construct](https://www.scirra.com/)  - HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
 - ：money_with_wings： [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体式 3D 游戏引擎.非常易于使用.
 -： 然后： [Coquette](http://coquette.maryrosecook.com/)  - JavaScript 游戏的微型框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
--： 然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过它的可视化工具、良好的文档和灵活的模块化库使学习编程变得有趣和游戏开发变得容易.
+-： 然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过其可视化工具、良好的文档和灵活的模块化库，使学习编程变得有趣和游戏开发变得容易.
 -： 然后： [Dash](https://github.com/Circular-Studios/Dash) - 一个免费且开放的 3D 游戏引擎，用 D 语言编写.
 -： 然后： [Dear Imgui](https://github.com/ocornut/imgui/) - 用于 C++ 的无膨胀即时模式 GUI，具有最小的依赖性.
 -： 然后： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
@@ -227,7 +227,7 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中制作具有大块像素的 2D 游戏的框架
 -： 然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
 -： 然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
--： 然后： [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+-： 然后： [KogGE](https://korge.soywiz.com)  - Kotlin 的现代多平台游戏引擎. 使用 Kotlin 立即为 JVM、JavaScript、Android 和 iOS 编写游戏.
 - ：money_with_wings： [Leadwerks](https://www.leadwerks.com/) - 易于学习的 3D 和 VR 游戏引擎.
 -： 然后： [LibGDX](https://libgdx.com/) - 用于 Java 的强大（完全免费）库，只需编写一次代码，即可在桌面、Android、Web 和 iOS 上运行游戏.
 -： 然后： [LimeJS](http://www.limejs.com/) - HTML5 游戏框架，用于为所有现代触摸屏和
@@ -275,17 +275,17 @@ _一套游戏框架、引擎和平台_
 -： 然后： [Ren'Py](http://www.renpy.org/)  - 一个使用 Python 语言的简化形式的开源视觉小说引擎. 它支持 Windows、Mac OS X、Linux、Android 和 iOS.
 -： 然后： [Rpgboss](http://rpgboss.com)  - 基于 scala 和 libgdx 的 2d rpg 游戏引擎和编辑器. 易于使用，无需编程知识.
 -： 然后： [Screen 13](https://github.com/attackgoat/screen-13)  - 一个易于使用的 Vulkan 渲染引擎. 为 Rust 提供渲染图.
--： 然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
+-： 然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问.
 -： 然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 -： 然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于易于迭代和使用.
 -： 然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
 -： 然后： [Spring](http://springrts.com/) - 一个强大的免费跨平台RTS引擎.
 - ：自由的： [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D 游戏引擎.
--： 然后： [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
+-： 然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级快速 2D HTML5 渲染和布局引擎.
 -： 然后： [Starling](http://gamua.com/starling/) - GPU 驱动的 2D Flash API
 - ：money_with_wings： [Stencyl](http://www.stencyl.com/) - 一个游戏创建平台，允许用户为计算机、移动设备和网络创建 2D 视频游戏.
 -： 然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.
--： 然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
+-： 然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作 2D/3D 游戏制作器
 -： 然后： [TIC-80](https://tic.computer/) - TIC-80 是一款用于制作、玩和分享小游戏的梦幻电脑.
 -： 然后： [Three.js](http://threejs.org/) - Javascript 3D 库.
 -： 然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供了构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有沉浸式 3D 效果和实时物理特性，打开了一个前所未有的非凡网络内容的全新世界.
@@ -329,11 +329,11 @@ _音频编辑器、声音收藏等等._
 - ：自由的： [FamiTracker](http://famitracker.com/) - 免费的 Windows 跟踪器，用于为 NES/Famicom 系统制作音乐.
 -： 然后： [jfxr](http://jfxr.frozenfractal.com) - Bfxr 音效生成器的 JavaScript 端口.
 -： 然后： [LMMS](https://lmms.io/) - 跨平台的音乐制作软件.
-- ：自由的： [MadTracker](http://www.madtracker.org/main.php)  - 一种强大而有效的音乐制作方法. 全面的 VST™、ASIO™ 和 ReWire™ 支持保证了多功能性和兼容性.
+- ：自由的： [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 -： 然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - 适用于 Mac/Linux/Windows 平台的开源跟踪器.
 -： 然后： [musagi](http://www.drpetter.se/project_musagi.html) - 开源、相当大和复杂的音乐编辑器和合成器
 -： 然后： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - 开源 MIDI 音序器.
-- ：自由的： [Soundation](https://soundation.com/) - 在线专业音乐工作室.
+- ：自由的： [Soundation](https://soundation.com/) - Online Professional music studio.
 - ：自由的： [SunVox](http://www.warmplace.ru/soft/sunvox/) - 一个小型、快速和强大的模块化合成器，带有基于模式的音序器（跟踪器）.
 -： 钱袋子： [Resemble](https://www.resemble.ai/unity) - Resemble 在 Unity 中的语音克隆引擎
 
@@ -428,6 +428,7 @@ _博客、门户网站、杂志等_
 - [CompoHub](http://compohub.net/) - 一个时间轴上许多游戏果酱的汇编网站.
 - [Game jams on itch.io](https://itch.io/jams) - itch.io 游戏堵塞列表
 - [Game Off](https://gameoff.github.com) - GitHub 的游戏果酱 :octocat:
+- [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - 流行的年度游戏果酱 
 - [Indie Game Jams](http://www.indiegamejams.com/) - 游戏果酱列表
 - [Ludum Dare](http://ludumdare.com/) - 非常受欢迎的游戏果酱
 - [One Hour Game Jam](http://onehourgamejam.com/) - 每周 1 小时游戏果酱
@@ -462,7 +463,7 @@ _我们还需要赚点钱，对吧？_
 
 - [AdMob by Google](https://www.google.com/admob/) - Google 的移动广告和获利服务.
 - [AdColony](http://www.adcolony.com/) - 移动视频广告服务.
-- [Appodeal](http://www.appodeal.com/) - 适用于移动应用的程序化广告中介解决方案.
+- [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 - [ChartBoost](https://www.chartboost.com/) - 货币化、分析平台.
 - [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D 官方广告 SDK.
 - [Vungle](https://vungle.com/) - 视频广告服务.

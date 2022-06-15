@@ -35,7 +35,7 @@ Awesome Home Assistant 是一个精选的很棒的列表
 
 Awesome Home Assistant 是一个很棒的列表，适合那些试图自动化每个
 他们家的一面. 使您的家庭自动化是一个漫长、艰难且从未完成的过程
-task that usually involves a lot of tinkering.
+通常涉及大量修补的任务.
 
 您可以通过以下方式浏览列表：
 
@@ -60,14 +60,14 @@ _有多种方式可以与 Home Assistant 社区取得联系.
 如果您有问题、需要帮助、想要请求功能，都没有关系，
 或者只是说“嗨”._
 
-### Official Channels
+### Official Communities
 
 - [Home Assistant Discord](https://discordapp.com/invite/c5DvZ4e) - 加入聊天，我们大多数人都在那里.
 - [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - 讨论论坛，也用于功能请求.
 - [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - 如果您喜欢 Reddit，请订阅.
 - [Home Assistant Facebook Group](https://www.facebook.com/groups/HomeAssistant/) - 面向爱好者的 Facebook 群组.
 
-### Other Channels
+### Other Communities
 
 - [Dr. ZZs](https://www.facebook.com/groups/1969622823351838/) - Zzs 博士的 Facebook 群组.
 - [Home Assistant Community Add-ons Discord](https://discord.me/hassioaddons) - 获得对 Home Assistant 社区插件的支持.
@@ -82,23 +82,18 @@ _有多种方式可以与 Home Assistant 社区取得联系.
 - [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - 可能是那里记录最多的配置.
 - [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - 也称为 Tinkerer 共享他的配置文件.
 - [geekofweek](https://github.com/geekofweek/homeassistant) - 拥有超过 300 种自动化.
-- [Isabella Gross Alström](https://github.com/isabellaalstrom/home-assistant-config) - Hass.io、英特尔 NUC、Ubuntu、Docker、Lovelace UI.
 - [Mahasri Kalavala](https://github.com/skalavala/mysmarthome) - 令人印象深刻的设置，许多不同的硬件一起工作.
-- [Vasiley](https://github.com/Vasiley/Home-Assistant-Main) - 运行两个一起工作的实例.
 - [Alok Saboo](https://github.com/arsaboo/homeassistant-config)  - 也称为 arsaboo. 定期更新.
 - [Aaron Bach](https://github.com/bachya/smart-home)  - 也称为bachya. 定期更新并包括许多 Dockerized 服务.
-- [James McCarthy](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - 在 YAML 和 Node-RED 中记录良好的 3 个实例和自动化.
 - [Franck Nijhof](https://github.com/frenck/home-assistant-config) - 基于 Hass.io，与其他配置结构非常不同.
-- [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) - 基于 Hass.io，专注于触摸屏的使用.
 - [Klaas Schoute](https://github.com/klaasnicolaas/Student-homeassistant-config) - 基于 Hass.io、Intel NUC、Ubuntu Server、Docker 并定期更新.
-- [Jason Hunter](https://github.com/hunterjm/home-assistant-config) - 基于 Hass.io、英特尔 NUC i5、TensorFlow 和摄像头流.
 - [Andrea Iannucci](https://github.com/SeLLeRoNe/HA-Config)  - 也称为 SeLLeRoNe. 定期更新.
 
 ## Add-ons
 
 _附加组件是附加的应用程序和服务，可以一起运行
 家庭助理. 家庭助理操作系统和监督安装类型，
-提供主管，它能够运行和管理这些附加组件._
+provide the Supervisor, which is capable of running and manage these add-ons._
 
 ### Official Add-ons
 
@@ -117,7 +112,6 @@ _由家庭助理团队创建和维护._
 - [HomeMatic](https://github.com/home-assistant/hassio-addons/blob/master/homematic/DOCS.md) - 基于 OCCU 的 HomeMatic 中央.
 - [Let's Encrypt](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md)  - 从 Let&#39;s Encrypt 获得免费的 SSL 证书； 一个开放和自动化的证书颁发机构 (CA).
 - [MariaDB](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md) - 一个开源关系数据库（MySQL 的分支）.
-- [OpenZWave](https://github.com/home-assistant/hassio-addons/blob/master/zwave/DOCS.md) - 使用带有 QT OpenZWave 守护程序的 Z-Wave USB 记忆棒.
 
 ### Third Party Add-ons
 
@@ -148,10 +142,11 @@ _任何人都可以创建附加组件，以下是由社区创建的._
 - [Matrix](https://github.com/hassio-addons/addon-matrix) - 一个安全和分散的通信平台.
 - [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 一个网络范围的广告和跟踪器阻止具有家长控制的 DNS 服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) - Traccar 是现代 GPS 跟踪平台.
-- [Home Panel](https://github.com/hassio-addons/addon-home-panel) - 用于控制家庭的触摸兼容网络前端.
+- [Home Panel](https://github.com/hassio-addons/addon-home-panel) - A touch-compatible web frontend for controlling the home.
 - [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) - 一个完整且易于配置的解决方案，用于将您的快照备份到 Google Drive.
 - [Grocy](https://github.com/hassio-addons/addon-grocy)  - ERP 超越您的冰箱！ 适合您家的杂货和家庭管理解决方案.
 - [EmonCMS](https://github.com/inverse/hassio-addon-emoncms) - 一个强大的开源网络应用程序，用于处理、记录和可视化能源、温度和其他环境数据.
+- [CrowdSec](https://github.com/crowdsecurity/home-assistant-addons) - 下一代协作 IPS/IDS，保护您免受入侵.
 
 ## Dashboards
 
@@ -162,6 +157,9 @@ _Home Assistant 前端已经很漂亮了，但你可以自定义它
 - [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) - DrZzs 对 Lovelace UI 的精彩介绍.
 - [Share the Love](https://sharethelove.io) - Lovelace 的自定义卡片演示和配置示例.
 - [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) - JuanMTech 为初学者提供的优秀分步视频.
+
+### Icon packs
+
 - [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) - 在您的前端使用来自 Font Awesome 的免费图标.
 - [Hass Hue Icons](https://github.com/arallsopp/hass-hue-icons) - 额外的飞利浦 Hue 灯泡和灯具图标.
 
@@ -339,7 +337,7 @@ _有价值的链接，不属于上述任何类别（还！）._
 - [hassctl](https://github.com/dale3h/hassctl) - 简单的命令行实用程序可帮助调试您的配置.
 - [rhasspy](https://github.com/rhasspy/rhasspy) - 用于开发自定义语音助手的工具包.
 - [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) - 高度可配置的 Android Kiosk 浏览器和应用启动器.
-- [AppDaemon](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) - AppDaemon 是用于编写自动化应用程序的松散耦合、多线程、沙盒 Python 执行环境.
 - [Developer Documentation](https://developers.home-assistant.io/) - 官方开发者文档.
 - [HASS Configurator](https://github.com/danielperna84/hass-configurator) - 基于浏览器的配置文件编辑器.
 - [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) - 用于控制 Docker 容器的 RESTful 开关的 Node.js 服务.

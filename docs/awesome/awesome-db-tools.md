@@ -24,6 +24,7 @@
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - 用于 Oracle 管理、管理和开发的强大 IDE.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - 用于管理和开发数据库和对象的 GUI 工具.
 - [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - 用于 SQL Server 开发、管理、管理、数据分析和报告的强大集成开发环境.
+- [DBHawk](https://www.datasparc.com/) - Datasparc 提供数据库安全、数据库管理、数据库治理和数据分析 - 一站式解决方案.
 - [dbKoda](https://github.com/SouthbankSoftware/dbkoda)  - 现代（JavaScript/Electron 框架），MongoDB 的开源 IDE. 它具有支持 MongoDB 数据库的开发、管理和性能调整的功能.
 - [IBExpert](http://www.ibexpert.net/ibe) - Firebird 和 InterBase 的综合 GUI 工具.
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - 用于管理 MySQL、MSSQL 和 PostgreSQL 的轻量级客户端，用 Delphi 编写.
@@ -37,7 +38,7 @@
 - [Slashbase](https://github.com/slashbase/slashbase)  - 用于数据库的开源协作 IDE. 直接从您的浏览器连接到您的数据库、浏览数据、运行大量 SQL 命令或与您的团队共享 SQL 查询.
 - [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) 是一个集成环境，用于管理 SQL Server 和 Azure SQL 数据库的任何 SQL 基础结构.
 - [Toad](https://www.quest.com/toad/)  - Toad 是面向开发人员、管理员和数据分析师的首选数据库解决方案. 使用单一数据库管理工具管理复杂的数据库更改.
-- [Toad Edge](https://www.toadworld.com/products/toad-edge) - MySQL 和 Postgres 的简化数据库开发工具.
+- [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and Postgres.
 - [TOra](https://github.com/tora-tool/tora) - TOra 是用于 Oracle、MySQL 和 PostgreSQL 数据库的开源 SQL IDE.
 - [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 免费创建、管理、查询和探索 Valentina DB、MySQL、MariaDB、PostgreSQL 和 SQLite 数据库.
 
@@ -122,7 +123,7 @@
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
 
 ### Diagrams
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
@@ -158,6 +159,7 @@
 - [PostGraphile](https://github.com/graphile/postgraphile) - 通过将 PostGraphile 指向您现有的 PostgreSQL 数据库，立即启动 GraphQL API 服务器.
 - [PostgREST](https://github.com/PostgREST/postgrest) - 任何 Postgres 数据库的 REST API.
 - [prest](https://github.com/prest/prest) - 是一种从任何用 Go 编写的数据库提供 RESTful API 的方法.
+- [Remult](https://github.com/remult/remult) - 通过 REST API 为您的数据库提供端到端类型安全的 CRUD，并具有细粒度的访问控制.
 - [restSQL](https://github.com/restsql/restsql) - 带有 Java 和 HTTP API 的 SQL 生成器，使用带有 XML 或 JSON 序列化的简单 RESTful HTTP API.
 - [resquel](https://github.com/formio/resquel) - 轻松将您的 SQL 数据库转换为 REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - 为您的旧数据库自动生成 RESTful API 服务.
@@ -222,7 +224,7 @@
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 一起使用，为 Oracle 数据库提供多层监控、性能和可用性报告和测量，以及服务器性能指标.
-- [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
+- [pg_monz](https://github.com/pg-monz/pg_monz) - 这是 PostgreSQL 数据库的 Zabbix 监控模板.
 - [Pyora](https://github.com/bicofino/Pyora) - 用于监控 Oracle 数据库的 Python 脚本.
 - [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA 是快速、灵活且持续开发的插件，用于监控您的 RDBMS.
 
