@@ -76,10 +76,11 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Chainlink Feed Pallet](https://github.com/smartcontractkit/chainlink-polkadot) - Chainlink 提要令牌接口.
 - [Official in Substrate](https://github.com/paritytech/substrate/tree/master/frame) - 大量收藏，保持平价.
-- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
+- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - 社区维护的 Substrate 运行时模块集合.
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - 用于管理赏金计划的分布式自治组织 (DAO).
 - [Sunshine Identity](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/identity/pallet) - 受 Keybase 启发的身份管理.
 - [Sunshine Faucet](https://github.com/sunshine-protocol/sunshine-keybase/tree/master/faucet/pallet) - 为开发链分配资源.
+- [RMRK Pallets](https://github.com/rmrk-team/rmrk-substrate) - 嵌套、条件和多资源 NFT.
 
 ## Framework Extensions
 
@@ -120,7 +121,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - 基材注入 [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 包含 Polkadot{JS} 库的独立 JS 包.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 用于启动本地 Polkadot 测试网络的简单 CLI 工具.
-- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一种 [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
+- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一个 [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
 - [`polkadot-scripts`](https://github.com/paritytech/polkadot-scripts) - Parity 用于诊断 Polkadot/Kusama 的脚本集合.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地 Polkadot 测试网络的工具，重点是运行大型测试网络的能力.
 - [`srtool-actions`](https://github.com/chevdor/srtool-actions) - GitHub 操作可轻松使用 `srtool` Docker 映像来构建您自己的运行时.
@@ -132,6 +133,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - 绘制框架托盘的基准输出.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities)  - 一组使用 Polkadot{JS} API 的用于 Substrate 的有用 JavaScript 实用程序； 还 [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-society`](https://github.com/shawntabrizi/substrate-society) - FRAME Society 托盘的基本前端.
+- [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - toml 解析器和检查器，以避免 Substrate 项目中的常见错误.
 - [`subwasm`](https://github.com/chevdor/subwasm)  - CLI 离线检查运行时 WASM blob. 它显示信息、元数据并可以比较运行时. 它还可以帮助您直接从节点获取运行时.
 - [`sup`](https://github.com/clearloop/sup) - 用于生成或升级 Substrate 节点的命令行工具.
 - [Aleph.im](https://aleph.im) - 用于 Substrate 链等的可扩展、去中心化数据库、文件存储和计算服务.
@@ -152,7 +154,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 用于与基于 Substrate 的链交互的浏览器扩展.
 - [Polkascan](https://polkascan.io/) - 由 Polkascan 基金会维护的多链区块浏览器.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - 演示基于 Substrate 原语构建的安全、方便和灵活的热钱包架构.
-- [Redspot](https://github.com/patractlabs/redspot) - 一种 [Truffle](https://www.trufflesuite.com/truffle)- 类似于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
+- [Redspot](https://github.com/patractlabs/redspot) - 一个 [Truffle](https://www.trufflesuite.com/truffle)- 类似于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - 与 Substrate 节点一起运行的 REST 服务.
 - [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - 显示带有所有 SS58 前缀的密钥收件人.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 用于解析和输出给定 Kusama 或 Polkadot 地址的质押奖励并将其与每日价格数据交叉引用的脚本.
@@ -183,7 +185,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - 由 LimeChain 维护.
 - [C](https://github.com/MatthewDarnell/cScale) - 由马修达内尔维护.
 - [C++](https://github.com/soramitsu/scale-codec-cpp) --由Soramitsu维护.
-- [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - 官方编解码器文档.
+- [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
 - [Go](https://github.com/itering/scale.go) - 由维护 [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - 由维护 [Robonomics Network](https://robonomics.network/).
 - [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - 由维护 [Emerald](https://emerald.cash/).
@@ -192,6 +194,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Ruby](https://github.com/itering/scale.rb) - 由 Itering 维护.
 - [Scales](https://github.com/virto-network/scales) - 使用类型注册表中的类型信息序列化 SCALE.
 - JavaScript / TypeScript 实现：
+  - [paritytech/parity-scale-codec-ts](https://github.com/paritytech/parity-scale-codec-ts) - 由 Parity Technologies 维护.
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.
   - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - 由 Josep M Sobrepere 维护.
   - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) --由Soramitsu维护. 

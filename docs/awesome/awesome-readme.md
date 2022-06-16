@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
 
-## Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+## Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 &gt; 精选自述文件列表
 
 精美的 README 中的元素包括但不限于：图像、屏幕截图、GIF、文本格式等.
@@ -12,7 +12,7 @@
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - 项目标志、清晰的描述、屏幕截图、分步安装说明.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图. 目录便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 徽章、项目 GIF、简明描述、快速链接、逐步安装说明.
-- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+- [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 对它是什么的极简描述. 项目的 GIF 演示. 主要特征. 如何安装指南. 学分.
 - [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标志. 简要说明. 解释了所有功能. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
@@ -32,10 +32,11 @@
 - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme)  - 清晰的描述. 项目标志. 应用商店徽标. 目录干净的屏幕截图. 功能列表. 详细的安装过程. 登陆页面.
 - [gofiber/fiber](https://github.com/gofiber/fiber#readme)  - 清洁项目标志. 有用的徽章和链接（语言切换器、代码风格、测试封面、文档、Discord 频道）. 通过快速入门、基准图表、有据可查的代码示例（具有隐藏长内容的能力）、项目理念说明（“项目的原因”）、带有项目插件的表格、贡献者列表、星号，清楚地描述项目所做的事情增长统计等.
 - [Hexworks/Zircon](https://github.com/Hexworks/zircon#readme)  - 自述文件中的 Dogfood. 清楚地描述项目的作用. 演示截图. 目录便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
+- [httpie/httpie](https://github.com/httpie/httpie#readme)  - 项目做什么的描述. 演示截图. 项目标志. 目录便于导航. 建立徽章. 快速简单的安装和使用部分. 包括示例部分.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme)  - 项目登陆页面. 清楚地描述项目的作用. 演示截图. 简单的安装和使用部分. 包括一个具有常见用途的示例部分和一个移动演示部分.
 - [iterative/dvc](https://github.com/iterative/dvc#readme)  - ReStructuredText 格式示例，兼容 PyPi. 徽标，自定义网站式菜单. 流畅的工作方式动画. 徽章. 名人堂的贡献部分很好.
-- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie#readme)  - 项目做什么的描述. 演示截图. 项目标志. 目录便于导航. 建立徽章. 快速简单的安装和使用部分. 包括示例部分.
 - [karan/joe](https://github.com/karan/joe#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 易于安装和使用部分.
+- [kopach/karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter#readme)  - 项目标志. 有用的徽章，清晰的自述文件和快速演示的截图. 简洁的 ToC.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme)  - 项目标志. 极简主义的描述. 徽章.  GIF 演示. 关于该项目. 如何使用. 例子. 学分. 其他示例. 
 - [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme)  - 美丽的目录. 项目标志. 动画项目横幅. 完整的项目文件夹结构. 清楚地描述项目的作用. 不错的贡献者部分. 轻松导航.
 - [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme)  - 美丽的目录. 项目标志. 动画项目横幅. 合适的 GIF 来显示项目的每个部分. 存储库中项目文件的完整列表及其功能. 完成执行指令.
@@ -62,6 +63,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 建立徽章. 演示截图. 简单的安装和使用部分. 包括一个具有常见用途的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制的号召性用语徽章. 使用展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁标志. 发展的简要更新. 详细的贡献指南. 贡献建议.
+- [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme)  - 之所以脱颖而出，是因为它虽然只是一个简单的网站，但它是一个非常开放的项目，可供经验不足的开发人员开始使用，并具有友好、包容的语气和易于理解的设置说明. 包括在其他漂亮的自述文件中发现的许多常见元素.
 - [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目标志，有用的徽章，在哪里可以找到更多信息和报告错误的明确说明，GIF 截图，很好地使用表情符号.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 一步一步的安装说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多图解的例子.
@@ -73,7 +75,7 @@
 
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme#readme) - *斯蒂芬·惠特莫尔*
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - * 叶戈尔·布加延科 *
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *迦勒汤普森（思想机器人）*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *汤姆普雷斯顿 - 沃纳*
@@ -83,7 +85,7 @@
 ## Tools
 
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - 有用的 README.md、LICENSE、CONTRIBUTING.md、CODE_OF_CONDUCT.md、SECURITY.md、GitHub 问题、拉取请求和操作模板来快速启动您的项目.
-- [Common Readme](https://github.com/noffle/common-readme#readme)  - Node 的常见自述文件样式. 包括指南和自述文件生成器.
+- [Common Readme](https://github.com/hackergrrl/common-readme#readme)  - Node 的常见自述文件样式. 包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - 自述文件编辑和项目分析/反馈.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  - 帮助在 README 上向 repo 贡献者表示认可. 具有新/趋势/顶级贡献者. 每小时更新一次.
 - [Make a README](https://www.makeareadme.com/)  - 编写自述文件的指南. 包括带有实时 Markdown 渲染的可编辑模板.

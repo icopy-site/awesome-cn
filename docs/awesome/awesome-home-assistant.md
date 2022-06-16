@@ -93,7 +93,7 @@ _有多种方式可以与 Home Assistant 社区取得联系.
 
 _附加组件是附加的应用程序和服务，可以一起运行
 家庭助理. 家庭助理操作系统和监督安装类型，
-provide the Supervisor, which is capable of running and manage these add-ons._
+提供主管，它能够运行和管理这些附加组件._
 
 ### Official Add-ons
 
@@ -101,7 +101,7 @@ _由家庭助理团队创建和维护._
 
 - [DuckDNS](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) - 使用 Let&#39;s Encrypt 更新您的 Duck DNS IP 地址并生成 SSL.
 - [File editor](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) - 基于浏览器的配置文件编辑器.
-- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) - 快速可靠的 MQTT 代理.
+- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) - Fast and reliable MQTT broker.
 - [Terminal & SSH](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) - 允许远程登录以使用 Web 终端或 SSH 客户端.
 - [Samba](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) - 使用 Windows 网络共享访问您的配置文件.
 - [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) - 带有 SSL 终止的反向代理.
@@ -142,7 +142,7 @@ _任何人都可以创建附加组件，以下是由社区创建的._
 - [Matrix](https://github.com/hassio-addons/addon-matrix) - 一个安全和分散的通信平台.
 - [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 一个网络范围的广告和跟踪器阻止具有家长控制的 DNS 服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) - Traccar 是现代 GPS 跟踪平台.
-- [Home Panel](https://github.com/hassio-addons/addon-home-panel) - A touch-compatible web frontend for controlling the home.
+- [Home Panel](https://github.com/hassio-addons/addon-home-panel) - 用于控制家庭的触摸兼容网络前端.
 - [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) - 一个完整且易于配置的解决方案，用于将您的快照备份到 Google Drive.
 - [Grocy](https://github.com/hassio-addons/addon-grocy)  - ERP 超越您的冰箱！ 适合您家的杂货和家庭管理解决方案.
 - [EmonCMS](https://github.com/inverse/hassio-addon-emoncms) - 一个强大的开源网络应用程序，用于处理、记录和可视化能源、温度和其他环境数据.
@@ -162,6 +162,7 @@ _Home Assistant 前端已经很漂亮了，但你可以自定义它
 
 - [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) - 在您的前端使用来自 Font Awesome 的免费图标.
 - [Hass Hue Icons](https://github.com/arallsopp/hass-hue-icons) - 额外的飞利浦 Hue 灯泡和灯具图标.
+- [simpleicons](https://github.com/vigonotion/hass-simpleicons) - 使用 simpleicons 集中的免费图标.
 
 ### Themes
 
@@ -194,7 +195,6 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [Mini Media Player](https://github.com/kalkih/mini-media-player) - 简约的媒体播放器卡.
 - [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - 简约的传感器图形卡.
 - [Button card](https://github.com/kuuji/button-card) - 您的实体的按钮卡.
-- [Swiper card](https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck) - 轻弹/刷卡多张卡片.
 - [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - 添加一个滑块来调整，例如，lovelace 实体卡中的灯光亮度.
 - [Power Wheel Card](https://github.com/gurbyz/power-wheel-card) - 一种直观的方式来表示您家正在消耗或产生的电力.
 - [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) - 更简单、更灵活的恒温器卡.
@@ -217,7 +217,7 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) - LG TV WebOS 的遥控器.
 - [Restriction Card](https://github.com/iantrich/restriction-card) - 提供对其中定义的 Lovelace 卡的限制的卡.
 - [Vacuum Card](https://github.com/denysdovhan/vacuum-card) - 用于控制真空吸尘器机器人的卡对卡.
-- [Purifier Card](https://github.com/denysdovhan/purifier-card) - 用于控制空气净化器的卡.
+- [Purifier Card](https://github.com/denysdovhan/purifier-card) - A card for controlling air purifiers.
 - [Raspberry Pi Status Card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - 显示您的树莓派的状态.
 
 ### Alternative Dashboards
@@ -229,7 +229,6 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 
 _由社区创建的家庭助理的其他集成._
 
-- [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 将设备跟踪器位置转换为人类可读的地址.
 - [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - 集成 Lutron Caseta Smart Bridge PRO / RA2 Select.
 - [SmartIR](https://github.com/smartHomeHub/SmartIR) - 使用 Broadlink IR 集成设备.
 - [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) - 小米米家BT温湿度传感器的传感器平台.
@@ -244,6 +243,8 @@ _由社区创建的家庭助理的其他集成._
 - [HASS Aarlo](https://github.com/twrecked/hass-aarlo)  - 异步 Arlo 集成. 类似于 Arlo 网站； 监控所有基站、摄像头和门铃的事件和状态.
 - [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - 无需生根即可显示小米（Roborock/Viomi/Roidmi/Dreame）真空吸尘器的实时视图.
 - [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - 通过 WebRTC 或带有平移/缩放控件的 MSE 实时查看来自 IP 摄像机的 RTSP 流.
+- [Sonoff LAN](https://github.com/AlexxIT/SonoffLAN) - 通过 LAN 和/或云使用 eWeLink（原始）固件控制 Sonoff 设备.
+- [Spotcast](https://github.com/fondberg/spotcast) - 在空闲的 Chromecast 设备上开始 Spotify 播放以及控制 Spotify 连接设备.
 
 ## DIY
 

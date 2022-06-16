@@ -11,6 +11,7 @@
 
 
 ## Programming Language
+- [C++ Developer Roadmap](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap) - 路线图侧重于 2022 年 C++ 的一般能力和技能 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap).
 - [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - 2021 年成为 Go 开发者的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
 - [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - 2021 年成为 Java 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
 - [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) - 2021 年成为 Node.js 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
@@ -47,6 +48,7 @@
 - [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) - 2019 年自然语言处理学习路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
 
 ## Miscellaneous
+- [Awesome Quality Assurance Roadmap](https://raw.githubusercontent.com/fityanos/awesome-quality-assurance-roadmap) - 开始旅程可能需要的 QA 和软件测试学习曲线路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/fityanos/awesome-quality-assurance-roadmap).
 - [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - 业余渗透测试人员的路线图以及一系列黑客工具、资源和参考资料.
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - 成为软件架构师的路线图.
 - [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 适用于任何开发人员的软件设计和架构路线图.

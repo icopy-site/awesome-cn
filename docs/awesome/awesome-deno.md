@@ -135,6 +135,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
 ### Utils
+- [bettermap](https://github.com/nekooftheabyss/bettermap) - JavaScript Map 的 TypeScript 扩展，具有类似数组的功能.
 - [buckets](https://github.com/jacoborus/deno-buckets) - 将资产和脚本捆绑在一个可执行文件中.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - 格式化字节（Uint8Array、ArrayBufferView 等）输出，在调试 IO 函数时很有用.
 - [canonify](https://github.com/truestamp/truestamp-canonify) - 将数据结构字符串化为确定性排序的 JSON，以实现每个 JCS 的一致散列和数字签名 [RFC8785](https://datatracker.ietf.org/doc/html/rfc8785).
@@ -158,7 +159,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
 - [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
 - [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
-- [durationjs](https://github.com/retraigo/duration.js) - Get time duration from a timestamp or a human-readable string.
+- [durationjs](https://github.com/nekooftheabyss/duration.js) - Get time duration from a timestamp or a human-readable string.
 - [ensure](https://github.com/eankeen/ensure) - 确保您运行的是 Deno、Typescript 或 V8 的最低版本.
 - [evt](https://github.com/garronej/evt) - 键入 EventEmitter 的安全替换.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - 所有 javascript 平台的模式验证器
@@ -178,7 +179,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
 - [tryify](https://github.com/twilsoft/tryify)  - 函数式错误处理； 永远不要再次抛出/尝试/捕捉/最终.
 - [type-fest](https://github.com/denoserverless/type-fest) - 基本 TypeScript 类型的集合（sindresorhus/type-fest 的端口）.
-- [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - 强大而简单的锁（互斥）库来处理零依赖的竞争条件
+- [unified-deno-lock](https://github.com/yooneskh/unified-deno-lock) - 强大而简单的锁（互斥）库，用于处理零依赖的竞争条件
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) - 为 Deno 执行 gzip 操作.
 - [watch](https://github.com/jinjor/deno-watch) - 文件观察者.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - 使用 wu（O（NP））算法计算两个切片之间差异的差异库.
@@ -263,7 +264,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [clone](https://github.com/ekaragodin/clone) - 方便克隆的简单实用程序.
 - [decense](https://github.com/vinliao/decense) - 使用一个 `deno run` 命令生成许可证.
 - [dedep](https://github.com/egoist/dedep) - 管理依赖版本.
-- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流程，使用任何 Deno 模块、Typescript/Javascript 代码
+- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流，使用任何 Deno 模块、Typescript/Javascript 代码
 - [denoify](https://github.com/garronej/denoify) - 对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.
