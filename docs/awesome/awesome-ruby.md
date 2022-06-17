@@ -184,7 +184,7 @@
 
 * [Awesome Print](https://github.com/awesome-print/awesome_print) - 漂亮地打印您的 Ruby 对象 - 全彩和适当的缩进
 * [Betty](https://github.com/pickhardt/betty)  - 友好的类似英语的命令行界面. 不记得命令？ 问贝蒂.
-* [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加带有方法的 ColorizedString 来设置文本颜色、背景颜色和文本效果.
+* [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加具有设置文本颜色、背景颜色和文本效果的方法的 ColorizedString.
 * [colorls](https://github.com/athityakumar/colorls) - 美化了`ls`命令，带有颜色和字体很棒的图标.
 * [formatador](https://github.com/geemus/formatador) - STDOUT 文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置 ANSI 终端颜色的简单快捷方式.
@@ -214,9 +214,9 @@
 
 ## Code Analysis and Metrics
 
-* [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描程序.
+* [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 * [Coverband](https://github.com/danmayer/coverband) - 机架中间件，以帮助测量生产代码覆盖率.
-* [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个受 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲高度启发的命令行工具，让您的 Ruby 运行得更快.
+* [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个命令行工具让你的 Ruby 运行得更快，灵感来自 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲.
 * [Flay](https://github.com/seattlerb/flay)  - Flay 分析代码的结构相似性. 文字值、变量、类、方法名称、空格、编程风格、大括号与 do/end 等方面的差异都将被忽略. 使这完全是辐射.
 * [Flog](https://github.com/seattlerb/flog)  - Flog 在一个易于阅读的痛苦报告中报告最受折磨的代码. 分数越高，代码越痛苦.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) - 具有丰富网络前端的复杂性分析工具.
@@ -227,7 +227,7 @@
 * [Reek](https://github.com/troessner/reek) - Ruby 的代码气味检测器.
 * [Rubycritic](https://github.com/whitesmith/rubycritic) - Ruby 代码质量报告员.
 * [Scientist](https://github.com/github/scientist) - 一个用于仔细重构关键路径的 Ruby 库.
-* [SimpleCov](https://github.com/colszowka/simplecov) - Ruby 1.9+ 的代码覆盖率，具有强大的配置库和跨测试套件的自动覆盖率合并.
+* [SimpleCov](https://github.com/colszowka/simplecov) - Ruby 1.9+ 的代码覆盖率，具有强大的配置库和跨测试套件的自动合并覆盖率.
 * [Sorbet](https://github.com/sorbet/sorbet) - Ruby 的静态类型检查器.
 * [Suture](https://github.com/testdouble/suture) - 一个 Ruby gem，可帮助您重构遗留代码.
 * [Traceroute](https://github.com/amatsuda/traceroute) - 一个 Rake 任务宝石，可帮助您找到 Rails 3+ 应用程序的死路和操作
@@ -376,7 +376,7 @@
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - 数据库查看器和 SQL 查询运行器.
 * [Rein](https://github.com/nullobject/rein) - 数据库约束使 ActiveRecord 变得容易.
 * [Scenic](https://github.com/thoughtbot/scenic) - Rails 的版本化数据库视图.
-* [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus provides a collection of enhancements and extensions to ActiveRecord
+* [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus 为 ActiveRecord 提供了一系列增强和扩展
 * [SecondBase](https://github.com/customink/secondbase)  - Rails 的第二个数据库无缝集成.  SecondBase 通过扩展创建、迁移和测试应用程序的 ActiveRecord 任务来支持 Rails 管理双数据库.
 * [Seedbank](https://github.com/james2m/seedbank) - Seedbank 允许您构建 Rails 种子数据，而不是将其全部转储到一个大文件中.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 任务将数据库的（部分）转储到 db/seeds.rb.
@@ -396,7 +396,7 @@
 * [local_time](https://github.com/basecamp/local_time) - 用于缓存友好的客户端本地时间的 Rails 引擎.
 * [montrose](https://github.com/rossta/montrose) - 一个用于在 Ruby 中表达、序列化和枚举重复事件的简单库.
 * [stamp](https://github.com/jeremyw/stamp) - 根据人性化的示例格式化日期和时间，而不是神秘的 strftime 指令.
-* [time_diff](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
+* [time_diff](https://github.com/abhidsm/time_diff) - 计算两个时间之间的差异.
 * [timezone](https://github.com/panthomakos/timezone) - 准确的当前和历史时区和转换，支持 Geonames 和 Google 纬度 - 经度时区查找.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - 在不同时区的时间之间提供夏令时感知转换.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) - ActiveModel 和 Rails 的日期和时间验证插件.
@@ -411,7 +411,7 @@
 * [pry-rails](https://github.com/rweng/pry-rails)  - 避免重复自己，使用 pry-rails 而不是将初始化程序复制到每个 rails 项目. 这是一个小宝石，它会导致 Rails 控制台打开撬. 因此，它取决于撬动.
 * [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) - 显示文件中每一行代码的结果.
 * [tapping_device](https://github.com/st0012/tapping_device) - 一个允许您从对象的角度检查程序的工具.
-* [Xray](https://github.com/brentd/xray-rails) - 一个开发工具，揭示你的 UI 的骨骼.
+* [Xray](https://github.com/brentd/xray-rails) - A development tool that reveals your UI's bones.
 
 ## Decorators
 
@@ -433,7 +433,7 @@
 * [Logstash](https://github.com/elastic/logstash) - 日志/事件传输、处理、管理、搜索.
 * [Mina](https://github.com/mina-deploy/mina) - 真正快速的部署器和服务器自动化工具.
 * [Puppet](https://github.com/puppetlabs/puppet) - 适用于 Linux、Unix 和 Windows 系统的自动化管理引擎，基于集中式规范执行管理任务（例如添加用户、安装包和更新服务器配置）.
-* [Rubber](https://github.com/rubber/rubber) - Rubber 插件支持将 RubyOnRails 应用程序相对复杂的多实例部署到 Amazon 的 Elastic Compute Cloud (EC2).
+* [Rubber](https://github.com/rubber/rubber) - Rubber 插件支持将 RubyOnRails 应用程序的相对复杂的多实例部署到 Amazon 的 Elastic Compute Cloud (EC2).
 * [SSHKey](https://github.com/bensie/sshkey) - 纯 Ruby（RSA 和 DSA）中的 SSH 私钥和公钥生成器.
 * [Sunzi](https://github.com/kenn/sunzi) - 极简主义者的服务器配置实用程序
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) - Linux 容器的原生 ruby​​ 绑定.
@@ -459,7 +459,7 @@
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) - 每周一次关于编程的小组讨论，主要使用 Ruby.
 * [Ruby Weekly](https://rubyweekly.com/) - 每周一次的免费电子邮件汇总 Ruby 新闻和文章.
 * [The Ruby Bibliography](https://rubybib.org) - 关于 Ruby 的研究论文.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) - Ruby 和 Rails 插件、gem、工具和资源的综合目录，为 Ruby 开发人员提供基于 GitHub 观察者和 Gem 下载的流行度评级.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) - Ruby 和 Rails 插件、gem、工具和资源的综合目录，基于 GitHub 观察者和 Gem 下载的流行度评级，供 Ruby 开发人员使用.
 
 ## Documentation
 
@@ -578,7 +578,7 @@
 
 * [Guard](https://github.com/guard/guard) - 一个命令行工具，可轻松处理文件系统修改事件.
 * [Guard::LiveReload](https://github.com/guard/guard-livereload) - 修改“查看”文件时自动重新加载浏览器.
-* [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
+* [Listen](https://github.com/guard/listen) - Listen gem 监听文件修改并通知您有关更改.
 * [Rerun](https://github.com/alexch/rerun)  - 文件系统更改时重新启动应用程序. 如果在 OS X 上，则使用咆哮和 FSEventStream.
 
 ## Form Builder
@@ -669,10 +669,10 @@
 * [FastImage](https://github.com/sdsykes/fastimage) - FastImage 通过尽可能少地获取所需的 uri 来查找图像的大小或类型.
 * [ImageProcessing](https://github.com/janko/image_processing) - libvips 和 ImageMagick/GraphicsMagick 的高级图像处理包装器
 * [MiniMagick](https://github.com/minimagick/minimagick) - ImageMagick 或 GraphicsMagick 命令行的 ruby​​ 包装器.
-* [Phasion](https://github.com/westonplatter/phashion) - 围绕 pHash 的 Ruby 包装器，用于检测重复多媒体文件的感知散列库.
+* [Phasion](https://github.com/westonplatter/phashion) - 围绕 pHash 的 Ruby 包装器，用于检测重复多媒体文件的感知哈希库.
 * [PSD.rb](https://github.com/layervault/psd.rb) - 在 Ruby 中轻松解析 Photoshop 文件.
 * [RMagick](https://github.com/rmagick/rmagick) - RMagick 是 Ruby 和 ImageMagick 之间的接口.
-* [ruby-vips](https://github.com/jcupitt/ruby-vips) - libvips 图像处理库的绑定.
+* [ruby-vips](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 * [Skeptick](https://github.com/maxim/skeptick) - Skeptick 是用于构建和运行 ImageMagick 命令的通用 DSL.
 
 ## Implementations/Compilers
@@ -777,7 +777,7 @@
 
 ## Networking
 
-* [Dnsruby](https://github.com/alexdalitz/dnsruby)  - 实现存根解析器的纯 Ruby DNS 客户端库. 它旨在遵守所有 DNS RFC.
+* [Dnsruby](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - 一个高性能的 DNS 服务器，可以很容易地集成到其他项目中或用作独立的守护进程.
 
 ## Notifications
@@ -874,7 +874,7 @@
 ## Pagination
 
 * [Kaminari](https://github.com/amatsuda/kaminari) - 基于范围和引擎的、干净、强大、可定制和复杂的分页器，适用于现代 Web 应用程序框架和 ORM.
-* [order_query](https://github.com/glebm/order_query) - 一个键集分页库，可以有效地查找相对于当前记录的下一个或上一个记录，例如无限滚动.
+* [order_query](https://github.com/glebm/order_query) - 一个键集分页库，可以有效地找到相对于当前记录的下一个或上一个记录，例如无限滚动.
 * [Pagy](https://github.com/ddnexus/pagy)  - Pagy 是最终的分页宝石，在每个基准和比较中都优于其他分页宝石. 更多细节可以在 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 * [will_paginate](https://github.com/mislav/will_paginate) - 与 Ruby on Rails、Sinatra、Merb、DataMapper 和 Sequel 集成的分页库.
 
@@ -940,7 +940,7 @@
 * [Backburner](https://github.com/nesquena/backburner) - Backburner 是一个由 beanstalkd 驱动的作业队列，可以处理大量作业.
 * [Bunny](https://github.com/ruby-amqp/bunny) - Bunny 是一个流行的、易于使用的、维护良好的 Ruby 客户端，适用于 RabbitMQ (3.3+).
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - 数据库支持的异步优先级队列.
-* [GoodJob](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+* [GoodJob](https://github.com/bensheldon/good_job) - GoodJob 是一个多线程、基于 Postgres 的 ActiveJob 后端，用于 Ruby on Rails.
 * [Gush](https://github.com/chaps-io/gush) - 仅使用 Redis 和 Sidekiq 的复杂工作流程的并行运行器.
 * [Karafka](https://github.com/karafka/karafka) - 用于简化基于 Apache Kafka（分布式流平台）的 Ruby 应用程序开发的框架.
 * [March Hare](https://github.com/ruby-amqp/march_hare) - 用于 RabbitMQ 的惯用、快速且维护良好的 JRuby 客户端.
@@ -1017,7 +1017,7 @@
   * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - Ruby 中的 BloomFilter(s)：本机计数过滤器 + Redis 计数/非计数过滤器.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个 ruby​​ 库，它实现了用于决策树学习的 ID3（信息增益）算法.
 * 实用程序
-  * [algorithms](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
+  * [algorithms](https://github.com/kanwei/algorithms) - 包含有关何时使用特定结构/算法的文档的库.
   * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持 UTF-8 字符串的 Jaro-Winkler 距离算法的 Ruby 和 C 实现.
   * [primes-utils](https://github.com/jzakiya/primes-utils) - 一个 Rubygem，它提供了一套非常快速的实用方法来测试和生成素数.
   * [Roots](https://github.com/jzakiya/roots) - 一个 Rubygem，它提供实用程序来查找实数和复数的所有 n 次根.
@@ -1044,9 +1044,14 @@
 
 * [BeEF](http://beefproject.com)  - BeEF 是浏览器开发框架的缩写. 它是一款专注于网络浏览器的渗透测试工具.
 * [bundler-audit](https://github.com/rubysec/bundler-audit) - Bundler 的补丁级安全验证.
+* [Fingerprinter](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library 等版本的指纹识别器.
+* [haiti](https://github.com/noraj/haiti) - 哈希类型标识符（CLI 和 lib）.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - 世界上最常用的渗透测试软件.
+* [Pipal](https://github.com/digininja/pipal) - 密码分析器和统计生成器
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - 用于阻止和限制滥用请求的机架中间件.
 * [Rack::Protection](https://github.com/sinatra/sinatra/tree/master/rack-protection) - 用于防御典型 Web 攻击的机架中间件.
+* [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - 网站指纹.
+* [WPscan](http://wpscan.org/) - WordPress 漏洞扫描器.
 
 ## Services and Apps
 
@@ -1165,7 +1170,7 @@
   * [CQL](https://github.com/enkessler/cql) - CQL 是一个用于对 Cucumber 样式测试套件进行查询的库.
   * [cuke_modeler](https://github.com/enkessler/cuke_modeler) - `.feature` 文件的建模库，它是 `gherkin` gem 之上的抽象层，为构建其他 Gherkin 相关工具提供了稳定的基础.
   * [gitarro](https://github.com/openSUSE/gitarro) - 针对您的 GitHub 拉取请求运行、重新触发、处理所有类型和操作系统无关的测试.
-  * [Knapsack](https://github.com/ArturT/knapsack) - 跨 RSpec、Cucumber、Minitest、Spinach 和 Turnip 的 CI 节点的最佳测试套件并行化.
+  * [Knapsack](https://github.com/ArturT/knapsack) - RSpec、Cucumber、Minitest、Spinach 和 Turnip 跨 CI 节点的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) - Mutant 是 Ruby 的突变测试工具.
   * [Parallel Tests](https://github.com/grosser/parallel_tests) - 通过在多个 CPU（或内核）上并行运行加速测试::Unit + RSpec + Cucumber.
   * [power_assert](https://github.com/k-tsj/power_assert) - Ruby 的电源断言.
@@ -1221,9 +1226,9 @@
 ## View helpers
 
 * [active_link_to](https://github.com/comfy/active_link_to) - 查看帮助管理链接的“活动”状态.
-* [auto_html](https://github.com/dejan/auto_html) - 用于将 URL 转换为适当资源（图像、链接、YouTube、Vimeo 视频...）的 Rails 扩展.
+* [auto_html](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 * [Bh](https://github.com/fullscreen/bh) - Ruby 的引导助手.
-* [gon](https://github.com/gazay/gon) - 如果您需要将一些数据发送到您的 js 文件，并且您不想通过视图和解析很长的时间来执行此操作 - 使用 gon.
+* [gon](https://github.com/gazay/gon) - 如果您需要将一些数据发送到您的 js 文件，并且您不想通过视图和解析来执行此操作，请使用 gon.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - 具有从控制器传递数据的能力的 Rails 应用程序的页面特定 javascript.
 * [render_async](https://github.com/renderedtext/render_async) - 异步渲染部分视图并提高页面的加载性能.
 
@@ -1233,7 +1238,7 @@
 * [Kimurai](https://github.com/vifreefly/kimuraframework) - 一个用 Ruby 编写的现代 Web 抓取框架，可与 Headless Chromium/Firefox、PhantomJS 或简单的 HTTP 请求一起使用，并允许抓取并与 JavaScript 呈现的网站进行交互.
 * [Mechanize](https://github.com/sparklemotion/mechanize) - Mechanize 是一个 ruby​​ 库，它使自动化 Web 交互变得容易.
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - 用于网络抓取目的的 Ruby gem.
-* [Spidr](https://github.com/postmodern/spidr)  - 一个多功能的 Ruby 网络爬虫库，可以爬取一个站点、多个域、某些链接或无限.  Spidr 旨在快速且易于使用.
+* [Spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 * [Upton](https://github.com/propublica/upton) - 一个包含电池的框架，便于网络抓取.
 * [Wombat](https://github.com/felipecsl/wombat) - 带有优雅 DSL 的 Web 抓取工具，可解析网页中的结构化数据.
 
