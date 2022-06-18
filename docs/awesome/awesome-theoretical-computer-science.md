@@ -31,7 +31,7 @@
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - 它侧重于计算的重大基本问题，以及理解算法的力量和局限性如何帮助我们开发工具，使现实世界的计算机更智能、更快、更安全.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
-- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - 自动机、语言和计算理论主题的本科介绍性教科书.
+- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
 - [Barak. Introduction to TCS](https://introtcs.org/public/index.html)  - 为本科生介绍理论计算机科学的现代、简短且易于理解的文本. 它包括标准本科教科书中通常不包含的主题.
 ### Puzzles and Problem Sets<a name=theory_of_computation_introductory_puzzles_and_problem_sets></a>
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - 自动机、语言和复杂性的问题集文本.
@@ -73,7 +73,7 @@
 - [Soare. Recursively Enumerable Sets and Degree](https://www.springer.com/gp/book/9783540666813)  - 它完整地说明了重新度数的理论. 在正式介绍之前，定义、结果和证明总是有明确的动机和解释； 证明的描述非常清晰和简洁.
 - [Odifreddi. Classical Recursion Theory: The Theory of Functions and Sets of Natural Numbers](https://archive.org/details/classicalrecursi0000odif)  - 经典递归理论的令人印象深刻的介绍. 强烈推荐给所有对递归理论感兴趣的人.
 #### Monograph<a name=theory_of_computation_computability_theory_books_monograph></a>
-- [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - Computer scientists, mathematicians, and philosophers discuss the conceptual foundations of the notion of computability as well as recent theoretical developments.
+- [Copeland, Posy & Shagrir (editors). Computability: Turing, Gödel, Church, and Beyond](https://mitpress.mit.edu/books/computability) - 计算机科学家、数学家和哲学家讨论可计算性概念的概念基础以及最近的理论发展.
 ## Logic<a name=logic></a>
 ## Computational Complexity<a name=logic_computational_complexity></a>
 ### Books<a name=logic_computational_complexity_books></a>
@@ -111,7 +111,7 @@
 - [Shalev-Shwartz. Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6) - 它对机器学习的基本思想和将这些原理转化为实用算法的数学推导提供了广泛的理论说明.
 ## Workshops<a name=machine_learning_theory_workshops></a>
 - [Simons Institute. Foundations of Deep Learning Program](https://simons.berkeley.edu/programs/dl2019)  - 将理论和应用研究人员集中在建立与经验相关的深度学习理论基础的共同目标上. 具体而言，其目的是识别挑战并取得进展，这些挑战一方面是指导深度学习在现实世界中使用的关键，另一方面可以使用理论方法来解决.
-- [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - 确定构成该主题基础的一组核心技术和原则.
+- [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - Identifying a set of core techniques and principles that form a foundation for the subject.
 - [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - 旨在扩大计算机科学理论在机器学习中的影响力和影响力.
 - [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
 - [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288)  - 形式化方法和机器学习可以从演绎和归纳推理的角度相互了解. 本讲座旨在通过建立学习理论中的一些基本概念来促进两个社区之间的对话.
@@ -133,7 +133,7 @@
 - [Brown. Resources list for game theory](http://cs.brown.edu/courses/cs1951k/lectures/) - 助教的这些笔记在很大程度上基于 Tim Roughgarden 在斯坦福大学的 CS 364A 和 CS 364B 课程的讲义和随附视频，以及 Jason Hartline 的机械设计和近似教科书.
 - [Fang. Advanced Topics in Machine Learning and Game Theory](https://feifang.info/advanced-topics-in-machine-learning-and-game-theory-fall-2021/) - 涵盖机器学习和博弈论交叉主题的研究生课程.
 - [Xu. Topics in Learning and Game Theory](http://www.haifeng-xu.com/cs6501sp21/index.htm) - 涵盖机器学习和博弈论之间接口主题的研究生水平课程.
-- [Diakonikolas & Dughmi. Topics in Learning and Game Theory](https://viterbi-web.usc.edu/~shaddin/cs699fa17/index.html) - 学习和博弈论接口的最新研究趋势.
+- [Tim Roughgarden. Foundations of Blockchains](https://timroughgarden.github.io/fob21/)  - 区块链协议的科学和技术以及建立在它们之上的应用程序，强调基本原则而不是特定协议.  - 也可以看看 [Lecture Videos](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 ## Books<a name=game_theory_books></a>
 - [Apt & Grädel. Lectures in Game Theory for Computer Scientists](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lectures-game-theory-computer-scientists) - 游戏为交互提供了数学模型，计算机科学中的许多任务都可以用博弈论的术语来表述.
 - [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 均衡算法方法、机制设计和组合拍卖的基本章节之后是重要博弈论应用的章节，如激励和定价、成本分摊、信息市场和密码学和安全性.
@@ -164,7 +164,7 @@
 ## Math/Logic Preliminaries<a name=mathlogic_preliminaries></a>
 ## General<a name=mathlogic_preliminaries_general></a>
 ### Lecture Videos Playlist<a name=mathlogic_preliminaries_general_lecture_videos_playlist></a>
-- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)  - 介绍面向计算机科学和工程的离散数学.  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)  - 面向计算机科学和工程的离散数学简介.  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 ### Books<a name=mathlogic_preliminaries_general_books></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典计算机程序设计艺术中的数学预备部分，但呈现方式更悠闲，个别主题涵盖更深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
@@ -174,8 +174,8 @@
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
 - [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221)  - 面向低年级本科生，以基础为重点，向读者介绍逻辑、证明、集合和数论. 它提供了正式证明的完整细节和推导.
 - [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4)
-- [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - Semantic tableaux are used because they are theoretically sound and easy to understand.
-- [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
+- [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - 使用语义画面是因为它们在理论上合理且易于理解.
+- [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - 使用您对编程和软件思想的熟悉来教授数学.
 - [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程提供坚实的基础，从复习数字系统及其与数字计算机的相关性开始，最后以微积分和积分结束.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - 介绍数学分析的算法方法，重点是建模和分析的应用.
 ### Lecture Notes<a name=mathlogic_preliminaries_general_lecture_notes></a>
@@ -257,7 +257,7 @@
 - [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - TCS 领域的近期成就和新挑战.
 ## Popular Science Books<a name=other_resources_popular_science_books></a>
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法含义.
-- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 从古代德谟克利特开始，它通过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容和量子力学的解释进展.
+- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality 呈现出惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - 根据图灵的计算世界，一个交互式辅导程序，告诉命运多舛的恋人：一部小说.
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) - Alan Turing 关于可计算性和图灵机的历史论文的导览.

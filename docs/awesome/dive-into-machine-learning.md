@@ -6,11 +6,11 @@
 
 ### Initiatives
 
-在我们之前 [dive in](#dive-into-machine-learning)，这里有一些您可能也会感兴趣的值得注意的项目和举措.
+在我们之前 [dive in](#dive-into-machine-learning)，这里有一些您可能也会感兴趣的值得注意的项目和倡议.
 
 #### Related to machine learning
 
-* [AlgorithmWatch](https://algorithmwatch.org/en/) — [newsletter](https://algorithmwatch.org/en/newsletter/) ——“一个致力于观察、拆解和分析自动决策 (ADM) 系统及其对社会的影响的非营利性研究和宣传组织.”
+* [AlgorithmWatch](https://algorithmwatch.org/en/) — [newsletter](https://algorithmwatch.org/en/newsletter/) ——“一个致力于观察、解包和分析自动决策 (ADM) 系统及其对社会的影响的非营利性研究和宣传组织.”
 * [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai) — “Awful AI 是一个精选列表，用于跟踪当前可怕的 AI 使用情况——希望能提高人们的认识”
 * [`humanetech-community/awesome-humane-tech`](https://github.com/humanetech-community/awesome-humane-tech) ——“促进改善福祉、自由和社会的解决方案”
 
@@ -36,11 +36,11 @@
   * [Open Ethics Canvas](https://openethics.ai/canvas/)
 * 你边做边学
 
-对于一些很棒的选择， [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#m要么e-ways-to-dive-into-machine-learning) 要么 [check out Nam Vu's guide, Machine Learning f要么 Software Engineers](https://github.com/ZuzooVn/machine-learning-f要么-software-engineers).
+对于一些很棒的选择， [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#m或者e-ways-to-dive-into-machine-learning) 或者 [check out Nam Vu's guide, Machine Learning f或者 Software Engineers](https://github.com/ZuzooVn/machine-learning-f或者-software-engineers).
 
-当然，通往专业的道路并不容易. 另外，_我不是专家！_ 我只是想将_来自_专家的一些重要资源与您联系起来.  ML 的应用无处不在. 我认为让更多人了解更多关于 ML 的知识，尤其是动手实践，这符合公共利益，因为有很多不同的学习方式.
+当然，通往专业的道路并不容易. 另外，_我不是专家！_ 我只是想将_来自_专家的一些重要资源与您联系起来.  ML 的应用无处不在. 我认为让更多人了解更多关于机器学习的知识，尤其是动手实践，这符合公众利益，因为有很多不同的学习方式.
 
-无论是什么促使_你_潜入机器学习，如果你了解一点 Python，现在你可以在几分钟内亲身体验机器学习 _“Hello World！”_.
+无论是什么促使_你_深入机器学习，如果你了解一点 Python，现在你可以在几分钟内亲身体验机器学习 _“Hello World！”_.
 
 ## Let's get started
 
@@ -113,7 +113,7 @@
 
 - 系列笔记本：
   - **2022:** [`rasbt/machine-learning-book`](https://github.com/rasbt/machine-learning-book) — 来自的笔记本 [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
-- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家刚刚获得资金的初创公司工作，该公司刚刚获得资金创建一个智能手机应用程序，该应用程序可以从智能手机上拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型对花朵进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值来识别物种.”
+- [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“假设我们正在为一家刚刚获得资金的初创公司工作，该公司刚刚获得资金创建一个智能手机应用程序，该应用程序可以从智能手机上拍摄的照片中自动识别花卉种类.我们的数据科学负责人要求我们创建一个演示机器学习该模型对花朵进行四次测量（萼片长度、萼片宽度、花瓣长度和花瓣宽度），并仅根据这些测量值识别物种.”
   - [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - 各种专题笔记本：
   - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)
@@ -190,7 +190,7 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 
 从与您正在学习的课程相关的支持论坛和聊天开始.
 
-退房 [datascience.stackexchange.com](https://datascience.stackexchange.com/) 和 [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning) 有一些subreddits，比如 [/r/LearningMachineLearning](https://www.reddit.com/r/learningmachinelearning) 和 [/r/MachineLearning](https://www.reddit.com/r/machinelearning).
+查看 [datascience.stackexchange.com](https://datascience.stackexchange.com/) 和 [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning) 有一些subreddits，比如 [/r/LearningMachineLearning](https://www.reddit.com/r/learningmachinelearning) 和 [/r/MachineLearning](https://www.reddit.com/r/machinelearning).
 
 不要忘记聚会. 还要在项目页面等上寻找聊天邀请.
 
@@ -272,7 +272,7 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 &gt; * **开放 API：** 我们提供一个简单的 REST API [...]
  &gt; * **开源：**我们致力于开源.  OpenReview 的许多部分已经在 [OpenReview organization on GitHub](https://github.com/openreview) . 一些进一步的版本正在等待对代码库的专业安全审查.
 
-> * [OpenReview.net](https://openreview.net/) 由马萨诸塞大学阿默斯特分校信息与计算机科学学院 Andrew McCallum 的信息提取与合成实验室创建
+> * [OpenReview.net](https://openreview.net/) 由马萨诸塞大学阿默斯特分校信息与计算机科学学院的 Andrew McCallum 信息提取与合成实验室创建
 >
 > * [OpenReview.net](https://openreview.net/) 建立在论文中描述的早期版本之上 [Open Scholarship and Peer Review: a Time for Experimentation](https://openreview.net/forum?id=xf0zSBd2iufMg) 发表在 [ICML 2013 Peer Review Workshop](https://openreview.net/group?id=ICML.cc/2013/PeerReview).
 >
@@ -303,6 +303,7 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
   * 模型在由 ** 构建的容器中运行[`cog`](https://github.com/replicate/cog),** “机器学习容器”. 
     * 这是一个开源工具，用于将模型放入可重现的 Docker 容器中. 
     * 您可以仅使用 Python 和 YAML 将模型放入容器中.
+  * 有一个用于 Replicate 的 API 可以为您运行预测
 
 ----
 
@@ -349,7 +350,7 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 
 &gt; **机器学习无法弄清楚要解决什么问题.**如果你不符合人类的需求，你只会构建一个非常强大的系统来解决一个非常小的——或者可能不存在的——问题.
 
-该报价来自 ["The UX of AI" by Josh Lovejoy](https://design.google/library/ux-ai/) . 换一种说法， **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).** 建议阅读： [Martin Zinkevich's "Rules of ML Engineering", Rule #23: "You are not a typical end user"](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system)
+该报价来自 ["The UX of AI" by Josh Lovejoy](https://design.google/library/ux-ai/) . 换句话说， **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).** 建议阅读： [Martin Zinkevich's "Rules of ML Engineering", Rule #23: "You are not a typical end user"](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system)
 
 ## Skilling up
 
@@ -358,7 +359,7 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 <details>
 <summary><strong>一种方式：</strong>竞争和挑战</summary>
 
-你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice 和 evaluate yourself](https://news.ycombinat要么.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) 和 [ChaLearn](http://www.chalearn.要么g/) 是机器学习竞赛的中心.  （你可以找到更多的比赛 [here](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) 要么 [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
+你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice 和 evaluate yourself](https://news.ycombinat或者.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) 和 [ChaLearn](http://www.chalearn.或者g/) 是机器学习竞赛的中心.  （你可以找到更多的比赛 [here](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) 或者 [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
 
 您还需要**理解.**您应该查看 Kaggle 竞赛获胜者对他们的解决方案的评价， [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) . 一开始这些可能会让你头疼，但一旦你开始理解和欣赏这些，你就会知道你正在到达某个地方.
 
@@ -371,7 +372,7 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 
 这是一种互补的练习方式：**做练习研究.**
 
- 1. **问一个问题. 开始探索一些数据.** ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek) ）. 所以从一个问题开始. 然后，找到 [real data](https://github.com/caesar0301/awesome-public-datasets) . 分析一下. 然后 ...
+ 1. **问一个问题. 开始探索一些数据.** ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek) ). 所以从一个问题开始. 然后，找到 [real data](https://github.com/caesar0301/awesome-public-datasets) . 分析一下. 然后 ...
  2. **传达结果.** 当您认为自己有新发现时，请要求审查. 当您仍在学习时，请在非正式社区中询问（有些是 [linked below](#some-communities-to-know-about)).
 3. **从反馈中学习.** 考虑 [learning in public](https://www.swyx.io/learn-in-public/) ，它对某些人来说非常有用.  （不过不要给自己压力！每个人都不一样，了解自己的学习方式是件好事.）
 
@@ -404,19 +405,19 @@ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/
 以下是一些额外的数据科学资源：
 
 * **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
-* [`r0f1/datascience`](https://github.com/r0f1/datascience) — “使用 Python 练习数据科学的精选资源列表，不仅包括库，还包括指向教程、代码片段、博客文章和讲座的链接.”
+* [`r0f1/datascience`](https://github.com/r0f1/datascience) — “使用 Python 练习数据科学的精选资源列表，不仅包括库，还包括教程、代码片段、博客文章和讲座的链接.”
 
 ### Aside: Bayesian Statistics and Machine Learning
 
 From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
 
- &gt; ...贝叶斯思想在过去 20 年左右的时间里对机器学习产生了重大影响，因为它们在构建现实世界现象的结构化模型方面提供了灵活性. 算法的进步和不断增加的计算资源使得拟合以前被认为难以处理的丰富、高度结构化的模型成为可能.
+ &gt; ...贝叶斯思想在过去 20 年左右的时间里对机器学习产生了巨大影响，因为它们在构建现实世界现象的结构化模型方面提供了灵活性. 算法的进步和不断增加的计算资源使得拟合以前被认为难以处理的丰富、高度结构化的模型成为可能.
 
 <details>
 <summary>Here are some awesome resources for learning Bayesian methods.</summary>
 
 * **免费书** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)_. Made with a "computation/understanding-first, mathematics-second point of view." Uses [PyMC](https://github.com/pymc-devs/pymc) . 它也有印刷版！
- * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一个机器学习游戏，它会问你问题并猜测你正在思考的对象”，并且**解释它使用了哪些贝叶斯统计技术！**
+ * 喜欢边玩边学？ 我也是. 尝试 [19 Questions](https://github.com/fulldecent/19-questions)，“一个机器学习游戏，它会问你问题并猜测你正在考虑的对象”，并且**解释它使用了哪些贝叶斯统计技术！**
 * [_Time Series Forecasting with Bayesian Modeling by Michael Grogan_](https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling)，一个包含 5 个项目的系列 - 付费但第一个项目是免费的.
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python) . 用途 [PyMC](https://github.com/pymc-devs/pymc) 也是.
 

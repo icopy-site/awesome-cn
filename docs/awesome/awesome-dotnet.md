@@ -152,7 +152,7 @@
 
 ## Business Intelligence
 
-* [FastReport](https://github.com/FastReports/FastReport)  - .NET Core 2.x/.Net Framework 4.x 的开源报告生成器.  FastReport 可用于 ASP.NET MVC、Web API 应用程序.
+* [FastReport](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 * [NReco PivotData](https://www.nrecosite.com/pivot_data_library_net.aspx) - 内存数据聚合/OLAP 库、数据透视表生成（呈现为 HTML、导出）、ASP.NET 数据透视构建器控制 **[$][单次部署/非 SaaS 免费]**
 
 ## Caching
@@ -351,7 +351,7 @@
 
 * [Sandcastle](https://github.com/EWSoftware/SHFB) - 类似于 NDoc 的 Sandcastle 帮助文件生成器
 * [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - 支持 https://referencesource.microsoft.com 的源浏览器网站生成器
-* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) - 将 Swagger 无缝添加到 Web API 项目中.
+* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a Swagger to Web API projects.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
 * [DocFX](https://github.com/dotnet/docfx) - 为 .NET 项目构建和发布 API 文档的工具
 
@@ -381,7 +381,7 @@
 
 * [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - 一个简单的 .NET 调解器，用于发送命令、发布事件和请求响应，支持管道
 * [MediatR](https://github.com/jbogard/MediatR) - .NET 中简单、无野心的中介实现
-* [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - 来自 Reactive.EventAggregator 的超简单响应式扩展代码
+* [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
 * [TinyMessenger](https://github.com/grumpydev/TinyMessenger) - 用于松散耦合通信的轻量级事件聚合器/信使.
 * [Xer.Cqrs](https://github.com/XerProjects/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 * [FluentMediator](https://github.com/ivanpaulovich/FluentMediator) - FluentMediator 是一个不显眼的库，允许开发人员为命令、查询和事件构建自定义管道
@@ -404,7 +404,7 @@
 
 ## Game
 
-* [MonoGame](https://github.com/MonoGame/MonoGame) - 一种用于创建强大的跨平台游戏的框架
+* [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 * [FNA](https://github.com/FNA-XNA/FNA) - FNA 是 XNA4 的重新实现，专注于为桌面开发完全准确的 XNA4 运行时
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 * [Duality](https://github.com/AdamsLair/duality)  - Duality 是一个 2D 游戏开发框架. 专注于模块化，带有可视化编辑器.
@@ -513,7 +513,6 @@
 * [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可定制. 深受改装的启发
 * [RestLess](https://github.com/letsar/RestLess) - .Net Standard 的自动类型安全无反射 REST API 客户端库.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - 使用 `HttpClient` 的实用程序
-* [CoreRPC](https://github.com/kekekeks/CoreRPC)  - 针对 netstandard1.3 的类似 WCF 的 RPC 的可扩展库. 与 .NET、Mono 和 .NET Core 兼容.
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 ## IDE
 
@@ -612,7 +611,7 @@
 * [Log4Net](https://logging.apache.org/log4net/) - Apache log4net 库是帮助程序员将日志语句输出到各种输出目标的工具
 * [Rollbar.NET](https://github.com/rollbar/Rollbar.NET)  - 在使用 Rollbar.com 时简化实时远程错误监控. 适用于任何基于 .NET 的技术堆栈的开源 Rollbar Notifier SDK. 可用于基于以下 .NET 版本构建的任何应用程序的 SDK：.NET Core 2.0+、.NET Standard 2.0+、.NET Full Framework 4.5.1+、Mono、Xamarin，一般来说，任何实现.NET 标准 2.0+. 它简化了基于异常数据、跟踪数据、信息性消息和遥测数据构建数据有效负载，并将有效负载发送到 Rollbar API 以远程监控和分析托管应用程序的行为.
 * [Sejil](https://github.com/alaatm/Sejil)  - 直接从您的应用捕获、查看和过滤 ASP.NET Core 应用的日志. 它支持结构化日志记录、查询以及保存日志查询.
-* [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK 用于 [Sentry](https://sentry.io/welcome/) 开源错误跟踪，可帮助开发人员实时监控和修复崩溃.
+* [Sentry](https://github.com/getsentry/sentry-dotnet) .NET SDK 用于 [Sentry](https://sentry.io/welcome/) 开源错误跟踪，可帮助开发人员实时监控和修复崩溃.
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的严肃日志库. 将最好的传统和结构化诊断日志记录在一个易于使用的包中.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - 用于 Stack Exchange 网络的错误处理程序
 * [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging)  - 扩展 System.Diagnostics.Tracing 命名空间（EventSource 类）的内置功能，以记录到多个接收器，包括 Azure 表、数据库、文件（JSON、XML、文本）. 支持通过 ETW 进行进程内和进程外日志记录，并支持 Rx 实时过滤/聚合事件.
@@ -654,7 +653,7 @@
 * [MailKit](https://github.com/jstedfast/MailKit)  - 一个完整的跨平台邮件堆栈，包括 IMAP、POP3、SMTP、身份验证等. 建立在 MimeKit 之上.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - 一个跨平台的 .NET MIME 创建和解析器库，支持 S/MIME、PGP、TNEF 和 Unix mbox 假脱机.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
-* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和段、为您的列表创建自定义字段等.还包括 SendGrid Webhook 的解析器.
+* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和段、为列表创建自定义字段等.还包括 SendGrid Webhook 的解析器.
 
 ## Mathematics
 
@@ -672,7 +671,7 @@
 
 ## Media
 
-* [CSCore](https://github.com/filoe/cscore) - 高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
+* [CSCore](https://github.com/filoe/cscore) - 一个高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 媒体文件中的元数据，包括视频、音频和照片格式
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - libvlc 的 Xamarin 绑定，支持 VideoLAN 制作的 VLC 应用程序的多媒体框架.
@@ -740,8 +739,8 @@
 * [Community Toolkit](https://github.com/CommunityToolkit)  - 收集各种 .NET 技术的控制和帮助程序库和示例. 包含 Microsoft 支持的现代 MVVM 库. 包括 [Windows Community Toolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit), [MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)， 和 [Dotnet Community Toolkit](https://github.com/CommunityToolkit/dotnet).
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小而强大的框架，专为跨所有 XAML 平台构建应用程序而设计. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
-* [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
-* [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不要求您实现 `INotifyPropertyChanged` 或声明 `DependencyProperty`. 它将控件直接连接到 CLR 属性. 这使其非常适合模型/视图/视图模型模式.
+* [Catel](https://www.catelproject.com/)  - Catel 是一个应用程序开发平台，专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）.  Catel 的核心包含一个 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
+* [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不需要您实现“INotifyPropertyChanged”或声明“DependencyProperty”. 它将控件直接连接到 CLR 属性. 这使其非常适合模型/视图/视图模型模式.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架，它集成了响应式扩展 (Rx) 框架，使开发人员能够使用 WPF、Windows 应用商店应用程序、WP8 或 Xamarin 构建优雅、可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 一个以应用程序为中心的 Windows 8.1 MVVM 框架，在构建时考虑了依赖项注入，包括一整套 Visual Studio MVVM 模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 一个跨平台的桌面和移动 MVVM 开发框架.
@@ -794,7 +793,7 @@
 * [SqlSugar](https://github.com/donet5/SqlSugar) - 另一个 ORM 库支持许多 RDBMS，包括 MySql、SqlServer、Sqlite、Oracle、Postgresql
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access.
 * [NHibernate](https://github.com/nhibernate) - NHibernate 对象关系映射器
-* [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
+* [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) - 流畅、无 XML、编译安全、自动化、基于约定的 NHibernate 映射.
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - .net 的流利迁移框架
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - 轻便、简单、快速的基于约定的 POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - 一个小而快乐的数据访问工具，会永远爱你.
@@ -875,6 +874,11 @@
 * [Brighter](https://github.com/BrighterCommand/Brighter) - 命令调度程序、处理器和分布式任务队列 https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - 一个简单但功能丰富的 .NET 核心消息总线（支持 Kafka、RabbitMQ 和 MQTT）.
 
+## RPC
+
+* [gRPC](https://github.com/grpc/grpc-dotnet)   .NET Core 的 RPC 库和框架. 阅读更多关于它的信息 [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
+* [CoreRPC](https://github.com/kekekeks/CoreRPC)  - 针对 netstandard1.3 的类似 WCF 的 RPC 的可扩展库. 与 .NET、Mono 和 .NET Core 兼容.
+
 ## Reactive Programming
 
 * [Rx.NET](https://github.com/dotnet/reactive) - Reactive Extensions (Rx) 是一个库，用于使用可观察序列和 LINQ 样式的查询运算符组成异步和基于事件的程序
@@ -894,7 +898,7 @@
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - 具有流畅界面的任务调度程序，可从您的应用程序运行自动化作业
 * [NCrontab](https://github.com/atifaziz/NCrontab) - 用于解析和格式化的类库 [crontab](http://crontab.org/) 表达式以及根据 crontab 计划计算时间的出现
 * [NCrontab.Scheduler](https://github.com/thomasgalliker/NCrontab.Scheduler) - 用于调度基于 NCrontab 的任务的简单任务调度程序库
-* [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+* [QuartzNet](https://github.com/quartznet/quartznet) - Quartz 企业调度程序 .NET
 * [Hangfire](https://github.com/HangfireIO) - 一种在 .NET 应用程序中执行即发即弃、延迟和重复任务的简单方法
 * [Chroniton](https://github.com/leosperry/Chroniton) - 一个简单、完全可集成且可定制的库，用于按计划运行强类型作业（任务）.
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
@@ -930,7 +934,7 @@
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp)  - 快速、惯用的 FlatBuffers 实现. 使用 .fbs 文件或属性.
 * [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
-* [Bond](https://github.com/Microsoft/bond)  - 用于处理模式化数据的跨平台框架. 它支持跨语言反序列化和强大的通用机制以有效地操作数据.
+* [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Hyperion](https://github.com/akkadotnet/Hyperion) - 用于 .NET 框架的高性能多态序列化程序.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - 免费且易于使用的 .NET 库从文件、字符串或流中的固定长度或分隔记录导入或导出数据.
 * [FsPickler](https://github.com/mbraceproject/FsPickler) - 用于 .NET 的快速多格式消息序列化程序
@@ -984,7 +988,7 @@
 * [Bogus](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 * [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - .NET 的简单模拟库 https://fakeiteasy.github.io
-* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - 一组 .NET 扩展方法，允许您更自然地指定 TDD 或 BDD 样式测试的预期结果
 * [FluentAutomation](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 * [FsCheck](https://github.com/fscheck/FsCheck) - .NET 的随机测试.
 * [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extremely easy to create.
@@ -1022,7 +1026,7 @@
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用.  **[免费][专有]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 * [Netling](https://github.com/hallatore/Netling)  - 用于轻松进行 Web 测试的负载测试器客户端. 它在使用很少的 CPU 或内存时非常快.
-* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一个开源（基于.NET）的测试电子邮件查看器，它使用内置的 SMTP 服务器在本地运行，用于接收和通知测试电子邮件消息.
+* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一个开源（基于.NET）的测试电子邮件查看器，它使用内置的 SMTP 服务器在本地运行，旨在接收和通知测试电子邮件消息.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行操作、随机生成错误/延迟和实验性 GraphQL 支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell` 选项卡完成 [dotnet CLI](https://github.com/dotnet/cli)
@@ -1058,7 +1062,7 @@
 * [CodeContracts](https://github.com/Microsoft/CodeContracts) - .NET 的 CodeContracts 工具的源代码
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - 在 Visual Studio 边距和滚动条上显示当前编辑文件的实时 Git 更改
 * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) - 一组 Visual Studio Professional（及更高版本）的扩展，可提高开发人员的工作效率.
-* [Tabs Studio](https://tabsstudio.com/)  - 具有多个选项卡行、选项卡着色和选项卡分组的 Visual Studio 选项卡管理器.  **[$]**
+* [Tabs Studio](https://tabsstudio.com/) - Visual Studio tab manager with multiple tab rows, tab coloring and tab grouping. **[$]**
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)  - 构建、查找和调试输出窗口的颜色突出显示. 可以添加自定义匹配图案和颜色.
 * [CodeLineage](https://marketplace.visualstudio.com/items?itemName=HippoCampSoftwareLtd.CodeLineage) - 轻松访问文件修订之间的累积差异视图（支持 svn、git、mercurial、perforce）.
 * [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)  - OzCode 是一个 Visual Studio 扩展，它通过检测和隔离错误来减少调试时间并提高生产力，使它们易于修复.  **[$]**
@@ -1094,7 +1098,7 @@
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket 是一个轻量级的可扩展套接字应用框架
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - 适用于 .NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 和 WinRT 的 WebSocket 客户端
-* [Crossertech](https://crosser.io/)  - 为您提供一套出色的工具，用于在 Microsoft.NET 平台上构建实时应用程序等等.  **[$]**
+* [Crossertech](https://crosser.io/)  - 为您提供一套很棒的工具来在 Microsoft.NET 平台上构建实时应用程序等等.  **[$]**
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - 提供远程过程调用和通过 WebSockets 发布/订阅的消息传递模式的协议.
 * [NetGain](https://github.com/StackExchange/NetGain) - 为 Stack Overflow 提供动力的高性能 WebSocket 服务器库.
 * [Websockets.PCL](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.

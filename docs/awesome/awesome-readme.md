@@ -10,7 +10,7 @@
 ## Examples
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - 项目标志、清晰的描述、屏幕截图、分步安装说明.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图. 目录便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
+- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 徽章、项目 GIF、简明描述、快速链接、逐步安装说明.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
@@ -24,10 +24,10 @@
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 首屏漂亮的小菜单，带有有用的链接. 里面的一个常见问题解答主要问题. 支持者. 好语言.
 - [chroline/well_app](https://github.com/chroline/well_app#readme)  - 具有引人注目的项目缩略图和干净的徽章，以及下载信息和快速导航链接. 组织成多个描述性部分，每个部分都有一个带有黄色表情符号的标题. 包括有关项目本身的详细信息，以及使用的技术和如何贡献.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 带有快速入门的清晰自述文件、易于理解的安装和使用手册、视频截屏、带有文档完善的项目功能的 ToC（带有终端中工作的演示记录）、项目理念说明（“为什么另一个”）、最常见的问题、和更多.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、徽标、TOC 等.以一篇关于技术、如何使用、背后的哲学以及它如何融入更大的生态系统的巨大、精心撰写的文章脱颖而出.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、标志、TOC 等.以一篇关于技术、如何使用、背后的哲学以及它如何融入更大的生态系统的巨大、精心撰写的文章脱颖而出.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  - 使用 GIF 截图清除自述文件以进行快速演示. 多个徽章、简洁的 ToC、在线游乐场、故事书、详细说明等等.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme)  - 项目横幅和标志. 徽章. 可扩展的演练部分. 简洁的描述和目的. 目录便于导航. 用于安装演示的 GIF. 多种信息丰富的视觉效果.
-- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - 项目徽标、信息徽章、有用的 TOC、清晰的描述、屏幕截图、分步安装和配置指南、贡献者指南、行为准则、UML 图、连贯的标签、问题和拉取请求模板，有据可查且良好-注释代码，示例.
+- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - 项目标志、信息徽章、有用的目录、清晰的描述、屏幕截图、分步安装和配置指南、贡献者指南、行为准则、UML 图、连贯的标签、问题和拉取请求模板、文档齐全且良好-注释代码，示例.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme)  - 目录便于导航. 简洁的项目描述. 安装和使用部分. 输出示例. 很棒的功能概述. 替代品清单. 常问问题.
 - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme)  - 清晰的描述. 项目标志. 应用商店徽标. 目录干净的屏幕截图. 功能列表. 详细的安装过程. 登陆页面.
 - [gofiber/fiber](https://github.com/gofiber/fiber#readme)  - 清洁项目标志. 有用的徽章和链接（语言切换器、代码风格、测试封面、文档、Discord 频道）. 通过快速入门、基准图表、有据可查的代码示例（具有隐藏长内容的能力）、项目理念说明（“项目的原因”）、带有项目插件的表格、贡献者列表、星号，清楚地描述项目所做的事情增长统计等.
@@ -75,7 +75,7 @@
 
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/hackergrrl/art-of-readme#readme) - *Stephen Whitmore*
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/hackergrrl/art-of-readme#readme) - *斯蒂芬·惠特莫尔*
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - * 叶戈尔·布加延科 *
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *迦勒汤普森（思想机器人）*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *汤姆普雷斯顿 - 沃纳*
@@ -87,13 +87,14 @@
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - 有用的 README.md、LICENSE、CONTRIBUTING.md、CODE_OF_CONDUCT.md、SECURITY.md、GitHub 问题、拉取请求和操作模板来快速启动您的项目.
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme)  - Node 的常见自述文件样式. 包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - 自述文件编辑和项目分析/反馈.
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme)  - 为 README 动态生成可定制的 GitHub 卡片. 统计数据、额外引脚、热门语言和 WakaTime.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  - 帮助在 README 上向 repo 贡献者表示认可. 具有新/趋势/顶级贡献者. 每小时更新一次.
 - [Make a README](https://www.makeareadme.com/)  - 编写自述文件的指南. 包括带有实时 Markdown 渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - 一个复制粘贴你的 README.md 的地方
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - 生成漂亮的 README.md 文件的 CLI
 - [Readme.so](https://readme.so/) - 一个简单的编辑器，可让您快速添加和自定义项目自述文件所需的所有部分.
 - [READMINE](https://github.com/mhucka/readmine)  - 用于软件项目的全面、清晰和自我描述的 README 文件模板； 复制它并根据需要进行编辑.
-- [StackEdit](https://stackedit.io/) - 用户友好的在线编辑器，可让您快速自定义项目自述文件所需的所有部分.
+- [StackEdit](https://stackedit.io/) - 一个用户友好的在线编辑器，可让您快速自定义项目自述文件所需的所有部分.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme)  - 一个标准的 README 风格规范. 也有一个生成器来帮助创建符合规范的自述文件.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - 简单的模板可帮助您涵盖所有基础知识.
 
