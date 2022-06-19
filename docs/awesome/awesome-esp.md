@@ -1,9 +1,5 @@
 <div class="github-widget" data-repo="agucova/awesome-esp"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<!--lint disable awesome-list-item-->
-<!--lint disable awesome-toc-->
-<!--lint disable no-blockquote-without-marker-->
-
 ## Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/agucova/awesome-esp/blob/master/code-of-conduct.md)
 精选的 ESP8266/32 项目和代码列表.
 
@@ -14,8 +10,7 @@
 &gt; 见 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) 有关如何为此列表做出贡献的信息.
 > <br/><br/>
 ---
-<!--lint disable no-repeat-punctuation-->
-<!--lint disable remark-lint-double-link-->
+
 
 ## Firmware
 - [Espressif AT](http://bbs.espressif.com/) - ESP8266 的默认 vanilla 固件.
@@ -27,7 +22,7 @@
 - [MongooseOS](https://github.com/cesanta/mongoose-os)  - 具有 C 和 JS 的 IoT 特定固件. 适用于 ESP32/8266.
 - [DeviceHive](https://devicehive.com/) - 作为 DeviceHive 的 IoT 数据平台的客户端制作的固件，仅适用于 8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - 可用于 ESP32 的中文开源固件.
-- [Sming Framework](https://github.com/SmingHub/Sming) - 卓越的 C/C++ 物联网框架，支持 ESP8266 和 ESP32.  
+- [Sming Framework](https://github.com/SmingHub/Sming) - 卓越的 C/C++ 物联网框架，支持 ESP8266 和 ESP32.
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - 两个 ESP 的香草固件闪光器.
@@ -37,9 +32,9 @@
 - [ESP-Open-SDK](https://github.com/pfalcon/esp-open-sdk) - 用于 ESP8266 的开放式 SDK.
 - [ESPTool-ck](https://github.com/igrr/esptool-ck) - 用于在 ESP8266 中闪烁的 CLI 工具.
 - [ESPTool-gui](https://github.com/Rodmg/esptool-gui) - 基于 ESPTool-ck 的闪烁 GUI 工具.
-- [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) - NodeMCU 为其操作系统的官方刷机工具.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) - 适用于 32/8266 的仅限 lua 的 SDK.
 - [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) - 预装涂鸦固件的 Wi-Fi 刷机 ESP8266.
+- [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) - NodeMCU 操作系统的官方刷机工具.
 - [Tasmotizer](https://github.com/tasmota/tasmotizer)  - Tasmota 固件的图形刷写工具. 可以管理 Wi-Fi 和 MQTT 设置、模块和模板.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - 在 8266 中用于文件系统上传的 Arduino 插件.
 - [PlatformIO](https://github.com/platformio/platformio-core) - 支持 ESP32 和 ESP8266 的跨平台 IDE 和调试器.
@@ -49,9 +44,12 @@
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - 用于 ESP 和其他设备的多协议 MQTT 网关的实现.
 - [ESPHome](https://esphome.io/) - 通过简单而强大的配置文件和家庭自动化系统控制 ESP 的全功能系统.
 - [Tasmota](https://tasmota.github.io/docs/)  - Sonoff 和其他 ESP8266/ESP32 设备的替代固件. 包括大量传感器驱动程序并与 [Home Assistant](https://www.home-assistant.io/) 本机或通过 MQTT.
+- [ESPEasy](https://github.com/letscontrolit/ESPEasy) - 轻松将 ESP 模块转变为用于家庭自动化系统的多功能传感器设备.
 - [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) - Sonoff 设备（和其他 8266 设备）的替代固件，允许通过 Apple 的 Homekit 进行控制.
 - [DoorsignEPD](https://github.com/jamct/DoorsignEPD) - 使用 ESP32 的带有电子纸显示屏的智能门牌.
 - [EPaperWeatherDisplay](https://github.com/henri98/esp32-e-paper-weatherdisplay) - 使用 ESP32 的非常可爱的电子墨水天气显示.
+- [HomePoint](https://github.com/sieren/Homepoint) - 从 ESP32 驱动的屏幕控制 MQTT/HomeKit 智能家居设备.
+- [openHASP](https://www.openhasp.com/) - 从通过 MQTT 连接的可定制触摸屏 UI 控制您的家庭自动化设备.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) - 适用于 ESP32 的全功能家庭农业自动化软件.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - 公民科学项目，使用移动和固定站通过 ESP32 和智能手机测量空气质量.
 
@@ -73,22 +71,43 @@
 ### LoRa
 
 - [Meshtastic](https://www.meshtastic.org/) - ESP32 LoRA 板作为安全、长电池寿命、网状 GPS 通信器.
-- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi 和蓝牙驱动，支持 LoRaWAN，电池供电的迷你 Paxcounter，建立在廉价的 ESP32 LoRa IoT 板上
-- [Disaster Radio](https://disaster.radio/) - 由太阳驱动的抗灾通信网络
+- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) - Wifi 和蓝牙驱动，支持 LoRaWAN，电池供电的迷你 Paxcounter，建立在廉价的 ESP32 LoRa IoT 板上.
+- [Disaster Radio](https://disaster.radio/) - 一个由太阳驱动的抗灾通信网络.
+
+### Music and Audio
+
+- [Alles](https://github.com/bwhitman/alles) - 一个多扬声器分布式音乐合成器，使用 WiFi 上的 UDP 多播，仿照 alles 机器/AMY.
+- [ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - 基于 ESP32、VS1053 和 TFT 屏幕的网络收音机.
+- [ESPuino](https://github.com/biologist79/ESPuino) - 由 ESP32 供电的 RFID 控制的音乐播放器.
+- [Knobby](https://github.com/quadule/knobby) - A handheld Spotify remote that encourages you to explore unfamiliar music.
+- [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - 使用 ESP32 构建的吉他手无线 MIDI 踏板控制器.
+- [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - 具有多房间同步、AirPlay、蓝牙、硬件按钮、显示屏等的流式音频接收器.
+- [ThingPulse esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) - 从带有彩色触摸屏的 ESP8266 控制您的 Spotify 播放器.
+
+### Smartwatches
+
+- [mutantW_V1](https://mutantcybernetics.com/mutantW_V1.html) - 基于 ESP32 的开源智能手表，配备 1.7 英寸显示屏、WiFi、蓝牙、NeoPixel 和振动.
+- [Open SmartWatch](https://open-smartwatch.github.io/) - 一款带有 GPS、惯性装置和非常酷的 3D 打印表壳的 FOSS 智能手表.
+- [StickWatch](https://github.com/eggfly/StickWatch) - 基于 M5Stick 的智能手表模块，使用 ESP32.
+- [Watchy](https://watchy.sqfmi.com) - 一款开源电子纸手表，有很多自定义选项.
 
 ### Others
-- [Open SmartWatch](https://open-smartwatch.github.io/) - 一款带有 GPS、惯性装置和非常酷的 3D 打印表壳的 FOSS 智能手表.
 - [SoftRF](https://github.com/lyusupov/SoftRF) - 可用于无人机项目的 DIY 航空近距离感知系统.
 - [Retro ESP32](https://github.com/retro-esp32/RetroESP32) - 一个非常酷的 Odroid Go 启动器（带有 ESP32），它允许模拟几个复古控制台.
-- [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - 使用 ESP32 构建的吉他手无线 MIDI 踏板控制器.
-- [StickWatch](https://github.com/eggfly/StickWatch) - 基于 M5Stick 的智能手表模块，使用 ESP32.
 - [DroneBridge](https://github.com/DroneBridge/ESP32) - DroneBridge 的实现，这是 ESP32 上无人机和 UAV 的信号链路.
+- [E-TKT](https://github.com/andreisperid/E-TKT) - ESP32 驱动的 DIY 标签制造商，融合了老式和现代技术.
+- [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) - 带有内置网络配置器的开源触摸宏板和流控制平台.
+- [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - 在 Zwift 等健身应用程序中，通过自动阻力旋钮控制将您的动感单车变成智能教练.
+- [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - 从 Cura、PrusaSlicer 或 Slic3r 无线打印到连接到 ESP 模块的 3D 打印机.
+- [WLED](https://kno.wled.ge/) - 使用 ESP8266 或 ESP32 通过 WiFi 控制多种类型的 RGB(W) LED 灯条.
+
 ## Libraries
 - [Wasm3](https://github.com/wasm3/wasm3) - 专为嵌入式设备设计的闪电般快速的 WebAssembly 解释器，与两种 ESP 兼容.
 - [Homie8266](https://github.com/marvinroger/homie-esp8266) - 8266 的 Homie 协议的框架实现.
 - [ESP-Dash](https://github.com/ayushsharma82/ESP-DASH)  - 用于在 8266/32 中创建远程仪表板的漂亮而快速的框架. 无需互联网.
 - [ESP_mqtt](https://github.com/tuanpmt/esp_mqtt) - ESP8266 的 MQTT 帮助程序库.
 - [GUIslice](https://github.com/ImpulseAdventure/GUIslice)  - 适用于多个设备和屏幕控制器的拖放 GUI 框架. 兼容 8266 和 32.
+- [LVGL](https://lvgl.io) - 一个开源图形库，提供创建具有易于使用的图形元素、漂亮的视觉效果和低内存占用的嵌入式 GUI 所需的一切.
 - [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 一个非常强大的 MicroPython Web 服务器，可以在 ESP32 中使用.
 - [IRremoteESP8266](https://github.com/markszabo/IRremoteESP8266) - 在 ESP8266 中发射和接收红外信号.
 - [esphomelib](https://github.com/OttoWinter/esphomelib) - 在 8266 中与 HomeAssistant 集成的框架.
@@ -98,8 +117,10 @@
 - [TFTLibrary](https://github.com/loboris/ESP32_TFT_library) - ESP32 的 TFT 兼容性.
 - [UTFT-ESP](https://github.com/gnulabis/UTFT-ESP) - ESP32/8266 的 UTFT 支持.
 - [ESPAudio](https://github.com/earlephilhower/ESP8266Audio) - 用于在 ESP8266/ESP32 中播放各种音频格式的库.
+- [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - 从 SD 卡播放 mp3、m4a 和 wav 文件或通过 I2S 接口播放流.
 - [AsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) - 8266 和 32 的异步 TCP 库.
 - [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) - 在 RTOS 上实现 8266 的 Homekit.
+- [HomeSpan](https://github.com/HomeSpan/HomeSpan) - 一个强大且非常易于使用的 Arduino 库，用于创建您自己的基于 ESP32 的 HomeKit 设备.
 - [ESPHelper](https://github.com/ItKindaWorks/ESPHelper) - 用于 8266 的 MQTT 和 Wi-fi 自动化库.
 - [ESPHelper/32](https://github.com/ItKindaWorks/ESPHelper32) - ESPHelper 库的 32 端口.
 - [ESP8266Wifi](https://github.com/ekstrand/ESP8266wifi) - 用于 8266 的简单 Arduino Wifi 库.

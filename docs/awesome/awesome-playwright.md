@@ -42,6 +42,8 @@
 - [expect-playwright](https://github.com/playwright-community/expect-playwright) - 期望实用程序匹配器函数以简化与 Playwright Test 或 Jest Playwright 一起使用的期望语句.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint 插件可满足您的 Playwright 测试需求.
 - [Moon](https://github.com/aerokube/moon) - 用于在 Kubernetes 集群中并行执行 Playwright 测试的工具.
+- [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - VS Code 的官方 Playwright 测试扩展.
+- [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - IntelliJ 的剧作家插件.
 
 ## Showcases
 

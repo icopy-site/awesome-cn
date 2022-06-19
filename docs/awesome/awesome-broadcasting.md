@@ -4,7 +4,6 @@
 为广播公司精心挑选的令人惊叹的开源资源列表.
 
 
-<!-- This page is available on https://ebu.io/opensource -->
 ## Clocks & Studio Screens
 * [OnAirScreen](https://github.com/saschaludwig/OnAirScreen) - 针对专业广播环境的跨平台“OnAir Lamp”解决方案.
 * [PiClock](https://github.com/simonhyde/PiClock) - 可定制的基于网络的时钟显示、直播、麦克风直播和其他演播室指示器.
@@ -224,6 +223,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 
 ## Video Production
 
+* [AutoMix](https://github.com/InsanityRadio/automix/) - 用于 ATEM 视觉混音器的基于 Web 的控制界面，具有自动摄像头切换功能，专为可视化收音机而设计.
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - 作为 MOS 设备或 NRCS 用于连接和 MOS 消息传递的 JavaScript 库.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - 用于照明行业的旅行适配器，用于互连 DMX-512、IP 和 USB.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - DMX 或模拟照明系统（灯头、调光器等）的跨平台控制.
@@ -246,8 +246,6 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [IRT Lab](https://web.archive.org/web/20210830075332/https://lab.irt.de/) - IRT 博客发布所有数字视听媒体技术的开发和演示.
 * [The Netflix Tech Blog](http://techblog.netflix.com/) - 一个专注于技术和技术问题的 Netflix 博客.
 * [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - YouTube 的工程和开发人员正在发生什么.
-
-<!-- This page is available on https://ebu.io/opensource -->
 
 ## Contributing
 请参见 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 详情.

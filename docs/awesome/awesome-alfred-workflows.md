@@ -7,7 +7,7 @@
 
 令人敬畏的 Alfred 工作流程的精选列表.
 
-[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展提高您的效率.
+[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展来提高您的效率.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -40,7 +40,7 @@
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - 包回购搜索.
 - [Packagist](https://github.com/vinkla/alfred-packagist) - 搜索 PHP 包 [Packagist](https://packagist.org).
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出、搜索和开放源代码树存储库.
-- [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - 使用 Alfred2 列出和控制 Vagrant 环境.
+- [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 - [VSCode](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - 使用 Visual Studio Code 打开文件或文件夹的 Alfred 4 工作流.
 
 ## Text Manipulation
@@ -68,6 +68,7 @@
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - 将任务添加到 Todoist.
 
 ## Miscellaneous
+- [Emoji picker](https://github.com/devnoname120/alfred-emoji-picker) - 快速表情符号输入.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - 表情符号的片段包.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - 从文本中查找相关的表情符号.
 - [Gitmoji](https://github.com/techouse/alfred-gitmoji) - 搜索 [Gitmojis](https://gitmoji.dev) 容易地.
@@ -95,7 +96,7 @@
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - 关键线索、菜单栏和键盘大师热键搜索
 - [Network Info](http://www.packal.org/workflow/network-info) - 显示所有网络接口的 IP 地址或 MAC 地址.
 - [SSH](https://github.com/isometry/alfred-ssh/) - 基于 `~/.ssh/known_hosts`、`~/.ssh/config` 和 `/etc/hosts` 自动完成 SSH 会话
-- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
+- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - 查询 `~/.ssh/config` 并使用 iTerm 徽章打开 ssh 主机.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - 在打开的窗口和浏览器 (Safari/Chrome) 选项卡之间切换.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - 在指定的时间段内将其计算机的音量静音.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - 在终端/iTerm 中打开当前 Finder 窗口的 Alfred 工作流程，反之亦然.
@@ -119,7 +120,7 @@
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
-- [Packal](http://www.packal.org/) - 找到工作流的最大地方.
+- [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
 - [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 

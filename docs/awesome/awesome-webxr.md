@@ -38,7 +38,7 @@
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听方的录音部分仍然可以查看.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家的云.
 - [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
-- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
+- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验进行线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
@@ -65,7 +65,7 @@
 
 - [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - 最早的 WebXR 相关组，最初是为 WebVR 制作的.
 - [WebXR](https://www.facebook.com/groups/arvrweb/) - 稍新的以 WebXR 为中心的组.
-- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - 由 Belivvr 创建的韩国 WebXR 组.
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - Belivvr 创建的韩国 WebXR 组.
 - [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - WebXR Paris 小组的伙伴 [Meetup](https://www.meetup.com/WebXR-Paris/).
 
 ### Forums
@@ -98,7 +98,7 @@
 
 
 - [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
-- [Construct Arcade](https://constructarcade.com/) - 一个精选的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
+- [Construct Arcade](https://constructarcade.com/) - 一个精心策划的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
 - [Extended Collection](https://extendedcollection.com/) - WebXR 内容的另一个策展中心，由 [Joseph Simpson](https://github.com/vrhermit/).
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
 - [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.
@@ -108,7 +108,9 @@
 
 ### Engines
 
-- [Godot](https://godotengine.org/) - 从 3.2.4 版开始支持 WebXR 的跨平台开源引擎.
+- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+
+- [Godot](https://godotengine.org/) - 自 3.2.4 版起支持 WebXR 的跨平台开源引擎.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
 - [nunuStudio](https://www.nunustudio.org/) - 基于three.js 构建的多平台开源引擎，可在本地或在浏览器中使用.
@@ -123,8 +125,6 @@
 
 - [Wonderland Engine](https://wonderlandengine.com/) - 专为构建 WebXR 应用程序而设计的开发平台.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
-
-- [XREngine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ### Frameworks and Libraries
 
@@ -141,7 +141,7 @@
 
 - [p5.xr](https://p5xr.org/) - 库 p5.js 的附加组件，可让您创建身临其境的 p5 草图.
 
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - Three.js 的 React 渲染器. 其他 WebXR 特定的钩子和组件可在 [React XR](https://github.com/pmndrs/react-xr) 以及.
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - Three.js 的 React 渲染器. 其他 WebXR 特定的钩子和组件可在 [React XR](https://github.com/pmndrs/react-xr) 也是.
 
 - [Spaces VR](https://github.com/spacesvr/spacesvr) - 用于快速创建基于 react-three-fiber 的 VR 网站的前端框架.
 
@@ -185,7 +185,7 @@
 - [3XR](https://www.3xr.space/) - 一个项目 [microchipgnu](https://github.com/microchipgnu) 它与 Mintbase 集成，为 NEAR 上的 NFT 艺术品创建虚拟画廊.
 - [glry.xyz](https://glry.xyz/) - 在 Tezos 区块链上托管 NFT 艺术虚拟画廊的网站.
 - [oncyber](https://oncyber.io/) - 提供免费和收藏画廊空间来展示跨多个不同链的 NFT.
-- [RareRooms](https://www.rarerooms.io/) - 允许您创建身临其境的 NFT 画廊，支持多个不同的链/市场.
+- [RareRooms](https://www.rarerooms.io/) - 允许您创建身临其境的 NFT 画廊，并支持多个不同的链/市场.
 
 ### Monetization
 
