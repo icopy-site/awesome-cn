@@ -18,7 +18,7 @@
 
 - [v](https://github.com/vlang/v)  - V 本身. 用于开发可维护软件的简单、快速、安全的编译语言.
 - [vbf](https://github.com/vpervenditti/vbf) - 一个脑残的解释器/编译器.
-- [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 并在.
+- [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在 V.
 - [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
 
@@ -43,11 +43,12 @@
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和情节 *[Is V still fast?](https://fast.vlang.io/)*. 
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和情节 *[Is V still fast?](https://fast.vlang.io/)*.
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写
 
 ### Graphics
 
-- [vRayTracer](https://github.com/ali-raheem/vraytracer) - 一个用 V 编写的简单光线追踪器.
+- [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
 ### Games
 
@@ -201,6 +202,7 @@
 - [random](https://github.com/Delta456/random) - 一个用 V 编写的通用随机库.
 - [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造器.
+- [vexc](https://github.com/div72/vexc) - 使用 setjmp/longjmp 的 V 例外.
 
 ## Other
 
@@ -214,7 +216,7 @@
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - Atom 的 V 语言支持（vscode-vlang 的端口）.
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
 - [v-mode](https://github.com/damon-kwok/v-mode) - V 编程语言的 Emacs 主要模式.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 Support for the Vlang Programming Language.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
 
 ### Editor plugins
 
@@ -250,7 +252,6 @@
 ### Articles
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
-- [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
 - [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
 
 ### Books

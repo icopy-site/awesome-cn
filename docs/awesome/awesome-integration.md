@@ -57,12 +57,12 @@
 *API 测试工具.*
 - API 客户端
   - [curl](https://github.com/curl/curl) - 用于通过 URL 传输数据的命令行工具和库.
-  - [curlie](https://curlie.io) - curl 的前端，增加了 httpie 的易用性，而不会影响功能和性能.
+  - [curlie](https://curlie.io) - A frontend to curl that adds the ease of use of httpie, without compromising on features and performance.
   - [HTTPie](https://httpie.io) - 命令行 HTTP 客户端，比 curl 对开发人员更友好.
   - [Insomnia](https://insomnia.rest/products/insomnia) - 跨平台 HTTP 和 GraphQL 客户端.
   - [Postman](https://www.postman.com/product/api-client/) - 发出 HTTP 请求、生成模拟服务器和制作 API 文档的工具.
   - [SoapUI](https://www.soapui.org/tools/soapui) - 用于 SOAP 和 REST 的开源 Web 服务测试应用程序.
-- 客户 MQ
+- MQ 客户端
   - [JMSToolBox](https://github.com/jmstoolbox/jmstoolbox) - 一个通用的 JMS 客户端，能够与最大数量的基于 JMS 的消息代理进行交互.
   - [kcat](https://github.com/edenhill/kcat)  - Apache Kafka 的通用非 JVM 生产者和消费者，将其视为 Kafka 的 netcat. 以前称为kafkacat.
   - [Offset Explorer](https://www.kafkatool.com)  - 用于管理和使用 Apache Kafka 集群的 GUI 应用程序. 以前称为卡夫卡工具.
@@ -89,7 +89,7 @@
 ### BPM
 *业务流程管理解决方案.*
 - [Appian BPM Suite](https://appian.com/platform/complete-automation/business-process-management-bpm.html) - 平台将低代码开发与流程管理相结合
-allow both IT and citizen developers to construct process-centric and case-centric applications.
+允许 IT 和公民开发人员构建以流程为中心和以案例为中心的应用程序.
 - [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - 编排更有效的流程、促进增长、提高成本效率并推动业务敏捷性.
 - [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - 全面的业务流程管理平台.
 - [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - 用于开发、管理和使用以业务流程为中心的业务应用程序的集成环境.
@@ -162,14 +162,17 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - 来自阿里云的全托管 Apache Kafka 服务.
 - [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - 具有高吞吐量、低延迟和高可扩展性的分布式、完全托管和专业的消息传递服务.
 - [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - 一种分布式消息队列和通知服务，支持并发操作以促进应用程序和解耦系统之间的消息传输.
-- [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信.
+- [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A  distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - 企业级云消息传递，与 Anypoint 平台完全集成.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - 可靠的云消息传递即服务 (MaaS) 和简单的混合集成.
 - [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ 即服务.
 - [CloudKarafka](https://www.cloudkarafka.com/) - AWS 和 Google Cloud 上提供经济实惠且简单明了、完全托管的 Kafka 集群.
 - [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - 事件驱动系统和流分析的消息传递和摄取.
+- [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - 一种完全托管的高性能消息队列服务，可在分布式应用程序之间实现可靠、灵活和异步的通信.
+- [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - 托管 Apache Kafka 服务.
 - [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - 在企业应用程序、系统和服务之间轻松移动数据.
 - [IronMQ](https://www.iron.io/mq) - 专门针对云创建的弹性消息队列.
+- [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - 一个实时、无服务器、与 Apache Kafka 兼容的事件流平台.
 - [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - 一个完整的事件流、管理和洞察平台.
 - [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - 与 Amazon SQS HTTP API 的兼容性.
 - [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - 托管 Apache Kafka 服务.
@@ -201,7 +204,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [Apache RocketMQ](https://rocketmq.apache.org) - 快速、可靠和可扩展的分布式消息传递平台.
 - [Apache Qpid](https://qpid.apache.org) - Apache Qpid 制作了使用 AMQP 并支持多种语言和平台的消息传递工具.
 - [Eclipse Mosquitto](https://mosquitto.org/) - 实现 MQTT 协议的轻量级开源消息代理.
-- [IBM MQ](https://www.ibm.com/products/mq) - Enterprise-grade messaging capabilities that skillfully and safely move information between applications.
+- [IBM MQ](https://www.ibm.com/products/mq) - 企业级消息传递功能，可在应用程序之间巧妙、安全地移动信息.
 - [KubeMQ](https://kubemq.io/) - Kubernetes 消息队列代理企业级消息代理和消息队列，可扩展、高可用性和安全性.
 - [NATS](https://github.com/nats-io/gnatsd) - 用于微服务、物联网和云原生系统的轻量级、高性能消息传递系统.
 - [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - Oracle Advanced Queuing (AQ) 提供跨许多行业的企业消息功能，并在数据库本身中广泛使用. 
@@ -214,7 +217,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 ### RPA
 *机器人过程自动化 (RPA) 解决方案.*
 - [Automation Anywhere](https://www.automationanywhere.com/) - 智能自动化生态系统.
-- [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - Intelligent automation - business-developed and no-code automation RPA platform.
+- [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - 智能自动化——业务开发的无代码自动化RPA平台.
 - [UiPath](https://www.uipath.com/product) - 自动化通常由人执行的重复性数字任务.
 - [WorkFusion](https://www.workfusion.com/platform/) - 企业自动化平台.
 
@@ -232,7 +235,7 @@ allow both IT and citizen developers to construct process-centric and case-centr
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) - 用于在 Kubernetes 上编排并行作业的开源容器原生工作流引擎.
 - [Azkaban](https://github.com/azkaban/azkaban) - 分布式工作流管理器，在 LinkedIn 实施，用于解决 Hadoop 作业依赖性问题.
 - [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有可选开发环境、设计器、可选用户界面和管理工具的 BPMN 引擎.
-- [Cadence](https://github.com/uber/cadence) - 容错状态代码平台.
+- [Cadence](https://github.com/uber/cadence) - Fault-Tolerant Stateful Code Platform.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台.
 - [Conductor](https://github.com/Netflix/conductor) - Netflix Conductor 是一个在云中运行的编排引擎.
 - [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个工作流库，可在任何 .NET Core 应用程序中执行工作流.

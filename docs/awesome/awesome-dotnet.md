@@ -430,7 +430,7 @@
 ## Git Tools
 
 * [Husky.Net](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
-* [Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)  - Bonobo Git Server for Windows 是一个 Web 应用程序，您可以安装在 IIS 上并轻松管理和连接到 Git 存储库.  https://bonobogitserver.com/
+* [Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)  - Bonobo Git Server for Windows 是一个 Web 应用程序，您可以安装在 IIS 上并轻松管理和连接到您的 Git 存储库.  https://bonobogitserver.com/
 * [GitExtensions](https://github.com/gitextensions/gitextensions)  - GitExtensions 是一个 shell 扩展、一个 Visual Studio 2008/2010/2012/2013 插件和一个独立的 Git 存储库工具.  https://gitextensions.github.io/
 * [GitLink](https://github.com/GitTools/GitLink) - 让用户逐步了解托管在 GitHub 或 BitBucket 上的代码
 * [GitVersion](https://github.com/GitTools/GitVersion) - 根据 Git 存储库的状态生成语义版本号
@@ -720,7 +720,7 @@
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [Warden](https://github.com/warden-stack/Warden)  - 为您的应用程序、资源和基础设施定义“健康检查”. 让您的守望者时刻保持警惕
-* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
+* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示的值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
 * [Jot](https://github.com/anakic/jot) - 一个用于持久化和恢复应用程序状态的库（一个更好的替代 .settings 文件）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 该库使您能够在 .NET 中枚举和与 Hid 兼容的 USB 设备进行通信.
@@ -878,6 +878,7 @@
 
 * [gRPC](https://github.com/grpc/grpc-dotnet)   .NET Core 的 RPC 库和框架. 阅读更多关于它的信息 [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
 * [CoreRPC](https://github.com/kekekeks/CoreRPC)  - 针对 netstandard1.3 的类似 WCF 的 RPC 的可扩展库. 与 .NET、Mono 和 .NET Core 兼容.
+* [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC 旨在为探索和查询您的 GRPC 服务提供最简单、最高效的开发者体验.
 
 ## Reactive Programming
 
@@ -1026,7 +1027,7 @@
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用.  **[免费][专有]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 * [Netling](https://github.com/hallatore/Netling)  - 用于轻松进行 Web 测试的负载测试器客户端. 它在使用很少的 CPU 或内存时非常快.
-* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一个开源（基于.NET）的测试电子邮件查看器，它使用内置的 SMTP 服务器在本地运行，旨在接收和通知测试电子邮件消息.
+* [Papercut](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut 是一个开源（基于.NET）的测试电子邮件查看器，它使用内置的 SMTP 服务器在本地运行，用于接收和通知测试电子邮件消息.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  - 用于原型设计或作为 CRUD 后端的假 REST API. 无需定义类型，使用动态类型. 数据存储到单个 JSON 文件中. 具有身份验证、WebSocket 通知、异步长时间运行操作、随机生成错误/延迟和实验性 GraphQL 支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell` 选项卡完成 [dotnet CLI](https://github.com/dotnet/cli)
@@ -1098,7 +1099,7 @@
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket 是一个轻量级的可扩展套接字应用框架
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - 适用于 .NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 和 WinRT 的 WebSocket 客户端
-* [Crossertech](https://crosser.io/)  - 为您提供一套很棒的工具来在 Microsoft.NET 平台上构建实时应用程序等等.  **[$]**
+* [Crossertech](https://crosser.io/)  - 为您提供一套出色的工具，用于在 Microsoft.NET 平台上构建实时应用程序等等.  **[$]**
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - 提供远程过程调用和通过 WebSockets 发布/订阅的消息传递模式的协议.
 * [NetGain](https://github.com/StackExchange/NetGain) - 为 Stack Overflow 提供动力的高性能 WebSocket 服务器库.
 * [Websockets.PCL](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.

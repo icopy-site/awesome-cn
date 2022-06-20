@@ -108,6 +108,7 @@
 - [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初学者到高级概念的书，包含源文件.
 
 #### Books
+<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810091/81341/cover/9781009181341.jpg">[Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.)](https://www.cambridge.org/core/books/programming-in-ada-2012-with-a-preview-of-ada-2022/AD30275F35CCECB97EAB80ABC32B019C#) - 综合的.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) - 一般，中级.    
@@ -138,9 +139,9 @@
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 的艾达.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
-- [telegram-ada](https://t.me/ada_lang) - Telegram 的 Ada 小组.
+- [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
-- [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - 通过 Matrix 在 Gitter 的 Ada 房间.
+- [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - 通过 Matrix 在 Gitter 有一个房间.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - 深入了解 AdaCore 生态系统.
@@ -182,7 +183,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -272,7 +273,7 @@
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果游戏应用程序
  - [civ-klon] - 文明风格的回合制策略游戏. 需要 [asfml].
 
-[文明克隆]：https://github.com/HonkiTonk/Civ-Klon
+[civ-klon]：https://github.com/HonkiTonk/Civ-Klon
 
 ## Frameworks
 
@@ -301,7 +302,7 @@
 
 [gnoga]：https://sourceforge.net/projects/gnoga/
 [gtkada]：https://github.com/AdaCore/gtkada
-[ada-gui]：https://github.com/jrcarter/Ada_GUI
+[ada-gui]: https://github.com/jrcarter/Ada_GUI
 
 #### Terminal User Interface
 
@@ -327,7 +328,7 @@
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
     - [ada-el](https://github.com/stcarrez/ada-el) - 该库支持接近 Java 统一表达式语言 (EL) 的简单表达式语言.
-    - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（请参阅 JSR 252、JSR 314 和 JSR 344）.
+    - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（参见 JSR 252、JSR 314 和 JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet 允许使用与 Java Servlet 相同的模式创建 Web 应用程序（参见 JSR 154、JSR 315）.
 - [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 对 Swagger 代码生成的支持：OpenAPI 生成器是一个代码生成器，它支持在给定 OpenAPI 规范的情况下自动生成 API 客户端库、服务器存根和文档.
 - [ews](https://github.com/simonjwright/ews) - Embedded Web Server 是一个 Web 服务器构建工具包，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
@@ -477,7 +478,7 @@
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 编解码器，例如 Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - Ada 中 Axon 的 ABF 文件格式（电生理学，最常见）的访问例程库.
-- [ada-toml] - 存在的 TOML 解析器.
+- [there-toml] - 现有的 TOML 解析器.
 - [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI 和 MIME 解析器和操作库.
 
 [protobuf]：https://github.com/reznikmm/protobuf
@@ -515,7 +516,7 @@
 - [plplot] - 跨平台的科学图形绘图库，包括 Ada 绑定.
 
 [asfml]：https://github.com/mgrojo/ASFML
-[plplot]：https://sourceforge.net/projects/plot/
+[plplot]：https://sourceforge.net/projects/plplot/
 
 
 #### General Purpose Computing
@@ -525,7 +526,7 @@
 
 #### Sound
 - [opus-ada](https://github.com/onox/opus-ada) - Opus 音频编解码器的 Ada 2012 绑定.
-- [canberra-ada](https://github.com/onox/canberra-ada) - libcanberra 的 Ada 2012 绑定，XDG 声音主题和名称规范的实现.
+- [canberra-ada](https://github.com/onox/canberra-ada) - 用于 libcanberra 的 Ada 2012 绑定，XDG 声音主题和名称规范的实现.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - libsoundio 的 Ada 绑定.
 - [oto](https://github.com/darkestkhan/oto) - Ada 绑定到 OpenAL，它在使用 Ada 类型时尝试模仿原始 API.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
@@ -539,7 +540,7 @@
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
-- [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
+- [ssprep](https://github.com/persan/ssprep.git) - 一个类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，可在 Ada 程序中输出到控制台.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，可从文件夹层次结构中选择文件，概率与其大小成正比.
@@ -619,7 +620,7 @@
 - [hunter](https://github.com/thindil/hunter) - Linux 的图形 ([gtkada]) 文件管理器.
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder 是一个邮件过滤器，可作为邮件服务器的插件运行，提供对数十个标准的过滤以及对已知良好邮件的管理.
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder 是一个邮件过滤器，作为邮件服务器的插件运行，提供对数十个标准的过滤以及对已知良好邮件的管理.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - 由 SPARK/Ada 验证的权威 DNS 服务器.

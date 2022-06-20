@@ -24,10 +24,10 @@
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 首屏漂亮的小菜单，带有有用的链接. 里面的一个常见问题解答主要问题. 支持者. 好语言.
 - [chroline/well_app](https://github.com/chroline/well_app#readme)  - 具有引人注目的项目缩略图和干净的徽章，以及下载信息和快速导航链接. 组织成多个描述性部分，每个部分都有一个带有黄色表情符号的标题. 包括有关项目本身的详细信息，以及使用的技术和如何贡献.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 带有快速入门的清晰自述文件、易于理解的安装和使用手册、视频截屏、带有文档完善的项目功能的 ToC（带有终端中工作的演示记录）、项目理念说明（“为什么另一个”）、最常见的问题、和更多.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、标志、TOC 等.以一篇关于技术、如何使用、背后的哲学以及它如何融入更大的生态系统的巨大、精心撰写的文章脱颖而出.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、徽标、TOC 等.以一篇关于技术、如何使用、背后的哲学以及它如何融入更大的生态系统的巨大、精心撰写的文章脱颖而出.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  - 使用 GIF 截图清除自述文件以进行快速演示. 多个徽章、简洁的 ToC、在线游乐场、故事书、详细说明等等.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme)  - 项目横幅和标志. 徽章. 可扩展的演练部分. 简洁的描述和目的. 目录便于导航. 用于安装演示的 GIF. 多种信息丰富的视觉效果.
-- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - 项目标志、信息徽章、有用的目录、清晰的描述、屏幕截图、分步安装和配置指南、贡献者指南、行为准则、UML 图、连贯的标签、问题和拉取请求模板、文档齐全且良好-注释代码，示例.
+- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - 项目徽标、信息徽章、有用的 TOC、清晰的描述、屏幕截图、分步安装和配置指南、贡献者指南、行为准则、UML 图、连贯的标签、问题和拉取请求模板，有据可查且良好-注释代码，示例.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme)  - 目录便于导航. 简洁的项目描述. 安装和使用部分. 输出示例. 很棒的功能概述. 替代品清单. 常问问题.
 - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme)  - 清晰的描述. 项目标志. 应用商店徽标. 目录干净的屏幕截图. 功能列表. 详细的安装过程. 登陆页面.
 - [gofiber/fiber](https://github.com/gofiber/fiber#readme)  - 清洁项目标志. 有用的徽章和链接（语言切换器、代码风格、测试封面、文档、Discord 频道）. 通过快速入门、基准图表、有据可查的代码示例（具有隐藏长内容的能力）、项目理念说明（“项目的原因”）、带有项目插件的表格、贡献者列表、星号，清楚地描述项目所做的事情增长统计等.
@@ -43,6 +43,7 @@
 - [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme)  - 完整的项目文件描述. 项目标志. 动画项目横幅. 简洁的项目描述. 清除执行指令.
 - [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) - 徽章（版本、下载量、覆盖范围、大小）、Twitter 意图、项目徽标、功能列表、动机、安装、GIF 示例、表情符号、可折叠部分、现场演示、API 详细使用情况、常见问题解答、聊天链接.
 - [Martinsos/edlib](https://github.com/Martinsos/edlib#readme)  - 信息徽章（构建、版本、发布）. 简洁的描述. 功能列表. 目录截图. 简洁的说明以及用于构建和包含在项目中的示例. 常见代码示例可帮助您快速入门.
+- [NASA/ogma](https://github.com/NASA/ogma#readme)  - 清晰的描述. 功能列表. 演示 GIF. 简单的安装说明. 使用代码示例. 目录便于导航.
 - [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme)  - 项目横幅. 用于统计的徽章. 放置良好的表情符号. 投稿人的照片.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor#readme)  - 项目标志. 带有演示 GIF 的项目功能的清晰概述. 徽章. 目录便于导航. 标题前的彩色图标.
 - [node-chat](https://github.com/IgorAntun/node-chat#readme)  - 项目截图. 信息徽章. 清晰的描述. 易于安装/使用说明. 现场演示.

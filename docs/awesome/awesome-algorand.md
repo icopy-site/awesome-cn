@@ -34,7 +34,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Pera Wallet](https://github.com/perawallet)  - 用于移动设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的 Web 钱包和 JS 库.
-- [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件 Web Wallet 和 JS 库，用于在浏览器中签署交易.
+- [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 - [Method Wallet](https://methodwallet.app/) - 你会喜欢的 Algorand 钱包.
 
 ## Blockchain Explorers
@@ -108,6 +108,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algo-builder](https://github.com/scale-it/algo-builder) - 自动开发 Algorand 资产和智能合约的框架.
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - 用于 Algo Builder 的 Dapps 模板.
 - [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapp（打字稿）的更简单的 Algo sdk.
+- [perawallet-connect](https://github.com/perawallet/connect) - 用于将 Pera Wallet 集成到 Web 应用程序的 JavaScript SDK.
 
 ### Java
 
@@ -155,7 +156,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApps）的特定领域语言.
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
-- [algoml](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
+- [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 
 ### Docker

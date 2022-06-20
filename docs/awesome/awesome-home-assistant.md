@@ -193,7 +193,7 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [Animated Weather Card](https://github.com/bramkragten/weather-card) - 显示天气的漂亮卡片，带有微妙的动画.
 - [Thermostat Card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 看起来像 Nest 恒温器的恒温器控制卡.
 - [Mini Media Player](https://github.com/kalkih/mini-media-player) - 简约的媒体播放器卡.
-- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - 简约的传感器图形卡.
+- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card.
 - [Button card](https://github.com/kuuji/button-card) - 您的实体的按钮卡.
 - [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - 添加一个滑块来调整，例如，lovelace 实体卡中的灯光亮度.
 - [Power Wheel Card](https://github.com/gurbyz/power-wheel-card) - 一种直观的方式来表示您家正在消耗或产生的电力.
@@ -217,7 +217,7 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) - LG TV WebOS 的遥控器.
 - [Restriction Card](https://github.com/iantrich/restriction-card) - 提供对其中定义的 Lovelace 卡的限制的卡.
 - [Vacuum Card](https://github.com/denysdovhan/vacuum-card) - 用于控制真空吸尘器机器人的卡对卡.
-- [Purifier Card](https://github.com/denysdovhan/purifier-card) - A card for controlling air purifiers.
+- [Purifier Card](https://github.com/denysdovhan/purifier-card) - 用于控制空气净化器的卡.
 - [Raspberry Pi Status Card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - 显示您的树莓派的状态.
 
 ### Alternative Dashboards
@@ -235,7 +235,6 @@ _由社区创建的家庭助理的其他集成._
 - [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - 集成 Volkswagen Carnet（需要有效的 Carnet 订阅）.
 - [Untappd](https://github.com/custom-components/sensor.untapped) - 连接到您的 Untappd 帐户.
 - [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - 将事件发布到 Elasticsearch.
-- [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) - 使用库存固件控制 Sonoff/eWeLink 智能设备.
 - [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) - 允许控制亚马逊 Alexa 设备.
 - [iCloud3](https://github.com/gcobb321/icloud3) - iCloud 设备跟踪器组件的改进版本，具有很多功能.
 - [HACS](https://hacs.xyz/) - 这是您自定义集成（组件）和插件（lovelace 元素）需求的管理器.
