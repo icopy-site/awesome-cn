@@ -51,7 +51,7 @@
 * [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen 的联合创始人谈论了运营网络软件业务的来龙去脉.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - 一个关于从命令行转变技术的人的新播客.
-* [Complete Developer Podcast](https://completedeveloperpodcast.com/)  - 有很多关于语言和编码的播客. 我们使用 Complete Developer Podcast 所做的是涵盖生活的其他领域. 例如，我们的第一集是关于与客户、老板和其他与开发人员互动但不是开发人员同事的人交谈.
+* [Complete Developer Podcast](https://completedeveloperpodcast.com/)  - 有很多关于语言和编码的播客. 我们使用 Complete Developer Podcast 所做的是涵盖生活的其他领域. 例如，我们的第一集是关于与客户、老板和其他与开发人员互动但不是开发人员同行的人交谈.
 * [Composers Play](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf) - 经常在玩游戏时聆听视频游戏作曲家与作曲家讨论标志性游戏的配乐，例如质量效应、毁灭公爵 II、毁灭战士和系统冲击.
 * [CppCast](http://cppcast.com/) - C++ 开发人员为 C++ 开发人员提供的第一个播客.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - 关于视觉和创意应用程序的编程.
@@ -106,7 +106,7 @@
 * [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  - 一个关于桌面 Linux、开源软件和创建它的社区的激动人心的世界的节目. 适合初学者和老手！ 由福布斯的 Jason Evangelho 和朋友主持.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) - 每周 Linux 现场和公开脱口秀
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/)  - Jeff Barr 讨论了 Amazon Web Services (AWS) 产品的各个方面. 每个播客都包括 AWS 新闻、技术提示以及对初创公司、AWS 合作伙伴和 AWS 员工的采访.
-* [Magic Read Along](http://www.magicreadalong.com)  - 关于编程、生活和互联网的播客. 主题包括 FP、OOP、开发实践以及不时深入了解我们的个人生活.
+* [Magic Read Along](http://www.magicreadalong.com)  - 关于编程、生活和互联网的播客. 主题包括 FP、OOP、开发实践以及不时深入我们的个人生活.
 * [Makers](https://crew.co/) - 对当今最具影响力和实验性的制造商产生影响的意想不到的生活时刻.
 * [Mastering Embedded Systems](https://embeddedsuccess.com/podcast/)  - 我发现了掌握嵌入式系统的四大问题： 1. 专家不够；  2.设计不足，故障检测不力；  3. 强制多站点方法失败；  4. 管理虚拟团队的错误我会教你克服这些挑战的诀窍和工具.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - 关于开发人员和公司使用云来创造未来的播客.
@@ -124,7 +124,7 @@
 * [PHP Town Hall](http://phptownhall.com/) - 市政厅是 PHP 开发人员就 PHP 社区中当前事件（或即将发生的事情）提出问题的一种方式，每周都有不同的客人.
 * [Podcast.\__init__](https://www.pythonpodcast.com/) - 关于 Python 和使它变得伟大的人的播客.
 * [Practical AI](https://changelog.com/practicalai) – 让人工智能变得实用、高效，并且每个人都可以使用.
-* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - 这个每周播客提供一些想法，帮助您成为数字隐形人，保持安全免受网络威胁，并使您成为更好的在线调查员.
+* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - 这个每周播客提供一些想法，帮助您在数字上隐形，远离网络威胁，让您成为更好的在线调查员.
 * [Python Bytes](https://pythonbytes.fm/) - Python 头条新闻直接发送到您的耳塞.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab)  - Radiolab 是一个关于好奇心的节目. 声音照亮思想，科学、哲学和人类经验之间的界限变得模糊.
 * [React Podcast](https://reactpodcast.com/) - 关于 React.js 的播客
@@ -164,7 +164,7 @@
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee 汇集了一群对敏捷方法和精益实践充满热情的从业者.
 * [The Amp Hour](https://theamphour.com/) - 在长达一小时（ish）的每周节目中讨论电子设计世界.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - 重要的是网络.
-* [The Bike Shed](http://bikeshed.fm/) - 在自行车棚上，主持人 Derek Prior、Sean Griffin、Laila Winner 和嘉宾讨论了他们在 Ruby、Rails、JavaScript 以及其他任何本周引起他们注意、钦佩或愤怒的事物方面的开发经验和挑战.
+* [The Bike Shed](http://bikeshed.fm/) - 在自行车棚上，主持人 Derek Prior、Sean Griffin、Laila Winner 和嘉宾讨论了他们在 Ruby、Rails、JavaScript 以及本周引起他们注意、钦佩或愤怒的任何其他方面的开发经验和挑战.
 * [The Bug Bounty Podcast](https://anchor.fm/bugbountypodcast)  - 关于错误、赏金及其研究人员的播客. 费舍尔主持.
 * [The Changelog](https://changelog.com/podcast) - 与软件开发的黑客、领导者和创新者的对话.
 * [The Cognicast](http://blog.cognitect.com/cognicast) - Cognicast 以前的 ThinkRelevance：Podcast 是 Cognitect 家族的播客.
@@ -198,7 +198,7 @@
 
 ## In Portuguese
 
-* [Laravel Portugal Live](https://laravel.pt)  - Laravel 葡萄牙成员聚集在一起讨论 Laravel、PHP、葡萄牙社区、想法等.  @joselaborges
+* [Laravel Portugal Live](https://laravel.pt)  - Laravel 葡萄牙成员聚集在一起讨论 Laravel、PHP、葡萄牙社区、想法等.  @joslaborges
 * [Ubuntu Portugal (podcast)](https://ubuntu-pt.org/)  - Ubuntu 葡萄牙社区 (Ubuntu-PT) 是支持 GNU/Linux、Ubuntu 发行版的葡萄牙社区. 这个社区由一群自愿奉献的人组成，他们不仅致力于推广 Ubuntu 操作系统和一般自由软件的使用，而且还支持这个 GNU/Linux 发行版的葡萄牙用户.
 * [10deploys](https://www.10deploys.com/) - 讨论 DevOps 背后的起源、趋势、影响和概念，旨在帮助组织将自己转变为高绩效组织.
 * [99Vidas](http://99vidas.com.br/) - 怀旧、有趣和对电子游戏的很多看法.
@@ -209,6 +209,7 @@
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - 第一个关于数据库的巴西播客.
 * [DevDrops](https://anchor.fm/devdrops) - 您关于软件开发的播客.
 * [DataHackers](https://datahackers.com.br/podcast) - 每月播客，让数据科学专业人士谈论就业市场、职业和新闻.
+* [DASH](https://jogabilida.de/category/podcasts/podcast-games/dash/) - 关于游戏的播客，其中每一集都深入探索游戏、主题、特许经营权或开发商，甚至可以作为音频迷你文档.
 * [DevNaEstrada](https://devnaestrada.com.br/) - 带有幽默感的每周网络开发播客.
 * [Elemencast](https://elemencast.github.io) - 提案是为听众带来关于前端世界、NodeJs、函数式编程等的各种内容.
 * [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw)  - The Impossible Theatre Encyclopedia 是巴西戏剧的平行历史，从它的失败中可以看出. 它们部分是虚构的，部分是对不可能的戏剧作品的真实描述.
@@ -264,15 +265,15 @@
 * [Eduardo Collado](https://www.eduardocollado.com/)  - 网络管理. 人的生活不仅来自托管和网络.
 * [Home Studio Libre: el Podcast](https://www.ivoox.com/podcast-home-studio-libre-podcast_sq_f1614625_1.html) - 在这里，您将找到有关使用免费工具制作音频和视频以及后期制作的西班牙语信息.
 * [La Pingüina Increíblemente Curiosa](https://podcast.voidnull.es/) - 关于 LPIC、认证内容和学习章节解释的播客.
-* [Más Allá de la Innovación](https://masalladelainnovacion.com) - 来自 OpenExpo 的技术采访.
+* [Más Allá de la Innovación](https://masalladelainnovacion.com) - OpenExpo 技术采访.
 * [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) - 对技术、计算机、chromebook、智能手机、平板电脑、软件、操作系统的思考：Linux、Windows 和其他应用程序.
 * [NeoSiteLinux Podcast](https://www.neositelinux.com/tags/#podcasts) - Donde lo principal es el Software Libre, GNU/Linux y la Tecnologia.
 * [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) - 法律世界一点都不酷... 10 分钟搞定科技药丸和法律.
-* [Podcast Linux](https://avpodcast.net/podcastlinux) - 来自 GNU/Linux 世界的家庭办公室用户播客.
+* [Podcast Linux](https://avpodcast.net/podcastlinux) - 来自 GNU/Linux 世界的家庭桌面用户播客.
   * [Linux Express, de Podcast Linux](https://podcastlinux.gitlab.io) - Podcast Linux 的更多个人总结.
-* [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - 文化协会 KDE España 的播客.
+* [Podcast oficial KDE España](https://www.ivoox.com/podcast-podcast-kde-espana_sq_f1249423_1.html) - 文化协会 KDE 西班牙的播客.
 * [Salmorejo Geek](https://www.ivoox.com/podcast-salmorejo-geek_sq_f1206500_1.html)  - 数字大杂烩. 特别是Linux.
-* [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - Podcast en español sobre Ubuntu y software libre en general.
+* [Ubuntu y otras hierbas](https://www.ubuntuleon.com/search?q=podcast&max-results=20&by-date=true) - 关于 Ubuntu 和一般免费软件的西班牙语播客.
 * [uGeek](https://ugeek.github.io/) - 技术、Android、Linux、服务器等等...
 
 ## In Georgian
@@ -319,7 +320,7 @@
 ## In German
 
 * [Apfelfunk](https://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
-* [Chaosradio](https://chaosradio.de) - Chaos Computer Club 的每月现场脱口秀电台节目.
+* [Chaosradio](https://chaosradio.de) - Monthly live talk radio show of the Chaos Computer Club.
 * [Freak Show](https://freakshow.fm/)  - 技术播客，通常每两周发布一次. 主要是苹果、比特币和播客.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - 关于网络政治的每周播客.
 * [Methodisch inkorrekt](http://minkorrekt.de/) - 幽默的论文评论 4. 几乎整整两周发布
@@ -365,7 +366,7 @@
 * [Ask Developer](http://www.askdeveloper.com/) - 埃及阿拉伯语方言的在线音频播客讨论了埃及和中东的技术和软件开发前景.
 * [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) - 关于技术及其先驱.
 * [Essam Cafe](https://essamcafe.com/) - 与人的每周剧集，可能我们同意或不同意他们，重要的是要从 Twitter 提名中随机主题的一些和每周小集中学习和受益.
-* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
+* [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) 一个埃及阿拉伯语播客讨论技术新闻.
 * [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) - 主题分为两个轴：1- 管理和创业，以及在投资、运营、营销、伙伴关系等方面与它们相关的内容. 2- 生活、人际关系、成功和方法，以及我们如何生活一种确保与自己和解的方式.
 * [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) - 一个用于电子商务、商业和营销的阿拉伯语播客，帮助企业主衡量、理解和发展他们的在线销售.
 

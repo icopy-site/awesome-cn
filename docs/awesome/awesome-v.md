@@ -44,11 +44,11 @@
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和情节 *[Is V still fast?](https://fast.vlang.io/)*.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.
 
 ### Graphics
 
-- [vRayTracer](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
+- [vRayTracer](https://github.com/ali-raheem/vraytracer) - 一个用 V 编写的简单光线追踪器.
 
 ### Games
 
@@ -68,6 +68,7 @@
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
+- [klonol](https://github.com/hungrybluedev/klonol)  - CLI 工具可帮助您“克隆所有”属于您的 git 存储库. 适用于 GitHub 和 Gitea.
 
 ### Project management
 
@@ -158,7 +159,7 @@
 
 ### Automation
 
-- [vrobot](https://github.com/eioo/vrobot) - V 的桌面自动化.仅支持 Windows.
+- [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
 
 ### Telegram
 
@@ -203,6 +204,10 @@
 - [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造器.
 - [vexc](https://github.com/div72/vexc) - 使用 setjmp/longjmp 的 V 例外.
+
+### Telecommunications
+
+- [vagi](https://github.com/Ouri028/vagi) - V 中的 Asterisk FastAGI 库.
 
 ## Other
 

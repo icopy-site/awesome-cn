@@ -9,7 +9,7 @@
 
 &gt; 精心挑选的令人敬畏的 Craft CMS 文章、资源和闪亮事物的列表.
 
-[Craft CMS](https://craftcms.com) 是一个面向开发人员、设计师和网络专业人士的集中内容管理系统，它为客户提供了灵活性、功能和易用性. 在不影响内容作者的易用性的前提下，尽可能具有出色的可扩展性和灵活性.
+[Craft CMS](https://craftcms.com) 是一个面向开发人员、设计师和网络专业人士的集中内容管理系统，它为客户融合了灵活性、功能和易用性. 在不影响内容作者的易用性的情况下，尽可能具有出色的可扩展性和灵活性.
 
 ### Contributing
 请快速浏览 [contribution guidelines](https://github.com/craftcms/awesome/blob/master/CONTRIBUTING.md) 第一的. 如果您在此处看到不再维护或不合适的文章或资源，请提交拉取请求以改进此文件. 此外，更多类别的想法 [are needed](https://github.com/chasegiunta/awesome-craft/issues/2) ！ 感谢所有贡献者； 你摇滚！
@@ -26,7 +26,7 @@
 
 - **网站** - [craftcms.com](https://craftcms.com)
 - **手工艺贸易** - [craftcms.com/commerce](https://craftcms.com/commerce)
-- **工艺硝基** - [getnitro.sh](https://getnitro.sh)
+- **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
 - **工艺 + 工艺商业演示** - [craftcms.com/demo](https://craftcms.com/demo)
 - **Craft CMS 教程** - [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
 - **Craft CMS 3 文档** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
@@ -88,7 +88,7 @@
 ##### Assets
 - [9 Tips For Speeding Up Your Imager Transforms](https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms) 作者：André Elvan / Værsågod - `2017 年 6 月 12 日`
 - [Creating Optimized Images in Craft CMS](https://nystudio107.com/blog/creating-optimized-images-in-craft-cms) 作者：Andrew Welch/nystudio107 - `2017 年 9 月 9 日`
-- [Responsive Images with `srcset` & Craft](https://www.viget.com/articles/responsive-images-with-srcset-craft) 作者：Trevor Davis / Viget - `2016 年 3 月 22 日`
+- [Responsive Images with `srcset` & Craft](https://www.viget.com/articles/responsive-images-with-srcset-craft) 由 Trevor Davis/Viget - `2016 年 3 月 22 日`
 - [Simple Static Asset Versioning in Craft CMS](https://nystudio107.com/blog/simple-static-asset-versioning) 作者：Andrew Welch/nystudio107 - `2018 年 1 月 6 日`
 - [Support for Imgix in Imager for Craft](https://www.vaersaagod.no/en/support-for-imgix-in-imager-for-craftcms) 作者：André Elvan / Værsågod - `2017 年 7 月 10 日`
 
@@ -103,7 +103,7 @@
 
 ##### Craft 3
 - [11 Things You Need to Know About Craft 3](https://mijingo.com/blog/11-things-you-need-to-know-about-craft-3) 作者：瑞安 Irelan/Mijingo
-- [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) 作者：Lauren Swarbrick/Abstrakt-`2019 年 11 月 22 日`
+- [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) 作者：Lauren Swarbrick / 摘要-`2019 年 11 月 22 日`
 
 ##### Deployment
 - [Atomic Deployments Without Tears](https://nystudio107.com/blog/executing-atomic-deployments) 安德鲁·韦尔奇/nystudio107
@@ -124,7 +124,7 @@
 
 ##### Getting Started
 - [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) 作者：Knut Melvær-`2017 年 9 月 30 日`
-- [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) by Andrew Welch/nystudio107 - `31 July 2018`
+- [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) 作者：Andrew Welch/nystudio107 - `2018 年 7 月 31 日`
 - [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) 作者：Laura Montgomery/A Digital Agency——“2021 年 9 月 3 日”
 - [How To Get Started With SEO In Craft CMS](https://blog.galaxyweblinks.com/how-to-get-started-with-seo-in-craft-cms/) 通过 Galaxy Weblinks - `2018 年 6 月 22 日`
 - [Setting up a New Craft CMS 3 Project](https://nystudio107.com/blog/setting-up-a-craft-cms-3-project) 作者：Andrew Welch/nystudio107 - `2018 年 1 月 12 日`
@@ -167,9 +167,12 @@
 
 ##### Security
 - [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) 作者：Ben Croker/PutYourLightsOn-`2021 年 5 月 4 日`
+- [Securing Your Craft Site in 2022—Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) 作者：Ben Croker/PutYourLightsOn-`2022 年 5 月 24 日`
 - [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) 作者：Ben Croker/PutYourLightsOn-`2021 年 1 月 26 日`
 - [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) 作者：Ben Croker/PutYourLightsOn-`2021 年 1 月 13 日`
-- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - 化妆品
+- [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) 作者：Ben Croker/PutYourLightsOn——“2021 年 7 月 6 日”
+- [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) 作者：Ben Croker/PutYourLightsOn-`2021 年 10 月 31 日`
+- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - 里亚斯
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) 作者：Andrew Welch/nystudio107 - `2017 年 3 月 19 日`
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) 作者：瑞安 Irelan/Mijingo
 - [The Case of the Missing PHP Session](https://nystudio107.com/blog/the-case-of-the-missing-php-session) 作者：Andrew Welch/nystudio107 - `2017 年 10 月 3 日`
@@ -193,8 +196,8 @@
 - [Using Macros in Twig and Craft](https://mijingo.com/blog/using-macros-in-twig-and-craft) 作者：瑞安 Irelan/Mijingo
 - [Using Variables in Twig and Craft CMS](https://mijingo.com/blog/using-variables-in-twig-and-craft-cms) 作者：瑞安 Irelan/Mijingo
 - [Where am I in the Twig Loop?](https://mijingo.com/blog/where-am-i-in-the-twig-loop) 作者：瑞安 Irelan/Mijingo
-- [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) 作者：Jérôme Coupé/Webstoemp - `2015 年 7 月 15 日`
-- [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) Jérôme Coupé/Webstoemp - `2016 年 2 月 17 日`
+- [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) 由 Jérôme Coupé / Webstoemp - `2015 年 7 月 15 日`
+- [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) 作者：Jérôme Coupé / Webstoemp - `2016 年 2 月 17 日`
 - [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) 作者：Sean Smith/Caffeine Creations——“2018 年 6 月 29 日”
 - [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) Jan D&#39;Hollander - `2018 年 7 月 10 日`
 
@@ -325,9 +328,10 @@
 - [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) 作者：Adam Fairholm/New Media Campaigns - `2017 年 5 月 19 日`
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) 作者：Harry Keller/diesdas.digital - `2017 年 4 月 18 日`
 - [An Overview of Pixel & Tonic’s Craft CMS](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) 作者：Matthew Soyka——“2017 年 2 月 21 日”
+- [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) 克里斯·考克斯/布里奇制造-`2021 年 11 月 17 日`
 - [Craft CMS Vs WordPress: Why Choose Craft?](https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d) - `2018 年 6 月 19 日`
 - [Crazy About Craft](http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started) 作者：Nathan Huening/New Media Campaigns - `2017 年 2 月 27 日`
-- [How we chose Craft CMS for our product websites](https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites) 作者：Eugene Fedorenko/Wildbit - `2016 年 11 月 1 日`
+- [How we chose Craft CMS for our product websites](https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites) 由 Eugene Fedorenko / Wildbit - `2016 年 11 月 1 日`
 - [Why Content Managers Love Craft CMS](https://weareabstrakt.com/blog/2017/why-content-managers-love-craft-cms/) 作者：Lauren Swarbrick/Abstrakt——“2017 年 5 月 17 日”
 - [Why Content Writers Love Craft CMS](https://caffeinecreations.ca/why-content-writers-love-craft-cms/) 作者：肖恩·史密斯/咖啡因创作
 - [Why Craft CMS is the best content management system we (and you) have ever used](https://www.ten4design.co.uk/insight/why-craft-cms-is-the-best-content-management-system) 作者：Owen Matthews 和 Andy Green/Ten4 Design - `2017 年 4 月 21 日`
@@ -338,7 +342,7 @@
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) 由 Welford Media - `2016 年 10 月 14 日`
 - [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) 作者摘要-`2017 年 4 月 25 日`
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) 作者：Sam Goddard/Kind——“2017 年 3 月 21 日”
-- [Why Craft?](https://www.webstoemp.com/blog/why-craft-cms/) 作者：Jérôme Coupé/Webstoemp - `2015 年 6 月 17 日`
+- [Why Craft?](https://www.webstoemp.com/blog/why-craft-cms/) 由 Jérôme Coupé / Webstoemp - `2015 年 6 月 17 日`
 
 ### Podcasts
 
@@ -388,7 +392,7 @@
 
 - [Agatha Christie](http://www.agathachristie.com)
 - [An Event Apart](http://aneventapart.com)
-- [Associated Press: Blog](https://blog.ap.org) - 更多茶 [Insights](https://insights.ap.org) 网站.
+- [Associated Press: Blog](https://blog.ap.org) - 加上 [Insights](https://insights.ap.org) 网站.
 - [Atkins](http://www.atkins.com)
 - [Atlassian: Design](https://atlassian.design)
 - [Betterteam](https://www.betterteam.com/)
@@ -412,7 +416,7 @@
 - [Intel: Managed Service Providers](http://msp.intel.com)
 - [Klipsch](http://www.klipsch.com)
 - [LA Marathon](http://lamarathon.com)
-- [Layer Tennis](http://www.layertennis.com) - 一种 [Coudal Partners](http://coudal.com/) 制作赞助 [Adobe](https://www.adobe.com/).
+- [Layer Tennis](http://www.layertennis.com) - 一个 [Coudal Partners](http://coudal.com/) 制作赞助 [Adobe](https://www.adobe.com/).
 - [Medialoot](https://medialoot.com)
 - [Mini: Miles Ahead](http://www.bemilesahead.net/)
 - [Mixmag Media](http://mixmag.net)

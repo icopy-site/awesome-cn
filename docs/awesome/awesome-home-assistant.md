@@ -193,7 +193,7 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [Animated Weather Card](https://github.com/bramkragten/weather-card) - 显示天气的漂亮卡片，带有微妙的动画.
 - [Thermostat Card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - 看起来像 Nest 恒温器的恒温器控制卡.
 - [Mini Media Player](https://github.com/kalkih/mini-media-player) - 简约的媒体播放器卡.
-- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - A minimalistic sensor graph card.
+- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - 简约的传感器图形卡.
 - [Button card](https://github.com/kuuji/button-card) - 您的实体的按钮卡.
 - [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - 添加一个滑块来调整，例如，lovelace 实体卡中的灯光亮度.
 - [Power Wheel Card](https://github.com/gurbyz/power-wheel-card) - 一种直观的方式来表示您家正在消耗或产生的电力.
@@ -217,7 +217,7 @@ _家庭助理仪表板允许人们在其上构建自定义卡片，
 - [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) - LG TV WebOS 的遥控器.
 - [Restriction Card](https://github.com/iantrich/restriction-card) - 提供对其中定义的 Lovelace 卡的限制的卡.
 - [Vacuum Card](https://github.com/denysdovhan/vacuum-card) - 用于控制真空吸尘器机器人的卡对卡.
-- [Purifier Card](https://github.com/denysdovhan/purifier-card) - 用于控制空气净化器的卡.
+- [Purifier Card](https://github.com/denysdovhan/purifier-card) - A card for controlling air purifiers.
 - [Raspberry Pi Status Card](https://github.com/ironsheep/lovelace-rpi-monitor-card) - 显示您的树莓派的状态.
 
 ### Alternative Dashboards
@@ -244,6 +244,7 @@ _由社区创建的家庭助理的其他集成._
 - [WebRTC Camera](https://github.com/AlexxIT/WebRTC) - 通过 WebRTC 或带有平移/缩放控件的 MSE 实时查看来自 IP 摄像机的 RTSP 流.
 - [Sonoff LAN](https://github.com/AlexxIT/SonoffLAN) - 通过 LAN 和/或云使用 eWeLink（原始）固件控制 Sonoff 设备.
 - [Spotcast](https://github.com/fondberg/spotcast) - 在空闲的 Chromecast 设备上开始 Spotify 播放以及控制 Spotify 连接设备.
+- [The Watchman](https://github.com/dummylabs/thewatchman) - 跟踪配置文件中丢失的实体和服务.
 
 ## DIY
 

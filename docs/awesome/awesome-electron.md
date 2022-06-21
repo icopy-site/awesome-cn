@@ -224,13 +224,13 @@
 - [Rambox](https://github.com/saenzramiro/rambox) - 聊天和电子邮件应用程序，结合了 Discord、Hangouts、Gmail 和 Outlook 等多种服务.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终端.
 - [Materialette](https://github.com/mike-schultz/materialette) - 菜单栏中的材料设计调色板.
-- [Dext](https://github.com/vutran/dext) - 启动器.
+- [Dext](https://github.com/vutran/dext) - Launcher.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) - Pushbullet 客户端.
 - [GroupMe](https://github.com/dcrousso/GroupMe) - 非官方的 GroupMe 应用程序.
 - [ndm](https://github.com/720kb/ndm) - npm 桌面管理器.
 - [GIFBar](https://github.com/dcrousso/GIFBar) - 在您的菜单栏中搜索 GIF.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu 系统优化器.
-- [Zazu](https://github.com/tinytacoteam/zazu) - 启动器.
+- [Zazu](https://github.com/tinytacoteam/zazu) - Launcher.
 - [Inpad](https://github.com/sarah-seo/Inpad) - 带有 GitHub 风格的 Markdown 的 Notes 应用程序.
 - [Cerebro](https://github.com/KELiON/cerebro) - 带有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - 控制任何显示器的亮度.
@@ -285,7 +285,7 @@
 - [Avocode](http://avocode.com) - 共享设计和协作.
 - [Prepros](https://prepros.io) - 使用实时浏览器刷新编译几乎任何预处理语言.
 - [Stremio](http://www.strem.io) - 媒体中心.
-- [Typetalk](http://www.typetalk.in) - 通过即时消息与您的团队分享和讨论想法.
+- [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
 - [Pingendo](http://pingendo.com) - 引导原型.
 - [Spreaker Studio](https://www.spreaker.com/download) - 录音和广播.
 - [MockingBot](https://mockingbot.com) - 用于设计应用程序的原型工具.
@@ -295,7 +295,7 @@
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
-- [CatLight](https://catlight.io) - Build status notifier.
+- [CatLight](https://catlight.io) - 构建状态通知器.
 - [Automint](http://automint.in) - 汽车企业的 CRM.
 - [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 为 Cocos2D-x 创建网页和原生游戏的游戏编辑器.
@@ -320,6 +320,7 @@
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Nota](https://nota.md) - 专为本地 Markdown 文件设计的专业写作应用程序.
 - [Lotus](https://getlotus.app) - 无压力地跟上 GitHub 通知.
+- [RunJS](https://runjs.app) - JavaScript 和 TypeScript 的游乐场.
 
 ### Samples
 
@@ -377,7 +378,7 @@
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - macOS 应用程序的代码签名.
 - [electron-detach](https://github.com/parro-it/electron-detach) - 重新启动一个 Electron 应用程序作为一个分离的进程.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建、测试和打包 Ember 应用程序.
-- [electrify](https://github.com/arboleya/electrify) - Package Meteor apps.
+- [electrify](https://github.com/arboleya/electrify) - 打包 Meteor 应用程序.
 - [spectron](https://github.com/electron/spectron) - 使用 ChromeDriver 测试 Electron 应用程序.
 - [babel-preset-electron](https://github.com/emorikawa/babel-preset-electron) - Babel 预设，仅编译特定电子版本所需的内容.
 - [electron-is](https://github.com/delvedor/electron-is) - 实用功能.

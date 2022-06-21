@@ -6,7 +6,7 @@
 
 灵感来自 GitHub 上的 `awesome-*` 趋势.
 
-目标是建立一个分类的社区驱动的非常知名的资源集合.
+The goal is to build a categorized community-driven collection of very well-known resources.
 
 随时欢迎分享、建议和贡献！ 请看一下 [contribution guidelines](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) 第一的.
 
@@ -42,17 +42,18 @@
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 每周最好的 TypeScript 链接，就在你的盒子里.
 - [JSter](http://jster.net/blog) . 没有每两周一次的精选 JavaScript 链接到您的邮箱的废话列表. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
-- [Best of JavaScript](https://weekly.bestofjs.org/) . 与 Node.js 和 Web 平台相关的最受欢迎的开源项目的每周排名.
+- [Best of JavaScript](https://weekly.bestofjs.org/). Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
 - [JavaScript Kicks](https://javascriptkicks.com/) .  JavaScript 开发人员社区每周发送的最受好评的文章的精选列表.
 - [Bytes](https://bytes.dev/) . 成为更聪明的 JavaScript 开发人员. 随时了解 JavaScript 生态系统从未如此有趣. 每周一发货，免费.
 - [Deno Weekly](https://denoweekly.com/) . 来自 Deno 的新闻、教程和项目的每周综述，这是最新的 JavaScript 运行时.
 
 #### React
 
-- [ReactJS Newsletter](http://reactjsnewsletter.com/) . 最好的 React.js 新闻和文章的免费每周通讯.
-- [React Native Newsletter](http://reactnative.cc/) .  React Native 新闻、文章、问题和拉取请求、库和应用程序的免费不定期摘要.
+- [This Week In React](https://thisweekinreact.com) . 面向经验丰富的 React 和 React-Native 开发人员的每周通讯.
+- [React Newsletter](https://reactnewsletter.com/) . 最好的 React.js 新闻和文章的免费每周通讯.
+- [React Native Newsletter](https://reactnativenewsletter.com/) .  React Native 新闻、文章、问题和拉取请求、库和应用程序的免费不定期摘要.
+- [React Native Now](https://reactnativenow.com/) . 亲自挑选最好的 React Native 新闻、教程、库、文章和视频.
 - [React Digest](https://reactdigest.net/) . 面向 React 开发人员的每周通讯，其中包含前 5 个链接. [Archive](https://reactdigest.net/digests).
-- [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe) . 关于 React 和生态系统的每周通讯.
 - [React Status](https://react.statuscode.com/) . 每周汇总最新的 React 和 React Native 链接和教程.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter) . 每周概述最流行的 React 新闻、文章和库.
 
@@ -103,7 +104,7 @@
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI Animation Newsletter 让您了解最新的最佳 Web 动画、动作设计和 UX 资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与网络动画和动作设计的精彩世界有关的好东西！
 - [Design Systems News](http://news.design.systems/) . 有关设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
-- [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
+- [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和优秀的设计相关内容来自最佳子版块.
 - [Figmalion](https://figmalion.com) . 双周策划的时事通讯关于 [Figma](https://www.figma.com/).
 
@@ -198,7 +199,7 @@
 ### Python
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
-- [Weekly Python Newsletter](https://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox. [Archive](https://importpython.com/newsletter/archive/).
+- [Weekly Python Newsletter](https://importpython.com/newsletter/) . 包含 Python 文章、项目、视频、推文的每周 Python 通讯在您的收件箱中发送. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向对 Python 开发和有关 Python 的各种主题感兴趣的人.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周概述最流行的 Python 新闻、文章和包.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
@@ -320,7 +321,7 @@
 - [Your weekly Azure news fix](https://azureweekly.info/) .  Azure Weekly 是 Microsoft Azure 生态系统本周头条新闻的摘要，以及值得一读的有趣历史内容.
 - [Serverless Status](https://serverless.email/) . 关于无服务器架构和范例、功能即服务、AWS Lambda 等的每周通讯.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) . 本 Google Cloud Weekly 是本周与 Google Cloud 生态系统相关的头条新闻、教程、视频、播客的摘要，非常值得一读.
-- [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
+- [Last Week in AWS](https://www.lastweekinaws.com/) . 来自亚马逊云生态系统的每周新闻综述.
 
 ### Kubernetes
 
@@ -383,7 +384,7 @@
 
 - [Finimize](https://insider.finimize.com/) .  3分钟了解今日财经新闻. 免费.
 - [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章可帮助初创公司和企业主了解如何实施定价策略.
-- [FBA monthly](https://www.fbamonthly.com/) .  FBA 月刊是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
+- [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于导航指数基金时代、了解经济和破解资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选的创业世界中的佼佼者.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，其中包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
@@ -397,11 +398,11 @@
 - [TED](https://www.ted.com/newsletter) .  TED 收件箱中的灵感
 - [KickStarter](https://www.kickstarter.com/newsletters) .  KickStarter 我们喜爱的项目存档
 - [Startup Digest](https://www.startupdigest.com/reading-lists) . 来自世界各地的精选阅读材料，根据您​​的兴趣定制.
-- [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三为您带来全新的、鼓舞人心的晨间活动.
+- [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
-- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周时事通讯，包含与机器人技术相关的新闻、项目和研究.

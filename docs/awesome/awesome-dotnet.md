@@ -3,7 +3,7 @@
 ## Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
+[![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 一组很棒的 .NET 库、工具、框架和软件.
@@ -51,7 +51,7 @@
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - 具有最佳实践和最流行工具的新现代 ASP.NET MVC Web 应用程序的起点.
 * [ABP](https://github.com/abpframework/abp) - 下一代 ASP.NET Boilerplate Web 应用程序框架.
 * [Butterfly Server .NET](https://butterflyserver.io)  - 允许定义 Web API 和订阅 API，在连接的客户端之间自动同步数据集. 允许以最小的努力构建实时 Web 应用程序和本机应用程序.
-* [Orleans](https://github.com/dotnet/orleans) - Orleans 是一个框架，它提供了一种直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式
+* [Orleans](https://github.com/dotnet/orleans) - Orleans 是一个框架，它提供了一种构建分布式大规模计算应用程序的直接方法，无需学习和应用复杂的并发或其他扩展模式
 * [Newbe.Claptrap](https://github.com/newbe36524/Newbe.Claptrap)  - 这是一套以响应式、事件溯源和Actor模式为基本理论的服务器端开发框架. 在此基础上，开发人员可以更简单地开发“分布式”、“横向扩展”和“易于测试”的应用程序.
 * [CoreFX](https://github.com/dotnet/corefx)  - corefx 存储库包含 .NET Core 的库实现（称为“CoreFX”）. 它包括 System.Collections、System.IO、System.Xml 和许多其他组件.
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - 业务层开发框架 https://cslanet.com/
@@ -404,7 +404,7 @@
 
 ## Game
 
-* [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+* [MonoGame](https://github.com/MonoGame/MonoGame) - 一种用于创建强大的跨平台游戏的框架
 * [FNA](https://github.com/FNA-XNA/FNA) - FNA 是 XNA4 的重新实现，专注于为桌面开发完全准确的 XNA4 运行时
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 * [Duality](https://github.com/AdamsLair/duality)  - Duality 是一个 2D 游戏开发框架. 专注于模块化，带有可视化编辑器.
@@ -430,7 +430,7 @@
 ## Git Tools
 
 * [Husky.Net](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
-* [Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)  - Bonobo Git Server for Windows 是一个 Web 应用程序，您可以安装在 IIS 上并轻松管理和连接到您的 Git 存储库.  https://bonobogitserver.com/
+* [Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)  - Bonobo Git Server for Windows 是一个 Web 应用程序，您可以安装在 IIS 上并轻松管理和连接到 Git 存储库.  https://bonobogitserver.com/
 * [GitExtensions](https://github.com/gitextensions/gitextensions)  - GitExtensions 是一个 shell 扩展、一个 Visual Studio 2008/2010/2012/2013 插件和一个独立的 Git 存储库工具.  https://gitextensions.github.io/
 * [GitLink](https://github.com/GitTools/GitLink) - 让用户逐步了解托管在 GitHub 或 BitBucket 上的代码
 * [GitVersion](https://github.com/GitTools/GitVersion) - 根据 Git 存储库的状态生成语义版本号
@@ -484,7 +484,7 @@
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 一个多平台的 .NET UI 框架（以前称为 Perspex）.
 * [Modern UI for WPF - MUI](https://github.com/firstfloorsoftware/mui) - 将 WPF 应用程序转换为外观精美的现代 UI 应用程序的一组控件和样式.
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单、直接、超薄的 CLR 库，用于具有自动化、窗口化、DirectX、OpenGL 和 Skia 助手的高性能 Win32 Native Interop.
-* [Neutronium](https://github.com/NeutroniumCore/Neutronium) - 使用 HTML、CSS、javascript 和 MVVM 绑定（例如 WPF）构建 .NET 桌面应用程序.
+* [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - 一个小型跨平台 UI 库，将原生 UI 开发的简单性带到 Web
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - 用于 WPF 应用程序的轻量级 UI 工具包，提供经典但增强的 Windows 视觉效果.
 * [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI 库 (WinUI) 为 Windows UWP 应用程序提供官方原生 Microsoft UI 控件和功能.
@@ -596,7 +596,7 @@
 
 * [ClearScript](https://github.com/Microsoft/ClearScript)  - 一个库，可以轻松地将脚本添加到您的 .NET 应用程序. 它目前支持 JavaScript（通过 V8 和 JScript）和 VBScript.
 * [Edge.js](https://github.com/tjanczuk/edge) - 在 Windows、macOS 和 Linux 上运行 .NET 和 Node.js 代码
-* [Jint](https://github.com/sebastienros/jint) - 适用于 .NET 的 JavaScript 解释器，它完全符合 ECMA 5.1 标准，可以在任何 .NET 平台上运行.
+* [Jint](https://github.com/sebastienros/jint) - 适用于 .NET 的 JavaScript 解释器，提供完全的 ECMA 5.1 合规性，可以在任何 .NET 平台上运行.
 * [Jurassic](https://github.com/paulbartrum/jurassic)  - ECMAScript 语言和运行时的实现. 它旨在为 .NET 提供性能最佳且最符合标准的 JavaScript 实现.
 * [YantraJS](https://github.com/yantrajs/yantra) - 适用于 .NET Standard 的 JavaScript 运行时（类似于 NodeJS），将 JavaScript 编译为 IL，支持许多 ES6 功能、生成器、CommonJS 模块、CSX 模块和表达式编译器.
 
@@ -653,7 +653,7 @@
 * [MailKit](https://github.com/jstedfast/MailKit)  - 一个完整的跨平台邮件堆栈，包括 IMAP、POP3、SMTP、身份验证等. 建立在 MimeKit 之上.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - 一个跨平台的 .NET MIME 创建和解析器库，支持 S/MIME、PGP、TNEF 和 Unix mbox 假脱机.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
-* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和段、为列表创建自定义字段等.还包括 SendGrid Webhook 的解析器.
+* [StrongGrid](https://github.com/Jericho/StrongGrid)  - SendGrid v3 API 的客户端. 不仅允许您发送电子邮件，还允许您批量导入联系人、管理列表和段、为您的列表创建自定义字段等.还包括 SendGrid Webhook 的解析器.
 
 ## Mathematics
 
@@ -671,7 +671,7 @@
 
 ## Media
 
-* [CSCore](https://github.com/filoe/cscore) - 一个高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
+* [CSCore](https://github.com/filoe/cscore) - 高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 媒体文件中的元数据，包括视频、音频和照片格式
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - libvlc 的 Xamarin 绑定，支持 VideoLAN 制作的 VLC 应用程序的多媒体框架.
@@ -720,7 +720,7 @@
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [Warden](https://github.com/warden-stack/Warden)  - 为您的应用程序、资源和基础设施定义“健康检查”. 让您的守望者时刻保持警惕
-* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示的值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
+* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
 * [Jot](https://github.com/anakic/jot) - 一个用于持久化和恢复应用程序状态的库（一个更好的替代 .settings 文件）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 该库使您能够在 .NET 中枚举和与 Hid 兼容的 USB 设备进行通信.
@@ -762,7 +762,7 @@
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper)  - .NET 中基于约定的对象-对象映射器.  https://automapper.org
 * [TinyMapper](https://github.com/TinyMapper/TinyMapper) - 用于 .NET 的小而快的对象映射器.
-* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 一个轻量级、快速的 .NET 映射器，以自动化和简单的方式将一种类型的对象映射到另一种类型的对象.  ExpressMapper 完全依赖于表达式树.
+* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper)  - 一个轻量级、快速的 .NET 映射器，以自动化和简单的方式将一种类型的对象映射到另一种类型.  ExpressMapper 完全依赖于表达式树.
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - 支持 .NET Standard 1.0 的零配置对象-对象映射器
 * [Mapster](https://github.com/MapsterMapper/Mapster) - .net 中的高性能对象映射器
 
@@ -853,7 +853,6 @@
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - 优雅的 SQL 查询构建器，支持复杂查询、连接、子查询、嵌套 where 条件、供应商引擎目标等
 
-
 ## Queue
 
 * [CAP](https://github.com/dotnetcore/CAP) - 具有用于 RabbitMQ 或 Kafka 的本地持久消息功能的 EventBus.
@@ -879,6 +878,7 @@
 * [gRPC](https://github.com/grpc/grpc-dotnet)   .NET Core 的 RPC 库和框架. 阅读更多关于它的信息 [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
 * [CoreRPC](https://github.com/kekekeks/CoreRPC)  - 针对 netstandard1.3 的类似 WCF 的 RPC 的可扩展库. 与 .NET、Mono 和 .NET Core 兼容.
 * [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC 旨在为探索和查询您的 GRPC 服务提供最简单、最高效的开发者体验.
+* [gRPCurl](https://github.com/fullstorydev/grpcurl)  - gRPCurl 是一个命令行工具，可让您与 gRPC 服务器进行交互. 它基本上是 gRPC 服务器的 curl.
 
 ## Reactive Programming
 
@@ -934,7 +934,7 @@
 * [Jil](https://github.com/kevin-montrose/Jil) - 基于 Sigil 构建的快速 .NET JSON 序列化程序（由 StackOverflow 使用）
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp)  - 快速、惯用的 FlatBuffers 实现. 使用 .fbs 文件或属性.
-* [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+* [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Hyperion](https://github.com/akkadotnet/Hyperion) - 用于 .NET 框架的高性能多态序列化程序.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - 免费且易于使用的 .NET 库从文件、字符串或流中的固定长度或分隔记录导入或导出数据.

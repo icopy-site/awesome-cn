@@ -17,7 +17,7 @@
 
 *错误*是您最初认为是正确的**想法*，但实际上，它被**证明是错误的**.
 
-例如 *idea*：有效的电子邮件地址正好有一个 `@` 字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 对？ 错误的！  *现实*是：电子邮件可以有多个 `@` 字符. 因此，您的实现应该允许这样做. 最初的 *idea* 是您所相信的谎言.
+例如 *idea*：有效的电子邮件地址正好有一个 `@` 字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 正确的？ 错误的！  *现实*是：电子邮件可以有多个 `@` 字符. 因此，您的实现应该允许这样做. 最初的 *idea* 是您所相信的谎言.
 
 下面列出的 *falsehood* 文章将全面列出您应该注意的那些错误信念，以帮助您成为更好的程序员.
 
@@ -40,9 +40,9 @@
 
 ## Business
 
-- [Falsehoods about Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - 涵盖价格、货币和库存.
+- [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - 涵盖价格、货币和库存.
 - [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
-- [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行帐号不是国际的.
+- [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学并不简单或理性.
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
 - [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司的座位图远比整齐排列的座位要复杂得多.
@@ -64,9 +64,9 @@
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - 计时中的大多数特质都可以在历史中找到解释.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你为什么.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区听起来可能是个好主意，但有很多复杂情况使其并非如此.
-- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 如果你能提供帮助，一个关于为什么你永远不应该处理时区的视频.
 - [\$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历会计的后果.
-- [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的巨大格式列表，它们如何重叠，以及活生生的例子.
+- [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的巨大格式列表、它们如何重叠以及实时示例.
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 关于日期和时间（特别是 UTC）有一些你可能没有想到的极端情况.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “仅以 UTC 存储日期”并不总是正确的方法.
@@ -87,8 +87,9 @@
 
 ## Geography
 
-- [Falsehoods about Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) - 采用地点、名称和位置.
-- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
+- [Falsehoods about Geography](https://wiesmann.codiferes.net/wordpress/archives/15187) - 采用地点、名称和位置.
+- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
+- [Falsehoods about Maps Data](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 地缘政治的复杂性需要在数据结构中具体化.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - 地理空间从业人员关于诊断和修复坐标系常见问题的指南.
 - [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “有一组特殊的汉字，即使是日本人也很难阅读：地名.”
 
@@ -113,7 +114,8 @@
 关于字符编码、字符串格式化、unicode 和国际化.
 
 - [Falsehoods about Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) - 从英语翻译软件并不像看起来那么简单.
-- [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - 纯文本无法切割它，为什么它令人惊讶 Unicode 工作得和它一样好.
+- [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - 纯文本无法切割它，这使得 Unicode 更令人难以置信，因为它能够很好地工作.
+- [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - 上面的谎言的一个子集，用一些例子来说明.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 有关在国际化代码时需要记住的事项的视频.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 很好地介绍了 unicode、它的历史背景和起源，然后概述了它的内部工作.
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - 令人愉快的 Unicode 花絮、包和资源的精选列表.
@@ -146,7 +148,7 @@
 
 ## Phone Numbers
 
-- [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
+- [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 涵盖电话号码、它们的表示和含义.
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber)  - Google 的通用 Java、C++ 和 JavaScript 库，用于解析、格式化和验证国际电话号码. 也可用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 ## Postal Addresses
