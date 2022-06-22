@@ -118,13 +118,15 @@
 * [FacilMap](https://facilmap.org/)  - 可以轻松过滤 POI 类型的地图.  ([Source Code](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
 * [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap)  - 德国柏林“Neukölln”区的高细节微图.  ([Wiki](https://wiki.openstreetmap.org/wiki/Micromapping#Stra.C3.9Fenraumkarte_Neuk.C3.B6lln))
 * [Road Curvature](https://roadcurvature.com/map/)  - 帮助那些喜欢它们的人找到弯曲的道路.  ([Source Code](https://github.com/adamfranco/curvature))
-* [OpenLevelUp!](https://openlevelup.net/) - 基于 OSM 的室内查看器.（[Wiki](https://wiki.openstreetmap.org/wiki/OpenLevelUp)
+* [OpenLevelUp!](https://openlevelup.net/) - 基于 OSM 的室内查看器.（[Wiki](https://wiki.openstreetmap.org/wiki/OpenLevelUp))
+* [AccessMap](https://www.accessmap.io/)  - 一个网络地图项目，可为行动不便的人提供无障碍、安全的人行道旅行计划. 目前渲染华盛顿州的几个城市.  ([Source Code](https://github.com/accessmap))
 
 ### Mobile Maps
 
 * [OsmAnd](https://osmand.net)  - 具有适用于 Android 和 iOS 的离线功能的地图查看和导航（路由）应用程序.  （安卓、iOS / [Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
 * [Organic Maps](https://organicmaps.app/)  - 基于 OSM 的免费离线地图应用.  （安卓、iOS / [Source Code](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
 * [Magic Earth](https://www.magicearth.com/)  - 免费的逐向导航应用程序.  （安卓、iOS / [Wiki](https://wiki.openstreetmap.org/wiki/Magic_Earth))
+* [Komoot](https://www.komoot.com/)  - 专门用于远足和骑自行车的路线规划器和导航应用程序.  ([Android](https://market.android.com/details?id=de.komoot.android), [iOS](https://itunes.apple.com/de/app/id447374873?mt=8) / [Wiki](https://wiki.openstreetmap.org/wiki/Komoot))
 
 ### Generators
 
@@ -162,7 +164,7 @@
 * [osmapi](https://github.com/metaodi/osmapi)  - OpenStreetMap API 的 Python 包装器.  ([Wiki](https://wiki.openstreetmap.org/wiki/Osmapi_(Python_library)))
 * [osmcha](https://github.com/willemarcel/osmcha) - 用于检测可疑 OSM 变更集的 Python 包.
 * [osmnx](https://github.com/gboeing/osmnx)  - 街道网络的可视化工具.  ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
-* [python-mapnik](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+* [python-mapnik](https://github.com/mapnik/python-mapnik) - mapnik 的 Python 包装器.
 
 ### Java
 
@@ -228,6 +230,6 @@
 
  OpenStreetMap 和 OpenStreetMap 徽标是 OpenStreetMap Foundation 的商标，并在获得他们的许可后使用. 该项目不受 OpenStreetMap 基金会的认可或附属.
 
-Ken Vermette 的 OpenStreetMap 徽标在知识共享署名-相同方式共享 3.0 许可下使用.
+The OpenStreetMap Logo by Ken Vermette is used under the Creative Commons Attribution-ShareAlike 3.0 License.
 
  [^selfhosted-only]：此项目不提供托管实例，必须自行部署. 有关说明，请参阅项目的网站.

@@ -34,7 +34,7 @@
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-- [Dash Bio Components](https://dash.plot.ly/dash-bio) - 生物信息学组件套件，可以更轻松地分析和可视化生物信息学数据并在 Dash 应用程序中与它们交互.
+- [Dash Bio Components](https://dash.plot.ly/dash-bio) - 一套生物信息学组件，可以更简单地分析和可视化生物信息学数据，并在 Dash 应用程序中与它们进行交互.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) - 使用 Dash 进行图像注释和图像处理的模块.
 - [Awesome React Components](https://github.com/brillout/awesome-react-components) - React.js 组件的目录可能会被包装到 Dash 组件中.
 - [Awesome React](https://github.com/enaqx/awesome-react) - 用于开发 React.js 组件的有用资源.
@@ -62,7 +62,7 @@
 - [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - 从谷歌财经查询数据并将结果显示为烛台图. [Source Code.](https://github.com/plotly/dash-stock-tickers-demo-app)
 - [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - 使用 Pandas Datareader 从 Yahoo Finance 获取 CBOE 期权链数据，并计算在 3D 网格图中可视化的每个期权的隐含波动率. [Source Code.](https://github.com/plotly/dash-volatility-surface)
 - [Drug Discovery](https://plot.ly/dash/gallery/drug-explorer/) - 当您将鼠标悬停在图表中的点上时显示药物描述. [Source Code.](https://github.com/plotly/dash-drug-discovery-demo/)
-- [Live Wind Streaming](https://plot.ly/dash/gallery/live-wind-data/) - 持续查询 SQL 数据库并显示风速和风向的实时图表. [Source Code.](https://github.com/plotly/dash-wind-streaming)
+- [Live Wind Streaming](https://plot.ly/dash/gallery/live-wind-data/) - 持续查询 SQL 数据库并显示风速和风向的实时图表. [Source Code.](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-wind-streaming)
 - [Recession in 255 Charts](https://plot.ly/dash/gallery/recession-report/) - 改编自纽约时报的优秀 [How the Recession Reshaped the Economy in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html). [Source Code.](https://github.com/plotly/dash-recession-report-demo)
 - [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - 改编自纽约时报的优秀 [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-yield-curve)
 - [Finding Bigfoot](https://bigfoot-sightings-dash.herokuapp.com/) - 多个绘图（包括地图）、使用 Bootstrap 构建的网格布局、与输入字段的交互以及缓存（另请参阅 [Tutorials](#tutorials)). [Source Code.](https://github.com/timothyrenner/bigfoot-dash-app)

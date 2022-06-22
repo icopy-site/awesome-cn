@@ -337,6 +337,7 @@
 - [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) - 使用 Vite、React 和 Tailwind CSS 的样板.
 - [Vite + React + TypeScript + Tailwind 3.x starter](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - Vite、React + Tailwind 3.x + TypeScript 的 GitHub 模板.
 - [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) - 使用 Vite、Vue、Vue Router 和 Tailwind CSS 的入门模板.
+- [Vite + Lit + Tailwind Starter](https://github.com/running-grass/starter-lit-with-tailwind) - 使用 Vite、Lit 和 Tailwind CSS 的样板.
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - 使用 Vue 和 Tailwind CSS 的 Shopify 主题开发入门.
 - [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - 使用 Tailwind CSS 和 Alpine JS 的仪表板布局.
 - [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - 使用 Jekyll 和 Tailwind CSS 的生产就绪、SEO 友好、高性能登陆网站样板.

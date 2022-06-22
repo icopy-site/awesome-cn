@@ -34,7 +34,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Pera Wallet](https://github.com/perawallet)  - 用于移动设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的 Web 钱包和 JS 库.
-- [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
+- [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件 Web Wallet 和 JS 库，用于在浏览器中签署交易.
 - [Method Wallet](https://methodwallet.app/) - 你会喜欢的 Algorand 钱包.
 
 ## Blockchain Explorers
@@ -46,6 +46,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 帐户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand 专用网络资源管理器（支持 `localhost` 中的沙箱）.
 
 ## Portfolio Trackers
 
@@ -174,6 +175,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - 存档节点、索引器设置（等等）的开发说明.
 - [AlgoNode](https://algonode.cloud) - 节点运行常见问题解答、节点/索引器每日快照、免费节点/索引器 API.
+- [Algorand Node UI](https://github.com/algorand/node-ui) - 用于远程 Algorand 节点管理的终端 UI.
 
 ## NFT Marketplaces
 
@@ -255,6 +257,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## ARCs
 
 &gt; *finalized* ARC 中定义的标准和规范.
+> The list of all the ARCs can be found on https://arc.algorand.foundation
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.
 - [ARC69](https://github.com/algokittens/arc69) - 在 Algor和 NFT 社区中流行的非官方 Algor和 标准资产参数约定，灵感来自 [Open Sea's metadata st和ards](https://docs.opensea.io/docs/metadata-st和ards) 和 [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).
