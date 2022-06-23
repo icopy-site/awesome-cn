@@ -40,6 +40,7 @@
 - [Autopair](https://github.com/jorgebucaran/autopair.fish)  - 在 Fish 命令行中自动完成匹配对.  ([Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI 选项解析器（替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置）.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - Fish 的基于 TAP 的测试运行程序.
+- [Pufferfish](https://github.com/nickeb96/puffer-fish) - 鱼的文本扩展.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv 包装器.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - 使您的提示异步.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - 自定义您 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在 iTerm2 中.

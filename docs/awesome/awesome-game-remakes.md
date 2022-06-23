@@ -45,7 +45,7 @@
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - Allegiance 是 RTS 和 FPS 太空战斗游戏.
 - [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - 在旧机器上运行的 Ace Of Spades 开源实现.
 - [BStone](https://github.com/bibendovsky/bstone) - Blake Stone: Aliens Of Gold 和 Blake Stone: Planet Strike 的源端口.
-- [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
+- [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Catacomb 3D 和 Catacomb Adventure 系列的 Windows 源端口.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - 极简、历史准确的源端口，包括异端和 Hexen 以及 Strife 的端口.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - 最受欢迎的 DOOM 源端口之一，可通过 TCP/IP 网络、OpenGL 渲染器等对其进行增强.
 - [DoomRetro](https://github.com/bradharding/doomretro) - 适用于 Windows PC 的经典、精致的 DOOM 源端口.
@@ -97,6 +97,7 @@
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - 暗黑破坏神 2 的开源重新实现.
 - [OpenGothic](https://github.com/Try/OpenGothic) - 重新实现哥特式 2：渡鸦之夜.
 - [OpenMW](https://github.com/OpenMW/openmw) - 重新实现晨风游戏引擎.
+- [OpenNox](https://github.com/noxworld-dev/opennox) - 扩展 Nox 引擎的合作项目.
 - [OpenTESArena](https://github.com/afritz1/OpenTESArena) - Bethesda Softworks 对 The Elder Scrolls: Arena 的现代引擎重新实现.
 - [OpenVIII](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) - zEngine 的开源重新实现，是 Gothic 和 Gothic II 背后的引擎.
@@ -143,7 +144,7 @@
 - [KeeperRL](https://github.com/miki151/keeperrl) - 受矮人要塞启发的 Roguelike 地牢建造者.
 - [openage](https://github.com/SFTtech/openage) - 帝国时代 II 引擎的克隆.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) - 重建 X-COM：天启引擎.
-- [openblack](https://github.com/openblack/openblack) - 重新实现黑白.
+- [openblack](https://github.com/openblack/openblack) - Reimplementation of Black & White.
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - 流行游戏沙丘 II 的娱乐.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Cannon Fodder 的开源实现.
 - [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) - Gremlin 的 Hogs of War 游戏.

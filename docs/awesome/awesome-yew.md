@@ -77,7 +77,8 @@
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 一个用 Rust 编写的快速打字网络应用程序.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - 这是 wecome KM ITB 的 monorepo， [Live Demo](https://wecome-itb.com/).
 - [blog-rs](https://github.com/songday/blog-rs)  - 一个前端和后端都用 Rust 编写的博客系统. 后端由 Warp 提供支持，前端基于 Yew (WASM).
-[mb2](https://devctm.com)  - 带有 Yew 客户端的扑克服务器. 点击“Demo”按钮，然后点击“Start”查看客户端.
+- [mb2](https://devctm.com)  - 带有 Yew 客户端的扑克服务器. 点击“Demo”按钮，然后点击“Start”查看客户端.
+- [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - 使用 Rust 和 Yew 的 Rubix Cube 求解器， [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 
 ## Templates
 

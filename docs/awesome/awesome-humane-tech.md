@@ -67,7 +67,7 @@
 
 - [Privacy Guides](https://privacyguides.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/privacyguides/privacyguides.org) - 保护您的隐私免受全球大规模监视的知识和工具.
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) - 精心挑选的尊重隐私的服务和软件列表.
-- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - 没有 Google 集成的 Chromium，增强隐私、控制、透明度
+- [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - 没有 Google 集成的 Chromium，增强隐私、控制、透明度
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) - Signal 是一个消息应用程序，用于与朋友进行简单的私人通信.
 - [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) - 浏览器扩展，以帮助识别哪些敏感信息 (PII) 被共享/泄露给第 3 方.
 - [Webbkoll](https://webbkoll.dataskydd.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/andersju/webbkoll) - 一种在线工具，用于检查网站在隐私方面的表现.
