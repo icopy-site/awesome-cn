@@ -26,7 +26,7 @@
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab 是 Jupyter 的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 映像.
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker 映像，包括 Jupyter(Lab) 和用于数据科学/机器学习的各种软件包.
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 包含 Jupyter(Lab) 和用于数据科学/机器学习的各种软件包的 Docker 映像.
 - [nteract](https://github.com/nteract/nteract) - 本机桌面笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) - 本机桌面笔记本前端.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - 本机桌面笔记本前端.
@@ -48,7 +48,7 @@
 
 ## Visualization
 
-- [Altair](https://github.com/altair-viz/altair) - Python 的声明性可视化库，基于 [Vega](http://vega.github.io/vega) 和 [Vega-Lite](https://github.com/vega/vega-lite).
+- [Altair](https://github.com/altair-viz/altair) - Python 的声明性可视化库，基于 [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite).
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 针对现代 Web 浏览器进行演示的交互式可视化库.
 - [bqplot](https://github.com/bloomberg/bqplot) - Jupyter 的基于图形的交互式绘图框架语法.
 - [Evidently](https://github.com/evidentlyai/evidently) - 在验证或生产监控期间分析机器学习模型的交互式报告.
@@ -88,9 +88,10 @@
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本、编辑和执行笔记本，并通过 REST 接口直接集成它们.
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文档.
 - [jupyterlab_nbconvert_nocode](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - 用于 PDF/HTML 导出的 NBConvert 导出器，无需代码单元.
-- [Jupytext](https://github.com/mwouts/jupytext) - Convert and synchronize notebooks with text formats (e.g. Python or Markdown files) that work well under version control.
+- [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 在终端中很好地显示笔记本.
 - [Kapitsa](https://github.com/gitjeff05/kapitsa) - CLI 搜索本地 Jupyter 笔记本.
+- [Mercury](https://github.com/mljar/mercury) - 将笔记本转换为 Web 应用程序.
 - [nbconvert](https://nbconvert.readthedocs.io) - 将笔记本转换为其他格式.
 - [nbdev](https://github.com/fastai/nbdev) - 使用 Jupyter 作为 PyPI 开发、打包和分发 Python 包 [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) 环境.
 - [nbflow](https://github.com/jhamrick/nbflow) - 使用 Jupyter 和 Scons 的一键式可重现工作流程.
@@ -111,7 +112,7 @@
 - [git](https://github.com/jupyterlab/jupyterlab-git) - git 集成的扩展.
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Jupyter Notebooks 中的依赖管理和优化.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于区分和合并 Jupyter 笔记本的工具.
-- [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准的 Python 代码质量工具.
+- [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准 Python 代码质量工具.
 - [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - 版本、管理和共享项目中的笔记本检查点.
 - [ReviewNB](https://www.reviewnb.com/) - Jupyter Notebooks 的代码审查.
 
@@ -136,6 +137,7 @@
 - [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - 结合 VS Code 的 SynthWave &#39;84 和 JupyterLab 的 Neon Night 主题.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) - JupyterLab 中的笔记本模板.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - 扩展 LaTeX 文档的实时编辑.
+- [lineapy](https://github.com/LineaLabs/lineapy) - 使用两行代码将凌乱的 Jupyter 笔记本转换为生产就绪管道的扩展.
 - [lsp](https://github.com/krassowski/jupyterlab-lsp) - 类似 IDE 的功能（代码导航、悬停建议、linter、诊断、无内核自动完成等）
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - 扩展以保持 Python 代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) - 在 JupyterLab 中探索 CPython 字节码.
@@ -155,7 +157,7 @@
 
 ## Testing
 
-- [ipytest](https://github.com/chmp/ipytest) - 用于在笔记本中运行单元测试的测试运行器.
+- [ipytest](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - 在 Jupyter 中对笔记本进行逐个单元测试.
 - [nbval](https://github.com/computationalmodelling/nbval) - 用于验证 Jupyter 笔记本的 Py.test 插件.
 - [nosebook](https://github.com/bollwyvl/nosebook) - 用于查找和运行 IPython 笔记本作为鼻子测试的鼻子插件.
@@ -189,10 +191,10 @@
 - [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.
 - [Gryd](https://gryd.us) - 简单、托管、即用型、基于云的 Jupyter 笔记本，支持多种语言.<!--lint disable double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.<!--lint enable double-link-->
-- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
+- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
-- [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
+- [RMOTR Notebooks](https://notebooks.rmotr.com) - 云中基于 JupyterLab 的数据科学环境.
 - [Spell.run](https://spell.run) - 机器学习和深度学习的端到端平台.
 
 
