@@ -46,7 +46,7 @@
 - [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
 - [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
 - [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
-- [Mithril](https://github.com/tbreuss/inertia-mithril)
+- [Mithril](https://github.com/maicol07/inertia-mithril)
 - [Preact](https://github.com/jrson83/inertia-preact)
 
 ### Server-side
@@ -82,7 +82,7 @@
 
 - ⭐ [Laravel Inertia Preset](https://github.com/laravel-presets/inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的单命令 Laravel 预设.
 - [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel 的官方认证脚手架，带有 Tailwind CSS 和 Inertia.js.
-- [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用程序脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
+- [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
 - [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - 用于 Inertia.js 的 Laravel 前端预设.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Titanium](https://github.com/usetitanium/inertia) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.

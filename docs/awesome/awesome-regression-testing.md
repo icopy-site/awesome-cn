@@ -55,7 +55,7 @@
 - [Nightmare](https://github.com/segmentio/nightmare) - 基于 Electron 的高级浏览器自动化库.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - 无头 Google Chrome 节点 API.
 - [Playwright](https://github.com/microsoft/playwright) - 使用单个 API 自动化 Chromium、Firefox 和 WebKit 的节点库.
-- [reg-suit](https://github.com/reg-viz/reg-suit) - 视觉回归测试套件，用于比较图像、存储快照并将差异通知到您的 GitHub 存储库.
+- [reg-suit](https://github.com/reg-viz/reg-suit) - 视觉回归测试套件，用于比较图像、存储快照并将差异通知您的 GitHub 存储库.
 - [Chimp](https://github.com/xolvio/chimp) - 使用实时反馈开发验收测试和端到端测试.
 - [Differencify](https://github.com/NimaSoroush/differencify) - 用于视觉回归测试的库，使用 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - 使用 Javascript 和 HTML5 分析和比较图像.
@@ -75,6 +75,7 @@
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - webdriver.io 的视觉回归工具
 - [Selenide](https://github.com/selenide/selenide) - 由 Selenium WebDriver 提供支持的框架，用于在 Java 中编写易于阅读和易于维护的自动化测试.
 - [Karma](http://karma-runner.github.io/latest/index.html) - AngularJS 团队的测试运行器，满足我们的所有需求.
+- [Touca](https://github.com/trytouca/trytouca) - 开源连续回归测试，无需管理快照文件.
 
 ## Online services
 
@@ -90,7 +91,7 @@
 - [Ghost Inspector](https://ghostinspector.com) - 看 [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) - 在 1500 多个真实浏览器和移动设备上进行手动和探索性测试.
 - [Argos-CI](https://www.argos-ci.com) - 自动化视觉回归测试.
-- [Diffy](https://diffy.website)  - 基于云的视觉回归工具. 使用 puppeteer 和专有比较算法（检测布局变化）. 借助 AWS Lambda 实现出色的可扩展性.
+- [Diffy](https://diffy.website)  - 基于云的视觉回归工具. 使用 puppeteer 和专有的比较算​​法（检测布局变化）. 借助 AWS Lambda 实现出色的可扩展性.
 - [Chromatic](https://www.chromatic.com/)  - 组件库的可视化测试和 UI 审查. 基于云. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) - 灵活的视觉回归测试服务.
 - [Happo](https://happo.io/) - 基于云的屏幕截图测试服务，支持多种浏览器.
