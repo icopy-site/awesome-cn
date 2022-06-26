@@ -41,6 +41,7 @@
 - [Bavarikon](https://www.bavarikon.de/) - 收集巴伐利亚地图、地点、报纸等.
 - [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - 南德数字发展史博物馆.
 - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) - 超过 1200 万件物品.
+- [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) - 发现从 1671 年到 1950 年的历史报纸.
 - [Digitale Sammlungen](https://www.digitale-sammlungen.de/) - 慕尼黑数字化中心的收藏.
 - [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) - 关于德国妇女运动历史的互动门户.
 - [Docupedia](https://docupedia.de/) - 当代历史研究中的术语、方法和辩论.
@@ -146,7 +147,7 @@
 
 - [Computer History](https://github.com/watson/awesome-computer-history) - 计算机历史视频、纪录片和相关民间传说的精彩列表.
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
-- [DHTools](https://dh-tech.github.io/awesome-dhtools/) - 支持数字人文学科的工具、资源和服务.
+- [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - 支持数字人文学科的工具、资源和服务.
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
 - [Tempopedia](https://tempopedia.org/) - 数字历史目录.
