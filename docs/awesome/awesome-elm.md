@@ -235,6 +235,7 @@
 * [elm-init](https://github.com/JustusAdam/elm-init) - 新 Elm 项目的交互式设置.
 * [elm-new](https://github.com/simonewebdesign/elm-new) - 基于模板生成初始项目脚手架.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - 一个非常基本的 elm + webpack 4 模板.
+* [generator-elm-mdl](https://github.com/ashellwig/generator-elm-mdl) - Yeoman 生成器，用于使用 Material Design 的简单榆树应用程序.
 
 
 ---
@@ -355,7 +356,7 @@
 
 ### Other editors
 
-* [elm-light-table](https://github.com/rundis/elm-light) - Light Table 的语法高亮显示、REPL、自动完成、包管理等等.
+* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
 
 ---
@@ -435,7 +436,7 @@
 * [Redux](https://redux.js.org/introduction/prior-art) - JavaScript 应用程序的可预测状态容器.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET 多平台应用程序 UI
-* [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
+* [Oolong](https://oolong-kt.org/) - 受 Elm 启发的 Kotlin 多平台模型视图更新 (MVU) 实现.
 
 
 ---
@@ -454,7 +455,7 @@
 
 ## Who to follow
 
- *免费关注最新更新. 采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费关注最新更新. 利用 [#elmlang](https://twitter.com/search?q=%23elmlang) 或者 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

@@ -9,7 +9,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 
 ## Construct Libraries
 
-本节包括各种编程语言的代码库，这些代码库提供可在 CDK 应用程序中使用的构造.
+本节包括各种编程语言的代码库，它们提供可在 CDK 应用程序中使用的构造.
 
 ### APIs
 
@@ -58,6 +58,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 
 * [cdk-watchful](https://github.com/eladb/cdk-watchful) - CDK 应用程序的自动仪表板和警报.
 * [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - 构造设置电子邮件警报以超出您的 AWS 账单金额.
+* [cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs)  - 使用高级 API 为您的 AWS 应用程序创建监控. 自动生成仪表板.
 
 ### Workflows
 
@@ -74,7 +75,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 
 ## High-Level Frameworks
 
-* [punchcard](https://github.com/punchcard/punchcard) - TypeScript 框架用于统一 CDK 的基础架构和运行时代码，因此您可以在一个 Node.js 应用程序的上下文中声明构造并实现运行时逻辑.
+* [punchcard](https://github.com/punchcard/punchcard) - 用于统一 CDK 的基础设施和运行时代码的 TypeScript 框架，因此您可以在一个 Node.js 应用程序的上下文中声明构造并实现运行时逻辑.
 * [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - 使用 AWS CDK 开发纯功能和高阶云组件的工具包.
 * [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - 一组 Step Functions 高级弹性模式.
 * [Orkestra](https://github.com/knowsuchagency/orkestra) - 基于 AWS CDK 和 Step Functions 构建的 Airflow 的事件驱动替代方案.
@@ -91,7 +92,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 ## Language Support
 
 * [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - 一个包装库 [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk) .  CI 每天自动生成代码并进行部署.
-* [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) - 使用 Java 和 Maven 定义和部署 AWS CDK 应用程序的插件.
+* [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) - 一个使用 Java 和 Maven 定义和部署 AWS CDK 应用程序的插件.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) - 替代 Node.js lambda CDK 构造，使用 [webpack](https://webpack.js.org/).
 * [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - 替代 Node.js lambda CDK 构造，使用 [esbuild](https://github.com/evanw/esbuild).
 
@@ -116,7 +117,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 * [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset) - 构建 lambda 函数并生成具有依赖关系的 ZIP 文件的 CDK 资产.
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) - 关于 CDK 和最佳实践的开源指南.
 * [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk) - 使用 Fargate 和 Appmesh 的优秀示例项目.
-* [CDK Patterns](https://github.com/cdk-patterns/serverless) - 使用 CDK 构建的无服务器架构模式的开源集合.
+* [CDK Patterns](https://github.com/cdk-patterns/serverless) - An opensource collection of serverless architecture patterns built with CDK.
 * [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - 这 [cra-pipeline](https://github.com/sbstjn/cra-pipeline) GitHub 上的项目展示了使用 AWS CodeBuild 部署静态 React 应用程序的 AWS CodePipeline.
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - 这 [cra-serverless](https://github.com/sbstjn/cra-serverless) 项目是一个无服务器架构，用于向使用创建的 React 网站添加预渲染 [create-react-app](https://create-react-app.dev).
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) - 部署一个功能性公共 API，接收 HTML 表单（例如 /contact_us.html）POST 请求并将其数据传递给 Pushover 通知服务.
@@ -124,7 +125,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 * [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) - 用 Go 编写的无服务器应用程序，可让您在 RSS 提要阅读器中享受 Dilbert，而无需任何广告.
 * [django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs) - 使用 GitLab CI 通过 CDK 部署的示例 Django + Vue.js Web 应用程序.
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - PostgreSQL (RDS)、EventBridge (crons) 和 SNS（后台作业）示例以及 Next.js 应用程序.
-* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) 和 `jsii` 并将其发布到 npm、Maven Central、PyPi 和 NuGet.
+* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) - 带有示例代码的分步指南，用于使用创建新的 CDK 构造 [projen](https://github.com/projen/projen) 和 `jsii` 并将其发布到 npm、Maven Central、PyPi 和 NuGet.
 
 ## Blog Posts & Talks
 
@@ -141,8 +142,8 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 * [AWS CDK — a glimpse into the future](https://medium.com/nordcloud-engineering/aws-cdk-a-glimpse-into-the-future-90db660f8a89) - 通过 Nordcloud 工程.
 * [AWS Infrastructure as Code with CDK](https://medium.com/avmconsulting-blog/aws-infrastructure-as-code-with-cdk-1d6fa013ce7d) ——罗斯·罗德斯.
 * [Callbacks with AWS Step Functions](https://medium.com/swlh/callbacks-with-aws-step-functions-a3dde1bc7203) ——罗斯·罗德斯.
-* [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) - Stefan Freitag.
-* [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) - Stefan Freitag.
+* [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) - 斯蒂芬星期五.
+* [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) - 斯蒂芬星期五.
 * [Serverless Dotnet - E01: Intro to AWS CDK](https://youtu.be/c9UXHPX6-Ns) - 杰克斯科特.
 * [GitHub repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) - 杰克斯科特.
 * [Infrastructure is Code with the AWS CDK](https://youtu.be/ZWCvNFUN-sU) - AWS 技术讲座网络研讨会.

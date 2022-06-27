@@ -73,6 +73,7 @@
 - [Babylon.js Forum](https://forum.babylonjs.com/) - 官方 Babylon.js 论坛.
 - [three.js Forum](https://discourse.threejs.org/) - 官方three.js 论坛.
 - [PlayCanvas Forum](https://forum.playcanvas.com/) - 官方 PlayCanvas 论坛.
+- [WebXR Community Forum](https://www.webxr.community/)  - 所有 WebXR 的官方论坛.  WebXR Discord 的姐妹社区.
 
 ### Reddit
 
@@ -98,7 +99,7 @@
 
 
 - [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
-- [Construct Arcade](https://constructarcade.com/) - 一个精心策划的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
+- [Construct Arcade](https://constructarcade.com/) - 一个精选的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
 - [Extended Collection](https://extendedcollection.com/) - WebXR 内容的另一个策展中心，由 [Joseph Simpson](https://github.com/vrhermit/).
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
 - [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.
@@ -185,7 +186,7 @@
 - [3XR](https://www.3xr.space/) - 一个项目 [microchipgnu](https://github.com/microchipgnu) 它与 Mintbase 集成，为 NEAR 上的 NFT 艺术品创建虚拟画廊.
 - [glry.xyz](https://glry.xyz/) - 在 Tezos 区块链上托管 NFT 艺术虚拟画廊的网站.
 - [oncyber](https://oncyber.io/) - 提供免费和收藏画廊空间来展示跨多个不同链的 NFT.
-- [RareRooms](https://www.rarerooms.io/) - 允许您创建身临其境的 NFT 画廊，并支持多个不同的链/市场.
+- [RareRooms](https://www.rarerooms.io/) - 允许您创建身临其境的 NFT 画廊，支持多个不同的链/市场.
 
 ### Monetization
 

@@ -6,6 +6,7 @@
 
 
 
+  
 ## Projects
 
 * [Arduino](https://www.arduino.cc/) - Arduino 是一个开源电子平台.
@@ -19,17 +20,19 @@
 * [OpenMV](https://github.com/openmv/openmv) - 开源、低成本的机器视觉平台.
 * [OpenSPIM](https://openspim.org/) - 三维 (3D) 显微镜的开放存取平台.
 * [mesoSPIM](http://mesospim.org/) - 用于在清除组织中成像的开源光片显微镜.
+* [Mutable Instruments](https://mutable-instruments.net/) - 开源 eurorack 经典.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - 开源模块化显微镜工具箱.
 * [OpenFlexure](https://openflexure.org/) - 开源的 3D 打印显微镜，包括精密机械载物台.
 * [Biohack Academy](http://biohackacademy.github.io/) - 孵化器、热循环仪、离心机、显微镜等开源生物技术硬件.
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - 生物实验室的开源硬件项目.
+* [Winterbloom](https://winterbloom.com) - 开源 eurorack 模块，Thea 在她的博客上有一些出色的设计文章.
 
 ## Talks
 
 * [How Open Hardware will Take Over the World](https://www.youtube.com/watch?v=Rfu_MKgu2Ik) - Nathan Seidle 的 TEDx 演讲.
 * [Revolution of the open hardware](https://www.youtube.com/watch?v=t56bojFAnUg) - Bram Geenen 的 TEDx 演讲.
 * [Why do open hardware](https://www.youtube.com/watch?v=UYRhupdnUcY) - Limor Fried (ladyada) 的谈话.
-* [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - Ian Tube 的提示，危险的原型.
+* [Get your open hardware manufactured](https://www.youtube.com/watch?v=ifTaGRTPwLc) - 危险原型的伊恩提示.
 * [Open Hardware Projects to Fight COVID-19](https://www.youtube.com/watch?v=c1pwbnDAub0) - 从节点收集视频.
 * [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Andre Maia Chagas 的演讲.
 * [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - David Cuartielles 的演讲.
@@ -41,6 +44,8 @@
 * [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Joshua M. Pearce 的论文.
 * [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - ITS Heikkinen、H. Savin、J. Partanen、J. Seppälä、M. Pearce 的论文.
 * [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Ruben Heradio、Jesus Chacon、Hector Vargas、Daniel Galan、Jacobo Saenz、Luis De La Torre、Sebastian Dormido 的论文.
+* [Haves and have nots must find a better way: The case for open scientific hardware](https://doi.org/10.1371/journal.pbio.3000014) - Andre Maia Chagas 的论文
+* [Open Labware: 3-D Printing Your Own Lab Equipment](https://doi.org/10.1371/journal.pbio.1002086) - Tom Baden、Andre Maia Chagas、Greg Gage、Timothy Marzullo、Lucia L. Prieto-Godino、Thomas Euler 的论文
 
 ## Conferences
 
@@ -50,7 +55,7 @@
 
 ## Platforms
 
-* [Open Hardware Repository](https://ohwr.org/welcome) - 让实验物理设施的电子设计师在开放式硬件设计上进行协作.
+* [Open Hardware Repository](https://ohwr.org/welcome) - 供实验物理设施的电子设计师合作开发开放式硬件设计.
 * [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - 可持续开放硬件的免费蓝图.
 * [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables 是一个让您探索、记录和分享您的创作的地方.
 * [Hackaday.io](https://hackaday.io/) - Hackaday.io 是世界上最大的协作硬件开发社区.
@@ -59,6 +64,7 @@
 * [Openhardware.science](https://openhardware.science/) - 到 2025 年让开放科学硬件无处不在.
 * [Openlifescience](https://openlifesci.org/) - 使开放科学成为研究大使的计划.
 * [Thingiverse](https://www.thingiverse.com/) - 一个共享和贡献用于 3D 打印、激光切割和 CNC 铣削的设计硬件的平台.
+* [Kitspace.org](https://kitspace.org) - 一个建立和共享电子项目的地方. 
 
 ## Podcasts
 
@@ -77,6 +83,12 @@
 * [Free to Make](https://books.google.nl/books?id=jz1bCwAAQBAJ&lpg=PA93&dq=open%20source%20hardware&pg=PP1##v=onepage&q=open%20source%20hardware&f=false) - Dale Dougherty 的书，创客运动如何改变我们的学校、我们的工作和我们的思想.
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - 国家工程院关于开源硬件的问题.
 
+
+## Training programs
+
+* [Open Hardware Makers](https://openhardware.space)
+* [Open Hardware Academy](https://openhardware.academy/)
+
 ## Further Readings
 
 * [Open Source Guide](https://opensource.guide/) - 由 GitHub 创建的网站，旨在帮助人们从事开源项目.
@@ -90,6 +102,7 @@
 
 * [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - 列出电子爱好者的资源.
 * [Awesome Open](https://github.com/paulhendricks/awesome-open) - 开放公司和社区的列表.
+* [Aweomse Electronics](https://github.com/kitspace/awesome-electronics) - 电子工程师和爱好者的精选资源列表.
 
 ## Contributing
 

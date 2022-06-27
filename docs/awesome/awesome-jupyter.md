@@ -191,7 +191,7 @@
 - [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.
 - [Gryd](https://gryd.us) - 简单、托管、即用型、基于云的 Jupyter 笔记本，支持多种语言.<!--lint disable double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.<!--lint enable double-link-->
-- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
+- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - 云中基于 JupyterLab 的数据科学环境.
@@ -200,8 +200,9 @@
 
 ## Official Resources and Documentation
 
+- [Jupyter documentation](https://docs.jupyter.org/en/latest/index.html)
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - 可用作 Jupyter 内核的所有编程语言的列表.
-- [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
+- [JupyterLab documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
 - [Try Jupyter](https://try.jupyter.org) - 在浏览器中试用 Jupyter.
 

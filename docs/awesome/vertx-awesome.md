@@ -37,8 +37,8 @@
 * [Jubilee](https://github.com/isaiah/jubilee) - 基于 Vert.x 3 构建的机架兼容 Ruby HTTP 服务器.
 * [Knot.x](https://github.com/Cognifide/knotx) - 基于 Vert.x 3 构建的现代网站的高效和高性能集成平台.
 * [Irked](https://github.com/GreenfieldTech/irked) - Vert.x 3 Web 和控制器框架的基于注释的配置.
-* [REST.VertX](https://github.com/zandero/rest.vertx) - 轻量级 JAX-RS (RestEasy)，类似于 Vert.x 垂直领域的注释处理器.
-* [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) - 用于 JVM 的实时客户端服务器框架，支持 WebSockets 和具有跨浏览器回退的服务器发送事件.
+* [REST.VertX](https://github.com/zandero/rest.vertx) - 轻量级 JAX-RS (RestEasy)，例如 Vert.x 垂直领域的注释处理器.
+* [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) - Realtime Client Server Framework for the JVM, supporting WebSockets and Server Sent Events with Cross-Browser Fallbacks.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - 在 Vert.x 上运行 Vaadin 应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) - 允许您仅使用路由处理程序注释快速轻松地设置 Vert.x 驱动的服务器.
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next 是一个非常轻量级和现代的、基于 JVM 的全栈 kotlin 框架，旨在构建模块化、易于测试的 JVM 应用程序，支持 Java、Kotlin 语言，由最好的 Java 库和标准制作而成.
@@ -141,7 +141,7 @@
 
 ## Middleware
 
-* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
+* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) 用于将 Camel 与 Vert.x 事件总线桥接的组件.
 * [Gateleen](https://github.com/swisspush/gateleen) - 基于 Vert.x 的中间件库，用于构建高级 JSON/REST 通信服务器.
 * [Gravitee.io](https://gravitee.io) - 一个OSS API平台，包括一个API网关和一个基于Vert.x Core/Vert.x Web等模块的OAuth2/OIDC授权服务器.
 * [API Framework](https://github.com/vinscom/api-framework)  - 基于 Vert.x 和 Glue 的微服务框架消除了独立应用程序和无服务应用程序之间的区别. 所有服务都可以在独立服务器中运行，但如果需要，可以使用相同的代码库将任何服务作为无服务器应用程序运行.
@@ -232,7 +232,7 @@
 
 ## Config
 
-* [Vert.x Config AWS SSM Store](https://github.com/Finovertech/vertx-config-aws-ssm) - 一种 [config store](http://vertx.io/docs/vertx-config/java/) 用于从 [AWS EC2 SSM Parameter Store](https://aws.amazon.com/ec2/systems-manager/parameter-store/).
+* [Vert.x Config AWS SSM Store](https://github.com/Finovertech/vertx-config-aws-ssm) - 一个 [config store](http://vertx.io/docs/vertx-config/java/) 用于从 [AWS EC2 SSM Parameter Store](https://aws.amazon.com/ec2/systems-manager/parameter-store/).
 * [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
 
 ## Dependency Injection
@@ -311,6 +311,7 @@
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) - 路由处理程序和 Vert.x 兼容接口，用于处理 Vert.x 和 Vert.x Web 中的 GraphQL 查询.
 * [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools 是一个工具包，用于构建利用 Vert.x 的强大、可扩展和分布式应用程序，包括用于身份验证、集群管理、Firebase 云消息传递、DynamoDB、完全通用查询、REST 等模块.
 * [Contextual logging](https://github.com/reactiverse/reactiverse-contextual-logging) - 与 Vert.x 事件循环模型一起使用的映射诊断上下文 (MDC).
+* [Vert.x JsonPath](https://github.com/NoEnv/vertx-jsonpath) - 一个非常基本的 JsonPath 实现，使用 Vert.x 的 JsonObject 和 JsonArray，模仿他们的 getX、containsKey、put 和 remove 方法.
 
 ## Presentations
 
