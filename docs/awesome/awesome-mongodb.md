@@ -141,6 +141,7 @@
  - [Motor](https://github.com/mongodb/motor) - Tornado 或 asyncio 的非阻塞 Python 驱动程序
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - 官方（和推荐的）Python 驱动程序
  - [minimongo](https://github.com/slacy/minimongo) - 轻量级、无模式、Pythonic 面向对象的接口
+ - [ODMantic](https://github.com/art049/odmantic) - pydantic 之上的异步 ODM
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - Scrapy 的 MongoDB 管道
  - [μMongo](https://github.com/Scille/umongo) - 基于棉花糖的独立于驱动程序（异步/同步）的 ODM
 

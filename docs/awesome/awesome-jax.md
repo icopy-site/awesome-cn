@@ -42,7 +42,7 @@
 本节包含制作精良且有用的库，但尚未经过大量用户群的实战测试.
 
 - 神经网络库
-    - [FedJAX](https://raw.githubusercontent.com/google/fedjax) - 基于 Optax 和 Haiku 的 JAX 中的联合学习. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
+    - [FedJAX](https://raw.githubusercontent.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
     - [Equivariant MLP](https://raw.githubusercontent.com/mfinzi/equivariant-MLP) - 构建等变神经网络层. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
     - [jax-resnet](https://raw.githubusercontent.com/n2cholas/jax-resnet/) - Flax 中 ResNet 变体的实现和检查点. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
     - [Parallax](https://raw.githubusercontent.com/srush/parallax) - JAX 的不可变 Torch 模块. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
@@ -58,7 +58,7 @@
 - [Optimal Transport Tools](https://github.com/google-research/ott) - 捆绑实用程序以解决最佳运输问题的工具箱.
 - [delta PV](https://raw.githubusercontent.com/romanodev/deltapv) - 具有自动微分功能的光伏模拟器. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 - [jaxlie](https://raw.githubusercontent.com/brentyi/jaxlie) - 用于刚体变换和优化的李理论库. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
-- [BRAX](https://raw.githubusercontent.com/google/brax) - 可微分物理引擎模拟环境以及学习算法来训练这些环境的代理. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
+- [BRAX](https://raw.githubusercontent.com/google/brax) - 可微分物理引擎模拟环境以及为这些环境训练代理的学习算法. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 - [flaxmodels](https://raw.githubusercontent.com/matthias-wright/flaxmodels) - Jax/Flax 的预训练模型. <img src="https://img.shields.io/github/stars/matthias-wright/flaxmodels?style=social" align="center">
 - [CR.Sparse](https://raw.githubusercontent.com/carnotresearch/cr-sparse) - 用于稀疏表示和压缩感知的 XLA 加速算法. <img src="https://img.shields.io/github/stars/carnotresearch/cr-sparse?style=social" align="center">
 - [exojax](https://raw.githubusercontent.com/HajimeKawahara/exojax) - 与 JAX 兼容的系外行星/褐矮星的自动可微分光谱建模. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
@@ -78,6 +78,9 @@
 - [Diffrax](https://raw.githubusercontent.com/patrick-kidger/diffrax) - JAX 中的数值微分方程求解器. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
 - [tinygp](https://raw.githubusercontent.com/dfm/tinygp) - JAX 中最小的高斯过程库. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 - [gymnax](https://raw.githubusercontent.com/RobertTLange/gymnax) - 使用著名的健身房 API 强化学习环境. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
+- [Mctx](https://raw.githubusercontent.com/deepmind/mctx) - 本机 JAX 中的蒙特卡洛树搜索算法. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
+- [KFAC-JAX](https://raw.githubusercontent.com/deepmind/kfac-jax) - 具有近似曲率的二阶优化神经网络. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
+- [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - 将函数/图形转换为 JAX 函数. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 
 
 <a name="models-and-projects" />
@@ -162,7 +165,7 @@
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) - 在 JAX 中从头开始的简单神经网络.
 - [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX 的核心设计，它如何为新研究提供动力，以及如何开始使用它.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) - 介绍使用 NumPyro 进行贝叶斯建模.
-- [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX 介绍演示 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) workshop.
+- [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX 介绍演示 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) - 演示 TPU 主机访问.
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - 由 Zico Kolter、David Duvenaud 和 Matt Johnson 使用 Colab 笔记本创建的教程 [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
 - [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - 包含 Colab 笔记本的四部分 YouTube 教程系列，从 Jax 基础知识开始，然后在 v3-32 TPU Pod 切片上使用数据并行方法进行训练.

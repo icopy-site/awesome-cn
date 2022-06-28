@@ -518,3 +518,10 @@
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - 站点可靠性工程原理和数字的备忘单
 * [SRE Capability Map](https://www.cruform.com/sre-capability-map/) - SRE所有事物的概述
+
+## Podcasts
+* [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)
+* [Google SRE Prodcast](https://sre.google/prodcast)
+* [o11y Observability Podcast](https://www.honeycomb.io/usecase/o11ycast/ )
+* [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
+* [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)

@@ -44,6 +44,7 @@
 ### More resources
 
 - [Design system checklist](https://designsystemchecklist.com/)  - 建立更好的设计系统. 一个开源清单，可帮助您规划、构建和发展您的设计系统.
+- [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - 来自 20 多个行业的设计师和开发人员向我们介绍了他们的设计系统及其用途.
 - [Design.system](https://design.systems/) - 设计系统社区的资源.
 - [Super friendly](https://superfriendlydesign.systems/) - 我们帮助内部团队使用设计系统制作更好的数字产品.
 
@@ -82,7 +83,7 @@
 
 - [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - 在 GitHub 上查看存储库 [here](https://github.com/design-tokens/community-group)!
 - [DesignTokens.dev](https://www.designtokens.dev/) - 在不管理基础设施的情况下运送您的设计令牌.
-- [Diez](https://diez.org/) - 用于表达可跨代码库、本机平台和团队共享的视觉样式的免费和开源开发人员工具包.
+- [Diez](https://diez.org/) - 免费和开源的开发人员工具包，用于表达可以跨代码库、本机平台和团队共享的视觉样式.
 
 ### Plugins
 
@@ -177,7 +178,7 @@
 - [Design Systems - The State of the Web](https://www.youtube.com/watch?v=jpmeWXISU5E) - 关于设计系统在现代 Web 开发中的作用以及它们如何改变设计师和开发人员之间的动态的对话，作者：Adam Argyle（Google 的设计倡导者）.
 - [Design Systems](https://youtu.be/K8MF3aDg-bM?t=4750) - React conf 的女性 [Neha Sharma](https://twitter.com/hellonehha).
 - [How To Build a Design System | UXPin](https://www.youtube.com/watch?v=h0MqkRJdaao) - 将教您如何使用 UX Pin 原型和设计平台构建 UX 设计系统.
-- [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM) - 分享从哪里开始建立设计系统、优先考虑什么以及如何对客户和同事产生重大影响的实际示例，以帮助您介绍让秩序混乱的系统，作者 Diana Mounter（GitHub 设计系统负责人） ）.
+- [Introducing Design Systems Into Chaos](https://youtu.be/FZSi1bK-BRM) - 分享有关从哪里开始建立设计系统、优先考虑什么以及如何对客户和同事产生重大影响的实际示例，以帮助您介绍使秩序混乱的系统，由 Diana Mounter（GitHub 的设计系统负责人） ）.
 - [Jina Anne - Designing a Design System](https://youtu.be/7hYOLLO2gc4)  - 将分享如何接近、设计和构建有效设计系统的策略；  Jina（Salesforce UX 设计系统团队的首席设计师）如何成功维护系统以确保持续有用.
 - [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - React conf 的女性 [Taley'a Mirza](https://twitter.com/TaleyaMirza).
 - [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video) - 帮助您了解如何保持您的系统和它所服务的产品同步，并了解如何维护和发展您的设计系统，以便为您的用户提供尽可能好的体验 Brad Frost（前端设计师）.

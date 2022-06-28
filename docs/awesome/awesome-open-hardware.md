@@ -55,7 +55,7 @@
 
 ## Platforms
 
-* [Open Hardware Repository](https://ohwr.org/welcome) - 供实验物理设施的电子设计师合作开发开放式硬件设计.
+* [Open Hardware Repository](https://ohwr.org/welcome) - 让实验物理设施的电子设计师在开放式硬件设计上进行协作.
 * [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - 可持续开放硬件的免费蓝图.
 * [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables 是一个让您探索、记录和分享您的创作的地方.
 * [Hackaday.io](https://hackaday.io/) - Hackaday.io 是世界上最大的协作硬件开发社区.
@@ -102,7 +102,7 @@
 
 * [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) - 列出电子爱好者的资源.
 * [Awesome Open](https://github.com/paulhendricks/awesome-open) - 开放公司和社区的列表.
-* [Aweomse Electronics](https://github.com/kitspace/awesome-electronics) - 电子工程师和爱好者的精选资源列表.
+* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) - 电子工程师和爱好者的精选资源列表.
 
 ## Contributing
 

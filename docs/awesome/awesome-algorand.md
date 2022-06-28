@@ -15,6 +15,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=green" /></a>
 <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a>
+<a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-purple.svg" /></a>
 
 </div>
 <br/>
@@ -219,7 +220,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## Name Services
 
 - [NFDomains](https://nf.domains/) - 非同质域 (NFD) 的 Algorand 名称服务和市场——钱包地址的唯一、可读别名.
-- [Algorand Name Service](https://algonameservice.com/home)  - ANS 是一种去中心化的命名服务.  Algorand 智能合约存储名称并管理命名策略.
+- [Algorand Name Service](https://algonameservice.com/home) - ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy.
 
 ## Community
 
@@ -253,11 +254,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
 - [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用、显示 NFT、账户分析等.
 - [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
+- [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
 
 ## ARCs
 
 &gt; *finalized* ARC 中定义的标准和规范.
-> The list of all the ARCs can be found on https://arc.algorand.foundation
+&gt; 所有 ARC 的列表可以在 https://arc.algorand.foundation 上找到
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.
 - [ARC69](https://github.com/algokittens/arc69) - 在 Algor和 NFT 社区中流行的非官方 Algor和 标准资产参数约定，灵感来自 [Open Sea's metadata st和ards](https://docs.opensea.io/docs/metadata-st和ards) 和 [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).

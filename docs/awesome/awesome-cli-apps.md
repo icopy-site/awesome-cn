@@ -48,7 +48,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - 推特客户端.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上的智能和漂亮的 Twitter 客户端.
-- [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
+- [tuir](https://gitlab.com/ajak/tuir) - 它付钱给你.
 - [WeeChat](https://weechat.org/) - 快速、轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) - IRC 聊天客户端.
 - [kirc](https://github.com/mcpcpc/kirc) - 微型 IRC 客户端.
@@ -58,7 +58,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 从 YouTube.com 和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) - 从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Youtube 播放器.
-- [mpv](https://mpv.io) - 高级视频播放器.
+- [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - 声明式视频编辑.
 
 ### Movies
@@ -70,6 +70,7 @@
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike 建设和管理模拟.
 - [Cataclysm-DDA](https://cataclysmdda.org) - 以世界末日为背景的回合制生存游戏.
+- [pokete](https://github.com/lxgr-linux/pokete) - 口袋妖怪般的.
 
 ### Books
 
@@ -195,7 +196,7 @@
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker 客户端.
 - [g3l](https://github.com/svtek/g3l) - 世界上最简单的 git cli！
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
-- [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
+- [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
 - [papis](https://github.com/papis/papis) - 可扩展的文档和书目管理器.
 - [pubs](https://github.com/pubs/pubs) - 科学书目经理.
 
@@ -250,7 +251,7 @@
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
 - [s](https://github.com/zquestz/s) - 在您的终端中打开网络搜索.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP、FTP、SFTP、BitTorrent 和 Metalink 下载实用程序.
-- [wego](https://github.com/schachmat/wego) - 了解天气.
+- [wego](https://github.com/schachmat/wego) - Get the weather.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从各种新闻媒体获取新闻头条.
@@ -293,6 +294,7 @@
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同 UI 的“speedtest-net”包装器.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用 speedtest.net 测试互联网带宽.
 - [bandwhich](https://github.com/imsnif/bandwhich) - 按进程跟踪带宽利用率.
+- [neoss](https://github.com/PabloLec/neoss) - 用户友好且详细的套接字统计信息.
 
 ### Theming and Customization
 
@@ -335,7 +337,7 @@
 - [pass](https://www.passwordstore.org) - 密码管理器.
 - [gopass](https://github.com/gopasspw/gopass) - 功能齐全的密码管理器.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - 基于 SSH 的 VPN.
-- [acmetool](https://github.com/hlandau/acme) - Automatic certificate acquisition for ACME (Let's Encrypt).
+- [acmetool](https://github.com/hlandau/acme) - ACME（Let&#39;s Encrypt）的自动证书获取.
 - [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 提取服务器证书.
 - [ots](https://github.com/sniptt-official/ots) - 通过一次性 URL 与他人分享秘密.
 
@@ -364,7 +366,7 @@
 
 - [jq](https://github.com/stedolan/jq) - JSON 处理器.
 - [yq](https://github.com/kislyuk/yq) - YAML 处理器.
-- [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML 处理器（如 jq/yq）.
+- [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML processor (like jq/yq).
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - 查询/更新 YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - 使用功能管道处理数据.
 
@@ -481,6 +483,7 @@
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) - 确保语义提交消息.
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) - 在 Github 存储库之间同步标签.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - 改进了`git branch -a`.
+- [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - 以交互方式生成标准化提交消息.
 
 ### GitHub
 
@@ -513,7 +516,7 @@
 
 - [cmatrix](https://github.com/Treri/cmatrix) - 滚动类似“矩阵”的屏幕.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 在屏幕上生长的随机管道.
-- [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - 圣诞圣诞原木壁炉.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 数字壁炉.
 
 ## Graphics
@@ -549,7 +552,7 @@
 - [hget](https://github.com/bevacqua/hget) - 从您的终端以纯文本形式呈现网站.
 - [alex](https://github.com/wooorm/alex) - 捕捉麻木不仁、轻率的写作.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 下载 NASA 每日图片.
-- [trino](https://github.com/eneserdogan/trino) - Translation of words and phrases.
+- [trino](https://github.com/eneserdogan/trino) - 单词和短语的翻译.
 - [translate-shell](https://github.com/soimort/translate-shell) - 谷歌翻译界面.
 
 ### Emoji
