@@ -41,6 +41,7 @@
 * [SuperTokens](https://supertokens.io/) - 带有预建 UI 的开源和托管电子邮件和 Oauth 身份验证.
 * [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
+* [userfront](https://userfront.com/) - 使用预先构建的后台仪表板进行简单的用户身份验证.
 
 ## CI/CD
 *持续集成/交付.*

@@ -22,7 +22,7 @@
 
 ## Thorg
 
-- [About Thorg](https://www.thorg.io/about) - Learn what the Thorg miner does.
+- [About Thorg](https://www.thorg.io/about) - 了解 Thorg 矿工的工作.
 - [Thorg Usage](https://www.thorg.io/usage) - 了解 Thorg 的深处.
 - [Twitter](https://twitter.com/minewiththorg) - Thorg 的官方推特.
 
@@ -67,6 +67,7 @@
 
 - [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - 增强的 bash 补全引擎，通过为 golemsp 和 yagna 提供上下文帮助来扩展内置补全.
 - [Golocity](https://github.com/davidstyers/golocity) - 只需两个命令即可在 Golem 网络上构建和部署您的 dockerized 应用程序.
+- [gc__push_image](https://github.com/figurestudios/gc__push_image) - 将 GVMI 图像发布到 Skynet 的 CLI 工具，使用户能够在不自行托管/放弃控制的情况下更改 image_url.
 
 ### Video Transcoding and Editing
 
@@ -93,7 +94,7 @@
 
 ### Data Optimization
 
-- [Golem or-tools](https://github.com/Doc-Saintly/golem-ortools) - 使用 or-tools 约束编程库来解决问题.
+- [Golem or-tools](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems.
 - [No more COFUD](https://github.com/DEUTSCHKLUB/no-more-COFUD) - 计算如何在彼此之间保持 2 米距离的情况下将最多的人放入空间中.
 - [Mutta Puffs](https://github.com/DeveloperInProgress/Mutta-Puffs) - 体育联赛调度程序，使用基于人口的模拟退火解决给定团队的巡回锦标赛问题.
 
@@ -114,7 +115,7 @@
 
 ### Password Recovery
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - 运行 John The Ripper 以恢复密码.
-- [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat 密码恢复步骤.
+- [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
 ### DeFi
 
@@ -149,6 +150,7 @@
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - 如果您有一个有趣的问题想要回答，请使用 Yagna 标签.
 - [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - 为开发人员提供的 JS 指南，以更好地了解如何使用 JavaScript API 运行任务.
 - [EasyYagnaJS](https://github.com/figurestudios/easy-yagna-js) - 将 Node.js 依赖项直接复制到提供程序，使开发人员不必在其工作流程中使用 Docker.
+- [push-gvmi](https://github.com/figurestudios/push-gvmi) - 自动构建 GVMI 图像并将其上传到 Golem 的 GitHub 操作，以及一种抓取最新哈希以供本地使用的方法.
 
 ## Provider Resources
 
@@ -167,10 +169,10 @@
 
 - [Ansible ya_provider](https://galaxy.ansible.com/golemfactory/ya_provider) - Ansible 角色自动部署 Golem 提供程序，所需配置最少.
 - [WSL](https://github.com/r34x/WSL)  - 允许 Windows 用户在 Linux 的 Windows 子系统中运行 Golem. 消除需要使用虚拟机的 Windows 用户的要求.
-- [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
+- [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform 脚本用于在云提供商上自动部署 Golem Provider 并使用 prometheus 设置监控.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志设置 Golem 提供程序，指导您完成整个过程.
 - [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - Docker 版本的节点可帮助您快速开始作为 Docker 容器中的提供者运行.
-- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上面的 Alxexandre-abrioux 项目的分支，它允许从 ENV 变量动态生成配置文件并指定您想要生成多少个副本.
+- [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上面的 Alxexandre-abrioux 项目的分支，允许从 ENV 变量动态生成配置文件并指定您想要生成多少副本.
 - [Scalable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 生成 x 数量的提供者.
 
 ## Learning Resources
