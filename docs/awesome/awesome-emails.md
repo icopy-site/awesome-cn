@@ -71,7 +71,7 @@
 
 ## Services
 
-- [Mailchimp](https://mailchimp.com/) - MailChimp 为全球超过 1500 万人提供电子邮件营销服务.
+- [Mailchimp](https://mailchimp.com/) - Mailchimp 为全球超过 1500 万人提供电子邮件营销服务.
 - [Mailjet](https://mailjet.com/) - 允许企业发送营销、交易电子邮件和电子邮件自动化的多合一电子邮件服务提供商.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor 可让您轻松创建、发送和优化您的电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) - 通过一个可靠的平台发送您的交易和营销电子邮件.
@@ -91,12 +91,13 @@
 - [mailcow](https://mailcow.email/)  - 带有“moo”的邮件服务器套件. 一个易于使用的 dockerized 自托管电子邮件解决方案.
 - [Mailtrain](https://mailtrain.org/) - 基于 Nodemailer 构建的自托管通讯应用程序.
 - [Mautic](https://mautic.org/)  - Mautic 营销自动化. 借助易于学习、易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
-- [Modoboa](https://modoboa.org/) - 一种快速部署和管理完整电子邮件服务器的解决方案，与最新标准兼容并针对交付和声誉保护进行了优化.
+- [Modoboa](https://modoboa.org/) - 快速部署和管理完整电子邮件服务器的解决方案，与最新标准兼容并针对交付和声誉保护进行了优化.
 - [Poste.io](https://poste.io/) - 完整的邮件服务器内置在一个 docker 容器中.
 - [SimpleLogin](https://github.com/simple-login/app) - 自托管电子邮件别名解决方案.
 
 ## Workflows
 
+- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - 使用 SCSS 设计和测试响应式 HTML 电子邮件模板的 Grunt 工作流程.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator 是受 Lee Munroe 的 grunt-email-design 工作流程启发的 gulp 工作流程.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - Sitepoint 的典型电子邮件开发工作流程.
@@ -137,7 +138,7 @@
 - [Litmus Resources](https://litmus.com/resources) - 通过 Litmus 资源了解最新的电子邮件新闻和趋势.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor 资源将使您立即成为专家.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
-- [Mailchimp](http://templates.mailchimp.com/) - MailChimp 电子邮件设计参考
+- [Mailchimp](http://templates.mailchimp.com/) - Mailchimp 电子邮件设计参考
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - 关于如何建立自己的电子邮件服务器的教程
 
 ## Inspirations
@@ -152,7 +153,7 @@
 ## Statistics
 
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - Emma, Inc. 为现代电子邮件营销人员提供的 18 个必须知道的统计数据.
-- [Mailchimp Research](http://mailchimp.com/resources/research/) - MailChimp 的研究人员不断分析数据，以帮助您充分利用电子邮件活动.
+- [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp 的研究人员不断分析数据，以帮助您充分利用电子邮件活动.
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 年报告：电子邮件营销的新规则
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 年报告：Campaign Monitor 2016 年回顾
 
@@ -174,7 +175,7 @@
 ## Learning
 
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) - Justine Jordan 和 Jason Rodriguez 的响应式电子邮件课程.
-- [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
+- [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - 本系列教程将带您了解基础知识，探索开发技术、工作流程和设计方法.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - 使用 Ink 构建响应式电子邮件模板.
 - [Litmus learning](https://litmus.com/community/learning) - 石蕊学习资源.
 

@@ -80,7 +80,7 @@
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - 最初是 WebVR 讨论的主要 subreddit，现在包含一般 WebXR 内容以及 [r/WebXR](https://www.reddit.com/r/WebXR/).
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
-## Companies and cooperatives
+## Companies and Cooperatives
 
 *公司和合作社以 WebXR 为中心/开展工作.*
 
@@ -99,7 +99,7 @@
 
 
 - [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
-- [Construct Arcade](https://constructarcade.com/) - 一个精选的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
+- [Construct Arcade](https://constructarcade.com/) - 一个精心策划的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
 - [Extended Collection](https://extendedcollection.com/) - WebXR 内容的另一个策展中心，由 [Joseph Simpson](https://github.com/vrhermit/).
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
 - [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.

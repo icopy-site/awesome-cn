@@ -6,7 +6,7 @@
 带有“:strawberry:”图标的插件也有与 CakePHP 4 兼容的版本.
 
 如果您正在寻找 CakePHP 2.x 资源，请访问：
-- the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) 这个很棒的清单
+- 这 [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) 这个很棒的清单
 - 这个维基有 [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 您可能会发现有用的其他列表：
@@ -54,7 +54,7 @@
 
 - ：草莓： [Acl plugin](https://github.com/cakephp/acl/) - 将 ACL 管理为数据库方法.
 - ：草莓： [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - 使用 JSON Web 令牌进行身份验证的插件.
-- ：草莓： [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) - 一个插件，允许您使用 Facebook/Google/Twitter 等社交提供商进行身份验证，使用 [SocialConnect/auth](https://github.com/SocialConnect/auth) 图书馆的社会标志.
+- ：草莓： [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) - 一个插件，允许您使用 Facebook/Google/Twitter 等社交服务提供商进行身份验证，使用 [SocialConnect/auth](https://github.com/SocialConnect/auth) 图书馆的社会标志.
 - ：草莓： [Authentication plugin](https://github.com/cakephp/authentication) - 官方 CakePHP 认证中间件插件.
 - ：草莓： [Authorization plugin](https://github.com/cakephp/authorization) - 官方 CakePHP 授权堆栈.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)  - 使用 SOAP 或 OData 服务对 Navision® 服务进行身份验证的插件. 它包括 NTLM 身份验证等.
@@ -172,7 +172,7 @@
 *不属于任何其他类别的有用库或工具.*
 
 - [Capcake](https://github.com/jadb/capcake) - 使用 Capistrano 部署 CakePHP 应用程序.
-- [Chronos](https://github.com/cakephp/chronos) - 一个简单的独立 DateTime API 扩展（Carbon 的继承者）.
+- [Chronos](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 - [Composer Installers](https://github.com/composer/installers) - 一个多框架 Composer 库安装程序.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - 一个包和依赖管理器.
 - [Graphviz](https://github.com/alexandresalome/graphviz) - Graphviz 库.
@@ -220,7 +220,7 @@
 - ：草莓： [Shim plugin](https://github.com/dereuromark/cakephp-shim) - 一个包含有用垫片和改进的插件，作为您应用程序的基础.
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) - 轻松发布可用于邮件身份验证的令牌.
 - ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) - 包含许多有用的库、助手、行为、组件、shell 等.
-- [UserTools plugin](https://github.com/burzum/cakephp-user-tools) - User tools for login, registration, password reset and more. Works out of the box CRUD like and is highly configurable.
+- [UserTools plugin](https://github.com/burzum/cakephp-user-tools)  - 用于登录、注册、密码重置等的用户工具. 像 CRUD 一样开箱即用，并且高度可配置.
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) - 包含有用的组件（Authorizer、Menu）和行为（WhoDidIt、Uploadable、Metas、Stateable）.
 - [Wrench plugin](https://github.com/HavokInspiration/wrench)  - 维护模式插件. 易于扩展和定制.
 - [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) - 用于使用 YAML 配置文件而不是 PHP 数组.
@@ -228,7 +228,7 @@
 ## Navigation
 *用于构建导航结构的工具.*
 
-- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一种 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP 的经验丰富的菜单插件.
+- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一个 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP 的经验丰富的菜单插件.
 
 ## NoSQL
 *用于“NoSQL”后端的插件.*
@@ -291,7 +291,7 @@
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 用于建筑的粗鲁监听器 [JSON API](https://jsonapi.org/) 兼容的 API.
 - ：草莓： [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - 一个允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的 API 输出.
 - ：草莓： [MixerApi](https://mixerapi.com) - 为您的团队 CakePHP 项目简化现代 RESTful API 的开发.
-- ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake)  - 这个插件会自动从你现有的模型和路由构建你的 Swagger UI 文档. 还可以使用重做选项.
+- ：草莓： [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake) - 此插件自动从您现有的模型和路线构建 OpenAPI，以在 Swagger 和 Redoc 中显示.
 
 ## Search
 *用于索引和执行数据搜索查询的插件和软件.*
@@ -300,7 +300,7 @@
 - ：草莓： [PlumSearch plugin](https://github.com/skie/plum_search)  - 搜索插件实现自定义、灵活和可扩展的搜索策略. 实现 PRG 模式.
 - ：草莓： [Search plugin](https://github.com/FriendsOfCake/search) - 使用 PRG 模式为分页视图提供简单的搜索/过滤.
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) - 查询 SphinxSearch 索引的基本行为实现.
-- ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) - For tagging and finding tagged records.
+- ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) - 用于标记和查找标记的记录.
 
 ## Security
 *有关安全性的插件和信息，防止漏洞和防止 XSS 等.*
@@ -317,7 +317,7 @@
 - [StopSpam plugin](https://github.com/mirko-pagliai/cakephp-stop-spam) - 允许您检查用户名、电子邮件地址或 IP 地址是否已被报告为垃圾邮件发送者的插件.
 
 ## SEO
-*搜索引擎优化.*
+*Search Engine Optimization.*
 
 - ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  - 用于生成 slug 并通过 slug 查找记录的插件. 使用可插拔架构，允许使用您自己的 slug 生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) - 自动创建和管理您的 SEO 标签.
@@ -386,7 +386,7 @@
 *用于创建开发环境的软件.*
 
 ## Development Environment
-*用于创建沙盒开发环境的软件和工具.*
+*Software and tools for creating a sandboxed development environment.*
 
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - .gitignore 文件提案.
 - ：草莓： [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - 用于 docker 和 kubernetes 设置的 cakephp/app 模板.
@@ -417,7 +417,7 @@
 - [BlogMVC](https://github.com/Kareylo/BlogMVC-CakePHP3) - 基于 CakePHP 的简单博客示例 [BlogMVC Project](https://github.com/Grafikart/BlogMVC).
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) 使用 CRUD 插件构建的书签应用程序.
 - [CakeFest](http://cakefest.dereuromark.de/) - 围绕年度 CakePHP 大会“CakeFest”的演示应用程序.
-- [Croogo 3.x](http://demo.croogo.org/3.0) --Croogo 3.x 演示
+- [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x 演示
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - 包含真实世界示例（CRUD、auth、高级模式等）的示例 CakePHP 代码库 [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规范和 API.
 - [Sandbox](https://sandbox.dereuromark.de) - 一个带有大量演示和插件展示的沙盒 CakePHP 应用程序.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.
