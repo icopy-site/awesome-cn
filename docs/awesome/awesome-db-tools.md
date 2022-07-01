@@ -12,6 +12,7 @@
 
   - [Catalog](#catalog) 
   - [Replication](#replication) 
+  - [Compare](#compare) 
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
@@ -40,7 +41,7 @@
 - [Toad](https://www.quest.com/toad/)  - Toad 是面向开发人员、管理员和数据分析师的首选数据库解决方案. 使用单一数据库管理工具管理复杂的数据库更改.
 - [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and Postgres.
 - [TOra](https://github.com/tora-tool/tora) - TOra 是用于 Oracle、MySQL 和 PostgreSQL 数据库的开源 SQL IDE.
-- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 免费创建、管理、查询和探索 Valentina DB、MySQL、MariaDB、PostgreSQL 和 SQLite 数据库.
+- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 
 
 ## GUI
@@ -123,7 +124,7 @@
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
 
 ### Diagrams
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
@@ -303,7 +304,7 @@
 
 ### Formatters
 - [CodeBuff](https://github.com/antlr/codebuff) - 通过机器学习实现与语言无关的漂亮打印.
-- [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+- [pgFormatter](https://github.com/darold/pgFormatter) - 一个 PostgreSQL SQL 语法美化器.
 - [Poor SQL](https://poorsql.com) - 即时免费和开源的 T-SQL 格式. 
 - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - 用于漂亮打印 SQL 查询的 JavaScript 库.
 
@@ -364,6 +365,8 @@
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - 使用 Postgres 逻辑解码功能通过 websocket 流式传输 Postgres 更改的 Golang 网络服务器至少一次.
 - [repmgr](https://github.com/2ndQuadrant/repmgr) - 最流行的 PostgreSQL 复制管理器.
 
+### Compare
+- [data-diff](https://github.com/datafold/data-diff) - 命令行工具和 Python 库，可有效区分两个不同数据库中的行.
 
 ## Papers
 关于数据库工具的文件、文章、宣言和其他理论资料

@@ -59,7 +59,7 @@
 
 ## Scripting
 
-- [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) - 最流行的脚本机制性能比较.
+- [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-jmeter) - 最流行的脚本机制性能比较.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - 使用 JMeter 和 Groovy 进行负载测试.
 - [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter：忘记 BeanShell 采样器 :ru:.
 
@@ -99,7 +99,7 @@
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity 插件，用于在 CI 中组织最简单的性能测试.
 - [Bamboo JMeter Aggregator Plugin](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo) - 用于收集、断言和绘制 JMeter 测试结果的 Bamboo 插件.
 - [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - 用于收集 JMeter 性能测试结果并显示在 Sonar 仪表板中的插件.
-- [Lightning](https://automatictester.github.io/lightning/) - 将 JMeter 非功能测试与 CI/CD 服务器集成的框架.
+- [Lightning](https://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - [Taurus JMeter Executor](https://gettaurus.org/docs/JMeter/) - Taurus 自动化框架中的 JMeter Executor.
 - [PerfAction for JMeter](https://github.com/marketplace/actions/perfaction-for-jmeter) - 使用 Apache JMeter 及其插件运行性能测试的 GitHub Action.
 
@@ -112,13 +112,13 @@
   - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
   - 如何使用 Maven 和 Jenkins 自动化 JMeter 测试： [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
   - JMeter 持续性能测试（JMeter + Ant + Jenkins）： [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-  - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
+  - [Continuous Integration 101: How to Run JMeter with Jenkins](https://dzone.com/articles/continuous-integration-101-how-to-run-jmeter-with)
 - 竹子
-  - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
+  - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://dzone.com/articles/how-to-run-jmeter-in-a-continuous-integration-envi)
 - 团队城市
   - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
 - 圈子CI
-  - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
+  - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/circleci-jmeter)
 -SonarQube
   - [JMeter with Sonar](http://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
 
@@ -172,7 +172,6 @@
 - [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - JMeter 日志分析的建议和方法.
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
-- [BlazeMeter Sense](https://sense.blazemeter.com/) - 存储和分析性能测试结果的服务.
 - [JtlReporter](https://github.com/ludeknovy/jtl-reporter) - 在线报告应用程序，通过上传 JTL 文件生成报告.
 - [JAnalyser](http://janalyser.com/) - 基于浏览器的结果分析工具.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - 解析 JMeter 测试结果并生成带有图表的详细报告的 Maven 插件.
@@ -231,14 +230,13 @@
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
 - [Load testing HLS with Ruby JMeter](https://www.flood.io/blog/load-testing-hls-with-ruby-jmeter)
-- [Media Live Streaming Load Testing with JMeter](https://www.blazemeter.com/live-streaming/) - BlazeMeter 的文章集（[HLS](https://www.blazemeter.com/hls/), [RTMP](https://www.blazemeter.com/rtmp/)、WS、播客等）.
+- [How to Test Video Streaming with JMeter](https://www.blazemeter.com/blog/video-streaming-testing)
 - [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin)
 
 ### Mobile Apps
 
 - [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
-- [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/load-testing-mobile-apps-made-easy/)
-- [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps/)
+- [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/mobile-app-load-testing)
 
 ### Mainframe Environments
 
@@ -308,8 +306,7 @@
 ## JMeter Performance
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) - JMeter 跨版本的性能演变.
-- [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - 由 Ubik 工程公司提供.
-- [JMeter Performance and Tuning Tips](https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips) - By BlazeMeter.
+- [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - 由 Ubik Ingenierie 提供.
 - 如何加速 JMeter： [part 1](https://performancelabus.com/how-to-speed-up-jmeter-part-1/), [part 2](https://performancelabus.com/how-to-speed-up-jmeter-part-2/)
 
 ## Tips & Tricks
@@ -337,13 +334,13 @@
 - [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - 由 Udemy.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - 由实用测试实验室提供.
-- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - 由 Ubik 工程公司提供.
+- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - 由 Ubik Ingenierie 提供.
 - [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - 由 QAInsights 提供.
 - [JMeter Getting Started Course (Apr 2019)](https://www.pluralsight.com/courses/jmeter-getting-started) - 通过 Pluralsight.
 
 ## Videos
 
-- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
+- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - 逐步自动化.
 - [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - 由 QAInsights 提供.
 - [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - 由 xavki :fr:.
 
@@ -351,7 +348,7 @@
 
 ### Blogs
 
-- [BlazeMeter Blog](https://www.blazemeter.com/jmeter/) - 关于 JMeter 和性能测试的 BlazeMeter 博客.
+- [BlazeMeter Blog](https://www.blazemeter.com/blog) - 关于 JMeter 和性能测试的 BlazeMeter 博客.
 - [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik 工程博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - 关于测试自动化的技术博客.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - RedLine13 博客中的 JMeter 文章.
@@ -407,4 +404,4 @@
 ## Contributing
 
 欢迎投稿！<br>
-请看一下 [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) 第一的.
+请看一下 [CONTRIBUTING](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) 首先是指导方针.

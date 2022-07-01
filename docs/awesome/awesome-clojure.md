@@ -3,7 +3,7 @@
 ## Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
   - [Penpot](https://penpot.app/): 设计和原型制作平台
-  - [LightTable (IDE)](http://lighttable.com/)
+  - [LightTable (IDE)](http://lighttable.com/) （存档）
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
@@ -12,7 +12,6 @@
   - [Metabase](https://github.com/metabase/metabase)
   - [Metabase Datomic](https://github.com/lambdaisland/metabase-datomic)
   - [CircleCI](https://circleci.com/)
-  - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
@@ -42,7 +41,7 @@
   * [photon](https://github.com/venantius/photon) - 实时网络，如 Meteor，但用于 Clojure（脚本）
   * [metaclj](https://github.com/brandonbloom/metaclj) - 分阶段编译
   * [meander](https://github.com/noprompt/meander) - 使用数据结构模式匹配的透明数据转换
-  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只是学习如何将您的思想映射到不可变的世界）
+  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只是学习如何将你的思想映射到不可变的世界）
 ## Advanced datastructures
 
   * [specter](https://github.com/redplanetlabs/specter)：用于查询和转换嵌套和递归数据的优雅 API
@@ -91,6 +90,7 @@
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
+  * [tools.build](https://www.clojure.org/guides/tools_build)
   * [clojurephant](https://github.com/clojurephant/clojurephant) （梯度插件）
   * [shadow-cljs](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
@@ -180,6 +180,11 @@
 
   * [cheshire](https://github.com/dakrone/cheshire)
   * [jsonista](https://github.com/metosin/jsonista)
+
+## Protocol Buffers and gRPC
+
+  * [pronto](https://github.com/AppsFlyer/pronto)
+  * [lein-protodeps](https://github.com/AppsFlyer/lein-protodeps)
 
 ## Database Cli
 
@@ -285,6 +290,7 @@
   * [Midje](https://github.com/marick/Midje)
   * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha](https://github.com/lambdaisland/kaocha)
+  * [StateFlow](https://github.com/nubank/state-flow)
 
 ## Webdriver automation
 
@@ -371,6 +377,7 @@
   * [Dire](https://github.com/MichaelDrogalis/dire)
 
 ## Rule-based Programming
+  * [O'Doyle Rules](https://github.com/oakes/odoyle-rules)
   * [Clara Rules](https://github.com/cerner/clara-rules)
   * [Arete](https://github.com/yipeeio/arete)
 
@@ -482,8 +489,9 @@
   * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos): 了解列表理解、线程宏、生成测试、解构、core.match 等概念以及使用 Clojure 进行 Light Table、Datomic 和游戏开发的介绍
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Clojure 函数式编程和 TDD 简介
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 介绍一次一个函数
+  * [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos)：与整个 clojure 生态系统相关的有趣且适合初学者的内容
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更多高级视频.
 
 ## Websites
 

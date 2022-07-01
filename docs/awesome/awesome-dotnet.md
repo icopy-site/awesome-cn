@@ -139,6 +139,7 @@
 * [ASP.NET Core Web API](https://www.manning.com/books/asp-net-core-web-api)  - 一本关于使用 REST 和 GraphQL 标准设计和实现 API 的书.  **[$]**
 * [.NET Maui in Action](https://www.manning.com/books/dot-net-maui-in-action)  - 一本关于使用一组通用 .NET 工具创建移动和桌面应用程序的书.  **[$]**
 * [.NET in Action, Second Edition](https://www.manning.com/books/dotnet-in-action-second-edition)  - 介绍在 Microsoft .NET 平台上实现功能齐全的跨平台专业应用程序.  **[$]**
+* [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4)  - 深入了解 .NET 内存管理，包括全面介绍 .NET 内存的工作原理、实现细节、可能的陷阱以及解决方法.  **[$]**
 
 ## Build Automation
 
@@ -365,7 +366,7 @@
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net 是适用于 https://stripe.com/ 的完整服务 .NET API
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform)  - Virto Commerce 是第二代版本，是唯一在开源许可下完全可用的企业级电子商务产品.  Virto Commerce 基于 .NET 4.5，广泛使用 MVC、IoC、EF、Azure、AngularJS 和许多其他尖端技术. 它可以部署在 Microsoft Cloud (Azure)、Amazon Web Services (AWS) 和本地.  https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce)  - 基于 .NET Core 构建的超级简单电子商务系统. 易于使用且易于定制. 感谢 .NET Core，您可以在 Windows、Linux 上运行 SimplCommerce. 使用各种 RDBMS：Microsoft SQL Server、PostgreSQL、MySQL
-* [GrandNode](https://github.com/grandnode/grandnode2) - 无头、多供应商、多租户，基于.NET Core 5.0 和MongoDB 的最先进的开源电子商务平台. 
+* [GrandNode](https://github.com/grandnode/grandnode2) - 无头、多供应商、多租户，基于 .NET Core 5.0 和 MongoDB 的最先进的开源电子商务平台. 
 * [Square](https://github.com/square/connect-csharp-sdk) - Square 支付和其他 Square API 的官方 SDK.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - .NET 的官方 Adyen 支付 API 库
 
@@ -472,7 +473,7 @@
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建 Material Design 风格的 WPF 应用程序的工具包
 * [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中的桌面和移动应用程序的跨平台 GUI 框架
-* [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕裂的 WPF 选项卡控件（类似于 Chrome），支持布局并且完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
+* [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕裂的 WPF 选项卡控件（类似于 Chrome），支持布局并完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite 是一个为 WPF 实现类似 Office 和 Windows 8 的功能区的库.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) - 为 WinForms 实现 MS Office 功能区的库.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
@@ -485,7 +486,7 @@
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 一个多平台的 .NET UI 框架（以前称为 Perspex）.
 * [Modern UI for WPF - MUI](https://github.com/firstfloorsoftware/mui) - 将 WPF 应用程序转换为外观精美的现代 UI 应用程序的一组控件和样式.
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单、直接、超薄的 CLR 库，用于具有自动化、窗口化、DirectX、OpenGL 和 Skia 助手的高性能 Win32 Native Interop.
-* [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
+* [Neutronium](https://github.com/NeutroniumCore/Neutronium) - 使用 HTML、CSS、javascript 和 MVVM 绑定（例如 WPF）构建 .NET 桌面应用程序.
 * [Ooui](https://github.com/praeclarum/Ooui) - 一个小型跨平台 UI 库，将原生 UI 开发的简单性带到 Web
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - 用于 WPF 应用程序的轻量级 UI 工具包，提供经典但增强的 Windows 视觉效果.
 * [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI 库 (WinUI) 为 Windows UWP 应用程序提供官方原生 Microsoft UI 控件和功能.
@@ -672,7 +673,7 @@
 
 ## Media
 
-* [CSCore](https://github.com/filoe/cscore) - 一个高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
+* [CSCore](https://github.com/filoe/cscore) - 高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 媒体文件中的元数据，包括视频、音频和照片格式
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - libvlc 的 Xamarin 绑定，支持 VideoLAN 制作的 VLC 应用程序的多媒体框架.
@@ -692,7 +693,7 @@
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin)  - 包含具有最高性能的 JS 和 CSS 缩小器，因为它是专为 .NET 设计的. 可选择为 JS 代码生成 Source Maps.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin)  - .NET 库，包含一组标记缩小器. 该项目的目标是通过减小 HTML、XHTML 和 XML 代码的大小来提高 Web 应用程序的性能.
-* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器而无需按需压缩，当浏览器指示我支持它时，还支持发送更高级的图像格式.
+* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
@@ -721,7 +722,7 @@
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [Warden](https://github.com/warden-stack/Warden)  - 为您的应用程序、资源和基础设施定义“健康检查”. 让您的守望者时刻保持警惕
-* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
+* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示的值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
 * [Jot](https://github.com/anakic/jot) - 一个用于持久化和恢复应用程序状态的库（一个更好的替代 .settings 文件）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 该库使您能够在 .NET 中枚举和与 Hid 兼容的 USB 设备进行通信.
@@ -730,7 +731,7 @@
 * [DeviceId](https://github.com/MatthewKing/DeviceId) - 生成可用于唯一标识计算机的“设备 ID”.
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - 通用设备检测库将解析任何用户代理并检测浏览器、操作系统、使用的设备（台式机、平板电脑、移动设备、电视、汽车、控制台等）、品牌和型号.
 * [NaturalSort.Extension](https://github.com/tompazourek/NaturalSort.Extension) - StringComparer 的扩展方法，增加了对自然排序的支持（例如“abc1”、“abc2”、“abc10”而不是“abc1”、“abc10”、“abc2”）.
-* [Coravel](https://github.com/jamesmh/coravel) 近乎零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（等等）变得轻而易举！
+* [Coravel](https://github.com/jamesmh/coravel) 近乎零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（以及更多）变得轻而易举！
 * [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - 一个非常快速和高效的 Levenshtein 距离计算器，具有 SIMD 和线程支持
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - 一个简单但功能强大的 .NET 网络爬虫库
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - .NET 的简单构建版本控制，由 Git 标签提供支持
@@ -825,7 +826,7 @@
 
 * [Cloudmersive PDF](https://cloudmersive.com/pdf-api)  - Cloudmersive PDF 是一种原生 .NET Framework 和 .NET Core NuGet 库和 API 服务，可以创建、修改、加密或转换高保真度的 PDF 文档； 并且可以免费使用，没有过期**[免费]**
 * [Docotic.Pdf](https://bitmiracle.com/pdf-library/)  - PDF 库，用于在 .NET 和 .NET Core 应用程序中创建、阅读、编辑、绘制和打印 PDF 文档.  100% 托管，没有不安全的块.  **[$]** **[[Free for OSS](https://bitmiracle.com/pdf-library/free-pdf-library.aspx)]**
-* [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，可让您以可移植文档格式 (PDF) 创建、调整、检查和维护文档**[$]** **[OSS 免费]**
+* [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，允许您以可移植文档格式 (PDF) 创建、调整、检查和维护文档**[$]** **[OSS 免费]**
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer 是基于 PDFium 项目的 PDF 查看器.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 * [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) . 一个 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可以轻松包含在您的项目中.**[$]**
