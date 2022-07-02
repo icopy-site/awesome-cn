@@ -40,7 +40,7 @@
 * [Toran Proxy](https://toranproxy.com) - 静态 Composer 存储库和代理.
 
 ### Frameworks
-*Web 开发框架.*
+*Web development frameworks.*
 
 * [CakePHP](https://cakephp.org/) - 一个快速的应用程序开发框架.
 * [Laminas](https://getlaminas.org/) - 由单个组件组成的框架（以前的 Zend 框架）.
@@ -228,6 +228,7 @@
 * [Behat](https://docs.behat.org/en/latest/) - 行为驱动开发 (BDD) 测试框架.
 * [Codeception](https://github.com/Codeception/Codeception) - 全栈测试框架.
 * [Faker](https://github.com/fakerphp/faker) - 一个假数据生成器库.
+* [Foundry](https://github.com/zenstruck/foundry) - Doctrine 的夹具工厂生成库.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - 在单元测试中模拟 HTTP 请求的库.
 * [Infection](https://github.com/infection/infection) - 基于 AST 的 PHP 突变测试框架.
 * [Kahlan](https://github.com/kahlan/kahlan) - 具有内置存根、模拟和代码覆盖支持的全栈单元/BDD 测试框架.
@@ -294,7 +295,7 @@
 * [Password Policy](https://github.com/ircmaxell/password-policy) - PHP 和 JavaScript 的密码策略库.
 * [Password Validator](https://github.com/jeremykendall/password-validator) - 用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) - 生成随机密码的 PHP 库.
-* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - 用于生成和验证密码的库.
 * [phpass](https://www.openwall.com/phpass/) - 一个可移植的密码散列框架.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 基于 Zxcvbn JS 的真实 PHP 密码强度估计库.
 
@@ -710,7 +711,7 @@
 * [Twilio](https://github.com/twilio/twilio-php) - 官方 Twilio PHP REST API.
 
 ### Extensions
-*帮助构建 PHP 扩展的库.*
+*Libraries to help build PHP extensions.*
 
 * [PHP CPP](https://www.php-cpp.com/) - 用于开发 PHP 扩展的 C++ 库.
 * [Zephir](https://github.com/zephir-lang/zephir ) - PHP 和 C++ 之间的编译语言，用于开发 PHP 扩展.
@@ -737,7 +738,7 @@
 * [HomeBrew](https://brew.sh/) - OSX 的包管理器.
 * [Laravel Valet](https://laravel.com/docs/master/valet) - macOS 的开发环境.
 * [PHP Brew](https://github.com/phpbrew/phpbrew) - PHP 版本管理器和安装程序.
-* [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
+* [PHP Build](https://github.com/php-build/php-build) - 另一个 PHP 版本安装程序.
 * [PHP OSX](https://php-osx.liip.ch/) - OSX 的 PHP 安装程序.
 
 ### Development Environment

@@ -30,6 +30,7 @@
 - [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接传递到您的源代码.
 - [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
 - [Tolgee](https://tolgee.io) - 开源、开发人员和翻译人员友好的平台，使用户能够直接在他们开发的应用程序中进行翻译.
+- [Lokalise](https://lokalise.com/) - 开发人员的翻译平台.
 
 ## Apps
 
@@ -102,7 +103,7 @@
 
 ## Books
 
-- [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information)  - 建立 NLP 和统计学背景，然后将基础知识发展到当前研究. 最终读者可以建立自己的翻译系统. 作者是 [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
+- [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information)  - 建立 NLP 和统计学的背景，然后将基础知识发展到当前的研究. 最终读者可以建立自己的翻译系统. 作者是 [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 - [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information)  - 机器翻译介绍从神经网络方法的基础开始，达到最先进的水平，同时提供历史、语言和应用背景.  Python 中的代码示例为实现提供了动手蓝图. 作者仍然是Philipp Koehn.
 - [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8)  - 从各种语言和文化角度介绍翻译的理论和实践. 作者是 [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) 和 [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 

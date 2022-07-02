@@ -6,7 +6,7 @@
 
 灵感来自 GitHub 上的 `awesome-*` 趋势.
 
-The goal is to build a categorized community-driven collection of very well-known resources.
+目标是建立一个分类的社区驱动的非常知名的资源集合.
 
 随时欢迎分享、建议和贡献！ 请看一下 [contribution guidelines](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) 第一的.
 
@@ -42,7 +42,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 每周最好的 TypeScript 链接，就在你的盒子里.
 - [JSter](http://jster.net/blog) . 没有每两周一次的精选 JavaScript 链接到您的邮箱的废话列表. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
-- [Best of JavaScript](https://weekly.bestofjs.org/). Weekly rankings about the most popular open-source projects related to Node.js and the web platform.
+- [Best of JavaScript](https://weekly.bestofjs.org/) . 与 Node.js 和 Web 平台相关的最受欢迎的开源项目的每周排名.
 - [JavaScript Kicks](https://javascriptkicks.com/) .  JavaScript 开发人员社区每周发送的最受好评的文章的精选列表.
 - [Bytes](https://bytes.dev/) . 成为更聪明的 JavaScript 开发人员. 随时了解 JavaScript 生态系统从未如此有趣. 每周一发货，免费.
 - [Deno Weekly](https://denoweekly.com/) . 来自 Deno 的新闻、教程和项目的每周综述，这是最新的 JavaScript 运行时.
@@ -59,7 +59,7 @@ The goal is to build a categorized community-driven collection of very well-know
 
 #### EmberJS
 
-- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) .  Ember.js 学习团队的更新.
+- [The Ember Times](https://embertimes.substack.com/) .  Ember.js 学习团队的更新.
 - [Ember Weekly](https://www.emberweekly.com/) . 最新的 Ember.js 新闻、提示和代码直接发送到您的收件箱.
 
 #### VueJS
@@ -104,7 +104,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI Animation Newsletter 让您了解最新的最佳 Web 动画、动作设计和 UX 资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与网络动画和动作设计的精彩世界有关的好东西！
 - [Design Systems News](http://news.design.systems/) . 有关设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
-- [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
+- [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和优秀的设计相关内容来自最佳子版块.
 - [Figmalion](https://figmalion.com) . 双周策划的时事通讯关于 [Figma](https://www.figma.com/).
 
@@ -273,7 +273,6 @@ The goal is to build a categorized community-driven collection of very well-know
 
 ### Vim
 
-- [Vim Weekly](http://www.vimweekly.com/) . 每个星期一，我们都会发送 5 个提示，这些提示可以帮助您提高 vim 生产力，您可以将其视为每天一个提示！
 - [Mastering Vim Quickly](https://masteringvim.com/) . 最好的 Vim 东西，每周一次.
 
 ### VSCode
@@ -313,7 +312,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Cron.Weekly](https://www.cronweekly.com) . 每周日发送给您的每周时事通讯，其中包含为 Linux 系统管理员量身定制的新闻和工具. [Archige](https://www.cronweekly.com/archives/).
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) . 精选的 SysAdmin 工具、软件和资源的精选列表.
 - [Monitoring Weekly](https://monitoring.love/) .  Monitoring Weekly 将最新的监控新闻、文章和工具直接发送到您的收件箱.
-- [SRE Weekly](http://sreweekly.com/) .  SRE Weekly 是一份时事通讯，专门讨论与尽可能一致地保持网站或服务可用相关的所有内容.
+- [SRE Weekly](http://sreweekly.com/) .  SRE Weekly 是一份时事通讯，专门介绍与保持网站或服务尽可能一致可用相关的所有内容.
 - [StatusCode Weekly](https://weekly.statuscode.com/) . 关于 Web 操作、基础设施、性能和工具的每周通讯，从浏览器到硬件.
 
 ### Cloud Development
@@ -321,7 +320,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Your weekly Azure news fix](https://azureweekly.info/) .  Azure Weekly 是 Microsoft Azure 生态系统本周头条新闻的摘要，以及值得一读的有趣历史内容.
 - [Serverless Status](https://serverless.email/) . 关于无服务器架构和范例、功能即服务、AWS Lambda 等的每周通讯.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) . 本 Google Cloud Weekly 是本周与 Google Cloud 生态系统相关的头条新闻、教程、视频、播客的摘要，非常值得一读.
-- [Last Week in AWS](https://www.lastweekinaws.com/) . 来自亚马逊云生态系统的每周新闻综述.
+- [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
 
 ### Kubernetes
 
@@ -347,7 +346,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Data Eng Weekly](https://dataengweekly.com) . 您的每周数据工程新闻（原 Hadoop Weekly）. [Archive](https://dataengweekly.com/archive.html).
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周通讯. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
-- [The Wild Week in AI](https://www.getrevue.co/profile/wildml) . 每周 AI 和深度学习通讯. [Archive](https://www.getrevue.co/profile/wildml#archive).
+- [The Wild Week in AI](https://www.getrevue.co/profile/wildml) . 每周一次的 AI 和深度学习通讯. [Archive](https://www.getrevue.co/profile/wildml#archive).
 - [Machine Learnings](http://subscribe.machinelearnings.co/) . 每周一次的机器学习和人工智能新闻综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和失误. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
@@ -355,7 +354,7 @@ The goal is to build a categorized community-driven collection of very well-know
 
 ## Blockchain / Cryptocurrencies
 
-- [Inside Bitcoin](https://inside.com/bitcoin) . 跟踪比特币和加密货币的趋势、新闻和分析.
+- [Inside Cryptocurrency](https://inside.com/cryptocurrency) . 跟踪比特币和加密货币的趋势、新闻和分析.
 - [Crypto Weekly](https://cryptoweekly.co/) . 每周都会将最好的加密货币新闻和见解发送到您的收件箱.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 没有牛市的区块链技术——每周一剂区块链现实，对技术有很大的偏见.
 
@@ -388,7 +387,6 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Capital minded](https://capitalminded.com) . 关于导航指数基金时代、了解经济和破解资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选的创业世界中的佼佼者.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，其中包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
-- [InspectCompany Weekly](https://inspectcompany.com/newsletter) . 每周不到 5 分钟的公司新闻和分析.
 
 ## Awesome news
 
@@ -401,7 +399,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
@@ -430,7 +428,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) . 每周一次的 Linux 内核邮件列表线程综述，但带有更多的讽刺意味.
-- [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中挑选了一个订阅者，其电子邮件提交将发送给所有其他订阅者. 主题在主题和质量上各不相同.
+- [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中一个订阅者被选中，其电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术迷的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最好的 Reddit 帖子的有关创业、增长、投资和创业的前沿新闻.
