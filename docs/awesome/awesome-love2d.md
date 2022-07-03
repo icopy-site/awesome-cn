@@ -48,6 +48,7 @@
 *视口和相机库*
 
 * [Brady](https://github.com/davisdude/Brady) - 具有视差滚动的相机库.
+* [cam11](https://notabug.org/pgimeno/cam11) - 利用 love2d 11.0+ 中引入的 Transform 对象的相机库.
 * [Editgrid](https://github.com/bakpakin/Editgrid) - Gamera 和 HUMP 兼容的缩放网格.
 * [gamera](https://github.com/kikito/gamera) - 摄像系统.
 * [hump.camera](https://hump.readthedocs.io/en/latest/camera.html) - 具有窗口锁定和平滑相机移动插值的相机库.
@@ -78,7 +79,7 @@
 * [Push](https://github.com/Ulydev/push) - LÖVE 的简单分辨率处理库.
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染.
 * [svglover](https://github.com/globalcitizen/svglover) - 在 LÖVE 中导入和显示简单 SVG 的库.
-* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
+* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - 用于图形、位置、屏幕捕获和着色器的像素艺术缩放器.
 * [Sölar](https://github.com/JanWerder/soelar) - 一个相当简单的太阳系模拟器.
 * [Tove2d](https://github.com/poke1024/tove2d) - LÖVE 的动画矢量图形.
 * [turtle.lua](https://github.com/arthurealike/turtle.lua) - LÖVE 的海龟图形库.
@@ -97,7 +98,7 @@
 ## Helpers
 *提供可重用功能的游戏特定库包*
 
-* [astray](https://github.com/SiENcE/astray) - Astray 是一个基于 lua 的迷宫、房间和地牢生成库，用于地牢爬行者和 Roguelike 视频游戏.
+* [astray](https://github.com/SiENcE/astray) - Astray 是一个基于 lua 的迷宫、房间和地牢生成库，用于地牢爬行者和 roguelike 视频游戏.
 * [batteries](https://github.com/1bardesign/batteries/) - 填充lua的稀疏标准库，提供对游戏有用的常用算法和数据结构的实现.
 * [cartographer](https://github.com/tesselode/cartographer) - 小型平铺地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) - 一个帮助库，可让您快速加载大量资产.
@@ -186,7 +187,7 @@
 
 * [AppleCake](https://github.com/EngineerSmith/AppleCake) - LÖVE 的分析库，具有详细的分析和线程支持.
 * [jprof](https://github.com/pfirsich/jprof) - LÖVE 的分析库/工具.
-* [Piefiller](https://github.com/Polynominal/Piefiller) - Graphical profiler for LÖVE.
+* [Piefiller](https://github.com/Polynominal/Piefiller) - LÖVE 的图形分析器.
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) - 一个简单的 lua 分析器，它与 LuaJIT 一起使用，并在列中打印一个漂亮的报告文件.
 
 ## Physics
@@ -240,7 +241,7 @@
 ## Testing
 *用于单元测试的库和工具*
 
-* [busted](https://github.com/Olivine-Labs/busted) - 带有可定制断言的简单单元测试框架.
+* [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - 无夹具的测试框架.
 * [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的、可定制的测试扩展 `assert()`.
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit 风格的随机单元测试框架.
@@ -271,9 +272,9 @@
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - LÖVE 游戏的轻量级即时模式 GUI.
 * [Lynx](https://gitlab.com/TSnake41/lynx) - 非常轻量级的基于列表的 UI 库.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - 灵活的布局库.
-* [Patchy](https://github.com/excessive/patchy) - 9patch 库.
+* [Patchy](https://github.com/excessive/patchy) - 9patch library.
 * [Slicy](https://github.com/wqferr/slicy) - 更新的 9patch/9slice 库修复了 Patchy 的一些问题.
-* [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
+* [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 在 LÖVE 游戏引擎上运行的用 Lua 编写的高度可配置的文本编辑器/编码工具.
 * [SafeWord](https://github.com/josefnpat/safeword) - LÖVE 的过扫描检测库.
 * [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
@@ -291,7 +292,7 @@
 * [GifCat](https://github.com/WetDesertRock/GifCat) - 一个用于从 LÖVE 保存 gif 的简单模块.
 * [hex2color](https://github.com/S-Walrus/hex2color/) - 使用 HEX 颜色值的单个函数.
 * [i18n](https://github.com/excessive/i18n) - 旨在帮助本地化您的游戏的国际化库.
-* [Ini Parser](https://github.com/FivosM/ini_parser) - 通用 ini 配置解析器.
+* [Ini Parser](https://github.com/FivosM/ini_parser) - 这个通用配置解析器.
 * [log.lua](https://github.com/rxi/log.lua) - 用于可配置日志输出的库.
 * [love-loader](https://github.com/kikito/love-loader) - 线程资源加载.
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) - 资产加载器.
@@ -332,7 +333,7 @@
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开 Atom 即可为当前项目启动 LÖVE.
 	* [Löve IDE](https://atom.io/packages/love-ide) - 这个包自动安装了几个用于在 Atom 中编写 Love2D 游戏的实用程序.
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE 的自动完成和片段.
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - LÖVE 的 Hyperclick 提供程序，显示 wiki.
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Atom 中的 Lua 语法错误检查.
 * [Brackets](http://brackets.io/) - Adob​​e 的现代开源文本编辑器（已过时）.
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - 在括号中添加 Lua 语法高亮.
