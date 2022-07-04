@@ -35,12 +35,12 @@
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - 用于扫描未使用的作曲家包的 CLI 工具.
 * [Prestissimo](https://github.com/hirak/prestissimo) - 一个支持并行安装过程的作曲家插件.
 * [Repman](https://repman.io) - 一个私有的 PHP 包存储库管理器和 Packagist 代理.
-* [Satis](https://github.com/composer/satis) - 静态 Composer 存储库生成器.
+* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
 * [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 使用 Composer 在项目中管理 PHAR 文件的库.
 * [Toran Proxy](https://toranproxy.com) - 静态 Composer 存储库和代理.
 
 ### Frameworks
-*Web development frameworks.*
+*Web 开发框架.*
 
 * [CakePHP](https://cakephp.org/) - 一个快速的应用程序开发框架.
 * [Laminas](https://getlaminas.org/) - 由单个组件组成的框架（以前的 Zend 框架）.
@@ -91,7 +91,7 @@
 * [Lumen](https://lumen.laravel.com/) - Laravel 的微框架.
 * [Mezzio](https://getexpressive.org/) - Laminas 的微框架.
 * [Radar](https://github.com/radarphp/Radar.Adr) - PHP 的 Action-Domain-Responder 实现.
-* [Silly](https://github.com/mnapoli/silly) - CLI 应用程序的微框架.
+* [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - 另一个简单的微框架.
 
 ### Micro Framework Extras
@@ -164,7 +164,7 @@
 
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 域后缀解析器库.
 * [Purl](https://github.com/jwage/purl) - URL 操作库.
-* [sabre/uri](https://github.com/sabre-io/uri) - 一个功能性 URI 操作库.
+* [sabre/uri](https://github.com/sabre-io/uri) - 一个功能性的 URI 操作库.
 * [Uri](https://github.com/thephpleague/uri) - 另一个 URL 操作库.
 
 ### Email
@@ -288,7 +288,7 @@
 * [Zap](https://owasp.org/www-project-zap/) - 用于 Web 应用程序的集成渗透测试工具.
 
 ### Passwords
-*Libraries and tools for working with and storing passwords.*
+*用于处理和存储密码的库和工具.*
 
 * [GenPhrase](https://github.com/timoh6/GenPhrase) - 用于生成安全随机密码短语的库.
 * [Password Compat](https://github.com/ircmaxell/password_compat) - 新的 PHP 5.5 密码函数的兼容性库.
@@ -371,7 +371,7 @@
 * [Whoops](https://github.com/filp/whoops) - 一个漂亮的错误处理库.
 * [xDebug](https://github.com/xdebug/xdebug) - PHP 的调试和分析工具.
 * [XHProf](https://github.com/phacility/xhprof) - 最初由 Facebook 开发的分析工具.
-* [Z-Ray](https://www.zend.com/products/z-ray) - Zend Server 的调试和分析工具.
+* [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
 ### Build Tools
 *项目构建和自动化工具.*
@@ -409,7 +409,7 @@
 * [Country List](https://github.com/umpirsky/country-list) - 带有名称和 ISO 3166-1 代码的所有国家/地区的列表.
 * [GeoCoder](https://geocoder-php.org/) - 地理编码库.
 * [GeoJSON](https://github.com/jmikola/geojson) - GeoJSON 实现.
-* [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
+* [GeoTools](https://github.com/thephpleague/geotools) - 地理相关工具库.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理图书馆.
 
 ### Date and Time
@@ -450,7 +450,7 @@
 * [Brick\Money](https://github.com/brick/money) - PHP 的货币库，支持上下文、现金四舍五入、货币转换.
 * [OmniPay](https://github.com/thephpleague/omnipay) - 与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) - 支付抽象库.
-* [Shopware](https://github.com/shopware/shopware) - 高度可定制的电子商务软件
+* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - 汇率库.
 * [Sylius](https://sylius.com/) - 一个开源电子商务解决方案.
 
@@ -478,7 +478,7 @@
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - MySQL、PostgreSQL、SQLite 和 Microsoft SQL Server 的独立查询构建器.
 * [Baum](https://github.com/etrepat/baum) - Eloquent 的嵌套集合实现.
 * [CakePHP ORM](https://github.com/cakephp/orm) - 对象关系映射器，使用 DataMapper 模式实现.
-* [Cycle ORM](https://github.com/cycle/orm) - PHP 数据映射器，ORM.
+* [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 * [Doctrine Extensions](https://github.com/doctrine-extensions/DoctrineExtensions ) - Doctrine 行为扩展的集合.
 * [Doctrine](https://www.doctrine-project.org/) - 全面的 DBAL 和 ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) - 一个简单的 ORM.
@@ -711,7 +711,7 @@
 * [Twilio](https://github.com/twilio/twilio-php) - 官方 Twilio PHP REST API.
 
 ### Extensions
-*Libraries to help build PHP extensions.*
+*帮助构建 PHP 扩展的库.*
 
 * [PHP CPP](https://www.php-cpp.com/) - 用于开发 PHP 扩展的 C++ 库.
 * [Zephir](https://github.com/zephir-lang/zephir ) - PHP 和 C++ 之间的编译语言，用于开发 PHP 扩展.
@@ -816,7 +816,7 @@
 ### PHP Books
 *很棒的 PHP 相关书籍.*
 
-* [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
+* [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - 用 PHP 编写的真实示例，展示 DDD 架构风格.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - 本书将向您展示如何通过理解函数式编程原理来利用这些新的 PHP5.3+ 特性
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - Chris Hartjes 撰写的关于使用 PHPUnit 进行单元测试的书.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - Brandon Savage 的一本关于面向对象的 PHP 的书.
@@ -856,7 +856,7 @@
 * [PHP Weekly](https://www.phpweekly.com/) - 关于 PHP 的每周通讯.
 
 ### PHP Reading
-*PHP 相关阅读材料.*
+*PHP相关阅读材料.*
 
 * [php[architect]](https://www.phparch.com/magazine/) - 专门介绍 PHP 的月刊.
 

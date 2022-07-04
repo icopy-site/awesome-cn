@@ -29,8 +29,9 @@
 - [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) （2018 年 11 月）
 - [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) （2019 年 6 月）
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （2020 年 11 月）
-- [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) （2021 年 1 月）
+- [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico) （2021 年 1 月）
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) （2021 年 10 月）
+- [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico-w) （2022 年 6 月）
 
 ## OS Images
 
@@ -65,7 +66,7 @@
 - [OctoPi](https://octopi.octoprint.org/) - 3d 打印机的分发.
 - [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - OpenHAB 家庭自动化软件的预配置版本. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络附加存储 (NAS) 解决方案，包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，具有基于其稳定版 Leap 和滚动版 Tumbleweed 的映像. 可以找到许多 Pis 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4).
+- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，具有基于其稳定版 Leap 和滚动版 Tumbleweed 的映像. 可以找到许多 Pi 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4).
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
 - [OSMC](https://osmc.tv/) - 基于 Kodi 的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型 DVS 系统允许您使用时间码乙烯基控制数字音乐文件.
@@ -118,7 +119,7 @@
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - 一种将 Raspberry Pi OS 和其他操作系统安装到 SD 卡的简单方法，可与您的 Raspberry Pi 一起使用
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  - 在 Raspbian 上启动 QEMU 的简单工具，并对系统和内核进行必要的修改. 自动网络访问. 方便在您的 PC 中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 简单的应用程序/repo 将 Raspberry Pi 的 wlan0 接口桥接到通过以太网 (eth0) 插入其中的设备.
-- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都启动完全配置并准备好工作. 或者玩.
+- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都会启动完全配置并准备好工作. 或者玩.
 - [stressberry](https://github.com/nschloe/stressberry) - 对您的 Raspberry Pi 进行压力测试并绘制温度图.
 - [TorTiPi](https://github.com/r0hi7/tortipi) - 用于自动将 Raspberry Pi 转换为基于 Tor 的 wifi 热点的任务的 Shell 脚本.
 - [WebStation SYSMON](https://github.com/t0xic0der/sysmon) - 一个直观的可远程访问的系统性能监控和任务管理工具，适用于服务器和无头 Raspberry Pi 设置.
@@ -244,8 +245,8 @@
 - [Essentials - Learn to Code with C](https://magpi.raspberrypi.com/books/essentials-c-v1) - 了解如何在您的 Raspberry Pi 上使用构建 Linux 的大部分语言和 C 编程语言 Raspbian 进行编码.
 - [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - 使用 Scratch 编码块语言来学习在您的 Raspberry Pi 上编程的基础知识.
 - [Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1) - 通过使用 Python 制作游戏，从简单的基于文本的游戏到带有声音和动画的成熟游戏，使用 Raspberry Pi 创建您自己的娱乐.
-- [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - 了解如何使用 API、GPIO 引脚、您的程序等与特殊的 Raspberry Pi 版本的 minecraft 进行交互.
-- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - 一本有用的实验书，可与 Sense HAT 一起使用，以及如何充分利用它.
+- [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - 了解如何使用 API、GPIO 引脚、您的程序等与特殊的 Raspberry Pi 版本的我的世界进行交互.
+- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - 一本有用的实验书，可与 Sense HAT 一起使用，以及如何充分发挥它的潜力.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - 关于 Java 本身以及如何在 Raspberry Pi 上安装和使用它的大量信息和历史以及大量示例项目.
 - [Getting Started with Raspberry Pi](https://magpi.raspberrypi.com/books/get-started) - 了解如何开始使用您的 **Raspberry Pi 3A+**. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Raspberry Pi Annual 2018](https://magpi.raspberrypi.com/books/annual-2018) - 一本面向所有年龄段儿童的教育书籍，用于介绍 Raspberry Pi.

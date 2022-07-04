@@ -131,7 +131,7 @@
 
 ## Infrastructure as Code
 *声明您的基础设施并从中可重复地提供云基础设施.*
-* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL，开源和免费（付费解决方案增加了团队管理、策略即代码......）.
 * [Pulumi](https://www.pulumi.com/) - 使用 Python、TypeScript、Go 和更多语言的开发人员优先 IaC...
 
 ## Integrations
@@ -212,7 +212,7 @@
 * [PDFBlade](https://pdfblade.com/) - 基于 HTML 到 PDF API 使用的定价.
 * [Carbone](https://carbone.io/) - JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 * [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
-* [DocRaptor[(https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF 库.
+* [DocRaptor](https://docraptor.com) - 使用专为分页媒体构建的 HTML 到 PDF API [Prince](https://www.princexml.com/) PDF 库.
 
 ## Scraping
 *不通过预期的 API 从网站获取数据.*

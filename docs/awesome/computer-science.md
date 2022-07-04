@@ -95,7 +95,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 如果您从未编写过 for 循环，或者不知道编程中的字符串是什么，请从这里开始. 本课程是自定进度的，允许您调整每周花费的小时数以满足您的需求.
 
 **涵盖的主题**：
-`简单的程序`
+`simple programs`
 `简单的数据结构`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
@@ -110,7 +110,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 `computation`
 `命令式编程`
 `基本数据结构和算法`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -133,7 +133,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 `ML 系列语言（通过标准 ML）`
 `Lisp 系列语言（通过 Racket）`
 `Ruby`
-`等等`
+`and more`
 
 How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.org/2003-09-26/) . 第一版可在线免费获得，包括问题集和解决方案. 鼓励学生完成这些作业.
 
@@ -141,7 +141,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)  |  7 周 |  8-10 小时/周 | 没有 | [chat](https://discord.gg/RfqAmGJ)
 [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)  |  6 周 |  8-10 小时/周 | 如何编码：简单数据 | [chat](https://discord.gg/kczJzpm)
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码 ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码（[Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3 周 |  4-8 小时/周 | 编程语言，A 部分 | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3 周 |  4-8 小时/周 | 编程语言，B 部分 | [chat](https://discord.gg/8EZUVbA)
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)  |  4 周 |  4 小时/周 | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)
@@ -152,12 +152,12 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 离散数学（Math for CS）是先决条件，与算法和数据结构的研究密切相关. 微积分既为学生准备离散数学，又帮助学生发展数学成熟度.
 
 **涵盖的主题**：
-`discrete mathematics`
+`离散数学`
 `数学证明`
 `基本统计`
 `O-notation`
 `离散概率`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 笔记 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -175,7 +175,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `vim`
 `命令行环境`
 `版本控制`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -197,13 +197,13 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `compilers`
 `操作系统`
 `网络协议`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 附加文本/作业| 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/) ) |  6 周 |  7-13 小时/周 |  - | 类C编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6 周 |  12-18 小时/周 |  - | 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从 Nand 到俄罗斯方块第一部分 [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12 周 |  6-10 小时/周 |  - | 算法， [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) 有用| [chat](https://discord.gg/wZNgpep)
+[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/OSTEP.md)  |  10-12 周 |  6-10 小时/周 |  - | 强大的C编程| [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  8 周 |  4–12 小时/周 | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)  | 代数、概率、基础 CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
@@ -219,7 +219,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `最小生成树`
 `动态规划`
 `NP-completeness`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -236,11 +236,11 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `威胁和攻击`
 `网络安全`
 `Cryptography`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
-[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)  |  5 周 |  3 小时/周 |  - | [chat](https://discord.gg/8h6Rz8g)
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)  |  8 周 |  10-12 小时/周 |  - | [chat](https://discord.gg/XdY3AwTFK4)
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) |  4 周 |  4 小时/周 |  - | [chat](https://discord.gg/5gMdeSK)
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)  |  4 周 |  4 小时/周 |  - | [chat](https://discord.gg/V78MjUS)
 
@@ -266,7 +266,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `无监督学习`
 `OpenGL`
 `光线追踪`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -285,7 +285,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `职业道德`
 `知识产权`
 `隐私和公民自由`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -304,11 +304,11 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 **涵盖的主题**：
 `调试理论与实践`
 `面向目标的编程`
-`并行计算`
+`parallel computing`
 `面向对象的分析与设计`
 `UML`
 `大型软件架构和设计`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
@@ -337,11 +337,11 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `虚拟内存`
 `同步原语`
 `系统调用接口`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件 | 笔记
 :-- | :--: | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)  | 备用链接包含所有 3 门课程.
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alt1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alt2 ](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)  |  10 周 |  6 小时/周 | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)  | 备用链接包含所有 3 门课程.
 [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)  |  10 周 |  6 小时/周 | 计算结构 1 |
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)  |  10 周 |  6 小时/周 | 计算结构 2 |
 
@@ -361,7 +361,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `关系逻辑`
 `赫布兰德逻辑`
 `游戏树`
-`等等`
+`and more`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
@@ -421,7 +421,7 @@ or
 并获得倾听反馈的经验——无论是正面的还是负面的.
 
 最终项目评估有第二个目的：评估 OSSU、
-通过其社区和课程，成功地完成了指导独立学习者获得世界级计算机科学教育的使命.
+通过其社区和课程，成功地完成了指导独立学习者获得世界一流的计算机科学教育的使命.
 
 ### Cooperative work
 
@@ -446,7 +446,7 @@ or
 - 查看 [readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md) 对于您可以阅读的经典书籍，这些书籍将提高您的技能并扩展您的知识.
 - 加入本地开发者聚会（例如通过 [meetup.com](https://www.meetup.com/)).
 - 关注软件开发领域的新兴技术：
-  + 探索**演员模型**通过 [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
+  + 探索**演员模型**通过 [Elixir](https://elixir-lang.org/)，一种基于久经考验的 Erlang 虚拟机的新型网络函数式编程语言！
   + 探索 **借款和生命周期** 通过 [Rust](https://www.rust-lang.org/)，一种无需垃圾收集器即可实现内存和线程安全的系统语言！
   + 探索**依赖类型系统**通过 [Idris](https://www.idris-lang.org/)，一种受 Haskell 启发的新语言，对类型驱动开发提供前所未有的支持.
 
@@ -458,7 +458,7 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.

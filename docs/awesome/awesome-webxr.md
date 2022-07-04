@@ -9,6 +9,7 @@
 [WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) 包含一组标准，允许浏览器访问虚拟和增强现实设备，使开发人员能够创建沉浸式内容，无需安装或店面管理即可轻松在线访问.
 
 
+
 ## Standout Projects
 
 *令人印象深刻且引人注目的 WebXR 项目.*
@@ -37,8 +38,8 @@
 - [beats](https://beats.gatunes.com/) - 一个半协作的应用程序，带有不同的房间，任何人都可以在其中创建或修改现有的音乐循环.
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听方的录音部分仍然可以查看.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家的云.
-- [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
-- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验进行线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
+- [Helicon](https://www.helicon.live/) - 多节奏的沉浸式介绍.
+- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
@@ -99,7 +100,7 @@
 
 
 - [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
-- [Construct Arcade](https://constructarcade.com/) - 一个精心策划的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
+- [Construct Arcade](https://constructarcade.com/) - 一个精选的 WebXR 游戏中心，包含来自外部开发人员和 Vhite Rabbit 内部开发人员的游戏.
 - [Extended Collection](https://extendedcollection.com/) - WebXR 内容的另一个策展中心，由 [Joseph Simpson](https://github.com/vrhermit/).
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
 - [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.
@@ -194,7 +195,7 @@
 
 ### Realms
 
-- [Cryptovoxels](https://www.cryptovoxels.com/) - 一个由以太坊驱动的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等等.
+- [Cryptovoxels](https://www.cryptovoxels.com/) - 一个由以太坊驱动的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - 一个网络查看器，可让您从 [Somnium Space](https://www.somniumspace.com/) 在您的浏览器中，Oculus Quest 浏览器支持 VR.
 - [vrland](https://vrland.io/) - 一个支持展示 NFT 的聚会和虚拟展示平台.
 - [Webaverse](https://webaverse.com/)  - 由以太坊提供支持的开源虚拟世界，支持自定义头像. 专注于数字所有权、开放经济和互操作性.
