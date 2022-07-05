@@ -145,6 +145,7 @@
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html)
 * [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
+* [Observability Engineering: Achieving Production Excellence](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
 * [The Practice Of Cloud System Administration: Designing and Operating Large Distributed Systems](http://the-cloud-book.com/)
 * [Web Operations - Keeping the Data On Time](http://shop.oreilly.com/product/0636920000136.do)
 * [The Checklist Manifesto: How to Get Things Right](http://atulgawande.com/book/the-checklist-manifesto/)
@@ -511,7 +512,7 @@
 * [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自 SRE 的相关帖子 [dev.to](https://dev.to).
 * [Twitter SRE](https://twitter.com/TwitterSRE) - Twitter SRE 团队的官方 Twitter 帐户.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - SRE Weekly Newsletter 官方推特账号.
-* [USENIX Association](https://twitter.com/usenix) - USENIX 官方推特账号.
+* [USENIX Association](https://twitter.com/usenix) - 官方 USENIX Twitter 帐户.
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - 现场可靠性和生产工程工具的精选列表
