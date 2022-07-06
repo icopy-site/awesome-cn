@@ -45,7 +45,7 @@ Neovim 支持多种 UI.
 
 ### Plugin Manager
 
-- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)  - Neovim 的使用包启发插件管理器. 使用原生包，支持 Luarock 依赖，用 Lua 编写，允许表达性配置.
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 用 Lua 编写的 Neovim 包管理器.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim)  - 用 Lua 编写的 Neovim 配置切换器. 受到化学物质的启发.
 
@@ -181,7 +181,7 @@ Neovim 支持多种 UI.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim 是一个高度 [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) 列表上的模糊查找器. 建立在 Neovim 核心的最新强大功能之上.  Telescope 以模块化为中心，允许轻松定制.
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf)  - 在 `Neovim` (&gt;= 0.5) 中使用 fzf 的 Lua API. 允许 UI 速度和可用性的完全异步.
 - [camspiers/snap](https://github.com/camspiers/snap)  - 一个可扩展的模糊查找器. 类似于 Telescope，并针对性能进行了优化，尤其是在大型代码库中进行 grepping 时.
-- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)  - `fzf.vim` 的 Lua 版本，高性能和完全异步，支持 `nvim-web-devicons`、git 指标、LSP、快速修复/位置列表等. 还支持 [`skim`](https://github.com/lotabout/skim) 作为其 fzf 二进制文件.
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua)  - `fzf.vim` 的 Lua 版本，高性能和完全异步，支持 `nvim-web-devicons`、git 指标、LSP、快速修复/位置列表等. 还支持 [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) - 望远镜集成 [zoxide](https://github.com/ajeetdsouza/zoxide)，一个智能目录选择器，可以跟踪您的使用情况.
 <!--lint ignore double-link-->
 - [echasnovski/mini.nvim#mini.fuzzy](https://github.com/echasnovski/mini.nvim#minifuzzy) - `mini.nvim` 模块，具有执行一个字符串与其他字符串的模糊匹配以及快速望远镜分类器的功能.
@@ -189,7 +189,7 @@ Neovim 支持多种 UI.
 ### Note Taking
 
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Neovim 0.5+ 的缩写提醒.
-- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent markdown notebook navigation & management (create links, follow links, create and manage to-do lists, reference bib files, and more).
+- [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - 流畅的 Markdown 笔记本导航和管理（创建链接、关注链接、创建和管理待办事项列表、参考书目文件等）.
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - 与望远镜.nvim 集成的神经元笔记插件.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - 在 Neovim 中记录您的科学笔记.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)  - 现代性与疯狂的可扩展性相遇. 在 Neovim 中组织您的生活的未来.
@@ -203,7 +203,7 @@ Neovim 支持多种 UI.
 
 ### Color
 
-- [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - A high-performance color highlighter for Neovim which has no external dependencies!.
+- [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - Neovim 的高性能彩色荧光笔，没有外部依赖！.
 - [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - Shade 是一个 Neovim 插件，它可以让你的非活动窗口变暗，让你更容易一目了然地看到活动窗口.
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - 一个非常轻量级的插件（~ 120loc），突出显示您在命令行中输入的范围.
 - [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent) - 让您的 Neovim 透明.
@@ -403,7 +403,7 @@ Neovim 支持多种 UI.
 
 ### Statusline
 
-- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim)  - Galaxyline 通过为每个文本区域提供一个提供程序来组件化 Vim 的状态行. 这意味着您可以使用galaxyline 提供的api 轻松创建您想要的状态线.
+- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim)  - Galaxyline 通过为每个文本区域提供一个提供程序来组件化 Vim 的状态行. 这意味着您可以使用galaxyline 提供的api 轻松创建您想要的状态行.
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - 支持协程、函数和作业.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - 快速且易于配置的 Neovim 状态栏.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - 使用 Lua 的 Neovim 的轻量级状态栏/表格插件.
@@ -446,7 +446,7 @@ Neovim 支持多种 UI.
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 缩进插件.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Lua 中的 IndentLine 替换，具有更多功能和 treesitter 支持.
 <!--lint ignore double-link-->
-- [echasnovski/mini.nvim#mini.indentscope](https://github.com/echasnovski/mini.nvim#miniindentscope)  - `mini.nvim` 的模块，用于可视化和操作缩进范围. 支持自定义去抖动延迟、动画风格以及范围计算算法的不同粒度选项.
+- [echasnovski/mini.nvim#mini.indentscope](https://github.com/echasnovski/mini.nvim#miniindentscope)  - `mini.nvim` 的模块，用于可视化和操作缩进范围. 支持自定义去抖动延迟、动画风格，以及范围计算算法的不同粒度选项.
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Neovim 的自动缩进样式检测.
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - 用 Lua 编写的 Neovim 自动快速缩进检测.
 
@@ -470,6 +470,7 @@ Neovim 支持多种 UI.
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - Neovim 插件，可让您在 Neovim 中使用您最喜欢的终端文件管理器（和模糊查找器）.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neo-tree 是一个 Neovim 插件，可以以任何适合您的风格浏览文件系统和其他类似树的结构，包括侧边栏、浮动窗口、netrw 拆分样式或同时浏览所有这些.
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - Neovim 的文件管理器，可让您像编辑文本一样编辑文件系统.
+- [theblob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - 用 Lua 编写的简单且可配置的文件浏览器.
 
 ### Dependency management
 

@@ -95,7 +95,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 如果您从未编写过 for 循环，或者不知道编程中的字符串是什么，请从这里开始. 本课程是自定进度的，允许您调整每周花费的小时数以满足您的需求.
 
 **涵盖的主题**：
-`simple programs`
+`简单的程序`
 `简单的数据结构`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
@@ -104,13 +104,13 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方学习而被介绍到编程的学生应该参加这门课程，以获得材料的味道. 如果您完成课程想要更多，计算机科学可能适合您！
+本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方的学习了解编程的学生应该参加这门课程，以获得材料的味道. 如果您完成课程想要更多，计算机科学可能适合您！
 
 **涵盖的主题**：
 `computation`
 `命令式编程`
 `基本数据结构和算法`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -133,14 +133,14 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 `ML 系列语言（通过标准 ML）`
 `Lisp 系列语言（通过 Racket）`
 `Ruby`
-`and more`
+`等等`
 
 How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.org/2003-09-26/) . 第一版可在线免费获得，包括问题集和解决方案. 鼓励学生完成这些作业.
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)  |  7 周 |  8-10 小时/周 | 没有 | [chat](https://discord.gg/RfqAmGJ)
-[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)  |  6 周 |  8-10 小时/周 | 如何编码：简单数据 | [chat](https://discord.gg/kczJzpm)
+[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm)
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码（[Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3 周 |  4-8 小时/周 | 编程语言，A 部分 | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3 周 |  4-8 小时/周 | 编程语言，B 部分 | [chat](https://discord.gg/8EZUVbA)
@@ -152,12 +152,12 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 离散数学（Math for CS）是先决条件，与算法和数据结构的研究密切相关. 微积分既为学生准备离散数学，又帮助学生发展数学成熟度.
 
 **涵盖的主题**：
-`离散数学`
+`discrete mathematics`
 `数学证明`
 `基本统计`
 `O-notation`
 `离散概率`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 笔记 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -175,7 +175,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `vim`
 `命令行环境`
 `版本控制`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -197,7 +197,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `compilers`
 `操作系统`
 `网络协议`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 附加文本/作业| 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -213,13 +213,13 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `排序和搜索`
 `随机算法`
 `图形搜索`
-`最短路径`
+`shortest paths`
 `数据结构`
 `贪心算法`
 `最小生成树`
 `动态规划`
 `NP-completeness`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -236,7 +236,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `威胁和攻击`
 `网络安全`
 `Cryptography`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -266,7 +266,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `无监督学习`
 `OpenGL`
 `光线追踪`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -285,7 +285,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `职业道德`
 `知识产权`
 `隐私和公民自由`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
@@ -304,11 +304,11 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 **涵盖的主题**：
 `调试理论与实践`
 `面向目标的编程`
-`parallel computing`
+`并行计算`
 `面向对象的分析与设计`
 `UML`
 `大型软件架构和设计`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
@@ -337,7 +337,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `虚拟内存`
 `同步原语`
 `系统调用接口`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件 | 笔记
 :-- | :--: | :--: | :--: | :--:
@@ -361,13 +361,24 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 `关系逻辑`
 `赫布兰德逻辑`
 `游戏树`
-`and more`
+`等等`
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) ) |  8 周 |  10 小时/周 | 离散数学、逻辑、算法
 [Computational Geometry](https://www.edx.org/course/computational-geometry)  |  16 周 |  8 小时/周 | 算法，C++
 [Game Theory](https://www.coursera.org/learn/game-theory-1)  |  8 周 |  3 小时/周 | 数学思维、概率、微积分
+
+### Advanced Information Security
+
+课程 | 持续时间 | 努力 | 先决条件
+:-- | :--: | :--: | :--:
+[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)  |  5 周 |  4-6 小时/周 | 了解基本的网络技术
+[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)  |  3 周 |  3 小时/周 |  -
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts)  |  3 周 |  2-3 小时/周 | 核心安全
+[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)  |  7 周 |  1-2 小时/周 | 核心编程和核心安全
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)  |  7 周 |  1-2 小时/周 | 安全软件开发：需求、设计和重用
+[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)  |  7 周 |  1-2 小时/周 | 安全软件开发：实施
 
 ### Advanced math
 课程 | 持续时间 | 努力 | 先决条件 | 讨论

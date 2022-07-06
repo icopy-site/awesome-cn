@@ -66,7 +66,7 @@
 * [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - 为关键任务安全和性能而设计的分布式财务会计数据库.
 * [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) - Redis 的哈希函数不可知 Cuckoo 过滤器.
 * [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) - Redis 6+ 的零分配客户端.
-* [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) - SQLite bindings.
+* [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) - SQLite 绑定.
 * [vrischmann/zig-cassandra](https://github.com/vrischmann/zig-cassandra) - Cassandra 2.1+ 的客户端.
 * [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - SQLite 包装器.
 
@@ -74,7 +74,7 @@
 ## Editor plugins
 * [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) - 用于 Zig 编程语言的 IntelliJ IDEA 插件.
 * [isaachier/ztags](https://github.com/isaachier/ztags) - Zig 的 Ctags 实现.
-* [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) - 我自己的，更轻量级的 Zig 语法高亮.
+* [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) - My own, more lightweight, syntax highlighting for Zig.
 * [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - 对 Sublime Text 的 Zig 语言支持.
 * [ziglang/vscode-zig](https://github.com/ziglang/vscode-zig) - VSCode 的 Zig 语言支持.
 * [ziglang/zig-mode](https://github.com/ziglang/zig-mode) - Emacs 的 Zig 模式.
@@ -129,6 +129,7 @@
 
 
 ## Misc libraries
+* [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Lua C API 的绑定.
 * [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) - 林克.
 * [DutchGhost/maybeuninit](https://github.com/DutchGhost/maybeuninit) - 也许Uninit.
 * [emekoi/log.zig](https://github.com/emekoi/log.zig) - 一个线程安全的日志库.
@@ -157,6 +158,7 @@
 
 ## Web
 * [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) - 使用 Zig 为 WebAssembly 构建 Lua.
+* [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - WebSocket 实现.
 * [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) - HTML5 实体数据.
 * [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) - 使用 Zig 构建系统的最小 WebAssembly 示例.
 * [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM.
@@ -193,7 +195,8 @@
 * [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - 为 Perl 兼容的正则表达式绑定到 libpcre.
 * [kivikakk/koino](https://github.com/kivikakk/koino) - CommonMark/GitHub 风格的 Markdown 解析器和 HTML 渲染器.
 * [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML 解析器.
-* [prostomarkeloff/zigini](https://github.com/prostomarkeloff/zigini) - 用于解析 .INI 文件的简单、小型 (~220 loc) 库.
+* [sreehax/zig-ini](https://github.com/sreehax/zig-ini) - .这是一个解析器.
+* [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .这是一个解析器.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - 正则表达式实现.
 * [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - 港口 [ryu](https://github.com/ulfjack/ryu).
 * [Vexu/zuri](https://github.com/Vexu/zuri) - URI 解析器.
@@ -211,6 +214,8 @@
 
 
 ## Other
+* [All Your Codebase](https://allyourcodebase.com/) - Zig 及其生态系统的发展状况.
+* [fubark/cosmic](https://github.com/fubark/cosmic) - 用于 Javascript/WASM 的通用运行时.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito 用 Zig 重写.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - 用于组装 x86 的库.
 * [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - 国际劳工组织许可证密钥库.
