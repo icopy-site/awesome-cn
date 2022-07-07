@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-<a href="https://awesomealgo.com" target="_blank"> <img width="100%" src="https://raw.githubusercontent.com/aorumbayev/Awesome-Algorand/main/markdown/logo.png"> </a>
+<a href="https://awesomealgo.com" target="_blank"> <img width="100%" src="https://i.imgur.com/Z6kSoCr.png"> </a>
 </div>
 <br/>
 <div align="center">
@@ -66,7 +66,6 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### Tutorials
 
 - [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言构建借贷池的教程.
-- [Voting using Choice Coin](https://developer.algorand.org/tutorials/voting-using-choice-coin/) - 关于如何在 Algorand Python SDK 中使用 Choice Coin 投票机制的教程.
 - [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部事务的教程.
 - [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil 平台构建用于铸造资产的 Web 应用程序.
@@ -102,6 +101,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [pyteal-utils](https://github.com/algorand/pyteal-utils) - PyTEAL 实用程序库.
 - [tinyman-py-sdk](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 - [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
+- [beaker](https://github.com/algorand-devrel/beaker)  - 在 Algorand 区块链上开发智能合约的工具. 灵感来自“烧瓶”.
 
 ### JavaScript & TypeScript
 
@@ -220,7 +220,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## Name Services
 
 - [NFDomains](https://nf.domains/) - 非同质域 (NFD) 的 Algorand 名称服务和市场——钱包地址的唯一、可读别名.
-- [Algorand Name Service](https://algonameservice.com/home) - ANS is a decentralized naming service. An Algorand smart contract stores names and governs the naming policy.
+- [Algorand Name Service](https://algonameservice.com/home)  - ANS 是一种去中心化的命名服务.  Algorand 智能合约存储名称并管理命名策略.
 
 ## Community
 
@@ -244,7 +244,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 编写的 Algorand 虚地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
-- [AgorHash](http://www.agorhash.com/) - 公共、无需许可、去中心化和不可审查的言论自由协议.
+- [AgorHash](https://github.com/bafio89/agorhash) - 公共、无需许可、去中心化和不可审查的言论自由协议.
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint 随机生成带有嵌入式 ARC69 标签的 mandelbrot 分形.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
@@ -266,7 +266,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Metrics
 
-- [Algorand MainNet metrics](https://metrics.algorand.org/) - 衡量开源 Algorand 协议的当前规模、安全性、去中心化和采用情况的仪表板.
+- [Algorand MainNet metrics](https://metrics.algorand.org/) - Dashboard that measures the current scale, security, decentralization, and adoption of the open-source Algorand protocol.
 - [How Big is Algorand?](https://howbigisalgorand.com/) - Algorand 的网络规模监视器.
 - [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand 内存池浏览器.
 - [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand 网络性能和帐户监控.
