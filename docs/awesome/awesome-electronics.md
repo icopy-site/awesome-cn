@@ -105,8 +105,6 @@
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
-## PCB Syntax Highlighting
-- [Language PCB](https://github.com/Alhadis/language-pcb) - 各种 PCB 格式的语法高亮显示.
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - 为相当多的不同PCB批量和组装服务提供比较服务.
@@ -127,6 +125,7 @@
 - [Hackster.io](https://www.hackster.io/)  - 另一个共享项目的社交网站. 按平台、主题和产品组织得很好.
 - [InventHub](https://inventhub.io/) - 用于硬件开发的基于 Git 的项目托管和协作平台.
 - [CADLAB](https://cadlab.io/) - 另一个用于硬件开发的基于 Git 的项目托管和协作平台.
+- [Eyrie](https://eyrie.io) - 用于在线查看 Eagle 和 KiCad 设计.
 
 
 ## Inventory Management and Purchasing
@@ -135,9 +134,9 @@
 - [PartKeepr](https://partkeepr.org) - 通过参数搜索和自动数据表导入来管理零件库存的开源 Web 服务.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - 另一个用于管理零件库存的开源 Web 服务，具有权限系统和良好的条形码生成器.
 
-## Miscellaneous Web Services
-- [Eyrie](https://eyrie.io) - 用于在线查看 Eagle 和 KiCad 设计.
+## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com)  - 带有免费符号和脚印的零件库.  （与 Eagle、KiCad、Altium、OrCad、Allegro 等兼容）
+- [Language PCB](https://github.com/Alhadis/language-pcb) - 各种 PCB 格式的语法高亮显示.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - 开源电子开发板和其他设备和材料的零售商和设计师，提供优秀的随附教程.

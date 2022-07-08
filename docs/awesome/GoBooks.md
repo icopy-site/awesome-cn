@@ -96,7 +96,7 @@ Practical Go Lessons 有 41 章和 700 多页的插图.
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
- 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，呼吁特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+ 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -176,7 +176,7 @@ Go, commonly referred to as golang, is a programming language initially develope
 
  Go 正迅速成为构建 Web 服务的首选语言. 虽然有很多教程可以向具有其他编程语言经验的开发人员教授 Go 的语法，但教程还不够. 他们不教授 Go 的习语，因此开发人员最终会重新创建在 Go 上下文中没有意义的模式. 本实用指南提供了编写清晰和惯用的 Go 所需的基本背景.
 
-无论您的经验水平如何，您都将学习如何像 Go 开发人员一样思考. 作者 Jon Bodner 介绍了经验丰富的 Go 开发人员采用的设计模式，并探讨了使用它们的基本原理. 您还将预览 Go 即将推出的泛型支持以及它如何融入该语言.
+No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.
 
 - 学习如何在 Go 中编写惯用代码并设计 Go 项目
 - 了解 Go 中设计决策的原因
@@ -207,6 +207,12 @@ Some of the key things this book will teach you are how to write Go software to 
 
 在这本 Go for DevOps 书籍的最后，您将了解如何应用开发原则来自动化操作并使用 Go 提供操作见解，这将使您能够在客户意识到出现问题之前快速做出反应以解决系统故障.
 
+### [gRPC Microservices in Go](https://shortener.manning.com/44lB)
+
+<img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
+
+在过去的十年里，我们听到了关于单体应用到微服务转换的故事，我们可能认为这种转换解决了组织中的大部分问题. 但是，如果您不了解这种过渡的最佳实践，它可能最终会一团糟，因为微服务架构带来了挑战. 在本书中，我们开始介绍微服务架构的生产级最佳实践，并解释何时使用它. 然后我们讨论 gRPC 登场的微服务通信模式. 您将看到用 Go 编写的完整示例，并将六边形架构应用于项目结构. 您不仅将学习如何实现微服务，还将了解如何编写测试、使用适当的 CI 保持质量、部署到 Kubernetes 环境并最终建立一个可观察的系统以更好地监控您的应用程序.
+
 **进阶书籍**
 ---
 
@@ -227,7 +233,7 @@ Some of the key things this book will teach you are how to write Go software to 
 
 ### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
 
-本书的主要目标是帮助开发人员避免常见错误，同时通过“动手方法”学习新的编程语言. 这本书提供了关于“如何安全地做到这一点”的详细信息，展示了开发过程中可能出现的安全问题.
+本书的主要目标是帮助开发人员避免常见错误，同时通过“实践方法”学习新的编程语言. 这本书提供了关于“如何安全地做到这一点”的详细信息，展示了开发过程中可能出现的安全问题.
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
@@ -463,7 +469,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
- Go Web Programming 教你如何使用现代设计原则在 Go 中构建 Web 应用程序. 您将通过大量示例来介绍核心概念，例如处理请求和发送响应、模板引擎和数据持久性. 您还将深入研究更高级的主题，例如并发、Web 应用程序测试和部署到准系统服务器和 PaaS 提供商.
+ Go Web Programming 教你如何使用现代设计原则在 Go 中构建 Web 应用程序. 您将通过大量示例来介绍处理请求和发送响应、模板引擎和数据持久性等核心概念. 您还将深入研究更高级的主题，例如并发、Web 应用程序测试和部署到准系统服务器和 PaaS 提供商.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796)
 
@@ -563,7 +569,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 这本电子书包含 23 个完整的配方以及重现这些配方所需的代码示例：
 - 浏览器中的 Wasm &amp; Go
 - Wasm &amp; Go 与 Node.js
-- WasmEdge & Go
+- WasmEdge &amp; Go
 - 云中的 Wasm：你知道 Atmo 吗？ 
 
 Resources

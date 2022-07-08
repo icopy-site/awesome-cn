@@ -21,7 +21,7 @@
  * [OpenSCAD](http://www.openscad.org/) - 3D建模软件.
  * [SageMath](https://cloud.sagemath.com/) - 基于云的开源计算（类似于 MATLAB 和 Mathematica）.
  * [GNU Octave](https://www.gnu.org/software/octave/) - 免费软件数值计算程序，类似于 MATLAB.
- * [Dia](http://dia-installer.de/) - Open-source software for making diagrams.
+ * [Dia](http://dia-installer.de/) - 用于制作图表的开源软件.
  * [Gephi](https://gephi.org/) - 开放的图形可视化平台.
  * [QGIS](http://www.qgis.org/en/site/) - 打开 GIS 软件.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - 将 Minecraft 模型文件转换为 3D 可打印 .stl 文件的工具
@@ -34,7 +34,7 @@
  * [TiddlyWiki](http://tiddlywiki.com/) - 轻松创建自己的 wiki 来组织信息.
  * [Evergreen ILS](http://evergreen-ils.org/) - 用于管理图书图书馆（和借阅流程）的软件.
  * [ISLE](https://github.com/nasa/isle) - NASA 开发的开源实验室设备库存管理系统.
- * [GanttProject](http://www.ganttproject.biz/) - 用于安排任务和制作甘特图的生产力工具.
+ * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - 用于科学研究的开源协作项目经理.
  * [Calibre](http://calibre-ebook.com/) - 电子书管理软件.
  * [LibraryThing](https://www.librarything.com/) - 用于组织您的图书馆的在线平台.
@@ -42,6 +42,9 @@
  * [RapidPro](https://github.com/rapidpro/rapidpro) - 一个用于构建用户可以通过 SMS 进行交互的可扩展应用程序的开源平台.
  * [eu-citizen.science](https://eu-citizen.science/) - 链接到 200 个项目
  * [Zooniverse](https://github.com/zooniverse) - 动物园和宇宙项目网站
+ 
+ ###图表和可视化
+ * [GraphViz](https://graphviz.org/) - 创建科学图表的工具
  
 ## Educational
 
@@ -65,7 +68,7 @@
  * [SGD](http://www.yeastgenome.org) - 斯坦福大学的酵母菌基因组数据库.
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - 本地对齐的搜索工具.
  * [IORodeo](http://iorodeo.com/) - 出售便宜的开源恒电位仪、色度计和其他一些设备.
- * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
+ * [BioSurplus](http://www.biosurplus.com/) - 二手生物实验室设备供应商.
  * [DremelFuge](http://www.thingiverse.com/thing:1483) - 采用 dremel 附件形式的生物离心机.
  * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - 一种超低成本的手动离心机，灵感来自旋转玩具的力学.
  * [Ministat](http://www.hivebio.org/projects/ministat-2/) - 一个 DIY 恒化器.
@@ -190,7 +193,7 @@
  
 ## Conferences and Events
  * [Innovative Citizen](http://www.innovative-citizen.de/) - 德国鲁尔区一年一度的公民科学节，重点关注有机制造、生物黑客、移动农业和城市生态系统的可持续性. 
- * [iGEM](http://igem.org/Main_Page) - 与许多 DIY 生物实验室有联系的学生合成生物学竞赛.
+ * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs.
  * [Biofabricate](http://www.biofabricate.co/) - 以设计为重点的年度会议，重点关注与生物技术相关的设计、材料和技术.
  * [Biodesign Challenge](http://biodesignchallenge.org/) - 专注于设想未来生物技术应用的学生设计比赛.
  
