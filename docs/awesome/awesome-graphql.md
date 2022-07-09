@@ -370,7 +370,7 @@
 
 #### Scala Examples
 
-- [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - 使用 like-http 编写的示例 GraphQL 服务器和 [sangria](https://sangria-graphql.github.io/)
+- [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - 使用 akka-http 编写的示例 GraphQL 服务器和 [sangria](https://sangria-graphql.github.io/)
 - [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - 使用 Play 和 sangria 编写的 GraphQL 服务器示例.
 
 <a name="dotnet" />
@@ -561,6 +561,7 @@
 - [Altair GraphQL Client](https://github.com/altair-graphql/altair) - 适用于所有平台的功能丰富的漂亮 GraphQL 客户端.
 - [Insomnia](https://insomnia.rest/) - 具有第一方 GraphQL 查询编辑器的全功能 API 客户端.
 - [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - 支持编辑 GraphQL 查询的 HTTP 客户端.
+- [Escape GraphMan](https://github.com/Escape-Technologies/graphman) - 从 GraphQL 端点生成完整的 Postman 集合.
 - [Apollo Sandbox](https://sandbox.apollo.dev/) - 导航和测试 GraphQL 端点的最快方法.
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) – 将任何 GraphQL 模式视为动态和交互式图表.
 - [AST Explorer](https://astexplorer.net/) - 选择顶部的“GraphQL”，探索 GraphQL AST 并通过单击查询突出显示不同的部分.

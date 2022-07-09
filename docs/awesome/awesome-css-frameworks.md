@@ -119,7 +119,7 @@
 
 ## General Purpose
 
-- [**Bootstrap**](https://getbootstrap.com) - 最流行的 HTML、CSS 和 JavaScript 框架，用于在 Web 上开发响应式、移动优先项目.  
+- [**Bootstrap**](https://getbootstrap.com) - 最流行的 HTML、CSS 和 JavaScript 框架，用于在 Web 上开发响应式、移动优先的项目.  
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
   [Demo](https://getbootstrap.com/docs/4.0/examples/),
   [Docs](https://getbootstrap.com/docs/4.0/),
@@ -323,7 +323,7 @@
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
 
-- [**normalize.css**](https://necolas.github.io/normalize.css/) - CSS 重置的现代、支持 HTML5 的替代方案.  
+- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
   | #CSS
@@ -349,7 +349,7 @@
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
 
-- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
+- [**Neat**](https://neat.bourbon.io/) - 轻巧灵活的 Sass 网格.  
   ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
   [Demo](https://neat.bourbon.io/examples/),
   [Docs](https://neat.bourbon.io/docs/latest/),
@@ -373,6 +373,10 @@
   [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
+
+- [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - 开始您的项目，以弥补 CSS 的技术债务.  
+  ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
+  | #CSS
 
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy，固执己见的 CSS 框架，Bootstrap 的小替代品.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
