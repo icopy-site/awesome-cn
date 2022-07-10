@@ -96,12 +96,13 @@
 如果您想改进 OpenStreetMap，本节是一个很好的起点.
 
 * [HOT Tasking Manager](https://tasks.hotosm.org/) - 映射任务以支持危机地区的人道主义任务.
-* [MapRoulette](https://maproulette.org/)  - 进行小编辑以完成大任务的各种挑战.  ([Source Code](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
+* [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
 * [Pic4Review](https://pic4review.pavie.info/#/)  - 通过查看图像将对象添加到 OSM 的工具.  ([Source Code](https://framagit.org/Pic4Carto/Pic4Review) / [Wiki](https://wiki.openstreetmap.org/wiki/Pic4Review))
 * [Map Complete](https://mapcomplete.osm.be/)  - 用于在范围任务中进行映射的工具.  ([Wiki](https://wiki.openstreetmap.org/wiki/MapComplete))
 * [Damn Project](https://www.damn-project.org/)  - 通过将大区域划分为人类可绘制的小方块来绘制地图.  ([Source Code](https://git.sr.ht/~qeef/damn-deploy) / [Wiki](https://wiki.openstreetmap.org/wiki/Divide_and_map._Now.))
 * [NotesReview](https://ent8r.github.io/NotesReview/)  - 搜索和解决 OSM 注释的界面.  ([Source Code](https://github.com/ENT8R/NotesReview))
 * [TeachOSM Tasking Manager](https://tasks.teachosm.org/) - 为学校教室制作任务管理器，以帮助绘制人道主义事业地图.
+* [OSM Streak](http://streak.osmz.ru/)  - OSM Streak 让你每天为 OSM 做一些小任务. 任务很小，每个大约五分钟，但重点是每天绘制地图，而不是尽可能多地绘制地图.  ([Source Code](https://github.com/Zverik/osmstreak))
 
 ## Maps
 
@@ -230,6 +231,6 @@
 
  OpenStreetMap 和 OpenStreetMap 徽标是 OpenStreetMap Foundation 的商标，并在获得他们的许可后使用. 该项目不受 OpenStreetMap 基金会的认可或附属.
 
-The OpenStreetMap Logo by Ken Vermette is used under the Creative Commons Attribution-ShareAlike 3.0 License.
+Ken Vermette 的 OpenStreetMap 徽标在知识共享署名-相同方式共享 3.0 许可下使用.
 
  [^selfhosted-only]：此项目不提供托管实例，必须自行部署. 有关说明，请参阅项目的网站.

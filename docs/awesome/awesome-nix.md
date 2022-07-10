@@ -4,7 +4,7 @@
 
 &gt; Nix 社区中最佳资源的精选列表.
 
-[Nix](https://github.com/nixos/nix) 是适用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
+[Nix](https://github.com/nixos/nix) 是用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
 
 *请阅读 [contribution guidelines](https://github.com/nix-community/awesome-nix/blob/master/CONTRIBUTING.md) 在贡献之前.*
 
@@ -80,7 +80,7 @@
 * [devshell](https://github.com/numtide/devshell) - `mkShell` 带有额外的位和 toml 配置选项，以便能够加入非 nix 用户.
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用功能，以帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
-* [lorri](https://github.com/target/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
+* [lorri](https://github.com/target/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于在任何地方以任何语言构建、测试和发布项目. 
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和符合 flake 的配置.
@@ -100,7 +100,7 @@
 
 ### Elm
 
-* [elm2nix](https://github.com/hercules-ci/elm2nix) - Convert `elm.json` into Nix expressions.
+* [elm2nix](https://github.com/hercules-ci/elm2nix) - 将 `elm.json` 转换为 Nix 表达式.
 
 ### Haskell
 
@@ -113,7 +113,7 @@
 ### Node.js
 
 * [Napalm](https://github.com/nmattia/napalm) - 支持在 Nix 中使用轻量级 npm 注册表构建 npm 包.
-* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（存储为文件）.
+* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（以文件形式存储）.
 * [npmlock2nix](https://github.com/tweag/npmlock2nix) - 从“package-lock.json”（内存中）生成 Nix 表达式，主要用于 Web 项目.
 * [yarn2nix](https://github.com/nix-community/yarn2nix) - 从 `yarn.lock` 文件生成 Nix 表达式.
 
@@ -141,6 +141,7 @@
 
 ### Rust
 
+* [cargo2nix](https://github.com/cargo2nix/cargo2nix) - 粒度缓存、开发外壳、Nix 和 Rust 集成.
 * [fenix](https://github.com/nix-community/fenix) - 适用于 nix 的 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.

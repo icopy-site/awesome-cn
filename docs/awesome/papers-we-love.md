@@ -4,7 +4,7 @@
  
  [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
- **Papers We Love** (*PWL*) 是一个围绕阅读、讨论和了解更多有关计算机科学学术论文的社区. 该存储库是社区可以找到的一些最佳论文的目录，汇集了散布在网络上的文档. 您还可以访问 [Papers We Love site](http://paperswelove.org/) 了解更多信息.
+ **Papers We Love** (*PWL*) 是一个围绕阅读、讨论和了解更多有关计算机科学学术论文的社区. 该存储库是社区可以找到的一些最佳论文的目录，汇集了分散在网络上的文档. 您还可以访问 [Papers We Love site](http://paperswelove.org/) 了解更多信息.
 
 由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管论文（当我们这样做时，您会在自述文件目录中的标题旁边看到一个 :scroll: 表情符号），但我们可以提供指向其位置的链接.
 
@@ -35,6 +35,7 @@
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [New York City](http://www.meetup.com/papers-we-love/)
 * [Paris](http://www.meetup.com/Papers-We-Love-Paris/)
+* [Portland](https://www.meetup.com/papers-we-love-pdx/)
 * [Pune](http://www.meetup.com/Doo-Things)
 * [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)

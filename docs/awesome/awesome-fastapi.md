@@ -74,6 +74,7 @@
 
 - [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) - 从 OpenAPI 文件创建 FastAPI 应用程序，支持模式驱动的开发.
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - 从 OpenAPI 规范生成对 mypy 和 IDE 友好的 API 客户端.
+- [FastAPI MVC](https://github.com/rszamszur/fastapi-mvc) - 用于制作高质量 FastAPI 生产就绪 API 的开发人员生产力工具.
 - [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - 一个 joerick/pyinstrument 的 FastAPI 中间件，用于检查您的服务性能.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API 版本控制.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - 将您的 Jupyter 笔记本作为 RESTful API 端点运行.
@@ -146,7 +147,7 @@
 - [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - 使用 Cloud Run 和 SQL 实例将 Dockerized Python 应用部署到 Google Cloud Platform 的简短指南.
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
 - [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) - 将 FastAPI 应用程序 Docker 化.
-- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - 使用测试驱动开发使用 FastAPI、Postgres、Pytest 和 Docker 开发和测试异步 API.
+- [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - 使用测试驱动开发，使用 FastAPI、Postgres、Pytest 和 Docker 开发和测试异步 API.
 - [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/) - 通过与 Flask 的并排代码比较来学习 FastAPI.
 - [FastAPI Microservice Patterns](https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019) - 具有微服务模式示例实现的博客文章系列.
   - [Local Development Environment](https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c) - 简而言之，Skaffold、docker、kubectl 和 minikube.
@@ -250,7 +251,7 @@ Compute:
 
 ### Open Source Projects
 
-- [Astrobase](https://github.com/astrobase/astrobase) - 在任何地方进行简单、快速和安全的部署.
+- [Astrobase](https://github.com/anthonycorletti/astrobase) - 在任何地方进行简单、快速和安全的部署.
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) - 使用 FastAPI 的有组织的项目列表.
 - [Bitcart](https://github.com/bitcartcc/bitcart) - 商家、用户和开发人员的平台，提供简单的设置和使用.
 - [Bali](https://github.com/bali-framework/bali) - 简化基于 FastAPI 和 gRPC 的云原生微服务开发.
