@@ -7,7 +7,7 @@
     <br />
 </div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sporto/awesome-elm.svg)](https://travis-ci.org/sporto/awesome-elm)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
 
 一个社区驱动的有用 Elm 教程、库和软件的列表.
 灵感来自 [awesome](#more-awesome) 列出事情. 随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
@@ -53,7 +53,6 @@
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - 了解如何使用 Elm 构建反应式 Web 应用程序.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - 了解如何为 Elm 创建原生 JavaScript 模块.
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - 关于基础和高级主题的系列文章.
-* [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - 语言功能的高度概述.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 简短的截屏视频，教您 Erik Person 的 Elm 编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - 构建您的第一个 Elm Web 应用程序.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Elm 的五部分教程.
@@ -157,8 +156,6 @@
 * [The Changelog 218](https://changelog.com/podcast/218) - Elm 与 Evan Czaplicki 和 Richard Feldman
 * [The Changelog 191](https://changelog.com/podcast/191/) - 与 Richard Feldman 合作的 Elm 和函数式编程.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - 榆树与 Richard Feldman 和 Srinivas Rao.
-* [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - Elm 与 Evan Czaplicki 和 Richard Feldman.
-* [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - 榆树与 Richard Feldman 和 Evan Czaplicki.
 * [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - 使用 Elm、ClojureScript、Om 和 React 进行函数式编程.
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - 榆树编程语言.
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - 榆树重访.
@@ -220,7 +217,7 @@
 
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - 创建没有构建配置的 Elm 应用程序.
 * [elm-boil](https://github.com/GioPat/elm-boil) - 用于创建易于运行、构建和部署的 Elm 样板项目的命令行实用程序
-* [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
+* [elm-live](https://github.com/wking-io/elm-live)  - 一个灵活的 Elm 开发服务器. 包括实时重新加载.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 入门模板.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - 显示 Elm 0.19 和 Webpack 的热模块重新加载的示例
 * [Elm Batteries](https://github.com/cedricss/elm-batteries) - Elm、Parcel、Cypress 和 Netlify 的项目模板和生成器
@@ -280,7 +277,7 @@
 * [run-elm](https://github.com/jfairbank/run-elm) — 从命令行运行 Elm 代码
 * [elm-instant](https://atom.io/packages/elm-instant)  - 原子包从编辑器中尝试你的榆树代码. 提供可视化 REPL 和预览窗格.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - 在您的浏览器中构建快速、全栈的 Web 应用程序.
-* [Elm Live](https://elm-live.com/)  - 一个灵活的 Elm 开发服务器. 包括实时重新加载！
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 
 
 ---
@@ -289,7 +286,7 @@
 
 * [elm-compiler](https://github.com/elm/compiler) - Elm 编程语言的编译器.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Elm 编程语言的 Webpack 加载器.
-* [Parcel](https://parceljs.org/elm.html) - 使用包裹捆绑榆树
+* [Parcel](https://parceljs.org/languages/elm/) - 使用包裹捆绑榆树
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - 将 Elm 文件编译为 JavaScript 的 Grunt 插件.
 
 
@@ -356,7 +353,7 @@
 
 ### Other editors
 
-* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
+* [elm-light-table](https://github.com/rundis/elm-light) - Light Table 的语法高亮显示、REPL、自动完成、包管理等等.
 
 
 ---
@@ -436,7 +433,7 @@
 * [Redux](https://redux.js.org/introduction/prior-art) - JavaScript 应用程序的可预测状态容器.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET 多平台应用程序 UI
-* [Oolong](https://oolong-kt.org/) - 受 Elm 启发的 Kotlin 多平台模型视图更新 (MVU) 实现.
+* [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
 
 ---

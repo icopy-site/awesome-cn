@@ -143,7 +143,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 单行矢量字体或“雕刻字体”.
 
-- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息和其他资源和字体的链接.
+- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代矢量字体的“.fnt”格式. 包括对字体原始数据格式的一个很好的概述.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - 好时字体的 C 库和原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) - 一些单行字体可供购买的商业网站.
@@ -168,10 +168,11 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - 讨论和链接到用于删除 STL 文件的线框代码.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - 很多不错的提示，并非都是针对 Axidraw 的，还有一些笔评论和方便的 3D 打印工具.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - 很好地概述了 AxiDraw 及其克隆，以及一些 DIY 选项.
+- [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - 2022 年现代绘图仪的精彩视频介绍.
 
 ## Manuals and Ephemera
 
-Scanned plotter manuals and marketing ephemera from the [Internet Archive](https://archive.org)
+扫描的绘图仪手册和营销蜉蝣，大部分来自 [Internet Archive](https://archive.org)
 
 ### Manuals
 
@@ -221,6 +222,7 @@ Scanned plotter manuals and marketing ephemera from the [Internet Archive](https
 - [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 - [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - 一本关于绘图仪和数字化仪的书.
 - [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
+- [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - 展示平板 CalComp 绘图仪及其输出的宣传视频.
 
 ## Community
 

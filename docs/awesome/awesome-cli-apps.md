@@ -37,7 +37,7 @@
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - mpd 客户端.
 - [moc](http://moc.daper.net/) - 适用于 Linux/UNIX 的控制台音频播放器.
-- [musikcube](https://github.com/clangen/musikcube) - 跨平台、基于终端的音乐播放器、音频引擎、元数据索引器和服务器.
+- [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - 音乐库管理器和标记器.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify 客户端.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify 歌词.
@@ -251,8 +251,6 @@
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
 - [s](https://github.com/zquestz/s) - 在您的终端中打开网络搜索.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP、FTP、SFTP、BitTorrent 和 Metalink 下载实用程序.
-- [wego](https://github.com/schachmat/wego) - Get the weather.
-- [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从各种新闻媒体获取新闻头条.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成漂亮的代码图像.
@@ -345,6 +343,12 @@
 
 - [mdlt](https://github.com/metadelta/mdlt) - 直接从命令行进行快速数学运算.
 - [Qalculate](https://github.com/Qalculate/libqalculate)  - 计算非平凡的数学表达式. 单位转换、符号计算等.
+
+### Weather
+
+- [wttr.in](https://github.com/chubin/wttr.in)
+- [wego](https://github.com/schachmat/wego)
+- [weather-cli](https://github.com/riyadhalnur/weather-cli)
 
 ## Command Line Learning
 

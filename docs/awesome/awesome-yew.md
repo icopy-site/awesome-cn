@@ -44,7 +44,7 @@
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
 - [Freecell](https://github.com/Stigjb/freecell) - 用 Rust 和 Yew 编写的耐心游戏.
 - [Daydream](https://github.com/MTRNord/Daydream) - 一个用 Rust 编写的小型 Matrix Web 客户端.
-- [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
+- [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - 使用 Yew 进行的简单 WebRTC 聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - 使用 Rust、Wasm 和 Yew 编写的单页应用程序 (SPA).
@@ -79,6 +79,7 @@
 - [blog-rs](https://github.com/songday/blog-rs)  - 一个前端和后端都用 Rust 编写的博客系统. 后端由 Warp 提供支持，前端基于 Yew (WASM).
 - [mb2](https://devctm.com)  - 带有 Yew 客户端的扑克服务器. 点击“Demo”按钮，然后点击“Start”查看客户端.
 - [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - 使用 Rust 和 Yew 的 Rubix Cube 求解器， [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
+- [CubeShuffle](https://github.com/philipborg/CubeShuffle) - 使用 Rust、Yew、Bulma 和 Tauri 构建的纸牌游戏洗牌实用程序.
 
 ## Templates
 
@@ -97,7 +98,7 @@
 ### Component Libraries
 
 - [yew-mdc](https://github.com/dungeonfog/yew-mdc) - Yew 框架的材料设计组件.
-- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
+- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
 - [material-yew](https://github.com/hamza1311/material-yew) - 材料 Web 组件的 Yew 包装器.
 - [Yewprint](https://github.com/cecton/yewprint) - blueprintjs.com 到 Yew 的端口.
