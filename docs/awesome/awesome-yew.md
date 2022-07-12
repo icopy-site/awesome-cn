@@ -22,7 +22,6 @@
 - [Chatroom](https://discord.gg/VQck8X4) - 它非常活跃，是提问的好地方.
 - [Reddit](https://www.reddit.com/r/yew_web/) - 专用子 Reddit.
 - [Financial Contribute](https://opencollective.com/yew) - 成为财务贡献者并帮助我们维持我们的社区.
-- [Yewtify](https://github.com/yewstack/yewtify) - Yew 框架的 Vuetify 组件.
 
 ## Projects
 
@@ -37,7 +36,7 @@
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
-- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) --Tachiyomi 式网络漫画阅读器.tanoshi 的前端.
@@ -57,7 +56,7 @@
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我通过 Yew/Wasm 用 Rust 编写的个人网站.
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
-- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
+- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 示例基于 Yew 最新的 hooks 和函数式 API，代码风格非常像 React 函数组件.
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
@@ -80,6 +79,7 @@
 - [mb2](https://devctm.com)  - 带有 Yew 客户端的扑克服务器. 点击“Demo”按钮，然后点击“Start”查看客户端.
 - [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - 使用 Rust 和 Yew 的 Rubix Cube 求解器， [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - 使用 Rust、Yew、Bulma 和 Tauri 构建的纸牌游戏洗牌实用程序.
+- [Rust Audio](https://github.com/austintheriot/audio) - 在浏览器中使用 Rust/WASM 进行实时音频处理/合成， [Live Demo](https://austintheriot.github.io/audio/).
 
 ## Templates
 
@@ -98,7 +98,7 @@
 ### Component Libraries
 
 - [yew-mdc](https://github.com/dungeonfog/yew-mdc) - Yew 框架的材料设计组件.
-- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
+- [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
 - [material-yew](https://github.com/hamza1311/material-yew) - 材料 Web 组件的 Yew 包装器.
 - [Yewprint](https://github.com/cecton/yewprint) - blueprintjs.com 到 Yew 的端口.
