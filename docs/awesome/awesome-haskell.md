@@ -145,7 +145,7 @@
 
     ---
 *其他库*
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖性的本地 Haskell 代码.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将经过训练的经典 ML 模型转换为具有零依赖关系的本地 Haskell 代码.
 
 ## Data Structures
 * [Data Structures & IO Libraries](https://wiki.haskell.org/Applications_and_libraries/Data_structures) - 官方网站资源.
@@ -286,6 +286,7 @@
 * [Fay](http://fay-lang.org/) - 可编译为 JavaScript 的 Haskell 正确子集.
 * [Idris](https://github.com/idris-lang/Idris-dev) - 依赖类型的函数式编程语言
 * [Copilot](http://leepike.github.io/Copilot/) - 一种（Haskell DSL）流语言，用于生成硬实时 C 代码.
+* [Wasp](https://wasp-lang.dev/) - 一种使用更少代码开发全栈 Javascript Web 应用程序的简单语言（使用 Haskell 构建）
 
 ## Operating Systems
 
@@ -341,7 +342,7 @@
 ## Websites
 
 * [Haskell](https://www.haskell.org/) - 官方网站.
-* [The Haskell Programming Language](https://wiki.haskell.org/Haskell) - 哈斯克尔维基.
+* [The Haskell Programming Language](https://wiki.haskell.org/Haskell) - Haskell 维基.
 * [Try Haskell](http://tryhaskell.org/) - 哈斯克尔在线.
 * [School of Haskell](https://www.schoolofhaskell.com/) - 学习 Haskell.
 

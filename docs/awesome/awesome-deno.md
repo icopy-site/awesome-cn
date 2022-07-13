@@ -159,7 +159,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
 - [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
 - [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
-- [durationjs](https://github.com/nekooftheabyss/duration.js) - Get time duration from a timestamp or a human-readable string.
+- [durationjs](https://github.com/nekooftheabyss/duration.js) - 从时间戳或人类可读的字符串中获取持续时间.
 - [ensure](https://github.com/eankeen/ensure) - 确保您运行的是 Deno、Typescript 或 V8 的最低版本.
 - [evt](https://github.com/garronej/evt) - 键入 EventEmitter 的安全替换.
 - [fastest-validator](https://github.com/icebob/fastest-validator) - 所有 javascript 平台的模式验证器
@@ -202,6 +202,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra 喜欢用于 deno 的轻量级 Web 应用程序框架.
 - [doa](https://github.com/johannlai/doa)  - Deno 的 http 服务的中间件框架. 用 ❤️ 从 Koa 移植
 - [drash](https://github.com/drashland/deno-drash) - Deno 的 HTTP 服务器的 REST 微框架，具有零依赖性.
+- [fast](https://github.com/danteissaias/fast) - 具有接近原生性能的小型 Web 框架.
 - [faster](https://github.com/hviana/faster) - 具有一组有用的中间件的快速且优化的中间件服务器.
 - [microraptor](https://github.com/matteocrippa/microraptor) - 轻量级框架，可通过验证轻松实现网络路由.
 - [oak](https://github.com/oakserver/oak) - Deno 网络服务器的中间件框架.
@@ -243,7 +244,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 ## Registries
 
-- [crux.land](https://crux.land/) - 用于托管小型（&lt; 10kB）单个 deno 脚本的免费注册服务.
+- [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
 - [Deno PKG](https://denopkg.com/) - 在你的 Deno 项目中使用来自 GitHub 的代码的更简单方法.
 - [Denopkg.dev](https://denopkg.dev/) - 在你的 Deno 项目中使用来自 GitHub/GitLab 的任何公共/私有存储库.
 - [deno.land/x/](https://deno.land/x/) - 官方的第 3 方模块注册表.
@@ -276,7 +277,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - 用于安装和运行 Deno 的跨平台 Makefile.
 - maxmcd  [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
 - 海德 [deno-docker](https://github.com/hayd/deno-docker) 几个泊坞窗图像.
-- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展利用 vscode 中内置的 typedef 和 intellisense.
+- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展程序利用 vscode 中内置的 typedef 和 intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) - 让 TypeScript 文件直接在 script 标签中使用.
 - [dmm](https://github.com/drashland/dmm) - 轻量级 Deno 模块管理器
 - [dnt](https://github.com/denoland/dnt) - Deno 到 npm 包构建工具.

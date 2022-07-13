@@ -60,6 +60,7 @@
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Jupyter 的树 UI 元素.
+- [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - 动画数据讲故事工具.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 基于小部件和 WebGL 的 Jupyter 中 Python 的 3D 绘图.
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - Jupyter 中的视频/音频流.<!--lint disable double-link-->
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Jupyter 的 UI 小部件.<!--lint enable double-link-->
@@ -191,7 +192,7 @@
 - [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.
 - [Gryd](https://gryd.us) - 简单、托管、即用型、基于云的 Jupyter 笔记本，支持多种语言.<!--lint disable double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.<!--lint enable double-link-->
-- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
+- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - 云中基于 JupyterLab 的数据科学环境.

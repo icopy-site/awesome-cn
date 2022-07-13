@@ -55,10 +55,11 @@
 
 
 ## Compilers and interpreters
-* [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - 新的 Smol 编译器和参考.
-* [squeek502/zua](https://github.com/squeek502/zua) - 用于学习目的的 Lua 5.1 实现.
+* [oven-sh/bun](https://github.com/oven-sh/bun) - 令人难以置信的快速 JavaScript 运行时、捆绑器、转译器和包管理器 - 合二为一.
 * [Vexu/bog](https://github.com/Vexu/bog) - 小型、强类型、可嵌入的语言.
 * [LoLa Programming Language](https://lola.random-projects.net/) - ([GitHub](https://github.com/MasterQ32/LoLa)) 一种用于游戏脚本的嵌入式编程语言.
+* [squeek502/zua](https://github.com/squeek502/zua) - 用于学习目的的 Lua 5.1 实现.
+* [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - 新的 Smol 编译器和参考.
 * [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - 脑残翻译.
 
 
@@ -74,7 +75,7 @@
 ## Editor plugins
 * [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) - 用于 Zig 编程语言的 IntelliJ IDEA 插件.
 * [isaachier/ztags](https://github.com/isaachier/ztags) - Zig 的 Ctags 实现.
-* [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) - My own, more lightweight, syntax highlighting for Zig.
+* [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) - 我自己的，更轻量级的 Zig 语法高亮.
 * [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - 对 Sublime Text 的 Zig 语言支持.
 * [ziglang/vscode-zig](https://github.com/ziglang/vscode-zig) - VSCode 的 Zig 语言支持.
 * [ziglang/zig-mode](https://github.com/ziglang/zig-mode) - Emacs 的 Zig 模式.
@@ -165,7 +166,7 @@
 * [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) - 网络上的 Zig fmt.
 * [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) - 通用 WASM 运行时绑定到 C API.
 * [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Wasmer WebAssembly 运行时的绑定.
-* [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Wasmtime 的绑定.
+* [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 * [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - 小胡子实施.
 
 
