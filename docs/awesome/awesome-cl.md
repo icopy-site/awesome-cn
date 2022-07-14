@@ -26,7 +26,7 @@ Cl-Who 上的喷丝板.
 list.
 
 这是根据 GNU 自由文档许可证发布的 - 它的文本
-is provided in the LICENSE file. This repository is also mirrored on
+在 LICENSE 文件中提供. 此存储库也反映在
 [NotABug](https://notabug.org/CodyReichert/awesome-cl) - **完全免费**（如在 libre 中）
  Github 的替代品. 优先考虑 [自由软件][13] 和
 不为物质资源作恶的卖家.
@@ -68,7 +68,7 @@ Common Music 的工作转移到（基于方案的）cm3.
 构建系统
 =============
 
-* ⭐[ASDF](https://common-lisp.net/project/asdf/) - Another System Definition Facility; a build system for Common Lisp. [Expat][14]. Quicklisp (see [library manager](#library-manager)) 在引擎盖下使用 ASDF.
+* ⭐[ASDF](https://common-lisp.net/project/asdf/)  - 另一个系统定义工具；  Common Lisp 的构建系统.  [外籍人士][14].  Quicklisp（见 [library manager](#library-manager)) 在引擎盖下使用 ASDF.
   * [known ASDF extensions](https://common-lisp.net/project/asdf/#extensions)，例如`asdf-system-connections`，它允许您指定在加载其他两个系统时自动加载的系统，以连接它们.
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)  - ASDF 的扩展.  [外籍人士][14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)  - 可视化 ASDF 系统的库依赖关系、函数调用图和类继承的工具.  [LLGPL][8].
@@ -138,6 +138,9 @@ ORMs
   * 使用 bknr.datastore 的示例 Web 应用程序： [screenshotbot-oss](https://github.com/screenshotbot/screenshotbot-oss).
 * [ubiquitous](https://github.com/Shinmera/ubiquitous)  - 提供易于使用的持久配置存储的库.  [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)  - 内存数据库系统. 对象流行的实现，其中业务对象保持在内存中，事务被记录以进行系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL][8]. 也可以看看 [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster), 同步多个 cl-prevalence 系统状态.
+* [cl-naive-store](https://gitlab.com/Harag/cl-naive-store)  - 用于 Common Lisp 的天真持久、内存（延迟加载）、索引、文档存储.  [麻省理工学院][200].
+  - 看 [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
+  - 我们敢于添加：由作者公司用于生产（ASTN 集团，请参阅 awesome-lisp-companies）
 
 也可以看看 [Clache](#caching)，可以将任何对象保存在磁盘上.
 
@@ -149,11 +152,11 @@ ORMs
 * [neo4cl](https://github.com/equill/neo4cl)  - 一个与 Neo4J 交互的库. 将 Cypher 查询发送到 Neo4J 服务器，并将响应解码为对 CL 处理有用的内容.  [阿帕奇2] [89].
   * 有可能： [cl-neo4j](https://github.com/kraison/cl-neo4j) - 一个瘦neo4j RESTFUL 客户端界面.
 * [vivace-graph](https://github.com/kraison/vivace-graph-v3)  - 图形数据库和 Prolog 实现. 从 CouchDB、neo4j 和 AllegroGraph 中汲取设计灵感. 它使用用户定义的索引和 map-reduce 视图实现了符合 ACID 的对象图模型. 它还实现了用于冗余和水平读取扩展的主/从复制方案. 查询图形是通过许多 Lisp 方法或通过类似 Prolog 的查询语言来完成的.  [麻省理工学院][200].
-* [facts](https://github.com/cl-facts/facts)  - 具有事务和回滚、日志记录/重播和转储/从磁盘加载/从磁盘加载的内存图形数据库.  BSD 风格的许可证 (ISC).
 
 并且：
 
 * [restagraph](https://github.com/equill/restagraph)  - 使用数据库中定义的模式为 Neo4j 数据库动态生成 REST API 的应用程序.  [GPL3][2].
+* [facts](https://github.com/cl-facts/facts)  - 具有事务和回滚、日志记录/重播和转储/从磁盘加载/从磁盘加载的内存图形数据库.  BSD 风格的许可证 (ISC).
 
 
 Wrappers
@@ -420,7 +423,7 @@ YAML
 大量可移植层 [is collected here](https://shinmera.github.io/portability/) . 这里是其中的一些：
 
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments)  - 一个可移植的库，用于检索函数的参数列表.  [zlib][33].
-* [definitions](https://github.com/Shinmera/definitions)  - 一个通用定义内省库. 它使您能够检索与符号、包和一般名称等指示符关联的定义或绑定.  [zlib][33].
+* [definitions](https://github.com/Shinmera/definitions)  - 一个通用定义内省库. 它使您能够检索与指示符相关的定义或绑定，例如符号、包和一般名称.  [zlib][33].
 
 更改语法
 -------------------
@@ -454,7 +457,7 @@ CLOS 扩展
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  - 允许静态（在编译时）而不是动态（运行时）执行标准通用函数调度. 这类似于 C++ 和 Java 等语言中所谓的“重载”.  [麻省理工学院][200].
 * [dynamic-mixins](https://github.com/rpav/dynamic-mixins)  - 简单、动态的类组合.  [BSD_2 条款][17].
 * [fast-generic-functions](https://github.com/marcoheisig/fast-generic-functions)  - 密封您的通用功能以进一步提高性能.  [麻省理工学院][200].
-* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 一种函数类型，用于分派类型而不是类，部分支持分派可选和关键字参数类型. 仍处于试验阶段（2021 年 5 月）.  [麻省理工学院][200].
+* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 一种在类型而不是类上分派的函数类型，部分支持在可选和关键字参数类型上分派. 仍处于试验阶段（2021 年 5 月）.  [麻省理工学院][200].
    - 多态函数对提供给它的参数类型进行调度. 这有助于分派专门的数组以及用户定义的类型.
   - 有关专业化存储和快速通用功能的差异，请参阅其自述文件.
 
@@ -475,7 +478,7 @@ Iteration
 ---------
 
 * ⭐ [iterate](https://common-lisp.net/project/iterate/)  - 可扩展和 Lispier 的 Common Lisp 的迭代构造.  [麻省理工学院][200].
-* [for](https://shinmera.github.io/for/)  - 一个简洁、简洁和可扩展的迭代宏. 与循环不同，它是可扩展且合理的，与迭代不同，它不需要代码遍历并且更容易扩展.  [zlib][33].
+* [for](https://shinmera.github.io/for/)  - 一个简洁、简洁和可扩展的迭代宏. 与循环不同，它可扩展且合理，与迭代不同，它不需要代码遍历并且更易于扩展.  [zlib][33].
 * [series](https://github.com/tokenrove/series/wiki)  - 完全没有任何运行时损失的功能风格.  [麻省理工学院][200].
 * [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  - 一个简洁且可扩展的迭代工具，具有与 FSet 良好集成的优点（参见数据结构部分），因为它是由同一作者编写的. 在 Quicklisp 作为 `misc-extensions` 的一部分. 公共区域.
 * [trivial-do](https://github.com/yitzchak/trivial-do/)  - Common Lisp 的附加 dolist 样式宏.  [麻省理工学院][200].
@@ -656,7 +659,7 @@ Community
 
 * [MGL](https://github.com/melisgl/mgl)  - 用于反向传播神经网络、玻尔兹曼机、高斯过程等的机器学习库.  [麻省理工学院][200].
   * 某些部分最初由 Ravenpack International 提供.
-  - used by its [author](https://github.com/melisgl) 至 [win](https://github.com/melisgl/higgsml) 希格斯玻色子机器学习挑战赛.
+  - 由其使用 [author](https://github.com/melisgl) 至 [win](https://github.com/melisgl/higgsml) 希格斯玻色子机器学习挑战赛.
 * [clml](https://github.com/mmaul/clml)  - 最初由日本公司 Mathematicl Systems Inc. 开发. 带一个 [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html) .  [LLGPL][8].
 * [antik](https://www.common-lisp.net/project/antik/)  - Common Lisp 中科学和工程计算的基础.  GPL. 还 [mgl-mat](https://github.com/melisgl/mgl-mat) 和 [LLA](https://github.com/tpapp/lla).
 
@@ -795,7 +798,7 @@ URI 处理
 Javascript
 ----------
 
-* ⭐ [Parenscript](https://common-lisp.net/project/parenscript/)  - 从 Common Lisp 到 Javascript 的翻译器.  [3 条款 BSD][15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种 Emacs 模式，提供与浏览器的实时交互.[unlicence][5].
+* ⭐ [Parenscript](https://common-lisp.net/project/parenscript/)  - 从 Common Lisp 到 Javascript 的翻译器.  [3 条款 BSD][15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
   * [paren6](https://github.com/BnMcGn/paren6/) - 一组用于 Parenscript 的 ES6 宏.
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析 ECMAScript 3 的包.[zlib][33].
 * [JSCL](https://github.com/jscl-project/jscl)  - 从一开始就设计为自托管的 CL 到 JS 编译器. 缺少 CLOS、格式和循环.
@@ -833,6 +836,7 @@ Websockets
 ----------
 
 * [usocket](https://github.com/usocket/usocket)  - 一个可移植的 TCP 和 UDP 套接字接口.  [外籍人士][14].
+* [Hunchensocket](https://github.com/joaotavora/hunchensocket)  - 用于 Common Lisp 的符合 RFC6455 的 WebSocket.  [麻省理工学院][200].
 * [websocket-driver](https://github.com/fukamachi/websocket-driver)  - WebSocket 服务器/客户端实现，后端不可知（Clack）.  [3 条款 BSD][15].
 * [Portal](https://github.com/charJe/portal)  - 使用 usocket 的 Common Lisp 的便携式 websocket.  [LLGPL][8].
 
@@ -954,7 +958,7 @@ Units
 Utils
 -----
 
-* [cmu-infix](https://github.com/rigetti/cmu-infix)  - 在 Common Lisp 中编写中缀数学符号的库. 也可以看看 [polisher](https://github.com/mrcdr/polisher).
+* [cmu-infix](https://github.com/rigetti/cmu-infix) - A library for writing infix mathematical notation in Common Lisp. See also [polisher](https://github.com/mrcdr/polisher).
 
 
 Parallelism and Concurrency
@@ -983,7 +987,7 @@ Parallelism and Concurrency
 演员模式
 --------------
 
-* [cl-gserver](https://github.com/mdbergmann/cl-gserver)  - cl-gserver 是一个“消息传递”库/框架，具有类似于 Erlang 或 Akka 的演员. 它支持创建应该工作的系统，需要并行计算和基于事件的消息处理.  [阿帕奇2] [89].
+* [cl-gserver](https://github.com/mdbergmann/cl-gserver)  - cl-gserver 是一个“消息传递”库/框架，具有类似于 Erlang 或 Akka 的演员. 它支持创建应该反应式工作的系统，需要并行计算和基于事件的消息处理.  [阿帕奇2] [89].
 * [erlangen](https://github.com/eugeneia/erlangen)  - Clozure Common Lisp 的分布式异步消息传递系统.  [GNU GPL3][2].
 * [Actors](https://github.com/aarvid/Actors) LispWorks 软件包（[announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [麻省理工学院][200].
 * [common-lisp-actors](https://github.com/naveensundarg/Common-Lisp-Actors)  - 一个简单易用的演员系统.  [BSD_2 条款][17].
@@ -1078,7 +1082,7 @@ Readline、ncurses 和其他图形助手
 系统管理
 ---------------------
 
-* [Consfigurator](https://spwhitton.name/tech/code/consfigurator/)  - Lisp 声明式配置管理系统. 您可以使用它来将主机配置为 root、将服务部署为非特权用户、构建和部署容器以及生成磁盘映像.  [GPL3][2].
+* [Consfigurator](https://spwhitton.name/tech/code/consfigurator/)  - Lisp 声明式配置管理系统. 您可以使用它来将主机配置为 root、以非特权用户身份部署服务、构建和部署容器以及生成磁盘映像.  [GPL3][2].
 * [Adams](https://github.com/cl-adams/adams)  - Common Lisp 中的 UNIX 系统管理. 与 Ansible、Chef 或 Puppet 不同.  [国际标准委员会][22].
 
 其他脚本实用程序
@@ -1091,7 +1095,7 @@ Readline、ncurses 和其他图形助手
  Lisp 和 C 代码可生成高效的应用程序. 例如，
 可执行的 Lisp 版本的规范 `Hello World!`
 程序在 32 位 x86 Linux 上只需要 20k 字节.  WCL 也
-支持完整的开发环境，包括动态文件
+supports a full development environment, including dynamic file
 加载和调试. 一个修改版的 GDB 用于调试 WCL
 程序，为混合语言调试提供支持.
 
@@ -1110,7 +1114,7 @@ Readline、ncurses 和其他图形助手
 * [Portacle](https://shinmera.github.io/portacle/) - 可移植的多平台 Common Lisp 环境：SBCL、Quicklisp、Emacs、Slime、Git.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/)  - 一个用于 Common Lisp 开发环境的 Docker 容器. 使用 Slime 运送 SBCL、CCL、Roswell 和 Emacs25.
 * [Emacs4CL](https://github.com/susam/emacs4cl)  - 一个很小的 ​​Emacs 初始化文件，用于快速设置 vanilla Emacs 以进行 Common Lisp 编程. 附带对初始化文件中每一行代码的逐行解释.
-* [slime-star](https://github.com/mmontone/slime-star) - a SLIME configuration with extensions pre-installed, with also some custom utilities and menus:
+* [slime-star](https://github.com/mmontone/slime-star) - 预先安装了扩展的 SLIME 配置，还有一些自定义实用程序和菜单：
   - Lisp 系统浏览器
   - [SLIME doc contrib](https://github.com/mmontone/slime-doc-contribs) - 增强默认帮助缓冲区.
   - [Quicklisp systems](https://github.com/mmontone/quicklisp-systems) - 从 Emacs 搜索、浏览和加载 Quicklisp 系统.
@@ -1185,7 +1189,7 @@ Readline、ncurses 和其他图形助手
 ============
 
 * ⭐ [esrap](https://github.com/scymtym/esrap)  - Packrat 解析器.  [外籍人士][14].
-* [cl-yacc](https://github.com/jech/cl-yacc)  - LALR(1) 解析器生成器.  [麻省理工学院][200].
+* [cl-yacc](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
 * [cl-shlex](https://github.com/ruricolist/cl-shlex/)  - 用于类似 shell 的语法的简单词法分析器.  [麻省理工学院][200].
 * [smug](https://github.com/drewc/smug)  - Common Lisp 的解析器组合器.  SMUG 使创建快速可扩展的递归下降解析器变得简单，而没有时髦的语法或难以理解的宏观.  [麻省理工学院][200].
 * [parseq](https://github.com/mrossini-ethz/parseq)  - 用于使用解析表达式语法解析字符串和列表等序列的库. 受到Esrap的启发.  GPL2.
@@ -1276,7 +1280,7 @@ CSV
 建立在本地时间之上的持续时间处理库.  [麻省理工学院][200].
   * 见这个分叉： [humanize-duration](https://github.com/40ants/humanize-duration) ，仅输出持续时间对象的重要部分. 具有本地化支持.
 * [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date)  - Common Lisp 中的其他日期例程，基于 ISO 8601 字符串表示.  [LLGPL][8].
-* [calendar-date](https://github.com/takagi/calendar-date)  - 一个公历日期库.  [麻省理工学院][200].
+* [calendar-date](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT][200].
 * [periods](https://github.com/jwiegley/periods)  - 在更高级别操作日期/时间对象. 具有系列兼容的数据结构.  [BSD_3 条款][15].
 
 另见本书 [Calendrical calculations](https://www.cambridge.org/us/academic/subjects/computer-science/computing-general-interest/calendrical-calculations-ultimate-edition-4th-edition?format=HB#resources) , 爱德华 M. Reingold，Nachum Dershowitz，剑桥出版社. 它提供 Lisp 源代码.
@@ -1388,7 +1392,7 @@ i18n
 Linting，代码格式化
 ------------------------
 
-* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
+* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog（[slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
 * [trivial-formatter](https://github.com/hyotang666/trivial-formatter)  - Common Lisp 的代码格式化程序.  [麻省理工学院][200].
 
 并且： [lisp-format](https://github.com/eschulte/lisp-format) 和 [cl-indentify](https://github.com/yitzchak/cl-indentify).
@@ -1397,7 +1401,7 @@ Linting，代码格式化
 --------------------
 
 * [literate-lisp](https://github.com/jingtaozf/literate-lisp)  - 从 Emacs 的 Org 文件加载 Common Lisp 代码块.  [麻省理工学院][200].
-* [erudite](https://github.com/mmontone/erudite)  - 考虑到交互式开发而构建的识字编程系统.  [麻省理工学院][200].
+* [erudite](https://github.com/mmontone/erudite)  - 考虑到交互式开发而构建的文学编程系统.  [麻省理工学院][200].
 
 
 Logging
@@ -1445,7 +1449,7 @@ Plotting
 -----------------
 
 * [cl-project](https://github.com/fukamachi/cl-project)  - 一般的现代项目骨架.  [LLGPL][8].
-* [cl-project-with-docs](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD][15].
+* [cl-project-with-docs](https://github.com/40ants/cl-project-with-docs)  - 使用 Sphinx 和 reStructured 文本来呈现美观且可读的 HTML 文档.  [BSD][15].
 * [cl-cookieproject](https://github.com/vindarel/cl-cookieproject)  - 生成一个现成的 Common Lisp 项目. 不在 Quicklisp 中.  [BSD_3 条款][15].
   * 测试定义、从源代码运行的入口点、构建二进制文件、Roswell 集成……
 

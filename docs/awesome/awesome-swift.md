@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1089 |  2022 年 6 月 15 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1090 |  2022 年 7 月 14 日
 
 
 
@@ -61,6 +61,7 @@
 ## Boilerplates
 
 * [iOS project template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+* [Model-View-Presenter template](https://github.com/onl1ner/ios-mvp-template) - 基于 MVP 模式创建的一个灵活且简单的模板，用于加快您的 iOS 应用程序的开发.
 * [Swift Module Template](https://github.com/fulldecent/swift5-module-template) - 令人敬畏的、可重用模块的自以为是的起点.
 
 ## REPL
@@ -195,7 +196,7 @@
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 在屏幕上编排动画.
 * [Stellar](https://github.com/AugustRush/Stellar) - 物理动画库.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation)  - 类型安全的 CAAnimation 包装器. 它可以防止设置错误的类型值.
-* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+* [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - 只需一行代码，即可让您的 UI 栩栩如生.
 * [YapAnimator](https://github.com/yapstudios/YapAnimator) - 您快速友好的基于物理的动画系统.
 
 ### API
@@ -218,7 +219,7 @@
 * [Crossroad](https://github.com/giginet/Crossroad) - :oncoming_bus: Crossroad 是一个 URL 路由器，专注于处理自定义 URL 方案.
 * [LightRoute](https://github.com/SpectralDragon/LiteRoute) - VIPER 模块之间的路由.
 * [Linker](https://github.com/MaksimKurpa/Linker) - 处理 iOS 内部和外部深层链接的轻量级方法.
-* [MonarchRouter](https://github.com/nikans/MonarchRouter)  - 声明式状态和基于 URL 的路由器. 复杂的自动视图控制器层次结构转换. 久经考验的服务器端约定.
+* [MonarchRouter](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow 是基于 Reactive Flow Coordinator 模式的 iOS 应用程序导航框架.
 * [SwiftCurrent](https://github.com/wwt/SwiftCurrent)  - 在可以构建 Swift 的任何地方管理复杂的工作流程. 它内置了对 UIKit、Storyboards 和 SwiftUI 的支持.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于 iOS 的 URL 路由器.
@@ -859,7 +860,7 @@
 [back to top](#readme) 
 
 * [Cluster](https://github.com/efremidze/Cluster) - 简单的地图注释聚类.
-* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 使您能够以零努力在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 让您可以零努力地在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - 使使用地理模型和计算交叉点、重叠、投影等变得更容易.
 * [LocoKit](https://github.com/sobri909/LocoKit) - iOS 的位置和活动记录框架.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  - 使用任何自定义视图作为具有酷动画的 MKMapView 的自定义标注视图. 使用任何图像作为注释视图.
@@ -953,7 +954,7 @@
 * [Ambassador](https://github.com/envoy/Ambassador) - 基于 SWSGI 的超轻量级 Web 框架.
 * [Corvus](https://github.com/apodini/corvus) :penguin: - 使用声明性语法构建 REST API 的 Web 框架.
 * [Curassow](https://github.com/kylef-archive/Curassow) :penguin: - 使用 pre-fork worker 模型的 HTTP 服务器.
-* [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
+* [Embassy](https://github.com/envoy/Embassy) :penguin: - 超轻量级异步 HTTP 服务器库.
 * [Kitura](https://github.com/Kitura/Kitura) :penguin: - IBM 的 Web 框架和 Web 服务服务器.
 * [Lightning](https://github.com/skylab-inc/Lightning) :penguin: - 多平台单线程非阻塞 Web 和网络框架.
 * [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - 事件 I/O 流，如 Node.js.
@@ -1133,7 +1134,7 @@
 * [BadgeHub](https://github.com/jogendra/BadgeHub)  - 使任何 UIView 成为一个成熟的动画通知中心. 这是一种快速将通知徽章图标添加到 UIView 的方法.
 * [BatteryView](https://github.com/yonat/BatteryView) - 简单的电池形状的 UIView.
 * [BetterSafariView](https://github.com/stleamist/BetterSafariView) - 在 SwiftUI 中呈现 SFSafariViewController 或启动 ASWebAuthenticationSession 的更好方法.
-* [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用 SpriteKit 的可播放的拉动刷新视图.
+* [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
 * [BulletinBoard](https://github.com/alexisakers/BulletinBoard) - 生成和管理显示在屏幕底部的上下文卡片.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) - macOS 应用程序的圆形进度指示器.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 经典风格的 UI 组件集合.
@@ -1358,7 +1359,7 @@
 * [Panels](https://github.com/antoniocasero/Panels) - Panels 是一个框架，可以轻松地将滑动面板添加到您的应用程序中.
 * [Parchment](https://github.com/rechsteiner/Parchment) - 基于 UICollectionView 构建的具有高度可定制菜单的分页视图控制器.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 适用于 iOS 的酷炫且可自定义的弹出式操作表.
-* [SideMenu](https://github.com/jonkykong/SideMenu)  - 受 Facebook 启发的 iOS 简单侧边菜单控件. 右侧和左侧. 无需编码.
+* [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - 基于 Google+、iQON、Feedly、Ameba iOS 应用程序的 iOS 幻灯片菜单视图.
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - 可滑动的选项卡和菜单视图和视图控制器.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 适用于 iOS 的 Android PagerTabStrip.
@@ -1400,7 +1401,7 @@
 [back to top](#readme) 
 
 * [MJMaterialSwitch](https://github.com/JaleelNazir/MJMaterialSwitch) - 适用于 iOS 的可自定义 Switch UI，灵感来自 Google 的 Material Design.
-* [paper-switch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch 是一个材料设计 UI 模块，当开关打开时，它会在父视图上进行绘制.
+* [paper-switch](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch 是一个材料设计 UI 模块，当打开开关时，它会在父视图上进行绘制.
 * [Switch](https://github.com/T-Pham/Switch) - 具有完整界面生成器支持的开关控件.
 
 #### Tab
@@ -1578,7 +1579,7 @@
 * [SwiftBoost](https://github.com/sparrowcode/SwiftBoost) - 收集 Swift 扩展以促进开发过程.
 * [Swiftbot](https://github.com/noppefoxwolf/Swiftbot) - 在 slack 上运行 swift 代码.
 * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - 包含 500 多个本地扩展的便捷集合，可提高您的工作效率.
-* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - 为您的所有故事板、场景和 Segues 常量 + 适当的便利访问器自动生成“枚举”的工具.
+* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - 为所有 Storyboard、Scenes 和 Segues 常量 + 适当的便利访问器自动生成“枚举”的工具.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - 它从一个 url 进行预览，获取所有信息，如标题、相关文本和图像.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML)  - 用于从 Swift 源代码生成 UML 类的命令行工具和 Swift 包. 也可用作 Xcode 源代码编辑器扩展.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - 一个微小的随机数据生成器.
@@ -1606,7 +1607,7 @@
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - 适用于 iOS 的基于模式的用户输入格式化程序、解析器和验证器.
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单、可扩展、灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
-* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - iOS 的字符串验证（受 validator.js 启发）.
 * [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - 使用属性包装器轻松验证您的属性.
 * [Validator](https://github.com/adamwaite/Validator) - 为您的 iOS 应用程序添加用户输入验证.
 

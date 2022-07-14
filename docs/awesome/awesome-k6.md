@@ -45,8 +45,8 @@
 - [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - 来自 Grafana 博客：摩根大通平台工程执行总监 Vinodh Ravi 在 ObservabilityCON 2021 上的演讲摘要. 
 
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - 对比 Umbraco v8 在 Azure 上测试 Umbraco v9 的性能，并比较 Windows 与 Linux.
-- [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - 维护具有挑战性的 k6 负载测试代码库的个人技巧. 
-
+- [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - 维护具有挑战性的 k6 负载测试代码库的个人技巧.
+- [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb) - 在 Go 中构建一个 k6 扩展来测试 Tarantool.
 
 ## Videos
 
@@ -58,7 +58,7 @@
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
   - [What is K6 & How to get started with k6](https://www.youtube.com/watch?v=ZAq87eZ1w2U) - 通过“Is it Observable”使用 k6 Extensions for Observability 的教程
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
-  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者 Chris James.
+  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者：Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 简介. 
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Miles 在 2021 年云峰会上.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf 使用 GitHub co-pilot 编写 k6 测试.

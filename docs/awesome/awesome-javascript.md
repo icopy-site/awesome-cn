@@ -136,7 +136,7 @@
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的 Web 应用程序的 JavaScript 框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单的、无处不在的数据库、在线数据、纯 JavaScript Web 框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代 DOM 操作.
-* [vue](https://github.com/vuejs/vue) - 用于构建交互式界面的直观、快速和可组合的 MVVM.
+* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 * [svelte](https://github.com/sveltejs/svelte)  - Svelte 是一种构建 Web 应用程序的新方法. 它是一个编译器，它获取你的声明性组件并将它们转换为高效的 JavaScript，从而通过手术方式更新 DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout 使使用 JavaScript 创建丰富的响应式 UI 变得更加容易.
 * [spine](https://github.com/spine/spine) - 用于构建 JavaScript 应用程序的轻量级 MVC 库.
@@ -214,7 +214,7 @@
 * [Matter.js](https://brm.io/matter-js) - 2D 刚体 JavaScript 物理引擎.
 * [Phaser](https://phaser.io) - Phaser - 一个快速、有趣且免费的开源 HTML5 游戏框架.
 * [PixiJS](https://pixijs.com) - HTML5 创建引擎.
-* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL 游戏引擎.
+* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
 
 ## Articles and Posts
 
@@ -247,14 +247,14 @@
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) - 动态 HTML5 可视化.
 * [rickshaw](https://github.com/shutterstock/rickshaw) - 用于创建交互式实时图表的 JavaScript 工具包.
 * [flot](https://github.com/flot/flot) - 用于 jQuery 的有吸引力的 JavaScript 图表.
-* [morris.js](https://github.com/morrisjs/morris.js) - 漂亮的时间序列折线图.
+* [morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
 * [nvd3](https://github.com/novus/nvd3) - 为 d3.js 构建可重复使用的图表和图表组件.
 * [svg.js](https://github.com/wout/svg.js) - 用于操作和动画 SVG 的轻量级库.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - 基于 HTML5 画布的热图的 JavaScript 库.
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - jQuery JavaScript 库的插件，可直接在浏览器中生成小型迷你图.
 * [trianglify](https://github.com/qrohlf/trianglify) - 带有 d3.js 的低聚风格背景生成器.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - 在 JavaScript 中创建词云.
-* [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+* [d4](https://github.com/heavysixer/d4) - 适用于 D3 的友好可重用图表 DSL.
 * [dimple.js](http://dimplejs.org) - 由 d3 提供支持的用于业务分析的简单图表.
 * [chartist-js](https://github.com/gionkunz/chartist-js) - 简单的响应图表.
 * [epoch](https://github.com/epochjs/epoch) - 一个通用的实时图表库.
@@ -389,7 +389,7 @@
 * [ms.js](https://github.com/rauchg/ms.js) - 微小的毫秒转换实用程序.
 * [countdown.js](https://github.com/gumroad/countdown.js) - 超级简单的倒计时.
 * [timeago.js](https://github.com/hustcc/timeago.js) - 简单的库（小于 2kb）用于使用 `*** time ago` 语句格式化日期.
-* [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
+* [fecha](https://github.com/taylorhakes/fecha)  - 轻量级日期格式化和解析 (~2KB). 旨在替换 moment.js 的解析和格式化功能.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代 JavaScript 日期实用程序库.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - 建立在谷歌地图之上的浏览器倒计时.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB 不可变日期库替代 Moment.js 具有相同的现代 API.
@@ -473,7 +473,7 @@
 * [contra](https://github.com/bevacqua/contra/) - 具有功能性的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - 功能齐全的承诺库，专注于创新功能和性能.
 * [when](https://github.com/cujojs/when) - 一个可靠、快速的 Promises/A+ 和 when() 实现，以及其他异步好东西.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供一个原型，添加对事件监听器的支持（与浏览器上可用的 DOMElements 中的 EventTarget 具有相同的行为）.
 * [sporadic](https://github.com/marcoonroad/sporadic) - 在 Promise 之上，用于 Node 和浏览器引擎的可组合并发抽象（例如流、协程和类似 Go 的通道）.
 
 
@@ -506,7 +506,7 @@
 
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript)  - JavaScript 的在线正则表达式测试器和调试器. 还支持 Python、PHP 和 PCRE.
-* [RegExr](https://regexr.com/) - 基于 HTML/JS 的工具，用于创建、测试和学习正则表达式.
+* [RegExr](https://regexr.com/) - HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 
 
 ## Voice Command
@@ -623,7 +623,7 @@
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能游览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将焦点放在 DOM 元素上，将覆盖层添加到页面的其余部分.
-* [driver.js](https://github.com/kamranahmedse/driver.js) - 强大而轻量级的原生 JavaScript 引擎，可将用户的注意力集中在整个页面上
+* [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## Notifications
 
@@ -701,9 +701,9 @@
 
 ### File Uploader
 
-* [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - 文件上传小部件，具有多个文件选择、拖放支持、进度条、验证和预览图像、jQuery 音频和视频.
+* [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - 具有多个文件选择、拖放支持、进度条、验证和预览图像、jQuery 音频和视频的文件上传小部件.
 * [dropzone](https://github.com/enyo/dropzone)  - Dropzone 是一个易于使用的拖放库. 它支持图像预览并显示漂亮的进度条.
-* [flow.js](https://github.com/flowjs/flow.js) - 一个 JavaScript 库，通过 HTML5 File API 提供多个同时、稳定、容错和可恢复/可重启的文件上传.
+* [flow.js](https://github.com/flowjs/flow.js) - 一个 JavaScript 库，通过 HTML5 File API 提供多个同时、稳定、容错和可恢复/可重新启动的文件上传.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) - 具有进度条、拖放、直接到 S3 上传的多文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  - 一组用于处理文件的 JavaScript 工具. 多重上传、拖放和分块文件上传. 图像：通过 EXIF 裁剪、调整大小和自动定位.
 * [plupload](https://github.com/moxiecode/plupload) - 用于处理文件上传的 JavaScript API，它支持多个文件选择、文件类型过滤、请求分块、客户端图像缩放等功能，并且它使用不同的运行时来实现这一点，例如 HTML 5、Silverlight 和 Flash.
@@ -752,7 +752,7 @@
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) - 一个简单而快速的 API，用于在您滚动时监控元素.
 * [headroom](https://github.com/WickyNilliams/headroom.js)  - 给你的页面一些空间. 隐藏你的标题，直到你需要它.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用 One Page Scroll 插件创建类似 Apple 的一页滚动网站（iPhone 5S 网站）.
-* [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform JavaScript scroller.
+* [iscroll](https://github.com/cubiq/iscroll) - iScroll 是一款高性能、占用空间小、无依赖、多平台的 JavaScript 滚动器.
 * [skrollr](https://github.com/Prinzhorn/skrollr)  - 用于移动（Android + iOS）和桌面的独立视差滚动库. 没有 jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出反应的视差引擎.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - 视差滚动变得容易.
@@ -802,7 +802,7 @@
 ## Boilerplates
 
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一个专业的前端模板，用于构建快速、健壮和适应性强的 Web 应用程序或网站.
- * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
+ * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - 一个前端模板，可帮助您构建快速、现代的移动 Web 应用程序.
  * [webplate](https://github.com/chrishumboldt/webplate) - 一个很棒的前端框架，让您专注于构建您的网站或应用程序，同时保持非常易于使用.
  * [Cerberus](https://github.com/TedGoas/Cerberus)  - 一些简单但可靠的响应式 HTML 电子邮件模式. 即使在 Outlook 中.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) - 一个带有全宽背景图像的介绍页面，一个大胆的动画菜单和导航后面的类似 iOS 的模糊效果.
@@ -810,6 +810,7 @@
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) - 移动优先响应式网页设计示例.
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - 这是响应式的.
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) 使用 NPM 运行脚本实现任务自动化.
+ * [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## Images
 
@@ -843,7 +844,7 @@
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
  <https://flowplayer.com/>
- * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有模仿 HTML5 MediaElement API 的 Flash 和 Silverlight 垫片的播放器，可在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有 Flash 和 Silverlight 垫片的播放器，模仿 HTML5 MediaElement API，在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使在网络上处理音频更容易的库. 它为在不同浏览器中播放音频提供了一致的 API.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于流体宽度视频嵌入.
@@ -899,7 +900,7 @@
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - 带有滤镜和实用功能的图像处理库.
 * [pica](https://github.com/nodeca/pica) - 高质量图像调整大小（使用快速 Lanczos 过滤器，在纯 JS 中实现）.
-* [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [cropper](https://github.com/fengyuanchen/cropper) - 一个简单的 jQuery 图像裁剪插件.
 
 ## ES6
 
@@ -960,7 +961,6 @@ https://listjs.com
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - 关于 JavaScript 和 Web 平台的实时视频广播播客.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - 面向初学者的 JavaScript 播客.
-* [JavaScript Jabber](https://devchat.tv/show/javascript-jabber) - 关于 JavaScript 的每周播客，包括 Node.js、前端技术、职业、团队等.
 
 ## Worth Reading
 

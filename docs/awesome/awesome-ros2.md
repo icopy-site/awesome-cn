@@ -6,7 +6,7 @@
 
 &gt; 精选的机器人操作系统版本 2.0 (ROS 2) 资源和库的精选列表.
 
-机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 拥有您下一个机器人项目所需的一切. 而且它都是开源的.
+机器人操作系统 2 (ROS 2) 是一组软件库和工具，可帮助您构建机器人应用程序. 从驱动程序到最先进的算法，再加上强大的开发工具，ROS 2 可以满足您下一个机器人项目的需求. 而且它都是开源的.
 
 
 
@@ -52,7 +52,7 @@
 - [rosbag2](https://github.com/ros2/rosbag2) - ROS2 原生 rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
 - [rviz](https://github.com/ros2/rviz) - 3D 机器人展示台. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
 - [urdfdom](https://github.com/ros2/urdfdom) - URDF（U-Robot 描述格式）库，提供核心数据结构和简单的 XML 解析器 ![urdfdom](https://img.shields.io/github/stars/ros2/urdfdom.svg)
-- [urdfdom_headers](https://github.com/ros2/urdfdom_headers) - URDF 解析器的标头. ![urdfdom_headers](https://img.shields.io/github/stars/ros2/urdfdom_headers.svg)
+- [urdfdom_headers](https://github.com/ros2/urdfdom_headers) - Headers for URDF parsers. ![urdfdom_headers](https://img.shields.io/github/stars/ros2/urdfdom_headers.svg)
 - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 命令行工具. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos 运动学和动力学 C++ 库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - 用于 Vortex Lite 和 OpenSplice 的简单 DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
@@ -104,6 +104,7 @@
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters 根据过滤器需要满足的条件混合各种消息，并源自 ROS message_filters 的 ROS2 移植. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - 用于 Tensorflow 中计算机视觉任务的 ROS2 节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - PyTorch 中用于计算机视觉任务的 ROS2 节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
+- [ros2_pytorch_cuda](https://github.com/slabban/ros2_pytorch_cuda) - 的扩展 [ros2_pytorch](https://github.com/klintan/ros2_pytorch) 用于容器化的 CUDA 设备.
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) - ROS2 的 PID 控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - ROS 2 和 micro-ROS 的系统模式.
 - [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - 用于部署 Darknet 的 YOLO 计算机视觉模型的 ROS2 包装器.
@@ -232,7 +233,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) - NuttX 官方分支，用于 micro-ROS.
-- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT 是一种实时多线程操作系统 (...,) 实时功能，内存占用小，(...) API 提供部分 POSIX 合规性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT 是一个实时多线程操作系统 (...,) 实时功能，内存占用小，(...) API 提供部分 POSIX 合规性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - 面向多核处理器的符合 POSIX 标准的实时操作系统，预计未来将支持 AUTOSAR.
 - [PYNQ](http://www.pynq.io/) - 在 XILINX FPGA 上运行的高性能 ML 应用程序的基于 Python 的快速原型设计.
 - [ReconROS](https://github.com/Lien182/ReconROS)  - 基于 ROS2 FPGA 的硬件加速框架. 基于 [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
@@ -267,7 +268,7 @@
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - ROS2 Ardent 软件包的状态.
 - [ROS2 Buildfarm](http://build.ros2.org) - 构建信息（Jenkins 构建农场）.
 - [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - ROS 2 命令行界面的备忘单.
-- [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - 一系列用于提高包质量、遵循 REP-2004 质量标准和集成持续集成的指南和教程.
+- [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - 一系列用于提高包质量的指南和教程，遵循 REP-2004 质量标准并集成持续集成.
 
 ## Community
 
@@ -329,7 +330,7 @@
 
 - 动手 ROS 2：演练
 - 自动驾驶车辆上的 ROS 2
-- RViz – 迁移到 ROS 2.0 的故事
+- RViz – The tale of a migration to ROS 2.0
 - 启动 ROS 2
 - 参与 ROS 2 开发
 - 计划计划：插件一直向下
@@ -337,7 +338,7 @@
 - Arm DDS 安全库：为 ROS2 添加安全安全性
 - ROS2：为 Jaguar4x4 增压
 - 性能测试 - 一种通信中间件性能测量工具
-- ROS2 for Android, iOS and Universal Windows Platform：展示ROS2的可移植性，以及跨平台和跨语言能力
+- ROS2 for Android, iOS and Universal Windows Platform：展示ROS2的可移植性，以及跨平台和跨语言的能力
 - 在基于嵌入式异构平台的混合关键机器人系统上集成 ROS 和 ROS2
 - 迈向 ROS 2 微控制器元交叉编译
 - 为 ROS 2.0 准备的 Node.js 客户端和 Web 桥
@@ -354,7 +355,7 @@
 ### ROS Industrial Conference 2017
 
 - 微型机器人操作系统：用于高度资源受限设备的 ROS [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
-- ROS2 - it's coming [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
+- ROS2 - 它来了 [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
 
 ### ROSCon 2017
 
@@ -428,7 +429,7 @@ DDS 安全.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - 机器人和辅助系统.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - 智能自动化服务提供商.
 - [Husarnet](https://husarnet.com) - 机器人专用的开源、P2P、低延迟VPN.
-- [iRobot](https://www.irobot.de/) - Manufacturer of vacuuming and mopping robots.
+- [iRobot](https://www.irobot.de/) - 吸尘和拖地机器人制造商.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS 工具箱.
 - [Mission Robotics](https://missionrobotics.us/) - 海洋智能新时代的硬件和软件.

@@ -24,6 +24,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - 一个纯向量数学库
  * [crystalg](https://github.com/tobyapi/crystalg) - 通用算法库
  * [crystalline](https://github.com/jtomschroeder/crystalline) - 容器和算法的集合
+ * [csuuid](https://github.com/wyhaines/csuuid.cr) - 按时间顺序排序的 UUID
  * [edits.cr](https://github.com/tcrouch/edits.cr) - 编辑距离算法的集合
  * [fzy](https://github.com/hugopl/fzy) - 令人敬畏的 Fzy 项目模糊查找算法的水晶端口
  * [graphlb](https://github.com/mettuaditya/graphlb) - 图数据结构和算法的集合
@@ -35,6 +36,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [qr-code](https://github.com/spider-gazelle/qr-code) - 二维码生成器
  * [radix](https://github.com/luislavena/radix) - 基数树实现
  * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) 用于空间索引
+ * [secure-remote-password](https://github.com/spider-gazelle/secure-remote-password) - SRP-6a 协议，用于在不安全的网络上进行身份验证
  * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - 符合 Hash 鸭类型的 Splay Tree 实现
 
 ## Blockchain
@@ -57,7 +59,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - OpenBSD 的 `pledge(2)` 的绑定
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - libssh2 库的绑定
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - `syslog` 的绑定
- * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
+ * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) - `wasmer` WebAssembly 运行时的绑定
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - libxdo 的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
@@ -189,7 +191,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Exception Page](https://github.com/crystal-loot/exception_page) - Crystal Web 库和框架的例外页面
  * [graphql](https://github.com/graphql-crystal/graphql) - 类型安全 [GraphQL](http://graphql.org) 服务器实现
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) 执行
- * [kemal-session](https://github.com/kemalcr/kemal-session) - 凯末尔的会话交易
+ * [kemal-session](https://github.com/kemalcr/kemal-session) - Kemal 的会话处理程序
  * [mochi](https://github.com/awcrotwell/mochi) - 受设计支持启发的身份验证分片：可验证、可确认、可邀请等
  * [motion.cr](https://github.com/awcrotwell/motion.cr) - 面向对象的 Amber 前端库
  * [multi-auth](https://github.com/msa7/multi_auth) - 标准化的多提供者 OAuth2 身份验证（受omniauth 启发）
@@ -264,7 +266,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - 人工智能（基于 https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/cadmiumcr/cadmium) - 大量基于 NLP 库 [natural](https://github.com/NaturalNode/natural)
- * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN（快速人工神经网络）绑定
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) - 绑定 [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet（纯晶体中的神经网络）
 
@@ -292,7 +294,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [port_midi](https://github.com/jimm/crystal_port_midi) - PortMIDI 跨平台 MIDI I/O 库的 Crystal C 绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 重试失败代码块的简单 DSL
  * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) - 用于构建 Serf 处理程序的框架，具有一套有用​​的内置功能
- * [simple_retry](https://github.com/spider-gazelle/simple_retry) - 重试失败代码块的简单工具
+ * [simple_retry](https://github.com/spider-gazelle/simple_retry) - Simple tool for retrying failed code blocks
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) - 包裹 rbsec/sslscan 实用程序的水晶碎片
  * [version_tools](https://github.com/anicholson/crystal-version-tools) - 版本相关的行为，在编译时指定
  * [wafalyzer](https://github.com/NeuraLegion/wafalyzer) - Web 应用程序防火墙 (WAF) 检测器 - shard + cli
@@ -307,7 +309,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS 协议实现和解析器
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  - JSON-socket 客户端和服务器实现. 灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - 一个 MQTT 客户端
- * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
+ * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本 1、2c 和 3 的 SNMP 实施
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
  * [jwt](https://github.com/crystal-community/jwt) - JWT（JSON Web Token）的实现
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS 服务发现和多播 DNS
@@ -439,7 +441,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Validation
  * [accord](https://github.com/neovintage/accord) - Crystal Objects 的可共享验证库
  * [Athena Validator](https://github.com/athena-framework/validator) - 强大而灵活的验证框架
- * [validations](https://github.com/vladfaust/validations.cr) - 验证混合
+ * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
  * [validator](https://github.com/Nicolab/crystal-validator) - 数据检查和验证
 
 ## Web Frameworks
