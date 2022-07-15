@@ -81,7 +81,7 @@
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - Firebase 远程配置的本机插件.
 - [Flipper](https://github.com/capacitor-community/flipper) - 鳍状肢调试器的本机插件.
 - [Geolocation react](https://github.com/capacitor-community/geolocation-react) - React Hooks for Capacitor GeoLocation 插件.
-- [Http](https://github.com/capacitor-community/http) - 用于无 CORS 请求和文件传输的本机 HTTP 插件.
+- [Http](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
 - [Intercom](https://github.com/capacitor-community/intercom) - 为电容器应用程序启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止您的屏幕进入睡眠状态.
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard 插件.
@@ -113,6 +113,7 @@
 独立插件在此处列出.
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的无线更新.
+- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - 在您的应用中获取 Apple Pay 付款
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency)  - 请求用户授权访问应用相关数据以跟踪用户或设备. 仅限 iOS.
 - [Background tasks](https://github.com/robingenz/capacitor-background-task) - 用于运行后台任务的本机插件.
 - [Badge](https://github.com/robingenz/capacitor-badge) - 访问和更新应用程序图标的徽章编号.
@@ -146,6 +147,7 @@
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - 通过免费、开源的 Jitsi 视频平台进行视频通话.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - 获取设备上的照度级别.
 - [Mute](https://github.com/riderx/capacitor-mute) - 检测静音模式和静音音频.
+- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - 本机正向和反向地理编码.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - 打开本机设置屏幕.
 - NativeScript
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - 使用原生 API 为电容器赋能.
@@ -163,7 +165,7 @@
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 用于电容器的条纹端子插件.
 - [Sprig](https://github.com/crabbydavis/sprig) - 多合一的产品研究平台.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - 为电容器启用方形付款.
-- [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
+- [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp 移动 SDK.
 - [UDP](https://github.com/brugsel/capacitor-udp) - 支持 IPv6 和 IPv4，组播和广播.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - 在 IOS、Android、Web 和 Electron 平台上全屏播放视频.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - 用于电容器的 Zalo 登录插件.
@@ -171,7 +173,7 @@
 - [Android dark mode](https://github.com/robingenz/capacitor-android-dark-mode-support) - 电容插件，支持 Android 上的暗模式.
 - [Native updates](https://github.com/robingenz/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/robingenz/capacitor-file-picker) - 允许用户选择文件的电容器插件.
-- [Managed configuratio](https://github.com/robingenz/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
+- [Managed configuratio](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 - [Photo editor](https://github.com/robingenz/capacitor-photo-editor) - 电容器插件，允许用户编辑照片.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - 从系统相册中获取所有图像.
 
@@ -189,7 +191,7 @@
 
 - [How Capacitor Works](https://capacitorjs.com/blog/how-capacitor-works) - Capacitor 采用现代 Web 应用程序，然后将其打包以在 iOS、Android 和 PWA 上运行.
 - [Creating Plugins](https://capacitorjs.com/docs/plugins/creating-plugins) - 本指南将帮助您开始创建将在 npm 上发布的可共享电容器插件.
-- [Creating Splash Screens and Icons](https://capacitorjs.com/docs/guides/splash-screens-and-icons) - Use cordova-res to generate resource images for native projects.
+- [Creating Splash Screens and Icons](https://capacitorjs.com/docs/guides/splash-screens-and-icons) - 使用 cordova-res 为原生项目生成资源图像.
 - [App Deployment and Realtime Updates](https://capacitorjs.com/docs/guides/deploying-updates) - 通过应用商店远程更新您的电容器应用程序.
 - [CI/CD for Capacitor Apps](https://capacitorjs.com/docs/guides/ci-cd) - 将移动 CI/CD 添加到您的电容器应用程序开发过程中.
 - [Data Storage in Capacitor](https://capacitorjs.com/docs/guides/storage) - 在电容器中存储少量到大量数据.
@@ -213,7 +215,7 @@
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - 说明为什么将电容器应用称为“非本地”是不准确且令人困惑的术语.
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用中设置 Capacitor-updater 以向您的用户无缝发布更新.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 使用 GitHub 操作免费创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
 
 
 ### Books

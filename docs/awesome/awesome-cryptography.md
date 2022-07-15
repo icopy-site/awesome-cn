@@ -36,7 +36,7 @@
 
 #### Transform Encryption
 
-- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - 转换加密使用三个数学相关的密钥：一个用于将明文加密给收件人，第二个用于解密密文，第三个用于转换加密给一个收件人的密文，以便其他收件人可以解密.
+- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - 转换加密使用三个在数学上相关的密钥：一个用于将明文加密给收件人，第二个用于解密密文，第三个用于转换加密给一个收件人的密文，以便其他收件人可以解密.
 
 #### Hash functions
 
@@ -61,7 +61,7 @@
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - 从现代计算机科学的角度编写的密码学入门级处理.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于 OpenSSL 的书.
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 开发人员友好的现代密码学书籍（哈希、MAC 码、对称和非对称密码、密钥交换、椭圆曲线、数字签名），包含大量代码示例.
-- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用密码技术来理解和应用系统和应用程序各个级别的安全性.
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术来理解和应用系统和应用程序各个级别的安全性.
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）写了一本非凡的教科书.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) - Jean-Philippe Aumasson 的现代加密实用介绍.
 - [The Code Book](https://simonsingh.net/books/the-code-book/)  - 这本书是密码学历史的摘要，涵盖了古代和较新的密码学方法. 最后有练习，解决这些问题的奖励是 10.000 美元.
@@ -72,7 +72,7 @@
 
 - [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) - 本文试图以一种学生可以用来学习密码分析技术和破解算法的方式来组织现有的分组密码密码分析文献，作者 Bruce Schneier.
 - [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)  - 密码学存在于日常生活中，从使用信用卡支付到使用电话. 了解有关在计算中制作和破解难题的所有信息.
-- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - 本演讲将涵盖广泛部署的系统中的加密漏洞，以及最小的疏忽如何导致灾难.
+- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - 本次演讲将涵盖广泛部署的系统中的加密漏洞，以及最小的疏忽如何导致灾难.
 - [Cryptography](https://www.coursera.org/learn/cryptography) - 马里兰大学帕克分校的密码学实用课程.
 - [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography)  - 本课程解释密码原语的内部工作原理以及如何正确使用它们. 学生将学习如何推理密码结构的安全性以及如何将这些知识应用于实际应用.
 - [Cryptography I](https://www.coursera.org/learn/crypto)  - 本课程首先详细讨论了当强大的对手窃听和篡改流量时，拥有共享密钥的两方如何安全通信. 我们将检查许多已部署的协议并分析现有系统中的错误.
@@ -112,7 +112,7 @@
 
 ### Playgrounds
 
-- [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - 一个简单的网络工具，用于玩和学习密码学的基本概念，如散列、对称、非对称、zkp 等.
+- [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - 一个简单的网络工具，可以玩和学习密码学的基本概念，如散列、对称、非对称、zkp 等.
 
 ## Frameworks and Libs
 
@@ -160,7 +160,7 @@
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - 加密 API.
 - [clj-crypto](https://github.com/macourtney/clj-crypto/) - 充气城堡的包装.
 - [pandect](https://github.com/xsc/pandect) - Clojure 的快速且易于使用的消息摘要、校验和和 HMAC 库.
-- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（例如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
+- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - 一个 Clojure 库，旨在生成适用于管理数据（如密码、帐户身份验证、安全令牌和相关机密）的加密强随机数.
 
 ### Common Lisp
 
@@ -196,10 +196,10 @@
 
 - [crypto](https://golang.org/pkg/crypto/) - 官方网站资源.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - 加密安全的在线投票.
-- [dedis/crypto](https://github.com/dedis/crypto) - Go 语言的高级加密库.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - 将 Google 的 Keyczar 密码库移植到 Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Practical Crypto with Go 书的示例源代码.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [kyber](https://github.com/dedis/kyber) - Go 语言的高级加密库.
 
 
 ### Haskell
@@ -226,7 +226,7 @@
 - [cryptojs](https://github.com/gwjjeff/cryptojs) - 为 Node.js 提供标准和安全的加密算法.
 - [forge](https://github.com/digitalbazaar/forge) - JavaScript 中 TLS 的本机实现以及用于编写基于加密和网络密集型 Web 应用程序的工具.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于对用户或组进行加密，并轻松为 Node.js 应用程序添加强大的数据控制.
-- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，代理重新加密的一种变体，用于在浏览器中轻松安全地管理端到端加密.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - 转换加密库，一种代理重新加密的变体，用于在浏览器中轻松安全地管理端到端加密.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library 为 Web 开发人员提供了一套广泛而高效的加密功能.
 - [js-nacl](https://github.com/tonyg/js-nacl) - 用于 Emscripten 编译的 libsodium 例程的纯 JavaScript 高级 API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行 OpenSSL RSA 加密、解密和密钥生成的 JavaScript 库.
@@ -324,7 +324,7 @@ algorithm.
 
 ### R
 
-- [rscrypt](https://github.com/rstudio/rscrypt) - 用于 scrypt 加密函数集合的包.
+- [rscrypt](https://github.com/rstudio/rscrypt) - 用于 scrypt 加密功能集合的软件包.
 
 ### Ruby
 
@@ -336,7 +336,7 @@ algorithm.
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - 是 BLAKE3 加密哈希函数的官方 Rust 和 C 实现.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
-- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码学库，难以误用、符合人体工程学且性能卓越.
+- [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 密码库，它难以误用、符合人体工程学且性能卓越.
 - [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互身份验证的 Rust 库.
 - [octavo](https://github.com/libOctavo/octavo) - 高度模块化和可配置的哈希和加密库.
 - [orion](https://github.com/orion-rs/orion)  - 是一个用纯 Rust 编写的密码库. 它旨在提供简单易用的加密货币，同时尽量减少不安全代码的使用.
@@ -395,7 +395,7 @@ algorithm.
 
 ### Web-sites
 
-- [Applied Crypto Hardening](https://bettercrypto.org/) - 准备好使用最佳实践示例来保护 Web 服务器等.
+- [Applied Crypto Hardening](https://bettercrypto.org/) - 大量准备好使用最佳实践示例来保护 Web 服务器等.
 - [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - Reddit 上讨论的最活跃加密货币的仪表板.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange 是一个面向软件开发人员、数学家和其他对密码学感兴趣的人的问答网站.
 - [Cryptohack](https://cryptohack.org/) - 一个具有许多交互式密码学挑战的平台，类似于 Cryptopals.
@@ -404,7 +404,7 @@ algorithm.
 - [IACR](https://www.iacr.org/) - 国际密码学研究协会是一个非营利性科学组织，其目的是进一步研究密码学和相关领域.
 - [Learn Cryptography](https://learncryptography.com/) - 致力于帮助人们了解他们每天使用加密系统的方式和原因，而没有意识到保护和保护他们的隐私的工作.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - 此 subreddit 旨在围绕强密码学的理论和实践进行链接和讨论.
-- [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - 一组用 TikZ 绘制的常用密码函数框图，用于用 LaTeX 编写的研究论文和演示文稿.
+- [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - 在 TikZ 中绘制的常用加密函数的框图集合，用于用 LaTeX 编写的研究论文和演示文稿.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - 本规范描述了用于在 Web 应用程序中执行基本加密操作的 JavaScript API，例如散列、签名生成和验证以及加密和解密.
 
 ## Contributing

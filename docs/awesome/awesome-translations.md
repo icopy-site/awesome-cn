@@ -29,7 +29,7 @@
 - [SimpleLocalize](https://simplelocalize.io) - 软件项目的简单翻译管理.
 - [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接传递到您的源代码.
 - [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
-- [Tolgee](https://tolgee.io) - 开源、开发人员和翻译人员友好的平台，使用户能够直接在他们开发的应用程序中进行翻译.
+- [Tolgee](https://tolgee.io) - 开源、开发人员和翻译友好的平台，使用户能够直接在他们开发的应用程序中进行翻译.
 - [Lokalise](https://lokalise.com/) - 开发人员的翻译平台.
 
 ## Apps
@@ -60,7 +60,7 @@
 - [Bergamot](https://github.com/browsermt) - 浏览器中的客户端翻译.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python 国际化 (i18n) 包.
 - [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - 旨在帮助团队轻松本地化网站的技术.
-- [attranslate](https://github.com/fkirc/attranslate) - 用于跨平台应用程序或网站的半自动翻译工具.
+- [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 - [Polyglot](https://github.com/untra/polyglot) - Jekyll 博客的快速、轻松、开源的国际化插件.
 - [Globalize](https://github.com/globalizejs/globalize) - 利用官方 Unicode CLDR JSON 数据进行国际化和本地化的 JavaScript 库.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - 用于在项目文件中查找翻译键的 CLI.
@@ -81,14 +81,15 @@
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - 一篇关于机器翻译不同技术的论文评论.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611)  - 一篇论文回顾，将现代 NMT 架构的起源追溯到单词和句子嵌入以及编码器-解码器网络系列的早期示例. 它将以对该领域最新趋势的简短调查结束.
 - [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - 什么是“hreflang”属性以及它如何影响您的 SERP.
-- [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
+- [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/)  - 实时预览翻译在您的移动应用程序或网络中的外观. 无需等待下一次部署.
+- [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - 关于来自 Crowdin 的 l10n 和 I18n 之间区别的博客文章.
 
 ## Blogs
 
-- [Speakt](https://speakt.com/blog/) - 全面的资源，提供业内最优秀的专业人士提供的有关翻译的所有方面的深入信息.
+- [Speakt](https://speakt.com/blog/) - 全面的资源，提供业内最优秀的专业人士提供的有关翻译相关一切的深入信息.
 - [Lexico](https://www.lexico.com/)  - 提供英语和西班牙语词典的集合，以及对许多单词和语言的好奇心（在“探索”部分）. 它由牛津大学出版社出版.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - 包含适合初学者翻译的好技巧.
-- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家运营. 您可以收听音频文件，其中包含他们对自由译者工作的提示和意见.
+- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家运营. 您可以收听包含他们对自由译者工作的提示和意见的音频文件.
 - [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德英译者 Jayne Fox 经营. 它讨论了翻译人员的持续专业发展 (CPD) 以及使用技术（尤其是 CAT 工具/TEnT）来支持他们的工作.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - 对本地化管理、协作翻译平台、翻译管理系统、机器翻译以及本地化行业的最大参与者进行了极其详细的描述和意见.
 

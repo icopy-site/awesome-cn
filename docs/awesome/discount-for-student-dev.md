@@ -5,7 +5,7 @@
 这份清单的灵感来自于 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
 您可以通过发送拉取请求来添加更多服务来提供帮助. 请阅读 [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) 第一的.
-一旦我在这个 README 文件中有一组好的链接，我将研究一个更好的信息和链接布局（也很感激帮助）.
+Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
 如果你不想做 PR，你可以发推特给我 [@acho_arnold](https://twitter.com/acho_arnold)!
 
@@ -90,7 +90,7 @@
 
 * [Blackfire.io](https://www.blackfire.io/students)  [免费] - 代码性能测量工具. 查找并修复瓶颈.为学生提供免费的 Profiler 订阅.
 
-* [Codecov](https://about.codecov.io/for/education/) [免费] - Codecov 可以轻松实现代码覆盖以开发更健康的代码.免费访问公共和私人存储库上的 Codecov.
+* [Codecov](https://about.codecov.io/for/education/) [免费] - Codecov 可以轻松实现代码覆盖以开发更健康的代码.在公共和私人存储库上免费访问 Codecov.
 
 * [AcessLint](https://education.github.com/pack/redeem/accesslint-student) [免费] - AccessLint 将自动化的 Web 可访问性测试带入您的开发工作流程.当您还是学生时，可无限使用公共和私有存储库.
 
@@ -177,7 +177,7 @@
 
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/)  - Microsoft Azure 是一组不断扩展的云服务，可帮助您构建、管理和部署应用程序. 通过学习云计算技能提升您的想法，并使用免费的 Azure for Students 帐户获得 100 美元的信用额度——无需信用卡.
 
-* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
+* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [免费] - Kaltura VPaaS 简化了在全球范围内构建智能、交互式 VOD、实时和实时视频体验和应用程序.当您还是学生时，每年 10,000 美元的 Kaltura VPaaS 积分.
 
 * [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，具有许多开箱即用的支持语言和 Docker 支持. 每个人 100 美元的免费积分 + 学生计划每年 1000 美元的免费积分（询问 support@flashdrive.io）
 
@@ -217,11 +217,11 @@
 
 * [SQLSmash](https://student.sqlsmash.com/) [免费] - SQL Server Management Studio 的生产力插件，用于编写可维护的 SQL 脚本和更快的导航.为学生提供免费标准许可证.
 
-* [PushBots](https://pushbots.com/for/education/)  [免费] - 通过推送通知吸引您的移动和网络应用用户的最简单方法. 免费高级帐户 6 个月.
+* [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
 
 * [EverSQL](https://www.eversql.com/github-students/) [免费] - 通过自动优化您的 SQL 查询来提高您的数据库性能.免费 6 个月订阅基本计划
 
-* [Weglot](https://weglot.com/github-students/) [FREE] - Make any website multilingual and manage your translations through a single platform.Free 1-year Pro Plan giving you access to unlimited languages + up to 200k translated words.
+* [Weglot](https://weglot.com/github-students/) [免费] - 使任何网站成为多语言并通过单一平台管理您的翻译.免费的 1 年专业计划让您可以访问无限的语言 + 多达 20 万个翻译单词.
 
 * [LingoHub](https://education.github.com/pack/redeem/lingohub) [免费] - 适用于网络、桌面和移动应用程序的翻译管理服务.免费的专业计划，包含 10,000 个学生文本段.
 
@@ -257,7 +257,7 @@
 
   * [NameCheap](https://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年的域名，在 .io、.tech、.com 和 .website 上注册可享受大幅折扣. 包括可选的免费一年托管 Ghost 博客平台或 Exposure 照片网站.
 
-* [.tech](https://get.tech/students) [折扣] - 以 0.99 美元的价格在 .tech TLD 上注册一年，推荐免费续订.
+* [.tech](https://get.tech/students) [折扣] - .tech TLD 注册一年，只需 0.99 美元，推荐免费续订.
 
 * [name.com](https://www.name.com/partner/github-students) [免费] - 域名、虚拟主机和网站. 一个免费域名和免费高级安全（SSL、隐私保护等），通过 [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -268,13 +268,13 @@
 
 * [Shodan](https://www.shodan.io/)  [FREE / CREDIT] - 免费升级（通常为 49 美元）以完全访问 shodan 必须提供的所有内容 + 100 出口信用. 注册时只需使用您的学术电子邮件地址.
 
-* [Cryptolens](https://app.cryptolens.io/user/githubstudent) [免费] - 安全地许可和销售您的软件.10 个许可证和任意数量的最终用户免费为学生提供.
+* [Cryptolens](https://app.cryptolens.io/user/githubstudent) [免费] - 安全地许可和销售您的软件.10 个许可和任意数量的最终用户免费为学生提供.
 
 * [Termius](https://termius.com/education)  [免费] - 适用于桌面和移动设备的 SSH 客户端.  Termius 在您的所有设备上安全地同步数据. 在您是学生时免费使用高级计划.
 
 * [Astra](https://www.getastra.com/github-student-developer-pack) [免费] - 您网站的安全套件 - 防火墙、恶意软件扫描程序和托管漏洞赏金平台.6 个月访问网站防火墙和恶意软件扫描程序.
 
-* [BrowserStack](https://www.browserstack.com/github-students) [免费] - 使用 BrowserStack 的 Real Device Cloud 测试您的 Web 应用程序，它让您可以即时访问 2000 多种浏览器以及真正的 iOS 和 Android 设备.1 个并行和 1 个用户的免费自动化移动计划，为期 1 年.
+* [BrowserStack](https://www.browserstack.com/github-students) [免费] - 使用 BrowserStack 的 Real Device Cloud 测试您的 Web 应用程序，它让您可以即时访问 2000 多种浏览器以及真正的 iOS 和 Android 设备.1 个并行和 1 个用户 1 年的免费自动化移动计划.
 
 * [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [免费] - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.免费 LambdaTest 在线计划一年.
 
@@ -293,7 +293,7 @@
 
 * [Framer](https://www.framer.com/pricing/)  [折扣] - 原型制作工具. 获得教育许可证时可享受 50% 的折扣.
 
-* [Vaadin](https://vaadin.com/student-program) [免费] - 用于构建渐进式 Web 应用程序的最佳开源 Java 框架.免费 Pro 订阅许可，可通过以下方式访问商业组件和工具 [Github Student Developer Pack](https://education.github.com/pack).
+* [Vaadin](https://vaadin.com/student-program) [FREE] - Best open source Java framework for building Progressive Web Applications.Free Pro subscription license to access the commercial components and tools via [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## Visual Analytics
@@ -341,7 +341,7 @@
 
 * [1Password](https://www.studentappcentre.com/App/1Password)  - [免费] 6 个月的 1Password 帐户免费.  （此后使用个人帐户每月 3 美元）
 
-* [Dashlane](https://www.dashlane.com/students) [免费] - 为学生提供 1 年免费 Dashlane 高级版，为拥有合格学生电子邮件的新用户和现有用户提供（此后每月 3.33 美元）
+* [Dashlane](https://www.dashlane.com/students) [免费] - 为学生提供 1 年免费 Dashlane 高级版，为具有合格学生电子邮件的新用户和现有用户提供（此后每月 3.33 美元）
 
 * [RoboForm](https://www.roboform.com/promotions/college) [免费] - 第一年对拥有有效学院或大学电子邮件地址的学生和教授免费（此后每年 12 美元）
 
@@ -360,7 +360,7 @@
 
   * [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions)  [免费/折扣] - 订阅提供对 Azure 服务的访问.  Azure for Students 为您提供 12 个月的 100 美元信用额度. 它包括对超过 25 种免费服务的访问，包括计算、网络、存储和数据库. 在此期间产生的任何费用将从信用中扣除.
 
-* [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office) [免费] - 学生和教师免费使用 Microsoft Office 365 软件，包括 Word、Excel、PowerPoint、OneNote 和 Teams.
+* [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
 
 * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [免费] - 免费访问精选的英特尔® 软件开发产品，包括：英特尔® XDK、英特尔® Video Pro Analyzer、英特尔® System Studio、英特尔® Parallel Studio XE Composer 版和英特尔® Parallel Studio XE 集群版（包括 Fortran和 C/C++）.
 
@@ -373,7 +373,7 @@
 
 ## Learning Resources
 
-* [Association of Computing Machinery with Digital Library](https://www.acm.org)  [折扣] - 通常访问 ACM 及其数字图书馆的费用为每年 198 美元，但是，目前 IT 和计算机科学专业的学生每年只需 42 美元即可访问. 数字图书馆允许访问 O&#39;Reilly 的在线学习平台，该平台通常每月花费 39 美元.  O&#39;Reilly 的在线学习平台就像 Netflix，用于学习来自 Pearson、O&#39;Reilly、No Starch Press 等出版商的书籍和视频课程的材料.
+* [Association of Computing Machinery with Digital Library](https://www.acm.org) [折扣] - 通常访问 ACM 及其数字图书馆的费用为每年 198 美元，但是，目前 IT 和计算机科学专业的学生每年只需 42 美元即可访问.
 
 * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)  [免费] - 通过深入的 JavaScript、Node.js 和前端工程课程提高您的技能. 通过这门精彩的课程开始您的全栈开发领域的职业生涯.  6 个月免费访问所有课程和研讨会.
 
@@ -385,7 +385,7 @@
 
 * [SymfonyCasts](https://symfonycasts.com/github-student)  [免费] - 通过视频教程和代码挑战掌握 Symfony 和 PHP. 学生可免费订阅 3 个月. 
 
-* [next.tech](https://next.tech/github-students)  [免费] - 使用真实的在线计算环境直接从您的浏览器中学习技术技能和构建软件. 免费访问所有交互式课程和云计算环境 12 个月.
+* [next.tech](https://next.tech/github-students)  [免费] - 使用真实的在线计算环境直接从浏览器中学习技术技能并构建软件. 免费访问所有交互式课程和云计算环境 12 个月.
 
 * [Educative](https://www.educative.io/github-students)  [免费] - 通过基于文本的交互式课程，按照您自己的进度提升趋势编码技能. 免费获得 6 个月的 60 多门课程，涵盖 Web 开发、Python、Java 和机器学习等热门主题.
 
@@ -395,7 +395,7 @@
 
 * [DataCamp](https://www.datacamp.com/github-students/)  [免费] - DataCamp 帮助公司和个人更好地利用数据. 我们的用户在向世界顶级数据科学家学习的同时建立数据流利度.为学生提供 3 个月的免费个人订阅.
 
-* [Arduino Education](https://www.arduino.cc/education/github-students) [免费] - 为未来的科学家和艺术家提供创意 STEM 程序.免费的 Arduino Create Maker 计划 6 个月和选定硬件的折扣.
+* [Arduino Education](https://www.arduino.cc/education/github-students) [免费] - 为未来的科学家和艺术家提供创意 STEM 程序.免费 Arduino Create Maker 计划为期 6 个月，所选硬件可享受折扣.
 
 * [PomoDone](https://pomodoneapp.com/pomodoro-timer-for-students.html) [免费] - 使用 PomoDone，通过将 Pomodoro 技术应用到您的工作流程来破解和跟踪您的时间并提高您的工作效率 - 消除分心，集中注意力并防止倦怠.PomoDone Lite 计划免费使用 2 年.
 

@@ -31,6 +31,8 @@
 - [qrencode](https://fukuchi.org/works/qrencode) - 生成二维码的命令行工具.
 - [qrap](https://github.com/make-github-pseudonymous-again/qrap) - 为 Wi-Fi 接入点凭据生成 QR 码有效负载.
 - [spqr](https://github.com/make-github-pseudonymous-again/spqr) - 生成用于启动 SEPA 传输的 QR 码有效负载.
+- [qrscan](https://github.com/sayanarijit/qrscan) - 使用系统摄像头或给定图像扫描终端中的二维码.
+- [qrcode.show](https://qrcode.show) - 使用 curl 生成 QR 码.
 
 ## Libraries
 
