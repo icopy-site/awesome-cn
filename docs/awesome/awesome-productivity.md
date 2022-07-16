@@ -12,7 +12,7 @@
 - [Inbox Zero](http://www.43folders.com/izero) - 严格的电子邮件管理方法旨在始终保持收件箱（几乎）为空.
 - [Lifehacker](http://lifehacker.com/) - 用于完成任务的提示、技巧和下载的首选博客.
 - [Pomodoro Technique](http://pomodorotechnique.com/) - 将您的任务分成 25 分钟的包，并在更短的时间内完成更多工作.
-- [r/Productivity](https://www.reddit.com/r/productivity/) -生产力subreddit.
+- [r/Productivity](https://www.reddit.com/r/productivity/) - 生产力 subreddit.
 - [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) - 多年来一直保持桌面清洁的小技巧.
 - [ShortLib](https://shortlib.netlify.app/) - 收集数百个适用于 Windows、Mac 和 Linux 的快捷方式.
 - [The Bullet Journal](http://bulletjournal.com/) - 一种将简单的笔记本变成高效生产力工具的笔和纸方法.
@@ -92,18 +92,20 @@
 - [n8n](https://n8n.io) - 用于连接 Web 服务的开源工作流自动化，并可选择自托管.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈.
 - [Parabola](https://parabola.io) - 拖放工具来构建自定义报告、工作流和集成，以自动化您的手动流程.
-- [Tasker](http://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
+- [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关的自定义任务的 Android 应用程序（_e.g._ 当您到家时自动打开 wifi）.
 - [Zapier](https://zapier.com/) - 自动化工具，可让您连接数百个 Web 服务并在流程之间创建自动化.
 
 ### Password Manager
 
 - [Bitwarden](https://bitwarden.com) - 免费、受信任的密码管理器，可以在线或通过本机应用程序存储、同步和生成密码.
+- [KeePass](https://keepass.info/) - 一个免费、开源、轻量级的密码管理器，具有自动输入、浏览器和插件支持.
 - [LastPass](https://lastpass.com) - 免费增值密码管理器，可在线存储加密密码.
 
 ### Knowledge Management
 
 - [Obie.ai](https://obie.ai/) - 将所有知识和文档集中到一个位置的 AI 平台.
 - [Obsidian.md](https://obsidian.md/)  - 适用于本地 Markdown 文件的知识库工具. 它允许您在不同的笔记之间创建链接.
+- [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 
 ### Miscellaneous
 

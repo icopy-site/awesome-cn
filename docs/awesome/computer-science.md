@@ -104,7 +104,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方的学习了解编程的学生应该参加这门课程，以获得材料的味道. 如果您完成课程想要更多，计算机科学可能适合您！
+本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方学习而被介绍到编程的学生应该参加这门课程，以获得材料的味道. 如果您完成课程想要更多，计算机科学可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -141,7 +141,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)  |  7 周 |  8-10 小时/周 | 没有 | [chat](https://discord.gg/RfqAmGJ)
 [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm)
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码（[Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码 ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3 周 |  4-8 小时/周 | 编程语言，A 部分 | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3 周 |  4-8 小时/周 | 编程语言，B 部分 | [chat](https://discord.gg/8EZUVbA)
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)  |  4 周 |  4 小时/周 | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)
@@ -203,7 +203,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/) ) |  6 周 |  7-13 小时/周 |  - | 类C编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6 周 |  12-18 小时/周 |  - | 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从 Nand 到俄罗斯方块第一部分 [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/OSTEP.md)  |  10-12 周 |  6-10 小时/周 |  - | 强大的C编程| [chat](https://discord.gg/wZNgpep)
+[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)  |  10-12 周 |  6-10 小时/周 |  - | 强大的C编程| [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  8 周 |  4–12 小时/周 | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)  | 代数、概率、基础 CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory

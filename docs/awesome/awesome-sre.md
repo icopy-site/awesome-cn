@@ -276,6 +276,8 @@
 * [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
 * [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
 * [Elastic Observability in SRE and Incident Response](https://www.elastic.co/blog/elastic-observability-sre-incident-response)
+* [Error Budget Policy - Part 1 - Adoption at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policy-adoption-at-expedia-group-7d80d41c4a8b)
+* [Error Budget Policy - Part 2 - Practices at Expedia Group](https://medium.com/expedia-group-tech/error-budget-policies-in-practice-4c98f56a28c1)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
@@ -380,7 +382,7 @@
 * [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
 * [Standardize cloud SLA availability with numerical performance data](https://www.ibm.com/developerworks/cloud/library/cl-SLAloadbalance-numanalysis/)
 * [Best practices to develop SLAs for cloud computing](https://www.ibm.com/developerworks/cloud/library/cl-slastandards/)
-* [A Practical Guide to SLAs](http://blog.catchpoint.com/2016/08/04/sla-practical-guide/)
+* [A Practical Guide to SLAs](https://www.catchpoint.com/blog/sla-management-guide/)
 * [Building good SLOs - CRE life lessons](https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html)
 * [No Grumpy Humans and Other Site Reliability Engineering Lessons from Google](https://thenewstack.io/sre-lessons-google-no-grumpy-humans/)
 * [Consequences of SLO violations — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/consequences-of-SLO-violations-CRE-life-lessons.html)
@@ -512,7 +514,7 @@
 * [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自 SRE 的相关帖子 [dev.to](https://dev.to).
 * [Twitter SRE](https://twitter.com/TwitterSRE) - Twitter SRE 团队的官方 Twitter 帐户.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - SRE Weekly Newsletter 官方推特账号.
-* [USENIX Association](https://twitter.com/usenix) - 官方 USENIX Twitter 帐户.
+* [USENIX Association](https://twitter.com/usenix) - USENIX 官方推特账号.
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - 现场可靠性和生产工程工具的精选列表
