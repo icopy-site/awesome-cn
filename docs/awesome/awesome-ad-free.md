@@ -30,7 +30,7 @@
 - [Signal](https://www.whispersystems.org/) - 适用于桌面、Android 和 iOS 的私人消息传递和呼叫.
 - [Telegram](https://telegram.org/) - 基于云的移动和桌面消息应用程序，专注于安全性和速度.
 - [Tox](https://tox.chat/) - 具有语音、视频和屏幕共享功能的加密和分布式消息传递平台.
-- [Wire](https://wire.com/en/privacy/) - 具有端到端加密的文本、音频和视频通信.
+- [Wire](https://wire.com/en/resources/whitepapers/privacy/) - 具有端到端加密的文本、音频和视频通信.
 - [Write.as](https://write.as/principles) - 博客平台，可让您在不分心的情况下发布想法.
 
 ### File Sharing

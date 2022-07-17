@@ -33,7 +33,7 @@
 - [Gajim](https://gajim.org/)  - XMPP/Jabber 桌面客户端.  ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/)  - 使用 WebRTC 进行安全视频会议和桌面共享.  ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
 - [Mail-in-a-Box](https://mailinabox.email/)  - 易于部署的云计算机邮件服务器包.  ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
-- [Matrix](https://matrix.org/)  - 分散、持久和可互操作通信的开放标准.  ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE))
+- [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 - [Mattermost](https://mattermost.com/)  - Slack 的开源私有云替代方案.  ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/)  - 安全的基于 Web 的电子邮件服务.  ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 - [Ring](https://ring.cx/)  - 通过分布式服务进行电话、电话会议和媒体共享.  ([GNU GPLv3](https://ring.cx/en/about/practical))
@@ -46,6 +46,8 @@
 - [7-Zip](http://7-zip.org/)  - 用于创建和打开压缩文件的文件归档器.  ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
 - [Filestash](http://www.filestash.app)  - 一个类似于 Dropbox 的 Web 客户端，用户可以在其中携带自己的后端（FTP、SFTP、Webdav、S3、Minio 等）.  ([GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 - [FileZilla](https://filezilla-project.org/)  - 通用 FTP 解决方案.  ([GNU GPLv2+](https://filezilla-project.org/license.php))
+- [WinSCP](https://github.com/winscp/winscp) - 适用于 Windows 的 SFTP 和 FTP 客户端（[GNU GPLv3](https://github.com/winscp/winscp/blob/master/license.txt))
+
 
 ### File Sharing
 
@@ -75,7 +77,7 @@
 
 ### Operating Systems
 
-- [Debian](https://www.debian.org/)  - 最早的类 UNIX 操作系统之一，承诺将非自由软件排除在其系统之外.  ([DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
+- [Debian](https://www.debian.org/) - One of the earliest UNIX-like operating systems with a commitment to keeping nonfree software out of its system. ([DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
 - [Devuan](https://devuan.org/)  - 没有 systemd 的 Debian 分支.  ([Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/)  - FSF 认可的 Debian 衍生产品.  （多个许可证）
 - [LineageOS](https://lineageos.org/)  - 适用于手机和平板电脑的 Android 发行版以及 CyanogenMod 的继任者.  （多个许可证）
@@ -85,7 +87,7 @@
 - [Disroot](https://disroot.org/)  - 此列表中许多服务的托管版本.  （多个许可证）
 - [OpenMapTiles](https://openmaptiles.org/)  - 一套开源工具，用于以 50 多种语言自托管 OpenStreetMap 地图. 它为 GIS 程序提供栅格和矢量切片、WMS 和 WMTS 服务，支持 JavaScript 查看器和移动 SDK.  ([BSD](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 - [ZeroNet](https://zeronet.io/)  - 使用比特币密码学和 BitTorrent 网络的去中心化网站.  ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
-- [Simple Mobile Tools](https://simplemobiletools.github.io/) - 带有可自定义小部件的 Android 应用程序，没有烦人的广告和不必要的权限.
+- [Simple Mobile Tools](https://simplemobiletools.github.io/) - 具有可自定义小部件的 Android 应用程序，没有烦人的广告和不必要的权限.
 - [IP2Trace](https://github.com/ip2location/ip2location-traceroute)  - 使用 IP2Location 数据库显示地理位置信息的 traceroute 工具.  ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
 ### Payments
@@ -120,6 +122,7 @@
 - [Sandman](https://alexanderepstein.github.io/Sandman/)  - 根据计算的睡眠周期，让您知道何时关闭计算机和睡眠.  ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector)  - 一个小程序，可将从 Windows 开始菜单或 Cortana 进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/)  - 用于网络故障排除和分析的数据包分析器.  ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
+- [Espanso](https://github.com/federico-terzi/espanso) - 一个跨游戏形式的文本扩展器（[GNU GPLv3](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
   
 ### Video
 
@@ -143,6 +146,7 @@
 - [GitLab](https://about.gitlab.com/installation/)  - 整个代码生命周期的 Git 存储库管理器.  ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [GNU social](https://gnu.io/social/)  - 用 PHP 编写的微博服务器.  ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 - [Gogs](https://gogs.io/)  - 轻量级、跨平台、自托管的 Git 服务.  ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
+- [Healthchecks](https://healthchecks.io/)  - Cron 作业监控服务.  ([BSD 3-clause](https://github.com/healthchecks/healthchecks/blob/master/LICENSE))
 - [Inventaire](https://inventaire.io/welcome)  - 与朋友和社区分享书籍.  ([GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 - [Lobsters](https://lobste.rs/)  - 将聚合和讨论与否决的解释联系起来.  ([BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE))
 - [Mastodon](https://joinmastodon.org/)  - 去中心化的社交网络服务器.  ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
@@ -208,7 +212,7 @@
 ### Events
 
 - [LibrePlanet](https://libreplanet.org/) - 自由软件年度会议.
-- [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
+- [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) - 一年一度的全球自由软件庆祝活动，旨在提高人们对自由软件及其优点的认识.
 
 ### Licensing
 
@@ -223,7 +227,7 @@
 - [Free Software Foundation](https://www.fsf.org/) - 以促进计算机用户自由为全球使命的非营利组织.
 - [Free Software Movement Karnataka](https://fsmk.org/) - 印度班加罗尔的一个宣传自由软件意识的团体.
 - [Free Software Movement of India](http://fsmi.in/) - 印度自由软件组织联盟.
-- [FSF India](http://gnu.org.in/) - Indian sister site for the FSF.
+- [FSF India](http://gnu.org.in/) - FSF 的印度姐妹网站.
 - [FSFE](https://fsfe.org/) - FSF 的欧洲姐妹网站.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - FSF 的拉丁美洲姐妹网站.
 - [GNU](https://www.gnu.org/) - GNU/Linux 操作系统的主页.

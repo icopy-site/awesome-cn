@@ -86,13 +86,13 @@
 
 ### Task Automation
 
-- [AutoIt](https://www.autoitscript.com/) - Windows 的小工具，用于自动化 Windows GUI，但也可用于其他目的.
+- [AutoIt](https://www.autoitscript.com/) - Windows 自动化 Windows GUI 的小工具，但也可用于其他目的.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey 是一款免费的开源宏创建和自动化软件，适用于 Windows，允许用户自动执行重复性任务.
 - [IFTTT](https://ifttt.com) - 允许您在 Web 服务之间创建条件语句链（称为_recipes_），以使 Web 为您工作并提高您的工作效率.
 - [n8n](https://n8n.io) - 用于连接 Web 服务的开源工作流自动化，并可选择自托管.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈.
 - [Parabola](https://parabola.io) - 拖放工具来构建自定义报告、工作流和集成，以自动化您的手动流程.
-- [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关的自定义任务的 Android 应用程序（_e.g._ 当您到家时自动打开 wifi）.
+- [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关自定义任务的 Android 应用程序（_e.g._ 当您到家时自动打开 wifi）.
 - [Zapier](https://zapier.com/) - 自动化工具，可让您连接数百个 Web 服务并在流程之间创建自动化.
 
 ### Password Manager
@@ -106,6 +106,7 @@
 - [Obie.ai](https://obie.ai/) - 将所有知识和文档集中到一个位置的 AI 平台.
 - [Obsidian.md](https://obsidian.md/)  - 适用于本地 Markdown 文件的知识库工具. 它允许您在不同的笔记之间创建链接.
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
+- [Logseq](https://logseq.com/)  - Logseq 是一个隐私优先的开源知识库，在本地纯文本 Markdown 和 Org 模式文件之上工作. 使用它来编写、组织和分享您的想法，保留您的待办事项清单，并建立您自己的数字花园. 
 
 ### Miscellaneous
 

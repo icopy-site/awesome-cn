@@ -366,7 +366,7 @@
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net 是适用于 https://stripe.com/ 的完整服务 .NET API
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform)  - Virto Commerce 是第二代版本，是唯一在开源许可下完全可用的企业级电子商务产品.  Virto Commerce 基于 .NET 4.5，广泛使用 MVC、IoC、EF、Azure、AngularJS 和许多其他尖端技术. 它可以部署在 Microsoft Cloud (Azure)、Amazon Web Services (AWS) 和本地.  https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce)  - 基于 .NET Core 构建的超级简单电子商务系统. 易于使用且易于定制. 感谢 .NET Core，您可以在 Windows、Linux 上运行 SimplCommerce. 使用各种 RDBMS：Microsoft SQL Server、PostgreSQL、MySQL
-* [GrandNode](https://github.com/grandnode/grandnode2) - 无头、多供应商、多租户，基于 .NET Core 5.0 和 MongoDB 的最先进的开源电子商务平台. 
+* [GrandNode](https://github.com/grandnode/grandnode2) - 无头、多供应商、多租户，基于.NET Core 5.0 和MongoDB 的最先进的开源电子商务平台. 
 * [Square](https://github.com/square/connect-csharp-sdk) - Square 支付和其他 Square API 的官方 SDK.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - .NET 的官方 Adyen 支付 API 库
 
@@ -472,7 +472,7 @@
 * [XWT](https://github.com/mono/xwt) - 用于使用 .NET 和 Mono 创建桌面应用程序的跨平台 UI 工具包
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建 Material Design 风格的 WPF 应用程序的工具包
-* [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中的桌面和移动应用程序的跨平台 GUI 框架
+* [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中用于桌面和移动应用程序的跨平台 GUI 框架
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕裂的 WPF 选项卡控件（类似于 Chrome），支持布局并完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite 是一个为 WPF 实现类似 Office 和 Windows 8 的功能区的库.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) - 为 WinForms 实现 MS Office 功能区的库.
@@ -502,7 +502,7 @@
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - C 的 CSS3 解析器库#
 * [HtmlAgilityPack](https://html-agility-pack.net/?z=codeplex) - 一个敏捷的 HTML 解析器，它构建一个读/写 DOM 并支持纯 XPath 或 XSLT
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET 包装器 [libSass](https://sass-lang.com/libsass) 能够支持虚拟文件系统的库
-* [LtGt](https://github.com/Tyrrrz/LtGt) - 轻量级 HTML 处理器，可用于解析和导航 DOM，处理 CSS 选择器，可以转换为 Linq2Xml，易于扩展等等.
+* [LtGt](https://github.com/Tyrrrz/LtGt) - 轻量级 HTML 处理器，可用于解析和导航 DOM，处理 CSS 选择器，可以转换为 Linq2Xml，易于扩展等.
 
 ## HTTP
 
@@ -731,7 +731,7 @@
 * [DeviceId](https://github.com/MatthewKing/DeviceId) - 生成可用于唯一标识计算机的“设备 ID”.
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - 通用设备检测库将解析任何用户代理并检测浏览器、操作系统、使用的设备（台式机、平板电脑、移动设备、电视、汽车、控制台等）、品牌和型号.
 * [NaturalSort.Extension](https://github.com/tompazourek/NaturalSort.Extension) - StringComparer 的扩展方法，增加了对自然排序的支持（例如“abc1”、“abc2”、“abc10”而不是“abc1”、“abc10”、“abc2”）.
-* [Coravel](https://github.com/jamesmh/coravel) 近乎零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（以及更多）变得轻而易举！
+* [Coravel](https://github.com/jamesmh/coravel) 近乎零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（等等）变得轻而易举！
 * [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - 一个非常快速和高效的 Levenshtein 距离计算器，具有 SIMD 和线程支持
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - 一个简单但功能强大的 .NET 网络爬虫库
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - .NET 的简单构建版本控制，由 Git 标签提供支持
@@ -964,7 +964,7 @@
 
 ## Strong Naming
 
-* [Strong Namer](https://github.com/dsplaisted/strongnamer)  - 自动将强名称添加到尚未具有强名称的引用程序集. 这将允许您从使用强名称的项目中引用和使用非强命名的程序集（NuGet 包）.
+* [Strong Namer](https://github.com/dsplaisted/strongnamer)  - 自动将强名称添加到尚未具有强名称的引用程序集. 这将允许您从使用强名称的项目中引用和使用非强名称的程序集（NuGet 包）.
 * [.NET Assembly Strong-Name Signer](https://github.com/brutaldev/StrongNameSigner) - 用于对 .NET 程序集进行强名称签名的实用软件，包括您没有源代码的程序集.
 
 ## Style Guide
@@ -998,6 +998,7 @@
 * [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extremely easy to create.
 * [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) 是一个上下文/规范框架，可消除语言噪音并简化测试.
 * [Moq](https://github.com/Moq/moq4) - 最流行和最友好的 .NET 模拟框架
+* [Moq.Contrib.HttpClient](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - 一组用 Moq 模拟 HttpClient 和 IHttpClientFactory 的扩展方法.
 * [NBomber](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
 * [NBuilder](https://github.com/garethdown44/nbuilder) - 快速生成测试对象
 * [NCrunch](https://www.ncrunch.net/)  - Visual Studio 的自动化连续和并发测试工具.  **[$]**
@@ -1061,7 +1062,7 @@
 * [Web Essentials](https://github.com/madskristensen/WebEssentials2019) - Web Essentials 使用 Web 开发人员多年来一直缺少的许多新功能扩展了 Visual Studio
 * [VsVIM](https://github.com/VsVim/VsVim) - Visual Studio 中的 VIM
 * [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet 是包括 .NET 在内的 Microsoft 开发平台的包管理器
-* [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，让任何 Web 开发人员的生活更轻松
+* [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，让任何 Web 开发人员的生活变得更加轻松
 * [Resharper](https://www.jetbrains.com/resharper/) - Visual Studio 的开发人员生产力工具 **[$]**
 * [CodeContracts](https://github.com/Microsoft/CodeContracts) - .NET 的 CodeContracts 工具的源代码
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - 在 Visual Studio 边距和滚动条上显示当前编辑文件的实时 Git 更改
