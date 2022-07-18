@@ -48,7 +48,7 @@
 
 ## Visualization
 
-- [Altair](https://github.com/altair-viz/altair) - Python 的声明性可视化库，基于 [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite).
+- [Altair](https://github.com/altair-viz/altair) - Python 的声明性可视化库，基于 [Vega](http://vega.github.io/vega) 和 [Vega-Lite](https://github.com/vega/vega-lite).
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 针对现代 Web 浏览器进行演示的交互式可视化库.
 - [bqplot](https://github.com/bloomberg/bqplot) - Jupyter 的基于图形的交互式绘图框架语法.
 - [Evidently](https://github.com/evidentlyai/evidently) - 在验证或生产监控期间分析机器学习模型的交互式报告.
@@ -131,6 +131,7 @@
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 扩展以将笔记本发布到 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
 - [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元完成浏览器通知.
+- [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - 对 JupyterLab 的 TensorBoard 支持.
 - [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - 在 JupyterLab 中自动对笔记本进行版本控制.
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - 从 JupyterLab 中通过电子邮件发送笔记本及其内容.
@@ -192,7 +193,7 @@
 - [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.
 - [Gryd](https://gryd.us) - 简单、托管、即用型、基于云的 Jupyter 笔记本，支持多种语言.<!--lint disable double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.<!--lint enable double-link-->
-- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
+- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - 云中基于 JupyterLab 的数据科学环境.
@@ -212,7 +213,7 @@
 - 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
-- 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
+- Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用 Jupyter 的大学机构地图.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - 派皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)

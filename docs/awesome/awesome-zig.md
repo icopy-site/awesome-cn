@@ -191,8 +191,9 @@
 ## Parser
 * [darithorn/zig-toml](https://github.com/darithorn/zig-toml) - TOML 解析器.
 * [chwayne/rem](https://github.com/chwayne/rem) - 一个 HTML 解析库.
-* [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - 使用 zig 进行 GUID 解析/字符串化.
+* [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID 解析/字符串化.
 * [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - 简单的命令行参数解析库.
+* [sam701/zig-cli](https://github.com/sam701/zig-cli) - 用于构建命令行应用程序的包.
 * [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - 为 Perl 兼容的正则表达式绑定到 libpcre.
 * [kivikakk/koino](https://github.com/kivikakk/koino) - CommonMark/GitHub 风格的 Markdown 解析器和 HTML 渲染器.
 * [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML 解析器.
@@ -200,7 +201,7 @@
 * [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .这是一个解析器.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - 正则表达式实现.
 * [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - 港口 [ryu](https://github.com/ulfjack/ryu).
-* [Vexu/zuri](https://github.com/Vexu/zuri) - URI 解析器.
+* [Vexu/zuri](https://github.com/Vexu/zuri) - 解析器 URI.
 * [vi/zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) 解析器.
 * [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) - 解析命令行参数.
 * [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) - 实现可以解析任何 TypeId.Int 或 TypeId.Float 的 ParseNumber.

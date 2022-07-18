@@ -36,7 +36,7 @@
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
-- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) --Tachiyomi 式网络漫画阅读器.tanoshi 的前端.
@@ -56,7 +56,7 @@
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我通过 Yew/Wasm 用 Rust 编写的个人网站.
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
-- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 示例基于 Yew 最新的 hooks 和函数式 API，代码风格非常像 React 函数组件.
+- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
 - [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
@@ -89,9 +89,10 @@
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 令人敬畏的 Yew 与 Yew-Router 和 Parcel 应用程序.
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
 - [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - 将 Tailwindcss 与 Yew 结合使用的简单布局.
-- [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - 一个启动项目，为全栈 Rust Web 应用程序设置 Axum 和 Yew.
+- [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
 - [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri，桌面应用程序的全栈 Rust 开发.
 - [Yew PWA Minimal](https://github.com/fkohlgrueber/yew-pwa-minimal) - 使用 Yew 的最小渐进式 Web 应用程序.
+- [Yew HTTP Starter](https://github.com/LeTurt333/yew_http_starter) - 带有简单 HTTP 消息和有用的帮助注释的 Yew 模板.
 
 ## Crates
 

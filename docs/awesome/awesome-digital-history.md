@@ -16,7 +16,7 @@
 
 - [ANNO](https://anno.onb.ac.at/) - 奥地利在线报纸.
 - [Digitarium](https://digitarium-app.acdh-dev.oeaw.ac.at/) - 历史维也纳报的数字版.
-- [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利的文化和当代历史录音和视频档案.
+- [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利文化和当代历史录音和视频档案.
 - [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) - 它基于 Felix Czeike 的《维也纳历史词典》，目前有 50,156 条贡献和 12,510 张图像.
 
 ### Europe
@@ -39,7 +39,7 @@
 
 - [Archivportal](https://www.archivportal-d.de/) - 德国档案搜索引擎.
 - [Bavarikon](https://www.bavarikon.de/) - 收集巴伐利亚地图、地点、报纸等.
-- [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - 南德数字发展史博物馆.
+- [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - 南德数字发展历史博物馆.
 - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) - 超过 1200 万件物品.
 - [Deutsches Zeitungsportal](https://www.deutsche-digitale-bibliothek.de/newspaper) - 发现从 1671 年到 1950 年的历史报纸.
 - [Digitale Sammlungen](https://www.digitale-sammlungen.de/) - 慕尼黑数字化中心的收藏.

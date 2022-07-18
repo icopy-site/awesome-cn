@@ -171,7 +171,7 @@
   * [WebStorm](http://www.jetbrains.com/webstorm/)  - JetBrains 最智能的 JavaScript IDE.  **免费**学生，检查 [here](https://www.jetbrains.com/student/) 了解更多信息.
 * [Haskell for Mac](http://haskellformac.com)  - Haskell 的现代开发环境.  [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [NetBeans IDE](https://netbeans.org/)  - 免费和开源的IDE，主要用于Java开发，但支持许多其他语言和框架.  [![开源软件][OSS 图标]](https://netbeans.org/community/sources/) ![免费软件][免费软件图标]
-* [Nova](https://nova.app/) - 来自 Coda 和 Transmit 的创造者，为您带来美观、快速、灵活的原生 Mac 代码编辑器 [Panic](https://panic.com/).
+* [Nova](https://nova.app/) - 来自 Coda 和 Transmit 的创建者，为您带来美观、快速、灵活的原生 Mac 代码编辑器 [Panic](https://panic.com/).
 * [Visual Studio Community for Mac](https://visualstudio.microsoft.com/free-developer-offers/)  - **免费**版本. 它支持课堂学习、个人开发人员和小公司.  ![免费软件][免费软件图标]
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft 的免费和开源编辑器，TypeScript 友好， [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
@@ -193,7 +193,7 @@
 * [EnvPane](https://github.com/hschmidt/EnvPane)  - 用于环境变量的 OS X 首选项窗格.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo)  - 从 Finder 快速打开终端.  [![免费软件][免费软件图标] ![开源软件][OSS图标]](https://github.com/onmyway133/FinderGo)
 * [Finicky](https://johnste.github.io/finicky/)  - 允许您设置规则的应用程序，这些规则决定为打开默认浏览器的每个链接打开哪个浏览器.  [![开源软件][OSS图标]](https://github.com/johnste/finicky) ![免费软件][免费软件图标]
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - 适用于 Mac OS X 的简单主机文件管理器.[![开源软件][OSS 图标]！[免费软件][免费软件图标]](https://github.com/2ndalpha/gasmask)
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - 适用于 Mac OS X 的简单主机文件管理器. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - 智能重复文件查找器.
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/)  - 快速而聪明的开源十六进制编辑器.  [![开源软件][OSS 图标]](https://github.com/ridiculousfish/HexFiend/) ![免费软件][免费软件图标] [![App Store][应用商店图标]](https ://itunes.apple.com/app/hex-fiend/id1342896380)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane)  - 系统首选项窗格来管理您的主机文件.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/specialunderwear/Hosts.prefpane)
@@ -362,8 +362,8 @@
 #### Databases
 
 * [Apache Directory Studio](https://directory.apache.org/studio/)  - LDAP 浏览器和 Active Directory 客户端.  [![开源软件][OSS图标]](https://directory.apache.org/sources.html) ![免费软件][免费软件图标]
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台的数据库工具，用于微软家族的本地和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
-* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的redis桌面管理器.[![开源软件][OSS图标]](https://directory.apache.org/sources.html)！[免费软件][免费软件图标]
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台数据库工具，用于 Microsoft 家庭内部部署和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
+* [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的redis桌面管理器.[![开源软件][OSS图标]](https://directory.apache.org/sources.html)![免费软件][免费软件图标]
 * [Base 2](http://menial.co.uk/base/) - 用于创建、设计、编辑和浏览 SQLite 3 数据库文件的应用程序.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 流畅的 SQL 编辑器和数据库管理器 [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - 现代 SQL 客户端应用程序，支持 MySQL、PostgreSQL (Redshift) 和 BigQuery.[![开源软件][OSS 图标]](https://github.com/bdash-app/bdash)！[免费软件][免费软件图标]
@@ -608,7 +608,9 @@
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/)  - 电影电影和在线观看离线下载软件，配合百度云进行离线下载和在线播放.  [![开源软件][OSS图标]](https://github.com/EvilCult/moviecatcher)
 * [mpv](https://www.mpv.io/)  - 免费、开源和跨平台的媒体播放器.  [![开源软件][OSS图标]](https://github.com/mpv-player/mpv) ![免费软件][免费软件图标]
 * [MuseScore](https://musescore.org/)  - 免费的开源音乐符号软件.  [![开源软件][OSS图标]](https://github.com/musescore/MuseScore) ![免费软件][免费软件图标]
+* [Museeks](https://museeks.io)  - 一个简单、干净和跨平台的音乐播放器.  [![开源软件][OSS图标]](https://github.com/martpie/museeks) ![免费软件][免费软件图标]
 * [Natron](https://natrongithub.github.io/)  - 开源合成软件. 基于节点图. 功能类似于 The Foundry 的 Adob​​e After Effects 和 Nuke.  [![开源软件][OSS图标]](https://github.com/MrKepzie/Natron)
+* [Nuclear](https://nuclear.js.org/)  - 为您找到免费音乐的流媒体音乐播放器.  [![开源软件][OSS图标]](https://github.com/nukeop/nuclear) ![免费软件][免费软件图标]
 * [Perian](http://perian.org/#download)  - (**不再积极开发**) ~~让QuickTime播放所有常见格式的免费插件~~.  [![开源软件][OSS图标]](https://github.com/MaddTheSane/perian)
 * [Playback](https://mafintosh.github.io/playback/)  - 实验性视频播放器.  ![免费软件][免费软件图标] [![开源软件][OSS图标]](https://github.com/mafintosh/playback)
 * [Plug](https://plugformac.com)  - 发现并聆听 Hype Machine 的音乐.  [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https: //apps.apple.com/app/id1514182074)
@@ -718,7 +720,7 @@
 * [tigerVPN](https://www.tigervpn.com/vpn-for-mac)  - 适用于 Mac 的 VPN 客户端.  [![App Store][app-store Icon]](https://apps.apple.com/us/app/vpn-plus/id1202726435)
 * [Lantern](https://getlantern.org)  - 免费应用程序，提供对开放互联网的快速、可靠和安全的访问.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/getlantern/lantern)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG)  - 下一代 ShadowsocksX.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/qiuyzho​​u/ShadowsocksX-NG)
-* [ShadowsocksX](http://shadowsocks.org/)  - 安全的 socks5 代理，旨在保护您的互联网流量.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/shadowsocks/shadowsocks)
+* [ShadowsocksX](http://shadowsocks.org/)  - 安全的 socks5 代理，旨在保护您的互联网流量.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/shadowsocks/shadowsocks)
 * [Shimo](https://www.shimovpn.com/) - 适用于 Mac 的 VPN 客户端.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.  [![Open-Source Software][OSS Icon]](https://github.com/shadowsocks) ![Freeware][Freeware Icon]
 * [Surge](https://nssurge.com/) - 适用于 iOS 9 的 Web 开发人员工具和代理实用程序.[![App Store][app-store Icon]](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637 )
@@ -897,7 +899,7 @@
 * [fman](https://fman.io) - 第一个集成了 Sublime Text 功能的双窗格文件管理器.
 * [ForkLift](http://binarynights.com/forklift/) - 适用于 macOS 的最先进的双窗格文件管理器和文件传输客户端.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 文件管理应用程序.
-* [QSpace](https://qspace.awehunt.com)  - 一个干净高效的多视图文件管理器.  [![App Store][app-store Icon]](https://apps.apple.com/us/app/id1469774098)
+* [QSpace](https://qspace.awehunt.com)  - 一个干净高效的多视图文件管理器.  [![App Store][app-store 图标]](https://apps.apple.com/us/app/id1469774098)
 * [TotalFinder](http://totalfinder.binaryage.com/) - Chrome 风格的 Finder 替代品.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/)  - 添加标签并剪切到 Mac Finder.  ![免费软件][免费软件图标]
 
@@ -929,7 +931,7 @@
 * [Coolant](https://coolantformac.com) - 菜单栏应用程序可让您知道应用程序何时消耗 100% 的 CPU 或超过 1 GB 的内存（或您选择的任何任意限制）.
 * [DaisyDisk](https://daisydiskapp.com/)  - 提供磁盘使用情况的一个很好的概述. 还可以通过清理磁盘来提供更多可用磁盘空间.
 * [FruitJuice](http://fruitjuiceapp.com)  - 将让您知道每天不插电多长时间以保持电池健康.  [![App Store][app-store Icon]](https://itunes.apple.com/app/fruitjuice-battery-health/id671736912)
-* [gfxCardStatus](https://gfx.io/)  - 适用于 OS X 的不显眼的菜单栏应用程序，允许 MacBook Pro 用户通过使用更耗电的图形来查看哪些应用程序正在影响他们的电池寿命.  ![免费软件][免费软件图标]
+* [gfxCardStatus](https://gfx.io/)  - 用于 OS X 的不显眼的菜单栏应用程序，允许 MacBook Pro 用户通过使用更耗电的图形来查看哪些应用程序正在影响他们的电池寿命.  ![免费软件][免费软件图标]
 * [Gray](https://github.com/zenangst/Gray)  - 只需单击一个按钮，即可在每个应用程序的基础上在浅色外观和深色外观之间进行选择.  ![免费软件][免费软件图标] [![开源软件][OSS图标]](https://github.com/zenangst/Gray)
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/)  - HTML 5 视频播放器. 防止您的 Mac “燃烧”.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 菜单栏上的高级 Mac 系统监视器.
@@ -962,7 +964,7 @@
 * [AnyDesk](https://anydesk.com) - 提供跨多台机器的远程访问.
 * [Microsoft Remote Deskto‪p](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)  - 连接到管理员提供的远程 PC 或虚拟应用程序和桌面.  ![免费软件][免费软件图标]
 * [RealVNC](https://www.realvnc.com) - 用于跨桌面和移动远程访问的原始和最佳软件.
-* [RoyalTSX](https://www.royalapps.com/ts/mac/features)  - 对于需要使用不同协议远程访问系统的系统工程师和其他 IT 专业人员来说，Royal TSX 是一个理想的工具.  ![免费软件][免费软件图标]
+* [RoyalTSX](https://www.royalapps.com/ts/mac/features)  - Royal TSX 是需要使用不同协议远程访问系统的系统工程师和其他 IT 专业人员的理想工具.  ![免费软件][免费软件图标]
 * [TeamViewer](https://www.teamviewer.com/en)  - 用于远程控制、桌面共享、在线会议、网络会议和计算机之间文件传输的专有计算机软件包.  ![免费软件][免费软件图标]
 
 ## Social Networking
