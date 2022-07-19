@@ -7,7 +7,7 @@
 
 令人敬畏的 Alfred 工作流程的精选列表.
 
-[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展来提高您的效率.
+[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展提高您的效率.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -18,6 +18,7 @@
 - [Mailsy](https://github.com/BalliAsghar/mailsy-alfred) - 快速生成一次性电子邮件.
 - [Slack](https://github.com/yannickglt/alfred-slack) - Alfred 工作流与服务 Slack 进行交互和执行各种功能.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - 获取临时电子邮件收件箱.
+- [Mouseless Messenger](https://github.com/stephancasas/alfred-mouseless-messenger)
 
 ## Developer
 - [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - 在浏览器中快速打开 AWS 控制台服务或在其中搜索实体.
@@ -121,7 +122,7 @@
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
 - [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
-- [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
+- [PacMax](https://pacmax.org/) – Pacmax 是作为 Alfred 爱好者查找和分享他们最喜欢的工作流程、片段和主题的一种方式.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 
 ## Contributing

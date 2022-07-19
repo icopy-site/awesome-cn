@@ -16,7 +16,9 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 <a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
 <a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a>
 <a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-purple.svg" /></a>
-
+<br/>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?style=social" /></a>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?style=social" /></a>
 </div>
 <br/>
 
@@ -261,12 +263,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 &gt; *finalized* ARC 中定义的标准和规范.
 &gt; 所有 ARC 的列表可以在 https://arc.algorand.foundation 上找到
 
-- [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.
+- [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
 - [ARC69](https://github.com/algokittens/arc69) - 在 Algor和 NFT 社区中流行的非官方 Algor和 标准资产参数约定，灵感来自 [Open Sea's metadata st和ards](https://docs.opensea.io/docs/metadata-st和ards) 和 [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).
 
 ## Metrics
 
-- [Algorand MainNet metrics](https://metrics.algorand.org/) - Dashboard that measures the current scale, security, decentralization, and adoption of the open-source Algorand protocol.
+- [Algorand MainNet metrics](https://metrics.algorand.org/) - 衡量开源 Algorand 协议的当前规模、安全性、去中心化和采用情况的仪表板.
 - [How Big is Algorand?](https://howbigisalgorand.com/) - Algorand 的网络规模监视器.
 - [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand 内存池浏览器.
 - [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand 网络性能和帐户监控.
@@ -277,10 +279,6 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 欢迎投稿！ 阅读 [contribution guidelines](https://github.com/aorumbayev/Awesome-Algorand/blob/main/contributing.md) 第一的.
 
 特别感谢所有对存储库进行分叉或加星标的人❤️
-
-[![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
-
-[![Forkers repo roster for @aorumbayev/AwesomeAlgorand](https://reporoster.com/forks/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/network/members)
 
 ---
 

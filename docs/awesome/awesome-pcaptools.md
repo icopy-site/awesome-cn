@@ -28,7 +28,7 @@ Linux 命令<a name="linuxcmds"></a>
 
  * **Iptraf-ng**：是一款交互式彩色 IP 局域网监视器. 它显示了各个连接和主机之间流动的数据量. 已失效 iptraf 的维护分支. [Screenshot](https://wiki.ipfire.org/addons/iptraf-ng/iptraf-ng_monitor.png)
 
-* **Jnettop**: [Jnettop](https://sourceforge.net/projects/jnettop/) 是一个流量可视化器，它捕获通过它正在运行的主机的流量，并显示按它们使用的带宽排序的流. [Screenshot](https://web.archive.org/web/20130509072433if_/http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
+* **Jnettop**： [Jnettop](https://sourceforge.net/projects/jnettop/) 是一个流量可视化器，它捕获通过它正在运行的主机的流量，并显示按它们使用的带宽排序的流. [Screenshot](https://web.archive.org/web/20130509072433if_/http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
 
 
 
@@ -47,6 +47,8 @@ Linux 命令<a name="linuxcmds"></a>
 ---------------
 
 * [Libpcap/Tcpdump](https://www.tcpdump.org/) : tcpdump 的官方站点，一个强大的命令行数据包分析器； 和 libpcap，一个用于网络流量捕获的可移植 C/C++ 库.
+
+* [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer): 高性能远程抓包收集工具，云原生环境的分布式tcpdump.
 
 * [Ngrep](https://github.com/jpr5/ngrep/) : 努力提供大部分 GNU grep 的通用特性，将它们应用到网络层.  ngrep 是一个 pcap 感知工具，它允许您指定扩展的正则或十六进制表达式以匹配数据包的数据有效负载. 它目前可以跨以太网、PPP、SLIP、FDDI、令牌环和空接口识别 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（例如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
@@ -115,9 +117,9 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [Network Expect](https://www.netexpect.org/) : 是一个允许轻松构建可以与网络流量交互的工具的框架. 根据脚本，流量可以注入网络，并且可以根据接收到的网络流量做出决策并采取行动. 解释语言提供分支和高级控制结构来指导与网络的交互.  Network Expect 使用 libpcap 进行数据包捕获，使用 libwireshark（来自 Wireshark 项目）进行数据包分解任务.  （GPL、BSD/Linux/OSX）.
 
-* [NFStream](https://github.com/nfstream/nfstream) : 是一个 Python 框架，提供快速、灵活和富有表现力的数据结构，旨在使在线或离线网络数据的处理既简单又直观. 它旨在成为在 Python 中进行实用的、现实世界的网络数据分析的基本高级构建块. 此外，它还有一个更广泛的目标，即成为一个通用的网络数据分析框架，为研究人员提供跨实验的数据再现性.
+* [NFStream](https://github.com/nfstream/nfstream): is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
-* [Ntop](http://www.ntop.org/) : Ntop 是一个显示网络使用情况的网络流量探测，类似于流行的 top Unix 命令.  ntop 基于 libpcap，它以可移植的方式编写，以便在每个 Unix 平台和 Win32 上虚拟运行.
+* [Ntop](http://www.ntop.org/): Ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
 
 * [Ntopng](https://www.ntop.org/products/traffic-analysis/ntop/) : Ntopng 是原始 ntop 的下一代版本，一个显示网络使用情况的网络流量探测，类似于流行的 top Unix 命令.  ntop 基于 libpcap，它以可移植的方式编写，以便在每个 Unix 平台、MacOSX 和 Win32 上虚拟运行.
 
@@ -134,7 +136,7 @@ Linux 命令<a name="linuxcmds"></a>
 * [pyshark](https://kiminewt.github.io/pyshark/) : tshark 的 Python 包装器，允许使用 wireshark 解析器解析 Python 数据包. 有很多 python 数据包解析模块，这个不同，因为它实际上并不解析任何数据包，它只是使用 tshark（wireshark 命令行实用程序）的能力来导出 XML 以使用它的解析.
 
 
-* [Scapy](http://www.secdev.org/projects/scapy/) : Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码大量协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它在大多数其他工具无法处理的许多其他特定任务上也表现出色，例如发送无效帧、注入您自己的 802.11 帧、组合技术（VLAN 跳跃+ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）， ETC.
+* [Scapy](http://www.secdev.org/projects/scapy/) : Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码大量协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，例如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它在大多数其他工具无法处理的许多其他特定任务上也表现出色，例如发送无效帧、注入您自己的 802.11 帧、组合技术（VLAN 跳跃+ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）， ETC.
 
 * [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html)：使 tcpdump 程序的输出更易于阅读和解析.
 
@@ -142,7 +144,7 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [Socket Sentry](https://github.com/rhasselbaum/socket-sentry): Socket Sentry 是 KDE Plasma 的实时网络流量监视器，其精神与 iftop 和 netstat 等工具相同.
 
-* [Suricata](https://suricata-ids.org): Suricata is a free and open source, mature, fast and robust network threat detection engine.  The Suricata engine is capable of real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing.
+* [Suricata](https://suricata-ids.org) : Suricata 是一个免费和开源的、成熟、快速和健壮的网络威胁检测引擎.  Suricata 引擎能够进行实时入侵检测 (IDS)、内联入侵防御 (IPS)、网络安全监控 (NSM) 和离线 pcap 处理.
 
 
 * [Tcpdpriv](http://ita.ee.lbl.gov/html/contrib/tcpdpriv.html) : Tcpdpriv 是用于从网络接口上收集的数据包（或从使用 tcpdump 的 -w 参数创建的跟踪文件）中删除机密信息（用户数据和地址）的程序.  Tcpdpriv 删除 TCP 和 UDP 的负载，以及其他协议的整个 IP 负载. 它实现了几种地址加扰方法； 顺序编号方法及其变体，以及保留地址前缀的哈希方法.
