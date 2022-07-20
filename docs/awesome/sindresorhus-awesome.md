@@ -261,7 +261,7 @@
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P 超媒体协议.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子们编程，但功能更多.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台 GUI 应用程序框架.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
@@ -281,7 +281,7 @@
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 为您的站点提供 CDN、DNS、DDoS 保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - 谷歌助手的开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - 具有 WiFi 和广泛物联网应用的低成本微控制器.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - 使用 V8 并内置于 Rust 的 JavaScript 和 TypeScript 安全运行时.
+- [Deno](https://github.com/denolib/awesome-deno#readme) - JavaScript 和 TypeScript 的安全运行时，使用 V8 并内置于 Rust.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 用于 1980 年代和 1990 年代初期流行的基于 x86 的个人计算机的操作系统.
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重复.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能合作.
@@ -703,16 +703,17 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 学习如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供清晰的途径来提高您的知识和技能.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看来自 YouTube 用户的视频教程，这些教程会教您有关技术的知识.
-- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - 专注于边做边学的免费教育资源.
 
 ## Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - 夺​​旗.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - 专注于边做边学的免费教育资源.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在诱使攻击者试图破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
@@ -867,7 +868,6 @@
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - 面向社区和非机构科学家.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - “物联网”连接协议.
-- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI 框架.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - 低开销、跨平台的 3D 图形和计算 API.

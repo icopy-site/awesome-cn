@@ -22,6 +22,7 @@
 - [Chatroom](https://discord.gg/VQck8X4) - 它非常活跃，是提问的好地方.
 - [Reddit](https://www.reddit.com/r/yew_web/) - 专用子 Reddit.
 - [Financial Contribute](https://opencollective.com/yew) - 成为财务贡献者并帮助我们维持我们的社区.
+- [Playground](https://play.yew.rs) - Yew 的在线游乐场.
 
 ## Projects
 

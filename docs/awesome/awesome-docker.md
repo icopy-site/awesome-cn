@@ -252,7 +252,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [KICS](https://github.com/checkmarx/kics)  - 基础架构即代码扫描工具，可在开发周期的早期发现安全漏洞、合规性问题和基础架构错误配置. 可以延长额外的政策. 经过 [Checkmarx](https://github.com/Checkmarx)
 -   [notary](https://github.com/theupdateframework/notary)  - 用于运行可信集合并与之交互的服务器和客户端. 经过 [@TUF](https://github.com/theupdateframework)
 -   [oscap-docker](https://github.com/OpenSCAP/openscap)  - OpenSCAP 提供 oscap-docker 工具，用于扫描 Docker 容器和镜像. 经过 [OpenSCAP](https://github.com/OpenSCAP)
--   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: - （以前的 Twistlock 安全套件）检测漏洞，强化容器映像，并在应用程序的整个生命周期内执行安全策略.
+-   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: - （以前的 Twistlock 安全套件）检测漏洞，强化容器镜像，并在应用程序的整个生命周期内执行安全策略.
 -   [Sysdig Falco](https://github.com/falcosecurity/falco)  - Sysdig Falco 是一个开源容器安全监视器. 它可以监控应用程序、容器、主机和网络活动，并对未经授权的活动发出警报.
 -   [Sysdig Secure](https://sysdig.com/products/secure/runtime-security/) :heavy_dollar_sign: - Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
 -   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy_dollar_sign: - 趋势科技 DeepSecurity 为容器工作负载和主机提供运行时保护，以及运行前扫描图像以识别漏洞、恶意软件和硬编码机密等内容.
@@ -269,7 +269,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 ### Volume Management / Data
 
 -   [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)  :heavy_dollar_sign:- Blockbridge 插件是一个卷插件，提供对一组可扩展的基于容器的持久存储选项的访问. 它支持单主机和多主机 Docker 环境，其功能包括租户隔离、自动配置、加密、安全删除、快照和 QoS. 经过 [@blockbridge](https://github.com/blockbridge)
--   [Convoy](https://github.com/rancher/convoy) - an open-source Docker volume driver that can snapshot, backup and restore Docker volumes anywhere. By [@rancher][rancher]
+-   [Convoy](https://github.com/rancher/convoy)  :skull: - 一个开源的 Docker 卷驱动程序，可以在任何地方对 Docker 卷进行快照、备份和恢复. 作者：[@rancher][牧场主]
 -   [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 -   [Docker Unison](https://github.com/leighmcculloch/docker-unison) 使用 Unison 进行快速双向文件夹同步的 docker 卷容器. 创建为 OS X 上慢速 boot2docker 卷的替代方案. [@leighmcculloch](https://github.com/leighmcculloch)
 -   [Local Persist](https://github.com/MatchbookLab/local-persist) 为您的本地卷指定一个挂载点（通过 `docker volume create` 创建），以便文件始终保持不变，以便您可以挂载到不同容器中的不同目录.
@@ -310,7 +310,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [dockdash](https://github.com/byrnedo/dockdash) 详细的统计数据. 通过 [@byrnedo]
 -   [Docker-mon](https://github.com/icecrime/docker-mon) :skull: - 基于控制台的 Docker 监控 [@icecrime](https://github.com/icecrime)
 -   [dockly](https://github.com/lirantal/dockly) - 用于管理 Docker 容器的交互式 shell UI [@lirantal](https://github.com/lirantal)
--   [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer 通过以下方式帮助您开始使用在 Docker 中运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
+-   [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer 帮助您开始使用在 Docker 中运行的家庭服务器应用程序 [GhostWriters](https://github.com/GhostWriters)
 -   [docui](https://github.com/skanehira/docui)  - :skull: 用于管理 Docker 容器的交互式 shell UI. 也适用于 Windows. 通过 [@skanehira]
 -   [dry](https://github.com/moncho/dry) - 用于 Docker 容器的交互式 CLI [@moncho](https://github.com/moncho)
 -   [lazydocker](https://github.com/jesseduffield/lazydocker)  - 管理所有 docker 的懒惰方式. 一个简单的 docker 和 docker-compose 终端 UI，用 Go 语言和 gocui 库编写. 经过 [@jesseduffield](https://github.com/jesseduffield)
@@ -356,7 +356,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - 用于私有 docker 注册表 v2 的 Web UI、身份验证服务和事件记录器 [@mkuchin](https://github.com/mkuchin)
 -   [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - 在 Docker Swarm 上可视化 Docker 服务（用于运行演示）.
 -   [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) :skull: - Docker 的简单 Web 界面，具有很多功能 [@Electrofenster](https://github.com/Electrofenster/)
--   [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) :skull: - 用于分析和浏览 Docker 注册表中 Docker 映像之间依赖关系的 Web 服务，通过 [@Simone-Erba](https://github.com/Simone-Erba/)
+-   [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) :skull: - A web service for analyze and browse dependencies between Docker images in the Docker registry, by [@Simone-Erba](https://github.com/Simone-Erba/)
 -   [Kubevious](https://github.com/kubevious/kubevious) - 用于 Kubernetes 的高度可视化 Web UI，它以应用程序为中心的方式呈现配置和状态 [@rubenhak](https://github.com/rubenhak).
 -   [netdata](https://github.com/netdata/netdata) - 实时性能监控
 -   [OctoLinker](https://github.com/OctoLinker/OctoLinker) - GitHub 的浏览器扩展，使 `Dockerfile` 中的图像名称可点击，并将您重定向到相关的 Docker Hub 页面.
@@ -420,7 +420,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [packer](https://www.packer.io/plugins/builders/docker) - Hashicorp 工具用于构建机器映像，包括与配置管理工具（如 chef、puppet、ansible）集成的 docker 映像
 -   [portainer](https://github.com/duedil-ltd/portainer) - 用于构建 Docker 镜像的 Apache Mesos 框架 [@duedil-ltd](https://github.com/duedil-ltd)
 -   [Production-Ready Python Containers :heavy_dollar_sign:](https://pythonspeed.com/products/pythoncontainer/) - 用于为 Python 应用程序创建生产就绪 Docker 映像的模板.
--   [RAUDI](https://github.com/cybersecsi/RAUDI)  - 每当有新的发布/更新/提交时，自动更新（并可选择推送到 Docker Hub）用于 3rd 方软件的 Docker 映像的工具. 经过 [@SecSI](https://github.com/cybersecsi)
+-   [RAUDI](https://github.com/cybersecsi/RAUDI)  - 每当有新的发布/更新/提交时，自动更新（并可选择推送到 Docker Hub）第三方软件的 Docker 映像的工具. 经过 [@SecSI](https://github.com/cybersecsi)
 -   [runlike](https://github.com/lavie/runlike) - 通过运行容器生成 `docker run` 命令和选项 [@lavie](https://github.com/lavie)
 -   [SkinnyWhale](https://github.com/djosephsen/skinnywhale) :skull: - Skinnywhale 帮助您制作更小（如兆字节）的 Docker 容器.
 -   [Smith](https://github.com/oracle/smith) - 一个 Micocontainer Builder，可以在构建镜像后执行多阶段构建 [Oracle][oracle]
@@ -512,7 +512,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [go-dockerclient](https://github.com/fsouza/go-dockerclient/) - 通过 HTTP 客户端访问 Docker 远程 API [@fsouza](https://github.com/fsouza/)
 -   [Gradle Docker plugin](https://github.com/gesellix/gradle-docker-plugin) - [@gesellix][gesellix] 为 Gradle 提供的 Docker 远程 api 插件
 -   [libcompose](https://github.com/docker/libcompose) - 用于 Docker Compose 的 Go 库.
--   [Portainer stack utils](https://github.com/greenled/portainer-stack-utils)  :construction: - Bash 脚本，用于从 docker-compose yaml 文件在 Portainer 实例中部署/更新/取消部署 Docker 堆栈. 经过 [@greenled](https://github.com/greenled).
+-   [Portainer stack utils](https://github.com/greenled/portainer-stack-utils)  :construction: - 用于从 docker-compose yaml 文件在 Portainer 实例中部署/更新/取消部署 Docker 堆栈的 Bash 脚本. 经过 [@greenled](https://github.com/greenled).
 -   [sbt-docker-compose](https://github.com/Tapad/sbt-docker-compose) - 将 Docker Compose 功能集成到 sbt by [@kurtkopchik](https://github.com/kurtkopchik/)
 -   [sbt-docker](https://github.com/marcuslonnberg/sbt-docker) - 直接从 sbt 创建 Docker 镜像 [@marcuslonnberg](https://github.com/marcuslonnberg)
 
@@ -522,7 +522,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Captain](https://github.com/harbur/captain) - 将您的 Git 工作流程转换为准备好持续交付的 Docker 容器 [@harbur](https://github.com/harbur).
 -   [Cyclone](https://github.com/caicloud/cyclone) - 使用原生 Kubernetes 资源实现的强大工作流引擎和端到端管道解决方案 [@caicloud](https://github.com/caicloud).
 -   [Diun](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/diun) - 在 Docker 注册表上更新映像或存储库时接收通知 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max).
--   [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) - docker 插件的目的是能够使用 docker 主机动态配置从站，运行单个构建，然后拆除该从站.
+-   [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) - docker 插件的目的是能够使用 docker 主机动态配置从属服务器，运行单个构建，然后拆除该从属服务器.
 -   [Dockupdater](https://github.com/dockupdater/dockupdater) - 自动保持你的 docker 服务和你的 docker 容器是最新
 -   [Drone](https://github.com/drone/drone) - 基于 Docker 构建并使用 YAML 文件配置的持续集成服务器.
 -   [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) - GitLab 已集成 CI 以使用 GitLab 运行器来测试、构建和部署您的代码.
@@ -547,7 +547,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Crashcart](https://github.com/oracle/crashcart) - [@Oracle][oracle] 将 Linux 二进制文件旁加载到正在运行的容器中以进行故障排除
 -   [dde](https://github.com/whatwedo/dde)  :construction: - 基于 Docker 的本地开发环境工具集. 经过 [@whatwedo](https://github.com/whatwedo)
 -   [Devstep](https://github.com/fgrehm/devstep) :skull: - 由 Docker 提供支持的开发环境和 [@fgrehm][fgrehm] 提供的 buildpacks
--   [Dinghy](https://github.com/codekitchen/dinghy) - 在 Mac OS X 上使用 Docker Machine 和 virtualbox、vmware、xhyve 或 parallels 的另一种方法
+-   [Dinghy](https://github.com/codekitchen/dinghy) - 在 Mac OS X 上使用 Docker Machine 与 virtualbox、vmware、xhyve 或 parallels 的另一种方法
 -   [DIP](https://github.com/bibendi/dip)  - 用于直接配置和与 docker-compose 配置的应用程序交互的 CLI 实用程序. 经过 [@bibendi](https://github.com/bibendi)
 -   [DLite](https://github.com/nlf/dlite)  :skull: - 在 OSX 上使用 Docker 的最简单方法，不需要 VM. 经过 [@nlf](https://github.com/nlf)
 -   [dobi](https://github.com/dnephin/dobi)  - 用于 Docker 应用程序的构建自动化工具. 经过 [@dnephin](https://github.com/dnephin)
@@ -557,7 +557,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [docker-setup](https://github.com/nicholasdille/docker-setup)  - 安装、配置和更新容器工具. 经过 [@nicholasdille](https://twitter.com/nicholasdille)
 -   [Docker-sync](https://github.com/EugenMayer/docker-sync) - 大大提高性能（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ) 在 Mac OS X/Windows 和 Linux 上使用 Docker 进行开发，同时与容器共享代码时. 经过 [@EugenMayer](https://github.com/EugenMayer)
 -   [docker-vm](https://github.com/shyiko/docker-vm) - boot2docker（由 Vagrant 支持）的简单透明替代方案 [@shyiko](https://github.com/shyiko)
--   [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  - Build Management 是一个 python 应用程序，使用 pip 安装. 该应用程序通过配置描述如何构建、测试、运行或发布容器化解决方案的单个 yaml 文件，可以轻松管理基于 Docker 的构建系统.
+-   [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  - Build Management 是一个 python 应用程序，使用 pip 安装. 该应用程序通过配置一个描述如何构建、测试、运行或发布容器化解决方案的 yaml 文件，可以轻松管理基于 Docker 的构建系统.
 -   [Dusty](https://github.com/gamechanger/dusty) - OS X 上的托管 Docker 开发环境
 -   [Eclipse Che](https://github.com/eclipse/che) - 具有 Docker 运行时、云 IDE、下一代 Eclipse IDE 的开发人员工作区服务器
 -   [EnvCLI](https://github.com/EnvCLI/EnvCLI)  - 用特定于项目的 docker 容器替换本地安装的 Node、Go 等. 经过 [@EnvCLI](https://github.com/EnvCLI)
@@ -607,7 +607,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Beluga](https://github.com/cortexmedia/Beluga)  :skull: - CLI 用于在单个服务器或少量服务器上部署 docker 容器. 经过 [@cortextmedia](https://github.com/cortexmedia)
 -   [dexec](https://github.com/docker-exec/dexec) - 用 Go 编写的命令行界面，用于运行带有 Docker Exec 映像的代码.
 -   [dockerized](https://github.com/benzaita/dockerized-cli) - 在容器中无缝执行命令.
--   [Dray](https://github.com/CenturyLinkLabs/dray) - [@CenturyLinkLabs][centurylinklabs] 的用于管理基于容器的工作流执行的引擎
+-   [Dray](https://github.com/CenturyLinkLabs/dray) - [@CenturyLinkLabs][centurylinklabs] 管理基于容器的工作流执行的引擎
 -   [FuGu](https://github.com/mattes/fugu) :skull: - Docker 运行包装器，无需编排 [@mattes](https://github.com/mattes)
 -   [Hokusai](https://github.com/artsy/hokusai)  - 适用于应用程序开发人员的 Docker + Kubernetes CLI； 用于容器化应用程序并在整个开发、测试和发布周期中管理其生命周期. 从 [@artsy](https://github.com/artsy)
 -   [Shutit](https://github.com/ianmiell/shutit) - 用于构建和维护复杂 Docker 部署的工具 [@ianmiell](https://github.com/ianmiell)

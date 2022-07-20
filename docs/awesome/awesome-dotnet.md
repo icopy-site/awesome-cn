@@ -27,6 +27,7 @@
 * [Algorithmia](https://github.com/SolutionsDesign/Algorithmia)  - .NET 3.5 及更高版本的算法和数据结构库.  Algorithmia 包含复杂的算法和数据结构，如图形、优先级队列、命令、撤消重做等.
 * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 * [Towel](https://github.com/ZacharyPatten/Towel) - 数据结构、算法、数学、元数据、扩展、控制台、测量和其他有用的东西
+* [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - 一种方便的数据结构，支持高效的内存索引和查询，包括范围查询和模糊字符串匹配.
 
 ## API
 
@@ -92,7 +93,7 @@
 
 * [Cassette](https://github.com/andrewdavey/cassette) - 管理 .NET Web 应用程序资产（脚本、CSS 和模板）
 * [NodeAssets](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .NET 使用 SignalR 进行实时 CSS 更新，并且可以选择利用 Node.js 编译器
-* [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - 模块化扩展 [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization) . 它的模块支持 LESS、Sass、CoffeeScript、TypeScript、Mustache、Handlebars、Autoprefixer 以及一堆不同的 JS 和 CSS 缩小器.
+* [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization) . 它的模块支持 LESS、Sass、CoffeeScript、TypeScript、Mustache、Handlebars、Autoprefixer 以及一堆不同的 JS 和 CSS 缩小器.
 * [Bundler](https://github.com/ServiceStack/Bundler)  - 编译和缩小 Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript 文件. 与 MVC 和 ServiceStack 集成
 * [SquishIt](https://github.com/jetheredge/SquishIt) - 让您*轻松*捆绑一些 CSS 和 JavaScript
 
@@ -104,7 +105,7 @@
 * [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - 自动对焦# [Hawk](https://github.com/outmoded/hawk) 认证库
 * [IdentityModel](https://github.com/IdentityModel) - .NET 4.5 和 MVC4/Web API 中用于身份和访问控制的帮助程序库.
 * [IdentityServer](https://github.com/IdentityServer) - 可扩展的 OAuth2 和 OpenID Connect 提供程序框架.
-* [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - 一个非常轻量级的库，用于生成用 C 编写的 OAuth 1.0a 签名#
+* [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman 是一个在开发过程中利用 .NET Claims Identity 模拟用户的库.
 
 ## Blazor
@@ -116,7 +117,7 @@
 
 ## Blockchain
 
-* [Nethermind](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
+* [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core 中的完整以太坊客户端
 
 ## Books
 
@@ -140,6 +141,11 @@
 * [.NET Maui in Action](https://www.manning.com/books/dot-net-maui-in-action)  - 一本关于使用一组通用 .NET 工具创建移动和桌面应用程序的书.  **[$]**
 * [.NET in Action, Second Edition](https://www.manning.com/books/dotnet-in-action-second-edition)  - 介绍在 Microsoft .NET 平台上实现功能齐全的跨平台专业应用程序.  **[$]**
 * [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4)  - 深入了解 .NET 内存管理，包括全面介绍 .NET 内存的工作原理、实现细节、可能的陷阱以及解决方法.  **[$]**
+* [Pro .NET Benchmarking](https://link.springer.com/book/10.1007/978-1-4842-4941-3)  - 深入了解软件基准测试，以实现准确的性能测量. 通过识别和定位正确的瓶颈，帮助您获得最大的性能影响. 包括最新的编译器和处理器.  **[$]**
+* [Pro .NET Framework with the Base Class Library](https://link.springer.com/book/10.1007/978-1-4842-4191-2)  - 展示有助于正确使用管理类型的宝贵提示和示例，包括如何避免装箱/拆箱以及更好地使用内存资源.  **[$]**
+* [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **[$]**
+* [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1)  - 全彩 ASP.NET Core 6 上最全面的覆盖范围. 详细的解释和大量的工作代码来学习新功能. 提供功能齐全的 ASP.NET Core 6 应用程序，可用作项目的模板.  **[$]**
+* [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8)  - 向您展示如何快速掌握 .NET 6、Docker 和微服务. 教您如何利用微服务设计模式来增强应用程序. 为协调器和 Azure Kubernetes 服务提供环境选项.  **[$]**
 
 ## Build Automation
 
@@ -154,7 +160,7 @@
 
 ## Business Intelligence
 
-* [FastReport](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
+* [FastReport](https://github.com/FastReports/FastReport)  - .NET Core 2.x/.Net Framework 4.x 的开源报告生成器.  FastReport 可用于 ASP.NET MVC、Web API 应用程序.
 * [NReco PivotData](https://www.nrecosite.com/pivot_data_library_net.aspx) - 内存数据聚合/OLAP 库、数据透视表生成（呈现为 HTML、导出）、ASP.NET 数据透视构建器控制 **[$][单次部署/非 SaaS 免费]**
 
 ## Caching
@@ -328,7 +334,7 @@
 * [Unfold](https://github.com/thomasvm/unfold) - 用于 .NET Web 应用程序的基于 PowerShell 的部署解决方案
 * [DbUp](https://github.com/DbUp/DbUp)  - .NET 库，可帮助您将更改部署到 SQL Server 数据库. 它跟踪已运行的 SQL 脚本，并运行使数据库保持最新所需的更改脚本
 * [Octo Pack](https://github.com/OctopusDeploy/OctoPack) - 用于构建应用程序的 NuGet 包，以便使用 Octopus Deploy 等工具进行部署
-* [yuniql](https://github.com/rdagumampan/yuniql)  - 使用 .NET Core 制作的免费和开源架构版本控制和迁移工具. 使用纯 SQL 运行迁移，在普通文件夹中排列版本，并通过独立 CLI（无需 CLR）、Azure Pipelines、Docker 或 ASP.NET Core 代码从 CSV 播种数据.  https://yuniql.io
+* [yuniql](https://github.com/rdagumampan/yuniql)  - 使用 .NET Core 制作的免费和开源架构版本控制和迁移工具. 使用纯 SQL 运行迁移，在普通文件夹中排列版本，并通过独立 CLI（无需 CLR）、Azure Pipelines、Docker 或 ASP.NET Core 代码从 CSV 中播种数据.  https://yuniql.io
 ## DirectX
 
 * [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) - DirectX、WIC、Direct2D1、XInput、XAudio 和 X3DAudio 的跨平台 .NET 标准库
@@ -353,7 +359,7 @@
 
 * [Sandcastle](https://github.com/EWSoftware/SHFB) - 类似于 NDoc 的 Sandcastle 帮助文件生成器
 * [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - 支持 https://referencesource.microsoft.com 的源浏览器网站生成器
-* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a Swagger to Web API projects.
+* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.WebApi) - 将 Swagger 无缝添加到 Web API 项目中.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
 * [DocFX](https://github.com/dotnet/docfx) - 为 .NET 项目构建和发布 API 文档的工具
 
@@ -383,7 +389,7 @@
 
 * [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - 一个简单的 .NET 调解器，用于发送命令、发布事件和请求响应，支持管道
 * [MediatR](https://github.com/jbogard/MediatR) - .NET 中简单、无野心的中介实现
-* [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
+* [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - 来自 Reactive.EventAggregator 的超简单响应式扩展代码
 * [TinyMessenger](https://github.com/grumpydev/TinyMessenger) - 用于松散耦合通信的轻量级事件聚合器/信使.
 * [Xer.Cqrs](https://github.com/XerProjects/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 * [FluentMediator](https://github.com/ivanpaulovich/FluentMediator) - FluentMediator 是一个不显眼的库，允许开发人员为命令、查询和事件构建自定义管道
@@ -424,7 +430,7 @@
  * [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite/)  .NET GIS 解决方案，在 .NET 平台上快速可靠
  * [SharpMap](https://github.com/SharpMap) 一个易于使用的映射库，用于 Web 和桌面应用程序
  * [OsmSharp](https://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
- * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - 从实体框架空间数据或知名文本 (WKT) 输入创建 GeoJSON 的库.
+ * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
  * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - 用于 GeoJSON 类型和相应 Json.Net (de)serializers 的 .Net 库
  * [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - 轻松解析或转换坐标格式并计算基于位置的太阳/月球信息.
  * [DEM Net Elevation API](https://github.com/dem-net/dem.net) - 用于数字高程模型的 .Net 库，允许以 glTF / STL 格式生成 3D 地形.
@@ -472,7 +478,7 @@
 * [XWT](https://github.com/mono/xwt) - 用于使用 .NET 和 Mono 创建桌面应用程序的跨平台 UI 工具包
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建 Material Design 风格的 WPF 应用程序的工具包
-* [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中用于桌面和移动应用程序的跨平台 GUI 框架
+* [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中的桌面和移动应用程序的跨平台 GUI 框架
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕裂的 WPF 选项卡控件（类似于 Chrome），支持布局并完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite 是一个为 WPF 实现类似 Office 和 Windows 8 的功能区的库.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) - 为 WinForms 实现 MS Office 功能区的库.
@@ -502,7 +508,7 @@
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - C 的 CSS3 解析器库#
 * [HtmlAgilityPack](https://html-agility-pack.net/?z=codeplex) - 一个敏捷的 HTML 解析器，它构建一个读/写 DOM 并支持纯 XPath 或 XSLT
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET 包装器 [libSass](https://sass-lang.com/libsass) 能够支持虚拟文件系统的库
-* [LtGt](https://github.com/Tyrrrz/LtGt) - 轻量级 HTML 处理器，可用于解析和导航 DOM，处理 CSS 选择器，可以转换为 Linq2Xml，易于扩展等.
+* [LtGt](https://github.com/Tyrrrz/LtGt) - 轻量级 HTML 处理器，可用于解析和导航 DOM，处理 CSS 选择器，可以转换为 Linq2Xml，易于扩展等等.
 
 ## HTTP
 
@@ -550,7 +556,7 @@
 ## Install tools
 
 * [Wix Toolset](https://wixtoolset.org/) - 可用于创建 Windows 安装体验的最强大的工具集
-* [Squirrel](https://github.com/squirrel/squirrel.windows) - Squirrel 既是一套工具又是一个库，可以完全管理桌面 Windows 应用程序的安装和更新.
+* [Squirrel](https://github.com/squirrel/squirrel.windows) - Squirrel 既是一组工具又是一个库，可以完全管理桌面 Windows 应用程序的安装和更新.
 * [Chocolatey](https://github.com/chocolatey/choco) - 像 `yum` 或 `apt-get`，但适用于 Windows.
 * [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - WiX 项目的交互式编辑器.
 * [Onova](https://github.com/Tyrrrz/Onova) - 一个独立的桌面应用程序自动更新框架.
@@ -592,7 +598,7 @@
 * [Scrutor](https://github.com/khellang/Scrutor) - Microsoft.Extensions.DependencyInjection 的程序集扫描扩展.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Visual Studio 使用的托管可扩展性框架 (MEF) 实现.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - 一个易于使用、无忧无虑的控制反转容器，适用于小型项目、库和初学者等.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) - 用于基于 .NET 的解决方案的轻量级、可移植的依赖注入框架.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ## JavaScript Engines
 
@@ -629,7 +635,7 @@
 * [Infer.NET](https://dotnet.github.io/infer/)  - 在图形模型中运行贝叶斯推理的框架. 它也可以用于概率编程.
 * [Accord.NET](http://accord-framework.net/) - 结合音频和图像处理库（计算机视觉、计算机试听、信号处理和统计）的机器学习框架.
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - 高级图像处理和计算机视觉算法作为流畅的扩展.
-* [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
+* [AForge.NET](http://www.aforgenet.com/) - 计算机视觉和人工智能（图像处理、神经网络、遗传算法、机器学习、机器人技术）领域的开发人员和研究人员的框架.
 * [Catalyst](https://github.com/curiosity-ai/catalyst) 受 spaCy 启发的跨平台自然语言处理 (NLP) 库，具有预训练模型、对训练单词和文档嵌入的开箱即用支持以及灵活的实体识别模型. 的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 * [Deedle](https://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
@@ -673,7 +679,7 @@
 
 ## Media
 
-* [CSCore](https://github.com/filoe/cscore) - 高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
+* [CSCore](https://github.com/filoe/cscore) - 一个高级音频库，支持实时播放/录制、解码/编码和处理音频数据（效果、可视化等）.
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 媒体文件中的元数据，包括视频、音频和照片格式
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - libvlc 的 Xamarin 绑定，支持 VideoLAN 制作的 VLC 应用程序的多媒体框架.
@@ -693,7 +699,7 @@
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin)  - 包含具有最高性能的 JS 和 CSS 缩小器，因为它是专为 .NET 设计的. 可选择为 JS 代码生成 Source Maps.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin)  - .NET 库，包含一组标记缩小器. 该项目的目标是通过减小 HTML、XHTML 和 XML 代码的大小来提高 Web 应用程序的性能.
-* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器而无需按需压缩，当浏览器指示我支持它时，还支持发送更高级的图像格式.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
@@ -709,7 +715,7 @@
 * [Guard](https://github.com/safakgur/guard) - 一个高性能、可扩展的参数验证库.
 * [Valit](https://github.com/valit-stack/Valit) - Valit 是 .NET Core 的简单、流畅的验证.
 * [Validot](https://github.com/bartoszlenar/Validot)  - Validot 是一个性能优先的紧凑型库，用于高级模型验证. 使用简单的声明式流畅接口，它可以有效地处理类、结构、嵌套成员、集合、可空对象以及它们的任何关系或组合. 它还支持翻译、带有测试的自定义逻辑扩展和 DI 容器.
-* [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer 满足您对 .NET 操作和显示字符串、枚举、日期、时间、时间跨度、数字和数量的所有需求
+* [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer 满足您所有 .NET 对操作和显示字符串、枚举、日期、时间、时间跨度、数字和数量的需求
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [LINQPad.QueryPlanVisualizer](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - 直接在 LINQPad 中查看 SQL Server 和 Postgres 查询计划.
 * [Polly](https://github.com/App-vNext/Polly)  - 以流畅的方式表达瞬时异常处理和弹性策略，例如重试、等待和重试、断路器和隔板隔离. 完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
@@ -722,7 +728,7 @@
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [Warden](https://github.com/warden-stack/Warden)  - 为您的应用程序、资源和基础设施定义“健康检查”. 让您的守望者时刻保持警惕
-* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示的值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
+* [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
 * [Jot](https://github.com/anakic/jot) - 一个用于持久化和恢复应用程序状态的库（一个更好的替代 .settings 文件）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 该库使您能够在 .NET 中枚举和与 Hid 兼容的 USB 设备进行通信.
@@ -731,7 +737,7 @@
 * [DeviceId](https://github.com/MatthewKing/DeviceId) - 生成可用于唯一标识计算机的“设备 ID”.
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - 通用设备检测库将解析任何用户代理并检测浏览器、操作系统、使用的设备（台式机、平板电脑、移动设备、电视、汽车、控制台等）、品牌和型号.
 * [NaturalSort.Extension](https://github.com/tompazourek/NaturalSort.Extension) - StringComparer 的扩展方法，增加了对自然排序的支持（例如“abc1”、“abc2”、“abc10”而不是“abc1”、“abc10”、“abc2”）.
-* [Coravel](https://github.com/jamesmh/coravel) 近乎零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（等等）变得轻而易举！
+* [Coravel](https://github.com/jamesmh/coravel) 近乎零配置的 .NET Core 库，使任务调度、缓存、队列、邮件、事件广播（以及更多）变得轻而易举！
 * [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - 一个非常快速和高效的 Levenshtein 距离计算器，具有 SIMD 和线程支持
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - 一个简单但功能强大的 .NET 网络爬虫库
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - .NET 的简单构建版本控制，由 Git 标签提供支持
@@ -749,7 +755,7 @@
 * [Win Application Framework (WAF)](https://github.com/jbe2277/waf)  - 一个轻量级框架，可帮助您创建结构良好的 WPF 和 UWP 应用程序. 它支持您应用分层架构和模型-视图-视图模型模式.
 * [MVVMCross](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Stylet](https://github.com/canton7/stylet/) - 受 Caliburn Micro 启发的最小 MVVM 框架，具有良好的文档、高测试覆盖率和自己的 IoC 容器
-* [Gemini](https://github.com/tgjones/gemini)  - IDE 框架在概念上类似于 Visual Studio Shell. 基于 WPF、AvalonDock 和 Caliburn Micro 构建.
+* [Gemini](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 * [Toms Toolbox](https://github.com/tom-englert/TomsToolbox) - Visual Composition 框架，可轻松构建基于 [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/).
 * [MVVM Dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - 在 WPF 或 UWP 中使用 MVVM 时，框架简化了从视图模型打开对话框的概念.
 * [Smaragd](https://github.com/nkristek/Smaragd) - 一个独立于平台的轻量级库，用于使用 MVVM 架构开发 .NET 应用程序.
@@ -775,11 +781,11 @@
 * [NPOI](https://github.com/tonyqus/npoi) - 该项目是 POI Java 项目的 .NET 版本，位于 https://poi.apache.org/.
 * [EPPlus](https://github.com/JanKallman/EPPlus) - EPPlus 是一个 .NET 库，它使用 Open Office XML 格式 (xlsx) 读写 Excel 2007/2010 文件.
 * [Open XML SDK](https://github.com/officedev/open-xml-sdk) - Open XML SDK 提供用于处理 Open XML 文档（DOCX、XLSX 和 PPTX）的开源库.
-* [DocX](https://github.com/xceedsoftware/DocX) - DocX 是一个 .NET 库，允许开发人员操作 Word 2007/2010/2013 文件，它不需要安装 Microsoft Word 或 Office.
+* [DocX](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 * [NetOffice](https://github.com/NetOfficeFw/NetOffice) - 用于 Microsoft Office 应用程序的 .NET 包装程序集.
 * [GemBox.Bundle](https://www.gemboxsoftware.com/bundle)  - 一个 .NET 组件包，可以快速、简单和高效地处理办公文件（Excel、Word、PowerPoint、PDF 和电子邮件）.  **[$]****[免费精简版]**
-* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm) - Library to work with the Outlook Object Model and (Extended) MAPI.  Supports Outlook 98 - 2019. Work with objects/mails/accounts/folders in Exchange and Outlook. **[$]**
+* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm)  - 使用 Outlook 对象模型和（扩展）MAPI 的库. 支持 Outlook 98 - 2019.在 Exchange 和 Outlook 中使用对象/邮件/帐户/文件夹.  **[$]**
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - 一个流利的 API，用于在没有安装 Microsoft Office 的情况下处理 PowerPoint 演示文稿.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - 微型 Excel 助手可避免 OOM 和高性能创建/映射/模板填充数据.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET 文本提取框架支持几种文件格式
@@ -799,7 +805,7 @@
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - .net 的流利迁移框架
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - 轻便、简单、快速的基于约定的 POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - 一个小而快乐的数据访问工具，会永远爱你.
-* [LINQ to DB](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
+* [LINQ to DB](https://github.com/linq2db/linq2db) - 最快的 LINQ 数据库访问库，在 POCO 对象和数据库之间提供简单、轻量、快速和类型安全的层.
 * [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM 是一个用于 .NET 框架的微对象关系映射器. 它被设计为易于使用、可扩展和可测试.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - 为您的 POCO 准备的一个小小的 ORM-ish
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) - 一个期待已久的完全异步 PetaPoco 分叉
@@ -824,9 +830,9 @@
 
 ## PDF
 
-* [Cloudmersive PDF](https://cloudmersive.com/pdf-api)  - Cloudmersive PDF 是一种原生 .NET Framework 和 .NET Core NuGet 库和 API 服务，可以创建、修改、加密或转换高保真度的 PDF 文档； 并且可以免费使用，没有过期**[免费]**
+* [Cloudmersive PDF](https://cloudmersive.com/pdf-api)  - Cloudmersive PDF 是一个原生 .NET Framework 和 .NET Core NuGet 库和 API 服务，可以创建、修改、加密或转换高保真度的 PDF 文档； 并且可以免费使用，没有过期**[免费]**
 * [Docotic.Pdf](https://bitmiracle.com/pdf-library/)  - PDF 库，用于在 .NET 和 .NET Core 应用程序中创建、阅读、编辑、绘制和打印 PDF 文档.  100% 托管，没有不安全的块.  **[$]** **[[Free for OSS](https://bitmiracle.com/pdf-library/free-pdf-library.aspx)]**
-* [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，允许您以可移植文档格式 (PDF) 创建、调整、检查和维护文档**[$]** **[OSS 免费]**
+* [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，可让您以可移植文档格式 (PDF) 创建、调整、检查和维护文档**[$]** **[OSS 免费]**
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer 是基于 PDFium 项目的 PDF 查看器.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 * [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) . 一个 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可以轻松包含在您的项目中.**[$]**
@@ -933,7 +939,7 @@
 * [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) - 协议缓冲区是 Google 用于其大部分数据通信的二进制序列化格式的名称
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - 适用于 .NET 的流行高性能 JSON 框架
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - servicestack.net 中使用的 JSON、JSV 和 CSV 文本序列化器
-* [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - 公共语言基础设施的 MessagePack 实现
+* [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 * [Jil](https://github.com/kevin-montrose/Jil) - 基于 Sigil 构建的快速 .NET JSON 序列化程序（由 StackOverflow 使用）
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp)  - 快速、惯用的 FlatBuffers 实现. 使用 .fbs 文件或属性.
@@ -964,7 +970,7 @@
 
 ## Strong Naming
 
-* [Strong Namer](https://github.com/dsplaisted/strongnamer)  - 自动将强名称添加到尚未具有强名称的引用程序集. 这将允许您从使用强名称的项目中引用和使用非强名称的程序集（NuGet 包）.
+* [Strong Namer](https://github.com/dsplaisted/strongnamer)  - 自动将强名称添加到尚未具有强名称的引用程序集. 这将允许您从使用强名称的项目中引用和使用非强命名的程序集（NuGet 包）.
 * [.NET Assembly Strong-Name Signer](https://github.com/brutaldev/StrongNameSigner) - 用于对 .NET 程序集进行强名称签名的实用软件，包括您没有源代码的程序集.
 
 ## Style Guide
@@ -1009,7 +1015,7 @@
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时简单明了.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - .NET Core 和 .NET Framework 的快照测试工具
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - 将业务需求绑定到 .Net 代码
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的变异测试
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - 一个 xUnit.net 扩展，用于使用自然语言描述您的测试.
 * [xUnit.net](https://github.com/xunit/xunit) - 一个免费的、开源的、以社区为中心的 .NET Framework 单元测试工具.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
@@ -1025,7 +1031,7 @@
 * [Fiddler](https://www.telerik.com/fiddler) - 适用于任何浏览器、系统或平台的免费网络调试代理
 * [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter)  - 与 WordPress、Blogger 等集成的博客作者. 人.  Open Live Writer 可让您轻松编写、预览和发布到您的博客.
 * [CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub 是在任何 iOS 设备上浏览和维护 GitHub 存储库的最佳方式！
-* [ShareX](https://github.com/ShareX/ShareX)  - ShareX 是一个免费的开源程序，可让您捕获或记录屏幕的任何区域，并只需按一下键即可共享. 它还允许将图像、文本或其他类型的文件上传到您可以选择的 80 多个受支持的目的地.
+* [ShareX](https://github.com/ShareX/ShareX)  - ShareX 是一个免费的开源程序，可让您捕获或记录屏幕的任何区域，只需按一下键即可共享. 它还允许将图像、文本或其他类型的文件上传到您可以选择的 80 多个受支持的目的地.
 * [Myrtille](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange 的监控系统
 * [CatLight](https://catlight.io)  - 为 TFS/Jenkins/Travis/Appveyor 构建状态通知. 基于 .NET Core 和 Electron 的跨平台桌面应用.  **[免费][专有]**
@@ -1062,12 +1068,12 @@
 * [Web Essentials](https://github.com/madskristensen/WebEssentials2019) - Web Essentials 使用 Web 开发人员多年来一直缺少的许多新功能扩展了 Visual Studio
 * [VsVIM](https://github.com/VsVim/VsVim) - Visual Studio 中的 VIM
 * [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet 是包括 .NET 在内的 Microsoft 开发平台的包管理器
-* [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，让任何 Web 开发人员的生活变得更加轻松
+* [SideWaffle](https://github.com/ligershark/side-waffle) - Visual Studio 2012/2013/2015 的项目模板集合，让任何 Web 开发人员的生活更轻松
 * [Resharper](https://www.jetbrains.com/resharper/) - Visual Studio 的开发人员生产力工具 **[$]**
 * [CodeContracts](https://github.com/Microsoft/CodeContracts) - .NET 的 CodeContracts 工具的源代码
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - 在 Visual Studio 边距和滚动条上显示当前编辑文件的实时 Git 更改
-* [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) - A set of extensions to Visual Studio Professional (and above) which improves developer productivity.
-* [Tabs Studio](https://tabsstudio.com/) - Visual Studio tab manager with multiple tab rows, tab coloring and tab grouping. **[$]**
+* [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) - 一组 Visual Studio Professional（及更高版本）的扩展，可提高开发人员的工作效率.
+* [Tabs Studio](https://tabsstudio.com/)  - 具有多个选项卡行、选项卡着色和选项卡分组的 Visual Studio 选项卡管理器.  **[$]**
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)  - 构建、查找和调试输出窗口的颜色突出显示. 可以添加自定义匹配图案和颜色.
 * [CodeLineage](https://marketplace.visualstudio.com/items?itemName=HippoCampSoftwareLtd.CodeLineage) - 轻松访问文件修订之间的累积差异视图（支持 svn、git、mercurial、perforce）.
 * [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)  - OzCode 是一个 Visual Studio 扩展，它通过检测和隔离错误来减少调试时间并提高生产力，使它们易于修复.  **[$]**
@@ -1142,7 +1148,7 @@
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) - 精彩的 .NET 性能书籍、课程、培训、会议演讲、博客和最鼓舞人心的开源贡献者的精选列表.
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) - 领域驱动设计 (DDD)、命令查询职责分离 (CQRS)、事件溯源和事件风暴资源的精选列表
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - 分类社区驱动的高质量 Unity 资产、项目和资源的集合.
-* [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - Xamarin 移动项目的有趣库/工具的集合.
+* [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - 精选的 Roslyn 书籍、教程、开源项目、分析器、代码修复和重构列表.
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - 这个社区维护的列表展示了对开发过程的任何方面都很有用的 .NET 开源项目.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - 一系列精彩的培训系列、文章、视频、书籍、课程、示例项目和 .NET Core 中的微服务工具.

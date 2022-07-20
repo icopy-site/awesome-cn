@@ -36,13 +36,12 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - 用于 Node-RED 的 TDengine 连接器插件.
 
 ## ORM
-
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL 接口、标准、CriteriaBuilder、ResultMapBuilder.
 - [TDengine ORM Framework](https://github.com/hxshun/TDengineORM) - TAOS Data的时间序列数据库TDengine的ORM框架.
 - [IoTSharp.EntityFrameworkCore.Taos](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - 实体、框架、EF、核心、数据、O/RM、实体框架核心、TDengine.
-- [taodbi](https://github.com/genelet/taodbi) - 使用大数据系统TDengine的抽象接口包.
 - [tdengine-orm](https://github.com/Yurunsoft/tdengine-orm) - 基于 tdengine-restful-connector 和 php-tdengine 的 TDengine ORM.<!--lint ignore awesome-list-item-->
 - [crown](https://github.com/machine-w/crown) - Crown 是 TDengine 的一个简单的小型 ORM.
+- [APIJSON](https://github.com/Tencent/APIJSON) - 无需编写任何代码即可提供 API 和文档的 JSON 传输协议和 ORM 库.
 
 ## Connector
 
@@ -76,7 +75,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 
 ## Data
 
-- [tsarchive](https://github.com/cenc-cea/tsarchive) - 消费来自 Kafka 主题的数据流，将数据包归档到 TDengine 时间序列数据库中.
+- [tsarchive](https://github.com/cenc-cea/tsarchive) - 使用来自 Kafka 主题的数据流，将数据包归档到 TDengine 时间序列数据库中.
 - [flink-connector-tdengine](https://github.com/echisan/flink-connector-tdengine)
 - [TD-Spark](https://github.com/liuyq-617/TD-Spark) - 一个 java 项目，从 TDengine 读取并写入 Spark 上的 TDengine.
 - [Integrate TDengine to YoMo](https://github.com/yomorun/yomo-sink-tdengine-example) - 演示如何将 TDengine 集成到 YoMo 并在流处理后将数据存储到 TDengine.

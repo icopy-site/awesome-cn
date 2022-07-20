@@ -161,7 +161,6 @@ Apple 以 zip 档案形式分发的 Playground 必须手动下载.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - 任意二叉树的轻松可视化，以及它们的可插入遍历实现.
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - 生成漂亮的 Julia 集分形图像的 Swift 游乐场. 
 * [A Star](https://github.com/Dev1an/A-Star) - Swift 4 中面向协议的 A* 寻路算法实现.
-* [Sorting Algorithms](https://github.com/bwide/Sorting-Algorithms-Playground) - 一些著名的排序算法和你的实验的实时可视化.
 * [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground)  - Swift 中的数据结构和算法.  ⏳
 * [Swiftography](https://github.com/sketchytech/Swiftography)  - Swift Playground 中的标准加密算法.  ⏳
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground)  - Swift 中的各种算法实现.  ⏳
