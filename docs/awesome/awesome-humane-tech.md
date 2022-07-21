@@ -24,7 +24,7 @@
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-我们的使命是： [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
+Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
 
 我们很高兴邀请您参加我们 [Humane Tech Community Forum](https://community.humanetech.com) 阅读更多有趣的人文科技主题，参与我们的讨论，并成为一个真正的:heart: _Humane Tech Activist！_
 
@@ -97,10 +97,11 @@
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) - Debloat 无根智能手机，以提高隐私、安全性和电池寿命.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) - 基于 HTTPS 和 Tor 的 DNS、DNSCrypt 客户端、防火墙和 Android 连接跟踪器.
 - [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) - Databunker 是基于网络的、自托管的、符合 GDPR 的个人数据安全存储.
-- [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) - A firewall that aims to block unknown outgoing connections, protecting your privacy and your Mac.
+- [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) - 旨在阻止未知传出连接、保护您的隐私和 Mac 的防火墙.
 - [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - 阻止 Google 和 Apple 使用 pihole 收集的未经同意的遥测数据.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/IngoZenz/personaldnsfilter) - 一个 DNS 过滤器代理，用于根据主机列表过滤不需要的主机.
 - [JShelter](https://jshelter.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/pagure.svg?sanitize=true" width="16"/>](https://pagure.io/JS-Shield/JS-Shield) - 一个反恶意软件 Firefox 扩展，用于缓解来自 JavaScript 的潜在威胁.
+- [Firezone](https://www.firezone.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/firezone/firezone)  - 自托管 VPN 和 Linux 防火墙管理器. 它建立在 WireGuard 之上，既快速又轻巧.
 
 
 ## Tracking
@@ -119,7 +120,7 @@
 - [Better](https://better.fyi/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) - iPhone、iPad 和 Mac 上的 Safari 隐私工具，可阻止行为广告和跟踪器.
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) - 创建具有良好默认值的 Firefox 配置文件的工具.
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/asciimoo/searx) - 可以自托管的无跟踪器、尊重隐私的元搜索引擎.
-- [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - A DNS-based Host Blocker (and lightweight ad blocker) for Android.
+- [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - 适用于 Android 的基于 DNS 的主机拦截器（和轻量级广告拦截器）.
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - 浏览器扩展程序会在选项卡关闭后立即删除 cookie，除非站点被允许列出.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - 使用 130 条规则从地址栏 URL 中删除跟踪元素的插件.
 - [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pi-hole/pi-hole) - 无需安装任何客户端软件即可阻止本地网络上的广告或跟踪器的 DNS 沉洞.
@@ -156,7 +157,7 @@
 - [Shynet](https://github.com/milesmcc/shynet) - 隐私友好和详细的网络分析，无需 cookie 或 JS.
 - [PostHog](https://posthog.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PostHog/posthog) - 对开发人员友好的开源产品分析.
 - [umami](https://umami.is/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mikecao/umami) - 一个简单、快速的网站分析替代谷歌分析.
-- [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) - 免费的实时日志文件分析器以获取高级统计信息.
+- [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) - Free real-time logfile analyzer to get advanced statistics.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  - 公平的网络分析. 在您的用户完全控制他们的数据的同时获得洞察力.
 - [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kindmetrics/kindmetrics) - Crystal 制作的以隐私为中心的网站分析 - 在欧盟托管.
 - [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ihucos/counter.dev) - 网络分析变得简单，因此对隐私友好.
