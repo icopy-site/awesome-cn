@@ -58,7 +58,7 @@
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - 该工具从供应商目录中删除不必要的文件和目录.
 - [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin)  - 使您能够从供应商文件夹中删除文件和文件夹（以进行更清洁和更小的生产部署）. 它是 `.gitattributes` 的替代品.
 - [Composer-Vendor-Cleaner](https://github.com/liborm85/composer-vendor-cleaner) - 插件通过 glob 模式语法从 `vendor` 目录中删除不必要的开发文件和目录.
-- [Composer-Skrub](https://github.com/ssx/skrub) - 该插件有助于从 Composer 安装中删除垃圾并修剪构建大小.
+- [Composer-Skrub](https://github.com/ssx/skrub) - The plugin helps to remove junk from Composer installations and trim build sizes.
 - [Drupal Vendor Hardening Composer Plugin](https://github.com/drupal/core-vendor-hardening) - 从项目的供应商目录中删除无关目录并将 .htaccess 和 web.config 文件添加到项目供应商目录的根目录.
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - 允许您通过创建符号链接在项目之间共享选定的包.
 - [Composer-Symlinker](https://github.com/e-picas/composer-symlinker) - 使您能够从不同的目录加载包（而不是从 /vendor 加载它们）.
@@ -74,7 +74,7 @@
 - [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - 一个用于在您的作曲家配置中轻松管理 git 钩子的库.
 - [Symfony-Flex](https://github.com/symfony/flex) - 提供 [recipe-based](https://github.com/symfony/recipes) Symfony 软件包的安装和配置管理.
 - [Narrowspark-Automatic](https://github.com/narrowspark/automatic) - 自动执行最常见的应用程序任务、促进软件包下载、添加 composer 安全审计等等.
-- [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 编码标准（规则集）.
+- [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) - 该插件使您能够安装 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 编码标准（规则集）.
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) - 该插件将命令`warmup-opcode` 添加到 Composer，这会触发将项目中发现的所有 PHP 文件编译到 Opcache 中.
 - [Foxy](https://github.com/fxpio/foxy) - 安装或更新 composer 包时执行 npm/yarn 包安装操作的 Composer 插件.
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - NodeJS 和 npm 的安装程序.
@@ -92,6 +92,7 @@
 - [Composer-Link](https://github.com/SanderSander/composer-link) - 添加链接本地包以进行开发的功能.
 - [Composer-REPL](https://github.com/ramsey/composer-repl) - 该插件提供了 `composer repl` 命令，它为您提供了一个 PHP 语言外壳（read-eval-print 循环）.
 - [Composer-Diff](https://github.com/IonBazan/composer-diff) - 比较 `composer.lock` 更改并生成 Markdown 报告以在拉取请求描述中使用.
+- [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) - 使用快速可靠的 Composer 包下载 [Velocita](https://github.com/isaaceindhoven/velocita-proxy)：一个缓存反向代理，不需要你修改你的项目.
 
 ## Tools
 
@@ -239,7 +240,7 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
 - [Asset Packagist](https://asset-packagist.org/) - 允许将 Bower 和 NPM 包安装为原生 Composer 包.
 - [Firegento](https://packages.firegento.com/) - 提供 Magento 模块的 Composer 存储库.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Drupal 7 和 8 核心、模块和主题的 Composer 存储库.
-- [Satis Server](https://github.com/lukaszlach/satis-server) - 这个 docker 容器提供了一个 Satis 服务器，使您能够运行一个私有的、自托管的 Composer 存储库，支持 Git、Mercurial 和 Subversion、HTTP API、HTTPS 支持、webhook 处理程序和计划的构建.
+- [Satis Server](https://github.com/lukaszlach/satis-server) - 这个 docker 容器提供了一个 Satis 服务器，使您能够运行一个私有的、自托管的 Composer 存储库，支持 Git、Mercurial 和 Subversion、HTTP API、HTTPS 支持、webhook 处理程序和计划构建.
 - [Cloudsmith](https://cloudsmith.com/) - 一个完全托管的包管理 SaaS，支持 PHP/Composer（以及许多其他）.
 - [Release Belt](https://github.com/Rarst/release-belt) - 自托管 Composer 存储库实施，可快速集成第三方非 Composer 版本的 ZIP 文件.
 - [Packeton](https://github.com/vtsykun/packeton)  - 供应商的私有自托管 Composer 存储库.  packagist 的分支，增加了对授权、客户用户、组、webhook 的支持.
@@ -261,4 +262,4 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Jens A. Koch](https://github.com/jakoch) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Jens A. Koch](https://github.com/jakoch) 已放弃本作品的所有版权和相关或邻近权利.

@@ -6,12 +6,16 @@
 
 ## Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-这是一个广受好评的 CSS 演讲合集，涵盖的主题包括 CSS Grid、flexbox、框架、变量、Sass、SVG、性能、工具等.
+这是一个广受好评的关于 CSS 的讨论集，涵盖的主题包括 CSS Grid、flexbox、自定义变量、性能、框架、Sass、工具等.
 
  &gt; **喜欢 JavaScript？ 查看 [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** 对于其他伟大的列表，请查看 [@sindresorhus](https://github.com/sindresorhus/)的精选列表 [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
+
+
+### 2022
+1. [**CSS Variable Secrets**](https://www.youtube.com/watch?v=ZuZizqDF4q8): Lea Verou，CSS 日`59:06`
 
 
 ### 2020
@@ -36,7 +40,6 @@
 
 ### 2017
 
-1. [**CSS [变量] 秘密**](https://www.youtube.com/watch?v=UQRSaG1hQ20)：Lea Verou，SmashingConf Barcelona `49:57`
 1. [**CSS Grid Layout**](https://www.youtube.com/watch?v=N5Lt1SLqBmQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Rachel Andrew，前端 NE `59:14`
 1. [**The Power of CSS**](https://www.youtube.com/watch?v=IRI1H5tyEAo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Una Kravets，前沿趋势`30:57`
 1. [**CSS and the First Meaningful Paint**](https://www.youtube.com/watch?v=4pQ2byAoIX0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf EU `37:56`
@@ -46,7 +49,6 @@
 ### 2016
 
 1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Christian Vuerings, SFHTML5 `17:15`
-1. [**CSS Variables: var(--subtitle)**](https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, CSSConf US `56:57`
 1. [**Laying out the Future with Grid and Flexbox**](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：雷切尔安德鲁，查看源会议`25:45`
 1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): David Khourshid, JSConf Iceland `31:02`
 1. [**Practical Blend Modes in CSS**](https://vimeo.com/184235576): Una Kravets, SmashingConf Freiburg `47:04`
@@ -65,7 +67,7 @@
 1. [**Inline Styles Are About to Kill CSS**](https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Colin Megill, CSSConf US `36:11`
 1. [**Let's Talk About Our CSS**](https://www.youtube.com/watch?v=NHpSmJrEvRQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Michelle Bu, TXJS `18:11`
 1. [**CSS for Software Engineers for CSS Developers**](https://vimeo.com/140641366): Harry Roberts, SmashingConf Freiburg `51:14`
-1. [**Photoshop Is Dead!: Editing Images in CSS**](https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, CSSConf EU `28: 42`
+1. [**Photoshop Is Dead!: Editing Images in CSS**](https://www.youtube.com/watch?v=LY65F2e4B5w&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Una Kravets, CSSConf EU `28:42`
 1. [**Enhancing Responsiveness With Flexbox**](https://www.youtube.com/watch?v=_98SE8WUvLk&index=10&list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9): Zoe M. Gillenwater, CSSConf EU `37:13`
 1. [**Move Slow and Fix Things**](https://www.youtube.com/watch?v=zmjfh099zYg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：丹尼尔·伊登，dotCSS `15:06`
 
@@ -94,7 +96,7 @@
 
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Pamela Fox, CSSConf US `28:48`
 1. [**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, JSConf Asia `44:49`
-1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jakob Mattsson, JSConf Asia `42: 07`
+1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Jakob Mattsson, JSConf Asia `42:07`
 1. [**CSSConf EU Keynote**](https://www.youtube.com/watch?v=ue-Z_HxS3cc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicole Sullivan，CSSConf EU `20:57`
 1. [**CSS Application Architecture**](https://vimeo.com/74359951)：尼古拉斯·加拉格尔，SmashingConf 弗莱堡`38:36`
 1. [**Realigning & Refactoring UI**](https://www.youtube.com/watch?v=I82ytAWxzrI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Jina Bolton，SassConf `48:08`

@@ -33,10 +33,10 @@
 
 ## Continuous Integration
 
-- [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
+- [AppVeyor](https://www.appveyor.com/) - 适用于 Windows 开发人员的 CI/CD.
 - [Bitrise](https://www.bitrise.io/) - 为 Android 和 iOS 托管 CI/CD，公共项目免费.
 - [CircleCI](https://circleci.com/) - 基于 Docker 的构建，支持自定义工作流程.
-- [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
+- [Codefresh](https://codefresh.io/) - Docker 原生 CI/CD.
 - [Codeship](https://codeship.com/) - 持续集成、交付和部署.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - 部署自动化.
 - [Sauce Labs](https://saucelabs.com/) - 跨浏览器测试、Selenium 测试和移动测试.
@@ -107,6 +107,7 @@
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - 跨浏览器测试工具.
 - [Cloud9](https://c9.io/) - 基于云的开发环境.
 - [Codota](https://www.codota.com/) - AI结对编程助手.
+- [Firezone](https://www.firezone.dev/) `requires-approval` - 基于 WireGuard 的自托管远程访问.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - 开源项目的 SSL 证书.
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - 协作团队电子邮件收件箱.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - 专门开发智能开发工具的软件供应商.

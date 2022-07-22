@@ -31,11 +31,12 @@ _使用开源许可证发布的项目._
 - [DokuWiki](https://www.patreon.com/dokuwiki) - 维基应用程序.
 - [Duplicati](https://opencollective.com/duplicati) - 备份客户端.
 - [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - 适用于 Android 平台的 FOSS 应用程序的可安装目录.
+- [Firezone](https://github.com/orgs/firezone/sponsoring) - 使用 WireGuard 的自托管 VPN 服务器.
 - [Flarum](https://opencollective.com/flarum/) - 论坛平台.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - 参数化 3D 建模器，主要用于设计任何大小的真实对象.
 - [Funkwhale](https://opencollective.com/funkwhale) - 免费、联合和社交音乐服务器.
 - [GIMP](https://liberapay.com/GIMP/) - GNU 图像处理程序.
-- [Godot Engine](https://www.patreon.com/godotengine) - 完整的 3D 引擎. 
+- [Godot Engine](https://www.patreon.com/godotengine) - Complete 3D engine. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) - 跨平台的 2D 游戏引擎.
 - [Homebrew](https://www.patreon.com/homebrew) - macOS 的包管理器.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) - D&amp;D 桌面角色扮演游戏战斗追踪器.
@@ -127,21 +128,21 @@ _库和框架._
 _操作系统和 Linux 发行版._
 
 - [/e/](https://www.patreon.com/eelo) - 注重隐私的移动操作系统.
-- [Elementary OS](https://www.patreon.com/elementary) - Ubuntu 变体.
+- [Elementary OS](https://www.patreon.com/elementary) - 免费变体.
 - [FreeDOS](https://www.patreon.com/freedos) - MS-DOS 兼容操作系统.
 - [GhostBSD](https://www.patreon.com/GhostBSD) - 以桌面为中心的 BSD 操作系统.
 - [GrapheneOS](https://github.com/sponsors/thestinger) - 一个注重隐私和安全的移动操作系统，兼容 Android 应用程序.
 - [LineageOS](https://www.paypal.me/LineageOS), [#2](https://www.patreon.com/LineageOS) - CyanogenMod 的前叉. 
 - [Linux Lite](https://www.patreon.com/linuxlite) - Linux 发行版.
 - [Mobian](https://liberapay.com/mobian/) - Debian 移动版.
-- [Parrot](https://www.patreon.com/parrot) - Security-related Debian distribution.
+- [Parrot](https://www.patreon.com/parrot) - 与安全相关的 Debian 发行版.
 - [Qubes OS](https://opencollective.com/qubes-os) - 一个相当安全的操作系统.
 - [ReactOS](https://liberapay.com/ReactOS/) - 免费的 Windows 兼容操作系统
 - [Redox OS](https://www.patreon.com/redox_os) - 用 Rust 编写的操作系统.
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) - 适用于 x86 的图形类 Unix 操作系统，具有 90 年代的美感.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux 发行版.
 - [Solus](https://opencollective.com/getsolus) - Linux分布.
-- [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu 变体. 
+- [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - 免费变体. 
 - [Ubuntu Studio](https://www.patreon.com/ubuntustudio), [#2](https://liberapay.com/ubuntustudio) - 用于创建音频、视频、图形等的 Ubuntu 变体.
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - 触摸友好的 Ubuntu 移动版本.
 
@@ -155,7 +156,7 @@ _游戏和游戏相关项目._
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于 Windows 的 Xbox 模拟器.
 - [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/龙与地下城和 NPC 生成器.
-- [Libretro Team](https://www.patreon.com/libretro) - Libretro、RetroArch 和 Lakka. 
+- [Libretro Team](https://www.patreon.com/libretro) - 书柜、RetroArch 和数字. 
 - [Lutris](https://www.patreon.com/lutris) - 游戏启动器和平台.
 - [Play!](https://www.patreon.com/jpd002) - PS2 模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.

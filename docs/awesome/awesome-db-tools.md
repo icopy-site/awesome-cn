@@ -16,11 +16,11 @@
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
-- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
+- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio 是面向数据库开发人员、DBA 和分析师的生产力软件.
 - [Database .net](http://fishcodelib.com/Database.htm) - 多数据库管理工具，支持 20 多个数据库.
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
-- [DBeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库管理器和 SQL 客户端.
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - 用于 MySQL 和 MariaDB 数据库开发、管理和管理的通用 IDE.
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - 用于 Oracle 管理、管理和开发的强大 IDE.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - 用于管理和开发数据库和对象的 GUI 工具.
@@ -39,9 +39,9 @@
 - [Slashbase](https://github.com/slashbase/slashbase)  - 用于数据库的开源协作 IDE. 直接从您的浏览器连接到您的数据库、浏览数据、运行大量 SQL 命令或与您的团队共享 SQL 查询.
 - [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - SQL Server Management Studio (SSMS) 是一个集成环境，用于管理 SQL Server 和 Azure SQL 数据库的任何 SQL 基础结构.
 - [Toad](https://www.quest.com/toad/)  - Toad 是面向开发人员、管理员和数据分析师的首选数据库解决方案. 使用单一数据库管理工具管理复杂的数据库更改.
-- [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and Postgres.
+- [Toad Edge](https://www.toadworld.com/products/toad-edge) - MySQL 和 Postgres 的简化数据库开发工具.
 - [TOra](https://github.com/tora-tool/tora) - TOra 是用于 Oracle、MySQL 和 PostgreSQL 数据库的开源 SQL IDE.
-- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
+- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 免费创建、管理、查询和探索 Valentina DB、MySQL、MariaDB、PostgreSQL 和 SQLite 数据库.
 
 
 ## GUI
@@ -124,7 +124,7 @@
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
 
 ### Diagrams
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
@@ -178,24 +178,12 @@
 ## Backup
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - PostgreSQL 的备份和恢复管理器.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - 可靠的 PostgreSQL 备份和恢复.
-- [pgcopydb](https://github.com/dimitri/pgcopydb) - 将 Postgres 数据库复制到目标 Postgres 服务器（pg_dump | pg_restore on steroids）.
+- [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids).
 
 ## Cloning
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Postgres 的即时精简克隆以扩展开发过程.
 - [clone_schema](https://github.com/denishpatel/pg-clone-schema) - Postgres 克隆模式实用程序，无需离开数据库.
 - [Spawn](https://spawn.cc/)  - 用于为开发和 CI 创建即时数据库副本的云服务. 不再需要安装本地数据库、即时恢复到任意保存点、每个功能分支或测试的隔离副本. 无论数据库大小如何，都可以即时供应.
-
-
-## Scripts
-- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
-- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - 用于测量 PostgreSQL 索引和表中的统计膨胀的查询.
-- [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  - 检查您的数据库是否遵循以下规则的 SQL 测试<https://wiki.postgresql.org/wiki/Don't_Do_This> .
-- [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
-- [Postgres cheat sheet](https://postgrescheatsheet.com)  - 有用的 SQL 脚本和命令<timescale.com> .
-- [postgres_dba](https://github.com/NikolayS/postgres_dba) - 缺少对 Postgres DBA 和所有工程师有用的工具集.
-- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - 有用的 PostgreSQL 查询和命令.
-- [TPT](https://github.com/tanelpoder/tpt-oracle) - 这些 sqlplus 脚本用于 Oracle 数据库性能优化和故障排除.
 
 
 ## Monitoring/Statistics/Perfomance
@@ -234,7 +222,7 @@
 ## Testing
 - [DbFit](https://github.com/dbfit/dbfit) - 一个数据库测试框架，支持对您的数据库代码进行简单的测试驱动开发.
 - [RegreSQL](https://github.com/dimitri/regresql) - 回归测试您的 SQL 查询.
-- [SQLancer](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
+- [SQLancer](https://github.com/sqlancer/sqlancer) - 自动测试 DBMS 以发现其实现中的逻辑错误.
 
 
 ## HA/Failover/Sharding
@@ -300,7 +288,7 @@
 - [PartiQL](https://partiql.org) - 对关系、半结构化和嵌套数据的 SQL 兼容访问.
 
 ### Frameworks
-- [Apache Calcite](https://calcite.apache.org) - 具有高级 SQL 功能的动态数据管理框架.
+- [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
 - [ZetaSQL](https://github.com/google/zetasql) - SQL 分析器框架.
 
 ### Formatters
@@ -335,9 +323,30 @@
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL 语言服务器.
 - [sqls](https://github.com/lighttiger2505/sqls) - 用 Go 编写的 SQL 语言服务器.
 
+### Learning
+SQL 的学习和谜题
+- [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - 困难的基于集合的 SQL 谜题.
+- [Hackerrank](https://www.hackerrank.com/domains/sql) - 练习编码，准备面试，然后被录用.
+- [LeetCode](https://leetcode.com/problemset/database) - 提高您的技能，扩展您的知识并为技术面试做准备.
+- [Select Star SQL](https://selectstarsql.com) - 免费的互动书籍，旨在成为互联网上学习 SQL 的最佳场所.
+- [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - 数据科学教育资源.
+- [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - 学习 SQL 概念和命令的自学课程，以及为有经验的 SQL 用户解决有趣犯罪的有趣游戏.
+
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - 一个 VueJS 组件，用于显示 PostgreSQL 执行计划的图形化可视化.
 - [pg_flame](https://github.com/mgartner/pg_flame) - Postgres `EXPLAIN ANALYZE` 输出的火焰图生成器.
+
+### Scripts
+用于各种目的的有用 SQL 脚本
+- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - 长期的 T-SQL 脚本：优化存储、动态文档和 SQL Server 的一般管理需求.
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - 一组有用的小脚本，用于数据库分析和管理，由我们的 PostgreSQL Experts 团队创建.
+- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - 用于测量 PostgreSQL 索引和表中的统计膨胀的查询.
+- [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  - 检查您的数据库是否遵循以下规则的 SQL 测试<https://wiki.postgresql.org/wiki/Don't_Do_This> .
+- [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
+- [Postgres cheat sheet](https://postgrescheatsheet.com)  - 有用的 SQL 脚本和命令<timescale.com> .
+- [postgres_dba](https://github.com/NikolayS/postgres_dba) - 缺少对 Postgres DBA 和所有工程师有用的工具集.
+- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - 有用的 PostgreSQL 查询和命令.
+- [TPT](https://github.com/tanelpoder/tpt-oracle) - 这些 sqlplus 脚本用于 Oracle 数据库性能优化和故障排除.
 
 
 ## Data
@@ -356,7 +365,7 @@
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
-- [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充具有真实测试数据的选定表或整个数据库. 为 Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS 生成测试数据.
+- [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.

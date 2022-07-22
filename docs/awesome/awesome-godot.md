@@ -4,7 +4,7 @@
 
 [![Godot Engine logo](https://raw.githubusercontent.com/godotengine/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-精选列表 [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
+精选列表 [free/libre](https://www.gnu.org/philosophy/free-sw.html) Godot 的游戏、插件、附加组件和脚本.
 
 在 Godot 中寻找第三方编程语言支持？
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
@@ -157,6 +157,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [AutoColliders](https://github.com/graycastle/godot-AutoColliders) - 允许为 Sprites 自动生成对撞机，并计划在未来扩展以处理 3D 网格（Godot 3.x）.
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 一个用许多着色器参数模拟 CRT 显示器的 Godot 着色器（Godot 3.x）.
+- [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x）.
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 指向&amp;点击冒险游戏框架（Godot 2.1、3.2+）.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
@@ -177,7 +178,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 一个模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏（Godot 3.x）.
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - 对话和互动小说引擎（Godot 3.x）.
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) （戈多 3.x）.
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建具有风格的图块集（Godot 3.x）.
 
 #### Godot 3.2+
@@ -333,7 +334,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *这些构建将允许您使用最新版本的 Godot Git，但它们可能不如官方版本稳定 - 使用风险自负.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - 主要是master分支，其他分支可以找到 [here](https://archive.hugo.pro/builds/godot/).
-- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - Distributed via Itch.io (automatic updates with [app](https://itch.io/app))，仅主分支.
+- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app))，仅主分支.
 - [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM 为 Raspberry Pi 4 构建 Godot 引擎.
 
 ## Bash scripts
@@ -349,7 +350,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Godot Asset Library](https://godotengine.org/asset-library/asset)  - 官方 Godot 资产库. 包括用户创建的游戏、项目、模板、演示、教程、插件和脚本.
 - [Godot Shaders](https://godotshaders.com/) - 用于 Godot 游戏引擎的社区驱动的着色器库.
-- [Godotes](https://godotes.com/) - 每周关于 Godot 引擎及其生态系统的微观数据分析报告.
+- [Godotes](https://godotes.com/) - Weekly micro data analysis reports about the Godot engine and its ecosystem.
 - [Gotm.io](https://gotm.io/about) - 用于托管在 Godot 中制作的 HTML5 游戏的网站.
 - [This Week in Godot](https://thisweekingodot.com/) - 每周时事通讯，包含新闻、教程、游戏和演示版本等.
 
