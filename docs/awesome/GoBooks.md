@@ -54,7 +54,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://go101.org/article/res/101-front-cover-1400x.jpg" width="120px"/>
 
- Go 101 是一本专注于 Go 语法/语义和各种运行时相关事物（Go 1.17-pre 就绪）的书，并试图帮助 gophers 深入和彻底地理解 Go. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
+ Go 101 是一本专注于 Go 语法/语义和各种运行时相关的东西（Go 1.17-pre 准备好）的书，并试图帮助 gophers 对 Go 进行深入而透彻的理解. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
 
 ### [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
 <img src="https://d2sofvawe08yqg.cloudfront.net/go-from-the-beginning/s_hero?1651955611" width="120px">
@@ -134,7 +134,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <a href="https://www.amazon.com/dp/B00TWLZVQQ/ref=cm_sw_em_r_mt_dp_hL5bGbWM00XG6"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
 
-Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
+ Go，通常被称为golang，是谷歌于2007年最初开发的一种编程语言.本书帮助你开始使用Go编程. 它描述了语言的所有元素，并通过代码示例说明了它们的使用.
 
 ### [Go Recipes](https://link.springer.com/book/10.1007/978-1-4842-1188-5)
 
@@ -176,7 +176,7 @@ Go, commonly referred to as golang, is a programming language initially develope
 
  Go 正迅速成为构建 Web 服务的首选语言. 虽然有很多教程可以向具有其他编程语言经验的开发人员教授 Go 的语法，但教程还不够. 他们不教授 Go 的习语，因此开发人员最终会重新创建在 Go 上下文中没有意义的模式. 本实用指南提供了编写清晰和惯用的 Go 所需的基本背景.
 
-No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.
+无论您的经验水平如何，您都将学习如何像 Go 开发人员一样思考. 作者 Jon Bodner 介绍了经验丰富的 Go 开发人员采用的设计模式，并探讨了使用它们的基本原理. 您还将预览 Go 即将推出的泛型支持以及它如何融入该语言.
 
 - 学习如何在 Go 中编写惯用代码并设计 Go 项目
 - 了解 Go 中设计决策的原因
@@ -190,7 +190,7 @@ No matter your level of experience, you'll learn how to think like a Go develope
 
 <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-7355-5" width="120px"/>
 
-从基础开始，逐步构建最先进和最复杂的功能. 您将了解 Go 如何构建在一个简单且一致的类型系统上，以创建全面且高效的开发体验，从而生成跨平台运行的快速且强大的应用程序.
+从基础开始，逐步构建最先进和最复杂的功能. 您将了解 Go 如何构建在简单且一致的类型系统上，以创建全面且高效的开发体验，从而生成跨平台运行的快速且强大的应用程序.
 
 - 深入了解 Go 语言和工具
 - 深入了解 Go 标准库
@@ -203,7 +203,7 @@ No matter your level of experience, you'll learn how to think like a Go develope
 
  Go 是 DevOps 库和服务的首选语言，没有它，实现快速安全的自动化是一项挑战. 在 Go for DevOps 的帮助下，您将学习如何轻松安全地交付服务，并在此过程中成为更好的 DevOps 工程师.
 
-Some of the key things this book will teach you are how to write Go software to automate configuration management, update remote machines, author custom automation in GitHub Actions, and interact with Kubernetes. As you advance through the chapters, you'll explore how to automate the cloud using software development kits (SDKs), extend HashiCorp's Terraform and Packer using Go, develop your own DevOps services with gRPC and REST, design system agents, and build robust workflow systems.
+本书将教给你的一些关键内容是如何编写 Go 软件来自动化配置管理、更新远程机器、在 GitHub Actions 中编写自定义自动化以及与 Kubernetes 交互. 随着章节的推进，您将探索如何使用软件开发工具包 (SDK) 实现云自动化，使用 Go 扩展 HashiCorp 的 Terraform 和 Packer，使用 gRPC 和 REST 开发您自己的 DevOps 服务，设计系统代理，并构建强大的工作流系统.
 
 在这本 Go for DevOps 书籍的最后，您将了解如何应用开发原则来自动化操作并使用 Go 提供操作见解，这将使您能够在客户意识到出现问题之前快速做出反应以解决系统故障.
 
@@ -211,7 +211,7 @@ Some of the key things this book will teach you are how to write Go software to 
 
 <img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
 
-在过去的十年里，我们听到了关于单体应用到微服务转换的故事，我们可能认为这种转换解决了组织中的大部分问题. 但是，如果您不了解这种过渡的最佳实践，它可能最终会一团糟，因为微服务架构带来了挑战. 在本书中，我们开始介绍微服务架构的生产级最佳实践，并解释何时使用它. 然后我们讨论 gRPC 登场的微服务通信模式. 您将看到用 Go 编写的完整示例，并将六边形架构应用于项目结构. 您不仅将学习如何实现微服务，还将了解如何编写测试、使用适当的 CI 保持质量、部署到 Kubernetes 环境并最终建立一个可观察的系统以更好地监控您的应用程序.
+在过去的十年里，我们听说过关于单体应用到微服务转换的故事，我们可能认为这种转换解决了组织中的大部分问题. 但是，如果您不了解这种过渡的最佳实践，它可能最终会变得一团糟，因为微服务架构带来了挑战. 在本书中，我们开始介绍微服务架构的生产级最佳实践，并解释何时使用它. 然后我们讨论 gRPC 登场的微服务通信模式. 您将看到用 Go 编写的完整示例，并将六边形架构应用于项目结构. 您不仅将学习如何实现微服务，还将了解如何编写测试、使用适当的 CI 保持质量、部署到 Kubernetes 环境并最终建立一个可观察的系统以更好地监控您的应用程序.
 
 **进阶书籍**
 ---
@@ -233,7 +233,7 @@ Some of the key things this book will teach you are how to write Go software to 
 
 ### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
 
-本书的主要目标是帮助开发人员避免常见错误，同时通过“实践方法”学习新的编程语言. 这本书提供了关于“如何安全地做到这一点”的详细信息，展示了开发过程中可能出现的安全问题.
+本书的主要目标是帮助开发人员避免常见错误，同时通过“动手方法”学习新的编程语言. 这本书提供了关于“如何安全地做到这一点”的详细信息，展示了开发过程中可能出现的安全问题.
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
@@ -243,7 +243,7 @@ Some of the key things this book will teach you are how to write Go software to 
 它具有领域驱动设计、清洁架构、CQRS（命令查询职责分离）和其他模式等技术.
 
 这本书是基于一个 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
-Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
+章节通过项目的重构来展示常见的反模式以及如何避免它们.
 
 ### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
 
@@ -275,7 +275,7 @@ Chapters go through refactoring of the project to show common anti-patterns and 
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
-一个开发者在 golang 方面的经验.
+A developer's exprience in golang.
 
 ### [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
 
@@ -287,7 +287,7 @@ Chapters go through refactoring of the project to show common anti-patterns and 
  
 <img src="https://static.packt-cdn.com/products/9781786466204/cover/smaller" width="120px"/>
 
-Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
+使用 TDD 学习惯用、高效、干净和可扩展的 Go 设计和并发模式.
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
@@ -315,7 +315,7 @@ Go 中的手动依赖注入采用务实的方法，重点关注代码、用户�
 
 <img src="https://static.packt-cdn.com/products/9781838554491/cover/smaller" width="120px"/>
 
-这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 将指导您完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持大型链接图的高效核外处理. 
+这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 将指导您完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持对大型链接图进行高效的核外处理. 
 
 您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包 Go 服务，并自动将它们部署到 Kubernetes 集群.
 
@@ -352,7 +352,7 @@ code.
 
 <img src="https://compilerbook.com/images/cover-514e0936.png" width="120px"/>
 
-This is the sequel to Writing An Interpreter In Go.
+这是用 Go 编写解释器的续集.
 
 我们从上次停下的地方重新开始，为 Monkey 编写编译器和虚拟机.
 
@@ -370,7 +370,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 通过本书，您将学习如何编写更惯用且性能更高的代码，重点是微观级工程决策. 
 
-该笔记本旨在为课堂上提到的所有内容提供参考，就好像它们是您自己的个人笔记一样.
+This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
 
 ### [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/)
 
@@ -392,7 +392,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/rggo-250.jpg" width="120px"/>
 
-使用 Go 编程语言编写您自己的快速、可靠和跨平台的命令行工具.  Go 可能是自动化任务、分析数据、解析日志、与网络服务通信或满足其他系统要求的最快——也可能是最有趣的方式. 创建用于处理文件、连接到服务和管理外部进程的各种命令行工具，同时使用测试和基准来确保您的程序快速且正确.
+使用 Go 编程语言编写您自己的快速、可靠和跨平台的命令行工具.  Go 可能是自动化任务、分析数据、解析日志、与网络服务对话或满足其他系统要求的最快——也可能是最有趣的方式. 创建用于处理文件、连接到服务和管理外部进程的各种命令行工具，同时使用测试和基准来确保您的程序快速且正确.
 
 ### [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 
@@ -412,7 +412,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
  Docker、Kubernetes 和 Prometheus 有什么共同点？ 所有这些云原生技术都是用 Go 编程语言编写的.
 这本实用的书向您展示了如何利用 Go 的优势开发可扩展且具有弹性的云原生服务，即使在不可预测的环境中也是如此.
-您将探索这些应用程序的组成和构造，从 Go 的低级特性到中级设计模式再到高级架构考虑.
+您将探索这些应用程序的组合和构造，从 Go 的低级特性到中级设计模式再到高级架构考虑.
 
 ### [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
 
@@ -434,6 +434,28 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 - 使用 GitHub Actions 发布
 - 与 Docker 一起发布
 - 制定 Goroutines
+
+
+### [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
+
+<img src="https://practicalgobook.net/book_cover.jpg" width="120px"/>
+
+在 Practical Go - Building Scalable Network + Non-Network Applications 中，您将学习使用 Go 编程语言来构建强大的、可用于生产的软件应用程序. 您将学到足够的知识来构建命令行工具和通过 HTTP 和 gRPC 进行通信的应用程序.
+
+本实用指南将涵盖：
+
+ - 编写命令行应用程序
+ - 编写 HTTP 服务和客户端
+ - 使用 gRPC 编写 RPC 服务和客户端
+ - 为网络客户端和服务器编写中间件
+ - 在云对象存储和 SQL 数据库中存储数据
+ - 使用惯用技术测试您的应用程序
+ - 为您的应用程序添加可观察性
+ - Managing configuration data from your applications
+
+您将学习使用结合现代实践编写的动手示例来实施最佳实践. 专注于使用 
+尽可能使用标准库包，Practical Go 将为你开发大型应用程序打下坚实的基础 
+使用 Go 语言的最佳生态系统.
 
 **Web开发**
 ----
@@ -469,7 +491,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
- Go Web Programming 教你如何使用现代设计原则在 Go 中构建 Web 应用程序. 您将通过大量示例来介绍处理请求和发送响应、模板引擎和数据持久性等核心概念. 您还将深入研究更高级的主题，例如并发、Web 应用程序测试和部署到准系统服务器和 PaaS 提供商.
+ Go Web Programming 教你如何使用现代设计原则在 Go 中构建 Web 应用程序. 您将通过大量示例来介绍核心概念，例如处理请求和发送响应、模板引擎和数据持久性. 您还将深入研究更高级的主题，例如并发、Web 应用程序测试和部署到准系统服务器和 PaaS 提供商.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796)
 
@@ -517,7 +539,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
- Let&#39;s Go Further 帮助您扩展和扩展您的 Go 知识——让您超越基础知识，并指导您了解开发、管理和部署 API 和 Web 应用程序的高级模式. 在本书的最后，您将掌握创建强大且专业的 API 所需的所有知识，这些 API 可充当 SPA 和本地移动应用程序的后端，或充当独立服务.
+ Let&#39;s Go Further 帮助您扩展和扩展您的 Go 知识 — 让您超越基础知识，指导您了解开发、管理和部署 API 和 Web 应用程序的高级模式. 在本书的最后，您将掌握创建强大且专业的 API 所需的所有知识，这些 API 可充当 SPA 和本地移动应用程序的后端，或充当独立服务.
 
 ### [Go Brain Teasers](https://gum.co/Qkmou)
 
@@ -566,7 +588,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 您将学习如何使用 GoLang 生成 WebAssembly 应用程序，并在浏览器中和浏览器外运行 WebAssembly.
 
-这本电子书包含 23 个完整的配方以及重现这些配方所需的代码示例：
+This e-book comprises 23 complete recipes with the code examples necessary to reproduce these recipes:
 - 浏览器中的 Wasm &amp; Go
 - Wasm &amp; Go 与 Node.js
 - WasmEdge &amp; Go

@@ -179,7 +179,7 @@
 			<b>使数据工作的文书工作.</b>
 			<div>
 				<sub>
-				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
 				<br>
 				在您的产品中构建文书工作自动化的最简单方法.
 				</sub>
@@ -193,7 +193,7 @@
 			<b>使数据工作的文书工作.</b>
 			<div>
 				<sub>
-				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
 				<br>
 				在您的产品中构建文书工作自动化的最简单方法.
 				</sub>
@@ -286,7 +286,7 @@
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重复.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能合作.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
-- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - 允许业务专业人员在几乎没有编码技能的情况下自行解决他们的需求.
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - 用于构建 Web Native 应用程序的跨平台开源运行时.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - 开发人员的地图和位置分析平台.
 
@@ -575,6 +575,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套数据结构.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - 算法的算法审计.
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - 通用人工智能 (AGI) 和计算认知科学 (CoCoSci) 的互惠互利.
 
 ## Books
 
@@ -708,7 +709,7 @@
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - 夺​​旗.
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - 专注于边做边学的免费教育资源.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
@@ -800,7 +801,7 @@
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - 用于 Web 3.0 应用程序和去中心化解决方案的开源区块链平台和开发工具集.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - 在 Rust 中编写可扩展、可升级的区块链的框架.
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - 计算资源的开源对等市场.
-- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - 由比特币保护的智能合约平台.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - 一个开源的权益证明区块链和智能合约计算平台.
 
 ## Higher Education

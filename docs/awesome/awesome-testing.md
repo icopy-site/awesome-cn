@@ -39,6 +39,7 @@
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一个使用 HTTP 转储作为响应源的 Web 服务器. 此工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
 - [Keploy](https://github.com/keploy/keploy) - API 测试平台，自动生成单元测试用例以及来自 API 调用的依赖模拟（测试数据）.
 - [Touca](https://github.com/trytouca/trytouca) - 开源持续回归测试，将软件的行为和性能与以前的基线版本进行比较.
+- [test-each](https://github.com/ehmicky/test-each) - 使用不同的输入重复测试（数据驱动测试）.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - 立即模拟所有类型的色盲！
@@ -48,7 +49,7 @@
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - 为什么您可能希望将您的公司转移到敏捷，以及如何做到这一点的实用建议.
 - [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7)  - 关于如何改进测试以及为什么要这样做的很好的说明性示例. 伟大的作为赢得争论的证据！
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - 我去为刚接触测试的人预订.
-- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 为那些希望以测试人员身份过渡到敏捷的人提供指导，以及作者如何在他们的敏捷团队中工作.
+- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 为那些希望作为测试人员过渡到敏捷的人提供指南，以及作者如何在他们的敏捷团队中工作.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 一本非常好的关于构建探索性测试和设计测试的书.
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解当今使用的最常见的测试技术，域测试（也称为边界分析和等价类分区），并提供大量示例以变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - 一本对可用性测试非常有用的书.

@@ -18,6 +18,8 @@
 
 软件包套件为特定语言或平台收集软件包和安装工具. 我们有一些用于生物信息学的软件.
 
+- **[Bioperl](https://github.com/bioperl/bioperl-live)** - 用于生物信息学、基因组学和生命科学的开源 Perl 工具的用户和开发人员国际协会. [ [paper-2002](https://doi.org/10.1101%2Fgr.361602) | [web](https://bioperl.org) ]
+
 - **[Bioconductor](https://github.com/Bioconductor)** - 用于分析和理解高通量基因组数据的大量工具，包括 1500 多个软件包. [ [paper-2004](https://link.springer.com/article/10.1186/gb-2004-5-10-r80) | [web](https://www.bioconductor.org) ]
 
 - **[Biopython](https://github.com/biopython/biopython) ** - 免费提供的 Python 生物计算工具，包括说明书、包装和详尽的文档. 的一部分 [Open Bioinformatics Foundation](http://open-bio.org/) . 包含非常有用 [Entrez](https://biopython.org/DIST/docs/api/Bio.Entrez-module.html) 用于访问 NCBI 数据库的 API 包. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19304878) | [web](https://biopython.org) ]
@@ -113,10 +115,11 @@
 - **[WFA](https://github.com/smarco/WFA)** - 波前比对算法 (WFA)，它利用序列相似性来加速比对 [ [paper-2020](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa777/5904262) ]
 - **[Parasail](https://github.com/jeffdaily/parasail)** - 用于全局、半全局和局部成对序列比对的 SIMD C 库 [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0930-z) ]
 - **[MUMmer](https://github.com/mummer4/mummer)** - 用于快速对齐整个基因组的系统，无论是完整的还是草稿形式. [ [paper-1999](http://mummer.sourceforge.net/MUMmer.pdf) | [paper-2002](http://mummer.sourceforge.net/MUMmer2.pdf) | [paper-2004](http://mummer.sourceforge.net/MUMmer3.pdf) | [web](http://mummer.sourceforge.net) ]
+- **[DIAMOND](https://github.com/bbuchfink/diamond)** - 用于类似搜索的 `blastp` 和 `blastx` 的超快蛋白质比对器. [ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
 #### Multiple Sequence Alignment
 
-- **[POA](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. [ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
+- **[POA](https://github.com/ljdursi/poapy)** - 用于多个同源序列的快速比对和共识的部分顺序比对. [ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
 
 #### Clustering
 
@@ -125,13 +128,13 @@
 ### Quantification
 
 - **[Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks 组装转录本，估计它们的丰度，并测试 RNA-Seq 样本中的差异表达和调控. [ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
-- **[RSEM](https://github.com/deweylab/RSEM)** - 用于从 RNA-Seq 数据估计基因和异构体表达水平的软件包. [ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
+- **[RSEM](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. [ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
 
 ### Variant Calling
 
 - **[DeepVariant](https://github.com/google/deepvariant)** - 基于深度学习的变体调用者 [ [paper-2018](https://rdcu.be/7Dhl) ]
 - **[freebayes](https://github.com/ekg/freebayes)** - 基于贝叶斯单倍型的多态性发现和基因分型. [ [web](http://arxiv.org/abs/1207.3907) ]
-- **[GATK](https://github.com/broadgsa/gatk)** - 高通量测序数据中的变异发现. [ [web](https://software.broadinstitute.org/gatk) ]
+- **[GATK](https://github.com/broadgsa/gatk)** - Variant Discovery in High-Throughput Sequencing Data. [ [web](https://software.broadinstitute.org/gatk) ]
 - **[Octopus](https://github.com/luntergroup/octopus)** - 具有广泛适用性的多态贝叶斯基因分型模型. [ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
 - **[bcftools](https://github.com/samtools/bcftools)** - samtools/bcftools 是一套用于操作 NGS 数据的工具，可用于调用变体. [ [paper-2009](https://pubmed.ncbi.nlm.nih.gov/19505943) | [web](http://htslib.org) ]
 #### Structural variant callers
@@ -147,7 +150,7 @@
 - **[Bamtools](https://github.com/pezmaster31/bamtools)** - 用于处理 BAM 文件的工具集合. [ [paper-2011](https://academic.oup.com/bioinformatics/article/27/12/1691/255399) ]
 - **[bam toolbox](https://github.com/AndersenLab/bam-toolbox) ** MtDNA：核覆盖；  BAM Toolbox 可以输出 MtDNA：核覆盖率的比率，代表线粒体含量.
 - **[mergesam](https://github.com/DarwinAwardWinner/mergesam)** - 自动化常见的 SAM 和 BAM 转换.
-- **[mosdepth](https://github.com/brentp/mosdepth)** - WGS、外显子组或靶向测序的快速 BAM/CRAM 深度计算. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
+- **[mosdepth](https://github.com/brentp/mosdepth)** - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing. [ [paper-2017](https://pubmed.ncbi.nlm.nih.gov/29096012/) ]
 - **[SAMstat](https://github.com/TimoLassmann/samstat)** - 显示下一代测序的序列统计数据. [ [paper-2010](https://academic.oup.com/bioinformatics/article/27/1/130/201972) | [web](http://samstat.sourceforge.net) ]
 - **[Somalier](https://github.com/brentp/somalier)** - 对 BAM/CRAM/VCF/GVCF 进行快速样本交换和相关性检查. [ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
 - **[Telseq](https://github.com/zd1/telseq)** - Telseq 是一种从全基因组序列数据中估计端粒长度的工具. [ [paper-2014](https://academic.oup.com/nar/article/42/9/e75/1249448) ]
@@ -175,6 +178,8 @@
 
 - **[SIFT](https://github.com/teamdfir/sift)** - 预测氨基酸替代是否影响蛋白质功能. [ [paper-2003](https://pubmed.ncbi.nlm.nih.gov/12824425) | [web](http://sift.jcvi.org) ]
 - **[SnpEff](https://github.com/pcingola/SnpEff)** - 遗传变异注释和效果预测工具箱. [ [paper-2012](https://www.tandfonline.com/doi/full/10.4161/fly.19695) | [web](https://pcingola.github.io/SnpEff) ]
+- **[Ensembl VEP](https://anaconda.org/bioconda/ensembl-vep)** - VEP 确定您的变体（SNP、插入、缺失、CNV 或结构变体）对基因、转录本和蛋白质序列以及调控区域的影响. [ [paper-2016](https://doi.org/10.1186/s13059-016-0974-4) | [web](http://www.ensembl.org/info/docs/tools/vep/index.html) ]
+
 
 ### Python Modules
 
@@ -207,7 +212,7 @@
 
 - **[canu](https://github.com/marbl/canu)** - 用于大小基因组的单分子序列组装器.
 - **[flye](https://github.com/fenderglass/Flye)** - 使用重复图进行单分子测序读取的从头组装器. 
-- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确高保真读取的单倍型解析汇编器.
+- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确高保真读取的单倍型解析汇编程序.
 - **[wtdbg2](https://github.com/ruanjue/wtdbg2)** - 一种用于长噪声读取组装的模糊 Bruijn 图方法
 
 ## Visualization
@@ -223,7 +228,7 @@
 - **[Circleator](https://github.com/jonathancrabtree/Circleator)** - 使用 BioPerl 和 SVG 对基因组相关数据进行灵活的循环可视化. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075113) ]
 - **[DNAism](https://github.com/drio/dnaism)** - 基于地平线图 D3 的 DNA 数据 JavaScript 库. [ [paper-2016](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0891-2) | [web](http://drio.github.io/dnaism/) ]
 - **[IGV js](https://github.com/igvteam/igv) ** - 基于 Java 的浏览器. 用于基因组学数据和注释的快速、高效、可扩展的可视化工具. 处理多种格式. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383) | [web](https://software.broadinstitute.org/software/igv) ]
-- **[Island Plot](https://github.com/lairdm/islandplot)** - D3 JavaScript based genome viewer. Constructs SVGs. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/25916842/) ]
+- **[Island Plot](https://github.com/lairdm/islandplot) ** - 基于 D3 JavaScript 的基因组查看器. 构造 SVG. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/25916842/) ]
 - **[JBrowse](https://github.com/GMOD/jbrowse)** - JavaScript 基因组浏览器，可通过插件和跟踪自定义进行高度定制. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27072794) | [web](http://jbrowse.org/) ]
 - **[PHAT](https://github.com/chgibb/PHAT)** - 指向和点击的跨平台套件，用于分析和可视化下一代测序数据集. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30561651) | [web](https://chgibb.github.io/PHATDocs) ]
 - **[pileup.js](https://github.com/hammerlab/pileup.js)** - JavaScript 库，可用于生成交互式和高度可定制的基于 Web 的基因组浏览器. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27153605) ]
@@ -266,13 +271,13 @@
 ### Sequencing
 
 - [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35] - 下一代和第三代测序技术的优秀（技术）概述，以及在癌症研究中的一些应用.
-- [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - 约 100 篇关于各种测序技术和分析的论文列表，从转录到转座因子发现.
+- [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - 约 100 篇关于从转录到转座因子发现的各种测序技术和分析的论文列表.
 - [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf)  (3456x5471) - Illumina 提供的大量信息图，说明了有多少测序技术有效. 技术涵盖蛋白质-蛋白质相互作用、RNA转录、RNA-蛋白质相互作用、RNA低水平检测、RNA修饰、RNA结构、DNA重排和标记、DNA低水平检测、表观遗传学和DNA-蛋白质相互作用. 包括参考资料.
 
 ### RNA-Seq
 
 - [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) - 包括许多关于 RNA-seq 和分析方法的开创性论文.
-- [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial) - Educational resource on performing RNA-seq analysis in the cloud using Amazon AWS cloud services. Topics include preparing the data, preprocessing, differential expression, isoform discovery, data visualization, and interpretation.
+- [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial)  - 关于使用 Amazon AWS 云服务在云中执行 RNA-seq 分析的教育资源. 主题包括准备数据、预处理、差异表达、异构体发现、数据可视化和解释.
 - [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia 提供了关于 RNA-seq 和成功进行 RNA-seq 实验所需选择的精彩概述.
 - [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - 为 RNA-seq 计算分析提供了很棒的路线图，包括挑战/障碍和需要注意的事情，以及如何将 RNA-seq 数据与其他数据类型集成.
 - [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Lior Pachter 博士分享了他在著名 RNA-seq 分析软件 CuffDiff 和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
@@ -298,6 +303,7 @@
 - [Opiniomics](http://www.opiniomics.org/) - Mick Watson 博士撰写有关生物信息学、基因组和生物学的文章.
 - [Bits of DNA](https://liorpachter.wordpress.com/) - Lior Pachter 博士撰写关于计算生物学的评论和评论.
 - [it is NOT junk](http://www.michaeleisen.org/blog/) - Michael Eisen 博士撰写“关于基因组、DNA、进化、开放科学、棒球和其他重要事物的博客”
+- [#!/perl/bioinfo](https://bioinfoperl.blogspot.com) - EEAD-CSIC 的计算和结构生物学小组用西班牙语和英语撰写关于植物基因组学、计算和结构生物学问题的想法和代码.
 
 ### Miscellaneous
 
