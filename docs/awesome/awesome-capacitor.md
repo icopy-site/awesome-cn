@@ -81,7 +81,7 @@
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - Firebase 远程配置的本机插件.
 - [Flipper](https://github.com/capacitor-community/flipper) - 鳍状肢调试器的本机插件.
 - [Geolocation react](https://github.com/capacitor-community/geolocation-react) - React Hooks for Capacitor GeoLocation 插件.
-- [Http](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
+- [Http](https://github.com/capacitor-community/http) - 用于无 CORS 请求和文件传输的本机 HTTP 插件.
 - [Intercom](https://github.com/capacitor-community/intercom) - 为电容器应用程序启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止您的屏幕进入睡眠状态.
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard 插件.
@@ -115,24 +115,24 @@
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的无线更新.
 - [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - 在您的应用中获取 Apple Pay 付款
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency)  - 请求用户授权访问应用相关数据以跟踪用户或设备. 仅限 iOS.
-- [Background tasks](https://github.com/robingenz/capacitor-background-task) - 用于运行后台任务的本机插件.
-- [Badge](https://github.com/robingenz/capacitor-badge) - 访问和更新应用程序图标的徽章编号.
+- [Background tasks](https://github.com/capawesome-team/capacitor-background-task) - 用于运行后台任务的本机插件.
+- [Badge](https://github.com/capawesome-team/capacitor-badge) - 访问和更新应用程序图标的徽章编号.
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - 适用于 iOS 和 Android 的原生 Brother Print SDK 实施. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - 使用生物识别技术确认设备所有者的存在或对用户进行身份验证.
-- [Crisp](https://github.com/riderx/capacitor-crisp) - 为您的应用提供清晰的聊天 SDK.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - 为您的应用提供清晰的聊天 SDK.
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - 监控对系统暗模式所做的更改.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - 为 IOS、Android 和 Electron 平台上的 SQLite 和 Web 平台上的 IndexedDB 提供字符串类型的简单数据的键值永久存储.
 - [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - 扫描文档（笔记、作业、名片、收据或任何具有矩形形状的东西）.
 - [Dynamsoft Barcode Reader](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - 使用 Dynamsoft Barcode Reader 扫描条形码和二维码.
 - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - 在您的 Capacitor 应用程序中打开本机电子邮件编辑器.
 - [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - 用于电容器的 Facebook 分析插件.
-- [Flash](https://github.com/riderx/capacitor-flash) - 切换设备的手电筒/手电筒.
+- [Flash](https://github.com/Cap-go/capacitor-flash) - 切换设备的手电筒/手电筒.
 - 火力基地
-    - [Analytics](https://github.com/robingenz/capacitor-firebase/blob/main/packages/analytics/README.md)  - 电容器的 Firebase 插件. 支持安卓、iOS和网络.
-    - [App](https://github.com/robingenz/capacitor-firebase/blob/main/packages/app/README.md) - Firebase 应用的电容器插件.
-    - [Auth](https://github.com/robingenz/capacitor-firebase/blob/main/packages/authentication/README.md) - 处理 Native 层的身份验证并将令牌传播到 Web 视图层.
-    - [Performance](https://github.com/robingenz/capacitor-firebase/blob/main/packages/performance/README.md) - Firebase 性能监控的电容器插件.
-    - [Crashlytics](https://github.com/robingenz/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics 的电容器插件.
+    - [Analytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md)  - 电容器的 Firebase 插件. 支持安卓、iOS和网络.
+    - [App](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Firebase 应用的电容器插件.
+    - [Auth](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - 处理 Native 层的身份验证并将令牌传播到 Web 视图层.
+    - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Firebase 性能监控的电容器插件.
+    - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics 的电容器插件.
     - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - 允许使用本机 AppCheck 令牌.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase 动态链接.
     - [Push](https://github.com/EinfachHans/capacitor-firebase-push)  - 此插件用于 Firebase 推送消息. 它支持数据.
@@ -141,12 +141,12 @@
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - 用于电容器的 Google 身份验证插件.
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - 从 Google Fit 中检索数据.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - 识别一串文本的语言.
-    - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - 在图像中设置人脸，识别关键面部特征，并获取检测到的人脸轮廓.
+    - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - 检测图像中的人脸，识别关键面部特征，并获取检测到的人脸轮廓.
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - 从 HealthKit 中检索数据.
 - [Intent](https://github.com/IT-MikeS/capacitor-intents) - 支持多种广播接收intents，并在Android中发送BroadcastIntents.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - 通过免费、开源的 Jitsi 视频平台进行视频通话.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - 获取设备上的照度级别.
-- [Mute](https://github.com/riderx/capacitor-mute) - 检测静音模式和静音音频.
+- [Mute](https://github.com/Cap-go/capacitor-mute) - 检测静音模式和静音音频.
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - 本机正向和反向地理编码.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - 打开本机设置屏幕.
 - NativeScript
@@ -154,12 +154,13 @@
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - 添加增强现实体验.
 - [Navigation bar](https://github.com/hugotomazi/navigation-bar) - 导航栏操作，隐藏/显示.
 - [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2)  - 通用 OAuth 2 客户端插件. 它允许您自己配置 OAuth 参数，而不是使用 SDK.
+- [Playlist](https://github.com/phiamo/capacitor-plugin-playlist) - 对音频播放列表、后台支持和锁屏控件的原生支持.
 - [Print](https://github.com/leoruhland/capacitor-print) - 打印 Web 视图.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - 让用户使用适用于 Android 和 iOS 的原生评分应用对话框对您的应用进行评分.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - 在用户许可的情况下阅读用户的短信.
-- [Screen orientation](https://github.com/robingenz/capacitor-screen-orientation) - 锁定/解锁屏幕方向.
+- [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - 锁定/解锁屏幕方向.
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - 截取当前视图的屏幕截图.
-- [Screen recorder](https://github.com/riderx/capacitor-screen-recorder) - 记录屏幕并保存到pelicule.
+- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - 记录屏幕并保存到pelicule.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - 当另一个应用程序通过 Android 共享菜单或共享表向您的电容器应用程序发送数据时，在您的 JavaScript 应用程序中公开一个侦听器.
 - [Sentry](https://github.com/getsentry/sentry-capacitor) - 为 Capacitor 应用程序添加 Sentry 错误跟踪和性能监控.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 用于电容器的条纹端子插件.
@@ -169,12 +170,12 @@
 - [UDP](https://github.com/brugsel/capacitor-udp) - 支持 IPv6 和 IPv4，组播和广播.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - 在 IOS、Android、Web 和 Electron 平台上全屏播放视频.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - 用于电容器的 Zalo 登录插件.
-- [Purchases](https://github.com/riderx/capacitor-purchases) - 使用 RevenueCat 轻松进行电容器应用内购买和订阅.
-- [Android dark mode](https://github.com/robingenz/capacitor-android-dark-mode-support) - 电容插件，支持 Android 上的暗模式.
-- [Native updates](https://github.com/robingenz/capacitor-app-update) - 协助应用程序更新的电容器插件.
-- [File picker](https://github.com/robingenz/capacitor-file-picker) - 允许用户选择文件的电容器插件.
-- [Managed configuratio](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
-- [Photo editor](https://github.com/robingenz/capacitor-photo-editor) - 电容器插件，允许用户编辑照片.
+- [Purchases](https://github.com/Cap-go/capacitor-purchases) - 使用 RevenueCat 轻松进行电容器应用内购买和订阅.
+- [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - 电容插件，支持 Android 上的暗模式.
+- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
+- [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
+- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
+- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - 从系统相册中获取所有图像.
 
 ## Tools
@@ -215,7 +216,7 @@
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - 说明为什么将电容器应用称为“非本地”是不准确且令人困惑的术语.
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用中设置 Capacitor-updater 以向您的用户无缝发布更新.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 使用 GitHub 操作免费创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
 
 
 ### Books
@@ -225,7 +226,7 @@
 ### Case study
 
 - [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - 汉堡王如何将他们的设计系统带到移动设备上.
-- [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - 本指南概述了 Capacitor 以及它如何与 Cordova 相提并论.
+- [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
 - [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native 不是 Web 环境，因此团队不可能使用基于 Web 的 React 来部署本机应用程序，但他们可以使用 Capacitor.
 
 ## Demo apps

@@ -35,7 +35,7 @@
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - 用于扫描未使用的作曲家包的 CLI 工具.
 * [Prestissimo](https://github.com/hirak/prestissimo) - 一个支持并行安装过程的作曲家插件.
 * [Repman](https://repman.io) - 一个私有的 PHP 包存储库管理器和 Packagist 代理.
-* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
+* [Satis](https://github.com/composer/satis) - 静态 Composer 存储库生成器.
 * [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 使用 Composer 在项目中管理 PHAR 文件的库.
 * [Toran Proxy](https://toranproxy.com) - 静态 Composer 存储库和代理.
 
@@ -117,7 +117,7 @@
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - HAML 模板语言的 PHP 实现.
 * [Mustache](https://github.com/bobthecow/mustache.php) - Mustache 模板语言的 PHP 实现.
 * [PHPTAL](https://phptal.org/) - 一个 PHP 实现 [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) 模板语言.
-* [Plates](http://platesphp.com/) - 原生 PHP 模板库.
+* [Plates](http://platesphp.com/) - 一个原生 PHP 模板库.
 * [Smarty](https://www.smarty.net/) - 补充 PHP 的模板引擎.
 * [Twig](https://twig.symfony.com/) - 全面的模板语言.
 
@@ -164,7 +164,7 @@
 
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 域后缀解析器库.
 * [Purl](https://github.com/jwage/purl) - URL 操作库.
-* [sabre/uri](https://github.com/sabre-io/uri) - 一个功能性的 URI 操作库.
+* [sabre/uri](https://github.com/sabre-io/uri) - 一个功能性 URI 操作库.
 * [Uri](https://github.com/thephpleague/uri) - 另一个 URL 操作库.
 
 ### Email
@@ -320,7 +320,7 @@
 
 * [CaptainHook](https://github.com/captainhookphp/captainhook) - 一个易于使用且灵活的 Git 钩子库. 
 * [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 检测 PHP、CSS 和 JS 编码标准违规的库.
-* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 一个编码标准修复库.
+* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 编码标准修复库.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - 一个扫描代码以查找错误、次优代码、未使用参数等的库.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 帮助遵守某些编码约定的工具.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 检测复制和粘贴代码的库.
@@ -384,7 +384,7 @@
 ### Task Runners
 *用于自动化和运行任务的库.*
 
-* [Bldr](https://bldr.io/) - 基于 Symfony 组件构建的 PHP 任务运行器.
+* [Bldr](https://bldr.io/) - A PHP Task runner built on Symfony components.
 * [Jobby](https://github.com/jobbyphp/jobby) - 无需修改 crontab 的 PHP cron 作业管理器.
 * [Robo](https://github.com/consolidation/Robo) - 具有面向对象配置的 PHP 任务运行器.
 * [Task](https://taskphp.github.io/) - 受 Grunt 和 Gulp 启发的纯 PHP 任务运行程序.
@@ -401,7 +401,7 @@
 * [JShrink](https://github.com/tedious/JShrink) - JavaScript 压缩库.
 * [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - 一个优雅的 Webpack 包装器，用于 80% 的用例.
 * [Symfony Asset](https://github.com/symfony/asset) - 管理 Web 资产的 URL 生成和版本控制.
-* [Symfony Encore](https://github.com/symfony/webpack-encore) - 一个简单但强大的 API，用于处理和编译围绕 Webpack 构建的资产.
+* [Symfony Encore](https://github.com/symfony/webpack-encore) - 一个简单但功能强大的 API，用于处理和编译围绕 Webpack 构建的资产.
 
 ### Geolocation
 *用于地理编码地址和处理纬度和经度的库.*
@@ -450,7 +450,7 @@
 * [Brick\Money](https://github.com/brick/money) - PHP 的货币库，支持上下文、现金四舍五入、货币转换.
 * [OmniPay](https://github.com/thephpleague/omnipay) - 与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) - 支付抽象库.
-* [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+* [Shopware](https://github.com/shopware/shopware) - 高度可定制的电子商务软件
 * [Swap](https://github.com/florianv/swap) - 汇率库.
 * [Sylius](https://sylius.com/) - 一个开源电子商务解决方案.
 
@@ -467,7 +467,7 @@
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - 用于处理 Microsoft PowerPoint 演示文稿的库.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - 用于处理 Microsoft Word 文档的库.
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 用于读写电子表格文件的纯 PHP 库（PHPExcel 的继承者）.
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 一个用于读写电子表格文件的纯 PHP 库（PHPExcel 的继承者）.
 * [Spout](https://github.com/box/spout) - 以快速且可扩展的方式读写电子表格文件（CSV、XLSX 和 ODS）.
 
 ### Database
@@ -587,6 +587,7 @@
 * [Jieba-PHP](https://github.com/fukuball/jieba-php)  - Python jieba 的 PHP 端口. 用于自然语言处理的中文文本分割.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 用于检测移动设备（包括平板电脑）的轻量级 PHP 类.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 用于处理 UTF-8 字符串的可移植库.
+* [Portable ASCII](https://github.com/voku/portable-ascii) - 将字符串转换为 ascii 的库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) - 具有 UTF-8 安全替换方法的字符串操作库.
 * [Slugify](https://github.com/cocur/slugify) - 将字符串转换为 slug 的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 用于格式化 SQL 语句的库.
@@ -681,7 +682,7 @@
 *国际化 (I18n) 和本地化 (L10n) 库.*
 
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - 提供国际化 (I18N) 工具，特别是面向包的每个语言环境的消息翻译.
-* [CakePHP I18n](https://github.com/cakephp/i18n) - 日期和数字的消息翻译和本地化.
+* [CakePHP I18n](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 ### Serverless
 *帮助构建无服务器 Web 应用程序的库和工具.*

@@ -7,7 +7,7 @@
 	</div>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/folder-peek">查看我的最新应用</a></h2>
+	<h2><a href="https://sindresorhus.com/velja">看看我的最新应用——Velja</a></h2>
 	<br>
 	<br>
 	<br>
@@ -70,7 +70,7 @@
 				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
 			</div>
 			<div>
-				 <sup>OSS Capital成立于2018年，是第一家也是唯一一家专注于风险投资的平台</sup><sup><br></sup><sup>专门支持早期 COSS（商业开源）初创公司创始人.</sup>
+				 <sup>OSS Capital成立于2018年，是第一家也是唯一一家专注于风险投资的平台</sup><sup><br></sup><sup>专门用于支持早期 COSS（商业开源）初创公司的创始人.</sup>
 			</div>
 		</a>
 		<br>
@@ -109,41 +109,6 @@
 			<br>
 			<div>
 				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>您最喜欢的所有 IDE 现在都可以在云端使用</b>
-			<div>
-				<sub>
-				Neverinstall 为您提供不间断的开发体验和改进的可访问性，
-				<br>
-				让您可以在自己喜欢的 IDE 上更快、更好、更方便地编写代码，例如
-				<br>
-				使用浏览器的 Android Studio、VS Code、Jupyter 和 PyCharm.
-				</sub>
-			</div>
-		</a>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>您最喜欢的所有 IDE 现在都可以在云端使用</b>
-			<div>
-				<sub>
-				Neverinstall 为您提供不间断的开发体验和改进的可访问性，
-				<br>
-				让您可以在自己喜欢的 IDE 上更快、更好、更方便地编写代码，例如
-				<br>
-				使用浏览器的 Android Studio、VS Code、Jupyter 和 PyCharm.
-				</sub>
 			</div>
 		</a>
 		<br>
@@ -287,7 +252,7 @@
 
 - [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 更好更快的 Underscore.js.
 - [immutable](https://github.com/immutable-js/immutable-js) - 不可变的数据集合.
-- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序实现的灵活功能组合. 避免变异数据.
+- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别是您可以选择仅加载您需要的模块/功能，没有额外的开销.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 专注于高性能和低内存使用的反应式库.
@@ -295,7 +260,7 @@
 ### HTTP
 
 - [got](https://github.com/sindresorhus/got) - 更好的内置“http”模块界面.
-- [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+- [undici](https://github.com/nodejs/undici) - 从零开始编写的高性能 HTTP 客户端，具有零依赖性.
 - [ky-universal](https://github.com/sindresorhus/ky-universal) - 基于 Fetch 的通用 HTTP 客户端.
 - [node-fetch](https://github.com/node-fetch/node-fetch) - Node.js 的`window.fetch`.
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端（也适用于浏览器）.
@@ -322,7 +287,7 @@
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
 - [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
-- [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) client.
+- [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
 
@@ -379,7 +344,7 @@
 
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的 Web 应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+- [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块捆绑器.
 - [gulp](https://github.com/gulpjs/gulp) - 流式传输和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明式配置、快速增量编译和自以为是的工作流程.
@@ -388,11 +353,11 @@
 
 ### Hardware
 
-- [johnny-five](https://github.com/rwaldron/johnny-five) - 基于 Firmata 的 Arduino 框架.
+- [johnny-five](https://github.com/rwaldron/johnny-five) - 基于签名的 Arduino 框架.
 - [serialport](https://github.com/serialport/node-serialport) - 访问串行端口进行读写.
 - [usb](https://github.com/node-usb/node-usb) - USB 库.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C 串行总线访问.
-- [onoff](https://github.com/fivdi/onoff) - GPIO 访问和中断检测.
+- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI 串行总线访问.
 - [pigpio](https://github.com/fivdi/pigpio) - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理.
 - [gps](https://github.com/infusion/GPS.js) - 用于处理 GPS 接收器的 NMEA 解析器.
@@ -450,11 +415,11 @@
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - 像`fs.createWriteStream()`，但是是原子的.
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的文件名.
 - [lnfs](https://github.com/kevva/lnfs) - 强制创建符号链接，如 `ln -fs`.
-- [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本还是二进制文件.
+- [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - 完全重新设计的文件系统 API，方便日常使用.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - `fs` 模块的额外方法.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 找到一个 npm 包的根目录.
-- [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+- [filehound](https://github.com/nspragg/filehound) - 用于搜索文件系统的灵活流畅的界面.
 - [move-file](https://github.com/sindresorhus/move-file) - 移动文件，甚至可以跨设备工作.
 - [tempy](https://github.com/sindresorhus/tempy) - 获取一个随机的临时文件或目录路径.
 
@@ -509,7 +474,7 @@
 - [sharp](https://github.com/lovell/sharp) - 用于调整 JPEG、PNG、WebP 和 TIFF 图像大小的最快模块.
 - [image-type](https://github.com/sindresorhus/image-type) - 检测 Buffer/Uint8Array 的图像类型.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick 和 ImageMagick 包装器.
-- [lwip](https://github.com/EyalAr/lwip) - 不需要 ImageMagick 的轻量级图像处理器.
+- [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica](https://github.com/nodeca/pica)  - 纯 JS 中的高质量和快速调整大小 (lanczos3). 当不允许像素化时，可替代画布 drawImage().
 - [jimp](https://github.com/oliver-moran/jimp) - 纯 JavaScript 中的图像处理.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - 无需完整下载即可获得大多数图像格式的大小.
@@ -519,7 +484,7 @@
 ### Text
 
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
-- [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+- [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略 ansi 转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - 转义正则表达式特殊字符.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
@@ -527,7 +492,7 @@
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - 从字符串中的每一行去除前导空格.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - 检测代码的缩进.
 - [he](https://github.com/mathiasbynens/he) - HTML 实体编码器/解码器.
-- [i18n-node](https://github.com/mashpie/i18n-node) - 具有动态 JSON 存储的简单翻译模块.
+- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 - [babelfish](https://github.com/nodeca/babelfish) - i18n 具有非常简单的复数语法.
 - [matcher](https://github.com/sindresorhus/matcher) - 简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - 标准化视觉上相似的 unicode 字符.
@@ -572,7 +537,7 @@
 ### Data validation
 
 - [joi](https://github.com/sideway/joi) - JavaScript 对象的对象模式描述语言和验证器.
-- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - 使用代码生成非常快的 JSON Schema 验证器.
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 - [property-validator](https://github.com/nettofarah/property-validator) - Express 的简单属性验证.
 - [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API 清理和验证.
 - [ajv](https://github.com/ajv-validator/ajv)  - 最快的 JSON Schema 验证器. 支持 v5、v6 和 v7 提案.
@@ -590,7 +555,7 @@
 - [URI.js](https://github.com/medialize/URI.js) - 网址突变.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - 流式处理 JSON.parse 和 stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)  - 快速 CSV 解析器. 上述回调接口.
-- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
+- [csv-parser](https://github.com/mafintosh/csv-parser) - 旨在比其他人更快的流式 CSV 解析器.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/matthewmueller/x-ray) - 网页抓取实用程序.
 - [nearley](https://github.com/kach/nearley) - 简单、快速、强大的 JavaScript 解析.
@@ -670,7 +635,7 @@
 - [AVA](https://github.com/avajs/ava) - 未来派测试赛跑者.
 - [Mocha](https://github.com/mochajs/mocha) - 功能丰富的测试框架使异步测试变得简单而有趣.
 - [nyc](https://github.com/istanbuljs/nyc) - 基于伊斯坦布尔的代码覆盖工具，适用于子流程.
-- [tap](https://github.com/tapjs/node-tap) - TAP 测试框架.
+- [tap](https://github.com/tapjs/node-tap) - TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP 生产测试工具.
 - [power-assert](https://github.com/power-assert-js/power-assert) - 通过标准断言接口提供描述性断言消息.
 - [Mochify](https://github.com/mantoni/mochify.js) - 带有 Browserify、Mocha、PhantomJS 和 WebDriver 的 TDD.
@@ -858,6 +823,7 @@
 - [husky](https://github.com/typicode/husky) - 创建 Git 挂钩脚本.
 - [patch-package](https://github.com/ds300/patch-package) - 制作并保留对 npm 依赖项的修复.
 - [editly](https://github.com/mifi/editly) - 声明式视频编辑 API.
+- [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 带有通配符和正则表达式的对象属性路径.
 
 ## Resources
 
