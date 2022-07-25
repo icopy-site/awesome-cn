@@ -247,7 +247,7 @@
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) - 动态 HTML5 可视化.
 * [rickshaw](https://github.com/shutterstock/rickshaw) - 用于创建交互式实时图表的 JavaScript 工具包.
 * [flot](https://github.com/flot/flot) - 用于 jQuery 的有吸引力的 JavaScript 图表.
-* [morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
+* [morris.js](https://github.com/morrisjs/morris.js) - 漂亮的时间序列折线图.
 * [nvd3](https://github.com/novus/nvd3) - 为 d3.js 构建可重复使用的图表和图表组件.
 * [svg.js](https://github.com/wout/svg.js) - 用于操作和动画 SVG 的轻量级库.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - 基于 HTML5 画布的热图的 JavaScript 库.
@@ -262,7 +262,7 @@
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - 使用 HTML 5 和 WebGL 构建 3D 游戏的框架.
 * [recharts](https://github.com/recharts/recharts) - 重新定义了使用 React 和 D3 构建的图表库.
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS) - 基于 SVG/VML 技术的具有直观 API 的轻量级 JavaScript 图形库.
-* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图形和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本地运行.
+* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图表和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本地运行.
 * [Frappe Charts](https://github.com/frappe/charts) - 受 GitHub 启发的简单而现代的 SVG 图表，适用于网络，零依赖.
 * [Frappe Gantt](https://github.com/frappe/gantt) - 一个简单、交互式、现代的网络甘特图库.
 * [G2](https://github.com/antvis/G2) - 用于统计图表的高度交互式数据驱动的可视化语法.
@@ -354,6 +354,7 @@
 * [preludejs](https://github.com/alanrsoares/prelude-js) - JavaScript 的核心函数式编程.
 * [rambda](https://github.com/selfrefactor/rambda) - *Ramda* 的更快更小的替代方案.
 * [fxts](https://github.com/marpple/FxTS) - 延迟评估和并发.
+* [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 带有通配符和正则表达式的对象属性路径.
 
 
 ## Reactive Programming
@@ -844,7 +845,7 @@
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
  <https://flowplayer.com/>
- * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有 Flash 和 Silverlight 垫片的播放器，模仿 HTML5 MediaElement API，在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有模仿 HTML5 MediaElement API 的 Flash 和 Silverlight 垫片的播放器，可在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使在网络上处理音频更容易的库. 它为在不同浏览器中播放音频提供了一致的 API.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于流体宽度视频嵌入.
@@ -890,7 +891,7 @@
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - 使用 jQuery 进行不显眼的页面转换.
 * [Anime.js](https://animejs.com/) - JavaScript 动画引擎.
 * [Mo.js](http://mojs.io) - 用于网络的动态图形工具带.
-* [particles.js](https://github.com/VincentGarreau/particles.js) - 用于创建粒子的轻量级 JavaScript 库.
+* [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的改进版本的particles.js，带有错误修复和许多新功能.
 * [particles-bg](https://github.com/lindelof/particles-bg) - 一个轻量级的 React 粒子动画背景组件.
 * [barbajs](https://github.com/barbajs/barba) - 它可以帮助您在网站页面之间创建流畅流畅的过渡.

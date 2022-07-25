@@ -67,6 +67,7 @@
 - [Amazon Braket](https://aws.amazon.com/braket/) - 完全托管的服务，提供在量子模拟器和计算机上运行量子电路的开发环境.
 - [Blueqat](https://github.com/Blueqat/Blueqat) - 用于量子门计算的 Python 软件开发工具包.
 - [Cirq](https://github.com/quantumlib/Cirq) - 用于编写、操作和优化 NISQ 电路以在量子计算机上运行的 Python 库.
+- [Covalent](https://github.com/AgnostiqHQ/covalent) - 从 CPU 到 GPU 再到量子计算机的异构基础设施上的分布式计算框架.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - 在线量子作曲家在真正的量子计算硬件上运行实验.
 - [Mitiq](https://mitiq.readthedocs.io/) - 用于在量子计算机上实施错误缓解技术的 Python 工具包.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
@@ -115,7 +116,7 @@
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/)  - 在可访问性和数学严谨性之间取得了极好的平衡. 它适合本科生.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - 量子计算如何工作以及它如何改变世界.
-- [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf)  - 介绍性量子计算教科书. 唯一的先决条件是三角学，它会一路教授数学.
+- [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  - 介绍性量子计算教科书. 唯一的先决条件是三角学，它会一路教授数学.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook)  - 一本涵盖量子算法并展示如何使用 Qiskit 在真实硬件上运行它们的开源教科书. 还涵盖了先决条件.
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) - 简单到高级的量子计算和信息问题，并提供详细的解决方案.

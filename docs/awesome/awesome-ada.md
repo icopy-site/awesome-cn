@@ -139,7 +139,7 @@
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 的艾达.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
-- [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群.
+- [telegram-ada](https://t.me/ada_lang) - Telegram 有一个小组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
 - [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - 通过 Matrix 在 Gitter 有一个房间.
 
@@ -183,7 +183,7 @@
 
 #### Commercial / Open source
 
-- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供全面的工具集（IDE、调试器、库、动态和静态分析工具）.
+- [gnat-pro](https://www.adacore.com/gnatpro) - GNAT Pro 产品线为 Ada、C 和 C++ 提供了一个全面的工具集（IDE、调试器、库、动态和静态分析工具）.
 
 #### Commercial / Closed source
 
@@ -385,6 +385,7 @@
 - [mathpaqs](https://github.com/zertovitch/mathpaqs) - Mathpaqs 是 Ada 编程语言中 100% 可移植的数学软件包的集合.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) - “ASCII”中的 Mandelbrot 渲染器（实际上是 unicode，但仍然是文本）.
 - [lalg](https://github.com/jhumphry/LALG) - 密集线性代数包的接口.
+- [geo-energy-math](https://github.com/pukpr/GeoEnergyMath) - 用于求解 Mathematical GeoEnergy (Wiley, 2018) 中描述的模型的软件库
 
 #### Science
 - [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI 单位已选中和未选中.
@@ -478,7 +479,7 @@
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 编解码器，例如 Base64.
 - [abf-io](https://github.com/gerr135/abf_io) - Ada 中 Axon 的 ABF 文件格式（电生理学，最常见）的访问例程库.
-- [there-toml] - 现有的 TOML 解析器.
+- [ada-toml] - 存在的 TOML 解析器.
 - [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI 和 MIME 解析器和操作库.
 
 [protobuf]：https://github.com/reznikmm/protobuf
@@ -526,7 +527,7 @@
 
 #### Sound
 - [opus-ada](https://github.com/onox/opus-ada) - Opus 音频编解码器的 Ada 2012 绑定.
-- [canberra-ada](https://github.com/onox/canberra-ada) - 用于 libcanberra 的 Ada 2012 绑定，XDG 声音主题和名称规范的实现.
+- [canberra-ada](https://github.com/onox/canberra-ada) - libcanberra 的 Ada 2012 绑定，XDG 声音主题和名称规范的实现.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - libsoundio 的 Ada 绑定.
 - [oto](https://github.com/darkestkhan/oto) - Ada 绑定到 OpenAL，它在使用 Ada 类型时尝试模仿原始 API.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
@@ -540,7 +541,7 @@
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
 - [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
-- [ssprep](https://github.com/persan/ssprep.git) - 一个类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
+- [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，可在 Ada 程序中输出到控制台.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，可从文件夹层次结构中选择文件，概率与其大小成正比.

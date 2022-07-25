@@ -99,7 +99,7 @@
 - [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
 - [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - 添加 `grid-areas` 和 `grid-area` 实用程序.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
-- [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅对某些语言使用实用程序.
+- [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以便仅对某些语言使用实用程序.
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加匹配嵌套边界半径的变体.
 - [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 - [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 为样式列表和`提供实用程序<summary> ` 标记.
@@ -224,6 +224,7 @@
 - [Inspect Flow](https://inspectflow.io) - Tailwind CSS 的完整开发人员工具.
 - [twined-components](https://github.com/lowfront/twined-components) - 样式化组件的扩展组件，它优先考虑在 Tailwind CSS 中使用的类名.
 - [Tails Devtools](https://github.com/vechai/tails-devtools) - Tailwind CSS 的多合一浏览器扩展.
+- [Impulse.dev](https://impulse.dev) – Tailwind CSS 和 React 的 UI 编辑器，用于编辑您的代码.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.

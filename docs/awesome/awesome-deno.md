@@ -9,6 +9,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 这个列表是最好的 Deno 模块和资源的集合.
 
 
+  - [Cloud APIs](https://github.com/denolib/awesome-deno/blob/master/cloud-apis)
 
 ## Docs
 
@@ -51,6 +52,10 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [terminal_images](https://github.com/mjrlowe/terminal_images) - 用于在终端中显示图像的 Deno 模块和 CLI 工具.
 - [with-env](https://github.com/bcheidemann/with-env) - 用于使用一个或多个 .env 文件执行命令的简单命令行实用程序.
 - [yargs](https://github.com/yargs/yargs) - 乐观主义者的现代海盗主题继任者.
+
+### Cloud APIs
+- [aws-api](https://aws-api.deno.dev/) - 为 Deno 构建的从头开始的 Typescript AWS API 客户端.
+- [googleapis](https://googleapis.deno.dev/) - 为 Deno 自动生成的 Google API 客户端.
 
 ### Database
 - [cotton](https://github.com/rahmanfadhil/cotton) - 用于 deno 的 SQL 数据库工具包
@@ -277,7 +282,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - 用于安装和运行 Deno 的跨平台 Makefile.
 - maxmcd  [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
 - 海德 [deno-docker](https://github.com/hayd/deno-docker) 几个泊坞窗图像.
-- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展程序利用 vscode 中内置的 typedef 和 intellisense.
+- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展利用 vscode 中内置的 typedef 和 intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) - 让 TypeScript 文件直接在 script 标签中使用.
 - [dmm](https://github.com/drashland/dmm) - 轻量级 Deno 模块管理器
 - [dnt](https://github.com/denoland/dnt) - Deno 到 npm 包构建工具.

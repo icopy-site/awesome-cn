@@ -365,7 +365,6 @@
 * [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704&hl=en&as_sdt=2005&sciodt=0,5) ]. 在统计中将谓词发明视为非参数问题.
 
 
-<span id = "bayesian-optimization"></span>
 #### Bayesian Optimization
 
 * [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583&hl=en&as_sdt=0,5)]. 
@@ -517,7 +516,7 @@
 
 * [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
 
-* [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL 调查结果：EMNLP&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301&hl=en&as_sdt=0,5) ]. 理性言语行为在图像字幕中的应用. 
+* [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301&hl=en&as_sdt=0,5) ]. 理性言语行为在图像字幕中的应用. 
 
 * [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf) - ***CogSci&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394&hl=en&as_sdt=0,5)]. 
 
@@ -1250,7 +1249,7 @@
 
 * [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 一阶模型理论的计算哲学帐户，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致性逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，都是超一致性的.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，就都是超一致的.
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图斯坦福***. 关于逻辑结果的计算哲学帐户，它是关于有效论证中前提和结论之间的关系.
 
@@ -1369,7 +1368,7 @@
 
 * [The Symbolic Grounding Problem](http://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf) - ***物理学 D：非线性现象***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=6279614024681929496&hl=en&as_sdt=0,5)].
 
-* [Learning overhypotheses with hierarchical Bayesian models](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-7687.2007.00585.x?__cf_chl_captcha_tk__=pmd_Q6xVT1AstoEUxA7xS3_10HyDVsk8W_DzWgOPho_Njnw-1635210931-0-gqNtZGzNA1CjcnBszQvl) - ***Developmental Science***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=18041836774924845900&hl=en&as_sdt=0,5)].
+* [Learning overhypotheses with hierarchical Bayesian models](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-7687.2007.00585.x?__cf_chl_captcha_tk__=pmd_Q6xVT1AstoEUxA7xS3_10HyDVsk8W_DzWgOPho_Njnw-1635210931-0-gqNtZGzNA1CjcnBszQvl) - ***发展科学***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=18041836774924845900&hl=en&as_sdt=0,5)].
 
 
 
