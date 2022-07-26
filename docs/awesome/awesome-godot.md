@@ -136,7 +136,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [FPS Test](https://github.com/Calinou/fps-test)  - 单人 FPS 测试. 物理工作，但没有敌人，也没有适当的射击.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - 演示使用 tilemap 进行寻路的演示项目.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 让您连接到服务器并查看网络物理.
-- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
+- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - 类似 Minecraft 的体素地形演示.
 
 ## Tutorials
@@ -172,6 +172,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GUT](https://github.com/bitwes/Gut) - 在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘画、着色、孔、细节层次和草（Godot 3.x）.
 - [InGrid](https://github.com/Larpon/ingrid) - 无限滚动网格（Godot 3.x）.
+- [Input Helper](https://github.com/nathanhoad/godot_input_helper) - 检测输入设备和重新映射控件的助手（Godot 3.x）.
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster 软件的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 1000× 中的编码体验更加荒谬（Godot 3.x）.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 一个滚动的背景节点（Godot 2.1,3.x）.
@@ -334,7 +335,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *这些构建将允许您使用最新版本的 Godot Git，但它们可能不如官方版本稳定 - 使用风险自负.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - 主要是master分支，其他分支可以找到 [here](https://archive.hugo.pro/builds/godot/).
-- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app))，仅主分支.
+- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app)), master branch only.
 - [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM 为 Raspberry Pi 4 构建 Godot 引擎.
 
 ## Bash scripts
@@ -350,7 +351,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Godot Asset Library](https://godotengine.org/asset-library/asset)  - 官方 Godot 资产库. 包括用户创建的游戏、项目、模板、演示、教程、插件和脚本.
 - [Godot Shaders](https://godotshaders.com/) - 用于 Godot 游戏引擎的社区驱动的着色器库.
-- [Godotes](https://godotes.com/) - Weekly micro data analysis reports about the Godot engine and its ecosystem.
+- [Godotes](https://godotes.com/) - 每周关于 Godot 引擎及其生态系统的微观数据分析报告.
 - [Gotm.io](https://gotm.io/about) - 用于托管在 Godot 中制作的 HTML5 游戏的网站.
 - [This Week in Godot](https://thisweekingodot.com/) - 每周时事通讯，包含新闻、教程、游戏和演示版本等.
 
@@ -363,6 +364,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - 将 GDScript 翻译成 GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用 Node.js 与 Godot 客户端通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
-- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于使用 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
+- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于处理 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 为 RetroPie 安装 Godot“模拟器”的脚本模块.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.

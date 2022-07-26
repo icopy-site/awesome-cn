@@ -78,6 +78,7 @@
   - [Apache JMeter](https://jmeter.apache.org/) - 一个基于 Java 的开源负载测试工具.
   - [Karate](https://github.com/intuit/karate) - 将 API 测试自动化、模拟、性能测试甚至 UI 自动化结合到一个统一的框架中的开源工具.
   - [REST Assured](https://github.com/rest-assured/rest-assured) - 用于轻松测试 REST 服务的 Java DSL.
+  - [Schemathesis](https://github.com/schemathesis/schemathesis) - API 模式的基于属性的测试.
 
 ### BRE
 *业务规则引擎和业务规则管理系统.*
@@ -211,7 +212,7 @@
 - [RabbitMQ](https://www.rabbitmq.com) - 最初实现高级消息队列协议 (AMQP) 的开源消息代理.
 - [Redpanda](https://github.com/vectorizedio/redpanda)  - 用于关键任务工作负载的流媒体平台. 兼容 Kafka®，无需 Zookeeper®，无需 JVM，也无需更改代码.
 - [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - 基于 Apache ActiveMQ 和 Apache Kafka 等开源社区的 Red Hat AMQ.
-- [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - TIBCO EMS 是基于标准的 Java™ 消息服务 (JMS) 实现，允许任何支持 JMS 的应用程序（无论是本地开发的还是第三方的）快速轻松地交换消息.
+- [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - TIBCO EMS 是基于标准的 Java™ 消息服务 (JMS) 实现，允许任何支持 JMS 的应用程序（无论是本地应用程序还是第三方应用程序）快速轻松地交换消息.
 - [VerneMQ](https://github.com/vernemq/vernemq) - 一个高性能的分布式 MQTT 消息代理.
 
 ### RPA

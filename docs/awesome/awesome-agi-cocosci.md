@@ -1231,7 +1231,7 @@
 
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - *** ACM 通讯***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5) ]. 首次尝试从人类知识中构建大规模的常识知识库.
 
-* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
+* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
 
 * [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM 联合国际会议&#39;02***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)].
 
@@ -1249,7 +1249,7 @@
 
 * [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 一阶模型理论的计算哲学帐户，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，就都是超一致的.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致性逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，都是超一致性的.
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图斯坦福***. 关于逻辑结果的计算哲学帐户，它是关于有效论证中前提和结论之间的关系.
 
@@ -1336,7 +1336,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，它是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1637,7 +1637,7 @@
 
 * [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***普林斯顿***， [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***心理学系，普林斯顿***.
 
-* [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***普林斯顿***， [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***心理学系，计算机科学系，普林斯顿***.
+* [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***普林斯顿***， [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***心理学系，计算机科学系，普林斯顿***.
 
 
 ### Harvard

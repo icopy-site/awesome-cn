@@ -6,14 +6,14 @@
 
 [Lit](https://github.com/lit/lit) — 一个用于构建快速、轻量级 Web 组件的简单库.
 
-Lit 的核心是一个消除样板代码的组件基类，它提供反应状态、作用域样式和一个小巧、快速且富有表现力的声明性模板系统.
+Lit 的核心是一个消除样板文件的组件基类，它提供反应状态、作用域样式和一个小巧、快速且富有表现力的声明性模板系统.
 
 
 
 ## General resources
 
 - [Documentation](https://lit.dev/docs/)
-- [Tutorial](https://lit.dev/tutorial/)
+- [Tutorials](https://lit.dev/tutorials/)
 - [Playground](https://lit.dev/playground/)
 - [Blog](https://lit.dev/blog/)
 
@@ -223,7 +223,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 - [Skypack CDN](https://cdn.skypack.dev/lit)
 - [unpkg.com](https://unpkg.com/lit?module)
 
-See [this issue](https://github.com/lit/lit/issues/1257) 其中讨论了 CDN 分发的静态构建.
+See [lit.dev documentation](https://lit.dev/docs/getting-started/#use-bundles) 用于使用捆绑包.
 
 ## Integrations
 

@@ -9,7 +9,6 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 这个列表是最好的 Deno 模块和资源的集合.
 
 
-  - [Cloud APIs](https://github.com/denolib/awesome-deno/blob/master/cloud-apis)
 
 ## Docs
 
@@ -72,9 +71,6 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [yongo](https://github.com/yooneskh/yongo) - deno 中的 Mongoose api 子集（如填充）但不会完全复制 mongoose
 
-### Discord
-- [discordeno](https://discordeno.mod.land/) - Deno 的 Discord API 库
-
 ### Editor framework
 
 - [Denops](https://github.com/vim-denops/denops.vim) - 使用 Deno 编写 Vim/Neovim 插件的生态系统.
@@ -119,6 +115,13 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - deno 的字符串 slugifier.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) - 删除字符串中的重音符号/变音符号.
 - [written](https://github.com/vixalien/written) - A 提供了一组用于操作文本的实用程序，重点是提供排版工具而不是纯字符串操作.
+
+### Social Platform APIs
+- [grammY](https://github.com/grammyjs/grammy) - Deno 的 Telegram Bot API 框架.
+- [grm](https://github.com/dcdunkan/grm) - Deno 的 Telegram MTProto 客户端.
+- [twi](https://github.com/roj1512/twi) - Deno 的 Twitter API v2 客户端.
+- [discordeno](https://discordeno.mod.land/) - Deno 的 Discord API 库
+
 
 ### Template engine
 - [dejs](https://github.com/syumai/dejs) - 用于 deno 的 Ejs 模板引擎.
@@ -270,7 +273,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [clone](https://github.com/ekaragodin/clone) - 方便克隆的简单实用程序.
 - [decense](https://github.com/vinliao/decense) - 使用一个 `deno run` 命令生成许可证.
 - [dedep](https://github.com/egoist/dedep) - 管理依赖版本.
-- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流，使用任何 Deno 模块、Typescript/Javascript 代码
+- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流程，使用任何 Deno 模块、Typescript/Javascript 代码
 - [denoify](https://github.com/garronej/denoify) - 对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.
