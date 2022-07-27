@@ -21,7 +21,7 @@
 - [mapcamp.slack.com](https://mapcamp.slack.com/) - 加入 Slack 上的地图营 [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - 沃德利地图社区.
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - 订阅 [here](https://bit.ly/2QlF0Wx) . 通讯 [archive](https://bit.ly/2P9MEPu).
-- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - Join the conversation.
+- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - 加入对话.
 
 ## Reading
 
@@ -37,6 +37,7 @@
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - 创建和使用 Wardley 地图的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF/iPad/Kindle.
 - [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu、Boyd 和 Wardley 关于态势感知、OODA“循环”和 Wardley 映射 [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - 第 2.3 章映射你的方式.
+- [Draw your company strategy: A practical workbook for mapping business strategy](https://www.amazon.com/-/es/Joaqu%C3%ADn-Pe%C3%B1a-Fern%C3%A1ndez/dp/B09QFJ4QDG/)  - 视觉卡将概念视为用户需求、气候模式、学说、游戏玩法. 修改概念、示例和其他战略主题.
 
 ## Videos
 
@@ -59,8 +60,9 @@
 ## Maps in the Wild
 
 博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.
-- [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
+- [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  - 华金·佩尼亚·费尔南德斯.  9月16日，
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 为什么电子游戏将成为一个国家灵魂的新战场，西蒙·沃德利（Simon Wardley）.  2021 年 9 月 8 日.
+- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) 我们使用工作角色的方式容易产生偏见，阻碍创新，并减慢组织速度. 盖伊·狄金森.  2021 年 6 月 13 日
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 在你跳跃之前先看看西蒙沃德利.  2020 年 10 月 22 日.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - 2020 年 9 月 15 日.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  - 与西蒙·沃德利的对话.  2020 年 8 月 4 日.
@@ -93,7 +95,7 @@
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  - 通过 Wardley 地图了解加密生态系统.  2019 年 6 月 2 日.
 - [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/)  - 了解测试策略如何基于潜在环境.  2019 年 4 月 19 日
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  - 绿色网络基金会.  2019 年 3 月 20 日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  - 涵盖使用 Wardley Maps 来预测未来的 IT 战略开发，了解哪些方法最适合开发和交付信息管理系统. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - Covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  - 两个用例：让 NSO 访问（敏感）大数据的新来源； 并实现跨多个 NSO 的大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019 年 3 月 12 日.
 - [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  - Wardley 映射示例的精选图集.  2019 年 3 月 6 日 - 至今.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  - 将 Samo Burja 的帝国理论与一种类似于 Simon Wardley 开创的映射形式相结合.  2019 年 1 月 2 日.
@@ -128,7 +130,7 @@
 - [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  - 对于新任命的高管，帮助您进入一个可以开始学习和谈论战略的职位.  2015 年 8 月 21 日.
 - [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html)  - Simon Wardley 讨论了他用于制图的其他一些工具.  2015 年 3 月 6 日.
 - [Guest post: mapping the way to a strategy](https://governmenttechnology.blog.gov.uk/2014/04/16/guest-post-mapping-the-way-to-a-strategy/)  - GOV.UK 政府数字服务.  2014 年 4 月 16 日.
-- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  - tl;博士买家注意事项.  2014 年 2 月 4 日
+- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  - tl;博士告诫 Emptor.  2014 年 2 月 4 日.
 
 ## Research Papers
 

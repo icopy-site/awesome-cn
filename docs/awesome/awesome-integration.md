@@ -56,8 +56,9 @@
 ### API Testing
 *API 测试工具.*
 - API 客户端
+  - [Advanced REST Client](https://github.com/advanced-rest-client/arc-electron) - 出于为开发人员社区提供他们需要的工具的热情，一个开源且免费的 API 工具.
   - [curl](https://github.com/curl/curl) - 用于通过 URL 传输数据的命令行工具和库.
-  - [curlie](https://curlie.io) - A frontend to curl that adds the ease of use of httpie, without compromising on features and performance.
+  - [curlie](https://curlie.io) - curl 的前端，增加了 httpie 的易用性，而不会影响功能和性能.
   - [HTTPie](https://httpie.io) - 命令行 HTTP 客户端，比 curl 对开发人员更友好.
   - [Insomnia](https://insomnia.rest/products/insomnia) - 跨平台 HTTP 和 GraphQL 客户端.
   - [Postman](https://www.postman.com/product/api-client/) - 发出 HTTP 请求、生成模拟服务器和制作 API 文档的工具.
@@ -77,6 +78,7 @@
 - 测试工具和框架
   - [Apache JMeter](https://jmeter.apache.org/) - 一个基于 Java 的开源负载测试工具.
   - [Karate](https://github.com/intuit/karate) - 将 API 测试自动化、模拟、性能测试甚至 UI 自动化结合到一个统一的框架中的开源工具.
+  - [Pyresttest](https://github.com/svanoort/pyresttest) - 一个 REST 测试和 API 微基准测试工具.
   - [REST Assured](https://github.com/rest-assured/rest-assured) - 用于轻松测试 REST 服务的 Java DSL.
   - [Schemathesis](https://github.com/schemathesis/schemathesis) - API 模式的基于属性的测试.
 
@@ -101,7 +103,7 @@
 
 ### Data Mapping Solution
 *数据映射解决方案.*
-- [AltasMap](https://www.atlasmap.io/) - Data mapping solution with interactive web based user interface, that simplifies configuring integrations between Java, XML, CSV and JSON data sources.
+- [AltasMap](https://www.atlasmap.io/) - 具有基于 Web 的交互式用户界面的数据映射解决方案，简化了 Java、XML、CSV 和 JSON 数据源之间的配置集成.
 - [Altova MapForce](https://www.altova.com/mapforce) - 用于任意转换和集成的图形数据映射工具.
 - [JOLT](https://github.com/bazaarvoice/jolt) - 用 Ja​​va 编写的 JSON 到 JSON 转换库，其中转换的“规范”本身就是一个 JSON 文档.
 - [JSLT](https://github.com/schibsted/jslt)  - 一个完整的 JSON 查询和转换语言. 语言设计的灵感来自 jq、XPath 和 XQuery.
@@ -163,7 +165,7 @@
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - 来自阿里云的全托管 Apache Kafka 服务.
 - [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - 具有高吞吐量、低延迟和高可扩展性的分布式、完全托管和专业的消息传递服务.
 - [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - 一种分布式消息队列和通知服务，支持并发操作以促进应用程序和解耦系统之间的消息传输.
-- [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - A  distributed message queue service that supports reliable message-based asynchronous communication among microservices, distributed systems, and serverless applications.
+- [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - 企业级云消息传递，与 Anypoint 平台完全集成.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - 可靠的云消息传递即服务 (MaaS) 和简单的混合集成.
 - [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ 即服务.
@@ -236,10 +238,10 @@
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) - 用于在 Kubernetes 上编排并行作业的开源容器原生工作流引擎.
 - [Azkaban](https://github.com/azkaban/azkaban) - 分布式工作流管理器，在 LinkedIn 实施，用于解决 Hadoop 作业依赖性问题.
 - [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有可选开发环境、设计器、可选用户界面和管理工具的 BPMN 引擎.
-- [Cadence](https://github.com/uber/cadence) - Fault-Tolerant Stateful Code Platform.
+- [Cadence](https://github.com/uber/cadence) - 容错状态代码平台.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台.
 - [Conductor](https://github.com/Netflix/conductor) - Netflix Conductor 是一个在云中运行的编排引擎.
-- [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个工作流库，可在任何 .NET Core 应用程序中执行工作流.
+- [Elsa Core](https://github.com/elsa-workflows/elsa-core) -  A workflows library that enables workflow execution in any .NET Core application.
 - [Flowable](https://github.com/flowable/flowable-engine) - 提供一组紧凑且高效的核心开源业务流程引擎.
 - [jBPM](https://www.jbpm.org/) - 用于构建业务应用程序以帮助自动化业务流程和决策的工具包.
 - [StackStorm](https://github.com/StackStorm/st2)  - 强大的自动化引擎，提供传感器、触发器、规则、工作流和操作.  StackStorm 是您将应用程序“粘合”在一起的方式.
@@ -247,9 +249,9 @@
 ## Resources
 *一些有用的规范、模式、文章和文档.*
 ### API Specification
-- [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - AsyncAPI 规范为事件驱动架构 (EDA) 的更大更好的工具生态系统奠定了基础.
+- [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - The AsyncAPI specification settles the base for a greater and better tooling ecosystem for Event-Driven Architectures (EDA).
 - [GraphQL](https://github.com/graphql/graphql-spec) - API 的查询语言和使用现有数据完成这些查询的运行时.
-- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在不访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
+- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在无需访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API 建模语言.
 - [WSDL](http://www.w3.org/TR/wsdl20) - 基于 SOAP 的服务的基于 XML 的接口描述语言.
 ### Articles

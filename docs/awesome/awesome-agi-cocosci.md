@@ -12,6 +12,10 @@
 
 显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是作者在研究绑架时文学评论的副产品，因此其他非绑架主题也或多或少地带有偏见. 绑架是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
 
+## Contributing
+
+非常欢迎投稿！ 请阅读 [Contributing Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/Contributing.md) 在采取行动之前.
+
 
 <span id = "c"></span>
       * [Quantitative Analysis](#quantitative-analysis) 
@@ -22,7 +26,7 @@
 
 ### Courses
 
-* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science)  - ***麻省理工学院、哈佛、斯坦福***. 来自麻省理工学院、哈佛大学、斯坦福大学的计算认知科学课程.
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science)  - ***麻省理工学院、哈佛、斯坦福***. 来自麻省理工学院、哈佛、斯坦福的计算认知科学课程.
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)  - ***麻省理工学院***.  Armando Solar-Lezama 的程序综合基础课程.
 
@@ -92,6 +96,8 @@
 * [Foam](https://foambubble.github.io/foam/)  - ***泡沫泡泡***. 用于链接文档管理、可视化和共享，基于 VSCode 构建的开源软件.
 
 * [Building a Second Brain](https://www.buildingasecondbrain.com/)  - ***Forte Labs, LLC***. 在图表中连接想法.
+
+* [Zotero](https://www.zotero.org/)  - ***数字学者***. 用于管理书目数据和研究相关材料的参考管理.
 
 * [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***忘记机器：早期现代欧洲的知识管理演变，Brill***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
 
@@ -215,7 +221,7 @@
 
 #### Rationalization
 
-* [Imagination and the generation of new ideas](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744) - ***认知发展***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=16920774374067505248&hl=en&as_sdt=2005&sciodt=0,5) ]. 童年时期合理化的证据.
+* [Imagination and the generation of new ideas](https://www.sciencedirect.com/science/article/abs/pii/S0885201414000744) - ***Cognitive Development***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=16920774374067505248&hl=en&as_sdt=2005&sciodt=0,5) ]. 童年时期合理化的证据.
 
 * [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](http://web.mit.edu/maxs/www/papers/cogsci_2016_vapors.pdf) - ***CogSci&#39;16***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958&hl=en&as_sdt=2005&sciodt=0,5) ]. 约束思维作为合理化.
 
@@ -344,7 +350,7 @@
 
 * [Latent Semantic Indexing: A Probabilistic Analysis](https://www.sciencedirect.com/science/article/pii/S0022000000917112) - ***计算机与系统科学杂志***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=7296120469860429813&hl=en&as_sdt=0,5) ]. 关于分层主题模型的原始论文.
 
-* [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
+* [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***统计科学***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
 * [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科学论文分析中的应用
 
@@ -516,7 +522,7 @@
 
 * [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
 
-* [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL Findings: EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301&hl=en&as_sdt=0,5) ]. 理性言语行为在图像字幕中的应用. 
+* [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL 调查结果：EMNLP&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301&hl=en&as_sdt=0,5) ]. 理性言语行为在图像字幕中的应用. 
 
 * [Disentangling contributions of visual information and interaction history in the formation of graphical conventions](https://cogsci.mindmodeling.org/2019/papers/0091/0091.pdf) - ***CogSci&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=15046353579508199394&hl=en&as_sdt=0,5)]. 
 
@@ -1145,7 +1151,7 @@
 <span id = "caus"></span>
 ### Causality
 
-* [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
+* [Causality](https://en.wikipedia.org/wiki/Causality)  - ***维基百科***. 关于因果关系的维基百科，它是一个事件、过程、状态或对象（原因）促成另一个事件、过程、状态或对象（结果）产生的影响，其中原因对结果负有部分责任，效果部分取决于原因.
 
 * [Causal Models](https://plato.stanford.edu/entries/causal-models/)  - ***柏拉图斯坦福***. 因果模型的计算哲学说明，因果模型是表示单个系统或群体内因果关系的数学模型.
 
@@ -1153,6 +1159,8 @@
 * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***美国统计协会杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
 * [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***《牛津认知心理学手册》***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)].
+
+* [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl 的关于贝叶斯网络操作的因果推理教程.
 
 * [The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3241036) - ***ACM 通讯***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=13296019510897277617&hl=en&as_sdt=0,5) ].  Judea Pearl 对概率图模型中因果推理的评论.
 
@@ -1620,17 +1628,19 @@
 
 ### Stanford
 
+* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***计算机科学系，以人为中心的人工智能研究所，斯坦福***， [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***斯坦福***.
+
 * [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***斯坦福***， [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***斯坦福大学计算机科学系心理学系***.
 
 * [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***斯坦福***， [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***心理学系，斯坦福***.
 
 * [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***斯坦福***， [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***心理学系，斯坦福***.
 
-* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***斯坦福***， [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福***.
+* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***斯坦福***， [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福大学***.
 
 * [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***传播系，斯坦福***， [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***斯坦福***.
 
-* [Jiajun Wu](https://jiajunwu.com/) - ***计算机科学系，斯坦福***.
+* [Jiajun Wu](https://jiajunwu.com/) - ***计算机科学系，斯坦福大学***.
 
 
 ### Princeton
@@ -1647,6 +1657,8 @@
 * [Tomer Ullman](https://www.tomerullman.org/) - ***哈佛***， [Computation, Cognition, and Development Lab (CoCoDev)](https://cocodev.fas.harvard.edu/) - ***哈佛大学心理学系***.
 
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) - ***哈佛***， [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***哈佛大学心理学系***.
+
+* [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***心理学系，哈佛***， [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***哈佛***.
 
 
 ### UCLA

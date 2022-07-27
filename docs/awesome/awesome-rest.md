@@ -13,7 +13,7 @@
 基于网络的软件架构设计](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding 定义 REST 的论文
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - 解决安全性、分页、过滤、版本控制、部分答案、CORS 等的完整指南.
+* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​跨多个团队进行大规模 RESTful 集成的经验教训.
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
@@ -178,7 +178,7 @@
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - 使用基于 Web 的简单 HTTP 客户端发出 HTTP 请求.
 * [TestMace](https://testmace.com) - 用于 API 自动化测试的跨平台简单但功能强大的 IDE.
 * [Milkman](https://github.com/warmuuh/milkman) - 可扩展的跨平台请求/响应工作台，不仅适用于 http 调用.
-* [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) - 基于属性的测试工具，用于使用 Open API 和 GraphQL 规范构建的 Web 应用程序.
 
 ### Mocking
 
@@ -222,6 +222,7 @@
 
 ## SaaS Tools
 
+* [Nango](https://github.com/NangoHQ/nango) - 使用 REST API（开源）的本机集成框架.
 * [Runscope](https://www.runscope.com/) - 自动化 API 监控和测试.
 * [Ping-API](https://ping-api.com/) - 自动化 API 监控和测试.
 * [import.io Magic](https://magic.import.io/) - 一键从任何网站创建 REST API.

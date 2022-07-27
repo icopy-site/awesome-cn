@@ -323,7 +323,7 @@
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - 一个市场应用程序 -（使用 Rails 4.0）.
 - [reservations](https://github.com/YaleSTC/reservations)  - 一个库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](http://yalestc.github.io/reservations/)
 - [rletters](https://codeberg.org/rletters/rletters)  - 研究人员期刊文章数据库的前端（使用 Rails 6.0）.  - [:earth_africa:](https://www.rletters.net)
-- [rubygems.org](https://github.com/rubygems/rubygems.org)  - 一个 gem 托管平台（使用 Rails 6.0）.  - [:earth_africa:](https://rubygems.org)
+- [rubygems.org](https://github.com/rubygems/rubygems.org)  - 一个 gem 托管平台（使用 Rails 7.0）.  - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - 一个帐户跟踪器（使用 Rails 4.2）.
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - 数字资产管理应用程序 - 使用 Rails 5.1
 - [selfstarter](https://github.com/apigy/selfstarter) - 众筹应用程序（使用 Rails 4.0）.
