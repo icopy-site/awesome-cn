@@ -15,7 +15,7 @@
 - [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI 是一个开源威胁情报平台，使威胁情报专业人员能够将他们不同的 CTI 信息整合到一个数据库中 
 并找到有关网络威胁的新见解.
 - [`TypeDB OSI - Biomedical Knowledge Graph`](https://github.com/typedb-osi/typedb-bio) - TypeDB Bio 是一个开源的生物医学知识图谱，为生物医学研究人员提供了一种查询互连和异构生物医学的直观方法 
-数据在一个地方.
+数据集中在一个地方.
 - [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) - 一个开源数据迁移器，用于将数据大规模加载到 TypeDB.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - 具有运行时感知和上下文感知功能的开源自动化编程助手.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - 开源机器学习框架，用于自动化基于文本和语音的对话.
@@ -33,10 +33,10 @@
 
 ## Example projects
 
-- [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/catalogue_of_life) - 生命目录是一个数据库，包含超过 450 万个目前已知的生物学分类群，由一百多个不同的来源汇编而成. 
+- [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/biology/catalogue_of_life) - 生命目录是一个数据库，包含超过 450 万个目前已知的生物学分类群，由一百多个不同的来源汇编而成. 
 TypeDB Loader 加载了这个庞大的数据集，因此我们可以使用基于规则的推理 TypeQL 查询来优雅地查询它.
-- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/xcom)  - XCOM 2 是一款大型科幻战略游戏，人类必须应对日益增长的外星威胁. 使用 TypeDB 和 TypeQL 探索有​​关 XCOM 2 技术树的数据.
-- [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/github)  - GitHub，您现在所在的网站，是一个巨大的相互关联的数据池. 请参阅将 TypeDB 和 TypeQL 集成到 GUI 中的示例.
+- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/gaming/xcom)  - XCOM 2 是一款大型科幻战略游戏，人类必须应对日益增长的外星威胁. 使用 TypeDB 和 TypeQL 探索有​​关 XCOM 2 技术树的数据.
+- [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/software/github)  - GitHub，您现在所在的网站，是一个巨大的相互关联的数据池. 请参阅这个将 TypeDB 和 TypeQL 集成到 GUI 中的示例.
 
 ## Blog posts
 

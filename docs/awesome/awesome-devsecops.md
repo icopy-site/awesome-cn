@@ -9,7 +9,7 @@
 </p>
 <hr/>
 
-&gt; 策划最好的 DevSecOps 资源和工具.
+> Curating the best DevSecOps resources and tooling.
 
 [DevSecOps](https://www.rapid7.com/fundamentals/devsecops/) 是的延伸 [DevOps](https://www.atlassian.com/devops) 旨在通过以开发人员为中心的安全工具和流程将安全实践带入开发生命周期的运动.
 
@@ -163,7 +163,7 @@ Intentionally vulnerable applications are often useful when developing security 
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - 用于学习目的的易受攻击的 Web 应用程序的集合.
 
 ### Monitoring
-在发布之前测试和强化我们的软件是不够的. 我们还必须监控我们的生产软件的使用情况、性能和错误，以捕获我们可能需要响应或解决的恶意行为和潜在安全漏洞. 有多种工具可用于监控生产软件和基础设施的不同方面.
+在发布之前测试和强化我们的软件是不够的. 我们还必须监控我们的生产软件的使用、性能和错误，以捕获我们可能需要响应或解决的恶意行为和潜在安全漏洞. 有多种工具可用于监控生产软件和基础设施的不同方面.
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - 一组内容安全策略工具，可以测试策略、监控 CSP 报告并提供指标和警报.
 
@@ -195,7 +195,7 @@ Intentionally vulnerable applications are often useful when developing security 
 即使存储库是私有的，源代码控制也不是存储凭据、API 密钥或令牌等机密的安全场所.  Secrets 扫描工具可以扫描和监控 git 存储库和 pull-requests 的 secrets，并且可以用来防止 secrets 被提交，或者查找和删除已经提交到源代码控制的 secrets.
 
 - [CredScan](https://secdevtools.azurewebsites.net/helpcredscan.html) - _Microsoft_ - 可以在 Azure DevOps 管道中作为任务运行的凭据扫描工具.
-- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - An aptly named module for (surprise, surprise) detecting secrets within a code base.
+- [Detect Secrets](https://github.com/Yelp/detect-secrets) - _Yelp_ - 一个恰当命名的模块，用于（惊喜、惊喜）检测代码库中的秘密.
 - [GitGuardian](https://www.gitguardian.com/) - _GitGuardian_ - 一个基于 Web 的解决方案，用于扫描和监控公共和私有 git 存储库中的秘密.
 - [Gitleaks](https://github.com/zricethezav/gitleaks) - _Zachary Rice_ - Gitleaks 是一个 SAST 工具，用于检测 git 存储库中的硬编码秘密，如密码、api 密钥和令牌.
 - [git-secrets](https://github.com/awslabs/git-secrets)  - _AWS Labs_ - 扫描提交、提交消息和合并以获取机密. 对 AWS 密钥模式的原生支持，但可以配置为支持其他模式.
@@ -277,11 +277,11 @@ Intentionally vulnerable applications are often useful when developing security 
 
 ### Supply Chain Security
 
-供应链攻击有不同的形式，针对 SDLC 的固有第 3 方部分：CI 中的工具、已执行的外部代码等等. 供应链安全工具可以防御此类攻击.
+供应链攻击有不同的形式，针对 SDLC 的固有第 3 方部分：CI 中的工具、已执行的外部代码等. 供应链安全工具可以防御此类攻击.
 
+- [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - 在 GitHub 托管的运行程序 (Ubuntu VM) 上安装安全代理，以防止凭据泄露、检测受损的依赖项和构建工具，并在构建期间检测源代码的篡改.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - 帮助您验证脚本和可执行文件，以减轻 CI 和其他系统中的供应链攻击，例如最近 [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 - [Sigstore](https://www.sigstore.dev/) - sigstore 是一套免费使用和开源的工具，包括 [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) 和 [rekor](https://github.com/sigstore/rekor), h和ling digital signing, verification 和 checks for provenance needed to make it safer to distribute 和 use open source software.
-
 
 ### Threat Modelling
 

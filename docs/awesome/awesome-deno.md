@@ -94,6 +94,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - 适用于任何地方的 JavaScript 的有用日志记录实用程序.
+- [sentry_deno](https://github.com/GJZwiers/sentry_deno) - 用于 JavaScript 的 Sentry SDK 到 Deno 的非官方端口.
 
 ### Machine learning
 - [netsaur](https://github.com/denosaurs/netsaur) - 强大的机器学习，由 WebGPU 加速
@@ -124,7 +125,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 
 ### Template engine
-- [dejs](https://github.com/syumai/dejs) - 用于 deno 的 Ejs 模板引擎.
+- [dejs](https://github.com/syumai/dejs) - deno 的 Ejs 模板引擎.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - deno 的模板渲染器.
 - [eta](https://github.com/eta-dev/eta) - 快速、轻量级和可配置的嵌入式模板引擎.
 - [handlebars](https://github.com/alosaur/handlebars) - deno 的车把模板引擎
@@ -181,7 +182,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [ms](https://github.com/denolib/ms) - 轻松将各种时间格式转换为毫秒.
 - [online](https://github.com/denorg/online) - 检查您当前是否在 Deno 在线.
 - [optionals](https://github.com/OliverBrotchie/optionals) - 类似 Rust 的错误处理和具有详尽模式匹配的选项.
-- [qrcode](https://github.com/denorg/qrcode) - Deno 的 QR 码图像生成器.
+- [qrcode](https://github.com/denorg/qrcode) - QR code image generator for Deno.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) - 在 Deno 中递归读取目录.
 - [rubico](https://github.com/richytong/rubico)  - [a]同步函数组合； 它只是工作.
 - [solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 绑定.
@@ -252,7 +253,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 ## Registries
 
-- [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
+- [crux.land](https://crux.land/) - 用于托管小型（&lt; 10kB）单个 deno 脚本的免费注册服务.
 - [Deno PKG](https://denopkg.com/) - 在你的 Deno 项目中使用来自 GitHub 的代码的更简单方法.
 - [Denopkg.dev](https://denopkg.dev/) - 在你的 Deno 项目中使用来自 GitHub/GitLab 的任何公共/私有存储库.
 - [deno.land/x/](https://deno.land/x/) - 官方的第 3 方模块注册表.
@@ -285,7 +286,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - 用于安装和运行 Deno 的跨平台 Makefile.
 - maxmcd  [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗图像.
 - 海德 [deno-docker](https://github.com/hayd/deno-docker) 几个泊坞窗图像.
-- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展利用 vscode 中内置的 typedef 和 intellisense.
+- [deno-vscode](https://github.com/ameerthehacker/deno-vscode) - 使用此扩展程序利用 vscode 中内置的 typedef 和 intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) - 让 TypeScript 文件直接在 script 标签中使用.
 - [dmm](https://github.com/drashland/dmm) - 轻量级 Deno 模块管理器
 - [dnt](https://github.com/denoland/dnt) - Deno 到 npm 包构建工具.

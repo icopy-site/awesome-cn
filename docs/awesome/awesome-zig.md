@@ -73,7 +73,7 @@
 
 
 ## Editor plugins
-* [ice1000/intellij-zig](https://github.com/ice1000/intellij-zig) - 用于 Zig 编程语言的 IntelliJ IDEA 插件.
+* [MarioAriasC/zig-support](https://github.com/MarioAriasC/zig-support) - 对 JetBrains IDE（IntelliJ、CLion 等）的语言支持
 * [isaachier/ztags](https://github.com/isaachier/ztags) - Zig 的 Ctags 实现.
 * [Tetralux/sublime-zig](https://github.com/Tetralux/sublime-zig) - 我自己的，更轻量级的 Zig 语法高亮.
 * [ziglang/sublime-zig-language](https://github.com/ziglang/sublime-zig-language) - 对 Sublime Text 的 Zig 语言支持.
@@ -201,7 +201,7 @@
 * [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .这是一个解析器.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - 正则表达式实现.
 * [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - 港口 [ryu](https://github.com/ulfjack/ryu).
-* [Vexu/zuri](https://github.com/Vexu/zuri) - 解析器 URI.
+* [Vexu/zuri](https://github.com/Vexu/zuri) - 你是一个解析器.
 * [vi/zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) 解析器.
 * [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) - 解析命令行参数.
 * [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) - 实现可以解析任何 TypeId.Int 或 TypeId.Float 的 ParseNumber.

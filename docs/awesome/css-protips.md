@@ -29,11 +29,11 @@
 *：：后 {
   box-sizing：边框框；
   边距：0；
-  填充：0；
+  padding: 0;
 }
 ```
 
-现在元素将被去除边距和填充，并且 `box-sizing` 允许您使用 CSS 盒模型管理布局.
+现在元素将被去除边距和填充，并且 `box-sizing` 允许您使用 CSS 盒子模型管理布局.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
@@ -76,7 +76,7 @@ html {
   颜色：继承；
   字体：继承；
   大纲：无；
-  填充：0；
+  padding: 0;
 }
 ```
 
@@ -254,7 +254,7 @@ ul &gt; li:not(:last-child)::after {
 在 CSS 中使用负数 `nth-child` 来选择项目 1 到 n.
 
 ```css
-李{
+那 {
   显示：无；
 }
 
@@ -311,7 +311,7 @@ SVG 适用于所有分辨率类型，并且在所有浏览器中都受支持 [ba
 }
 ```
 
-In this example, all elements in the flow of the document that follow other elements will receive `margin-top: 1.5em`.
+在此示例中，文档流中跟随其他元素的所有元素都将收到 `margin-top: 1.5em`.
 
 有关“lobotomized owl”选择器的更多信息，请阅读 [Heydon Pickering's post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) 在 *A List Apart* 上.
 
@@ -331,7 +331,7 @@ In this example, all elements in the flow of the document that follow other elem
   宽度：300px；
 }
 
-.slider: 悬停 {
+.滑块：悬停{
   最大高度：600px；
   溢出-y：滚动；
 }
@@ -390,6 +390,7 @@ a[href^=&quot;http&quot;]:empty::before {
 ```
 
 这很方便.
+
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/zBzXRx)
 
@@ -570,7 +571,7 @@ select,
 [Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) 允许您指定鼠标如何与它所触摸的元素交互. 要禁用按钮上的默认指针事件，例如：
 
 ```css
-.button-disabled {
+按钮：禁用{
   不透明度：0.5；
   指针事件：无；
 }

@@ -99,6 +99,7 @@ Lit 的核心是一个消除样板文件的组件基类，它提供反应状态�
 
 - [`@adobe/lit-mobx`](https://www.npmjs.com/package/@adobe/lit-mobx) - 将 mobx 与 Lit 一起使用的 Mixin 和基类.
 - [`@apollo-elements/lit-apollo`](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - LitElement 与 Apollo GraphQL 的集成.
+- [`@lit-app/state`](https://www.npmjs.com/package/@lit-app/state) - Lit 2 的精益和简单的全局状态管理.
 - [`@shoelace-style/localize`](https://github.com/shoelace-style/localize) - 用于本地化自定义元素的微型库，为 Lit 提供指令.
 - [`@stefanholzapfel/lit-state`](https://www.npmjs.com/package/@stefanholzapfel/lit-state) - Lit 2 的轻量级反应状态管理.
 - [`@vaadin/form`](https://www.npmjs.com/package/@vaadin/form) - 一组使用 TypeScript 和 Lit 构建表单的实用程序.
@@ -184,7 +185,7 @@ Lit 的核心是一个消除样板文件的组件基类，它提供反应状态�
 - [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack 加载器将 css 文件作为 JavaScript 标记模板文字对象导入.
 - [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - 用于将 CSS/SCSS 导入 Lit 组件的 Webpack 加载器.
 - [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - 汇总插件将 css 文件导入为 JavaScript 标记模板文字对象.
-- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup 插件，用于缩小标记模板字符串中的 HTML.
+- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - 汇总插件以缩小标记模板字符串中的 HTML.
 - [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - Rollup 插件，用于在 Lit 组件中加载 PostCSS 处理的样式表.
 
 ### Linting
