@@ -574,7 +574,7 @@
 * [adxl345_micropython](https://github.com/fanday/adxl345_micropython) - ADXL345 16g 3 轴加速度计的驱动程序.
 * [micropython-lis2hh12](https://github.com/tuupola/micropython-lis2hh12) - LIS2HH12 3 轴加速度计的 I2C 驱动程序.
 * [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) - MMA7660 1.5g 3 轴加速度计的驱动程序.
-* [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自使用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
+* [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
 
 #### Air Quality
 
@@ -846,13 +846,14 @@
 ## Books
 
 * [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](https://shop.oreilly.com/product/0636920056515.do)  - Nicholas H. Tollervey. 国际标准书号 9781491972731.
-* [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  ——查尔斯·贝尔. 国际标准书号 9781484231227.
+* [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://link.springer.com/book/10.1007/978-1-4842-3123-4)  ——查尔斯·贝尔. 国际标准书号 9781484231227.
+* [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2)  ——查尔斯·贝尔. 国际标准书号 9781484281345.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  - 马尔万·阿尔萨巴格. 国际标准书号 9781838649951.
-* [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  - 唐纳德诺里斯. 国际标准书号 9781259644535.
+* [Python for Microcontrollers: Getting Started with MicroPython](https://www.mheducation.com.au/python-for-microcontrollers-getting-started-with-micropython-9781259644535-aus)  - 唐纳德诺里斯. 国际标准书号 9781259644535.
 * [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  - 尤里·玛格达. 国际标准书号 9781090900937 .
 * [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  - 雅各布·贝宁戈. 国际标准书号 9781789958034.
 * [Get Started with MicroPython on Raspberry Pi Pico](https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico)  - Gareth Halfacree 和 Ben Everard 着. 国际标准书号 9781912047864.
-* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book)  - Günter Spanner 着. 国际标准书号 9783895764370.
+* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book)  - Günter Spanner. 国际标准书号 9783895764370.
 
 ## Frameworks
 

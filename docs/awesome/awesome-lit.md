@@ -6,7 +6,7 @@
 
 [Lit](https://github.com/lit/lit) — 一个用于构建快速、轻量级 Web 组件的简单库.
 
-Lit 的核心是一个消除样板文件的组件基类，它提供反应状态、作用域样式和一个小巧、快速且富有表现力的声明性模板系统.
+Lit 的核心是一个消除样板代码的组件基类，它提供反应状态、作用域样式和一个小巧、快速且富有表现力的声明性模板系统.
 
 
 
@@ -115,16 +115,17 @@ Lit 的核心是一个消除样板文件的组件基类，它提供反应状态�
 
 ## Design Systems
 
-- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - 使用 LitElement 构建的 AXA CH UI 组件库.
+- [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - 使用 LitElement 构建的 AXA CH UI 组件库.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - 用于构建 Brightspace 应用程序的 Web 组件集合.
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - 基于 Web 组件的碳设计系统变体.
-- [Clarity Core Web Components](https://github.com/vmware/clarity/tree/next/packages/core) - Clarity Design System 的 Web 组件套件.
+- [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - 基于 Web 组件的碳设计系统变体.
+- [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - Clarity Design System 的 Web 组件套件.
 - [Kor](https://github.com/eduferfer/kor) - 一个开源设计系统和轻量级 UI 组件库.
 - [Lion](https://github.com/ing-bank/lion) - 高性能、可访问且灵活的 Web 组件.
 - [Material Web Components](https://github.com/material-components/material-web) - 作为 Web 组件实现的材料设计.
-- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components=) - 基于 Momentum 设计的 UI 组件集.
+- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - 基于 Momentum 设计的 UI 组件集.
 - [Outline Design System](https://github.com/phase2/outline) - 基于 Web 组件的设计系统入门套件.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR 的设计系统可创造凝聚力、支持性和美好体验.
+- [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - 使用红帽品牌构建统一体验的 Web 组件.
 - [Shoelace](https://github.com/shoelace-style/shoelace) - 基于与框架无关的技术构建的专业设计的 UI 组件的集合.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - 使用 LitElement 构建的 Adob​​e Spectrum 设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 基于原生 API 的企业级糖！
@@ -185,7 +186,7 @@ Lit 的核心是一个消除样板文件的组件基类，它提供反应状态�
 - [lit-css-loader](https://www.npmjs.com/package/lit-css-loader) - Webpack 加载器将 css 文件作为 JavaScript 标记模板文字对象导入.
 - [lit-scss-loader](https://www.npmjs.com/package/lit-scss-loader) - 用于将 CSS/SCSS 导入 Lit 组件的 Webpack 加载器.
 - [rollup-plugin-lit-css](https://www.npmjs.com/package/rollup-plugin-lit-css) - 汇总插件将 css 文件导入为 JavaScript 标记模板文字对象.
-- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - 汇总插件以缩小标记模板字符串中的 HTML.
+- [rollup-plugin-minify-html-literals](https://www.npmjs.com/package/rollup-plugin-minify-html-literals) - Rollup 插件，用于缩小标记模板字符串中的 HTML.
 - [rollup-plugin-postcss-lit](https://www.npmjs.com/package/rollup-plugin-postcss-lit) - Rollup 插件，用于在 Lit 组件中加载 PostCSS 处理的样式表.
 
 ### Linting

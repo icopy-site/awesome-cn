@@ -104,7 +104,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - Autoencoder
-- 生成对抗网络（GAN）
+- 生成对抗网络 (GAN)
 - 自组织地图
 
 ## COLLEGES
@@ -162,7 +162,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
-- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是一个中级/高级专业，专注于 Coursera 平台上的推荐系统.
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是 Coursera 平台上专注于推荐系统的中级/高级专业.
 
 
 ## Tutorials
@@ -187,6 +187,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
 - [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础知识；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
+- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多门免费在线数据科学课程
 
 
 ## Toolboxes - Environment
@@ -222,7 +223,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0）或简称 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
 | [Domino Data Labs](https://www.dominodatalab.com)  | 运行、扩展、共享和部署您的模型 — 无需任何基础设施或设置.  |
 | [Apache Flink](https://flink.apache.org/)  | 用于高效、分布式、通用数据处理的平台.  |
-| [Apache Hama](https://hama.apache.org/) | Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. |
+| [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您在 MapReduce 之外进行高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
 | [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.(免费 Matlab) |
 | [Apache Spark](https://spark.apache.org/)  | 闪电般的集群计算 |
@@ -236,7 +237,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
 | [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 与 Jupyter 交互环境相结合的 Julia 语言后端 |
@@ -257,7 +258,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，将 Pandas 库的功能扩展到 AWS，连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
 | [Amazon Textract](https://aws.amazon.com/textract/)  | 自动从任何文档中提取打印文本、笔迹和数据.  |
-| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检测.识别缺失的产品组件、车辆和结构损坏以及违规行为以进行全面质量控制.|
+| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规行为，以进行全面的质量控制.|
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
@@ -268,7 +269,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
 | [Shapley](https://github.com/benedekrozemberczki/shapley)  | 一种数据驱动的框架，用于量化机器学习集成中分类器的价值.  |
 | [DAGsHub](https://dagshub.com)  | 一个基于开源工具构建的平台，用于数据、模型和管道管理.  |
-| [Deepnote](https://deepnote.com)  | 一种新型的数据科学笔记本. 与 Jupyter 兼容，具有实时协作并在云中运行.  |
+| [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
 | [Valohai](https://valohai.com)  | 一个处理机器编排、自动再现性和部署的 MLOps 平台.  |
 | [PyMC3](https://docs.pymc.io/)  | 用于概率编程（贝叶斯推理和机器学习）的 Python 库 |
 | [PyStan](https://pypi.org/project/pystan/)  |  Stan 的 Python 接口（贝叶斯推理和建模）|
@@ -565,7 +566,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Meta Brown](https://www.metabrown.com/blog/) - 个人博客
 - [Data Scientist](https://datascientists.net/) is building the data scientist culture.
 - [WhatSTheBigData](https://whatsthebigdata.com/) 是上述的一些、全部或更多，这个博客探讨了它对信息技术、商业世界、政府机构和我们生活的影响.
-- [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - 大数据
+- [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - 重要通知
 - [New Data Scientist](https://newdatascientist.blogspot.com/) 社会科学家如何进入大数据世界
 - [Harvard Data Science](https://harvarddatascience.com/) - 关于统计计算与可视化的思考
 - [Data Science 101](https://ryanswanstrom.com/datascience101/) - 学习成为一名数据科学家
@@ -668,7 +669,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 工作@_GrubHub_ 关于数据和熊猫 |
 | [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD 和 SIGKDD 联合创始人，曾是 2 家初创公司的首席科学家，兼职哲学家.  |
-| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计副教授.  |
+| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计兼职教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家 |
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel 常驻数据科学家.  |
 | [Jeff Hammerbacher](https://twitter.com/hackingdata)   | 转发关于数据科学的推文 |

@@ -96,7 +96,7 @@ Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://co
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) - 一个模拟内容交付网络的浏览器扩展，以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) - Debloat 无根智能手机，以提高隐私、安全性和电池寿命.
 - [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) - 基于 HTTPS 和 Tor 的 DNS、DNSCrypt 客户端、防火墙和 Android 连接跟踪器.
-- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) - Databunker 是基于网络的、自托管的、符合 GDPR 的个人数据安全存储.
+- [Databunker](https://databunker.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/securitybunker/databunker) - Databunker 是一种基于网络的、自托管的、符合 GDPR 的个人数据安全存储.
 - [LuLu](https://objective-see.com/products/lulu.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/objective-see/LuLu) - 旨在阻止未知传出连接、保护您的隐私和 Mac 的防火墙.
 - [pihole-antitelemetry](https://github.com/MoralCode/pihole-antitelemetry) - 阻止 Google 和 Apple 使用 pihole 收集的未经同意的遥测数据.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/IngoZenz/personaldnsfilter) - 一个 DNS 过滤器代理，用于根据主机列表过滤不需要的主机.
@@ -390,6 +390,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - 保护稳定气候、能源供应和自然资源的项目.
 - [Awesome Sustainable VPS](https://codeberg.org/jonatasbaldin/awesome-sustainable-vps) - 可持续 VPS（虚拟专用服务器）提供商列表.
 - [Awesome Alternative Frontends](https://github.com/digitalblossom/alternative-frontends) - 流行服务的替代隐私尊重前端列表.
+- [Awesome Privacy](https://github.com/lissy93/awesome-privacy) - 精心挑选的尊重隐私的软件和服务列表.
 
 还可以查看这些网站，了解您现在可能正在使用的垄断、侵犯隐私的软件的绝佳替代品：
 

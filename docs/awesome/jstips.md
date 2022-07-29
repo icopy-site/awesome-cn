@@ -4,25 +4,25 @@
 
 ## JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 有用的 JavaScript 提示
+&gt; 有用的 JavaScript 技巧
 
-这是一个很棒的项目，关于简短而有用的 JavaScript 技巧，可以让您改进代码编写. 在不到 2 分钟的时间内，您将能够阅读有关性能、约定、技巧、面试问题以及这种令人敬畏的语言的未来为我们带来的所有项目.
+这是一个很棒的项目，关于简短而有用的 JavaScript 技巧，将帮助您改进代码编写. 在不到 2 分钟的时间内，您可以阅读有关性能、约定、技巧、面试问题以及这门出色语言的未来为我们提供的所有项目.
 
 经常添加提示（如果您想保持联系，请进一步阅读）.
 
 ## Support the community
 
-如果您发现 JS 提示有用或者您喜欢社区的作者，那么现在您可以通过提示表示尊重和支持！
+如果您发现 JS Tip 有用，或者如果您喜欢社区的作者，您可以通过小费表达您的支持和尊重！
 
 ### Can you help us enrich it?
 
-当然，您可以通过两种方式帮助该项目，发送您的提示或查看未来的提示.
-非常欢迎任何改进或建议！
+当然，您可以通过两种方式帮助该项目：发送提示或查看未来提示.
+任何改进或建议都非常受欢迎！
 [Instructions are here](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md).
 
 ### Let’s keep in touch
 
-获取更新的方式有很多，选择你自己
+有很多方法可以获取更新：
 
 - [Official Blog](http://www.jstips.co)
 - [Official Twitter Account](https://twitter.com/tips_js)
@@ -30,7 +30,7 @@
 - [Slackbot](https://github.com/radibit/js-tips-slack-bot)
 - [iOS App](https://goo.gl/Y9WiBc)
 
-&gt; 不要忘记为 repo 加星★，因为这有助于促进项目！
+&gt; 不要忘记 Star★ 回购，因为这有助于促进项目！
 
 ## Tips list
 
