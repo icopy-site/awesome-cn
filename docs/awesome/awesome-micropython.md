@@ -159,7 +159,7 @@
 * [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard 红外遥控嗅探和回放.
 * [micropython_ir](https://github.com/peterhinch/micropython_ir) - 非阻塞设备驱动程序从红外遥控器和红外“冲击波”应用程序接收.
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Grid-EYE 热红外阵列传感器 (Adafruit 3538) 的驱动程序.
-* [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - YS-IRTM 5V NEC 红外 UART 收发器的 MicroPython 示例.
+* [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - MicroPython examples for YS-IRTM 5V NEC Infrared UART transceivers.
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - 通过 websocket 控制 IR 信号.
 * [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython esp32 IR 收发器.
 * [pico-ir](https://github.com/bartoszadamczyk/pico-ir) - 用于 Raspberry Pi Pico 的 IR 库.
@@ -195,7 +195,7 @@
 * [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) - 使用 MicroPython 为 iTead Sonoff Switch 实现 MQTT 可控开关.
 * [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - 使用 MQTT 和在 ESP8266/ESP32 平台上运行的 MicroPython 发布和订阅 Thingspeak.
 * [uMQTT](https://github.com/andrewmk/uMQTT) - 在 WiPy 板上为 MicroPython 发布 MQTT.
-* [micropython-mqtt](https://github.com/chrismoorhouse/micropython-mqtt) - Async MQTT library with auto reconnect for MicroPython devices such as the ESP32 or Pycom devices.
+* [micropython-mqtt](https://github.com/chrismoorhouse/micropython-mqtt) - 异步 MQTT 库，可自动重新连接 MicroPython 设备，例如 ESP32 或 Pycom 设备.
 * [micropython-adafruit-mqtt-esp8266](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266)  - 使用 MQTT 发布/订阅 adafruit io.  ESP8266/ESP32 上的 MicroPython/CircuitPython 实现.
 * [MicropythonCayenneMQTTClient](https://github.com/uraich/MicropythonCayenneMQTTClient) - 将 Python Cayenne MQTT 客户端移植到 MicroPython.
 * [mqtt_upython](https://github.com/matbgn/mqtt_upython) - 在 ESP8266 上使用 MicroPython 的 MQTT 客户端.
@@ -317,7 +317,7 @@
 * [microdot](https://github.com/miguelgrinberg/microdot) - MicroPython 的小得不可思议的 Web 框架.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) - 完全异步 MicroPython Web 服务器，内存占用小.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - MicroPython 的微型 HTTP Web 客户端（用于 Pycom 模块和 ESP32）.
-* [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - MicroPython 的强制门户，包括一个哑 DNS 服务器和一个用于配置 wifi 网络的网络服务器.
+* [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - Captive portal for MicroPython including a dumb DNS server and a webserver to configure wifi networks.
 * [micropython-aioweb](https://github.com/wybiral/micropython-aioweb) - MicroPython 的极简 asyncio Web 框架.
 
 #### Zigbee
@@ -416,8 +416,8 @@
 * [micropython-ht1632c](https://github.com/vrialland/micropython-ht1632c) - HT1632C 32x16 双色 LED 矩阵驱动器.
 * [micropython-matrix8x8](https://github.com/JanBednarik/micropython-matrix8x8) - 带 HT16K33 背包的 AdaFruit 8x8 LED 矩阵显示器的驱动程序.
 * [micropython-max7219](https://github.com/mcauser/micropython-max7219) - MAX7219 8x8 LED 矩阵模块的驱动器.
-* [micropython-wemos-led-matrix-shield](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
-* [micropython-wemos-led-matrix](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Driver for Wemos D1 Mini Matrix LED shield, using TM1640 chip.
+* [micropython-wemos-led-matrix-shield](https://github.com/mactijn/micropython-wemos-led-matrix-shield) - Wemos D1 Mini Matrix LED shield 驱动，使用 TM1640 芯片.
+* [micropython-wemos-led-matrix](https://github.com/mattytrentini/micropython-wemos-led-matrix) - Wemos D1 Mini Matrix LED shield 驱动，使用 TM1640 芯片.
 * [micropython-max7219](https://github.com/vrialland/micropython-max7219) - MAX7219 8x8 LED 矩阵的 MicroPython 驱动程序.
 
 #### LED Segment
@@ -427,7 +427,7 @@
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - MAX7219 8位7段LED模块驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
 * [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
-* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动器.
+* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动程序.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动程序.
@@ -441,7 +441,7 @@
 * [Official APA102](https://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) - ESP8266 APA102/DotStar RGB LED 驱动器.
 * [Official WS2811](https://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver) - ESP8266 WS2811/NeoPixel RGB LED 驱动器.
 * [tlc5940-micropython](https://github.com/oysols/tlc5940-micropython) - TLC5940 16 通道 LED 驱动器的驱动器.
-* [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) - An efficient MicroPython WS2812 (NeoPixel) driver.
+* [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) - 高效的 MicroPython WS2812 (NeoPixel) 驱动程序.
 * [micropython-ws2801](https://github.com/HeMan/micropython-ws2801) - 与 WS2801 RGB LED 串连接的 MicroPython 库.
 * [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - TLC5947 24 通道 12 位 PWM LED 驱动器的驱动器.
 * [Hybotics_Micropython_HT16K33](https://github.com/hybotics/Hybotics_Micropython_HT16K33) - 用于 HT16K33 的 MicroPython 驱动程序、LED 矩阵、7 段数字和 14 段字母数字显示驱动器 IC.
@@ -519,7 +519,7 @@
 
 #### PWM
 
-* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - 用于控制异步循环中的 PWM 输出的 MicroPython 库，具有衰减和闪烁等功能.
+* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - 用于在异步循环中控制 PWM 输出的 MicroPython 库，具有衰减和闪烁等功能.
 
 #### Rotary Encoder
 
@@ -574,7 +574,7 @@
 * [adxl345_micropython](https://github.com/fanday/adxl345_micropython) - ADXL345 16g 3 轴加速度计的驱动程序.
 * [micropython-lis2hh12](https://github.com/tuupola/micropython-lis2hh12) - LIS2HH12 3 轴加速度计的 I2C 驱动程序.
 * [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) - MMA7660 1.5g 3 轴加速度计的驱动程序.
-* [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
+* [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自使用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
 
 #### Air Quality
 
@@ -839,7 +839,7 @@
 * [uasyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - 编写与硬件设备接口的异步代码.
 * [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - 开关、按钮、编码器和 ADC 异步接口的教程和代码.
 * [Pyboard micropower](https://github.com/peterhinch/micropython-micropower) - Pyboard 1.x 和 Pyboard D 上的低功耗应用教程和代码.
-* [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - Tutorial and code for the easy way to do 3D rotation.
+* [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - 用于进行 3D 旋转的简单方法的教程和代码.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython 和物联网.
 * [Bhavesh Kakwani](https://bhave.sh/) - 双周 MicroPython 视频 + 书面教程.
 
@@ -915,7 +915,7 @@
 * [ampy](https://github.com/scientifichackers/ampy) - MicroPython Tool - 通过串行连接与 MicroPython 板交互的实用程序.
 * [mpfshell](https://github.com/wendlers/mpfshell) - 一个用于 ESP8266 和 WiPy 的简单的基于 shell 的文件浏览器.
 * [mpsync](https://github.com/Uhlo/mpsync) - 一个小工具，可在检测到更改时将文件夹同步到 MicroPython 板.
-* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) 强大的官方shell支持挂载宿主机当前目录到目标机. 在不更改目标文件系统的情况下运行代码.
+* [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md)  - 强大的官方shell，支持将宿主机当前目录挂载到目标机上. 在不更改目标文件系统的情况下运行代码.
 
 ## Miscellaneous
 

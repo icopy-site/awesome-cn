@@ -99,11 +99,11 @@
 ### Customer experience
 
 - [Wagtail Experiments](https://github.com/torchbox/wagtail-experiments) – Wagtail 的 A/B 测试.
-- [Wagtail Personalisation](https://github.com/LabD/wagtail-personalisation) - 个性化模块，使编辑者能够根据其规则直接在管理界面中配置的段创建自定义页面或部分页面.
+- [Wagtail Personalisation](https://github.com/LabD/wagtail-personalisation) - 个性化模块，使编辑者能够根据直接在管理界面中配置规则的段创建自定义页面或部分页面.
 
 ### Security
 
-- [wagtailenforcer](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
+- [wagtailenforcer](https://github.com/springload/wagtailenforcer) - 如果您需要在 Wagtail 网站上执行安全协议，那么您来对地方了.
 - [wagtail-yubikey](https://github.com/ahopkins/wagtail-yubikey) - 在 Wagtail 管理面板上启用 YubiKey 两因素身份验证.
 - [wagtail-2fa](https://github.com/labd/wagtail-2fa) - 通过将 Wagtail 与 django-otp 集成，向 Wagtail 添加双因素身份验证.
 
@@ -118,7 +118,7 @@
 - [Wagtail SVG](https://github.com/Aleksi44/wagtailsvg) - 用于在管理员中管理 SVG 文件的 Wagtail 模块.
 - [Wagtail Makeup](https://github.com/kevinhowbrook/wagtail-makeup) - 一个插件，用 [Unsplash](https://unsplash.com/) 图片.
 - [Rent Free Media](https://github.com/RentFreeMedia/rentfreemedia)  - 基于 Django 和 Wagtail 构建的媒体分发框架. 高级/基于订阅的发布，例如 Patreon 或 Substack.
-- [Wagtail CLIP](https://github.com/MattSegal/wagtail-clip) - 使用自然语言查询搜索 Wagtail 图像内容的模块.
+- [Wagtail CLIP](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 
 ### Translations
 
@@ -189,9 +189,9 @@
 
 ### Getting started
 
-- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/)  - 一段时间以来，几乎完全将 Drupal 用作我选择的主要工具，我被要求使用 Wagtail 构建一个构建. 经过 [@kiwimind](https://twitter.com/kiwimind).
+- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/)  - 一段时间以来，我几乎只使用 Drupal 作为我选择的主要工具，我被要求使用 Wagtail 构建一个构建. 经过 [@kiwimind](https://twitter.com/kiwimind).
 - [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)  - Wagtail 是 Django 生态系统中一个相对较新的 CMS. 但是，它的年轻并不妨碍它具有我们将在本文中发现的许多功能.
-- [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - 与 Wagtail 及周边社区广泛合作，我们发现了开发人员在开始使用 Wagtail 交付时遇到的一系列常见陷阱.
+- [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - 与 Wagtail 和周边社区广泛合作，我们发现了开发人员在开始使用 Wagtail 交付时遇到的一系列常见陷阱.
 
 ### Articles
 
@@ -200,7 +200,7 @@
 - [Code blocks for Wagtail using Pygments](https://jordi.nz/code-blocks-wagtail-using-pygments/)
 - [Adding document previews to Wagtail CMS](https://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/)
 - [Wagtail Tutorials: Build Blog Step by Step](https://www.accordbox.com/blog/wagtail-tutorials/) - 教程一步一步教你如何从头开始创建标准博客.
-- [Python CMS Framework Review: Wagtail vs Django-CMS](https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/) - 谈谈 Python 世界中两个最流行的 CMS 框架 Django-CMS 和 Wagtail 之间的区别.
+- [Python CMS Framework Review: Wagtail vs Django-CMS](https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/) - 谈谈 Python 世界中最流行的两个 CMS 框架 Django-CMS 和 Wagtail 之间的区别.
 - [Deploying Wagtail In Production](https://vix.digital/insights/deploying-wagtail-production/)
 - [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
 - [Upgrading to Wagtail 2.0](https://wagtail.org/blog/upgrading-to-wagtail-2/) – Wagtail 2.0 是我们迄今为止最大的版本之一.
@@ -209,7 +209,7 @@
 - [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
 - [How to Add Buttons to ModelAdmin Index View](https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/)
 - [How to Prevent Users from Creating Pages by Type](https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/)
-- [Drupal Front End WTF, Wagtail Front End FTW](https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e) - Comparing Drupal and Wagtail Markup and approach to each CMS
+- [Drupal Front End WTF, Wagtail Front End FTW](https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e) - 比较 Drupal 和 Wagtail 标记以及每个 CMS 的方法
 - [How to Create and Manage Menus of Wagtail application](https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/)
 - [PythonEatsTail](https://pythoneatstail.com) - 完整的书面和视频教程，以创建具有多种语言、身份验证等的 Wagtail 网站
 
@@ -229,7 +229,7 @@
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) 由 Mikalai Radchuk 撰写 - 本次演讲是用俄语介绍 Wagtail.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 埃德·鲍德里.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 丹尼尔·普罗奇达.
-- [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) 罗宾·范德赖斯着.
+- [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) 由罗宾范德赖斯特.
 - [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) 埃德·鲍德里.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) 通过汤姆戴森.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) 通过伯特兰博尔达奇.
@@ -237,7 +237,7 @@
 - [Plone to Wagtail – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=2m57s) 通过科恩范德坎普.
 - [Hundreds of Wagtail in Flight – Wagtail Space 2017](https://youtu.be/hZcuq8WJVew?t=24m9s) 通过西蒙德哈恩.
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) 由凯文钟.
-- [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) 蒂博·科拉斯（Thibaud Colas）. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
+- [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) 通过蒂博尾巴. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
 - [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) 由马特韦斯科特.
 - [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) 通过丽莎亚当斯.
 - [Wagtail’s first hatch – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) 通过伯特兰博尔达奇.
@@ -269,7 +269,7 @@
 - [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) 通过科恩范德坎普.
 - [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) 杜科医生.
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) 通过克里斯亚当斯.
-- [[WIP] Wagtail（富文本）创作体验的未来 – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067)，作者 Thibaud Colas.
+- [[WIP] Wagtail 中（富文本）创作体验的未来 – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067)，作者 Thibaud Colas.
 - [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) 丽莎亚当斯和科迪罗尔夫.
 - [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) 由 Coen van der Kamp 和 Lucas Moeskops 撰写.
 - [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) 拉尔斯·范·德·克霍夫（Lars van de Kerkhof）.
@@ -283,7 +283,7 @@
 - [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) 蒂莫西·艾伦.
 - [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) 通过文斯萨尔维诺.
 - [Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019](https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4) 由扎里娜穆斯塔法.
-- [Making Wagtail Accessible – Wagtail Space US 2019](https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5) 蒂博·科拉斯（Thibaud Colas）. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).
+- [Making Wagtail Accessible – Wagtail Space US 2019](https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5) 通过蒂博尾巴. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).
 - [Everyone can fly a flag – Wagtail Space US 2019](https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6) 通过威尔巴顿. [Slides](https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit).
 - [Architecting for a multi-domain site – Wagtail Space US 2019](https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7) 通过本比彻. [Slides](https://slides.com/benbeecher/mds/).
 - [Contributions can be more than code – Wagtail Space US 2019](https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8) 由卡洛布陶林.
@@ -294,21 +294,25 @@
 ### Podcasts
 
 - [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) - 在这一集中，Tom Dyson 解释了 Wagtail 是如何被创建的，它与其他选项的区别是什么，以及你应该在什么时候为你的项目实施它.
-- [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) - 在 Wagtail 上对 Tom Dyson 的采访，Wagtail 是领先的基于 Django 的 CMS，被包括 Google、NASA 和英国 NHS 在内的数以万计的组织使用.
+- [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) - 在 Wagtail 上对 Tom Dyson 的采访，Wagtail 是领先的基于 Django 的 CMS，被包括谷歌、NASA 和英国 NHS 在内的数以万计的组织使用.
 
 ### Videos
 
 - [Learn Wagtail](https://learnwagtail.com/) - 有关 Wagtail 各个方面的定期视频教程.
 - [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - 该视频将向您展示如何使用 Wagtail CMS 创建和显示页面.
 - [Draftail extensions – custom entities tutorial](https://www.youtube.com/watch?v=nCMgoTerEb4) - 为 Draftail 进行扩展的分步教程.
-- [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) - Catherine 向您介绍了向 Wagtail 管理员添加一些有用的补充文本字段可以采取的步骤.
-- [Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail](https://www.youtube.com/watch?v=ei7ot_Wry3o) - Catherine 将向您介绍自定义富文本编辑器以控制内容编辑器可用的功能的步骤.
+- [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) - Catherine 向您介绍了向 Wagtail 管理员添加一些有用的补充文本字段时可以采取的步骤.
+- [Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail](https://www.youtube.com/watch?v=ei7ot_Wry3o) - Catherine 将向您介绍自定义富文本编辑器的步骤，以控制内容编辑器可以使用哪些功能.
 - [Wagtail Wednesdays #03 - Using tabs to create a cleaner admin interface](https://www.youtube.com/watch?v=uZc0aZrHtQw) - Chris 通过使用选项卡来组织字段与您交谈.
 - [Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections](https://www.youtube.com/watch?v=HGXHtFpLDCA) - Kieran 与您讨论将图像和文档组织成集合的过程.
 - [Wagtail Wednesdays #05 - How to organise your fields and streamline the editor experience](https://www.youtube.com/watch?v=CedcZmQ9KHs) - Chelsea 将通过组织字段的过程与您交谈，以便更轻松地管理它们并简化编辑体验.
 - [Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site](https://www.youtube.com/watch?v=KJWCGq3IRNc) - 克里斯通过设置和使用自定义站点设置与您交谈.
 - [Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide](https://www.youtube.com/watch?v=_CfU9UivYPI) - 这是一个非常有用的资源，无需任何时间即可启用，它允许您根据指南检查组件并显示所有可用的 Wagtail 图标.
 - [How to Deploy Wagtail to Google App Engine](https://www.youtube.com/watch?v=uD9PTag2-PQ) - 重点是谷歌云平台，但很好地介绍了如何让 Wagtail 在他们的 PAAS 中启动和运行.
+
+### Books
+
+- [Wagtail CMS in Action](https://www.manning.com/books/wagtail-cms-in-action) - 关于使用 Wagtail 内容管理系统创建功能强大、简单的 Web 应用程序的书籍.
 
 ### Showcases
 
@@ -338,7 +342,7 @@
 
 - [bakerydemo](https://github.com/wagtail/bakerydemo) – 下一代 Wagtail 演示，出生于雷克雅未克.
 - [wagtaildemo](https://github.com/wagtail/wagtaildemo) – 使用 Wagtail 实现的示例站点.
-- [Torchbox](https://github.com/torchbox/wagtail-torchbox) – Torchbox.com 的 Wagtail 构建.
+- [Torchbox](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
 - [Made with Wagtail](https://github.com/springload/madewithwagtail) - 展示使用 Wagtail CMS 制作的网站和应用程序.
 - [OpenCanada.org](https://github.com/OpenCanada/website) – opencanada.org 网站来源.
 - [Federal Election Commission](https://github.com/fecgov/fec-cms) – 新的联邦选举委员会网站的内容管理系统 (CMS).

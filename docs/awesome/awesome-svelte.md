@@ -76,11 +76,12 @@ _关于 Svelte 框架的研究和研究._
 
 - [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - PostCSS、SCSS、Less、Stylus、Coffeescript、TypeScript、Pug 等的预处理器.
 - [MDSveX](https://github.com/pngwn/MDsveX) - MDX 降价的预处理器.
-- [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - 用 markdown 语法编写 Svelte 组件.
+- [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
 - [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) - 预处理器更少.
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - 对模块化 CSS 的预处理器支持.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - 使用 PostCSS 预处理 Svelte 组件中的样式.
 - [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - sass 的预处理器.
+- [svelte-switch-case](https://github.com/l-portet/svelte-switch-case) - Svelte 的切换大小写语法.
 
 ### Mobile
 
@@ -98,6 +99,7 @@ _用于移动设备的 UI 框架._
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - IBM Carbon Design System 的 Svelte 实现.
 - [attractions](https://github.com/illright/attractions) - 一个非常酷和现代的 UI 套件
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - 使用超轻量级 CSS 框架 Chota 构建的组件库
+- [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte 与 Ionic 的 UI 集成，用于移动应用程序开发，包括许多初学者.
 
 ## UI Components
 
@@ -115,8 +117,9 @@ _表格和数据网格._
 _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 
 - [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - 可以在任何 JS 应用程序中使用的 Toast 通知组件.
-- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 一个自定义组件，它添加了一个图标和一个徽章，您可以使用它们来显示例如未读消息的数量等.
+- [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - 添加图标和徽章的自定义组件，可用于显示未读消息的数量等.
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - 简单优雅的吐司通知.
+- [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast)  - 受 React Hot Toast 启发，Svelte 的黄油般光滑的吐司通知. 默认情况下轻量级、可定制且美观.
 
 ### Grid
 
@@ -130,6 +133,7 @@ _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 - [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - 很棒的 SVG 图标组件，使用 Font Awesome 图标构建.
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - 图标组件.
 - [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - 图标，由 Tailwind CSS 的创建者制作.
+- [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - 它使在您的 Svelte 项目中使用 SVG 图标变得非常简单.
 
 ### Calendar
 
@@ -150,7 +154,7 @@ _让用户创建和编辑数据._
 
 #### Checkbox
 
-_Switch / on/off toggle / checkbox._
+_开关/开/关切换/复选框._
 
 - [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - 一个复选框组件（很酷的动画，可定制）.
 - [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - 带有样式的基本切换组件.
@@ -196,6 +200,7 @@ _SSR 框架._
 
 ### Animations
 
+- [AutoAnimate](https://auto-animate.formkit.com/) - 一个零配置的插入式动画实用程序，可为您的 Svelte 应用程序添加平滑过渡.
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - 适用于 Svelte 应用程序的简单且可重复使用的打字机效果.
 
 ### Form

@@ -43,7 +43,6 @@
 - [ArchLabs Linux](https://archlabslinux.com/) - 基于 Arch Linux 的发行版，以 Openbox 窗口管理器为主要桌面界面.
 - [Namib GNU/Linux](https://www.namiblinux.org/) - 基于（并兼容）Arch Linux 发行版的桌面操作系统.
 - [ArchEX](http://archex.exton.net/)  - 基于 Arch Linux 的新 (190612) Linux live DVD. 主要座右铭是 KISS（保持简单愚蠢.
-- [Arch XFerience](https://www.xferience.org/) - 基于 Arch Linux 的现代操作系统，为日常操作而构建，具有大量软件包和功能.
 - [Ctlos Linux](https://ctlos.github.io/) - 基于 Arch Linux 的发行版.
 - [MagpieOS](https://github.com/magpie-linux) - 获得 Arch 的全新体验.
 - [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) - 基于 Manjaro/Arch Linux 的发行版.
@@ -62,16 +61,14 @@
 - [LinHES](http://www.linhes.org/) - _(MythTV)_ - 尝试使 GNU/Linux 和 MythTV 的安装尽可能简单.
 - [UBOS](https://ubos.net/) - _(Server)_ - 一种 Linux 发行版，旨在大大减少设置和维护公共网络服务所需的时间.
 - [TalkingArch](https://talkingarch.tk/) - _(Assistive)_ - Arch Linux live ISO 映像的重新旋转，经过修改以包括盲人和视障用户的语音和盲文输出.
-- [Archphile](https://archphile.org/) - _(Raspberry Pi/ARM/Audio)_ - 另一个用于嵌入式板的 linux 音频发行版.
 - [BBQLinux](http://bbqlinux.org/) - _(Android Developers)_ - 为 Android 开发人员制作的用户友好的 Linux 发行版.
 它拥有构建 AOSP 或基于 AOSP 的发行版（如 LineageOS 或 OmniROM）的一切.
 - [RaspArch](https://sourceforge.net/projects/rasparch/) - _(Raspberry Pi/ARM)_ - Arch Linux ARM 的“重制版”.
 
 ## Pacman-based Linux distros
 
- > Linux distributions that use `pacman` as a package manager.
+ &gt; 使用 `pacman` 作为包管理器的 Linux 发行版.
 
-- [Chakra GNU/Linux](https://www.chakralinux.org/) - 一个用户友好且功能强大的发行版和 Live CD，最初来自 Arch Linux.
 - [KaOS](https://kaosx.us/) - KaOS 是一个专注于 Qt 和 KDE 的独立发行版.
 
 ## SystemD-free Arch-based distros
@@ -80,7 +77,7 @@
 
 - [Obarun](https://web.obarun.org/) - 基于 Arch Linux 的发行版，以 S6 init 软件代替 systemd.
 - [Artix Linux](https://artixlinux.org/) - Arch-OpenRC 和 Manjaro-OpenRC 项目的分支（或作为自治项目的延续）.
-- [Hyperbola GNU/Linux-libre](https://www.hyperbola.info/) - 社区推动的努力，旨在提供一个完全免费（如自由）的操作系统，该操作系统稳定、安全、简单、轻量级，并试图保持简单愚蠢（KISS）和长期支持（LTS）.
+- [Hyperbola GNU/Linux-libre](https://www.hyperbola.info/) - 社区驱动的努力，旨在提供一个完全免费（如自由）的操作系统，该操作系统稳定、安全、简单、轻量级，并试图保持简单愚蠢（KISS）和长期支持（LTS）.
 - [Parabola GNU/Linux-libre](https://www.parabola.nu/) - Arch Linux 的非官方“自由”变体.
 - [Alfheim Linux](https://alfheimlinux.wixsite.com/alfheimlinux) - Systemd 免费的基于 Arch 的 Linux.
 
@@ -153,8 +150,16 @@
 - [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) - 点文件生成器，允许在多个操作系统中快速配置不同的窗口管理器和工具，包括任何基于 Arch Linux 的发行版.
 - [Termux Arch](https://termuxarch.github.io/TermuxArch/) - 使用 Termux 在您的手机上运行 Arch Linux ARM.
 - [archlinux/base](https://hub.docker.com/r/archlinux/base/) - 基于 Arch Linux 的 docker 镜像.
-- [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - 基于 Arch Linux 的 Amazon EC2 AMI
+- [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
 - [JuNest](https://github.com/fsquillace/junest) - 基于 Arch Linux 的轻量级发行版，无需 root 权限即可在任何 Linux 发行版上运行.
+
+## Inactive projects
+
+&gt; 属于列表的一部分但已停产或长时间未收到更新的项目.
+
+ - **Arch XFerience** - 基于 Arch Linux 的现代操作系统，专为具有大量软件包和功能的日常操作而构建.  （非活动）
+ - **Chakra GNU/Linux** - 一个用户友好且功能强大的发行版和 Live CD，最初来自 Arch Linux.  ([discontinued](https://twitter.com/chakralinux/status/1475111596640727045))
+ - **Archphile** - _(Raspberry Pi/ARM/Audio)_ - 另一个用于嵌入式板的 linux 音频发行版.  （非活动）
 
 ## Contribute
 
@@ -162,13 +167,13 @@
 
 您也可以通过小额捐款为列表的维护做出贡献（psst，给我买杯咖啡...☕️）：
 
-<noscript><a href="https://liberapay.com/PandaFoss/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K179HAS)
 
-我需要你的支持！  ❤️
+I need your support! ❤️
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+感谢这些了不起的人（[emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
