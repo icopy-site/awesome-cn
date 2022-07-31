@@ -98,6 +98,7 @@ EOSIO 学习资源.
   - [eosrio/simpleos](https://github.com/eosrio/simpleos) - 官方 GitHub.
 - [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
 - [eoscanada/eosc](https://github.com/eoscanada/eosc)
+- [Wax Cloud Wallet](https://all-access.wax.io/)
 
 #### Mobile
 
@@ -113,7 +114,7 @@ EOSIO 学习资源.
 ### Block explorers, Voting portals
 
 - [EOS Network Monitor](http://eosnetworkmonitor.io/)  - “CryptoLions”的 EOSIO 网络监视器. 对开发人员有用. 分散友好.
-- [eosflare](https://eosflare.io/) - 流行的区块浏览器包括资源统计、最新的个人资料操作和关于“热门竞标”和“热门投票者”的统计.
+- [eosflare](https://eosflare.io/) - 流行的区块浏览器包括资源统计、最新的配置文件操作以及关于“热门竞标”和“热门投票者”的统计.
 - [EOS Tracker](https://eostracker.io/) - 开源区块浏览器包括生产者信息和账户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - 官方 GitHub.
 - [Bloks](https://bloks.io/)  - 快速区块浏览器，可用于投票. 包括有关区块生产者和代币的信息.
@@ -144,7 +145,7 @@ EOSIO 学习资源.
 
 ### Environment
 
-- [EOS Studio](https://www.eosstudio.io/) - 用于 EOSIO 开发的图形 IDE.
+- [EOS Studio](https://www.eosstudio.io/) - 用于 EOSIO 开发的图形 IDE
 - [EOSIO Web IDE](https://github.com/EOSIO/eosio-web-ide) - Web IDE 为开发者提供个人单节点 EOSIO 区块链，用于开发和测试目的，运行在 [Gitpod.io](https://www.gitpod.io/) 云 – 并可从您的网络浏览器访问.
 - [Helm charts for EOSIO](https://github.com/EOSIO/eosio.helm) - EOSIO Nodeos Helm 图表.
 
@@ -153,6 +154,8 @@ EOSIO 学习资源.
 - [The EOSIO Testnet](https://testnet.eos.io/)  - Block.one 的官方 EOSIO 测试网. 测试功能齐全的 EOSIO 稳定版本.
 - [Jungle Testnet](https://jungletestnet.io/) - Jungle TestNet 由 EOSIO 诞生以来由许多开发团队和 EOS 区块生产者发起并作为沙箱服务.
 - [CryptoKylin Testnet](https://www.cryptokylin.io/) - CryptoKylin 测试网是由一组 EOS 主网区块生产者维护的对开发人员友好的测试网.
+- [Wax Testnet](https://wax-testnet.eosio.online/) - Wax 的官方测试网. 
+  - [Account Creation and Faucet](https://waxsweden.org/testnet/) - 蜡瑞典的测试网页面.
 
 ### Libraries and Frameworks
 
@@ -196,6 +199,7 @@ EOSIO 学习资源.
 - [greymass/anchor-link](https://github.com/greymass/anchor-link) - 建立在 EOSIO 签名请求 (EEP-7) 之上的 EOSIO 链的持久、快速和安全的签名提供程序.
 - [greymass/eosio-signing-request](https://github.com/greymass/eosio-signing-request) - 帮助创建和消化 EOSIO 签名请求 (ESR) 的库.
 - [greymass/eosio-signing-request-java](https://github.com/greymass/eosio-signing-request-java) - EOSIO 签名请求协议的 Java 包装器.
+- [eosdac/ual-wax](https://github.com/eosdac/ual-wax) - 蜡云钱包的 UAL 身份验证器.
 
 #### History
 
@@ -216,7 +220,7 @@ EOSIO 学习资源.
 #### Services
 - [Demux](https://github.com/EOSIO/demux-js) - Demux 是一种后端基础架构模式，用于获取区块链事件以确定性地更新可查询的数据存储并触发副作用.
 - [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - 文章.
-- [Liquid Apps](https://docs.liquidapps.io) - 智能合约服务 vRAM、oracles、cron、IPFS 和 ICB.
+- [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
 - [WAX Random Number Generator](https://developer.wax.io/es/tutorials/wax-rng)
 - [DelphiOracle](https://github.com/eostitan/delphioracle) - 多方信息来源，旨在向其他智能合约或外部用户提供资产对的近实时价格.
 
@@ -241,7 +245,7 @@ EOSIO 学习资源.
 - [EOSIO/eosio.contracts](https://github.com/EOSIO/eosio.contracts) - 提供 EOSIO 区块链的一些基本功能的智能合约.
 - [Eosfinex Custody Smart Contract](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex 交易所智能合约.
   - [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - 文章.
-- [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
+- [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) - 使用 EOSIO SDK for Java 演示与基于 EOSIO 的区块链集成的应用程序.
 - [poorman.token](https://github.com/generEOS/poorman.token) - 带有刻录和注册的 EOSIO 代币（用于使代币 RAM 便宜）.
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) - 一组使用 eosjs 和 Scatter 的集成演示.
 - [ping-eos](https://github.com/eosasia/ping-eos) - 在 EOSIO / React.js 之间实现 ping.

@@ -72,7 +72,7 @@ document**.
 补充文件和工具.
 
 - [Cicero](https://cicero.xyz/) - 呈现 HTML 演示文稿的 Python 包
-  from Markdown source using remark or reveal.js :link:.
+  来自 Markdown 源，使用 remark 或reveal.js :link:.
 - [docutils](https://docutils.sourceforge.io/docs/) - Python包可以
   将 reStructuredText 转换为各种格式并提供命令行
   执行此操作的工具：链接：.
@@ -89,24 +89,25 @@ document**.
   - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - 在 Pandoc 上的 Python 包装器，带有专门的扩展来解析某些
     元素，使其成为 Pandoc Markdown 风格的超集：书签：
     ：关联：.
-  - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - 列表
+  - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - 清单
     pandoc 的插件，实现了额外的功能，如引用和
     交叉引用.
   - [Panflute](http://scorreia.com/software/panflute/) - Pythonic 替代方案
     到 John MacFarlane 的 pandocfilters.
+- [Quarto](https://quarto.org)  - 将 R Markdown 和 Jupyter Notebooks 编译为 PDF、幻灯片和网站. 支持 R、Python 和 Julia :bookmark: :link:.
 
 ## Spell Checking and Linting
 
 - [GNU Aspell](http://aspell.net/) - 命令行拼写检查器.
 - [Hunspell](http://hunspell.github.io/) - 命令行拼写检查器.
 - [LanguageTool](https://languagetool.org/) - 开源语法、风格和
- 拼写检查程序.
+ 拼写检查器.
 - [Markdown lint tool](https://github.com/markdownlint/markdownlint) - 降价短绒.
-- [proselint](http://proselint.com/) - 散文的 Linter.
+- [proselint](http://proselint.com/) - 散文的短绒.
 - [remarklint](https://github.com/remarkjs/remark-lint) - 降价短绒.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
 - [textlint](https://textlint.github.io/) - 用于文本的可插拔 linting 工具
- 和降价.
+ and Markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - 拼写、语法和
  LaTeX 文档的样式检查.
 - [Vale](https://github.com/errata-ai/vale) - 免费的开源 linter
@@ -152,12 +153,14 @@ document**.
 
 如何为科学目的生成文章和演示文稿.
 
-- [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - 这
+- [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/) - 文章概述了结合 R Markdown（bookdown）、Zotero（文献管理）和 Notion（记录研究论文）来撰写学术论文的工作流程. 
+- [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - 这个
    示例使用自定义的 `nbconvert` 模板并展示如何存储您
    自动执行时没有输出的笔记本（用于版本控制）
    它们在运行 `bookbook` 之前，以便 PDF 和 HTML 版本包含
    输出.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - 使用 Pandoc 和 Markdown 的纯文本可持续作者.
+- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/)  - 总结了 Quarto 的功能，为什么要使用它，以及它与 R Markdown 的比较. 还包含 M1 Mac 用户关于如何解决网状常见问题的提示.
 - [Katrin Leinweber 博士
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    涉及多种工具的工作流程，但主要是 Pandoc、`latexmk` 和
