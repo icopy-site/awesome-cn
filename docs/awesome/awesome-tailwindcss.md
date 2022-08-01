@@ -74,7 +74,7 @@
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - 添加“图像渲染”实用程序.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) - 添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 公用事业.
 - [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - 添加“写作模式”实用程序.
-- [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - 添加“连字符”实用程序.
+- [Hyphens](https://github.com/vivgui/tailwindcss-hyphens) - 添加“连字符”实用程序.
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) - 添加 `border-image` 渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) - 添加 [`RFS`](https://github.com/twbs/rfs) 公用事业.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - Adds back the `list-reset` class that was removed prior to Tailwind CSS 1.0.
@@ -99,7 +99,7 @@
 - [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
 - [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - 添加 `grid-areas` 和 `grid-area` 实用程序.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
-- [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以便仅对某些语言使用实用程序.
+- [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅对某些语言使用实用程序.
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加匹配嵌套边界半径的变体.
 - [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 - [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 为样式列表和`提供实用程序<summary> ` 标记.
