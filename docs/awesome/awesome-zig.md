@@ -98,7 +98,7 @@
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - 用于使用 Nintendo DS rom 的库.
 * [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - 简单而强大的数独求解器.
 * [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - 使用 Zig 创建 Game Boy Advance 游戏的 SDK.
-* [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - 用于编程跨平台游戏、模拟、引擎和编辑器的模块 Monorepo.
+* [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - 用于跨平台游戏、模拟、引擎和编辑器编程的模块 Monorepo.
 
 
 ## Games
@@ -113,6 +113,7 @@
 
 
 ## GUI
+* [capy-ui/capy](https://github.com/capy-ui/capy) - 用于制作真正的原生 GUI 的跨平台库.
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - Zig 的独立 SDL2 包.
 * [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan 绑定生成器.
 * [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - 使用 Vulkan 和 GLFW 的玩具渲染器.

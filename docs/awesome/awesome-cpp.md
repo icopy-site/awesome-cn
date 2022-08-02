@@ -5,7 +5,7 @@
 
 
 ## Standard Libraries
-*C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
+*C++ 标准库 - 包括 STL 容器、STL 算法、STL 函数式等*
 
 * [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - 类和函数的集合，它们是用核心语言编写的，也是 C++ ISO 标准本身的一部分.
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - 标准模板库 (STL).
@@ -78,7 +78,7 @@
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)  - C++ 中 Actor 模型的开源实现.  [BSD-3-条款] [website](http://actor-framework.org/)
 * [Ichor](https://github.com/volt-software/ichor)  - 一个专注于线程安全并提供依赖注入的事件队列.  [麻省理工学院]
 * [libev](http://libev.schmorp.de/)  - 一个全功能和高性能的事件循环，它在 libevent 之后松散地建模，但没有它的限制和错误.  [BSD 和 GPL]
-* [libevent](http://libevent.org/)  - 一个事件通知库.  [BSD]
+* [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libhv](https://github.com/ithewei/libhv) - Cross-platform event loop library. [BSD]
 * [libuv](https://github.com/libuv/libuv)  - 跨平台异步 I/O.  [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp)  - 实现 Promise/A+ 标准的仅标头库.  【反996】
@@ -483,7 +483,7 @@
 * [OpenEXR](http://www.openexr.com/)  - 用于高动态范围成像的跨平台库.  [修改后的 BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)  - 强大的图像和纹理处理库，支持多种常见的有损和 RAW 格式.  [修改后的 BSD]
 * [SAIL](https://github.com/happy-sea-fox/sail)  - 易于使用的跨平台图像解码库，带有可插拔的图像编解码器.  [麻省理工学院]
-* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)、NEON for ARM.  [麻省理工学院]
+* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)，用于 ARM 的 NEON.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  - STB 单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  - OCR 引擎.  [阿帕奇2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)  - 适用于 JPEG 的符合 ISO 标准的微型 C++ EXIF 和 XMP 解析库.  [麻省理工学院]
@@ -560,13 +560,13 @@
 * [G3log](https://github.com/KjellKod/g3log)  - 带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) - 谷歌日志模块的 C++ 实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)  - 用于灵活记录到文件、系统日志、IDSA 和其他目标的 C++ 类库.  [LGPL]
-* [log4cplus](https://github.com/log4cplus/log4cplus)  - 一个简单易用的 C++ 日志 API，提供线程安全、灵活和任意粒度的日志管理和配置控制.  [BSD 和 Apache2]
+* [log4cplus](https://github.com/log4cplus/log4cplus)  - 一个简单易用的 C++ 日志 API，提供对日志管理和配置的线程安全、灵活和任意粒度的控制.  [BSD 和 Apache2]
 * [loguru](https://github.com/emilk/loguru)  - 轻量级 C++ 日志库.  [公共区域]
 * [plog](https://github.com/SergiusTheBest/plog)  - 少于 1000 行代码的便携式和简单的 C++ 日志.  [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)  - 用于 C++ 的低延迟、高吞吐量、异步日志库.  [麻省理工学院]
 * [spdlog](https://github.com/gabime/spdlog) - 超快，仅标头，C++ 日志库.
 * [templog](http://www.templog.org/)  - 一个非常小且轻量级的 C++ 库，可用于将日志记录添加到 C++ 应用程序.  [促进]
-* [P7Baical](http://baical.net/p7.html)  - 一个开源和跨平台的库，用于高速发送遥测和跟踪数据，同时占用最少的 CPU 和内存.  [LGPL]
+* [P7Baical](http://baical.net/p7.html)  - 一个开源和跨平台库，用于高速发送遥测和跟踪数据，CPU 和内存使用最少.  [LGPL]
 * [Quill](https://github.com/odygrd/quill)  - 异步跨平台低延迟日志库.  [麻省理工学院]
 
 ## Machine Learning
@@ -599,7 +599,7 @@
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code)  - 用于线性代数和科学计算的快速 C++ 库.  [阿帕奇2] [website](http://arma.sourceforge.net/)
 * [autodiff](https://github.com/autodiff/autodiff)  - 用于自动区分的现代、快速和富有表现力的 C++ 库.  [麻省理工学院] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze)  - 用于密集和稀疏算术的高性能 C++ 数学库.  [BSD]
-* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  - 在 C++ 中提供更高范围/精度的整数、有理数和浮点类型、仅标头或带有 GMP/MPFR/LibTomMath 后端.  [促进]
+* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  - 在 C++ 中提供更高范围/精度的整数、有理数和浮点类型，仅标头或带有 GMP/MPFR/LibTomMath 后端.  [促进]
 * [ceres-solver](http://ceres-solver.org/)  - 用于建模和解决来自谷歌的大型复杂非线性最小二乘问题的 C++ 库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)  - 收集高效可靠的几何算法.  [LGPL&amp;GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)  - 用于游戏和图形的免费 C++ 数学库.  [促进]
@@ -903,6 +903,7 @@
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  - 托管信号和时隙系统的实现.  [促进]
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  - 受 Python 内置函数和 itertools 库启发的基于范围的 for 循环插件.  [BSD-2-条款]
+* [D++ (DPP)](https://github.com/brainboxdotcc/DPP)  - 用于创建 Discord Bot 的轻量级、高性能和可扩展的 C++ 库.  [阿帕奇2] [website](https://dpp.dev)
 * [DynaMix](https://github.com/iboB/dynamix)  - 允许您在运行时组合和修改对象的库.  [麻省理工学院]
 * [fccf](https://github.com/p-ranav/fccf)  - 递归搜索目录以查找与搜索字符串匹配的 C/C++ 源代码的命令行工具.  [麻省理工学院]
 * [{fmt}](https://github.com/fmtlib/fmt)  :zap: - 小型、安全和快速的 C++ 格式化库.  [简化 BSD]

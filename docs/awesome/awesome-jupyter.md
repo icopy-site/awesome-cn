@@ -26,7 +26,7 @@
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab 是 Jupyter 的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 映像.
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 包含 Jupyter(Lab) 和用于数据科学/机器学习的各种软件包的 Docker 映像.
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker 映像，包括 Jupyter(Lab) 和用于数据科学/机器学习的各种软件包.
 - [nteract](https://github.com/nteract/nteract) - 本机桌面笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) - 本机桌面笔记本前端.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - 本机桌面笔记本前端.
@@ -83,7 +83,7 @@
 
 ## Rendering/Publishing/Conversion
 
-- [Binder](http://mybinder.org) - 将 GitHub 存储库变成交互式笔记本的集合.
+- [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展可在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本、编辑和执行笔记本，并通过 REST 接口直接集成它们.
@@ -146,7 +146,7 @@
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) - 通过输入部分名称在 JupyterLab 中快速打开文件.
 - [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - 管理键盘快捷键的扩展.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - JupyterLab 的边车输出小部件.
-- [sql](https://github.com/pbugnion/jupyterlab-sql) - JupyterLab 的 SQL GUI.
+- [sql](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
 - [stickyland](https://github.com/xiaohk/stickyland) - 打破带有粘性单元格的笔记本的线性呈现.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - 扩展以显示系统指标.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI 自动完成器扩展.
@@ -159,7 +159,7 @@
 
 ## Testing
 
-- [ipytest](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+- [ipytest](https://github.com/chmp/ipytest) - 用于在笔记本中运行单元测试的测试运行器.
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - 在 Jupyter 中对笔记本进行逐个单元测试.
 - [nbval](https://github.com/computationalmodelling/nbval) - 用于验证 Jupyter 笔记本的 Py.test 插件.
 - [nosebook](https://github.com/bollwyvl/nosebook) - 用于查找和运行 IPython 笔记本作为鼻子测试的鼻子插件.
@@ -185,18 +185,15 @@
 - [CoCalc](https://cocalc.com) - 支持 17 种内核类型的笔记本、课程管理、LaTeX 文档创作、同步文档编辑以及与 SageMath 计算机代数系统的集成.
 - [DataBlogs](https://www.datablogs.co/) - DataBlogs 是一个开源数据新闻平台，可将 Jupyter 笔记本转换为网络上发表的文章.
 - [DataCamp Workspace](https://www.datacamp.com/workspace) - 具有内置协作和发布功能的 Jupyter 支持的数据科学笔记本.
-- [DataScience.com](https://www.datascience.com) - 企业数据科学平台.
 - [Deepnote](https://www.deepnote.com) - 与 Jupyter 兼容的数据科学笔记本，具有实时协作、版本控制和轻松部署功能.
 - [Domino Data Lab](https://www.dominodatalab.com) - 具有集成协作工具、环境管理和计算网格的数据科学平台.
 - [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - 托管 JupyterLab 笔记本实例，在 Google Cloud Platform 上配置了支持 GPU 的机器学习框架.
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - 使用 Google Cloud Dataproc 的 Apache Spark 的 Jupyter 和 JupyterLab.
-- [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.
-- [Gryd](https://gryd.us) - 简单、托管、即用型、基于云的 Jupyter 笔记本，支持多种语言.<!--lint disable double-link-->
+- [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.<!--lint disable double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.<!--lint enable double-link-->
 - [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
-- [RMOTR Notebooks](https://notebooks.rmotr.com) - 云中基于 JupyterLab 的数据科学环境.
 - [Spell.run](https://spell.run) - 机器学习和深度学习的端到端平台.
 
 
@@ -213,7 +210,7 @@
 - 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
-- Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
+- 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用 Jupyter 的大学机构地图.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - 派皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)

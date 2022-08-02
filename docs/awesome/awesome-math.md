@@ -23,7 +23,7 @@
 * [Mathigon](https://mathigon.org/)
 * [Calculus.org](http://calculus.org/)
 * [Ximera](https://ximera.osu.edu/) : 免费互动数学教科书（俄亥俄州立大学）
-* [Dzdx.xyz](https://www.dzdx.xyz/)
+* [MathRelay](https://www.mathrelay.com/)
 * [Almost Fun](https://www.almostfun.org/lessons/)
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 
@@ -103,7 +103,7 @@
 * [ILoveMaths](http://ilovemaths.com/) - 适用于 K-12 系统中的 6 至 12 年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
 * [Mathsisfun](https://www.mathsisfun.com) 适合高中学生的简单文本轻量级网站
-* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（马歇尔大学数学教授，美国亨廷顿）
+* [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（美国亨廷顿马歇尔大学数学教授）
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
@@ -151,13 +151,13 @@
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - 托马斯·施特赖歇尔
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) ——哈罗德·西蒙斯
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey（卡内基梅隆大学）
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. 职责
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. 位置
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) ——迈克尔·巴尔，查尔斯·威尔斯
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) ——迈克尔·巴尔，查尔斯·威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - 彼得弗雷德
 * [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) - PJ希金斯
 * [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - 通用汽车凯利
-* [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - 吉里·阿达梅克、霍斯特·赫利希、乔治·斯特雷克
+* [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - 吉里·阿达梅克、霍斯特·赫尔利希、乔治·斯崔彻
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong 和 David I. Spivak（麻省理工学院）
 * [Category Theory in Context](http://www.math.jhu.edu/~eriehl/context/) - Emily Riehl（约翰霍普金斯大学）  
 
@@ -243,7 +243,7 @@
 * [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - 胡安·克洛珀
 * [Elementary Linear Algebra](http://www.numbertheory.org/book/) - 基思马修斯
 * [A First Courses in Linear Algebra](http://linear.ups.edu/) - 罗布·布雷泽
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) ——大卫·切尔尼、汤姆·丹顿、安德鲁·沃尔德伦
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/) ——大卫·切尔尼、汤姆·丹顿、安德鲁·沃尔德隆
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - Ray M Bowen, CC 王
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - Ray M Bowen, CC 王
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) - Stephen Boyd（斯坦福大学）、Lieven Vandenberghe（加州大学洛杉矶分校）
@@ -404,7 +404,7 @@
 * [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - 陶伦斯（加州大学洛杉矶分校）
 * [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/~cannarsa/cam_0607.pdf) - P. Cannarsa，T. D&#39;Aprile
 * [Lecture Notes in Measure Theory](http://www.math.chalmers.se/~borell/MeasureTheory.pdf) - 克里斯特·博雷尔
-* [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) ——史蒂夫·程
+* [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
 * [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf) - John K. Hunter（加州大学戴维斯分校）
 * [Measure and Integration](https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf) - Dietmar A. Salamon（苏黎世联邦理工学院）
 * [Lecture notes: Measure Theory](http://www.math.ucsd.edu/~bdriver/240-00-01/Lecture_Notes/measurep.pdf) - 布鲁斯 K. 司机
@@ -413,9 +413,9 @@
 
 * [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - 丹斯劳特
 * [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
-* [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - 欧根·J·约纳斯库
+* [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - 尤金·J·约纳斯库
 * [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) ——彼得·菲利普
-* [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - 加布里埃尔大帝
+* [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - 加布里埃尔纳吉
 * [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) ——杰拉尔德·特希尔
 * [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - 鲍勃·特雷尔
 * [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) - 威廉·F·特伦奇
@@ -438,7 +438,7 @@
 * [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 * [A Short Introduction to Probability](http://www.maths.uq.edu.au/~kroese/asitp.pdf) - Dirk P. Kroese（昆士兰大学）
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) - 里克·杜雷特
-* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - 马蒂亚斯瓦伦丁（加州大学伯克利分校）
+* [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - 马蒂亚斯·瓦伦丁（加州大学伯克利分校）
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - 威廉陈
 * [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
@@ -476,7 +476,7 @@
 * [Probability and Stochastic Processes with Applications](http://www.math.harvard.edu/~knill/teaching/math144_1994/probability.pdf) - Oliver Knill（哈佛大学）
 * [Stochastic Processes](http://statweb.stanford.edu/~adembo/math-136/nnotes.pdf) - Amir Dembo（斯坦福大学）
 * [Lecture Notes on Stochastic Processes](http://www.mi.fu-berlin.de/wiki/pub/CompMolBio/MarkovKetten15/stochastic_processes_2011.pdf) - Frank Noé、Bettina Keller 和 Jan-Hendrik Prinz（柏林自由大学）
-* [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Zitkovic（德克萨斯大学）
+* [Introduction to Stochastic Processes - Lecture Notes](https://www.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) - Gordan Žitković（德克萨斯大学）
 * [Applied Stochastic Processes in science and engineering](https://www.math.uwaterloo.ca/~mscott/Little_Notes.pdf) - 马特斯科特（滑铁卢大学）
 * [An Introduction to Stochastic Processes in Continuous Time](http://www.math.leidenuniv.nl/~spieksma/colleges/sp-master/sp-hvz1.pdf) - Flora Spieksma（莱顿大学）
 * [Markov Chains and Mixing Times](http://pages.uoregon.edu/dlevin/MARKOV/markovmixing.pdf) ——大卫·A·莱文、尤瓦尔·佩雷斯、伊丽莎白·L·威尔默

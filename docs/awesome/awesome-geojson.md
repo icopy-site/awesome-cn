@@ -46,6 +46,7 @@ GeoJSON 实用程序，让您的生活更轻松.
 * [geojson2image](https://github.com/brycejohnston/geojson2image)：用于从 GeoJSON 生成图像的库
 * [dropchop](http://dropchop.io/): 基于 Turf.js 的基于浏览器的 GIS
 * [Web GIS](https://drewweth.github.io/geodebugger)：查看、检查和操作地理空间数据的工具
+* [img2geojson](https://caseymm.github.io/img2geojson/)：通过覆盖网络地图和绘图来数字化图像
 
 ### validation
 
@@ -89,13 +90,13 @@ GeoJSON 实用程序，让您的生活更轻松.
   * [geojson-svgify](https://github.com/juliuste/geojson-svgify)：将 GeoJSON 几何路径转换为 ​​SVG 折线元素.
   * [geojson-to-svg-cli](https://github.com/derhuerst/geojson-to-svg-cli): 将 GeoJSON 转换为 SVG 的命令行工具.
   * [svg-to-geojson](https://github.com/mapbox/svg-to-geojson)：将 SVG 拖放到地图上，它会将 GeoJSON 返回给您.
-* [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): 将 GeoJSON 转换为/从换行符分隔的 GeoJSON
+* [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 * [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): 将 GeoJSON 转换为/从 GeoBuf
 * **开放街图**
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): 将 OpenStreetMap 数据转换为 GeoJSON
   * [osm2geojson](https://github.com/rclark/osm2geojson): 将 OSM XML 转换为 GeoJSON
   * [osm2geojson](https://github.com/aspectumapp/osm2geojson): (Python) 将 OSM XML 和 Overpass XML/JSON 转换为 GeoJSON
-  * [minjur](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
+  * [minjur](https://github.com/mapbox/minjur)：将 OpenStreetMap 数据转换为 GeoJSON 比其他任何东西都快
   * [geojsontoosm](https://github.com/tyrasd/geojsontoosm): 将 GeoJSON 转换为 OSM XML
   * [geojson2osm](https://github.com/Rub21/geojson2osm): 将 GeoJSON 转换为 OSM XML
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): 将 GeoJSON 转换为 OSM XML 和 OSM XML 转换为 GeoJSON
@@ -142,4 +143,4 @@ GeoJSON 实用程序，让您的生活更轻松.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
 
-在法律允许的范围内， [Tom MacWright](http://www.macwright.org) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Tom MacWright](http://www.macwright.org) 已放弃本作品的所有版权和相关或邻近权利.

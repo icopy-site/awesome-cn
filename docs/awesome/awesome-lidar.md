@@ -86,6 +86,10 @@
   - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 - [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/)  - 在 1.5 年内每周在悉尼大学校园及周边地区收集的长期、大规模数据集. 它包括多种传感器模式并涵盖各种环境条件. 兼容 ROS
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
+- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - 捷克布尔诺自动驾驶汽车和自主机器人的导航和定位数据集.
+  - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
+
 
 ## Libraries
 

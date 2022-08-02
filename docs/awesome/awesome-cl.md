@@ -329,7 +329,7 @@ GUI
   * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - 为 tkdocs 教程提供 LTk 示例.
   * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/)  - 围绕 tklib/plotchart 库的包装器，可与 LTk 一起使用. 这包括 20 多种不同的图表类型（xy 图、甘特图、3d 条形图等）.
   * [nodgui](https://notabug.org/cage/nodgui)  - Tk 工具包的绑定，基于 Ltk，带有语法糖和其他小部件.  [LLGPL][8].
-* [IUP](https://github.com/lispnik/iup/) - CFFI 绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA 之前）.  IUP 是跨平台的（Windows、macOS、GNU/Linux，带有新的 Android、iOs、Cocoa 和 Web Assembly 驱动程序），有许多小部件，有一个小的 api 并且正在积极开发.
+* [IUP](https://github.com/lispnik/iup/) - CFFI 绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA 之前）.  IUP 是跨平台的（Windows、macOS、GNU/Linux，带有新的 Android、iOs、Cocoa 和 Web Assembly 驱动程序），有许多小部件，有一个小的 api，并且正在积极开发.
 * [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk)  - 绑定 GTK+3.  [GNU LGPL2.1][11].
   - 一个教程： [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)  - GTK+2 的绑定.  [LLGPL][8].
@@ -460,7 +460,7 @@ CLOS 扩展
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  - 允许静态（在编译时）而不是动态（运行时）执行标准通用函数调度. 这类似于 C++ 和 Java 等语言中所谓的“重载”.  [麻省理工学院][200].
 * [dynamic-mixins](https://github.com/rpav/dynamic-mixins)  - 简单、动态的类组合.  [BSD_2 条款][17].
 * [fast-generic-functions](https://github.com/marcoheisig/fast-generic-functions)  - 密封您的通用功能以进一步提高性能.  [麻省理工学院][200].
-* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 一种函数类型，用于分派类型而不是类，部分支持分派可选和关键字参数类型. 仍处于试验阶段（2021 年 5 月）.  [麻省理工学院][200].
+* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 一种在类型而不是类上分派的函数类型，部分支持在可选和关键字参数类型上分派. 仍处于试验阶段（2021 年 5 月）.  [麻省理工学院][200].
    - 多态函数对提供给它的参数类型进行调度. 这有助于分派专门的数组以及用户定义的类型.
   - 有关专业化存储和快速通用功能的差异，请参阅其自述文件.
 
@@ -786,7 +786,7 @@ URI 处理
 * [quri](https://github.com/fukamachi/quri) - 另一个 URI 库
   常见的 Lisp. 支持用户信息、IPv6 主机名、编码/解码
   utilities,… [BSD_3Clause][15].
-* [cl-slug](https://github.com/EuAndreh/cl-slug)  - 一个用于制作 slug 的小型库，主要用于 URI，在 CamelCase 中转换，删除重音和标点符号，适用于英语及其他语言.  [LLGPL][8].
+* [cl-slug](https://github.com/EuAndreh/cl-slug)  - 一个用于制作 slug 的小型库，主要用于 URI，在 CamelCase 中进行转换，删除重音和标点符号，适用于英语及其他语言.  [LLGPL][8].
 
 Javascript
 ----------
@@ -933,6 +933,7 @@ Others
 * [numcl](https://github.com/numcl/numcl)  - Common Lisp 中的 Numpy 克隆.  [LGPL3][9].
 * [GSLL](https://common-lisp.net/project/gsll/)  - 用于 Lisp 的 GNU 科学图书馆； 允许使用来自 Common Lisp 的 GSL.  [GNU LGPL2.1][11].
 * [maxima](http://maxima.sourceforge.net/)  - 计算机代数系统. 在 Quicklisp 上不可用.  [GNU GPL3][2].
+  * 还 [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), 用 ECL 构建.
 * [Xecto](https://github.com/pkhuong/Xecto)  - 用于常规阵列并行性的库.  [3 条款 BSD][15].
 * [Petalisp](https://github.com/marcoheisig/Petalisp) - 尝试
   通过以下方式为并行计算机生成高性能代码
@@ -1097,7 +1098,7 @@ Readline、ncurses 和其他图形助手
 系统管理
 ---------------------
 
-* [Consfigurator](https://spwhitton.name/tech/code/consfigurator/)  - Lisp 声明式配置管理系统. 您可以使用它来将主机配置为 root、将服务部署为非特权用户、构建和部署容器以及生成磁盘映像.  [GPL3][2].
+* [Consfigurator](https://spwhitton.name/tech/code/consfigurator/)  - Lisp 声明式配置管理系统. 您可以使用它来将主机配置为 root、以非特权用户身份部署服务、构建和部署容器以及生成磁盘映像.  [GPL3][2].
 * [Adams](https://github.com/cl-adams/adams)  - Common Lisp 中的 UNIX 系统管理. 与 Ansible、Chef 或 Puppet 不同.  [国际标准委员会][22].
 
 其他脚本实用程序
@@ -1226,7 +1227,7 @@ This contains plugins and other goodies for various text editors.
 Tools
 =====
 
-这些是使 Common Lisp 中的开发更容易的应用程序或代码，而不是 Common Lisp 库本身.
+这些是使 Common Lisp 中的开发更容易的应用程序或代码片段，而不是 Common Lisp 库本身.
 
 * [quicksearch](https://github.com/tkych/quicksearch)  - 从 REPL 中查找在线图书馆.  [外籍人士][14].
 * [lake](https://github.com/takagi/lake)  - 一个类似 GNU make 的构建实用程序.  [麻省理工学院][200].
@@ -1242,7 +1243,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以检查是否
   一个存根函数被调用了多少次以及调用了多少次
   论据.  [麻省理工学院][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的功能，比如模拟调用上的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它具有比 Mockingbird 更多的功能，例如模拟调用上的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的基于随机属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到工作服. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [自由BSD][39].
@@ -1359,6 +1360,7 @@ Lisp 核心.
 
 * [docbrowser](https://github.com/lokedhs/docbrowser) - 为加载的系统动态生成文档的服务器.
    - 它的主页显示了 Lisp 映像中所有已加载系统的列表. 单击一个系统，您将获得一个包含三个窗格的页面：函数、类和变量. 单击一个函数以在上下文中查看其源代码以及行号. 单击类以查看它们的插槽和专业化功能.
+* [cl-livedocs](https://github.com/mmontone/cl-livedocs) - 类似和更新，基于 Webinfo，默认启用全文搜索.
 
 包含更多文档生成器的概述博客文章：https://lisp-journey.gitlab.io/blog/overview-of-documentation-generators/
 
@@ -1388,6 +1390,7 @@ implementation of the Python's os.path module. [BSD][15].
 Git
 ---
 
+* [cl-git](https://github.com/russell/cl-git)  - libgit2 库的 CFFI 接口.  [LGPL3][9].
 * [legit](https://shinmera.github.io/legit/)  - Git 二进制文件的接口.  [zlib][33].
 * [git-api](https://github.com/fourier/git-api) - 通用 Lisp 库
 访问 git 存储库. 它不需要安装 git 或 libgit.  [BSD][15].
@@ -1407,7 +1410,7 @@ i18n
 Linting，代码格式化
 ------------------------
 
-* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog（[slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
+* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
 * [trivial-formatter](https://github.com/hyotang666/trivial-formatter)  - Common Lisp 的代码格式化程序.  [麻省理工学院][200].
 
 并且： [lisp-format](https://github.com/eschulte/lisp-format) and [cl-indentify](https://github.com/yitzchak/cl-indentify).
@@ -1422,10 +1425,10 @@ Linting，代码格式化
 Logging
 -------
 
-* ⭐ [log4cl](https://github.com/sharplispers/log4cl/)  - 以 Log4J 为模型的日志框架.  [Apache2.0][89]. 与 Slime 的高级集成.
+* ⭐ [log4cl](https://github.com/sharplispers/log4cl/)  - 以 Log4J 为模型的日志记录框架.  [Apache2.0][89]. 与 Slime 的高级集成.
   * [log4cl-json](https://github.com/40ants/log4cl-json)  - JSON appender 扩展.  [BSD][15].
 * [verbose](https://shinmera.github.io/verbose)  - 一个快速且高度可配置的日志框架.  [zlib][33].
-* [a-cl-logger](https://github.com/AccelerationNet/a-cl-logger)  - 日志库提供上下文敏感的日志，不仅仅是字符串到本地文件或输出流. 具有 logstash 支持、json 支持、记录器层次结构、上下文相关日志记录、打印为可检查演示文稿的对象，......
+* [a-cl-logger](https://github.com/AccelerationNet/a-cl-logger)  - 日志库提供上下文敏感的日志，不仅仅是字符串到本地文件或输出流. 具有 logstash 支持、json 支持、记录器层次结构、上下文相关日志记录、打印为可检查演示文稿的对象，...
 
 给第三方：
 
