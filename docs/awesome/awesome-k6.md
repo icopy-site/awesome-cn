@@ -23,6 +23,7 @@
 
 ## Articles
 
+- [k6 Workshop](https://github.com/grafana/k6-workshop) - 解释负载测试的原理和如何使用 k6 进行测试的实际示例.
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - 多部分入门指南，帮助您开始使用 k6.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - 简要概述 k6 的特性和功能.
 - [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - 将 k6 的输出发送到 Apache Kafka.
@@ -51,6 +52,7 @@
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
+- [How to use k6 Cloud for load testing](https://www.youtube.com/watch?v=ncxCIuo5tUU&list=PLJdv3RhAQXNGkRCp7Q0k77n5jif4qjz2o) k6 Cloud 入门系列快速视频
 - [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
 - [From Grafana ObservabilityCON: Intro to using k6 load testing with the Grafana observability stack](https://grafana.com/go/observabilitycon/2021/k6-load-testing/)
 - [From Grafana ObservabilityCON: Building performance tests into your CI pipeline with k6 and Grafana, w/ Matthew Churcher, QA Engineer at Vonage](https://grafana.com/go/observabilitycon/2021/performance-testing-vonage/)
@@ -60,7 +62,7 @@
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
   - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者：Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 简介. 
-  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Miles 在 2021 年云峰会上.
+  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas 在 2021 年云峰会上.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf 使用 GitHub co-pilot 编写 k6 测试.
 
 ## Reference Projects

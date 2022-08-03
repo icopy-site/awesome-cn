@@ -171,9 +171,10 @@
 ## Misc
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发者优先的工厂建设.
-* [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙后面）.
+* [ngrok](https://ngrok.com/) - 为内部服务器（在 NAT/防火墙后面）生成公共 URL.
 * [zigi](https://www.zigi.ai/) - 通过 Slack 处理普通非编码任务的开发人员助手.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像提高生产力的格子一样.
+* [Interval](https://interval.com/) - SDK 为您的产品构建内部工具和脚本.
 
 ## Monitoring
 *监控您的生产应用程序.*

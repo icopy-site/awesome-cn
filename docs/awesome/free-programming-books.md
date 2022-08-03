@@ -27,7 +27,7 @@
 
 此列表最初是 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) Karan Bhangui 和 George Stocker 的贡献.
 
-该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有超过 226,000 颗星，大约 9,600 名观察者，超过 7,000 次提交，1,900 多个贡献者和 47,700 多个分叉.
+该列表由 Victor Felder 移至 GitHub 以进行协作更新和维护. 它已经发展成为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有超过 243,000 颗星，大约 9,700 名观察者，超过 7,100 次提交，1,900 多个贡献者和 50,000 多个分叉.
 
 <div align="center" markdown="1">
 
@@ -103,6 +103,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
 + [Korean / 한국어[韩国语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ko.md)
++ [Latvian / Latviešu](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-lv.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-pl.md)

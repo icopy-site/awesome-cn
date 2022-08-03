@@ -20,7 +20,7 @@
 
 ## Manufacturers
 
-- [Velodyne](https://velodynelidar.com/) - Velodyne is a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
+- [Velodyne](https://velodynelidar.com/)  - Velodyne 是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
 - [Ouster](https://ouster.com/)  - 激光雷达制造商，专门从事数字旋转激光雷达.  Ouster 总部位于美国旧金山.
@@ -49,7 +49,7 @@
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) - Innoviz 技术/专注于固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
-- [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 在测绘、工业自动化、运输和安全领域提供端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
+- [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 在测绘、工业自动化、运输和安全方面提供端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
 - [Cepton](https://www.cepton.com/index.html)  - Cepton（Cepton Technologies, Inc.）/无摩擦、无反光镜设计的先驱，自主研发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
@@ -58,6 +58,9 @@
   - [GitHub organization :octocat:](https://github.com/Blickfeld)
 - [Neuvition](https://www.neuvition.com/) - Neuvition 是一家位于中国吴江的固态激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
+- [Aeva](https://www.aeva.com/) - Aeva 正在为自动驾驶、消费电子、健康、工业机器人和安全的所有设备带来下一波感知技术，美国加利福尼亚州山景城.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/AevaInc)
+  - [GitHub organization :octocat:](https://github.com/aevainc)
 
 ## Datasets
 

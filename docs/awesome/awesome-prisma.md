@@ -116,6 +116,7 @@
 - [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 使用 NestJS 和 Prisma 构建的宁静 api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
 - [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - 使用 Prisma + Next.js + CI + 测试 + E2E 类型安全的入门项目 [tRPC](https://trpc.io)
 - [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - 使用 Prisma、next-auth、next.js、tailwindcss 和 graphql-shield 的全栈启动器
+- [Wasp](https://github.com/wasp-lang/wasp) Wasp 是一种声明性的领域特定语言，用于以更少的代码开发、构建和部署现代 Javascript 全栈 Web 应用程序.
 
 ## Prisma 1
 

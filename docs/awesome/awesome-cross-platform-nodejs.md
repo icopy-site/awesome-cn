@@ -1,7 +1,10 @@
 <div class="github-widget" data-repo="bcoe/awesome-cross-platform-nodejs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg?sanitize=true"/>
+    <img alt="awesome-cross-platform-nodejs logo" src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
+  </picture>
   <br>
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge.svg" alt="Awesome">
@@ -91,7 +94,7 @@
 - [make-dir](https://github.com/sindresorhus/make-dir) - 跨平台`mkdir -p`.
 - [readdirp](https://github.com/paulmillr/readdirp) - `fs.readdir()` 的递归版本.
 - [cpy](https://github.com/sindresorhus/cpy)  - 复制文件. 跨平台.
-- [chokidar](https://github.com/paulmillr/chokidar) - 改进了跨平台文件观看.
+- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - 改进了 `fs` 模块，尤其是在 Windows 上.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 将 `graceful-fs` 与更好的 JSON 文件读取和承诺相结合.
 - [any-path](https://github.com/bcoe/any-path) - 从对象获取值时可互换使用 Windows 和 POSIX 路径.
@@ -102,6 +105,7 @@
 
 - [fkill](https://github.com/sindresorhus/fkill)  - 杀死进程. 跨平台.
 - [signal-exit](https://github.com/tapjs/signal-exit) - 跨平台的“退出”处理程序.
+- [human-signals](https://github.com/ehmicky/human-signals) - 人性化的过程信号.
 
 ### Processes
 
@@ -148,7 +152,7 @@
 这个项目是用❤️制作的. 最简单的回馈方式是主演和
 在线分享.
 
-If the documentation is unclear or has a typo, please click on the page's `Edit`
+如果文档不清楚或有错别字，请点击页面的`Edit`
 按钮（铅笔图标）并提出更正建议.
 
 如果您想帮助我们修复错误或添加更多信息，请查看
