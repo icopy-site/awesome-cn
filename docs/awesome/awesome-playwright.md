@@ -55,6 +55,7 @@
 - [Blockstack](https://github.com/blockstack/ux) - Playwright 用于运行跨浏览器 UI 测试.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright 用于运行跨浏览器集成测试.
 - [Heroku Playwright Example](https://github.com/mxschmitt/heroku-playwright-example) - 在 Heroku 上使用 Playwright 的示例.
+- [Todo App with Playwright](https://github.com/burakkantarci/playwright-todo-app) - 具有 API 的综合 Todo 应用程序，启用 GitHub Actions 的 E2E 测试.
 
 ## Guides
 

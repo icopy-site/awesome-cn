@@ -73,7 +73,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Notion
 
-团队和个人的多合一工作区.
+适合团队和个人的多合一工作区.
 
 ![Notion](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-notion.gif)
 
@@ -213,7 +213,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - 由杰克边缘.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - 由概念团队.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
-- [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 经过 [Philipp Cannons](https://twitter.com/pcannons).
+- [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 菲利普大炮.
 - [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - 经过 [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - 经过 [Brandon Chu](https://twitter.com/brandonmchu).
 - [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - 经过 [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
@@ -227,7 +227,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - 经过 [Hubert Palan](https://twitter.com/hpalan).
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - 经过 [Clint Fontanella](https://twitter.com/ClontFont).
-- [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 经过 [Glenn Gillen](https://twitter.com/glenngillen).
+- [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 格伦·吉伦.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - 经过 [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://twitter.com/christineitwaru).
 - [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - 经过 [Ken Norton](https://twitter.com/kennethn).
@@ -286,11 +286,10 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [The Product Coalition](https://productcoalition.com/) （_使用 [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) （_使用 [Slack](https://slack.com/)_)
 - [Ladder](https://ladder.to/)
-- [Product Circle](https://productcircle.to/)
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品是困难的. 在 INDUSTRY，您将看到其他人如何在不同的环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用于构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品是困难的. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自谷歌、Slack、亚马逊、Airbnb、Netflix、Facebook 等的产品领导者. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司进行互动.
 
 ## Additional resources

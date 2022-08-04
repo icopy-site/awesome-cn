@@ -93,11 +93,10 @@
 - [Simons Institute. Informaiton Theory Program](https://simons.berkeley.edu/programs/inftheory2015)  - 它旨在加强计算和通信社区之间的联系. 它探讨了 (1) 复杂性理论和组合学中的信息论技术，(2) 编码理论和应用，以及 (3) 信息论、机器学习和大数据.
 ## Conferences<a name=informationcoding_theory_conferences></a>
 - [Compression+Computation 2022](https://sites.google.com/view/compression-computation-2022/program) - 它弥合了理论计算机科学和生物信息学社区、新数据压缩技术和压缩数据计算之间的差距.
-## Randomization<a name=randomization></a>
-- [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - 本课程的目的是让学生熟悉一些随机方法.
 ## Cryptography<a name=cryptography></a>
 - [Lindell. Tutorials on the Foundations of Cryptography](https://link.springer.com/book/10.1007/978-3-319-57048-8) - 适合经验丰富的研究人员自学的高级教程，
 - [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - 介绍密码学、证明和随机性的交织领域.
+- [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/~oded/rnd.html) - 本课程的目的是让学生熟悉一些随机方法.
 ## Machine Learning Theory<a name=machine_learning_theory></a>
 ## Lecture Notes<a name=machine_learning_theory_lecture_notes></a>
 - [Blum. An Introduction to the Theory of Machine Learning. TTIC](https://home.ttic.edu/~avrim/MLT20/) - 机器学习的基本理论和从数据中推广的过程.
@@ -143,7 +142,7 @@
 - [Eva Tardos. Learning and Efficiency in Games](https://simons.berkeley.edu/events/openlectures2015-fall-1) - How to quantify the impact of strategic user behavior on overall performance in games including traffic routing as well as online auctions.
 ## Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
-- [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php)  - 带我们了解广泛的科学知识和相关技术：古希腊人的命题逻辑（微处理器）； 量子力学（硅芯片）； 网络和系统现象（互联网和搜索引擎）； 计算难处理性（安全加密）； 和高效的算法（基因组测序）.
+- [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php)  - 带我们了解广泛的科学知识和相关技术：古希腊人的命题逻辑（微处理器）； 量子力学（硅芯片）； 网络和系统现象（互联网和搜索引擎）； 计算难处理性（安全加密）； 和有效的算法（基因组测序）.
 ## Books<a name=physics_books></a>
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
 - Feynman 的计算课程 - 另见 Preskill 40 年后的更新 [here](https://arxiv.org/abs/2106.10522)
@@ -166,7 +165,7 @@
 ### Lecture Videos Playlist<a name=mathlogic_preliminaries_general_lecture_videos_playlist></a>
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)  - 面向计算机科学和工程的离散数学简介.  - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 ### Books<a name=mathlogic_preliminaries_general_books></a>
-- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典计算机程序设计艺术中的数学预备部分，但呈现方式更悠闲，个别主题涵盖更深入.
+- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了 Knuth 经典的计算机编程艺术中的数学预备部分，但呈现的风格更从容，个别主题的涵盖更深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
 - [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 一个致力于数学主题及其与计算机科学相关性的系列.
@@ -217,7 +216,7 @@
 - [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html)  - 在线非正式会谈，专门讨论计算复杂性理论和相关领域感兴趣的话题. 目标是作为讨论和快速传播结果的论坛.
 - [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大化整个理论计算机科学界的影响和参与的计划、活动和研讨会.
 - [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - 旨在对计算机科学中的基本问题进行数学理解，并利用这种理解来产生更好的算法、协议和系统，并确定高效计算的固有局限性.
-- [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)
+- [CCC 22](https://www.youtube.com/playlist?list=PLIgnAi1_K6YGqJQVtx2EowWXwVAnU24x3) | [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
  - ACM AM 图灵奖得主访谈. 伯克利 - 采访伯克利的图灵奖得主.  - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
  - 80 年代的伯克利 - 采访伯克利理论计算机科学领域的知名人士.  - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
@@ -227,7 +226,7 @@
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍 TCS 的高级故事及其与其他领域的交叉点.
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - 调查、教程、会议报告、活动、未解决的问题和解决方案、博士论文和有趣的贡献.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
-- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，提供主题的教程覆盖，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围.
+- [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - 它提供由领导撰写的专着，涵盖主题的教程，研究回顾以及提供最先进评论的调查论文都属于该期刊的范围.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - 具有该领域的突破，以非专家易于理解的方式编写.
 - [Theory of Computing Blog Aggregator](https://cstheory-feed.org/) - 所有与 TCS 相关的博客的博客聚合器.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS 工作公告.
@@ -248,7 +247,7 @@
 - [Barak. Non-technical or Less-technical Writings and Talks](https://www.boazbarak.org/informal/) - 更多面向技术不成熟的受众的帖子.
 - [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - 计算机科学理论博客列表.
 - [Karp. A Personal View of Computer Science at Berkeley](https://www2.eecs.berkeley.edu/bears/CS_Anniversary/karp-talk.html) - 卡普地址：1968 年，伯克利的计算机科学存在问题，两个部门独立工作以开发程序，以及他的个人反思.
-- [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)  - 为什么做出重大贡献的科学家如此之少，而从长远来看，却有如此多的科学家被遗忘？ 谈话是关于汉明学到了什么.
+- [Hamming. You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)  - 为什么做出重大贡献的科学家如此之少，而从长远来看，却有如此多的科学家被遗忘？ 谈话是关于海明学到了什么.
 - [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Steven Weinberg 为学生和研究人员提供的课程.
 - [Princeton's Companion. Advice to a Young Mathematician](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) - 五位贡献者利用他们在数学生活和研究方面的经验，并提供他们刚开始职业生涯时可能希望收到的建议.
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - 关于数学学术职业问题的各种建议的集合，大致按建议最相关的职业阶段排列.
@@ -256,7 +255,7 @@
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM 的学生杂志计算理论特刊.
 - [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - TCS 领域的近期成就和新挑战.
 ## Popular Science Books<a name=other_resources_popular_science_books></a>
-- [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法含义.
+- [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法含义.
 - [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality 呈现出惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - 根据图灵的计算世界，一个交互式辅导程序，告诉命运多舛的恋人：一部小说.

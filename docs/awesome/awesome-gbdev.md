@@ -100,7 +100,7 @@
 #### Opcodes
 
 - [gb-opcodes](https://gbdev.github.io/gb-opcodes/optables/) - 操作码表
-- [RGBDS opcodes reference](https://rgbds.gbdev.io/docs/gbz80.7) - 所有指令的参考，包括简短描述、周期和字节计数，以及标志修改的解释.
+- [RGBDS opcodes reference](https://rgbds.gbdev.io/docs/gbz80.7) - 所有指令的参考，包括简短描述、周期和字节计数，以及对标志修改的解释.
 
 ### Game Boy Color
 
@@ -383,6 +383,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - 配置 GBDK、使用瓷砖、碰撞精灵、GBTD、GBMB、内存管理和 ROM 银行.
 - [Simplified GBDK examples](https://github.com/mrombout/gbdk_playground)
 - [GBDK Programming Video Tutorials](https://www.youtube.com/playlist?list=PLeEj4c2zF7PaFv5MPYhNAkBGrkx4iPGJo) - 一系列视频教程，向初学者介绍使用 GBDK 进行编程.
+- [Larold's Jubilant Junkyard](https://laroldsjubilantjunkyard.com/tutorials/) - 基于 GBDK-2020 的详细教程合集.
 
 ## Homebrews
 
@@ -439,7 +440,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [red hot princess carnage](https://github.com/Imanolea/bitbitjam3_red_hot_princess_carnage)
 - [loderunner](http://www.tensi.eu/thomas/programming/gameboy/loderunner.html)
 - [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
-- [Bubble Factory](https://github.com/DonaldHays/bubblefactory) - *Vanilla- SDCC（无 gbdk）.
+- [Bubble Factory](https://github.com/DonaldHays/bubblefactory) - *Vanilla- SDCC（不是 gbdk）.
 - [GBC Atari Boxing](https://github.com/rubfi/gbc-atari-boxing) - 用于 Game Boy（彩色）的 Atari 2600 拳击克隆.
 - [GB raycaster, Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) - 和其他一些项目.
 - [Tobu Tobu Girl Deluxe](https://github.com/SimonLarsen/tobutobugirl-dx) - Game Boy（彩色）的街机平台游戏.
@@ -593,7 +594,7 @@ See [LICENSE](LICENSE) 了解更多信息.
 
 ### Acknowledgements
 
-谢谢 [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) 该项目的贡献者，Jeff Frohwein、Pascal Felber、KOOPa、Pan of Anthrox、GABY、Marat Fayzullin、Paul Robson、BOWSER、neviksti、Martin &quot;nocash&quot; Korth、Nitro2k01、Duo、Chris Antonellis、Michael Hope、Beware、Jonathan “Lord噩梦”Gevyahu、Carsten Sorense、Sindre Aamås、Otaku No Zoku、GeeBee.
+谢谢 [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, Nevixti, Martin &quot;Nocash&quot; Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan &quot;Lord Nightmare&quot; Gevaryahu, Carsten Sorense、Sindre Aamås、Otaku No Zoku、GeeBee.
 
 ### Sponsors
 
