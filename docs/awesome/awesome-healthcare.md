@@ -17,7 +17,6 @@
   * [EtherCIS](http://ethercis.org) - 企业临床数据存储库.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) - 电子病历软件.
   * [HospitalRun](https://hospitalrun.io) - 帮助为资源最少的环境提供最现代化的医院信息系统.
-  * [Hospital OS](http://www.hospital-os.com) - 泰国医院信息系统.
   * [HOSxP](https://hosxp.net/joomla25/) - 泰国医院信息系统，旨在简化医疗中心和中央医院的医疗保健工作流程.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - 以临床为重点的电子健康记录系统.
   * [MedinTux](https://medintux.org/) - 法国医疗实践管理系统.
@@ -66,7 +65,8 @@
   * [ITK](https://itk.org/) - 用于开发具有 2 维和 3 维前沿算法的图像分割和图像配准程序的工具包.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - 用于 3 维图像导航、注释和自动分割的交互式软件，强调用户友好性.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - LibreHealth Toolkit 的定制版本，带有用于放射学和成像专业人士的附加工具.
-  * [OHIF](https://github.com/OHIF/Viewers) - OHIF 零足迹 DICOM 查看器和肿瘤学专用病变跟踪器.
+  * [Kaapana](https://github.com/kaapana/kaapana) - 用于医疗数据分析领域最先进平台配置的开源工具包.
+  * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
   * [OpenREM](https://openrem.org/) - 物理学家的辐射暴露监测.
   * [Orthanc](https://www.orthanc-server.com) - 用于医疗保健和医学研究的轻量级 DICOM 服务器.
   * [Papaya](https://github.com/rii-mango/Papaya) - 纯 JavaScript 医学研究图像查看器.
@@ -90,8 +90,8 @@
   * [FHIR Proxy](https://github.com/microsoft/fhir-proxy) - 在将 FHIR 数据传入和传出 Azure API 时充当中介的安全应用程序.
   * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) - FHIR 适用于 AWS 部署.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - FHIR 标准的 .NET Core 实现.
-  * [IBM FHIR Server](https://github.com/IBM/FHIR) - HL7 FHIR 规范第 4 版的模块化 Java 实现.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - GoLang 中的通用 FHIR 服务器实现.
+  * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - HL7 FHIR 规范第 4 版的模块化 Java 实现.
   * [Opal](https://opal.openhealthcare.org.uk/) - 构建临床应用程序的框架.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - 可以轻松为医学研究或其他研究项目创建应用程序的软件框架.
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
@@ -101,7 +101,7 @@
 ### Libraries
   * [Android FHIR SDK](https://github.com/google/android-fhir) - Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - 用 Ja​​va 编写的 OpenEHR 库.
-  * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
+  * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
   * [Datamol](https://github.com/datamol-org/datamol)  - 分子操作变得容易. 构建在 RDKit 之上的轻量级 Python 包装器.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM 工具包.
   * [dicom](https://github.com/suyashkumar/dicom) - GoLang 中的高性能 DICOM 医学图像解析器.
@@ -122,6 +122,7 @@
   * [pynetdicom](https://github.com/pydicom/pynetdicom) - DICOM 网络协议的 Python 实现.
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - 用于将 HL7 版本 2.x 的消息解析为 Python 对象的简单库.
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - 支持 SMART on FHIR 协议的 FHIR 服务器的灵活 Python 客户端.
+  * [Python 835 Parser](https://github.com/keironstoddart/edi-835-parser) - EDI 835 Health Care Claim Payment and Remittance Advice 文件的简单易用 Python 接口.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - Ruby 中的 FHIR 客户端实现.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - Ruby HL7 库.
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision)  - 胸部 X 射线数据集和模型库. 包括预训练模型.

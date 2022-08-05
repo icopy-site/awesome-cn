@@ -4,7 +4,7 @@
 
 &gt; 精选的系统集成软件、模式和资源列表.
 
-系统集成是将不同的 IT 系统（组件）连接在一起以实现整体功能协作的过程.
+系统集成是将不同的 IT 系统（组件）连接在一起以在功能上作为一个整体进行协作的过程.
 
   - [Data Mapping Solution](#data-mapping-solution) 
   - [iPaaS](#ipaas)  
@@ -56,7 +56,7 @@
 ### API Testing
 *API 测试工具.*
 - API 客户端
-  - [Advanced REST Client](https://github.com/advanced-rest-client/arc-electron) - 出于为开发人员社区提供他们需要的工具的热情，一个开源且免费的 API 工具.
+  - [Advanced REST Client](https://github.com/advanced-rest-client/arc-electron) - 出于为开发人员社区提供所需工具的热情，为所有人免费提供的开源 API 工具.
   - [curl](https://github.com/curl/curl) - 用于通过 URL 传输数据的命令行工具和库.
   - [curlie](https://curlie.io) - curl 的前端，增加了 httpie 的易用性，而不会影响功能和性能.
   - [HTTPie](https://httpie.io) - 命令行 HTTP 客户端，比 curl 对开发人员更友好.
@@ -84,7 +84,7 @@
 
 ### BRE
 *业务规则引擎和业务规则管理系统.*
-- [Drools](https://www.drools.org) - 开源工具，具有对一致性级别 3 的决策模型和表示法 (DMN) 模型的完整运行时支持以及用于核心开发的 Eclipse IDE 插件.
+- [Drools](https://www.drools.org) - 开源工具，在一致性级别 3 和 Eclipse IDE 插件对核心开发的决策模型和符号 (DMN) 模型具有完整的运行时支持.
 - [Easy Rules](https://github.com/j-easy/easy-rules) - 一个简单的 Java 规则引擎.
 - [NxBRE](https://github.com/ddossot/NxBRE/wiki) - .NET 平台的开源规则引擎.
 - [OpenL Tablets](http://openl-tablets.org/) - 一个开源业务规则引擎（BRE、BRMS）和决策管理系统.
@@ -97,7 +97,7 @@
 - [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - 全面的业务流程管理平台.
 - [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - 用于开发、管理和使用以业务流程为中心的业务应用程序的集成环境.
 - [Pega Platform](https://www.pega.com/products/platform) - 结合了业务流程管理和机器人流程自动化 (RPA) 平台，以及 Pegasystems 的高级劳动力分析.
-- [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - 一个应用程序开发平台，使开发人员和业务专家能够创建自动化业务运营的云原生应用程序.
+- [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - 一个应用程序开发平台，使开发人员和业务专家能够创建实现业务运营自动化的云原生应用程序.
 - [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - 业务流程管理产品和应用程序基础架构. 
 - [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - 具有流程自动化、流程文档、人力资本管理、流程模式和预测运营分析功能的业务流程管理平台.
 
@@ -127,6 +127,7 @@
 *ETL/ELT 和数据集成工具.*
 - [Apache NiFi](https://nifi.apache.org/) - Apache NiFi 是一个集成的数据物流平台，用于在不同系统之间自动移动数据.
 - [CloverETL](http://www.cloveretl.com/) - 用于数据迁移和数据仓库以及将数据输入商业智能和报告应用程序的数据集成软件套件. 
+- [Hevo](https://hevodata.com/) - Hevo Data 是一个完全自动化的无代码数据管道平台，支持跨数据库、SaaS 应用程序、云存储、SDK 和流服务的 150 多种即用型集成.
 - [IBM DataStage](https://www.ibm.com/products/datastage) - 帮助企业理解、清理、转换和交付可信信息的数据集成平台.
 - [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - 提供支持大数据和云分析的企业数据集成和管理软件.
 - [Microsoft SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - SQL Server Integration Services 是一个用于构建企业级数据集成和数据转换解决方案的平台.
@@ -164,7 +165,7 @@
 - [Amazon SNS](https://aws.amazon.com/sns)  - 亚马逊简单通知服务.  Pub/sub 功能为分布式系统、微服务和事件驱动的无服务器应用程序之间的高吞吐量、基于推送的多对多消息传递提供主题.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka) - 来自阿里云的全托管 Apache Kafka 服务.
 - [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - 具有高吞吐量、低延迟和高可扩展性的分布式、完全托管和专业的消息传递服务.
-- [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - 一种分布式消息队列和通知服务，支持并发操作以促进应用程序和解耦系统之间的消息传输.
+- [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - 一种分布式消息队列和通知服务，支持并发操作，以促进应用程序和解耦系统之间的消息传输.
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - 企业级云消息传递，与 Anypoint 平台完全集成.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - 可靠的云消息传递即服务 (MaaS) 和简单的混合集成.
@@ -183,7 +184,7 @@
 ### Managed File Transfer
 *托管文件传输 (MFT) 解决方案.*
 - [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - 一体化企业级 MFT.
-- [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Make file transfer services easy to use.
+- [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - 使文件传输服务易于使用.
 - [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - 具有高可用性和故障转移功能的企业 MFT 服务器解决方案可消除停机时间.
 - [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - 使用快速且可扩展的文件传输平台，每天传输超过 100 万个文件.
 - [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - 启用安全的文件交换和管理.
@@ -192,7 +193,7 @@
 *主数据管理解决方案.*
 - [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - 全面的主数据管理.
 - [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - 多合一主数据管理.
-- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - 通过管理您的主数据，更快、更有效地适应和响应变化.
+- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Adapt and respond to change faster and more effectively by managing your master data.
 - [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - 通过整合和集中管理主数据生命周期，提高整个组织的信息质量和一致性.
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - 提供单一、准确和统一的企业数据视图，将来自各种数据源的信息集成到一个主记录中.
 - [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - 在数据方面提供“一个真实版本”，确保只有可靠、准确和批准的信息流经您的系统、流程和应用程序.
@@ -249,9 +250,9 @@
 ## Resources
 *一些有用的规范、模式、文章和文档.*
 ### API Specification
-- [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - The AsyncAPI specification settles the base for a greater and better tooling ecosystem for Event-Driven Architectures (EDA).
+- [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - AsyncAPI 规范为事件驱动架构 (EDA) 的更大更好的工具生态系统奠定了基础.
 - [GraphQL](https://github.com/graphql/graphql-spec) - API 的查询语言和使用现有数据完成这些查询的运行时.
-- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在无需访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
+- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在不访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API 建模语言.
 - [WSDL](http://www.w3.org/TR/wsdl20) - 基于 SOAP 的服务的基于 XML 的接口描述语言.
 ### Articles
@@ -275,7 +276,7 @@
 - [Aggregator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html) - 我们如何组合单个但相关消息的结果，以便将它们作为一个整体进行处理？  
 - [Canonical Data Model](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html) - 在集成使用不同数据格式的应用程序时，如何最大限度地减少依赖关系？
 - [Channel Adapter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelAdapter.html) - 如何将应用程序连接到消息传递系统，以便它可以发送和接收消息？
-- [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 您如何防止频道上的“剩余”消息干扰测试或正在运行的系统？
+- [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - How can you keep 'left-over' messages on a channel from disturbing tests or running systems?
 - [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少跨系统发送的消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
 - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多个消息？
@@ -295,7 +296,7 @@
 - [Event Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html) - 如何使用消息传递将事件从一个应用程序传输到另一个应用程序？
 - [Event-Driven Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html) - 应用程序如何在消息可用时自动使用它们？
 - [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - 如何设计消息的数据格式以允许未来可能发生的变化？
-- [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - 即使消息系统出现故障，发件人如何确保消息将被传递？
+- [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - How can the sender make sure that a message will be delivered, even if the messaging system fails?
 - [Idempotent Receiver](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html) - 消息接收者如何处理重复消息？
 - [Invalid Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html) - 消息接收者如何优雅地处理接收到毫无意义的消息？
 - [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) - 通过消息通道连接的两个应用程序如何交换一条信息？
@@ -365,7 +366,7 @@
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - 高级消息队列协议 (AMQP) 1.0 版.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) - 超文本传输​​协议 (HTTP) 是分布式、协作、超媒体信息系统的应用层协议.
 - [JSON-RPC](https://www.jsonrpc.org/specification) - 设计简单，它是一种无状态、轻量级的远程过程调用 (RPC) 协议.
-- [MQTT](https://mqtt.org/mqtt-specification/) - 消息队列遥测传输 (MQTT) 是一种轻量级的发布订阅网络协议，可在设备之间传输消息.
+- [MQTT](https://mqtt.org/mqtt-specification/) - 消息队列遥测传输 (MQTT) 是一种轻量级的发布-订阅网络协议，可在设备之间传输消息.
 - [SOAP](https://www.w3.org/TR/soap/) - 简单对象访问协议是基于 XML 的消息传递协议. 
 - [STOMP](https://stomp.github.io/) - 简单（或流式）面向文本的消息传递协议.
 

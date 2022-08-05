@@ -65,7 +65,7 @@
 * [GDPR.eu](https://gdpr.eu/) - 研究 GDPR 的组织和个人的资源（非官方网站）.
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - 与理解和提高隐私和安全可用性相关的研究.
 * [EPIC](https://epic.org/) - 电子隐私信息中心.
-* [Future of Privacy Forum](https://fpf.org/) - 促进隐私领导和学术研究，推进有原则的数据实践以支持新兴技术.
+* [Future of Privacy Forum](https://fpf.org/) - 隐私领导力和学术研究的催化剂，推进有原则的数据实践以支持新兴技术.
 * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - 引领网络发挥其全部潜力.
 * [CISPE Code of Conduct](https://www.codeofconduct.cloud/) - 第 40 条下针对云基础设施服务提供商的泛欧行业特定代码.
 
@@ -80,12 +80,13 @@
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security)
 * [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme)
-* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) - 免费、开源和尊重隐私的服务和私有服务的替代品列表.
+* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) - 免费、开源和尊重隐私的服务以及私有服务的替代品列表.
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide)
 * [Analytics without cookies](https://www.gocookieless.com/)
 * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)
+* [EU Alternatives](https://dasprive.be/eu-alternatives/)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，Harald O. Bakke 放弃了本作品的所有版权和相关或邻接权.
+在法律允许的范围内，Harald O. Bakke 已放弃本作品的所有版权和相关或邻接权.

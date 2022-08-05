@@ -5,17 +5,16 @@
 <!--lint ignore double-link-->
 [<img align="right" src="https://raw.githubusercontent.com/collective/awesome-plone/master/logo.png" height="64">](https://plone.org)
 
- &gt; 社区策划的 _awesome_ Plone 附加组件列表. 来自开发者的开发者.
+&gt; 社区策划的 _awesome_ Plone 附加组件列表.
 
 <!--lint ignore double-link-->
 [Plone](https://plone.org) 是一个用 Python 编写的开源 CMS，专注于开箱即用的功能、可定制性和安全性.
 
-如果您想知道是否已经有适合您需求的 Plone 插件，那么在 GitHub 或 pypi 上搜索它可能会非常痛苦.
-有很多附加组件，但很难理解哪一个可能是一个好的解决方案.
+有过 [3000 add-ons for Plone on pypi](https://pypi.org/search/?q=&o=&c=Framework+%3A%3A+Plone) 以及超过 1500 个存储库 [collective](https://github.com/collective/) . 如果您想知道是否已经有适合您需求的 Plone 插件，在 GitHub 或 pypi 上搜索可能会很困难. 很难理解哪一个可能是一个好的解决方案.
 
 该列表旨在填补这一空白，并创建有关常见产品和技术的共享知识.
 
-此列表仅涵盖适用于 Plone 最新主要版本（当前为 5.2 和 6）以及支持 Python 3 的附加组件和资源.
+此列表仅涵盖适用于 Plone 最新主要版本（当前为 5.2 和 6）的附加组件，并且仅涵盖支持 Python 3 的附加组件.
 
  Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 plone.restapi 与 Plone 通信.  Volto 本身是非常可扩展的. 结帐 [awesome-volto list](https://github.com/collective/awesome-volto) 用于 Volto 的附加组件.
 
@@ -50,7 +49,7 @@ _为内容提供内容类型或附加功能的附加组件_
 
 _帮助开发人员和用户创建和管理站点布局的产品和资源._
 
-* [collective.cover](https://github.com/collective/collective.cover)  - 封面允许创建围绕拖放界面构建的精美封面. 使用与 plone.app.mosaic 相同的块/瓷砖生态系统，但编辑方法不同.
+* [collective.cover](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 
 
 ## Tiles
@@ -118,13 +117,13 @@ _用于搜索引擎优化的附加组件._
 
 ## Authentication
 
-_身份验证插件列表，用于将 Plone 与外部用户、Importsources 和 Migrations.import_ 集成
+_身份验证插件列表，用于将 Plone 与外部用户、Importsources 和 Migrations.import 集成
 
 * [pas.plugins.ldap](https://github.com/collective/pas.plugins.ldap) - 提供来自 LDAP 目录的用户和组.
 * [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic) - 与 Plone 的自动 OAuth1/OAuth2/OpenID 登录集成.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous)  - 拒绝来自 Plone 站点的无条件匿名用户，而不会对您的安全策略矩阵或工作流程进行任何更改. 基本用例是外联网，所有访问者都必须经过身份验证.
 * [pas.plugins.headers](https://github.com/collective/pas.plugins.headers)  - 读取请求标头并将其用于身份验证. 想想由 Apache 或 nginx 等前端 Web 服务器设置的 SAML 标头.
-* [dm.zope.saml2](https://pypi.org/project/dm.zope.saml2/) - Supports SAML2 based Single Sign-On.
+* [dm.zope.saml2](https://pypi.org/project/dm.zope.saml2/) - 支持基于 SAML2 的单点登录.
 * [collective.pwexpiry](https://github.com/collective/collective.pwexpiry) - 在 Plone 和密码攻击保护中提供更强的用户密码方法.
 
 
@@ -140,7 +139,7 @@ _身份验证插件列表，用于将 Plone 与外部用户、Importsources 和 
 
 ## Themes
 
-* [plonetheme.tokyo](https://github.com/collective/plonetheme.tokyo) - Tokyo Theme for Plone 将 Bootstrap 4 实施到 Plone 中，重点是使事物尽可能接近“默认”.
+* [plonetheme.tokyo](https://github.com/collective/plonetheme.tokyo) - Tokyo Theme for Plone 将 Bootstrap 4 实现到 Plone 中，重点是使事物尽可能接近“默认”.
 * [plonetheme.grueezibuesi](https://github.com/collective/plonetheme.grueezibuesi) - Plone 6 的小猫灵感主题.
 * [collective.sidebar](https://github.com/collective/collective.sidebar) - 整合工具栏和导航的侧边栏.
 * [collective.editablemenu](https://github.com/RedTurtle/collective.editablemenu) - Plone 的可自定义导航菜单.
@@ -171,6 +170,37 @@ _帮助管理员部署和维护 Plone 的附加组件_
 * [dm.historical](https://pypi.org/project/dm.historical)  - 访问数据库的任何历史状态. 对于找出对象过去发生的事情以及恢复意外删除或修改的对象很有用.
 * [haufe.requestmonitoring](https://github.com/collective/haufe.requestmonitoring)  - 发布事件之上的详细请求记录功能. 有助于找出比它应该花费更长的时间.
 
+
+## Finding more add-ons
+
+很难找到适合您要求的附加组件.
+以下是一些提示：
+
+* 列出所需功能.
+* 首先查看此列表.
+* 搜索pypi：https://pypi.org/search/?c=Framework+%3A%3A+Plone
+* 在github上搜索集体组织：https://github.com/collective
+* 在github上搜索plone组织：https://github.com/plone
+* 谷歌满足您的要求
+
+一旦你有了一个候选名单，就可以测试这些附加组件. 以下是在生产站点上安装插件之前需要测试的主要问题：
+
+ *测试所有必需的功能. 阅读但不相信文档
+* 检查插件是否在您需要的版本上运行
+* 检查是否维护
+* 它是否支持 i18n，即用户界面是否翻译成您的语言？
+* 卸载干净吗？
+* 检查不需要的依赖项
+
+找到喜欢的插件后，您可以询问社区您是否做出了正确的选择，或者您是否错过了一些东西：
+
+* 留言板：https://community.plone.org
+
+如果您找不到 100% 符合您要求的东西，您可以：
+
+* 使您的要求适应可用的内容.
+*投入时间和金钱来定制现有的附加组件，以更好地满足您的需求.
+* 创建一个完全符合您需要的新插件.
 
 ## Official resources
 

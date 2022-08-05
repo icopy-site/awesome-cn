@@ -326,7 +326,6 @@
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个 Node.js 应用程序，它使用类似于 Javadoc 和 Doxygen 等工具的语法从源代码中的注释生成 API 文档.
 * [coddoc](http://doug-martin.github.io/coddoc/) 是一个jsdoc解析库.  Coddoc 的不同之处在于它很容易扩展，它允许用户通过使用 coddoc.addTagHandler 和 coddoc.addCodeHandler 添加标签和代码解析器.  coddoc 还解析要在 API 中使用的源代码.
 * [sphinx](http://www.sphinx-doc.org/) 一个可以轻松创建智能且美观的文档的工具
-* [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](https://github.com/beautiful-docs/beautiful-docs) 是一个基于 markdown 文件的文档查看器.
 * [documentation.js](http://documentation.js.org) - 支持 ES2015+ 和流注解的 API 文档生成器.
 * [jsduck](https://github.com/senchalabs/jsduck) - 为 Sencha JavaScript 框架制作的 API 文档生成器，但也可用于其他框架.
@@ -689,7 +688,7 @@
 ### Calendar
 
 * [pickadate.js](https://github.com/amsul/pickadate.js) - 移动友好、响应迅速且轻量级的 jQuery 日期和时间输入选择器.
-* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - 从 Stefan Petre（来自 eyecon.ro）分叉的 @twitter bootstrap 的日期选择器，由 @eternicode 改进.
+* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - @twitter bootstrap 的日期选择器从 Stefan Petre（来自 eyecon.ro）的分支，由 @eternicode 改进.
 * [Pikaday](https://github.com/dbushell/Pikaday) - 一个令人耳目一新的 JavaScript Datepicker——轻量级、无依赖、模块化 CSS.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) - 全尺寸拖放事件日历（jQuery 插件）.
 * [rome](https://github.com/bevacqua/rome)  - 可自定义的日期（和时间）选择器. 无依赖，可选择加入的 UI.
@@ -929,7 +928,7 @@
  
 ## Full Text Search
 
-* [lunr](https://github.com/olivernn/lunr.js) - 在浏览器中使用的库，它索引 JSON 文档，并提供一个简单的搜索界面，用于检索与文本查询最匹配的文档.
+* [lunr](https://github.com/olivernn/lunr.js) - 在浏览器中使用的库，它索引 JSON 文档，并提供一个简单的搜索界面，用于检索最匹配文本查询的文档.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - 它是浏览器和 Node.js 的下一代全文搜索库.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - 该库基于 lunr.js，但更加灵活和定制.
  

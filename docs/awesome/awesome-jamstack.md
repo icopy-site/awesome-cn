@@ -7,7 +7,7 @@
   <img width="500" src="https://raw.githubusercontent.com/automata/awesome-jamstack/master/media/jamstack-full-logo.svg?sanitize=true" alt="Jamstack">
   <br /><br /><br />
   <p>
-    <strong>Jamstack</strong> : 名词 \ &#39;jam-stak&#39; \<br />
+    <strong>Jamstack</strong> : 名词 \&#39;jam-stack&#39;\<br />
     基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
   </p>
   <br /><br />
@@ -53,6 +53,7 @@
 - [Appernetic](https://appernetic.io) - 静态网站的可视化内容管理，使用 Hugo 和 GitHub Pages.
 - [Netlify](https://netlify.com) - 用于自动化现代 Web 项目的多合一平台.
 - [Vercel](https://vercel.com) - 用于现代 Web 应用程序的多合一无服务器平台，具有免配置工具和工作流程.
+- [Layer0](https://layer0.co) - 一体化的 Jamstack 平台通过集成的 CDN、EdgeJS、预测预取和性能监控，专注于大型动态网站和一流的性能.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - 具有集成 CI/CD 工作流、身份验证、CDN 等的全栈无服务器托管.
 - [Stormkit](https://stormkit.io)  - 适用于现代 JavaScript 应用程序的强大多合一基础设施. 它与您的 git 流集成，并无缝地构建、部署和扩展您的应用程序.
 
@@ -81,7 +82,7 @@
 ## Static Site Generators
 
 - [Gatsby](https://gatsbyjs.org) - 用于 React 的超快静态站点生成器.
-- [Next.js](https://nextjs.org/) - 用于静态和服务器渲染应用程序的轻量级框架.
+- [Next.js](https://nextjs.org/) - Lightweight framework for static and server-rendered applications.
 - [Hugo](https://gohugo.io) - Hugo 是一个用 Go 编写的静态站点生成器.
 - [Jekyll](https://jekyllrb.com) - Jekyll 是一个简单的、支持博客的、静态站点生成器，非常适合个人、项目或组织站点.
 - [Hexo](https://hexo.io) - 一个快速、简单且强大的博客框架，由 Node.js 提供支持.
@@ -94,7 +95,7 @@
 - [Astro](https://astro.build) - 构建更快的网站，同时减少甚至几乎没有 Javascript.
 - [FactorJS](https://www.factorjs.org) - 由 Vite 提供支持的下一代框架.
 
-*更完整的列表见 [StaticGen](https://www.staticgen.com/).*
+*For a more complete list see [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
 - [Cosmic](https://cosmicjs.com) - 带有 REST 和 GraphQL API 选项的无头 CMS.
@@ -109,7 +110,7 @@
 - [DatoCMS](https://datocms.com) - 您的编辑会喜欢的基于 API 的 CMS.
 - [Prose](https://prose.io) - Prose 是 GitHub 的内容编辑器，专为管理网站而设计.
 - [Tipe](https://tipe.io) - 下一代 API 优先 CMS.
-- [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
+- [Forestry](https://forestry.io) - 使用静态站点生成器构建的站点的无头 CMS.
 - [Coisas](https://github.com/fiatjaf/coisas) - 用于编辑 GitHub Markdown（和其他）文件的客户端 CMS.
 - [Cockpit](https://getcockpit.com/) - 自托管的无头和 api 驱动的 CMS.
 - [HeadlessCMS](https://headlesscms.org/) - Jamstack 站点的内容管理系统列表.
@@ -120,13 +121,16 @@
 - [TreacleWP](https://www.treaclewp.com) - WordPress API 托管.
 - [Agility CMS](https://agilitycms.com) - 开发人员和内容编辑者的两全其美.
 - [CloudCannon](https://cloudcannon.com/) - Jamstack 站点的基于 Git 的 CMS.
+- [Contember](https://www.contember.com)  - 定制内容管理. 轻松构建和运行 GraphQL API 和以用户为中心的管理.
+
 ## API
 
 ### Authentication
 
 - [Auth0](https://auth0.com/) - 单点登录和基于令牌的身份验证.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - 带来一整套身份验证功能，由 [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) - REST API 用户管理系统，用于您的 Web 端，具有 JWT + 额外功能的身份提供者.
+- [Jexia UMS](https://jexia.com) - 带有 JWT + 额外功能的身份提供者的 Web 端 REST API 用户管理系统.
+- [Stytch](https://stytch.com) - 无密码身份验证和会话管理 API，试一试 [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ### Comments
 
@@ -136,6 +140,7 @@
 
 ### Forms
 
+- [Fetch Forms](https://www.fetchforms.io/) - 以表单构建器的速度创建表单，并通过调用简单的 API 在您的应用程序中使用它们. 
 - [Formcarry](https://formcarry.com) - 为您的表单提供无忧的 HTML 表单端点、强大的仪表板、可靠的垃圾邮件拦截、附件上传和 Zapier 集成.
 - [Formcake](https://formcake.com) - 为开发人员构建的表单后端：Zapier 集成、零依赖、简单的 API 和无限的表单.
 - [Getform](https://getform.io)  - 设计师和开发人员的表单后端平台. 在几分钟内为您的静态站点设置表单端点，并通过 Zapier 集成和 Webhooks 支持扩展您的数据.
@@ -154,6 +159,8 @@
 - [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) - Shopify 无头电子商务解决方案.
 - [Commerce.js](https://commercejs.com/) - 面向开发人员的 API 优先电子商务平台.
 - [CartQL](https://cartql.com/) - 为 Jamstack 构建的 GraphQL 购物车和结帐 API，可与任何框架和库存一起使用.
+- [Medusa](https://medusajs.com/) - Medusa 是一个开源的无头商务引擎，使开发人员能够创建令人惊叹的数字商务体验.
+- [LiveMart](https://www.livemart.store) - GraphQL 无头电子商务解决方案.
 
 ### Search
 
@@ -181,7 +188,7 @@
 - [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify 允许您在没有 AWS 账户的情况下部署 Lambda 函数，并直接在 Netlify 中处理函数管理.
 - [Amazon Lambda](https://aws.amazon.com/lambda/) - 让您无需配置或管理服务器即可运行代码.
 - 微软天青
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础架构.
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础设施.
   - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - 简化构建跨云服务和本地系统集成应用程序和数据的自动化可扩展工作流.
 - 谷歌云
   - [App Engine](https://cloud.google.com/appengine/) - 完全抽象基础设施的无服务器应用程序，因此您只关注代码.
@@ -200,7 +207,7 @@
 - [Elastictable](https://www.elastictable.com) - 建立在 AWS 上的后端即服务解决方案，缺少提高在线业务的成功率.
 
 
-*更完整的列表见 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
+*For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
@@ -256,7 +263,7 @@
 - [That's my Jamstack](https://thatsmyjamstack.com)
 
 ## Books
-- [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - Mathias Biilmann 和 Phil Hawksworth（由 O&#39;Reilly 出版）.
+- [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - Mathias Billmann 和 Phil Hawksworth（由 O&#39;Reilly 出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 - [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) ——克里斯托弗·佩科拉罗和文森佐·甘比诺
 - [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) ——雷蒙德·卡姆登和布赖恩·里纳尔迪

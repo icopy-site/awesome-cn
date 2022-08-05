@@ -14,7 +14,7 @@
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - 大数据流和批处理的统一平台.
 - [Apache Ballista](https://github.com/apache/arrow-datafusion/tree/master/ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
-- [Apache Flink](https://github.com/apache/flink) [Java] - 支持有状态计算、数据驱动的窗口语义和迭代流处理的高吞吐量、低延迟数据流处理系统.
+- [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - 使构建可扩展的容错流应用程序变得容易.
@@ -30,7 +30,7 @@
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure] - 分布式、无主控、高性能、容错数据处理.
 - [s4](https://github.com/apache/incubator-s4) [Java] - 通用的、分布式的、可扩展的、容错的、可插拔的平台，允许程序员轻松开发用于处理连续无界数据流的应用程序.
 - [SABER](https://github.com/lsds/Saber) [Java/C] - 基于窗口的混合 CPU/GPU 流处理引擎.
-- [Scramjet Transform Hub](https://github.com/scramjetorg/transform-hub) [JavaScript/Node.js] - 用于运行用 JavaScript 或 TypeScript 编写的多个数据处理应用程序（序列）的数据处理引擎  
+- [Scramjet Cloud Platform](https://github.com/scramjetorg/transform-hub) [Python/JavaScript/Node.js] - 用于运行用 Python、JavaScript 或 TypeScript 编写的多个数据处理应用程序（序列）的数据处理引擎 
 - [SPQR](https://github.com/ottogroup/SPQR) [Java] - 通过管道处理大量数据流的动态框架.
 - [tigon](https://github.com/caskdata/tigon) [C++/Java] - 基于 Hadoop 和 HBase 构建的高吞吐量实时流处理框架.
 - [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java] - 使用交互式原型外壳 SOL（流操作符语言）的简单优雅的流处理
@@ -50,7 +50,9 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 - [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos 是一种高性能和弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作、转换和过滤器
 - [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合式流式 I/O 库.
 - [monix](https://github.com/monix/monix) [Scala] - 用于编写异步和基于事件的程序的高性能 Scala / Scala.js 库.
-- [Scramjet Framework](https://github.com/scramjetorg/scramjet) - 在 Node.js 对象流之上编写的功能性反应流编程框架.
+- [Scramjet Node.js](https://github.com/scramjetorg/framework-js) - [Node.js] 在 Node.js 对象流之上编写的函数式反应流编程框架 + [the legacy Scramjet.js version](https://github.com/scramjetorg/scramjet)
+- [Scramjet Python](https://github.com/scramjetorg/framework-python) - [Python] 功能性反应流编程框架，从头开始编写，对对象、字符串和缓冲区流进行操作.
+- [Scramjet C++](https://github.com/scramjetorg/framework-cpp) - [C++] 在 Node.js 对象流之上编写的函数式反应流编程框架.
 - [Streamline](https://github.com/hortonworks/streamline)  [Java] - Hortonworks 的流分析框架，设计为围绕现有流解决方案（如 Storm）的包装器. 旨在允许用户拖放流组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python] - Airbnb 的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala] - 用于 Scala 的轻量级反应式流基础设施工具包.
@@ -89,7 +91,7 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 - [flume](https://github.com/apache/flume) [Java] - 用于高效收集、聚合和移动大量日志数据的分布式、可靠且可用的服务.
 - [fluvio](https://github.com/infinyon/fluvio) [Rust/WASM] - 具有在线计算能力的实时可编程数据流平台.
 - [Gazette](https://github.com/gazette/core) [golang] - 基于云存储的分布式流媒体基础设施，可以轻松混合和匹配批处理和流媒体范例.
-- [LogDevice](https://logdevice.io/) [C++] - a high-performant distributed system by Facebook for streaming and storing sequential data, using a log structure.
+- [LogDevice](https://logdevice.io/) [C++] - Facebook 的高性能分布式系统，用于流式传输和存储顺序数据，使用日志结构.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java] - 淘宝高可用、高性能的分布式消息系统
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [Go] - 快速的磁盘支持消息传递解决方案
 - [nsq](https://github.com/nsqio/nsq) [Go] - 实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
