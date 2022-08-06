@@ -116,7 +116,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.2+
 
-- [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - 官方 Godot 演示项目（TPS 演示除外）.
+- [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
 - [TPS Demo](https://github.com/godotengine/tps-demo) - 具有高质量图形的官方 Godot 第三人称射击游戏 (TPS) 演示.
 - [Godot experiments](https://github.com/MrEliptik/godot_experiments) - 几个 2D、3D 和 VR 实验.
 - [The Tower](https://github.com/Relintai/the_tower) - 基于体素的跑酷游戏，展示体素模块的功能.
@@ -136,7 +136,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [FPS Test](https://github.com/Calinou/fps-test)  - 单人 FPS 测试. 物理工作，但没有敌人，也没有适当的射击.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - 演示使用 tilemap 进行寻路的演示项目.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 让您连接到服务器并查看网络物理.
-- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
+- [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - 类似 Minecraft 的体素地形演示.
 
 ## Tutorials
@@ -207,6 +207,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - 用几个节点和几行代码制作程序声音和自适​​应/程序音乐.
 - [GodotOnReady](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 - [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
+- [godot-ply](https://github.com/jarneson/godot-ply) - 用于灰盒或原型 3D 关卡的编辑器盒建模.
 - [Godot Polygon 2D Fracture](https://github.com/SoloByte/godot-polygon2d-fracture) - 用于压裂和切割多边形的两个简单脚本.
 - [Godot-Trail-System](https://github.com/OBKF/Godot-Trail-System) - 先进的 2D/3D 轨迹系统.
 - [Godot VirtualJoystick](https://github.com/mcunha-br/Godot_VirtualJoystick) - 用于移动设备的简单虚拟操纵杆.

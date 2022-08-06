@@ -13,7 +13,7 @@
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - 大数据流和批处理的统一平台.
-- [Apache Ballista](https://github.com/apache/arrow-datafusion/tree/master/ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
+- [Apache Ballista](https://github.com/apache/arrow-ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
 - [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）的分布式流处理框架.
@@ -58,7 +58,7 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 - [Swave](https://github.com/sirthias/swave) [Scala] - 用于 Scala 的轻量级反应式流基础设施工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python] - 用于构建管道以管理连续数据流的轻量级库； 支持涉及分支、连接、流量控制、反馈、背压等复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - 一个完全可嵌入的数据流引擎和 Java 流处理 API.
-- [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 Python 库. 支持使用模仿复杂事件处理器的 python 生成器构建的同步、反应性数据流，以及惰性求值的无环图和函数式柯里化流.
+- [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 Python 库. 支持使用模仿复杂事件处理器的 python 生成器构建的同步、反应性数据流，以及延迟评估的无环图和函数式柯里化流.
 - [YoMo](https://github.com/yomorun/yomo)  [Go] - 用于构建低延迟地理分布式系统的开源流式无服务器框架.  YoMo 建在上面 [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) 和功能响应式编程接口. 
 
 ### Streaming Application
@@ -69,7 +69,7 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 ### IoT
 
 - [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - 用于物联网的轻量级流处理引擎.
-- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，可在网关和边缘设备上实现持续流分析，这些设备可以与集中式系统一起使用，在整个物联网生态系统中提供高效和及时的分析：从中心到边缘，由 IBM 开源.
+- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，可在网关和边缘设备上实现持续流式分析，这些设备可以与集中式系统配合使用，在整个物联网生态系统中提供高效和及时的分析：从中心到边缘，由 IBM 开源.
 - [Apache StreamPipes](https://github.com/apache/incubator-streampipes) [Java] - 一个自助（工业）物联网工具箱，使非技术用户能够连接、分析和探索物联网数据流.
 
 ### DSL
