@@ -31,7 +31,7 @@
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - 它侧重于计算的重大基本问题，以及理解算法的力量和局限性如何帮助我们开发工具，使现实世界的计算机更智能、更快、更安全.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
-- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
+- [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - 自动机、语言和计算理论主题的本科介绍性教科书.
 - [Barak. Introduction to TCS](https://introtcs.org/public/index.html)  - 为本科生介绍理论计算机科学的现代、简短且易于理解的文本. 它包括标准本科教科书中通常不包含的主题.
 ### Puzzles and Problem Sets<a name=theory_of_computation_introductory_puzzles_and_problem_sets></a>
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - 自动机、语言和复杂性的问题集文本.
@@ -110,7 +110,7 @@
 - [Shalev-Shwartz. Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6) - 它对机器学习的基本思想和将这些原理转化为实用算法的数学推导提供了广泛的理论说明.
 ## Workshops<a name=machine_learning_theory_workshops></a>
 - [Simons Institute. Foundations of Deep Learning Program](https://simons.berkeley.edu/programs/dl2019)  - 将理论和应用研究人员集中在建立与经验相关的深度学习理论基础的共同目标上. 具体而言，其目的是识别挑战并取得进展，这些挑战一方面是指导深度学习在现实世界中使用的关键，另一方面可以使用理论方法来解决.
-- [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - Identifying a set of core techniques and principles that form a foundation for the subject.
+- [Simons Institute. Foundations of Data Science](https://simons.berkeley.edu/programs/datascience2018) - 确定构成该主题基础的一组核心技术和原则.
 - [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - 旨在扩大计算机科学理论在机器学习中的影响力和影响力.
 - [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
 - [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288)  - 形式化方法和机器学习可以从演绎和归纳推理的角度相互了解. 本讲座旨在通过建立学习理论中的一些基本概念来促进两个社区之间的对话.
@@ -132,17 +132,17 @@
 - [Brown. Resources list for game theory](http://cs.brown.edu/courses/cs1951k/lectures/) - 助教的这些笔记在很大程度上基于 Tim Roughgarden 在斯坦福大学的 CS 364A 和 CS 364B 课程的讲义和随附视频，以及 Jason Hartline 的机械设计和近似教科书.
 - [Fang. Advanced Topics in Machine Learning and Game Theory](https://feifang.info/advanced-topics-in-machine-learning-and-game-theory-fall-2021/) - 涵盖机器学习和博弈论交叉主题的研究生课程.
 - [Xu. Topics in Learning and Game Theory](http://www.haifeng-xu.com/cs6501sp21/index.htm) - 涵盖机器学习和博弈论之间接口主题的研究生水平课程.
-- [Tim Roughgarden. Foundations of Blockchains](https://timroughgarden.github.io/fob21/)  - 区块链协议的科学和技术以及建立在它们之上的应用程序，强调基本原则而不是特定协议.  - 也可以看看 [Lecture Videos](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
+- [Tim Roughgarden. Foundations of Blockchains](https://timroughgarden.github.io/fob21/) - The science and technology of blockchain protocols and the applications built on top of them, with an emphasis on fundamental principles rather than specific protocols. - See also [Lecture Videos](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 ## Books<a name=game_theory_books></a>
 - [Apt & Grädel. Lectures in Game Theory for Computer Scientists](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lectures-game-theory-computer-scientists) - 游戏为交互提供了数学模型，计算机科学中的许多任务都可以用博弈论的术语来表述.
 - [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 均衡算法方法、机制设计和组合拍卖的基本章节之后是重要博弈论应用的章节，如激励和定价、成本分摊、信息市场和密码学和安全性.
 ## Workshops<a name=game_theory_workshops></a>
 - [Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015)  - 交叉点的动机是大规模数字拍卖和市场等应用，以及纳什均衡的计算复杂性以及机制设计中的复杂性和近似性等基本问题. 此外，为了有效地建模和研究互联网及其新颖的计算现象，可以从博弈论和经济理论中获得模型和见解. 另一方面，计算的观点对于理解市场网络化并且经济交易的默认平台是算法的世界至关重要.
 - [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - 交叉点表现在（1）机器学习算法的数据输入由自利方生成，（2）机器学习用于优化经济系统或行为，（3）关键系统中使用的机器学习模型变得越来越容易对抗性攻击，以及（4）几种机器学习方法可以被定义为寻找游戏的平衡.
-- [Eva Tardos. Learning and Efficiency in Games](https://simons.berkeley.edu/events/openlectures2015-fall-1) - How to quantify the impact of strategic user behavior on overall performance in games including traffic routing as well as online auctions.
+- [Eva Tardos. Learning and Efficiency in Games](https://simons.berkeley.edu/events/openlectures2015-fall-1) - 如何量化战略用户行为对游戏整体性能的影响，包括流量路由和在线拍卖.
 ## Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
-- [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php)  - 带我们了解广泛的科学知识和相关技术：古希腊人的命题逻辑（微处理器）； 量子力学（硅芯片）； 网络和系统现象（互联网和搜索引擎）； 计算难处理性（安全加密）； 和有效的算法（基因组测序）.
+- [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php)  - 带我们了解广泛的科学知识和相关技术：古希腊人的命题逻辑（微处理器）； 量子力学（硅芯片）； 网络和系统现象（互联网和搜索引擎）； 计算难处理性（安全加密）； 和高效的算法（基因组测序）.
 ## Books<a name=physics_books></a>
 - [Feynman. Feynman And Computation: Exploring The Limits Of Computers](https://www.taylorfrancis.com/books/feynman-computation-anthony-hey/e/10.1201/9780429500459)
 - Feynman 的计算课程 - 另见 Preskill 40 年后的更新 [here](https://arxiv.org/abs/2106.10522)
@@ -172,7 +172,7 @@
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 为专业计算机科学家提供的一份简明扼要的数理逻辑参考资料.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
 - [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221)  - 面向低年级本科生，以基础为重点，向读者介绍逻辑、证明、集合和数论. 它提供了正式证明的完整细节和推导.
-- [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4)
+- [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4) - 适用于本科逻辑入门和早期研究生逻辑课程.
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - 使用语义画面是因为它们在理论上合理且易于理解.
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - 使用您对编程和软件思想的熟悉来教授数学.
 - [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学本科课程提供坚实的基础，从复习数字系统及其与数字计算机的相关性开始，最后以微积分和积分结束.
@@ -195,7 +195,7 @@
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - 对离散数学的所有主题及其与计算和通信工程的相关性的完整调查.
 - [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - 组合技术主要着眼于它们在 TCS 中的应用，主要是复杂性
 - [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - 它使读者对计算中的离散数学有一个可操作的概念和方法论的理解
-- [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158)  - 它试图改变我们向初学者教授逻辑的方式. 我们没有将逻辑作为一门孤立的学科进行教学，而是将其视为一种基本工具并展示如何使用它.
+- [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
 - [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371)  - 介绍组合学、有限微积分、形式级数、递归和总和近似值. 读者还可以深入了解在一本书中很少考虑的一系列不太常见的主题.
 ### MOOC<a name=mathlogic_preliminaries_discrete_mathematics_mooc></a>
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics)  - 学习计算机科学的语言. 学习定义计算机科学的数学，并通过数学证明和 Python 代码练习应用它.
@@ -216,12 +216,12 @@
 - [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html)  - 在线非正式会谈，专门讨论计算复杂性理论和相关领域感兴趣的话题. 目标是作为讨论和快速传播结果的论坛.
 - [Simons' Public Lectures](https://simons.berkeley.edu/programs) - 旨在最大化整个理论计算机科学界的影响和参与的计划、活动和研讨会.
 - [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - 旨在对计算机科学中的基本问题进行数学理解，并利用这种理解来产生更好的算法、协议和系统，并确定高效计算的固有局限性.
-- [CCC 22](https://www.youtube.com/playlist?list=PLIgnAi1_K6YGqJQVtx2EowWXwVAnU24x3) | [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists)
+- [CCC 22](https://www.youtube.com/playlist?list=PLIgnAi1_K6YGqJQVtx2EowWXwVAnU24x3) | [ICALP](https://eatcs.org/index.php/conferences) | [ITCS 2022](https://www.youtube.com/playlist?list=PLgKuh-lKre13VY4AJCOK5Nx8ghscvpGrE) | [ITCS 2022 Pre-recorded](https://www.youtube.com/playlist?list=PLgKuh-lKre11M2GCKkTySipbMIxXqKzkE) | [STOC 2021](https://www.youtube.com/playlist?list=PLXjzCrdVznQKezRe9V4feOaTF95wdLyNN) | [FOCS 2021](https://www.youtube.com/channel/UClrteoQ-ULzlZZaWi6c6iKw) | [ITCS 2021](https://www.youtube.com/playlist?list=PLgKuh-lKre12JHHIMp3EHQSO8Z_62TnNQ) | [STOC 2020](https://www.youtube.com/playlist?list=PLn0nrSd4xjjadfcMd5xvmJ_GNSLDi1ATn) | [FOCS 2020](https://www.youtube.com/channel/UCSpAMJ70rngnq9_jkxXJvoQ/playlists).
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
  - ACM AM 图灵奖得主访谈. 伯克利 - 采访伯克利的图灵奖得主.  - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
  - 80 年代的伯克利 - 采访伯克利理论计算机科学领域的知名人士.  - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
 - [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - 填充计算理论的简短可访问视频.
- - Lex Podcast - 非正式讨论播客.  - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- Lex Podcast - Informal discussions podcast. - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
 - [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - 研讨会的集合.
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍 TCS 的高级故事及其与其他领域的交叉点.
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - 调查、教程、会议报告、活动、未解决的问题和解决方案、博士论文和有趣的贡献.
@@ -255,8 +255,8 @@
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM 的学生杂志计算理论特刊.
 - [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - TCS 领域的近期成就和新挑战.
 ## Popular Science Books<a name=other_resources_popular_science_books></a>
-- [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法含义.
-- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and theinterpretation of quantum mechanics.
+- [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他领域所做的一切的算法含义.
+- [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 从古代德谟克利特开始，它通过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容和量子力学的解释进展.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality 呈现出惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - 根据图灵的计算世界，一个交互式辅导程序，告诉命运多舛的恋人：一部小说.
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) - Alan Turing 关于可计算性和图灵机的历史论文的导览.
@@ -272,5 +272,5 @@
 - [Algorithms](https://github.com/tayllan/awesome-algorithms) - 算法设计和分析的真棒列表
 - [Mathematics](https://github.com/rossant/awesome-math) - 很棒的免费数学讲义列表
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - 很棒的密码学列表
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算列表
-- PS 另请参阅 [Math](https://github.com/ossu/math) 和 [CS](https://github.com/ossu/computer-science) 课程由 [Open Source Society University](https://github.com/ossu)
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算清单
+- PS 另请参阅 [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) 课程由 [Open Source Society University](https://github.com/ossu)

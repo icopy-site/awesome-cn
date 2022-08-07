@@ -29,7 +29,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3.1
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) - 简单的自上而下的移动平台游戏.
-- [Circle Jump](https://github.com/kidscancode/circle_jump)  - 手机街机游戏，令人上瘾且令人愉快. 提供了如何制作的教程，因此您可以自己重新创建它并学习 Godot.
+- [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
 - [Haldric](https://github.com/wesnoth/haldric) - 韦诺之战的官方正在进行中的重新实施.
 - [SealedBite](https://github.com/securas/SealedBite) - 2D 平台游戏，2019 年 GitHub Game Off jam 的获胜者.
 - [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Unknown Horizo​​​​ns的官方正在进行中的重新实施.
@@ -175,6 +175,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Input Helper](https://github.com/nathanhoad/godot_input_helper) - 检测输入设备和重新映射控件的助手（Godot 3.x）.
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster 软件的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 1000× 中的编码体验更加荒谬（Godot 3.x）.
+- [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 用一行代码（Godot 3.x、4.0.alpha）制作漂亮且可定制的场景转换.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 一个滚动的背景节点（Godot 2.1,3.x）.
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 一个模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏（Godot 3.x）.
@@ -336,7 +337,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *这些构建将允许您使用最新版本的 Godot Git，但它们可能不如官方版本稳定 - 使用风险自负.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - 主要是master分支，其他分支可以找到 [here](https://archive.hugo.pro/builds/godot/).
-- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app)), master branch only.
+- [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app))，仅主分支.
 - [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM 为 Raspberry Pi 4 构建 Godot 引擎.
 
 ## Bash scripts
@@ -365,6 +366,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - 将 GDScript 翻译成 GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用 Node.js 与 Godot 客户端通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
-- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于处理 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
+- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于使用 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 为 RetroPie 安装 Godot“模拟器”的脚本模块.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.

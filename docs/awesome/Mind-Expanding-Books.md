@@ -40,6 +40,7 @@
  | 钉它然后扩展它：创造和管理突破的企业家指南| 内森·弗尔 | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 |
  | 异常值：成功的故事 | 马尔科姆·格拉德威尔 | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
  | 定价策略和策略：提高盈利能力的指南托马斯·纳格尔、约翰·霍根、约瑟夫·扎尔 | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
+ | 原则：生活和工作 | 雷·达里奥 | [4.07](https://www.goodreads.com/book/show/34536488-principles) | 2017 |
  | 从为什么开始：伟大的领导者如何激励每个人采取行动 | 西蒙·西内克 | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
  | 离开微软改变世界：企业家教育世界儿童的奥德赛| 约翰伍德 | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
  | 黑客和画家 | 保罗·格雷厄姆 | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
@@ -49,7 +50,7 @@
  | 全心投入的力量：管理精力而不是时间是高绩效和个人更新的关键| 吉姆·洛尔，托尼·施瓦茨 | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |  
  | 清单宣言：如何把事情做好 | 阿图尔·加万德 | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |  
  | 好主意从何而来| 史蒂文·约翰逊 | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
- | 传递幸福：通往利润、激情和目标的途径 | 托尼·谢 | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
+ | 传递幸福：通往利润、激情和目标的途径| 托尼·谢 | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  | 创新者的困境 | 克莱顿米克里斯滕森 | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
  | 影响者：引领变革的新科学 | 约瑟夫·格伦尼，克里·帕特森 | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
  | 重新审视电子神话：为什么大多数小型企业不工作以及如何应对| 迈克尔·E·格柏 | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
@@ -76,7 +77,7 @@
  |  100 美元的创业公司：重塑你的谋生方式，做你喜欢做的事，创造一个新的未来 | 克里斯·吉勒博 | [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
  | 大到不能倒| 安德鲁·罗斯·索尔金 | [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |  
  | 选择的悖论：为什么更多就是更少| 巴里·施瓦茨 | [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |  
- | 开始的艺术：任何开始任何事情的人都经过时间考验、久经考验的指南 | 盖伊川崎 | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
+ | 开始的艺术：任何开始任何事情的人都经过时间考验、久经沙场的指南 | 盖伊川崎 | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
  | 众包：为什么群众的力量正在推动商业的未来杰夫豪 | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |  
  | 认知盈余：互联时代的创造力和慷慨粘土雪琪 | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |  
  | 数据驱动 |  DJ 帕蒂尔 | [3.80](https://www.goodreads.com/book/show/24780653-data-driven) | 2015 |
@@ -150,7 +151,7 @@
  | 囚徒困境 | 威廉庞德斯通 | [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 |
  | 思想的东西：语言作为进入人性的窗口| 史蒂文·平克 | [3.90](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) | 2007 |  
  | 一致性：知识的统一 | 爱德华·O·威尔逊 | [3.90](https://www.goodreads.com/book/show/55981.Consilience) | 1999 |  
- | 为什么我们会犯错误：我们如何在没有看到的情况下，在几秒钟内忘记事情，并且非常肯定我们远远高于平均水平| 约瑟夫·T·哈利南 | [3.87](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) | 2009 |  
+ | 为什么我们会犯错误：我们如何在没有看到的情况下看，在几秒钟内忘记事情，并且都非常确定我们远高于平均水平| 约瑟夫·T·哈利南 | [3.87](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) | 2009 |  
  | 你只是不明白：对话中的女人和男人| 黛博拉·坦南 | [3.86](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) | 2007 |  
  | 只是论点：西方哲学中最重要的100个论点| 迈克尔·布鲁斯，史蒂文·巴本 | [3.85](https://www.goodreads.com/book/show/12838972-just-the-arguments) | 2011 |  
  | 狗看到了什么：和其他冒险| 马尔科姆·格拉德威尔 | [3.82](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) | 2009 |  
@@ -298,7 +299,7 @@
  | 正心：为何政教分离好人| 乔纳森·海特 | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |  
  | 在他们自己的土地上的陌生人：美国权利的愤怒和哀悼|  Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |  
  | 游戏变革：奥巴马和克林顿夫妇、麦凯恩和佩林，以及一生的竞赛 | 约翰·海勒曼，马克·哈珀林 | [4.10](https://www.goodreads.com/book/show/6694937-game-change) | 2010 |  
- | 波罗波罗 | 下午 | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
+ | 已经 | 下午 | [4.05](https://www.goodreads.com/book/show/12395170-bolo-bolo) | 1984 |  
  | 理性选民的神话：为什么民主国家选择糟糕的政策布莱恩·卡普兰 | [3.96](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) | 2007 |  
  | 欺骗的艺术：控制安全的人为因素| 凯文 D. 米特尼克 | [3.76](https://www.goodreads.com/book/show/18160.The_Art_of_Deception) | 2003 |  
  | 资源战争：全球冲突的新格局| 迈克尔·克莱尔 | [3.73](https://www.goodreads.com/book/show/149206.Resource_Wars) |2001  |  
@@ -350,7 +351,7 @@
 |------|--------|------------------|----------------|
  | 受过教育：回忆录| 塔拉韦斯特弗| [4.47](https://www.goodreads.com/book/show/35133922-educated) | 2018 |
  | 头脑风暴：儿童、计算机和强大的想法 |  Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
- | 小王子 | 安托万·德·圣埃克苏佩里 | [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
+ | 小王子 | 安托万·德·圣埃克苏佩里 | [4.31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
  | 孩子如何失败 | 约翰霍尔特 | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
  | 深度工作：在分心的世界中集中成功的规则| 卡尔纽波特 | [4.20](https://www.goodreads.com/book/show/25744928-deep-work) | 2016 |
  | 坚持下去：成功学习的科学 |  Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
@@ -420,7 +421,7 @@
  | 悉达多 | 赫尔曼·黑塞 | [4.03](https://www.goodreads.com/book/show/52036.Siddhartha) | 1922 |  
  | 安娜卡列尼娜 | 托尔斯泰 | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 1878 |  
  | 荒凉的房子 | 查尔斯狄更斯 | [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 1853 |  
- | 控告| 埃米尔·左拉 | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1898 |  
+ | 我指责 | 埃米尔·左拉 | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1898 |  
  | 第 22 条军规 | 约瑟夫·海勒 | [3.98](https://www.goodreads.com/book/show/4610.Catch_22) | 1961 |  
  | 欢乐之家 | 伊迪丝·沃顿 | [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 1905 |  
  | 面具的自白 | 三岛由纪夫 | [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1949 |  
@@ -437,7 +438,7 @@
  | 坦率 | 伏尔泰| [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1759 |  
  | 阿特拉斯耸耸肩 | 安兰德 | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
  | 包法利夫人 | 古斯塔夫·福楼拜 | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 1856 |  
- | 忏悔 | 让·雅克·卢梭 | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 1782 |  
+ | 自白 | 让-雅克·卢梭 | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 1782 |  
  | 波斯字母 | 孟德斯鸠 | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) | 1721 |  
  | 导演 | 大卫伊格内修斯 | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
 

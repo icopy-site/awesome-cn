@@ -30,6 +30,8 @@
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)  - ***麻省理工学院***.  Armando Solar-Lezama 的程序综合基础课程.
 
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***和***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf) ]. 关于应用结构、程序和元语言抽象来解决计算问题的经典课程.
+
 
 ### Programming
 
@@ -893,7 +895,7 @@
 
 * [With or Without U? The Appropriate Test for a U-Shaped Relationship](https://mpra.ub.uni-muenchen.de/4823/1/MPRA_paper_4823.pdf) - ***牛津经济与统计公报***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=1574723532506536904&hl=en&as_sdt=0,5) ]. 从数据中测试U型关系的原始方法，与二次回归测试不同.
 
-* [Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions](https://journals.sagepub.com/doi/pdf/10.1177/2515245918805755) - ***Advances in Methods and Practices in Psychological Science***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12010185803500406162&hl=en&as_sdt=0,5) ]. 测试 U 形关系的统计显着性的另一种方法.
+* [Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions](https://journals.sagepub.com/doi/pdf/10.1177/2515245918805755) - ***心理科学方法和实践的进步***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=12010185803500406162&hl=en&as_sdt=0,5) ]. 测试 U 形关系统计显着性的另一种方法.
 
 
 #### Scaling Up Behavioral Studies
@@ -1035,7 +1037,7 @@
 <span id = "tom"></span>
 ### Theory of Mind
 
-* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***. 关于心智理论 (ToM) 的维基百科，一种估计他人目标、信念和欲望的认知能力.
+* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***.  Wikipedia on Theory of Mind (ToM)，一种估计他人目标、信念和欲望的认知能力.
 
 <!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***柏拉图斯坦福***.
 
@@ -1347,7 +1349,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，它是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1393,6 +1395,8 @@
 * [A probabilistic model of theory formation](http://www.charleskemp.com/papers/kemptng09.pdf) - ***认知***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=7705799129887482041&hl=en&as_sdt=0,5)].
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072) - ***认知***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302&hl=en&as_sdt=0,5)].
+
+* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思想和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
 
 * [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***心理评论***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
 

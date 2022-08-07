@@ -20,7 +20,7 @@
 - [GraphQL](https://github.com/graphql/graphql-spec) - GraphQL 规范的工作草案.
 - [GraphQL over HTTP](https://github.com/graphql/graphql-over-http) - “GraphQL over HTTP”规范的工作草案.
 - [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - 符合中继的 GraphQL 服务器规范.
-- [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
+- [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD 是数据库的 GraphQL CRUD API 规范.
 - [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - 阿波罗联盟规范
 
 <a name="foundation" />
@@ -110,7 +110,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小钩子优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 进行缓存.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
 
 #### Servers
 
@@ -156,6 +156,7 @@
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
 - [graphql-modules](https://github.com/Urigo/graphql-modules) - 按模块或功能将 GraphQL 服务器分成更小、可重用的部分.
 - [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
+- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - 用于 Node.js 的具有查询复杂性分析的 GraphQL 限速库
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - 一个 webpack 加载器，用于直接从 GraphQL 文档导入受类型保护的代码生成结果
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - 所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
 - [graphql-cli](https://github.com/urigo/graphql-cli) - 用于常见 GraphQL 开发工作流程的命令行工具.
@@ -206,7 +207,7 @@
 ### Ruby
 
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Facebook 的 GraphQL 的 Ruby 实现.
-- [graphql-client](https://github.com/github/graphql-client) - 用于声明、组合和执行 GraphQL 查询的 Ruby 库.
+- [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 - [graphql-batch](https://github.com/Shopify/graphql-batch) - graphql gem 的查询批处理执行器.
 - [graphql-auth](https://github.com/o2web/graphql-auth) - 与设计一起使用的 JWT 身份验证包装器.
 - [agoo](https://github.com/ohler55/agoo) - 实现 Facebook 的 GraphQL 的 Ruby Web 服务器.
@@ -258,7 +259,7 @@
 - [django-graphiql](https://github.com/GraphQL-python-archive/django-graphiql) - 将 GraphiQL 轻松集成到您的 Django 项目中.
 - [flask-graphql](https://github.com/graphql-python/flask-graphql) - 为您的 Flask 应用程序添加 GraphQL 支持.
 - [python-graphql-client](https://github.com/prisma/python-graphql-client) - 适用于 Python 2.7+ 的简单 GraphQL 客户端
-- [python-graphjoiner](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
+- [python-graphjoiner](https://github.com/healx/python-graphjoiner) - 使用连接、SQL 或其他方式创建 GraphQL API.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - 石墨烯的 Django 集成.
 - [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - 受 flask-jwt-extended 启发的 Flask 身份验证库.
 - [tartiflette](https://github.com/dailymotion/tartiflette) - GraphQL 实现，SDL 首先，用于 python 3.6+ / asyncio.
@@ -544,7 +545,7 @@
 
 ### Crystal
 
-- [graphql](https://github.com/graphql-crystal/graphql) - GraphQL 服务器库.
+- [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library.
 - [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - 图书馆灵感来自 [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser).
 - [crystal-gql](https://github.com/itsezc/crystal-gql) - 受 Apollo 客户端启发的 GraphQL 客户端分片.
 - [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL 分片.
@@ -634,7 +635,6 @@
 - [FaunaDB](https://fauna.com) - 关系型 NoSQL 数据库 [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) 支持无服务器按使用付费定价的联接、索引和多区域 ACID 事务.
 - [ArangoDB](https://arangodb.com/) - 原生多模型数据库 [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) 通过内置 [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
 - [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate 是一个云原生、模块化、实时矢量搜索引擎，具有 [GraphQL interface](https://www.semi.technology/developers/weaviate/current/graphql-references/) 旨在扩展您的机器学习模型.
-- [Back4App](https://www.back4app.com/graphql-database) - 在几分钟内使用 GraphQL API 构建可扩展的数据库.
 - [LunaSec](https://www.lunasec.io/) - 用于加密/标记敏感数据的键值数据库 [GraphQL support](https://www.lunasec.io/docs/pages/getting-started/dedicated-tokenizer/graphql/) 授权请求.  - [Source Code](https://github.com/lunasec-io/lunasec)
 
 <a name="services" />
@@ -657,6 +657,7 @@
 ### CMS
 
 - [DatoCMS](https://www.datocms.com/) - 基于 CDN 的基于 GraphQL 的无头内容管理系统.
+- [Apito](https://apito.io/) - 基于云的无头 CMS，具有 CDN、Webhook、团队协作、内容修订、云功能.
 - [GraphCMS](https://graphcms.com/) - 基于 GraphQL 的无头内容管理系统.
 - [Cosmic](https://www.cosmicjs.com/) - GraphQL 驱动的 Headless CMS 和 API 工具包.
 
@@ -665,7 +666,6 @@
 ## Books
 
 - [The GraphQL Guide](https://graphql.guide) 作者：John Resig 和 Loren Sands-Ramshaw
-- [Learning GraphQL](https://www.amazon.com/dp/1492030716) 由 Eve Porcello 和 Alex Banks
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) 布鲁斯·威廉姆斯和本·威尔逊
 - [The Road to GraphQL](https://www.roadtographql.com/)
 - [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) 朱利安·马约加
@@ -732,7 +732,6 @@
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
-- [How to secure a GraphQL API (The Complete Vulnerability Checklist)](https://leapgraph.com/graphql-api-security)
 - [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
 
 <a name="post" />
