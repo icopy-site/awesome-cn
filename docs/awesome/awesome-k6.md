@@ -60,7 +60,7 @@
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
   - [What is K6 & How to get started with k6](https://www.youtube.com/watch?v=ZAq87eZ1w2U) - 通过“Is it Observable”使用 k6 Extensions for Observability 的教程
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
-  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者：Chris James.
+  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者 Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 简介. 
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas 在 2021 年云峰会上.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf 使用 GitHub co-pilot 编写 k6 测试.
@@ -93,7 +93,8 @@
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从 IDE 运行 k6 的市场扩展.
 - [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
-
+- [k6-junit](https://github.com/simbadltd/k6-junit) - k6 JUnit 摘要导出器库.
+- [k6-expect](https://github.com/simbadltd/k6-expect) - k6 库，通过为期望提供类似玩笑的语法，以功能方式简化编写测试.
 
 ## CI
 - [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - 在 GitHub Actions 中运行 k6 的市场操作.

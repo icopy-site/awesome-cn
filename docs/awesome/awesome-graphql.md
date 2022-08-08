@@ -110,7 +110,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小钩子优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 进行缓存.
 
 #### Servers
 
@@ -182,7 +182,7 @@
 
 - [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - 使用 React、Relay、GraphQL 和 JAM 堆栈架构的前端入门套件.
 - [SWAPI GraphQL Wrapper](https://github.com/graphql/swapi-graphql) - 一个 GraphQL 模式和服务器包装 SWAPI.
-- [Relay TodoMVC](https://github.com/taion/relay-todomvc) - 使用路由中继 TodoMVC.
+- [Relay TodoMVC](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
 - [Apollo Client documentation](https://www.apollographql.com/react/) - 使用 apollo 客户端构建 GraphQL 应用程序的文档和示例.
 - [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - 用于构建 GraphQL 服务器和连接到 SQL、MongoDB 和 REST 端点的文档、教程和示例.
 - [F8 App 2017](https://github.com/fbsamples/f8app) - 2016 年官方 F8 应用的源代码，由 React Native 和其他 Facebook 开源项目提供支持.
@@ -207,7 +207,7 @@
 ### Ruby
 
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Facebook 的 GraphQL 的 Ruby 实现.
-- [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
+- [graphql-client](https://github.com/github/graphql-client) - 用于声明、组合和执行 GraphQL 查询的 Ruby 库.
 - [graphql-batch](https://github.com/Shopify/graphql-batch) - graphql gem 的查询批处理执行器.
 - [graphql-auth](https://github.com/o2web/graphql-auth) - 与设计一起使用的 JWT 身份验证包装器.
 - [agoo](https://github.com/ohler55/agoo) - 实现 Facebook 的 GraphQL 的 Ruby Web 服务器.
@@ -221,7 +221,7 @@
 - [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用 GitHub 的 GraphQL API 的示例 Rails 应用程序.
 - [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 用于带有 Rails GraphQL 服务器的 Relay 应用程序的准系统入门套件.
 - [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - 由 graphql、relay 和标准 rails 应用程序驱动的演示博客.
-- [to_eat_app](https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
+- [to_eat_app](https://github.com/jcdavison/to_eat_app) - 带有相关 3 部分文章系列的示例 graphql/rails/relay 应用程序.
 - [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用 Agoo 服务器演示一个简单的 GraphQL 应用程序.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - 带有设计、graphql 和 JWT 身份验证的 rails 6 样板.
 
@@ -250,8 +250,7 @@
 ### Python
 
 - [graphql-parser](https://github.com/tryolabs/graphql-parser) - 用于 Python 的 GraphQL 解析器.
-- [graphql-core](https://github.com/graphql-python/graphql-core) - 基于 GraphQL.js v0.6.0 参考实现的 Python GraphQL 实现
-- [graphql-core-next](https://github.com/graphql-python/graphql-core-next) - 基于 GraphQL.js v14.5.6 参考实现的最新 GraphQL 实现
+- [graphql-core](https://github.com/graphql-python/graphql-core) - 基于 GraphQL.js v16.3.0 参考实现的 Python GraphQL 实现
 - [graphql-relay-py](https://github.com/graphql-python/graphql-relay-py) - 帮助构建支持 react-relay 的 graphql-py 服务器的库.
 - [graphql-parser-python](https://github.com/tallstreet/graphql-parser-python) - 一个围绕 libgraphqlparser 的 python 包装器.
 - [graphene](https://github.com/graphql-python/graphene) - 一个以 Pythonic 简单的方式创建 GraphQL 模式/类型的包.
@@ -286,7 +285,7 @@
 - [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - 自动生成用于 GraphQL Java 的类型
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)  - 将 POJO 转换为 GraphQL Java 可查询对象集的模式生成和执行包. 允许使用注释将任何服务公开为 GraphQL 服务.
 - [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 为使用 GraphQL Java 的模式定义提供基于注释的语法.
-- [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)  - Schema-first graphql-java 便利库，可以轻松地将您自己的实现作为数据解析器. 灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) 对于 JS.
+- [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers. Inspired by [graphql-tools](https://github.com/apollographql/graphql-tools) 对于 JS.
 - [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin)  - 用于生成 Java 类型和解析器接口的模式优先 maven 插件. 与 graphql-java-tools 完美结合. 灵感来自 [swagger-codegen-maven-plugin](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin).
 - [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin)  - 用于生成 Java 类型和解析器接口的模式优先 gradle 插件. 与 graphql-java-tools 完美结合. 灵感来自 [gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin).
 - [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 一个与框架无关的 java servlet，用于通过 GET、POST 和分段上传公开 graphql-java 查询端点.
@@ -357,7 +356,7 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的 Relay 应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - A GraphQL schema and server that demonstrates GraphQL [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 
 <a name="scala" />
 
@@ -545,7 +544,7 @@
 
 ### Crystal
 
-- [graphql](https://github.com/graphql-crystal/graphql) - GraphQL server library.
+- [graphql](https://github.com/graphql-crystal/graphql) - GraphQL 服务器库.
 - [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - 图书馆灵感来自 [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser).
 - [crystal-gql](https://github.com/itsezc/crystal-gql) - 受 Apollo 客户端启发的 GraphQL 客户端分片.
 - [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL 分片.
@@ -574,6 +573,7 @@
 
 ### Tools - Security
 
+- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - 用于 GraphQL 的一体化自动化渗透测试工具包，用 Python 编写
 - [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键安全扫描您的 GraphQL 端点. 免费，无需登录.
 - [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
@@ -585,7 +585,7 @@
 
 ### Tools - Browser Extensions
 
-- [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - Chrome 开发者控制台中 Apollo 客户端的 GraphQL 调试工具
+- [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - GraphQL debugging tools for Apollo Client in the Chrome developer console
 - [GraphQL Network](https://github.com/Ghirro/graphql-network) - 用于调试 GraphQL 网络请求的 chrome 开发工具扩展.
 
 ### Tools - Prototyping

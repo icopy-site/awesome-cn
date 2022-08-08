@@ -16,6 +16,7 @@
 
 ### 2022
 1. [**CSS Variable Secrets**](https://www.youtube.com/watch?v=ZuZizqDF4q8): Lea Verou，CSS 日`59:06`
+1. [**Oh Snap!**](https://www.youtube.com/watch?v=34zcWFLCDIc)：亚当·阿盖尔，CSS 日`49:46`
 
 
 ### 2020

@@ -109,7 +109,7 @@
 
 ## Community
 
-- [Gatling User Group](https://groups.google.com/forum/#!forum/gatling)
+- [Gatling Community](https://community.gatling.io/)
 - [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-plugin)
 - [`@GatlingTool` on Twitter](https://twitter.com/gatlingtool)
 

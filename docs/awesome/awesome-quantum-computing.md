@@ -109,12 +109,12 @@
 - [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum 开发更新. 
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson 对量子计算的看法很重要.
 - [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - 没有大肆宣传量子硬件发展的博客. 
-- [The Quantum Daily](https://thequantumdaily.com/) - 量子计算最新消息的出口，为研究科学家和好奇的周日报纸读者提供文章.
+- [The Quantum Daily](https://thequantumdaily.com/) - Outlet for the latest news in quantum computing, presenting articles for both research scientists and the curious Sunday newspaper reader.
 - [xa0](https://blog.xa0.de/list) - 新的研究和深入研究量子计算优化.
 
 ## Books
 - [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/)  - 在可访问性和数学严谨性之间取得了极好的平衡. 它适合本科生.
-- [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
+- [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - 介绍经典和量子计算的基础知识.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - 量子计算如何工作以及它如何改变世界.
 - [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/)  - 介绍性量子计算教科书. 唯一的先决条件是三角学，它会一路教授数学.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook)  - 一本涵盖量子算法并展示如何使用 Qiskit 在真实硬件上运行它们的开源教科书. 还涵盖了先决条件.
@@ -171,6 +171,9 @@
 - [Meet the meQuanics](https://soundcloud.com/mequanics) - 采访关键量子计算人物，针对非专业人士.
 - [Quantum Computing Now](https://anchor.fm/quantumcomputingnow) - Ethan Hansen 的播客涵盖三个主要主题：量子计算的基础知识、采访和最新消息.
 - [The Qubit Guy's Podcast](https://www.classiq.io/insights#podcasts) - Yuval Boger 的播客来自 [Classiq Technologies](https://www.classiq.io) 来自量子计算行业的思想领袖.
+
+
+- [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - 一个包含葡萄牙语量子计算精选内容的存储库.
 
 ## License
 

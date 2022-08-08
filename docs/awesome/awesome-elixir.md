@@ -203,7 +203,7 @@
 * [bodyguard](https://github.com/schrockwell/bodyguard) - Phoenix 应用程序的灵活授权库.
 * [canada](https://github.com/jarednorman/canada) - 一个简单的授权库，使用声明性权限规则提供友好的界面.
 * [canary](https://github.com/cpjk/canary)  - Elixir 应用程序的授权库，用于限制允许当前用户访问的资源.  ([Docs](https://hexdocs.pm/canary/api-reference.html)).
-* [speakeasy](https://github.com/coryodaniel/speakeasy) - 基于中间件的 Absinthe GraphQL 身份验证和授权，由 Bodyguard 提供支持.
+* [speakeasy](https://github.com/coryodaniel/speakeasy) - 由 Bodyguard 提供支持的 Absinthe GraphQL 基于中间件的身份验证和授权.
 * [terminator](https://github.com/MilosMosovsky/terminator)  - 基于数据库的授权 (ACL)，具有用于需要所需权限的自定义 DSL 规则.  ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ## Behaviours and Interfaces
@@ -312,7 +312,7 @@
 * [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) - 用于 Leaseweb 基础设施的 Elixir Wrapper.
 * [libcluster](https://github.com/bitwalker/libcluster) - Elixir 应用程序的自动集群形成/修复.（[Docs](https://hexdocs.pm/libcluster/readme.html)).
 * [nodefinder](https://github.com/okeuday/nodefinder) - Erlang 中自动节点发现的策略.
-* [nomad](https://github.com/sashaafm/nomad)  - 创建云便携 Elixir 和 Phoenix 应用程序. 一次编写，随处使用！
+* [nomad](https://github.com/sashaafm/nomad)  - 创建云便携 Elixir 和 Phoenix 应用程序. 一次编写，到处使用！
 * [sidejob](https://github.com/basho/sidejob) - Erlang 的并行工作者和容量限制库.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask 是 Task.Supervisor 的替代方案，使用 Basho 的具有并行性和容量限制的 sidejob 库.
 * [skycluster](https://github.com/Nebo15/skycluster)  - Elixir/Erlang 应用程序的自动 Erlang 集群形成、消息传递和管理. 与 Kubernetes 集成.
@@ -488,7 +488,7 @@
 ## Email
 *使用电子邮件和其他东西.*
 
-* [bamboo](https://github.com/thoughtbot/bamboo)  - 可组合、可测试和基于适配器的电子邮件库. 开箱即用的支持使用 Phoenix 进行渲染，以及用于在 dev 中预览已发送电子邮件的插件.
+* [bamboo](https://github.com/thoughtbot/bamboo)  - 可组合、可测试和基于适配器的电子邮件库. 开箱即用支持使用 Phoenix 进行渲染，以及用于在 dev 中预览已发送电子邮件的插件.
 * [burnex](https://github.com/Betree/burnex) - 刻录机电子邮件（临时地址）检测器.
 * [echo](https://github.com/zmoshansky/echo)  - 元通知系统；  Echo 检查通知首选项并发送通知.
 * [ex_postmark](https://github.com/KamilLelonek/ex_postmark) - 用于在 Elixir 中发送模板电子邮件的邮戳适配器.
@@ -692,7 +692,7 @@
 ## Frameworks
 *Web 开发框架.*
 
-* [exelli](https://github.com/pigmej/exelli) - 一个 Elli Elixir 包装器，带有一些糖语法好东西.
+* [exelli](https://github.com/pigmej/exelli) - 带有一些糖语法好东西的 Elli Elixir 包装器.
 * [kitto](https://github.com/kittoframework/kitto) - 交互式仪表板的框架.
 * [n2o](https://github.com/synrc/n2o) - 分布式应用服务器.
 * [nitro](https://github.com/synrc/nitro) - 与氮兼容的 Web 框架.
@@ -859,7 +859,7 @@
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx 但带有地图.
 * [jwalk](https://github.com/jr0senblum/jwalk) - 用于处理 JSON 的 Erlang 表示的辅助模块.
 * [jwtex](https://github.com/mschae/jwtex) - 一个编码和解码的库 [JWT tokens](http://jwt.io/).
-* [poison](https://github.com/devinus/poison) - Poison 是 Elixir 的新 JSON 库，专注于极快的速度，而不牺牲简单性、完整性或正确性.
+* [poison](https://github.com/devinus/poison) - Poison 是 Elixir 的新 JSON 库，专注于极快的速度，同时不牺牲简单性、完整性或正确性.
 * [tiny](https://github.com/whitfin/tiny) - 用于 Elixir 的小巧、快速且完全兼容的 JSON 解析器.
 * [world_json](https://github.com/camshaft/world_json_ex) - 用于 elixir/erlang 的 topojson 国家和州/省集合.
 
@@ -1728,6 +1728,7 @@
 * [ilexir](https://github.com/dm1try/ilexir) - Neovim 中 Elixir 的类似 IDE 的东西.
 * [intellij_elixir](https://github.com/KronicDeth/intellij_elixir) - intellj-elixir 的 Elixir 助手，JetBrains IDE 的 Elixir 插件.
 * [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - 适用于 IntelliJ IDEA、RubyMine、WebStorm、PhpStorm、PyCharm、AppCode、Android Studio、0xDBE 的 Elixir.
+* [mix.nvim](https://github.com/brendalf/mix.nvim) - Neovim 的混合包装插件.
 * [Notepad++](https://github.com/Hades32/elixir-udl-npp) - Notepad++ 的 Elixir 语法高亮显示.
 * [Nova Elixir](https://github.com/stollcri/elixir.novaextension) - Nova 中 Elixir 文件（.ex、.exs、.eex）的语法突出显示和代码完成.
 * [nvim](https://github.com/dm1try/nvim) - Neovim 主机，用于在 Elixir 中编写插件.

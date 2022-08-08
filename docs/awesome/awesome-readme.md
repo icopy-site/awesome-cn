@@ -56,7 +56,7 @@
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目标志、现场演示链接、关键功能的 GIF 动画、TL;DR 用法.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  - 带有演示 GIF 的项目功能的清晰概述. 徽章. 可扩展目录. 使用说明和示例. 贡献指南. 详细发布.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  - GIF 演示. 带有屏幕截图的简单安装和设置部分. 建立徽章. 用例的好例子.
+- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  - 清洁项目标志. 顶部简要说明. 桑基图、快速链接、徽章、操作系统特定图标、目录、详细的发布变更日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  - 项目标志. 建立徽章. 多种编程语言的文档结构. 用法示例.
 - [shama/gaze](https://github.com/shama/gaze#readme)  - 项目标志. 简洁的描述. 功能列表. 使用部分. 常问问题. 很棒的 AP​​I 文档. 发布历史.
@@ -77,11 +77,11 @@
 ## Articles
 
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/hackergrrl/art-of-readme#readme) - *斯蒂芬·惠特莫尔*
-- ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - * 叶戈尔·布加延科 *
+- ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *叶戈尔·布加延科*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *迦勒汤普森（思想机器人）*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *汤姆普雷斯顿 - 沃纳*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *亚当斯塔科维亚克*
-- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) -*崔奎宇*
+- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *崔奎宇*
 
 ## Tools
 
@@ -97,6 +97,7 @@
 - [READMINE](https://github.com/mhucka/readmine)  - 用于软件项目的全面、清晰和自我描述的 README 文件模板； 复制它并根据需要进行编辑.
 - [StackEdit](https://stackedit.io/) - 一个用户友好的在线编辑器，可让您快速自定义项目自述文件所需的所有部分.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme)  - 一个标准的 README 风格规范. 也有一个生成器来帮助创建符合规范的自述文件.
+- [user-statistician](https://github.com/cicirello/user-statistician) - 一个 GitHub 操作，为配置文件自述文件生成详细的 GitHub 用户活动的 SVG. 
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - 简单的模板可帮助您涵盖所有基础知识.
 
 ## Creating GIFs
@@ -105,7 +106,7 @@
 
 - [Gifox](https://gifox.io) - **14.99 美元** - 干净的 UI、热键、许多高级功能.
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) - **免费** - 比其他颜色更鲜艳，但仍然保持较小的尺寸.
-- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
+- [Giphy Capture](https://giphy.com/apps/giphycapture) - **免费** - 易于上传到 giphy.com，用户体验稍显烦人.
 - [LICEcap](https://www.cockos.com/licecap/) - **免费** - 不那么直观，功能更多.
 - [Peek](https://github.com/phw/peek#readme) - **免费** - Linux 用户简单易用.
 - [Recordit](https://recordit.co/) - **免费** - 简单、干净的 UI，但会自动上传到 Recordit.

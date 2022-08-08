@@ -19,8 +19,16 @@
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com 致力于跟踪 REST API 最佳实践并提供资源，以便为开发人员提供快速参考和自我教育.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - 作为设计原则，Microsoft REST API 指南鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - 关于 REST API 安全的最佳实践
+
+### Guidelines
+
+* [Adidas REST API Guidelines](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - 阿迪达斯 REST API 指南定义了阿迪达斯构建 REST API 的标准和指南.
+* [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - 本文档为正在为 Atlassian 应用程序设计 REST API 的 Atlassian 开发人员提供指南.
+* [Cisco REST API Guide](https://github.com/CiscoDevNet/api-design-guide) - 思科设计 REST API 的指南.
+* [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Google 在设计 Cloud API 和其他 Google API（REST API 和 gRPC API）时遵循的准则.
+* [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - 由 Haufe-Lexware CTO 团队创建的指南.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - 作为设计原则，Microsoft REST API 指南鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
 * [Restful API Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines) - 开发 Restful API：一套全面的指南.
 
 ## Standards
@@ -69,6 +77,10 @@
 * [gopencils](https://github.com/bndr/gopencils) - 小而简单的包，可轻松使用 REST API.
 * [resty](https://github.com/go-resty/resty) - 受 Ruby rest-client 启发的用于 Go 的简单 HTTP 和 REST 客户端.
 
+### Generators
+
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI 生成器允许根据 OpenAPI 规范（v2、v3）自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置.
+
 ## Servers
 
 ### Directly On Top Of A RMDB
@@ -88,7 +100,7 @@
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务 Web 框架，可让您通过 RESTful 资源、套接字和灵活的插件来控制您的数据.
 * [Expressa](https://github.com/thomas4019/expressa) - 使用简单的管理编辑器和权限模型从 JSON 模式创建 API 的快速中间件.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 基于支持关系数据的猫鼬模型生成 RESTful API.
-* [Nestjsx/crud](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+* [Nestjsx/crud](https://github.com/nestjsx/crud) - 使用 NestJS 和 TypeORM 为 RESTful API 生成 CRUD 控制器和服务.
 
 ### PHP
 
@@ -218,7 +230,7 @@
 * [API Umbrella](https://github.com/NREL/api-umbrella) - 用于公开 Web 服务的 API 管理平台，带有 Web 界面和分析，用 Lua 编写.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - 具有轻量级网关和 API 生命周期管理的 API 管理工具，用 Java 编写.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) - 基于 ExpressJS (Node.js) 构建的微服务 API 网关.
-* [KrakenD](https://github.com/devopsfaith/krakend) 带有中间件的超高性能 API 网关. 用围棋写的.
+* [KrakenD](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
 
 ## SaaS Tools
 
