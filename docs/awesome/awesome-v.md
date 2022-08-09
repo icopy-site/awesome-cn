@@ -21,6 +21,7 @@
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在 V.
 - [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
+- [Stas](https://github.com/l1mey112/stas) - 一种奇怪的基于堆栈的编程语言，用 V 编写，旨在学习编译器的来龙去脉. 
 
 
 ### Operating systems/Kernels
@@ -56,11 +57,11 @@
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - 经典的桨板游戏通过 V 的力量恢复生机.
 - [minesweeper](https://github.com/ali-furkan/minesweeper-v) - 一个用 vlang 编写的简单扫雷游戏.
 - [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的 flappy 学习演示（已存档）
-- [Kurarin](https://github.com/FireRedz/kurarin)  - 奥苏！ 用V制作的beatmap可视化器. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
+- [Kurarin](https://github.com/FireRedz/kurarin)  - 奥苏！ 用 V 制作的节拍图可视化工具. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 
 ### Command-line
 
-- [HN-top](https://github.com/BafS/hn-top) - 列出来自hacker-news 的最新消息的简单命令.
+- [HN-top](https://github.com/BafS/hn-top) - 一个简单的命令来列出来自hacker-news 的最新消息.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，生成 v 源文件到 AST json 文件.
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
@@ -85,7 +86,7 @@
 ### Command line interface (CLI) / Terminal / Shell
 
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！
-- [lol](https://github.com/0xLeif/lol) - Lolcat 的 V 版（文本/字符彩虹生成器）.
+- [lol](https://github.com/0xLeif/lol) - Lolcat 的 V 版本（文本/字符彩虹生成器）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [termtable](https://github.com/serkonda7/termtable) - V Terminal Tables：简单且高度可定制的库，用于在终端中显示表格.
 - [vargs](https://github.com/nedpals/vargs)  - V 库，用于从类似 argv 的数组中解析参数.  （存档）
@@ -121,7 +122,7 @@
 ### Web
 
 - [vex](https://github.com/nedpals/vex) - 受 Express 和 Sinatra 启发，基于 V 编写的 Web 框架.
-- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  - V 的内置 web 框架. 被沃鲁姆使用.
+- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  - V 的内置网络框架. 被沃鲁姆使用.
 - [validate](https://github.com/endeveit/v-validate) - 一个简单的库来验证 V 中的字符串.
 - [valval](https://github.com/taojy123/valval) - 用 V 编写的 Web 框架，由 vweb 改进.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - 在 V 上编写的基本 JSON-RPC 2.0 兼容服务器.
@@ -146,7 +147,7 @@
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  - 用于与操作系统剪贴板交互的 V 模块. 完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - 一个易于使用的剪贴板包装器，支持 Wayland 和 Termux.
-- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供原生 V-lang 支持.
+- [mmap](https://github.com/jdonnerstag/vlang-mmap) - 为 Linux 和 Windows 上的内存映射提供本机 V-lang 支持.
 
 ### Networking
 
@@ -159,7 +160,7 @@
 
 ### Automation
 
-- [vrobot](https://github.com/eioo/vrobot) - Desktop automation for V. Only supports Windows.
+- [vrobot](https://github.com/eioo/vrobot) - V 的桌面自动化.仅支持 Windows.
 
 ### Telegram
 
@@ -177,7 +178,7 @@
 
 ### Files
 
-- [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
+- [v-mime](https://github.com/nedpals/v-mime) - 适用于 V 的 MIME 检测库.
 - [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
 
 ### Eventing
@@ -225,7 +226,7 @@
 
 ### Editor plugins
 
-- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - Vim 的 V 工具，包括自动格式化.
+- [vim-vtools](https://github.com/zakuro9715/vim-vtools) - V tools for Vim, including auto formatting.
 - [sublime-v](https://github.com/onerbs/sublime-v) - V 编程语言的全功能 Sublime Text 3 包.
 
 ### GitHub actions

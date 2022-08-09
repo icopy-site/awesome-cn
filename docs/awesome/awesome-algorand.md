@@ -104,13 +104,14 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [tinyman-py-sdk](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 - [algofi-py-sdk](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 - [beaker](https://github.com/algorand-devrel/beaker)  - 在 Algorand 区块链上开发智能合约的工具. 灵感来自“烧瓶”.
+- [smart-asa](https://github.com/algorandlabs/smart-asa) - 基于 ARC-20 的智能 ASA PyTeal 参考实现.
 
 ### JavaScript & TypeScript
 
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - Algorand JavaScript SDK 和示例.
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 - [algo-builder](https://github.com/scale-it/algo-builder) - 自动开发 Algorand 资产和智能合约的框架.
-- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - 用于 Algo Builder 的 Dapps 模板.
+- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Algo Builder 的 Dapps 模板.
 - [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapp（打字稿）的更简单的 Algo sdk.
 - [perawallet-connect](https://github.com/perawallet/connect) - 用于将 Pera Wallet 集成到 Web 应用程序的 JavaScript SDK.
 
@@ -120,7 +121,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### .NET
 
-- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 创建者 [@RileyGe](https://github.com/RileyGe).
+- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - 由创建的 Algorand .NET SDK [@RileyGe](https://github.com/RileyGe).
 - [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 
@@ -172,7 +173,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
 - [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
-- [irulan](https://irulan.dev/) - 用于部署 + 测试智能合约的 Web 应用程序（[open source! + PRs welcome](https://github.com/ncc/irulan)).
+- [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
 
 ### Nodes and Indexers
 
@@ -240,8 +241,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
-- [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand Realm 的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
-- [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的散装 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
+- [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
+- [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的批量铸币 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand Vanity 地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 编写的 Algorand 虚地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
@@ -263,7 +264,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 &gt; *finalized* ARC 中定义的标准和规范.
 &gt; 所有 ARC 的列表可以在 https://arc.algorand.foundation 上找到
 
-- [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
+- [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.
 - [ARC69](https://github.com/algokittens/arc69) - 在 Algor和 NFT 社区中流行的非官方 Algor和 标准资产参数约定，灵感来自 [Open Sea's metadata st和ards](https://docs.opensea.io/docs/metadata-st和ards) 和 [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).
 
 ## Metrics

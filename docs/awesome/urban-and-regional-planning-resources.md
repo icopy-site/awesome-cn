@@ -32,26 +32,26 @@
 ---
 ### Built Environment
 
-- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于衡量位置效率的全国性地理数据资源. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft 地图正在美国发布全国范围内的开放式建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是用于测量位置效率的全国性地理数据资源. 它包括 90 多个属性，总结了住房密度、土地利用的多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性适用于美国的每个人口普查区块组. 
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内的开放式建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些足迹是使用我们的计算机视觉算法在卫星图像上得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了包括大气、海洋、陆地和洪水数据在内的当前和历史数据，以及四次更新的全球模拟和同化办公室 (GMAO) 天气分析数据和预测日常的.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人身伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google 地球）、CSV（逗号分隔）和 XML.
-- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是气象数据的每小时和半小时值的系列完整集合，以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
+- [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是气象数据的每小时和半小时值的连续完整集合，以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提取长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 人口普查区域级温度数据来自 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国城市供暖负担按人口群体的分布.
 - [MACA](https://climate.northwestknowledge.net/MACA/) - MACA 方法是一种统计降尺度方法，用于消除全球气候模型输出的偏差. 
 - [IPCC Atlas](https://interactive-atlas.ipcc.ch/) - 一种新颖的工具和数据，用于对许多观测和预测的气候变化信息进行灵活的空间和时间分析，支持第一工作组对第六次评估报告的贡献，包括气候影响驱动因素 (CID) 的区域综合.
 - [WUDAPT](https://www.wudapt.org/) - This database intends to make accessible coherent and consistent descriptions and information on form and function of urban morphology relevant to climate & environment studies on a worldwide basis.
-- [LANDSAT Products](https://www.usgs.gov/landsat-missions/landsat-us-analysis-ready-data) - Landsat 美国分析就绪数据 (ARD) 产品始终按照最高科学标准和处理水平进行处理，可直接用于监测和评估景观变化. 
+- [LANDSAT Products](https://www.usgs.gov/landsat-missions/landsat-us-analysis-ready-data) - Landsat US Analysis Ready Data (ARD) 产品始终按照最高科学标准和处理水平进行处理，可直接用于监测和评估景观变化. 
 
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助当地官员、社区领袖和企业了解其社区正在发生的变化. 它是美国详细的人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
 - [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松探索和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 提供者： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
-- [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及与 GIS 兼容的边界文件，从 1790 年到现在以及所有级别的美国人口普查地理，包括州、县、地区和街区.
+- [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及与 GIS 兼容的边界文件，从 1790 年到现在以及各级美国人口普查地理，包括州、县、地区和街区.
 
 ### Education 
 
@@ -68,7 +68,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一组交互式工具和资源，允许用户探索人们从自然中获得的许多好处，通常在美国被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载和作为地图服务. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地清单 (NWI) 是一个公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托基金对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托基金对美国 100 个最大城市的公园准入和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户包括网络地图、应用程序、地图库、本地倡议门户、保护数据和其他资源.
 
@@ -77,15 +77,16 @@
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社会脆弱性程度确定在灾难之前、期间或之后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)  - EJSCREEN 使用地图和报告来呈现三种信息：环境指标、人口统计指标和 EJ 指数. 附加信息： [Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了负担能力的综合视图，包括住房成本和社区层面的交通成本. 由社区技术中心提供.
-- [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供社区层面的家庭住房和交通成本估算以及建筑环境和人口统计数据的构成数据来缩小这一差距.  
+- [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供社区层面的家庭住房和交通成本估计值以及建筑环境和人口统计数据的组成数据来缩小这一差距.  
 - [Opportunity Atlas](https://www.opportunityatlas.org/) - 这些 [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background. 
 - [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 将地理校正的房主贷款公司 (HOLC) 地图分层到美国现代底图上的交互式地图. 这些彩色编码的 HOLC 地图是被称为 *redlining* 的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国下 48 个州的主要都市区（1935-1940）.
+- [Justice40](https://screeningtool.geoplatform.gov/en/methodology)  - 该工具的目的是帮助联邦机构识别被边缘化、服务不足和污染负担过重的弱势社区. 在人口普查区域级别结合八类标准的多个数据源. 
 
 ### Health
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们生活、学习、工作和娱乐的地点如何影响健康.
 - [HealthData.gov](https://healthdata.gov/) - 该网站致力于让企业家、研究人员和政策制定者更容易获得美国的高价值健康数据，以期为所有人带来更好的健康结果.  
-- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和司法管辖区无论人口规模和城乡状况如何，都能更好地了解其所在地区健康相关结果的负担和地理分布，并协助他们规划公共卫生干预措施.
+- [CDC Places](https://www.cdc.gov/places/index.html) - CDC 的合作使地方卫生部门和辖区无论人口规模和城乡状况如何，都可以更好地了解其所在地区健康相关结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 - [USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) - 对 2010-2015 年期间美国大多数人口普查区的出生时预期寿命（一个人可以预期的平均寿命）的估计.
 - [WHO Data](https://www.who.int/data) - 世界卫生组织 (WHO) 的健康数据集，其中包含有关健康指标和相关数据的国际数据集. 
 
@@ -96,15 +97,15 @@
 
 ### Land Use and Land Cover
 
-- [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - 国家土地覆盖数据库是与多分辨率土地特征联盟 (MRLC) 合作生成的，该联盟是联邦机构的合作伙伴，旨在为美国所有 50 个州和波多黎各生产当前的、全国一致的土地覆盖产品. 
+- [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - 国家土地覆盖数据库是与多分辨率土地特征联盟 (MRLC) 合作生成的，MRLC 是联邦机构的合作伙伴，旨在为美国所有 50 个州和波多黎各生产当前的、全国一致的土地覆盖产品. 
 - [Corine Land Cover](https://land.copernicus.eu/pan-european/corine-land-cover) - 由土地监测核心服务 (LMCS) 生成的欧洲土地覆盖数据库 [Copernicus](https://land.copernicus.eu/)，欧洲地球观测旗舰计划. 
 
 ### OpenStreetMap
 
-- [OpenStreetMap](https://www.openstreetmap.org/)  - OpenStreetMap 是免费的 wiki 世界地图. 这个合作项目是世界上最大的志愿地理信息数据库之一. 其内容包括兴趣点、可路由网络和其他地理数据. 
+- [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata. 
 - [BBBike](https://download.bbbike.org/osm/bbbike/)  - 为世界各地的城市提供 shapefile 和原始 OSM 格式，每周提取一次. 如果您正在寻找单个城市的数据提取，这很有用.
 - [Geofabrik](http://download.geofabrik.de/) - 以 PBF 或 shapefile 格式准备的 OpenStreetMap 提取，以供每日下载.  
-- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM 提取物都会反映整个 OpenStreetMap 星球，并创建城市和区域大小的提取物，以供下载为可用于 GIS 的格式. 
+- [MetroExtracts](https://www.interline.io/osm/extracts/) - 每天，Interline 的 OSM 提取物都会反映整个 OpenStreetMap 星球，并创建城市和地区大小的提取物，以供下载为可用于 GIS 的格式. 
 - [Overpass Turbo](https://overpass-turbo.eu/)  - Overpass Turbo 是一个基于 Web 的 OpenStreetMap 数据挖掘工具. 它运行任何类型的 Overpass API 查询，在交互式地图上显示结果，并允许用户以 GeoJSON 文件（可以转换为 Shapefile）的形式导出查询数据. 它还以“向导”工具的形式为新用户提供有用的支持. 使用 Overpass Turbo，您可以使用 Open Street Map 中的专用标签查询全球几乎任何位置. 
 - [Humanitarian OpenStreetMap Tools & Data](https://www.hotosm.org/tools-and-data)  - HOT 为 OSM 社区提供了丰富的工具集. 一个特别有用的工具是 [Export Tool](https://export.hotosm.org/en/v3/).
 - [Tasking Manager](https://tasks.hotosm.org/)  - Tasking Manager 是一个平台，任何人都可以在其中学习使用 Open Street Map 并为绘制世界地图不足的区域做出贡献. 这项工作对于发展中国家的备灾和恢复能力至关重要，以便救援人员和社区成员在灾难发生时能够获得准确的地图.
@@ -117,7 +118,7 @@
 ### Resilience and Natural Hazards
 
 - [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理人员和规划人员提供对海平面上升和沿海洪水影响的初步了解.
-- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的全球重大地震记录，以提供地理信息.
+- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是 FEMA 的在线地图应用程序，用于识别最容易受到 18 种自然灾害影响的社区.
 - [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - 该站点在开放的公共领域提供国家基金会级地理空间数据，可用于支持社区准备、弹性、研究等. 
 
@@ -125,9 +126,9 @@
 ### Transportation
 - [Accessibility Observatory](http://access.umn.edu/data/datasets/)  - 作为 Access Across America 系列的一部分，UMN 的无障碍观测站评估了美国主要大都市地区的多种交通可达性模式. 报告每年发布一次，部分数据集可通过明尼苏达大学的数字音乐学院获得.
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据网站上，浏览作为 BTS 国家交通地图集数据库 (NTAD) 产品一部分的地理空间数据.  NTAD 是一套全国性（美国）的交通设施和网络公共空间信息地理数据库； 交通网络上的人员、货物、车辆和工艺的流动； 以及影响或受交通网络影响的社会、经济和环境条件.
-- [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（以及历史人口普查十年一次）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家庭到工作的流量和小型地理区域的基于工作场所的数据.
+- [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（以及历史上每十年一次的人口普查）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家庭到工作的流量和小型地理区域的基于工作场所的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - HPMS 是一个国家级公路信息系统，包括有关国家公路的范围、状况、性能、使用和运营特征的数据.
-- [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，收集来自超过 55 个国家/地区的 2,500 多家公交运营商的 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
+- [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，收集来自超过 55 个国家的 2,500 多家交通运营商的 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪音地图中的数据代表全国特定年份平均每年的潜在噪音水平. 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据的存储库. 
 - [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/)  - 即用型全球街道网络模型和 GIS 格式的计算指标. 附加信息： [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
@@ -150,11 +151,11 @@
 ### Infrastructure
 
 - [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道级图像和 AI 衍生的地图数据. 通过请求新的报道或使用易于使用的移动应用程序捕获您自己的报道来填补空白.
-- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
+- [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用人工智能将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 
 ### Land Use and Land Cover
 
-- [CoreLogic](https://www.corelogic.com/) - 提供高质量的包裹数据，提供对当前县评估员文件的详细财产特征、销售记录、估值和数字副本的即时访问.
+- [CoreLogic](https://www.corelogic.com/) - 提供高质量的包裹数据，提供对详细财产特征、销售记录、估值和当前县评估员文件的数字副本的即时访问.
 - [Regrid](https://regrid.com/) - 为您的地图、应用程序和空间分析提供地块和位置上下文数据的领先提供商.
 - [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用人工智能将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑足迹. 
@@ -165,12 +166,12 @@
 
 ### Urban Observation
 
-- [Numina](https://numina.co/)  - 利用边缘计算设备测量各种路边活动.  Numina 匿名和汇总地提供街道上的旅行者和物体的体积计数、路径和交通行为.
+- [Numina](https://numina.co/)  - 利用边缘计算设备测量各种路边活动.  Numina 匿名和汇总地提供街道上的旅行者和物体的数量、路径和交通行为.
 - [Transoft](https://safety.transoftsolutions.com/)  - Transfoft ITS 安全解决方案利用计算机视觉来识别街道上的“未遂”行为. 这项技术在《规划》杂志上发表 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥挤、更可持续和更公平. 
 - [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠且快速的方式量化建筑环境中发生的事件. 
 - [Vade](https://www.vadepark.com/) - 使用定制的物联网摄像头和计算机视觉，通过基于 Web 的 API 轻松查询实时停车可用性. 
-- [StreetSimplified](https://www.streetsimplified.com/) - 部署利用计算机视觉的临时摄像头来检查各种交通行为，例如超速、交叉规则合规和闯红灯.  
+- [StreetSimplified](https://www.streetsimplified.com/) - 部署利用计算机视觉的临时摄像头来检查各种交通行为，如超速、交叉规则合规和闯红灯.  
 
 ### Travel Behavior
 
@@ -207,7 +208,7 @@
 - [GTFS](https://developers.google.com/transit/gtfs) - 通用运输供给规范是描述运输系统的流行标准.
 - [NeTEx](https://netex-cen.eu/) - 网络时间表交换是一种欧洲标准，用于交换用于描述交通系统的标准化时间表和其他系统特征. 
 - [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - 该标准为用户提供实时的公交数据更新，极大地提升了用户的公交服务体验. 
-- [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但将与符合欧洲标准的硬件和网络系统兼容.
+- [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但与符合欧洲标准的硬件和网络系统兼容.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [GBFS](https://github.com/NABSA/gbfs) - 通用共享单车馈送规范是共享移动系统可用性的标准化数据馈送.
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，用于实现移动公司和地方政府之间的通信.
@@ -227,12 +228,12 @@ Python 库和相关资源.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，既可以交互运行，也可以使用脚本运行. 该库可以在 ArcGIS 平台中轻松使用 pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
-- [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
+- [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划人员计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供者：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个建立城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供者：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
-- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取自行车共享数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
-- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
+- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一组 Python 函数，用于从 OpenStreetMap 数据中绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic 是一个 Python 包，它使用 HERE 提供的 API 抓取您喜欢的路线、城市的交通流量数据.
@@ -255,8 +256,8 @@ R 包和相关资源.
 - [ggplot2](https://ggplot2.tidyverse.org/)  - 用于绘制大量数据的资源（用于可视化调查数据）. 附加信息：GNU 通用公共许可证.
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - 文本挖掘的首选库——通常与 ggplot 或其他文本挖掘库一起使用.
 - [leafgl](https://github.com/r-spatial/leafgl) - 用于传单地图的快速 web-gl 渲染的 R 包.
-- [Motif](https://cran.r-project.org/web/packages/motif/index.html)  - 描述任何已定义的规则和不规则区域的分类栅格数据的空间模式. 它可以对空间模式进行空间分析，例如搜索、变化检测和聚类.
-- [Raster](https://cran.r-project.org/web/packages/raster/index.html)  - 空间数据的读取、写入、操作、分析和建模. 该包实现了栅格数据和矢量数据操作（如交叉点）的基本和高级功能. 
+- [Motif](https://cran.r-project.org/web/packages/motif/index.html)  - 描述任何已定义的规则和不规则区域的分类栅格数据的空间模式. 它可以对空间模式执行空间分析，例如搜索、变化检测和聚类.
+- [Raster](https://cran.r-project.org/web/packages/raster/index.html)  - 空间数据的读取、写入、操作、分析和建模. 该包实现了栅格数据和矢量数据操作（例如交叉点）的基本和高级功能. 
 - [Rgee](https://github.com/r-spatial/rgee) - 是一个 R 绑定包，用于从 R 内部调用 Google Earth Engine API.实现了各种功能以简化与 R 空间生态系统的连接.
 - [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - 提供一种整洁的空间网络分析方法. 
 - [Stars](https://cran.r-project.org/web/packages/stars/index.html) - 在“R”中读取、操作、写入和绘制时空数组（光栅和矢量数据立方体）.
@@ -291,7 +292,7 @@ R 包和相关资源.
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和缓解规划的软件、工具和平台. 
 
-- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部森林服务研究.
+- [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供并以透明方式开发. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是促进中小型社区的数据知情适应规划过程，几乎没有资源来规划气候变化影响.
 - [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 分析和优化城市能源系统的工具. 
@@ -314,9 +315,9 @@ R 包和相关资源.
 - [Metroquest](https://metroquest.com/) - 综合社区参与平台，提供调查、游戏和互动地图，让公众参与规划问题. 
 - [PollEverywhere](https://www.polleverywhere.com/) - 提供在多个平台上为交互式参与生成民意调查和问题的能力. 
 - [NJTPA Engage](https://engage.njtpa.org/)  - 300 多种公众参与工具、技术和软件的数据库. 可在多个级别上搜索. 
-- [Ushahidi](https://www.ushahidi.com/) - 开源众包制图工具，旨在通过收集公民意见来授权世界各地的社区解决自己的问题.
+- [Ushahidi](https://www.ushahidi.com/) - 开源众包制图工具，旨在通过收集公民意见使世界各地的社区能够解决自己的问题.
 - [Social Pinpoint](https://www.socialpinpoint.com/) - Social Pinpoint 是一种专有的数字公众参与工具，允许用户通过交互式地图、调查、参与式预算练习和创意墙论坛提供反馈和分享他们的灵感.
-- [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post 是一种专有的文本和基于短信的街头公众参与工具，它使用物理标牌和移动设备来获取市民反馈、改进寻路、推广当地活动和服务，或提供创造性的教育内容.
+- [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post 是一种专有的文本和基于短信的街头公众参与工具，它使用物理标牌和移动设备来获取市民反馈、改进寻路、推广当地活动和服务，或提供创意教育内容.
 - [Maptionnaire](https://www.maptionnaire.com) - 提供基于地图的工具，用于设计问卷、收集调查数据和传达信息. 
 
 ### Urban Design Tools and Platforms
@@ -334,7 +335,7 @@ R 包和相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人士能够发布生活计划并通过支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划，并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精心策划的城市、环境和经济数据，并为他们提供分析能力，以更快、更好、更低成本地规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划者和建模者设计，用于生成长期、小区域社会经济预测，使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
@@ -349,7 +350,7 @@ R 包和相关资源.
 ### Planning Management and Administrative Tools and Platforms
 旨在帮助规划管理和行政的软件、工具和平台. 这包括用于许可、开发审查、数字计划开发和其他计划管理任务的软件. 
 - [Encode Plus](https://www.encodeplus.com/) - 帮助现代化规划和分区条例并简化县或市法规和附则管理的软件.
-- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的许可和办公室内流程的数字政府解决方案（供应商在技术上是公共机构）.
+- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的用于许可和办公室内流程的数字政府解决方案（供应商在技术上是公共机构）.
 - [Digiplan](https://digeplan.com/) - 为完全集成的电子计划审查和接收流程提供软件.
 - [OpenGov](https://opengov.com/products/citizen-services/) - 云解决方案通过用户友好的工作流程为每个许可证、许可证和检查提供支持. 
 
@@ -364,13 +365,13 @@ R 包和相关资源.
 - [AICP Get Certified! Webpage](https://www.planning.org/certification/)  - 美国注册规划师协会 (AICP) 的官方资源库，提供有关资格、注册和准备的详细信息. 还列出了即将到来的 AICP“认证周期”的重要日期.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍 AICP 的考试准备“五步法”，并列出可帮助您在 AICP 考试中取得成功的资源/材料.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员连接到精选的主题相关资源集合——包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个集合都提供资源记录的评论和主题分组，包括书目信息、简短描述和资源本身的链接. 
-- [PlanningPrep](https://www.planningprep.com/)  - 一个免费的基于网络的学习资源，可帮助规划师准备美国认证规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 个练习题和 12 个练习考试.
-- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 汇编的综合学习资料集.  APA 成员还可以向 Henry Bittaker 发送电子邮件，地址为获取由他主持的考试准备和练习题学习课程的录音. 
+- [PlanningPrep](https://www.planningprep.com/)  - 一个免费的基于网络的学习资源，可帮助规划师准备美国认证规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习考试.
+- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 编制的综合学习资料集.  APA 成员还可以向 Henry Bittaker 发送电子邮件，地址为获取由他主持的考试准备和练习题学习课程的录音. 
 
 
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是特定的论文，而是它们的策展人. 
-- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和运输部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
+- [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和运输部门的首席行政官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新的近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题并为决策者提供信息方面享有盛誉.
 - [TFResource](https://tfresource.org/) - 旅行需求预测和旅行调查方法的最佳实践集合.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），和 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
@@ -387,7 +388,7 @@ R 包和相关资源.
 ### Podcasts
 涉及建筑环境或社区的播客. 
 - [Talking Headways](https://streetsblog.libsyn.com/) - Talking Headways 播客是关于交通和城市设计的每周播客.
-- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的被忽视的建筑和设计.
+- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的未被注意的建筑和设计.
 - [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题的采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在财务上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
 - [The Urban Planner's Podcast](https://www.gigitheplanner.com/podcast) - 该播客面向城市规划师、城市规划学生和对城市规划主题感兴趣的人.
@@ -414,9 +415,9 @@ R 包和相关资源.
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区开发，以改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源库，用于开展研究、开发 Web 和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  -Harvard Dataverse 是研究数据的存储库. 它包含各种跨科学的数据集，其中许多具有公共领域的奉献精神. 
-- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包.
+- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，公民技术领域指南的资源集合已由来自全球 100 多个国家/地区的公民技术从业者众包.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新的移动性、自动驾驶汽车、电子商务和其他创新将对城市和社区产生的潜在影响，并对与之相关的各种资源和工具进行分类.
-- [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并提供了如何理解其应用的分类法. 
+- [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并提供了有关如何理解其应用的分类法. 
 - [Digital.Gov](https://digital.gov/) - 关于在政府中建立更好的数字服务的指导和资源.
 
 ---
@@ -424,11 +425,11 @@ R 包和相关资源.
 ## Contributing
 
 ### Form Based Contributions
-如果您没有 GitHub，但您想贡献以下类别的资源，请尝试将信息放在此 Google 表格中. 我们将考虑将其合并到待审核的存储库中. 
+如果您没有 GitHub，但有属于以下类别的资源，您想贡献，请尝试将信息放在此 Google 表格中. 我们将考虑将其合并到待审核的存储库中. 
 https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0zo0ONDdV4w/viewform?usp=sf_link
 
 ### GitHub Contributions
-我们正在积极寻找对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面查看我们推荐的格式. 对于大额贡献，请先提出问题. 以这种方式为 repo 做贡献的好处是，您对该共享资源的添加将被记录下来. 
+我们正在积极寻找对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面查看我们推荐的格式. 对于大额贡献，请先提出问题. 以这种方式为 repo 做出贡献的好处是您对该共享资源的添加将被记录. 
 
 ## License and Citation
 与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0 中. 我们不需要引用，但为了对这个资源产生更多的贡献和理解，我们非常感谢分享这个存储库或在适当的地方引用它. 

@@ -14,7 +14,7 @@
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
-* [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
+* [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​跨多个团队进行大规模 RESTful 集成的经验教训.
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
@@ -39,7 +39,7 @@
 * [OData](http://www.odata.org/)  - 开放协议，允许创建和使用可查询和可互操作的 RESTful API. 相当复杂.
 * [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - 简单的格式，提供了一种一致且简单的方法来在 API 中的资源之间进行超链接（请参阅： [HATEOAS](#hateoas)).
 * [JSON-LD](http://json-ld.org/) - 在 JSON (W3C) 中描述关联数据和超媒体关系的标准.
-* [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的 Web API (W3C) 词汇表.
+* [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的 Web API (W3C) 的词汇.
 * [Schema.org](http://schema.org) - 描述通用数据模型的模式集合.
 * [OpenAPI](https://openapis.org/) - 以前称为 Swagger 规范，OpenAPI 规范是世界上用于定义 Restful API 的最流行的描述格式.
 
@@ -213,6 +213,7 @@
 * [Marvel Comics API](http://developer.marvel.com/) - 查询漫威超级英雄的人物、故事、事件.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - 免费在线 REST 服务，您可以在需要一些虚假数据时使用.
 * [APIs.guru](http://APIs.guru) - Web API 的维基百科，每个 API 都有 OpenAPI/Swagger 描述.
+* [The Cat API](http://theCatAPI.com) - 猫图像、事实和笑话的公共 API.
 
 ## Documentation
 

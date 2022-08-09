@@ -27,6 +27,7 @@
 - [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)  - 了解特异性和继承对于掌握 CSS 很重要. 这篇文章会有所帮助.
 - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - 一篇解释网络布局基础的文章.
   - 还可以查看有关的详细信息 [box-sizing](https://css-tricks.com/box-sizing/) 财产.
+- [Responsive Design](https://web.dev/learn/design/) - 关于响应式设计各个方面的广泛信息，使网站看起来很棒并且适合每个人.
 
 ## CSS units
 
